@@ -4,7 +4,7 @@
 
 > Äntligen fredag och ny musik! Här finns veckans bästa och mest intressanta nya låtar\. Happy New Music Friday!
 
-11,938 songs - 25 day 18 hr 25 min
+11,940 songs - 25 day 18 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2672,6 +2672,7 @@
 | [done](https://open.spotify.com/track/2jwCttDdj70VJcXtzsqZTq) | [Nova Miller](https://open.spotify.com/artist/69iZuswGpLplhnKBE0MxcA) | [done](https://open.spotify.com/album/1eLk6dJLF54FQUE8VxEofl) | 2:17 | 2022-01-20 | 2022-01-28 |
 | [Done \(Let’s Get It\)](https://open.spotify.com/track/2aiZVh8PAgIVy3wNlsQnhD) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Done \(Let's Get It\)](https://open.spotify.com/album/1qVKptza3e1owyE8IzvTUO) | 2:52 | 2023-02-23 | 2023-03-03 |
 | [Donner](https://open.spotify.com/track/1NRw64qKDSjn1ctlaAaglE) | [Microbe](https://open.spotify.com/artist/6h4GwTbvvSfrcx3jWz5scR), [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK) | [Lever de rideau](https://open.spotify.com/album/3fz71BGWaU0jnKFofgGkeN) | 2:17 | 2023-10-19 | 2023-11-11 |
+| [dont let me go](https://open.spotify.com/track/2qvGI2uUNgNheWnfxQr25W) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [dont let me go](https://open.spotify.com/album/6VA6WgquH5zBIfIDz5IMKb) | 2:53 | 2024-02-15 |  |
 | [dont make me wait](https://open.spotify.com/track/4nU5QRHosclTgx65DkDPoN) | [heartaake](https://open.spotify.com/artist/57vkczkmC48439UWdL7oJa) | [dont make me wait](https://open.spotify.com/album/7pN0DwbMPYJa1M7G3D4QO3) | 2:25 | 2023-03-09 | 2023-03-18 |
 | [don’t call me pretty](https://open.spotify.com/track/6XV4GwRq92E9N3MmXxuxLy) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [don’t call me pretty](https://open.spotify.com/album/02EVktWJJ2yuJs2Q1eqiSB) | 3:01 | 2023-05-04 | 2023-05-12 |
 | [don’t fight it](https://open.spotify.com/track/3TIY1blc7CWz9EeEaBaC0C) | [miri tesfazion](https://open.spotify.com/artist/3kiR22xtPU35m0cFr4XuHT) | [don’t fight it](https://open.spotify.com/album/6PEvofJdqv58dzZUXjvYND) | 3:17 | 2023-06-29 | 2023-07-07 |
@@ -7791,7 +7792,8 @@
 | [Op Shop Lover](https://open.spotify.com/track/1zXLuKyLq6GW4aueTHs3Bq) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Op Shop Lover](https://open.spotify.com/album/6496vgr7i2H5ENZ7noLwFP) | 2:30 | 2023-09-28 | 2023-10-06 |
 | [OPEN A WINDOW \(feat\. Tyler, The Creator\)](https://open.spotify.com/track/0YpaoMOUSP3jwZ4RgqNESG) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [OPEN A WINDOW \(feat\. Tyler, The Creator\)](https://open.spotify.com/album/48jLx1BQeDpojpNweMzlMf) | 3:38 | 2022-03-10 | 2022-03-18 |
 | [Open Arms \(feat\. Travis Scott\)](https://open.spotify.com/track/0xaFw2zDYf1rIJWl2dXiSF) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:59 | 2022-12-08 | 2022-12-16 |
-| [Open My Heart](https://open.spotify.com/track/1Tk13lYcRGCnE05e53GTbm) | [NSH](https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS) | [Open My Heart](https://open.spotify.com/album/2u3djXi2f4WrUdAA7YyqqL) | 2:32 | 2024-02-15 |  |
+| [Open My Heart](https://open.spotify.com/track/1Tk13lYcRGCnE05e53GTbm) | [NSH](https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS) | [Open My Heart](https://open.spotify.com/album/2u3djXi2f4WrUdAA7YyqqL) | 2:32 | 2024-02-15 | 2024-02-22 |
+| [Open My Heart](https://open.spotify.com/track/1UYUaNHBNQ50yqE7rVDKbR) | [NSH](https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS) | [Open My Heart](https://open.spotify.com/album/2roZPo8hVTI8dpjOe4aS1T) | 2:32 | 2024-02-15 |  |
 | [Open Road](https://open.spotify.com/track/76XfhJUwsSxG7VTI7zbRXW) | [HAYES](https://open.spotify.com/artist/60Vo6QqGGmDzr6ZiwqNxxP), [NorthKid](https://open.spotify.com/artist/1UiHzhfvDyILfUKDmKSdhx) | [Open Road](https://open.spotify.com/album/7fw6aXUfHhaACKLYJN2I91) | 2:54 | 2022-03-31 | 2022-04-08 |
 | [Open Tune \- Neo Redux](https://open.spotify.com/track/3QErooPSR5iYtgqQSt6Cmg) | [Yemi](https://open.spotify.com/artist/7858BL0tn4bW1cwHayYe9K) | [Open Tune](https://open.spotify.com/album/0diGxZXdgsjnWofTqHKtRh) | 2:13 | 2022-06-09 | 2022-06-17 |
 | [Open Your Heart](https://open.spotify.com/track/0kescuG0fWr8IMuOtrDdqw) | [Andrea Hamilton](https://open.spotify.com/artist/6KHaRRRqsIRnkLcApkyELs), [Joan Ember](https://open.spotify.com/artist/5IZxm0JPsdsVgA1GiYRXRs) | [Open Your Heart](https://open.spotify.com/album/7dhYCl6uU9zN8QJTj1LoeM) | 3:05 | 2022-01-06 | 2022-01-14 |

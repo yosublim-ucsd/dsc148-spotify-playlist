@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YipRSmIneQ.md) - [plain]
 
 > 😈 turn anywhere into a sexy club 😈
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,889 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,936 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YipRSmIneQ.md) - [plain]
 | 31 | [Sweat \- SOPHIE Remix](https://open.spotify.com/track/1CUCnTJVZy68TS34DX6kCx) | [SONIKKU](https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9), [LIZ](https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [Joyful Death](https://open.spotify.com/album/37RBUO05YPPvrIHcEst8Kg) | 4:18 |
 | 32 | [Guud Gurls](https://open.spotify.com/track/6yTAycvx2hDqGYerNaphfI) | [Breaking Beattz](https://open.spotify.com/artist/0eRxVzLBxZGMZcsSoMESfX), [Kzn](https://open.spotify.com/artist/0RycZwNOoEzo6mh88IKFQW) | [Hott Boyz](https://open.spotify.com/album/1Um9iDs4Iicg0mwa67yqDV) | 3:10 |
 | 33 | [Horsey](https://open.spotify.com/track/6QK2oI4RCtxzCWzyffwlPP) | [Alex Chapman](https://open.spotify.com/artist/3c8wfedCs5BJGHcFyusyeh), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Horsey](https://open.spotify.com/album/7dlCLHgCNz5vyliNZf8XNv) | 2:17 |
-| 34 | [Cunty \- Wave Edit](https://open.spotify.com/track/5Dy9iOGAYzppHgWcLzZSBe) | [Kevin Aviance](https://open.spotify.com/artist/1tPCPj6UWSQ3VSQ8xwZ4ZJ) | [Box of Chocolates](https://open.spotify.com/album/1iIC7QKwsTtWNRV7NxfrK5) | 4:17 |
-| 35 | [Boy U Nasty](https://open.spotify.com/track/4aVEsdnZrP2borAsVin48m) | [Jensen Interceptor](https://open.spotify.com/artist/30eE9RmXxzCcZKTf4N2O0e), [DJ Fuckoff](https://open.spotify.com/artist/47fPXXrqnkQcaQ951UA3cm) | [Dance Trax, Vol\. 36](https://open.spotify.com/album/3PanJjGGUoTU6PH9y3S1PT) | 5:32 |
+| 34 | [Boy U Nasty](https://open.spotify.com/track/4aVEsdnZrP2borAsVin48m) | [Jensen Interceptor](https://open.spotify.com/artist/30eE9RmXxzCcZKTf4N2O0e), [DJ Fuckoff](https://open.spotify.com/artist/47fPXXrqnkQcaQ951UA3cm) | [Dance Trax, Vol\. 36](https://open.spotify.com/album/3PanJjGGUoTU6PH9y3S1PT) | 5:32 |
+| 35 | [Cunty \- Wave Edit](https://open.spotify.com/track/5Dy9iOGAYzppHgWcLzZSBe) | [Kevin Aviance](https://open.spotify.com/artist/1tPCPj6UWSQ3VSQ8xwZ4ZJ) | [Box of Chocolates](https://open.spotify.com/album/1iIC7QKwsTtWNRV7NxfrK5) | 4:17 |
 | 36 | [h4msterb0y](https://open.spotify.com/track/52eXUalvQnezqTPhqzkbbV) | [Virgin Miri](https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm) | [h4msterb0y](https://open.spotify.com/album/0L8iijCEhXwOddl3vU1UFR) | 2:48 |
 | 37 | [Sick Bitch](https://open.spotify.com/track/7FfPZEeRpDjisWER6xohdV) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [Sick Bitch](https://open.spotify.com/album/05DFlfUTOkmIKQJVtAD6ZC) | 4:19 |
 | 38 | [Comme Des Garçons \(Like The Boys\) \- Pabllo Vittar x Brabo Remix](https://open.spotify.com/track/5fMV4SvvtVNtVWar5qYgOl) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Brabo](https://open.spotify.com/artist/5K5J6RbtOXM5E39QQLhNKT) | [Comme Des Garçons \(Like The Boys\) \[Pabllo Vittar x Brabo Remix\]](https://open.spotify.com/album/0ED2oqDlTgP1bJgFSPaWwn) | 3:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YipRSmIneQ.md) - [plain]
 | 49 | [Grab Dat Ass All Night](https://open.spotify.com/track/6SKDs0q95ZpmiVot0UYPVC) | [Kiddy.Wav](https://open.spotify.com/artist/4a0aeeAMBaJthFkE2A5QBW), [YTP](https://open.spotify.com/artist/1Y7DmQJicuaVo1OeQOWn6S) | [Level up My Skills](https://open.spotify.com/album/3hO7708tej9BhxYRzcsj4x) | 4:29 |
 | 50 | [Bunny Is A Rider \- Doss Remix](https://open.spotify.com/track/2F869Vx93KD4Mtfnn1nOqH) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Bunny Is A Rider \(Remix\)](https://open.spotify.com/album/2cWjOKPkOxBKrkWeDyuHua) | 3:57 |
 
-Snapshot ID: `MCxmNjUzNmI4NzI5Y2NjYTM0YTUxNThiNDg0NGQ5MWMzYjI5ZjY1YmI5`
+Snapshot ID: `MCw0MGU2MmI0NjRiNDQ4ZmFmYmMyNTgxYmQzOGE0MWIxMzA1YTMxZjBh`

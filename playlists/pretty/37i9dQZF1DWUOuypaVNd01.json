@@ -1,12 +1,12 @@
 {
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Nebrugg",
-  "num_followers": 36468,
+  "num_followers": 36487,
   "original_name": "Malandro Posturado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZmRkMzllZDg0ZTA5MGMxNWNlZjJiYzZlYTBhZjBhNTY5ZjRjNzk3",
+  "snapshot_id": "MCw4MGJmNTVjYTg3NTkxNTA0YzhjYTVhNThkNjcxZGNhNWUyYTQ4MDQ1",
   "tracks": [
     {
       "added_at": "2024-02-16 03:01:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-02-16 03:01:00",
       "album": {
-        "name": "The King Of Drill \"TKOD\"",
-        "url": "https://open.spotify.com/album/21sJbIsra7VRrVy9bdSS8z"
-      },
-      "artists": [
-        {
-          "name": "Nebrugg",
-          "url": "https://open.spotify.com/artist/2UD8upUvL1eqllSlMpDIeC"
-        }
-      ],
-      "duration_ms": 147003,
-      "name": "Zona Leste",
-      "url": "https://open.spotify.com/track/6tnn3cneF7iQ1byrQ9kixp"
-    },
-    {
-      "added_at": "2024-02-16 03:01:00",
-      "album": {
         "name": "Picaretas de Fachada: Summer Hits",
         "url": "https://open.spotify.com/album/6brpKTMNNrLpy9IvijBcwu"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 156401,
       "name": "Na Casa do Andr\u00e9",
       "url": "https://open.spotify.com/track/08M4Dxthv2pkRdshkvLAoN"
+    },
+    {
+      "added_at": "2024-02-16 03:01:00",
+      "album": {
+        "name": "The King Of Drill \"TKOD\"",
+        "url": "https://open.spotify.com/album/21sJbIsra7VRrVy9bdSS8z"
+      },
+      "artists": [
+        {
+          "name": "Nebrugg",
+          "url": "https://open.spotify.com/artist/2UD8upUvL1eqllSlMpDIeC"
+        }
+      ],
+      "duration_ms": 147003,
+      "name": "Zona Leste",
+      "url": "https://open.spotify.com/track/6tnn3cneF7iQ1byrQ9kixp"
     },
     {
       "added_at": "2024-02-16 03:01:00",
@@ -819,6 +819,34 @@
     {
       "added_at": "2024-02-16 03:01:00",
       "album": {
+        "name": "Picaretas de Fachada: Summer Hits",
+        "url": "https://open.spotify.com/album/6brpKTMNNrLpy9IvijBcwu"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Miquelotti",
+          "url": "https://open.spotify.com/artist/7DWlmonBAqM6AoN0m0lr54"
+        },
+        {
+          "name": "P.L.K",
+          "url": "https://open.spotify.com/artist/58kMq5JI6LVKrZaWlZglKf"
+        },
+        {
+          "name": "Ruas Mc",
+          "url": "https://open.spotify.com/artist/2GPQXYOzl0FJqKbkBL7Se5"
+        },
+        {
+          "name": "Febem",
+          "url": "https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N"
+        }
+      ],
+      "duration_ms": 215962,
+      "name": "Corpo S\u00e3o Mente Muito",
+      "url": "https://open.spotify.com/track/66XaDTshTk8weMHTH7MV2G"
+    },
+    {
+      "added_at": "2024-02-16 03:01:00",
+      "album": {
         "name": "Ainda \u00c9 o Rap dos Novos Bandidos",
         "url": "https://open.spotify.com/album/1lO0DvPgCpUjgRj4Nh7cFy"
       },
@@ -851,34 +879,6 @@
       "duration_ms": 123802,
       "name": "Hip Hop Rare",
       "url": "https://open.spotify.com/track/1a2H78ZsONNYxfv9EuODnR"
-    },
-    {
-      "added_at": "2024-02-16 03:01:00",
-      "album": {
-        "name": "Picaretas de Fachada: Summer Hits",
-        "url": "https://open.spotify.com/album/6brpKTMNNrLpy9IvijBcwu"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 Miquelotti",
-          "url": "https://open.spotify.com/artist/7DWlmonBAqM6AoN0m0lr54"
-        },
-        {
-          "name": "P.L.K",
-          "url": "https://open.spotify.com/artist/58kMq5JI6LVKrZaWlZglKf"
-        },
-        {
-          "name": "Ruas Mc",
-          "url": "https://open.spotify.com/artist/2GPQXYOzl0FJqKbkBL7Se5"
-        },
-        {
-          "name": "Febem",
-          "url": "https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N"
-        }
-      ],
-      "duration_ms": 215962,
-      "name": "Corpo S\u00e3o Mente Muito",
-      "url": "https://open.spotify.com/track/66XaDTshTk8weMHTH7MV2G"
     },
     {
       "added_at": "2024-02-16 03:01:00",

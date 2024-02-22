@@ -8124,10 +8124,28 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 168063,
       "name": "R&B",
       "url": "https://open.spotify.com/track/3nJFqIDFcku1zLfbC2Lrgi"
+    },
+    {
+      "album": {
+        "name": "R&B",
+        "url": "https://open.spotify.com/album/1fr1VcE4Jo3WoaUcOi7chU"
+      },
+      "artists": [
+        {
+          "name": "English Teacher",
+          "url": "https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168063,
+      "name": "R&B",
+      "url": "https://open.spotify.com/track/6yRsDLeo8qszcOS2u11ZDn"
     },
     {
       "album": {

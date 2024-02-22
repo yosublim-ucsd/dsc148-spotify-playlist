@@ -1,12 +1,12 @@
 {
   "description": "\u611c\u610f\u653e\u9b06\uff0c\u4f7f\u81ea\u5df1\u6c89\u6d78\u5728\u9019\u4e9b\u52d5\u4eba\u800c\u512a\u7f8e\u7684\u92fc\u7434\u66f2\u4e4b\u4e2d\u3002",
-  "num_followers": 66977,
+  "num_followers": 66989,
   "original_name": "\u5b89\u5be7\u92fc\u7434\u8072",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZWEwNWJiYjdmZTRkZWQ2MGYwMmU1OGEzZjgzYjgxM2EyZjE0MjQz",
+  "snapshot_id": "MCwwZGM0YzA5OGE1MDQ1NzVmZDQ2M2Q2OWQ0ZTlkNjQxM2Y3MDA2ODI0",
   "tracks": [
     {
       "added_at": "2024-02-12 08:42:03",
@@ -251,22 +251,6 @@
     {
       "added_at": "2024-02-12 08:42:03",
       "album": {
-        "name": "My Foolishness",
-        "url": "https://open.spotify.com/album/6mC8hIINbPUwWGep08m1tZ"
-      },
-      "artists": [
-        {
-          "name": "Franck Byrne",
-          "url": "https://open.spotify.com/artist/7aRioiKpZ6nRpUIy5QgiDq"
-        }
-      ],
-      "duration_ms": 166187,
-      "name": "My Foolishness",
-      "url": "https://open.spotify.com/track/6igxnFJ8a6dkNxYgVVmKhe"
-    },
-    {
-      "added_at": "2024-02-12 08:42:03",
-      "album": {
         "name": "Piano Hits Chill",
         "url": "https://open.spotify.com/album/7lQ9Sx3i7oqYDLfjEJnOnS"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 230000,
       "name": "Say You Wont Let Go",
       "url": "https://open.spotify.com/track/4eyOZVDzYlVslh6POZ9AVP"
+    },
+    {
+      "added_at": "2024-02-12 08:42:03",
+      "album": {
+        "name": "My Foolishness",
+        "url": "https://open.spotify.com/album/6mC8hIINbPUwWGep08m1tZ"
+      },
+      "artists": [
+        {
+          "name": "Franck Byrne",
+          "url": "https://open.spotify.com/artist/7aRioiKpZ6nRpUIy5QgiDq"
+        }
+      ],
+      "duration_ms": 166187,
+      "name": "My Foolishness",
+      "url": "https://open.spotify.com/track/6igxnFJ8a6dkNxYgVVmKhe"
     },
     {
       "added_at": "2024-02-12 08:42:03",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-02-12 08:42:03",
       "album": {
-        "name": "Happy Thoughts",
-        "url": "https://open.spotify.com/album/2T4ORsMoDr8YnScTnCTXpq"
-      },
-      "artists": [
-        {
-          "name": "Hashim Reese",
-          "url": "https://open.spotify.com/artist/42gsXbwEvpqFJ1CrRJkv1h"
-        }
-      ],
-      "duration_ms": 108750,
-      "name": "Happy Thoughts",
-      "url": "https://open.spotify.com/track/21gT5zrKjqTXo3nvvZW10U"
-    },
-    {
-      "added_at": "2024-02-12 08:42:03",
-      "album": {
         "name": "Isla De Flores",
         "url": "https://open.spotify.com/album/33MX50LkO4D6xU0qWjhVbh"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 159124,
       "name": "Isla De Flores",
       "url": "https://open.spotify.com/track/7tDHMhO0bJpbkXzMyMIE0b"
+    },
+    {
+      "added_at": "2024-02-12 08:42:03",
+      "album": {
+        "name": "Happy Thoughts",
+        "url": "https://open.spotify.com/album/2T4ORsMoDr8YnScTnCTXpq"
+      },
+      "artists": [
+        {
+          "name": "Hashim Reese",
+          "url": "https://open.spotify.com/artist/42gsXbwEvpqFJ1CrRJkv1h"
+        }
+      ],
+      "duration_ms": 108750,
+      "name": "Happy Thoughts",
+      "url": "https://open.spotify.com/track/21gT5zrKjqTXo3nvvZW10U"
     },
     {
       "added_at": "2024-02-12 08:42:03",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-02-12 08:42:03",
       "album": {
-        "name": "Mass",
-        "url": "https://open.spotify.com/album/2LTY4ASorTFysOfV8Nk1c2"
-      },
-      "artists": [
-        {
-          "name": "Zwera",
-          "url": "https://open.spotify.com/artist/3jYcRq1Sqb24bcf0FDGdWn"
-        }
-      ],
-      "duration_ms": 130267,
-      "name": "Mass",
-      "url": "https://open.spotify.com/track/0EyMOXlxP0iH4I9SOAjKtS"
-    },
-    {
-      "added_at": "2024-02-12 08:42:03",
-      "album": {
         "name": "Softly Spoken",
         "url": "https://open.spotify.com/album/5sZc4I4qqVcgMOSul9jIFw"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 136691,
       "name": "Softly Spoken",
       "url": "https://open.spotify.com/track/4YxLJVcYXgN1Kxb67BvxEZ"
+    },
+    {
+      "added_at": "2024-02-12 08:42:03",
+      "album": {
+        "name": "Mass",
+        "url": "https://open.spotify.com/album/2LTY4ASorTFysOfV8Nk1c2"
+      },
+      "artists": [
+        {
+          "name": "Zwera",
+          "url": "https://open.spotify.com/artist/3jYcRq1Sqb24bcf0FDGdWn"
+        }
+      ],
+      "duration_ms": 130267,
+      "name": "Mass",
+      "url": "https://open.spotify.com/track/0EyMOXlxP0iH4I9SOAjKtS"
     },
     {
       "added_at": "2024-02-12 08:42:03",
@@ -787,6 +787,22 @@
     {
       "added_at": "2024-02-12 08:42:03",
       "album": {
+        "name": "Amorzinho (Piano Version)",
+        "url": "https://open.spotify.com/album/455AYqMGwATvf8WG5JXfyJ"
+      },
+      "artists": [
+        {
+          "name": "Tip Ferreira",
+          "url": "https://open.spotify.com/artist/3TSlZVPsG99cbGNs8AJAYw"
+        }
+      ],
+      "duration_ms": 216023,
+      "name": "Amorzinho - Piano Version",
+      "url": "https://open.spotify.com/track/0QDTA0d6RMhVZbgTaVHHsp"
+    },
+    {
+      "added_at": "2024-02-12 08:42:03",
+      "album": {
         "name": "The Music Of The Night",
         "url": "https://open.spotify.com/album/19gJXpMuISfxSL8E95p2bN"
       },
@@ -803,18 +819,18 @@
     {
       "added_at": "2024-02-12 08:42:03",
       "album": {
-        "name": "Amorzinho (Piano Version)",
-        "url": "https://open.spotify.com/album/455AYqMGwATvf8WG5JXfyJ"
+        "name": "You Are Peace",
+        "url": "https://open.spotify.com/album/0sGPgMPvaNuC5SCIL4MFcT"
       },
       "artists": [
         {
-          "name": "Tip Ferreira",
-          "url": "https://open.spotify.com/artist/3TSlZVPsG99cbGNs8AJAYw"
+          "name": "Charles Bolt",
+          "url": "https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj"
         }
       ],
-      "duration_ms": 216023,
-      "name": "Amorzinho - Piano Version",
-      "url": "https://open.spotify.com/track/0QDTA0d6RMhVZbgTaVHHsp"
+      "duration_ms": 204911,
+      "name": "You Are Peace",
+      "url": "https://open.spotify.com/track/5i9EFDkipPL6BwtLJSEDp9"
     },
     {
       "added_at": "2024-02-12 08:42:03",
@@ -847,22 +863,6 @@
       "duration_ms": 186088,
       "name": "God Help the Outcasts",
       "url": "https://open.spotify.com/track/7vwGTeO0cug9SYAKxPxjea"
-    },
-    {
-      "added_at": "2024-02-12 08:42:03",
-      "album": {
-        "name": "You Are Peace",
-        "url": "https://open.spotify.com/album/0sGPgMPvaNuC5SCIL4MFcT"
-      },
-      "artists": [
-        {
-          "name": "Charles Bolt",
-          "url": "https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj"
-        }
-      ],
-      "duration_ms": 204911,
-      "name": "You Are Peace",
-      "url": "https://open.spotify.com/track/5i9EFDkipPL6BwtLJSEDp9"
     },
     {
       "added_at": "2024-02-12 08:42:03",
@@ -963,18 +963,18 @@
     {
       "added_at": "2024-02-12 08:42:03",
       "album": {
-        "name": "When We First Met",
-        "url": "https://open.spotify.com/album/6YgpWDw0IZl2pK5jvTbrQV"
+        "name": "Nibiru",
+        "url": "https://open.spotify.com/album/0KTuufd6EhriIPzBnQ3gE7"
       },
       "artists": [
         {
-          "name": "Ricki Westberg",
-          "url": "https://open.spotify.com/artist/17cS5flbpagsd0kN3lchx4"
+          "name": "Ulrich Volker",
+          "url": "https://open.spotify.com/artist/2SCQRaipWsBYaFiNhkFDYY"
         }
       ],
-      "duration_ms": 112750,
-      "name": "When We First Met",
-      "url": "https://open.spotify.com/track/0AACyZj1JuHVFtG19P8GTC"
+      "duration_ms": 118016,
+      "name": "Kleine Forelle",
+      "url": "https://open.spotify.com/track/5B9DnzAxmYHSuEMegZYYwQ"
     },
     {
       "added_at": "2024-02-12 08:42:03",
@@ -995,18 +995,18 @@
     {
       "added_at": "2024-02-12 08:42:03",
       "album": {
-        "name": "Nibiru",
-        "url": "https://open.spotify.com/album/0KTuufd6EhriIPzBnQ3gE7"
+        "name": "When We First Met",
+        "url": "https://open.spotify.com/album/6YgpWDw0IZl2pK5jvTbrQV"
       },
       "artists": [
         {
-          "name": "Ulrich Volker",
-          "url": "https://open.spotify.com/artist/2SCQRaipWsBYaFiNhkFDYY"
+          "name": "Ricki Westberg",
+          "url": "https://open.spotify.com/artist/17cS5flbpagsd0kN3lchx4"
         }
       ],
-      "duration_ms": 118016,
-      "name": "Kleine Forelle",
-      "url": "https://open.spotify.com/track/5B9DnzAxmYHSuEMegZYYwQ"
+      "duration_ms": 112750,
+      "name": "When We First Met",
+      "url": "https://open.spotify.com/track/0AACyZj1JuHVFtG19P8GTC"
     },
     {
       "added_at": "2024-02-12 08:42:03",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2024-02-12 08:42:03",
       "album": {
+        "name": "Friendship.",
+        "url": "https://open.spotify.com/album/6xSRZ5mSLTX2iWEZAyf6Tj"
+      },
+      "artists": [
+        {
+          "name": "Kittikhun P.",
+          "url": "https://open.spotify.com/artist/7vKQzCa2cDOJaJRSt0oTpv"
+        }
+      ],
+      "duration_ms": 91898,
+      "name": "Friendship.",
+      "url": "https://open.spotify.com/track/4tgsdsLdze2YKRMSqmcy6A"
+    },
+    {
+      "added_at": "2024-02-12 08:42:03",
+      "album": {
         "name": "In The Stillness",
         "url": "https://open.spotify.com/album/2wanBHLCktlor7jPK5mGnK"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 184389,
       "name": "Grounded Mind",
       "url": "https://open.spotify.com/track/0BgrLhir95Z6AmF3gzTCng"
-    },
-    {
-      "added_at": "2024-02-12 08:42:03",
-      "album": {
-        "name": "I've Grown Accustomed to Her Face",
-        "url": "https://open.spotify.com/album/615KqDDPOkcihBWbHqK3MJ"
-      },
-      "artists": [
-        {
-          "name": "Graydon Poole",
-          "url": "https://open.spotify.com/artist/3CXnbwsLsa3i13StMUzT37"
-        }
-      ],
-      "duration_ms": 159107,
-      "name": "I've Grown Accustomed to Her Face",
-      "url": "https://open.spotify.com/track/4oIs2yMe7K0U49LbHWLvOq"
     },
     {
       "added_at": "2024-02-12 08:42:03",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-02-12 08:42:03",
       "album": {
-        "name": "Friendship.",
-        "url": "https://open.spotify.com/album/6xSRZ5mSLTX2iWEZAyf6Tj"
-      },
-      "artists": [
-        {
-          "name": "Kittikhun P.",
-          "url": "https://open.spotify.com/artist/7vKQzCa2cDOJaJRSt0oTpv"
-        }
-      ],
-      "duration_ms": 91898,
-      "name": "Friendship.",
-      "url": "https://open.spotify.com/track/4tgsdsLdze2YKRMSqmcy6A"
-    },
-    {
-      "added_at": "2024-02-12 08:42:03",
-      "album": {
         "name": "Classics",
         "url": "https://open.spotify.com/album/4hfn002VS0oDKJHiJKs2CM"
       },
@@ -1171,18 +1155,18 @@
     {
       "added_at": "2024-02-12 08:42:03",
       "album": {
-        "name": "Pennies From Heaven",
-        "url": "https://open.spotify.com/album/75bRjjsmOtXqoSHeziafj0"
+        "name": "I've Grown Accustomed to Her Face",
+        "url": "https://open.spotify.com/album/615KqDDPOkcihBWbHqK3MJ"
       },
       "artists": [
         {
-          "name": "Avery Miller",
-          "url": "https://open.spotify.com/artist/01o77igJ4oxA6MnykrzHNN"
+          "name": "Graydon Poole",
+          "url": "https://open.spotify.com/artist/3CXnbwsLsa3i13StMUzT37"
         }
       ],
-      "duration_ms": 269000,
-      "name": "Pennies From Heaven",
-      "url": "https://open.spotify.com/track/5FZ1EwzovpSlbfPK2eynR0"
+      "duration_ms": 159107,
+      "name": "I've Grown Accustomed to Her Face",
+      "url": "https://open.spotify.com/track/4oIs2yMe7K0U49LbHWLvOq"
     },
     {
       "added_at": "2024-02-12 08:42:03",
@@ -1203,18 +1187,18 @@
     {
       "added_at": "2024-02-12 08:42:03",
       "album": {
-        "name": "Magnolia",
-        "url": "https://open.spotify.com/album/7bnt53QjdwPCOI5h84nY2F"
+        "name": "Pennies From Heaven",
+        "url": "https://open.spotify.com/album/75bRjjsmOtXqoSHeziafj0"
       },
       "artists": [
         {
-          "name": "Snow in April",
-          "url": "https://open.spotify.com/artist/2TSiP8ixCub5bSJnkiwcYv"
+          "name": "Avery Miller",
+          "url": "https://open.spotify.com/artist/01o77igJ4oxA6MnykrzHNN"
         }
       ],
-      "duration_ms": 148407,
-      "name": "Magnolia",
-      "url": "https://open.spotify.com/track/3qKSYY6Sds4jltPME6UFMm"
+      "duration_ms": 269000,
+      "name": "Pennies From Heaven",
+      "url": "https://open.spotify.com/track/5FZ1EwzovpSlbfPK2eynR0"
     },
     {
       "added_at": "2024-02-12 08:42:03",
@@ -1231,6 +1215,22 @@
       "duration_ms": 137290,
       "name": "Forget",
       "url": "https://open.spotify.com/track/2CVoj73sTbBrfBoQTEk7yO"
+    },
+    {
+      "added_at": "2024-02-12 08:42:03",
+      "album": {
+        "name": "Magnolia",
+        "url": "https://open.spotify.com/album/7bnt53QjdwPCOI5h84nY2F"
+      },
+      "artists": [
+        {
+          "name": "Snow in April",
+          "url": "https://open.spotify.com/artist/2TSiP8ixCub5bSJnkiwcYv"
+        }
+      ],
+      "duration_ms": 148407,
+      "name": "Magnolia",
+      "url": "https://open.spotify.com/track/3qKSYY6Sds4jltPME6UFMm"
     },
     {
       "added_at": "2024-02-12 08:42:03",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-02-12 08:42:03",
       "album": {
-        "name": "Nostalgia.",
-        "url": "https://open.spotify.com/album/0Rhl9X8qKI2dFBfjMiZcn8"
-      },
-      "artists": [
-        {
-          "name": "Kittikhun P.",
-          "url": "https://open.spotify.com/artist/7vKQzCa2cDOJaJRSt0oTpv"
-        }
-      ],
-      "duration_ms": 104199,
-      "name": "Nostalgia.",
-      "url": "https://open.spotify.com/track/7bMtZNoOv7snSZvzL9cqrp"
-    },
-    {
-      "added_at": "2024-02-12 08:42:03",
-      "album": {
         "name": "Nefelibata",
         "url": "https://open.spotify.com/album/5jBINfpl1J0tRvunNAxkOn"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 180624,
       "name": "Nefelibata",
       "url": "https://open.spotify.com/track/07MRGolhqppoqEWDV5aZhJ"
+    },
+    {
+      "added_at": "2024-02-12 08:42:03",
+      "album": {
+        "name": "Nostalgia.",
+        "url": "https://open.spotify.com/album/0Rhl9X8qKI2dFBfjMiZcn8"
+      },
+      "artists": [
+        {
+          "name": "Kittikhun P.",
+          "url": "https://open.spotify.com/artist/7vKQzCa2cDOJaJRSt0oTpv"
+        }
+      ],
+      "duration_ms": 104199,
+      "name": "Nostalgia.",
+      "url": "https://open.spotify.com/track/7bMtZNoOv7snSZvzL9cqrp"
     },
     {
       "added_at": "2024-02-12 08:42:03",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2024-02-12 08:42:03",
       "album": {
-        "name": "La Vie",
-        "url": "https://open.spotify.com/album/7xmt9O9FKI2sLhQuA3ON2o"
-      },
-      "artists": [
-        {
-          "name": "Amandine Moulin",
-          "url": "https://open.spotify.com/artist/0sVyGAiXwDz3NKBLpwY69j"
-        }
-      ],
-      "duration_ms": 109228,
-      "name": "La Vie",
-      "url": "https://open.spotify.com/track/7yGdwiZ84hot8b9PqRtOzV"
-    },
-    {
-      "added_at": "2024-02-12 08:42:03",
-      "album": {
         "name": "Nocturne",
         "url": "https://open.spotify.com/album/7b2fxYSSumh0ViCuTTUQOc"
       },
@@ -1363,34 +1347,34 @@
     {
       "added_at": "2024-02-12 08:42:03",
       "album": {
-        "name": "Murray's Moon",
-        "url": "https://open.spotify.com/album/2k8AhvhXJX6vMHCNxauuHW"
+        "name": "La Vie",
+        "url": "https://open.spotify.com/album/7xmt9O9FKI2sLhQuA3ON2o"
       },
       "artists": [
         {
-          "name": "Stan Van Outen",
-          "url": "https://open.spotify.com/artist/6zL36bTxO4Kjtdqo04RmPu"
+          "name": "Amandine Moulin",
+          "url": "https://open.spotify.com/artist/0sVyGAiXwDz3NKBLpwY69j"
         }
       ],
-      "duration_ms": 127000,
-      "name": "Murray's Moon",
-      "url": "https://open.spotify.com/track/1Xsd98cpIUDSobvr1hkSNo"
+      "duration_ms": 109228,
+      "name": "La Vie",
+      "url": "https://open.spotify.com/track/7yGdwiZ84hot8b9PqRtOzV"
     },
     {
       "added_at": "2024-02-12 08:42:03",
       "album": {
-        "name": "Promise",
-        "url": "https://open.spotify.com/album/2gRUbzO0fVE1cmNLQLTMZr"
+        "name": "Swear on this Life",
+        "url": "https://open.spotify.com/album/4Zt9oIxlh6r3INxyBzY5Fw"
       },
       "artists": [
         {
-          "name": "Morten Lidahl",
-          "url": "https://open.spotify.com/artist/1RI9zJgpCO01hSCfh9k7YT"
+          "name": "Fabienne Willis",
+          "url": "https://open.spotify.com/artist/3Dk9sa2fJD0euXyvbJwYY9"
         }
       ],
-      "duration_ms": 131202,
-      "name": "Promise",
-      "url": "https://open.spotify.com/track/1CcNphJqbsJSlMLZEldCYU"
+      "duration_ms": 132773,
+      "name": "Swear on this Life",
+      "url": "https://open.spotify.com/track/1BPrChYcVUL7S6mEdPxFux"
     },
     {
       "added_at": "2024-02-12 08:42:03",
@@ -1415,18 +1399,18 @@
     {
       "added_at": "2024-02-12 08:42:03",
       "album": {
-        "name": "Swear on this Life",
-        "url": "https://open.spotify.com/album/4Zt9oIxlh6r3INxyBzY5Fw"
+        "name": "Murray's Moon",
+        "url": "https://open.spotify.com/album/2k8AhvhXJX6vMHCNxauuHW"
       },
       "artists": [
         {
-          "name": "Fabienne Willis",
-          "url": "https://open.spotify.com/artist/3Dk9sa2fJD0euXyvbJwYY9"
+          "name": "Stan Van Outen",
+          "url": "https://open.spotify.com/artist/6zL36bTxO4Kjtdqo04RmPu"
         }
       ],
-      "duration_ms": 132773,
-      "name": "Swear on this Life",
-      "url": "https://open.spotify.com/track/1BPrChYcVUL7S6mEdPxFux"
+      "duration_ms": 127000,
+      "name": "Murray's Moon",
+      "url": "https://open.spotify.com/track/1Xsd98cpIUDSobvr1hkSNo"
     },
     {
       "added_at": "2024-02-12 08:42:03",
@@ -1447,18 +1431,18 @@
     {
       "added_at": "2024-02-12 08:42:03",
       "album": {
-        "name": "Lunaria",
-        "url": "https://open.spotify.com/album/7DU0LoKUQb14uqooXRxLPn"
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/2gRUbzO0fVE1cmNLQLTMZr"
       },
       "artists": [
         {
-          "name": "Francesca Carol\u00e9o",
-          "url": "https://open.spotify.com/artist/2odGPzJOIq98kgGB8N93Ke"
+          "name": "Morten Lidahl",
+          "url": "https://open.spotify.com/artist/1RI9zJgpCO01hSCfh9k7YT"
         }
       ],
-      "duration_ms": 169500,
-      "name": "Valerian",
-      "url": "https://open.spotify.com/track/1Hwlo5bLrQ4Xppr7UuSL4I"
+      "duration_ms": 131202,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/1CcNphJqbsJSlMLZEldCYU"
     },
     {
       "added_at": "2024-02-12 08:42:03",
@@ -1479,22 +1463,6 @@
     {
       "added_at": "2024-02-12 08:42:03",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/4zQTQk0p87RGaRujdSuUPk"
-      },
-      "artists": [
-        {
-          "name": "Joanna Vicente",
-          "url": "https://open.spotify.com/artist/6K04WF6ApF0TeMLB24fkfv"
-        }
-      ],
-      "duration_ms": 107426,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/2DNrA5s0WrklYU9R8NMuJS"
-    },
-    {
-      "added_at": "2024-02-12 08:42:03",
-      "album": {
         "name": "Sagittabondo",
         "url": "https://open.spotify.com/album/5xA0kiXHUSL1wFWY52fu5O"
       },
@@ -1511,18 +1479,34 @@
     {
       "added_at": "2024-02-12 08:42:03",
       "album": {
-        "name": "Magnificent",
-        "url": "https://open.spotify.com/album/3sBAbDkxVcDKACCpFUcgCn"
+        "name": "Lunaria",
+        "url": "https://open.spotify.com/album/7DU0LoKUQb14uqooXRxLPn"
       },
       "artists": [
         {
-          "name": "Odette Montano",
-          "url": "https://open.spotify.com/artist/3J2sqtWaUCFmoVhS2ibEXC"
+          "name": "Francesca Carol\u00e9o",
+          "url": "https://open.spotify.com/artist/2odGPzJOIq98kgGB8N93Ke"
         }
       ],
-      "duration_ms": 154000,
-      "name": "Magnificent",
-      "url": "https://open.spotify.com/track/1gjZYQff9vXXru1KI6XJHd"
+      "duration_ms": 169500,
+      "name": "Valerian",
+      "url": "https://open.spotify.com/track/1Hwlo5bLrQ4Xppr7UuSL4I"
+    },
+    {
+      "added_at": "2024-02-12 08:42:03",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/4zQTQk0p87RGaRujdSuUPk"
+      },
+      "artists": [
+        {
+          "name": "Joanna Vicente",
+          "url": "https://open.spotify.com/artist/6K04WF6ApF0TeMLB24fkfv"
+        }
+      ],
+      "duration_ms": 107426,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/2DNrA5s0WrklYU9R8NMuJS"
     },
     {
       "added_at": "2024-02-12 08:42:03",
@@ -1543,6 +1527,22 @@
     {
       "added_at": "2024-02-12 08:42:03",
       "album": {
+        "name": "Magnificent",
+        "url": "https://open.spotify.com/album/3sBAbDkxVcDKACCpFUcgCn"
+      },
+      "artists": [
+        {
+          "name": "Odette Montano",
+          "url": "https://open.spotify.com/artist/3J2sqtWaUCFmoVhS2ibEXC"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "Magnificent",
+      "url": "https://open.spotify.com/track/1gjZYQff9vXXru1KI6XJHd"
+    },
+    {
+      "added_at": "2024-02-12 08:42:03",
+      "album": {
         "name": "The Ember",
         "url": "https://open.spotify.com/album/5xoUiNRUh69Y6BbJg1luSE"
       },
@@ -1555,22 +1555,6 @@
       "duration_ms": 198298,
       "name": "Trail of Light",
       "url": "https://open.spotify.com/track/02aWFfloZhQ0QXTRpG1D3n"
-    },
-    {
-      "added_at": "2024-02-12 08:42:03",
-      "album": {
-        "name": "Another Year of Disaster",
-        "url": "https://open.spotify.com/album/58DOLz3FgFoOmZixPc5Ju6"
-      },
-      "artists": [
-        {
-          "name": "Adept",
-          "url": "https://open.spotify.com/artist/1TsgX8DlUvpk9mrUqxmOZu"
-        }
-      ],
-      "duration_ms": 311066,
-      "name": "At Least Give Me My Dreams Back, You Negligent Whore!",
-      "url": "https://open.spotify.com/track/5YiZqG8WWYLjbhL5v9vbWw"
     },
     {
       "added_at": "2024-02-12 08:42:03",
@@ -1591,6 +1575,22 @@
     {
       "added_at": "2024-02-12 08:42:03",
       "album": {
+        "name": "Another Year of Disaster",
+        "url": "https://open.spotify.com/album/58DOLz3FgFoOmZixPc5Ju6"
+      },
+      "artists": [
+        {
+          "name": "Adept",
+          "url": "https://open.spotify.com/artist/1TsgX8DlUvpk9mrUqxmOZu"
+        }
+      ],
+      "duration_ms": 311066,
+      "name": "At Least Give Me My Dreams Back, You Negligent Whore!",
+      "url": "https://open.spotify.com/track/5YiZqG8WWYLjbhL5v9vbWw"
+    },
+    {
+      "added_at": "2024-02-12 08:42:03",
+      "album": {
         "name": "Patience",
         "url": "https://open.spotify.com/album/0v94JSSqZJG235UT7MX2ZB"
       },
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2024-02-12 08:42:03",
       "album": {
-        "name": "Beautiful Day.",
-        "url": "https://open.spotify.com/album/3vhnzcmm0U42eKcoI78ykK"
-      },
-      "artists": [
-        {
-          "name": "Kittikhun P.",
-          "url": "https://open.spotify.com/artist/7vKQzCa2cDOJaJRSt0oTpv"
-        }
-      ],
-      "duration_ms": 99541,
-      "name": "Beautiful Day.",
-      "url": "https://open.spotify.com/track/3bChX6zDQB7xZNw4LNWP6H"
-    },
-    {
-      "added_at": "2024-02-12 08:42:03",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/4zQTQk0p87RGaRujdSuUPk"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 172522,
       "name": "Feathers",
       "url": "https://open.spotify.com/track/2yK3LNJFi8xUn3re8NnhYR"
+    },
+    {
+      "added_at": "2024-02-12 08:42:03",
+      "album": {
+        "name": "Beautiful Day.",
+        "url": "https://open.spotify.com/album/3vhnzcmm0U42eKcoI78ykK"
+      },
+      "artists": [
+        {
+          "name": "Kittikhun P.",
+          "url": "https://open.spotify.com/artist/7vKQzCa2cDOJaJRSt0oTpv"
+        }
+      ],
+      "duration_ms": 99541,
+      "name": "Beautiful Day.",
+      "url": "https://open.spotify.com/track/3bChX6zDQB7xZNw4LNWP6H"
     }
   ],
   "unique_name": "\u5b89\u5be7\u92fc\u7434\u8072",

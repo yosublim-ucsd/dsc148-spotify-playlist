@@ -1,12 +1,12 @@
 {
   "description": "Descubra Abbot e novos talentos brasileiros no horizonte.",
-  "num_followers": 413778,
+  "num_followers": 413765,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMmNjZjg3ZjkwNDU2MTQ0MWI2YjM5OWFhZjUxNjk3ODhkYmU3ZmM2",
+  "snapshot_id": "MCw1NWE5ZGNhOTY4MWZlYzFmYWZkNTE0OTIwZTA1ZjExNjAxZDU4MjM0",
   "tracks": [
     {
       "added_at": "2023-10-05 08:00:00",
@@ -611,30 +611,6 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
-        "name": "Rock Danger, Vol. 1",
-        "url": "https://open.spotify.com/album/10NgAPEXrO27p2uhmuZgyu"
-      },
-      "artists": [
-        {
-          "name": "Rock Danger",
-          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
-        },
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "Massaru",
-          "url": "https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU"
-        }
-      ],
-      "duration_ms": 178005,
-      "name": "Dia de Baile",
-      "url": "https://open.spotify.com/track/3dYN651z0KSUQnC0fxCKWN"
-    },
-    {
-      "added_at": "2023-10-05 08:00:00",
-      "album": {
         "name": "O Justo N\u00e3o Treme",
         "url": "https://open.spotify.com/album/1pm3hj3qfoAE19oN5paIec"
       },
@@ -655,6 +631,30 @@
       "duration_ms": 169057,
       "name": "O Justo N\u00e3o Treme",
       "url": "https://open.spotify.com/track/449BJmYTFxZiF3hIyRrrOw"
+    },
+    {
+      "added_at": "2023-10-05 08:00:00",
+      "album": {
+        "name": "Rock Danger, Vol. 1",
+        "url": "https://open.spotify.com/album/10NgAPEXrO27p2uhmuZgyu"
+      },
+      "artists": [
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Massaru",
+          "url": "https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU"
+        }
+      ],
+      "duration_ms": 178005,
+      "name": "Dia de Baile",
+      "url": "https://open.spotify.com/track/3dYN651z0KSUQnC0fxCKWN"
     },
     {
       "added_at": "2023-10-05 08:00:00",
@@ -1147,30 +1147,6 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
-        "name": "24K o Spotify Que Paga",
-        "url": "https://open.spotify.com/album/36xMrm390G9SD1R6e1jtfR"
-      },
-      "artists": [
-        {
-          "name": "Mc Kanhoto",
-          "url": "https://open.spotify.com/artist/3bpbNht7qJCmPo8sjVF3tA"
-        },
-        {
-          "name": "Mc Neg\u00e3o Original",
-          "url": "https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP"
-        },
-        {
-          "name": "DJ Guh Mix",
-          "url": "https://open.spotify.com/artist/3zG4hHVlA4xIX5jwvOa2KD"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "24K o Spotify Que Paga",
-      "url": "https://open.spotify.com/track/7x0begSPdxT8KgFgwG3XaQ"
-    },
-    {
-      "added_at": "2023-10-05 08:00:00",
-      "album": {
         "name": "Face ID",
         "url": "https://open.spotify.com/album/0UjBaUcZ8Kn7rcc6KhFDzI"
       },
@@ -1195,6 +1171,30 @@
       "duration_ms": 152062,
       "name": "Face ID",
       "url": "https://open.spotify.com/track/3ib4SClHlSQXqV8EwChkWZ"
+    },
+    {
+      "added_at": "2023-10-05 08:00:00",
+      "album": {
+        "name": "24K o Spotify Que Paga",
+        "url": "https://open.spotify.com/album/36xMrm390G9SD1R6e1jtfR"
+      },
+      "artists": [
+        {
+          "name": "Mc Kanhoto",
+          "url": "https://open.spotify.com/artist/3bpbNht7qJCmPo8sjVF3tA"
+        },
+        {
+          "name": "Mc Neg\u00e3o Original",
+          "url": "https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP"
+        },
+        {
+          "name": "DJ Guh Mix",
+          "url": "https://open.spotify.com/artist/3zG4hHVlA4xIX5jwvOa2KD"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "24K o Spotify Que Paga",
+      "url": "https://open.spotify.com/track/7x0begSPdxT8KgFgwG3XaQ"
     },
     {
       "added_at": "2023-10-05 08:00:00",

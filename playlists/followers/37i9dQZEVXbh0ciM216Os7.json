@@ -1,5 +1,5 @@
 {
-  "2024-02-21": 0,
+  "2024-02-22": 0,
   "date_first_scraped": "2023-02-13",
   "description": "Catch all the latest music from artists you follow, plus new singles picked for you. Updates every Friday.",
   "name": "Release Radar (@ajcooke94)",
@@ -3238,6 +3238,32 @@
     },
     {
       "album": {
+        "name": "VULTURES 1",
+        "url": "https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF"
+      },
+      "artists": [
+        {
+          "name": "\u00a5$",
+          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111458,
+      "name": "BURN",
+      "url": "https://open.spotify.com/track/04CyMEHliadfQWMUJb1w99"
+    },
+    {
+      "album": {
         "name": "Leo Metal, Vol. 44",
         "url": "https://open.spotify.com/album/6bg7yvrUjIxcyWYI8svytn"
       },
@@ -3437,7 +3463,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 262702,
       "name": "CARNIVAL",
       "url": "https://open.spotify.com/track/0Av2pG9dSVDFYxe4Vg3mNw"

@@ -4,7 +4,7 @@
 
 > The biggest metal songs of the 2000s\. Cover: Slipknot
 
-260 songs - 18 hr 57 min
+261 songs - 19 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [I Only Wanna Be With You](https://open.spotify.com/track/0JRab5KK5TKRiUuLiRw0WD) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [The Strength / The Sound / The Songs](https://open.spotify.com/album/3QA7oan9EaEIlXbfBdbck8) | 2:44 | 2022-03-31 | 2022-04-21 |
 | [I Only Wanna Be With You](https://open.spotify.com/track/2MAJJJu89ogKPctelr3F7f) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [The Strength / The Sound / The Songs](https://open.spotify.com/album/3jg1rZalHpRBBUmpNmRwI5) | 2:44 | 2022-04-13 |  |
 | [I Will Be Heard](https://open.spotify.com/track/4Lxn1JlGJwmmXpODrNvPA6) | [Hatebreed](https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV) | [Perseverance](https://open.spotify.com/album/2UPZ06izR1OtTX80U30AfG) | 2:58 | 2022-07-13 |  |
-| [Ich tu dir weh](https://open.spotify.com/track/47gjUao1XjSO4fvVRm9L55) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Liebe ist für alle da](https://open.spotify.com/album/3pksjSyo1w4vAPOenAzM4Z) | 5:01 | 2022-07-13 |  |
+| [Ich tu dir weh](https://open.spotify.com/track/47gjUao1XjSO4fvVRm9L55) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Liebe ist für alle da](https://open.spotify.com/album/3pksjSyo1w4vAPOenAzM4Z) | 5:01 | 2022-07-13 | 2024-02-22 |
 | [Ich tu dir weh](https://open.spotify.com/track/7ritPWOWvsthxFDxOz1OjH) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Liebe ist für alle da \(Special Edition\)](https://open.spotify.com/album/29J0MchD0OWNeiMNbPDwfa) | 5:01 | 2022-07-13 | 2022-07-29 |
 | [In the End](https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 3:36 | 2023-01-19 |  |
 | [In the Name of Tragedy](https://open.spotify.com/track/1DhCdQMyNLklKGxBheRFxL) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Inferno](https://open.spotify.com/album/7jGmwdQeJQ7kZ8LN7uN4lD) | 3:03 | 2022-01-03 | 2023-08-10 |
@@ -221,6 +221,7 @@
 | [Stupid Girl](https://open.spotify.com/track/4GPTqTFAkOXNGd5Cy6sTvx) | [Cold](https://open.spotify.com/artist/0Gw3a3BkWLwsMLFbOBmo6Q) | [Year Of The Spider](https://open.spotify.com/album/2AHTc1fPhvsiGtXtquK5DO) | 3:09 | 2022-07-13 | 2022-07-15 |
 | [Suicide Messiah](https://open.spotify.com/track/0NsGX5siz55Fipy0ALJi4W) | [Black Label Society](https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5) | [Mafia](https://open.spotify.com/album/0v5TjrLFo1sTvU6NXCW1Po) | 5:47 | 2022-01-03 | 2022-07-29 |
 | [Suicide Messiah](https://open.spotify.com/track/56lSM7LYZsdrZ62wIGfyIG) | [Black Label Society](https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5) | [Mafia](https://open.spotify.com/album/274s9WKrHQR6FlW1jrFLKo) | 5:47 | 2022-04-13 | 2023-12-23 |
+| [Suicide Messiah](https://open.spotify.com/track/7ex3AmxCTBz3zXLx6hWy5q) | [Black Label Society](https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5) | [Mafia](https://open.spotify.com/album/0yFCaaNOKgZVhDxZ0mNFeg) | 5:47 | 2023-02-08 |  |
 | [Sun Doesn't Rise](https://open.spotify.com/track/24CeaRaJHiMKFAVZTCu8Y0) | [Mushroomhead](https://open.spotify.com/artist/18absyD7lQaXUDBXnyzU8M) | [XIII](https://open.spotify.com/album/3N1Ehmz49Lavsi23cKFWDv) | 3:13 | 2022-07-13 |  |
 | [Switchback](https://open.spotify.com/track/3lUwCryVobacobYrN5f2Je) | [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ) | [Celldweller \(Deluxe Edition\)](https://open.spotify.com/album/1gStSHuxB1XHGBzPDQHU9w) | 5:02 | 2022-07-13 | 2022-11-13 |
 | [Take A Look Around](https://open.spotify.com/track/2avKuMN2QXkaG9vvHa2JLt) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Chocolate Starfish And The Hot Dog Flavored Water](https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7) | 5:21 | 2022-01-03 |  |

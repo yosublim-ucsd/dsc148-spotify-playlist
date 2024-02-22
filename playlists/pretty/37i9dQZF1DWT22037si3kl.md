@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > bgl é ser autêntico vocês já sabem\. Foto: Yunk Vino
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,725 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,746 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 45 | [4K4](https://open.spotify.com/track/6JdDmwEuwCU5Jlp23nJjJQ) | [4444K4444 ent](https://open.spotify.com/artist/4yKhbSfMp3G63fs4rvzjj2), [Mellog](https://open.spotify.com/artist/1UhTDFPOX9IA31NP5TCJxV), [LH CHUCRO](https://open.spotify.com/artist/3Im4m6K9QvxFBUJIOttSuH) | [4K4](https://open.spotify.com/album/4lPYb7fPZqjRQdf0dXv2yo) | 1:54 |
 | 46 | [Dias sem dormir](https://open.spotify.com/track/35rDOlA5PaPyboTNjIrXQ0) | [Malcolm VL](https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm), [Swxm](https://open.spotify.com/artist/0wjT2AitdI5hxU13J5Clo8), [Kustor](https://open.spotify.com/artist/01KhiXBvC4UaFIaTFrzgjx) | [EU VIM DE GR](https://open.spotify.com/album/2qNasWZDq8XQumAbiSuCOn) | 3:03 |
 | 47 | [Fora de Vista](https://open.spotify.com/track/4b1rbUIPTNk3jh9Mpwo1ZK) | [Mattyahu](https://open.spotify.com/artist/1ze3tHq3Xv4KbXhC5UdzNw), [Trevor Whippa](https://open.spotify.com/artist/60hytLnjov7Xhc21EQYHOO), [Isaac](https://open.spotify.com/artist/0CsHXTwppha2FCaxOve4bR) | [Fora de Vista](https://open.spotify.com/album/6ke66rMS4Ns6GfbLX2GKVa) | 2:31 |
-| 48 | [TAMBOR](https://open.spotify.com/track/5I3fsOI8IJjOkmgqCyZVfY) | [Fúria](https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS), [Diego Kairo](https://open.spotify.com/artist/6D0yjB3AE6xTi137BEQkWb), [L300](https://open.spotify.com/artist/0PVUOzL3xWKnD1lMEE3tPw), [FELINA](https://open.spotify.com/artist/3RwgTYuexocU1QLpiOhhNO), [RUI'f](https://open.spotify.com/artist/7eAOkFsB01T4iRqfC4cjH9), [Negrex](https://open.spotify.com/artist/3McCPdkvrYSgz1vzJgTVgl) | [ISSO Ñ É GPT](https://open.spotify.com/album/79Ie0NdfCAMkZQakRrMLFI) | 6:03 |
-| 49 | [Viagem Cara](https://open.spotify.com/track/3WHBt5JazrLheCvzygxCv1) | [Souffran](https://open.spotify.com/artist/36qbn5sMKZVpNr0o5DC8sn), [tal do dias](https://open.spotify.com/artist/1IJdAJc6XD4NdOLBJnCIBD) | [Viagem Cara](https://open.spotify.com/album/2nktvT2yjahIlYVoLQ1CiV) | 2:16 |
+| 48 | [Viagem Cara](https://open.spotify.com/track/3WHBt5JazrLheCvzygxCv1) | [Souffran](https://open.spotify.com/artist/36qbn5sMKZVpNr0o5DC8sn), [tal do dias](https://open.spotify.com/artist/1IJdAJc6XD4NdOLBJnCIBD) | [Viagem Cara](https://open.spotify.com/album/2nktvT2yjahIlYVoLQ1CiV) | 2:16 |
+| 49 | [TAMBOR](https://open.spotify.com/track/5I3fsOI8IJjOkmgqCyZVfY) | [Fúria](https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS), [Diego Kairo](https://open.spotify.com/artist/6D0yjB3AE6xTi137BEQkWb), [L300](https://open.spotify.com/artist/0PVUOzL3xWKnD1lMEE3tPw), [FELINA](https://open.spotify.com/artist/3RwgTYuexocU1QLpiOhhNO), [RUI'f](https://open.spotify.com/artist/7eAOkFsB01T4iRqfC4cjH9), [Negrex](https://open.spotify.com/artist/3McCPdkvrYSgz1vzJgTVgl) | [ISSO Ñ É GPT](https://open.spotify.com/album/79Ie0NdfCAMkZQakRrMLFI) | 6:03 |
 | 50 | [Centro de São Paulo](https://open.spotify.com/track/0yOc9p0JVvVX5zKBDPZAqm) | [Shaodree](https://open.spotify.com/artist/4NOi6526Zq6dqCMXaEN0EW) | [Nova Wave, Pt\. 4](https://open.spotify.com/album/3Lf4zUSuZ0ihmvpt72P8bx) | 2:53 |
 
-Snapshot ID: `MCwyYjA3MDM3NGZlZWUxZWM1NWU1YmIxNGQ0ZThkNzdhMGFiMTM1ODgy`
+Snapshot ID: `MCwwYTViZWNjNzQxYTJlNGYzZmYyM2UyNzYxNGM4NzdiODE4ODE3N2Fm`

@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-1,322 songs - 3 day 8 hr 59 min
+1,323 songs - 3 day 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -475,7 +475,8 @@
 | [Lifetime](https://open.spotify.com/track/19ifncpKx4A8IDEEFHCCZC) | [松木美定](https://open.spotify.com/artist/4VytANV5Kt1OqJpzkkc6wA) | [Lifetime](https://open.spotify.com/album/3biCMPJLQKjynlXeJBZcDg) | 3:23 | 2023-01-10 | 2023-03-25 |
 | [Life’s A Game](https://open.spotify.com/track/5PHqslBNMYjZGjAa2VEAP6) | [Wez Atlas](https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ) | [This Too Shall Pass](https://open.spotify.com/album/22VtQWVPaMtZXlwKc82rxz) | 2:34 | 2023-03-14 | 2023-03-29 |
 | [LIGHT HOUSE](https://open.spotify.com/track/6dCgABDpFP95qZpLvx48iW) | [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [LIGHT HOUSE](https://open.spotify.com/album/40GFIASzdvtix58rdPJZco) | 3:47 | 2022-06-28 | 2022-07-27 |
-| [Light\(n\)ing](https://open.spotify.com/track/6KBkIxXzV6cv3ANyq4KFBS) | [STAP Sigh Boys](https://open.spotify.com/artist/0CaylYCVMWiEhpoZxxdDeu) | [Light\(n\)ing](https://open.spotify.com/album/3weisOmHMVWetDBg79mlzx) | 3:33 | 2024-02-20 |  |
+| [Light\(n\)ing](https://open.spotify.com/track/4AolTQz0nbPeFKLrWP3OAR) | [STAP Sigh Boys](https://open.spotify.com/artist/0CaylYCVMWiEhpoZxxdDeu) | [Light\(n\)ing](https://open.spotify.com/album/2d9QtkSDbgZLy8p4EThXFL) | 3:33 | 2024-02-20 |  |
+| [Light\(n\)ing](https://open.spotify.com/track/6KBkIxXzV6cv3ANyq4KFBS) | [STAP Sigh Boys](https://open.spotify.com/artist/0CaylYCVMWiEhpoZxxdDeu) | [Light\(n\)ing](https://open.spotify.com/album/3weisOmHMVWetDBg79mlzx) | 3:33 | 2024-02-20 | 2024-02-22 |
 | [Lights \(feat\. Blu\)](https://open.spotify.com/track/0ivm0kmxQLyp6njZ7QerWn) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Blu](https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT) | [Orbit](https://open.spotify.com/album/3qjoOf3C7LHzNJz9xJOF6p) | 3:17 | 2022-10-11 | 2022-11-29 |
 | [Like A Seraph](https://open.spotify.com/track/4KISFq8uuKx0TPW5LEr08s) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u) | [The Lover](https://open.spotify.com/album/0QCyj1UlVJQ91sFNqHx9nc) | 2:54 | 2023-05-09 | 2023-08-25 |
 | [Like A Seraph](https://open.spotify.com/track/6qP01shvp5iyBEhkKAaiRT) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u) | [The Lover](https://open.spotify.com/album/5UfVzZAONfOUcZonfMA7mW) | 2:54 | 2023-05-09 | 2023-05-11 |

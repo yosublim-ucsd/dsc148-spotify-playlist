@@ -4,7 +4,7 @@
 
 > Discover new artists on the horizon this 2023\. Cover: Alamat
 
-167 songs - 10 hr 25 min
+170 songs - 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Alam Ko Na](https://open.spotify.com/track/5sxzyd1SIx7COY68mfEO3y) | [DENȲ](https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR), [Just Hush](https://open.spotify.com/artist/3KovZIDNYgQY8chiNZo2ZF), [Third Flo'](https://open.spotify.com/artist/4oq3ZPun2GUPkUBo8BzuTW) | [LOVES7AGE](https://open.spotify.com/album/69ewkNFbekxjGlMyc5kCYQ) | 4:00 | 2023-11-29 | 2024-01-12 |
 | [Alam Ko Na](https://open.spotify.com/track/6deBk1BSZkEO7WxvXKnqOZ) | [DENȲ](https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR), [Just Hush](https://open.spotify.com/artist/3KovZIDNYgQY8chiNZo2ZF), [Third Flo'](https://open.spotify.com/artist/4oq3ZPun2GUPkUBo8BzuTW) | [Alam Ko Na](https://open.spotify.com/album/72zUZYts2xtMDdOS02vOSw) | 4:00 | 2023-04-13 |  |
 | [An Art Gallery Could Never Be As Unique As You](https://open.spotify.com/track/22Nd3GuO7sHopPjdKccRcq) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [An Art Gallery Could Never Be As Unique As You](https://open.spotify.com/album/0FRaoawfqep3bJcCqcQZpD) | 2:38 | 2022-03-24 | 2023-04-14 |
+| [Ang Galing DITO](https://open.spotify.com/track/0LAX5IcN1i2aDWXqW0Tsap) | [DITO Telecommunity](https://open.spotify.com/artist/5dvhvdiS3UKaAJ74swZo8H), [Alamat](https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW) | [Ang Galing DITO](https://open.spotify.com/album/0SlJFK6OHKamPywLwROwaI) | 2:24 | 2024-02-21 |  |
 | [Ang Rosas](https://open.spotify.com/track/0lJ96vYvGE9szc5XoKG3JW) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Ang Rosas](https://open.spotify.com/album/3YCSZA4P7byM8e1L7teBNv) | 4:36 | 2021-11-25 | 2022-03-25 |
 | [Another Day](https://open.spotify.com/track/4rCpSyxdUIXPvPsK77p7wE) | [dia maté](https://open.spotify.com/artist/4UcpNyDTbuLdGygQNjuXfd) | [Another Day](https://open.spotify.com/album/13EhQoTZsk8mfqwbGPG2E8) | 4:28 | 2022-10-25 | 2022-12-01 |
 | [Ayoko Pa](https://open.spotify.com/track/6WauTGPc48jOCF4HfQU9DU) | [Alex Bruce](https://open.spotify.com/artist/65896yX3ZMa0af70HRYNVX), [Cursebox](https://open.spotify.com/artist/52REqNdtIQAapIZ4WEwBVg) | [Ayoko Pa](https://open.spotify.com/album/0Ke3mRgrGs6GM7Q8FQJdLZ) | 3:14 | 2022-09-08 | 2022-12-01 |
@@ -112,6 +113,7 @@
 | [Nangangamba](https://open.spotify.com/track/1dcNEEtODRVZEevQ20Cgmy) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Nangangamba](https://open.spotify.com/album/4kHntHygZZcKMRXGE2k1Fw) | 3:30 | 2021-11-25 | 2022-03-25 |
 | [Ngayon Lang 'To](https://open.spotify.com/track/0V4mByDGbFjeKQ2ufzq2OI) | [raven](https://open.spotify.com/artist/3Dr5ezvDdYsycy1gfaZWSL) | [Ngayon Lang 'To](https://open.spotify.com/album/4yWaadPMM1qAWyrafzP4lM) | 3:10 | 2022-03-24 | 2023-04-14 |
 | [Pagbilang Ng Tatlo](https://open.spotify.com/track/6qLfX65ENPhm38xQruqoVP) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Pasahili](https://open.spotify.com/album/1ap5tsIDusVksftqQzTSQL) | 3:16 | 2022-10-27 | 2022-12-01 |
+| [Pagdali](https://open.spotify.com/track/7fMR5ryCo3m38yyj1PCym4) | [PLAYERTWO](https://open.spotify.com/artist/4wjgqUtfS9TNfMHhjEqAb7), [Felip](https://open.spotify.com/artist/2tEFDBihLXytoPl4xdResl) | [Pagdali](https://open.spotify.com/album/185zJ1UyWQn80NFdOCjIPJ) | 3:33 | 2024-02-21 |  |
 | [Pagsamo](https://open.spotify.com/track/34YfLWuoxLEcvJQNxdI9P2) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Pagsamo](https://open.spotify.com/album/2a4tsCtI450vuuBKJ3nSP2) | 4:57 | 2021-11-25 | 2022-03-25 |
 | [Pantropiko](https://open.spotify.com/track/6Csrqur3IfnVp0EtHskjMw) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Pantropiko](https://open.spotify.com/album/3NYOeU6Uwj2FP1Zz1rWVz8) | 3:45 | 2023-11-17 |  |
 | [Paraluman](https://open.spotify.com/track/7I9RoRcJ0N9rvN4p4KWPsH) | [raven](https://open.spotify.com/artist/3Dr5ezvDdYsycy1gfaZWSL) | [Paraluman](https://open.spotify.com/album/2eKPpTGmSRX3bfBZm9QxiN) | 3:44 | 2022-11-30 | 2023-04-14 |
@@ -140,6 +142,7 @@
 | [Sinag \(feat\. Sam Benwick\)](https://open.spotify.com/track/5DARNIgi6aaJxGD5SKAUal) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22), [Sam Benwick](https://open.spotify.com/artist/2Zsn09Mt6kHdipblDeVaF9) | [Sinag \(feat\. Sam Benwick\)](https://open.spotify.com/album/4gBNPqTdgUJr2Box5PO8WM) | 4:28 | 2022-08-12 | 2022-12-01 |
 | [Someone New](https://open.spotify.com/track/3pLBPNR3ikdcDW5CP67gHY) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R), [Martti Franca](https://open.spotify.com/artist/639kduoUmDR7ISY0QF6WlX) | [Someone New](https://open.spotify.com/album/1hOm07TU9l0hAuqvjKXvUt) | 4:15 | 2023-08-28 |  |
 | [Soul Ties](https://open.spotify.com/track/6HFrOJItMlIgzlYsXcs6Fu) | [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [Soul Ties](https://open.spotify.com/album/3AM8Ck88yPerwlY7Fvp0oU) | 3:58 | 2023-04-13 |  |
+| [SSP \(Saksak Sa Puso\)](https://open.spotify.com/track/4hNKQWQvHOOfxUR0IrGpYG) | [VXON](https://open.spotify.com/artist/03jMNKZ7bfBuHdZUqeJyv7) | [20:20](https://open.spotify.com/album/0TJkShI3cK81IT2dQ70Xbh) | 3:34 | 2024-02-21 |  |
 | [Strings](https://open.spotify.com/track/1yja0zSvvgJtbV34B02kLG) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Feel Good](https://open.spotify.com/album/2JFAmLbybI6ExZ5l1DTuQI) | 3:20 | 2022-09-29 | 2022-12-01 |
 | [Sunday Morning](https://open.spotify.com/track/4C9bX6MwR0JBYDGK4JXhbB) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R), [Ysanygo](https://open.spotify.com/artist/6fc4La0O0xzu4tZIE0tSsQ) | [Sunday Morning](https://open.spotify.com/album/5BApQ2E2DhSsntBBrb7zSG) | 3:44 | 2023-10-02 |  |
 | [Sway](https://open.spotify.com/track/5xvZKZKmaO1wmicwNL273v) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R) | [Sway](https://open.spotify.com/album/3ZyjJ6WcSzSFtCOk7ysUbV) | 3:58 | 2023-04-13 |  |

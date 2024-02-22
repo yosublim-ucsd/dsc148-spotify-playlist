@@ -1,5 +1,5 @@
 {
-  "2024-02-21": 50173,
+  "2024-02-22": 50239,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Morocco.",
   "name": "Top 50 - Morocco",
@@ -1143,7 +1143,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 228925,
       "name": "Abala Ya Bali",
       "url": "https://open.spotify.com/track/2a1dUbvOaZw7vrHNanpi3r"
@@ -8514,6 +8514,24 @@
     },
     {
       "album": {
+        "name": "Ghanili",
+        "url": "https://open.spotify.com/album/5l7tQsPjmtqu7IkyDREAjI"
+      },
+      "artists": [
+        {
+          "name": "Kawtar",
+          "url": "https://open.spotify.com/artist/4B9s73FXhLx5FXLabyWa2m"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "Ghanili",
+      "url": "https://open.spotify.com/track/0sobdrww1wYUfqhrCAzwz0"
+    },
+    {
+      "album": {
         "name": "Ghazali",
         "url": "https://open.spotify.com/album/1BD51EjGSTPgMyfQoA6VwG"
       },
@@ -10133,7 +10151,7 @@
       ],
       "date_added": "2024-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-20",
+      "date_removed": null,
       "duration_ms": 106000,
       "name": "ICEBERG",
       "url": "https://open.spotify.com/track/4sFsLnDKy6xRxIrZx5tP54"
@@ -14235,7 +14253,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-19",
+      "date_removed": null,
       "duration_ms": 209070,
       "name": "Machi Lkhatri",
       "url": "https://open.spotify.com/track/5BSg7yE6EmP6hSdhjPy0J0"
@@ -22483,7 +22501,7 @@
       ],
       "date_added": "2022-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 211230,
       "name": "Talet Lghiba",
       "url": "https://open.spotify.com/track/6vEtT2Vu5MprdI69pATbLm"
@@ -25407,7 +25425,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 145620,
       "name": "Y Dor",
       "url": "https://open.spotify.com/track/4m4MwgqsswdG67P8SsQEii"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2yLRw4.md) - [plain]
 
 > This is AWOLNATION\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,868 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,872 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2yLRw4.md) - [plain]
 | 49 | [Eye In The Sky \(feat\. Beck\)](https://open.spotify.com/track/4JxXyhC4FAALmp7uXrmsrG) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [My Echo, My Shadow, My Covers & Me](https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW) | 4:03 |
 | 50 | [Swinging from the Castles](https://open.spotify.com/track/6Vr85PSTw31QO9lplFapFL) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/5JNXvM5u7H04wj71hDLfux) | 3:02 |
 
-Snapshot ID: `Mjg0NzQxMzEsMDAwMDAwMDA4ZWViZWQ0NTg5YzkxYThhNGM5NGI3Zjk3YzY2YzNhZQ==`
+Snapshot ID: `Mjg0NzUyOTEsMDAwMDAwMDBkNGNhMGNkYmUzNzk3MTcyOTIxMmZkOTM0YTk3MTcxZA==`

@@ -2,9 +2,9 @@
 
 ### [Essential Folk](https://open.spotify.com/playlist/37i9dQZF1DWVmps5U8gHNv)
 
-> A collection of classics from the height of the folk revival to the rise of the folk rock era\. Cover: Bob Dylan
+> A collection of classics from the height of the folk revival to the rise of the folk rock era\. Cover: Tracy Chapman
 
-189 songs - 11 hr 59 min
+191 songs - 12 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Early Morning Rain](https://open.spotify.com/track/5M1gX3DQvgc7GI6dBWX9FL) | [Gordon Lightfoot](https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4) | [Gord's Gold](https://open.spotify.com/album/6okC12pcFeLZOifXdunuhQ) | 3:18 | 2021-08-18 |  |
 | [Early Morning Rain](https://open.spotify.com/track/4GV5wmFd0G5NW8lQK9aVvP) | [Ian & Sylvia](https://open.spotify.com/artist/2QkNXWhQoTVUMyS9OIDP0H) | [Early Morning Rain](https://open.spotify.com/album/7d4POkYBpW8zKTcZvNEyxa) | 3:58 | 2021-08-18 |  |
 | [Eleanor Rigby](https://open.spotify.com/track/0EbFmS2uZycsxJfg6jvlrn) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Greatest Hits And Others](https://open.spotify.com/album/1ycddMO4m3ij8zGNIYVITj) | 2:20 | 2021-08-18 |  |
+| [Fast Car](https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Tracy Chapman](https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8) | 4:56 | 2024-02-21 |  |
 | [Fire and Rain](https://open.spotify.com/track/3LcYYV9ozePfgYYmXv0P3r) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Sweet Baby James](https://open.spotify.com/album/2NEQ5Q4sBbUHVVx3Wf8TEZ) | 3:20 | 2021-08-18 | 2022-07-29 |
 | [Fire and Rain](https://open.spotify.com/track/6zgeog6feHU0gpFeG8UbGa) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Calming Ballads](https://open.spotify.com/album/4nGVLxjxJZcgw5f6I4hqi0) | 3:20 | 2022-03-11 | 2022-11-14 |
 | [Fire and Rain \- 2019 Remaster](https://open.spotify.com/track/1oht5GevPN9t1T3kG1m1GO) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Sweet Baby James \(2019 Remaster\)](https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx) | 3:23 | 2022-03-11 |  |
@@ -109,6 +110,7 @@
 | [Mrs\. Robinson \- From "The Graduate" Soundtrack](https://open.spotify.com/track/0iOZM63lendWRTTeKhZBSC) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bookends](https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2) | 4:04 | 2022-03-11 |  |
 | [Mrs\. Robinson \- Single Mix](https://open.spotify.com/track/3CJ60azPXtva8OdBsxSA7a) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Greatest Hits](https://open.spotify.com/album/25irJgxRNTlyg8pUmWfDVG) | 3:54 | 2021-08-18 | 2022-07-29 |
 | [Music Is Love](https://open.spotify.com/track/0O87QQVWgCkkXAfrhsal55) | [David Crosby](https://open.spotify.com/artist/59zdhVoWxSoHMc74n098Re) | [If I Could Only Remember My Name](https://open.spotify.com/album/4v9ZAufvuQKvTLcy21y6BM) | 3:22 | 2021-08-18 | 2022-03-09 |
+| [Northern Sky](https://open.spotify.com/track/3EtIraJEHVSbBvLw5msioH) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Bryter Layter](https://open.spotify.com/album/04FfqGvZJ9oUBGRVrq2FE5) | 3:44 | 2024-02-21 |  |
 | [Not Dark Yet \- Version 1](https://open.spotify.com/track/4tBwhmAibSxix5rKQ5zr4c) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Fragments \- Time Out of Mind Sessions \(1996\-1997\): The Bootleg Series, Vol\. 17](https://open.spotify.com/album/145Jtm8B3iZcxttgY9Y5NJ) | 7:10 | 2023-01-27 | 2023-04-15 |
 | [Not Dark Yet \- Version 1](https://open.spotify.com/track/5CdrxIu33WFVpa2qnuG3A1) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Not Dark Yet \(Version 1\)](https://open.spotify.com/album/577uc6MHsDO7dJEPimNkmc) | 7:12 | 2023-01-20 | 2023-01-29 |
 | [Oh, Susanna](https://open.spotify.com/track/3nj18sxe1CA0eohDsDirrm) | [Pete Seeger](https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY) | [American Favorite Ballads, Vol\. 1](https://open.spotify.com/album/7tOP92RZSo7e896sPIOPY8) | 1:17 | 2021-08-18 |  |
@@ -125,7 +127,7 @@
 | [Poncho & Lefty](https://open.spotify.com/track/6QXtKi4TVe1458QNodE3cs) | [Townes Van Zandt](https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof) | [The Late Great Townes Van Zandt](https://open.spotify.com/album/2GkG26CJD8opQ9PDfkaEB6) | 3:40 | 2021-08-18 |  |
 | [Puff, the Magic Dragon \- 2004 Remaster](https://open.spotify.com/track/7raciFPVU5VuHmqVbw2c1h) | [Peter, Paul and Mary](https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB) | [The Very Best of Peter, Paul and Mary](https://open.spotify.com/album/14Qo0TZ3M82PC4EFTt39X0) | 3:28 | 2021-08-18 |  |
 | [Return of the Grievous Angel \- 2006 Remaster](https://open.spotify.com/track/7vOYp7KJ8gVmVbcatSVf9J) | [Gram Parsons](https://open.spotify.com/artist/1KA3WXYMPLxomNuoE22LYd) | [Grievous Angel](https://open.spotify.com/album/6UQujMGmR5MbFsML9amCuN) | 4:26 | 2021-08-18 |  |
-| [Road](https://open.spotify.com/track/5ir0VEsMI7cLhN6SEiaKol) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Pink Moon](https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg) | 1:59 | 2022-03-11 |  |
+| [Road](https://open.spotify.com/track/5ir0VEsMI7cLhN6SEiaKol) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Pink Moon](https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg) | 1:59 | 2022-03-11 | 2024-02-22 |
 | [Road](https://open.spotify.com/track/2jEODSKD7kohAI7mGrFVmn) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Digital Box Set](https://open.spotify.com/album/37NXzMNSyW0RhFVM2bkACC) | 1:59 | 2022-03-11 | 2022-11-13 |
 | [Road](https://open.spotify.com/track/7a9CcfKkg5E9JlU0nflL8K) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Pink Moon](https://open.spotify.com/album/7KyvfoQhqlNLPNb98yY0pf) | 1:59 | 2021-08-18 | 2022-07-29 |
 | [Rocky Mountain High](https://open.spotify.com/track/1ne9wOtDF2jM6Cm8WBkaER) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [Rocky Mountain High](https://open.spotify.com/album/2gEurk31djZjI3P3SY8ZcC) | 4:43 | 2022-03-11 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afropop, Afrobeats and Afro\-Caribbean hits, all in one place\. Cover: Tam Sir
 
-[Spotify](https://open.spotify.com/user/spotify) - 881,199 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 881,445 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 27 | [Sensational \(feat\. Davido & Lojay\)](https://open.spotify.com/track/5HM5trJxTouv3eUVcbW8sh) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Sensational \(feat\. Davido & Lojay\)](https://open.spotify.com/album/68nJVTjmRbl5se1eYTglBA) | 3:51 |
 | 28 | [Biso Mibale \(feat\. Jungeli\)](https://open.spotify.com/track/5Ymv6tlT7HgheiAfiU12mN) | [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx), [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [Biso Mibale \(feat\. Jungeli\)](https://open.spotify.com/album/2qJCFSI8a3jNLyusz1opBU) | 2:57 |
 | 29 | [Enjoy](https://open.spotify.com/track/3osydJRsRqgVFKYTC04QfT) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Enjoy](https://open.spotify.com/album/3uY2fylWZaffBO94cxXQ15) | 3:36 |
-| 30 | [SKEU SKEU \(feat\. wilsko & 7ia\)](https://open.spotify.com/track/0sZEwII5Qe3r7izOgdOvLT) | [Jogga](https://open.spotify.com/artist/6kByPyGr60aeCsb8TGOWav), [wilsko](https://open.spotify.com/artist/1d38UPGn8PJ9XekumcIBha), [7ia](https://open.spotify.com/artist/7736wQOIPocKi5hEg7l3hG) | [SKEU SKEU \(feat\. wilsko & 7ia\)](https://open.spotify.com/album/5RA05MgWTevAIscvEmiiww) | 3:01 |
+| 30 | [SKEU SKEU \(feat\. wilsko\)](https://open.spotify.com/track/0sZEwII5Qe3r7izOgdOvLT) | [Jogga](https://open.spotify.com/artist/6kByPyGr60aeCsb8TGOWav), [wilsko](https://open.spotify.com/artist/1d38UPGn8PJ9XekumcIBha) | [SKEU SKEU \(feat\. wilsko\)](https://open.spotify.com/album/5RA05MgWTevAIscvEmiiww) | 3:01 |
 | 31 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 |
 | 32 | [C'est qui ?](https://open.spotify.com/track/6vFW5IUYRUAKcrvkRuWoQP) | [Big Ben](https://open.spotify.com/artist/4jPuXBvEwyMyVQPRoQsTDn), [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [C'est qui ?](https://open.spotify.com/album/3DvCvEWcEcK9iG4cf8lOn8) | 2:45 |
 | 33 | [FEEL](https://open.spotify.com/track/1mk8ZC9OeTZMr8Wy31LqRj) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 49 | [LIKE THAT \(feat\. Oxlade\)](https://open.spotify.com/track/6hqEqrLJwBk5w88Ih7ZfHt) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [27](https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8) | 3:12 |
 | 50 | [Jalouse](https://open.spotify.com/track/1eTc0w4sRlkV0qz9hkbqMj) | [Lala &ce](https://open.spotify.com/artist/1AKP8Tnz8KfOdRM4mqvNtF) | [Jalouse](https://open.spotify.com/album/3d4ONFiZsEZfGPfvWz2OM9) | 3:13 |
 
-Snapshot ID: `MCxjNTc1NWVjMDBhYTAwM2ZkMGJhN2EwNDg2M2MxNzFhYzdlZTZkOTcx`
+Snapshot ID: `MCwwNmVhZWQ5MDViYzFiZTA2NzkxOWJiNGE4ZDgwNmE5NTJmZTkzN2Yw`

@@ -4,7 +4,7 @@
 
 > The perfect soundtrack to those long nights over dinner
 
-389 songs - 23 hr 3 min
+390 songs - 23 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Buttons](https://open.spotify.com/track/4CzLJ2wsrk1QdhXXuT16gx) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 3:04 | 2022-09-09 | 2022-10-29 |
 | [By Your Side](https://open.spotify.com/track/3tR6P9ZbmAv9rqtUBEEIbY) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Leave Me Breathless](https://open.spotify.com/album/64q8FVttuqM8sKaUB1WyfV) | 2:46 | 2021-06-22 | 2022-07-29 |
 | [By Your Side](https://open.spotify.com/track/7H3ojI1BsVy0dEJENqMt1k) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Lovers Rock](https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9) | 4:34 | 2023-12-31 |  |
+| [Can I Call You Rose?](https://open.spotify.com/track/6IAuH3hgTRpUUdmOGubXGS) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/6ofJrAZaaX0iWTXYXObUxE) | 3:10 | 2024-02-21 |  |
 | [Candle In The Wind \- 2018 Version](https://open.spotify.com/track/73TXMz1i41sGfOuDg8gH4L) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Revamp: The Songs Of Elton John & Bernie Taupin](https://open.spotify.com/album/2w667CqWz0JWkhxP7IfijA) | 3:18 | 2021-06-22 | 2023-05-27 |
 | [Carry Me Home](https://open.spotify.com/track/6fracv4du3sDwo1XKcPrkw) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Project 11](https://open.spotify.com/album/0aytGzjInPwluxhlSLxoot) | 4:42 | 2022-08-18 | 2023-01-01 |
 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 | 2023-04-24 |  |
@@ -132,7 +133,7 @@
 | [Freedom For a Change](https://open.spotify.com/track/2C0uAETVUpvW1DjMsu8xcb) | [Gizmo Varillas](https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj) | [Freedom For a Change](https://open.spotify.com/album/0zpPgSOoLfGB6IOtFsLuXo) | 2:38 | 2021-06-22 | 2022-07-29 |
 | [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 | 2023-07-17 |  |
 | [Full Full Colour](https://open.spotify.com/track/4TmZ7SSq5YnKe2Qu9ge5fL) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [Full Full Colour](https://open.spotify.com/album/5Nzqar2JO5KLvjFXDETJWn) | 2:36 | 2021-06-22 | 2022-05-18 |
-| [Gamesofluck](https://open.spotify.com/track/0rdWkO7ncrh1lrJGDmLq9L) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Gamesofluck](https://open.spotify.com/album/0ugE0qpkFDNLYFmNiUOOKA) | 5:48 | 2022-07-22 |  |
+| [Gamesofluck](https://open.spotify.com/track/0rdWkO7ncrh1lrJGDmLq9L) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Gamesofluck](https://open.spotify.com/album/0ugE0qpkFDNLYFmNiUOOKA) | 5:48 | 2022-07-22 | 2024-02-22 |
 | [Get It Right](https://open.spotify.com/track/74ZQkrS93fcV6fcRYxqjjK) | [Hajk](https://open.spotify.com/artist/3cBN6cBqKYBdXjENOSeA8z) | [Drama](https://open.spotify.com/album/5H6QBY3slTev1nqxv1aSkr) | 3:59 | 2021-06-22 | 2022-07-29 |
 | [Giants](https://open.spotify.com/track/2GP4MPXJD28vtnLMnBZG5c) | [JUNG](https://open.spotify.com/artist/1OHba9a2SK2KcJmJgkGQZO) | [Giants](https://open.spotify.com/album/4Na5tW314eMC3jByBUpll4) | 3:49 | 2021-06-22 | 2022-02-07 |
 | [Give Me the Night](https://open.spotify.com/track/62GYoGszQfROZswLee6W3O) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [The George Benson Collection](https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN) | 3:42 | 2022-07-22 | 2024-02-11 |

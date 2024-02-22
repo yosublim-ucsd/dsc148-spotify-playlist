@@ -4,7 +4,7 @@
 
 > Jazz for breakfast to start your day right.
 
-193 songs - 16 hr 39 min
+194 songs - 16 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,8 +35,9 @@
 | [Boo's Blues](https://open.spotify.com/track/69eOQr9N0AQm8lGJMBHyAr) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Boo's Blues](https://open.spotify.com/album/7cLgwx3J525qJrIbYOohuU) | 3:25 | 2022-02-10 |  |
 | [Bubbles](https://open.spotify.com/track/3GGslX17J2F3IzVE5yIiRJ) | [Jacob Karlzon](https://open.spotify.com/artist/3R4vdaqhh9jn2fOCned9nM) | [Jacob Karlzon Trio: Today](https://open.spotify.com/album/10ZG1HoTjvzHzq7kvATtMm) | 5:06 | 2022-06-30 | 2024-01-18 |
 | [Bubbles](https://open.spotify.com/track/2pRpSND6CcxuZYfBlccZXN) | [Jacob Karlzon Trio](https://open.spotify.com/artist/1ap7d4ByxAHY8C3QnedJH7) | [Jacob Karlzon Trio: Today](https://open.spotify.com/album/30xxXhILNDBzUMneKkd1BA) | 5:06 | 2021-12-21 | 2022-07-29 |
-| [Bye Bye Blackbird \- Live](https://open.spotify.com/track/6uOOsk7EiY6KUPOrrZZ3T1) | [Jim Snidero](https://open.spotify.com/artist/210tC5HRo1NpbeqCvWlJuv) | [Bye Bye Blackbird \(Live\)](https://open.spotify.com/album/7MvX7YVbUIvaIqUJi4wQnE) | 7:02 | 2022-02-10 |  |
+| [Bye Bye Blackbird \- Live](https://open.spotify.com/track/6uOOsk7EiY6KUPOrrZZ3T1) | [Jim Snidero](https://open.spotify.com/artist/210tC5HRo1NpbeqCvWlJuv) | [Bye Bye Blackbird \(Live\)](https://open.spotify.com/album/7MvX7YVbUIvaIqUJi4wQnE) | 7:02 | 2022-02-10 | 2024-02-22 |
 | [central park west](https://open.spotify.com/track/1RzZ52eCHTUA9VkIJMMcO3) | [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l) | [central park west](https://open.spotify.com/album/4jR1pj36uwbnOKxBphdmEG) | 4:28 | 2024-01-26 | 2024-02-15 |
+| [central park west](https://open.spotify.com/track/5jPy6437F28samqS2tJu7n) | [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l) | [nublues](https://open.spotify.com/album/25Dgs9rR8ETpGCwD0wUv0q) | 4:28 | 2024-02-20 |  |
 | [Cloudland](https://open.spotify.com/track/32GV4ifruoiDEoLVe0c1k7) | [Lars Danielsson](https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope), [Grégory Privat](https://open.spotify.com/artist/0mmRcGkPj9s4Hq0xFrMBPh), [John Parricelli](https://open.spotify.com/artist/55Ib86Ob0dKLELhJ1gvUri), [Magnus Öström](https://open.spotify.com/artist/1ZPtjLlwSZjToQXcq2JVy2), [Arve Henriksen](https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7) | [Cloudland](https://open.spotify.com/album/0fm7uQgAG7FIMzrKZfKMng) | 4:34 | 2022-02-10 |  |
 | [Compromises](https://open.spotify.com/track/6teUPQnEbgYScxhKjVNcOc) | [Arne Torvik Trio](https://open.spotify.com/artist/7wIjlaL576ezBXdBuC3rGZ), [Arne Torvik](https://open.spotify.com/artist/3T69SoM3RxKdkpQd2gn2iv), [Bjørnar Kaldefoss Tveite](https://open.spotify.com/artist/6UlcsS6DYRuJmx1keoSc66), [Øystein Aarnes Vik](https://open.spotify.com/artist/4j7webqY2iLUDsHzMjgd9u) | [Compromises](https://open.spotify.com/album/7MkYND1u4Y9ytafBECXxPM) | 3:05 | 2021-12-21 |  |
 | [Cononbridge](https://open.spotify.com/track/7eTxWRSvauWm5L3FblGk2h) | [Matt Carmichael](https://open.spotify.com/artist/1U7veIfQdOj6xbmc6mWLd0) | [Cononbridge](https://open.spotify.com/album/1Hu3K4n6IhaGGqCT5Hf1sj) | 4:58 | 2022-02-10 |  |

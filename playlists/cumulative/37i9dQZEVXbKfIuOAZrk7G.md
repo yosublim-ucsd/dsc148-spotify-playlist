@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Canada.
 
-2,347 songs - 5 day 5 hr 7 min
+2,348 songs - 5 day 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1574,6 +1574,7 @@
 | [Playing God](https://open.spotify.com/track/6AhwAWzSlISc5ZvGonkgdN) | [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ) | [Remember That You Will Die](https://open.spotify.com/album/1BJtoy1VgHMMvotBwvylJ5) | 3:25 | 2022-11-04 | 2022-11-09 |
 | [Please Do Not Lean \(feat\. BADBADNOTGOOD\)](https://open.spotify.com/track/5uXO1sjZ7VbNKexKaFRna3) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Please Do Not Lean](https://open.spotify.com/album/2kdNEYAPZlAoMaIzYQWM8U) | 4:00 | 2022-05-17 | 2022-05-20 |
 | [Please Don't Go](https://open.spotify.com/track/6DHPLbudo5JXNdUlG7zDcC) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Please Don't Go](https://open.spotify.com/album/4K2htiCgz7DrhLOWepp3ru) | 3:01 | 2023-02-24 | 2023-04-30 |
+| [plot twist](https://open.spotify.com/track/0aZG8KWrpRnsGL0loUkfSj) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TWS 1st Mini Album 'Sparkling Blue'](https://open.spotify.com/album/25qO1VYd8BuT8m5w8CFpdG) | 2:32 | 2024-02-21 |  |
 | [Plus rien](https://open.spotify.com/track/5n6rZTnbvFABpuU9cgicDi) | [Les Cowboys Fringants](https://open.spotify.com/artist/54BZLczVMsW9sPSIcUst1a) | [La grand\-messe](https://open.spotify.com/album/11R4ZPmfZTbIMxy4QumstB) | 3:34 | 2023-11-20 | 2023-11-26 |
 | [Point Me 2 \(with Cardi B\)](https://open.spotify.com/track/7ttrlfQIDc8JlxtH7fVDWp) | [FendiDa Rappa](https://open.spotify.com/artist/7oXyXDUyxRjYXWC5L5EuGy), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Point Me 2 \(with Cardi B\)](https://open.spotify.com/album/2tGYtTYzKa2sa7XAWcRiGk) | 3:45 | 2023-08-01 | 2023-08-09 |
 | [Poison \- Hazbin Hotel Original Soundtrack](https://open.spotify.com/track/6ZXL1A1BVshe1JZ1IY734k) | [Blake Roman](https://open.spotify.com/artist/18p5uhOP0T6w7EwYy389ej), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8), [Andrew Underberg](https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay) | [Poison \(Hazbin Hotel Original Soundtrack\)](https://open.spotify.com/album/6dB85sDBpcpU4s5kwU7etB) | 2:07 | 2024-01-24 |  |
@@ -1653,7 +1654,7 @@
 | [Red Flags](https://open.spotify.com/track/2Dx0UA8OwEqrZbQIs0yKXv) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Red Flags](https://open.spotify.com/album/1xGyeyfEO4oEler6lHxF56) | 2:52 | 2023-04-25 | 2023-05-03 |
 | [Red Ruby Da Sleeze](https://open.spotify.com/track/4ZYAU4A2YBtlNdqOUtc7T2) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Red Ruby Da Sleeze](https://open.spotify.com/album/0zCHOD0Z8yOrIP1fw7u1J6) | 3:34 | 2023-03-28 | 2023-04-01 |
 | [Red Solo Cup](https://open.spotify.com/track/4YKAOXyqkKZ5gOZR0AmVMN) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Clancy's Tavern](https://open.spotify.com/album/0sndIMIlhlgn1eyavXRK1C) | 3:43 | 2024-02-11 | 2024-02-13 |
-| [redrum](https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 4:30 | 2024-01-30 |  |
+| [redrum](https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 4:30 | 2024-01-30 | 2024-02-22 |
 | [redruM](https://open.spotify.com/track/0pnG6sIThf9kp9ebTqn44L) | [Sorana](https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [redruM](https://open.spotify.com/album/3sIQjig3kXpArR2S0nJ77P) | 2:52 | 2022-02-15 | 2022-02-18 |
 | [Reggae & Calypso \(Russ Millions x Buni x YV\)](https://open.spotify.com/track/3FMedgGsLUNwx8NciePFEK) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [Buni](https://open.spotify.com/artist/5AiY4bxeXerLXx03JADdQv), [YV](https://open.spotify.com/artist/5A7HNCq6t0xNDOjZIUZDRk) | [One Of A Kind Music Presents: Reggae & Calypso \(Russ Millions x Buni x YV\)](https://open.spotify.com/album/7edXlHrpkf5btwVVy1nO3k) | 2:21 | 2022-03-08 | 2022-04-06 |
 | [Reggaeton Champagne](https://open.spotify.com/track/7yIIeKUxTpn36X6CFJhgEi) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ) | [Kittyponeo](https://open.spotify.com/album/2u2IVr3kVR13lr517rvcjM) | 2:39 | 2023-10-27 | 2023-11-29 |

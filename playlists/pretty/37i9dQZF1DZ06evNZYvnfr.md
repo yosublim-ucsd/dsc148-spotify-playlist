@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYvnfr.md) - [plain]
 
 > This is Micah Tyler\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,336 likes - 32 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,338 likes - 32 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,16 +29,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYvnfr.md) - [plain]
 | 19 | [Headed for the Mountain \(feat\. Phil King\)](https://open.spotify.com/track/0jxbPoE0igClGfEM0yAJfn) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi), [Phil King](https://open.spotify.com/artist/1M7IqeW8EcYmcuuPkiwVDz) | [The Story I Tell](https://open.spotify.com/album/1sEhas5NNPMi3FM7vRicOC) | 2:46 |
 | 20 | [By Name](https://open.spotify.com/track/1b3Ru6VZDT9Udpgqn1HIIB) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [New Today](https://open.spotify.com/album/7AboNyd4LqFy35DOEOzBtK) | 3:24 |
 | 21 | [Directions](https://open.spotify.com/track/1IxaVqea651MG8OxnYByrP) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Different](https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB) | 3:33 |
-| 22 | [My Story Your Glory \- Micah Tyler Collab Version](https://open.spotify.com/track/4049ATZU2lzziyACfxMiqc) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj), [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [My Story Your Glory \(Expanded Edition\)](https://open.spotify.com/album/1FNe9cy8XHcI8JS4cqU6lD) | 3:08 |
+| 22 | [Come to Life](https://open.spotify.com/track/0CQ3Wa3jHtkOwVTKyM2Ba1) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [The Kitchen Sink EP](https://open.spotify.com/album/1fvW7x2SVv18l0DM97INrp) | 3:22 |
 | 23 | [You Make Sense](https://open.spotify.com/track/68r5EFb5qV9oWkhaOY6jdr) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [The Story I Tell](https://open.spotify.com/album/1sEhas5NNPMi3FM7vRicOC) | 3:43 |
 | 24 | [My God Fights For Me \(feat\. Austin French & Nickie Conley\)](https://open.spotify.com/track/42bno1yjQDmijfQhTZheHv) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi), [Austin French](https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU), [Nickie Conley](https://open.spotify.com/artist/5oCYtRBPryG7fs2gq6aqo1) | [New Today](https://open.spotify.com/album/7AboNyd4LqFy35DOEOzBtK) | 3:40 |
-| 25 | [Come to Life](https://open.spotify.com/track/0CQ3Wa3jHtkOwVTKyM2Ba1) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [The Kitchen Sink EP](https://open.spotify.com/album/1fvW7x2SVv18l0DM97INrp) | 3:22 |
-| 26 | [Come Thou Fount](https://open.spotify.com/track/0dkyHTIAFrDcoKwOigL1H5) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [God Bless the Broken Road](https://open.spotify.com/album/1pqFU74JDxeIzKw3tYnNbu) | 2:12 |
+| 25 | [My Story Your Glory \- Micah Tyler Collab Version](https://open.spotify.com/track/4049ATZU2lzziyACfxMiqc) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj), [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [My Story Your Glory \(Expanded Edition\)](https://open.spotify.com/album/1FNe9cy8XHcI8JS4cqU6lD) | 3:08 |
+| 26 | [The Flood](https://open.spotify.com/track/4xYGLd2NHdPTpO1LrRZAbz) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [The Kitchen Sink EP](https://open.spotify.com/album/1fvW7x2SVv18l0DM97INrp) | 3:20 |
 | 27 | [Feels Like Music](https://open.spotify.com/track/6f6zDuRAt24focp2VMx0Pe) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [The Story I Tell](https://open.spotify.com/album/1sEhas5NNPMi3FM7vRicOC) | 3:05 |
-| 28 | [Remember This](https://open.spotify.com/track/7vFyHLrMnhMVbdADWbgvGk) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [People Like Us](https://open.spotify.com/album/5s8qFUq2nCBCREC3EXjwVL) | 4:19 |
-| 29 | [The Flood](https://open.spotify.com/track/4xYGLd2NHdPTpO1LrRZAbz) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [The Kitchen Sink EP](https://open.spotify.com/album/1fvW7x2SVv18l0DM97INrp) | 3:20 |
-| 30 | [The Warrior](https://open.spotify.com/track/7HUDA4fVTMgDrqy8fZWZrm) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [The Story I Tell](https://open.spotify.com/album/1sEhas5NNPMi3FM7vRicOC) | 3:49 |
-| 31 | [Southern Soul](https://open.spotify.com/track/45ZjkCNqpKoNb4sJg96OWu) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [The Kitchen Sink EP](https://open.spotify.com/album/1fvW7x2SVv18l0DM97INrp) | 4:01 |
+| 28 | [Come Thou Fount](https://open.spotify.com/track/0dkyHTIAFrDcoKwOigL1H5) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [God Bless the Broken Road](https://open.spotify.com/album/1pqFU74JDxeIzKw3tYnNbu) | 2:12 |
+| 29 | [Remember This](https://open.spotify.com/track/7vFyHLrMnhMVbdADWbgvGk) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [People Like Us](https://open.spotify.com/album/5s8qFUq2nCBCREC3EXjwVL) | 4:19 |
+| 30 | [Southern Soul](https://open.spotify.com/track/45ZjkCNqpKoNb4sJg96OWu) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [The Kitchen Sink EP](https://open.spotify.com/album/1fvW7x2SVv18l0DM97INrp) | 4:01 |
+| 31 | [The Warrior](https://open.spotify.com/track/7HUDA4fVTMgDrqy8fZWZrm) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [The Story I Tell](https://open.spotify.com/album/1sEhas5NNPMi3FM7vRicOC) | 3:49 |
 | 32 | [Wretch No More](https://open.spotify.com/track/1kIK6mCVRipXntUsPflAPE) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [The Kitchen Sink EP](https://open.spotify.com/album/1fvW7x2SVv18l0DM97INrp) | 6:14 |
 
-Snapshot ID: `Mjg0NzQxMzEsMDAwMDAwMDA4NWMwMWIwNWM2MDc4NjM5MDA1N2M1OGRjYmMzNjU1Ng==`
+Snapshot ID: `Mjg0NzUyOTAsMDAwMDAwMDBiNTU3Y2Q3YzM0NmQxNDJkMTQ3NDQzN2U0YzIxNzA1Mw==`

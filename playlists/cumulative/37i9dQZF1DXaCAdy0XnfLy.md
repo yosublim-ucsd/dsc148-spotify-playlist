@@ -4,7 +4,7 @@
 
 > Opposites attract...families don't\. Listen to music from and inspired by You People, now streaming on Netflix.
 
-42 songs - 2 hr 9 min
+43 songs - 2 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Stay High \- Childish Gambino Version](https://open.spotify.com/track/7d9x9mJPAruRZOieauLHrF) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Stay High \(Childish Gambino Version\)](https://open.spotify.com/album/1pqm2OlY6O35z5IK8FgIdX) | 3:38 | 2023-01-27 | 2023-07-16 |
 | [Take Care](https://open.spotify.com/track/124NFj84ppZ5pAxTuVQYCQ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Take Care \(Deluxe\)](https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q) | 4:37 | 2023-01-27 |  |
 | [Trauma Baby](https://open.spotify.com/track/2QrA62LLiEVHtuuBVkxLe3) | [Malcolm Mays](https://open.spotify.com/artist/1svyqzg4SYrPTGqPnpZf9y) | [Red Flags](https://open.spotify.com/album/7en2lHSBnO3VMNPzWz6mfI) | 2:29 | 2023-01-27 |  |
-| [What We Need](https://open.spotify.com/track/1VehDmef8S5IPN87Kqjqz9) | [Georgina Birch](https://open.spotify.com/artist/5DyYEbN8Y2iTnhSoRkwajz) | [Bloom](https://open.spotify.com/album/7zEUXsDD0SGInIGKgImUwu) | 2:52 | 2023-01-27 |  |
+| [What We Need](https://open.spotify.com/track/1VehDmef8S5IPN87Kqjqz9) | [Georgina Birch](https://open.spotify.com/artist/5DyYEbN8Y2iTnhSoRkwajz) | [Bloom](https://open.spotify.com/album/7zEUXsDD0SGInIGKgImUwu) | 2:52 | 2023-01-27 | 2024-02-22 |
+| [What We Need](https://open.spotify.com/track/5bM3GUfI4glMuXYTrlBXaP) | [Georgina Birch](https://open.spotify.com/artist/5DyYEbN8Y2iTnhSoRkwajz) | [Bloom](https://open.spotify.com/album/1Qwna32xpYucf3VgFPdxiA) | 2:52 | 2023-01-27 |  |
 | [Where Did the Day Go](https://open.spotify.com/track/1yfPd6D3t6HNIo6iJ9tQcY) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Where Did the Day Go](https://open.spotify.com/album/2nBR3wE6ZewzoEL8RCjexa) | 2:24 | 2023-01-27 |  |
 
 \*This playlist was first scraped on 2023-01-28. Prior content cannot be recovered.

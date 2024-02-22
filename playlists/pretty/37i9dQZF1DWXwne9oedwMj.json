@@ -1,12 +1,12 @@
 {
   "description": "Su\u00e9ltala que ella baila sola. <a href=https://spotify.com/descubretuflow>Descubre tu Flow</a>  ",
-  "num_followers": 552827,
+  "num_followers": 552615,
   "original_name": "Con B de Bichota",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNDEyZDk5ZGUyNDMzODkyNmYxMDlhZmE3YzU4MGJlZmRjN2I1NTk2",
+  "snapshot_id": "MCw3YzJlODAzYTI3ZGY4NDhlNWYyZTkxMDM5ZTllYjcyZDc5OWFlNjRj",
   "tracks": [
     {
       "added_at": "2023-07-28 18:06:51",
@@ -379,26 +379,6 @@
     {
       "added_at": "2023-07-28 18:06:51",
       "album": {
-        "name": "DISPARA ***",
-        "url": "https://open.spotify.com/album/63MfXzzOiA4B31XnstirjX"
-      },
-      "artists": [
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        },
-        {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
-        }
-      ],
-      "duration_ms": 143935,
-      "name": "DISPARA ***",
-      "url": "https://open.spotify.com/track/5y0zaOse4LHZ6ZowjpL0vW"
-    },
-    {
-      "added_at": "2023-07-28 18:06:51",
-      "album": {
         "name": "Ella No Es Tuya (Remix)",
         "url": "https://open.spotify.com/album/5Jk2ROWL8a4RxmFNiT8pvA"
       },
@@ -419,6 +399,26 @@
       "duration_ms": 218106,
       "name": "Ella No Es Tuya - Remix",
       "url": "https://open.spotify.com/track/5YYW3yRktprLRr47WK219Y"
+    },
+    {
+      "added_at": "2023-07-28 18:06:51",
+      "album": {
+        "name": "DISPARA ***",
+        "url": "https://open.spotify.com/album/63MfXzzOiA4B31XnstirjX"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "duration_ms": 143935,
+      "name": "DISPARA ***",
+      "url": "https://open.spotify.com/track/5y0zaOse4LHZ6ZowjpL0vW"
     },
     {
       "added_at": "2023-07-28 18:06:51",
@@ -515,18 +515,22 @@
     {
       "added_at": "2023-07-28 18:06:51",
       "album": {
-        "name": "PARA\u00cdSO",
-        "url": "https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc"
+        "name": "intoxicao",
+        "url": "https://open.spotify.com/album/0Oe35eRgVyLthOLW1vurye"
       },
       "artists": [
         {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
         }
       ],
-      "duration_ms": 202967,
-      "name": "CALENT\u00d3N",
-      "url": "https://open.spotify.com/track/3l9YiADzNmEvBfZVPEF49F"
+      "duration_ms": 168508,
+      "name": "intoxicao",
+      "url": "https://open.spotify.com/track/2Znff2J1fAgQhXXEMW7y5V"
     },
     {
       "added_at": "2023-07-28 18:06:51",
@@ -563,22 +567,18 @@
     {
       "added_at": "2023-07-28 18:06:51",
       "album": {
-        "name": "intoxicao",
-        "url": "https://open.spotify.com/album/0Oe35eRgVyLthOLW1vurye"
+        "name": "PARA\u00cdSO",
+        "url": "https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc"
       },
       "artists": [
         {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        },
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
         }
       ],
-      "duration_ms": 168508,
-      "name": "intoxicao",
-      "url": "https://open.spotify.com/track/2Znff2J1fAgQhXXEMW7y5V"
+      "duration_ms": 202967,
+      "name": "CALENT\u00d3N",
+      "url": "https://open.spotify.com/track/3l9YiADzNmEvBfZVPEF49F"
     },
     {
       "added_at": "2023-07-28 18:06:51",
@@ -607,26 +607,6 @@
     {
       "added_at": "2023-07-28 18:06:51",
       "album": {
-        "name": "FRIKI",
-        "url": "https://open.spotify.com/album/7LlTjovytMWtPVHm7cJku2"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 144986,
-      "name": "FRIKI",
-      "url": "https://open.spotify.com/track/3No3zHVwKadKDR00kZdmAB"
-    },
-    {
-      "added_at": "2023-07-28 18:06:51",
-      "album": {
         "name": "Ptazeta: Bzrp Music Sessions, Vol. 45",
         "url": "https://open.spotify.com/album/6lY3u461PHRz0PsO4KwzWU"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 161485,
       "name": "Ptazeta: Bzrp Music Sessions, Vol. 45",
       "url": "https://open.spotify.com/track/4axxCbc4tWlpqHP5UbJMc3"
+    },
+    {
+      "added_at": "2023-07-28 18:06:51",
+      "album": {
+        "name": "FRIKI",
+        "url": "https://open.spotify.com/album/7LlTjovytMWtPVHm7cJku2"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 144986,
+      "name": "FRIKI",
+      "url": "https://open.spotify.com/track/3No3zHVwKadKDR00kZdmAB"
     },
     {
       "added_at": "2023-07-28 18:06:51",
@@ -687,26 +687,6 @@
     {
       "added_at": "2023-07-28 18:06:51",
       "album": {
-        "name": "Amanecemos",
-        "url": "https://open.spotify.com/album/3ybnP0l2GS9XlLOIoYGvPg"
-      },
-      "artists": [
-        {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
-        },
-        {
-          "name": "Alan Gomez",
-          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
-        }
-      ],
-      "duration_ms": 198183,
-      "name": "Amanecemos",
-      "url": "https://open.spotify.com/track/4L6PEEISI0EWoKh8Wwtvuh"
-    },
-    {
-      "added_at": "2023-07-28 18:06:51",
-      "album": {
         "name": "EL TONTO",
         "url": "https://open.spotify.com/album/3T21Uk1UfJGBWIInCaVC5s"
       },
@@ -723,6 +703,26 @@
       "duration_ms": 188087,
       "name": "EL TONTO",
       "url": "https://open.spotify.com/track/0OqoRBKlvRZarXZqE7AH7z"
+    },
+    {
+      "added_at": "2023-07-28 18:06:51",
+      "album": {
+        "name": "Amanecemos",
+        "url": "https://open.spotify.com/album/3ybnP0l2GS9XlLOIoYGvPg"
+      },
+      "artists": [
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        },
+        {
+          "name": "Alan Gomez",
+          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+        }
+      ],
+      "duration_ms": 198183,
+      "name": "Amanecemos",
+      "url": "https://open.spotify.com/track/4L6PEEISI0EWoKh8Wwtvuh"
     },
     {
       "added_at": "2023-07-28 18:06:51",
@@ -807,6 +807,22 @@
     {
       "added_at": "2023-07-28 18:06:51",
       "album": {
+        "name": "Colocao",
+        "url": "https://open.spotify.com/album/3VH9BRaAzvy7n9X5DNdHxm"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 179966,
+      "name": "Colocao",
+      "url": "https://open.spotify.com/track/7MCFjPDImfjQv7GynHgVrR"
+    },
+    {
+      "added_at": "2023-07-28 18:06:51",
+      "album": {
         "name": "Cazzu: Bzrp Music Sessions, Vol. 32",
         "url": "https://open.spotify.com/album/0zNLQbLwk1g9C4Ic5hnme2"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 146106,
       "name": "Cazzu: Bzrp Music Sessions, Vol. 32",
       "url": "https://open.spotify.com/track/1MZqHpFyB4j5tFCFNvURou"
-    },
-    {
-      "added_at": "2023-07-28 18:06:51",
-      "album": {
-        "name": "Colocao",
-        "url": "https://open.spotify.com/album/3VH9BRaAzvy7n9X5DNdHxm"
-      },
-      "artists": [
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 179966,
-      "name": "Colocao",
-      "url": "https://open.spotify.com/track/7MCFjPDImfjQv7GynHgVrR"
     },
     {
       "added_at": "2023-07-28 18:06:51",

@@ -1,7 +1,7 @@
 {
-  "2024-02-21": 5343031,
+  "2024-02-22": 5345075,
   "date_first_scraped": "2021-12-21",
-  "description": "Turn on the movement with the latest and greatest in K-Pop! Cover: ENHYPEN",
+  "description": "Turn on the movement with the latest and greatest in K-Pop! Cover: IU",
   "name": "K-Pop ON! (\uc628)",
   "tracks": [
     {
@@ -6006,6 +6006,24 @@
     },
     {
       "album": {
+        "name": "The Winning",
+        "url": "https://open.spotify.com/album/08CvAj58nVMpq1Nw7T6maj"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215720,
+      "name": "Shopper",
+      "url": "https://open.spotify.com/track/1c6kkrWnpy68eYDfBdxNtF"
+    },
+    {
+      "album": {
         "name": "BORN PINK",
         "url": "https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P"
       },
@@ -7171,7 +7189,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 182148,
       "name": "UNFORGIVEN (feat. Nile Rodgers)",
       "url": "https://open.spotify.com/track/51vRumtqbkNW9wrKfESwfu"

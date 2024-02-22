@@ -4,7 +4,7 @@
 
 > Sitar, flute, and sounds inspired by India.
 
-180 songs - 13 hr 7 min
+181 songs - 13 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,8 @@
 | [Sharad Rtu Hiran](https://open.spotify.com/track/3P5LCGwst6MHnfmCoDUqkq) | [Chand Adwani](https://open.spotify.com/artist/13fCAM11qEb6Jud1D48RLi) | [Aatma Momabattee](https://open.spotify.com/album/4vcltSZOJLMWgyomcNKHps) | 3:54 | 2022-05-24 |  |
 | [Shiva's Meditation](https://open.spotify.com/track/0TxmxoCQMiXvfFA6DPM1wT) | [Chinmaya Dunster](https://open.spotify.com/artist/7IZWH07w9P4HXc2Qo9xwpY) | [Ragas Relax](https://open.spotify.com/album/2PsPxcW53XCjlO4zaAhELj) | 5:09 | 2022-04-04 | 2024-01-26 |
 | [Shiva's Meditation](https://open.spotify.com/track/2PIOLxy5u0q2KzbAE2gG2b) | [Chinmaya Dunster](https://open.spotify.com/artist/7IZWH07w9P4HXc2Qo9xwpY) | [Ragas Relax](https://open.spotify.com/album/5tSFLJ9LFFdIqrF6G7R3Je) | 5:09 | 2023-12-04 |  |
-| [Siddharthas Echoes](https://open.spotify.com/track/3WmDbmhu8NH9i4NB8gJdbm) | [Vedic Moon](https://open.spotify.com/artist/5sDjAQydhCH4cMMsWRJBI7), [Vic Vision](https://open.spotify.com/artist/7sWJw6QdFcubpMrTamBKw0) | [Siddharthas Echoes](https://open.spotify.com/album/2cumKJiYUKZOcbMrNrXh6b) | 3:12 | 2023-10-02 |  |
+| [Siddharthas Echoes](https://open.spotify.com/track/0VB1Djbd1gnDZzhLHopYIf) | [Vedic Moon](https://open.spotify.com/artist/5sDjAQydhCH4cMMsWRJBI7), [Vic Vision](https://open.spotify.com/artist/7sWJw6QdFcubpMrTamBKw0) | [Siddharthas Echoes](https://open.spotify.com/album/55Jz6l9fzWVopImHAFYzoG) | 3:12 | 2023-12-04 |  |
+| [Siddharthas Echoes](https://open.spotify.com/track/3WmDbmhu8NH9i4NB8gJdbm) | [Vedic Moon](https://open.spotify.com/artist/5sDjAQydhCH4cMMsWRJBI7), [Vic Vision](https://open.spotify.com/artist/7sWJw6QdFcubpMrTamBKw0) | [Siddharthas Echoes](https://open.spotify.com/album/2cumKJiYUKZOcbMrNrXh6b) | 3:12 | 2023-10-02 | 2024-02-22 |
 | [Sights in Sound \(Shiva\)](https://open.spotify.com/track/7CatPZZMG9tx1Crhy5oTgL) | [DJ Drez](https://open.spotify.com/artist/5j3iObqG7iT7utWpTTmC7F) | [The Magnificent Hum](https://open.spotify.com/album/3UTW7AeSNDdZVKQBi8MjDM) | 4:22 | 2022-04-04 | 2023-07-14 |
 | [Silver Keys](https://open.spotify.com/track/0dTYfQD9vR39dLLv0TfXVl) | [Simon Shavi](https://open.spotify.com/artist/3bU7LIIa7VaEkMwmcqbZOK) | [Silver Keys](https://open.spotify.com/album/4GiYY8khJkt4Csn1I7NcID) | 3:40 | 2022-04-04 |  |
 | [Slowly Healing](https://open.spotify.com/track/7B6uXznIUsatvSuZujLlsk) | [Krishna's Flute](https://open.spotify.com/artist/7jMDi9AqHrx7jrxZ9f9mwz) | [Slowly Healing](https://open.spotify.com/album/2a6QiYnjdRT9rclhvM2hQa) | 3:06 | 2023-01-13 |  |

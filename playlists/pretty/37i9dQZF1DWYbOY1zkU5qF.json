@@ -1,12 +1,12 @@
 {
   "description": "Versiones ac\u00fasticas de tus canciones favoritas. ",
-  "num_followers": 156521,
+  "num_followers": 156580,
   "original_name": "Covers Ac\u00fasticos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMWIzZGEzN2NmZWIzNTdlZjBhMWY0MTcxNGNjZjFkZGNjY2I5NTA5",
+  "snapshot_id": "MCw4ZTcxMTRmYWRkYmM0ZTUxYzNjMmRiYjc5MjAyMTliNWE2MjBlNjRi",
   "tracks": [
     {
       "added_at": "2022-02-18 06:00:00",
@@ -227,22 +227,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Amores Ajenos",
-        "url": "https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT"
-      },
-      "artists": [
-        {
-          "name": "Pat\u00e9 de Fu\u00e1",
-          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
-        }
-      ],
-      "duration_ms": 162510,
-      "name": "Como Fue",
-      "url": "https://open.spotify.com/track/1FEeJpSdoPfsTZk9AGqOcN"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "No Hay Nadie M\u00e1s",
         "url": "https://open.spotify.com/album/7Bvu9Kgqsge6rS04CNbd3h"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 165282,
       "name": "No Hay Nadie M\u00e1s",
       "url": "https://open.spotify.com/track/1oVak8wmp19KtBmsVbbdns"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Amores Ajenos",
+        "url": "https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT"
+      },
+      "artists": [
+        {
+          "name": "Pat\u00e9 de Fu\u00e1",
+          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
+        }
+      ],
+      "duration_ms": 162510,
+      "name": "Como Fue",
+      "url": "https://open.spotify.com/track/1FEeJpSdoPfsTZk9AGqOcN"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Robarte Un Beso",
-        "url": "https://open.spotify.com/album/0UvK1yW7NvyThMKcTxDc6L"
-      },
-      "artists": [
-        {
-          "name": "Laura Naranjo",
-          "url": "https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr"
-        }
-      ],
-      "duration_ms": 173029,
-      "name": "Robarte Un Beso",
-      "url": "https://open.spotify.com/track/7zVxnTvFPi73poTc6oCC4l"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Lucha De Gigantes",
         "url": "https://open.spotify.com/album/47rUQhjmVyqm9Yut7fegrl"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 226113,
       "name": "Lucha De Gigantes",
       "url": "https://open.spotify.com/track/0xq83JuGO0zzaUuIAJXKMQ"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Robarte Un Beso",
+        "url": "https://open.spotify.com/album/0UvK1yW7NvyThMKcTxDc6L"
+      },
+      "artists": [
+        {
+          "name": "Laura Naranjo",
+          "url": "https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr"
+        }
+      ],
+      "duration_ms": 173029,
+      "name": "Robarte Un Beso",
+      "url": "https://open.spotify.com/track/7zVxnTvFPi73poTc6oCC4l"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Calma (Remix)",
-        "url": "https://open.spotify.com/album/6kSXYCwKZbkzwDhcls7tlQ"
-      },
-      "artists": [
-        {
-          "name": "Laura Naranjo",
-          "url": "https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr"
-        }
-      ],
-      "duration_ms": 172336,
-      "name": "Calma - Remix",
-      "url": "https://open.spotify.com/track/01afy14WMg3JohCIAb3oTe"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Chantaje",
         "url": "https://open.spotify.com/album/2QO086Ci3QxG7LVEdeYqhl"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 210000,
       "name": "Me Llamas - Versi\u00f3n Ac\u00fastica",
       "url": "https://open.spotify.com/track/1NNNDr8YjI7oIzEksdi5ap"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Calma (Remix)",
+        "url": "https://open.spotify.com/album/6kSXYCwKZbkzwDhcls7tlQ"
+      },
+      "artists": [
+        {
+          "name": "Laura Naranjo",
+          "url": "https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr"
+        }
+      ],
+      "duration_ms": 172336,
+      "name": "Calma - Remix",
+      "url": "https://open.spotify.com/track/01afy14WMg3JohCIAb3oTe"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "LA CANCI\u00d3N",
-        "url": "https://open.spotify.com/album/0VNCAwo2Rs6gSyyutkSQMw"
-      },
-      "artists": [
-        {
-          "name": "Las Alas",
-          "url": "https://open.spotify.com/artist/7EDkJGsKXojvsTgh8Yt1ar"
-        }
-      ],
-      "duration_ms": 177343,
-      "name": "LA CANCI\u00d3N",
-      "url": "https://open.spotify.com/track/1omu6hXw4JO0g4iiGnsX8q"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Mis ojos lloran por ti",
         "url": "https://open.spotify.com/album/57d7YCLPJ9quoQ0mmDIWHp"
       },
@@ -935,22 +919,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Andar Conmigo",
-        "url": "https://open.spotify.com/album/5ItestUQ48ki9aagEmthYn"
-      },
-      "artists": [
-        {
-          "name": "Leopoldo Lopez",
-          "url": "https://open.spotify.com/artist/4eiT8IHB1FaTzRyvkyyI3q"
-        }
-      ],
-      "duration_ms": 238874,
-      "name": "Andar Conmigo",
-      "url": "https://open.spotify.com/track/5usKouO9EPZnbzztaZd9jw"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Panacea Sessions, Vol. 1",
         "url": "https://open.spotify.com/album/2kDtNPi673aOjPw9Mn6iEt"
       },
@@ -963,6 +931,38 @@
       "duration_ms": 227088,
       "name": "La Bicicleta",
       "url": "https://open.spotify.com/track/5f3XhfWGMXQ4YTdqbmGLsZ"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "LA CANCI\u00d3N",
+        "url": "https://open.spotify.com/album/0VNCAwo2Rs6gSyyutkSQMw"
+      },
+      "artists": [
+        {
+          "name": "Las Alas",
+          "url": "https://open.spotify.com/artist/7EDkJGsKXojvsTgh8Yt1ar"
+        }
+      ],
+      "duration_ms": 177343,
+      "name": "LA CANCI\u00d3N",
+      "url": "https://open.spotify.com/track/1omu6hXw4JO0g4iiGnsX8q"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Andar Conmigo",
+        "url": "https://open.spotify.com/album/5ItestUQ48ki9aagEmthYn"
+      },
+      "artists": [
+        {
+          "name": "Leopoldo Lopez",
+          "url": "https://open.spotify.com/artist/4eiT8IHB1FaTzRyvkyyI3q"
+        }
+      ],
+      "duration_ms": 238874,
+      "name": "Andar Conmigo",
+      "url": "https://open.spotify.com/track/5usKouO9EPZnbzztaZd9jw"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Cien A\u00f1os",
-        "url": "https://open.spotify.com/album/3zQPzTTmpOxHgPuE9FKqru"
-      },
-      "artists": [
-        {
-          "name": "Pat\u00e9 de Fu\u00e1",
-          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
-        }
-      ],
-      "duration_ms": 205794,
-      "name": "Cien A\u00f1os",
-      "url": "https://open.spotify.com/track/2c0EWHhuCALHaSwzaTkR6z"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Me Hace Tanto Bien (En Vivo)",
         "url": "https://open.spotify.com/album/64H5xJmU6jY4l5UVbeLLQh"
       },
@@ -1047,6 +1031,42 @@
       "duration_ms": 188789,
       "name": "Me Hace Tanto Bien - En Vivo",
       "url": "https://open.spotify.com/track/1gemIOvi0ybSilXyxNkk9J"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Cien A\u00f1os",
+        "url": "https://open.spotify.com/album/3zQPzTTmpOxHgPuE9FKqru"
+      },
+      "artists": [
+        {
+          "name": "Pat\u00e9 de Fu\u00e1",
+          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
+        }
+      ],
+      "duration_ms": 205794,
+      "name": "Cien A\u00f1os",
+      "url": "https://open.spotify.com/track/2c0EWHhuCALHaSwzaTkR6z"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Otro trago",
+        "url": "https://open.spotify.com/album/6YjTRY19KnNn9hU04Uq9Gx"
+      },
+      "artists": [
+        {
+          "name": "Xandra Garsem",
+          "url": "https://open.spotify.com/artist/14HpVzsOYc0nufSwtkMp1s"
+        },
+        {
+          "name": "Paul Fourmy",
+          "url": "https://open.spotify.com/artist/0wEhgN98ys7Fzv7FIKUAQo"
+        }
+      ],
+      "duration_ms": 167710,
+      "name": "Otro trago",
+      "url": "https://open.spotify.com/track/6VFsWv9LkBMAnSE4vVqvJV"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1079,26 +1099,6 @@
       "duration_ms": 186689,
       "name": "Muerte En Hawaii",
       "url": "https://open.spotify.com/track/4y2wnQgN93puWVDavsMTUi"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
-        "name": "Otro trago",
-        "url": "https://open.spotify.com/album/6YjTRY19KnNn9hU04Uq9Gx"
-      },
-      "artists": [
-        {
-          "name": "Xandra Garsem",
-          "url": "https://open.spotify.com/artist/14HpVzsOYc0nufSwtkMp1s"
-        },
-        {
-          "name": "Paul Fourmy",
-          "url": "https://open.spotify.com/artist/0wEhgN98ys7Fzv7FIKUAQo"
-        }
-      ],
-      "duration_ms": 167710,
-      "name": "Otro trago",
-      "url": "https://open.spotify.com/track/6VFsWv9LkBMAnSE4vVqvJV"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1151,18 +1151,22 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Bohemia Y Trova, Vol. 2",
-        "url": "https://open.spotify.com/album/4HaMf32uLd9i4F6Yrv0mTb"
+        "name": "Reggaet\u00f3n Lento (Bailemos)",
+        "url": "https://open.spotify.com/album/0DX0y2NJhzvD9igiBgbzTg"
       },
       "artists": [
         {
-          "name": "Hugo Coronel",
-          "url": "https://open.spotify.com/artist/0RGnnaJ9xMIKNvKCuvNvfj"
+          "name": "Xandra Garsem",
+          "url": "https://open.spotify.com/artist/14HpVzsOYc0nufSwtkMp1s"
+        },
+        {
+          "name": "Juacko",
+          "url": "https://open.spotify.com/artist/0LLnP7NEsEQ1pSCfsuYURr"
         }
       ],
-      "duration_ms": 174040,
-      "name": "Alguien Te Va a Hacer Llorar",
-      "url": "https://open.spotify.com/track/6kQiVs1qyD6dZMJ0BmtJ2D"
+      "duration_ms": 250000,
+      "name": "Reggaet\u00f3n Lento (Bailemos)",
+      "url": "https://open.spotify.com/track/4gICYVqe0drMCOVgj0OeTA"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1183,22 +1187,18 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Reggaet\u00f3n Lento (Bailemos)",
-        "url": "https://open.spotify.com/album/0DX0y2NJhzvD9igiBgbzTg"
+        "name": "Bohemia Y Trova, Vol. 2",
+        "url": "https://open.spotify.com/album/4HaMf32uLd9i4F6Yrv0mTb"
       },
       "artists": [
         {
-          "name": "Xandra Garsem",
-          "url": "https://open.spotify.com/artist/14HpVzsOYc0nufSwtkMp1s"
-        },
-        {
-          "name": "Juacko",
-          "url": "https://open.spotify.com/artist/0LLnP7NEsEQ1pSCfsuYURr"
+          "name": "Hugo Coronel",
+          "url": "https://open.spotify.com/artist/0RGnnaJ9xMIKNvKCuvNvfj"
         }
       ],
-      "duration_ms": 250000,
-      "name": "Reggaet\u00f3n Lento (Bailemos)",
-      "url": "https://open.spotify.com/track/4gICYVqe0drMCOVgj0OeTA"
+      "duration_ms": 174040,
+      "name": "Alguien Te Va a Hacer Llorar",
+      "url": "https://open.spotify.com/track/6kQiVs1qyD6dZMJ0BmtJ2D"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Acoustic Sessions",
-        "url": "https://open.spotify.com/album/3mYIi2EtIUUVWsMlEUzrUb"
-      },
-      "artists": [
-        {
-          "name": "Rebeca Luna",
-          "url": "https://open.spotify.com/artist/5haTMRhcwfF9yHRJGTMvbi"
-        }
-      ],
-      "duration_ms": 214838,
-      "name": "Dembow - Acoustic Version",
-      "url": "https://open.spotify.com/track/2DpBQ4fq4bEr2IZJ40s9Dy"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Fin",
         "url": "https://open.spotify.com/album/1x2xsNNECv8DSisudpo0Nm"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 216746,
       "name": "Fin",
       "url": "https://open.spotify.com/track/3yxoXsE9d1DTg6f1TGESig"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Acoustic Sessions",
+        "url": "https://open.spotify.com/album/3mYIi2EtIUUVWsMlEUzrUb"
+      },
+      "artists": [
+        {
+          "name": "Rebeca Luna",
+          "url": "https://open.spotify.com/artist/5haTMRhcwfF9yHRJGTMvbi"
+        }
+      ],
+      "duration_ms": 214838,
+      "name": "Dembow - Acoustic Version",
+      "url": "https://open.spotify.com/track/2DpBQ4fq4bEr2IZJ40s9Dy"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Pareja Del A\u00f1o",
-        "url": "https://open.spotify.com/album/2D7ZcpIFrswCFzPsU72gAf"
+        "name": "So\u00f1\u00e9",
+        "url": "https://open.spotify.com/album/3zGPOSwv1krOcKkv8QgpBs"
       },
       "artists": [
         {
-          "name": "Hermia Morillo",
-          "url": "https://open.spotify.com/artist/4i0yEZXVjUar6mABs3PTP4"
+          "name": "Aline Terrein",
+          "url": "https://open.spotify.com/artist/1KHhTDB0lBCXqm54Fseodx"
         }
       ],
-      "duration_ms": 248028,
-      "name": "Pareja Del A\u00f1o",
-      "url": "https://open.spotify.com/track/1N61SM8vfZG5T1X6A30a4P"
+      "duration_ms": 149647,
+      "name": "Son\u0303e",
+      "url": "https://open.spotify.com/track/35tKDCAmNFueq5KmvGkzRr"
     }
   ],
   "unique_name": "Covers Ac\u00fasticos",

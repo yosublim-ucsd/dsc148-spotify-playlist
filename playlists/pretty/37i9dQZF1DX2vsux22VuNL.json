@@ -1,12 +1,12 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Ariel Donato, MC Cabelinho, Marina Sena",
-  "num_followers": 290740,
+  "num_followers": 290726,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Mzg2MWViZDk3OWFlNmViNzBiNWMxYjI2ZDFlMGMzODIyMmI1Yjlj",
+  "snapshot_id": "MCxjYWM0MzM5MjBmNDNmY2FiZmY0MTNmMDEwYzBhMGE2NmFiYmZmNzVh",
   "tracks": [
     {
       "added_at": "2024-02-09 20:33:06",
@@ -1283,26 +1283,6 @@
     {
       "added_at": "2024-02-09 20:33:06",
       "album": {
-        "name": "Summer Groove",
-        "url": "https://open.spotify.com/album/2PV7rqE4GaBBboe739T1m5"
-      },
-      "artists": [
-        {
-          "name": "\u00c0TT\u00d8\u00d8XX\u00c1",
-          "url": "https://open.spotify.com/artist/43jyzP3h86XvtC8FQm4ow3"
-        },
-        {
-          "name": "Rico Dalasam",
-          "url": "https://open.spotify.com/artist/5nbaj9RaJdFNlS5ZxoqN97"
-        }
-      ],
-      "duration_ms": 162985,
-      "name": "Qual \u00c9",
-      "url": "https://open.spotify.com/track/6CHhx9h0q9aJZAD4hNfhgf"
-    },
-    {
-      "added_at": "2024-02-09 20:33:06",
-      "album": {
         "name": "No Azul do Teu Olhar",
         "url": "https://open.spotify.com/album/4e26MuGPtaW04apoRiYkmd"
       },
@@ -1319,6 +1299,26 @@
       "duration_ms": 201792,
       "name": "No Azul do Teu Olhar",
       "url": "https://open.spotify.com/track/1usi76vEIYhyu9a7Dniqs0"
+    },
+    {
+      "added_at": "2024-02-09 20:33:06",
+      "album": {
+        "name": "Summer Groove",
+        "url": "https://open.spotify.com/album/2PV7rqE4GaBBboe739T1m5"
+      },
+      "artists": [
+        {
+          "name": "\u00c0TT\u00d8\u00d8XX\u00c1",
+          "url": "https://open.spotify.com/artist/43jyzP3h86XvtC8FQm4ow3"
+        },
+        {
+          "name": "Rico Dalasam",
+          "url": "https://open.spotify.com/artist/5nbaj9RaJdFNlS5ZxoqN97"
+        }
+      ],
+      "duration_ms": 162985,
+      "name": "Qual \u00c9",
+      "url": "https://open.spotify.com/track/6CHhx9h0q9aJZAD4hNfhgf"
     },
     {
       "added_at": "2024-02-09 20:33:06",
@@ -1455,26 +1455,6 @@
     {
       "added_at": "2024-02-09 20:33:06",
       "album": {
-        "name": "Caio em Ti",
-        "url": "https://open.spotify.com/album/1TcTGElHC9VMOq5yg5rpuF"
-      },
-      "artists": [
-        {
-          "name": "Caio Prado",
-          "url": "https://open.spotify.com/artist/5VR80ewg2Ki9zuaAkUkxxt"
-        },
-        {
-          "name": "Mousik",
-          "url": "https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM"
-        }
-      ],
-      "duration_ms": 155039,
-      "name": "Caio em Ti",
-      "url": "https://open.spotify.com/track/2Hw1eLrbRhLedmvmcxxsoV"
-    },
-    {
-      "added_at": "2024-02-09 20:33:06",
-      "album": {
         "name": "Toda Mal\u00e9vola",
         "url": "https://open.spotify.com/album/4eOTa398Hc7UBahLKwfJxD"
       },
@@ -1499,6 +1479,26 @@
       "duration_ms": 196691,
       "name": "Toda Mal\u00e9vola",
       "url": "https://open.spotify.com/track/1Sog3ja6kO7LkugqHZdrEK"
+    },
+    {
+      "added_at": "2024-02-09 20:33:06",
+      "album": {
+        "name": "Caio em Ti",
+        "url": "https://open.spotify.com/album/1TcTGElHC9VMOq5yg5rpuF"
+      },
+      "artists": [
+        {
+          "name": "Caio Prado",
+          "url": "https://open.spotify.com/artist/5VR80ewg2Ki9zuaAkUkxxt"
+        },
+        {
+          "name": "Mousik",
+          "url": "https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM"
+        }
+      ],
+      "duration_ms": 155039,
+      "name": "Caio em Ti",
+      "url": "https://open.spotify.com/track/2Hw1eLrbRhLedmvmcxxsoV"
     },
     {
       "added_at": "2024-02-09 20:33:06",
@@ -1863,22 +1863,22 @@
     {
       "added_at": "2024-02-09 20:33:06",
       "album": {
-        "name": "Risco de se Apaixonar",
-        "url": "https://open.spotify.com/album/6Z0MhQqyXLFBAJG2PBRuIH"
+        "name": "Seu Z\u00e9",
+        "url": "https://open.spotify.com/album/7s3KnsNmFhgSyUxhfLcS3N"
       },
       "artists": [
         {
-          "name": "Marcello Melo Jr.",
-          "url": "https://open.spotify.com/artist/0XQQJpFjY8KkTGUIgVq9zp"
+          "name": "Gu",
+          "url": "https://open.spotify.com/artist/08vwQJxPdhUyPBxT4Tf0cS"
         },
         {
-          "name": "Bela Maria",
-          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
+          "name": "IVYO",
+          "url": "https://open.spotify.com/artist/3HbuQbAHMPwBb4mQyNllCa"
         }
       ],
-      "duration_ms": 141130,
-      "name": "Risco de se Apaixonar",
-      "url": "https://open.spotify.com/track/1M6puHONy969ZeGYemki1M"
+      "duration_ms": 136430,
+      "name": "Seu Z\u00e9",
+      "url": "https://open.spotify.com/track/7uZm4WI4OqH25LFlNobiff"
     }
   ],
   "unique_name": "brisa",

@@ -4,7 +4,7 @@
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one!
 
-304 songs - 1 day 8 hr 47 min
+305 songs - 1 day 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Good \(Remix\)](https://open.spotify.com/track/4foBRaj4utf80ptIPLpJn1) | [Okey Sokay](https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1), [Oyel Planet](https://open.spotify.com/artist/2jFCEamp1CqHmt9u9Bsry6) | [Good \(Remix\)](https://open.spotify.com/album/0veR3mst1sHrS4kBYllth2) | 6:48 | 2023-04-14 | 2023-06-03 |
 | [Grateful](https://open.spotify.com/track/7IGCwf8COqsDoZsD8Lz5NT) | [Romeo ThaGreatwhite](https://open.spotify.com/artist/0BREQB4X1tJY2UXIndTzew), [Prifix](https://open.spotify.com/artist/1p9ME7SCoyUhTchumQvPNm) | [Grateful](https://open.spotify.com/album/6DMGM2y7j46To04if4jIam) | 5:04 | 2023-06-16 | 2023-09-26 |
 | [Great Are You Lord \(Live\)](https://open.spotify.com/track/0Y1Fc0gay4RpZupUIzEK6s) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [The Name of Jesus: Sinach Live in Concert](https://open.spotify.com/album/2KU9F20rbyLkgVM1LS7PvQ) | 10:26 | 2022-06-09 | 2023-09-21 |
-| [Great Are You Lord \- Live in Concert](https://open.spotify.com/track/5KPbQ8ZihfroeSeBsk4i9v) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [The Name of Jesus \(Live in Concert\)](https://open.spotify.com/album/0FBAKHBxvNTdsPNW7Qbfk4) | 10:26 | 2023-12-01 |  |
+| [Great Are You Lord \- Live in Concert](https://open.spotify.com/track/5KPbQ8ZihfroeSeBsk4i9v) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [The Name of Jesus \(Live in Concert\)](https://open.spotify.com/album/0FBAKHBxvNTdsPNW7Qbfk4) | 10:26 | 2023-12-01 | 2024-02-22 |
 | [Great Is Thy Faithfulness](https://open.spotify.com/track/0BNHjL2jAVYuFfHpPCMcME) | [Run51](https://open.spotify.com/artist/1qC0iwCgdWNwJM1KCxbX10) | [Hymns Vol\. 1](https://open.spotify.com/album/432apueG2d09mb1LPrChN6) | 3:45 | 2022-06-09 | 2022-11-11 |
 | [Great is Your Faithfulness](https://open.spotify.com/track/7sjq9jAZBIcjMRsL6pQol7) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Victor Okose](https://open.spotify.com/artist/6WihWvmRbICbjLHixWcsKk), [Dejaks](https://open.spotify.com/artist/1RuU4EyXOXFcXyLAmu4Oux) | [Great is Your Faithfulness](https://open.spotify.com/album/60NUOnCVQ28gul1cqFo1hl) | 19:07 | 2022-07-28 | 2023-05-26 |
 | [Hallelujah \(feat\. Dunsin Oyekan\) \- Live](https://open.spotify.com/track/3OwXa5v85UzgmQBieUscvu) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb), [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Hallelujah \(feat\. Dunsin Oyekan\) \[Live\]](https://open.spotify.com/album/0ebuJYKuAn6Of3jD5nC8CV) | 5:20 | 2023-10-13 |  |
@@ -156,6 +156,7 @@
 | [Know You Will](https://open.spotify.com/track/5PrA5flawVAz8XTBsli1JV) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [Are We There Yet?](https://open.spotify.com/album/5Ol7XeGGIlNkihAl0ucpmk) | 3:38 | 2022-06-09 | 2023-01-20 |
 | [Koseunti](https://open.spotify.com/track/2crS3DOA1Gmf7Y8cXVrvas) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Koseunti](https://open.spotify.com/album/5VfphiFcALVuNvfscznY4Z) | 4:23 | 2022-10-14 | 2022-11-05 |
 | [Kumama Papa](https://open.spotify.com/track/5LwT1tPiIUszQ7C51DuEL2) | [Grace Lokwa](https://open.spotify.com/artist/1ShPOU9aA4b68tOHBSz7sW), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Kumama](https://open.spotify.com/album/4VWqQy7daz2lmZVLZakGjb) | 4:20 | 2022-07-08 |  |
+| [Kumama Papa](https://open.spotify.com/track/2uHY9QxXldmXdbhvvEOf6J) | [The Kiffness](https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG), [Grace Lokwa](https://open.spotify.com/artist/1ShPOU9aA4b68tOHBSz7sW) | [Kumama Papa](https://open.spotify.com/album/20GdacZdfLiQbve9FF8Xqu) | 2:37 | 2024-02-16 |  |
 | [Lion of Judah](https://open.spotify.com/track/74crNF63DNXE5J20s1IjNg) | [Phil Thompson](https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8) | [Lion of Judah](https://open.spotify.com/album/5z1FT7nquPSxdERNQ1oUvy) | 5:16 | 2022-06-09 |  |
 | [Logan Ti O De](https://open.spotify.com/track/5IokKRnQYBS720gF3AgiTm) | [Tope Alabi](https://open.spotify.com/artist/1WDoaSGtFrO4ZPMZqLiaEU) | [The Spirit of Light](https://open.spotify.com/album/1grxa0bu0S0u98pDXNnFSg) | 4:21 | 2023-12-05 | 2023-12-11 |
 | [Love in My Heart](https://open.spotify.com/track/4i6Qzd0sZBNXH5PmMQ9qUH) | [Elijah Oyelade](https://open.spotify.com/artist/2oRaSHeT9xVpXFvon3U4ak) | [Love in My Heart](https://open.spotify.com/album/1UPfneh8tSjjNlsPhcdfPq) | 7:10 | 2023-04-14 | 2023-06-28 |

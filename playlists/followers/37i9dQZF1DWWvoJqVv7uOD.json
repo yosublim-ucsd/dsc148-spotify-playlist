@@ -1,5 +1,5 @@
 {
-  "2024-02-21": 417894,
+  "2024-02-22": 417974,
   "date_first_scraped": "2022-02-06",
   "description": "Easy listening mix of recent hits, everyday favorites & some new songs you'll love. Cover: Paul Russell",
   "name": "Everyday Favorites ",
@@ -205,6 +205,24 @@
       "duration_ms": 181945,
       "name": "A LOT",
       "url": "https://open.spotify.com/track/1cRY1p6f4k8B1fGt7hnP5H"
+    },
+    {
+      "album": {
+        "name": "Planet Zero",
+        "url": "https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248454,
+      "name": "A Symptom Of Being Human",
+      "url": "https://open.spotify.com/track/7xOB82ELg70RoIM3mMTkt4"
     },
     {
       "album": {

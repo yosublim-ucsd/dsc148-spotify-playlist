@@ -1,5 +1,5 @@
 {
-  "2024-02-21": 121221,
+  "2024-02-22": 121227,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Switzerland.",
   "name": "Top 50 - Switzerland",
@@ -7917,7 +7917,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 258431,
       "name": "Can't Hold Us (feat. Ray Dalton)",
       "url": "https://open.spotify.com/track/22skzmqfdWrjJylampe0kt"
@@ -15727,7 +15727,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-20",
+      "date_removed": null,
       "duration_ms": 209577,
       "name": "FUK SUMN",
       "url": "https://open.spotify.com/track/5tEaVciE2GnR28aN6W9cLS"
@@ -22216,6 +22216,28 @@
     },
     {
       "album": {
+        "name": "Kesh",
+        "url": "https://open.spotify.com/album/4VPl3W6dh0Yca938JVbFgt"
+      },
+      "artists": [
+        {
+          "name": "Leonardo47",
+          "url": "https://open.spotify.com/artist/62Y03VPUWcNQNeds2H2qy1"
+        },
+        {
+          "name": "Lux27",
+          "url": "https://open.spotify.com/artist/79bCznVoZwLy79aRH6W0bT"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Kesh",
+      "url": "https://open.spotify.com/track/6i9yv2nYALefg4PzCVR6Cp"
+    },
+    {
+      "album": {
         "name": "VULTURES 1",
         "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
       },
@@ -22577,7 +22599,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 167356,
       "name": "Komet",
       "url": "https://open.spotify.com/track/7oQepKHmXDaPC3rgeLRvQu"

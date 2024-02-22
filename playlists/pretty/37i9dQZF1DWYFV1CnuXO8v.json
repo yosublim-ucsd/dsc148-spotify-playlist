@@ -1,12 +1,12 @@
 {
   "description": "\u0639\u064a\u0634 \u0623\u062c\u0645\u0644 \u062d\u0627\u0644\u0629 \u062d\u0628 \ud83e\udef6\u2764\ufe0f\n ",
-  "num_followers": 120345,
+  "num_followers": 120526,
   "original_name": "\u062d\u0628 \u0648\u063a\u0631\u0627\u0645",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNjJmNzVjMjkxYjI0MWZlNjE4OGEwYjUwMTc4ODQyZGY3ZTNiOTdl",
+  "snapshot_id": "MCxjOWJmM2U4ZDY5M2Y1NzU4M2JmMWY1MTY1MTBkM2JjNmU0NWZhMGQ2",
   "tracks": [
     {
       "added_at": "2024-02-16 08:28:10",
@@ -123,22 +123,6 @@
     {
       "added_at": "2024-02-16 08:28:10",
       "album": {
-        "name": "Ader Akmel",
-        "url": "https://open.spotify.com/album/393g3wXpkLzwfnewZVZ01n"
-      },
-      "artists": [
-        {
-          "name": "Ahmed Saad",
-          "url": "https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V"
-        }
-      ],
-      "duration_ms": 253384,
-      "name": "Ader Akmel",
-      "url": "https://open.spotify.com/track/2IhPJapsl9WFLBFNhWZp7q"
-    },
-    {
-      "added_at": "2024-02-16 08:28:10",
-      "album": {
         "name": "\u0628\u0637\u0645\u0646\u0643",
         "url": "https://open.spotify.com/album/1gq4RDcXHPenXBMl2tdmLM"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 257278,
       "name": "\u0628\u0643\u0644\u0645\u0647 \u0645\u0646\u0643",
       "url": "https://open.spotify.com/track/3uuHB0RCzRGtja8A6YciOB"
+    },
+    {
+      "added_at": "2024-02-16 08:28:10",
+      "album": {
+        "name": "Ader Akmel",
+        "url": "https://open.spotify.com/album/393g3wXpkLzwfnewZVZ01n"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Saad",
+          "url": "https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V"
+        }
+      ],
+      "duration_ms": 253384,
+      "name": "Ader Akmel",
+      "url": "https://open.spotify.com/track/2IhPJapsl9WFLBFNhWZp7q"
     },
     {
       "added_at": "2024-02-16 08:28:10",
@@ -471,22 +471,6 @@
     {
       "added_at": "2024-02-16 08:28:10",
       "album": {
-        "name": "Hala Beek Ya Medala3",
-        "url": "https://open.spotify.com/album/1aawCrlstBcEGwCpWIaXS6"
-      },
-      "artists": [
-        {
-          "name": "Ahmed Saad",
-          "url": "https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V"
-        }
-      ],
-      "duration_ms": 167873,
-      "name": "Hala Beek Ya Medala3",
-      "url": "https://open.spotify.com/track/1Fl7yznakyun2ywTDPuiCu"
-    },
-    {
-      "added_at": "2024-02-16 08:28:10",
-      "album": {
         "name": "\u0625\u0646\u062a\u064a \u0627\u0644\u062d\u064a\u0627\u0647 (\u0625\u064a\u062c\u0627\u0631 \u0642\u062f\u064a\u0645)",
         "url": "https://open.spotify.com/album/5WQ92QnGxYMPfEoUM6zPx2"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 226909,
       "name": "\u0625\u0646\u062a\u064a \u0627\u0644\u062d\u064a\u0627\u0647 - \u0625\u064a\u062c\u0627\u0631 \u0642\u062f\u064a\u0645",
       "url": "https://open.spotify.com/track/2P2jPhzQiHlm2yVg5E1RIw"
+    },
+    {
+      "added_at": "2024-02-16 08:28:10",
+      "album": {
+        "name": "Hala Beek Ya Medala3",
+        "url": "https://open.spotify.com/album/1aawCrlstBcEGwCpWIaXS6"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Saad",
+          "url": "https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V"
+        }
+      ],
+      "duration_ms": 167873,
+      "name": "Hala Beek Ya Medala3",
+      "url": "https://open.spotify.com/track/1Fl7yznakyun2ywTDPuiCu"
     },
     {
       "added_at": "2024-02-16 08:28:10",
@@ -535,6 +535,22 @@
     {
       "added_at": "2024-02-16 08:28:10",
       "album": {
+        "name": "Habiby Ya Liel",
+        "url": "https://open.spotify.com/album/1yfx8JfLQlKxtfLViybWSW"
+      },
+      "artists": [
+        {
+          "name": "Abu",
+          "url": "https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML"
+        }
+      ],
+      "duration_ms": 272618,
+      "name": "Habiby Ya Liel",
+      "url": "https://open.spotify.com/track/3oAjimiDDbMUYU7DZHuORV"
+    },
+    {
+      "added_at": "2024-02-16 08:28:10",
+      "album": {
         "name": "Kol Elly Fi Alby",
         "url": "https://open.spotify.com/album/3mljnESPv1qiYVXy0yYBV0"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 233533,
       "name": "Ana Baatereflek",
       "url": "https://open.spotify.com/track/1yr0M7Rkxkg455mvX3ykFe"
-    },
-    {
-      "added_at": "2024-02-16 08:28:10",
-      "album": {
-        "name": "Habiby Ya Liel",
-        "url": "https://open.spotify.com/album/1yfx8JfLQlKxtfLViybWSW"
-      },
-      "artists": [
-        {
-          "name": "Abu",
-          "url": "https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML"
-        }
-      ],
-      "duration_ms": 272618,
-      "name": "Habiby Ya Liel",
-      "url": "https://open.spotify.com/track/3oAjimiDDbMUYU7DZHuORV"
     },
     {
       "added_at": "2024-02-16 08:28:10",
@@ -631,18 +631,18 @@
     {
       "added_at": "2024-02-16 08:28:10",
       "album": {
-        "name": "Hob Emtelak",
-        "url": "https://open.spotify.com/album/6sjEZxXzUccxxRukfuTVRk"
+        "name": "Khaleke Fe Hodny el Leila",
+        "url": "https://open.spotify.com/album/7hmxZMPPjo5hZhJyFWrnI4"
       },
       "artists": [
         {
-          "name": "Jannat",
-          "url": "https://open.spotify.com/artist/3MpEY93FasSif1w2qbutch"
+          "name": "Muslim - \u0645\u064f\u0633\u0644\u0650\u0645",
+          "url": "https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS"
         }
       ],
-      "duration_ms": 244321,
-      "name": "Esmaa Kalamy",
-      "url": "https://open.spotify.com/track/4WI8gWUhvwXSN9sBSUDF87"
+      "duration_ms": 200170,
+      "name": "Khaleke Fe Hodny el Leila",
+      "url": "https://open.spotify.com/track/5U7cXLPY3RyLxKF5bVGClf"
     },
     {
       "added_at": "2024-02-16 08:28:10",
@@ -659,6 +659,22 @@
       "duration_ms": 209706,
       "name": "Ya Waheshny",
       "url": "https://open.spotify.com/track/4GJKGy6B1G1G4g7fRkKfEh"
+    },
+    {
+      "added_at": "2024-02-16 08:28:10",
+      "album": {
+        "name": "Hob Emtelak",
+        "url": "https://open.spotify.com/album/6sjEZxXzUccxxRukfuTVRk"
+      },
+      "artists": [
+        {
+          "name": "Jannat",
+          "url": "https://open.spotify.com/artist/3MpEY93FasSif1w2qbutch"
+        }
+      ],
+      "duration_ms": 244321,
+      "name": "Esmaa Kalamy",
+      "url": "https://open.spotify.com/track/4WI8gWUhvwXSN9sBSUDF87"
     },
     {
       "added_at": "2024-02-16 08:28:10",
@@ -695,22 +711,6 @@
       "duration_ms": 218827,
       "name": "Awel Mara Etabelna",
       "url": "https://open.spotify.com/track/1ifVT3ZS6GZEmOhJI050Sq"
-    },
-    {
-      "added_at": "2024-02-16 08:28:10",
-      "album": {
-        "name": "Khaleke Fe Hodny el Leila",
-        "url": "https://open.spotify.com/album/7hmxZMPPjo5hZhJyFWrnI4"
-      },
-      "artists": [
-        {
-          "name": "Muslim - \u0645\u064f\u0633\u0644\u0650\u0645",
-          "url": "https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS"
-        }
-      ],
-      "duration_ms": 200170,
-      "name": "Khaleke Fe Hodny el Leila",
-      "url": "https://open.spotify.com/track/5U7cXLPY3RyLxKF5bVGClf"
     },
     {
       "added_at": "2024-02-16 08:28:10",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-02-16 08:28:10",
       "album": {
-        "name": "\u0623\u0645\u0627\u0646\u0629 \u0639\u0644\u064a\u0643",
-        "url": "https://open.spotify.com/album/0OOfNXZ946kd6XWzo1hFXB"
-      },
-      "artists": [
-        {
-          "name": "Mohamed El Sharnouby",
-          "url": "https://open.spotify.com/artist/7zUEJRavunKtqi2n029IHn"
-        }
-      ],
-      "duration_ms": 174912,
-      "name": "\u0623\u0645\u0627\u0646\u0629 \u0639\u0644\u064a\u0643",
-      "url": "https://open.spotify.com/track/39iDT99pLYo7Q5F166a2UY"
-    },
-    {
-      "added_at": "2024-02-16 08:28:10",
-      "album": {
         "name": "Amar W Mnawar",
         "url": "https://open.spotify.com/album/4lVEeoAhlCqqO0EhWh1mVG"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 158863,
       "name": "Amar W Mnawar",
       "url": "https://open.spotify.com/track/6BfyXjWvjdUR7lZF5ekXh1"
+    },
+    {
+      "added_at": "2024-02-16 08:28:10",
+      "album": {
+        "name": "\u0623\u0645\u0627\u0646\u0629 \u0639\u0644\u064a\u0643",
+        "url": "https://open.spotify.com/album/0OOfNXZ946kd6XWzo1hFXB"
+      },
+      "artists": [
+        {
+          "name": "Mohamed El Sharnouby",
+          "url": "https://open.spotify.com/artist/7zUEJRavunKtqi2n029IHn"
+        }
+      ],
+      "duration_ms": 174912,
+      "name": "\u0623\u0645\u0627\u0646\u0629 \u0639\u0644\u064a\u0643",
+      "url": "https://open.spotify.com/track/39iDT99pLYo7Q5F166a2UY"
     },
     {
       "added_at": "2024-02-16 08:28:10",
@@ -939,18 +939,18 @@
     {
       "added_at": "2024-02-16 08:28:10",
       "album": {
-        "name": "Ma Kefaya",
-        "url": "https://open.spotify.com/album/31DLm4kGbvpJyBNN72M5F6"
+        "name": "\u0628\u0642\u064a\u0633 \u0627\u0644\u062c\u0645\u0627\u0644 \u0628\u064a\u0643\u064a",
+        "url": "https://open.spotify.com/album/5jIBjSo2wTnNdSdUnbs9eN"
       },
       "artists": [
         {
-          "name": "Mohamed El Sharnouby",
-          "url": "https://open.spotify.com/artist/7zUEJRavunKtqi2n029IHn"
+          "name": "Ramy Gamal",
+          "url": "https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID"
         }
       ],
-      "duration_ms": 200566,
-      "name": "Ma Kefaya",
-      "url": "https://open.spotify.com/track/51eHTyTmu39neRSUbUltmn"
+      "duration_ms": 227142,
+      "name": "\u0628\u0642\u064a\u0633 \u0627\u0644\u062c\u0645\u0627\u0644 \u0628\u064a\u0643\u064a",
+      "url": "https://open.spotify.com/track/4VriXHfdk3GpTMCKOW70D5"
     },
     {
       "added_at": "2024-02-16 08:28:10",
@@ -971,18 +971,18 @@
     {
       "added_at": "2024-02-16 08:28:10",
       "album": {
-        "name": "\u0628\u0642\u064a\u0633 \u0627\u0644\u062c\u0645\u0627\u0644 \u0628\u064a\u0643\u064a",
-        "url": "https://open.spotify.com/album/5jIBjSo2wTnNdSdUnbs9eN"
+        "name": "Ma Kefaya",
+        "url": "https://open.spotify.com/album/31DLm4kGbvpJyBNN72M5F6"
       },
       "artists": [
         {
-          "name": "Ramy Gamal",
-          "url": "https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID"
+          "name": "Mohamed El Sharnouby",
+          "url": "https://open.spotify.com/artist/7zUEJRavunKtqi2n029IHn"
         }
       ],
-      "duration_ms": 227142,
-      "name": "\u0628\u0642\u064a\u0633 \u0627\u0644\u062c\u0645\u0627\u0644 \u0628\u064a\u0643\u064a",
-      "url": "https://open.spotify.com/track/4VriXHfdk3GpTMCKOW70D5"
+      "duration_ms": 200566,
+      "name": "Ma Kefaya",
+      "url": "https://open.spotify.com/track/51eHTyTmu39neRSUbUltmn"
     },
     {
       "added_at": "2024-02-16 08:28:10",
@@ -1067,6 +1067,30 @@
     {
       "added_at": "2024-02-16 08:28:10",
       "album": {
+        "name": "Red Bull Sika",
+        "url": "https://open.spotify.com/album/0hf5Kd9VvJTl993fEfkLAP"
+      },
+      "artists": [
+        {
+          "name": "Ramy Gamal",
+          "url": "https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID"
+        },
+        {
+          "name": "Husayn",
+          "url": "https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI"
+        },
+        {
+          "name": "Riff",
+          "url": "https://open.spotify.com/artist/3uMm7CPUx2akjaBXYIveP7"
+        }
+      ],
+      "duration_ms": 130285,
+      "name": "Maktoob Aleina",
+      "url": "https://open.spotify.com/track/3RfC9t6UYws4b6EJVuP601"
+    },
+    {
+      "added_at": "2024-02-16 08:28:10",
+      "album": {
         "name": "Ya Bakhty Beh",
         "url": "https://open.spotify.com/album/0tFBtGwjlCel82hP0xN1hy"
       },
@@ -1127,30 +1151,6 @@
       "duration_ms": 264000,
       "name": "Ana Geit",
       "url": "https://open.spotify.com/track/29lJXGosqoarPoGNMzH8jF"
-    },
-    {
-      "added_at": "2024-02-16 08:28:10",
-      "album": {
-        "name": "Red Bull Sika",
-        "url": "https://open.spotify.com/album/0hf5Kd9VvJTl993fEfkLAP"
-      },
-      "artists": [
-        {
-          "name": "Ramy Gamal",
-          "url": "https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID"
-        },
-        {
-          "name": "Husayn",
-          "url": "https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI"
-        },
-        {
-          "name": "Riff",
-          "url": "https://open.spotify.com/artist/3uMm7CPUx2akjaBXYIveP7"
-        }
-      ],
-      "duration_ms": 130285,
-      "name": "Maktoob Aleina",
-      "url": "https://open.spotify.com/track/3RfC9t6UYws4b6EJVuP601"
     },
     {
       "added_at": "2024-02-16 08:28:10",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2024-02-16 08:28:10",
       "album": {
-        "name": "Agmal Layaly Omry",
-        "url": "https://open.spotify.com/album/7DFycaqMjOZVNMjfW7pC8V"
+        "name": "\u0641\u0636\u062d\u0627\u0646\u064a \u0639\u0646\u064a\u0629",
+        "url": "https://open.spotify.com/album/090FJL1hXb1Bxvf5cj6JZr"
       },
       "artists": [
         {
-          "name": "Ramy Sabry",
-          "url": "https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc"
+          "name": "Samara Now",
+          "url": "https://open.spotify.com/artist/33C02CFofpaWCgYTPD1au0"
         }
       ],
-      "duration_ms": 267093,
-      "name": "Agmal Layaly",
-      "url": "https://open.spotify.com/track/5Mb9tcayKWB6Ar9IcMzGID"
+      "duration_ms": 277798,
+      "name": "\u0641\u0636\u062d\u0627\u0646\u064a \u0639\u0646\u064a\u0629",
+      "url": "https://open.spotify.com/track/7gHnIsFdTHKPxj6odECNLa"
     }
   ],
   "unique_name": "\u062d\u0628 \u0648\u063a\u0631\u0627\u0645",

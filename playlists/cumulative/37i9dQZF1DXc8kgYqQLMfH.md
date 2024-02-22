@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-1,128 songs - 1 day 18 hr 45 min
+1,129 songs - 1 day 18 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -490,11 +490,12 @@
 | [introspection](https://open.spotify.com/track/623oh9a6Vrc4NlUkgPuvvi) | [Mrs Blonded](https://open.spotify.com/artist/6Gx6MRxYH7sQQTRe7EStEN) | [introspection](https://open.spotify.com/album/2UckQg0YEvSSE9Ckzz7Uda) | 1:52 | 2022-03-21 | 2023-03-02 |
 | [Isiah](https://open.spotify.com/track/4gvMukwB7duTnNiZCEojuc) | [Dream Web](https://open.spotify.com/artist/0xhiRy2F05NVIpB4GKReES) | [Isiah](https://open.spotify.com/album/1ggc6pcvji5xQkEbZKuwnK) | 2:38 | 2022-05-27 |  |
 | [it meant a lot \- Instrumental](https://open.spotify.com/track/6JbaTqNRlnHgOnbfTTh3GA) | [Fallen Roses](https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv) | [it meant a lot](https://open.spotify.com/album/2Nj9ytlfDKNt6GLrNu8zfy) | 1:57 | 2022-07-29 | 2022-10-29 |
-| [it's all gone now](https://open.spotify.com/track/3ixV1YHgkybTtqZlgREtca) | [hope mona](https://open.spotify.com/artist/4dY5OgoQjnx0jwht0P6siG) | [inhaling peace](https://open.spotify.com/album/0C87nDIJyiIDy3eO2XVwg6) | 1:53 | 2022-11-25 |  |
+| [it's all gone now](https://open.spotify.com/track/3ixV1YHgkybTtqZlgREtca) | [hope mona](https://open.spotify.com/artist/4dY5OgoQjnx0jwht0P6siG) | [inhaling peace](https://open.spotify.com/album/0C87nDIJyiIDy3eO2XVwg6) | 1:53 | 2022-11-25 | 2024-02-22 |
 | [It's all Happening](https://open.spotify.com/track/7vaLupBut9f0QwJ1tWNl9N) | [Diggy Downs](https://open.spotify.com/artist/30rMHC24zZrcdUcCHUojER) | [It's all Happening](https://open.spotify.com/album/1FXDxQlH8LELRw9S8GWNfW) | 2:10 | 2021-11-10 | 2022-10-08 |
 | [it's messed up right?](https://open.spotify.com/track/5lxMPRkYu1S9q9lbjMBRFU) | [Yoga at the Disco](https://open.spotify.com/artist/4jQBn4Pe1tFPxVo3p6W7uq) | [it's messed up right?](https://open.spotify.com/album/3qmUmUngnxffiEzP215rFo) | 2:10 | 2022-01-27 |  |
 | [it\_s less dangerous](https://open.spotify.com/track/0mAlO6oD3KSyJwOQoD11qx) | [glenn.](https://open.spotify.com/artist/1HUH0vZwspa4HklgpxO99o) | [Friday Love](https://open.spotify.com/album/73BMGhkiLcIx71RAVqH7hE) | 1:44 | 2022-04-08 |  |
 | [Jacky Chunk](https://open.spotify.com/track/06xkTVqEPW6UA19LH3Iuxf) | [BluntOne](https://open.spotify.com/artist/225l1KEprObX8xgl8xo2Gc), [Baen Mow](https://open.spotify.com/artist/2mt3wR9B4tg9KXvICFYhqM) | [Jacky Chunk](https://open.spotify.com/album/0Bqc5ekalcgwl92oBarbvG) | 1:34 | 2023-04-03 | 2023-10-06 |
+| [jardín de naranjas](https://open.spotify.com/track/2yp0Mes8VxNAdSW50ZLNAG) | [Cherrygroove](https://open.spotify.com/artist/4pJaZjlxYyUVQLeVg0aP40) | [jardín de naranjas](https://open.spotify.com/album/5yhBNlixRkubu20oXcK8pz) | 2:14 | 2024-02-09 |  |
 | [Javelin](https://open.spotify.com/track/5EFQsOcqVBcnqUIqYaToob) | [PRODA](https://open.spotify.com/artist/2wKsHaG2GNyzDYW3nhDlJZ) | [Javelin](https://open.spotify.com/album/5480KLWzSq4N0vGnyZcBhH) | 2:01 | 2023-04-03 |  |
 | [Jazz Boutique](https://open.spotify.com/track/41hMDzsdeWD9lt3N4aXKZb) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10) | [Jazz Boutique](https://open.spotify.com/album/02cTbjytd1KkMFlnHqxIqP) | 2:26 | 2023-04-20 | 2023-09-22 |
 | [Jazz Notes](https://open.spotify.com/track/1586Yd50L4n7EIp3Mhg8mh) | [B\-Side](https://open.spotify.com/artist/1KpqmBJgAuQIT39QH7CO2O), [Tesk](https://open.spotify.com/artist/7ntBtETW7gkufH8Hw38gb4), [OG Nuage](https://open.spotify.com/artist/1yL3sKU07bFZCMjrMbQ1Jd) | [Jazz Notes](https://open.spotify.com/album/1Afni32J8Jk4PgeEX0GrJ7) | 2:29 | 2022-11-25 | 2023-09-22 |

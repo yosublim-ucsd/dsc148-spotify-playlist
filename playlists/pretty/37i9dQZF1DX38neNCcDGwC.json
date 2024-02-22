@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 50980,
+  "num_followers": 51022,
   "original_name": "Legendary Labels: Tuff Gong",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOWVhNDBjNWQ1OGM5NWMyMzRmYWQ0N2E0NjMxYWRmNDM2OTE1YzY5",
+  "snapshot_id": "MCxkNjlkM2RjZjhlMDMwYjJlNzFkZjkzYmE1ZTAwZmU4MTdkNWUzMDM5",
   "tracks": [
     {
       "added_at": "2022-03-03 13:49:40",
@@ -107,8 +107,8 @@
     {
       "added_at": "2022-03-03 13:49:40",
       "album": {
-        "name": "Uprising",
-        "url": "https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX"
+        "name": "Exodus",
+        "url": "https://open.spotify.com/album/655KljKIXl42fiNDMKivbY"
       },
       "artists": [
         {
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 233560,
-      "name": "Redemption Song",
-      "url": "https://open.spotify.com/track/26PwuMotZqcczKLHi4Htz3"
+      "duration_ms": 211000,
+      "name": "Jamming",
+      "url": "https://open.spotify.com/track/3GIChxHmuLmBm5PTNZGDtj"
     },
     {
       "added_at": "2022-03-03 13:49:40",
@@ -211,8 +211,8 @@
     {
       "added_at": "2022-03-03 13:49:40",
       "album": {
-        "name": "Exodus",
-        "url": "https://open.spotify.com/album/655KljKIXl42fiNDMKivbY"
+        "name": "Uprising",
+        "url": "https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX"
       },
       "artists": [
         {
@@ -220,9 +220,9 @@
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 211000,
-      "name": "Jamming",
-      "url": "https://open.spotify.com/track/3GIChxHmuLmBm5PTNZGDtj"
+      "duration_ms": 233560,
+      "name": "Redemption Song",
+      "url": "https://open.spotify.com/track/26PwuMotZqcczKLHi4Htz3"
     },
     {
       "added_at": "2022-03-03 13:49:40",
@@ -419,6 +419,22 @@
     {
       "added_at": "2022-03-03 13:49:40",
       "album": {
+        "name": "Exodus",
+        "url": "https://open.spotify.com/album/655KljKIXl42fiNDMKivbY"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 460226,
+      "name": "Exodus",
+      "url": "https://open.spotify.com/track/1lRkDJ9hMuiE1GZOlbgkam"
+    },
+    {
+      "added_at": "2022-03-03 13:49:40",
+      "album": {
         "name": "Rastaman Vibration",
         "url": "https://open.spotify.com/album/6Gdf5vvFmoEwcsEV61tXiT"
       },
@@ -444,9 +460,9 @@
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 460226,
-      "name": "Exodus",
-      "url": "https://open.spotify.com/track/1lRkDJ9hMuiE1GZOlbgkam"
+      "duration_ms": 188026,
+      "name": "So Much Things To Say",
+      "url": "https://open.spotify.com/track/2ULRNZ4FbMQj4FVpFkUmNM"
     },
     {
       "added_at": "2022-03-03 13:49:40",
@@ -463,22 +479,6 @@
       "duration_ms": 310426,
       "name": "Lively Up Yourself",
       "url": "https://open.spotify.com/track/2Xr3NXOz1qg5Jddkm8k4fr"
-    },
-    {
-      "added_at": "2022-03-03 13:49:40",
-      "album": {
-        "name": "Exodus",
-        "url": "https://open.spotify.com/album/655KljKIXl42fiNDMKivbY"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 188026,
-      "name": "So Much Things To Say",
-      "url": "https://open.spotify.com/track/2ULRNZ4FbMQj4FVpFkUmNM"
     },
     {
       "added_at": "2022-03-03 13:49:40",

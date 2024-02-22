@@ -4,7 +4,7 @@
 
 > Throw your lighters in the air and wave them like you don't care\. Cover: Guns N' Roses
 
-303 songs - 1 day 1 hr 39 min
+304 songs - 1 day 1 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Believe in Love \- 2015 Remaster](https://open.spotify.com/track/1rQzg5VzNl4dZPQ6BAIm5p) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Savage Amusement](https://open.spotify.com/album/3jW8ocBVKcyWjJ4P8pBs3O) | 5:23 | 2022-04-15 | 2022-07-29 |
 | [Believe in Nothing](https://open.spotify.com/track/3zdUWmaNcbTqv2V7ZYLXQ8) | [Nevermore](https://open.spotify.com/artist/1wUArE0NhHB8M1bU2WSplY) | [Dead Heart In a Dead World](https://open.spotify.com/album/1v1hdLXVBjFel9srMX8paD) | 4:21 | 2022-04-15 | 2022-07-18 |
 | [Beth](https://open.spotify.com/track/1cPXOzyeZauSAsT1yy7aBp) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Destroyer](https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0) | 2:45 | 2022-04-15 |  |
-| [Better Off This Way](https://open.spotify.com/track/4D7JvdZYB3G8es1aaLimJk) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [N.A.T.I.O.N.](https://open.spotify.com/album/6yMblFoGadj25t99DryfSv) | 3:22 | 2024-01-02 |  |
+| [Better Off This Way](https://open.spotify.com/track/4D7JvdZYB3G8es1aaLimJk) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [N.A.T.I.O.N.](https://open.spotify.com/album/6yMblFoGadj25t99DryfSv) | 3:22 | 2024-01-02 | 2024-02-22 |
 | [Beyond the Realms of Death](https://open.spotify.com/track/2ZjTthIga0KHuFgNut1W9d) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Stained Class](https://open.spotify.com/album/3Mvzsgk8nTtX8TnrxAtcbg) | 6:49 | 2022-04-15 | 2022-07-29 |
 | [Beyond the Realms of Death](https://open.spotify.com/track/3Rtv6zRNKpeSygXoaF9kCm) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Stained Class](https://open.spotify.com/album/0v6FGuCgvRotTNL1KoX297) | 6:49 | 2022-04-15 |  |
 | [Blackbird](https://open.spotify.com/track/2o4AknH1hXnleCRW2rH45w) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [Blackbird](https://open.spotify.com/album/0Fk4lWAADmFMmuW6jp6xyE) | 7:58 | 2022-04-15 | 2022-07-29 |
@@ -138,6 +138,7 @@
 | [I Won't Forget You \- 2003 Remaster](https://open.spotify.com/track/6WmVgLj2htklkU3SZOsItg) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Look What The Cat Dragged In \- 20th Anniversary Edition](https://open.spotify.com/album/2SkbSj0eZ2H5uqKYEnMmIe) | 3:34 | 2022-04-15 |  |
 | [I'll Be There For You](https://open.spotify.com/track/67YIAxlMlfSNmbnt83zGKh) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [New Jersey](https://open.spotify.com/album/7CNtnpBoG1lsUBWwpnJjwv) | 5:46 | 2022-04-15 | 2023-12-03 |
 | [I'll Cry For You](https://open.spotify.com/track/5fPIx4t5vomPE9cWnTL6gv) | [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [Prisoners In Paradise](https://open.spotify.com/album/6bjLeNJ4eSTiEwMxqWeFYp) | 5:21 | 2022-04-15 | 2022-11-13 |
+| [In a Darkened Room](https://open.spotify.com/track/05A9GC5OxmgvvRji2SCVzh) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Slave to the Grind](https://open.spotify.com/album/35XOihxzj9XxmK4j1DFW3E) | 3:55 | 2024-01-02 |  |
 | [In a Darkened Room](https://open.spotify.com/track/4WwWjFCyvUY2fcx8OULByB) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Slave to the Grind](https://open.spotify.com/album/0AiXcZbksZoX2pSe2384Z3) | 3:55 | 2022-04-15 | 2024-02-10 |
 | [In Memory](https://open.spotify.com/track/2EAwZKPlwpYofvTmTQFC7B) | [Primal Fear](https://open.spotify.com/artist/1yfiDL3YUEJlQCgb5Pun6g) | [Seven Seals](https://open.spotify.com/album/0Ehwt0ClfhU04kD7dOUGSO) | 5:07 | 2022-04-15 | 2022-07-27 |
 | [In the Middle of a Heartbeat](https://open.spotify.com/track/4Svpn72eIVcEEMonNugrS1) | [Helloween](https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY) | [Master of the Rings](https://open.spotify.com/album/2uKvyqmV4sQ8O7MLKqVOdC) | 4:30 | 2022-04-15 | 2022-07-29 |

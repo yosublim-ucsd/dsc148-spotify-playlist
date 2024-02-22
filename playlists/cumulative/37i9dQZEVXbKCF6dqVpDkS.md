@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Netherlands.
 
-1,384 songs - 3 day 0 hr 5 min
+1,385 songs - 3 day 0 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -372,6 +372,7 @@
 | [Embers](https://open.spotify.com/track/5Dmq7XPXXcATuJnSOj8UrT) | [James Newman](https://open.spotify.com/artist/4iaTgZRy5aVnImDyRJn61n) | [Embers](https://open.spotify.com/album/1bqMVwx0B9ALlFQvDcFNLK) | 2:55 | 2021-05-25 | 2021-05-26 |
 | [Emiliana](https://open.spotify.com/track/0vNY7uNEG8El6doRdP21D5) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Emiliana](https://open.spotify.com/album/4rgpbWVXW4xNXfSnKcqYl1) | 2:44 | 2022-01-11 | 2022-03-17 |
 | [Emiliana](https://open.spotify.com/track/6lZ5p6VTbZ2ZvnsdTlLv7I) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Emiliana](https://open.spotify.com/album/4LTckGxBOI0fEkliC3zbIp) | 2:44 | 2022-03-16 | 2022-04-29 |
+| [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2024-02-21 |  |
 | [Enemy \(with JID\) \- from the series Arcane League of Legends](https://open.spotify.com/track/1HhNoOuqm1a5MXYEgAFl8o) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Mercury \- Act 1](https://open.spotify.com/album/4fZIyJn2wKb51QPNnWYnqt) | 2:53 | 2022-02-05 | 2022-04-25 |
 | [Enemy \(with JID\) \- from the series Arcane League of Legends](https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Enemy \(with JID\) \[from the series Arcane League of Legends\]](https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b) | 2:53 | 2021-12-15 | 2022-02-06 |
 | [ENERGY](https://open.spotify.com/track/2i5vu6GI7mJ2B2pf9gNFhn) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/3ctW8o8ABBCNWWkdIvEGgV) | 1:56 | 2022-07-30 | 2022-08-01 |
@@ -650,7 +651,7 @@
 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [The Andy Williams Christmas Album](https://open.spotify.com/album/30eO7X0doSEWKhDLAFLMuW) | 2:31 | 2021-12-06 | 2023-12-30 |
 | [Jail](https://open.spotify.com/track/42ZrMq4BKsWDrrbMnMRYaK) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:57 | 2021-08-31 | 2021-09-05 |
 | [Jammer Dan](https://open.spotify.com/track/4PyYGasJnEDj7RNcNMK40k) | [Stef Ekkel](https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm) | [Jammer Dan](https://open.spotify.com/album/2AxAA2mZxU9U8EymFn0nxd) | 3:05 | 2023-04-28 | 2023-04-30 |
-| [Jarig](https://open.spotify.com/track/2VwWtKwBB0uSuNxUJCFYkH) | [Yverthug](https://open.spotify.com/artist/1v2Bdrj3QXcJViY7l9U7QJ) | [Jarig](https://open.spotify.com/album/0VPNBuLYFEhaBv39DpkeXT) | 2:09 | 2024-02-20 |  |
+| [Jarig](https://open.spotify.com/track/2VwWtKwBB0uSuNxUJCFYkH) | [Yverthug](https://open.spotify.com/artist/1v2Bdrj3QXcJViY7l9U7QJ) | [Jarig](https://open.spotify.com/album/0VPNBuLYFEhaBv39DpkeXT) | 2:09 | 2024-02-20 | 2024-02-22 |
 | [Je Blik Richting Mij](https://open.spotify.com/track/3mafhqH8nGsvyZTN86IEOc) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Je Blik Richting Mij](https://open.spotify.com/album/7998gDHXVMiM73j6f6j3oY) | 2:25 | 2022-02-12 | 2022-05-15 |
 | [Je me casse](https://open.spotify.com/track/559RWsQqSe4fNUffI9P7mW) | [Destiny](https://open.spotify.com/artist/1D6ueetjwqW491iboMI3NT) | [Je me casse](https://open.spotify.com/album/6Ltrg0NAj6GqIyO2bjPgYI) | 2:58 | 2021-05-25 | 2021-05-31 |
 | [Je Verdient Beter](https://open.spotify.com/track/5MEGSI92HGfxhZ2NMiFf76) | [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd), [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds) | [Recklezz](https://open.spotify.com/album/2SQP0maBlv8QZunwPVfE3P) | 3:22 | 2022-11-19 | 2022-12-04 |

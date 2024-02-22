@@ -2,22 +2,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 ### [Fresh Finds Nordics](https://open.spotify.com/playlist/37i9dQZF1DX2gIolsgpyjq)
 
-> The best new music by independent artists in the Nordics\. Cover: Amanda Cy
+> The best new music by independent artists in the Nordics\. Cover: Kissimjau
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,297 likes - 99 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,307 likes - 99 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Know Nothing](https://open.spotify.com/track/04h7ReoZ0gxfgGUMM68Lzy) | [Amanda Cy](https://open.spotify.com/artist/7ocbmQfDODtTh1CFeK66wW) | [Know Nothing](https://open.spotify.com/album/0LKI6YjvjvuZADyW4uz9bP) | 3:00 |
-| 2 | [Boy, Empty](https://open.spotify.com/track/0SNuOUnmzWghN3oPcaduCA) | [BOABOA](https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o) | [FIRST ENCOUNTER](https://open.spotify.com/album/4rOqXdpoXvE1PH59Jf88be) | 2:49 |
-| 3 | [Kongo \(Hanî´s Remix\)](https://open.spotify.com/track/0ogdZxS5XtjVQeRfwgkjUN) | [Kolinga](https://open.spotify.com/artist/1l4wo8qR1qvFN8aym2xmDM), [HANÎ](https://open.spotify.com/artist/1M56F5uqrk6uA42Gmy6Vqv) | [Kongo \(Hanî 's Remix\)](https://open.spotify.com/album/1wMmeCeow1EZ422q2e7119) | 3:53 |
-| 4 | [Violently Patient](https://open.spotify.com/track/1qKdEaj6BE2RKzQj3sQE63) | [Rangleklods](https://open.spotify.com/artist/1p2jAzBu31C2CoORbhZROz) | [Breathe In, Breathe Out](https://open.spotify.com/album/4hfABogY2ThfnXf515qFBq) | 5:23 |
-| 5 | [dayones](https://open.spotify.com/track/74wAMYdAqfDFx76Ll6zG5D) | [MASAKA](https://open.spotify.com/artist/6tn3C5xHZDyUoqd0yTPawY) | [dayones](https://open.spotify.com/album/7lLwYb8U0UIro72ix3s00z) | 1:58 |
-| 6 | [did you know it](https://open.spotify.com/track/5y4HoKBM74WT5gFsLFpR20) | [sindr](https://open.spotify.com/artist/4UiuiDCLil74AvDoXjdpib) | [did you know it](https://open.spotify.com/album/7m3iOiaE96gqyDbCyeoZtH) | 2:22 |
-| 7 | [Carnaby Street](https://open.spotify.com/track/4kmX13TBvLA3tvYn9XStos) | [Halon](https://open.spotify.com/artist/6FsTyMvWygqPWyx4d1MvoT) | [Music to Get Rich To](https://open.spotify.com/album/62dxxRfB9oOo9xD1CtfBfa) | 3:09 |
-| 8 | [Millennials](https://open.spotify.com/track/713gREmePzVabI2eS61689) | [I Don't Speak French](https://open.spotify.com/artist/6w3WTHXhYnXWRPLal2dsjY) | [Millennials](https://open.spotify.com/album/7GuFTcMLZL1E1w8fdTDRrN) | 2:17 |
-| 9 | [Television Sound](https://open.spotify.com/track/0i4cJ0eopiXEstac4yovYl) | [Ellison](https://open.spotify.com/artist/1pF3ZfKACJViikvLsIjELq) | [Somewhere In Oslo](https://open.spotify.com/album/6JHpviHxgAfzqy3Cp8EUA1) | 2:55 |
-| 10 | [Go Ghost](https://open.spotify.com/track/34mRNAdHE2chF02ibo2x6v) | [Kissimjau](https://open.spotify.com/artist/48FGhVmpVUfbDb6iRMYIf0) | [Go Ghost](https://open.spotify.com/album/4VfduOex5EZQ75OrgUdlBm) | 3:29 |
+| 1 | [Go Ghost](https://open.spotify.com/track/34mRNAdHE2chF02ibo2x6v) | [Kissimjau](https://open.spotify.com/artist/48FGhVmpVUfbDb6iRMYIf0) | [Go Ghost](https://open.spotify.com/album/4VfduOex5EZQ75OrgUdlBm) | 3:29 |
+| 2 | [Know Nothing](https://open.spotify.com/track/04h7ReoZ0gxfgGUMM68Lzy) | [Amanda Cy](https://open.spotify.com/artist/7ocbmQfDODtTh1CFeK66wW) | [Know Nothing](https://open.spotify.com/album/0LKI6YjvjvuZADyW4uz9bP) | 3:00 |
+| 3 | [Boy, Empty](https://open.spotify.com/track/0SNuOUnmzWghN3oPcaduCA) | [BOABOA](https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o) | [FIRST ENCOUNTER](https://open.spotify.com/album/4rOqXdpoXvE1PH59Jf88be) | 2:49 |
+| 4 | [Kongo \(Hanî´s Remix\)](https://open.spotify.com/track/0ogdZxS5XtjVQeRfwgkjUN) | [Kolinga](https://open.spotify.com/artist/1l4wo8qR1qvFN8aym2xmDM), [HANÎ](https://open.spotify.com/artist/1M56F5uqrk6uA42Gmy6Vqv) | [Kongo \(Hanî 's Remix\)](https://open.spotify.com/album/1wMmeCeow1EZ422q2e7119) | 3:53 |
+| 5 | [Violently Patient](https://open.spotify.com/track/1qKdEaj6BE2RKzQj3sQE63) | [Rangleklods](https://open.spotify.com/artist/1p2jAzBu31C2CoORbhZROz) | [Breathe In, Breathe Out](https://open.spotify.com/album/4hfABogY2ThfnXf515qFBq) | 5:23 |
+| 6 | [dayones](https://open.spotify.com/track/74wAMYdAqfDFx76Ll6zG5D) | [MASAKA](https://open.spotify.com/artist/6tn3C5xHZDyUoqd0yTPawY) | [dayones](https://open.spotify.com/album/7lLwYb8U0UIro72ix3s00z) | 1:58 |
+| 7 | [did you know it](https://open.spotify.com/track/5y4HoKBM74WT5gFsLFpR20) | [sindr](https://open.spotify.com/artist/4UiuiDCLil74AvDoXjdpib) | [did you know it](https://open.spotify.com/album/7m3iOiaE96gqyDbCyeoZtH) | 2:22 |
+| 8 | [Carnaby Street](https://open.spotify.com/track/4kmX13TBvLA3tvYn9XStos) | [Halon](https://open.spotify.com/artist/6FsTyMvWygqPWyx4d1MvoT) | [Music to Get Rich To](https://open.spotify.com/album/62dxxRfB9oOo9xD1CtfBfa) | 3:09 |
+| 9 | [Millennials](https://open.spotify.com/track/713gREmePzVabI2eS61689) | [I Don't Speak French](https://open.spotify.com/artist/6w3WTHXhYnXWRPLal2dsjY) | [Millennials](https://open.spotify.com/album/7GuFTcMLZL1E1w8fdTDRrN) | 2:17 |
+| 10 | [Television Sound](https://open.spotify.com/track/0i4cJ0eopiXEstac4yovYl) | [Ellison](https://open.spotify.com/artist/1pF3ZfKACJViikvLsIjELq) | [Somewhere In Oslo](https://open.spotify.com/album/6JHpviHxgAfzqy3Cp8EUA1) | 2:55 |
 | 11 | [Give It To You](https://open.spotify.com/track/0gL2kkAX5DW0S5RiFKbpeV) | [NEA EINI](https://open.spotify.com/artist/5d9OWj9gEcEXkTsILdZg0S) | [Give It To You](https://open.spotify.com/album/09OTxvAmsoA11uoFa4i2hY) | 2:25 |
 | 12 | [nothing to lose](https://open.spotify.com/track/1ODukZHZUdQ9aJp8OivxO1) | [Noktis](https://open.spotify.com/artist/0brsGLNpCQEHXNblDDKWK0), [Niah Steiner](https://open.spotify.com/artist/0w3DFcH0s3X5siAjB6C9T7) | [nothing to lose](https://open.spotify.com/album/27r5u8JpXZhz3Gb8MZhwJW) | 2:25 |
 | 13 | [Let Go](https://open.spotify.com/track/0W7j7YRQa5ImBoqdp1wRRg) | [drea](https://open.spotify.com/artist/5uAxEwTjRGgSqL1NkSROTM) | [Let Go](https://open.spotify.com/album/0DLxuCmbmXN6A7832DdJQA) | 2:05 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 | 98 | [Exhale](https://open.spotify.com/track/4nhwDQKDuKfMyfKAihTN5W) | [haugust](https://open.spotify.com/artist/07KhVOf8HbWRfk3rkiyUqT) | [Anger Management](https://open.spotify.com/album/399ke7Bcdg609a5s6ETPu6) | 2:57 |
 | 99 | [VDKDV?](https://open.spotify.com/track/5DKc7J0BxFKwYonJgWyU0v) | [MELVIN](https://open.spotify.com/artist/2eepQKh5byG0hRhmy6U0I4) | [VDKDV?](https://open.spotify.com/album/6vHMn2bJ7DggbtHzKZGiPC) | 2:19 |
 
-Snapshot ID: `MCw4Y2QyMWY2YjI4YTkxMGRjNDI5YmU4YzRjMzc2NTU3YTkyYWQyZTE3`
+Snapshot ID: `MCw2MzI3YmE1MjI5ZTc4MmRiZDBlMzllMDllZDlmMTMxYzE2ZGQ2ZWRi`

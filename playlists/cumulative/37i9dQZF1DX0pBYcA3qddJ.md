@@ -4,7 +4,7 @@
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-678 songs - 1 day 21 hr 44 min
+679 songs - 1 day 21 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [A Mother's Touch \- 『桜色の風が咲く』オリジナル・サウンドトラックより](https://open.spotify.com/track/2QjvLUy2wF9LU34eJ9Fhvq) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [A Mother's Touch \(『桜色の風が咲く』オリジナル・サウンドトラックより\)](https://open.spotify.com/album/6o1V8mKoQPUBRuALEciKWK) | 5:45 | 2022-10-27 | 2022-11-11 |
 | [A New Base for an Unknown Friend](https://open.spotify.com/track/4tAvSeSV6AnhliDhJR9FoZ) | [JunIzawa](https://open.spotify.com/artist/7784zrMh7ieZT0RZJgxV9I) | [A New Base EP](https://open.spotify.com/album/7rWa5b30jHvUxS7HmkaSC5) | 5:13 | 2022-11-22 | 2022-12-02 |
 | [a new romance](https://open.spotify.com/track/0LGbC0S4fcUIcaEk08Hc8r) | [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [Néo\-Romance](https://open.spotify.com/album/0Uv7rvKUVNnEUOBkKyF1Q1) | 3:10 | 2023-04-06 |  |
-| [A Pervasive Awareness](https://open.spotify.com/track/4nwdHLEuVcK8b6vfEpWD5N) | [HAPPY](https://open.spotify.com/artist/5GVmwlesqBw7eCqdX0YAEH) | [A Pervasive Awareness](https://open.spotify.com/album/0dfsOtFcCPaC78YrBBKmyF) | 3:26 | 2024-02-20 |  |
+| [A Pervasive Awareness](https://open.spotify.com/track/4nwdHLEuVcK8b6vfEpWD5N) | [HAPPY](https://open.spotify.com/artist/5GVmwlesqBw7eCqdX0YAEH) | [A Pervasive Awareness](https://open.spotify.com/album/0dfsOtFcCPaC78YrBBKmyF) | 3:26 | 2024-02-20 | 2024-02-22 |
+| [A Pervasive Awareness](https://open.spotify.com/track/6b2WudWpX282SAkmATvPkr) | [HAPPY](https://open.spotify.com/artist/5GVmwlesqBw7eCqdX0YAEH) | [A Pervasive Awareness](https://open.spotify.com/album/6mRJ6cLO8plEV6Yp3LrCQj) | 3:26 | 2024-02-20 |  |
 | [A Quiet Grace](https://open.spotify.com/track/4917GPMOmDwQErO8676NZl) | [Josh Alexander](https://open.spotify.com/artist/5TDpeBlmwfv69GCABGr9Gs) | [A Quiet Grace](https://open.spotify.com/album/0BlovuovBYXIVEN4J0OjLw) | 2:50 | 2022-10-20 | 2023-02-10 |
 | [A&W](https://open.spotify.com/track/1wTopxO5eQBpxrBXPSbsUn) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [A&W](https://open.spotify.com/album/46XKgCOOHTZkQTdiMsBxHS) | 7:13 | 2023-02-14 | 2023-03-15 |
 | [A.S.A.P \~As slow as possible\~](https://open.spotify.com/track/1OgRCIOlkWGrWMLXpKSuvm) | [starRo](https://open.spotify.com/artist/2kvBsTdtEvwUGOaSDDiKZg) | [A.S.A.P \~As slow as possible\~](https://open.spotify.com/album/0lwkjGUrX0qFHjDWv89M7e) | 3:09 | 2023-02-23 | 2023-03-01 |

@@ -4,7 +4,7 @@
 
 > Unwind to the best Indian classical sounds out there.
 
-245 songs - 21 hr 37 min
+246 songs - 21 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,7 +244,8 @@
 | [Tilak](https://open.spotify.com/track/3snujKMl0rkHSdwOLxWrFv) | [Bombay Bandook](https://open.spotify.com/artist/3VkYRrfqoEIhBfcHTvdYGs) | [Tilak](https://open.spotify.com/album/2FKe9pZM0QQ2ynzPOHIwoj) | 5:59 | 2022-05-17 | 2023-10-17 |
 | [Tore Bina Mohe](https://open.spotify.com/track/4NgquIKp1yVgdUW7UsNPJw) | [In My Frame](https://open.spotify.com/artist/566JyppaFXpIzAnqy0hRpv), [Sarthak Kalyani](https://open.spotify.com/artist/33ZaVn459vwF8UVDS6sWxh) | [Tore Bina Mohe](https://open.spotify.com/album/4mMdKgfx52JIoTQpWP5ZHt) | 3:36 | 2022-05-17 | 2023-05-24 |
 | [Tose Lage Nain](https://open.spotify.com/track/2rLx3Y0yEjEGfO9ydhl7cw) | [Avra Banerjee](https://open.spotify.com/artist/03U223wUp1mWICExQVN5S3), [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Tose Lage Nain](https://open.spotify.com/album/4zokBbgS5ZFgVjs3WFO6Pj) | 5:54 | 2024-02-14 |  |
-| [Tose Naina](https://open.spotify.com/track/45NNVgKvUDMgL1WVNIpyKm) | [Arhaan Hussain](https://open.spotify.com/artist/4pxfXcQuZLeqfukbO0oUXa) | [Tose Naina](https://open.spotify.com/album/3ZO8adEFEpq1Yco1j5EANq) | 2:08 | 2023-12-01 |  |
+| [Tose Naina](https://open.spotify.com/track/0mzRVNdWVjpgJIxY2gR2SD) | [Arhaan Hussain](https://open.spotify.com/artist/4pxfXcQuZLeqfukbO0oUXa) | [Tose Naina](https://open.spotify.com/album/634nRHQCeG4bkFOglkBQLT) | 2:08 | 2024-02-20 |  |
+| [Tose Naina](https://open.spotify.com/track/45NNVgKvUDMgL1WVNIpyKm) | [Arhaan Hussain](https://open.spotify.com/artist/4pxfXcQuZLeqfukbO0oUXa) | [Tose Naina](https://open.spotify.com/album/3ZO8adEFEpq1Yco1j5EANq) | 2:08 | 2023-12-01 | 2024-02-22 |
 | [Traveller \- Leafcutter John Remix](https://open.spotify.com/track/28I5uwR9g7Hg4Hq4Uwuuo2) | [Talvin Singh](https://open.spotify.com/artist/30Y7JOpiNgAGEhnkYPdI1P) | [OK \(Expanded Edition\)](https://open.spotify.com/album/4lfEhaAgggD8a24bw5vOCq) | 5:50 | 2022-05-17 | 2022-07-29 |
 | [Traveller \- Leafcutter John Remix](https://open.spotify.com/track/68pnUjdZYEgYuHArZRxETk) | [Talvin Singh](https://open.spotify.com/artist/30Y7JOpiNgAGEhnkYPdI1P) | [OK \(Expanded Edition\)](https://open.spotify.com/album/78TxUdER5QfLxTBpXu1UZm) | 5:50 | 2022-07-12 | 2023-03-03 |
 | [Traveller \- Leafcutter John Remix](https://open.spotify.com/track/6eksDMdyTYPB3e1nycPx6c) | [Talvin Singh](https://open.spotify.com/artist/30Y7JOpiNgAGEhnkYPdI1P) | [Winter Mix 2021](https://open.spotify.com/album/5gfKfF2hnSbYCdI21NilnF) | 5:50 | 2022-09-23 | 2022-11-14 |

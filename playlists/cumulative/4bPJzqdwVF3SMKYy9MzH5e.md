@@ -4,7 +4,7 @@
 
 > 
 
-1,863 songs - 4 day 4 hr 45 min
+1,864 songs - 4 day 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -648,6 +648,7 @@
 | [Girls In Bikinis](https://open.spotify.com/track/5FXn5JHL50tDPMITGun9zh) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Am I A Girl?](https://open.spotify.com/album/5QCXxPUwoOtxeZQmve6w2u) | 2:25 | 2021-08-05 |  |
 | [Girls Just Want to Have Fun](https://open.spotify.com/track/7hvwgwbZCCGZaNRQSf8bin) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1), [Ecco2k](https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX) | [Crest](https://open.spotify.com/album/3j75sKW2Lw9gUEhjNzPKn4) | 2:14 | 2023-06-16 |  |
 | [Giving My All 2 U](https://open.spotify.com/track/4EkOA5QmlVDoq5JtSQMRxc) | [WEB](https://open.spotify.com/artist/2P64joyhsQaekrBR6LZRQ3) | [Giving My All 2 U](https://open.spotify.com/album/7IjOfbF7Lb1L6i7wlHbE2Y) | 1:17 | 2022-12-30 |  |
+| [Glory to Arstotzka](https://open.spotify.com/track/1j8nEnYhowaJRq5aZD35mo) | [Lucas Pope](https://open.spotify.com/artist/78f89mbowbxt39ctuqX8bM) | [Papers, Please \(Original Game Soundtrack\)](https://open.spotify.com/album/0lKVow2QmwXI6NlxCr2LNW) | 1:43 | 2024-02-21 |  |
 | [Glue](https://open.spotify.com/track/07MLvbVrMGsjzOYjJlZFD5) | [P.H.F.](https://open.spotify.com/artist/73vzL36ohUDVI5YPT5rVze) | [I Hate Myself](https://open.spotify.com/album/5JzPoUSYx7B1YGVgv79n0i) | 3:15 | 2022-10-11 |  |
 | [GO\-GO](https://open.spotify.com/track/3CeuSxS0cJheMNzqB8jfep) | [KENTENSHI](https://open.spotify.com/artist/7Ad37JjLQE0Gjd9YuGHj3j) | [LIMBO IS BORING](https://open.spotify.com/album/5mH2Y0GOCjIS6D4b0qmikP) | 1:29 | 2023-04-19 |  |
 | [God Complex](https://open.spotify.com/track/7zoF1WCREeVmUgO9J9xlbf) | [VIOLENT VIRA](https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S) | [God Complex](https://open.spotify.com/album/6Z9q5kePQHDkL7Nh3dpr58) | 2:59 | 2023-08-27 |  |
@@ -1765,7 +1766,7 @@
 | [Waking Up](https://open.spotify.com/track/6d5KjyeBSbzh6bbczubWko) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [Bonito Generation](https://open.spotify.com/album/0dAMC0nNikIjhD8LeRZfhH) | 2:57 | 2022-07-15 |  |
 | [Walk You Home](https://open.spotify.com/track/19C3dH0RpMnYyp2yWwBaZb) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Walk You Home](https://open.spotify.com/album/6P9ZjqQpKRFTXYgFSMvjgP) | 2:48 | 2021-08-05 |  |
 | [Walked In](https://open.spotify.com/track/1tRlGMHsf21FDo6pja27YN) | [Ultradiox](https://open.spotify.com/artist/0rUq829p7JPVGfnSCDpARg) | [Orichalcos](https://open.spotify.com/album/5MfSukYp87RybgT7HqQDVn) | 1:47 | 2021-08-05 |  |
-| [Walking On A Dream](https://open.spotify.com/track/6A6qBFJHid4WutQu6HHEZt) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream \(Special Edition\)](https://open.spotify.com/album/1GoqBRUPZzBKvMKZxSQ1mp) | 3:18 | 2021-08-05 |  |
+| [Walking On A Dream](https://open.spotify.com/track/6A6qBFJHid4WutQu6HHEZt) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream \(Special Edition\)](https://open.spotify.com/album/1GoqBRUPZzBKvMKZxSQ1mp) | 3:18 | 2021-08-05 |  |
 | [Walking On Sunshine](https://open.spotify.com/track/1R6sDs5ovdcweZlFzGxQVD) | [Katrina & The Waves](https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3) | [Anthology](https://open.spotify.com/album/5IFGCNXdAhnYq6EwR7TGZM) | 4:01 | 2021-08-05 |  |
 | [Wannabe](https://open.spotify.com/track/5ACZOGjT6I5He0pDZED56Z) | [why mona](https://open.spotify.com/artist/5C1tex8vm00yFKTitiOnMU) | [Wannabe](https://open.spotify.com/album/5VMaKMyX5OTgrmHwvOVJZ1) | 3:37 | 2021-08-05 |  |
 | [War?](https://open.spotify.com/track/5Q7m1Km199HHMB926xxbrs) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [System Of A Down](https://open.spotify.com/album/3sSfjX4fhZonjyZ10x0l0f) | 2:40 | 2022-04-03 |  |

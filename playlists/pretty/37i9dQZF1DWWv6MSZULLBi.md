@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Norah Jones, Remi Wolf
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,486 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,490 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 99 | [Live Another Life](https://open.spotify.com/track/21VqpvyZTzgAt2pSQn6zQm) | [Jordan Klassen](https://open.spotify.com/artist/70QS2gTlkKW2rNjlmMBNp8), [Alexandria Maillot](https://open.spotify.com/artist/3Uh1hwQUVJLK5Srk4PosCK) | [Live Another Life](https://open.spotify.com/album/6ji57fAEn6UclRCNDCwzQI) | 3:08 |
 | 100 | [Don't Act](https://open.spotify.com/track/0r8dEC7jKC7NvYgckACsOO) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo) | [Don't Act](https://open.spotify.com/album/1jx2k2AVWxx4bhrW6O7OBC) | 4:04 |
 
-Snapshot ID: `MCxjZTEzMGIxNTk2Y2UzMWRlNmViZDZiNzc1MjhkMjg3OGJmZTQzYzE4`
+Snapshot ID: `MCw4ZjdhMzZmNTIyMzk2M2JjODZhNTRmODNkYTYxMjU3ZmJhNWUzNjI5`

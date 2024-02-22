@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0018ciYu6bM.md) - [plain]
 
 > Rolling with the 'bops' in your Kimbap\. Bringing you the songs that are currently trending and everything else in between\. Cover: DPR IAN
 
-[Spotify](https://open.spotify.com/user/spotify) - 933,560 likes - 55 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 933,764 likes - 55 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0018ciYu6bM.md) - [plain]
 | 54 | [INFJ \(Feat\. B.I, BANG YEDAM\)](https://open.spotify.com/track/77GfQKz4WzULTEoLL286cT) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [BANG YEDAM](https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X) | [Dingo X BIG Naughty](https://open.spotify.com/album/1bksL87asiBGZYwVyGR3kp) | 3:29 |
 | 55 | [God of Light Music](https://open.spotify.com/track/0xZ4WU5UfctiSeETi6pMEo) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [God of Light Music](https://open.spotify.com/album/2tVPLB5F9IsgPn4mvLQ7RJ) | 1:31 |
 
-Snapshot ID: `MCw0NzMxZDE1NjNmYjkyY2I4Mjc3YjkzNmRmYjY5ZmNkYjVjZjUwMzA2`
+Snapshot ID: `MCwyMmIzNzY4MmVlYTBiYjE5ZTM0ZjQ4MWE2NzNiZjlhZTQyNDdhYzE2`

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93dxiCI0yn1.md) - [plain]
 
 > 新たな“ラップスタア“を発掘する人気オーディション番組<a href="https://rapstar2023.jp/">「ラップスタア誕生」</a>歴代出場者、審査員の楽曲を特集。 Cover: ShowyVICTOR
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,353 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,356 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The first snowfall](https://open.spotify.com/track/49XnF4NRLNMImT1qKAmH9o) | [ShowyVICTOR](https://open.spotify.com/artist/7wBFVrT9qEIi4FRjgqgPXA), [Tade Dust](https://open.spotify.com/artist/2pxHWQNVmLCr3HnSqFk5IH) | [The first snowfall](https://open.spotify.com/album/4B4pZcXibJxmeJiOICB0gK) | 2:57 |
 | 2 | [HOT BOYZ](https://open.spotify.com/track/0kG9RxZRojIgHVLA6YebnZ) | [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [HOT BOYZ](https://open.spotify.com/album/3D9G04TXoNkFEmZTdjqgT6) | 2:13 |
-| 3 | [Boss Bitch \- Remix](https://open.spotify.com/track/35KNZlorV8tFWaOCGyWa49) | [7](https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn), [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH), [LANA](https://open.spotify.com/artist/6HIxjjBk4Vg0pfnaxBTeOF), [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [7 \(Boss Bitch Edition\)](https://open.spotify.com/album/7wVZvzhAREfRwhVcxi2ik5) | 3:32 |
+| 3 | [Boss Bitch \- Remix](https://open.spotify.com/track/0BMmYlBRZBel67VcE8mM0q) | [nana](https://open.spotify.com/artist/7uzEQGrUAupBJK2j3uQsoC), [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH), [LANA](https://open.spotify.com/artist/6HIxjjBk4Vg0pfnaxBTeOF), [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [7 \(Boss Bitch Edition\)](https://open.spotify.com/album/0qWaruyY6ogPiKAcmPWfUM) | 3:32 |
 | 4 | [Young Boy](https://open.spotify.com/track/0pmE2OAqk0YIoQBHUfR2Pw) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [ICON](https://open.spotify.com/album/2T9uqa1ZOZiHu2FGrbOWgR) | 3:01 |
 | 5 | [King Swan](https://open.spotify.com/track/1cWeCO7Fc9Z6z3BDQz2Vwm) | [Whoopee Bomb](https://open.spotify.com/artist/6RKtwqOBWohO7mOrmSA6g3) | [King Swan](https://open.spotify.com/album/77GgZFHFDGoopROjsv2Udk) | 2:42 |
 | 6 | [Anthem](https://open.spotify.com/track/0MBzNOhfoa8U32LuXw34f2) | [CYBER RUI](https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2) | [ISSUES DELUXE](https://open.spotify.com/album/6RwZHwh768vKLfDgAxhsbJ) | 2:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93dxiCI0yn1.md) - [plain]
 | 99 | [Self Made 2](https://open.spotify.com/track/5wIye7EwWRyTZSGN19E4i3) | [KOWICHI](https://open.spotify.com/artist/6CbooCqOA6MI23syacRER2), [YZERR](https://open.spotify.com/artist/7z8eFxohsIg2Tu5evbNXXo) | [Higher](https://open.spotify.com/album/14tw5k8TACNP7vaUSM3M6s) | 3:03 |
 | 100 | [Madoguchi](https://open.spotify.com/track/7niuHNCb7ObPcE9lP63bAV) | [noma](https://open.spotify.com/artist/5lL3ZTc535xQeLqXH9cB3V) | [6th Anniversery Best Mixtape](https://open.spotify.com/album/16AybzZDQLpAwJUy4KrmXu) | 2:57 |
 
-Snapshot ID: `MCwxOGVkMzgwZGVmYTczYzUwNjNhY2QzMWY1ZmMzYTJiN2NiNmY1ZmU2`
+Snapshot ID: `MCxhYjBjY2EwNjM1NjI1MWViMTQ0ZTY1YzU4MjYxMWQ4ZWY2MjczMWY2`

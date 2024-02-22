@@ -4,7 +4,7 @@
 
 > have fun with it.
 
-545 songs - 1 day 6 hr 3 min
+546 songs - 1 day 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [Curious](https://open.spotify.com/track/2cIwyQwWNhyDNY3pn6xjKF) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Curious](https://open.spotify.com/album/6ostRuT5nyWNNuuaAE2FMX) | 2:49 | 2022-06-27 | 2023-03-23 |
 | [Dancer](https://open.spotify.com/track/2F7dO7OCqrxff66epaNPEU) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C), [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Dancer](https://open.spotify.com/album/6AGtvMucIA2IRrLpVIP6ZR) | 3:09 | 2024-02-16 | 2024-02-19 |
 | [Dancer](https://open.spotify.com/track/5MP8QCjsJQPJ5ApdHMg3dl) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C), [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [TANGK](https://open.spotify.com/album/6U11VNHZAfYY3E9V4oFB2p) | 3:09 | 2024-02-16 |  |
-| [Dancing On Glass](https://open.spotify.com/track/0aersVHlGGXcHeRvHtuaSt) | [St\. Lucia](https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu) | [Matter](https://open.spotify.com/album/4qH5TQZxM5v7tKT0E09WAK) | 4:06 | 2022-02-04 |  |
+| [Dancing On Glass](https://open.spotify.com/track/0aersVHlGGXcHeRvHtuaSt) | [St\. Lucia](https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu) | [Matter](https://open.spotify.com/album/4qH5TQZxM5v7tKT0E09WAK) | 4:06 | 2022-02-04 | 2024-02-22 |
 | [Dangerous Game](https://open.spotify.com/track/0xmzoZJCBY5yu4xPmDLhEG) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Dangerous Game](https://open.spotify.com/album/5uCGWzShlvHcWlPgALSHny) | 2:38 | 2024-02-16 |  |
 | [Daphne Blue](https://open.spotify.com/track/2FhJvFKyZng57iVQmFayVw) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [tryhard](https://open.spotify.com/album/6rbqqMTScIBxRBlM7DayP1) | 3:02 | 2021-03-10 | 2023-12-08 |
 | [Day Dreaming](https://open.spotify.com/track/5NbyidjQ7pvTWdEVOUFcT3) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS) | [Can You Feel The Sun](https://open.spotify.com/album/3GLchSPLUNW5y5Dd09uNNq) | 3:47 | 2021-03-10 | 2023-03-25 |
@@ -258,6 +258,7 @@
 | [Kilby Girl](https://open.spotify.com/track/1170VohRSx6GwE6QDCHPPH) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [When We Were Friends](https://open.spotify.com/album/3TSMSh5dai7WEnEGOoMXBZ) | 4:42 | 2022-06-27 |  |
 | [Kilby Girl](https://open.spotify.com/track/3fsaxdtRDMEvZu1XC3FN2i) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [When We Were Friends](https://open.spotify.com/album/0tIHVQTSqQB3DW6Nt7amsA) | 4:42 | 2021-03-10 | 2022-07-29 |
 | [Killer Whales](https://open.spotify.com/track/0qnOjNW04qpcgXqD9dwru2) | [Smallpools](https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw) | [LOVETAP!](https://open.spotify.com/album/59xqFRG2IgFTsZtQ73yIp6) | 3:42 | 2021-03-10 | 2023-03-29 |
+| [kinda smacks](https://open.spotify.com/track/4cwi0Yd3pq1GfvHj7FLMdn) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0), [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [kinda smacks](https://open.spotify.com/album/09Aw6tRqufmeBbVjR5kHrm) | 2:16 | 2024-02-16 |  |
 | [Kiss Ur Face Forever](https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Kiss Ur Face Forever](https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s) | 2:46 | 2023-08-21 | 2023-11-09 |
 | [Kombucha](https://open.spotify.com/track/7pGYQz0yMkm8rLdP6u1wZW) | [Winnetka Bowling League](https://open.spotify.com/artist/4ug3P1K8BaCdJXROrqHqhu) | [Kombucha](https://open.spotify.com/album/4STKNQMCHzs7k8sEUwdAzL) | 3:15 | 2021-03-10 | 2022-07-29 |
 | [landline](https://open.spotify.com/track/3OqP3uIygaUiuVzhVyk0X5) | [Arlie](https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA) | [BREAK THE CURSE](https://open.spotify.com/album/0nbH8z2iSYXnFE62X1iwYO) | 3:03 | 2022-10-07 | 2023-03-29 |

@@ -1,12 +1,12 @@
 {
   "description": "Rock songs that get down and dirty. Cover: Dirty Honey",
-  "num_followers": 489954,
+  "num_followers": 490028,
   "original_name": "Dirty Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNWJiNzcxOGExYWI0MzM5ZDQ4MGRmNTFlZmU0MGFhNjM1Mzc4ZDc3",
+  "snapshot_id": "MCw5N2M2MWQ0MjMzNmE1ODI5YTg1MzhkZDMzZjU4MmEyYjZjZWViNzM3",
   "tracks": [
     {
       "added_at": "2023-09-22 00:56:58",
@@ -655,18 +655,18 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Blunderbuss",
-        "url": "https://open.spotify.com/album/6eSJ0lu0uwtiqXkP7Qrrno"
+        "name": "Dirty Honey",
+        "url": "https://open.spotify.com/album/6FEBG6JNlWI3QkY3YlfhO7"
       },
       "artists": [
         {
-          "name": "Jack White",
-          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+          "name": "Dirty Honey",
+          "url": "https://open.spotify.com/artist/0XBRd3N11rCbh0s8qHf41m"
         }
       ],
-      "duration_ms": 155720,
-      "name": "Sixteen Saltines",
-      "url": "https://open.spotify.com/track/3XBPCbTU9rSGuyuK7Xbj4B"
+      "duration_ms": 205090,
+      "name": "When I'm Gone",
+      "url": "https://open.spotify.com/track/7mVYYM1jFHP5d5ygTgjrf6"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -687,18 +687,18 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Dirty Honey",
-        "url": "https://open.spotify.com/album/6FEBG6JNlWI3QkY3YlfhO7"
+        "name": "Blunderbuss",
+        "url": "https://open.spotify.com/album/6eSJ0lu0uwtiqXkP7Qrrno"
       },
       "artists": [
         {
-          "name": "Dirty Honey",
-          "url": "https://open.spotify.com/artist/0XBRd3N11rCbh0s8qHf41m"
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
         }
       ],
-      "duration_ms": 205090,
-      "name": "When I'm Gone",
-      "url": "https://open.spotify.com/track/7mVYYM1jFHP5d5ygTgjrf6"
+      "duration_ms": 155720,
+      "name": "Sixteen Saltines",
+      "url": "https://open.spotify.com/track/3XBPCbTU9rSGuyuK7Xbj4B"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -919,18 +919,18 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Hear Me Out",
-        "url": "https://open.spotify.com/album/6jPxwvFm0kcZzflrloQPuK"
+        "name": "Young Blood",
+        "url": "https://open.spotify.com/album/5F4mBNKs4joGL2cGasbvi7"
       },
       "artists": [
         {
-          "name": "Reignwolf",
-          "url": "https://open.spotify.com/artist/66YGDwn22fjphzqGCSIbbK"
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
         }
       ],
-      "duration_ms": 209029,
-      "name": "Over & Over",
-      "url": "https://open.spotify.com/track/2wBEMqe81CXIX88kph8GBO"
+      "duration_ms": 217066,
+      "name": "Hard Working Man",
+      "url": "https://open.spotify.com/track/3uQFmhiS49mXaEw2DZbZRr"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -967,6 +967,22 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
+        "name": "Hear Me Out",
+        "url": "https://open.spotify.com/album/6jPxwvFm0kcZzflrloQPuK"
+      },
+      "artists": [
+        {
+          "name": "Reignwolf",
+          "url": "https://open.spotify.com/artist/66YGDwn22fjphzqGCSIbbK"
+        }
+      ],
+      "duration_ms": 209029,
+      "name": "Over & Over",
+      "url": "https://open.spotify.com/track/2wBEMqe81CXIX88kph8GBO"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
         "name": "Down To The Bottom",
         "url": "https://open.spotify.com/album/6QRQuIulSyoqOlNGJGLkmG"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 152468,
       "name": "Down To The Bottom",
       "url": "https://open.spotify.com/track/5jddjli3YTIxueb3xFdLaA"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
-        "name": "Young Blood",
-        "url": "https://open.spotify.com/album/5F4mBNKs4joGL2cGasbvi7"
-      },
-      "artists": [
-        {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
-        }
-      ],
-      "duration_ms": 217066,
-      "name": "Hard Working Man",
-      "url": "https://open.spotify.com/track/3uQFmhiS49mXaEw2DZbZRr"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Rest In Peace",
-        "url": "https://open.spotify.com/album/4OVPoCoVpZ9qhhicoabdiE"
-      },
-      "artists": [
-        {
-          "name": "Dorothy",
-          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
-        }
-      ],
-      "duration_ms": 217327,
-      "name": "Rest In Peace",
-      "url": "https://open.spotify.com/track/1nx0EzitUaNF08xrQunABp"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
         "name": "The Boy Who Died Wolf",
         "url": "https://open.spotify.com/album/3TC40H9dIJArFzy0rWnWCg"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 181797,
       "name": "Raised By Wolves",
       "url": "https://open.spotify.com/track/2dTp74IGy0E8kv1cSWUrAJ"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
+        "name": "Rest In Peace",
+        "url": "https://open.spotify.com/album/4OVPoCoVpZ9qhhicoabdiE"
+      },
+      "artists": [
+        {
+          "name": "Dorothy",
+          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
+        }
+      ],
+      "duration_ms": 217327,
+      "name": "Rest In Peace",
+      "url": "https://open.spotify.com/track/1nx0EzitUaNF08xrQunABp"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "LUCKY PENNY",
-        "url": "https://open.spotify.com/album/0jhsnoHuQRJHawKMLxQe5P"
-      },
-      "artists": [
-        {
-          "name": "JD McPherson",
-          "url": "https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9"
-        }
-      ],
-      "duration_ms": 214266,
-      "name": "LUCKY PENNY",
-      "url": "https://open.spotify.com/track/4qHSciBVrNNpUlI8TT9CHQ"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
         "name": "ROCKISDEAD",
         "url": "https://open.spotify.com/album/5AYoffF42E0cgDuuNgzYir"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 189769,
       "name": "Dark Nights",
       "url": "https://open.spotify.com/track/5cwZFTdktFh5XjRglkqJYr"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
+        "name": "LUCKY PENNY",
+        "url": "https://open.spotify.com/album/0jhsnoHuQRJHawKMLxQe5P"
+      },
+      "artists": [
+        {
+          "name": "JD McPherson",
+          "url": "https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9"
+        }
+      ],
+      "duration_ms": 214266,
+      "name": "LUCKY PENNY",
+      "url": "https://open.spotify.com/track/4qHSciBVrNNpUlI8TT9CHQ"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Cross The Line",
-        "url": "https://open.spotify.com/album/3ZkRYEmyvckTVsN1PHP44a"
-      },
-      "artists": [
-        {
-          "name": "The Cold Stares",
-          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
-        }
-      ],
-      "duration_ms": 187390,
-      "name": "Cross The Line",
-      "url": "https://open.spotify.com/track/31Y2CcHh4lcGAmw28LWaiI"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
         "name": "Young Blood",
         "url": "https://open.spotify.com/album/5F4mBNKs4joGL2cGasbvi7"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 202813,
       "name": "Love Is All You Love",
       "url": "https://open.spotify.com/track/7IK9YaeFV0wEZmtDl9B2XK"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
+        "name": "Cross The Line",
+        "url": "https://open.spotify.com/album/3ZkRYEmyvckTVsN1PHP44a"
+      },
+      "artists": [
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "duration_ms": 187390,
+      "name": "Cross The Line",
+      "url": "https://open.spotify.com/track/31Y2CcHh4lcGAmw28LWaiI"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
+        "name": "Hannah Wicklund and the Steppin Stones",
+        "url": "https://open.spotify.com/album/6kP0lrd4sA5I698Z6Z5ug1"
+      },
+      "artists": [
+        {
+          "name": "Hannah Wicklund",
+          "url": "https://open.spotify.com/artist/62GZbclGNlKcuW6O7l8TOU"
+        }
+      ],
+      "duration_ms": 164645,
+      "name": "Bomb Through The Breeze",
+      "url": "https://open.spotify.com/track/7gLgvdBxycylxnP9iwdvuD"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
         "name": "Grownass Man",
         "url": "https://open.spotify.com/album/2jnRkK55ZjE9XLKhJjyePK"
       },
@@ -1527,22 +1543,6 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Rumble And Sway EP",
-        "url": "https://open.spotify.com/album/7MpGww78i1qn7ZPZBT27jH"
-      },
-      "artists": [
-        {
-          "name": "Jamie N Commons",
-          "url": "https://open.spotify.com/artist/2FsZnS8gQ8jG1HGnPYNlm9"
-        }
-      ],
-      "duration_ms": 185866,
-      "name": "Rumble And Sway",
-      "url": "https://open.spotify.com/track/6qxQLXOAboXpXHcHTMYC1K"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
         "name": "Blood Harmony",
         "url": "https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe"
       },
@@ -1555,6 +1555,22 @@
       "duration_ms": 195358,
       "name": "Bad Spell",
       "url": "https://open.spotify.com/track/5ixdi1J5GIRKmmwqJiyINe"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
+        "name": "Rumble And Sway EP",
+        "url": "https://open.spotify.com/album/7MpGww78i1qn7ZPZBT27jH"
+      },
+      "artists": [
+        {
+          "name": "Jamie N Commons",
+          "url": "https://open.spotify.com/artist/2FsZnS8gQ8jG1HGnPYNlm9"
+        }
+      ],
+      "duration_ms": 185866,
+      "name": "Rumble And Sway",
+      "url": "https://open.spotify.com/track/6qxQLXOAboXpXHcHTMYC1K"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -1591,18 +1607,18 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Hannah Wicklund and the Steppin Stones",
-        "url": "https://open.spotify.com/album/6kP0lrd4sA5I698Z6Z5ug1"
+        "name": "Slomosa",
+        "url": "https://open.spotify.com/album/4P0wMxlWvsilPWY5tbvVKS"
       },
       "artists": [
         {
-          "name": "Hannah Wicklund",
-          "url": "https://open.spotify.com/artist/62GZbclGNlKcuW6O7l8TOU"
+          "name": "Slomosa",
+          "url": "https://open.spotify.com/artist/0l7GXb53ndWn97ul8Hpfzd"
         }
       ],
-      "duration_ms": 164645,
-      "name": "Bomb Through The Breeze",
-      "url": "https://open.spotify.com/track/7gLgvdBxycylxnP9iwdvuD"
+      "duration_ms": 167389,
+      "name": "Kevin",
+      "url": "https://open.spotify.com/track/3bTJRzsVHaL4JOmmNX4Cm3"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -1619,22 +1635,6 @@
       "duration_ms": 194588,
       "name": "Girl Sports",
       "url": "https://open.spotify.com/track/6PmMCUt0JI6vrlVOFI6qM9"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
-        "name": "Slomosa",
-        "url": "https://open.spotify.com/album/4P0wMxlWvsilPWY5tbvVKS"
-      },
-      "artists": [
-        {
-          "name": "Slomosa",
-          "url": "https://open.spotify.com/artist/0l7GXb53ndWn97ul8Hpfzd"
-        }
-      ],
-      "duration_ms": 167389,
-      "name": "Kevin",
-      "url": "https://open.spotify.com/track/3bTJRzsVHaL4JOmmNX4Cm3"
     }
   ],
   "unique_name": "Dirty Rock",

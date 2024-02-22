@@ -1,12 +1,12 @@
 {
   "description": "Got that summertime feeling \ud83c\udf34",
-  "num_followers": 60137,
+  "num_followers": 60140,
   "original_name": "Pool Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxY2YwZWYwOGFhZWI1ZWU3YWMyODU3ODdhMGVkMDUwODI1OWYyYjZi",
+  "snapshot_id": "MCw4Y2JmNGYyNTM3MzA4OGUyZDk2MTRlY2VlODE5NDI1MTE1ZDZhMmM5",
   "tracks": [
     {
       "added_at": "2023-12-19 09:07:27",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-12-19 09:07:27",
       "album": {
-        "name": "Sandman",
-        "url": "https://open.spotify.com/album/0tdqSTY29oE3dMnk2A1PVc"
-      },
-      "artists": [
-        {
-          "name": "Tai Verdes",
-          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
-        }
-      ],
-      "duration_ms": 212991,
-      "name": "Sandman",
-      "url": "https://open.spotify.com/track/3iXH8nRdc945PO0GlbOroA"
-    },
-    {
-      "added_at": "2023-12-19 09:07:27",
-      "album": {
         "name": "STILL EMO",
         "url": "https://open.spotify.com/album/74LSOp5FSRJFoMMhLpltKz"
       },
@@ -623,22 +607,18 @@
     {
       "added_at": "2023-12-19 09:07:27",
       "album": {
-        "name": "Daydreaming",
-        "url": "https://open.spotify.com/album/4kbNKlVp255OjdXPDii8Nz"
+        "name": "Sandman",
+        "url": "https://open.spotify.com/album/0tdqSTY29oE3dMnk2A1PVc"
       },
       "artists": [
         {
-          "name": "Young Franco",
-          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
-        },
-        {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+          "name": "Tai Verdes",
+          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
         }
       ],
-      "duration_ms": 183377,
-      "name": "Daydreaming",
-      "url": "https://open.spotify.com/track/4vOXQM1c4M6CCASiWkR2n0"
+      "duration_ms": 212991,
+      "name": "Sandman",
+      "url": "https://open.spotify.com/track/3iXH8nRdc945PO0GlbOroA"
     },
     {
       "added_at": "2023-12-19 09:07:27",
@@ -659,6 +639,26 @@
       "duration_ms": 151273,
       "name": "No Nein",
       "url": "https://open.spotify.com/track/4qeIlzP0Z1JFXh0AckDcX8"
+    },
+    {
+      "added_at": "2023-12-19 09:07:27",
+      "album": {
+        "name": "Daydreaming",
+        "url": "https://open.spotify.com/album/4kbNKlVp255OjdXPDii8Nz"
+      },
+      "artists": [
+        {
+          "name": "Young Franco",
+          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
+        },
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "duration_ms": 183377,
+      "name": "Daydreaming",
+      "url": "https://open.spotify.com/track/4vOXQM1c4M6CCASiWkR2n0"
     },
     {
       "added_at": "2023-12-19 09:07:27",
@@ -903,6 +903,22 @@
     {
       "added_at": "2023-12-19 09:07:27",
       "album": {
+        "name": "TOMMY",
+        "url": "https://open.spotify.com/album/0h7foJXJTQ5nADAZ6Bi9x1"
+      },
+      "artists": [
+        {
+          "name": "WALKER.",
+          "url": "https://open.spotify.com/artist/4TGWnQ6RGOeVzNPLWkcrrB"
+        }
+      ],
+      "duration_ms": 212521,
+      "name": "TOMMY",
+      "url": "https://open.spotify.com/track/2z0vNWVD3E6FCXZZkt58Po"
+    },
+    {
+      "added_at": "2023-12-19 09:07:27",
+      "album": {
         "name": "I Used To Be Fun",
         "url": "https://open.spotify.com/album/5gpJSwcv4t4W5s9YAFxjlI"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 147716,
       "name": "Firebreak - Edit",
       "url": "https://open.spotify.com/track/5eD7gQPf53vmuQ0Ka6KUdb"
-    },
-    {
-      "added_at": "2023-12-19 09:07:27",
-      "album": {
-        "name": "TOMMY",
-        "url": "https://open.spotify.com/album/0h7foJXJTQ5nADAZ6Bi9x1"
-      },
-      "artists": [
-        {
-          "name": "WALKER.",
-          "url": "https://open.spotify.com/artist/4TGWnQ6RGOeVzNPLWkcrrB"
-        }
-      ],
-      "duration_ms": 212521,
-      "name": "TOMMY",
-      "url": "https://open.spotify.com/track/2z0vNWVD3E6FCXZZkt58Po"
     },
     {
       "added_at": "2023-12-19 09:07:27",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-12-19 09:07:27",
       "album": {
-        "name": "Don't Really Care",
-        "url": "https://open.spotify.com/album/3809RidvYF5fZH1rFEFDFt"
-      },
-      "artists": [
-        {
-          "name": "Djanaba",
-          "url": "https://open.spotify.com/artist/4bxUDYFtReRPY0uBnNyqFr"
-        }
-      ],
-      "duration_ms": 178405,
-      "name": "Don't Really Care",
-      "url": "https://open.spotify.com/track/6Sse51km3PDp5kHMgcVFXf"
-    },
-    {
-      "added_at": "2023-12-19 09:07:27",
-      "album": {
         "name": "Too Much Fun",
         "url": "https://open.spotify.com/album/6DVEb2UcjI2o4W4SdOXksM"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 154630,
       "name": "Too Much Fun",
       "url": "https://open.spotify.com/track/37UG9jRXurN9Yr6sx9cq8l"
+    },
+    {
+      "added_at": "2023-12-19 09:07:27",
+      "album": {
+        "name": "Don't Really Care",
+        "url": "https://open.spotify.com/album/3809RidvYF5fZH1rFEFDFt"
+      },
+      "artists": [
+        {
+          "name": "Djanaba",
+          "url": "https://open.spotify.com/artist/4bxUDYFtReRPY0uBnNyqFr"
+        }
+      ],
+      "duration_ms": 178405,
+      "name": "Don't Really Care",
+      "url": "https://open.spotify.com/track/6Sse51km3PDp5kHMgcVFXf"
     },
     {
       "added_at": "2023-12-19 09:07:27",

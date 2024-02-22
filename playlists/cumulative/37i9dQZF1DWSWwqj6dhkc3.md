@@ -4,7 +4,7 @@
 
 > The official playlist for Valeria\. Watch on Netflix.
 
-79 songs - 4 hr 36 min
+80 songs - 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [Fuego](https://open.spotify.com/track/5g4ysKgg6wXnolLqkL3J1S) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Blow Up](https://open.spotify.com/album/3aeeG2HTc5r2AH1O364798) | 4:38 | 2022-06-29 |  |
 | [Fui a Buscar al Sol](https://open.spotify.com/track/7mVuCRl3e36TrJuBUBOQZh) | [Maria Rodés](https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf) | [Eclíptica](https://open.spotify.com/album/4BN32ZYVFyGOA7O2VtPV2P) | 3:07 | 2022-06-29 |  |
 | [Fui a Buscar al Sol](https://open.spotify.com/track/72q51tZkGZeN92UAHca86o) | [Maria Rodés](https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf), [The New Raemon](https://open.spotify.com/artist/7grmT5tV1tUKfCjPhZgW3h) | [Eclíptica](https://open.spotify.com/album/7HqkDcXBIrGdvoFXZKYDkX) | 3:07 | 2022-06-29 | 2023-10-13 |
-| [Go Solo](https://open.spotify.com/track/18ywhG9EvuMMUIdUWxEqp7) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [The Pleasant Trees](https://open.spotify.com/album/30dSlleSaT1dEaK39OM5B4) | 2:22 | 2022-06-29 |  |
+| [Go Solo](https://open.spotify.com/track/18ywhG9EvuMMUIdUWxEqp7) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [The Pleasant Trees](https://open.spotify.com/album/30dSlleSaT1dEaK39OM5B4) | 2:22 | 2022-06-29 | 2024-02-22 |
+| [Go Solo](https://open.spotify.com/track/6GI4rgcKBRwbi9hN84ErdW) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [The Pleasant Trees](https://open.spotify.com/album/5ILDV2rWri2MngM94QiDok) | 2:22 | 2022-06-29 |  |
 | [Good Thing](https://open.spotify.com/track/4ijuCKFJy02MuhIpnwdul6) | [Serafyn](https://open.spotify.com/artist/0r2sgxjQ3ZrqdX1qbPOdCA) | [Foam](https://open.spotify.com/album/3tVcFYK50LU4ryDshojHJ5) | 3:52 | 2022-06-29 |  |
 | [Ha Sido Divertido](https://open.spotify.com/track/1Vw014wUxIQWZgw7ahQZz6) | [Nudozurdo](https://open.spotify.com/artist/2Gw5aCeNK9o0PmsNuSirW0) | [Sintetica](https://open.spotify.com/album/6D2b3pORKyOOwZwJ4InjXe) | 5:08 | 2022-06-29 |  |
 | [HDP](https://open.spotify.com/track/6iYQiODKAdVYy34XaqlotY) | [Kaydy Cain](https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA) | [El Niño de Tus Ojos](https://open.spotify.com/album/6Mnwe9cor4euL8yunKqXhE) | 3:33 | 2022-06-29 |  |

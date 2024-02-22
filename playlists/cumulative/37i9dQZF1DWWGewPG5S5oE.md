@@ -4,7 +4,7 @@
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: SHIN KOKAWA
 
-265 songs - 21 hr 22 min
+266 songs - 21 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Orange Mug](https://open.spotify.com/track/5IpMtUqMWw8ff0Yeq38wqx) | [WONK](https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE) | [Orange Mug](https://open.spotify.com/album/7je7p75wCnvd8RnrgsZSVS) | 3:38 | 2022-09-06 | 2023-12-27 |
 | [Origin of the Stars](https://open.spotify.com/track/36ZtX4TSpnk8eeKi2S8vc1) | [Makoto Ozone](https://open.spotify.com/artist/7Gv9weyLTeDrDjABqHnged) | [Trinfinity](https://open.spotify.com/album/3yNyw8u7ok8oLcne4vkbVf) | 6:42 | 2024-01-23 | 2024-01-31 |
 | [PARASITE SYSTEM](https://open.spotify.com/track/0ngU1XVZgsQWUc0RNytmk7) | [igloo](https://open.spotify.com/artist/0ABgpHqYQ6NoI1EdRa6XXM) | [PARASITE SYSTEM](https://open.spotify.com/album/0HpUhq1DuTNFOTGJziaRd0) | 6:22 | 2023-08-15 | 2023-09-06 |
+| [PATIO](https://open.spotify.com/track/4MMniEzwkS2fg0JcaTVsfJ) | [Satoru Shionoya](https://open.spotify.com/artist/2EgHsuNzwgFaVrPgjzHNpe) | [ARROW OF TIME](https://open.spotify.com/album/773UYnDHqToyTj9ML5lgrH) | 5:03 | 2024-02-20 |  |
 | [Pentatonic 物語](https://open.spotify.com/track/7f1ZL67EshqrNwoqBvFlWl) | [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R), [細井徳太郎](https://open.spotify.com/artist/2x2MSTsQpVWJ2xIMS0OEc7), [ermhoi](https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc), [高木大丈夫](https://open.spotify.com/artist/4tkM95cPiJfdqAfWfvxU60), [Marty Holoubek](https://open.spotify.com/artist/5EUnnSIFldgDzlrPvvwTZF) | [Songbook6](https://open.spotify.com/album/3asyCHxLTPhQu11NlRCqWh) | 3:04 | 2023-03-07 | 2023-05-17 |
 | [permanent triangle](https://open.spotify.com/track/6IFMMSJ6JG6m06bavyHn1E) | [Alter Ego](https://open.spotify.com/artist/3fh440O6YUksZVM7BfS1jj) | [permanent triangle](https://open.spotify.com/album/3SUpBkO5BE8zupb9pVWjFg) | 4:26 | 2023-11-07 | 2024-02-21 |
 | [Piece of cake](https://open.spotify.com/track/07PAaMh4UAcoSTR9OU7fUa) | [YUSUKE NAKAMURA](https://open.spotify.com/artist/3stNhAAg61ozi8VHUgtcjG) | [PEACE St\. The REVIVAL](https://open.spotify.com/album/6PTUezIZhjE5fj9HiqJOFi) | 2:50 | 2023-01-31 | 2023-03-08 |
@@ -246,7 +247,7 @@
 | [サンダーボルト・メインテーマ用](https://open.spotify.com/track/2kNRdLNryDeX4xBYiKCm02) | [Naruyoshi Kikuchi](https://open.spotify.com/artist/5jGe8zos8U6KRs0wiLWcmv) | [オリジナル・サウンドトラック「機動戦士ガンダム サンダーボルト」](https://open.spotify.com/album/6kSwAMTPlRZNw29XCwK0pu) | 4:13 | 2024-01-31 |  |
 | [スパルタカス\~愛のテーマ](https://open.spotify.com/track/0QZ553zcaxCqGe5yRRSDoc) | [akiko](https://open.spotify.com/artist/27ykGL8CGbRE5LOT3K9IUp) | [What's Jazz? \-STYLE\-](https://open.spotify.com/album/3Zs9er59VPuJsLowxvwnR0) | 4:20 | 2022-11-15 | 2022-12-14 |
 | [パスワード](https://open.spotify.com/track/58Dl8RRRMlXiXJ3pZzjxGY) | [Tomita Lab.](https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD), [長岡亮介](https://open.spotify.com/artist/18rZSYLeI8QvUrWsfv5frK) | [M\-P\-C "Mentality, Physicality, Computer"](https://open.spotify.com/album/2k3yTcmXaR1tDH8QUiG3dD) | 4:32 | 2022-09-06 | 2024-02-19 |
-| [パティオ](https://open.spotify.com/track/58qOGejXu7bhJSBI6uEkLj) | [Satoru Shionoya](https://open.spotify.com/artist/2EgHsuNzwgFaVrPgjzHNpe) | [アロー・オブ・タイム](https://open.spotify.com/album/2sEC5YsQE5ACg1oW1lNnBB) | 5:03 | 2024-02-20 |  |
+| [パティオ](https://open.spotify.com/track/58qOGejXu7bhJSBI6uEkLj) | [Satoru Shionoya](https://open.spotify.com/artist/2EgHsuNzwgFaVrPgjzHNpe) | [アロー・オブ・タイム](https://open.spotify.com/album/2sEC5YsQE5ACg1oW1lNnBB) | 5:03 | 2024-02-20 | 2024-02-22 |
 | [フィロラオス feat\. Eiko Ishibashi](https://open.spotify.com/track/68Kxl8innv2zWN3epatGk9) | [Kei Matsumaru](https://open.spotify.com/artist/3mHyQil6LHrtKvJ2hrFN6e), [Eiko Ishibashi](https://open.spotify.com/artist/0E2zPwLuNlSFdSI5wmqox7) | [フィロラオス feat\. Eiko Ishibashi](https://open.spotify.com/album/3Ykac9AA0n5R2QiodHXmxq) | 5:12 | 2022-09-27 | 2022-10-26 |
 | [ボッサ・リーブラ](https://open.spotify.com/track/0zNmAn4rFZIsP8kpvzobbC) | [Yoshiko Kishino](https://open.spotify.com/artist/1K83c657exrC5Wac0yfJc0) | [ボッサ・ノスタルジア](https://open.spotify.com/album/1KgZkzALP8AlIebiFjccWg) | 4:47 | 2022-09-06 | 2023-01-11 |
 | [マネー・ジャングル \- Live](https://open.spotify.com/track/72lmCMKToDf2R7vyeU5qbd) | [桑原あい](https://open.spotify.com/artist/6ATrUDyyYVTcuJPnlafenR) | [Money Jungle \(Live\)](https://open.spotify.com/album/48IZ2dCDjfGQ3jdg4jfCjO) | 5:47 | 2022-09-13 | 2022-10-19 |

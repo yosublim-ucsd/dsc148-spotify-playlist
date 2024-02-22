@@ -1,12 +1,12 @@
 {
   "description": "La banda sonora para tus cenas en casa.",
-  "num_followers": 413182,
+  "num_followers": 413191,
   "original_name": "Cena con Amigos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOWYwNDc1NGFiNzc1ZTM3M2U5ZTJjNmY1M2M2NmVjYTU2OTg4OTMz",
+  "snapshot_id": "MCwwZGYwYmRjMzNjMDdkZDkxODljMjI3MGI5NmU1NDk3N2ExNzEwMDJh",
   "tracks": [
     {
       "added_at": "2024-02-05 15:46:10",
@@ -403,22 +403,6 @@
     {
       "added_at": "2024-02-05 15:46:10",
       "album": {
-        "name": "Good Thing",
-        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 240600,
-      "name": "Beyond",
-      "url": "https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0"
-    },
-    {
-      "added_at": "2024-02-05 15:46:10",
-      "album": {
         "name": "Sinatra/Basie: The Complete Reprise Studio Recordings",
         "url": "https://open.spotify.com/album/2NCtCObbmJoJnplsR5mLAl"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 147000,
       "name": "Fly Me To The Moon (In Other Words)",
       "url": "https://open.spotify.com/track/5b7OgznPJJr1vHNYGyvxau"
+    },
+    {
+      "added_at": "2024-02-05 15:46:10",
+      "album": {
+        "name": "Good Thing",
+        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 240600,
+      "name": "Beyond",
+      "url": "https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0"
     },
     {
       "added_at": "2024-02-05 15:46:10",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-02-05 15:46:10",
       "album": {
-        "name": "Writing's On The Wall",
-        "url": "https://open.spotify.com/album/50bQvrNAFsAaIbqCcfD7FT"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 278987,
-      "name": "Writing's On The Wall - From \"Spectre\" Soundtrack",
-      "url": "https://open.spotify.com/track/1PWnAEQcbwQwK759otUbta"
-    },
-    {
-      "added_at": "2024-02-05 15:46:10",
-      "album": {
         "name": "Our Endless Numbered Days (Deluxe Edition)",
         "url": "https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 152613,
       "name": "Naked as We Came",
       "url": "https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R"
+    },
+    {
+      "added_at": "2024-02-05 15:46:10",
+      "album": {
+        "name": "Writing's On The Wall",
+        "url": "https://open.spotify.com/album/50bQvrNAFsAaIbqCcfD7FT"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 278987,
+      "name": "Writing's On The Wall - From \"Spectre\" Soundtrack",
+      "url": "https://open.spotify.com/track/1PWnAEQcbwQwK759otUbta"
     },
     {
       "added_at": "2024-02-05 15:46:10",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-02-05 15:46:10",
       "album": {
-        "name": "Naturally",
-        "url": "https://open.spotify.com/album/5io1OKXglvIexVDrBXxuF4"
-      },
-      "artists": [
-        {
-          "name": "Sharon Jones & The Dap-Kings",
-          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
-        }
-      ],
-      "duration_ms": 243760,
-      "name": "How Long Do I Have to Wait for You?",
-      "url": "https://open.spotify.com/track/2ffGZTdlRN0lNxA4LOYyTs"
-    },
-    {
-      "added_at": "2024-02-05 15:46:10",
-      "album": {
         "name": "Either/Or",
         "url": "https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 141200,
       "name": "Between the Bars",
       "url": "https://open.spotify.com/track/1JbUMtVkQuaAPdHOvncVTm"
+    },
+    {
+      "added_at": "2024-02-05 15:46:10",
+      "album": {
+        "name": "Naturally",
+        "url": "https://open.spotify.com/album/5io1OKXglvIexVDrBXxuF4"
+      },
+      "artists": [
+        {
+          "name": "Sharon Jones & The Dap-Kings",
+          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
+        }
+      ],
+      "duration_ms": 243760,
+      "name": "How Long Do I Have to Wait for You?",
+      "url": "https://open.spotify.com/track/2ffGZTdlRN0lNxA4LOYyTs"
     },
     {
       "added_at": "2024-02-05 15:46:10",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2024-02-05 15:46:10",
       "album": {
+        "name": "Walked Through Hell",
+        "url": "https://open.spotify.com/album/2altfvjSV6RIRAE5Pmhw7i"
+      },
+      "artists": [
+        {
+          "name": "Anson Seabra",
+          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+        }
+      ],
+      "duration_ms": 216864,
+      "name": "Walked Through Hell",
+      "url": "https://open.spotify.com/track/6c7N5N7amAOpeMykjlovjI"
+    },
+    {
+      "added_at": "2024-02-05 15:46:10",
+      "album": {
         "name": "Kind Of Blue (Legacy Edition)",
         "url": "https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 562640,
       "name": "So What (feat. John Coltrane, Cannonball Adderley & Bill Evans)",
       "url": "https://open.spotify.com/track/4vLYewWIvqHfKtJDk8c8tq"
-    },
-    {
-      "added_at": "2024-02-05 15:46:10",
-      "album": {
-        "name": "Walked Through Hell",
-        "url": "https://open.spotify.com/album/2altfvjSV6RIRAE5Pmhw7i"
-      },
-      "artists": [
-        {
-          "name": "Anson Seabra",
-          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
-        }
-      ],
-      "duration_ms": 216864,
-      "name": "Walked Through Hell",
-      "url": "https://open.spotify.com/track/6c7N5N7amAOpeMykjlovjI"
     },
     {
       "added_at": "2024-02-05 15:46:10",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2024-02-05 15:46:10",
       "album": {
-        "name": "The Look Of Love",
-        "url": "https://open.spotify.com/album/4nmjBh2Td9I9x9JDncrQr3"
-      },
-      "artists": [
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 282000,
-      "name": "The Look Of Love",
-      "url": "https://open.spotify.com/track/3CDHydgW0ssTh59f0jy1y3"
-    },
-    {
-      "added_at": "2024-02-05 15:46:10",
-      "album": {
         "name": "The Greatest",
         "url": "https://open.spotify.com/album/1l1gFL41bdfI32LBdYlUqS"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 202560,
       "name": "The Greatest",
       "url": "https://open.spotify.com/track/0OVXLPJPDCFn1IV6bFxY1N"
+    },
+    {
+      "added_at": "2024-02-05 15:46:10",
+      "album": {
+        "name": "The Look Of Love",
+        "url": "https://open.spotify.com/album/4nmjBh2Td9I9x9JDncrQr3"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 282000,
+      "name": "The Look Of Love",
+      "url": "https://open.spotify.com/track/3CDHydgW0ssTh59f0jy1y3"
     },
     {
       "added_at": "2024-02-05 15:46:10",
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2024-02-05 15:46:10",
       "album": {
-        "name": "Brenda Lee",
-        "url": "https://open.spotify.com/album/3DzEQCPg0Irz2vWUaBSEkm"
+        "name": "Singing Bones",
+        "url": "https://open.spotify.com/album/1B1p6CMiuIqeNt3oYTS0Tj"
       },
       "artists": [
         {
-          "name": "Brenda Lee",
-          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
+          "name": "The Handsome Family",
+          "url": "https://open.spotify.com/artist/72PnPUc1qv9UjRPaGVZ1jq"
         }
       ],
-      "duration_ms": 161546,
-      "name": "I'm Sorry",
-      "url": "https://open.spotify.com/track/4LJcNiq2pBb8OeqrGdBJQw"
+      "duration_ms": 166493,
+      "name": "Far From Any Road",
+      "url": "https://open.spotify.com/track/3LDkLpuxQlEuEiZmkxpr8S"
     },
     {
       "added_at": "2024-02-05 15:46:10",
@@ -1527,18 +1527,18 @@
     {
       "added_at": "2024-02-05 15:46:10",
       "album": {
-        "name": "Singing Bones",
-        "url": "https://open.spotify.com/album/1B1p6CMiuIqeNt3oYTS0Tj"
+        "name": "Brenda Lee",
+        "url": "https://open.spotify.com/album/3DzEQCPg0Irz2vWUaBSEkm"
       },
       "artists": [
         {
-          "name": "The Handsome Family",
-          "url": "https://open.spotify.com/artist/72PnPUc1qv9UjRPaGVZ1jq"
+          "name": "Brenda Lee",
+          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
         }
       ],
-      "duration_ms": 166493,
-      "name": "Far From Any Road",
-      "url": "https://open.spotify.com/track/3LDkLpuxQlEuEiZmkxpr8S"
+      "duration_ms": 161546,
+      "name": "I'm Sorry",
+      "url": "https://open.spotify.com/track/4LJcNiq2pBb8OeqrGdBJQw"
     },
     {
       "added_at": "2024-02-05 15:46:10",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2024-02-05 15:46:10",
       "album": {
-        "name": "Brasil Bossa Nova Grandes Autores Vinicius Toquinho Tom Jobin",
-        "url": "https://open.spotify.com/album/7iFtBoq7mSSnMKWoePFOpG"
-      },
-      "artists": [
-        {
-          "name": "Paula Sergio",
-          "url": "https://open.spotify.com/artist/6P4y8CZPgk4uB6UlJV5uwS"
-        }
-      ],
-      "duration_ms": 150613,
-      "name": "Garota de Ipanema",
-      "url": "https://open.spotify.com/track/7CzWvXHsAFAJeXAEHNXRdf"
-    },
-    {
-      "added_at": "2024-02-05 15:46:10",
-      "album": {
         "name": "New Gold Hits",
         "url": "https://open.spotify.com/album/4YOXmT7qlIjaDC3muRuEHY"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 170626,
       "name": "Beggin'",
       "url": "https://open.spotify.com/track/2S6XOQqWqUBIySUU00vMru"
+    },
+    {
+      "added_at": "2024-02-05 15:46:10",
+      "album": {
+        "name": "Brasil Bossa Nova Grandes Autores Vinicius Toquinho Tom Jobin",
+        "url": "https://open.spotify.com/album/7iFtBoq7mSSnMKWoePFOpG"
+      },
+      "artists": [
+        {
+          "name": "Paula Sergio",
+          "url": "https://open.spotify.com/artist/6P4y8CZPgk4uB6UlJV5uwS"
+        }
+      ],
+      "duration_ms": 150613,
+      "name": "Garota de Ipanema",
+      "url": "https://open.spotify.com/track/7CzWvXHsAFAJeXAEHNXRdf"
     },
     {
       "added_at": "2024-02-05 15:46:10",

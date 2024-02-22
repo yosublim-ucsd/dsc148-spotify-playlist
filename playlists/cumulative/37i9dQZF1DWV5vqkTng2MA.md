@@ -4,7 +4,7 @@
 
 > Make it new\. Fresh takes on vintage soul, folk, blues, and roots rock\. Cover: Marcus King
 
-257 songs - 15 hr 23 min
+258 songs - 15 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,6 +206,7 @@
 | [See It Through](https://open.spotify.com/track/1tqFGTmcaNNusdArPOU0kj) | [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Wait Til I Get Over](https://open.spotify.com/album/3t5PKVYlbYXIiLIRDPPkp4) | 3:24 | 2023-05-05 |  |
 | [Shake Your Heel \(feat\. Tristen\)](https://open.spotify.com/track/1YuxkxBhx3FemUVoLwFMgn) | [Steelism](https://open.spotify.com/artist/4vsRWAlRRT40g7LjHiUMco), [Tristen](https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo) | [Shake Your Heel \(feat\. Tristen\)](https://open.spotify.com/album/5QpXvNzhGQ8mUNqd5zGP7b) | 3:27 | 2021-10-01 | 2022-07-29 |
 | [Shine Your Light on Me \- Recorded at Electric Lady Studios](https://open.spotify.com/track/3r53RSkovLRgkLFeAWUzHm) | [Natalie Bergman](https://open.spotify.com/artist/6YP6iGwynI5kEyNYxfxVeC) | [Live at Electric Lady](https://open.spotify.com/album/1TVFtJvROCsgKFQZHuBR4M) | 3:57 | 2021-10-01 | 2022-07-29 |
+| [Sister Andre](https://open.spotify.com/track/1lk7yaYquaKwiXPmdZD6mn) | [Pokey LaFarge](https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT) | [Sister Andre](https://open.spotify.com/album/6J3yk0Qw2U2iGINcNelPQp) | 3:05 | 2024-02-16 |  |
 | [Sleep](https://open.spotify.com/track/5n7pR4SK5ZGuHHu3AiODJ2) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Allen Stone](https://open.spotify.com/album/6thR6jvixyobv21QPAQrcz) | 2:26 | 2022-06-01 |  |
 | [Slipping](https://open.spotify.com/track/5qVgjRn125fERbF5bY7Zvb) | [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3) | [Aviary: Act 1](https://open.spotify.com/album/7sVyk1fdhhiBcguh15NN3N) | 3:42 | 2022-02-11 |  |
 | [Slowly](https://open.spotify.com/track/32DRpZgrvQZddDkKF2DoTr) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Giralunas, Un Homenaje a L.E.Aute](https://open.spotify.com/album/2xfwea7EUqYb6zas8PLNgd) | 5:36 | 2022-06-01 |  |
@@ -230,7 +231,7 @@
 | [Take My Heart](https://open.spotify.com/track/7i6ba4Pz9c6i0TnDKUmI7F) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Take My Heart](https://open.spotify.com/album/1AqN9WyeYYPPLEvclp2xlI) | 4:18 | 2023-03-24 | 2023-06-20 |
 | [Take My Heart](https://open.spotify.com/track/7vS9rpDGP8Z75CbrlseYlu) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [The Winding Way](https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH) | 4:18 | 2023-05-19 |  |
 | [Tell the Falling Sun](https://open.spotify.com/track/247qxelzjSgKDWINzRJ7Pf) | [KaiL Baxley](https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx) | [A Light That Never Dies](https://open.spotify.com/album/3bVTjHIf9SQb5azkxNTVVE) | 4:00 | 2021-10-01 | 2022-07-28 |
-| [The Ballad of Johnny](https://open.spotify.com/track/2A32JdgX32o5yUloJMq4Q3) | [KaiL Baxley](https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx) | [A Light That Never Dies](https://open.spotify.com/album/7LH0Sg7HCq6DRKwjloezQ1) | 2:53 | 2022-06-01 |  |
+| [The Ballad of Johnny](https://open.spotify.com/track/2A32JdgX32o5yUloJMq4Q3) | [KaiL Baxley](https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx) | [A Light That Never Dies](https://open.spotify.com/album/7LH0Sg7HCq6DRKwjloezQ1) | 2:53 | 2022-06-01 | 2024-02-22 |
 | [The Ballad of Johnny Steel](https://open.spotify.com/track/0WNnCTRREQ8wFNoI1vQHch) | [KaiL Baxley](https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx) | [A Light That Never Dies](https://open.spotify.com/album/3bVTjHIf9SQb5azkxNTVVE) | 2:53 | 2021-10-01 | 2022-07-29 |
 | [The Beachland Ballroom](https://open.spotify.com/track/2P5ejJgRn6ntNPbxIxZZA5) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [The Beachland Ballroom](https://open.spotify.com/album/2kn8AaYqyvMnoNtQPJoOnl) | 4:00 | 2021-10-01 | 2022-07-29 |
 | [The Beachland Ballroom](https://open.spotify.com/track/2rX97r2QjIXxHYjLAcGpSZ) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [CRAWLER](https://open.spotify.com/album/27ygqCfb4dXQ3jyXnC58FU) | 4:00 | 2023-09-08 |  |

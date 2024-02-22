@@ -1,12 +1,12 @@
 {
   "description": "Sapphic songs that defined your music taste as \"yearning.\"\n",
-  "num_followers": 1472198,
+  "num_followers": 1472466,
   "original_name": "sad girl starter pack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MTIxNGJmMDI3OTdkYjNmZmE2ZGJiMTU3NTBhOGVmNzQwNDRmYzM0",
+  "snapshot_id": "MCw0NDQ0N2JkNTQ2NjE4N2E2OGE1NWVmYTFhYmI1MzY0OGQ3MGMyZTgz",
   "tracks": [
     {
       "added_at": "2024-02-12 21:37:21",
@@ -657,22 +657,6 @@
       "url": "https://open.spotify.com/track/32XaqPVTVkkuOiOPQZ3SpA"
     },
     {
-      "added_at": "2024-02-12 21:37:21",
-      "album": {
-        "name": "Shelly",
-        "url": "https://open.spotify.com/album/6FarB45iYtZTAuzzqGcAU3"
-      },
-      "artists": [
-        {
-          "name": "Shelly",
-          "url": "https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE"
-        }
-      ],
-      "duration_ms": 170892,
-      "name": "Steeeam",
-      "url": "https://open.spotify.com/track/09RamrocZneYcLYLRIxYha"
-    },
-    {
       "added_at": "2024-02-16 05:00:00",
       "album": {
         "name": "Don't Forget Me",
@@ -687,6 +671,22 @@
       "duration_ms": 265360,
       "name": "Don't Forget Me",
       "url": "https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f"
+    },
+    {
+      "added_at": "2024-02-12 21:37:21",
+      "album": {
+        "name": "Shelly",
+        "url": "https://open.spotify.com/album/6FarB45iYtZTAuzzqGcAU3"
+      },
+      "artists": [
+        {
+          "name": "Shelly",
+          "url": "https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE"
+        }
+      ],
+      "duration_ms": 170892,
+      "name": "Steeeam",
+      "url": "https://open.spotify.com/track/09RamrocZneYcLYLRIxYha"
     },
     {
       "added_at": "2024-02-12 21:37:21",
@@ -849,22 +849,6 @@
       "url": "https://open.spotify.com/track/3sslYZcFKtUvIEWN9lADgr"
     },
     {
-      "added_at": "2024-02-12 21:37:21",
-      "album": {
-        "name": "j's lullaby (darlin' i'd wait for you)",
-        "url": "https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT"
-      },
-      "artists": [
-        {
-          "name": "Delaney Bailey",
-          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
-        }
-      ],
-      "duration_ms": 290132,
-      "name": "j's lullaby (darlin' i'd wait for you)",
-      "url": "https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o"
-    },
-    {
       "added_at": "2024-02-20 18:51:17",
       "album": {
         "name": "Chelsea Girl",
@@ -879,6 +863,22 @@
       "duration_ms": 210653,
       "name": "These Days",
       "url": "https://open.spotify.com/track/3uCkIqD0VzQUijbs8WIizs"
+    },
+    {
+      "added_at": "2024-02-12 21:37:21",
+      "album": {
+        "name": "j's lullaby (darlin' i'd wait for you)",
+        "url": "https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT"
+      },
+      "artists": [
+        {
+          "name": "Delaney Bailey",
+          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
+        }
+      ],
+      "duration_ms": 290132,
+      "name": "j's lullaby (darlin' i'd wait for you)",
+      "url": "https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o"
     },
     {
       "added_at": "2024-02-12 21:37:21",
@@ -1235,22 +1235,18 @@
     {
       "added_at": "2024-02-12 21:37:21",
       "album": {
-        "name": "WEEDKILLER",
-        "url": "https://open.spotify.com/album/4xZP0Vuf4DNK7wsp3ZKbQ0"
+        "name": "She Plays Bass",
+        "url": "https://open.spotify.com/album/6aSy1zAuCiFQxUFITf3ymw"
       },
       "artists": [
         {
-          "name": "Ashnikko",
-          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
-        },
-        {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 255875,
-      "name": "Dying Star (feat. Ethel Cain)",
-      "url": "https://open.spotify.com/track/55owCz7823hXvvTm3apoZ9"
+      "duration_ms": 207106,
+      "name": "She Plays Bass",
+      "url": "https://open.spotify.com/track/52zzYSu7RUsSFn8cZlVjWp"
     }
   ],
   "unique_name": "sad girl starter pack",

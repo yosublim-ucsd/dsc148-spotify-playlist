@@ -1,12 +1,12 @@
 {
   "description": "Sweet gems to help you slow down and savor your day.",
-  "num_followers": 439196,
+  "num_followers": 439390,
   "original_name": "Soft & Slow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMmIyMGFlODY5MGRmNDllNjM1ZmEzMGNhMWIwNDQ0YzUyYTNkZjkw",
+  "snapshot_id": "MCxhM2QxYTlkODhhZDE3ZjFmMWU0ZTc2Y2M5OGM1OWNiY2QzNWY2NTQ4",
   "tracks": [
     {
       "added_at": "2024-02-20 18:54:13",
@@ -351,22 +351,6 @@
     {
       "added_at": "2024-02-20 18:54:13",
       "album": {
-        "name": "Years On",
-        "url": "https://open.spotify.com/album/2JF61Lh95FnWScGBXFdhv8"
-      },
-      "artists": [
-        {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
-        }
-      ],
-      "duration_ms": 242906,
-      "name": "Years On",
-      "url": "https://open.spotify.com/track/1vuHmcfRwAFOVEq4ODsIIx"
-    },
-    {
-      "added_at": "2024-02-20 18:54:13",
-      "album": {
         "name": "Love Flew Away",
         "url": "https://open.spotify.com/album/47zvBT8HjRo9jkGESnCy8k"
       },
@@ -387,18 +371,18 @@
     {
       "added_at": "2024-02-20 18:54:13",
       "album": {
-        "name": "Sadness As A Gift",
-        "url": "https://open.spotify.com/album/38DuzlEMGxWPcE3PXEHKhD"
+        "name": "Years On",
+        "url": "https://open.spotify.com/album/2JF61Lh95FnWScGBXFdhv8"
       },
       "artists": [
         {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
         }
       ],
-      "duration_ms": 259015,
-      "name": "Sadness As A Gift",
-      "url": "https://open.spotify.com/track/6oBIzNjrQ7ibErxk1ZbdfA"
+      "duration_ms": 242906,
+      "name": "Years On",
+      "url": "https://open.spotify.com/track/1vuHmcfRwAFOVEq4ODsIIx"
     },
     {
       "added_at": "2024-02-20 18:54:13",
@@ -415,6 +399,22 @@
       "duration_ms": 212853,
       "name": "People Change",
       "url": "https://open.spotify.com/track/5VYOUBkObeGOnCt30YDTJ3"
+    },
+    {
+      "added_at": "2024-02-20 18:54:13",
+      "album": {
+        "name": "Sadness As A Gift",
+        "url": "https://open.spotify.com/album/38DuzlEMGxWPcE3PXEHKhD"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 259015,
+      "name": "Sadness As A Gift",
+      "url": "https://open.spotify.com/track/6oBIzNjrQ7ibErxk1ZbdfA"
     },
     {
       "added_at": "2024-02-20 18:54:13",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-02-20 18:54:13",
       "album": {
-        "name": "Pharmakon",
-        "url": "https://open.spotify.com/album/3sMj2Pt7MnyhkUPxZtuguI"
-      },
-      "artists": [
-        {
-          "name": "Humbird",
-          "url": "https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB"
-        }
-      ],
-      "duration_ms": 155352,
-      "name": "Pharmakon",
-      "url": "https://open.spotify.com/track/4gbWcPHqTZHoq5PrS0iBHq"
-    },
-    {
-      "added_at": "2024-02-20 18:54:13",
-      "album": {
         "name": "Bare",
         "url": "https://open.spotify.com/album/11uRisUr2dNqeKIn8dhB3Z"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 206440,
       "name": "Thousand (feat. Lisa Hannigan)",
       "url": "https://open.spotify.com/track/2QlPMIhutG3WHV26Eza8u9"
+    },
+    {
+      "added_at": "2024-02-20 18:54:13",
+      "album": {
+        "name": "Pharmakon",
+        "url": "https://open.spotify.com/album/3sMj2Pt7MnyhkUPxZtuguI"
+      },
+      "artists": [
+        {
+          "name": "Humbird",
+          "url": "https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB"
+        }
+      ],
+      "duration_ms": 155352,
+      "name": "Pharmakon",
+      "url": "https://open.spotify.com/track/4gbWcPHqTZHoq5PrS0iBHq"
     },
     {
       "added_at": "2024-02-20 18:54:13",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-02-20 18:54:13",
       "album": {
-        "name": "The Tree of Forgiveness",
-        "url": "https://open.spotify.com/album/13UwfQZqne7ZQIkUZsAPLg"
-      },
-      "artists": [
-        {
-          "name": "John Prine",
-          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
-        }
-      ],
-      "duration_ms": 209047,
-      "name": "Summer's End",
-      "url": "https://open.spotify.com/track/511dXUrzAfeivY8f0LUMZd"
-    },
-    {
-      "added_at": "2024-02-20 18:54:13",
-      "album": {
         "name": "Mick Flannery",
         "url": "https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 202677,
       "name": "I'll Be out Here",
       "url": "https://open.spotify.com/track/7tkOm1ZNcIg4lKu0XCQgCq"
+    },
+    {
+      "added_at": "2024-02-20 18:54:13",
+      "album": {
+        "name": "The Tree of Forgiveness",
+        "url": "https://open.spotify.com/album/13UwfQZqne7ZQIkUZsAPLg"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "duration_ms": 209047,
+      "name": "Summer's End",
+      "url": "https://open.spotify.com/track/511dXUrzAfeivY8f0LUMZd"
     },
     {
       "added_at": "2024-02-20 18:54:13",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2024-02-20 18:54:13",
       "album": {
+        "name": "Into the Depths of Hell",
+        "url": "https://open.spotify.com/album/7BMZsEBUvcUTxTjnhXbl9c"
+      },
+      "artists": [
+        {
+          "name": "Joshua Burnside",
+          "url": "https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV"
+        }
+      ],
+      "duration_ms": 171576,
+      "name": "Whiskey Whiskey",
+      "url": "https://open.spotify.com/track/0c1rlIZao3TFvRWKBig16H"
+    },
+    {
+      "added_at": "2024-02-20 18:54:13",
+      "album": {
         "name": "multiverse",
         "url": "https://open.spotify.com/album/4P9CkSDRbEULCwwFNnneBC"
       },
@@ -1111,22 +1127,6 @@
     {
       "added_at": "2024-02-20 18:54:13",
       "album": {
-        "name": "Into the Depths of Hell",
-        "url": "https://open.spotify.com/album/7BMZsEBUvcUTxTjnhXbl9c"
-      },
-      "artists": [
-        {
-          "name": "Joshua Burnside",
-          "url": "https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV"
-        }
-      ],
-      "duration_ms": 171576,
-      "name": "Whiskey Whiskey",
-      "url": "https://open.spotify.com/track/0c1rlIZao3TFvRWKBig16H"
-    },
-    {
-      "added_at": "2024-02-20 18:54:13",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/79Eaui1AldvjTjHIY7V6vu"
       },
@@ -1139,22 +1139,6 @@
       "duration_ms": 307534,
       "name": "Such A Simple Thing - Recorded at Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/1xYMyM7MxFi4OuzDA2op9Q"
-    },
-    {
-      "added_at": "2024-02-20 18:54:13",
-      "album": {
-        "name": "Lullaby",
-        "url": "https://open.spotify.com/album/2PT518qif2NTxvgizAObme"
-      },
-      "artists": [
-        {
-          "name": "Britti",
-          "url": "https://open.spotify.com/artist/3hg7WmmcESGiEaNU40tqXn"
-        }
-      ],
-      "duration_ms": 215869,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/2s5bAoQpITfCJiX5LRBx60"
     },
     {
       "added_at": "2024-02-20 18:54:13",
@@ -1187,6 +1171,22 @@
       "duration_ms": 305160,
       "name": "Just Like That",
       "url": "https://open.spotify.com/track/4yYi79a3MEQ0pCRCvuxcuU"
+    },
+    {
+      "added_at": "2024-02-20 18:54:13",
+      "album": {
+        "name": "Lullaby",
+        "url": "https://open.spotify.com/album/2PT518qif2NTxvgizAObme"
+      },
+      "artists": [
+        {
+          "name": "Britti",
+          "url": "https://open.spotify.com/artist/3hg7WmmcESGiEaNU40tqXn"
+        }
+      ],
+      "duration_ms": 215869,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/2s5bAoQpITfCJiX5LRBx60"
     },
     {
       "added_at": "2024-02-20 18:54:13",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2024-02-20 18:54:13",
       "album": {
-        "name": "Traveling Alone",
-        "url": "https://open.spotify.com/album/1VW2JPuvgbb02IpOsxHA4R"
-      },
-      "artists": [
-        {
-          "name": "Tift Merritt",
-          "url": "https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z"
-        }
-      ],
-      "duration_ms": 284960,
-      "name": "Traveling Alone",
-      "url": "https://open.spotify.com/track/4LJIX18V7BHO9k44yn7vfk"
-    },
-    {
-      "added_at": "2024-02-20 18:54:13",
-      "album": {
         "name": "Coming Down the Mountain",
         "url": "https://open.spotify.com/album/6OfyzpeBx3DGxRxPTPHc5g"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 273958,
       "name": "Coming Down the Mountain",
       "url": "https://open.spotify.com/track/3ogA3HTz2gSGTX8f135LJ5"
+    },
+    {
+      "added_at": "2024-02-20 18:54:13",
+      "album": {
+        "name": "Traveling Alone",
+        "url": "https://open.spotify.com/album/1VW2JPuvgbb02IpOsxHA4R"
+      },
+      "artists": [
+        {
+          "name": "Tift Merritt",
+          "url": "https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z"
+        }
+      ],
+      "duration_ms": 284960,
+      "name": "Traveling Alone",
+      "url": "https://open.spotify.com/track/4LJIX18V7BHO9k44yn7vfk"
     },
     {
       "added_at": "2024-02-20 18:54:13",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-02-20 18:54:13",
       "album": {
-        "name": "The Yellow Mile",
-        "url": "https://open.spotify.com/album/6TGv0O0RVviQpv55d8t92b"
-      },
-      "artists": [
-        {
-          "name": "Marika Hackman",
-          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
-        }
-      ],
-      "duration_ms": 183706,
-      "name": "The Yellow Mile",
-      "url": "https://open.spotify.com/track/6n0yMfgOjGM4GzUNHE1gVu"
-    },
-    {
-      "added_at": "2024-02-20 18:54:13",
-      "album": {
         "name": "Right on Time",
         "url": "https://open.spotify.com/album/3w75u634fjDNuVKeI0VYXd"
       },
@@ -1595,6 +1579,38 @@
     {
       "added_at": "2024-02-20 18:54:13",
       "album": {
+        "name": "The Yellow Mile",
+        "url": "https://open.spotify.com/album/6TGv0O0RVviQpv55d8t92b"
+      },
+      "artists": [
+        {
+          "name": "Marika Hackman",
+          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
+        }
+      ],
+      "duration_ms": 183706,
+      "name": "The Yellow Mile",
+      "url": "https://open.spotify.com/track/6n0yMfgOjGM4GzUNHE1gVu"
+    },
+    {
+      "added_at": "2024-02-20 18:54:13",
+      "album": {
+        "name": "Lavender Girl",
+        "url": "https://open.spotify.com/album/5ChxDXf7pMg4QoVLUO9Lwz"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "duration_ms": 203546,
+      "name": "Lavender Girl",
+      "url": "https://open.spotify.com/track/5IqPGPAeAru7g6ljnY0dPf"
+    },
+    {
+      "added_at": "2024-02-20 18:54:13",
+      "album": {
         "name": "GPS (w/ Felly)",
         "url": "https://open.spotify.com/album/2PcrCDemJVsysOdpeNXNyP"
       },
@@ -1615,18 +1631,18 @@
     {
       "added_at": "2024-02-20 18:54:13",
       "album": {
-        "name": "Lavender Girl",
-        "url": "https://open.spotify.com/album/5ChxDXf7pMg4QoVLUO9Lwz"
+        "name": "Silicone Heart",
+        "url": "https://open.spotify.com/album/2NbquPo8J4VCEqkrDyV9KR"
       },
       "artists": [
         {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+          "name": "Deyaz",
+          "url": "https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc"
         }
       ],
-      "duration_ms": 203546,
-      "name": "Lavender Girl",
-      "url": "https://open.spotify.com/track/5IqPGPAeAru7g6ljnY0dPf"
+      "duration_ms": 193361,
+      "name": "Silicone Heart",
+      "url": "https://open.spotify.com/track/18YdjxKgfyjcaIKRrfpndh"
     },
     {
       "added_at": "2024-02-20 18:54:13",
@@ -1683,6 +1699,22 @@
     {
       "added_at": "2024-02-20 18:54:13",
       "album": {
+        "name": "Any Light",
+        "url": "https://open.spotify.com/album/14IfM9MyHqdo2523Lk0Szo"
+      },
+      "artists": [
+        {
+          "name": "Loving",
+          "url": "https://open.spotify.com/artist/4ftctxasGrW5Ud5Pbw6kWq"
+        }
+      ],
+      "duration_ms": 180841,
+      "name": "Any Light",
+      "url": "https://open.spotify.com/track/0M6t7xgQNc0EMIN6rJ4xJO"
+    },
+    {
+      "added_at": "2024-02-20 18:54:13",
+      "album": {
         "name": "The Tree",
         "url": "https://open.spotify.com/album/2Jv8rT6pudH0eIlgu90zKm"
       },
@@ -1715,18 +1747,18 @@
     {
       "added_at": "2024-02-20 18:54:13",
       "album": {
-        "name": "Any Light",
-        "url": "https://open.spotify.com/album/14IfM9MyHqdo2523Lk0Szo"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5biFYkYP5v0k9OavG4CCoK"
       },
       "artists": [
         {
-          "name": "Loving",
-          "url": "https://open.spotify.com/artist/4ftctxasGrW5Ud5Pbw6kWq"
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
         }
       ],
-      "duration_ms": 180841,
-      "name": "Any Light",
-      "url": "https://open.spotify.com/track/0M6t7xgQNc0EMIN6rJ4xJO"
+      "duration_ms": 235579,
+      "name": "What I Am - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/6EjU3Hev5VZZmpPjoyNZVX"
     },
     {
       "added_at": "2024-02-20 18:54:13",
@@ -1743,22 +1775,6 @@
       "duration_ms": 182386,
       "name": "Light That Match",
       "url": "https://open.spotify.com/track/5iiXIpA0AGJekS2sOsMBUf"
-    },
-    {
-      "added_at": "2024-02-20 18:54:13",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5biFYkYP5v0k9OavG4CCoK"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        }
-      ],
-      "duration_ms": 235579,
-      "name": "What I Am - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/6EjU3Hev5VZZmpPjoyNZVX"
     },
     {
       "added_at": "2024-02-20 18:54:13",
@@ -1831,22 +1847,6 @@
     {
       "added_at": "2024-02-20 18:54:13",
       "album": {
-        "name": "Shine On Rainy Day",
-        "url": "https://open.spotify.com/album/3UJXcmx1XSLeimF0dwVsbg"
-      },
-      "artists": [
-        {
-          "name": "Brent Cobb",
-          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
-        }
-      ],
-      "duration_ms": 154893,
-      "name": "Solving Problems",
-      "url": "https://open.spotify.com/track/2a4qT0yEynuoHJR4sxkh84"
-    },
-    {
-      "added_at": "2024-02-20 18:54:13",
-      "album": {
         "name": "Call My Name",
         "url": "https://open.spotify.com/album/0vnEKpCttcVJxw41Im2f2a"
       },
@@ -1891,18 +1891,18 @@
     {
       "added_at": "2024-02-20 18:54:13",
       "album": {
-        "name": "Silicone Heart",
-        "url": "https://open.spotify.com/album/2NbquPo8J4VCEqkrDyV9KR"
+        "name": "Shine On Rainy Day",
+        "url": "https://open.spotify.com/album/3UJXcmx1XSLeimF0dwVsbg"
       },
       "artists": [
         {
-          "name": "Deyaz",
-          "url": "https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc"
+          "name": "Brent Cobb",
+          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
         }
       ],
-      "duration_ms": 193361,
-      "name": "Silicone Heart",
-      "url": "https://open.spotify.com/track/18YdjxKgfyjcaIKRrfpndh"
+      "duration_ms": 154893,
+      "name": "Solving Problems",
+      "url": "https://open.spotify.com/track/2a4qT0yEynuoHJR4sxkh84"
     },
     {
       "added_at": "2024-02-20 18:54:13",
@@ -1971,22 +1971,6 @@
     {
       "added_at": "2024-02-20 18:54:13",
       "album": {
-        "name": "Stones & Waves",
-        "url": "https://open.spotify.com/album/6GXgoZCLZA8FVakysuTHkZ"
-      },
-      "artists": [
-        {
-          "name": "Elias Hix",
-          "url": "https://open.spotify.com/artist/7caEhKgBilB0MHIyWWWGsV"
-        }
-      ],
-      "duration_ms": 190714,
-      "name": "Stones & Waves",
-      "url": "https://open.spotify.com/track/634FnvBHSfPkHbG5ovee8Y"
-    },
-    {
-      "added_at": "2024-02-20 18:54:13",
-      "album": {
         "name": "Golden (Acoustic)",
         "url": "https://open.spotify.com/album/1UNOe4qTfiSoUNVtFKQ5br"
       },
@@ -1999,6 +1983,22 @@
       "duration_ms": 307312,
       "name": "Golden (Acoustic)",
       "url": "https://open.spotify.com/track/3tsrOkDmaJg60XJMkEmYpp"
+    },
+    {
+      "added_at": "2024-02-20 18:54:13",
+      "album": {
+        "name": "Stones & Waves",
+        "url": "https://open.spotify.com/album/6GXgoZCLZA8FVakysuTHkZ"
+      },
+      "artists": [
+        {
+          "name": "Elias Hix",
+          "url": "https://open.spotify.com/artist/7caEhKgBilB0MHIyWWWGsV"
+        }
+      ],
+      "duration_ms": 190714,
+      "name": "Stones & Waves",
+      "url": "https://open.spotify.com/track/634FnvBHSfPkHbG5ovee8Y"
     },
     {
       "added_at": "2024-02-20 18:54:13",

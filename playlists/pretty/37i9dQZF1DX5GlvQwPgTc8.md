@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GlvQwPgTc8.md) - [plain]
 
 > Your favourite party hits to kick off the weekend\. Can you taste it?
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,559 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,561 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GlvQwPgTc8.md) - [plain]
 | 49 | [Fibonacci](https://open.spotify.com/track/0Jb3Kq7oDqRznHPIcrQpiX) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Fibonacci](https://open.spotify.com/album/0HQyQc8KYSgmt5iVieQWNY) | 3:08 |
 | 50 | [Hey Hey](https://open.spotify.com/track/2NaRHscQkcVbro7Ys4FP2k) | [Dennis Ferrer](https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi) | [Hey Hey \(Jack Back Remix\)](https://open.spotify.com/album/28B0sfg0u9x74Z7gT6CLJD) | 3:09 |
 
-Snapshot ID: `MCxhZDZhZjNjNDcwNmNhYjRhNjI5OTNkMWVkZTVlOTc2YTk2Y2RkZWQ5`
+Snapshot ID: `MCxmNjRlNWI1NTY4OTMyMDc2MGRjYzVmYWRmNjIxN2NlNjkyNWE0NjM4`

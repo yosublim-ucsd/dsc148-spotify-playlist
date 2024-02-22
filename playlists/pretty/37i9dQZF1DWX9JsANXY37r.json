@@ -1,12 +1,12 @@
 {
   "description": "beber gin em casa, nada melhor",
-  "num_followers": 120964,
+  "num_followers": 120979,
   "original_name": "Drinks no Sof\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNzE3ZGIwMmNjOTkyYmI3N2JmNGFjNTRlMGZiODA0ODE0NmE3ODg3",
+  "snapshot_id": "MCwzMWZlM2M4ZGIxMjQxZWVmM2NkZDQ4ODg1MGQ3ODZiOTIwNjM5YzI4",
   "tracks": [
     {
       "added_at": "2023-12-08 03:00:00",
@@ -259,22 +259,6 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "Everybody Loves The Sunshine (Reissue)",
-        "url": "https://open.spotify.com/album/5JehGpTedBPXzhUcwXoIlf"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers Ubiquity",
-          "url": "https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7"
-        }
-      ],
-      "duration_ms": 239666,
-      "name": "Everybody Loves The Sunshine",
-      "url": "https://open.spotify.com/track/5le4sn0iMcnKU56bdmNzso"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
         "name": "Superclean, Vol. I",
         "url": "https://open.spotify.com/album/5XX1xVOP61GDQCGaZMLjhO"
       },
@@ -291,22 +275,34 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "Geography",
-        "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
+        "name": "Everybody Loves The Sunshine (Reissue)",
+        "url": "https://open.spotify.com/album/5JehGpTedBPXzhUcwXoIlf"
       },
       "artists": [
         {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        },
-        {
-          "name": "De La Soul",
-          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+          "name": "Roy Ayers Ubiquity",
+          "url": "https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7"
         }
       ],
-      "duration_ms": 261881,
-      "name": "It Runs Through Me (feat. De La Soul)",
-      "url": "https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy"
+      "duration_ms": 239666,
+      "name": "Everybody Loves The Sunshine",
+      "url": "https://open.spotify.com/track/5le4sn0iMcnKU56bdmNzso"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
+        "name": "Future Nostalgia",
+        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 194607,
+      "name": "Pretty Please",
+      "url": "https://open.spotify.com/track/6DXZiYUbrYgrVIhfX3U9Z2"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -327,18 +323,22 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "Future Nostalgia",
-        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
+        "name": "Geography",
+        "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
       },
       "artists": [
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        },
+        {
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
         }
       ],
-      "duration_ms": 194607,
-      "name": "Pretty Please",
-      "url": "https://open.spotify.com/track/6DXZiYUbrYgrVIhfX3U9Z2"
+      "duration_ms": 261881,
+      "name": "It Runs Through Me (feat. De La Soul)",
+      "url": "https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -563,6 +563,22 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
+        "name": "I Wish you Roses",
+        "url": "https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 225947,
+      "name": "I Wish you Roses",
+      "url": "https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
         "name": "Ventura",
         "url": "https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 219332,
       "name": "Make It Better (feat. Smokey Robinson)",
       "url": "https://open.spotify.com/track/4SBVWkRIMJ6WBCYPvr5Bwr"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
-        "name": "I Wish you Roses",
-        "url": "https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 225947,
-      "name": "I Wish you Roses",
-      "url": "https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd"
     },
     {
       "added_at": "2023-12-08 03:00:00",

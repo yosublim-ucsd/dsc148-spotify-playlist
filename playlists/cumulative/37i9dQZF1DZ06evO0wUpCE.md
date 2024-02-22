@@ -4,7 +4,7 @@
 
 > This is Intocable\. The essential tracks, all in one playlist.
 
-65 songs - 3 hr 52 min
+66 songs - 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Cajita De Cartón \- bonus track](https://open.spotify.com/track/16qXGrutTAIaZqMTTwR8XR) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [XX Aniversario \(En Vivo\)](https://open.spotify.com/album/6HWYb1m1FiMVQpvTRLi5Vr) | 3:03 | 2023-08-08 |  |
 | [Como Si Fuera Una Canción](https://open.spotify.com/track/2qnq3tptXaOmkztFAjd636) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Modus Operandi](https://open.spotify.com/album/7zzc54afmjSxp7ozFkD8IJ) | 3:46 | 2024-02-15 |  |
 | [Como Te Atreves](https://open.spotify.com/track/1bg1HuabdLOEfGms2uVqfk) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [2C](https://open.spotify.com/album/3IjzhpUUoLW0VFp4agHElm) | 3:36 | 2023-08-08 | 2024-02-21 |
-| [Con Mis Alas Rotas](https://open.spotify.com/track/0oLxCakblNFiYlAaZjLwU1) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Es Para Ti](https://open.spotify.com/album/1kV7jDTxmrdblp3QD0ypND) | 3:36 | 2023-08-08 |  |
+| [Con Mis Alas Rotas](https://open.spotify.com/track/0oLxCakblNFiYlAaZjLwU1) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Es Para Ti](https://open.spotify.com/album/1kV7jDTxmrdblp3QD0ypND) | 3:36 | 2023-08-08 | 2024-02-22 |
 | [Contigo](https://open.spotify.com/track/4uvXexDPkF0gV2K6sqNYDV) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Contigo](https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0) | 3:25 | 2023-08-08 |  |
 | [Coqueta](https://open.spotify.com/track/7qA8CEV09ZmwrDGUU5cCmc) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Otro Mundo](https://open.spotify.com/album/59Vhmr9cg38yiXZwUgxfQZ) | 3:01 | 2023-08-08 |  |
 | [Dame Un Besito](https://open.spotify.com/track/4TkNaOLBBSHVI4W5vjuAKK) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Super \#1's](https://open.spotify.com/album/4fjmN8hFRaHWe8HEtMc3Eh) | 3:47 | 2023-08-08 |  |
@@ -40,6 +40,7 @@
 | [Llévame Contigo](https://open.spotify.com/track/4ZjSZV7N9WKFKgUcah2UQ5) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Llévame Contigo](https://open.spotify.com/album/66rxjBaeraSB1qqQcYQSel) | 2:29 | 2023-08-08 |  |
 | [Llévame En Tu Viaje](https://open.spotify.com/track/3DeH1wTB0Oo1341VJRTAGR) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [2C](https://open.spotify.com/album/3IjzhpUUoLW0VFp4agHElm) | 4:19 | 2023-08-08 |  |
 | [Me Dueles](https://open.spotify.com/track/1UpsLFVKBheEs7Eu2KfV1o) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Percepcíon](https://open.spotify.com/album/6T90K6IjMkXv1JjRE8lXxB) | 3:47 | 2023-09-21 | 2023-10-11 |
+| [Mi Alma Rota \(Tanto\)](https://open.spotify.com/track/478as7IhopxqKgh9KMQBYE) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Modus Operandi](https://open.spotify.com/album/7zzc54afmjSxp7ozFkD8IJ) | 3:14 | 2024-02-21 |  |
 | [Mi Castigo](https://open.spotify.com/track/1SlD0IINVTsQEctNYIEFhr) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Modus Operandi](https://open.spotify.com/album/7zzc54afmjSxp7ozFkD8IJ) | 4:18 | 2024-02-12 |  |
 | [Modus Operandi](https://open.spotify.com/track/0QIziWZ2Wvdi4dh5L3c6FG) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Modus Operandi](https://open.spotify.com/album/7zzc54afmjSxp7ozFkD8IJ) | 3:55 | 2024-02-15 |  |
 | [Más Muerto Que Vivo](https://open.spotify.com/track/6FkIjhuEDMc3mUFZZKxQlE) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Más Muerto Que Vivo](https://open.spotify.com/album/4LwHkby3HSNOaz6NH2buDg) | 3:33 | 2023-08-08 |  |

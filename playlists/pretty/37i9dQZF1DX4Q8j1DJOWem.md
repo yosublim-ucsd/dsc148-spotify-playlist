@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 
 > ค้นพบที่สุดศิลปินรุ่นใหม่ของประเทศไทยได้ที่นี่เลย\. ศิลปิน: PiXXiE
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,745 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,750 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 | 49 | [How Are You](https://open.spotify.com/track/5CAI7JfvqBKKbdkXs5wKE5) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [How Are You](https://open.spotify.com/album/2o59vkcCyL1fSXArEyHHTO) | 4:35 |
 | 50 | [ดาว \(Down\)](https://open.spotify.com/track/3uoMU6t9HYyS6mzOjYNavf) | [TOFFE](https://open.spotify.com/artist/2seAV47mn1Z0NnjI78vLPn) | [ดาว \(Down\)](https://open.spotify.com/album/0IaQviNjdSyVrrZ0q7ZfqB) | 3:23 |
 
-Snapshot ID: `MCwwMDAzN2YzZDM5MGRkYWFjYzViYjU1ODIzYmY1NTMwNzQzNzA4ODU3`
+Snapshot ID: `MCw4YjdkMGQyYmUyYjY0ZjZjNzZmYjY4MWVmNmU4YWZlN2E3NWQwZjJh`

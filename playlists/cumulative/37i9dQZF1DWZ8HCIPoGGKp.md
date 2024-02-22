@@ -4,7 +4,7 @@
 
 > Calming green frequencies and nature sounds to help you relax and sleep.
 
-316 songs - 13 hr 50 min
+317 songs - 13 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Green Noise by the Waterfall](https://open.spotify.com/track/7Ki5WXfbWX68LVbTgFhmIH) | [Noyze Freq](https://open.spotify.com/artist/7jcF6NyCPOiSFrDsiBBPWl) | [Green Noise](https://open.spotify.com/album/1uF37rhwXEWsOTQT9J8cSd) | 3:46 | 2023-03-24 |  |
 | [Green Noise Calm](https://open.spotify.com/track/0WxcfVuXESwWSdPTRYIEQx) | [Natsound](https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw) | [Green Noise Healing](https://open.spotify.com/album/4L5cJcmF6kDoDDmYuM0oOe) | 2:52 | 2023-03-10 | 2023-07-08 |
 | [Green Noise Calming Seawaves](https://open.spotify.com/track/5mIpcAqJY7yCbUf9SmWgmz) | [Pinkertonal](https://open.spotify.com/artist/2hLz3SbvPqYoAKieYwEh73) | [Green Noise Calming Seawaves](https://open.spotify.com/album/2RBPXZIVhME69FEtjXzIO4) | 2:52 | 2023-03-10 | 2023-10-06 |
+| [Green Noise Chill](https://open.spotify.com/track/1AV45V7DkmrVlif3zeLqmg) | [Limone M](https://open.spotify.com/artist/5FxD8GodVlJCHgsf1mjX9d) | [Green Noise Chill](https://open.spotify.com/album/7AaRdcEyWn7S8ZTnxv5yEM) | 2:53 | 2024-02-21 |  |
 | [Green Noise Chilled waves](https://open.spotify.com/track/7Exb0qTNjy4ze0QuMhRhk1) | [Samplestar](https://open.spotify.com/artist/0eG97LRAmRBrC7qbEhx2Qs) | [Green Noise To Make you Sleepy](https://open.spotify.com/album/4Y11tk3z99h78kah4lKcsF) | 2:31 | 2022-12-09 |  |
 | [Green Noise Comes and Goes](https://open.spotify.com/track/703ixSHbQ6lOAqOfdXsz18) | [Inverted Noise](https://open.spotify.com/artist/161UkB7gyd1nQMVFLwUrDP) | [Green Ocean Spray](https://open.spotify.com/album/1Y0iPYHEo4Wj5HwkZMppZz) | 2:15 | 2023-02-03 |  |
 | [Green Noise Creek](https://open.spotify.com/track/5p2NEOE6JL6C6fcKeKSp7v) | [Tech Sleep](https://open.spotify.com/artist/3yHChfIskI5mp08P6Ukgoy) | [The Pure Sound of Green Noise](https://open.spotify.com/album/5YqR7sqoYnFioZRCFHTh8R) | 1:55 | 2022-12-09 | 2023-06-17 |

@@ -1,5 +1,5 @@
 {
-  "2024-02-21": 61991,
+  "2024-02-22": 62028,
   "date_first_scraped": "2022-05-30",
   "description": "Unwind to the best Indian classical sounds out there.",
   "name": "Raga Lounge",
@@ -895,10 +895,28 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 324255,
       "name": "Chayanat",
       "url": "https://open.spotify.com/track/0X0rm2Yz4eoRPtDmYORevR"
+    },
+    {
+      "album": {
+        "name": "Delhi Drill",
+        "url": "https://open.spotify.com/album/3V0FSvHmc5ObxF1ZodKwYW"
+      },
+      "artists": [
+        {
+          "name": "Catchy",
+          "url": "https://open.spotify.com/artist/1md52jdgS8Hv0DOkib7Wjj"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117184,
+      "name": "Delhi Drill",
+      "url": "https://open.spotify.com/track/23Utm1XwZgklunyVtft0ih"
     },
     {
       "album": {
@@ -913,7 +931,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 117184,
       "name": "Delhi Drill",
       "url": "https://open.spotify.com/track/5MUMXjnsf4UydEK8rFx8Xq"
@@ -2739,10 +2757,32 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 164973,
       "name": "Manwa",
       "url": "https://open.spotify.com/track/0Qfl0FJrYkiFP2csaljFik"
+    },
+    {
+      "album": {
+        "name": "Manwa",
+        "url": "https://open.spotify.com/album/05kEeVeIPUs5BpSHw29RG7"
+      },
+      "artists": [
+        {
+          "name": "prithviraj singh sisodiya",
+          "url": "https://open.spotify.com/artist/1hFBrEVmvnO6xMKgP9z5zd"
+        },
+        {
+          "name": "Nitisha Agrawal",
+          "url": "https://open.spotify.com/artist/0IaVqHLA6RAfCDsBboz6Tq"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164973,
+      "name": "Manwa",
+      "url": "https://open.spotify.com/track/1UN27M8r8rmgtBQj8hju5H"
     },
     {
       "album": {
@@ -3083,10 +3123,32 @@
       ],
       "date_added": "2024-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 156900,
       "name": "Najariya LoFi Cake Mix",
       "url": "https://open.spotify.com/track/3PRXDT8kUntYccU3L3y0ji"
+    },
+    {
+      "album": {
+        "name": "Article 370 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0ZyTpDwvVbYT5QHm1hPRCO"
+      },
+      "artists": [
+        {
+          "name": "Madhubanti Bagchi",
+          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
+        },
+        {
+          "name": "Shashwat Sachdev",
+          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156900,
+      "name": "Najariya LoFi Cake Mix",
+      "url": "https://open.spotify.com/track/19lu7zlaFr7EmrlS1OaKPB"
     },
     {
       "album": {
@@ -3617,6 +3679,32 @@
       "duration_ms": 191428,
       "name": "Piya Ki Nazariya - Raag Yaman",
       "url": "https://open.spotify.com/track/2y07A0vDh1waCZirOiodB5"
+    },
+    {
+      "album": {
+        "name": "Piya Milan",
+        "url": "https://open.spotify.com/album/1enqMYkvCqDBmtgkChG2d3"
+      },
+      "artists": [
+        {
+          "name": "Aashish Pant",
+          "url": "https://open.spotify.com/artist/6dwmAco5FCS6U541lZeyYg"
+        },
+        {
+          "name": "Rishabh Joshi",
+          "url": "https://open.spotify.com/artist/6NElYmoFMxngXZPeEXlmwN"
+        },
+        {
+          "name": "Pratiksha bamrara",
+          "url": "https://open.spotify.com/artist/4KYI6S6jfrvA1LAG35CbAX"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283200,
+      "name": "Piya Milan",
+      "url": "https://open.spotify.com/track/4RI9bjPkRj9svJtgUZXzMv"
     },
     {
       "album": {

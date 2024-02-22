@@ -1,12 +1,12 @@
 {
   "description": "Tropical y refrescante. Con todo el sabor y tradici\u00f3n de M\u00e9xico.",
-  "num_followers": 24095,
+  "num_followers": 24101,
   "original_name": "Aguas Frescas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMzI0YWY0MThlY2Q1ZmVlOTZkNWU0MjQ1YTM5MjU4ZDFhODI0NTAw",
+  "snapshot_id": "MCxiYmEyYmY1YjgyNDMxNmY3ZDYwYzY3YjU3YjdkNTBhMmU2ZmMyY2Uw",
   "tracks": [
     {
       "added_at": "2023-01-23 22:42:50",
@@ -127,22 +127,6 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "Me Voy Para La Luna",
-        "url": "https://open.spotify.com/album/37kARifCI57YAygnMjcyAZ"
-      },
-      "artists": [
-        {
-          "name": "Orquesta Arag\u00f3n",
-          "url": "https://open.spotify.com/artist/2jXlqT8v9XIJnKQYRgLvSr"
-        }
-      ],
-      "duration_ms": 182200,
-      "name": "Qui\u00e9reme Sempre",
-      "url": "https://open.spotify.com/track/2UkKWdjByMLTsxQDiP3XAc"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
         "name": "Y Es por Ti",
         "url": "https://open.spotify.com/album/5HHGQxwgUibH2gDmN7CA0m"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 193146,
       "name": "Juana la Cubana",
       "url": "https://open.spotify.com/track/4QJ3RDrv5WQBDP36IoLqDh"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
+        "name": "Me Voy Para La Luna",
+        "url": "https://open.spotify.com/album/37kARifCI57YAygnMjcyAZ"
+      },
+      "artists": [
+        {
+          "name": "Orquesta Arag\u00f3n",
+          "url": "https://open.spotify.com/artist/2jXlqT8v9XIJnKQYRgLvSr"
+        }
+      ],
+      "duration_ms": 182200,
+      "name": "Qui\u00e9reme Sempre",
+      "url": "https://open.spotify.com/track/2UkKWdjByMLTsxQDiP3XAc"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -239,22 +239,6 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "RCA 100 A\u00f1os De Musica",
-        "url": "https://open.spotify.com/album/42xizzB2aLakQDBNIhEQJg"
-      },
-      "artists": [
-        {
-          "name": "Tony Camargo",
-          "url": "https://open.spotify.com/artist/5ty08GXpCMviM7BKWNrdXi"
-        }
-      ],
-      "duration_ms": 182720,
-      "name": "El A\u00f1o Viejo",
-      "url": "https://open.spotify.com/track/6NjhADkaWwGYO0R7eZXyI4"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
         "name": "Recordando Monterrey",
         "url": "https://open.spotify.com/album/2n1CryXhnIVXisogTOd9JF"
       },
@@ -271,18 +255,18 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "Exitos De Billo's Caracas Boys",
-        "url": "https://open.spotify.com/album/0NjbROu91EHfCSwebjtU8n"
+        "name": "RCA 100 A\u00f1os De Musica",
+        "url": "https://open.spotify.com/album/42xizzB2aLakQDBNIhEQJg"
       },
       "artists": [
         {
-          "name": "Billo's Caracas Boys",
-          "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
+          "name": "Tony Camargo",
+          "url": "https://open.spotify.com/artist/5ty08GXpCMviM7BKWNrdXi"
         }
       ],
-      "duration_ms": 183228,
-      "name": "Cumbia Caletera",
-      "url": "https://open.spotify.com/track/5t1feZXRvi9xSFNEEMuboe"
+      "duration_ms": 182720,
+      "name": "El A\u00f1o Viejo",
+      "url": "https://open.spotify.com/track/6NjhADkaWwGYO0R7eZXyI4"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -299,6 +283,22 @@
       "duration_ms": 164884,
       "name": "Macumba",
       "url": "https://open.spotify.com/track/1RRnygeCEjxTrMQYcHONUd"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
+        "name": "Exitos De Billo's Caracas Boys",
+        "url": "https://open.spotify.com/album/0NjbROu91EHfCSwebjtU8n"
+      },
+      "artists": [
+        {
+          "name": "Billo's Caracas Boys",
+          "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
+        }
+      ],
+      "duration_ms": 183228,
+      "name": "Cumbia Caletera",
+      "url": "https://open.spotify.com/track/5t1feZXRvi9xSFNEEMuboe"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -819,8 +819,8 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "Mis 30 Mejores Canciones",
-        "url": "https://open.spotify.com/album/2aQzF1ccueoLiIzMpKDyYa"
+        "name": "20 Exitos",
+        "url": "https://open.spotify.com/album/2VAfS6wE5hokS4Nb5I0p4O"
       },
       "artists": [
         {
@@ -828,9 +828,9 @@
           "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
         }
       ],
-      "duration_ms": 185373,
-      "name": "Musita",
-      "url": "https://open.spotify.com/track/0rTJkNUpogrT2bjjtKxNbA"
+      "duration_ms": 174493,
+      "name": "El Orangutan",
+      "url": "https://open.spotify.com/track/21nUw0WwlwdjMkFctzcs2v"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -867,6 +867,22 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
+        "name": "El Pasado",
+        "url": "https://open.spotify.com/album/6t03MjmuMMfP7o2QUi4qhC"
+      },
+      "artists": [
+        {
+          "name": "Chico Che y La Crisis",
+          "url": "https://open.spotify.com/artist/36OebUTEGjxsjUnpQhnmHm"
+        }
+      ],
+      "duration_ms": 170319,
+      "name": "El Restaurantito",
+      "url": "https://open.spotify.com/track/3S2U1ZoesGZi8ZTOkxxlS3"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
         "name": "Az\u00facar! Caliente",
         "url": "https://open.spotify.com/album/5VRSzmNx2jHSagmnwScyi3"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 176706,
       "name": "Yerbero Moderno",
       "url": "https://open.spotify.com/track/6DIjVmwlgVdSdHAYSkS5ga"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
-        "name": "El Pasado",
-        "url": "https://open.spotify.com/album/6t03MjmuMMfP7o2QUi4qhC"
-      },
-      "artists": [
-        {
-          "name": "Chico Che y La Crisis",
-          "url": "https://open.spotify.com/artist/36OebUTEGjxsjUnpQhnmHm"
-        }
-      ],
-      "duration_ms": 170319,
-      "name": "El Restaurantito",
-      "url": "https://open.spotify.com/track/3S2U1ZoesGZi8ZTOkxxlS3"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
+        "name": "Vamos A La Fiesta",
+        "url": "https://open.spotify.com/album/6AkQ14Roz7mOJVi6JRc9gZ"
+      },
+      "artists": [
+        {
+          "name": "Marimba Orquesta Perla De Chiapas",
+          "url": "https://open.spotify.com/artist/69lmWrPp9ZvKMJirt47VMP"
+        }
+      ],
+      "duration_ms": 165301,
+      "name": "Zacazonapan",
+      "url": "https://open.spotify.com/track/1JxygrDpw5bLUMQsQqQuPN"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
         "name": "Coleccion Original",
         "url": "https://open.spotify.com/album/1hu7GjmtnChBUBDLZjb2Mb"
       },
@@ -1259,18 +1275,18 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "Vamos A La Fiesta",
-        "url": "https://open.spotify.com/album/6AkQ14Roz7mOJVi6JRc9gZ"
+        "name": "Serie Platino",
+        "url": "https://open.spotify.com/album/3fKm1pACTYGNXT5jWyYtYL"
       },
       "artists": [
         {
-          "name": "Marimba Orquesta Perla De Chiapas",
-          "url": "https://open.spotify.com/artist/69lmWrPp9ZvKMJirt47VMP"
+          "name": "Beny Mor\u00e9",
+          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
         }
       ],
-      "duration_ms": 165301,
-      "name": "Zacazonapan",
-      "url": "https://open.spotify.com/track/1JxygrDpw5bLUMQsQqQuPN"
+      "duration_ms": 192746,
+      "name": "Que Bueno Baila Usted",
+      "url": "https://open.spotify.com/track/0KeLEFyRObe9rVWUxWmkPM"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -1291,22 +1307,6 @@
       "duration_ms": 217813,
       "name": "Aguita de Coco",
       "url": "https://open.spotify.com/track/2uFL2daNnQgaBzFynQAvJo"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
-        "name": "Serie Platino",
-        "url": "https://open.spotify.com/album/3fKm1pACTYGNXT5jWyYtYL"
-      },
-      "artists": [
-        {
-          "name": "Beny Mor\u00e9",
-          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
-        }
-      ],
-      "duration_ms": 192746,
-      "name": "Que Bueno Baila Usted",
-      "url": "https://open.spotify.com/track/0KeLEFyRObe9rVWUxWmkPM"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -1567,8 +1567,8 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "20 Exitos",
-        "url": "https://open.spotify.com/album/2VAfS6wE5hokS4Nb5I0p4O"
+        "name": "Mis 30 Mejores Canciones",
+        "url": "https://open.spotify.com/album/2aQzF1ccueoLiIzMpKDyYa"
       },
       "artists": [
         {
@@ -1576,9 +1576,9 @@
           "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
         }
       ],
-      "duration_ms": 174493,
-      "name": "El Orangutan",
-      "url": "https://open.spotify.com/track/21nUw0WwlwdjMkFctzcs2v"
+      "duration_ms": 185373,
+      "name": "Musita",
+      "url": "https://open.spotify.com/track/0rTJkNUpogrT2bjjtKxNbA"
     },
     {
       "added_at": "2023-01-23 22:42:50",

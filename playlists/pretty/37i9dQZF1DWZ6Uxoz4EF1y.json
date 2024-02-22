@@ -1,12 +1,12 @@
 {
   "description": "Tuyo es el reino, Tuyo el poder y la gloria por siempre, Se\u00f1or.",
-  "num_followers": 173470,
+  "num_followers": 173571,
   "original_name": "Jes\u00fas Vive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDZmYTE3MDQxMWE5ZmE1NDMzZjQyNmM3YTNmMTg1YmViNzc3ZWE5",
+  "snapshot_id": "MCxlNzk2MjM5NWIwNjZiMmJjYjMxNmVmYjQyYzZhZDFjNTUxNjZkMDI3",
   "tracks": [
     {
       "added_at": "2023-10-13 04:59:00",
@@ -147,22 +147,6 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "Vida Encontr\u00e9",
-        "url": "https://open.spotify.com/album/167RFf01QNrM1lpIDxYQ6e"
-      },
-      "artists": [
-        {
-          "name": "Majo y Dan",
-          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Ll\u00e9vame A La Cruz",
-      "url": "https://open.spotify.com/track/73NLZ4uZrEls4JqIEXdbBZ"
-    },
-    {
-      "added_at": "2023-10-13 04:59:00",
-      "album": {
         "name": "Tu Reino Est\u00e1 Aqu\u00ed",
         "url": "https://open.spotify.com/album/23WpengG8gPWQSRXQG5aoO"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 715466,
       "name": "Quiero Conocer a Jes\u00fas (Yeshua) / Nuestro Dios",
       "url": "https://open.spotify.com/track/293og3yEKwAjriGh8ps8W9"
+    },
+    {
+      "added_at": "2023-10-13 04:59:00",
+      "album": {
+        "name": "Vida Encontr\u00e9",
+        "url": "https://open.spotify.com/album/167RFf01QNrM1lpIDxYQ6e"
+      },
+      "artists": [
+        {
+          "name": "Majo y Dan",
+          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Ll\u00e9vame A La Cruz",
+      "url": "https://open.spotify.com/track/73NLZ4uZrEls4JqIEXdbBZ"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -595,8 +595,8 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "Obra de Tu Amor",
-        "url": "https://open.spotify.com/album/7iwgHqgKqP2D5MhtnmGBeV"
+        "name": "Todo Lo Haces Nuevo",
+        "url": "https://open.spotify.com/album/7050tzQ5BRBlsMowdSDBwy"
       },
       "artists": [
         {
@@ -604,25 +604,13 @@
           "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
         },
         {
-          "name": "Lead",
-          "url": "https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd"
-        },
-        {
-          "name": "Lowsan Melgar",
-          "url": "https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw"
-        },
-        {
-          "name": "Pedro Pablo Quintero",
-          "url": "https://open.spotify.com/artist/7k0e42G3EXTuMtNbMQkw0l"
-        },
-        {
-          "name": "Johan Manjarr\u00e9s",
-          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
         }
       ],
-      "duration_ms": 605453,
-      "name": "Obra de Tu Amor - (Alfarero)",
-      "url": "https://open.spotify.com/track/1yvDR7cxU98Zr2VxQ4WZE3"
+      "duration_ms": 612165,
+      "name": "Todo Lo Haces Nuevo",
+      "url": "https://open.spotify.com/track/6dbNKCUB2HwCdAB7aGgyu4"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -711,6 +699,54 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
+        "name": "Colecci\u00f3n de Danilo Montero",
+        "url": "https://open.spotify.com/album/7pmvlz6QfePhtw0PdAfXh7"
+      },
+      "artists": [
+        {
+          "name": "Danilo Montero",
+          "url": "https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF"
+        }
+      ],
+      "duration_ms": 360071,
+      "name": "Cantar\u00e9 de Tu Amor",
+      "url": "https://open.spotify.com/track/7kzqc0u8SNQAU5Wca0WNKo"
+    },
+    {
+      "added_at": "2023-10-13 04:59:00",
+      "album": {
+        "name": "Obra de Tu Amor",
+        "url": "https://open.spotify.com/album/7iwgHqgKqP2D5MhtnmGBeV"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Lead",
+          "url": "https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd"
+        },
+        {
+          "name": "Lowsan Melgar",
+          "url": "https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw"
+        },
+        {
+          "name": "Pedro Pablo Quintero",
+          "url": "https://open.spotify.com/artist/7k0e42G3EXTuMtNbMQkw0l"
+        },
+        {
+          "name": "Johan Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
+        }
+      ],
+      "duration_ms": 605453,
+      "name": "Obra de Tu Amor - (Alfarero)",
+      "url": "https://open.spotify.com/track/1yvDR7cxU98Zr2VxQ4WZE3"
+    },
+    {
+      "added_at": "2023-10-13 04:59:00",
+      "album": {
         "name": "M\u00fasica en el Desierto",
         "url": "https://open.spotify.com/album/0XJjgo6rIW6kp9O8qLnord"
       },
@@ -727,42 +763,6 @@
       "duration_ms": 271419,
       "name": "Eterna luz",
       "url": "https://open.spotify.com/track/5aJL7N6W2oXcZsMB9njrYH"
-    },
-    {
-      "added_at": "2023-10-13 04:59:00",
-      "album": {
-        "name": "Todo Lo Haces Nuevo",
-        "url": "https://open.spotify.com/album/7050tzQ5BRBlsMowdSDBwy"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 612165,
-      "name": "Todo Lo Haces Nuevo",
-      "url": "https://open.spotify.com/track/6dbNKCUB2HwCdAB7aGgyu4"
-    },
-    {
-      "added_at": "2023-10-13 04:59:00",
-      "album": {
-        "name": "Colecci\u00f3n de Danilo Montero",
-        "url": "https://open.spotify.com/album/7pmvlz6QfePhtw0PdAfXh7"
-      },
-      "artists": [
-        {
-          "name": "Danilo Montero",
-          "url": "https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF"
-        }
-      ],
-      "duration_ms": 360071,
-      "name": "Cantar\u00e9 de Tu Amor",
-      "url": "https://open.spotify.com/track/7kzqc0u8SNQAU5Wca0WNKo"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "El Eco De Su Voz",
-        "url": "https://open.spotify.com/album/1KQrSJiQAhRFffoTvA8pW7"
-      },
-      "artists": [
-        {
-          "name": "Hillsong en Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
-        }
-      ],
-      "duration_ms": 299013,
-      "name": "Amor Sin Comparaci\u00f3n",
-      "url": "https://open.spotify.com/track/78UnexCmrxXnAJNCKlGQ5Y"
-    },
-    {
-      "added_at": "2023-10-13 04:59:00",
-      "album": {
         "name": "Me Visti\u00f3 De Promesas",
         "url": "https://open.spotify.com/album/1SUEDD9quNY1LYU36X6UUp"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 288266,
       "name": "Creemos",
       "url": "https://open.spotify.com/track/1Z33wIAMRaaGFSuBnFcYRU"
+    },
+    {
+      "added_at": "2023-10-13 04:59:00",
+      "album": {
+        "name": "El Eco De Su Voz",
+        "url": "https://open.spotify.com/album/1KQrSJiQAhRFffoTvA8pW7"
+      },
+      "artists": [
+        {
+          "name": "Hillsong en Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
+        }
+      ],
+      "duration_ms": 299013,
+      "name": "Amor Sin Comparaci\u00f3n",
+      "url": "https://open.spotify.com/track/78UnexCmrxXnAJNCKlGQ5Y"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
+        "name": "En Las Alas Del Amor",
+        "url": "https://open.spotify.com/album/3zHypYyLfjX3Ikil2H9bOI"
+      },
+      "artists": [
+        {
+          "name": "Julissa",
+          "url": "https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu"
+        }
+      ],
+      "duration_ms": 260295,
+      "name": "El No Pereci\u00f3",
+      "url": "https://open.spotify.com/track/5chE8rPKomf8QxhllFujhi"
+    },
+    {
+      "added_at": "2023-10-13 04:59:00",
+      "album": {
         "name": "Grande y Fiel (Live)",
         "url": "https://open.spotify.com/album/0TCN0IwS8kJ1qwgMu0tElH"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 387500,
       "name": "Santo Es Tu Nombre - Live",
       "url": "https://open.spotify.com/track/0hGBNTxVICQBA55B9uHXT2"
-    },
-    {
-      "added_at": "2023-10-13 04:59:00",
-      "album": {
-        "name": "En Las Alas Del Amor",
-        "url": "https://open.spotify.com/album/3zHypYyLfjX3Ikil2H9bOI"
-      },
-      "artists": [
-        {
-          "name": "Julissa",
-          "url": "https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu"
-        }
-      ],
-      "duration_ms": 260295,
-      "name": "El No Pereci\u00f3",
-      "url": "https://open.spotify.com/track/5chE8rPKomf8QxhllFujhi"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
+        "name": "Si Tu No Estas",
+        "url": "https://open.spotify.com/album/63YxkoEStzX5qttiPP5EwG"
+      },
+      "artists": [
+        {
+          "name": "Luis Santiago",
+          "url": "https://open.spotify.com/artist/57wRcdGLAS9zQr9XyVtVbE"
+        }
+      ],
+      "duration_ms": 372767,
+      "name": "Eres Tu",
+      "url": "https://open.spotify.com/track/0lXL1oSS0rAM2MSwQagDr4"
+    },
+    {
+      "added_at": "2023-10-13 04:59:00",
+      "album": {
         "name": "No Temas",
         "url": "https://open.spotify.com/album/5gayNP2PRbA9gq5foXJeBM"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 243250,
       "name": "No Temas",
       "url": "https://open.spotify.com/track/1WJjXVxrprcrrixUt7kJoC"
-    },
-    {
-      "added_at": "2023-10-13 04:59:00",
-      "album": {
-        "name": "Si Tu No Estas",
-        "url": "https://open.spotify.com/album/63YxkoEStzX5qttiPP5EwG"
-      },
-      "artists": [
-        {
-          "name": "Luis Santiago",
-          "url": "https://open.spotify.com/artist/57wRcdGLAS9zQr9XyVtVbE"
-        }
-      ],
-      "duration_ms": 372767,
-      "name": "Eres Tu",
-      "url": "https://open.spotify.com/track/0lXL1oSS0rAM2MSwQagDr4"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
+        "name": "El Eco De Su Voz",
+        "url": "https://open.spotify.com/album/1KQrSJiQAhRFffoTvA8pW7"
+      },
+      "artists": [
+        {
+          "name": "Hillsong en Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
+        }
+      ],
+      "duration_ms": 327146,
+      "name": "Alabar\u00e9 Al Se\u00f1or (An\u00e1stasis)",
+      "url": "https://open.spotify.com/track/17tQn0PVAVheKCGg24RFMQ"
+    },
+    {
+      "added_at": "2023-10-13 04:59:00",
+      "album": {
         "name": "Bethel Music en Espa\u00f1ol",
         "url": "https://open.spotify.com/album/1VCnNZHwArLVhTZZrqYlk1"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 316920,
       "name": "Jesus Te Amamos (Live)",
       "url": "https://open.spotify.com/track/7JdGpxb7HAnDHKCdimfQRs"
-    },
-    {
-      "added_at": "2023-10-13 04:59:00",
-      "album": {
-        "name": "El Eco De Su Voz",
-        "url": "https://open.spotify.com/album/1KQrSJiQAhRFffoTvA8pW7"
-      },
-      "artists": [
-        {
-          "name": "Hillsong en Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
-        }
-      ],
-      "duration_ms": 327146,
-      "name": "Alabar\u00e9 Al Se\u00f1or (An\u00e1stasis)",
-      "url": "https://open.spotify.com/track/17tQn0PVAVheKCGg24RFMQ"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "Dios Es Capaz",
-        "url": "https://open.spotify.com/album/6pwUONBD4QgCMuhWBOvkFP"
-      },
-      "artists": [
-        {
-          "name": "Neil Velez",
-          "url": "https://open.spotify.com/artist/3nmPn9zOoi1qRWg53KPmeO"
-        }
-      ],
-      "duration_ms": 312842,
-      "name": "Cristo Vive En Mi",
-      "url": "https://open.spotify.com/track/5EtaxdTij2mISJwbnwWhsD"
-    },
-    {
-      "added_at": "2023-10-13 04:59:00",
-      "album": {
         "name": "No Hay Otro Dios",
         "url": "https://open.spotify.com/album/1WidkdQtLb7DpF8e8HXeXm"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 320200,
       "name": "Nos Levantaremos",
       "url": "https://open.spotify.com/track/2bWTrJ83AEekPcsBQb8X2x"
+    },
+    {
+      "added_at": "2023-10-13 04:59:00",
+      "album": {
+        "name": "Dios Es Capaz",
+        "url": "https://open.spotify.com/album/6pwUONBD4QgCMuhWBOvkFP"
+      },
+      "artists": [
+        {
+          "name": "Neil Velez",
+          "url": "https://open.spotify.com/artist/3nmPn9zOoi1qRWg53KPmeO"
+        }
+      ],
+      "duration_ms": 312842,
+      "name": "Cristo Vive En Mi",
+      "url": "https://open.spotify.com/track/5EtaxdTij2mISJwbnwWhsD"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -1763,18 +1763,22 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "Como en Casa (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/73FehpfDRan2EMqqnlyW5V"
+        "name": "El Dios Que Cambia Nombre",
+        "url": "https://open.spotify.com/album/5NUIrHDIDuMr6Xsob6L5UO"
       },
       "artists": [
         {
-          "name": "Alex Campos",
-          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+          "name": "H\u00e9ctor Delgado",
+          "url": "https://open.spotify.com/artist/1cH1z49SP3Ul0DxaRLWYVy"
+        },
+        {
+          "name": "Boy Wonder CF",
+          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
         }
       ],
-      "duration_ms": 363772,
-      "name": "Vives T\u00fa Vivo Yo - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3aQ72h2vInTXJvE72Z6V0E"
+      "duration_ms": 219208,
+      "name": "El Dios Que Cambia Nombre",
+      "url": "https://open.spotify.com/track/6jxF4JXJ2hK8GEkRHqcj8b"
     }
   ],
   "unique_name": "Jes\u00fas Vive",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds in hip\-hop, coming out of Canada\. Cover: <a href="spotify:artist:332mFY6yBda91AsIOSKirG">Planet Giza</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,798 likes - 100 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,852 likes - 100 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 3 | [Only You](https://open.spotify.com/track/4PSvazj8Yc6zgtmc4RUoIx) | [AR Paisley](https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd) | [Only You](https://open.spotify.com/album/6peg85oEmyTYzm8wxik2wd) | 2:22 |
 | 4 | [W Hotel \(feat\. Toosii\)](https://open.spotify.com/track/5y0ZkrwaaXuTrW3Sbo4UI3) | [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy), [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [W Hotel \(feat\. Toosii\)](https://open.spotify.com/album/45D9T73N2DfpQPrT6QEh6T) | 3:00 |
 | 5 | [Only Real](https://open.spotify.com/track/4LWW14lPMoe8EzdlVNquDM) | [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2) | [Penthouse](https://open.spotify.com/album/7rkyW7jlyubisbtYDA6faY) | 2:35 |
-| 6 | [Nvm](https://open.spotify.com/track/4OVqoD9exHPI6c1Zt2aVdT) | [3MFrench](https://open.spotify.com/artist/7MPnGqTzCsarDScihWka1x) | [Its Me Not You](https://open.spotify.com/album/1bvkLtyYfPl65K9YNUrcH5) | 2:12 |
+| 6 | [Nvm](https://open.spotify.com/track/4OVqoD9exHPI6c1Zt2aVdT) | [3MFrench](https://open.spotify.com/artist/7MPnGqTzCsarDScihWka1x), [Tilla](https://open.spotify.com/artist/2WUWGxe2YfvUFk69M3Ri2f) | [Its Me Not You](https://open.spotify.com/album/1bvkLtyYfPl65K9YNUrcH5) | 2:12 |
 | 7 | [Evil Ways \(feat\. J\. Cole\)](https://open.spotify.com/track/2ut4BOQSqxLpcX5MtPjzYa) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [For All The Dogs Scary Hours Edition](https://open.spotify.com/album/4Q7cRXio6mF2ImVUCcezPO) | 3:47 |
 | 8 | [Drippy](https://open.spotify.com/track/4fnIORP0QTYTOMPqMKpJtF) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K), [AR Paisley](https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd) | [Drippy](https://open.spotify.com/album/7xlh4JhUD65QX1HzN2guSX) | 3:15 |
 | 9 | [POP 2](https://open.spotify.com/track/5TPd6MAlQhx9mztqGH2JQZ) | [KILLY](https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD), [Fourfive](https://open.spotify.com/artist/2Iwoy31N647ZAX06wPbcGg) | [POP 2](https://open.spotify.com/album/2EkgcGaYVt2HIJMZSkVUbB) | 3:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 99 | [Body](https://open.spotify.com/track/66GdFBE7JJ0ASvCLyKn7HR) | [Nate Husser](https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4), [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c) | [Dark Songs To Drive To](https://open.spotify.com/album/7fc2sH5vRsDNXaIlWl9Cyn) | 2:33 |
 | 100 | [Eyes On Me](https://open.spotify.com/track/4nNwfJM1DixAKRqnLFz0GS) | [Che](https://open.spotify.com/artist/3E5ZrCLCq0HP63QQHF6ttp) | [Eyes On Me](https://open.spotify.com/album/5eUasOW00sfNnxnOALm9Vo) | 2:58 |
 
-Snapshot ID: `MCw0ODY0NzhlY2Q3NTE1NGY2Mzc1M2VhNzE5NzNjYjYwMTY5ZDdjYTBl`
+Snapshot ID: `MCw1NmYxOTllNzFjOGRjZThlMDg2NmU0ODQ1NGI4YmI3MjhjOTJlYjIx`

@@ -4,7 +4,7 @@
 
 > The warm sound and the cozy mood of classic Jazz\. A soundtrack in the background for relaxing, dinner or focus\. Cover: Hank Mobley
 
-282 songs - 19 hr 39 min
+283 songs - 19 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,7 +217,8 @@
 | [Soon](https://open.spotify.com/track/6FWtmmLX3pJEhKdS0OwPTc) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Sings Gershwin](https://open.spotify.com/album/3DJYxksYYP018jgpOTVXqO) | 2:47 | 2022-01-20 |  |
 | [Spring Can Really Hang You Up The Most](https://open.spotify.com/track/1706f2W2p6OpGj3n6WVGJR) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Clap Hands, Here Comes Charlie! \(Expanded Edition\)](https://open.spotify.com/album/051AdKfsuNyfiUc81mkJIR) | 6:17 | 2022-08-12 |  |
 | [Spring Will Be A Little Late This Year](https://open.spotify.com/track/36LagOdqrKUSAwFtCREJka) | [Red Garland Trio](https://open.spotify.com/artist/3XYnsz11kFrkx8F3upvnE5) | [All Kinds Of Weather](https://open.spotify.com/album/1cq8v5c8Y6KuvPtwPi3aWT) | 5:42 | 2023-12-21 |  |
-| [Stardust \- Live At Finney Chapel / 1953](https://open.spotify.com/track/1n4BIhfYfgkCAFJfcVQ5OO) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Jazz At Oberlin](https://open.spotify.com/album/24XyFtHMmecxawtvXfc27y) | 6:29 | 2023-12-21 |  |
+| [Stardust \- Live At Finney Chapel / 1953](https://open.spotify.com/track/5ibCpoDH8OGVXxjmGlLl9v) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [The Dave Brubeck Quartet Featuring Paul Desmond In Concert](https://open.spotify.com/album/3mjhty9NJpFD4WuAHHZ9x4) | 6:25 | 2024-02-20 |  |
+| [Stardust \- Live At Finney Chapel / 1953](https://open.spotify.com/track/1n4BIhfYfgkCAFJfcVQ5OO) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Jazz At Oberlin](https://open.spotify.com/album/24XyFtHMmecxawtvXfc27y) | 6:29 | 2023-12-21 | 2024-02-22 |
 | [Stars Fell On Alabama](https://open.spotify.com/track/21YUZQmqekadSlCCZpawCH) | [Toots Thielemans](https://open.spotify.com/artist/0KyolDFb1RjJQb4qXZKCqo) | [Harmonica Jazz](https://open.spotify.com/album/0xcPfuRMo0frd2Q36jCd8j) | 3:11 | 2023-12-15 |  |
 | [Steppin' Out With My Baby](https://open.spotify.com/track/16XegBhsozta1GH3t5LGSm) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX) | [Mr\. Top Hat](https://open.spotify.com/album/0eNmpX93xeVCWWuNnKE7Oz) | 2:20 | 2022-01-20 | 2022-08-18 |
 | [Stompin' At The Savoy](https://open.spotify.com/track/4Vlx6e5XTN3aQ9MjUF1p6q) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Ella And Louis Again](https://open.spotify.com/album/4zWqQOob980K9drUrUGM8M) | 5:12 | 2022-08-17 |  |

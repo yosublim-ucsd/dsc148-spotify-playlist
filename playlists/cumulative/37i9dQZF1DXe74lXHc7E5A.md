@@ -4,7 +4,7 @@
 
 > Hip Hop and Rap songs guaranteed to get you hyped\. Cover: Luciano and Omah Lay
 
-366 songs - 18 hr 48 min
+367 songs - 18 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,7 +184,8 @@
 | [JEEZU \(feat\. Adekunle Gold\)](https://open.spotify.com/track/3MlgALPoRA3SidqSRtQ6z9) | [Jeymes Samuel](https://open.spotify.com/artist/5LCKmOTlZQaULxnQ1xIkD8), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [THE BOOK OF CLARENCE \(The Motion Picture Soundtrack\)](https://open.spotify.com/album/5LTfMQMnfrNd2Zj1HLZUmN) | 4:28 | 2024-01-12 | 2024-02-16 |
 | [Jeje](https://open.spotify.com/track/0jqtgSfiv3egeKimxqQWcZ) | [Rhedi](https://open.spotify.com/artist/6i90MGejsqG2b8XgqDlTUI), [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP), [Odumodublvck](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Magic Moment](https://open.spotify.com/album/3FyqXtrI8Fw7bup0CsrlWU) | 3:04 | 2023-01-27 | 2023-02-04 |
 | [Jimmy Cooks \(feat\. 21 Savage\)](https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 3:38 | 2022-07-27 | 2023-10-02 |
-| [Jungle Music, Pt.1](https://open.spotify.com/track/3lHz5md9boT0yiIDRutanu) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Jungle Music, Pt.1](https://open.spotify.com/album/1u53HTtDzE94WWWoGFUCFy) | 3:05 | 2024-02-16 |  |
+| [Jungle Music, Pt.1](https://open.spotify.com/track/3lHz5md9boT0yiIDRutanu) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Jungle Music, Pt.1](https://open.spotify.com/album/1u53HTtDzE94WWWoGFUCFy) | 3:05 | 2024-02-16 | 2024-02-22 |
+| [Jungle Music, Pt.1](https://open.spotify.com/track/6igRiUF4wplkbTr2ecNx8Y) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Jungle Music, Pt.1](https://open.spotify.com/album/3YosaIj8eB3PHuQv5QGtB0) | 3:05 | 2024-02-16 |  |
 | [Just Wanna Rock](https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Just Wanna Rock](https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg) | 2:03 | 2022-12-02 | 2023-10-02 |
 | [K\-POP](https://open.spotify.com/track/5L3ecxQnQ9qTBmnLQiwf0C) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [K\-POP](https://open.spotify.com/album/10eNMeTimUzAKLhCOpIUlb) | 3:05 | 2023-07-20 | 2023-10-02 |
 | [KABUTEY FLOW](https://open.spotify.com/track/7JS8FzTaLZEQFhTHTXinLY) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [KABUTEY FLOW](https://open.spotify.com/album/71E270Mzm0P0YkMPAMBEjx) | 2:17 | 2024-01-05 | 2024-01-13 |

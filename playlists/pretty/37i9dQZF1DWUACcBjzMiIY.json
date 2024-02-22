@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZjA5NDljNjY4MjVhMDcxMDA2OWY5NzEwZmIyNWM2NzJkYmVkODQ3",
+  "snapshot_id": "MCxmZGRhZjA1MjZmNmEwYzg5ZmY4Y2UxNGFiODYzOWJmMzIzNzk1M2Vk",
   "tracks": [
     {
       "added_at": "2023-11-03 04:00:00",
@@ -323,22 +323,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "x (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 281560,
-      "name": "Thinking out Loud",
-      "url": "https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Dream Your Life Away (Special Edition)",
         "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 204280,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "x (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 281560,
+      "name": "Thinking out Loud",
+      "url": "https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "The Lumineers",
-        "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 163133,
-      "name": "Ho Hey",
-      "url": "https://open.spotify.com/track/0W4Kpfp1w2xkY3PrV714B7"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "The Midsummer Station",
         "url": "https://open.spotify.com/album/7gTFf2EWBONpjKVjpWbs5p"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 205933,
       "name": "Good Time",
       "url": "https://open.spotify.com/track/1kPpge9JDLpcj15qgrPbYX"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "The Lumineers",
+        "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 163133,
+      "name": "Ho Hey",
+      "url": "https://open.spotify.com/track/0W4Kpfp1w2xkY3PrV714B7"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Jealous - EP",
-        "url": "https://open.spotify.com/album/6bsCl6iS6dvC4xaiBlecPv"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 287693,
-      "name": "Jealous",
-      "url": "https://open.spotify.com/track/4G92yYrUs0cvY7G41YRI0z"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "The Fray",
         "url": "https://open.spotify.com/album/3ibdlhMmbFPMYoWvwHCzI3"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 241853,
       "name": "You Found Me",
       "url": "https://open.spotify.com/track/4IoYz8XqqdowINzfRrFnhi"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Jealous - EP",
+        "url": "https://open.spotify.com/album/6bsCl6iS6dvC4xaiBlecPv"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 287693,
+      "name": "Jealous",
+      "url": "https://open.spotify.com/track/4G92yYrUs0cvY7G41YRI0z"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Come Away With Me (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 198226,
-      "name": "Come Away With Me",
-      "url": "https://open.spotify.com/track/6jGnykaS6TkWp15utXSAeI"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Younger Now",
         "url": "https://open.spotify.com/album/5xG9gJcs9ut3qDWezHUlsX"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 231906,
       "name": "Malibu",
       "url": "https://open.spotify.com/track/1UZOjK1BwmwWU14Erba9CZ"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Come Away With Me (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 198226,
+      "name": "Come Away With Me",
+      "url": "https://open.spotify.com/track/6jGnykaS6TkWp15utXSAeI"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Back To Black (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 257186,
-      "name": "You Know I'm No Good",
-      "url": "https://open.spotify.com/track/0DMRKqrpd0QO4RWiEdMib0"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Cheers to the Fall",
         "url": "https://open.spotify.com/album/6Blubl1glavmervPJa3QVs"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 253342,
       "name": "Rise Up",
       "url": "https://open.spotify.com/track/0tV8pOpiNsKqUys0ilUcXz"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Back To Black (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 257186,
+      "name": "You Know I'm No Good",
+      "url": "https://open.spotify.com/track/0DMRKqrpd0QO4RWiEdMib0"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Bringing Down The Horse",
-        "url": "https://open.spotify.com/album/2BOlaNQt6WJ1HO5pQcKHGh"
-      },
-      "artists": [
-        {
-          "name": "The Wallflowers",
-          "url": "https://open.spotify.com/artist/0jJNGWrpjGIHUdTTJiIYeB"
-        }
-      ],
-      "duration_ms": 312626,
-      "name": "One Headlight",
-      "url": "https://open.spotify.com/track/0z1b34WikhOH9ZxU8QDWcv"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "In Between Dreams",
         "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 207680,
       "name": "Better Together",
       "url": "https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Bringing Down The Horse",
+        "url": "https://open.spotify.com/album/2BOlaNQt6WJ1HO5pQcKHGh"
+      },
+      "artists": [
+        {
+          "name": "The Wallflowers",
+          "url": "https://open.spotify.com/artist/0jJNGWrpjGIHUdTTJiIYeB"
+        }
+      ],
+      "duration_ms": 312626,
+      "name": "One Headlight",
+      "url": "https://open.spotify.com/track/0z1b34WikhOH9ZxU8QDWcv"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "The World From The Side Of The Moon",
-        "url": "https://open.spotify.com/album/0zIb6xazDd72sVT8OtPX3E"
-      },
-      "artists": [
-        {
-          "name": "Phillip Phillips",
-          "url": "https://open.spotify.com/artist/6p5JxpTc7USNnBnLzctyd4"
-        }
-      ],
-      "duration_ms": 210173,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/1EAgPzRbK9YmdOESSMUm6P"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "How To Save A Life",
         "url": "https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 236266,
       "name": "Over My Head (Cable Car)",
       "url": "https://open.spotify.com/track/1N62wozuHCvczCkY4QidpP"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "The World From The Side Of The Moon",
+        "url": "https://open.spotify.com/album/0zIb6xazDd72sVT8OtPX3E"
+      },
+      "artists": [
+        {
+          "name": "Phillip Phillips",
+          "url": "https://open.spotify.com/artist/6p5JxpTc7USNnBnLzctyd4"
+        }
+      ],
+      "duration_ms": 210173,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/1EAgPzRbK9YmdOESSMUm6P"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1679,18 +1679,18 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "White Ladder",
-        "url": "https://open.spotify.com/album/27h98zEMf4R8Q25uOkumGe"
+        "name": "Chaos And The Calm",
+        "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
       },
       "artists": [
         {
-          "name": "David Gray",
-          "url": "https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV"
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
         }
       ],
-      "duration_ms": 245533,
-      "name": "This Year's Love",
-      "url": "https://open.spotify.com/track/4X6F9xoYUyJh4OhnXbAZv2"
+      "duration_ms": 260532,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/13HVjjWUZFaWilh2QUJKsP"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1711,18 +1711,18 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Chaos And The Calm",
-        "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
+        "name": "White Ladder",
+        "url": "https://open.spotify.com/album/27h98zEMf4R8Q25uOkumGe"
       },
       "artists": [
         {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+          "name": "David Gray",
+          "url": "https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV"
         }
       ],
-      "duration_ms": 260532,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/13HVjjWUZFaWilh2QUJKsP"
+      "duration_ms": 245533,
+      "name": "This Year's Love",
+      "url": "https://open.spotify.com/track/4X6F9xoYUyJh4OhnXbAZv2"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1927,22 +1927,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "GUTS",
-        "url": "https://open.spotify.com/album/3JkLkXIokxYZebpeOOqKK8"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 219724,
-      "name": "vampire",
-      "url": "https://open.spotify.com/track/5VJETUjJ7y46bAz4min5IB"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Wanted on Voyage (Expanded Edition)",
         "url": "https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E"
       },
@@ -1955,6 +1939,22 @@
       "duration_ms": 188960,
       "name": "Barcelona",
       "url": "https://open.spotify.com/track/3ieLey98V9mIIh3W9gBlPF"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/3JkLkXIokxYZebpeOOqKK8"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 219724,
+      "name": "vampire",
+      "url": "https://open.spotify.com/track/5VJETUjJ7y46bAz4min5IB"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -2111,22 +2111,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Every Kingdom",
-        "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 264546,
-      "name": "Keep Your Head Up",
-      "url": "https://open.spotify.com/track/5fpEDGQX0Ah3utGnFYulQZ"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Some Mad Hope",
         "url": "https://open.spotify.com/album/45A2E1YR00sPSwxJw5d3qu"
       },
@@ -2139,6 +2123,22 @@
       "duration_ms": 215173,
       "name": "Come On Get Higher",
       "url": "https://open.spotify.com/track/38YgZVHPWOWsKrsCXz6JyP"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Every Kingdom",
+        "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 264546,
+      "name": "Keep Your Head Up",
+      "url": "https://open.spotify.com/track/5fpEDGQX0Ah3utGnFYulQZ"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -2587,22 +2587,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "My Everything (Deluxe)",
-        "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 232586,
-      "name": "Just A Little Bit Of Your Heart",
-      "url": "https://open.spotify.com/track/5lvnGiTAH9BVlJLHc0DXZz"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Bundle of Tantrums",
         "url": "https://open.spotify.com/album/4yJzEyjDPwhSzZsn5ShGZI"
       },
@@ -2615,6 +2599,22 @@
       "duration_ms": 172149,
       "name": "Let Her Go",
       "url": "https://open.spotify.com/track/6ItaEfhM0oPK1iesamQMGp"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "My Everything (Deluxe)",
+        "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 232586,
+      "name": "Just A Little Bit Of Your Heart",
+      "url": "https://open.spotify.com/track/5lvnGiTAH9BVlJLHc0DXZz"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -2731,22 +2731,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Some Nights",
-        "url": "https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo"
-      },
-      "artists": [
-        {
-          "name": "fun.",
-          "url": "https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0"
-        }
-      ],
-      "duration_ms": 278373,
-      "name": "Carry On",
-      "url": "https://open.spotify.com/track/7gpy7sfWPNuOKmUNs3XQYE"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Ella Eyre",
         "url": "https://open.spotify.com/album/4zI5xpR9M6VLJsdb3zgzT5"
       },
@@ -2759,6 +2743,22 @@
       "duration_ms": 230711,
       "name": "We Don't Have To Take Our Clothes Off",
       "url": "https://open.spotify.com/track/48wSJ6NhMFYYB6LjdnPNjM"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Some Nights",
+        "url": "https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo"
+      },
+      "artists": [
+        {
+          "name": "fun.",
+          "url": "https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0"
+        }
+      ],
+      "duration_ms": 278373,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/7gpy7sfWPNuOKmUNs3XQYE"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -2843,18 +2843,18 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Call Me Irresponsible",
-        "url": "https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22"
+        "name": "A Star Is Born Soundtrack (Without Dialogue)",
+        "url": "https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx"
       },
       "artists": [
         {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+          "name": "Bradley Cooper",
+          "url": "https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG"
         }
       ],
-      "duration_ms": 219840,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/6vhYDNMZgffPwcdXdvMqCS"
+      "duration_ms": 159293,
+      "name": "Maybe It's Time",
+      "url": "https://open.spotify.com/track/4z2XPrpHz1raJibarWFY7Z"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -2875,18 +2875,18 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "A Star Is Born Soundtrack (Without Dialogue)",
-        "url": "https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx"
+        "name": "Call Me Irresponsible",
+        "url": "https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22"
       },
       "artists": [
         {
-          "name": "Bradley Cooper",
-          "url": "https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG"
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
         }
       ],
-      "duration_ms": 159293,
-      "name": "Maybe It's Time",
-      "url": "https://open.spotify.com/track/4z2XPrpHz1raJibarWFY7Z"
+      "duration_ms": 219840,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/6vhYDNMZgffPwcdXdvMqCS"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -2955,26 +2955,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Say Something",
-        "url": "https://open.spotify.com/album/0cHs4eStEKsSiDNxzu9ut5"
-      },
-      "artists": [
-        {
-          "name": "A Great Big World",
-          "url": "https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF"
-        },
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 229400,
-      "name": "Say Something",
-      "url": "https://open.spotify.com/track/78TKtlSLWK8pZAKKW3MyQL"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "I Forget Where We Were",
         "url": "https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF"
       },
@@ -3003,6 +2983,26 @@
       "duration_ms": 225106,
       "name": "New Soul",
       "url": "https://open.spotify.com/track/476JcJ3TpAuCOlGdCmomGm"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Say Something",
+        "url": "https://open.spotify.com/album/0cHs4eStEKsSiDNxzu9ut5"
+      },
+      "artists": [
+        {
+          "name": "A Great Big World",
+          "url": "https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF"
+        },
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 229400,
+      "name": "Say Something",
+      "url": "https://open.spotify.com/track/78TKtlSLWK8pZAKKW3MyQL"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -3227,22 +3227,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "A New Day Has Come",
-        "url": "https://open.spotify.com/album/1YQ5V21NSxR9ZauQ3RUbfZ"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 341800,
-      "name": "A New Day Has Come",
-      "url": "https://open.spotify.com/track/6LefIBy3hzTN6Yd1m81gpC"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Tee Shirt",
         "url": "https://open.spotify.com/album/30xBAnEjl3nSDzp0qoiBUD"
       },
@@ -3255,6 +3239,22 @@
       "duration_ms": 159506,
       "name": "Tee Shirt - Soundtrack Version",
       "url": "https://open.spotify.com/track/3C5in0EVdoGepp5bA6lhlE"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "A New Day Has Come",
+        "url": "https://open.spotify.com/album/1YQ5V21NSxR9ZauQ3RUbfZ"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 341800,
+      "name": "A New Day Has Come",
+      "url": "https://open.spotify.com/track/6LefIBy3hzTN6Yd1m81gpC"
     },
     {
       "added_at": "2023-11-03 04:00:00",

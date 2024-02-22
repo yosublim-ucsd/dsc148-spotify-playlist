@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74qyMLAYIii.md) - [plain]
 
 > Psicodélica, eléctrica y amazónica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 186 likes - 55 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 200 likes - 55 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74qyMLAYIii.md) - [plain]
 | 36 | [Sarita Colonia](https://open.spotify.com/track/34PdImQuqsjAqa4Sm3KszF) | [Grupo Maravilla](https://open.spotify.com/artist/4DDlcMniR5obaLi3lcy8uI) | [Tropicalísimo: Clásicos de Cumbia Peruana](https://open.spotify.com/album/4y6v6W4BoxN7HjlbxKL6lW) | 3:26 |
 | 37 | [Kung Fu Chino](https://open.spotify.com/track/4QcsAMgk51RrYkNwbhcWZ5) | [Los Mirlos](https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh) | [Los Mirlos: Discografía Completa](https://open.spotify.com/album/22UN42206haF1yk97rVPIR) | 3:23 |
 | 38 | [Bailando Con la Dolores](https://open.spotify.com/track/1i5kd0rHfO9Vkr3fuugQy9) | [Los Cariñosos](https://open.spotify.com/artist/62ODV8O0ywndqDrokUvmQ2) | [Tropicalísimo: Clásicos de Cumbia Peruana](https://open.spotify.com/album/4y6v6W4BoxN7HjlbxKL6lW) | 3:17 |
-| 39 | [Liliana](https://open.spotify.com/track/44Jr4qm2dZVKYEpEyaXR8x) | [Los Demonios del Mantaro](https://open.spotify.com/artist/4IR2RHn5pn5SxXSN1r0A8a) | [Cumbia Beat Volume 1](https://open.spotify.com/album/55Zzh7zGhuAF0YnlpbjV0S) | 2:21 |
+| 39 | [Liliana](https://open.spotify.com/track/5T1INJGdX0dVo5bn2iJALW) | [Los Demonios del Mantaro](https://open.spotify.com/artist/4IR2RHn5pn5SxXSN1r0A8a) | [Sounds of Cumbia](https://open.spotify.com/album/1XsSplcLk26rOdeVqs5x9O) | 2:20 |
 | 40 | [El Poncho](https://open.spotify.com/track/0USKHGxz1aXF8YvZ1KwlcL) | [Los Rumbaney](https://open.spotify.com/artist/3JWuw0bqCNARo6smlamsWx) | [Cumbias Chichadelicas: Peruvian Psychedelic Chicha](https://open.spotify.com/album/1YCdKn5y7C99mM2sb3QTlo) | 3:00 |
 | 41 | [Lamento Chacarero](https://open.spotify.com/track/7q99yKslbe1yyi4z7W6BdW) | [Sonido 2000](https://open.spotify.com/artist/1H3xkA1mRbxwDjbiiyC1lR) | [Sonido 2000 de Tarapoto](https://open.spotify.com/album/0h3hga5bxvliZyavRF10Ka) | 3:03 |
 | 42 | [Blancas Son "Las Calaveras"](https://open.spotify.com/track/2EBTvtYw8LBAzeV4685i1m) | [Grupo Fantasia](https://open.spotify.com/artist/2mLOEuzRj314LcMxO9ZvqZ) | [Puro Norte: Clásicos de Cumbia Norteña](https://open.spotify.com/album/2yk0pF1dVolvsASREa2Ijx) | 4:00 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74qyMLAYIii.md) - [plain]
 | 54 | [Carioco](https://open.spotify.com/track/3ScwGZNPtTz2WsaKRZm5HD) | [Manzanita y su Conjunto](https://open.spotify.com/artist/5ybBgREkVrODhrtj94QBkc) | [Arre Caballito](https://open.spotify.com/album/3kt1UzXlyClz59T9M03FqJ) | 2:59 |
 | 55 | [El Mondonguito](https://open.spotify.com/track/4KHpvWmOW9lKXGvUm0kkNX) | [Manzanita y su Conjunto](https://open.spotify.com/artist/5ybBgREkVrODhrtj94QBkc) | [Arre Caballito](https://open.spotify.com/album/3kt1UzXlyClz59T9M03FqJ) | 2:17 |
 
-Snapshot ID: `MCwxZTBlMTgxNTVkOWFkMWQwYjg0NmFkZWRlOWQ3ZTdlNGFkODFmZWE5`
+Snapshot ID: `MCwyMzFlMjJhYTI3Zjk5NGFkNjNhYzFjZDE0YjIxODAyNDNhODgxYjI1`

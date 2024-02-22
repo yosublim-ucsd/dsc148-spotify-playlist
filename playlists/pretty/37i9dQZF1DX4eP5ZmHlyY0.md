@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 
 > 日本で活躍するボーイズグループを特集。cover: BALLISTIK BOYZ from EXILE TRIBE
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,820 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,818 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [In My Head](https://open.spotify.com/track/14fYNWLL13lnpV8pdJmREV) | [BALLISTIK BOYZ from EXILE TRIBE](https://open.spotify.com/artist/1dZ8IZ8BXP30yhG50TH06o) | [In My Head](https://open.spotify.com/album/1xJb2W3tod9ecek8mAl2Bf) | 3:20 |
+| 1 | [In My Head](https://open.spotify.com/track/1ca1fujaysoprH04Pcjnfe) | [BALLISTIK BOYZ from EXILE TRIBE](https://open.spotify.com/artist/1dZ8IZ8BXP30yhG50TH06o) | [Back & Forth](https://open.spotify.com/album/6chK5tRYokqZR6fTN8SDNP) | 3:20 |
 | 2 | [Dirty Shoes Swag](https://open.spotify.com/track/3liBCaxGAOOCFo3IIfUND6) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [MATCH UP](https://open.spotify.com/album/7xUrbdyZf1Vky1E8vXbeqW) | 3:20 |
 | 3 | [Just Like Dat feat\. JP THE WAVY](https://open.spotify.com/track/44jt5m1pRE0rI4VixZbWF6) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [99.9 Psychic Radio](https://open.spotify.com/album/0am7ZAy4aq4sAS4ThW4ZhB) | 3:11 |
 | 4 | [Aqua](https://open.spotify.com/track/2ddXRNXRhS3d8AdO8qPhjU) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Aqua](https://open.spotify.com/album/74cXh4UujBMgi3jAbTgLa2) | 3:16 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 40 | [Roar](https://open.spotify.com/track/7AaR3KHGWP4JKe5EgOyPkk) | [KAT\-TUN](https://open.spotify.com/artist/5HQAzIHOdemXR2DoevwhjT) | [Honey（Selected Edition）](https://open.spotify.com/album/7igGKMIcjTirpS0JSkxN5L) | 3:55 |
 | 41 | [Carnival](https://open.spotify.com/track/7yryiCDpzRsYvzWAAIlbgQ) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [Carnival](https://open.spotify.com/album/1FHz66ulHiOaFPzAaV8S8q) | 2:49 |
 | 42 | [質問](https://open.spotify.com/track/5AfYh0cCMZ1f5u4sOFGbQD) | [香取慎吾](https://open.spotify.com/artist/23aPUZaR8bESXN4UD3T2Sx) | [質問](https://open.spotify.com/album/1BMlh1yTh5NaqmMZgHfHFV) | 3:17 |
-| 43 | [HANA\_花](https://open.spotify.com/track/4mTWo6hbs8SMgI4Bo2jWFl) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [TAG ME](https://open.spotify.com/album/0uZD2qIc7Y9UsXFModWKau) | 3:23 |
-| 44 | [Under the skin](https://open.spotify.com/track/14OcSHjrsHoZBJHwaYefH7) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [Under the skin](https://open.spotify.com/album/0UVj9I0OG2Ti1QjHVRpO2K) | 3:11 |
+| 43 | [Under the skin](https://open.spotify.com/track/14OcSHjrsHoZBJHwaYefH7) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [Under the skin](https://open.spotify.com/album/0UVj9I0OG2Ti1QjHVRpO2K) | 3:11 |
+| 44 | [HANA\_花](https://open.spotify.com/track/4mTWo6hbs8SMgI4Bo2jWFl) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [TAG ME](https://open.spotify.com/album/0uZD2qIc7Y9UsXFModWKau) | 3:23 |
 | 45 | [Forever Blue](https://open.spotify.com/track/5Epzmc0vxSjClQORKZnl34) | [crhug](https://open.spotify.com/artist/2YquAy5FoS3m5T1nvCpi3I) | [Forever Blue](https://open.spotify.com/album/002n8cm17f4VQz5Y2LWYVy) | 2:59 |
 | 46 | [Smile Again](https://open.spotify.com/track/6EJDyT2T7pEeLLhNRR416r) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Smile Again](https://open.spotify.com/album/7aIMR4kB87X92XrEzK6L6M) | 3:22 |
 | 47 | [I Got It](https://open.spotify.com/track/5yHvX9AFnONMXwBhDGwJ5R) | [IMP.](https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1) | [I Got It](https://open.spotify.com/album/1OwQ3QCxyB8QwkSPzfo4sI) | 3:20 |
 | 48 | [DOMINO \(JO1 ver.\)](https://open.spotify.com/track/2rz0rsOMAqjJUUnRNwZET3) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [DOMINO \(JO1 ver.\)](https://open.spotify.com/album/6An9Xdk3z7317nbg66wVAs) | 3:27 |
 | 49 | [Temperature \(Prod\. JP THE WAVY\)](https://open.spotify.com/track/6lLDeGs3dN0fsTYP24sJpp) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb) | [Temperature \(Prod\. JP THE WAVY\)](https://open.spotify.com/album/7vGsOpaySuHwzja3LPHjfT) | 3:06 |
-| 50 | [FIREWORK](https://open.spotify.com/track/5FWZ9epRluqJTzOnsayeo2) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [First Howling : WE](https://open.spotify.com/album/0ouqxqCo93ccmKOXhMz3RC) | 3:08 |
+| 50 | [Melody](https://open.spotify.com/track/495GBEvMX06OrwhCCZ7H0y) | [8LOOM](https://open.spotify.com/artist/0EmfXhT2Bhc53cyK3hrZM5) | [Melody](https://open.spotify.com/album/7C22dOSEgyvDKkVKxiSkGV) | 3:14 |
 
-Snapshot ID: `MCwzOWMyYzcwOTI2YmNiZGU2YmM3NjJiNmFjN2Q3Mjc3ZWJlNGY0MjMz`
+Snapshot ID: `MCwzMDJiMmYwZmE0ZTAyNWNjNTc5NDRjNmU4Mjc0MjIyMzhlZTc4M2Vi`

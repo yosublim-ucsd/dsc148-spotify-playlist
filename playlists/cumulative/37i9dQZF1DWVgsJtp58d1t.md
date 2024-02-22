@@ -2,7 +2,7 @@
 
 ### [This Is Frequency](https://open.spotify.com/playlist/37i9dQZF1DWVgsJtp58d1t)
 
-> New music each and every Friday, with selects from prominent musicians across the map in honor of Black History Month\. Cover: <a href="spotify:artist:3tVQdUvClmAT7URs9V3rsp">Wizkid</a>
+> New music each and every Friday, with selects from prominent musicians across the map in honor of Black History Month\. Cover: <a href="spotify:playlist:37i9dQZF1DWVgsJtp58d1t">Beyoncé</a>
 
 2,832 songs - 5 day 21 hr 49 min
 

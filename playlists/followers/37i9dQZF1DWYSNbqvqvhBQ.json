@@ -1,5 +1,5 @@
 {
-  "2024-02-21": 105254,
+  "2024-02-22": 105255,
   "date_first_scraped": "2023-02-25",
   "description": "Luister naar nieuwe songs en hits van dit moment! Cover: Stephen Sanchez",
   "name": "Stay Tuned!",
@@ -806,6 +806,24 @@
     },
     {
       "album": {
+        "name": "Brothers and Sisters",
+        "url": "https://open.spotify.com/album/4ZJsUp5BVASSDRKoidrDRU"
+      },
+      "artists": [
+        {
+          "name": "Michelle David & The True-tones",
+          "url": "https://open.spotify.com/artist/7on1NP7h7wh2Onwvkff1pj"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235106,
+      "name": "Brothers And Sisters",
+      "url": "https://open.spotify.com/track/4srsFockSV7zNZjSbvbkML"
+    },
+    {
+      "album": {
         "name": "Brothers And Sisters",
         "url": "https://open.spotify.com/album/6NByB6YHGM24ZZppqUDC3o"
       },
@@ -817,7 +835,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 235106,
       "name": "Brothers And Sisters",
       "url": "https://open.spotify.com/track/6gWZRpSmXOckVGYgAXTBid"

@@ -1,12 +1,12 @@
 {
   "description": "Para cantar muy bajito... o a voz en grito.",
-  "num_followers": 138817,
+  "num_followers": 138917,
   "original_name": "Las 100 mejores baladas rom\u00e1nticas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjBkMDllNWM4NDUzNmQ1OGI1MjYxYzQ2NWRiMjA3YTYwYjQ0M2E2",
+  "snapshot_id": "MCw0NGY4OWVjMjIxYWNhNzM4NDljODc3N2NkZTMxNGIxNzZlM2QwZjI3",
   "tracks": [
     {
       "added_at": "2024-02-13 23:00:00",
@@ -891,6 +891,22 @@
     {
       "added_at": "2024-02-13 23:00:00",
       "album": {
+        "name": "Chayanne",
+        "url": "https://open.spotify.com/album/51dg2LdYMIVQqCuUBlfQsN"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        }
+      ],
+      "duration_ms": 281026,
+      "name": "Un Siglo Sin Ti",
+      "url": "https://open.spotify.com/track/5NSJ0qoxwbO26tVvqpL4N2"
+    },
+    {
+      "added_at": "2024-02-13 23:00:00",
+      "album": {
         "name": "Rebelde",
         "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 224973,
       "name": "S\u00e1lvame",
       "url": "https://open.spotify.com/track/3hbTkJ0yFzHbawnKyhvTQj"
-    },
-    {
-      "added_at": "2024-02-13 23:00:00",
-      "album": {
-        "name": "Chayanne",
-        "url": "https://open.spotify.com/album/51dg2LdYMIVQqCuUBlfQsN"
-      },
-      "artists": [
-        {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
-        }
-      ],
-      "duration_ms": 281026,
-      "name": "Un Siglo Sin Ti",
-      "url": "https://open.spotify.com/track/5NSJ0qoxwbO26tVvqpL4N2"
     },
     {
       "added_at": "2024-02-13 23:00:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-02-13 23:00:00",
       "album": {
-        "name": "La Cruz Del Mapa",
-        "url": "https://open.spotify.com/album/1FwsOQLBtsdLjy2OGsCZZa"
-      },
-      "artists": [
-        {
-          "name": "Manuel Carrasco",
-          "url": "https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA"
-        }
-      ],
-      "duration_ms": 270187,
-      "name": "Qu\u00e9 Bonito Es Querer",
-      "url": "https://open.spotify.com/track/6uzGmmQ4CuG9HvZktEy0LF"
-    },
-    {
-      "added_at": "2024-02-13 23:00:00",
-      "album": {
         "name": "Prisma",
         "url": "https://open.spotify.com/album/3p9YnUYZyns6PGxTbKeLFq"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 230646,
       "name": "Lo siento",
       "url": "https://open.spotify.com/track/5o2M4yHxo9kyNLdgihFeV1"
+    },
+    {
+      "added_at": "2024-02-13 23:00:00",
+      "album": {
+        "name": "La Cruz Del Mapa",
+        "url": "https://open.spotify.com/album/1FwsOQLBtsdLjy2OGsCZZa"
+      },
+      "artists": [
+        {
+          "name": "Manuel Carrasco",
+          "url": "https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA"
+        }
+      ],
+      "duration_ms": 270187,
+      "name": "Qu\u00e9 Bonito Es Querer",
+      "url": "https://open.spotify.com/track/6uzGmmQ4CuG9HvZktEy0LF"
     },
     {
       "added_at": "2024-02-13 23:00:00",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-02-13 23:00:00",
       "album": {
-        "name": "2 (Remasterizado 2017)",
-        "url": "https://open.spotify.com/album/5g5J0Xr0ERqUJXGhEGneOr"
-      },
-      "artists": [
-        {
-          "name": "Miguel Gallardo",
-          "url": "https://open.spotify.com/artist/5imd6MnP4WpDohSwFnO38T"
-        }
-      ],
-      "duration_ms": 245560,
-      "name": "Hoy tengo ganas de ti",
-      "url": "https://open.spotify.com/track/17oji5hYaIqOFWFnPPWCeJ"
-    },
-    {
-      "added_at": "2024-02-13 23:00:00",
-      "album": {
         "name": "Close To You",
         "url": "https://open.spotify.com/album/1CsuCA05y9r7ftG9bGGtWV"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 276000,
       "name": "(They Long To Be) Close To You",
       "url": "https://open.spotify.com/track/50q2aUjWoTn6CJIfSPRJQA"
+    },
+    {
+      "added_at": "2024-02-13 23:00:00",
+      "album": {
+        "name": "2 (Remasterizado 2017)",
+        "url": "https://open.spotify.com/album/5g5J0Xr0ERqUJXGhEGneOr"
+      },
+      "artists": [
+        {
+          "name": "Miguel Gallardo",
+          "url": "https://open.spotify.com/artist/5imd6MnP4WpDohSwFnO38T"
+        }
+      ],
+      "duration_ms": 245560,
+      "name": "Hoy tengo ganas de ti",
+      "url": "https://open.spotify.com/track/17oji5hYaIqOFWFnPPWCeJ"
     },
     {
       "added_at": "2024-02-13 23:00:00",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2024-02-13 23:00:00",
       "album": {
+        "name": "Mentiras sinceras",
+        "url": "https://open.spotify.com/album/4kycb8w5cgbdLcQ6uD6IyF"
+      },
+      "artists": [
+        {
+          "name": "Alex Ubago",
+          "url": "https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X"
+        }
+      ],
+      "duration_ms": 232280,
+      "name": "Estar contigo",
+      "url": "https://open.spotify.com/track/0IDyf9eri6YrUs4yeQfCZZ"
+    },
+    {
+      "added_at": "2024-02-13 23:00:00",
+      "album": {
         "name": "Begin the Beguine",
         "url": "https://open.spotify.com/album/5siSTOhozc4kGQxQgbFhvS"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 300600,
       "name": "Hey - Spanish",
       "url": "https://open.spotify.com/track/3X8buu765D59qlQ6z78I8A"
-    },
-    {
-      "added_at": "2024-02-13 23:00:00",
-      "album": {
-        "name": "Te echo de -",
-        "url": "https://open.spotify.com/album/2ZidbiN9jxUipofcnQohLN"
-      },
-      "artists": [
-        {
-          "name": "Noan",
-          "url": "https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM"
-        }
-      ],
-      "duration_ms": 176226,
-      "name": "Te echo de -",
-      "url": "https://open.spotify.com/track/6bo5SaAuPbRA70oTA3MIRj"
     },
     {
       "added_at": "2024-02-13 23:00:00",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2024-02-13 23:00:00",
       "album": {
-        "name": "Mentiras sinceras",
-        "url": "https://open.spotify.com/album/4kycb8w5cgbdLcQ6uD6IyF"
+        "name": "Te echo de -",
+        "url": "https://open.spotify.com/album/2ZidbiN9jxUipofcnQohLN"
       },
       "artists": [
         {
-          "name": "Alex Ubago",
-          "url": "https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X"
+          "name": "Noan",
+          "url": "https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM"
         }
       ],
-      "duration_ms": 232280,
-      "name": "Estar contigo",
-      "url": "https://open.spotify.com/track/0IDyf9eri6YrUs4yeQfCZZ"
+      "duration_ms": 176226,
+      "name": "Te echo de -",
+      "url": "https://open.spotify.com/track/6bo5SaAuPbRA70oTA3MIRj"
     },
     {
       "added_at": "2024-02-13 23:00:00",

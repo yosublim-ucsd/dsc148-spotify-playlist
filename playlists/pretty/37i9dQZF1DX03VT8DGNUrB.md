@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03VT8DGNUrB.md) - [plain]
 | 13 | [No digas nada](https://open.spotify.com/track/24lqVtYdnA1NhYd37XFOPb) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [No digas nada](https://open.spotify.com/album/2g2B9rwO0VmWNKrdpeAmf3) | 3:42 |
 | 14 | [Too Cool To Die](https://open.spotify.com/track/3FtQes77xlbS9QTVts7p2u) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [AUSTIN](https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy) | 3:24 |
 | 15 | [espera](https://open.spotify.com/track/4WxLKm0CKkjVJaI0phmTwW) | [Shark Camp](https://open.spotify.com/artist/5TCWXML84FEjxAjRBAps9n) | [espera](https://open.spotify.com/album/4mQ0VXTWyTaSxj7yjsmwbU) | 4:09 |
-| 16 | [The Spins](https://open.spotify.com/track/7BcOUi4FQ3wBLmNTW0yfCR) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [K.I.D.S.](https://open.spotify.com/album/1jzqEyjugAp9iLtRsj9LZg) | 3:15 |
+| 16 | [The Spins](https://open.spotify.com/track/7BcOUi4FQ3wBLmNTW0yfCR) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [K.I.D.S.](https://open.spotify.com/album/1jzqEyjugAp9iLtRsj9LZg) | 3:15 |
 | 17 | [funkysolo](https://open.spotify.com/track/1wd9Yc43eVRgsfivN750MU) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [funkysolo](https://open.spotify.com/album/7HhpsWu3oXmYHGqYDkQ79V) | 3:46 |
 | 18 | [Antagonista](https://open.spotify.com/track/4Zn4OtJHeHBZLqcR9l0Qn2) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [ROY](https://open.spotify.com/album/40hEXrrbfFrriCUTOw4uRh) | 3:26 |
 | 19 | [Don't Wait Forever](https://open.spotify.com/track/3EoQSIQ91sDN2gYIcPXa5b) | [Terry Presume](https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX) | [What Box?](https://open.spotify.com/album/6zxHzgT0fKSMEgIi7BpoyQ) | 3:28 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03VT8DGNUrB.md) - [plain]
 | 34 | [One Step Closer 1.4 \[2021 Export Wav\] feat\. Panda Bear](https://open.spotify.com/track/2QX2AOmSUydpG1IRK4xVR8) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ) | [Things Don't Always Go The Way You Plan](https://open.spotify.com/album/6JlmbLrsozWe61rYTVsG7n) | 3:16 |
 | 35 | [Midnight](https://open.spotify.com/track/4GKk1uNzpxIptBuaY97Dkj) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Ghost Stories](https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr) | 4:54 |
 
-Snapshot ID: `MCxkN2JjZmZmMGFlNzg5MjZjNzUwOTk4ZDk3ZDVkOGMyYzI5NjFmN2Uz`
+Snapshot ID: `MCxhMmM1Njk2MjJjZGE2OTgyZGQzZDg5MTAwY2U5YzVkY2E3OWE5ZDg2`

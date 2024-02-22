@@ -1,12 +1,12 @@
 {
   "description": "Enam\u00f3rate con las interpretaciones m\u00e1s rom\u00e1nticas de El Flaco de Oro.",
-  "num_followers": 20461,
+  "num_followers": 20477,
   "original_name": "Cancionero Agust\u00edn Lara",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMmE3M2VhODdiMzBhODNjNTQ3OWRhMmFlNDY4Y2VmZjQwMDY2NDIx",
+  "snapshot_id": "MCw1YjMxYzNjNjhmMmQ0YjM5MjA5MDY0Njg3YjQ1NTQxNTFhNzE1NmM0",
   "tracks": [
     {
       "added_at": "2021-05-07 15:30:08",
@@ -383,6 +383,22 @@
     {
       "added_at": "2021-05-07 15:30:08",
       "album": {
+        "name": "Agustin Lara Y Sus Interpretes Vol. II",
+        "url": "https://open.spotify.com/album/30YKVXoCbzQeUb7Mqi8NKa"
+      },
+      "artists": [
+        {
+          "name": "Lilian De Celis",
+          "url": "https://open.spotify.com/artist/6GJeh0dffUcq1r9axMRSKv"
+        }
+      ],
+      "duration_ms": 130716,
+      "name": "De Riguroso Schottis",
+      "url": "https://open.spotify.com/track/0BrpSMP7erd1xjDSJFRIwU"
+    },
+    {
+      "added_at": "2021-05-07 15:30:08",
+      "album": {
         "name": "Canciones de Agust\u00edn Lara, Vol. 1",
         "url": "https://open.spotify.com/album/0v97jidgGLOtuKRDajEKHX"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 182804,
       "name": "Mar\u00eda Bonita",
       "url": "https://open.spotify.com/track/5kfdjZptfBuLriEyOhPer9"
-    },
-    {
-      "added_at": "2021-05-07 15:30:08",
-      "album": {
-        "name": "Agustin Lara Y Sus Interpretes Vol. II",
-        "url": "https://open.spotify.com/album/30YKVXoCbzQeUb7Mqi8NKa"
-      },
-      "artists": [
-        {
-          "name": "Lilian De Celis",
-          "url": "https://open.spotify.com/artist/6GJeh0dffUcq1r9axMRSKv"
-        }
-      ],
-      "duration_ms": 130716,
-      "name": "De Riguroso Schottis",
-      "url": "https://open.spotify.com/track/0BrpSMP7erd1xjDSJFRIwU"
     },
     {
       "added_at": "2021-05-07 15:30:08",
@@ -563,22 +563,6 @@
     {
       "added_at": "2021-05-07 15:30:08",
       "album": {
-        "name": "M\u00fasica de Agust\u00edn Lar\u00e1 Con los Tres Caballeros",
-        "url": "https://open.spotify.com/album/1Fr1bDJkcGGgQt7nO83HIq"
-      },
-      "artists": [
-        {
-          "name": "Los Tres Caballeros",
-          "url": "https://open.spotify.com/artist/0ou4IrIjMSANpaPTL8lC3F"
-        }
-      ],
-      "duration_ms": 150600,
-      "name": "Rosa",
-      "url": "https://open.spotify.com/track/4f7z1W1qP8699e4Fe0c8wi"
-    },
-    {
-      "added_at": "2021-05-07 15:30:08",
-      "album": {
         "name": "La Sonora Santanera Y La Inspiraci\u00f3n de Agust\u00edn Lara",
         "url": "https://open.spotify.com/album/0PB2j6MxJasgBw89UXkKA8"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 157333,
       "name": "Petici\u00f3n",
       "url": "https://open.spotify.com/track/58MGtA6o5yQ9cp23jb4x3r"
+    },
+    {
+      "added_at": "2021-05-07 15:30:08",
+      "album": {
+        "name": "M\u00fasica de Agust\u00edn Lar\u00e1 Con los Tres Caballeros",
+        "url": "https://open.spotify.com/album/1Fr1bDJkcGGgQt7nO83HIq"
+      },
+      "artists": [
+        {
+          "name": "Los Tres Caballeros",
+          "url": "https://open.spotify.com/artist/0ou4IrIjMSANpaPTL8lC3F"
+        }
+      ],
+      "duration_ms": 150600,
+      "name": "Rosa",
+      "url": "https://open.spotify.com/track/4f7z1W1qP8699e4Fe0c8wi"
     },
     {
       "added_at": "2021-05-07 15:30:08",
@@ -679,18 +679,18 @@
     {
       "added_at": "2021-05-07 15:30:08",
       "album": {
-        "name": "M\u00fasica de Agust\u00edn Lar\u00e1 Con los Tres Caballeros",
-        "url": "https://open.spotify.com/album/1Fr1bDJkcGGgQt7nO83HIq"
+        "name": "La Sonora Santanera Y La Inspiraci\u00f3n de Agust\u00edn Lara",
+        "url": "https://open.spotify.com/album/0PB2j6MxJasgBw89UXkKA8"
       },
       "artists": [
         {
-          "name": "Los Tres Caballeros",
-          "url": "https://open.spotify.com/artist/0ou4IrIjMSANpaPTL8lC3F"
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
         }
       ],
-      "duration_ms": 138000,
-      "name": "Dime Si Me Quieres",
-      "url": "https://open.spotify.com/track/5tiM3oeYGZyjmXcjF4Iqep"
+      "duration_ms": 195813,
+      "name": "Escarcha",
+      "url": "https://open.spotify.com/track/3eRQss3hfgY7Zvge8lK7iq"
     },
     {
       "added_at": "2021-05-07 15:30:08",
@@ -727,18 +727,18 @@
     {
       "added_at": "2021-05-07 15:30:08",
       "album": {
-        "name": "La Sonora Santanera Y La Inspiraci\u00f3n de Agust\u00edn Lara",
-        "url": "https://open.spotify.com/album/0PB2j6MxJasgBw89UXkKA8"
+        "name": "M\u00fasica de Agust\u00edn Lar\u00e1 Con los Tres Caballeros",
+        "url": "https://open.spotify.com/album/1Fr1bDJkcGGgQt7nO83HIq"
       },
       "artists": [
         {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+          "name": "Los Tres Caballeros",
+          "url": "https://open.spotify.com/artist/0ou4IrIjMSANpaPTL8lC3F"
         }
       ],
-      "duration_ms": 195813,
-      "name": "Escarcha",
-      "url": "https://open.spotify.com/track/3eRQss3hfgY7Zvge8lK7iq"
+      "duration_ms": 138000,
+      "name": "Dime Si Me Quieres",
+      "url": "https://open.spotify.com/track/5tiM3oeYGZyjmXcjF4Iqep"
     },
     {
       "added_at": "2021-05-07 15:30:08",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2021-05-07 15:30:08",
       "album": {
-        "name": "COLECCION Volumen 5",
-        "url": "https://open.spotify.com/album/5V5bvTtqymqaymOEweXxqk"
-      },
-      "artists": [
-        {
-          "name": "Rebeca",
-          "url": "https://open.spotify.com/artist/3IekGBVtJ2XDErmuSPjSGE"
-        }
-      ],
-      "duration_ms": 181368,
-      "name": "Hastio",
-      "url": "https://open.spotify.com/track/5E1hhG7rRVfE2BuNdnCRkK"
-    },
-    {
-      "added_at": "2021-05-07 15:30:08",
-      "album": {
         "name": "Lo Mejor De Lo Mejor De RCA Victor",
         "url": "https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 147933,
       "name": "Se Me Hizo F\u00e1cil",
       "url": "https://open.spotify.com/track/1FTSbw0qc0z2cmtbnL02zc"
+    },
+    {
+      "added_at": "2021-05-07 15:30:08",
+      "album": {
+        "name": "COLECCION Volumen 5",
+        "url": "https://open.spotify.com/album/5V5bvTtqymqaymOEweXxqk"
+      },
+      "artists": [
+        {
+          "name": "Rebeca",
+          "url": "https://open.spotify.com/artist/3IekGBVtJ2XDErmuSPjSGE"
+        }
+      ],
+      "duration_ms": 181368,
+      "name": "Hastio",
+      "url": "https://open.spotify.com/track/5E1hhG7rRVfE2BuNdnCRkK"
     },
     {
       "added_at": "2021-05-07 15:30:08",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2021-05-07 15:30:08",
       "album": {
-        "name": "Un Siglo... De Recuerdos Con El Mas Grande Trovador Mexicano Guty Cardenas",
-        "url": "https://open.spotify.com/album/4o0wE1QwrpQmb5ndTQl0nW"
-      },
-      "artists": [
-        {
-          "name": "Guty C\u00e1rdenas",
-          "url": "https://open.spotify.com/artist/1XXNhXjfbtXeW1amhbUKIW"
-        }
-      ],
-      "duration_ms": 191493,
-      "name": "Aventurera ( Remasterizado )",
-      "url": "https://open.spotify.com/track/541BvxPhWSkO7MQzMEMSp0"
-    },
-    {
-      "added_at": "2021-05-07 15:30:08",
-      "album": {
         "name": "La Coleccion Del Siglo",
         "url": "https://open.spotify.com/album/0K44c2pTRwvLo24xyknbpb"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 186106,
       "name": "Cuerdas de Mi Guitarra",
       "url": "https://open.spotify.com/track/4lWUMFgf3gIrS2A05trqI9"
+    },
+    {
+      "added_at": "2021-05-07 15:30:08",
+      "album": {
+        "name": "Un Siglo... De Recuerdos Con El Mas Grande Trovador Mexicano Guty Cardenas",
+        "url": "https://open.spotify.com/album/4o0wE1QwrpQmb5ndTQl0nW"
+      },
+      "artists": [
+        {
+          "name": "Guty C\u00e1rdenas",
+          "url": "https://open.spotify.com/artist/1XXNhXjfbtXeW1amhbUKIW"
+        }
+      ],
+      "duration_ms": 191493,
+      "name": "Aventurera ( Remasterizado )",
+      "url": "https://open.spotify.com/track/541BvxPhWSkO7MQzMEMSp0"
     },
     {
       "added_at": "2021-05-07 15:30:08",

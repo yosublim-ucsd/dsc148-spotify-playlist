@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBkH6REkPEr.md) - [plain]
 
 > Floor fillers and big streamers of 2014.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,319 likes - 81 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,412 likes - 81 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBkH6REkPEr.md) - [plain]
 | 36 | [Sunlight \(feat\. Years & Years\) \- Radio Edit](https://open.spotify.com/track/5r3aYGutXgsxSqB6W3RrzJ) | [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM), [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Sunlight \(feat\. Years & Years\) \[Radio Edit\]](https://open.spotify.com/album/7yDiBp7t2j6OT7KopH2ulG) | 3:13 |
 | 37 | [Changing](https://open.spotify.com/track/1LrYRj1iFsm9QJ72YqPTLY) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [Life \(Deluxe\)](https://open.spotify.com/album/44OSVbfmYeai7d1Euvqwpx) | 3:25 |
 | 38 | [She Moves](https://open.spotify.com/track/6ggAYREO7PlFwI2vbOG3dp) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Graham Candy](https://open.spotify.com/artist/71KlQX0q5wz5f9iytwPfou) | [Synesthesia](https://open.spotify.com/album/4aJZ9Dc6SRtaGYOz4d5PGd) | 3:17 |
-| 39 | [Sad Machine](https://open.spotify.com/track/1JY6B9ILvmRla2IKKRZvnH) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Worlds](https://open.spotify.com/album/7AJPV0L05IyIBid97AvwVD) | 5:50 |
-| 40 | [UFO \- Radio Edit](https://open.spotify.com/track/7azVJ6AgvPLOum1tppactO) | [Vigiland](https://open.spotify.com/artist/3tLYpanVDomWAZqF82NPds) | [UFO](https://open.spotify.com/album/5fkAvx2E00HYs3bQAmRIBy) | 2:24 |
+| 39 | [UFO \- Radio Edit](https://open.spotify.com/track/7azVJ6AgvPLOum1tppactO) | [Vigiland](https://open.spotify.com/artist/3tLYpanVDomWAZqF82NPds) | [UFO](https://open.spotify.com/album/5fkAvx2E00HYs3bQAmRIBy) | 2:24 |
+| 40 | [Sad Machine](https://open.spotify.com/track/1JY6B9ILvmRla2IKKRZvnH) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Worlds](https://open.spotify.com/album/7AJPV0L05IyIBid97AvwVD) | 5:50 |
 | 41 | [Something New](https://open.spotify.com/track/5C4NMi4fPpdFPnMZVsyG8H) | [Axwell /\\ Ingrosso](https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz), [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43), [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP) | [More Than You Know](https://open.spotify.com/album/6Ei5WWek37m1x9AjpSXTcJ) | 4:07 |
 | 42 | [Cocaine Model](https://open.spotify.com/track/5Z3trOR982mBrJcPfrLUsq) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2) | [THE NIGHTDAY](https://open.spotify.com/album/59irM3hSsX9Kpj31rJnsHc) | 4:15 |
 | 43 | [Cut Your Teeth \- Kygo Remix](https://open.spotify.com/track/1y4Kln6VEjQMpmHW7j9GeY) | [Kyla La Grange](https://open.spotify.com/artist/6KcmUwBzfwLaYxdfIboqcp), [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [Cut Your Teeth \(Kygo Remix\)](https://open.spotify.com/album/2i4AbvFA9e6XszmH1x4G2h) | 6:39 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBkH6REkPEr.md) - [plain]
 | 80 | [Open Wide \(feat\. Big Sean\)](https://open.spotify.com/track/64j3Bd62HTe0pclk8Aq9BE) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Motion](https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS) | 3:07 |
 | 81 | [What I Did for Love \(feat\. Emeli Sandé\)](https://open.spotify.com/track/6MwVKtxsg5cp0tmFHZ3P3U) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Listen \(Deluxe\)](https://open.spotify.com/album/3UEEPh5wsdhP7SKC31yvhu) | 3:27 |
 
-Snapshot ID: `MCxkZGM0MTllMmI2ZDZmOWRlOTcxZDRhYmFmZWRlNzIwMzk0ZmFkODZh`
+Snapshot ID: `MCw0ODQxODU3YTZiMWJlYTcwOTRlODU1MWE4YWQ4MWUzZWNhMWJlMjMz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: Dehd
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,484 likes - 125 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,538 likes - 125 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 33 | [Dallas](https://open.spotify.com/track/7r5OPg9Bo6dO6bJVnG55iK) | [Gouge Away](https://open.spotify.com/artist/1Gi5tHYi0ptGG0G3tX9PkU) | [Dallas](https://open.spotify.com/album/5KagOtvtmB8fO9PvBVY1AJ) | 6:02 |
 | 34 | [Derailer](https://open.spotify.com/track/68qd3jmHgV7YLsJa6RJaF7) | [Wine Lips](https://open.spotify.com/artist/4fPl9Aa0FMkATDiA7AnBNM) | [Derailer](https://open.spotify.com/album/72bQ2H2xbYK6QMjt7Gqpmw) | 2:19 |
 | 35 | [Heavy](https://open.spotify.com/track/02bA26OEe0nNFyE3YcNx4K) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Letter to Self](https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ) | 3:27 |
-| 36 | [R&B](https://open.spotify.com/track/3nJFqIDFcku1zLfbC2Lrgi) | [English Teacher](https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU) | [R&B](https://open.spotify.com/album/6S1bUot55HmBNa7e1z67i2) | 2:48 |
+| 36 | [R&B](https://open.spotify.com/track/6yRsDLeo8qszcOS2u11ZDn) | [English Teacher](https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU) | [R&B](https://open.spotify.com/album/1fr1VcE4Jo3WoaUcOi7chU) | 2:48 |
 | 37 | [Avalanche Of Love](https://open.spotify.com/track/7wxQ4IYkQOeQJh1XEK3Xch) | [WITCH](https://open.spotify.com/artist/0LMkPoi2xIgpOPUSJMftqM), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [Avalanche of Love](https://open.spotify.com/album/5kHetKR92dhcg1pwoAHKso) | 3:55 |
 | 38 | [Nothing's Changed](https://open.spotify.com/track/6LHUubtVwmThrbG7GA3W8K) | [Maxband](https://open.spotify.com/artist/0p6j5TgQxg0Cwc1TPI3fhR), [A Beacon School](https://open.spotify.com/artist/5Kbx8AkkM7259YdQh4rTdX) | [Nothing's Changed](https://open.spotify.com/album/33ghK9oXVXJNkEOjT2yWF5) | 4:40 |
 | 39 | [Muriel’s Big Day Off](https://open.spotify.com/track/0HaquMHIt2eWSBsDbgvuLt) | [Being Dead](https://open.spotify.com/artist/3EFae6NKxawpxdiZDQPqp8) | [Muriel's Big Day Off](https://open.spotify.com/album/6tcGTqalMaJpbcOlHXfXhX) | 3:21 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 124 | [Cows](https://open.spotify.com/track/5MudCy3oMWOFMrq1QoMUBu) | [Silicone Prairie](https://open.spotify.com/artist/41Cb0AUOB1YtrPLiDffzb0) | [Cows](https://open.spotify.com/album/2feSGjusLrnBAxWTO67Cio) | 3:41 |
 | 125 | [Rosita](https://open.spotify.com/track/7tCrArweMQhmc2s8ad0d53) | [The Manikins](https://open.spotify.com/artist/7GW07MfbJzyhaXH4q8rJsu) | [Rosita](https://open.spotify.com/album/4ub7wQzeA0WWwstboakvmg) | 3:10 |
 
-Snapshot ID: `MCw4ZmY2ZDFkZmY1ZWM1MGQxMGQ2ODU0MTY5NTMxYzA5MmQwZWEwYjMy`
+Snapshot ID: `MCxmZGY2MWZlNjdmZDU5MzgxZDkxODkyMjhlMTUzNDdmNDhkZDVlYTFj`

@@ -4,7 +4,7 @@
 
 > ¡Pura Doble P! Chachaaauuuuuu
 
-73 songs - 3 hr 53 min
+76 songs - 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,12 +23,14 @@
 | [El AK \- En Vivo](https://open.spotify.com/track/5TQYHpJN1oFaONwaSp8q04) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Disco en Vivo \(En Vivo\)](https://open.spotify.com/album/6GFrP5y4e18yKiRnCnRYom) | 3:14 | 2023-06-30 | 2023-11-07 |
 | [El Azul](https://open.spotify.com/track/1haJsMtoBhHfvuM7XWuT3W) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [El Azul](https://open.spotify.com/album/2szyIt0ulaHnKxxyrlUCDB) | 3:07 | 2023-06-30 |  |
 | [El Belicon](https://open.spotify.com/track/5bU6rOWXTwagpjUcGp7I8N) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Raul Vega](https://open.spotify.com/artist/3RG6ihKgeBkOsLAPZxoPp9) | [El Belicón](https://open.spotify.com/album/6JkrkH0UYCBE6uHrfP2Aur) | 3:34 | 2023-06-30 |  |
-| [El Capi](https://open.spotify.com/track/7KHr7EmqGbVIHNhUVogEPw) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Sembrando](https://open.spotify.com/album/6uZz2MDaBCSnZWVafV8fKG) | 3:42 | 2023-06-30 |  |
+| [El Capi](https://open.spotify.com/track/2dwUO3wzdasVhl0ULthWPj) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Sembrando](https://open.spotify.com/album/0jCDeUgyLX8Jx3fhG8ouiZ) | 3:42 | 2024-01-26 |  |
+| [El Capi](https://open.spotify.com/track/7KHr7EmqGbVIHNhUVogEPw) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Sembrando](https://open.spotify.com/album/6uZz2MDaBCSnZWVafV8fKG) | 3:42 | 2023-06-30 | 2024-02-22 |
 | [El Gavilán](https://open.spotify.com/track/4ygQ5wSuzzNRevVjup1qV2) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [El Gavilán](https://open.spotify.com/album/5yRjJl7zzslQpbCX76s6Vi) | 2:55 | 2023-06-30 |  |
 | [El Güero](https://open.spotify.com/track/5ldwGkEmEZxNY3mXPxWr6G) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Sembrando](https://open.spotify.com/album/6uZz2MDaBCSnZWVafV8fKG) | 2:51 | 2023-06-30 | 2024-01-27 |
 | [EL HECHIZO](https://open.spotify.com/track/1mF6RkY7x1KsDBZS6cV5f1) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [EL HECHIZO](https://open.spotify.com/album/7cWrHFNgZmtltUv0ZW0BNE) | 2:47 | 2023-06-30 |  |
 | [El Tsurito](https://open.spotify.com/track/1piak4R3yW4otWWyaSqyCH) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [El Tsurito](https://open.spotify.com/album/2Vsd77mgdyNDlYG1XYmBuA) | 3:14 | 2023-06-30 |  |
-| [El Viejón de la Loma](https://open.spotify.com/track/7wqz5T8euVMYuv3BAOxWdu) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Sembrando](https://open.spotify.com/album/6uZz2MDaBCSnZWVafV8fKG) | 3:50 | 2023-06-30 |  |
+| [El Viejón de la Loma](https://open.spotify.com/track/57jaFYQpirGBqN9vDdDTW8) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Sembrando](https://open.spotify.com/album/0jCDeUgyLX8Jx3fhG8ouiZ) | 3:50 | 2024-01-26 |  |
+| [El Viejón de la Loma](https://open.spotify.com/track/7wqz5T8euVMYuv3BAOxWdu) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Sembrando](https://open.spotify.com/album/6uZz2MDaBCSnZWVafV8fKG) | 3:50 | 2023-06-30 | 2024-02-22 |
 | [Ella Baila Sola](https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Ella Baila Sola](https://open.spotify.com/album/3Mm1P5CEEAiuJqBclr2EyU) | 2:45 | 2023-06-30 |  |
 | [Escuela de la Palma \- En Vivo](https://open.spotify.com/track/28PJqcsJJmchmQLRRv4eOK) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Disco en Vivo, Vol.2 \(En Vivo\)](https://open.spotify.com/album/38axttNElf1zwOUvInHwpx) | 3:10 | 2023-06-30 | 2023-12-21 |
 | [Ex\-Special](https://open.spotify.com/track/4ix1NGkHZEiVyzoQ6cEVs3) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Ex\-Special](https://open.spotify.com/album/5dvomMEu2lIYM9p189RxIp) | 3:49 | 2023-11-06 |  |
@@ -54,7 +56,8 @@
 | [Los Pixeliados](https://open.spotify.com/track/06l90deFB5B3MY8i2Ud6Yo) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Lalo Reyes](https://open.spotify.com/artist/2uXjfliPmAWgaiY2mSAdnj) | [Ah y Que?](https://open.spotify.com/album/4tO6I5yocnvc0sSkyqyE29) | 3:01 | 2023-06-30 | 2024-01-31 |
 | [Los Pixeliados](https://open.spotify.com/track/31mO4i9sNzomO0dXfSRvnm) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Lalo Reyes](https://open.spotify.com/artist/2uXjfliPmAWgaiY2mSAdnj) | [Ah Y Que?](https://open.spotify.com/album/6CH5CWXWN2X09u7iNuMGN0) | 3:01 | 2024-01-26 |  |
 | [LUNA](https://open.spotify.com/track/3RA55zrRkyPK8Fd86hrMy8) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 2:43 | 2023-06-30 |  |
-| [Me Convertí](https://open.spotify.com/track/3trOWFkmVZzBgAmvzPPXI1) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Sembrando](https://open.spotify.com/album/6uZz2MDaBCSnZWVafV8fKG) | 3:58 | 2023-06-30 |  |
+| [Me Convertí](https://open.spotify.com/track/28dxorPKmQwv2KOm7jwtuR) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Sembrando](https://open.spotify.com/album/0jCDeUgyLX8Jx3fhG8ouiZ) | 3:58 | 2024-01-26 |  |
+| [Me Convertí](https://open.spotify.com/track/3trOWFkmVZzBgAmvzPPXI1) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Sembrando](https://open.spotify.com/album/6uZz2MDaBCSnZWVafV8fKG) | 3:58 | 2023-06-30 | 2024-02-22 |
 | [No Está Facil](https://open.spotify.com/track/2BfYlQPq501DdEfc2inL9t) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Efectos Secundarios](https://open.spotify.com/album/1OFfEo5jIQpvjQXD8OFcsx) | 2:46 | 2023-06-30 |  |
 | [NUEVA VIDA](https://open.spotify.com/track/4Nf5EZ40JenjMUKXOiyRU5) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 3:10 | 2023-06-30 |  |
 | [Peligro](https://open.spotify.com/track/231mWjDxgJH5OEQFkVIW5p) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Peligro](https://open.spotify.com/album/3k8sgSmYuXjyFdFv0Zhc3M) | 2:25 | 2023-11-06 |  |

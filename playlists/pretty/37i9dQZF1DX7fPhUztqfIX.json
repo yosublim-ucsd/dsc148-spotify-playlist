@@ -1,12 +1,12 @@
 {
   "description": "Emerging sounds in worship from everywhere.",
-  "num_followers": 121020,
+  "num_followers": 121102,
   "original_name": "New & Bold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MmMyMmRiNThhOWRjMWNiYWNjMTY3ZGQxYTQyOGFmOGE1NjhiNDE0",
+  "snapshot_id": "MCw0OTNmOWJkYWE3ZjYwZWI2MTAyZTQ3MTAxNjNmZmViZjUyMzdhYjk3",
   "tracks": [
     {
       "added_at": "2021-06-12 04:00:40",
@@ -71,22 +71,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Graves Into Gardens (Live)",
-        "url": "https://open.spotify.com/album/3AYUzOtIQoLrxDZNwaPErh"
+        "name": "Citizen of Heaven",
+        "url": "https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us"
       },
       "artists": [
         {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
         },
         {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
         }
       ],
-      "duration_ms": 452499,
-      "name": "Graves Into Gardens (Live)",
-      "url": "https://open.spotify.com/track/0pNizrRmvu5S16fH6ccm0v"
+      "duration_ms": 242401,
+      "name": "Famous For (I Believe)",
+      "url": "https://open.spotify.com/track/2RuUAwOz2vyArTaiMQUL7j"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -107,22 +107,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Citizen of Heaven",
-        "url": "https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us"
+        "name": "Graves Into Gardens (Live)",
+        "url": "https://open.spotify.com/album/3AYUzOtIQoLrxDZNwaPErh"
       },
       "artists": [
         {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
         },
         {
-          "name": "Jenn Johnson",
-          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
         }
       ],
-      "duration_ms": 242401,
-      "name": "Famous For (I Believe)",
-      "url": "https://open.spotify.com/track/2RuUAwOz2vyArTaiMQUL7j"
+      "duration_ms": 452499,
+      "name": "Graves Into Gardens (Live)",
+      "url": "https://open.spotify.com/track/0pNizrRmvu5S16fH6ccm0v"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -943,26 +943,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Gold (Live)",
-        "url": "https://open.spotify.com/album/5lV5gYbkW9MTdw3zvTgMTP"
-      },
-      "artists": [
-        {
-          "name": "Jesus Culture",
-          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
-        },
-        {
-          "name": "Bryan & Katie Torwalt",
-          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
-        }
-      ],
-      "duration_ms": 499053,
-      "name": "Gold - Live",
-      "url": "https://open.spotify.com/track/3e3PZTlVvygogXLMiMkFds"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Todos A La Mesa",
         "url": "https://open.spotify.com/album/6Etivewzt1lcrYkWUAqnd9"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 247451,
       "name": "R\u00edo",
       "url": "https://open.spotify.com/track/0DHIc3Oasiw0g8ynzaqV7O"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Gold (Live)",
+        "url": "https://open.spotify.com/album/5lV5gYbkW9MTdw3zvTgMTP"
+      },
+      "artists": [
+        {
+          "name": "Jesus Culture",
+          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+        },
+        {
+          "name": "Bryan & Katie Torwalt",
+          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
+        }
+      ],
+      "duration_ms": 499053,
+      "name": "Gold - Live",
+      "url": "https://open.spotify.com/track/3e3PZTlVvygogXLMiMkFds"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Only Name",
+        "url": "https://open.spotify.com/album/6UAzdz88by4X8abruMu5OC"
+      },
+      "artists": [
+        {
+          "name": "Bridge Worship",
+          "url": "https://open.spotify.com/artist/3VJPZ0Lo0RreJboEogQsnK"
+        }
+      ],
+      "duration_ms": 312132,
+      "name": "Only Name",
+      "url": "https://open.spotify.com/track/33ziB3AK9v2qYG4cw6D9lC"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "Roar (Live From Passion 2020)",
         "url": "https://open.spotify.com/album/3TlEGcbneZP4tE2V0dn1em"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 241600,
       "name": "Daughters of Zion",
       "url": "https://open.spotify.com/track/1cOGwFxxHG1xtkKN8Eet5I"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Only Name",
-        "url": "https://open.spotify.com/album/6UAzdz88by4X8abruMu5OC"
-      },
-      "artists": [
-        {
-          "name": "Bridge Worship",
-          "url": "https://open.spotify.com/artist/3VJPZ0Lo0RreJboEogQsnK"
-        }
-      ],
-      "duration_ms": 312132,
-      "name": "Only Name",
-      "url": "https://open.spotify.com/track/33ziB3AK9v2qYG4cw6D9lC"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Never Far (House Church)",
+        "url": "https://open.spotify.com/album/51FsVOFCZmAwrRvvQl3H72"
+      },
+      "artists": [
+        {
+          "name": "Local Sound",
+          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
+        }
+      ],
+      "duration_ms": 231964,
+      "name": "Never Far (House Church)",
+      "url": "https://open.spotify.com/track/5Z72BdPMGtQ6TGKxKO4Lwa"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "Beyond",
         "url": "https://open.spotify.com/album/145V4EnRdnOBPsRcuDTgrd"
       },
@@ -1451,18 +1467,18 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Never Far (House Church)",
-        "url": "https://open.spotify.com/album/51FsVOFCZmAwrRvvQl3H72"
+        "name": "We Have The Name",
+        "url": "https://open.spotify.com/album/081GPoVZSZxpeCclSrcKlH"
       },
       "artists": [
         {
-          "name": "Local Sound",
-          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
+          "name": "Bridge Worship",
+          "url": "https://open.spotify.com/artist/3VJPZ0Lo0RreJboEogQsnK"
         }
       ],
-      "duration_ms": 231964,
-      "name": "Never Far (House Church)",
-      "url": "https://open.spotify.com/track/5Z72BdPMGtQ6TGKxKO4Lwa"
+      "duration_ms": 346591,
+      "name": "How High",
+      "url": "https://open.spotify.com/track/3oAdET3kYDy4snDhKIKEuH"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1483,26 +1499,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Nothing To Fear (feat. Audrey Assad)",
-        "url": "https://open.spotify.com/album/36nsoq8d1sb8CKCRzISrnU"
-      },
-      "artists": [
-        {
-          "name": "The Porter's Gate",
-          "url": "https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW"
-        },
-        {
-          "name": "Audrey Assad",
-          "url": "https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw"
-        }
-      ],
-      "duration_ms": 184746,
-      "name": "Nothing To Fear (feat. Audrey Assad)",
-      "url": "https://open.spotify.com/track/5YTNd57a8P2qMA6QbGtUYv"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "You Are Fullness",
         "url": "https://open.spotify.com/album/6eEbe6FfkDdyVfSQzo0lqo"
       },
@@ -1519,18 +1515,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "We Have The Name",
-        "url": "https://open.spotify.com/album/081GPoVZSZxpeCclSrcKlH"
+        "name": "Nothing To Fear (feat. Audrey Assad)",
+        "url": "https://open.spotify.com/album/36nsoq8d1sb8CKCRzISrnU"
       },
       "artists": [
         {
-          "name": "Bridge Worship",
-          "url": "https://open.spotify.com/artist/3VJPZ0Lo0RreJboEogQsnK"
+          "name": "The Porter's Gate",
+          "url": "https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW"
+        },
+        {
+          "name": "Audrey Assad",
+          "url": "https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw"
         }
       ],
-      "duration_ms": 346591,
-      "name": "How High",
-      "url": "https://open.spotify.com/track/3oAdET3kYDy4snDhKIKEuH"
+      "duration_ms": 184746,
+      "name": "Nothing To Fear (feat. Audrey Assad)",
+      "url": "https://open.spotify.com/track/5YTNd57a8P2qMA6QbGtUYv"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1887,26 +1887,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "I Stand Amazed",
-        "url": "https://open.spotify.com/album/4hJHExE1dJPgBCFMSeRTv4"
-      },
-      "artists": [
-        {
-          "name": "Reach City Worship",
-          "url": "https://open.spotify.com/artist/7uDyMJ0rQsDhzYV4qohIX5"
-        },
-        {
-          "name": "John Wesley",
-          "url": "https://open.spotify.com/artist/5PQRezjw7uSnCQzNEgDBnq"
-        }
-      ],
-      "duration_ms": 268500,
-      "name": "I Stand Amazed",
-      "url": "https://open.spotify.com/track/6ECT93JyKbfidOzEbsuhpX"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "I Heard a Song I Can't Ignore",
         "url": "https://open.spotify.com/album/53YgGrvY32WGW97USevt8m"
       },
@@ -1927,6 +1907,26 @@
       "duration_ms": 314693,
       "name": "Never See the End",
       "url": "https://open.spotify.com/track/7rPewRYX89xFF9C64DrcZQ"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "I Stand Amazed",
+        "url": "https://open.spotify.com/album/4hJHExE1dJPgBCFMSeRTv4"
+      },
+      "artists": [
+        {
+          "name": "Reach City Worship",
+          "url": "https://open.spotify.com/artist/7uDyMJ0rQsDhzYV4qohIX5"
+        },
+        {
+          "name": "John Wesley",
+          "url": "https://open.spotify.com/artist/5PQRezjw7uSnCQzNEgDBnq"
+        }
+      ],
+      "duration_ms": 268500,
+      "name": "I Stand Amazed",
+      "url": "https://open.spotify.com/track/6ECT93JyKbfidOzEbsuhpX"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -2083,6 +2083,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "God of the Breakthrough",
+        "url": "https://open.spotify.com/album/0h2DEw5z4tM95DMLudOIQ0"
+      },
+      "artists": [
+        {
+          "name": "Crossroads Music",
+          "url": "https://open.spotify.com/artist/5vil8APJ8ohuFhg8mxEOWY"
+        }
+      ],
+      "duration_ms": 262800,
+      "name": "God of the Breakthrough",
+      "url": "https://open.spotify.com/track/0dSvYWwe7UjkYJwuBBfHOq"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "The King In All His Beauty",
         "url": "https://open.spotify.com/album/2FNhYGpwU2EXdBaZQ0v6ud"
       },
@@ -2103,18 +2119,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "God of the Breakthrough",
-        "url": "https://open.spotify.com/album/0h2DEw5z4tM95DMLudOIQ0"
+        "name": "We Rise We Bow",
+        "url": "https://open.spotify.com/album/6vQiAyokbSLC6BJUZlkKtr"
       },
       "artists": [
         {
-          "name": "Crossroads Music",
-          "url": "https://open.spotify.com/artist/5vil8APJ8ohuFhg8mxEOWY"
+          "name": "Cageless Birds",
+          "url": "https://open.spotify.com/artist/4rZuQD42ETklGQfWmgvqBR"
+        },
+        {
+          "name": "Melissa Helser",
+          "url": "https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r"
         }
       ],
-      "duration_ms": 262800,
-      "name": "God of the Breakthrough",
-      "url": "https://open.spotify.com/track/0dSvYWwe7UjkYJwuBBfHOq"
+      "duration_ms": 339642,
+      "name": "White as Snow",
+      "url": "https://open.spotify.com/track/5XDn9aUqCUt0VAH8gOWjIp"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -2135,26 +2155,6 @@
       "duration_ms": 289800,
       "name": "Great Things",
       "url": "https://open.spotify.com/track/4wd6H46YrbJYKe7BDBlyp6"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "We Rise We Bow",
-        "url": "https://open.spotify.com/album/6vQiAyokbSLC6BJUZlkKtr"
-      },
-      "artists": [
-        {
-          "name": "Cageless Birds",
-          "url": "https://open.spotify.com/artist/4rZuQD42ETklGQfWmgvqBR"
-        },
-        {
-          "name": "Melissa Helser",
-          "url": "https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r"
-        }
-      ],
-      "duration_ms": 339642,
-      "name": "White as Snow",
-      "url": "https://open.spotify.com/track/5XDn9aUqCUt0VAH8gOWjIp"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -2319,6 +2319,26 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Lord You Have My Heart (feat. Martin Smith)",
+        "url": "https://open.spotify.com/album/2ruV9qUcGIV9SKOQpHrINS"
+      },
+      "artists": [
+        {
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
+        },
+        {
+          "name": "Martin Smith",
+          "url": "https://open.spotify.com/artist/4bY9UB7BwlfZCAnKJPzGIz"
+        }
+      ],
+      "duration_ms": 267467,
+      "name": "Lord You Have My Heart (feat. Martin Smith)",
+      "url": "https://open.spotify.com/track/5zQBaedwtzHmC1z5OSNqvX"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "Your Name (Live)",
         "url": "https://open.spotify.com/album/3gtzVT6Ai7m4pxfdv1KnjG"
       },
@@ -2355,26 +2375,6 @@
       "duration_ms": 409909,
       "name": "The Blessing (feat. Maranda Curtis) - Song Session",
       "url": "https://open.spotify.com/track/0bicWqcGF8HXaaBB1HqnxR"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Lord You Have My Heart (feat. Martin Smith)",
-        "url": "https://open.spotify.com/album/2ruV9qUcGIV9SKOQpHrINS"
-      },
-      "artists": [
-        {
-          "name": "Elle Limebear",
-          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
-        },
-        {
-          "name": "Martin Smith",
-          "url": "https://open.spotify.com/artist/4bY9UB7BwlfZCAnKJPzGIz"
-        }
-      ],
-      "duration_ms": 267467,
-      "name": "Lord You Have My Heart (feat. Martin Smith)",
-      "url": "https://open.spotify.com/track/5zQBaedwtzHmC1z5OSNqvX"
     }
   ],
   "unique_name": "New & Bold",

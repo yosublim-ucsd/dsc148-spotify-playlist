@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LY1d1nRWvR.md) - [plain]
 
 > Kick back  and soak up the warm and soothing tones of jazz and electronic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,521 likes - 50 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,526 likes - 50 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LY1d1nRWvR.md) - [plain]
 | 16 | [Movementt](https://open.spotify.com/track/1zYA5cNkQnFyyVOZaY7lqO) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Movementt](https://open.spotify.com/album/4jZE92oJG0NgpXB6gBKe8K) | 3:33 |
 | 17 | [Lagoon](https://open.spotify.com/track/1He6UQuHm8q2skPrOFKnja) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Lagoon](https://open.spotify.com/album/3iEWAuVwDEYuGuOpl0ztyE) | 4:15 |
 | 18 | [Two Steps](https://open.spotify.com/track/6iPfkO3MvKEZcD7OnGWzFB) | [Maths Time Joy](https://open.spotify.com/artist/3w18CP1k8zFZb1GfRlPHyK), [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Two Steps](https://open.spotify.com/album/7mnUY7L09wxAiEp6ERMbjI) | 4:02 |
-| 19 | [Bamboo](https://open.spotify.com/track/4nEHMZYdH2z4vPO8nJW9wF) | [Harvey Sutherland](https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf) | [Brothers](https://open.spotify.com/album/731CVmFi5tJ0gT2wvVQAss) | 6:16 |
-| 20 | [Nankoo on Keys](https://open.spotify.com/track/4VImgRabUMMuNYftIVN3Go) | [Al Dobson Jr.](https://open.spotify.com/artist/3YOthLzFPTgp0fEtLRUoES), [Reginald Omas Mamode](https://open.spotify.com/artist/5f6KVvbRDEzdb6zTNVpYZy) | [Rye Lane Vol\. 1](https://open.spotify.com/album/5rjE3dz41m5JeNhDtq7Ahh) | 2:12 |
+| 19 | [Nankoo on Keys](https://open.spotify.com/track/4VImgRabUMMuNYftIVN3Go) | [Al Dobson Jr.](https://open.spotify.com/artist/3YOthLzFPTgp0fEtLRUoES), [Reginald Omas Mamode](https://open.spotify.com/artist/5f6KVvbRDEzdb6zTNVpYZy) | [Rye Lane Vol\. 1](https://open.spotify.com/album/5rjE3dz41m5JeNhDtq7Ahh) | 2:12 |
+| 20 | [Bamboo](https://open.spotify.com/track/4nEHMZYdH2z4vPO8nJW9wF) | [Harvey Sutherland](https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf) | [Brothers](https://open.spotify.com/album/731CVmFi5tJ0gT2wvVQAss) | 6:16 |
 | 21 | [Learn Your Lesson \- Photay Remix](https://open.spotify.com/track/3s8yxBdiXFlEi6y0gfGreR) | [Madison McFerrin](https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e), [Photay](https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F) | [Finding Foundations \(The Remixes\)](https://open.spotify.com/album/3k2eNuf5EEc1KUMrjJaskk) | 6:07 |
 | 22 | [Ho Chi Min](https://open.spotify.com/track/2vykok21C0IyTjpvUOcBWi) | [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G), [Bèo Dạt Mây Trôi](https://open.spotify.com/artist/5aiU9zkwOsUWaoKL3LZhvM), [HCMC Students](https://open.spotify.com/artist/7eTh42doMpsnT6Z6pKI9tK) | [Trips \#2: Vietnam](https://open.spotify.com/album/1NNk1ZIK6pil96rgNOXuBY) | 7:20 |
 | 23 | [Rainbow Road](https://open.spotify.com/track/2R9lqoximtsPHmnuvj3ptd) | [Dan Kye](https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf) | [Small Moments](https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC) | 5:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LY1d1nRWvR.md) - [plain]
 | 49 | [Mind](https://open.spotify.com/track/5sfTya6OQoW2rDLKSVT2Qk) | [Fatima](https://open.spotify.com/artist/5uNCGgWH5Id1cW8kh9Sc67), [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Follow You EP \(feat\. Floating Points\)](https://open.spotify.com/album/5dt7lQjyinjDt7y0a8tzmw) | 4:27 |
 | 50 | [Straight Line \- Neil Cowley Remix](https://open.spotify.com/track/2aZCiyNWSZp18PSokglthU) | [Holly Walker](https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC), [Neil Cowley](https://open.spotify.com/artist/3jrpFxybBbCCh7EGCXMfdB) | [Straight Line \(Remixed\)](https://open.spotify.com/album/18KriOV8L1wKfthvb2m2LE) | 6:16 |
 
-Snapshot ID: `MCxlNTQ4ODEwNWFhZjBkN2E1ZGQ4MjUwOGY5NjEzYWFiODgzN2VmM2Y1`
+Snapshot ID: `MCxhNjUyNzE5NTQyNmU4MDEyMzk4NTdiYjAzYWVkMGZlMDJiNTBlZThm`

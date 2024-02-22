@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tmmwE.md) - [plain]
 
 > This is Bo Bundy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,027 likes - 48 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,026 likes - 48 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,11 +21,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tmmwE.md) - [plain]
 | 11 | [Que Caramba](https://open.spotify.com/track/7iPskbMmivTkYKGTkM4Y3m) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS), [Grupo Zaaz](https://open.spotify.com/artist/3reo0BlmIcT0KnUfkolHuw), [Tropical Panamá](https://open.spotify.com/artist/5ztS529zLHyaHXhGi0kwsb) | [El Unico Desmadre De Mi Madre](https://open.spotify.com/album/1wmOkfoXchbPEPP1oz4pAW) | 4:24 |
 | 12 | [Bofo](https://open.spotify.com/track/1w8E3O3yhbPGPBbVZf6TZq) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Nino de Oro](https://open.spotify.com/album/58gcWA2WJpH0VZvzTn6ecM) | 2:44 |
 | 13 | [Before The Next Teardrop Falls](https://open.spotify.com/track/4Om2jfATPD0nhnEcaI0U1H) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [The Lonestar \(Side A\)](https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp) | 2:42 |
-| 14 | [Touring Tx](https://open.spotify.com/track/3QUhAIRAiWTAZXPPWsDinU) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [The Lonestar \(Side B\)](https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D) | 2:39 |
+| 14 | [Tonta \(feat\. Bo Bundy\)](https://open.spotify.com/track/1hjCOR7uTvgHasjaFyDsD8) | [Rozay](https://open.spotify.com/artist/63kl9Ma06XOmqeKyT3BOxm), [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Hustle & Flow](https://open.spotify.com/album/49ewNITw9KZVWGJoGUKuD5) | 2:24 |
 | 15 | [Vida Lujosa](https://open.spotify.com/track/4i6R1XRaZeoq3TwT6zqTdB) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [El Unico Desmadre De Mi Madre](https://open.spotify.com/album/1wmOkfoXchbPEPP1oz4pAW) | 2:31 |
 | 16 | [Pancho Villa](https://open.spotify.com/track/4PKICIEfVIVTpPN2X7KQEh) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Nino de Oro](https://open.spotify.com/album/58gcWA2WJpH0VZvzTn6ecM) | 1:57 |
 | 17 | [Mexican Heaven](https://open.spotify.com/track/0YzkYtsG5jFfK1k22n3kCz) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [The Lonestar \(Side A\)](https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp) | 2:00 |
-| 18 | [Tonta \(feat\. Bo Bundy\)](https://open.spotify.com/track/1hjCOR7uTvgHasjaFyDsD8) | [Rozay](https://open.spotify.com/artist/63kl9Ma06XOmqeKyT3BOxm), [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Hustle & Flow](https://open.spotify.com/album/49ewNITw9KZVWGJoGUKuD5) | 2:24 |
+| 18 | [Touring Tx](https://open.spotify.com/track/3QUhAIRAiWTAZXPPWsDinU) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [The Lonestar \(Side B\)](https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D) | 2:39 |
 | 19 | [Suicidal Thoughts](https://open.spotify.com/track/2K5zpAajpUKkfMnYCv7mUV) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [El Unico Desmadre De Mi Madre](https://open.spotify.com/album/1wmOkfoXchbPEPP1oz4pAW) | 2:48 |
 | 20 | [Bien Horniado](https://open.spotify.com/track/6S2sOrNF7Ur33z5gznLeck) | [Big Los](https://open.spotify.com/artist/1FHtqDcXHlMd3icr4Gb5De), [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS), [Jandres](https://open.spotify.com/artist/1dm56ndSieUS8r21629uvt) | [Bien Horniado](https://open.spotify.com/album/4DVC0WC5r18Ewj54X9FX3R) | 3:12 |
 | 21 | [El Drogadito](https://open.spotify.com/track/1GPYWbUkHA2ZG7te2SrwDk) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS), [Shrt Lyfe](https://open.spotify.com/artist/4gO0CVUzBlzhSRPwxajfbF) | [The Lonestar \(Side A\)](https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp) | 1:45 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tmmwE.md) - [plain]
 | 47 | [Like Sheen](https://open.spotify.com/track/6dMLp2T3kdrEJjmnUssBhn) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS), [Ronnie Trees](https://open.spotify.com/artist/5wvqDnrMEfNwAPCFr8u0qR) | [Contra el Mundo](https://open.spotify.com/album/54CaxF5mj1rXGAHRE5DiAK) | 1:27 |
 | 48 | [Iced Up](https://open.spotify.com/track/0CIwHAk9lkaNoHLx087IqV) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS), [Trill Wavy](https://open.spotify.com/artist/1KxUNpDUvoNJNUqBmGCD7L) | [Contra el Mundo](https://open.spotify.com/album/54CaxF5mj1rXGAHRE5DiAK) | 2:28 |
 
-Snapshot ID: `Mjg0NzQxMzEsMDAwMDAwMDA4NjY0OWM1OTYzYmU2MDcxYzUwZGYyZTkxZTAzMWMwMA==`
+Snapshot ID: `Mjg0NzUyOTAsMDAwMDAwMDBiOThlNjJkODQzMjEyMDdhMGEwOWY4ZmZhMjNhMzU4Mw==`

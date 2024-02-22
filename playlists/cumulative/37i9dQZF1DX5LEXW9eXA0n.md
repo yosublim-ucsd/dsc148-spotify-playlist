@@ -4,7 +4,7 @@
 
 > New & hot K\-Pop ballads\. \(Cover:KIMBUMSOO\(김범수\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,152 songs - 3 day 2 hr 37 min
+1,153 songs - 3 day 2 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -729,6 +729,7 @@
 | [Only You](https://open.spotify.com/track/1PrTalIGiaPcUGTRNe5eNB) | [Lee Hyun](https://open.spotify.com/artist/6MLmtxHkGVuPhYIcMUm1AQ) | [Eve, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/4RFyDkwHHZKpxXYleEs2U8) | 4:10 | 2022-08-01 | 2022-11-23 |
 | [Only You](https://open.spotify.com/track/6ubmkHNAPgJnqHUVb0qZ2M) | [Lim Changjung](https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5) | [Only You](https://open.spotify.com/album/0Si3voeOstMVmSawqW9NJs) | 4:33 | 2023-03-15 | 2023-07-08 |
 | [Only you](https://open.spotify.com/track/6GukZESVRKPnnz4vZGUNxC) | [Tophyun](https://open.spotify.com/artist/4g7R2X5sUsylJwYxnfwCJR) | [Only you](https://open.spotify.com/album/6sk67Q2zl9EQezx5Edm8hx) | 3:10 | 2023-06-15 | 2023-12-14 |
+| [Only You](https://open.spotify.com/track/3Mt6BKkyUfbuJwjEurTeYr) | [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [Only You \(Bargobargo X Yebit\)](https://open.spotify.com/album/1eHnLAfXK4mgSlSSXnWbeg) | 3:46 | 2024-02-21 |  |
 | [Only you \(Romance 101 X Yang Yo Seop\)](https://open.spotify.com/track/6YXYyEdmUNDuzNIiRBVZQi) | [Yang Yoseob](https://open.spotify.com/artist/1fwMtpwCEJovQuyxSuHcAd) | [Only you \(Romance 101 X Yang Yo Seop\)](https://open.spotify.com/album/0pB5NYeRyaboqz4ZUFdxhZ) | 3:23 | 2022-03-24 | 2022-04-16 |
 | [Only you don't know \(Samsung New Retro Series\)](https://open.spotify.com/track/6Zvu8RwsRkogAb5AvBpF2x) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [Only you don't know \(Samsung New Retro Series\)](https://open.spotify.com/album/5DqfLEt9syg644ToarPkZU) | 4:05 | 2021-12-23 | 2022-06-12 |
 | [ordinary farewell](https://open.spotify.com/track/5nm7Wbp1gXSqEFu1v54zdA) | [Letter flow](https://open.spotify.com/artist/19jNQxmNBaXJlXdvLHtrHY) | [ordinary farewell](https://open.spotify.com/album/20BErIiY911MKyHgfx1Mne) | 3:50 | 2022-07-07 | 2022-09-06 |

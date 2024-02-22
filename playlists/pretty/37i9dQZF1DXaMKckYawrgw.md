@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMKckYawrgw.md) - [plain]
 
 > ¡Ska 100% Mexicano, círculos de paz y baile! Panteón Rococó en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,880 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,882 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,12 +83,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMKckYawrgw.md) - [plain]
 | 73 | [Somos](https://open.spotify.com/track/32cN25vFyAg3SlY5UrwNyr) | [Kotardo](https://open.spotify.com/artist/3vNYbJoqDoeMKsNeCPo79P) | [Somos](https://open.spotify.com/album/5X8S69HVzok5dsfLRcoRVA) | 2:25 |
 | 74 | [Veneno](https://open.spotify.com/track/1NY1Vze2kFDsc5PN3OYcTm) | [La Tremenda Korte](https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt) | [Venga la Sentencia](https://open.spotify.com/album/0x38zEUnqO1aQQtsVEQ6Wd) | 3:16 |
 | 75 | [Me Amborracho](https://open.spotify.com/track/7akA6GnMQrTGrnUHWokYG7) | [Maskatesta](https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE) | [Entre Marzo Y Abril](https://open.spotify.com/album/5Pj2lJ790IKbuxXCFRan3h) | 3:17 |
-| 76 | [Psicótico](https://open.spotify.com/track/2UIKtXDPfydvJTQunrum7H) | [Timo Pacheco](https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl), [Dr\. Shenka](https://open.spotify.com/artist/1RmxwlZ0O7vosdy4GL9BHu) | [Psicótico](https://open.spotify.com/album/1EqLEKvEuAyL0oZqYcBHVP) | 2:56 |
-| 77 | [Tiempos Rudos](https://open.spotify.com/track/5qht8RdY5udwYthby8sgGT) | [Pánico Latino](https://open.spotify.com/artist/4vU814JP2hKv5D3kJD6ozf) | [Panico Latino](https://open.spotify.com/album/7qkoi8d0QgZxt8kzFmg3Zt) | 3:49 |
+| 76 | [Tiempos Rudos](https://open.spotify.com/track/5qht8RdY5udwYthby8sgGT) | [Pánico Latino](https://open.spotify.com/artist/4vU814JP2hKv5D3kJD6ozf) | [Panico Latino](https://open.spotify.com/album/7qkoi8d0QgZxt8kzFmg3Zt) | 3:49 |
+| 77 | [Psicótico](https://open.spotify.com/track/2UIKtXDPfydvJTQunrum7H) | [Timo Pacheco](https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl), [Dr\. Shenka](https://open.spotify.com/artist/1RmxwlZ0O7vosdy4GL9BHu) | [Psicótico](https://open.spotify.com/album/1EqLEKvEuAyL0oZqYcBHVP) | 2:56 |
 | 78 | [Rudy Rude Boy](https://open.spotify.com/track/0knRFhZtR19PH5qteuV778) | [Los Skarnales](https://open.spotify.com/artist/0Fs8ncEYnVSmzepxUocr5n) | [Vatos Rudos Forever! \(1994\-2014\)](https://open.spotify.com/album/73GO7U8UfkyfRcTe2Al0yt) | 3:30 |
 | 79 | [Mi Chica Ideal](https://open.spotify.com/track/4VaIJ0IyODvob50CWAgYiX) | [Baby Aventurero](https://open.spotify.com/artist/1eP1MBd6JVgwcen8WOjFNs), [Pepe Grela](https://open.spotify.com/artist/6XENWUH8sbcMMKNf37O1eZ) | [Mi Chica Ideal](https://open.spotify.com/album/0VSazinx299J4PqvRkJZ0S) | 3:39 |
-| 80 | [Sweet Loneliness](https://open.spotify.com/track/2Cn1tMwzh9CIss44E57mwj) | [Travelers All Stars](https://open.spotify.com/artist/7DZB5WWuNnc86cwhzv7Uuj) | [Birth of the Fourth Wave of Ska](https://open.spotify.com/album/2yeVq9vmJ4Xto4Lnqjw6eB) | 4:09 |
-| 81 | [Que te vaya bien](https://open.spotify.com/track/6Td4LDJch1EraQYeYN059A) | [Melodycans](https://open.spotify.com/artist/1kjHfeJNTbCFiDwz0xJbNF) | [Que te vaya bien](https://open.spotify.com/album/3kTb1R0C7ENAQdS6ZTbeCp) | 2:54 |
+| 80 | [Que te vaya bien](https://open.spotify.com/track/6Td4LDJch1EraQYeYN059A) | [Melodycans](https://open.spotify.com/artist/1kjHfeJNTbCFiDwz0xJbNF) | [Que te vaya bien](https://open.spotify.com/album/3kTb1R0C7ENAQdS6ZTbeCp) | 2:54 |
+| 81 | [Sweet Loneliness](https://open.spotify.com/track/2Cn1tMwzh9CIss44E57mwj) | [Travelers All Stars](https://open.spotify.com/artist/7DZB5WWuNnc86cwhzv7Uuj) | [Birth of the Fourth Wave of Ska](https://open.spotify.com/album/2yeVq9vmJ4Xto4Lnqjw6eB) | 4:09 |
 | 82 | [Tema de la Parranda Magna](https://open.spotify.com/track/5er1BnXaAYIQsbtS9vruUZ) | [La Parranda Magna](https://open.spotify.com/artist/1mfVKBLO3fW0P0A72HvBIH) | [Nunca Nos Compusimos](https://open.spotify.com/album/6I9M5LkuP3I8ZlxFTQU4Up) | 4:00 |
 | 83 | [Gata bajo la lluvia](https://open.spotify.com/track/0J2iP4xkhj6ZlQQ4mKndON) | [Los Tianguis](https://open.spotify.com/artist/1fa3AKOYR1d4MDrnPKoYxG) | [Para Toda la Galaxia vol\. 2](https://open.spotify.com/album/6luxn1l5vG8abhh9whh37a) | 4:12 |
 | 84 | [Jamaica Ska](https://open.spotify.com/track/0TC4bsmObl4K0tbI5IFcTD) | [Toño Quirazco](https://open.spotify.com/artist/2uu3Ci708BPlF2oXSCeSeo) | [Jamaica Ska](https://open.spotify.com/album/6DDi0g2UP6IYKTY8xyT2Xq) | 2:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMKckYawrgw.md) - [plain]
 | 99 | [Mérida Ska](https://open.spotify.com/track/5watJHxDxO5RLv7ye4HHXy) | [Toño Quirazco](https://open.spotify.com/artist/2uu3Ci708BPlF2oXSCeSeo) | [Jamaica Ska](https://open.spotify.com/album/6DDi0g2UP6IYKTY8xyT2Xq) | 2:33 |
 | 100 | [Felicidad](https://open.spotify.com/track/4nO5Ljx7tRrYqC6t3BGRhg) | [Girls Go Ska](https://open.spotify.com/artist/0jLRSH7uzp7DAbl3vfBhjo) | [Frente al Mar](https://open.spotify.com/album/5mo377nus6GhMWCoPMhi7n) | 5:04 |
 
-Snapshot ID: `MCwzZDNiNWFkMWI2ZmYwNmNiZjFkNzVhY2YyMDZkZDcxMzljODYxMWVm`
+Snapshot ID: `MCw4NWE5NWZlNTIwODI0MzIwMDc4MGY5OGE2YzMwMjA4ZjEwMDdkOWU5`

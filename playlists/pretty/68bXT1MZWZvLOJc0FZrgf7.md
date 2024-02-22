@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 
 > Dance to your favorite electronic hits 🪩 2024 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave 🕺 Cover: Icona Pop
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 104,825 likes - 143 songs - 7 hr 17 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 104,822 likes - 143 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 | 20 | [Beat Of Your Heart](https://open.spotify.com/track/4luohviQijMNU3yWu8xUMr) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Beat Of Your Heart](https://open.spotify.com/album/2MGAPw592ly4ydVblvcMqr) | 3:29 |
 | 21 | [This Moment](https://open.spotify.com/track/2kM9z0qXLXvUjb4MqIn1U8) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82) | [This Moment](https://open.spotify.com/album/4Yohw2SkANTgUSmCruXeKX) | 2:16 |
 | 22 | [Water](https://open.spotify.com/track/4Q2IUQo8YuoCqiRrDazKK4) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Water](https://open.spotify.com/album/2GyIYK9C2K870xKjo5HI9D) | 3:11 |
-| 23 | [AEIOU](https://open.spotify.com/track/5I8YyKG5iIdOiuTFnX9YVC) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [AEIOU](https://open.spotify.com/album/2F00Hw4CHbhTPMeUllX8Oc) | 3:15 |
+| 23 | [AEIOU](https://open.spotify.com/track/5I8YyKG5iIdOiuTFnX9YVC) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [AEIOU](https://open.spotify.com/album/2F00Hw4CHbhTPMeUllX8Oc) | 3:15 |
 | 24 | [Dive \- Deluxe Mix](https://open.spotify.com/track/4iEQWcpAprfwVL0MIfWWHj) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [Dive \(Deluxe Mix\)](https://open.spotify.com/album/69jsitNk82CHx1eriu1EGk) | 4:20 |
 | 25 | [Lovely Day \- Austin Millz Remix](https://open.spotify.com/track/3BLqGwshCSzSLNZ2N9mGvy) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj), [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k) | [Lovely Day \(Austin Millz Remix\)](https://open.spotify.com/album/5Unm1ObgyJx8TvjrqjWqp1) | 2:45 |
 | 26 | [How Do I Say Goodbye \(feat\. Delaney Jane\)](https://open.spotify.com/track/7EdBkc2HvH9gIlBDtiYmY1) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [Delaney Jane](https://open.spotify.com/artist/3fuxStOqQv8TiytHeuGiE8) | [How Do I Say Goodbye \(feat\. Delaney Jane\)](https://open.spotify.com/album/2BP6zvUEaHNqxyTCSUGXPZ) | 2:49 |

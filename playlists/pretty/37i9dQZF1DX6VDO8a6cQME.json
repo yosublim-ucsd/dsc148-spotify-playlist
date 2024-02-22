@@ -1,12 +1,12 @@
 {
   "description": "The most essential R&B songs from the 90s. Cover: Ms. Lauryn Hill",
-  "num_followers": 3527863,
+  "num_followers": 3528747,
   "original_name": "I Love My '90s R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZDQxMjllZmM5YmI4ZTMyMmZlZTQ1YjRlOGIxYzA1NDY1ODkwNGQ1",
+  "snapshot_id": "MCxkMTZlYjIzNDQ3YmFiYWZmY2ZiNjdhMjI1MTdmYjllZDIzMDY3MTlm",
   "tracks": [
     {
       "added_at": "2022-09-16 08:12:46",
@@ -399,22 +399,6 @@
     {
       "added_at": "2022-09-16 08:12:46",
       "album": {
-        "name": "Rated Next",
-        "url": "https://open.spotify.com/album/3Pmonb2UZ9zckdh5S5ibVm"
-      },
-      "artists": [
-        {
-          "name": "Next",
-          "url": "https://open.spotify.com/artist/2MGT7CYlixSPxAnnkhLpaA"
-        }
-      ],
-      "duration_ms": 259440,
-      "name": "Too Close",
-      "url": "https://open.spotify.com/track/5IFCyWplye09HytIP80RCF"
-    },
-    {
-      "added_at": "2022-09-16 08:12:46",
-      "album": {
         "name": "Love Deluxe",
         "url": "https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 440466,
       "name": "No Ordinary Love",
       "url": "https://open.spotify.com/track/1oaaSrDJimABpOdCEbw2DJ"
+    },
+    {
+      "added_at": "2022-09-16 08:12:46",
+      "album": {
+        "name": "Rated Next",
+        "url": "https://open.spotify.com/album/3Pmonb2UZ9zckdh5S5ibVm"
+      },
+      "artists": [
+        {
+          "name": "Next",
+          "url": "https://open.spotify.com/artist/2MGT7CYlixSPxAnnkhLpaA"
+        }
+      ],
+      "duration_ms": 259440,
+      "name": "Too Close",
+      "url": "https://open.spotify.com/track/5IFCyWplye09HytIP80RCF"
     },
     {
       "added_at": "2021-08-20 04:02:00",
@@ -555,6 +555,22 @@
     {
       "added_at": "2021-08-20 04:02:00",
       "album": {
+        "name": "Janet",
+        "url": "https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg"
+      },
+      "artists": [
+        {
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+        }
+      ],
+      "duration_ms": 265106,
+      "name": "That's The Way Love Goes",
+      "url": "https://open.spotify.com/track/29rQJydAlO0uMyWvRIZxQg"
+    },
+    {
+      "added_at": "2021-08-20 04:02:00",
+      "album": {
         "name": "This Is How We Do It",
         "url": "https://open.spotify.com/album/4GZFWGyRE8SfRw8wEu3WoL"
       },
@@ -573,38 +589,6 @@
       "url": "https://open.spotify.com/track/6uQKuonTU8VKBz5SHZuQXD"
     },
     {
-      "added_at": "2021-08-20 04:02:00",
-      "album": {
-        "name": "Janet",
-        "url": "https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg"
-      },
-      "artists": [
-        {
-          "name": "Janet Jackson",
-          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
-        }
-      ],
-      "duration_ms": 265106,
-      "name": "That's The Way Love Goes",
-      "url": "https://open.spotify.com/track/29rQJydAlO0uMyWvRIZxQg"
-    },
-    {
-      "added_at": "2022-09-16 08:12:46",
-      "album": {
-        "name": "My Love Is Your Love",
-        "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 292400,
-      "name": "It's Not Right But It's Okay",
-      "url": "https://open.spotify.com/track/7861kBrZ5aw7o4NfggcyYW"
-    },
-    {
       "added_at": "2022-09-16 08:12:46",
       "album": {
         "name": "Brandy",
@@ -621,20 +605,20 @@
       "url": "https://open.spotify.com/track/6N9uyMZf9pbNOuomveWscp"
     },
     {
-      "added_at": "2021-08-20 04:02:00",
+      "added_at": "2022-09-16 08:12:46",
       "album": {
-        "name": "Groove Theory",
-        "url": "https://open.spotify.com/album/0VVegiriO1eyyfOKrLmxtc"
+        "name": "My Love Is Your Love",
+        "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
       },
       "artists": [
         {
-          "name": "Groove Theory",
-          "url": "https://open.spotify.com/artist/7opRqRgF9lvnVraBFCMvIj"
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
         }
       ],
-      "duration_ms": 236066,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/2lp8xjq0WTm3HZKHuDEweg"
+      "duration_ms": 292400,
+      "name": "It's Not Right But It's Okay",
+      "url": "https://open.spotify.com/track/7861kBrZ5aw7o4NfggcyYW"
     },
     {
       "added_at": "2022-08-23 02:58:10",
@@ -655,22 +639,18 @@
     {
       "added_at": "2021-08-20 04:02:00",
       "album": {
-        "name": "Where I Wanna Be",
-        "url": "https://open.spotify.com/album/01riz9JMpPdL99fYhoZaph"
+        "name": "Groove Theory",
+        "url": "https://open.spotify.com/album/0VVegiriO1eyyfOKrLmxtc"
       },
       "artists": [
         {
-          "name": "Donell Jones",
-          "url": "https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B"
-        },
-        {
-          "name": "Lisa \"Left Eye\" Lopes",
-          "url": "https://open.spotify.com/artist/64ccradw8gAQn9gMQZmEha"
+          "name": "Groove Theory",
+          "url": "https://open.spotify.com/artist/7opRqRgF9lvnVraBFCMvIj"
         }
       ],
-      "duration_ms": 243733,
-      "name": "U Know What's Up (feat. Lisa \"Left Eye\" Lopes)",
-      "url": "https://open.spotify.com/track/5PMKzsUsTpZZGsCcJBuhP2"
+      "duration_ms": 236066,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/2lp8xjq0WTm3HZKHuDEweg"
     },
     {
       "added_at": "2022-09-16 08:12:46",
@@ -687,6 +667,26 @@
       "duration_ms": 250173,
       "name": "Angel of Mine",
       "url": "https://open.spotify.com/track/1AM1o0mKbgAK5oMpY8B3Z7"
+    },
+    {
+      "added_at": "2021-08-20 04:02:00",
+      "album": {
+        "name": "Where I Wanna Be",
+        "url": "https://open.spotify.com/album/01riz9JMpPdL99fYhoZaph"
+      },
+      "artists": [
+        {
+          "name": "Donell Jones",
+          "url": "https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B"
+        },
+        {
+          "name": "Lisa \"Left Eye\" Lopes",
+          "url": "https://open.spotify.com/artist/64ccradw8gAQn9gMQZmEha"
+        }
+      ],
+      "duration_ms": 243733,
+      "name": "U Know What's Up (feat. Lisa \"Left Eye\" Lopes)",
+      "url": "https://open.spotify.com/track/5PMKzsUsTpZZGsCcJBuhP2"
     },
     {
       "added_at": "2021-08-20 04:02:00",
@@ -809,22 +809,6 @@
       "url": "https://open.spotify.com/track/1EhvYd5e7vkoN3udEN1Vyl"
     },
     {
-      "added_at": "2022-09-16 08:12:46",
-      "album": {
-        "name": "112",
-        "url": "https://open.spotify.com/album/5lSLGYViKHz22S8gEXz9Vc"
-      },
-      "artists": [
-        {
-          "name": "112",
-          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
-        }
-      ],
-      "duration_ms": 252266,
-      "name": "Cupid",
-      "url": "https://open.spotify.com/track/3kVIFDE3G89I2RPVkiRaRj"
-    },
-    {
       "added_at": "2021-08-20 04:02:00",
       "album": {
         "name": "Fever for da Flavor",
@@ -839,6 +823,22 @@
       "duration_ms": 330945,
       "name": "Knockin' da Boots",
       "url": "https://open.spotify.com/track/6x53SJOV1PAZ8ZUwH4NFXQ"
+    },
+    {
+      "added_at": "2022-09-16 08:12:46",
+      "album": {
+        "name": "112",
+        "url": "https://open.spotify.com/album/5lSLGYViKHz22S8gEXz9Vc"
+      },
+      "artists": [
+        {
+          "name": "112",
+          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
+        }
+      ],
+      "duration_ms": 252266,
+      "name": "Cupid",
+      "url": "https://open.spotify.com/track/3kVIFDE3G89I2RPVkiRaRj"
     },
     {
       "added_at": "2022-09-16 08:12:46",

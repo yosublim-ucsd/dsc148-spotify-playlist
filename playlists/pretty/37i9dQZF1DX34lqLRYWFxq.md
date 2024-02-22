@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 
 > Your weekly rock update\. Cover: Royel Otis
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,084 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,085 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 99 | [Believe Me \(Even If I'm Lying\)](https://open.spotify.com/track/5D4mRZsNbuJHUD4IyPWiTs) | [late night drive home](https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB) | [Believe Me \(Even If I'm Lying\)](https://open.spotify.com/album/2J6zYvoCvBeZzBrA1WGybw) | 2:45 |
 | 100 | [Peace Sign](https://open.spotify.com/track/5cdQMQwsHI7cJxq8UkDkpa) | [Ride](https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX) | [Peace Sign](https://open.spotify.com/album/1DQuGlBWg0HDXR6f6i9xdb) | 4:38 |
 
-Snapshot ID: `MCw5NTJiNTQ4ZTc0NGU2MmEzYWQzYTlhNDk2ZmFhMzFkN2ZiYzA3MmI5`
+Snapshot ID: `MCw4ZWI3ZTNkM2Q0OTkyZDJlNjI5MjRlYmQ1ODgwMTVhNzcxZTliNjVl`

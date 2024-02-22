@@ -1,12 +1,12 @@
 {
   "description": "If your workout doubles as an outlet for your aggression, this is the playlist for you.",
-  "num_followers": 2361512,
+  "num_followers": 2362010,
   "original_name": "Adrenaline Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOTQ4N2E1M2U0Y2M3NjYwNWFjYjJjYjA1ZDNkMzg2ZGU4ZWM1YmEy",
+  "snapshot_id": "MCwwOTA1Mjg4MWI2MzE5OWQzYWZjMzExNGM2YmNiMjIwMjhkODZmYzJj",
   "tracks": [
     {
       "added_at": "2024-01-19 09:25:39",
@@ -455,22 +455,6 @@
     {
       "added_at": "2024-01-19 09:25:39",
       "album": {
-        "name": "House of Gold & Bones, Part 1",
-        "url": "https://open.spotify.com/album/2nCHgPLLyIgxFKUBYuMKPn"
-      },
-      "artists": [
-        {
-          "name": "Stone Sour",
-          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
-        }
-      ],
-      "duration_ms": 229840,
-      "name": "Absolute Zero",
-      "url": "https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb"
-    },
-    {
-      "added_at": "2024-01-19 09:25:39",
-      "album": {
         "name": "Tonight The Stars Revolt",
         "url": "https://open.spotify.com/album/3Z3yndLeHs01iYPSNzTBBk"
       },
@@ -487,6 +471,22 @@
     {
       "added_at": "2024-01-19 09:25:39",
       "album": {
+        "name": "House of Gold & Bones, Part 1",
+        "url": "https://open.spotify.com/album/2nCHgPLLyIgxFKUBYuMKPn"
+      },
+      "artists": [
+        {
+          "name": "Stone Sour",
+          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
+        }
+      ],
+      "duration_ms": 229840,
+      "name": "Absolute Zero",
+      "url": "https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb"
+    },
+    {
+      "added_at": "2024-01-19 09:25:39",
+      "album": {
         "name": "One Day Remains",
         "url": "https://open.spotify.com/album/6hqietEuZCikevdO2oGTcx"
       },
@@ -499,6 +499,22 @@
       "duration_ms": 259959,
       "name": "Metalingus",
       "url": "https://open.spotify.com/track/3UULkHdmLDqBDPmBYltoRE"
+    },
+    {
+      "added_at": "2024-01-19 09:25:39",
+      "album": {
+        "name": "Awake",
+        "url": "https://open.spotify.com/album/4uNwpYU5QyX2u0kkkEFLR4"
+      },
+      "artists": [
+        {
+          "name": "Godsmack",
+          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
+        }
+      ],
+      "duration_ms": 304373,
+      "name": "Awake",
+      "url": "https://open.spotify.com/track/6xXlurslWqFuyqTCBlErzX"
     },
     {
       "added_at": "2024-01-19 09:25:39",
@@ -531,22 +547,6 @@
       "duration_ms": 206903,
       "name": "Jekyll and Hyde",
       "url": "https://open.spotify.com/track/5dFEX82XB1ElGFwfCp0rql"
-    },
-    {
-      "added_at": "2024-01-19 09:25:39",
-      "album": {
-        "name": "Awake",
-        "url": "https://open.spotify.com/album/4uNwpYU5QyX2u0kkkEFLR4"
-      },
-      "artists": [
-        {
-          "name": "Godsmack",
-          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
-        }
-      ],
-      "duration_ms": 304373,
-      "name": "Awake",
-      "url": "https://open.spotify.com/track/6xXlurslWqFuyqTCBlErzX"
     },
     {
       "added_at": "2024-01-19 09:25:39",
@@ -599,6 +599,22 @@
     {
       "added_at": "2024-01-19 09:25:39",
       "album": {
+        "name": "When Legends Rise",
+        "url": "https://open.spotify.com/album/2wOY4tZ3bcJecD5ypBPHg9"
+      },
+      "artists": [
+        {
+          "name": "Godsmack",
+          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
+        }
+      ],
+      "duration_ms": 177048,
+      "name": "Bulletproof",
+      "url": "https://open.spotify.com/track/0baguYeIsl8FtArOv1jV5o"
+    },
+    {
+      "added_at": "2024-01-19 09:25:39",
+      "album": {
         "name": "TRUE POWER",
         "url": "https://open.spotify.com/album/6SjY4WK6VMFYEINGVOHzGa"
       },
@@ -647,38 +663,6 @@
     {
       "added_at": "2024-01-19 09:25:39",
       "album": {
-        "name": "All Hope Is Gone",
-        "url": "https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 283400,
-      "name": "Psychosocial",
-      "url": "https://open.spotify.com/track/2MvIMgtWyK88OiPi0J8Dg3"
-    },
-    {
-      "added_at": "2024-01-19 09:25:39",
-      "album": {
-        "name": "When Legends Rise",
-        "url": "https://open.spotify.com/album/2wOY4tZ3bcJecD5ypBPHg9"
-      },
-      "artists": [
-        {
-          "name": "Godsmack",
-          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
-        }
-      ],
-      "duration_ms": 177048,
-      "name": "Bulletproof",
-      "url": "https://open.spotify.com/track/0baguYeIsl8FtArOv1jV5o"
-    },
-    {
-      "added_at": "2024-01-19 09:25:39",
-      "album": {
         "name": "Notorious",
         "url": "https://open.spotify.com/album/6zJ7mT53nFoMbtOgkPuRpD"
       },
@@ -691,6 +675,38 @@
       "duration_ms": 170160,
       "name": "Notorious",
       "url": "https://open.spotify.com/track/2ni4ZSzsQoG74IUjYvyv8n"
+    },
+    {
+      "added_at": "2024-01-19 09:25:39",
+      "album": {
+        "name": "The Oracle (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6yOWKkrlpmUWOC5yndULeq"
+      },
+      "artists": [
+        {
+          "name": "Godsmack",
+          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
+        }
+      ],
+      "duration_ms": 201666,
+      "name": "Cryin' Like A Bitch!!",
+      "url": "https://open.spotify.com/track/4a9i7rCLfPjbS1sNamZeQN"
+    },
+    {
+      "added_at": "2024-01-19 09:25:39",
+      "album": {
+        "name": "All Hope Is Gone",
+        "url": "https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 283400,
+      "name": "Psychosocial",
+      "url": "https://open.spotify.com/track/2MvIMgtWyK88OiPi0J8Dg3"
     },
     {
       "added_at": "2024-01-19 09:25:39",
@@ -763,38 +779,6 @@
     {
       "added_at": "2024-01-19 09:25:39",
       "album": {
-        "name": "Prequelle",
-        "url": "https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 219720,
-      "name": "Dance Macabre",
-      "url": "https://open.spotify.com/track/1E2WTcYLP1dFe1tiGDwRmT"
-    },
-    {
-      "added_at": "2024-01-19 09:25:39",
-      "album": {
-        "name": "The Oracle (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6yOWKkrlpmUWOC5yndULeq"
-      },
-      "artists": [
-        {
-          "name": "Godsmack",
-          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
-        }
-      ],
-      "duration_ms": 201666,
-      "name": "Cryin' Like A Bitch!!",
-      "url": "https://open.spotify.com/track/4a9i7rCLfPjbS1sNamZeQN"
-    },
-    {
-      "added_at": "2024-01-19 09:25:39",
-      "album": {
         "name": "Lifelines",
         "url": "https://open.spotify.com/album/1GpxP0nEqmQoQimVAp8bAZ"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 181426,
       "name": "Come And Get It",
       "url": "https://open.spotify.com/track/44M12pkcMqqdbNNooHCZ6C"
+    },
+    {
+      "added_at": "2024-01-19 09:25:39",
+      "album": {
+        "name": "Prequelle",
+        "url": "https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 219720,
+      "name": "Dance Macabre",
+      "url": "https://open.spotify.com/track/1E2WTcYLP1dFe1tiGDwRmT"
     },
     {
       "added_at": "2024-01-19 09:25:39",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-01-19 09:25:39",
       "album": {
-        "name": "The Sin and the Sentence",
-        "url": "https://open.spotify.com/album/3qq44o8Qqvz5JQ7b5AevLT"
-      },
-      "artists": [
-        {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
-        }
-      ],
-      "duration_ms": 243853,
-      "name": "The Heart from Your Hate",
-      "url": "https://open.spotify.com/track/5yDJpu0xh0d1w13gXaE3lS"
-    },
-    {
-      "added_at": "2024-01-19 09:25:39",
-      "album": {
         "name": "Panic",
         "url": "https://open.spotify.com/album/1n7TACcJCefyyR6UQl28BG"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 200800,
       "name": "Panic",
       "url": "https://open.spotify.com/track/7mUaGkK1gMEuo3IUWCqF0P"
+    },
+    {
+      "added_at": "2024-01-19 09:25:39",
+      "album": {
+        "name": "The Sin and the Sentence",
+        "url": "https://open.spotify.com/album/3qq44o8Qqvz5JQ7b5AevLT"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 243853,
+      "name": "The Heart from Your Hate",
+      "url": "https://open.spotify.com/track/5yDJpu0xh0d1w13gXaE3lS"
     },
     {
       "added_at": "2024-01-19 09:25:39",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-01-19 09:25:39",
       "album": {
-        "name": "The Surface",
-        "url": "https://open.spotify.com/album/5WmbnLQhy8ndx8S7puEolG"
-      },
-      "artists": [
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        }
-      ],
-      "duration_ms": 219973,
-      "name": "Might Love Myself",
-      "url": "https://open.spotify.com/track/1VLM75hY5fluRorkbIt6NT"
-    },
-    {
-      "added_at": "2024-01-19 09:25:39",
-      "album": {
         "name": "When Legends Rise",
         "url": "https://open.spotify.com/album/2wOY4tZ3bcJecD5ypBPHg9"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 172826,
       "name": "When Legends Rise",
       "url": "https://open.spotify.com/track/0zVMR0p7yRbKD6HEg9L2qs"
+    },
+    {
+      "added_at": "2024-01-19 09:25:39",
+      "album": {
+        "name": "The Surface",
+        "url": "https://open.spotify.com/album/5WmbnLQhy8ndx8S7puEolG"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "duration_ms": 219973,
+      "name": "Might Love Myself",
+      "url": "https://open.spotify.com/track/1VLM75hY5fluRorkbIt6NT"
     },
     {
       "added_at": "2024-01-19 09:25:39",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2024-01-19 09:25:39",
       "album": {
-        "name": "Creature",
-        "url": "https://open.spotify.com/album/5ZTrE6qqgvvz2aycIKtbQi"
+        "name": "American Sun",
+        "url": "https://open.spotify.com/album/5LsgpFufHGQOL4bmzJaoC7"
       },
       "artists": [
         {
-          "name": "LANDMVRKS",
-          "url": "https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6"
+          "name": "Fire From The Gods",
+          "url": "https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS"
         }
       ],
-      "duration_ms": 225278,
-      "name": "Creature",
-      "url": "https://open.spotify.com/track/6sSxQwz5SBYSLfiyRKWSkC"
+      "duration_ms": 225026,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/1cFx6g4ytDsZAx9gmap4pR"
     },
     {
       "added_at": "2024-01-19 09:25:39",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-01-19 09:25:39",
       "album": {
-        "name": "American Sun",
-        "url": "https://open.spotify.com/album/5LsgpFufHGQOL4bmzJaoC7"
-      },
-      "artists": [
-        {
-          "name": "Fire From The Gods",
-          "url": "https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS"
-        }
-      ],
-      "duration_ms": 225026,
-      "name": "Right Now",
-      "url": "https://open.spotify.com/track/1cFx6g4ytDsZAx9gmap4pR"
-    },
-    {
-      "added_at": "2024-01-19 09:25:39",
-      "album": {
         "name": "Reverence",
         "url": "https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 255230,
       "name": "Prey",
       "url": "https://open.spotify.com/track/7lMFAK8dv0QkWpIlZcWQlJ"
+    },
+    {
+      "added_at": "2024-01-19 09:25:39",
+      "album": {
+        "name": "Creature",
+        "url": "https://open.spotify.com/album/5ZTrE6qqgvvz2aycIKtbQi"
+      },
+      "artists": [
+        {
+          "name": "LANDMVRKS",
+          "url": "https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6"
+        }
+      ],
+      "duration_ms": 225278,
+      "name": "Creature",
+      "url": "https://open.spotify.com/track/6sSxQwz5SBYSLfiyRKWSkC"
     },
     {
       "added_at": "2024-01-19 09:25:39",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2024-01-19 09:25:39",
       "album": {
-        "name": "Vengeance Falls (Special Edition)",
-        "url": "https://open.spotify.com/album/1hamGtmqitOROTKc0yNhow"
+        "name": "Reverence",
+        "url": "https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL"
       },
       "artists": [
         {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 269266,
-      "name": "Strife",
-      "url": "https://open.spotify.com/track/15zUfY9L1p7bN9JsgaTAP0"
+      "duration_ms": 233079,
+      "name": "The Void",
+      "url": "https://open.spotify.com/track/5znIVOv7RucpCHGkbonySq"
     },
     {
       "added_at": "2024-01-19 09:25:39",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2024-01-19 09:25:39",
       "album": {
-        "name": "Reverence",
-        "url": "https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL"
+        "name": "Vengeance Falls (Special Edition)",
+        "url": "https://open.spotify.com/album/1hamGtmqitOROTKc0yNhow"
       },
       "artists": [
         {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 233079,
-      "name": "The Void",
-      "url": "https://open.spotify.com/track/5znIVOv7RucpCHGkbonySq"
+      "duration_ms": 269266,
+      "name": "Strife",
+      "url": "https://open.spotify.com/track/15zUfY9L1p7bN9JsgaTAP0"
     },
     {
       "added_at": "2024-01-19 09:25:39",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-01-19 09:25:39",
       "album": {
-        "name": "Five",
-        "url": "https://open.spotify.com/album/7MJ3l1iCbgr6trDod3ZOci"
-      },
-      "artists": [
-        {
-          "name": "Hollywood Undead",
-          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
-        }
-      ],
-      "duration_ms": 187654,
-      "name": "Whatever It Takes",
-      "url": "https://open.spotify.com/track/4yIge33odbDOXs0GHiZMrW"
-    },
-    {
-      "added_at": "2024-01-19 09:25:39",
-      "album": {
         "name": "Revival",
         "url": "https://open.spotify.com/album/32YNW8YEUUNnZB2LhenMAV"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 235013,
       "name": "Calm Before the Storm",
       "url": "https://open.spotify.com/track/3dhDN3hilhqEursIIg8Xko"
+    },
+    {
+      "added_at": "2024-01-19 09:25:39",
+      "album": {
+        "name": "Five",
+        "url": "https://open.spotify.com/album/7MJ3l1iCbgr6trDod3ZOci"
+      },
+      "artists": [
+        {
+          "name": "Hollywood Undead",
+          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
+        }
+      ],
+      "duration_ms": 187654,
+      "name": "Whatever It Takes",
+      "url": "https://open.spotify.com/track/4yIge33odbDOXs0GHiZMrW"
     },
     {
       "added_at": "2024-01-19 09:25:39",

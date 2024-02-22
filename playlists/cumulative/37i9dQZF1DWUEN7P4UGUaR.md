@@ -4,7 +4,7 @@
 
 > Fresh gospel music from Ghana\. Cover: Joyce Blessing
 
-82 songs - 7 hr 12 min
+83 songs - 7 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [Guide Me](https://open.spotify.com/track/3MW8vukTtZUkSQi4s9rpDb) | [KODA](https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB) | [Guide Me](https://open.spotify.com/album/0bOTT9Wp4ulzqMViuy9n2Y) | 3:47 | 2023-04-06 |  |
 | [Gyae Su](https://open.spotify.com/track/5tTbNxe0QDMHM78vdY4Nqj) | [Solomon King](https://open.spotify.com/artist/2iuZufX5th90MKHNrJI6jT) | [Gyae Su](https://open.spotify.com/album/4dmKQIOUlnx3kLkM2I7loB) | 4:18 | 2023-04-06 | 2023-06-10 |
 | [Gye Wayeyi](https://open.spotify.com/track/0vRMKxie6xpXzByMbTlqHD) | [Ceccy Twum](https://open.spotify.com/artist/388AN0RI2UvUm7RwCU5Twz) | [Gye Wayeyi](https://open.spotify.com/album/3pEaPAtG5ZW4izhcaGGRDy) | 8:05 | 2023-04-06 | 2023-06-10 |
-| [Gye Wo Nkoaa](https://open.spotify.com/track/569HzTSs0toPBtmrcC4VyD) | [Lordina The Soprano](https://open.spotify.com/artist/3y9dp9aHQ2LBUbuepkiddU), [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Gye Wo Nkoaa](https://open.spotify.com/album/11X1SIyHGMDcVooFlbqIkv) | 5:00 | 2023-06-30 |  |
+| [Gye Wo Nkoaa](https://open.spotify.com/track/1e1NtfnGiSOEF4okclf7c1) | [Lordina The Soprano](https://open.spotify.com/artist/3y9dp9aHQ2LBUbuepkiddU), [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Charis](https://open.spotify.com/album/4Qb4BzONaGMy7ByhSzHAjk) | 5:00 | 2024-02-16 |  |
+| [Gye Wo Nkoaa](https://open.spotify.com/track/569HzTSs0toPBtmrcC4VyD) | [Lordina The Soprano](https://open.spotify.com/artist/3y9dp9aHQ2LBUbuepkiddU), [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Gye Wo Nkoaa](https://open.spotify.com/album/11X1SIyHGMDcVooFlbqIkv) | 5:00 | 2023-06-30 | 2024-02-22 |
 | [Highest Praise](https://open.spotify.com/track/6Ma7cBfBwVHOKOVS6mdmue) | [Kofi Karikari](https://open.spotify.com/artist/0xhT4axNpehsv6iBReJgAE), [Adrian Sing](https://open.spotify.com/artist/2FkQhXYXjaxh5CX7silUVv) | [Lifted High](https://open.spotify.com/album/5jUhgQlpgBvDGjW8GnLKLF) | 3:42 | 2023-06-09 | 2023-07-16 |
 | [Hossana \(Live\)](https://open.spotify.com/track/0jxNjSnkH44UZZ5vWe0wVG) | [KODA](https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB) | [Hosanna \(Live\)](https://open.spotify.com/album/6L5UqzUyUe0oATYWcH0Ig8) | 5:44 | 2023-04-06 |  |
 | [I Know](https://open.spotify.com/track/7EAjENjTiYE5xhv6x7kXEe) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce) | [I Know](https://open.spotify.com/album/6HtyFbcZM4kNGxRKdiXstv) | 2:15 | 2023-05-26 | 2024-01-25 |

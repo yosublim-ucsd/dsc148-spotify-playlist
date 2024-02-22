@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: Pearl Jam
 
-[Spotify](https://open.spotify.com/user/spotify) - 451,968 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 452,077 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 18 | [Brown Paper Bag](https://open.spotify.com/track/1305CPBxxAlpxmTciVehNu) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Brown Paper Bag](https://open.spotify.com/album/6ST5FAXR1PGdcke9lHZYyY) | 4:25 |
 | 19 | [Last Frontier](https://open.spotify.com/track/16kSF0h2frEYF7ocOy9HR8) | [Ride](https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX) | [Last Frontier](https://open.spotify.com/album/0BNA6SBUu1YJiaof5vlRGD) | 4:09 |
 | 20 | [Cross Your Fingers](https://open.spotify.com/track/2kDS2SAoh9qDZjg1uNxDyz) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [Cross Your Fingers](https://open.spotify.com/album/6uHfrz1awx019bmQvuqcax) | 3:49 |
-| 21 | [Glitching Prisms](https://open.spotify.com/track/5Zj5MaYPSk2u7wJhKYTfZk) | [Night Verses](https://open.spotify.com/artist/55GUoQ2E2hze3842bFs4bb), [Brandon Boyd](https://open.spotify.com/artist/0QmjlE852mAIaEt2IpBquO) | [Glitching Prisms](https://open.spotify.com/album/58agPHzTTf6J26kA4i6yK4) | 3:30 |
+| 21 | [Glitching Prisms \(feat\. Brandon Boyd\)](https://open.spotify.com/track/5Zj5MaYPSk2u7wJhKYTfZk) | [Night Verses](https://open.spotify.com/artist/55GUoQ2E2hze3842bFs4bb), [Brandon Boyd](https://open.spotify.com/artist/0QmjlE852mAIaEt2IpBquO) | [Glitching Prisms \(feat\. Brandon Boyd\)](https://open.spotify.com/album/58agPHzTTf6J26kA4i6yK4) | 3:30 |
 | 22 | [WHALES](https://open.spotify.com/track/1HOT7wysnNM3MEC5MvAOFP) | [Blackout Problems](https://open.spotify.com/artist/22P5BkhcPUCtDGC9laXpDM) | [WHALES](https://open.spotify.com/album/55txyTCvHj8lbNNOg8PETf) | 3:40 |
 | 23 | [Something Hollow](https://open.spotify.com/track/2H2CksrYuXjTlOwCwgK6lH) | [Magic Shoppe](https://open.spotify.com/artist/60iO2Q2Y86BXH2slA0u73N) | [Something Hollow](https://open.spotify.com/album/3D3k5qHuXckK4aQ7Ygsq2n) | 4:27 |
 | 24 | [Overthinking Everything](https://open.spotify.com/track/4QTDL7Az9y4nv1qqiU2Cm6) | [Footballhead](https://open.spotify.com/artist/2nwoELT7b1GI21sww1pRwd), [snow ellet](https://open.spotify.com/artist/3aXifXPdvHIpAgrdsQIfdf) | [Overthinking Everything](https://open.spotify.com/album/7hMXLxYhlrtlecFAcfbDHL) | 2:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 49 | [Waves](https://open.spotify.com/track/4WpUZBuBcn0hH030KXCiwC) | [Circles](https://open.spotify.com/artist/40vMufIdvhPS4VFosKdDGD) | [Still.](https://open.spotify.com/album/683xxhxOF8nzxm5Yk4koud) | 2:49 |
 | 50 | [Thousand Faces](https://open.spotify.com/track/6A8dx09t3zlIbiqIE2ejfS) | [Sometimes](https://open.spotify.com/artist/6V1IyfMAzr1KK06In7truj) | [Thousand Faces](https://open.spotify.com/album/2ezik4mQHY6Wg2joCo159O) | 3:27 |
 
-Snapshot ID: `MCxkNzg1NDY3NTQ4OGI2MGM0YzAxNThjMDg3MGEwNzJlMzZmY2ExNGVj`
+Snapshot ID: `MCw3NGFkYjNkZDhmOTE5N2FlMmVkNGI2ZjlmOGIxNmFiOTY0ZmZkZTk3`

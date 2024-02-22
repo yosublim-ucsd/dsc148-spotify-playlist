@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- South Africa.
 
-1,774 songs - 5 day 2 hr 51 min
+1,775 songs - 5 day 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1087,7 +1087,7 @@
 | [No More](https://open.spotify.com/track/4GVQOvxTqXPLJ1rHvP0SwZ) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [I Love It Here](https://open.spotify.com/album/3BzDtldlIXJJGh9Qc7tbLK) | 3:01 | 2023-09-16 | 2023-09-23 |
 | [No More](https://open.spotify.com/track/7cNUMPXO8gGjKnKkXVn5T0) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [No More](https://open.spotify.com/album/1xoLz54rjNeQpRmfQB2BZk) | 3:02 | 2023-06-30 | 2023-07-29 |
 | [No Return \(with The Kid LAROI & Lil Durk\)](https://open.spotify.com/track/23OYT3SFtoJqhiAUqktbc1) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Hall of Fame](https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT) | 2:48 | 2021-06-13 | 2021-06-14 |
-| [No Role Modelz](https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive](https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG) | 4:52 | 2022-03-23 |  |
+| [No Role Modelz](https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive](https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG) | 4:52 | 2022-03-23 | 2024-02-22 |
 | [NO SECRET \(feat\. Drake\)](https://open.spotify.com/track/510mvRgE4jLSsJcBh2pH0j) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [GOD DID](https://open.spotify.com/album/0Ugwmu29r0H1nqIJJoaL9w) | 0:47 | 2022-08-27 | 2022-09-01 |
 | [No Time \(feat\. Lil Durk\)](https://open.spotify.com/track/1vicAuW47ccp1l5mYmaWi7) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [All Over The Place \(Platinum VIP Edition\)](https://open.spotify.com/album/3WgAFg6y9jmNYLdC4xzHBF) | 3:00 | 2021-07-18 | 2021-08-01 |
 | [Nobody Gets Me](https://open.spotify.com/track/5Y35SjAfXjjG0sFQ3KOxmm) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:00 | 2022-12-10 | 2023-02-01 |
@@ -1514,6 +1514,7 @@
 | [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0) | 3:05 | 2022-02-15 | 2022-02-18 |
 | [The Moment](https://open.spotify.com/track/4g6zpIxbj9jb8ewGrV1kCE) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z) | [All Over The Place \(Platinum VIP Edition\)](https://open.spotify.com/album/3WgAFg6y9jmNYLdC4xzHBF) | 2:42 | 2021-07-18 | 2021-07-19 |
 | [The Motto](https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [The Motto](https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV) | 2:44 | 2021-12-21 | 2022-09-17 |
+| [The Night We Met](https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) | 3:28 | 2024-02-21 |  |
 | [The Only Reason](https://open.spotify.com/track/3w1xg3rt6XZ8GLVuzmW5Vn) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Raised Under Grey Skies \(Deluxe\)](https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo) | 3:39 | 2022-06-29 | 2022-07-22 |
 | [The Remorse](https://open.spotify.com/track/1cCXT1cErAY6tmIqHbodrt) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 5:51 | 2021-09-05 | 2021-09-12 |
 | [The Rhythm](https://open.spotify.com/track/4JRXbRu5dLuwX9t3VOvsxI) | [Duncan Daniels](https://open.spotify.com/artist/4Hbx82x5pU9EiWxl91BXmL) | [Songs of Limitless Optimism \- S.O.L.O](https://open.spotify.com/album/0EPVjYVG94frrWfZuYwYzg) | 3:03 | 2023-04-03 | 2023-04-07 |

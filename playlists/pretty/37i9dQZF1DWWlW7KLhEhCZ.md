@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Danzo
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,815 likes - 75 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,814 likes - 75 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [VALENTINO](https://open.spotify.com/track/3GlI062UstXPkDZjSwAi4L) | [LX](https://open.spotify.com/artist/2Mpz3shu5Ud330kOoJFYpF), [Bertoi Hyper](https://open.spotify.com/artist/4ULgAMngZ83pHqS7RSgYZ0) | [Bem\-vindo a Armadilha Brasileira](https://open.spotify.com/album/6djuaxmB22F71KPU0A7CrU) | 2:24 |
 | 2 | [TROPA DO ZAZA](https://open.spotify.com/track/7M60C46QUgF45y1e77JNsI) | [The Boy](https://open.spotify.com/artist/2RDrgRouTQ289ET075WYuC), [LH CHUCRO](https://open.spotify.com/artist/3Im4m6K9QvxFBUJIOttSuH) | [TROPA DO ZAZA](https://open.spotify.com/album/1O6NWNnND9zAMilImnzl6G) | 2:45 |
 | 3 | [Doce Amargo](https://open.spotify.com/track/3PYfYGJdwe38j4DGAbFoxM) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX) | [Doce Amargo](https://open.spotify.com/album/2B3DGafThiTbaRa1S9FXqG) | 2:17 |
-| 4 | [Nota 10](https://open.spotify.com/track/6PtLdLY2eL2IXM8hXAQOjL) | [Duzz](https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz), [Tchelo](https://open.spotify.com/artist/4TeO8NSg614dB0aZPENNZj), [Jotapê](https://open.spotify.com/artist/6SZQlj3zcSmJk5uBaMiwGM), [Nomad](https://open.spotify.com/artist/5bzfrgl0xfTFeSRD64a8Np), [UCLÃ](https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP) | [Nota 10](https://open.spotify.com/album/4XMBBEhuafctO2f08XfH87) | 4:51 |
+| 4 | [Nota 10](https://open.spotify.com/track/6PtLdLY2eL2IXM8hXAQOjL) | [Duzz](https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz), [tchelo rodrigues](https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY), [Jotapê](https://open.spotify.com/artist/6SZQlj3zcSmJk5uBaMiwGM), [Nomad](https://open.spotify.com/artist/5bzfrgl0xfTFeSRD64a8Np), [UCLÃ](https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP) | [Nota 10](https://open.spotify.com/album/4XMBBEhuafctO2f08XfH87) | 4:51 |
 | 5 | [Bala De Troco](https://open.spotify.com/track/3blCy8z4yxTytjM0Q5183W) | [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5), [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL) | [Medo É Só Ilusão](https://open.spotify.com/album/2jQXDCqfn6UCdCN8VRA6eu) | 2:38 |
 | 6 | [De Fato](https://open.spotify.com/track/5qkyOZFlGtlJAFrsmHh6Ac) | [Nebrugg](https://open.spotify.com/artist/2UD8upUvL1eqllSlMpDIeC) | [De Fato](https://open.spotify.com/album/5BNfBLFWICSaeBD4Er5GI0) | 2:07 |
 | 7 | [coração gelado](https://open.spotify.com/track/6Wfa0YRwWjEOZrir00XQQ2) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e) | [Inocente "Demotape"](https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk) | 3:04 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 74 | [Sem Sentimento](https://open.spotify.com/track/3oEkGJOJBH52fLFfiW59b8) | [Canalha](https://open.spotify.com/artist/6egerencVd9waJcHzuQA77), [Young World](https://open.spotify.com/artist/3xryEc7ue6lV1kr3dp5PXY) | [Sem Sentimento](https://open.spotify.com/album/42kqhb5NxzcW2ZjK2m8QDM) | 2:27 |
 | 75 | [Barril](https://open.spotify.com/track/0CqjUcx94dcpnuSgubbOiL) | [akao.47](https://open.spotify.com/artist/28lnuiU2tScvRMesfbeHMh) | [Os Piratas do Haxixe: Barril de Goblins \(Merla Extra\)](https://open.spotify.com/album/6m4lPNRFOr9YBktxknbcah) | 2:26 |
 
-Snapshot ID: `MCxhYmYzYzYyNTQ4YmI0NDg0NGVlOGM5MDJhM2YyYWEzYjVkOTBhZGRk`
+Snapshot ID: `MCwyYjdiNjc2OTBiYzYzY2NlMjkwNThjMTY2MDAxYjg0MmExYmY4MDhk`

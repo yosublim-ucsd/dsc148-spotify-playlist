@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BaAkp.md) - [plain]
 
 > This is Arctic Monkeys\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,622,422 likes - 55 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,622,739 likes - 55 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BaAkp.md) - [plain]
 | 54 | [Mr Schwartz](https://open.spotify.com/track/5fClRRa7P9nPIpstj50veV) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [The Car](https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs) | 3:30 |
 | 55 | [The Ultracheese](https://open.spotify.com/track/3PhbzvTllkq1rkULafc6ns) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Tranquility Base Hotel & Casino](https://open.spotify.com/album/7v6FNgLDS8KmaWA1amUtqe) | 3:37 |
 
-Snapshot ID: `Mjg0NzQxMzEsMDAwMDAwMDAwYjNhOGM5Yjg4OTFhYzc1YjcxMjY3MTFjNWMyZmU4NA==`
+Snapshot ID: `Mjg0NzUyOTAsMDAwMDAwMDA0Mzc1YWM0NjBlM2JhZTcxMTg3ZGI1OWZmODQ2OGQwNA==`

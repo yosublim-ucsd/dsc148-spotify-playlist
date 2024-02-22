@@ -1,12 +1,12 @@
 {
   "description": "Gotta catch 'em all.",
-  "num_followers": 144231,
+  "num_followers": 144228,
   "original_name": "Alternative Rock's Most Precious Gems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMmRiN2FlMjZjMzY4YTQ3YjY4ZGIxMTgzZjM0YTc1YzQ3MGIzMWM4",
+  "snapshot_id": "MCxkMTFhZjQ4YWViYTIyMTg2NTFlOWY5MmUyNzNhMDYxZTU4Zjc2NDAy",
   "tracks": [
     {
       "added_at": "2024-01-18 09:41:12",
@@ -383,22 +383,6 @@
     {
       "added_at": "2024-01-18 09:41:12",
       "album": {
-        "name": "From the Leaves of Your Garden",
-        "url": "https://open.spotify.com/album/2X7tUE8Ansj36WJK7oOXXq"
-      },
-      "artists": [
-        {
-          "name": "Modern Color",
-          "url": "https://open.spotify.com/artist/6bayHl2VHbIseMg1jby37l"
-        }
-      ],
-      "duration_ms": 190672,
-      "name": "Pale",
-      "url": "https://open.spotify.com/track/7kxowOW75vOFqsdXd1TW31"
-    },
-    {
-      "added_at": "2024-01-18 09:41:12",
-      "album": {
         "name": "Morning View",
         "url": "https://open.spotify.com/album/1rQZbncicoXyB64DqoH7OY"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 249373,
       "name": "Circles",
       "url": "https://open.spotify.com/track/2jmBc2dTGXU9quHYTkpxSL"
+    },
+    {
+      "added_at": "2024-01-18 09:41:12",
+      "album": {
+        "name": "From the Leaves of Your Garden",
+        "url": "https://open.spotify.com/album/2X7tUE8Ansj36WJK7oOXXq"
+      },
+      "artists": [
+        {
+          "name": "Modern Color",
+          "url": "https://open.spotify.com/artist/6bayHl2VHbIseMg1jby37l"
+        }
+      ],
+      "duration_ms": 190672,
+      "name": "Pale",
+      "url": "https://open.spotify.com/track/7kxowOW75vOFqsdXd1TW31"
     },
     {
       "added_at": "2024-01-18 09:41:12",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-01-18 09:41:12",
       "album": {
-        "name": "Siamese Dream (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0bQglEvsHphrS19FGODEGo"
-      },
-      "artists": [
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        }
-      ],
-      "duration_ms": 398240,
-      "name": "Soma - 2011 Remaster",
-      "url": "https://open.spotify.com/track/1EGa3uFmvkGChrZeIKxGwB"
-    },
-    {
-      "added_at": "2024-01-18 09:41:12",
-      "album": {
         "name": "No Code",
         "url": "https://open.spotify.com/album/3FKhxgSZdtJBIjdHsjbxI0"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 221146,
       "name": "Hail, Hail",
       "url": "https://open.spotify.com/track/5cpnyC2TLztgxOWNzoxqbY"
+    },
+    {
+      "added_at": "2024-01-18 09:41:12",
+      "album": {
+        "name": "Siamese Dream (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0bQglEvsHphrS19FGODEGo"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 398240,
+      "name": "Soma - 2011 Remaster",
+      "url": "https://open.spotify.com/track/1EGa3uFmvkGChrZeIKxGwB"
     },
     {
       "added_at": "2024-01-18 09:41:12",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-01-18 09:41:12",
       "album": {
-        "name": "You'd Prefer An Astronaut",
-        "url": "https://open.spotify.com/album/2qx0YtBEDcbpclLlqzRi2o"
-      },
-      "artists": [
-        {
-          "name": "Hum",
-          "url": "https://open.spotify.com/artist/6sM2JCBjZprP7JLMTZZSxX"
-        }
-      ],
-      "duration_ms": 277560,
-      "name": "The Pod",
-      "url": "https://open.spotify.com/track/5eGfO6X1Vvpgb5LFaL5rLF"
-    },
-    {
-      "added_at": "2024-01-18 09:41:12",
-      "album": {
         "name": "Nothing But Thieves (Deluxe)",
         "url": "https://open.spotify.com/album/3q4BkDV5B7sczFcfrIl2a2"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 235826,
       "name": "Neon Brother",
       "url": "https://open.spotify.com/track/3onvqHzdPZXZrPo5GfLqGE"
+    },
+    {
+      "added_at": "2024-01-18 09:41:12",
+      "album": {
+        "name": "You'd Prefer An Astronaut",
+        "url": "https://open.spotify.com/album/2qx0YtBEDcbpclLlqzRi2o"
+      },
+      "artists": [
+        {
+          "name": "Hum",
+          "url": "https://open.spotify.com/artist/6sM2JCBjZprP7JLMTZZSxX"
+        }
+      ],
+      "duration_ms": 277560,
+      "name": "The Pod",
+      "url": "https://open.spotify.com/track/5eGfO6X1Vvpgb5LFaL5rLF"
     },
     {
       "added_at": "2024-01-18 09:41:12",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-01-18 09:41:12",
       "album": {
-        "name": "The Rift",
-        "url": "https://open.spotify.com/album/7zDuEI2gGYXabIHsI4ZjAZ"
-      },
-      "artists": [
-        {
-          "name": "Chappaqua Wrestling",
-          "url": "https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC"
-        }
-      ],
-      "duration_ms": 228852,
-      "name": "The Rift",
-      "url": "https://open.spotify.com/track/3vUHrmHxjsngAXKvxRJ6nc"
-    },
-    {
-      "added_at": "2024-01-18 09:41:12",
-      "album": {
         "name": "Planet of Ice",
         "url": "https://open.spotify.com/album/3aaMFKKvaE66uTd4agSUwV"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 219760,
       "name": "Knights",
       "url": "https://open.spotify.com/track/0la8irNJgsIU3EHIjxLM0L"
+    },
+    {
+      "added_at": "2024-01-18 09:41:12",
+      "album": {
+        "name": "The Rift",
+        "url": "https://open.spotify.com/album/7zDuEI2gGYXabIHsI4ZjAZ"
+      },
+      "artists": [
+        {
+          "name": "Chappaqua Wrestling",
+          "url": "https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC"
+        }
+      ],
+      "duration_ms": 228852,
+      "name": "The Rift",
+      "url": "https://open.spotify.com/track/3vUHrmHxjsngAXKvxRJ6nc"
     },
     {
       "added_at": "2024-01-18 09:41:12",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-01-18 09:41:12",
       "album": {
-        "name": "Keep Telling Myself It's Alright",
-        "url": "https://open.spotify.com/album/1eEdZy4kjI5kZCDPLl9gFH"
-      },
-      "artists": [
-        {
-          "name": "ASHES dIVIDE",
-          "url": "https://open.spotify.com/artist/7cNHQN4eCc7nud8htPxHBy"
-        }
-      ],
-      "duration_ms": 229080,
-      "name": "The Stone",
-      "url": "https://open.spotify.com/track/2TM6fTuwo1ZjMfvFfcFVDA"
-    },
-    {
-      "added_at": "2024-01-18 09:41:12",
-      "album": {
         "name": "Abstract Figures in the Dark",
         "url": "https://open.spotify.com/album/4Wv5cp4Y9zk9ebuXOIGcpe"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 246005,
       "name": "Control",
       "url": "https://open.spotify.com/track/0ILT475efW2vVY5pxvCj0m"
+    },
+    {
+      "added_at": "2024-01-18 09:41:12",
+      "album": {
+        "name": "Keep Telling Myself It's Alright",
+        "url": "https://open.spotify.com/album/1eEdZy4kjI5kZCDPLl9gFH"
+      },
+      "artists": [
+        {
+          "name": "ASHES dIVIDE",
+          "url": "https://open.spotify.com/artist/7cNHQN4eCc7nud8htPxHBy"
+        }
+      ],
+      "duration_ms": 229080,
+      "name": "The Stone",
+      "url": "https://open.spotify.com/track/2TM6fTuwo1ZjMfvFfcFVDA"
     },
     {
       "added_at": "2024-01-18 09:41:12",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2024-01-18 09:41:12",
       "album": {
-        "name": "Here at All",
-        "url": "https://open.spotify.com/album/4C02KdIWuoGpzoNndlW1XU"
-      },
-      "artists": [
-        {
-          "name": "Gleemer",
-          "url": "https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa"
-        }
-      ],
-      "duration_ms": 234706,
-      "name": "In Your Way",
-      "url": "https://open.spotify.com/track/0RLikYdZ4mltKZicGohFmg"
-    },
-    {
-      "added_at": "2024-01-18 09:41:12",
-      "album": {
         "name": "Infinite Pleasure",
         "url": "https://open.spotify.com/album/4EMCM4unQso8HGyy3N19FY"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 247360,
       "name": "Medicine",
       "url": "https://open.spotify.com/track/2D8oZGGpHtSiJLYMKdM5Ao"
+    },
+    {
+      "added_at": "2024-01-18 09:41:12",
+      "album": {
+        "name": "Here at All",
+        "url": "https://open.spotify.com/album/4C02KdIWuoGpzoNndlW1XU"
+      },
+      "artists": [
+        {
+          "name": "Gleemer",
+          "url": "https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa"
+        }
+      ],
+      "duration_ms": 234706,
+      "name": "In Your Way",
+      "url": "https://open.spotify.com/track/0RLikYdZ4mltKZicGohFmg"
     },
     {
       "added_at": "2024-01-18 09:41:12",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2024-01-18 09:41:12",
       "album": {
-        "name": "12th House Rock",
-        "url": "https://open.spotify.com/album/5YHS5GXWuW5IuXwGqET6t0"
-      },
-      "artists": [
-        {
-          "name": "Narrow Head",
-          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
-        }
-      ],
-      "duration_ms": 203600,
-      "name": "Night Tryst",
-      "url": "https://open.spotify.com/track/6t7JhxmZXS0YrYgvQyRWZ1"
-    },
-    {
-      "added_at": "2024-01-18 09:41:12",
-      "album": {
         "name": "1977",
         "url": "https://open.spotify.com/album/1fxOFs3nc2mGf69PEbEQbf"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 271733,
       "name": "Goldfinger",
       "url": "https://open.spotify.com/track/7npgVYPIv7jzYC9yFKKHig"
+    },
+    {
+      "added_at": "2024-01-18 09:41:12",
+      "album": {
+        "name": "12th House Rock",
+        "url": "https://open.spotify.com/album/5YHS5GXWuW5IuXwGqET6t0"
+      },
+      "artists": [
+        {
+          "name": "Narrow Head",
+          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
+        }
+      ],
+      "duration_ms": 203600,
+      "name": "Night Tryst",
+      "url": "https://open.spotify.com/track/6t7JhxmZXS0YrYgvQyRWZ1"
     },
     {
       "added_at": "2024-01-18 09:41:12",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2024-01-18 09:41:12",
       "album": {
-        "name": "to me",
-        "url": "https://open.spotify.com/album/30M5uH6R02LJBSO5CE70PE"
-      },
-      "artists": [
-        {
-          "name": "Pinkshift",
-          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
-        }
-      ],
-      "duration_ms": 243329,
-      "name": "to me",
-      "url": "https://open.spotify.com/track/3NijO9nnAGdbQGaOF4Q1Zf"
-    },
-    {
-      "added_at": "2024-01-18 09:41:12",
-      "album": {
         "name": "Blackened Sky",
         "url": "https://open.spotify.com/album/3gZ42Qs2uth6ZayrsV6LyW"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 201933,
       "name": "57",
       "url": "https://open.spotify.com/track/3ywDupHAH1dCdL5J6UZmWX"
+    },
+    {
+      "added_at": "2024-01-18 09:41:12",
+      "album": {
+        "name": "to me",
+        "url": "https://open.spotify.com/album/30M5uH6R02LJBSO5CE70PE"
+      },
+      "artists": [
+        {
+          "name": "Pinkshift",
+          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
+        }
+      ],
+      "duration_ms": 243329,
+      "name": "to me",
+      "url": "https://open.spotify.com/track/3NijO9nnAGdbQGaOF4Q1Zf"
     },
     {
       "added_at": "2024-01-18 09:41:12",

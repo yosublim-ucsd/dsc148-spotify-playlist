@@ -4130,7 +4130,7 @@
       ],
       "date_added": "2023-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-10",
+      "date_removed": null,
       "duration_ms": 176000,
       "name": "BLUEBERRY",
       "url": "https://open.spotify.com/track/4BgTgPsNeDz2KG4QsshjL9"
@@ -6712,7 +6712,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 117647,
       "name": "cracow shit",
       "url": "https://open.spotify.com/track/5JWnJWnBpBJbrilDwY8Wn1"
@@ -12245,6 +12245,24 @@
     },
     {
       "album": {
+        "name": "hip hip hura!",
+        "url": "https://open.spotify.com/album/5LKVRhKcPjWbvYP9s7udQW"
+      },
+      "artists": [
+        {
+          "name": "sanah",
+          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251455,
+      "name": "hip hip hura!",
+      "url": "https://open.spotify.com/track/5uSsPBP88T6OIYvh9hrSfy"
+    },
+    {
+      "album": {
         "name": "HIPNOZA",
         "url": "https://open.spotify.com/album/3gOx3UcpK2HeJ9gHerhIKY"
       },
@@ -14742,7 +14760,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-18",
+      "date_removed": null,
       "duration_ms": 153600,
       "name": "Jolie Jolie",
       "url": "https://open.spotify.com/track/2JJ6WnAfVglnYfxZubSukn"
@@ -18898,7 +18916,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 134025,
       "name": "MILLIE WALKY",
       "url": "https://open.spotify.com/track/3mzugJrKyhJNzZKS0RgWBg"
@@ -21026,6 +21044,14 @@
         {
           "name": "lohleq",
           "url": "https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF"
+        },
+        {
+          "name": "Kusha",
+          "url": "https://open.spotify.com/artist/2a3CjKMScCbYiM3XTay0zf"
+        },
+        {
+          "name": "Suwal",
+          "url": "https://open.spotify.com/artist/5ySH1SGdybbpB07zl03goY"
         }
       ],
       "date_added": "2024-02-14",
@@ -31250,7 +31276,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 180333,
       "name": "The Tower",
       "url": "https://open.spotify.com/track/4IUMSDTVvUellFQ7RxI3kZ"

@@ -1,12 +1,12 @@
 {
   "description": "me quiero mucho ",
-  "num_followers": 122978,
+  "num_followers": 123131,
   "original_name": "amor propio <3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNGU3ZGY0MzgxNDQ1ODYxZjE0NzNkMmRhNzI2YWZhOTA3NjFmY2Iy",
+  "snapshot_id": "MCxkYWYwZGE0NjYyMTUxNTQ0OGNkNWQ0Mjc3NDIxYzY2MmE4YTY5NzY4",
   "tracks": [
     {
       "added_at": "2024-02-20 16:56:53",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-02-20 16:56:53",
       "album": {
-        "name": "Flashdance (Original Soundtrack From The Motion Picture)",
-        "url": "https://open.spotify.com/album/3R6Z3Hp8EMdhgkA5t89NiL"
-      },
-      "artists": [
-        {
-          "name": "Michael Sembello",
-          "url": "https://open.spotify.com/artist/771qBvjnXOH9Azr6lKy6FB"
-        }
-      ],
-      "duration_ms": 244706,
-      "name": "Maniac",
-      "url": "https://open.spotify.com/track/0QKfiqpEU4h9ycPSzIFwYe"
-    },
-    {
-      "added_at": "2024-02-20 16:56:53",
-      "album": {
         "name": "She Wolf (Expanded Edition)",
         "url": "https://open.spotify.com/album/5u0OuxRnf3FzvZR07xAxL2"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 189200,
       "name": "Loba",
       "url": "https://open.spotify.com/track/1fPCGREltHJuV3axEPydLp"
+    },
+    {
+      "added_at": "2024-02-20 16:56:53",
+      "album": {
+        "name": "Flashdance (Original Soundtrack From The Motion Picture)",
+        "url": "https://open.spotify.com/album/3R6Z3Hp8EMdhgkA5t89NiL"
+      },
+      "artists": [
+        {
+          "name": "Michael Sembello",
+          "url": "https://open.spotify.com/artist/771qBvjnXOH9Azr6lKy6FB"
+        }
+      ],
+      "duration_ms": 244706,
+      "name": "Maniac",
+      "url": "https://open.spotify.com/track/0QKfiqpEU4h9ycPSzIFwYe"
     },
     {
       "added_at": "2024-02-20 16:56:53",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-02-20 16:56:53",
       "album": {
-        "name": "La Cruz Del Mapa",
-        "url": "https://open.spotify.com/album/1FwsOQLBtsdLjy2OGsCZZa"
-      },
-      "artists": [
-        {
-          "name": "Manuel Carrasco",
-          "url": "https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA"
-        }
-      ],
-      "duration_ms": 270187,
-      "name": "Qu\u00e9 Bonito Es Querer",
-      "url": "https://open.spotify.com/track/6uzGmmQ4CuG9HvZktEy0LF"
-    },
-    {
-      "added_at": "2024-02-20 16:56:53",
-      "album": {
         "name": "Antes De Los Veinte",
         "url": "https://open.spotify.com/album/5UC9Xm3TZkeYyGti3rKOua"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 213801,
       "name": "Antes De Los Veinte",
       "url": "https://open.spotify.com/track/2FrWIJn9LaahbmYvzWGr7v"
+    },
+    {
+      "added_at": "2024-02-20 16:56:53",
+      "album": {
+        "name": "La Cruz Del Mapa",
+        "url": "https://open.spotify.com/album/1FwsOQLBtsdLjy2OGsCZZa"
+      },
+      "artists": [
+        {
+          "name": "Manuel Carrasco",
+          "url": "https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA"
+        }
+      ],
+      "duration_ms": 270187,
+      "name": "Qu\u00e9 Bonito Es Querer",
+      "url": "https://open.spotify.com/track/6uzGmmQ4CuG9HvZktEy0LF"
     },
     {
       "added_at": "2024-02-20 16:56:53",

@@ -1,5 +1,5 @@
 {
-  "2024-02-21": 50076,
+  "2024-02-22": 50093,
   "date_first_scraped": "2022-10-24",
   "description": "\u4f8b\u3048\u3070\u3001\u90e8\u5c4b\u3067\u732b\u3068\u663c\u5bdd\u3092\u3059\u308b\u3088\u3046\u306b\u3001\u3086\u3063\u305f\u308a\u3068\u3057\u305f\u30a8\u30ec\u30af\u30c8\u30ed\u30c1\u30eb\u3067\u5c0f\u4f11\u61a9\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
   "name": "\u732b\u3068\u304a\u663c\u5bdd Afternoon Catnap",
@@ -641,7 +641,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 200039,
       "name": "garden",
       "url": "https://open.spotify.com/track/4Xn6llzlcBkd02iXpySmbs"
@@ -2029,6 +2029,24 @@
       "duration_ms": 207613,
       "name": "see",
       "url": "https://open.spotify.com/track/6m4SGZgICa4whATqFQXHMJ"
+    },
+    {
+      "album": {
+        "name": "SHIBUYA 246",
+        "url": "https://open.spotify.com/album/40vdY6VAsuAgGXaWK6YO7U"
+      },
+      "artists": [
+        {
+          "name": "Orihusay",
+          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171851,
+      "name": "SHIBUYA 246",
+      "url": "https://open.spotify.com/track/5BGcu5bwV51odilErIUURl"
     },
     {
       "album": {

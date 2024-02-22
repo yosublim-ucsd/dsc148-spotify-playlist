@@ -1,12 +1,12 @@
 {
   "description": "Enjoy trendy & chill Korean R&B music. (Cover: BIBI)",
-  "num_followers": 986111,
+  "num_followers": 986103,
   "original_name": "TrenChill K-R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MjQ1YmVmMjdmZDAxZDE5OTdiOWM0M2QzNmE5OTg2M2M4MmIxZjZk",
+  "snapshot_id": "MCw3MzJmNjg1YTEwMDhiODdlYTY3NTZiMDAwNzU5M2U1MTY4OTE3NzI5",
   "tracks": [
     {
       "added_at": "2024-02-13 09:00:00",
@@ -287,18 +287,18 @@
     {
       "added_at": "2024-02-13 09:00:00",
       "album": {
-        "name": "ZONE",
-        "url": "https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44"
+        "name": "Dear Insanity...",
+        "url": "https://open.spotify.com/album/0tOtw8pNMRmDa57nZ6GZ9Q"
       },
       "artists": [
         {
-          "name": "JIHYO",
-          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
         }
       ],
-      "duration_ms": 185920,
-      "name": "Killin\u2019 Me Good",
-      "url": "https://open.spotify.com/track/4Cyf87ul1le0xTWRFBoYd7"
+      "duration_ms": 204880,
+      "name": "Don't Go Insane",
+      "url": "https://open.spotify.com/track/5LWWAw887ODAUvR2LR1kDg"
     },
     {
       "added_at": "2024-02-13 09:00:00",
@@ -355,18 +355,18 @@
     {
       "added_at": "2024-02-13 09:00:00",
       "album": {
-        "name": "Dear Insanity...",
-        "url": "https://open.spotify.com/album/0tOtw8pNMRmDa57nZ6GZ9Q"
+        "name": "ZONE",
+        "url": "https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44"
       },
       "artists": [
         {
-          "name": "DPR IAN",
-          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+          "name": "JIHYO",
+          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
         }
       ],
-      "duration_ms": 204880,
-      "name": "Don't Go Insane",
-      "url": "https://open.spotify.com/track/5LWWAw887ODAUvR2LR1kDg"
+      "duration_ms": 185920,
+      "name": "Killin\u2019 Me Good",
+      "url": "https://open.spotify.com/track/4Cyf87ul1le0xTWRFBoYd7"
     },
     {
       "added_at": "2024-02-13 09:00:00",
@@ -875,6 +875,26 @@
     {
       "added_at": "2024-02-13 09:00:00",
       "album": {
+        "name": "The Weekend",
+        "url": "https://open.spotify.com/album/2anMTjAikMd81pt7e29ARd"
+      },
+      "artists": [
+        {
+          "name": "88rising",
+          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
+        },
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "duration_ms": 167661,
+      "name": "The Weekend",
+      "url": "https://open.spotify.com/track/0v2Qgk39gLXMIJi6BY34Fz"
+    },
+    {
+      "added_at": "2024-02-13 09:00:00",
+      "album": {
         "name": "By My Side",
         "url": "https://open.spotify.com/album/6RkSKePFywXU4SlO2R0nRS"
       },
@@ -903,26 +923,6 @@
       "duration_ms": 198080,
       "name": "Peaches",
       "url": "https://open.spotify.com/track/237OjBs3wvamAFpHp0yItw"
-    },
-    {
-      "added_at": "2024-02-13 09:00:00",
-      "album": {
-        "name": "The Weekend",
-        "url": "https://open.spotify.com/album/2anMTjAikMd81pt7e29ARd"
-      },
-      "artists": [
-        {
-          "name": "88rising",
-          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
-        },
-        {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
-        }
-      ],
-      "duration_ms": 167661,
-      "name": "The Weekend",
-      "url": "https://open.spotify.com/track/0v2Qgk39gLXMIJi6BY34Fz"
     },
     {
       "added_at": "2024-02-13 09:00:00",
@@ -1011,6 +1011,26 @@
     {
       "added_at": "2024-02-13 09:00:00",
       "album": {
+        "name": "Head In The Clouds Forever",
+        "url": "https://open.spotify.com/album/0LxjjZ20pPOakBSYwrmbjv"
+      },
+      "artists": [
+        {
+          "name": "88rising",
+          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
+        },
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "duration_ms": 152910,
+      "name": "Best Lover",
+      "url": "https://open.spotify.com/track/0iWFz0Q5Qha9bx325ocFWq"
+    },
+    {
+      "added_at": "2024-02-13 09:00:00",
+      "album": {
         "name": "130 Mood : TRBL",
         "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
       },
@@ -1031,26 +1051,6 @@
       "duration_ms": 224098,
       "name": "What 2 Do",
       "url": "https://open.spotify.com/track/6GS3lnAVy5w6AHWEKYzYeS"
-    },
-    {
-      "added_at": "2024-02-13 09:00:00",
-      "album": {
-        "name": "Head In The Clouds Forever",
-        "url": "https://open.spotify.com/album/0LxjjZ20pPOakBSYwrmbjv"
-      },
-      "artists": [
-        {
-          "name": "88rising",
-          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
-        },
-        {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
-        }
-      ],
-      "duration_ms": 152910,
-      "name": "Best Lover",
-      "url": "https://open.spotify.com/track/0iWFz0Q5Qha9bx325ocFWq"
     },
     {
       "added_at": "2024-02-13 09:00:00",

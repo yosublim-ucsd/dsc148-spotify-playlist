@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5OF1YU2YzcMyFem3Fi4M3E">Boi\-1da</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,445 likes - 274 songs - 16 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,446 likes - 274 songs - 16 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 88 | [out for the night \- part 2](https://open.spotify.com/track/4B8vU5oDXVxO5OkLAI4aLx) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [i am > i was \(Deluxe\)](https://open.spotify.com/album/6guJZpZ52v4MrJKIH7tASl) | 3:55 |
 | 89 | [King Of My City](https://open.spotify.com/track/3o0nkjyy6eZL5lZcEpvJec) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Artist 2.0](https://open.spotify.com/album/0cZAE6guibfcYmTZD7hiae) | 2:28 |
 | 90 | [Seduction](https://open.spotify.com/track/2V7NoXGv2VDnLeTM7w8SFd) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Recovery](https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb) | 4:35 |
-| 91 | [Schemin Up \(feat\. Drake and P\. Reign\)](https://open.spotify.com/track/6wBpgsERq6XpJfIjWXOrnn) | [OB OBrien](https://open.spotify.com/artist/4thGcsymOK5oc43gJVtAqZ), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2) | [Schemin Up \(feat\. Drake and P\. Reign\)](https://open.spotify.com/album/4dPN67UqCc7dcCly1UeNKQ) | 5:30 |
-| 92 | [Needle \(feat\. Drake\)](https://open.spotify.com/track/4I4G0LD277PWvfblYtSf91) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Pink Friday 2](https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2) | 3:55 |
+| 91 | [Needle \(feat\. Drake\)](https://open.spotify.com/track/4I4G0LD277PWvfblYtSf91) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Pink Friday 2](https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2) | 3:55 |
+| 92 | [Schemin Up \(feat\. Drake and P\. Reign\)](https://open.spotify.com/track/6wBpgsERq6XpJfIjWXOrnn) | [OB OBrien](https://open.spotify.com/artist/4thGcsymOK5oc43gJVtAqZ), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2) | [Schemin Up \(feat\. Drake and P\. Reign\)](https://open.spotify.com/album/4dPN67UqCc7dcCly1UeNKQ) | 5:30 |
 | 93 | [All Things Go](https://open.spotify.com/track/0MVUm3Nied9ocRAkDjRWvP) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [The Pinkprint \(Deluxe\)](https://open.spotify.com/album/5ooCuPIk58IwSo6DRr1JCu) | 4:53 |
 | 94 | [PROUD](https://open.spotify.com/track/365wwIjijQdlRJEjUWTidq) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [The Play Don’t Care Who Makes It](https://open.spotify.com/album/5C3uZS83u9pXWFEpl47hWb) | 3:54 |
 | 95 | [Fireworks](https://open.spotify.com/track/73tgFzBug5Ifk1Retdtwk7) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Thank Me Later](https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU) | 5:13 |
@@ -147,8 +147,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 137 | [Remedy \(feat\. Stevie Nicks\)](https://open.spotify.com/track/03blI4F6MeYd6kJx26VsJ2) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [JORDI \(Deluxe\)](https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU) | 2:29 |
 | 138 | [Grindin](https://open.spotify.com/track/5xghqAlCLGE8K8kzp76ZqL) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Loosing Myself](https://open.spotify.com/album/1MROip7w49w3Rlokn2gmXJ) | 5:06 |
 | 139 | [Win Some, Lose Some](https://open.spotify.com/track/35wGuOS7f10WZ3yfmbAzjD) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Dark Sky Paradise](https://open.spotify.com/album/1j2x7FJXTgUT0X5hZ8TDXE) | 5:04 |
-| 140 | [Dark Sky \(Skyscrapers\)](https://open.spotify.com/track/6ltwanTt7xjvZ3rPayPppS) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Dark Sky Paradise](https://open.spotify.com/album/1j2x7FJXTgUT0X5hZ8TDXE) | 2:58 |
-| 141 | [Where We Come From](https://open.spotify.com/track/2IjthaptX4H9KQwEj52Bqx) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Boi\-1da](https://open.spotify.com/artist/2RQnTQM6OQd8dTUDF7UsT7) | [Where We Come From](https://open.spotify.com/album/66iVSYAzkm2gqBAvaBgaGj) | 2:29 |
+| 140 | [Where We Come From](https://open.spotify.com/track/2IjthaptX4H9KQwEj52Bqx) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Boi\-1da](https://open.spotify.com/artist/2RQnTQM6OQd8dTUDF7UsT7) | [Where We Come From](https://open.spotify.com/album/66iVSYAzkm2gqBAvaBgaGj) | 2:29 |
+| 141 | [Dark Sky \(Skyscrapers\)](https://open.spotify.com/track/6ltwanTt7xjvZ3rPayPppS) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Dark Sky Paradise](https://open.spotify.com/album/1j2x7FJXTgUT0X5hZ8TDXE) | 2:58 |
 | 142 | [Get Like](https://open.spotify.com/track/466nTkRePUO44ptVwsvGYJ) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [SweetSexySavage \(Deluxe\)](https://open.spotify.com/album/4B4in9QlrlYWSHlYSRebdC) | 2:50 |
 | 143 | [Dope Game](https://open.spotify.com/track/5QHiWzDN9z3qkLyvM1w7JK) | [Baka Not Nice](https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU) | [4Milli](https://open.spotify.com/album/28vYZP2mGD54CUoY0lPUr2) | 3:39 |
 | 144 | [The Bloodiest](https://open.spotify.com/track/3eEMeaaT3otIimFCcYcS7i) | [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3) | [Redemption](https://open.spotify.com/album/4IAMLhL37kMrpByavj25Ne) | 3:03 |
@@ -283,4 +283,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 273 | [My Life](https://open.spotify.com/track/659VW7lp1PC9EogVmyy2NW) | [KO](https://open.spotify.com/artist/0QsGiZaEitDoqU4AQJhPqF) | [My Life](https://open.spotify.com/album/62ZHBhUPSiyGbG9TFE5BPk) | 3:20 |
 | 274 | [Whatever Became Of You](https://open.spotify.com/track/1Ycr1YY3M9ITVVNhXIAp2J) | [Colin Munroe](https://open.spotify.com/artist/7IF7emaerV9vIoAjey6IHe) | [Unsung Hero](https://open.spotify.com/album/1UPa8cbZK9mpKAkG0tjJTi) | 4:46 |
 
-Snapshot ID: `Mjg0NzQ3MDAsMDAwMDAwMDBmMWUwNTFkMzEzYjk3MjgzNWQzMTQ1OWMzMzk1ZGQyOQ==`
+Snapshot ID: `Mjg0NzYxNDAsMDAwMDAwMDA3NTJhNDZiM2JmZDc5ZjczYjgyZmVkODlkNzM0OGExYw==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Gunna, Polo G, Schoolboy Q and more\. Cover: Yeat
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,784 likes - 51 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,889 likes - 51 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,12 +32,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 22 | [KING KONG](https://open.spotify.com/track/47t4RubecWq6Yz3IguRuKd) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [KING KONG](https://open.spotify.com/album/3iMC72oE5hsEApvx7apo6s) | 2:12 |
 | 23 | [Locked In \(feat\. Slimmy B\)](https://open.spotify.com/track/18V7rtYluQCHuic8PiImpJ) | [Locksmith](https://open.spotify.com/artist/0OGWDaYrjhn6v1Lq1rqrWa), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [DaBoii](https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0), [Slimmy B](https://open.spotify.com/artist/0BfxMYdkqRuwPXsSwEf5RE) | [Locked In \(feat\. Slimmy B\)](https://open.spotify.com/album/0Sc9tnZo7jPHqBgZ0tHKSv) | 2:27 |
 | 24 | [R&B](https://open.spotify.com/track/3LtQtMTElsBhQQl1Oe2WVv) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU), [Tony Seltzer](https://open.spotify.com/artist/3xLOLsGCDyUCj1L9W5fUpl) | [R&B](https://open.spotify.com/album/3GtGp6gTuR28nRXbJmkmPj) | 1:49 |
-| 25 | [Scared Money \(feat\. Kevin Durant\)](https://open.spotify.com/track/0IchVBfnDKMhViGonBA3j4) | [Stalley](https://open.spotify.com/artist/1wUmdemiR9Dxw8A2el365A), [Kevin Durant](https://open.spotify.com/artist/50jVoCjWS4E2ENknl1KIh6) | [Scared Money](https://open.spotify.com/album/7nmiiO0GYNkExhZveP4pOD) | 2:53 |
+| 25 | [Scared Money \(feat\. Kevin Durant\)](https://open.spotify.com/track/0IchVBfnDKMhViGonBA3j4) | [Stalley](https://open.spotify.com/artist/1wUmdemiR9Dxw8A2el365A), [Kevin Durant](https://open.spotify.com/artist/0CFcWMZu68nAWFjuFg0jey) | [Scared Money](https://open.spotify.com/album/7nmiiO0GYNkExhZveP4pOD) | 2:53 |
 | 26 | [Believer](https://open.spotify.com/track/4Hzbsi2rzJ0nSZ0lNJ78NT) | [Wacotron](https://open.spotify.com/artist/4CAL0nDGvLhUfQEpwSLnUz) | [Believer](https://open.spotify.com/album/5xUVSacWXftVLRsj99AFzg) | 2:53 |
 | 27 | [DOUBLE C'S](https://open.spotify.com/track/1qyxY6QPNfoTEsAeWpl6Fw) | [DaeMoney](https://open.spotify.com/artist/33IGJSFbZplSbhXcqtZTDg), [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [DOUBLE C'S](https://open.spotify.com/album/041Ob2CNpT4FRvtYLcb4bd) | 2:28 |
 | 28 | [Kill Zone](https://open.spotify.com/track/60D9CWFQsp9tx48hMls4HM) | [Jdot Breezy](https://open.spotify.com/artist/0VSM8D7ibtXjJgukfVR0eZ) | [Kill Zone](https://open.spotify.com/album/3VVMJ46xCzdnKlmsgfqlXs) | 2:31 |
 | 29 | [BEAST OUT THE CAGE](https://open.spotify.com/track/5wskdb31Z9aAhtuSkphkF6) | [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L) | [BEAST OUT THE CAGE](https://open.spotify.com/album/3xyUv8Z7PWHRakcSM1P0zg) | 2:53 |
-| 30 | [Jungle Music, Pt.1](https://open.spotify.com/track/3lHz5md9boT0yiIDRutanu) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Jungle Music, Pt.1](https://open.spotify.com/album/1u53HTtDzE94WWWoGFUCFy) | 3:05 |
+| 30 | [Jungle Music, Pt.1](https://open.spotify.com/track/6igRiUF4wplkbTr2ecNx8Y) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Jungle Music, Pt.1](https://open.spotify.com/album/3YosaIj8eB3PHuQv5QGtB0) | 3:05 |
 | 31 | [Everything](https://open.spotify.com/track/6P5VQqe5jv4LJa6zI7dcac) | [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57) | [Everything](https://open.spotify.com/album/51zjXpEdCFZtV9hXI9LViI) | 4:24 |
 | 32 | [Heavy Heart](https://open.spotify.com/track/2P9bZvA474ic8CSqN0cZqN) | [Yatta Bandz](https://open.spotify.com/artist/3n8GvDXY1OgG57akv31SHK) | [Heavy Heart](https://open.spotify.com/album/6KTvittwCSHEOI0cG6iWl4) | 2:14 |
 | 33 | [LOVE](https://open.spotify.com/track/5YDlwTwOXisQwaKbeZLXxT) | [Thouxanbanfauni](https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr) | [LOVE](https://open.spotify.com/album/2zg5IfRbxXHr0WriP9UZ0G) | 2:31 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 50 | [Stupid Dumb Illiterate](https://open.spotify.com/track/3V8KGh982XNNMdk0xy17xN) | [Heems](https://open.spotify.com/artist/7x3mbyjfOZ9y599MHmyNOu), [Lapgan](https://open.spotify.com/artist/2qpOejyNXBdBfLQh9OO22P), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [LAFANDAR](https://open.spotify.com/album/0txwScooV6S8rd8uhWfUGe) | 2:17 |
 | 51 | [Go](https://open.spotify.com/track/55pu5bjDoRtduqMfFfF83V) | [A.R\. The Mermaid](https://open.spotify.com/artist/0SuHC7TYAGOa9A4yfkvF3l) | [Go](https://open.spotify.com/album/5tvfvXTui324CIxaAS3ZAB) | 1:52 |
 
-Snapshot ID: `MCxjNGMyMGViMjMyNzU0ZDg5ZTQ2OTk2M2Q5NDY3MzExY2QzYmI1OTIz`
+Snapshot ID: `MCwyNjY3NjEyZWE1NWQwZDAxOGU1MDBjMTEzMmY3YTNiNzFiOGE3OTQ4`

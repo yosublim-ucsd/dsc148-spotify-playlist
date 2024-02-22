@@ -4,7 +4,7 @@
 
 > All the indie gems from 2023 that may have flown under your radar! Cover: The Last Dinner Party
 
-206 songs - 11 hr 28 min
+207 songs - 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [First Rule of the Bug](https://open.spotify.com/track/5s7umUpjJT7yBAN94jMxiC) | [Sword II](https://open.spotify.com/artist/0JYwNChldP4Ad3OC6U83zi) | [Spirit World Tour](https://open.spotify.com/album/47mGdZRog8LOGSdYzlVSO2) | 3:27 | 2023-11-29 |  |
 | [Flames shards goo](https://open.spotify.com/track/03vUSQpYEQryhvhI4VUsqb) | [ML Buch](https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC) | [Suntub](https://open.spotify.com/album/6IjtDhIvMy3I8xORtWAVax) | 3:48 | 2023-11-29 |  |
 | [from here on out](https://open.spotify.com/track/01wyoN3xlUf3k3jWSewMoB) | [lighthearted](https://open.spotify.com/artist/6bIM8yCfbkBSVS40TP5gCf) | [from here on out](https://open.spotify.com/album/0fC2Pfh9vQetDVO7phh1jM) | 4:31 | 2023-11-29 |  |
-| [Full On](https://open.spotify.com/track/7KXtsy8RVVeVL5vj6twTTV) | [Hak Baker](https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j) | [Worlds End FM](https://open.spotify.com/album/14FhzR5HOUxorgSJ55Dr1E) | 2:43 | 2023-11-29 |  |
+| [Full On](https://open.spotify.com/track/7KXtsy8RVVeVL5vj6twTTV) | [Hak Baker](https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j) | [Worlds End FM](https://open.spotify.com/album/14FhzR5HOUxorgSJ55Dr1E) | 2:43 | 2023-11-29 | 2024-02-22 |
 | [Fôlego](https://open.spotify.com/track/6osnEzYzGwu6pXXXK9WsgI) | [Siricaia](https://open.spotify.com/artist/7HXhMMJtqpRR1dzsJFkG9x), [SHANGE](https://open.spotify.com/artist/694dpz8pMTmCWOX9a88S16) | [Fôlego](https://open.spotify.com/album/3zKykaMRAhE9tpy2bofQzp) | 4:20 | 2022-11-30 | 2023-11-30 |
 | [GATA](https://open.spotify.com/track/3Y8Y9GWlUBTTEY6ydINRtx) | [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7), [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [SUPERNOVA](https://open.spotify.com/album/7KdsjQmMyF9B25UqADi117) | 2:11 | 2023-11-29 |  |
 | [GATA](https://open.spotify.com/track/7bfsB9aEVuKUUZ7CTjmoGN) | [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7), [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [SUPERNOVA](https://open.spotify.com/album/4stpoGWquK8Zb2Xq41NA39) | 2:11 | 2023-11-29 | 2024-01-21 |
@@ -145,6 +145,7 @@
 | [Not There](https://open.spotify.com/track/1e1bUo8cxd9JHABlXnmBMl) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Not There](https://open.spotify.com/album/6T6Esg6eUxOmcAj8zb1iU2) | 3:22 | 2022-11-30 | 2023-11-30 |
 | [Not There](https://open.spotify.com/track/7jzGqazzQJhp59zieSCwiG) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Not There](https://open.spotify.com/album/32hsVbXUm5VbbWo9Qfs0An) | 3:22 | 2022-11-30 | 2023-02-02 |
 | [npc](https://open.spotify.com/track/4Pr1T6HsveEYhcg4TqQVpB) | [Pam Rabbit](https://open.spotify.com/artist/60jJZhMQOPHeCvoBosXVWU) | [I LOVE THE INTERNET](https://open.spotify.com/album/4e2OFPbCzqEQfRIKnk1NoG) | 2:30 | 2023-11-29 |  |
+| [NYC UMTs](https://open.spotify.com/track/466O2QshkvjRtjC3sjqWMC) | [May Rio](https://open.spotify.com/artist/1SlT1K1OULPzNSwmieTA2w) | [French Bath](https://open.spotify.com/album/5XTxZ2RQerQJ1qramOYJOw) | 2:41 | 2023-11-29 |  |
 | [October Passed Me By](https://open.spotify.com/track/0AjcdGri5vhJsmZnduCEqd) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [October Passed Me By](https://open.spotify.com/album/6XtlrNlPUFHcpLS7ImjG3E) | 2:45 | 2022-11-30 | 2023-11-30 |
 | [Pata Pata Saguquka](https://open.spotify.com/track/4aYRNnclXE50YTEQ8PvBNn) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Sun\-El Musician](https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6) | [Pata Pata Saguquka](https://open.spotify.com/album/4C6AluXJv87ieS26W0prnB) | 5:25 | 2022-11-30 | 2023-11-30 |
 | [perfume bottle](https://open.spotify.com/track/7wmwpkiGOVNJUfhAHztsW0) | [Jaycov](https://open.spotify.com/artist/6kbM2bCTPewpVWA4jXP7UV) | [MAGNANIMITY](https://open.spotify.com/album/7AVe1Cc7Uns0mN2sy6KHBL) | 3:14 | 2023-11-29 |  |

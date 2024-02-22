@@ -1,12 +1,12 @@
 {
   "description": "The best of modern psychedelic rock,  neo-psychedelic, and psychedelic indie. ",
-  "num_followers": 874655,
+  "num_followers": 874631,
   "original_name": "Modern Psychedelia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZDg4NzEyNTRhMDVlZmE4NDE4NGZhNzFiYWY2ZjlmZWMzZmMyYjVh",
+  "snapshot_id": "MCw2YzkxMTFhNzgyYjg0YzNmZTJmMzA1MGJiMThkNTBjOGRlMzkzN2Nl",
   "tracks": [
     {
       "added_at": "2024-01-02 16:16:43",
@@ -91,6 +91,22 @@
       "duration_ms": 210948,
       "name": "Alright, OK",
       "url": "https://open.spotify.com/track/7hj2XcjFRk7CG1aL0GqTQP"
+    },
+    {
+      "added_at": "2024-02-21 19:26:24",
+      "album": {
+        "name": "Be Good The Crazy Boys",
+        "url": "https://open.spotify.com/album/61NoXUZtdwxmsMe9CuMrMj"
+      },
+      "artists": [
+        {
+          "name": "Art Feynman",
+          "url": "https://open.spotify.com/artist/6XlzzwOhKSberPLmwDEmkc"
+        }
+      ],
+      "duration_ms": 331653,
+      "name": "All I Can Do",
+      "url": "https://open.spotify.com/track/6IiVsz8sBRhkRkaQZMGiOl"
     },
     {
       "added_at": "2024-02-16 23:08:01",
@@ -223,6 +239,22 @@
       "duration_ms": 276317,
       "name": "Kimosab\u00e8",
       "url": "https://open.spotify.com/track/6ThLeHskGmgionXRoqGyYS"
+    },
+    {
+      "added_at": "2024-02-21 19:26:24",
+      "album": {
+        "name": "Blast Off Through the Wicker",
+        "url": "https://open.spotify.com/album/5nkVWnfrsHKXJSfqP9IGjI"
+      },
+      "artists": [
+        {
+          "name": "Art Feynman",
+          "url": "https://open.spotify.com/artist/6XlzzwOhKSberPLmwDEmkc"
+        }
+      ],
+      "duration_ms": 187561,
+      "name": "Slow Down",
+      "url": "https://open.spotify.com/track/1rrCrZ5xIe6ElzwFdjLtMm"
     },
     {
       "added_at": "2023-12-11 14:37:09",
@@ -1267,22 +1299,6 @@
     {
       "added_at": "2023-10-10 18:55:59",
       "album": {
-        "name": "Stone Killer",
-        "url": "https://open.spotify.com/album/5g8JB0xHVPlp25BmuIci5L"
-      },
-      "artists": [
-        {
-          "name": "26fix",
-          "url": "https://open.spotify.com/artist/1HvnaxYOnYcLVvnOn2eb5e"
-        }
-      ],
-      "duration_ms": 208293,
-      "name": "Stone Killer",
-      "url": "https://open.spotify.com/track/0HTdp0zc8NELjhPTbEp7PR"
-    },
-    {
-      "added_at": "2023-10-10 18:55:59",
-      "album": {
         "name": "Famagusta Port",
         "url": "https://open.spotify.com/album/6jX03XyIsmm6oGk0K6OCuH"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 258853,
       "name": "Moonrise",
       "url": "https://open.spotify.com/track/29HXW4rqqYATHgg1DTH8yy"
-    },
-    {
-      "added_at": "2023-10-10 18:55:59",
-      "album": {
-        "name": "Kimosab\u00e8",
-        "url": "https://open.spotify.com/album/3gMgItWPVNpinFuRp9NMgC"
-      },
-      "artists": [
-        {
-          "name": "DOPE LEMON",
-          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
-        }
-      ],
-      "duration_ms": 276317,
-      "name": "Kimosab\u00e8",
-      "url": "https://open.spotify.com/track/6ThLeHskGmgionXRoqGyYS"
     },
     {
       "added_at": "2023-10-10 18:55:59",
@@ -1375,22 +1375,6 @@
       "duration_ms": 136697,
       "name": "The Great American Picnic",
       "url": "https://open.spotify.com/track/48AgoVXugpMSwRm9eAiKEj"
-    },
-    {
-      "added_at": "2023-10-10 18:55:59",
-      "album": {
-        "name": "Always",
-        "url": "https://open.spotify.com/album/1vBq4EJTv9SxqYJ01tCZDp"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 207800,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/5uHgKIUzqrpRt10p1crJma"
     },
     {
       "added_at": "2023-10-10 18:55:59",
@@ -1551,22 +1535,6 @@
     {
       "added_at": "2023-10-10 18:55:59",
       "album": {
-        "name": "Starfruit",
-        "url": "https://open.spotify.com/album/0uXYIewphqjuLxXKCh0Ix5"
-      },
-      "artists": [
-        {
-          "name": "Moon Panda",
-          "url": "https://open.spotify.com/artist/2Ghddt4G7272vYt4xOyYWm"
-        }
-      ],
-      "duration_ms": 207969,
-      "name": "Starfruit",
-      "url": "https://open.spotify.com/track/143YSRMmMxsSpw2uTIQhnS"
-    },
-    {
-      "added_at": "2023-10-10 18:55:59",
-      "album": {
         "name": "What U Want",
         "url": "https://open.spotify.com/album/69kOKq7angZCP0l4tGDGuW"
       },
@@ -1595,42 +1563,6 @@
       "duration_ms": 268000,
       "name": "He",
       "url": "https://open.spotify.com/track/3sV8Y8weWHxBbDa4rGGL9a"
-    },
-    {
-      "added_at": "2023-10-10 18:55:59",
-      "album": {
-        "name": "Best Of Me",
-        "url": "https://open.spotify.com/album/41ydQPbNKY798LnOihcmC2"
-      },
-      "artists": [
-        {
-          "name": "The Brummies",
-          "url": "https://open.spotify.com/artist/1B9SbgFtfWSlUvAd1y0AaA"
-        }
-      ],
-      "duration_ms": 202986,
-      "name": "Best Of Me",
-      "url": "https://open.spotify.com/track/5mIbS6VqztXovDHi0Fx9Zj"
-    },
-    {
-      "added_at": "2023-10-10 18:55:59",
-      "album": {
-        "name": "Medusa",
-        "url": "https://open.spotify.com/album/0wbKY324xkDkzZvSrHQCVW"
-      },
-      "artists": [
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        },
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        }
-      ],
-      "duration_ms": 178026,
-      "name": "Medusa",
-      "url": "https://open.spotify.com/track/3fn3cu0a9Rxwfdf98P9Lo2"
     },
     {
       "added_at": "2023-10-10 18:55:59",
@@ -1759,22 +1691,6 @@
       "duration_ms": 176000,
       "name": "Original",
       "url": "https://open.spotify.com/track/4jHDe4YjUYb68wgTWe37Fw"
-    },
-    {
-      "added_at": "2023-10-10 18:55:59",
-      "album": {
-        "name": "Petroglyph",
-        "url": "https://open.spotify.com/album/1FUdKikHCOSBLxpSlR11nO"
-      },
-      "artists": [
-        {
-          "name": "Vinyl Williams",
-          "url": "https://open.spotify.com/artist/7GJ7lI9jmrNOuxBEcNQHPT"
-        }
-      ],
-      "duration_ms": 273374,
-      "name": "Petroglyph",
-      "url": "https://open.spotify.com/track/2bzAmBp07YEFIxoc202Ug9"
     }
   ],
   "unique_name": "Modern Psychedelia",

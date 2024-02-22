@@ -389,6 +389,28 @@
     },
     {
       "album": {
+        "name": "Bochinchero",
+        "url": "https://open.spotify.com/album/4QUSOz0vAbOGRAFAduJ6GY"
+      },
+      "artists": [
+        {
+          "name": "Motiff",
+          "url": "https://open.spotify.com/artist/5yjh35rXozitS6KLyjicLj"
+        },
+        {
+          "name": "Tito Nieves",
+          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199656,
+      "name": "Bochinchero",
+      "url": "https://open.spotify.com/track/5ju2uIITK3ZXXhF9e074iG"
+    },
+    {
+      "album": {
         "name": "Boogaloo Supreme",
         "url": "https://open.spotify.com/album/5Pce9doDhsmeD7QEuIsF98"
       },
@@ -4542,7 +4564,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 298546,
       "name": "T\u00fa Me Vuelves Loco",
       "url": "https://open.spotify.com/track/1xAubZVq0sOxsoSfm1PzqA"

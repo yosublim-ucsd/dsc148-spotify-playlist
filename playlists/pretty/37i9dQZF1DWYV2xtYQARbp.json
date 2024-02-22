@@ -1,12 +1,12 @@
 {
   "description": "That fuzzy, noisy punk-blues hybrid",
-  "num_followers": 14794,
+  "num_followers": 14796,
   "original_name": "Punk Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZmQyZjc0YjM1YWU1ZjYyNzY5Zjk2Y2NkOWMyOTZmZTllMTBkZTNm",
+  "snapshot_id": "MCwwNjQzYjZjOGUzZDE4NGZjZWIyMDVkOTY3NjRiYTZhNmMzY2U4OWY3",
   "tracks": [
     {
       "added_at": "2022-03-28 20:14:58",
@@ -427,22 +427,6 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Too Much Guitar",
-        "url": "https://open.spotify.com/album/0jz530LCAylYogWMXVAVzK"
-      },
-      "artists": [
-        {
-          "name": "Reigning Sound",
-          "url": "https://open.spotify.com/artist/1YRBRIN8d5Xa6vU1OKUc4t"
-        }
-      ],
-      "duration_ms": 177200,
-      "name": "When You Touch Me",
-      "url": "https://open.spotify.com/track/6QfyJdy9eO3WiAL65VQP8D"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
         "name": "Root Damage",
         "url": "https://open.spotify.com/album/3lONx9tNtCCo47EkD0mYJf"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 205266,
       "name": "Shakey Puddin'",
       "url": "https://open.spotify.com/track/7oK4hF6yoIN9HASBXI5hnN"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
+        "name": "Too Much Guitar",
+        "url": "https://open.spotify.com/album/0jz530LCAylYogWMXVAVzK"
+      },
+      "artists": [
+        {
+          "name": "Reigning Sound",
+          "url": "https://open.spotify.com/artist/1YRBRIN8d5Xa6vU1OKUc4t"
+        }
+      ],
+      "duration_ms": 177200,
+      "name": "When You Touch Me",
+      "url": "https://open.spotify.com/track/6QfyJdy9eO3WiAL65VQP8D"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "The Kids Are All Square - This Is Hip & Girlsville",
-        "url": "https://open.spotify.com/album/60tBmjuaOOUZ1nbUFXKejQ"
-      },
-      "artists": [
-        {
-          "name": "Thee Headcoatees",
-          "url": "https://open.spotify.com/artist/1MDoUyChsGrYbl9DeV9tif"
-        }
-      ],
-      "duration_ms": 145400,
-      "name": "Round Every Corner",
-      "url": "https://open.spotify.com/track/5Lo8MW6jtjbKU2YslHKqna"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
         "name": "14 Frenzied Shakers",
         "url": "https://open.spotify.com/album/2CTnUp9DpibklvypLkEQKz"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 154386,
       "name": "(Oh Mom) Teach Me How to Uncle Willy",
       "url": "https://open.spotify.com/track/3vfJ46ozwgF37hLweVMDnj"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
+        "name": "The Kids Are All Square - This Is Hip & Girlsville",
+        "url": "https://open.spotify.com/album/60tBmjuaOOUZ1nbUFXKejQ"
+      },
+      "artists": [
+        {
+          "name": "Thee Headcoatees",
+          "url": "https://open.spotify.com/artist/1MDoUyChsGrYbl9DeV9tif"
+        }
+      ],
+      "duration_ms": 145400,
+      "name": "Round Every Corner",
+      "url": "https://open.spotify.com/track/5Lo8MW6jtjbKU2YslHKqna"
     },
     {
       "added_at": "2022-03-28 20:14:58",

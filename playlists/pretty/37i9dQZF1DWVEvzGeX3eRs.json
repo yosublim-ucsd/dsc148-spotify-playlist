@@ -1,12 +1,12 @@
 {
   "description": "that Darius and Nina type love.",
-  "num_followers": 2610714,
+  "num_followers": 2610892,
   "original_name": "Love Deluxe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNmUwMGMwZDM0ZTg5YWRhZmYyYTBjYTMyMzMxZjJmN2UwNGVjMWUz",
+  "snapshot_id": "MCwzZmFkOTFmY2NkODJhNWIxOWFjZjljNWUxYTEwYjIyY2YzNTQyMDJk",
   "tracks": [
     {
       "added_at": "2023-02-02 23:04:07",
@@ -79,22 +79,6 @@
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
-        "name": "112",
-        "url": "https://open.spotify.com/album/5lSLGYViKHz22S8gEXz9Vc"
-      },
-      "artists": [
-        {
-          "name": "112",
-          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
-        }
-      ],
-      "duration_ms": 252266,
-      "name": "Cupid",
-      "url": "https://open.spotify.com/track/3kVIFDE3G89I2RPVkiRaRj"
-    },
-    {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
         "name": "Fever for da Flavor",
         "url": "https://open.spotify.com/album/1XXRMULRjSHEmWNxk9G1Cd"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 330945,
       "name": "Knockin' da Boots",
       "url": "https://open.spotify.com/track/6x53SJOV1PAZ8ZUwH4NFXQ"
+    },
+    {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
+        "name": "112",
+        "url": "https://open.spotify.com/album/5lSLGYViKHz22S8gEXz9Vc"
+      },
+      "artists": [
+        {
+          "name": "112",
+          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
+        }
+      ],
+      "duration_ms": 252266,
+      "name": "Cupid",
+      "url": "https://open.spotify.com/track/3kVIFDE3G89I2RPVkiRaRj"
     },
     {
       "added_at": "2021-03-05 00:03:16",
@@ -265,22 +265,6 @@
       "url": "https://open.spotify.com/track/3UGNdLrhhsK0SY9gNqe8TT"
     },
     {
-      "added_at": "2023-02-02 23:04:07",
-      "album": {
-        "name": "The Deele: Greatest Hits",
-        "url": "https://open.spotify.com/album/1lmVbo0X0edbEQPqdywGAI"
-      },
-      "artists": [
-        {
-          "name": "The Deele",
-          "url": "https://open.spotify.com/artist/7ohSq6OUvkH1hkslgXfGMi"
-        }
-      ],
-      "duration_ms": 258426,
-      "name": "Two Occasions",
-      "url": "https://open.spotify.com/track/0mt80ksFAwPHXyAlArU5Yc"
-    },
-    {
       "added_at": "2021-03-05 00:03:16",
       "album": {
         "name": "Blackstreet",
@@ -311,6 +295,22 @@
       "duration_ms": 291760,
       "name": "Wishing on a Star",
       "url": "https://open.spotify.com/track/0u2CGItUO2jYEiFaXD7n5S"
+    },
+    {
+      "added_at": "2023-02-02 23:04:07",
+      "album": {
+        "name": "The Deele: Greatest Hits",
+        "url": "https://open.spotify.com/album/1lmVbo0X0edbEQPqdywGAI"
+      },
+      "artists": [
+        {
+          "name": "The Deele",
+          "url": "https://open.spotify.com/artist/7ohSq6OUvkH1hkslgXfGMi"
+        }
+      ],
+      "duration_ms": 258426,
+      "name": "Two Occasions",
+      "url": "https://open.spotify.com/track/0mt80ksFAwPHXyAlArU5Yc"
     },
     {
       "added_at": "2021-03-05 00:03:16",
@@ -401,22 +401,6 @@
       "url": "https://open.spotify.com/track/2pY99npaZKTVAyw2DhV9Bo"
     },
     {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
-        "name": "A Jagged Era",
-        "url": "https://open.spotify.com/album/71V8liHaRbtSZ2ZGkjcqZB"
-      },
-      "artists": [
-        {
-          "name": "Jagged Edge",
-          "url": "https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp"
-        }
-      ],
-      "duration_ms": 215266,
-      "name": "I Gotta Be",
-      "url": "https://open.spotify.com/track/5nS5mDWAyce9gjD8crHcZX"
-    },
-    {
       "added_at": "2023-02-02 23:04:07",
       "album": {
         "name": "Chillin'",
@@ -431,6 +415,22 @@
       "duration_ms": 234053,
       "name": "Tender Love",
       "url": "https://open.spotify.com/track/6D527hFJzl1vWSzosEbyQk"
+    },
+    {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
+        "name": "A Jagged Era",
+        "url": "https://open.spotify.com/album/71V8liHaRbtSZ2ZGkjcqZB"
+      },
+      "artists": [
+        {
+          "name": "Jagged Edge",
+          "url": "https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp"
+        }
+      ],
+      "duration_ms": 215266,
+      "name": "I Gotta Be",
+      "url": "https://open.spotify.com/track/5nS5mDWAyce9gjD8crHcZX"
     },
     {
       "added_at": "2021-03-05 00:03:16",
@@ -545,6 +545,22 @@
       "url": "https://open.spotify.com/track/4XhrowM5IKGCRrY2HzYBH3"
     },
     {
+      "added_at": "2023-02-02 23:22:15",
+      "album": {
+        "name": "Cool Relax",
+        "url": "https://open.spotify.com/album/2AoerEEC2T9YEpwSCzYpJG"
+      },
+      "artists": [
+        {
+          "name": "Jon B.",
+          "url": "https://open.spotify.com/artist/3SRJWVa6lZnqRHOyAHmDrX"
+        }
+      ],
+      "duration_ms": 274666,
+      "name": "They Don't Know",
+      "url": "https://open.spotify.com/track/4TVTbdNZtCJEhibH231GxQ"
+    },
+    {
       "added_at": "2021-03-05 00:03:16",
       "album": {
         "name": "Total",
@@ -625,22 +641,6 @@
       "url": "https://open.spotify.com/track/53m3UkzcaQVbB2DENsrJiK"
     },
     {
-      "added_at": "2023-02-02 23:22:15",
-      "album": {
-        "name": "Cool Relax",
-        "url": "https://open.spotify.com/album/2AoerEEC2T9YEpwSCzYpJG"
-      },
-      "artists": [
-        {
-          "name": "Jon B.",
-          "url": "https://open.spotify.com/artist/3SRJWVa6lZnqRHOyAHmDrX"
-        }
-      ],
-      "duration_ms": 274666,
-      "name": "They Don't Know",
-      "url": "https://open.spotify.com/track/4TVTbdNZtCJEhibH231GxQ"
-    },
-    {
       "added_at": "2021-03-05 00:03:16",
       "album": {
         "name": "If I Ever Fall In Love",
@@ -675,22 +675,6 @@
       "duration_ms": 317560,
       "name": "I Get Lonely",
       "url": "https://open.spotify.com/track/4FTq81I0X4J6y9X06GcZIN"
-    },
-    {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
-        "name": "Brown Sugar",
-        "url": "https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 384666,
-      "name": "Cruisin'",
-      "url": "https://open.spotify.com/track/2voXNGgRrosxCJA6foTVau"
     },
     {
       "added_at": "2023-02-02 23:04:07",
@@ -755,6 +739,22 @@
       "duration_ms": 337066,
       "name": "Ribbon In The Sky",
       "url": "https://open.spotify.com/track/1Y5B1vvFDia8MtyM16UgnN"
+    },
+    {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
+        "name": "Brown Sugar",
+        "url": "https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 384666,
+      "name": "Cruisin'",
+      "url": "https://open.spotify.com/track/2voXNGgRrosxCJA6foTVau"
     },
     {
       "added_at": "2021-03-05 00:03:16",

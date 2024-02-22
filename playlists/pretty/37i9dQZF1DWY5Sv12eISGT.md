@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5Sv12eISGT.md) - [plain]
 
 > Unwind to some chilled and cozy acoustic Afropop jams
 
-[Spotify](https://open.spotify.com/user/spotify) - 31 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 51 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Contour \(Acoustic\)](https://open.spotify.com/track/26jU3i6046awcW6NAtqnqz) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Contour \(Acoustic\)](https://open.spotify.com/album/472q1Xw1TjH1tTZUOMzkTF) | 2:36 |
-| 2 | [Run Away \- Acoustic](https://open.spotify.com/track/2QHh2ysUSow4S6GX4tswYB) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Run Away](https://open.spotify.com/album/6ujoM3aPviamfNBV7qCpTh) | 3:37 |
+| 2 | [Run Away \(OMALICHA\) \- Acoustic](https://open.spotify.com/track/2QHh2ysUSow4S6GX4tswYB) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Run Away \(OMALICHA\)](https://open.spotify.com/album/6ujoM3aPviamfNBV7qCpTh) | 3:37 |
 | 3 | [American Love \- Acoustic](https://open.spotify.com/track/4KxTDnSUNHtoN4Y0fYSUMd) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [American Love](https://open.spotify.com/album/2GobXOMJEUsQPJj4TPfiYl) | 3:01 |
 | 4 | [Love Nwantiti \(Acoustic Version\)](https://open.spotify.com/track/22s7GSnCQ2DlIaeM3mR9Bt) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Love Notes](https://open.spotify.com/album/7yHniZiIQiLjnDFJ2bgMen) | 3:04 |
 | 5 | [Rora \- Acoustic Version](https://open.spotify.com/track/7qmbGryDNg60fzUSRSbIOE) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [Rora \(Acoustic Version\)](https://open.spotify.com/album/3RGNG2XnuR5cssGXtMjxj1) | 2:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5Sv12eISGT.md) - [plain]
 | 49 | [Fine \- Acoustic](https://open.spotify.com/track/5XhnDZdU1oIrbbGR9p5zin) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [First Of All \(Acoustic\)](https://open.spotify.com/album/7C3XJPyTLi1edptS5bNE1x) | 4:09 |
 | 50 | [Aparo \(With Lisa Oduor\-Noah\) \- Acoustic](https://open.spotify.com/track/3V9O5e55cXGgDT8L0Xk9bX) | [Kato Change](https://open.spotify.com/artist/3Day7hRDsVXE8uRBCpR2z5), [Lisa Oduor Noah](https://open.spotify.com/artist/4TvajrZD4cJdAx2jO4yO5e) | [The Change Experience](https://open.spotify.com/album/3gLCcJQngVtacSslBa39qG) | 3:51 |
 
-Snapshot ID: `MCw4YmZkMzViYTQyM2Q4OGNmN2RjOWY2M2U2MmJhOWNlYmQ2YTQyMjA5`
+Snapshot ID: `MCw3MDNhYjE3Yzg3YzliZjhkM2Y1OWZmMTk1NjVkMjQzNWRjZmYxZThl`

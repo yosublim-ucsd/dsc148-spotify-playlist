@@ -4,10 +4,11 @@
 
 > The full collection of Spotify Singles recordings\. Cover: Sabrina Carpenter
 
-1,163 songs - 2 day 22 hr 51 min
+1,163 songs - 2 day 22 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/6zXpmOXNuWMZG8RYcSmtH4) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Spotify Singles](https://open.spotify.com/album/0SsFgST749MQC6oN9PLHLf) | 0:00 | 2022-01-19 |  |
 | ["we circle through the night, consumed by fire" \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7pAksEVGKqiXRvl2bO0vhy) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Spotify Singles](https://open.spotify.com/album/0A5p1Mwf2dK9MAG804kNcg) | 9:54 | 2022-01-19 |  |
 | [\(What's So Funny Bout\) Peace, Love and Understanding? \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3Zd7oF8MH9j0zNEiIOPPNP) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Spotify Singles](https://open.spotify.com/album/1VSf2rThMsBiBira4kH0Ak) | 4:12 | 2022-01-19 |  |
 | [\(You Make Me Feel Like\) a Natural Woman \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/252Js3mNvVOHzeiStTUTNM) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Spotify Singles](https://open.spotify.com/album/3BtaYjFyAb4GmZ6qJxtiTr) | 3:02 | 2022-01-19 |  |
@@ -558,8 +559,7 @@
 | [Keep You in Mind \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0t9YUsxVEGKYY4NlMz7Psz) | [Guordan Banks](https://open.spotify.com/artist/4lwPGsAG5qnfn1JOtESnYZ) | [Spotify Singles](https://open.spotify.com/album/4fLoVhJEg40ctKo7zAI3CI) | 3:14 | 2022-10-12 |  |
 | [Keep You in Mind \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4Zu6dnRcGitkdFePJVN1aT) | [Guordan Banks](https://open.spotify.com/artist/4lwPGsAG5qnfn1JOtESnYZ) | [Spotify Singles](https://open.spotify.com/album/1IUpkbo5AN4rZqzyPppbg7) | 3:14 | 2022-01-19 | 2022-10-13 |
 | [Kele Kele](https://open.spotify.com/track/2iJVEBnGX2QW41fUIyyhLe) | [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od) | [Kele Kele \- Spotify Singles](https://open.spotify.com/album/6uTuS5g5Vhq3IqrT6VJj9c) | 2:10 | 2023-07-13 |  |
-| [Khuda Bhi Aasman \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5lZX0cZpdT3Y10uJ3oR17s) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Spotify Singles](https://open.spotify.com/album/3oQcSwlUB1l2bANoqtDKKU) | 3:59 | 2022-07-05 |  |
-| [Khuda Bhi Aasman \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6zXpmOXNuWMZG8RYcSmtH4) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Spotify Singles](https://open.spotify.com/album/0SsFgST749MQC6oN9PLHLf) | 3:59 | 2022-01-19 | 2022-07-29 |
+| [Khuda Bhi Aasman \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5lZX0cZpdT3Y10uJ3oR17s) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Spotify Singles](https://open.spotify.com/album/3oQcSwlUB1l2bANoqtDKKU) | 3:59 | 2022-07-05 | 2024-02-22 |
 | [KIDZ \- Spotify Singles](https://open.spotify.com/track/2Fc0wy51lDMnxcEcli7UNK) | [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [KIDZ \- Spotify Singles](https://open.spotify.com/album/7BrgeOGDEUsE0QDk9m75Zv) | 3:24 | 2022-09-14 |  |
 | [Kiss \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7Kfpow0FQwvw3xxrRdXgf9) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Spotify Singles](https://open.spotify.com/album/3NSkcqmYRTEb2sPICYWT1T) | 4:03 | 2022-01-19 |  |
 | [Kiss from a Rose](https://open.spotify.com/track/7sz7Ux2pAuM5V5RdjbaH6V) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Spotify Singles](https://open.spotify.com/album/0cG8Sv80ABlYVGf20D0AAf) | 5:04 | 2023-07-31 |  |

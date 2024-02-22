@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف: بهاء سلطان
 
-856 songs - 2 day 0 hr 31 min
+857 songs - 2 day 0 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,6 +297,7 @@
 | [Je Suis Malade](https://open.spotify.com/track/1QEg5Sqt8VCGDuuJl1hlAF) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Je Suis Malade](https://open.spotify.com/album/5yNMWMPlTFk8DX6TmgWhAD) | 2:55 | 2023-01-19 | 2023-02-28 |
 | [Jebal](https://open.spotify.com/track/7EPvVoROZX4d1dafqunSEN) | [Mohamed Kammah](https://open.spotify.com/artist/15TITDp3RoYMiYhnE3ccmM), [Yousra El Gendy](https://open.spotify.com/artist/4NHY6xrFxJwxDxYNl9WZLv) | [Jebal](https://open.spotify.com/album/5M9HfVPfdPqRYJl22Sc39y) | 2:53 | 2022-10-27 | 2023-01-20 |
 | [Jolie Fille](https://open.spotify.com/track/3LDbivszrJ6rOeynqXQdys) | [Mohamed Kammah](https://open.spotify.com/artist/15TITDp3RoYMiYhnE3ccmM) | [Jolie Fille](https://open.spotify.com/album/5gwQg0oBldCfp3upDzzYzo) | 3:14 | 2022-06-02 | 2022-08-26 |
+| [Kaddaba](https://open.spotify.com/track/7u4NBr72w2sdoRcPmkI7FV) | [Hossam Habib](https://open.spotify.com/artist/0OWaQSefazXfg4aaiC0Veg) | [Kaddaba](https://open.spotify.com/album/7IrqCCWetOD7ilPwDbhFdx) | 4:35 | 2024-02-21 |  |
 | [Kaddabeen](https://open.spotify.com/track/6RoiEYuRGOr7ZdjzaJtMta) | [Abu](https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML) | [Kaddabeen](https://open.spotify.com/album/3K6vwmVKtmeBbnpcBL69zt) | 3:24 | 2024-02-16 |  |
 | [Kalam El Mama](https://open.spotify.com/track/08jIFdhzUO66JtHof7Y9jy) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Kalam El Mama](https://open.spotify.com/album/4fTWjBw5MeKbcdydCPvH1N) | 3:09 | 2024-02-01 |  |
 | [Kalam Kobar](https://open.spotify.com/track/0bBNbNMZiU5WQ8Qe5y2peh) | [Mostafa Gad](https://open.spotify.com/artist/5ASLdjUfY4styIRJ5smXmB) | [Kalam Kobar](https://open.spotify.com/album/2z2gS7oXlrbVcnffgffTFU) | 2:32 | 2022-05-18 | 2022-08-21 |
@@ -407,7 +408,7 @@
 | [Matstbstnish](https://open.spotify.com/track/7Hn98YOZZziI7zNUv0IayQ) | [Bassma Atta](https://open.spotify.com/artist/0kYSjEPqFB08F7EP4Q1qgC) | [Matstbstnish](https://open.spotify.com/album/7eAkRYWndkXOQtGfoDXFmz) | 2:58 | 2024-02-01 |  |
 | [Matstghrabesh](https://open.spotify.com/track/70jooBdkmWHzGBmuVY95Vv) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Matstghrabesh](https://open.spotify.com/album/5lO5nv5WfDcjHJBuvWnxey) | 3:13 | 2022-08-23 | 2022-11-18 |
 | [Matzaalsh](https://open.spotify.com/track/4C8NYoAzT72Yikn2xeRV8f) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Matzaalsh](https://open.spotify.com/album/772AFGsp15ARb8JczKptWc) | 3:40 | 2023-06-22 | 2023-07-28 |
-| [Mawahashtkesh !!? \- From Hormone El Saada Album](https://open.spotify.com/track/1V5nOyehl22kvbNtfR53Qd) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Mawahashtkesh !!?](https://open.spotify.com/album/6lOiphAEqG5GmFhOKtWjJk) | 5:27 | 2024-01-09 |  |
+| [Mawahashtkesh !!? \- From Hormone El Saada Album](https://open.spotify.com/track/1V5nOyehl22kvbNtfR53Qd) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Mawahashtkesh !!?](https://open.spotify.com/album/6lOiphAEqG5GmFhOKtWjJk) | 5:27 | 2024-01-09 | 2024-02-22 |
 | [Mawkef Da’af](https://open.spotify.com/track/1IYbo7etxraFnbLaBNufRb) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [Mawkef Da’af](https://open.spotify.com/album/4dLSVm96Uzw4veUMnvNzUr) | 3:50 | 2022-08-08 | 2022-10-27 |
 | [Maystahelsh](https://open.spotify.com/track/3io0IKZUAuHS11n9iAKSMx) | [Hanan Redha](https://open.spotify.com/artist/5AFPjqv26lWXQt2UR5BuGV) | [Maystahelsh](https://open.spotify.com/album/50A9VCNn74bi8oyj8SOTic) | 3:36 | 2023-09-22 | 2023-12-30 |
 | [Mazagangy](https://open.spotify.com/track/0DaI5tYfY8JacqHGU13jeO) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Mazagangy](https://open.spotify.com/album/5HaxcIPl2gGqQn4Okt1IsS) | 2:53 | 2022-09-29 | 2022-12-27 |

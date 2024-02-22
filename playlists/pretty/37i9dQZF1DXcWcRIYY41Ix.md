@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Natalia Lafourcade y Kevin Johansen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,326 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,357 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 | 28 | [Rayito](https://open.spotify.com/track/3Dvams9yiJchXGj1OlOCil) | [Borneo](https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz) | [Borneo](https://open.spotify.com/album/5LRDEs05vm8LTRV5U7g1xc) | 2:52 |
 | 29 | [es combate?](https://open.spotify.com/track/6DgvIzxw3uOV07RMpTPS1w) | [Candela Gómez](https://open.spotify.com/artist/0jIhz2FFQmwcjj63SJh63h) | [es combate?](https://open.spotify.com/album/4FeZdlK9iTFZXYzOTRwsCT) | 4:01 |
 | 30 | [La Mirada](https://open.spotify.com/track/3fjbG2xC1znbKyeysQCNgb) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [La Mirada](https://open.spotify.com/album/3FZkTuYvjUBlFTzQ3GlNUC) | 3:14 |
-| 31 | [Las Curanderas](https://open.spotify.com/track/6AQu38qbXkZJBv5vZO5blZ) | [Laura Murcia](https://open.spotify.com/artist/6d19qaYWDQRN687o4TRK3K) | [Las Curanderas](https://open.spotify.com/album/52Rh5pLcpbAa8trZc1LJt3) | 3:26 |
-| 32 | [Ponme](https://open.spotify.com/track/6lSqiqPaYyPcEBShRsOLRX) | [Pala](https://open.spotify.com/artist/48NwWz7YpfhM5w6Zx5dz0j), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [El Siglo del Loro](https://open.spotify.com/album/6fHlGoOh1zAqMX431jJ115) | 1:40 |
+| 31 | [Ponme](https://open.spotify.com/track/6lSqiqPaYyPcEBShRsOLRX) | [Pala](https://open.spotify.com/artist/48NwWz7YpfhM5w6Zx5dz0j), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [El Siglo del Loro](https://open.spotify.com/album/6fHlGoOh1zAqMX431jJ115) | 1:40 |
+| 32 | [Las Curanderas](https://open.spotify.com/track/6AQu38qbXkZJBv5vZO5blZ) | [Laura Murcia](https://open.spotify.com/artist/6d19qaYWDQRN687o4TRK3K) | [Las Curanderas](https://open.spotify.com/album/52Rh5pLcpbAa8trZc1LJt3) | 3:26 |
 | 33 | [El Tiempo Está Después](https://open.spotify.com/track/4nQuCvORJ38iJzJEUgPend) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox), [Ernesto Snajer](https://open.spotify.com/artist/2lsW2v88mmr3SCDpKFlUao) | [Raíces](https://open.spotify.com/album/5O4fzDFmTZXSRjQZpMc9P5) | 3:01 |
 | 34 | [La Bona Regla](https://open.spotify.com/track/0kqc9HOqaPqlE3IFxz4zfI) | [Faneka](https://open.spotify.com/artist/2PXol6g6FoxNRF6KWshWKo) | [La Bona Regla](https://open.spotify.com/album/2ejsbnlGsoy5UQKPfywWFj) | 2:49 |
 | 35 | [Como Viene Se Va](https://open.spotify.com/track/38k03LCyZORAjGAWg1o18B) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [TANDA](https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq) | 4:00 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 | 93 | [Propuestas Imposibles](https://open.spotify.com/track/2hqbxrVkDwUGjW37FcpUMy) | [Daniela Escalante](https://open.spotify.com/artist/00YbcwdtRDXKGvdpBsUfkd) | [Propuestas Imposibles](https://open.spotify.com/album/1cmDYMQXjP5IGxgp2KPwfb) | 3:43 |
 | 94 | [La Maza \- En Vivo Desde Fonobox](https://open.spotify.com/track/76fR1kHj38aYysA7cLsvle) | [Priscilla Félix](https://open.spotify.com/artist/0WWelL4rhUknYdkhfKDnLu) | [La Maza \(Desde Fonobox\) \[En Vivo\]](https://open.spotify.com/album/0ZdXn6TRcIYKZutBHYVQHg) | 5:03 |
 | 95 | [Palomita de Mar](https://open.spotify.com/track/1iPYMSh2ck9HfTsHVCP89k) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Martirio](https://open.spotify.com/artist/7r4rviBG63cmxn51zRuMav), [Raúl Rodríguez](https://open.spotify.com/artist/7D4g7SmfRdE4JB7hLqpH6A) | [Palomita de Mar](https://open.spotify.com/album/1KFZYysIFA9G1Ej0yVxVMR) | 4:17 |
-| 96 | [Muchacha](https://open.spotify.com/track/7BbYBOuoHwbzezD03dbYBG) | [Emilia y Pablo](https://open.spotify.com/artist/4yHD7XAN2Xtk203wG7Gzad) | [Muchacha](https://open.spotify.com/album/3J1lkofDFSYTiIrMUvvvgD) | 3:30 |
-| 97 | [Terra banyada](https://open.spotify.com/track/5z1r7JONnKjiZiJEHpaRVg) | [Maria Jaume](https://open.spotify.com/artist/2QYudLHQwV6MDxWpZZtMNO) | [Fins a maig no revisc](https://open.spotify.com/album/0nfAMwME4AZNOSaYuBVdWu) | 2:47 |
+| 96 | [Terra banyada](https://open.spotify.com/track/5z1r7JONnKjiZiJEHpaRVg) | [Maria Jaume](https://open.spotify.com/artist/2QYudLHQwV6MDxWpZZtMNO) | [Fins a maig no revisc](https://open.spotify.com/album/0nfAMwME4AZNOSaYuBVdWu) | 2:47 |
+| 97 | [Muchacha](https://open.spotify.com/track/7BbYBOuoHwbzezD03dbYBG) | [Emilia y Pablo](https://open.spotify.com/artist/4yHD7XAN2Xtk203wG7Gzad) | [Muchacha](https://open.spotify.com/album/3J1lkofDFSYTiIrMUvvvgD) | 3:30 |
 | 98 | [Luz](https://open.spotify.com/track/7p0a6IhFoYWYzZVgfQgD0E) | [Ine Güemes](https://open.spotify.com/artist/6eT4EH9YSy7e4y1EY1XibR), [Juan Nazar](https://open.spotify.com/artist/7EE6NuuhgRafPDPZFWDtLW) | [Luz](https://open.spotify.com/album/1Oc0lUo0QXktqa2fsrwmoq) | 3:53 |
 | 99 | [Migas](https://open.spotify.com/track/3LzLD8MNdZ2IpLO2aKiQj6) | [TéCanela](https://open.spotify.com/artist/7DqUxnbDJwdpFRS8rIgVy0) | [Migas](https://open.spotify.com/album/0z8Py2L5re037O71sy22q9) | 5:33 |
 | 100 | [Oye mi Voz](https://open.spotify.com/track/5EALaMd6QUNhtRJINXrlqM) | [María Ruiz](https://open.spotify.com/artist/0AFj9y8WKAlLA0s0om6NaI), [Chambao](https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R) | [Deshielo](https://open.spotify.com/album/3xIhTaVpGZhjlo7SGeTeyJ) | 3:41 |
 
-Snapshot ID: `MCxkNmFiNDM0YmI2NmI3ZmI2ZDZiYTY1MTg4OWZlOGMzNjk2MTAyNGE5`
+Snapshot ID: `MCxkOWRjOWQ3OGVmZWRlZGZiNTFhMjZjZTFmNmY5MGEwMjJiNzlmOThl`

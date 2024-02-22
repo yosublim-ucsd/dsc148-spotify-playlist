@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 
 > Net die beste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG?si=vE7cPH\-jTGO7QE3lTc9Ofg">Barto</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,002 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,046 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,13 +42,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 | 32 | [Skobbejak](https://open.spotify.com/track/1PoFAgfEa11NdWylrd8sCc) | [Reën](https://open.spotify.com/artist/7tIsf2CtmTtj0UGJshHIyB), [Refentse](https://open.spotify.com/artist/5yACoSSz99q9C7n8bKNFxl) | [Weer](https://open.spotify.com/album/4YPFlgvGCWtK0bKrN6qIkz) | 3:32 |
 | 33 | [ATKV](https://open.spotify.com/track/5pctBxFOGMxzrR7BfVWMoL) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Hittegolf](https://open.spotify.com/album/0e9UjemY2jnFPQFdJdTPjH) | 3:04 |
 | 34 | [Tekkies Brand](https://open.spotify.com/track/3bDZnbdUWy02rqFzb5Sooi) | [Irene\-Louise Van Wyk](https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma) | [Tekkies Brand](https://open.spotify.com/album/05uEJdtdKnM4SjNGpkEuOD) | 3:28 |
-| 35 | [Ouens Soos Ek](https://open.spotify.com/track/30dt1BYdgSPFyed2YZykV0) | [Marno van der Merwe](https://open.spotify.com/artist/4UCQCvz4wTboXTeYxfyvhR) | [Ouens Soos Ek](https://open.spotify.com/album/6qagm31j3HbFae3BV3I2Ab) | 2:43 |
-| 36 | [Foto's](https://open.spotify.com/track/6qXoZby29Lp0QmA4NsSE0J) | [Dodo Nyoka](https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa) | [Foto's](https://open.spotify.com/album/4hpljUB91UU8TtYSGrRTwU) | 3:14 |
-| 37 | [Slukkie Inspirasie](https://open.spotify.com/track/6RUiu6xeHqpsxbXJoZeu7s) | [Barto](https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG) | [OASE](https://open.spotify.com/album/45L3PeEzR30opQd0fDapgf) | 3:13 |
-| 38 | [Boer In My Hart](https://open.spotify.com/track/3O2mkRrUcsxZGETDCWPSjy) | [VAN WEST](https://open.spotify.com/artist/2Tncwyr8LHLTsuSaSIGJMq) | [Boer In My Hart](https://open.spotify.com/album/4JL1ZXeecKOOsbZFRJnuqj) | 3:50 |
+| 35 | [Vuur En Vlam](https://open.spotify.com/track/3EK9M3oCsXhMGLUpjwgvla) | [VAN WEST](https://open.spotify.com/artist/2Tncwyr8LHLTsuSaSIGJMq) | [Vuur En Vlam](https://open.spotify.com/album/2CDlluXHThuUPyHFOP7PZK) | 2:45 |
+| 36 | [Ouens Soos Ek](https://open.spotify.com/track/30dt1BYdgSPFyed2YZykV0) | [Marno van der Merwe](https://open.spotify.com/artist/4UCQCvz4wTboXTeYxfyvhR) | [Ouens Soos Ek](https://open.spotify.com/album/6qagm31j3HbFae3BV3I2Ab) | 2:43 |
+| 37 | [Foto's](https://open.spotify.com/track/6qXoZby29Lp0QmA4NsSE0J) | [Dodo Nyoka](https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa) | [Foto's](https://open.spotify.com/album/4hpljUB91UU8TtYSGrRTwU) | 3:14 |
+| 38 | [Slukkie Inspirasie](https://open.spotify.com/track/6RUiu6xeHqpsxbXJoZeu7s) | [Barto](https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG) | [OASE](https://open.spotify.com/album/45L3PeEzR30opQd0fDapgf) | 3:13 |
 | 39 | [SySoen](https://open.spotify.com/track/474ACPInPwPBWt1eFwG0fs) | [Wilma Van Heerden](https://open.spotify.com/artist/0vnlEBfwofHzCHw2sI7VmP) | [SySoen](https://open.spotify.com/album/7LfX2CYX7o9jjDtqzxC8LI) | 3:33 |
 | 40 | [Stout Vir ...](https://open.spotify.com/track/5IWqYabOkbAXOAUd5RsY8o) | [Irene\-Louise Van Wyk](https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma) | [Stout Vir ...](https://open.spotify.com/album/44OnJYSwia2u2MUYgObohx) | 3:27 |
-| 41 | [Vuur En Vlam](https://open.spotify.com/track/3EK9M3oCsXhMGLUpjwgvla) | [VAN WEST](https://open.spotify.com/artist/2Tncwyr8LHLTsuSaSIGJMq) | [Vuur En Vlam](https://open.spotify.com/album/2CDlluXHThuUPyHFOP7PZK) | 2:45 |
+| 41 | [Boer In My Hart](https://open.spotify.com/track/3O2mkRrUcsxZGETDCWPSjy) | [VAN WEST](https://open.spotify.com/artist/2Tncwyr8LHLTsuSaSIGJMq) | [Boer In My Hart](https://open.spotify.com/album/4JL1ZXeecKOOsbZFRJnuqj) | 3:50 |
 | 42 | [Kwagga Karnaval](https://open.spotify.com/track/0YibPa1JNIDIvubnDjrDFF) | [Kurt Darren](https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd), [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR), [Ricus Nel](https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg) | [Kwagga Karnaval](https://open.spotify.com/album/7J8QRwCuKTylCzzhObMTTc) | 3:30 |
 | 43 | [Diana](https://open.spotify.com/track/6bcUztS91zHtPE9uJ2JIL2) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Diana](https://open.spotify.com/album/5UlvfJZV9qoZA6Ik3xXlbE) | 3:30 |
 | 44 | [Frikkie vir 'n Rukkie](https://open.spotify.com/track/3AnjywbfTox9a73rDCCEJy) | [Dodo Nyoka](https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa) | [Frikkie vir 'n Rukkie](https://open.spotify.com/album/1HnATyn4XtduEf1IU1nOGj) | 2:55 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 | 51 | [Ek Wonder](https://open.spotify.com/track/7d1dnWCYBxIkLHYkxjF6Yd) | [Riana Nel](https://open.spotify.com/artist/6Skl2RueCJYKBBm1Yr6BBQ) | [Ek Wonder](https://open.spotify.com/album/07wqaVr50Sy5ke6YhxnIF4) | 3:32 |
 | 52 | [My Nannas](https://open.spotify.com/track/7AiWpdNAuQtauRiZLRTiin) | [Wikus Botma](https://open.spotify.com/artist/099AZ9nM47Fy3VJ7aLN2Io) | [My Nannas](https://open.spotify.com/album/5aHgjmoL4dh4xbDgzl6rHc) | 3:17 |
 | 53 | [Wil Jy Bly](https://open.spotify.com/track/4nE7FHtsqPIwFDgNXs6RSb) | [Wentzel](https://open.spotify.com/artist/0StQwxwrKk0iUBg0u0YF9C) | [Wil Jy Bly](https://open.spotify.com/album/6C9vgKnV4J39l3VhtzeUgg) | 3:07 |
-| 54 | [Wynland](https://open.spotify.com/track/1Jrtl0GAYhGbk23ixM8tqX) | [Werner Van Der Hoven](https://open.spotify.com/artist/1z3Cykt3bMtNbrY9SPGSI2) | [Wynland](https://open.spotify.com/album/1gAIJXFuwE7LSuibaGwehS) | 2:41 |
-| 55 | [Haai Haai](https://open.spotify.com/track/7oNaAYHagyDVzB8YoyhuMm) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7), [Ricus Nel](https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg) | [Haai Haai](https://open.spotify.com/album/7pcS22M4wts8bcT1pBoB0y) | 3:18 |
+| 54 | [Haai Haai](https://open.spotify.com/track/7oNaAYHagyDVzB8YoyhuMm) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7), [Ricus Nel](https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg) | [Haai Haai](https://open.spotify.com/album/7pcS22M4wts8bcT1pBoB0y) | 3:18 |
+| 55 | [Wynland](https://open.spotify.com/track/1Jrtl0GAYhGbk23ixM8tqX) | [Werner Van Der Hoven](https://open.spotify.com/artist/1z3Cykt3bMtNbrY9SPGSI2) | [Wynland](https://open.spotify.com/album/1gAIJXFuwE7LSuibaGwehS) | 2:41 |
 | 56 | [Nora Vlok](https://open.spotify.com/track/6TVcrV4TEhQiuKjU5Tactz) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb), [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Nora Vlok](https://open.spotify.com/album/28mbGMQoZuM1kwHrKpgLfs) | 3:07 |
 | 57 | [Johnnie Blou](https://open.spotify.com/track/4zFtUFGQ7NG6iEM2K5Oca4) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Johnnie Blou](https://open.spotify.com/album/0D5L3scMWg5Y08JaqQi4ti) | 3:07 |
 | 58 | [Kleintjie](https://open.spotify.com/track/4QbAFKHU08d9Ecko8P1Xnk) | [Wikus Botma](https://open.spotify.com/artist/099AZ9nM47Fy3VJ7aLN2Io) | [Kleintjie](https://open.spotify.com/album/2BqvLKSqRQwnLG1DMVumfH) | 2:59 |
@@ -75,13 +75,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 | 65 | [Als Is Okay](https://open.spotify.com/track/4qgi2zxMxeVoBJ2QT7abuE) | [Karlien Van Jaarsveld](https://open.spotify.com/artist/25SUuR1e32ukcdYldmAyp5) | [Als Is Okay](https://open.spotify.com/album/1V7vyyFiCCPYav5PHinkNb) | 3:01 |
 | 66 | [Lieflik](https://open.spotify.com/track/1owgvsRPtQKcYVJLzpJUpb) | [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [Lieflik](https://open.spotify.com/album/2Kxe1GVz73wuCwLhWFaUB8) | 4:04 |
 | 67 | [Hey Sonneblom](https://open.spotify.com/track/4vyQOF8wGtDV6eHsOqWaCG) | [Droomsindroom](https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW) | [Hey Sonneblom](https://open.spotify.com/album/4aYcdeTwgsJB1jjV8MON1e) | 3:30 |
-| 68 | [Sonop\-Blom](https://open.spotify.com/track/7xeOloDznov24h4JCtmn3p) | [Bernice West](https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx) | [Sonop\-Blom](https://open.spotify.com/album/2ni5omeo7ALatZxwUy180p) | 3:07 |
-| 69 | [Ploeg Jy?](https://open.spotify.com/track/2rLRZ848llZCkbxLV0VhUo) | [Ricus Nel](https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg) | [Ploeg Jy](https://open.spotify.com/album/4ab69ZYCFbLWrmDCmDFkyK) | 3:37 |
-| 70 | [Hand Aan Hand](https://open.spotify.com/track/0wgq7qI1QTtlto5lfGJ6s9) | [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [Hand Aan Hand](https://open.spotify.com/album/4FQlZyq5FppU7BrtK93U5Y) | 3:58 |
-| 71 | [Dina](https://open.spotify.com/track/5qA6bUnDzyLDbyAlH4U7vV) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Afrikaans is Groot Vol\. 14](https://open.spotify.com/album/3wMyH1M60asVYjnhQVJc6h) | 3:16 |
-| 72 | [Jou Lippe](https://open.spotify.com/track/7mvzTspWvSyGyOvH4Z5a0o) | [Danny Smoke](https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj) | [Swaeltjies](https://open.spotify.com/album/4XDDLItIj4rCR8zDdou82V) | 3:35 |
-| 73 | [Keeza](https://open.spotify.com/track/4U6CKDrBPhG0PpPgqXLp3e) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Afrikaans is Groot Vol\. 14](https://open.spotify.com/album/3wMyH1M60asVYjnhQVJc6h) | 2:58 |
+| 68 | [Keeza](https://open.spotify.com/track/4U6CKDrBPhG0PpPgqXLp3e) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Afrikaans is Groot Vol\. 14](https://open.spotify.com/album/3wMyH1M60asVYjnhQVJc6h) | 2:58 |
+| 69 | [Sonop\-Blom](https://open.spotify.com/track/7xeOloDznov24h4JCtmn3p) | [Bernice West](https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx) | [Sonop\-Blom](https://open.spotify.com/album/2ni5omeo7ALatZxwUy180p) | 3:07 |
+| 70 | [Ploeg Jy?](https://open.spotify.com/track/2rLRZ848llZCkbxLV0VhUo) | [Ricus Nel](https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg) | [Ploeg Jy](https://open.spotify.com/album/4ab69ZYCFbLWrmDCmDFkyK) | 3:37 |
+| 71 | [Hand Aan Hand](https://open.spotify.com/track/0wgq7qI1QTtlto5lfGJ6s9) | [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [Hand Aan Hand](https://open.spotify.com/album/4FQlZyq5FppU7BrtK93U5Y) | 3:58 |
+| 72 | [Dina](https://open.spotify.com/track/5qA6bUnDzyLDbyAlH4U7vV) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Afrikaans is Groot Vol\. 14](https://open.spotify.com/album/3wMyH1M60asVYjnhQVJc6h) | 3:16 |
+| 73 | [Jou Lippe](https://open.spotify.com/track/7mvzTspWvSyGyOvH4Z5a0o) | [Danny Smoke](https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj) | [Swaeltjies](https://open.spotify.com/album/4XDDLItIj4rCR8zDdou82V) | 3:35 |
 | 74 | [Gooi Nog 'n Whiskey](https://open.spotify.com/track/7Bn6wlpyw2ucBHxdDYEAUT) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Spontaan](https://open.spotify.com/album/25pTHMFYTDNLVnEqRKIVQl) | 3:00 |
 | 75 | [Vuur Op Die Water](https://open.spotify.com/track/7hnO1itqe41tDT0tuEOgVV) | [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [Vuur Op Die Water](https://open.spotify.com/album/40vvsgbIIr5XKof5iKCBr2) | 3:36 |
 
-Snapshot ID: `MCwyMzgwODY3MzEzZjIzMjFmMzY2YzI0NGU1ZGI3OWNjMTA0YTQzM2E0`
+Snapshot ID: `MCxkMTQ5NDc3MGE1NTMzNjJkYzhjMjk3N2UwMmE2YjgyNTljNGRkNGEy`

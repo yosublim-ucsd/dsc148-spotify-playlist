@@ -1,12 +1,12 @@
 {
   "description": "Just good energy",
-  "num_followers": 498210,
+  "num_followers": 498250,
   "original_name": "Vibe Check",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMDRiOWU2NDUzYjg5YmQ3MTYxMWEyMmVhNjE1ZGVjYzlkYzgzMjU0",
+  "snapshot_id": "MCxkODQzMTMxOTJiMjhkYWUxNDZlNDZjMzc5MDQ2YzU4ZmNjMWI5YWI3",
   "tracks": [
     {
       "added_at": "2023-12-19 09:08:21",
@@ -892,7 +892,7 @@
           "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
         },
         {
-          "name": "Empire of the Sun",
+          "name": "Empire Of The Sun",
           "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
         }
       ],
@@ -1311,26 +1311,6 @@
     {
       "added_at": "2023-12-19 09:08:21",
       "album": {
-        "name": "Settle (Deluxe)",
-        "url": "https://open.spotify.com/album/1lM5IfaqcIsXd6UCV3aDSs"
-      },
-      "artists": [
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        },
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 255866,
-      "name": "Latch",
-      "url": "https://open.spotify.com/track/1DunhgeZSEgWiIYbHqXl0c"
-    },
-    {
-      "added_at": "2023-12-19 09:08:21",
-      "album": {
         "name": "BED",
         "url": "https://open.spotify.com/album/36tML2tWjDrbLW4FgrX17U"
       },
@@ -1351,6 +1331,26 @@
       "duration_ms": 178087,
       "name": "BED",
       "url": "https://open.spotify.com/track/0siYMEsGrzzzlWLXK5zJfS"
+    },
+    {
+      "added_at": "2023-12-19 09:08:21",
+      "album": {
+        "name": "Settle (Deluxe)",
+        "url": "https://open.spotify.com/album/1lM5IfaqcIsXd6UCV3aDSs"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 255866,
+      "name": "Latch",
+      "url": "https://open.spotify.com/track/1DunhgeZSEgWiIYbHqXl0c"
     },
     {
       "added_at": "2023-12-19 09:08:21",

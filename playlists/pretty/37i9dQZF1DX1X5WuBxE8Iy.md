@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X5WuBxE8Iy.md) - [plain]
 
 > Las mejores canciones de Princesas de Disney.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,396 likes - 54 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,466 likes - 54 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X5WuBxE8Iy.md) - [plain]
 | 53 | [True Love's Kiss \- From "Enchanted"/ Soundtrack Version](https://open.spotify.com/track/0enYe3J97eUBaxSbZvYNsQ) | [Amy Adams](https://open.spotify.com/artist/1gkcZQArk5rV8uBwG8y5FX), [James Marsden](https://open.spotify.com/artist/4PMcxAosgYzNpvMCq04K7u) | [Enchanted](https://open.spotify.com/album/3juYz5KfvUJYunlI3caxIc) | 3:12 |
 | 54 | [No Hablaré](https://open.spotify.com/track/2jyOvWnLtMvw859fM2koYR) | [Tatiana y las musas](https://open.spotify.com/artist/6bIfJirg7c2O0HO0QzvO0t) | [Disney Princesas: Canciones de las Princesas](https://open.spotify.com/album/3nDUYzBoVY7wDSRAtyKgR0) | 2:20 |
 
-Snapshot ID: `MCxiYjQ5ODhjNDExNTk1NzNhZTEwOTBhMGI1YWM3NTg2NWRkMDY2YzBl`
+Snapshot ID: `MCxiNmMwZTE4MjU0OGFhZDkyMDgyZDViZjhkYzYzMjc3MGE0NDkxNzVj`

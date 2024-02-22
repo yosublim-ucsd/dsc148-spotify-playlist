@@ -481,6 +481,24 @@
     },
     {
       "album": {
+        "name": "Be Good The Crazy Boys",
+        "url": "https://open.spotify.com/album/61NoXUZtdwxmsMe9CuMrMj"
+      },
+      "artists": [
+        {
+          "name": "Art Feynman",
+          "url": "https://open.spotify.com/artist/6XlzzwOhKSberPLmwDEmkc"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331653,
+      "name": "All I Can Do",
+      "url": "https://open.spotify.com/track/6IiVsz8sBRhkRkaQZMGiOl"
+    },
+    {
+      "album": {
         "name": "We Can Go Anywhere From Here",
         "url": "https://open.spotify.com/album/1ndEe4zbpgT4br8JgV6Az7"
       },
@@ -720,7 +738,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 207800,
       "name": "Always",
       "url": "https://open.spotify.com/track/5uHgKIUzqrpRt10p1crJma"
@@ -1560,7 +1578,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 202986,
       "name": "Best Of Me",
       "url": "https://open.spotify.com/track/5mIbS6VqztXovDHi0Fx9Zj"
@@ -9438,7 +9456,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 178026,
       "name": "Medusa",
       "url": "https://open.spotify.com/track/3fn3cu0a9Rxwfdf98P9Lo2"
@@ -11616,7 +11634,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 273374,
       "name": "Petroglyph",
       "url": "https://open.spotify.com/track/2bzAmBp07YEFIxoc202Ug9"
@@ -13477,6 +13495,24 @@
     },
     {
       "album": {
+        "name": "Blast Off Through the Wicker",
+        "url": "https://open.spotify.com/album/5nkVWnfrsHKXJSfqP9IGjI"
+      },
+      "artists": [
+        {
+          "name": "Art Feynman",
+          "url": "https://open.spotify.com/artist/6XlzzwOhKSberPLmwDEmkc"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187561,
+      "name": "Slow Down",
+      "url": "https://open.spotify.com/track/1rrCrZ5xIe6ElzwFdjLtMm"
+    },
+    {
+      "album": {
         "name": "Smalltown Stardust",
         "url": "https://open.spotify.com/album/4V5w4CUVri58aWlfQhyIs4"
       },
@@ -13848,7 +13884,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 207969,
       "name": "Starfruit",
       "url": "https://open.spotify.com/track/143YSRMmMxsSpw2uTIQhnS"
@@ -13964,7 +14000,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 208293,
       "name": "Stone Killer",
       "url": "https://open.spotify.com/track/0HTdp0zc8NELjhPTbEp7PR"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > turn it up ⬆️ Cover: Pearl Jam
 
-[Spotify](https://open.spotify.com/user/spotify) - 930,478 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 930,532 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 74 | [Castaway](https://open.spotify.com/track/5M6DHWW8omQHWg7Oyx0HAB) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Castaway](https://open.spotify.com/album/7ocVnSLHPixmSoQyVqRby2) | 3:31 |
 | 75 | [Landmines](https://open.spotify.com/track/1O7hVfI7ETQvQmPC0EqfY7) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Landmines](https://open.spotify.com/album/6GcuTn1GfyA7uwTTJj3XgV) | 2:55 |
 
-Snapshot ID: `MCwwZDAzZTVhZmIyZjk5NzgxNmI5MDUyYmMwMmViYTJiY2MxZWQyOTgw`
+Snapshot ID: `MCw1YTkxNjAzMGM5M2Y0NjAzN2RmZWE5OGI3MGVlYzU3YjE0NzRjYmFi`

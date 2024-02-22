@@ -2,7 +2,7 @@
 
 ### [Tamil Indie](https://open.spotify.com/playlist/37i9dQZF1DWVPZhZJQP9HE)
 
-> Tune into the finest of Tamil Indie music!<br/>Cover : Sai Abhyankkar & Samyuktha Viswanathan
+> Tune into the finest of Tamil Indie music!<br/>Cover : Sai Abhyankkar
 
 506 songs - 1 day 6 hr 1 min
 

@@ -1,12 +1,12 @@
 {
   "description": "Immerse yourself in the mysticism of Tulum!",
-  "num_followers": 235642,
+  "num_followers": 235753,
   "original_name": "Tulum Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Njk0ODMzMGQzYTAxMWM1OTZjZmUyZTQyMzU0YWE4NTkwOTVjY2Iy",
+  "snapshot_id": "MCw0OTg1ZTg1NTE5YThhZDRmMjdiNWUxYzk5ZjA0NTlkNjA0NTlkZDli",
   "tracks": [
     {
       "added_at": "2023-09-25 01:20:49",
@@ -435,18 +435,22 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Amansara",
-        "url": "https://open.spotify.com/album/7KJruqiZwhVmnfW3CfvIPu"
+        "name": "Claremont 56: 10 Years, Pt. 1",
+        "url": "https://open.spotify.com/album/2h4ZRjRreYJOPPkETTAZcP"
       },
       "artists": [
         {
-          "name": "Chancha Via Circuito",
-          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+          "name": "Para\u00edso",
+          "url": "https://open.spotify.com/artist/4ID8ALXR4zZrcJFvxL41n0"
+        },
+        {
+          "name": "Jex Opolis",
+          "url": "https://open.spotify.com/artist/6LKEDpmHSbVFGyL2OW0ZbQ"
         }
       ],
-      "duration_ms": 286000,
-      "name": "Jardines",
-      "url": "https://open.spotify.com/track/55Y0gGl9GkNWcEMSLIQwFE"
+      "duration_ms": 429913,
+      "name": "Teu Sorriso - Jex Opolis Remix",
+      "url": "https://open.spotify.com/track/7ts7Z6IW6zSsSPO2UEgnY8"
     },
     {
       "added_at": "2023-12-12 18:58:47",
@@ -467,22 +471,18 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Claremont 56: 10 Years, Pt. 1",
-        "url": "https://open.spotify.com/album/2h4ZRjRreYJOPPkETTAZcP"
+        "name": "Amansara",
+        "url": "https://open.spotify.com/album/7KJruqiZwhVmnfW3CfvIPu"
       },
       "artists": [
         {
-          "name": "Para\u00edso",
-          "url": "https://open.spotify.com/artist/4ID8ALXR4zZrcJFvxL41n0"
-        },
-        {
-          "name": "Jex Opolis",
-          "url": "https://open.spotify.com/artist/6LKEDpmHSbVFGyL2OW0ZbQ"
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
         }
       ],
-      "duration_ms": 429913,
-      "name": "Teu Sorriso - Jex Opolis Remix",
-      "url": "https://open.spotify.com/track/7ts7Z6IW6zSsSPO2UEgnY8"
+      "duration_ms": 286000,
+      "name": "Jardines",
+      "url": "https://open.spotify.com/track/55Y0gGl9GkNWcEMSLIQwFE"
     },
     {
       "added_at": "2024-01-11 03:40:03",
@@ -507,22 +507,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Drama",
-        "url": "https://open.spotify.com/album/3ZTkQB57XYgCuIH8Z09xr3"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Amarante",
-          "url": "https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg"
-        }
-      ],
-      "duration_ms": 213810,
-      "name": "Mar\u00e9",
-      "url": "https://open.spotify.com/track/3d620Rc8aL3jnmKa9aqa8d"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "Safe Passage",
         "url": "https://open.spotify.com/album/79iAX89nw9T3AH2CvsboR3"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 214553,
       "name": "Chicha Nola - Alternative Version",
       "url": "https://open.spotify.com/track/66IrwRUKnmMPiYpBfEGYCm"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Drama",
+        "url": "https://open.spotify.com/album/3ZTkQB57XYgCuIH8Z09xr3"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Amarante",
+          "url": "https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg"
+        }
+      ],
+      "duration_ms": 213810,
+      "name": "Mar\u00e9",
+      "url": "https://open.spotify.com/track/3d620Rc8aL3jnmKa9aqa8d"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -603,6 +603,26 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
+        "name": "El Sonido Nuevo de",
+        "url": "https://open.spotify.com/album/1UHFfBD2kb9JeUcnQqsOUh"
+      },
+      "artists": [
+        {
+          "name": "Pachyman",
+          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
+        },
+        {
+          "name": "Winter",
+          "url": "https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl"
+        }
+      ],
+      "duration_ms": 260156,
+      "name": "All Night Long",
+      "url": "https://open.spotify.com/track/1241XE9zZ2r4EmimoH9znZ"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
         "name": "La Cura",
         "url": "https://open.spotify.com/album/0SMT9ClQIEh49gPEIPH1Nf"
       },
@@ -635,26 +655,6 @@
       "duration_ms": 251428,
       "name": "Temazcal",
       "url": "https://open.spotify.com/track/0SOG7VMrKYCHoMRYqS9fjK"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "El Sonido Nuevo de",
-        "url": "https://open.spotify.com/album/1UHFfBD2kb9JeUcnQqsOUh"
-      },
-      "artists": [
-        {
-          "name": "Pachyman",
-          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
-        },
-        {
-          "name": "Winter",
-          "url": "https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl"
-        }
-      ],
-      "duration_ms": 260156,
-      "name": "All Night Long",
-      "url": "https://open.spotify.com/track/1241XE9zZ2r4EmimoH9znZ"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -733,6 +733,26 @@
       "url": "https://open.spotify.com/track/65x71PXeGjlMy5ooVPDVEU"
     },
     {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Ta Que Tiembla (Pachyman Remix)",
+        "url": "https://open.spotify.com/album/47R62dwZJFZzeiYH9IPBW6"
+      },
+      "artists": [
+        {
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+        },
+        {
+          "name": "Pachyman",
+          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
+        }
+      ],
+      "duration_ms": 201290,
+      "name": "Ta Que Tiembla - Pachyman Remix",
+      "url": "https://open.spotify.com/track/0m1pyzxZBiDy4wWTdNY5mU"
+    },
+    {
       "added_at": "2023-11-16 17:08:10",
       "album": {
         "name": "Ya Va Pasar",
@@ -767,26 +787,6 @@
       "duration_ms": 207621,
       "name": "Paso a Huella - Captain Planet Remix",
       "url": "https://open.spotify.com/track/5cymR1aelP1UGn0wSsLLcq"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Ta Que Tiembla (Pachyman Remix)",
-        "url": "https://open.spotify.com/album/47R62dwZJFZzeiYH9IPBW6"
-      },
-      "artists": [
-        {
-          "name": "Buscabulla",
-          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
-        },
-        {
-          "name": "Pachyman",
-          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
-        }
-      ],
-      "duration_ms": 201290,
-      "name": "Ta Que Tiembla - Pachyman Remix",
-      "url": "https://open.spotify.com/track/0m1pyzxZBiDy4wWTdNY5mU"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -881,22 +881,6 @@
       "url": "https://open.spotify.com/track/13LVADAG1jdD42fe5wihFc"
     },
     {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Skin and Bones",
-        "url": "https://open.spotify.com/album/7iB7ZAFFdjsVDWjCTBZjJi"
-      },
-      "artists": [
-        {
-          "name": "Self Sabotage",
-          "url": "https://open.spotify.com/artist/77KBS3GEO7sQRlaBQ7dDMN"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Pool Party",
-      "url": "https://open.spotify.com/track/5smJ1WgnvqNJruXcPPGf32"
-    },
-    {
       "added_at": "2022-11-17 23:06:29",
       "album": {
         "name": "El Sabor del Viejo Mar",
@@ -935,6 +919,22 @@
       "duration_ms": 202519,
       "name": "Te Quiero Olvidar",
       "url": "https://open.spotify.com/track/2u1UkcNp5l0NgTGjfl7fmZ"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Skin and Bones",
+        "url": "https://open.spotify.com/album/7iB7ZAFFdjsVDWjCTBZjJi"
+      },
+      "artists": [
+        {
+          "name": "Self Sabotage",
+          "url": "https://open.spotify.com/artist/77KBS3GEO7sQRlaBQ7dDMN"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Pool Party",
+      "url": "https://open.spotify.com/track/5smJ1WgnvqNJruXcPPGf32"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Out of This World",
-        "url": "https://open.spotify.com/album/5WQS7c24jKpUWnby2cYzgQ"
-      },
-      "artists": [
-        {
-          "name": "Gentleman's Dub Club",
-          "url": "https://open.spotify.com/artist/6AGZSUNP6AVZ2BTxUsbJsr"
-        }
-      ],
-      "duration_ms": 289576,
-      "name": "Superstylin'",
-      "url": "https://open.spotify.com/track/4G7sC4cJ8wl0W17zU3dAsb"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "Amor Entre Mujer",
         "url": "https://open.spotify.com/album/4tRbLBaf7fQaYZnZp41ttO"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 272799,
       "name": "Amor Entre Mujer",
       "url": "https://open.spotify.com/track/7kbLWbsm16J2WimzrC0iDA"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Out of This World",
+        "url": "https://open.spotify.com/album/5WQS7c24jKpUWnby2cYzgQ"
+      },
+      "artists": [
+        {
+          "name": "Gentleman's Dub Club",
+          "url": "https://open.spotify.com/artist/6AGZSUNP6AVZ2BTxUsbJsr"
+        }
+      ],
+      "duration_ms": 289576,
+      "name": "Superstylin'",
+      "url": "https://open.spotify.com/track/4G7sC4cJ8wl0W17zU3dAsb"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1177,22 +1177,6 @@
       "url": "https://open.spotify.com/track/3SKSAX5IZZzCwbMZRsodvs"
     },
     {
-      "added_at": "2023-02-02 00:29:46",
-      "album": {
-        "name": "Le Fruit Disco",
-        "url": "https://open.spotify.com/album/5iykZjKOnsFRkXPJrPZblc"
-      },
-      "artists": [
-        {
-          "name": "Stuzzi",
-          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
-        }
-      ],
-      "duration_ms": 178573,
-      "name": "satsuma",
-      "url": "https://open.spotify.com/track/3R050VaH43jmKAwoGluK2L"
-    },
-    {
       "added_at": "2022-06-15 04:26:09",
       "album": {
         "name": "Samba del Arenal",
@@ -1229,6 +1213,22 @@
       "url": "https://open.spotify.com/track/2NT4Qm591F5sel8OupNhWp"
     },
     {
+      "added_at": "2023-02-02 00:29:46",
+      "album": {
+        "name": "Le Fruit Disco",
+        "url": "https://open.spotify.com/album/5iykZjKOnsFRkXPJrPZblc"
+      },
+      "artists": [
+        {
+          "name": "Stuzzi",
+          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
+        }
+      ],
+      "duration_ms": 178573,
+      "name": "satsuma",
+      "url": "https://open.spotify.com/track/3R050VaH43jmKAwoGluK2L"
+    },
+    {
       "added_at": "2024-02-02 04:40:19",
       "album": {
         "name": "intentos",
@@ -1243,22 +1243,6 @@
       "duration_ms": 122331,
       "name": "quiz\u00e1s en otra vida",
       "url": "https://open.spotify.com/track/4mozAEJ8Gb7LOF5cX68LYh"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Na Procura",
-        "url": "https://open.spotify.com/album/4MjVYF2WrA2LxHOekWZREA"
-      },
-      "artists": [
-        {
-          "name": "Yemanjo",
-          "url": "https://open.spotify.com/artist/20rsBY890yu3Jms9QHTg7N"
-        }
-      ],
-      "duration_ms": 390505,
-      "name": "Na Procura",
-      "url": "https://open.spotify.com/track/5jHL9thvvnkuKPExerUgTg"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1279,6 +1263,22 @@
       "duration_ms": 180673,
       "name": "Sue\u00f1o N\u00f3made",
       "url": "https://open.spotify.com/track/4abp9DmabIAYtFKvyDPnly"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Na Procura",
+        "url": "https://open.spotify.com/album/4MjVYF2WrA2LxHOekWZREA"
+      },
+      "artists": [
+        {
+          "name": "Yemanjo",
+          "url": "https://open.spotify.com/artist/20rsBY890yu3Jms9QHTg7N"
+        }
+      ],
+      "duration_ms": 390505,
+      "name": "Na Procura",
+      "url": "https://open.spotify.com/track/5jHL9thvvnkuKPExerUgTg"
     },
     {
       "added_at": "2022-11-17 23:06:29",

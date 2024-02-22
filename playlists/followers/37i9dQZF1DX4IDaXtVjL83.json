@@ -1,5 +1,5 @@
 {
-  "2024-02-21": 501899,
+  "2024-02-22": 502041,
   "date_first_scraped": "2021-12-21",
   "description": "Watch out for all the collaborations and cross-overs in the K-Pop world! (Cover: MAX, HUH YUNJIN)",
   "name": "K-Pop X-Overs",
@@ -2975,6 +2975,32 @@
       "duration_ms": 184093,
       "name": "Valley of Lies",
       "url": "https://open.spotify.com/track/3Bgl1xMI00capuTqUHBNUW"
+    },
+    {
+      "album": {
+        "name": "hella (\u02c3\u0323\u0323\u0325\u256d\u256e\u02c2\u0323\u0323\u0325) \u2727 \u2661 \u2027\u00ba\u00b7\u02da",
+        "url": "https://open.spotify.com/album/7nAFPtoN75FBt8WA0CQoBQ"
+      },
+      "artists": [
+        {
+          "name": "1999 WRITE THE FUTURE",
+          "url": "https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak"
+        },
+        {
+          "name": "Tiger JK",
+          "url": "https://open.spotify.com/artist/11S00dFcvNvJahis8MTGMD"
+        },
+        {
+          "name": "Yoon Mirae",
+          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167650,
+      "name": "VOoDOo BOogie",
+      "url": "https://open.spotify.com/track/1jQr59cbLRE73yZOjPnG8e"
     },
     {
       "album": {

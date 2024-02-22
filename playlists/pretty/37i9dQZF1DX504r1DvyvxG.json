@@ -1,12 +1,12 @@
 {
   "description": "Kick back with a collection of iconic and new acoustic tracks with that classic feel. Cover: George Harrison",
-  "num_followers": 2652776,
+  "num_followers": 2652842,
   "original_name": "Classic Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NTQzYmJmNzU0NzA1NGVhNmM2MDc1NThhMmI2MTA4NmQ1NTYyYTNk",
+  "snapshot_id": "MCwyNThlZjhjNDA2MTdjOWNkMWJjMjNjN2IxNjA0OTNkOTdhYjVjNGNj",
   "tracks": [
     {
       "added_at": "2023-03-31 04:00:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "The Times They Are A-Changin'",
-        "url": "https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 192053,
-      "name": "The Times They Are A-Changin'",
-      "url": "https://open.spotify.com/track/52vA3CYKZqZVdQnzRrdZt6"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Rumours",
         "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 295626,
       "name": "Gold Dust Woman - 2004 Remaster",
       "url": "https://open.spotify.com/track/2w3ScXudq4aD3K5HFO5xvx"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "The Times They Are A-Changin'",
+        "url": "https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 192053,
+      "name": "The Times They Are A-Changin'",
+      "url": "https://open.spotify.com/track/52vA3CYKZqZVdQnzRrdZt6"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "Simple Dreams",
+        "url": "https://open.spotify.com/album/15lJi5fAnWPltCKBTUbTry"
+      },
+      "artists": [
+        {
+          "name": "Linda Ronstadt",
+          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
+        }
+      ],
+      "duration_ms": 239399,
+      "name": "Blue Bayou",
+      "url": "https://open.spotify.com/track/3zxklD2EGecZre9MjEEvIU"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "Nashville Skyline",
         "url": "https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 220400,
       "name": "Girl from the North Country",
       "url": "https://open.spotify.com/track/4K1imZQQ0yKtJ40vGmUajS"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Simple Dreams",
-        "url": "https://open.spotify.com/album/15lJi5fAnWPltCKBTUbTry"
-      },
-      "artists": [
-        {
-          "name": "Linda Ronstadt",
-          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
-        }
-      ],
-      "duration_ms": 239399,
-      "name": "Blue Bayou",
-      "url": "https://open.spotify.com/track/3zxklD2EGecZre9MjEEvIU"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Rumor And Sigh",
-        "url": "https://open.spotify.com/album/5udGf9RoW9Sjda4yD0R7mQ"
-      },
-      "artists": [
-        {
-          "name": "Richard Thompson",
-          "url": "https://open.spotify.com/artist/5w75MoT8FfcGOMgjgrj1cz"
-        }
-      ],
-      "duration_ms": 283493,
-      "name": "1952 Vincent Black Lightning",
-      "url": "https://open.spotify.com/track/1KueOLeUZpaNRK2InckxVT"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Mercy Now",
         "url": "https://open.spotify.com/album/1FGmBGkpEjtrtqbW85d9TW"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 350560,
       "name": "Mercy Now",
       "url": "https://open.spotify.com/track/6684GUHy1jpyhJVzpz5OFr"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Rumor And Sigh",
+        "url": "https://open.spotify.com/album/5udGf9RoW9Sjda4yD0R7mQ"
+      },
+      "artists": [
+        {
+          "name": "Richard Thompson",
+          "url": "https://open.spotify.com/artist/5w75MoT8FfcGOMgjgrj1cz"
+        }
+      ],
+      "duration_ms": 283493,
+      "name": "1952 Vincent Black Lightning",
+      "url": "https://open.spotify.com/track/1KueOLeUZpaNRK2InckxVT"
     },
     {
       "added_at": "2023-03-31 04:00:00",

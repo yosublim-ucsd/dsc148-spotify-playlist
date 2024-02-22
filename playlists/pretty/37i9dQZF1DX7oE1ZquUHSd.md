@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 
 > El poder real del Hip Hop latinoamericano y español\. La Banda Bastön en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,392 likes - 100 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,460 likes - 100 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,14 +84,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 | 74 | [I Love You a Lo Vío](https://open.spotify.com/track/1J2LwSgNeYGtAZdlF4jZH3) | [Chystemc](https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv), [Movimiento Original](https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo), [Adosene](https://open.spotify.com/artist/3UHXKNtEt4Tvu4EDYNt4mk) | [Techymuv](https://open.spotify.com/album/6cGNmvcaZLZWdGQHcpNXOe) | 5:11 |
 | 75 | [G.P.S\. \- con Aleman](https://open.spotify.com/track/03e3pnRddWmYOVQlzs3Qnb) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic), [TATOOL](https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo) | [Atrevido](https://open.spotify.com/album/1xBoZOfcOsqd77V6AENKYC) | 3:48 |
 | 76 | [Solo Como Amigos](https://open.spotify.com/track/0LC8PbKuTyhCpsrdLtL3jz) | [La Banda Baston](https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP), [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG) | [Luces Fantasma](https://open.spotify.com/album/0gzZ8kGuKfDlVtBVmDLNJj) | 4:33 |
-| 77 | [Cantando](https://open.spotify.com/track/5AIwfXYjGkWCs4KeeTk2Rq) | [Violadores Del Verso](https://open.spotify.com/artist/1DH9RJ0xBVje6gQmK3LWUY) | [Vivir para Contarlo](https://open.spotify.com/album/6LeLj7gigY7PBgPVZ6P25f) | 5:32 |
-| 78 | [Rolemos Otro](https://open.spotify.com/track/75WXBeClIQQl6ql1nZbDF5) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Rolemos Otro](https://open.spotify.com/album/01AooA3ywuIEk6EQaoWjh3) | 3:14 |
+| 77 | [Rolemos Otro](https://open.spotify.com/track/75WXBeClIQQl6ql1nZbDF5) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Rolemos Otro](https://open.spotify.com/album/01AooA3ywuIEk6EQaoWjh3) | 3:14 |
+| 78 | [Cantando](https://open.spotify.com/track/5AIwfXYjGkWCs4KeeTk2Rq) | [Violadores Del Verso](https://open.spotify.com/artist/1DH9RJ0xBVje6gQmK3LWUY) | [Vivir para Contarlo](https://open.spotify.com/album/6LeLj7gigY7PBgPVZ6P25f) | 5:32 |
 | 79 | [Gimme Tha Power](https://open.spotify.com/track/6grtIVjVPuZWup0fIXF900) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW) | [Donde Jugaran Las Niñas](https://open.spotify.com/album/7h9NpO38NZFD8vcEHw4lkZ) | 4:10 |
 | 80 | [Natural](https://open.spotify.com/track/4awFUpxIo94l8m7DpQwD8e) | [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l) | [Faruz Fit, Vol\. 1](https://open.spotify.com/album/4Uo5YhvoKTSbSGjv8iv9DL) | 3:24 |
 | 81 | [1977](https://open.spotify.com/track/7tOAN6w4a1LD0iqkRnIrhZ) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [1977](https://open.spotify.com/album/3ZhTbUZNobDXuzcYWGzxA3) | 3:21 |
 | 82 | [Desahogo](https://open.spotify.com/track/2sG0DhUyomwiWk5gcMUV7Z) | [Vico C](https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6) | [Desahogo](https://open.spotify.com/album/5uENvCoFFohiR1bBF3IxrN) | 4:05 |
-| 83 | [Me Estás Matando](https://open.spotify.com/track/2mAEh1VRtDyesBTJvnOwHw) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Loop’n Soup](https://open.spotify.com/artist/7aCwMyxItJHSUrLKpUnBTJ) | [Eclipse](https://open.spotify.com/album/58bkzXIuIabVia7LjAOpT3) | 2:15 |
-| 84 | [Babilonia](https://open.spotify.com/track/6A3zrZTU4pe9oqDZgwajA0) | [Morodo](https://open.spotify.com/artist/2OnH4HpywAxWkSOEsyjdjn), [Souchi](https://open.spotify.com/artist/21MQrtr5N5sHLPKK47awzG) | [Ozmlstayl](https://open.spotify.com/album/2gCfdIhyW4Sr2TYWUy2Rkc) | 4:08 |
+| 83 | [Babilonia](https://open.spotify.com/track/6A3zrZTU4pe9oqDZgwajA0) | [Morodo](https://open.spotify.com/artist/2OnH4HpywAxWkSOEsyjdjn), [Souchi](https://open.spotify.com/artist/21MQrtr5N5sHLPKK47awzG) | [Ozmlstayl](https://open.spotify.com/album/2gCfdIhyW4Sr2TYWUy2Rkc) | 4:08 |
+| 84 | [Me Estás Matando](https://open.spotify.com/track/2mAEh1VRtDyesBTJvnOwHw) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Loop’n Soup](https://open.spotify.com/artist/7aCwMyxItJHSUrLKpUnBTJ) | [Eclipse](https://open.spotify.com/album/58bkzXIuIabVia7LjAOpT3) | 2:15 |
 | 85 | [Siempre Peligroso \(feat\. Fermin IV Caballero\)](https://open.spotify.com/track/1hSJnfkEqbGF5afz5aqKqi) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX), [Fermin IV Caballero](https://open.spotify.com/artist/2ADe1weFY6flwz9LoSDcy3) | [Los Grandes Éxitos En Español \(Spanish Greatest Hits\)](https://open.spotify.com/album/7u6yoSRjIBM2EI52DJLMkZ) | 3:57 |
 | 86 | [Unidad 9](https://open.spotify.com/track/4e4zBLxCHWwOyfT1qkXcFb) | [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G) | [Unidad 9](https://open.spotify.com/album/4h2vgnpajpNUUnilwMjxjQ) | 2:40 |
 | 87 | [Duele](https://open.spotify.com/track/0vp1LRAhFT6PK9ixOmFT6E) | [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [Duele](https://open.spotify.com/album/59IkAXXPqzP6DOuYsQ696T) | 2:39 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 | 94 | [Minotauro](https://open.spotify.com/track/3EaQ8vn5i8TUyE5jmSAn2U) | [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd) | [Minotauro](https://open.spotify.com/album/2hAcA9mRxXHUvAJ5SIj1dg) | 4:05 |
 | 95 | [Gaminart](https://open.spotify.com/track/0KjEYmw0KaSg3uXS0GU7un) | [Crack Family](https://open.spotify.com/artist/7zXRgSpjJkQmB9SnPLq1Qk), [Aerophon](https://open.spotify.com/artist/6nfNQvqechLUJaFHYAciep) | [La Familia, Cap\. 1](https://open.spotify.com/album/246c5sNjasakCN9bGXQZvZ) | 5:09 |
 | 96 | [Efectos Vocales](https://open.spotify.com/track/5CTkt6WZHrzG7i060niTmV) | [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto) | [Un Día En Suburbia](https://open.spotify.com/album/0aJ4ulwOTjZIMgcx5zVBd7) | 4:36 |
-| 97 | [光 Luz](https://open.spotify.com/track/5aF2hoUHaU9GainPXIZDMV) | [Lil Supa](https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K) | [Serio](https://open.spotify.com/album/1rSmB2J6FBTsH9NOCV24xW) | 4:44 |
+| 97 | [Tardes](https://open.spotify.com/track/3Y5jrneE5ErAfidBuofcKJ) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Ataraxia: A Plena Luz del Dia](https://open.spotify.com/album/2ioeDgPaHJ7cID0n6KrkXi) | 4:08 |
 | 98 | [Ninguna Chavala Tiene Dueño \- Porque Ella Me Lo Dijo](https://open.spotify.com/track/5fIJBM9OxVNiu4fQLX9vqo) | [Violadores Del Verso](https://open.spotify.com/artist/1DH9RJ0xBVje6gQmK3LWUY) | [Vicios y Virtudes](https://open.spotify.com/album/6SaShuiobMOc9mIiSmP2kY) | 4:29 |
-| 99 | [Tardes](https://open.spotify.com/track/3Y5jrneE5ErAfidBuofcKJ) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Ataraxia: A Plena Luz del Dia](https://open.spotify.com/album/2ioeDgPaHJ7cID0n6KrkXi) | 4:08 |
+| 99 | [光 Luz](https://open.spotify.com/track/5aF2hoUHaU9GainPXIZDMV) | [Lil Supa](https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K) | [Serio](https://open.spotify.com/album/1rSmB2J6FBTsH9NOCV24xW) | 4:44 |
 | 100 | [Apaga el Celular](https://open.spotify.com/track/7BhCvFVZwe04hLpNutqTdg) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Apaga el celular](https://open.spotify.com/album/4hl6j5ZMGsCxBhw3BuDDbK) | 3:45 |
 
-Snapshot ID: `MCxiZDk4OTU4MGEzYmEyOWFiN2Q4YWVlMWMzYTAwNWFhMmE2ZTdjNjdk`
+Snapshot ID: `MCxjZTdkMDczNzUwZjk3MTJjMzFhNmRmYjM3ZDE1Y2U5OTdhZDIzNTU1`

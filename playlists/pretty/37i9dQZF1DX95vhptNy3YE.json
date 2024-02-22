@@ -1,12 +1,12 @@
 {
   "description": "LUDMILLA e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 227203,
+  "num_followers": 227313,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NDU0NzRkZGMxNjZhNTNmNWY4YmYyMGJlYzMzYzgyMGU2MjlkMTU1",
+  "snapshot_id": "MCwwZmRkOTBhMzYzOWM5NDkwYWQyNTJmMzc5NDg4NDI1ZDQ2MGEzMWVj",
   "tracks": [
     {
       "added_at": "2024-02-21 00:00:00",
@@ -587,6 +587,30 @@
     {
       "added_at": "2024-02-21 00:00:00",
       "album": {
+        "name": "Dacoromode",
+        "url": "https://open.spotify.com/album/4wsh2d30QdwnFQLEpSkXKz"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "meLLo",
+          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
+        },
+        {
+          "name": "C\u00fapula",
+          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
+        }
+      ],
+      "duration_ms": 148525,
+      "name": "Cheiro de Sexo",
+      "url": "https://open.spotify.com/track/2cfUQw6GgAn50VNCcH1th4"
+    },
+    {
+      "added_at": "2024-02-21 00:00:00",
+      "album": {
         "name": "Perdas & Ganhos",
         "url": "https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB"
       },
@@ -619,54 +643,6 @@
     {
       "added_at": "2024-02-21 00:00:00",
       "album": {
-        "name": "Dacoromode",
-        "url": "https://open.spotify.com/album/4wsh2d30QdwnFQLEpSkXKz"
-      },
-      "artists": [
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "meLLo",
-          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
-        },
-        {
-          "name": "C\u00fapula",
-          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
-        }
-      ],
-      "duration_ms": 148525,
-      "name": "Cheiro de Sexo",
-      "url": "https://open.spotify.com/track/2cfUQw6GgAn50VNCcH1th4"
-    },
-    {
-      "added_at": "2024-02-21 00:00:00",
-      "album": {
-        "name": "Trap The Fato Deluxe",
-        "url": "https://open.spotify.com/album/0un91YASLvkBJCWKdCPj4t"
-      },
-      "artists": [
-        {
-          "name": "Derek",
-          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
-        },
-        {
-          "name": "Emit\u00ea \u00danico",
-          "url": "https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75"
-        },
-        {
-          "name": "Senndy",
-          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
-        }
-      ],
-      "duration_ms": 180923,
-      "name": "7 NOVINHA PRA 2 MLK - BONUS TRACK",
-      "url": "https://open.spotify.com/track/53d5THIukxStMHSJrGOOvu"
-    },
-    {
-      "added_at": "2024-02-21 00:00:00",
-      "album": {
         "name": "Ordem do Mano",
         "url": "https://open.spotify.com/album/7A6mhzGxqp111NGQ5q1fGF"
       },
@@ -691,6 +667,30 @@
       "duration_ms": 195553,
       "name": "Ordem do Mano",
       "url": "https://open.spotify.com/track/5dq5AD4ijms2xZTP6a71ho"
+    },
+    {
+      "added_at": "2024-02-21 00:00:00",
+      "album": {
+        "name": "Trap The Fato Deluxe",
+        "url": "https://open.spotify.com/album/0un91YASLvkBJCWKdCPj4t"
+      },
+      "artists": [
+        {
+          "name": "Derek",
+          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
+        },
+        {
+          "name": "Emit\u00ea \u00danico",
+          "url": "https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75"
+        },
+        {
+          "name": "Senndy",
+          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
+        }
+      ],
+      "duration_ms": 180923,
+      "name": "7 NOVINHA PRA 2 MLK - BONUS TRACK",
+      "url": "https://open.spotify.com/track/53d5THIukxStMHSJrGOOvu"
     },
     {
       "added_at": "2024-02-21 00:00:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-02-21 00:00:00",
       "album": {
-        "name": "Nos Arcos da Lapa",
-        "url": "https://open.spotify.com/album/6xCbCIEjQgo85M9gkfiyqi"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9ricles",
-          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
-        }
-      ],
-      "duration_ms": 237440,
-      "name": "Final De Tarde",
-      "url": "https://open.spotify.com/track/61owCysJTu0HlCDFSASYJw"
-    },
-    {
-      "added_at": "2024-02-21 00:00:00",
-      "album": {
         "name": "Nota D\u00f3",
         "url": "https://open.spotify.com/album/0yU8bkVURmhaMPZyKHxtrP"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 202550,
       "name": "Nota D\u00f3",
       "url": "https://open.spotify.com/track/1ziAahgQu5yucu1ZLwwe0b"
+    },
+    {
+      "added_at": "2024-02-21 00:00:00",
+      "album": {
+        "name": "Nos Arcos da Lapa",
+        "url": "https://open.spotify.com/album/6xCbCIEjQgo85M9gkfiyqi"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+        }
+      ],
+      "duration_ms": 237440,
+      "name": "Final De Tarde",
+      "url": "https://open.spotify.com/track/61owCysJTu0HlCDFSASYJw"
     },
     {
       "added_at": "2024-02-21 00:00:00",
@@ -947,26 +947,6 @@
     {
       "added_at": "2024-02-21 00:00:00",
       "album": {
-        "name": "Posturada (Ao Vivo)",
-        "url": "https://open.spotify.com/album/51llvmVtkWl0frJYq2vvjz"
-      },
-      "artists": [
-        {
-          "name": "Lukinhas",
-          "url": "https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp"
-        },
-        {
-          "name": "Mumuzinho",
-          "url": "https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7"
-        }
-      ],
-      "duration_ms": 214783,
-      "name": "Posturada - Ao Vivo",
-      "url": "https://open.spotify.com/track/7EaVareROxLwkLAsQ5iqrt"
-    },
-    {
-      "added_at": "2024-02-21 00:00:00",
-      "album": {
         "name": "Amor e \u00d3dio",
         "url": "https://open.spotify.com/album/4XjGW9ICzbGHxtWeI7dUAt"
       },
@@ -995,6 +975,26 @@
       "duration_ms": 157868,
       "name": "Casa Bomba",
       "url": "https://open.spotify.com/track/1o8OibQkhsMFXRc7xfJfN9"
+    },
+    {
+      "added_at": "2024-02-21 00:00:00",
+      "album": {
+        "name": "Posturada (Ao Vivo)",
+        "url": "https://open.spotify.com/album/51llvmVtkWl0frJYq2vvjz"
+      },
+      "artists": [
+        {
+          "name": "Lukinhas",
+          "url": "https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp"
+        },
+        {
+          "name": "Mumuzinho",
+          "url": "https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7"
+        }
+      ],
+      "duration_ms": 214783,
+      "name": "Posturada - Ao Vivo",
+      "url": "https://open.spotify.com/track/7EaVareROxLwkLAsQ5iqrt"
     },
     {
       "added_at": "2024-02-21 00:00:00",
@@ -1067,6 +1067,26 @@
     {
       "added_at": "2024-02-21 00:00:00",
       "album": {
+        "name": "Pagode do Adame Entre Amigos, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4QnKMl7OAicnxWQh6qUyRY"
+      },
+      "artists": [
+        {
+          "name": "Pagode do Adame",
+          "url": "https://open.spotify.com/artist/4GrG809bkgPIchC0oGU1Z0"
+        },
+        {
+          "name": "Gamadinho",
+          "url": "https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt"
+        }
+      ],
+      "duration_ms": 264471,
+      "name": "N\u00e3o Tem Hora, Nem Lugar / Por Favor / Amor a Tr\u00eas - Ao Vivo",
+      "url": "https://open.spotify.com/track/3x1mtKBzPRU8tc8Ld6ujVV"
+    },
+    {
+      "added_at": "2024-02-21 00:00:00",
+      "album": {
         "name": "\u00c9 Quem?",
         "url": "https://open.spotify.com/album/2dgLoYt3odmlfjfQYXlKhL"
       },
@@ -1087,26 +1107,6 @@
       "duration_ms": 170647,
       "name": "N\u00fameros da Sorte",
       "url": "https://open.spotify.com/track/6UrFzZHrL84mjVnZHiQICM"
-    },
-    {
-      "added_at": "2024-02-21 00:00:00",
-      "album": {
-        "name": "Pagode do Adame Entre Amigos, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4QnKMl7OAicnxWQh6qUyRY"
-      },
-      "artists": [
-        {
-          "name": "Pagode do Adame",
-          "url": "https://open.spotify.com/artist/4GrG809bkgPIchC0oGU1Z0"
-        },
-        {
-          "name": "Gamadinho",
-          "url": "https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt"
-        }
-      ],
-      "duration_ms": 264471,
-      "name": "N\u00e3o Tem Hora, Nem Lugar / Por Favor / Amor a Tr\u00eas - Ao Vivo",
-      "url": "https://open.spotify.com/track/3x1mtKBzPRU8tc8Ld6ujVV"
     },
     {
       "added_at": "2024-02-21 00:00:00",
@@ -1135,6 +1135,26 @@
     {
       "added_at": "2024-02-21 00:00:00",
       "album": {
+        "name": "Energia Benzadeus, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3gobJYd9S5NWyQERsekza1"
+      },
+      "artists": [
+        {
+          "name": "Grupo Benzadeus",
+          "url": "https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy"
+        },
+        {
+          "name": "Matheus Fernandes",
+          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
+        }
+      ],
+      "duration_ms": 204058,
+      "name": "Polo Norte - Ao Vivo",
+      "url": "https://open.spotify.com/track/0TTmPqKiRVm4eE7ZqQ17ny"
+    },
+    {
+      "added_at": "2024-02-21 00:00:00",
+      "album": {
         "name": "O Que Que T\u00e1 Acontecendo",
         "url": "https://open.spotify.com/album/5smjl2yakSMt8DWxXVrDwG"
       },
@@ -1155,26 +1175,6 @@
       "duration_ms": 158769,
       "name": "O Que Que T\u00e1 Acontecendo",
       "url": "https://open.spotify.com/track/1JSwsmwxrunlHzo7pjeWMY"
-    },
-    {
-      "added_at": "2024-02-21 00:00:00",
-      "album": {
-        "name": "Energia Benzadeus, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3gobJYd9S5NWyQERsekza1"
-      },
-      "artists": [
-        {
-          "name": "Grupo Benzadeus",
-          "url": "https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy"
-        },
-        {
-          "name": "Matheus Fernandes",
-          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
-        }
-      ],
-      "duration_ms": 204058,
-      "name": "Polo Norte - Ao Vivo",
-      "url": "https://open.spotify.com/track/0TTmPqKiRVm4eE7ZqQ17ny"
     },
     {
       "added_at": "2024-02-21 00:00:00",

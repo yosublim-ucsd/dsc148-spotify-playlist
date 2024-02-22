@@ -1,12 +1,12 @@
 {
   "description": "Grab your dancing shoes and strut your stuff with these upbeat blues numbers.",
-  "num_followers": 58609,
+  "num_followers": 58642,
   "original_name": "Upbeat Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNjM3MGM4NDI1MTNjM2NkYzYyY2Y1YzkxNDc5MTM3MDY3YTY2ZTA1",
+  "snapshot_id": "MCxjMjk3Y2ZjMGFlMjVhOTUzODI0MTNmM2UwMWQ5MGQyZGI1YzgwZjI0",
   "tracks": [
     {
       "added_at": "2023-11-24 19:21:59",
@@ -171,22 +171,6 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "His Best 1956-1964 - The Chess 50th Anniversary Collection",
-        "url": "https://open.spotify.com/album/21Lv19NsmMPpwUL58JCP57"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 173040,
-      "name": "Got My Mojo Working",
-      "url": "https://open.spotify.com/track/65VzqBb5ogD2xIFD8jetMG"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
         "name": "The Real Deal: Greatest Hits Volume 1",
         "url": "https://open.spotify.com/album/1cBgyEhogUvaKVgsdczgHm"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 169000,
       "name": "Nadine - Stereo Remix",
       "url": "https://open.spotify.com/track/5QHrCl8kOMIFOWYQQzHXFH"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "The Chess Box",
+        "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 172059,
+      "name": "Got My Mojo Working",
+      "url": "https://open.spotify.com/track/18n0zch7bRo453Iwq98xYf"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "Howlin' Wolf",
-        "url": "https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 147400,
-      "name": "Wang Dang Doodle",
-      "url": "https://open.spotify.com/track/1TrOTKixl3cYx8FICICXzK"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
         "name": "Sharecropper's Son",
         "url": "https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 186960,
       "name": "Sharecropper\u2019s Son",
       "url": "https://open.spotify.com/track/5TTctmQn2AlFAgdCB5sGoU"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "Howlin' Wolf",
+        "url": "https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 147400,
+      "name": "Wang Dang Doodle",
+      "url": "https://open.spotify.com/track/1TrOTKixl3cYx8FICICXzK"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/1q9Zi4GCAuso7SetyHHaXg"
-      },
-      "artists": [
-        {
-          "name": "Sonny Boy Williamson II",
-          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
-        }
-      ],
-      "duration_ms": 168466,
-      "name": "One Way Out - Mono Version",
-      "url": "https://open.spotify.com/track/2itCQlm9s7yW21eZoF4eyH"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
         "name": "Whose Muddy Shoes",
         "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
       },
@@ -607,18 +591,34 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "The Essential Little Walter",
-        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/1q9Zi4GCAuso7SetyHHaXg"
       },
       "artists": [
         {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+          "name": "Sonny Boy Williamson II",
+          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
         }
       ],
-      "duration_ms": 144493,
-      "name": "Just Your Fool",
-      "url": "https://open.spotify.com/track/4Dxe3Y8MPu7ffNrBFPNzRL"
+      "duration_ms": 168466,
+      "name": "One Way Out - Mono Version",
+      "url": "https://open.spotify.com/track/2itCQlm9s7yW21eZoF4eyH"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 156733,
+      "name": "Poor Boy",
+      "url": "https://open.spotify.com/track/6UAPJQ5qrM5oRViQCC9sFd"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -655,18 +655,18 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0"
+        "name": "The Essential Little Walter",
+        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
       },
       "artists": [
         {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 156733,
-      "name": "Poor Boy",
-      "url": "https://open.spotify.com/track/6UAPJQ5qrM5oRViQCC9sFd"
+      "duration_ms": 144493,
+      "name": "Just Your Fool",
+      "url": "https://open.spotify.com/track/4Dxe3Y8MPu7ffNrBFPNzRL"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -899,18 +899,18 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "Shake Your Money Maker: The Best Of The Fire Sessions",
-        "url": "https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu"
+        "name": "Black Magic",
+        "url": "https://open.spotify.com/album/2AfgpZdbs8CI1MvjFaus2A"
       },
       "artists": [
         {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
         }
       ],
-      "duration_ms": 152893,
-      "name": "Shake Your Money Maker",
-      "url": "https://open.spotify.com/track/2VxnY6jbl0SckkZp9wrNF7"
+      "duration_ms": 265720,
+      "name": "Black Magic",
+      "url": "https://open.spotify.com/track/4GuQf92xMVo9FYRYnj37OL"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -931,18 +931,18 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "Black Magic",
-        "url": "https://open.spotify.com/album/2AfgpZdbs8CI1MvjFaus2A"
+        "name": "Shake Your Money Maker: The Best Of The Fire Sessions",
+        "url": "https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu"
       },
       "artists": [
         {
-          "name": "Joanne Shaw Taylor",
-          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
         }
       ],
-      "duration_ms": 265720,
-      "name": "Black Magic",
-      "url": "https://open.spotify.com/track/4GuQf92xMVo9FYRYnj37OL"
+      "duration_ms": 152893,
+      "name": "Shake Your Money Maker",
+      "url": "https://open.spotify.com/track/2VxnY6jbl0SckkZp9wrNF7"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "Change My Way",
-        "url": "https://open.spotify.com/album/3hiph4Eva4CueYfapJb312"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 175733,
-      "name": "Just Like I Treat You - Single Version",
-      "url": "https://open.spotify.com/track/4rFIhtPEMIL63bc8mNWUrO"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
         "name": "I Pity The Fool: The Duke Recordings, Vol. One",
         "url": "https://open.spotify.com/album/58DNpB9P4aUKPtaTiZmjK6"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 157800,
       "name": "Don't Want No Woman",
       "url": "https://open.spotify.com/track/4wf3I828IPvlbEGw7IZ3Ic"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "Change My Way",
+        "url": "https://open.spotify.com/album/3hiph4Eva4CueYfapJb312"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 175733,
+      "name": "Just Like I Treat You - Single Version",
+      "url": "https://open.spotify.com/track/4rFIhtPEMIL63bc8mNWUrO"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -1267,26 +1267,6 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "Lazy Morning Blues",
-        "url": "https://open.spotify.com/album/6Y2wxeU2LnlU2kbnbsXnGe"
-      },
-      "artists": [
-        {
-          "name": "Gang Of Broken Arms",
-          "url": "https://open.spotify.com/artist/6w2X5ZcVoSy0I2dyMDwI3w"
-        },
-        {
-          "name": "Bruce James",
-          "url": "https://open.spotify.com/artist/0lLevbweYkhEvZRnowRBIW"
-        }
-      ],
-      "duration_ms": 116538,
-      "name": "Lazy Morning Blues",
-      "url": "https://open.spotify.com/track/6Aeq5LjXljB082MugZX8vS"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
         "name": "The High Cost Of Low Living",
         "url": "https://open.spotify.com/album/0ICEUWSi4yT9BpkjR0lo6N"
       },
@@ -1303,6 +1283,26 @@
       "duration_ms": 231800,
       "name": "Get Right Before You Get Left",
       "url": "https://open.spotify.com/track/3C0kKoOwndJkF07oweozpz"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "Lazy Morning Blues",
+        "url": "https://open.spotify.com/album/6Y2wxeU2LnlU2kbnbsXnGe"
+      },
+      "artists": [
+        {
+          "name": "Gang Of Broken Arms",
+          "url": "https://open.spotify.com/artist/6w2X5ZcVoSy0I2dyMDwI3w"
+        },
+        {
+          "name": "Bruce James",
+          "url": "https://open.spotify.com/artist/0lLevbweYkhEvZRnowRBIW"
+        }
+      ],
+      "duration_ms": 116538,
+      "name": "Lazy Morning Blues",
+      "url": "https://open.spotify.com/track/6Aeq5LjXljB082MugZX8vS"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "The Imperial Recordings",
-        "url": "https://open.spotify.com/album/3KUmrsZw8O08srFBL49qA3"
-      },
-      "artists": [
-        {
-          "name": "Snooks Eaglin",
-          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
-        }
-      ],
-      "duration_ms": 154200,
-      "name": "I've Been Walkin'",
-      "url": "https://open.spotify.com/track/38YR42D9VzKtA29ah7eetq"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
         "name": "Mighty Love",
         "url": "https://open.spotify.com/album/7IeOJ8Oy6bgQFEn317r0Sy"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 227213,
       "name": "Mighty Love",
       "url": "https://open.spotify.com/track/0uGMmiAC2eLxS8o7rQj6ga"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "The Imperial Recordings",
+        "url": "https://open.spotify.com/album/3KUmrsZw8O08srFBL49qA3"
+      },
+      "artists": [
+        {
+          "name": "Snooks Eaglin",
+          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
+        }
+      ],
+      "duration_ms": 154200,
+      "name": "I've Been Walkin'",
+      "url": "https://open.spotify.com/track/38YR42D9VzKtA29ah7eetq"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "Hail To The Kings!",
-        "url": "https://open.spotify.com/album/6c78ccr3oXB3tYLtW8PrRA"
-      },
-      "artists": [
-        {
-          "name": "The Cash Box Kings",
-          "url": "https://open.spotify.com/artist/05eG6kRq0vo8hfQxW2sh8c"
-        }
-      ],
-      "duration_ms": 170293,
-      "name": "The Wrong Number",
-      "url": "https://open.spotify.com/track/7gE08bSorAo6bCH5pmuZCA"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
         "name": "Lucille",
         "url": "https://open.spotify.com/album/5aowahjEeRgbLALRPb9a2s"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 124800,
       "name": "You Move Me So",
       "url": "https://open.spotify.com/track/06MLrSTAZxLhdrIpHPt2GO"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "Hail To The Kings!",
+        "url": "https://open.spotify.com/album/6c78ccr3oXB3tYLtW8PrRA"
+      },
+      "artists": [
+        {
+          "name": "The Cash Box Kings",
+          "url": "https://open.spotify.com/artist/05eG6kRq0vo8hfQxW2sh8c"
+        }
+      ],
+      "duration_ms": 170293,
+      "name": "The Wrong Number",
+      "url": "https://open.spotify.com/track/7gE08bSorAo6bCH5pmuZCA"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "She Moved On",
-        "url": "https://open.spotify.com/album/3k1lHrl8ftWsnFcoYjVCoU"
-      },
-      "artists": [
-        {
-          "name": "McKinley James",
-          "url": "https://open.spotify.com/artist/3mddgnxcr3vrHOb9f8AavB"
-        }
-      ],
-      "duration_ms": 167275,
-      "name": "She Moved On",
-      "url": "https://open.spotify.com/track/5JKu3vgydfzinPrv3tGq1c"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
         "name": "Lightnin' Strikes, Volume 2",
         "url": "https://open.spotify.com/album/6whMk1RJYnrgTTH3QpCKx9"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 295068,
       "name": "Shake It Baby",
       "url": "https://open.spotify.com/track/3E7U6OXYRiXzAr898yyP7G"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "She Moved On",
+        "url": "https://open.spotify.com/album/3k1lHrl8ftWsnFcoYjVCoU"
+      },
+      "artists": [
+        {
+          "name": "McKinley James",
+          "url": "https://open.spotify.com/artist/3mddgnxcr3vrHOb9f8AavB"
+        }
+      ],
+      "duration_ms": 167275,
+      "name": "She Moved On",
+      "url": "https://open.spotify.com/track/5JKu3vgydfzinPrv3tGq1c"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -1779,18 +1779,18 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "I Cry For You (Live)",
-        "url": "https://open.spotify.com/album/4hGPhYsYb7TiEm6V71rnSA"
+        "name": "Alligator Records 50 Years Of Genuine Houserockin' Music",
+        "url": "https://open.spotify.com/album/30aecilbP86mA0dVdWcFp0"
       },
       "artists": [
         {
-          "name": "GA-20",
-          "url": "https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT"
+          "name": "Professor Longhair",
+          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
         }
       ],
-      "duration_ms": 132358,
-      "name": "I Cry For You - Live",
-      "url": "https://open.spotify.com/track/6BTAi9ZQs9fX79WwibqLzQ"
+      "duration_ms": 293106,
+      "name": "It's My Fault, Darling - Remastered",
+      "url": "https://open.spotify.com/track/1sgJMQ4xz3GmWDulQuCvwS"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -1811,18 +1811,18 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "Alligator Records 50 Years Of Genuine Houserockin' Music",
-        "url": "https://open.spotify.com/album/30aecilbP86mA0dVdWcFp0"
+        "name": "I Cry For You (Live)",
+        "url": "https://open.spotify.com/album/4hGPhYsYb7TiEm6V71rnSA"
       },
       "artists": [
         {
-          "name": "Professor Longhair",
-          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
+          "name": "GA-20",
+          "url": "https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT"
         }
       ],
-      "duration_ms": 293106,
-      "name": "It's My Fault, Darling - Remastered",
-      "url": "https://open.spotify.com/track/1sgJMQ4xz3GmWDulQuCvwS"
+      "duration_ms": 132358,
+      "name": "I Cry For You - Live",
+      "url": "https://open.spotify.com/track/6BTAi9ZQs9fX79WwibqLzQ"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -2039,22 +2039,6 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "Hound Dog On a Chain",
-        "url": "https://open.spotify.com/album/2sqPeDIMh2NroqCEU0DTto"
-      },
-      "artists": [
-        {
-          "name": "Blue Moon Marquee",
-          "url": "https://open.spotify.com/artist/6bVy3C1kw2FPWgpLcoBWk1"
-        }
-      ],
-      "duration_ms": 201640,
-      "name": "Hound Dog On a Chain",
-      "url": "https://open.spotify.com/track/7cqji2mGT2RZLt8MdpH0Eb"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
         "name": "Mississippi Nights (Live)",
         "url": "https://open.spotify.com/album/1cvWBICxDY8MTlff2niSji"
       },
@@ -2071,18 +2055,18 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "Last of the Blues Shouters",
-        "url": "https://open.spotify.com/album/3r0loF6keIGuDG7n6YQ1t0"
+        "name": "Hound Dog On a Chain",
+        "url": "https://open.spotify.com/album/2sqPeDIMh2NroqCEU0DTto"
       },
       "artists": [
         {
-          "name": "Big Miller",
-          "url": "https://open.spotify.com/artist/4c8m7LzbeEJdqVMfNAW2xn"
+          "name": "Blue Moon Marquee",
+          "url": "https://open.spotify.com/artist/6bVy3C1kw2FPWgpLcoBWk1"
         }
       ],
-      "duration_ms": 249840,
-      "name": "Hello Little Girl",
-      "url": "https://open.spotify.com/track/2nof4LgSAxUeJPiwLAvkND"
+      "duration_ms": 201640,
+      "name": "Hound Dog On a Chain",
+      "url": "https://open.spotify.com/track/7cqji2mGT2RZLt8MdpH0Eb"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -2099,22 +2083,6 @@
       "duration_ms": 210946,
       "name": "Feels Good Doin' Bad",
       "url": "https://open.spotify.com/track/3xtSEgKwfAwuHLyEGmmgHX"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
-        "name": "I Shouldn\u2019t Care (Bonus Track)",
-        "url": "https://open.spotify.com/album/2LnL8tzJFM6ZQXonISL2ng"
-      },
-      "artists": [
-        {
-          "name": "Connor Selby",
-          "url": "https://open.spotify.com/artist/4UDgyOm8Xpbxqid8l427Mc"
-        }
-      ],
-      "duration_ms": 219733,
-      "name": "I Shouldn't Care - Bonus Track",
-      "url": "https://open.spotify.com/track/4IwoEUzs5INGFAxFjSdztQ"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -2147,6 +2115,38 @@
       "duration_ms": 227498,
       "name": "Movin' On",
       "url": "https://open.spotify.com/track/5pVzFUkzm4MSTNwlvyaNbu"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "I Shouldn\u2019t Care (Bonus Track)",
+        "url": "https://open.spotify.com/album/2LnL8tzJFM6ZQXonISL2ng"
+      },
+      "artists": [
+        {
+          "name": "Connor Selby",
+          "url": "https://open.spotify.com/artist/4UDgyOm8Xpbxqid8l427Mc"
+        }
+      ],
+      "duration_ms": 219733,
+      "name": "I Shouldn't Care - Bonus Track",
+      "url": "https://open.spotify.com/track/4IwoEUzs5INGFAxFjSdztQ"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "Last of the Blues Shouters",
+        "url": "https://open.spotify.com/album/3r0loF6keIGuDG7n6YQ1t0"
+      },
+      "artists": [
+        {
+          "name": "Big Miller",
+          "url": "https://open.spotify.com/artist/4c8m7LzbeEJdqVMfNAW2xn"
+        }
+      ],
+      "duration_ms": 249840,
+      "name": "Hello Little Girl",
+      "url": "https://open.spotify.com/track/2nof4LgSAxUeJPiwLAvkND"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -2235,22 +2235,6 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "The Original Lost Elektra Sessions",
-        "url": "https://open.spotify.com/album/1cJp20pcnm5tM2eeBhIbMz"
-      },
-      "artists": [
-        {
-          "name": "The Paul Butterfield Blues Band",
-          "url": "https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i"
-        }
-      ],
-      "duration_ms": 274693,
-      "name": "Hate to See You Go",
-      "url": "https://open.spotify.com/track/57Paxn9MrW8d8FmFyndLKj"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
         "name": "Golden Girl Blues",
         "url": "https://open.spotify.com/album/1iArO8gjyaE6y0MUW9H8QQ"
       },
@@ -2263,6 +2247,22 @@
       "duration_ms": 307320,
       "name": "Golden Girl Blues",
       "url": "https://open.spotify.com/track/6Zrmhv80Oc3ASwhRtjXDPF"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "The Original Lost Elektra Sessions",
+        "url": "https://open.spotify.com/album/1cJp20pcnm5tM2eeBhIbMz"
+      },
+      "artists": [
+        {
+          "name": "The Paul Butterfield Blues Band",
+          "url": "https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i"
+        }
+      ],
+      "duration_ms": 274693,
+      "name": "Hate to See You Go",
+      "url": "https://open.spotify.com/track/57Paxn9MrW8d8FmFyndLKj"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -2283,22 +2283,6 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "Presenting Robert Nighthawk",
-        "url": "https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS"
-      },
-      "artists": [
-        {
-          "name": "Robert Nighthawk",
-          "url": "https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG"
-        }
-      ],
-      "duration_ms": 159613,
-      "name": "Kansas City Blues",
-      "url": "https://open.spotify.com/track/3MyWr3R6eiUDDJiTpaFurG"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
         "name": "Badlands",
         "url": "https://open.spotify.com/album/1zJAyAnj2LQRbdTfH8DUbN"
       },
@@ -2311,6 +2295,22 @@
       "duration_ms": 260773,
       "name": "Don't Want No Woman",
       "url": "https://open.spotify.com/track/33j44avBvB6ybyhtOYxK7u"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "Presenting Robert Nighthawk",
+        "url": "https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS"
+      },
+      "artists": [
+        {
+          "name": "Robert Nighthawk",
+          "url": "https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG"
+        }
+      ],
+      "duration_ms": 159613,
+      "name": "Kansas City Blues",
+      "url": "https://open.spotify.com/track/3MyWr3R6eiUDDJiTpaFurG"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -2363,22 +2363,6 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "The Imperial Recordings",
-        "url": "https://open.spotify.com/album/3KUmrsZw8O08srFBL49qA3"
-      },
-      "artists": [
-        {
-          "name": "Snooks Eaglin",
-          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
-        }
-      ],
-      "duration_ms": 172440,
-      "name": "I'm Slippin' In",
-      "url": "https://open.spotify.com/track/6P7KVBsfow2UkcFgc7Et51"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
         "name": "The Bait In The Snare",
         "url": "https://open.spotify.com/album/5JV5PJBe0MqEdiwLDbxN4H"
       },
@@ -2395,6 +2379,22 @@
       "duration_ms": 180320,
       "name": "The Bait In The Snare",
       "url": "https://open.spotify.com/track/2jk8ZBsS18w67UjQO8u3qK"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "The Imperial Recordings",
+        "url": "https://open.spotify.com/album/3KUmrsZw8O08srFBL49qA3"
+      },
+      "artists": [
+        {
+          "name": "Snooks Eaglin",
+          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
+        }
+      ],
+      "duration_ms": 172440,
+      "name": "I'm Slippin' In",
+      "url": "https://open.spotify.com/track/6P7KVBsfow2UkcFgc7Et51"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -2467,22 +2467,6 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "Portrait",
-        "url": "https://open.spotify.com/album/1UiKbtoGljMrS1yxGbeVhV"
-      },
-      "artists": [
-        {
-          "name": "Mud Morganfield",
-          "url": "https://open.spotify.com/artist/1MkszvLJgUVCskrRqCLbmn"
-        }
-      ],
-      "duration_ms": 210827,
-      "name": "Short Dressed Woman",
-      "url": "https://open.spotify.com/track/65GenukKzAktEWBMDRhxkD"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
         "name": "Greybird",
         "url": "https://open.spotify.com/album/25NxKFjwbaZclwi4WizmrD"
       },
@@ -2499,6 +2483,22 @@
       "duration_ms": 226866,
       "name": "Syracuse Boots",
       "url": "https://open.spotify.com/track/60wLkHNSDcXE3iCtNxmWmr"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "Portrait",
+        "url": "https://open.spotify.com/album/1UiKbtoGljMrS1yxGbeVhV"
+      },
+      "artists": [
+        {
+          "name": "Mud Morganfield",
+          "url": "https://open.spotify.com/artist/1MkszvLJgUVCskrRqCLbmn"
+        }
+      ],
+      "duration_ms": 210827,
+      "name": "Short Dressed Woman",
+      "url": "https://open.spotify.com/track/65GenukKzAktEWBMDRhxkD"
     }
   ],
   "unique_name": "Upbeat Blues",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover: Luciano and Omah Lay
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,527 likes - 80 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,589 likes - 80 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 | 30 | [Propeller \(feat\. Dave & BNXN\)](https://open.spotify.com/track/4A7sSA10D35HQUNrSOl5Zo) | [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Propeller \(feat\. Dave & BNXN\)](https://open.spotify.com/album/1HpHd9hLNy77kZx5w07xqD) | 3:24 |
 | 31 | [I Made It \(feat\. Bobby Shmurda & Bien\)](https://open.spotify.com/track/2xCAYXRU26CeRNchBUs91p) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Bobby Shmurda](https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO) | [I Made It \(feat\. Bobby Shmurda & Bien\)](https://open.spotify.com/album/7yJk5o612tCEOe2mEaCX7t) | 4:28 |
 | 32 | [Militerian \(feat\. Naira Marley\)](https://open.spotify.com/track/0oBDJWGnTJs9C0Ax90tMj0) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [Beautiful And Brutal Yard](https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD) | 3:13 |
-| 33 | [Jungle Music, Pt.1](https://open.spotify.com/track/3lHz5md9boT0yiIDRutanu) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Jungle Music, Pt.1](https://open.spotify.com/album/1u53HTtDzE94WWWoGFUCFy) | 3:05 |
+| 33 | [Jungle Music, Pt.1](https://open.spotify.com/track/6igRiUF4wplkbTr2ecNx8Y) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Jungle Music, Pt.1](https://open.spotify.com/album/3YosaIj8eB3PHuQv5QGtB0) | 3:05 |
 | 34 | [Sex & Marijuana](https://open.spotify.com/track/4IYlivA2JNikyAskn9JVhh) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC) | [Alusa Why Are You Topless?](https://open.spotify.com/album/1tqKgXiDjsilZpv3aLaEGm) | 2:57 |
 | 35 | [soso \(with Ozuna\)](https://open.spotify.com/track/4xy8o1WzpHwEEg0IOiU7rJ) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Boy Alone \(Deluxe\)](https://open.spotify.com/album/5EY6AWFCHJgcY00gUSnlrq) | 3:22 |
 | 36 | [Simple Things](https://open.spotify.com/track/7HupMpgxBnu6QgEsJibKU0) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Blended](https://open.spotify.com/album/6Sc37HYChx5UIVyRzsuEuw) | 2:48 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 | 79 | [Foreigner \- Remix](https://open.spotify.com/track/6XgQzX1QmQO5m7uVXqWEHE) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N) | [Foreigner \(Remix\)](https://open.spotify.com/album/5uGTNlBHY623RJaSi1c5ZR) | 3:53 |
 | 80 | [Push \(feat\. Omah Lay\)](https://open.spotify.com/track/50EkygI3tkKMnD5e0MVNMF) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Push \(feat\. Omah Lay\)](https://open.spotify.com/album/0f0qfURHgJCrbUARPD1zZ6) | 2:42 |
 
-Snapshot ID: `MCxlOGNiYmQ1NjI3ZDQwYjgwM2JmMGZiMmIyNWZmOWMzZTBlZjJhN2Zm`
+Snapshot ID: `MCw2Y2FkYzJmN2IzNDQxMjRiM2UzNThjZTI4M2VjZDJjOTUyNDg4NjNj`

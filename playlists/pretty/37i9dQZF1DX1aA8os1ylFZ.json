@@ -1,12 +1,12 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 241181,
+  "num_followers": 241208,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZGExZGNmMDUxY2ViMmMyYWJkNDg5ODMwMDQwY2I4NmU1YWY2MWE3",
+  "snapshot_id": "MCxmNGI1YWNkZTY0YjQyYmE2YjBkNTY2NDhmM2IyNjk3MzFkY2RjZWIy",
   "tracks": [
     {
       "added_at": "2024-02-15 23:00:00",
@@ -187,22 +187,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "close with desires (right person wrong timing)",
-        "url": "https://open.spotify.com/album/6Jdgoq4F3pd02of1peADKM"
-      },
-      "artists": [
-        {
-          "name": "teo glacier",
-          "url": "https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY"
-        }
-      ],
-      "duration_ms": 203144,
-      "name": "close with desires (right person wrong timing)",
-      "url": "https://open.spotify.com/track/1yUO5lVnOstziQEz7byXBx"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "That's You",
         "url": "https://open.spotify.com/album/4oFFTDK2Af6FOPvoafwKjV"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 251038,
       "name": "That's You",
       "url": "https://open.spotify.com/track/3rgPcA3yCtvVCxvcVFcBxs"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "close with desires (right person wrong timing)",
+        "url": "https://open.spotify.com/album/6Jdgoq4F3pd02of1peADKM"
+      },
+      "artists": [
+        {
+          "name": "teo glacier",
+          "url": "https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY"
+        }
+      ],
+      "duration_ms": 203144,
+      "name": "close with desires (right person wrong timing)",
+      "url": "https://open.spotify.com/track/1yUO5lVnOstziQEz7byXBx"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -775,6 +775,22 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
+        "name": "Thoughts I Never Said",
+        "url": "https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 210100,
+      "name": "All That It Takes",
+      "url": "https://open.spotify.com/track/5ZtqkkX8XRfgmgxnxedI0C"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
         "name": "Room Full Of Love",
         "url": "https://open.spotify.com/album/0NqK6iQuCSulrXQ9hr6oKO"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 239600,
       "name": "Room Full Of Love",
       "url": "https://open.spotify.com/track/5zthp0rjPhiX8Vty5tmbzF"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
-        "name": "Thoughts I Never Said",
-        "url": "https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 210100,
-      "name": "All That It Takes",
-      "url": "https://open.spotify.com/track/5ZtqkkX8XRfgmgxnxedI0C"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "who's loving you?",
-        "url": "https://open.spotify.com/album/36SXVRBEeY8Zr46Jdo6YkR"
-      },
-      "artists": [
-        {
-          "name": "Ambr\u00e9",
-          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
-        }
-      ],
-      "duration_ms": 238178,
-      "name": "MUSE FREESTYLE",
-      "url": "https://open.spotify.com/track/5QZ3Y4zHDEb8oTlRVmrizx"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "Unfiltered",
         "url": "https://open.spotify.com/album/55Z9X5i9tJmBhiSqr5MuAT"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 109270,
       "name": "Solutions",
       "url": "https://open.spotify.com/track/4dzUnPycaoQTzRxm4tqF3O"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "who's loving you?",
+        "url": "https://open.spotify.com/album/36SXVRBEeY8Zr46Jdo6YkR"
+      },
+      "artists": [
+        {
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+        }
+      ],
+      "duration_ms": 238178,
+      "name": "MUSE FREESTYLE",
+      "url": "https://open.spotify.com/track/5QZ3Y4zHDEb8oTlRVmrizx"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "SOLO",
-        "url": "https://open.spotify.com/album/6tUdt4hvQmNtO0gh5fG8ce"
-      },
-      "artists": [
-        {
-          "name": "Shay Lia",
-          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "SOLO",
-      "url": "https://open.spotify.com/track/5UXbiwymPFSqbVhDefIeB7"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "Just Expectationz",
         "url": "https://open.spotify.com/album/4fuHL63s4VtjWQLy5QqlTa"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 228877,
       "name": "Just Expectationz",
       "url": "https://open.spotify.com/track/10GbMfN6Bt4V9k1blNBjzz"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "SOLO",
+        "url": "https://open.spotify.com/album/6tUdt4hvQmNtO0gh5fG8ce"
+      },
+      "artists": [
+        {
+          "name": "Shay Lia",
+          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "SOLO",
+      "url": "https://open.spotify.com/track/5UXbiwymPFSqbVhDefIeB7"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1331,26 +1331,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "speed up",
-        "url": "https://open.spotify.com/album/6GWBNmNUtFbMFZNaOUjGVG"
-      },
-      "artists": [
-        {
-          "name": "Cyra Gwynth",
-          "url": "https://open.spotify.com/artist/73xasVLAvFrnbuhBdAucpp"
-        },
-        {
-          "name": "K1D",
-          "url": "https://open.spotify.com/artist/6vkNDrbuaVIuKwAylGos5o"
-        }
-      ],
-      "duration_ms": 149989,
-      "name": "speed up",
-      "url": "https://open.spotify.com/track/4jz3KUDAYLnhOjN0GsH005"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/4XyrBfLYVSRYIAIeAEJWF1"
       },
@@ -1371,6 +1351,26 @@
       "duration_ms": 169727,
       "name": "Peace",
       "url": "https://open.spotify.com/track/2jVophLAvSRFwiC0bhk8K4"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "speed up",
+        "url": "https://open.spotify.com/album/6GWBNmNUtFbMFZNaOUjGVG"
+      },
+      "artists": [
+        {
+          "name": "Cyra Gwynth",
+          "url": "https://open.spotify.com/artist/73xasVLAvFrnbuhBdAucpp"
+        },
+        {
+          "name": "K1D",
+          "url": "https://open.spotify.com/artist/6vkNDrbuaVIuKwAylGos5o"
+        }
+      ],
+      "duration_ms": 149989,
+      "name": "speed up",
+      "url": "https://open.spotify.com/track/4jz3KUDAYLnhOjN0GsH005"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "hoe bedoel je?",
-        "url": "https://open.spotify.com/album/4CN04dChYLqFWOaSDhtOG3"
-      },
-      "artists": [
-        {
-          "name": "Danny Dubb",
-          "url": "https://open.spotify.com/artist/1ZzmoEKSOVNm75SY7T1zBe"
-        }
-      ],
-      "duration_ms": 137846,
-      "name": "hoe bedoel je?",
-      "url": "https://open.spotify.com/track/7juYCJy0yvKaV8uvZJV4p9"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "Genesis",
         "url": "https://open.spotify.com/album/4Pc3nWPVnnOQcMKRE53qYT"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 183996,
       "name": "Home",
       "url": "https://open.spotify.com/track/2V1uSXkEy77WNk9ZL6IuxJ"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "hoe bedoel je?",
+        "url": "https://open.spotify.com/album/4CN04dChYLqFWOaSDhtOG3"
+      },
+      "artists": [
+        {
+          "name": "Danny Dubb",
+          "url": "https://open.spotify.com/artist/1ZzmoEKSOVNm75SY7T1zBe"
+        }
+      ],
+      "duration_ms": 137846,
+      "name": "hoe bedoel je?",
+      "url": "https://open.spotify.com/track/7juYCJy0yvKaV8uvZJV4p9"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Zwanger in De Club",
-        "url": "https://open.spotify.com/album/73kbFX65iAHPx1OPXvo4sJ"
-      },
-      "artists": [
-        {
-          "name": "KIMONO",
-          "url": "https://open.spotify.com/artist/1nSGi0gYeO1v0gWXRaGk1F"
-        }
-      ],
-      "duration_ms": 232747,
-      "name": "Zwanger in De Club",
-      "url": "https://open.spotify.com/track/1cGTc7bB6ZXCREKvIQE2gg"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "1+1",
         "url": "https://open.spotify.com/album/6PGhknbHltteEYewVcwXx4"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 172739,
       "name": "1+1",
       "url": "https://open.spotify.com/track/2TtiDn0UNM0x5O6wvcd7Kt"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Zwanger in De Club",
+        "url": "https://open.spotify.com/album/73kbFX65iAHPx1OPXvo4sJ"
+      },
+      "artists": [
+        {
+          "name": "KIMONO",
+          "url": "https://open.spotify.com/artist/1nSGi0gYeO1v0gWXRaGk1F"
+        }
+      ],
+      "duration_ms": 232747,
+      "name": "Zwanger in De Club",
+      "url": "https://open.spotify.com/track/1cGTc7bB6ZXCREKvIQE2gg"
     },
     {
       "added_at": "2024-02-15 23:00:00",

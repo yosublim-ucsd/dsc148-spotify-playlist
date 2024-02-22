@@ -20130,7 +20130,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 258284,
       "name": "Nothing To Lose (feat. Circa Waves)",
       "url": "https://open.spotify.com/track/4iU0r23eZnO9uOQ0y0xJ7F"
@@ -22522,6 +22522,28 @@
       "duration_ms": 178584,
       "name": "Rear View",
       "url": "https://open.spotify.com/track/69EcMpr07eS77EbH90ejVD"
+    },
+    {
+      "album": {
+        "name": "Reason",
+        "url": "https://open.spotify.com/album/0UBMDH6SZpQCvGq42yjRtp"
+      },
+      "artists": [
+        {
+          "name": "Apotech",
+          "url": "https://open.spotify.com/artist/2nwGAlGI70BCkpJDfdfHec"
+        },
+        {
+          "name": "Lucas Nord",
+          "url": "https://open.spotify.com/artist/4ZUg3IUvAPAl8coXQAxaXd"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165952,
+      "name": "Reason",
+      "url": "https://open.spotify.com/track/6D8hNLZL3lz5Cp392mjrlG"
     },
     {
       "album": {

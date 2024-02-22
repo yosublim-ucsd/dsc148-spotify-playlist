@@ -1,12 +1,12 @@
 {
   "description": "Relax with deep house and electronica.",
-  "num_followers": 309948,
+  "num_followers": 309978,
   "original_name": "Afterhours",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDAzMmMwZWY4OTcyZjVlMDQxMmIzZTEyODIzNDk4YTUzZmE3NDBk",
+  "snapshot_id": "MCxmNDYzNzU5NmFjNjAwMGVjZTA5ZGRiZjFhYzIxMGRmYTk2N2Y3M2I5",
   "tracks": [
     {
       "added_at": "2024-02-16 08:59:09",
@@ -135,18 +135,26 @@
     {
       "added_at": "2024-02-16 08:59:09",
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN"
+        "name": "Allein Allein",
+        "url": "https://open.spotify.com/album/2oLn47kWsw7iYC3NOtNEx2"
       },
       "artists": [
         {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+          "name": "INNERVERSE",
+          "url": "https://open.spotify.com/artist/0lIiVp6FVbJR2utszYQhNf"
+        },
+        {
+          "name": "Helsloot",
+          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
+        },
+        {
+          "name": "Malou",
+          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
         }
       ],
-      "duration_ms": 314389,
-      "name": "Next to Me",
-      "url": "https://open.spotify.com/track/46haIwbQpVUkpAQj9V84Gp"
+      "duration_ms": 221128,
+      "name": "Allein Allein",
+      "url": "https://open.spotify.com/track/2bpHc7nCduKQWJVNqJ4mDj"
     },
     {
       "added_at": "2024-02-16 08:59:09",
@@ -175,26 +183,18 @@
     {
       "added_at": "2024-02-16 08:59:09",
       "album": {
-        "name": "Allein Allein",
-        "url": "https://open.spotify.com/album/2oLn47kWsw7iYC3NOtNEx2"
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN"
       },
       "artists": [
         {
-          "name": "INNERVERSE",
-          "url": "https://open.spotify.com/artist/0lIiVp6FVbJR2utszYQhNf"
-        },
-        {
-          "name": "Helsloot",
-          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
-        },
-        {
-          "name": "Malou",
-          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
         }
       ],
-      "duration_ms": 221128,
-      "name": "Allein Allein",
-      "url": "https://open.spotify.com/track/2bpHc7nCduKQWJVNqJ4mDj"
+      "duration_ms": 314389,
+      "name": "Next to Me",
+      "url": "https://open.spotify.com/track/46haIwbQpVUkpAQj9V84Gp"
     },
     {
       "added_at": "2024-02-16 08:59:09",
@@ -583,54 +583,6 @@
     {
       "added_at": "2024-02-16 08:59:09",
       "album": {
-        "name": "Three Drums",
-        "url": "https://open.spotify.com/album/6zPGFGI2VVFGbiGTlsI237"
-      },
-      "artists": [
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 495858,
-      "name": "Three Drums",
-      "url": "https://open.spotify.com/track/2FRIWWs5xxPoQrk5pMmsQN"
-    },
-    {
-      "added_at": "2024-02-16 08:59:09",
-      "album": {
-        "name": "Graf Zahl",
-        "url": "https://open.spotify.com/album/4q2KNOVojE0HcBNrjdk8RW"
-      },
-      "artists": [
-        {
-          "name": "Paul Kalkbrenner",
-          "url": "https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R"
-        }
-      ],
-      "duration_ms": 332869,
-      "name": "Graf Zahl",
-      "url": "https://open.spotify.com/track/33R7eq2Yqrhjz7eP6XhCsy"
-    },
-    {
-      "added_at": "2024-02-16 08:59:09",
-      "album": {
-        "name": "Jump High",
-        "url": "https://open.spotify.com/album/1DF1nmoCA1QPLfAd9klXjD"
-      },
-      "artists": [
-        {
-          "name": "Holly North",
-          "url": "https://open.spotify.com/artist/19NPr9xQ0jUnX9PpFmtl8p"
-        }
-      ],
-      "duration_ms": 196996,
-      "name": "Jump High",
-      "url": "https://open.spotify.com/track/0MPSOPq0yWBr4jV5mCldWU"
-    },
-    {
-      "added_at": "2024-02-16 08:59:09",
-      "album": {
         "name": "The Last Goodbye Remixes N\u00b0.2",
         "url": "https://open.spotify.com/album/6DKA6hXo5KPvSBGLUL1kky"
       },
@@ -651,6 +603,54 @@
       "duration_ms": 251903,
       "name": "This Version Of You - Joseph Ray Remix",
       "url": "https://open.spotify.com/track/1oWf71EPQVlawCcygiCbMy"
+    },
+    {
+      "added_at": "2024-02-16 08:59:09",
+      "album": {
+        "name": "Three Drums",
+        "url": "https://open.spotify.com/album/6zPGFGI2VVFGbiGTlsI237"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 495858,
+      "name": "Three Drums",
+      "url": "https://open.spotify.com/track/2FRIWWs5xxPoQrk5pMmsQN"
+    },
+    {
+      "added_at": "2024-02-16 08:59:09",
+      "album": {
+        "name": "Jump High",
+        "url": "https://open.spotify.com/album/1DF1nmoCA1QPLfAd9klXjD"
+      },
+      "artists": [
+        {
+          "name": "Holly North",
+          "url": "https://open.spotify.com/artist/19NPr9xQ0jUnX9PpFmtl8p"
+        }
+      ],
+      "duration_ms": 196996,
+      "name": "Jump High",
+      "url": "https://open.spotify.com/track/0MPSOPq0yWBr4jV5mCldWU"
+    },
+    {
+      "added_at": "2024-02-16 08:59:09",
+      "album": {
+        "name": "Graf Zahl",
+        "url": "https://open.spotify.com/album/4q2KNOVojE0HcBNrjdk8RW"
+      },
+      "artists": [
+        {
+          "name": "Paul Kalkbrenner",
+          "url": "https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R"
+        }
+      ],
+      "duration_ms": 332869,
+      "name": "Graf Zahl",
+      "url": "https://open.spotify.com/track/33R7eq2Yqrhjz7eP6XhCsy"
     },
     {
       "added_at": "2024-02-16 08:59:09",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-02-16 08:59:09",
       "album": {
-        "name": "Copal",
-        "url": "https://open.spotify.com/album/0cIbZmg4f802O0OvRCEZpn"
-      },
-      "artists": [
-        {
-          "name": "Oliver Koletzki",
-          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
-        }
-      ],
-      "duration_ms": 364543,
-      "name": "Copal",
-      "url": "https://open.spotify.com/track/6TqYadgz6qObDRYkcQe21L"
-    },
-    {
-      "added_at": "2024-02-16 08:59:09",
-      "album": {
         "name": "Les Orangers",
         "url": "https://open.spotify.com/album/4rGdiQW6mqpCwKYD885Dmk"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 402040,
       "name": "Les Orangers",
       "url": "https://open.spotify.com/track/0aEwYyCvLEMNWmc7u0vqHp"
+    },
+    {
+      "added_at": "2024-02-16 08:59:09",
+      "album": {
+        "name": "Copal",
+        "url": "https://open.spotify.com/album/0cIbZmg4f802O0OvRCEZpn"
+      },
+      "artists": [
+        {
+          "name": "Oliver Koletzki",
+          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
+        }
+      ],
+      "duration_ms": 364543,
+      "name": "Copal",
+      "url": "https://open.spotify.com/track/6TqYadgz6qObDRYkcQe21L"
     },
     {
       "added_at": "2024-02-16 08:59:09",
@@ -959,26 +959,6 @@
     {
       "added_at": "2024-02-16 08:59:09",
       "album": {
-        "name": "Cloudline (Parra for Cuva Reimagination)",
-        "url": "https://open.spotify.com/album/5oUwhn4vBBNlaAqLNidLXi"
-      },
-      "artists": [
-        {
-          "name": "Aukai",
-          "url": "https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny"
-        },
-        {
-          "name": "Parra for Cuva",
-          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
-        }
-      ],
-      "duration_ms": 296981,
-      "name": "Cloudline (Parra for Cuva Reimagination)",
-      "url": "https://open.spotify.com/track/4zfkAmevNeLU7OmOjHVD4k"
-    },
-    {
-      "added_at": "2024-02-16 08:59:09",
-      "album": {
         "name": "Marimba",
         "url": "https://open.spotify.com/album/3i2oCggOTBqY30JWJTkqgU"
       },
@@ -1011,6 +991,26 @@
       "duration_ms": 180458,
       "name": "Laika.",
       "url": "https://open.spotify.com/track/3EA4UHJwQhkGDEoESpz0px"
+    },
+    {
+      "added_at": "2024-02-16 08:59:09",
+      "album": {
+        "name": "Cloudline (Parra for Cuva Reimagination)",
+        "url": "https://open.spotify.com/album/5oUwhn4vBBNlaAqLNidLXi"
+      },
+      "artists": [
+        {
+          "name": "Aukai",
+          "url": "https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny"
+        },
+        {
+          "name": "Parra for Cuva",
+          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
+        }
+      ],
+      "duration_ms": 296981,
+      "name": "Cloudline (Parra for Cuva Reimagination)",
+      "url": "https://open.spotify.com/track/4zfkAmevNeLU7OmOjHVD4k"
     },
     {
       "added_at": "2024-02-16 08:59:09",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2024-02-16 08:59:09",
       "album": {
+        "name": "Remote",
+        "url": "https://open.spotify.com/album/2tHib5oHi8AfZviIsluhN7"
+      },
+      "artists": [
+        {
+          "name": "MagnusTheMagnus",
+          "url": "https://open.spotify.com/artist/7xS4HWHJv4AKkOhzehHjSs"
+        }
+      ],
+      "duration_ms": 198069,
+      "name": "Remote",
+      "url": "https://open.spotify.com/track/15TtysbOXi4qEcnysiD57w"
+    },
+    {
+      "added_at": "2024-02-16 08:59:09",
+      "album": {
         "name": "Blissda",
         "url": "https://open.spotify.com/album/1ZHRTJ5kAhqFbfm3MFCxZ9"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 224467,
       "name": "Need To Feel Loved - Nils Hoffmann Remix",
       "url": "https://open.spotify.com/track/20ctMnCm00vFtUUUQYSskZ"
-    },
-    {
-      "added_at": "2024-02-16 08:59:09",
-      "album": {
-        "name": "Remote",
-        "url": "https://open.spotify.com/album/2tHib5oHi8AfZviIsluhN7"
-      },
-      "artists": [
-        {
-          "name": "MagnusTheMagnus",
-          "url": "https://open.spotify.com/artist/7xS4HWHJv4AKkOhzehHjSs"
-        }
-      ],
-      "duration_ms": 198069,
-      "name": "Remote",
-      "url": "https://open.spotify.com/track/15TtysbOXi4qEcnysiD57w"
     }
   ],
   "unique_name": "Afterhours",

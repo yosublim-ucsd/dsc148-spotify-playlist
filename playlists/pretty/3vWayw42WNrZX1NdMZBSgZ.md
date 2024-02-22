@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3vWayw42WNrZX1NdMZBSgZ.md) - [plain]
 
 > The perfect mix of the latest pop hits! Follow this playlist and play Polimá Westcoast &quot;MARGIELA&quot;,Oscar Maydon, Enrique Iglesias &amp; Yotuel &quot;Fría&quot;, Christian Nodal &amp; Peso Pluma &quot;La Intención&quot; Prince Royce &amp; Gabito Ballesteros &quot;Cosas de la Peda&quot;, Shakira &amp; Fuerza Regida &quot;El Jefe&quot;
 
-[Filtr Latino](https://open.spotify.com/user/toplatino) - 54,663 likes - 143 songs - 7 hr 39 min
+[Filtr Latino](https://open.spotify.com/user/toplatino) - 54,662 likes - 143 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,5 +1,5 @@
 {
-  "2024-02-21": 609715,
+  "2024-02-22": 609852,
   "date_first_scraped": "2023-07-29",
   "description": "This is Justin Timberlake. The essential tracks, all in one playlist.",
   "name": "This Is Justin Timberlake",
@@ -1257,7 +1257,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 189876,
       "name": "Parent Trap (feat. Justin Timberlake)",
       "url": "https://open.spotify.com/track/5mSVnabiC2NDVIGfW3Znc4"
@@ -1309,7 +1309,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-20",
+      "date_removed": null,
       "duration_ms": 227186,
       "name": "Perfect for Me",
       "url": "https://open.spotify.com/track/2G2U56mtnq7zRLNEjv3QZK"
@@ -1345,7 +1345,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 267266,
       "name": "Rock Your Body",
       "url": "https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT"
@@ -1605,7 +1605,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-20",
+      "date_removed": null,
       "duration_ms": 287946,
       "name": "That Girl",
       "url": "https://open.spotify.com/track/4CfYxSs4Dr8KWORCmN3hom"

@@ -1,12 +1,12 @@
 {
   "description": "100% ska en espa\u00f1ol. Las V\u00edctimas del Dr. Caligaris/El G\u00e1binete del Dr. Cerebro en portada.",
-  "num_followers": 447743,
+  "num_followers": 447815,
   "original_name": "Ska Latino ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZGFjNDkyZTU2MjkxMzQwODk2NmQzODg3YTllYTIyZDYzMmQyYjY5",
+  "snapshot_id": "MCw5MTkyYjhiYzZhMzM0MDc5Mjg2NDZkYWJiYTk0ZTRjZWRkMDI1N2My",
   "tracks": [
     {
       "added_at": "2024-02-16 06:00:00",
@@ -683,22 +683,22 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
-        "name": "Estoy aqu\u00ed (feat. La Pegatina)",
-        "url": "https://open.spotify.com/album/2XFhxf774ufp6QdJasM2rL"
+        "name": "L\u00e1grimas y Risas",
+        "url": "https://open.spotify.com/album/1jJ6OrqBxHEwOuhow0zCHR"
       },
       "artists": [
         {
-          "name": "Despistaos",
-          "url": "https://open.spotify.com/artist/0QE9iXPzgSaBq34OqIZ4n2"
+          "name": "Los Estramboticos",
+          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
         },
         {
-          "name": "La Pegatina",
-          "url": "https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK"
+          "name": "Madame R\u00e9camier",
+          "url": "https://open.spotify.com/artist/2rNCZVyZwtSaTI1HGj8LFD"
         }
       ],
-      "duration_ms": 176747,
-      "name": "Estoy aqu\u00ed (feat. La Pegatina)",
-      "url": "https://open.spotify.com/track/6BZyZKGieV83gE9IZcNZCz"
+      "duration_ms": 233253,
+      "name": "Ciegos de Amor",
+      "url": "https://open.spotify.com/track/4HPxUGVThsV0tUPNU30LZI"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -735,22 +735,22 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
-        "name": "L\u00e1grimas y Risas",
-        "url": "https://open.spotify.com/album/1jJ6OrqBxHEwOuhow0zCHR"
+        "name": "Estoy aqu\u00ed (feat. La Pegatina)",
+        "url": "https://open.spotify.com/album/2XFhxf774ufp6QdJasM2rL"
       },
       "artists": [
         {
-          "name": "Los Estramboticos",
-          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
+          "name": "Despistaos",
+          "url": "https://open.spotify.com/artist/0QE9iXPzgSaBq34OqIZ4n2"
         },
         {
-          "name": "Madame R\u00e9camier",
-          "url": "https://open.spotify.com/artist/2rNCZVyZwtSaTI1HGj8LFD"
+          "name": "La Pegatina",
+          "url": "https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK"
         }
       ],
-      "duration_ms": 233253,
-      "name": "Ciegos de Amor",
-      "url": "https://open.spotify.com/track/4HPxUGVThsV0tUPNU30LZI"
+      "duration_ms": 176747,
+      "name": "Estoy aqu\u00ed (feat. La Pegatina)",
+      "url": "https://open.spotify.com/track/6BZyZKGieV83gE9IZcNZCz"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
-        "name": "Emulsion de Skape",
-        "url": "https://open.spotify.com/album/0l0sZOdQJbYKTPQwbxDsbE"
-      },
-      "artists": [
-        {
-          "name": "La Matatena",
-          "url": "https://open.spotify.com/artist/5FgDCzaC8VeGnaVws6BU2q"
-        }
-      ],
-      "duration_ms": 219733,
-      "name": "Su Majestad",
-      "url": "https://open.spotify.com/track/5ftNbqrdSS7fKNB2G23WFQ"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
         "name": "Flamingo",
         "url": "https://open.spotify.com/album/7uwulXVQW3ZhUnzWTDnNVU"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 240072,
       "name": "Ojos Caf\u00e9s",
       "url": "https://open.spotify.com/track/7CfOeohPQbV2tLBafGGnnv"
+    },
+    {
+      "added_at": "2024-02-16 06:00:00",
+      "album": {
+        "name": "Emulsion de Skape",
+        "url": "https://open.spotify.com/album/0l0sZOdQJbYKTPQwbxDsbE"
+      },
+      "artists": [
+        {
+          "name": "La Matatena",
+          "url": "https://open.spotify.com/artist/5FgDCzaC8VeGnaVws6BU2q"
+        }
+      ],
+      "duration_ms": 219733,
+      "name": "Su Majestad",
+      "url": "https://open.spotify.com/track/5ftNbqrdSS7fKNB2G23WFQ"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
-        "name": "Crazy Life",
-        "url": "https://open.spotify.com/album/3N5BvC9o2V2huzPmIxRoI4"
-      },
-      "artists": [
-        {
-          "name": "Girls Go Ska",
-          "url": "https://open.spotify.com/artist/0jLRSH7uzp7DAbl3vfBhjo"
-        }
-      ],
-      "duration_ms": 213217,
-      "name": "Crazy Life",
-      "url": "https://open.spotify.com/track/6HetWMoIuWJpTRuhk82x5U"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
         "name": "Batuco",
         "url": "https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX"
       },
@@ -1207,18 +1191,18 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
-        "name": "Rudi Records",
-        "url": "https://open.spotify.com/album/0RyS5RwxQ6R0dTnJCuc3Dx"
+        "name": "Crazy Life",
+        "url": "https://open.spotify.com/album/3N5BvC9o2V2huzPmIxRoI4"
       },
       "artists": [
         {
-          "name": "Juantxo Skalari & La Rude Band",
-          "url": "https://open.spotify.com/artist/0qreoKgxsV67sXRXJSYFPb"
+          "name": "Girls Go Ska",
+          "url": "https://open.spotify.com/artist/0jLRSH7uzp7DAbl3vfBhjo"
         }
       ],
-      "duration_ms": 266000,
-      "name": "Rudi Not Dead",
-      "url": "https://open.spotify.com/track/0kFMgiUew2gYgsNAB4NyTx"
+      "duration_ms": 213217,
+      "name": "Crazy Life",
+      "url": "https://open.spotify.com/track/6HetWMoIuWJpTRuhk82x5U"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -1235,6 +1219,22 @@
       "duration_ms": 162930,
       "name": "Ska en la Playa",
       "url": "https://open.spotify.com/track/5rN7Jw3sBHaGHp6MqAGl2u"
+    },
+    {
+      "added_at": "2024-02-16 06:00:00",
+      "album": {
+        "name": "Rudi Records",
+        "url": "https://open.spotify.com/album/0RyS5RwxQ6R0dTnJCuc3Dx"
+      },
+      "artists": [
+        {
+          "name": "Juantxo Skalari & La Rude Band",
+          "url": "https://open.spotify.com/artist/0qreoKgxsV67sXRXJSYFPb"
+        }
+      ],
+      "duration_ms": 266000,
+      "name": "Rudi Not Dead",
+      "url": "https://open.spotify.com/track/0kFMgiUew2gYgsNAB4NyTx"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
-        "name": "A medio camino",
-        "url": "https://open.spotify.com/album/3LIlsKOlDzWYosREO60Cgs"
-      },
-      "artists": [
-        {
-          "name": "La Pegatina",
-          "url": "https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK"
-        }
-      ],
-      "duration_ms": 172811,
-      "name": "A partir de ah\u00ed",
-      "url": "https://open.spotify.com/track/1FMsxyf8w9PnhcA6POZ0vV"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
         "name": "Desequilibrio",
         "url": "https://open.spotify.com/album/2Px5P5cADenS9K7ectw7AD"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 212845,
       "name": "El asesino del tiempo",
       "url": "https://open.spotify.com/track/4qn2ZtHRDmcfgVPnl38N8p"
+    },
+    {
+      "added_at": "2024-02-16 06:00:00",
+      "album": {
+        "name": "A medio camino",
+        "url": "https://open.spotify.com/album/3LIlsKOlDzWYosREO60Cgs"
+      },
+      "artists": [
+        {
+          "name": "La Pegatina",
+          "url": "https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK"
+        }
+      ],
+      "duration_ms": 172811,
+      "name": "A partir de ah\u00ed",
+      "url": "https://open.spotify.com/track/1FMsxyf8w9PnhcA6POZ0vV"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
-        "name": "DIME COMO ES QUE NO GOZAS",
-        "url": "https://open.spotify.com/album/03odKd6H9wlEQIHmjgBdEv"
-      },
-      "artists": [
-        {
-          "name": "La Floripondio",
-          "url": "https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL"
-        }
-      ],
-      "duration_ms": 169384,
-      "name": "DIME COMO ES QUE NO GOZAS",
-      "url": "https://open.spotify.com/track/6hMwYF9yok533cqZB631MN"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
         "name": "Inflammable",
         "url": "https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 167128,
       "name": "Este Ritmo",
       "url": "https://open.spotify.com/track/4xVhnIGR1UUjnTIBDs5EOX"
+    },
+    {
+      "added_at": "2024-02-16 06:00:00",
+      "album": {
+        "name": "DIME COMO ES QUE NO GOZAS",
+        "url": "https://open.spotify.com/album/03odKd6H9wlEQIHmjgBdEv"
+      },
+      "artists": [
+        {
+          "name": "La Floripondio",
+          "url": "https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL"
+        }
+      ],
+      "duration_ms": 169384,
+      "name": "DIME COMO ES QUE NO GOZAS",
+      "url": "https://open.spotify.com/track/6hMwYF9yok533cqZB631MN"
     },
     {
       "added_at": "2024-02-16 06:00:00",

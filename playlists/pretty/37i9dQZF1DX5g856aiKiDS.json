@@ -1,12 +1,12 @@
 {
   "description": "Chill Korean tunes that's perfect with your latte or americano. (\uce74\ud398\uc640 \uc5b4\uc6b8\ub9ac\ub294 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uc744 \uac10\uc0c1\ud558\uc138\uc694.)",
-  "num_followers": 483097,
+  "num_followers": 483133,
   "original_name": "Dalkom Cafe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNjI3NWQyOTFmMzJmNDJkMGQ0OTc4N2YwZTgyNWRkNzhmY2ZhYjc4",
+  "snapshot_id": "MCxlNTgzNTI0ODM3MmFkNTdjYzFjZmI0MTJjNDFiNTBlOTVjOTllZTAw",
   "tracks": [
     {
       "added_at": "2024-01-23 13:54:03",
@@ -371,6 +371,22 @@
     {
       "added_at": "2024-01-23 13:54:03",
       "album": {
+        "name": "Bye Bye My Blue",
+        "url": "https://open.spotify.com/album/7a9EHrlQGVQsJe590lX4LU"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 203409,
+      "name": "Bye Bye My Blue",
+      "url": "https://open.spotify.com/track/4GUqcCrsISpXTbiAFz6FcO"
+    },
+    {
+      "added_at": "2024-01-23 13:54:03",
+      "album": {
         "name": "Beyond Love",
         "url": "https://open.spotify.com/album/5Gp70tE4qrzx93UkoqP5QA"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 202173,
       "name": "Luv Luv Luv",
       "url": "https://open.spotify.com/track/5KgukBQlqxJrmFnrEVa5IZ"
-    },
-    {
-      "added_at": "2024-01-23 13:54:03",
-      "album": {
-        "name": "Bye Bye My Blue",
-        "url": "https://open.spotify.com/album/7a9EHrlQGVQsJe590lX4LU"
-      },
-      "artists": [
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 203409,
-      "name": "Bye Bye My Blue",
-      "url": "https://open.spotify.com/track/4GUqcCrsISpXTbiAFz6FcO"
     },
     {
       "added_at": "2024-01-23 13:54:03",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-01-23 13:54:03",
       "album": {
-        "name": "Why?",
-        "url": "https://open.spotify.com/album/2dWSYfa0TQ1cDlzMCdzJlJ"
-      },
-      "artists": [
-        {
-          "name": "PLAVE",
-          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
-        }
-      ],
-      "duration_ms": 147373,
-      "name": "Why?",
-      "url": "https://open.spotify.com/track/75bgkdHdg7ppBcHdLJkSBM"
-    },
-    {
-      "added_at": "2024-01-23 13:54:03",
-      "album": {
         "name": "Sun And Moon",
         "url": "https://open.spotify.com/album/0AsQlY5YENtlvd8SLnrSxX"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 257631,
       "name": "It's You (Feat. ZICO)",
       "url": "https://open.spotify.com/track/6pm3SR1vvrV54AOJWsN7y7"
+    },
+    {
+      "added_at": "2024-01-23 13:54:03",
+      "album": {
+        "name": "Why?",
+        "url": "https://open.spotify.com/album/2dWSYfa0TQ1cDlzMCdzJlJ"
+      },
+      "artists": [
+        {
+          "name": "PLAVE",
+          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
+        }
+      ],
+      "duration_ms": 147373,
+      "name": "Why?",
+      "url": "https://open.spotify.com/track/75bgkdHdg7ppBcHdLJkSBM"
     },
     {
       "added_at": "2024-01-23 13:54:03",
@@ -879,6 +879,22 @@
     {
       "added_at": "2024-01-23 13:54:03",
       "album": {
+        "name": "The night we parted",
+        "url": "https://open.spotify.com/album/3ziY8tTralGg3ew6bTTJGD"
+      },
+      "artists": [
+        {
+          "name": "ACOURVE",
+          "url": "https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA"
+        }
+      ],
+      "duration_ms": 229665,
+      "name": "The night we parted",
+      "url": "https://open.spotify.com/track/7sCOwMK98Bc3f6hFS0jgkM"
+    },
+    {
+      "added_at": "2024-01-23 13:54:03",
+      "album": {
         "name": "fool",
         "url": "https://open.spotify.com/album/7dUPtlVTD9sepa5fcaWB44"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 130333,
       "name": "fool",
       "url": "https://open.spotify.com/track/6lXGf0irWo1XWl8acAlzso"
-    },
-    {
-      "added_at": "2024-01-23 13:54:03",
-      "album": {
-        "name": "The night we parted",
-        "url": "https://open.spotify.com/album/3ziY8tTralGg3ew6bTTJGD"
-      },
-      "artists": [
-        {
-          "name": "ACOURVE",
-          "url": "https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA"
-        }
-      ],
-      "duration_ms": 229665,
-      "name": "The night we parted",
-      "url": "https://open.spotify.com/track/7sCOwMK98Bc3f6hFS0jgkM"
     },
     {
       "added_at": "2024-01-23 13:54:03",

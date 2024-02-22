@@ -4,7 +4,7 @@
 
 > Many would say that this decade is a "Golden Era" for country music\. Cover: Patsy Cline
 
-170 songs - 7 hr 33 min
+171 songs - 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,8 @@
 | [I've Been Everywhere \- Remastered](https://open.spotify.com/track/1rFGwz7rswOuW2IdXPd0fv) | [Hank Snow](https://open.spotify.com/artist/3fq6r0bSIm4McymHKNMk4S) | [The Essential Hank Snow](https://open.spotify.com/album/0GcpueUt33P9XoObysUzFR) | 2:44 | 2021-11-19 |  |
 | [I've Got A Tiger By The Tail \- 2006 Remastered Version](https://open.spotify.com/track/1GDAvJth0ebssC2XkG7RYM) | [Buck Owens](https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu) | [21 \#1 Hits: The Ultimate Collection](https://open.spotify.com/album/6YhrskvsUUnJtWmkCGeY6D) | 2:13 | 2021-11-19 |  |
 | [It's Such A Pretty World Today](https://open.spotify.com/track/32zPvvt7K2nZIbQl7cMM3F) | [Wynn Stewart](https://open.spotify.com/artist/0ZnXSl6jvNavoEpJ5I5AdE) | [Lost Country Hits of the 60s](https://open.spotify.com/album/2Wod7YXHNfXubV7EdP4Lto) | 2:30 | 2021-11-19 |  |
-| [Jackson \(with June Carter Cash\)](https://open.spotify.com/track/6ekSX8AVzwRSs0mbSlPc0R) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [June Carter Cash](https://open.spotify.com/artist/0ZnY6mQmgr2yZarjry68td) | [Keep On the Sunny Side \- June Carter Cash: Her Life In Music](https://open.spotify.com/album/0pSVeCzT60p5pzP3m3iOrN) | 2:46 | 2021-11-19 |  |
+| [Jackson](https://open.spotify.com/track/5fcxVCOtfesNzI2n4Y4kiJ) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [June Carter Cash](https://open.spotify.com/artist/0ZnY6mQmgr2yZarjry68td) | [Carryin' On With Johnny Cash And June Carter](https://open.spotify.com/album/5ZfjQcvHkndkcGsewUeVNM) | 2:45 | 2023-11-21 |  |
+| [Jackson \(with June Carter Cash\)](https://open.spotify.com/track/6ekSX8AVzwRSs0mbSlPc0R) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [June Carter Cash](https://open.spotify.com/artist/0ZnY6mQmgr2yZarjry68td) | [Keep On the Sunny Side \- June Carter Cash: Her Life In Music](https://open.spotify.com/album/0pSVeCzT60p5pzP3m3iOrN) | 2:46 | 2021-11-19 | 2024-02-22 |
 | [Just Between You and Me](https://open.spotify.com/track/7lSgl6fOpD1aeeXS1mhKcd) | [Charley Pride](https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE) | [Super Hits](https://open.spotify.com/album/6Xq66Tp330KlzKuFyVS4MX) | 2:14 | 2021-11-19 |  |
 | [King Of The Road](https://open.spotify.com/track/3XG7bMVcMWLIn2k9jLAaAt) | [Roger Miller](https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8) | [Golden Hits](https://open.spotify.com/album/0B4wezbhEPFRVb4feiNBeM) | 2:27 | 2022-07-25 |  |
 | [King Of The Road](https://open.spotify.com/track/3gpWYe5Y0S7RQBjgWoM5vh) | [Roger Miller](https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8) | [All Time Greatest Hits](https://open.spotify.com/album/2NORomXwfb5vpzxc65oPi4) | 2:28 | 2021-11-19 | 2022-07-29 |

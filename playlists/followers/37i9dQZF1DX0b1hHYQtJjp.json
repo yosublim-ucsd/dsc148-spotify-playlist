@@ -1,5 +1,5 @@
 {
-  "2024-02-21": 878805,
+  "2024-02-22": 878879,
   "date_first_scraped": "2019-05-26",
   "description": "Recent hits and new songs from your fave artists. Cover: Shinedown",
   "name": "Just Good Music",
@@ -18368,6 +18368,28 @@
     },
     {
       "album": {
+        "name": "Powerful Women",
+        "url": "https://open.spotify.com/album/2PfTvrXbda4yPU54eeaazL"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165619,
+      "name": "Powerful Women",
+      "url": "https://open.spotify.com/track/043trFU53vB0CBmFszufZd"
+    },
+    {
+      "album": {
         "name": "The Hating Game (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/46SxMCDnnCR3Qceso4Dga5"
       },
@@ -21695,7 +21717,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 149284,
       "name": "Strong Enough (feat. Bailey Zimmerman)",
       "url": "https://open.spotify.com/track/66VuIGcM7fd8NLMoORCqVJ"

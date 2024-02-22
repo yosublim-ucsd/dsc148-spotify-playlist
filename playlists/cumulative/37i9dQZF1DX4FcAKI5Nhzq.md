@@ -2,9 +2,9 @@
 
 ### [K\-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> Future K\-Pop hits! Cover: Cha Eun\-Woo
+> Future K\-Pop hits! Cover: YUGYEOM
 
-987 songs - 2 day 6 hr 16 min
+988 songs - 2 day 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [0X1=LOVESONG \(I Know I Love You\) feat\. pH\-1, Woodie Gochild, Seori](https://open.spotify.com/track/6jUqjExnh8QBGd7RtnAIJF) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [0X1=LOVESONG \(I Know I Love You\) feat\. pH\-1, Woodie Gochild, Seori](https://open.spotify.com/album/2g6eRzETrUKRIBC8QnjAE1) | 3:25 | 2021-07-01 | 2021-09-07 |
 | [0X1=LOVESONG \(I Know I Love You\) feat\. Seori](https://open.spotify.com/track/1Z8TPHiKeCUyClxV6WTTIf) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Chaos Chapter: FREEZE](https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9) | 3:22 | 2021-06-01 | 2021-07-01 |
 | [1 Billion Views](https://open.spotify.com/track/4gGZc6MMYavM5KFS2zwOVL) | [EXO\-SC](https://open.spotify.com/artist/6741jcSlgsv0M3B4ruIPS5), [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du) | [1 Billion Views \- The 1st Album](https://open.spotify.com/album/4t1SPfj4ogtEQUMu3OHI3Q) | 3:29 | 2020-10-13\* | 2020-10-22 |
+| [1 MINUTE](https://open.spotify.com/track/7ipFjqnvmBz8t6NBJwWiTS) | [YUGYEOM](https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY) | [TRUST ME](https://open.spotify.com/album/70gdmYJboeL0tXQmYOpWVL) | 2:46 | 2024-02-21 |  |
 | [1 TRILLION](https://open.spotify.com/track/2d8SroyKXwJBtnJ0tZepcQ) | [LEE CHANHYUK](https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl) | [1 TRILLION](https://open.spotify.com/album/5va1w2j4Wfcrwe7f5MDWtT) | 3:33 | 2024-01-03 |  |
 | [1, 2, 3](https://open.spotify.com/track/1qpH7j4JRNbnv1aRysrdOH) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [COMPLETE WITH YOU](https://open.spotify.com/album/3txbVI8WFHrkcnEV6JGIXx) | 3:32 | 2022-01-17 | 2022-03-17 |
 | [1, 2, 3 \(Feat\. BIG Naughty\)](https://open.spotify.com/track/2hIHcImzcUtUjc947xqCZK) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [1, 2, 3](https://open.spotify.com/album/6wFkV8mhP1oLUKNOTck5Cz) | 2:59 | 2022-08-17 | 2022-10-28 |
@@ -291,7 +292,7 @@
 | [Fallen](https://open.spotify.com/track/0jo45PactLXFCw311Xa4gi) | [Seo In Guk](https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1) | [Fallen](https://open.spotify.com/album/2L6Wq8SWyqp11SYcH46Rsp) | 3:38 | 2022-12-13 | 2023-02-07 |
 | [Fame](https://open.spotify.com/track/3y0uHBnK2O4N9lt6KpRv6i) | [Ciipher](https://open.spotify.com/artist/18VvNIaKQgZXhSBnu7p5z7) | [THE CODE](https://open.spotify.com/album/7wr8UMXYQw5191b48WfR4Y) | 3:43 | 2022-05-12 | 2022-07-09 |
 | [Farewell Everyday](https://open.spotify.com/track/5JYW7DeFnvBr4oEqoeZBbu) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb) | [Farewell Everyday](https://open.spotify.com/album/0PSjsWGW3lLQFojSxzlpdY) | 3:50 | 2023-04-20 | 2023-07-08 |
-| [Fashion Style](https://open.spotify.com/track/6OfBZ1mUpo5DM12LbV0laV) | [KINO](https://open.spotify.com/artist/5cxj1DT5cqB6uSkq3Kl4IL) | [Fashion Style](https://open.spotify.com/album/6CQrBerEzTF5yk2pWgR4zL) | 2:14 | 2024-01-10 |  |
+| [Fashion Style](https://open.spotify.com/track/6OfBZ1mUpo5DM12LbV0laV) | [KINO](https://open.spotify.com/artist/5cxj1DT5cqB6uSkq3Kl4IL) | [Fashion Style](https://open.spotify.com/album/6CQrBerEzTF5yk2pWgR4zL) | 2:14 | 2024-01-10 | 2024-02-22 |
 | [Favorite \(Vampire\)](https://open.spotify.com/track/3rR9kTA6mD9LbmsCE0QWEY) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Favorite \- The 3rd Album Repackage](https://open.spotify.com/album/3xn5tn8JNMlJf3sISHONUy) | 3:35 | 2021-10-28 | 2022-01-13 |
 | [FEARLESS](https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) | 2:48 | 2022-05-03 | 2022-12-31 |
 | [Feel Good \(SECRET CODE\)](https://open.spotify.com/track/2ZpL1wqiiQ3DUWEjo8CgFL) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [My Little Society](https://open.spotify.com/album/6XPT0rwyyZnG4Z2lJAych2) | 3:44 | 2020-10-13\* | 2021-01-18 |

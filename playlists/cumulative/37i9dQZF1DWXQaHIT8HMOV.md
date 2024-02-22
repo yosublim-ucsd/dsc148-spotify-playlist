@@ -4,7 +4,7 @@
 
 > Homegrown Ugandan hits in one playlist\. Cover: $hyli
 
-211 songs - 10 hr 53 min
+212 songs - 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Feel Like](https://open.spotify.com/track/7CTDjJSzz6qyR0SIjRsAlZ) | [Fm Kid](https://open.spotify.com/artist/3lQP8Rliiz1HAHNyZCdMM6) | [Feel Like](https://open.spotify.com/album/2bUvNyLhtfvFmAeaSuJAOb) | 3:06 | 2022-09-30 | 2022-10-07 |
 | [Fertilizer](https://open.spotify.com/track/10JDfsIelDol1IxN2PCEnG) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo), [Nina Roz](https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh) | [Fertilizer](https://open.spotify.com/album/6Pz7K5KdsXCbk5CybkwIlp) | 2:55 | 2023-06-30 |  |
 | [Follow](https://open.spotify.com/track/399mVb63j9nI8lb1A4TQRB) | [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j) | [Follow](https://open.spotify.com/album/3kbvJRFu6ajBhVeDFLcqTd) | 3:30 | 2022-07-29 | 2023-04-07 |
+| [Found You](https://open.spotify.com/track/06LtEowrZCsWiV2N2iScwJ) | [Benji Kasule](https://open.spotify.com/artist/53sV72PJJCP9xX96d6eFgh), [Naava Grey](https://open.spotify.com/artist/4Dvh0aMCIBySKye4a8O2UB) | [Found You](https://open.spotify.com/album/30EZO4mzKiVCNOwKwIz5zx) | 3:45 | 2024-02-16 |  |
 | [Freedom](https://open.spotify.com/track/6v0S8ZVm5axCSsuoqcuB3J) | [Jesse10s](https://open.spotify.com/artist/6oOIGUtyWVdPoJmgOE1bGH) | [Freedom](https://open.spotify.com/album/3MJB9ehVEovi0DhK19B4tS) | 2:54 | 2022-11-25 | 2023-12-21 |
 | [Frequency](https://open.spotify.com/track/5BUZgm3cD3xv7E3t20SB7W) | [Tungi 256](https://open.spotify.com/artist/43EG4QtCw8bydahlorUJaR) | [Frequency](https://open.spotify.com/album/4Re1QCXEiOQJ1XO2QiVHUd) | 3:14 | 2023-11-30 | 2023-12-05 |
 | [Gemazima](https://open.spotify.com/track/6ctNl82yEypzLqeeMzrTkL) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo), [Teslah](https://open.spotify.com/artist/29d1gtSpXDMaZLyvHIZw4u) | [Gemazima](https://open.spotify.com/album/02QbNNia59RV4jwu00khDg) | 3:01 | 2023-01-12 | 2023-02-11 |
@@ -115,7 +116,7 @@
 | [Mama I Made It \(feat\. Lagum the Rapper\)](https://open.spotify.com/track/6JRGCGnNluJkVVa3lb7MkQ) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Lagum the Rapper](https://open.spotify.com/artist/1QhXoko9LsFCRt54shf124) | [WATERSHED](https://open.spotify.com/album/2gOc1mcXCepbRTMtXlmoKJ) | 2:17 | 2022-11-10 | 2023-04-27 |
 | [MariaRoza \(Amapiano Version\)](https://open.spotify.com/track/2TBklxiA4ZK8KWuJvhodQJ) | [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j) | [MariaRoza \(Amapiano Version\)](https://open.spotify.com/album/61YzhxcyHNmFmcpN7KQn3d) | 4:01 | 2023-02-03 | 2023-03-18 |
 | [Masavu](https://open.spotify.com/track/4vQsuuW1bwV4Zy6YvdyyBG) | [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR) | [Masavu](https://open.spotify.com/album/1kE9moAXgGGMB53Rxl6TuS) | 2:56 | 2024-02-16 |  |
-| [Matatu](https://open.spotify.com/track/1Wp8txZfHt7ENBFv4C78pC) | [Kataleya & Kandle](https://open.spotify.com/artist/1a93I0beev2mbujNJiNuA4), [B2C](https://open.spotify.com/artist/0KTeSr884B4f2Uj53ChqWv) | [Call It Love](https://open.spotify.com/album/266HjvJogj8MgkGg33ULl9) | 3:56 | 2024-02-02 |  |
+| [Matatu](https://open.spotify.com/track/1Wp8txZfHt7ENBFv4C78pC) | [Kataleya & Kandle](https://open.spotify.com/artist/1a93I0beev2mbujNJiNuA4), [B2C](https://open.spotify.com/artist/0KTeSr884B4f2Uj53ChqWv) | [Call It Love](https://open.spotify.com/album/266HjvJogj8MgkGg33ULl9) | 3:56 | 2024-02-02 | 2024-02-22 |
 | [Mbipambana](https://open.spotify.com/track/03Oa6GiBpDJSpazfZixZKy) | [Heather Nanteza](https://open.spotify.com/artist/0sA6V5qSFuTnAFaNdo4pHJ), [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo) | [Mbipambana](https://open.spotify.com/album/6agyrH6gmk3uz1JAAj7MIR) | 3:05 | 2022-05-12 | 2022-10-26 |
 | [Medalli](https://open.spotify.com/track/0eK5i2ADiozLxvSGCHjeVh) | [Ill Gee](https://open.spotify.com/artist/3bsKojJ5YjloiR72zszfmW) | [Medalli](https://open.spotify.com/album/34OoUv85ylvOjGKKdFVi5I) | 2:18 | 2022-07-22 | 2022-11-26 |
 | [Melody](https://open.spotify.com/track/170CNdSxk5vIQNinTIl9XH) | [Josh Buxton](https://open.spotify.com/artist/4Guu0ZYrcI2naNVmQVje5n) | [Mperekera](https://open.spotify.com/album/3JVNzLhSAPBmJpmbBy5Ivb) | 2:59 | 2022-05-12 | 2022-10-07 |

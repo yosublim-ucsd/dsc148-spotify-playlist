@@ -2,9 +2,9 @@
 
 ### [ฉันฟังเพลงไทย](https://open.spotify.com/playlist/37i9dQZF1DXdzw50tzi795)
 
-> เพลงไทยฮิตล่าสุด ฟังได้ที่เพลย์ลิสต์นี้เลย! ศิลปิน: PUN
+> เพลงไทยฮิตล่าสุด ฟังได้ที่เพลย์ลิสต์นี้เลย! ศิลปิน: Only Monday
 
-54 songs - 3 hr 37 min
+55 songs - 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Pink](https://open.spotify.com/track/2MvwYhejHpLfBcptTEWhDL) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [Flowers on earth](https://open.spotify.com/album/26V3mMqmTFbQxjVHCHjlle) | 4:15 | 2024-01-26 |  |
 | [Shall We](https://open.spotify.com/track/42TLIkJ2kFSY0WlCBjqzhB) | [Percy](https://open.spotify.com/artist/1YDIuX4Pe5XwZmInJ4GYGr), [4ourYou](https://open.spotify.com/artist/6cEEa8xu47O2bYkQedFkUK), [GENA DESOUZA](https://open.spotify.com/artist/7jyl0OsOio6yzfWZUSCbip) | [Shall We](https://open.spotify.com/album/3KyVvNvqo1Rp14e1lR0z6i) | 3:17 | 2024-01-26 |  |
 | [Therapist](https://open.spotify.com/track/42NFq86YCRMnV10M7lihzk) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [Therapist](https://open.spotify.com/album/1lagCns5TwcDe8TcJJsHkR) | 3:13 | 2024-01-26 |  |
+| [WATCH YOUR STEP](https://open.spotify.com/track/6N1ZqtABCgsqotshwnvEk1) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [WATCH YOUR STEP](https://open.spotify.com/album/347v2CFOheG1u8zXZrex32) | 3:50 | 2024-02-21 |  |
 | [กลับมาเพื่อบอกลา \(JUST TO LET ME KNOW\)](https://open.spotify.com/track/36VP0QLf0R3KqcWeyJxuEO) | [Paper Planes](https://open.spotify.com/artist/52VcFYcq5kJEaRYgy58ouW) | [กลับมาเพื่อบอกลา \(JUST TO LET ME KNOW\) \- Single](https://open.spotify.com/album/2HgDU0bpa2LwPdFpXJLsBL) | 3:34 | 2024-01-26 |  |
 | [กลิ่นดอกไม้](https://open.spotify.com/track/5OaXaynJZgklXEwzhouey5) | [Newery](https://open.spotify.com/artist/2ztuZ95DKP7O7DDAxCKYen) | [กลิ่นดอกไม้](https://open.spotify.com/album/1ipMHOoVycUlbnkNMBuWvl) | 3:52 | 2024-01-26 |  |
 | [กำแพงหัวใจ](https://open.spotify.com/track/5BmF05GWZpmm5JZ5p3yMJr) | [Mirrr](https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7) | [กำแพงหัวใจ](https://open.spotify.com/album/4Mqmd8JPbyBmSW7cWsSkUT) | 4:37 | 2024-01-26 |  |
@@ -32,7 +33,7 @@
 | [ตบปาก \(On That Day\)](https://open.spotify.com/track/4ctnDQ6saTXYs68AodmBZf) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [ตบปาก \(On That Day\)](https://open.spotify.com/album/7HpfZWOU33tf9ht1UZ3nyp) | 3:32 | 2024-01-26 | 2024-01-31 |
 | [ติดฝน \(rain\)](https://open.spotify.com/track/6rk1rGqpNXTeu7kVsB049F) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [rain](https://open.spotify.com/album/4cox7xZolfLKU5nmvWH8wX) | 3:16 | 2024-01-26 |  |
 | [ต่อจากคืนนี้ \(ฉันจะไม่มีเธอแล้ว\) \- Gloomy](https://open.spotify.com/track/0dXpGBC0pUivUk96OrptbQ) | [Newery](https://open.spotify.com/artist/2ztuZ95DKP7O7DDAxCKYen) | [ต่อจากคืนนี้ \(ฉันจะไม่มีเธอแล้ว\) \[Gloomy\]](https://open.spotify.com/album/15Vu38hxu9KIZHeU9ZKsjW) | 4:17 | 2024-01-26 |  |
-| [ถ้าไม่มีฉัน \(Lost\)](https://open.spotify.com/track/23uoBOUwFdh8bKlv6FUDuc) | [BADMIXY](https://open.spotify.com/artist/1TNuSqU0unzV0VcUxoQBZ1) | [BAD STORY](https://open.spotify.com/album/2PQ53PXkBduUnWQWG26vYe) | 4:59 | 2024-01-26 |  |
+| [ถ้าไม่มีฉัน \(Lost\)](https://open.spotify.com/track/23uoBOUwFdh8bKlv6FUDuc) | [BADMIXY](https://open.spotify.com/artist/1TNuSqU0unzV0VcUxoQBZ1) | [BAD STORY](https://open.spotify.com/album/2PQ53PXkBduUnWQWG26vYe) | 4:59 | 2024-01-26 | 2024-02-22 |
 | [บรรยากาศ](https://open.spotify.com/track/56n3cbPJeypX5NyqgsmpnZ) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [บรรยากาศ \- Single](https://open.spotify.com/album/5OtV6koP7TAOKa1x1uxUVT) | 4:35 | 2024-01-26 |  |
 | [ปล่อยดาว](https://open.spotify.com/track/1fUncVCIUnmf6qihsRkoBE) | [YEW](https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ) | [ปล่อยดาว](https://open.spotify.com/album/3Hpw5tqpBFDW85WnumEVTF) | 4:13 | 2024-01-26 |  |
 | [พิจารณา \(Consider\)](https://open.spotify.com/track/3XCoEJvCYqTbM8bhples8N) | [Musketeers](https://open.spotify.com/artist/0OjRa6r1EIPF5RZPy1SGz9), [Maiyarap](https://open.spotify.com/artist/4QLlbZcntdcWpm40NooC2M) | [พิจารณา \(Consider\)](https://open.spotify.com/album/00lYeU7gtlokOZDkt15QPR) | 4:06 | 2024-01-26 |  |

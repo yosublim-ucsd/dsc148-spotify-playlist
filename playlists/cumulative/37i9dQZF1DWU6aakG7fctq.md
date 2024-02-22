@@ -4,7 +4,7 @@
 
 > Fresh Latin Indie\. Cover: Danny Schiller & Ambar Lucid
 
-561 songs - 1 day 7 hr 8 min
+562 songs - 1 day 7 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Antifaz](https://open.spotify.com/track/3igeO2twuzFaqvEjWzFjwd) | [Códex Fénix](https://open.spotify.com/artist/0Z2QCuPFA3x3OoH20obELy) | [Antifaz](https://open.spotify.com/album/7oZ8vYdxLY5h5NWGQCksus) | 4:23 | 2022-09-06 | 2022-10-28 |
 | [Aquel Bolero](https://open.spotify.com/track/6DSyWW8BpzXBdymdZ9N61l) | [Selene](https://open.spotify.com/artist/5DURBx1fKt2VZesWMLtDiS) | [Aquel Bolero](https://open.spotify.com/album/4c3yqJyzQXoSpYkYi5reXG) | 2:52 | 2022-09-06 | 2023-06-24 |
 | [aquí andamos](https://open.spotify.com/track/1rmqCneDbQBz3V0HMntNyY) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [aquí andamos](https://open.spotify.com/album/5J6UFbDlKsIaiuDcU6v6Ux) | 2:15 | 2023-11-10 |  |
-| [Astronauta](https://open.spotify.com/track/7sFCPhgMD1BtEDVhlsV7uk) | [Marte](https://open.spotify.com/artist/3O2mT8DFtMzB6ptxFXdpHm) | [Polos Vol\. II](https://open.spotify.com/album/6NdZLwqetoEeNsiOFyt4UV) | 3:52 | 2024-02-16 |  |
+| [Astronauta](https://open.spotify.com/track/7sFCPhgMD1BtEDVhlsV7uk) | [Marte](https://open.spotify.com/artist/3O2mT8DFtMzB6ptxFXdpHm) | [Polos Vol\. II](https://open.spotify.com/album/6NdZLwqetoEeNsiOFyt4UV) | 3:52 | 2024-02-16 | 2024-02-22 |
 | [Atrapada](https://open.spotify.com/track/7c0EhjQTq7i4W7eHHFQyXR) | [selines](https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb) | [Atrapada](https://open.spotify.com/album/5MIfFyJ75UraxeBT9MV3us) | 4:06 | 2024-02-09 | 2024-02-20 |
 | [Aunque nunca te lo diga](https://open.spotify.com/track/3bknyaIwxNamskujz37Gom) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg), [Santi Celli](https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF) | [Aunque nunca te lo diga](https://open.spotify.com/album/0csvMcIGbbqVdB3DHCw8X4) | 2:47 | 2023-03-10 | 2023-08-19 |
 | [Automóvil](https://open.spotify.com/track/4unjiYzweEhOqxR2t7VUv0) | [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4) | [Automóvil](https://open.spotify.com/album/0J1njNNsv2a5PWoZaAoUnu) | 2:39 | 2024-02-09 |  |
@@ -137,6 +137,7 @@
 | [Déjenme Llorar](https://open.spotify.com/track/3ACxrhctejSeuRCLhTZUOI) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [Déjenme Llorar](https://open.spotify.com/album/6sIQNoyBSFFrPOx4Oy2YmV) | 2:21 | 2023-09-15 | 2023-11-25 |
 | [Dónde Tu Estás](https://open.spotify.com/track/2evmjqcUcR6nRWjfz7GjWU) | [KYOTTO](https://open.spotify.com/artist/6DGfzsM8doRBRyvYmgibkd), [mauvetrip](https://open.spotify.com/artist/5tGSRe3Dn91WESmIuRssIR) | [Por Si No Vuelvo A Casa](https://open.spotify.com/album/4VXlxaBQHvjgHuloYsQ7kU) | 2:34 | 2023-11-24 | 2024-02-10 |
 | [eclipse de amor](https://open.spotify.com/track/6oU12RE1G6CxW8tHkYLiRl) | [NOIA](https://open.spotify.com/artist/7ME5Ue2P7g1BP11FRWr7LA), [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [eclipse de amor](https://open.spotify.com/album/1B0fg4RJtE53arBhogyE2B) | 2:51 | 2023-03-10 | 2023-03-30 |
+| [El Diablo](https://open.spotify.com/track/3xmTFxgTHo9XmNGCyz3Wuc) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7) | [El Diablo](https://open.spotify.com/album/11XDFJBi3v8KwRRadjEGwS) | 3:23 | 2024-02-16 |  |
 | [El Encuentro](https://open.spotify.com/track/0PbDj1Lh8uZJ2ZcTRSBvQf) | [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3), [Amaia](https://open.spotify.com/artist/1WLEfsQjvgtFSGkrHonzFX) | [El Encuentro](https://open.spotify.com/album/3NAGaIPdSjlSJhAbcgRU3A) | 2:58 | 2021-11-18 | 2022-11-25 |
 | [El Juego](https://open.spotify.com/track/0PeRTtaDFNmmvKAboAVQkP) | [Dante Ouviña](https://open.spotify.com/artist/44gFucnvbxs6HCA6a7GDJ7) | [El Juego](https://open.spotify.com/album/1h9nTZa5Z7euPox6PFtCfH) | 2:48 | 2022-11-24 | 2023-01-07 |
 | [El Momento Perfecto](https://open.spotify.com/track/7LUepo06YjPnIoDVmiwYlJ) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [RIO HOTEL](https://open.spotify.com/album/39X3Jhsy9oT9XzgoUDs5P9) | 3:21 | 2022-12-09 | 2023-07-08 |

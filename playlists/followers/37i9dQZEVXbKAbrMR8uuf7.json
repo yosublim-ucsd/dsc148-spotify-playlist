@@ -1,5 +1,5 @@
 {
-  "2024-02-21": 152888,
+  "2024-02-22": 152898,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Dominican Republic.",
   "name": "Top 50 - Dominican Republic",
@@ -4593,6 +4593,36 @@
       "duration_ms": 156733,
       "name": "CUENTA",
       "url": "https://open.spotify.com/track/2J19dDdM6nmKDbN4AVJ1R4"
+    },
+    {
+      "album": {
+        "name": "Cuero",
+        "url": "https://open.spotify.com/album/5vMGHcLD18cN55lCqhWLRk"
+      },
+      "artists": [
+        {
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+        },
+        {
+          "name": "Mr Black El Presidente",
+          "url": "https://open.spotify.com/artist/19vCtDMDfX2wjU5vULq6FG"
+        },
+        {
+          "name": "Darmiko",
+          "url": "https://open.spotify.com/artist/6AeznZajNbXUulT7W4tK5l"
+        },
+        {
+          "name": "Jheral",
+          "url": "https://open.spotify.com/artist/4zsxko6Co1HikDuBTWcm7E"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235697,
+      "name": "Cuero",
+      "url": "https://open.spotify.com/track/6Qm49W75EGGKYsuX6dooMP"
     },
     {
       "album": {
@@ -13470,6 +13500,24 @@
     },
     {
       "album": {
+        "name": "111",
+        "url": "https://open.spotify.com/album/338cbfABt3duRORfvNeqLT"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184027,
+      "name": "M.A.I",
+      "url": "https://open.spotify.com/track/35ttE4t8lQZA2vuCYDg4G7"
+    },
+    {
+      "album": {
         "name": "3MEN2 KBRN",
         "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
       },
@@ -14737,7 +14785,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 202635,
       "name": "MERCEDES CAROTA",
       "url": "https://open.spotify.com/track/3TYOH7ta0101NYssoH5GlU"
@@ -16289,7 +16337,7 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 131875,
       "name": "No Somo Hermano",
       "url": "https://open.spotify.com/track/2hvKoCgHW5tZ7QjtK4UqIh"
@@ -17809,7 +17857,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 210000,
       "name": "Perd\u00f3name",
       "url": "https://open.spotify.com/track/4PBdIae0zykvqRJtrTQa8f"
@@ -24511,6 +24559,24 @@
       "duration_ms": 132800,
       "name": "Tu No Corre",
       "url": "https://open.spotify.com/track/0JrCAn0fDzCSPONkiTDGMa"
+    },
+    {
+      "album": {
+        "name": "Tu No Corre",
+        "url": "https://open.spotify.com/album/3FfIJTKSpI4wROMuFfPgpb"
+      },
+      "artists": [
+        {
+          "name": "Menor Queen",
+          "url": "https://open.spotify.com/artist/1MsuHuJMhPWFbzl2KWLyzz"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132800,
+      "name": "Tu No Corre",
+      "url": "https://open.spotify.com/track/2kyzzuWdxAjtq8JjApD2he"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > new gems by artists carving their own lane\. cover: Shygirl
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,176 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,186 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 99 | [Again?](https://open.spotify.com/track/6curW2n7DOSwwff4UjELPH) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Again?](https://open.spotify.com/album/4J3BlmFLY8OSr5Gbxx0Nyj) | 2:52 |
 | 100 | [DOUBLE DUTCH](https://open.spotify.com/track/7xc8nL2r4N5Ful0QPGlYwB) | [Mysie](https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf) | [DOUBLE DUTCH](https://open.spotify.com/album/1ZEgZwv6633Vgeea2hBUc3) | 2:17 |
 
-Snapshot ID: `MCw0MGNkNmFmNDczMzc5ODhlMmI2NGVhOTBkZDU2N2JiOGRmMWUxZWQ2`
+Snapshot ID: `MCw1ZTQ5ZDVlMWFlNGNmZGI3NzhkNTE5MTcyNmFjZmI2ZWFlNGU4NDk0`

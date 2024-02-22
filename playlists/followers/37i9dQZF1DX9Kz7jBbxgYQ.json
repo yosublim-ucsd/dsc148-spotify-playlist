@@ -1,7 +1,7 @@
 {
-  "2024-02-21": 144727,
+  "2024-02-22": 144865,
   "date_first_scraped": "2022-05-30",
-  "description": "Home to the best of South Asian Indie scene. Cover: AUR\n",
+  "description": "Home to the best of South Asian Indie scene. Cover: Chaar Diwari",
   "name": "Desi Indie",
   "tracks": [
     {
@@ -75,6 +75,24 @@
       "duration_ms": 180618,
       "name": "Aaina",
       "url": "https://open.spotify.com/track/5SAgi6ZXqpCWQADP8XyRDY"
+    },
+    {
+      "album": {
+        "name": "Aaja Mahi",
+        "url": "https://open.spotify.com/album/4UJyZ8rysFX44mlKl2SVFR"
+      },
+      "artists": [
+        {
+          "name": "AUR",
+          "url": "https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Aaja Mahi",
+      "url": "https://open.spotify.com/track/2VSU1fDunvm2JhVf2Z7TwZ"
     },
     {
       "album": {
@@ -5167,7 +5185,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 225119,
       "name": "Udh Chaliye",
       "url": "https://open.spotify.com/track/4wqVxCLrlDxOVXYOGB8GRn"

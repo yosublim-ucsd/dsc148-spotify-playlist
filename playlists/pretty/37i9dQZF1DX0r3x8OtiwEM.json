@@ -1,12 +1,12 @@
 {
   "description": "Chill techno, melodic house and tech house.",
-  "num_followers": 928331,
+  "num_followers": 928459,
   "original_name": "Lowkey Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOTZlN2E0OTBjNmUwMjEwMzg5MDU0NDRkMWU2MTVmMjVmNzAyODJj",
+  "snapshot_id": "MCxlY2VkNGNkNWJkMDQwMDMzNjIzYzhiOTAxZGFkMGU3MTI5NDQ3YWFi",
   "tracks": [
     {
       "added_at": "2023-11-27 18:33:25",
@@ -499,18 +499,18 @@
     {
       "added_at": "2023-11-27 18:33:25",
       "album": {
-        "name": "All I Got",
-        "url": "https://open.spotify.com/album/7wVulFxf5NeMvGnhTHD36h"
+        "name": "The Mirage EP",
+        "url": "https://open.spotify.com/album/6hPX9nAuWK16Venmzr6dNV"
       },
       "artists": [
         {
-          "name": "Miss Monique",
-          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+          "name": "Agents Of Time",
+          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
         }
       ],
-      "duration_ms": 304390,
-      "name": "All I Got",
-      "url": "https://open.spotify.com/track/5bsWIPw0w09vT2lDV2nDQw"
+      "duration_ms": 371903,
+      "name": "The Mirage",
+      "url": "https://open.spotify.com/track/4YwiPW0Blppb278a96Spt5"
     },
     {
       "added_at": "2023-11-27 18:33:25",
@@ -531,18 +531,18 @@
     {
       "added_at": "2023-11-27 18:33:25",
       "album": {
-        "name": "The Mirage EP",
-        "url": "https://open.spotify.com/album/6hPX9nAuWK16Venmzr6dNV"
+        "name": "All I Got",
+        "url": "https://open.spotify.com/album/7wVulFxf5NeMvGnhTHD36h"
       },
       "artists": [
         {
-          "name": "Agents Of Time",
-          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
         }
       ],
-      "duration_ms": 371903,
-      "name": "The Mirage",
-      "url": "https://open.spotify.com/track/4YwiPW0Blppb278a96Spt5"
+      "duration_ms": 304390,
+      "name": "All I Got",
+      "url": "https://open.spotify.com/track/5bsWIPw0w09vT2lDV2nDQw"
     },
     {
       "added_at": "2023-11-27 18:33:25",
@@ -639,30 +639,6 @@
     {
       "added_at": "2023-11-27 18:33:25",
       "album": {
-        "name": "Electric",
-        "url": "https://open.spotify.com/album/6aAEMDfaoCNQu1d3EgszPX"
-      },
-      "artists": [
-        {
-          "name": "Miss Monique",
-          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
-        },
-        {
-          "name": "ASHER SWISSA",
-          "url": "https://open.spotify.com/artist/4ZLrfqX4cxTrthF8AILMAM"
-        },
-        {
-          "name": "SANDHAUS",
-          "url": "https://open.spotify.com/artist/3VPDTHXbhY1NdFM3xpf2Ta"
-        }
-      ],
-      "duration_ms": 261290,
-      "name": "Electric",
-      "url": "https://open.spotify.com/track/62piGIpUTsY8HA7tdjfLS8"
-    },
-    {
-      "added_at": "2023-11-27 18:33:25",
-      "album": {
         "name": "MORE D4TA",
         "url": "https://open.spotify.com/album/7coOKcB1fDcYvLG1OTv4Dz"
       },
@@ -727,6 +703,30 @@
       "duration_ms": 224516,
       "name": "Keep Going",
       "url": "https://open.spotify.com/track/0JDSAbpZjlSMP2fpFjtiuN"
+    },
+    {
+      "added_at": "2023-11-27 18:33:25",
+      "album": {
+        "name": "Electric",
+        "url": "https://open.spotify.com/album/6aAEMDfaoCNQu1d3EgszPX"
+      },
+      "artists": [
+        {
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+        },
+        {
+          "name": "ASHER SWISSA",
+          "url": "https://open.spotify.com/artist/4ZLrfqX4cxTrthF8AILMAM"
+        },
+        {
+          "name": "SANDHAUS",
+          "url": "https://open.spotify.com/artist/3VPDTHXbhY1NdFM3xpf2Ta"
+        }
+      ],
+      "duration_ms": 261290,
+      "name": "Electric",
+      "url": "https://open.spotify.com/track/62piGIpUTsY8HA7tdjfLS8"
     },
     {
       "added_at": "2023-11-27 18:33:25",
@@ -863,6 +863,22 @@
     {
       "added_at": "2023-11-27 18:33:25",
       "album": {
+        "name": "Backseat Tape",
+        "url": "https://open.spotify.com/album/3kukhQjrtZcMNL43oLBedf"
+      },
+      "artists": [
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "duration_ms": 184040,
+      "name": "I Don't Need You",
+      "url": "https://open.spotify.com/track/0grLyO9HmxtestrFZrFJfU"
+    },
+    {
+      "added_at": "2023-11-27 18:33:25",
+      "album": {
         "name": "Love Will Set U Free",
         "url": "https://open.spotify.com/album/2q1yFtPevPCNlp06WDzfFc"
       },
@@ -883,18 +899,18 @@
     {
       "added_at": "2023-11-27 18:33:25",
       "album": {
-        "name": "Backseat Tape",
-        "url": "https://open.spotify.com/album/3kukhQjrtZcMNL43oLBedf"
+        "name": "Heal My Mind",
+        "url": "https://open.spotify.com/album/4yJ9yZ5Dnv3acY4eLegRNX"
       },
       "artists": [
         {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+          "name": "Korolova",
+          "url": "https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx"
         }
       ],
-      "duration_ms": 184040,
-      "name": "I Don't Need You",
-      "url": "https://open.spotify.com/track/0grLyO9HmxtestrFZrFJfU"
+      "duration_ms": 205714,
+      "name": "Heal My Mind",
+      "url": "https://open.spotify.com/track/1i3rncFmCIJfIm24QAjfsG"
     },
     {
       "added_at": "2023-11-27 18:33:25",
@@ -911,22 +927,6 @@
       "duration_ms": 217369,
       "name": "Cold Blooded",
       "url": "https://open.spotify.com/track/6ULPq2iNWiykHX1acI2SGn"
-    },
-    {
-      "added_at": "2023-11-27 18:33:25",
-      "album": {
-        "name": "Heal My Mind",
-        "url": "https://open.spotify.com/album/4yJ9yZ5Dnv3acY4eLegRNX"
-      },
-      "artists": [
-        {
-          "name": "Korolova",
-          "url": "https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Heal My Mind",
-      "url": "https://open.spotify.com/track/1i3rncFmCIJfIm24QAjfsG"
     },
     {
       "added_at": "2023-11-27 18:33:25",
@@ -1099,26 +1099,26 @@
     {
       "added_at": "2023-11-27 18:33:25",
       "album": {
-        "name": "Equal",
-        "url": "https://open.spotify.com/album/4PzxGlfoKM04nEQwscARba"
+        "name": "The Future",
+        "url": "https://open.spotify.com/album/0j9b4LarSNfTyScEtGwyAF"
       },
       "artists": [
         {
-          "name": "biskuwi",
-          "url": "https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT"
+          "name": "Tube & Berger",
+          "url": "https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h"
         },
         {
-          "name": "Jyll",
-          "url": "https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe"
+          "name": "Goatchy",
+          "url": "https://open.spotify.com/artist/2MOGeYMRvzFxWLgdwZpeQh"
         },
         {
-          "name": "Sylvie Miles",
-          "url": "https://open.spotify.com/artist/4uPM7QLSNGVm5MncolABqE"
+          "name": "Frank Sonic",
+          "url": "https://open.spotify.com/artist/3VyBzVPO0uq9bqgVeDyPmR"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Wild Heart",
-      "url": "https://open.spotify.com/track/0jN80BUFLFsTY9W7OeWqu8"
+      "duration_ms": 211371,
+      "name": "The Future",
+      "url": "https://open.spotify.com/track/1e806Bcl0zWAr4Q3YhaMJD"
     }
   ],
   "unique_name": "Lowkey Tech",

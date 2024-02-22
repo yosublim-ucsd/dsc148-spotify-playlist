@@ -1,12 +1,12 @@
 {
   "description": "Home is where the main stage is \ud83d\udc97",
-  "num_followers": 223384,
+  "num_followers": 223644,
   "original_name": "EDM 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMGY1YTExOWIxMzQ5OTlmNzJjZWFhMDdkMzM5MTdmODA3MWJhY2Fm",
+  "snapshot_id": "MCw4MzQzNmNiZDI0MDhkNDliMThlNzI1ZDJkMzk3ZjEwZTFjYzMxMDU5",
   "tracks": [
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "Good Life",
+        "url": "https://open.spotify.com/album/4L7JQYnj8oGhI4OfdQjFjv"
+      },
+      "artists": [
+        {
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+        }
+      ],
+      "duration_ms": 196224,
+      "name": "Good Life",
+      "url": "https://open.spotify.com/track/09rcsC6M15EZPbCVmrqUYK"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "I Got Nothing",
         "url": "https://open.spotify.com/album/32wadIN0emxBanTLINlH08"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 203540,
       "name": "I Got Nothing",
       "url": "https://open.spotify.com/track/4yagkb6nJCRcfjUhaOVHTw"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Good Life",
-        "url": "https://open.spotify.com/album/4L7JQYnj8oGhI4OfdQjFjv"
-      },
-      "artists": [
-        {
-          "name": "FAST BOY",
-          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
-        }
-      ],
-      "duration_ms": 196224,
-      "name": "Good Life",
-      "url": "https://open.spotify.com/track/09rcsC6M15EZPbCVmrqUYK"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1491,26 +1491,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Pump Up The Jam",
-        "url": "https://open.spotify.com/album/5VehHhrEHz67LAT5hLFq8x"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "HOSANNA",
-          "url": "https://open.spotify.com/artist/7M9O9v7kmiDSjN4eKFSik7"
-        }
-      ],
-      "duration_ms": 156923,
-      "name": "Pump Up The Jam",
-      "url": "https://open.spotify.com/track/2bazIDcL2XOCZE5rh58R7r"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Gangster",
         "url": "https://open.spotify.com/album/6Cnu76pf2PQ9bZNDB7VRyO"
       },
@@ -1527,6 +1507,26 @@
       "duration_ms": 136000,
       "name": "Gangster",
       "url": "https://open.spotify.com/track/2rh38KyxmYjzTU1tavVLl4"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Pump Up The Jam",
+        "url": "https://open.spotify.com/album/5VehHhrEHz67LAT5hLFq8x"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "HOSANNA",
+          "url": "https://open.spotify.com/artist/7M9O9v7kmiDSjN4eKFSik7"
+        }
+      ],
+      "duration_ms": 156923,
+      "name": "Pump Up The Jam",
+      "url": "https://open.spotify.com/track/2bazIDcL2XOCZE5rh58R7r"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1591,26 +1591,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "house in the streetlight",
-        "url": "https://open.spotify.com/album/0zaBQVn70gLIwHrKto8ViF"
+        "name": "90s Bitch",
+        "url": "https://open.spotify.com/album/4kCdFZjjSrMtYzCC3UnNNt"
       },
       "artists": [
         {
-          "name": "Gareth Emery",
-          "url": "https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi"
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
         },
         {
-          "name": "LSR/CITY",
-          "url": "https://open.spotify.com/artist/0YQ22xAzgefaKw8vKCAEp2"
-        },
-        {
-          "name": "Annabel",
-          "url": "https://open.spotify.com/artist/4zR2t8bagib4ozydVgb93l"
+          "name": "The Rocketman",
+          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
         }
       ],
-      "duration_ms": 175113,
-      "name": "house in the streetlight",
-      "url": "https://open.spotify.com/track/2oKH22tSUiqdjDSUhnWz0t"
+      "duration_ms": 196258,
+      "name": "90s Bitch",
+      "url": "https://open.spotify.com/track/2GcncPaqXotQIPokzRM5pP"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1631,26 +1627,26 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Where You Are (Zedd Remix)",
-        "url": "https://open.spotify.com/album/2QQVFNpjeX32mDhDi3Ad1B"
+        "name": "house in the streetlight",
+        "url": "https://open.spotify.com/album/0zaBQVn70gLIwHrKto8ViF"
       },
       "artists": [
         {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+          "name": "Gareth Emery",
+          "url": "https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi"
         },
         {
-          "name": "Hayla",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+          "name": "LSR/CITY",
+          "url": "https://open.spotify.com/artist/0YQ22xAzgefaKw8vKCAEp2"
         },
         {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+          "name": "Annabel",
+          "url": "https://open.spotify.com/artist/4zR2t8bagib4ozydVgb93l"
         }
       ],
-      "duration_ms": 184649,
-      "name": "Where You Are - Zedd Remix",
-      "url": "https://open.spotify.com/track/6hI3PnULFXwkOQSHLHNfOO"
+      "duration_ms": 175113,
+      "name": "house in the streetlight",
+      "url": "https://open.spotify.com/track/2oKH22tSUiqdjDSUhnWz0t"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1679,6 +1675,30 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "Where You Are (Zedd Remix)",
+        "url": "https://open.spotify.com/album/2QQVFNpjeX32mDhDi3Ad1B"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Hayla",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        },
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        }
+      ],
+      "duration_ms": 184649,
+      "name": "Where You Are - Zedd Remix",
+      "url": "https://open.spotify.com/track/6hI3PnULFXwkOQSHLHNfOO"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "Beyond the Fire",
         "url": "https://open.spotify.com/album/6lqBwXMLtXK7HGAaG4AnZ1"
       },
@@ -1691,26 +1711,6 @@
       "duration_ms": 228620,
       "name": "Beyond the Fire",
       "url": "https://open.spotify.com/track/45Q6hkvGtzW0VUybDnQ4n8"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "90s Bitch",
-        "url": "https://open.spotify.com/album/4kCdFZjjSrMtYzCC3UnNNt"
-      },
-      "artists": [
-        {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
-        },
-        {
-          "name": "The Rocketman",
-          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
-        }
-      ],
-      "duration_ms": 196258,
-      "name": "90s Bitch",
-      "url": "https://open.spotify.com/track/2GcncPaqXotQIPokzRM5pP"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1739,30 +1739,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Hollow",
-        "url": "https://open.spotify.com/album/3fzBtjYF8O1DFb3pmpkWgd"
-      },
-      "artists": [
-        {
-          "name": "Dabin",
-          "url": "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
-        },
-        {
-          "name": "Kai Wachi",
-          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
-        },
-        {
-          "name": "L\u00f8 Spirit",
-          "url": "https://open.spotify.com/artist/7cImXesjInq0e25gQLHWoV"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Hollow",
-      "url": "https://open.spotify.com/track/6AoG52kxfptY0QBQnjuQOe"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "RATATA",
         "url": "https://open.spotify.com/album/1Gjfloocho6vjWqkxhW6L4"
       },
@@ -1783,6 +1759,30 @@
       "duration_ms": 126774,
       "name": "RATATA",
       "url": "https://open.spotify.com/track/3YVeaqhSFth8QAL45wO19L"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Hollow",
+        "url": "https://open.spotify.com/album/3fzBtjYF8O1DFb3pmpkWgd"
+      },
+      "artists": [
+        {
+          "name": "Dabin",
+          "url": "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
+        },
+        {
+          "name": "Kai Wachi",
+          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
+        },
+        {
+          "name": "L\u00f8 Spirit",
+          "url": "https://open.spotify.com/artist/7cImXesjInq0e25gQLHWoV"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/6AoG52kxfptY0QBQnjuQOe"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1947,6 +1947,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "The Chant (For Club Play Only, Pt. 8)",
+        "url": "https://open.spotify.com/album/4l12XOrKoqpy2skRc8Zi6Q"
+      },
+      "artists": [
+        {
+          "name": "Duke Dumont",
+          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
+        }
+      ],
+      "duration_ms": 190104,
+      "name": "The Chant - For Club Play Only, Pt. 8",
+      "url": "https://open.spotify.com/track/7xy9K0gpqzgUGGuxG5ZfuN"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "On My Love (New Year Hypaton Remix)",
         "url": "https://open.spotify.com/album/1CTwTz2XAKkEYxyX1t4yVU"
       },
@@ -1967,22 +1983,6 @@
       "duration_ms": 191250,
       "name": "On My Love - New Year Hypaton Remix",
       "url": "https://open.spotify.com/track/0p30mMKiymrvaaeiXoU3a5"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "The Chant (For Club Play Only, Pt. 8)",
-        "url": "https://open.spotify.com/album/4l12XOrKoqpy2skRc8Zi6Q"
-      },
-      "artists": [
-        {
-          "name": "Duke Dumont",
-          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
-        }
-      ],
-      "duration_ms": 190104,
-      "name": "The Chant - For Club Play Only, Pt. 8",
-      "url": "https://open.spotify.com/track/7xy9K0gpqzgUGGuxG5ZfuN"
     },
     {
       "added_at": "2024-02-16 05:00:00",

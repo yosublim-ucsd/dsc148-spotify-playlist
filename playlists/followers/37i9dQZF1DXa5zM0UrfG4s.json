@@ -1,5 +1,5 @@
 {
-  "2024-02-21": 107432,
+  "2024-02-22": 107449,
   "date_first_scraped": "2021-12-28",
   "description": "b\u00f8gdebangers du kan spelle i kjerra! ",
   "name": "Livet p\u00e5 B\u00f8gda!",
@@ -1861,7 +1861,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 131835,
       "name": "Er det lov \u00e5 leva",
       "url": "https://open.spotify.com/track/3KKdDF5B4kjkC0zWR4SKZs"
@@ -2375,6 +2375,24 @@
       "duration_ms": 208615,
       "name": "Gamle helter",
       "url": "https://open.spotify.com/track/5UStrdTMXC3qwEQSEv1HWo"
+    },
+    {
+      "album": {
+        "name": "Gamlehjem",
+        "url": "https://open.spotify.com/album/7bwo9g7xMxlVYYxZIsNBCU"
+      },
+      "artists": [
+        {
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181648,
+      "name": "Gamlehjem",
+      "url": "https://open.spotify.com/track/2GY30sRduLyBQQHkTDDpK9"
     },
     {
       "album": {

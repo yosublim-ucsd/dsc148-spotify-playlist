@@ -1,12 +1,12 @@
 {
   "description": "Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.",
-  "num_followers": 59634,
+  "num_followers": 59660,
   "original_name": "The Good Cup",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYTcwZDk0NTdiNmRkMDNhZTcwMDNjZjRhMmY0Nzk0YzNmN2IwNWY4",
+  "snapshot_id": "MCxlZTI3NjA3NTAwMjM1NDZkN2Y2YTA5Y2FkNTc5ZjVjOWY3NTAyNzUx",
   "tracks": [
     {
       "added_at": "2023-07-28 04:02:00",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Holy, Holy, Holy",
-        "url": "https://open.spotify.com/album/4iCzXfUIGxmEX8DA42flzB"
-      },
-      "artists": [
-        {
-          "name": "John Tibbs",
-          "url": "https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d"
-        }
-      ],
-      "duration_ms": 146400,
-      "name": "Holy, Holy, Holy",
-      "url": "https://open.spotify.com/track/6xO4gnKFDGCvLiIFiiDsLT"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "All Things New",
         "url": "https://open.spotify.com/album/3jXUhc7v2rGvSJss6cxt6a"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 264604,
       "name": "We Have Overcome",
       "url": "https://open.spotify.com/track/5kw4tBzuZmZpmlzDHjAuAn"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Holy, Holy, Holy",
+        "url": "https://open.spotify.com/album/4iCzXfUIGxmEX8DA42flzB"
+      },
+      "artists": [
+        {
+          "name": "John Tibbs",
+          "url": "https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d"
+        }
+      ],
+      "duration_ms": 146400,
+      "name": "Holy, Holy, Holy",
+      "url": "https://open.spotify.com/track/6xO4gnKFDGCvLiIFiiDsLT"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Safe Place",
-        "url": "https://open.spotify.com/album/6aYo3XMTrfvmMh4mzTG74t"
-      },
-      "artists": [
-        {
-          "name": "Spencer Annis",
-          "url": "https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "The Invitation",
-      "url": "https://open.spotify.com/track/7KhqjDjqRU3nYWqjQeFINH"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "features",
         "url": "https://open.spotify.com/album/0Fc7umL5EClDmFhOI5GNuz"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 172000,
       "name": "wearing thin (alt. version)",
       "url": "https://open.spotify.com/track/1vZQZrT8BHfBZUMElDaSyv"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Safe Place",
+        "url": "https://open.spotify.com/album/6aYo3XMTrfvmMh4mzTG74t"
+      },
+      "artists": [
+        {
+          "name": "Spencer Annis",
+          "url": "https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "The Invitation",
+      "url": "https://open.spotify.com/track/7KhqjDjqRU3nYWqjQeFINH"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Young Oceans",
-        "url": "https://open.spotify.com/album/1367PHceftcW1GcBTbzuzB"
-      },
-      "artists": [
-        {
-          "name": "Young Oceans",
-          "url": "https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr"
-        }
-      ],
-      "duration_ms": 273960,
-      "name": "Great Is Our God",
-      "url": "https://open.spotify.com/track/5TO4KuGzOBKG6CqxHm4wRD"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Yoga Practice & Mindfulness Music",
         "url": "https://open.spotify.com/album/7ucUV4KGsEi5kYxZvRDMJj"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 165914,
       "name": "Water Harp",
       "url": "https://open.spotify.com/track/0uQIzIuNMfzCZCtRGSr4l9"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Young Oceans",
+        "url": "https://open.spotify.com/album/1367PHceftcW1GcBTbzuzB"
+      },
+      "artists": [
+        {
+          "name": "Young Oceans",
+          "url": "https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr"
+        }
+      ],
+      "duration_ms": 273960,
+      "name": "Great Is Our God",
+      "url": "https://open.spotify.com/track/5TO4KuGzOBKG6CqxHm4wRD"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "From the Valley",
-        "url": "https://open.spotify.com/album/3BoecgmoOMsloSsVhPGc8H"
-      },
-      "artists": [
-        {
-          "name": "Shamina",
-          "url": "https://open.spotify.com/artist/2fgTVQWUfT8Mz9B9baFjMb"
-        }
-      ],
-      "duration_ms": 279451,
-      "name": "God Who Saves",
-      "url": "https://open.spotify.com/track/0bbL9rzu1AkfchxvD3LsTP"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "The Albatross EP",
         "url": "https://open.spotify.com/album/7bW6ltN8Z9FWMeyBBwZ24H"
       },
@@ -759,18 +743,18 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Rivers & Robots Presents: Still, Vol. 1 (Instrumentals)",
-        "url": "https://open.spotify.com/album/4g34k44C3ymTpr86zk1FJM"
+        "name": "From the Valley",
+        "url": "https://open.spotify.com/album/3BoecgmoOMsloSsVhPGc8H"
       },
       "artists": [
         {
-          "name": "Rivers & Robots",
-          "url": "https://open.spotify.com/artist/41yDmxekjnWShKi6nRmzZ4"
+          "name": "Shamina",
+          "url": "https://open.spotify.com/artist/2fgTVQWUfT8Mz9B9baFjMb"
         }
       ],
-      "duration_ms": 242120,
-      "name": "The Lion And The Lamb - Instrumental",
-      "url": "https://open.spotify.com/track/4G46PbCzNXjAzYbzYGNc8Z"
+      "duration_ms": 279451,
+      "name": "God Who Saves",
+      "url": "https://open.spotify.com/track/0bbL9rzu1AkfchxvD3LsTP"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -791,18 +775,18 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "High Level Praise",
-        "url": "https://open.spotify.com/album/4pDjTLLVISarrVTOtdbC5t"
+        "name": "Rivers & Robots Presents: Still, Vol. 1 (Instrumentals)",
+        "url": "https://open.spotify.com/album/4g34k44C3ymTpr86zk1FJM"
       },
       "artists": [
         {
-          "name": "Stevie Rizo",
-          "url": "https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL"
+          "name": "Rivers & Robots",
+          "url": "https://open.spotify.com/artist/41yDmxekjnWShKi6nRmzZ4"
         }
       ],
-      "duration_ms": 198504,
-      "name": "Whirlwind",
-      "url": "https://open.spotify.com/track/31SPFXqa1G8C8khRFSrJ1L"
+      "duration_ms": 242120,
+      "name": "The Lion And The Lamb - Instrumental",
+      "url": "https://open.spotify.com/track/4G46PbCzNXjAzYbzYGNc8Z"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -819,6 +803,22 @@
       "duration_ms": 179678,
       "name": "Lord I need You",
       "url": "https://open.spotify.com/track/2UYvWrbew5Bbb6PchbU4t4"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "High Level Praise",
+        "url": "https://open.spotify.com/album/4pDjTLLVISarrVTOtdbC5t"
+      },
+      "artists": [
+        {
+          "name": "Stevie Rizo",
+          "url": "https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL"
+        }
+      ],
+      "duration_ms": 198504,
+      "name": "Whirlwind",
+      "url": "https://open.spotify.com/track/31SPFXqa1G8C8khRFSrJ1L"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Hope Where There Was None",
-        "url": "https://open.spotify.com/album/0r8wBWtCnNlJP5YE0vPLO5"
-      },
-      "artists": [
-        {
-          "name": "Loud Harp",
-          "url": "https://open.spotify.com/artist/1Tzbi2wUUDgttZfg5u6Gqu"
-        }
-      ],
-      "duration_ms": 196040,
-      "name": "Weeping Mary",
-      "url": "https://open.spotify.com/track/3S96UVk0yav8F1MagcPYas"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "What You Paid For",
         "url": "https://open.spotify.com/album/35LPGmmn5mSgLjTVC3mkgw"
       },
@@ -879,18 +863,18 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "those lil god songs i posted on ig",
-        "url": "https://open.spotify.com/album/0s9S70ptWvOQlECSs5ORT4"
+        "name": "Hope Where There Was None",
+        "url": "https://open.spotify.com/album/0r8wBWtCnNlJP5YE0vPLO5"
       },
       "artists": [
         {
-          "name": "Taylor Armstrong",
-          "url": "https://open.spotify.com/artist/3CVk2LzA3zH6FBAXuPbnhc"
+          "name": "Loud Harp",
+          "url": "https://open.spotify.com/artist/1Tzbi2wUUDgttZfg5u6Gqu"
         }
       ],
-      "duration_ms": 216000,
-      "name": "make stuff up & sing things",
-      "url": "https://open.spotify.com/track/1D18cgyuEatXaEqKk5Ldvv"
+      "duration_ms": 196040,
+      "name": "Weeping Mary",
+      "url": "https://open.spotify.com/track/3S96UVk0yav8F1MagcPYas"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -907,6 +891,22 @@
       "duration_ms": 151169,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/6Qq9sLJvJhDjwoRMZSLHuP"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "those lil god songs i posted on ig",
+        "url": "https://open.spotify.com/album/0s9S70ptWvOQlECSs5ORT4"
+      },
+      "artists": [
+        {
+          "name": "Taylor Armstrong",
+          "url": "https://open.spotify.com/artist/3CVk2LzA3zH6FBAXuPbnhc"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "make stuff up & sing things",
+      "url": "https://open.spotify.com/track/1D18cgyuEatXaEqKk5Ldvv"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -943,22 +943,6 @@
       "duration_ms": 216366,
       "name": "hold on (alt. version)",
       "url": "https://open.spotify.com/track/6OXaUmzgo2kjXK1Aa6Qza2"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "Psalm 68",
-        "url": "https://open.spotify.com/album/6dWGYR2VwkucY8CJgPFA3g"
-      },
-      "artists": [
-        {
-          "name": "Poor Bishop Hooper",
-          "url": "https://open.spotify.com/artist/7AgYdpiGbObyY3WVJXxhi0"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "Psalm 68",
-      "url": "https://open.spotify.com/track/6j0QBcktzAGf7n5lGEVhPJ"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1043,18 +1027,34 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "The Spacies",
-        "url": "https://open.spotify.com/album/4mDTFF0tmIpDbW92F9FzJp"
+        "name": "Psalm 68",
+        "url": "https://open.spotify.com/album/6dWGYR2VwkucY8CJgPFA3g"
       },
       "artists": [
         {
-          "name": "The Spacies",
-          "url": "https://open.spotify.com/artist/3YpKkSd9uluZRtrh2oUsVn"
+          "name": "Poor Bishop Hooper",
+          "url": "https://open.spotify.com/artist/7AgYdpiGbObyY3WVJXxhi0"
         }
       ],
-      "duration_ms": 261500,
-      "name": "To The Sky",
-      "url": "https://open.spotify.com/track/6JSyLsZlKdtyN39cbMnwXO"
+      "duration_ms": 252000,
+      "name": "Psalm 68",
+      "url": "https://open.spotify.com/track/6j0QBcktzAGf7n5lGEVhPJ"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "You & I Again",
+        "url": "https://open.spotify.com/album/0Q5FgBERKireTEtap76rej"
+      },
+      "artists": [
+        {
+          "name": "Kings Kaleidoscope",
+          "url": "https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A"
+        }
+      ],
+      "duration_ms": 160264,
+      "name": "You & I Again",
+      "url": "https://open.spotify.com/track/6SEQ3D3SxAnEGvePRf1aeI"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1075,18 +1075,34 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "You & I Again",
-        "url": "https://open.spotify.com/album/0Q5FgBERKireTEtap76rej"
+        "name": "The Spacies",
+        "url": "https://open.spotify.com/album/4mDTFF0tmIpDbW92F9FzJp"
       },
       "artists": [
         {
-          "name": "Kings Kaleidoscope",
-          "url": "https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A"
+          "name": "The Spacies",
+          "url": "https://open.spotify.com/artist/3YpKkSd9uluZRtrh2oUsVn"
         }
       ],
-      "duration_ms": 160264,
-      "name": "You & I Again",
-      "url": "https://open.spotify.com/track/6SEQ3D3SxAnEGvePRf1aeI"
+      "duration_ms": 261500,
+      "name": "To The Sky",
+      "url": "https://open.spotify.com/track/6JSyLsZlKdtyN39cbMnwXO"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Phone to Logos",
+        "url": "https://open.spotify.com/album/3wowrmigbeUtUDfV2TociG"
+      },
+      "artists": [
+        {
+          "name": "Porya Hatami",
+          "url": "https://open.spotify.com/artist/6qGn1dMbzeGodjzNfzG4gZ"
+        }
+      ],
+      "duration_ms": 447355,
+      "name": "Pomegranates",
+      "url": "https://open.spotify.com/track/26p4guqZWBNsBSLTifE1Dy"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1115,22 +1131,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Phone to Logos",
-        "url": "https://open.spotify.com/album/3wowrmigbeUtUDfV2TociG"
-      },
-      "artists": [
-        {
-          "name": "Porya Hatami",
-          "url": "https://open.spotify.com/artist/6qGn1dMbzeGodjzNfzG4gZ"
-        }
-      ],
-      "duration_ms": 447355,
-      "name": "Pomegranates",
-      "url": "https://open.spotify.com/track/26p4guqZWBNsBSLTifE1Dy"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Fantasize",
         "url": "https://open.spotify.com/album/41Ifm24Z3c8pAIFxMWUJp3"
       },
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "How Much You Mean To Me",
-        "url": "https://open.spotify.com/album/2vQD8zZ9aKcy4H9S6TSBk0"
-      },
-      "artists": [
-        {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
-        }
-      ],
-      "duration_ms": 218129,
-      "name": "How Much You Mean To Me",
-      "url": "https://open.spotify.com/track/1NdTUsv9MaS9YHUbkIhVPG"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "an ep of some songs u can read ur bible + journal to",
         "url": "https://open.spotify.com/album/0FjqdsNhcipVrps8W4qBra"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 241442,
       "name": "kindling.mp3",
       "url": "https://open.spotify.com/track/3ajOQsKvV2LeVZhqYMLnaK"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "How Much You Mean To Me",
+        "url": "https://open.spotify.com/album/2vQD8zZ9aKcy4H9S6TSBk0"
+      },
+      "artists": [
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "duration_ms": 218129,
+      "name": "How Much You Mean To Me",
+      "url": "https://open.spotify.com/track/1NdTUsv9MaS9YHUbkIhVPG"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Spirit Stretch (For Christian Yoga, Relaxation and Massage)",
-        "url": "https://open.spotify.com/album/0Rz24y1BSFrHxE5VvXQKj4"
-      },
-      "artists": [
-        {
-          "name": "SpiritFit Music",
-          "url": "https://open.spotify.com/artist/0Ogq9gIMIesIEd65hhYuew"
-        }
-      ],
-      "duration_ms": 346773,
-      "name": "Anthem",
-      "url": "https://open.spotify.com/track/4FEo0LfhMnTF3XxRFeHEvK"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "playing pretend",
         "url": "https://open.spotify.com/album/4x9YHiyWw5bbdJEeMZSSGJ"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 236546,
       "name": "playing pretend",
       "url": "https://open.spotify.com/track/7fDRcqnAQvWPJ7X1Ycnkgf"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Spirit Stretch (For Christian Yoga, Relaxation and Massage)",
+        "url": "https://open.spotify.com/album/0Rz24y1BSFrHxE5VvXQKj4"
+      },
+      "artists": [
+        {
+          "name": "SpiritFit Music",
+          "url": "https://open.spotify.com/artist/0Ogq9gIMIesIEd65hhYuew"
+        }
+      ],
+      "duration_ms": 346773,
+      "name": "Anthem",
+      "url": "https://open.spotify.com/track/4FEo0LfhMnTF3XxRFeHEvK"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "Reverie",
+        "url": "https://open.spotify.com/album/0dtL3GrsD3XfJA9YMBDhN1"
+      },
+      "artists": [
+        {
+          "name": "In Cathedrals",
+          "url": "https://open.spotify.com/artist/2a3Z1GLgmyfTgeK4r5Zu3n"
+        }
+      ],
+      "duration_ms": 252631,
+      "name": "Reverie",
+      "url": "https://open.spotify.com/track/1ap1u1rzIpmJu9bRwyxYLa"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "I Won't Let Go",
         "url": "https://open.spotify.com/album/0ACc9AF4bVDlR4zETVFCgn"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 232293,
       "name": "I Won't Let Go",
       "url": "https://open.spotify.com/track/0MqaKrT6Xak9kxjN64HKkq"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "undone",
-        "url": "https://open.spotify.com/album/62cc9ZKmqWzwiUQ0vRJ41Z"
-      },
-      "artists": [
-        {
-          "name": "The War Within",
-          "url": "https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh"
-        }
-      ],
-      "duration_ms": 291242,
-      "name": "dust to dust/lose myself (undone)",
-      "url": "https://open.spotify.com/track/6itrh3ZUUSgKkJdTWu5wyD"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1547,18 +1547,34 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Reverie",
-        "url": "https://open.spotify.com/album/0dtL3GrsD3XfJA9YMBDhN1"
+        "name": "undone",
+        "url": "https://open.spotify.com/album/62cc9ZKmqWzwiUQ0vRJ41Z"
       },
       "artists": [
         {
-          "name": "In Cathedrals",
-          "url": "https://open.spotify.com/artist/2a3Z1GLgmyfTgeK4r5Zu3n"
+          "name": "The War Within",
+          "url": "https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh"
         }
       ],
-      "duration_ms": 252631,
-      "name": "Reverie",
-      "url": "https://open.spotify.com/track/1ap1u1rzIpmJu9bRwyxYLa"
+      "duration_ms": 291242,
+      "name": "dust to dust/lose myself (undone)",
+      "url": "https://open.spotify.com/track/6itrh3ZUUSgKkJdTWu5wyD"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Velveteen",
+        "url": "https://open.spotify.com/album/5VjY0h9wEbhKYaYuk3QXnO"
+      },
+      "artists": [
+        {
+          "name": "Christa Wells",
+          "url": "https://open.spotify.com/artist/3gCNiuPNPiAA5UQSgb8Uby"
+        }
+      ],
+      "duration_ms": 237481,
+      "name": "Velveteen",
+      "url": "https://open.spotify.com/track/4EqMffOPYDDgXlwPgYgbUy"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1579,22 +1595,6 @@
       "duration_ms": 210461,
       "name": "Freedom Fighter (Jimmy James Remix)",
       "url": "https://open.spotify.com/track/1xSVf7fLxIf6rcDD0haXIb"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "Velveteen",
-        "url": "https://open.spotify.com/album/5VjY0h9wEbhKYaYuk3QXnO"
-      },
-      "artists": [
-        {
-          "name": "Christa Wells",
-          "url": "https://open.spotify.com/artist/3gCNiuPNPiAA5UQSgb8Uby"
-        }
-      ],
-      "duration_ms": 237481,
-      "name": "Velveteen",
-      "url": "https://open.spotify.com/track/4EqMffOPYDDgXlwPgYgbUy"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1627,26 +1627,6 @@
       "duration_ms": 333750,
       "name": "Higher Ways",
       "url": "https://open.spotify.com/track/1dXPUD8g74o7nAf9dxksPA"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "Anchor",
-        "url": "https://open.spotify.com/album/2SIHwdpJ51catH3G1vNLGG"
-      },
-      "artists": [
-        {
-          "name": "The War Within",
-          "url": "https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh"
-        },
-        {
-          "name": "Madison Nightingale",
-          "url": "https://open.spotify.com/artist/7rtM8hShcn3uvAJrXapFSq"
-        }
-      ],
-      "duration_ms": 301909,
-      "name": "Anchor",
-      "url": "https://open.spotify.com/track/2kDS6kwrjR2QDOj5RF52xj"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1715,6 +1695,22 @@
       "duration_ms": 267933,
       "name": "Even Here Love Comes - Acoustic",
       "url": "https://open.spotify.com/track/6BIVOCaJMcS4okKENbf7pL"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "How To Love",
+        "url": "https://open.spotify.com/album/5GimHqufYnL4RwURn1kiMB"
+      },
+      "artists": [
+        {
+          "name": "Levi Mitchell",
+          "url": "https://open.spotify.com/artist/2lm3ISdfvGLIqhp9roRcdr"
+        }
+      ],
+      "duration_ms": 120558,
+      "name": "How To Love",
+      "url": "https://open.spotify.com/track/1IC9zHtLv9Kmsqnsj4RLsB"
     }
   ],
   "unique_name": "The Good Cup",

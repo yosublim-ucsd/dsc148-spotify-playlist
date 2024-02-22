@@ -1,12 +1,12 @@
 {
   "description": "En samling av de b\u00e4sta svenska l\u00e5tarna just nu.",
-  "num_followers": 195706,
+  "num_followers": 195699,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOWU3OGFhN2ZmODlmYTZlOWE5YTgxMGMzOTU5N2ZhNDI1YTFhYmJj",
+  "snapshot_id": "MCw4ODJhMDEyNDg1MmYwZWQ0MmU4ZDNhNzQzYWY1MTQ4MDI0Mjg1Y2Rh",
   "tracks": [
     {
       "added_at": "2024-02-15 23:00:00",
@@ -439,22 +439,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Minimum",
-        "url": "https://open.spotify.com/album/7ntbKzzrRi4jgxNoPCKMjb"
-      },
-      "artists": [
-        {
-          "name": "noll2",
-          "url": "https://open.spotify.com/artist/6goq2OWu3ncHBnpFtCZGHR"
-        }
-      ],
-      "duration_ms": 133980,
-      "name": "Minimum",
-      "url": "https://open.spotify.com/track/4JkY9nv1oRlj9OYfOlOVna"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "Den sista s\u00e5ngen",
         "url": "https://open.spotify.com/album/1BSCYFMPa8Vdano6qM0M9G"
       },
@@ -471,18 +455,18 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "If I Were To Die",
-        "url": "https://open.spotify.com/album/76XLa26ATLEq9IjDDw13PU"
+        "name": "Minimum",
+        "url": "https://open.spotify.com/album/7ntbKzzrRi4jgxNoPCKMjb"
       },
       "artists": [
         {
-          "name": "Winona Oak",
-          "url": "https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1"
+          "name": "noll2",
+          "url": "https://open.spotify.com/artist/6goq2OWu3ncHBnpFtCZGHR"
         }
       ],
-      "duration_ms": 163405,
-      "name": "If I Were To Die",
-      "url": "https://open.spotify.com/track/0nP4j2H2Iz2bGv3LWOWxbK"
+      "duration_ms": 133980,
+      "name": "Minimum",
+      "url": "https://open.spotify.com/track/4JkY9nv1oRlj9OYfOlOVna"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -499,6 +483,22 @@
       "duration_ms": 155800,
       "name": "F\u00f6rl\u00e5t f\u00f6r alla g\u00e5nger",
       "url": "https://open.spotify.com/track/0UoFiDE3nDVTLMIOSK2JKj"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "If I Were To Die",
+        "url": "https://open.spotify.com/album/76XLa26ATLEq9IjDDw13PU"
+      },
+      "artists": [
+        {
+          "name": "Winona Oak",
+          "url": "https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1"
+        }
+      ],
+      "duration_ms": 163405,
+      "name": "If I Were To Die",
+      "url": "https://open.spotify.com/track/0nP4j2H2Iz2bGv3LWOWxbK"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -535,6 +535,22 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
+        "name": "Frenemy",
+        "url": "https://open.spotify.com/album/4nnLQ5qxI10HWd6cYuIBbt"
+      },
+      "artists": [
+        {
+          "name": "ANJI",
+          "url": "https://open.spotify.com/artist/0OTtMOIJs0iVMT8mpvtU25"
+        }
+      ],
+      "duration_ms": 155411,
+      "name": "Frenemy",
+      "url": "https://open.spotify.com/track/38fGD18era2pGm0GO82sSn"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
         "name": "come so far",
         "url": "https://open.spotify.com/album/3YMFzZ4EoUFu2ZA4lW6tbX"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 165483,
       "name": "come so far",
       "url": "https://open.spotify.com/track/728wLnW4NkotVLTQyGxVyA"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
-        "name": "Frenemy",
-        "url": "https://open.spotify.com/album/4nnLQ5qxI10HWd6cYuIBbt"
-      },
-      "artists": [
-        {
-          "name": "ANJI",
-          "url": "https://open.spotify.com/artist/0OTtMOIJs0iVMT8mpvtU25"
-        }
-      ],
-      "duration_ms": 155411,
-      "name": "Frenemy",
-      "url": "https://open.spotify.com/track/38fGD18era2pGm0GO82sSn"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Vi Tv\u00e5",
-        "url": "https://open.spotify.com/album/7rsQ9C50dn0H8mQiNbALYr"
-      },
-      "artists": [
-        {
-          "name": "UPPENBARA",
-          "url": "https://open.spotify.com/artist/43blp0I6QmWnZmDW7yW9E7"
-        }
-      ],
-      "duration_ms": 157090,
-      "name": "Vi Tv\u00e5",
-      "url": "https://open.spotify.com/track/1aaZRBB3UW9H9KJbV4mfQZ"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "V\u00e5gar",
         "url": "https://open.spotify.com/album/2TfQ5HuVuEKMq7f2SjT99i"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 196999,
       "name": "V\u00e5gar",
       "url": "https://open.spotify.com/track/05AFsQh8RRqe06G3iPM1lv"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Vi Tv\u00e5",
+        "url": "https://open.spotify.com/album/7rsQ9C50dn0H8mQiNbALYr"
+      },
+      "artists": [
+        {
+          "name": "UPPENBARA",
+          "url": "https://open.spotify.com/artist/43blp0I6QmWnZmDW7yW9E7"
+        }
+      ],
+      "duration_ms": 157090,
+      "name": "Vi Tv\u00e5",
+      "url": "https://open.spotify.com/track/1aaZRBB3UW9H9KJbV4mfQZ"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -739,6 +739,22 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
+        "name": "Krossa sn\u00e4llt",
+        "url": "https://open.spotify.com/album/4gwDN7mVK8hcKJeH50Z9XB"
+      },
+      "artists": [
+        {
+          "name": "Lisa Howard",
+          "url": "https://open.spotify.com/artist/65eHyQC0V8h38ia3dLKaRm"
+        }
+      ],
+      "duration_ms": 193296,
+      "name": "Krossa sn\u00e4llt",
+      "url": "https://open.spotify.com/track/4oRk3LwfqCjSQidSifY4tk"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
         "name": "TROLL",
         "url": "https://open.spotify.com/album/0sFwVx2YJ465Q31RlYkjzx"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 139600,
       "name": "Like I Do",
       "url": "https://open.spotify.com/track/5GE9E3pQFFtsSf9mOXHMdO"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
-        "name": "Krossa sn\u00e4llt",
-        "url": "https://open.spotify.com/album/4gwDN7mVK8hcKJeH50Z9XB"
-      },
-      "artists": [
-        {
-          "name": "Lisa Howard",
-          "url": "https://open.spotify.com/artist/65eHyQC0V8h38ia3dLKaRm"
-        }
-      ],
-      "duration_ms": 193296,
-      "name": "Krossa sn\u00e4llt",
-      "url": "https://open.spotify.com/track/4oRk3LwfqCjSQidSifY4tk"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -999,6 +999,38 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
+        "name": "Dummare",
+        "url": "https://open.spotify.com/album/26JlfJ2nLuTHHI8Tf0YZVa"
+      },
+      "artists": [
+        {
+          "name": "Atmosf\u00e4r",
+          "url": "https://open.spotify.com/artist/1lyKZwLfr7m2hug2svSdUh"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Dummare",
+      "url": "https://open.spotify.com/track/207yBXxFUCVucZHYiP6OsF"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Jocelyn",
+        "url": "https://open.spotify.com/album/3zS6gnCt8Ksp3zF48waeCJ"
+      },
+      "artists": [
+        {
+          "name": "Klaudy",
+          "url": "https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd"
+        }
+      ],
+      "duration_ms": 155066,
+      "name": "F\u00f6rl\u00e5t",
+      "url": "https://open.spotify.com/track/3nl7ZG7o931x99SvWIk3oZ"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
         "name": "Ocean In Me",
         "url": "https://open.spotify.com/album/02lUjkyXOvzAEoRUmrkXBg"
       },
@@ -1027,38 +1059,6 @@
       "duration_ms": 179111,
       "name": "Together",
       "url": "https://open.spotify.com/track/1Z5LUX0cHKI6V3aAQ9AfNQ"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
-        "name": "Jocelyn",
-        "url": "https://open.spotify.com/album/3zS6gnCt8Ksp3zF48waeCJ"
-      },
-      "artists": [
-        {
-          "name": "Klaudy",
-          "url": "https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd"
-        }
-      ],
-      "duration_ms": 155066,
-      "name": "F\u00f6rl\u00e5t",
-      "url": "https://open.spotify.com/track/3nl7ZG7o931x99SvWIk3oZ"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
-        "name": "Dummare",
-        "url": "https://open.spotify.com/album/26JlfJ2nLuTHHI8Tf0YZVa"
-      },
-      "artists": [
-        {
-          "name": "Atmosf\u00e4r",
-          "url": "https://open.spotify.com/artist/1lyKZwLfr7m2hug2svSdUh"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Dummare",
-      "url": "https://open.spotify.com/track/207yBXxFUCVucZHYiP6OsF"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Cut Them Out",
-        "url": "https://open.spotify.com/album/6tdkOD0oV6jwXYRmQClfSR"
-      },
-      "artists": [
-        {
-          "name": "Amanda Fondell",
-          "url": "https://open.spotify.com/artist/5rL1bpxszSXKHmVPXR5ZGs"
-        }
-      ],
-      "duration_ms": 187186,
-      "name": "Cut Them Out",
-      "url": "https://open.spotify.com/track/2qg6GGfDdQpK2108Cs0pzv"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "Helt r\u00e4tt",
         "url": "https://open.spotify.com/album/2lFsbvTq9t0ZYVjvYefjgj"
       },
@@ -1155,6 +1139,38 @@
       "duration_ms": 140743,
       "name": "Helt r\u00e4tt",
       "url": "https://open.spotify.com/track/2Etw9QgIYzhogP9YWgFxbv"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "L\u00e5ngt h\u00e4rifr\u00e5n",
+        "url": "https://open.spotify.com/album/2mYvp2hNIUogRf2j2Op8ov"
+      },
+      "artists": [
+        {
+          "name": "Benji",
+          "url": "https://open.spotify.com/artist/3neUCGkPr49wZFy3UXaYpg"
+        }
+      ],
+      "duration_ms": 242480,
+      "name": "L\u00e5ngt h\u00e4rifr\u00e5n",
+      "url": "https://open.spotify.com/track/5U8AlsaiY7b9008LtPb4ZG"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Cut Them Out",
+        "url": "https://open.spotify.com/album/6tdkOD0oV6jwXYRmQClfSR"
+      },
+      "artists": [
+        {
+          "name": "Amanda Fondell",
+          "url": "https://open.spotify.com/artist/5rL1bpxszSXKHmVPXR5ZGs"
+        }
+      ],
+      "duration_ms": 187186,
+      "name": "Cut Them Out",
+      "url": "https://open.spotify.com/track/2qg6GGfDdQpK2108Cs0pzv"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1175,22 +1191,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "SL\u00c5R",
-        "url": "https://open.spotify.com/album/6YmJBPayCJHX0eoXqjkcKY"
-      },
-      "artists": [
-        {
-          "name": "Gamebojj",
-          "url": "https://open.spotify.com/artist/3tL3V3oYCfUDA6eECPGw1j"
-        }
-      ],
-      "duration_ms": 152941,
-      "name": "SL\u00c5R",
-      "url": "https://open.spotify.com/track/7E3w18uY1JjvJGBowcz4bU"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "S\u00e5 nice",
         "url": "https://open.spotify.com/album/35gUoDZjN5C7yK6czZnp7y"
       },
@@ -1203,6 +1203,22 @@
       "duration_ms": 169500,
       "name": "S\u00e5 nice",
       "url": "https://open.spotify.com/track/7ydwM6jH4kqbr7MOXp11NO"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "SL\u00c5R",
+        "url": "https://open.spotify.com/album/6YmJBPayCJHX0eoXqjkcKY"
+      },
+      "artists": [
+        {
+          "name": "Gamebojj",
+          "url": "https://open.spotify.com/artist/3tL3V3oYCfUDA6eECPGw1j"
+        }
+      ],
+      "duration_ms": 152941,
+      "name": "SL\u00c5R",
+      "url": "https://open.spotify.com/track/7E3w18uY1JjvJGBowcz4bU"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1223,18 +1239,18 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "L\u00e5ngt h\u00e4rifr\u00e5n",
-        "url": "https://open.spotify.com/album/2mYvp2hNIUogRf2j2Op8ov"
+        "name": "Embers",
+        "url": "https://open.spotify.com/album/1MZOK8dBUuZISHLUPpVclr"
       },
       "artists": [
         {
-          "name": "Benji",
-          "url": "https://open.spotify.com/artist/3neUCGkPr49wZFy3UXaYpg"
+          "name": "Simon Alexander",
+          "url": "https://open.spotify.com/artist/4i4s4cwfzGvsURbt6rzKTA"
         }
       ],
-      "duration_ms": 242480,
-      "name": "L\u00e5ngt h\u00e4rifr\u00e5n",
-      "url": "https://open.spotify.com/track/5U8AlsaiY7b9008LtPb4ZG"
+      "duration_ms": 281351,
+      "name": "Embers",
+      "url": "https://open.spotify.com/track/7fC6Q58cCvKGuCbDgbB75h"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1291,22 +1307,6 @@
       "duration_ms": 333874,
       "name": "Maria Magdalena",
       "url": "https://open.spotify.com/track/3SzkjtUKRbFwtCW6Hv1IWH"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
-        "name": "Embers",
-        "url": "https://open.spotify.com/album/1MZOK8dBUuZISHLUPpVclr"
-      },
-      "artists": [
-        {
-          "name": "Simon Alexander",
-          "url": "https://open.spotify.com/artist/4i4s4cwfzGvsURbt6rzKTA"
-        }
-      ],
-      "duration_ms": 281351,
-      "name": "Embers",
-      "url": "https://open.spotify.com/track/7fC6Q58cCvKGuCbDgbB75h"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
+        "name": "\u00c5NGRA",
+        "url": "https://open.spotify.com/album/7gpSlaLkiMoED5EvYBNgS9"
+      },
+      "artists": [
+        {
+          "name": "INTI",
+          "url": "https://open.spotify.com/artist/2Zm7ZQflu3uuy7zyFkMP1D"
+        }
+      ],
+      "duration_ms": 122333,
+      "name": "\u00c5NGRA",
+      "url": "https://open.spotify.com/track/396pTsIds5nlqE93IZhFp7"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
         "name": "Empati",
         "url": "https://open.spotify.com/album/0xstPqvoi3ogWYS27scNX8"
       },
@@ -1439,34 +1455,18 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "The Beginning of the End",
-        "url": "https://open.spotify.com/album/1UFU82EL3Qntb2GOyb9nnW"
+        "name": "T\u00e4nd alla ljus f\u00f6r mig",
+        "url": "https://open.spotify.com/album/1OQegjhpVt81ONri9k9SUJ"
       },
       "artists": [
         {
-          "name": "4ever Falling",
-          "url": "https://open.spotify.com/artist/42lwXNRrnNkxxyj0YVsxZG"
+          "name": "CISSI",
+          "url": "https://open.spotify.com/artist/4UoHgzMFm9BAVddtfwLrlk"
         }
       ],
-      "duration_ms": 145429,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/1a5b1Tu7wtgqDZJ9l1x3Cy"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
-        "name": "\u00c5NGRA",
-        "url": "https://open.spotify.com/album/7gpSlaLkiMoED5EvYBNgS9"
-      },
-      "artists": [
-        {
-          "name": "INTI",
-          "url": "https://open.spotify.com/artist/2Zm7ZQflu3uuy7zyFkMP1D"
-        }
-      ],
-      "duration_ms": 122333,
-      "name": "\u00c5NGRA",
-      "url": "https://open.spotify.com/track/396pTsIds5nlqE93IZhFp7"
+      "duration_ms": 219362,
+      "name": "T\u00e4nd alla ljus f\u00f6r mig",
+      "url": "https://open.spotify.com/track/3heNhbAlaEYepS9PMkqX3w"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
+        "name": "The Beginning of the End",
+        "url": "https://open.spotify.com/album/1UFU82EL3Qntb2GOyb9nnW"
+      },
+      "artists": [
+        {
+          "name": "4ever Falling",
+          "url": "https://open.spotify.com/artist/42lwXNRrnNkxxyj0YVsxZG"
+        }
+      ],
+      "duration_ms": 145429,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/1a5b1Tu7wtgqDZJ9l1x3Cy"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
         "name": "Tusen & en natt",
         "url": "https://open.spotify.com/album/3rJlT9m1LM7qYXQ1DPXs50"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 160000,
       "name": "Tusen & en natt",
       "url": "https://open.spotify.com/track/5PXSHIjTloXZr7Aw6BM0zC"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
-        "name": "T\u00e4nd alla ljus f\u00f6r mig",
-        "url": "https://open.spotify.com/album/1OQegjhpVt81ONri9k9SUJ"
-      },
-      "artists": [
-        {
-          "name": "CISSI",
-          "url": "https://open.spotify.com/artist/4UoHgzMFm9BAVddtfwLrlk"
-        }
-      ],
-      "duration_ms": 219362,
-      "name": "T\u00e4nd alla ljus f\u00f6r mig",
-      "url": "https://open.spotify.com/track/3heNhbAlaEYepS9PMkqX3w"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
+        "name": "JUSSI",
+        "url": "https://open.spotify.com/album/6z5UZcjnwzfKYeXjKprt1i"
+      },
+      "artists": [
+        {
+          "name": "ALVA",
+          "url": "https://open.spotify.com/artist/5cutSKNdUWOwGrP7KsdNLU"
+        }
+      ],
+      "duration_ms": 203676,
+      "name": "JUSSI",
+      "url": "https://open.spotify.com/track/5z7Zc81YRQHchQJXXIj6RE"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
         "name": "Confession",
         "url": "https://open.spotify.com/album/1Kol1YbKzCk03Msogtesdd"
       },
@@ -1551,18 +1567,18 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "JUSSI",
-        "url": "https://open.spotify.com/album/6z5UZcjnwzfKYeXjKprt1i"
+        "name": "Don't Tell Me What To Do",
+        "url": "https://open.spotify.com/album/1sY6OJRWD3PEvApNPxDkLZ"
       },
       "artists": [
         {
-          "name": "ALVA",
-          "url": "https://open.spotify.com/artist/5cutSKNdUWOwGrP7KsdNLU"
+          "name": "Felin",
+          "url": "https://open.spotify.com/artist/0M3FnNOwLaADbsJw92lftP"
         }
       ],
-      "duration_ms": 203676,
-      "name": "JUSSI",
-      "url": "https://open.spotify.com/track/5z7Zc81YRQHchQJXXIj6RE"
+      "duration_ms": 163466,
+      "name": "Don't Tell Me What To Do",
+      "url": "https://open.spotify.com/track/66vQCZCKvbXwvGxU9H5H8q"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1599,6 +1615,26 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
+        "name": "Tillsammans",
+        "url": "https://open.spotify.com/album/4Mxr4PtZv8WDmX2yrm0rJ8"
+      },
+      "artists": [
+        {
+          "name": "Tim Damerau",
+          "url": "https://open.spotify.com/artist/17YXRoI6Gj8EXyQM1lpxNZ"
+        },
+        {
+          "name": "Linnea Andersson",
+          "url": "https://open.spotify.com/artist/3TKl5dwSBx0gQG0O4qNon4"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Tillsammans",
+      "url": "https://open.spotify.com/track/77l26wJl8mAWROEuZvMBIl"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
         "name": "Beneath Your Scars",
         "url": "https://open.spotify.com/album/0opqZfmdLnbaOgkmw6GdK1"
       },
@@ -1627,42 +1663,6 @@
       "duration_ms": 164083,
       "name": "I Live After I Died",
       "url": "https://open.spotify.com/track/3U07sD3nUajfqjZp5p629l"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
-        "name": "Tillsammans",
-        "url": "https://open.spotify.com/album/4Mxr4PtZv8WDmX2yrm0rJ8"
-      },
-      "artists": [
-        {
-          "name": "Tim Damerau",
-          "url": "https://open.spotify.com/artist/17YXRoI6Gj8EXyQM1lpxNZ"
-        },
-        {
-          "name": "Linnea Andersson",
-          "url": "https://open.spotify.com/artist/3TKl5dwSBx0gQG0O4qNon4"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Tillsammans",
-      "url": "https://open.spotify.com/track/77l26wJl8mAWROEuZvMBIl"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
-        "name": "Don't Tell Me What To Do",
-        "url": "https://open.spotify.com/album/1sY6OJRWD3PEvApNPxDkLZ"
-      },
-      "artists": [
-        {
-          "name": "Felin",
-          "url": "https://open.spotify.com/artist/0M3FnNOwLaADbsJw92lftP"
-        }
-      ],
-      "duration_ms": 163466,
-      "name": "Don't Tell Me What To Do",
-      "url": "https://open.spotify.com/track/66vQCZCKvbXwvGxU9H5H8q"
     }
   ],
   "unique_name": "Made in Sweden",

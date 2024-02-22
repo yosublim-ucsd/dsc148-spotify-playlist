@@ -1,12 +1,12 @@
 {
   "description": "Have some chill house with your coffee\n",
-  "num_followers": 121174,
+  "num_followers": 121177,
   "original_name": "Coffee Club",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NDU3MDdjOWNhODg2Mjc0NGE5MzRjNTVmMjM5NzYxYTM1N2ZiZDEy",
+  "snapshot_id": "MCxiMzU3OWI0N2IyNGEyZWVjY2I2YThiZmJhMjA5NjIyYjNmODE2ZGQ3",
   "tracks": [
     {
       "added_at": "2024-02-15 23:00:00",
@@ -119,22 +119,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Siena",
-        "url": "https://open.spotify.com/album/7CdYw2gg1xzgfrFkaAtZbL"
-      },
-      "artists": [
-        {
-          "name": "Southern Shores",
-          "url": "https://open.spotify.com/artist/5EAl4lk6xKqFxzgOUoBpF5"
-        }
-      ],
-      "duration_ms": 156478,
-      "name": "Aerie",
-      "url": "https://open.spotify.com/track/3VfnEFPZEngbEB5Qb6TeB4"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "Miss You",
         "url": "https://open.spotify.com/album/401BY5jGvGKB4xt7zomYRA"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 279960,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/2OrmvwrqfGH0C0I70w4SRZ"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Siena",
+        "url": "https://open.spotify.com/album/7CdYw2gg1xzgfrFkaAtZbL"
+      },
+      "artists": [
+        {
+          "name": "Southern Shores",
+          "url": "https://open.spotify.com/artist/5EAl4lk6xKqFxzgOUoBpF5"
+        }
+      ],
+      "duration_ms": 156478,
+      "name": "Aerie",
+      "url": "https://open.spotify.com/track/3VfnEFPZEngbEB5Qb6TeB4"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -339,22 +339,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Chill Executive Officer (CEO), Vol. 20 [Selected by Maykel Piron]",
-        "url": "https://open.spotify.com/album/5WOoYzx48dwyrW0KQquytu"
-      },
-      "artists": [
-        {
-          "name": "ARTO",
-          "url": "https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn"
-        }
-      ],
-      "duration_ms": 158181,
-      "name": "Para Mi",
-      "url": "https://open.spotify.com/track/2RBzADQT2i31c0Au59HnP8"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "Let Love Find Itself / You Blow My Mind",
         "url": "https://open.spotify.com/album/5PFbIDeJUJm78Bs0Bch5TB"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 542983,
       "name": "Let Love Find Itself",
       "url": "https://open.spotify.com/track/6NLzOMEhcY7jBTHMxZf1Pn"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Chill Executive Officer (CEO), Vol. 20 [Selected by Maykel Piron]",
+        "url": "https://open.spotify.com/album/5WOoYzx48dwyrW0KQquytu"
+      },
+      "artists": [
+        {
+          "name": "ARTO",
+          "url": "https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn"
+        }
+      ],
+      "duration_ms": 158181,
+      "name": "Para Mi",
+      "url": "https://open.spotify.com/track/2RBzADQT2i31c0Au59HnP8"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Good Life",
-        "url": "https://open.spotify.com/album/4ROrdn8vpQyKPP1PBKHcuZ"
-      },
-      "artists": [
-        {
-          "name": "mAsis",
-          "url": "https://open.spotify.com/artist/1DTI5o8qbqWDGjftQlS4dw"
-        }
-      ],
-      "duration_ms": 223682,
-      "name": "Good Life",
-      "url": "https://open.spotify.com/track/4lduh1GxES2Q3Sj8bXDWXt"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "Space Logic",
         "url": "https://open.spotify.com/album/6ZIh3hjRNV4ViM9EmZ8CGF"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 211025,
       "name": "I Need You to Hear Me",
       "url": "https://open.spotify.com/track/329rKlFCy5U6H9U7AtSAvP"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Good Life",
+        "url": "https://open.spotify.com/album/4ROrdn8vpQyKPP1PBKHcuZ"
+      },
+      "artists": [
+        {
+          "name": "mAsis",
+          "url": "https://open.spotify.com/artist/1DTI5o8qbqWDGjftQlS4dw"
+        }
+      ],
+      "duration_ms": 223682,
+      "name": "Good Life",
+      "url": "https://open.spotify.com/track/4lduh1GxES2Q3Sj8bXDWXt"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Overdrive",
-        "url": "https://open.spotify.com/album/5swcUAvJoBBxKmwH60xs18"
-      },
-      "artists": [
-        {
-          "name": "Silo",
-          "url": "https://open.spotify.com/artist/2TFaSCsqBNMcZ1daHE0pNA"
-        }
-      ],
-      "duration_ms": 270027,
-      "name": "Overdrive",
-      "url": "https://open.spotify.com/track/5PhuSPukGj9G50AWPdpa93"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "Echo Of Youth Remodel",
         "url": "https://open.spotify.com/album/736ZHBrEbC3XvvacaoA1t6"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 298440,
       "name": "Youth - Satin Jackets Remix",
       "url": "https://open.spotify.com/track/3Vm1sSi0FyIpQ7fYHHMW8Q"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Overdrive",
+        "url": "https://open.spotify.com/album/5swcUAvJoBBxKmwH60xs18"
+      },
+      "artists": [
+        {
+          "name": "Silo",
+          "url": "https://open.spotify.com/artist/2TFaSCsqBNMcZ1daHE0pNA"
+        }
+      ],
+      "duration_ms": 270027,
+      "name": "Overdrive",
+      "url": "https://open.spotify.com/track/5PhuSPukGj9G50AWPdpa93"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Parrot Fever",
-        "url": "https://open.spotify.com/album/4bupRjY5TnuoO5MbSxBIKD"
-      },
-      "artists": [
-        {
-          "name": "Kazam",
-          "url": "https://open.spotify.com/artist/5DjLsaAyJZ1jFz1azbJ0ha"
-        }
-      ],
-      "duration_ms": 268474,
-      "name": "Parrot Fever",
-      "url": "https://open.spotify.com/track/1oFLxZDxOVThs5gjWIFlrN"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "Someday",
         "url": "https://open.spotify.com/album/6dR05ScZ3MY5FUaURLYLt1"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 264000,
       "name": "Someday",
       "url": "https://open.spotify.com/track/1wiX35MJoiLaMrFx2Peg5O"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Parrot Fever",
+        "url": "https://open.spotify.com/album/4bupRjY5TnuoO5MbSxBIKD"
+      },
+      "artists": [
+        {
+          "name": "Kazam",
+          "url": "https://open.spotify.com/artist/5DjLsaAyJZ1jFz1azbJ0ha"
+        }
+      ],
+      "duration_ms": 268474,
+      "name": "Parrot Fever",
+      "url": "https://open.spotify.com/track/1oFLxZDxOVThs5gjWIFlrN"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/2WqkuyYDmZuiRDe9Y9MgfL"
-      },
-      "artists": [
-        {
-          "name": "Road Kahan",
-          "url": "https://open.spotify.com/artist/3YR1VNcG6ld2CHMSkia9Xs"
-        }
-      ],
-      "duration_ms": 182407,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/0s2ca6bYZBcJYIkD69p50I"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "Late Night Obsession",
         "url": "https://open.spotify.com/album/30Wa2MaR7XuSsd4g79tNE4"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 166798,
       "name": "Slow Goods",
       "url": "https://open.spotify.com/track/66D24YMI6FMRRGHO8QoBhO"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/2WqkuyYDmZuiRDe9Y9MgfL"
+      },
+      "artists": [
+        {
+          "name": "Road Kahan",
+          "url": "https://open.spotify.com/artist/3YR1VNcG6ld2CHMSkia9Xs"
+        }
+      ],
+      "duration_ms": 182407,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/0s2ca6bYZBcJYIkD69p50I"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1251,22 +1251,18 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Falling Upwards",
-        "url": "https://open.spotify.com/album/1loUSig71TgbVjRSVRUzzj"
+        "name": "Mr. Magic",
+        "url": "https://open.spotify.com/album/3ThYrWOxW8L6qdwwMBZBtk"
       },
       "artists": [
         {
-          "name": "Koelle",
-          "url": "https://open.spotify.com/artist/6kkdxR4fLeX1bz8Ujruh3a"
-        },
-        {
-          "name": "Margret",
-          "url": "https://open.spotify.com/artist/6tFdm9EEawUx8EUkpWQH4l"
+          "name": "Baka G",
+          "url": "https://open.spotify.com/artist/7CfH9Pe1z2V3OuUCIH9ru4"
         }
       ],
-      "duration_ms": 343384,
-      "name": "Falling Upwards",
-      "url": "https://open.spotify.com/track/1sFWXmh4IJcDspidGG4d5f"
+      "duration_ms": 345534,
+      "name": "Mr. Magic",
+      "url": "https://open.spotify.com/track/0dSoodH9dHclkP2kMec21H"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1287,18 +1283,22 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Mr. Magic",
-        "url": "https://open.spotify.com/album/3ThYrWOxW8L6qdwwMBZBtk"
+        "name": "Falling Upwards",
+        "url": "https://open.spotify.com/album/1loUSig71TgbVjRSVRUzzj"
       },
       "artists": [
         {
-          "name": "Baka G",
-          "url": "https://open.spotify.com/artist/7CfH9Pe1z2V3OuUCIH9ru4"
+          "name": "Koelle",
+          "url": "https://open.spotify.com/artist/6kkdxR4fLeX1bz8Ujruh3a"
+        },
+        {
+          "name": "Margret",
+          "url": "https://open.spotify.com/artist/6tFdm9EEawUx8EUkpWQH4l"
         }
       ],
-      "duration_ms": 345534,
-      "name": "Mr. Magic",
-      "url": "https://open.spotify.com/track/0dSoodH9dHclkP2kMec21H"
+      "duration_ms": 343384,
+      "name": "Falling Upwards",
+      "url": "https://open.spotify.com/track/1sFWXmh4IJcDspidGG4d5f"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1315,6 +1315,22 @@
       "duration_ms": 233316,
       "name": "Killer Machine",
       "url": "https://open.spotify.com/track/2cCfDNAd7lYPSe3euIwt2w"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Deneb Cygni",
+        "url": "https://open.spotify.com/album/4E8xASCYvVo4vBkuESnpOP"
+      },
+      "artists": [
+        {
+          "name": "Takuya Yamashita",
+          "url": "https://open.spotify.com/artist/4zpl6dfVHVNbqAIk6huc2v"
+        }
+      ],
+      "duration_ms": 453559,
+      "name": "Deneb Cygni - Original Mix",
+      "url": "https://open.spotify.com/track/7w3TeiGbzbfvPE192wpKdX"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1379,38 +1395,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Deneb Cygni",
-        "url": "https://open.spotify.com/album/4E8xASCYvVo4vBkuESnpOP"
-      },
-      "artists": [
-        {
-          "name": "Takuya Yamashita",
-          "url": "https://open.spotify.com/artist/4zpl6dfVHVNbqAIk6huc2v"
-        }
-      ],
-      "duration_ms": 453559,
-      "name": "Deneb Cygni - Original Mix",
-      "url": "https://open.spotify.com/track/7w3TeiGbzbfvPE192wpKdX"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
-        "name": "Chill Executive Officer (CEO), Vol. 7 [Selected by Maykel Piron]",
-        "url": "https://open.spotify.com/album/4wvrrh7LugJVuufRSpE4pt"
-      },
-      "artists": [
-        {
-          "name": "B\u00f8lling",
-          "url": "https://open.spotify.com/artist/3lTVwL069q4XSE9pcacCXS"
-        }
-      ],
-      "duration_ms": 199346,
-      "name": "Nothing Happened",
-      "url": "https://open.spotify.com/track/7aMBDyba2YVpoKWHXBijrG"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "Do This",
         "url": "https://open.spotify.com/album/4z82w201UQTrLSxaEHKrgl"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 231593,
       "name": "Do This",
       "url": "https://open.spotify.com/track/5zrISuhxhXCp4Tnm6gjWZl"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Chill Executive Officer (CEO), Vol. 7 [Selected by Maykel Piron]",
+        "url": "https://open.spotify.com/album/4wvrrh7LugJVuufRSpE4pt"
+      },
+      "artists": [
+        {
+          "name": "B\u00f8lling",
+          "url": "https://open.spotify.com/artist/3lTVwL069q4XSE9pcacCXS"
+        }
+      ],
+      "duration_ms": 199346,
+      "name": "Nothing Happened",
+      "url": "https://open.spotify.com/track/7aMBDyba2YVpoKWHXBijrG"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Voyage Direct (2020 Remaster)",
-        "url": "https://open.spotify.com/album/6oiM1TCgVPIIr6UHym5eN7"
-      },
-      "artists": [
-        {
-          "name": "Tom Trago",
-          "url": "https://open.spotify.com/artist/2vUpX2Zq1DBdCHuoEnmzkK"
-        }
-      ],
-      "duration_ms": 277899,
-      "name": "Lost in the Streets of NYC - 2020 Remaster",
-      "url": "https://open.spotify.com/track/7sCHLirrIq2Ap5UfL8gbZ9"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "Natural Movement",
         "url": "https://open.spotify.com/album/0941GANXhb8APHznuCcs2A"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 317288,
       "name": "Back 2 It",
       "url": "https://open.spotify.com/track/40Gj3bu6XqTM6dm6qrVMgy"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Voyage Direct (2020 Remaster)",
+        "url": "https://open.spotify.com/album/6oiM1TCgVPIIr6UHym5eN7"
+      },
+      "artists": [
+        {
+          "name": "Tom Trago",
+          "url": "https://open.spotify.com/artist/2vUpX2Zq1DBdCHuoEnmzkK"
+        }
+      ],
+      "duration_ms": 277899,
+      "name": "Lost in the Streets of NYC - 2020 Remaster",
+      "url": "https://open.spotify.com/track/7sCHLirrIq2Ap5UfL8gbZ9"
     },
     {
       "added_at": "2024-02-15 23:00:00",

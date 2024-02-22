@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAI2XQZF5zW.md) - [plain]
 | 34 | [Missing You](https://open.spotify.com/track/5BkEtAa7LHwm5qs2vLegX3) | [Sanchez](https://open.spotify.com/artist/6550dJCDSrZ8Cv6IDAjHpf) | [Missing You](https://open.spotify.com/album/3688VgiRVASa05x5FHEmc9) | 3:22 |
 | 35 | [You Are My Angel](https://open.spotify.com/track/6Gy2y9F3duNtDPZu4vFMfI) | [Horace Andy](https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC) | [The Best of Horace Andy](https://open.spotify.com/album/1BM0bccI4dyYdjhsrndxiv) | 2:52 |
 | 36 | [Nuh Compatible](https://open.spotify.com/track/0OkZO8SN69SlpgBw5KPtn9) | [Bugle](https://open.spotify.com/artist/4J51t1ZO7ed5qgsXmz9VXM), [Anju Blaxx](https://open.spotify.com/artist/2JFZKD5b40RXXmpYJkLOvl) | [Nuh Compatible](https://open.spotify.com/album/6DD6G0WIFFKfpeJIvmK2aZ) | 3:20 |
-| 37 | [Love And Affection](https://open.spotify.com/track/4o6ZuLYr04LqFQNiSGVK4u) | [Pressure Busspipre](https://open.spotify.com/artist/3ptWB2WLHDeI7QQQDDGGfw) | [Reggae Gold 2007](https://open.spotify.com/album/4SPmILNzFDI8pwcj6VSr9X) | 4:18 |
+| 37 | [Love And Affection](https://open.spotify.com/track/4o6ZuLYr04LqFQNiSGVK4u) | [Pressure Busspipe](https://open.spotify.com/artist/61meTZVdfRrHMotU1AJipD) | [Reggae Gold 2007](https://open.spotify.com/album/4SPmILNzFDI8pwcj6VSr9X) | 4:18 |
 | 38 | [Kingston Town](https://open.spotify.com/track/2OHQhOiGIYaXqqJVIMpNrF) | [Alborosie](https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG) | [Soul Pirate](https://open.spotify.com/album/3hhWPRjFBsNYm3v3nbOqQC) | 3:12 |
 | 39 | [Superstar](https://open.spotify.com/track/11SeVWsf1VtRsrZJNfrOuv) | [Hollie Cook](https://open.spotify.com/artist/1fwuUuFbqXJx3B17PUhFCE) | [Superstar b/w Superdub](https://open.spotify.com/album/3NX2wOljjGOxUbcz7aIGMh) | 4:05 |
 | 40 | [Mellow Mood](https://open.spotify.com/track/6r9KZ2g5dXZXXLF6vOHnet) | [Bunny Wailer](https://open.spotify.com/artist/389zc5Rwe0MPcE6mSF4AjC) | [Bunny Wailer Sings The Wailers](https://open.spotify.com/album/3D6W8G8ZtbZoeQeyBUUAhu) | 3:51 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAI2XQZF5zW.md) - [plain]
 | 51 | [Red Sea Dub](https://open.spotify.com/track/1UowzBmHmTgvWW1kViLDLJ) | [Dub Syndicate](https://open.spotify.com/artist/4KIjA6Q0lA17xuBwA5KkW4) | [Displaced Masters](https://open.spotify.com/album/0WTyiC4nrGXraWRJIj4HLq) | 4:41 |
 | 52 | [It Mek](https://open.spotify.com/track/2KLQHmIj0ncGRdnLbbqi9B) | [Desmond Dekker & The Aces](https://open.spotify.com/artist/4fmVPsGxjwP5ruiTEvIcOt) | [Intensified](https://open.spotify.com/album/0TmbH6BZWBBmDGHNErPLxa) | 2:32 |
 
-Snapshot ID: `MCwwZWZiNTAzOTRhMjJlNzQ5OWRmMzI1NDMyZjFlYzhmNmM3YjI1OTQ4`
+Snapshot ID: `MCwzZDQzZmJjYTc3MjNjNzQ2MzQ3YzE3MDBiOGZjZGE3MjIxYjM5NjE4`

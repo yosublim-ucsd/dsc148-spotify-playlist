@@ -20255,6 +20255,24 @@
     },
     {
       "album": {
+        "name": "FACTS",
+        "url": "https://open.spotify.com/album/3bETgmv7jeiL9ztdKumkUf"
+      },
+      "artists": [
+        {
+          "name": "Vegas Jones",
+          "url": "https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123222,
+      "name": "FACTS",
+      "url": "https://open.spotify.com/track/4ZqFq28LRJTj8Z82EoLibg"
+    },
+    {
+      "album": {
         "name": "Fahrenheit",
         "url": "https://open.spotify.com/album/3iPxEJnlQ2BsvawA5gY4Jn"
       },
@@ -25874,14 +25892,6 @@
         {
           "name": "Flaco G",
           "url": "https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9"
-        },
-        {
-          "name": "Smookid",
-          "url": "https://open.spotify.com/artist/2mLQ8JfGyC8pFZTNIhejPR"
-        },
-        {
-          "name": "4TheNight",
-          "url": "https://open.spotify.com/artist/523cP8Y8ivlsc3sLEgdNTH"
         }
       ],
       "date_added": "2024-02-15",

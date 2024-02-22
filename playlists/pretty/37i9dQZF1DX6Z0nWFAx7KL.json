@@ -1,12 +1,12 @@
 {
   "description": "You can dance or chill.",
-  "num_followers": 47791,
+  "num_followers": 47803,
   "original_name": "Dance Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZGIwNTZjNDQzNWU1YzI5NTcxMzNjMDRlMzljMjNkYTI5Y2QxOGVm",
+  "snapshot_id": "MCxkNGQwM2Q4MjIzMDEzOGNjZGJhNzE1YjhjNWYxZDMwN2Y2MzRhZTY2",
   "tracks": [
     {
       "added_at": "2024-02-07 14:43:04",
@@ -371,30 +371,6 @@
     {
       "added_at": "2024-02-07 14:43:04",
       "album": {
-        "name": "Found It With You",
-        "url": "https://open.spotify.com/album/6jqi6Ii1B5N7rODfX2RtlJ"
-      },
-      "artists": [
-        {
-          "name": "Piece Wise",
-          "url": "https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk"
-        },
-        {
-          "name": "Ali Bakgor",
-          "url": "https://open.spotify.com/artist/4Zdbr0JJj9SXMDJfus1mNs"
-        },
-        {
-          "name": "Lewyn",
-          "url": "https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR"
-        }
-      ],
-      "duration_ms": 163410,
-      "name": "Found It With You",
-      "url": "https://open.spotify.com/track/1ShSONF1T74kfTEakluK40"
-    },
-    {
-      "added_at": "2024-02-07 14:43:04",
-      "album": {
         "name": "Someday (Latroit Edition)",
         "url": "https://open.spotify.com/album/0imxdkIlwChhIIrJALipXW"
       },
@@ -415,6 +391,30 @@
       "duration_ms": 201656,
       "name": "Someday (Latroit Edition)",
       "url": "https://open.spotify.com/track/6oF66hFngUSqA9lHimenPp"
+    },
+    {
+      "added_at": "2024-02-07 14:43:04",
+      "album": {
+        "name": "Found It With You",
+        "url": "https://open.spotify.com/album/6jqi6Ii1B5N7rODfX2RtlJ"
+      },
+      "artists": [
+        {
+          "name": "Piece Wise",
+          "url": "https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk"
+        },
+        {
+          "name": "Ali Bakgor",
+          "url": "https://open.spotify.com/artist/4Zdbr0JJj9SXMDJfus1mNs"
+        },
+        {
+          "name": "Lewyn",
+          "url": "https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR"
+        }
+      ],
+      "duration_ms": 163410,
+      "name": "Found It With You",
+      "url": "https://open.spotify.com/track/1ShSONF1T74kfTEakluK40"
     },
     {
       "added_at": "2024-02-07 14:43:04",
@@ -487,6 +487,22 @@
     {
       "added_at": "2024-02-07 14:43:04",
       "album": {
+        "name": "The Beach",
+        "url": "https://open.spotify.com/album/7otVBQMTtdwJrPMUb5PokD"
+      },
+      "artists": [
+        {
+          "name": "Mathieu Koss",
+          "url": "https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu"
+        }
+      ],
+      "duration_ms": 217377,
+      "name": "The Beach",
+      "url": "https://open.spotify.com/track/3bQB674GPa0g7tG1AiCFMU"
+    },
+    {
+      "added_at": "2024-02-07 14:43:04",
+      "album": {
         "name": "Forever, Now",
         "url": "https://open.spotify.com/album/5hYLl3dR0mtRpFgOoUl6zE"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 274795,
       "name": "Elenore",
       "url": "https://open.spotify.com/track/5duIvffaGWg0bJAT9czEuZ"
-    },
-    {
-      "added_at": "2024-02-07 14:43:04",
-      "album": {
-        "name": "The Beach",
-        "url": "https://open.spotify.com/album/7otVBQMTtdwJrPMUb5PokD"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Koss",
-          "url": "https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu"
-        }
-      ],
-      "duration_ms": 217377,
-      "name": "The Beach",
-      "url": "https://open.spotify.com/track/3bQB674GPa0g7tG1AiCFMU"
     },
     {
       "added_at": "2024-02-07 14:43:04",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-02-07 14:43:04",
       "album": {
-        "name": "Here",
-        "url": "https://open.spotify.com/album/09wfArPc6oilmo1SDtoWaj"
-      },
-      "artists": [
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 192133,
-      "name": "Here",
-      "url": "https://open.spotify.com/track/6HAVjFro6OKMcY2xHOP0l7"
-    },
-    {
-      "added_at": "2024-02-07 14:43:04",
-      "album": {
         "name": "Summer Jams",
         "url": "https://open.spotify.com/album/3joHydRaKKBO8Z6HRq3asQ"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 137149,
       "name": "Summer Jams",
       "url": "https://open.spotify.com/track/3W3v72EKmAfAiuJm9BDi9b"
+    },
+    {
+      "added_at": "2024-02-07 14:43:04",
+      "album": {
+        "name": "Here",
+        "url": "https://open.spotify.com/album/09wfArPc6oilmo1SDtoWaj"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 192133,
+      "name": "Here",
+      "url": "https://open.spotify.com/track/6HAVjFro6OKMcY2xHOP0l7"
     },
     {
       "added_at": "2024-02-07 14:43:04",
@@ -759,26 +759,6 @@
     {
       "added_at": "2024-02-07 14:43:04",
       "album": {
-        "name": "Lost & Found",
-        "url": "https://open.spotify.com/album/30YcBQt0C4lqcAOFXpBYJG"
-      },
-      "artists": [
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        },
-        {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
-        }
-      ],
-      "duration_ms": 239021,
-      "name": "Lost & Found",
-      "url": "https://open.spotify.com/track/4e5WwKKeIjWiwYEd39exKW"
-    },
-    {
-      "added_at": "2024-02-07 14:43:04",
-      "album": {
         "name": "Rest of My Life",
         "url": "https://open.spotify.com/album/3Gq46ztXW7cqnXOmTydi1R"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 139010,
       "name": "Rest of My Life",
       "url": "https://open.spotify.com/track/4Pfix7JSAeXEnROuAEXsDW"
+    },
+    {
+      "added_at": "2024-02-07 14:43:04",
+      "album": {
+        "name": "Lost & Found",
+        "url": "https://open.spotify.com/album/30YcBQt0C4lqcAOFXpBYJG"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        }
+      ],
+      "duration_ms": 239021,
+      "name": "Lost & Found",
+      "url": "https://open.spotify.com/track/4e5WwKKeIjWiwYEd39exKW"
     },
     {
       "added_at": "2024-02-07 14:43:04",
@@ -911,30 +911,6 @@
     {
       "added_at": "2024-02-07 14:43:04",
       "album": {
-        "name": "Hold on Tight",
-        "url": "https://open.spotify.com/album/6UtbCHjl70Y4lfeBzpHCOS"
-      },
-      "artists": [
-        {
-          "name": "Piece Wise",
-          "url": "https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk"
-        },
-        {
-          "name": "ASTIR",
-          "url": "https://open.spotify.com/artist/321JqFPEsiuwFpSmKwWi2h"
-        },
-        {
-          "name": "ALSO ASTIR",
-          "url": "https://open.spotify.com/artist/6OOxVfD4C5LQ4Il5NmLcWv"
-        }
-      ],
-      "duration_ms": 206384,
-      "name": "Hold on Tight",
-      "url": "https://open.spotify.com/track/3hAzn2u1OZEZ2zpu9jW5vO"
-    },
-    {
-      "added_at": "2024-02-07 14:43:04",
-      "album": {
         "name": "High Hopes",
         "url": "https://open.spotify.com/album/61cRWSjiQqbIR2IyhPv8Bm"
       },
@@ -955,6 +931,30 @@
       "duration_ms": 127021,
       "name": "High Hopes",
       "url": "https://open.spotify.com/track/2WrlysXGhULyfprVfW20UT"
+    },
+    {
+      "added_at": "2024-02-07 14:43:04",
+      "album": {
+        "name": "Hold on Tight",
+        "url": "https://open.spotify.com/album/6UtbCHjl70Y4lfeBzpHCOS"
+      },
+      "artists": [
+        {
+          "name": "Piece Wise",
+          "url": "https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk"
+        },
+        {
+          "name": "ASTIR",
+          "url": "https://open.spotify.com/artist/321JqFPEsiuwFpSmKwWi2h"
+        },
+        {
+          "name": "ALSO ASTIR",
+          "url": "https://open.spotify.com/artist/6OOxVfD4C5LQ4Il5NmLcWv"
+        }
+      ],
+      "duration_ms": 206384,
+      "name": "Hold on Tight",
+      "url": "https://open.spotify.com/track/3hAzn2u1OZEZ2zpu9jW5vO"
     },
     {
       "added_at": "2024-02-07 14:43:04",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2024-02-07 14:43:04",
       "album": {
+        "name": "Carefree",
+        "url": "https://open.spotify.com/album/5tkMleJ6r7RNXpDrzgE7vT"
+      },
+      "artists": [
+        {
+          "name": "Cogitation",
+          "url": "https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq"
+        }
+      ],
+      "duration_ms": 171944,
+      "name": "Carefree",
+      "url": "https://open.spotify.com/track/079DiktOmAQiwoYwFYspSH"
+    },
+    {
+      "added_at": "2024-02-07 14:43:04",
+      "album": {
         "name": "Better Now",
         "url": "https://open.spotify.com/album/223dHoItv1AL15XYaLYzjY"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 171904,
       "name": "Alone",
       "url": "https://open.spotify.com/track/67BdlNZItL3SYjn0prj2Co"
-    },
-    {
-      "added_at": "2024-02-07 14:43:04",
-      "album": {
-        "name": "Carefree",
-        "url": "https://open.spotify.com/album/5tkMleJ6r7RNXpDrzgE7vT"
-      },
-      "artists": [
-        {
-          "name": "Cogitation",
-          "url": "https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq"
-        }
-      ],
-      "duration_ms": 171944,
-      "name": "Carefree",
-      "url": "https://open.spotify.com/track/079DiktOmAQiwoYwFYspSH"
     },
     {
       "added_at": "2024-02-07 14:43:04",
@@ -1159,30 +1159,6 @@
     {
       "added_at": "2024-02-07 14:43:04",
       "album": {
-        "name": "Waiting in The Dark",
-        "url": "https://open.spotify.com/album/7q4bmI0F7WYKWmmPYZ8bhJ"
-      },
-      "artists": [
-        {
-          "name": "Deepend",
-          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
-        },
-        {
-          "name": "BANDANA",
-          "url": "https://open.spotify.com/artist/1hoN1yLmFgWqQNPdGitU2m"
-        },
-        {
-          "name": "LAST CALL",
-          "url": "https://open.spotify.com/artist/2LoibTtixf5tjTYORAxbtN"
-        }
-      ],
-      "duration_ms": 119097,
-      "name": "Waiting in The Dark",
-      "url": "https://open.spotify.com/track/2XAJIpL4Mw4gXEPEjd0eDx"
-    },
-    {
-      "added_at": "2024-02-07 14:43:04",
-      "album": {
         "name": "Heartbreak In Seychelles",
         "url": "https://open.spotify.com/album/4ZP30YFMMl9TSstermvNmL"
       },
@@ -1251,6 +1227,30 @@
       "duration_ms": 241061,
       "name": "See You On The Other Side",
       "url": "https://open.spotify.com/track/1G4bK9Z8JtkXah973WlAGS"
+    },
+    {
+      "added_at": "2024-02-07 14:43:04",
+      "album": {
+        "name": "Waiting in The Dark",
+        "url": "https://open.spotify.com/album/7q4bmI0F7WYKWmmPYZ8bhJ"
+      },
+      "artists": [
+        {
+          "name": "Deepend",
+          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
+        },
+        {
+          "name": "BANDANA",
+          "url": "https://open.spotify.com/artist/1hoN1yLmFgWqQNPdGitU2m"
+        },
+        {
+          "name": "LAST CALL",
+          "url": "https://open.spotify.com/artist/2LoibTtixf5tjTYORAxbtN"
+        }
+      ],
+      "duration_ms": 119097,
+      "name": "Waiting in The Dark",
+      "url": "https://open.spotify.com/track/2XAJIpL4Mw4gXEPEjd0eDx"
     },
     {
       "added_at": "2024-02-07 14:43:04",
@@ -1339,26 +1339,6 @@
     {
       "added_at": "2024-02-07 14:43:04",
       "album": {
-        "name": "MAGNETS",
-        "url": "https://open.spotify.com/album/57aR8JKeYr0zS1foTbAexP"
-      },
-      "artists": [
-        {
-          "name": "JLV",
-          "url": "https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L"
-        },
-        {
-          "name": "Oscar Duke",
-          "url": "https://open.spotify.com/artist/5umWPuWy08G1yEugAzTxvh"
-        }
-      ],
-      "duration_ms": 146129,
-      "name": "MAGNETS",
-      "url": "https://open.spotify.com/track/1DARVvN0RpBRhZpVal39VL"
-    },
-    {
-      "added_at": "2024-02-07 14:43:04",
-      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/6GM324cKBxHB2Hb44u5G8y"
       },
@@ -1379,6 +1359,26 @@
     {
       "added_at": "2024-02-07 14:43:04",
       "album": {
+        "name": "MAGNETS",
+        "url": "https://open.spotify.com/album/57aR8JKeYr0zS1foTbAexP"
+      },
+      "artists": [
+        {
+          "name": "JLV",
+          "url": "https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L"
+        },
+        {
+          "name": "Oscar Duke",
+          "url": "https://open.spotify.com/artist/5umWPuWy08G1yEugAzTxvh"
+        }
+      ],
+      "duration_ms": 146129,
+      "name": "MAGNETS",
+      "url": "https://open.spotify.com/track/1DARVvN0RpBRhZpVal39VL"
+    },
+    {
+      "added_at": "2024-02-07 14:43:04",
+      "album": {
         "name": "Eagle",
         "url": "https://open.spotify.com/album/4Crz6njLs2cLjs3OTdpzKs"
       },
@@ -1391,22 +1391,6 @@
       "duration_ms": 184994,
       "name": "Eagle",
       "url": "https://open.spotify.com/track/5Hvj61IXD0Y4MBGossQ2Zk"
-    },
-    {
-      "added_at": "2024-02-07 14:43:04",
-      "album": {
-        "name": "Like Home",
-        "url": "https://open.spotify.com/album/0NV4fZKQw1B6nGVLR131E4"
-      },
-      "artists": [
-        {
-          "name": "Robby East",
-          "url": "https://open.spotify.com/artist/4PVHdWG0LtOCDDXo3Vh2yW"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Like Home",
-      "url": "https://open.spotify.com/track/03FBFDhutbAtbAQN4qlp2A"
     },
     {
       "added_at": "2024-02-07 14:43:04",
@@ -1427,6 +1411,22 @@
       "duration_ms": 174193,
       "name": "My Darling",
       "url": "https://open.spotify.com/track/4dCa3tf7dhIuFw8JokedvG"
+    },
+    {
+      "added_at": "2024-02-07 14:43:04",
+      "album": {
+        "name": "Like Home",
+        "url": "https://open.spotify.com/album/0NV4fZKQw1B6nGVLR131E4"
+      },
+      "artists": [
+        {
+          "name": "Robby East",
+          "url": "https://open.spotify.com/artist/4PVHdWG0LtOCDDXo3Vh2yW"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Like Home",
+      "url": "https://open.spotify.com/track/03FBFDhutbAtbAQN4qlp2A"
     },
     {
       "added_at": "2024-02-07 14:43:04",
@@ -1483,26 +1483,6 @@
     {
       "added_at": "2024-02-07 14:43:04",
       "album": {
-        "name": "Don't Hide",
-        "url": "https://open.spotify.com/album/2uY0MsQmoCLdCNcD7D9vkr"
-      },
-      "artists": [
-        {
-          "name": "SIQUE",
-          "url": "https://open.spotify.com/artist/5kI4yBIQJPlI00krjJ98NB"
-        },
-        {
-          "name": "Safe Wave",
-          "url": "https://open.spotify.com/artist/05odA2enUG7IgOm5SI9Oh6"
-        }
-      ],
-      "duration_ms": 135272,
-      "name": "Don't Hide",
-      "url": "https://open.spotify.com/track/51tISgVeWkKE3BhgGKQJ8w"
-    },
-    {
-      "added_at": "2024-02-07 14:43:04",
-      "album": {
         "name": "A Radiant Sign",
         "url": "https://open.spotify.com/album/5QpbkUhMenmgathlclAcBl"
       },
@@ -1539,6 +1519,26 @@
       "duration_ms": 189421,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/0Zy6JoXzMdjEkLI48x3Fuy"
+    },
+    {
+      "added_at": "2024-02-07 14:43:04",
+      "album": {
+        "name": "Don't Hide",
+        "url": "https://open.spotify.com/album/2uY0MsQmoCLdCNcD7D9vkr"
+      },
+      "artists": [
+        {
+          "name": "SIQUE",
+          "url": "https://open.spotify.com/artist/5kI4yBIQJPlI00krjJ98NB"
+        },
+        {
+          "name": "Safe Wave",
+          "url": "https://open.spotify.com/artist/05odA2enUG7IgOm5SI9Oh6"
+        }
+      ],
+      "duration_ms": 135272,
+      "name": "Don't Hide",
+      "url": "https://open.spotify.com/track/51tISgVeWkKE3BhgGKQJ8w"
     },
     {
       "added_at": "2024-02-07 14:43:04",

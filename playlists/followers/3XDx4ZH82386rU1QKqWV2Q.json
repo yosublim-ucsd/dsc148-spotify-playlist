@@ -1,5 +1,5 @@
 {
-  "2024-02-21": 1069074,
+  "2024-02-22": 1069305,
   "date_first_scraped": "2023-06-15",
   "description": "Brazilian Phonk FOCUS ON YOU!  This account is not associated with any social media accounts!",
   "name": "SIGMA MALE TIKTOK MUSIC",
@@ -1308,6 +1308,32 @@
     },
     {
       "album": {
+        "name": "Cad\u00eancia Funk",
+        "url": "https://open.spotify.com/album/4qhmeisrSfwI3c8gBRxMqv"
+      },
+      "artists": [
+        {
+          "name": "Xanctum",
+          "url": "https://open.spotify.com/artist/18fENKDD5BDuHtXLu41hd0"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        },
+        {
+          "name": "ZERO PAIN",
+          "url": "https://open.spotify.com/artist/4bKlA6SN28EGxDz4EyqMjm"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68076,
+      "name": "Cad\u00eancia Funk",
+      "url": "https://open.spotify.com/track/4d5vfu8ujm9IV12PIm9q9P"
+    },
+    {
+      "album": {
         "name": "Caliente Da Phonk",
         "url": "https://open.spotify.com/album/1b4gpnKPTvbLf6N46FlrJZ"
       },
@@ -1649,7 +1675,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 185624,
       "name": "Colder Than Snow",
       "url": "https://open.spotify.com/track/2RbsVSwM49sQgenzCudWVB"
@@ -1883,7 +1909,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 250000,
       "name": "Dark",
       "url": "https://open.spotify.com/track/5hPM6SHYZEXIEsf5pwqtFC"
@@ -2075,7 +2101,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 116355,
       "name": "Demon Phonk",
       "url": "https://open.spotify.com/track/2yyZkKJWvrHOgWFg0KlsqG"
@@ -2569,7 +2595,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 133290,
       "name": "Etat du flux",
       "url": "https://open.spotify.com/track/2Msu7nxnBYOShtI8GRq5Kr"
@@ -2681,7 +2707,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 105645,
       "name": "exotic_lyfestyle_prod.lukeruntz_",
       "url": "https://open.spotify.com/track/5bAygY9jOCxRB3hr3EsDJO"
@@ -3197,7 +3223,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 199453,
       "name": "Fun (feat. Young Dolph)",
       "url": "https://open.spotify.com/track/5hviMkWWn2GUqnGgA3uRLs"
@@ -3349,6 +3375,28 @@
       "duration_ms": 129244,
       "name": "GAME OVER",
       "url": "https://open.spotify.com/track/48GIOUqGyv1Owohu1FByUt"
+    },
+    {
+      "album": {
+        "name": "GAME OVER!",
+        "url": "https://open.spotify.com/album/6oHKubk3bbM7hMw8Mz7mh8"
+      },
+      "artists": [
+        {
+          "name": "Fyex",
+          "url": "https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM"
+        },
+        {
+          "name": "Loomie",
+          "url": "https://open.spotify.com/artist/1uzxcB9NrpRrT7e3PeDpLL"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87345,
+      "name": "GAME OVER!",
+      "url": "https://open.spotify.com/track/08oK8mNaKvK3dbeTO3hOlp"
     },
     {
       "album": {
@@ -4249,7 +4297,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 180000,
       "name": "i hope all of your dreams come true",
       "url": "https://open.spotify.com/track/1IRdgPM8JAIb4iVBN0qO1f"
@@ -6228,6 +6276,24 @@
     },
     {
       "album": {
+        "name": "No Way Out",
+        "url": "https://open.spotify.com/album/3O1LjJuBgy3egeXkfs4qXh"
+      },
+      "artists": [
+        {
+          "name": "Wouter Vonk",
+          "url": "https://open.spotify.com/artist/5ViHT9yGNhtIjjK9gt9ocS"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281609,
+      "name": "No Way Out",
+      "url": "https://open.spotify.com/track/4t1jlo1vraZ4b1HPbAd2vW"
+    },
+    {
+      "album": {
         "name": "noctis",
         "url": "https://open.spotify.com/album/5jJHr3j416RZlsGL0jBZKJ"
       },
@@ -6825,7 +6891,7 @@
       ],
       "date_added": "2024-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 119620,
       "name": "Piztol",
       "url": "https://open.spotify.com/track/6S94JvWt1KwQlOIJxTmmey"
@@ -7501,7 +7567,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 108342,
       "name": "RUN TO YOU",
       "url": "https://open.spotify.com/track/1xdEvBldj4JrAxkXPIYkOX"
@@ -8393,6 +8459,24 @@
       "duration_ms": 99005,
       "name": "Spiderman Theme Phonk",
       "url": "https://open.spotify.com/track/0DSdoGArpea9TzBcLhQZFR"
+    },
+    {
+      "album": {
+        "name": "Spirit",
+        "url": "https://open.spotify.com/album/4OqfIA6Z895EITKsm2BCdo"
+      },
+      "artists": [
+        {
+          "name": "svlient",
+          "url": "https://open.spotify.com/artist/4RnM2qExKVcy2IMQBa3a52"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141821,
+      "name": "Spirit",
+      "url": "https://open.spotify.com/track/7cHLNVPQuIEAnSm6oixdnv"
     },
     {
       "album": {
@@ -9929,7 +10013,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 162843,
       "name": "You Ain't Gonna Make It",
       "url": "https://open.spotify.com/track/5gAPz35No3YNwar5YUSdTq"

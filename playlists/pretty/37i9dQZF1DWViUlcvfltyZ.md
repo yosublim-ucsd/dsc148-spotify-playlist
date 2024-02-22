@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > La playlist che è come andare ai concerti! Novità rock, indie e punk dall'Italia\. Cover: COMRAD, WISM
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,085 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,086 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 3 | [Pazza](https://open.spotify.com/track/1MwyUklCSLF8heoph2ttFe) | [Loredana Bertè](https://open.spotify.com/artist/2XpUprTohaksHpVjUtTvlx) | [Pazza](https://open.spotify.com/album/3IGUYanHxdk5DX7aB8e3lv) | 2:48 |
 | 4 | [Puttanate \(feat\. WISM\)](https://open.spotify.com/track/0LPUSmP3vUsmJI1lu7kQWy) | [COMRAD](https://open.spotify.com/artist/3LkgC4i6yy4ictT8kWDfRT), [WISM](https://open.spotify.com/artist/3LXTbapp18J0PmQEPPeXmO) | [Puttanate \(feat\. WISM\)](https://open.spotify.com/album/1DbgpdPsrmzZ53vwD1h269) | 2:23 |
 | 5 | [Nabucodonosor](https://open.spotify.com/track/5mA4Cos6BfYdAbstzE1Ood) | [I Cani](https://open.spotify.com/artist/1WQY0Xovzegy0pJiOuuyRP), [Baustelle](https://open.spotify.com/artist/02G0wSA5mAINnHX3nTCaHi) | [I CANI BAUSTELLE](https://open.spotify.com/album/44WyneGoslmOdCMz1gavBO) | 4:19 |
-| 6 | [Echoes](https://open.spotify.com/track/0HH0MNrEF5hzFjEWmbEHaP) | [Tiger! Shit! Tiger! Tiger!](https://open.spotify.com/artist/4bDMgWpIKWkL8HIVGzx6ed) | [Bloom](https://open.spotify.com/album/668NDGomX3g2cXYwOsAjcm) | 5:47 |
+| 6 | [Memory](https://open.spotify.com/track/0HH0MNrEF5hzFjEWmbEHaP) | [Tiger! Shit! Tiger! Tiger!](https://open.spotify.com/artist/4bDMgWpIKWkL8HIVGzx6ed) | [Bloom](https://open.spotify.com/album/668NDGomX3g2cXYwOsAjcm) | 5:47 |
 | 7 | [Male Cane](https://open.spotify.com/track/2glgD5Pu1kYfAtLyfU6NoZ) | [Cara Calma](https://open.spotify.com/artist/2FK3lJvn42dNrSeVzs5MoC) | [Male Cane](https://open.spotify.com/album/17snaUPkFYcJ81a6RVdGYT) | 3:09 |
 | 8 | [Paura del buio \(feat\. Ibisco\)](https://open.spotify.com/track/5vGkxbfYamYEXYy4xbqTFP) | [APICE](https://open.spotify.com/artist/6XjatCpy0Nga62z2NWuVHd), [Ibisco](https://open.spotify.com/artist/048IEBDc0lctSV2QvGoH1G) | [RUMORE BIANCO](https://open.spotify.com/album/7F8ogWOLuMzYh2FIikjR2a) | 5:12 |
 | 9 | [Sides](https://open.spotify.com/track/2ne1ojKyDKMMvD4VSDYvzf) | [Danxgerous](https://open.spotify.com/artist/0Gt3wzw2zPVUVVAhGkeLuT) | [Sides](https://open.spotify.com/album/2a8G9pLND6ILoopArfwy3k) | 3:06 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 74 | [Come un raggio](https://open.spotify.com/track/4KwDUgx7TcYyvZ6tZZR7bR) | [Bud Spencer Blues Explosion](https://open.spotify.com/artist/1bfWecjdxJOuN7f42oIH5S) | [Next Big Niente](https://open.spotify.com/album/6ULcUBtkjDdSKQ9cDqYyc5) | 4:34 |
 | 75 | [THE DRIVER](https://open.spotify.com/track/0sZHxhoBaK0YEvvMV8blr6) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH! \(ARE U COMING?\)](https://open.spotify.com/album/2kcJ3TxBhSwmki0QWFXUz8) | 3:08 |
 
-Snapshot ID: `MCw1ODdjMjA2ODcyZTk2MmZkNGUxZDA0ZWViYzAxYjA2ZjcxZmJlNTIz`
+Snapshot ID: `MCwxNzY5ZDQxMGEyNDFkNjEwM2NlODAzZGY5MGMzOWE4YTZiMjA3Mzlj`

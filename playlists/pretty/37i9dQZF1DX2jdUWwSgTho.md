@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2jdUWwSgTho.md) - [plain]
 
 > Les hits préférés des enfants.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,994 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,106 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2jdUWwSgTho.md) - [plain]
 | 46 | [Ne reviens pas](https://open.spotify.com/track/4TnFANpjVwVKWzkxNzIyFH) | [Gradur](https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl), [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE) | [Zone 59](https://open.spotify.com/album/7ilqGyawRNe3bXNfLYtrfo) | 3:08 |
 | 47 | [Papaoutai](https://open.spotify.com/track/1QFw2xxyQtgKjlrMCEqsNj) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [Racine Carrée \(Standard US Version\)](https://open.spotify.com/album/22yd3bcffqUO7Pn5nsDaoj) | 3:52 |
 | 48 | [Un jour je marierai un ange](https://open.spotify.com/track/5klPZRehMLpiKUchPAzKyR) | [Pierre de Maere](https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd) | [Regarde\-moi](https://open.spotify.com/album/0yHJkjaOVLRH5VZajnYHr9) | 2:44 |
-| 49 | [SKEU SKEU \(feat\. wilsko & 7ia\) \- Speed Up](https://open.spotify.com/track/60XZ7ePJQZqRJio62G5CnM) | [Jogga](https://open.spotify.com/artist/6kByPyGr60aeCsb8TGOWav), [wilsko](https://open.spotify.com/artist/1d38UPGn8PJ9XekumcIBha), [7ia](https://open.spotify.com/artist/7736wQOIPocKi5hEg7l3hG) | [SKEU SKEU \(feat\. wilsko & 7ia\) \[Speed Up\]](https://open.spotify.com/album/0CYCJc1xZYhd9BIaKXCdn7) | 2:35 |
+| 49 | [SKEU SKEU \(feat\. wilsko\) \- Speed Up](https://open.spotify.com/track/60XZ7ePJQZqRJio62G5CnM) | [Jogga](https://open.spotify.com/artist/6kByPyGr60aeCsb8TGOWav), [wilsko](https://open.spotify.com/artist/1d38UPGn8PJ9XekumcIBha) | [SKEU SKEU \(feat\. wilsko\) \[Speed Up\]](https://open.spotify.com/album/0CYCJc1xZYhd9BIaKXCdn7) | 2:35 |
 | 50 | [Bim Bam toi](https://open.spotify.com/track/33NTeQz7sVYLmkJ1k8GsVR) | [Carla](https://open.spotify.com/artist/7dgCfYEmAX7OxaYWgCGxAr) | [Bim Bam toi](https://open.spotify.com/album/7AvOontpgfp5rWjYLzN8hY) | 2:55 |
 
-Snapshot ID: `MCw4ZTZiMzhiM2I1MDdhZGY1NGZlODAzYzQxZDZjZGIyZGRkZDM2MWUx`
+Snapshot ID: `MCw4YThkZGZiNTY4MDYzYWZmNWFmZTMzZjAyY2RmM2IyYTJmNWUwYTk3`

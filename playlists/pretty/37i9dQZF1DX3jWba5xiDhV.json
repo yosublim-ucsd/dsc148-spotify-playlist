@@ -1,12 +1,12 @@
 {
   "description": "When the dance floor calls your name, that's amore.",
-  "num_followers": 192741,
+  "num_followers": 192937,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzE0MjIwODI0ZWY1MmEwMmFmM2JjNmRlN2U0OWI5ODA4MTk4YzM3",
+  "snapshot_id": "MCwzMjUyYWM2ODMyZDdlNjIzM2JkOTRjMzVlZmEyZDg1OTU0MjFhMjdl",
   "tracks": [
     {
       "added_at": "2024-02-16 00:01:00",
@@ -935,6 +935,22 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
+        "name": "Discamore",
+        "url": "https://open.spotify.com/album/7MrTy86ZjbVidUkrwAcHiU"
+      },
+      "artists": [
+        {
+          "name": "Dov'\u00e8 Liana",
+          "url": "https://open.spotify.com/artist/0iZfB56PLEsG9T03C2hjhK"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Discamore",
+      "url": "https://open.spotify.com/track/6Kviwj20NGF2KQQ2Jke1cB"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
         "name": "It's a War (Purple Disco Machine & Lorenz Rhode Remix)",
         "url": "https://open.spotify.com/album/5qbgEZzMrc15CmURgLIAWZ"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 401773,
       "name": "It's a War - Purple Disco Machine & Lorenz Rhode Instrumental",
       "url": "https://open.spotify.com/track/0ntbNSYXSiSpgrH1NLWHkN"
-    },
-    {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
-        "name": "Discamore",
-        "url": "https://open.spotify.com/album/7MrTy86ZjbVidUkrwAcHiU"
-      },
-      "artists": [
-        {
-          "name": "Dov'\u00e8 Liana",
-          "url": "https://open.spotify.com/artist/0iZfB56PLEsG9T03C2hjhK"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Discamore",
-      "url": "https://open.spotify.com/track/6Kviwj20NGF2KQQ2Jke1cB"
     },
     {
       "added_at": "2024-02-16 00:01:00",

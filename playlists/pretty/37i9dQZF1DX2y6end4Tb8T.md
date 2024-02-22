@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2y6end4Tb8T.md) - [plain]
 
 > Rap de alta gama\. Foto: Juice WRLD
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,378 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,391 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2y6end4Tb8T.md) - [plain]
 | 99 | [NFL \(feat\. Gudda Gudda & HoodyBaby\)](https://open.spotify.com/track/3D9G7MPDU48r91YRCYeVRI) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Gudda Gudda](https://open.spotify.com/artist/7s47glsDg6fwq9KXNTsTpa), [Hoodybaby](https://open.spotify.com/artist/13lxs5lLGCBMyGLfmtfLEK) | [NFL](https://open.spotify.com/album/7DBAcWoFguEGBzypRXbMyA) | 3:30 |
 | 100 | [1017 Loaded \(feat\. Gucci Mane, Big Scarr, Enchanting, Foogiano, K Shiday, Pooh Shiesty\)](https://open.spotify.com/track/40RYJy7qh1BDlzhKyceq46) | [Roboy](https://open.spotify.com/artist/1pGpW7veMZibg5kToGiGKZ), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Big Scarr](https://open.spotify.com/artist/579LsvZcRVKtToYjS0tkKz), [Enchanting](https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT), [Foogiano](https://open.spotify.com/artist/5iyTbismzdvyjpjIuhKRvX), [K Shiday](https://open.spotify.com/artist/1Kskh57US3ruzFx7UxsxYn), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [1017 Loaded \(feat\. Gucci Mane, Big Scarr, Enchanting, Foogiano, K Shiday, Pooh Shiesty\)](https://open.spotify.com/album/1KpJI4uraalhGpVhqrn8gp) | 3:56 |
 
-Snapshot ID: `MCw3YmUzODI5N2FkMTNiYTEzZDE4YmY1NThiZjhlOTk5MmI2NjI5Mzcy`
+Snapshot ID: `MCxhNmJiZGJiNTgwNDYwNDgyYTNiNjU4NjZkOTA1NzllY2I1MWE1OWZk`

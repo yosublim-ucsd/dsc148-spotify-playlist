@@ -4,7 +4,7 @@
 
 > アニメシーンを彩る女性アーティスト達を特集！ Celebrate the great female artists from anime culture\. Cover: ReoNa
 
-615 songs - 1 day 17 hr 17 min
+616 songs - 1 day 17 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [KABANERI OF THE IRON FORTRESS \- from CrosSing](https://open.spotify.com/track/2MkKQluQXqkeC8dtU2QQpn) | [Isobe Karin](https://open.spotify.com/artist/12H5I8U8pbnUVkfjW5yGLE) | [KABANERI OF THE IRON FORTRESS \- from CrosSing](https://open.spotify.com/album/1rpQHVbbUu64PsLH7gQXmY) | 4:49 | 2023-09-05 | 2023-09-07 |
 | [Kabaneri of the Iron Fortress \- From CrosSing](https://open.spotify.com/track/5lpuUXJrebI7zTMCJvkw2c) | [Isobe Karin](https://open.spotify.com/artist/12H5I8U8pbnUVkfjW5yGLE) | [Kabaneri of the Iron Fortress \- From CrosSing](https://open.spotify.com/album/7dNZvllHiZ4x3z89gM9JoJ) | 4:49 | 2023-09-05 | 2023-09-22 |
 | [Kataomoi \- From CrosSing](https://open.spotify.com/track/5ZZrQwgtdm0pGC8YA3qO50) | [Hasegawa Ikumi](https://open.spotify.com/artist/2ry3SeF9037A5uPeb8FaYx) | [Kataomoi \- From CrosSing](https://open.spotify.com/album/42oVq6U7nskgpDQNdjCGga) | 3:25 | 2023-11-07 | 2023-11-18 |
+| [Kibou no namae](https://open.spotify.com/track/1ldgALd36lkNKA9MkEjQcF) | [家入レオ×麻倉もも](https://open.spotify.com/artist/2sQ533RKXQvXLT66OkfEqw) | [Kibou no namae](https://open.spotify.com/album/1nc8iam2SFPEwHqfrIG9dB) | 3:26 | 2024-02-20 |  |
 | [Kimi no Tonaride](https://open.spotify.com/track/38LULZ1VrM0u9p13WT7JlZ) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Kimi no Tonaride](https://open.spotify.com/album/23CWIjCLZrE3FfZbCRQ90A) | 4:34 | 2022-06-09 | 2022-07-28 |
 | [kioku](https://open.spotify.com/track/63vDfYaOPjLDCoBVTwgqhp) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [kioku](https://open.spotify.com/album/4wNrWQGL2fg72wDyOb5Dri) | 3:58 | 2023-11-16 | 2024-01-19 |
 | [Kiss Me](https://open.spotify.com/track/2QcjNoNPdkYy0RqPFoRKrk) | [キャロル&チューズデイ\(Vo.Nai Br.XX&Celeina Ann\)](https://open.spotify.com/artist/3tggmwr8QhWUTVdZ6br4na) | [Kiss Me/Hold Me Now](https://open.spotify.com/album/7oZVM8iL1dVOuVEioAIsGE) | 4:00 | 2022-06-14 | 2022-07-14 |
@@ -526,7 +527,7 @@
 | [学級日誌](https://open.spotify.com/track/7ea6ouVJBX1qNlF4Bsbr14) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [学級日誌](https://open.spotify.com/album/7JeY33oaNNWi7PJJHQtUfq) | 3:57 | 2024-02-13 |  |
 | [小喋日和](https://open.spotify.com/track/4AElkruOc9gECdltSuV3JN) | [FantasticYouth](https://open.spotify.com/artist/5XnMEOCzuW5XCsqgqEek16) | [小喋日和](https://open.spotify.com/album/1WbStO1rUhNEhQHpIB1pYz) | 3:47 | 2022-06-09 | 2024-02-14 |
 | [山荷葉](https://open.spotify.com/track/2uqD9HIXiu72KNIy4CCCa9) | [楠木 ともり](https://open.spotify.com/artist/0eic2NIS2q4R4jZpKSH7cr) | [山荷葉](https://open.spotify.com/album/3EsTLK73PrGDlRFNsn8eir) | 4:59 | 2022-06-09 | 2022-07-29 |
-| [希望の名前](https://open.spotify.com/track/46mJphrIjZH61w0pFy9OmB) | [家入レオ×麻倉もも](https://open.spotify.com/artist/2sQ533RKXQvXLT66OkfEqw) | [希望の名前](https://open.spotify.com/album/0XnwwBknCbtswIpUbTU0Oc) | 3:26 | 2024-02-20 |  |
+| [希望の名前](https://open.spotify.com/track/46mJphrIjZH61w0pFy9OmB) | [家入レオ×麻倉もも](https://open.spotify.com/artist/2sQ533RKXQvXLT66OkfEqw) | [希望の名前](https://open.spotify.com/album/0XnwwBknCbtswIpUbTU0Oc) | 3:26 | 2024-02-20 | 2024-02-22 |
 | [希望の花](https://open.spotify.com/track/4HK21Rjm9buHWIF7yBUMfi) | [千菅春香](https://open.spotify.com/artist/0sO4gM73Z5ZDR2cUqSHzjO) | [TRY!](https://open.spotify.com/album/0et1B3mRe2tuZsnh5ELgXW) | 5:15 | 2022-06-14 | 2022-07-28 |
 | [強くて弱くて愛しくて](https://open.spotify.com/track/6kD7getOuHszFfqzksdtaq) | [東 日万凛\(CV:宮本侑芽\)](https://open.spotify.com/artist/50FzsVkuotnAKa9rSK3emX) | [強くて弱くて愛しくて](https://open.spotify.com/album/0oW5heg3arTMvuEwI8WZmu) | 3:13 | 2024-01-25 | 2024-01-27 |
 | [彩色硝子](https://open.spotify.com/track/5EVmlI2bzavJxH6BBgaaM4) | [Momo Asakura](https://open.spotify.com/artist/1JOGWTUQPoSQXniAYcDMKy) | [彩色硝子](https://open.spotify.com/album/5MDwykqDZ5ISh5BQRLsFMS) | 3:56 | 2022-06-24 | 2022-07-26 |

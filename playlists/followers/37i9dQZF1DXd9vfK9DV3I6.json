@@ -1,5 +1,5 @@
 {
-  "2024-02-21": 304049,
+  "2024-02-22": 304173,
   "date_first_scraped": "2020-10-18",
   "description": "Electronic music with Mediterranean and Eastern influences.",
   "name": "mosaic",
@@ -1666,6 +1666,24 @@
     },
     {
       "album": {
+        "name": "El Hob",
+        "url": "https://open.spotify.com/album/1V2RgQJtSriNJc5ai9CgPw"
+      },
+      "artists": [
+        {
+          "name": "Pharonic Electronic",
+          "url": "https://open.spotify.com/artist/2gQv5UbFmjuJ6jDIeLG6TA"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214634,
+      "name": "El Hob",
+      "url": "https://open.spotify.com/track/07fRbyvuAdno6U4NtnlI2c"
+    },
+    {
+      "album": {
         "name": "Eldorado",
         "url": "https://open.spotify.com/album/3yp6o87R2Du2CC75dw2cqc"
       },
@@ -2739,7 +2757,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 332000,
       "name": "La Blanche",
       "url": "https://open.spotify.com/track/3z98DNxcPp0EcNwi44oxYN"

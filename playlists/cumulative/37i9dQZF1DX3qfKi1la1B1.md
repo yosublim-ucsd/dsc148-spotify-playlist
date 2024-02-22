@@ -4,7 +4,7 @@
 
 > 深夜の読書、お酒を飲みながらネットサーフィン ....そんなリラックスタイムのお供に。
 
-344 songs - 22 hr 21 min
+345 songs - 22 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [6 Feet Down](https://open.spotify.com/track/7LRnNIZFJQSv1mt4W8HYlK) | [Tara Lily](https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm) | [6 Feet Down](https://open.spotify.com/album/0pluPeMP0fou1HBotVrHmP) | 2:48 | 2024-01-18 |  |
 | [95 Project \(Reprise\)](https://open.spotify.com/track/6XY6EHw2syj0We0U0GxCf7) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [95 Project \(Reprise\)](https://open.spotify.com/album/6V8BnI070YFCoWX0T8A60r) | 2:30 | 2023-07-11 | 2023-11-24 |
 | [A Dream Goes On Forever](https://open.spotify.com/track/5OY32VyyPJDPBf2C2RTX9v) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o), [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d) | [A Dream Goes On Forever](https://open.spotify.com/album/3GlvdGXfhdSubUQ2uKYXKI) | 4:39 | 2024-02-20 |  |
-| [A Million More](https://open.spotify.com/track/70PorMN2mwLfWi3jKZ1jS3) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [A Million More](https://open.spotify.com/album/00piYDmC0gNpC9g0zJcyeW) | 3:02 | 2024-02-20 |  |
+| [A Million More](https://open.spotify.com/track/70PorMN2mwLfWi3jKZ1jS3) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [A Million More](https://open.spotify.com/album/00piYDmC0gNpC9g0zJcyeW) | 3:02 | 2024-02-20 | 2024-02-22 |
+| [A Million More](https://open.spotify.com/track/7r0YOMoBepzw3405MOPfZ1) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [A Million More](https://open.spotify.com/album/0jNrLxV0aeNF03bMin0L9f) | 3:02 | 2024-02-20 |  |
 | [A Night To Remember](https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Night To Remember](https://open.spotify.com/album/73wBVA41AulgjGiL3rBwfe) | 3:53 | 2023-10-19 |  |
 | [A Promised Land](https://open.spotify.com/track/1Bh2D6JRzwn1ZPL2dxcfnh) | [Wicked Lights](https://open.spotify.com/artist/2JMweZxR2xGs9rcfzktB5k) | [Have A Nice Dream](https://open.spotify.com/album/1V8UvQAM2qaPb4326KWUE3) | 5:37 | 2023-09-14 |  |
 | [A Simple Act](https://open.spotify.com/track/2Uz1jPFms7ZYLfgXD7Xsm9) | [Slowe](https://open.spotify.com/artist/6S67b6WQ78bgJyN7xRrijo) | [Where The Mind Wanders](https://open.spotify.com/album/0QdKgzeYrnhSghP7XLwUii) | 3:32 | 2023-07-27 | 2023-07-29 |

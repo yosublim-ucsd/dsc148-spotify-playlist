@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 
 > A little bit of pop, a little bit of rap\. Cover: Arden Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,739 likes - 105 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,753 likes - 105 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 | 104 | [safe to say](https://open.spotify.com/track/2GDEhyGpLgUxxLi95pvYgM) | [Drod](https://open.spotify.com/artist/05V8HRYvyOH8BTL4srorTi) | [safe to say](https://open.spotify.com/album/2eBpe2BunLdyvJJ8FsekyA) | 2:02 |
 | 105 | [Walking Blind](https://open.spotify.com/track/23nlm5usJNho2OdoHAW8Ts) | [Allen Haley](https://open.spotify.com/artist/0A23HecVtZf5hwBgVi0uYb) | [Walking Blind](https://open.spotify.com/album/5jTzBuT2h835bSd3JGP8OU) | 2:18 |
 
-Snapshot ID: `MCw4Y2E4NmNhMmRiZGY5NWY5NGYyZmQzMzFhMzNmY2JmMWEzMmQzOTVh`
+Snapshot ID: `MCw5MjdhYmQ1NzYwN2JlNmFhYzQ1MDk0MTM3Y2ZkY2MwZDkzOTY3NzBi`

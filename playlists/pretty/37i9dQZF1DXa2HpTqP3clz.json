@@ -1,12 +1,12 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Missy Raines",
-  "num_followers": 131695,
+  "num_followers": 131709,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZTI4YjExMTgzN2VjNzI5NjFlODUzYTY5MDRiMGRkZDk3Mzc1ZDJh",
+  "snapshot_id": "MCxlYWZmYTA0NTIzODFlNWUzYTAxYjk4NDk3NzcxNDU1N2RlMTMyNTM1",
   "tracks": [
     {
       "added_at": "2024-02-09 23:32:57",
@@ -123,22 +123,6 @@
     {
       "added_at": "2024-02-09 23:32:57",
       "album": {
-        "name": "The Music of Red Dead Redemption 2 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/5Oli3gQJrHdahY7FDEoofW"
-      },
-      "artists": [
-        {
-          "name": "Rhiannon Giddens",
-          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
-        }
-      ],
-      "duration_ms": 161960,
-      "name": "Mountain Banjo",
-      "url": "https://open.spotify.com/track/2VCeQfecKMpctfC5zdgyWO"
-    },
-    {
-      "added_at": "2024-02-09 23:32:57",
-      "album": {
         "name": "California Sober (feat. Willie Nelson)",
         "url": "https://open.spotify.com/album/0mTOUvkezKot3JI1Cd9iDP"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 230033,
       "name": "California Sober (feat. Willie Nelson)",
       "url": "https://open.spotify.com/track/0zfEBDdtB0TPV64JcvF7E5"
+    },
+    {
+      "added_at": "2024-02-09 23:32:57",
+      "album": {
+        "name": "The Music of Red Dead Redemption 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5Oli3gQJrHdahY7FDEoofW"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "duration_ms": 161960,
+      "name": "Mountain Banjo",
+      "url": "https://open.spotify.com/track/2VCeQfecKMpctfC5zdgyWO"
     },
     {
       "added_at": "2024-02-09 23:32:57",
@@ -263,22 +263,18 @@
     {
       "added_at": "2024-02-09 23:32:57",
       "album": {
-        "name": "Listen To The Radio",
-        "url": "https://open.spotify.com/album/6RdQfXUPxhbauUanaotuJg"
+        "name": "Arm in Arm",
+        "url": "https://open.spotify.com/album/3sCoWuRHi9W0NwFpPMymlR"
       },
       "artists": [
         {
-          "name": "Billy Strings",
-          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
-        },
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+          "name": "Steep Canyon Rangers",
+          "url": "https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O"
         }
       ],
-      "duration_ms": 240386,
-      "name": "Listen To The Radio",
-      "url": "https://open.spotify.com/track/6n9PvbAoQtDe3AEMbS8v70"
+      "duration_ms": 203346,
+      "name": "Honey on My Tongue",
+      "url": "https://open.spotify.com/track/00o39BbfnwhIZIhfsAGCBH"
     },
     {
       "added_at": "2024-02-09 23:32:57",
@@ -339,18 +335,22 @@
     {
       "added_at": "2024-02-09 23:32:57",
       "album": {
-        "name": "Arm in Arm",
-        "url": "https://open.spotify.com/album/3sCoWuRHi9W0NwFpPMymlR"
+        "name": "Listen To The Radio",
+        "url": "https://open.spotify.com/album/6RdQfXUPxhbauUanaotuJg"
       },
       "artists": [
         {
-          "name": "Steep Canyon Rangers",
-          "url": "https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O"
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        },
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
         }
       ],
-      "duration_ms": 203346,
-      "name": "Honey on My Tongue",
-      "url": "https://open.spotify.com/track/00o39BbfnwhIZIhfsAGCBH"
+      "duration_ms": 240386,
+      "name": "Listen To The Radio",
+      "url": "https://open.spotify.com/track/6n9PvbAoQtDe3AEMbS8v70"
     },
     {
       "added_at": "2024-02-09 23:32:57",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-02-09 23:32:57",
       "album": {
-        "name": "Bluegrass",
-        "url": "https://open.spotify.com/album/65tnKCMWCQ5HJnzUn57dkO"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 258812,
-      "name": "You Left Me A Long, Long Time Ago",
-      "url": "https://open.spotify.com/track/3qbcegQkwaklZ48d27DOti"
-    },
-    {
-      "added_at": "2024-02-09 23:32:57",
-      "album": {
         "name": "Wake Me When It's Over",
         "url": "https://open.spotify.com/album/0TagfK04olSVvnfHtWbhJz"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 258393,
       "name": "Wake Me When It's Over",
       "url": "https://open.spotify.com/track/0J10lTnQV1rosvX0jYYX5J"
+    },
+    {
+      "added_at": "2024-02-09 23:32:57",
+      "album": {
+        "name": "Bluegrass",
+        "url": "https://open.spotify.com/album/65tnKCMWCQ5HJnzUn57dkO"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 258812,
+      "name": "You Left Me A Long, Long Time Ago",
+      "url": "https://open.spotify.com/track/3qbcegQkwaklZ48d27DOti"
     },
     {
       "added_at": "2024-02-09 23:32:57",
@@ -715,38 +715,6 @@
     {
       "added_at": "2024-02-09 23:32:57",
       "album": {
-        "name": "We Were Cowboys",
-        "url": "https://open.spotify.com/album/3ZGZNsbL4jY4pnOxxlYOCG"
-      },
-      "artists": [
-        {
-          "name": "Kameron Marlowe",
-          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
-        }
-      ],
-      "duration_ms": 210266,
-      "name": "Granny's Got a Garden - For G'maw Jan",
-      "url": "https://open.spotify.com/track/481vOKAlV93O0kHSxEWpTy"
-    },
-    {
-      "added_at": "2024-02-09 23:32:57",
-      "album": {
-        "name": "Long Journey Home / Life To Go",
-        "url": "https://open.spotify.com/album/5d7E0CoRDHwdPE0i3JW53C"
-      },
-      "artists": [
-        {
-          "name": "Billy Strings",
-          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
-        }
-      ],
-      "duration_ms": 177453,
-      "name": "Long Journey Home",
-      "url": "https://open.spotify.com/track/1LSTsFWHtku4E76HlIAOYm"
-    },
-    {
-      "added_at": "2024-02-09 23:32:57",
-      "album": {
         "name": "Bluegrass",
         "url": "https://open.spotify.com/album/65tnKCMWCQ5HJnzUn57dkO"
       },
@@ -759,6 +727,22 @@
       "duration_ms": 240773,
       "name": "Still Is Still Moving To Me",
       "url": "https://open.spotify.com/track/6wMnZNnO4oWJwivp0WvW2W"
+    },
+    {
+      "added_at": "2024-02-09 23:32:57",
+      "album": {
+        "name": "We Were Cowboys",
+        "url": "https://open.spotify.com/album/3ZGZNsbL4jY4pnOxxlYOCG"
+      },
+      "artists": [
+        {
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+        }
+      ],
+      "duration_ms": 210266,
+      "name": "Granny's Got a Garden - For G'maw Jan",
+      "url": "https://open.spotify.com/track/481vOKAlV93O0kHSxEWpTy"
     },
     {
       "added_at": "2024-02-09 23:32:57",
@@ -779,18 +763,18 @@
     {
       "added_at": "2024-02-09 23:32:57",
       "album": {
-        "name": "Storyman",
-        "url": "https://open.spotify.com/album/25F6ItCZFGZ79LvZVhlDIm"
+        "name": "Long Journey Home / Life To Go",
+        "url": "https://open.spotify.com/album/5d7E0CoRDHwdPE0i3JW53C"
       },
       "artists": [
         {
-          "name": "Sam Bush",
-          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
         }
       ],
-      "duration_ms": 211160,
-      "name": "Play By Your Own Rules",
-      "url": "https://open.spotify.com/track/1ckFSTIyJECBMf9PX0Ezhc"
+      "duration_ms": 177453,
+      "name": "Long Journey Home",
+      "url": "https://open.spotify.com/track/1LSTsFWHtku4E76HlIAOYm"
     },
     {
       "added_at": "2024-02-09 23:32:57",
@@ -811,6 +795,22 @@
       "duration_ms": 174381,
       "name": "The IPA Song",
       "url": "https://open.spotify.com/track/23lIjqZvmcRcc7hIMldCh1"
+    },
+    {
+      "added_at": "2024-02-09 23:32:57",
+      "album": {
+        "name": "Storyman",
+        "url": "https://open.spotify.com/album/25F6ItCZFGZ79LvZVhlDIm"
+      },
+      "artists": [
+        {
+          "name": "Sam Bush",
+          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
+        }
+      ],
+      "duration_ms": 211160,
+      "name": "Play By Your Own Rules",
+      "url": "https://open.spotify.com/track/1ckFSTIyJECBMf9PX0Ezhc"
     },
     {
       "added_at": "2024-02-09 23:32:57",
@@ -947,18 +947,18 @@
     {
       "added_at": "2024-02-09 23:32:57",
       "album": {
-        "name": "Hell on Church Street",
-        "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
+        "name": "Twisted Pine",
+        "url": "https://open.spotify.com/album/0Wqmu0yvCdbcd9Vgsq3G3i"
       },
       "artists": [
         {
-          "name": "Punch Brothers",
-          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
+          "name": "Twisted Pine",
+          "url": "https://open.spotify.com/artist/1hS8I57cnaheZpt7Tdn6ps"
         }
       ],
-      "duration_ms": 178973,
-      "name": "Any Old Time",
-      "url": "https://open.spotify.com/track/5u5OHbWaCxcvIoi04HGLy6"
+      "duration_ms": 252428,
+      "name": "When I Called Your Name",
+      "url": "https://open.spotify.com/track/5TqVxkKAbdoc4iyShy5tTq"
     },
     {
       "added_at": "2024-02-09 23:32:57",
@@ -979,18 +979,18 @@
     {
       "added_at": "2024-02-09 23:32:57",
       "album": {
-        "name": "Twisted Pine",
-        "url": "https://open.spotify.com/album/0Wqmu0yvCdbcd9Vgsq3G3i"
+        "name": "Hell on Church Street",
+        "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
       },
       "artists": [
         {
-          "name": "Twisted Pine",
-          "url": "https://open.spotify.com/artist/1hS8I57cnaheZpt7Tdn6ps"
+          "name": "Punch Brothers",
+          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
         }
       ],
-      "duration_ms": 252428,
-      "name": "When I Called Your Name",
-      "url": "https://open.spotify.com/track/5TqVxkKAbdoc4iyShy5tTq"
+      "duration_ms": 178973,
+      "name": "Any Old Time",
+      "url": "https://open.spotify.com/track/5u5OHbWaCxcvIoi04HGLy6"
     },
     {
       "added_at": "2024-02-09 23:32:57",
@@ -1023,6 +1023,22 @@
       "duration_ms": 225941,
       "name": "Smoky Mountain Girl",
       "url": "https://open.spotify.com/track/0m3U6lCkhaJr5OCK7RSkFP"
+    },
+    {
+      "added_at": "2024-02-09 23:32:57",
+      "album": {
+        "name": "In The Ground",
+        "url": "https://open.spotify.com/album/6Ag5zf5U06icw6B6pEEAuC"
+      },
+      "artists": [
+        {
+          "name": "Gibson Brothers",
+          "url": "https://open.spotify.com/artist/5a1u9fulLhPXwEWkrxmzEV"
+        }
+      ],
+      "duration_ms": 191918,
+      "name": "Homemade Wine",
+      "url": "https://open.spotify.com/track/6SKFHKROdE9wfAWlpdAD4j"
     },
     {
       "added_at": "2024-02-09 23:32:57",
@@ -1063,22 +1079,6 @@
       "duration_ms": 162697,
       "name": "Dry Town",
       "url": "https://open.spotify.com/track/4ki94wKEhXYNW4ywgd4qLs"
-    },
-    {
-      "added_at": "2024-02-09 23:32:57",
-      "album": {
-        "name": "In The Ground",
-        "url": "https://open.spotify.com/album/6Ag5zf5U06icw6B6pEEAuC"
-      },
-      "artists": [
-        {
-          "name": "Gibson Brothers",
-          "url": "https://open.spotify.com/artist/5a1u9fulLhPXwEWkrxmzEV"
-        }
-      ],
-      "duration_ms": 191918,
-      "name": "Homemade Wine",
-      "url": "https://open.spotify.com/track/6SKFHKROdE9wfAWlpdAD4j"
     },
     {
       "added_at": "2024-02-09 23:32:57",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2024-02-09 23:32:57",
       "album": {
-        "name": "The More I Learn",
-        "url": "https://open.spotify.com/album/63gK1MXpwjJkEXiorwMU0b"
+        "name": "Black Banjo",
+        "url": "https://open.spotify.com/album/60WtwjOc8WzjAIixV2r5X2"
       },
       "artists": [
         {
-          "name": "Bryan Sutton",
-          "url": "https://open.spotify.com/artist/1LFHqGsLJjUP2jqIAznlLm"
+          "name": "Tray Wellington",
+          "url": "https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh"
         }
       ],
-      "duration_ms": 246853,
-      "name": "The More I Learn",
-      "url": "https://open.spotify.com/track/6TWeSDCjEn8xDA9OTaHcsL"
+      "duration_ms": 198478,
+      "name": "Crooked Mind",
+      "url": "https://open.spotify.com/track/3k70wq0lztvq5kxpkAAs0g"
     },
     {
       "added_at": "2024-02-09 23:32:57",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2024-02-09 23:32:57",
       "album": {
-        "name": "Black Banjo",
-        "url": "https://open.spotify.com/album/60WtwjOc8WzjAIixV2r5X2"
+        "name": "The More I Learn",
+        "url": "https://open.spotify.com/album/63gK1MXpwjJkEXiorwMU0b"
       },
       "artists": [
         {
-          "name": "Tray Wellington",
-          "url": "https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh"
+          "name": "Bryan Sutton",
+          "url": "https://open.spotify.com/artist/1LFHqGsLJjUP2jqIAznlLm"
         }
       ],
-      "duration_ms": 198478,
-      "name": "Crooked Mind",
-      "url": "https://open.spotify.com/track/3k70wq0lztvq5kxpkAAs0g"
+      "duration_ms": 246853,
+      "name": "The More I Learn",
+      "url": "https://open.spotify.com/track/6TWeSDCjEn8xDA9OTaHcsL"
     },
     {
       "added_at": "2024-02-09 23:32:57",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-02-09 23:32:57",
       "album": {
-        "name": "Fall Like Rain",
-        "url": "https://open.spotify.com/album/6j7KG1Gm2lK1EC3ppwcLcY"
-      },
-      "artists": [
-        {
-          "name": "Justin Moses",
-          "url": "https://open.spotify.com/artist/3kzBeseYmf4D2Xp56Eaola"
-        }
-      ],
-      "duration_ms": 262640,
-      "name": "Fall Like Rain",
-      "url": "https://open.spotify.com/track/3CbfrDVrNsfQ04RhDjHKvX"
-    },
-    {
-      "added_at": "2024-02-09 23:32:57",
-      "album": {
         "name": "Fire in the Dark",
         "url": "https://open.spotify.com/album/1EpaMDey2DOQao6DIXKWI1"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 186000,
       "name": "Fire in the Dark",
       "url": "https://open.spotify.com/track/1WsfcbU8ZHTn6qWEXnRWyD"
+    },
+    {
+      "added_at": "2024-02-09 23:32:57",
+      "album": {
+        "name": "Fall Like Rain",
+        "url": "https://open.spotify.com/album/6j7KG1Gm2lK1EC3ppwcLcY"
+      },
+      "artists": [
+        {
+          "name": "Justin Moses",
+          "url": "https://open.spotify.com/artist/3kzBeseYmf4D2Xp56Eaola"
+        }
+      ],
+      "duration_ms": 262640,
+      "name": "Fall Like Rain",
+      "url": "https://open.spotify.com/track/3CbfrDVrNsfQ04RhDjHKvX"
     },
     {
       "added_at": "2024-02-09 23:32:57",
@@ -1375,22 +1375,6 @@
       "duration_ms": 150575,
       "name": "Rosa Lee McFall - Live",
       "url": "https://open.spotify.com/track/2w8khZ6OgCOUwrbkQ4GYAK"
-    },
-    {
-      "added_at": "2024-02-09 23:32:57",
-      "album": {
-        "name": "Well",
-        "url": "https://open.spotify.com/album/18AaA4QngXSeE4wqm162fS"
-      },
-      "artists": [
-        {
-          "name": "Sister Sadie",
-          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Well",
-      "url": "https://open.spotify.com/track/3YDobspkgUUmmJ6UCNTWyX"
     },
     {
       "added_at": "2024-02-09 23:32:57",
@@ -1447,6 +1431,38 @@
     {
       "added_at": "2024-02-09 23:32:57",
       "album": {
+        "name": "Well",
+        "url": "https://open.spotify.com/album/18AaA4QngXSeE4wqm162fS"
+      },
+      "artists": [
+        {
+          "name": "Sister Sadie",
+          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Well",
+      "url": "https://open.spotify.com/track/3YDobspkgUUmmJ6UCNTWyX"
+    },
+    {
+      "added_at": "2024-02-09 23:32:57",
+      "album": {
+        "name": "Up All Night",
+        "url": "https://open.spotify.com/album/1MKqppAnggvYNrKE2HGILZ"
+      },
+      "artists": [
+        {
+          "name": "The Grascals",
+          "url": "https://open.spotify.com/artist/7si9bAnJcqPoR30spNu9tm"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "Maybelle",
+      "url": "https://open.spotify.com/track/6IBbvLtjyuA0kv30goCK42"
+    },
+    {
+      "added_at": "2024-02-09 23:32:57",
+      "album": {
         "name": "3+ (EP)",
         "url": "https://open.spotify.com/album/1YtOxEHSYw9paGyn4yU2gY"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 171520,
       "name": "Born To Be With You",
       "url": "https://open.spotify.com/track/6Q20ozWxYzouSPyCOpKCL0"
-    },
-    {
-      "added_at": "2024-02-09 23:32:57",
-      "album": {
-        "name": "Up All Night",
-        "url": "https://open.spotify.com/album/1MKqppAnggvYNrKE2HGILZ"
-      },
-      "artists": [
-        {
-          "name": "The Grascals",
-          "url": "https://open.spotify.com/artist/7si9bAnJcqPoR30spNu9tm"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "Maybelle",
-      "url": "https://open.spotify.com/track/6IBbvLtjyuA0kv30goCK42"
     },
     {
       "added_at": "2024-02-09 23:32:57",
@@ -1743,6 +1743,22 @@
     {
       "added_at": "2024-02-09 23:32:57",
       "album": {
+        "name": "Way Up In The Hills",
+        "url": "https://open.spotify.com/album/5v15OKarMnhpGXwp6wXhbv"
+      },
+      "artists": [
+        {
+          "name": "Sad Daddy",
+          "url": "https://open.spotify.com/artist/4T5p62edz57S8617YLu3qV"
+        }
+      ],
+      "duration_ms": 217453,
+      "name": "Arkansas Bound",
+      "url": "https://open.spotify.com/track/1R3sWcinAXhF6hPKrErYTz"
+    },
+    {
+      "added_at": "2024-02-09 23:32:57",
+      "album": {
         "name": "+ 1",
         "url": "https://open.spotify.com/album/0WerA63tJFged7ZimsZGxZ"
       },
@@ -1759,22 +1775,6 @@
       "duration_ms": 253058,
       "name": "Anna Marie (feat. Sierra Hull)",
       "url": "https://open.spotify.com/track/2kVc7E1wVU7hnpPZPmWcoh"
-    },
-    {
-      "added_at": "2024-02-09 23:32:57",
-      "album": {
-        "name": "Way Up In The Hills",
-        "url": "https://open.spotify.com/album/5v15OKarMnhpGXwp6wXhbv"
-      },
-      "artists": [
-        {
-          "name": "Sad Daddy",
-          "url": "https://open.spotify.com/artist/4T5p62edz57S8617YLu3qV"
-        }
-      ],
-      "duration_ms": 217453,
-      "name": "Arkansas Bound",
-      "url": "https://open.spotify.com/track/1R3sWcinAXhF6hPKrErYTz"
     },
     {
       "added_at": "2024-02-09 23:32:57",

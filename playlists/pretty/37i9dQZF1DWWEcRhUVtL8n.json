@@ -1,12 +1,12 @@
 {
   "description": "New and approved indie pop. Cover: Wallows",
-  "num_followers": 1689076,
+  "num_followers": 1689148,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNTBkN2NkOWMzYjlmNmM1ZTNlMmE0YjcwOTMwNTUzZWYyMjIxMmVh",
+  "snapshot_id": "MCwyMzg1MmMwMzZhZmU4M2Q1NDQ4NGU2NTgxNWU2MmVhYjFiZDhhMjY3",
   "tracks": [
     {
       "added_at": "2024-02-16 05:15:13",
@@ -177,20 +177,20 @@
       "url": "https://open.spotify.com/track/1HfsmNlg8xxhOr9N2i4Q0n"
     },
     {
-      "added_at": "2024-02-09 18:17:32",
+      "added_at": "2024-02-13 21:04:43",
       "album": {
-        "name": "From The Start",
-        "url": "https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe"
+        "name": "Make You Mine",
+        "url": "https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC"
       },
       "artists": [
         {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
         }
       ],
-      "duration_ms": 169573,
-      "name": "From The Start",
-      "url": "https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ"
+      "duration_ms": 221709,
+      "name": "Make You Mine",
+      "url": "https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL"
     },
     {
       "added_at": "2024-02-09 18:17:32",
@@ -241,20 +241,20 @@
       "url": "https://open.spotify.com/track/68gaqJVyRXTE5qanrZ9hZN"
     },
     {
-      "added_at": "2024-02-13 21:04:43",
+      "added_at": "2024-02-09 18:17:32",
       "album": {
-        "name": "Make You Mine",
-        "url": "https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC"
+        "name": "From The Start",
+        "url": "https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe"
       },
       "artists": [
         {
-          "name": "Madison Beer",
-          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
         }
       ],
-      "duration_ms": 221709,
-      "name": "Make You Mine",
-      "url": "https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL"
+      "duration_ms": 169573,
+      "name": "From The Start",
+      "url": "https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ"
     },
     {
       "added_at": "2024-02-09 18:17:32",
@@ -331,22 +331,6 @@
     {
       "added_at": "2024-02-09 18:17:32",
       "album": {
-        "name": "Stick Season",
-        "url": "https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 182346,
-      "name": "Stick Season",
-      "url": "https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5"
-    },
-    {
-      "added_at": "2024-02-09 18:17:32",
-      "album": {
         "name": "Too Much",
         "url": "https://open.spotify.com/album/1hb46dctiqHMNrp3QGXwKr"
       },
@@ -363,18 +347,34 @@
     {
       "added_at": "2024-02-09 18:17:32",
       "album": {
-        "name": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
-        "url": "https://open.spotify.com/album/57bOm4y0cT0j9Kwl7Osasj"
+        "name": "Stick Season",
+        "url": "https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju"
       },
       "artists": [
         {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
         }
       ],
-      "duration_ms": 186066,
-      "name": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
-      "url": "https://open.spotify.com/track/37CoOXIsgF3NzbK1zHZetk"
+      "duration_ms": 182346,
+      "name": "Stick Season",
+      "url": "https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5"
+    },
+    {
+      "added_at": "2024-02-13 17:56:33",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/7eSHhMZCCvJvubQ3plHlYZ"
+      },
+      "artists": [
+        {
+          "name": "Aqyila",
+          "url": "https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4"
+        }
+      ],
+      "duration_ms": 175057,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/5utUZ5nv6y6dR8irsnOQEj"
     },
     {
       "added_at": "2024-02-16 05:15:13",
@@ -427,6 +427,22 @@
     {
       "added_at": "2024-02-09 18:17:32",
       "album": {
+        "name": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
+        "url": "https://open.spotify.com/album/57bOm4y0cT0j9Kwl7Osasj"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 186066,
+      "name": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
+      "url": "https://open.spotify.com/track/37CoOXIsgF3NzbK1zHZetk"
+    },
+    {
+      "added_at": "2024-02-09 18:17:32",
+      "album": {
         "name": "playpen",
         "url": "https://open.spotify.com/album/7faCvxgZwemTlxkh8EORQD"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 151142,
       "name": "we're all eating each other",
       "url": "https://open.spotify.com/track/6BrfgV35h3NfTtIdMqhmFQ"
-    },
-    {
-      "added_at": "2024-02-13 17:56:33",
-      "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/7eSHhMZCCvJvubQ3plHlYZ"
-      },
-      "artists": [
-        {
-          "name": "Aqyila",
-          "url": "https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4"
-        }
-      ],
-      "duration_ms": 175057,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/5utUZ5nv6y6dR8irsnOQEj"
     },
     {
       "added_at": "2024-02-09 18:17:32",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-02-09 18:17:32",
       "album": {
-        "name": "24",
-        "url": "https://open.spotify.com/album/547AToKcvgV26kOjsuvUhR"
-      },
-      "artists": [
-        {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-        }
-      ],
-      "duration_ms": 246466,
-      "name": "24",
-      "url": "https://open.spotify.com/track/1dODOcUBb5SrXflh3L4zjE"
-    },
-    {
-      "added_at": "2024-02-09 18:17:32",
-      "album": {
         "name": "Blame Brett",
         "url": "https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 160493,
       "name": "Sunny day",
       "url": "https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w"
+    },
+    {
+      "added_at": "2024-02-09 18:17:32",
+      "album": {
+        "name": "24",
+        "url": "https://open.spotify.com/album/547AToKcvgV26kOjsuvUhR"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "duration_ms": 246466,
+      "name": "24",
+      "url": "https://open.spotify.com/track/1dODOcUBb5SrXflh3L4zjE"
     },
     {
       "added_at": "2024-02-09 18:17:32",
@@ -799,6 +799,22 @@
     {
       "added_at": "2024-02-09 18:17:32",
       "album": {
+        "name": "It\u2019s Never Fair, Always True",
+        "url": "https://open.spotify.com/album/3i09IRJLqeRM9v92W7phES"
+      },
+      "artists": [
+        {
+          "name": "JAWNY",
+          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
+        }
+      ],
+      "duration_ms": 155997,
+      "name": "strawberry chainsaw",
+      "url": "https://open.spotify.com/track/4lAasiKJZR4CkDygazvpvB"
+    },
+    {
+      "added_at": "2024-02-09 18:17:32",
+      "album": {
         "name": "Into Your Room (with MUNA)",
         "url": "https://open.spotify.com/album/5xoc8PmIs7xsuxaA7t4Oun"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 211235,
       "name": "Into Your Room (with MUNA)",
       "url": "https://open.spotify.com/track/3RaG1pAMRHFiCAqcE9KKNo"
-    },
-    {
-      "added_at": "2024-02-09 18:17:32",
-      "album": {
-        "name": "It\u2019s Never Fair, Always True",
-        "url": "https://open.spotify.com/album/3i09IRJLqeRM9v92W7phES"
-      },
-      "artists": [
-        {
-          "name": "JAWNY",
-          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
-        }
-      ],
-      "duration_ms": 155997,
-      "name": "strawberry chainsaw",
-      "url": "https://open.spotify.com/track/4lAasiKJZR4CkDygazvpvB"
     },
     {
       "added_at": "2024-02-09 18:17:32",
@@ -867,6 +867,22 @@
     {
       "added_at": "2024-02-09 18:17:32",
       "album": {
+        "name": "Designer",
+        "url": "https://open.spotify.com/album/1yqFXiexBb1qKUsmI8X64l"
+      },
+      "artists": [
+        {
+          "name": "Balu Brigada",
+          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
+        }
+      ],
+      "duration_ms": 190933,
+      "name": "Designer",
+      "url": "https://open.spotify.com/track/41aABK6UlttIeeGplvwW5t"
+    },
+    {
+      "added_at": "2024-02-09 18:17:32",
+      "album": {
         "name": "Rumors",
         "url": "https://open.spotify.com/album/26yD8kIW4XF5jppiVIOcbt"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 202736,
       "name": "Rumors",
       "url": "https://open.spotify.com/track/7vUNVm5CpZLHDlkRiOJJc5"
-    },
-    {
-      "added_at": "2024-02-09 18:17:32",
-      "album": {
-        "name": "Designer",
-        "url": "https://open.spotify.com/album/1yqFXiexBb1qKUsmI8X64l"
-      },
-      "artists": [
-        {
-          "name": "Balu Brigada",
-          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
-        }
-      ],
-      "duration_ms": 190933,
-      "name": "Designer",
-      "url": "https://open.spotify.com/track/41aABK6UlttIeeGplvwW5t"
     },
     {
       "added_at": "2024-02-09 18:17:32",
@@ -1023,26 +1023,6 @@
     {
       "added_at": "2024-02-09 18:17:32",
       "album": {
-        "name": "Rare",
-        "url": "https://open.spotify.com/album/1ZsgV2rrIt0wXzWfaJnMI1"
-      },
-      "artists": [
-        {
-          "name": "Bullion",
-          "url": "https://open.spotify.com/artist/6vcPgFOkMWBoY6Ks6eMEWj"
-        },
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "Rare",
-      "url": "https://open.spotify.com/track/41qpL4RAfuPkkQ4bbf7gSu"
-    },
-    {
-      "added_at": "2024-02-09 18:17:32",
-      "album": {
         "name": "to love in the 21st century: the epilogue",
         "url": "https://open.spotify.com/album/5gJGE4rjt0FgauKwsrak11"
       },
@@ -1055,22 +1035,6 @@
       "duration_ms": 165026,
       "name": "july",
       "url": "https://open.spotify.com/track/69hJjlCCD9ZbeSTYl6id04"
-    },
-    {
-      "added_at": "2024-02-09 18:17:32",
-      "album": {
-        "name": "Sweet N Low",
-        "url": "https://open.spotify.com/album/7e0ZCDgmeakv4Fqz1tIq1G"
-      },
-      "artists": [
-        {
-          "name": "Henry Morris",
-          "url": "https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq"
-        }
-      ],
-      "duration_ms": 179049,
-      "name": "Sweet N Low",
-      "url": "https://open.spotify.com/track/0f4motUd4Dn7UXr6I7GUsG"
     },
     {
       "added_at": "2024-02-09 18:17:32",
@@ -1091,6 +1055,42 @@
     {
       "added_at": "2024-02-09 18:17:32",
       "album": {
+        "name": "Sweet N Low",
+        "url": "https://open.spotify.com/album/7e0ZCDgmeakv4Fqz1tIq1G"
+      },
+      "artists": [
+        {
+          "name": "Henry Morris",
+          "url": "https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq"
+        }
+      ],
+      "duration_ms": 179049,
+      "name": "Sweet N Low",
+      "url": "https://open.spotify.com/track/0f4motUd4Dn7UXr6I7GUsG"
+    },
+    {
+      "added_at": "2024-02-09 18:17:32",
+      "album": {
+        "name": "Rare",
+        "url": "https://open.spotify.com/album/1ZsgV2rrIt0wXzWfaJnMI1"
+      },
+      "artists": [
+        {
+          "name": "Bullion",
+          "url": "https://open.spotify.com/artist/6vcPgFOkMWBoY6Ks6eMEWj"
+        },
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "Rare",
+      "url": "https://open.spotify.com/track/41qpL4RAfuPkkQ4bbf7gSu"
+    },
+    {
+      "added_at": "2024-02-09 18:17:32",
+      "album": {
         "name": "Moon Girl",
         "url": "https://open.spotify.com/album/0grzxSQDgSKxqxazfsqECQ"
       },
@@ -1103,22 +1103,6 @@
       "duration_ms": 206042,
       "name": "Moon Girl",
       "url": "https://open.spotify.com/track/0lejxzLZHbUC3reBoa3Zk9"
-    },
-    {
-      "added_at": "2024-02-09 18:17:32",
-      "album": {
-        "name": "Girls That Play",
-        "url": "https://open.spotify.com/album/1X71C3gwouR1BOm8WA2LFx"
-      },
-      "artists": [
-        {
-          "name": "Etta Marcus",
-          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
-        }
-      ],
-      "duration_ms": 202302,
-      "name": "Girls That Play",
-      "url": "https://open.spotify.com/track/6LFKTSenkUPdjtoGk5VIN0"
     },
     {
       "added_at": "2024-02-09 18:17:32",
@@ -1137,6 +1121,26 @@
       "url": "https://open.spotify.com/track/0zDBdVVqplM1fraqw0Au81"
     },
     {
+      "added_at": "2024-02-16 05:15:13",
+      "album": {
+        "name": "SCRAPYARD",
+        "url": "https://open.spotify.com/album/1S9MukUQEFAYCqlfrwqMd6"
+      },
+      "artists": [
+        {
+          "name": "Quadeca",
+          "url": "https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS"
+        },
+        {
+          "name": "Kevin Abstract",
+          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
+        }
+      ],
+      "duration_ms": 323789,
+      "name": "TEXAS BLUE (with Kevin Abstract)",
+      "url": "https://open.spotify.com/track/6OOvIBnf2HxxW7IU9tsyWx"
+    },
+    {
       "added_at": "2024-02-09 18:17:32",
       "album": {
         "name": "In the End It Always Does",
@@ -1151,6 +1155,22 @@
       "duration_ms": 214320,
       "name": "Sad to Breathe",
       "url": "https://open.spotify.com/track/4lSCs7NXjDpMqWiGm4LD0Z"
+    },
+    {
+      "added_at": "2024-02-09 18:17:32",
+      "album": {
+        "name": "Girls That Play",
+        "url": "https://open.spotify.com/album/1X71C3gwouR1BOm8WA2LFx"
+      },
+      "artists": [
+        {
+          "name": "Etta Marcus",
+          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
+        }
+      ],
+      "duration_ms": 202302,
+      "name": "Girls That Play",
+      "url": "https://open.spotify.com/track/6LFKTSenkUPdjtoGk5VIN0"
     },
     {
       "added_at": "2024-02-09 18:17:32",
@@ -1223,22 +1243,6 @@
     {
       "added_at": "2024-02-09 18:17:32",
       "album": {
-        "name": "When We Were Younger",
-        "url": "https://open.spotify.com/album/2G2NSV9SHG1WlgL4u5qZ9w"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        }
-      ],
-      "duration_ms": 159477,
-      "name": "Stuck On You",
-      "url": "https://open.spotify.com/track/1U675HGzKcVxVjdz522XYI"
-    },
-    {
-      "added_at": "2024-02-09 18:17:32",
-      "album": {
         "name": "Sweet Boy Pt. 1",
         "url": "https://open.spotify.com/album/038wFBV1FT6Q90Wpd3S4zm"
       },
@@ -1251,6 +1255,22 @@
       "duration_ms": 124500,
       "name": "Ladygirl",
       "url": "https://open.spotify.com/track/1HmvWDyb82cNLNhGfe60nr"
+    },
+    {
+      "added_at": "2024-02-09 18:17:32",
+      "album": {
+        "name": "When We Were Younger",
+        "url": "https://open.spotify.com/album/2G2NSV9SHG1WlgL4u5qZ9w"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "duration_ms": 159477,
+      "name": "Stuck On You",
+      "url": "https://open.spotify.com/track/1U675HGzKcVxVjdz522XYI"
     },
     {
       "added_at": "2024-02-09 18:17:32",
@@ -1301,24 +1321,20 @@
       "url": "https://open.spotify.com/track/0WNKKSvQmWcdoI7MvYtcqh"
     },
     {
-      "added_at": "2024-02-16 05:15:13",
+      "added_at": "2024-02-09 18:17:32",
       "album": {
-        "name": "SCRAPYARD",
-        "url": "https://open.spotify.com/album/1S9MukUQEFAYCqlfrwqMd6"
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/4VQzqV4IQqtPlxvW7ZFfGq"
       },
       "artists": [
         {
-          "name": "Quadeca",
-          "url": "https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS"
-        },
-        {
-          "name": "Kevin Abstract",
-          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
         }
       ],
-      "duration_ms": 323789,
-      "name": "TEXAS BLUE (with Kevin Abstract)",
-      "url": "https://open.spotify.com/track/6OOvIBnf2HxxW7IU9tsyWx"
+      "duration_ms": 213271,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/7LODrLEO3DzBUyxxCuA6Eo"
     },
     {
       "added_at": "2024-02-09 18:17:32",
@@ -1351,22 +1367,6 @@
       "duration_ms": 179750,
       "name": "Fred Perry Girl",
       "url": "https://open.spotify.com/track/3lcGMZrsd3fqWjcX8Nmkog"
-    },
-    {
-      "added_at": "2024-02-09 18:17:32",
-      "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/4VQzqV4IQqtPlxvW7ZFfGq"
-      },
-      "artists": [
-        {
-          "name": "Aidan Bissett",
-          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
-        }
-      ],
-      "duration_ms": 213271,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/7LODrLEO3DzBUyxxCuA6Eo"
     },
     {
       "added_at": "2024-02-09 18:17:32",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2024-02-09 18:17:32",
       "album": {
-        "name": "Perspective",
-        "url": "https://open.spotify.com/album/07V9Z6WeOyxUYKs3p0zFc4"
-      },
-      "artists": [
-        {
-          "name": "Cafun\u00e9",
-          "url": "https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu"
-        }
-      ],
-      "duration_ms": 163050,
-      "name": "Perspective",
-      "url": "https://open.spotify.com/track/1WcVAZYGMKdd2cqeDpuDGI"
-    },
-    {
-      "added_at": "2024-02-09 18:17:32",
-      "album": {
         "name": "There\u2019s no Other",
         "url": "https://open.spotify.com/album/6Ldj1EkMiTstPg4RRLAg6b"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 155801,
       "name": "There\u2019s no Other",
       "url": "https://open.spotify.com/track/1HHxnVIKnlNnCPnUxsnsXs"
+    },
+    {
+      "added_at": "2024-02-09 18:17:32",
+      "album": {
+        "name": "Perspective",
+        "url": "https://open.spotify.com/album/07V9Z6WeOyxUYKs3p0zFc4"
+      },
+      "artists": [
+        {
+          "name": "Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu"
+        }
+      ],
+      "duration_ms": 163050,
+      "name": "Perspective",
+      "url": "https://open.spotify.com/track/1WcVAZYGMKdd2cqeDpuDGI"
     },
     {
       "added_at": "2024-02-09 18:17:32",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2024-02-09 18:17:32",
       "album": {
+        "name": "a beautiful blur",
+        "url": "https://open.spotify.com/album/198gsVHJBnvsKSdLbucwVI"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "duration_ms": 238346,
+      "name": "Alonica",
+      "url": "https://open.spotify.com/track/02CUxAiWvvEq6pLItneLQ6"
+    },
+    {
+      "added_at": "2024-02-09 18:17:32",
+      "album": {
         "name": "Fear Of Flying (feat. Amin\u00e9 & beabadoobee)",
         "url": "https://open.spotify.com/album/17RkZnWlgVY355jiCG8m1e"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 131215,
       "name": "Fear Of Flying (feat. Amin\u00e9 & beabadoobee)",
       "url": "https://open.spotify.com/track/1Y4TOUS7R9DShEApDbb8Xm"
-    },
-    {
-      "added_at": "2024-02-09 18:17:32",
-      "album": {
-        "name": "a beautiful blur",
-        "url": "https://open.spotify.com/album/198gsVHJBnvsKSdLbucwVI"
-      },
-      "artists": [
-        {
-          "name": "LANY",
-          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
-        }
-      ],
-      "duration_ms": 238346,
-      "name": "Alonica",
-      "url": "https://open.spotify.com/track/02CUxAiWvvEq6pLItneLQ6"
     },
     {
       "added_at": "2024-02-09 18:17:32",

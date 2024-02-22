@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJTipjkC7Fa.md) - [plain]
 
 > Listen to the music from and inspired by My Life With The Walter Boys, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,274 likes - 60 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,296 likes - 60 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,10 +22,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJTipjkC7Fa.md) - [plain]
 | 12 | [For the Birds](https://open.spotify.com/track/3zIZn2lkgEVnnr7HutPnrT) | [Hyaenas](https://open.spotify.com/artist/3WURoSXW6bsmAW6JtgYiYU) | [Little Trophy](https://open.spotify.com/album/12ZOnVksOZO6kRaRQY8N3t) | 3:35 |
 | 13 | [Glove Scene](https://open.spotify.com/track/1xUyWcChEGClUTOlGdhRGd) | [Leonard Bernstein](https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn) | [On the Waterfront \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2KqLl9eMcIo79Zj5cmHpIq) | 1:47 |
 | 14 | [Cake By The Ocean](https://open.spotify.com/track/76hfruVvmfQbw0eYn1nmeC) | [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [DNCE](https://open.spotify.com/album/3Wv4X8OA65pGpFzBkuUgAh) | 3:39 |
-| 15 | [Golden Leaves](https://open.spotify.com/track/1fTi9sJDQV1VPM57eH0M5m) | [Sula May Andrade Deane](https://open.spotify.com/artist/6foSM2qBbW1vshevmAuwwV), [Thomas Evan's](https://open.spotify.com/artist/7AqFERmUsZpAd5pJFL0lN1), [Louis Martin](https://open.spotify.com/artist/1RH3Cp5QZDEQ366dPPqrQz) | [Closer To You](https://open.spotify.com/album/2tlHkd05gk4CNHSWvkbd93) | 3:30 |
+| 15 | [Golden Leaves](https://open.spotify.com/track/1fTi9sJDQV1VPM57eH0M5m) | [Sula Mae](https://open.spotify.com/artist/4uU2oiUh7HtoaFnNF6MzG5) | [Closer To You](https://open.spotify.com/album/2tlHkd05gk4CNHSWvkbd93) | 3:30 |
 | 16 | [everything everywhere always](https://open.spotify.com/track/1sd2HaV5RYWN8ly7htaElN) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [everything everywhere always](https://open.spotify.com/album/73HKMtn4WRIvvm1m2QEAdf) | 2:27 |
 | 17 | [The Fall](https://open.spotify.com/track/26gaZ7kj1MQL6SwWvYvp3S) | [Jon Bryant](https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L) | [Cult Classic](https://open.spotify.com/album/0NFxvuLwUsCzLICePGnEm6) | 4:32 |
-| 18 | [Something Better](https://open.spotify.com/track/4PQAgLLzrYCUsgfMyjFmpP) | [Paddy Conn](https://open.spotify.com/artist/6iilscTEv9jQWydJsY4uA7) | [Future Beach](https://open.spotify.com/album/0bkoN2KdMClWIOPda3R3WT) | 3:34 |
+| 18 | [Something Better](https://open.spotify.com/track/2rJ5AqaUfxBDZFXSsbXfFo) | [Paddy Conn](https://open.spotify.com/artist/6iilscTEv9jQWydJsY4uA7) | [Future Beach](https://open.spotify.com/album/7762DXt6ZVJ8SjDWhQNrFg) | 3:34 |
 | 19 | [Fill Your Soul \(Remix\)](https://open.spotify.com/track/7wH4BMbIapZab3Gqx3AnV2) | [Def3](https://open.spotify.com/artist/6kqN8RoL2VpRM8EgGwHiHG), [Late Night Radio](https://open.spotify.com/artist/0FIRQJT2PBffTJEZvipVi2), [Cheshire](https://open.spotify.com/artist/1OHlpIsY1bcW2ySE97PPeq) | [Fill Your Soul \(Remix\)](https://open.spotify.com/album/0whhDzlRFK0beTVgOCrj88) | 4:32 |
 | 20 | [New Summers](https://open.spotify.com/track/2n8XS0fVWxqegEPyY84TDV) | [De Lux](https://open.spotify.com/artist/6go0iwCisHtnyywarV5OEZ) | [Do You Need A Release?](https://open.spotify.com/album/1zq50YlpfOS6j9wM8l6Lbn) | 4:50 |
 | 21 | [Rollin feat\. JessB, Jewels](https://open.spotify.com/track/0J8EO7Xbpnlr3H5YqH2tHj) | [K+Lab](https://open.spotify.com/artist/3y7GPPMrPAZKg9BlCO8cFA), [JessB](https://open.spotify.com/artist/3dnNuI5EU8TEdiAT73kj27), [Jewels](https://open.spotify.com/artist/7GhEL8SPucOTNBFqXPP0lK) | [The Booty Galactic](https://open.spotify.com/album/11qd68q6RAuZcL57czw406) | 3:03 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJTipjkC7Fa.md) - [plain]
 | 59 | [Fall with You](https://open.spotify.com/track/7lYiZOy2syi7UwS2XEpmeM) | [Emma McGrath](https://open.spotify.com/artist/3PZyI7b9LfYnS0QU827W8z) | [Fall with You](https://open.spotify.com/album/1iJtv8bQksRPjchfn4mRqk) | 3:13 |
 | 60 | [Light Up the Sky \(Skylar's Song\)](https://open.spotify.com/track/4mpfRdBiUiWABpJcHgCMnB) | [Brian H\. Kim](https://open.spotify.com/artist/6AWougHufUYuAil1drF6MB), [Corey Fogelmanis](https://open.spotify.com/artist/5YC2obH1ww4IH0o0zDA7m9) | [My Life with the Walter Boys \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/4o4dY3Am1MVqFzdS8cCqEe) | 2:05 |
 
-Snapshot ID: `MCw5Y2Y4ZWI1MjBkOTVhZDUxOTg2ZTBkNmU4OGM5MDczM2YxMDhhOTY5`
+Snapshot ID: `MCxhMzg3MzlhZDQzNzg1OWI5ODAxOTllNzNkM2IyMjdkNjZkOWJiNDAy`

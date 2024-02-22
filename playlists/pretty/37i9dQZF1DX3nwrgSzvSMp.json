@@ -1,12 +1,12 @@
 {
   "description": "Un viaje musical por nuestras ra\u00edces prehisp\u00e1nicas. ",
-  "num_followers": 7095,
+  "num_followers": 7097,
   "original_name": "Pueblos Ind\u00edgenas: Legado Musical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxM2Q3YjlhMDM4ODk2MWI0NDRjYTk3MTdjNGFkOGI4NDYzYTBjOWRl",
+  "snapshot_id": "MCxmZjgzMmU3MWY5ZWUyMWY5MmRjZTliMmM1YmI0NGUxODJhNTUyZWNi",
   "tracks": [
     {
       "added_at": "2021-09-09 23:30:28",
@@ -59,22 +59,6 @@
     {
       "added_at": "2021-09-09 23:30:28",
       "album": {
-        "name": "Tree Of Life",
-        "url": "https://open.spotify.com/album/6dTFO9uEZRMA8vVPRCAfKU"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 195960,
-      "name": "Icnocuicatl",
-      "url": "https://open.spotify.com/track/5ZqKUtJ6NADj7Y82skZgb0"
-    },
-    {
-      "added_at": "2021-09-09 23:30:28",
-      "album": {
         "name": "The Flayed God",
         "url": "https://open.spotify.com/album/36hOL8R8t9sKSz64pQ9qxK"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 181013,
       "name": "Danza Del Tambor",
       "url": "https://open.spotify.com/track/5aUsfU1EVSDQEBaoXjHNhK"
+    },
+    {
+      "added_at": "2021-09-09 23:30:28",
+      "album": {
+        "name": "Tree Of Life",
+        "url": "https://open.spotify.com/album/6dTFO9uEZRMA8vVPRCAfKU"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 195960,
+      "name": "Icnocuicatl",
+      "url": "https://open.spotify.com/track/5ZqKUtJ6NADj7Y82skZgb0"
     },
     {
       "added_at": "2021-09-09 23:30:28",
@@ -171,22 +171,6 @@
     {
       "added_at": "2021-09-09 23:30:28",
       "album": {
-        "name": "M\u00fasica Prehisp\u00e1nica",
-        "url": "https://open.spotify.com/album/3L77fvfVOeXewbthEeBA6Z"
-      },
-      "artists": [
-        {
-          "name": "Jorge Reyes",
-          "url": "https://open.spotify.com/artist/73lAf1b3vgM25fxLa0oIJV"
-        }
-      ],
-      "duration_ms": 165773,
-      "name": "The New Fire",
-      "url": "https://open.spotify.com/track/0lKCvq7aFDYWU61XdATG3Z"
-    },
-    {
-      "added_at": "2021-09-09 23:30:28",
-      "album": {
         "name": "Flauta Ind\u00edgena de M\u00e9xico",
         "url": "https://open.spotify.com/album/4o3JpQsSZ4aIqegl1V2XBH"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 225253,
       "name": "Juego de Pelota",
       "url": "https://open.spotify.com/track/3DJjJNBcBbUjEKwy4HOIIQ"
+    },
+    {
+      "added_at": "2021-09-09 23:30:28",
+      "album": {
+        "name": "Male Chabelita (M\u00fasica Purepecha, Abaje\u00f1os, Sones, Pir\u00e9kuas)",
+        "url": "https://open.spotify.com/album/2tbKTrnyshXBM5MXbGYqfr"
+      },
+      "artists": [
+        {
+          "name": "Banda Laser",
+          "url": "https://open.spotify.com/artist/4zJu5sFluXkd36RFmo8LN4"
+        }
+      ],
+      "duration_ms": 217320,
+      "name": "Male Chabelita",
+      "url": "https://open.spotify.com/track/3UFZ7Mfgi91WrhvDSFibxR"
     },
     {
       "added_at": "2021-09-09 23:30:28",
@@ -219,6 +219,22 @@
     {
       "added_at": "2021-09-09 23:30:28",
       "album": {
+        "name": "M\u00fasica Prehisp\u00e1nica",
+        "url": "https://open.spotify.com/album/3L77fvfVOeXewbthEeBA6Z"
+      },
+      "artists": [
+        {
+          "name": "Jorge Reyes",
+          "url": "https://open.spotify.com/artist/73lAf1b3vgM25fxLa0oIJV"
+        }
+      ],
+      "duration_ms": 165773,
+      "name": "The New Fire",
+      "url": "https://open.spotify.com/track/0lKCvq7aFDYWU61XdATG3Z"
+    },
+    {
+      "added_at": "2021-09-09 23:30:28",
+      "album": {
         "name": "Cantos y Danzas",
         "url": "https://open.spotify.com/album/2fokIKH6nDT0LM4pAkXyUq"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 155200,
       "name": "Ritual Consagrado a los Dioses",
       "url": "https://open.spotify.com/track/5nA2Us56gdVsctPVi9k5nB"
-    },
-    {
-      "added_at": "2021-09-09 23:30:28",
-      "album": {
-        "name": "Male Chabelita (M\u00fasica Purepecha, Abaje\u00f1os, Sones, Pir\u00e9kuas)",
-        "url": "https://open.spotify.com/album/2tbKTrnyshXBM5MXbGYqfr"
-      },
-      "artists": [
-        {
-          "name": "Banda Laser",
-          "url": "https://open.spotify.com/artist/4zJu5sFluXkd36RFmo8LN4"
-        }
-      ],
-      "duration_ms": 217320,
-      "name": "Male Chabelita",
-      "url": "https://open.spotify.com/track/3UFZ7Mfgi91WrhvDSFibxR"
     },
     {
       "added_at": "2021-09-09 23:30:28",
@@ -303,38 +303,6 @@
     {
       "added_at": "2021-09-09 23:30:28",
       "album": {
-        "name": "Prehispanic Music",
-        "url": "https://open.spotify.com/album/0wYjSe3KWirJC0F1OPNu3A"
-      },
-      "artists": [
-        {
-          "name": "Jorge Reyes",
-          "url": "https://open.spotify.com/artist/73lAf1b3vgM25fxLa0oIJV"
-        }
-      ],
-      "duration_ms": 172826,
-      "name": "Feast In the Mountain",
-      "url": "https://open.spotify.com/track/11sAlVf9tnf4A1JfUuPGas"
-    },
-    {
-      "added_at": "2021-09-09 23:30:28",
-      "album": {
-        "name": "M\u00fasica Prehisp\u00e1nica y Mestiza de M\u00e9xico",
-        "url": "https://open.spotify.com/album/3ahIuLsy6ios1j8Ibdz0Vs"
-      },
-      "artists": [
-        {
-          "name": "El Pr\u00edncipe Azteca",
-          "url": "https://open.spotify.com/artist/6wr8B5UuGH1jEZTUHAY4ca"
-        }
-      ],
-      "duration_ms": 137133,
-      "name": "Adoraci\u00f3n al Sol",
-      "url": "https://open.spotify.com/track/1OcgHJbbOBEUnClHaIcTjf"
-    },
-    {
-      "added_at": "2021-09-09 23:30:28",
-      "album": {
         "name": "Ipan In Xiktli Metztli (M\u00e9xico M\u00e1gico C\u00f3smico, en el Ombligo de la Luna)",
         "url": "https://open.spotify.com/album/1JGPFMYRAY6O9jknUAPc5N"
       },
@@ -347,6 +315,22 @@
       "duration_ms": 200746,
       "name": "Suite al Culto Solar - In Altepetl Tonal",
       "url": "https://open.spotify.com/track/71QCom1QzTOtxQdyBII4Ii"
+    },
+    {
+      "added_at": "2021-09-09 23:30:28",
+      "album": {
+        "name": "Prehispanic Music",
+        "url": "https://open.spotify.com/album/0wYjSe3KWirJC0F1OPNu3A"
+      },
+      "artists": [
+        {
+          "name": "Jorge Reyes",
+          "url": "https://open.spotify.com/artist/73lAf1b3vgM25fxLa0oIJV"
+        }
+      ],
+      "duration_ms": 172826,
+      "name": "Feast In the Mountain",
+      "url": "https://open.spotify.com/track/11sAlVf9tnf4A1JfUuPGas"
     },
     {
       "added_at": "2021-09-09 23:30:28",
@@ -399,22 +383,6 @@
     {
       "added_at": "2021-09-09 23:30:28",
       "album": {
-        "name": "Cantos y Danzas",
-        "url": "https://open.spotify.com/album/2fokIKH6nDT0LM4pAkXyUq"
-      },
-      "artists": [
-        {
-          "name": "El Pr\u00edncipe Azteca",
-          "url": "https://open.spotify.com/artist/6wr8B5UuGH1jEZTUHAY4ca"
-        }
-      ],
-      "duration_ms": 142320,
-      "name": "Festival de Xochipilli",
-      "url": "https://open.spotify.com/track/1HVW1yYAqFf1M8C3aUfTpt"
-    },
-    {
-      "added_at": "2021-09-09 23:30:28",
-      "album": {
         "name": "Rituales Prehispanicos (Prehispanic Rituals)[Mexican Music]",
         "url": "https://open.spotify.com/album/4UZi4TB1686JKiKdoegwhY"
       },
@@ -427,6 +395,38 @@
       "duration_ms": 214706,
       "name": "Tlazolteotl",
       "url": "https://open.spotify.com/track/5PyRkSx7BtEgUwhn7Ty2DX"
+    },
+    {
+      "added_at": "2021-09-09 23:30:28",
+      "album": {
+        "name": "M\u00fasica Prehisp\u00e1nica y Mestiza de M\u00e9xico",
+        "url": "https://open.spotify.com/album/3ahIuLsy6ios1j8Ibdz0Vs"
+      },
+      "artists": [
+        {
+          "name": "El Pr\u00edncipe Azteca",
+          "url": "https://open.spotify.com/artist/6wr8B5UuGH1jEZTUHAY4ca"
+        }
+      ],
+      "duration_ms": 137133,
+      "name": "Adoraci\u00f3n al Sol",
+      "url": "https://open.spotify.com/track/1OcgHJbbOBEUnClHaIcTjf"
+    },
+    {
+      "added_at": "2021-09-09 23:30:28",
+      "album": {
+        "name": "Cantos y Danzas",
+        "url": "https://open.spotify.com/album/2fokIKH6nDT0LM4pAkXyUq"
+      },
+      "artists": [
+        {
+          "name": "El Pr\u00edncipe Azteca",
+          "url": "https://open.spotify.com/artist/6wr8B5UuGH1jEZTUHAY4ca"
+        }
+      ],
+      "duration_ms": 142320,
+      "name": "Festival de Xochipilli",
+      "url": "https://open.spotify.com/track/1HVW1yYAqFf1M8C3aUfTpt"
     },
     {
       "added_at": "2021-09-09 23:30:28",

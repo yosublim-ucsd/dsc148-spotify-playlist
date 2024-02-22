@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT3qht9CfnL3.md) - [plain]
 
 > Canciones de despecho para cantarle a quien te rompió el corazón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 314,650 likes - 91 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 314,730 likes - 91 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT3qht9CfnL3.md) - [plain]
 | 90 | [Corazón De Papel](https://open.spotify.com/track/0SV8KSbfTfhYp6vCRrF7uE) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Karen Méndez](https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk) | [Corazón De Papel](https://open.spotify.com/album/1IRVC1cDRm5if9zYBbRSRu) | 3:03 |
 | 91 | [23 Preguntas](https://open.spotify.com/track/5ANkjNH7elrxzggidjnH9v) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [23 Preguntas](https://open.spotify.com/album/0iLhDl4hlkoBXLtsfhUg56) | 4:11 |
 
-Snapshot ID: `MCxmMzYxZTQ2ODQxOTFmYmFhNDZkOTMzNWQyN2FhZjgxNmY2ZDA5YjNk`
+Snapshot ID: `MCw2M2QxNDJhZjJjMzVlYzJmM2Q2ZTQ5YjVkZjU2ZjllMjgxY2EzN2Mx`

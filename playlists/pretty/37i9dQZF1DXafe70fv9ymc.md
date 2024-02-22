@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafe70fv9ymc.md) - [plain]
 
 > you give me shiverssss
 
-[Spotify](https://open.spotify.com/user/spotify) - 234 likes - 47 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 308 likes - 47 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafe70fv9ymc.md) - [plain]
 | 20 | [Nobody Gotta Know](https://open.spotify.com/track/1uqlrp7UizucM2Lk1Ndcn7) | [Oxii Moron](https://open.spotify.com/artist/1eMXbPuLhjzGuW8I2p2XXX) | [Nobody Gotta Know](https://open.spotify.com/album/5zFoqU21uLBJlZXq8EAL57) | 2:11 |
 | 21 | [Judas](https://open.spotify.com/track/6nEBCXcL5Bh4g2fhZclX5c) | [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88) | [Testament](https://open.spotify.com/album/06klV2isRMZbEofIvOunPM) | 2:08 |
 | 22 | [Heaven](https://open.spotify.com/track/1OOZ7HK33XptwtvGuKmb5s) | [Amaal Nuux](https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz) | [Milly](https://open.spotify.com/album/0ybPRt9okiivYSRzyyv1Yd) | 3:03 |
-| 23 | [Divine Intervention](https://open.spotify.com/track/71FvDWdttOeuEdCb63a73s) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Galatea](https://open.spotify.com/album/6wlhvzUV68XeLk6fMirGqQ) | 2:58 |
+| 23 | [Divine Intervention](https://open.spotify.com/track/3wFzFIZFNn0gxYkfdOybqY) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Galatea](https://open.spotify.com/album/2qXvUtcDzC8UycI1ccMWFw) | 2:58 |
 | 24 | [Down](https://open.spotify.com/track/2nYGKBTVBTyEU319Oo7lJr) | [Pariah](https://open.spotify.com/artist/23nc1fZrp58KsnzSL9rae4) | [The Tower](https://open.spotify.com/album/1k1wO0MdpT7QdfwP4brWck) | 3:42 |
 | 25 | [Heart On Fire](https://open.spotify.com/track/1apBZCzXcyW1NUqeUtrldP) | [Titose](https://open.spotify.com/artist/1GqDQYv81wsGJmzM5LOyF7) | [Was It Something I Said?](https://open.spotify.com/album/3M6SVIRAGFPUmQ6ca3mFOi) | 1:08 |
 | 26 | [Grown Ass Girl.](https://open.spotify.com/track/1oCtaFhWkV3Dvuuzy6DNE0) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd) | [Grown Ass Girl.](https://open.spotify.com/album/4KR4FghCCBGvhxvsgnRVe0) | 2:59 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafe70fv9ymc.md) - [plain]
 | 46 | [Early Momo](https://open.spotify.com/track/3q9OiLZVS3Om7uI6cBfaOZ) | [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1), [GoodGirl LA](https://open.spotify.com/artist/62HQP03xtoXexSY1Kp0cdS) | [Early Momo](https://open.spotify.com/album/0MeNdDh80OeWXNrRFA9QEs) | 3:13 |
 | 47 | [KEEPS](https://open.spotify.com/track/6YtJ7qXFloHoIKS0GpFzIh) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [GEMINI](https://open.spotify.com/album/6Vj6WP5MosdtM023SqTAul) | 2:56 |
 
-Snapshot ID: `MCw2OTAwZDNiMzExYzkyODgyZTVhYTY1MzY2ZWMyYTI0ZGEwNTJkZTg5`
+Snapshot ID: `MCwyZjJkZjlkYjYyMGIxMmJlZDc1MzZhMDcxZTFhMzExYTU2YTJiMzNh`

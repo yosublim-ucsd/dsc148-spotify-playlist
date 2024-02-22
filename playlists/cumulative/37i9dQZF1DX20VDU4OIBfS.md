@@ -4,7 +4,7 @@
 
 > Temas inolvidables del baúl de los recuerdos.
 
-367 songs - 23 hr 12 min
+368 songs - 23 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,12 +58,12 @@
 | [Cien Años](https://open.spotify.com/track/2PKXhSPdSw8W2KqZZneoy6) | [Infante](https://open.spotify.com/artist/0CUGdPMu03lV9TNf2wjunj) | [30 Grandes De Infante](https://open.spotify.com/album/0AJKbcwcTiVr6bSxZhxIyc) | 3:23 | 2022-08-31 | 2022-11-13 |
 | [Claridad](https://open.spotify.com/track/5iLAU648CgzEupYdWuWdp5) | [Menudo](https://open.spotify.com/artist/3Edq1eT7m7GX0PvHW7yEDF) | [Lo Mejor De Lo Mejor](https://open.spotify.com/album/4dWLbIe5qAFIP3GFnbTTXL) | 4:10 | 2022-01-01 | 2024-01-05 |
 | [Coincidir](https://open.spotify.com/track/3SrhjtntSNqwP70ksoTxmA) | [Guadalupe Pineda](https://open.spotify.com/artist/6xG6oz3V8nZWrwSqpZmPii) | [Vestida De Besos](https://open.spotify.com/album/7pNndCTTAskilWzSjKwaFU) | 5:14 | 2022-01-01 | 2022-07-27 |
-| [Como Han Pasado los Años \(with Julio Iglesias\)](https://open.spotify.com/track/5PuY7F2jpk1yuD3ZNvzT85) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB), [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Una Estrella En El Cielo](https://open.spotify.com/album/5BKMan1vEF6HtWpj8tNceY) | 3:30 | 2022-01-01 |  |
+| [Como Han Pasado los Años \(with Julio Iglesias\)](https://open.spotify.com/track/5PuY7F2jpk1yuD3ZNvzT85) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB), [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Una Estrella En El Cielo](https://open.spotify.com/album/5BKMan1vEF6HtWpj8tNceY) | 3:30 | 2022-01-01 | 2024-02-22 |
 | [Como Tu Mujer](https://open.spotify.com/track/6ljWmeDCoqgIFOVKVmKEmu) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Como Tu Mujer](https://open.spotify.com/album/6OPaypwDjCUgTROopd4OYt) | 4:22 | 2022-06-02 |  |
 | [Como Tu Mujer](https://open.spotify.com/track/2bRXTSQTLX4kFMdoSZq9gw) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Dos Clásicos](https://open.spotify.com/album/70fx6vCTSciR5Mxsn1Tbif) | 4:24 | 2022-01-01 | 2022-07-29 |
 | [Como yo te amo](https://open.spotify.com/track/2N1u2w7dbHt058hi7pIFjW) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Y..\. sigo mi camino](https://open.spotify.com/album/1IWaci4FAbXR9OXmwQFMz3) | 4:39 | 2022-01-01 | 2024-01-05 |
 | [Completamente Enamorados](https://open.spotify.com/track/1YLZnCNHQFiTN8iMii4Itr) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Dos Clásicos](https://open.spotify.com/album/5L8VcdodPKM8cxp4GAsTys) | 4:18 | 2022-01-01 | 2022-07-29 |
-| [Completamente Enamorados](https://open.spotify.com/track/3pz19CAY4yX7FSnTWDu3La) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Tiempo De Vals](https://open.spotify.com/album/5vdBZ9BMY2tZbvxYmKsGUR) | 4:18 | 2022-06-02 |  |
+| [Completamente Enamorados](https://open.spotify.com/track/3pz19CAY4yX7FSnTWDu3La) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Tiempo De Vals](https://open.spotify.com/album/5vdBZ9BMY2tZbvxYmKsGUR) | 4:18 | 2022-06-02 | 2024-02-22 |
 | [Con los Años Que Me Quedan](https://open.spotify.com/track/5UPd6Gyj4aoaTUTlpWSak5) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Mi Tierra](https://open.spotify.com/album/2K2yvhTFeRBZdDboSQzFAJ) | 4:36 | 2022-06-02 | 2024-01-05 |
 | [Con los Años Que Me Quedan](https://open.spotify.com/track/2tD5O7XOMyF9dsnChcN4n2) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Mi Tierra](https://open.spotify.com/album/7tpRFmImdA2lXhq86OLz25) | 4:36 | 2022-01-01 | 2022-07-29 |
 | [Contigo En La Distancia](https://open.spotify.com/track/03oCjV73Utu9KpXrgcqoTJ) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romance](https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP) | 3:23 | 2022-01-01 | 2023-05-28 |
@@ -146,7 +146,7 @@
 | [Guajira guantanamera](https://open.spotify.com/track/2Vy9F0mp0gcj9NxzfVDcQm) | [Compay Segundo](https://open.spotify.com/artist/2wpr4ILskkRzPBGodmbMs1) | [Coleccion](https://open.spotify.com/album/4JnzA5hRujlF3yG3OeOltp) | 5:12 | 2022-01-01 | 2022-11-13 |
 | [Hacer El Amor Con Otro](https://open.spotify.com/track/0GzGiiE8ivQBB9xFILLqqQ) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Lo Esencial De Alejandra Guzman](https://open.spotify.com/album/1FiOOXLenUivRg3JzzGSik) | 4:42 | 2022-01-01 | 2022-07-29 |
 | [Hacer El Amor Con Otro](https://open.spotify.com/track/1OB7cLxxCWA8gbbfjFNNej) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Flor De Piel](https://open.spotify.com/album/4jVhCAGCEhQUyXrMD4owlU) | 4:43 | 2022-06-02 |  |
-| [Hagamos Un Trato](https://open.spotify.com/track/7sj71Y12St8KlvMpBt4K27) | [Amanda Miguel](https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN) | [El Sonido Vol\. 1](https://open.spotify.com/album/4pikNCtnVpJMebAIS5tuYS) | 2:46 | 2022-06-02 | 2024-01-21 |
+| [Hagamos Un Trato](https://open.spotify.com/track/7sj71Y12St8KlvMpBt4K27) | [Amanda Miguel](https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN) | [El Sonido Vol\. 1](https://open.spotify.com/album/4pikNCtnVpJMebAIS5tuYS) | 2:46 | 2022-06-02 |  |
 | [Hagamos Un Trato](https://open.spotify.com/track/5qAzijlq9fWJZaKY9eB5v6) | [Amanda Miguel](https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN) | [El Sonido Vol I](https://open.spotify.com/album/1NKOp3Ct4RzmSGIApAKkS6) | 2:49 | 2022-01-01 | 2022-07-29 |
 | [Hasta Que Me Olvides](https://open.spotify.com/track/3omEFfxFvsQalvtyHE206k) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Grandes Exitos \- US CD version](https://open.spotify.com/album/2RTzSYUsrbecOYJQbElNc9) | 4:41 | 2022-01-01 | 2022-07-29 |
 | [Hasta Que Te Conocí](https://open.spotify.com/track/0LeeZNbW4ysuCgd1xWo5eh) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Pensamientos](https://open.spotify.com/album/1wsHlyDVMoYvfIQI4oZg22) | 7:13 | 2022-01-01 | 2022-07-29 |
@@ -247,6 +247,7 @@
 | [No Basta](https://open.spotify.com/track/3dvw72c1XCh2oznmecISzA) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Mis 30 Mejores Canciones](https://open.spotify.com/album/4OFqUGVCznz7kSWhdpSkN4) | 4:32 | 2022-06-02 | 2024-01-05 |
 | [No Basta](https://open.spotify.com/track/5rrFl6PT4xLuEfyIhkOCq8) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Extranjero](https://open.spotify.com/album/0LEGXjnpoesP0voRwnYF6P) | 4:36 | 2022-01-01 | 2022-07-29 |
 | [No Me Enseñaste](https://open.spotify.com/track/37QuCMe2SASXrkLm5NhT5m) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Thalia](https://open.spotify.com/album/5aHuKZqTY34cuOcIFfohrt) | 4:29 | 2022-01-01 | 2024-01-05 |
+| [No Me Queda Más](https://open.spotify.com/track/6wDNRITsP5tBCImheKBTgi) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Enamorada de Ti](https://open.spotify.com/album/6QT2jnwcvYH2H3fEbXeu0l) | 3:10 | 2024-01-04 |  |
 | [No Me Queda Más](https://open.spotify.com/track/1r28ZDlVxz24Rmy8Sq9REY) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E) | 3:20 | 2022-12-20 | 2024-02-12 |
 | [No soy de aquí](https://open.spotify.com/track/5bQe8LwR93nUV2l3MYA0Fd) | [Alberto Cortez](https://open.spotify.com/artist/0Iww53p8UY2oYtQhfzsSY9) | [Grandes Éxitos: Alberto Cortez](https://open.spotify.com/album/0LPp7seggo5WmDiznnN8dG) | 4:07 | 2022-01-01 | 2022-07-14 |
 | [No Tengo Dinero](https://open.spotify.com/track/6hQgqDq2VeyLYqgHoPG3O0) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [15 Años Baladas Éxitos](https://open.spotify.com/album/6tDHKMrmuTwtAbdFxP4Ki6) | 3:06 | 2022-08-31 | 2022-11-13 |

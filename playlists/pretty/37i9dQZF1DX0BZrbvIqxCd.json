@@ -1,12 +1,12 @@
 {
   "description": "A mix of punk rock to get you through your workout.",
-  "num_followers": 544382,
+  "num_followers": 544441,
   "original_name": "Punk Rock Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZGU5ZmEwODc5NzJkNWNiZGM3ZmIwNzNkMmRjZDhhOTQ2MTUwMThi",
+  "snapshot_id": "MCw3ZTk2ZmQ1YTlhZDRjMzYyYThkNjI3NTg5ZDkwNzhhNmE5MWE3ZmU4",
   "tracks": [
     {
       "added_at": "2020-11-20 21:27:18",
@@ -27,22 +27,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Dookie",
-        "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 181533,
-      "name": "Basket Case",
-      "url": "https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Bleed American",
         "url": "https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 165853,
       "name": "The Middle",
       "url": "https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Dookie",
+        "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 181533,
+      "name": "Basket Case",
+      "url": "https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -483,22 +483,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "I Am Human",
-        "url": "https://open.spotify.com/album/2otpfrHaD6vNXhQPvAbJIU"
-      },
-      "artists": [
-        {
-          "name": "Escape the Fate",
-          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
-        }
-      ],
-      "duration_ms": 187371,
-      "name": "Broken Heart",
-      "url": "https://open.spotify.com/track/0lKNxyT9fCChvnnjthRVkb"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Does This Look Infected?",
         "url": "https://open.spotify.com/album/2kLmv0O8blKeM5HKxLtQrC"
       },
@@ -515,18 +499,18 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Recipe For Hate",
-        "url": "https://open.spotify.com/album/1DMLunJrzPkQws2uQU797l"
+        "name": "I Am Human",
+        "url": "https://open.spotify.com/album/2otpfrHaD6vNXhQPvAbJIU"
       },
       "artists": [
         {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+          "name": "Escape the Fate",
+          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
         }
       ],
-      "duration_ms": 197666,
-      "name": "American Jesus",
-      "url": "https://open.spotify.com/track/5TZn3LQSWwVPnBlPgFKb54"
+      "duration_ms": 187371,
+      "name": "Broken Heart",
+      "url": "https://open.spotify.com/track/0lKNxyT9fCChvnnjthRVkb"
     },
     {
       "added_at": "2021-07-08 22:59:55",
@@ -543,6 +527,22 @@
       "duration_ms": 228831,
       "name": "Never Fight A Man With A Perm",
       "url": "https://open.spotify.com/track/4B4CQ84BBpHK5d02cWKUb0"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Recipe For Hate",
+        "url": "https://open.spotify.com/album/1DMLunJrzPkQws2uQU797l"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 197666,
+      "name": "American Jesus",
+      "url": "https://open.spotify.com/track/5TZn3LQSWwVPnBlPgFKb54"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -787,22 +787,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Old Bones",
-        "url": "https://open.spotify.com/album/56SkNHaKkz6DlQygFvbEWV"
-      },
-      "artists": [
-        {
-          "name": "Broadside",
-          "url": "https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo"
-        }
-      ],
-      "duration_ms": 174146,
-      "name": "Coffee Talk",
-      "url": "https://open.spotify.com/track/7wXays9vrRN3i4wBpBYb2d"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Brain Invaders (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5JxQ55Wvq2kCWtOQ0gSr9h"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 189733,
       "name": "The Separation of Church and Skate",
       "url": "https://open.spotify.com/track/1NVjbk3Q06lEvAPUlTauzr"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Old Bones",
+        "url": "https://open.spotify.com/album/56SkNHaKkz6DlQygFvbEWV"
+      },
+      "artists": [
+        {
+          "name": "Broadside",
+          "url": "https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo"
+        }
+      ],
+      "duration_ms": 174146,
+      "name": "Coffee Talk",
+      "url": "https://open.spotify.com/track/7wXays9vrRN3i4wBpBYb2d"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Blow in the Wind",
-        "url": "https://open.spotify.com/album/23r629pCYWFwsYCFVoMp8m"
-      },
-      "artists": [
-        {
-          "name": "Me First and the Gimme Gimmes",
-          "url": "https://open.spotify.com/artist/0cOVRC8EOwDwXrs3JTrRN5"
-        }
-      ],
-      "duration_ms": 150573,
-      "name": "Wild World",
-      "url": "https://open.spotify.com/track/0SoeiawkEYUJBtQce99lQd"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Nowhere Generation",
         "url": "https://open.spotify.com/album/4t8eylrNR3Z5kYc7VEENLW"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 233280,
       "name": "Broken Dreams, Inc.",
       "url": "https://open.spotify.com/track/3t6D8D5grBCBpuPiRt2GCj"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Blow in the Wind",
+        "url": "https://open.spotify.com/album/23r629pCYWFwsYCFVoMp8m"
+      },
+      "artists": [
+        {
+          "name": "Me First and the Gimme Gimmes",
+          "url": "https://open.spotify.com/artist/0cOVRC8EOwDwXrs3JTrRN5"
+        }
+      ],
+      "duration_ms": 150573,
+      "name": "Wild World",
+      "url": "https://open.spotify.com/track/0SoeiawkEYUJBtQce99lQd"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Composure",
-        "url": "https://open.spotify.com/album/574qjeKnYHIU246L4MMNbX"
-      },
-      "artists": [
-        {
-          "name": "Real Friends",
-          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
-        }
-      ],
-      "duration_ms": 193280,
-      "name": "Me First",
-      "url": "https://open.spotify.com/track/72yApMP8fkW15lWdMjerBp"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Love and Loathing",
         "url": "https://open.spotify.com/album/7rC6nRIxTCwWlO9mHmNLwK"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 195866,
       "name": "Moving Boxes",
       "url": "https://open.spotify.com/track/0bP8VDZQ3eXgHofaXT88Cr"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Composure",
+        "url": "https://open.spotify.com/album/574qjeKnYHIU246L4MMNbX"
+      },
+      "artists": [
+        {
+          "name": "Real Friends",
+          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
+        }
+      ],
+      "duration_ms": 193280,
+      "name": "Me First",
+      "url": "https://open.spotify.com/track/72yApMP8fkW15lWdMjerBp"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
+        "name": "Great Heights & Nosedives",
+        "url": "https://open.spotify.com/album/37i1BfSo4FQMHtR7zzQpBx"
+      },
+      "artists": [
+        {
+          "name": "ROAM",
+          "url": "https://open.spotify.com/artist/0q74f5UdR3j14Lis4AKKxq"
+        }
+      ],
+      "duration_ms": 160831,
+      "name": "Playing Fiction",
+      "url": "https://open.spotify.com/track/2aG7MPedIAt6k66Q2BBaHT"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
         "name": "Afterburner",
         "url": "https://open.spotify.com/album/0K8VeEO164P3ctndsCzs6U"
       },
@@ -1355,6 +1371,38 @@
       "duration_ms": 221241,
       "name": "One in a Million",
       "url": "https://open.spotify.com/track/3FadCH3vql11UfyCLSXiU4"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Composure",
+        "url": "https://open.spotify.com/album/574qjeKnYHIU246L4MMNbX"
+      },
+      "artists": [
+        {
+          "name": "Real Friends",
+          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
+        }
+      ],
+      "duration_ms": 185493,
+      "name": "From The Outside",
+      "url": "https://open.spotify.com/track/7LAZoVMv0qo20VpimTOBsi"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Wake Up, Sunshine",
+        "url": "https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 180599,
+      "name": "Sleeping In",
+      "url": "https://open.spotify.com/track/402Ecma69MRxeQK6ml6YbI"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1391,54 +1439,6 @@
       "duration_ms": 164485,
       "name": "My Town",
       "url": "https://open.spotify.com/track/5GgWSPOy9j3vbcfXmUTbA7"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "Wake Up, Sunshine",
-        "url": "https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 180599,
-      "name": "Sleeping In",
-      "url": "https://open.spotify.com/track/402Ecma69MRxeQK6ml6YbI"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "Composure",
-        "url": "https://open.spotify.com/album/574qjeKnYHIU246L4MMNbX"
-      },
-      "artists": [
-        {
-          "name": "Real Friends",
-          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
-        }
-      ],
-      "duration_ms": 185493,
-      "name": "From The Outside",
-      "url": "https://open.spotify.com/track/7LAZoVMv0qo20VpimTOBsi"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "Great Heights & Nosedives",
-        "url": "https://open.spotify.com/album/37i1BfSo4FQMHtR7zzQpBx"
-      },
-      "artists": [
-        {
-          "name": "ROAM",
-          "url": "https://open.spotify.com/artist/0q74f5UdR3j14Lis4AKKxq"
-        }
-      ],
-      "duration_ms": 160831,
-      "name": "Playing Fiction",
-      "url": "https://open.spotify.com/track/2aG7MPedIAt6k66Q2BBaHT"
     },
     {
       "added_at": "2020-11-20 21:27:18",

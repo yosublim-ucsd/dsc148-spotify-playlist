@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Jonas Saalbach, Guzy
 
-[Spotify](https://open.spotify.com/user/spotify) - 630,734 likes - 90 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 630,808 likes - 90 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 89 | [Warp](https://open.spotify.com/track/6NXF6YSHCVmhEgvEUQAchL) | [Theo Kottis](https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO) | [Lighthouse](https://open.spotify.com/album/383b21bv16Pn9XzTadwTEO) | 5:30 |
 | 90 | [A Bit of You](https://open.spotify.com/track/6DdWC0a5qBGedeEmkvklI9) | [Max von Sternberg](https://open.spotify.com/artist/47Jz4Lwu4QGJSp1pxKaXLJ) | [A Bit of You](https://open.spotify.com/album/1Rv05O8klNPAkEcQXridKm) | 7:44 |
 
-Snapshot ID: `MCwxMDJmMDM0MWNkNjIzMzI4YTFkOGZmN2YxNzczNmE1MDk2MWJjNzI3`
+Snapshot ID: `MCwwMDU0YTRjZTcxYjI3ODc4NTQ4NmRmNDU2NGUxOTUzODI0MzVjZjJk`

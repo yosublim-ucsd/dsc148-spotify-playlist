@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzh3WlsCZMx.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://open.spotify.com/playlist/5FWhibjoWhSsyfQveXzmRv?si=0a61027ee6a34d36">HBO's Rap Sh!t</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,905 likes - 48 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,939 likes - 48 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzh3WlsCZMx.md) - [plain]
 | 17 | [PRESSURE](https://open.spotify.com/track/4VzhdfRpM2sQjhzwYWjd30) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [\- TRAGEDY +](https://open.spotify.com/album/4UNZOq7e8WjnfaYm2rkltE) | 2:17 |
 | 18 | [Crazy](https://open.spotify.com/track/2b1MCbfwRZ1teOX1vSm4Xt) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Crazy](https://open.spotify.com/album/2a8cs4ziDk29KUAdUhHwQB) | 2:14 |
 | 19 | [Hood Bitch](https://open.spotify.com/track/1QncxlVV6UqA10Dh7pCcj9) | [Fam0us.Twinsss](https://open.spotify.com/artist/5Nrl4fJ98iiMiTqhKjy8ZL) | [Hood Bitch](https://open.spotify.com/album/7wkI0tGOfXLdfP16Khkrvt) | 2:13 |
-| 20 | [Nann Nigga](https://open.spotify.com/track/7d9I42jF759n5HuUeoulzR) | [Trick Daddy](https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25) | [www.thug.com](https://open.spotify.com/album/4HMN5pRuHF88SzZoXtJsHM) | 2:47 |
-| 21 | [Banana Klip](https://open.spotify.com/track/1MIlfxvF1shdd8g24DKwAu) | [Bali Baby](https://open.spotify.com/artist/5hPcCMWgf6Qu9vUQVySwcY) | [Banana Klip](https://open.spotify.com/album/1Md4iZ92jI13giuaNYezyL) | 1:57 |
+| 20 | [Banana Klip](https://open.spotify.com/track/1MIlfxvF1shdd8g24DKwAu) | [Bali Baby](https://open.spotify.com/artist/5hPcCMWgf6Qu9vUQVySwcY) | [Banana Klip](https://open.spotify.com/album/1Md4iZ92jI13giuaNYezyL) | 1:57 |
+| 21 | [Nann Nigga](https://open.spotify.com/track/7d9I42jF759n5HuUeoulzR) | [Trick Daddy](https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25) | [www.thug.com](https://open.spotify.com/album/4HMN5pRuHF88SzZoXtJsHM) | 2:47 |
 | 22 | [BIRDZ FEAT\. RICK ROSS](https://open.spotify.com/track/0pA0rcw7ci5X5XHrnBpkdn) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [ZUU](https://open.spotify.com/album/6PkSBdx19zarn4ae1D08gA) | 3:24 |
 | 23 | [Sneaky Link Shemix](https://open.spotify.com/track/2tc16SiowJOcfHRHBwH9F1) | [Kayla Nicole](https://open.spotify.com/artist/0jL5A3JBu46MsYrr5JMPuT), [Queen Key](https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR) | [Sneaky Link Shemix](https://open.spotify.com/album/6yjODlGE0dgBbsNUSrfrnb) | 1:38 |
 | 24 | [Got Dem Racks](https://open.spotify.com/track/5bHuDZwLcuXTlFMj2XPk0S) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [January 10th](https://open.spotify.com/album/3pD5nHq65PfGJtd5aMNPUj) | 3:39 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzh3WlsCZMx.md) - [plain]
 | 47 | [Gucci Bag](https://open.spotify.com/track/3pNeE3ImWzplc0tnUpmh2a) | [Big Jade](https://open.spotify.com/artist/50ZeZoB1p1mg7V2iGTI6od) | [Pressure](https://open.spotify.com/album/7ChOeB6OLdPZcNyBNMboB8) | 2:15 |
 | 48 | [Hoodrat \(feat\. AzSwaye & Pjay\)](https://open.spotify.com/track/0YrYVhq0EukTxojdqLh2Sj) | [Rucci](https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA), [AzChike](https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw), [Boosie Badazz](https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg), [AzSwaye](https://open.spotify.com/artist/5tg5JDw7tQiZdJCShs9rk9), [Pjay](https://open.spotify.com/artist/6rB1jv0emRIkbLluXskjt9) | [Hoodrat \(feat\. AzSwaye & Pjay\)](https://open.spotify.com/album/4aBeGq3hlU2z7c6EvKjHpc) | 2:36 |
 
-Snapshot ID: `MCw5M2QyYTlmYTMwZmUxNTgzYWE0MWEwYWRjZWVjZWU4NjUxYTBjNGMw`
+Snapshot ID: `MCw2OWQ3OGQ1M2M0NmY4MTc5YmYwOGVkNmM5ZWUzMTJkMDVmOWJhNmZl`

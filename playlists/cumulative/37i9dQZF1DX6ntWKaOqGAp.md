@@ -4,7 +4,7 @@
 
 > The biggest Japanese rock hits right now\.  Cover: Age Factory　日本ロックシーンの最新話題曲をひとつのプレイリストに。
 
-1,309 songs - 3 day 10 hr 1 min
+1,312 songs - 3 day 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,8 @@
 | [Black Jean Boogie](https://open.spotify.com/track/2PlKI5l5CZaUNHhPAT3tqp) | [The Ravens](https://open.spotify.com/artist/3me3XE0gkkSvPUQAZtdP1r) | [Black Jean Boogie](https://open.spotify.com/album/4a3ANHYDPrUDZScH8lqrO0) | 3:47 | 2023-07-25 | 2023-09-01 |
 | [Black Jean Boogie](https://open.spotify.com/track/6ooCR2BIdsMSzddhiElEnp) | [The Ravens](https://open.spotify.com/artist/3me3XE0gkkSvPUQAZtdP1r) | [Black Jean Boogie](https://open.spotify.com/album/5iEulwmiFqO7uZMeYNiVZT) | 3:47 | 2023-07-25 | 2023-07-27 |
 | [Blood in blue](https://open.spotify.com/track/4qfi7sCX4w5dZiIltgkPHB) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [Blood in blue](https://open.spotify.com/album/0twJvdID2xF7NZvAb3K1Gx) | 2:45 | 2023-10-17 | 2023-11-16 |
-| [bloom](https://open.spotify.com/track/1f37xjUqPlrDvA6MdQoAis) | [ネクライトーキー](https://open.spotify.com/artist/45ew0KWgCA7evVgCydrZws) | [bloom](https://open.spotify.com/album/3M1wHslRzr0CVK4oYyCV0K) | 3:17 | 2023-11-21 |  |
+| [bloom](https://open.spotify.com/track/1f37xjUqPlrDvA6MdQoAis) | [ネクライトーキー](https://open.spotify.com/artist/45ew0KWgCA7evVgCydrZws) | [bloom](https://open.spotify.com/album/3M1wHslRzr0CVK4oYyCV0K) | 3:17 | 2023-11-21 | 2024-02-22 |
+| [bloom](https://open.spotify.com/track/6Fw6xUStR2gs4gmO4tTexr) | [ネクライトーキー](https://open.spotify.com/artist/45ew0KWgCA7evVgCydrZws) | [TORCH](https://open.spotify.com/album/41BnFTQvGzIg1JDTuBaXVp) | 3:17 | 2024-02-20 |  |
 | [Blooming the Tank\-top](https://open.spotify.com/track/2vBvV18PwrlUhTm9jaxhh6) | [Yabai T\-Shirts Yasan](https://open.spotify.com/artist/3GP0RQRnBvpYVgdVYfcaGS) | [Tank\-top Flower for Friends](https://open.spotify.com/album/2Ll3DZYOR4UKeswV5TADhu) | 2:12 | 2023-02-28 | 2023-04-05 |
 | [BLOW](https://open.spotify.com/track/3OSEQtAIxVzQ8iLzxgOXoi) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2), [Safeplanet](https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw) | [BLOW](https://open.spotify.com/album/1jCajyPWXNO04KBS6jDgGC) | 3:33 | 2023-09-21 | 2023-10-18 |
 | [BLUE SUMMERTIME BLUES](https://open.spotify.com/track/3q7ZMjN5YmRlpXFEMWtXeA) | [ZOOKARADERU](https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp) | [BLUE SUMMERTIME BLUES](https://open.spotify.com/album/5LOEXezau5aKQhGP8OW7Ry) | 3:50 | 2023-07-11 | 2023-08-30 |
@@ -358,7 +359,8 @@
 | [Lively Christmas](https://open.spotify.com/track/6r3CoPret0z1iBjUEnnlB8) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [Lively Christmas](https://open.spotify.com/album/0W6Ot4XHxqDZbZGLGCjRrP) | 3:18 | 2023-11-21 | 2023-11-23 |
 | [Lonely Road](https://open.spotify.com/track/4vPDL8NtivnxqASZeIqKOd) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD) | [The Roller Skating Tour](https://open.spotify.com/album/4iyqMZ78D9rMdbSJl6jhtO) | 3:47 | 2023-12-19 | 2024-02-07 |
 | [Lonely Road](https://open.spotify.com/track/6OeiBwJQpmPpxS0p89RMgr) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD) | [The Roller Skating Tour](https://open.spotify.com/album/66K7Kpt4whfu9YqlWBVIEI) | 3:47 | 2023-12-19 | 2023-12-21 |
-| [Lonely star](https://open.spotify.com/track/0Cwn9uG2MvqkZ7tQ9uk4yd) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [Lonely star](https://open.spotify.com/album/5pE7WbMog2Ask6PG54qvAc) | 3:47 | 2024-01-30 |  |
+| [Lonely star](https://open.spotify.com/track/0Cwn9uG2MvqkZ7tQ9uk4yd) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [Lonely star](https://open.spotify.com/album/5pE7WbMog2Ask6PG54qvAc) | 3:47 | 2024-01-30 | 2024-02-22 |
+| [Lonely star](https://open.spotify.com/track/3RB4JDN3ctAJOgd01vpjDi) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [Songs](https://open.spotify.com/album/5KCNofx4mr0Blk7WXGiPXU) | 3:47 | 2024-02-20 |  |
 | [Loss\(Angels\)](https://open.spotify.com/track/2DZRkxGAsvcyPysbuOkUc3) | [GRAPEVINE](https://open.spotify.com/artist/7LPp4MiQ8yxVUxhxipe0mm) | [Loss\(Angels\)](https://open.spotify.com/album/5RDd9nWHYnUtK8rWROA6Rc) | 4:01 | 2023-12-05 | 2023-12-07 |
 | [Loss\(Angels\)](https://open.spotify.com/track/2oHluzjZJkIA28X5H1zLKG) | [GRAPEVINE](https://open.spotify.com/artist/7LPp4MiQ8yxVUxhxipe0mm) | [Loss\(Angels\)](https://open.spotify.com/album/5qGkEHJOnzfmNCeDdlzvVA) | 4:01 | 2023-12-05 | 2024-01-10 |
 | [LOST](https://open.spotify.com/track/4MqmrcRFEFv2xkQLZWaCWf) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [miss you](https://open.spotify.com/album/2luSxY6Y2fyFA9nK3OzVts) | 3:43 | 2023-11-07 | 2023-12-13 |
@@ -459,7 +461,8 @@
 | [Oujitsu](https://open.spotify.com/track/7l1U8t0MjRDFkQyJuTP6rJ) | [moon drop](https://open.spotify.com/artist/1fqzuhLXIimUwLTU6HzBse) | [Kimi ni Mita Kisetsu](https://open.spotify.com/album/76m0A0Q2uRcOh5bZ5pxR9i) | 3:42 | 2024-02-13 |  |
 | [Over the rain\~Hikari no hashi\~ \- Ryu\-Take 2023 ver.](https://open.spotify.com/track/7cjE6T1u6wqUY3jtNW3g95) | [flumpool](https://open.spotify.com/artist/5Kpt1mryjiwHa9goYPQG1o) | [Over the rain\~Hikari no hashi\~ \(Ryu\-Take 2023 ver.\)](https://open.spotify.com/album/3gsC9sx5X4FKPG30MPD8BR) | 4:38 | 2023-08-15 | 2023-09-15 |
 | [Page One](https://open.spotify.com/track/3yWXrzzmQFMxOe9bVcQVJ2) | [reGretGirl](https://open.spotify.com/artist/5uvz2VwV3ubUy1Tm1UOrLs) | [Page One](https://open.spotify.com/album/3w754CuU5wKeIVJSn0IEa8) | 2:58 | 2023-07-25 | 2023-08-30 |
-| [PALEHELL](https://open.spotify.com/track/2uiYaLjZv8nRFzL0utxSBd) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa) | [PALEHELL](https://open.spotify.com/album/061Fln1SY6RputuFt6GP5N) | 3:41 | 2024-02-20 |  |
+| [PALEHELL](https://open.spotify.com/track/2UvREDGrD9wA4fcSjcRDpg) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa) | [PALEHELL](https://open.spotify.com/album/4RJm4nESvtZRn9MV3sOs9V) | 3:41 | 2024-02-20 |  |
+| [PALEHELL](https://open.spotify.com/track/2uiYaLjZv8nRFzL0utxSBd) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa) | [PALEHELL](https://open.spotify.com/album/061Fln1SY6RputuFt6GP5N) | 3:41 | 2024-02-20 | 2024-02-22 |
 | [panzamasuto](https://open.spotify.com/track/1zVMbhWohOGBTxK5SPd83c) | [Singer's High](https://open.spotify.com/artist/4xI10jfncyX27yytrVJ2Ar) | [Singer's High](https://open.spotify.com/album/7IMFRkZNqf5y7cEZvE7cky) | 2:52 | 2023-11-21 | 2023-12-20 |
 | [Paradox](https://open.spotify.com/track/6A7sTvj68RJAVgTduJEQnA) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [Paradox](https://open.spotify.com/album/5CVLZcnzPNgpSUqJA71HYz) | 4:01 | 2023-04-04 | 2023-06-21 |
 | [Paradox](https://open.spotify.com/track/0Xz3vuo3cINtRsZWMsxZUx) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh), [Bonnie Fraser](https://open.spotify.com/artist/4lPsOekQkRVNqFikwNd7jZ) | [Paradox](https://open.spotify.com/album/33O3I5EWGkW54jeNWW1lZZ) | 4:01 | 2023-06-20 | 2023-09-06 |

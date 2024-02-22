@@ -1,5 +1,5 @@
 {
-  "2024-02-21": 350731,
+  "2024-02-22": 350838,
   "date_first_scraped": "2021-12-21",
   "description": "For the Hard Rock and full-volume lovers, new and recent favorites. Cover: FEVER 333",
   "name": "Hard Rock",
@@ -477,6 +477,24 @@
       "duration_ms": 219468,
       "name": "Artificial",
       "url": "https://open.spotify.com/track/2EU5LeESSJgbYKCc5l4rms"
+    },
+    {
+      "album": {
+        "name": "If The Sky Came Down",
+        "url": "https://open.spotify.com/album/0Af2e0rKhhsyAz83qsZzIF"
+      },
+      "artists": [
+        {
+          "name": "Lost Society",
+          "url": "https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312406,
+      "name": "Awake",
+      "url": "https://open.spotify.com/track/6EZK2Ir2ottEL0eMiXO47f"
     },
     {
       "album": {
@@ -1249,7 +1267,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 212444,
       "name": "CAST AWAY",
       "url": "https://open.spotify.com/track/6o0reBUukKomzYBRL6gAr4"

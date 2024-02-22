@@ -1,12 +1,12 @@
 {
   "description": "Folksy takes on your favorite tracks. Cover: Norah Jones & Remi Wolf",
-  "num_followers": 465379,
+  "num_followers": 465400,
   "original_name": "Folksy Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZDFjYjUxMDBmMmNmODMzY2YzZjQzNjEwOTQ5MzFkMzc0ZjliMjNi",
+  "snapshot_id": "MCwzNzhjZDUxODVkZTU5YTQ1ZTRjMTI1NjkwNDBmNjA3NTc4OGYwMzI3",
   "tracks": [
     {
       "added_at": "2024-02-02 05:00:00",
@@ -211,22 +211,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "If I Was (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2VxNr0ZeGhWJ8rQNe4d8vS"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 192053,
-      "name": "I'm on Fire",
-      "url": "https://open.spotify.com/track/14WxdK01IyDl3bumvqufxH"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Traveler",
         "url": "https://open.spotify.com/album/0Ylhn0L6WD0SEMbF8hYtNT"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 245106,
       "name": "The Boxer feat. Mumford & Sons and Paul Simon",
       "url": "https://open.spotify.com/track/1GXMLU8qafDOavxXIQPoag"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "If I Was (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2VxNr0ZeGhWJ8rQNe4d8vS"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 192053,
+      "name": "I'm on Fire",
+      "url": "https://open.spotify.com/track/14WxdK01IyDl3bumvqufxH"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -923,22 +923,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Farewell Transmission b/w The Dark Don\u2019t Hide It",
-        "url": "https://open.spotify.com/album/1ArXidz2XpohzAXAFYm2tF"
+        "name": "Listen To The Radio",
+        "url": "https://open.spotify.com/album/6RdQfXUPxhbauUanaotuJg"
       },
       "artists": [
         {
-          "name": "Kevin Morby",
-          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
         },
         {
-          "name": "Waxahatchee",
-          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
         }
       ],
-      "duration_ms": 417533,
-      "name": "Farewell Transmission",
-      "url": "https://open.spotify.com/track/6QhhnBsVJ8WepUb1KLTFFH"
+      "duration_ms": 240386,
+      "name": "Listen To The Radio",
+      "url": "https://open.spotify.com/track/6n9PvbAoQtDe3AEMbS8v70"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -955,6 +955,26 @@
       "duration_ms": 179234,
       "name": "Caves",
       "url": "https://open.spotify.com/track/2cphb6rybh6cHDiTqOI8cd"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Farewell Transmission b/w The Dark Don\u2019t Hide It",
+        "url": "https://open.spotify.com/album/1ArXidz2XpohzAXAFYm2tF"
+      },
+      "artists": [
+        {
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+        },
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        }
+      ],
+      "duration_ms": 417533,
+      "name": "Farewell Transmission",
+      "url": "https://open.spotify.com/track/6QhhnBsVJ8WepUb1KLTFFH"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -979,26 +999,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Shine a Light: Field Recordings from the Great American Railroad",
-        "url": "https://open.spotify.com/album/3Nq4M2jM1sZT5Pgv33qPzz"
-      },
-      "artists": [
-        {
-          "name": "Billy Bragg",
-          "url": "https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO"
-        },
-        {
-          "name": "Joe Henry",
-          "url": "https://open.spotify.com/artist/0TeVWuc8Sw05X4Qkl3AA5r"
-        }
-      ],
-      "duration_ms": 219672,
-      "name": "Gentle on My Mind",
-      "url": "https://open.spotify.com/track/6XSXcrTzgowqsQo3AioT9o"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "For What It's Worth",
         "url": "https://open.spotify.com/album/2rv7WyO5KUv5FIgmn7VEji"
       },
@@ -1015,22 +1015,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Listen To The Radio",
-        "url": "https://open.spotify.com/album/6RdQfXUPxhbauUanaotuJg"
+        "name": "Shine a Light: Field Recordings from the Great American Railroad",
+        "url": "https://open.spotify.com/album/3Nq4M2jM1sZT5Pgv33qPzz"
       },
       "artists": [
         {
-          "name": "Billy Strings",
-          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+          "name": "Billy Bragg",
+          "url": "https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO"
         },
         {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+          "name": "Joe Henry",
+          "url": "https://open.spotify.com/artist/0TeVWuc8Sw05X4Qkl3AA5r"
         }
       ],
-      "duration_ms": 240386,
-      "name": "Listen To The Radio",
-      "url": "https://open.spotify.com/track/6n9PvbAoQtDe3AEMbS8v70"
+      "duration_ms": 219672,
+      "name": "Gentle on My Mind",
+      "url": "https://open.spotify.com/track/6XSXcrTzgowqsQo3AioT9o"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Other People's Songs",
-        "url": "https://open.spotify.com/album/5287cTjfvK8SVYe6cXsEUD"
-      },
-      "artists": [
-        {
-          "name": "The Ballroom Thieves",
-          "url": "https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC"
-        }
-      ],
-      "duration_ms": 288764,
-      "name": "Don\u2019t It Feel Good",
-      "url": "https://open.spotify.com/track/54MnItgRx6drIxYDu9Sb1d"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Lennon Bermuda",
         "url": "https://open.spotify.com/album/5oprSAJ9hPKahkUBBSbOQj"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 228320,
       "name": "Crossing Muddy Waters",
       "url": "https://open.spotify.com/track/7jb1ZSirsHV1H2cLTNbqDX"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Other People's Songs",
+        "url": "https://open.spotify.com/album/5287cTjfvK8SVYe6cXsEUD"
+      },
+      "artists": [
+        {
+          "name": "The Ballroom Thieves",
+          "url": "https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC"
+        }
+      ],
+      "duration_ms": 288764,
+      "name": "Don\u2019t It Feel Good",
+      "url": "https://open.spotify.com/track/54MnItgRx6drIxYDu9Sb1d"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1271,6 +1271,38 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3r2nsltTqzo00OsH4aty5a"
+      },
+      "artists": [
+        {
+          "name": "I'm With Her",
+          "url": "https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr"
+        }
+      ],
+      "duration_ms": 278611,
+      "name": "Hannah Hunt - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2es17WUR55CXoDIcKtT0eZ"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "NUDES",
+        "url": "https://open.spotify.com/album/3y4k3cJW83i3KDSDJnPOX8"
+      },
+      "artists": [
+        {
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+        }
+      ],
+      "duration_ms": 235871,
+      "name": "Right Down The Line",
+      "url": "https://open.spotify.com/track/2QkrXvBAfhE4QAr9Y5kOvh"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "In the Magic Hour Solo Sessions",
         "url": "https://open.spotify.com/album/1XxOQRUB7eOOQWryZM3YZM"
       },
@@ -1335,22 +1367,6 @@
       "duration_ms": 218760,
       "name": "Perfect Places - Live From BBC Radio 2",
       "url": "https://open.spotify.com/track/2hUyNUvpSlNBmYKCUNCLu5"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3r2nsltTqzo00OsH4aty5a"
-      },
-      "artists": [
-        {
-          "name": "I'm With Her",
-          "url": "https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr"
-        }
-      ],
-      "duration_ms": 278611,
-      "name": "Hannah Hunt - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2es17WUR55CXoDIcKtT0eZ"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1427,22 +1443,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "In the Magic Hour Solo Sessions",
-        "url": "https://open.spotify.com/album/1XxOQRUB7eOOQWryZM3YZM"
-      },
-      "artists": [
-        {
-          "name": "Aoife O'Donovan",
-          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
-        }
-      ],
-      "duration_ms": 201160,
-      "name": "You Turn Me On, I'm a Radio - Acoustic",
-      "url": "https://open.spotify.com/track/7rP4vwl8DJ5l7xHMmRGBYO"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "A Case of You",
         "url": "https://open.spotify.com/album/4Kac74ulpXDAqVyvnyzsna"
       },
@@ -1459,18 +1459,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "NUDES",
-        "url": "https://open.spotify.com/album/3y4k3cJW83i3KDSDJnPOX8"
+        "name": "In the Magic Hour Solo Sessions",
+        "url": "https://open.spotify.com/album/1XxOQRUB7eOOQWryZM3YZM"
       },
       "artists": [
         {
-          "name": "Lucius",
-          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
         }
       ],
-      "duration_ms": 235871,
-      "name": "Right Down The Line",
-      "url": "https://open.spotify.com/track/2QkrXvBAfhE4QAr9Y5kOvh"
+      "duration_ms": 201160,
+      "name": "You Turn Me On, I'm a Radio - Acoustic",
+      "url": "https://open.spotify.com/track/7rP4vwl8DJ5l7xHMmRGBYO"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1531,26 +1531,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Folkocracy",
-        "url": "https://open.spotify.com/album/4FYVErCjwVvkO3XpDFtOQ2"
-      },
-      "artists": [
-        {
-          "name": "Rufus Wainwright",
-          "url": "https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8"
-        },
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 262333,
-      "name": "Heading for Home (feat. John Legend)",
-      "url": "https://open.spotify.com/track/3a4sXUNuCqW8lpv7cNXMU7"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "For Better, Or Worse",
         "url": "https://open.spotify.com/album/1bf1EYVB9GkgDkbGTrSiyT"
       },
@@ -1567,6 +1547,26 @@
       "duration_ms": 175334,
       "name": "My Happiness (feat. Fiona Prine)",
       "url": "https://open.spotify.com/track/0IxA2nFzbC3yvUKcDTcyqM"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Folkocracy",
+        "url": "https://open.spotify.com/album/4FYVErCjwVvkO3XpDFtOQ2"
+      },
+      "artists": [
+        {
+          "name": "Rufus Wainwright",
+          "url": "https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8"
+        },
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 262333,
+      "name": "Heading for Home (feat. John Legend)",
+      "url": "https://open.spotify.com/track/3a4sXUNuCqW8lpv7cNXMU7"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Surrounded by the Sound: Ten Covers by Eddie Berman",
-        "url": "https://open.spotify.com/album/7FNhjBeQyClK0vJTIq5Tbe"
-      },
-      "artists": [
-        {
-          "name": "Eddie Berman",
-          "url": "https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql"
-        }
-      ],
-      "duration_ms": 253493,
-      "name": "You Can Call Me Al",
-      "url": "https://open.spotify.com/track/1SQhbY8R2c10L76ZDtHTgm"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Unknown Legend",
         "url": "https://open.spotify.com/album/6s1d1rRBynFB21kGCXvEZH"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 248360,
       "name": "Unknown Legend",
       "url": "https://open.spotify.com/track/4Tk20ApEMHXzS1j2r6Glgr"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Surrounded by the Sound: Ten Covers by Eddie Berman",
+        "url": "https://open.spotify.com/album/7FNhjBeQyClK0vJTIq5Tbe"
+      },
+      "artists": [
+        {
+          "name": "Eddie Berman",
+          "url": "https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql"
+        }
+      ],
+      "duration_ms": 253493,
+      "name": "You Can Call Me Al",
+      "url": "https://open.spotify.com/track/1SQhbY8R2c10L76ZDtHTgm"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1895,6 +1895,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Live Forever: A Tribute To Billy Joe Shaver",
+        "url": "https://open.spotify.com/album/357DuDjcyqJ0wHxX4uPPL4"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff",
+          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
+        }
+      ],
+      "duration_ms": 171480,
+      "name": "You Asked Me To",
+      "url": "https://open.spotify.com/track/3REizsPkpELxQkvl9EZNiE"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Mr. Bojangles",
         "url": "https://open.spotify.com/album/1MjwfqR2h1WNd01VxPj0SC"
       },
@@ -1923,22 +1939,6 @@
       "duration_ms": 197540,
       "name": "If You Could Read My Mind",
       "url": "https://open.spotify.com/track/1AcMGe32z1DoV61PPCFTFn"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Live Forever: A Tribute To Billy Joe Shaver",
-        "url": "https://open.spotify.com/album/357DuDjcyqJ0wHxX4uPPL4"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Rateliff",
-          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
-        }
-      ],
-      "duration_ms": 171480,
-      "name": "You Asked Me To",
-      "url": "https://open.spotify.com/track/3REizsPkpELxQkvl9EZNiE"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1975,18 +1975,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4OUg8wmqAxUfSN05i4um9Y"
+        "name": "...but i'd rather be with you, too",
+        "url": "https://open.spotify.com/album/5rBVASdotOwS4z4a4LAbmS"
       },
       "artists": [
         {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 138383,
-      "name": "Simple Man - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4v5VnidREtwYVOTF7wXY87"
+      "duration_ms": 197790,
+      "name": "Strong Enough",
+      "url": "https://open.spotify.com/track/69qLjFRZbz7V7uM13DtmOW"
     }
   ],
   "unique_name": "Folksy Covers",

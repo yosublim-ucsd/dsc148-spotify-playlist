@@ -4,7 +4,7 @@
 
 > New and trending hip\-hop from around the world\. Cover: Little Simz
 
-285 songs - 14 hr 1 min
+286 songs - 14 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Algo Muy Raro](https://open.spotify.com/track/1iolp9g0bzkeryDL4t2ub0) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Algo Muy Raro](https://open.spotify.com/album/5jOrASa3lROVzsv8K1pCbO) | 3:09 | 2024-01-26 |  |
 | [All Night](https://open.spotify.com/track/4HPihl5dbwlsp1c6SKNccd) | [Prinz](https://open.spotify.com/artist/0tOWWVeVRQUE7nS0J43Zm9) | [All Night](https://open.spotify.com/album/7b2eJfHcAyf3THiv0MAwRu) | 2:16 | 2023-10-13 | 2023-11-30 |
 | [Aller sans retour](https://open.spotify.com/track/4RTtj1vGu82hjp3cDtiqOj) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Aller sans retour](https://open.spotify.com/album/2CGmqtcGHkQrZkyw8NfSQN) | 2:56 | 2024-01-12 | 2024-01-27 |
-| [Amiri jeans](https://open.spotify.com/track/2b0nACGnsNKVvJhmhOjewh) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Frères Ennemis](https://open.spotify.com/album/1HLUjcUDDsszfj7OIl6LGh) | 2:59 | 2024-01-26 |  |
+| [Amiri jeans](https://open.spotify.com/track/2b0nACGnsNKVvJhmhOjewh) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Frères Ennemis](https://open.spotify.com/album/1HLUjcUDDsszfj7OIl6LGh) | 2:59 | 2024-01-26 | 2024-02-22 |
+| [Amiri jeans](https://open.spotify.com/track/4YCvIRnKeOQfKbJXNWKZw5) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Frères Ennemis](https://open.spotify.com/album/2BBiqL9LvtK9Dk9aYBEsGC) | 2:59 | 2024-02-16 |  |
 | [And We](https://open.spotify.com/track/2bKnka3kbhgqGb4pCHPmYl) | [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I) | [And We](https://open.spotify.com/album/1LsthOymdj0WByKPShsB3W) | 2:41 | 2023-08-04 | 2024-01-13 |
 | [Anders](https://open.spotify.com/track/5TYmnScjaRecWuBqEaA7S5) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg), [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [Anders](https://open.spotify.com/album/5AXp6zh5m2lyBV5OTH5iwq) | 2:35 | 2023-11-29 | 2024-01-13 |
 | [Another Vibe \(feat\. Omah Lay\)](https://open.spotify.com/track/3LChzqpjz7F8niPmwuJ6q3) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Seductive](https://open.spotify.com/album/7hei2uspjzTH1oZA4xo8zz) | 2:43 | 2024-02-09 | 2024-02-16 |

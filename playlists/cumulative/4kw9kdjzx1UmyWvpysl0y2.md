@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-663 songs - 1 day 14 hr 22 min
+664 songs - 1 day 14 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [begin again](https://open.spotify.com/track/2HzjHQ9QEZnYl3sDbWmhQo) | [zensei ゼンセー](https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63), [Mr\. Hilroy](https://open.spotify.com/artist/1SDhLZ6y3x0OEGEHZ96K2T) | [wonder years pt\. 1](https://open.spotify.com/album/4TAy3EjqjNvl5LtVWAH4gM) | 3:53 | 2022-03-23 | 2022-06-04 |
 | [Behind Your Eyes](https://open.spotify.com/track/1hV1ZlD4WGJzBZ4ScGJKdy) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL), [Juneau](https://open.spotify.com/artist/4GqIsFywX1zYRiXreoyU34) | [Behind Your Eyes](https://open.spotify.com/album/21vde0XQf3KcIL3rbyb4mf) | 2:26 | 2021-11-19 | 2022-02-08 |
 | [Between the Lines](https://open.spotify.com/track/4i3yA5Fw7yDsm7WtXXbFKK) | [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs) | [Between the Lines](https://open.spotify.com/album/2ZfG7t9gQhlSA9fHvyqvta) | 4:35 | 2022-02-01 | 2022-04-13 |
+| [BINARY BLOOD](https://open.spotify.com/track/0wRWhbWiJXMKAGmi526bgc) | [RAIZHELL](https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq), [CLOUD ZERO](https://open.spotify.com/artist/5k8aKKH3WU39dXEbRyUhGJ) | [BINARY BLOOD](https://open.spotify.com/album/3cXBP59Y3r4AAMrUsSyymj) | 2:37 | 2024-02-21 |  |
 | [BITCH](https://open.spotify.com/track/5smthiQvz7Nn5IKIy6d38W) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Dichotomy](https://open.spotify.com/album/3ZmCOom51Ge6yuUAmsTR9V) | 3:41 | 2022-05-19 | 2022-07-30 |
 | [BITTERSWEET](https://open.spotify.com/track/0Ip4mtMZFwXD7EMTLROWw9) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [BITTERSWEET](https://open.spotify.com/album/3ezjk2cPYZe3qvfzxVF1kn) | 2:37 | 2022-01-24 | 2022-04-01 |
 | [Black Velvet](https://open.spotify.com/track/0UyvpiRpS6aR33jAHweZbL) | [Infected Mushroom](https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI), [Ninet Tayeb](https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4) | [Black Velvet](https://open.spotify.com/album/2sLR9P3xAhR74bmiyK6V8i) | 4:08 | 2022-08-12 | 2022-10-27 |
@@ -124,7 +125,7 @@
 | [Come With Me](https://open.spotify.com/track/6YtkMh0vUE21T6f2P1G5XG) | [Dustycloud](https://open.spotify.com/artist/5O9MafawyW4O2WhJQKXj2d), [Sally Jay](https://open.spotify.com/artist/6XkbDOU2h2CIOWzP0BiKQb) | [Come With Me](https://open.spotify.com/album/7xwEXVETqYsp5GBbHGQZaO) | 3:30 | 2022-04-18 | 2022-06-30 |
 | [Coming Home](https://open.spotify.com/track/2goyAEJ3QSW3I0EjQVNsrA) | [Dirtyphonics](https://open.spotify.com/artist/4zymhxzJ0UJc74tMHGyoWs), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [Coming Home](https://open.spotify.com/album/4LPip8IbiCE6fguYsmoKyN) | 4:57 | 2023-11-24 |  |
 | [Crashing](https://open.spotify.com/track/18G8jUP2uoOfUG2fspXF3a) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [Crashing](https://open.spotify.com/album/7fvqYjrOm2leglqnKmBtTC) | 3:56 | 2023-05-17 | 2023-08-10 |
-| [Crashing Hard](https://open.spotify.com/track/3zxi11w6lXJgDBmIhhWjpR) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Casey Cook](https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl) | [Crashing Hard](https://open.spotify.com/album/3Qmygkn40t7BIgJ6U5eT6i) | 3:37 | 2023-11-09 |  |
+| [Crashing Hard](https://open.spotify.com/track/3zxi11w6lXJgDBmIhhWjpR) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Casey Cook](https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl) | [Crashing Hard](https://open.spotify.com/album/3Qmygkn40t7BIgJ6U5eT6i) | 3:37 | 2023-11-09 | 2024-02-22 |
 | [CRY](https://open.spotify.com/track/1xeOJfKycH2GR5UDwDNjzu) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [CRY](https://open.spotify.com/album/3VzskMtVDfE6uU1JAci7Ct) | 2:28 | 2022-03-10 | 2022-05-21 |
 | [CRY \- Borgore Remix](https://open.spotify.com/track/6ekIi6kltHC195Y4z6vMb0) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz) | [Someone You Can Count On \(The Remixes\)](https://open.spotify.com/album/0QWKmiHrLOhsSp2r8vx40l) | 4:18 | 2023-07-17 | 2023-12-14 |
 | [Cyan](https://open.spotify.com/track/0o4GFEcDdhbfGruMLIPOKV) | [Flexible Fire](https://open.spotify.com/artist/76sA8VLsfgOY1qoNgHnf8K), [Etza](https://open.spotify.com/artist/5XCGOe3YCAhxsfQIUb5xGe) | [Malva](https://open.spotify.com/album/5cqyzitY6IgCLjOsRpILx2) | 3:39 | 2022-11-14 | 2023-02-02 |

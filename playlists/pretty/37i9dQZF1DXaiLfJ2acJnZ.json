@@ -1,12 +1,12 @@
 {
   "description": "Lovely, pop-filled, fun.",
-  "num_followers": 46389,
+  "num_followers": 9295,
   "original_name": "Wholesome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMDU0NTZmNTA3Y2Q1ZmZjMmI5OWJkOTY1NTkzZjNkMzM5MzdkY2Q3",
+  "snapshot_id": "MCw4YzdmNmJkZmJhNGEyNGU1YTE2ZDc0M2Q4MWJiOWUxOWY3ZjRjMjM1",
   "tracks": [
     {
       "added_at": "2023-12-01 15:59:50",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-12-01 15:59:50",
       "album": {
-        "name": "a girl like me",
-        "url": "https://open.spotify.com/album/51gIsdlU8UIgzSgDJrEr9Z"
-      },
-      "artists": [
-        {
-          "name": "flowerovlove",
-          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
-        }
-      ],
-      "duration_ms": 162628,
-      "name": "a girl like me",
-      "url": "https://open.spotify.com/track/2KzkWP9RYW1xz4gqDRArQd"
-    },
-    {
-      "added_at": "2023-12-01 15:59:50",
-      "album": {
         "name": "Mr Right (with Meghan Trainor)",
         "url": "https://open.spotify.com/album/1AkVEhlI2czYOj5h0f2xDH"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 167035,
       "name": "Mr Right (with Meghan Trainor)",
       "url": "https://open.spotify.com/track/0nNARbTLwzLGz51aUEZPnp"
+    },
+    {
+      "added_at": "2023-12-01 15:59:50",
+      "album": {
+        "name": "a girl like me",
+        "url": "https://open.spotify.com/album/51gIsdlU8UIgzSgDJrEr9Z"
+      },
+      "artists": [
+        {
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+        }
+      ],
+      "duration_ms": 162628,
+      "name": "a girl like me",
+      "url": "https://open.spotify.com/track/2KzkWP9RYW1xz4gqDRArQd"
     },
     {
       "added_at": "2023-12-01 15:59:50",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-12-01 15:59:50",
       "album": {
-        "name": "Better Man",
-        "url": "https://open.spotify.com/album/1hfIWkFQJnxCtCTWshLEX7"
-      },
-      "artists": [
-        {
-          "name": "Sekou",
-          "url": "https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c"
-        }
-      ],
-      "duration_ms": 192130,
-      "name": "Better Man",
-      "url": "https://open.spotify.com/track/7qqOrc0Uvpvl5NvoAPRGLE"
-    },
-    {
-      "added_at": "2023-12-01 15:59:50",
-      "album": {
         "name": "Best Friend",
         "url": "https://open.spotify.com/album/7AF8UxAKHt77J9j8ZBpH7J"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 189151,
       "name": "Best Friend",
       "url": "https://open.spotify.com/track/7mABSSPLVFF6HGlVLhmSsZ"
+    },
+    {
+      "added_at": "2023-12-01 15:59:50",
+      "album": {
+        "name": "Better Man",
+        "url": "https://open.spotify.com/album/1hfIWkFQJnxCtCTWshLEX7"
+      },
+      "artists": [
+        {
+          "name": "Sekou",
+          "url": "https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c"
+        }
+      ],
+      "duration_ms": 192130,
+      "name": "Better Man",
+      "url": "https://open.spotify.com/track/7qqOrc0Uvpvl5NvoAPRGLE"
     },
     {
       "added_at": "2023-12-01 15:59:50",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-12-01 15:59:50",
       "album": {
-        "name": "Without You",
-        "url": "https://open.spotify.com/album/2PK5nQeplHKyoKyjv8T20w"
-      },
-      "artists": [
-        {
-          "name": "ADMT",
-          "url": "https://open.spotify.com/artist/33M0vL5kF0AMJqXYxeX7kF"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/26AXhNPL6CBLlsV49j5opa"
-    },
-    {
-      "added_at": "2023-12-01 15:59:50",
-      "album": {
         "name": "What Ifs & Maybes",
         "url": "https://open.spotify.com/album/3CWP6u3BR6KmyodkIoyE6F"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 190348,
       "name": "Good News",
       "url": "https://open.spotify.com/track/0u4warxXglSh16oXyMEpoB"
+    },
+    {
+      "added_at": "2023-12-01 15:59:50",
+      "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/2PK5nQeplHKyoKyjv8T20w"
+      },
+      "artists": [
+        {
+          "name": "ADMT",
+          "url": "https://open.spotify.com/artist/33M0vL5kF0AMJqXYxeX7kF"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/26AXhNPL6CBLlsV49j5opa"
     },
     {
       "added_at": "2023-12-01 15:59:50",
@@ -743,38 +743,6 @@
     {
       "added_at": "2023-12-01 15:59:50",
       "album": {
-        "name": "Georgia",
-        "url": "https://open.spotify.com/album/5PLNgWXs7Hq6RHgFetDAtJ"
-      },
-      "artists": [
-        {
-          "name": "Thomas Headon",
-          "url": "https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Georgia",
-      "url": "https://open.spotify.com/track/7d4lvIqCYS2DGTCZAjmCHu"
-    },
-    {
-      "added_at": "2023-12-01 15:59:50",
-      "album": {
-        "name": "Coffee Shop",
-        "url": "https://open.spotify.com/album/1jWqXdJ2EeP9CZvIfa3F9U"
-      },
-      "artists": [
-        {
-          "name": "flowerovlove",
-          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
-        }
-      ],
-      "duration_ms": 124080,
-      "name": "Coffee Shop",
-      "url": "https://open.spotify.com/track/40tZTQ47XEMg7KT61xAEOI"
-    },
-    {
-      "added_at": "2023-12-01 15:59:50",
-      "album": {
         "name": "Here",
         "url": "https://open.spotify.com/album/4BAFltaVZww9WWkkBROskZ"
       },
@@ -787,6 +755,22 @@
       "duration_ms": 195145,
       "name": "Here",
       "url": "https://open.spotify.com/track/5yuGEEvvqMHvoLIxEFnaDT"
+    },
+    {
+      "added_at": "2023-12-01 15:59:50",
+      "album": {
+        "name": "Georgia",
+        "url": "https://open.spotify.com/album/5PLNgWXs7Hq6RHgFetDAtJ"
+      },
+      "artists": [
+        {
+          "name": "Thomas Headon",
+          "url": "https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Georgia",
+      "url": "https://open.spotify.com/track/7d4lvIqCYS2DGTCZAjmCHu"
     },
     {
       "added_at": "2023-12-01 15:59:50",
@@ -807,6 +791,22 @@
     {
       "added_at": "2023-12-01 15:59:50",
       "album": {
+        "name": "Coffee Shop",
+        "url": "https://open.spotify.com/album/1jWqXdJ2EeP9CZvIfa3F9U"
+      },
+      "artists": [
+        {
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+        }
+      ],
+      "duration_ms": 124080,
+      "name": "Coffee Shop",
+      "url": "https://open.spotify.com/track/40tZTQ47XEMg7KT61xAEOI"
+    },
+    {
+      "added_at": "2023-12-01 15:59:50",
+      "album": {
         "name": "Gracie",
         "url": "https://open.spotify.com/album/2kfbfChhJMy2N01rdxlDni"
       },
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-12-01 15:59:50",
       "album": {
-        "name": "All The Boys",
-        "url": "https://open.spotify.com/album/1sDb15lhCdE9wI8yTP7w6i"
-      },
-      "artists": [
-        {
-          "name": "Bea and her Business",
-          "url": "https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym"
-        }
-      ],
-      "duration_ms": 151906,
-      "name": "All The Boys",
-      "url": "https://open.spotify.com/track/09mqylqFZIQprBxExnZ5Xr"
-    },
-    {
-      "added_at": "2023-12-01 15:59:50",
-      "album": {
         "name": "The Good Witch",
         "url": "https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 179453,
       "name": "Two Weeks Ago",
       "url": "https://open.spotify.com/track/0bnUDXvwi2s8924tLTDg3K"
+    },
+    {
+      "added_at": "2023-12-01 15:59:50",
+      "album": {
+        "name": "All The Boys",
+        "url": "https://open.spotify.com/album/1sDb15lhCdE9wI8yTP7w6i"
+      },
+      "artists": [
+        {
+          "name": "Bea and her Business",
+          "url": "https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym"
+        }
+      ],
+      "duration_ms": 151906,
+      "name": "All The Boys",
+      "url": "https://open.spotify.com/track/09mqylqFZIQprBxExnZ5Xr"
     },
     {
       "added_at": "2023-12-01 15:59:50",

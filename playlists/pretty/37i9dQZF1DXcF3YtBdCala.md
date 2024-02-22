@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF3YtBdCala.md) - [plain]
 
 > Jóvenes y renovadas expresiones de la bella tradición mexicana\. Adrián Barraza en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,094 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,100 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF3YtBdCala.md) - [plain]
 | 57 | [X Personas Como Tú](https://open.spotify.com/track/1BnzpdLJJk6JMGLM667CkG) | [Cuitla Vega](https://open.spotify.com/artist/50eEhK6sfbvKaI75ZqD96I), [José Esparza](https://open.spotify.com/artist/1XGG9ovY2aBYQwCvh4xRzS) | [X Personas Como Tú](https://open.spotify.com/album/3GaUAF6cuvJ8RIObkEJe2s) | 2:53 |
 | 58 | [Vivir Sin Ti \( Version Acustica \)](https://open.spotify.com/track/36UpMEqlXV5KuCxS4dZMEf) | [Ana Emilia](https://open.spotify.com/artist/1kxxYp7QI9TB9iWTzf7gTG), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Vivir Sin Ti \( Version Acustica \)](https://open.spotify.com/album/4cupD82naLrPTfwr14oMPq) | 2:52 |
 | 59 | [Me Vale Madre](https://open.spotify.com/track/5jJFvVBgWznxyoJAhQO08H) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Me Vale Madre](https://open.spotify.com/album/0mGwiGJ9bh9kgRuFIjQA92) | 2:20 |
-| 60 | [Fumo Y Bebo](https://open.spotify.com/track/7gCFWQenmcQN6Sp6kl8RKP) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng), [Pablo Ocampo](https://open.spotify.com/artist/69wshErE40YE33tpZXbdzK) | [Fumo Y Bebo](https://open.spotify.com/album/0eZyVJO83jcxuJclfwfPoC) | 2:28 |
-| 61 | [Navajas En El Viento](https://open.spotify.com/track/70Hvhlm3IleKpNZyA6PdXx) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Navajas En El Viento](https://open.spotify.com/album/0u5lLihhLNdPKv67arQ8nN) | 3:45 |
+| 60 | [Navajas En El Viento](https://open.spotify.com/track/70Hvhlm3IleKpNZyA6PdXx) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Navajas En El Viento](https://open.spotify.com/album/0u5lLihhLNdPKv67arQ8nN) | 3:45 |
+| 61 | [Fumo Y Bebo](https://open.spotify.com/track/7gCFWQenmcQN6Sp6kl8RKP) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng), [Pablo Ocampo](https://open.spotify.com/artist/69wshErE40YE33tpZXbdzK) | [Fumo Y Bebo](https://open.spotify.com/album/0eZyVJO83jcxuJclfwfPoC) | 2:28 |
 | 62 | [Quítame Ese Hombre](https://open.spotify.com/track/3bTQCOV78Zy2Rg276elgkM) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Quítame ese Hombre](https://open.spotify.com/album/63wfPXkXzSQXAb413lGXCg) | 3:16 |
 | 63 | [Cómo Te Olvido](https://open.spotify.com/track/1CIFAglkWiVnQlF4BVYt5h) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Una Buena Ranchera](https://open.spotify.com/album/7IoUq5HJ2Z5lYIP5Gk36Yo) | 4:17 |
 | 64 | [Desarmada \- Spotify Singles](https://open.spotify.com/track/2Sq8nivB0lT67tpg2xgIcG) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Desarmada \- Spotify Singles](https://open.spotify.com/album/4lzjjzwvPHCGW5LOWTQHih) | 2:31 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF3YtBdCala.md) - [plain]
 | 79 | [Prohibido Llorar](https://open.spotify.com/track/2xLIsU38CfXVqtTSZHaTYY) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Prohibido Llorar](https://open.spotify.com/album/1ur46naiDRp05KohaDhfP1) | 4:13 |
 | 80 | [EL CHAPULÍN](https://open.spotify.com/track/2Bk7TqMfkc0ihSBapbZKel) | [ARRIOLA](https://open.spotify.com/artist/40C6ypaqw5koNMf06hVked) | [NO HAY NADA MÁS](https://open.spotify.com/album/06JBns9E0YypUBapj5kuQC) | 2:30 |
 | 81 | [MALAMANTE \(en carne viva\)](https://open.spotify.com/track/4YQ4KZT0CvKbFJFYPZZedi) | [Veronica Orozco](https://open.spotify.com/artist/1Te0peWkDd6h5Rnd0qjaKm), [Diana Hoyos](https://open.spotify.com/artist/1OfXFUyD2ihq5rMFtWIuJn) | [MALAMANTE \(en carne viva\)](https://open.spotify.com/album/12YgmMbN5H0v4ZXhxrSwpQ) | 3:20 |
-| 82 | [Cosiéndome el Corazón](https://open.spotify.com/track/2QInqAwobGfKsrKbJnVf1y) | [Sandra Echeverria](https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31) | [Ya Llegó la Echeverría...](https://open.spotify.com/album/6ZNXIAbNoxtVkMuHUbXrfJ) | 3:26 |
-| 83 | [Te Llegará Mi Olvido](https://open.spotify.com/track/2gVFqyEuY89biuosNL6Y43) | [Sandra Padilla](https://open.spotify.com/artist/3hht892mum9HGzHHclNtXz) | [Chuladas Del Alma](https://open.spotify.com/album/3PfxvQzZa81oXmrceghQTr) | 2:16 |
+| 82 | [Te Llegará Mi Olvido](https://open.spotify.com/track/2gVFqyEuY89biuosNL6Y43) | [Sandra Padilla](https://open.spotify.com/artist/3hht892mum9HGzHHclNtXz) | [Chuladas Del Alma](https://open.spotify.com/album/3PfxvQzZa81oXmrceghQTr) | 2:16 |
+| 83 | [Cosiéndome el Corazón](https://open.spotify.com/track/2QInqAwobGfKsrKbJnVf1y) | [Sandra Echeverria](https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31) | [Ya Llegó la Echeverría...](https://open.spotify.com/album/6ZNXIAbNoxtVkMuHUbXrfJ) | 3:26 |
 | 84 | [Que Seas Feliz \(feat\. Lila Downs\)](https://open.spotify.com/track/6rbIrFizEB9kIdMJYx3tXH) | [Javier Camarena](https://open.spotify.com/artist/13rDolPZ1xlUWBQWxl8cED), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Javier Camarena \- La Voz de México](https://open.spotify.com/album/0XGgZddNyq7ueKObEBKpdg) | 3:11 |
 | 85 | [Apuré Mi Café \- Versión Mariachi](https://open.spotify.com/track/543GxK1Fbq64kfhMB4j7Dq) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuestión De Tiempo](https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W) | 3:05 |
 | 86 | [No Me Rebajo](https://open.spotify.com/track/67FAoDXB5Q1bxHLuFe7rIi) | [La Morra De La Vihuela](https://open.spotify.com/artist/0U1Zvqbec8rtMT6B83rVUi) | [No Me Rebajo](https://open.spotify.com/album/5A7ZuC4mInd4SS88MUe3DU) | 3:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF3YtBdCala.md) - [plain]
 | 99 | [Y Tú, ¿Qué Ganas?](https://open.spotify.com/track/5xOBLLJftwLwqNQgpqlPiu) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Y Tú, ¿Qué Ganas?](https://open.spotify.com/album/1PBWmz5f1IkWiAYXKtnnFE) | 2:58 |
 | 100 | [El que Quiero que Me Quiera](https://open.spotify.com/track/0U3ByQq0hGY3gdmBphT8oe) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Asi Suena con Tequila](https://open.spotify.com/album/6wQ8UntXURhCMqbXqdPKEW) | 2:44 |
 
-Snapshot ID: `MCw5ZmY2ZjQ1NzNjYWYyMTdiNzBiNjk5MWY4MWRiNzk3OTY4Y2Q1NzM5`
+Snapshot ID: `MCwzOWVkMDIyYjZkMjRhM2E3OGEwYWYwODVlNjI1ODUxYjg0ZDFhZTg0`

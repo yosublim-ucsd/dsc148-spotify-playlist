@@ -4,7 +4,7 @@
 
 > ¡Asadito a pura cumbia con toques de cuarteto!
 
-156 songs - 9 hr 26 min
+157 songs - 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Qué bonito](https://open.spotify.com/track/3y4pf1iwp2L86I5ZuUOUr9) | [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo) | [Los Verdugos De La Mufa](https://open.spotify.com/album/5TZ3a5b6oKxNgIRkjfFTUO) | 3:58 | 2023-05-05 |  |
 | [Qué Ironía](https://open.spotify.com/track/5FmJy09OizHiP0440KL1S7) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Qué Ironía](https://open.spotify.com/album/6q2RlNPqDohxAfpcc5cVno) | 4:27 | 2023-07-28 | 2023-10-13 |
 | [Quê te pasa corazón?](https://open.spotify.com/track/7a1OLwZPl33gTaRy09dgxX) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Huguito Flores el Super](https://open.spotify.com/artist/4Jiwh0RF8Cilfpe6JGvWlR) | [Qué te pasa corazón?](https://open.spotify.com/album/5USufj1fRc600atMgXlhaW) | 3:13 | 2023-12-08 | 2023-12-14 |
+| [Sabrosón](https://open.spotify.com/track/3i9RlCwMh2I0semxufRnyS) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Parulo](https://open.spotify.com/album/00A8Fwcno8bR8PghDYmcv8) | 2:54 | 2024-02-16 |  |
 | [Se Fue Viral](https://open.spotify.com/track/71q4nNysHdBhXQJI9qnhNd) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN) | [Se Fue Viral](https://open.spotify.com/album/6cqT7Fd0LInvlAbR4RyABv) | 3:00 | 2023-06-03 |  |
 | [Se Me Ha Perdido un Corazón](https://open.spotify.com/track/1uHjrdkCGineIG5yNDF8b2) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Los Más Grandes Exitos](https://open.spotify.com/album/5O2xqtPFhEp81GUIkKNV8Z) | 3:26 | 2023-05-05 |  |
 | [Se Parece Más A Ti](https://open.spotify.com/track/4bWdlExSeKAotB6uJwxFlf) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG) | [Separece A Ti](https://open.spotify.com/album/5Bdfuz8R1s29LQyU0UOyuw) | 4:08 | 2023-05-05 |  |
@@ -131,7 +132,7 @@
 | [Sin Documentos \- Cover](https://open.spotify.com/track/2jDDaOlTlPIj14ogDGeQO6) | [THE PALMERS](https://open.spotify.com/artist/4ACQyAX2r9xt9k1y1t7jXN) | [Sin Documentos \(Cover\)](https://open.spotify.com/album/57jYr82JRXrEQlt8CWl7lL) | 2:49 | 2023-06-09 | 2023-07-04 |
 | [Sin Valentín](https://open.spotify.com/track/4qjw6B9bJWb3jd0RInF1RY) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN), [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU) | [Sin Valentín](https://open.spotify.com/album/1ZPwG0m0QpSpsPKcmqAJdj) | 2:41 | 2024-02-16 |  |
 | [SINVERGÜENZA \- con Angela Torres](https://open.spotify.com/track/2xbH0CuDbid800YW5nMPzR) | [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq), [j mena](https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [SINVERGÜENZA \- con Angela Torres](https://open.spotify.com/album/2j4yf0X00zieL424k90UVn) | 3:37 | 2023-12-08 |  |
-| [Sobreviviendo](https://open.spotify.com/track/2ca7BrKnsQd0iSSkEI9CFY) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Los Mas Grandes Exitos](https://open.spotify.com/album/2A4irFl71OjqxE0x6FNO0T) | 3:05 | 2023-12-29 |  |
+| [Sobreviviendo](https://open.spotify.com/track/2ca7BrKnsQd0iSSkEI9CFY) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Los Mas Grandes Exitos](https://open.spotify.com/album/2A4irFl71OjqxE0x6FNO0T) | 3:05 | 2023-12-29 | 2024-02-22 |
 | [Son de Amores](https://open.spotify.com/track/7hY45Nsy6op1yjmnEDVIRu) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Amor de Mentiras](https://open.spotify.com/album/2wtKU46kgyPUjDBUc5zIhh) | 2:51 | 2023-05-05 |  |
 | [Soy Cordobes](https://open.spotify.com/track/5wG4J1UECH0c42YhMhSkcS) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Soy Cordobes](https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3) | 5:02 | 2023-05-05 |  |
 | [Soy Sabalero](https://open.spotify.com/track/6MIulZ9FG6Td02EpvFC5ZL) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Soy Sabalero](https://open.spotify.com/album/4E9U7vlfoRlUIi57xcO53W) | 2:59 | 2023-05-05 |  |

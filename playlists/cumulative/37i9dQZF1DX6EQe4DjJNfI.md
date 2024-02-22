@@ -4,7 +4,7 @@
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: LUTHULY
 
-189 songs - 9 hr 37 min
+190 songs - 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,7 +185,8 @@
 | [Tomboy](https://open.spotify.com/track/1ZZzHoGd7vUBO4WpVbrgg8) | [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN), [Duzz](https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz), [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM) | [Tomboy](https://open.spotify.com/album/0hOPXn449nuIQQpajCowa5) | 3:24 | 2023-04-28 | 2023-07-01 |
 | [Tons \#5 \- Sonho em Hollywood \(feat\. Lucas & Orelha\)](https://open.spotify.com/track/04suo4ZNPAedwYzEP8UJC8) | [Caio Nunez](https://open.spotify.com/artist/2rfGf5mJ3aR15NKZvMyfE0), [CRIVO](https://open.spotify.com/artist/0N2KGZptIZRKtEakTbNoxe), [Lucas e Orelha](https://open.spotify.com/artist/1hX5P2lkCP3LrzVRlJmQX8) | [Tons \#5 \- Sonho em Hollywood \(feat\. Lucas & Orelha\)](https://open.spotify.com/album/2PTifDt3iNe99E0ZTh1A00) | 3:21 | 2022-11-18 | 2022-12-24 |
 | [Toque De Veludo](https://open.spotify.com/track/5sHK9llP0yBRwr4fW5DVSn) | [WD](https://open.spotify.com/artist/0h1aO8j7tyQ45Ws8xnjcq5) | [Toque De Veludo](https://open.spotify.com/album/5TBvqgBLIVP0MZJpkLEIHh) | 2:37 | 2023-09-01 |  |
-| [Troco](https://open.spotify.com/track/3lL3rifI9DsdbApt8Lidkr) | [Feh](https://open.spotify.com/artist/3bMQmsnuvak2a7fOQagiCP) | [Troco](https://open.spotify.com/album/5Vl5m3qaYvCf6Q1Q0xRI7V) | 2:39 | 2022-12-01 |  |
+| [Troco](https://open.spotify.com/track/3lL3rifI9DsdbApt8Lidkr) | [Feh](https://open.spotify.com/artist/3bMQmsnuvak2a7fOQagiCP) | [Troco](https://open.spotify.com/album/5Vl5m3qaYvCf6Q1Q0xRI7V) | 2:39 | 2022-12-01 | 2024-02-22 |
+| [Troco](https://open.spotify.com/track/6TEMhEyTclTXT6PvYlW2tr) | [Feh](https://open.spotify.com/artist/3bMQmsnuvak2a7fOQagiCP) | [Troco](https://open.spotify.com/album/3P5HL7EhZK7047gZXxWGW5) | 2:39 | 2024-02-16 |  |
 | [Tudo Que Restou](https://open.spotify.com/track/74toZVkoAZ54tqvZUq9SUd) | [Camila Zasoul](https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH), [Bruno Chelles](https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d), [Natalhão](https://open.spotify.com/artist/5ptoEbRZaVPuPXvWdsRrWc), [YOYOTRACKS](https://open.spotify.com/artist/0X813faPRmYEvgsc5foonA), [UGOTZ](https://open.spotify.com/artist/3EfVngLKGjQiyjUP1sL625) | [Tudo Que Restou](https://open.spotify.com/album/12EYliAELcrqAMM2xgsAvK) | 3:18 | 2022-11-18 |  |
 | [Uma Chance](https://open.spotify.com/track/2QPZQP2MDGC5ePtfSI9ihO) | [Crod](https://open.spotify.com/artist/1VI8uzUXTMpjdIvM6Rsh0j) | [Uma Chance Pra Ficar Tudo bem](https://open.spotify.com/album/3E7fL2Muf5c8OvC8A54Mp3) | 2:34 | 2022-11-18 |  |
 | [Uma Vida é Pouco Pra Te Amar](https://open.spotify.com/track/6QWAEJf3F8sX0P8jVMpFsr) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [AFRODHIT](https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5) | 3:32 | 2023-08-04 | 2023-11-18 |

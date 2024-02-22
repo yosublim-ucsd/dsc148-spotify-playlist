@@ -1,12 +1,12 @@
 {
   "description": "Go deep into spontaneous praise and worship here. On and on.",
-  "num_followers": 196433,
+  "num_followers": 196520,
   "original_name": "Signs & Wonders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMjdkOTk3OTE1YzBjZThhMTcxZTEyNmFlYzE5ZTRkYWM3M2Y1OWEw",
+  "snapshot_id": "MCw1Y2I2Nzc0ODk1YmRkNGI1NjU4NjM1MzlhNjhiMTNkMTI4NmRjY2Yw",
   "tracks": [
     {
       "added_at": "2020-09-04 04:02:00",
@@ -755,26 +755,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Center of Your Love",
-        "url": "https://open.spotify.com/album/01j8mx7lu1xopdogMNvelL"
-      },
-      "artists": [
-        {
-          "name": "Upper Room Music",
-          "url": "https://open.spotify.com/artist/43fQOvRHigfApnc4GmYYPf"
-        },
-        {
-          "name": "Elyssa Smith",
-          "url": "https://open.spotify.com/artist/2enLZAXaXEpQXjaGguhA8f"
-        }
-      ],
-      "duration_ms": 296400,
-      "name": "You Satisfy (feat. Elyssa Smith)",
-      "url": "https://open.spotify.com/track/7suC4UpFBmXv0KRfYdW09F"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Land Of The Living (Live)",
         "url": "https://open.spotify.com/album/18Zm6kFysUFl9qHLdgIjLa"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 494232,
       "name": "I Just Love You - Live",
       "url": "https://open.spotify.com/track/6kl4GdqHOXfyPhoMx1dlzM"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Center of Your Love",
+        "url": "https://open.spotify.com/album/01j8mx7lu1xopdogMNvelL"
+      },
+      "artists": [
+        {
+          "name": "Upper Room Music",
+          "url": "https://open.spotify.com/artist/43fQOvRHigfApnc4GmYYPf"
+        },
+        {
+          "name": "Elyssa Smith",
+          "url": "https://open.spotify.com/artist/2enLZAXaXEpQXjaGguhA8f"
+        }
+      ],
+      "duration_ms": 296400,
+      "name": "You Satisfy (feat. Elyssa Smith)",
+      "url": "https://open.spotify.com/track/7suC4UpFBmXv0KRfYdW09F"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -867,6 +867,26 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "Moments (Live)",
+        "url": "https://open.spotify.com/album/1WjKktf3q0AeA9My9MRPtp"
+      },
+      "artists": [
+        {
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+        },
+        {
+          "name": "Elyssa Smith",
+          "url": "https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF"
+        }
+      ],
+      "duration_ms": 349525,
+      "name": "Surrounded (Fight My Battles) - Live",
+      "url": "https://open.spotify.com/track/3RvSbCWVuW24rqpNYb8KEf"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "I Don't Have Much",
         "url": "https://open.spotify.com/album/13xozrVcJxO5odimOc6UAw"
       },
@@ -891,22 +911,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Here (Live)",
-        "url": "https://open.spotify.com/album/7sOLny4qMMkbLOxfvflwQ8"
-      },
-      "artists": [
-        {
-          "name": "Red Rocks Worship",
-          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
-        }
-      ],
-      "duration_ms": 258213,
-      "name": "Overflow (Live)",
-      "url": "https://open.spotify.com/track/1xvioaPO8eZigxPTEZh9ZV"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Awe + Wonder (Live)",
         "url": "https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g"
       },
@@ -927,22 +931,18 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Moments (Live)",
-        "url": "https://open.spotify.com/album/1WjKktf3q0AeA9My9MRPtp"
+        "name": "Here (Live)",
+        "url": "https://open.spotify.com/album/7sOLny4qMMkbLOxfvflwQ8"
       },
       "artists": [
         {
-          "name": "UPPERROOM",
-          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
-        },
-        {
-          "name": "Elyssa Smith",
-          "url": "https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF"
+          "name": "Red Rocks Worship",
+          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
         }
       ],
-      "duration_ms": 349525,
-      "name": "Surrounded (Fight My Battles) - Live",
-      "url": "https://open.spotify.com/track/3RvSbCWVuW24rqpNYb8KEf"
+      "duration_ms": 258213,
+      "name": "Overflow (Live)",
+      "url": "https://open.spotify.com/track/1xvioaPO8eZigxPTEZh9ZV"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1019,18 +1019,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Forever Amen",
-        "url": "https://open.spotify.com/album/4INKppNLM2RZwGmggvpMvY"
+        "name": "More Like Jesus (Live)",
+        "url": "https://open.spotify.com/album/3VeJL4SEP3phMu7x7f0pNC"
       },
       "artists": [
         {
-          "name": "Steffany Gretzinger",
-          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
         }
       ],
-      "duration_ms": 270853,
-      "name": "Forever Amen",
-      "url": "https://open.spotify.com/track/3W2ft8jbBUuWiKwwkTlw7z"
+      "duration_ms": 338694,
+      "name": "More Like Jesus - Live",
+      "url": "https://open.spotify.com/track/54o7m2sWPTagySKiaPPpT2"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1091,22 +1095,18 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "More Like Jesus (Live)",
-        "url": "https://open.spotify.com/album/3VeJL4SEP3phMu7x7f0pNC"
+        "name": "Forever Amen",
+        "url": "https://open.spotify.com/album/4INKppNLM2RZwGmggvpMvY"
       },
       "artists": [
         {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
         }
       ],
-      "duration_ms": 338694,
-      "name": "More Like Jesus - Live",
-      "url": "https://open.spotify.com/track/54o7m2sWPTagySKiaPPpT2"
+      "duration_ms": 270853,
+      "name": "Forever Amen",
+      "url": "https://open.spotify.com/track/3W2ft8jbBUuWiKwwkTlw7z"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1123,22 +1123,6 @@
       "duration_ms": 339266,
       "name": "Praise Will Be My Song",
       "url": "https://open.spotify.com/track/4YzQqc3ccm3En6LniPRGNM"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "The Undoing",
-        "url": "https://open.spotify.com/album/3JvCAFSk7tXKtofbUtbJfA"
-      },
-      "artists": [
-        {
-          "name": "Steffany Gretzinger",
-          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
-        }
-      ],
-      "duration_ms": 194660,
-      "name": "No Fear in Love",
-      "url": "https://open.spotify.com/track/1L7hLhmNgsQ9eMc5C5ej6l"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1179,6 +1163,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "How Can It Be (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6dFgl9xvP6Rd0vWL1mm1Zo"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 192933,
+      "name": "Now is Forever - Bonus Track",
+      "url": "https://open.spotify.com/track/6k1RI3mXEvCZtSWNvywLXp"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "Awake",
         "url": "https://open.spotify.com/album/6ZPHrDQvgzBcaKtGUMd9rC"
       },
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "How Can It Be (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6dFgl9xvP6Rd0vWL1mm1Zo"
+        "name": "The Undoing",
+        "url": "https://open.spotify.com/album/3JvCAFSk7tXKtofbUtbJfA"
       },
       "artists": [
         {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
         }
       ],
-      "duration_ms": 192933,
-      "name": "Now is Forever - Bonus Track",
-      "url": "https://open.spotify.com/track/6k1RI3mXEvCZtSWNvywLXp"
+      "duration_ms": 194660,
+      "name": "No Fear in Love",
+      "url": "https://open.spotify.com/track/1L7hLhmNgsQ9eMc5C5ej6l"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Mention Of Your Name",
-        "url": "https://open.spotify.com/album/1jAhwQDRVeCX1f80Woc8ST"
-      },
-      "artists": [
-        {
-          "name": "Jenn Johnson",
-          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
-        }
-      ],
-      "duration_ms": 326706,
-      "name": "Mention Of Your Name",
-      "url": "https://open.spotify.com/track/1uXkEGf3fmK2OkdoDvJdH0"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "For This Purpose (Live)",
         "url": "https://open.spotify.com/album/2ci3jBSOWzTEsrQ6bnX9if"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 379093,
       "name": "Altar (Live)",
       "url": "https://open.spotify.com/track/38heLtyRuyWilWcGxFl8Sw"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Mention Of Your Name",
+        "url": "https://open.spotify.com/album/1jAhwQDRVeCX1f80Woc8ST"
+      },
+      "artists": [
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        }
+      ],
+      "duration_ms": 326706,
+      "name": "Mention Of Your Name",
+      "url": "https://open.spotify.com/track/1uXkEGf3fmK2OkdoDvJdH0"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Beautiful Surrender",
-        "url": "https://open.spotify.com/album/1t5lSPlapJX2eHbvvsJNJd"
-      },
-      "artists": [
-        {
-          "name": "Jonathan David Helser",
-          "url": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
-        }
-      ],
-      "duration_ms": 330266,
-      "name": "Abba (Arms Of A Father)",
-      "url": "https://open.spotify.com/track/5X3tiBU7iNVHGqll7iwfiq"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Living With A Fire (Live)",
         "url": "https://open.spotify.com/album/0K4TZjqRa9XgexXHvWTwlp"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 445293,
       "name": "Not Afraid - Live",
       "url": "https://open.spotify.com/track/5GY6JKRXebctv4T8dgEzGq"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Beautiful Surrender",
+        "url": "https://open.spotify.com/album/1t5lSPlapJX2eHbvvsJNJd"
+      },
+      "artists": [
+        {
+          "name": "Jonathan David Helser",
+          "url": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
+        }
+      ],
+      "duration_ms": 330266,
+      "name": "Abba (Arms Of A Father)",
+      "url": "https://open.spotify.com/track/5X3tiBU7iNVHGqll7iwfiq"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1655,18 +1655,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Beautiful Surrender",
-        "url": "https://open.spotify.com/album/1t5lSPlapJX2eHbvvsJNJd"
+        "name": "Fearless / Fill Up The Sky (Live)",
+        "url": "https://open.spotify.com/album/0FJOaqUeh18LeJMqFx9k1A"
       },
       "artists": [
         {
-          "name": "Jonathan David Helser",
-          "url": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
+          "name": "Jesus Culture",
+          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+        },
+        {
+          "name": "Kim Walker-Smith",
+          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
         }
       ],
-      "duration_ms": 265573,
-      "name": "Find Me",
-      "url": "https://open.spotify.com/track/5JN3NqUutLCUf1zN5cEMLF"
+      "duration_ms": 280519,
+      "name": "Fearless - Live",
+      "url": "https://open.spotify.com/track/5rp9r3rFr45bPTsgi18tQB"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1719,22 +1723,18 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Fearless / Fill Up The Sky (Live)",
-        "url": "https://open.spotify.com/album/0FJOaqUeh18LeJMqFx9k1A"
+        "name": "Beautiful Surrender",
+        "url": "https://open.spotify.com/album/1t5lSPlapJX2eHbvvsJNJd"
       },
       "artists": [
         {
-          "name": "Jesus Culture",
-          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
-        },
-        {
-          "name": "Kim Walker-Smith",
-          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+          "name": "Jonathan David Helser",
+          "url": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
         }
       ],
-      "duration_ms": 280519,
-      "name": "Fearless - Live",
-      "url": "https://open.spotify.com/track/5rp9r3rFr45bPTsgi18tQB"
+      "duration_ms": 265573,
+      "name": "Find Me",
+      "url": "https://open.spotify.com/track/5JN3NqUutLCUf1zN5cEMLF"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1771,6 +1771,26 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "Living With A Fire (Live)",
+        "url": "https://open.spotify.com/album/0K4TZjqRa9XgexXHvWTwlp"
+      },
+      "artists": [
+        {
+          "name": "Jesus Culture",
+          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+        },
+        {
+          "name": "Chris McClarney",
+          "url": "https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp"
+        }
+      ],
+      "duration_ms": 410493,
+      "name": "Move - Live",
+      "url": "https://open.spotify.com/track/4SsE5oHM1nOEH8XEbEpugm"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "After All These Years",
         "url": "https://open.spotify.com/album/799XvKSzKmyjCUMBE48XpS"
       },
@@ -1799,26 +1819,6 @@
       "duration_ms": 339520,
       "name": "The Garden",
       "url": "https://open.spotify.com/track/7HtF6IsvLL7dES6Gb5odxE"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "SEU Worship (Live)",
-        "url": "https://open.spotify.com/album/0TqKuDcPHP3dtKBJSkQ7hx"
-      },
-      "artists": [
-        {
-          "name": "SEU Worship",
-          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
-        },
-        {
-          "name": "David Ryan Cook",
-          "url": "https://open.spotify.com/artist/0rXE8A2EXq1Z0pZPA46z0T"
-        }
-      ],
-      "duration_ms": 569320,
-      "name": "Sanctuary - Live",
-      "url": "https://open.spotify.com/track/0MHXhxkwnHpMupZQgYy2ZI"
     }
   ],
   "unique_name": "Signs & Wonders",

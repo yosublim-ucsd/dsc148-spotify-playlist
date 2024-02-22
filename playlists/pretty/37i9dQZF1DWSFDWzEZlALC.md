@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Paula Hartmann
 
-[Spotify](https://open.spotify.com/user/spotify) - 417,069 likes - 75 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 417,108 likes - 75 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Halt mich \(feat\. laloba\)](https://open.spotify.com/track/4vRptSf2KRSneN26gjlIPM) | [nand](https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg), [laloba](https://open.spotify.com/artist/3C26GfV6N8ldIZdARc928z) | [Durch die Blume](https://open.spotify.com/album/0JHy72rVJDNxmvhNHVNDhD) | 4:25 |
 | 75 | [BLa\*\_\*](https://open.spotify.com/track/4yzpCGNFvaxrENB5H78uwb) | [futurebae](https://open.spotify.com/artist/0UYSigAjotRo84aypVTw0Q) | [BLa\*\_\*](https://open.spotify.com/album/3K8nQKOvOzpCa5aKeQJKoK) | 2:27 |
 
-Snapshot ID: `MCxmMTQwMjhhMTllNDcyZjg4NzhhNjQ3Y2ZhYTFkMWQ4ZDg4ZTgxNzBl`
+Snapshot ID: `MCwyZmU1NmU4Yzg3MzZkOTQxMWMwODAxMDlhNGE4MTUyY2ZkNTlmMTk1`

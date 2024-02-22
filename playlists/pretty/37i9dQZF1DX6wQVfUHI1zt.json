@@ -1,12 +1,12 @@
 {
   "description": "All the Tejano classics for you to enjoy! Cover: Selena",
-  "num_followers": 207651,
+  "num_followers": 207693,
   "original_name": "Tejano Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMmM4ZTNiMDA4ZDZmN2E1YWE0MzA3Yzk4Y2ZmNWQ4NDQyZWY2MTBl",
+  "snapshot_id": "MCxjYjFjMzk3MDRhYjAyNGMxMzFkYTAzYjk2YWNiNjNlMzA1YWJiN2Ez",
   "tracks": [
     {
       "added_at": "2023-03-10 18:44:18",
@@ -799,6 +799,26 @@
     {
       "added_at": "2023-03-10 18:44:18",
       "album": {
+        "name": "La Leyenda (Version Super Deluxe)",
+        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
+      },
+      "artists": [
+        {
+          "name": "Selena y los Dinos",
+          "url": "https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy"
+        },
+        {
+          "name": "Emilio Navaira",
+          "url": "https://open.spotify.com/artist/5ADSZA6X6nJBe7pTgcE6nA"
+        }
+      ],
+      "duration_ms": 227986,
+      "name": "T\u00fa Robaste Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3Purte9GoV5OeheLFYZDxj"
+    },
+    {
+      "added_at": "2023-03-10 18:44:18",
+      "album": {
         "name": "Tejano Mix",
         "url": "https://open.spotify.com/album/0puxxMHv59vd5G047pqTrg"
       },
@@ -827,26 +847,6 @@
       "duration_ms": 284120,
       "name": "Tejano Mix - Radio Edit",
       "url": "https://open.spotify.com/track/3XZw0d0smJsYJcgFJAsI5O"
-    },
-    {
-      "added_at": "2023-03-10 18:44:18",
-      "album": {
-        "name": "La Leyenda (Version Super Deluxe)",
-        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
-      },
-      "artists": [
-        {
-          "name": "Selena y los Dinos",
-          "url": "https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy"
-        },
-        {
-          "name": "Emilio Navaira",
-          "url": "https://open.spotify.com/artist/5ADSZA6X6nJBe7pTgcE6nA"
-        }
-      ],
-      "duration_ms": 227986,
-      "name": "T\u00fa Robaste Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/3Purte9GoV5OeheLFYZDxj"
     },
     {
       "added_at": "2023-03-10 18:44:18",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-03-10 18:44:18",
       "album": {
-        "name": "La Leyenda (Version Super Deluxe)",
-        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
-      },
-      "artists": [
-        {
-          "name": "Selena y los Dinos",
-          "url": "https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy"
-        }
-      ],
-      "duration_ms": 247533,
-      "name": "Contigo Quiero Estar",
-      "url": "https://open.spotify.com/track/5KX6L00FeQmmFyE3XChFaQ"
-    },
-    {
-      "added_at": "2023-03-10 18:44:18",
-      "album": {
         "name": "ANTHOLOGY: BACK IN THE DAY",
         "url": "https://open.spotify.com/album/23oqTk9aC9aeA1iKzPDBRE"
       },
@@ -983,6 +967,22 @@
     {
       "added_at": "2023-03-10 18:44:18",
       "album": {
+        "name": "La Leyenda (Version Super Deluxe)",
+        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
+      },
+      "artists": [
+        {
+          "name": "Selena y los Dinos",
+          "url": "https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy"
+        }
+      ],
+      "duration_ms": 247533,
+      "name": "Contigo Quiero Estar",
+      "url": "https://open.spotify.com/track/5KX6L00FeQmmFyE3XChFaQ"
+    },
+    {
+      "added_at": "2023-03-10 18:44:18",
+      "album": {
         "name": "Gran Encuentro (20 \u00c9xitos Originales)",
         "url": "https://open.spotify.com/album/3NVYF9ggdJq4nvydfVTzS6"
       },
@@ -990,15 +990,11 @@
         {
           "name": "David Lee Garza",
           "url": "https://open.spotify.com/artist/38329DTMLBuu9dxx2a8Nke"
-        },
-        {
-          "name": "Los Musicales",
-          "url": "https://open.spotify.com/artist/71Vi0mhi8ZgBczjBNJlLah"
         }
       ],
-      "duration_ms": 206200,
-      "name": "Hasta Cuando",
-      "url": "https://open.spotify.com/track/6qawPmwCkK6BLcKVwtIfuy"
+      "duration_ms": 194013,
+      "name": "Al Partir",
+      "url": "https://open.spotify.com/track/7ts1SN8aMJCuAXKQ2pICTD"
     },
     {
       "added_at": "2023-03-10 18:44:18",
@@ -1094,11 +1090,15 @@
         {
           "name": "David Lee Garza",
           "url": "https://open.spotify.com/artist/38329DTMLBuu9dxx2a8Nke"
+        },
+        {
+          "name": "Los Musicales",
+          "url": "https://open.spotify.com/artist/71Vi0mhi8ZgBczjBNJlLah"
         }
       ],
-      "duration_ms": 194013,
-      "name": "Al Partir",
-      "url": "https://open.spotify.com/track/7ts1SN8aMJCuAXKQ2pICTD"
+      "duration_ms": 206200,
+      "name": "Hasta Cuando",
+      "url": "https://open.spotify.com/track/6qawPmwCkK6BLcKVwtIfuy"
     },
     {
       "added_at": "2023-03-10 18:44:18",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2023-03-10 18:44:18",
       "album": {
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 210626,
+      "name": "Bidi Bidi Bom Bom - 1994 Version",
+      "url": "https://open.spotify.com/track/08rj3keDexxAbhXnRM86ri"
+    },
+    {
+      "added_at": "2023-03-10 18:44:18",
+      "album": {
         "name": "Entre A Mi Mundo",
         "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 463266,
       "name": "Disco Medley - Live From Astrodome",
       "url": "https://open.spotify.com/track/1WQul0oQcE4hUTW40G1gWu"
-    },
-    {
-      "added_at": "2023-03-10 18:44:18",
-      "album": {
-        "name": "Amor Prohibido",
-        "url": "https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 210626,
-      "name": "Bidi Bidi Bom Bom - 1994 Version",
-      "url": "https://open.spotify.com/track/08rj3keDexxAbhXnRM86ri"
     },
     {
       "added_at": "2023-03-10 18:44:18",
@@ -1587,18 +1587,22 @@
     {
       "added_at": "2023-03-10 18:44:18",
       "album": {
-        "name": "Desvelado",
-        "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA"
       },
       "artists": [
         {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        },
+        {
+          "name": "Barrio Boyzz",
+          "url": "https://open.spotify.com/artist/2pEJhUF93gQGPdWJnusnZp"
         }
       ],
-      "duration_ms": 236466,
-      "name": "Te Voy A Amar",
-      "url": "https://open.spotify.com/track/7H9BJi45b1XJwYiC1vajfc"
+      "duration_ms": 273000,
+      "name": "Donde Quiera Que Est\u00e9s",
+      "url": "https://open.spotify.com/track/6K5i3URnbbwXgwPUczeoWQ"
     },
     {
       "added_at": "2023-03-10 18:44:18",
@@ -1619,6 +1623,22 @@
     {
       "added_at": "2023-03-10 18:44:18",
       "album": {
+        "name": "Desvelado",
+        "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 236466,
+      "name": "Te Voy A Amar",
+      "url": "https://open.spotify.com/track/7H9BJi45b1XJwYiC1vajfc"
+    },
+    {
+      "added_at": "2023-03-10 18:44:18",
+      "album": {
         "name": "El Cazador",
         "url": "https://open.spotify.com/album/19YgCrHv3ajrWnh4EiTv5I"
       },
@@ -1631,26 +1651,6 @@
       "duration_ms": 174973,
       "name": "Cantarle a Ella",
       "url": "https://open.spotify.com/track/6LyX5OTvWeJP2Sio5BfuDg"
-    },
-    {
-      "added_at": "2023-03-10 18:44:18",
-      "album": {
-        "name": "Amor Prohibido",
-        "url": "https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        },
-        {
-          "name": "Barrio Boyzz",
-          "url": "https://open.spotify.com/artist/2pEJhUF93gQGPdWJnusnZp"
-        }
-      ],
-      "duration_ms": 273000,
-      "name": "Donde Quiera Que Est\u00e9s",
-      "url": "https://open.spotify.com/track/6K5i3URnbbwXgwPUczeoWQ"
     },
     {
       "added_at": "2023-03-10 18:44:18",
@@ -1984,9 +1984,9 @@
           "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
         }
       ],
-      "duration_ms": 214586,
-      "name": "Te Sigo Amando",
-      "url": "https://open.spotify.com/track/6141FXNkDLkERK3HcaCgYN"
+      "duration_ms": 249866,
+      "name": "No Te Olvidar\u00e9",
+      "url": "https://open.spotify.com/track/1Qqnwem5JIf7TAE70BLav9"
     },
     {
       "added_at": "2023-03-10 18:44:18",
@@ -2000,9 +2000,9 @@
           "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
         }
       ],
-      "duration_ms": 249866,
-      "name": "No Te Olvidar\u00e9",
-      "url": "https://open.spotify.com/track/1Qqnwem5JIf7TAE70BLav9"
+      "duration_ms": 214586,
+      "name": "Te Sigo Amando",
+      "url": "https://open.spotify.com/track/6141FXNkDLkERK3HcaCgYN"
     },
     {
       "added_at": "2023-03-10 18:44:18",

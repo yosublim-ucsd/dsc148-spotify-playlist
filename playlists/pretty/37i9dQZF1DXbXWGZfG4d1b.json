@@ -1,12 +1,12 @@
 {
   "description": "Rock independiente, pop alternativo y golden hour.",
-  "num_followers": 21715,
+  "num_followers": 21722,
   "original_name": "6PM Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZDJkZWU4NjIxOWUxOWMyNTQxMGY0ZGNmYjQ2MWIwN2EwZWM5OTFj",
+  "snapshot_id": "MCxkZGE1ZjgxYTdkZGIzNGNjMTliNDRhODc1MjNkYWIwMzcyNTQ4Y2Qw",
   "tracks": [
     {
       "added_at": "2024-02-09 03:00:00",
@@ -371,22 +371,6 @@
     {
       "added_at": "2024-02-09 03:00:00",
       "album": {
-        "name": "Todo de mi (Todo de vos)",
-        "url": "https://open.spotify.com/album/3A1Qg6PBVcgzfp2e80zaBG"
-      },
-      "artists": [
-        {
-          "name": "Mauro Conforti & La Vida Marciana",
-          "url": "https://open.spotify.com/artist/30dlrYGnnNuIHRCAUP6dXr"
-        }
-      ],
-      "duration_ms": 173914,
-      "name": "Todo de mi (Todo de vos)",
-      "url": "https://open.spotify.com/track/5gWdUxIfynfRq94ypST6mY"
-    },
-    {
-      "added_at": "2024-02-09 03:00:00",
-      "album": {
         "name": "NEFERTITI",
         "url": "https://open.spotify.com/album/2rzX7Khx99btvr94q2aXNE"
       },
@@ -403,6 +387,38 @@
     {
       "added_at": "2024-02-09 03:00:00",
       "album": {
+        "name": "Todo de mi (Todo de vos)",
+        "url": "https://open.spotify.com/album/3A1Qg6PBVcgzfp2e80zaBG"
+      },
+      "artists": [
+        {
+          "name": "Mauro Conforti & La Vida Marciana",
+          "url": "https://open.spotify.com/artist/30dlrYGnnNuIHRCAUP6dXr"
+        }
+      ],
+      "duration_ms": 173914,
+      "name": "Todo de mi (Todo de vos)",
+      "url": "https://open.spotify.com/track/5gWdUxIfynfRq94ypST6mY"
+    },
+    {
+      "added_at": "2024-02-09 03:00:00",
+      "album": {
+        "name": "Bar de Playa",
+        "url": "https://open.spotify.com/album/7CUbw1fLnPPJCEGTkLMUzU"
+      },
+      "artists": [
+        {
+          "name": "107 Faunos",
+          "url": "https://open.spotify.com/artist/5CyGExgiIO5AfElXLtoU7r"
+        }
+      ],
+      "duration_ms": 129945,
+      "name": "Bar de Playa",
+      "url": "https://open.spotify.com/track/6YbC0D2ZYyjOmXn2sBirbA"
+    },
+    {
+      "added_at": "2024-02-09 03:00:00",
+      "album": {
         "name": "Habla Sola / Nada M\u00e1s",
         "url": "https://open.spotify.com/album/4GSei1tPC2AExizBVKU76T"
       },
@@ -415,6 +431,22 @@
       "duration_ms": 234562,
       "name": "Nada M\u00e1s",
       "url": "https://open.spotify.com/track/2H9QDsByfi3cOYrbMA0smF"
+    },
+    {
+      "added_at": "2024-02-09 03:00:00",
+      "album": {
+        "name": "Las Palomas",
+        "url": "https://open.spotify.com/album/08k3nUDklrv3aQOnIsWCjp"
+      },
+      "artists": [
+        {
+          "name": "Et\u00e9 & Los Problems",
+          "url": "https://open.spotify.com/artist/708Cl7fLtLt0QkD1sFOTZk"
+        }
+      ],
+      "duration_ms": 221843,
+      "name": "Las Palomas",
+      "url": "https://open.spotify.com/track/4qI9iwfb7U9Q14HSylzy0l"
     },
     {
       "added_at": "2024-02-09 03:00:00",
@@ -455,22 +487,6 @@
     {
       "added_at": "2024-02-09 03:00:00",
       "album": {
-        "name": "Las Palomas",
-        "url": "https://open.spotify.com/album/08k3nUDklrv3aQOnIsWCjp"
-      },
-      "artists": [
-        {
-          "name": "Et\u00e9 & Los Problems",
-          "url": "https://open.spotify.com/artist/708Cl7fLtLt0QkD1sFOTZk"
-        }
-      ],
-      "duration_ms": 221843,
-      "name": "Las Palomas",
-      "url": "https://open.spotify.com/track/4qI9iwfb7U9Q14HSylzy0l"
-    },
-    {
-      "added_at": "2024-02-09 03:00:00",
-      "album": {
         "name": "Ubicaci\u00f3n en Tiempo Real",
         "url": "https://open.spotify.com/album/7AGuimab1m9FAFkS6sekRp"
       },
@@ -491,22 +507,6 @@
     {
       "added_at": "2024-02-09 03:00:00",
       "album": {
-        "name": "Bar de Playa",
-        "url": "https://open.spotify.com/album/7CUbw1fLnPPJCEGTkLMUzU"
-      },
-      "artists": [
-        {
-          "name": "107 Faunos",
-          "url": "https://open.spotify.com/artist/5CyGExgiIO5AfElXLtoU7r"
-        }
-      ],
-      "duration_ms": 129945,
-      "name": "Bar de Playa",
-      "url": "https://open.spotify.com/track/6YbC0D2ZYyjOmXn2sBirbA"
-    },
-    {
-      "added_at": "2024-02-09 03:00:00",
-      "album": {
         "name": "Tiembla",
         "url": "https://open.spotify.com/album/6GQLm3j0mVHmywoGFumXxB"
       },
@@ -519,22 +519,6 @@
       "duration_ms": 216830,
       "name": "Tiembla",
       "url": "https://open.spotify.com/track/2wNgvrdONvbTYvaC4ve9WT"
-    },
-    {
-      "added_at": "2024-02-09 03:00:00",
-      "album": {
-        "name": "D\u00eda del Trabajador",
-        "url": "https://open.spotify.com/album/2Zl1OvzHWSaztfZlLlEgNI"
-      },
-      "artists": [
-        {
-          "name": "Fonso",
-          "url": "https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4"
-        }
-      ],
-      "duration_ms": 285176,
-      "name": "Eso no es Amor",
-      "url": "https://open.spotify.com/track/3fG3Ds1rzPt5kScGIlocTH"
     },
     {
       "added_at": "2024-02-09 03:00:00",
@@ -555,22 +539,18 @@
     {
       "added_at": "2024-02-09 03:00:00",
       "album": {
-        "name": "Mala Influencia",
-        "url": "https://open.spotify.com/album/5cLzpXDcunNag0msGWI67P"
+        "name": "D\u00eda del Trabajador",
+        "url": "https://open.spotify.com/album/2Zl1OvzHWSaztfZlLlEgNI"
       },
       "artists": [
         {
-          "name": "Isla Mujeres",
-          "url": "https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS"
-        },
-        {
-          "name": "Mora y los Metegoles",
-          "url": "https://open.spotify.com/artist/3bE6MHB83GAQf8NsvmcpCX"
+          "name": "Fonso",
+          "url": "https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4"
         }
       ],
-      "duration_ms": 133775,
-      "name": "Mala Influencia",
-      "url": "https://open.spotify.com/track/0l9VKy6AbaCk2mfvD85reL"
+      "duration_ms": 285176,
+      "name": "Eso no es Amor",
+      "url": "https://open.spotify.com/track/3fG3Ds1rzPt5kScGIlocTH"
     },
     {
       "added_at": "2024-02-09 03:00:00",
@@ -587,6 +567,26 @@
       "duration_ms": 137584,
       "name": "Te Quiero",
       "url": "https://open.spotify.com/track/6uAfHK8pf9qZVB1BFMSapl"
+    },
+    {
+      "added_at": "2024-02-09 03:00:00",
+      "album": {
+        "name": "Mala Influencia",
+        "url": "https://open.spotify.com/album/5cLzpXDcunNag0msGWI67P"
+      },
+      "artists": [
+        {
+          "name": "Isla Mujeres",
+          "url": "https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS"
+        },
+        {
+          "name": "Mora y los Metegoles",
+          "url": "https://open.spotify.com/artist/3bE6MHB83GAQf8NsvmcpCX"
+        }
+      ],
+      "duration_ms": 133775,
+      "name": "Mala Influencia",
+      "url": "https://open.spotify.com/track/0l9VKy6AbaCk2mfvD85reL"
     },
     {
       "added_at": "2024-02-09 03:00:00",
@@ -707,18 +707,18 @@
     {
       "added_at": "2024-02-09 03:00:00",
       "album": {
-        "name": "Frutillas con Crema",
-        "url": "https://open.spotify.com/album/01kd8mR6HRA6AxvvyXQ8i1"
+        "name": "Corriendo",
+        "url": "https://open.spotify.com/album/5U18YE0iw5uEiTB8OorYLb"
       },
       "artists": [
         {
-          "name": "un muerto mas",
-          "url": "https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0"
+          "name": "TELESCOPIOS",
+          "url": "https://open.spotify.com/artist/3JGkYP1X7liTn0IhJqFcMG"
         }
       ],
-      "duration_ms": 162605,
-      "name": "Frutillas con Crema",
-      "url": "https://open.spotify.com/track/5DTDzZkWhNVBs30SR2C4dX"
+      "duration_ms": 159576,
+      "name": "Corriendo",
+      "url": "https://open.spotify.com/track/4RKs3I15fRANzpyAr36zfx"
     },
     {
       "added_at": "2024-02-09 03:00:00",
@@ -739,18 +739,18 @@
     {
       "added_at": "2024-02-09 03:00:00",
       "album": {
-        "name": "Corriendo",
-        "url": "https://open.spotify.com/album/5U18YE0iw5uEiTB8OorYLb"
+        "name": "Frutillas con Crema",
+        "url": "https://open.spotify.com/album/01kd8mR6HRA6AxvvyXQ8i1"
       },
       "artists": [
         {
-          "name": "TELESCOPIOS",
-          "url": "https://open.spotify.com/artist/3JGkYP1X7liTn0IhJqFcMG"
+          "name": "un muerto mas",
+          "url": "https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0"
         }
       ],
-      "duration_ms": 159576,
-      "name": "Corriendo",
-      "url": "https://open.spotify.com/track/4RKs3I15fRANzpyAr36zfx"
+      "duration_ms": 162605,
+      "name": "Frutillas con Crema",
+      "url": "https://open.spotify.com/track/5DTDzZkWhNVBs30SR2C4dX"
     },
     {
       "added_at": "2024-02-09 03:00:00",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-02-09 03:00:00",
       "album": {
-        "name": "Cae la noche",
-        "url": "https://open.spotify.com/album/6zh0kUiR3qiD95UsBi8TYB"
-      },
-      "artists": [
-        {
-          "name": "BATOS",
-          "url": "https://open.spotify.com/artist/47ImzDRVg19IIw6IQa2tLI"
-        }
-      ],
-      "duration_ms": 244144,
-      "name": "Cae la noche",
-      "url": "https://open.spotify.com/track/1BKGYjquRMON7xsPSz51o8"
-    },
-    {
-      "added_at": "2024-02-09 03:00:00",
-      "album": {
         "name": "Comprensi\u00f3n1",
         "url": "https://open.spotify.com/album/5YNBPuFNznCRaJU2AaKPut"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 145407,
       "name": "5A",
       "url": "https://open.spotify.com/track/2T1g1V41vJ06rgVGMpBXMZ"
+    },
+    {
+      "added_at": "2024-02-09 03:00:00",
+      "album": {
+        "name": "Cae la noche",
+        "url": "https://open.spotify.com/album/6zh0kUiR3qiD95UsBi8TYB"
+      },
+      "artists": [
+        {
+          "name": "BATOS",
+          "url": "https://open.spotify.com/artist/47ImzDRVg19IIw6IQa2tLI"
+        }
+      ],
+      "duration_ms": 244144,
+      "name": "Cae la noche",
+      "url": "https://open.spotify.com/track/1BKGYjquRMON7xsPSz51o8"
     },
     {
       "added_at": "2024-02-09 03:00:00",
@@ -1015,6 +1015,26 @@
     {
       "added_at": "2024-02-09 03:00:00",
       "album": {
+        "name": "Mariposas",
+        "url": "https://open.spotify.com/album/0jt2HG9su1FciUJ2BgBJ30"
+      },
+      "artists": [
+        {
+          "name": "Echega",
+          "url": "https://open.spotify.com/artist/2Li2QjHBJr15McMHdQSPJc"
+        },
+        {
+          "name": "Mariana P\u00e4raway",
+          "url": "https://open.spotify.com/artist/17FXNujFBCzgEHqMIULmja"
+        }
+      ],
+      "duration_ms": 192464,
+      "name": "Mariposas",
+      "url": "https://open.spotify.com/track/0sINp2DnE4lC3LXVP3U7OD"
+    },
+    {
+      "added_at": "2024-02-09 03:00:00",
+      "album": {
         "name": "EN EL CIELO",
         "url": "https://open.spotify.com/album/4rirmULdcVYZ0k6xpsDXDc"
       },
@@ -1047,26 +1067,6 @@
     {
       "added_at": "2024-02-09 03:00:00",
       "album": {
-        "name": "Mariposas",
-        "url": "https://open.spotify.com/album/0jt2HG9su1FciUJ2BgBJ30"
-      },
-      "artists": [
-        {
-          "name": "Echega",
-          "url": "https://open.spotify.com/artist/2Li2QjHBJr15McMHdQSPJc"
-        },
-        {
-          "name": "Mariana P\u00e4raway",
-          "url": "https://open.spotify.com/artist/17FXNujFBCzgEHqMIULmja"
-        }
-      ],
-      "duration_ms": 192464,
-      "name": "Mariposas",
-      "url": "https://open.spotify.com/track/0sINp2DnE4lC3LXVP3U7OD"
-    },
-    {
-      "added_at": "2024-02-09 03:00:00",
-      "album": {
         "name": "Lo Que Queda",
         "url": "https://open.spotify.com/album/1DZPwyCDVejGNFJt3EW1W4"
       },
@@ -1079,22 +1079,6 @@
       "duration_ms": 224737,
       "name": "Lo Que Queda",
       "url": "https://open.spotify.com/track/08P7zJowfvm0lI63b7xkUO"
-    },
-    {
-      "added_at": "2024-02-09 03:00:00",
-      "album": {
-        "name": "Lapso",
-        "url": "https://open.spotify.com/album/2CBql5YfVAaFq8GuDSu1KU"
-      },
-      "artists": [
-        {
-          "name": "Posguerra",
-          "url": "https://open.spotify.com/artist/6LXuhZRap06bMFoMDxGDAf"
-        }
-      ],
-      "duration_ms": 185314,
-      "name": "Tanto Az\u00facar",
-      "url": "https://open.spotify.com/track/4IM9rnYuCr4Y8T5VyXUih9"
     },
     {
       "added_at": "2024-02-09 03:00:00",
@@ -1115,6 +1099,22 @@
       "duration_ms": 233671,
       "name": "La Poesia Intermitente",
       "url": "https://open.spotify.com/track/5sEEsMp1Q2a0vccFrxSZkD"
+    },
+    {
+      "added_at": "2024-02-09 03:00:00",
+      "album": {
+        "name": "Lapso",
+        "url": "https://open.spotify.com/album/2CBql5YfVAaFq8GuDSu1KU"
+      },
+      "artists": [
+        {
+          "name": "Posguerra",
+          "url": "https://open.spotify.com/artist/6LXuhZRap06bMFoMDxGDAf"
+        }
+      ],
+      "duration_ms": 185314,
+      "name": "Tanto Az\u00facar",
+      "url": "https://open.spotify.com/track/4IM9rnYuCr4Y8T5VyXUih9"
     },
     {
       "added_at": "2024-02-09 03:00:00",

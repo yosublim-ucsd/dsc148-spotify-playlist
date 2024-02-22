@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol en la d\u00e9cada de los 2000. Foto: Paulina Rubio",
-  "num_followers": 295711,
+  "num_followers": 295926,
   "original_name": "Pop Latino: Los 2000",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NWVjYTA0MzA5ZWUwNDU2MDBlOGUxYTc2MDcxYTM4MGZjNTM5MDQ2",
+  "snapshot_id": "MCxkMDhiNzRlOTY5YTc2NTY3OTI4ZTdhNTM1NDQ3ZjAxNzkyMmNlZDRj",
   "tracks": [
     {
       "added_at": "2021-07-30 15:17:23",
@@ -647,18 +647,18 @@
     {
       "added_at": "2021-07-30 15:17:23",
       "album": {
-        "name": "Bacilos (Re-Issue)",
-        "url": "https://open.spotify.com/album/3oCkAeDln8FVoGIOvf9TNl"
+        "name": "Secuencia",
+        "url": "https://open.spotify.com/album/4kMpYWQfF4f4iXLhopgk3w"
       },
       "artists": [
         {
-          "name": "Bacilos",
-          "url": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
         }
       ],
-      "duration_ms": 312400,
-      "name": "Tabaco y Chanel",
-      "url": "https://open.spotify.com/track/48svUiwMMYQRPyesVEnof1"
+      "duration_ms": 221200,
+      "name": "Sabes",
+      "url": "https://open.spotify.com/track/37miw1ff4zH0LDuFrBvZ4i"
     },
     {
       "added_at": "2021-07-30 15:17:23",
@@ -679,18 +679,18 @@
     {
       "added_at": "2021-07-30 15:17:23",
       "album": {
-        "name": "Secuencia",
-        "url": "https://open.spotify.com/album/4kMpYWQfF4f4iXLhopgk3w"
+        "name": "Bacilos (Re-Issue)",
+        "url": "https://open.spotify.com/album/3oCkAeDln8FVoGIOvf9TNl"
       },
       "artists": [
         {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+          "name": "Bacilos",
+          "url": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
         }
       ],
-      "duration_ms": 221200,
-      "name": "Sabes",
-      "url": "https://open.spotify.com/track/37miw1ff4zH0LDuFrBvZ4i"
+      "duration_ms": 312400,
+      "name": "Tabaco y Chanel",
+      "url": "https://open.spotify.com/track/48svUiwMMYQRPyesVEnof1"
     },
     {
       "added_at": "2021-07-30 15:17:23",
@@ -775,22 +775,6 @@
     {
       "added_at": "2021-07-30 15:17:23",
       "album": {
-        "name": "Par\u00eds",
-        "url": "https://open.spotify.com/album/0QM5DL8C9uOYI2hGKbLUq8"
-      },
-      "artists": [
-        {
-          "name": "La Oreja de Van Gogh",
-          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
-        }
-      ],
-      "duration_ms": 237026,
-      "name": "Rosas",
-      "url": "https://open.spotify.com/track/06p2Ij0lXD45LODQDCov0u"
-    },
-    {
-      "added_at": "2021-07-30 15:17:23",
-      "album": {
         "name": "Paulina",
         "url": "https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB"
       },
@@ -807,18 +791,38 @@
     {
       "added_at": "2021-07-30 15:17:23",
       "album": {
-        "name": "Hijas del Tomate",
-        "url": "https://open.spotify.com/album/5Fs94v1xXPl8Q1mTMWMTLO"
+        "name": "Par\u00eds",
+        "url": "https://open.spotify.com/album/0QM5DL8C9uOYI2hGKbLUq8"
       },
       "artists": [
         {
-          "name": "Las Ketchup",
-          "url": "https://open.spotify.com/artist/1e8GEl48ktvfDpruMKB6Oe"
+          "name": "La Oreja de Van Gogh",
+          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
         }
       ],
-      "duration_ms": 213973,
-      "name": "The Ketchup Song (Aserej\u00e9) - Spanglish Version",
-      "url": "https://open.spotify.com/track/6UEfyhyfhYQsyipxOd95Ie"
+      "duration_ms": 237026,
+      "name": "Rosas",
+      "url": "https://open.spotify.com/track/06p2Ij0lXD45LODQDCov0u"
+    },
+    {
+      "added_at": "2021-07-30 15:17:23",
+      "album": {
+        "name": "\u00bfQu\u00e9 pides t\u00fa? (Argentina)",
+        "url": "https://open.spotify.com/album/7cJiLvzLDaEhi2K4pfPYjl"
+      },
+      "artists": [
+        {
+          "name": "Alex Ubago",
+          "url": "https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X"
+        },
+        {
+          "name": "Amaia Montero",
+          "url": "https://open.spotify.com/artist/4LbuSjHhhAddvN44qXpRJo"
+        }
+      ],
+      "duration_ms": 310866,
+      "name": "Sin miedo a nada (feat. Amaia Montero)",
+      "url": "https://open.spotify.com/track/02bKaAG61tMw9c63fzKXal"
     }
   ],
   "unique_name": "Pop Latino: Los 2000",

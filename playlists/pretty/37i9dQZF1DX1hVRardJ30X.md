@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: KAROL G & Tiesto
 
-[Spotify](https://open.spotify.com/user/spotify) - 584,062 likes - 51 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 584,086 likes - 51 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 50 | [Un Poco Mas](https://open.spotify.com/track/7y7HRD3oCkgJ4k3dQfyyGx) | [ALOISIO](https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U) | [Un Poco Mas](https://open.spotify.com/album/6QuW1SHle8WbCHdJxKZJJy) | 2:47 |
 | 51 | [No Lo Diré](https://open.spotify.com/track/7ieqmhSmXg1RMpkhkOjEgE) | [ELENA](https://open.spotify.com/artist/6OCqShu6SL11NqhFIUaXzg) | [No Lo Diré](https://open.spotify.com/album/0arp1SEz08LGaOO1YdBEA2) | 2:47 |
 
-Snapshot ID: `MCwwZGJmOTA0NTRlODEyMjVmMjgwYmRlYTIxMTU2YWNlNWE1MmViMTY4`
+Snapshot ID: `MCxmZDUzNjE4YmJkY2Q2YWUxMDNiZjg5YmZmN2ZmYWYxODY0NWJhNDI3`

@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: Ti\u00ebsto, Karol G",
-  "num_followers": 973199,
+  "num_followers": 973232,
   "original_name": "Pop con \u00d1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NDUwZjVhYTQxOWNkOWRiZjdkMTQ5MmYyNTVlN2VhNTE3NTNhN2Nj",
+  "snapshot_id": "MCxmZjFiOGNiODI0NTdjODIzZTU5MWFiODdlODI5ZTY4ZjdkNjAwMzM2",
   "tracks": [
     {
       "added_at": "2024-02-19 11:24:23",
@@ -443,6 +443,26 @@
     {
       "added_at": "2024-02-19 11:24:23",
       "album": {
+        "name": "Morfina (feat. Paloma Mami)",
+        "url": "https://open.spotify.com/album/4ebIgeih3hq832lPORpKtp"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        },
+        {
+          "name": "Paloma Mami",
+          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
+        }
+      ],
+      "duration_ms": 229474,
+      "name": "Morfina (feat. Paloma Mami)",
+      "url": "https://open.spotify.com/track/4PFTO7EacpZMyuTa5dZGml"
+    },
+    {
+      "added_at": "2024-02-19 11:24:23",
+      "album": {
         "name": "tequiero",
         "url": "https://open.spotify.com/album/02zhFLX1EJtzhZMIEwKipN"
       },
@@ -459,6 +479,22 @@
       "duration_ms": 185958,
       "name": "tequiero",
       "url": "https://open.spotify.com/track/5K7cuVLC8T88DYb9kCLROK"
+    },
+    {
+      "added_at": "2024-02-19 11:24:23",
+      "album": {
+        "name": "Algo Sencillito",
+        "url": "https://open.spotify.com/album/5KD3zAPmFm1uiTXDHTBDZm"
+      },
+      "artists": [
+        {
+          "name": "Marta Santos",
+          "url": "https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK"
+        }
+      ],
+      "duration_ms": 177338,
+      "name": "Algo Sencillito",
+      "url": "https://open.spotify.com/track/2mlccfOj0SdzAoOQRca7vn"
     },
     {
       "added_at": "2024-02-19 11:24:23",
@@ -483,22 +519,6 @@
     {
       "added_at": "2024-02-19 11:24:23",
       "album": {
-        "name": "Algo Sencillito",
-        "url": "https://open.spotify.com/album/5KD3zAPmFm1uiTXDHTBDZm"
-      },
-      "artists": [
-        {
-          "name": "Marta Santos",
-          "url": "https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK"
-        }
-      ],
-      "duration_ms": 177338,
-      "name": "Algo Sencillito",
-      "url": "https://open.spotify.com/track/2mlccfOj0SdzAoOQRca7vn"
-    },
-    {
-      "added_at": "2024-02-19 11:24:23",
-      "album": {
         "name": "amor de verano",
         "url": "https://open.spotify.com/album/0fQ4D10TqLArXAxdPRq1RG"
       },
@@ -511,94 +531,6 @@
       "duration_ms": 176666,
       "name": "amor de verano",
       "url": "https://open.spotify.com/track/3ACVz5PwPN9P1PC6869Jn6"
-    },
-    {
-      "added_at": "2024-02-19 11:24:23",
-      "album": {
-        "name": "Suerte ;)",
-        "url": "https://open.spotify.com/album/5dnLUdUgCz47IqbGd9z6VZ"
-      },
-      "artists": [
-        {
-          "name": "\u00c1lvaro De Luna",
-          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
-        }
-      ],
-      "duration_ms": 164833,
-      "name": "Suerte ;)",
-      "url": "https://open.spotify.com/track/6sn1eF23Zvacs0oshUciXA"
-    },
-    {
-      "added_at": "2024-02-19 11:24:23",
-      "album": {
-        "name": "Morfina (feat. Paloma Mami)",
-        "url": "https://open.spotify.com/album/4ebIgeih3hq832lPORpKtp"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        },
-        {
-          "name": "Paloma Mami",
-          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
-        }
-      ],
-      "duration_ms": 229474,
-      "name": "Morfina (feat. Paloma Mami)",
-      "url": "https://open.spotify.com/track/4PFTO7EacpZMyuTa5dZGml"
-    },
-    {
-      "added_at": "2024-02-19 11:24:23",
-      "album": {
-        "name": "\u00c1NGEL",
-        "url": "https://open.spotify.com/album/3g5VwrXN4bKoU9UKux5k5N"
-      },
-      "artists": [
-        {
-          "name": "Cali Y El Dandee",
-          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
-        }
-      ],
-      "duration_ms": 187240,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/1DPtfQYOFB9IAEk1o4qBmS"
-    },
-    {
-      "added_at": "2024-02-19 11:24:23",
-      "album": {
-        "name": "SEROTONINA (DELUXE)",
-        "url": "https://open.spotify.com/album/77PfUu2wLVGjkkJ6uxL8vY"
-      },
-      "artists": [
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        },
-        {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
-        }
-      ],
-      "duration_ms": 211127,
-      "name": "COMO YO TE QUIERO (DELUXE)",
-      "url": "https://open.spotify.com/track/0scExGzOWnDaq2ExI3HRQx"
-    },
-    {
-      "added_at": "2024-02-19 11:24:23",
-      "album": {
-        "name": "Palabra Prohibida",
-        "url": "https://open.spotify.com/album/0SL3CXA1AkeE9i8mlaCCRZ"
-      },
-      "artists": [
-        {
-          "name": "Samura\u00ef",
-          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
-        }
-      ],
-      "duration_ms": 176881,
-      "name": "Palabra Prohibida",
-      "url": "https://open.spotify.com/track/4sRulaggpSTT3mLCZsaJ5v"
     },
     {
       "added_at": "2024-02-19 11:24:23",
@@ -623,18 +555,70 @@
     {
       "added_at": "2024-02-19 11:24:23",
       "album": {
-        "name": "Te echo de -",
-        "url": "https://open.spotify.com/album/2ZidbiN9jxUipofcnQohLN"
+        "name": "Suerte ;)",
+        "url": "https://open.spotify.com/album/5dnLUdUgCz47IqbGd9z6VZ"
       },
       "artists": [
         {
-          "name": "Noan",
-          "url": "https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM"
+          "name": "\u00c1lvaro De Luna",
+          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
         }
       ],
-      "duration_ms": 176226,
-      "name": "Te echo de -",
-      "url": "https://open.spotify.com/track/6bo5SaAuPbRA70oTA3MIRj"
+      "duration_ms": 164833,
+      "name": "Suerte ;)",
+      "url": "https://open.spotify.com/track/6sn1eF23Zvacs0oshUciXA"
+    },
+    {
+      "added_at": "2024-02-19 11:24:23",
+      "album": {
+        "name": "SEROTONINA (DELUXE)",
+        "url": "https://open.spotify.com/album/77PfUu2wLVGjkkJ6uxL8vY"
+      },
+      "artists": [
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        }
+      ],
+      "duration_ms": 211127,
+      "name": "COMO YO TE QUIERO (DELUXE)",
+      "url": "https://open.spotify.com/track/0scExGzOWnDaq2ExI3HRQx"
+    },
+    {
+      "added_at": "2024-02-19 11:24:23",
+      "album": {
+        "name": "\u00c1NGEL",
+        "url": "https://open.spotify.com/album/3g5VwrXN4bKoU9UKux5k5N"
+      },
+      "artists": [
+        {
+          "name": "Cali Y El Dandee",
+          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
+        }
+      ],
+      "duration_ms": 187240,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/1DPtfQYOFB9IAEk1o4qBmS"
+    },
+    {
+      "added_at": "2024-02-19 11:24:23",
+      "album": {
+        "name": "Palabra Prohibida",
+        "url": "https://open.spotify.com/album/0SL3CXA1AkeE9i8mlaCCRZ"
+      },
+      "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        }
+      ],
+      "duration_ms": 176881,
+      "name": "Palabra Prohibida",
+      "url": "https://open.spotify.com/track/4sRulaggpSTT3mLCZsaJ5v"
     },
     {
       "added_at": "2024-02-19 11:24:23",
@@ -655,6 +639,38 @@
       "duration_ms": 171593,
       "name": "Si no fuera por ti",
       "url": "https://open.spotify.com/track/4tgJisrpPVo6VUpz9gLrDK"
+    },
+    {
+      "added_at": "2024-02-19 11:24:23",
+      "album": {
+        "name": "Te echo de -",
+        "url": "https://open.spotify.com/album/2ZidbiN9jxUipofcnQohLN"
+      },
+      "artists": [
+        {
+          "name": "Noan",
+          "url": "https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM"
+        }
+      ],
+      "duration_ms": 176226,
+      "name": "Te echo de -",
+      "url": "https://open.spotify.com/track/6bo5SaAuPbRA70oTA3MIRj"
+    },
+    {
+      "added_at": "2024-02-19 11:24:23",
+      "album": {
+        "name": "Pasado Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/467IwAn2Dtwex8TLMnHiBM"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 137693,
+      "name": "Pasado Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/1gUf12HGllfBJdGlM7Vk04"
     },
     {
       "added_at": "2024-02-19 11:24:23",
@@ -699,22 +715,6 @@
     {
       "added_at": "2024-02-19 11:24:23",
       "album": {
-        "name": "Pasado Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/467IwAn2Dtwex8TLMnHiBM"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 137693,
-      "name": "Pasado Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/1gUf12HGllfBJdGlM7Vk04"
-    },
-    {
-      "added_at": "2024-02-19 11:24:23",
-      "album": {
         "name": "TE TRAJE FLORES",
         "url": "https://open.spotify.com/album/4TFyBwPFFulgy4cPKfeuxA"
       },
@@ -727,6 +727,38 @@
       "duration_ms": 177103,
       "name": "COMO TE QUIERO YO",
       "url": "https://open.spotify.com/track/5ElBS8iZQYjScNJCtwLXKO"
+    },
+    {
+      "added_at": "2024-02-19 11:24:23",
+      "album": {
+        "name": "PALANTE",
+        "url": "https://open.spotify.com/album/0Ts13cnp7kgWyaSfemKGkA"
+      },
+      "artists": [
+        {
+          "name": "Funzo & Baby Loud",
+          "url": "https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC"
+        }
+      ],
+      "duration_ms": 156586,
+      "name": "BLACK OPIUM",
+      "url": "https://open.spotify.com/track/09778gErBvUNDu4hCBiwPX"
+    },
+    {
+      "added_at": "2024-02-19 11:24:23",
+      "album": {
+        "name": "los chicos no lloran",
+        "url": "https://open.spotify.com/album/7uKY4Ga9A9LDtaAWG7hV2H"
+      },
+      "artists": [
+        {
+          "name": "Paula Koops",
+          "url": "https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0"
+        }
+      ],
+      "duration_ms": 198674,
+      "name": "los chicos no lloran",
+      "url": "https://open.spotify.com/track/2jD6X6gSLtynew2xj6qHRt"
     },
     {
       "added_at": "2024-02-19 11:24:23",
@@ -763,22 +795,6 @@
       "duration_ms": 203528,
       "name": "La \u00daltima",
       "url": "https://open.spotify.com/track/2jGTk6Id9zdIonBH9H18rW"
-    },
-    {
-      "added_at": "2024-02-19 11:24:23",
-      "album": {
-        "name": "los chicos no lloran",
-        "url": "https://open.spotify.com/album/7uKY4Ga9A9LDtaAWG7hV2H"
-      },
-      "artists": [
-        {
-          "name": "Paula Koops",
-          "url": "https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0"
-        }
-      ],
-      "duration_ms": 198674,
-      "name": "los chicos no lloran",
-      "url": "https://open.spotify.com/track/2jD6X6gSLtynew2xj6qHRt"
     },
     {
       "added_at": "2024-02-19 11:24:23",
@@ -855,22 +871,6 @@
       "duration_ms": 193626,
       "name": "Pirata",
       "url": "https://open.spotify.com/track/4QE2lll1AHZw20DOnkGmZD"
-    },
-    {
-      "added_at": "2024-02-19 11:24:23",
-      "album": {
-        "name": "PALANTE",
-        "url": "https://open.spotify.com/album/0Ts13cnp7kgWyaSfemKGkA"
-      },
-      "artists": [
-        {
-          "name": "Funzo & Baby Loud",
-          "url": "https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC"
-        }
-      ],
-      "duration_ms": 156586,
-      "name": "BLACK OPIUM",
-      "url": "https://open.spotify.com/track/09778gErBvUNDu4hCBiwPX"
     },
     {
       "added_at": "2024-02-19 11:24:23",

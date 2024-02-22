@@ -4,7 +4,7 @@
 
 > Nothing but classic blues tracks
 
-101 songs - 6 hr 46 min
+102 songs - 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [Give Me Back My Wig](https://open.spotify.com/track/65dalI2zUxJy2ITurZAaUb) | [Hound Dog Taylor & The HouseRockers](https://open.spotify.com/artist/3vk5zTU4vGTefHNqZzDD4a) | [Hound Dog Taylor and The Houserockers](https://open.spotify.com/album/3whc6JMkDLZMngoWFIMJYV) | 3:35 | 2020-01-15 |  |
 | [Give Me Back My Wig \- Remastered](https://open.spotify.com/track/3kkCpDqhrOEBf0eOR2igEE) | [Hound Dog Taylor](https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4) | [Alligator Records 50 Years Of Genuine Houserockin' Music](https://open.spotify.com/album/30aecilbP86mA0dVdWcFp0) | 3:34 | 2021-06-18 | 2023-08-23 |
 | [Going Down](https://open.spotify.com/track/2wnjZXcAT3rCjjqxLeHjv7) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Getting Ready..\. \(World\)](https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI) | 3:24 | 2020-01-15 |  |
-| [Got My Mojo Working](https://open.spotify.com/track/65VzqBb5ogD2xIFD8jetMG) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [His Best 1956\-1964 \- The Chess 50th Anniversary Collection](https://open.spotify.com/album/21Lv19NsmMPpwUL58JCP57) | 2:53 | 2020-01-15 |  |
+| [Got My Mojo Working](https://open.spotify.com/track/18n0zch7bRo453Iwq98xYf) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Chess Box](https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB) | 2:52 | 2020-01-15 |  |
+| [Got My Mojo Working](https://open.spotify.com/track/65VzqBb5ogD2xIFD8jetMG) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [His Best 1956\-1964 \- The Chess 50th Anniversary Collection](https://open.spotify.com/album/21Lv19NsmMPpwUL58JCP57) | 2:53 | 2020-01-15 | 2024-02-22 |
 | [Have You Ever Loved A Woman?](https://open.spotify.com/track/2ROJOb98GorxStuOuZWcGd) | [Derek & The Dominos](https://open.spotify.com/artist/2rc78XDH9zuJP6bm78lU8Z) | [Layla And Other Assorted Love Songs \(Remastered 2010\)](https://open.spotify.com/album/5iIWnMgvSM8uEBwXKsPcXM) | 6:52 | 2020-01-15 |  |
 | [Have You Ever Loved A Woman? \- 40th Anniversary Version / 2010 Remastered](https://open.spotify.com/track/4ZPulVXS8LmmcWlmM82mpC) | [Derek & The Dominos](https://open.spotify.com/artist/2rc78XDH9zuJP6bm78lU8Z) | [Layla And Other Assorted Love Songs \(Super Deluxe Edition\)](https://open.spotify.com/album/79u2ZsF3EcnpDO29gBfIQu) | 6:52 | 2018-03-29 | 2022-07-28 |
 | [Help Me](https://open.spotify.com/track/0RYe9pP6Fa3jzEh1n0RZou) | [Sonny Boy Williamson II](https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK) | [The Essential Sonny Boy Williamson](https://open.spotify.com/album/4DF0rg3dCm8qKrVCpZWIDc) | 3:08 | 2018-03-29 | 2022-07-29 |

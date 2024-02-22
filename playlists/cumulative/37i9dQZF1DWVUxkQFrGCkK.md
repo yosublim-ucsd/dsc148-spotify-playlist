@@ -4,7 +4,7 @@
 
 > Tulum szn
 
-433 songs - 1 day 8 hr 11 min
+434 songs - 1 day 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,8 @@
 | [Extract](https://open.spotify.com/track/6t1VuUS9kLIJyRpQMULvH8) | [Across Boundaries](https://open.spotify.com/artist/05LFLggIBdr1eWwonERbmT), [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So), [Locklead](https://open.spotify.com/artist/14X4Rn0s4EuGtizL0l8IIw) | [Sense of Future](https://open.spotify.com/album/1KcKv5A34ehM9aqPuVoDfH) | 7:33 | 2023-08-01 | 2023-08-25 |
 | [Fake ID \(Coke & Rum Remix\)](https://open.spotify.com/track/7cnS0EPwBnP9ZIdGOAOY7c) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3), [GEE LEE](https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5) | [Fake ID \(Coke & Rum Remix\)](https://open.spotify.com/album/7pKuRGliZzRAHJaFED7y6Q) | 2:06 | 2023-04-20 | 2023-10-13 |
 | [Fakez](https://open.spotify.com/track/1aZTq2c3CKbz6ROk61MPDF) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Fakez](https://open.spotify.com/album/2yyb5QmNvT0t90FlmVtb7X) | 4:31 | 2023-09-21 |  |
-| [Famax](https://open.spotify.com/track/72zBuma8aAT4UGTijcHQHx) | [RAFFA GUIDO](https://open.spotify.com/artist/5zvKbKHQcyZFvTYADnEkTQ) | [Famax / Mala Fama / Yafama](https://open.spotify.com/album/0hhxk3OBEzpwJqAEABTNdp) | 5:35 | 2024-01-11 |  |
+| [Famax](https://open.spotify.com/track/4yhqQAKFiHNCXpxxFVhxRq) | [RAFFA GUIDO](https://open.spotify.com/artist/5zvKbKHQcyZFvTYADnEkTQ) | [Famax](https://open.spotify.com/album/1wwVoTyNUWFP6BAOcGWbZI) | 5:35 | 2024-02-15 |  |
+| [Famax](https://open.spotify.com/track/72zBuma8aAT4UGTijcHQHx) | [RAFFA GUIDO](https://open.spotify.com/artist/5zvKbKHQcyZFvTYADnEkTQ) | [Famax / Mala Fama / Yafama](https://open.spotify.com/album/0hhxk3OBEzpwJqAEABTNdp) | 5:35 | 2024-01-11 | 2024-02-22 |
 | [Fashion Week \(with Channel Tres\)](https://open.spotify.com/track/22dTRFvs4NIWcfynMRHWxM) | [Barney Bones](https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Fashion Week \(with Channel Tres\)](https://open.spotify.com/album/25ru5khx1Ak99m4a2n2YBB) | 3:34 | 2023-04-13 | 2023-08-25 |
 | [Favela Joint](https://open.spotify.com/track/1ygoSdSGNwK3PIWxizJRnm) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Kura](https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T) | [Favela Joint](https://open.spotify.com/album/5tGqwxDFlJMRXm4Iiwnqb9) | 3:38 | 2023-10-26 |  |
 | [Feel It](https://open.spotify.com/track/0rFEnMc3sD4FGlDVIlpkI7) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [DreamySpaceyBlue](https://open.spotify.com/album/4U0pwwxuvYHaoH71qD6N8c) | 5:55 | 2024-02-08 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Classic songs that built the foundations of punk. Cover: Johnny Rotten ",
-  "num_followers": 1554004,
+  "num_followers": 1554291,
   "original_name": "Classic Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YWQyZjNlNWI0YzcxZTFjMzM4ZjFiYjUzYTViN2E0ZWE2NTE1MzZh",
+  "snapshot_id": "MCxlN2YyNzllNjRlYjAyZjE1ODA1ZGJkNjQyNjZlNDQ5NjE3Y2QzYjIw",
   "tracks": [
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1011,38 +1011,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Spurts: The Richard Hell Story (2013 Remaster)",
-        "url": "https://open.spotify.com/album/0nejx6WUKHja3fesKClRCF"
-      },
-      "artists": [
-        {
-          "name": "Richard Hell",
-          "url": "https://open.spotify.com/artist/121Q6oslYCMBYZHhOFL1RB"
-        }
-      ],
-      "duration_ms": 167840,
-      "name": "Blank Generation - 2013 Remaster",
-      "url": "https://open.spotify.com/track/5OGfBbWmRRkDiZiJbu5WIr"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
-        "name": "Young, Loud And Snotty",
-        "url": "https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ"
-      },
-      "artists": [
-        {
-          "name": "Dead Boys",
-          "url": "https://open.spotify.com/artist/4RjtLUZNqLtMpRKIOaVokc"
-        }
-      ],
-      "duration_ms": 189333,
-      "name": "Sonic Reducer",
-      "url": "https://open.spotify.com/track/678Fh7cIfN1sLqxsj5sc2G"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "GI",
         "url": "https://open.spotify.com/album/1dwzhoYlTd5ZgPygszllwo"
       },
@@ -1059,6 +1027,22 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
+        "name": "Spurts: The Richard Hell Story (2013 Remaster)",
+        "url": "https://open.spotify.com/album/0nejx6WUKHja3fesKClRCF"
+      },
+      "artists": [
+        {
+          "name": "Richard Hell",
+          "url": "https://open.spotify.com/artist/121Q6oslYCMBYZHhOFL1RB"
+        }
+      ],
+      "duration_ms": 167840,
+      "name": "Blank Generation - 2013 Remaster",
+      "url": "https://open.spotify.com/track/5OGfBbWmRRkDiZiJbu5WIr"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
         "name": "Double Nickels on the Dime",
         "url": "https://open.spotify.com/album/5viZ5HyYtV0wafK7DoXmgF"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 89666,
       "name": "Viet Nam",
       "url": "https://open.spotify.com/track/21vp1orbqySVyww9ngW44w"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Young, Loud And Snotty",
+        "url": "https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ"
+      },
+      "artists": [
+        {
+          "name": "Dead Boys",
+          "url": "https://open.spotify.com/artist/4RjtLUZNqLtMpRKIOaVokc"
+        }
+      ],
+      "duration_ms": 189333,
+      "name": "Sonic Reducer",
+      "url": "https://open.spotify.com/track/678Fh7cIfN1sLqxsj5sc2G"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Entertainment!",
-        "url": "https://open.spotify.com/album/7LMOo068Ndv0wjTGUDtYqK"
-      },
-      "artists": [
-        {
-          "name": "Gang Of Four",
-          "url": "https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl"
-        }
-      ],
-      "duration_ms": 186493,
-      "name": "Natural's Not In It",
-      "url": "https://open.spotify.com/track/42wVwmI5Vt9H5hwcXHg59E"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Cut (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6ppPT0aXOtsAlG1QQVB9E0"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 235653,
       "name": "Typical Girls",
       "url": "https://open.spotify.com/track/395kSI564E2Rl1Nh5kGOxQ"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Entertainment!",
+        "url": "https://open.spotify.com/album/7LMOo068Ndv0wjTGUDtYqK"
+      },
+      "artists": [
+        {
+          "name": "Gang Of Four",
+          "url": "https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl"
+        }
+      ],
+      "duration_ms": 186493,
+      "name": "Natural's Not In It",
+      "url": "https://open.spotify.com/track/42wVwmI5Vt9H5hwcXHg59E"
     },
     {
       "added_at": "2022-11-28 15:26:19",

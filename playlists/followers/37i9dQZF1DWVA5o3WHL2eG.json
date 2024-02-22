@@ -1,5 +1,5 @@
 {
-  "2024-02-21": 33005,
+  "2024-02-22": 33007,
   "date_first_scraped": "2021-12-28",
   "description": "Women at full volume. Cover: ana\u00efs",
   "name": "EQUAL GSA",
@@ -7412,6 +7412,24 @@
     },
     {
       "album": {
+        "name": "AMY WINEHOUZE",
+        "url": "https://open.spotify.com/album/4cDjx3jrT1FVnnZdilXq9n"
+      },
+      "artists": [
+        {
+          "name": "LIZ",
+          "url": "https://open.spotify.com/artist/793QToVJnVh8Op8YSqJsSm"
+        }
+      ],
+      "date_added": "2024-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156147,
+      "name": "Gangster tanzen nicht",
+      "url": "https://open.spotify.com/track/2yMOo8J6FpUZzfuSi0kTSu"
+    },
+    {
+      "album": {
         "name": "Gangster tanzen nicht",
         "url": "https://open.spotify.com/album/1LbrdIsJZmHmxeIQokCR6C"
       },
@@ -7423,7 +7441,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 156147,
       "name": "Gangster tanzen nicht",
       "url": "https://open.spotify.com/track/60jHbQpCA3AUi0iAj5HzSt"

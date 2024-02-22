@@ -4,7 +4,7 @@
 
 > 話題のロックヒットをVolume上げて爆音で。Cover: Paramore
 
-1,076 songs - 2 day 14 hr 2 min
+1,077 songs - 2 day 14 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -712,7 +712,7 @@
 | [Overdrive](https://open.spotify.com/track/3txPM4gTomDS4W74QjQJGb) | [Normandie](https://open.spotify.com/artist/1zsOttiR3VjZRnw4Iq8Zg6) | [Dopamine](https://open.spotify.com/album/5K889aEPnh7CwnPoNIjepu) | 2:26 | 2024-02-08 |  |
 | [Oysters In My Pocket](https://open.spotify.com/track/2B664ulJSVBd6B8SAY3Wux) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Oysters In My Pocket](https://open.spotify.com/album/2tQ8dsmr0EpIJ5FFyUMQES) | 2:42 | 2023-03-16 | 2023-04-21 |
 | [Pall To The Wall](https://open.spotify.com/track/0BoUmEpU5vKwrx0O7lBHGy) | [Press To Enter](https://open.spotify.com/artist/6D9h9kJWyTNpFhDRY7XWjy) | [From Mirror To Road](https://open.spotify.com/album/5ClicSf9mXsyXzHVP7BDHs) | 5:41 | 2023-12-14 | 2023-12-22 |
-| [Paper Machete](https://open.spotify.com/track/4zx4H3Q0ASymmPgbfUmeRo) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [In Times New Roman...](https://open.spotify.com/album/2ZTDmH94OLjeNaOvT7Ngwk) | 3:22 | 2023-07-15 |  |
+| [Paper Machete](https://open.spotify.com/track/4zx4H3Q0ASymmPgbfUmeRo) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [In Times New Roman...](https://open.spotify.com/album/2ZTDmH94OLjeNaOvT7Ngwk) | 3:22 | 2023-07-15 | 2024-02-22 |
 | [Paper Machete](https://open.spotify.com/track/5vdEuDGGG5PuyHwN6xtc6W) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Paper Machete](https://open.spotify.com/album/2ec7VED8zxmb93zpjdFYBM) | 3:22 | 2023-06-15 | 2023-06-30 |
 | [Paper Trails \- Live in Paris, June 5, 2023](https://open.spotify.com/track/1tkmbrMhSwb7lQ2czJQOb5) | [DARKSIDE](https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB) | [Psychic \(Expanded\)](https://open.spotify.com/album/6wZnM3aquJUVS7GyuUOoQ8) | 10:13 | 2023-10-19 | 2023-10-27 |
 | [Paradox](https://open.spotify.com/track/0Xz3vuo3cINtRsZWMsxZUx) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh), [Bonnie Fraser](https://open.spotify.com/artist/4lPsOekQkRVNqFikwNd7jZ) | [Paradox](https://open.spotify.com/album/33O3I5EWGkW54jeNWW1lZZ) | 4:01 | 2023-06-22 | 2023-06-30 |
@@ -729,6 +729,7 @@
 | [Piggie](https://open.spotify.com/track/1DVuD6ZWzdPf9PUeDAsOpS) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Piggie](https://open.spotify.com/album/47Nwndy2RaIR3JjvGr9LOm) | 2:58 | 2023-07-06 | 2023-07-21 |
 | [Pink Little Lighter](https://open.spotify.com/track/70kY1hRAhnubQN7FYWkaQp) | [Connor Kauffman](https://open.spotify.com/artist/0bFEOKy3T1knA0g7ZaPnHe) | [Two Hearts](https://open.spotify.com/album/26FBkT3dPPllQu7Ssrvf5U) | 2:13 | 2024-01-25 | 2024-02-02 |
 | [Pink Moon](https://open.spotify.com/track/7fHzjaSpIqRPXP2s5hJS1M) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Endless Coloured Ways: The Songs of Nick Drake](https://open.spotify.com/album/41NPRAXWRq1a5JKOfxvkfE) | 2:06 | 2023-07-06 | 2023-07-14 |
+| [Pink Skies](https://open.spotify.com/track/43Ka2d0YZZlOzVGwf96xNw) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [How Have You Been?](https://open.spotify.com/album/4FqEHLgdiMHXboXIztMkkO) | 3:21 | 2024-02-15 |  |
 | [Pink Skies](https://open.spotify.com/track/4MiJlJoCLr6X2Q7D9fN4hT) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Pink Skies](https://open.spotify.com/album/6mhMHaEdNMxyPi4Otr73nM) | 3:21 | 2024-01-11 | 2024-01-19 |
 | [Plastic Envelope](https://open.spotify.com/track/7oud5ro5Y5yKS38JwYdYoy) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [Plastic Envelope / Protect Him Always](https://open.spotify.com/album/7rmLFKfDkqSUmBOAfJUWTa) | 3:17 | 2023-05-11 | 2023-05-19 |
 | [Plastic Island](https://open.spotify.com/track/0BjWErwUIDiXrRpJUmSCh8) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Plastic Island](https://open.spotify.com/album/1z5LdevUqkMqghyib0eLJC) | 3:03 | 2023-06-08 | 2023-06-23 |

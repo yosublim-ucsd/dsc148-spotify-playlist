@@ -1,5 +1,5 @@
 {
-  "2024-02-21": 388739,
+  "2024-02-22": 388763,
   "date_first_scraped": "2022-04-19",
   "description": "Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers. (Cover: BAEKHO, Park Ji Won)",
   "name": "K-Pop Duets (\ub7ec\ube14\ub9ac \ub4c0\uc5e3)",
@@ -523,6 +523,28 @@
       "duration_ms": 225910,
       "name": "Blue night song",
       "url": "https://open.spotify.com/track/76HyXhCaHpv6O5pmR06s1B"
+    },
+    {
+      "album": {
+        "name": "[A]",
+        "url": "https://open.spotify.com/album/7EJPkVvOwB787PxrHCrrAE"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "MEENOI",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181384,
+      "name": "Bus Stop",
+      "url": "https://open.spotify.com/track/2X0Jlj1hP9q2xP5Lkd8sy4"
     },
     {
       "album": {
@@ -1307,7 +1329,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 229560,
       "name": "Freesia",
       "url": "https://open.spotify.com/track/4l4VWSIalMF7SgjLsmUAlK"
@@ -2147,7 +2169,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 220626,
       "name": "Love(Prod.Rocoberry)",
       "url": "https://open.spotify.com/track/29O4t4CViDRSDwiutvsOLS"
@@ -4827,6 +4849,24 @@
       "duration_ms": 164603,
       "name": "\uc6b0\ub9ac \ub9cc\ub098\ubcfc\ub798\uc694",
       "url": "https://open.spotify.com/track/4IFid2K7jKJ1Nc6nEX1GDT"
+    },
+    {
+      "album": {
+        "name": "\uc784\uc7ac\ubc94 30\uc8fc\ub144 \uae30\ub150 \uc568\ubc94 Project 1-\uc0ac\ub791\ubcf4\ub2e4 \uae4a\uc740 \uc0c1\ucc98",
+        "url": "https://open.spotify.com/album/78UBfvxzUNlnqIpmcaONul"
+      },
+      "artists": [
+        {
+          "name": "Lim Jae Beum",
+          "url": "https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272326,
+      "name": "\uc784\uc7ac\ubc94 30\uc8fc\ub144 \uae30\ub150 \uc568\ubc94 Project 1-\uc0ac\ub791\ubcf4\ub2e4 \uae4a\uc740 \uc0c1\ucc98",
+      "url": "https://open.spotify.com/track/587hjCTuwNiXOrYZIiVz83"
     },
     {
       "album": {

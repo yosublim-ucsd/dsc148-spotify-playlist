@@ -1,5 +1,5 @@
 {
-  "2024-02-21": 94094,
+  "2024-02-22": 94110,
   "date_first_scraped": "2022-02-06",
   "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Rachel Levin",
   "name": "Next Gen Singer-Songwriters",
@@ -4977,7 +4977,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 183057,
       "name": "I Know What It Isn't",
       "url": "https://open.spotify.com/track/0AHmkzxAC070F548NHKAM0"
@@ -6573,6 +6573,24 @@
       "duration_ms": 169765,
       "name": "Love You More",
       "url": "https://open.spotify.com/track/6yaskcE6j8qsypsSxMSaeL"
+    },
+    {
+      "album": {
+        "name": "Love You To Death",
+        "url": "https://open.spotify.com/album/2kWsq2EhITWoK0N4pu09A7"
+      },
+      "artists": [
+        {
+          "name": "Lily Williams",
+          "url": "https://open.spotify.com/artist/1f2q4venkA2pATVTmWhS6Z"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139000,
+      "name": "Love You To Death",
+      "url": "https://open.spotify.com/track/1LuGdo7IQW64Z6qyOq6kuw"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Anuv Jain
 
-277 songs - 15 hr 44 min
+278 songs - 15 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Husn](https://open.spotify.com/track/0TL0LFcwIBF5eX7arDIKxY) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Husn](https://open.spotify.com/album/2SarxpD48O1DOiDIccyZ0W) | 3:37 | 2023-12-01 |  |
 | [Ibadat](https://open.spotify.com/track/5dVAIwFQL6zh42WhG68ySk) | [Karan Nawani](https://open.spotify.com/artist/7rhiZksPc6NrFYY2x0iajU) | [Ibadat](https://open.spotify.com/album/3jIftDearbbeAnE7Sad8Kd) | 3:02 | 2024-02-13 |  |
 | [Ik Daffa](https://open.spotify.com/track/0p81CX3O1kwWvVE2NkHDsp) | [Turaab](https://open.spotify.com/artist/64Or1q5UDgq189fmuBe42s) | [Ik Daffa](https://open.spotify.com/album/6Sw9GsswHauMNPKlXuPH5u) | 4:43 | 2023-05-17 | 2023-06-01 |
+| [Ik Tarfa](https://open.spotify.com/track/5kAo09yI0O1o2qU9nLzoeQ) | [Mohit Aanand](https://open.spotify.com/artist/34RdxcV748gvPZDZ7U3GXy), [LTG](https://open.spotify.com/artist/7hdF2YLHKChiztK3Ui0bBp) | [Ik Tarfa](https://open.spotify.com/album/4ZGELdtNOQhqA1YUAAqRDR) | 4:19 | 2024-02-21 |  |
 | [ilhaam](https://open.spotify.com/track/1OZB6eUNMHMKEej1cdcVhZ) | [SUKOON](https://open.spotify.com/artist/2B8v7LECTltbjyzug5xYOe), [Rishabh Raghuvanshi](https://open.spotify.com/artist/6kiIpLgnbr3H9PCF4Rld8i) | [ilhaam](https://open.spotify.com/album/1uJxwiRhcsb96SPV5U03IH) | 4:40 | 2023-05-17 | 2023-06-27 |
 | [Intezaar Tha \- Reprise](https://open.spotify.com/track/4u4n04LrxLlT4pVpqGlqKX) | [Sai Kabir](https://open.spotify.com/artist/34fyQ7CTbQjqp1y5EjQKKg), [Gaurav Chatterji](https://open.spotify.com/artist/2yC22iFmcNBOfauIctRvPT) | [Tiku Weds Sheru \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4MH8afxzGgsHThYybVnWaZ) | 1:18 | 2023-06-23 | 2023-07-25 |
 | [Ishq Ibaadat Unplugged](https://open.spotify.com/track/2Wtc2cgnyX65GMvueKZhqh) | [Prakriti Giri](https://open.spotify.com/artist/0dzcXimfMVH1JQawG72WJJ) | [Ishq Ibaadat Unplugged](https://open.spotify.com/album/4BmVJFcq3Grop5OKD9JE04) | 2:34 | 2024-02-20 |  |
@@ -269,7 +270,7 @@
 | [Tum Kya Mile \- Jonita's Version](https://open.spotify.com/track/4kL3wGVwDpOVn8NOmKAopG) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Keba Jeremiah](https://open.spotify.com/artist/6DkjwBFBsTAzEo9M5HCI9c), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Tum Kya Mile \(Jonita's Version\)](https://open.spotify.com/album/0xKZP5O8CSbmMn5iOD9hpa) | 1:15 | 2023-10-03 | 2024-02-08 |
 | [Tum Mujhe Jaante Ho \- Ukulele Version](https://open.spotify.com/track/1kZZfGmtZHBd4cZOuov1k0) | [Trishita Recs](https://open.spotify.com/artist/4lB0A51UgKHZ00Uhuta9K4), [Luv](https://open.spotify.com/artist/1dEulvhhLRgnDn5DW1WNqe) | [Tum Mujhe Jaante Ho \(Ukulele Version\)](https://open.spotify.com/album/69hZQvIMjMIOEhgYmuWZua) | 3:50 | 2023-05-17 | 2024-02-10 |
 | [Tuney Na Jaana](https://open.spotify.com/track/1Cd2P5Ig4nt5NcG5et7fLF) | [ER](https://open.spotify.com/artist/7uhWXYh7CNH1M9Dwko8qll) | [Tuney Na Jaana](https://open.spotify.com/album/2GHvoPdcyuDqYBQigYxgbY) | 3:11 | 2023-12-08 | 2024-01-26 |
-| [Tuney Na Jaana](https://open.spotify.com/track/3UmiabeUzFCIsVvZeD3bpQ) | [ER](https://open.spotify.com/artist/7uhWXYh7CNH1M9Dwko8qll) | [Tuney Na Jaana](https://open.spotify.com/album/1IURcZttOHRR8mzbz1lRBm) | 3:11 | 2024-01-19 |  |
+| [Tuney Na Jaana](https://open.spotify.com/track/3UmiabeUzFCIsVvZeD3bpQ) | [ER](https://open.spotify.com/artist/7uhWXYh7CNH1M9Dwko8qll) | [Tuney Na Jaana](https://open.spotify.com/album/1IURcZttOHRR8mzbz1lRBm) | 3:11 | 2024-01-19 | 2024-02-22 |
 | [Uljhe se hum](https://open.spotify.com/track/6TPYVkZRpeL2rwkvUDuYhm) | [Vishal Sinha](https://open.spotify.com/artist/0UJG2meWUtvjPFAcyrOOBN) | [Uljhe se hum](https://open.spotify.com/album/5CPpw1mdt73Fs6Dd6qegJx) | 3:40 | 2023-09-09 | 2023-10-27 |
 | [Unke bina \(Raw\)](https://open.spotify.com/track/0S2VhMptqhyylEowrvMRRx) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS), [Hardik Sawhney](https://open.spotify.com/artist/1AeP2gkdtIPekU0HvEo3P5) | [Unke bina \(Raw\)](https://open.spotify.com/album/1zQdURnPPZXRLquGKTR5Qa) | 2:28 | 2023-05-17 | 2023-07-06 |
 | [Unke Rangon Mein](https://open.spotify.com/track/33k5PdmBBBvjFrYFnTqrzF) | [Ashwin Adwani](https://open.spotify.com/artist/5kiwICyQNDmCtwOPLvgY04) | [Unke Rangon Mein](https://open.spotify.com/album/7k4mVu7UlNacFUSHcDZkpa) | 2:52 | 2023-11-05 | 2024-02-14 |

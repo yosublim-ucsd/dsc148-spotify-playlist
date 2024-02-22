@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GU5JDX5Fk7.md) - [plain]
 
 > Enjoy the soundtrack of the drama 'Reborn Rich'! This playlist contains 10 songs to listen to to get revenge on the person/world that gave you a hard time selected by the actors\. \(드라마 '재벌집 막내아들'의 사운드 트랙을 감상해보세요! 본 플레이리스트에는 배우진들이 선정한 '날 힘들게 한 사람/세상에게 복수하기 위해 들어야 할 노래 10 곡'이 포함되어 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,519 likes - 22 songs - 1 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,524 likes - 22 songs - 1 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GU5JDX5Fk7.md) - [plain]
 | 17 | [Cross The Street](https://open.spotify.com/track/4mYSiH5xn1j2rrsY4fnXAA) | [Jazzyfact](https://open.spotify.com/artist/7l9DszIMmxbcc24RJwqJY8) | [Waves Like](https://open.spotify.com/album/00rJeDpdXyLu7YJo7CT4tE) | 4:00 |
 | 18 | [Dream Chaser](https://open.spotify.com/track/4u28ooQAY7a7fEYBCArnJQ) | [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W), [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Call Me Gray](https://open.spotify.com/album/2x2SvFWCwD3CB20PrSwwj9) | 4:33 |
 | 19 | [TRUE \(Prod\. by Way Ched\)](https://open.spotify.com/track/71z0yOhlBsiuUZvLxs6xbz) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [MARZ 2 AMBITION](https://open.spotify.com/album/4U1XmZrQVn3R0Y8GDTw356) | 2:32 |
-| 20 | [Infectious \(Til Infinity\)](https://open.spotify.com/track/2px0GGcYL18WjWgktFvTtT) | [Don Malik](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE) | [MALIK THE CACTUS FLOWER](https://open.spotify.com/album/5BP27AqCtwa5foaBPTxYJf) | 3:35 |
+| 20 | [Infectious \(Til Infinity\)](https://open.spotify.com/track/2px0GGcYL18WjWgktFvTtT) | [DON MALIK](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE) | [MALIK THE CACTUS FLOWER](https://open.spotify.com/album/5BP27AqCtwa5foaBPTxYJf) | 3:35 |
 | 21 | [NWP](https://open.spotify.com/track/7lmW5PhqQWzwXh2rwpWmNf) | [Xitsuh](https://open.spotify.com/artist/4vYWMxCZYe3kua8Yp5Ne2Z) | [NWP](https://open.spotify.com/album/0DwlgRKtnK83puTQbxBRsP) | 2:55 |
 | 22 | [Gucci](https://open.spotify.com/track/4g92HssasRkeh512kmMbUd) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [un2verse](https://open.spotify.com/album/1CUXs8F2dNEVkvHMgTAvuo) | 2:55 |
 
-Snapshot ID: `MCw4NzY4M2ExMGFhMjEzZThiM2NhYzNlODlhMjg1Njg1NzRiY2E0MjBl`
+Snapshot ID: `MCwxZGQwZjc0YjMxMDA3N2IzY2NkYTFiNjk0MDk2Y2E0NWE5YzE0MmU2`

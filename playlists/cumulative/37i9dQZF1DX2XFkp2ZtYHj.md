@@ -4,7 +4,7 @@
 
 > No lyrics, no distractions, just chilled piano and study vibes for as long as you need.
 
-212 songs - 8 hr 59 min
+217 songs - 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,10 +12,12 @@
 | [A Day In June](https://open.spotify.com/track/0AlsRtqib2JbMHDWvcDrus) | [Half Giant](https://open.spotify.com/artist/3nEq4JXO2GPqB7n95OacSk) | [A Day In June](https://open.spotify.com/album/7ssXeTKWZ23Y7g6CKzKrvd) | 2:00 | 2023-10-18 |  |
 | [A Path to Light](https://open.spotify.com/track/3I2YenkJ3pTUrCSgCmzkfX) | [Sylvan Riley](https://open.spotify.com/artist/5gjHc1ZN85jbDWD5KBh2Va) | [A Path to Light](https://open.spotify.com/album/5gi00HffqWDPjJToA1tPT8) | 2:22 | 2023-10-18 |  |
 | [A Song in D Minor](https://open.spotify.com/track/1EA7xsn5BkqM4rwZCaSiTM) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [A Song in D Minor](https://open.spotify.com/album/62MuvulljSXeo7VowDXfEX) | 3:23 | 2023-10-18 |  |
+| [A Soulful Journey](https://open.spotify.com/track/12anw5aeRQWbQVZINMKaoo) | [Rory Lewis](https://open.spotify.com/artist/5xMvSh83e0z7eBZSZ8dxKA) | [A Soulful Journey](https://open.spotify.com/album/3nNSJxyQHDBzYOrWrtaP2q) | 2:44 | 2024-02-21 |  |
 | [A tale to tell](https://open.spotify.com/track/1b1A6Z7pI8myEX3TSyweOk) | [Luiza Schmidt](https://open.spotify.com/artist/6cGebk3cSumbL2uYiLp2tV) | [A tale to tell](https://open.spotify.com/album/0eaPaXCdf4G33QFO93cfXc) | 2:10 | 2023-10-18 |  |
 | [Across the Currents](https://open.spotify.com/track/3s3XZbyompgwb7NXKKKsH8) | [Cai Harrington](https://open.spotify.com/artist/1Uf7osa9yPgNWu1JrAU3Iu) | [Across the Currents](https://open.spotify.com/album/1UhCCqxjYG9UmeaQTFYQvz) | 2:03 | 2023-10-18 |  |
 | [Affection](https://open.spotify.com/track/3C9XQnp8aNwSoyPhf1by3z) | [Robert Gafforelli](https://open.spotify.com/artist/16yfPw6Pf0UdDBX05HqCa7) | [Affection](https://open.spotify.com/album/13FzOtSVQw5IaMhGabmVhR) | 3:27 | 2023-12-13 |  |
 | [Afterlight](https://open.spotify.com/track/0X3mDFl8poPzyNQmrTe9fr) | [Arlo Thiem](https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd) | [Afterlight](https://open.spotify.com/album/4dNFgryxb6P7wJDsdPaupX) | 3:20 | 2023-10-18 |  |
+| [Afternoon Notes](https://open.spotify.com/track/1eCb9GfrxJjX0YTn0uPEMU) | [Maria Buehler](https://open.spotify.com/artist/414bu4YqVabs17TyYuWzbt) | [Afternoon Notes](https://open.spotify.com/album/3K4EvPk8Du2hyiXwUYkAuy) | 2:09 | 2024-02-21 |  |
 | [All I Hear Is Birds,](https://open.spotify.com/track/15hyn4FNUMbHexh7kLvb0e) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [All I Hear Is Birds,](https://open.spotify.com/album/0Bon3Uwy0rkElLuBz1YV71) | 2:47 | 2023-10-18 |  |
 | [Along dammed rivers](https://open.spotify.com/track/74kSL8wn4qNOURsSpye78o) | [Yasuo Zen](https://open.spotify.com/artist/4Gew7TmeuvKFbHl0PttGaz) | [Along dammed rivers](https://open.spotify.com/album/4p7zwsvBIehxETxwBLgRSK) | 2:15 | 2023-10-18 |  |
 | [Always](https://open.spotify.com/track/1RrzJG3MHtVbgmnpFuUKG9) | [Shin Suzuma](https://open.spotify.com/artist/6a3Jke3IQZCLtEkZOjro89) | [Introspect](https://open.spotify.com/album/6AxKd6jWuhiHs5hiVPi92Y) | 3:18 | 2023-10-18 |  |
@@ -38,9 +40,11 @@
 | [Between The Lines](https://open.spotify.com/track/33BPMNYcPhcua4D5MhJa6d) | [Michel Haspeslagh](https://open.spotify.com/artist/3pBbMbMr7qdCr9OA3hasPl) | [Between The lines](https://open.spotify.com/album/5jDKJJoabz0LeU11vXVfRR) | 2:28 | 2023-10-18 |  |
 | [Bird of Passage](https://open.spotify.com/track/79XrQYbxrhehKlaT70VfxN) | [Carmelito](https://open.spotify.com/artist/7GDVEcdwoNfZlN6sRYrjwZ) | [Bird of Passage](https://open.spotify.com/album/7y8UGL1WYh2YkErlNvqrBO) | 2:07 | 2023-10-18 |  |
 | [Black coal of dream](https://open.spotify.com/track/4QTsrZ1o0SRgx6FhdonuCi) | [Thomas Preber](https://open.spotify.com/artist/69HZUsV2eMEw0ka0BQTZ79) | [Black coal of dream](https://open.spotify.com/album/6Qr73LPNXy4GOM7t4SsfO4) | 2:05 | 2023-10-18 |  |
+| [Blessedness](https://open.spotify.com/track/1cM4gjiaQ8PS0rz1lv75LF) | [Tom Kristiaan](https://open.spotify.com/artist/1ZU9WJfipgna3ANBoomXYk) | [Blessedness](https://open.spotify.com/album/17HyaDaI7IB2II45VvAT2M) | 2:33 | 2024-02-21 |  |
 | [Blinded by the light](https://open.spotify.com/track/5ZADutZI6cNNyeYcSAiGbb) | [Yuko Kimura](https://open.spotify.com/artist/4sVQyVPaGQ1MzslDmkf8nn) | [Blinded by the light](https://open.spotify.com/album/2C8D0P6qH28RM0icHOaWI2) | 2:55 | 2023-10-18 |  |
 | [Calm Waves](https://open.spotify.com/track/2eN6gy29Emm7MRbQrcJs7d) | [Anthony Jacobus](https://open.spotify.com/artist/6qxdmY3SMyvfVadKXWTZQi) | [Calm Waves](https://open.spotify.com/album/0ZDf5tT8xNOjb7NkdQB8lH) | 2:36 | 2023-10-18 |  |
 | [Calm Wind](https://open.spotify.com/track/6fjZ39b5dT9uZzFsVRLwSi) | [Elfrieda](https://open.spotify.com/artist/6FHyFPk8S7LAUOvHBm5F5t) | [Calm Wind](https://open.spotify.com/album/3wpbjtW8zANzFTOIcdvF3K) | 2:20 | 2023-10-18 |  |
+| [Camino](https://open.spotify.com/track/6iRtD6kgCTAHOl5nXmOkop) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [Camino](https://open.spotify.com/album/5nyL3abLor8WN4Ba6mJIyr) | 2:15 | 2024-02-21 |  |
 | [Certain Days](https://open.spotify.com/track/3YKPxRJDUHhnFJUyjV57JQ) | [Viljar Iversen](https://open.spotify.com/artist/57zxco4Z1lUt03EMLy3GYl) | [Certain Days](https://open.spotify.com/album/2u2aoV0YFFubHvzgkaN244) | 2:18 | 2023-10-18 |  |
 | [Chaque seconde](https://open.spotify.com/track/7zE6q0FE26UZxgVt6HfZTK) | [Brielle De Villiers](https://open.spotify.com/artist/04Xt0qmp91mLlKm5aFsWWW) | [Chaque seconde](https://open.spotify.com/album/28jXOYo12w7BRvB9lA2q3V) | 2:06 | 2023-10-18 |  |
 | [Chasing lights](https://open.spotify.com/track/1oxnn6zzA7x9p8o46JetXm) | [Giles Garnier](https://open.spotify.com/artist/7kROE0Pp2o1NqMVIWLX3Vg) | [Chasing lights](https://open.spotify.com/album/2hD5lpDeL7dOU3EQGxkfGX) | 2:14 | 2023-10-18 |  |
@@ -64,6 +68,7 @@
 | [Elevation](https://open.spotify.com/track/741SePkge5anOObH5JLG5r) | [Celine Hayes](https://open.spotify.com/artist/5DYjSQAZSKcn363QyjYNrG) | [Elevation](https://open.spotify.com/album/7gM5ChlcBV9dLSxm53qLJ4) | 3:20 | 2023-11-22 |  |
 | [Ellipse](https://open.spotify.com/track/6mVw4YqgAB21pd1kuRs1HQ) | [Eve Dennison](https://open.spotify.com/artist/7BmoRv7JYnIZhZfy4M1aCK) | [Ellipse](https://open.spotify.com/album/3wPhguvaKQPIdvmoc5bkVW) | 2:28 | 2023-10-18 |  |
 | [Elysian](https://open.spotify.com/track/1tPeUoPyQkH8xvr9MqMXT3) | [Flori Vivea](https://open.spotify.com/artist/1g2rBoWONHzfurvm2ESnz0) | [Elysian](https://open.spotify.com/album/4UhcamXh0XDDEbLUirjiQQ) | 2:19 | 2023-10-18 |  |
+| [Emerald](https://open.spotify.com/track/0OpKRZqOmoSCtjfpkOa6Ew) | [Agatha Messina](https://open.spotify.com/artist/286xUM2HNGoiq5B1ym9cMI) | [Emerald](https://open.spotify.com/album/68F0SS9ueRjE4NUhAReYDE) | 2:17 | 2024-02-21 |  |
 | [Enchanted](https://open.spotify.com/track/4VFWqPpohVxrvj0X30zY7M) | [Francine Gaétane](https://open.spotify.com/artist/6gMlkMM2jbGYhiNAzcR6Zw) | [Enchanted](https://open.spotify.com/album/1Ok4CK8AVQH0v7KAVkmHSS) | 2:16 | 2023-10-18 |  |
 | [Erzählung](https://open.spotify.com/track/7KGvAbdvYZEtTOCIWNG205) | [Christian Menke](https://open.spotify.com/artist/6CQRmzc7EGzYTRkfLMXRPU) | [Erzählung](https://open.spotify.com/album/38CElXf2rWdFfn6wGN2Efb) | 2:51 | 2023-10-18 |  |
 | [Esperanza](https://open.spotify.com/track/5Mh54AIaFYYUMT3RGBJurm) | [Daniel Schrage](https://open.spotify.com/artist/4jUSZA2wRFImlXFhsV3Ab6) | [Esperanza](https://open.spotify.com/album/5jIyI96vqZTFgY0OoS2m1s) | 2:01 | 2023-10-18 |  |

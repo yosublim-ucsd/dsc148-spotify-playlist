@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: La Joaqui, Roze Oficial & Dj Tao.",
-  "num_followers": 1187751,
+  "num_followers": 1187789,
   "original_name": "Dame M\u00e1s Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NDEyMDk4ODVkODE0MmYzN2UyNWI0YjhiNjk4YzU1ZTEzMjIzOTll",
+  "snapshot_id": "MCwxOWI5NGU0YTc1YzAzNmNkYTc4ZTUyNmQ4YTkyN2U2NWZiOGMzY2Ni",
   "tracks": [
     {
       "added_at": "2024-02-16 03:00:00",
@@ -871,6 +871,22 @@
     {
       "added_at": "2024-02-16 03:00:00",
       "album": {
+        "name": "Pegao",
+        "url": "https://open.spotify.com/album/2BzQoZdHURkzdFErSQ2Qll"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 160733,
+      "name": "Pegao",
+      "url": "https://open.spotify.com/track/7Dk8r4VR5NoveUvTiCKEXC"
+    },
+    {
+      "added_at": "2024-02-16 03:00:00",
+      "album": {
         "name": "TU AMOR | E7",
         "url": "https://open.spotify.com/album/772pSj9TMLYJoULLYIEVBX"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 153665,
       "name": "TU AMOR | E7",
       "url": "https://open.spotify.com/track/3N6rAKpPraBOZqn9RhSrz0"
-    },
-    {
-      "added_at": "2024-02-16 03:00:00",
-      "album": {
-        "name": "Pegao",
-        "url": "https://open.spotify.com/album/2BzQoZdHURkzdFErSQ2Qll"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 160733,
-      "name": "Pegao",
-      "url": "https://open.spotify.com/track/7Dk8r4VR5NoveUvTiCKEXC"
     },
     {
       "added_at": "2024-02-16 03:00:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-02-16 03:00:00",
       "album": {
-        "name": "NO VUELVO A CAER",
-        "url": "https://open.spotify.com/album/43UowDzr6bGW5PT5gMyu7Y"
-      },
-      "artists": [
-        {
-          "name": "BM",
-          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "NO VUELVO A CAER",
-      "url": "https://open.spotify.com/track/71mPUsIl4zcHwiJKYB24op"
-    },
-    {
-      "added_at": "2024-02-16 03:00:00",
-      "album": {
         "name": "Cumbia Baby!",
         "url": "https://open.spotify.com/album/6JJ8pGKXBqfuDeYTyEl1kG"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 185438,
       "name": "Llamame M\u00e1s Temprano",
       "url": "https://open.spotify.com/track/6JVZ8mwbwSU8iiJUE2kyql"
+    },
+    {
+      "added_at": "2024-02-16 03:00:00",
+      "album": {
+        "name": "NO VUELVO A CAER",
+        "url": "https://open.spotify.com/album/43UowDzr6bGW5PT5gMyu7Y"
+      },
+      "artists": [
+        {
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "NO VUELVO A CAER",
+      "url": "https://open.spotify.com/track/71mPUsIl4zcHwiJKYB24op"
     },
     {
       "added_at": "2024-02-16 03:00:00",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2024-02-16 03:00:00",
       "album": {
+        "name": "No Est\u00e1 en la Flecha Sino en el Indio",
+        "url": "https://open.spotify.com/album/0c5AlFdcK0Tv073nYxrOBA"
+      },
+      "artists": [
+        {
+          "name": "Nene Malo",
+          "url": "https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN"
+        }
+      ],
+      "duration_ms": 185453,
+      "name": "Esc\u00e1pate Conmigo",
+      "url": "https://open.spotify.com/track/408q39K0rnY815TF5x52tb"
+    },
+    {
+      "added_at": "2024-02-16 03:00:00",
+      "album": {
         "name": "Verano 2024",
         "url": "https://open.spotify.com/album/1rEHJwwb30B6DfAotpO4Lq"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 156893,
       "name": "Verano 2024",
       "url": "https://open.spotify.com/track/3ivubUfc3U4Qu0u2GYA6T6"
-    },
-    {
-      "added_at": "2024-02-16 03:00:00",
-      "album": {
-        "name": "No Est\u00e1 en la Flecha Sino en el Indio",
-        "url": "https://open.spotify.com/album/0c5AlFdcK0Tv073nYxrOBA"
-      },
-      "artists": [
-        {
-          "name": "Nene Malo",
-          "url": "https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN"
-        }
-      ],
-      "duration_ms": 185453,
-      "name": "Esc\u00e1pate Conmigo",
-      "url": "https://open.spotify.com/track/408q39K0rnY815TF5x52tb"
     },
     {
       "added_at": "2024-02-16 03:00:00",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2024-02-16 03:00:00",
       "album": {
+        "name": "Cumbia Baby!",
+        "url": "https://open.spotify.com/album/6JJ8pGKXBqfuDeYTyEl1kG"
+      },
+      "artists": [
+        {
+          "name": "Mano Arriba",
+          "url": "https://open.spotify.com/artist/4YBAOrBF9vBB9inOLtpRzp"
+        }
+      ],
+      "duration_ms": 199495,
+      "name": "La Noche No Es para Dormir",
+      "url": "https://open.spotify.com/track/07ZHn1csuJvAQAZiYFds12"
+    },
+    {
+      "added_at": "2024-02-16 03:00:00",
+      "album": {
         "name": "#Tocoparavos",
         "url": "https://open.spotify.com/album/3cz9fxBXppuImbufikGk2D"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 149160,
       "name": "Hasta la luna",
       "url": "https://open.spotify.com/track/1A3yLIqelu1D7MCtw06Cu7"
-    },
-    {
-      "added_at": "2024-02-16 03:00:00",
-      "album": {
-        "name": "Cumbia Baby!",
-        "url": "https://open.spotify.com/album/6JJ8pGKXBqfuDeYTyEl1kG"
-      },
-      "artists": [
-        {
-          "name": "Mano Arriba",
-          "url": "https://open.spotify.com/artist/4YBAOrBF9vBB9inOLtpRzp"
-        }
-      ],
-      "duration_ms": 199495,
-      "name": "La Noche No Es para Dormir",
-      "url": "https://open.spotify.com/track/07ZHn1csuJvAQAZiYFds12"
     },
     {
       "added_at": "2024-02-16 03:00:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-02-16 03:00:00",
       "album": {
-        "name": "Cuando Se Pone a Bailar",
-        "url": "https://open.spotify.com/album/2PnTfdBKqkOYtazDgtClqX"
-      },
-      "artists": [
-        {
-          "name": "Rombai",
-          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
-        }
-      ],
-      "duration_ms": 195274,
-      "name": "Cuando Se Pone a Bailar",
-      "url": "https://open.spotify.com/track/1MpKZi1zTXpERKwxmOu1PH"
-    },
-    {
-      "added_at": "2024-02-16 03:00:00",
-      "album": {
         "name": "Un Mont\u00f3n de Estrellas (En Vivo Gran Rex)",
         "url": "https://open.spotify.com/album/26n9BrsrguZZFxxLruIgNR"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 165326,
       "name": "Un Mont\u00f3n de Estrellas - En Vivo Gran Rex",
       "url": "https://open.spotify.com/track/555Op74S64KmntebD6O3wa"
+    },
+    {
+      "added_at": "2024-02-16 03:00:00",
+      "album": {
+        "name": "Cuando Se Pone a Bailar",
+        "url": "https://open.spotify.com/album/2PnTfdBKqkOYtazDgtClqX"
+      },
+      "artists": [
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        }
+      ],
+      "duration_ms": 195274,
+      "name": "Cuando Se Pone a Bailar",
+      "url": "https://open.spotify.com/track/1MpKZi1zTXpERKwxmOu1PH"
     },
     {
       "added_at": "2024-02-16 03:00:00",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2024-02-16 03:00:00",
       "album": {
+        "name": "Cumbia Baby!",
+        "url": "https://open.spotify.com/album/6JJ8pGKXBqfuDeYTyEl1kG"
+      },
+      "artists": [
+        {
+          "name": "Mano Arriba",
+          "url": "https://open.spotify.com/artist/4YBAOrBF9vBB9inOLtpRzp"
+        }
+      ],
+      "duration_ms": 164081,
+      "name": "El Equivocado",
+      "url": "https://open.spotify.com/track/4bi9EKw1E7hDldh36dhp1R"
+    },
+    {
+      "added_at": "2024-02-16 03:00:00",
+      "album": {
         "name": "Pasatiempo",
         "url": "https://open.spotify.com/album/79S3lGLNc5komX3DBpmleq"
       },
@@ -1359,6 +1375,26 @@
       "duration_ms": 197161,
       "name": "Pasatiempo",
       "url": "https://open.spotify.com/track/0ZRswNoAS92a45NQjypAxL"
+    },
+    {
+      "added_at": "2024-02-16 03:00:00",
+      "album": {
+        "name": "Aquellos Tiempos",
+        "url": "https://open.spotify.com/album/7cq6fr12VRaq8kgbvX8oJV"
+      },
+      "artists": [
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        },
+        {
+          "name": "Sael",
+          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
+        }
+      ],
+      "duration_ms": 133711,
+      "name": "Aquellos Tiempos",
+      "url": "https://open.spotify.com/track/2J0L0LpkfmrVyZ9ez9ZfdY"
     },
     {
       "added_at": "2024-02-16 03:00:00",
@@ -1403,22 +1439,6 @@
       "duration_ms": 162461,
       "name": "Hoy Volvi a Verte - Remix",
       "url": "https://open.spotify.com/track/0KvtuCa8aGD8SR39aLLLj5"
-    },
-    {
-      "added_at": "2024-02-16 03:00:00",
-      "album": {
-        "name": "Cumbia Baby!",
-        "url": "https://open.spotify.com/album/6JJ8pGKXBqfuDeYTyEl1kG"
-      },
-      "artists": [
-        {
-          "name": "Mano Arriba",
-          "url": "https://open.spotify.com/artist/4YBAOrBF9vBB9inOLtpRzp"
-        }
-      ],
-      "duration_ms": 164081,
-      "name": "El Equivocado",
-      "url": "https://open.spotify.com/track/4bi9EKw1E7hDldh36dhp1R"
     },
     {
       "added_at": "2024-02-16 03:00:00",
@@ -1483,26 +1503,6 @@
     {
       "added_at": "2024-02-16 03:00:00",
       "album": {
-        "name": "Aquellos Tiempos",
-        "url": "https://open.spotify.com/album/7cq6fr12VRaq8kgbvX8oJV"
-      },
-      "artists": [
-        {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
-        },
-        {
-          "name": "Sael",
-          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
-        }
-      ],
-      "duration_ms": 133711,
-      "name": "Aquellos Tiempos",
-      "url": "https://open.spotify.com/track/2J0L0LpkfmrVyZ9ez9ZfdY"
-    },
-    {
-      "added_at": "2024-02-16 03:00:00",
-      "album": {
         "name": "Ya Fue",
         "url": "https://open.spotify.com/album/0X4z32fZIdYrvbvP6CbE78"
       },
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2024-02-16 03:00:00",
       "album": {
-        "name": "Piel a Piel",
-        "url": "https://open.spotify.com/album/2yNvAGaBafYOZbQsG7wQaJ"
-      },
-      "artists": [
-        {
-          "name": "Dame 5",
-          "url": "https://open.spotify.com/artist/0J65S0gB0D1gDEd0hK196k"
-        }
-      ],
-      "duration_ms": 155350,
-      "name": "Piel a Piel",
-      "url": "https://open.spotify.com/track/2q3B7GLCEA4uYvuo2g5P82"
-    },
-    {
-      "added_at": "2024-02-16 03:00:00",
-      "album": {
         "name": "El Otro",
         "url": "https://open.spotify.com/album/6swPfLunPCGK1WcmMML99p"
       },
@@ -1575,18 +1559,18 @@
     {
       "added_at": "2024-02-16 03:00:00",
       "album": {
-        "name": "Sin mirar Atr\u00e1s",
-        "url": "https://open.spotify.com/album/4XhxlkhkuQFRIOJCVN2Mpi"
+        "name": "Piel a Piel",
+        "url": "https://open.spotify.com/album/2yNvAGaBafYOZbQsG7wQaJ"
       },
       "artists": [
         {
-          "name": "Los Totora",
-          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
+          "name": "Dame 5",
+          "url": "https://open.spotify.com/artist/0J65S0gB0D1gDEd0hK196k"
         }
       ],
-      "duration_ms": 234626,
-      "name": "M\u00e1rchate ahora",
-      "url": "https://open.spotify.com/track/3voxukrHBXctzxdSbCycey"
+      "duration_ms": 155350,
+      "name": "Piel a Piel",
+      "url": "https://open.spotify.com/track/2q3B7GLCEA4uYvuo2g5P82"
     },
     {
       "added_at": "2024-02-16 03:00:00",
@@ -1635,26 +1619,6 @@
     {
       "added_at": "2024-02-16 03:00:00",
       "album": {
-        "name": "Si me viste llorando",
-        "url": "https://open.spotify.com/album/3IOGSoc6FXJtZqt3Rirmen"
-      },
-      "artists": [
-        {
-          "name": "Migrantes",
-          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
-        },
-        {
-          "name": "Nico Valdi",
-          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
-        }
-      ],
-      "duration_ms": 155110,
-      "name": "Si me viste llorando",
-      "url": "https://open.spotify.com/track/2X8fZsJSj0k7NXAYhrPZhP"
-    },
-    {
-      "added_at": "2024-02-16 03:00:00",
-      "album": {
         "name": "Tengo Ganas",
         "url": "https://open.spotify.com/album/7iTW31m0S1ErIYD8lSUQPD"
       },
@@ -1675,6 +1639,26 @@
     {
       "added_at": "2024-02-16 03:00:00",
       "album": {
+        "name": "Si me viste llorando",
+        "url": "https://open.spotify.com/album/3IOGSoc6FXJtZqt3Rirmen"
+      },
+      "artists": [
+        {
+          "name": "Migrantes",
+          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
+        },
+        {
+          "name": "Nico Valdi",
+          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
+        }
+      ],
+      "duration_ms": 155110,
+      "name": "Si me viste llorando",
+      "url": "https://open.spotify.com/track/2X8fZsJSj0k7NXAYhrPZhP"
+    },
+    {
+      "added_at": "2024-02-16 03:00:00",
+      "album": {
         "name": "Pechito Partido",
         "url": "https://open.spotify.com/album/2DSB1Vljm1tDrcH6Hk06F7"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 147109,
       "name": "Pechito Partido",
       "url": "https://open.spotify.com/track/1IT2VUL1Nx6Y3AdCfm0wcO"
+    },
+    {
+      "added_at": "2024-02-16 03:00:00",
+      "album": {
+        "name": "Sin mirar Atr\u00e1s",
+        "url": "https://open.spotify.com/album/4XhxlkhkuQFRIOJCVN2Mpi"
+      },
+      "artists": [
+        {
+          "name": "Los Totora",
+          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
+        }
+      ],
+      "duration_ms": 234626,
+      "name": "M\u00e1rchate ahora",
+      "url": "https://open.spotify.com/track/3voxukrHBXctzxdSbCycey"
     },
     {
       "added_at": "2024-02-16 03:00:00",
@@ -1843,6 +1843,30 @@
     {
       "added_at": "2024-02-16 03:00:00",
       "album": {
+        "name": "No Voy a Llorar Por Ti",
+        "url": "https://open.spotify.com/album/3YqBaqFPU0xKayjv6ZIThM"
+      },
+      "artists": [
+        {
+          "name": "Ian Lucas",
+          "url": "https://open.spotify.com/artist/4Y5ngKq3InS4UveL0Sp7Ik"
+        },
+        {
+          "name": "Fede Vigevani",
+          "url": "https://open.spotify.com/artist/3CuloJ8QY3IiCwna8Q6SOr"
+        },
+        {
+          "name": "Milthon",
+          "url": "https://open.spotify.com/artist/6gIF4fABYGdlhkCP8C22MK"
+        }
+      ],
+      "duration_ms": 156490,
+      "name": "No Voy a Llorar Por Ti",
+      "url": "https://open.spotify.com/track/30m4XdJm15IdPPKEbYl5GM"
+    },
+    {
+      "added_at": "2024-02-16 03:00:00",
+      "album": {
         "name": "Que Rico Baila",
         "url": "https://open.spotify.com/album/3VPmkC5efo6HJDW4oKQhLp"
       },
@@ -1883,30 +1907,6 @@
       "duration_ms": 140790,
       "name": "No Te Vas a Olvidar",
       "url": "https://open.spotify.com/track/6RwAPBAOhvyS3BTK5JaSq2"
-    },
-    {
-      "added_at": "2024-02-16 03:00:00",
-      "album": {
-        "name": "No Voy a Llorar Por Ti",
-        "url": "https://open.spotify.com/album/3YqBaqFPU0xKayjv6ZIThM"
-      },
-      "artists": [
-        {
-          "name": "Ian Lucas",
-          "url": "https://open.spotify.com/artist/4Y5ngKq3InS4UveL0Sp7Ik"
-        },
-        {
-          "name": "Fede Vigevani",
-          "url": "https://open.spotify.com/artist/3CuloJ8QY3IiCwna8Q6SOr"
-        },
-        {
-          "name": "Milthon",
-          "url": "https://open.spotify.com/artist/6gIF4fABYGdlhkCP8C22MK"
-        }
-      ],
-      "duration_ms": 156490,
-      "name": "No Voy a Llorar Por Ti",
-      "url": "https://open.spotify.com/track/30m4XdJm15IdPPKEbYl5GM"
     },
     {
       "added_at": "2024-02-16 03:00:00",
@@ -1991,22 +1991,6 @@
     {
       "added_at": "2024-02-16 03:00:00",
       "album": {
-        "name": "Me Voy",
-        "url": "https://open.spotify.com/album/4ZsEahCVUrqLbheIJR91bN"
-      },
-      "artists": [
-        {
-          "name": "Rombai",
-          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
-        }
-      ],
-      "duration_ms": 177786,
-      "name": "Me Voy",
-      "url": "https://open.spotify.com/track/22sESxzbY1O1E19xjOTaYf"
-    },
-    {
-      "added_at": "2024-02-16 03:00:00",
-      "album": {
         "name": "Lo Mejor del Amor",
         "url": "https://open.spotify.com/album/5vEQgXaLtCU2bozKTWOx6t"
       },
@@ -2039,6 +2023,22 @@
       "duration_ms": 140426,
       "name": "Ya No M\u00e1s",
       "url": "https://open.spotify.com/track/1NMPzsPosYJD13wunBmEAH"
+    },
+    {
+      "added_at": "2024-02-16 03:00:00",
+      "album": {
+        "name": "Me Voy",
+        "url": "https://open.spotify.com/album/4ZsEahCVUrqLbheIJR91bN"
+      },
+      "artists": [
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        }
+      ],
+      "duration_ms": 177786,
+      "name": "Me Voy",
+      "url": "https://open.spotify.com/track/22sESxzbY1O1E19xjOTaYf"
     }
   ],
   "unique_name": "Dame M\u00e1s Cumbia",

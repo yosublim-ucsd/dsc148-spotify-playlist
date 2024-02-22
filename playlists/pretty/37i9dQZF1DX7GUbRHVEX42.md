@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 
 > The best of current & contemporary Reggae\. Welcome To Jamrock Reggae Cruise\. Cover: Kabaka Pyramid
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,563 likes - 70 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,614 likes - 70 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 | 35 | [What Do You Say \(Move It Baby\) \- Damian “Jr\. Gong" Marley Remix](https://open.spotify.com/track/7jpublhStv0bwUo3ZdC0PS) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi), [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [What Do You Say \(Move It Baby\) \[Damian “Jr Gong" Marley Remix\]](https://open.spotify.com/album/1FdKhinPfReL7vJJB22DPI) | 4:15 |
 | 36 | [God is Love](https://open.spotify.com/track/7pm5ZgUZlDA5P51j9zIz6l) | [Beres Hammond](https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [God is Love](https://open.spotify.com/album/1Clv6Kk6nr5AzLu0JNZWyj) | 4:20 |
 | 37 | [Diamonds and Gold](https://open.spotify.com/track/2XMeQMiOJgKRoWcC3CHFtJ) | [Marlon Asher](https://open.spotify.com/artist/4DeCJnS3fuqohKk4FCVl0y), [Tarrus Riley](https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c), [Capleton](https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf) | [Diamonds and Gold](https://open.spotify.com/album/15muGQPID5opsEsRptvSDz) | 3:47 |
-| 38 | [Never Give Up](https://open.spotify.com/track/5YcRugjrGIBL6TjcmaDaqI) | [Zamunda](https://open.spotify.com/artist/7FjI2O0iKV8rvlHjiqZaPg) | [Jah Love Surround Me](https://open.spotify.com/album/5TUwg8z4VvkkeR8GGtdJz2) | 3:38 |
-| 39 | [Radio](https://open.spotify.com/track/3dRjsMrxyqUbN5bfyLGbOS) | [Jaz Elise](https://open.spotify.com/artist/1KcAq7rtxXV2RJ7BsFFItA) | [The Golden Hour](https://open.spotify.com/album/5KvwBh1yyh6HiaTGDBzP78) | 3:00 |
+| 38 | [Radio](https://open.spotify.com/track/3dRjsMrxyqUbN5bfyLGbOS) | [Jaz Elise](https://open.spotify.com/artist/1KcAq7rtxXV2RJ7BsFFItA) | [The Golden Hour](https://open.spotify.com/album/5KvwBh1yyh6HiaTGDBzP78) | 3:00 |
+| 39 | [Never Give Up](https://open.spotify.com/track/5YcRugjrGIBL6TjcmaDaqI) | [Zamunda](https://open.spotify.com/artist/7FjI2O0iKV8rvlHjiqZaPg) | [Jah Love Surround Me](https://open.spotify.com/album/5TUwg8z4VvkkeR8GGtdJz2) | 3:38 |
 | 40 | [Believe](https://open.spotify.com/track/4lelv8PEcOEpSxZGsYZWil) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Believe](https://open.spotify.com/album/09dXLJqAXCOCrsFNZv9NzC) | 2:38 |
 | 41 | [One Shot](https://open.spotify.com/track/14b19xNkaa81ANXj5arAhS) | [Navy](https://open.spotify.com/artist/5lcuEyOhY94UGnsCgzTFao) | [BLEU, Vol\. 1](https://open.spotify.com/album/3latFGBYveRAfvYRDIVDYe) | 3:21 |
 | 42 | [Keep Blazin'](https://open.spotify.com/track/3blQBAryJo7rmvRGW0rcTp) | [Green Lion Crew](https://open.spotify.com/artist/7iA6sxOMDOu5MnyfmKQv6m), [Roe Summerz](https://open.spotify.com/artist/28qKo7P9G17aasylX64m79) | [Keep Blazin'](https://open.spotify.com/album/0AbmIWR90BHUxSINeBPJ9G) | 3:04 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 | 69 | [Oh Jah](https://open.spotify.com/track/74iQyrji8Tbu5VDffj9rgZ) | [Jah Cure](https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy), [Ireland Boss](https://open.spotify.com/artist/3JoZVMSSVzYhhMQ5dthRuT) | [Oh Jah](https://open.spotify.com/album/7aVMzB3MdZyZkLXu7pJ1Oj) | 4:01 |
 | 70 | [Dirty Money](https://open.spotify.com/track/0beUa4YmnC5oMtWqzoeNYt) | [Jesse Royal](https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Dirty Money](https://open.spotify.com/album/04Och1XUiZ5tcwFRcTwAx5) | 4:13 |
 
-Snapshot ID: `MCxiYjAzYjAxODNkMWJjMjdmNTJlODllOWE0NWQwODJjMzM5OTJlMmZk`
+Snapshot ID: `MCxhNTE2MzExNjkxYjNlZWRlNDBhY2YwZDlmMzg5OGNjNmI2MjM1N2I1`

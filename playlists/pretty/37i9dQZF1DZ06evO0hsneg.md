@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hsneg.md) - [plain]
 
 > This is Ramengvrl\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 474 likes - 41 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 476 likes - 41 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hsneg.md) - [plain]
 | 27 | [FASHION](https://open.spotify.com/track/7eGp5xyGeFRxNvvuRuI0O3) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [FASHION](https://open.spotify.com/album/6ug6WG439KaIH5Yrl54iaH) | 3:13 |
 | 28 | [Let Em Be](https://open.spotify.com/track/3QS3Is7fJstMXzKY3XsYSY) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [Can't Speak English](https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc) | 2:40 |
 | 29 | [gippal](https://open.spotify.com/track/6dGpsVXOIQaRmaVyke05Yk) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [no bethany](https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU) | 3:25 |
-| 30 | [WHACHU MEAN](https://open.spotify.com/track/4l6yAxdimokdajN3NqpSL7) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [WHACHU MEAN](https://open.spotify.com/album/5FoWzMHf0UQsb4bdKPYz1t) | 3:34 |
-| 31 | [Go Get That B](https://open.spotify.com/track/70m0i8abrcAwhEVeg1l6lx) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Inayah](https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ) | [Go Get That B](https://open.spotify.com/album/4L0x5vBHiaushaskjdDPQu) | 2:32 |
+| 30 | [Go Get That B](https://open.spotify.com/track/70m0i8abrcAwhEVeg1l6lx) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Inayah](https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ) | [Go Get That B](https://open.spotify.com/album/4L0x5vBHiaushaskjdDPQu) | 2:32 |
+| 31 | [WHACHU MEAN](https://open.spotify.com/track/4l6yAxdimokdajN3NqpSL7) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [WHACHU MEAN](https://open.spotify.com/album/5FoWzMHf0UQsb4bdKPYz1t) | 3:34 |
 | 32 | [The Emo Song \(feat\. Sihk\)](https://open.spotify.com/track/3aHwfxoCUJPl4N2FBECfac) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Sihk](https://open.spotify.com/artist/0GRYh4b8TJ9LQelJhQuKh6) | [Can't Speak English](https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc) | 2:23 |
 | 33 | [out of control \(feat\. Rayi Putra\)](https://open.spotify.com/track/6AQYZbm4UrqyWBVpHy4Kax) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Rayi Putra](https://open.spotify.com/artist/3FduEXHFSq8Hboekc8JMUR) | [no bethany](https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU) | 3:01 |
 | 34 | [I'm Ugly](https://open.spotify.com/track/2a0xHqvmeaZN2mi71zH00m) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [I'm Ugly](https://open.spotify.com/album/7w4cxAlYqZ5bd6dyZ2IR0E) | 2:22 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hsneg.md) - [plain]
 | 40 | [whats ur problem](https://open.spotify.com/track/4Ktfx7qkCY1PkH3HwLkUU7) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [no bethany](https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU) | 2:45 |
 | 41 | [go commando](https://open.spotify.com/track/4mXjqQFVybIXWeKmLr1PGd) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [no bethany](https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU) | 2:45 |
 
-Snapshot ID: `Mjg0NzQxMzEsMDAwMDAwMDA2Y2M0ZDUyNTRjNDU2OGZlNzE3MTgzODMzNGE1NmFhMQ==`
+Snapshot ID: `Mjg0NzUyOTAsMDAwMDAwMDBhM2UxNTI4MTAzYjgxNDRlNDAzNWM4MzY5Yjc3NWY5Yw==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 
 > the best in hardcore\. open the pit w/ Harms Way.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,068 likes - 100 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,140 likes - 100 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 | 99 | [Killing Wage](https://open.spotify.com/track/4V3F6sf0U3DkIgoZlPeeGT) | [Enemy](https://open.spotify.com/artist/4jJEXN720s7o5vBPEJjvOD) | [Maladjusted](https://open.spotify.com/album/5C8PwVl2pPjnpGf68dV8PD) | 1:03 |
 | 100 | [Halfway](https://open.spotify.com/track/2iQ8BNDGU06JXqVYhOaKY5) | [Bent Blue](https://open.spotify.com/artist/1haOs9zOxraUzXYPEOs125) | [Where Do Ripples Go?](https://open.spotify.com/album/3QrvdDcBeldWqVJ09ADQrS) | 2:49 |
 
-Snapshot ID: `MCxhODVhYTg2MTllNzViY2IwMmY2YmFhNDEwNGJjMzA3ZTYzM2ViYjlm`
+Snapshot ID: `MCxjOWNiMjRjMDgyZWQyMzgxODhkMTgzNjJkNzQ2ZmY1OWU3ZDlmMTFj`

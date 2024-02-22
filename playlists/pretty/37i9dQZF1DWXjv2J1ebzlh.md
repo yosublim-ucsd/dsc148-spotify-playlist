@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,172 likes - 1,191 songs - 3 day 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,193 likes - 1,191 songs - 3 day 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -371,9 +371,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 361 | [Cayetano](https://open.spotify.com/track/1BFaDSpomuQfAGhhIn6Oaj) | [Antonio Morel Y Su Orquesta](https://open.spotify.com/artist/7FEKIGHt8kdHx8WjSBJkWj), [Antonio Morel](https://open.spotify.com/artist/1wP1FUeZ1k12MrEnYlmugi) | [Baila Merengue!](https://open.spotify.com/album/4YQhygJml4jAPJr46Nb3I5) | 2:48 |
 | 362 | [Que Nadie Sepa Mi Sufrir](https://open.spotify.com/track/13ZRVSoA9lHGXXHDC5w4gF) | [Julio Jaramillo](https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8) | [30 Mejores](https://open.spotify.com/album/7y1ox9IBe1OKHB1q3rjIGB) | 2:42 |
 | 363 | [La Burrita](https://open.spotify.com/track/4MvwPfxA5udOyOLZ6R5DRP) | [Los Diplomaticos](https://open.spotify.com/artist/0iDj3W3Ke2GRU7ojWh4Zkf) | [Narcos, Vol\. 1 \(More Music from the Netflix Original Series\)](https://open.spotify.com/album/68iQWV1oNjvkSqFjab73gZ) | 3:17 |
-| 364 | [Sueño hippie](https://open.spotify.com/track/5WfYFmRD9hdeMmCyf0Mm4J) | [Los Beta 5](https://open.spotify.com/artist/1pdQ0V3hvJIh1GXXUVT06O) | [Cumbia Beat Volume 3](https://open.spotify.com/album/4p7P9jzmYkTbzRFRNcATcd) | 3:19 |
+| 364 | [Sueño Hippie](https://open.spotify.com/track/1mo44xz8L6dAjKlGul3kCc) | [Los Beta 5](https://open.spotify.com/artist/1pdQ0V3hvJIh1GXXUVT06O) | [Chichas Inolvidables, Vol\. 1](https://open.spotify.com/album/5UmGYBk5rrWfdnTQMSRAwW) | 3:19 |
 | 365 | [El Lobo](https://open.spotify.com/track/0CElgyNyOIQZ7b7tZa2m8e) | [Wganda Kenya](https://open.spotify.com/artist/6svnFatzuDJZKCWIK6edka) | [Palenque Palenque: Champeta Criolla & Afro Roots in Colombia 1975\-91](https://open.spotify.com/album/46rUmHGdXxemAoZHzfGyzF) | 3:02 |
-| 366 | [Viento](https://open.spotify.com/track/3Mbp68w7qRpkbPX9cdkJAZ) | [Grupo Celeste](https://open.spotify.com/artist/34UKlYNjRGEZF8Xzbga81s) | [Cumbia Beat Volume 1](https://open.spotify.com/album/55Zzh7zGhuAF0YnlpbjV0S) | 3:42 |
+| 366 | [Viento](https://open.spotify.com/track/7zL4CNqsvUfRaQhf7umIpR) | [Grupo Celeste](https://open.spotify.com/artist/34UKlYNjRGEZF8Xzbga81s) | [...El Fabuloso!](https://open.spotify.com/album/4G1IedTXpiFxfgc8YcIRyC) | 3:49 |
 | 367 | [Moja Bhari Moja](https://open.spotify.com/track/1cqupEafj7Gkh7m0o0Gcij) | [Rupa](https://open.spotify.com/artist/1ZeGksupgZKMlzvtBjMEEh) | [Disco Jazz](https://open.spotify.com/album/39VaqEkzu1GAw1pESi2tBt) | 8:16 |
 | 368 | [Deixa A Gira Girar](https://open.spotify.com/track/5dQ3V2poMcbUPpY3TCTOmN) | [Os Tincoãs](https://open.spotify.com/artist/2rnJUBfFhgXBrywGEQ8zC7) | [Viva Brasil](https://open.spotify.com/album/5dj8L0XDPdLC5DCN8GBsfK) | 3:11 |
 | 369 | [Pelekani](https://open.spotify.com/track/48IR5kUBk9WH2IgsUBKDdv) | [The Eagles Lupopo](https://open.spotify.com/artist/0O9rpCjClbC0LA3ikNiYeU) | [Kenya Special \(Selected East African Recordings From The 1970s & '80s\)](https://open.spotify.com/album/0EWsL5JkTnESXxHXYozpxF) | 4:21 |
@@ -486,7 +486,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 476 | [Teddy Boy Calypso Bring Back the Old Cat O' Nine](https://open.spotify.com/track/7yEgI7afrdTMLpFlVVD9l4) | [Lord Invader](https://open.spotify.com/artist/1S1XUYadNLS2gkRKSxG1vl) | [Yankee Dollar](https://open.spotify.com/album/6YaaGMoJyo5pACsoYJSnan) | 2:40 |
 | 477 | [La Niña de Fuego](https://open.spotify.com/track/08IDshmxLocyRlWQybyrGl) | [Lolita Torres](https://open.spotify.com/artist/0fhBxe30C0J8XkxJyTFGsY) | [Cantando Soy Española](https://open.spotify.com/album/3FjRFp7Xa9UJtUIxVIVM2k) | 2:25 |
 | 478 | [Bamboléo](https://open.spotify.com/track/4Gu8MRCmbJbX2sGueXipVg) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Bamboléo](https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2) | 5:27 |
-| 479 | [Bim Bom](https://open.spotify.com/track/1xBNJg2dvZsmUM4yoBag9N) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto Apresenta Chega de Saudade](https://open.spotify.com/album/6eEhHeu8VTc5WemfyfgLY8) | 1:17 |
+| 479 | [Bim Bom](https://open.spotify.com/track/3seuCZizOQmfyUwhbT2KXc) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Chega de Saudade \(Remastered Edition\)](https://open.spotify.com/album/7zBrALWkq4ccTLQzFD1zfE) | 1:17 |
 | 480 | [007 \(Shanty Town\)](https://open.spotify.com/track/0lwHFB5OUlBeiXyaEOKJd6) | [Desmond Dekker & The Aces](https://open.spotify.com/artist/4fmVPsGxjwP5ruiTEvIcOt) | [007 Shanty Town](https://open.spotify.com/album/76noJaSuS2UFRm3QBU2hZl) | 2:34 |
 | 481 | [Ambasel](https://open.spotify.com/track/0rXts5trZGYIIXO9sKbHBy) | [Hailu Mergia](https://open.spotify.com/artist/0rsN9DKQhTCvkgbByOOBIm) | [Hailu Mergia & His Classical Instrument: Shemonmuanaye](https://open.spotify.com/album/1wqrY1fT3Mwtxfm0wP1dNZ) | 3:49 |
 | 482 | [Budi Setahun Segunung Intan](https://open.spotify.com/track/0nOdB3pUYURDusotlSsMuN) | [Datuk Ahmad Jais](https://open.spotify.com/artist/5DR3x1kevrEtZGk2FSSsB7), [Kartina Dahari](https://open.spotify.com/artist/1fOzHIScKPXsUOugUL3KQ5) | [Memori Hit](https://open.spotify.com/album/3vFf8DTJaYSf40I1PtyJTb) | 2:34 |
@@ -924,7 +924,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 914 | [Watchin' Out](https://open.spotify.com/track/7AaIWnkDOZFDpZBcW0r6ZQ) | [Split Decision Band](https://open.spotify.com/artist/4XEEn0HMV7zxiOm6B5DVLf) | [Watchin' Out](https://open.spotify.com/album/51UXHJ2YydaTSxJXoczKVz) | 3:15 |
 | 915 | [Aiulado](https://open.spotify.com/track/1JkKKmP75NOoyLQ0d48lom) | [Baba Sissoko](https://open.spotify.com/artist/4sox56HkYoppCSBF6Trcwl) | [Three Gees](https://open.spotify.com/album/7b0bXiyS0Vvdg75o40cXL4) | 6:33 |
 | 916 | [Calçada](https://open.spotify.com/track/1zvpgSygK37GOotGOgT45f) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Espiral de Ilusão](https://open.spotify.com/album/4rvNHxkP41rxzhthGuwo6Y) | 3:26 |
-| 917 | [Un Silbido Amoroso](https://open.spotify.com/track/548qXG0DVSXKPuQ51EuvcK) | [Los Wembler's de Iquitos](https://open.spotify.com/artist/09o5k3t1L2ZxhJBnIERJxT) | [Cumbia Beat Volume 1](https://open.spotify.com/album/55Zzh7zGhuAF0YnlpbjV0S) | 2:35 |
+| 917 | [Un Silbido Amoroso](https://open.spotify.com/track/0QOWZ2Iqb36FFecUmLdUTy) | [Los Wembler's de Iquitos](https://open.spotify.com/artist/09o5k3t1L2ZxhJBnIERJxT) | [Un Silbido Amoroso](https://open.spotify.com/album/3tqk1zxZedRxvOzhGgKVOK) | 2:36 |
 | 918 | [El sabrosito](https://open.spotify.com/track/7Jj7kSb5GZlVHPdVEUKFZc) | [La Sonora Cordobesa](https://open.spotify.com/artist/5rICAMDtQlBghUdJ4E3TLK) | [Colombia 45s](https://open.spotify.com/album/0FtvKqe3ypGZTq2OUHjRwD) | 2:32 |
 | 919 | [Yabaal](https://open.spotify.com/track/1npQHlmFEgK2wkXbQcWjia) | [Dur\-Dur Band](https://open.spotify.com/artist/4KDUfOJRuihzpcwO7jx9DF) | [Volume 1, Volume 2 & Previously Unreleased Tracks \(Analog Africa No\. 27\)](https://open.spotify.com/album/5SXL2zkX2Ry2cxwirtRNJE) | 5:57 |
 | 920 | [Alvorada](https://open.spotify.com/track/7Bq17tNAUCLceZQOJMnj3D) | [Cartola](https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN) | [Raizes Do Samba](https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT) | 2:38 |
@@ -1200,4 +1200,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1190 | [Ponta De Lança Africano](https://open.spotify.com/track/3LcGqv91NIBQaUmnNbsKu8) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 3:52 |
 | 1191 | [La burrita mocha](https://open.spotify.com/track/5ZUDABVqjta6rM9CaWw3w9) | [Esther Forero](https://open.spotify.com/artist/5MzgBKlIxqLzznQoRyfvKq) | [La burrita mocha](https://open.spotify.com/album/1aCtz9EtWc1OXFeG8Io9kv) | 2:44 |
 
-Snapshot ID: `MCw2OWM0ZGY5MGYzMWEwNDFhZmQzZDAzZDVjZjFlNDIwMTcwY2Q3NzQz`
+Snapshot ID: `MCw3OGJlM2JlZTU0MjUzNjVlMzI1ZDg4YzFmNTZiM2Q3MzU1YTU4MzU1`

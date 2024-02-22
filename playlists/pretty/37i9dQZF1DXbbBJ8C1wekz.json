@@ -1,12 +1,12 @@
 {
   "description": "O trap nacional pra qualquer hora, daquele jeit\u00e3o",
-  "num_followers": 130470,
+  "num_followers": 130531,
   "original_name": "Trap Classe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjAzN2MwZWU4YTQ5ODFkYjcyMDk5YzdlNjc0YTZjYTYwNDA1YWQw",
+  "snapshot_id": "MCxjYjIzNzNjYmM2N2EwN2ZmNzM2ZmQwMDhkNGQ3YTc2ZWNiM2Q2ZjY0",
   "tracks": [
     {
       "added_at": "2024-02-17 17:51:52",
@@ -415,6 +415,26 @@
     {
       "added_at": "2024-02-17 17:51:52",
       "album": {
+        "name": "Inocente \"Demotape\"",
+        "url": "https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        }
+      ],
+      "duration_ms": 170432,
+      "name": "depois da meia noite",
+      "url": "https://open.spotify.com/track/3bnwUi3XFEDSSePQXUTPJI"
+    },
+    {
+      "added_at": "2024-02-17 17:51:52",
+      "album": {
         "name": "De Lala - Spotify Singles",
         "url": "https://open.spotify.com/album/3KFcPPHqFd0BhuLCl95zGX"
       },
@@ -439,26 +459,6 @@
     {
       "added_at": "2024-02-17 17:51:52",
       "album": {
-        "name": "Inocente \"Demotape\"",
-        "url": "https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        }
-      ],
-      "duration_ms": 170432,
-      "name": "depois da meia noite",
-      "url": "https://open.spotify.com/track/3bnwUi3XFEDSSePQXUTPJI"
-    },
-    {
-      "added_at": "2024-02-17 17:51:52",
-      "album": {
         "name": "A Morte do Autotune",
         "url": "https://open.spotify.com/album/3wtW4Pv6ED7nUpQL5GY5Vx"
       },
@@ -475,30 +475,30 @@
     {
       "added_at": "2024-02-17 17:51:52",
       "album": {
-        "name": "INEF\u00c1VEL",
-        "url": "https://open.spotify.com/album/1zztQHsfyK0hYA8debeM6X"
+        "name": "Favorita",
+        "url": "https://open.spotify.com/album/7mr4JyA7pJdSAOulzgRZ2r"
       },
       "artists": [
         {
-          "name": "Long beatz",
-          "url": "https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp"
+          "name": "Volp",
+          "url": "https://open.spotify.com/artist/6fFgNVTo4bxMf2eswaar7Z"
         },
         {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+          "name": "Goude",
+          "url": "https://open.spotify.com/artist/2k9gWCSvF2AtrdLNCOcWW2"
         },
         {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
         },
         {
-          "name": "Leviano",
-          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
+          "name": "Vk Mac",
+          "url": "https://open.spotify.com/artist/62T0up856eHZQ8BE6V6fJs"
         }
       ],
-      "duration_ms": 245987,
-      "name": "INEF\u00c1VEL (feat. Leviano)",
-      "url": "https://open.spotify.com/track/6a6UEfhgIKfzrZu1hqRYup"
+      "duration_ms": 213332,
+      "name": "Favorita",
+      "url": "https://open.spotify.com/track/1wtfZcywQbynryjXGBNfMQ"
     },
     {
       "added_at": "2024-02-17 17:51:52",
@@ -567,30 +567,30 @@
     {
       "added_at": "2024-02-17 17:51:52",
       "album": {
-        "name": "Favorita",
-        "url": "https://open.spotify.com/album/7mr4JyA7pJdSAOulzgRZ2r"
+        "name": "INEF\u00c1VEL",
+        "url": "https://open.spotify.com/album/1zztQHsfyK0hYA8debeM6X"
       },
       "artists": [
         {
-          "name": "Volp",
-          "url": "https://open.spotify.com/artist/6fFgNVTo4bxMf2eswaar7Z"
+          "name": "Long beatz",
+          "url": "https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp"
         },
         {
-          "name": "Goude",
-          "url": "https://open.spotify.com/artist/2k9gWCSvF2AtrdLNCOcWW2"
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
         },
         {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
         },
         {
-          "name": "Vk Mac",
-          "url": "https://open.spotify.com/artist/62T0up856eHZQ8BE6V6fJs"
+          "name": "Leviano",
+          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
         }
       ],
-      "duration_ms": 213332,
-      "name": "Favorita",
-      "url": "https://open.spotify.com/track/1wtfZcywQbynryjXGBNfMQ"
+      "duration_ms": 245987,
+      "name": "INEF\u00c1VEL (feat. Leviano)",
+      "url": "https://open.spotify.com/track/6a6UEfhgIKfzrZu1hqRYup"
     },
     {
       "added_at": "2024-02-17 17:51:52",
@@ -687,38 +687,6 @@
     {
       "added_at": "2024-02-17 17:51:52",
       "album": {
-        "name": "THE BOX MEDLEY 5",
-        "url": "https://open.spotify.com/album/6qqxoTPnsQM5yHapA7WF6u"
-      },
-      "artists": [
-        {
-          "name": "THE BOX",
-          "url": "https://open.spotify.com/artist/7gHzR22tDNSWGS4HkvvPgw"
-        },
-        {
-          "name": "Ryu, the Runner",
-          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
-        },
-        {
-          "name": "Raffa Moreira",
-          "url": "https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR"
-        },
-        {
-          "name": "Sidoka",
-          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
-        },
-        {
-          "name": "Brocasito",
-          "url": "https://open.spotify.com/artist/6ixe2JpfacOq9BvkwQ9rXM"
-        }
-      ],
-      "duration_ms": 189658,
-      "name": "THE BOX MEDLEY 5",
-      "url": "https://open.spotify.com/track/35djHlD5VERjzdKzFknuUs"
-    },
-    {
-      "added_at": "2024-02-17 17:51:52",
-      "album": {
         "name": "Assault (Carro Forte)",
         "url": "https://open.spotify.com/album/4K5XemHceyhOJtQVVVtQqO"
       },
@@ -751,6 +719,38 @@
       "duration_ms": 304000,
       "name": "Assault (Carro Forte)",
       "url": "https://open.spotify.com/track/7BwjZ1jy4B0ZyXTY4YQM9A"
+    },
+    {
+      "added_at": "2024-02-17 17:51:52",
+      "album": {
+        "name": "THE BOX MEDLEY 5",
+        "url": "https://open.spotify.com/album/6qqxoTPnsQM5yHapA7WF6u"
+      },
+      "artists": [
+        {
+          "name": "THE BOX",
+          "url": "https://open.spotify.com/artist/7gHzR22tDNSWGS4HkvvPgw"
+        },
+        {
+          "name": "Ryu, the Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        },
+        {
+          "name": "Raffa Moreira",
+          "url": "https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR"
+        },
+        {
+          "name": "Sidoka",
+          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
+        },
+        {
+          "name": "Brocasito",
+          "url": "https://open.spotify.com/artist/6ixe2JpfacOq9BvkwQ9rXM"
+        }
+      ],
+      "duration_ms": 189658,
+      "name": "THE BOX MEDLEY 5",
+      "url": "https://open.spotify.com/track/35djHlD5VERjzdKzFknuUs"
     },
     {
       "added_at": "2024-02-17 17:51:52",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-02-17 17:51:52",
       "album": {
-        "name": "Quadro",
-        "url": "https://open.spotify.com/album/5FbEpa7ZliTKb16jB2wQj3"
-      },
-      "artists": [
-        {
-          "name": "Sidoka",
-          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
-        }
-      ],
-      "duration_ms": 167384,
-      "name": "Quadro",
-      "url": "https://open.spotify.com/track/6quxGsXP50tQOZG9onTDMI"
-    },
-    {
-      "added_at": "2024-02-17 17:51:52",
-      "album": {
         "name": "THE BOX MEDLEY 6",
         "url": "https://open.spotify.com/album/2PmiISLrQtoayEgazfOEXQ"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 114143,
       "name": "Tipo Gringa",
       "url": "https://open.spotify.com/track/3oxk3UVbKJiPcPokw9h64D"
+    },
+    {
+      "added_at": "2024-02-17 17:51:52",
+      "album": {
+        "name": "Quadro",
+        "url": "https://open.spotify.com/album/5FbEpa7ZliTKb16jB2wQj3"
+      },
+      "artists": [
+        {
+          "name": "Sidoka",
+          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
+        }
+      ],
+      "duration_ms": 167384,
+      "name": "Quadro",
+      "url": "https://open.spotify.com/track/6quxGsXP50tQOZG9onTDMI"
     },
     {
       "added_at": "2024-02-17 17:51:52",
@@ -1031,26 +1031,38 @@
     {
       "added_at": "2024-02-17 17:51:52",
       "album": {
-        "name": "Jardim das Flores",
-        "url": "https://open.spotify.com/album/1n1QRIqGrKqhoDjyXWMoKo"
+        "name": "The Box Medley 2",
+        "url": "https://open.spotify.com/album/1Rm56TQw5OpOICfF4WCwM6"
       },
       "artists": [
         {
-          "name": "Jotap\u00ea",
-          "url": "https://open.spotify.com/artist/6SZQlj3zcSmJk5uBaMiwGM"
+          "name": "THE BOX",
+          "url": "https://open.spotify.com/artist/7gHzR22tDNSWGS4HkvvPgw"
         },
         {
-          "name": "Marquinho no Beat",
-          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
         },
         {
-          "name": "Original Quality",
-          "url": "https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84"
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Abbot",
+          "url": "https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ"
+        },
+        {
+          "name": "Ojizzy",
+          "url": "https://open.spotify.com/artist/1Jqziieqyx94PNBfIJlj6R"
+        },
+        {
+          "name": "Aka Rasta",
+          "url": "https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB"
         }
       ],
-      "duration_ms": 203294,
-      "name": "Jardim das Flores",
-      "url": "https://open.spotify.com/track/2guOhSMSG1p8WePFWhkhlj"
+      "duration_ms": 237000,
+      "name": "The Box Medley 2",
+      "url": "https://open.spotify.com/track/6MEDqys4CFyW9Y95LR6qGC"
     },
     {
       "added_at": "2024-02-17 17:51:52",
@@ -1083,6 +1095,30 @@
       "duration_ms": 196056,
       "name": "Yeezy Slide \"FREESTYLE 01\"",
       "url": "https://open.spotify.com/track/6bBnV1J4thy0w6v8b5qXP4"
+    },
+    {
+      "added_at": "2024-02-17 17:51:52",
+      "album": {
+        "name": "Jardim das Flores",
+        "url": "https://open.spotify.com/album/1n1QRIqGrKqhoDjyXWMoKo"
+      },
+      "artists": [
+        {
+          "name": "Jotap\u00ea",
+          "url": "https://open.spotify.com/artist/6SZQlj3zcSmJk5uBaMiwGM"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        },
+        {
+          "name": "Original Quality",
+          "url": "https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84"
+        }
+      ],
+      "duration_ms": 203294,
+      "name": "Jardim das Flores",
+      "url": "https://open.spotify.com/track/2guOhSMSG1p8WePFWhkhlj"
     },
     {
       "added_at": "2024-02-17 17:51:52",
@@ -1131,26 +1167,6 @@
     {
       "added_at": "2024-02-17 17:51:52",
       "album": {
-        "name": "Espero Que Entendam (Freestyle)",
-        "url": "https://open.spotify.com/album/2omPP6U3sAgy10Q4wZtswu"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "LARINHX",
-          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
-        }
-      ],
-      "duration_ms": 211859,
-      "name": "Espero Que Entendam - Freestyle",
-      "url": "https://open.spotify.com/track/3MEMW13ORJh94KnERm44JM"
-    },
-    {
-      "added_at": "2024-02-17 17:51:52",
-      "album": {
         "name": "FRXV (Ao Vivo)",
         "url": "https://open.spotify.com/album/2qu44hB5GkwiKF9v4eQvPi"
       },
@@ -1171,38 +1187,22 @@
     {
       "added_at": "2024-02-17 17:51:52",
       "album": {
-        "name": "The Box Medley 2",
-        "url": "https://open.spotify.com/album/1Rm56TQw5OpOICfF4WCwM6"
+        "name": "Espero Que Entendam (Freestyle)",
+        "url": "https://open.spotify.com/album/2omPP6U3sAgy10Q4wZtswu"
       },
       "artists": [
         {
-          "name": "THE BOX",
-          "url": "https://open.spotify.com/artist/7gHzR22tDNSWGS4HkvvPgw"
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
         },
         {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
-        },
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        },
-        {
-          "name": "Abbot",
-          "url": "https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ"
-        },
-        {
-          "name": "Ojizzy",
-          "url": "https://open.spotify.com/artist/1Jqziieqyx94PNBfIJlj6R"
-        },
-        {
-          "name": "Aka Rasta",
-          "url": "https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB"
+          "name": "LARINHX",
+          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
         }
       ],
-      "duration_ms": 237000,
-      "name": "The Box Medley 2",
-      "url": "https://open.spotify.com/track/6MEDqys4CFyW9Y95LR6qGC"
+      "duration_ms": 211859,
+      "name": "Espero Que Entendam - Freestyle",
+      "url": "https://open.spotify.com/track/3MEMW13ORJh94KnERm44JM"
     },
     {
       "added_at": "2024-02-17 17:51:52",
@@ -1343,66 +1343,6 @@
     {
       "added_at": "2024-02-17 17:51:52",
       "album": {
-        "name": "O Cen\u00e1rio Certo para o Teatro Perfeito",
-        "url": "https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D"
-      },
-      "artists": [
-        {
-          "name": "Danzo",
-          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
-        },
-        {
-          "name": "Labbel Rec",
-          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
-        },
-        {
-          "name": "Greezy",
-          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
-        }
-      ],
-      "duration_ms": 138305,
-      "name": "Famigerado",
-      "url": "https://open.spotify.com/track/5JZvsdxvWhe1Q9Cb1KgsVr"
-    },
-    {
-      "added_at": "2024-02-17 17:51:52",
-      "album": {
-        "name": "MIDNIGHT CALLS",
-        "url": "https://open.spotify.com/album/1z0wqOFRl7Q6Jj3qu88hbc"
-      },
-      "artists": [
-        {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
-        },
-        {
-          "name": "Sidoka",
-          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
-        }
-      ],
-      "duration_ms": 251923,
-      "name": "30 Dias",
-      "url": "https://open.spotify.com/track/69ebm9wovT0UJX3vBp571J"
-    },
-    {
-      "added_at": "2024-02-17 17:51:52",
-      "album": {
-        "name": "Real Underground",
-        "url": "https://open.spotify.com/album/0UCLKwhMlg3fUozSrV1kSj"
-      },
-      "artists": [
-        {
-          "name": "NGC Daddy",
-          "url": "https://open.spotify.com/artist/2iNFFCEAFdfAV5hPdpMk6x"
-        }
-      ],
-      "duration_ms": 130231,
-      "name": "Real Underground",
-      "url": "https://open.spotify.com/track/2GZ7KgPU32sH4DdHlvFxal"
-    },
-    {
-      "added_at": "2024-02-17 17:51:52",
-      "album": {
         "name": "THE BOX MEDLEY",
         "url": "https://open.spotify.com/album/0viKAX9bVrwsQpNRxklthf"
       },
@@ -1431,6 +1371,66 @@
       "duration_ms": 199555,
       "name": "THE BOX MEDLEY",
       "url": "https://open.spotify.com/track/4HUaEW97kTPeKOL6pN9cuD"
+    },
+    {
+      "added_at": "2024-02-17 17:51:52",
+      "album": {
+        "name": "O Cen\u00e1rio Certo para o Teatro Perfeito",
+        "url": "https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D"
+      },
+      "artists": [
+        {
+          "name": "Danzo",
+          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
+        },
+        {
+          "name": "Labbel Rec",
+          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
+        },
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+        }
+      ],
+      "duration_ms": 138305,
+      "name": "Famigerado",
+      "url": "https://open.spotify.com/track/5JZvsdxvWhe1Q9Cb1KgsVr"
+    },
+    {
+      "added_at": "2024-02-17 17:51:52",
+      "album": {
+        "name": "Real Underground",
+        "url": "https://open.spotify.com/album/0UCLKwhMlg3fUozSrV1kSj"
+      },
+      "artists": [
+        {
+          "name": "NGC Daddy",
+          "url": "https://open.spotify.com/artist/2iNFFCEAFdfAV5hPdpMk6x"
+        }
+      ],
+      "duration_ms": 130231,
+      "name": "Real Underground",
+      "url": "https://open.spotify.com/track/2GZ7KgPU32sH4DdHlvFxal"
+    },
+    {
+      "added_at": "2024-02-17 17:51:52",
+      "album": {
+        "name": "MIDNIGHT CALLS",
+        "url": "https://open.spotify.com/album/1z0wqOFRl7Q6Jj3qu88hbc"
+      },
+      "artists": [
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "Sidoka",
+          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
+        }
+      ],
+      "duration_ms": 251923,
+      "name": "30 Dias",
+      "url": "https://open.spotify.com/track/69ebm9wovT0UJX3vBp571J"
     },
     {
       "added_at": "2024-02-17 17:51:52",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2024-02-17 17:51:52",
       "album": {
-        "name": "Ok Baby",
-        "url": "https://open.spotify.com/album/0N8j8hvyEfBrQbBPMhNGD9"
-      },
-      "artists": [
-        {
-          "name": "Japa",
-          "url": "https://open.spotify.com/artist/3455RNeKZ9giouA4pde2qA"
-        }
-      ],
-      "duration_ms": 164210,
-      "name": "Ok Baby",
-      "url": "https://open.spotify.com/track/6EHSC5FGDVtL3LPcHkZQCi"
-    },
-    {
-      "added_at": "2024-02-17 17:51:52",
-      "album": {
         "name": "\u00c9TPM?!",
         "url": "https://open.spotify.com/album/2LT3aMTtIP0KMyKlMLNkXV"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 159010,
       "name": "Tapa",
       "url": "https://open.spotify.com/track/3IlV0oQTh8DrBp38CVJ91p"
+    },
+    {
+      "added_at": "2024-02-17 17:51:52",
+      "album": {
+        "name": "Ok Baby",
+        "url": "https://open.spotify.com/album/0N8j8hvyEfBrQbBPMhNGD9"
+      },
+      "artists": [
+        {
+          "name": "Japa",
+          "url": "https://open.spotify.com/artist/3455RNeKZ9giouA4pde2qA"
+        }
+      ],
+      "duration_ms": 164210,
+      "name": "Ok Baby",
+      "url": "https://open.spotify.com/track/6EHSC5FGDVtL3LPcHkZQCi"
     },
     {
       "added_at": "2024-02-17 17:51:52",
@@ -2015,6 +2015,34 @@
     {
       "added_at": "2024-02-17 17:51:52",
       "album": {
+        "name": "Xeque-Mate (feat. Paiva Prod)",
+        "url": "https://open.spotify.com/album/5z6BDql4k4zPWOAUjI73Ns"
+      },
+      "artists": [
+        {
+          "name": "IGOR",
+          "url": "https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny"
+        },
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+        }
+      ],
+      "duration_ms": 171789,
+      "name": "Xeque-Mate (feat. Paiva Prod)",
+      "url": "https://open.spotify.com/track/3grsMTKtSZt93yuC76W2U9"
+    },
+    {
+      "added_at": "2024-02-17 17:51:52",
+      "album": {
         "name": "Obrigado, M\u00e3e.",
         "url": "https://open.spotify.com/album/7rFtXsg1Do5pAEfk44qfmL"
       },
@@ -2047,34 +2075,6 @@
       "duration_ms": 176888,
       "name": "Probleminha",
       "url": "https://open.spotify.com/track/1zCJZUgIsBrs1wlKTm52oo"
-    },
-    {
-      "added_at": "2024-02-17 17:51:52",
-      "album": {
-        "name": "Xeque-Mate (feat. Paiva Prod)",
-        "url": "https://open.spotify.com/album/5z6BDql4k4zPWOAUjI73Ns"
-      },
-      "artists": [
-        {
-          "name": "IGOR",
-          "url": "https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny"
-        },
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        },
-        {
-          "name": "Paiva Prod",
-          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
-        }
-      ],
-      "duration_ms": 171789,
-      "name": "Xeque-Mate (feat. Paiva Prod)",
-      "url": "https://open.spotify.com/track/3grsMTKtSZt93yuC76W2U9"
     },
     {
       "added_at": "2024-02-17 17:51:52",

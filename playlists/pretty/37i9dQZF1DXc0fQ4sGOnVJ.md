@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 
 > Country rap songs, made to be cranked up\. Cover: Brantley Gilbert and Jelly Roll
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,895 likes - 74 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,891 likes - 74 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 | 48 | [Slow Rollin'](https://open.spotify.com/track/52FOkM2lmc1fXkzj9BULfO) | [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x) | [COUNTRY FUZZ](https://open.spotify.com/album/3X1vz2Rj2Ld3KibvjaNVjV) | 2:44 |
 | 49 | [Work That](https://open.spotify.com/track/4k0Gpz3QD12vVV6XJF7uOy) | [Dusty Leigh](https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr), [FJ Outlaw](https://open.spotify.com/artist/7LOfwXilquLSyzg493dPwJ), [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P) | [Work That](https://open.spotify.com/album/3wi2k5B4qfXu3EwmTsggjD) | 3:04 |
 | 50 | [Out Here](https://open.spotify.com/track/0MWRZAn0iqxue6g7bm72KV) | [The Lacs](https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU) | [Outlaw In Me](https://open.spotify.com/album/760sXqdIdCq7C9zHKELKYr) | 4:39 |
-| 51 | [Throwed](https://open.spotify.com/track/2b3ys7QrXvrivhd9BbV3ae) | [Louyah](https://open.spotify.com/artist/4FH6xGueB6CRmiEdtPnu41) | [Throwed](https://open.spotify.com/album/3i9GWnZvyu5d8QZoh3ZEE3) | 3:14 |
-| 52 | [If She Ain't Country \- Remix](https://open.spotify.com/track/0eVdLQ7Mt1DQg9P1oMeSN0) | [Justin Champagne](https://open.spotify.com/artist/7Db8AKNMsmpj2CN9H8lVxH), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [If She Ain't Country \(Remix\)](https://open.spotify.com/album/5ZZBcZVe34bzjqVqnJX2hr) | 2:56 |
+| 51 | [If She Ain't Country \- Remix](https://open.spotify.com/track/0eVdLQ7Mt1DQg9P1oMeSN0) | [Justin Champagne](https://open.spotify.com/artist/7Db8AKNMsmpj2CN9H8lVxH), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [If She Ain't Country \(Remix\)](https://open.spotify.com/album/5ZZBcZVe34bzjqVqnJX2hr) | 2:56 |
+| 52 | [Throwed](https://open.spotify.com/track/2b3ys7QrXvrivhd9BbV3ae) | [Louyah](https://open.spotify.com/artist/4FH6xGueB6CRmiEdtPnu41) | [Throwed](https://open.spotify.com/album/3i9GWnZvyu5d8QZoh3ZEE3) | 3:14 |
 | 53 | [White Trash](https://open.spotify.com/track/4PQywXtsoLDSJQJe8WpIqv) | [Cypress Spring](https://open.spotify.com/artist/23PFGrmuqJvklNT9ikqXaC) | [American White Trash](https://open.spotify.com/album/4qr6adlfQSmnuEksitsIYd) | 2:47 |
 | 54 | [Rippin It up \(feat\. Bubba Sparxxx, Boondock Kingz, Porch Matthews & Jawga Boyz\)](https://open.spotify.com/track/6BOqVMxqQxkxknO3COfzrG) | [Jawga Sparxxx](https://open.spotify.com/artist/4Tmi4eRiBmTkJCEJuFnKuP), [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P), [Boondock Kingz](https://open.spotify.com/artist/5t1SNVbHSuaQWZ0FXnLGcK), [Porch Matthews](https://open.spotify.com/artist/6mzpnqqXaw7OEOXKXJtPp7), [Jawga Boyz](https://open.spotify.com/artist/4rfTlSG4QNPCdjo57jAmMW) | [Muddy Days Drunken Nights](https://open.spotify.com/album/10kU2gbvQq0alFj6jmgwqK) | 3:12 |
 | 55 | [If You're Gonna Be Dumb, You Gotta Be Tough \(From "Jackass Forever"\)](https://open.spotify.com/track/4nGSexnowpuB3BZ0Zxotru) | [DJ Paul](https://open.spotify.com/artist/2ledyuziz6YjLK5Dw483Oc), [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57) | [If You're Gonna Be Dumb, You Gotta Be Tough \(From "Jackass Forever"\)](https://open.spotify.com/album/3FAccrJLTeHLmi87LWMPCd) | 3:30 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 | 73 | [Buckle Bunny](https://open.spotify.com/track/17KfodDyg0yKQYmjGGGnlA) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [BUCKLE BUNNY](https://open.spotify.com/album/0s3PLrYRp1PojvP8W9g1qS) | 3:12 |
 | 74 | [Stomp Them Boots](https://open.spotify.com/track/1x3kToYa48N2Zb0MOc7iiG) | [Young Gunner](https://open.spotify.com/artist/5U4zQH57FFSIBvYigOk7G1), [Twang and Round](https://open.spotify.com/artist/6K01VDVF9BORq58XTAR1aM) | [Stomp Them Boots](https://open.spotify.com/album/2k5eUp67yseXCF3pe4FjMJ) | 3:55 |
 
-Snapshot ID: `MCxjNmFiNzY1OTdiNDhkZWY5MWMyZDhlY2VkNGNlZmU5ZmZmYzZhZTY2`
+Snapshot ID: `MCw4ZThjOTIzNjE1ZWFjZDczYmYxMjZhYzAxNzY3MTE2N2U5MTQ4YWEx`

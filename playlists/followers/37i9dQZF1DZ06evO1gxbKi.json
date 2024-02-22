@@ -1,5 +1,5 @@
 {
-  "2024-02-21": 16841,
+  "2024-02-22": 16856,
   "date_first_scraped": "2022-05-26",
   "description": "This is Sister Rosetta Tharpe. The essential tracks, all in one playlist.",
   "name": "This Is Sister Rosetta Tharpe",
@@ -303,7 +303,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-20",
+      "date_removed": null,
       "duration_ms": 157652,
       "name": "Didn't It Rain",
       "url": "https://open.spotify.com/track/3MxAT7MRx7V0CL3tVtJby1"
@@ -469,7 +469,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 147701,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/0uqrVU6p1FD04exzZKkLe0"
@@ -559,7 +559,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-20",
+      "date_removed": null,
       "duration_ms": 144040,
       "name": "God Don't Like It",
       "url": "https://open.spotify.com/track/5jz86OQYMMXfo8XNZGogT4"
@@ -679,7 +679,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-20",
+      "date_removed": null,
       "duration_ms": 174492,
       "name": "How Far From God",
       "url": "https://open.spotify.com/track/3cN5ydsv1f5UVWIognMcRj"
@@ -715,7 +715,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 178560,
       "name": "I Can Hear The Angels",
       "url": "https://open.spotify.com/track/7pqbyssPmrES38X02wTRVz"
@@ -1123,7 +1123,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-20",
+      "date_removed": null,
       "duration_ms": 190772,
       "name": "My Journey To The Sky",
       "url": "https://open.spotify.com/track/3O3Zzre0FPv6GNTeInm6Md"
@@ -1177,7 +1177,7 @@
       ],
       "date_added": "2024-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-20",
+      "date_removed": null,
       "duration_ms": 120560,
       "name": "Ninety-Nine and a Half Won't Do",
       "url": "https://open.spotify.com/track/2KOP1uow1HZGQEqIRlGmfD"
@@ -1231,7 +1231,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-20",
+      "date_removed": null,
       "duration_ms": 179426,
       "name": "Nobody's Fault But Mine",
       "url": "https://open.spotify.com/track/3z5JS5NmUSb8llmXl8QZiq"
@@ -1415,7 +1415,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-19",
+      "date_removed": null,
       "duration_ms": 160093,
       "name": "Rock Me",
       "url": "https://open.spotify.com/track/0ff9ixoxJnJgQ3o5rx3wZP"
@@ -1679,7 +1679,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 214273,
       "name": "Stand by Me",
       "url": "https://open.spotify.com/track/7j3gsabZNOnUJ8XlvL9WFq"
@@ -1733,7 +1733,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 167367,
       "name": "Strange Things Happening Every Day",
       "url": "https://open.spotify.com/track/0uUBfmp0ulkpf6EJzsZJZl"
@@ -1787,7 +1787,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-18",
+      "date_removed": null,
       "duration_ms": 132413,
       "name": "That's All",
       "url": "https://open.spotify.com/track/4fWjzZen5kGxuRUqjJCYR5"
@@ -1805,7 +1805,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 173688,
       "name": "The Devil Has Thrown Him Down",
       "url": "https://open.spotify.com/track/4kAlnTkUPazNX7rIq03Npw"
@@ -1917,7 +1917,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 146773,
       "name": "There Is Something Within Me",
       "url": "https://open.spotify.com/track/6bM7JWEqwRTwNfmEMKym5R"
@@ -1971,7 +1971,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-19",
+      "date_removed": null,
       "duration_ms": 282813,
       "name": "This Train",
       "url": "https://open.spotify.com/track/4FgwdqCbpfv2AX17vbF8KN"
@@ -2105,7 +2105,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 196127,
       "name": "Were You There When They Crucified My Lord?",
       "url": "https://open.spotify.com/track/5ezKCpPjLd7m6aS2hZFRie"

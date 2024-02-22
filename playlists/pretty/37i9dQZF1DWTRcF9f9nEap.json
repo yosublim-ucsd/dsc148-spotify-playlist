@@ -1,12 +1,12 @@
 {
   "description": "A sound synonymous with the Blues; these are the pioneering names in slide guitar. Cover: Johnny Winter",
-  "num_followers": 87928,
+  "num_followers": 87991,
   "original_name": "Slide Guitar Heroes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZGRmZTMwNzM3OThlNzU3OWU3ZDBmMTY3Y2FkYzk2OTc0N2QyNTgz",
+  "snapshot_id": "MCxmZDMwYzE4YTA2Mzg3YTZlYzY0MDVlZTVkM2FjOTYzNWMyOGJhZTc4",
   "tracks": [
     {
       "added_at": "2023-01-16 21:05:55",
@@ -91,22 +91,6 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "Physical Graffiti (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/26tH0kjUhkxBEd3ipGkx3Y"
-      },
-      "artists": [
-        {
-          "name": "Led Zeppelin",
-          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
-        }
-      ],
-      "duration_ms": 668440,
-      "name": "In My Time of Dying - Remaster",
-      "url": "https://open.spotify.com/track/4EUe6BsZm5wZLxOTaV3kDX"
-    },
-    {
-      "added_at": "2023-01-16 21:05:55",
-      "album": {
         "name": "Rio Grande Mud",
         "url": "https://open.spotify.com/album/084ZK8EqqBrMgQGaor0tF2"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 267480,
       "name": "Just Got Paid",
       "url": "https://open.spotify.com/track/53jhILFzXhKPHAfsLoLUwA"
+    },
+    {
+      "added_at": "2023-01-16 21:05:55",
+      "album": {
+        "name": "Physical Graffiti (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/26tH0kjUhkxBEd3ipGkx3Y"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "duration_ms": 668440,
+      "name": "In My Time of Dying - Remaster",
+      "url": "https://open.spotify.com/track/4EUe6BsZm5wZLxOTaV3kDX"
     },
     {
       "added_at": "2023-01-16 21:05:55",
@@ -203,22 +203,6 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "The 1971 Fillmore East Recordings",
-        "url": "https://open.spotify.com/album/4RbjXWZ3uTRGP3DRT6nvKz"
-      },
-      "artists": [
-        {
-          "name": "Allman Brothers Band",
-          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
-        }
-      ],
-      "duration_ms": 284480,
-      "name": "Statesboro Blues",
-      "url": "https://open.spotify.com/track/3UsbGR71AjcBYOWoUlfTdm"
-    },
-    {
-      "added_at": "2023-01-16 21:05:55",
-      "album": {
         "name": "Dark Was The Night (Mojo Workin'- Blues For The Next Generation)",
         "url": "https://open.spotify.com/album/3H90ji25FlT62CztiEOhrt"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 198560,
       "name": "Dark Was the Night, Cold Was the Ground",
       "url": "https://open.spotify.com/track/2P9nh9pTK96dE0b6NBbTSs"
+    },
+    {
+      "added_at": "2023-01-16 21:05:55",
+      "album": {
+        "name": "The 1971 Fillmore East Recordings",
+        "url": "https://open.spotify.com/album/4RbjXWZ3uTRGP3DRT6nvKz"
+      },
+      "artists": [
+        {
+          "name": "Allman Brothers Band",
+          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
+        }
+      ],
+      "duration_ms": 284480,
+      "name": "Statesboro Blues",
+      "url": "https://open.spotify.com/track/3UsbGR71AjcBYOWoUlfTdm"
     },
     {
       "added_at": "2023-01-16 21:05:55",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "Keb' Mo'",
-        "url": "https://open.spotify.com/album/09rC6HgLbuYl74OvGdJw6t"
-      },
-      "artists": [
-        {
-          "name": "Keb' Mo'",
-          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
-        }
-      ],
-      "duration_ms": 138533,
-      "name": "Am I Wrong",
-      "url": "https://open.spotify.com/track/3tvyQCSm1QcWURgGvygvke"
-    },
-    {
-      "added_at": "2023-01-16 21:05:55",
-      "album": {
         "name": "The Healer",
         "url": "https://open.spotify.com/album/7dX5RVwG4Bdw13xrCuIFbk"
       },
@@ -339,18 +323,18 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "Hittin' the Note",
-        "url": "https://open.spotify.com/album/2rZfqnJBkKxjOK1RsZfPpL"
+        "name": "Keb' Mo'",
+        "url": "https://open.spotify.com/album/09rC6HgLbuYl74OvGdJw6t"
       },
       "artists": [
         {
-          "name": "Allman Brothers Band",
-          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
         }
       ],
-      "duration_ms": 372560,
-      "name": "Old Friend",
-      "url": "https://open.spotify.com/track/5TX4HB4ndwJCxoD3FWEIQx"
+      "duration_ms": 138533,
+      "name": "Am I Wrong",
+      "url": "https://open.spotify.com/track/3tvyQCSm1QcWURgGvygvke"
     },
     {
       "added_at": "2023-01-16 21:05:55",
@@ -367,6 +351,22 @@
       "duration_ms": 293960,
       "name": "Ground On Down",
       "url": "https://open.spotify.com/track/6THh5CL5PYf7OqOq9pTqNb"
+    },
+    {
+      "added_at": "2023-01-16 21:05:55",
+      "album": {
+        "name": "Hittin' the Note",
+        "url": "https://open.spotify.com/album/2rZfqnJBkKxjOK1RsZfPpL"
+      },
+      "artists": [
+        {
+          "name": "Allman Brothers Band",
+          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
+        }
+      ],
+      "duration_ms": 372560,
+      "name": "Old Friend",
+      "url": "https://open.spotify.com/track/5TX4HB4ndwJCxoD3FWEIQx"
     },
     {
       "added_at": "2023-01-16 21:05:55",
@@ -583,18 +583,18 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "Songlines",
-        "url": "https://open.spotify.com/album/1T6rgbl3cemngWpcLC99MH"
+        "name": "Fight",
+        "url": "https://open.spotify.com/album/2wqkJmNoB8cS80mbmnGSUK"
       },
       "artists": [
         {
-          "name": "The Derek Trucks Band",
-          "url": "https://open.spotify.com/artist/1YwfENKEZrowcmtR1nALZn"
+          "name": "Joanna Connor",
+          "url": "https://open.spotify.com/artist/0MJGyEl8BgJbBTv3xeeFeB"
         }
       ],
-      "duration_ms": 593546,
-      "name": "Sahib Teri Bandi - Maki Madni",
-      "url": "https://open.spotify.com/track/3J7ftHdeBesSHblVt5629o"
+      "duration_ms": 262000,
+      "name": "Walkin' Blues",
+      "url": "https://open.spotify.com/track/4bh9exCCfV8IUr9qK28ZVC"
     },
     {
       "added_at": "2023-01-16 21:05:55",
@@ -615,6 +615,22 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
+        "name": "Songlines",
+        "url": "https://open.spotify.com/album/1T6rgbl3cemngWpcLC99MH"
+      },
+      "artists": [
+        {
+          "name": "The Derek Trucks Band",
+          "url": "https://open.spotify.com/artist/1YwfENKEZrowcmtR1nALZn"
+        }
+      ],
+      "duration_ms": 593546,
+      "name": "Sahib Teri Bandi - Maki Madni",
+      "url": "https://open.spotify.com/track/3J7ftHdeBesSHblVt5629o"
+    },
+    {
+      "added_at": "2023-01-16 21:05:55",
+      "album": {
         "name": "Too Bad Jim",
         "url": "https://open.spotify.com/album/30AT3tYydbsfhO5EDu5UKp"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 289666,
       "name": "Shake 'Em on Down",
       "url": "https://open.spotify.com/track/5hIQCctZj7Y1wuIo5UkU90"
-    },
-    {
-      "added_at": "2023-01-16 21:05:55",
-      "album": {
-        "name": "Gone to Texas",
-        "url": "https://open.spotify.com/album/5XaNKUWehrwuVY6lGsLFkQ"
-      },
-      "artists": [
-        {
-          "name": "Mike Zito",
-          "url": "https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4"
-        }
-      ],
-      "duration_ms": 247906,
-      "name": "Death Row",
-      "url": "https://open.spotify.com/track/4gFPqVg2MRvQGkSo7PhkOd"
     },
     {
       "added_at": "2023-01-16 21:05:55",
@@ -663,18 +663,18 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "Fight",
-        "url": "https://open.spotify.com/album/2wqkJmNoB8cS80mbmnGSUK"
+        "name": "Prime Chops",
+        "url": "https://open.spotify.com/album/17tOE8mbZcUnCYEo31VXQy"
       },
       "artists": [
         {
-          "name": "Joanna Connor",
-          "url": "https://open.spotify.com/artist/0MJGyEl8BgJbBTv3xeeFeB"
+          "name": "Roy Rogers",
+          "url": "https://open.spotify.com/artist/7kPinmrfhaLVSHjDxqAsAe"
         }
       ],
-      "duration_ms": 262000,
+      "duration_ms": 275066,
       "name": "Walkin' Blues",
-      "url": "https://open.spotify.com/track/4bh9exCCfV8IUr9qK28ZVC"
+      "url": "https://open.spotify.com/track/1MI3E3tZOgz4Oe47twVtTd"
     },
     {
       "added_at": "2023-01-16 21:05:55",
@@ -711,18 +711,18 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "Prime Chops",
-        "url": "https://open.spotify.com/album/17tOE8mbZcUnCYEo31VXQy"
+        "name": "Gone to Texas",
+        "url": "https://open.spotify.com/album/5XaNKUWehrwuVY6lGsLFkQ"
       },
       "artists": [
         {
-          "name": "Roy Rogers",
-          "url": "https://open.spotify.com/artist/7kPinmrfhaLVSHjDxqAsAe"
+          "name": "Mike Zito",
+          "url": "https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4"
         }
       ],
-      "duration_ms": 275066,
-      "name": "Walkin' Blues",
-      "url": "https://open.spotify.com/track/1MI3E3tZOgz4Oe47twVtTd"
+      "duration_ms": 247906,
+      "name": "Death Row",
+      "url": "https://open.spotify.com/track/4gFPqVg2MRvQGkSo7PhkOd"
     },
     {
       "added_at": "2023-01-16 21:05:55",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "White Hot Blues",
-        "url": "https://open.spotify.com/album/7MDS6yp7pHvXcuLIcjO8xY"
-      },
-      "artists": [
-        {
-          "name": "Johnny Winter",
-          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
-        }
-      ],
-      "duration_ms": 303520,
-      "name": "Highway 61 Revisited - Live in California - September 1975",
-      "url": "https://open.spotify.com/track/0MLny1eMrEO76xLNlw2yTs"
-    },
-    {
-      "added_at": "2023-01-16 21:05:55",
-      "album": {
         "name": "Deluxe Edition",
         "url": "https://open.spotify.com/album/6W1p3MVr1rpPTWqHwBTZco"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 241000,
       "name": "Roll Your Moneymaker",
       "url": "https://open.spotify.com/track/4LvVULuRGJytccOzfvlT4z"
+    },
+    {
+      "added_at": "2023-01-16 21:05:55",
+      "album": {
+        "name": "White Hot Blues",
+        "url": "https://open.spotify.com/album/7MDS6yp7pHvXcuLIcjO8xY"
+      },
+      "artists": [
+        {
+          "name": "Johnny Winter",
+          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
+        }
+      ],
+      "duration_ms": 303520,
+      "name": "Highway 61 Revisited - Live in California - September 1975",
+      "url": "https://open.spotify.com/track/0MLny1eMrEO76xLNlw2yTs"
     },
     {
       "added_at": "2023-01-16 21:05:55",

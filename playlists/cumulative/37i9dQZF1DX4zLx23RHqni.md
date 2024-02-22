@@ -4,7 +4,7 @@
 
 > Explore the Romantic side of Tamil Indie
 
-66 songs - 4 hr 20 min
+67 songs - 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Adiyeh Kirukki](https://open.spotify.com/track/4Xbm9u4D2H20W8MJIEntqa) | [Vicanes Jay](https://open.spotify.com/artist/113GLFnJJbGJbh4UZs9FLK) | [Adiyeh Kirukki](https://open.spotify.com/album/2mx1aRsNbp09gPN883WWPz) | 4:42 | 2021-12-01 |  |
 | [Alli Pookal](https://open.spotify.com/track/6CaZXWM3DWjQK73kK0nty7) | [Stephen Zechariah](https://open.spotify.com/artist/4ONKKiZXVVuz5nAWCUnnjG), [Priyanka NK](https://open.spotify.com/artist/2ur0GHc7zvYZXe0WjIKd2K) | [Alli Pookal](https://open.spotify.com/album/0Vd3VjOi0opbu51c8NvxBm) | 4:01 | 2021-12-01 |  |
 | [Anbe Aaruyirae](https://open.spotify.com/track/3ebSznljltY5w7kskNlhma) | [Prashan Sean](https://open.spotify.com/artist/04WGlrqyaR2LvjkL5O2eVf), [Navin Raaj Mathavan](https://open.spotify.com/artist/1PbMW7SDnPgoPWgo1Szi6h) | [Anbe Aaruyirae](https://open.spotify.com/album/57xEQNhxZfTTsbjdd6FEvo) | 4:51 | 2021-12-01 |  |
-| [Anbe Nalama?](https://open.spotify.com/track/07TiM33PXuXAhvQSwsnOYW) | [Kaber Vasuki](https://open.spotify.com/artist/7dDSQfbUWrNvRqpNP92slb) | [Anbe Nalama?](https://open.spotify.com/album/2TqgLBHd11jVzsYZUt4fnc) | 3:10 | 2021-12-01 |  |
+| [Anbe Nalama?](https://open.spotify.com/track/07TiM33PXuXAhvQSwsnOYW) | [Kaber Vasuki](https://open.spotify.com/artist/7dDSQfbUWrNvRqpNP92slb) | [Anbe Nalama?](https://open.spotify.com/album/2TqgLBHd11jVzsYZUt4fnc) | 3:10 | 2021-12-01 | 2024-02-22 |
 | [Anniku Raathiri](https://open.spotify.com/track/3bf3IZr936SL0d45m8xlWo) | [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7) | [Anniku Raathiri](https://open.spotify.com/album/30o1lvT2QicxFzEwo2nloP) | 3:13 | 2023-12-18 |  |
 | [Cute\-u Jaanu \(From "MM Originals"\) \(Original Soundtrack\)](https://open.spotify.com/track/3Pw9uuyavNje2FlAmZMwBw) | [Bharath K Rajesh](https://open.spotify.com/artist/13n9V5dYM3IMUSIJQp0i45), [Lakshmi Pradeep](https://open.spotify.com/artist/1uDTGoBHd9o44FwPn0Tssc), [Sebastin Rozario](https://open.spotify.com/artist/6zn3QoKgnSOZx7Q2QE2dVF), [Renjith Raveendran](https://open.spotify.com/artist/6AuA7xWpYlFAaTc0TsIZfI) | [Cute\-u Jaanu \(From "MM Originals"\) \(Original Soundtrack\)](https://open.spotify.com/album/2gOm8c2vbbANJqYkyuZ93c) | 3:15 | 2023-08-25 | 2023-09-30 |
 | [Ellam Unnale \(From "Think Indie"\)](https://open.spotify.com/track/7bie2UikFoDY3E8u6S4z8y) | [Godwin Winston](https://open.spotify.com/artist/7vqUNeg85N6Ric98foS687) | [Ellam Unnale \(From "Think Indie"\)](https://open.spotify.com/album/0Cl17slMTfhEVwdZmxtthR) | 3:52 | 2021-12-01 |  |
@@ -47,6 +47,7 @@
 | [Mayilu](https://open.spotify.com/track/7wFXImJlaYB7PUq8fHRrHB) | [Vidusan Kaneswaran](https://open.spotify.com/artist/320KWuazpEd0eY3PHQ35Zs), [Supaveen](https://open.spotify.com/artist/4amcdwiQHHj0QWiWt7DzDt) | [Mayilu](https://open.spotify.com/album/5ODNrjXo2I640UF0294PNP) | 3:41 | 2023-04-28 |  |
 | [Mittai Kannu Baby](https://open.spotify.com/track/4PsMQdLUKAUSuE63c9ZLXg) | [Sanathan Shree Krishnan](https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko) | [Mittai Kannu Baby](https://open.spotify.com/album/0fW3IVR2KG97oz7gtrwmv0) | 3:01 | 2023-06-23 | 2023-09-30 |
 | [Naan Kudikka Poren](https://open.spotify.com/track/7dz92P4LmPOl81fNcHjEUV) | [Ratty Adhiththan](https://open.spotify.com/artist/06qlB4GYIEJsYDEh6yhTuF), [Sahi Siva](https://open.spotify.com/artist/4DRRQdgaGKQGQMLjYj00C3), [Selojan](https://open.spotify.com/artist/3LarUwOHm8HD027JGUMJwU) | [Naan Kudikka Poren](https://open.spotify.com/album/2CXDwEEnfbSuMEQXTejOkw) | 4:17 | 2022-07-05 |  |
+| [Neethaney](https://open.spotify.com/track/4nBLO0QAckCUSVaT24xjAV) | [Stephen Zechariah](https://open.spotify.com/artist/4ONKKiZXVVuz5nAWCUnnjG), [Priya Jerson](https://open.spotify.com/artist/6wYw3yJjsSroW8KoMc3rw2), [Vignesh Ramakrishna](https://open.spotify.com/artist/5hMqWI3uRKI3hVaSVjgBvu) | [Neethaney](https://open.spotify.com/album/2dO7hYYYZUaoGIQvAmtDnK) | 4:13 | 2024-02-21 |  |
 | [Neeye](https://open.spotify.com/track/4sbR5eyctZyWWrN6JAPOHR) | [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX), [Sharanya Srinivas](https://open.spotify.com/artist/26tzHBE89rz5MSLeSi3qsB) | [Neeye](https://open.spotify.com/album/35cyKG8a4BvAGsW617H9w3) | 5:07 | 2021-12-01 |  |
 | [Nenjinile Rebirth](https://open.spotify.com/track/0pM7PCxuclmb1qsjTqt6WX) | [Chris G.](https://open.spotify.com/artist/0UuXsNfPKHnsxqO6ReEUS3), [Mc Sai](https://open.spotify.com/artist/4eZg8HhuJeHqjw7g1a02E9), [Sahi Siva](https://open.spotify.com/artist/4DRRQdgaGKQGQMLjYj00C3) | [Nenjinile Rebirth](https://open.spotify.com/album/5ofUC9Rbhk7rknQbDp4GIG) | 3:35 | 2021-12-01 |  |
 | [Nenjodu \(Live Jazz Version\)](https://open.spotify.com/track/16y9QTSXhVKLbNZtiGjNtk) | [Vishal \- Aditya](https://open.spotify.com/artist/18Gn0S8ERNbuv5GA8FB0xT), [Vishal Ramakrishnan](https://open.spotify.com/artist/1KSeWs9MdFRE8H5jDa3ojg) | [Two](https://open.spotify.com/album/5JxFHpsi6R7domKdfu2RkM) | 3:04 | 2021-12-01 |  |

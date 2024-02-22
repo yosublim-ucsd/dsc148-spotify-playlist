@@ -2,9 +2,9 @@
 
 ### [عراقي جديد](https://open.spotify.com/playlist/37i9dQZF1DWVSIz2AGspV4)
 
-> أحدث الاغاني العراقية\. غلاف: سيف نبيل
+> أحدث الاغاني العراقية\. غلاف: مصطفى العبدالله و احمد البشير
 
-275 songs - 16 hr 3 min
+276 songs - 16 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Aayech Ayamy](https://open.spotify.com/track/7maMefhoGVAwyvvt68oCu6) | [Saoud Abu Sultan](https://open.spotify.com/artist/7iAGe2R8bmGpcepwjDvCuH) | [Aayech Ayamy](https://open.spotify.com/album/342b6F79HuFY0WoJYlRXK0) | 3:29 | 2023-02-02 | 2023-06-29 |
 | [Abn Al Khain](https://open.spotify.com/track/4fJR2YdREjWfxSYhx9CaC0) | [Ahmed Al Mazen](https://open.spotify.com/artist/1HXNShlKQdmZh5Ih6MtPH4) | [Abn Al Khain](https://open.spotify.com/album/1yJ54uNqTlz0UYzXEIFFYc) | 3:22 | 2021-12-23 | 2022-05-14 |
 | [Abous El Sodfa: Abous El Sodfa](https://open.spotify.com/track/5DGQSn4bSDfXpBBP9LhDya) | [Saif Nabeel](https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK) | [Abous El Sodfa](https://open.spotify.com/album/3M2Q05YLGxIUPHVVet0dMX) | 3:53 | 2022-12-29 | 2023-05-27 |
+| [Abu Treychiya](https://open.spotify.com/track/5OhPIODPuDfwLsXcJVMk3O) | [Mustafa Al\-Abdullah](https://open.spotify.com/artist/3hHA3JWJQfVAYx5lRTxSxu), [Ahmed Albasheer](https://open.spotify.com/artist/1JEeyaF0W5wWhKsWGynHtu) | [Abu Treychiya](https://open.spotify.com/album/4ac5SPx2Swz8hyfYEug6Mj) | 3:50 | 2024-02-21 |  |
 | [Adman](https://open.spotify.com/track/74APeQkjsmOmXgvcnD8ysS) | [Murtadha Adam](https://open.spotify.com/artist/6Tv9HObqiIBWKHhPkaIdt7), [Mahmoud Abdel Karim](https://open.spotify.com/artist/31Oz4j5UvNbWvilTGEdoJa) | [Adman](https://open.spotify.com/album/0AiCaZUwTAmHzc5cXx44Tk) | 2:55 | 2021-12-23 | 2022-03-18 |
 | [Aerif Ealam](https://open.spotify.com/track/3lR76Thi8qiARWyR56fRqf) | [Ahmed Al Maslawi](https://open.spotify.com/artist/00VUV8R7oHc6FSLFyNmwFa) | [Aerif Ealam](https://open.spotify.com/album/6fEb4CMn6M8uqu9SxwFNi3) | 3:12 | 2022-06-07 | 2023-02-01 |
 | [Ah Yani](https://open.spotify.com/track/0vMD3NFvruMSROWEhm8756) | [Saif Nabeel](https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK) | [Ah Yani](https://open.spotify.com/album/2743kDzwDOEBBeTrSn6h5H) | 3:19 | 2021-12-23 | 2022-05-14 |

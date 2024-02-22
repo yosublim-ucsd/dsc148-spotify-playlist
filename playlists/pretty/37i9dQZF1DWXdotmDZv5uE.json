@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lleva el folclore de M\u00e9xico a donde sea!",
-  "num_followers": 130998,
+  "num_followers": 131006,
   "original_name": "Tradici\u00f3n Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YmUzYzY1ZTM1NjJlNzRjZDIwZjI5YWVmZDlkZDI3ZjEwNjFhNWYx",
+  "snapshot_id": "MCw3NGU3ZjcyZTk0OGE3YmY3ODFjOTAyNWYzZjIzZGRhZGQwNDM3Zjgz",
   "tracks": [
     {
       "added_at": "2023-05-09 18:01:28",
@@ -287,22 +287,6 @@
     {
       "added_at": "2023-05-09 18:01:28",
       "album": {
-        "name": "15 \u00c9xitos Al Estilo Ranchero De Juan Torres",
-        "url": "https://open.spotify.com/album/4eJxF67PdhW7DGjq1f21gF"
-      },
-      "artists": [
-        {
-          "name": "Juan Torres",
-          "url": "https://open.spotify.com/artist/6f9xTYssmtLTLCoErssCLY"
-        }
-      ],
-      "duration_ms": 212776,
-      "name": "Adi\u00f3s Mariquita Linda",
-      "url": "https://open.spotify.com/track/6sFEBrEEtj5nQqR17KFq1L"
-    },
-    {
-      "added_at": "2023-05-09 18:01:28",
-      "album": {
         "name": "Mariachi Azteca",
         "url": "https://open.spotify.com/album/224xkKynDgFfWPQXnTTgMo"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 124893,
       "name": "Las altenitas",
       "url": "https://open.spotify.com/track/14xRTwrxqIsiwl5SgCnW3m"
+    },
+    {
+      "added_at": "2023-05-09 18:01:28",
+      "album": {
+        "name": "15 \u00c9xitos Al Estilo Ranchero De Juan Torres",
+        "url": "https://open.spotify.com/album/4eJxF67PdhW7DGjq1f21gF"
+      },
+      "artists": [
+        {
+          "name": "Juan Torres",
+          "url": "https://open.spotify.com/artist/6f9xTYssmtLTLCoErssCLY"
+        }
+      ],
+      "duration_ms": 212776,
+      "name": "Adi\u00f3s Mariquita Linda",
+      "url": "https://open.spotify.com/track/6sFEBrEEtj5nQqR17KFq1L"
     },
     {
       "added_at": "2023-05-09 18:01:28",
@@ -427,18 +427,18 @@
     {
       "added_at": "2023-05-09 18:01:28",
       "album": {
-        "name": "Mis Rancheras Favoritas",
-        "url": "https://open.spotify.com/album/7mVwlRCnXaFYoxSmY2WWtP"
+        "name": "Mariachi Azteca",
+        "url": "https://open.spotify.com/album/224xkKynDgFfWPQXnTTgMo"
       },
       "artists": [
         {
-          "name": "Juan Torres",
-          "url": "https://open.spotify.com/artist/6f9xTYssmtLTLCoErssCLY"
+          "name": "Mariachi Azteca",
+          "url": "https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW"
         }
       ],
-      "duration_ms": 167636,
-      "name": "All\u00e1 En El Rancho Grande",
-      "url": "https://open.spotify.com/track/5sqRaYsFBVkG5QyI2c3SnV"
+      "duration_ms": 196000,
+      "name": "Zopilote mojado",
+      "url": "https://open.spotify.com/track/1yaCuWQl54kgdlCmuAUi0L"
     },
     {
       "added_at": "2023-05-09 18:01:28",
@@ -475,18 +475,18 @@
     {
       "added_at": "2023-05-09 18:01:28",
       "album": {
-        "name": "Mariachi Azteca",
-        "url": "https://open.spotify.com/album/224xkKynDgFfWPQXnTTgMo"
+        "name": "Mis Rancheras Favoritas",
+        "url": "https://open.spotify.com/album/7mVwlRCnXaFYoxSmY2WWtP"
       },
       "artists": [
         {
-          "name": "Mariachi Azteca",
-          "url": "https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW"
+          "name": "Juan Torres",
+          "url": "https://open.spotify.com/artist/6f9xTYssmtLTLCoErssCLY"
         }
       ],
-      "duration_ms": 196000,
-      "name": "Zopilote mojado",
-      "url": "https://open.spotify.com/track/1yaCuWQl54kgdlCmuAUi0L"
+      "duration_ms": 167636,
+      "name": "All\u00e1 En El Rancho Grande",
+      "url": "https://open.spotify.com/track/5sqRaYsFBVkG5QyI2c3SnV"
     },
     {
       "added_at": "2023-05-09 18:01:28",
@@ -527,18 +527,18 @@
     {
       "added_at": "2023-05-09 18:01:28",
       "album": {
-        "name": "Mis Rancheras Favoritas",
-        "url": "https://open.spotify.com/album/7mVwlRCnXaFYoxSmY2WWtP"
+        "name": "Mariachi from Mexico",
+        "url": "https://open.spotify.com/album/37XAmBpj05Ohmoql3AFiMM"
       },
       "artists": [
         {
-          "name": "Juan Torres",
-          "url": "https://open.spotify.com/artist/6f9xTYssmtLTLCoErssCLY"
+          "name": "Mariachi Azteca",
+          "url": "https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW"
         }
       ],
-      "duration_ms": 169708,
-      "name": "El Barrilito",
-      "url": "https://open.spotify.com/track/6SrFN9LvRwvsMqlvu9opUf"
+      "duration_ms": 214960,
+      "name": "Los machetes",
+      "url": "https://open.spotify.com/track/5C2t9rhH6dcS1Vj7m2ix3n"
     },
     {
       "added_at": "2023-05-09 18:01:28",
@@ -587,18 +587,18 @@
     {
       "added_at": "2023-05-09 18:01:28",
       "album": {
-        "name": "Mariachi from Mexico",
-        "url": "https://open.spotify.com/album/37XAmBpj05Ohmoql3AFiMM"
+        "name": "Mis Rancheras Favoritas",
+        "url": "https://open.spotify.com/album/7mVwlRCnXaFYoxSmY2WWtP"
       },
       "artists": [
         {
-          "name": "Mariachi Azteca",
-          "url": "https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW"
+          "name": "Juan Torres",
+          "url": "https://open.spotify.com/artist/6f9xTYssmtLTLCoErssCLY"
         }
       ],
-      "duration_ms": 214960,
-      "name": "Los machetes",
-      "url": "https://open.spotify.com/track/5C2t9rhH6dcS1Vj7m2ix3n"
+      "duration_ms": 169708,
+      "name": "El Barrilito",
+      "url": "https://open.spotify.com/track/6SrFN9LvRwvsMqlvu9opUf"
     },
     {
       "added_at": "2023-05-09 18:01:28",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-05-09 18:01:28",
       "album": {
-        "name": "Sembrando Flores",
-        "url": "https://open.spotify.com/album/2L4pDxKqvwuJ6mr03Kc1I8"
-      },
-      "artists": [
-        {
-          "name": "Los Cojolites",
-          "url": "https://open.spotify.com/artist/6SFpEAywC3u4kjE00wHMoO"
-        }
-      ],
-      "duration_ms": 321000,
-      "name": "Camotal",
-      "url": "https://open.spotify.com/track/4s7qx83G1CKhSHCcnHV0lC"
-    },
-    {
-      "added_at": "2023-05-09 18:01:28",
-      "album": {
         "name": "Mariachi from Mexico",
         "url": "https://open.spotify.com/album/37XAmBpj05Ohmoql3AFiMM"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 176266,
       "name": "Las perlitas",
       "url": "https://open.spotify.com/track/48bS8GnQrZuDSPP8CdMxis"
+    },
+    {
+      "added_at": "2023-05-09 18:01:28",
+      "album": {
+        "name": "Sembrando Flores",
+        "url": "https://open.spotify.com/album/2L4pDxKqvwuJ6mr03Kc1I8"
+      },
+      "artists": [
+        {
+          "name": "Los Cojolites",
+          "url": "https://open.spotify.com/artist/6SFpEAywC3u4kjE00wHMoO"
+        }
+      ],
+      "duration_ms": 321000,
+      "name": "Camotal",
+      "url": "https://open.spotify.com/track/4s7qx83G1CKhSHCcnHV0lC"
     },
     {
       "added_at": "2023-05-09 18:01:28",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-05-09 18:01:28",
       "album": {
-        "name": "La Ruta del Son Mexicano",
-        "url": "https://open.spotify.com/album/3poUSqYsWGuYVW7rPPgbLz"
-      },
-      "artists": [
-        {
-          "name": "Son Itsme\u00f1o",
-          "url": "https://open.spotify.com/artist/1GtAdYtIZLOHrTCJUTNkFl"
-        }
-      ],
-      "duration_ms": 271040,
-      "name": "La Martiniana",
-      "url": "https://open.spotify.com/track/1m5A6GfEnXDex5rRCgZMWT"
-    },
-    {
-      "added_at": "2023-05-09 18:01:28",
-      "album": {
         "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Antonio Bribiesca",
         "url": "https://open.spotify.com/album/2rDD8JqC6Id1hmr0JI4hDA"
       },
@@ -931,18 +915,18 @@
     {
       "added_at": "2023-05-09 18:01:28",
       "album": {
-        "name": "M\u00e9xico",
-        "url": "https://open.spotify.com/album/3DFM3OHbXbQabB1IDHFPkZ"
+        "name": "La Ruta del Son Mexicano",
+        "url": "https://open.spotify.com/album/3poUSqYsWGuYVW7rPPgbLz"
       },
       "artists": [
         {
-          "name": "Los Folkloristas",
-          "url": "https://open.spotify.com/artist/2iALv7pTGUwcobl2VPoJPU"
+          "name": "Son Itsme\u00f1o",
+          "url": "https://open.spotify.com/artist/1GtAdYtIZLOHrTCJUTNkFl"
         }
       ],
-      "duration_ms": 213573,
-      "name": "El Trompo (Son Jarocho) [Veracruz]",
-      "url": "https://open.spotify.com/track/5Ms36eSpJQfc1VWnaZdjo7"
+      "duration_ms": 271040,
+      "name": "La Martiniana",
+      "url": "https://open.spotify.com/track/1m5A6GfEnXDex5rRCgZMWT"
     },
     {
       "added_at": "2023-05-09 18:01:28",
@@ -959,6 +943,22 @@
       "duration_ms": 208040,
       "name": "El chuchumbe",
       "url": "https://open.spotify.com/track/1rS8jSEd7TuEeJVf8USMRW"
+    },
+    {
+      "added_at": "2023-05-09 18:01:28",
+      "album": {
+        "name": "M\u00e9xico",
+        "url": "https://open.spotify.com/album/3DFM3OHbXbQabB1IDHFPkZ"
+      },
+      "artists": [
+        {
+          "name": "Los Folkloristas",
+          "url": "https://open.spotify.com/artist/2iALv7pTGUwcobl2VPoJPU"
+        }
+      ],
+      "duration_ms": 213573,
+      "name": "El Trompo (Son Jarocho) [Veracruz]",
+      "url": "https://open.spotify.com/track/5Ms36eSpJQfc1VWnaZdjo7"
     },
     {
       "added_at": "2023-05-09 18:01:28",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-05-09 18:01:28",
       "album": {
-        "name": "Nuevo Son Jarocho",
-        "url": "https://open.spotify.com/album/5N6LeE3fGxhD6D0MEgZkNr"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Jardin",
-          "url": "https://open.spotify.com/artist/0Kh15Of3lmMoXKsR8s5tA0"
-        }
-      ],
-      "duration_ms": 205306,
-      "name": "Cruzando en el Barco",
-      "url": "https://open.spotify.com/track/3tqIxbFFT4yY1z5pNlhH25"
-    },
-    {
-      "added_at": "2023-05-09 18:01:28",
-      "album": {
         "name": "Antolog\u00eda del Son de M\u00e9xico, Huasteca",
         "url": "https://open.spotify.com/album/3Bp5LJYCdRc7ZjeE202cf8"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 209226,
       "name": "La Petenera",
       "url": "https://open.spotify.com/track/4WeazL7v9t7yHAUF7TgGnG"
+    },
+    {
+      "added_at": "2023-05-09 18:01:28",
+      "album": {
+        "name": "Nuevo Son Jarocho",
+        "url": "https://open.spotify.com/album/5N6LeE3fGxhD6D0MEgZkNr"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Jardin",
+          "url": "https://open.spotify.com/artist/0Kh15Of3lmMoXKsR8s5tA0"
+        }
+      ],
+      "duration_ms": 205306,
+      "name": "Cruzando en el Barco",
+      "url": "https://open.spotify.com/track/3tqIxbFFT4yY1z5pNlhH25"
     },
     {
       "added_at": "2023-05-09 18:01:28",
@@ -1635,26 +1635,6 @@
     {
       "added_at": "2023-05-09 18:01:28",
       "album": {
-        "name": "Marimbas Clasicas",
-        "url": "https://open.spotify.com/album/48sRia6rlUi7yI5XGaYjJX"
-      },
-      "artists": [
-        {
-          "name": "Mexican Music Factory",
-          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
-        },
-        {
-          "name": "Felipe Gutierrez",
-          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
-        }
-      ],
-      "duration_ms": 134291,
-      "name": "La Cucaracha",
-      "url": "https://open.spotify.com/track/70YB8z8u5OflFK8CWN5rcS"
-    },
-    {
-      "added_at": "2023-05-09 18:01:28",
-      "album": {
         "name": "Marimbas Y Regional Vol. 1",
         "url": "https://open.spotify.com/album/6hWqfOtbjRUgHNHGi7VqTI"
       },
@@ -1675,6 +1655,26 @@
       "duration_ms": 181465,
       "name": "Ansia Marimba",
       "url": "https://open.spotify.com/track/01moK6nSNPIDKnfv5GhsN1"
+    },
+    {
+      "added_at": "2023-05-09 18:01:28",
+      "album": {
+        "name": "Marimbas Clasicas",
+        "url": "https://open.spotify.com/album/48sRia6rlUi7yI5XGaYjJX"
+      },
+      "artists": [
+        {
+          "name": "Mexican Music Factory",
+          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
+        },
+        {
+          "name": "Felipe Gutierrez",
+          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
+        }
+      ],
+      "duration_ms": 134291,
+      "name": "La Cucaracha",
+      "url": "https://open.spotify.com/track/70YB8z8u5OflFK8CWN5rcS"
     },
     {
       "added_at": "2023-05-09 18:01:28",

@@ -1,12 +1,12 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 146846,
+  "num_followers": 146918,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YzRkNGE5YmI4NjU4NWQ2MTZkZDQ4MGU5YmUzMjg3MzM4N2VlOTQ5",
+  "snapshot_id": "MCxjNjQzZDNkZDhkNTQ3Mzg5MGE2OGNmMWI1MThjM2JhNGEzNzIxOGZj",
   "tracks": [
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Pretty Little Poison (Piano Version)",
-        "url": "https://open.spotify.com/album/00q0IXrfOMAKRrOg8iBEzb"
-      },
-      "artists": [
-        {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
-        }
-      ],
-      "duration_ms": 216866,
-      "name": "Pretty Little Poison - Piano Version",
-      "url": "https://open.spotify.com/track/7Cch8QA1FTnFcCijMkrM8E"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Buy Dirt",
         "url": "https://open.spotify.com/album/3T9Iw4QrkSpiJnqN0ZpNTd"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 170755,
       "name": "Buy Dirt - Alternate Version",
       "url": "https://open.spotify.com/track/6dYs20Vw8S9pzf8gR7BN0c"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Pretty Little Poison (Piano Version)",
+        "url": "https://open.spotify.com/album/00q0IXrfOMAKRrOg8iBEzb"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "duration_ms": 216866,
+      "name": "Pretty Little Poison - Piano Version",
+      "url": "https://open.spotify.com/track/7Cch8QA1FTnFcCijMkrM8E"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "That's Why (Acoustic Version)",
-        "url": "https://open.spotify.com/album/5Rf2mz5BFjulfBK3idNujx"
-      },
-      "artists": [
-        {
-          "name": "Troy Cartwright",
-          "url": "https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr"
-        }
-      ],
-      "duration_ms": 177772,
-      "name": "That's Why (Acoustic Version)",
-      "url": "https://open.spotify.com/track/3KpwuK8rJmwNJtAYGwBzxX"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Little More Be Alright",
         "url": "https://open.spotify.com/album/1PjknGJiyZnoKGTgUQHamM"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 215721,
       "name": "Little More Be Alright",
       "url": "https://open.spotify.com/track/1fvcAmIhO3FSGEWiNB5XFf"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "That's Why (Acoustic Version)",
+        "url": "https://open.spotify.com/album/5Rf2mz5BFjulfBK3idNujx"
+      },
+      "artists": [
+        {
+          "name": "Troy Cartwright",
+          "url": "https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr"
+        }
+      ],
+      "duration_ms": 177772,
+      "name": "That's Why (Acoustic Version)",
+      "url": "https://open.spotify.com/track/3KpwuK8rJmwNJtAYGwBzxX"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Drinking Alone",
-        "url": "https://open.spotify.com/album/64PJ8S3L5sW6sCbWwqDccI"
-      },
-      "artists": [
-        {
-          "name": "Cole Phillips",
-          "url": "https://open.spotify.com/artist/2Ew91UUE0bjzHWCEnA8cHy"
-        }
-      ],
-      "duration_ms": 175783,
-      "name": "Drinking Alone - Sunset Session",
-      "url": "https://open.spotify.com/track/3SBwfxEUpTvavNFM9w47I4"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "You, Me, And Whiskey (Acoustic)",
         "url": "https://open.spotify.com/album/6tArNmtAD2sWugYk9ePmg5"
       },
@@ -1459,18 +1443,18 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Love Makes You Blind (Acoustic Version)",
-        "url": "https://open.spotify.com/album/75jOuaznH9JpfkrKLt6AmG"
+        "name": "Drinking Alone",
+        "url": "https://open.spotify.com/album/64PJ8S3L5sW6sCbWwqDccI"
       },
       "artists": [
         {
-          "name": "Kaylee Rose",
-          "url": "https://open.spotify.com/artist/0TKoBOWNrYm3FRIHvd1VfH"
+          "name": "Cole Phillips",
+          "url": "https://open.spotify.com/artist/2Ew91UUE0bjzHWCEnA8cHy"
         }
       ],
-      "duration_ms": 160940,
-      "name": "Love Makes You Blind (Acoustic Version)",
-      "url": "https://open.spotify.com/track/3nigSojrGL9YcS9RIt8X8U"
+      "duration_ms": 175783,
+      "name": "Drinking Alone - Sunset Session",
+      "url": "https://open.spotify.com/track/3SBwfxEUpTvavNFM9w47I4"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1491,6 +1475,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "Love Makes You Blind (Acoustic Version)",
+        "url": "https://open.spotify.com/album/75jOuaznH9JpfkrKLt6AmG"
+      },
+      "artists": [
+        {
+          "name": "Kaylee Rose",
+          "url": "https://open.spotify.com/artist/0TKoBOWNrYm3FRIHvd1VfH"
+        }
+      ],
+      "duration_ms": 160940,
+      "name": "Love Makes You Blind (Acoustic Version)",
+      "url": "https://open.spotify.com/track/3nigSojrGL9YcS9RIt8X8U"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "Neon Moon",
         "url": "https://open.spotify.com/album/1iY1fvzHTy4u6ouop155oT"
       },
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Love You Again (Hey World Sessions)",
-        "url": "https://open.spotify.com/album/5nWaaNIGhziGIB8T73Rkgx"
-      },
-      "artists": [
-        {
-          "name": "Chase Matthew",
-          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
-        }
-      ],
-      "duration_ms": 177386,
-      "name": "Love You Again - Hey World Sessions",
-      "url": "https://open.spotify.com/track/6s9H533OuVIPhQ4dMeZ0Zd"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "End of the Rain",
         "url": "https://open.spotify.com/album/2AjVO7FIhjSQLqtLDm8xAb"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 195701,
       "name": "End of the Rain",
       "url": "https://open.spotify.com/track/3ZzPTO2Qbo6cI72DBjOLep"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Love You Again (Hey World Sessions)",
+        "url": "https://open.spotify.com/album/5nWaaNIGhziGIB8T73Rkgx"
+      },
+      "artists": [
+        {
+          "name": "Chase Matthew",
+          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
+        }
+      ],
+      "duration_ms": 177386,
+      "name": "Love You Again - Hey World Sessions",
+      "url": "https://open.spotify.com/track/6s9H533OuVIPhQ4dMeZ0Zd"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Humble Quest: In Rare Form",
-        "url": "https://open.spotify.com/album/5he9k8l3BJF3MtTerCtaq8"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 188651,
-      "name": "I Can't Love You Anymore - In Rare Form",
-      "url": "https://open.spotify.com/track/3dipAWHU0fH4hRWxq5P3Cc"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Standing Room Only (Acoustic)",
         "url": "https://open.spotify.com/album/3rFLlJ2vRuigTDlrA8DmN4"
       },
@@ -1619,18 +1603,34 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Creek Will Rise (Acoustic)",
-        "url": "https://open.spotify.com/album/1rTDhlSTMh1DCQtOqU119z"
+        "name": "Humble Quest: In Rare Form",
+        "url": "https://open.spotify.com/album/5he9k8l3BJF3MtTerCtaq8"
       },
       "artists": [
         {
-          "name": "Conner Smith",
-          "url": "https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk"
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
         }
       ],
-      "duration_ms": 171320,
-      "name": "Creek Will Rise - Acoustic",
-      "url": "https://open.spotify.com/track/5ItavV1pcc92aYo56k0i6o"
+      "duration_ms": 188651,
+      "name": "I Can't Love You Anymore - In Rare Form",
+      "url": "https://open.spotify.com/track/3dipAWHU0fH4hRWxq5P3Cc"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Barstool Whiskey Wonderland (Wonderland Sides)",
+        "url": "https://open.spotify.com/album/1VpOY5cZtzPWFnv4W7UBeq"
+      },
+      "artists": [
+        {
+          "name": "Adam Doleac",
+          "url": "https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew"
+        }
+      ],
+      "duration_ms": 185815,
+      "name": "Coulda Loved You Longer - Acoustic",
+      "url": "https://open.spotify.com/track/6igwsNMONs9uIqrLUCYWhj"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1651,18 +1651,18 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Barstool Whiskey Wonderland (Wonderland Sides)",
-        "url": "https://open.spotify.com/album/1VpOY5cZtzPWFnv4W7UBeq"
+        "name": "Creek Will Rise (Acoustic)",
+        "url": "https://open.spotify.com/album/1rTDhlSTMh1DCQtOqU119z"
       },
       "artists": [
         {
-          "name": "Adam Doleac",
-          "url": "https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew"
+          "name": "Conner Smith",
+          "url": "https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk"
         }
       ],
-      "duration_ms": 185815,
-      "name": "Coulda Loved You Longer - Acoustic",
-      "url": "https://open.spotify.com/track/6igwsNMONs9uIqrLUCYWhj"
+      "duration_ms": 171320,
+      "name": "Creek Will Rise - Acoustic",
+      "url": "https://open.spotify.com/track/5ItavV1pcc92aYo56k0i6o"
     }
   ],
   "unique_name": "Nashville Stripped",

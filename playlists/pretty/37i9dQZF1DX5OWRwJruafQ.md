@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 
 > Keep it Punjabi, Keep it Real\. Cover: Tarsem Jassar
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,471 likes - 100 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,579 likes - 100 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,16 +17,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 | 7 | [Hot Shit](https://open.spotify.com/track/5olluo8Xh733gDwhmchDlp) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Chobar](https://open.spotify.com/album/0PYDvpixI39fPsmBAs3FC6) | 2:43 |
 | 8 | [Gangsta Shit](https://open.spotify.com/track/1JrMBCjCRiBe0XNB6ZzWhY) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Roop Bhullar](https://open.spotify.com/artist/0sYnCQ9Eb3RbEHOqVQST8d) | [Estrellas](https://open.spotify.com/album/56bKi3MtxXf4CzkkaDZ73s) | 2:45 |
 | 9 | [Puthi Matt](https://open.spotify.com/track/63Grzak4SE03nPhMkSzYSL) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Harf Kaur](https://open.spotify.com/artist/3onRJSddy3hsALa3ud6hPP) | [Puthi Matt](https://open.spotify.com/album/2GbcPJ0gnju3HMTm299ufa) | 3:30 |
-| 10 | [News](https://open.spotify.com/track/1CsargjBmDcE9gClrg6R5k) | [Malle Ala Guri](https://open.spotify.com/artist/3nYIKhNszei3o5IZAfVsWF), [Korala Maan](https://open.spotify.com/artist/6WZ8WCYWROs8IyMJOPeJ4G) | [News](https://open.spotify.com/album/0tbwwEB0xTSny4lUdq9rZQ) | 3:34 |
-| 11 | [Yaar Mere](https://open.spotify.com/track/4mqDW9KBBcupJze5rNssQC) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36) | [Y Hate ?](https://open.spotify.com/album/7N0yvorIcp7TXTvhKSK1uQ) | 3:54 |
-| 12 | [Bakrey Bulanda Sara Pind \(From "Blackia 2"\)](https://open.spotify.com/track/5mI9DkGHYEBh2iRP86FBA8) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Gill Raunta](https://open.spotify.com/artist/6kz3taYAGtHb9kDWvzQm9k) | [Bakrey Bulanda Sara Pind \(From "Blackia 2"\)](https://open.spotify.com/album/0D8tlH2jLCIO1nOU2osIq9) | 2:50 |
-| 13 | [Way Bigger](https://open.spotify.com/track/1HJhiNWURFxcHbCdQ2y7jt) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Chobar](https://open.spotify.com/album/0PYDvpixI39fPsmBAs3FC6) | 2:40 |
-| 14 | [Safety Off](https://open.spotify.com/track/3NwmvlTYDZPRBGDMGgJH8K) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Leo](https://open.spotify.com/album/1h0Yw7Wm49GGiGpN2gd3o2) | 2:23 |
-| 15 | [The Jatts](https://open.spotify.com/track/6OBlaBatU62ohkau4G9vLr) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV) | [The Jatts](https://open.spotify.com/album/64n0oSlEC8c7bgzFjuWqFv) | 2:41 |
-| 16 | [Putt Jattan De](https://open.spotify.com/track/2n3HUcwbuJbG24fyPDZb8J) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr) | [Putt Jattan De](https://open.spotify.com/album/3Z4MbkKMCrrY9YW1fZOM4q) | 2:43 |
-| 17 | [Jalwa](https://open.spotify.com/track/40F1lbxeOINcF2VOC7yt3S) | [Jot Ladhar](https://open.spotify.com/artist/6uB5Rk4rcsvBH3XFjeoBDR), [Kash Ladhar](https://open.spotify.com/artist/5aX4K8tN6Ii8JIGFRcs3uR), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Jalwa](https://open.spotify.com/album/2Lwf3gqTD5n18onGycB4gg) | 3:06 |
-| 18 | [Mind Map](https://open.spotify.com/track/5gYF95v7W7sbKWHLM5VTBj) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [Mind Map](https://open.spotify.com/album/0qQ6zM8aN3d3Gqy6w3g3tL) | 2:42 |
-| 19 | [4 Days](https://open.spotify.com/track/4pQbBdYF0Q51WgpDNeYqP7) | [Ammy Gill](https://open.spotify.com/artist/5haYUb5jgBXUG4zVm6lp4Z) | [4 Days](https://open.spotify.com/album/7c9es6ncieiN3y3tGVyxPV) | 3:41 |
+| 10 | [ENGINE](https://open.spotify.com/track/5nsd4o6nkpTov75TetYhzO) | [Nawab](https://open.spotify.com/artist/1fTMfqHcXtTa0G42Wu7qH5), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Deepak Dhillon](https://open.spotify.com/artist/647Ivke8w05hNzKHs68ZSY) | [ENGINE](https://open.spotify.com/album/6LQnAKk8awpYGj2KjR6qhl) | 2:26 |
+| 11 | [News](https://open.spotify.com/track/1CsargjBmDcE9gClrg6R5k) | [Malle Ala Guri](https://open.spotify.com/artist/3nYIKhNszei3o5IZAfVsWF), [Korala Maan](https://open.spotify.com/artist/6WZ8WCYWROs8IyMJOPeJ4G) | [News](https://open.spotify.com/album/0tbwwEB0xTSny4lUdq9rZQ) | 3:34 |
+| 12 | [Yaar Mere](https://open.spotify.com/track/4mqDW9KBBcupJze5rNssQC) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36) | [Y Hate ?](https://open.spotify.com/album/7N0yvorIcp7TXTvhKSK1uQ) | 3:54 |
+| 13 | [Bakrey Bulanda Sara Pind \(From "Blackia 2"\)](https://open.spotify.com/track/5mI9DkGHYEBh2iRP86FBA8) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Gill Raunta](https://open.spotify.com/artist/6kz3taYAGtHb9kDWvzQm9k) | [Bakrey Bulanda Sara Pind \(From "Blackia 2"\)](https://open.spotify.com/album/0D8tlH2jLCIO1nOU2osIq9) | 2:50 |
+| 14 | [Way Bigger](https://open.spotify.com/track/1HJhiNWURFxcHbCdQ2y7jt) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Chobar](https://open.spotify.com/album/0PYDvpixI39fPsmBAs3FC6) | 2:40 |
+| 15 | [Safety Off](https://open.spotify.com/track/3NwmvlTYDZPRBGDMGgJH8K) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Leo](https://open.spotify.com/album/1h0Yw7Wm49GGiGpN2gd3o2) | 2:23 |
+| 16 | [The Jatts](https://open.spotify.com/track/6OBlaBatU62ohkau4G9vLr) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV) | [The Jatts](https://open.spotify.com/album/64n0oSlEC8c7bgzFjuWqFv) | 2:41 |
+| 17 | [Putt Jattan De](https://open.spotify.com/track/2n3HUcwbuJbG24fyPDZb8J) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr) | [Putt Jattan De](https://open.spotify.com/album/3Z4MbkKMCrrY9YW1fZOM4q) | 2:43 |
+| 18 | [Jalwa](https://open.spotify.com/track/40F1lbxeOINcF2VOC7yt3S) | [Jot Ladhar](https://open.spotify.com/artist/6uB5Rk4rcsvBH3XFjeoBDR), [Kash Ladhar](https://open.spotify.com/artist/5aX4K8tN6Ii8JIGFRcs3uR), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Jalwa](https://open.spotify.com/album/2Lwf3gqTD5n18onGycB4gg) | 3:06 |
+| 19 | [Mind Map](https://open.spotify.com/track/5gYF95v7W7sbKWHLM5VTBj) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [Mind Map](https://open.spotify.com/album/0qQ6zM8aN3d3Gqy6w3g3tL) | 2:42 |
 | 20 | [33](https://open.spotify.com/track/7JtCTnYXJvn2tcD5MmEjgQ) | [Khan Bhaini](https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N) | [33](https://open.spotify.com/album/055Za6Wlf00WEYJefGjgxL) | 2:49 |
 | 21 | [Executioner](https://open.spotify.com/track/6qCfjN5FG8PznhZK8BQ1Vn) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Kahlon](https://open.spotify.com/artist/6rHyVOJFRsLEOo1aOd2zQG) | [Executioner](https://open.spotify.com/album/2LAQrYQv9hTHbJK2jT8iFZ) | 2:57 |
 | 22 | [Top Flame](https://open.spotify.com/track/3u6jK5KR1ijBCUs4CLzV9c) | [JERRY](https://open.spotify.com/artist/1mUl05hT77FrwVFW51wOlr) | [Top Flame](https://open.spotify.com/album/2DcComXPapapQcGrNSuPkt) | 2:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 | 99 | [Nah They Can't](https://open.spotify.com/track/5RXc1cmSNl3DSRThl2Ii4W) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [No Lookin' Back](https://open.spotify.com/album/2z1B8rt2WK0K92x9XbCV24) | 3:24 |
 | 100 | [If I Die](https://open.spotify.com/track/6Hz3tNl55T31nuoX5NKybR) | [Guri Lahoria](https://open.spotify.com/artist/4oMjKSuAAFB6E9a5Icudw3), [Devilo](https://open.spotify.com/artist/5qrlwNqpcRzoI9Pjux1xHQ) | [If I Die](https://open.spotify.com/album/78piK5s0g1fcELSLFzvDbI) | 3:06 |
 
-Snapshot ID: `MCw2ZjFmOTYxMjdlN2Y2YmNiNzBmZGFmN2NjZWI0ZGE0ZTFmMzEwZjZj`
+Snapshot ID: `MCwzYjg1OTdmYjQ1NGZiMWE5YzMxNDI5ODRlMGU0ZjQzZTUxZDAwYTg1`

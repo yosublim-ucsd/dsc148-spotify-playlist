@@ -1,5 +1,5 @@
 {
-  "2024-02-21": 176750,
+  "2024-02-22": 176823,
   "date_first_scraped": "2022-03-01",
   "description": "Leave no rock undiscovered and explore the essential foundations of Christian rock.",
   "name": "Cornerstones",
@@ -613,7 +613,7 @@
     {
       "album": {
         "name": "Destination: Beautiful",
-        "url": "https://open.spotify.com/album/0KSoZMT7Q7q5nylNQnvtUa"
+        "url": "https://open.spotify.com/album/0fvnUGEkf0weY58px7azoE"
       },
       "artists": [
         {
@@ -624,6 +624,24 @@
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 258105,
+      "name": "Embers and Envelopes",
+      "url": "https://open.spotify.com/track/4z6BGfHtJHIhZi5XwX1gs3"
+    },
+    {
+      "album": {
+        "name": "Destination: Beautiful",
+        "url": "https://open.spotify.com/album/0KSoZMT7Q7q5nylNQnvtUa"
+      },
+      "artists": [
+        {
+          "name": "Mae",
+          "url": "https://open.spotify.com/artist/17Ht3puBDQIHTXvQTYYI3b"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2024-02-21",
       "duration_ms": 258106,
       "name": "Embers and Envelopes",
       "url": "https://open.spotify.com/track/1UEQUcL0XEpX3WLNFvv4uM"

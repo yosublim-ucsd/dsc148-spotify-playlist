@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMYgB8TqtmR.md) - [plain]
 
 > It's Hits – största och bästa hitsen just nu!
 
-[Spotify](https://open.spotify.com/user/spotify) - 879,472 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 879,521 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMYgB8TqtmR.md) - [plain]
 | 9 | [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 |
 | 10 | [yes, and?](https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [yes, and?](https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb) | 3:34 |
 | 11 | [Lean & $prite](https://open.spotify.com/track/1iW01MpA3PwLW97dq1hHEH) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl), [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Lean & $prite](https://open.spotify.com/album/7eEKWJ2EWUqDTHNQnyDwCW) | 2:34 |
-| 12 | [Inga änglar \(Na na na\)](https://open.spotify.com/track/532hmJMBzkTyhVQTlHHUuJ) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Inga änglar \(Na na na\)](https://open.spotify.com/album/3jJmhnYy9Zif0lCkLQfv6J) | 3:14 |
+| 12 | [Inga änglar \(Na na na\)](https://open.spotify.com/track/6Z81UrPb8kWlzO4bP0ETzo) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Nya Hits](https://open.spotify.com/album/3IAEBiMpkBwgSzMYQUjojd) | 3:14 |
 | 13 | [Tid & Tro](https://open.spotify.com/track/3Je6X9MikiAZqi7x7Wfu0t) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Tid & Tro](https://open.spotify.com/album/3OLi7nPMD2hZK4zAEzZ2Ic) | 2:13 |
 | 14 | [SOVA](https://open.spotify.com/track/3p0WsdmgVU2ZNIufdYFBDt) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [FOR THOSE WHO BELIEVED](https://open.spotify.com/album/2AkCxCyJMIoMe07c3dUnkv) | 3:23 |
 | 15 | [Låt Mig Va](https://open.spotify.com/track/6Vbgg3C5Qo7olhjIIr1r4e) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF), [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Låt Mig Va](https://open.spotify.com/album/678gU1iWVNcgTstct030O3) | 2:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMYgB8TqtmR.md) - [plain]
 | 49 | [I Remember Everything \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:47 |
 | 50 | [Prada](https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i) | [cassö](https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Prada](https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc) | 2:12 |
 
-Snapshot ID: `MCxkY2NlZWIwMzVmODdlMjkzYzhjZGFjNmI5NWE3OWEyMGVhNWRkMmEw`
+Snapshot ID: `MCwzMDc2Y2FhYjYxYWJmODMyZjhkNjA3ZjMyMTFmNThmYzMzMDk1Yjdm`

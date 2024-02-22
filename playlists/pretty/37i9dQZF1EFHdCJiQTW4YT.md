@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 | 47 | [Fantasy](https://open.spotify.com/track/0uKrDNElljLIvrrSb7zVRu) | [JBJ](https://open.spotify.com/artist/6VJXRJvRRyLv99RZbXJ8RO) | [NEW MOON](https://open.spotify.com/album/3c1qg7O88Wc5wDDJ1YEUzV) | 3:22 |
 | 48 | [Into The Wild](https://open.spotify.com/track/4g2T3FUjXH6XuboKw60hHX) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Sideways](https://open.spotify.com/album/5XsAy9Iqc4HVotx800ojMA) | 3:30 |
 | 49 | [Water](https://open.spotify.com/track/0gwR22fn1mk9XLm6mpJnk8) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Church Of Scars](https://open.spotify.com/album/1TTxcgs3zEngN0EB56yXzY) | 3:21 |
-| 50 | [High Road](https://open.spotify.com/track/113vSUnh7fsCbSRNgEH0to) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [High Road](https://open.spotify.com/album/4HZ195qaMlhiKebUtF36ni) | 3:19 |
-| 51 | [Lost Cause](https://open.spotify.com/track/72cW36itoiN4orlNQtJgGE) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL](https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ) | 3:38 |
+| 50 | [Lost Cause](https://open.spotify.com/track/72cW36itoiN4orlNQtJgGE) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL](https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ) | 3:38 |
+| 51 | [High Road](https://open.spotify.com/track/113vSUnh7fsCbSRNgEH0to) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [High Road](https://open.spotify.com/album/4HZ195qaMlhiKebUtF36ni) | 3:19 |
 | 52 | [Kiss Kiss](https://open.spotify.com/track/1YIpn8wM7Zbq7sZr9AeI7I) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Soy el Mismo](https://open.spotify.com/album/4o8ZyBzwPxPVc2bqNG5Xfe) | 3:44 |
 | 53 | [Written in the Scars \(feat\. Wrabel\)](https://open.spotify.com/track/0W68dlJ9e4OcVWbECODJDM) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [The Aviary](https://open.spotify.com/album/7DNmxxEuJe19wNVrinaXx4) | 3:23 |
 | 54 | [All the Feels](https://open.spotify.com/track/3scYtw10wODPatwKBGTwB6) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [All the Feels](https://open.spotify.com/album/73hQB56aBFJTHE9vshSCLg) | 3:16 |
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 | 139 | [Mean It](https://open.spotify.com/track/4XW0JyO4DKjyxAFJhNDbps) | [Dustin Domingo](https://open.spotify.com/artist/78bcX1rKaNUMVYutJ5Kq4L) | [Mean It](https://open.spotify.com/album/5dCqM12gg8X650WYNZcbuu) | 3:22 |
 | 140 | [Here Comes the Change](https://open.spotify.com/track/6mrrZi2rUwPhnVLWO7PtO5) | [JukeVox LibrAries](https://open.spotify.com/artist/3XCz6vtF1dsjFpVluDCFRm) | [Waiting For You](https://open.spotify.com/album/2dRmJE9oRpnCpy2eKk9q07) | 4:45 |
 
-Snapshot ID: `Mjg0NzQ3MDAsMDAwMDAwMDA1M2FiMTZkZGQwM2U5NzEwNzk1NDYwYjQ2NTljZjYzYQ==`
+Snapshot ID: `Mjg0NzYxNDAsMDAwMDAwMDBjY2JlMDAyMmVhMTdlNjY0Njc0MTFjYTNiZDc2ZjhmMg==`

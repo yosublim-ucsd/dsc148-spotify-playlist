@@ -4,7 +4,7 @@
 
 > The biggest songs of the 1960s.
 
-835 songs - 1 day 19 hr 44 min
+836 songs - 1 day 19 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -272,7 +272,7 @@
 | [He's a Rebel](https://open.spotify.com/track/0mG8Hety4RELeo6p808fcy) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [Da Doo Ron Ron: The Very Best of The Crystals](https://open.spotify.com/album/11ho9FxQbJjMbQn1P1yWpm) | 2:30 | 2019-07-27 | 2020-08-15 |
 | [He's So Fine \- Remastered 2000](https://open.spotify.com/track/2Bs1Lw9LX8hBm70t1iGdlh) | [The Chiffons](https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj) | [The Chiffons Absolutely The Best!](https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq) | 1:52 | 2019-07-17 | 2021-10-14 |
 | [Heart Full of Soul](https://open.spotify.com/track/0AiuEo7FCxP2y2WTOpLPe5) | [The Yardbirds](https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX) | [The Yardbirds Story \- Pt\. 3 \- 1965/66 \- Big Hits & America Calling](https://open.spotify.com/album/0lYmtEuL0fLXPP4XKr5O8K) | 2:27 | 2019-07-17 | 2019-08-10 |
-| [Heartbreaker \- 1990 Remaster](https://open.spotify.com/track/6WE7jSshLCuVKoCmobVKVf) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin II \(1994 Remaster\)](https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx) | 4:14 | 2019-07-22 |  |
+| [Heartbreaker \- 1990 Remaster](https://open.spotify.com/track/6WE7jSshLCuVKoCmobVKVf) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin II \(1994 Remaster\)](https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx) | 4:14 | 2019-07-22 | 2024-02-22 |
 | [Heaven Must Have Sent You \- Mono Single](https://open.spotify.com/track/2j24h8ZvzouJRg2HzHvRH4) | [The Elgins](https://open.spotify.com/artist/0CMVsLgjlp9Tk02TikMAQK) | [The Motown Anthology](https://open.spotify.com/album/5VPaWphXyRUpqdXtgQqegP) | 2:30 | 2021-01-05 | 2021-10-14 |
 | [Hello Mary Lou, Goodbye Heart \- Remastered](https://open.spotify.com/track/6ImmlZj8ysK2jDnqqbKp60) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Rick Is 21](https://open.spotify.com/album/0eWkaY2z2iBw1t7M8eHKQe) | 2:18 | 2020-08-15 | 2022-07-27 |
 | [Hello, Dolly!](https://open.spotify.com/track/23GIXiltwHUWhPCPwQ08av) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Hello Louis \- The Hit Years \(1963\-1969\)](https://open.spotify.com/album/7uP6iCdzfkjE6bnRAAnN5s) | 2:24 | 2019-06-24 | 2019-08-05 |
@@ -781,6 +781,7 @@
 | [Walkin' Back to Happiness](https://open.spotify.com/track/4YTYhsTsvNanQQI5PvKmNW) | [Helen Shapiro](https://open.spotify.com/artist/05kB8yh0Bbxj73qH63Ob3C) | [Walkin' Back to Happiness](https://open.spotify.com/album/2ynTwwIZiWTRh2yBt8HPeT) | 2:29 | 2019-06-26 | 2019-08-05 |
 | [Walkin' Back to Happiness](https://open.spotify.com/track/3mNfU0psAm7h3s6Dn6i7SD) | [Helen Shapiro](https://open.spotify.com/artist/05kB8yh0Bbxj73qH63Ob3C) | [Helen Shapiro](https://open.spotify.com/album/4D3i5fQz4JOYHndcmflSqz) | 2:31 | 2020-12-22 | 2021-10-11 |
 | [Waterloo Sunset](https://open.spotify.com/track/5nrmGFJ87crVoJF5xdRqwn) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Something Else \(Deluxe\)](https://open.spotify.com/album/5ktMgVAJtsv4HagfFliWpR) | 3:14 | 2022-08-12 | 2023-08-27 |
+| [Waterloo Sunset](https://open.spotify.com/track/3G0EALIIp5DAeIERxXBHmo) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Something Else \(Deluxe\)](https://open.spotify.com/album/3n0mKh1yuR5QjX6Vm0GKj2) | 3:14 | 2022-08-12 |  |
 | [Waterloo Sunset \- Stereo Mix](https://open.spotify.com/track/6i6vTovzDTGf6AQp96YwZK) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Something Else By The Kinks \(Bonus Track Edition\)](https://open.spotify.com/album/3M3JjcA8YcJDKl0ktMOPQW) | 3:13 | 2019-05-26\* | 2022-07-29 |
 | [What A Man](https://open.spotify.com/track/20fHsQJ6sXz6EFN3VTPpOD) | [Linda Lyndell](https://open.spotify.com/artist/5zU5MAgXh6Lcs3FY2KSFNQ) | [Stax 50th Anniversary](https://open.spotify.com/album/0inBSwF5qDv8OUM6BHq396) | 2:40 | 2021-01-05 | 2021-10-10 |
 | [What A Man](https://open.spotify.com/track/1fAq1tPHZGsYACY25qdIcd) | [Linda Lyndell](https://open.spotify.com/artist/5zU5MAgXh6Lcs3FY2KSFNQ) | [Sourced](https://open.spotify.com/album/78rQftFElWu9VzTEHJUNun) | 2:42 | 2019-06-21 | 2021-02-25 |

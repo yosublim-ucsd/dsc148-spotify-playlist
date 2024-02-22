@@ -1,12 +1,12 @@
 {
   "description": "For body and mind, blues straight from the soul.",
-  "num_followers": 71880,
+  "num_followers": 71935,
   "original_name": "Healin' Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNDBkYWZlMWU4NmUyOTJiZWM3NmQxMzRkMTQ1NzYyMzEzMmNhOTZl",
+  "snapshot_id": "MCxkNDRkYTNmOGI3NmJkM2ZhMjg0NDRlOGFhYmY0Mzc2NjEwYmRiZWRk",
   "tracks": [
     {
       "added_at": "2023-10-05 13:06:44",
@@ -131,22 +131,6 @@
     {
       "added_at": "2023-10-05 13:06:44",
       "album": {
-        "name": "Lucille",
-        "url": "https://open.spotify.com/album/5aowahjEeRgbLALRPb9a2s"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 616560,
-      "name": "Lucille",
-      "url": "https://open.spotify.com/track/4ZSJs1cqeincEi2KjUGmZC"
-    },
-    {
-      "added_at": "2023-10-05 13:06:44",
-      "album": {
         "name": "Fandango! (Expanded 2006 Remaster)",
         "url": "https://open.spotify.com/album/6zxF1jfgFOkYvDywpC5BAV"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 279840,
       "name": "Blue Jean Blues (2005 Remaster)",
       "url": "https://open.spotify.com/track/2wXy7MhpWa1t4n86QzaCVL"
+    },
+    {
+      "added_at": "2023-10-05 13:06:44",
+      "album": {
+        "name": "Lucille",
+        "url": "https://open.spotify.com/album/5aowahjEeRgbLALRPb9a2s"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 616560,
+      "name": "Lucille",
+      "url": "https://open.spotify.com/track/4ZSJs1cqeincEi2KjUGmZC"
     },
     {
       "added_at": "2023-10-05 13:06:44",
@@ -275,22 +275,6 @@
     {
       "added_at": "2023-10-05 13:06:44",
       "album": {
-        "name": "Born Under A Bad Sign",
-        "url": "https://open.spotify.com/album/42WQ76qWDQmHlHvJa6Z3Uw"
-      },
-      "artists": [
-        {
-          "name": "Albert King",
-          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
-        }
-      ],
-      "duration_ms": 226600,
-      "name": "As The Years Go Passing By",
-      "url": "https://open.spotify.com/track/71auWR3IZdhDv3M8RZsqIF"
-    },
-    {
-      "added_at": "2023-10-05 13:06:44",
-      "album": {
         "name": "Indianola Mississippi Seeds",
         "url": "https://open.spotify.com/album/1NgGj5ECcDELHjoQRX2P1l"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 278640,
       "name": "Hummingbird",
       "url": "https://open.spotify.com/track/769OeqqYJcSQjvVquDWfYf"
+    },
+    {
+      "added_at": "2023-10-05 13:06:44",
+      "album": {
+        "name": "Born Under A Bad Sign",
+        "url": "https://open.spotify.com/album/42WQ76qWDQmHlHvJa6Z3Uw"
+      },
+      "artists": [
+        {
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+        }
+      ],
+      "duration_ms": 226600,
+      "name": "As The Years Go Passing By",
+      "url": "https://open.spotify.com/track/71auWR3IZdhDv3M8RZsqIF"
     },
     {
       "added_at": "2023-10-05 13:06:44",
@@ -455,18 +455,18 @@
     {
       "added_at": "2023-10-05 13:06:44",
       "album": {
-        "name": "Don't Lose This",
-        "url": "https://open.spotify.com/album/3OEEKjCodSc3o3jf6EGyO1"
+        "name": "Long Way Home",
+        "url": "https://open.spotify.com/album/2L0UmVlogWkTQL7WCatEha"
       },
       "artists": [
         {
-          "name": "Pops Staples",
-          "url": "https://open.spotify.com/artist/0F8Bkp3cWlXJKp1GmFV5n3"
+          "name": "Clarence \"Gatemouth\" Brown",
+          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
         }
       ],
-      "duration_ms": 246826,
-      "name": "Friendship",
-      "url": "https://open.spotify.com/track/364TGoiK2nPK0YYa4Z4p2Y"
+      "duration_ms": 338333,
+      "name": "Long Way Home",
+      "url": "https://open.spotify.com/track/1BjYNhg7JhVfQdxqEThBwn"
     },
     {
       "added_at": "2023-10-05 13:06:44",
@@ -487,18 +487,18 @@
     {
       "added_at": "2023-10-05 13:06:44",
       "album": {
-        "name": "Long Way Home",
-        "url": "https://open.spotify.com/album/2L0UmVlogWkTQL7WCatEha"
+        "name": "Don't Lose This",
+        "url": "https://open.spotify.com/album/3OEEKjCodSc3o3jf6EGyO1"
       },
       "artists": [
         {
-          "name": "Clarence \"Gatemouth\" Brown",
-          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
+          "name": "Pops Staples",
+          "url": "https://open.spotify.com/artist/0F8Bkp3cWlXJKp1GmFV5n3"
         }
       ],
-      "duration_ms": 338333,
-      "name": "Long Way Home",
-      "url": "https://open.spotify.com/track/1BjYNhg7JhVfQdxqEThBwn"
+      "duration_ms": 246826,
+      "name": "Friendship",
+      "url": "https://open.spotify.com/track/364TGoiK2nPK0YYa4Z4p2Y"
     },
     {
       "added_at": "2023-10-05 13:06:44",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-10-05 13:06:44",
       "album": {
-        "name": "Blues To The Bone",
-        "url": "https://open.spotify.com/album/1FbyARbzpYjJBoHm9UgDyQ"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 215333,
-      "name": "Dust My Broom",
-      "url": "https://open.spotify.com/track/7ab9T50hNO7ULa2pvtcjjZ"
-    },
-    {
-      "added_at": "2023-10-05 13:06:44",
-      "album": {
         "name": "Big Walter Horton w/ Carey Bell",
         "url": "https://open.spotify.com/album/0u6qeEym4B0JLaVZrw4Ih5"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 347880,
       "name": "Givin' Up On Love",
       "url": "https://open.spotify.com/track/0z996lfA5XGfC9uwVaBIUW"
+    },
+    {
+      "added_at": "2023-10-05 13:06:44",
+      "album": {
+        "name": "Blues To The Bone",
+        "url": "https://open.spotify.com/album/1FbyARbzpYjJBoHm9UgDyQ"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 215333,
+      "name": "Dust My Broom",
+      "url": "https://open.spotify.com/track/7ab9T50hNO7ULa2pvtcjjZ"
     },
     {
       "added_at": "2023-10-05 13:06:44",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-10-05 13:06:44",
       "album": {
-        "name": "I Am The Blues",
-        "url": "https://open.spotify.com/album/0y79HnVGwEtybfIcfD6M7N"
-      },
-      "artists": [
-        {
-          "name": "Willie Dixon",
-          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
-        }
-      ],
-      "duration_ms": 216373,
-      "name": "The Little Red Rooster",
-      "url": "https://open.spotify.com/track/3knwd2whi9QUViKgWCsixF"
-    },
-    {
-      "added_at": "2023-10-05 13:06:44",
-      "album": {
         "name": "Faith And Grace: A Family Journey 1953-1976",
         "url": "https://open.spotify.com/album/0DkzL2vbWM8cJsfxzSzmCI"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 157640,
       "name": "I Know I've Been Changed",
       "url": "https://open.spotify.com/track/6nUIuLITcryRxnLQ74YBeQ"
+    },
+    {
+      "added_at": "2023-10-05 13:06:44",
+      "album": {
+        "name": "I Am The Blues",
+        "url": "https://open.spotify.com/album/0y79HnVGwEtybfIcfD6M7N"
+      },
+      "artists": [
+        {
+          "name": "Willie Dixon",
+          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
+        }
+      ],
+      "duration_ms": 216373,
+      "name": "The Little Red Rooster",
+      "url": "https://open.spotify.com/track/3knwd2whi9QUViKgWCsixF"
     },
     {
       "added_at": "2023-10-05 13:06:44",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-10-05 13:06:44",
       "album": {
-        "name": "Driving Wheel",
-        "url": "https://open.spotify.com/album/5RqYLf8ScgXBcrNRWoyQrP"
-      },
-      "artists": [
-        {
-          "name": "Little Junior Parker",
-          "url": "https://open.spotify.com/artist/5AZroUSVLr1sdkgCAfv1kM"
-        }
-      ],
-      "duration_ms": 157266,
-      "name": "Drivin' Wheel - Single Version",
-      "url": "https://open.spotify.com/track/4r08u8N2RSeorASn62yHr6"
-    },
-    {
-      "added_at": "2023-10-05 13:06:44",
-      "album": {
         "name": "Georgia Blue",
         "url": "https://open.spotify.com/album/2JGpezeVAwq7Jw2ua3EniV"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 271199,
       "name": "It's a Man's, Man\u2019s, Man\u2019s World",
       "url": "https://open.spotify.com/track/5CfGXaEPnhwqAlhX2PJmy4"
+    },
+    {
+      "added_at": "2023-10-05 13:06:44",
+      "album": {
+        "name": "Driving Wheel",
+        "url": "https://open.spotify.com/album/5RqYLf8ScgXBcrNRWoyQrP"
+      },
+      "artists": [
+        {
+          "name": "Little Junior Parker",
+          "url": "https://open.spotify.com/artist/5AZroUSVLr1sdkgCAfv1kM"
+        }
+      ],
+      "duration_ms": 157266,
+      "name": "Drivin' Wheel - Single Version",
+      "url": "https://open.spotify.com/track/4r08u8N2RSeorASn62yHr6"
     },
     {
       "added_at": "2023-10-05 13:06:44",

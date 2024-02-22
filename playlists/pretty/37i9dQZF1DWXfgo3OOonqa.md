@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > Håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 325,195 likes - 100 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 325,283 likes - 100 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 3 | [Lean & $prite](https://open.spotify.com/track/1iW01MpA3PwLW97dq1hHEH) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl), [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Lean & $prite](https://open.spotify.com/album/7eEKWJ2EWUqDTHNQnyDwCW) | 2:34 |
 | 4 | [En gång till](https://open.spotify.com/track/2vd8CskGdduZW0LvVvXW7f) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [En gång till](https://open.spotify.com/album/4DHfWTM0wLOcsvPftNzluD) | 2:25 |
 | 5 | [Hanterar](https://open.spotify.com/track/57DG6W6WyFlc5hOwklXas2) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [Bestämda Kliv](https://open.spotify.com/album/5vfP4ynhnd7wqU84adLvcG) | 2:25 |
-| 6 | [Inga änglar \(Na na na\)](https://open.spotify.com/track/532hmJMBzkTyhVQTlHHUuJ) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Inga änglar \(Na na na\)](https://open.spotify.com/album/3jJmhnYy9Zif0lCkLQfv6J) | 3:14 |
+| 6 | [Inga änglar \(Na na na\)](https://open.spotify.com/track/6Z81UrPb8kWlzO4bP0ETzo) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Nya Hits](https://open.spotify.com/album/3IAEBiMpkBwgSzMYQUjojd) | 3:14 |
 | 7 | [Lemonade](https://open.spotify.com/track/1LB3r7Nn2PE4spye87VjHp) | [Y4ska](https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8) | [Lemonade](https://open.spotify.com/album/5GusruUjqDx5zA9jfdRgSH) | 2:26 |
 | 8 | [OTR \(On The Road\)](https://open.spotify.com/track/1tN35VXKqqilry2wxZ9XQB) | [Deso](https://open.spotify.com/artist/1U3mO1k6m4lSlusDwdNOZZ), [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [OTR \(On The Road\)](https://open.spotify.com/album/6F5ACT5GB1yKHapZ0iPPG5) | 2:16 |
 | 9 | [STICKY](https://open.spotify.com/track/2TJHQcYJVjpHOYoa8NeumK) | [Lekaye](https://open.spotify.com/artist/1ex9QsvTSM6iNuLh1lkJUM), [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [STICKY](https://open.spotify.com/album/1iy7ZOslpXrT7NWtswHDu6) | 2:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 99 | [Love & Guns](https://open.spotify.com/track/4BOx8wKMG0MNpuIzlk0aXn) | [Sticky](https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [Love & Guns](https://open.spotify.com/album/7lc7bfjXIVNUZ2BvsuyL2C) | 2:48 |
 | 100 | [FIRST PICK](https://open.spotify.com/track/0VLAg7TZY2v6Y8GlJx1gdq) | [DR](https://open.spotify.com/artist/6c4sJR389IWJzl4ao1uAiA), [TUTTOLENTE](https://open.spotify.com/artist/3VRrEInrOGVHmPGBP7T3M1) | [FIRST PICK](https://open.spotify.com/album/3iD7enLyHRPGOXEl9ljJv6) | 2:01 |
 
-Snapshot ID: `MCw4MzcxMzk0N2M2MDUzNDJjMTI5MzZiYzY5ZmFlNjM4NWFjYzU1MDc5`
+Snapshot ID: `MCxmN2I1ZTYzM2IzNmQzZDIzNzU1ZTBmZmNhYmRiY2IwMzgxOTFlNDVi`

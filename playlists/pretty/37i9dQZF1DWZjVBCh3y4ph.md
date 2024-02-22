@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 
 > Les hits zouk du moment\. Photo : Aya Nakamura
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,017 likes - 40 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,079 likes - 40 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 | 39 | [BB Attends](https://open.spotify.com/track/6P7BE1eaTQItkv8EJ0ciGd) | [T\-Stone](https://open.spotify.com/artist/6PGPB8aKzvdmvrM7kAuNGs) | [BB Attends](https://open.spotify.com/album/3td3goCEmojjxjA7p45X6a) | 2:40 |
 | 40 | [Dis\-moi](https://open.spotify.com/track/4NxvcmdBmR04g4nsfrhMsO) | [Kueena](https://open.spotify.com/artist/2N8ozOg61bquXNTapBfdm7), [Nayane](https://open.spotify.com/artist/2fphOBIhmkJp2O5Gqxlj4t) | [Dis\-moi](https://open.spotify.com/album/77QQGSVPna5U1nwnARigxr) | 3:28 |
 
-Snapshot ID: `MCxiMjZhOGU3MzFiYjQwNWY2NmJmY2IxYzgwZWY1MGU0ZTJiMmUxYmU3`
+Snapshot ID: `MCwyYTAxN2Y0MzE2NTQ5ZTM4Y2FlMzFiNGU3Yzg0OWQ1NGJmZjhmNjZj`

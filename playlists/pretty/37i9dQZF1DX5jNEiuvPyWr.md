@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 
 > Le meilleur du rap français version cloud\. Photo : Chanceko
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,668 likes - 40 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,663 likes - 40 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 | 39 | [ELEMENT](https://open.spotify.com/track/6e82ytBlz3s2RRnPzXgg9D) | [zaky](https://open.spotify.com/artist/1OGnylVl0ivlAICNOVaJQp) | [ELEMENT](https://open.spotify.com/album/53izZ5ctHfOq87JPDKglhj) | 2:20 |
 | 40 | [Hors ligne](https://open.spotify.com/track/2mmaaAzG2Mq496poYvKTbm) | [Roxaane](https://open.spotify.com/artist/6wzDxKSspmUkXSTAdP3lNO) | [HORS LIGNE CE SOIR](https://open.spotify.com/album/5L9V0HxSW1DWCl6ElveExY) | 2:23 |
 
-Snapshot ID: `MCxlMGVjNGUwODUxZmUwMmNmOGU0YjNhNmQ2ZDFjNjQyNjg4MjdhYzE4`
+Snapshot ID: `MCw0YTdlZTUwZDBjNTUxNDZmNTYzOGQ3OTY5YzcxNDVkMWMwNTExNGVk`

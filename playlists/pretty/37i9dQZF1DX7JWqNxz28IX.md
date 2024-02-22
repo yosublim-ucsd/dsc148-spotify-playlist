@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 
 > canzoni tristi per chi ha un cuore così 💔  \(in cover, kid vice\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,189 likes - 100 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,213 likes - 100 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 | 71 | [Dove sei??](https://open.spotify.com/track/4sDryJaxNbgbucTleahrXE) | [Agon](https://open.spotify.com/artist/1LHVbos3OPyt6XN52RvTJK) | [Dove sei??](https://open.spotify.com/album/647emruUfFnCax2xaYKh6N) | 3:01 |
 | 72 | [Penso a te](https://open.spotify.com/track/0SiygWBzCOeItYAjC3ZDVh) | [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp), [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [Penso a te](https://open.spotify.com/album/6ajL0vtyiiqofQdvt0u7RO) | 2:03 |
 | 73 | [Hasta la Muerte](https://open.spotify.com/track/13ayZLGRDxX85NEG78hIjF) | [Ëgo](https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd) | [Hasta la Muerte](https://open.spotify.com/album/5NNcyVXkfTUP2Y9ddLfAE0) | 2:00 |
-| 74 | [Ciò che amo scompare](https://open.spotify.com/track/4LuNkSBfFtBeTIxTm5K574) | [Rayan Seventeen17](https://open.spotify.com/artist/3nao1CmUhdK0OZ8XvT0X1S) | [Ciò che amo scompare](https://open.spotify.com/album/0GiTA6omGkGDWyEvuLyw9r) | 3:03 |
-| 75 | [Autopsia](https://open.spotify.com/track/5wEdC22OgyM7umwe6XeCms) | [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [Autopsia](https://open.spotify.com/album/01bwlYW15thIL49JrwibKC) | 3:28 |
+| 74 | [Autopsia](https://open.spotify.com/track/5wEdC22OgyM7umwe6XeCms) | [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [Autopsia](https://open.spotify.com/album/01bwlYW15thIL49JrwibKC) | 3:28 |
+| 75 | [Ciò che amo scompare](https://open.spotify.com/track/4LuNkSBfFtBeTIxTm5K574) | [Rayan Seventeen17](https://open.spotify.com/artist/3nao1CmUhdK0OZ8XvT0X1S) | [Ciò che amo scompare](https://open.spotify.com/album/0GiTA6omGkGDWyEvuLyw9r) | 3:03 |
 | 76 | [Shama è buono](https://open.spotify.com/track/73sBRhhyCwGx8VtdGHhwcl) | [Shama24k](https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [Shama è buono](https://open.spotify.com/album/4XWdTJr5axPt4DAZRkEpOX) | 2:24 |
 | 77 | [pensieri brutti](https://open.spotify.com/track/49i5H63uLE5DBU13KDc5eA) | [Cicco Sanchez](https://open.spotify.com/artist/4WCGWBfRK9jWrDtxj4Qdel), [Axos](https://open.spotify.com/artist/7fE7lNK6tsXhCOfYfxQ3wT) | [nostalgia liquida](https://open.spotify.com/album/7KiMMxjH4YYmYk2JuQtfe0) | 2:31 |
 | 78 | [Amsterdam](https://open.spotify.com/track/2BOzEweKLKbBdP6szSatP7) | [Nashley](https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe) | [OSIRIDE](https://open.spotify.com/album/6jmB6f0AiVAAYZRAISXHwq) | 3:20 |
@@ -91,10 +91,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 | 81 | [Tornerò](https://open.spotify.com/track/7v6mjoYALPYFqlYQxbsRdj) | [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp) | [Tornerò](https://open.spotify.com/album/4m9U7MMcVrA3V7T88SUObz) | 2:26 |
 | 82 | [Ceramica](https://open.spotify.com/track/776F1kiWnHUjxuntmvPnt9) | [Nisba](https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa), [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp) | [Ceramica](https://open.spotify.com/album/3UPAnRJrMnjNBE5bxw66BD) | 3:13 |
 | 83 | [Letto grande](https://open.spotify.com/track/3vMQhhXqvmEwAvK5NJKjEn) | [Bipolar](https://open.spotify.com/artist/36CoTQmA5QgZvVpG81y1di), [Fedesse](https://open.spotify.com/artist/5PO87szg98wyej1UyFzMbC) | [Letto grande](https://open.spotify.com/album/4e9kOiXKkq3accbxqLIfhC) | 3:31 |
-| 84 | [SEMBREREMO DISTANTI](https://open.spotify.com/track/1OmjpoA4JsgcwVL9XXu62h) | [UkuLele](https://open.spotify.com/artist/69VBcKoYGOFY30ly2yxm8L), [Delta](https://open.spotify.com/artist/7KMnhvEUFIaY5afnH9kCbv), [Close Listen](https://open.spotify.com/artist/1nYewcxiLilP3ju14xOaov) | [MUSICA ALTA E STRESS](https://open.spotify.com/album/4dYxfdCXvfE0NyBDgKAFQo) | 2:45 |
-| 85 | [Winston Blue](https://open.spotify.com/track/78WU5Aet5mAFziFp8Xtd1i) | [DC](https://open.spotify.com/artist/3fw7URaMHr4Wq9e6whUT2R) | [Winston Blue](https://open.spotify.com/album/0M95QrJhwkP2WHdX8ECfHT) | 2:31 |
-| 86 | [L'effetto che mi fai](https://open.spotify.com/track/3lxnYJ4tMPPYXL7vONxGRi) | [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [L'effetto che mi fai](https://open.spotify.com/album/3yShDUYPfX7h1HSK6Apecx) | 2:54 |
-| 87 | [DOVE SEI](https://open.spotify.com/track/7Lf6L3PBhMcSVTIjxEhtWB) | [Faster](https://open.spotify.com/artist/6y3YL8atGp96e9pvlB3snd), [JXN](https://open.spotify.com/artist/3MYT2UTOP4RHngspyochga) | [ONIRO](https://open.spotify.com/album/5K6rOCFPtt6Gdv6YHaPC2x) | 2:54 |
+| 84 | [DOVE SEI](https://open.spotify.com/track/7Lf6L3PBhMcSVTIjxEhtWB) | [Faster](https://open.spotify.com/artist/6y3YL8atGp96e9pvlB3snd), [JXN](https://open.spotify.com/artist/3MYT2UTOP4RHngspyochga) | [ONIRO](https://open.spotify.com/album/5K6rOCFPtt6Gdv6YHaPC2x) | 2:54 |
+| 85 | [L'effetto che mi fai](https://open.spotify.com/track/3lxnYJ4tMPPYXL7vONxGRi) | [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [L'effetto che mi fai](https://open.spotify.com/album/3yShDUYPfX7h1HSK6Apecx) | 2:54 |
+| 86 | [Winston Blue](https://open.spotify.com/track/78WU5Aet5mAFziFp8Xtd1i) | [WECH PUTO](https://open.spotify.com/artist/6Y9tJfn6ECnWpZngpRIFfK) | [Winston Blue](https://open.spotify.com/album/0M95QrJhwkP2WHdX8ECfHT) | 2:31 |
+| 87 | [SEMBREREMO DISTANTI](https://open.spotify.com/track/1OmjpoA4JsgcwVL9XXu62h) | [UkuLele](https://open.spotify.com/artist/69VBcKoYGOFY30ly2yxm8L), [Delta](https://open.spotify.com/artist/7KMnhvEUFIaY5afnH9kCbv), [Close Listen](https://open.spotify.com/artist/1nYewcxiLilP3ju14xOaov) | [MUSICA ALTA E STRESS](https://open.spotify.com/album/4dYxfdCXvfE0NyBDgKAFQo) | 2:45 |
 | 88 | [Hai fatto tardi](https://open.spotify.com/track/1JcIxBJtgklUN9Sl2Rdla2) | [Nisba](https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa) | [Hai fatto tardi](https://open.spotify.com/album/24zYSQ7kCKJix98rGkGn5m) | 2:52 |
 | 89 | [Cicatrici \(feat\. Tenth Sky\)](https://open.spotify.com/track/3FZlx13Vs5tZm3u0PH5i7v) | [Zeta](https://open.spotify.com/artist/6gRamOYCDmzgHxeWxO1RRP), [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Lacrime](https://open.spotify.com/album/5drTfTuBNR87cXnyJdn7En) | 2:28 |
 | 90 | [Dimmi se sbaglio](https://open.spotify.com/track/0fCl0Y3Ra4uwYXEBwYwcKT) | [Bada1](https://open.spotify.com/artist/5zMbRhhGvqWvCqCrs05YSb), [Matris](https://open.spotify.com/artist/5x5Qyt62T7QZNltmoEyshL) | [Dimmi se sbaglio](https://open.spotify.com/album/2NBmYkv65CNjS3n3ZCIirh) | 2:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 | 99 | [Febbre a Febbraio \(feat\. Lil Kvneki\)](https://open.spotify.com/track/6QDNyom34TEQE6AzfEVE8Y) | [Gianni Bismark](https://open.spotify.com/artist/26PZBCQnswFp61ccTrVJOa), [Lil Kvneki](https://open.spotify.com/artist/5NT6SamVXGrIp1Z1lE2Eyn) | [Febbre a febbraio](https://open.spotify.com/album/7w5fn5wnpXeIc91o3e3WAd) | 3:06 |
 | 100 | [I CAN FLY](https://open.spotify.com/track/2w16qcnjwjfBUvZRpGEC4b) | [Zyrtck](https://open.spotify.com/artist/4kzy5r1zhu4jC0LhQ15nti), [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb) | [MOVIMENTO + THE DAY AFTER](https://open.spotify.com/album/6w8utzyBFKX2ynQyGMeWcG) | 2:19 |
 
-Snapshot ID: `MCwxNTBhNWFmM2Y0ZWQ3NDgyMzQ2OWI2NTBlOWFhMmJjZjNhYjdkZjgz`
+Snapshot ID: `MCw2NmE5Yzc2N2YyOGIxZWViZGQyMmE3NmEzZGVjOGRlMzM2NDkzYjJm`

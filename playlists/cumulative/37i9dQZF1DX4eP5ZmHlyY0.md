@@ -4,7 +4,7 @@
 
 > 日本で活躍するボーイズグループを特集。cover: BALLISTIK BOYZ from EXILE TRIBE
 
-146 songs - 8 hr 32 min
+147 songs - 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Eyes On Me](https://open.spotify.com/track/79O9h4Q9w1X6w3tHTJSu8y) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Eyes On Me](https://open.spotify.com/album/2raPbaN1bh2UWTGqgz8Gvl) | 2:51 | 2023-11-23 | 2024-01-17 |
 | [Fake It](https://open.spotify.com/track/2FrtsVTFPEvH77oKfFHgfV) | [w\-inds.](https://open.spotify.com/artist/2UEnhov0KDPYU2dmGUjfcn) | [Fake It](https://open.spotify.com/album/3Xmw8PnZTNZ4o5th7upzAj) | 3:10 | 2024-02-13 |  |
 | [FIRE feat\. SPRITE](https://open.spotify.com/track/2JS7GVyUaxLFFetF3YWfc8) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb), [SPRITE](https://open.spotify.com/artist/0sfCNfNJnqVgcPHcO9htcy) | [FIRE feat\. SPRITE](https://open.spotify.com/album/0zysbDsgljdkU8cW7RYoen) | 3:51 | 2023-11-23 | 2024-02-14 |
-| [FIREWORK](https://open.spotify.com/track/5FWZ9epRluqJTzOnsayeo2) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [First Howling : WE](https://open.spotify.com/album/0ouqxqCo93ccmKOXhMz3RC) | 3:08 | 2023-11-23 |  |
+| [FIREWORK](https://open.spotify.com/track/5FWZ9epRluqJTzOnsayeo2) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [First Howling : WE](https://open.spotify.com/album/0ouqxqCo93ccmKOXhMz3RC) | 3:08 | 2023-11-23 | 2024-02-22 |
 | [FLY](https://open.spotify.com/track/6lOhNJIzPKHfR0wmmxO8Vr) | [MADKID](https://open.spotify.com/artist/1tofuk7dTZwb6ZKsr7XRKB) | [FLY](https://open.spotify.com/album/5NmGBpMFTTM63A5O5g1IM2) | 3:31 | 2024-01-04 |  |
 | [Forever Blue](https://open.spotify.com/track/5Epzmc0vxSjClQORKZnl34) | [crhug](https://open.spotify.com/artist/2YquAy5FoS3m5T1nvCpi3I) | [Forever Blue](https://open.spotify.com/album/002n8cm17f4VQz5Y2LWYVy) | 2:59 | 2024-02-20 |  |
 | [Freaking Happy](https://open.spotify.com/track/1HDW9vo3mnVbkQ02FIGgbC) | [ONE N' ONLY](https://open.spotify.com/artist/6Pob63g9NOdT7moTAUZ4GB) | [Freaking Happy](https://open.spotify.com/album/19mziDAG9iXSpHdJrKgKYb) | 3:11 | 2023-11-23 | 2024-02-07 |
@@ -56,7 +56,8 @@
 | [HIDEOUT](https://open.spotify.com/track/4baByqPPKuXqZqi4bim7Po) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [HIDEOUT](https://open.spotify.com/album/1nVuARtkfIuX55ZiVrlkJY) | 2:59 | 2023-11-23 | 2024-02-12 |
 | [I don't care](https://open.spotify.com/track/6X0i1lqSjA3GYqaBGhZHNx) | [WATWING](https://open.spotify.com/artist/7hkQYkktyo9LEAE5aIwi6e) | [I don't care](https://open.spotify.com/album/3N8AiWK07df0p8gwIuCy9Z) | 2:53 | 2023-12-14 | 2023-12-20 |
 | [I Got It](https://open.spotify.com/track/5yHvX9AFnONMXwBhDGwJ5R) | [IMP.](https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1) | [I Got It](https://open.spotify.com/album/1OwQ3QCxyB8QwkSPzfo4sI) | 3:20 | 2023-12-07 |  |
-| [In My Head](https://open.spotify.com/track/14fYNWLL13lnpV8pdJmREV) | [BALLISTIK BOYZ from EXILE TRIBE](https://open.spotify.com/artist/1dZ8IZ8BXP30yhG50TH06o) | [In My Head](https://open.spotify.com/album/1xJb2W3tod9ecek8mAl2Bf) | 3:20 | 2024-02-20 |  |
+| [In My Head](https://open.spotify.com/track/14fYNWLL13lnpV8pdJmREV) | [BALLISTIK BOYZ from EXILE TRIBE](https://open.spotify.com/artist/1dZ8IZ8BXP30yhG50TH06o) | [In My Head](https://open.spotify.com/album/1xJb2W3tod9ecek8mAl2Bf) | 3:20 | 2024-02-20 | 2024-02-22 |
+| [In My Head](https://open.spotify.com/track/1ca1fujaysoprH04Pcjnfe) | [BALLISTIK BOYZ from EXILE TRIBE](https://open.spotify.com/artist/1dZ8IZ8BXP30yhG50TH06o) | [Back & Forth](https://open.spotify.com/album/6chK5tRYokqZR6fTN8SDNP) | 3:20 | 2024-02-20 |  |
 | [INFERNO](https://open.spotify.com/track/212BPxhwlB49xBb19xrEoh) | [RIKU](https://open.spotify.com/artist/5nnTRY8f0Gi8rIC9bgrnZG), [MA55IVE THE RAMPAGE](https://open.spotify.com/artist/4WrhFhuiPWwEkbsRzAjMBk) | [INFERNO](https://open.spotify.com/album/4NqvSNYyzoeddxkQgSdTvX) | 3:41 | 2024-01-31 | 2024-02-07 |
 | [It’s all good](https://open.spotify.com/track/5V6ZKHUuyo9TgpmzMgxV9R) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS) | [It’s all good](https://open.spotify.com/album/2oD3JIzBpBCdWmEGVfg2F0) | 4:10 | 2023-11-23 | 2023-12-22 |
 | [JUST DANCE!](https://open.spotify.com/track/337dZo6Fo3hIq0iMANoZmS) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [JUST DANCE!](https://open.spotify.com/album/5pNQWKfMgZXtN6rCXoFgLT) | 2:57 | 2023-11-23 | 2023-12-27 |
@@ -72,7 +73,7 @@
 | [love you](https://open.spotify.com/track/1aDjxcXgU3B85P04KBttwL) | [North Sound Signal](https://open.spotify.com/artist/3jNomgceQXS8NawlT2aDcn) | [love you](https://open.spotify.com/album/1Lz2m18o2oaR5gIzU8Fe2H) | 3:10 | 2024-01-31 | 2024-02-07 |
 | [MAGIC](https://open.spotify.com/track/1R96JucxVDliRrcT3Crmf2) | [UniteUp!](https://open.spotify.com/artist/21CL9McUjHLfV1g3rJKeBo), [LEGIT](https://open.spotify.com/artist/4cm7BWLKtoWsEWfLgUwdme) | [MAGIC](https://open.spotify.com/album/73jVPC8AAifhcWItCxgk2X) | 2:53 | 2024-02-13 | 2024-02-21 |
 | [Mainstream](https://open.spotify.com/track/6twDMJoG8tzwL21LQ3EEtA) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Mainstream](https://open.spotify.com/album/7ixevog8Pu3jbd3VeZSK7j) | 3:27 | 2023-11-23 |  |
-| [Melody](https://open.spotify.com/track/495GBEvMX06OrwhCCZ7H0y) | [8LOOM](https://open.spotify.com/artist/0EmfXhT2Bhc53cyK3hrZM5) | [Melody](https://open.spotify.com/album/7C22dOSEgyvDKkVKxiSkGV) | 3:14 | 2024-01-19 | 2024-02-21 |
+| [Melody](https://open.spotify.com/track/495GBEvMX06OrwhCCZ7H0y) | [8LOOM](https://open.spotify.com/artist/0EmfXhT2Bhc53cyK3hrZM5) | [Melody](https://open.spotify.com/album/7C22dOSEgyvDKkVKxiSkGV) | 3:14 | 2024-01-19 |  |
 | [Miracle](https://open.spotify.com/track/5XduJ06XvyvI6iwiAvHaqu) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [Miracle](https://open.spotify.com/album/2pYKmfCQONAyN8CV0EXyuI) | 3:20 | 2023-12-19 |  |
 | [MORNING SUN](https://open.spotify.com/track/4BTc4b3BoVPoHKys65v8kQ) | [EXILE B HAPPY](https://open.spotify.com/artist/5Vjo1ziwxQtYiup9JGlN9A) | [MORNING SUN](https://open.spotify.com/album/7fii6VfmYoLZAPLvvArvgh) | 3:40 | 2024-01-09 | 2024-01-24 |
 | [Moving Pieces](https://open.spotify.com/track/7z5ntslVYEBFtunuEYA9e5) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [Moving Pieces](https://open.spotify.com/album/4IeJCO4rFxksf0Wcxc0bmR) | 2:51 | 2023-11-23 | 2023-11-29 |

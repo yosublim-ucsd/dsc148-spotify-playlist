@@ -1,12 +1,12 @@
 {
   "description": "Le canzoni italiane pi\u00f9 romantiche di sempre \u2764\ufe0f",
-  "num_followers": 176066,
+  "num_followers": 176138,
   "original_name": "San Valentino 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNWNlYjNlMjk4OGRmMWNhNzFhZWE1YjJlZDUwN2UzMmJmYzUwOWUx",
+  "snapshot_id": "MCxkZTEyZDkzMGNlZDI0OWI1NjdlZTA4ZDE5YTNjZjhiYzc5YTdjZjgy",
   "tracks": [
     {
       "added_at": "2024-02-13 14:01:38",
@@ -95,22 +95,6 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
-        "name": "Colpa Delle Favole",
-        "url": "https://open.spotify.com/album/7ynNnkdYfFsjMxvfecxAWy"
-      },
-      "artists": [
-        {
-          "name": "Ultimo",
-          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
-        }
-      ],
-      "duration_ms": 232666,
-      "name": "Piccola Stella",
-      "url": "https://open.spotify.com/track/6sLBJkMyZIkGevtpYgeotT"
-    },
-    {
-      "added_at": "2024-02-13 14:01:38",
-      "album": {
         "name": "Brividi",
         "url": "https://open.spotify.com/album/06ZMpecsvvoHGWJHlc2St7"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 199146,
       "name": "Brividi",
       "url": "https://open.spotify.com/track/1ZMGp9MTXbtAPvcKa0U3zS"
+    },
+    {
+      "added_at": "2024-02-13 14:01:38",
+      "album": {
+        "name": "Colpa Delle Favole",
+        "url": "https://open.spotify.com/album/7ynNnkdYfFsjMxvfecxAWy"
+      },
+      "artists": [
+        {
+          "name": "Ultimo",
+          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
+        }
+      ],
+      "duration_ms": 232666,
+      "name": "Piccola Stella",
+      "url": "https://open.spotify.com/track/6sLBJkMyZIkGevtpYgeotT"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -199,18 +199,18 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
-        "name": "Gemelli",
-        "url": "https://open.spotify.com/album/3LXvt5r3boBy4sQQpxmsi9"
+        "name": "Peter Pan",
+        "url": "https://open.spotify.com/album/7E0zdJM8KYDRa5lQeAfEYi"
       },
       "artists": [
         {
-          "name": "Ernia",
-          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
+          "name": "Ultimo",
+          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
         }
       ],
-      "duration_ms": 172200,
-      "name": "Superclassico",
-      "url": "https://open.spotify.com/track/6Ahg1hncxUdK0ICqU03BCu"
+      "duration_ms": 234250,
+      "name": "Ti dedico il silenzio",
+      "url": "https://open.spotify.com/track/6GLmGfALwjzCaOiHwgfU7g"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -247,18 +247,18 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
-        "name": "Peter Pan",
-        "url": "https://open.spotify.com/album/7E0zdJM8KYDRa5lQeAfEYi"
+        "name": "Gemelli",
+        "url": "https://open.spotify.com/album/3LXvt5r3boBy4sQQpxmsi9"
       },
       "artists": [
         {
-          "name": "Ultimo",
-          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
+          "name": "Ernia",
+          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
         }
       ],
-      "duration_ms": 234250,
-      "name": "Ti dedico il silenzio",
-      "url": "https://open.spotify.com/track/6GLmGfALwjzCaOiHwgfU7g"
+      "duration_ms": 172200,
+      "name": "Superclassico",
+      "url": "https://open.spotify.com/track/6Ahg1hncxUdK0ICqU03BCu"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -455,18 +455,22 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
-        "name": "Buoni O Cattivi (Remastered 2017)",
-        "url": "https://open.spotify.com/album/6qD7I2PTgtLMutPuanRjwL"
+        "name": "This Is Elodie",
+        "url": "https://open.spotify.com/album/3EREGNLTHWi1SZCoDKT4Pd"
       },
       "artists": [
         {
-          "name": "Vasco Rossi",
-          "url": "https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65"
+          "name": "Elodie",
+          "url": "https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY"
+        },
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
         }
       ],
-      "duration_ms": 209093,
-      "name": "E...",
-      "url": "https://open.spotify.com/track/2hfBefasNaEEgnxD4Pdsar"
+      "duration_ms": 177213,
+      "name": "Margarita (con Marracash)",
+      "url": "https://open.spotify.com/track/6KfwIpX0Xo0lelmuUOnyZV"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -487,22 +491,18 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
-        "name": "This Is Elodie",
-        "url": "https://open.spotify.com/album/3EREGNLTHWi1SZCoDKT4Pd"
+        "name": "Buoni O Cattivi (Remastered 2017)",
+        "url": "https://open.spotify.com/album/6qD7I2PTgtLMutPuanRjwL"
       },
       "artists": [
         {
-          "name": "Elodie",
-          "url": "https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY"
-        },
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+          "name": "Vasco Rossi",
+          "url": "https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65"
         }
       ],
-      "duration_ms": 177213,
-      "name": "Margarita (con Marracash)",
-      "url": "https://open.spotify.com/track/6KfwIpX0Xo0lelmuUOnyZV"
+      "duration_ms": 209093,
+      "name": "E...",
+      "url": "https://open.spotify.com/track/2hfBefasNaEEgnxD4Pdsar"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -555,18 +555,18 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
-        "name": "Non Avere Paura",
-        "url": "https://open.spotify.com/album/6qoQjya7Pb4NTuNserGcKP"
+        "name": "Odissea",
+        "url": "https://open.spotify.com/album/53byQXY8VWsJ8aiVjK6pbI"
       },
       "artists": [
         {
-          "name": "Tommaso Paradiso",
-          "url": "https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc"
+          "name": "Mango",
+          "url": "https://open.spotify.com/artist/5iBphIrmXEjfrqiuz5y6pY"
         }
       ],
-      "duration_ms": 247478,
-      "name": "Non Avere Paura",
-      "url": "https://open.spotify.com/track/1qMx707PFdFXdwLvcUTNz3"
+      "duration_ms": 270003,
+      "name": "Oro",
+      "url": "https://open.spotify.com/track/5NzWbTJOakrvq3g83UoD25"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -591,34 +591,18 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
-        "name": "Odissea",
-        "url": "https://open.spotify.com/album/53byQXY8VWsJ8aiVjK6pbI"
+        "name": "Non Avere Paura",
+        "url": "https://open.spotify.com/album/6qoQjya7Pb4NTuNserGcKP"
       },
       "artists": [
         {
-          "name": "Mango",
-          "url": "https://open.spotify.com/artist/5iBphIrmXEjfrqiuz5y6pY"
+          "name": "Tommaso Paradiso",
+          "url": "https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc"
         }
       ],
-      "duration_ms": 270003,
-      "name": "Oro",
-      "url": "https://open.spotify.com/track/5NzWbTJOakrvq3g83UoD25"
-    },
-    {
-      "added_at": "2024-02-13 14:01:38",
-      "album": {
-        "name": "Mainstream (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/11dh7pT3FRrGkI3TXl0e4k"
-      },
-      "artists": [
-        {
-          "name": "Calcutta ",
-          "url": "https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r"
-        }
-      ],
-      "duration_ms": 228480,
-      "name": "Del verde",
-      "url": "https://open.spotify.com/track/5jT6gl92pmDlKy9689oZSX"
+      "duration_ms": 247478,
+      "name": "Non Avere Paura",
+      "url": "https://open.spotify.com/track/1qMx707PFdFXdwLvcUTNz3"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -639,18 +623,18 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
-        "name": "Good Vibes",
-        "url": "https://open.spotify.com/album/77QYi88mcI4qXClwTAwxjg"
+        "name": "Mainstream (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/11dh7pT3FRrGkI3TXl0e4k"
       },
       "artists": [
         {
-          "name": "Benji & Fede",
-          "url": "https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm"
+          "name": "Calcutta ",
+          "url": "https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r"
         }
       ],
-      "duration_ms": 190409,
-      "name": "Dove e quando",
-      "url": "https://open.spotify.com/track/5XM7tx8ovQ9UrYqUowW1AK"
+      "duration_ms": 228480,
+      "name": "Del verde",
+      "url": "https://open.spotify.com/track/5jT6gl92pmDlKy9689oZSX"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -671,18 +655,18 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
-        "name": "Possibili Scenari",
-        "url": "https://open.spotify.com/album/1tcX4ysSZEeMMshVVbkkDa"
+        "name": "Good Vibes",
+        "url": "https://open.spotify.com/album/77QYi88mcI4qXClwTAwxjg"
       },
       "artists": [
         {
-          "name": "Cesare Cremonini",
-          "url": "https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T"
+          "name": "Benji & Fede",
+          "url": "https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm"
         }
       ],
-      "duration_ms": 293960,
-      "name": "Poetica",
-      "url": "https://open.spotify.com/track/07qo9gnLM488CUr0EtgIA1"
+      "duration_ms": 190409,
+      "name": "Dove e quando",
+      "url": "https://open.spotify.com/track/5XM7tx8ovQ9UrYqUowW1AK"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -699,6 +683,22 @@
       "duration_ms": 209179,
       "name": "Fuoco e benzina",
       "url": "https://open.spotify.com/track/4Fs1sEg9Mwn6vykFD89xvc"
+    },
+    {
+      "added_at": "2024-02-13 14:01:38",
+      "album": {
+        "name": "Possibili Scenari",
+        "url": "https://open.spotify.com/album/1tcX4ysSZEeMMshVVbkkDa"
+      },
+      "artists": [
+        {
+          "name": "Cesare Cremonini",
+          "url": "https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T"
+        }
+      ],
+      "duration_ms": 293960,
+      "name": "Poetica",
+      "url": "https://open.spotify.com/track/07qo9gnLM488CUr0EtgIA1"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -731,22 +731,6 @@
       "duration_ms": 243333,
       "name": "La Cura",
       "url": "https://open.spotify.com/track/3sc9YIcDSPCXsQ0zzX3JLW"
-    },
-    {
-      "added_at": "2024-02-13 14:01:38",
-      "album": {
-        "name": "Nessuno \u00e8 solo",
-        "url": "https://open.spotify.com/album/56gXoHRll4A4KZBTZsSMNi"
-      },
-      "artists": [
-        {
-          "name": "Tiziano Ferro",
-          "url": "https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m"
-        }
-      ],
-      "duration_ms": 272946,
-      "name": "Ti scatter\u00f2 una foto",
-      "url": "https://open.spotify.com/track/2IDNV0ttledZreT0JtzFMp"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -823,6 +807,22 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
+        "name": "Nessuno \u00e8 solo",
+        "url": "https://open.spotify.com/album/56gXoHRll4A4KZBTZsSMNi"
+      },
+      "artists": [
+        {
+          "name": "Tiziano Ferro",
+          "url": "https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m"
+        }
+      ],
+      "duration_ms": 272946,
+      "name": "Ti scatter\u00f2 una foto",
+      "url": "https://open.spotify.com/track/2IDNV0ttledZreT0JtzFMp"
+    },
+    {
+      "added_at": "2024-02-13 14:01:38",
+      "album": {
         "name": "Venere e Marte (feat. Marco Mengoni, Frah Quintale)",
         "url": "https://open.spotify.com/album/3qc7zx8OrCXDqzs7qa8l7P"
       },
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
-        "name": "This Is Elodie",
-        "url": "https://open.spotify.com/album/3EREGNLTHWi1SZCoDKT4Pd"
-      },
-      "artists": [
-        {
-          "name": "Elodie",
-          "url": "https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY"
-        }
-      ],
-      "duration_ms": 205253,
-      "name": "Niente Canzoni D'Amore",
-      "url": "https://open.spotify.com/track/3Pqm4BPjluxMX3afwDlKy5"
-    },
-    {
-      "added_at": "2024-02-13 14:01:38",
-      "album": {
         "name": "La Donna Cannone",
         "url": "https://open.spotify.com/album/7COQBoeP7bBHykCpFbdpR2"
       },
@@ -927,18 +911,34 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
-        "name": "Mentre Tutto Scorre (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4wPMtE1vSjjAPbNN4mUX86"
+        "name": "This Is Elodie",
+        "url": "https://open.spotify.com/album/3EREGNLTHWi1SZCoDKT4Pd"
       },
       "artists": [
         {
-          "name": "Negramaro",
-          "url": "https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7"
+          "name": "Elodie",
+          "url": "https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY"
         }
       ],
-      "duration_ms": 218000,
-      "name": "Solo 3 min",
-      "url": "https://open.spotify.com/track/0X1q9dp4z8MYFYaUDm2unn"
+      "duration_ms": 205253,
+      "name": "Niente Canzoni D'Amore",
+      "url": "https://open.spotify.com/track/3Pqm4BPjluxMX3afwDlKy5"
+    },
+    {
+      "added_at": "2024-02-13 14:01:38",
+      "album": {
+        "name": "Diari Aperti",
+        "url": "https://open.spotify.com/album/4MmmI8sqP83TZzmg0AyTae"
+      },
+      "artists": [
+        {
+          "name": "Elisa",
+          "url": "https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23"
+        }
+      ],
+      "duration_ms": 239693,
+      "name": "Anche Fragile",
+      "url": "https://open.spotify.com/track/05G23JkXHRv3NJ9hENaafi"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -959,18 +959,18 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
-        "name": "Diari Aperti",
-        "url": "https://open.spotify.com/album/4MmmI8sqP83TZzmg0AyTae"
+        "name": "Mentre Tutto Scorre (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4wPMtE1vSjjAPbNN4mUX86"
       },
       "artists": [
         {
-          "name": "Elisa",
-          "url": "https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23"
+          "name": "Negramaro",
+          "url": "https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7"
         }
       ],
-      "duration_ms": 239693,
-      "name": "Anche Fragile",
-      "url": "https://open.spotify.com/track/05G23JkXHRv3NJ9hENaafi"
+      "duration_ms": 218000,
+      "name": "Solo 3 min",
+      "url": "https://open.spotify.com/track/0X1q9dp4z8MYFYaUDm2unn"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
-        "name": "Rimmel",
-        "url": "https://open.spotify.com/album/5c1TMPBpOc4qJebACcOm7K"
+        "name": "Diari Aperti",
+        "url": "https://open.spotify.com/album/4MmmI8sqP83TZzmg0AyTae"
       },
       "artists": [
         {
-          "name": "Francesco De Gregori",
-          "url": "https://open.spotify.com/artist/16FJYC4FqKhZXiXIzMI4ul"
+          "name": "Elisa",
+          "url": "https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23"
         }
       ],
-      "duration_ms": 220640,
-      "name": "Rimmel",
-      "url": "https://open.spotify.com/track/515XcapFOMtOOiGU31UqNp"
+      "duration_ms": 202533,
+      "name": "Se Piovesse Il Tuo Nome",
+      "url": "https://open.spotify.com/track/0FNRyMufs8Ox03TtaoyCjH"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -1055,34 +1055,18 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
-        "name": "Iperbole",
-        "url": "https://open.spotify.com/album/11ppqhDtSVmjuGCJygZdIG"
+        "name": "Rimmel",
+        "url": "https://open.spotify.com/album/5c1TMPBpOc4qJebACcOm7K"
       },
       "artists": [
         {
-          "name": "Raf",
-          "url": "https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3"
+          "name": "Francesco De Gregori",
+          "url": "https://open.spotify.com/artist/16FJYC4FqKhZXiXIzMI4ul"
         }
       ],
-      "duration_ms": 296040,
-      "name": "Infinito",
-      "url": "https://open.spotify.com/track/7KyPP4IenVDrKeewWlAp5L"
-    },
-    {
-      "added_at": "2024-02-13 14:01:38",
-      "album": {
-        "name": "Diari Aperti",
-        "url": "https://open.spotify.com/album/4MmmI8sqP83TZzmg0AyTae"
-      },
-      "artists": [
-        {
-          "name": "Elisa",
-          "url": "https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23"
-        }
-      ],
-      "duration_ms": 202533,
-      "name": "Se Piovesse Il Tuo Nome",
-      "url": "https://open.spotify.com/track/0FNRyMufs8Ox03TtaoyCjH"
+      "duration_ms": 220640,
+      "name": "Rimmel",
+      "url": "https://open.spotify.com/track/515XcapFOMtOOiGU31UqNp"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -1119,6 +1103,22 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
+        "name": "Iperbole",
+        "url": "https://open.spotify.com/album/11ppqhDtSVmjuGCJygZdIG"
+      },
+      "artists": [
+        {
+          "name": "Raf",
+          "url": "https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3"
+        }
+      ],
+      "duration_ms": 296040,
+      "name": "Infinito",
+      "url": "https://open.spotify.com/track/7KyPP4IenVDrKeewWlAp5L"
+    },
+    {
+      "added_at": "2024-02-13 14:01:38",
+      "album": {
         "name": "Concedimi",
         "url": "https://open.spotify.com/album/0rrAWav2oFWiTk6S19YeM7"
       },
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
-        "name": "VASCONONSTOP",
-        "url": "https://open.spotify.com/album/1UegELBIi5854L79kswXuE"
+        "name": "OK",
+        "url": "https://open.spotify.com/album/7eVkAghlrN31cqwiVvuCT0"
       },
       "artists": [
         {
-          "name": "Vasco Rossi",
-          "url": "https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65"
+          "name": "Gazzelle",
+          "url": "https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN"
         }
       ],
-      "duration_ms": 253733,
-      "name": "Come Nelle Favole",
-      "url": "https://open.spotify.com/track/71LtXfhnWA7kR8Ntk1VE8R"
+      "duration_ms": 210361,
+      "name": "Scusa",
+      "url": "https://open.spotify.com/track/2rBYzHaHOypx0Ic8dt0PfX"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
+        "name": "VASCONONSTOP",
+        "url": "https://open.spotify.com/album/1UegELBIi5854L79kswXuE"
+      },
+      "artists": [
+        {
+          "name": "Vasco Rossi",
+          "url": "https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65"
+        }
+      ],
+      "duration_ms": 253733,
+      "name": "Come Nelle Favole",
+      "url": "https://open.spotify.com/track/71LtXfhnWA7kR8Ntk1VE8R"
+    },
+    {
+      "added_at": "2024-02-13 14:01:38",
+      "album": {
         "name": "Heart (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3IzPzAZrnxl8nBtKh3IxIx"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 267666,
       "name": "Ti Vorrei Sollevare",
       "url": "https://open.spotify.com/track/4wygbO6TTzMIy745rxcmdT"
-    },
-    {
-      "added_at": "2024-02-13 14:01:38",
-      "album": {
-        "name": "OK",
-        "url": "https://open.spotify.com/album/7eVkAghlrN31cqwiVvuCT0"
-      },
-      "artists": [
-        {
-          "name": "Gazzelle",
-          "url": "https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN"
-        }
-      ],
-      "duration_ms": 210361,
-      "name": "Scusa",
-      "url": "https://open.spotify.com/track/2rBYzHaHOypx0Ic8dt0PfX"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
-        "name": "VASCONONSTOP",
-        "url": "https://open.spotify.com/album/1UegELBIi5854L79kswXuE"
-      },
-      "artists": [
-        {
-          "name": "Vasco Rossi",
-          "url": "https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65"
-        }
-      ],
-      "duration_ms": 282720,
-      "name": "Senza Parole",
-      "url": "https://open.spotify.com/track/1myKwR6JbIvo1iKY8nOzbc"
-    },
-    {
-      "added_at": "2024-02-13 14:01:38",
-      "album": {
         "name": "Martini Mia...",
         "url": "https://open.spotify.com/album/4K0sJHHnxLeyoUlfSjMgpB"
       },
@@ -1335,22 +1319,18 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
-        "name": "Canzoni",
-        "url": "https://open.spotify.com/album/5xH8VzKB4lKCBz2ADCLZRs"
+        "name": "VASCONONSTOP",
+        "url": "https://open.spotify.com/album/1UegELBIi5854L79kswXuE"
       },
       "artists": [
         {
-          "name": "Mietta",
-          "url": "https://open.spotify.com/artist/6Mv3vVeRt0ceyptR8xtbEP"
-        },
-        {
-          "name": "Amedeo Minghi",
-          "url": "https://open.spotify.com/artist/0b09Wj9kgEK9v3BBzuz5DZ"
+          "name": "Vasco Rossi",
+          "url": "https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65"
         }
       ],
-      "duration_ms": 241440,
-      "name": "Vattene amore (feat. Amedeo Minghi)",
-      "url": "https://open.spotify.com/track/3roodBW6Fdvl8R2cooFU7L"
+      "duration_ms": 282720,
+      "name": "Senza Parole",
+      "url": "https://open.spotify.com/track/1myKwR6JbIvo1iKY8nOzbc"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -1371,50 +1351,22 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
-        "name": "Cinquemilaquarantatre (2001 Remastered Version)",
-        "url": "https://open.spotify.com/album/1c7fpydgzXm9gSXHZ228et"
+        "name": "Canzoni",
+        "url": "https://open.spotify.com/album/5xH8VzKB4lKCBz2ADCLZRs"
       },
       "artists": [
         {
-          "name": "Mina",
-          "url": "https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy"
-        }
-      ],
-      "duration_ms": 238386,
-      "name": "Parole parole - 2001 Remastered Version",
-      "url": "https://open.spotify.com/track/7LZDbABGg2NfnGsyIs2SeB"
-    },
-    {
-      "added_at": "2024-02-13 14:01:38",
-      "album": {
-        "name": "Sopravvissuti e sopravviventi (2009 Remaster)",
-        "url": "https://open.spotify.com/album/2Fyjpn0vYwNPS7PIsOPLrt"
-      },
-      "artists": [
+          "name": "Mietta",
+          "url": "https://open.spotify.com/artist/6Mv3vVeRt0ceyptR8xtbEP"
+        },
         {
-          "name": "Ligabue",
-          "url": "https://open.spotify.com/artist/7H8ZC8uHJMPZGLMApRRNIz"
+          "name": "Amedeo Minghi",
+          "url": "https://open.spotify.com/artist/0b09Wj9kgEK9v3BBzuz5DZ"
         }
       ],
-      "duration_ms": 286146,
-      "name": "Ho messo via",
-      "url": "https://open.spotify.com/track/4xyp77VPg90ezi7N1p99a5"
-    },
-    {
-      "added_at": "2024-02-13 14:01:38",
-      "album": {
-        "name": "La Finestra (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0NQDyYJyaZWGAuKo8PngX2"
-      },
-      "artists": [
-        {
-          "name": "Negramaro",
-          "url": "https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7"
-        }
-      ],
-      "duration_ms": 214520,
-      "name": "L'Immenso",
-      "url": "https://open.spotify.com/track/7bof4i0U5eYSJ6yhgtddK9"
+      "duration_ms": 241440,
+      "name": "Vattene amore (feat. Amedeo Minghi)",
+      "url": "https://open.spotify.com/track/3roodBW6Fdvl8R2cooFU7L"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -1435,18 +1387,50 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
-        "name": "L'amore \u00e8",
-        "url": "https://open.spotify.com/album/38KfDURRSexb9tA6Ll5ZT1"
+        "name": "Cinquemilaquarantatre (2001 Remastered Version)",
+        "url": "https://open.spotify.com/album/1c7fpydgzXm9gSXHZ228et"
       },
       "artists": [
         {
-          "name": "Enrico Nigiotti",
-          "url": "https://open.spotify.com/artist/4Umo1uO9VemTgnkjeUhx8c"
+          "name": "Mina",
+          "url": "https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy"
         }
       ],
-      "duration_ms": 224840,
-      "name": "L'amore \u00e8",
-      "url": "https://open.spotify.com/track/0iOHkI1AyDXfDeoXEFaP2e"
+      "duration_ms": 238386,
+      "name": "Parole parole - 2001 Remastered Version",
+      "url": "https://open.spotify.com/track/7LZDbABGg2NfnGsyIs2SeB"
+    },
+    {
+      "added_at": "2024-02-13 14:01:38",
+      "album": {
+        "name": "La Finestra (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0NQDyYJyaZWGAuKo8PngX2"
+      },
+      "artists": [
+        {
+          "name": "Negramaro",
+          "url": "https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7"
+        }
+      ],
+      "duration_ms": 214520,
+      "name": "L'Immenso",
+      "url": "https://open.spotify.com/track/7bof4i0U5eYSJ6yhgtddK9"
+    },
+    {
+      "added_at": "2024-02-13 14:01:38",
+      "album": {
+        "name": "Sopravvissuti e sopravviventi (2009 Remaster)",
+        "url": "https://open.spotify.com/album/2Fyjpn0vYwNPS7PIsOPLrt"
+      },
+      "artists": [
+        {
+          "name": "Ligabue",
+          "url": "https://open.spotify.com/artist/7H8ZC8uHJMPZGLMApRRNIz"
+        }
+      ],
+      "duration_ms": 286146,
+      "name": "Ho messo via",
+      "url": "https://open.spotify.com/track/4xyp77VPg90ezi7N1p99a5"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -1499,22 +1483,18 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
-        "name": "Vietato morire",
-        "url": "https://open.spotify.com/album/7tPKUDspDKomiAvIrTRJQB"
+        "name": "L'amore \u00e8",
+        "url": "https://open.spotify.com/album/38KfDURRSexb9tA6Ll5ZT1"
       },
       "artists": [
         {
-          "name": "Ermal Meta",
-          "url": "https://open.spotify.com/artist/4XWTdNlsP8jqo5BDn5hgmd"
-        },
-        {
-          "name": "Elisa",
-          "url": "https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23"
+          "name": "Enrico Nigiotti",
+          "url": "https://open.spotify.com/artist/4Umo1uO9VemTgnkjeUhx8c"
         }
       ],
-      "duration_ms": 221988,
-      "name": "Piccola anima (feat. Elisa)",
-      "url": "https://open.spotify.com/track/5UPL90ZL0XghWWNw57WVR9"
+      "duration_ms": 224840,
+      "name": "L'amore \u00e8",
+      "url": "https://open.spotify.com/track/0iOHkI1AyDXfDeoXEFaP2e"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -1531,6 +1511,26 @@
       "duration_ms": 300306,
       "name": "Come saprei",
       "url": "https://open.spotify.com/track/1mJQoOICr4UlV6nG3EI4NN"
+    },
+    {
+      "added_at": "2024-02-13 14:01:38",
+      "album": {
+        "name": "Vietato morire",
+        "url": "https://open.spotify.com/album/7tPKUDspDKomiAvIrTRJQB"
+      },
+      "artists": [
+        {
+          "name": "Ermal Meta",
+          "url": "https://open.spotify.com/artist/4XWTdNlsP8jqo5BDn5hgmd"
+        },
+        {
+          "name": "Elisa",
+          "url": "https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23"
+        }
+      ],
+      "duration_ms": 221988,
+      "name": "Piccola anima (feat. Elisa)",
+      "url": "https://open.spotify.com/track/5UPL90ZL0XghWWNw57WVR9"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
-        "name": "Stilelibero",
-        "url": "https://open.spotify.com/album/110QUEiOQGYeEZYPjtOOl5"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 240893,
-      "name": "Fuoco nel fuoco",
-      "url": "https://open.spotify.com/track/5U61t7csH5tQmOEp74AkoM"
-    },
-    {
-      "added_at": "2024-02-13 14:01:38",
-      "album": {
         "name": "Bye Bye",
         "url": "https://open.spotify.com/album/0pRj77dL3BMds24RymNgmv"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 218092,
       "name": "Il mondo prima di te",
       "url": "https://open.spotify.com/track/0qM6TGkkinhKFllbcRfL8u"
+    },
+    {
+      "added_at": "2024-02-13 14:01:38",
+      "album": {
+        "name": "Stilelibero",
+        "url": "https://open.spotify.com/album/110QUEiOQGYeEZYPjtOOl5"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 240893,
+      "name": "Fuoco nel fuoco",
+      "url": "https://open.spotify.com/track/5U61t7csH5tQmOEp74AkoM"
     },
     {
       "added_at": "2024-02-13 14:01:38",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2024-02-13 14:01:38",
       "album": {
+        "name": "Stanza Singola",
+        "url": "https://open.spotify.com/album/5f2LuFGKudyDDp9d93Qvvc"
+      },
+      "artists": [
+        {
+          "name": "Franco126",
+          "url": "https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc"
+        }
+      ],
+      "duration_ms": 219293,
+      "name": "Brioschi",
+      "url": "https://open.spotify.com/track/4b8hQaPTM7FhpOOAkKBj5A"
+    },
+    {
+      "added_at": "2024-02-13 14:01:38",
+      "album": {
         "name": "Dove Gli Occhi Non Arrivano",
         "url": "https://open.spotify.com/album/6qLE8gO2SSYOFv03GaxxHi"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 165333,
       "name": "Blu (feat. Elisa)",
       "url": "https://open.spotify.com/track/0Q4v8N758nx98YxObfqkNC"
-    },
-    {
-      "added_at": "2024-02-13 14:01:38",
-      "album": {
-        "name": "Stanza Singola",
-        "url": "https://open.spotify.com/album/5f2LuFGKudyDDp9d93Qvvc"
-      },
-      "artists": [
-        {
-          "name": "Franco126",
-          "url": "https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc"
-        }
-      ],
-      "duration_ms": 219293,
-      "name": "Brioschi",
-      "url": "https://open.spotify.com/track/4b8hQaPTM7FhpOOAkKBj5A"
     },
     {
       "added_at": "2024-02-13 14:01:38",

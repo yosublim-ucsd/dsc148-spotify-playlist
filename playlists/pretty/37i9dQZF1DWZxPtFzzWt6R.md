@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 
 > A palavra de Jesus embalada pelo ritmo sertanejo\. Foto: Canção & Louvor
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,828 likes - 60 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,860 likes - 60 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,11 +12,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 | 2 | [A Reforma](https://open.spotify.com/track/2SoMuOk34QwKEfn3RsA60R) | [Jessé Aguiar](https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [A Reforma](https://open.spotify.com/album/4KBIEVDd3ir9rPT0R7NpZJ) | 5:20 |
 | 3 | [Agradeço](https://open.spotify.com/track/6XFZxwJ5TNZY4TdAfx1v55) | [AgroPraise](https://open.spotify.com/artist/7mVNWttEDAHygePBeERPSA), [AgroPlay](https://open.spotify.com/artist/0uGWkZRPp1Urk77XBrPBsZ), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Agradeço](https://open.spotify.com/album/5W23bwhWkoCoQ21uyYMel3) | 3:41 |
 | 4 | [Que Vença o Amor](https://open.spotify.com/track/5sF78pP6esVqbBuPErwTbs) | [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR) | [Bachata \(Edição Histórica\)](https://open.spotify.com/album/5b9IHZfxjdXpLPjVW2kb6o) | 4:02 |
-| 5 | [Tô Preparado](https://open.spotify.com/track/1nQ4jgCNZ6Vj6XUCLjK1Q1) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb) | [Tô Preparado](https://open.spotify.com/album/05veWAkEESHkjO3mwiEqB2) | 3:09 |
-| 6 | [O Melhor de Deus](https://open.spotify.com/track/1plQG6oEC5ms13F0q7f3Qi) | [Adriana Aguiar](https://open.spotify.com/artist/7tWTmA4Jd9L4JKLSebzvv6) | [O Melhor de Deus](https://open.spotify.com/album/23PXhFtedksJjfqR2zKDf5) | 2:36 |
-| 7 | [Amor a Primeira Vista](https://open.spotify.com/track/6MQJbYP33tPZTNRS0HGpLD) | [Misaias Oliveira](https://open.spotify.com/artist/0nQgkrgwYvnmvP4UihHaQt) | [Amor a Primeira Vista](https://open.spotify.com/album/4NO7NULKB78wlMBQJJxh9N) | 2:57 |
-| 8 | [Eu Não Tô Preocupado \- Ao Vivo](https://open.spotify.com/track/4HBJMXQr6mX2ZUEAypYq8Z) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb) | [Eu Não Tô Preocupado \(Ao Vivo\)](https://open.spotify.com/album/68n4VyPUNp3TriuskJUUnx) | 2:31 |
-| 9 | [Meu Barquinho \- Ao Vivo](https://open.spotify.com/track/3zE6VnZ7RuUNiftqoi51eg) | [Nani Azevedo](https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF) | [Meu Barquinho](https://open.spotify.com/album/3jpOEOizUzsvAkVNdmnF86) | 3:15 |
+| 5 | [O Melhor de Deus](https://open.spotify.com/track/1plQG6oEC5ms13F0q7f3Qi) | [Adriana Aguiar](https://open.spotify.com/artist/7tWTmA4Jd9L4JKLSebzvv6) | [O Melhor de Deus](https://open.spotify.com/album/23PXhFtedksJjfqR2zKDf5) | 2:36 |
+| 6 | [Amor a Primeira Vista](https://open.spotify.com/track/6MQJbYP33tPZTNRS0HGpLD) | [Misaias Oliveira](https://open.spotify.com/artist/0nQgkrgwYvnmvP4UihHaQt) | [Amor a Primeira Vista](https://open.spotify.com/album/4NO7NULKB78wlMBQJJxh9N) | 2:57 |
+| 7 | [Tô Preparado](https://open.spotify.com/track/1nQ4jgCNZ6Vj6XUCLjK1Q1) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb) | [Tô Preparado](https://open.spotify.com/album/05veWAkEESHkjO3mwiEqB2) | 3:09 |
+| 8 | [Meu Barquinho \- Ao Vivo](https://open.spotify.com/track/3zE6VnZ7RuUNiftqoi51eg) | [Nani Azevedo](https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF) | [Meu Barquinho](https://open.spotify.com/album/3jpOEOizUzsvAkVNdmnF86) | 3:15 |
+| 9 | [Eu Não Tô Preocupado \- Ao Vivo](https://open.spotify.com/track/4HBJMXQr6mX2ZUEAypYq8Z) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb) | [Eu Não Tô Preocupado \(Ao Vivo\)](https://open.spotify.com/album/68n4VyPUNp3TriuskJUUnx) | 2:31 |
 | 10 | [Quem Era Eu](https://open.spotify.com/track/3YSTY0yjV7ShECDHRZAF6G) | [Lucas Roque e Gabriel](https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O) | [Quem Era Eu](https://open.spotify.com/album/7JBQKYned5Tt40QkhLoDf6) | 3:06 |
 | 11 | [Confia no Processo](https://open.spotify.com/track/3ZJbvLFRJKqBxLk1zHstuv) | [João Marcos & Danilo](https://open.spotify.com/artist/27HdKF8P7IOhGzwgVi2w4F) | [Confia no Processo](https://open.spotify.com/album/6suujei9SvAs3eKoGfoLtp) | 3:03 |
 | 12 | [Estações](https://open.spotify.com/track/2RIq8jJy01rwLYXTGuVILo) | [Jessé Aguiar](https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC), [Misaias Oliveira](https://open.spotify.com/artist/0nQgkrgwYvnmvP4UihHaQt) | [Estações](https://open.spotify.com/album/7ax1cHCKMLx4fbCpKHrNa2) | 2:47 |
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 | 23 | [Eu Quero Ir pro Céu](https://open.spotify.com/track/5kfEfvMet4tHzqYtrDY9He) | [Marcos e Matteus](https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4) | [Eu Quero Ir pro Céu](https://open.spotify.com/album/4AHy5MgRbegK1jelN5TFwQ) | 4:33 |
 | 24 | [Foi Deus](https://open.spotify.com/track/6meRPiVc7RBKznQxMqUxE2) | [Lucas Roque e Gabriel](https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O) | [Foi Deus](https://open.spotify.com/album/5840Tg0AbhEkFn1srM1kd5) | 3:35 |
 | 25 | [O Pródigo Vai Voltar](https://open.spotify.com/track/3YWZgLMXtL2MZYFifoU0u2) | [Daniel & Samuel](https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU) | [Triunfo de Glória](https://open.spotify.com/album/1EhGaC2UWiusb4a0RnQ0AH) | 5:36 |
-| 26 | [Deus Proverá](https://open.spotify.com/track/217cgpXoXtpJTPa2YgfLAX) | [Stefhany](https://open.spotify.com/artist/1YNJikhBGe3LNnlunXwpj9) | [Deus Proverá](https://open.spotify.com/album/01dSM55NXgqYhG6SP9rXxN) | 4:33 |
-| 27 | [Ovelha Rebelde](https://open.spotify.com/track/7piiMIaFGghRoZOmRagG9W) | [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR) | [O Meu Clamor, Vol\. 2](https://open.spotify.com/album/4iHzsyoNQH9rNDUlitUa7e) | 3:14 |
+| 26 | [Ovelha Rebelde](https://open.spotify.com/track/7piiMIaFGghRoZOmRagG9W) | [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR) | [O Meu Clamor, Vol\. 2](https://open.spotify.com/album/4iHzsyoNQH9rNDUlitUa7e) | 3:14 |
+| 27 | [Deus Proverá](https://open.spotify.com/track/217cgpXoXtpJTPa2YgfLAX) | [Stefhany](https://open.spotify.com/artist/1YNJikhBGe3LNnlunXwpj9) | [Deus Proverá](https://open.spotify.com/album/01dSM55NXgqYhG6SP9rXxN) | 4:33 |
 | 28 | [Joelho no Chão e Boca no Pó \- Ao Vivo](https://open.spotify.com/track/6OeUDN3izttOU1LvvJ81DX) | [Ednan Rufino](https://open.spotify.com/artist/6bPFEqEJbkXhyDL5ycfR0a) | [Joelho no Chão e Boca no Pó \(Ao Vivo\)](https://open.spotify.com/album/1BwmmrxuyF1PP5qybeklH7) | 6:11 |
 | 29 | [A Terra e o Lavrador](https://open.spotify.com/track/4qSeN5WmrJhzvkDeCkE3b4) | [Carina Garay](https://open.spotify.com/artist/78zO2D4XK929yoNIQUszAz) | [A Terra e o Lavrador](https://open.spotify.com/album/0FSciLKBlPlkID0m0fioHb) | 3:20 |
 | 30 | [O Crente e a Palmeira](https://open.spotify.com/track/72X7Rf5j7tQijxriFQedRJ) | [Lucas Roque e Gabriel](https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O) | [Viola e Adoração](https://open.spotify.com/album/4NMlbn7ybVM2VJMyCjj76l) | 2:38 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 | 59 | [Caminhão 11 13 \- Ao Vivo](https://open.spotify.com/track/3NubUCC2PTleNfZs2h9YDL) | [Lázaro e Eduardo](https://open.spotify.com/artist/6Hsz3V67jWpX7tqCNH0NQF) | [Caminhão 11 13 \(Ao Vivo\)](https://open.spotify.com/album/3gFgVmyBu9n3E0ulLTFHO7) | 3:00 |
 | 60 | [Além da Medicina](https://open.spotify.com/track/3M5XPQrRi1IDPnR7aEPtUw) | [Marcos e Matteus](https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4) | [Além da Medicina](https://open.spotify.com/album/4CU6JZnVCUPvq8iYHCNjED) | 4:46 |
 
-Snapshot ID: `MCwyNTEyMjU1YTQ0Y2MzMGU4NGNmNTc1NTE5MzIzOGFiOWI1MDE1MTIy`
+Snapshot ID: `MCwyNTFkNzk0YmIxOTVjOGQwNjdiZmIyODRiOWRlMmViMjZmNmZlYWJh`

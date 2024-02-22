@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0P1EPhWUeqB.md) - [plain]
 
 > Desde el corazón del rancho, las mejores interpretaciones en vivo\. Carin León en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,697 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,812 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0P1EPhWUeqB.md) - [plain]
 | 49 | [Mientras Duermes \- En Vivo](https://open.spotify.com/track/1Yx3iqFwDTXSKoXhCAi8UI) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Mientras Duermes \(En Vivo\)](https://open.spotify.com/album/78GkhLkn5v6q6PkNFbDFYs) | 3:23 |
 | 50 | [No Le Aflojo](https://open.spotify.com/track/7ifMxHITc3NIipJO4R5NGb) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [No Le Aflojo](https://open.spotify.com/album/3VABPNfUfSP5DurV7CUZaH) | 3:22 |
 
-Snapshot ID: `MCwzN2YzMjhmMmFhY2RkNGE4YmE3MzMxNTZlM2I1M2YzMDA3NjFhM2M0`
+Snapshot ID: `MCxhMDRkZWJmNzAyOTRlNjFiZDk3MWUwNWEzZDk4ZmIzZTQ2OTUxM2Fh`

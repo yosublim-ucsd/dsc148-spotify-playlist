@@ -4,7 +4,7 @@
 
 > Deep House speaks to the soul\. Get revived with some of the best Deep House South Africa has to offer.
 
-113 songs - 12 hr 55 min
+114 songs - 13 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [It Is Well](https://open.spotify.com/track/4wPGakZ5g4ZjReeTjbo6SA) | [Senior Oat](https://open.spotify.com/artist/5cAwYPpCI9QI5V7N0mxUKw), [Oliphant Gold](https://open.spotify.com/artist/1UeEFhpijQMngJrzoPiPXV), [Romeo ThaGreatWhite](https://open.spotify.com/artist/3ZCdk8KQtyV9ZbB6okOx0Q) | [It Is Well](https://open.spotify.com/album/6hJ2QxpWc8eMbwwOgfFkpY) | 7:10 | 2024-01-25 |  |
 | [Ivar the Boneless](https://open.spotify.com/track/5jEL4pW79jdIz6VnqDaCjm) | [Gigg Cosco](https://open.spotify.com/artist/0DkJm7HViEwxS1zxHKY86o) | [Ivar the Boneless](https://open.spotify.com/album/00vV7Vovl8G5eu9B7f896I) | 6:44 | 2022-09-14 |  |
 | [Joker](https://open.spotify.com/track/0eDDWNbcc9fHm1z03tqC2k) | [Ed\-Ward](https://open.spotify.com/artist/0KOXMkKRGGmQlle8xYvFLQ) | [Joker EP](https://open.spotify.com/album/2ytoEy5bx2U2ilibbTOXCE) | 5:23 | 2023-03-17 |  |
+| [Ksasenjalo \(Exte C Remix\)](https://open.spotify.com/track/1PnAtWScmc0YQn8UbJW1NN) | [Zano](https://open.spotify.com/artist/44wIq4IVr26PvWKBWJ42vq), [Exte C](https://open.spotify.com/artist/6xUGu0QxJfllDHmB9Pyc23) | [Ksasenjalo \(Re\-Imagined\)](https://open.spotify.com/album/0oKKnnM9Glh0iHfiCwEUZZ) | 6:41 | 2024-02-15 |  |
 | [Lately I Found Myself](https://open.spotify.com/track/5ZfIMcsmsB5wVnkGh112Bn) | [HisKing](https://open.spotify.com/artist/0j01TxMt3NFKTOCy2ob4Qj), [The Poetic Manic](https://open.spotify.com/artist/56VBl9X48ovh8FBNieoYxF) | [Lately I Found Myself](https://open.spotify.com/album/0mB5VErDZoHjWvzBfqddGP) | 7:28 | 2023-03-23 | 2023-11-18 |
 | [Lesedi](https://open.spotify.com/track/41OIxpy4toVR6sDhYwANB8) | [DJ Couza](https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS), [Fako](https://open.spotify.com/artist/4kRL8AsEKtSm09IPyM501J) | [Back To Front EP](https://open.spotify.com/album/1Lofpeh8jkquMGNs6xZyi0) | 8:14 | 2022-09-29 |  |
 | [Life](https://open.spotify.com/track/7LCVp1LIS1aYHlfvMUdJuD) | [STI T's Soul](https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2) | [Revolver, Vol\. 3 \(Compiled\)](https://open.spotify.com/album/2pbdhETHPvZOF5OlJhcQd6) | 6:59 | 2022-09-14 |  |
@@ -72,7 +73,7 @@
 | [Myself & The Dark](https://open.spotify.com/track/5HXW3kNPv7l8KBE5duEVol) | [Supreme Rhythm](https://open.spotify.com/artist/5pGU7dm8MANpUSPptk8N8i) | [Sentimental Affair](https://open.spotify.com/album/5GlFRj4lCo1NJq370frGN1) | 7:11 | 2022-09-14 | 2024-02-14 |
 | [Ndoyiswe](https://open.spotify.com/track/3qiZQ5AIGiG2KOo3OV9b4w) | [Hypaphonik](https://open.spotify.com/artist/6UL6IL0VVbVeCtvcemX7Io), [Bamtho Imbongi](https://open.spotify.com/artist/4LqkwXbr8GaGIinEcUhVUX) | [Ndoyiswe](https://open.spotify.com/album/5Rs7spRNUPw6Ao6XpyQGcq) | 5:25 | 2022-09-14 | 2022-12-14 |
 | [Nelisiwe](https://open.spotify.com/track/3U6BBph9aD1YhekBl1dUZT) | [Craving Souls](https://open.spotify.com/artist/0wgFftBYgiVdPimTq4ZyEe), [Da Tee SA](https://open.spotify.com/artist/1bX7c5pw3qs3brjXzpJZu2), [Ice Beats Slide](https://open.spotify.com/artist/6ynMrlCLJfmijr0XFdtvH5) | [Joyful Music, Vol\. 1 \(Compiled\)](https://open.spotify.com/album/4SfwaD4bORjDeWzgSsLZEV) | 6:53 | 2022-09-29 | 2024-02-19 |
-| [Never Break Me \(feat\. Kuthathu\)](https://open.spotify.com/track/2xR7tEDcjcQEcLSEtPC7zF) | [C\-Blak](https://open.spotify.com/artist/4ipkannhwnGj4uU4q5UUS5), [Kuthathu](https://open.spotify.com/artist/29kaBvTouBKn6KenUUM3fh) | [From Blak With Love](https://open.spotify.com/album/7kZYbWhSIz8L47LpjRE57X) | 6:43 | 2024-02-15 |  |
+| [Never Break Me \(feat\. Kuthathu\)](https://open.spotify.com/track/2xR7tEDcjcQEcLSEtPC7zF) | [C\-Blak](https://open.spotify.com/artist/4ipkannhwnGj4uU4q5UUS5), [Kuthathu](https://open.spotify.com/artist/29kaBvTouBKn6KenUUM3fh) | [From Blak With Love](https://open.spotify.com/album/7kZYbWhSIz8L47LpjRE57X) | 6:43 | 2024-02-15 | 2024-02-22 |
 | [Never Give Up](https://open.spotify.com/track/1bAAE1GJoBr2Ah4UbvaDNP) | [Zico SA](https://open.spotify.com/artist/67QYtLgWSPzbwkW25F0GEc) | [I Rise Again](https://open.spotify.com/album/1FM7SKxzPjCNjiirtfBYVg) | 9:16 | 2022-09-14 |  |
 | [Never Thought](https://open.spotify.com/track/6PXJMRvCxiO2JGaSApdCxN) | [Devine Maestro](https://open.spotify.com/artist/2IAkss2FMBjXDA0hdno7bg), [Thap Soul](https://open.spotify.com/artist/1CgzjfRs4cZjM58OJO1jPy), [NexVocals](https://open.spotify.com/artist/5vZfRSP0feCD65uUeThc4X), [Massive R](https://open.spotify.com/artist/1CnxaxpA4ZAt9NKClbv7Tc) | [Never Thought](https://open.spotify.com/album/0q4QBX9InqxRyTaen8e4oj) | 4:44 | 2022-09-29 |  |
 | [Ngaphakathi](https://open.spotify.com/track/6VDV7qSg8oBsdiBkHnYoug) | [Sam Deep](https://open.spotify.com/artist/46R9PUVbIOMjSUtMsQZbQq), [Sino Msolo](https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI), [De Mthuda](https://open.spotify.com/artist/1w2P5nNsO5W7FYq2Oui0cM) | [Welcome To The Party](https://open.spotify.com/album/7CZsavnt6vFWPkk8KntzjO) | 6:22 | 2022-11-17 |  |

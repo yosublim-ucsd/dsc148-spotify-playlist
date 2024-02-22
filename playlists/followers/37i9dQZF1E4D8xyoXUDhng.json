@@ -1,5 +1,5 @@
 {
-  "2024-02-21": 204,
+  "2024-02-22": 204,
   "date_first_scraped": "2023-03-18",
   "description": "With Callie Day, Terrell Grice, Duranice Pace and more",
   "name": "Callie Day Radio",
@@ -389,6 +389,24 @@
       "duration_ms": 170666,
       "name": "Abide in Me",
       "url": "https://open.spotify.com/track/2gcYdvXM38CiQqewRuQyto"
+    },
+    {
+      "album": {
+        "name": "Gotta Have Gospel",
+        "url": "https://open.spotify.com/album/09oJSLL3mlUBciY0fAllCB"
+      },
+      "artists": [
+        {
+          "name": "J-4 Twenty3",
+          "url": "https://open.spotify.com/artist/6xQbL98NkBv7h8nT2QjL22"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286866,
+      "name": "Above All",
+      "url": "https://open.spotify.com/track/2avDLLJflENacZj2jiciRM"
     },
     {
       "album": {
@@ -1377,7 +1395,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 256653,
       "name": "Battlefield",
       "url": "https://open.spotify.com/track/4P9CYzX5OYC0LkypB5g4DK"
@@ -1431,7 +1449,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-19",
+      "date_removed": null,
       "duration_ms": 138493,
       "name": "Be Encouraged (Reprise)",
       "url": "https://open.spotify.com/track/4XCUTVp0xXfeOPzg7rqopS"
@@ -1521,7 +1539,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-20",
+      "date_removed": null,
       "duration_ms": 204708,
       "name": "Beautiful Scars",
       "url": "https://open.spotify.com/track/7CfuPcDp1GOD0ese4iqgcc"
@@ -4715,7 +4733,7 @@
       ],
       "date_added": "2023-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-20",
+      "date_removed": null,
       "duration_ms": 199733,
       "name": "Get Ready",
       "url": "https://open.spotify.com/track/4tc1BZ9aOb7pNfWLScxUoX"
@@ -6101,7 +6119,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 281959,
       "name": "Have It All",
       "url": "https://open.spotify.com/track/5RX77RjMsNHKd8i6JCkGRt"
@@ -6405,7 +6423,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 240304,
       "name": "He'll Make It Alright",
       "url": "https://open.spotify.com/track/6YY9ZNNsFQX53WozAKUJja"
@@ -7295,7 +7313,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-19",
+      "date_removed": null,
       "duration_ms": 279040,
       "name": "Holy Is The Lamb",
       "url": "https://open.spotify.com/track/314gW9paIqnhLx9ajEGwj8"
@@ -8759,7 +8777,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-19",
+      "date_removed": null,
       "duration_ms": 270387,
       "name": "I Want to See Jesus",
       "url": "https://open.spotify.com/track/0NdHXyBziASq3OEUY5Z33F"
@@ -9045,7 +9063,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 225473,
       "name": "I'll Always Be Thankful (feat. the Pace Family)",
       "url": "https://open.spotify.com/track/3QKhnaRMGjvmLsQLeadTQG"
@@ -11001,7 +11019,7 @@
       ],
       "date_added": "2023-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-20",
+      "date_removed": null,
       "duration_ms": 206026,
       "name": "Just The Way",
       "url": "https://open.spotify.com/track/4bPQhVMnuBKunkFXcw4SK0"
@@ -11077,7 +11095,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-20",
+      "date_removed": null,
       "duration_ms": 332967,
       "name": "Keep on Lovin'",
       "url": "https://open.spotify.com/track/1q9G0obfJ0wkFFoYQv03Vm"
@@ -11823,7 +11841,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-18",
+      "date_removed": null,
       "duration_ms": 164571,
       "name": "Like The Dew",
       "url": "https://open.spotify.com/track/1cR5wh3u2mfqubVya2sjnr"
@@ -12037,7 +12055,7 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 325826,
       "name": "Lord Do It",
       "url": "https://open.spotify.com/track/5HeEJbaS7V9Ft7gfq8uRGi"
@@ -12797,7 +12815,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 178026,
       "name": "Marvelous Things",
       "url": "https://open.spotify.com/track/1t04vtfBxhwx3jg4wAEsJG"
@@ -13263,7 +13281,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 321600,
       "name": "More Than I Can Bear",
       "url": "https://open.spotify.com/track/6hr7Ivu11c0HWIM79ha8sX"
@@ -14571,7 +14589,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-18",
+      "date_removed": null,
       "duration_ms": 278453,
       "name": "Oh Lord How Excellent Is Thy Name",
       "url": "https://open.spotify.com/track/3A5H5S7z4keCQCT2WrXYAI"
@@ -14589,7 +14607,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-20",
+      "date_removed": null,
       "duration_ms": 192213,
       "name": "Oh Lord I Want You to Help Me",
       "url": "https://open.spotify.com/track/4n2GhETDYf3rxstrJZEYtg"
@@ -14701,7 +14719,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 209213,
       "name": "Oh, Lord, I Want You To Help Me",
       "url": "https://open.spotify.com/track/4YYAq7R4J1BOj48nKA0icC"
@@ -15209,7 +15227,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 262544,
       "name": "Pass Me Not O Gentle Savior",
       "url": "https://open.spotify.com/track/0d9QvUDQ5yqilHak1uECQM"
@@ -17611,7 +17629,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 293253,
       "name": "Speak Lord",
       "url": "https://open.spotify.com/track/3IUvdsPAW6kaYfh7V2waek"
@@ -18153,7 +18171,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 139439,
       "name": "Take Heart",
       "url": "https://open.spotify.com/track/1rkS3oDXA9C9N5QDeAbsch"
@@ -19511,7 +19529,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-03",
+      "date_removed": null,
       "duration_ms": 291813,
       "name": "There Is More",
       "url": "https://open.spotify.com/track/0RugrGfhtDCfFN4SUwg0th"
@@ -19649,7 +19667,7 @@
       ],
       "date_added": "2024-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 304226,
       "name": "There'S A Leak In This Old Building",
       "url": "https://open.spotify.com/track/6sPkXf8cl3c48U4ZFVyd3B"
@@ -21239,7 +21257,7 @@
       ],
       "date_added": "2023-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 219065,
       "name": "Whole World In His Hands - Radio Edit",
       "url": "https://open.spotify.com/track/2rH6klpQqamjrWudLnKCmQ"
@@ -21575,7 +21593,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-20",
+      "date_removed": null,
       "duration_ms": 237960,
       "name": "Yes",
       "url": "https://open.spotify.com/track/0yUncqoqCfm90nrEKZqOnY"

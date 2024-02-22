@@ -1,5 +1,5 @@
 {
-  "2024-02-21": 52891,
+  "2024-02-22": 52951,
   "date_first_scraped": "2023-12-02",
   "description": "Cover: Yeat",
   "name": "RAGE",
@@ -83,6 +83,28 @@
       "duration_ms": 175333,
       "name": "Antisocial (feat. Slump6s)",
       "url": "https://open.spotify.com/track/4KBJ6dFxtup8Ku4uQZcPQ8"
+    },
+    {
+      "album": {
+        "name": "2093 (P2)",
+        "url": "https://open.spotify.com/album/7aUeYDjGYo8wMKcpeGFRbg"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240916,
+      "name": "As We Speak (feat. Drake)",
+      "url": "https://open.spotify.com/track/6uFG0BRd3BaonWjEGuHYAh"
     },
     {
       "album": {
@@ -209,7 +231,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 100500,
       "name": "DIVE IN!",
       "url": "https://open.spotify.com/track/4pXChuim76A52lXVvFSozF"
@@ -459,7 +481,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 134265,
       "name": "Kome On",
       "url": "https://open.spotify.com/track/4wC7ol2740ZTBMUX8QCA3J"
@@ -517,7 +539,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 175716,
       "name": "Lyfe",
       "url": "https://open.spotify.com/track/5GT6tY36LQwQdPfE25NaBA"
@@ -887,7 +909,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 125217,
       "name": "Still the Same",
       "url": "https://open.spotify.com/track/4biJZe036GsCFNp2D2SR2j"

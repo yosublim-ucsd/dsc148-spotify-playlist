@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Made Aurellia
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,868 likes - 78 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,875 likes - 78 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 77 | [Sesaat Kau Hadir](https://open.spotify.com/track/1je4r3DfzWcZXHqx4MMZ9Y) | [Tenty Kamal](https://open.spotify.com/artist/2oizaPrBzAj2754qyq20ly) | [Sesaat Kau Hadir](https://open.spotify.com/album/3DNFwFebDCCSID2w6rHdSQ) | 3:31 |
 | 78 | [Aku, Kamu & Cerita](https://open.spotify.com/track/7hdGO8GVC8TqvjbfkWpA9F) | [Yosafat](https://open.spotify.com/artist/08EpRF0l4NfhHGv4GZiFhs) | [Aku, Kamu & Cerita](https://open.spotify.com/album/3z5aDyxuan7GySh6WHQB27) | 3:46 |
 
-Snapshot ID: `MCxkOWI0MzNiNGY0OThiNzY3YzU2NGM1YTA4ZTRkZGU2YWNhZjBhNTVk`
+Snapshot ID: `MCw4ZmYwYzU5MjJiMGRmMzVlMjhkNzk5ZDAwZjlmZjhkMDYxN2RlODli`

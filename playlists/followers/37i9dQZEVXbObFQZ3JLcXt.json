@@ -1,5 +1,5 @@
 {
-  "2024-02-21": 740870,
+  "2024-02-22": 741180,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Indonesia.",
   "name": "Top 50 - Indonesia",
@@ -1511,7 +1511,7 @@
       ],
       "date_added": "2023-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-16",
+      "date_removed": null,
       "duration_ms": 266330,
       "name": "Cincin",
       "url": "https://open.spotify.com/track/7J0isBrUxhIYZVdrBOOlIh"
@@ -2857,7 +2857,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-26",
+      "date_removed": null,
       "duration_ms": 131872,
       "name": "greedy",
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
@@ -7033,7 +7033,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 268422,
       "name": "Sempurna",
       "url": "https://open.spotify.com/track/2UgCs0i0rNHUH2jKE5NZHE"
@@ -8317,7 +8317,7 @@
       ],
       "date_added": "2023-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 220750,
       "name": "Those Eyes",
       "url": "https://open.spotify.com/track/2psRActEWsTlYYd7EDoyVR"

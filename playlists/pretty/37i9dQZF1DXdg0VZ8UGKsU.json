@@ -1,12 +1,12 @@
 {
   "description": "All 80s, all ballads. Cover: Gloria Estefan",
-  "num_followers": 348119,
+  "num_followers": 348218,
   "original_name": "80s Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZGFlMjU4MjYxYzliMGI4NTFjMmIyMWFlZWIxZjI3YTE5OTJjNzEx",
+  "snapshot_id": "MCxmOWZiYTMwYTc4ZGUxODQxNjM3MTQ0MDY4ZDFkYzliNDc5ZTA0YTdl",
   "tracks": [
     {
       "added_at": "2024-02-12 15:07:07",
@@ -723,22 +723,18 @@
     {
       "added_at": "2024-02-12 15:07:07",
       "album": {
-        "name": "We've Got Tonight",
-        "url": "https://open.spotify.com/album/50Mjw5tM0p8GZYT2sGgzIa"
+        "name": "Slippery When Wet",
+        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
       },
       "artists": [
         {
-          "name": "Kenny Rogers",
-          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
-        },
-        {
-          "name": "Sheena Easton",
-          "url": "https://open.spotify.com/artist/5dcOK4stT4JDkP6Dqhbz5s"
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
         }
       ],
-      "duration_ms": 234560,
-      "name": "We've Got Tonight",
-      "url": "https://open.spotify.com/track/5vXsj8L4DK1gGQ43BBG028"
+      "duration_ms": 288933,
+      "name": "Never Say Goodbye",
+      "url": "https://open.spotify.com/track/4AfsbRvvuN7nEHAhONdeEp"
     },
     {
       "added_at": "2024-02-12 15:07:07",
@@ -775,18 +771,22 @@
     {
       "added_at": "2024-02-12 15:07:07",
       "album": {
-        "name": "Slippery When Wet",
-        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
+        "name": "We've Got Tonight",
+        "url": "https://open.spotify.com/album/50Mjw5tM0p8GZYT2sGgzIa"
       },
       "artists": [
         {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+          "name": "Kenny Rogers",
+          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+        },
+        {
+          "name": "Sheena Easton",
+          "url": "https://open.spotify.com/artist/5dcOK4stT4JDkP6Dqhbz5s"
         }
       ],
-      "duration_ms": 288933,
-      "name": "Never Say Goodbye",
-      "url": "https://open.spotify.com/track/4AfsbRvvuN7nEHAhONdeEp"
+      "duration_ms": 234560,
+      "name": "We've Got Tonight",
+      "url": "https://open.spotify.com/track/5vXsj8L4DK1gGQ43BBG028"
     },
     {
       "added_at": "2024-02-12 15:07:07",

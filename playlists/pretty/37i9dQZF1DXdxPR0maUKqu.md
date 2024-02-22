@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxPR0maUKqu.md) - [plain]
 
 > 理由のない焦り、苛立ち。わけもなく叫びたくなる。思春期を過ごす全てのティーンに贈る、帰り道の応援歌。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,468 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,505 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxPR0maUKqu.md) - [plain]
 | 6 | [rendez\-vous](https://open.spotify.com/track/77mI5OSGIIPKxHXBkHOySy) | [shy taupe](https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg) | [Hors d'oeuvre](https://open.spotify.com/album/2xoDg0aFWHgzxMKvTetH4D) | 3:58 |
 | 7 | [Prepare Yourself!](https://open.spotify.com/track/3imhdLe85Nmrw9HiSGmbXz) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [Prepare Yourself!](https://open.spotify.com/album/4Ef7Fy5sLhUDU1LM5enHbQ) | 3:54 |
 | 8 | [Tsumugu](https://open.spotify.com/track/0vfBB5CXn4CwpmQ2M5EZOe) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [Oidaki](https://open.spotify.com/album/5FGKmIasXlcphIo9Z3ihS5) | 3:52 |
-| 9 | [ブーケ](https://open.spotify.com/track/7H2QpQ7AWXuFT8cHv4u0ap) | [TRACK15](https://open.spotify.com/artist/2yBeBpGsS9sgRa4rlJldIT) | [ブーケ](https://open.spotify.com/album/0o0O044SPFfy4fz3M1XTe3) | 3:58 |
+| 9 | [Bouquet](https://open.spotify.com/track/2nmKXcHdicY328zAPkcSJB) | [TRACK15](https://open.spotify.com/artist/2yBeBpGsS9sgRa4rlJldIT) | [Bouquet](https://open.spotify.com/album/6U8sNsAGPjgAJnBlupCq7P) | 3:58 |
 | 10 | [春が嫌い](https://open.spotify.com/track/4EP22LrlRJItyhWwTT6Knk) | [Regal Lily](https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK) | [春が嫌い](https://open.spotify.com/album/6YKqQR7LtDiBlBEpcIkfHH) | 3:18 |
 | 11 | [Twenty\-Twenty](https://open.spotify.com/track/4yMTmbUIx1oCQkGDseKBDW) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [Twenty\-Twenty](https://open.spotify.com/album/5ZCmrjwKTFHWI8w4QDuLjP) | 4:02 |
 | 12 | [50%](https://open.spotify.com/track/5RtvjcgyI2NfATzDmExssD) | [35.7](https://open.spotify.com/artist/0r2fuN8lNQF4p6KRgxCVnP) | [50%](https://open.spotify.com/album/7CusFsKBwVfBIUKN1dZsni) | 4:06 |
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxPR0maUKqu.md) - [plain]
 | 29 | [Oujitsu](https://open.spotify.com/track/7l1U8t0MjRDFkQyJuTP6rJ) | [moon drop](https://open.spotify.com/artist/1fqzuhLXIimUwLTU6HzBse) | [Kimi ni Mita Kisetsu](https://open.spotify.com/album/76m0A0Q2uRcOh5bZ5pxR9i) | 3:42 |
 | 30 | [Super Express](https://open.spotify.com/track/3GlRLcA7sxJu6HtGH9CrAE) | [yonige](https://open.spotify.com/artist/6uovEmc6Z1C1aUvvdKACXQ) | [Empire](https://open.spotify.com/album/3eOZSTk2k4cT874YBeanry) | 3:51 |
 | 31 | [君の隣](https://open.spotify.com/track/71DbWOpzCisKYVvOJiQNrm) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [君の隣](https://open.spotify.com/album/3XaeNTwBhtr0IeMzcP8lPk) | 5:16 |
-| 32 | [ジェリーフィッシュ](https://open.spotify.com/track/1phE9NoCTcHApCZn6kXoQE) | [Subway Daydream](https://open.spotify.com/artist/4Iiidb9Wqw3kMFVEMxtEyf) | [ジェリーフィッシュ](https://open.spotify.com/album/5wrs5O2FBqJb9srJocM8Kk) | 3:05 |
+| 32 | [Jellyfish](https://open.spotify.com/track/389o6ubDDpPvhNUaLl22tL) | [Subway Daydream](https://open.spotify.com/artist/4Iiidb9Wqw3kMFVEMxtEyf) | [Jellyfish](https://open.spotify.com/album/6ieIuzXf3cN3GH0Nzh7Y98) | 3:05 |
 | 33 | [Magic hour](https://open.spotify.com/track/7DJbEA0ADXdBwnJhs0ofHD) | [Hello Hello](https://open.spotify.com/artist/0VHtkjMrNXTTDNE9Ej96og) | [address](https://open.spotify.com/album/3nA3sTQ8Hq3KnZOtGmHQi4) | 3:36 |
 | 34 | [Q.1](https://open.spotify.com/track/69wRfBpcspPBQYD8xaDyT8) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [Q.1](https://open.spotify.com/album/3283TUO9t88bpwilwlYp9k) | 3:51 |
 | 35 | [しあわせ](https://open.spotify.com/track/3yBCSTtiQuM0od1M9YrGMF) | [35.7](https://open.spotify.com/artist/0r2fuN8lNQF4p6KRgxCVnP) | [しあわせ](https://open.spotify.com/album/6pOMpdooijhZNxtxUjHHsL) | 2:49 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxPR0maUKqu.md) - [plain]
 | 39 | [喜怒哀楽](https://open.spotify.com/track/3jRp2IETgPfv44mIUUEiKf) | [トンボコープ](https://open.spotify.com/artist/1UzaXdXRtXgtPrdjzW5Og3) | [喜怒哀楽](https://open.spotify.com/album/7oXS72ywdPr7Vgs1ZrRWuq) | 4:37 |
 | 40 | [Seishun Touka](https://open.spotify.com/track/52tOlDhtWqrO16wbV4E2Sc) | [Bocchi](https://open.spotify.com/artist/6C9FJEK44GiyGG5ORRO0Cb) | [Shishunki To Jikanryokou \- EP](https://open.spotify.com/album/5aRS9azmh6MYHK7AYwwQRz) | 3:38 |
 | 41 | [Whale](https://open.spotify.com/track/2jFMypz1HlsluktUDnySCN) | [downt](https://open.spotify.com/artist/1u3B7ghkXe7pvfxZTmBJlV) | [Whale](https://open.spotify.com/album/4Cq3EXmq52JVKsiFZ71jX3) | 3:41 |
-| 42 | [スプリング](https://open.spotify.com/track/45KxSOEWt1gd7U3BE5r1X0) | [鉄風東京](https://open.spotify.com/artist/2dcQMsKiEfgJ9t7GolC4rn) | [スプリング](https://open.spotify.com/album/6emKs0Jiy6tNu8SCHkSxMu) | 3:24 |
+| 42 | [Spring](https://open.spotify.com/track/1hG5Uhr5SIWQHskbLmcC9U) | [鉄風東京](https://open.spotify.com/artist/2dcQMsKiEfgJ9t7GolC4rn) | [Spring](https://open.spotify.com/album/2m3VHk3Zm37UUSXSnWYVgT) | 3:24 |
 | 43 | [愛してるって言って](https://open.spotify.com/track/7qStH3v0uNjgiQdNGcvY3X) | [ポンツクピーヤ](https://open.spotify.com/artist/0j56Vr9S3Iq3Inp8pLX02Q) | [愛してるって言って](https://open.spotify.com/album/51MKiJ1pa9oDroRhrnJlev) | 3:59 |
 | 44 | [フラッシュバックメモリーズ](https://open.spotify.com/track/44i7oWmydf4IBs6b6Nwgn7) | [クボタカイ](https://open.spotify.com/artist/0eg7sMst2b9wLVyMgtRFpY) | [フラッシュバックメモリーズ](https://open.spotify.com/album/0aYi6TGIBIoKdRoNU5OR5C) | 3:43 |
 | 45 | [君だ](https://open.spotify.com/track/7pH41hagMTnQJmgBwNiG82) | [wacci](https://open.spotify.com/artist/7jCHrVGjeHUYP2pHv8FOJ3) | [愛は薬](https://open.spotify.com/album/1gjCz4S2REQQOaD5uuwY5h) | 5:50 |
 | 46 | [カフェオレ](https://open.spotify.com/track/4kUQ93s4nfZRVt7bTQzm9i) | [Laughing Hick](https://open.spotify.com/artist/17DWzzd6Ap8umcfYBYHJ3W) | [カフェオレ](https://open.spotify.com/album/5HaE2fRPBozks2PJ7pVPgC) | 4:29 |
-| 47 | [馬鹿と栄光](https://open.spotify.com/track/6wlSeALQrFl62YIdMZ9Bcm) | [peeto](https://open.spotify.com/artist/2o7CvH7hLj3c3XbkFmnLXA) | [馬鹿と栄光](https://open.spotify.com/album/5uV4kmASm5Qil8rHcrkCfk) | 4:05 |
+| 47 | [Baka To Eiko](https://open.spotify.com/track/5g1l22EmCxbIeBkbESxsPn) | [peeto](https://open.spotify.com/artist/2o7CvH7hLj3c3XbkFmnLXA) | [Baka To Eiko](https://open.spotify.com/album/3Hkl5UYzSMmR8jHoibVzIs) | 4:05 |
 | 48 | [青と夏](https://open.spotify.com/track/5BC6kr6etk2Y9J62AyI4i3) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [Attitude](https://open.spotify.com/album/3bRSI9DOQA2KdJ7t6zdW0V) | 4:30 |
 | 49 | [言って。](https://open.spotify.com/track/6z1TvLTR0oOsWSJfDrERmj) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [夏草が邪魔をする](https://open.spotify.com/album/3o5yzVy1ZXMfyATfj9OjbV) | 4:02 |
 | 50 | [だから僕は音楽を辞めた](https://open.spotify.com/track/5j7ixaLeGTGSv4DzKs0pCM) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [だから僕は音楽を辞めた](https://open.spotify.com/album/4b9nOSXSf1LROzgfYFxdxI) | 4:02 |
 
-Snapshot ID: `MCxmNTJkY2YzNzAyYzgwYjdjZGQ4OGFmZmJmMTMyZjc2NjFmMzQ4NzNh`
+Snapshot ID: `MCxjZGYyYjZkZGUwZWNmZGE2YTFkZjk2MmJjYjJhYTVlODMyZjc1MDMx`

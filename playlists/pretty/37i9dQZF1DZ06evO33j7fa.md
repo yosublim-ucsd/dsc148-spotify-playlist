@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33j7fa.md) - [plain]
 
 > This is Nick Drake\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,254 likes - 32 songs - 1 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,283 likes - 32 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,11 +22,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33j7fa.md) - [plain]
 | 12 | [Blues Run The Game](https://open.spotify.com/track/63DZhSq0EGemJVRoAxUtHZ) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Family Tree](https://open.spotify.com/album/6tSbmYy6GAIsjtAId5GCbo) | 2:25 |
 | 13 | [From The Morning](https://open.spotify.com/track/6meH4I9A4WZtD3z8hnQKqr) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Pink Moon](https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg) | 2:30 |
 | 14 | [Hazey Jane II](https://open.spotify.com/track/1Juj6Rg5MhutU8gW43934B) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Bryter Layter](https://open.spotify.com/album/04FfqGvZJ9oUBGRVrq2FE5) | 3:46 |
-| 15 | [Saturday Sun](https://open.spotify.com/track/1drLQNS9D5z9lBP4DbtO2R) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Five Leaves Left](https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2) | 4:05 |
+| 15 | [Time Has Told Me](https://open.spotify.com/track/20FLGZPgMHXlU0VpQ0HpxN) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Five Leaves Left](https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2) | 4:24 |
 | 16 | [Clothes Of Sand](https://open.spotify.com/track/6YRcClEQPYq3yGOOgabbn3) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Made To Love Magic](https://open.spotify.com/album/0nHa7yhIyuYgRL6msr9dJR) | 2:31 |
 | 17 | [Which Will](https://open.spotify.com/track/4Cg0paoTgxlo2LC85HKaab) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Pink Moon](https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg) | 2:56 |
 | 18 | [Introduction](https://open.spotify.com/track/7unUg1rIAVXyYVH5LPHc4R) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Bryter Layter](https://open.spotify.com/album/04FfqGvZJ9oUBGRVrq2FE5) | 1:32 |
-| 19 | [Time Has Told Me](https://open.spotify.com/track/20FLGZPgMHXlU0VpQ0HpxN) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Five Leaves Left](https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2) | 4:24 |
+| 19 | [Saturday Sun](https://open.spotify.com/track/1drLQNS9D5z9lBP4DbtO2R) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Five Leaves Left](https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2) | 4:05 |
 | 20 | [Been Smoking Too Long](https://open.spotify.com/track/7wZcJFjBz2QE0LdKeYwt0R) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Family Tree](https://open.spotify.com/album/6tSbmYy6GAIsjtAId5GCbo) | 2:13 |
 | 21 | [Things Behind The Sun](https://open.spotify.com/track/2s89qv9maW8RMCoaxtvNtn) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Pink Moon](https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg) | 3:54 |
 | 22 | [At The Chime Of A City Clock](https://open.spotify.com/track/5lc8or13c2lgTWTOVIos6W) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Bryter Layter](https://open.spotify.com/album/04FfqGvZJ9oUBGRVrq2FE5) | 4:45 |
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33j7fa.md) - [plain]
 | 31 | [Mayfair \- Cambridge Version](https://open.spotify.com/track/6istaDvCXRRswqM4tJRzmE) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Made To Love Magic](https://open.spotify.com/album/0nHa7yhIyuYgRL6msr9dJR) | 2:11 |
 | 32 | [Black Eyed Dog](https://open.spotify.com/track/1ORNDo58BSH2uP0nNXJTT1) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Made To Love Magic](https://open.spotify.com/album/0nHa7yhIyuYgRL6msr9dJR) | 3:27 |
 
-Snapshot ID: `Mjg0NzQxMzEsMDAwMDAwMDBiMDVjZDc5NWZhNDlhZmI0N2ZhN2RmMmZhZWE2YjQ3Nw==`
+Snapshot ID: `Mjg0NzUyOTAsMDAwMDAwMDAyYzk3NTA2NGY1MGRkMDJmODZhNDU3MDZmYzM5YTcxYg==`

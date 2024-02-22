@@ -4,7 +4,7 @@
 
 > your soundtrack to your exam studies\. for max productiveness\. u got this!
 
-520 songs - 19 hr 54 min
+521 songs - 19 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Behind the stars](https://open.spotify.com/track/2Qu8fz0Ae2tNvBefZoZIJF) | [Slumbering Elk](https://open.spotify.com/artist/3W4MGKEEUJe6RfPWvIq5Nc) | [Behind the stars](https://open.spotify.com/album/1vfOBiWpg9jEabvNeQaxp9) | 2:22 | 2024-01-05 |  |
 | [beneath your feet](https://open.spotify.com/track/2liw1mIxDdw1d0D6tkFsXG) | [yoshi the brilliant](https://open.spotify.com/artist/6k8AnK3Kuk6fv1AQu0IGBJ) | [beneath your feet / balcony falls](https://open.spotify.com/album/6kMAkZyLnbPHnxvtOY7kG0) | 2:03 | 2024-01-05 |  |
 | [Benidorm](https://open.spotify.com/track/667LRsRYxwLCOJB2DDoUOC) | [Florida Frank](https://open.spotify.com/artist/1XPs2qSUuafYCiqiCf6V3z) | [Benidorm](https://open.spotify.com/album/6eCQmiuecEe2joDErnh7VW) | 2:11 | 2024-01-05 |  |
-| [Big City Issues](https://open.spotify.com/track/7HB3OzS1oOw0ccm27Fg7T0) | [Daniel Fridell](https://open.spotify.com/artist/4WG5037NDBAMyjzClxwmKK), [Sven Lindvall](https://open.spotify.com/artist/3TauislvTr1US5ZCbjnLUx) | [Big City Issues](https://open.spotify.com/album/3hnPutVsHtBKSijIJoJQGv) | 3:21 | 2024-01-05 |  |
+| [Big City Issues](https://open.spotify.com/track/7HB3OzS1oOw0ccm27Fg7T0) | [Daniel Fridell](https://open.spotify.com/artist/4WG5037NDBAMyjzClxwmKK), [Sven Lindvall](https://open.spotify.com/artist/3TauislvTr1US5ZCbjnLUx) | [Big City Issues](https://open.spotify.com/album/3hnPutVsHtBKSijIJoJQGv) | 3:21 | 2024-01-05 | 2024-02-22 |
 | [Bird Eye](https://open.spotify.com/track/0Ag2FDxOVElHuBYn0BDYjQ) | [LzmD](https://open.spotify.com/artist/6yUTk9DYrsGPhR8s181E53) | [Bird Eye](https://open.spotify.com/album/6bEUQXrP8KJCMtM7Xz8QaE) | 2:27 | 2024-01-05 |  |
 | [Birds in a Tree](https://open.spotify.com/track/66XDRP8a73wHcqMqnWM0z7) | [Sid Southside](https://open.spotify.com/artist/4TiVNrltbnF40ju8ZrCgmG) | [The Way She Moves](https://open.spotify.com/album/6d56jnrEI4HSi6khvktQDr) | 3:15 | 2024-01-05 |  |
 | [Bittersweet Sophie](https://open.spotify.com/track/5eijXLbnLgl3vGJ4Uu0yhW) | [enix lee](https://open.spotify.com/artist/54weCXa5FPCsxbst0HJ2fF) | [Bittersweet Sophie](https://open.spotify.com/album/1t7COiXg1B3QXkPwAveZ5q) | 3:15 | 2024-01-05 |  |
@@ -87,6 +87,7 @@
 | [Check\-Out Time](https://open.spotify.com/track/6Q0Pf9BVZxgpebR8q3NS6N) | [Geometrical](https://open.spotify.com/artist/2qBL4kmK6EygqSfEEkMRpq) | [Check\-Out Time](https://open.spotify.com/album/4G799Tgmay9itwQSV3xdTF) | 1:53 | 2024-01-05 |  |
 | [Cherries and Blossoms](https://open.spotify.com/track/56cMel1zfzxtK41JFABVKV) | [Aiko Ai](https://open.spotify.com/artist/4ifCvddHRxg397i6vjqwby) | [Cherries and Blossoms](https://open.spotify.com/album/1JJFpT7M1xqL6DCa7kp2GW) | 1:43 | 2024-01-05 |  |
 | [Cherry Blossom](https://open.spotify.com/track/6RO1NFtqXr2FgbrUJCkame) | [Komorebi](https://open.spotify.com/artist/2eOS10ukiu8a9nPVwivizO) | [Cherry Blossom](https://open.spotify.com/album/7n1QYNXh7TbEQLtYrrUWwF) | 2:00 | 2024-01-05 |  |
+| [Chimes](https://open.spotify.com/track/3rtl8o4opvXJnYUtk1CgUq) | [daria valentina](https://open.spotify.com/artist/5t8yaGoIRiRYaluWCliD1F) | [Chimes](https://open.spotify.com/album/6jCtYhaisHTv8URb48V67Z) | 2:48 | 2024-02-09 |  |
 | [Cigarette Serenade](https://open.spotify.com/track/6Gw7WZdsCOhM5hr7JbTah9) | [Hi Hat Henry](https://open.spotify.com/artist/7tsp47BEDJSjYQB0YaDV52) | [Midnight Cityscape](https://open.spotify.com/album/1uv4Aj6Lvid3x6bELOJ45h) | 1:49 | 2024-01-05 |  |
 | [city lights](https://open.spotify.com/track/5vQeIRZVYMZZgaPNiYUz5h) | [fly\_by\_wire](https://open.spotify.com/artist/68bqVC3nQPvOuKAYdQNUEj) | [city lights](https://open.spotify.com/album/4kfUmEXhzM7XU7QN677eVQ) | 2:21 | 2024-01-05 |  |
 | [city signs](https://open.spotify.com/track/2pbNxwPO7CIgRTiwiuEvTN) | [rec.X](https://open.spotify.com/artist/128lWCKxWAbFjrQaTDviJt) | [city signs](https://open.spotify.com/album/6K7wrCG1xu2oJ1NsOnm5Fy) | 1:59 | 2024-01-05 |  |

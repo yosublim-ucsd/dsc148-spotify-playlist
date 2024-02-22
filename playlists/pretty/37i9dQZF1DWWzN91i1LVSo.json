@@ -1,12 +1,12 @@
 {
   "description": "a fresh & mellow mix from some of today's best singer-songwriters. Cover: Bre Kennedy",
-  "num_followers": 124099,
+  "num_followers": 124103,
   "original_name": "Chill Singer-Songwriter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNzcxNjg5ODJmOTlmZjc4MDE0MGQ5MTU5YzlkNzAyZjVmY2UyZDY3",
+  "snapshot_id": "MCw1ZmM5NDhmNDNmZTRiZmRjMDc4OTlhNzdlMGI2ZjNiZTc3YzhjOTc2",
   "tracks": [
     {
       "added_at": "2023-12-08 05:00:00",
@@ -287,22 +287,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "All The Light Above It Too",
-        "url": "https://open.spotify.com/album/1a15dDOiwz5ebSxk1ZeFB5"
-      },
-      "artists": [
-        {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
-        }
-      ],
-      "duration_ms": 210466,
-      "name": "Sunsets For Somebody Else",
-      "url": "https://open.spotify.com/track/41Az1BCotlAUt7Ud8k6H2Y"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "The Woods (Acoustic)",
         "url": "https://open.spotify.com/album/7HZod7ee2InRlQb8PRS3GI"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 239960,
       "name": "The Woods - Acoustic",
       "url": "https://open.spotify.com/track/7MIMNleq34UeRnlLRdPpGY"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Feeling You",
+        "url": "https://open.spotify.com/album/7yVC3GjeYYefCwfsKS3u2H"
+      },
+      "artists": [
+        {
+          "name": "Harrison Storm",
+          "url": "https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx"
+        }
+      ],
+      "duration_ms": 201195,
+      "name": "Feeling You",
+      "url": "https://open.spotify.com/track/7xghXOM3CaIK6wmR0xW1XS"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -355,18 +355,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Feeling You",
-        "url": "https://open.spotify.com/album/7yVC3GjeYYefCwfsKS3u2H"
+        "name": "All The Light Above It Too",
+        "url": "https://open.spotify.com/album/1a15dDOiwz5ebSxk1ZeFB5"
       },
       "artists": [
         {
-          "name": "Harrison Storm",
-          "url": "https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx"
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
         }
       ],
-      "duration_ms": 201195,
-      "name": "Feeling You",
-      "url": "https://open.spotify.com/track/7xghXOM3CaIK6wmR0xW1XS"
+      "duration_ms": 210466,
+      "name": "Sunsets For Somebody Else",
+      "url": "https://open.spotify.com/track/41Az1BCotlAUt7Ud8k6H2Y"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -615,6 +615,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "I'd Have to Think About It",
+        "url": "https://open.spotify.com/album/13NV9whHhEz1qhD2XqiawI"
+      },
+      "artists": [
+        {
+          "name": "Leith Ross",
+          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
+        }
+      ],
+      "duration_ms": 150141,
+      "name": "I'd Have to Think About It",
+      "url": "https://open.spotify.com/track/3MkEVGXroAZV4BAtBV9yOf"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "A Little Love",
         "url": "https://open.spotify.com/album/6E1vE4WcIXDDNOPW4jPYff"
       },
@@ -635,18 +651,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "I'd Have to Think About It",
-        "url": "https://open.spotify.com/album/13NV9whHhEz1qhD2XqiawI"
+        "name": "When The World Stopped Moving: The Live EP",
+        "url": "https://open.spotify.com/album/5BCeqdaoRcRj9E1gxPLpLG"
       },
       "artists": [
         {
-          "name": "Leith Ross",
-          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 150141,
-      "name": "I'd Have to Think About It",
-      "url": "https://open.spotify.com/track/3MkEVGXroAZV4BAtBV9yOf"
+      "duration_ms": 225500,
+      "name": "Angelina",
+      "url": "https://open.spotify.com/track/7epHo3miOIJ3fYEPAdCAf9"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -663,22 +679,6 @@
       "duration_ms": 136250,
       "name": "Eulogy For Nobody",
       "url": "https://open.spotify.com/track/11ozTm1ilFrLxwtdWt1iK0"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "When The World Stopped Moving: The Live EP",
-        "url": "https://open.spotify.com/album/5BCeqdaoRcRj9E1gxPLpLG"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 225500,
-      "name": "Angelina",
-      "url": "https://open.spotify.com/track/7epHo3miOIJ3fYEPAdCAf9"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "willow",
-        "url": "https://open.spotify.com/album/1rzYZ0KwitNrhFGd3cWOnv"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 212119,
-      "name": "willow",
-      "url": "https://open.spotify.com/track/61qLoMpEncPR7n8Ibf8Bhh"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Too Much To Ask (Acoustic)",
         "url": "https://open.spotify.com/album/54VaqAx59YDqRsoBh4l5Up"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 183454,
       "name": "False Art",
       "url": "https://open.spotify.com/track/5eBZPQjBjCRXKsu9DnfS21"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "willow",
+        "url": "https://open.spotify.com/album/1rzYZ0KwitNrhFGd3cWOnv"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 212119,
+      "name": "willow",
+      "url": "https://open.spotify.com/track/61qLoMpEncPR7n8Ibf8Bhh"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1245,6 +1245,26 @@
       "url": "https://open.spotify.com/track/2Dms8axOrrjXETwVwtvBF5"
     },
     {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "loml",
+        "url": "https://open.spotify.com/album/0szj1LIFIQjDAxMJv8m1Zq"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kang",
+          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
+        },
+        {
+          "name": "HOHYUN",
+          "url": "https://open.spotify.com/artist/15QTZYWWbRmiII0wpKIAmu"
+        }
+      ],
+      "duration_ms": 201908,
+      "name": "loml",
+      "url": "https://open.spotify.com/track/2y8XtG31pTKikEHTkqbZFK"
+    },
+    {
       "added_at": "2023-12-08 05:00:00",
       "album": {
         "name": "last one standing",
@@ -1275,26 +1295,6 @@
       "duration_ms": 251960,
       "name": "Shame",
       "url": "https://open.spotify.com/track/1d39v4V4DmrrLiFX4DKHBv"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "loml",
-        "url": "https://open.spotify.com/album/0szj1LIFIQjDAxMJv8m1Zq"
-      },
-      "artists": [
-        {
-          "name": "Sarah Kang",
-          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
-        },
-        {
-          "name": "HOHYUN",
-          "url": "https://open.spotify.com/artist/15QTZYWWbRmiII0wpKIAmu"
-        }
-      ],
-      "duration_ms": 201908,
-      "name": "loml",
-      "url": "https://open.spotify.com/track/2y8XtG31pTKikEHTkqbZFK"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1465,6 +1465,22 @@
       "url": "https://open.spotify.com/track/7CS9hRKJNmBGWUowSjhedb"
     },
     {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Over the Moon",
+        "url": "https://open.spotify.com/album/3mYz8u9eL7mRUoyKSN2Oef"
+      },
+      "artists": [
+        {
+          "name": "Lily Meola",
+          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
+        }
+      ],
+      "duration_ms": 256980,
+      "name": "Over the Moon",
+      "url": "https://open.spotify.com/track/2JFSlL1Xsy2j7T5HdRCxpp"
+    },
+    {
       "added_at": "2023-12-08 05:00:00",
       "album": {
         "name": "Just Yet",
@@ -1515,22 +1531,6 @@
       "duration_ms": 170858,
       "name": "Made Up My Mind",
       "url": "https://open.spotify.com/track/0wgzf6u880hriqztlcfhPX"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Music Box",
-        "url": "https://open.spotify.com/album/3l3xNSj9nQGYJ4ZPXBWVmf"
-      },
-      "artists": [
-        {
-          "name": "Leith Ross",
-          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
-        }
-      ],
-      "duration_ms": 265772,
-      "name": "Music Box",
-      "url": "https://open.spotify.com/track/2h89x1ycsTH904Poc5COS4"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1591,18 +1591,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Far From Here",
-        "url": "https://open.spotify.com/album/3y1HiZb2e8rIP4nWMKJRFi"
+        "name": "Music Box",
+        "url": "https://open.spotify.com/album/3l3xNSj9nQGYJ4ZPXBWVmf"
       },
       "artists": [
         {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+          "name": "Leith Ross",
+          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
         }
       ],
-      "duration_ms": 260338,
-      "name": "Edge of the Dark",
-      "url": "https://open.spotify.com/track/4RE36XFP3a20pBSV9GdMAE"
+      "duration_ms": 265772,
+      "name": "Music Box",
+      "url": "https://open.spotify.com/track/2h89x1ycsTH904Poc5COS4"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Crying in Cars",
-        "url": "https://open.spotify.com/album/4uJrophYlBcAfwQXI6uDlf"
+        "name": "Far From Here",
+        "url": "https://open.spotify.com/album/3y1HiZb2e8rIP4nWMKJRFi"
       },
       "artists": [
         {
-          "name": "Emily Rowed",
-          "url": "https://open.spotify.com/artist/0f1BcubFYDkGOTA0bJ0u1w"
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
         }
       ],
-      "duration_ms": 222024,
-      "name": "Let Me Hurt (Acoustic)",
-      "url": "https://open.spotify.com/track/5lCYavZeZIbkVMyiukdTJx"
+      "duration_ms": 260338,
+      "name": "Edge of the Dark",
+      "url": "https://open.spotify.com/track/4RE36XFP3a20pBSV9GdMAE"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1655,18 +1655,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Good Luck, Kid",
-        "url": "https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi"
+        "name": "Crying in Cars",
+        "url": "https://open.spotify.com/album/4uJrophYlBcAfwQXI6uDlf"
       },
       "artists": [
         {
-          "name": "JOSEPH",
-          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
+          "name": "Emily Rowed",
+          "url": "https://open.spotify.com/artist/0f1BcubFYDkGOTA0bJ0u1w"
         }
       ],
-      "duration_ms": 223453,
-      "name": "Side Effects",
-      "url": "https://open.spotify.com/track/7l1JgKKbTh8n0o1ya4j67k"
+      "duration_ms": 222024,
+      "name": "Let Me Hurt (Acoustic)",
+      "url": "https://open.spotify.com/track/5lCYavZeZIbkVMyiukdTJx"
     }
   ],
   "unique_name": "Chill Singer-Songwriter",

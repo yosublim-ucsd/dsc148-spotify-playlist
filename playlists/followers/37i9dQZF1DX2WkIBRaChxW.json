@@ -1,5 +1,5 @@
 {
-  "2024-02-21": 366433,
+  "2024-02-22": 366457,
   "date_first_scraped": "2022-01-01",
   "description": "What's happening in R&B, right now \u2013 featuring <a href=\"spotify:artist:3SozjO3Lat463tQICI9LcE\">Tyla</a>.",
   "name": "R&B Right Now",
@@ -7699,13 +7699,17 @@
         {
           "name": "Diddy",
           "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 273775,
-      "name": "Moments (feat. Justin Bieber)",
+      "name": "Moments",
       "url": "https://open.spotify.com/track/2WGdMsAZboyOiNhNx4dt82"
     },
     {

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wbVzPMSvwH.md) - [plain]
 
 > Lagu\-lagu positif untuk mengawali harimu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,232 likes - 70 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,269 likes - 70 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Rusuk](https://open.spotify.com/track/6fEOGx8QEljOO88YuzgemL) | [Gery Gany](https://open.spotify.com/artist/4zw9fpiPphR8PBEiMLVT2e) | [Rusuk](https://open.spotify.com/album/4cLrMz5zfE7JgxDLylxbvt) | 4:15 |
 | 2 | [Aduh](https://open.spotify.com/track/4hqNaY8uNHrPzW4l3ulDSo) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Aduh](https://open.spotify.com/album/2vz25rEFGA1ziNgy70BJus) | 3:16 |
-| 3 | [Lampu Merah](https://open.spotify.com/track/7uwo3VQxUlRtKudAjluuTr) | [The Lantis](https://open.spotify.com/artist/1REvGGP2H7cFLGZgK2sStO) | [Pilot](https://open.spotify.com/album/2fm5dfglCcyJ4yVxjIP0qU) | 4:58 |
+| 3 | [Lampu Merah](https://open.spotify.com/track/6E7DsxwI4eOcMHLYRUDCaw) | [The Lantis](https://open.spotify.com/artist/1REvGGP2H7cFLGZgK2sStO) | [Pilot](https://open.spotify.com/album/2Ykep6jay9dIiAB9eJq7vo) | 4:58 |
 | 4 | [Bunga Hati](https://open.spotify.com/track/4AfhlJghKIWkXa8sfFEXVd) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [Bunga Hati](https://open.spotify.com/album/4F4XK6lkrHveOTKSGMeGF4) | 2:53 |
 | 5 | [Karena Kamu](https://open.spotify.com/track/5UHnOvi0XFvwY8ege9DNdD) | [Geisha](https://open.spotify.com/artist/3txNoNUfBAHT1ZSGT2R30y) | [Meraih Bintang](https://open.spotify.com/album/4PO8qNb2v8Xef5ixuWZTRL) | 3:54 |
 | 6 | [HAHAHA](https://open.spotify.com/track/0coPXOjcMS7mhizONlReis) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [HAHAHA](https://open.spotify.com/album/32KsXDdSdv8lJFKwt1cSEI) | 3:13 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wbVzPMSvwH.md) - [plain]
 | 69 | [Cintaku](https://open.spotify.com/track/41S84NxXxO4IkYRp4WHr1d) | [Chrisye](https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279) | [Badai Pasti Berlalu](https://open.spotify.com/album/5xBOU4ZYI4GZ1QnRj3bUMp) | 4:38 |
 | 70 | [All Good](https://open.spotify.com/track/3s8ik4CUIZXXGDBgD0EAZ5) | [Dipha Barus](https://open.spotify.com/artist/0UtZ0DRiE8usRg9GyjCPCr), [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [All Good](https://open.spotify.com/album/5b5nv0yq43oHzu1HcuY3ZI) | 3:13 |
 
-Snapshot ID: `MCwxMzY0YWY3YTdkNjhjNzViOWY0ODgwNDI1Yzc0NGI0OTIxZDczMmQx`
+Snapshot ID: `MCxlOWUzZjMzOWM4ZDYxNGVmZDI2OTNhZDFjNzg2OWM5NTY0MjJkMDg4`

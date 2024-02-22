@@ -4,11 +4,12 @@
 
 > A relaxing evening with a smooth glass never sounded so good\. Hit play and let the room fill with some of the classics.
 
-146 songs - 10 hr 50 min
+147 songs - 10 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\(I'm Your\) Hoochie Coochie Man](https://open.spotify.com/track/76yNIsr8JtT0ubC3HjxKgS) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [His Best 1947 To 1956 \- The Chess 50th Anniversary Collection \(Reissue\)](https://open.spotify.com/album/6kAxjSLxwWTwCfZHCouR7f) | 2:50 | 2022-06-14 |  |
+| [\(I'm Your\) Hoochie Coochie Man](https://open.spotify.com/track/1YM0WEEhit7WL15fkLkwMI) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Chess Box](https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB) | 2:47 | 2023-10-05 |  |
+| [\(I'm Your\) Hoochie Coochie Man](https://open.spotify.com/track/76yNIsr8JtT0ubC3HjxKgS) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [His Best 1947 To 1956 \- The Chess 50th Anniversary Collection \(Reissue\)](https://open.spotify.com/album/6kAxjSLxwWTwCfZHCouR7f) | 2:50 | 2022-06-14 | 2024-02-22 |
 | [12:15 Slow Goonbash Blues](https://open.spotify.com/track/4zy2Th0CDzOyNwbTODygmj) | [Shuggie Otis](https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl) | [Shuggie's Boogie: Shuggie Otis Plays The Blues](https://open.spotify.com/album/6WSeoiDc3zAjZVjFzMyLBC) | 9:26 | 2022-05-25 |  |
 | [A Apolitical Blues](https://open.spotify.com/track/3ApqVYTzkiGRK74zw34X3X) | [Little Feat](https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S) | [Sailin' Shoes](https://open.spotify.com/album/7uFbv3TYfv44PcjTphXekt) | 3:28 | 2022-11-18 |  |
 | [All Your Love](https://open.spotify.com/track/73GEVn1tqk9bn0KbtWsiqj) | [Magic Sam](https://open.spotify.com/artist/0XErJwG6aCEj7NpKsEZrrO) | [The Essential Magic Sam: The Cobra and Chief Recordings 1957\-1961](https://open.spotify.com/album/5pwsqaIx7UFtjXU3HiF1Nv) | 2:56 | 2022-07-08 |  |

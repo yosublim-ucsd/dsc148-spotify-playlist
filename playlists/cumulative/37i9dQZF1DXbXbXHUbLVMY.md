@@ -4,7 +4,7 @@
 
 > Skandinavisk hiphop som holder det 100! 🚨 feat\. Marstein
 
-141 songs - 6 hr 4 min
+142 songs - 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,8 @@
 | [Hvor Som Helst](https://open.spotify.com/track/6bJJTDQthQY85h4W1l0vad) | [Tessa](https://open.spotify.com/artist/3pJK3CUpbnyX7ogDfAwa9J) | [Tessas Hævn \(Igen Bitch\)](https://open.spotify.com/album/0fpVZ3AwZeu6EWKuYB1ZEZ) | 2:16 | 2023-09-21 | 2024-02-09 |
 | [HÅLL KÄFTEN](https://open.spotify.com/track/748Ay0C89PjJfa3iEelLmH) | [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8) | [HÅLL KÄFTEN](https://open.spotify.com/album/1rwCQvCnCIzEkCVSECmJPe) | 2:07 | 2024-02-08 |  |
 | [I Care](https://open.spotify.com/track/05e7SNuOTnMpY6D39ZbNI6) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [I Care](https://open.spotify.com/album/3eEH7sepvY4yYG8DGly0ii) | 2:19 | 2023-11-09 | 2024-01-12 |
-| [Inga änglar \(Na na na\)](https://open.spotify.com/track/532hmJMBzkTyhVQTlHHUuJ) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Inga änglar \(Na na na\)](https://open.spotify.com/album/3jJmhnYy9Zif0lCkLQfv6J) | 3:14 | 2024-02-01 |  |
+| [Inga änglar \(Na na na\)](https://open.spotify.com/track/532hmJMBzkTyhVQTlHHUuJ) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Inga änglar \(Na na na\)](https://open.spotify.com/album/3jJmhnYy9Zif0lCkLQfv6J) | 3:14 | 2024-02-01 | 2024-02-22 |
+| [Inga änglar \(Na na na\)](https://open.spotify.com/track/6Z81UrPb8kWlzO4bP0ETzo) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Nya Hits](https://open.spotify.com/album/3IAEBiMpkBwgSzMYQUjojd) | 3:14 | 2024-02-15 |  |
 | [jeg har stream](https://open.spotify.com/track/0GGwFY0Wh72UJ1x934E2Kl) | [B\-Boy Myhre](https://open.spotify.com/artist/7H788ePZvqYPv7MxfLt3rj) | [sitter inne](https://open.spotify.com/album/1rVBiTR6WE7TpJ3CI35SD9) | 1:17 | 2023-11-09 | 2023-12-09 |
 | [Ka Kac](https://open.spotify.com/track/66rngPnLy4VNXRsTUWaUSw) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [SKAPAD AV SMÄRTAN](https://open.spotify.com/album/5JgB4y6k3WdxG5sVKfUzbp) | 2:41 | 2023-09-21 | 2023-12-19 |
 | [KALASH](https://open.spotify.com/track/5yT7K64oCQTH9nlWDVP2a9) | [HAVAL](https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt) | [KALASH](https://open.spotify.com/album/2vPQjrPL4biW6F8s2y2A1f) | 2:10 | 2023-09-21 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwtERXCS82H.md) - [plain]
 
 > Calm and quiet piano music for reading.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,123,348 likes - 296 songs - 12 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,123,680 likes - 296 songs - 12 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -305,4 +305,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwtERXCS82H.md) - [plain]
 | 295 | [Small River](https://open.spotify.com/track/283b63a2Vz7UwLFGiPNcln) | [Ludwig Lloyd](https://open.spotify.com/artist/4daTfKKnYKUlMaxDMGZH9K) | [Small River](https://open.spotify.com/album/4KgOAj9Yq69syNN2mqw3dI) | 2:04 |
 | 296 | [Darfur](https://open.spotify.com/track/2Z82bNIH22cl7KbEmbgYsg) | [Regan O'leary](https://open.spotify.com/artist/1yg5ZzuhPtFiSx96ztMhub) | [Dynjandi](https://open.spotify.com/album/6ZNUdRVZ8XXAaGSpCQczkZ) | 2:30 |
 
-Snapshot ID: `MCw1YmQwNzhlNzFjYzE5MzIwMDZiZWEwNDA0ZjYyMDY3MDkzMmVmMTZk`
+Snapshot ID: `MCw1Y2NhMGFlZDk4MjQxZGY5OGExZTNjNGM1YmI5NTgyZDQ3ZTljYTFj`

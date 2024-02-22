@@ -1,5 +1,5 @@
 {
-  "2024-02-21": 5444,
+  "2024-02-22": 5445,
   "date_first_scraped": "2022-08-06",
   "description": "This is Ma Rainey. The essential tracks, all in one playlist.",
   "name": "This Is Ma Rainey",
@@ -471,7 +471,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-19",
+      "date_removed": null,
       "duration_ms": 191608,
       "name": "Booze And Blues",
       "url": "https://open.spotify.com/track/1SF9hCpHJ6gZ6FVz1heNA1"
@@ -835,7 +835,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-20",
+      "date_removed": null,
       "duration_ms": 182493,
       "name": "Deep Moaning Blues: 1",
       "url": "https://open.spotify.com/track/71880lDX9ffJjkZp4n0bTb"
@@ -1627,7 +1627,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 189080,
       "name": "Leaving This Morning",
       "url": "https://open.spotify.com/track/6R73IyuMx4cbGXRkEXgHQZ"
@@ -1987,7 +1987,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-20",
+      "date_removed": null,
       "duration_ms": 161593,
       "name": "Misery Blues",
       "url": "https://open.spotify.com/track/6tcfRhVILM8brsQr2dj3qK"
@@ -2455,7 +2455,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-15",
+      "date_removed": null,
       "duration_ms": 195493,
       "name": "See See Rider Blues",
       "url": "https://open.spotify.com/track/0zUUGSlU5QbKwsS49EqGge"
@@ -2473,7 +2473,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 193358,
       "name": "See See Rider Blues (Take 1)",
       "url": "https://open.spotify.com/track/0YZnvHqwtoev2MwObrNmed"
@@ -2491,7 +2491,7 @@
       ],
       "date_added": "2022-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 176933,
       "name": "Seeking Blues",
       "url": "https://open.spotify.com/track/1th7qfd7DUmwMIR10ucMRV"
@@ -2617,7 +2617,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 193733,
       "name": "Sleep Talking Blues (Take 1)",
       "url": "https://open.spotify.com/track/7GNYi4PQU0MW6DFO28vTe2"
@@ -2707,7 +2707,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-20",
+      "date_removed": null,
       "duration_ms": 193440,
       "name": "South Bound Blues",
       "url": "https://open.spotify.com/track/2tQE6qOe4g80GxmlD6J4Vj"
@@ -2851,7 +2851,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 187853,
       "name": "Those All Night Blues",
       "url": "https://open.spotify.com/track/3NWcy10odYa4dR9k1bZt8D"
@@ -3265,7 +3265,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 182465,
       "name": "Yonder Come The Blues",
       "url": "https://open.spotify.com/track/3yh8U9XVznJKRVGqqabHEf"

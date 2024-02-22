@@ -1,12 +1,12 @@
 {
   "description": "Canciones chill para ayudarte a bajar.",
-  "num_followers": 15545,
+  "num_followers": 15554,
   "original_name": "Pop Relax",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NjAxMmU5NjQ2MDMwNjBhMzI2NGFjMDEwYjAzMTAyZDQ2OTI3ZTUz",
+  "snapshot_id": "MCxmNGEwNWNkODQwYjQ4ODkyYWVlOTM3ZmQyOWIwZTAzMDc0YzkxYjIw",
   "tracks": [
     {
       "added_at": "2024-02-15 20:20:16",
@@ -403,22 +403,6 @@
     {
       "added_at": "2024-02-15 20:20:16",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2kJnIPJHIRZlfOx0TZEKBP"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 233617,
-      "name": "I Knew You Were Trouble - Spotify Singles",
-      "url": "https://open.spotify.com/track/30QYxvXOJZhGBF6DvpNb8w"
-    },
-    {
-      "added_at": "2024-02-15 20:20:16",
-      "album": {
         "name": "Missing Piece",
         "url": "https://open.spotify.com/album/6zQCdokfVne8dFU5Z5BpS3"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 217408,
       "name": "Missing Piece",
       "url": "https://open.spotify.com/track/5YqdiryRmdAzYFlxo43hAJ"
+    },
+    {
+      "added_at": "2024-02-15 20:20:16",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2kJnIPJHIRZlfOx0TZEKBP"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 233617,
+      "name": "I Knew You Were Trouble - Spotify Singles",
+      "url": "https://open.spotify.com/track/30QYxvXOJZhGBF6DvpNb8w"
     },
     {
       "added_at": "2024-02-15 20:20:16",
@@ -735,18 +735,18 @@
     {
       "added_at": "2024-02-15 20:20:16",
       "album": {
-        "name": "ACOUSTIC SESSION",
-        "url": "https://open.spotify.com/album/3KAXRhZrmuSvoPTiKX20J7"
+        "name": "Respirar",
+        "url": "https://open.spotify.com/album/5tMtH0kJcq8yPCTBTyIWWN"
       },
       "artists": [
         {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
         }
       ],
-      "duration_ms": 161000,
-      "name": "CORAZ\u00d3N VAC\u00cdO",
-      "url": "https://open.spotify.com/track/7IXUNuBYPd6sreTGL6jiW2"
+      "duration_ms": 199080,
+      "name": "Respirar",
+      "url": "https://open.spotify.com/track/2vEWdPXczuJoK6cim5jxK5"
     },
     {
       "added_at": "2024-02-15 20:20:16",
@@ -767,38 +767,34 @@
     {
       "added_at": "2024-02-15 20:20:16",
       "album": {
-        "name": "Respirar",
-        "url": "https://open.spotify.com/album/5tMtH0kJcq8yPCTBTyIWWN"
+        "name": "ACOUSTIC SESSION",
+        "url": "https://open.spotify.com/album/3KAXRhZrmuSvoPTiKX20J7"
       },
       "artists": [
         {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
         }
       ],
-      "duration_ms": 199080,
-      "name": "Respirar",
-      "url": "https://open.spotify.com/track/2vEWdPXczuJoK6cim5jxK5"
+      "duration_ms": 161000,
+      "name": "CORAZ\u00d3N VAC\u00cdO",
+      "url": "https://open.spotify.com/track/7IXUNuBYPd6sreTGL6jiW2"
     },
     {
       "added_at": "2024-02-15 20:20:16",
       "album": {
-        "name": "Cure For Me (feat. Silvana Estrada) [Live]",
-        "url": "https://open.spotify.com/album/4DDaWo4xz93U8e9BTTaLGI"
+        "name": "Pensando en Ti",
+        "url": "https://open.spotify.com/album/0DsdrB2awxK94OuFpBl3cH"
       },
       "artists": [
         {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
-        },
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
         }
       ],
-      "duration_ms": 231285,
-      "name": "Cure For Me (feat. Silvana Estrada) - Live",
-      "url": "https://open.spotify.com/track/6PzoioDNJ88Vpgd9ZmyOVG"
+      "duration_ms": 173206,
+      "name": "Pensando en Ti",
+      "url": "https://open.spotify.com/track/56oRryxhnnkwWbARsyBuaM"
     },
     {
       "added_at": "2024-02-15 20:20:16",
@@ -819,18 +815,22 @@
     {
       "added_at": "2024-02-15 20:20:16",
       "album": {
-        "name": "Pensando en Ti",
-        "url": "https://open.spotify.com/album/0DsdrB2awxK94OuFpBl3cH"
+        "name": "Cure For Me (feat. Silvana Estrada) [Live]",
+        "url": "https://open.spotify.com/album/4DDaWo4xz93U8e9BTTaLGI"
       },
       "artists": [
         {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        },
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
         }
       ],
-      "duration_ms": 173206,
-      "name": "Pensando en Ti",
-      "url": "https://open.spotify.com/track/56oRryxhnnkwWbARsyBuaM"
+      "duration_ms": 231285,
+      "name": "Cure For Me (feat. Silvana Estrada) - Live",
+      "url": "https://open.spotify.com/track/6PzoioDNJ88Vpgd9ZmyOVG"
     },
     {
       "added_at": "2024-02-15 20:20:16",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-02-15 20:20:16",
       "album": {
-        "name": "Entr\u00e9gate",
-        "url": "https://open.spotify.com/album/72cfqHGrPSyunjF29CPcF4"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 191232,
-      "name": "Entr\u00e9gate",
-      "url": "https://open.spotify.com/track/5ZDQSDUVyBDesqJxWrWsnv"
-    },
-    {
-      "added_at": "2024-02-15 20:20:16",
-      "album": {
         "name": "Un D\u00eda De Estos",
         "url": "https://open.spotify.com/album/7GYjoCpQw3PHkcfAVmpNzL"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 149955,
       "name": "Un D\u00eda De Estos",
       "url": "https://open.spotify.com/track/7rsRu5kV7CMuVGJulafxLs"
+    },
+    {
+      "added_at": "2024-02-15 20:20:16",
+      "album": {
+        "name": "Entr\u00e9gate",
+        "url": "https://open.spotify.com/album/72cfqHGrPSyunjF29CPcF4"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 191232,
+      "name": "Entr\u00e9gate",
+      "url": "https://open.spotify.com/track/5ZDQSDUVyBDesqJxWrWsnv"
     },
     {
       "added_at": "2024-02-15 20:20:16",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2024-02-15 20:20:16",
       "album": {
+        "name": "Te Vi Llegar",
+        "url": "https://open.spotify.com/album/2zfz1eDKYqFNonW0krxxPa"
+      },
+      "artists": [
+        {
+          "name": "Gonzalo \u00c1vila",
+          "url": "https://open.spotify.com/artist/4PuwS1TZc8ybMnXxgUIOn6"
+        }
+      ],
+      "duration_ms": 121621,
+      "name": "Te Vi Llegar",
+      "url": "https://open.spotify.com/track/3nCpJyVWHs4kZEt7YHMmlu"
+    },
+    {
+      "added_at": "2024-02-15 20:20:16",
+      "album": {
         "name": "Aries",
         "url": "https://open.spotify.com/album/5UDENHnOZGZhPbjsItZaRx"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 149900,
       "name": "Me Gustas T\u00fa",
       "url": "https://open.spotify.com/track/5rKuJ17ulyXWrqtLKS4sFM"
-    },
-    {
-      "added_at": "2024-02-15 20:20:16",
-      "album": {
-        "name": "Te Vi Llegar",
-        "url": "https://open.spotify.com/album/2zfz1eDKYqFNonW0krxxPa"
-      },
-      "artists": [
-        {
-          "name": "Gonzalo \u00c1vila",
-          "url": "https://open.spotify.com/artist/4PuwS1TZc8ybMnXxgUIOn6"
-        }
-      ],
-      "duration_ms": 121621,
-      "name": "Te Vi Llegar",
-      "url": "https://open.spotify.com/track/3nCpJyVWHs4kZEt7YHMmlu"
     }
   ],
   "unique_name": "Pop Relax",

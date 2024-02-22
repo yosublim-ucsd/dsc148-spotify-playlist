@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica para acompa\u00f1ar esas rondas interminables de mate.",
-  "num_followers": 744048,
+  "num_followers": 744146,
   "original_name": "Mates y M\u00fasica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZDNiNzdkMThiZWYxZDRmOTA1ZWRjYWExMmRlMDBlYmUxNmExZWU4",
+  "snapshot_id": "MCxjODI2ZTFmOGQ0OTY1ZDMxOGU4MWQ1NTAwMDNiODVlYWNjMTNhNmQy",
   "tracks": [
     {
       "added_at": "2024-02-16 03:00:00",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-02-16 03:00:00",
       "album": {
-        "name": "Para Mi para Vos",
-        "url": "https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu"
-      },
-      "artists": [
-        {
-          "name": "Turf",
-          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
-        }
-      ],
-      "duration_ms": 256555,
-      "name": "Pasos Al Costado",
-      "url": "https://open.spotify.com/track/7upAH0ezzsThyvr33YKn4u"
-    },
-    {
-      "added_at": "2024-02-16 03:00:00",
-      "album": {
         "name": "Piano Bar",
         "url": "https://open.spotify.com/album/17utekM9a95MchXbkbh47k"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 135973,
       "name": "Demoliendo Hoteles",
       "url": "https://open.spotify.com/track/29iIRrSuANyjnwag69PHOJ"
+    },
+    {
+      "added_at": "2024-02-16 03:00:00",
+      "album": {
+        "name": "Para Mi para Vos",
+        "url": "https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu"
+      },
+      "artists": [
+        {
+          "name": "Turf",
+          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
+        }
+      ],
+      "duration_ms": 256555,
+      "name": "Pasos Al Costado",
+      "url": "https://open.spotify.com/track/7upAH0ezzsThyvr33YKn4u"
     },
     {
       "added_at": "2024-02-16 03:00:00",
@@ -567,30 +567,6 @@
       "duration_ms": 247453,
       "name": "Un Osito de Peluche de Taiw\u00e1n",
       "url": "https://open.spotify.com/track/6iCnJkKswtMYoSmT58HmEn"
-    },
-    {
-      "added_at": "2024-02-16 03:00:00",
-      "album": {
-        "name": "TOCO Y ME VOY",
-        "url": "https://open.spotify.com/album/0bvRbFXgJO6qOGTCSP53qj"
-      },
-      "artists": [
-        {
-          "name": "Luck Ra",
-          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
-        },
-        {
-          "name": "Bersuit Vergarabat",
-          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
-        },
-        {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
-        }
-      ],
-      "duration_ms": 226082,
-      "name": "TOCO Y ME VOY",
-      "url": "https://open.spotify.com/track/7jiZV8G6LpEGdiPY2zs6BV"
     },
     {
       "added_at": "2024-02-16 03:00:00",
@@ -643,26 +619,6 @@
     {
       "added_at": "2024-02-16 03:00:00",
       "album": {
-        "name": "Coti",
-        "url": "https://open.spotify.com/album/7wv093HeXvQuJZvOD6m2gG"
-      },
-      "artists": [
-        {
-          "name": "Coti",
-          "url": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
-        },
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 207880,
-      "name": "Nada Fue Un Error",
-      "url": "https://open.spotify.com/track/1Ev18ptTlc3CBQMmKsIfjY"
-    },
-    {
-      "added_at": "2024-02-16 03:00:00",
-      "album": {
         "name": "Otras Canciones",
         "url": "https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D"
       },
@@ -679,6 +635,50 @@
       "duration_ms": 319393,
       "name": "Chau",
       "url": "https://open.spotify.com/track/3uP1USIwwDpOA8uw0LjY2P"
+    },
+    {
+      "added_at": "2024-02-16 03:00:00",
+      "album": {
+        "name": "TOCO Y ME VOY",
+        "url": "https://open.spotify.com/album/0bvRbFXgJO6qOGTCSP53qj"
+      },
+      "artists": [
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        },
+        {
+          "name": "Bersuit Vergarabat",
+          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
+        },
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        }
+      ],
+      "duration_ms": 226082,
+      "name": "TOCO Y ME VOY",
+      "url": "https://open.spotify.com/track/7jiZV8G6LpEGdiPY2zs6BV"
+    },
+    {
+      "added_at": "2024-02-16 03:00:00",
+      "album": {
+        "name": "Coti",
+        "url": "https://open.spotify.com/album/7wv093HeXvQuJZvOD6m2gG"
+      },
+      "artists": [
+        {
+          "name": "Coti",
+          "url": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
+        },
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "duration_ms": 207880,
+      "name": "Nada Fue Un Error",
+      "url": "https://open.spotify.com/track/1Ev18ptTlc3CBQMmKsIfjY"
     },
     {
       "added_at": "2024-02-16 03:00:00",
@@ -783,6 +783,22 @@
     {
       "added_at": "2024-02-16 03:00:00",
       "album": {
+        "name": "Lobo Suelto",
+        "url": "https://open.spotify.com/album/1cvN5QA28nC5QYpjoksMGe"
+      },
+      "artists": [
+        {
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+        }
+      ],
+      "duration_ms": 231533,
+      "name": "Un \u00c1ngel para Tu Soledad",
+      "url": "https://open.spotify.com/track/6kUopck7LHVadAjAFcXiTj"
+    },
+    {
+      "added_at": "2024-02-16 03:00:00",
+      "album": {
         "name": "Locura",
         "url": "https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r"
       },
@@ -799,18 +815,18 @@
     {
       "added_at": "2024-02-16 03:00:00",
       "album": {
-        "name": "Lobo Suelto",
-        "url": "https://open.spotify.com/album/1cvN5QA28nC5QYpjoksMGe"
+        "name": "Narig\u00f3n del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre",
+        "url": "https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU"
       },
       "artists": [
         {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
         }
       ],
-      "duration_ms": 231533,
-      "name": "Un \u00c1ngel para Tu Soledad",
-      "url": "https://open.spotify.com/track/6kUopck7LHVadAjAFcXiTj"
+      "duration_ms": 212880,
+      "name": "Spaghetti del Rock",
+      "url": "https://open.spotify.com/track/6rg1MBZqggsQ5olFGTw0rr"
     },
     {
       "added_at": "2024-02-16 03:00:00",
@@ -831,22 +847,6 @@
       "duration_ms": 249306,
       "name": "Loco (Tu Forma de Ser) [Ft. Rub\u00e9n Albarr\u00e1n] - MTV Unplugged",
       "url": "https://open.spotify.com/track/0639sfoRA7sW4fGS1EzcQu"
-    },
-    {
-      "added_at": "2024-02-16 03:00:00",
-      "album": {
-        "name": "Narig\u00f3n del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre",
-        "url": "https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU"
-      },
-      "artists": [
-        {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
-        }
-      ],
-      "duration_ms": 212880,
-      "name": "Spaghetti del Rock",
-      "url": "https://open.spotify.com/track/6rg1MBZqggsQ5olFGTw0rr"
     },
     {
       "added_at": "2024-02-16 03:00:00",
@@ -947,18 +947,18 @@
     {
       "added_at": "2024-02-16 03:00:00",
       "album": {
-        "name": "Con la Misma Moneda",
-        "url": "https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc"
+        "name": "La Sintesis O'Konor",
+        "url": "https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK"
       },
       "artists": [
         {
-          "name": "Karina",
-          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
         }
       ],
-      "duration_ms": 202440,
-      "name": "D\u00edganle",
-      "url": "https://open.spotify.com/track/7Gc9iCkANNOlw32jQCemjz"
+      "duration_ms": 271400,
+      "name": "El Tesoro",
+      "url": "https://open.spotify.com/track/7HmuloxW2LLiPu0lcmkjoq"
     },
     {
       "added_at": "2024-02-16 03:00:00",
@@ -979,18 +979,18 @@
     {
       "added_at": "2024-02-16 03:00:00",
       "album": {
-        "name": "La Sintesis O'Konor",
-        "url": "https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK"
+        "name": "Con la Misma Moneda",
+        "url": "https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc"
       },
       "artists": [
         {
-          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
-          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+          "name": "Karina",
+          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
         }
       ],
-      "duration_ms": 271400,
-      "name": "El Tesoro",
-      "url": "https://open.spotify.com/track/7HmuloxW2LLiPu0lcmkjoq"
+      "duration_ms": 202440,
+      "name": "D\u00edganle",
+      "url": "https://open.spotify.com/track/7Gc9iCkANNOlw32jQCemjz"
     },
     {
       "added_at": "2024-02-16 03:00:00",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2024-02-16 03:00:00",
       "album": {
+        "name": "Nunca Lo Olvides",
+        "url": "https://open.spotify.com/album/6ZDbOUt4FRdFgQEbhJyFui"
+      },
+      "artists": [
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+        }
+      ],
+      "duration_ms": 299810,
+      "name": "Nunca Lo Olvides",
+      "url": "https://open.spotify.com/track/1qAMb1y3o7Olwm8pYTuzyV"
+    },
+    {
+      "added_at": "2024-02-16 03:00:00",
+      "album": {
         "name": "Amor (Ft. Mon Laferte) (Mtv Unplugged)",
         "url": "https://open.spotify.com/album/6CNdw6WvNlH86Y0h3rVQtw"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 202063,
       "name": "A Las Nueve",
       "url": "https://open.spotify.com/track/68cko9zdsKwaxgb98sF36S"
-    },
-    {
-      "added_at": "2024-02-16 03:00:00",
-      "album": {
-        "name": "Nunca Lo Olvides",
-        "url": "https://open.spotify.com/album/6ZDbOUt4FRdFgQEbhJyFui"
-      },
-      "artists": [
-        {
-          "name": "Airbag",
-          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
-        }
-      ],
-      "duration_ms": 299810,
-      "name": "Nunca Lo Olvides",
-      "url": "https://open.spotify.com/track/1qAMb1y3o7Olwm8pYTuzyV"
     },
     {
       "added_at": "2024-02-16 03:00:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-02-16 03:00:00",
       "album": {
-        "name": "Hacer Un Puente",
-        "url": "https://open.spotify.com/album/06HEYHOCM5fZXKhp3ox9ld"
-      },
-      "artists": [
-        {
-          "name": "La Franela",
-          "url": "https://open.spotify.com/artist/5P57GCRyvU7ln5GwNXU8ku"
-        }
-      ],
-      "duration_ms": 282958,
-      "name": "Hacer un puente",
-      "url": "https://open.spotify.com/track/18Q3WTfyWX1tdS1cp42NhA"
-    },
-    {
-      "added_at": "2024-02-16 03:00:00",
-      "album": {
         "name": "Sistema Nervioso Central",
         "url": "https://open.spotify.com/album/6IbJShCtiqesFKNWnNfZp4"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 242932,
       "name": "Un Dia Perfecto",
       "url": "https://open.spotify.com/track/5w3GTe4W2fHBC3tLnqCr1B"
+    },
+    {
+      "added_at": "2024-02-16 03:00:00",
+      "album": {
+        "name": "Hacer Un Puente",
+        "url": "https://open.spotify.com/album/06HEYHOCM5fZXKhp3ox9ld"
+      },
+      "artists": [
+        {
+          "name": "La Franela",
+          "url": "https://open.spotify.com/artist/5P57GCRyvU7ln5GwNXU8ku"
+        }
+      ],
+      "duration_ms": 282958,
+      "name": "Hacer un puente",
+      "url": "https://open.spotify.com/track/18Q3WTfyWX1tdS1cp42NhA"
     },
     {
       "added_at": "2024-02-16 03:00:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2024-02-16 03:00:00",
       "album": {
-        "name": "Mejor Que Nunca",
-        "url": "https://open.spotify.com/album/0MIp2J88uFC5z0y00SmmdT"
-      },
-      "artists": [
-        {
-          "name": "Los Manseros Santiague\u00f1os",
-          "url": "https://open.spotify.com/artist/0IAWTLWnUIzKVQDTGoYJk2"
-        }
-      ],
-      "duration_ms": 221986,
-      "name": "Eterno Amor",
-      "url": "https://open.spotify.com/track/4fhQ48hixjThGi2za030We"
-    },
-    {
-      "added_at": "2024-02-16 03:00:00",
-      "album": {
         "name": "Verte",
         "url": "https://open.spotify.com/album/3NXbwVxHga0cmLdnRIDX64"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 253933,
       "name": "El Farolito",
       "url": "https://open.spotify.com/track/5QpdTr2fHXLF0Oj8TcGHmV"
+    },
+    {
+      "added_at": "2024-02-16 03:00:00",
+      "album": {
+        "name": "Mejor Que Nunca",
+        "url": "https://open.spotify.com/album/0MIp2J88uFC5z0y00SmmdT"
+      },
+      "artists": [
+        {
+          "name": "Los Manseros Santiague\u00f1os",
+          "url": "https://open.spotify.com/artist/0IAWTLWnUIzKVQDTGoYJk2"
+        }
+      ],
+      "duration_ms": 221986,
+      "name": "Eterno Amor",
+      "url": "https://open.spotify.com/track/4fhQ48hixjThGi2za030We"
     },
     {
       "added_at": "2024-02-16 03:00:00",

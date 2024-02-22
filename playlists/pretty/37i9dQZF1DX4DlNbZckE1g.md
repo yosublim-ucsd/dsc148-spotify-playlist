@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DlNbZckE1g.md) - [plain]
 
 > Lose yourself in the summer daze...
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,918 likes - 107 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,923 likes - 107 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DlNbZckE1g.md) - [plain]
 | 10 | [Rose Pink Cadillac](https://open.spotify.com/track/5J59tqY0Ad4r27tJJajzyB) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Rose Pink Cadillac](https://open.spotify.com/album/2VaOn32haUapQOYnerK32W) | 4:21 |
 | 11 | [dancing](https://open.spotify.com/track/2blNIRZz1KKV4fAC5OgI1o) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [There is no Neil Frances](https://open.spotify.com/album/4dIcsXIElacBzTpnDo3j3M) | 2:54 |
 | 12 | [help herself](https://open.spotify.com/track/3ZLdTqGr8k1vlBQmuKHr8z) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Diamond Pistols](https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [help herself](https://open.spotify.com/album/5skHJxydaf7GGZqMAJLv10) | 2:46 |
-| 13 | [Say Nothing \(feat\. MAY\-A\)](https://open.spotify.com/track/424Uwmm1kNW07Ty1nOhSpl) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Say Nothing \(feat\. MAY\-A\)](https://open.spotify.com/album/3QMl37rC1ye7PKRFH7Bgz9) | 3:52 |
+| 13 | [Say Nothing \(feat\. MAY\-A\)](https://open.spotify.com/track/4uBgAIrCRf8ed02XbNKdBQ) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Palaces](https://open.spotify.com/album/6SZtno2XqSmfr5MKsNeXmC) | 3:52 |
 | 14 | [About U](https://open.spotify.com/track/2jBXxytea8dHAOZqIB3pHL) | [Cabu](https://open.spotify.com/artist/44hPDOKyTwkFxOL08UzNQE), [Kamaliza](https://open.spotify.com/artist/6YUQJ6WF4FGDqqBQ1LTjL6) | [So Far to Go](https://open.spotify.com/album/2xVOsuiQzvlvkKBIVXxjtc) | 2:57 |
 | 15 | [FOREVER](https://open.spotify.com/track/6JJ1URTERzj7LcqKpRsvMT) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [FOREVER](https://open.spotify.com/album/6kzRU9QtsTrhlObao5Eb3t) | 3:48 |
 | 16 | [Touch Back Down](https://open.spotify.com/track/12E7bqGAKIVLmx0aPA0x1V) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Touch Back Down](https://open.spotify.com/album/5LfsDu8m8AKyIljMVTu0BZ) | 4:16 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DlNbZckE1g.md) - [plain]
 | 106 | [World Is Fucked](https://open.spotify.com/track/0BNfXrlaLhVynRYbMHV1N9) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [World Is Fucked](https://open.spotify.com/album/3uOuX5ziHrQkD7ULfT87Gs) | 2:52 |
 | 107 | [All That \(feat\. Channel Tres\)](https://open.spotify.com/track/5rzndDb4DgVkOsIsfbRv0q) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [The Juicebox](https://open.spotify.com/album/2EpbqvHpamUFsBboRaSbG1) | 3:05 |
 
-Snapshot ID: `MCw2YTIwMzJlYzVkNTU5NWUwODNhNjY0NjIzODExZmQ1ZjQ3ZjkzNzkx`
+Snapshot ID: `MCwyMGI0MjZhMGQ0M2I2NWY0MzRjZWY4Y2UyNGEyOGI3Mjk3ZDA3NDkw`

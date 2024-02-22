@@ -1,12 +1,12 @@
 {
   "description": "Romance a la antig\u00fcita con \u00c1ngela Aguilar en portada.",
-  "num_followers": 531378,
+  "num_followers": 531505,
   "original_name": "Boleros Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NjBjMjZhZTY5NGIxNWU1N2U3ZDBhY2I0NzMwYTM1ZTM1NzcyZTYy",
+  "snapshot_id": "MCwxY2E2NTIwODk2ZDAyYWY4OWVkYzExYjdiODI5ZjQzZjcxNzE2Zjg4",
   "tracks": [
     {
       "added_at": "2024-02-16 06:00:00",
@@ -1235,22 +1235,18 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
-        "name": "Tu Camisa",
-        "url": "https://open.spotify.com/album/6fYQvDMkyLG4g0WruzRBbV"
+        "name": "Solo Boleros",
+        "url": "https://open.spotify.com/album/4Pfgh3WJiJH1FUtwiI3oxD"
       },
       "artists": [
         {
-          "name": "Escarlata",
-          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
-        },
-        {
-          "name": "Shantty",
-          "url": "https://open.spotify.com/artist/0CkTbu5dfB2RWaQWzE2cDd"
+          "name": "Kika Edgar",
+          "url": "https://open.spotify.com/artist/2QTmeZpVjHmIoYSRwsoucA"
         }
       ],
-      "duration_ms": 188139,
-      "name": "Tu Camisa",
-      "url": "https://open.spotify.com/track/6ZbiPemrNyXHLHLZ8Bf85y"
+      "duration_ms": 178925,
+      "name": "Cuando Vuelva a Tu Lado",
+      "url": "https://open.spotify.com/track/1TtvU2uSTwTaqloJwGItk7"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -1267,22 +1263,6 @@
       "duration_ms": 204506,
       "name": "Adi\u00f3s Amor",
       "url": "https://open.spotify.com/track/23KAto4gDqUxFqTtpqtH9m"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
-        "name": "Solo Boleros",
-        "url": "https://open.spotify.com/album/4Pfgh3WJiJH1FUtwiI3oxD"
-      },
-      "artists": [
-        {
-          "name": "Kika Edgar",
-          "url": "https://open.spotify.com/artist/2QTmeZpVjHmIoYSRwsoucA"
-        }
-      ],
-      "duration_ms": 178925,
-      "name": "Cuando Vuelva a Tu Lado",
-      "url": "https://open.spotify.com/track/1TtvU2uSTwTaqloJwGItk7"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -1323,6 +1303,26 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
+        "name": "Tu Camisa",
+        "url": "https://open.spotify.com/album/6fYQvDMkyLG4g0WruzRBbV"
+      },
+      "artists": [
+        {
+          "name": "Escarlata",
+          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
+        },
+        {
+          "name": "Shantty",
+          "url": "https://open.spotify.com/artist/0CkTbu5dfB2RWaQWzE2cDd"
+        }
+      ],
+      "duration_ms": 188139,
+      "name": "Tu Camisa",
+      "url": "https://open.spotify.com/track/6ZbiPemrNyXHLHLZ8Bf85y"
+    },
+    {
+      "added_at": "2024-02-16 06:00:00",
+      "album": {
         "name": "Tengo",
         "url": "https://open.spotify.com/album/2cqrUCizJahsIfhzgE1uH8"
       },
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
-        "name": "Bolero Estelar",
-        "url": "https://open.spotify.com/album/5m0fMRnEneLg8pZaoL9F4E"
-      },
-      "artists": [
-        {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
-        }
-      ],
-      "duration_ms": 238406,
-      "name": "Bolero Estelar",
-      "url": "https://open.spotify.com/track/46ZNN9JUQFl0LXiTLKKkMZ"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
         "name": "Ac\u00fastico En Vivo",
         "url": "https://open.spotify.com/album/21W89hohyAUqNiLMKGYiZn"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 272226,
       "name": "Este Terco Coraz\u00f3n - En Vivo Los Estudios Churubusco M\u00e9xico DF/2011",
       "url": "https://open.spotify.com/track/0zWa5MVujd2PUiqRnXxTmU"
+    },
+    {
+      "added_at": "2024-02-16 06:00:00",
+      "album": {
+        "name": "Bolero Estelar",
+        "url": "https://open.spotify.com/album/5m0fMRnEneLg8pZaoL9F4E"
+      },
+      "artists": [
+        {
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+        }
+      ],
+      "duration_ms": 238406,
+      "name": "Bolero Estelar",
+      "url": "https://open.spotify.com/track/46ZNN9JUQFl0LXiTLKKkMZ"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -1419,26 +1419,6 @@
       "duration_ms": 165173,
       "name": "En la Orilla del Mar",
       "url": "https://open.spotify.com/track/1RYZwlDS2wt1rj0c249X7x"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
-        "name": "Carrusel",
-        "url": "https://open.spotify.com/album/1eEyI8J2laUbl3W924B6i0"
-      },
-      "artists": [
-        {
-          "name": "NIA",
-          "url": "https://open.spotify.com/artist/6pWfZsh4oMfM4lRITDxtfw"
-        },
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        }
-      ],
-      "duration_ms": 174255,
-      "name": "Carrusel",
-      "url": "https://open.spotify.com/track/5UgejVx60yHvneYj4asi8s"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -1491,22 +1471,22 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
-        "name": "\u00d3diame",
-        "url": "https://open.spotify.com/album/4i56u98co2Jrz0krusaCtt"
+        "name": "Carrusel",
+        "url": "https://open.spotify.com/album/1eEyI8J2laUbl3W924B6i0"
       },
       "artists": [
         {
-          "name": "Flor Amargo",
-          "url": "https://open.spotify.com/artist/7CcCaAFz7j2igNmrHpieIb"
+          "name": "NIA",
+          "url": "https://open.spotify.com/artist/6pWfZsh4oMfM4lRITDxtfw"
         },
         {
-          "name": "Michelle Rodriguez",
-          "url": "https://open.spotify.com/artist/2OhJipX1VIY7Dyba4uGvWb"
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
         }
       ],
-      "duration_ms": 193130,
-      "name": "\u00d3diame",
-      "url": "https://open.spotify.com/track/5QBKmig3mYQawgaDJUwYbo"
+      "duration_ms": 174255,
+      "name": "Carrusel",
+      "url": "https://open.spotify.com/track/5UgejVx60yHvneYj4asi8s"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -1527,6 +1507,26 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
+        "name": "\u00d3diame",
+        "url": "https://open.spotify.com/album/4i56u98co2Jrz0krusaCtt"
+      },
+      "artists": [
+        {
+          "name": "Flor Amargo",
+          "url": "https://open.spotify.com/artist/7CcCaAFz7j2igNmrHpieIb"
+        },
+        {
+          "name": "Michelle Rodriguez",
+          "url": "https://open.spotify.com/artist/2OhJipX1VIY7Dyba4uGvWb"
+        }
+      ],
+      "duration_ms": 193130,
+      "name": "\u00d3diame",
+      "url": "https://open.spotify.com/track/5QBKmig3mYQawgaDJUwYbo"
+    },
+    {
+      "added_at": "2024-02-16 06:00:00",
+      "album": {
         "name": "Frenesi (2016 Remaster)",
         "url": "https://open.spotify.com/album/1D9QdIT6bueT23rSwp0C63"
       },
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
-        "name": "Necesito un Bolero [(Edici\u00f3n de Lujo)[En Vivo]]",
-        "url": "https://open.spotify.com/album/5J1eWhVg87VdgaEnN1PlVt"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 235453,
-      "name": "No Olvides Recordarme - En Vivo",
-      "url": "https://open.spotify.com/track/3ANmOzBDhOHsaaxZyoUd4j"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
         "name": "ya se me pasar\u00e1",
         "url": "https://open.spotify.com/album/4UdbepeAR4DDMLWR08MBxr"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 188250,
       "name": "bolero de desamor",
       "url": "https://open.spotify.com/track/7FS3QZg04oaKrtOgQjluVu"
+    },
+    {
+      "added_at": "2024-02-16 06:00:00",
+      "album": {
+        "name": "Necesito un Bolero [(Edici\u00f3n de Lujo)[En Vivo]]",
+        "url": "https://open.spotify.com/album/5J1eWhVg87VdgaEnN1PlVt"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 235453,
+      "name": "No Olvides Recordarme - En Vivo",
+      "url": "https://open.spotify.com/track/3ANmOzBDhOHsaaxZyoUd4j"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
-        "name": "Mano a Mano - Tangos a la Manera de Vicente Fern\u00e1ndez",
-        "url": "https://open.spotify.com/album/6sh6Vqdbu9mHsnWvsqyikC"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 193493,
-      "name": "Sombras - Sombras Nada M\u00e1s",
-      "url": "https://open.spotify.com/track/7HmD951OFt2D9PvYpsFBxY"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
         "name": "Los \u00c9xitos de Manolo Mu\u00f1oz",
         "url": "https://open.spotify.com/album/46tQkwTb6a16ZAyMEoZFeY"
       },
@@ -1699,18 +1683,18 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
-        "name": "todo pasa",
-        "url": "https://open.spotify.com/album/6i2mon8JnyWaNIFXzg4AjE"
+        "name": "Mano a Mano - Tangos a la Manera de Vicente Fern\u00e1ndez",
+        "url": "https://open.spotify.com/album/6sh6Vqdbu9mHsnWvsqyikC"
       },
       "artists": [
         {
-          "name": "Arroba Nat",
-          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 214790,
-      "name": "todo pasa",
-      "url": "https://open.spotify.com/track/2z8zcvzuYWU5aFtUEwq2W4"
+      "duration_ms": 193493,
+      "name": "Sombras - Sombras Nada M\u00e1s",
+      "url": "https://open.spotify.com/track/7HmD951OFt2D9PvYpsFBxY"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -1731,6 +1715,22 @@
       "duration_ms": 169145,
       "name": "El Perd\u00f3n (feat. Mon Laferte)",
       "url": "https://open.spotify.com/track/70b8lQmciDIfPQNNEpp3Sj"
+    },
+    {
+      "added_at": "2024-02-16 06:00:00",
+      "album": {
+        "name": "todo pasa",
+        "url": "https://open.spotify.com/album/6i2mon8JnyWaNIFXzg4AjE"
+      },
+      "artists": [
+        {
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+        }
+      ],
+      "duration_ms": 214790,
+      "name": "todo pasa",
+      "url": "https://open.spotify.com/track/2z8zcvzuYWU5aFtUEwq2W4"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -1767,18 +1767,18 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
-        "name": "Pensando en Ti",
-        "url": "https://open.spotify.com/album/3kB1sI0LNPuCy37KclNQnS"
+        "name": "Andr\u00e9s Cepeda Big Band (En Vivo)",
+        "url": "https://open.spotify.com/album/0Gpm0iuK5BKbrbX8FJKz1y"
       },
       "artists": [
         {
-          "name": "Sophie Dab",
-          "url": "https://open.spotify.com/artist/1ZMrCnWHjfB9u0rjGsM1Uj"
+          "name": "Andr\u00e9s Cepeda",
+          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
         }
       ],
-      "duration_ms": 156043,
-      "name": "Pensando en Ti",
-      "url": "https://open.spotify.com/track/7EK7rsSLo8vFQp5BXaM2Q1"
+      "duration_ms": 138960,
+      "name": "Sabor a Mi - En Vivo",
+      "url": "https://open.spotify.com/track/5y5x3qdMoimI7GFoKXD8Ps"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -1799,18 +1799,18 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
-        "name": "Andr\u00e9s Cepeda Big Band (En Vivo)",
-        "url": "https://open.spotify.com/album/0Gpm0iuK5BKbrbX8FJKz1y"
+        "name": "En las Noches",
+        "url": "https://open.spotify.com/album/2CPuqoB1XiRqOmmX6MUa5e"
       },
       "artists": [
         {
-          "name": "Andr\u00e9s Cepeda",
-          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
+          "name": "Daniela Escalante",
+          "url": "https://open.spotify.com/artist/00YbcwdtRDXKGvdpBsUfkd"
         }
       ],
-      "duration_ms": 138960,
-      "name": "Sabor a Mi - En Vivo",
-      "url": "https://open.spotify.com/track/5y5x3qdMoimI7GFoKXD8Ps"
+      "duration_ms": 239412,
+      "name": "En las Noches",
+      "url": "https://open.spotify.com/track/6rs3m0e1GYVFjLQaUXAiZ6"
     }
   ],
   "unique_name": "Boleros Pop",

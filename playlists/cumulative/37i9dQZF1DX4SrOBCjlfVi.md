@@ -4,7 +4,7 @@
 
 > All the New Joints featuring Gunna, Polo G, Schoolboy Q and more\. Cover: Yeat
 
-4,491 songs - 8 day 16 hr 55 min
+4,492 songs - 8 day 16 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2070,7 +2070,8 @@
 | [June 22nd](https://open.spotify.com/track/2uPyRKg62IcLFaGXXw0qEn) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [June 22nd](https://open.spotify.com/album/3T94lLozmbIFa4BiHNtkjC) | 3:10 | 2023-06-23 | 2023-07-01 |
 | [Jungle](https://open.spotify.com/track/76anofjGblYvXoOmXBAAy8) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [Jungle](https://open.spotify.com/album/3voD7pJszKgAqaa1EIHbG7) | 2:07 | 2023-12-08 | 2023-12-16 |
 | [Jungle](https://open.spotify.com/track/6E9eEBaz0Jsy5jHFltxFGO) | [Xavier Weeks](https://open.spotify.com/artist/1I87BJvTcv6gia06HaBl9e) | [Jungle](https://open.spotify.com/album/0sZy9usczXQQXDFgPHjPPj) | 2:09 | 2022-03-25 | 2022-04-02 |
-| [Jungle Music, Pt.1](https://open.spotify.com/track/3lHz5md9boT0yiIDRutanu) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Jungle Music, Pt.1](https://open.spotify.com/album/1u53HTtDzE94WWWoGFUCFy) | 3:05 | 2024-02-16 |  |
+| [Jungle Music, Pt.1](https://open.spotify.com/track/3lHz5md9boT0yiIDRutanu) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Jungle Music, Pt.1](https://open.spotify.com/album/1u53HTtDzE94WWWoGFUCFy) | 3:05 | 2024-02-16 | 2024-02-22 |
+| [Jungle Music, Pt.1](https://open.spotify.com/track/6igRiUF4wplkbTr2ecNx8Y) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Jungle Music, Pt.1](https://open.spotify.com/album/3YosaIj8eB3PHuQv5QGtB0) | 3:05 | 2024-02-16 |  |
 | [Jus Lef Harlem](https://open.spotify.com/track/29Z2GOijUFObjqbRAKGaVG) | [A$AP Twelvyy](https://open.spotify.com/artist/0tPjSrb43a58uznKru1k2P) | [Jus Lef Harlem](https://open.spotify.com/album/1CFw776NnOIjfXrRdyAXkS) | 2:34 | 2023-06-23 | 2023-07-01 |
 | [Just 4 Me](https://open.spotify.com/track/280IIfDu4nwz2yrZNUYw0Y) | [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [HBK](https://open.spotify.com/album/1xzgBS9qmcqPsZf4ZbC6tX) | 3:02 | 2023-07-28 | 2023-08-05 |
 | [Just A Fuck \(Funds\)](https://open.spotify.com/track/2jSLFFloIAHFyqAgp1RRl0) | [RJMrLA](https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN) | [Just A Fuck \(Funds\)](https://open.spotify.com/album/33hgZtMBY7CGTCBlm3zM7a) | 2:19 | 2024-02-02 | 2024-02-10 |
@@ -3431,7 +3432,7 @@
 | [Say Too Much](https://open.spotify.com/track/3ivlOgTCKS7zk1lXlZsebF) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [FCK GIRL SZN](https://open.spotify.com/album/6FtK5vQ8zUzVjQqAnJiuOV) | 3:13 | 2023-10-13 | 2023-10-21 |
 | [Saying What's Real](https://open.spotify.com/track/4qcsx4uVTngBACXLyxXJU0) | [PM FRVR](https://open.spotify.com/artist/4SmRyrJ26FTrDKG2OwDr3X) | [Saying What's Real](https://open.spotify.com/album/6HfOhgdy6binRfypn6yGWd) | 1:44 | 2023-04-07 | 2023-04-15 |
 | [Scared Money \(feat\. J\. Cole and Moneybagg Yo\)](https://open.spotify.com/track/4heBcjj4Lw3X2sQVFNbLbz) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Scared Money](https://open.spotify.com/album/3TsYjPFN8qCxcYWHL3DtL8) | 3:24 | 2022-02-04 | 2022-02-19 |
-| [Scared Money \(feat\. Kevin Durant\)](https://open.spotify.com/track/0IchVBfnDKMhViGonBA3j4) | [Stalley](https://open.spotify.com/artist/1wUmdemiR9Dxw8A2el365A), [Kevin Durant](https://open.spotify.com/artist/50jVoCjWS4E2ENknl1KIh6) | [Scared Money](https://open.spotify.com/album/7nmiiO0GYNkExhZveP4pOD) | 2:53 | 2024-02-16 |  |
+| [Scared Money \(feat\. Kevin Durant\)](https://open.spotify.com/track/0IchVBfnDKMhViGonBA3j4) | [Stalley](https://open.spotify.com/artist/1wUmdemiR9Dxw8A2el365A), [Kevin Durant](https://open.spotify.com/artist/0CFcWMZu68nAWFjuFg0jey) | [Scared Money](https://open.spotify.com/album/7nmiiO0GYNkExhZveP4pOD) | 2:53 | 2024-02-16 |  |
 | [Scared Of Us \(feat\. Hotboii\)](https://open.spotify.com/track/1fUEDgNrJIYE5MvwbRzYI8) | [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE), [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l) | [Scared Of Us \(feat\. Hotboii\)](https://open.spotify.com/album/0n2jKUz6VmLHlTXIF38x5R) | 2:40 | 2022-08-19 | 2022-08-27 |
 | [Scared To Lose You](https://open.spotify.com/track/3tcn2UP3cH4ILH0et4CP4N) | [Blac Youngsta](https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe), [Lil Migo](https://open.spotify.com/artist/4weldYkJEu7VzU1lLUQPBF), [Trapionn](https://open.spotify.com/artist/3FRYpVBzB41Fn55erug4KS), [Cy Yung](https://open.spotify.com/artist/31LajuowZeqdfdEvBam2JX) | [Blac Youngsta Presents: Heavy Camp, Checkmate](https://open.spotify.com/album/0SqyNh4ix8J62ZnouuVSCK) | 3:36 | 2024-01-26 | 2024-02-03 |
 | [SCARING THE HOES](https://open.spotify.com/track/5L0QxWi5Jo4gjw4yHR0kP1) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [SCARING THE HOES](https://open.spotify.com/album/2W8QmJ48TFvnkjrrQOHDBR) | 2:22 | 2023-03-24 | 2023-04-01 |

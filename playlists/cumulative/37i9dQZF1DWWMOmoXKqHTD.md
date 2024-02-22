@@ -2,7 +2,7 @@
 
 ### [Songs to Sing in the Car](https://open.spotify.com/playlist/37i9dQZF1DWWMOmoXKqHTD)
 
-> 
+> Sing along and enjoy the drive
 
 847 songs - 2 day 4 hr 1 min
 
@@ -613,7 +613,7 @@
 | [Set Fire to the Rain](https://open.spotify.com/track/3CKCZ9pfwAfoMZlMncA1Nc) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/1azUkThwd2HfUDdeNeT147) | 4:01 | 2021-03-10 | 2022-04-30 |
 | [Seven Nation Army](https://open.spotify.com/track/7i6r9KotUPQg3ozKKgEPIN) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant](https://open.spotify.com/album/48Atx1uS9J4KL5iQt3weoS) | 3:51 | 2021-03-18 | 2022-04-07 |
 | [Seven Nation Army](https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant](https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE) | 3:52 | 2022-07-26 |  |
-| [Sex on Fire](https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Only By The Night](https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp) | 3:23 | 2021-03-15 |  |
+| [Sex on Fire](https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Only By The Night](https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp) | 3:23 | 2021-03-15 | 2024-02-22 |
 | [Sex On Fire](https://open.spotify.com/track/7aOoPSmSSkWKnh3zi908ty) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Only By The Night](https://open.spotify.com/album/71iOOq3JusATRJZxIDzo6N) | 3:23 | 2021-03-15 | 2022-04-21 |
 | [Señorita](https://open.spotify.com/track/0aj2QKJvz6CePykmlTApiD) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Justified](https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW) | 4:54 | 2021-03-09 | 2022-04-21 |
 | [Señorita](https://open.spotify.com/track/0TK2YIli7K1leLovkQiNik) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Señorita](https://open.spotify.com/album/2ZaX1FdZCwchXl1QZiD4O4) | 3:10 | 2019-08-29 | 2022-11-13 |
@@ -842,7 +842,7 @@
 | [You Gotta Be](https://open.spotify.com/track/5Z8kUbnUQqBUzM5FsBNOAl) | [Des'ree](https://open.spotify.com/artist/73ZPfpfg1LBVvDEArK4l5B) | [Supernatural](https://open.spotify.com/album/3SwBajIGtIPylPqzWS9V1i) | 4:00 | 2021-03-17 | 2022-04-20 |
 | [You Let Me Walk Alone](https://open.spotify.com/track/7dHVgdtHimDMop13MynWck) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq) | [You Let Me Walk Alone](https://open.spotify.com/album/7sXrvN3d33ViKQiQDiuxjF) | 2:57 | 2020-06-12 | 2022-04-19 |
 | [You Make My Dreams \(Come True\)](https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Voices](https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS) | 3:10 | 2021-04-20 | 2021-05-16 |
-| [You Need To Calm Down](https://open.spotify.com/track/6RRNNciQGZEXnqk8SQ9yv5) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:51 | 2020-05-06 | 2023-09-11 |
+| [You Need To Calm Down](https://open.spotify.com/track/6RRNNciQGZEXnqk8SQ9yv5) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:51 | 2020-05-06 |  |
 | [You Oughta Know \- 2015 Remaster](https://open.spotify.com/track/3jS7bB0oXVOwGFZn3aE5NV) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill \(2015 Remaster\)](https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA) | 4:09 | 2021-03-09 | 2022-04-17 |
 | [You're Beautiful](https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Back to Bedlam](https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF) | 3:29 | 2021-03-14 | 2022-04-16 |
 | [You're Still The One](https://open.spotify.com/track/7cCf8vPXJw4e7e2CQYyYgi) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/1Xq7GtFHmTt110bmxQrtC4) | 3:32 | 2019-07-29\* | 2022-04-11 |

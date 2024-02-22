@@ -1,13 +1,61 @@
 {
   "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Sarah Julia | Visual Artist: Bailey Elder",
-  "num_followers": 61605,
+  "num_followers": 61813,
   "original_name": "Fresh Finds Folk ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNmU2ZTE4YWZkNzNlNzJhYzdhNDhjMTI0YjI4NzNhY2ViZjg4MDM1",
+  "snapshot_id": "MCw5ZTQwNzI5ODExOTYzNWRkMmI4MGQ4Njk3NzA4YThmMTJhZDNlNWVi",
   "tracks": [
+    {
+      "added_at": "2024-02-21 05:00:00",
+      "album": {
+        "name": "Birdseye",
+        "url": "https://open.spotify.com/album/15nDuQXtC6M3m3esLEa4w7"
+      },
+      "artists": [
+        {
+          "name": "Babehoven",
+          "url": "https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70"
+        }
+      ],
+      "duration_ms": 151573,
+      "name": "Birdseye",
+      "url": "https://open.spotify.com/track/3g3WLQLqNNLyzCY7rBZup7"
+    },
+    {
+      "added_at": "2024-02-21 21:55:20",
+      "album": {
+        "name": "The Trek",
+        "url": "https://open.spotify.com/album/71QLGDfkyZqoN8U9LTDmYj"
+      },
+      "artists": [
+        {
+          "name": "Hans Williams",
+          "url": "https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj"
+        }
+      ],
+      "duration_ms": 282253,
+      "name": "The Trek",
+      "url": "https://open.spotify.com/track/5P4Uaj4mKQpkZYRyt5ceMC"
+    },
+    {
+      "added_at": "2024-02-21 05:00:00",
+      "album": {
+        "name": "Two Circles",
+        "url": "https://open.spotify.com/album/041hzrgkFdh4qw2Sp9eR2l"
+      },
+      "artists": [
+        {
+          "name": "Byland",
+          "url": "https://open.spotify.com/artist/5zSPR2YNjfLn5rNQPZiJgC"
+        }
+      ],
+      "duration_ms": 179199,
+      "name": "Two Circles",
+      "url": "https://open.spotify.com/track/6bcRI74NJ8tlRMUWTo9uYn"
+    },
     {
       "added_at": "2024-02-07 05:00:00",
       "album": {
@@ -23,6 +71,38 @@
       "duration_ms": 197333,
       "name": "Brusco",
       "url": "https://open.spotify.com/track/5KOPS6Q50l66RgQR8MjSh2"
+    },
+    {
+      "added_at": "2024-02-21 15:28:25",
+      "album": {
+        "name": "Look Around / Simple",
+        "url": "https://open.spotify.com/album/5OGV9LPH8d63btJ904hLwi"
+      },
+      "artists": [
+        {
+          "name": "Jia*",
+          "url": "https://open.spotify.com/artist/23B8icZGpSGzcedCDa2Cjy"
+        }
+      ],
+      "duration_ms": 144003,
+      "name": "Simple",
+      "url": "https://open.spotify.com/track/25ODmLEb3AI2ZTaYUXFACi"
+    },
+    {
+      "added_at": "2024-02-21 05:00:00",
+      "album": {
+        "name": "A Promise",
+        "url": "https://open.spotify.com/album/5FexbBBHbhjhsyBC6k0vp8"
+      },
+      "artists": [
+        {
+          "name": "Meernaa",
+          "url": "https://open.spotify.com/artist/6x8L59xNfuXIM7UfzoSe7g"
+        }
+      ],
+      "duration_ms": 177822,
+      "name": "A Promise",
+      "url": "https://open.spotify.com/track/1sibZ12UhxsG33aQgcXYCp"
     },
     {
       "added_at": "2024-02-14 05:00:00",
@@ -57,6 +137,102 @@
       "url": "https://open.spotify.com/track/6vlk3gFyQgB9Oy4f4FPykh"
     },
     {
+      "added_at": "2024-02-21 05:00:00",
+      "album": {
+        "name": "worthwhile",
+        "url": "https://open.spotify.com/album/41MpSMm42mc0bFFeQQLky7"
+      },
+      "artists": [
+        {
+          "name": "Alexa Cirri",
+          "url": "https://open.spotify.com/artist/0jitaHotzcSiJNkm4amOOr"
+        }
+      ],
+      "duration_ms": 246357,
+      "name": "worthwhile",
+      "url": "https://open.spotify.com/track/1NVdtQhsc1dO7ZZWS3oxX3"
+    },
+    {
+      "added_at": "2024-01-24 05:00:00",
+      "album": {
+        "name": "Cairngorms",
+        "url": "https://open.spotify.com/album/5L2BHB36P5IQYu1QCw80K3"
+      },
+      "artists": [
+        {
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+        }
+      ],
+      "duration_ms": 252878,
+      "name": "Cairngorms",
+      "url": "https://open.spotify.com/track/2d5gLLZEhhkwKpFR5akW0F"
+    },
+    {
+      "added_at": "2024-02-21 05:00:00",
+      "album": {
+        "name": "The Same",
+        "url": "https://open.spotify.com/album/0AmNwYMbWiRVW47GnuFgDk"
+      },
+      "artists": [
+        {
+          "name": "Kaleah Lee",
+          "url": "https://open.spotify.com/artist/6JgC582KHI4BpHIhbFHVAQ"
+        }
+      ],
+      "duration_ms": 170925,
+      "name": "The Same",
+      "url": "https://open.spotify.com/track/42aN26zSK9ZNZcJQrYUURv"
+    },
+    {
+      "added_at": "2024-02-21 05:00:00",
+      "album": {
+        "name": "Paper Horses",
+        "url": "https://open.spotify.com/album/0r7QWFxKM5XN9WBmGS99sN"
+      },
+      "artists": [
+        {
+          "name": "Paper Horses",
+          "url": "https://open.spotify.com/artist/4gdDTJi3KRIhEKqiAIZuWW"
+        },
+        {
+          "name": "Leslie Jordan",
+          "url": "https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh"
+        },
+        {
+          "name": "Taylor Leonhardt",
+          "url": "https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i"
+        },
+        {
+          "name": "Sandra McCracken",
+          "url": "https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN"
+        },
+        {
+          "name": "Jess Ray",
+          "url": "https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3"
+        }
+      ],
+      "duration_ms": 243800,
+      "name": "Why Don't We",
+      "url": "https://open.spotify.com/track/6Hwse3UUiShB05dbZP4h51"
+    },
+    {
+      "added_at": "2024-02-21 05:00:00",
+      "album": {
+        "name": "Your Melody",
+        "url": "https://open.spotify.com/album/3OVLX0EscxQeLAGCfOyFIL"
+      },
+      "artists": [
+        {
+          "name": "Stella Smyth",
+          "url": "https://open.spotify.com/artist/73XgyFPPVBCDDSj1lp2Gmx"
+        }
+      ],
+      "duration_ms": 171639,
+      "name": "Your Melody",
+      "url": "https://open.spotify.com/track/5oehlLTugy2jajet81l7W3"
+    },
+    {
       "added_at": "2024-02-14 05:00:00",
       "album": {
         "name": "Style",
@@ -71,6 +247,22 @@
       "duration_ms": 223013,
       "name": "Style",
       "url": "https://open.spotify.com/track/0LPGus2Cs9oIDbcAob3GMj"
+    },
+    {
+      "added_at": "2024-02-21 05:00:00",
+      "album": {
+        "name": "Arizona",
+        "url": "https://open.spotify.com/album/3DbXc2U2H1CsBzarSeQFGf"
+      },
+      "artists": [
+        {
+          "name": "Kate Stephenson",
+          "url": "https://open.spotify.com/artist/5RAwXhLQfEX5khIsfnvDne"
+        }
+      ],
+      "duration_ms": 229499,
+      "name": "Arizona",
+      "url": "https://open.spotify.com/track/2T4enGToW18Xb5miM0Wqml"
     },
     {
       "added_at": "2024-02-14 05:00:00",
@@ -105,22 +297,6 @@
       "url": "https://open.spotify.com/track/6K0xzSgP4YOTBL6kZIhuwM"
     },
     {
-      "added_at": "2024-01-24 05:00:00",
-      "album": {
-        "name": "Cairngorms",
-        "url": "https://open.spotify.com/album/5L2BHB36P5IQYu1QCw80K3"
-      },
-      "artists": [
-        {
-          "name": "Sarah Julia",
-          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
-        }
-      ],
-      "duration_ms": 252878,
-      "name": "Cairngorms",
-      "url": "https://open.spotify.com/track/2d5gLLZEhhkwKpFR5akW0F"
-    },
-    {
       "added_at": "2024-02-07 05:00:00",
       "album": {
         "name": "Hurting",
@@ -135,6 +311,22 @@
       "duration_ms": 333333,
       "name": "Hurting",
       "url": "https://open.spotify.com/track/73hivFjCugq75ohbZiPlob"
+    },
+    {
+      "added_at": "2024-02-21 05:00:00",
+      "album": {
+        "name": "Straight North",
+        "url": "https://open.spotify.com/album/1aBAiavTkhDQmAb44Y1oSA"
+      },
+      "artists": [
+        {
+          "name": "The 4411",
+          "url": "https://open.spotify.com/artist/7ihRkM2a3CvPVKDkE1ZRnx"
+        }
+      ],
+      "duration_ms": 245217,
+      "name": "Straight North",
+      "url": "https://open.spotify.com/track/0jYAyzb9rMPUysb8lNHE21"
     },
     {
       "added_at": "2024-02-07 05:00:00",
@@ -535,22 +727,6 @@
       "duration_ms": 217415,
       "name": "The Ghost",
       "url": "https://open.spotify.com/track/3xdtzvDUIhWYbkb15SbKsc"
-    },
-    {
-      "added_at": "2024-01-24 05:00:00",
-      "album": {
-        "name": "Rotting Fruit",
-        "url": "https://open.spotify.com/album/3xLm8dLpODMvSij3KZngfc"
-      },
-      "artists": [
-        {
-          "name": "Kaleah Lee",
-          "url": "https://open.spotify.com/artist/6JgC582KHI4BpHIhbFHVAQ"
-        }
-      ],
-      "duration_ms": 230677,
-      "name": "Rotting Fruit",
-      "url": "https://open.spotify.com/track/0deJ2a71D181hZ6g0x0Rsq"
     },
     {
       "added_at": "2024-01-24 05:00:00",
@@ -1499,134 +1675,6 @@
       "duration_ms": 248962,
       "name": "A Place I Used to Know",
       "url": "https://open.spotify.com/track/0sj8fAV0RF74ePYdeK194X"
-    },
-    {
-      "added_at": "2024-01-10 17:00:00",
-      "album": {
-        "name": "Falling for You",
-        "url": "https://open.spotify.com/album/2dk09011yzxot0kePEzrGT"
-      },
-      "artists": [
-        {
-          "name": "Jacklen Ro",
-          "url": "https://open.spotify.com/artist/02V9xHLkyNSvfSbJka7HhX"
-        }
-      ],
-      "duration_ms": 241763,
-      "name": "Falling for You",
-      "url": "https://open.spotify.com/track/2eTt3Lxbd942cxVrZcBsDC"
-    },
-    {
-      "added_at": "2024-01-10 17:00:00",
-      "album": {
-        "name": "Time",
-        "url": "https://open.spotify.com/album/00QwQwpzhtSO9thEZIauEl"
-      },
-      "artists": [
-        {
-          "name": "Voyageur",
-          "url": "https://open.spotify.com/artist/4e96iK3tKVtBuCdQPjoik8"
-        }
-      ],
-      "duration_ms": 261621,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/7qzcvKKBs6EobNVO8Tuyel"
-    },
-    {
-      "added_at": "2024-01-10 17:00:00",
-      "album": {
-        "name": "Stronger Than Most",
-        "url": "https://open.spotify.com/album/6n6UJuV4KeuRRNPCAj02lu"
-      },
-      "artists": [
-        {
-          "name": "Fran Lusty",
-          "url": "https://open.spotify.com/artist/6idlNQLvsjYJwQG4ojsmKK"
-        }
-      ],
-      "duration_ms": 202906,
-      "name": "Stronger Than Most",
-      "url": "https://open.spotify.com/track/2SK9RgBAU726NeZ75Cs7mE"
-    },
-    {
-      "added_at": "2024-01-10 17:00:00",
-      "album": {
-        "name": "A\u00e7a\u00ed",
-        "url": "https://open.spotify.com/album/2opKyuwlfp2WKRrtVRnabh"
-      },
-      "artists": [
-        {
-          "name": "Half Wolf",
-          "url": "https://open.spotify.com/artist/0UVVEXns5nbMapv548TX1d"
-        }
-      ],
-      "duration_ms": 158852,
-      "name": "A\u00e7a\u00ed",
-      "url": "https://open.spotify.com/track/6SCbX5mCZNlZph6wAQmEEq"
-    },
-    {
-      "added_at": "2024-01-10 17:00:00",
-      "album": {
-        "name": "To Hell With You",
-        "url": "https://open.spotify.com/album/5UnKpDB9duylUpCRrHTACe"
-      },
-      "artists": [
-        {
-          "name": "Leith",
-          "url": "https://open.spotify.com/artist/6NloIpzx0PEcGY2NJVVjc1"
-        }
-      ],
-      "duration_ms": 231333,
-      "name": "To Hell With You",
-      "url": "https://open.spotify.com/track/6x4MmOfqPZ3u0OZTtDzHk7"
-    },
-    {
-      "added_at": "2024-01-10 17:00:00",
-      "album": {
-        "name": "Fire In The Rain",
-        "url": "https://open.spotify.com/album/7vgZOmTJ11HAPzVw243b5G"
-      },
-      "artists": [
-        {
-          "name": "Niila",
-          "url": "https://open.spotify.com/artist/25PzS3ToWjTF5cznfaYpFq"
-        }
-      ],
-      "duration_ms": 166666,
-      "name": "Fire In The Rain",
-      "url": "https://open.spotify.com/track/3xAVH6coGrXpfGdJ1CsFvQ"
-    },
-    {
-      "added_at": "2024-01-10 17:00:00",
-      "album": {
-        "name": "fifty degrees",
-        "url": "https://open.spotify.com/album/5ryiIAISiBAQnkRXgGDljZ"
-      },
-      "artists": [
-        {
-          "name": "Jason Ventura",
-          "url": "https://open.spotify.com/artist/7g7mDO5qauzz30vuHekAxK"
-        }
-      ],
-      "duration_ms": 181241,
-      "name": "fifty degrees",
-      "url": "https://open.spotify.com/track/6usyUtwmQof6NnJhSeCiyg"
-    },
-    {
-      "added_at": "2024-01-10 17:00:00",
-      "album": {
-        "name": "Suburban Outlaw",
-        "url": "https://open.spotify.com/album/1dpKQmczm2H9hNt4lFMlYV"
-      },
-      "artists": [
-        {
-          "name": "Maggie Antone",
-          "url": "https://open.spotify.com/artist/6mEP6006jfAcrzLbxyEZxp"
-        }
-      ],
-      "duration_ms": 296000,
-      "name": "Suburban Outlaw",
-      "url": "https://open.spotify.com/track/1guH0XpqZzQmRkpKCY3sdb"
     }
   ],
   "unique_name": "Fresh Finds Folk ",

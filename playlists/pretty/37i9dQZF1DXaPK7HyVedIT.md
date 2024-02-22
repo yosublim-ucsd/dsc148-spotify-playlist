@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Cat Dealers
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,193,276 likes - 70 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,193,296 likes - 70 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 69 | [Saudade](https://open.spotify.com/track/4kLACPjEM0LONaeV4EPukM) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Saudade](https://open.spotify.com/album/6HcNjElqykWI4IYQk7OEE1) | 4:07 |
 | 70 | [Fly Away](https://open.spotify.com/track/7gQzv8EeV2LKGoF6dGtL3P) | [Barja](https://open.spotify.com/artist/5uBR08vndaYNR50ZqRWthK) | [Fly Away](https://open.spotify.com/album/3kn9zwMVOE1Ighr5ZvN5mo) | 5:40 |
 
-Snapshot ID: `MCwwMzQwMDA0Y2MwZGU0MjhlYWVkYjNlY2Q2YTdmYTA5MTNlYWM5YWRl`
+Snapshot ID: `MCwxMmRjOTUzMDc0MWQzYzMxMDk1Y2I0ODBiYTkxM2ViOGQ5Mzk1NGYy`

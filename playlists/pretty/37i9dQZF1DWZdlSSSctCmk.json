@@ -1,12 +1,12 @@
 {
   "description": "A mediterranean sundown soundtrack.",
-  "num_followers": 117539,
+  "num_followers": 117574,
   "original_name": "Balearic Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNDlkNWJmYTdhY2YzZjMzY2U1ZWYxZGU3MTY0ZDEzYmMxOGUwN2Nm",
+  "snapshot_id": "MCw5MjY1ZWJmMjdjNDcwMDE1YTc4NDMyOTMwZThmYjZmYTA0ZGY1YTVi",
   "tracks": [
     {
       "added_at": "2023-07-14 11:01:37",
@@ -719,26 +719,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Love Will Set U Free",
-        "url": "https://open.spotify.com/album/2q1yFtPevPCNlp06WDzfFc"
-      },
-      "artists": [
-        {
-          "name": "Monkey Safari",
-          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
-        },
-        {
-          "name": "DJ Island",
-          "url": "https://open.spotify.com/artist/0B8uvQRg70TpBi26MKtJxY"
-        }
-      ],
-      "duration_ms": 354365,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/7vApqfnpLqrKeR6VISh0wH"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "Pleasure Centre",
         "url": "https://open.spotify.com/album/4bL8pnVu9iQILCQlK9L7V4"
       },
@@ -755,6 +735,26 @@
       "duration_ms": 317143,
       "name": "Don't Want This to Be Over",
       "url": "https://open.spotify.com/track/6jag4moGKMJfZYl0liyLB7"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Love Will Set U Free",
+        "url": "https://open.spotify.com/album/2q1yFtPevPCNlp06WDzfFc"
+      },
+      "artists": [
+        {
+          "name": "Monkey Safari",
+          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+        },
+        {
+          "name": "DJ Island",
+          "url": "https://open.spotify.com/artist/0B8uvQRg70TpBi26MKtJxY"
+        }
+      ],
+      "duration_ms": 354365,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/7vApqfnpLqrKeR6VISh0wH"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Protection",
-        "url": "https://open.spotify.com/album/5CnZjFfPDmxOX7KnWLLqpC"
-      },
-      "artists": [
-        {
-          "name": "Massive Attack",
-          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
-        }
-      ],
-      "duration_ms": 299960,
-      "name": "Weather Storm",
-      "url": "https://open.spotify.com/track/4u5KFWcW1ptk0hJqp2lrCE"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "Soleil Kr\u00e9yol",
         "url": "https://open.spotify.com/album/7DbNMvgyppGTky16qCWyah"
       },
@@ -847,18 +831,18 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Since Then. 2017",
-        "url": "https://open.spotify.com/album/74FdEWxQOWLu9lBEuMmdmM"
+        "name": "Protection",
+        "url": "https://open.spotify.com/album/5CnZjFfPDmxOX7KnWLLqpC"
       },
       "artists": [
         {
-          "name": "Ian Pooley",
-          "url": "https://open.spotify.com/artist/1m4GViPjIy4T8Pd0Iz6hRS"
+          "name": "Massive Attack",
+          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
         }
       ],
-      "duration_ms": 274080,
-      "name": "Venasque",
-      "url": "https://open.spotify.com/track/20XyCtN4HMiL1BsvXyengf"
+      "duration_ms": 299960,
+      "name": "Weather Storm",
+      "url": "https://open.spotify.com/track/4u5KFWcW1ptk0hJqp2lrCE"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -883,6 +867,22 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
+        "name": "Since Then. 2017",
+        "url": "https://open.spotify.com/album/74FdEWxQOWLu9lBEuMmdmM"
+      },
+      "artists": [
+        {
+          "name": "Ian Pooley",
+          "url": "https://open.spotify.com/artist/1m4GViPjIy4T8Pd0Iz6hRS"
+        }
+      ],
+      "duration_ms": 274080,
+      "name": "Venasque",
+      "url": "https://open.spotify.com/track/20XyCtN4HMiL1BsvXyengf"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
         "name": "Moon Safari",
         "url": "https://open.spotify.com/album/206GTDefY2qRMQxYXmfb0a"
       },
@@ -895,22 +895,6 @@
       "duration_ms": 426614,
       "name": "La femme d'argent",
       "url": "https://open.spotify.com/track/6tEaLXZlN8b71vWV1SSsRf"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
-        "name": "Pacific Standard Time",
-        "url": "https://open.spotify.com/album/0H8umic35SHzLg26lL1ld9"
-      },
-      "artists": [
-        {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        }
-      ],
-      "duration_ms": 262978,
-      "name": "Next To You",
-      "url": "https://open.spotify.com/track/2M7fA5L6zH9oxq53WsaYB4"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -931,6 +915,22 @@
       "duration_ms": 305893,
       "name": "Georgy Porgy (feat. Cheryl Lynn) - Disco Version",
       "url": "https://open.spotify.com/track/2zgVJFC1zMX552Ein72J81"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Pacific Standard Time",
+        "url": "https://open.spotify.com/album/0H8umic35SHzLg26lL1ld9"
+      },
+      "artists": [
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        }
+      ],
+      "duration_ms": 262978,
+      "name": "Next To You",
+      "url": "https://open.spotify.com/track/2M7fA5L6zH9oxq53WsaYB4"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Midnight Voyage",
-        "url": "https://open.spotify.com/album/5uaAVhppungH8fzCbBc6ji"
-      },
-      "artists": [
-        {
-          "name": "Tunnelvisions",
-          "url": "https://open.spotify.com/artist/0IhfJZiFjHqE9mJ9INjp7x"
-        }
-      ],
-      "duration_ms": 357500,
-      "name": "Gobi",
-      "url": "https://open.spotify.com/track/1DgTnSP026pNUjCDlhXfu5"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "Reminisce",
         "url": "https://open.spotify.com/album/3b5iksRC1DTnQhY9Mgmv5l"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 273117,
       "name": "It Was 9:30 and You Were Beautiful",
       "url": "https://open.spotify.com/track/2juufw7FlVjhDb3vtRwJNS"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Midnight Voyage",
+        "url": "https://open.spotify.com/album/5uaAVhppungH8fzCbBc6ji"
+      },
+      "artists": [
+        {
+          "name": "Tunnelvisions",
+          "url": "https://open.spotify.com/artist/0IhfJZiFjHqE9mJ9INjp7x"
+        }
+      ],
+      "duration_ms": 357500,
+      "name": "Gobi",
+      "url": "https://open.spotify.com/track/1DgTnSP026pNUjCDlhXfu5"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
+        "name": "Polydans",
+        "url": "https://open.spotify.com/album/1dhkdAipvJfbPh0B6pg2b0"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "duration_ms": 258651,
+      "name": "Sign",
+      "url": "https://open.spotify.com/track/0pKEwIOy9w7BHOEAcWPgwf"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
         "name": "Camino Del Sol",
         "url": "https://open.spotify.com/album/1Sk3WFAves0pZ4Mfj4HtI1"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 222680,
       "name": "Camino Del Sol",
       "url": "https://open.spotify.com/track/4UFm6Kib5Jxzw9FL0F6x0q"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
-        "name": "Flashlight EP",
-        "url": "https://open.spotify.com/album/1Gb1MCvhe6uBJrO1Vb8FlR"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 302542,
-      "name": "Return to Air",
-      "url": "https://open.spotify.com/track/6CxfaUiVzPPjxtyDwjiH6q"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1207,34 +1207,18 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Polydans",
-        "url": "https://open.spotify.com/album/1dhkdAipvJfbPh0B6pg2b0"
+        "name": "Flashlight EP",
+        "url": "https://open.spotify.com/album/1Gb1MCvhe6uBJrO1Vb8FlR"
       },
       "artists": [
         {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         }
       ],
-      "duration_ms": 258651,
-      "name": "Sign",
-      "url": "https://open.spotify.com/track/0pKEwIOy9w7BHOEAcWPgwf"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
-        "name": "Amo Amo",
-        "url": "https://open.spotify.com/album/5tqoHWGRjNpWgG0qr4MVGn"
-      },
-      "artists": [
-        {
-          "name": "Amo Amo",
-          "url": "https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm"
-        }
-      ],
-      "duration_ms": 231640,
-      "name": "Closer to You",
-      "url": "https://open.spotify.com/track/5plw5Sq1eAewuQi4rYeL8l"
+      "duration_ms": 302542,
+      "name": "Return to Air",
+      "url": "https://open.spotify.com/track/6CxfaUiVzPPjxtyDwjiH6q"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1255,6 +1239,22 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
+        "name": "Amo Amo",
+        "url": "https://open.spotify.com/album/5tqoHWGRjNpWgG0qr4MVGn"
+      },
+      "artists": [
+        {
+          "name": "Amo Amo",
+          "url": "https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm"
+        }
+      ],
+      "duration_ms": 231640,
+      "name": "Closer to You",
+      "url": "https://open.spotify.com/track/5plw5Sq1eAewuQi4rYeL8l"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
         "name": "Just Landed",
         "url": "https://open.spotify.com/album/4UpreRuEiLfSJhUw3XYjOG"
       },
@@ -1267,22 +1267,6 @@
       "duration_ms": 330973,
       "name": "Tabarin",
       "url": "https://open.spotify.com/track/6waLS9FxU3tW6FVjntCgsP"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/7HY0aAzDNhAqmFHATtABPY"
-      },
-      "artists": [
-        {
-          "name": "Herb Alpert",
-          "url": "https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl"
-        }
-      ],
-      "duration_ms": 311413,
-      "name": "Rotation",
-      "url": "https://open.spotify.com/track/7GIqNe7yFg06vUI0WyEzqZ"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1303,22 +1287,18 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Time out of Mind",
-        "url": "https://open.spotify.com/album/3XS2DDdGE8dPdtfQy4gQxb"
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/7HY0aAzDNhAqmFHATtABPY"
       },
       "artists": [
         {
-          "name": "Troubleman",
-          "url": "https://open.spotify.com/artist/0qjTWul9cULRUuKF6P2frK"
-        },
-        {
-          "name": "Nina Miranda",
-          "url": "https://open.spotify.com/artist/3AXxvXhECGeTQCUU0Lj3ln"
+          "name": "Herb Alpert",
+          "url": "https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl"
         }
       ],
-      "duration_ms": 224840,
-      "name": "Paz",
-      "url": "https://open.spotify.com/track/70cxjdNUHzSnk8SSeAHlLs"
+      "duration_ms": 311413,
+      "name": "Rotation",
+      "url": "https://open.spotify.com/track/7GIqNe7yFg06vUI0WyEzqZ"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1355,6 +1335,26 @@
       "duration_ms": 262281,
       "name": "Caf\u00e9 Com Leite",
       "url": "https://open.spotify.com/track/3zlC6H9LLQQhpJYOBofEZ0"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Time out of Mind",
+        "url": "https://open.spotify.com/album/3XS2DDdGE8dPdtfQy4gQxb"
+      },
+      "artists": [
+        {
+          "name": "Troubleman",
+          "url": "https://open.spotify.com/artist/0qjTWul9cULRUuKF6P2frK"
+        },
+        {
+          "name": "Nina Miranda",
+          "url": "https://open.spotify.com/artist/3AXxvXhECGeTQCUU0Lj3ln"
+        }
+      ],
+      "duration_ms": 224840,
+      "name": "Paz",
+      "url": "https://open.spotify.com/track/70cxjdNUHzSnk8SSeAHlLs"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
+        "name": "Montara",
+        "url": "https://open.spotify.com/album/7aIvhwqFnvV3hFp0ocKwzO"
+      },
+      "artists": [
+        {
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+        }
+      ],
+      "duration_ms": 225489,
+      "name": "Montara",
+      "url": "https://open.spotify.com/track/49VM3vCQBFr1wJJw7xByGf"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
         "name": "Tiefer",
         "url": "https://open.spotify.com/album/3SLo0Ps3JXHBGlB5iDCK14"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 214014,
       "name": "Tiefer",
       "url": "https://open.spotify.com/track/6viySkKsEuxhiNSMW1nOIe"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
-        "name": "Montara",
-        "url": "https://open.spotify.com/album/7aIvhwqFnvV3hFp0ocKwzO"
-      },
-      "artists": [
-        {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
-        }
-      ],
-      "duration_ms": 225489,
-      "name": "Montara",
-      "url": "https://open.spotify.com/track/49VM3vCQBFr1wJJw7xByGf"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Sacred",
-        "url": "https://open.spotify.com/album/1FKnoGi6vRMvNZCY3Xbx2Y"
-      },
-      "artists": [
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        }
-      ],
-      "duration_ms": 347317,
-      "name": "Sacred",
-      "url": "https://open.spotify.com/track/1z3roU3y19kIFTQDCBUeZ8"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "All Inclusive",
         "url": "https://open.spotify.com/album/3Ds49Xs732sr7FXcH6OrLJ"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 228897,
       "name": "Gated Area",
       "url": "https://open.spotify.com/track/2bdKTq31MlD9tQEzSPBVWl"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Sacred",
+        "url": "https://open.spotify.com/album/1FKnoGi6vRMvNZCY3Xbx2Y"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        }
+      ],
+      "duration_ms": 347317,
+      "name": "Sacred",
+      "url": "https://open.spotify.com/track/1z3roU3y19kIFTQDCBUeZ8"
     },
     {
       "added_at": "2023-07-14 11:01:37",

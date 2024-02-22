@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 
 > Deretan musik Indonesia terpopuler saat ini\. <br/>Cover: Ziva Magnolya
 
-[Spotify](https://open.spotify.com/user/spotify) - 742,725 likes - 61 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 743,168 likes - 61 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 | 25 | [Aduh](https://open.spotify.com/track/4hqNaY8uNHrPzW4l3ulDSo) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Aduh](https://open.spotify.com/album/2vz25rEFGA1ziNgy70BJus) | 3:16 |
 | 26 | [penjaga hati](https://open.spotify.com/track/7F4tV8SiUy6itZTdAzdafO) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [penjaga hati](https://open.spotify.com/album/1IuORbF4Tb4X9EyAmIvx9a) | 4:20 |
 | 27 | [Aku Mengerti \(Prologue Version\)](https://open.spotify.com/track/3ps6Y7PHQ9rh6HbHnu0IFd) | [Stereo Wall](https://open.spotify.com/artist/0kw7tMniMnrp9Pcr7vgDAm) | [Prologue](https://open.spotify.com/album/5xGgVRebfE9c1LkYPdK21s) | 3:45 |
-| 28 | [Lampu Merah](https://open.spotify.com/track/7uwo3VQxUlRtKudAjluuTr) | [The Lantis](https://open.spotify.com/artist/1REvGGP2H7cFLGZgK2sStO) | [Pilot](https://open.spotify.com/album/2fm5dfglCcyJ4yVxjIP0qU) | 4:58 |
+| 28 | [Lampu Merah](https://open.spotify.com/track/6E7DsxwI4eOcMHLYRUDCaw) | [The Lantis](https://open.spotify.com/artist/1REvGGP2H7cFLGZgK2sStO) | [Pilot](https://open.spotify.com/album/2Ykep6jay9dIiAB9eJq7vo) | 4:58 |
 | 29 | [Tanpa Rasa Bersalah](https://open.spotify.com/track/4Trhv4MBai2ay6vF5ovC7g) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [ASHER](https://open.spotify.com/album/2HNKo2vMGhc9wON4NDfb04) | 4:38 |
 | 30 | [Bersamamu](https://open.spotify.com/track/2GUp5FWzjfs422g45y16HQ) | [Jaz](https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm) | [Bersamamu](https://open.spotify.com/album/07VKSQaIDc1EoFGIO2YzrU) | 3:40 |
 | 31 | [Karena Kamu \(Love Recalls Version\)](https://open.spotify.com/track/5B7qLPqBd0DxhDuK7VCPch) | [Geisha](https://open.spotify.com/artist/3txNoNUfBAHT1ZSGT2R30y) | [Karena Kamu \(Love Recalls Version\)](https://open.spotify.com/album/2Pi4XOJlOvbhNjd6Omnr2h) | 3:58 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 | 60 | [Talalu Sakit](https://open.spotify.com/track/62Ga6ylfUQl469DkZ3P7L7) | [Andmesh](https://open.spotify.com/artist/6IDsZZ4IHgs9VblBgQQSmt) | [Cinta & Doa](https://open.spotify.com/album/4g3aTyVwe84yOlAM9LMWro) | 5:15 |
 | 61 | [Dunia Yang Terlupa](https://open.spotify.com/track/1B4d9vrImt99bpCI5eHPe9) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Hari Yang Cerah](https://open.spotify.com/album/7th82LGjGsDpfE52ZRPp4U) | 3:31 |
 
-Snapshot ID: `MCxmMTEyOGUzOGRlZWU4Y2M3YzE2OTIzNjNiZTIwZjgzYTBmMTgzN2Vl`
+Snapshot ID: `MCxiMzlmMTRmMTY5NjBjZGJjOTExZDc5NDMyMWE1ZDlmNjRjNzQ5NTU0`

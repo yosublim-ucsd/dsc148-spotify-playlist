@@ -1,12 +1,12 @@
 {
   "description": "Mzansi's musical wealth and heritage in one playlist.",
-  "num_followers": 52244,
+  "num_followers": 52296,
   "original_name": "SA Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NDE0OTg0MWZmM2RkZDZlYTQ1YWIxNDdhMzhmMDE0NGZhNTFiOTRh",
+  "snapshot_id": "MCw1ODY2Mzk3YjVjODI0YTQzZjc1MTJlZGZmZDAwZDA1Y2FkYzExZTg4",
   "tracks": [
     {
       "added_at": "2023-01-23 13:10:38",
@@ -615,6 +615,22 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
+        "name": "Memeza",
+        "url": "https://open.spotify.com/album/0IvfrpuZ1uq9JGuWrImJqQ"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 265773,
+      "name": "Vuli Ndlela",
+      "url": "https://open.spotify.com/track/0KF3mTRj26O3xdfCNqEviW"
+    },
+    {
+      "added_at": "2023-01-23 13:10:38",
+      "album": {
         "name": "The Ultimate 'Hotstix'",
         "url": "https://open.spotify.com/album/3UjSkBMpuXbgOMe9l54ZAw"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 306786,
       "name": "How Do You Feel",
       "url": "https://open.spotify.com/track/5yDMQqSiEMacjCBOseNRk6"
-    },
-    {
-      "added_at": "2023-01-23 13:10:38",
-      "album": {
-        "name": "Memeza",
-        "url": "https://open.spotify.com/album/0IvfrpuZ1uq9JGuWrImJqQ"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 265773,
-      "name": "Vuli Ndlela",
-      "url": "https://open.spotify.com/track/0KF3mTRj26O3xdfCNqEviW"
     },
     {
       "added_at": "2023-01-23 13:10:38",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
-        "name": "Jack Parow",
-        "url": "https://open.spotify.com/album/4NOqbyrs8P30p5fXgcCqX4"
-      },
-      "artists": [
-        {
-          "name": "Jack Parow",
-          "url": "https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA"
-        }
-      ],
-      "duration_ms": 248933,
-      "name": "Cooler as Ekke",
-      "url": "https://open.spotify.com/track/4fBxUtH4erpLDc2BEvUkgf"
-    },
-    {
-      "added_at": "2023-01-23 13:10:38",
-      "album": {
         "name": "Ndawo Yami",
         "url": "https://open.spotify.com/album/212O2AvgE4xzUuULXvmlGU"
       },
@@ -927,18 +911,34 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
-        "name": "Dream",
-        "url": "https://open.spotify.com/album/06WmmNtrJiAWf8ofaaTfUK"
+        "name": "Jack Parow",
+        "url": "https://open.spotify.com/album/4NOqbyrs8P30p5fXgcCqX4"
       },
       "artists": [
         {
-          "name": "Lebo Mathosa",
-          "url": "https://open.spotify.com/artist/1Ml1ICUucZgJMx8Y4t9aJo"
+          "name": "Jack Parow",
+          "url": "https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA"
         }
       ],
-      "duration_ms": 309666,
-      "name": "Ntozabantu",
-      "url": "https://open.spotify.com/track/1d6f5DF7ze4mUtvTYDP0ku"
+      "duration_ms": 248933,
+      "name": "Cooler as Ekke",
+      "url": "https://open.spotify.com/track/4fBxUtH4erpLDc2BEvUkgf"
+    },
+    {
+      "added_at": "2023-01-23 13:10:38",
+      "album": {
+        "name": "Township Funk",
+        "url": "https://open.spotify.com/album/4gC4cguZXOXejKR4ANCovR"
+      },
+      "artists": [
+        {
+          "name": "Dj Mujava",
+          "url": "https://open.spotify.com/artist/5lwkumgV9KuPaGGRKxgdVu"
+        }
+      ],
+      "duration_ms": 349480,
+      "name": "Township Funk",
+      "url": "https://open.spotify.com/track/0EN8KF256ZGQOctxVVwA20"
     },
     {
       "added_at": "2023-01-23 13:10:38",
@@ -959,18 +959,34 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
-        "name": "Township Funk",
-        "url": "https://open.spotify.com/album/4gC4cguZXOXejKR4ANCovR"
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/06WmmNtrJiAWf8ofaaTfUK"
       },
       "artists": [
         {
-          "name": "Dj Mujava",
-          "url": "https://open.spotify.com/artist/5lwkumgV9KuPaGGRKxgdVu"
+          "name": "Lebo Mathosa",
+          "url": "https://open.spotify.com/artist/1Ml1ICUucZgJMx8Y4t9aJo"
         }
       ],
-      "duration_ms": 349480,
-      "name": "Township Funk",
-      "url": "https://open.spotify.com/track/0EN8KF256ZGQOctxVVwA20"
+      "duration_ms": 309666,
+      "name": "Ntozabantu",
+      "url": "https://open.spotify.com/track/1d6f5DF7ze4mUtvTYDP0ku"
+    },
+    {
+      "added_at": "2023-01-23 13:10:38",
+      "album": {
+        "name": "Mkhukhu Funkshen",
+        "url": "https://open.spotify.com/album/4nb42BsvE1J91pzixpk10T"
+      },
+      "artists": [
+        {
+          "name": "Skwatta kamp",
+          "url": "https://open.spotify.com/artist/6PzSxetFOE72bmEObwo8rl"
+        }
+      ],
+      "duration_ms": 275360,
+      "name": "Umoya",
+      "url": "https://open.spotify.com/track/6bCvf4kAFEUUCKheEZfDVF"
     },
     {
       "added_at": "2023-01-23 13:10:38",
@@ -999,22 +1015,6 @@
       "duration_ms": 310582,
       "name": "Y-Tjukuja",
       "url": "https://open.spotify.com/track/2V63tXAalMiOveSc3pRLJp"
-    },
-    {
-      "added_at": "2023-01-23 13:10:38",
-      "album": {
-        "name": "Mkhukhu Funkshen",
-        "url": "https://open.spotify.com/album/4nb42BsvE1J91pzixpk10T"
-      },
-      "artists": [
-        {
-          "name": "Skwatta kamp",
-          "url": "https://open.spotify.com/artist/6PzSxetFOE72bmEObwo8rl"
-        }
-      ],
-      "duration_ms": 275360,
-      "name": "Umoya",
-      "url": "https://open.spotify.com/track/6bCvf4kAFEUUCKheEZfDVF"
     },
     {
       "added_at": "2023-01-23 13:10:38",

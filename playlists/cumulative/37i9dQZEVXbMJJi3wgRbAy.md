@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Uruguay.
 
-720 songs - 1 day 14 hr 22 min
+721 songs - 1 day 14 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,7 +159,7 @@
 | [CSIpher \(audio latino\)](https://open.spotify.com/track/39jHhYnMF65lncV4agV5dX) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Antes de Ameri](https://open.spotify.com/album/2A7S80QXLWlzw41LwkRYRU) | 4:10 | 2023-06-24 | 2023-06-26 |
 | [cuatro veinte](https://open.spotify.com/track/1TpZKxGnHp37ohJRszTSiq) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [cuatro veinte](https://open.spotify.com/album/2nanRnmnKHM3TsZRGeKidH) | 2:13 | 2022-03-26 | 2022-06-03 |
 | [cuatro veinte](https://open.spotify.com/track/3ushwCdjpWNdSnZgRFU6Oc) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Tú crees en mí?](https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo) | 2:13 | 2022-06-02 | 2022-10-08 |
-| [Cuero](https://open.spotify.com/track/6Qm49W75EGGKYsuX6dooMP) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [Mr Black El Presidente](https://open.spotify.com/artist/19vCtDMDfX2wjU5vULq6FG), [Darmiko](https://open.spotify.com/artist/6AeznZajNbXUulT7W4tK5l), [Jheral](https://open.spotify.com/artist/4zsxko6Co1HikDuBTWcm7E) | [Cuero](https://open.spotify.com/album/5vMGHcLD18cN55lCqhWLRk) | 3:55 | 2024-02-20 |  |
+| [Cuero](https://open.spotify.com/track/6Qm49W75EGGKYsuX6dooMP) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [Mr Black El Presidente](https://open.spotify.com/artist/19vCtDMDfX2wjU5vULq6FG), [Darmiko](https://open.spotify.com/artist/6AeznZajNbXUulT7W4tK5l), [Jheral](https://open.spotify.com/artist/4zsxko6Co1HikDuBTWcm7E) | [Cuero](https://open.spotify.com/album/5vMGHcLD18cN55lCqhWLRk) | 3:55 | 2024-02-20 | 2024-02-22 |
 | [CULPA](https://open.spotify.com/track/0BTJ7QpDRjinzAy8KQMAp8) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [OSCURO ÉXTASIS](https://open.spotify.com/album/0fYhjxeRFdXp6s8R9hUXKt) | 3:35 | 2021-11-21 | 2021-11-22 |
 | [Cumbia](https://open.spotify.com/track/4wR4cWUWnGUaAE0U4taZJv) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0) | [Cumbia](https://open.spotify.com/album/2JKIif1ahgh5O8WmmqZm26) | 3:57 | 2023-06-17 | 2023-06-25 |
 | [Cumbia Cheta](https://open.spotify.com/track/5KTSHYA5CetGTZuRYYJcHi) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK), [Cami Raj](https://open.spotify.com/artist/18Kdk0oWKMg7P4601cD4dZ) | [Cumbia Cheta](https://open.spotify.com/album/5AStnZOfpqxI4IsemDUdkn) | 2:31 | 2023-11-24 | 2024-01-13 |
@@ -644,6 +644,7 @@
 | [Tu Nombre](https://open.spotify.com/track/5DberPEjKBTY8WTzLgr0zZ) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Desde el Espacio](https://open.spotify.com/album/2C9O39yyriTfCN5IN0gngg) | 3:21 | 2022-03-12 | 2022-03-14 |
 | [Tu Turrito](https://open.spotify.com/track/45dlaEXrXW47TVbrQ4gK7E) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr) | [Tu Turrito](https://open.spotify.com/album/6FKqbKsNvN2hT8vXdT0N02) | 2:44 | 2022-07-12 | 2023-06-02 |
 | [Tu Veneno](https://open.spotify.com/track/5KFHrrBMyGj5MhVbZMM3ts) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Tu Veneno](https://open.spotify.com/album/49Et8wid3L8iKof9lu78SS) | 2:37 | 2021-03-27\* | 2021-04-05 |
+| [TU Y YO](https://open.spotify.com/track/00THZGfbizNvMUkJsQs74K) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [TU Y YO](https://open.spotify.com/album/6fP9gXEDhdBaWz6E08kqRr) | 3:12 | 2024-02-21 |  |
 | [Tu y Yo](https://open.spotify.com/track/673exMTKtkaNosGrNAikth) | [LA NUEVA ESCUELA](https://open.spotify.com/artist/5TeBsszZQTyqBX4eDHdtNx) | [Tu y Yo](https://open.spotify.com/album/0URwT6xBs5xcO7UhzWmkI6) | 2:07 | 2023-06-10 |  |
 | [Tumbao](https://open.spotify.com/track/1vgh1s6f4qtY9TDKK8EfyJ) | [Letan](https://open.spotify.com/artist/14LqX7WKEinOwg1VZcM1xE), [Mesita](https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6), [Franux BB](https://open.spotify.com/artist/1iblTHYdU8q8t8nH4sHl8A) | [Tumbao](https://open.spotify.com/album/63OxWc0DZN46HDFieqieOl) | 2:53 | 2023-02-13 | 2023-03-23 |
 | [Turraka \(Remix\)](https://open.spotify.com/track/4aXicRG47bBEcKXlDaSRwW) | [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4), [Locura Mix](https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv) | [Turraka \(Remix\)](https://open.spotify.com/album/2l4E2PFQzA8ucLufP6O2Cm) | 2:02 | 2021-08-03 | 2021-12-16 |

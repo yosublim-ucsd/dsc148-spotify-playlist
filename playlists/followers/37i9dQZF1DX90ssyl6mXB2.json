@@ -1,5 +1,5 @@
 {
-  "2024-02-21": 8429,
+  "2024-02-22": 8685,
   "date_first_scraped": "2024-02-08",
   "description": "late night vibes \u2013 notifications off.",
   "name": "DND.",
@@ -194,6 +194,24 @@
     },
     {
       "album": {
+        "name": "come thru",
+        "url": "https://open.spotify.com/album/6iyCsIynra6MsjVoV3tnrQ"
+      },
+      "artists": [
+        {
+          "name": "Tyde",
+          "url": "https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153671,
+      "name": "come thru",
+      "url": "https://open.spotify.com/track/79Xwa8oIicEai4bFVBxsuN"
+    },
+    {
+      "album": {
         "name": "WASTELAND",
         "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
       },
@@ -245,6 +263,24 @@
       "duration_ms": 240000,
       "name": "DEPENDS",
       "url": "https://open.spotify.com/track/5FZ3YvNNVmfDftCKAI8na8"
+    },
+    {
+      "album": {
+        "name": "Distant",
+        "url": "https://open.spotify.com/album/5BvR9YLTPvdEfAB6RuJMFc"
+      },
+      "artists": [
+        {
+          "name": "Maz B",
+          "url": "https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232697,
+      "name": "Distant",
+      "url": "https://open.spotify.com/track/1IfzkSkbzqAoEgO1u2EoYN"
     },
     {
       "album": {
@@ -335,6 +371,24 @@
       "duration_ms": 182072,
       "name": "From A Woman",
       "url": "https://open.spotify.com/track/5YVmVthPhqjBUrqB2Rp5di"
+    },
+    {
+      "album": {
+        "name": "FWM",
+        "url": "https://open.spotify.com/album/76T6f7E3ZovruteP4vnK10"
+      },
+      "artists": [
+        {
+          "name": "alan vuong",
+          "url": "https://open.spotify.com/artist/6y1PHaUMkFXcJNhIAmjAk8"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130541,
+      "name": "FWM",
+      "url": "https://open.spotify.com/track/1Pfc9dT3gduTVoqzRYXITy"
     },
     {
       "album": {

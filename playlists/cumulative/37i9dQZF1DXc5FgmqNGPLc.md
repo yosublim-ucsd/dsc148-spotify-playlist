@@ -4,7 +4,7 @@
 
 > All live, all jazz\. Cover: John Coltrane & Eric Dolphy
 
-134 songs - 19 hr 45 min
+135 songs - 19 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,8 @@
 | [Softly as in a Morning Sunrise \- Live at Lincoln Center](https://open.spotify.com/track/3UkNjYoO81SVJFNkrkkjgX) | [The Modern Jazz Quartet](https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI) | [The Complete Last Concert](https://open.spotify.com/album/4SQ03iwnOPvzgClDLWS5oZ) | 6:26 | 2021-11-12 |  |
 | [Soul Eyes \(Live\)](https://open.spotify.com/track/1QtKtRFcCtacDvGWEhe5uP) | [Mal Waldron](https://open.spotify.com/artist/4cP0bprQSFtZdI9QEKKZA3) | [Soul Eyes \(Live\)](https://open.spotify.com/album/0rOjjtD2olUaP8hRt4DOy0) | 8:49 | 2022-09-23 | 2023-04-15 |
 | [Splendido Sundance \- Live at Warfield Theater, San Francisco, CA \- December 6, 1980](https://open.spotify.com/track/7evFX4LIgofxcz2MGnPaf5) | [Al Di Meola](https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q), [John McLaughlin](https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY), [Paco de Lucía](https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw) | [Saturday Night in San Francisco \(Expanded Edition\) \[Live\]](https://open.spotify.com/album/0ucEskHaCyeqMWBmgT3J3n) | 7:05 | 2022-08-12 |  |
-| [Stardust \- Live At Finney Chapel / 1953](https://open.spotify.com/track/5wIsuVFmdu6xtqxg4zjJTf) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Jazz At Oberlin \(OJC Remaster\)](https://open.spotify.com/album/5DAnm554mksK5mPx9Jf29B) | 6:30 | 2021-11-12 |  |
+| [Stardust \- Live At Finney Chapel / 1953](https://open.spotify.com/track/5ibCpoDH8OGVXxjmGlLl9v) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [The Dave Brubeck Quartet Featuring Paul Desmond In Concert](https://open.spotify.com/album/3mjhty9NJpFD4WuAHHZ9x4) | 6:25 | 2021-11-12 |  |
+| [Stardust \- Live At Finney Chapel / 1953](https://open.spotify.com/track/5wIsuVFmdu6xtqxg4zjJTf) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Jazz At Oberlin \(OJC Remaster\)](https://open.spotify.com/album/5DAnm554mksK5mPx9Jf29B) | 6:30 | 2021-11-12 | 2024-02-22 |
 | [Straight, No Chaser \- Live](https://open.spotify.com/track/1DkanoZx9FPP09j977x5ch) | [Miles Davis Sextet](https://open.spotify.com/artist/1i4ed4I1y7YerI0fQV4lVc) | [Miles and Monk at Newport \(Live\)](https://open.spotify.com/album/4bBbkwePNn99UrJrSNIs1L) | 8:46 | 2021-11-12 | 2023-06-24 |
 | [Strollin' \- Live](https://open.spotify.com/track/0kJukmNUjDGh1pfTymS1Fz) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T), [John Horler](https://open.spotify.com/artist/6Ha15AYMJf1Uqs1XW9UZCc), [Jim Richardson](https://open.spotify.com/artist/0QK2QcHnt4N9vdSdzX33om), [Tony Mann](https://open.spotify.com/artist/5qIWMD9r0RT8wanM7Nguty) | [Chet Baker Live in London Volume II](https://open.spotify.com/album/5RLWN5witv7DE0oOhk6yD3) | 10:13 | 2021-11-12 |  |
 | [Summertime \- Live Version](https://open.spotify.com/track/1c2Lw08YnZq71rUyrb2r8F) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Miles & Quincy Live at Montreux](https://open.spotify.com/album/2uhZ5Lazl1Wyzdxa7LvMkn) | 2:58 | 2021-11-12 |  |

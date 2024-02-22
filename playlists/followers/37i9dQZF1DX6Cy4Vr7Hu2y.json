@@ -1,5 +1,5 @@
 {
-  "2024-02-21": 951847,
+  "2024-02-22": 951960,
   "date_first_scraped": "2021-12-21",
   "description": "From sultry vocalists, sexy divas to cutesy girl-groups, the women of K-Pop are a formidable force to be reckoned with. (Cover: (G)I-DLE) (\ucf00\uc774\ud31d\uc744 \ub300\ud45c\ud558\ub294 \ud55c\uad6d\uc758 \uc5ec\uc131 \uac00\uc218\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "EQUAL K-Pop",
@@ -75,7 +75,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 189413,
       "name": "28 Reasons",
       "url": "https://open.spotify.com/track/1dfsPqH09vnzUWEOsN98Ex"
@@ -1593,6 +1593,24 @@
       "duration_ms": 149446,
       "name": "DUMB DUMB",
       "url": "https://open.spotify.com/track/0dnkOK5hGUCmIJ7FDF0yHz"
+    },
+    {
+      "album": {
+        "name": "EASY",
+        "url": "https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164545,
+      "name": "EASY",
+      "url": "https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI"
     },
     {
       "album": {

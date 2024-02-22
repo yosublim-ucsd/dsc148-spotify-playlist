@@ -1,12 +1,12 @@
 {
   "description": "The newest Hip-Hop, refreshed weekly. Cover: AR Paisley",
-  "num_followers": 7136,
+  "num_followers": 7150,
   "original_name": "All New Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMmVkZTRlOTBjMjUwODE2YzNjMzMwYTU1Nzc5OTFiYTMyNmQwMThm",
+  "snapshot_id": "MCwzOWU5MTk5MTY3NDk2YWIxNGE4YTZkOTRjYTA4MDA4ZDVlNDkyMGQx",
   "tracks": [
     {
       "added_at": "2024-02-16 05:00:00",
@@ -662,6 +662,10 @@
         {
           "name": "3MFrench",
           "url": "https://open.spotify.com/artist/7MPnGqTzCsarDScihWka1x"
+        },
+        {
+          "name": "Tilla",
+          "url": "https://open.spotify.com/artist/2WUWGxe2YfvUFk69M3Ri2f"
         }
       ],
       "duration_ms": 132075,

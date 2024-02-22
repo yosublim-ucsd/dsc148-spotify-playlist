@@ -4,7 +4,7 @@
 
 > This is Machine Head\. The essential tracks, all in one playlist.
 
-83 songs - 7 hr 18 min
+84 songs - 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Davidian](https://open.spotify.com/track/3qHlBxD3acw5nrl7Padt0v) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Burn My Eyes](https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ) | 4:56 | 2022-05-30 |  |
 | [Days Turn Blue to Gray](https://open.spotify.com/track/5vcJjOhRZvSQ3w06CXNpqS) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Through the Ashes of Empires](https://open.spotify.com/album/6LTkG6sc02q4L1zCm3jD6d) | 5:22 | 2022-05-30 | 2022-09-15 |
 | [Desire to Fire](https://open.spotify.com/track/4HVymfRIpYsw37K0at1FbK) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The Burning Red](https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA) | 4:48 | 2022-05-30 |  |
-| [Die Young \(Acoustic\)](https://open.spotify.com/track/1YmDXTV2VyDo72p7iJeKfb) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Die Young \(Acoustic\)](https://open.spotify.com/album/5J3UnugyExvTgDHmqQTPCu) | 4:57 | 2022-05-30 |  |
+| [Die Young \(Acoustic\)](https://open.spotify.com/track/1YmDXTV2VyDo72p7iJeKfb) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Die Young \(Acoustic\)](https://open.spotify.com/album/5J3UnugyExvTgDHmqQTPCu) | 4:57 | 2022-05-30 | 2024-02-22 |
 | [Do or Die](https://open.spotify.com/track/4IFES4aTHxER2VhckmkYG8) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Do or Die](https://open.spotify.com/album/2ilbCckBHnXxmWpZ63w9W1) | 3:42 | 2022-06-06 | 2022-07-27 |
 | [Down to None](https://open.spotify.com/track/5Bpp0mEuvrEG6NhTbICeYz) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The More Things Change...](https://open.spotify.com/album/60l0eb8lzf8jNF0K6XsbWL) | 5:28 | 2022-08-26 | 2022-08-28 |
 | [EXTERØCEPTIØN](https://open.spotify.com/track/3ACe9ZJx9pOUCt8zbAN3Qc) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [ØF KINGDØM AND CRØWN \- Bonus Tracks](https://open.spotify.com/album/3wA47rONRTYNzjveZRHNvK) | 4:45 | 2022-09-01 | 2023-02-07 |
@@ -77,6 +77,7 @@
 | [Silver](https://open.spotify.com/track/66AY5chQVzx7Icw6ObryJO) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The Burning Red](https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA) | 3:51 | 2023-06-02 |  |
 | [SLAUGHTER THE MARTYR](https://open.spotify.com/track/1pKNdeaS07seG0NANKcB8p) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [ØF KINGDØM AND CRØWN](https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi) | 10:25 | 2022-08-27 |  |
 | [Stop The Bleeding \(Feat\. Jesse Leach\)](https://open.spotify.com/track/0yK3bCcDM5cDDykBlQ5S2w) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt), [Jesse Leach](https://open.spotify.com/artist/1Lwi01HS3nSZxM9u9zr3CT) | [Civil Unrest](https://open.spotify.com/album/42eklVVP8Eosdti7osH01B) | 3:03 | 2022-05-30 |  |
+| [Struck a Nerve](https://open.spotify.com/track/296Tab5qscBCWU8rsOb8uf) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The More Things Change...](https://open.spotify.com/album/60l0eb8lzf8jNF0K6XsbWL) | 3:33 | 2024-02-21 |  |
 | [Take My Scars](https://open.spotify.com/track/4mbljJEr6SyhcImsdSWmz0) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The More Things Change...](https://open.spotify.com/album/60l0eb8lzf8jNF0K6XsbWL) | 4:19 | 2022-05-30 |  |
 | [Ten Ton Hammer](https://open.spotify.com/track/0bxUaSy4x46Ogeio8khuBd) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The More Things Change...](https://open.spotify.com/album/60l0eb8lzf8jNF0K6XsbWL) | 4:14 | 2022-05-30 |  |
 | [TERMINUS](https://open.spotify.com/track/1rfcsJ4bISd8CMGcMLTX2y) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [ØF KINGDØM AND CRØWN](https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi) | 1:12 | 2022-08-28 | 2022-08-30 |

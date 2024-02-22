@@ -1,12 +1,12 @@
 {
   "description": "Beautiful electronic music for melancholy moments.",
-  "num_followers": 152717,
+  "num_followers": 152777,
   "original_name": "Melantronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDY5ZGE4MTUyOGI0ZDViODJkNmQyOGExNzI3NDlmYmFjOGU3ZDY5",
+  "snapshot_id": "MCw3N2NiYTc4MGIxMDQ0YTMyNDgxYThhZTQzZTc0YzA1OWZhNjY2Y2Zk",
   "tracks": [
     {
       "added_at": "2024-02-01 17:30:03",
@@ -823,26 +823,6 @@
     {
       "added_at": "2024-02-01 17:30:03",
       "album": {
-        "name": "Magical Thinking",
-        "url": "https://open.spotify.com/album/4RY8E9iJR1Ec6d3FXqqodJ"
-      },
-      "artists": [
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        },
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
-        }
-      ],
-      "duration_ms": 217946,
-      "name": "Older",
-      "url": "https://open.spotify.com/track/07dQEivh1UNFqtWOnEpyUC"
-    },
-    {
-      "added_at": "2024-02-01 17:30:03",
-      "album": {
         "name": "Turtle Jazz",
         "url": "https://open.spotify.com/album/73C1QVOlWsW6qhhknFI6Ws"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 193613,
       "name": "Turtle Jazz",
       "url": "https://open.spotify.com/track/6Vx2Z3efuMINFSDOX1PoAu"
+    },
+    {
+      "added_at": "2024-02-01 17:30:03",
+      "album": {
+        "name": "Magical Thinking",
+        "url": "https://open.spotify.com/album/4RY8E9iJR1Ec6d3FXqqodJ"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        },
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "duration_ms": 217946,
+      "name": "Older",
+      "url": "https://open.spotify.com/track/07dQEivh1UNFqtWOnEpyUC"
     },
     {
       "added_at": "2024-02-01 17:30:03",

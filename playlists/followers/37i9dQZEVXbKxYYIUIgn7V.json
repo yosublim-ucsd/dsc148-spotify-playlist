@@ -1,5 +1,5 @@
 {
-  "2024-02-21": 12365,
+  "2024-02-22": 12366,
   "date_first_scraped": "2024-01-30",
   "description": "Your daily update of the most viral tracks right now - Austria.",
   "name": "Viral 50 - Austria",
@@ -129,10 +129,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 133754,
       "name": "Bad Feeling (Oompa Loompa)",
       "url": "https://open.spotify.com/track/535x8FTM99UR6ZhZN8BM4A"
+    },
+    {
+      "album": {
+        "name": "Bandit",
+        "url": "https://open.spotify.com/album/0jSSRlhYuZmtLMrYB8pjzC"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147746,
+      "name": "Bandit",
+      "url": "https://open.spotify.com/track/7sTyAjxDXq9afwfSQy6D0s"
     },
     {
       "album": {
@@ -385,7 +403,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 126481,
       "name": "CLEARED - Remix",
       "url": "https://open.spotify.com/track/54L7uacUGRkvoLokUlNWfH"
@@ -610,6 +628,28 @@
     },
     {
       "album": {
+        "name": "Fantazija",
+        "url": "https://open.spotify.com/album/3YFrHQo29msSQeqUsP1weC"
+      },
+      "artists": [
+        {
+          "name": "Gr\u0161e",
+          "url": "https://open.spotify.com/artist/7tcnxMy5DB0GEOOUnlkKyz"
+        },
+        {
+          "name": "Miach",
+          "url": "https://open.spotify.com/artist/2JdSKSsIyKoufxXuuuOVUt"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144335,
+      "name": "Fantazija",
+      "url": "https://open.spotify.com/track/1wRvvl4diSD8ajCDHWnn1c"
+    },
+    {
+      "album": {
         "name": "ANOTHER DIMENSION",
         "url": "https://open.spotify.com/album/0qLJC6nODiFrkmjU00g3qO"
       },
@@ -753,6 +793,24 @@
       "duration_ms": 115348,
       "name": "FUNKED UP - SLOWED",
       "url": "https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro"
+    },
+    {
+      "album": {
+        "name": "F\u00fcr immer Fr\u00fchling",
+        "url": "https://open.spotify.com/album/5CiWnH7Pwp3re6czR6FLCN"
+      },
+      "artists": [
+        {
+          "name": "soffie",
+          "url": "https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "F\u00fcr immer Fr\u00fchling",
+      "url": "https://open.spotify.com/track/3pn5z4CvMz95uEysWBUYCc"
     },
     {
       "album": {
@@ -1162,6 +1220,24 @@
     },
     {
       "album": {
+        "name": "IN DIE BIOTONNE",
+        "url": "https://open.spotify.com/album/1bivy4vI3TMH5zF6RwLRoH"
+      },
+      "artists": [
+        {
+          "name": "Snake16",
+          "url": "https://open.spotify.com/artist/2fgyuNiQxXwzAoN8qLFCCf"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107368,
+      "name": "IN DIE BIOTONNE",
+      "url": "https://open.spotify.com/track/2AL6gVfsIHKJv9dmF6YtW5"
+    },
+    {
+      "album": {
         "name": "It's So Good",
         "url": "https://open.spotify.com/album/2OzhVjGzyX5BWyMgGKG3Ij"
       },
@@ -1190,7 +1266,7 @@
         },
         {
           "name": "Z",
-          "url": "https://open.spotify.com/artist/3M4avl0nqxhd5hPxJDMVUE"
+          "url": "https://open.spotify.com/artist/0e04X89GPDO1SJQZHZYsij"
         }
       ],
       "date_added": "2024-01-30",
@@ -1545,7 +1621,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 157398,
       "name": "Lowkey (LDN Drift) [feat. Takura]",
       "url": "https://open.spotify.com/track/308JcmNsqtkEZaAkcZrCT2"
@@ -2025,7 +2101,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 270697,
       "name": "redrum",
       "url": "https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh"
@@ -2253,7 +2329,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 129056,
       "name": "She Likes a Boy",
       "url": "https://open.spotify.com/track/45FCt12lQyBdxUrLtM4Uor"
@@ -2451,7 +2527,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 170624,
       "name": "Sunglasses at Night",
       "url": "https://open.spotify.com/track/1LiMNzbo4XYzsZ0Odg3OW7"
@@ -2550,6 +2626,28 @@
     },
     {
       "album": {
+        "name": "Unterwegs",
+        "url": "https://open.spotify.com/album/0YLHd9ODNz4Ym6s0puZhZm"
+      },
+      "artists": [
+        {
+          "name": "prod.suki",
+          "url": "https://open.spotify.com/artist/4sRWXtD28EnvezAlaltt0x"
+        },
+        {
+          "name": "Verifiziert",
+          "url": "https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180689,
+      "name": "Unterwegs",
+      "url": "https://open.spotify.com/track/2IXYCofJeVgh5r2y0JXOMN"
+    },
+    {
+      "album": {
         "name": "Unwritten",
         "url": "https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL"
       },
@@ -2587,6 +2685,24 @@
       "duration_ms": 274098,
       "name": "V.A.N",
       "url": "https://open.spotify.com/track/1M31zIMamohkItOjLaBbtx"
+    },
+    {
+      "album": {
+        "name": "Verliebt",
+        "url": "https://open.spotify.com/album/6u6IUF74zUEDbyuLV23jn4"
+      },
+      "artists": [
+        {
+          "name": "Arkan45",
+          "url": "https://open.spotify.com/artist/6CinPTkdtHGlOJvP4MzGT9"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116426,
+      "name": "Verliebt",
+      "url": "https://open.spotify.com/track/0k0LF4jnMrZKIVdnmduOei"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0X3Z1S.md) - [plain]
 
 > This is Jonas Blue\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,582 likes - 44 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,593 likes - 45 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,5 +52,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0X3Z1S.md) - [plain]
 | 42 | [Don't Call It Love](https://open.spotify.com/track/6NKOAdHTXONN0IZaekxifN) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6), [Alex Mills](https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq) | [Cyan](https://open.spotify.com/album/7hYzoKqAwWkfXQEZ8rXw4h) | 3:18 |
 | 43 | [Siento](https://open.spotify.com/track/65d4aua5FrYn9CyKfmABR4) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Siento](https://open.spotify.com/album/2gXRx1iRPgKVSltTi7eBNa) | 3:37 |
 | 44 | [Roll With Me \(feat\. Shungudzo & ZieZie\)](https://open.spotify.com/track/5nsJclFXUIQajs8WJIkds7) | [Bantu](https://open.spotify.com/artist/6tt0iYnpHERj05WATWRiom), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T), [ZieZie](https://open.spotify.com/artist/26XzvosH2cl8Re6KSo9m8Z) | [Roll With Me \(feat\. Shungudzo & ZieZie\)](https://open.spotify.com/album/20SORgtgHYtIn2xjpjXres) | 3:02 |
+| 45 | [yes, and? \- Jonas Blue Remix](https://open.spotify.com/track/62iX6bbxe9T81LrNwqre3p) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [yes, and? \(remixes\)](https://open.spotify.com/album/0kHBlnc69hLOSyXAZn2yeX) | 3:32 |
 
-Snapshot ID: `Mjg0NzQxMzEsMDAwMDAwMDBlN2I5MTVmZjIyMWJiZDg3OTM0NTA5ZDVmMTE5YmU2Mw==`
+Snapshot ID: `Mjg0NzUyOTAsMDAwMDAwMDBiZTMxYTk1ZTc0MjZhZjkyMGJhNmFkMGFlMmE1MTM1OQ==`

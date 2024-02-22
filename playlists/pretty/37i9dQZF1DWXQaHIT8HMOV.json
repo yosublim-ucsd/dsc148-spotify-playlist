@@ -1,12 +1,12 @@
 {
   "description": "Homegrown Ugandan hits in one playlist. Cover: $hyli",
-  "num_followers": 1948,
+  "num_followers": 1947,
   "original_name": "Made In Uganda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZWIxNDIxOWZiNGJlMzRmMzQ3ZTY3NjdlNGQwZjkwZDRhOTBlM2Rj",
+  "snapshot_id": "MCw0ZGQ5MWQ0NGNlMDU2NDkxOTRlNDcxYzgwZmI3ODEzODIyNzFlYWI2",
   "tracks": [
     {
       "added_at": "2024-02-16 11:43:52",
@@ -403,6 +403,22 @@
     {
       "added_at": "2024-02-16 11:43:52",
       "album": {
+        "name": "Namulabako",
+        "url": "https://open.spotify.com/album/04Z3CMpi3cYj1QvoZ7ilMj"
+      },
+      "artists": [
+        {
+          "name": "Ugaboys",
+          "url": "https://open.spotify.com/artist/3MJRn5EWi6McEFbI00qNGe"
+        }
+      ],
+      "duration_ms": 167816,
+      "name": "Namulabako",
+      "url": "https://open.spotify.com/track/2iuL25zyjR69LmdlDzkj34"
+    },
+    {
+      "added_at": "2024-02-16 11:43:52",
+      "album": {
         "name": "Sweat",
         "url": "https://open.spotify.com/album/1oopAtqogP3gYfkyw9H5L5"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 190144,
       "name": "Sweat",
       "url": "https://open.spotify.com/track/7FIHui4Mu8rczCTtlQfc8G"
-    },
-    {
-      "added_at": "2024-02-16 11:43:52",
-      "album": {
-        "name": "Namulabako",
-        "url": "https://open.spotify.com/album/04Z3CMpi3cYj1QvoZ7ilMj"
-      },
-      "artists": [
-        {
-          "name": "Ugaboys",
-          "url": "https://open.spotify.com/artist/3MJRn5EWi6McEFbI00qNGe"
-        }
-      ],
-      "duration_ms": 167816,
-      "name": "Namulabako",
-      "url": "https://open.spotify.com/track/2iuL25zyjR69LmdlDzkj34"
     },
     {
       "added_at": "2024-02-16 11:43:52",
@@ -711,6 +711,26 @@
     {
       "added_at": "2024-02-16 11:43:52",
       "album": {
+        "name": "Not Safe in the West",
+        "url": "https://open.spotify.com/album/3rMp7WLOdXSlUguA2gU7Ic"
+      },
+      "artists": [
+        {
+          "name": "kalibwani",
+          "url": "https://open.spotify.com/artist/6x5ayc2nUnF0bySx8ipDUk"
+        },
+        {
+          "name": "Nafets",
+          "url": "https://open.spotify.com/artist/0PALShJ4yMcson9zvQaqlM"
+        }
+      ],
+      "duration_ms": 178750,
+      "name": "Not Safe in the West",
+      "url": "https://open.spotify.com/track/12QstbH2NNHur6XGtKrxWR"
+    },
+    {
+      "added_at": "2024-02-16 11:43:52",
+      "album": {
         "name": "Q'lalea",
         "url": "https://open.spotify.com/album/5FBkaeCPyo9SAKYGTz4NTu"
       },
@@ -755,26 +775,6 @@
     {
       "added_at": "2024-02-16 11:43:52",
       "album": {
-        "name": "Not Safe in the West",
-        "url": "https://open.spotify.com/album/3rMp7WLOdXSlUguA2gU7Ic"
-      },
-      "artists": [
-        {
-          "name": "kalibwani",
-          "url": "https://open.spotify.com/artist/6x5ayc2nUnF0bySx8ipDUk"
-        },
-        {
-          "name": "Nafets",
-          "url": "https://open.spotify.com/artist/0PALShJ4yMcson9zvQaqlM"
-        }
-      ],
-      "duration_ms": 178750,
-      "name": "Not Safe in the West",
-      "url": "https://open.spotify.com/track/12QstbH2NNHur6XGtKrxWR"
-    },
-    {
-      "added_at": "2024-02-16 11:43:52",
-      "album": {
         "name": "Leega",
         "url": "https://open.spotify.com/album/6NUZuzbhXknUU3P3XDCv8W"
       },
@@ -787,26 +787,6 @@
       "duration_ms": 216398,
       "name": "Leega",
       "url": "https://open.spotify.com/track/2Lpak3zl9w7BwzpRh1Nfmm"
-    },
-    {
-      "added_at": "2024-02-16 11:43:52",
-      "album": {
-        "name": "On My Mind",
-        "url": "https://open.spotify.com/album/45UPO8rL6RyzrtWJ80rrAr"
-      },
-      "artists": [
-        {
-          "name": "Benji Kasule",
-          "url": "https://open.spotify.com/artist/53sV72PJJCP9xX96d6eFgh"
-        },
-        {
-          "name": "Coopy Bly",
-          "url": "https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y"
-        }
-      ],
-      "duration_ms": 226153,
-      "name": "On my Mind",
-      "url": "https://open.spotify.com/track/5qbE876DXDAM3QGjlaYyux"
     },
     {
       "added_at": "2024-02-16 11:43:52",
@@ -827,6 +807,26 @@
       "duration_ms": 133200,
       "name": "Love Ganja",
       "url": "https://open.spotify.com/track/2openNGxPDRNjXFH1gA2Y1"
+    },
+    {
+      "added_at": "2024-02-16 11:43:52",
+      "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/45UPO8rL6RyzrtWJ80rrAr"
+      },
+      "artists": [
+        {
+          "name": "Benji Kasule",
+          "url": "https://open.spotify.com/artist/53sV72PJJCP9xX96d6eFgh"
+        },
+        {
+          "name": "Coopy Bly",
+          "url": "https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y"
+        }
+      ],
+      "duration_ms": 226153,
+      "name": "On my Mind",
+      "url": "https://open.spotify.com/track/5qbE876DXDAM3QGjlaYyux"
     },
     {
       "added_at": "2024-02-16 11:43:52",
@@ -883,6 +883,22 @@
     {
       "added_at": "2024-02-16 11:43:52",
       "album": {
+        "name": "Muntu Wange",
+        "url": "https://open.spotify.com/album/43OSX80VLJScSkGM1r7E8P"
+      },
+      "artists": [
+        {
+          "name": "Coopy Bly",
+          "url": "https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Muntu Wange",
+      "url": "https://open.spotify.com/track/2cltWvrDEDiWP5t9ufEOp3"
+    },
+    {
+      "added_at": "2024-02-16 11:43:52",
+      "album": {
         "name": "Talk To Me",
         "url": "https://open.spotify.com/album/7GaJ0U2ye3tAnSUGBCDuBT"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 169482,
       "name": "Talk To Me",
       "url": "https://open.spotify.com/track/0PvibNWu1jtYdsjSzijZKq"
-    },
-    {
-      "added_at": "2024-02-16 11:43:52",
-      "album": {
-        "name": "Muntu Wange",
-        "url": "https://open.spotify.com/album/43OSX80VLJScSkGM1r7E8P"
-      },
-      "artists": [
-        {
-          "name": "Coopy Bly",
-          "url": "https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Muntu Wange",
-      "url": "https://open.spotify.com/track/2cltWvrDEDiWP5t9ufEOp3"
     },
     {
       "added_at": "2024-02-16 11:43:52",
@@ -955,22 +955,22 @@
     {
       "added_at": "2024-02-16 11:43:52",
       "album": {
-        "name": "Call It Love",
-        "url": "https://open.spotify.com/album/266HjvJogj8MgkGg33ULl9"
+        "name": "Found You",
+        "url": "https://open.spotify.com/album/30EZO4mzKiVCNOwKwIz5zx"
       },
       "artists": [
         {
-          "name": "Kataleya & Kandle",
-          "url": "https://open.spotify.com/artist/1a93I0beev2mbujNJiNuA4"
+          "name": "Benji Kasule",
+          "url": "https://open.spotify.com/artist/53sV72PJJCP9xX96d6eFgh"
         },
         {
-          "name": "B2C",
-          "url": "https://open.spotify.com/artist/0KTeSr884B4f2Uj53ChqWv"
+          "name": "Naava Grey",
+          "url": "https://open.spotify.com/artist/4Dvh0aMCIBySKye4a8O2UB"
         }
       ],
-      "duration_ms": 236483,
-      "name": "Matatu",
-      "url": "https://open.spotify.com/track/1Wp8txZfHt7ENBFv4C78pC"
+      "duration_ms": 225473,
+      "name": "Found You",
+      "url": "https://open.spotify.com/track/06LtEowrZCsWiV2N2iScwJ"
     }
   ],
   "unique_name": "Made In Uganda",

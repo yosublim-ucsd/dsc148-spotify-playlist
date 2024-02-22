@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1boYpG5G2QkmQ7FRi2dRc1.md) - [plain]
 
 > A weekly selection of tracks that I love to listen to at home or play out at a party.
 
-[Martin Garrix](https://open.spotify.com/user/martingarrix) - 296,789 likes - 38 songs - 2 hr 17 min
+[Martin Garrix](https://open.spotify.com/user/martingarrix) - 296,779 likes - 38 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/1boYpG5G2QkmQ7FRi2dRc1.md) - [plain]
 | 34 | [Daydream Repeat](https://open.spotify.com/track/4c7b2Ft8Br0CgJLmt3mI7Z) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Daydream Repeat](https://open.spotify.com/album/0FTFpi4DEZ8yP11kRwVsNK) | 6:08 |
 | 35 | [Hit It Back](https://open.spotify.com/track/7maOJYreyKXNVpSdYNoOPn) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Gian Varela](https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF) | [Hit It Back](https://open.spotify.com/album/2MpANhnsIZjNCpomkvODeK) | 2:18 |
 | 36 | [To The Beat](https://open.spotify.com/track/1D3jKMGvMr9NmirT6cnMyO) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Dances](https://open.spotify.com/artist/1XwL3qdo0jPmliKRgxY5TL) | [To The Beat](https://open.spotify.com/album/66mAWexL2lQqCsb2G3YqM4) | 3:56 |
-| 37 | [She Knows It \(Personal Effects pt\. 2\)](https://open.spotify.com/track/6dcyElSPj7XZdU9VLIgyTw) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Adult Contemporary](https://open.spotify.com/album/3QtPRkz8qZRSxy0slIW1Ea) | 2:19 |
+| 37 | [She Knows It \(Personal Effects, Pt\. 2\)](https://open.spotify.com/track/6dcyElSPj7XZdU9VLIgyTw) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Adult Contemporary](https://open.spotify.com/album/3QtPRkz8qZRSxy0slIW1Ea) | 2:19 |
 | 38 | [Megalodon](https://open.spotify.com/track/4qwn9iOXKfPPI8VTSHEUyf) | [Darius & Finlay](https://open.spotify.com/artist/1w67D3PakcxjYGt6xPnnke), [Pavoire](https://open.spotify.com/artist/5iHEfS0zJZAIXmS93DU0jq) | [Megalodon](https://open.spotify.com/album/7KqwCrMfNNX1CHDTIxFaCw) | 2:55 |
 
 Snapshot ID: `MjAzMSxkODJjMjk3ZmZkMzJkMjJhZjI4NWM5Mzg1YmYyYWI5NTExN2M2ODBm`

@@ -1,12 +1,12 @@
 {
   "description": "A more than 40 years spanning collection of multi-genre music produced on a TR-808 drum machine. Cover: Egyptian Lover",
-  "num_followers": 105470,
+  "num_followers": 105550,
   "original_name": "808 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNDYzZjM4MzUzYTVjYjQ5NzJhMmJiZTc4YTUxMzkwNzQ4Nzk3MmQ4",
+  "snapshot_id": "MCw5NGU4ZDZjODRkOWFmMWE3NjdlMzBmZDk3YTFkMTExNzFkMjA2OTIz",
   "tracks": [
     {
       "added_at": "2023-06-29 22:01:00",
@@ -411,6 +411,22 @@
     {
       "added_at": "2023-06-29 22:01:00",
       "album": {
+        "name": "Invisible Touch (2007 Remaster)",
+        "url": "https://open.spotify.com/album/632b0oXuFpstA4DO2cUKdG"
+      },
+      "artists": [
+        {
+          "name": "Genesis",
+          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
+        }
+      ],
+      "duration_ms": 302840,
+      "name": "In Too Deep - 2007 Remaster",
+      "url": "https://open.spotify.com/track/4P0uyibZjcXZLVeNOHBd8Q"
+    },
+    {
+      "added_at": "2023-06-29 22:01:00",
+      "album": {
         "name": "Port Of Miami",
         "url": "https://open.spotify.com/album/42T8qfRs7jdpInsSk6nDJk"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 191306,
       "name": "Don't Go",
       "url": "https://open.spotify.com/track/3KuAa8Y79xlfJgYtBKbynY"
-    },
-    {
-      "added_at": "2023-06-29 22:01:00",
-      "album": {
-        "name": "Invisible Touch (2007 Remaster)",
-        "url": "https://open.spotify.com/album/632b0oXuFpstA4DO2cUKdG"
-      },
-      "artists": [
-        {
-          "name": "Genesis",
-          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
-        }
-      ],
-      "duration_ms": 302840,
-      "name": "In Too Deep - 2007 Remaster",
-      "url": "https://open.spotify.com/track/4P0uyibZjcXZLVeNOHBd8Q"
     },
     {
       "added_at": "2023-06-29 22:01:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-06-29 22:01:00",
       "album": {
-        "name": "Remind Me (The Classic Elektra Recordings 1978-1984)",
-        "url": "https://open.spotify.com/album/2zhXygXV9sHY6I2AMR456t"
-      },
-      "artists": [
-        {
-          "name": "Patrice Rushen",
-          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
-        }
-      ],
-      "duration_ms": 409648,
-      "name": "Feels So Real (Won't Let Go) - 12\" Version",
-      "url": "https://open.spotify.com/track/6OTqMkJyg3dsr0GZU5OyoZ"
-    },
-    {
-      "added_at": "2023-06-29 22:01:00",
-      "album": {
         "name": "Spirit (feat. Wale)",
         "url": "https://open.spotify.com/album/62HROJu6iE9DXc7EJjlmvv"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 253178,
       "name": "Spirit (feat. Wale)",
       "url": "https://open.spotify.com/track/6Gqzr5DpN48FESo5uHGsJ7"
+    },
+    {
+      "added_at": "2023-06-29 22:01:00",
+      "album": {
+        "name": "Remind Me (The Classic Elektra Recordings 1978-1984)",
+        "url": "https://open.spotify.com/album/2zhXygXV9sHY6I2AMR456t"
+      },
+      "artists": [
+        {
+          "name": "Patrice Rushen",
+          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
+        }
+      ],
+      "duration_ms": 409648,
+      "name": "Feels So Real (Won't Let Go) - 12\" Version",
+      "url": "https://open.spotify.com/track/6OTqMkJyg3dsr0GZU5OyoZ"
     },
     {
       "added_at": "2023-06-29 22:01:00",
@@ -867,18 +867,18 @@
     {
       "added_at": "2023-06-29 22:01:00",
       "album": {
-        "name": "Neptune's Lair",
-        "url": "https://open.spotify.com/album/7bBx5uPv2YgRIAFyXBWhEV"
+        "name": "Chimes",
+        "url": "https://open.spotify.com/album/3WAiRvkJT19j7JbQBpCNfq"
       },
       "artists": [
         {
-          "name": "Drexciya",
-          "url": "https://open.spotify.com/artist/3KcV1kKG7Y0Gq7xPAGVjkZ"
+          "name": "Hudson Mohawke",
+          "url": "https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb"
         }
       ],
-      "duration_ms": 376680,
-      "name": "Andreaen Sand Dunes",
-      "url": "https://open.spotify.com/track/5vcCF1Q328JhaZj4MS6XqO"
+      "duration_ms": 211332,
+      "name": "Chimes",
+      "url": "https://open.spotify.com/track/7qvlZ1AbeqxzRJNYapMcNn"
     }
   ],
   "unique_name": "808 Classics",

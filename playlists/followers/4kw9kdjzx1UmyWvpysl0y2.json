@@ -1,5 +1,5 @@
 {
-  "2024-02-21": 126478,
+  "2024-02-22": 126484,
   "date_first_scraped": "2022-01-22",
   "description": "Brand new music from Monstercat, all in one place.",
   "name": "New Music Weekly | Monstercat",
@@ -3823,7 +3823,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 224914,
       "name": "Fang",
       "url": "https://open.spotify.com/track/5DqGY6XxhHePdeKNfexYvE"
@@ -11707,7 +11707,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 209874,
       "name": "The Journey",
       "url": "https://open.spotify.com/track/0WpZ2gPLOUju1uFFlJ2DIZ"
@@ -11803,6 +11803,32 @@
       "duration_ms": 210511,
       "name": "The Moment",
       "url": "https://open.spotify.com/track/7kJbF9HTZVkaU2e2yf42dB"
+    },
+    {
+      "album": {
+        "name": "The One",
+        "url": "https://open.spotify.com/album/55hOZrIa3iHwwEMfvWKKMe"
+      },
+      "artists": [
+        {
+          "name": "ATTLAS",
+          "url": "https://open.spotify.com/artist/0jM4IKp6YlTxq8tNDH9fX3"
+        },
+        {
+          "name": "Mango",
+          "url": "https://open.spotify.com/artist/5x6H8meBBWk6J8qcIWxW7w"
+        },
+        {
+          "name": "MAYLYN",
+          "url": "https://open.spotify.com/artist/36L4aidPfPFcI1KPY1XDFM"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195500,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/5IjHyWBWrng9EjsAKZZCp4"
     },
     {
       "album": {
@@ -13627,7 +13653,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 230680,
       "name": "ZENITH",
       "url": "https://open.spotify.com/track/3OPRTlKOHH2OkSOn8gM9xQ"

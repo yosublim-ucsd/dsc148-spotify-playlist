@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PfYnYcpw8w.md) - [plain]
 
 > The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,473,791 likes - 70 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,474,264 likes - 70 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PfYnYcpw8w.md) - [plain]
 | 69 | [make up](https://open.spotify.com/track/27356GVuMPFWiJSZCragoM) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 2:20 |
 | 70 | [get well soon](https://open.spotify.com/track/7u6DMPznGbpziuEgCE0JGQ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sweetener](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) | 5:22 |
 
-Snapshot ID: `MCxiOGM1NDRjZWI1NzVjMWE0ZWJlMzU5YzhjNDIyNmFmZTFlNmIzYTMz`
+Snapshot ID: `MCw4MzQzYjczZmUyNTA0NTY3ZDYyMmFhZGEwNmZjMzIxNjZkYThmMzk4`

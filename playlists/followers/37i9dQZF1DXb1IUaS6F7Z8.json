@@ -1,5 +1,5 @@
 {
-  "2024-02-21": 415994,
+  "2024-02-22": 416184,
   "date_first_scraped": "2022-05-15",
   "description": "All of the Celtic punk essentials.. Cover: Dropkick Murphys",
   "name": "Celtic Punk",
@@ -475,7 +475,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 217066,
       "name": "Follow Me Up To Carlow",
       "url": "https://open.spotify.com/track/0FDTn9eV0JeoRYBcVP0Pdp"
@@ -2053,6 +2053,24 @@
       "duration_ms": 160293,
       "name": "Walk the Plank Again",
       "url": "https://open.spotify.com/track/6EiQJaVP4JLBDVhKTG8tZ3"
+    },
+    {
+      "album": {
+        "name": "Real World",
+        "url": "https://open.spotify.com/album/2K0fjyPXmaZV7i51AAmbB7"
+      },
+      "artists": [
+        {
+          "name": "Young Dubliners",
+          "url": "https://open.spotify.com/artist/6goa2f1QVVT8aqSxKWnsVj"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118080,
+      "name": "Waxies Dargle",
+      "url": "https://open.spotify.com/track/1lrnJ87mFAVF6jkUJu4YKA"
     },
     {
       "album": {

@@ -1,15 +1,31 @@
 {
-  "description": "The indie viral hits you couldn\u2019t escape in 2023. Cover: Lana Del Rey ",
-  "num_followers": 141315,
-  "original_name": "Indie that hit different in 2023",
+  "description": "The indie viral hits you can't escape. Cover: Djo ",
+  "num_followers": 142129,
+  "original_name": "Indie that hits different ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YWIzZjgzNGExNWRjNDIwZDIzZWY5NzVkNTQyMmRkNzk0YzQ3OGFl",
+  "snapshot_id": "MCw3YWY1MzMzYzk2NTYzZWFlZWY4YWYyYjNhMzJlMmViMzEyYzNiMmU5",
   "tracks": [
     {
-      "added_at": "2024-02-19 20:06:50",
+      "added_at": "2024-02-21 23:00:00",
+      "album": {
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 159245,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
+    },
+    {
+      "added_at": "2024-02-21 23:00:00",
       "album": {
         "name": "The Land Is Inhospitable and So Are We",
         "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
     },
     {
-      "added_at": "2024-02-19 20:06:50",
+      "added_at": "2024-02-21 23:00:00",
       "album": {
         "name": "AM",
         "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
@@ -41,23 +57,23 @@
       "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
     },
     {
-      "added_at": "2024-02-19 20:06:50",
+      "added_at": "2024-02-21 23:00:00",
       "album": {
-        "name": "Did you know that there's a tunnel under Ocean Blvd",
-        "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
+        "name": "Murder on the Dancefloor (triple j Like A Version)",
+        "url": "https://open.spotify.com/album/02tTPri1bqHRdIwhz4gceP"
       },
       "artists": [
         {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
         }
       ],
-      "duration_ms": 433916,
-      "name": "A&W",
-      "url": "https://open.spotify.com/track/5nW4z3pfZgJAJ2QTCz9AIE"
+      "duration_ms": 180872,
+      "name": "Murder on the Dance Floor - triple j Like A Version",
+      "url": "https://open.spotify.com/track/1swz9stsbG1p34SJHJqiww"
     },
     {
-      "added_at": "2024-02-19 20:06:50",
+      "added_at": "2024-02-21 23:00:00",
       "album": {
         "name": "I Love You.",
         "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
@@ -73,23 +89,7 @@
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
     },
     {
-      "added_at": "2024-02-19 20:06:50",
-      "album": {
-        "name": "Vampire Empire",
-        "url": "https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 192127,
-      "name": "Vampire Empire",
-      "url": "https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW"
-    },
-    {
-      "added_at": "2024-02-19 20:06:50",
+      "added_at": "2024-02-21 23:00:00",
       "album": {
         "name": "Cigarettes After Sex",
         "url": "https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA"
@@ -105,7 +105,7 @@
       "url": "https://open.spotify.com/track/0yc6Gst2xkRu0eMLeRMGCX"
     },
     {
-      "added_at": "2024-02-19 20:06:50",
+      "added_at": "2024-02-21 23:00:00",
       "album": {
         "name": "French Exit",
         "url": "https://open.spotify.com/album/4Hai0uVzRbyTSaTPzxTY4e"
@@ -121,7 +121,7 @@
       "url": "https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM"
     },
     {
-      "added_at": "2024-02-19 20:06:50",
+      "added_at": "2024-02-21 23:00:00",
       "album": {
         "name": "Romantic Homicide",
         "url": "https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B"
@@ -137,7 +137,7 @@
       "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
     },
     {
-      "added_at": "2024-02-19 20:06:50",
+      "added_at": "2024-02-21 23:00:00",
       "album": {
         "name": "we fell in love in october / October Passed Me By",
         "url": "https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa"
@@ -153,7 +153,23 @@
       "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
     },
     {
-      "added_at": "2024-02-19 20:06:50",
+      "added_at": "2024-02-21 23:00:00",
+      "album": {
+        "name": "Beanie",
+        "url": "https://open.spotify.com/album/6ZEGxtC2UW02PF0TR4CsKh"
+      },
+      "artists": [
+        {
+          "name": "Chezile",
+          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
+        }
+      ],
+      "duration_ms": 132160,
+      "name": "Beanie",
+      "url": "https://open.spotify.com/track/2NlxHzUzAHhNcZdaOEuLzq"
+    },
+    {
+      "added_at": "2024-02-21 23:00:00",
       "album": {
         "name": "Here Comes The Cowboy",
         "url": "https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW"
@@ -169,23 +185,7 @@
       "url": "https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2"
     },
     {
-      "added_at": "2024-02-19 20:06:50",
-      "album": {
-        "name": "five seconds flat",
-        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 182887,
-      "name": "ceilings",
-      "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
-    },
-    {
-      "added_at": "2024-02-19 20:06:50",
+      "added_at": "2024-02-21 23:00:00",
       "album": {
         "name": "Death of a Party Girl",
         "url": "https://open.spotify.com/album/5kFjYk3umY8Pu1lymIJLVy"
@@ -201,7 +201,7 @@
       "url": "https://open.spotify.com/track/39sDitIeCMrVX2QyXHY46t"
     },
     {
-      "added_at": "2024-02-19 20:06:50",
+      "added_at": "2024-02-21 23:00:00",
       "album": {
         "name": "Cry",
         "url": "https://open.spotify.com/album/4uQ5kFmXQdCxz3WvM4UUzy"
@@ -217,7 +217,23 @@
       "url": "https://open.spotify.com/track/3p4hRhMcb6ch8OLtATMaLw"
     },
     {
-      "added_at": "2024-02-19 20:06:50",
+      "added_at": "2024-02-21 23:00:00",
+      "album": {
+        "name": "five seconds flat",
+        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 182887,
+      "name": "ceilings",
+      "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
+    },
+    {
+      "added_at": "2024-02-21 23:00:00",
       "album": {
         "name": "Twilight",
         "url": "https://open.spotify.com/album/7sGYAV0xv7ZfAMzIpMl8m1"
@@ -233,7 +249,7 @@
       "url": "https://open.spotify.com/track/42qNWdLKCI41S4uzfamhFM"
     },
     {
-      "added_at": "2024-02-19 20:06:50",
+      "added_at": "2024-02-21 23:00:00",
       "album": {
         "name": "Everybody Else Is Doing It, So Why Can't We?",
         "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
@@ -249,7 +265,7 @@
       "url": "https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK"
     },
     {
-      "added_at": "2024-02-19 20:06:50",
+      "added_at": "2024-02-21 23:00:00",
       "album": {
         "name": "OK Computer",
         "url": "https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE"
@@ -265,7 +281,7 @@
       "url": "https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB"
     },
     {
-      "added_at": "2024-02-19 20:06:50",
+      "added_at": "2024-02-21 23:00:00",
       "album": {
         "name": "Based On A True Story...",
         "url": "https://open.spotify.com/album/6I5Pf71uQzQC0IcJOrh8Rz"
@@ -281,7 +297,7 @@
       "url": "https://open.spotify.com/track/2psRActEWsTlYYd7EDoyVR"
     },
     {
-      "added_at": "2024-02-19 20:06:50",
+      "added_at": "2024-02-21 23:00:00",
       "album": {
         "name": "Did you know that there's a tunnel under Ocean Blvd",
         "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
@@ -301,7 +317,7 @@
       "url": "https://open.spotify.com/track/1o82DwNisONAd2mu1RcGE6"
     },
     {
-      "added_at": "2024-02-19 20:06:50",
+      "added_at": "2024-02-21 23:00:00",
       "album": {
         "name": "I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino)",
         "url": "https://open.spotify.com/album/3eb4GbFzAMjgoRAuuSkoLo"
@@ -325,7 +341,7 @@
       "url": "https://open.spotify.com/track/3ZaEs1O8BG581qYPHpQ8d6"
     },
     {
-      "added_at": "2024-02-19 20:06:50",
+      "added_at": "2024-02-21 23:00:00",
       "album": {
         "name": "Pineapple Sunrise",
         "url": "https://open.spotify.com/album/7gA8QSNSZvHUYC9feFpeLj"
@@ -341,7 +357,7 @@
       "url": "https://open.spotify.com/track/7MlDNspYwfqnHxORufupwq"
     },
     {
-      "added_at": "2024-02-19 20:06:50",
+      "added_at": "2024-02-21 23:00:00",
       "album": {
         "name": "NEVER ENOUGH",
         "url": "https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y"
@@ -357,7 +373,7 @@
       "url": "https://open.spotify.com/track/2LlOeW5rVcvl3QcPNPcDus"
     },
     {
-      "added_at": "2024-02-19 20:06:50",
+      "added_at": "2024-02-21 23:00:00",
       "album": {
         "name": "Bewitched",
         "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
@@ -373,7 +389,7 @@
       "url": "https://open.spotify.com/track/43iIQbw5hx986dUEZbr3eN"
     },
     {
-      "added_at": "2024-02-19 20:06:50",
+      "added_at": "2024-02-21 23:00:00",
       "album": {
         "name": "Being Funny In A Foreign Language",
         "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
@@ -389,7 +405,7 @@
       "url": "https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9"
     },
     {
-      "added_at": "2024-02-19 20:06:50",
+      "added_at": "2024-02-21 23:00:00",
       "album": {
         "name": "Everything So Far",
         "url": "https://open.spotify.com/album/7zlf5gmgcFBUSLZpVsh9EE"
@@ -405,7 +421,7 @@
       "url": "https://open.spotify.com/track/3kQfBtkQqgN1fAMfhks8TU"
     },
     {
-      "added_at": "2024-02-19 20:06:50",
+      "added_at": "2024-02-21 23:00:00",
       "album": {
         "name": "Volcano",
         "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
@@ -421,7 +437,7 @@
       "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
     },
     {
-      "added_at": "2024-02-19 20:06:50",
+      "added_at": "2024-02-21 23:00:00",
       "album": {
         "name": "Chiaroscuro",
         "url": "https://open.spotify.com/album/0MVMsDS0kofp6A8cbJ5kSH"
@@ -437,23 +453,7 @@
       "url": "https://open.spotify.com/track/7to68V64Cu6zk0UDo5tyw3"
     },
     {
-      "added_at": "2024-02-19 20:06:50",
-      "album": {
-        "name": "DECIDE",
-        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 159245,
-      "name": "End of Beginning",
-      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
-    },
-    {
-      "added_at": "2024-02-19 20:06:50",
+      "added_at": "2024-02-21 23:00:00",
       "album": {
         "name": "Depression Cherry",
         "url": "https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr"
@@ -469,23 +469,7 @@
       "url": "https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow"
     },
     {
-      "added_at": "2024-02-19 20:06:50",
-      "album": {
-        "name": "Faye Webster",
-        "url": "https://open.spotify.com/album/0pEHMpnX1jA44pzhW3n0JB"
-      },
-      "artists": [
-        {
-          "name": "Faye Webster",
-          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
-        }
-      ],
-      "duration_ms": 251666,
-      "name": "I Know You",
-      "url": "https://open.spotify.com/track/71BWZa1liIRyUiuJ3MB66o"
-    },
-    {
-      "added_at": "2024-02-19 20:06:50",
+      "added_at": "2024-02-21 23:00:00",
       "album": {
         "name": "Glue Song",
         "url": "https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8"
@@ -501,7 +485,23 @@
       "url": "https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf"
     },
     {
-      "added_at": "2024-02-19 20:06:50",
+      "added_at": "2024-02-21 23:00:00",
+      "album": {
+        "name": "Faye Webster",
+        "url": "https://open.spotify.com/album/0pEHMpnX1jA44pzhW3n0JB"
+      },
+      "artists": [
+        {
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+        }
+      ],
+      "duration_ms": 251666,
+      "name": "I Know You",
+      "url": "https://open.spotify.com/track/71BWZa1liIRyUiuJ3MB66o"
+    },
+    {
+      "added_at": "2024-02-21 23:00:00",
       "album": {
         "name": "How to: Friend, Love, Freefall",
         "url": "https://open.spotify.com/album/7vXiklrUeffx5o2F8VYwm3"
@@ -517,7 +517,7 @@
       "url": "https://open.spotify.com/track/474uVhyGgK5MtY9gMcDgGl"
     },
     {
-      "added_at": "2024-02-19 20:06:50",
+      "added_at": "2024-02-21 23:00:00",
       "album": {
         "name": "Wasted Summers",
         "url": "https://open.spotify.com/album/5SrN0SPOdmdCBe0dyDcpsY"
@@ -533,7 +533,7 @@
       "url": "https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR"
     },
     {
-      "added_at": "2024-02-19 20:06:50",
+      "added_at": "2024-02-21 23:00:00",
       "album": {
         "name": "Looking Out for You",
         "url": "https://open.spotify.com/album/7slouenWhZDdDZibkS4nR3"
@@ -549,7 +549,7 @@
       "url": "https://open.spotify.com/track/3jfZ9M23l0L7RxzYMTgBTv"
     },
     {
-      "added_at": "2024-02-19 20:06:50",
+      "added_at": "2024-02-21 23:00:00",
       "album": {
         "name": "Real Love Baby",
         "url": "https://open.spotify.com/album/75614DWrksimeV4oXUhaYP"
@@ -565,7 +565,7 @@
       "url": "https://open.spotify.com/track/0Z57YWES04xGh3AImDz6Qr"
     },
     {
-      "added_at": "2024-02-19 20:06:50",
+      "added_at": "2024-02-21 23:00:00",
       "album": {
         "name": "Offering",
         "url": "https://open.spotify.com/album/3trAc3cGjtbFXbljFVdzZG"
@@ -581,7 +581,7 @@
       "url": "https://open.spotify.com/track/3Z0qLOS0cqWKPHXkbTXmNF"
     },
     {
-      "added_at": "2024-02-19 20:06:50",
+      "added_at": "2024-02-21 23:00:00",
       "album": {
         "name": "Hell N Back",
         "url": "https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF"
@@ -597,7 +597,7 @@
       "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
     },
     {
-      "added_at": "2024-02-19 20:06:50",
+      "added_at": "2024-02-21 23:00:00",
       "album": {
         "name": "Clean Sheets, dirty walls",
         "url": "https://open.spotify.com/album/4KvNYZHRuNDQ3Xx6ZxkePp"
@@ -613,23 +613,23 @@
       "url": "https://open.spotify.com/track/2vXSHAPCNpWZ7DNFDkEDMz"
     },
     {
-      "added_at": "2024-02-19 20:06:50",
+      "added_at": "2024-02-21 23:00:00",
       "album": {
-        "name": "Nothing Matters",
-        "url": "https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3"
+        "name": "Vampire Empire",
+        "url": "https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm"
       },
       "artists": [
         {
-          "name": "The Last Dinner Party",
-          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
         }
       ],
-      "duration_ms": 181750,
-      "name": "Nothing Matters",
-      "url": "https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o"
+      "duration_ms": 192127,
+      "name": "Vampire Empire",
+      "url": "https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW"
     },
     {
-      "added_at": "2024-02-19 20:06:50",
+      "added_at": "2024-02-21 23:00:00",
       "album": {
         "name": "Treehouse",
         "url": "https://open.spotify.com/album/6bkxg2HCORFlB0akEfqJvY"
@@ -649,23 +649,23 @@
       "url": "https://open.spotify.com/track/7fyG2MquxykO3Ufiku1Dj2"
     },
     {
-      "added_at": "2024-02-19 20:06:50",
+      "added_at": "2024-02-21 23:00:00",
       "album": {
-        "name": "Murder on the Dancefloor (triple j Like A Version)",
-        "url": "https://open.spotify.com/album/02tTPri1bqHRdIwhz4gceP"
+        "name": "Nothing Matters",
+        "url": "https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3"
       },
       "artists": [
         {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
         }
       ],
-      "duration_ms": 180872,
-      "name": "Murder on the Dance Floor - triple j Like A Version",
-      "url": "https://open.spotify.com/track/1swz9stsbG1p34SJHJqiww"
+      "duration_ms": 181750,
+      "name": "Nothing Matters",
+      "url": "https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o"
     },
     {
-      "added_at": "2024-02-19 20:06:50",
+      "added_at": "2024-02-21 23:00:00",
       "album": {
         "name": "I Can't Handle Change",
         "url": "https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d"
@@ -681,7 +681,7 @@
       "url": "https://open.spotify.com/track/40gk32E7YaTFoQwDIWv2SY"
     },
     {
-      "added_at": "2024-02-19 20:06:50",
+      "added_at": "2024-02-21 23:00:00",
       "album": {
         "name": "Agony",
         "url": "https://open.spotify.com/album/6hMR006RO5sOuA9Vgs4v9L"
@@ -697,7 +697,23 @@
       "url": "https://open.spotify.com/track/4JdYapRlYv67LnjrkDhZVX"
     },
     {
-      "added_at": "2024-02-19 20:06:50",
+      "added_at": "2024-02-21 23:00:00",
+      "album": {
+        "name": "Did you know that there's a tunnel under Ocean Blvd",
+        "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 433916,
+      "name": "A&W",
+      "url": "https://open.spotify.com/track/5nW4z3pfZgJAJ2QTCz9AIE"
+    },
+    {
+      "added_at": "2024-02-21 23:00:00",
       "album": {
         "name": "labour",
         "url": "https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn"
@@ -713,23 +729,7 @@
       "url": "https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG"
     },
     {
-      "added_at": "2024-02-19 20:06:50",
-      "album": {
-        "name": "Sunburn",
-        "url": "https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 155721,
-      "name": "Mama's Boy",
-      "url": "https://open.spotify.com/track/0b6xZk9f96N77BfmYWnQNC"
-    },
-    {
-      "added_at": "2024-02-19 20:06:50",
+      "added_at": "2024-02-21 23:00:00",
       "album": {
         "name": "Thee Sacred Souls",
         "url": "https://open.spotify.com/album/6ofJrAZaaX0iWTXYXObUxE"
@@ -745,7 +745,23 @@
       "url": "https://open.spotify.com/track/6IAuH3hgTRpUUdmOGubXGS"
     },
     {
-      "added_at": "2024-02-19 20:06:50",
+      "added_at": "2024-02-21 23:00:00",
+      "album": {
+        "name": "Sunburn",
+        "url": "https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 155721,
+      "name": "Mama's Boy",
+      "url": "https://open.spotify.com/track/0b6xZk9f96N77BfmYWnQNC"
+    },
+    {
+      "added_at": "2024-02-21 23:00:00",
       "album": {
         "name": "Dear Wormwood",
         "url": "https://open.spotify.com/album/6wYIs564dOi2lOT9bGYPLK"
@@ -761,7 +777,7 @@
       "url": "https://open.spotify.com/track/3xtiXNDbSKxy20I7D6vFUg"
     },
     {
-      "added_at": "2024-02-19 20:06:50",
+      "added_at": "2024-02-21 23:00:00",
       "album": {
         "name": "Souvlaki",
         "url": "https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z"
@@ -777,7 +793,7 @@
       "url": "https://open.spotify.com/track/0oxYB9GoOIDrdzniNdKC44"
     },
     {
-      "added_at": "2024-02-19 20:06:50",
+      "added_at": "2024-02-21 23:00:00",
       "album": {
         "name": "Euphories",
         "url": "https://open.spotify.com/album/1WfIjwnJ0aHiWCSkeSSeuV"
@@ -801,7 +817,7 @@
       "url": "https://open.spotify.com/track/269XSeQhDrWEotMALJaACW"
     },
     {
-      "added_at": "2024-02-19 20:06:50",
+      "added_at": "2024-02-21 23:00:00",
       "album": {
         "name": "Stranger in the Alps (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl"
@@ -815,24 +831,8 @@
       "duration_ms": 305000,
       "name": "Scott Street",
       "url": "https://open.spotify.com/track/21uFPefbgeR3QLVJWATlrr"
-    },
-    {
-      "added_at": "2024-02-19 20:06:50",
-      "album": {
-        "name": "Sugarbread",
-        "url": "https://open.spotify.com/album/5yuGLsbL0XTjON5tewyApa"
-      },
-      "artists": [
-        {
-          "name": "Soap&Skin",
-          "url": "https://open.spotify.com/artist/2mAYpnSe3g2Y22JcZ2ddku"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Me and the Devil",
-      "url": "https://open.spotify.com/track/0wrWxW18WK2MkrfDpRHkyh"
     }
   ],
-  "unique_name": "Indie that hit different in 2023",
+  "unique_name": "Indie that hits different ",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXad2sxzzYX1N"
 }

@@ -1,5 +1,5 @@
 {
-  "2024-02-21": 70834,
+  "2024-02-22": 70838,
   "date_first_scraped": "2022-04-16",
   "description": "Your daily update of the most viral tracks right now - Chile.",
   "name": "Viral 50 - Chile",
@@ -991,7 +991,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 176739,
       "name": "A Mi <\\3",
       "url": "https://open.spotify.com/track/6cYNjRPUPCToPyvRCOwd61"
@@ -1168,6 +1168,24 @@
     },
     {
       "album": {
+        "name": "Las Ligas Menores",
+        "url": "https://open.spotify.com/album/3uo5La74eGmsUeXJdRRO3g"
+      },
+      "artists": [
+        {
+          "name": "Las Ligas Menores",
+          "url": "https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145239,
+      "name": "Accidente",
+      "url": "https://open.spotify.com/track/55xFPGknQ0zQluwBmf2nVm"
+    },
+    {
+      "album": {
         "name": "Aces",
         "url": "https://open.spotify.com/album/7e0f5k0iqJVH5OdUEP9vOf"
       },
@@ -1233,7 +1251,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 113684,
       "name": "act ii: date @ 8",
       "url": "https://open.spotify.com/track/4HMop4Re0iucehmF7mgV27"
@@ -2284,6 +2302,24 @@
     },
     {
       "album": {
+        "name": "Amores Como El Nuestro",
+        "url": "https://open.spotify.com/album/08d5zydYlvMAaCHZECHchX"
+      },
+      "artists": [
+        {
+          "name": "Nickoog Clk",
+          "url": "https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173196,
+      "name": "Amores Como El Nuestro",
+      "url": "https://open.spotify.com/track/1bkeI4MxhcW2OfEZ4tFKSU"
+    },
+    {
+      "album": {
         "name": "Amores Luiz",
         "url": "https://open.spotify.com/album/7jFbu3PPnId79X8wTXNMfc"
       },
@@ -2785,6 +2821,28 @@
       "duration_ms": 183547,
       "name": "ARRANCARMELO",
       "url": "https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b"
+    },
+    {
+      "album": {
+        "name": "arreglo floral",
+        "url": "https://open.spotify.com/album/0PHKtBh4te1tCWuTUPd6EZ"
+      },
+      "artists": [
+        {
+          "name": "AKRIILA",
+          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
+        },
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147168,
+      "name": "arreglo floral",
+      "url": "https://open.spotify.com/track/4Qm4cTIPYTPKL0VHcKy0tm"
     },
     {
       "album": {
@@ -6207,7 +6265,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 126481,
       "name": "CLEARED - Remix",
       "url": "https://open.spotify.com/track/54L7uacUGRkvoLokUlNWfH"
@@ -10852,6 +10910,24 @@
     },
     {
       "album": {
+        "name": "Fantas\u00eda",
+        "url": "https://open.spotify.com/album/3itV9lmJQKOL5sLLX10sco"
+      },
+      "artists": [
+        {
+          "name": "elmaskesuena",
+          "url": "https://open.spotify.com/artist/7Jt2cDnf0y8TKGI36hmI32"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186015,
+      "name": "Fantas\u00eda",
+      "url": "https://open.spotify.com/track/0fgSjEdxn4kjS8yxPTGWpA"
+    },
+    {
+      "album": {
         "name": "Fashion Girl",
         "url": "https://open.spotify.com/album/2e5i1z5W9SyQC83KnUgXEa"
       },
@@ -12148,6 +12224,28 @@
     },
     {
       "album": {
+        "name": "Gata Only",
+        "url": "https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM"
+      },
+      "artists": [
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        },
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Gata Only",
+      "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
+    },
+    {
+      "album": {
         "name": "Gata Only (Turreo Edit Remix)",
         "url": "https://open.spotify.com/album/0obkuYdkZG0DKkYuWLdgrP"
       },
@@ -13401,7 +13499,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 140653,
       "name": "Hell Is Forever",
       "url": "https://open.spotify.com/track/6Ux7hThoEVu7V0YmmZqunV"
@@ -13793,7 +13891,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 157485,
       "name": "Home",
       "url": "https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK"
@@ -14011,6 +14109,24 @@
       "duration_ms": 135566,
       "name": "I am happy",
       "url": "https://open.spotify.com/track/6I8HPcA3003gZgVSH4uGlT"
+    },
+    {
+      "album": {
+        "name": "I GOT YOU (Voyage ver.)",
+        "url": "https://open.spotify.com/album/5cnrcbdcdt6BJgAig9Tn3P"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173240,
+      "name": "I GOT YOU (Original)",
+      "url": "https://open.spotify.com/track/4RXsi1oTj3uaqoRC9UrwGA"
     },
     {
       "album": {
@@ -14483,7 +14599,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 260370,
       "name": "Igual Que Un \u00c1ngel (with Peso Pluma)",
       "url": "https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI"
@@ -17511,7 +17627,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 271080,
       "name": "Love wins all",
       "url": "https://open.spotify.com/track/0djkJ3iAARXRCbfbwwVc3o"
@@ -18786,6 +18902,28 @@
     },
     {
       "album": {
+        "name": "El Rey",
+        "url": "https://open.spotify.com/album/007kYppVVv2YyKoaoD8Erb"
+      },
+      "artists": [
+        {
+          "name": "samp filtra",
+          "url": "https://open.spotify.com/artist/78N17JZ4NPjyCNHPDfKT0g"
+        },
+        {
+          "name": "Galee Galee",
+          "url": "https://open.spotify.com/artist/0x5lhIYknBUEozHuXjkwUs"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248081,
+      "name": "Me Siento un Star",
+      "url": "https://open.spotify.com/track/15tfhbahVkbAX0haRR9bcn"
+    },
+    {
+      "album": {
         "name": "Me Veo Rico",
         "url": "https://open.spotify.com/album/3BmMCU5KM1F53Y8v6JGT2G"
       },
@@ -19455,6 +19593,28 @@
       "duration_ms": 139380,
       "name": "Mi Otra Mitad",
       "url": "https://open.spotify.com/track/2hFW9TTLrpe6ZDk3qzlfX7"
+    },
+    {
+      "album": {
+        "name": "Mi Otra Mitad (Remix)",
+        "url": "https://open.spotify.com/album/668u02QByaBqOr2YiJE0hW"
+      },
+      "artists": [
+        {
+          "name": "Elio Leiros",
+          "url": "https://open.spotify.com/artist/3oOY07QqOUrLSEJ4AOv9rz"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194885,
+      "name": "Mi Otra Mitad (Remix)",
+      "url": "https://open.spotify.com/track/5nkVhLA1qnWbH1QN1aR6lG"
     },
     {
       "album": {
@@ -20433,7 +20593,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 193235,
       "name": "More Than Anything",
       "url": "https://open.spotify.com/track/64bs8pCgpueh0mFEKZWGXS"
@@ -23130,6 +23290,32 @@
     },
     {
       "album": {
+        "name": "Hazbin Hotel (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2EOqRNsJiNb7IFLktJBZpq"
+      },
+      "artists": [
+        {
+          "name": "Andrew Underberg",
+          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
+        },
+        {
+          "name": "Sam Haft",
+          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
+        },
+        {
+          "name": "Daphne Rubin-Vega",
+          "url": "https://open.spotify.com/artist/0WJ95VwySC8v8HR504J5vR"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90305,
+      "name": "Out For Love",
+      "url": "https://open.spotify.com/track/3CAgZdCErAPdUBwFmaRyGA"
+    },
+    {
+      "album": {
         "name": "Out Of My System",
         "url": "https://open.spotify.com/album/7jopIUIxL6FK9izKNhfVXb"
       },
@@ -24589,7 +24775,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 178163,
       "name": "Pe\u00f1alolen Cuna de Ladrones",
       "url": "https://open.spotify.com/track/0ex09B5au6UHlujRSjAolE"
@@ -24717,6 +24903,28 @@
       "duration_ms": 174193,
       "name": "Pico y Pala",
       "url": "https://open.spotify.com/track/1AWefrQG0I0OtvatTB01EZ"
+    },
+    {
+      "album": {
+        "name": "Piel",
+        "url": "https://open.spotify.com/album/4HB0tHV2edhM1QJXFYeKLy"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141079,
+      "name": "Piel",
+      "url": "https://open.spotify.com/track/4wS0TnQzVkY9ML1BPKpOk1"
     },
     {
       "album": {
@@ -26665,7 +26873,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 270697,
       "name": "redrum",
       "url": "https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh"
@@ -27497,6 +27705,56 @@
       "duration_ms": 143960,
       "name": "Santer\u00eda",
       "url": "https://open.spotify.com/track/53gSTKzT1uIbmj2ZXnkkBV"
+    },
+    {
+      "album": {
+        "name": "SATIROS",
+        "url": "https://open.spotify.com/album/37Kixum2sTiBBhQkGQnvcU"
+      },
+      "artists": [
+        {
+          "name": "Kramps",
+          "url": "https://open.spotify.com/artist/3PfQ6I9p5qZKQv4WptY9mB"
+        },
+        {
+          "name": "SOULFIA",
+          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
+        },
+        {
+          "name": "Benja Valencia",
+          "url": "https://open.spotify.com/artist/2N4rDzKt2aZK1ksES0YKBP"
+        },
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
+        {
+          "name": "Martinwhite",
+          "url": "https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T"
+        },
+        {
+          "name": "Daiko 02",
+          "url": "https://open.spotify.com/artist/7HyrZUMEfu8eTF2iN5iP7T"
+        },
+        {
+          "name": "flackoloyal",
+          "url": "https://open.spotify.com/artist/0hhDA92zBSqlVzFM2KFN0n"
+        },
+        {
+          "name": "Swift 047",
+          "url": "https://open.spotify.com/artist/2dsPXjJl58yqBAtUQmnFOb"
+        },
+        {
+          "name": "Craken",
+          "url": "https://open.spotify.com/artist/46nzKrWLKTUTa1uQDd3ZiI"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292909,
+      "name": "SATIROS",
+      "url": "https://open.spotify.com/track/1Sq5OF64bcQCnr5dsWNDRX"
     },
     {
       "album": {
@@ -31886,6 +32144,28 @@
     },
     {
       "album": {
+        "name": "El Rey",
+        "url": "https://open.spotify.com/album/007kYppVVv2YyKoaoD8Erb"
+      },
+      "artists": [
+        {
+          "name": "samp filtra",
+          "url": "https://open.spotify.com/artist/78N17JZ4NPjyCNHPDfKT0g"
+        },
+        {
+          "name": "Galee Galee",
+          "url": "https://open.spotify.com/artist/0x5lhIYknBUEozHuXjkwUs"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136672,
+      "name": "Tu Eres Fuego Mami",
+      "url": "https://open.spotify.com/track/1uhRbdeVEjKA1hK9MmJre4"
+    },
+    {
+      "album": {
         "name": "tu fan",
         "url": "https://open.spotify.com/album/1vt9k84zvlnJKa3D3CNnzx"
       },
@@ -32855,7 +33135,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 243898,
       "name": "Una Foto Remix (feat. Emilia)",
       "url": "https://open.spotify.com/track/1kqH58eGh2ZTOHwqBIB2tM"
@@ -33349,7 +33629,7 @@
       ],
       "date_added": "2024-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 245186,
       "name": "Vaquero",
       "url": "https://open.spotify.com/track/2ooKgNKvmTKxqkQUdyX7Mz"

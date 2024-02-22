@@ -1,5 +1,5 @@
 {
-  "2024-02-21": 129489,
+  "2024-02-22": 129506,
   "date_first_scraped": "2022-10-24",
   "description": "\u7720\u308c\u306a\u3044\u591c\u3082\u97f3\u697d\u3068\u4e00\u7dd2\u306b\u3002\u304f\u3064\u308d\u304e\u306a\u304c\u3089\u3001\u5165\u7720\u52b9\u679c\u306e\u3042\u308b\u97f3\u697d\u3068\u7d20\u6575\u306a\u591c\u3092\u3086\u3063\u305f\u308a\u3068\u304a\u904e\u3054\u3057\u4e0b\u3055\u3044\u3002",
   "name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",
@@ -3246,6 +3246,24 @@
     },
     {
       "album": {
+        "name": "Re-\u9b54\u6cd5",
+        "url": "https://open.spotify.com/album/1CdAvRqfAl2I8kPezmHyHo"
+      },
+      "artists": [
+        {
+          "name": "\u5ca1\u6751\u5321\u7d18",
+          "url": "https://open.spotify.com/artist/5p3ewYLB0R0cbicCOyFFMR"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278518,
+      "name": "Re-\u9b54\u6cd5",
+      "url": "https://open.spotify.com/track/2kHaJVeDjowAU73DnJBcQW"
+    },
+    {
+      "album": {
         "name": "Night Flow",
         "url": "https://open.spotify.com/album/6BUtooxe1o0S9rSLZbmZ24"
       },
@@ -3261,7 +3279,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 249940,
       "name": "reiji no machi",
       "url": "https://open.spotify.com/track/5hMGyNKCPjI0VFjS0YoozL"
@@ -3555,6 +3573,24 @@
       "duration_ms": 248600,
       "name": "Shin Takara Jima (hf remix)",
       "url": "https://open.spotify.com/track/0cJEseMqUZcRsEJpceH5Zb"
+    },
+    {
+      "album": {
+        "name": "Sigh Sigh",
+        "url": "https://open.spotify.com/album/3d9wGYzlFwAaJaQNsponSk"
+      },
+      "artists": [
+        {
+          "name": "Kitri",
+          "url": "https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 749026,
+      "name": "Sigh Sigh",
+      "url": "https://open.spotify.com/track/3oLQs6Bx1JkaUqaIfmlu04"
     },
     {
       "album": {
@@ -3859,7 +3895,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 222500,
       "name": "Sweet Lemon",
       "url": "https://open.spotify.com/track/4Cw3Cr6nghAhLvphXMneON"
@@ -4414,6 +4450,24 @@
     },
     {
       "album": {
+        "name": "Window",
+        "url": "https://open.spotify.com/album/17405CDEzV3dZGTucZeVxy"
+      },
+      "artists": [
+        {
+          "name": "\u00c5lborg",
+          "url": "https://open.spotify.com/artist/5RG6CMtljJC7BbVIfx0j7V"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240132,
+      "name": "Window",
+      "url": "https://open.spotify.com/track/66l07rLvSUUabP5LSftS4o"
+    },
+    {
+      "album": {
         "name": "Wish You Were Here",
         "url": "https://open.spotify.com/album/7iwT3qJe6FnAcn6CouxMIM"
       },
@@ -4461,7 +4515,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 236619,
       "name": "Words(Ryu Solo)",
       "url": "https://open.spotify.com/track/1RHYwhLdvPUm3qMPnxOci5"
@@ -5633,7 +5687,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 313360,
       "name": "\u30c9\u30ec\u30df",
       "url": "https://open.spotify.com/track/7GtfuAf9L1zSNgm7AOve9Q"
@@ -5915,6 +5969,24 @@
       "duration_ms": 285870,
       "name": "\u4f1d\u3048\u305f\u3044",
       "url": "https://open.spotify.com/track/5PMH2m73WhuCs10kw0s2Bz"
+    },
+    {
+      "album": {
+        "name": "\u4f55\u3082\u306a\u3044\u65e5",
+        "url": "https://open.spotify.com/album/6O06OGRhVQc2toEcc4ifQC"
+      },
+      "artists": [
+        {
+          "name": "\u6ce2\u306e\u3088\u3046",
+          "url": "https://open.spotify.com/artist/6NJMPhL4Va9u2RWjymGYhZ"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234045,
+      "name": "\u4f55\u3082\u306a\u3044\u65e5",
+      "url": "https://open.spotify.com/track/6FCZwarxha0XHi78yj46SK"
     },
     {
       "album": {
@@ -6591,7 +6663,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 435626,
       "name": "\u624b\u7d19",
       "url": "https://open.spotify.com/track/7jptw3DENO2pWmrfzE1TZs"
@@ -6967,7 +7039,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 176905,
       "name": "\u6c38\u3044\u8a00\u3044\u8a33",
       "url": "https://open.spotify.com/track/5Vwqo0fUNdMn2eqJKXT3Lc"
@@ -7441,7 +7513,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 347898,
       "name": "\u79c1\u751f\u6d3b",
       "url": "https://open.spotify.com/track/3MF87LZiZQ2LrhLrkD0jtv"
@@ -7647,7 +7719,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 283280,
       "name": "\u81ea\u5206",
       "url": "https://open.spotify.com/track/11Zc5dytjNLcKRhMbbveRW"

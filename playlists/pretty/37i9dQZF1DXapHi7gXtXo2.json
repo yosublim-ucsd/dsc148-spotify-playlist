@@ -1,12 +1,12 @@
 {
   "description": "Dale play y d\u00e9jate llevar por estas finas melod\u00edas Indie.",
-  "num_followers": 83965,
+  "num_followers": 83980,
   "original_name": "Radio Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYzI4NDI4MDYyYzNmZTJhYzM1ZTc1MmZhZGEwYTk2OTkyOGYyODVj",
+  "snapshot_id": "MCxlMGViMDg3OGJmNmI3NTYzZTgyYjY4MzBkNjY2YjA0YzdkYjlkYzMz",
   "tracks": [
     {
       "added_at": "2024-01-25 20:25:36",
@@ -115,22 +115,6 @@
     {
       "added_at": "2024-01-25 20:25:36",
       "album": {
-        "name": "Primeras Canciones",
-        "url": "https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 199936,
-      "name": "Al Norte",
-      "url": "https://open.spotify.com/track/2dxeshKXUCGzydZQziuN3B"
-    },
-    {
-      "added_at": "2024-01-25 20:25:36",
-      "album": {
         "name": "NAFTA II",
         "url": "https://open.spotify.com/album/4B2sJdUM5lyuiGv7KYi8It"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 178454,
       "name": "Andate",
       "url": "https://open.spotify.com/track/4c58twuNTtI4VBzH28I3EV"
+    },
+    {
+      "added_at": "2024-01-25 20:25:36",
+      "album": {
+        "name": "Primeras Canciones",
+        "url": "https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 199936,
+      "name": "Al Norte",
+      "url": "https://open.spotify.com/track/2dxeshKXUCGzydZQziuN3B"
     },
     {
       "added_at": "2024-01-25 20:25:36",
@@ -259,22 +259,6 @@
     {
       "added_at": "2024-01-25 20:25:36",
       "album": {
-        "name": "Los A\u00f1os Futuros",
-        "url": "https://open.spotify.com/album/5Jx3gtYO55WUQHLUZyk6Qc"
-      },
-      "artists": [
-        {
-          "name": "1915",
-          "url": "https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1"
-        }
-      ],
-      "duration_ms": 187824,
-      "name": "Extranjero",
-      "url": "https://open.spotify.com/track/6f4HlS9R6HO2pnBaRbawA8"
-    },
-    {
-      "added_at": "2024-01-25 20:25:36",
-      "album": {
         "name": "SUPERSTICIONES",
         "url": "https://open.spotify.com/album/448b1zlK215QOb8UvFNzpu"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 188890,
       "name": "Supersticiones",
       "url": "https://open.spotify.com/track/5JrnwgsC1FRz6uHyGFHpqZ"
+    },
+    {
+      "added_at": "2024-01-25 20:25:36",
+      "album": {
+        "name": "Los A\u00f1os Futuros",
+        "url": "https://open.spotify.com/album/5Jx3gtYO55WUQHLUZyk6Qc"
+      },
+      "artists": [
+        {
+          "name": "1915",
+          "url": "https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1"
+        }
+      ],
+      "duration_ms": 187824,
+      "name": "Extranjero",
+      "url": "https://open.spotify.com/track/6f4HlS9R6HO2pnBaRbawA8"
     },
     {
       "added_at": "2024-01-25 20:25:36",
@@ -343,6 +343,22 @@
     {
       "added_at": "2024-01-25 20:25:36",
       "album": {
+        "name": "Cardellino",
+        "url": "https://open.spotify.com/album/43ngUKpEMUdgNv3cHaWGKC"
+      },
+      "artists": [
+        {
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+        }
+      ],
+      "duration_ms": 169776,
+      "name": "TOSCANA",
+      "url": "https://open.spotify.com/track/6ejAYAdo08qbPLrH4FEfYe"
+    },
+    {
+      "added_at": "2024-01-25 20:25:36",
+      "album": {
         "name": "Lo que fuera",
         "url": "https://open.spotify.com/album/77YloBOjF7a1x3WEqsk9Ia"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 167044,
       "name": "Si Quieres",
       "url": "https://open.spotify.com/track/4eus2M68qtL8u8MWHHaxGG"
-    },
-    {
-      "added_at": "2024-01-25 20:25:36",
-      "album": {
-        "name": "Cardellino",
-        "url": "https://open.spotify.com/album/43ngUKpEMUdgNv3cHaWGKC"
-      },
-      "artists": [
-        {
-          "name": "Cardellino",
-          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
-        }
-      ],
-      "duration_ms": 169776,
-      "name": "TOSCANA",
-      "url": "https://open.spotify.com/track/6ejAYAdo08qbPLrH4FEfYe"
     },
     {
       "added_at": "2024-01-25 20:25:36",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-01-25 20:25:36",
       "album": {
-        "name": "Feroza",
-        "url": "https://open.spotify.com/album/3Ear2Vze1ZV4JDk4ZfWp2A"
-      },
-      "artists": [
-        {
-          "name": "Feli Colina",
-          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
-        }
-      ],
-      "duration_ms": 178756,
-      "name": "Susurrito",
-      "url": "https://open.spotify.com/track/7btTCfo8fyFOhqFXFdMi7b"
-    },
-    {
-      "added_at": "2024-01-25 20:25:36",
-      "album": {
         "name": "Mira Lo Que Me Hiciste Hacer",
         "url": "https://open.spotify.com/album/56iVzGyiTDQU2wenZeIhXI"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 208430,
       "name": "Cuando Quieras Llegar",
       "url": "https://open.spotify.com/track/0VzlIcd7HVC1VDqwx4Ry9y"
+    },
+    {
+      "added_at": "2024-01-25 20:25:36",
+      "album": {
+        "name": "Feroza",
+        "url": "https://open.spotify.com/album/3Ear2Vze1ZV4JDk4ZfWp2A"
+      },
+      "artists": [
+        {
+          "name": "Feli Colina",
+          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
+        }
+      ],
+      "duration_ms": 178756,
+      "name": "Susurrito",
+      "url": "https://open.spotify.com/track/7btTCfo8fyFOhqFXFdMi7b"
     },
     {
       "added_at": "2024-01-25 20:25:36",
@@ -791,6 +791,22 @@
       "duration_ms": 188222,
       "name": "Todo Estaba Bien",
       "url": "https://open.spotify.com/track/72m6x9D3NCMs2MsE4wHMIC"
+    },
+    {
+      "added_at": "2024-01-25 20:25:36",
+      "album": {
+        "name": "La Danza del Espacio Tiempo",
+        "url": "https://open.spotify.com/album/6tSTVRRPOPq1TXqB8Wea0b"
+      },
+      "artists": [
+        {
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
+        }
+      ],
+      "duration_ms": 128981,
+      "name": "La Danza del Espacio Tiempo",
+      "url": "https://open.spotify.com/track/5YFqhC4xMQWSbdiGPUynXP"
     },
     {
       "added_at": "2024-01-25 20:25:36",
@@ -831,22 +847,6 @@
       "duration_ms": 215106,
       "name": "Canci\u00f3n Para Que Vuelvas",
       "url": "https://open.spotify.com/track/5pv3V5KpSLDcbzP9Q9QvlH"
-    },
-    {
-      "added_at": "2024-01-25 20:25:36",
-      "album": {
-        "name": "La Danza del Espacio Tiempo",
-        "url": "https://open.spotify.com/album/6tSTVRRPOPq1TXqB8Wea0b"
-      },
-      "artists": [
-        {
-          "name": "Koino Yokan",
-          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
-        }
-      ],
-      "duration_ms": 128981,
-      "name": "La Danza del Espacio Tiempo",
-      "url": "https://open.spotify.com/track/5YFqhC4xMQWSbdiGPUynXP"
     },
     {
       "added_at": "2024-01-25 20:25:36",
@@ -899,26 +899,6 @@
       "duration_ms": 224337,
       "name": "c\u00f3mo acaba",
       "url": "https://open.spotify.com/track/0wYkvjpi6tOpJfulqKSOD7"
-    },
-    {
-      "added_at": "2024-01-25 20:25:36",
-      "album": {
-        "name": "Sue\u00f1o C\u00edtrico",
-        "url": "https://open.spotify.com/album/0K7TuMwi1SkiZylSx8vXDf"
-      },
-      "artists": [
-        {
-          "name": "Silvestre y La Naranja",
-          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
-        },
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 202538,
-      "name": "Vencimiento",
-      "url": "https://open.spotify.com/track/1zFeJhyNJOnzm0nS20t3HX"
     },
     {
       "added_at": "2024-01-25 20:25:36",
@@ -1027,6 +1007,26 @@
       "duration_ms": 187653,
       "name": "Puente",
       "url": "https://open.spotify.com/track/6XzNlsxA4RMUWgYC0GP5aq"
+    },
+    {
+      "added_at": "2024-01-25 20:25:36",
+      "album": {
+        "name": "Sue\u00f1o C\u00edtrico",
+        "url": "https://open.spotify.com/album/0K7TuMwi1SkiZylSx8vXDf"
+      },
+      "artists": [
+        {
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
+        },
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 202538,
+      "name": "Vencimiento",
+      "url": "https://open.spotify.com/track/1zFeJhyNJOnzm0nS20t3HX"
     },
     {
       "added_at": "2024-01-25 20:25:36",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2024-01-25 20:25:36",
       "album": {
+        "name": "Verano en Invierno",
+        "url": "https://open.spotify.com/album/54NK5gk2Gx0fkycE2hUiM5"
+      },
+      "artists": [
+        {
+          "name": "un muerto mas",
+          "url": "https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0"
+        }
+      ],
+      "duration_ms": 228437,
+      "name": "Amor de Verano",
+      "url": "https://open.spotify.com/track/2XvJurdJip7XdjW1j1EfS8"
+    },
+    {
+      "added_at": "2024-01-25 20:25:36",
+      "album": {
         "name": "Ojitos de Md (Remix)",
         "url": "https://open.spotify.com/album/3gYti5PmUFrV9NnJim60Ik"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 170192,
       "name": "Ojitos de Md - Remix",
       "url": "https://open.spotify.com/track/6otnCYlQqNYVZqNrSHn1AF"
-    },
-    {
-      "added_at": "2024-01-25 20:25:36",
-      "album": {
-        "name": "Verano en Invierno",
-        "url": "https://open.spotify.com/album/54NK5gk2Gx0fkycE2hUiM5"
-      },
-      "artists": [
-        {
-          "name": "un muerto mas",
-          "url": "https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0"
-        }
-      ],
-      "duration_ms": 228437,
-      "name": "Amor de Verano",
-      "url": "https://open.spotify.com/track/2XvJurdJip7XdjW1j1EfS8"
     },
     {
       "added_at": "2024-01-25 20:25:36",
@@ -1247,38 +1247,6 @@
     {
       "added_at": "2024-01-25 20:25:36",
       "album": {
-        "name": "La Negaci\u00f3n",
-        "url": "https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2"
-      },
-      "artists": [
-        {
-          "name": "Malena Villa",
-          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
-        }
-      ],
-      "duration_ms": 177818,
-      "name": "Lindos Problemas",
-      "url": "https://open.spotify.com/track/414ts7HIQUC1e8cQ4OwiCJ"
-    },
-    {
-      "added_at": "2024-01-25 20:25:36",
-      "album": {
-        "name": "Paranoia Pop",
-        "url": "https://open.spotify.com/album/7oKpkZ7JZqjK4GP5cyKCyV"
-      },
-      "artists": [
-        {
-          "name": "Bandalos Chinos",
-          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
-        }
-      ],
-      "duration_ms": 160840,
-      "name": "Mi Manera De Ser",
-      "url": "https://open.spotify.com/track/6UKd7wiMyjZkweWR5NQS82"
-    },
-    {
-      "added_at": "2024-01-25 20:25:36",
-      "album": {
         "name": "Silvia",
         "url": "https://open.spotify.com/album/1wI1VI8bdgUsK7HhQO0s3l"
       },
@@ -1311,22 +1279,6 @@
     {
       "added_at": "2024-01-25 20:25:36",
       "album": {
-        "name": "Contraluz",
-        "url": "https://open.spotify.com/album/3Gxm7cLKDllPSHUR1sEDyA"
-      },
-      "artists": [
-        {
-          "name": "Urb\u00f8i",
-          "url": "https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy"
-        }
-      ],
-      "duration_ms": 212869,
-      "name": "Contraluz",
-      "url": "https://open.spotify.com/track/1sVBiZA6OMCQYAaryp5Gbe"
-    },
-    {
-      "added_at": "2024-01-25 20:25:36",
-      "album": {
         "name": "Magia",
         "url": "https://open.spotify.com/album/2HKVZFyt8s52LzQYhZsmic"
       },
@@ -1343,6 +1295,54 @@
       "duration_ms": 176246,
       "name": "Magia",
       "url": "https://open.spotify.com/track/1DhyUIHhu7e6KwiTfKasiU"
+    },
+    {
+      "added_at": "2024-01-25 20:25:36",
+      "album": {
+        "name": "La Negaci\u00f3n",
+        "url": "https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2"
+      },
+      "artists": [
+        {
+          "name": "Malena Villa",
+          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
+        }
+      ],
+      "duration_ms": 177818,
+      "name": "Lindos Problemas",
+      "url": "https://open.spotify.com/track/414ts7HIQUC1e8cQ4OwiCJ"
+    },
+    {
+      "added_at": "2024-01-25 20:25:36",
+      "album": {
+        "name": "Paranoia Pop",
+        "url": "https://open.spotify.com/album/7oKpkZ7JZqjK4GP5cyKCyV"
+      },
+      "artists": [
+        {
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+        }
+      ],
+      "duration_ms": 160840,
+      "name": "Mi Manera De Ser",
+      "url": "https://open.spotify.com/track/6UKd7wiMyjZkweWR5NQS82"
+    },
+    {
+      "added_at": "2024-01-25 20:25:36",
+      "album": {
+        "name": "Contraluz",
+        "url": "https://open.spotify.com/album/3Gxm7cLKDllPSHUR1sEDyA"
+      },
+      "artists": [
+        {
+          "name": "Urb\u00f8i",
+          "url": "https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy"
+        }
+      ],
+      "duration_ms": 212869,
+      "name": "Contraluz",
+      "url": "https://open.spotify.com/track/1sVBiZA6OMCQYAaryp5Gbe"
     },
     {
       "added_at": "2024-01-25 20:25:36",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2024-01-25 20:25:36",
       "album": {
-        "name": "Helado de Mango",
-        "url": "https://open.spotify.com/album/0aWD6AMbVemB4o2jJhiBub"
-      },
-      "artists": [
-        {
-          "name": "Na\u00efa Valdez",
-          "url": "https://open.spotify.com/artist/1WE5kYBn5jgJyzXroKVktA"
-        }
-      ],
-      "duration_ms": 208434,
-      "name": "Helado de Mango",
-      "url": "https://open.spotify.com/track/6Ic36Kj94nFDc2NHsqvo59"
-    },
-    {
-      "added_at": "2024-01-25 20:25:36",
-      "album": {
         "name": "Todo Lamento",
         "url": "https://open.spotify.com/album/4dHpeoII8QA3LaOXTYnCgm"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 155675,
       "name": "Todo Lamento",
       "url": "https://open.spotify.com/track/3e8haeh6alXHp8bwLhk4Vc"
+    },
+    {
+      "added_at": "2024-01-25 20:25:36",
+      "album": {
+        "name": "Helado de Mango",
+        "url": "https://open.spotify.com/album/0aWD6AMbVemB4o2jJhiBub"
+      },
+      "artists": [
+        {
+          "name": "Na\u00efa Valdez",
+          "url": "https://open.spotify.com/artist/1WE5kYBn5jgJyzXroKVktA"
+        }
+      ],
+      "duration_ms": 208434,
+      "name": "Helado de Mango",
+      "url": "https://open.spotify.com/track/6Ic36Kj94nFDc2NHsqvo59"
     },
     {
       "added_at": "2024-01-25 20:25:36",

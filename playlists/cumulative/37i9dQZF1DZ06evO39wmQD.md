@@ -4,7 +4,7 @@
 
 > This is Auli'i Cravalho\. The essential tracks, all in one playlist.
 
-27 songs - 1 hr 19 min
+28 songs - 1 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Perfect \- Rise Cast Version](https://open.spotify.com/track/7Jt9Y3buDflRaSSuy20Byh) | [Rise Cast](https://open.spotify.com/artist/7IfYfy6wD9b12MlJYl099P), [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe) | [Rise Season 1: The Album \(Music from the TV Series\)](https://open.spotify.com/album/3NWC9vku8Robbe7tyVWJi1) | 4:38 | 2023-05-02 |  |
 | [Revenge Party](https://open.spotify.com/track/76IYmZf601sdCGQLokyrjW) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Jaquel Spivey](https://open.spotify.com/artist/0yVQ12rLMfkMNfudo6SFdI), [Angourie Rice](https://open.spotify.com/artist/2WBxsfNZRSQriRDgDgWkTO), [Tim Meadows](https://open.spotify.com/artist/5ll9FhxzUEG7Bl9LAjPX4E), [Cast of Mean Girls](https://open.spotify.com/artist/6Ve5oEOT8RbNXWHfsZpICN) | [Mean Girls \(Music From The Motion Picture\)](https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74) | 4:45 | 2024-01-13 |  |
 | [Scars To Your Beautiful \- Rise Cast Version](https://open.spotify.com/track/1rffHCBOEXWWl4FjSPToyE) | [Rise Cast](https://open.spotify.com/artist/7IfYfy6wD9b12MlJYl099P), [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe) | [Scars To Your Beautiful \(Rise Cast Version\)](https://open.spotify.com/album/0ci1RPXgRO5v8Y1ngN5gq2) | 4:18 | 2023-05-02 |  |
+| [Someone Gets Hurt \- Reprise](https://open.spotify.com/track/1uElzTQ3ZDKimyoTeShKAv) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe) | [Mean Girls \(Music From The Motion Picture – Bonus Track Version\)](https://open.spotify.com/album/2VqGOWnMT8pJsYkRuEkqb7) | 0:50 | 2024-02-21 |  |
 | [The Future's in My Hands \- Theme from "Hailey's On It!"](https://open.spotify.com/track/2EDhyd2FMEeV1P0iwA1eWt) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe) | [Hailey's On It! \(Original Soundtrack\)](https://open.spotify.com/album/5ilGEvay7lGWOhzdRhZysF) | 2:58 | 2023-07-11 |  |
 | [The Future's in My Hands \- Theme from "Hailey's On It!"](https://open.spotify.com/track/4Fn5xfalnbwbxv0Km0Vhhh) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe) | [The Future's in My Hands \(Theme from "Hailey's On It!"\)](https://open.spotify.com/album/1zQH2ZPY82Mul0Ki3tYRKj) | 2:58 | 2023-05-13 | 2023-07-12 |
 | [The Guilty Ones \- Rise Cast Version](https://open.spotify.com/track/0salYy0gJrLwAHZ73uYChV) | [Rise Cast](https://open.spotify.com/artist/7IfYfy6wD9b12MlJYl099P), [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Damon J\. Gillespie](https://open.spotify.com/artist/31XsoVTeHGOLgOtsv9nK8I) | [The Guilty Ones \(Rise Cast Version\)](https://open.spotify.com/album/1zU1HLS9kSGp9tzVRQDFLY) | 3:31 | 2023-05-02 |  |

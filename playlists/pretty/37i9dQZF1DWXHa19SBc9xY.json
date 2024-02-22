@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica brasileira e as cores de um p\u00f4r do sol para completar o seu dia.",
-  "num_followers": 89149,
+  "num_followers": 89189,
   "original_name": "P\u00f4r do sol na areia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YWY1ZWNhY2ZiNzU2YzM4MGM3NzkyNmMwYWQ5MzdjZmJlMmU2ZjE4",
+  "snapshot_id": "MCwxMDkxOGMyMTQ0MDE3NWViZWU0NTg2OGRlM2YwMTJiYTg4ZmVjOGZi",
   "tracks": [
     {
       "added_at": "2023-11-24 08:42:40",
@@ -967,18 +967,22 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "Entre Homens e Autom\u00f3veis",
-        "url": "https://open.spotify.com/album/2Wa5PKMLUefVYZWQomYHv6"
+        "name": "Lua Nova",
+        "url": "https://open.spotify.com/album/14AZf0JZKJgmls9y59eA2c"
       },
       "artists": [
         {
-          "name": "Brolo Gonzalez",
-          "url": "https://open.spotify.com/artist/2cvrwb2vQUWPlPy53354Bg"
+          "name": "PH Moraes",
+          "url": "https://open.spotify.com/artist/71p4sNYcu8jEUqJ69tfrVU"
+        },
+        {
+          "name": "Marina Peralta",
+          "url": "https://open.spotify.com/artist/5zL3IWBA5pdMvLUmj0Dq2O"
         }
       ],
-      "duration_ms": 189882,
-      "name": "Mais Perto",
-      "url": "https://open.spotify.com/track/2CgP6wLHomU7h1sMGCXIBC"
+      "duration_ms": 161250,
+      "name": "Lua Nova",
+      "url": "https://open.spotify.com/track/5uZDrsNXW8qUuP9pli1CO3"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -1003,22 +1007,18 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "Lua Nova",
-        "url": "https://open.spotify.com/album/14AZf0JZKJgmls9y59eA2c"
+        "name": "Entre Homens e Autom\u00f3veis",
+        "url": "https://open.spotify.com/album/2Wa5PKMLUefVYZWQomYHv6"
       },
       "artists": [
         {
-          "name": "PH Moraes",
-          "url": "https://open.spotify.com/artist/71p4sNYcu8jEUqJ69tfrVU"
-        },
-        {
-          "name": "Marina Peralta",
-          "url": "https://open.spotify.com/artist/5zL3IWBA5pdMvLUmj0Dq2O"
+          "name": "Brolo Gonzalez",
+          "url": "https://open.spotify.com/artist/2cvrwb2vQUWPlPy53354Bg"
         }
       ],
-      "duration_ms": 161250,
-      "name": "Lua Nova",
-      "url": "https://open.spotify.com/track/5uZDrsNXW8qUuP9pli1CO3"
+      "duration_ms": 189882,
+      "name": "Mais Perto",
+      "url": "https://open.spotify.com/track/2CgP6wLHomU7h1sMGCXIBC"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "Te Levar (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/53DSOKPvUINVwmFN32JqhJ"
-      },
-      "artists": [
-        {
-          "name": "Nanno",
-          "url": "https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3"
-        }
-      ],
-      "duration_ms": 173397,
-      "name": "Te Levar - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4QmLP7fU49UyWgxED0hvAI"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
         "name": "Se N\u00e3o Fosse por Ontem",
         "url": "https://open.spotify.com/album/6PTddNiDHAa40YBOh7SVPq"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 208589,
       "name": "Se N\u00e3o Fosse por Ontem",
       "url": "https://open.spotify.com/track/0dzjAcnlQ1zg8HPRIuuNbX"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
+        "name": "Te Levar (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/53DSOKPvUINVwmFN32JqhJ"
+      },
+      "artists": [
+        {
+          "name": "Nanno",
+          "url": "https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3"
+        }
+      ],
+      "duration_ms": 173397,
+      "name": "Te Levar - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4QmLP7fU49UyWgxED0hvAI"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "Praia do Flamengo",
-        "url": "https://open.spotify.com/album/3oZNokSA98ACGWJkOhZnb9"
-      },
-      "artists": [
-        {
-          "name": "Rafael Pond\u00e9",
-          "url": "https://open.spotify.com/artist/63ONM3te92h07qo9t6OYzc"
-        }
-      ],
-      "duration_ms": 271728,
-      "name": "Praia do Flamengo",
-      "url": "https://open.spotify.com/track/42Buyq4Ae5XDO7LHv8IHGV"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
         "name": "INTENSO (Deluxe)",
         "url": "https://open.spotify.com/album/39xQjzBnICugrn3SIPy3bJ"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 171911,
       "name": "Louco de Amor - Ac\u00fastica",
       "url": "https://open.spotify.com/track/5hGqmSotpJmMcZkyNYplZ6"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
+        "name": "Praia do Flamengo",
+        "url": "https://open.spotify.com/album/3oZNokSA98ACGWJkOhZnb9"
+      },
+      "artists": [
+        {
+          "name": "Rafael Pond\u00e9",
+          "url": "https://open.spotify.com/artist/63ONM3te92h07qo9t6OYzc"
+        }
+      ],
+      "duration_ms": 271728,
+      "name": "Praia do Flamengo",
+      "url": "https://open.spotify.com/track/42Buyq4Ae5XDO7LHv8IHGV"
     },
     {
       "added_at": "2023-11-24 08:42:40",

@@ -449,6 +449,32 @@
     },
     {
       "album": {
+        "name": "Crakk Title Track (From \"Crakk - Jeetegaa Toh Jiyegaa\")",
+        "url": "https://open.spotify.com/album/2NdYGADX1SJIGg1MehZQYR"
+      },
+      "artists": [
+        {
+          "name": "Vikram Montrose",
+          "url": "https://open.spotify.com/artist/0aXLGxJ65wok0y1bVG6flg"
+        },
+        {
+          "name": "Paradox",
+          "url": "https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui"
+        },
+        {
+          "name": "Shekhar Astitwa",
+          "url": "https://open.spotify.com/artist/1o4gJ2P9CYruGrCXoMv36l"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173353,
+      "name": "Crakk Title Track (From \"Crakk - Jeetegaa Toh Jiyegaa\")",
+      "url": "https://open.spotify.com/track/4sUr5QdkFfotWv5UCnnKw8"
+    },
+    {
+      "album": {
         "name": "Sonu Ke Titu Ki Sweety",
         "url": "https://open.spotify.com/album/0CfAXmULqKq6KVJMsLGGAX"
       },
@@ -688,7 +714,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 169686,
       "name": "Ishq Jaisa Kuch (From \"Fighter\")",
       "url": "https://open.spotify.com/track/23YpzkTDtU78GK6vpgRbkM"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5FgmqNGPLc.md) - [plain]
 
 > All live, all jazz\. Cover: John Coltrane & Eric Dolphy
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,158 likes - 100 songs - 15 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,167 likes - 100 songs - 15 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5FgmqNGPLc.md) - [plain]
 | 84 | [If I Were A Bell \- Live at the Plugged Nickel, Chicago, IL \(1st Set\) \- December 22, 1965](https://open.spotify.com/track/49cHo96zu4M7q5IvAXRRUY) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [The Complete Live At The Plugged Nickel \- 1965](https://open.spotify.com/album/2mU4JzmR1ej9ruf9FNx4eR) | 17:02 |
 | 85 | [Well, You Needn't \- Live \[It Club\]](https://open.spotify.com/track/7dqd672DHvOU9OF41vRxl1) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Thelonious Monk Live At The It Club \- Complete](https://open.spotify.com/album/7AEiZMDP0eB990c44G4zDT) | 9:16 |
 | 86 | [Windjammer \- Live At The Lighthouse, Hermosa Beach, CA/1972](https://open.spotify.com/track/2JqnTQh5Shj7V5geLwXJZj) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k) | [Live At The Lighthouse](https://open.spotify.com/album/5Xe3jzd5GQMGVOrvTW1pUQ) | 12:15 |
-| 87 | [Stardust \- Live At Finney Chapel / 1953](https://open.spotify.com/track/5wIsuVFmdu6xtqxg4zjJTf) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Jazz At Oberlin \(OJC Remaster\)](https://open.spotify.com/album/5DAnm554mksK5mPx9Jf29B) | 6:30 |
+| 87 | [Stardust \- Live At Finney Chapel / 1953](https://open.spotify.com/track/5ibCpoDH8OGVXxjmGlLl9v) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [The Dave Brubeck Quartet Featuring Paul Desmond In Concert](https://open.spotify.com/album/3mjhty9NJpFD4WuAHHZ9x4) | 6:25 |
 | 88 | [Medley: Vertical Invader / Seventh Arrow / T.H\. / Doctor Honoris Causa \- Live](https://open.spotify.com/track/5Eg09OqI1LB9P9EcozE2Mt) | [Weather Report](https://open.spotify.com/artist/162DCkd8aDKwvjBb74Gu8b) | [Live in Tokyo](https://open.spotify.com/album/0k2LseDR9ZTqlIeGt6t05u) | 26:11 |
 | 89 | [I Can't Stand It \- Live At Club Mozambique, Detroit, 1970](https://open.spotify.com/track/0nkL1ZQc2KkRxdLW7xQaRh) | [Dr\. Lonnie Smith](https://open.spotify.com/artist/1ZpPJRe9erwiWi548SKVyn) | [Live At Club Mozambique](https://open.spotify.com/album/1Ky6DlBjmTsPJtnJT8AGeD) | 8:24 |
 | 90 | [Okonkole' Y Trompa \- Remastered](https://open.spotify.com/track/6P03MjTK2iTrkVBrGf1Qtd) | [Jaco Pastorius](https://open.spotify.com/artist/3U3C9o6UTYNdEsDckpRyvX) | [Smooth Jazz Hits](https://open.spotify.com/album/3PmD3OrZ0yYdvyslH6VkUz) | 7:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5FgmqNGPLc.md) - [plain]
 | 99 | [The Drum Battle](https://open.spotify.com/track/6zZeaMoFeFBq6WU3l1lLex) | [Gene Krupa](https://open.spotify.com/artist/2YODXXiVE8ABc0TfihLOFj), [Buddy Rich](https://open.spotify.com/artist/1pVtwG5Up1OZOEpSHJ4AAs) | [The Drum Battle](https://open.spotify.com/album/50xJcwBsAXiQ7qTJNyAebk) | 3:36 |
 | 100 | [Giant Steps \- Live \(Remastered\)](https://open.spotify.com/track/6OMjeAy4dTJ02R2QQ38XdW) | [Max Roach](https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g), [Sam Rivers](https://open.spotify.com/artist/0DNuWm5ZBKuCIXLNmrzuk5) | [Now's The Time \[Live \(Remastered\)\]](https://open.spotify.com/album/5t0yHmctZiaGUPWX8YYOEL) | 7:11 |
 
-Snapshot ID: `MCxjZDY0ODM3ZWIzZTY1NzEyMTdhZmVlZGUzMTNmOWZlZWM4YTIxMzQw`
+Snapshot ID: `MCxkMmRjZWU5NzExNzk1MjBiMjU4NGYxZWFmNGNhMTk4ZTM2NjhmOGIx`

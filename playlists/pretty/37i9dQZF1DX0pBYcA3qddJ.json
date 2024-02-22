@@ -1,12 +1,12 @@
 {
   "description": "\u591c\u306b\u306a\u308b\u4e00\u6b69\u624b\u524d\u306e\u6642\u523b\u306b\u4e00\u77ac\u3067\u3082\u30ea\u30e9\u30c3\u30af\u30b9\u3067\u304d\u308b\u3088\u3046\u306a\u3001\u97f3\u97ff\u7cfb\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u3068\u30af\u30e9\u30b7\u30c3\u30af\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3092\u3002",
-  "num_followers": 52291,
+  "num_followers": 52301,
   "original_name": "\u9759\u5bc2\u3068\u9ec4\u660f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZDczMDU1MGRlYmNkMGYzMTMxN2YxNmU2ZTc5ZGY4ODU4YzhmOWUw",
+  "snapshot_id": "MCxiYjE0ZGE2OWQwM2Q4NDY4NDk5YjQxMDk2MzhmOWNjODgyNDc0ZTY3",
   "tracks": [
     {
       "added_at": "2024-02-20 15:00:00",
@@ -1167,38 +1167,6 @@
     {
       "added_at": "2024-02-20 15:00:00",
       "album": {
-        "name": "The Boy and the Heron - Original Soundtrack",
-        "url": "https://open.spotify.com/album/6oXCKKghd9Shmz2iU7ebbW"
-      },
-      "artists": [
-        {
-          "name": "Joe Hisaishi",
-          "url": "https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB"
-        }
-      ],
-      "duration_ms": 108533,
-      "name": "Ask Me Why (Mother's Message)",
-      "url": "https://open.spotify.com/track/104EutLydSehDHiEjmtdBo"
-    },
-    {
-      "added_at": "2024-02-20 15:00:00",
-      "album": {
-        "name": "A Pervasive Awareness",
-        "url": "https://open.spotify.com/album/0dfsOtFcCPaC78YrBBKmyF"
-      },
-      "artists": [
-        {
-          "name": "HAPPY",
-          "url": "https://open.spotify.com/artist/5GVmwlesqBw7eCqdX0YAEH"
-        }
-      ],
-      "duration_ms": 206409,
-      "name": "A Pervasive Awareness",
-      "url": "https://open.spotify.com/track/4nwdHLEuVcK8b6vfEpWD5N"
-    },
-    {
-      "added_at": "2024-02-20 15:00:00",
-      "album": {
         "name": "Mussorgsky: Pictures at an Exhibition - Expanded Edition",
         "url": "https://open.spotify.com/album/5kxCGK9XhXVD9AX9wje6om"
       },
@@ -1219,6 +1187,38 @@
       "duration_ms": 136960,
       "name": "Polovetsian Dances from Prince Igor: Introduzione",
       "url": "https://open.spotify.com/track/1KeJxSvW6pLU1ieRfQOMca"
+    },
+    {
+      "added_at": "2024-02-20 15:00:00",
+      "album": {
+        "name": "A Pervasive Awareness",
+        "url": "https://open.spotify.com/album/6mRJ6cLO8plEV6Yp3LrCQj"
+      },
+      "artists": [
+        {
+          "name": "HAPPY",
+          "url": "https://open.spotify.com/artist/5GVmwlesqBw7eCqdX0YAEH"
+        }
+      ],
+      "duration_ms": 206409,
+      "name": "A Pervasive Awareness",
+      "url": "https://open.spotify.com/track/6b2WudWpX282SAkmATvPkr"
+    },
+    {
+      "added_at": "2024-02-20 15:00:00",
+      "album": {
+        "name": "The Boy and the Heron - Original Soundtrack",
+        "url": "https://open.spotify.com/album/6oXCKKghd9Shmz2iU7ebbW"
+      },
+      "artists": [
+        {
+          "name": "Joe Hisaishi",
+          "url": "https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB"
+        }
+      ],
+      "duration_ms": 108533,
+      "name": "Ask Me Why (Mother's Message)",
+      "url": "https://open.spotify.com/track/104EutLydSehDHiEjmtdBo"
     },
     {
       "added_at": "2024-02-20 15:00:00",
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2024-02-20 15:00:00",
       "album": {
-        "name": "Wall Of Eyes",
-        "url": "https://open.spotify.com/album/200fExjblMBQHdfptuDUra"
+        "name": "Remember When",
+        "url": "https://open.spotify.com/album/4s84jh2NBDv4HF7iRysA3U"
       },
       "artists": [
         {
-          "name": "The Smile",
-          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
+          "name": "Wasia Project",
+          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
         }
       ],
-      "duration_ms": 305946,
-      "name": "Wall Of Eyes",
-      "url": "https://open.spotify.com/track/6hp729YavhhHeH62B2QH6J"
+      "duration_ms": 192079,
+      "name": "Remember When",
+      "url": "https://open.spotify.com/track/1KyLAl3R61UiXK9o14SUJm"
     },
     {
       "added_at": "2024-02-20 15:00:00",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2024-02-20 15:00:00",
       "album": {
-        "name": "Remember When",
-        "url": "https://open.spotify.com/album/4s84jh2NBDv4HF7iRysA3U"
-      },
-      "artists": [
-        {
-          "name": "Wasia Project",
-          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
-        }
-      ],
-      "duration_ms": 192079,
-      "name": "Remember When",
-      "url": "https://open.spotify.com/track/1KyLAl3R61UiXK9o14SUJm"
-    },
-    {
-      "added_at": "2024-02-20 15:00:00",
-      "album": {
         "name": "Beethoven: Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 \"Moonlight\": I. Adagio sostenuto",
         "url": "https://open.spotify.com/album/5oFks9ZFUYBv8Ia3pkmtuX"
       },
@@ -1491,18 +1475,38 @@
     {
       "added_at": "2024-02-20 15:00:00",
       "album": {
-        "name": "Cairngorms",
-        "url": "https://open.spotify.com/album/5L2BHB36P5IQYu1QCw80K3"
+        "name": "Wall Of Eyes",
+        "url": "https://open.spotify.com/album/200fExjblMBQHdfptuDUra"
       },
       "artists": [
         {
-          "name": "Sarah Julia",
-          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+          "name": "The Smile",
+          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
         }
       ],
-      "duration_ms": 252878,
-      "name": "Cairngorms",
-      "url": "https://open.spotify.com/track/2d5gLLZEhhkwKpFR5akW0F"
+      "duration_ms": 305946,
+      "name": "Wall Of Eyes",
+      "url": "https://open.spotify.com/track/6hp729YavhhHeH62B2QH6J"
+    },
+    {
+      "added_at": "2024-02-20 15:00:00",
+      "album": {
+        "name": "Gershwin: Piano Works",
+        "url": "https://open.spotify.com/album/4MkPnDnWYJvpJZDo2HhlKU"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Frank Braley",
+          "url": "https://open.spotify.com/artist/1hpAr3xZg2NpGFR59MO0Yl"
+        }
+      ],
+      "duration_ms": 145200,
+      "name": "Song Book: The Man I Love. Slow and in singing style",
+      "url": "https://open.spotify.com/track/4BlM6AO7TOtqxcY9qMHIuc"
     },
     {
       "added_at": "2024-02-20 15:00:00",
@@ -1571,22 +1575,18 @@
     {
       "added_at": "2024-02-20 15:00:00",
       "album": {
-        "name": "Gershwin: Piano Works",
-        "url": "https://open.spotify.com/album/4MkPnDnWYJvpJZDo2HhlKU"
+        "name": "Cairngorms",
+        "url": "https://open.spotify.com/album/5L2BHB36P5IQYu1QCw80K3"
       },
       "artists": [
         {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Frank Braley",
-          "url": "https://open.spotify.com/artist/1hpAr3xZg2NpGFR59MO0Yl"
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
         }
       ],
-      "duration_ms": 145200,
-      "name": "Song Book: The Man I Love. Slow and in singing style",
-      "url": "https://open.spotify.com/track/4BlM6AO7TOtqxcY9qMHIuc"
+      "duration_ms": 252878,
+      "name": "Cairngorms",
+      "url": "https://open.spotify.com/track/2d5gLLZEhhkwKpFR5akW0F"
     },
     {
       "added_at": "2024-02-20 15:00:00",

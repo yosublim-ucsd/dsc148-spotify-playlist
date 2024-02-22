@@ -1,12 +1,12 @@
 {
   "description": "temas que repetir\u00edas m\u00e1s que a tu ex. <a href=https://spotify.com/descubretuflow>Descubre tu Flow</a> ",
-  "num_followers": 578566,
+  "num_followers": 578461,
   "original_name": "m\u00e1s pegao que poster en la calle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNGRhNWZhMDAzODJiNDY5YTI1MGIxN2JjM2IyMmQ4OWZkMWRiNzQy",
+  "snapshot_id": "MCxlZjlhYmVmZTA0NDQ0OGFjNjcwMDU4NzEyM2IwYWMwNjdjNmU5ZGM0",
   "tracks": [
     {
       "added_at": "2023-07-18 19:17:14",
@@ -463,6 +463,22 @@
     {
       "added_at": "2023-07-18 19:17:14",
       "album": {
+        "name": "Afrodis\u00edaco",
+        "url": "https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 209540,
+      "name": "Dile a El",
+      "url": "https://open.spotify.com/track/13Tbv4nflNxg9kYBIbJnd9"
+    },
+    {
+      "added_at": "2023-07-18 19:17:14",
+      "album": {
         "name": "Delincuente",
         "url": "https://open.spotify.com/album/3QySYdsvCpB84Tvzkj24Ta"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 226490,
       "name": "Delincuente",
       "url": "https://open.spotify.com/track/2ROQe6QkIXODJRx0y8UjzV"
-    },
-    {
-      "added_at": "2023-07-18 19:17:14",
-      "album": {
-        "name": "Afrodis\u00edaco",
-        "url": "https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 209540,
-      "name": "Dile a El",
-      "url": "https://open.spotify.com/track/13Tbv4nflNxg9kYBIbJnd9"
     },
     {
       "added_at": "2023-07-18 19:17:14",
@@ -631,26 +631,22 @@
     {
       "added_at": "2023-07-18 19:17:14",
       "album": {
-        "name": "LOKERA",
-        "url": "https://open.spotify.com/album/4vJcqwIGUuk5TeP29OPovU"
+        "name": "Se Voce Nao Quer Passa a Vez",
+        "url": "https://open.spotify.com/album/7mSEULBduMtsKcy7w7QgWk"
       },
       "artists": [
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "Mc Delux",
+          "url": "https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW"
         },
         {
-          "name": "Lyanno",
-          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
-        },
-        {
-          "name": "Brray",
-          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+          "name": "DJ Guih Da ZO",
+          "url": "https://open.spotify.com/artist/0rb23mC6LLZ3o15qcdSzjx"
         }
       ],
-      "duration_ms": 197101,
-      "name": "LOKERA",
-      "url": "https://open.spotify.com/track/79HZAZNnOE97rb2hnI0XQr"
+      "duration_ms": 133846,
+      "name": "Se Voce Nao Quer Passa a Vez",
+      "url": "https://open.spotify.com/track/7snnTlaWaN39nfN1PhUaT8"
     },
     {
       "added_at": "2023-07-18 19:17:14",
@@ -683,22 +679,26 @@
     {
       "added_at": "2023-07-18 19:17:14",
       "album": {
-        "name": "Se Voce Nao Quer Passa a Vez",
-        "url": "https://open.spotify.com/album/7mSEULBduMtsKcy7w7QgWk"
+        "name": "LOKERA",
+        "url": "https://open.spotify.com/album/4vJcqwIGUuk5TeP29OPovU"
       },
       "artists": [
         {
-          "name": "Mc Delux",
-          "url": "https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW"
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         },
         {
-          "name": "DJ Guih Da ZO",
-          "url": "https://open.spotify.com/artist/0rb23mC6LLZ3o15qcdSzjx"
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
         }
       ],
-      "duration_ms": 133846,
-      "name": "Se Voce Nao Quer Passa a Vez",
-      "url": "https://open.spotify.com/track/7snnTlaWaN39nfN1PhUaT8"
+      "duration_ms": 197101,
+      "name": "LOKERA",
+      "url": "https://open.spotify.com/track/79HZAZNnOE97rb2hnI0XQr"
     },
     {
       "added_at": "2023-07-18 19:17:14",
@@ -847,22 +847,22 @@
     {
       "added_at": "2023-07-18 19:17:14",
       "album": {
-        "name": "SATURNO",
-        "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
+        "name": "Mini Mini",
+        "url": "https://open.spotify.com/album/4zeYzXnl5RwCm4riSOuvOE"
       },
       "artists": [
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "Punto40",
+          "url": "https://open.spotify.com/artist/2C1Pj5TMq8QjqbwQ4tmDtO"
         },
         {
-          "name": "Subelo NEO",
-          "url": "https://open.spotify.com/artist/5jNjbQYkujIbjSvvKroBlv"
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
         }
       ],
-      "duration_ms": 186722,
-      "name": "RON COLA",
-      "url": "https://open.spotify.com/track/5S8i9p2xS8M8pFqfZMbMzI"
+      "duration_ms": 197663,
+      "name": "Mini Mini",
+      "url": "https://open.spotify.com/track/3KI4rfS7kRC58Dd4ToY7P3"
     }
   ],
   "unique_name": "m\u00e1s pegao que poster en la calle",

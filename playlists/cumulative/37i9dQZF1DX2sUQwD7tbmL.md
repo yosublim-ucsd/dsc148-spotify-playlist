@@ -4,7 +4,7 @@
 
 > The best indie rock vibes — classic and current.
 
-636 songs - 1 day 11 hr 57 min
+637 songs - 1 day 12 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -406,7 +406,7 @@
 | [Nobody Gets Me \(Like You\)](https://open.spotify.com/track/6XjNM7KyApEaLwRZEZkb0X) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Virtual Aerobics](https://open.spotify.com/album/70QRj2miXV0LTLG887MgTp) | 2:37 | 2022-04-13 | 2022-04-19 |
 | [Not Dead Yet](https://open.spotify.com/track/5NRbNXwXHM9mYgxMhzVWTP) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Not Dead Yet](https://open.spotify.com/album/044x9ycjGCrCHA6TcjaK8w) | 2:57 | 2021-05-01 | 2023-09-22 |
 | [Not High On Drugz](https://open.spotify.com/track/23nMdV1MgehrYrdwyuIRw3) | [Benjamin Amaru](https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp) | [Not High On Drugz](https://open.spotify.com/album/3BJnaycz2bP8Z625BytZIF) | 4:12 | 2023-05-26 | 2023-09-30 |
-| [Not Joking](https://open.spotify.com/track/5UrwXORPNlSUuR0SemqM3O) | [The Front Bottoms](https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS) | [You Are Who You Hang Out With](https://open.spotify.com/album/5ti35p8028PSksErKRW415) | 3:18 | 2023-08-18 |  |
+| [Not Joking](https://open.spotify.com/track/5UrwXORPNlSUuR0SemqM3O) | [The Front Bottoms](https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS) | [You Are Who You Hang Out With](https://open.spotify.com/album/5ti35p8028PSksErKRW415) | 3:18 | 2023-08-18 | 2024-02-22 |
 | [Not Strong Enough](https://open.spotify.com/track/09DR0sHnQUhHOiSNttc1mv) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:54 | 2023-03-31 |  |
 | [Nothing in This Town](https://open.spotify.com/track/4dxn0RkvNq30VrB77J9Uuw) | [The Dig](https://open.spotify.com/artist/2Ki2mlU4LhZZ0BOYHWbcot) | [Nothing in This Town](https://open.spotify.com/album/29vpuEwwHXg8CWc2HHASR4) | 4:34 | 2021-05-01 | 2022-04-14 |
 | [Notion](https://open.spotify.com/track/0sTlGEld0h8kIPZaKDYUf4) | [The Rare Occasions](https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt) | [Notion](https://open.spotify.com/album/4Uf8BVznefnd2xZm2nRFUx) | 3:15 | 2022-07-22 | 2023-02-03 |
@@ -419,6 +419,7 @@
 | [Ode to a Conversation Stuck in Your Throat](https://open.spotify.com/track/51Lf3l6wx008NdBxCQnD6B) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Del Water Gap](https://open.spotify.com/album/22ljnmjYzy4TS5tCtaRIUE) | 3:19 | 2022-07-22 | 2023-06-03 |
 | [oh GOD](https://open.spotify.com/track/78x4xRisFJS0eniXD3rIhk) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Freckle Season](https://open.spotify.com/album/4efTt6CQruNynQymtG3Iz5) | 2:47 | 2021-05-01 | 2022-05-10 |
 | [Oh Honey](https://open.spotify.com/track/3r4aPvKfp7Jp2exI5B1MPB) | [Neighbor Lady](https://open.spotify.com/artist/5a6aoCNPAYj5AE6RbenOB6) | [Maybe Later](https://open.spotify.com/album/0c3Ebyzj1JeS12oOryXz3I) | 3:30 | 2021-05-01 | 2021-12-29 |
+| [ohmygod](https://open.spotify.com/track/3EB4t4qPtUB46Dn9OaUvlk) | [Fay Wildhagen](https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P) | [Let’s keep it in the family](https://open.spotify.com/album/0qhbLNl6p4kK3wb1gG6KnZ) | 3:14 | 2024-02-21 |  |
 | [Older](https://open.spotify.com/track/0bkNJm3BcQyHpytMI7a3TX) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Older](https://open.spotify.com/album/1W9LBC7i9su2Q5ioA1jf7f) | 3:27 | 2021-05-01 | 2022-04-14 |
 | [On Our Own](https://open.spotify.com/track/6tnedmxMVEHzPJfWucWzHo) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [On Our Own](https://open.spotify.com/album/3CG3ulskl4VyzruXVaAYH0) | 3:36 | 2021-05-01 | 2022-07-29 |
 | [On The 5](https://open.spotify.com/track/3jz7ycF3AlGpJ1EDgxqK5G) | [Winnetka Bowling League](https://open.spotify.com/artist/4ug3P1K8BaCdJXROrqHqhu) | [On The 5](https://open.spotify.com/album/7BrkM5hwqhWbtzxNnPrZVF) | 2:59 | 2021-05-01 | 2022-07-29 |

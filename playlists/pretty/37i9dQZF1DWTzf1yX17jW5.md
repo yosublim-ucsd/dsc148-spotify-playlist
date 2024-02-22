@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTzf1yX17jW5.md) - [plain]
 
 > Our editor’s picks for best Jersey Club songs of the year\. Cover: kanii
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,251 likes - 75 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,272 likes - 75 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,12 +48,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTzf1yX17jW5.md) - [plain]
 | 38 | [Im Loop](https://open.spotify.com/track/29svgRT6R8PuLBjKGPJjz5) | [Trettmann](https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4), [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [Bilderbuch](https://open.spotify.com/artist/2ErWLckuGFl84nGmg5fwyG), [SFR](https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr) | [Insomnia](https://open.spotify.com/album/7flMvR3hmHgwMpnTsdVApW) | 2:43 |
 | 39 | [Rump \(feat\. Chow Lee\)](https://open.spotify.com/track/29gijYs6GkiKaGDrEC1l4T) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [Pretty Girls Love Slizzy](https://open.spotify.com/album/7rQOwlPx5Ma7u6PVRrljVO) | 2:49 |
 | 40 | [:\(](https://open.spotify.com/track/7abEPkeDrajfoTxUBjuQ3G) | [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id) | [</3 + :\(](https://open.spotify.com/album/4mD7rKj1et3PjyYy8Bw4yM) | 2:55 |
-| 41 | [Jersey](https://open.spotify.com/track/0bzAIaIHmILyOOiP0nQGMj) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Jersey](https://open.spotify.com/album/38S4qMNg1di0obDNZaq8Ma) | 2:51 |
-| 42 | [No Days Off](https://open.spotify.com/track/3zlSLyucr1QS2XPfRnPdcy) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [No Days Off](https://open.spotify.com/album/4xyQuZ8oTJ7ZhdiWBwtVnS) | 3:15 |
+| 41 | [No Days Off](https://open.spotify.com/track/3zlSLyucr1QS2XPfRnPdcy) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [No Days Off](https://open.spotify.com/album/4xyQuZ8oTJ7ZhdiWBwtVnS) | 3:15 |
+| 42 | [Jersey](https://open.spotify.com/track/0bzAIaIHmILyOOiP0nQGMj) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Jersey](https://open.spotify.com/album/38S4qMNg1di0obDNZaq8Ma) | 2:51 |
 | 43 | [CTRL](https://open.spotify.com/track/0cGwZWfdBTLWZSiATC7OXm) | [Mysie](https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf) | [CTRL](https://open.spotify.com/album/3lg6V1KDuWepNyGt3YSTJ7) | 2:19 |
 | 44 | [2020 est.](https://open.spotify.com/track/2MiNSe2Mgi4bpCgTlkXjQb) | [Dante YN](https://open.spotify.com/artist/7oIvDwKGV2SuH4HJl0CKPp) | [2020 est.](https://open.spotify.com/album/2T68MkME37kh2wKG7x8NQU) | 2:08 |
-| 45 | [Cagoule](https://open.spotify.com/track/6CTdoQ646rvcW5Jvs1PLPc) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [HoodBlaq](https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm) | [XV](https://open.spotify.com/album/39eNnt0fhAmQUyC3m3IATi) | 3:06 |
-| 46 | [Pretty Ones](https://open.spotify.com/track/2vY20At26ZKguLNrpQHqha) | [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H), [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y) | [Pretty Ones](https://open.spotify.com/album/1oH2NV3OKNQQ8jGU4IWUCU) | 3:41 |
+| 45 | [Pretty Ones](https://open.spotify.com/track/2vY20At26ZKguLNrpQHqha) | [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H), [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y) | [Pretty Ones](https://open.spotify.com/album/1oH2NV3OKNQQ8jGU4IWUCU) | 3:41 |
+| 46 | [Cagoule](https://open.spotify.com/track/6CTdoQ646rvcW5Jvs1PLPc) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [HoodBlaq](https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm) | [XV](https://open.spotify.com/album/39eNnt0fhAmQUyC3m3IATi) | 3:06 |
 | 47 | [4 PREZ](https://open.spotify.com/track/5KI2PiYrNnVhj4PQ3kqMjr) | [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3) | [4 PREZ](https://open.spotify.com/album/2Blh4kM0W8RddcJojwSlll) | 2:29 |
 | 48 | [Keine Love](https://open.spotify.com/track/7Cq4aSoLlWno9IIrZ5sSCn) | [Pajel](https://open.spotify.com/artist/1bpI6QDUqmfKmV0Tlhj0Jm) | [Keine Love](https://open.spotify.com/album/0v7Ru7ydMZIokRaZROteHw) | 2:38 |
 | 49 | [UDNTLUVME](https://open.spotify.com/track/3P1kLFAO2MxcVBtLWH3oOV) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R) | [UDNTLUVME](https://open.spotify.com/album/6cqqln1dVUJrrrf5eAuiu0) | 2:18 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTzf1yX17jW5.md) - [plain]
 | 54 | [CNTRTE](https://open.spotify.com/track/6T1BqggkRJsqYDzdQs7boL) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [CNTRTE](https://open.spotify.com/album/2DbXHug7av6nbs0PQf7bwU) | 2:46 |
 | 55 | [Who You Touch Pt\. 2 \(feat\. Trippie Redd\)](https://open.spotify.com/track/3rdzGfp94hIX5nksvAjFoD) | [Sha EK](https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9), [Bandmanrill](https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1), [Defiant Presents](https://open.spotify.com/artist/6kOvJAZH29zNIKqPLOEC65), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Defiant Presents: Jiggy In Jersey](https://open.spotify.com/album/7lEj90UqCHkiZzLnOOQV2v) | 2:18 |
 | 56 | [Recoger](https://open.spotify.com/track/66UNqQkLP3vwoAK9FnxFca) | [Yung Sarria](https://open.spotify.com/artist/3vxYNXtM9uOMdRAXTXgtmf) | [Recoger](https://open.spotify.com/album/2FiYyjIorlmOa9dD7STI05) | 2:12 |
-| 57 | [Players \- DJ Smallz 732 \- Jersey Club Remix](https://open.spotify.com/track/4ZjUdbFR4lQRPCev91pQNk) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK) | [Players](https://open.spotify.com/album/1GEAE5S8LPDE0n9yrcJiSJ) | 1:57 |
-| 58 | [SOS](https://open.spotify.com/track/26p68PG4mrL9tXpan62sv6) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Emociones 1.5](https://open.spotify.com/album/1iggkqIrsfiO7RtEFGcaGr) | 3:02 |
+| 57 | [SOS](https://open.spotify.com/track/26p68PG4mrL9tXpan62sv6) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Emociones 1.5](https://open.spotify.com/album/1iggkqIrsfiO7RtEFGcaGr) | 3:02 |
+| 58 | [Players \- DJ Smallz 732 \- Jersey Club Remix](https://open.spotify.com/track/4ZjUdbFR4lQRPCev91pQNk) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK) | [Players](https://open.spotify.com/album/1GEAE5S8LPDE0n9yrcJiSJ) | 1:57 |
 | 59 | [Pretty Girl](https://open.spotify.com/track/6O8qiaMZOwgC0lEkTVuu9x) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1) | [Pretty Girl](https://open.spotify.com/album/1vfo2y4jCMjVXo2XZ6oA5h) | 2:15 |
 | 60 | [River](https://open.spotify.com/track/4tZCAD2myjzONvRWoDMulN) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [Electus](https://open.spotify.com/album/12BfPxoETgAfdrgRVu36jS) | 2:03 |
 | 61 | [Birthday](https://open.spotify.com/track/5sRBO1ghaklkYi0oZPe4yW) | [Fergie Baby](https://open.spotify.com/artist/4wFiOK5gZqg6tk4wvVansa), [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L), [Kajun Waters](https://open.spotify.com/artist/3cIhFOWgz2wPhOchE2gUCY) | [Birthday](https://open.spotify.com/album/3r1BJLmb0IU2HrQAVy0FXs) | 2:20 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTzf1yX17jW5.md) - [plain]
 | 74 | [In The Night \(feat\. Bandmanrill\)](https://open.spotify.com/track/7rOyc2gkZkWgT2g4LIbqTD) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk), [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz), [Defiant Presents](https://open.spotify.com/artist/6kOvJAZH29zNIKqPLOEC65), [Bandmanrill](https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1) | [In The Night \(feat\. Bandmanrill\)](https://open.spotify.com/album/7azk253Tycfnk5vQKbiWTM) | 3:32 |
 | 75 | [Need](https://open.spotify.com/track/4s8fQKAfuHR9gMDzoA9ioQ) | [keltiey](https://open.spotify.com/artist/6ffRXY5wKedZhPTMa6WGys) | [Need](https://open.spotify.com/album/5zcHTgSTVHfrF4JJOh1Gnh) | 2:37 |
 
-Snapshot ID: `MCxlZjJiNGU0MTNjOTNlNzZlNmI5ZmQ2NTRhMjdiODc5MDk1ODYxNzll`
+Snapshot ID: `MCxmNDY1MmM2NjQzMTdlODBkNjk0OWI0MTJkMzU4NmQ0MGU4MDdkODRm`

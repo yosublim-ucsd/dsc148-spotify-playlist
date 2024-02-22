@@ -429,6 +429,28 @@
     },
     {
       "album": {
+        "name": "Carta para no llorar",
+        "url": "https://open.spotify.com/album/46FyZtW1e0JwoR0yERzbNw"
+      },
+      "artists": [
+        {
+          "name": "El Kuelgue",
+          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
+        },
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178577,
+      "name": "Carta para no llorar",
+      "url": "https://open.spotify.com/track/3PdR3n0YudDEp44YmS9xs2"
+    },
+    {
+      "album": {
         "name": "Meet The Lilithz",
         "url": "https://open.spotify.com/album/4zt5xMdHGm4BcNURi2YmW5"
       },
@@ -1337,6 +1359,28 @@
     },
     {
       "album": {
+        "name": "Mi Otra Mitad (Remix)",
+        "url": "https://open.spotify.com/album/668u02QByaBqOr2YiJE0hW"
+      },
+      "artists": [
+        {
+          "name": "Elio Leiros",
+          "url": "https://open.spotify.com/artist/3oOY07QqOUrLSEJ4AOv9rz"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194885,
+      "name": "Mi Otra Mitad (Remix)",
+      "url": "https://open.spotify.com/track/5nkVhLA1qnWbH1QN1aR6lG"
+    },
+    {
+      "album": {
         "name": "Mil preguntas",
         "url": "https://open.spotify.com/album/68TdQaRchrJqDmOO1rizlq"
       },
@@ -1586,7 +1630,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 234933,
       "name": "Not Strong Enough",
       "url": "https://open.spotify.com/track/09DR0sHnQUhHOiSNttc1mv"
@@ -2026,7 +2070,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 180475,
       "name": "Stayed Gone",
       "url": "https://open.spotify.com/track/4Po97bPnn3ISdEkuJBMt2f"

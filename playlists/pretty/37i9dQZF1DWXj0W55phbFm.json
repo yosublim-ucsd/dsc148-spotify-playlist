@@ -1,12 +1,12 @@
 {
   "description": "The classic trumpet players in Jazz. Cover: Miles Davis",
-  "num_followers": 47457,
+  "num_followers": 47517,
   "original_name": "Jazz Trumpet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNmVjOWU1MzJkN2YxMzkzZDM0OGM4ODNiMWVjMzFjZWY4NDQ2ZGYz",
+  "snapshot_id": "MCw0MmYzYWExYjBhN2UzODczYTQ3ZTBkZTUxNzA1ZTg4ZDRkMmU0ZjAx",
   "tracks": [
     {
       "added_at": "2024-02-01 14:36:47",
@@ -699,22 +699,18 @@
     {
       "added_at": "2024-02-01 14:36:47",
       "album": {
-        "name": "Cartography",
-        "url": "https://open.spotify.com/album/5wuEblqsUnqUQQgTbcVpjP"
+        "name": "Essence of Armstrong",
+        "url": "https://open.spotify.com/album/5FxOsi0n7p8SQJaZn3Ssxv"
       },
       "artists": [
         {
-          "name": "Arve Henriksen",
-          "url": "https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7"
-        },
-        {
-          "name": "Jan Bang",
-          "url": "https://open.spotify.com/artist/3GNzfnhVE1aY6fgK403107"
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
         }
       ],
-      "duration_ms": 341613,
-      "name": "Migration",
-      "url": "https://open.spotify.com/track/5ctycABzd95aWa9tSlYZqP"
+      "duration_ms": 199893,
+      "name": "West End Blues",
+      "url": "https://open.spotify.com/track/1fcHyenlOvYHnF3xMz2wDB"
     },
     {
       "added_at": "2024-02-01 14:36:47",
@@ -751,22 +747,6 @@
     {
       "added_at": "2024-02-01 14:36:47",
       "album": {
-        "name": "Essence of Armstrong",
-        "url": "https://open.spotify.com/album/5FxOsi0n7p8SQJaZn3Ssxv"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 199893,
-      "name": "West End Blues",
-      "url": "https://open.spotify.com/track/1fcHyenlOvYHnF3xMz2wDB"
-    },
-    {
-      "added_at": "2024-02-01 14:36:47",
-      "album": {
         "name": "Score",
         "url": "https://open.spotify.com/album/7yVEbFI27UQkjfYPzUueo3"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 249013,
       "name": "Morning Song",
       "url": "https://open.spotify.com/track/3J1nV9wNN9yPwU9Lqdu1bP"
+    },
+    {
+      "added_at": "2024-02-01 14:36:47",
+      "album": {
+        "name": "Cartography",
+        "url": "https://open.spotify.com/album/5wuEblqsUnqUQQgTbcVpjP"
+      },
+      "artists": [
+        {
+          "name": "Arve Henriksen",
+          "url": "https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7"
+        },
+        {
+          "name": "Jan Bang",
+          "url": "https://open.spotify.com/artist/3GNzfnhVE1aY6fgK403107"
+        }
+      ],
+      "duration_ms": 341613,
+      "name": "Migration",
+      "url": "https://open.spotify.com/track/5ctycABzd95aWa9tSlYZqP"
     },
     {
       "added_at": "2024-02-01 14:36:47",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-02-01 14:36:47",
       "album": {
-        "name": "Dizzy 100",
-        "url": "https://open.spotify.com/album/5DGcQGe6AvE5LGdYyZlHfn"
-      },
-      "artists": [
-        {
-          "name": "Dizzy Gillespie",
-          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
-        }
-      ],
-      "duration_ms": 303522,
-      "name": "Con Alma",
-      "url": "https://open.spotify.com/track/3cJZT2monFlaNCgXvuDQwZ"
-    },
-    {
-      "added_at": "2024-02-01 14:36:47",
-      "album": {
         "name": "Late Night Jazz (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4R3CM1E0eEgn4RVAz7ve64"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 179800,
       "name": "Children's Waltz",
       "url": "https://open.spotify.com/track/6vhp7oVhC3y83H1ItCzNce"
+    },
+    {
+      "added_at": "2024-02-01 14:36:47",
+      "album": {
+        "name": "Dizzy 100",
+        "url": "https://open.spotify.com/album/5DGcQGe6AvE5LGdYyZlHfn"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Gillespie",
+          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
+        }
+      ],
+      "duration_ms": 303522,
+      "name": "Con Alma",
+      "url": "https://open.spotify.com/track/3cJZT2monFlaNCgXvuDQwZ"
     },
     {
       "added_at": "2024-02-01 14:36:47",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-02-01 14:36:47",
       "album": {
-        "name": "Woody III",
-        "url": "https://open.spotify.com/album/24H0lq7ZAAcPcK5aYRpQq7"
-      },
-      "artists": [
-        {
-          "name": "Woody Shaw",
-          "url": "https://open.spotify.com/artist/0yvEf1tqWWPiZu4ZbjyKGs"
-        }
-      ],
-      "duration_ms": 331013,
-      "name": "Organ Grinder",
-      "url": "https://open.spotify.com/track/5taZCF2wNGymtrOpx6VZsu"
-    },
-    {
-      "added_at": "2024-02-01 14:36:47",
-      "album": {
         "name": "Star Bright",
         "url": "https://open.spotify.com/album/3mVCxKC9Mco9NVcZYtOcn9"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 357213,
       "name": "I'll Close My Eyes",
       "url": "https://open.spotify.com/track/24RZ9XFnZ78RTtKld1s4Fq"
+    },
+    {
+      "added_at": "2024-02-01 14:36:47",
+      "album": {
+        "name": "Woody III",
+        "url": "https://open.spotify.com/album/24H0lq7ZAAcPcK5aYRpQq7"
+      },
+      "artists": [
+        {
+          "name": "Woody Shaw",
+          "url": "https://open.spotify.com/artist/0yvEf1tqWWPiZu4ZbjyKGs"
+        }
+      ],
+      "duration_ms": 331013,
+      "name": "Organ Grinder",
+      "url": "https://open.spotify.com/track/5taZCF2wNGymtrOpx6VZsu"
     },
     {
       "added_at": "2024-02-01 14:36:47",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-02-01 14:36:47",
       "album": {
-        "name": "Thumpin' & Bumpin' - New York, Vol. 2",
-        "url": "https://open.spotify.com/album/1SL8wTpmiGszaopHkUo1Kv"
-      },
-      "artists": [
-        {
-          "name": "Bubber Miley",
-          "url": "https://open.spotify.com/artist/5HDCdQ8Z534fUX4gZI5IzT"
-        }
-      ],
-      "duration_ms": 179840,
-      "name": "I Lost My Gal from Memphis",
-      "url": "https://open.spotify.com/track/1XosTFwZmk8ZSvCoe7SsjK"
-    },
-    {
-      "added_at": "2024-02-01 14:36:47",
-      "album": {
         "name": "I Am a Man (with Bill Frisell, Brian Blade, Jason Moran & Thomas Morgan)",
         "url": "https://open.spotify.com/album/7foEq7VyoOsDoFMVaBQz80"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 363360,
       "name": "Russian Melody",
       "url": "https://open.spotify.com/track/0tBaZxoxjql6D3LF0sOJ0r"
+    },
+    {
+      "added_at": "2024-02-01 14:36:47",
+      "album": {
+        "name": "Thumpin' & Bumpin' - New York, Vol. 2",
+        "url": "https://open.spotify.com/album/1SL8wTpmiGszaopHkUo1Kv"
+      },
+      "artists": [
+        {
+          "name": "Bubber Miley",
+          "url": "https://open.spotify.com/artist/5HDCdQ8Z534fUX4gZI5IzT"
+        }
+      ],
+      "duration_ms": 179840,
+      "name": "I Lost My Gal from Memphis",
+      "url": "https://open.spotify.com/track/1XosTFwZmk8ZSvCoe7SsjK"
     },
     {
       "added_at": "2024-02-01 14:36:47",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2024-02-01 14:36:47",
       "album": {
+        "name": "Magnetic",
+        "url": "https://open.spotify.com/album/7lKQFTVYJ30NpxHhYMIA98"
+      },
+      "artists": [
+        {
+          "name": "Terence Blanchard",
+          "url": "https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv"
+        }
+      ],
+      "duration_ms": 479266,
+      "name": "Jacob's Ladder",
+      "url": "https://open.spotify.com/track/4sdEI4KEYvzon0FkfWvuYA"
+    },
+    {
+      "added_at": "2024-02-01 14:36:47",
+      "album": {
         "name": "Leosia",
         "url": "https://open.spotify.com/album/3MwR2imlhLJiXVk7FPXmY4"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 367093,
       "name": "Die Weisheit von Le Comte Lautr\u00e9amont",
       "url": "https://open.spotify.com/track/1Z9Lk2lp9YYX8wH00qvY03"
-    },
-    {
-      "added_at": "2024-02-01 14:36:47",
-      "album": {
-        "name": "Magnetic",
-        "url": "https://open.spotify.com/album/7lKQFTVYJ30NpxHhYMIA98"
-      },
-      "artists": [
-        {
-          "name": "Terence Blanchard",
-          "url": "https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv"
-        }
-      ],
-      "duration_ms": 479266,
-      "name": "Jacob's Ladder",
-      "url": "https://open.spotify.com/track/4sdEI4KEYvzon0FkfWvuYA"
     },
     {
       "added_at": "2024-02-01 14:36:47",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2024-02-01 14:36:47",
       "album": {
-        "name": "Simply Stated",
-        "url": "https://open.spotify.com/album/4wEB2Jr7x5yEKf0Z1cySwK"
-      },
-      "artists": [
-        {
-          "name": "Terence Blanchard",
-          "url": "https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv"
-        }
-      ],
-      "duration_ms": 600493,
-      "name": "Dear Old Stockholm",
-      "url": "https://open.spotify.com/track/0HvbCzWKX92WGotTTD1Pdb"
-    },
-    {
-      "added_at": "2024-02-01 14:36:47",
-      "album": {
         "name": "Brecker Plays Rovatti - Sacred Bond",
         "url": "https://open.spotify.com/album/3ZjB52AfGeg45m1Tlsw0JT"
       },
@@ -1643,42 +1627,6 @@
     {
       "added_at": "2024-02-01 14:36:47",
       "album": {
-        "name": "Gemini II",
-        "url": "https://open.spotify.com/album/3t24XQw59bKiLTFjO49vAm"
-      },
-      "artists": [
-        {
-          "name": "Marcus Belgrave",
-          "url": "https://open.spotify.com/artist/3RCx5My8byOMt36OUepQrX"
-        }
-      ],
-      "duration_ms": 337040,
-      "name": "Gemini II",
-      "url": "https://open.spotify.com/track/3J0WqvlOdjtskh6cTbUd2w"
-    },
-    {
-      "added_at": "2024-02-01 14:36:47",
-      "album": {
-        "name": "The Reason Why Vol. 3",
-        "url": "https://open.spotify.com/album/73wsAfhptI38YMPmq8JBc4"
-      },
-      "artists": [
-        {
-          "name": "Goran Kajfes",
-          "url": "https://open.spotify.com/artist/0HfOvXPsKgF3wkhZthqOPr"
-        },
-        {
-          "name": "Goran Kajfes Subtropic Arkestra",
-          "url": "https://open.spotify.com/artist/4goaddAeVzC9t8NV5oY9w7"
-        }
-      ],
-      "duration_ms": 533573,
-      "name": "Trance Dance",
-      "url": "https://open.spotify.com/track/64OCeZwEXZDoTt1MVlWRUO"
-    },
-    {
-      "added_at": "2024-02-01 14:36:47",
-      "album": {
         "name": "One Of Many",
         "url": "https://open.spotify.com/album/0owuv6WD9VYmzZX8LO6S6Q"
       },
@@ -1703,18 +1651,54 @@
     {
       "added_at": "2024-02-01 14:36:47",
       "album": {
-        "name": "Noir en rouge (Live in Paris)",
-        "url": "https://open.spotify.com/album/0xCalRdfS1AhMvGut4YniX"
+        "name": "Simply Stated",
+        "url": "https://open.spotify.com/album/4wEB2Jr7x5yEKf0Z1cySwK"
       },
       "artists": [
         {
-          "name": "Jeremy Pelt",
-          "url": "https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX"
+          "name": "Terence Blanchard",
+          "url": "https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv"
         }
       ],
-      "duration_ms": 487946,
-      "name": "Re-invention - Live in Paris",
-      "url": "https://open.spotify.com/track/428KqU3SjN3UxUe3pQoyB6"
+      "duration_ms": 600493,
+      "name": "Dear Old Stockholm",
+      "url": "https://open.spotify.com/track/0HvbCzWKX92WGotTTD1Pdb"
+    },
+    {
+      "added_at": "2024-02-01 14:36:47",
+      "album": {
+        "name": "The Reason Why Vol. 3",
+        "url": "https://open.spotify.com/album/73wsAfhptI38YMPmq8JBc4"
+      },
+      "artists": [
+        {
+          "name": "Goran Kajfes",
+          "url": "https://open.spotify.com/artist/0HfOvXPsKgF3wkhZthqOPr"
+        },
+        {
+          "name": "Goran Kajfes Subtropic Arkestra",
+          "url": "https://open.spotify.com/artist/4goaddAeVzC9t8NV5oY9w7"
+        }
+      ],
+      "duration_ms": 533573,
+      "name": "Trance Dance",
+      "url": "https://open.spotify.com/track/64OCeZwEXZDoTt1MVlWRUO"
+    },
+    {
+      "added_at": "2024-02-01 14:36:47",
+      "album": {
+        "name": "Gemini II",
+        "url": "https://open.spotify.com/album/3t24XQw59bKiLTFjO49vAm"
+      },
+      "artists": [
+        {
+          "name": "Marcus Belgrave",
+          "url": "https://open.spotify.com/artist/3RCx5My8byOMt36OUepQrX"
+        }
+      ],
+      "duration_ms": 337040,
+      "name": "Gemini II",
+      "url": "https://open.spotify.com/track/3J0WqvlOdjtskh6cTbUd2w"
     },
     {
       "added_at": "2024-02-01 14:36:47",
@@ -1731,6 +1715,22 @@
       "duration_ms": 429666,
       "name": "Concentric Circles",
       "url": "https://open.spotify.com/track/7x2rOBlvoS4c4wkb0IQwj7"
+    },
+    {
+      "added_at": "2024-02-01 14:36:47",
+      "album": {
+        "name": "Noir en rouge (Live in Paris)",
+        "url": "https://open.spotify.com/album/0xCalRdfS1AhMvGut4YniX"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Pelt",
+          "url": "https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX"
+        }
+      ],
+      "duration_ms": 487946,
+      "name": "Re-invention - Live in Paris",
+      "url": "https://open.spotify.com/track/428KqU3SjN3UxUe3pQoyB6"
     },
     {
       "added_at": "2024-02-01 14:36:47",

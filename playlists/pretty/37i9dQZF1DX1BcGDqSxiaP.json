@@ -1,18 +1,18 @@
 {
   "description": "Releases from the legendary Blues label.",
-  "num_followers": 22313,
+  "num_followers": 22321,
   "original_name": "Legendary Labels: Alligator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmY2U1NWM0MDVkNGYyOTM5MWExN2VhNDViODEyYzg4ZTU4ZTczNzJl",
+  "snapshot_id": "MCxiZTAyNmQwMDU0NTVlODM0Njg1MzUxNDJjYjc0MDcyNzgwZDAyM2Yw",
   "tracks": [
     {
       "added_at": "2023-05-17 15:52:13",
       "album": {
-        "name": "Deluxe Edition",
-        "url": "https://open.spotify.com/album/3MSyCHOkBoZQT2byE3vprN"
+        "name": "Cold Snap (Remastered)",
+        "url": "https://open.spotify.com/album/4yybDfoKxyAey83ruCtTb9"
       },
       "artists": [
         {
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
         }
       ],
-      "duration_ms": 295693,
-      "name": "T-Bone Shuffle",
-      "url": "https://open.spotify.com/track/1HRx7dciQYCv76XvbBDAGM"
+      "duration_ms": 247400,
+      "name": "I Ain't Drunk - Remastered",
+      "url": "https://open.spotify.com/track/1pPrO5Lcx9UXNebcloGeHE"
     },
     {
       "added_at": "2023-05-17 15:52:13",
@@ -123,8 +123,8 @@
     {
       "added_at": "2023-05-17 15:52:13",
       "album": {
-        "name": "Cold Snap (Remastered)",
-        "url": "https://open.spotify.com/album/4yybDfoKxyAey83ruCtTb9"
+        "name": "Deluxe Edition",
+        "url": "https://open.spotify.com/album/3MSyCHOkBoZQT2byE3vprN"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
         }
       ],
-      "duration_ms": 247400,
-      "name": "I Ain't Drunk - Remastered",
-      "url": "https://open.spotify.com/track/1pPrO5Lcx9UXNebcloGeHE"
+      "duration_ms": 295693,
+      "name": "T-Bone Shuffle",
+      "url": "https://open.spotify.com/track/1HRx7dciQYCv76XvbBDAGM"
     },
     {
       "added_at": "2023-05-17 15:52:13",

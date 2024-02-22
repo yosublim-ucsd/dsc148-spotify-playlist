@@ -4,7 +4,7 @@
 
 > Feel\-good <a href="spotify:genre:edm\_dance">dance music</a>!
 
-391 songs - 20 hr 48 min
+392 songs - 20 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Celebration](https://open.spotify.com/track/1Lpmbi3o2CEkDfZuP8xOOV) | [Lee Wilson](https://open.spotify.com/artist/0kgsfMP7coSEX8bwUQVivr) | [Celebration](https://open.spotify.com/album/6z2q8lvWT9eSqutr1vkaWC) | 3:48 | 2021-12-03 | 2022-01-03 |
 | [Chance](https://open.spotify.com/track/4oVp2A9Ud4hV27Kr5bByCQ) | [Codeko](https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp) | [Chance](https://open.spotify.com/album/0MFfVEtQD82fGQCpc4lvel) | 3:26 | 2021-12-03 | 2022-01-08 |
 | [Chasing Stars \(feat\. James Bay\)](https://open.spotify.com/track/6y6xhAgZjvxy5kR5rigpY3) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chasing Stars \(feat\. James Bay\)](https://open.spotify.com/album/09vWMvGsbMxlVuFS7hCsf6) | 2:50 | 2021-12-03 | 2023-08-05 |
+| [Cherry Lips](https://open.spotify.com/track/2vfcLK0mU3JhMC6vscawrM) | [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [Cherry Lips](https://open.spotify.com/album/4MjHMcTvVgqGFuXVejbpXc) | 2:51 | 2024-02-16 |  |
 | [Chucks](https://open.spotify.com/track/2syb6g2gf1rj50CovNjtI6) | [Mi Casa](https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0), [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH) | [Chucks](https://open.spotify.com/album/1NtBG3u5z3xHdvl3fYFaZW) | 2:49 | 2021-12-03 | 2022-07-29 |
 | [Clap Your Hands](https://open.spotify.com/track/7g7OshelYRRnOSEMmisJVI) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Clap Your Hands](https://open.spotify.com/album/2Uxn2xBab5Sjo3gnfuir7q) | 3:09 | 2022-05-27 |  |
 | [CLASH \- Edit](https://open.spotify.com/track/4IPATLSUoEdsmqwxwNjr4g) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [CLASH](https://open.spotify.com/album/3teqPCjiUVKdmTONZZrrcv) | 3:30 | 2023-02-17 | 2023-06-24 |
@@ -126,7 +127,7 @@
 | [Free Yourself](https://open.spotify.com/track/1BXAyGazbybUVNQ0VmGsdl) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Free Yourself](https://open.spotify.com/album/4uslfFMaS0bfVnuM7MuQ7K) | 3:54 | 2022-07-22 |  |
 | [Future In Your Hands \(feat\. Aloe Blacc\)](https://open.spotify.com/track/5A52bfa9VVfTTfwLpxopz6) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [David Solomon](https://open.spotify.com/artist/3fzRb5i8Wn7ao2KPDxEiTR), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Future In Your Hands \(feat\. Aloe Blacc\)](https://open.spotify.com/album/7s2UFHl1FHu2AkD6pVXxMn) | 3:41 | 2022-08-26 | 2022-10-06 |
 | [Future Starts Now](https://open.spotify.com/track/3p2wS6G159mBIU50xl7uvc) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Future Starts Now](https://open.spotify.com/album/0mhiYBnL1wLGc0CgMhvBe2) | 4:39 | 2021-12-03 | 2022-12-10 |
-| [Get Up](https://open.spotify.com/track/3uO4nLDiJMH2DkixEFcHIN) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA), [ShezAr](https://open.spotify.com/artist/3PPJmIxohGjhNvQIyrksIW) | [Get Up](https://open.spotify.com/album/2XahKuNpWDBxLlbD8eKCuc) | 3:06 | 2023-03-10 |  |
+| [Get Up](https://open.spotify.com/track/3uO4nLDiJMH2DkixEFcHIN) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA), [ShezAr](https://open.spotify.com/artist/3PPJmIxohGjhNvQIyrksIW) | [Get Up](https://open.spotify.com/album/2XahKuNpWDBxLlbD8eKCuc) | 3:06 | 2023-03-10 | 2024-02-22 |
 | [GOLDEN](https://open.spotify.com/track/6QWB8L8CgRGLxFi34PD382) | [Antoine Cara](https://open.spotify.com/artist/4sHxN0TiHnkwK3YNIdTkMm), [Jex](https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF) | [GOLDEN](https://open.spotify.com/album/2GbsIk9c3vANdWCufpftWn) | 3:39 | 2021-12-03 | 2022-01-08 |
 | [Good Day Bad Day](https://open.spotify.com/track/2gvk0tcgT5cm97I1TWHAQa) | [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [Good Day Bad Day](https://open.spotify.com/album/4wBJRggQfJF9Swtb9Y4qH6) | 3:14 | 2021-12-03 | 2021-12-31 |
 | [Good Dream](https://open.spotify.com/track/0uL65436R0LEWAmXS5QmzU) | [Midsplit](https://open.spotify.com/artist/5FDIxEGRvg8QrMoNr9BoFl), [BLEM](https://open.spotify.com/artist/0TPjfhQmGHQ3O71ZdzklDB), [A\-SHO](https://open.spotify.com/artist/1nMwu5ui0X2XYTRKGmCFJz) | [Good Dream](https://open.spotify.com/album/3bE5bIj5rLKSWjjcC1SrlU) | 2:48 | 2021-12-03 | 2022-01-08 |

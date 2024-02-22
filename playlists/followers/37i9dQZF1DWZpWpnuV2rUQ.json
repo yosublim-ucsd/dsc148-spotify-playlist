@@ -1,5 +1,5 @@
 {
-  "2024-02-21": 70725,
+  "2024-02-22": 70789,
   "date_first_scraped": "2023-10-15",
   "description": "Hits virales, tendencias y challenges del futuro.",
   "name": "el hype",
@@ -3705,10 +3705,36 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 158125,
       "name": "No Voy a Llorar Por Ti",
       "url": "https://open.spotify.com/track/6XamCg6wYD7B9o38SB5SH3"
+    },
+    {
+      "album": {
+        "name": "No Voy a Llorar Por Ti",
+        "url": "https://open.spotify.com/album/3YqBaqFPU0xKayjv6ZIThM"
+      },
+      "artists": [
+        {
+          "name": "Ian Lucas",
+          "url": "https://open.spotify.com/artist/4Y5ngKq3InS4UveL0Sp7Ik"
+        },
+        {
+          "name": "Fede Vigevani",
+          "url": "https://open.spotify.com/artist/3CuloJ8QY3IiCwna8Q6SOr"
+        },
+        {
+          "name": "Milthon",
+          "url": "https://open.spotify.com/artist/6gIF4fABYGdlhkCP8C22MK"
+        }
+      ],
+      "date_added": "2024-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156490,
+      "name": "No Voy a Llorar Por Ti",
+      "url": "https://open.spotify.com/track/30m4XdJm15IdPPKEbYl5GM"
     },
     {
       "album": {

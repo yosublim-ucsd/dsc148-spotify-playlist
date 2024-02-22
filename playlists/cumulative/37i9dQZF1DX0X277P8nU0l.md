@@ -4,7 +4,7 @@
 
 > Un café, un croissant et c‘est parti pour une bonne journée.
 
-199 songs - 11 hr 24 min
+202 songs - 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Asking To Break](https://open.spotify.com/track/1NoxZc2x2Y7eX1U5wHj6hr) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Playing Robots Into Heaven](https://open.spotify.com/album/2ZwNcWl8h9blysDE8i4juL) | 2:52 | 2024-01-02 |  |
 | [Astrology Poisoning](https://open.spotify.com/track/2vYd15dPYelxBESvyviVbf) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [& the Charm](https://open.spotify.com/album/6gRl7N6UQKKmXCv3nhYlMu) | 3:39 | 2023-06-19 | 2024-01-12 |
 | [august](https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:21 | 2023-08-17 | 2024-01-26 |
-| [Back In Love](https://open.spotify.com/track/20aysL9kYxvNPuSWEzh8pl) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Back In Love](https://open.spotify.com/album/6QqRF5zCtaC7QxClwaGUDf) | 4:41 | 2023-09-05 |  |
+| [Back In Love](https://open.spotify.com/track/20aysL9kYxvNPuSWEzh8pl) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Back In Love](https://open.spotify.com/album/6QqRF5zCtaC7QxClwaGUDf) | 4:41 | 2023-09-05 | 2024-02-22 |
 | [Bamtak](https://open.spotify.com/track/7G1TpbKIxOcgjyXqstZsQ9) | [Camel Power Club](https://open.spotify.com/artist/2ziSUHAT6LbHKCJIlwHhDG) | [Narukanaga](https://open.spotify.com/album/68nJKYnPFSOwPY5XLqGdDO) | 4:32 | 2023-02-17 | 2023-08-25 |
 | [Beautiful Stranger](https://open.spotify.com/track/38TpUKiHQZyBKiD9LMMy6X) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 3:21 | 2022-12-21 | 2023-02-28 |
 | [Before We Step Inside](https://open.spotify.com/track/6bxfwQ5z8qe2uoEOiO35YG) | [Charlie Burg](https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8) | [Before We Step Inside](https://open.spotify.com/album/4nXC12lYgRlswGeLUumBJb) | 2:14 | 2023-10-12 |  |
@@ -92,6 +92,7 @@
 | [Jasmine](https://open.spotify.com/track/6bniCXManaPDnCN34waQs6) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Jasmine](https://open.spotify.com/album/1DBHlk9JyIXfKOFtK7mYjQ) | 3:39 | 2023-11-09 |  |
 | [Julia](https://open.spotify.com/track/7wOiVecTrFnimS9bpnWJcS) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Aliocha Schneider](https://open.spotify.com/album/5wSrUAHl9x25A4w0wXpJLO) | 2:38 | 2023-10-12 |  |
 | [Just For Me](https://open.spotify.com/track/0Kjt9OTYDgTPTyiLRSkWp9) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Lay It Down](https://open.spotify.com/album/1lanaz3WgCVv2brd64XVeK) | 3:58 | 2023-02-03 | 2023-07-18 |
+| [Juste toi et moi](https://open.spotify.com/track/2LsigtUd0PhjrtVIibZOQB) | [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [Juste toi et moi](https://open.spotify.com/album/4UzT23o7A0FSi1rwsplBkW) | 2:55 | 2024-02-21 |  |
 | [JÚJÚ](https://open.spotify.com/track/2fvzuOmOYZJWSXFur49qQn) | [Sunni Colón](https://open.spotify.com/artist/4tRZRfhgfLEIUI9mw9Njy2) | [JúJú & The Flowerbug](https://open.spotify.com/album/2PXP673QHx50WTC2Tu7KPF) | 4:22 | 2022-12-21 | 2024-01-19 |
 | [Kiss Me](https://open.spotify.com/track/2b38FyMDTmShS1H5psrqXb) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Kiss Me](https://open.spotify.com/album/3U6pa1uAOxsaqa8v3HNJ4z) | 2:57 | 2024-01-25 |  |
 | [Know the Night](https://open.spotify.com/track/0hfjholWfyL1cxsvjwkzM8) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Know the Night](https://open.spotify.com/album/1rKrDA2rrti4WOKjsF4XWm) | 3:10 | 2023-11-23 |  |
@@ -112,6 +113,7 @@
 | [Love Is Alive](https://open.spotify.com/track/623qVmC3LmsRQeFk3jlkLc) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Love Is Alive](https://open.spotify.com/album/5osk5V7uL3lQzejyvan1Bt) | 3:52 | 2023-11-09 | 2024-01-19 |
 | [Love Is Alive](https://open.spotify.com/track/65Tyq0mmbLzayumvoK6Ixw) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Love Is Alive](https://open.spotify.com/album/6crsCEK6qj2PmK00pETlAK) | 3:52 | 2023-08-17 | 2023-11-17 |
 | [Loving You Is All I Want To Do](https://open.spotify.com/track/1GIf6prhwd6ESjjJ6pmiwV) | [Roseaux](https://open.spotify.com/artist/3JUUs8oZ6MRA1f2ahfusYu), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Loving You is All I Want to Do](https://open.spotify.com/album/4TJt3xetzmO9t4hQSRBQnf) | 3:39 | 2023-03-31 | 2023-10-20 |
+| [May Ninth](https://open.spotify.com/track/2145px2VY14o2Pgr0OIttX) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [May Ninth](https://open.spotify.com/album/0XTJuQSKa1LtnG7r5MO43L) | 3:12 | 2024-02-21 |  |
 | [Messy](https://open.spotify.com/track/2iq1qD2ifqpYS5J2I35u7h) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Messy](https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY) | 3:43 | 2023-06-30 | 2023-12-08 |
 | [Monte Carlo](https://open.spotify.com/track/6nPXiWyjlfHfCT4TcMGJAM) | [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Monte Carlo \(Robin Hannibal Boogie Remix\)](https://open.spotify.com/album/2DwWvi27z3GgZBwAc8I320) | 3:34 | 2022-12-21 | 2023-01-27 |
 | [Morning Sun](https://open.spotify.com/track/4Hge2Dy2MBYw45e28LIaQy) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [11](https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8) | 3:59 | 2023-03-23 | 2023-08-25 |
@@ -149,7 +151,7 @@
 | [Seasons](https://open.spotify.com/track/0jzuoUYtIxSMJLUktZXV9o) | [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [one](https://open.spotify.com/album/1tZ2W5PW2lyAf1K7sTM6iW) | 3:24 | 2022-12-21 | 2023-03-11 |
 | [See Ya There](https://open.spotify.com/track/4KXd5UAFuHok5tfUXBP2fQ) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [STRUGGLER](https://open.spotify.com/album/1mzWBk8fzEEMumcy5IuVcf) | 4:39 | 2023-10-03 |  |
 | [Si Me Voy \(with The Marías\)](https://open.spotify.com/track/6GiCszfL4D2GlCU8tFU3sR) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Si Me Voy \(with The Marías\)](https://open.spotify.com/album/5TZm9qi0223t20ypmJevEq) | 3:23 | 2023-03-10 | 2023-09-22 |
-| [Sidelines](https://open.spotify.com/track/4mMviz9DJKLPyfhxpQIBcW) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Sandhills](https://open.spotify.com/album/1ZTd9cM6FPWW4ZP0qUwhpF) | 3:25 | 2023-08-24 |  |
+| [Sidelines](https://open.spotify.com/track/4mMviz9DJKLPyfhxpQIBcW) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Sandhills](https://open.spotify.com/album/1ZTd9cM6FPWW4ZP0qUwhpF) | 3:25 | 2023-08-24 | 2024-02-22 |
 | [Sign Out](https://open.spotify.com/track/7xR9nZWkuINxV2jcbCplu9) | [Evergreen](https://open.spotify.com/artist/2rdtngq3t4zQwluqyGfZuS) | [Sign Out](https://open.spotify.com/album/6zk2wMyaFUHRkoxRNDL1Ds) | 3:58 | 2023-01-19 | 2023-06-20 |
 | [Simply Paradise](https://open.spotify.com/track/1EKpwGoisV5nUOqqMZ7gAJ) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM), [Ryan Paris](https://open.spotify.com/artist/3nRifdQMP5925XSkIN07oC) | [Simply Paradise](https://open.spotify.com/album/4NKglcnKOsi2uFYJOSGkUM) | 2:35 | 2023-10-04 |  |
 | [Sing Sang Sung](https://open.spotify.com/track/1TTz7vRGZEQgpL6HJOEhWo) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Love 2](https://open.spotify.com/album/7vfCAXD0bK0i2r3LZa8zVg) | 3:07 | 2023-03-23 | 2023-09-22 |
@@ -174,7 +176,7 @@
 | [Sunflower](https://open.spotify.com/track/32uXuJF75lxy2gRY85aO9h) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH), [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Sahar](https://open.spotify.com/album/6SkLEvDvr8cHuuKWTQSgj9) | 4:23 | 2023-02-27 | 2023-09-06 |
 | [Sunny day](https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:40 | 2022-12-21 | 2023-01-20 |
 | [Sunsets For Somebody Else \(feat\. Rogê\) \- Brasil Version](https://open.spotify.com/track/1q4JXsjK3jgljGn3ZGtiQ1) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3), [Rogê](https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3) | [Sunsets For Somebody Else & Big Sur \(Brasil Versions\)](https://open.spotify.com/album/4DgFZiSAbSzubaX5gY6Mgf) | 3:53 | 2023-01-19 | 2023-07-08 |
-| [Sweet Craving](https://open.spotify.com/track/6ORy3dG0eRQgfprk0MjjGp) | [King Josephine](https://open.spotify.com/artist/1qf05AiTQEYatPSVe1sRDz) | [Sweet Craving](https://open.spotify.com/album/2PZF0TA03SBBbOfhOblsJv) | 2:57 | 2023-09-05 |  |
+| [Sweet Craving](https://open.spotify.com/track/6ORy3dG0eRQgfprk0MjjGp) | [King Josephine](https://open.spotify.com/artist/1qf05AiTQEYatPSVe1sRDz) | [Sweet Craving](https://open.spotify.com/album/2PZF0TA03SBBbOfhOblsJv) | 2:57 | 2023-09-05 | 2024-02-22 |
 | [Teach Me](https://open.spotify.com/track/1Ao0v7s8d9IvlkiiTLLNdW) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Teach Me](https://open.spotify.com/album/7Lq1yzAH6bOAe3EzUujCpD) | 2:40 | 2023-10-27 | 2023-11-06 |
 | [Teach Me](https://open.spotify.com/track/67WrJrYuDihmwIVhR4p7N1) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Youth And Why It Ends](https://open.spotify.com/album/2rv9MHfgzqAvshO61zMdBn) | 2:40 | 2023-10-27 |  |
 | [Teach Me](https://open.spotify.com/track/69C61BkstEREBdizQrgbQi) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Teach Me](https://open.spotify.com/album/1G5PjW6Cy80XPTmyRr2nyv) | 2:40 | 2023-10-19 | 2023-11-05 |
@@ -207,5 +209,6 @@
 | [When We Are Together](https://open.spotify.com/track/5M5TD1Tlpcgq0Fj1l6Mz6Z) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 3:36 | 2023-01-06 | 2023-06-02 |
 | [Who Knows Where the Time Goes](https://open.spotify.com/track/6xrZRS55yzDaQclNPxwiJI) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Who Knows Where the Time Goes / Yerre Blues](https://open.spotify.com/album/3UL9xJ9KWT3BQvU8ewWvjf) | 4:26 | 2022-12-21 | 2023-02-04 |
 | [Wondrous Place](https://open.spotify.com/track/0oXJQ8CyDcQJXASZiCSNGa) | [Drug Store Romeos](https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh) | [Wondrous Place](https://open.spotify.com/album/2otVcTMllFwg2QW6paGMmF) | 2:13 | 2023-04-27 | 2023-10-28 |
+| [Would I Lie To You \- The Muscle Shoals Sessions](https://open.spotify.com/track/1bua1dCfuFfvxO7rYtl5vZ) | [Texas](https://open.spotify.com/artist/5JsdVATHNPE0XdMFMRoSuf), [Spooner Oldham](https://open.spotify.com/artist/6GwM53df9UWtthcHHBiPpS) | [Would I Lie To You \(The Muscle Shoals Sessions\)](https://open.spotify.com/album/3Xs688WxEMEWeWx0Ujz2jN) | 3:43 | 2024-02-21 |  |
 
 \*This playlist was first scraped on 2022-12-28. Prior content cannot be recovered.

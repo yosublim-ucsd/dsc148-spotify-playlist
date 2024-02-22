@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 
 > The full collection of Spotify Singles recordings\. Cover: Sabrina Carpenter
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,920 likes - 926 songs - 2 day 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,942 likes - 926 songs - 2 day 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -624,7 +624,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 | 614 | [I\-89 \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/5ou4c3qI8EvtpwsvYIM4L4) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr) | [Spotify Singles](https://open.spotify.com/album/3r2nsltTqzo00OsH4aty5a) | 3:00 |
 | 615 | [Hannah Hunt \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/2es17WUR55CXoDIcKtT0eZ) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr) | [Spotify Singles](https://open.spotify.com/album/3r2nsltTqzo00OsH4aty5a) | 4:38 |
 | 616 | [Friday Morning \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4JNbeUuiJV0CjOUPCLogZy) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Spotify Singles](https://open.spotify.com/album/3oQcSwlUB1l2bANoqtDKKU) | 6:36 |
-| 617 | [Khuda Bhi Aasman \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5lZX0cZpdT3Y10uJ3oR17s) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Spotify Singles](https://open.spotify.com/album/3oQcSwlUB1l2bANoqtDKKU) | 3:59 |
+| 617 | [](https://open.spotify.com/track/6zXpmOXNuWMZG8RYcSmtH4) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Spotify Singles](https://open.spotify.com/album/0SsFgST749MQC6oN9PLHLf) | 0:00 |
 | 618 | [2002 \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/5fTB64VM8euas4F0xOHY5S) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Spotify Singles](https://open.spotify.com/album/6sHBQWEvoS10m9PE9mY9ND) | 3:12 |
 | 619 | [Leave \(Get Out\) \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/6ClEErrTmd3GzRqGiCEC8G) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Spotify Singles](https://open.spotify.com/album/6sHBQWEvoS10m9PE9mY9ND) | 3:15 |
 | 620 | [If You're Here \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/63rMeLMBGkA5Sb676FuFz5) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [Ripple Waves](https://open.spotify.com/album/1N5bqHytFgwnEgpCSECdn7) | 6:08 |
@@ -935,4 +935,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 | 925 | [Way down We Go \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3inSmIa388icRdpDi5ecJd) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 3:13 |
 | 926 | [All the Pretty Girls \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 5:07 |
 
-Snapshot ID: `MCw0MWQzYWQ3ZTcwN2NkOGU3YmM4MWUxOTFhYTcwYmM4NmI4Y2RlMzM2`
+Snapshot ID: `MCxkZjFkODU2MTRlYjAyNDc2NGRhNDc1ZjBmNWJkMzAxNzRkMjJjZmVh`

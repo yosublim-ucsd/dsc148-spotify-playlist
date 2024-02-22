@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 
 > Top and emerging tracks from around the world inspired by the amapiano movement\. Cover: <a href="https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu?si=3MaOX4PVTF\-3eb731XGmUg">Suté Iwar</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,129 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,163 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 | 12 | [AKA47](https://open.spotify.com/track/1kHFCXvlQxPraGQZSJjiu6) | [Vibekulture Sa](https://open.spotify.com/artist/1nKBsRsdQ7uG99wRtNDMPd), [DJ KAYSMART](https://open.spotify.com/artist/44RAWv4e52G2F8RoEQYswt), [Citykingrsa](https://open.spotify.com/artist/2Mudgi66HA90FPyhrTFLNr) | [AKA47](https://open.spotify.com/album/1wTgLKtxcYjrUmp8PqOpgT) | 6:17 |
 | 13 | [4U](https://open.spotify.com/track/6CnJyXZXNndtqqAbfwKcaa) | [OWO](https://open.spotify.com/artist/05vJbRVo5CJnkb1rCshUEr), [dndSection](https://open.spotify.com/artist/7E2LWSLIdwELry2AY88xUg) | [4U](https://open.spotify.com/album/79hX8WPtYLBU8Ah5GQIzE0) | 2:26 |
 | 14 | [Hillary Remix \(feat\. Pabi Cooper\)](https://open.spotify.com/track/2ff14gUetkeu5ybyyPQbOt) | [Noon Dave](https://open.spotify.com/artist/7JkLbDtlEwAhFPn3o2kXAm), [Pabi Cooper](https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ) | [Hillary Remix \(feat\. Pabi Cooper\)](https://open.spotify.com/album/53Cs8CxbqCXKA4fan2XSLH) | 2:54 |
-| 15 | [Maria](https://open.spotify.com/track/3c1dmfIGuGXSKtQGejjc2T) | [Dumomi the Jig](https://open.spotify.com/artist/7x9N8hOjQ8W2sRNNswCthw), [Black Culture](https://open.spotify.com/artist/2331I1TOUrGnlIbG8Vs1gp), [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Maria](https://open.spotify.com/album/6jlHvs6KPAfRC2UBMZlOWs) | 3:07 |
+| 15 | [Maria](https://open.spotify.com/track/63Z0GqJuGyTojf5B2XoMze) | [Dumomi the Jig](https://open.spotify.com/artist/7x9N8hOjQ8W2sRNNswCthw), [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ), [Black Culture](https://open.spotify.com/artist/2331I1TOUrGnlIbG8Vs1gp) | [Maria](https://open.spotify.com/album/6NjaX2ag4OxEicabDLzotM) | 3:07 |
 | 16 | [No Pressure](https://open.spotify.com/track/0mVzuvUprU7rwle4EC2yz8) | [Del B](https://open.spotify.com/artist/6lDz9VhPe8FMyUEWpMdj2t), [Hotkid](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [No Pressure](https://open.spotify.com/album/30JwPQ889kwhIyLbjqTOYd) | 3:05 |
 | 17 | [Test My Patience](https://open.spotify.com/track/2b9M5HCxQfO2eW9QrkjKcI) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [Test My Patience](https://open.spotify.com/album/4eZBROOHJS10x63PWPZuvy) | 3:09 |
 | 18 | [Sensational \(feat\. Davido & Lojay\)](https://open.spotify.com/track/44G2gUVQvNNZ6w3i05tR4n) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [11:11](https://open.spotify.com/album/0tL8CzbfmF5poGm9puqALR) | 3:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 | 49 | [Just Do It](https://open.spotify.com/track/0V6u8uAnFt85Yrb5AkxJYM) | [Costa Titch](https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG), [BoiBizza](https://open.spotify.com/artist/1eEtFWkyKW60yUyVwvAeuR), [Phantom Steeze](https://open.spotify.com/artist/02XiDOg93e5rFwmPoc7O6S), [NELCNO](https://open.spotify.com/artist/6bFMQHgmlCF5T183y54XUE), [Sayfar](https://open.spotify.com/artist/1y9NmDltEwzLlhMowk4q5u), [Champuru Makhenzo](https://open.spotify.com/artist/5opgK8q2QxKDdubvoUO0Cw) | [Just Do It](https://open.spotify.com/album/3HYKcrEjmZ8TQzDBQL93mB) | 5:22 |
 | 50 | [Kool Sana](https://open.spotify.com/track/0OPojykcf3Ob8loFvWPcTe) | [Flomine](https://open.spotify.com/artist/4ftrhn6reSyzhgXgCYb9qs), [L5VAV](https://open.spotify.com/artist/7iriVfN6kftRpKDqdm492u) | [Kool Sana](https://open.spotify.com/album/7mrv6lThitzSW3QQ5ABEnh) | 2:42 |
 
-Snapshot ID: `MCwyOTkyNDEwYjlkZTkwYzJkYWUyMDY1NmEzMWMwY2JhYzlkOTFhZGIw`
+Snapshot ID: `MCxhZTY4MzRjNGFiZDc1ZWY0ZGY1NjE2Mjg5OGJiYjcwNDc5ODBmMzBj`

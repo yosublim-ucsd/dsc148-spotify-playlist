@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9VaElykiPCq.md) - [plain]
 
 > Featuring Trueno, Feid, Brray & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,971 likes - 25 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,974 likes - 25 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9VaElykiPCq.md) - [plain]
 | 20 | [A Mi Cama](https://open.spotify.com/track/3QJnb9jAkV48Q0J0sCsFHF) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u) | [A Mi Cama](https://open.spotify.com/album/4cXE08JpfNa7O2oSBtr6G6) | 2:34 |
 | 21 | [SUKI](https://open.spotify.com/track/3PVuGa5aJe03VwaljEHyDi) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [SUKI](https://open.spotify.com/album/6Md5GqOGlTtNuorAKregDc) | 3:34 |
 | 22 | [CHRONOS](https://open.spotify.com/track/29eomS83SDqGWkRgdvOUFC) | [Jambene](https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [CHRONOS](https://open.spotify.com/album/39ZCda6u6x5gq6HkNA3D1n) | 4:08 |
-| 23 | [Imaginándote](https://open.spotify.com/track/6zxkr2tSIZMIKHaALNvoCr) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Satus](https://open.spotify.com/album/1lOibSxSky80FXEzR5Z2Gn) | 2:29 |
+| 23 | [Imaginándote](https://open.spotify.com/track/7BFJYal3LoCIud75mCwLFz) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Satus](https://open.spotify.com/album/47aH1PiabZA5UfZ5frshXe) | 2:29 |
 | 24 | [Un Ratito](https://open.spotify.com/track/5CzixCxDkRXX9mScCmah8O) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:56 |
 | 25 | [Dame Un Break](https://open.spotify.com/track/0GcoJFAS8gvhdMZ7OkSwYH) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Dame Un Break](https://open.spotify.com/album/1FOZrLg79d0DCro3tsnRJq) | 3:20 |
 
-Snapshot ID: `MCxmZmNkM2ZlZjIxM2MxNmY2YzMzNzliYjk2NDgyOWIwNTdhYzBkOWIy`
+Snapshot ID: `MCwzYWY3YTRhMmY5Mzc2YTBmYmM5YjE4YWNlYmJkODU3YjBjMWE2YzVm`

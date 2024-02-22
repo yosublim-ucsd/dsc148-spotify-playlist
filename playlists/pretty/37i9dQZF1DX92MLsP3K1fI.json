@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Leo Rizzi y Paty Cant\u00fa en portada.",
-  "num_followers": 82398,
+  "num_followers": 82430,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMzAxYzJlYjI3OTJlYzg0NGRlNjFmOTJjZDZmZjY3MDU0ZDFkZThh",
+  "snapshot_id": "MCwzZDgyMWIzMzc3YWY0ZmQxYTdiMzNmYjcyNGMzNjA1MWIzYzNhMjQw",
   "tracks": [
     {
       "added_at": "2024-02-16 06:00:00",
@@ -427,18 +427,22 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
-        "name": "Mal Hombre",
-        "url": "https://open.spotify.com/album/4zdlZmZFYB35uLc8jN1ZUt"
+        "name": "Amapolas (Remix)",
+        "url": "https://open.spotify.com/album/1vgLiqD7LfGkuymUPdAB2U"
       },
       "artists": [
         {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
         }
       ],
-      "duration_ms": 162061,
-      "name": "Mal Hombre",
-      "url": "https://open.spotify.com/track/1W2VQFXOAUAncfkWv8Mwq2"
+      "duration_ms": 267338,
+      "name": "Amapolas - Remix",
+      "url": "https://open.spotify.com/track/44QxiGlmeSpF8boud04Rkc"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -531,22 +535,18 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
-        "name": "Amapolas (Remix)",
-        "url": "https://open.spotify.com/album/1vgLiqD7LfGkuymUPdAB2U"
+        "name": "Mal Hombre",
+        "url": "https://open.spotify.com/album/4zdlZmZFYB35uLc8jN1ZUt"
       },
       "artists": [
         {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
         }
       ],
-      "duration_ms": 267338,
-      "name": "Amapolas - Remix",
-      "url": "https://open.spotify.com/track/44QxiGlmeSpF8boud04Rkc"
+      "duration_ms": 162061,
+      "name": "Mal Hombre",
+      "url": "https://open.spotify.com/track/1W2VQFXOAUAncfkWv8Mwq2"
     },
     {
       "added_at": "2024-02-16 06:00:00",
@@ -847,26 +847,6 @@
     {
       "added_at": "2024-02-16 06:00:00",
       "album": {
-        "name": "Para No Verte M\u00e1s",
-        "url": "https://open.spotify.com/album/1Eb2dpFYN6id1FcmTxqJtG"
-      },
-      "artists": [
-        {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        },
-        {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 197036,
-      "name": "Para No Verte M\u00e1s",
-      "url": "https://open.spotify.com/track/2HH06rHCyra4vLcdZkdN4d"
-    },
-    {
-      "added_at": "2024-02-16 06:00:00",
-      "album": {
         "name": "Mis Impulsos Sobre Ti",
         "url": "https://open.spotify.com/album/07R6N3nhqDnZpFMUCvaqxu"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 242100,
       "name": "Mis Impulsos Sobre Ti",
       "url": "https://open.spotify.com/track/1k6Q5x5CkuGOm4TSRHICDP"
+    },
+    {
+      "added_at": "2024-02-16 06:00:00",
+      "album": {
+        "name": "Para No Verte M\u00e1s",
+        "url": "https://open.spotify.com/album/1Eb2dpFYN6id1FcmTxqJtG"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        },
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 197036,
+      "name": "Para No Verte M\u00e1s",
+      "url": "https://open.spotify.com/track/2HH06rHCyra4vLcdZkdN4d"
     },
     {
       "added_at": "2024-02-16 06:00:00",

@@ -1,5 +1,5 @@
 {
-  "2024-02-21": 346505,
+  "2024-02-22": 346569,
   "date_first_scraped": "2022-04-14",
   "description": "Cherish the day with these low-key favorites.",
   "name": "Easy Acoustic",
@@ -865,6 +865,24 @@
     {
       "album": {
         "name": "Fall, Fall, Fall",
+        "url": "https://open.spotify.com/album/0jMQ6WSHjx5mV8jqqX17eh"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281180,
+      "name": "Fall, Fall, Fall",
+      "url": "https://open.spotify.com/track/2SEYL3D9Onmw1wutOX3s2h"
+    },
+    {
+      "album": {
+        "name": "Fall, Fall, Fall",
         "url": "https://open.spotify.com/album/0EfqcyLHP03RJpNRyA1MFY"
       },
       "artists": [
@@ -1637,7 +1655,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 210165,
       "name": "Immune",
       "url": "https://open.spotify.com/track/3b9xmyHRcolDEoaECLJ3OF"

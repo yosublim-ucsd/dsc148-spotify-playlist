@@ -1,12 +1,12 @@
 {
   "description": "\"I am never drinking again\".",
-  "num_followers": 7041,
+  "num_followers": 7129,
   "original_name": "hAngOvEr fRiEnDLy rOcK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNzIwNDE5NzVhM2QzNjMyNzZmMTI5MjQxYWE2MjQwZGNiMzlmZjE2",
+  "snapshot_id": "MCw1NTA2ZDZmM2UwZjRmMDg0NDc3YzdlMGIyZGE1ZGJmZTc2YjRjMjFj",
   "tracks": [
     {
       "added_at": "2024-01-29 08:33:10",
@@ -59,22 +59,6 @@
     {
       "added_at": "2024-01-29 08:33:10",
       "album": {
-        "name": "Life's Not Out To Get You",
-        "url": "https://open.spotify.com/album/3umOBqXWR9VnJTQoe9Qkkj"
-      },
-      "artists": [
-        {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
-        }
-      ],
-      "duration_ms": 218954,
-      "name": "December",
-      "url": "https://open.spotify.com/track/4oVdhvxZrKQTM9ZsUIZa3S"
-    },
-    {
-      "added_at": "2024-01-29 08:33:10",
-      "album": {
         "name": "Minutes to Midnight",
         "url": "https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 209306,
       "name": "Leave Out All The Rest",
       "url": "https://open.spotify.com/track/0sp00HSXkQyqTa6QqM0O8V"
+    },
+    {
+      "added_at": "2024-01-29 08:33:10",
+      "album": {
+        "name": "Life's Not Out To Get You",
+        "url": "https://open.spotify.com/album/3umOBqXWR9VnJTQoe9Qkkj"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "duration_ms": 218954,
+      "name": "December",
+      "url": "https://open.spotify.com/track/4oVdhvxZrKQTM9ZsUIZa3S"
     },
     {
       "added_at": "2024-01-29 08:33:10",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-01-29 08:33:10",
       "album": {
-        "name": "Lightning Bolt",
-        "url": "https://open.spotify.com/album/01WEcEzoa9mfh8fIDhvV1M"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 340320,
-      "name": "Sirens",
-      "url": "https://open.spotify.com/track/1cAMXz9mnvrqyQLSG4KeeE"
-    },
-    {
-      "added_at": "2024-01-29 08:33:10",
-      "album": {
         "name": "Mer De Noms",
         "url": "https://open.spotify.com/album/0GeWd0yUKXHbCXVag1mJvO"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 219640,
       "name": "3 Libras",
       "url": "https://open.spotify.com/track/5kHkaBN8OEQlmXfQkACxSt"
+    },
+    {
+      "added_at": "2024-01-29 08:33:10",
+      "album": {
+        "name": "Lightning Bolt",
+        "url": "https://open.spotify.com/album/01WEcEzoa9mfh8fIDhvV1M"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 340320,
+      "name": "Sirens",
+      "url": "https://open.spotify.com/track/1cAMXz9mnvrqyQLSG4KeeE"
     },
     {
       "added_at": "2024-01-29 08:33:10",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-01-29 08:33:10",
       "album": {
-        "name": "Nothing Personal (Deluxe Version)",
-        "url": "https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 224200,
-      "name": "Therapy",
-      "url": "https://open.spotify.com/track/371Tb0eNfpjpSqggjcLv8c"
-    },
-    {
-      "added_at": "2024-01-29 08:33:10",
-      "album": {
         "name": "Scars & Souvenirs (Special Edition)",
         "url": "https://open.spotify.com/album/2d4tYx2ulDP1Kgudxsrs7B"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 215400,
       "name": "Not Meant to Be",
       "url": "https://open.spotify.com/track/5xyACR2lzIyzFepF4qlAas"
+    },
+    {
+      "added_at": "2024-01-29 08:33:10",
+      "album": {
+        "name": "Nothing Personal (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 224200,
+      "name": "Therapy",
+      "url": "https://open.spotify.com/track/371Tb0eNfpjpSqggjcLv8c"
     },
     {
       "added_at": "2024-01-29 08:33:10",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-01-29 08:33:10",
       "album": {
-        "name": "Confessions Of The Fallen",
-        "url": "https://open.spotify.com/album/16zCpjk1TUXFpJaBeJkbi6"
-      },
-      "artists": [
-        {
-          "name": "Staind",
-          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
-        }
-      ],
-      "duration_ms": 237859,
-      "name": "Here And Now",
-      "url": "https://open.spotify.com/track/2yjbj0zHhk21ljCeMPs79g"
-    },
-    {
-      "added_at": "2024-01-29 08:33:10",
-      "album": {
         "name": "...Like Clockwork",
         "url": "https://open.spotify.com/album/5T5NM01392dvvd4EhGrCnj"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 291400,
       "name": "Smooth Sailing",
       "url": "https://open.spotify.com/track/5fb0p81SAZBkZEvmLAfGKz"
+    },
+    {
+      "added_at": "2024-01-29 08:33:10",
+      "album": {
+        "name": "Confessions Of The Fallen",
+        "url": "https://open.spotify.com/album/16zCpjk1TUXFpJaBeJkbi6"
+      },
+      "artists": [
+        {
+          "name": "Staind",
+          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
+        }
+      ],
+      "duration_ms": 237859,
+      "name": "Here And Now",
+      "url": "https://open.spotify.com/track/2yjbj0zHhk21ljCeMPs79g"
     },
     {
       "added_at": "2024-01-29 08:33:10",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-01-29 08:33:10",
       "album": {
-        "name": "The Used",
-        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 201426,
-      "name": "Blue and Yellow",
-      "url": "https://open.spotify.com/track/32GWSQbpg1Ea1MMvl8HN23"
-    },
-    {
-      "added_at": "2024-01-29 08:33:10",
-      "album": {
         "name": "Notes On A Conditional Form",
         "url": "https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 264006,
       "name": "Jesus Christ 2005 God Bless America",
       "url": "https://open.spotify.com/track/6zjBevD0Y6eCbOXaqQ79Xj"
+    },
+    {
+      "added_at": "2024-01-29 08:33:10",
+      "album": {
+        "name": "The Used",
+        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 201426,
+      "name": "Blue and Yellow",
+      "url": "https://open.spotify.com/track/32GWSQbpg1Ea1MMvl8HN23"
     },
     {
       "added_at": "2024-01-29 08:33:10",

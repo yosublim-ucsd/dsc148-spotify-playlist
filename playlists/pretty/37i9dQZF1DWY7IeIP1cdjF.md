@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7IeIP1cdjF.md) - [plain]
 
 > Reggaeton hits from Darell, Ozuna, Maluma and more.🔥🥵
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,774,424 likes - 49 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,775,050 likes - 49 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7IeIP1cdjF.md) - [plain]
 | 48 | [Pa la Proxima](https://open.spotify.com/track/0K8yPA5eo1d6t1LwJpRL2J) | [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Pa la Proxima](https://open.spotify.com/album/4imR6C43N2Syv918WyVA9N) | 3:49 |
 | 49 | [Labios Mordidos \(with KAROL G\)](https://open.spotify.com/track/1HLaJowFbNM3MPyqnk5vjW) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Labios Mordidos \(with KAROL G\)](https://open.spotify.com/album/0HtbxbNfX3gME4K0SIR0lT) | 3:15 |
 
-Snapshot ID: `MCw5MWRlYzkxM2YyMTk0OGIyMDJhODgwYzQzOWQ5ZGJmODIwZTM0ZTc0`
+Snapshot ID: `MCwxMzIxMThiZTAyZWQ4ZDNkNTg5M2I3OWMxN2E1YmY4MmE3YjI2YjJk`

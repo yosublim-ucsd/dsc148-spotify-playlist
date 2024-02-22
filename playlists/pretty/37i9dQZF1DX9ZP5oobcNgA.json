@@ -1,12 +1,12 @@
 {
   "description": "Explore the essential works of Handel, including his Messiah, dozens of operas, oratorios, anthems, and instrumental favourites.",
-  "num_followers": 120592,
+  "num_followers": 120622,
   "original_name": "This Is Handel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZTg3Y2Q3NzgyYzkyM2Y4NWUzNWE1ZGJhMDJjNWU3ZmIyYThlZDBl",
+  "snapshot_id": "MCwzYTQzZDc3MDMyMzY1Y2Q3MWY2ZDViYjY0ZWVlZGUxYThlZGUyMjE3",
   "tracks": [
     {
       "added_at": "2022-06-28 08:56:25",
@@ -1251,6 +1251,58 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
+        "name": "Handel: Athalia",
+        "url": "https://open.spotify.com/album/6tiExi2Ol2HpGMPTtBvAcU"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Markus Brutscher",
+          "url": "https://open.spotify.com/artist/2U1uBcuykeRBhLFNM27FK5"
+        },
+        {
+          "name": "Friederike Holzhausen",
+          "url": "https://open.spotify.com/artist/7tgnn19wBfm6xdWXBkdjbg"
+        },
+        {
+          "name": "Stephan MacLeod",
+          "url": "https://open.spotify.com/artist/0q97TXwQIlhiPhSyBnc5uY"
+        },
+        {
+          "name": "Annette Reinhold",
+          "url": "https://open.spotify.com/artist/4kKmdMTJEnhaqbFWVbQR9L"
+        },
+        {
+          "name": "Barbara Schlick",
+          "url": "https://open.spotify.com/artist/0gmKLfaE6sG19fpCMJWhe3"
+        },
+        {
+          "name": "Elisabeth Scholl",
+          "url": "https://open.spotify.com/artist/08rODWASMZcb2LashgmiqJ"
+        },
+        {
+          "name": "Junge Kantorei",
+          "url": "https://open.spotify.com/artist/2gIaO6SColHQT8ah4a6uuO"
+        },
+        {
+          "name": "Frankfurt Baroque Orchestra",
+          "url": "https://open.spotify.com/artist/4fFOSPDZSong8uLTliazsa"
+        },
+        {
+          "name": "Joachim Carlos Martini",
+          "url": "https://open.spotify.com/artist/19pKZ73EPlzeffharlVpsp"
+        }
+      ],
+      "duration_ms": 309360,
+      "name": "Athalia, HWV 52: Part 1 - No. 1 Sinfonia: Allegro - Grave - Allegro",
+      "url": "https://open.spotify.com/track/04OWdUznQBH1jS7WLPQvJL"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
         "name": "H\u00e4ndel: Water Works",
         "url": "https://open.spotify.com/album/0hLOMULylE3BjdwQwX97Br"
       },
@@ -1343,8 +1395,8 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
-        "name": "Handel: Athalia",
-        "url": "https://open.spotify.com/album/6tiExi2Ol2HpGMPTtBvAcU"
+        "name": "Handel: Music for the Royal Fireworks; Water Music Suites",
+        "url": "https://open.spotify.com/album/0W4OhMLKiSF0yACzBMjQ2c"
       },
       "artists": [
         {
@@ -1352,45 +1404,17 @@
           "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
         },
         {
-          "name": "Markus Brutscher",
-          "url": "https://open.spotify.com/artist/2U1uBcuykeRBhLFNM27FK5"
+          "name": "Academy of St. Martin in the Fields",
+          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
         },
         {
-          "name": "Friederike Holzhausen",
-          "url": "https://open.spotify.com/artist/7tgnn19wBfm6xdWXBkdjbg"
-        },
-        {
-          "name": "Stephan MacLeod",
-          "url": "https://open.spotify.com/artist/0q97TXwQIlhiPhSyBnc5uY"
-        },
-        {
-          "name": "Annette Reinhold",
-          "url": "https://open.spotify.com/artist/4kKmdMTJEnhaqbFWVbQR9L"
-        },
-        {
-          "name": "Barbara Schlick",
-          "url": "https://open.spotify.com/artist/0gmKLfaE6sG19fpCMJWhe3"
-        },
-        {
-          "name": "Elisabeth Scholl",
-          "url": "https://open.spotify.com/artist/08rODWASMZcb2LashgmiqJ"
-        },
-        {
-          "name": "Junge Kantorei",
-          "url": "https://open.spotify.com/artist/2gIaO6SColHQT8ah4a6uuO"
-        },
-        {
-          "name": "Frankfurt Baroque Orchestra",
-          "url": "https://open.spotify.com/artist/4fFOSPDZSong8uLTliazsa"
-        },
-        {
-          "name": "Joachim Carlos Martini",
-          "url": "https://open.spotify.com/artist/19pKZ73EPlzeffharlVpsp"
+          "name": "Sir Neville Marriner",
+          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
         }
       ],
-      "duration_ms": 309360,
-      "name": "Athalia, HWV 52: Part 1 - No. 1 Sinfonia: Allegro - Grave - Allegro",
-      "url": "https://open.spotify.com/track/04OWdUznQBH1jS7WLPQvJL"
+      "duration_ms": 205360,
+      "name": "Water Music Suite - Water Music Suite in G Major: Rigaudon I and II",
+      "url": "https://open.spotify.com/track/3fnqfP2OovvicGYzJdBN1B"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -1443,30 +1467,6 @@
       "duration_ms": 293920,
       "name": "Belshazzar, HWV 61: Arioso: \"O Sacred Oracles of Truth!\" - Aria: \"Amaz'd to Find the Foe So Near\" - Chorus of Persians: \"to Arms, to Arms, No More Delay\"",
       "url": "https://open.spotify.com/track/1XMx2uskl2JWKXoMkupyRi"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
-        "name": "Handel: Music for the Royal Fireworks; Water Music Suites",
-        "url": "https://open.spotify.com/album/0W4OhMLKiSF0yACzBMjQ2c"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Academy of St. Martin in the Fields",
-          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
-        },
-        {
-          "name": "Sir Neville Marriner",
-          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
-        }
-      ],
-      "duration_ms": 205360,
-      "name": "Water Music Suite - Water Music Suite in G Major: Rigaudon I and II",
-      "url": "https://open.spotify.com/track/3fnqfP2OovvicGYzJdBN1B"
     },
     {
       "added_at": "2022-06-28 08:56:25",

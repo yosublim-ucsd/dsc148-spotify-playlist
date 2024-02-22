@@ -185,6 +185,24 @@
     },
     {
       "album": {
+        "name": "Dream Alone / Beat Love",
+        "url": "https://open.spotify.com/album/4rXWdsIYGhGtqYJpg3xA1b"
+      },
+      "artists": [
+        {
+          "name": "Artie Garr",
+          "url": "https://open.spotify.com/artist/2qAv2padGLkUEaVP7SoWwv"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142103,
+      "name": "Dream Alone",
+      "url": "https://open.spotify.com/track/53ApaDXhRYAfB9St8Uqg2n"
+    },
+    {
+      "album": {
         "name": "Dream police",
         "url": "https://open.spotify.com/album/21IkWTFIWNfa1SCCkk24gw"
       },
@@ -236,6 +254,28 @@
       "duration_ms": 249160,
       "name": "Echo Tricks Me",
       "url": "https://open.spotify.com/track/5FYdwJ6ZFmB8o5LTdeyiNR"
+    },
+    {
+      "album": {
+        "name": "Evening Mirror (From the Original Score of The Sweet East)",
+        "url": "https://open.spotify.com/album/0uailJ2SWjeKlOEDHcNoGB"
+      },
+      "artists": [
+        {
+          "name": "Paul Grimstad",
+          "url": "https://open.spotify.com/artist/2sI4HMXuvwKYhP1gmqr6Jv"
+        },
+        {
+          "name": "Talia Ryder",
+          "url": "https://open.spotify.com/artist/1gfXCBma9K651B5zUc2Btl"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191040,
+      "name": "Evening Mirror - From the Original Score of The Sweet East",
+      "url": "https://open.spotify.com/track/7hy0XnO9PBwcsZNP4H5sX4"
     },
     {
       "album": {

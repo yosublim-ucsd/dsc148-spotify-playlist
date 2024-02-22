@@ -851,6 +851,28 @@
     },
     {
       "album": {
+        "name": "O Que Tua Gl\u00f3ria Fez Comigo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5J0V7iimGhQGcBWIXV6t7w"
+      },
+      "artists": [
+        {
+          "name": "Leo Fonseca",
+          "url": "https://open.spotify.com/artist/34iSGCakITd5m0nZgIjkio"
+        },
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 538285,
+      "name": "O Que Tua Gl\u00f3ria Fez Comigo - Ao Vivo",
+      "url": "https://open.spotify.com/track/1eZ6MiWjHmwbbcGpAetCiO"
+    },
+    {
+      "album": {
         "name": "Reino de Justi\u00e7a (Ao Vivo)",
         "url": "https://open.spotify.com/album/1w3UofqYh0InFfUymfhLCi"
       },

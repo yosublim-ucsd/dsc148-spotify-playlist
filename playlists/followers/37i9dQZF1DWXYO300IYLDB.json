@@ -1,5 +1,5 @@
 {
-  "2024-02-21": 100374,
+  "2024-02-22": 100381,
   "date_first_scraped": "2022-10-24",
   "description": "\u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30fb\u30e1\u30ed\u30c7\u30a3\u30fc\u30ba\u3002\u3086\u3063\u305f\u308a\u3068\u3057\u305f\u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3068\u5171\u306b\u3001\u723d\u3084\u304b\u306a1\u65e5\u3092\u8fce\u3048\u307e\u305b\u3093\u304b\uff1f",
   "name": "Acoustic Melodies Tokyo",
@@ -206,6 +206,28 @@
     },
     {
       "album": {
+        "name": "What\u2019s up / A Wild Sheep Chase",
+        "url": "https://open.spotify.com/album/7vYXXApEW1iNF0rwKb7l0D"
+      },
+      "artists": [
+        {
+          "name": "Bread Boy",
+          "url": "https://open.spotify.com/artist/62QCG6oY5fGFhTnIQM1iYX"
+        },
+        {
+          "name": "Field Medic",
+          "url": "https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206932,
+      "name": "A Wild Sheep Chase",
+      "url": "https://open.spotify.com/track/0Jw3pnGE7T1tBp1ywFVgjG"
+    },
+    {
+      "album": {
         "name": "A Year Ago (Acoustic)",
         "url": "https://open.spotify.com/album/2iBC3UoXv7ud8aPmgskLtd"
       },
@@ -289,7 +311,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 181000,
       "name": "Afterlife",
       "url": "https://open.spotify.com/track/53spNZ1E32zh40DupLu6cf"
@@ -754,6 +776,28 @@
     },
     {
       "album": {
+        "name": "Boku Wa Chotto",
+        "url": "https://open.spotify.com/album/6GAmwk5VqC7XgArdzwPicy"
+      },
+      "artists": [
+        {
+          "name": "Haruomi Hosono",
+          "url": "https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak"
+        },
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171801,
+      "name": "Boku Wa Chotto",
+      "url": "https://open.spotify.com/track/1RMnWyL9KlDgmAhirqNxin"
+    },
+    {
+      "album": {
         "name": "Books of Fantasy",
         "url": "https://open.spotify.com/album/3L536accWGgnKxWZOaBX1C"
       },
@@ -1181,7 +1225,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 200940,
       "name": "Dear August",
       "url": "https://open.spotify.com/track/16gW9O8A4rIMx5OOVlzsSn"
@@ -1675,6 +1719,24 @@
       "duration_ms": 155402,
       "name": "Fly Me to the Moon",
       "url": "https://open.spotify.com/track/0flo3KqhjkcuoB1G6Mhq7s"
+    },
+    {
+      "album": {
+        "name": "Fool",
+        "url": "https://open.spotify.com/album/7w9GLsCdyuS7uwdixV90vb"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174539,
+      "name": "Fool",
+      "url": "https://open.spotify.com/track/2T0NGoXh9FT1kCjQA5Phto"
     },
     {
       "album": {
@@ -3689,7 +3751,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 221379,
       "name": "Medusa (Stone) - Acoustic",
       "url": "https://open.spotify.com/track/0saWZuvhmPFTE69IRhqb5i"
@@ -5295,7 +5357,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 253467,
       "name": "stuck - revisited",
       "url": "https://open.spotify.com/track/3t1bStEBG5YeLOLisxemoN"
@@ -5447,10 +5509,28 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 68000,
       "name": "Thanks",
       "url": "https://open.spotify.com/track/02bspNI1gmunfBI8u0xP95"
+    },
+    {
+      "album": {
+        "name": "Thanks again",
+        "url": "https://open.spotify.com/album/24ZQN8pJRxIBPG3WLX4A8t"
+      },
+      "artists": [
+        {
+          "name": "SAKURA FUJIWARA",
+          "url": "https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188653,
+      "name": "Thanks again",
+      "url": "https://open.spotify.com/track/0diIX9HBaAAoxm1dusWmOk"
     },
     {
       "album": {
@@ -5545,7 +5625,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 185422,
       "name": "The Joker And The Queen (feat. Taylor Swift)",
       "url": "https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP"
@@ -6390,6 +6470,24 @@
     },
     {
       "album": {
+        "name": "Window",
+        "url": "https://open.spotify.com/album/17405CDEzV3dZGTucZeVxy"
+      },
+      "artists": [
+        {
+          "name": "\u00c5lborg",
+          "url": "https://open.spotify.com/artist/5RG6CMtljJC7BbVIfx0j7V"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240132,
+      "name": "Window",
+      "url": "https://open.spotify.com/track/66l07rLvSUUabP5LSftS4o"
+    },
+    {
+      "album": {
         "name": "WITHOUT YOU (with Miley Cyrus)",
         "url": "https://open.spotify.com/album/6Aqt69riJ3JPLxIEI8EkzT"
       },
@@ -6593,6 +6691,24 @@
       "duration_ms": 240853,
       "name": "\u3044\u3064\u3082\u306e\u3053\u3068",
       "url": "https://open.spotify.com/track/2dguw4nUUpg0Lxu9pd2w3L"
+    },
+    {
+      "album": {
+        "name": "\u304d\u307f\u3068\u3044\u3063\u3057\u3087",
+        "url": "https://open.spotify.com/album/1OhwpPbEkZToBKMzKKasb4"
+      },
+      "artists": [
+        {
+          "name": "\u5b97\u85e4\u7adc\u592a",
+          "url": "https://open.spotify.com/artist/0SbD2ebnqKRmC6FrmC8VHS"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207115,
+      "name": "\u304d\u307f\u3068\u3044\u3063\u3057\u3087",
+      "url": "https://open.spotify.com/track/5fEF7RXefUrSj6cHI2RFMX"
     },
     {
       "album": {
@@ -6925,7 +7041,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 172950,
       "name": "\u604b\u3092\u3057\u3066 - Acoustic Version",
       "url": "https://open.spotify.com/track/0fS8cXptl4Y2uWtkMEGBee"
@@ -7071,6 +7187,24 @@
       "duration_ms": 279487,
       "name": "\u79c1\u3092\u547c\u3093\u3060 \u590f\u306e\u7a7a\u306e\u3088\u3046\u306a - feat. \u517c\u677e\u8846, \u9808\u539f\u674f, \u95a2\u53e3\u5c06\u53f2",
       "url": "https://open.spotify.com/track/5dQ8lzqlmJedzovrH8WsLq"
+    },
+    {
+      "album": {
+        "name": "2000JPY",
+        "url": "https://open.spotify.com/album/4u9q8xkMZX2kFWjpHQXuaW"
+      },
+      "artists": [
+        {
+          "name": "Hedigan\u2019s",
+          "url": "https://open.spotify.com/artist/2S0pyjI92cJtciSGrTF6ls"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257173,
+      "name": "\u8aac\u6559\u304f\u3055\u3044\u304a\u3063\u3055\u3093\u306e\u30eb\u30f3\u30d0",
+      "url": "https://open.spotify.com/track/5mLXdPKO4SzlieDURrfJdF"
     },
     {
       "album": {

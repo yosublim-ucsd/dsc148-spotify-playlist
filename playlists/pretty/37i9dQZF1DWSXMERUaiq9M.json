@@ -1,12 +1,12 @@
 {
   "description": "love peace techno",
-  "num_followers": 220381,
+  "num_followers": 220712,
   "original_name": "rave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjODM0ZTA1MmY0MmUxMDBkODZhNjQ2ZjI0NTJkOGFjYjEzMmQ5ZGMx",
+  "snapshot_id": "MCwyYTA3ZTJkOTE2YzFiNjM5YjA1Mzg4MWRlYjA4MDc0N2U0Yjk0NzFm",
   "tracks": [
     {
       "added_at": "2024-02-15 23:00:00",
@@ -540,7 +540,7 @@
       },
       "artists": [
         {
-          "name": "Empire of the Sun",
+          "name": "Empire Of The Sun",
           "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
         },
         {
@@ -715,6 +715,30 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
+        "name": "Everybody's Free (To Feel Good)",
+        "url": "https://open.spotify.com/album/4XBjD0YdqN3FjIyPT48AxD"
+      },
+      "artists": [
+        {
+          "name": "Braaheim",
+          "url": "https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg"
+        },
+        {
+          "name": "ILYAA",
+          "url": "https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1"
+        },
+        {
+          "name": "URBANO",
+          "url": "https://open.spotify.com/artist/5NcdmGRGHbjCHY5yU4tzPE"
+        }
+      ],
+      "duration_ms": 131575,
+      "name": "Everybody's Free (To Feel Good)",
+      "url": "https://open.spotify.com/track/7v79EuvJq69p2keEsCd08A"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
         "name": "Irre (KomaCasper Remix)",
         "url": "https://open.spotify.com/album/0BmdJkFTMBtqBt0d1ZwrQ4"
       },
@@ -751,30 +775,6 @@
       "duration_ms": 216592,
       "name": "Europatr\u00e4ume",
       "url": "https://open.spotify.com/track/0PYX7X0wTBT5WvKzNCWtk2"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
-        "name": "Everybody's Free (To Feel Good)",
-        "url": "https://open.spotify.com/album/4XBjD0YdqN3FjIyPT48AxD"
-      },
-      "artists": [
-        {
-          "name": "Braaheim",
-          "url": "https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg"
-        },
-        {
-          "name": "ILYAA",
-          "url": "https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1"
-        },
-        {
-          "name": "URBANO",
-          "url": "https://open.spotify.com/artist/5NcdmGRGHbjCHY5yU4tzPE"
-        }
-      ],
-      "duration_ms": 131575,
-      "name": "Everybody's Free (To Feel Good)",
-      "url": "https://open.spotify.com/track/7v79EuvJq69p2keEsCd08A"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -919,6 +919,26 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
+        "name": "Renaissance",
+        "url": "https://open.spotify.com/album/4MT3BeO1DE8PAbsJSgfDtA"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        },
+        {
+          "name": "VisionV",
+          "url": "https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf"
+        }
+      ],
+      "duration_ms": 151688,
+      "name": "Renaissance",
+      "url": "https://open.spotify.com/track/03aBQclFfQ82oEYCYTORfY"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
         "name": "Dachlatte (Paul Seul Remix)",
         "url": "https://open.spotify.com/album/7qPiD7ilnwVnBDyTLQs6ZM"
       },
@@ -955,26 +975,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Renaissance",
-        "url": "https://open.spotify.com/album/4MT3BeO1DE8PAbsJSgfDtA"
-      },
-      "artists": [
-        {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
-        },
-        {
-          "name": "VisionV",
-          "url": "https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf"
-        }
-      ],
-      "duration_ms": 151688,
-      "name": "Renaissance",
-      "url": "https://open.spotify.com/track/03aBQclFfQ82oEYCYTORfY"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "Schreien! (Turbo Remix)",
         "url": "https://open.spotify.com/album/39nZLctQpTKoFBNZ8gHjsE"
       },
@@ -991,6 +991,22 @@
       "duration_ms": 165293,
       "name": "Schreien! - Turbo Remix",
       "url": "https://open.spotify.com/track/4tQxA4wt4knZ19uqRka3u6"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Wild Ones",
+        "url": "https://open.spotify.com/album/2JSwcjpkanFKfT3ev3eDQr"
+      },
+      "artists": [
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "duration_ms": 206014,
+      "name": "Wild Ones",
+      "url": "https://open.spotify.com/track/2MH5KK60I00JOPigNOt4v8"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1023,22 +1039,6 @@
       "duration_ms": 206694,
       "name": "Off Wiv Ya Headz",
       "url": "https://open.spotify.com/track/29LpCEcWnk9lFfzR2o3YVW"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
-        "name": "Wild Ones",
-        "url": "https://open.spotify.com/album/2JSwcjpkanFKfT3ev3eDQr"
-      },
-      "artists": [
-        {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
-        }
-      ],
-      "duration_ms": 206014,
-      "name": "Wild Ones",
-      "url": "https://open.spotify.com/track/2MH5KK60I00JOPigNOt4v8"
     },
     {
       "added_at": "2024-02-15 23:00:00",

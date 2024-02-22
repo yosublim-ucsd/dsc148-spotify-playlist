@@ -4,7 +4,7 @@
 
 > Groovy, dancy, funky stuff\. When in doubt, turn this on at the party.
 
-472 songs - 1 day 3 hr 59 min
+473 songs - 1 day 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Crave You](https://open.spotify.com/track/5mdzg7ZwebXNb90LPRusAs) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Giselle](https://open.spotify.com/artist/5cxol8ruhBU1QpUick7A42) | [Down To Earth](https://open.spotify.com/album/1FQyS2AHgEQB6F5Jh1ymGb) | 3:54 | 2022-09-26 |  |
 | [Crimewave](https://open.spotify.com/track/3yQFmN8A5S8Kf1nUJuvb01) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles](https://open.spotify.com/album/5nM3cUPxqg7iqjaoyeCWtN) | 4:18 | 2021-11-12 | 2022-04-17 |
 | [CRISIS](https://open.spotify.com/track/43czZSFDYr2i6HDJw580n5) | [Sam Ezeh](https://open.spotify.com/artist/5Ys0Puc1F5jOw7EpmhMSTK) | [CRISIS](https://open.spotify.com/album/3sAJ892CzDIa869oCpgj1G) | 3:13 | 2020-12-31 | 2023-08-19 |
+| [cross my heart](https://open.spotify.com/track/1GnTBbaFtxNkHEjUsWEdNu) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [pretty](https://open.spotify.com/album/2xpgb8R0BXVS2e1XnXI9xZ) | 2:26 | 2024-02-16 |  |
 | [cross my heart](https://open.spotify.com/track/3nLSxpwZrU4ugAMVxYOHJe) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [cross my heart](https://open.spotify.com/album/4NK2abDnkV5FqI0q32DLL9) | 2:26 | 2023-09-29 | 2024-02-12 |
 | [cross my heart](https://open.spotify.com/track/4yJ1fD1LvIVtTDOu4NyKLU) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [cross my heart](https://open.spotify.com/album/1MpZGsYzbDWKLwfJOijcVA) | 2:26 | 2023-09-20 | 2023-11-30 |
 | [Crowd Surf](https://open.spotify.com/track/4kg0eZZJDc6Fp2KHEbYcXg) | [Wabie](https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE) | [Double Superfine](https://open.spotify.com/album/7pnJsCH9fM52wRJ9qWOqUr) | 3:04 | 2021-11-19 | 2022-07-14 |
@@ -117,7 +118,7 @@
 | [Dollar](https://open.spotify.com/track/0z4zZNViQ01puQOlAFGGUy) | [Electric Guest](https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs) | [KIN](https://open.spotify.com/album/5yccZqBhhSqWndfKVjNZQY) | 3:28 | 2022-09-26 | 2023-08-02 |
 | [Don't Be Afraid \- Blu DeTiger Remix](https://open.spotify.com/track/0t1ba5M0QkP1Jh1rg3BKCk) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Damian Lazarus](https://open.spotify.com/artist/3EIJ8wiUHbgkRCt5cpRrQv), [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Don't Be Afraid \(Blu DeTiger Remix\)](https://open.spotify.com/album/0cDUXuLLLRuB8rs7mixcep) | 3:17 | 2021-08-27 | 2022-07-28 |
 | [Don't Need You \- Remix](https://open.spotify.com/track/2q417j6tLiesXGaLg3moek) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Don't Need You \(Remix\)](https://open.spotify.com/album/54idTn2jECfHYnDnNpf8Sx) | 3:29 | 2021-04-02 | 2022-07-29 |
-| [Don't Play](https://open.spotify.com/track/5yXf2ZVlBdgIGxbSKb6VFW) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Mood Talk](https://open.spotify.com/artist/0s0nktI1hRDRcexcJGkZ2D) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:46 | 2023-08-18 |  |
+| [Don't Play](https://open.spotify.com/track/5yXf2ZVlBdgIGxbSKb6VFW) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Mood Talk](https://open.spotify.com/artist/0s0nktI1hRDRcexcJGkZ2D) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:46 | 2023-08-18 | 2024-02-22 |
 | [DON'T SHOOT UP THE PARTY](https://open.spotify.com/track/3X0Tof7fViQGV95EKIY5x1) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [ROADRUNNER: NEW LIGHT, NEW MACHINE](https://open.spotify.com/album/6sPcgDto5EI6EBPc2jhDC7) | 3:07 | 2021-04-26 | 2022-07-28 |
 | [Don't Turn Around](https://open.spotify.com/track/6FzZMJGhI5JA5nDVM87s5w) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Don't Turn Around](https://open.spotify.com/album/4DJijRH1nTtLoQt8s8gUI3) | 2:51 | 2020-12-31 | 2022-07-27 |
 | [Dopamine](https://open.spotify.com/track/38MS1Ch2ckFL4O29UVg7Nh) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Dance Moves](https://open.spotify.com/album/0ZMXkL1EvpeOWxFQ2K3UKd) | 4:03 | 2023-06-29 |  |

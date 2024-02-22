@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XscWX9t6h.md) - [plain]
 
 > 21st Century nomadic expressions interwoven into a very unexpected patchwork.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,946 likes - 100 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,034 likes - 100 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XscWX9t6h.md) - [plain]
 | 55 | [The Wild Rover](https://open.spotify.com/track/0hJuFoWIujL61y6bFwUpsL) | [Lankum](https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z) | [The Livelong Day](https://open.spotify.com/album/4h6xvRg0yciHX5BidpT1yC) | 10:14 |
 | 56 | [Murkit Gem](https://open.spotify.com/track/5GMhgIyKbUlcw05h394yvl) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc), [Piya Malik](https://open.spotify.com/artist/3WjeCzWHSOzMZI2vWXgFZU) | [Yeti Season \(Deluxe Version\)](https://open.spotify.com/album/4QnaG6xFICrieldsUBCuNK) | 3:12 |
 | 57 | [On te l'avait dit](https://open.spotify.com/track/3d6u38zeC6XIt87Hhp4pql) | [Voilaaa](https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1), [Pat Kalla](https://open.spotify.com/artist/3qOrdMiR9VBKS6MIlDH4Aj) | [On te l'avait dit](https://open.spotify.com/album/769hXvYI0EBGEC2ldfRgnp) | 6:24 |
-| 58 | [Atomic Bomb](https://open.spotify.com/track/6FDGkw2X2Pmp4AaQP8x6mX) | [William Onyeabor](https://open.spotify.com/artist/755pQSGUy6rtPrUCbnJTvi) | [World Psychedelic Classics 5: Who Is William Onyeabor?](https://open.spotify.com/album/5TTFe3hLqkfQf0xRUponX0) | 7:59 |
-| 59 | [Chismiten](https://open.spotify.com/track/5RHN9R3BqScU4Jzu84U7pZ) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Afrique Victime](https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2) | 4:58 |
+| 58 | [Chismiten](https://open.spotify.com/track/5RHN9R3BqScU4Jzu84U7pZ) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Afrique Victime](https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2) | 4:58 |
+| 59 | [Atomic Bomb](https://open.spotify.com/track/6FDGkw2X2Pmp4AaQP8x6mX) | [William Onyeabor](https://open.spotify.com/artist/755pQSGUy6rtPrUCbnJTvi) | [World Psychedelic Classics 5: Who Is William Onyeabor?](https://open.spotify.com/album/5TTFe3hLqkfQf0xRUponX0) | 7:59 |
 | 60 | [Tayyara Warak](https://open.spotify.com/track/4WjB2aDvfjAYsukbbxYVUd) | [Charif Megarbane](https://open.spotify.com/artist/3251WMUEVLhM2xvYlpkyG4) | [Tayyara Warak \(Habibi Funk 023\)](https://open.spotify.com/album/5uaI0HkgM2ovJ7QO0STi0t) | 2:48 |
 | 61 | [Cler Achel](https://open.spotify.com/track/1sXLitmQULzwiWR8D38Ekw) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Aman Iman: Water Is Life](https://open.spotify.com/album/2kV0ipibYRkAjrcxCd1Co0) | 4:27 |
 | 62 | [Шо з\-под дуба](https://open.spotify.com/track/52Wl3PQGfyvMJm5JQu0acD) | [DakhaBrakha](https://open.spotify.com/artist/5hQYZqZaPcRceL82mFZTO5) | [Yahudky](https://open.spotify.com/album/0KyTYyyHjdkYS65d08fvYm) | 3:48 |
@@ -82,19 +82,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XscWX9t6h.md) - [plain]
 | 72 | [Kek Alghalm](https://open.spotify.com/track/6a2lsRBLR68z0azpNyFrzr) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb), [Wes Corbett](https://open.spotify.com/artist/2OkbDT2Do2fc1sRAUFedD8) | [Amatssou](https://open.spotify.com/album/6midUauH9WLxQllqEAvqhM) | 3:31 |
 | 73 | [PERLA](https://open.spotify.com/track/2Xr1RQQ15GeaJ7TFa8CTBj) | [Mitú](https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k) | [TANDEM](https://open.spotify.com/album/1qm1yaOMS8Hhz4QS4aUB69) | 2:54 |
 | 74 | [Me Voy](https://open.spotify.com/track/4Qolq4voNJaxnQNYzFsMLu) | [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa), [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [Ash](https://open.spotify.com/album/06z5kktv4TUsmlQk2vj0Wn) | 3:07 |
-| 75 | [Yüce Dag Basinda](https://open.spotify.com/track/6uO8my6yaAbNVXxJNQ48rH) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Yol](https://open.spotify.com/album/6IjH8qpZNlh4L5yJ2vzS6k) | 4:18 |
-| 76 | [Khobs](https://open.spotify.com/track/6xjIrx0kE96n5OQvj9oZmO) | [Issam Hajali](https://open.spotify.com/artist/1Bt7Z61Wj1ixbeJEBKwod6) | [Mouasalat Ila Jacad El Ard \(Habibi Funk 010\)](https://open.spotify.com/album/2NNnJv16YTWTCF0KS7o9V4) | 3:31 |
+| 75 | [Khobs](https://open.spotify.com/track/6xjIrx0kE96n5OQvj9oZmO) | [Issam Hajali](https://open.spotify.com/artist/1Bt7Z61Wj1ixbeJEBKwod6) | [Mouasalat Ila Jacad El Ard \(Habibi Funk 010\)](https://open.spotify.com/album/2NNnJv16YTWTCF0KS7o9V4) | 3:31 |
+| 76 | [Yüce Dag Basinda](https://open.spotify.com/track/6uO8my6yaAbNVXxJNQ48rH) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Yol](https://open.spotify.com/album/6IjH8qpZNlh4L5yJ2vzS6k) | 4:18 |
 | 77 | [L'homme félin](https://open.spotify.com/track/1p8nQ36Vd8akX6JaJJ9UAY) | [Labelle](https://open.spotify.com/artist/7wF9y3gjWdR3DOtFG5PVFS) | [NOIR ANIMA](https://open.spotify.com/album/2KY2Lb0t4KYC11YDvYeJna) | 4:36 |
 | 78 | [Nosotros También](https://open.spotify.com/track/76xUNVY7llhvudB1jrl21I) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [Safe Passage](https://open.spotify.com/album/79iAX89nw9T3AH2CvsboR3) | 3:26 |
-| 79 | [Akaline Akaline](https://open.spotify.com/track/6qQhWIowgtVSz6UFJvG5Ku) | [Ahmoudou Madassane](https://open.spotify.com/artist/5oQlmxzNKhiA2LWU40F6rm) | [Zerzura \(Original Soundtrack Recording\)](https://open.spotify.com/album/1YUKsFUMyCT59pqnOaWoAt) | 3:07 |
-| 80 | [Tittle Tattle](https://open.spotify.com/track/250EZZGyjYplBum6Simk1B) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [CHERISE](https://open.spotify.com/artist/36J979CZNAI4GsrElYFUOC) | [Freedom Fables](https://open.spotify.com/album/3HDaoy8TYaaLfKPKSVcsOq) | 5:19 |
-| 81 | [Tala Tannam](https://open.spotify.com/track/7FDVKzLOGTeeLEsR91ck9W) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Afrique Victime](https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2) | 5:38 |
-| 82 | [Yak Sher](https://open.spotify.com/track/33sVaipoLkwfmS0FBPzgrc) | [Farhot](https://open.spotify.com/artist/25dl7AnPGblWzL4vmQ0qCt) | [Kabul Fire Vol\. 2](https://open.spotify.com/album/0xye43RFZ3KDSFI5OqLZm1) | 3:25 |
+| 79 | [Yak Sher](https://open.spotify.com/track/33sVaipoLkwfmS0FBPzgrc) | [Farhot](https://open.spotify.com/artist/25dl7AnPGblWzL4vmQ0qCt) | [Kabul Fire Vol\. 2](https://open.spotify.com/album/0xye43RFZ3KDSFI5OqLZm1) | 3:25 |
+| 80 | [Akaline Akaline](https://open.spotify.com/track/6qQhWIowgtVSz6UFJvG5Ku) | [Ahmoudou Madassane](https://open.spotify.com/artist/5oQlmxzNKhiA2LWU40F6rm) | [Zerzura \(Original Soundtrack Recording\)](https://open.spotify.com/album/1YUKsFUMyCT59pqnOaWoAt) | 3:07 |
+| 81 | [Tittle Tattle](https://open.spotify.com/track/250EZZGyjYplBum6Simk1B) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [CHERISE](https://open.spotify.com/artist/36J979CZNAI4GsrElYFUOC) | [Freedom Fables](https://open.spotify.com/album/3HDaoy8TYaaLfKPKSVcsOq) | 5:19 |
+| 82 | [Tala Tannam](https://open.spotify.com/track/7FDVKzLOGTeeLEsR91ck9W) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Afrique Victime](https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2) | 5:38 |
 | 83 | [Descending To Nowhere](https://open.spotify.com/track/6NtkWVLdArIlZAwxpWH2tF) | [Rodrigo y Gabriela](https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF) | [In Between Thoughts...A New World](https://open.spotify.com/album/1el8dp6jP1HbmqRDBVMmj3) | 3:29 |
 | 84 | [Şinanay](https://open.spotify.com/track/2fXrL66WMT93qlrqreWXqa) | [Kit Sebastian](https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY) | [Şinanay / French Disko \(Lagniappe Session\)](https://open.spotify.com/album/3SVe0JgNmBLHgyFLhKOwoH) | 3:56 |
-| 85 | [Rakıya Su Katamam](https://open.spotify.com/track/1vwV3npaZiyJCkTQe16Gzv) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Aşk](https://open.spotify.com/album/3o9VCOZFC4DLp4hvyS1zd8) | 3:40 |
-| 86 | [The Trip](https://open.spotify.com/track/1AbHOoO3s1pS5LMSv5sZM7) | [Derya Yıldırım & Grup Şimşek](https://open.spotify.com/artist/2Y0SH69uxHrHrjiZCuTSaT) | [The Trip](https://open.spotify.com/album/69NCm5Vh06v4Lh8tbTpmnJ) | 4:17 |
-| 87 | [Nautilus](https://open.spotify.com/track/0IVZO1pU0ddXEh0qtN3jMA) | [Yin Yin](https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2) | [The Age of Aquarius](https://open.spotify.com/album/4hocimNA2HqHGJENlvTvws) | 4:01 |
+| 85 | [The Trip](https://open.spotify.com/track/1AbHOoO3s1pS5LMSv5sZM7) | [Derya Yıldırım & Grup Şimşek](https://open.spotify.com/artist/2Y0SH69uxHrHrjiZCuTSaT) | [The Trip](https://open.spotify.com/album/69NCm5Vh06v4Lh8tbTpmnJ) | 4:17 |
+| 86 | [Nautilus](https://open.spotify.com/track/0IVZO1pU0ddXEh0qtN3jMA) | [Yin Yin](https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2) | [The Age of Aquarius](https://open.spotify.com/album/4hocimNA2HqHGJENlvTvws) | 4:01 |
+| 87 | [Rakıya Su Katamam](https://open.spotify.com/track/1vwV3npaZiyJCkTQe16Gzv) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Aşk](https://open.spotify.com/album/3o9VCOZFC4DLp4hvyS1zd8) | 3:40 |
 | 88 | [ÊCCLABÔ DE LIBERTÁ](https://open.spotify.com/track/1LAFKxWo13OB3gt67wkQpR) | [Califato ¾](https://open.spotify.com/artist/6APnwoSgygJU8HR7EHVSyK) | [ÊCCLABÔ DE LIBERTÁ](https://open.spotify.com/album/6fmWNDGvFdcuCamPr4v5Rb) | 3:36 |
 | 89 | [Serpentines \(to Nikšić\)](https://open.spotify.com/track/3qOF9KosQNYRlyoWQF5eAY) | [Takeshi's Cashew](https://open.spotify.com/artist/6Fz85Ih5XufwQ1TH4s0pHA) | [Enter J's Chamber](https://open.spotify.com/album/0SYCOHLxNJksWTbAtP9PYo) | 4:47 |
 | 90 | [Agrim Agadez](https://open.spotify.com/track/784k9MLp8Sce2hcItg5eaL) | [Etran de L'AÏr](https://open.spotify.com/artist/1Tj92mXFtSUJPPnT5fG4Gg) | [No\. 1](https://open.spotify.com/album/4wpPZZoZk7tIm2pdiKEEWC) | 5:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XscWX9t6h.md) - [plain]
 | 99 | [Afrique Victime](https://open.spotify.com/track/1RhL5PGWaiYXwVmqOpj0Nm) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Afrique Victime](https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2) | 7:25 |
 | 100 | [Udhero Na feat\. Anoushka Shankar](https://open.spotify.com/track/2yjJsfgodykCBLRGskqb5m) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5), [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU) | [Udhero Na](https://open.spotify.com/album/5KqGG9d6f7cdvmgGEnqNBe) | 5:03 |
 
-Snapshot ID: `MCxkZGM4NTBiNDlkMjI0YzBhNDJlYjEzOTNkNDYyMzc2ZmQ3ZDg2NTU5`
+Snapshot ID: `MCwxMGNiNWRhNzBjMTExMmNlZWE0ZjM2ZGZmOWRkMDVjY2EzNzk2ODE3`

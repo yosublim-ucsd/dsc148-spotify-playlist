@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up?",
-  "num_followers": 570093,
+  "num_followers": 570589,
   "original_name": "Energy Booster: R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MzI5ODZhMmUwNTkxNzg4MDM3ZDY2ZWExNzU0ZTYwZmExNGY5NzE5",
+  "snapshot_id": "MCw0ZTQzMTU4M2EwYzI5Njk1ZWU3NzM5ZDUzOTZlYzM5OWVhZGQxZWVm",
   "tracks": [
     {
       "added_at": "2023-10-26 17:18:48",
@@ -277,22 +277,6 @@
       "url": "https://open.spotify.com/track/72TFWvU3wUYdUuxejTTIzt"
     },
     {
-      "added_at": "2023-08-25 04:01:00",
-      "album": {
-        "name": "I Told Them...",
-        "url": "https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 153346,
-      "name": "City Boys",
-      "url": "https://open.spotify.com/track/4RoKNqyZ9622tcAeNPNv5k"
-    },
-    {
       "added_at": "2022-08-02 10:25:51",
       "album": {
         "name": "Here I Stand",
@@ -311,6 +295,22 @@
       "duration_ms": 259720,
       "name": "Love in This Club (feat. Young Jeezy)",
       "url": "https://open.spotify.com/track/5j0McHPthKpOXRr3fBq8M0"
+    },
+    {
+      "added_at": "2023-08-25 04:01:00",
+      "album": {
+        "name": "I Told Them...",
+        "url": "https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 153346,
+      "name": "City Boys",
+      "url": "https://open.spotify.com/track/4RoKNqyZ9622tcAeNPNv5k"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -379,6 +379,22 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
+        "name": "4",
+        "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 267413,
+      "name": "Love On Top",
+      "url": "https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf"
+    },
+    {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
         "name": "Shock Value",
         "url": "https://open.spotify.com/album/0V7TZQmJBgI81M9Z7GWxCI"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 234026,
       "name": "Give It To Me",
       "url": "https://open.spotify.com/track/0wbDgMuAoy7O7pL3a69uZx"
-    },
-    {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
-        "name": "4",
-        "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 267413,
-      "name": "Love On Top",
-      "url": "https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -495,18 +495,18 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
-        "name": "24K Magic",
-        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
+        "name": "4",
+        "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
       },
       "artists": [
         {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
         }
       ],
-      "duration_ms": 191000,
-      "name": "Finesse",
-      "url": "https://open.spotify.com/track/5XMkENs3GfeRza8MfVAhjK"
+      "duration_ms": 236093,
+      "name": "Run the World (Girls)",
+      "url": "https://open.spotify.com/track/1uXbwHHfgsXcUKfSZw5ZJ0"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -531,18 +531,18 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
-        "name": "4",
-        "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
+        "name": "24K Magic",
+        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
       },
       "artists": [
         {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 236093,
-      "name": "Run the World (Girls)",
-      "url": "https://open.spotify.com/track/1uXbwHHfgsXcUKfSZw5ZJ0"
+      "duration_ms": 191000,
+      "name": "Finesse",
+      "url": "https://open.spotify.com/track/5XMkENs3GfeRza8MfVAhjK"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -659,26 +659,18 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
-        "name": "An Evening With Silk Sonic",
-        "url": "https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk"
+        "name": "Lemonade",
+        "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF"
       },
       "artists": [
         {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "Silk Sonic",
-          "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
         }
       ],
-      "duration_ms": 203122,
-      "name": "Skate",
-      "url": "https://open.spotify.com/track/7jvCeWOSnJs2N3spqobWnO"
+      "duration_ms": 206080,
+      "name": "Formation",
+      "url": "https://open.spotify.com/track/6g0Orsxv6glTJCt4cHsRsQ"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -719,18 +711,26 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
-        "name": "BEYONC\u00c9 [Platinum Edition]",
-        "url": "https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu"
+        "name": "An Evening With Silk Sonic",
+        "url": "https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk"
       },
       "artists": [
         {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Silk Sonic",
+          "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
         }
       ],
-      "duration_ms": 319466,
-      "name": "Partition",
-      "url": "https://open.spotify.com/track/5hgnY0mVcVetszbb85qeDg"
+      "duration_ms": 203122,
+      "name": "Skate",
+      "url": "https://open.spotify.com/track/7jvCeWOSnJs2N3spqobWnO"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -1233,20 +1233,24 @@
       "url": "https://open.spotify.com/track/2SLZ2rX5773RS16mcqBxG7"
     },
     {
-      "added_at": "2023-07-14 04:17:24",
+      "added_at": "2022-08-02 10:25:51",
       "album": {
-        "name": "Summer Too Hot",
-        "url": "https://open.spotify.com/album/379BJxUOZlfM3UoGjrDpZN"
+        "name": "Don't Waste My Time (feat. Ella Mai)",
+        "url": "https://open.spotify.com/album/2veUi52T9SqSvwXJYd5aIT"
       },
       "artists": [
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
         }
       ],
-      "duration_ms": 188504,
-      "name": "Summer Too Hot",
-      "url": "https://open.spotify.com/track/7g6FlLHxbVqMi1s7S8tDTp"
+      "duration_ms": 199720,
+      "name": "Don't Waste My Time (feat. Ella Mai)",
+      "url": "https://open.spotify.com/track/3Ey11v2aiX14s4wBaYbhlp"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -1273,24 +1277,20 @@
       "url": "https://open.spotify.com/track/4FTOpNYcGxnQdGNWSxIcio"
     },
     {
-      "added_at": "2022-08-02 10:25:51",
+      "added_at": "2023-07-14 04:17:24",
       "album": {
-        "name": "Don't Waste My Time (feat. Ella Mai)",
-        "url": "https://open.spotify.com/album/2veUi52T9SqSvwXJYd5aIT"
+        "name": "Summer Too Hot",
+        "url": "https://open.spotify.com/album/379BJxUOZlfM3UoGjrDpZN"
       },
       "artists": [
         {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        },
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 199720,
-      "name": "Don't Waste My Time (feat. Ella Mai)",
-      "url": "https://open.spotify.com/track/3Ey11v2aiX14s4wBaYbhlp"
+      "duration_ms": 188504,
+      "name": "Summer Too Hot",
+      "url": "https://open.spotify.com/track/7g6FlLHxbVqMi1s7S8tDTp"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -1361,6 +1361,22 @@
       "url": "https://open.spotify.com/track/2J2hVpwVV25EK8Bvd3OgCK"
     },
     {
+      "added_at": "2023-08-25 04:01:00",
+      "album": {
+        "name": "Boyfriend",
+        "url": "https://open.spotify.com/album/471LKZ5JPTXVww871Bn9cf"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 226740,
+      "name": "Boyfriend",
+      "url": "https://open.spotify.com/track/3hRG2nZPcYUN0VYohLBds1"
+    },
+    {
       "added_at": "2022-08-02 10:25:51",
       "album": {
         "name": "Jenny From The Block - The Remixes",
@@ -1425,22 +1441,6 @@
       "url": "https://open.spotify.com/track/02QQXgeAghpU4smdM7l7We"
     },
     {
-      "added_at": "2023-08-25 04:01:00",
-      "album": {
-        "name": "Boyfriend",
-        "url": "https://open.spotify.com/album/471LKZ5JPTXVww871Bn9cf"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 226740,
-      "name": "Boyfriend",
-      "url": "https://open.spotify.com/track/3hRG2nZPcYUN0VYohLBds1"
-    },
-    {
       "added_at": "2022-08-02 10:25:51",
       "album": {
         "name": "LOVE AND COMPROMISE",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
+        "name": "Concrete Rose",
+        "url": "https://open.spotify.com/album/3oL0vq8diYrPLGWVgjJBPD"
+      },
+      "artists": [
+        {
+          "name": "Ashanti",
+          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+        }
+      ],
+      "duration_ms": 186306,
+      "name": "Only U - No Intro",
+      "url": "https://open.spotify.com/track/3sckKKIx96cjPXtiqPHCTB"
+    },
+    {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
         "name": "Rebirth",
         "url": "https://open.spotify.com/album/1fRr47hbp60yegltnsvkEH"
       },
@@ -1479,18 +1495,18 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
-        "name": "Concrete Rose",
-        "url": "https://open.spotify.com/album/3oL0vq8diYrPLGWVgjJBPD"
+        "name": "Fear Of Flying",
+        "url": "https://open.spotify.com/album/4LPScJnCr71D6oXB1MfQJ7"
       },
       "artists": [
         {
-          "name": "Ashanti",
-          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+          "name": "M\u00fda",
+          "url": "https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF"
         }
       ],
-      "duration_ms": 186306,
-      "name": "Only U - No Intro",
-      "url": "https://open.spotify.com/track/3sckKKIx96cjPXtiqPHCTB"
+      "duration_ms": 236826,
+      "name": "Case Of The Ex (Whatcha Gonna Do)",
+      "url": "https://open.spotify.com/track/1ak0S3NhwWrUgNlQhJ1412"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -1511,22 +1527,6 @@
       "duration_ms": 255773,
       "name": "Last Night",
       "url": "https://open.spotify.com/track/3Cn1FSSTXeQ7hCfrbizrD0"
-    },
-    {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
-        "name": "Fear Of Flying",
-        "url": "https://open.spotify.com/album/4LPScJnCr71D6oXB1MfQJ7"
-      },
-      "artists": [
-        {
-          "name": "M\u00fda",
-          "url": "https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF"
-        }
-      ],
-      "duration_ms": 236826,
-      "name": "Case Of The Ex (Whatcha Gonna Do)",
-      "url": "https://open.spotify.com/track/1ak0S3NhwWrUgNlQhJ1412"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -1855,8 +1855,8 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
-        "name": "Lemonade",
-        "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF"
+        "name": "BEYONC\u00c9 [Platinum Edition]",
+        "url": "https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu"
       },
       "artists": [
         {
@@ -1864,9 +1864,9 @@
           "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
         }
       ],
-      "duration_ms": 206080,
-      "name": "Formation",
-      "url": "https://open.spotify.com/track/6g0Orsxv6glTJCt4cHsRsQ"
+      "duration_ms": 319466,
+      "name": "Partition",
+      "url": "https://open.spotify.com/track/5hgnY0mVcVetszbb85qeDg"
     },
     {
       "added_at": "2023-03-24 04:00:00",

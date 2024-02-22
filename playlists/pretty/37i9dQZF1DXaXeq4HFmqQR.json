@@ -1,12 +1,12 @@
 {
   "description": "Mujeres a todo volumen.",
-  "num_followers": 13355,
+  "num_followers": 13357,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YTUyZDhkYmI1ZGVlZjA3ZGU2MTRiOGM4MTliOTJmNGY1NzE5ZTMy",
+  "snapshot_id": "MCxhOTRkY2YxY2FhMWYyNjcyZDM5Y2Q5N2YwNTYwZmEwYzE1NzdiMGE5",
   "tracks": [
     {
       "added_at": "2024-01-10 17:55:32",
@@ -535,22 +535,18 @@
     {
       "added_at": "2024-01-10 17:55:32",
       "album": {
-        "name": "El Perd\u00f3n (feat. Mon Laferte)",
-        "url": "https://open.spotify.com/album/6lozW74MS46Wi4TBg8eInD"
+        "name": "De Canciones Tristes y Otras Sutilezas",
+        "url": "https://open.spotify.com/album/4pYSsYWtj0fPzTXF5tES60"
       },
       "artists": [
         {
-          "name": "Pascuala Ilabaca y Fauna",
-          "url": "https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA"
-        },
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+          "name": "Rosario Alfonso",
+          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
         }
       ],
-      "duration_ms": 169145,
-      "name": "El Perd\u00f3n (feat. Mon Laferte)",
-      "url": "https://open.spotify.com/track/70b8lQmciDIfPQNNEpp3Sj"
+      "duration_ms": 310024,
+      "name": "Qu\u00e9 M\u00e1s Quieres de M\u00ed",
+      "url": "https://open.spotify.com/track/4ja24P4mH0J8YijrErAQAh"
     },
     {
       "added_at": "2024-01-10 17:55:32",
@@ -639,18 +635,22 @@
     {
       "added_at": "2024-01-10 17:55:32",
       "album": {
-        "name": "De Canciones Tristes y Otras Sutilezas",
-        "url": "https://open.spotify.com/album/4pYSsYWtj0fPzTXF5tES60"
+        "name": "El Perd\u00f3n (feat. Mon Laferte)",
+        "url": "https://open.spotify.com/album/6lozW74MS46Wi4TBg8eInD"
       },
       "artists": [
         {
-          "name": "Rosario Alfonso",
-          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
+          "name": "Pascuala Ilabaca y Fauna",
+          "url": "https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 310024,
-      "name": "Qu\u00e9 M\u00e1s Quieres de M\u00ed",
-      "url": "https://open.spotify.com/track/4ja24P4mH0J8YijrErAQAh"
+      "duration_ms": 169145,
+      "name": "El Perd\u00f3n (feat. Mon Laferte)",
+      "url": "https://open.spotify.com/track/70b8lQmciDIfPQNNEpp3Sj"
     },
     {
       "added_at": "2024-01-10 17:55:32",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-01-10 17:55:32",
       "album": {
-        "name": "La Chica de Rojo",
-        "url": "https://open.spotify.com/album/1APLL3BxSZiYpMQ4v15Ao1"
-      },
-      "artists": [
-        {
-          "name": "Monserrat Bustamante",
-          "url": "https://open.spotify.com/artist/1whqJsYsiIvbWi0Kz0kHLx"
-        }
-      ],
-      "duration_ms": 222640,
-      "name": "Yo Sin Tu Amor",
-      "url": "https://open.spotify.com/track/4sarzJnQZIJJ2n0me3jKdK"
-    },
-    {
-      "added_at": "2024-01-10 17:55:32",
-      "album": {
         "name": "Cris\u00e1lida",
         "url": "https://open.spotify.com/album/76XYjBKZrBuAj50Vyxpiur"
       },
@@ -751,6 +735,22 @@
     {
       "added_at": "2024-01-10 17:55:32",
       "album": {
+        "name": "La Chica de Rojo",
+        "url": "https://open.spotify.com/album/1APLL3BxSZiYpMQ4v15Ao1"
+      },
+      "artists": [
+        {
+          "name": "Monserrat Bustamante",
+          "url": "https://open.spotify.com/artist/1whqJsYsiIvbWi0Kz0kHLx"
+        }
+      ],
+      "duration_ms": 222640,
+      "name": "Yo Sin Tu Amor",
+      "url": "https://open.spotify.com/track/4sarzJnQZIJJ2n0me3jKdK"
+    },
+    {
+      "added_at": "2024-01-10 17:55:32",
+      "album": {
         "name": "Camila Silva",
         "url": "https://open.spotify.com/album/73V37JUsjK8ejSN84QzS5Y"
       },
@@ -763,22 +763,6 @@
       "duration_ms": 203506,
       "name": "Al Fin Te Encontre",
       "url": "https://open.spotify.com/track/7odQniwuBwQRemt2fr15Oy"
-    },
-    {
-      "added_at": "2024-01-10 17:55:32",
-      "album": {
-        "name": "Maleza",
-        "url": "https://open.spotify.com/album/1V2YNxuymQ7b4N6EAst0Qd"
-      },
-      "artists": [
-        {
-          "name": "Denisse Malebr\u00e1n",
-          "url": "https://open.spotify.com/artist/34JOOFEs2qzslbI0YAGBXr"
-        }
-      ],
-      "duration_ms": 208541,
-      "name": "A Veces T\u00fa",
-      "url": "https://open.spotify.com/track/7CSAIA6x0PFZcDVjO34pxS"
     },
     {
       "added_at": "2024-01-10 17:55:32",
@@ -807,18 +791,18 @@
     {
       "added_at": "2024-01-10 17:55:32",
       "album": {
-        "name": "Adentro",
-        "url": "https://open.spotify.com/album/4EkouVwYZqZVmnnxx7O6Xr"
+        "name": "Maleza",
+        "url": "https://open.spotify.com/album/1V2YNxuymQ7b4N6EAst0Qd"
       },
       "artists": [
         {
-          "name": "Francisca Valenzuela",
-          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
+          "name": "Denisse Malebr\u00e1n",
+          "url": "https://open.spotify.com/artist/34JOOFEs2qzslbI0YAGBXr"
         }
       ],
-      "duration_ms": 198983,
-      "name": "Jugando Con Fuego",
-      "url": "https://open.spotify.com/track/7pBMCVwilHS7DWLgCArH4n"
+      "duration_ms": 208541,
+      "name": "A Veces T\u00fa",
+      "url": "https://open.spotify.com/track/7CSAIA6x0PFZcDVjO34pxS"
     },
     {
       "added_at": "2024-01-10 17:55:32",
@@ -835,6 +819,22 @@
       "duration_ms": 151444,
       "name": "El Regalito",
       "url": "https://open.spotify.com/track/10VSk1JjgkNckHhlw4w4fv"
+    },
+    {
+      "added_at": "2024-01-10 17:55:32",
+      "album": {
+        "name": "Adentro",
+        "url": "https://open.spotify.com/album/4EkouVwYZqZVmnnxx7O6Xr"
+      },
+      "artists": [
+        {
+          "name": "Francisca Valenzuela",
+          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
+        }
+      ],
+      "duration_ms": 198983,
+      "name": "Jugando Con Fuego",
+      "url": "https://open.spotify.com/track/7pBMCVwilHS7DWLgCArH4n"
     },
     {
       "added_at": "2024-01-10 17:55:32",

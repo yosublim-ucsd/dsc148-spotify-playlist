@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5hMh7LGtmv.md) - [plain]
 
 > The ultimate line\-up of Summer anthems, strap in !!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,820 likes - 80 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,166 likes - 80 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5hMh7LGtmv.md) - [plain]
 | 79 | [Good Times \- Radio Edit](https://open.spotify.com/track/49Hb6hA4WJE6KdpDpotxt6) | [Roll Deep](https://open.spotify.com/artist/4gpElxNt5pL515njzmZaZG), [Jodie Connor](https://open.spotify.com/artist/2z8TUHYgpATw1YCb8WV6qv) | [Sommer Klassiker](https://open.spotify.com/album/3vkUHTM5ZgvHocuE882zew) | 3:43 |
 | 80 | [Bound 4 da Reload \- Casualty](https://open.spotify.com/track/24SElG0D2F6vJ7Z9EMD5Xu) | [Oxide & Neutrino](https://open.spotify.com/artist/0uhNYfjHJyAmHh2xNZ4vqf) | [Execute](https://open.spotify.com/album/1C7r9ofyU8ajv54XBSAJEC) | 4:52 |
 
-Snapshot ID: `MCw1YmI3YzA1YjY3NjBmOTIxYjA2OTU2ODQ0OTdmNGRjZmUyOWEwMzBl`
+Snapshot ID: `MCxkZTU1ZTgxYzczN2UyMGM3YjdjY2ZlZDY3ZjNiOTZhMzdlYWQ1OGEw`

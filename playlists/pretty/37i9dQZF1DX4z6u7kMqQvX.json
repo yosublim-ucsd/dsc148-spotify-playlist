@@ -1,12 +1,12 @@
 {
   "description": "Sin ataduras, pero con amor: la medida justa de romance independiente.",
-  "num_followers": 105420,
+  "num_followers": 105428,
   "original_name": "Amor Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhODMzODEyMzYwNTZjYjJlNDMzYzYwMzY1YTdjOTdmNDFiYmM1ZDFl",
+  "snapshot_id": "MCwyMDI4ZmI0MzEwZjI1NWUyM2MzN2YzYWJmMjQ2NmE1OWEwMDBjZjE4",
   "tracks": [
     {
       "added_at": "2024-02-09 03:00:00",
@@ -843,6 +843,22 @@
     {
       "added_at": "2024-02-09 03:00:00",
       "album": {
+        "name": "Diecinueve",
+        "url": "https://open.spotify.com/album/2X7QgOXDviisukXhIrVt1k"
+      },
+      "artists": [
+        {
+          "name": "Manu Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS"
+        }
+      ],
+      "duration_ms": 213105,
+      "name": "Fuimos",
+      "url": "https://open.spotify.com/track/6iaDLPWGJk8CIKMLkZU3HO"
+    },
+    {
+      "added_at": "2024-02-09 03:00:00",
+      "album": {
         "name": "Everyone's In Love With You (Spotify Singles)",
         "url": "https://open.spotify.com/album/5PGP5bo8rMgca4lBoy2LJz"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 150000,
       "name": "Everyone's In Love With You - Spotify Singles",
       "url": "https://open.spotify.com/track/4TUWFvnu9BOyibCQmaf4or"
-    },
-    {
-      "added_at": "2024-02-09 03:00:00",
-      "album": {
-        "name": "Diecinueve",
-        "url": "https://open.spotify.com/album/2X7QgOXDviisukXhIrVt1k"
-      },
-      "artists": [
-        {
-          "name": "Manu Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS"
-        }
-      ],
-      "duration_ms": 213105,
-      "name": "Fuimos",
-      "url": "https://open.spotify.com/track/6iaDLPWGJk8CIKMLkZU3HO"
     },
     {
       "added_at": "2024-02-09 03:00:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-02-09 03:00:00",
       "album": {
-        "name": "C\u00f3smica",
-        "url": "https://open.spotify.com/album/7ypr3KPhXSttdn4I1kp1qi"
-      },
-      "artists": [
-        {
-          "name": "Plastilina",
-          "url": "https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9"
-        }
-      ],
-      "duration_ms": 216670,
-      "name": "C\u00f3smica",
-      "url": "https://open.spotify.com/track/7gtubJCPm9EcKuHgBxRZRJ"
-    },
-    {
-      "added_at": "2024-02-09 03:00:00",
-      "album": {
         "name": "C\u00f3mo Te Extra\u00f1o Mi Amor",
         "url": "https://open.spotify.com/album/4BmqOdFP8fsrpVMe3LcHp9"
       },
@@ -1067,18 +1051,18 @@
     {
       "added_at": "2024-02-09 03:00:00",
       "album": {
-        "name": "T\u00fa Me Llevas",
-        "url": "https://open.spotify.com/album/4JjieslqBeHEzoKD9259l0"
+        "name": "C\u00f3smica",
+        "url": "https://open.spotify.com/album/7ypr3KPhXSttdn4I1kp1qi"
       },
       "artists": [
         {
-          "name": "MO\u00dcGLI",
-          "url": "https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9"
+          "name": "Plastilina",
+          "url": "https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9"
         }
       ],
-      "duration_ms": 263650,
-      "name": "T\u00fa Me Llevas",
-      "url": "https://open.spotify.com/track/2aC2w4iVxpRjbUd9BDIa2y"
+      "duration_ms": 216670,
+      "name": "C\u00f3smica",
+      "url": "https://open.spotify.com/track/7gtubJCPm9EcKuHgBxRZRJ"
     },
     {
       "added_at": "2024-02-09 03:00:00",
@@ -1095,6 +1079,22 @@
       "duration_ms": 133711,
       "name": "24/7",
       "url": "https://open.spotify.com/track/1UfciR4WSuxeCO6VX7xLOb"
+    },
+    {
+      "added_at": "2024-02-09 03:00:00",
+      "album": {
+        "name": "T\u00fa Me Llevas",
+        "url": "https://open.spotify.com/album/4JjieslqBeHEzoKD9259l0"
+      },
+      "artists": [
+        {
+          "name": "MO\u00dcGLI",
+          "url": "https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9"
+        }
+      ],
+      "duration_ms": 263650,
+      "name": "T\u00fa Me Llevas",
+      "url": "https://open.spotify.com/track/2aC2w4iVxpRjbUd9BDIa2y"
     },
     {
       "added_at": "2024-02-09 03:00:00",
@@ -1427,26 +1427,6 @@
     {
       "added_at": "2024-02-09 03:00:00",
       "album": {
-        "name": "El bosque del recuerdo",
-        "url": "https://open.spotify.com/album/4sSVCsRnVyx0m5hkBzIy1Q"
-      },
-      "artists": [
-        {
-          "name": "Lara Pedrosa",
-          "url": "https://open.spotify.com/artist/1FnX7FGjz4cjIvo6rmMK8N"
-        },
-        {
-          "name": "Santiago Motorizado",
-          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
-        }
-      ],
-      "duration_ms": 166945,
-      "name": "Melodia de extra\u00f1ar",
-      "url": "https://open.spotify.com/track/2LLqpGXCDOaCFq6kGxqdD7"
-    },
-    {
-      "added_at": "2024-02-09 03:00:00",
-      "album": {
         "name": "Matem\u00e1tica sentimental",
         "url": "https://open.spotify.com/album/6TLIjWfvqznXw1p54hPlKE"
       },
@@ -1475,6 +1455,26 @@
       "duration_ms": 326961,
       "name": "Cuando Estoy con El - Sesi\u00f3n Jeanette",
       "url": "https://open.spotify.com/track/2bKQ7zfZztPbihIJ5O4rp3"
+    },
+    {
+      "added_at": "2024-02-09 03:00:00",
+      "album": {
+        "name": "El bosque del recuerdo",
+        "url": "https://open.spotify.com/album/4sSVCsRnVyx0m5hkBzIy1Q"
+      },
+      "artists": [
+        {
+          "name": "Lara Pedrosa",
+          "url": "https://open.spotify.com/artist/1FnX7FGjz4cjIvo6rmMK8N"
+        },
+        {
+          "name": "Santiago Motorizado",
+          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
+        }
+      ],
+      "duration_ms": 166945,
+      "name": "Melodia de extra\u00f1ar",
+      "url": "https://open.spotify.com/track/2LLqpGXCDOaCFq6kGxqdD7"
     },
     {
       "added_at": "2024-02-09 03:00:00",
@@ -1575,26 +1575,6 @@
     {
       "added_at": "2024-02-09 03:00:00",
       "album": {
-        "name": "El Chiste",
-        "url": "https://open.spotify.com/album/7fDf8SX4DoOTN17fYdTFnv"
-      },
-      "artists": [
-        {
-          "name": "Tarsitano",
-          "url": "https://open.spotify.com/artist/33bFzRzGGTXNRuQsPlsjXG"
-        },
-        {
-          "name": "Feli Colina",
-          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "El Chiste",
-      "url": "https://open.spotify.com/track/0wCsEY6G4GxHQgETJg8Ys0"
-    },
-    {
-      "added_at": "2024-02-09 03:00:00",
-      "album": {
         "name": "Los Abrazos son Instantes Decisivos Vol. II",
         "url": "https://open.spotify.com/album/555R1YI4L8OshPz3dNkZdL"
       },
@@ -1615,18 +1595,22 @@
     {
       "added_at": "2024-02-09 03:00:00",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/56i29m64vzKcbDFnZbKd55"
+        "name": "El Chiste",
+        "url": "https://open.spotify.com/album/7fDf8SX4DoOTN17fYdTFnv"
       },
       "artists": [
         {
-          "name": "C\u00edtrico",
-          "url": "https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9"
+          "name": "Tarsitano",
+          "url": "https://open.spotify.com/artist/33bFzRzGGTXNRuQsPlsjXG"
+        },
+        {
+          "name": "Feli Colina",
+          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
         }
       ],
-      "duration_ms": 170866,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/3TCDwk2QYxOe9oKlM81N2u"
+      "duration_ms": 215000,
+      "name": "El Chiste",
+      "url": "https://open.spotify.com/track/0wCsEY6G4GxHQgETJg8Ys0"
     },
     {
       "added_at": "2024-02-09 03:00:00",
@@ -1643,6 +1627,22 @@
       "duration_ms": 213159,
       "name": "Locos",
       "url": "https://open.spotify.com/track/6jpSWY7bnhVxGD5dBNQW6v"
+    },
+    {
+      "added_at": "2024-02-09 03:00:00",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/56i29m64vzKcbDFnZbKd55"
+      },
+      "artists": [
+        {
+          "name": "C\u00edtrico",
+          "url": "https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9"
+        }
+      ],
+      "duration_ms": 170866,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/3TCDwk2QYxOe9oKlM81N2u"
     },
     {
       "added_at": "2024-02-09 03:00:00",
@@ -1735,22 +1735,22 @@
     {
       "added_at": "2024-02-09 03:00:00",
       "album": {
-        "name": "Por los Dos",
-        "url": "https://open.spotify.com/album/6DYzz9LO7qVPxJ27cf2pns"
+        "name": "Nosotros Dos",
+        "url": "https://open.spotify.com/album/2u8lXaejQL4N9yhOeLdspj"
       },
       "artists": [
         {
-          "name": "Panda Elliot",
-          "url": "https://open.spotify.com/artist/1NVbhUr3rgDRVbjAsbJIve"
+          "name": "C\u00edtrico",
+          "url": "https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9"
         },
         {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+          "name": "Goyo Degano",
+          "url": "https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf"
         }
       ],
-      "duration_ms": 181622,
-      "name": "Por los Dos",
-      "url": "https://open.spotify.com/track/3H924Gfnwr6Lks83wpRVFe"
+      "duration_ms": 246133,
+      "name": "Nosotros Dos",
+      "url": "https://open.spotify.com/track/2dX6OVcDAYCjopRIoQalKQ"
     }
   ],
   "unique_name": "Amor Indie",

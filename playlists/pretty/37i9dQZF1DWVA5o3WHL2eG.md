@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: anaïs
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,005 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,007 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 4 | [Lovesong](https://open.spotify.com/track/2Cog6WTjyfEqZEj0eecGeS) | [Loredana](https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80) | [Lovesong](https://open.spotify.com/album/7kQJJ7WcmsHmuq7tJsTL3t) | 2:10 |
 | 5 | [ABC](https://open.spotify.com/track/1no0HVphfnHBjYNfhH3m1k) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR) | [ABC](https://open.spotify.com/album/1eCJRp3bemhLyeuD3hSCqK) | 2:39 |
 | 6 | [3 Uhr Nachts](https://open.spotify.com/track/56Awy0TOnD6PUHoRcqApXQ) | [ANDIJOLA JULI](https://open.spotify.com/artist/3qp3Rd31EDGEitYZKIRpMB) | [3 Uhr Nachts](https://open.spotify.com/album/5XxpVT8U1rWLKHeXZtlCqg) | 2:38 |
-| 7 | [My Fantasy](https://open.spotify.com/track/2mbRfE0uDMWBAG0x3I7VCJ) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [My Fantasy](https://open.spotify.com/album/4BtrOR6UZNQV8yJl0P3vF4) | 2:59 |
-| 8 | [Kleines Bisschen Grün](https://open.spotify.com/track/7foBCSij76jXHuYteu1kh5) | [Ellice](https://open.spotify.com/artist/7sAaTbbHDafboXdSERjtEl) | [Kleines Bisschen Grün](https://open.spotify.com/album/5KORifLHbQUu2exzTrRbbB) | 2:47 |
-| 9 | [Unterwegs](https://open.spotify.com/track/2IXYCofJeVgh5r2y0JXOMN) | [prod.suki](https://open.spotify.com/artist/4sRWXtD28EnvezAlaltt0x), [Verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [Unterwegs](https://open.spotify.com/album/0YLHd9ODNz4Ym6s0puZhZm) | 3:00 |
+| 7 | [Unterwegs](https://open.spotify.com/track/2IXYCofJeVgh5r2y0JXOMN) | [prod.suki](https://open.spotify.com/artist/4sRWXtD28EnvezAlaltt0x), [Verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [Unterwegs](https://open.spotify.com/album/0YLHd9ODNz4Ym6s0puZhZm) | 3:00 |
+| 8 | [My Fantasy](https://open.spotify.com/track/2mbRfE0uDMWBAG0x3I7VCJ) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [My Fantasy](https://open.spotify.com/album/4BtrOR6UZNQV8yJl0P3vF4) | 2:59 |
+| 9 | [Kleines Bisschen Grün](https://open.spotify.com/track/7foBCSij76jXHuYteu1kh5) | [Ellice](https://open.spotify.com/artist/7sAaTbbHDafboXdSERjtEl) | [Kleines Bisschen Grün](https://open.spotify.com/album/5KORifLHbQUu2exzTrRbbB) | 2:47 |
 | 10 | [Führerschein](https://open.spotify.com/track/0TU7YkMOLBxrUIOo7SnpIV) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Führerschein](https://open.spotify.com/album/2x7ou8ctS719LdjHz2DoBp) | 4:02 |
 | 11 | [sie](https://open.spotify.com/track/6QqeFkSVC1e5sfdfY68mb5) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [sie](https://open.spotify.com/album/38kcgG8H98TRVAh7OVxe08) | 2:30 |
 | 12 | [Mona Lisa](https://open.spotify.com/track/2KXwBWZVVDM6NhxY1oGFzr) | [SANNA](https://open.spotify.com/artist/7yCKN6vsAdJeyG5J7wGhFd) | [Mona Lisa](https://open.spotify.com/album/5nezFJN0Mh1ryvFJwPKwB5) | 2:58 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 25 | [Lovely](https://open.spotify.com/track/07lVT57m4NGsFvZWMv2vxQ) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Lovely](https://open.spotify.com/album/2Ol7eVHaVtcwqr3sBTSmC3) | 3:07 |
 | 26 | [stop](https://open.spotify.com/track/6e11eeiUT3dUCoeg5OLvD5) | [BABYJOY](https://open.spotify.com/artist/2vYWyXs1PJbycPBdTstmHH), [Cato](https://open.spotify.com/artist/5Qa6L42X3G6sXrWvYvxGOc) | [stop](https://open.spotify.com/album/2Z9pZ4SzER5upYlOafaVA2) | 2:46 |
 | 27 | [boys who go to therapy](https://open.spotify.com/track/75O7pRqTSETi5Ryb2XJ1IG) | [PENNY X](https://open.spotify.com/artist/1mZDFbH4t9JsKKvbBXf4fi) | [boys who go to therapy](https://open.spotify.com/album/75HEenlcKpG2InZ4s7DZxq) | 2:28 |
-| 28 | [nicht mal nihilist](https://open.spotify.com/track/7r8cLxIuHH5unKxrCjrgOC) | [RAHEL](https://open.spotify.com/artist/0WdihSMgLzyjcNcKsdvJCv) | [nicht mal nihilist](https://open.spotify.com/album/2XaCEABalhmbNnjjoc3m3J) | 3:47 |
-| 29 | [Green Blue Violet \(Love Is Pain\)](https://open.spotify.com/track/0bpykpzP4TNPhOkQaGwXo0) | [CHRISTL](https://open.spotify.com/artist/7umYHv93hQAIJaGD7qUf6W) | [Green Blue Violet \(Love Is Pain\)](https://open.spotify.com/album/6ugCyZdalUQiJf52EfEuez) | 2:58 |
+| 28 | [Green Blue Violet \(Love Is Pain\)](https://open.spotify.com/track/0bpykpzP4TNPhOkQaGwXo0) | [CHRISTL](https://open.spotify.com/artist/7umYHv93hQAIJaGD7qUf6W) | [Green Blue Violet \(Love Is Pain\)](https://open.spotify.com/album/6ugCyZdalUQiJf52EfEuez) | 2:58 |
+| 29 | [nicht mal nihilist](https://open.spotify.com/track/7r8cLxIuHH5unKxrCjrgOC) | [RAHEL](https://open.spotify.com/artist/0WdihSMgLzyjcNcKsdvJCv) | [nicht mal nihilist](https://open.spotify.com/album/2XaCEABalhmbNnjjoc3m3J) | 3:47 |
 | 30 | [lolita](https://open.spotify.com/track/5aG4QJ3Kzj9xWPdAFw00Bb) | [liska](https://open.spotify.com/artist/279fWE4KpU6bqxsBypK8C4) | [lolita](https://open.spotify.com/album/5AajzMoNWCklGCcN9E7MUI) | 2:34 |
 | 31 | [deplatziert](https://open.spotify.com/track/3RydWx9dRmRJmvrEBoCAJK) | [ameliy](https://open.spotify.com/artist/3T4fIhGxnUtCJ84Us8H8Gj) | [deplatziert](https://open.spotify.com/album/7dHyTpo3DhRwRnX3O98Mti) | 2:50 |
 | 32 | [MONEY BAGS](https://open.spotify.com/track/6cbl94N6hnZ7Opr6GcEeBa) | [TRINA](https://open.spotify.com/artist/7hLQp9nd2WwuSd9urqu3pJ) | [MONEY BAGS](https://open.spotify.com/album/2okuQSEo20KIwqHafU48vi) | 2:30 |
@@ -44,19 +44,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 34 | [No Good](https://open.spotify.com/track/4fSumqfqyd2NrqI0HoRxWE) | [SISKA](https://open.spotify.com/artist/19q87hpkmn9TWk4164sHsN) | [No Good](https://open.spotify.com/album/6xo8ZSYGtlVcSTsw3S8Jom) | 2:54 |
 | 35 | [MONSTER](https://open.spotify.com/track/1Nrhmk93FjBG8zevcTDSH9) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [MONSTER](https://open.spotify.com/album/3HlASdUxisoWlTgyZX5rKI) | 2:56 |
 | 36 | [Parasol](https://open.spotify.com/track/3u7AAViN58FXUYuE5db849) | [Pina Palau](https://open.spotify.com/artist/6Ktx4W0UWEkRQKxhkIUFvP) | [Parasol](https://open.spotify.com/album/6SJeS83n9HgC4nmtwHyTjE) | 3:35 |
-| 37 | [oh my messy mind](https://open.spotify.com/track/70YcgcIRmCzux3UNwiGCPV) | [Philippa Kinsky](https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0) | [oh my messy mind](https://open.spotify.com/album/0B2JJ0hBxgTgExfN859HQt) | 2:47 |
-| 38 | [Don't Wanna](https://open.spotify.com/track/5rGrH9RbXJN2TggEhHPkWW) | [Tini Gessler](https://open.spotify.com/artist/5k1fr2qbGZrk40njMAyv0x) | [Don't Wanna](https://open.spotify.com/album/2rt8p7jfKZf51IYPjKWC6t) | 3:05 |
+| 37 | [Don't Wanna](https://open.spotify.com/track/5rGrH9RbXJN2TggEhHPkWW) | [Tini Gessler](https://open.spotify.com/artist/5k1fr2qbGZrk40njMAyv0x) | [Don't Wanna](https://open.spotify.com/album/2rt8p7jfKZf51IYPjKWC6t) | 3:05 |
+| 38 | [oh my messy mind](https://open.spotify.com/track/70YcgcIRmCzux3UNwiGCPV) | [Philippa Kinsky](https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0) | [oh my messy mind](https://open.spotify.com/album/0B2JJ0hBxgTgExfN859HQt) | 2:47 |
 | 39 | [Sakura](https://open.spotify.com/track/3LgHqvm344AweV924Zcgd9) | [Aiko](https://open.spotify.com/artist/59SThek9uTINSehGNcgmsi) | [Sakura](https://open.spotify.com/album/19TnzXcSCLzpSGtS1CzsOW) | 2:43 |
-| 40 | [Schleudertrauma](https://open.spotify.com/track/6dMkJN3pr9OR1HvOosTNNK) | [linna](https://open.spotify.com/artist/4EgjoNttrpi5WU1lIMWs1J) | [Schleudertrauma](https://open.spotify.com/album/4hLsRhE24dkJOeaBaBe1bO) | 2:41 |
+| 40 | [Gangster tanzen nicht](https://open.spotify.com/track/2yMOo8J6FpUZzfuSi0kTSu) | [LIZ](https://open.spotify.com/artist/793QToVJnVh8Op8YSqJsSm) | [AMY WINEHOUZE](https://open.spotify.com/album/4cDjx3jrT1FVnnZdilXq9n) | 2:36 |
 | 41 | [Boo'd Up](https://open.spotify.com/track/5yNWmUaZWocjYaSsjttrPW) | [zara](https://open.spotify.com/artist/3iFa38c2Ig6kXLVx5Yl1YD) | [Boo'd Up](https://open.spotify.com/album/3XwdzmLhKmxRkzfjtwRNSJ) | 1:54 |
-| 42 | [SCHWARZLICHT](https://open.spotify.com/track/5vnYW09ymKioMNoS0xbKOd) | [IUMA](https://open.spotify.com/artist/3sQkqWv3GPcfimQ2bobl2a) | [SCHWARZLICHT](https://open.spotify.com/album/5U5btzd10yQGK1qrx4n3Fo) | 2:22 |
-| 43 | [Sie tanzt allein](https://open.spotify.com/track/6Czs8OVQLhoz2Jz3HqfgDu) | [SHARI](https://open.spotify.com/artist/2DSyocyjeHkXU2AsWQyYZS) | [Sie tanzt allein](https://open.spotify.com/album/0wDrPB6u5SlKOS6ZGJTKbJ) | 3:24 |
-| 44 | [Something to Rely On](https://open.spotify.com/track/600ShBW2NpyeTmG2WEs7kM) | [Mina Richman](https://open.spotify.com/artist/0xEoOgwjjJQ9uDS8y1GtEC) | [Something to Rely On](https://open.spotify.com/album/7zHmAMbgYlhpoul9cY70H4) | 3:07 |
-| 45 | [Gangster tanzen nicht](https://open.spotify.com/track/2yMOo8J6FpUZzfuSi0kTSu) | [LIZ](https://open.spotify.com/artist/793QToVJnVh8Op8YSqJsSm) | [AMY WINEHOUZE](https://open.spotify.com/album/4cDjx3jrT1FVnnZdilXq9n) | 2:36 |
+| 42 | [Schleudertrauma](https://open.spotify.com/track/6dMkJN3pr9OR1HvOosTNNK) | [linna](https://open.spotify.com/artist/4EgjoNttrpi5WU1lIMWs1J) | [Schleudertrauma](https://open.spotify.com/album/4hLsRhE24dkJOeaBaBe1bO) | 2:41 |
+| 43 | [SCHWARZLICHT](https://open.spotify.com/track/5vnYW09ymKioMNoS0xbKOd) | [IUMA](https://open.spotify.com/artist/3sQkqWv3GPcfimQ2bobl2a) | [SCHWARZLICHT](https://open.spotify.com/album/5U5btzd10yQGK1qrx4n3Fo) | 2:22 |
+| 44 | [Sie tanzt allein](https://open.spotify.com/track/6Czs8OVQLhoz2Jz3HqfgDu) | [SHARI](https://open.spotify.com/artist/2DSyocyjeHkXU2AsWQyYZS) | [Sie tanzt allein](https://open.spotify.com/album/0wDrPB6u5SlKOS6ZGJTKbJ) | 3:24 |
+| 45 | [Something to Rely On](https://open.spotify.com/track/600ShBW2NpyeTmG2WEs7kM) | [Mina Richman](https://open.spotify.com/artist/0xEoOgwjjJQ9uDS8y1GtEC) | [Something to Rely On](https://open.spotify.com/album/7zHmAMbgYlhpoul9cY70H4) | 3:07 |
 | 46 | [Film](https://open.spotify.com/track/1hsZ8XkMqSCa9xfBYcf7A7) | [Yellow](https://open.spotify.com/artist/7zjrMyYoQlzR3h32TW6gxZ) | [Film](https://open.spotify.com/album/4EdbljEbqVZUlxYZpBDmu4) | 2:35 |
 | 47 | [Alright \- Bianka Banks Remix](https://open.spotify.com/track/5CrWADigr7bV0oy09aodT6) | [Jil Tanner](https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK), [Bianka Banks](https://open.spotify.com/artist/2fL8FcTGTOjL5CvP153VGN) | [Alright \(Bianka Banks Remix\)](https://open.spotify.com/album/5vMjxnRB9QoMd02ildmWhI) | 6:28 |
 | 48 | [Flying](https://open.spotify.com/track/5h16bxcl5nRetjRem1U99d) | [MISS C\-LINE](https://open.spotify.com/artist/5bV8ZGPcOGGa4GdagDCdBN) | [Flying](https://open.spotify.com/album/1fgMzYpta1MmTE1sdNvinn) | 3:40 |
 | 49 | [Pity Party](https://open.spotify.com/track/39rdTlOcLXu0eAVcUNngde) | [Crow Baby](https://open.spotify.com/artist/7cBPTTqPfTOtwNwXJ2YFK1) | [Pity Party](https://open.spotify.com/album/3w5Tl20Q3AZaTgPK8XEyVG) | 3:57 |
 | 50 | [The Table](https://open.spotify.com/track/1uKUzuw5liwEvTPzQ9r2Xp) | [Nola Kin](https://open.spotify.com/artist/4rr8k0k3ZojhAxZuz1fJ9w) | [The Table](https://open.spotify.com/album/4Szi6ifCX8FKxAxNOLQWWo) | 4:17 |
 
-Snapshot ID: `MCwwYjdlZWNjMTcyZWZjZDNlMDk0MjgxNjdiYjVkODcwN2RkNWQyYzI5`
+Snapshot ID: `MCwyZmM1OWM0OTA5NzgxMmZmZjI1MmJmYmMxY2VmOTFlZmU0YjMzZWRl`

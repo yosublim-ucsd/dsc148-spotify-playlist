@@ -1,12 +1,12 @@
 {
   "description": "La psicodelia tropical latinoamericana y sus alucinantes ritmos.",
-  "num_followers": 42225,
+  "num_followers": 42230,
   "original_name": "TROPILOCO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZTliZTM2YzFhN2EyNDU3MzgwNTRkMDQyZmEyNzIyYjAxNGQzZGY3",
+  "snapshot_id": "MCxkMjkzNTI5ZmE4N2M0ZWM1MzA1MDVmZGUzNzFkMTRjNWNkZjJkM2Iw",
   "tracks": [
     {
       "added_at": "2023-12-12 18:56:56",
@@ -175,6 +175,22 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
+        "name": "Safe Passage",
+        "url": "https://open.spotify.com/album/79iAX89nw9T3AH2CvsboR3"
+      },
+      "artists": [
+        {
+          "name": "Gitkin",
+          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
+        }
+      ],
+      "duration_ms": 214553,
+      "name": "Chicha Nola - Alternative Version",
+      "url": "https://open.spotify.com/track/66IrwRUKnmMPiYpBfEGYCm"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
         "name": "Cumbia del Monte Fuji",
         "url": "https://open.spotify.com/album/6JEkMpOD5jA6py8yAEoYc9"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 264842,
       "name": "Cumbia del Monte Fuji",
       "url": "https://open.spotify.com/track/1O9k2KJkdTALaxjkzUoLCT"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "Safe Passage",
-        "url": "https://open.spotify.com/album/79iAX89nw9T3AH2CvsboR3"
-      },
-      "artists": [
-        {
-          "name": "Gitkin",
-          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
-        }
-      ],
-      "duration_ms": 214553,
-      "name": "Chicha Nola - Alternative Version",
-      "url": "https://open.spotify.com/track/66IrwRUKnmMPiYpBfEGYCm"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -575,22 +575,6 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Harta",
-        "url": "https://open.spotify.com/album/7xxEXEwifY6NE0sEmIybSg"
-      },
-      "artists": [
-        {
-          "name": "Mel Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
-        }
-      ],
-      "duration_ms": 185083,
-      "name": "Harta",
-      "url": "https://open.spotify.com/track/1J4xv5V5dzkA8UGtXSbCNU"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
         "name": "Noche de Amor",
         "url": "https://open.spotify.com/album/1NvVlQFSVOjr7w0Jh18VZ6"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 443874,
       "name": "Noche de Amor",
       "url": "https://open.spotify.com/track/1CYuo0OfQLSoqkaM8Hrrxt"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Harta",
+        "url": "https://open.spotify.com/album/7xxEXEwifY6NE0sEmIybSg"
+      },
+      "artists": [
+        {
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
+        }
+      ],
+      "duration_ms": 185083,
+      "name": "Harta",
+      "url": "https://open.spotify.com/track/1J4xv5V5dzkA8UGtXSbCNU"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -651,22 +651,6 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Cera Perdida",
-        "url": "https://open.spotify.com/album/4G4lWdQ2QmExgywdumu7Fh"
-      },
-      "artists": [
-        {
-          "name": "Frente Cumbiero",
-          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
-        }
-      ],
-      "duration_ms": 189892,
-      "name": "Jaley Jaley",
-      "url": "https://open.spotify.com/track/5Q2kmykzh6TUFBBqskiHjK"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
         "name": "Hotline Bling",
         "url": "https://open.spotify.com/album/3wIfrWCteaifdw84a9ckUi"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 203059,
       "name": "Hotline Bling",
       "url": "https://open.spotify.com/track/6q3HqeduJaaZvoGkxcJEOb"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Cera Perdida",
+        "url": "https://open.spotify.com/album/4G4lWdQ2QmExgywdumu7Fh"
+      },
+      "artists": [
+        {
+          "name": "Frente Cumbiero",
+          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
+        }
+      ],
+      "duration_ms": 189892,
+      "name": "Jaley Jaley",
+      "url": "https://open.spotify.com/track/5Q2kmykzh6TUFBBqskiHjK"
     },
     {
       "added_at": "2023-03-23 22:10:50",
@@ -859,22 +859,6 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Cumbia Beat Volume 1",
-        "url": "https://open.spotify.com/album/55Zzh7zGhuAF0YnlpbjV0S"
-      },
-      "artists": [
-        {
-          "name": "Los Wembler's de Iquitos",
-          "url": "https://open.spotify.com/artist/09o5k3t1L2ZxhJBnIERJxT"
-        }
-      ],
-      "duration_ms": 155013,
-      "name": "Un Silbido Amoroso",
-      "url": "https://open.spotify.com/track/548qXG0DVSXKPuQ51EuvcK"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
         "name": "Caldero",
         "url": "https://open.spotify.com/album/0WD2XbzYbyiWWhOzTtzmW8"
       },
@@ -923,22 +907,6 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Los Charapas de Oro",
-        "url": "https://open.spotify.com/album/1JJYeA9PCioo6wAewUA8CY"
-      },
-      "artists": [
-        {
-          "name": "Los Mirlos",
-          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
-        }
-      ],
-      "duration_ms": 221393,
-      "name": "La Danza del Petrolero",
-      "url": "https://open.spotify.com/track/6wYvtOi8fqJfC2vLNncDnL"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
         "name": "La Cumbia Sampuesana",
         "url": "https://open.spotify.com/album/3hfoRX2lmEN8vY7idLIo2S"
       },
@@ -955,6 +923,22 @@
       "duration_ms": 343445,
       "name": "La Cumbia Sampuesana",
       "url": "https://open.spotify.com/track/32hPiZQofmzTo66j7u3I2E"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Los Charapas de Oro",
+        "url": "https://open.spotify.com/album/1JJYeA9PCioo6wAewUA8CY"
+      },
+      "artists": [
+        {
+          "name": "Los Mirlos",
+          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
+        }
+      ],
+      "duration_ms": 221393,
+      "name": "La Danza del Petrolero",
+      "url": "https://open.spotify.com/track/6wYvtOi8fqJfC2vLNncDnL"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -997,22 +981,6 @@
       "url": "https://open.spotify.com/track/4WYTHHlht6Dd9v9fG497u9"
     },
     {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "Sonido Amazonico",
-        "url": "https://open.spotify.com/album/0p5Iiuaj58qCxzMYqgP7B1"
-      },
-      "artists": [
-        {
-          "name": "Chicha Libre",
-          "url": "https://open.spotify.com/artist/1eiodDx0lIftKNviQGG95x"
-        }
-      ],
-      "duration_ms": 242306,
-      "name": "Primavera en la Selva",
-      "url": "https://open.spotify.com/track/4hLkkCMgDmve1pRdqtHL1R"
-    },
-    {
       "added_at": "2022-02-15 02:15:55",
       "album": {
         "name": "Tamburo Infinito",
@@ -1027,6 +995,22 @@
       "duration_ms": 179817,
       "name": "Futurista",
       "url": "https://open.spotify.com/track/2OMiLy24OQeshtLLWWd08A"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Sonido Amazonico",
+        "url": "https://open.spotify.com/album/0p5Iiuaj58qCxzMYqgP7B1"
+      },
+      "artists": [
+        {
+          "name": "Chicha Libre",
+          "url": "https://open.spotify.com/artist/1eiodDx0lIftKNviQGG95x"
+        }
+      ],
+      "duration_ms": 242306,
+      "name": "Primavera en la Selva",
+      "url": "https://open.spotify.com/track/4hLkkCMgDmve1pRdqtHL1R"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1297,6 +1281,22 @@
       "url": "https://open.spotify.com/track/7ndS4yAvKF7vE7VG14fR0v"
     },
     {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Je pense \u00e0 toi",
+        "url": "https://open.spotify.com/album/5fpZTDvA6fsMMJLhEauucz"
+      },
+      "artists": [
+        {
+          "name": "El Drag\u00f3n Criollo",
+          "url": "https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G"
+        }
+      ],
+      "duration_ms": 272590,
+      "name": "Je Pense \u00e0 Toi",
+      "url": "https://open.spotify.com/track/36bbmGLrqvyxy6btk2DGiy"
+    },
+    {
       "added_at": "2022-04-09 05:03:37",
       "album": {
         "name": "Diablo",
@@ -1317,20 +1317,20 @@
       "url": "https://open.spotify.com/track/4cC3UZROu1UdjLyHzNjvdk"
     },
     {
-      "added_at": "2021-10-20 15:37:42",
+      "added_at": "2022-02-25 04:26:16",
       "album": {
-        "name": "Je pense \u00e0 toi",
-        "url": "https://open.spotify.com/album/5fpZTDvA6fsMMJLhEauucz"
+        "name": "Junchuch",
+        "url": "https://open.spotify.com/album/5RYTRBOAJE7KlDb1cJ0bBY"
       },
       "artists": [
         {
-          "name": "El Drag\u00f3n Criollo",
-          "url": "https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G"
+          "name": "Tunkuy",
+          "url": "https://open.spotify.com/artist/66E1mdKk5XT2HUZ3hkKEX0"
         }
       ],
-      "duration_ms": 272590,
-      "name": "Je Pense \u00e0 Toi",
-      "url": "https://open.spotify.com/track/36bbmGLrqvyxy6btk2DGiy"
+      "duration_ms": 276800,
+      "name": "Junchuch",
+      "url": "https://open.spotify.com/track/0NURA4GHHo6vi4hGtgo62O"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1347,22 +1347,6 @@
       "duration_ms": 213333,
       "name": "Lazalypso",
       "url": "https://open.spotify.com/track/3OItIAWkXXMi3wXkKwmhsj"
-    },
-    {
-      "added_at": "2022-02-25 04:26:16",
-      "album": {
-        "name": "Junchuch",
-        "url": "https://open.spotify.com/album/5RYTRBOAJE7KlDb1cJ0bBY"
-      },
-      "artists": [
-        {
-          "name": "Tunkuy",
-          "url": "https://open.spotify.com/artist/66E1mdKk5XT2HUZ3hkKEX0"
-        }
-      ],
-      "duration_ms": 276800,
-      "name": "Junchuch",
-      "url": "https://open.spotify.com/track/0NURA4GHHo6vi4hGtgo62O"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1511,22 +1495,6 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Cumbia Beat Volume 1",
-        "url": "https://open.spotify.com/album/55Zzh7zGhuAF0YnlpbjV0S"
-      },
-      "artists": [
-        {
-          "name": "Aniceto y sus Fabulosos",
-          "url": "https://open.spotify.com/artist/3sj4WDoPYnrkC4dg84UtG5"
-        }
-      ],
-      "duration_ms": 175906,
-      "name": "Mi Gran Noche",
-      "url": "https://open.spotify.com/track/7Ce3RwQrxYwih27gpRjJhE"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
         "name": "Echo en Mexico",
         "url": "https://open.spotify.com/album/4ZjWUw1okFSeqCCRrzLQH4"
       },
@@ -1559,22 +1527,6 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Guadalupe",
-        "url": "https://open.spotify.com/album/6OGNpHbKy1Y7qFhiUBzBWS"
-      },
-      "artists": [
-        {
-          "name": "Jaguar",
-          "url": "https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC"
-        }
-      ],
-      "duration_ms": 204705,
-      "name": "Guadalupe",
-      "url": "https://open.spotify.com/track/6iyOEhwDFzkwEEGaxMq2ny"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
         "name": "Cosmic Wacho",
         "url": "https://open.spotify.com/album/5sBh9UXGoeqgNCpNVGYQD1"
       },
@@ -1591,18 +1543,34 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "The Roots of Chicha 2",
-        "url": "https://open.spotify.com/album/6eYFx3AtyfJggMN3kWpIqI"
+        "name": "Guadalupe",
+        "url": "https://open.spotify.com/album/6OGNpHbKy1Y7qFhiUBzBWS"
       },
       "artists": [
         {
-          "name": "Manzanita",
-          "url": "https://open.spotify.com/artist/6YZOLlgZ38qVDSxVv9xg0G"
+          "name": "Jaguar",
+          "url": "https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC"
         }
       ],
-      "duration_ms": 189333,
-      "name": "Paga la Cuenta Sinverguenza",
-      "url": "https://open.spotify.com/track/56PULupF5Gt50FyostKuMd"
+      "duration_ms": 204705,
+      "name": "Guadalupe",
+      "url": "https://open.spotify.com/track/6iyOEhwDFzkwEEGaxMq2ny"
+    },
+    {
+      "added_at": "2021-11-12 02:33:27",
+      "album": {
+        "name": "Entre Bacaner\u00eda y Barbarie",
+        "url": "https://open.spotify.com/album/4l94tB5FUn0iUYDNIgmypU"
+      },
+      "artists": [
+        {
+          "name": "Masilva",
+          "url": "https://open.spotify.com/artist/4FOrNtZ9q20zjb8O9pY8WK"
+        }
+      ],
+      "duration_ms": 255198,
+      "name": "Aguaepanela Fant\u00e1stica",
+      "url": "https://open.spotify.com/track/3gTZmynwI06fQJHhvr0P2E"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1619,38 +1587,6 @@
       "duration_ms": 186675,
       "name": "Canci\u00f3n De Aplauso",
       "url": "https://open.spotify.com/track/2w0cKLP7robukceZPSV2Ji"
-    },
-    {
-      "added_at": "2022-09-30 03:44:30",
-      "album": {
-        "name": "Formose\u00f1a",
-        "url": "https://open.spotify.com/album/12C9DL2J39QMoWhorROrA2"
-      },
-      "artists": [
-        {
-          "name": "La Charo",
-          "url": "https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK"
-        }
-      ],
-      "duration_ms": 246440,
-      "name": "Ag\u00fcita de Manantial",
-      "url": "https://open.spotify.com/track/4fTEJsSGo4jFc3AmULnvDt"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "Los Miticos del Ritmo",
-        "url": "https://open.spotify.com/album/7sXU6KPeWPglFMZpMydgt6"
-      },
-      "artists": [
-        {
-          "name": "Los Miticos Del Ritmo",
-          "url": "https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu"
-        }
-      ],
-      "duration_ms": 174640,
-      "name": "No Pares Hasta Tener lo Suficiente (Don't Stop 'til You Get Enough)",
-      "url": "https://open.spotify.com/track/57xHD2Q6xWgwr60WzB72Uw"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1671,6 +1607,38 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
+        "name": "The Roots of Chicha 2",
+        "url": "https://open.spotify.com/album/6eYFx3AtyfJggMN3kWpIqI"
+      },
+      "artists": [
+        {
+          "name": "Manzanita",
+          "url": "https://open.spotify.com/artist/6YZOLlgZ38qVDSxVv9xg0G"
+        }
+      ],
+      "duration_ms": 189333,
+      "name": "Paga la Cuenta Sinverguenza",
+      "url": "https://open.spotify.com/track/56PULupF5Gt50FyostKuMd"
+    },
+    {
+      "added_at": "2022-09-30 03:44:30",
+      "album": {
+        "name": "Formose\u00f1a",
+        "url": "https://open.spotify.com/album/12C9DL2J39QMoWhorROrA2"
+      },
+      "artists": [
+        {
+          "name": "La Charo",
+          "url": "https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK"
+        }
+      ],
+      "duration_ms": 246440,
+      "name": "Ag\u00fcita de Manantial",
+      "url": "https://open.spotify.com/track/4fTEJsSGo4jFc3AmULnvDt"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
         "name": "Paganismo",
         "url": "https://open.spotify.com/album/6n4OdUAJ1Zr2oPt7VvohAW"
       },
@@ -1683,6 +1651,38 @@
       "duration_ms": 253909,
       "name": "Fantasmagor\u00eda",
       "url": "https://open.spotify.com/track/1UKdzeFMgUECS6bYGR1Jv6"
+    },
+    {
+      "added_at": "2023-09-25 00:02:05",
+      "album": {
+        "name": "OVNI Cumbia",
+        "url": "https://open.spotify.com/album/5zIwx6VzbPOyDsHyutXhVP"
+      },
+      "artists": [
+        {
+          "name": "Tropa Magica",
+          "url": "https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "OVNI Cumbia",
+      "url": "https://open.spotify.com/track/4HaTOY6NHoWNr80QXs5sEm"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Los Miticos del Ritmo",
+        "url": "https://open.spotify.com/album/7sXU6KPeWPglFMZpMydgt6"
+      },
+      "artists": [
+        {
+          "name": "Los Miticos Del Ritmo",
+          "url": "https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu"
+        }
+      ],
+      "duration_ms": 174640,
+      "name": "No Pares Hasta Tener lo Suficiente (Don't Stop 'til You Get Enough)",
+      "url": "https://open.spotify.com/track/57xHD2Q6xWgwr60WzB72Uw"
     }
   ],
   "unique_name": "TROPILOCO",

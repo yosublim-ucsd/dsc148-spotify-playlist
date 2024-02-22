@@ -1,12 +1,12 @@
 {
   "description": "Warm tunes to get you in the snuggle spirit, la fogata y el chocolate caliente son opcionales.",
-  "num_followers": 5774,
+  "num_followers": 5779,
   "original_name": "cozied up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZTdmNjEzOTJiM2Q5YjliOThlNTYyYWU2OWFjMGRmY2E0YjNiZDA2",
+  "snapshot_id": "MCwxZTc0MjI1YjQ0OTY3ZDcwZDQyMDBiZjQxM2I0YTM5NzgxZWRhZWU1",
   "tracks": [
     {
       "added_at": "2023-12-15 19:29:49",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-12-15 19:29:49",
       "album": {
-        "name": "I'll Be Home For Christmas",
-        "url": "https://open.spotify.com/album/1ykaX41VLZd7U0sxa33csX"
-      },
-      "artists": [
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        }
-      ],
-      "duration_ms": 178427,
-      "name": "I'll Be Home For Christmas",
-      "url": "https://open.spotify.com/track/6SiKqI0vm3N5NBjdgM2V9m"
-    },
-    {
-      "added_at": "2023-12-15 19:29:49",
-      "album": {
         "name": "Despierto",
         "url": "https://open.spotify.com/album/1dSihfk7gkcm5IjSYO9AAp"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 175333,
       "name": "Monumento",
       "url": "https://open.spotify.com/track/3BUOQHWgnm8l5KDkzujs26"
+    },
+    {
+      "added_at": "2023-12-15 19:29:49",
+      "album": {
+        "name": "I'll Be Home For Christmas",
+        "url": "https://open.spotify.com/album/1ykaX41VLZd7U0sxa33csX"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "duration_ms": 178427,
+      "name": "I'll Be Home For Christmas",
+      "url": "https://open.spotify.com/track/6SiKqI0vm3N5NBjdgM2V9m"
     },
     {
       "added_at": "2023-12-15 19:29:49",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-12-15 19:29:49",
       "album": {
-        "name": "Romancera",
-        "url": "https://open.spotify.com/album/427UD26U4IkJqIUicqVMZ9"
-      },
-      "artists": [
-        {
-          "name": "Guitarricadelafuente",
-          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
-        }
-      ],
-      "duration_ms": 232493,
-      "name": "Romancera",
-      "url": "https://open.spotify.com/track/4HED7T9WqduhZ6TgMl7ugE"
-    },
-    {
-      "added_at": "2023-12-15 19:29:49",
-      "album": {
         "name": "Sunlight",
         "url": "https://open.spotify.com/album/7u2qRcWGqQIi8ifEuuefdh"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 203112,
       "name": "Sunlight",
       "url": "https://open.spotify.com/track/68rfeiR6CVcaq3XTsH7Ihl"
+    },
+    {
+      "added_at": "2023-12-15 19:29:49",
+      "album": {
+        "name": "Romancera",
+        "url": "https://open.spotify.com/album/427UD26U4IkJqIUicqVMZ9"
+      },
+      "artists": [
+        {
+          "name": "Guitarricadelafuente",
+          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
+        }
+      ],
+      "duration_ms": 232493,
+      "name": "Romancera",
+      "url": "https://open.spotify.com/track/4HED7T9WqduhZ6TgMl7ugE"
     },
     {
       "added_at": "2023-12-15 19:29:49",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Jordan Ward
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,034,227 likes - 175 songs - 9 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,034,347 likes - 175 songs - 9 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 174 | [Little Blue Moon](https://open.spotify.com/track/3buMYqs28GrIx9T5rcl2we) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Little Blue Moon](https://open.spotify.com/album/3vWO9Cph9rejneWpuF79lq) | 2:48 |
 | 175 | [Luv Everybody](https://open.spotify.com/track/0rhdpXHATq8svRh4sQbYFz) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Baby Tate Presents \- Sexploration: The Musical](https://open.spotify.com/album/1C5qEvAwBYnbnToL6tj8no) | 2:42 |
 
-Snapshot ID: `MCw5NDM0ZjBkYzA1NjFiMDc0OTlhY2U0NjA3ZjQzMDYyN2IwYjY2OGJj`
+Snapshot ID: `MCw0YWM3ZmZhYzc0M2NmN2NjNzcxNWE1MzhiZjA4MDc5MWExNWI0ZDQ0`

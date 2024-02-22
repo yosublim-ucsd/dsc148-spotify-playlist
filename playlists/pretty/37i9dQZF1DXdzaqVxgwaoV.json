@@ -1,12 +1,12 @@
 {
   "description": "La m\u00fasica que enciende las fiestas navide\u00f1as y de fin de a\u00f1o en Colombia.",
-  "num_followers": 125570,
+  "num_followers": 125563,
   "original_name": "M\u00fasica Decembrina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YTc1Y2I2M2Y4ZDMyZDFjY2EyMzg1YWRhMjY0NjdlN2ZlZmU5MTk4",
+  "snapshot_id": "MCw2NWE0N2U4MTI4ZDI4NWY3NTI0YTMxMmRjZTM5M2NiYWZiYzhmNWZj",
   "tracks": [
     {
       "added_at": "2023-12-20 18:46:33",
@@ -271,6 +271,22 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
+        "name": "Sus M\u00e1s Grandes \u00c9xitos Volume 2",
+        "url": "https://open.spotify.com/album/60LUbwOhyXfoMZDOV1fXQv"
+      },
+      "artists": [
+        {
+          "name": "Pastor Lopez",
+          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
+        }
+      ],
+      "duration_ms": 235240,
+      "name": "Cari\u00f1ito Sin MI",
+      "url": "https://open.spotify.com/track/7zSluZ0cnnNomeIGYSThMm"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
         "name": "Asalto Navide\u00f1o: Vol. 1 & 2",
         "url": "https://open.spotify.com/album/2m2jXwkrxiFkmfjYArZRQw"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 223200,
       "name": "Aires De Navidad",
       "url": "https://open.spotify.com/track/0LdlVrH3R9PCfaVNNVANgl"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
-        "name": "Sus M\u00e1s Grandes \u00c9xitos Volume 2",
-        "url": "https://open.spotify.com/album/60LUbwOhyXfoMZDOV1fXQv"
-      },
-      "artists": [
-        {
-          "name": "Pastor Lopez",
-          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
-        }
-      ],
-      "duration_ms": 235240,
-      "name": "Cari\u00f1ito Sin MI",
-      "url": "https://open.spotify.com/track/7zSluZ0cnnNomeIGYSThMm"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "Discos de Oro: Pastor L\u00f3pez y Su Combo Volume 3",
-        "url": "https://open.spotify.com/album/4f99jZmWiZEGRTlmBFfNgk"
-      },
-      "artists": [
-        {
-          "name": "Pastor Lopez Y Su Combo",
-          "url": "https://open.spotify.com/artist/1OaJc4r2SBZ7Iokg2Gkwde"
-        }
-      ],
-      "duration_ms": 212293,
-      "name": "Las Cale\u00f1as",
-      "url": "https://open.spotify.com/track/3ti0XBQOyhgSRI4Ulqj5As"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
         "name": "La Orquesta Que Impone El Ritmo",
         "url": "https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 243840,
       "name": "Ay Amor",
       "url": "https://open.spotify.com/track/3IIcfSqWExqdjypo8HlMq8"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
+        "name": "Discos de Oro: Pastor L\u00f3pez y Su Combo Volume 3",
+        "url": "https://open.spotify.com/album/4f99jZmWiZEGRTlmBFfNgk"
+      },
+      "artists": [
+        {
+          "name": "Pastor Lopez Y Su Combo",
+          "url": "https://open.spotify.com/artist/1OaJc4r2SBZ7Iokg2Gkwde"
+        }
+      ],
+      "duration_ms": 212293,
+      "name": "Las Cale\u00f1as",
+      "url": "https://open.spotify.com/track/3ti0XBQOyhgSRI4Ulqj5As"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -651,26 +651,6 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "Greatest Cumbia Classics Of Colombia, Vol. 1",
-        "url": "https://open.spotify.com/album/53W9qG1q6xaKlUVuzkBNPV"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Dinamita",
-          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
-        },
-        {
-          "name": "La India Meliyar\u00e1",
-          "url": "https://open.spotify.com/artist/0zBKolPOzGoV8uja8nnaUG"
-        }
-      ],
-      "duration_ms": 252186,
-      "name": "El Viejo del Sombrer\u00f3n",
-      "url": "https://open.spotify.com/track/02bm1KDGRX3saB1iupRa3h"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
         "name": "32 Ca\u00f1onazos",
         "url": "https://open.spotify.com/album/6ubTK1qVLWQSblspjFxtZn"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 378373,
       "name": "Rebeli\u00f3n",
       "url": "https://open.spotify.com/track/4sm3mdqmSqhG8KU79rVOY8"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
+        "name": "Greatest Cumbia Classics Of Colombia, Vol. 1",
+        "url": "https://open.spotify.com/album/53W9qG1q6xaKlUVuzkBNPV"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
+        },
+        {
+          "name": "La India Meliyar\u00e1",
+          "url": "https://open.spotify.com/artist/0zBKolPOzGoV8uja8nnaUG"
+        }
+      ],
+      "duration_ms": 252186,
+      "name": "El Viejo del Sombrer\u00f3n",
+      "url": "https://open.spotify.com/track/02bm1KDGRX3saB1iupRa3h"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -743,26 +743,6 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "Billos Caracas Boys Fin de A\u00f1o",
-        "url": "https://open.spotify.com/album/4vdoIChGSZtQnOAPnEGe9R"
-      },
-      "artists": [
-        {
-          "name": "Billo's Caracas Boys",
-          "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
-        },
-        {
-          "name": "Cheo Garcia",
-          "url": "https://open.spotify.com/artist/4qmK4DVyKkbpKe2VRanvTR"
-        }
-      ],
-      "duration_ms": 171990,
-      "name": "A\u00f1o Nuevo",
-      "url": "https://open.spotify.com/track/32LOpPngSkY8V0sIVCVjPb"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
         "name": "M\u00e1s Rom\u00e1nticos",
         "url": "https://open.spotify.com/album/7pG9FNDuH1ExtPjOGOJ7MK"
       },
@@ -783,6 +763,46 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
+        "name": "Billos Caracas Boys Fin de A\u00f1o",
+        "url": "https://open.spotify.com/album/4vdoIChGSZtQnOAPnEGe9R"
+      },
+      "artists": [
+        {
+          "name": "Billo's Caracas Boys",
+          "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
+        },
+        {
+          "name": "Cheo Garcia",
+          "url": "https://open.spotify.com/artist/4qmK4DVyKkbpKe2VRanvTR"
+        }
+      ],
+      "duration_ms": 171990,
+      "name": "A\u00f1o Nuevo",
+      "url": "https://open.spotify.com/track/32LOpPngSkY8V0sIVCVjPb"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
+        "name": "32 Ca\u00f1onazos",
+        "url": "https://open.spotify.com/album/6ubTK1qVLWQSblspjFxtZn"
+      },
+      "artists": [
+        {
+          "name": "Joe Arroyo",
+          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
+        },
+        {
+          "name": "La Verdad",
+          "url": "https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM"
+        }
+      ],
+      "duration_ms": 271626,
+      "name": "Pa'l Bailador",
+      "url": "https://open.spotify.com/track/6rsAqgBNLooUcpO060WSv4"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
         "name": "Los Dos Inseparables",
         "url": "https://open.spotify.com/album/1iFlN4AfVjAqTzN3ANkl7D"
       },
@@ -799,22 +819,6 @@
       "duration_ms": 176533,
       "name": "Anhelos",
       "url": "https://open.spotify.com/track/0WkSkuHCOF5sIRfhmYGs0J"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
-        "name": "Exploring Latin Heritage, Vol.3",
-        "url": "https://open.spotify.com/album/6mwGbnCkv1CfNJ5Y3e8Or6"
-      },
-      "artists": [
-        {
-          "name": "Grupo Saboreo",
-          "url": "https://open.spotify.com/artist/1jBovgyZEnLlMQIXRUN1G9"
-        }
-      ],
-      "duration_ms": 335626,
-      "name": "La Vamo a Tumbar",
-      "url": "https://open.spotify.com/track/2PshFuRSc4uiKik36z3xDy"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -855,22 +859,18 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "32 Ca\u00f1onazos",
-        "url": "https://open.spotify.com/album/6ubTK1qVLWQSblspjFxtZn"
+        "name": "Exploring Latin Heritage, Vol.3",
+        "url": "https://open.spotify.com/album/6mwGbnCkv1CfNJ5Y3e8Or6"
       },
       "artists": [
         {
-          "name": "Joe Arroyo",
-          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
-        },
-        {
-          "name": "La Verdad",
-          "url": "https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM"
+          "name": "Grupo Saboreo",
+          "url": "https://open.spotify.com/artist/1jBovgyZEnLlMQIXRUN1G9"
         }
       ],
-      "duration_ms": 271626,
-      "name": "Pa'l Bailador",
-      "url": "https://open.spotify.com/track/6rsAqgBNLooUcpO060WSv4"
+      "duration_ms": 335626,
+      "name": "La Vamo a Tumbar",
+      "url": "https://open.spotify.com/track/2PshFuRSc4uiKik36z3xDy"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -979,6 +979,22 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
+        "name": "Esto Si Es Amor",
+        "url": "https://open.spotify.com/album/2sEZ34KEWPujwcWlNwdwI0"
+      },
+      "artists": [
+        {
+          "name": "El Combo De Las Estrellas",
+          "url": "https://open.spotify.com/artist/3a1bkJS7AQnJ8KGvf9hFiN"
+        }
+      ],
+      "duration_ms": 273200,
+      "name": "Te Conquistar\u00e9",
+      "url": "https://open.spotify.com/track/7foHMi7PH6etn80ZS32Meq"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
         "name": "Muy Nuestro",
         "url": "https://open.spotify.com/album/11vSLzBjLYwRX1tjqTDsQQ"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 296146,
       "name": "El Mochuelo",
       "url": "https://open.spotify.com/track/1dQQtzeKGUtVTUzLoRI01j"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
-        "name": "Esto Si Es Amor",
-        "url": "https://open.spotify.com/album/2sEZ34KEWPujwcWlNwdwI0"
-      },
-      "artists": [
-        {
-          "name": "El Combo De Las Estrellas",
-          "url": "https://open.spotify.com/artist/3a1bkJS7AQnJ8KGvf9hFiN"
-        }
-      ],
-      "duration_ms": 273200,
-      "name": "Te Conquistar\u00e9",
-      "url": "https://open.spotify.com/track/7foHMi7PH6etn80ZS32Meq"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -1047,22 +1047,22 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "Estrellas Corraleras - Fundadores de la Cumbia Colombiana",
-        "url": "https://open.spotify.com/album/5HthmfIydsx1AIrsdyjP99"
+        "name": "El Mejor Int\u00e9rprete Tropical - 16 Exitos",
+        "url": "https://open.spotify.com/album/5Hix3j0dTfiiRIcgGBp7yD"
       },
       "artists": [
         {
-          "name": "Los Corraleros De Majagual",
-          "url": "https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4"
+          "name": "Armando Hernandez",
+          "url": "https://open.spotify.com/artist/5f5z4wggh1hbr6Dg0BnoCe"
         },
         {
-          "name": "Calixto Ochoa",
-          "url": "https://open.spotify.com/artist/1kclvXVC4HRnMB8QtJRBDc"
+          "name": "El Combo Caribe",
+          "url": "https://open.spotify.com/artist/1uiEaU2CF0ypsPwXXYrm7V"
         }
       ],
-      "duration_ms": 162826,
-      "name": "Los Sabanales",
-      "url": "https://open.spotify.com/track/1CkC4DWgPvj4eEMgxcs0me"
+      "duration_ms": 287146,
+      "name": "Loquito por Ti",
+      "url": "https://open.spotify.com/track/1pCNUXYpoEzI4eA38NgHcz"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -1099,22 +1099,22 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "El Mejor Int\u00e9rprete Tropical - 16 Exitos",
-        "url": "https://open.spotify.com/album/5Hix3j0dTfiiRIcgGBp7yD"
+        "name": "Estrellas Corraleras - Fundadores de la Cumbia Colombiana",
+        "url": "https://open.spotify.com/album/5HthmfIydsx1AIrsdyjP99"
       },
       "artists": [
         {
-          "name": "Armando Hernandez",
-          "url": "https://open.spotify.com/artist/5f5z4wggh1hbr6Dg0BnoCe"
+          "name": "Los Corraleros De Majagual",
+          "url": "https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4"
         },
         {
-          "name": "El Combo Caribe",
-          "url": "https://open.spotify.com/artist/1uiEaU2CF0ypsPwXXYrm7V"
+          "name": "Calixto Ochoa",
+          "url": "https://open.spotify.com/artist/1kclvXVC4HRnMB8QtJRBDc"
         }
       ],
-      "duration_ms": 287146,
-      "name": "Loquito por Ti",
-      "url": "https://open.spotify.com/track/1pCNUXYpoEzI4eA38NgHcz"
+      "duration_ms": 162826,
+      "name": "Los Sabanales",
+      "url": "https://open.spotify.com/track/1CkC4DWgPvj4eEMgxcs0me"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -1199,26 +1199,6 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "Felices Pascuas",
-        "url": "https://open.spotify.com/album/5ZfFl3nLmKSGdN3pKrVBQ6"
-      },
-      "artists": [
-        {
-          "name": "Bobby Cruz",
-          "url": "https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4"
-        },
-        {
-          "name": "Ricardo \"Richie\" Ray",
-          "url": "https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc"
-        }
-      ],
-      "duration_ms": 306760,
-      "name": "Bomba en Navidad",
-      "url": "https://open.spotify.com/track/2kIawdmEzVhR9F0Z8EsOns"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/2irtmCoBvtFbvPqARMflg6"
       },
@@ -1263,6 +1243,26 @@
       "duration_ms": 143917,
       "name": "Cubita La Bella",
       "url": "https://open.spotify.com/track/6Nc7VYYybev1B7fS9XEWeF"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
+        "name": "Felices Pascuas",
+        "url": "https://open.spotify.com/album/5ZfFl3nLmKSGdN3pKrVBQ6"
+      },
+      "artists": [
+        {
+          "name": "Bobby Cruz",
+          "url": "https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4"
+        },
+        {
+          "name": "Ricardo \"Richie\" Ray",
+          "url": "https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc"
+        }
+      ],
+      "duration_ms": 306760,
+      "name": "Bomba en Navidad",
+      "url": "https://open.spotify.com/track/2kIawdmEzVhR9F0Z8EsOns"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "16 Exitos, Vol. 1",
-        "url": "https://open.spotify.com/album/70JxU1qy1jYkh6EfSFDOv1"
-      },
-      "artists": [
-        {
-          "name": "Pastor Lopez Y Su Combo",
-          "url": "https://open.spotify.com/artist/1OaJc4r2SBZ7Iokg2Gkwde"
-        }
-      ],
-      "duration_ms": 173386,
-      "name": "El Hijo Ausente",
-      "url": "https://open.spotify.com/track/0MylXcqKagwOrtMNQDyj1B"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
         "name": "Internacional",
         "url": "https://open.spotify.com/album/7eAMaa3wNUuI2NBVeeaRB0"
       },
@@ -1351,18 +1335,18 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "Super Buenonas de Parranda y el Gitano Groser\u00f3n",
-        "url": "https://open.spotify.com/album/2I4PIVfDOl7qTwbAKzEzdl"
+        "name": "16 Exitos, Vol. 1",
+        "url": "https://open.spotify.com/album/70JxU1qy1jYkh6EfSFDOv1"
       },
       "artists": [
         {
-          "name": "Gildardo Montoya",
-          "url": "https://open.spotify.com/artist/3eyhtBUxcN1VopDo3UCUg6"
+          "name": "Pastor Lopez Y Su Combo",
+          "url": "https://open.spotify.com/artist/1OaJc4r2SBZ7Iokg2Gkwde"
         }
       ],
-      "duration_ms": 162933,
-      "name": "El Arruinao",
-      "url": "https://open.spotify.com/track/2ECNhpxm22jpykDObxrfe1"
+      "duration_ms": 173386,
+      "name": "El Hijo Ausente",
+      "url": "https://open.spotify.com/track/0MylXcqKagwOrtMNQDyj1B"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -1383,6 +1367,22 @@
       "duration_ms": 235880,
       "name": "La Suavecita",
       "url": "https://open.spotify.com/track/5s2OhbqW2GN75afWXmwC9C"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
+        "name": "Super Buenonas de Parranda y el Gitano Groser\u00f3n",
+        "url": "https://open.spotify.com/album/2I4PIVfDOl7qTwbAKzEzdl"
+      },
+      "artists": [
+        {
+          "name": "Gildardo Montoya",
+          "url": "https://open.spotify.com/artist/3eyhtBUxcN1VopDo3UCUg6"
+        }
+      ],
+      "duration_ms": 162933,
+      "name": "El Arruinao",
+      "url": "https://open.spotify.com/track/2ECNhpxm22jpykDObxrfe1"
     },
     {
       "added_at": "2023-12-20 18:46:33",

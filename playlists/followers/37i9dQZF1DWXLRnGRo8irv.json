@@ -1,5 +1,5 @@
 {
-  "2024-02-21": 9194,
+  "2024-02-22": 9196,
   "date_first_scraped": "2021-12-28",
   "description": "\ud55c\uad6d\uc758 \uc7ac\ub2a5\uc788\ub294 \uc5ec\uc131 \uc544\ud2f0\uc2a4\ud2b8\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694! (Listen Korea\u2019s talented female artists!) (Cover: (G)I-DLE)",
   "name": "EQUAL Korea",
@@ -3671,7 +3671,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 199246,
       "name": "Daydreaming",
       "url": "https://open.spotify.com/track/4W80wY6lOgQaF87Lgkge4P"
@@ -5217,7 +5217,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 271413,
       "name": "Falling in Love is like the Spring Rain, Parting is like the Winter Rain",
       "url": "https://open.spotify.com/track/3ruIFwC4ZPInwM4e5CjsIy"
@@ -6853,6 +6853,24 @@
       "duration_ms": 149718,
       "name": "Hold On Tight",
       "url": "https://open.spotify.com/track/1o844wI52S3TjXGBwvGcc7"
+    },
+    {
+      "album": {
+        "name": "The Winning",
+        "url": "https://open.spotify.com/album/08CvAj58nVMpq1Nw7T6maj"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190786,
+      "name": "Holssi",
+      "url": "https://open.spotify.com/track/0UTtK6hregIBOsefavRI26"
     },
     {
       "album": {
@@ -14265,6 +14283,24 @@
       "duration_ms": 188053,
       "name": "Shiny World",
       "url": "https://open.spotify.com/track/2xc3MkZuDlnfFAWJkOKk2S"
+    },
+    {
+      "album": {
+        "name": "The Winning",
+        "url": "https://open.spotify.com/album/08CvAj58nVMpq1Nw7T6maj"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215720,
+      "name": "Shopper",
+      "url": "https://open.spotify.com/track/1c6kkrWnpy68eYDfBdxNtF"
     },
     {
       "album": {

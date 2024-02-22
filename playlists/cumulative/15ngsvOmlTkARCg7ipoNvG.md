@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,688 songs - 1 day 11 hr 13 min
+1,692 songs - 1 day 11 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,6 +247,7 @@
 | [Blue Night \- Strings Version](https://open.spotify.com/track/5J4UY2wBaJECPhS03SUmM5) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Blue Night \(Strings Version\)](https://open.spotify.com/album/3QYlEzt8NEJf9eDhFRJ8dl) | 1:00 | 2024-02-09 | 2024-02-13 |
 | [Blue November](https://open.spotify.com/track/7Dp3NkWyn3sH61D4cBEySR) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Relaxing Piano, Vol\. 2](https://open.spotify.com/album/4Itys1Pew5j5dpubWyIUSM) | 1:00 | 2023-12-23 | 2024-01-30 |
 | [Blue Waves](https://open.spotify.com/track/2EVPqaEWpr3XrAm2b4eDDw) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Nightfall](https://open.spotify.com/album/2ZqMA0BErQjA4p7pjJsCYJ) | 1:27 | 2022-01-20 |  |
+| [Bonds](https://open.spotify.com/track/72JBytoM9NtMcmpwdJK3PV) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Bonds](https://open.spotify.com/album/7Iqj5fg0T1pMtI8h5G4Agt) | 1:00 | 2024-02-21 |  |
 | [Bowing](https://open.spotify.com/track/6Pumm4keZ0o0PrwfT1G3u3) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Rising Light](https://open.spotify.com/album/0htQDvvGMdICGa3gM2Z8be) | 1:06 | 2022-04-30 |  |
 | [Brahms Lullaby For Cello Reimagined](https://open.spotify.com/track/6GGVeH8uQVj1UassCLLzZe) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Relaxing Cello](https://open.spotify.com/album/10FYDKljITHunEsUCAHFUe) | 1:18 | 2022-01-20 | 2024-01-30 |
 | [Branches](https://open.spotify.com/track/7Csfs76fwDONo8OlA2a8Iy) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Relaxing Piano, Vol\. 2](https://open.spotify.com/album/4Itys1Pew5j5dpubWyIUSM) | 1:00 | 2023-12-23 | 2024-01-30 |
@@ -479,6 +480,8 @@
 | [Entrance](https://open.spotify.com/track/6dGdoxILQLlzY53ioebL8J) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Beyond](https://open.spotify.com/album/2SNyPk3oJs7OPDHJoCxM8I) | 1:06 | 2022-01-12 |  |
 | [Epiphany](https://open.spotify.com/track/0wfJf6rBNeWbEqxCDPIpPF) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Epiphany](https://open.spotify.com/album/2gKqOBWk3TJpK6kxaoloNR) | 1:01 | 2022-06-18 |  |
 | [Epiphany](https://open.spotify.com/track/3Le8RtrEcTAeunCW7lP4I7) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Ambient Afternoons](https://open.spotify.com/album/67GF4s8iNVzIFneqrd8UsL) | 1:00 | 2024-02-11 |  |
+| [Eternal](https://open.spotify.com/track/0U6EeKfcfOfr4YFAwZf89n) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Eternal](https://open.spotify.com/album/2ZIQufrOHWVRU6j6HSUznQ) | 1:00 | 2024-02-21 |  |
+| [Eternal \- Cello Version](https://open.spotify.com/track/71VFERRJh5OoP2y3tmqEF9) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Eternal](https://open.spotify.com/album/2ZIQufrOHWVRU6j6HSUznQ) | 1:00 | 2024-02-21 |  |
 | [Eternal Lights](https://open.spotify.com/track/7GKshtIrk5XPndYI1dZkf9) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Serene Moments](https://open.spotify.com/album/6u831RiIAfoxHs2kG8Bzwm) | 1:01 | 2022-06-01 |  |
 | [Etiquette](https://open.spotify.com/track/0w5IxASdcsL3cm5hgdmZl0) | [Ian Wong](https://open.spotify.com/artist/7oYdrlz2ZllyvCmCZ4c0MK), [Brique a Braq](https://open.spotify.com/artist/5SkCoDbdYJn9RkWHTa1CUF) | [Etiquette](https://open.spotify.com/album/6YotdvtodHrZbDsNxOJZgl) | 2:30 | 2022-01-12 | 2023-04-09 |
 | [Evanescent](https://open.spotify.com/track/46b5bZRYrsyWXxVjzHD4QB) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Evanescent](https://open.spotify.com/album/5C41RQX8jeD0usLx7kA1wD) | 1:49 | 2022-01-12 | 2024-01-30 |
@@ -493,6 +496,7 @@
 | [Everlasting Arr\. For Cello](https://open.spotify.com/track/1Dwf1lQMYleRwzqyvtjxAR) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Two Ambient Cello Preludes](https://open.spotify.com/album/0eIrD6HWVSGLHqnIHQ3y48) | 1:00 | 2023-06-27 |  |
 | [Everlasting Arr\. For Violin](https://open.spotify.com/track/7EgTJIHVHTvHWxiSXhRyAu) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Everlasting Arr\. For Violin](https://open.spotify.com/album/2aKb8xHKMFHj6RGdvMZuRv) | 1:00 | 2023-06-24 |  |
 | [Everlasting Hope](https://open.spotify.com/track/627VlJ5NQcUPniUWZ9wDjH) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Inner Beauty](https://open.spotify.com/album/6weKQrpQ7Pi4wLKdvQEuD8) | 1:00 | 2022-06-05 |  |
+| [Everything](https://open.spotify.com/track/0zkm8mrM0MfeglZn50dCBw) | [Harp Flow](https://open.spotify.com/artist/1dTMXyW6jjoTvvf7ktsuGH) | [Everything](https://open.spotify.com/album/6YgaOEu7ROQWVhMqdlZAfZ) | 1:00 | 2024-02-21 |  |
 | [Everything Forever](https://open.spotify.com/track/5c9LhCTW7npWD0JNTcnchC) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Memories, Vol\. 2](https://open.spotify.com/album/4fgMhnmLUlZCGbz9Eh1ECd) | 1:02 | 2024-02-09 | 2024-02-13 |
 | [Everything I Lost](https://open.spotify.com/track/7aKEitPskoIINo32WUd7cq) | [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft), [Sunshine Recorder](https://open.spotify.com/artist/0C7vbfD3UtshkAi5BjrpA8) | [Memoir Collections II \- Dream Journal](https://open.spotify.com/album/7uEPmMVoqbXy8JJ6GTDHFM) | 2:39 | 2022-01-12 | 2023-08-01 |
 | [Everything Is Fleeting](https://open.spotify.com/track/26NGo7kxvXamqiGCJtd4m0) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Reflections](https://open.spotify.com/album/5Eh7lUr6T3rJo5C8naqOC2) | 1:39 | 2022-01-12 | 2024-01-30 |

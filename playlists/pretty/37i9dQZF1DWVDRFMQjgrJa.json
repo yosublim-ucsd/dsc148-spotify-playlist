@@ -1,12 +1,12 @@
 {
   "description": "Ya llegu\u00e9 de donde andaba... se me concedi\u00f3 volver \ud83d\ude4f\ud83c\udffe",
-  "num_followers": 130137,
+  "num_followers": 130282,
   "original_name": "Llegando al Rancho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODYwMWZiMmE3MWU1YjI3YjUwNTQ2Nzg0ZDdiOWZhN2M1OGEzOWZl",
+  "snapshot_id": "MCxlNTA4NWIzZTYwZjNjOGEyNzg5M2IwNzcxZTkyMjVkMWEyZjY5YmI3",
   "tracks": [
     {
       "added_at": "2023-08-08 23:43:12",
@@ -75,22 +75,6 @@
     {
       "added_at": "2023-08-08 23:43:12",
       "album": {
-        "name": "Algo De Mi",
-        "url": "https://open.spotify.com/album/3B9MzXXUxN220d67ev3g6R"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Primavera",
-          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
-        }
-      ],
-      "duration_ms": 236453,
-      "name": "Algo De M\u00ed",
-      "url": "https://open.spotify.com/track/06WecehO0wgP8jJIoCURKl"
-    },
-    {
-      "added_at": "2023-08-08 23:43:12",
-      "album": {
         "name": "Vuelvo Contigo",
         "url": "https://open.spotify.com/album/3Bqrpyh09jij3b2SiqzQlU"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 161493,
       "name": "A M\u00ed, \u00bfQu\u00e9 Me Qued\u00f3?",
       "url": "https://open.spotify.com/track/0b72rOmkspR8dJHsUjaVi4"
+    },
+    {
+      "added_at": "2023-08-08 23:43:12",
+      "album": {
+        "name": "Algo De Mi",
+        "url": "https://open.spotify.com/album/3B9MzXXUxN220d67ev3g6R"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Primavera",
+          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
+        }
+      ],
+      "duration_ms": 236453,
+      "name": "Algo De M\u00ed",
+      "url": "https://open.spotify.com/track/06WecehO0wgP8jJIoCURKl"
     },
     {
       "added_at": "2023-08-08 23:43:12",
@@ -159,18 +159,18 @@
     {
       "added_at": "2023-08-08 23:43:12",
       "album": {
-        "name": "Perd\u00f3name Mi Amor",
-        "url": "https://open.spotify.com/album/0jfIHJWOzvDLrYGcIyc2TA"
+        "name": "Antonio Aguilar Con Tambora, Vol. 2",
+        "url": "https://open.spotify.com/album/69YwhTINpm6QzCUz6ZwZUd"
       },
       "artists": [
         {
-          "name": "Conjunto Primavera",
-          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
         }
       ],
-      "duration_ms": 159373,
-      "name": "Una Vez M\u00e1s",
-      "url": "https://open.spotify.com/track/3pd1YpH2Zx9iRCaOSxKdVT"
+      "duration_ms": 188395,
+      "name": "Un Pu\u00f1o De Tierra",
+      "url": "https://open.spotify.com/track/6a5GOVslUy8aYnXrk2yiMb"
     },
     {
       "added_at": "2023-08-08 23:43:12",
@@ -259,6 +259,22 @@
     {
       "added_at": "2023-08-08 23:43:12",
       "album": {
+        "name": "Perd\u00f3name Mi Amor",
+        "url": "https://open.spotify.com/album/0jfIHJWOzvDLrYGcIyc2TA"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Primavera",
+          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
+        }
+      ],
+      "duration_ms": 159373,
+      "name": "Una Vez M\u00e1s",
+      "url": "https://open.spotify.com/track/3pd1YpH2Zx9iRCaOSxKdVT"
+    },
+    {
+      "added_at": "2023-08-08 23:43:12",
+      "album": {
         "name": "Los Huracanes del Norte - 40 Aniversario",
         "url": "https://open.spotify.com/album/2j5szS1qydIXtQl79I6TPW"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 176453,
       "name": "Seis Pies Abajo",
       "url": "https://open.spotify.com/track/6oiKbZIaQ8A0Rnsq9jMJ1E"
-    },
-    {
-      "added_at": "2023-08-08 23:43:12",
-      "album": {
-        "name": "Antonio Aguilar Con Tambora, Vol. 2",
-        "url": "https://open.spotify.com/album/69YwhTINpm6QzCUz6ZwZUd"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 188395,
-      "name": "Un Pu\u00f1o De Tierra",
-      "url": "https://open.spotify.com/track/6a5GOVslUy8aYnXrk2yiMb"
     },
     {
       "added_at": "2023-08-08 23:43:12",
@@ -631,18 +631,18 @@
     {
       "added_at": "2023-08-08 23:43:12",
       "album": {
-        "name": "Debajo De Los Laureles",
-        "url": "https://open.spotify.com/album/3B80b6IGp3cnt5r190PwvZ"
+        "name": "En Vivo Para Ti",
+        "url": "https://open.spotify.com/album/62WpT7OULJFmbpS9CAWD7b"
       },
       "artists": [
         {
-          "name": "Banda Sinaloense Los Recoditos",
-          "url": "https://open.spotify.com/artist/7IUkPNJ8qmoD5i3TcRYpXF"
+          "name": "Conjunto Primavera",
+          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
         }
       ],
-      "duration_ms": 151742,
-      "name": "Debajo De Los Laureles",
-      "url": "https://open.spotify.com/track/45TkoeSmoScX2TYzLWnSSK"
+      "duration_ms": 155466,
+      "name": "Por Las Calles De Chihuahua - En Vivo",
+      "url": "https://open.spotify.com/track/0oH9BvTBasSw2Uqc16INwz"
     },
     {
       "added_at": "2023-08-08 23:43:12",
@@ -679,34 +679,18 @@
     {
       "added_at": "2023-08-08 23:43:12",
       "album": {
-        "name": "En Vivo Para Ti",
-        "url": "https://open.spotify.com/album/62WpT7OULJFmbpS9CAWD7b"
+        "name": "Debajo De Los Laureles",
+        "url": "https://open.spotify.com/album/3B80b6IGp3cnt5r190PwvZ"
       },
       "artists": [
         {
-          "name": "Conjunto Primavera",
-          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
+          "name": "Banda Sinaloense Los Recoditos",
+          "url": "https://open.spotify.com/artist/7IUkPNJ8qmoD5i3TcRYpXF"
         }
       ],
-      "duration_ms": 155466,
-      "name": "Por Las Calles De Chihuahua - En Vivo",
-      "url": "https://open.spotify.com/track/0oH9BvTBasSw2Uqc16INwz"
-    },
-    {
-      "added_at": "2023-08-08 23:43:12",
-      "album": {
-        "name": "Corridos Con Banda Sinaloense",
-        "url": "https://open.spotify.com/album/0bPR3bUpsocBTRUq8nLIAd"
-      },
-      "artists": [
-        {
-          "name": "El As De La Sierra",
-          "url": "https://open.spotify.com/artist/6uQMkB156uIN27tFar9qQl"
-        }
-      ],
-      "duration_ms": 175773,
-      "name": "El Muchacho Alegre",
-      "url": "https://open.spotify.com/track/46JH1FKDzRABty9nX8sIee"
+      "duration_ms": 151742,
+      "name": "Debajo De Los Laureles",
+      "url": "https://open.spotify.com/track/45TkoeSmoScX2TYzLWnSSK"
     },
     {
       "added_at": "2023-08-08 23:43:12",
@@ -727,18 +711,34 @@
     {
       "added_at": "2023-08-08 23:43:12",
       "album": {
-        "name": "Concedeme",
-        "url": "https://open.spotify.com/album/74dTTdKKCU5SXZpJvdSygY"
+        "name": "Corridos Con Banda Sinaloense",
+        "url": "https://open.spotify.com/album/0bPR3bUpsocBTRUq8nLIAd"
       },
       "artists": [
         {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+          "name": "El As De La Sierra",
+          "url": "https://open.spotify.com/artist/6uQMkB156uIN27tFar9qQl"
         }
       ],
-      "duration_ms": 142866,
-      "name": "Mi Ranchito",
-      "url": "https://open.spotify.com/track/2rPbkr5Y83bR3WPscwJU2O"
+      "duration_ms": 175773,
+      "name": "El Muchacho Alegre",
+      "url": "https://open.spotify.com/track/46JH1FKDzRABty9nX8sIee"
+    },
+    {
+      "added_at": "2023-08-08 23:43:12",
+      "album": {
+        "name": "Con Fuerza y Sentimiento: Legado Norte\u00f1o",
+        "url": "https://open.spotify.com/album/2eQNUZSF2grKGYk05AZ68f"
+      },
+      "artists": [
+        {
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+        }
+      ],
+      "duration_ms": 143920,
+      "name": "Pa Que Te Casabas Juan",
+      "url": "https://open.spotify.com/track/7pyAF0dBag9O31t5xKtHsL"
     },
     {
       "added_at": "2023-08-08 23:43:12",
@@ -759,18 +759,18 @@
     {
       "added_at": "2023-08-08 23:43:12",
       "album": {
-        "name": "Con Fuerza y Sentimiento: Legado Norte\u00f1o",
-        "url": "https://open.spotify.com/album/2eQNUZSF2grKGYk05AZ68f"
+        "name": "Concedeme",
+        "url": "https://open.spotify.com/album/74dTTdKKCU5SXZpJvdSygY"
       },
       "artists": [
         {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
         }
       ],
-      "duration_ms": 143920,
-      "name": "Pa Que Te Casabas Juan",
-      "url": "https://open.spotify.com/track/7pyAF0dBag9O31t5xKtHsL"
+      "duration_ms": 142866,
+      "name": "Mi Ranchito",
+      "url": "https://open.spotify.com/track/2rPbkr5Y83bR3WPscwJU2O"
     },
     {
       "added_at": "2023-08-08 23:43:12",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2023-08-08 23:43:12",
       "album": {
-        "name": "15 Boleros de Oro",
-        "url": "https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6"
+        "name": "Hablando Claro",
+        "url": "https://open.spotify.com/album/6RsUI2bxtHfbGTV5EnCILh"
       },
       "artists": [
         {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+          "name": "Banda Movil",
+          "url": "https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK"
         }
       ],
-      "duration_ms": 160426,
-      "name": "Desprecio",
-      "url": "https://open.spotify.com/track/5rCzc6hBzVUiK9iYoIO7CU"
+      "duration_ms": 137893,
+      "name": "Hablando Claro",
+      "url": "https://open.spotify.com/track/0gqoQHLcWzZcls7KzYd6xT"
     },
     {
       "added_at": "2023-08-08 23:43:12",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2023-08-08 23:43:12",
       "album": {
-        "name": "Hablando Claro",
-        "url": "https://open.spotify.com/album/6RsUI2bxtHfbGTV5EnCILh"
+        "name": "15 Boleros de Oro",
+        "url": "https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6"
       },
       "artists": [
         {
-          "name": "Banda Movil",
-          "url": "https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK"
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
         }
       ],
-      "duration_ms": 137893,
-      "name": "Hablando Claro",
-      "url": "https://open.spotify.com/track/0gqoQHLcWzZcls7KzYd6xT"
+      "duration_ms": 160426,
+      "name": "Desprecio",
+      "url": "https://open.spotify.com/track/5rCzc6hBzVUiK9iYoIO7CU"
     },
     {
       "added_at": "2023-08-08 23:43:12",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-08-08 23:43:12",
       "album": {
-        "name": "El Chubasco",
-        "url": "https://open.spotify.com/album/1oQhHSiiwH70dTxyBWvUa1"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 140813,
-      "name": "Ven a Buscarme",
-      "url": "https://open.spotify.com/track/366vc0v9AUlaaptDDst1xn"
-    },
-    {
-      "added_at": "2023-08-08 23:43:12",
-      "album": {
         "name": "Chalino S\u00e1nchez con Banda Brava",
         "url": "https://open.spotify.com/album/4GmmvkdzlwP5TDac2be0hK"
       },
@@ -1195,22 +1179,6 @@
     {
       "added_at": "2023-08-08 23:43:12",
       "album": {
-        "name": "Vali\u00f3 La Pena Equivocarme",
-        "url": "https://open.spotify.com/album/4t7S30Ny12DvWnGAY6JpUm"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 142773,
-      "name": "Ojitos Verdes",
-      "url": "https://open.spotify.com/track/2IQNiCvRnwTmd2Ddo2QR5Q"
-    },
-    {
-      "added_at": "2023-08-08 23:43:12",
-      "album": {
         "name": "Por Las Calles Enlodadas",
         "url": "https://open.spotify.com/album/5Dxgtj1Vd7vpOC5vnNrJhD"
       },
@@ -1223,6 +1191,38 @@
       "duration_ms": 148573,
       "name": "El Amor No Se Vende",
       "url": "https://open.spotify.com/track/6kryfJVx06nofw6Z3bVUjx"
+    },
+    {
+      "added_at": "2023-08-08 23:43:12",
+      "album": {
+        "name": "El Chubasco",
+        "url": "https://open.spotify.com/album/1oQhHSiiwH70dTxyBWvUa1"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 140813,
+      "name": "Ven a Buscarme",
+      "url": "https://open.spotify.com/track/366vc0v9AUlaaptDDst1xn"
+    },
+    {
+      "added_at": "2023-08-08 23:43:12",
+      "album": {
+        "name": "Vali\u00f3 La Pena Equivocarme",
+        "url": "https://open.spotify.com/album/4t7S30Ny12DvWnGAY6JpUm"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 142773,
+      "name": "Ojitos Verdes",
+      "url": "https://open.spotify.com/track/2IQNiCvRnwTmd2Ddo2QR5Q"
     },
     {
       "added_at": "2023-08-08 23:43:12",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2023-08-08 23:43:12",
       "album": {
+        "name": "Puros \u00c9xitos",
+        "url": "https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 186146,
+      "name": "Esta Noche Tu Vendr\u00e1s",
+      "url": "https://open.spotify.com/track/5DeI2kjUIdG1uvNQP2feJR"
+    },
+    {
+      "added_at": "2023-08-08 23:43:12",
+      "album": {
         "name": "Pa' Puros Compas!, Vol. 1: Por una Mujer Casada y Otras Rancheras",
         "url": "https://open.spotify.com/album/5jqZyPBi6NXenINRZ7e0QJ"
       },
@@ -1275,18 +1291,22 @@
     {
       "added_at": "2023-08-08 23:43:12",
       "album": {
-        "name": "Puros \u00c9xitos",
-        "url": "https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo"
+        "name": "Chalino S\u00e1nchez con Banda Brava",
+        "url": "https://open.spotify.com/album/4GmmvkdzlwP5TDac2be0hK"
       },
       "artists": [
         {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        },
+        {
+          "name": "Banda Brava",
+          "url": "https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk"
         }
       ],
-      "duration_ms": 186146,
-      "name": "Esta Noche Tu Vendr\u00e1s",
-      "url": "https://open.spotify.com/track/5DeI2kjUIdG1uvNQP2feJR"
+      "duration_ms": 196429,
+      "name": "Prenda Del Alma",
+      "url": "https://open.spotify.com/track/2wCgY4izSH5k8Dy6bUaO7H"
     },
     {
       "added_at": "2023-08-08 23:43:12",
@@ -1323,42 +1343,6 @@
     {
       "added_at": "2023-08-08 23:43:12",
       "album": {
-        "name": "Chalino S\u00e1nchez con Banda Brava",
-        "url": "https://open.spotify.com/album/4GmmvkdzlwP5TDac2be0hK"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        },
-        {
-          "name": "Banda Brava",
-          "url": "https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk"
-        }
-      ],
-      "duration_ms": 196429,
-      "name": "Prenda Del Alma",
-      "url": "https://open.spotify.com/track/2wCgY4izSH5k8Dy6bUaO7H"
-    },
-    {
-      "added_at": "2023-08-08 23:43:12",
-      "album": {
-        "name": "Con La No. 1: Del Pueblo...y Para El Pueblo",
-        "url": "https://open.spotify.com/album/67KfLdhQa8X7kI1XM8eJaw"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 141146,
-      "name": "De Un Rancho a Otro",
-      "url": "https://open.spotify.com/track/5lwBQu9iHUKVQ78hFFb9ZY"
-    },
-    {
-      "added_at": "2023-08-08 23:43:12",
-      "album": {
         "name": "Vali\u00f3 La Pena Equivocarme",
         "url": "https://open.spotify.com/album/4t7S30Ny12DvWnGAY6JpUm"
       },
@@ -1391,6 +1375,22 @@
     {
       "added_at": "2023-08-08 23:43:12",
       "album": {
+        "name": "Con La No. 1: Del Pueblo...y Para El Pueblo",
+        "url": "https://open.spotify.com/album/67KfLdhQa8X7kI1XM8eJaw"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 141146,
+      "name": "De Un Rancho a Otro",
+      "url": "https://open.spotify.com/track/5lwBQu9iHUKVQ78hFFb9ZY"
+    },
+    {
+      "added_at": "2023-08-08 23:43:12",
+      "album": {
         "name": "La Historia De Los \u00c9xitos (20 S\u00faper Temas)",
         "url": "https://open.spotify.com/album/01SHiQD1sR754F0RihRJjI"
       },
@@ -1419,6 +1419,26 @@
       "duration_ms": 195053,
       "name": "La Novia del Pajarillo",
       "url": "https://open.spotify.com/track/3a3zWf3i4MKwY1tRjALqXm"
+    },
+    {
+      "added_at": "2023-08-08 23:43:12",
+      "album": {
+        "name": "Chalino S\u00e1nchez con Banda Brava",
+        "url": "https://open.spotify.com/album/4GmmvkdzlwP5TDac2be0hK"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        },
+        {
+          "name": "Banda Brava",
+          "url": "https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk"
+        }
+      ],
+      "duration_ms": 175415,
+      "name": "Florita Del Alma",
+      "url": "https://open.spotify.com/track/6SdsyCzGpDY5czmoGaczHK"
     },
     {
       "added_at": "2023-08-08 23:43:12",
@@ -1483,26 +1503,6 @@
       "duration_ms": 193116,
       "name": "Ambici\u00f3n de Quererte",
       "url": "https://open.spotify.com/track/6xZy0uJX3y2jpNKiX8oS6j"
-    },
-    {
-      "added_at": "2023-08-08 23:43:12",
-      "album": {
-        "name": "Chalino S\u00e1nchez con Banda Brava",
-        "url": "https://open.spotify.com/album/4GmmvkdzlwP5TDac2be0hK"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        },
-        {
-          "name": "Banda Brava",
-          "url": "https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk"
-        }
-      ],
-      "duration_ms": 175415,
-      "name": "Florita Del Alma",
-      "url": "https://open.spotify.com/track/6SdsyCzGpDY5czmoGaczHK"
     },
     {
       "added_at": "2023-08-08 23:43:12",

@@ -13339,6 +13339,24 @@
     },
     {
       "album": {
+        "name": "Only You (Bargobargo X Yebit)",
+        "url": "https://open.spotify.com/album/1eHnLAfXK4mgSlSSXnWbeg"
+      },
+      "artists": [
+        {
+          "name": "Yebit",
+          "url": "https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226866,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/3Mt6BKkyUfbuJwjEurTeYr"
+    },
+    {
+      "album": {
         "name": "Only you (Romance 101 X Yang Yo Seop)",
         "url": "https://open.spotify.com/album/0pB5NYeRyaboqz4ZUFdxhZ"
       },

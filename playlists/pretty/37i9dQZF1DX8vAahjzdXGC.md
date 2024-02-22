@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Dua Lipa
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,608 likes - 87 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,641 likes - 87 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 72 | [River](https://open.spotify.com/track/3UrmjZcjcYP3zFUdfWOy46) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [River](https://open.spotify.com/album/7jfhFHdRgOjyDAvIZ4WNL8) | 2:36 |
 | 73 | [Rooftop \(옥탑\)](https://open.spotify.com/track/7kdbbVFmNzsTGpQRTrBtCl) | [Flowsik](https://open.spotify.com/artist/4N2CbwZ7ekytt9Oi5dh4Vq) | [Worlds Apart](https://open.spotify.com/album/1NGVSYnU5H1g0IWOEyuYNq) | 2:37 |
 | 74 | [Spi\-cy \(feat\. Soo\-Yeony\)](https://open.spotify.com/track/0UaFnYtyBYf1DX6oiVtG3n) | [ONLEE](https://open.spotify.com/artist/673y8xDyKRPiixhztTAOIR), [Soo\-Yeony](https://open.spotify.com/artist/2xHDCGwsXvDCLDeF555iki) | [Spi\-cy \(feat\. Soo\-Yeony\)](https://open.spotify.com/album/5wSgsjV4Wb93tcuM75oIEC) | 3:09 |
-| 75 | [K′up](https://open.spotify.com/track/0C6Y6Vhft4YrnmKS3nM5oR) | [Don Malik](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE) | [K′up](https://open.spotify.com/album/7k0cYSTwHYUDltxrArQ6eF) | 3:09 |
+| 75 | [K′up](https://open.spotify.com/track/0C6Y6Vhft4YrnmKS3nM5oR) | [DON MALIK](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE) | [K′up](https://open.spotify.com/album/7k0cYSTwHYUDltxrArQ6eF) | 3:09 |
 | 76 | [?? \(Feat\. Choi Jungyoon\)](https://open.spotify.com/track/2r0InU4FaekWGNoQK8O0fX) | [Kanto](https://open.spotify.com/artist/1Pr77yszl1ikj6k9sy4Cju), [Choi Jungyoon](https://open.spotify.com/artist/1jpRO6feBr1rjOCSHzu3Xi) | [?? \(Feat\. Choi Jungyoon\)](https://open.spotify.com/album/0sxlmnmBXIopIqldzbj5YN) | 2:45 |
 | 77 | [Dance In The Rain](https://open.spotify.com/track/5IP4Bry0aWmm4OPjNvbUwo) | [Aziz Harun](https://open.spotify.com/artist/1dmuM6bG5J8sDFyp26x9Nf) | [Dance In The Rain](https://open.spotify.com/album/6UtfYR4G15Jqu0s7uOz6Lv) | 2:34 |
 | 78 | [loose ends](https://open.spotify.com/track/41ebdHkSEAtXHiDEv4FION) | [lewloh](https://open.spotify.com/artist/31TM5zBknJ7ZInbxnR0rlX) | [loose ends](https://open.spotify.com/album/0jvScbCxaPwBztE5hufbUV) | 2:48 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 86 | [Be Yours](https://open.spotify.com/track/3Jjwrk3xgnJWPTc48GYhWg) | [Cliff](https://open.spotify.com/artist/3jjbX9cm5Np3ekAypS71si) | [Be Yours](https://open.spotify.com/album/7vM7i3keTw97YelVp8akgg) | 3:04 |
 | 87 | [Nowhere](https://open.spotify.com/track/5d9QunA2YMB6gKQ65fE8cs) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [Nowhere](https://open.spotify.com/album/1NgOh8j1ai2Qs67m48gLd9) | 2:46 |
 
-Snapshot ID: `MCxiYmZiZTJkNDMzMjI2NGQxOGU4NjM2NjY1OGJjNWM3OWMyMGY0OTM2`
+Snapshot ID: `MCwxMWNmZDYwM2JiYjg1MmJiMzJkMWE2OTFmMjA5NjViOGE2YTE0NmVi`

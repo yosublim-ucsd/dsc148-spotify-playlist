@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0iw5UY.md) - [plain]
 
 > This is Krewella\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,872 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,874 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0iw5UY.md) - [plain]
 | 10 | [New World](https://open.spotify.com/track/2gBQ35qqBE75t00kV221Xy) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Taylor Bennett](https://open.spotify.com/artist/6CqjoQyGZlnhnq5gAUz92c) | [New World](https://open.spotify.com/album/5dQU0fKWQiAug7KBahk3Gj) | 2:41 |
 | 11 | [Enjoy the Ride](https://open.spotify.com/track/6UEJtAnGHnK5tVhoPHD6tU) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Get Wet](https://open.spotify.com/album/1Y7A8ZaZ9QyeeOa3uWQJqc) | 3:31 |
 | 12 | [Rewind](https://open.spotify.com/track/0lzwqIfqmTXRl5mpM6zSiY) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh) | [Rewind](https://open.spotify.com/album/7BWKPZiH5qqYX6nZxKBnu9) | 2:59 |
-| 13 | [Alarm \- WE ARE FURY Remix](https://open.spotify.com/track/4ZbQvhuML79GPnoxloXE0j) | [Lookas](https://open.spotify.com/artist/27fy6rHPC58Eo2VUu0iJSG), [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [WE ARE FURY](https://open.spotify.com/artist/44Wi4QHWK4CzACCqCyxo3x) | [Lucid \(The Remixes\)](https://open.spotify.com/album/1assR3OlxCGXOBays37pqQ) | 3:07 |
-| 14 | [Calm Down](https://open.spotify.com/track/6BRtWlr1VmsiPjIFnvg9Qv) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [New World Pt\. 1](https://open.spotify.com/album/2Ar8jEA2FlEofQbzLZAcXz) | 3:10 |
+| 13 | [Calm Down](https://open.spotify.com/track/6BRtWlr1VmsiPjIFnvg9Qv) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [New World Pt\. 1](https://open.spotify.com/album/2Ar8jEA2FlEofQbzLZAcXz) | 3:10 |
+| 14 | [Alarm \- WE ARE FURY Remix](https://open.spotify.com/track/4ZbQvhuML79GPnoxloXE0j) | [Lookas](https://open.spotify.com/artist/27fy6rHPC58Eo2VUu0iJSG), [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [WE ARE FURY](https://open.spotify.com/artist/44Wi4QHWK4CzACCqCyxo3x) | [Lucid \(The Remixes\)](https://open.spotify.com/album/1assR3OlxCGXOBays37pqQ) | 3:07 |
 | 15 | [Goddess](https://open.spotify.com/track/4KIoBpLdHX7nERPfDROJWR) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [Goddess](https://open.spotify.com/album/1LxrrnNOm8an34LWCc48Ue) | 2:57 |
 | 16 | [Legacy \- Radio Edit](https://open.spotify.com/track/4IWLawtdMznqdOnbOR9cWW) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Legacy](https://open.spotify.com/album/1HbbLX5HgVZS3l3JADKBg7) | 3:15 |
 | 17 | [Human](https://open.spotify.com/track/6vIUovlj8NGi1JfnzVUUBI) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Get Wet](https://open.spotify.com/album/1Y7A8ZaZ9QyeeOa3uWQJqc) | 3:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0iw5UY.md) - [plain]
 | 49 | [Ring of Fire](https://open.spotify.com/track/6RrVbO6ecgyM51DMDklCPL) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Get Wet](https://open.spotify.com/album/1Y7A8ZaZ9QyeeOa3uWQJqc) | 4:23 |
 | 50 | [zer0](https://open.spotify.com/track/7nMBN3eKuRfcQGEnzDeNKP) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [zer0](https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb) | 3:47 |
 
-Snapshot ID: `Mjg0NzQxMzEsMDAwMDAwMDBjNDdmMjA5YzgxMzBiMzJjNTJhOTkxN2QwYjkxMzA0NQ==`
+Snapshot ID: `Mjg0NzUyOTEsMDAwMDAwMDA0NTgyZWUxNjRhZGFiOGQ1ODQ0ZTkwODIxNWViY2E3ZQ==`

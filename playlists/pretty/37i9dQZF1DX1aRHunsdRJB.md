@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 
 > A playlist driven from the islands, take the front seat as Soca meets Bashment
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,468 likes - 68 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,466 likes - 68 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 | 57 | [Rough Wine](https://open.spotify.com/track/2bdltgpX7AB5E6oISNcGKt) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Precision Productions](https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA) | [We Muzik: Soca 2018 Trinidad and Tobago Carnival, Vol\. 9](https://open.spotify.com/album/5ae3pB9huSD5ZRXWBK2zih) | 3:23 |
 | 58 | [Ba Ba Ben \- Remix](https://open.spotify.com/track/71XZiTsbFbZoYFwIVBYSQR) | [DJ CHEEM](https://open.spotify.com/artist/73srMZV12x8XvV4r8VekHZ), [Lyrikal](https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng), [Noah Powa](https://open.spotify.com/artist/48gJBFt1TIiFXaUEHnzNwN), [Lil Rick](https://open.spotify.com/artist/2JHvSRTVaQp5riTM8GoXBA) | [Ba Ba Ben \(Remix\)](https://open.spotify.com/album/5BXDWRiFkMijKVlK7yV3ug) | 3:25 |
 | 59 | [Honda](https://open.spotify.com/track/0MpfX3Q5omIiuREWGeLLwF) | [Twani](https://open.spotify.com/artist/2Pq8Zpk0RrS8tBFF4xTqAh) | [Honda](https://open.spotify.com/album/73GCIsIqvyDYBEieDAN0P1) | 3:33 |
-| 60 | [Who Pay!? \(Big Bumpa\) \[feat\. Salty & Sekon Sta\]](https://open.spotify.com/track/1NXihWA24LSLJGWbkmK4D8) | [Skorch Bun It](https://open.spotify.com/artist/7ylwp2wfBZGg6NhrqTKFqZ), [CoolBlaze](https://open.spotify.com/artist/7MfpWE7ToeVCeyyQdcEdkf), [Salty](https://open.spotify.com/artist/5wTiDWdoGJYXviy2rK8Out), [Sekon Sta](https://open.spotify.com/artist/6Q08wCr0QX7xdn58DFJKLZ) | [Baby Bells Riddim](https://open.spotify.com/album/71I3LHledB7nFklXLc0GCY) | 3:47 |
-| 61 | [Wuk](https://open.spotify.com/track/5e9KCW4doT8xvliiDO8urK) | [DJ Spider](https://open.spotify.com/artist/4IIKLm6H0rXxvn6DWNhWcq), [Sir Fingaz](https://open.spotify.com/artist/64LrJCEMV2Ft7yP6YvD7GU), [Marzville](https://open.spotify.com/artist/0EW8oVadcmlxZevZFlPm9P) | [Jollof Rice Riddim](https://open.spotify.com/album/4twnYdvTuLBX29k0AImPAB) | 3:01 |
+| 60 | [Wuk](https://open.spotify.com/track/5e9KCW4doT8xvliiDO8urK) | [DJ Spider](https://open.spotify.com/artist/4IIKLm6H0rXxvn6DWNhWcq), [Sir Fingaz](https://open.spotify.com/artist/64LrJCEMV2Ft7yP6YvD7GU), [Marzville](https://open.spotify.com/artist/0EW8oVadcmlxZevZFlPm9P) | [Jollof Rice Riddim](https://open.spotify.com/album/4twnYdvTuLBX29k0AImPAB) | 3:01 |
+| 61 | [Who Pay!? \(Big Bumpa\) \[feat\. Salty & Sekon Sta\]](https://open.spotify.com/track/1NXihWA24LSLJGWbkmK4D8) | [Skorch Bun It](https://open.spotify.com/artist/7ylwp2wfBZGg6NhrqTKFqZ), [CoolBlaze](https://open.spotify.com/artist/7MfpWE7ToeVCeyyQdcEdkf), [Salty](https://open.spotify.com/artist/5wTiDWdoGJYXviy2rK8Out), [Sekon Sta](https://open.spotify.com/artist/6Q08wCr0QX7xdn58DFJKLZ) | [Baby Bells Riddim](https://open.spotify.com/album/71I3LHledB7nFklXLc0GCY) | 3:47 |
 | 62 | [Wine](https://open.spotify.com/track/2gWT6JsauOrGYR1jForaRQ) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [Toco Loco Riddim](https://open.spotify.com/album/2ob3YAOPzGhkHbj9JjIq7R) | 3:04 |
 | 63 | [Bus a Wine](https://open.spotify.com/track/3mfgJieep1Sp2eB7Ic5Wsp) | [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54), [Fay\-Ann Lyons](https://open.spotify.com/artist/4nLVEYSAcpANC0BV87P4rd) | [Bus a Wine](https://open.spotify.com/album/6Mdi37IckdFe9fbb2fI7uH) | 3:03 |
 | 64 | [Down in de Meat](https://open.spotify.com/track/32j9nOIzJrWPtgtzqrzVNp) | [Lednek](https://open.spotify.com/artist/4Ft1CU17NiK3HFEDMGxLCK) | [Smoke Mask Riddim](https://open.spotify.com/album/3NLzUwBAZqGkgzf0qnlic1) | 3:22 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 | 67 | [The People Man \(T.P.M.\)](https://open.spotify.com/track/2xsCpoyTKtvaejdEQkLo7T) | [Kisha](https://open.spotify.com/artist/6vK1HRsfeYa8m5ejJD4RTc), [Mata](https://open.spotify.com/artist/1jo7mWxIHJtOm0TAoKL1jJ) | [Sick Jab Riddim \(Deluxe Edition\)](https://open.spotify.com/album/1T6GuTqK1HDTYmW8J8d3Nj) | 2:15 |
 | 68 | [Toat No Feelings](https://open.spotify.com/track/3EqVzZ3G6mf20qPIvZiiau) | [Motto](https://open.spotify.com/artist/2yK06HIkW6eitM49lypo0O), [Nessa Preppy](https://open.spotify.com/artist/17pN02mO1kZSkaic9K3ipT), [Team Foxx](https://open.spotify.com/artist/0QY1Fzl4cIbO14opQB8AyM) | [Toatin Riddim](https://open.spotify.com/album/4LL4JVrNQbmu7pQixAEPyv) | 1:56 |
 
-Snapshot ID: `MCw0MjM4YzM1ZWQyMzIzN2RjMjNiMDE4MjdhOWQ3MDZjZWVkODg0NzMx`
+Snapshot ID: `MCxiMDhiNDFhZGM2NGI4OWUwYmEwMWI0YmIzM2U1OGRiZGI3MmZlZDc0`

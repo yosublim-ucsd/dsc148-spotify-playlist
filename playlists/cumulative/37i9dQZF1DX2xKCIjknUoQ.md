@@ -4,17 +4,18 @@
 
 > Le meilleur du rock français moderne\. Photo : Matmatah
 
-53 songs - 3 hr 9 min
+54 songs - 3 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1000 Moi\-même](https://open.spotify.com/track/78FoiGR1ca78sN0KeQvYvq) | [Deportivo](https://open.spotify.com/artist/7k8b9tyD9a0WEoPgidHrGK) | [Parmi Eux](https://open.spotify.com/album/4hTfu8ttvLuVzVaJ41EU4a) | 2:10 | 2022-10-14 |  |
 | [A Tout Moment La Rue](https://open.spotify.com/track/65RRCKcgs4QDZGrsl3ZeUb) | [Eiffel](https://open.spotify.com/artist/5IiWXFMbz2luGGkdzSBNhJ) | [A tout moment](https://open.spotify.com/album/7Ew87764lK3jKB96EYQCgp) | 4:29 | 2022-10-14 |  |
 | [Alice & June \- Mix 2020](https://open.spotify.com/track/7taoYAfDTtuI5dxSBeijUO) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB) | [Singles Collection \(2001 \- 2021\)](https://open.spotify.com/album/73W988ag6ew4iiNTbgMU0C) | 3:28 | 2022-10-14 |  |
-| [Anomalie](https://open.spotify.com/track/4lzxPainD9ovAzAAAeXoqs) | [Louise Attaque](https://open.spotify.com/artist/4CAsSAU842glNKJX71ndA9) | [Anomalie](https://open.spotify.com/album/7BpAbYt9NzfXUOUlniH9Qf) | 3:09 | 2022-10-14 |  |
+| [Anomalie](https://open.spotify.com/track/4lzxPainD9ovAzAAAeXoqs) | [Louise Attaque](https://open.spotify.com/artist/4CAsSAU842glNKJX71ndA9) | [Anomalie](https://open.spotify.com/album/7BpAbYt9NzfXUOUlniH9Qf) | 3:09 | 2022-10-14 | 2024-02-22 |
 | [Coups et blessures](https://open.spotify.com/track/1yY1yMkoDuKtQTyL3vMvIT) | [BB Brunes](https://open.spotify.com/artist/4tHeypFR25Cnx83nuHhrud) | [Long courrier \(Edition Deluxe\)](https://open.spotify.com/album/4DWPVlrDHwCoVaiQV5lYeP) | 3:54 | 2022-10-14 |  |
 | [Ding Dang Dong \(Ringing at Your Bell\)](https://open.spotify.com/track/5SMv636dHIy8h1TXjoboue) | [Les Rita Mitsouko](https://open.spotify.com/artist/7CdlYgtOoxBtNjuDeIxSPM) | [Variéty](https://open.spotify.com/album/0tjC4Z1dqSoWZ22pA4zSZL) | 3:39 | 2022-10-14 |  |
 | [Dis\-moi](https://open.spotify.com/track/1J6BxOelSaHWKwW9GUvL8s) | [BB Brunes](https://open.spotify.com/artist/4tHeypFR25Cnx83nuHhrud) | [Blonde comme moi \(Edition Deluxe\)](https://open.spotify.com/album/5LDvJDi17Xryslp6pnBZIT) | 2:24 | 2022-10-14 |  |
+| [Droit Dans Le Soleil](https://open.spotify.com/track/4rpeOY4yFkKFcImfFxZqqu) | [Detroit](https://open.spotify.com/artist/4t5BWOtBj0BZwYlntlKKDj) | [Horizons](https://open.spotify.com/album/5NAlRXuJEAqDjuYlzuGewb) | 3:24 | 2022-10-14 |  |
 | [Du courage](https://open.spotify.com/track/3hRk4KJ2m6Xy3PU2vAH4fz) | [La Grande Sophie](https://open.spotify.com/artist/76IqDKTydgWzyIuNpUD3Jg) | [Et Si C'Etait Moi](https://open.spotify.com/album/0ay1TfTJyalcp5AUUoEaAK) | 3:36 | 2022-10-14 |  |
 | [Elle m'a dit](https://open.spotify.com/track/631aobaJggPYE0nIh3mo2t) | [Cali](https://open.spotify.com/artist/1ULXG4gd6YSvdjuFBJ6sAA) | [L'amour Parfait](https://open.spotify.com/album/1wDIEUmo5UDNuC7TkgCMCX) | 3:33 | 2022-10-14 |  |
 | [Emma](https://open.spotify.com/track/1XIuwgrZsB0FQpad2ZMVYa) | [Matmatah](https://open.spotify.com/artist/4bhynkwu2d1ZbjPTNBkI2t) | [La Ouache](https://open.spotify.com/album/3Jc7BaQeEeWq1KwDXmbS8g) | 3:57 | 2022-10-14 |  |

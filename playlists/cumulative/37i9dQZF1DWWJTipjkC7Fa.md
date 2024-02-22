@@ -4,7 +4,7 @@
 
 > Listen to the music from and inspired by My Life With The Walter Boys, now streaming on Netflix.
 
-61 songs - 3 hr 34 min
+62 songs - 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [For the Birds](https://open.spotify.com/track/3zIZn2lkgEVnnr7HutPnrT) | [Hyaenas](https://open.spotify.com/artist/3WURoSXW6bsmAW6JtgYiYU) | [Little Trophy](https://open.spotify.com/album/12ZOnVksOZO6kRaRQY8N3t) | 3:35 | 2023-12-07 |  |
 | [Glove Scene](https://open.spotify.com/track/1xUyWcChEGClUTOlGdhRGd) | [Leonard Bernstein](https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn) | [On the Waterfront \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2KqLl9eMcIo79Zj5cmHpIq) | 1:47 | 2023-12-07 |  |
 | [Golden](https://open.spotify.com/track/4laju5extoTLQIckYUtMXk) | [Kingswood](https://open.spotify.com/artist/4zOw0E0NA7B4lIYyc3XNt5) | [After Hours, Close to Dawn](https://open.spotify.com/album/21oCeqJ0minDcd8zmuIOnP) | 3:22 | 2023-12-07 |  |
-| [Golden Leaves](https://open.spotify.com/track/1fTi9sJDQV1VPM57eH0M5m) | [Sula May Andrade Deane](https://open.spotify.com/artist/6foSM2qBbW1vshevmAuwwV), [Thomas Evan's](https://open.spotify.com/artist/7AqFERmUsZpAd5pJFL0lN1), [Louis Martin](https://open.spotify.com/artist/1RH3Cp5QZDEQ366dPPqrQz) | [Closer To You](https://open.spotify.com/album/2tlHkd05gk4CNHSWvkbd93) | 3:30 | 2023-12-07 |  |
+| [Golden Leaves](https://open.spotify.com/track/1fTi9sJDQV1VPM57eH0M5m) | [Sula Mae](https://open.spotify.com/artist/4uU2oiUh7HtoaFnNF6MzG5) | [Closer To You](https://open.spotify.com/album/2tlHkd05gk4CNHSWvkbd93) | 3:30 | 2023-12-07 |  |
 | [Green with Envy](https://open.spotify.com/track/5uITkbd1oEVPL1NKH4PQWI) | [Ormiston](https://open.spotify.com/artist/21zEHj3svxppGr8k4jLLwm) | [Hammer Down](https://open.spotify.com/album/3APC9y1m25zkLVEpxQ9f5N) | 3:39 | 2023-12-07 |  |
 | [Hallucinate](https://open.spotify.com/track/1nYeVF5vIBxMxfPoL0SIWg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:28 | 2023-12-07 |  |
 | [Hardtown](https://open.spotify.com/track/2YapbeYWZqWSXbe05rifZN) | [Leeroy Stagger](https://open.spotify.com/artist/3ltVtf7QHIwJBNQHqjb9UI) | [Little Victories](https://open.spotify.com/album/7Ldcp2r7lXWhmG89Htn1GV) | 4:50 | 2023-12-07 |  |
@@ -56,7 +56,8 @@
 | [Rollin feat\. JessB, Jewels](https://open.spotify.com/track/0J8EO7Xbpnlr3H5YqH2tHj) | [K+Lab](https://open.spotify.com/artist/3y7GPPMrPAZKg9BlCO8cFA), [JessB](https://open.spotify.com/artist/3dnNuI5EU8TEdiAT73kj27), [Jewels](https://open.spotify.com/artist/7GhEL8SPucOTNBFqXPP0lK) | [The Booty Galactic](https://open.spotify.com/album/11qd68q6RAuZcL57czw406) | 3:03 | 2023-12-07 |  |
 | [Sing, Sing, Sing](https://open.spotify.com/track/5L8ta4ECl5zeA6bGqY7G38) | [Benny Goodman](https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve) | [The Essential Benny Goodman](https://open.spotify.com/album/7ykWEOYdt8gyA4seOlwtWK) | 8:40 | 2023-12-07 |  |
 | [Some of Everything](https://open.spotify.com/track/7DBaPsTe4FHr8uruCpy2YW) | [Mint Simon](https://open.spotify.com/artist/6CEtNCfXfEPpei0YBb0ZCh) | [Some of Everything](https://open.spotify.com/album/7FkDhibRBJ1iUulMWvE9tE) | 3:08 | 2023-12-07 |  |
-| [Something Better](https://open.spotify.com/track/4PQAgLLzrYCUsgfMyjFmpP) | [Paddy Conn](https://open.spotify.com/artist/6iilscTEv9jQWydJsY4uA7) | [Future Beach](https://open.spotify.com/album/0bkoN2KdMClWIOPda3R3WT) | 3:34 | 2023-12-07 |  |
+| [Something Better](https://open.spotify.com/track/2rJ5AqaUfxBDZFXSsbXfFo) | [Paddy Conn](https://open.spotify.com/artist/6iilscTEv9jQWydJsY4uA7) | [Future Beach](https://open.spotify.com/album/7762DXt6ZVJ8SjDWhQNrFg) | 3:34 | 2023-12-07 |  |
+| [Something Better](https://open.spotify.com/track/4PQAgLLzrYCUsgfMyjFmpP) | [Paddy Conn](https://open.spotify.com/artist/6iilscTEv9jQWydJsY4uA7) | [Future Beach](https://open.spotify.com/album/0bkoN2KdMClWIOPda3R3WT) | 3:34 | 2023-12-07 | 2024-02-22 |
 | [Talking Out Loud](https://open.spotify.com/track/5yBbS6unic5B0XnV8rXOJW) | [Jody Glenham](https://open.spotify.com/artist/4yC5LRKMoOFedYvLJKhiYW) | [Mood Rock](https://open.spotify.com/album/0hTR1zwLCtvXfX9L5ilPU7) | 3:26 | 2023-12-07 |  |
 | [The Fall](https://open.spotify.com/track/26gaZ7kj1MQL6SwWvYvp3S) | [Jon Bryant](https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L) | [Cult Classic](https://open.spotify.com/album/0NFxvuLwUsCzLICePGnEm6) | 4:32 | 2023-12-07 |  |
 | [The Great Rhyme Dropper \- EDIT](https://open.spotify.com/track/6kLTX9XIL4xroOJtHem17w) | [Grand Analog](https://open.spotify.com/artist/7IoDj69rjigYgUCMIp1701), [Shad](https://open.spotify.com/artist/15lOM8PWY9pXQoURZwSZlK) | [Modern Thunder](https://open.spotify.com/album/6JmcOpWffvh55MAwpIH2Ht) | 4:01 | 2023-12-07 |  |

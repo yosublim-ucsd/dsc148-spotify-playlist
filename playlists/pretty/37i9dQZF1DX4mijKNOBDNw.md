@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mijKNOBDNw.md) - [plain]
 
 > Si tocan a una respondemos todas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,031 likes - 65 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,044 likes - 65 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mijKNOBDNw.md) - [plain]
 | 10 | [Flower Power](https://open.spotify.com/track/321lmohAdDLovCHMWxwKWU) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Ayo](https://open.spotify.com/album/2OxYGrY7nYt2ymmoFaebqB) | 3:18 |
 | 11 | [Llora Llora](https://open.spotify.com/track/19i39fA9niRDjcAs3Gf5VO) | [La Catrina Son System](https://open.spotify.com/artist/2b4o3i2FEUYEVFmi72Jxnh), [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2), [Nana Mendoza](https://open.spotify.com/artist/0f5pXcaEX3mou3QLNTdVaA) | [Llora Llora](https://open.spotify.com/album/7HVuTWgBKBnJqLTskIrcxQ) | 4:13 |
 | 12 | [Ni Una Menos](https://open.spotify.com/track/11UL8736NPiJSdCiezulQp) | [Rebeca Lane](https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq) | [Ni Una Menos](https://open.spotify.com/album/2Ad42MuUjsRZFpIsPnGCkC) | 2:34 |
-| 13 | [Señorita Revolución](https://open.spotify.com/track/7EDmXSg0xZZT3NkcBjijCn) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Señorita Revolución](https://open.spotify.com/album/12rvlwP0OW2UKV1lmTqQtm) | 2:38 |
-| 14 | [Lisístrata](https://open.spotify.com/track/0zU49ugNNhip8mmrleoOzQ) | [Gata Cattana](https://open.spotify.com/artist/4aW7Oc19mMo4LTbdomZKgo) | [Anclas](https://open.spotify.com/album/7qaPfXArvKUdTbC2qCwIgG) | 3:57 |
+| 13 | [Lisístrata](https://open.spotify.com/track/0zU49ugNNhip8mmrleoOzQ) | [Gata Cattana](https://open.spotify.com/artist/4aW7Oc19mMo4LTbdomZKgo) | [Anclas](https://open.spotify.com/album/7qaPfXArvKUdTbC2qCwIgG) | 3:57 |
+| 14 | [Señorita Revolución](https://open.spotify.com/track/7EDmXSg0xZZT3NkcBjijCn) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Señorita Revolución](https://open.spotify.com/album/12rvlwP0OW2UKV1lmTqQtm) | 2:38 |
 | 15 | [Faroles](https://open.spotify.com/track/4eh4Et24YVZ97mCumJe0IK) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62), [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy), [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln), [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP) | [Faroles](https://open.spotify.com/album/6E2eSxShTgMRZi3WKjJev0) | 2:58 |
 | 16 | [La Fortaleza](https://open.spotify.com/track/1VXPKfgMIAn95PFK4TlyDD) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [La Fortaleza](https://open.spotify.com/album/73V6n1hTD93z5VVOm8eRb9) | 3:55 |
 | 17 | [Historika](https://open.spotify.com/track/11LBXStTNnMsUjMLRpurqe) | [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW) | [La hija del loco](https://open.spotify.com/album/0Jyzj8fLiBzZc5i0jbtCfU) | 4:26 |
@@ -35,16 +35,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mijKNOBDNw.md) - [plain]
 | 25 | [Alma de Cantaora](https://open.spotify.com/track/68E3IMzPvvgKVXrwW2hXJW) | [Amparo Sánchez](https://open.spotify.com/artist/2VsFlcS7zCbTXd1JpZ74cg) | [Alma de Cantaora](https://open.spotify.com/album/4RZtmfEuBbn9QVZguelVmO) | 4:50 |
 | 26 | [Brujas](https://open.spotify.com/track/2QSksPcpxlX6APIppww8Ar) | [Eli Almic](https://open.spotify.com/artist/5KXdJKZm2dVPkKmbitndiR) | [Brujas](https://open.spotify.com/album/4fVKCgpWN1lWkMses30NqQ) | 2:54 |
 | 27 | [Paracas Cavernas](https://open.spotify.com/track/5iEzYvaLSLUU7pU4miiVE5) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H), [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [Paracas Cavernas](https://open.spotify.com/album/0rYpO9guHXOLfNeuNPTqgk) | 4:28 |
-| 28 | [Se Quemó](https://open.spotify.com/track/4tbirX3tFHgyWmgfO9ZQC2) | [La Otra](https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7) | [Pa'fuera y Pa'dentro](https://open.spotify.com/album/32MUPpQPG9ZkTXRRHXehUr) | 4:43 |
-| 29 | [Sororidad](https://open.spotify.com/track/01Wueuzjgm3EWjjmeR7AmB) | [Audry Funk](https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2) | [Autogestion y Resistencia](https://open.spotify.com/album/0io7mCnSgnjzoi3Q57X5gR) | 3:40 |
-| 30 | [Gitanas](https://open.spotify.com/track/2GyKZ65PKJJ16ACMqnzC1y) | [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [Gitanas](https://open.spotify.com/album/2S6OhCz266448hlUEzIduB) | 3:10 |
+| 28 | [Sororidad](https://open.spotify.com/track/01Wueuzjgm3EWjjmeR7AmB) | [Audry Funk](https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2) | [Autogestion y Resistencia](https://open.spotify.com/album/0io7mCnSgnjzoi3Q57X5gR) | 3:40 |
+| 29 | [Se Quemó](https://open.spotify.com/track/4tbirX3tFHgyWmgfO9ZQC2) | [La Otra](https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7) | [Pa'fuera y Pa'dentro](https://open.spotify.com/album/32MUPpQPG9ZkTXRRHXehUr) | 4:43 |
+| 30 | [Paren de Matarnos](https://open.spotify.com/track/4p048hM5kMxSLLcRiLtE0K) | [Miss Bolivia](https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx) | [Pantera](https://open.spotify.com/album/572ZnLpVAhneJ6duuES4OL) | 3:22 |
 | 31 | [Caminar Sola](https://open.spotify.com/track/1ZGTVVXlL3FkaTGyNQey2P) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Caminar Sola](https://open.spotify.com/album/5MJYQdDfWT6r77caberwu2) | 3:18 |
-| 32 | [Paren de Matarnos](https://open.spotify.com/track/4p048hM5kMxSLLcRiLtE0K) | [Miss Bolivia](https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx) | [Pantera](https://open.spotify.com/album/572ZnLpVAhneJ6duuES4OL) | 3:22 |
+| 32 | [Gitanas](https://open.spotify.com/track/2GyKZ65PKJJ16ACMqnzC1y) | [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [Gitanas](https://open.spotify.com/album/2S6OhCz266448hlUEzIduB) | 3:10 |
 | 33 | [El Sol](https://open.spotify.com/track/2irBYZdlYxseHEz850SoL9) | [Mandale Mecha](https://open.spotify.com/artist/483XO10ZYxnxAqMkuOTJ2m), [MULAMBA](https://open.spotify.com/artist/6wd8OZcCaRQNDIMz6SPNGN) | [El Sol](https://open.spotify.com/album/7w2VOEKla6DNnWjDsIkaQf) | 3:09 |
 | 34 | [Dignificada](https://open.spotify.com/track/5jRzAstjJuMwUP9P4Sj6Ng) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [One Blood \(Una Sangre\)](https://open.spotify.com/album/417veGNmonVv9o0iGlFyjT) | 3:46 |
 | 35 | [Guerrera](https://open.spotify.com/track/3SXXaaifuIWCaqAwopfPmY) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W) | [Guerrera](https://open.spotify.com/album/37tmDnR0p0ABwvtHfECzdD) | 4:11 |
-| 36 | [Clandestina \- Spotify Singles](https://open.spotify.com/track/1Oie9uASbo83OrEkZ2whEM) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Spotify Singles](https://open.spotify.com/album/1KFVMgFxBDhf1fprYdbxHl) | 3:29 |
-| 37 | [Libres](https://open.spotify.com/track/1XZ3fMlt3ajzDAPDkMqh6C) | [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx) | [Libres](https://open.spotify.com/album/1O16JRkcbct2LxYaanL3ye) | 3:41 |
+| 36 | [Libres](https://open.spotify.com/track/1XZ3fMlt3ajzDAPDkMqh6C) | [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx) | [Libres](https://open.spotify.com/album/1O16JRkcbct2LxYaanL3ye) | 3:41 |
+| 37 | [Clandestina \- Spotify Singles](https://open.spotify.com/track/1Oie9uASbo83OrEkZ2whEM) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Spotify Singles](https://open.spotify.com/album/1KFVMgFxBDhf1fprYdbxHl) | 3:29 |
 | 38 | [Volando en la nube](https://open.spotify.com/track/1H4MZgDsdMXwmIhsfZy4C2) | [Catana](https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90) | [Volando en la nube](https://open.spotify.com/album/2tqgFSQTNinupDQBPqNov9) | 3:11 |
 | 39 | [Despiertas](https://open.spotify.com/track/5WkuSNv40JXr0akquFaiEb) | [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA), [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ), [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ) | [Despiertas](https://open.spotify.com/album/0RC5h6BHyaYvmDwwi8M8Qu) | 2:51 |
 | 40 | [Ni Encerradas Ni Con Miedos](https://open.spotify.com/track/1rFA6XWEvH6dbYiHmOovCT) | [Rebeca Lane](https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq) | [Alma Mestiza](https://open.spotify.com/album/7drLzTXpNpRTiA5A7LpbTm) | 2:53 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mijKNOBDNw.md) - [plain]
 | 64 | [Mi Fuerza Es Tuya](https://open.spotify.com/track/1FktdfIFdccuJlOBIGW6ga) | [Thelma Fardin](https://open.spotify.com/artist/0SBwpTwANByEBrhww6nGEl), [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx) | [Mi Fuerza Es Tuya](https://open.spotify.com/album/5OeRmEiUnbVCOCSBpYrk1W) | 4:05 |
 | 65 | [La Manada](https://open.spotify.com/track/42xqEQYMvIfW4DBHFWGGve) | [Papina de Palma](https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3) | [La Manada](https://open.spotify.com/album/39eY6IRUOQufdaCqAzOejK) | 2:44 |
 
-Snapshot ID: `MCwwMzUzN2QyNGE5MmFiYjg4Mzc4MzQ1ZGQ0NmQ1M2I1ZWYzZjBjNTQ2`
+Snapshot ID: `MCwyMTJjNjE1Njk2ZjFmNDE3MjQwMGNlZGUyZjczMTljZDBhNjc2YTRm`

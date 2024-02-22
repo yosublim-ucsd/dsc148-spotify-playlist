@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: AR Paisley
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,136 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,150 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 33 | [W Hotel \(feat\. Toosii\)](https://open.spotify.com/track/5y0ZkrwaaXuTrW3Sbo4UI3) | [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy), [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [W Hotel \(feat\. Toosii\)](https://open.spotify.com/album/45D9T73N2DfpQPrT6QEh6T) | 3:00 |
 | 34 | [Vertino](https://open.spotify.com/track/5RL5b8Pj1Fp7BehQH6YzSo) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Vertino](https://open.spotify.com/album/5sVyLTNrY5i8PJa8tImE5R) | 5:33 |
 | 35 | [Narcissist \(feat\. Phix\)](https://open.spotify.com/track/5GZyD9MBTiovN2dDNeHOJr) | [Dax](https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39), [Phix](https://open.spotify.com/artist/0B114ZpJddB3jl8AHu4OKT) | [Narcissist \(feat\. Phix\)](https://open.spotify.com/album/7x3d4sBwFfaRZeXJXAY2k6) | 3:56 |
-| 36 | [Nvm](https://open.spotify.com/track/4OVqoD9exHPI6c1Zt2aVdT) | [3MFrench](https://open.spotify.com/artist/7MPnGqTzCsarDScihWka1x) | [Its Me Not You](https://open.spotify.com/album/1bvkLtyYfPl65K9YNUrcH5) | 2:12 |
+| 36 | [Nvm](https://open.spotify.com/track/4OVqoD9exHPI6c1Zt2aVdT) | [3MFrench](https://open.spotify.com/artist/7MPnGqTzCsarDScihWka1x), [Tilla](https://open.spotify.com/artist/2WUWGxe2YfvUFk69M3Ri2f) | [Its Me Not You](https://open.spotify.com/album/1bvkLtyYfPl65K9YNUrcH5) | 2:12 |
 | 37 | [ARABI](https://open.spotify.com/track/1QBtiLpbw76bqO2h9fOdJQ) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Massari](https://open.spotify.com/artist/0Jzbm3ifxDNLxxS8M4BS51) | [ARABI](https://open.spotify.com/album/2wcsb8Ew4deFBMNGWDni2P) | 2:47 |
 | 38 | [U LIKE](https://open.spotify.com/track/7doQUfzrptegfwmf9l6IEx) | [Kresnt](https://open.spotify.com/artist/7B6gRPGS1V6bA0DkxqJktA), [MarMar Oso](https://open.spotify.com/artist/5rGbtFeEVjymN6xzE8opA6) | [U LIKE](https://open.spotify.com/album/5QCavkrmcm6KXADbUTMvdZ) | 3:07 |
 | 39 | [772 Love Pt\. 3 \(Your Love\)](https://open.spotify.com/track/1MscIf89IpZW9N9SUtBpsE) | [YNW Melly](https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg), [YNW BSlime](https://open.spotify.com/artist/2KCRLxlHd2OgZG6YAOAcSu), [Ynw4L](https://open.spotify.com/artist/2dJ7qCfsYlwiI1vDpImybL) | [772 Love Pt\. 3 \(Your Love\)](https://open.spotify.com/album/3iHCxu9aeXcaqa65jpYWAa) | 2:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 49 | [City Lights](https://open.spotify.com/track/53RtHfvyr0f6yj1uLy5bxY) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [City Lights](https://open.spotify.com/album/1lfQlXzzgUbMBNQmyrDBhp) | 3:56 |
 | 50 | [MIDST](https://open.spotify.com/track/53PNIzmsDfZZ7IxhSbvxz6) | [Nyota Parker](https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl) | [MIDST](https://open.spotify.com/album/2AUuYLf37fCO2FEnz3fVER) | 2:40 |
 
-Snapshot ID: `MCwxMmVkZTRlOTBjMjUwODE2YzNjMzMwYTU1Nzc5OTFiYTMyNmQwMThm`
+Snapshot ID: `MCwzOWU5MTk5MTY3NDk2YWIxNGE4YTZkOTRjYTA4MDA4ZDVlNDkyMGQx`

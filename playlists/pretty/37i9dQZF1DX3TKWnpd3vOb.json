@@ -1,12 +1,12 @@
 {
   "description": "Encuentra un mix de cl\u00e1sicos y nuevos talentos. Foto: We Are The Grand",
-  "num_followers": 194939,
+  "num_followers": 194946,
   "original_name": "Rock Chileno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYzM1NjcxOThhZTRhZmZjMGE2NWMzZmNiOGM4YWI4OGQ3OTA5ODUz",
+  "snapshot_id": "MCw4OGVkNjU2NGU3MDU4NmRkN2NiMzQxNDdjMTNhZjc5MDRjZGQ0MTk5",
   "tracks": [
     {
       "added_at": "2024-01-26 03:00:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-01-26 03:00:00",
       "album": {
-        "name": "Sangre y Revoluci\u00f3n",
-        "url": "https://open.spotify.com/album/5DCuvjIbb3I8CpBNE1UoFN"
-      },
-      "artists": [
-        {
-          "name": "Kutral Kai Paz",
-          "url": "https://open.spotify.com/artist/3vszuJ8MGiTnqljThfpVJB"
-        }
-      ],
-      "duration_ms": 228530,
-      "name": "Sangre y Revoluci\u00f3n",
-      "url": "https://open.spotify.com/track/7F9YkBBy9UbisYPKEYu9bt"
-    },
-    {
-      "added_at": "2024-01-26 03:00:00",
-      "album": {
         "name": "Bien",
         "url": "https://open.spotify.com/album/0nWFCj8PtvoSWJpmlhRrSs"
       },
@@ -1111,18 +1095,34 @@
     {
       "added_at": "2024-01-26 03:00:00",
       "album": {
-        "name": "Yod",
-        "url": "https://open.spotify.com/album/2HhVFAfXWf6eZeOU8R75jg"
+        "name": "Sangre y Revoluci\u00f3n",
+        "url": "https://open.spotify.com/album/5DCuvjIbb3I8CpBNE1UoFN"
       },
       "artists": [
         {
-          "name": "Hausi Kuta",
-          "url": "https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF"
+          "name": "Kutral Kai Paz",
+          "url": "https://open.spotify.com/artist/3vszuJ8MGiTnqljThfpVJB"
         }
       ],
-      "duration_ms": 221233,
-      "name": "Yod",
-      "url": "https://open.spotify.com/track/6XTZFGXabuOw71RMOgtao3"
+      "duration_ms": 228530,
+      "name": "Sangre y Revoluci\u00f3n",
+      "url": "https://open.spotify.com/track/7F9YkBBy9UbisYPKEYu9bt"
+    },
+    {
+      "added_at": "2024-01-26 03:00:00",
+      "album": {
+        "name": "7 Mares",
+        "url": "https://open.spotify.com/album/4im29JIy0zo9FsVD5rHvAy"
+      },
+      "artists": [
+        {
+          "name": "Tsunamis",
+          "url": "https://open.spotify.com/artist/2oqOl5iVYtC7mpaqUtm5pU"
+        }
+      ],
+      "duration_ms": 258331,
+      "name": "Diabla",
+      "url": "https://open.spotify.com/track/4RbFoRUXx2LxWvjpSanqqa"
     },
     {
       "added_at": "2024-01-26 03:00:00",
@@ -1139,6 +1139,22 @@
       "duration_ms": 255000,
       "name": "Nuestro Amor",
       "url": "https://open.spotify.com/track/1qV8Z8nwhEwH7Z5J0u1VCU"
+    },
+    {
+      "added_at": "2024-01-26 03:00:00",
+      "album": {
+        "name": "Yod",
+        "url": "https://open.spotify.com/album/2HhVFAfXWf6eZeOU8R75jg"
+      },
+      "artists": [
+        {
+          "name": "Hausi Kuta",
+          "url": "https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF"
+        }
+      ],
+      "duration_ms": 221233,
+      "name": "Yod",
+      "url": "https://open.spotify.com/track/6XTZFGXabuOw71RMOgtao3"
     },
     {
       "added_at": "2024-01-26 03:00:00",
@@ -1171,22 +1187,6 @@
       "duration_ms": 248747,
       "name": "Dignidad",
       "url": "https://open.spotify.com/track/3Uz4E986pBirZXn5ye3l0J"
-    },
-    {
-      "added_at": "2024-01-26 03:00:00",
-      "album": {
-        "name": "7 Mares",
-        "url": "https://open.spotify.com/album/4im29JIy0zo9FsVD5rHvAy"
-      },
-      "artists": [
-        {
-          "name": "Tsunamis",
-          "url": "https://open.spotify.com/artist/2oqOl5iVYtC7mpaqUtm5pU"
-        }
-      ],
-      "duration_ms": 258331,
-      "name": "Diabla",
-      "url": "https://open.spotify.com/track/4RbFoRUXx2LxWvjpSanqqa"
     },
     {
       "added_at": "2024-01-26 03:00:00",

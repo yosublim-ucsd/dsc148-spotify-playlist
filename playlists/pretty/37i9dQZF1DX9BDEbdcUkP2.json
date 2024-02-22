@@ -1,12 +1,12 @@
 {
   "description": "The songs of the 1960s that will make you dance all summer long!",
-  "num_followers": 138936,
+  "num_followers": 139024,
   "original_name": "Summer Hits of the 60s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNTllNzczMWU2ZWNiMzExZWM3NjQ5Zjg3ZGFkMGU2MGIxMTA0MDM5",
+  "snapshot_id": "MCxjZGY0N2I4MDQ4OGM1MDI4NjRlOWUyYzhlZTY5ZTZhNDZhZWEyZDU4",
   "tracks": [
     {
       "added_at": "2022-04-16 03:31:06",
@@ -579,18 +579,18 @@
     {
       "added_at": "2022-04-16 03:31:06",
       "album": {
-        "name": "Santana's Greatest Hits",
-        "url": "https://open.spotify.com/album/1YrdGK2y2Edq2R5gFja2ai"
+        "name": "Odessey and Oracle",
+        "url": "https://open.spotify.com/album/6ToVzL6h7HnatpBcOF0fH5"
       },
       "artists": [
         {
-          "name": "Santana",
-          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+          "name": "The Zombies",
+          "url": "https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5"
         }
       ],
-      "duration_ms": 196466,
-      "name": "Black Magic Woman - Single Version",
-      "url": "https://open.spotify.com/track/4YMQXzscifAREG0a7KNGhB"
+      "duration_ms": 214040,
+      "name": "Time of the Season - Mono Version",
+      "url": "https://open.spotify.com/track/6ub8sQIKHkyYK4KlB9gbxh"
     },
     {
       "added_at": "2022-04-16 03:31:06",
@@ -611,18 +611,18 @@
     {
       "added_at": "2022-04-16 03:31:06",
       "album": {
-        "name": "Odessey and Oracle",
-        "url": "https://open.spotify.com/album/6ToVzL6h7HnatpBcOF0fH5"
+        "name": "Santana's Greatest Hits",
+        "url": "https://open.spotify.com/album/1YrdGK2y2Edq2R5gFja2ai"
       },
       "artists": [
         {
-          "name": "The Zombies",
-          "url": "https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5"
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
         }
       ],
-      "duration_ms": 214040,
-      "name": "Time of the Season - Mono Version",
-      "url": "https://open.spotify.com/track/6ub8sQIKHkyYK4KlB9gbxh"
+      "duration_ms": 196466,
+      "name": "Black Magic Woman - Single Version",
+      "url": "https://open.spotify.com/track/4YMQXzscifAREG0a7KNGhB"
     },
     {
       "added_at": "2022-04-16 03:31:06",
@@ -675,22 +675,6 @@
     {
       "added_at": "2022-04-16 03:31:06",
       "album": {
-        "name": "The Man Who Invented Soul",
-        "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 125440,
-      "name": "(What A) Wonderful World",
-      "url": "https://open.spotify.com/track/2g2GkH3vZHk4lWzBjgQ6nY"
-    },
-    {
-      "added_at": "2022-04-16 03:31:06",
-      "album": {
         "name": "Remember When",
         "url": "https://open.spotify.com/album/6m8QVjXat9WFfyZPBSe0y8"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 160864,
       "name": "Will You Love Me Tomorrow",
       "url": "https://open.spotify.com/track/25IiJu0DjOqsnQXgNHWp5i"
+    },
+    {
+      "added_at": "2022-04-16 03:31:06",
+      "album": {
+        "name": "The Man Who Invented Soul",
+        "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 125440,
+      "name": "(What A) Wonderful World",
+      "url": "https://open.spotify.com/track/2g2GkH3vZHk4lWzBjgQ6nY"
     },
     {
       "added_at": "2022-04-16 03:31:06",
@@ -883,22 +883,6 @@
     {
       "added_at": "2022-04-16 03:31:06",
       "album": {
-        "name": "The Very Best Of \"The Archies\"",
-        "url": "https://open.spotify.com/album/7spOTrIPTM8RrMIAhCjLJi"
-      },
-      "artists": [
-        {
-          "name": "The Archies",
-          "url": "https://open.spotify.com/artist/33QmoCkSqADuQEtMCysYLh"
-        }
-      ],
-      "duration_ms": 167186,
-      "name": "Sugar, Sugar",
-      "url": "https://open.spotify.com/track/3iSws76HjaU7k49EqJVTfF"
-    },
-    {
-      "added_at": "2022-04-16 03:31:06",
-      "album": {
         "name": "Mary Wells Sings My Guy",
         "url": "https://open.spotify.com/album/6pUoPt9A6P1G8YJ5vw6GBP"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 174440,
       "name": "My Guy",
       "url": "https://open.spotify.com/track/4591VqUIXysNlmI5NcAIUd"
+    },
+    {
+      "added_at": "2022-04-16 03:31:06",
+      "album": {
+        "name": "The Very Best Of \"The Archies\"",
+        "url": "https://open.spotify.com/album/7spOTrIPTM8RrMIAhCjLJi"
+      },
+      "artists": [
+        {
+          "name": "The Archies",
+          "url": "https://open.spotify.com/artist/33QmoCkSqADuQEtMCysYLh"
+        }
+      ],
+      "duration_ms": 167186,
+      "name": "Sugar, Sugar",
+      "url": "https://open.spotify.com/track/3iSws76HjaU7k49EqJVTfF"
     },
     {
       "added_at": "2022-04-16 03:31:06",
@@ -963,22 +963,6 @@
     {
       "added_at": "2022-04-16 03:31:06",
       "album": {
-        "name": "Foursider",
-        "url": "https://open.spotify.com/album/7sLtxMp2mLbxHermdVqYD0"
-      },
-      "artists": [
-        {
-          "name": "Sergio Mendes & Brasil '66",
-          "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
-        }
-      ],
-      "duration_ms": 159466,
-      "name": "Mais Que Nada",
-      "url": "https://open.spotify.com/track/6YTBfxkdGce9pLEy9jG9Jo"
-    },
-    {
-      "added_at": "2022-04-16 03:31:06",
-      "album": {
         "name": "Runaway with Del Shannon",
         "url": "https://open.spotify.com/album/6dWi04y7CwB5M0XvzAewKT"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 137306,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/45Szkclj1lt4ubm7RFK68t"
+    },
+    {
+      "added_at": "2022-04-16 03:31:06",
+      "album": {
+        "name": "Foursider",
+        "url": "https://open.spotify.com/album/7sLtxMp2mLbxHermdVqYD0"
+      },
+      "artists": [
+        {
+          "name": "Sergio Mendes & Brasil '66",
+          "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
+        }
+      ],
+      "duration_ms": 159466,
+      "name": "Mais Que Nada",
+      "url": "https://open.spotify.com/track/6YTBfxkdGce9pLEy9jG9Jo"
     },
     {
       "added_at": "2022-04-16 03:31:06",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2022-04-16 03:31:06",
       "album": {
-        "name": "It's Our Thing (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2tMcirhdFUp4hS2eJwsHvF"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 169293,
-      "name": "It's Your Thing",
-      "url": "https://open.spotify.com/track/3ZxfehzRtB3oJcBuxWXFZQ"
-    },
-    {
-      "added_at": "2022-04-16 03:31:06",
-      "album": {
         "name": "The Essential Van Morrison",
         "url": "https://open.spotify.com/album/0RXzDyBEGd2EGQTmv8cxQa"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 156800,
       "name": "Gloria (feat. Van Morrison) - Stereo Version",
       "url": "https://open.spotify.com/track/1DKyFVzIh1oa1fFnEmTkIl"
+    },
+    {
+      "added_at": "2022-04-16 03:31:06",
+      "album": {
+        "name": "It's Our Thing (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2tMcirhdFUp4hS2eJwsHvF"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 169293,
+      "name": "It's Your Thing",
+      "url": "https://open.spotify.com/track/3ZxfehzRtB3oJcBuxWXFZQ"
     },
     {
       "added_at": "2022-04-16 03:31:06",

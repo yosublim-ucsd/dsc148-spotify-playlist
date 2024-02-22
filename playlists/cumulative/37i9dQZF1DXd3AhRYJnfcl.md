@@ -4,7 +4,7 @@
 
 > أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\.  الغلاف: <a href="https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI?si=xSiV3LOvRJipiJq4EIO0xQ"> شيرين </a>
 
-264 songs - 15 hr 25 min
+265 songs - 15 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [Oloolo Samah](https://open.spotify.com/track/6dyQ4108zdBsO3Ygdf4Mne) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Ayam](https://open.spotify.com/album/4suaTLNq4A5wlWCQabunTg) | 4:00 | 2023-05-05 | 2023-05-31 |
 | [Olt Eh](https://open.spotify.com/track/6FztXlnzRvHDbrwZNkev9Y) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Aktar Wahed Beihebak](https://open.spotify.com/album/3QDQnBiAmCcBndBaswQBk6) | 4:00 | 2023-05-30 | 2023-06-21 |
 | [Omour Basita](https://open.spotify.com/track/1nRCDjARnK6JnGZfo1Vq4t) | [Hisham Gamal](https://open.spotify.com/artist/5SyakrUvLtz9pk4zRDVf0N), [Laila Ahmed Zaher](https://open.spotify.com/artist/5MDRZSRZrKbToJMI4doVmj) | [Omour Basita](https://open.spotify.com/album/2cIrmQTRGdufySLVhHctqM) | 4:22 | 2024-01-29 |  |
-| [On Fire](https://open.spotify.com/track/4gQ6fFX5GwpUc7TdthnnKw) | [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ), [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [On Fire](https://open.spotify.com/album/5slczLOKT1ESCYUN6CNBQc) | 2:37 | 2023-01-20 |  |
+| [On Fire](https://open.spotify.com/track/4gQ6fFX5GwpUc7TdthnnKw) | [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ), [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [On Fire](https://open.spotify.com/album/5slczLOKT1ESCYUN6CNBQc) | 2:37 | 2023-01-20 | 2024-02-22 |
 | [Oulo Lelly Sab](https://open.spotify.com/track/7mMKakGmTepcWPiQd1TosA) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [Oulo Lelly Sab](https://open.spotify.com/album/0ue1Fe0WglapZpWvcoMgZ5) | 3:16 | 2022-11-23 | 2023-01-17 |
 | [Paris Dubaï](https://open.spotify.com/track/3n2WhCms25jdQo5msJTvBf) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Paris Dubaï](https://open.spotify.com/album/1Iynd8khQBQ1J7ql4lgFSx) | 3:06 | 2022-04-13 | 2022-06-08 |
 | [Ramadan Fi Masr Haja Taniah](https://open.spotify.com/track/3Ro4duVEwWgCyCRH4e4NWh) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Ramadan Fi Masr Haja Taniah](https://open.spotify.com/album/0oSVE8rcu8adMS2Rd0qZiE) | 2:27 | 2023-03-20 | 2023-04-21 |
@@ -151,6 +151,7 @@
 | [Reyah El Hayah](https://open.spotify.com/track/1ZuHXbFUhAb3SHOn4TzQbW) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Reyah El Hayah](https://open.spotify.com/album/0pyY1M7TsYkpXll7BpjI4i) | 3:49 | 2023-08-20 |  |
 | [Rmdan Gana](https://open.spotify.com/track/6jUCTPPX5VAEFaiQl75xel) | [Mohamed Abdel Mottaleb](https://open.spotify.com/artist/2nX9ORfbBVoEWXP7DonRGM) | [Rmdan Gana](https://open.spotify.com/album/4UJv2mZuwdolbIYrUsaqDL) | 9:46 | 2023-03-16 | 2023-03-21 |
 | [Saaban Aleky](https://open.spotify.com/track/1PvZPBCLn5pvAGec12ZlDV) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Saaban Aleky](https://open.spotify.com/album/25ytJTSmL4SGHrXlL7IoZ5) | 4:50 | 2023-03-20 | 2023-06-24 |
+| [Sabb Farhety](https://open.spotify.com/track/4e7lA8xFXF1Fw7v2nZqtro) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl), [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Sabb Farhety](https://open.spotify.com/album/5u9MUiMx6rkuCrGgwzfGuq) | 5:02 | 2024-02-21 |  |
 | [Sah Sah](https://open.spotify.com/track/2O6kwqT9Hb38PhHwbCNfOh) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Sah Sah](https://open.spotify.com/album/1vMwkK7I0UWAyTHngnXvuU) | 2:51 | 2022-07-07 | 2022-10-25 |
 | [Salt El Zein \- صلاة الزين](https://open.spotify.com/track/5o7YSTsbNeo98lSacuNIi5) | [Double Zuksh](https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo) | [Salt El Zein \- صلاة الزين](https://open.spotify.com/album/2FLoi19Rf5ejnlHfPYF4zp) | 2:36 | 2023-05-05 |  |
 | [Save Your Tears](https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:35 | 2023-02-13 | 2023-02-21 |

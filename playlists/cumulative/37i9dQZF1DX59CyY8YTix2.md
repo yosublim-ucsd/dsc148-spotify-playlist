@@ -4,7 +4,7 @@
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: リーガルリリー \(Regallily\)
 
-1,484 songs - 3 day 20 hr 49 min
+1,485 songs - 3 day 20 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -318,6 +318,7 @@
 | [I’m In A Groovie](https://open.spotify.com/track/61fr0A4gRpafYYdWMdtBwJ) | [MONJOE](https://open.spotify.com/artist/5f9YLfnNCxH8NRdLHVh83P), [GLIM SPANKY](https://open.spotify.com/artist/4sWyw0OrBKwmiaPOAuTuig) | [I’m In A Groovie](https://open.spotify.com/album/4Bz5U8M4Aj0hkUwbQbB2Rg) | 4:13 | 2022-05-26 | 2022-06-30 |
 | [JANAINDAYO](https://open.spotify.com/track/2VkHraJTHR6Uk29LTJ2DoQ) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [ICHIJIKIKOKU](https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz) | 2:59 | 2023-04-13 | 2023-12-20 |
 | [JANAINDAYO](https://open.spotify.com/track/2Ee7RTET4ZrfKJl6gXZTup) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [JANAINDAYO](https://open.spotify.com/album/7zLiRSoGuRjO4d5Ebmkqy0) | 3:00 | 2023-03-21 | 2023-04-16 |
+| [Jiyu to Ao](https://open.spotify.com/track/6ETYfx49mPSSv26SnmsrWJ) | [S.O.H.B](https://open.spotify.com/artist/5NS5sPLW7SVGYC9IU7QAMe) | [Jiyu to Ao](https://open.spotify.com/album/5OGoUraVvL8rva8PSSLCBD) | 3:54 | 2024-02-20 |  |
 | [joke](https://open.spotify.com/track/21WdQDRDK2S2IwiAjNwub9) | [YMB](https://open.spotify.com/artist/4sRqEn62eCbn4ltnSZMNN5) | [joke](https://open.spotify.com/album/0H9WMlnLhHHh4UWnAysQuD) | 3:59 | 2022-06-21 | 2022-06-24 |
 | [Jun Bride](https://open.spotify.com/track/2ZkIaIzNRR6P29fFBMwyYY) | [MOSHIMO](https://open.spotify.com/artist/2wfyx0p7LKFYZh2SaM9pXy) | [Jun Bride](https://open.spotify.com/album/61aUgqGjFt1lz6ZgNJX5u1) | 4:18 | 2022-05-31 | 2022-07-15 |
 | [Just Be Alive](https://open.spotify.com/track/4OpfbKpEcLBFDFR5084S8q) | [Mao Abe](https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My) | [Not Unusual](https://open.spotify.com/album/3gx3krICQA5Q62l56pEHcB) | 2:53 | 2023-02-15 | 2023-03-01 |
@@ -1409,7 +1410,7 @@
 | [翳りの讃歌](https://open.spotify.com/track/1ooEP43vhuSp40jp047Yg8) | [bungeitengoku](https://open.spotify.com/artist/2IPuwNd2QsC2AXZ9gBW7d1) | [翳りの讃歌](https://open.spotify.com/album/6X4Kn0PT5xURCgaAIgOq0C) | 4:15 | 2022-05-26 | 2022-07-29 |
 | [老人と海](https://open.spotify.com/track/5yZCsL6wNFtUNAomeWTQJZ) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [老人と海](https://open.spotify.com/album/4OPPGeANb1N0H7qqPtghFA) | 4:15 | 2022-05-26 | 2022-07-20 |
 | [考えるのもうやめたい](https://open.spotify.com/track/0hadcKlnQwkBivkYgnEQ6G) | [レイラ](https://open.spotify.com/artist/1q6rCB21jRvn4eofLLuWOf) | [考えるのもうやめたい](https://open.spotify.com/album/2MaBtbPha0nBhtXmnEnh1P) | 4:27 | 2023-11-09 | 2023-11-16 |
-| [自由と青](https://open.spotify.com/track/6CUOUj0nA8rQIJqlZXYdO5) | [S.O.H.B](https://open.spotify.com/artist/5NS5sPLW7SVGYC9IU7QAMe) | [自由と青](https://open.spotify.com/album/7vMUBHYl6cEgsp3kkHXt4z) | 3:54 | 2024-02-20 |  |
+| [自由と青](https://open.spotify.com/track/6CUOUj0nA8rQIJqlZXYdO5) | [S.O.H.B](https://open.spotify.com/artist/5NS5sPLW7SVGYC9IU7QAMe) | [自由と青](https://open.spotify.com/album/7vMUBHYl6cEgsp3kkHXt4z) | 3:54 | 2024-02-20 | 2024-02-22 |
 | [自由のショート](https://open.spotify.com/track/1MhyoLnjXzv00R4SYtfnH9) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [僕らじゃなきゃダメになって](https://open.spotify.com/album/0FNYLT5Un2W0XpLx3YQ86s) | 3:55 | 2023-08-17 | 2023-08-23 |
 | [良い男](https://open.spotify.com/track/2g74SClqazB7zd4td7LRcR) | [LAYRUS LOOP](https://open.spotify.com/artist/3EO554jUf79NLR9mBuD2vk) | [良い男](https://open.spotify.com/album/56UZYxV2Hcl1wQS0spUrHw) | 3:46 | 2022-06-23 | 2022-07-09 |
 | [良かれ](https://open.spotify.com/track/3OiBCzGfTXx56KaCXAbQfj) | [一寸先闇バンド](https://open.spotify.com/artist/08KCxeR1XesZZqWkgG9Fas) | [良かれ](https://open.spotify.com/album/2yFhIW6dNUwJTBDP9jJa4H) | 2:35 | 2023-07-04 | 2023-07-12 |

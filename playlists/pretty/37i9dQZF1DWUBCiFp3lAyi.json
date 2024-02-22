@@ -1,12 +1,12 @@
 {
   "description": "Your personalized GTA radio station. ",
-  "num_followers": 533186,
+  "num_followers": 533520,
   "original_name": "Grand Theft Auto Radio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MGJhZjc1ZmNhYjcwMDI2MWZhZWQ2OTRiZTBiNjMwZjA4NzFiODhm",
+  "snapshot_id": "MCxkZTA1MmQ3NWU0YzA4ZmRlNGUzMTE1YTFlZDhmYWU0YjA2OWY5NGZm",
   "tracks": [
     {
       "added_at": "2023-12-15 05:01:00",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-12-15 05:01:00",
       "album": {
-        "name": "Culture II",
-        "url": "https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 190288,
-      "name": "Stir Fry",
-      "url": "https://open.spotify.com/track/2UVbBKQOdFAekPTRsnkzcf"
-    },
-    {
-      "added_at": "2023-12-15 05:01:00",
-      "album": {
         "name": "Leftoverture (Expanded Edition)",
         "url": "https://open.spotify.com/album/7MejfRSNnrpcLZIxkeZDqR"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 323000,
       "name": "Carry on Wayward Son",
       "url": "https://open.spotify.com/track/4DMKwE2E2iYDKY01C335Uw"
+    },
+    {
+      "added_at": "2023-12-15 05:01:00",
+      "album": {
+        "name": "Culture II",
+        "url": "https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 190288,
+      "name": "Stir Fry",
+      "url": "https://open.spotify.com/track/2UVbBKQOdFAekPTRsnkzcf"
     },
     {
       "added_at": "2023-12-15 05:01:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-12-15 05:01:00",
       "album": {
-        "name": "Matangi",
-        "url": "https://open.spotify.com/album/3dAxXNscIj0p53lBMEziYR"
-      },
-      "artists": [
-        {
-          "name": "M.I.A.",
-          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
-        }
-      ],
-      "duration_ms": 227520,
-      "name": "Bad Girls",
-      "url": "https://open.spotify.com/track/6nzXkCBOhb2mxctNihOqbb"
-    },
-    {
-      "added_at": "2023-12-15 05:01:00",
-      "album": {
         "name": "Super Hits",
         "url": "https://open.spotify.com/album/5FfkiNcXAvagExRCLd8nn4"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 221840,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/5dRQUolXAVX3BbCiIxmSsf"
+    },
+    {
+      "added_at": "2023-12-15 05:01:00",
+      "album": {
+        "name": "Matangi",
+        "url": "https://open.spotify.com/album/3dAxXNscIj0p53lBMEziYR"
+      },
+      "artists": [
+        {
+          "name": "M.I.A.",
+          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
+        }
+      ],
+      "duration_ms": 227520,
+      "name": "Bad Girls",
+      "url": "https://open.spotify.com/track/6nzXkCBOhb2mxctNihOqbb"
     },
     {
       "added_at": "2023-12-15 05:01:00",
@@ -967,54 +967,6 @@
     {
       "added_at": "2023-12-15 05:01:00",
       "album": {
-        "name": "Substance",
-        "url": "https://open.spotify.com/album/6iHuSGy6pq4tNGFV3ZVPtl"
-      },
-      "artists": [
-        {
-          "name": "New Order",
-          "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
-        }
-      ],
-      "duration_ms": 449160,
-      "name": "Blue Monday",
-      "url": "https://open.spotify.com/track/6hHc7Pks7wtBIW8Z6A0iFq"
-    },
-    {
-      "added_at": "2023-12-15 05:01:00",
-      "album": {
-        "name": "Still Striving",
-        "url": "https://open.spotify.com/album/0tQ7Iu6EicQTPyhYRNWjaT"
-      },
-      "artists": [
-        {
-          "name": "A$AP Ferg",
-          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
-        }
-      ],
-      "duration_ms": 173600,
-      "name": "Plain Jane",
-      "url": "https://open.spotify.com/track/4dVpf9jZjcORqGTLUaeYj9"
-    },
-    {
-      "added_at": "2023-12-15 05:01:00",
-      "album": {
-        "name": "Midnight Love",
-        "url": "https://open.spotify.com/album/3gPlX9Zs3tXZZKNCyoOkSm"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 238600,
-      "name": "Sexual Healing",
-      "url": "https://open.spotify.com/track/3VZmChrnVW8JK6ano4gSED"
-    },
-    {
-      "added_at": "2023-12-15 05:01:00",
-      "album": {
         "name": "Billy Idol",
         "url": "https://open.spotify.com/album/5ebh0MxkqELmk50xHj2b4k"
       },
@@ -1027,6 +979,22 @@
       "duration_ms": 252200,
       "name": "White Wedding - Pt. 1",
       "url": "https://open.spotify.com/track/1gzIbdFnGJ226LTl0Cn2SX"
+    },
+    {
+      "added_at": "2023-12-15 05:01:00",
+      "album": {
+        "name": "Substance",
+        "url": "https://open.spotify.com/album/6iHuSGy6pq4tNGFV3ZVPtl"
+      },
+      "artists": [
+        {
+          "name": "New Order",
+          "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
+        }
+      ],
+      "duration_ms": 449160,
+      "name": "Blue Monday",
+      "url": "https://open.spotify.com/track/6hHc7Pks7wtBIW8Z6A0iFq"
     },
     {
       "added_at": "2023-12-15 05:01:00",
@@ -1047,6 +1015,22 @@
     {
       "added_at": "2023-12-15 05:01:00",
       "album": {
+        "name": "Still Striving",
+        "url": "https://open.spotify.com/album/0tQ7Iu6EicQTPyhYRNWjaT"
+      },
+      "artists": [
+        {
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+        }
+      ],
+      "duration_ms": 173600,
+      "name": "Plain Jane",
+      "url": "https://open.spotify.com/track/4dVpf9jZjcORqGTLUaeYj9"
+    },
+    {
+      "added_at": "2023-12-15 05:01:00",
+      "album": {
         "name": "Never Too Much",
         "url": "https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 230466,
       "name": "Never Too Much",
       "url": "https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL"
+    },
+    {
+      "added_at": "2023-12-15 05:01:00",
+      "album": {
+        "name": "Midnight Love",
+        "url": "https://open.spotify.com/album/3gPlX9Zs3tXZZKNCyoOkSm"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 238600,
+      "name": "Sexual Healing",
+      "url": "https://open.spotify.com/track/3VZmChrnVW8JK6ano4gSED"
     },
     {
       "added_at": "2023-12-15 05:01:00",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2023-12-15 05:01:00",
       "album": {
+        "name": "Eazy-Duz-It",
+        "url": "https://open.spotify.com/album/2glPhGd3WXbnNttSdOOr2e"
+      },
+      "artists": [
+        {
+          "name": "Eazy-E",
+          "url": "https://open.spotify.com/artist/7B4hKK0S9QYnaoqa9OuwgX"
+        }
+      ],
+      "duration_ms": 234360,
+      "name": "No More ?'s",
+      "url": "https://open.spotify.com/track/7y9yjpRtZajYzVpXHRjwGz"
+    },
+    {
+      "added_at": "2023-12-15 05:01:00",
+      "album": {
         "name": "Danzig",
         "url": "https://open.spotify.com/album/3elIDlrTtrgKfbxYVgp3uW"
       },
@@ -1159,6 +1175,22 @@
       "duration_ms": 204866,
       "name": "Mother",
       "url": "https://open.spotify.com/track/7txxAtOMwLLnQTpKeBL6bp"
+    },
+    {
+      "added_at": "2023-12-15 05:01:00",
+      "album": {
+        "name": "Alannah Myles",
+        "url": "https://open.spotify.com/album/1Ghv7iViywM23K8BRFggQv"
+      },
+      "artists": [
+        {
+          "name": "Alannah Myles",
+          "url": "https://open.spotify.com/artist/6IYnSXO40Bh7Zdqhf6rQoj"
+        }
+      ],
+      "duration_ms": 287440,
+      "name": "Black Velvet",
+      "url": "https://open.spotify.com/track/1KU5EHSz04JhGg3rReGJ0N"
     },
     {
       "added_at": "2023-12-15 05:01:00",
@@ -1179,34 +1211,18 @@
     {
       "added_at": "2023-12-15 05:01:00",
       "album": {
-        "name": "Eazy-Duz-It",
-        "url": "https://open.spotify.com/album/2glPhGd3WXbnNttSdOOr2e"
+        "name": "THE E.N.D. (THE ENERGY NEVER DIES)",
+        "url": "https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB"
       },
       "artists": [
         {
-          "name": "Eazy-E",
-          "url": "https://open.spotify.com/artist/7B4hKK0S9QYnaoqa9OuwgX"
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
         }
       ],
-      "duration_ms": 234360,
-      "name": "No More ?'s",
-      "url": "https://open.spotify.com/track/7y9yjpRtZajYzVpXHRjwGz"
-    },
-    {
-      "added_at": "2023-12-15 05:01:00",
-      "album": {
-        "name": "Alannah Myles",
-        "url": "https://open.spotify.com/album/1Ghv7iViywM23K8BRFggQv"
-      },
-      "artists": [
-        {
-          "name": "Alannah Myles",
-          "url": "https://open.spotify.com/artist/6IYnSXO40Bh7Zdqhf6rQoj"
-        }
-      ],
-      "duration_ms": 287440,
-      "name": "Black Velvet",
-      "url": "https://open.spotify.com/track/1KU5EHSz04JhGg3rReGJ0N"
+      "duration_ms": 284373,
+      "name": "Meet Me Halfway",
+      "url": "https://open.spotify.com/track/6wOYnPq1hPihRepcDClPUw"
     },
     {
       "added_at": "2023-12-15 05:01:00",
@@ -1231,22 +1247,6 @@
       "duration_ms": 161626,
       "name": "Con Altura",
       "url": "https://open.spotify.com/track/2qG5sZ7Si6sdK74qLxedYM"
-    },
-    {
-      "added_at": "2023-12-15 05:01:00",
-      "album": {
-        "name": "THE E.N.D. (THE ENERGY NEVER DIES)",
-        "url": "https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB"
-      },
-      "artists": [
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        }
-      ],
-      "duration_ms": 284373,
-      "name": "Meet Me Halfway",
-      "url": "https://open.spotify.com/track/6wOYnPq1hPihRepcDClPUw"
     },
     {
       "added_at": "2023-12-15 05:01:00",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-12-15 05:01:00",
       "album": {
-        "name": "Welcome To The Real World",
-        "url": "https://open.spotify.com/album/682sQ449vmcJXS2AGIMrsl"
-      },
-      "artists": [
-        {
-          "name": "Mr. Mister",
-          "url": "https://open.spotify.com/artist/7Bah8E0kCETqEpAHI6CPzQ"
-        }
-      ],
-      "duration_ms": 343933,
-      "name": "Broken Wings",
-      "url": "https://open.spotify.com/track/78FHUZRbFDCG6VkRAQdFLm"
-    },
-    {
-      "added_at": "2023-12-15 05:01:00",
-      "album": {
         "name": "Stay Hungry",
         "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 179760,
       "name": "I Wanna Rock",
       "url": "https://open.spotify.com/track/70Z9t1qhytWtG4cCmmi7mU"
+    },
+    {
+      "added_at": "2023-12-15 05:01:00",
+      "album": {
+        "name": "Welcome To The Real World",
+        "url": "https://open.spotify.com/album/682sQ449vmcJXS2AGIMrsl"
+      },
+      "artists": [
+        {
+          "name": "Mr. Mister",
+          "url": "https://open.spotify.com/artist/7Bah8E0kCETqEpAHI6CPzQ"
+        }
+      ],
+      "duration_ms": 343933,
+      "name": "Broken Wings",
+      "url": "https://open.spotify.com/track/78FHUZRbFDCG6VkRAQdFLm"
     },
     {
       "added_at": "2023-12-15 05:01:00",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-12-15 05:01:00",
       "album": {
-        "name": "Make It Big",
-        "url": "https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI"
-      },
-      "artists": [
-        {
-          "name": "Wham!",
-          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
-        }
-      ],
-      "duration_ms": 302693,
-      "name": "Everything She Wants",
-      "url": "https://open.spotify.com/track/5hXEcqQhEjfZdbIZLO8mf2"
-    },
-    {
-      "added_at": "2023-12-15 05:01:00",
-      "album": {
         "name": "Kim Wilde",
         "url": "https://open.spotify.com/album/5vf8cU0vjl22ThptA93DDf"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 205533,
       "name": "Kids In America",
       "url": "https://open.spotify.com/track/1YGZyfvdgZxzipWoWYVKxi"
+    },
+    {
+      "added_at": "2023-12-15 05:01:00",
+      "album": {
+        "name": "Make It Big",
+        "url": "https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "duration_ms": 302693,
+      "name": "Everything She Wants",
+      "url": "https://open.spotify.com/track/5hXEcqQhEjfZdbIZLO8mf2"
     },
     {
       "added_at": "2023-12-15 05:01:00",
@@ -1671,6 +1671,22 @@
     {
       "added_at": "2023-12-15 05:01:00",
       "album": {
+        "name": "Tropico",
+        "url": "https://open.spotify.com/album/5qxb9JwzVz5EqegShruoM8"
+      },
+      "artists": [
+        {
+          "name": "Pat Benatar",
+          "url": "https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV"
+        }
+      ],
+      "duration_ms": 221133,
+      "name": "We Belong",
+      "url": "https://open.spotify.com/track/665Jxlgi1HamPKbW1vwzx4"
+    },
+    {
+      "added_at": "2023-12-15 05:01:00",
+      "album": {
         "name": "Best Of Blondie",
         "url": "https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A"
       },
@@ -1715,22 +1731,6 @@
       "duration_ms": 190826,
       "name": "Low Rider",
       "url": "https://open.spotify.com/track/7Bz8yww6UMbTgTVLG6zbI4"
-    },
-    {
-      "added_at": "2023-12-15 05:01:00",
-      "album": {
-        "name": "Tropico",
-        "url": "https://open.spotify.com/album/5qxb9JwzVz5EqegShruoM8"
-      },
-      "artists": [
-        {
-          "name": "Pat Benatar",
-          "url": "https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV"
-        }
-      ],
-      "duration_ms": 221133,
-      "name": "We Belong",
-      "url": "https://open.spotify.com/track/665Jxlgi1HamPKbW1vwzx4"
     }
   ],
   "unique_name": "Grand Theft Auto Radio",

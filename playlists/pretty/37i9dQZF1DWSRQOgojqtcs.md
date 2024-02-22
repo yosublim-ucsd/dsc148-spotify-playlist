@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRQOgojqtcs.md) - [plain]
 
 > Love, sex, and heartbreak\. Listen to the official playlist for Heartbreak High, now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,526 likes - 125 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,530 likes - 125 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRQOgojqtcs.md) - [plain]
 | 28 | [Monologue](https://open.spotify.com/track/2gV5NMri6fyQfOf2M1ovJM) | [Putrika](https://open.spotify.com/artist/5awAtBuVQEV68Nvs1loiby) | [Silmara](https://open.spotify.com/album/1px4Nxt7hD6KtVBlNLDXzb) | 4:30 |
 | 29 | [Like People](https://open.spotify.com/track/0o9h7u6AC9Ztiyw8Y0S4dV) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloody Lovely](https://open.spotify.com/album/0sotdV1cZoGfaDDUPIwtDu) | 4:01 |
 | 30 | [Out of Athens](https://open.spotify.com/track/7xYEXxp3HkIVpgzDM3dPWO) | [Bitumen](https://open.spotify.com/artist/1RGasOUCBKHhLrFWn10M7y) | [Cleareye Shining](https://open.spotify.com/album/6uaUHAJvCvJCAWrdjHneeE) | 4:14 |
-| 31 | [Good Times](https://open.spotify.com/track/7yicVvWnecC6g7POm1mJPb) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Good Times + Simmer Down](https://open.spotify.com/album/3sI8iJNJwOWEUXdEZTVtvi) | 2:50 |
+| 31 | [Good Times](https://open.spotify.com/track/1DXljcYE8iyuwSUbNCBMJC) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Good Times + Simmer Down](https://open.spotify.com/album/7fdKwBLm5Nf6kDarFn5QAQ) | 2:50 |
 | 32 | [Dribble](https://open.spotify.com/track/1jgM9KS9l3Z11aCTAunw9B) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Dribble](https://open.spotify.com/album/5557t4f7xXgPqVevkuC0rQ) | 4:00 |
 | 33 | [Self Care](https://open.spotify.com/track/4LkSxKl6g9EQWn63jCYSmT) | [Miiesha](https://open.spotify.com/artist/1ehGGQnc7E28DNwhvnFuyL) | [Nyaaringu](https://open.spotify.com/album/4FPYLkPm1ri9vaxdGAOMuR) | 3:30 |
 | 34 | [H.G.S](https://open.spotify.com/track/12rSnesdLIZfCzDDk9ZEef) | [Arona Mane](https://open.spotify.com/artist/70yqFQVIWhHa89ELLSB69B), [Ms\. Thandi](https://open.spotify.com/artist/0puWDWtG4G9xAJJ6JiZEfA) | [H.G.S](https://open.spotify.com/album/5znkcA0rAq6SIn0OaqKlhP) | 3:01 |
@@ -116,7 +116,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRQOgojqtcs.md) - [plain]
 | 106 | [Downtown](https://open.spotify.com/track/4o9umFsPZmwRT5lve7QAps) | [Majical Cloudz](https://open.spotify.com/artist/4BEYBN6NCPrFk3sOLMTby3) | [Are You Alone?](https://open.spotify.com/album/732AeYhmKrOSU0G3pPnlkB) | 4:09 |
 | 107 | [Centrefold](https://open.spotify.com/track/2120KPNVl3vALmvodMyu83) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Smiling with No Teeth](https://open.spotify.com/album/4j7wEZWND7GIh918rLgYHQ) | 3:16 |
 | 108 | [Over You](https://open.spotify.com/track/6fAjHpvZZIXNB8vndPexNt) | [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw) | [Phases](https://open.spotify.com/album/5JPLzwHnEiQyGfe4Xl1LTf) | 3:23 |
-| 109 | [Say Nothing \(feat\. MAY\-A\)](https://open.spotify.com/track/424Uwmm1kNW07Ty1nOhSpl) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Say Nothing \(feat\. MAY\-A\)](https://open.spotify.com/album/3QMl37rC1ye7PKRFH7Bgz9) | 3:52 |
+| 109 | [Say Nothing \(feat\. MAY\-A\)](https://open.spotify.com/track/4uBgAIrCRf8ed02XbNKdBQ) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Palaces](https://open.spotify.com/album/6SZtno2XqSmfr5MKsNeXmC) | 3:52 |
 | 110 | [Ice](https://open.spotify.com/track/7jhf05TJfZk5ULlXZLbVpR) | [Magic Dirt](https://open.spotify.com/artist/6OgAO7QYncP5feMijPxBxi) | [Life Was Better](https://open.spotify.com/album/341NSXoFA6eUTbJq2chGQP) | 3:21 |
 | 111 | [Trainspotting](https://open.spotify.com/track/3yqDyz2uZ6ZATKIaxpGXe2) | [Full Flower Moon Band](https://open.spotify.com/artist/29YPQKsmJN2L0YVz7HaOi4) | [Diesel Forever](https://open.spotify.com/album/5iocmJMQ1nEpGEGnfw6Q9g) | 2:18 |
 | 112 | [Dancer Girl](https://open.spotify.com/track/4ttUlvDSjTiX4yyoA0NwXJ) | [Zoë Fox and the Rocket Clocks](https://open.spotify.com/artist/2A9Ed9zQfvv9Ns78PDEagE) | [Dancer Girl](https://open.spotify.com/album/5bpixdGyoPyogbCKfIr4Vb) | 2:55 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRQOgojqtcs.md) - [plain]
 | 124 | [Want You Back](https://open.spotify.com/track/2wXhdaTnmkkFSOidKfnOxA) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Something to Tell You](https://open.spotify.com/album/5m9rXTBF7mHFGQlFsiEHrY) | 3:52 |
 | 125 | [Let It Happen](https://open.spotify.com/track/2X485T9Z5Ly0xyaghN73ed) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 7:47 |
 
-Snapshot ID: `MCxjMTc3YzgzZWIxOGQ0OGU3MTg3YWM5NjVkMjc3YzRhNTM1NmI3MTA4`
+Snapshot ID: `MCxhMWExYzA0ZTVjMmUwMmEyYjE1NWY4MGM3NTRhMTk0YTI0MmM3ZjM4`

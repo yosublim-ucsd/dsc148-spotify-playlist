@@ -1,5 +1,5 @@
 {
-  "2024-02-21": 1106187,
+  "2024-02-22": 1106495,
   "date_first_scraped": "2022-12-15",
   "description": "Lagu-lagu mengsedih yang menyayat hati \ud83d\ude2d",
   "name": "Generasi Galau",
@@ -429,10 +429,28 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 234010,
       "name": "Bulan Dikekang Malam - From ''Ayat Ayat Cinta 2''",
       "url": "https://open.spotify.com/track/1fztiHQGVlICM9hI17dCmn"
+    },
+    {
+      "album": {
+        "name": "A New Chapter",
+        "url": "https://open.spotify.com/album/0xA0QM3piWiMF22mqRVT6U"
+      },
+      "artists": [
+        {
+          "name": "Rossa",
+          "url": "https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228453,
+      "name": "Cinta Dalam Hidupku",
+      "url": "https://open.spotify.com/track/52BT4xBNjnJFrHi9p5PsQn"
     },
     {
       "album": {
@@ -1379,7 +1397,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 285810,
       "name": "perayaan mati rasa",
       "url": "https://open.spotify.com/track/1RyqmamAZTAB9WSZpX4S3f"
@@ -1473,6 +1491,24 @@
       "duration_ms": 302666,
       "name": "Puisi",
       "url": "https://open.spotify.com/track/4XmNQ2LLbVq8MDn8MG8HUS"
+    },
+    {
+      "album": {
+        "name": "Paradoks",
+        "url": "https://open.spotify.com/album/1qJp3Va3JzFE3FPVClJDQc"
+      },
+      "artists": [
+        {
+          "name": "Element",
+          "url": "https://open.spotify.com/artist/053tL050frPJyo9lPXTUFb"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191950,
+      "name": "Rahasia Hati",
+      "url": "https://open.spotify.com/track/1X80KdFJpedU4as4WGIgYM"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 
 > Muito romance, groove suave e R&B feitos no Brasil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,258 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,260 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 | 12 | [Auge](https://open.spotify.com/track/63ft1sslYXqdYttGDQL99T) | [ALLIRA](https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS), [WALL](https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY), [iceton](https://open.spotify.com/artist/4YdNIaHjaCJJLynr1SP6Bj) | [Auge](https://open.spotify.com/album/3VeBQmFmne7gU4xU6jqlGu) | 3:10 |
 | 13 | [Eu Tava Em Casa](https://open.spotify.com/track/6XoSJgy9m0TeYNZuCen1xW) | [Bia Ferreira](https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa) | [Faminta](https://open.spotify.com/album/6ekaLRjzflYYAS7qFBgNCj) | 4:09 |
 | 14 | [Vestido Vermelho](https://open.spotify.com/track/11xqJp6dCzVm3PxEroeVih) | [Filipe Papi](https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm) | [Vestido Vermelho](https://open.spotify.com/album/06vVPATP7xd4AvQzeevpss) | 2:50 |
-| 15 | [Segredos](https://open.spotify.com/track/2i14luvcN0QonXe22WYQUA) | [Latrel](https://open.spotify.com/artist/5eNaeqDTUzL2q3zO8lXMvZ), [Gustavvo](https://open.spotify.com/artist/1g7ecQxDIGyHBz8lGGexH8) | [Segredos](https://open.spotify.com/album/1JDkiInlk98A1ctUOxyjvk) | 2:51 |
-| 16 | [Me Esqueça Devagar](https://open.spotify.com/track/74yArCzYnQuxpMeo68JYgd) | [IZRRA](https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV) | [Coisas De Amor](https://open.spotify.com/album/5iOi8dqj4Pg7yz4IcH385v) | 3:31 |
+| 15 | [Me Esqueça Devagar](https://open.spotify.com/track/74yArCzYnQuxpMeo68JYgd) | [IZRRA](https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV) | [Coisas De Amor](https://open.spotify.com/album/5iOi8dqj4Pg7yz4IcH385v) | 3:31 |
+| 16 | [Segredos](https://open.spotify.com/track/2i14luvcN0QonXe22WYQUA) | [Latrel](https://open.spotify.com/artist/5eNaeqDTUzL2q3zO8lXMvZ), [Gustavvo](https://open.spotify.com/artist/1g7ecQxDIGyHBz8lGGexH8) | [Segredos](https://open.spotify.com/album/1JDkiInlk98A1ctUOxyjvk) | 2:51 |
 | 17 | [Carinho](https://open.spotify.com/track/18dRY86aWEyp7E2WzlhMLT) | [Doug O.](https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0) | [Carinho](https://open.spotify.com/album/35LwHQVDtxMoYGM6tYEYLC) | 2:58 |
 | 18 | [Licor](https://open.spotify.com/track/62LSep7P2d7uPyDdMMuemr) | [Leo Gandelman](https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW), [Machine Series](https://open.spotify.com/artist/1xu1L93nrtesFrEuWRTqJG), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [Hip Hop Machine \#13](https://open.spotify.com/album/6NHVEU2tX4VYNs6t9aFBkP) | 5:30 |
 | 19 | [só eu sei](https://open.spotify.com/track/1B11lI2bkyrqE7ZfReu7if) | [Hanifah](https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr) | [só eu sei](https://open.spotify.com/album/64lnpVXtLJjZVA1sScIbGo) | 1:55 |
@@ -39,10 +39,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 | 29 | [SHAWTY](https://open.spotify.com/track/27WkGbGW5pZ03Gm8Ly4r4b) | [Diego Amani](https://open.spotify.com/artist/7C4JFPMFLycKlz7m7KKfgu) | [SHAWTY](https://open.spotify.com/album/3iXjMKLo5yW4siR1I69G5k) | 2:53 |
 | 30 | [Sinto a Sua Falta](https://open.spotify.com/track/2dZqnl4olWllAOzQRmdO4n) | [Kain](https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN) | [Sinto a Sua Falta](https://open.spotify.com/album/0RLUPsZSe4d88a1LZUShQL) | 3:21 |
 | 31 | [Me Curar](https://open.spotify.com/track/0cS24SOojuYiP5OIP3ikxO) | [Kynnie](https://open.spotify.com/artist/20JcWtWgwyxcfUg8SyKwjy) | [93](https://open.spotify.com/album/2sbYShIsSsFnm62JKjTqUJ) | 3:46 |
-| 32 | [That's Why I Love You](https://open.spotify.com/track/48cZ0Fo1zfYjBUPw5m8xjv) | [idontcare](https://open.spotify.com/artist/3sXDqkz0u2n7NXAPb3H7jV), [Juniper](https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN) | [That's Why I Love You](https://open.spotify.com/album/0ClBTyGt24uEfusn603KEV) | 3:38 |
+| 32 | [PFP \(para fazer pretinhos\)](https://open.spotify.com/track/29T145ELh9ZkHSJusrhilh) | [Aysha Lima](https://open.spotify.com/artist/2PIknYaeoCcwkNQ8leGQ7U), [André Miquelotti](https://open.spotify.com/artist/7DWlmonBAqM6AoN0m0lr54), [DG Prod](https://open.spotify.com/artist/5yRNIQrZSfIpSKXjDQ1qif) | [Ín.ti.mo](https://open.spotify.com/album/1H39nmz1c0ai9HaEhJWaGU) | 3:07 |
 | 33 | [Aurora](https://open.spotify.com/track/1IurzB42M5kCAuk0Otp36V) | [Doug O.](https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0) | [Aurora](https://open.spotify.com/album/7lyl9H9Dz6pSqZ7do5UNOL) | 2:31 |
-| 34 | [Tempo Pra Pensar](https://open.spotify.com/track/0KfUCubX9qFf58eHJOy5o7) | [Jun Alcan](https://open.spotify.com/artist/7CPlbqxyWd17sV44Morx3V) | [Rosas & Violetas faço um buquê\. Eu quero queimar um \*\*\*\*\*\*\* com você.](https://open.spotify.com/album/0k2BGd2ImMmPcGFLIa5bOg) | 3:00 |
-| 35 | [PFP \(para fazer pretinhos\)](https://open.spotify.com/track/29T145ELh9ZkHSJusrhilh) | [Aysha Lima](https://open.spotify.com/artist/2PIknYaeoCcwkNQ8leGQ7U), [André Miquelotti](https://open.spotify.com/artist/7DWlmonBAqM6AoN0m0lr54), [DG Prod](https://open.spotify.com/artist/5yRNIQrZSfIpSKXjDQ1qif) | [Ín.ti.mo](https://open.spotify.com/album/1H39nmz1c0ai9HaEhJWaGU) | 3:07 |
+| 34 | [That's Why I Love You](https://open.spotify.com/track/48cZ0Fo1zfYjBUPw5m8xjv) | [idontcare](https://open.spotify.com/artist/3sXDqkz0u2n7NXAPb3H7jV), [Juniper](https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN) | [That's Why I Love You](https://open.spotify.com/album/0ClBTyGt24uEfusn603KEV) | 3:38 |
+| 35 | [Tempo Pra Pensar](https://open.spotify.com/track/0KfUCubX9qFf58eHJOy5o7) | [Jun Alcan](https://open.spotify.com/artist/7CPlbqxyWd17sV44Morx3V) | [Rosas & Violetas faço um buquê\. Eu quero queimar um \*\*\*\*\*\*\* com você.](https://open.spotify.com/album/0k2BGd2ImMmPcGFLIa5bOg) | 3:00 |
 | 36 | [Renascer](https://open.spotify.com/track/0Yv9Ae9BYG8L6Ghniot1xm) | [Xênia França](https://open.spotify.com/artist/1v0rEJk9ZuCrCQDvCXbO3D) | [Renascer](https://open.spotify.com/album/11z5mItIsIAJNC7LnCMk45) | 4:54 |
 | 37 | [n é vc, sou eu](https://open.spotify.com/track/2Q4G9vjRYdgy4zxgHMGc23) | [Amxedx](https://open.spotify.com/artist/0rP1RgNU08Y99fjfdwH3h0), [Nader](https://open.spotify.com/artist/5hJTj1DEcSkY1t64AOPVKV), [Lil Glass](https://open.spotify.com/artist/3YE9TNf4ehxAyZtDvPPNkq) | [n é vc, sou eu](https://open.spotify.com/album/2JPzzYmLqEEcOF3nHBpSJ3) | 2:40 |
 | 38 | [Dava Praia](https://open.spotify.com/track/1yBnU3fCQXflHioJWsdiDm) | [Guinu](https://open.spotify.com/artist/5ofL9KZec6IUhmMT7uSmXl), [Juliane Gamboa](https://open.spotify.com/artist/34Ew3QfjXTBeGWxylACsnA) | [Dava Praia](https://open.spotify.com/album/4s5wiro9Rxv3PNRw7LJMkT) | 2:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 | 49 | [Noite Sem Fim](https://open.spotify.com/track/6hiFqmAtkWXIDuqDUfm8yI) | [Mixdgroove](https://open.spotify.com/artist/7C9uzbHPDku3N6vZUokNNL) | [Noite Sem Fim](https://open.spotify.com/album/3xOBahgMHPmoopICoD5mzr) | 3:51 |
 | 50 | [Filho do Soul](https://open.spotify.com/track/0GyYORKftax285LSmzF2oA) | [Augus7o](https://open.spotify.com/artist/78iJtzui4jnlK1KsDnlykz), [Lovro](https://open.spotify.com/artist/7roNMW0hJ2WwFhrXyKZRwF) | [Filho do Soul](https://open.spotify.com/album/11CfMBbIFivVBOerau2ZFI) | 4:00 |
 
-Snapshot ID: `MCw1ZmJlYWE1NTZmYTE0YTJiOWIzN2ZhMjU4MjZiYmNjNTczZjFiOWFm`
+Snapshot ID: `MCwwZDg5Y2MyMjJiMjA2YTY4ZGRhMjExNjAzOGU1YTc3MDA1OTVjMjgx`

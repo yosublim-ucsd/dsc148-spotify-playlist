@@ -1,12 +1,12 @@
 {
   "description": "Punjabi superstar\u2019s biggest hits.",
-  "num_followers": 123077,
+  "num_followers": 123157,
   "original_name": "This Is Diljit Dosanjh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZjdiOGY5MzhhODNhODc2NTk3NmJiYWNjNzNmNTM0MzYwY2MzM2Qx",
+  "snapshot_id": "MCxkOTk5YmViNTBjMDE5NWVmNzc4Y2VkYjRmMTc4NTI5NTg0NjlhNjBj",
   "tracks": [
     {
       "added_at": "2024-01-30 06:53:02",
@@ -463,6 +463,22 @@
     {
       "added_at": "2024-01-30 06:53:02",
       "album": {
+        "name": "Muchh",
+        "url": "https://open.spotify.com/album/6Tu3rISlgcL1tjBLb3jmuS"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 205301,
+      "name": "Muchh",
+      "url": "https://open.spotify.com/track/3m3uKnTWKAPlnfggqVsIOq"
+    },
+    {
+      "added_at": "2024-01-30 06:53:02",
+      "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
       },
@@ -483,8 +499,8 @@
     {
       "added_at": "2024-01-30 06:53:02",
       "album": {
-        "name": "Muchh",
-        "url": "https://open.spotify.com/album/6Tu3rISlgcL1tjBLb3jmuS"
+        "name": "G.O.A.T.",
+        "url": "https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE"
       },
       "artists": [
         {
@@ -492,9 +508,9 @@
           "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
         }
       ],
-      "duration_ms": 205301,
-      "name": "Muchh",
-      "url": "https://open.spotify.com/track/3m3uKnTWKAPlnfggqVsIOq"
+      "duration_ms": 264128,
+      "name": "Peed",
+      "url": "https://open.spotify.com/track/2Ny0SqN4HHB7nfdre6YlDb"
     },
     {
       "added_at": "2024-01-30 06:53:02",
@@ -519,22 +535,6 @@
       "duration_ms": 212347,
       "name": "Unforgettable",
       "url": "https://open.spotify.com/track/7HWMIRSmUrhlbveXerIEWk"
-    },
-    {
-      "added_at": "2024-01-30 06:53:02",
-      "album": {
-        "name": "G.O.A.T.",
-        "url": "https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 264128,
-      "name": "Peed",
-      "url": "https://open.spotify.com/track/2Ny0SqN4HHB7nfdre6YlDb"
     },
     {
       "added_at": "2024-01-30 06:53:02",
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD"
         }
       ],
-      "duration_ms": 180855,
-      "name": "Daytona",
-      "url": "https://open.spotify.com/track/45FFMb6wv36U1xduNY6TyO"
+      "duration_ms": 180698,
+      "name": "Kehkashan",
+      "url": "https://open.spotify.com/track/2NTtfjk6ShR9uQcKJh1yX9"
     },
     {
       "added_at": "2024-01-30 06:53:02",
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD"
         }
       ],
-      "duration_ms": 180698,
-      "name": "Kehkashan",
-      "url": "https://open.spotify.com/track/2NTtfjk6ShR9uQcKJh1yX9"
+      "duration_ms": 180855,
+      "name": "Daytona",
+      "url": "https://open.spotify.com/track/45FFMb6wv36U1xduNY6TyO"
     },
     {
       "added_at": "2024-01-30 06:53:02",
@@ -908,9 +908,9 @@
           "url": "https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD"
         }
       ],
-      "duration_ms": 184434,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/1fvzAz230Q0Uzl5k3plxYg"
+      "duration_ms": 148619,
+      "name": "Icon",
+      "url": "https://open.spotify.com/track/4OmhUrKAKTBxdvscSfx1gp"
     },
     {
       "added_at": "2024-01-30 06:53:02",
@@ -928,9 +928,9 @@
           "url": "https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD"
         }
       ],
-      "duration_ms": 148619,
-      "name": "Icon",
-      "url": "https://open.spotify.com/track/4OmhUrKAKTBxdvscSfx1gp"
+      "duration_ms": 184434,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/1fvzAz230Q0Uzl5k3plxYg"
     },
     {
       "added_at": "2024-01-30 06:53:02",

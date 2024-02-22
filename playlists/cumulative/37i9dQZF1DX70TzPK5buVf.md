@@ -4,7 +4,7 @@
 
 > Funk to these good ol' funky soul classics!
 
-114 songs - 9 hr 18 min
+115 songs - 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Boogie Nights](https://open.spotify.com/track/20zOIoex7YchUh87d8tlvg) | [Heatwave](https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY) | [Too Hot To Handle](https://open.spotify.com/album/3OjfTt27HmGpVd45IuMAT6) | 5:03 | 2020-05-08 | 2022-07-29 |
 | [Boogie Nights](https://open.spotify.com/track/4NTSDu34al733aIuUWVJHo) | [Heatwave](https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY) | [Too Hot to Handle \(Expanded Edition\)](https://open.spotify.com/album/1QeIO9ArYBB9vLiODTtWy8) | 5:03 | 2020-05-08 |  |
 | [Boogie Witcha, Baby](https://open.spotify.com/track/5NqRwz0rPh3aK4iWyJLXxy) | [Larry Graham & Graham Central Station](https://open.spotify.com/artist/6NodJUvzLqPU2HtPLhDuf5) | [My Radio Sure Sounds Good To Me](https://open.spotify.com/album/5DldGiP8hbKtAjGzzcdYEq) | 3:47 | 2020-04-15 |  |
-| [Bootzilla](https://open.spotify.com/track/5js0eS99CZbJpbZW6A9T95) | [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [Back In The Day: The Best Of Bootsy](https://open.spotify.com/album/5drHXExICEAsiNehDQvYwV) | 5:39 | 2020-04-15 |  |
+| [Bootzilla](https://open.spotify.com/track/5js0eS99CZbJpbZW6A9T95) | [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [Back In The Day: The Best Of Bootsy](https://open.spotify.com/album/5drHXExICEAsiNehDQvYwV) | 5:39 | 2020-04-15 | 2024-02-22 |
 | [Brick House](https://open.spotify.com/track/5VJjhHyG8NZ5xdgG6uTb3P) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Commodores](https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl) | 3:28 | 2020-04-15 |  |
 | [Burn Rubber On Me \(Why You Wanna Hurt Me\)](https://open.spotify.com/track/32YzjV133gteg9LMBGO2OA) | [The Gap Band](https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp) | [Greatest Hits](https://open.spotify.com/album/7eETefYwTFRG3I1tw3fMi4) | 4:12 | 2020-05-08 |  |
 | [Bustin' Loose](https://open.spotify.com/track/2iXA7lqR3Ne3Enkcl1YDWO) | [Chuck Brown and the Soul Searchers](https://open.spotify.com/artist/1Y3CPuN46EPIT3wCTDzPZu) | [The Best of Chuck Brown](https://open.spotify.com/album/2GMvrVJXmEzu6SoDJKMNdg) | 7:41 | 2020-04-15 | 2022-07-29 |
@@ -117,6 +117,7 @@
 | [U Got The Look \- 2020 Remaster](https://open.spotify.com/track/1NAf61L4b3jFgLJhThTQ8B) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Sign O' The Times](https://open.spotify.com/album/2QuHyvguNhl5kfdoE17RRe) | 3:46 | 2020-05-08 |  |
 | [Uptown Funk \(feat\. Bruno Mars\)](https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Uptown Special](https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1) | 4:29 | 2021-06-17 |  |
 | [Use Me](https://open.spotify.com/track/4gRA0i5sxx3jAhHaVjPnUN) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Still Bill](https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v) | 3:48 | 2020-05-08 |  |
+| [We Got To Change](https://open.spotify.com/track/34rWoWiycg2hPA9nqGt7Ig) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [James Brown: Say It Loud \- A&E Documentary Playlist](https://open.spotify.com/album/33Us5UGDL0ZOtBXN8PBzRH) | 3:46 | 2024-02-21 |  |
 | [What Is Hip?](https://open.spotify.com/track/66TSoVnJ1P9Tyok03zUlTr) | [Tower Of Power](https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB) | [Tower Of Power](https://open.spotify.com/album/731Q7pBo9WEQyM52gUe0kJ) | 5:04 | 2020-05-08 |  |
 | [Why Did You Do It \- Remastered](https://open.spotify.com/track/38DAUnVJ0zqOdRuW7RG3sl) | [Stretch](https://open.spotify.com/artist/61oNrjLV0SUliHTOXUgCXg) | [Elastique \(Remastered\)](https://open.spotify.com/album/3tzMsfGTrNMJ7h1SRYQUs4) | 3:31 | 2020-05-08 |  |
 | [Wicky Wacky](https://open.spotify.com/track/2Kn8AqRPoAGiI4sDo2HwDb) | [Fatback Band](https://open.spotify.com/artist/6PWU6JQvvYv5sz5FOODHg6) | [Keep On Steppin'](https://open.spotify.com/album/7HDGZiJkvRzQmKnti36O5R) | 3:18 | 2020-05-08 | 2022-05-23 |

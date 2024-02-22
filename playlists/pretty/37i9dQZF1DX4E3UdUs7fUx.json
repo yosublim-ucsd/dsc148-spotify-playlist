@@ -1,12 +1,12 @@
 {
   "description": "Unwind and let the afternoon unfold.",
-  "num_followers": 2226992,
+  "num_followers": 2226939,
   "original_name": "Afternoon Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxM2ZjZjE0OWY4MjE5ZDdjNzdiMzY2OWFjNjY3M2ZhYzhmNTUzN2Fl",
+  "snapshot_id": "MCw5MzMwZWUwYWNiMzQyYzRlMDBmZjJkZDI3OTA3ODNkM2FhYThhM2Zh",
   "tracks": [
     {
       "added_at": "2023-06-30 04:00:00",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Time Without Consequence",
-        "url": "https://open.spotify.com/album/3hQQHMrHUbkCokIf8PmcEU"
-      },
-      "artists": [
-        {
-          "name": "Alexi Murdoch",
-          "url": "https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw"
-        }
-      ],
-      "duration_ms": 297120,
-      "name": "All My Days",
-      "url": "https://open.spotify.com/track/3RPerpXuNznZbCuWYEBz5i"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Wouldn't Come Back",
         "url": "https://open.spotify.com/album/2X0Oi2vkyzqYWPy2dSdim1"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 219533,
       "name": "Wouldn't Come Back",
       "url": "https://open.spotify.com/track/1zeQjPT367QcGrkpIXYjuW"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Time Without Consequence",
+        "url": "https://open.spotify.com/album/3hQQHMrHUbkCokIf8PmcEU"
+      },
+      "artists": [
+        {
+          "name": "Alexi Murdoch",
+          "url": "https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw"
+        }
+      ],
+      "duration_ms": 297120,
+      "name": "All My Days",
+      "url": "https://open.spotify.com/track/3RPerpXuNznZbCuWYEBz5i"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Undercurrent",
-        "url": "https://open.spotify.com/album/0MXtcpjNSnK68Xpv5rXnrc"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 154200,
-      "name": "Take Me Back",
-      "url": "https://open.spotify.com/track/3CiZBMNMkRm8CzPD4ZLM6C"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "O",
         "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 286653,
       "name": "The Blower's Daughter",
       "url": "https://open.spotify.com/track/4B2lJinAkeNLSJjcq3dg8Q"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Undercurrent",
+        "url": "https://open.spotify.com/album/0MXtcpjNSnK68Xpv5rXnrc"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 154200,
+      "name": "Take Me Back",
+      "url": "https://open.spotify.com/track/3CiZBMNMkRm8CzPD4ZLM6C"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "And It\u2019s Still Alright",
-        "url": "https://open.spotify.com/album/2bWrnSJNyGevb1pr2VYEGW"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Rateliff",
-          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
-        }
-      ],
-      "duration_ms": 232866,
-      "name": "Time Stands",
-      "url": "https://open.spotify.com/track/1U2ahyThq23V2R7rgfOSRr"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Tourism",
         "url": "https://open.spotify.com/album/2dxsMripcAgRre1gqZPoye"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 212146,
       "name": "I Forget Myself (feat. Darlingside)",
       "url": "https://open.spotify.com/track/7D5v3bwTNUx8NHHKHmwGgX"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "And It\u2019s Still Alright",
+        "url": "https://open.spotify.com/album/2bWrnSJNyGevb1pr2VYEGW"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff",
+          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
+        }
+      ],
+      "duration_ms": 232866,
+      "name": "Time Stands",
+      "url": "https://open.spotify.com/track/1U2ahyThq23V2R7rgfOSRr"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "The Pleasant Trees (Volume 2)",
-        "url": "https://open.spotify.com/album/7njexd4MXzmW0tXn0GK5EW"
-      },
-      "artists": [
-        {
-          "name": "Tom Rosenthal",
-          "url": "https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB"
-        }
-      ],
-      "duration_ms": 164721,
-      "name": "Middle Of My Mind",
-      "url": "https://open.spotify.com/track/5RSQUFoAIg75ZQKP5zyT8i"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz"
       },
@@ -1075,6 +1059,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "Dual",
+        "url": "https://open.spotify.com/album/4vCwbb8M7HVTPGrDGsTYh4"
+      },
+      "artists": [
+        {
+          "name": "Meadowlark",
+          "url": "https://open.spotify.com/artist/3M8Mq1n1l1TRnTUw2MRSCs"
+        }
+      ],
+      "duration_ms": 211805,
+      "name": "Fly - Acoustic",
+      "url": "https://open.spotify.com/track/2YVK7RkwslK62gTCWboDPM"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "Call My Name",
         "url": "https://open.spotify.com/album/0vnEKpCttcVJxw41Im2f2a"
       },
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Dual",
-        "url": "https://open.spotify.com/album/4vCwbb8M7HVTPGrDGsTYh4"
+        "name": "Fall, Fall, Fall",
+        "url": "https://open.spotify.com/album/0jMQ6WSHjx5mV8jqqX17eh"
       },
       "artists": [
         {
-          "name": "Meadowlark",
-          "url": "https://open.spotify.com/artist/3M8Mq1n1l1TRnTUw2MRSCs"
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
         }
       ],
-      "duration_ms": 211805,
-      "name": "Fly - Acoustic",
-      "url": "https://open.spotify.com/track/2YVK7RkwslK62gTCWboDPM"
+      "duration_ms": 281180,
+      "name": "Fall, Fall, Fall",
+      "url": "https://open.spotify.com/track/2SEYL3D9Onmw1wutOX3s2h"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Fall, Fall, Fall",
-        "url": "https://open.spotify.com/album/0jMQ6WSHjx5mV8jqqX17eh"
-      },
-      "artists": [
-        {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
-        }
-      ],
-      "duration_ms": 281180,
-      "name": "Fall, Fall, Fall",
-      "url": "https://open.spotify.com/track/2SEYL3D9Onmw1wutOX3s2h"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "IOWA",
         "url": "https://open.spotify.com/album/4jLnoqNXzY7DquELf6mz46"
       },
@@ -1207,18 +1191,18 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "World On The Ground",
-        "url": "https://open.spotify.com/album/7vI29Msu8k0wpFUittUvAH"
+        "name": "At Swim",
+        "url": "https://open.spotify.com/album/6msVb320Ve4PYFCjo0uuDf"
       },
       "artists": [
         {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+          "name": "Lisa Hannigan",
+          "url": "https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt"
         }
       ],
-      "duration_ms": 180240,
-      "name": "Hometown",
-      "url": "https://open.spotify.com/track/4Ffh52csT3bI7hVoih1vo1"
+      "duration_ms": 179826,
+      "name": "Fall",
+      "url": "https://open.spotify.com/track/0HFqPzJYCZgQYuqNX0HDJm"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1239,18 +1223,18 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "At Swim",
-        "url": "https://open.spotify.com/album/6msVb320Ve4PYFCjo0uuDf"
+        "name": "World On The Ground",
+        "url": "https://open.spotify.com/album/7vI29Msu8k0wpFUittUvAH"
       },
       "artists": [
         {
-          "name": "Lisa Hannigan",
-          "url": "https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt"
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
         }
       ],
-      "duration_ms": 179826,
-      "name": "Fall",
-      "url": "https://open.spotify.com/track/0HFqPzJYCZgQYuqNX0HDJm"
+      "duration_ms": 180240,
+      "name": "Hometown",
+      "url": "https://open.spotify.com/track/4Ffh52csT3bI7hVoih1vo1"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1351,6 +1335,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "Colony of B-Sides",
+        "url": "https://open.spotify.com/album/4uENKN2umJ1TGfOZ4NIEVs"
+      },
+      "artists": [
+        {
+          "name": "Beta Radio",
+          "url": "https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB"
+        }
+      ],
+      "duration_ms": 184931,
+      "name": "On the Frame (Acoustic)",
+      "url": "https://open.spotify.com/track/2UyZLb4rxCgXaFI9wsxsGs"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "Seed of Joy",
         "url": "https://open.spotify.com/album/4ivyT3pP5juItg8Yblaqfn"
       },
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "Wildewoman",
+        "url": "https://open.spotify.com/album/65Wk3Qzygf9cii16JpOVvk"
+      },
+      "artists": [
+        {
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+        }
+      ],
+      "duration_ms": 275628,
+      "name": "Two of Us On the Run",
+      "url": "https://open.spotify.com/track/1IOHe119sZrSycoomDnu7D"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "Motel Bouquet",
         "url": "https://open.spotify.com/album/1wzGEFBlLXHmoW4OK4Qapu"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 200893,
       "name": "You're My Home",
       "url": "https://open.spotify.com/track/2GbTLMvttdfKoz4YDjZJis"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Colony of B-Sides",
-        "url": "https://open.spotify.com/album/4uENKN2umJ1TGfOZ4NIEVs"
-      },
-      "artists": [
-        {
-          "name": "Beta Radio",
-          "url": "https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB"
-        }
-      ],
-      "duration_ms": 184931,
-      "name": "On the Frame (Acoustic)",
-      "url": "https://open.spotify.com/track/2UyZLb4rxCgXaFI9wsxsGs"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Wildewoman",
-        "url": "https://open.spotify.com/album/65Wk3Qzygf9cii16JpOVvk"
-      },
-      "artists": [
-        {
-          "name": "Lucius",
-          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
-        }
-      ],
-      "duration_ms": 275628,
-      "name": "Two of Us On the Run",
-      "url": "https://open.spotify.com/track/1IOHe119sZrSycoomDnu7D"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Open Season (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4F5s7tDOWFCgozxJg0o8Rw"
       },
@@ -1499,6 +1483,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "At Swim",
+        "url": "https://open.spotify.com/album/6msVb320Ve4PYFCjo0uuDf"
+      },
+      "artists": [
+        {
+          "name": "Lisa Hannigan",
+          "url": "https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt"
+        }
+      ],
+      "duration_ms": 204120,
+      "name": "Undertow",
+      "url": "https://open.spotify.com/track/26FSlb8mzIyJbU5gH30imx"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "Bluebird",
         "url": "https://open.spotify.com/album/6vGalAgGwYwgFhENJOeFuN"
       },
@@ -1511,6 +1511,22 @@
       "duration_ms": 182374,
       "name": "Try to Make a Fire Burn Again",
       "url": "https://open.spotify.com/track/7BIcO9nvZ2AdIfhZcXnTS7"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Saint Monica (Undone)",
+        "url": "https://open.spotify.com/album/6BpkD2uOOcpYp4IB1kANL6"
+      },
+      "artists": [
+        {
+          "name": "The Ballroom Thieves",
+          "url": "https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC"
+        }
+      ],
+      "duration_ms": 146884,
+      "name": "Saint Monica - Undone",
+      "url": "https://open.spotify.com/track/3vfYJg7cPqQgAFh1KtJMRT"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1539,38 +1555,6 @@
       "duration_ms": 205800,
       "name": "Overland",
       "url": "https://open.spotify.com/track/4k5R36pR5HA3SHlabSQX56"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Saint Monica (Undone)",
-        "url": "https://open.spotify.com/album/6BpkD2uOOcpYp4IB1kANL6"
-      },
-      "artists": [
-        {
-          "name": "The Ballroom Thieves",
-          "url": "https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC"
-        }
-      ],
-      "duration_ms": 146884,
-      "name": "Saint Monica - Undone",
-      "url": "https://open.spotify.com/track/3vfYJg7cPqQgAFh1KtJMRT"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "At Swim",
-        "url": "https://open.spotify.com/album/6msVb320Ve4PYFCjo0uuDf"
-      },
-      "artists": [
-        {
-          "name": "Lisa Hannigan",
-          "url": "https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt"
-        }
-      ],
-      "duration_ms": 204120,
-      "name": "Undertow",
-      "url": "https://open.spotify.com/track/26FSlb8mzIyJbU5gH30imx"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1651,6 +1635,22 @@
       "duration_ms": 325280,
       "name": "Melatonin (Unplugged)",
       "url": "https://open.spotify.com/track/1IkjoLXB9LEf3w32Wk07X3"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Dressed in Roses",
+        "url": "https://open.spotify.com/album/0qdMxhmhBONYgZJEbQiYjG"
+      },
+      "artists": [
+        {
+          "name": "Barbaro",
+          "url": "https://open.spotify.com/artist/56xyoM0kp95h5kVkAjoOMq"
+        }
+      ],
+      "duration_ms": 206013,
+      "name": "Barbaro",
+      "url": "https://open.spotify.com/track/3ftFR3uG7hCJJ7kQOlSAlg"
     }
   ],
   "unique_name": "Afternoon Acoustic",

@@ -4,7 +4,7 @@
 
 > This is ZZ Top\. The essential tracks, all in one playlist.
 
-85 songs - 5 hr 13 min
+86 songs - 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [Gimme All Your Lovin'](https://open.spotify.com/track/08Yy8YGHv1lSDiKZzVPuTn) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [The Baddest](https://open.spotify.com/album/5CGNEMUtCJanGlhQIgM4WZ) | 3:31 | 2024-02-19 |  |
 | [Gimme All Your Lovin'](https://open.spotify.com/track/251LsIzSjWnlnxvWYLCucN) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [The Very Baddest of ZZ Top](https://open.spotify.com/album/4ADUZQ1pM9r9f49MX8cUdl) | 3:31 | 2022-09-30 | 2024-02-20 |
 | [Gimme All Your Lovin'](https://open.spotify.com/track/0OBwxFLu6Yj61s2OagYbgY) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Eliminator](https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw) | 4:01 | 2022-09-18 |  |
-| [Give It Up](https://open.spotify.com/track/470PZEQc7PUnvhp73hSrJc) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Recycler](https://open.spotify.com/album/0WbYC0Gc9DFh35DhzDwR1k) | 3:29 | 2023-05-10 |  |
+| [Give It Up](https://open.spotify.com/track/40IMYicpMrM9ziQIbFtfNY) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Recycler](https://open.spotify.com/album/4ItwdwD5kWC4Wa9tIl0eEq) | 3:29 | 2024-02-21 |  |
+| [Give It Up](https://open.spotify.com/track/470PZEQc7PUnvhp73hSrJc) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Recycler](https://open.spotify.com/album/0WbYC0Gc9DFh35DhzDwR1k) | 3:29 | 2023-05-10 | 2024-02-22 |
 | [Got Me Under Pressure \- 2008 Remaster](https://open.spotify.com/track/1jzZZsfzxsebFa6KpWXaAr) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Eliminator](https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw) | 4:03 | 2022-09-17 |  |
 | [Heard It On The X](https://open.spotify.com/track/2hVpNA46kjPlYHapuFJ2yS) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [RAW \('That Little Ol' Band From Texas' Original Soundtrack\)](https://open.spotify.com/album/2sXtcMxeUDyYrGZ6hiYWBh) | 2:50 | 2022-09-18 | 2023-10-02 |
 | [Heard It On The X](https://open.spotify.com/track/4tbHJc3pgypdIGeWxK5CwS) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Heard It On The X](https://open.spotify.com/album/6HThlq6qQOLiaOigjNpHaH) | 2:50 | 2022-09-17 | 2022-09-19 |

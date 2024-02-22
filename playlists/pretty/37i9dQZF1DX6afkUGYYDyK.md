@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 
 > Give thanks to the Lord, in all circumstances, with these songs about being grateful.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,980 likes - 60 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,985 likes - 60 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 | 27 | [Thanks Giver](https://open.spotify.com/track/4q5xRx9qXkGK95OgtRZHcC) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Milk & Cookies: A Merry Crowder Christmas](https://open.spotify.com/album/1vv6ogQJNhQmga5HKRp5kt) | 3:28 |
 | 28 | [Thank You Lord \- Live](https://open.spotify.com/track/0UOyOUzF8iUMiOE4GwyhqX) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV) | [Thank You Lord \(Live\)](https://open.spotify.com/album/4hCrCVaCuc9JSAtjdGhHEE) | 4:56 |
 | 29 | [My Tribute](https://open.spotify.com/track/7xKCmMhfkACwAvcOvSEutX) | [Andrae Crouch](https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7) | [Platinum Praise Collection: Andrae Crouch](https://open.spotify.com/album/4YGo7Wj4lIGydKu6ElehTF) | 3:37 |
-| 30 | [At This Table](https://open.spotify.com/track/60TpgJ947vNb9A1UGQWkNm) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE) | [At This Table](https://open.spotify.com/album/3x5gkpYT2I80yewupH8FP6) | 3:59 |
-| 31 | [Thank You](https://open.spotify.com/track/5fj35Am6o5htd4HlOZEymW) | [Kirk Franklin & Mary Mary](https://open.spotify.com/artist/6bUP8NEnriCT6Uyqo5gOct) | [Kingdom Come \- The Soundtrack](https://open.spotify.com/album/5HTBR75IKGcmwkgT1XXXmG) | 4:40 |
+| 30 | [Thank You](https://open.spotify.com/track/5fj35Am6o5htd4HlOZEymW) | [Kirk Franklin & Mary Mary](https://open.spotify.com/artist/6bUP8NEnriCT6Uyqo5gOct) | [Kingdom Come \- The Soundtrack](https://open.spotify.com/album/5HTBR75IKGcmwkgT1XXXmG) | 4:40 |
+| 31 | [At This Table](https://open.spotify.com/track/60TpgJ947vNb9A1UGQWkNm) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE) | [At This Table](https://open.spotify.com/album/3x5gkpYT2I80yewupH8FP6) | 3:59 |
 | 32 | [Thank God!](https://open.spotify.com/track/67nHwqqhRlR4cxbjJSOmkz) | [Tracy Nitschke](https://open.spotify.com/artist/3MFePrlHaLPnHIHkbAw3RW) | [Thank God!](https://open.spotify.com/album/6D0WTJd0pUdQNy7VWfgftm) | 2:22 |
 | 33 | [Thankful](https://open.spotify.com/track/2FwCB8L7sokQegvJC7VC0j) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [Thankful](https://open.spotify.com/album/6wzBCFYgHmhrVgjgfWJ6LC) | 11:50 |
 | 34 | [Oh Give Thanks \(Psalm 136\)](https://open.spotify.com/track/78cTCjjaCUHCmFqaHwROcC) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484), [Radical For Christ](https://open.spotify.com/artist/5IasY9qIMVuTssFl6ECzKA) | [Spirit Of David](https://open.spotify.com/album/0pET03T6EolzBlC1Orb28h) | 4:55 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 | 37 | [Give Thanks \- Live](https://open.spotify.com/track/3mgMFa0mfIkjZipKJjOOyz) | [Hannah Hobbs](https://open.spotify.com/artist/4goNjt1yECtAvQw8Br9SKX) | [Give Thanks \(Live\)](https://open.spotify.com/album/21stsYT26Dm4qlPYy10Q83) | 4:14 |
 | 38 | [Always So Good \- Live](https://open.spotify.com/track/134HXcot9jJGRA7F6nbrtv) | [Thrive Worship](https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72) | [Pour Your Spirit Out \(Live\)](https://open.spotify.com/album/0JkxjZEwrZxODIbQ1j5kGs) | 5:53 |
 | 39 | [Oh Give Thanks \- Live](https://open.spotify.com/track/7cEjdAwmvaoqQExOvMujq7) | [Vincent Bohanan & SOV](https://open.spotify.com/artist/6dT6h1tNvW5ZA4lyMdXfTk) | [Live in Chicago](https://open.spotify.com/album/6a4q65e7oxn0FAMI8iWOSZ) | 5:29 |
-| 40 | [Be Thankful](https://open.spotify.com/track/4UqpMOSIlRbizfXeDa2KSB) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) | [Thankful](https://open.spotify.com/album/5KUru32rxqL7jGIKyi0HXp) | 3:52 |
-| 41 | [Give Thanks](https://open.spotify.com/track/2fRPNI68Vk8SawD7lq1rsw) | [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN) | [Give Thanks](https://open.spotify.com/album/1Aut9LT8m8InV1Yu2Yx8tE) | 3:13 |
+| 40 | [Give Thanks](https://open.spotify.com/track/2fRPNI68Vk8SawD7lq1rsw) | [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN) | [Give Thanks](https://open.spotify.com/album/1Aut9LT8m8InV1Yu2Yx8tE) | 3:13 |
+| 41 | [Be Thankful](https://open.spotify.com/track/4UqpMOSIlRbizfXeDa2KSB) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) | [Thankful](https://open.spotify.com/album/5KUru32rxqL7jGIKyi0HXp) | 3:52 |
 | 42 | [Give Thanks \- Live](https://open.spotify.com/track/6BlbfgFzbNc8jM9hAZIOmh) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [The Bloody Win \(Live\)](https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk) | 6:32 |
 | 43 | [Give Thanks \- Medley](https://open.spotify.com/track/5pg3lPpcTek4W4NPFI4MlL) | [T.D\. Jakes](https://open.spotify.com/artist/1pnLOf4IZBQeQVlFn3LBQQ) | [Woman; Thou Art Loosed!](https://open.spotify.com/album/2CzFvvN0ZMozTwPIw0wQzL) | 3:41 |
 | 44 | [Thank You Lord \(He Did It All\) \(feat\. John P\. Kee\) \- Live](https://open.spotify.com/track/0fmQv7QDcVU8zsfmCL8uj6) | [The New Life Community Choir](https://open.spotify.com/artist/1I7iiuI5AMSMCwKp8dOCXY), [John P\. Kee](https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl) | [Strength \(feat\. John P\. Kee\)](https://open.spotify.com/album/0VwV87060gmBGwitNcyaGT) | 5:14 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 | 59 | [Lord I Thank You](https://open.spotify.com/track/0ClqLgTR23AyZmRi3KLr2f) | [Mississippi Mass Choir](https://open.spotify.com/artist/30aMh21vdYVIjdVgIgHaqW) | [Amazing Love](https://open.spotify.com/album/31gd6YqNrLughgK0iMLZEk) | 4:57 |
 | 60 | [Thankful \- Live](https://open.spotify.com/track/62xo55xXPDuNekVHmERjc0) | [Cross Worship](https://open.spotify.com/artist/09uw68tTAf3gYSPAktJa7f), [Lilly Powers](https://open.spotify.com/artist/0dkmEy84PNteOhnxSZyJkt) | [Thankful \(Live\)](https://open.spotify.com/album/2rywYmIP5UX9JbaQx2H5x8) | 6:59 |
 
-Snapshot ID: `MCw1YzJlOTU4MWNmNWZjNDRkYjA3NWYxNTUxYTFhYjQyZGFhOGY5ZGM1`
+Snapshot ID: `MCxiNDM5YjU0MzM4OTYyYzA2ZjZmNzY2NzVhNWQ2Y2Y1YWZhZTg4Yjg5`

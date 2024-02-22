@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: jeanie, Artwork: Isu Kim.\n",
+  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: Lisl, Artwork: Isu Kim.\n",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -265,6 +265,24 @@
     },
     {
       "album": {
+        "name": "A Little Lost",
+        "url": "https://open.spotify.com/album/0K3CEmVS8625R46OBy1yxy"
+      },
+      "artists": [
+        {
+          "name": "Lisl",
+          "url": "https://open.spotify.com/artist/0QXKsLAV538XweY58uHBeL"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234081,
+      "name": "A Little Lost",
+      "url": "https://open.spotify.com/track/0X1vcEkmxMvFUS8xfmy4GL"
+    },
+    {
+      "album": {
         "name": "Crossroads",
         "url": "https://open.spotify.com/album/476Lb1fetsGUNYDb5pqBGx"
       },
@@ -298,6 +316,24 @@
       "duration_ms": 220792,
       "name": "A Stranger",
       "url": "https://open.spotify.com/track/4JiRlwd4dO0UnCcWh8LT6a"
+    },
+    {
+      "album": {
+        "name": "AB",
+        "url": "https://open.spotify.com/album/7wSfbOX7tKkglTvauSp99P"
+      },
+      "artists": [
+        {
+          "name": "NAVU",
+          "url": "https://open.spotify.com/artist/0LQ9Gm3mLQe2gpXqzoyZzo"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182037,
+      "name": "AB",
+      "url": "https://open.spotify.com/track/30PiY6rqpZHysYISCpUAZY"
     },
     {
       "album": {
@@ -1020,6 +1056,24 @@
       "duration_ms": 248297,
       "name": "Arbeit und Struktur",
       "url": "https://open.spotify.com/track/1xhxXNRDW0FjkCxPQPxVa3"
+    },
+    {
+      "album": {
+        "name": "Arm",
+        "url": "https://open.spotify.com/album/1DTo5HHJtXd09C1qCkpEd2"
+      },
+      "artists": [
+        {
+          "name": "xena",
+          "url": "https://open.spotify.com/artist/1Y95RMBfKhdP7ura9dM82W"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174948,
+      "name": "Arm",
+      "url": "https://open.spotify.com/track/5SEj49J7GiVe26ZV6FEUUW"
     },
     {
       "album": {
@@ -2607,6 +2661,24 @@
     },
     {
       "album": {
+        "name": "Brenn Mich Aus",
+        "url": "https://open.spotify.com/album/57RzGLeYSgPjHaINGjctlQ"
+      },
+      "artists": [
+        {
+          "name": "WOHINN",
+          "url": "https://open.spotify.com/artist/7BW1zR1tn0viUXcb8hsQk6"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183834,
+      "name": "Brenn Mich Aus",
+      "url": "https://open.spotify.com/track/01bV2KkMJZw5MzAP0QDTy5"
+    },
+    {
+      "album": {
         "name": "Brich mein Herz",
         "url": "https://open.spotify.com/album/0WOdKAHtxzb9OrOSxJ1fRt"
       },
@@ -3441,6 +3513,24 @@
     },
     {
       "album": {
+        "name": "Couples Therapy",
+        "url": "https://open.spotify.com/album/5HyLyqrPbhaRkckVuwllsE"
+      },
+      "artists": [
+        {
+          "name": "LuxJury",
+          "url": "https://open.spotify.com/artist/2zLTVYCCfZSL5zLfKNTNKw"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315453,
+      "name": "Couples Therapy",
+      "url": "https://open.spotify.com/track/3RVzXiXKzu2AkCUnATH5ZQ"
+    },
+    {
+      "album": {
         "name": "Court Of Love",
         "url": "https://open.spotify.com/album/58sGfvNN7ZrC1rnszbg3L4"
       },
@@ -3802,7 +3892,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 374194,
       "name": "Day Dreamer",
       "url": "https://open.spotify.com/track/4T2hXrAAawwH40torhVjaZ"
@@ -7916,7 +8006,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 177124,
       "name": "house on fire",
       "url": "https://open.spotify.com/track/6tgXzhS9VfFfdqPXgZOWhR"
@@ -8114,7 +8204,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 182806,
       "name": "I Don't Wanna Lose Myself",
       "url": "https://open.spotify.com/track/5qnkypfRNlDzQB9tZgsw8E"
@@ -8594,7 +8684,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 199326,
       "name": "Immer",
       "url": "https://open.spotify.com/track/6Ryc8vAXGzR2yGcl7jBZAr"
@@ -12491,6 +12581,24 @@
     },
     {
       "album": {
+        "name": "Out in the Cold",
+        "url": "https://open.spotify.com/album/4JOgCrFZbs9rkoz6pG8i4w"
+      },
+      "artists": [
+        {
+          "name": "Guac\u00e1yo",
+          "url": "https://open.spotify.com/artist/7pf98dDuWm91rz4gkrFjrN"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170293,
+      "name": "Out in the Cold",
+      "url": "https://open.spotify.com/track/4vu3HIJyV7LYBelDGAm6xb"
+    },
+    {
+      "album": {
         "name": "Out of My Head",
         "url": "https://open.spotify.com/album/3YdCsuEB2OzOYqDI6LeU1E"
       },
@@ -12846,7 +12954,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 280198,
       "name": "Plastic Riot",
       "url": "https://open.spotify.com/track/5DGAqG6LqPqT42Ecx29Uwc"
@@ -13156,7 +13264,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 128522,
       "name": "Ptbt",
       "url": "https://open.spotify.com/track/1iKhleIWVI0HfqhWPzEVxD"
@@ -13704,6 +13812,24 @@
       "duration_ms": 304887,
       "name": "Remember The Days",
       "url": "https://open.spotify.com/track/6wnnpFx5fUQkAlZsxgy3G9"
+    },
+    {
+      "album": {
+        "name": "Renegade",
+        "url": "https://open.spotify.com/album/2I9cRZuELBISktma8TNFJh"
+      },
+      "artists": [
+        {
+          "name": "Noah Sonnen",
+          "url": "https://open.spotify.com/artist/6S8WaFT1bHrVXi4ziKIuwN"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180096,
+      "name": "Renegade",
+      "url": "https://open.spotify.com/track/5103Igrla59oUcBJzOmxoG"
     },
     {
       "album": {
@@ -15710,7 +15836,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 205951,
       "name": "strawberry picking",
       "url": "https://open.spotify.com/track/4EBIVV2rqDVZ5ecz6njqPT"

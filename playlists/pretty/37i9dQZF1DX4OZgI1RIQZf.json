@@ -1,12 +1,12 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 82524,
+  "num_followers": 82561,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYzhjNTM1NzcwYjBkODMyODA2MWU3NmFkNzMxYTZiMmFjMWNlYjk0",
+  "snapshot_id": "MCw4MjgzZGIyOGYxYWYzOGZhZmZhZTlhN2ZkODlmNTE4Mjk5NjZlOWJm",
   "tracks": [
     {
       "added_at": "2023-10-27 07:45:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
-        "name": "Valley Ghoul",
-        "url": "https://open.spotify.com/album/5FxIFpKhK6juAjoMzYmypW"
-      },
-      "artists": [
-        {
-          "name": "Provoker",
-          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
-        }
-      ],
-      "duration_ms": 182778,
-      "name": "Valley Ghoul",
-      "url": "https://open.spotify.com/track/4Gpvffa23tFfBjbusONE01"
-    },
-    {
-      "added_at": "2023-10-27 07:45:00",
-      "album": {
         "name": "Friendly Fires",
         "url": "https://open.spotify.com/album/3sGsbbZGQqc3npPtdlAgnU"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 213640,
       "name": "Skeleton Boy",
       "url": "https://open.spotify.com/track/0O2UcLBP75ugJ8DxskP8gz"
+    },
+    {
+      "added_at": "2023-10-27 07:45:00",
+      "album": {
+        "name": "Valley Ghoul",
+        "url": "https://open.spotify.com/album/5FxIFpKhK6juAjoMzYmypW"
+      },
+      "artists": [
+        {
+          "name": "Provoker",
+          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
+        }
+      ],
+      "duration_ms": 182778,
+      "name": "Valley Ghoul",
+      "url": "https://open.spotify.com/track/4Gpvffa23tFfBjbusONE01"
     },
     {
       "added_at": "2023-10-27 07:45:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
-        "name": "Little Bit 'O Soul [From The Amazon Original Movie \u201cTotally Killer\u201d]",
-        "url": "https://open.spotify.com/album/3CiQoxlWPtdMJwLIVQyAPM"
-      },
-      "artists": [
-        {
-          "name": "The Linda Lindas",
-          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
-        }
-      ],
-      "duration_ms": 160800,
-      "name": "Little Bit 'O Soul [From The Amazon Original Movie \u201cTotally Killer\u201d]",
-      "url": "https://open.spotify.com/track/01d3ikcS8fpRKTBgOLcwqO"
-    },
-    {
-      "added_at": "2023-10-27 07:45:00",
-      "album": {
         "name": "Beat the Devil's Tattoo",
         "url": "https://open.spotify.com/album/7tSapn3n98ZkK3B1EXEGII"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 235746,
       "name": "River Styx",
       "url": "https://open.spotify.com/track/4X5BZo70kQoOcDN2KlbrPC"
+    },
+    {
+      "added_at": "2023-10-27 07:45:00",
+      "album": {
+        "name": "Little Bit 'O Soul [From The Amazon Original Movie \u201cTotally Killer\u201d]",
+        "url": "https://open.spotify.com/album/3CiQoxlWPtdMJwLIVQyAPM"
+      },
+      "artists": [
+        {
+          "name": "The Linda Lindas",
+          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+        }
+      ],
+      "duration_ms": 160800,
+      "name": "Little Bit 'O Soul [From The Amazon Original Movie \u201cTotally Killer\u201d]",
+      "url": "https://open.spotify.com/track/01d3ikcS8fpRKTBgOLcwqO"
     },
     {
       "added_at": "2023-10-27 07:45:00",

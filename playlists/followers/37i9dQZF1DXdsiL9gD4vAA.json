@@ -1,5 +1,5 @@
 {
-  "2024-02-21": 89497,
+  "2024-02-22": 89601,
   "date_first_scraped": "2021-12-28",
   "description": "Let these contemplative couplets take you away.",
   "name": "Golden Ghazals",
@@ -1215,6 +1215,32 @@
     {
       "album": {
         "name": "Is Kadar Aap",
+        "url": "https://open.spotify.com/album/3kienetTHzkuMoInDjWAnn"
+      },
+      "artists": [
+        {
+          "name": "Pamela Jain",
+          "url": "https://open.spotify.com/artist/4BBdp811wrWrr1zk9dENUE"
+        },
+        {
+          "name": "Payam Saeedi",
+          "url": "https://open.spotify.com/artist/5LVtMCXokvKh5UIFjVkzKi"
+        },
+        {
+          "name": "Dr Ashim K Mukherjee",
+          "url": "https://open.spotify.com/artist/5RmZ5hmHhvSGJpa2nhoO4h"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358378,
+      "name": "Is Kadar Aap",
+      "url": "https://open.spotify.com/track/17Wa63bXPvwp6ebsZ4wND4"
+    },
+    {
+      "album": {
+        "name": "Is Kadar Aap",
         "url": "https://open.spotify.com/album/27sYpj3X5BGEwhZmwZv7d2"
       },
       "artists": [
@@ -1233,7 +1259,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 358378,
       "name": "Is Kadar Aap",
       "url": "https://open.spotify.com/track/2uVSOIZX1e86caQnmB7xNt"

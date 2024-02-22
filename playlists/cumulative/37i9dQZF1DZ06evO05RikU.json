@@ -76,7 +76,7 @@
       ],
       "date_added": "2024-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 170765,
       "name": "1, 2, 3 - Sped Up",
       "url": "https://open.spotify.com/track/2RJnhDvc6Z4xwMX6hhkeRX"
@@ -1368,6 +1368,32 @@
       "duration_ms": 149589,
       "name": "tqum",
       "url": "https://open.spotify.com/track/3zR2iyPKGtAVyvAYZH1YUr"
+    },
+    {
+      "album": {
+        "name": "tqum (feat. Kim Petras) [Remix]",
+        "url": "https://open.spotify.com/album/3AkqnUN42HjnrhzjDOA8IS"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149589,
+      "name": "tqum (feat. Kim Petras) - Remix",
+      "url": "https://open.spotify.com/track/4XkGvXQm7GKZDZkQ6CgMDN"
     },
     {
       "album": {

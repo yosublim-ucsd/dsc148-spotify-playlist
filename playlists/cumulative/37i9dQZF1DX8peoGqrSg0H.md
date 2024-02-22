@@ -4,7 +4,7 @@
 
 > เพลง T\-Pop โดนใจ อัปเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: BUS
 
-442 songs - 1 day 2 hr 28 min
+443 songs - 1 day 2 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Chop Chop! \(รีบไปรีบมา\)](https://open.spotify.com/track/6M8nx5vDof89UySjbL8KPM) | [RedSpin](https://open.spotify.com/artist/3NM9LMFT0J6AhkQXov8Ck7) | [Chop Chop! \(รีบไปรีบมา\)](https://open.spotify.com/album/5cG51iqdsWcuZ5BGmEumN5) | 2:58 | 2022-09-02 | 2022-09-16 |
 | [Closer \(Clothes Off\)](https://open.spotify.com/track/23siAc5fhlQ0CnWeXDTdI2) | [Matcha](https://open.spotify.com/artist/0GZbuy9UUeALxPTa5GpRrf) | [Closer \(Clothes Off\)](https://open.spotify.com/album/6GBRwdee7lE4S0OLAwary7) | 3:15 | 2023-05-02 | 2023-05-11 |
 | [Complicated](https://open.spotify.com/track/127yslRWWqtCGIYlkb9es2) | [Matcha](https://open.spotify.com/artist/0GZbuy9UUeALxPTa5GpRrf) | [Complicated](https://open.spotify.com/album/1X4ePQhsh9fOOz3944bxuR) | 3:01 | 2022-09-08 | 2022-09-16 |
-| [Congratulations \(ยินดีกับเธอ\)](https://open.spotify.com/track/5aMsKFD43XuYWH6rpzXV4C) | [GULFKANAWUT](https://open.spotify.com/artist/18rLnzDRgijQDrHurajXAS) | [Congratulations \(ยินดีกับเธอ\)](https://open.spotify.com/album/0iGonUyEYw1iEEvwsjAKeO) | 3:09 | 2024-02-15 |  |
+| [Congratulations \(ยินดีกับเธอ\)](https://open.spotify.com/track/5aMsKFD43XuYWH6rpzXV4C) | [GULFKANAWUT](https://open.spotify.com/artist/18rLnzDRgijQDrHurajXAS) | [Congratulations \(ยินดีกับเธอ\)](https://open.spotify.com/album/0iGonUyEYw1iEEvwsjAKeO) | 3:09 | 2024-02-15 | 2024-02-22 |
 | [Daily Magic](https://open.spotify.com/track/21gpUjOF7vYrqMMjQgMI3g) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [Daily Magic](https://open.spotify.com/album/5Rgqtmbcjo7yoK7a0s7TpR) | 4:12 | 2023-10-26 | 2023-12-08 |
 | [DEJAYOU](https://open.spotify.com/track/1bgLH9NEAFkwnMwDmD8ScN) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [DEJAYOU](https://open.spotify.com/album/6DYhEl80WKxsFyl9sTQMzi) | 3:27 | 2023-07-16 |  |
 | [don't wanna miss you](https://open.spotify.com/track/4RfKwkEosc5ObAzKRMyU5b) | [bXd](https://open.spotify.com/artist/11R7WnedRjQv6G7ZGodm7Q) | [don't wanna miss you](https://open.spotify.com/album/48hRUZvo0w1yOgBZOAUEyf) | 4:17 | 2023-09-15 | 2023-09-26 |
@@ -364,6 +364,7 @@
 | [เจ้าใจ \- Liar](https://open.spotify.com/track/2KovoeIzjao7ZVNvjsWigW) | [Marc Tatchapon](https://open.spotify.com/artist/6bgJVFxXoLzHewXZmpdpGs) | [เจ้าใจ \(Liar\)](https://open.spotify.com/album/7gJJuBiAKIXqTHQyo8JGaE) | 3:21 | 2022-07-01 | 2022-07-31 |
 | [เดาไม่เก่ง](https://open.spotify.com/track/0FQuyJ6MTsvGcXQur2EPgk) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [This City Won’t Be Lonely Anymore](https://open.spotify.com/album/3ChHwbwIhGCH4gprc66ZgU) | 3:06 | 2022-05-26 | 2022-10-27 |
 | [เถียงเก่ง \(Bad Mouth\)](https://open.spotify.com/track/5yvRKTDlHFLjAJ34TlazlN) | [ALALA](https://open.spotify.com/artist/5GY9bf48Z59vy7dcwbn7yt), [URBOYTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg) | [เถียงเก่ง \(Bad Mouth\) \[feat\. UrboyTJ\]](https://open.spotify.com/album/1RwPXnOxs97fKVZy572vvo) | 3:37 | 2023-03-02 | 2023-03-16 |
+| [เทคะแนน \(CANDIDATE\)](https://open.spotify.com/track/4UgAVgYNBahclsbXTbP3Xn) | [FOURTH](https://open.spotify.com/artist/4PtJISxBNvXOwLxuQgUiyQ) | [เทคะแนน \(CANDIDATE\) \- Single](https://open.spotify.com/album/25MlWfSLmLz4bXUoSHdKMj) | 3:09 | 2024-02-21 |  |
 | [เท่าไหร่ก็ไม่พอ](https://open.spotify.com/track/72YpO0c69zW1sdDxfdqQwf) | [Bell Supol](https://open.spotify.com/artist/2evGkOhBM2TYqcsdbfJmug) | [เท่าไหร่ก็ไม่พอ](https://open.spotify.com/album/2OaI9TOAJNRr5WWbOYsr0N) | 3:54 | 2022-07-01 | 2022-07-11 |
 | [เธอคนไหน \(U\-WHO\)](https://open.spotify.com/track/0AhcURCHS8NhcsHYRrEBH7) | [TOFFE](https://open.spotify.com/artist/2seAV47mn1Z0NnjI78vLPn) | [เธอคนไหน \(U\-WHO\)](https://open.spotify.com/album/57GVTJ24ATQb3SjA8apw4u) | 3:02 | 2022-08-18 | 2022-08-26 |
 | [เธอมีความหมาย \(My Treasure\)](https://open.spotify.com/track/5iDTtBDNjC1FBeLdgyF0LC) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [เธอมีความหมาย \(My Treasure\)](https://open.spotify.com/album/41piugn0SZiKzpmovdNDQw) | 3:26 | 2022-07-01 | 2022-07-24 |

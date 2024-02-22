@@ -1,12 +1,12 @@
 {
   "description": "The sounds of LGBTQ+ punk. Cover: The Oozes",
-  "num_followers": 186154,
+  "num_followers": 186226,
   "original_name": "Queercore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyM2UxZjY4MDFkYzI4MTFjNDcxOTA1ZjU0MGI1MzQ5ZjQzNzFhNjgy",
+  "snapshot_id": "MCxmY2UxNzcxNzM1YWVlNWMxOGFjZjFhYWFjZDNjMmEyNWU3NTY4N2Mz",
   "tracks": [
     {
       "added_at": "2023-05-25 14:38:53",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Pity Boy",
-        "url": "https://open.spotify.com/album/4YGMJS0WLOU318ITYqpYo5"
-      },
-      "artists": [
-        {
-          "name": "Mal Blum",
-          "url": "https://open.spotify.com/artist/4tT8fWyOy0hVI7jo9fJmXX"
-        }
-      ],
-      "duration_ms": 151473,
-      "name": "Things Still Left to Say",
-      "url": "https://open.spotify.com/track/4aZq3QHHQHI5tCcjnhIES7"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "You're Welcome",
         "url": "https://open.spotify.com/album/0mmHl5Z8DhJvbtQVQ3Irc9"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 155788,
       "name": "Boys in the Band",
       "url": "https://open.spotify.com/track/3BtMOmGUe3VEFz4uXGzqlT"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "Pity Boy",
+        "url": "https://open.spotify.com/album/4YGMJS0WLOU318ITYqpYo5"
+      },
+      "artists": [
+        {
+          "name": "Mal Blum",
+          "url": "https://open.spotify.com/artist/4tT8fWyOy0hVI7jo9fJmXX"
+        }
+      ],
+      "duration_ms": 151473,
+      "name": "Things Still Left to Say",
+      "url": "https://open.spotify.com/track/4aZq3QHHQHI5tCcjnhIES7"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "gasoline",
-        "url": "https://open.spotify.com/album/5fpTeGoair7Yj69gyJfjUh"
-      },
-      "artists": [
-        {
-          "name": "Baby Guts",
-          "url": "https://open.spotify.com/artist/0n7Xc7tVMZdgrQgNoVyqIR"
-        }
-      ],
-      "duration_ms": 114053,
-      "name": "Staplegun",
-      "url": "https://open.spotify.com/track/4JRs49S2iWLrYKppB2Nmql"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "The Royal They",
         "url": "https://open.spotify.com/album/4oJvLQk4aJ8feombYas5YH"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 183994,
       "name": "Full Metal Black",
       "url": "https://open.spotify.com/track/2MQsDtg1jb4qI5OcurHMI0"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "gasoline",
+        "url": "https://open.spotify.com/album/5fpTeGoair7Yj69gyJfjUh"
+      },
+      "artists": [
+        {
+          "name": "Baby Guts",
+          "url": "https://open.spotify.com/artist/0n7Xc7tVMZdgrQgNoVyqIR"
+        }
+      ],
+      "duration_ms": 114053,
+      "name": "Staplegun",
+      "url": "https://open.spotify.com/track/4JRs49S2iWLrYKppB2Nmql"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "High Risk Homosexual Behavior",
-        "url": "https://open.spotify.com/album/6uTcZlIYH8rpuk5wlvPR3C"
-      },
-      "artists": [
-        {
-          "name": "Dog Park Dissidents",
-          "url": "https://open.spotify.com/artist/3n7gyeQTlIwleoJFpOIMFp"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "Rev Your Motor",
-      "url": "https://open.spotify.com/track/6VNNakpjSH8LNBX7fSGhUv"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "All at Once",
         "url": "https://open.spotify.com/album/1AamkKRYew16QStHIhgY1A"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 291600,
       "name": "Bird in Space",
       "url": "https://open.spotify.com/track/4PYyyaASFb3gZ9Jh4zisiz"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "High Risk Homosexual Behavior",
+        "url": "https://open.spotify.com/album/6uTcZlIYH8rpuk5wlvPR3C"
+      },
+      "artists": [
+        {
+          "name": "Dog Park Dissidents",
+          "url": "https://open.spotify.com/artist/3n7gyeQTlIwleoJFpOIMFp"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "Rev Your Motor",
+      "url": "https://open.spotify.com/track/6VNNakpjSH8LNBX7fSGhUv"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Big Shouty",
-        "url": "https://open.spotify.com/album/1pWMoHSZKWMnr4zYmG4NvH"
-      },
-      "artists": [
-        {
-          "name": "Problem Patterns",
-          "url": "https://open.spotify.com/artist/4u5UG0TxXroCBnpgBruPOP"
-        }
-      ],
-      "duration_ms": 86000,
-      "name": "Big Shouty",
-      "url": "https://open.spotify.com/track/2JDMX69HvkeJuoNmFoj1Lz"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "Arnos Vale",
         "url": "https://open.spotify.com/album/7KjTamXxcgfZ2gAmI24BQ5"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 223889,
       "name": "This Is What We Look Like",
       "url": "https://open.spotify.com/track/3jcjcAPaXCmsTIs8R08Q2q"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "Big Shouty",
+        "url": "https://open.spotify.com/album/1pWMoHSZKWMnr4zYmG4NvH"
+      },
+      "artists": [
+        {
+          "name": "Problem Patterns",
+          "url": "https://open.spotify.com/artist/4u5UG0TxXroCBnpgBruPOP"
+        }
+      ],
+      "duration_ms": 86000,
+      "name": "Big Shouty",
+      "url": "https://open.spotify.com/track/2JDMX69HvkeJuoNmFoj1Lz"
     },
     {
       "added_at": "2023-05-25 14:38:53",

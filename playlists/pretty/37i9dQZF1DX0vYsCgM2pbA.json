@@ -1,12 +1,12 @@
 {
   "description": "Kick on with this mix of homegrown electronic music",
-  "num_followers": 134710,
+  "num_followers": 134735,
   "original_name": "Sunday Sessions",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTM5M2MxYTk3ZjA0ZDBkZjcwYTkzODBlNWUzYmU2MmVjYTUwZTA3",
+  "snapshot_id": "MCxiNWNhNWEyM2UyMDhlNGI3ZDZkOTRkYTNlNDMxNjI5NTEyZTVlMzNh",
   "tracks": [
     {
       "added_at": "2024-02-01 13:01:25",
@@ -487,8 +487,8 @@
     {
       "added_at": "2024-02-01 13:01:25",
       "album": {
-        "name": "Say Nothing (feat. MAY-A)",
-        "url": "https://open.spotify.com/album/3QMl37rC1ye7PKRFH7Bgz9"
+        "name": "Ripple",
+        "url": "https://open.spotify.com/album/3HCEwjTot7RUhwiOWrVQbI"
       },
       "artists": [
         {
@@ -496,13 +496,17 @@
           "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
         },
         {
-          "name": "MAY-A",
-          "url": "https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN"
+          "name": "Chrome Sparks",
+          "url": "https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM"
+        },
+        {
+          "name": "Sycco",
+          "url": "https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0"
         }
       ],
-      "duration_ms": 232959,
-      "name": "Say Nothing (feat. MAY-A)",
-      "url": "https://open.spotify.com/track/424Uwmm1kNW07Ty1nOhSpl"
+      "duration_ms": 214539,
+      "name": "Ripple",
+      "url": "https://open.spotify.com/track/0Xul1iN8b3j4uZlqCUssaP"
     },
     {
       "added_at": "2024-02-01 13:01:25",
@@ -539,26 +543,6 @@
     {
       "added_at": "2024-02-01 13:01:25",
       "album": {
-        "name": "Daydreaming",
-        "url": "https://open.spotify.com/album/4kbNKlVp255OjdXPDii8Nz"
-      },
-      "artists": [
-        {
-          "name": "Young Franco",
-          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
-        },
-        {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
-        }
-      ],
-      "duration_ms": 183377,
-      "name": "Daydreaming",
-      "url": "https://open.spotify.com/track/4vOXQM1c4M6CCASiWkR2n0"
-    },
-    {
-      "added_at": "2024-02-01 13:01:25",
-      "album": {
         "name": "No Nein",
         "url": "https://open.spotify.com/album/5vmCLooZQ8zXFbabT1nvxP"
       },
@@ -575,6 +559,26 @@
       "duration_ms": 151273,
       "name": "No Nein",
       "url": "https://open.spotify.com/track/4qeIlzP0Z1JFXh0AckDcX8"
+    },
+    {
+      "added_at": "2024-02-01 13:01:25",
+      "album": {
+        "name": "Daydreaming",
+        "url": "https://open.spotify.com/album/4kbNKlVp255OjdXPDii8Nz"
+      },
+      "artists": [
+        {
+          "name": "Young Franco",
+          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
+        },
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "duration_ms": 183377,
+      "name": "Daydreaming",
+      "url": "https://open.spotify.com/track/4vOXQM1c4M6CCASiWkR2n0"
     },
     {
       "added_at": "2024-02-01 13:01:25",
@@ -671,8 +675,8 @@
     {
       "added_at": "2024-02-01 13:01:25",
       "album": {
-        "name": "Ripple",
-        "url": "https://open.spotify.com/album/3HCEwjTot7RUhwiOWrVQbI"
+        "name": "Palaces",
+        "url": "https://open.spotify.com/album/6SZtno2XqSmfr5MKsNeXmC"
       },
       "artists": [
         {
@@ -680,17 +684,13 @@
           "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
         },
         {
-          "name": "Chrome Sparks",
-          "url": "https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM"
-        },
-        {
-          "name": "Sycco",
-          "url": "https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0"
+          "name": "MAY-A",
+          "url": "https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN"
         }
       ],
-      "duration_ms": 214539,
-      "name": "Ripple",
-      "url": "https://open.spotify.com/track/0Xul1iN8b3j4uZlqCUssaP"
+      "duration_ms": 232959,
+      "name": "Say Nothing (feat. MAY-A)",
+      "url": "https://open.spotify.com/track/4uBgAIrCRf8ed02XbNKdBQ"
     },
     {
       "added_at": "2024-02-01 13:01:25",
@@ -1091,6 +1091,26 @@
     {
       "added_at": "2024-02-01 13:01:25",
       "album": {
+        "name": "Palaces",
+        "url": "https://open.spotify.com/album/6SZtno2XqSmfr5MKsNeXmC"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "Oklou",
+          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+        }
+      ],
+      "duration_ms": 216818,
+      "name": "Highest Building (feat. Oklou)",
+      "url": "https://open.spotify.com/track/7ArxGCEhnDapBu3NWCsytf"
+    },
+    {
+      "added_at": "2024-02-01 13:01:25",
+      "album": {
         "name": "Loner",
         "url": "https://open.spotify.com/album/0sFdU2ngIsxgpErPAwgbvq"
       },
@@ -1123,26 +1143,6 @@
       "duration_ms": 258750,
       "name": "Chase the Sun (Odd Mob Remix)",
       "url": "https://open.spotify.com/track/6CrakXqqM1VgkCOmo7OU6i"
-    },
-    {
-      "added_at": "2024-02-01 13:01:25",
-      "album": {
-        "name": "Palaces",
-        "url": "https://open.spotify.com/album/6SZtno2XqSmfr5MKsNeXmC"
-      },
-      "artists": [
-        {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        },
-        {
-          "name": "Oklou",
-          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
-        }
-      ],
-      "duration_ms": 216818,
-      "name": "Highest Building (feat. Oklou)",
-      "url": "https://open.spotify.com/track/7ArxGCEhnDapBu3NWCsytf"
     },
     {
       "added_at": "2024-02-01 13:01:25",

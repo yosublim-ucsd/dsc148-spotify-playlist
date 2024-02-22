@@ -1,12 +1,12 @@
 {
   "description": "Sometimes it's nice to be nice, you know.",
-  "num_followers": 207679,
+  "num_followers": 207814,
   "original_name": "The Lovely Little Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMmFkYmUxZDA1ZjBiZTE1YTAwZTI4NWQzMjk2NjQ2ZjU2YzVmNDQ5",
+  "snapshot_id": "MCxiYzRhNGFiMWQxNDExY2FjM2Y5Zjk0OWQyNTc5YWM3OGEyY2E5ODJi",
   "tracks": [
     {
       "added_at": "2022-08-05 10:31:40",
@@ -45,6 +45,26 @@
       "url": "https://open.spotify.com/track/4qG7hWhljsqqENL5PaLA2z"
     },
     {
+      "added_at": "2024-02-21 11:44:23",
+      "album": {
+        "name": "My Big Day",
+        "url": "https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO"
+      },
+      "artists": [
+        {
+          "name": "Bombay Bicycle Club",
+          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+        },
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 215986,
+      "name": "Diving - feat. Holly Humberstone",
+      "url": "https://open.spotify.com/track/786ApDDgJHMbvYaJCA4psT"
+    },
+    {
       "added_at": "2023-01-13 13:15:53",
       "album": {
         "name": "five seconds flat",
@@ -59,6 +79,22 @@
       "duration_ms": 182887,
       "name": "ceilings",
       "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
+    },
+    {
+      "added_at": "2024-02-21 11:44:23",
+      "album": {
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 159245,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
     },
     {
       "added_at": "2023-02-22 19:41:50",
@@ -77,22 +113,6 @@
       "url": "https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf"
     },
     {
-      "added_at": "2023-09-29 10:53:41",
-      "album": {
-        "name": "Turn The World On",
-        "url": "https://open.spotify.com/album/0zL6Nw3i8LCzj4HRI2olI3"
-      },
-      "artists": [
-        {
-          "name": "Bombay Bicycle Club",
-          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
-        }
-      ],
-      "duration_ms": 210173,
-      "name": "Turn The World On",
-      "url": "https://open.spotify.com/track/5zeMiru9wbjdLBNYhFZa3G"
-    },
-    {
       "added_at": "2023-07-28 13:45:12",
       "album": {
         "name": "Vampire Empire",
@@ -107,6 +127,22 @@
       "duration_ms": 192127,
       "name": "Vampire Empire",
       "url": "https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW"
+    },
+    {
+      "added_at": "2024-02-18 00:00:00",
+      "album": {
+        "name": "Release Myself",
+        "url": "https://open.spotify.com/album/0KFPqibU9CKkZCwRNfyRxT"
+      },
+      "artists": [
+        {
+          "name": "Bess Atwell",
+          "url": "https://open.spotify.com/artist/6Pim5E5Lm03COsjHj2aEiK"
+        }
+      ],
+      "duration_ms": 218312,
+      "name": "Release Myself",
+      "url": "https://open.spotify.com/track/2ghHspqlmRofnMVcCBJ4Bu"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -131,18 +167,18 @@
     {
       "added_at": "2024-02-18 00:00:00",
       "album": {
-        "name": "Release Myself",
-        "url": "https://open.spotify.com/album/0KFPqibU9CKkZCwRNfyRxT"
+        "name": "Missing Out",
+        "url": "https://open.spotify.com/album/0QKpvLKm47m5FNPmGUwzMH"
       },
       "artists": [
         {
-          "name": "Bess Atwell",
-          "url": "https://open.spotify.com/artist/6Pim5E5Lm03COsjHj2aEiK"
+          "name": "Maya Hawke",
+          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
         }
       ],
-      "duration_ms": 218312,
-      "name": "Release Myself",
-      "url": "https://open.spotify.com/track/2ghHspqlmRofnMVcCBJ4Bu"
+      "duration_ms": 217320,
+      "name": "Missing Out",
+      "url": "https://open.spotify.com/track/2kAYu8GaEILjHWtqYg83TD"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -159,22 +195,6 @@
       "duration_ms": 210299,
       "name": "Cold Little Heart - Radio Edit",
       "url": "https://open.spotify.com/track/7KX65PC1UZuImsUInThbav"
-    },
-    {
-      "added_at": "2024-02-18 00:00:00",
-      "album": {
-        "name": "Missing Out",
-        "url": "https://open.spotify.com/album/0QKpvLKm47m5FNPmGUwzMH"
-      },
-      "artists": [
-        {
-          "name": "Maya Hawke",
-          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
-        }
-      ],
-      "duration_ms": 217320,
-      "name": "Missing Out",
-      "url": "https://open.spotify.com/track/2kAYu8GaEILjHWtqYg83TD"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -329,6 +349,22 @@
       "url": "https://open.spotify.com/track/6LLb6rVMgQnGNZwwHSxTzn"
     },
     {
+      "added_at": "2024-02-21 11:44:23",
+      "album": {
+        "name": "So When You Gonna...",
+        "url": "https://open.spotify.com/album/71jK9N64IaQZkBR40VAynn"
+      },
+      "artists": [
+        {
+          "name": "Dream Wife",
+          "url": "https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a"
+        }
+      ],
+      "duration_ms": 175914,
+      "name": "Temporary",
+      "url": "https://open.spotify.com/track/3HYULmdayLWs1wF4t7ht4p"
+    },
+    {
       "added_at": "2022-08-05 10:31:40",
       "album": {
         "name": "Alvvays",
@@ -415,22 +451,6 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "Antisocialites",
-        "url": "https://open.spotify.com/album/2Yy84EeclNVwFDem6yIB2s"
-      },
-      "artists": [
-        {
-          "name": "Alvvays",
-          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
-        }
-      ],
-      "duration_ms": 196026,
-      "name": "Dreams Tonite",
-      "url": "https://open.spotify.com/track/6TcxxINfeaBEQ35sHMldTD"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
         "name": "I Had The Blues But I Shook Them Loose",
         "url": "https://open.spotify.com/album/4X0bhkSBOfcnOPyfG5Ef6a"
       },
@@ -459,6 +479,22 @@
       "duration_ms": 202560,
       "name": "The Greatest",
       "url": "https://open.spotify.com/track/0OVXLPJPDCFn1IV6bFxY1N"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "Antisocialites",
+        "url": "https://open.spotify.com/album/2Yy84EeclNVwFDem6yIB2s"
+      },
+      "artists": [
+        {
+          "name": "Alvvays",
+          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
+        }
+      ],
+      "duration_ms": 196026,
+      "name": "Dreams Tonite",
+      "url": "https://open.spotify.com/track/6TcxxINfeaBEQ35sHMldTD"
     },
     {
       "added_at": "2023-01-13 13:15:53",
@@ -737,20 +773,20 @@
       "url": "https://open.spotify.com/track/1V888fh2JLVzMElr1pEz6Z"
     },
     {
-      "added_at": "2022-08-05 10:31:40",
+      "added_at": "2024-02-21 11:44:23",
       "album": {
-        "name": "Chlo\u00eb and the Next 20th Century",
-        "url": "https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz"
+        "name": "Girls That Play",
+        "url": "https://open.spotify.com/album/1X71C3gwouR1BOm8WA2LFx"
       },
       "artists": [
         {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+          "name": "Etta Marcus",
+          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
         }
       ],
-      "duration_ms": 300240,
-      "name": "Goodbye Mr. Blue",
-      "url": "https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY"
+      "duration_ms": 202302,
+      "name": "Girls That Play",
+      "url": "https://open.spotify.com/track/6LFKTSenkUPdjtoGk5VIN0"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -767,6 +803,22 @@
       "duration_ms": 202226,
       "name": "Birdcage",
       "url": "https://open.spotify.com/track/1ulB5740qjdSila4Vjnb7Z"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "Chlo\u00eb and the Next 20th Century",
+        "url": "https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 300240,
+      "name": "Goodbye Mr. Blue",
+      "url": "https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -901,22 +953,6 @@
       "url": "https://open.spotify.com/track/1vXmhTcKkv7Kck2gBap1fz"
     },
     {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
-        "name": "In Mind",
-        "url": "https://open.spotify.com/album/7IQn4jT1WciC5O9DZrxeKv"
-      },
-      "artists": [
-        {
-          "name": "Real Estate",
-          "url": "https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT"
-        }
-      ],
-      "duration_ms": 260386,
-      "name": "Darling",
-      "url": "https://open.spotify.com/track/36PQh1G6h7n9VWB799fXpI"
-    },
-    {
       "added_at": "2023-09-29 10:53:41",
       "album": {
         "name": "The Earth is a Very Small Dot",
@@ -931,6 +967,22 @@
       "duration_ms": 236100,
       "name": "The Earth is a Very Small Dot",
       "url": "https://open.spotify.com/track/0WNKKSvQmWcdoI7MvYtcqh"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "In Mind",
+        "url": "https://open.spotify.com/album/7IQn4jT1WciC5O9DZrxeKv"
+      },
+      "artists": [
+        {
+          "name": "Real Estate",
+          "url": "https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT"
+        }
+      ],
+      "duration_ms": 260386,
+      "name": "Darling",
+      "url": "https://open.spotify.com/track/36PQh1G6h7n9VWB799fXpI"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1047,22 +1099,6 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "Atlas",
-        "url": "https://open.spotify.com/album/5k7WCAZPSbJYzjW5SCQ5sn"
-      },
-      "artists": [
-        {
-          "name": "Real Estate",
-          "url": "https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT"
-        }
-      ],
-      "duration_ms": 187733,
-      "name": "Talking Backwards",
-      "url": "https://open.spotify.com/track/0ZwlxoHAnvkCRjsOrHAleU"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
         "name": "My Own Person",
         "url": "https://open.spotify.com/album/3vSGcFG4BIsHI4xXO5w2PA"
       },
@@ -1091,6 +1127,22 @@
       "duration_ms": 203826,
       "name": "Honey",
       "url": "https://open.spotify.com/track/1KaAcMbFNcqxmt9lzjkm9b"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "Atlas",
+        "url": "https://open.spotify.com/album/5k7WCAZPSbJYzjW5SCQ5sn"
+      },
+      "artists": [
+        {
+          "name": "Real Estate",
+          "url": "https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT"
+        }
+      ],
+      "duration_ms": 187733,
+      "name": "Talking Backwards",
+      "url": "https://open.spotify.com/track/0ZwlxoHAnvkCRjsOrHAleU"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1155,22 +1207,6 @@
       "duration_ms": 193240,
       "name": "Call Me in the Afternoon",
       "url": "https://open.spotify.com/track/2BzR2zRJIcFcMCIBKAD68U"
-    },
-    {
-      "added_at": "2024-02-18 00:00:00",
-      "album": {
-        "name": "The Death Of Summer & Other Promises",
-        "url": "https://open.spotify.com/album/0esL2lh3mMULygf9eA6RlV"
-      },
-      "artists": [
-        {
-          "name": "Etta Marcus",
-          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
-        }
-      ],
-      "duration_ms": 269411,
-      "name": "Skin Parade",
-      "url": "https://open.spotify.com/track/2ULTiHf6StaL4Hbyarfr2h"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1253,6 +1289,38 @@
       "url": "https://open.spotify.com/track/4itvVGU4tjNOiaAv4TrzsZ"
     },
     {
+      "added_at": "2024-02-21 11:44:23",
+      "album": {
+        "name": "Truth\u2606Truth",
+        "url": "https://open.spotify.com/album/1jntHHi1HpBdfSPuwUtmwN"
+      },
+      "artists": [
+        {
+          "name": "EF\u00c9",
+          "url": "https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C"
+        }
+      ],
+      "duration_ms": 224385,
+      "name": "Truth\u2606Truth",
+      "url": "https://open.spotify.com/track/6vfJ8MiERPMLsI0g0LQfUt"
+    },
+    {
+      "added_at": "2024-02-21 11:44:23",
+      "album": {
+        "name": "pink dress",
+        "url": "https://open.spotify.com/album/2By8efmDvVvtVaWyJdyx0s"
+      },
+      "artists": [
+        {
+          "name": "Humble the Great",
+          "url": "https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP"
+        }
+      ],
+      "duration_ms": 173329,
+      "name": "pink dress",
+      "url": "https://open.spotify.com/track/2MBuWN9LjsJSKyGlWSJOXo"
+    },
+    {
       "added_at": "2023-02-03 00:30:16",
       "album": {
         "name": "Del Water Gap",
@@ -1269,22 +1337,6 @@
       "url": "https://open.spotify.com/track/1mVva2Aa3gD9Wwlqg2G1y3"
     },
     {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
-        "name": "The Boy With The Arab Strap",
-        "url": "https://open.spotify.com/album/4AChnLbiWqxiotXz8kv6D7"
-      },
-      "artists": [
-        {
-          "name": "Belle and Sebastian",
-          "url": "https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h"
-        }
-      ],
-      "duration_ms": 314173,
-      "name": "The Boy with the Arab Strap",
-      "url": "https://open.spotify.com/track/2PV8oZJo3K3bXENO7FRRtp"
-    },
-    {
       "added_at": "2023-07-28 13:45:12",
       "album": {
         "name": "The Secret To Life",
@@ -1299,54 +1351,6 @@
       "duration_ms": 235887,
       "name": "Close One",
       "url": "https://open.spotify.com/track/4mL3gs1HONGGLaZyW6OYMq"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
-        "name": "About A Boy Soundtrack",
-        "url": "https://open.spotify.com/album/6P2Bd7VCudP8LcFGNb5orx"
-      },
-      "artists": [
-        {
-          "name": "Badly Drawn Boy",
-          "url": "https://open.spotify.com/artist/244fcyNSuyhbRlMGfMbYrO"
-        }
-      ],
-      "duration_ms": 220866,
-      "name": "Something to Talk About",
-      "url": "https://open.spotify.com/track/4rwOvI1E7CAlOX0XZ5EMyG"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
-        "name": "Quiet Is The New Loud",
-        "url": "https://open.spotify.com/album/4hUevKZdIe9SCLneuunJZz"
-      },
-      "artists": [
-        {
-          "name": "Kings of Convenience",
-          "url": "https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7"
-        }
-      ],
-      "duration_ms": 277506,
-      "name": "I Don't Know What I Can Save You From",
-      "url": "https://open.spotify.com/track/4KHO9py2dphAa5pfegUojN"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/3I1oxH4FGfmlO6SSK31N7X"
-      },
-      "artists": [
-        {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
-        }
-      ],
-      "duration_ms": 166053,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/53Mq10qpih00CLPph20MVp"
     }
   ],
   "unique_name": "The Lovely Little Playlist",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cTwPMorHcH.md) - [plain]
 
 > Blues \- new and old \- to accompany your drive\. Cover: B.B\. King
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,706 likes - 100 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,733 likes - 100 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cTwPMorHcH.md) - [plain]
 | 26 | [I'm Your Hoochie Coochie Man](https://open.spotify.com/track/3KSchPNSklO5McIqRH3qYX) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [King Of The Electric Blues](https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ) | 3:58 |
 | 27 | [Cold, Cold Feeling](https://open.spotify.com/track/6kucNn22HB0qb2ZPa1BrNl) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Ice Pickin'](https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab) | 5:18 |
 | 28 | [Love Me Like a Man \- 2008 Remaster](https://open.spotify.com/track/0h06YSqzwbAU9ZDuIvw8pk) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Give It Up \(2008 Remaster\)](https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh) | 3:12 |
-| 29 | [Lie To Me](https://open.spotify.com/track/6DCALWbYX0BCOAGy0hMmRs) | [Jonny Lang](https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot) | [Lie To Me](https://open.spotify.com/album/6RIlPlBtXSMN9UePrFIBio) | 4:11 |
+| 29 | [The House Is Rockin'](https://open.spotify.com/track/4BYmnYGNVBVm2JHVxFNMXj) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Step](https://open.spotify.com/album/1d3gakptaQZQ4zw9YbOagk) | 2:23 |
 | 30 | [I'm In The Mood](https://open.spotify.com/track/6iQ0OIxisPxhzEICEXtaWS) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Real Folk Blues](https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY) | 2:47 |
-| 31 | [The House Is Rockin'](https://open.spotify.com/track/4BYmnYGNVBVm2JHVxFNMXj) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Step](https://open.spotify.com/album/1d3gakptaQZQ4zw9YbOagk) | 2:23 |
+| 31 | [Lie To Me](https://open.spotify.com/track/6DCALWbYX0BCOAGy0hMmRs) | [Jonny Lang](https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot) | [Lie To Me](https://open.spotify.com/album/6RIlPlBtXSMN9UePrFIBio) | 4:11 |
 | 32 | [Damn Right, I've Got the Blues](https://open.spotify.com/track/2FtX5tOFUVOyjcGQiuGR8f) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Damn Right, I've Got The Blues](https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj) | 4:31 |
 | 33 | [Leaving Trunk](https://open.spotify.com/track/3E0VKSvZp76kvBU2WwwBul) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Taj Mahal](https://open.spotify.com/album/0kEaFupzvrGdcczROS519i) | 4:49 |
 | 34 | [Bring It On Home To Me](https://open.spotify.com/track/4Vfgc4BdSKM2hRlkaRFc9C) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U), [Paul Carrack](https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz) | [Deuces Wild](https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV) | 3:10 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cTwPMorHcH.md) - [plain]
 | 62 | [Bad Woman Blues](https://open.spotify.com/track/0rOzFVPfQiJShjum8zpfu9) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [War In My Mind](https://open.spotify.com/album/2Eo7sjkI3fKanrJY4rtena) | 3:35 |
 | 63 | [Life Is Beautiful](https://open.spotify.com/track/3mtUR8aNUoMblqX49YzVF3) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Suitcase](https://open.spotify.com/album/39Sd7IZSx6vUejzS14bLV7) | 4:16 |
 | 64 | [I'm Glad Trouble Don't Last Always](https://open.spotify.com/track/3vV8nrwMDQQl5KIEQeEq9O) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [I'm Glad Trouble Don't Last Always](https://open.spotify.com/album/3Aa82CRCPN2MqLm0mMb41T) | 4:17 |
-| 65 | [What's the Matter with You](https://open.spotify.com/track/0XTGjWG3NIxeJZ2tXzPfpT) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Road I Call Home](https://open.spotify.com/album/2VqfWu26T66FcGvifgLqJ8) | 3:52 |
-| 66 | [We Get By](https://open.spotify.com/track/5PqC3OJ24NIO5pP7me68dn) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0), [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [We Get By](https://open.spotify.com/album/162ZDwMcg8NGzp6BPKy58G) | 3:35 |
+| 65 | [We Get By](https://open.spotify.com/track/5PqC3OJ24NIO5pP7me68dn) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0), [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [We Get By](https://open.spotify.com/album/162ZDwMcg8NGzp6BPKy58G) | 3:35 |
+| 66 | [What's the Matter with You](https://open.spotify.com/track/0XTGjWG3NIxeJZ2tXzPfpT) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Road I Call Home](https://open.spotify.com/album/2VqfWu26T66FcGvifgLqJ8) | 3:52 |
 | 67 | [Going Down South](https://open.spotify.com/track/3PeDt4Q8YIFDRph5UhxAaA) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Delta Kream](https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki) | 3:48 |
 | 68 | [Queen Bee](https://open.spotify.com/track/6kqXaZrIDOmA177KL9LHHf) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Señor Blues](https://open.spotify.com/album/1J4901NnEbPx0sTbfQlahA) | 4:40 |
 | 69 | [Ain't Got Nobody](https://open.spotify.com/track/4lbqUtqgX3dITgYJMBjCDS) | [Hound Dog Taylor](https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4) | [Genuine Houserocking Music](https://open.spotify.com/album/0QYVlYhJlKUteRXnfqZwhe) | 3:30 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cTwPMorHcH.md) - [plain]
 | 89 | [Somebody Gotta Make A Move](https://open.spotify.com/track/3g8TyEzKyPMYXLSUvXMJU4) | [Sonny Landreth](https://open.spotify.com/artist/7aHLYoLUMdcl0HiT5k0Brz) | [Blacktop Run](https://open.spotify.com/album/583OXr5VnpSpYHHukpZkSc) | 3:54 |
 | 90 | [Shelter Me](https://open.spotify.com/track/0Wv8SrR4kycxh3GIpl2adV) | [Tab Benoit](https://open.spotify.com/artist/3ODYbknLzVe3cWQzVfbzGB), [Louisiana's LeRoux](https://open.spotify.com/artist/6055P8DekQCGx47sckcoIF) | [Power Of The Pontchartrain](https://open.spotify.com/album/0jfaR6Gbk36L1UF8ba8ufm) | 5:04 |
 | 91 | [Step In](https://open.spotify.com/track/1b44sEBiYyl35EbYDgNGfk) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [I Be Trying](https://open.spotify.com/album/38J9ZNteDXUiLTndROhKyY) | 2:35 |
-| 92 | [Help Me](https://open.spotify.com/track/0RYe9pP6Fa3jzEh1n0RZou) | [Sonny Boy Williamson II](https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK) | [The Essential Sonny Boy Williamson](https://open.spotify.com/album/4DF0rg3dCm8qKrVCpZWIDc) | 3:08 |
-| 93 | [Born Under A Bad Sign](https://open.spotify.com/track/0vDn81gdOuRxjbIwcASuiV) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [Born Under A Bad Sign](https://open.spotify.com/album/42WQ76qWDQmHlHvJa6Z3Uw) | 2:46 |
+| 92 | [Born Under A Bad Sign](https://open.spotify.com/track/0vDn81gdOuRxjbIwcASuiV) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [Born Under A Bad Sign](https://open.spotify.com/album/42WQ76qWDQmHlHvJa6Z3Uw) | 2:46 |
+| 93 | [Help Me](https://open.spotify.com/track/0RYe9pP6Fa3jzEh1n0RZou) | [Sonny Boy Williamson II](https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK) | [The Essential Sonny Boy Williamson](https://open.spotify.com/album/4DF0rg3dCm8qKrVCpZWIDc) | 3:08 |
 | 94 | [Am I Wrong](https://open.spotify.com/track/3tvyQCSm1QcWURgGvygvke) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Keb' Mo'](https://open.spotify.com/album/09rC6HgLbuYl74OvGdJw6t) | 2:18 |
 | 95 | [The Pleasure's All Mine](https://open.spotify.com/track/2x4Ag6Npxj78rsp849NDN7) | [Jimmie Vaughan](https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae) | [The Pleasure's All Mine: The Complete Blues, Ballads and Favorites Sessions](https://open.spotify.com/album/1inwZe8lEy9j9uhJaTRcbE) | 3:43 |
 | 96 | [Signs, High Times](https://open.spotify.com/track/2ugzSmr5FKy9AwBmTUkEiT) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Signs](https://open.spotify.com/album/2SWcIu27vvZHPxEHU3FDck) | 3:51 |
 | 97 | [Holy Ghost Fire](https://open.spotify.com/track/59wQXbDYHOHYUbLRySohsP) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf) | 3:22 |
 | 98 | [Somehow, Somewhere, Someway](https://open.spotify.com/track/3N8YmS2jHNmziUhqTR7Wk4) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Trouble Is...](https://open.spotify.com/album/1ODpJWe2bymqj4DyJfuBE9) | 5:34 |
 | 99 | [Bulletproof \- Tangle Eye Mix](https://open.spotify.com/track/6iy2u83vc4L95HS3JYxSQs) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Kill Or Be Kind](https://open.spotify.com/album/0Z917mMSP3EHtJicbhSAhA) | 5:19 |
-| 100 | [Thinking 'Bout Myself](https://open.spotify.com/track/3cOKBor2QHIg1V9n7Mue5Q) | [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY), [Josh Teskey](https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd) | [Push The Blues Away](https://open.spotify.com/album/3JwlzjuJ47e8tx2Y7AbKfl) | 3:41 |
+| 100 | [It Hurt So Bad](https://open.spotify.com/track/3RqsX9mUWAhkFeRESUs1e8) | [Susan Tedeschi](https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta) | [Just Won't Burn \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/3tUrmnZBBUN9ZCtdJh16xn) | 4:50 |
 
-Snapshot ID: `MCw5MjcyYTdkM2UyZTExYWVlZjJjOGYzMTYxNTZhY2I4ZDBiZGIyZTY3`
+Snapshot ID: `MCw3ZGZiN2FkMzI0MjYyOTA3NDA5YjIzYzViOGRmNjFjN2VkNTdkZTkw`

@@ -4,7 +4,7 @@
 
 > Thế hệ nghệ sĩ mới\. Ảnh bìa: Phí Phương Anh
 
-83 songs - 4 hr 49 min
+85 songs - 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Dancing Queen](https://open.spotify.com/track/6LRkFj3VN587ilX2tmtcrT) | [Phí Phương Anh](https://open.spotify.com/artist/1OnnVNvbz0OsApDXHUX2bM), [RIN9](https://open.spotify.com/artist/6InVt9jASvsJY7qA60AGzf), [DREAMeR](https://open.spotify.com/artist/1f3aY4gX0O9B59iQyZXY0I) | [Dancing Queen](https://open.spotify.com/album/79ZS0dMdmtRRKH2saCVnwh) | 2:53 | 2023-11-21 |  |
 | [don't you say goodbye](https://open.spotify.com/track/5vqRtTX0n6Huy6eey2ld1H) | [Minh Đinh](https://open.spotify.com/artist/4NfuHLESitkh66LOZeyzsu), [Vũ Thanh Vân](https://open.spotify.com/artist/5ptgjFDE2abY6Xwo4ytufN), [Cashmel](https://open.spotify.com/artist/3KjC3qk8ZE5JbC4tSj8COh) | [don't you say goodbye](https://open.spotify.com/album/0QEmXtbT1MtTlebDtfjLNF) | 4:03 | 2023-04-29 |  |
 | [Du Ca Khúc](https://open.spotify.com/track/3Zhj3xciEukUSbRwvMowSs) | [Mer](https://open.spotify.com/artist/0s9oqVCJ2iXTqSUR5fcky5), [Lazii](https://open.spotify.com/artist/2mrZ4gGfWba9oB1mfm9j90) | [Du Ca Khúc](https://open.spotify.com/album/33PgsFP4fN6zHyrCPOA9vP) | 1:58 | 2023-04-13 |  |
-| [Dumb Mê \- Acoustic Version](https://open.spotify.com/track/6mR3aPF7A0VoFrm5acTMXq) | [Haisam](https://open.spotify.com/artist/5h0cBKxBX54CqPaQU6tJhk) | [Sâmflowers](https://open.spotify.com/album/4r2sh8ZMxq8yc3qT19bM3m) | 2:30 | 2022-09-09 |  |
+| [Dumb Mê \- Acoustic Version](https://open.spotify.com/track/1gYCpRi5e6z4C2IqpMLyMY) | [Haisam](https://open.spotify.com/artist/5h0cBKxBX54CqPaQU6tJhk) | [Sâmflowers](https://open.spotify.com/album/25v8fVEZFohNneJf5stiSu) | 2:30 | 2024-02-01 |  |
+| [Dumb Mê \- Acoustic Version](https://open.spotify.com/track/6mR3aPF7A0VoFrm5acTMXq) | [Haisam](https://open.spotify.com/artist/5h0cBKxBX54CqPaQU6tJhk) | [Sâmflowers](https://open.spotify.com/album/4r2sh8ZMxq8yc3qT19bM3m) | 2:30 | 2022-09-09 | 2024-02-22 |
 | [Dù Cho Mai Về Sau](https://open.spotify.com/track/4Iz5EWPCAT8jYNk4IpLoll) | [buitruonglinh](https://open.spotify.com/artist/7Cp2hGcriAaDUAWpXnSEwm) | [Dù Cho Mai Về Sau](https://open.spotify.com/album/38rXnQ4McNlZGTA3WNPNc1) | 3:53 | 2022-09-09 | 2023-09-15 |
 | [Dù Cho Mai Về Sau](https://open.spotify.com/track/6mGfDpzpCgaw0CSqbBQQOr) | [buitruonglinh](https://open.spotify.com/artist/7Cp2hGcriAaDUAWpXnSEwm) | [Dù Cho Mai Về Sau](https://open.spotify.com/album/3F7mY0fIvUaVWY8KLu3xlr) | 3:53 | 2022-10-14 | 2022-11-14 |
 | [dự báo thời tiết hôm nay mưa](https://open.spotify.com/track/7bFFUPBiF15n8m8RziqS4o) | [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV) | [dự báo thời tiết hôm nay mưa – Maxi Single](https://open.spotify.com/album/7q2bB2NNFlNbtqadbn55pL) | 4:41 | 2022-11-25 |  |
@@ -56,7 +57,8 @@
 | [khi cô đơn em nhớ đến ai](https://open.spotify.com/track/3LfiZlWffAqGOAQ6sKjoJP) | [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV), [Suni Hạ Linh](https://open.spotify.com/artist/4x1fUORHa2EsxrQ6ZzAoQ0), [Orange](https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G), [Hoàng Dũng](https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74) | [Hương Mùa Hè EP.01](https://open.spotify.com/album/7Do6GQrbmkYtOjg1S2HRe3) | 4:29 | 2022-09-09 |  |
 | [Khóc Cười](https://open.spotify.com/track/4xBQLlSh6dQrluFORd8muc) | [Juky San](https://open.spotify.com/artist/51wGpVg4Z3lv1IjuZAQjXn) | [Khóc Cười](https://open.spotify.com/album/3sdP4md71lVt7TFXBYEjap) | 3:31 | 2022-09-09 |  |
 | [Lovelyboy](https://open.spotify.com/track/17gjDrdge4XCwr3XGnykJu) | [Kim Kunni](https://open.spotify.com/artist/2OONhLKGZlcgaA9PQ2e64g) | [Lovelyboy](https://open.spotify.com/album/4xcw8Xlrbs2NA0o5hhrgBY) | 2:57 | 2023-08-04 | 2023-11-22 |
-| [Lại Gần Và Để Anh Ôm Em Lâu Hơn \- Acoustic Version](https://open.spotify.com/track/2RG8uz3hvNVAlVvzhVufhi) | [Haisam](https://open.spotify.com/artist/5h0cBKxBX54CqPaQU6tJhk) | [Sâmflowers](https://open.spotify.com/album/4r2sh8ZMxq8yc3qT19bM3m) | 3:24 | 2022-09-09 |  |
+| [Lại Gần Và Để Anh Ôm Em Lâu Hơn \- Acoustic Version](https://open.spotify.com/track/0YwdLjGal3u9hR5Ww1tWx7) | [Haisam](https://open.spotify.com/artist/5h0cBKxBX54CqPaQU6tJhk) | [Sâmflowers](https://open.spotify.com/album/25v8fVEZFohNneJf5stiSu) | 3:24 | 2024-02-01 |  |
+| [Lại Gần Và Để Anh Ôm Em Lâu Hơn \- Acoustic Version](https://open.spotify.com/track/2RG8uz3hvNVAlVvzhVufhi) | [Haisam](https://open.spotify.com/artist/5h0cBKxBX54CqPaQU6tJhk) | [Sâmflowers](https://open.spotify.com/album/4r2sh8ZMxq8yc3qT19bM3m) | 3:24 | 2022-09-09 | 2024-02-22 |
 | [Lỡ Say Bye Là Bye](https://open.spotify.com/track/0d6dbFvKczX1Us3J7TsMMv) | [Changg](https://open.spotify.com/artist/1nX1HVIUo1Zfs3e2v3lFb9), [Lemese](https://open.spotify.com/artist/0DL9VpY3UsZWQyDOO5Ej2o) | [Lỡ Say Bye Là Bye](https://open.spotify.com/album/3BKiAnPnm2Xn2cWB2uWeE0) | 3:34 | 2022-09-09 |  |
 | [MOT NGUOI VI EM](https://open.spotify.com/track/6lmJXxTcLTe6bdgwSfTqhO) | [WEAN](https://open.spotify.com/artist/30eFAXoU2kTjJPf2cq80B8) | [MOT NGUOI VI EM](https://open.spotify.com/album/4RdYWBn5Vw5SOYH0A30v1u) | 3:30 | 2022-09-09 |  |
 | [my, my, my](https://open.spotify.com/track/1W1SPIukViuTd6wPo7hWB6) | [tanny ng](https://open.spotify.com/artist/6SmToDyj12uS8WGrc6m8ei), [juhye](https://open.spotify.com/artist/3xjFSJEkVSZvWdhMK4aOPl) | [my, my, my](https://open.spotify.com/album/701FniKi8G2MPnpbryojrj) | 3:36 | 2023-10-05 |  |

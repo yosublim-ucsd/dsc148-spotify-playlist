@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C7dIs.md) - [plain]
 
 > This is Nightwish\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,389 likes - 51 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,436 likes - 51 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C7dIs.md) - [plain]
 | 46 | [Where Were You Last Night](https://open.spotify.com/track/1BZ2yeGFtYN0Sk5yrgvMdk) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Wish I Had an Angel](https://open.spotify.com/album/2l0KYO3zjZtfFzls7rSPA7) | 3:52 |
 | 47 | [Moondance](https://open.spotify.com/track/1IzlSeZQE4PwIPSaUsv0AV) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Oceanborn](https://open.spotify.com/album/5Ox45OAhKONmMKMrJSEsLp) | 3:31 |
 | 48 | [High Hopes](https://open.spotify.com/track/7LUYlbzPVix2varjKXAk6z) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [End of an Era](https://open.spotify.com/album/0vAgv1fFn8zW2hbpWJfgPX) | 6:54 |
-| 49 | [Ocean Soul](https://open.spotify.com/track/4q3sAUULz1S77l4651FrTz) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Century Child](https://open.spotify.com/album/2fmfAN3tCHMIU8WZuG35ZK) | 4:14 |
-| 50 | [Dead Gardens \- Remastered](https://open.spotify.com/track/6BjgGSC0hfQAHUztG6N23M) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Once \(Remastered\)](https://open.spotify.com/album/6qqKoGukMfzw9aYa2qaJOb) | 4:28 |
+| 49 | [Dead Gardens \- Remastered](https://open.spotify.com/track/6BjgGSC0hfQAHUztG6N23M) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Once \(Remastered\)](https://open.spotify.com/album/6qqKoGukMfzw9aYa2qaJOb) | 4:28 |
+| 50 | [Ocean Soul](https://open.spotify.com/track/4q3sAUULz1S77l4651FrTz) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Century Child](https://open.spotify.com/album/2fmfAN3tCHMIU8WZuG35ZK) | 4:14 |
 | 51 | [The Heart Asks Pleasure First](https://open.spotify.com/track/4rsqx0pmutBNt3TQQtLyKL) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [The Crow, the Owl and the Dove](https://open.spotify.com/album/7lY1FLP3cGbOurnNtF0jfJ) | 4:21 |
 
-Snapshot ID: `Mjg0NzQxMzEsMDAwMDAwMDAwM2EwODM1MWE5YTViY2M2OGJhODY0NGU0NDM3YzQ5Mw==`
+Snapshot ID: `Mjg0NzUyOTAsMDAwMDAwMDA4ZTQ5NWQ0NzNjOTk1Y2MxODg0YjI2NWU3YTc3OTJhMg==`

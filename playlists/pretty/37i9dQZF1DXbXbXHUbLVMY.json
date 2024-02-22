@@ -1,12 +1,12 @@
 {
   "description": "Skandinavisk hiphop som holder det 100! \ud83d\udea8 feat. Marstein",
-  "num_followers": 27456,
+  "num_followers": 27471,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYjhlMTJiNTNkYmQwMmI5ZTU1ZDE0MjkyNTFiYmM4N2I1ZWFiNjhh",
+  "snapshot_id": "MCwzMjlmMjQ5MTg1ZmJiZmE4YzI5MmFkZTk2MzgyNDgzN2VlZWQ1YTRi",
   "tracks": [
     {
       "added_at": "2024-02-15 23:00:00",
@@ -59,8 +59,8 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Inga \u00e4nglar (Na na na)",
-        "url": "https://open.spotify.com/album/3jJmhnYy9Zif0lCkLQfv6J"
+        "name": "Nya Hits",
+        "url": "https://open.spotify.com/album/3IAEBiMpkBwgSzMYQUjojd"
       },
       "artists": [
         {
@@ -70,7 +70,7 @@
       ],
       "duration_ms": 194599,
       "name": "Inga \u00e4nglar (Na na na)",
-      "url": "https://open.spotify.com/track/532hmJMBzkTyhVQTlHHUuJ"
+      "url": "https://open.spotify.com/track/6Z81UrPb8kWlzO4bP0ETzo"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -235,18 +235,18 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Go",
-        "url": "https://open.spotify.com/album/7jGNK2EUM6FoyfiQq0uVHA"
+        "name": "Best\u00e4mda Kliv",
+        "url": "https://open.spotify.com/album/5vfP4ynhnd7wqU84adLvcG"
       },
       "artists": [
         {
-          "name": "Ant Wan",
-          "url": "https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy"
+          "name": "Dizzy",
+          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
         }
       ],
-      "duration_ms": 154043,
-      "name": "Go",
-      "url": "https://open.spotify.com/track/3ZxF05QdKqtssIdQR7amUW"
+      "duration_ms": 125092,
+      "name": "\u00d6verallt",
+      "url": "https://open.spotify.com/track/4HbjNhJI28hVrLv90NKia2"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -271,18 +271,18 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Best\u00e4mda Kliv",
-        "url": "https://open.spotify.com/album/5vfP4ynhnd7wqU84adLvcG"
+        "name": "Go",
+        "url": "https://open.spotify.com/album/7jGNK2EUM6FoyfiQq0uVHA"
       },
       "artists": [
         {
-          "name": "Dizzy",
-          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
+          "name": "Ant Wan",
+          "url": "https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy"
         }
       ],
-      "duration_ms": 125092,
-      "name": "\u00d6verallt",
-      "url": "https://open.spotify.com/track/4HbjNhJI28hVrLv90NKia2"
+      "duration_ms": 154043,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/3ZxF05QdKqtssIdQR7amUW"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "En till dans",
-        "url": "https://open.spotify.com/album/3ikbwi5mxo5peZyvGaAugP"
-      },
-      "artists": [
-        {
-          "name": "Ant Wan",
-          "url": "https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy"
-        }
-      ],
-      "duration_ms": 200412,
-      "name": "En till dans",
-      "url": "https://open.spotify.com/track/2dSAFb1xzoJffGzfxU4BaE"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "Best\u00e4mda Kliv",
         "url": "https://open.spotify.com/album/5vfP4ynhnd7wqU84adLvcG"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 145761,
       "name": "Hanterar",
       "url": "https://open.spotify.com/track/57DG6W6WyFlc5hOwklXas2"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "En till dans",
+        "url": "https://open.spotify.com/album/3ikbwi5mxo5peZyvGaAugP"
+      },
+      "artists": [
+        {
+          "name": "Ant Wan",
+          "url": "https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy"
+        }
+      ],
+      "duration_ms": 200412,
+      "name": "En till dans",
+      "url": "https://open.spotify.com/track/2dSAFb1xzoJffGzfxU4BaE"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -535,18 +535,18 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "FOR THOSE WHO BELIEVED",
-        "url": "https://open.spotify.com/album/2AkCxCyJMIoMe07c3dUnkv"
+        "name": "PRAPAPA",
+        "url": "https://open.spotify.com/album/0p1IClwALj4EC4mNRH6nW9"
       },
       "artists": [
         {
-          "name": "Ant Wan",
-          "url": "https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy"
+          "name": "Dizzy",
+          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
         }
       ],
-      "duration_ms": 191688,
-      "name": "MIRAKEL",
-      "url": "https://open.spotify.com/track/1ppD3jRl8UriqKa5G7ncMJ"
+      "duration_ms": 124812,
+      "name": "PRAPAPA",
+      "url": "https://open.spotify.com/track/0YvWZpHDLG4YeibR10xXPq"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -611,18 +611,18 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "PRAPAPA",
-        "url": "https://open.spotify.com/album/0p1IClwALj4EC4mNRH6nW9"
+        "name": "FOR THOSE WHO BELIEVED",
+        "url": "https://open.spotify.com/album/2AkCxCyJMIoMe07c3dUnkv"
       },
       "artists": [
         {
-          "name": "Dizzy",
-          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
+          "name": "Ant Wan",
+          "url": "https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy"
         }
       ],
-      "duration_ms": 124812,
-      "name": "PRAPAPA",
-      "url": "https://open.spotify.com/track/0YvWZpHDLG4YeibR10xXPq"
+      "duration_ms": 191688,
+      "name": "MIRAKEL",
+      "url": "https://open.spotify.com/track/1ppD3jRl8UriqKa5G7ncMJ"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -639,22 +639,6 @@
       "duration_ms": 149243,
       "name": "EXTEND",
       "url": "https://open.spotify.com/track/6f5P5n98ZkYG7Kveh4N5kh"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
-        "name": "Holy Father",
-        "url": "https://open.spotify.com/album/3EDPjtq7VheovIXi7hXCTu"
-      },
-      "artists": [
-        {
-          "name": "Ricky Rich",
-          "url": "https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK"
-        }
-      ],
-      "duration_ms": 158035,
-      "name": "Holy Father",
-      "url": "https://open.spotify.com/track/5L3rVVMUlgJgDRaXc4V3wt"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -679,6 +663,22 @@
       "duration_ms": 145797,
       "name": "YOUNG THUG P\u00c5 1M",
       "url": "https://open.spotify.com/track/6b88vMQia1ddGYjkQPTizO"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Holy Father",
+        "url": "https://open.spotify.com/album/3EDPjtq7VheovIXi7hXCTu"
+      },
+      "artists": [
+        {
+          "name": "Ricky Rich",
+          "url": "https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK"
+        }
+      ],
+      "duration_ms": 158035,
+      "name": "Holy Father",
+      "url": "https://open.spotify.com/track/5L3rVVMUlgJgDRaXc4V3wt"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -883,18 +883,18 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "KALASH",
-        "url": "https://open.spotify.com/album/2vPQjrPL4biW6F8s2y2A1f"
+        "name": "Best\u00e4mda Kliv",
+        "url": "https://open.spotify.com/album/5vfP4ynhnd7wqU84adLvcG"
       },
       "artists": [
         {
-          "name": "HAVAL",
-          "url": "https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt"
+          "name": "Dizzy",
+          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
         }
       ],
-      "duration_ms": 130615,
-      "name": "KALASH",
-      "url": "https://open.spotify.com/track/5yT7K64oCQTH9nlWDVP2a9"
+      "duration_ms": 123169,
+      "name": "K\u00e4nslokall",
+      "url": "https://open.spotify.com/track/0XYJmQjglYGEYTAipk9uVQ"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -919,18 +919,18 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Best\u00e4mda Kliv",
-        "url": "https://open.spotify.com/album/5vfP4ynhnd7wqU84adLvcG"
+        "name": "KALASH",
+        "url": "https://open.spotify.com/album/2vPQjrPL4biW6F8s2y2A1f"
       },
       "artists": [
         {
-          "name": "Dizzy",
-          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
+          "name": "HAVAL",
+          "url": "https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt"
         }
       ],
-      "duration_ms": 123169,
-      "name": "K\u00e4nslokall",
-      "url": "https://open.spotify.com/track/0XYJmQjglYGEYTAipk9uVQ"
+      "duration_ms": 130615,
+      "name": "KALASH",
+      "url": "https://open.spotify.com/track/5yT7K64oCQTH9nlWDVP2a9"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -967,6 +967,22 @@
       "duration_ms": 144890,
       "name": "Hoodrich",
       "url": "https://open.spotify.com/track/0xNm2tIbdqPfNUJhVfDHrO"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Zinah",
+        "url": "https://open.spotify.com/album/17w3q8mViWFceZ6F8Sf9An"
+      },
+      "artists": [
+        {
+          "name": "Dizzy",
+          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
+        }
+      ],
+      "duration_ms": 116500,
+      "name": "Zinah",
+      "url": "https://open.spotify.com/track/25kFpLab2GF9W6IyByEubT"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1015,22 +1031,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "MANDANA",
-        "url": "https://open.spotify.com/album/3j78jRSPIZyFPt8GkXLHAl"
-      },
-      "artists": [
-        {
-          "name": "Shiro",
-          "url": "https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo"
-        }
-      ],
-      "duration_ms": 123149,
-      "name": "MANDANA",
-      "url": "https://open.spotify.com/track/6uYHRLIW2Q9qWZGtRuiLSa"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "1,2 & Mer",
         "url": "https://open.spotify.com/album/60DB6Bg7sM4QjHsCV0ZBdF"
       },
@@ -1043,6 +1043,22 @@
       "duration_ms": 157080,
       "name": "1,2 & Mer",
       "url": "https://open.spotify.com/track/6nphe8z73s7ijdY5Bxy5fk"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "MANDANA",
+        "url": "https://open.spotify.com/album/3j78jRSPIZyFPt8GkXLHAl"
+      },
+      "artists": [
+        {
+          "name": "Shiro",
+          "url": "https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo"
+        }
+      ],
+      "duration_ms": 123149,
+      "name": "MANDANA",
+      "url": "https://open.spotify.com/track/6uYHRLIW2Q9qWZGtRuiLSa"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1067,38 +1083,18 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Konstn\u00e4rer",
-        "url": "https://open.spotify.com/album/4v8mqTXuAn0wc3wVdDORX4"
+        "name": "Salam",
+        "url": "https://open.spotify.com/album/56xgHK320guDeJaXou4VQu"
       },
       "artists": [
         {
-          "name": "Asme",
-          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
-        },
-        {
-          "name": "Shiro",
-          "url": "https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo"
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
         }
       ],
-      "duration_ms": 150040,
-      "name": "Konstn\u00e4rer",
-      "url": "https://open.spotify.com/track/42YORRVJuaCskxH8XbLb05"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
-        "name": "Zinah",
-        "url": "https://open.spotify.com/album/17w3q8mViWFceZ6F8Sf9An"
-      },
-      "artists": [
-        {
-          "name": "Dizzy",
-          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
-        }
-      ],
-      "duration_ms": 116500,
-      "name": "Zinah",
-      "url": "https://open.spotify.com/track/25kFpLab2GF9W6IyByEubT"
+      "duration_ms": 137861,
+      "name": "Salam",
+      "url": "https://open.spotify.com/track/2mHppKj9X1ixv9miy2cdoz"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1119,18 +1115,22 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Salam",
-        "url": "https://open.spotify.com/album/56xgHK320guDeJaXou4VQu"
+        "name": "Konstn\u00e4rer",
+        "url": "https://open.spotify.com/album/4v8mqTXuAn0wc3wVdDORX4"
       },
       "artists": [
         {
-          "name": "Yasin",
-          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+          "name": "Asme",
+          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
+        },
+        {
+          "name": "Shiro",
+          "url": "https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo"
         }
       ],
-      "duration_ms": 137861,
-      "name": "Salam",
-      "url": "https://open.spotify.com/track/2mHppKj9X1ixv9miy2cdoz"
+      "duration_ms": 150040,
+      "name": "Konstn\u00e4rer",
+      "url": "https://open.spotify.com/track/42YORRVJuaCskxH8XbLb05"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Benzin",
-        "url": "https://open.spotify.com/album/0h9pTxa0Ww6bA98GjK1O2R"
-      },
-      "artists": [
-        {
-          "name": "Kamelen",
-          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
-        }
-      ],
-      "duration_ms": 116420,
-      "name": "Benzin",
-      "url": "https://open.spotify.com/track/2QUULEWNV7RG4cvW3bjrNN"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "Sprite",
         "url": "https://open.spotify.com/album/3dM7Puknln54aDQmGa17KQ"
       },
@@ -1183,22 +1167,18 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Mariachi",
-        "url": "https://open.spotify.com/album/5VEJg4FgkfQXOJygPhgqzL"
+        "name": "Benzin",
+        "url": "https://open.spotify.com/album/0h9pTxa0Ww6bA98GjK1O2R"
       },
       "artists": [
         {
-          "name": "Jireel",
-          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
-        },
-        {
-          "name": "Dani M",
-          "url": "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
+          "name": "Kamelen",
+          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
         }
       ],
-      "duration_ms": 162857,
-      "name": "Mariachi",
-      "url": "https://open.spotify.com/track/4NDYDxNhfR5eJRDXB1P6OV"
+      "duration_ms": 116420,
+      "name": "Benzin",
+      "url": "https://open.spotify.com/track/2QUULEWNV7RG4cvW3bjrNN"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1219,6 +1199,26 @@
       "duration_ms": 156774,
       "name": "Seri\u00f8s (feat. Amara)",
       "url": "https://open.spotify.com/track/1sEYjmfPxDMS0tRxEqbWTy"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Mariachi",
+        "url": "https://open.spotify.com/album/5VEJg4FgkfQXOJygPhgqzL"
+      },
+      "artists": [
+        {
+          "name": "Jireel",
+          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
+        },
+        {
+          "name": "Dani M",
+          "url": "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
+        }
+      ],
+      "duration_ms": 162857,
+      "name": "Mariachi",
+      "url": "https://open.spotify.com/track/4NDYDxNhfR5eJRDXB1P6OV"
     },
     {
       "added_at": "2024-02-15 23:00:00",

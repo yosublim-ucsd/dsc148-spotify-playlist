@@ -4,7 +4,7 @@
 
 > Un'estate al mare, stile balenare..\. 🏝️ Hit dell'estate italiana anni 60, 70 e 80!
 
-56 songs - 2 hr 50 min
+57 songs - 2 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Figli Delle Stelle](https://open.spotify.com/track/0C9rBeWAsPhmBeaYKZLN5m) | [Alan Sorrenti](https://open.spotify.com/artist/7sCYC6bDTexE400qiLy4oq) | [Figli Delle Stelle \(2005 \- Remaster\)](https://open.spotify.com/album/517MxHAODAKO4wAr4pHVAB) | 4:35 | 2023-02-27 |  |
 | [Fotoromanza](https://open.spotify.com/track/58KPUv9L8rmAosHctUoaJr) | [Gianna Nannini](https://open.spotify.com/artist/0h0p7RkMjCUMdcf0nXmHjX) | [Hitstory Deluxe Edition](https://open.spotify.com/album/21SiB3EmnL1D1uXbYWH3gv) | 4:28 | 2023-02-27 |  |
 | [Guarda come dondolo](https://open.spotify.com/track/1dtb5yOshvGUMIhYhvdoxh) | [Edoardo Vianello](https://open.spotify.com/artist/1HGnzMzxvfaSkMi98DLkgo), [Elfrida Ismolli](https://open.spotify.com/artist/7KgjTBE5cyhpRvaePgqexx) | [Estate](https://open.spotify.com/album/62YRZrKrezkG7oEbtdDzFi) | 2:31 | 2023-02-27 |  |
-| [Il Ballo Del Mattone](https://open.spotify.com/track/7HsCbVk1DlfgBqxk7yX8ym) | [Rita Pavone](https://open.spotify.com/artist/3xc8CD41vwsoBNkGXL3pS7) | [Rita Pavone](https://open.spotify.com/album/1c5unYhvdg4dPgJQpsCTum) | 2:17 | 2023-02-27 |  |
+| [Il ballo del mattone](https://open.spotify.com/track/3E41PlrWGcfROQIH5scjXd) | [Rita Pavone](https://open.spotify.com/artist/3xc8CD41vwsoBNkGXL3pS7) | [Rita Pavone \(Gli Indimenticabili\)](https://open.spotify.com/album/6yHABRmP5ITAONhmzIJ2vt) | 2:17 | 2023-06-05 |  |
+| [Il Ballo Del Mattone](https://open.spotify.com/track/7HsCbVk1DlfgBqxk7yX8ym) | [Rita Pavone](https://open.spotify.com/artist/3xc8CD41vwsoBNkGXL3pS7) | [Rita Pavone](https://open.spotify.com/album/1c5unYhvdg4dPgJQpsCTum) | 2:17 | 2023-02-27 | 2024-02-22 |
 | [Il mare nel cassetto](https://open.spotify.com/track/1FWuLRNYe3hP55SJ5X7LeK) | [Milva](https://open.spotify.com/artist/2yTY8E1aIo4qaM9m5teX8N) | [Le più belle canzoni di Milva](https://open.spotify.com/album/02bbP27Gmj806q1chWuZP1) | 3:00 | 2023-02-27 |  |
 | [Il Mare Quest'Estate](https://open.spotify.com/track/6CsNqqHnoXTPnv04TvFVXQ) | [Fred Bongusto](https://open.spotify.com/artist/03zMprDSi8xGJbXYayx6ly) | [I Miei Successi](https://open.spotify.com/album/3lxbAr2QIDT27hJA4OJYsw) | 3:02 | 2023-02-27 |  |
 | [Il Mondo](https://open.spotify.com/track/31PdyIg9pQAyKRDy8yAAF9) | [Jimmy Fontana](https://open.spotify.com/artist/6YvCTF77M8f4Nq3IqoWvtz) | [40 Grandi Successi](https://open.spotify.com/album/6NNxG8OkhT9HiKOfPB3ioV) | 2:45 | 2023-02-27 |  |

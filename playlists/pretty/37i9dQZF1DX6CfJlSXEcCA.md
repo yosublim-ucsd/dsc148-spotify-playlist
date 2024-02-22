@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6CfJlSXEcCA.md) - [plain]
 
 > Enjoy game soundtracks from Capcom! 最新作から過去まで、多数の人気作品を生み出したカプコンのゲームサントラをお届け！©CAPCOM CO., LTD\. ALL RIGHTS RESERVED.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,467 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,469 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6CfJlSXEcCA.md) - [plain]
 | 25 | [Ripples in the Calm](https://open.spotify.com/track/1YkcXwQKOKJEILbvflSe2n) | [Shusaku Uchiyama](https://open.spotify.com/artist/0pLnnIJmeRcWMSpOxujSH8) | [RESIDENT EVIL VILLAGE ORIGINAL SOUNDTRACK](https://open.spotify.com/album/0OmHth9izCltpC5ggqkLkA) | 2:22 |
 | 26 | [OPENING STAGE](https://open.spotify.com/track/5AuhTgpU1Q99tq1mv4TUIi) | [Kinuyo Yamashita](https://open.spotify.com/artist/1aQZ53vh1tmTROhWsBrJIx) | [MEGA MAN X3 SOUND COLLECTION](https://open.spotify.com/album/5eFeLu7bfa5BSZFYXMqmfK) | 1:35 |
 | 27 | [Domain of Dust and Desolation](https://open.spotify.com/track/7fh6upeBBPHJqOesusuMbe) | [堀諭史](https://open.spotify.com/artist/56JQzzYTLuEO1MvPct6Tfg) | [MONSTER HUNTER RISE ORIGINAL SOUNDTRACK](https://open.spotify.com/album/0H4cXrYB3b8IDEFgTMNcAT) | 4:14 |
-| 28 | [Mega Man 2 / Dr\. Wily Stage 1](https://open.spotify.com/track/2PCurI9hftlXKUtUFSTFX7) | [ROCK\-MEN](https://open.spotify.com/artist/32d84jVg6I1eVLBMis0tx8) | [We are ROCK\-MEN!2](https://open.spotify.com/album/4Xg2Jvqvhurzo6UZtfmwKg) | 3:53 |
-| 29 | [英雄の証 〜 ミラクル☆ミルクティ](https://open.spotify.com/track/1mbJVz9bjm7Rdm5ZkZnNhC) | [ミラクル☆ミルクティ\(CV:上田麗奈&高野麻里佳\)](https://open.spotify.com/artist/6F3dWs4bYDUJ80qE7ypQQN) | [モンスターハンターダブルクロス ミラクル☆ミルクティ](https://open.spotify.com/album/5gpRBUGBt9nkKQZldHXkY8) | 4:03 |
+| 28 | [英雄の証 〜 ミラクル☆ミルクティ](https://open.spotify.com/track/1mbJVz9bjm7Rdm5ZkZnNhC) | [ミラクル☆ミルクティ\(CV:上田麗奈&高野麻里佳\)](https://open.spotify.com/artist/6F3dWs4bYDUJ80qE7ypQQN) | [モンスターハンターダブルクロス ミラクル☆ミルクティ](https://open.spotify.com/album/5gpRBUGBt9nkKQZldHXkY8) | 4:03 |
+| 29 | [Mega Man 2 / Dr\. Wily Stage 1](https://open.spotify.com/track/2PCurI9hftlXKUtUFSTFX7) | [ROCK\-MEN](https://open.spotify.com/artist/32d84jVg6I1eVLBMis0tx8) | [We are ROCK\-MEN!2](https://open.spotify.com/album/4Xg2Jvqvhurzo6UZtfmwKg) | 3:53 |
 | 30 | [The Time Has Come \(Nero's Combat\)](https://open.spotify.com/track/1Dj5GDB9BIF5eSujItZhs3) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [Devil May Cry 4 Original Soundtrack](https://open.spotify.com/album/1tNWUMsxLIT92wZcrYWkyT) | 3:51 |
 | 31 | [Esperanto](https://open.spotify.com/track/2bO8wK9Cj7KJieoirM3Klu) | [Umegaki Runa](https://open.spotify.com/artist/1EttdjOOkUtmSht8NjZ1ax) | [MEGAMAN ZERO/ZX SOUND BOX](https://open.spotify.com/album/53jTF5NJogiBRi0H2yMGtE) | 2:19 |
 | 32 | [Free From Fear](https://open.spotify.com/track/2Y0NNG4Ty5LCgYNeICfqNq) | [Saori Maeda](https://open.spotify.com/artist/3Ud7woLRk2efj0q3D2lCzm) | [Resident Evil 3 Special Soundtrack](https://open.spotify.com/album/7pQYu8IdEDcvmlhCTCSsaP) | 2:06 |
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6CfJlSXEcCA.md) - [plain]
 | 36 | [Ryu's Theme \-The Fist That Knows No End\-](https://open.spotify.com/track/4vEztJsa9I5aTb9dPh2onZ) | [Hideyuki Fukasawa](https://open.spotify.com/artist/3cDGDsZOLwD5aBLoX0GICu) | [ストリートファイターV エクスパンション トラックス 2](https://open.spotify.com/album/5d7L0BCzlNQhXPhn6XW7YZ) | 1:48 |
 | 37 | [Metamorphosis](https://open.spotify.com/track/6EKwFfps4FEnXfqjAednwm) | [Masami Ueda](https://open.spotify.com/artist/4Zc9ID5YsCSgTf2l00RmiU) | [Resident Evil 3 Special Soundtrack](https://open.spotify.com/album/7pQYu8IdEDcvmlhCTCSsaP) | 5:38 |
 | 38 | [長曾我部元親のテーマ](https://open.spotify.com/track/2kDR0tn8wc11wetaxGtntt) | [T’s MUSIC](https://open.spotify.com/artist/1vJ78AUEDFR40dhshXwW1V) | [戦国BASARA 西軍BEST](https://open.spotify.com/album/21DOCWhm8R6mRKuiEQctKD) | 2:06 |
-| 39 | [Running Through The Cyber World \- CAP\-JAMS ver.](https://open.spotify.com/track/78mZSjQnanUOHxMCdth4hX) | [カプチューン](https://open.spotify.com/artist/48zP0iCHYhRzrjlB2QbwJR) | [ONE](https://open.spotify.com/album/1F6EOzOlqnV7k7c4qQFvDc) | 4:07 |
+| 39 | [Graveyard](https://open.spotify.com/track/3Rv6dMArRUGv7X2JzpGgbe) | [M\-TWO Inc.](https://open.spotify.com/artist/0SFDksnq3pViyCqr4K57z9), [designwave co.,ltd.](https://open.spotify.com/artist/1sIQbqXeBZtxgZPwEFUU62) | [Ghosts 'n Goblins Resurrection Original Soundtrack](https://open.spotify.com/album/37hqNN5sXkKcJnpohmKydu) | 1:42 |
 | 40 | [解放レゾナンス The Soar](https://open.spotify.com/track/60o03jgMfwbnjqLItcPcTa) | [Yasumasa Kitagawa](https://open.spotify.com/artist/02rAgib3SCbMTFZuHSii3d), [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [E.X.TROOPERS \- END OF CONVERSATION](https://open.spotify.com/album/5hHmRqbgktyVUM4OdUVG1F) | 4:58 |
-| 41 | [Graveyard](https://open.spotify.com/track/3Rv6dMArRUGv7X2JzpGgbe) | [M\-TWO Inc.](https://open.spotify.com/artist/0SFDksnq3pViyCqr4K57z9), [designwave co.,ltd.](https://open.spotify.com/artist/1sIQbqXeBZtxgZPwEFUU62) | [Ghosts 'n Goblins Resurrection Original Soundtrack](https://open.spotify.com/album/37hqNN5sXkKcJnpohmKydu) | 1:42 |
+| 41 | [Running Through The Cyber World \- CAP\-JAMS ver.](https://open.spotify.com/track/78mZSjQnanUOHxMCdth4hX) | [カプチューン](https://open.spotify.com/artist/48zP0iCHYhRzrjlB2QbwJR) | [ONE](https://open.spotify.com/album/1F6EOzOlqnV7k7c4qQFvDc) | 4:07 |
 | 42 | [SENGOKU BASARA](https://open.spotify.com/track/32NJz13iQTkQaPIWaGjSd6) | [CHAMY.Ishi](https://open.spotify.com/artist/48lrIJjD2wl3uoNBbFOlsw) | [SENGOKU BASARA 15th Anniversary BEST](https://open.spotify.com/album/7wSvpfURZ4bmv5RcHGC3RB) | 1:57 |
 | 43 | [エンドレスアンコール \(ロックマン2メドレー\)](https://open.spotify.com/track/3TML1tC6NkDOeaQq3XycaO) | [ベイシスケイプ](https://open.spotify.com/artist/6tdfd7LYozgWFIw9ijvlm5) | [ロックマン ユートピア](https://open.spotify.com/album/1tEipaGsZZ16UsutVOsFLx) | 4:25 |
 | 44 | [Staff & Credits](https://open.spotify.com/track/0glg0lhZFpn5oPz5YDtf83) | [Masami Ueda](https://open.spotify.com/artist/4Zc9ID5YsCSgTf2l00RmiU) | [Resident Evil 3 Special Soundtrack](https://open.spotify.com/album/7pQYu8IdEDcvmlhCTCSsaP) | 5:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6CfJlSXEcCA.md) - [plain]
 | 49 | [Shall Never Surrender \(End Credits\)](https://open.spotify.com/track/11s4cDWdCABvn9Xkg4eHl2) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [Devil May Cry 4 Original Soundtrack](https://open.spotify.com/album/1tNWUMsxLIT92wZcrYWkyT) | 4:58 |
 | 50 | [Guile's Theme](https://open.spotify.com/track/29drzlJamuYPBRh1LPpXM4) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [Super Street Fighter II Turbo Original Soundtrack](https://open.spotify.com/album/3sinqjuzlAI7QWTyJxNut6) | 3:43 |
 
-Snapshot ID: `MCxmZTQ0YjIyODg2OTcwMzJiNjgzOWEyZWY1NWY5MTAzNGVjNjEzYjNm`
+Snapshot ID: `MCw4Y2FlMDEwZDgzYTlhYjJiYzQzODNhZWY4OWQ0ZjQ1ZWM5NDEwNTRm`

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Joeboy
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,963 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,015 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Osadebe](https://open.spotify.com/track/4vcNkaBM2R70xWEUQDLLh5) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Osadebe](https://open.spotify.com/album/25TcBJVL2JqQnff5TxWvuZ) | 2:36 |
 | 2 | [Bust Down](https://open.spotify.com/track/3eWpfsYgd5OL2QdwcVcF6Q) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Bust Down](https://open.spotify.com/album/5WBwh4xPACk0mfi5J5vw1G) | 3:16 |
-| 3 | [Run Away](https://open.spotify.com/track/1xet6MZrk4Zr5ebis0EF1Q) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Run Away](https://open.spotify.com/album/6ujoM3aPviamfNBV7qCpTh) | 2:56 |
+| 3 | [Run Away \(OMALICHA\)](https://open.spotify.com/track/1xet6MZrk4Zr5ebis0EF1Q) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Run Away \(OMALICHA\)](https://open.spotify.com/album/6ujoM3aPviamfNBV7qCpTh) | 2:56 |
 | 4 | [Weekend](https://open.spotify.com/track/7bGsxNSpJKsANYwHTrYIHp) | [Nayth](https://open.spotify.com/artist/6EMIPjUlfsk2LiKIcrbbar), [Gino J](https://open.spotify.com/artist/4cAltlzViWaH9SL0RKlrED), [$hiro](https://open.spotify.com/artist/5ccC62eZo8vv2qTOTndIkn) | [Weekend](https://open.spotify.com/album/0SF9gASNP6MBckLTkqkP8T) | 2:36 |
 | 5 | [Everything](https://open.spotify.com/track/4zqRu31aWCiHeYMw9GptOO) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Everything](https://open.spotify.com/album/1WxjIKagr1Vgwk6XTxYh7X) | 2:46 |
 | 6 | [Pepe](https://open.spotify.com/track/1F6j0Av7r5UfFNJlSt5hAk) | [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Pepe](https://open.spotify.com/album/5hISwgH8KuEFbQ9k89f67x) | 2:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 49 | [EFCC](https://open.spotify.com/track/5qFSNLIxAPu80gaunwvUpk) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Mamapiano](https://open.spotify.com/album/70HZ6HLsOmoGKYGhit4Frr) | 3:18 |
 | 50 | [Jimmy](https://open.spotify.com/track/7Bc0fvoymNjNNYRicHV4kG) | [Dorely](https://open.spotify.com/artist/7zEvemWd0At54LjzE5SQnl) | [Jimmy](https://open.spotify.com/album/0AdmldzWpvYNx1oKr3gh2E) | 2:34 |
 
-Snapshot ID: `MCwzYjMwNzg0ZGFmYTlmYzA5ZDE4NTJkOTA0NDBiZWQxMGQyMWM5OGY1`
+Snapshot ID: `MCwwYTA4NjljMWZiMzkwNWM3ZTkyMTk3ZDBmOTU2ZTk4NjlkYTA3MjRj`

@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz\. Cover: Blue Lab Beats
 
-161 songs - 8 hr 50 min
+162 songs - 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Saturnine](https://open.spotify.com/track/4QkOc5MFpxpQxcRBrAkxTz) | [GoGo Penguin](https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L) | [Saturnine](https://open.spotify.com/album/4DsFPZkhSucdsBJ3uhc5aK) | 4:53 | 2023-08-22 |  |
 | [Saucisses](https://open.spotify.com/track/4JHGTOdOKWXuGoilIl1AOk) | [Colombo](https://open.spotify.com/artist/6qTT8S45Tb3MkbEuvuqjwF) | [Saucisses](https://open.spotify.com/album/044XUQSGNdY6MjmGR9goR0) | 2:27 | 2023-08-22 |  |
 | [Silver Lining](https://open.spotify.com/track/13u3ooUx4eEn7vXJ9TFkBf) | [J3PO](https://open.spotify.com/artist/0lSFr65zkY254m1qbHAb5k) | [MAINS](https://open.spotify.com/album/4ffYTuxsKPUVL5eFJWjVHS) | 3:42 | 2023-08-22 |  |
+| [Sista Dansen](https://open.spotify.com/track/16v3ccysk9vpIFZu6qzNWm) | [Koma Saxo](https://open.spotify.com/artist/28Ua0GwMz73dcNeUZIXDq8), [Petter Eldh](https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx) | [Post Koma](https://open.spotify.com/album/0Kg10FOiXQVIsBAoMRhzLh) | 2:17 | 2024-02-21 |  |
 | [Speaker](https://open.spotify.com/track/3D9u3OmkBeEV7g9FUgg5ip) | [DisHand](https://open.spotify.com/artist/0fWugqSess3tlDdzjPu1gy) | [Speaker](https://open.spotify.com/album/6qo41SZD3ARTd5aleSDmHn) | 2:03 | 2023-08-22 |  |
 | [Sport Man](https://open.spotify.com/track/6SzP10os8D81Pj1CeEbbk1) | [The World](https://open.spotify.com/artist/669koPKDS5yqhf6AL6MRIs) | [Sport Man](https://open.spotify.com/album/5kHUOTl5cpRaU4XjVS75wQ) | 4:37 | 2023-08-22 |  |
 | [Springtime Secret](https://open.spotify.com/track/07fTTeHJx7q3cqJJwiHOma) | [Aleph](https://open.spotify.com/artist/1UbGhSo6X9OypkMO9BLNVe), [Dreamlike Studio](https://open.spotify.com/artist/3VlRT5debonTpgMwGxtLtF), [Alexandre Elias](https://open.spotify.com/artist/72xKqeAh9QfV1S7TAgYipb) | [Springtime Secret](https://open.spotify.com/album/32qrcl8UtGMXQy2bnSAUcZ) | 2:09 | 2023-08-22 |  |
@@ -165,7 +166,7 @@
 | [While She Waits](https://open.spotify.com/track/7BAYKZau47DGuwZNvM1cwv) | [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [Watercolors](https://open.spotify.com/album/0ens67bGm8KPOXbMRSL86G) | 2:16 | 2023-08-22 |  |
 | [Windjammer](https://open.spotify.com/track/1gCMAZDeodBRnKi0vw7pgV) | [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k) | [Windjammer](https://open.spotify.com/album/7i1qkkY7yluJStFuhADcmV) | 2:27 | 2023-12-20 |  |
 | [Wonderment](https://open.spotify.com/track/26kYnw6WLvGp7Ra74JITZH) | [Jonny Tobin](https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO) | [Wonderment](https://open.spotify.com/album/33BNvmKLpLEMl8FjetvtCs) | 3:19 | 2023-08-22 |  |
-| [Yesterday's Price](https://open.spotify.com/track/76w0UOermXSeAZIj0HfynR) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil), [Joshua Karpeh](https://open.spotify.com/artist/7Ld6G79PcddkizPC36ujEF), [Immanuel Wilkins](https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG), [Ambrose Akinmusire](https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF) | [Yesterday's Price](https://open.spotify.com/album/7xPy90fuevpNsr4pSLRSmB) | 5:15 | 2023-08-22 |  |
+| [Yesterday's Price](https://open.spotify.com/track/76w0UOermXSeAZIj0HfynR) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil), [Joshua Karpeh](https://open.spotify.com/artist/7Ld6G79PcddkizPC36ujEF), [Immanuel Wilkins](https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG), [Ambrose Akinmusire](https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF) | [Yesterday's Price](https://open.spotify.com/album/7xPy90fuevpNsr4pSLRSmB) | 5:15 | 2023-08-22 | 2024-02-22 |
 | [Yield](https://open.spotify.com/track/1lFql1YShXyrUMMMd8St6U) | [Girls in Airports](https://open.spotify.com/artist/6rmNdcuNwzokE2TQaI0ubr) | [How It is Now](https://open.spotify.com/album/2ok0mKvIlEg7jsFGYEZcV5) | 4:54 | 2023-09-08 |  |
 | [Young Alien](https://open.spotify.com/track/6XDUR4yC5W8cBzwxun8ZZj) | [Bear Garden](https://open.spotify.com/artist/0BchEmsNc1BNnt1rzHkGD2) | [Young Alien](https://open.spotify.com/album/18SSwv5kDMT2uIk9HbH1XD) | 2:46 | 2023-08-22 | 2023-10-27 |
 | [Yves](https://open.spotify.com/track/4WPkKMDMWFrkKpth3KwLb2) | [Sinj Clarke](https://open.spotify.com/artist/7jDSOef767oJaystnbMU4Q) | [Yves](https://open.spotify.com/album/3iLLjXJhwzrnkO7x2s5YoI) | 5:19 | 2023-08-22 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33YUTu.md) - [plain]
 
 > This is Greeicy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,318 likes - 51 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,387 likes - 52 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33YUTu.md) - [plain]
 | 29 | [Perdón](https://open.spotify.com/track/4iCJFRTRsFlj4UWoEd7bS9) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Perdón](https://open.spotify.com/album/3mS6qSzJvfbFkhLsp6hO8P) | 3:26 |
 | 30 | [Ya Para Qué](https://open.spotify.com/track/5jX5LKsgCcM2GMSLfVYn78) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Baila](https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH) | 3:26 |
 | 31 | [Que me quiera](https://open.spotify.com/track/17VarGZ9nd9MZRBO0zKsdq) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [YELIANA \- Cap.1 \- Que me quiera / Lokita](https://open.spotify.com/album/4DqEPS1D4QsCtL7m0m5DZ1) | 2:34 |
-| 32 | [Química](https://open.spotify.com/track/3f4GVrbME6OfGJqlaxR6aF) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [YELIANA \- Cap\. 2 \- I Try For You / Química](https://open.spotify.com/album/2MwlMWtZzYtqfUxhiYCCfM) | 2:17 |
-| 33 | [Mala Fama \- Remix](https://open.spotify.com/track/1H3o2Pde9RlIa0V2crN3kb) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Andrés Saavedra](https://open.spotify.com/artist/5KG8PVgup7Rd3VJ3SGTVvN) | [SIE7E +](https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE) | 2:57 |
+| 32 | [Mala Fama \- Remix](https://open.spotify.com/track/1H3o2Pde9RlIa0V2crN3kb) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Andrés Saavedra](https://open.spotify.com/artist/5KG8PVgup7Rd3VJ3SGTVvN) | [SIE7E +](https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE) | 2:57 |
+| 33 | [Química](https://open.spotify.com/track/3f4GVrbME6OfGJqlaxR6aF) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [YELIANA \- Cap\. 2 \- I Try For You / Química](https://open.spotify.com/album/2MwlMWtZzYtqfUxhiYCCfM) | 2:17 |
 | 34 | [Jerusalema \(feat\. Micro TDH, Greeicy & Nomcebo Zikode\) \[Remix\]](https://open.spotify.com/track/54nChLooSgU5bUQCV2oVOY) | [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Nomcebo Zikode](https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6) | [Jerusalema \(feat\. Micro TDH, Greeicy & Nomcebo Zikode\) \[Remix\]](https://open.spotify.com/album/0f7eKFD7GWis0BuKXaikB5) | 3:38 |
 | 35 | [No Pasa Nada](https://open.spotify.com/track/3Y8xqiwesgj5ytOPpHo6Nx) | [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [La Piti](https://open.spotify.com/album/1LVYwpAVevauvcv6s8Euh9) | 3:03 |
 | 36 | [Jacuzzi](https://open.spotify.com/track/68AFwp0MnkWketMmnfvzR8) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Jacuzzi](https://open.spotify.com/album/6hourrBLixE67puzTocZUh) | 3:04 |
@@ -58,6 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33YUTu.md) - [plain]
 | 48 | [Los Besos \- Versión Piano](https://open.spotify.com/track/7mekhXCiEHT9yCTfL2JvfO) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Los Besos \(Versión Piano\)](https://open.spotify.com/album/4wIHfk91jr0IaqsPoAcP2g) | 3:50 |
 | 49 | [Esta Vez](https://open.spotify.com/track/36MMDlQwvVLVH0In2L9P8s) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Baila](https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH) | 1:57 |
 | 50 | [Brindemos](https://open.spotify.com/track/3JzxVjdPHJTaqLx2Usc1EY) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Brindemos](https://open.spotify.com/album/109eecGsDwd2Mz5QGy7m95) | 3:08 |
-| 51 | [Cartagena \(Madism Remix\)](https://open.spotify.com/track/1lju2OPEC0SqwKxvpAUmRv) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [HiROQUEST 2: Double Helix Remixed](https://open.spotify.com/album/66WcJqzeSYCSSO9uGPfKIF) | 1:55 |
+| 51 | [Vete](https://open.spotify.com/track/58LhEQTSIEG3nOTiucvNR3) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [YELIANA](https://open.spotify.com/album/7bGQBZkaTn1QIFdWG2FuV1) | 2:19 |
+| 52 | [Cartagena \(Madism Remix\)](https://open.spotify.com/track/1lju2OPEC0SqwKxvpAUmRv) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [HiROQUEST 2: Double Helix Remixed](https://open.spotify.com/album/66WcJqzeSYCSSO9uGPfKIF) | 1:55 |
 
-Snapshot ID: `Mjg0NzQxMzEsMDAwMDAwMDA2ZTdjOTZmMTM2ZjVmNjM2NGE0NjZkZmQzMGNhOGI5Mw==`
+Snapshot ID: `Mjg0NzUyOTAsMDAwMDAwMDBmOGI2MTI2NWYzODMyZDQ0N2ZmZjhhYzhkYjM5MGFmNA==`

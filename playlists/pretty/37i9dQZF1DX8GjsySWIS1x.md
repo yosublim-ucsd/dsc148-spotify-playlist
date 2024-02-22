@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8GjsySWIS1x.md) - [plain]
 
 > The latest promotional gaming tracks, gaming synchs, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,032,058 likes - 62 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,032,051 likes - 62 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8GjsySWIS1x.md) - [plain]
 | 61 | [Pomegranate Lips](https://open.spotify.com/track/1mKuKTxekhyhbW1axz6lb2) | [Derivakat](https://open.spotify.com/artist/4T7KICeQg50AwFzauMCR9C) | [Pomegranate Lips](https://open.spotify.com/album/1CuRyhhGUWNEZCUHlQRyUi) | 2:39 |
 | 62 | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 3:32 |
 
-Snapshot ID: `MCxiN2I3NGRlOGY5YWE5ZTlkNTg1YjRhNTYwMWUyZmI4YjhjNTgxM2Y5`
+Snapshot ID: `MCwyMTQ5MGRiMmM4MWIxMTc0M2ExZjIyM2QwOTNjNTg2ODM4MmRkOTlk`

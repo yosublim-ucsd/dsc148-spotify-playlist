@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 
 > Kickstart your morning workout with these upbeat workout tracks, updated weekly! Featuring Dom Dolla, Kygo, cassö, Calvin Harris and more.
 
-[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 30,940 likes - 101 songs - 5 hr 11 min
+[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 30,935 likes - 101 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 | 94 | [Stars](https://open.spotify.com/track/6lhXolP56DpQHBVVkRqczw) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Stars](https://open.spotify.com/album/7KNcS4dHvYfjFfJfP6rVpj) | 2:51 |
 | 95 | [Every Little Time](https://open.spotify.com/track/0Bp3ApYtNcMRn1DIY6ipP6) | [Matt Guy](https://open.spotify.com/artist/09eFtzPTf7Rbkb1z7n7S5B) | [Every Little Time](https://open.spotify.com/album/1T4WNNJ25BbpdohmZQfQj7) | 3:05 |
 | 96 | [JOY \(Back On 74\)](https://open.spotify.com/track/0K2PQziTagDXHiCFPqoE82) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(Back on 74\)](https://open.spotify.com/album/4HYWB8dT9bJHIZnVLU2D6z) | 4:31 |
-| 97 | [AEIOU](https://open.spotify.com/track/3Z7a6HNSJnsategcCMatqc) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [AEIOU](https://open.spotify.com/album/0d9PcDKpaf4Qjw3eANWFCQ) | 3:15 |
+| 97 | [AEIOU](https://open.spotify.com/track/3Z7a6HNSJnsategcCMatqc) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [AEIOU](https://open.spotify.com/album/0d9PcDKpaf4Qjw3eANWFCQ) | 3:15 |
 | 98 | [Another Love \- Tiësto Remix](https://open.spotify.com/track/4Et6tUEO7biKxZEfJXpNj1) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Another Love \(Tiësto Remix\)](https://open.spotify.com/album/1QltVGlNGbK94CKgUsYZGa) | 3:05 |
 | 99 | [Alright](https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 2:53 |
 | 100 | [Big FU](https://open.spotify.com/track/2HbTwmup8SWz5tMcKZXFLh) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Big FU](https://open.spotify.com/album/6fmQcEPiGQlBlA8LGClYVU) | 2:41 |

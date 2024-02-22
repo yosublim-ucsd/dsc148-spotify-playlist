@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1990s. Cover: Jennifer Lopez.",
-  "num_followers": 791478,
+  "num_followers": 792067,
   "original_name": "90s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4N2QwYzExMDczNGZkZGY0YTMyZTU2MzBmM2ZkOTIwN2MxNGJhM2I3",
+  "snapshot_id": "MCwzMDlhZTMxNjdlZWZkMDliNmRiN2U3YzAzMzk3OTY4MWEzODIzMmFh",
   "tracks": [
     {
       "added_at": "2022-10-11 00:00:00",
@@ -967,6 +967,22 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
+        "name": "Women in Technology",
+        "url": "https://open.spotify.com/album/6z6qZbY7mDuyzstPSCy5Xq"
+      },
+      "artists": [
+        {
+          "name": "White Town",
+          "url": "https://open.spotify.com/artist/1MPcILKoMCJym9KscdYxuM"
+        }
+      ],
+      "duration_ms": 259893,
+      "name": "Your Woman",
+      "url": "https://open.spotify.com/track/3UBItNVbFQiVC5hBQlBvnr"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
         "name": "The Bridge",
         "url": "https://open.spotify.com/album/5BOX6g9aOGf0yh7OEkzen3"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 255546,
       "name": "Bla Bla Bla",
       "url": "https://open.spotify.com/track/04zrPERrSO4CfyargthKJ9"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
-        "name": "Women in Technology",
-        "url": "https://open.spotify.com/album/6z6qZbY7mDuyzstPSCy5Xq"
-      },
-      "artists": [
-        {
-          "name": "White Town",
-          "url": "https://open.spotify.com/artist/1MPcILKoMCJym9KscdYxuM"
-        }
-      ],
-      "duration_ms": 259893,
-      "name": "Your Woman",
-      "url": "https://open.spotify.com/track/3UBItNVbFQiVC5hBQlBvnr"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "1992 - 2012",
-        "url": "https://open.spotify.com/album/68wdXsJmyuDfbozV2rDjXq"
-      },
-      "artists": [
-        {
-          "name": "Underworld",
-          "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
-        }
-      ],
-      "duration_ms": 456480,
-      "name": "Born Slippy (Nuxx)",
-      "url": "https://open.spotify.com/track/7xQYVjs4wZNdCwO0EeAWMC"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Best! The Singles 16 Tracks",
         "url": "https://open.spotify.com/album/5BAPBgAp1Qt9UD5vsBGXTz"
       },
@@ -1207,6 +1191,22 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
+        "name": "1992 - 2012",
+        "url": "https://open.spotify.com/album/68wdXsJmyuDfbozV2rDjXq"
+      },
+      "artists": [
+        {
+          "name": "Underworld",
+          "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
+        }
+      ],
+      "duration_ms": 456480,
+      "name": "Born Slippy (Nuxx)",
+      "url": "https://open.spotify.com/track/7xQYVjs4wZNdCwO0EeAWMC"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
         "name": "Duophonic",
         "url": "https://open.spotify.com/album/2qSjYxNL8dN8QCTTQyuNOA"
       },
@@ -1219,6 +1219,22 @@
       "duration_ms": 279600,
       "name": "Would I Lie To You?",
       "url": "https://open.spotify.com/track/3PkvYP6223QO3xlW2THd1x"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Spice",
+        "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
+      },
+      "artists": [
+        {
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+        }
+      ],
+      "duration_ms": 235973,
+      "name": "Say You'll Be There",
+      "url": "https://open.spotify.com/track/1yTQ39my3MoNROlFw3RDNy"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1243,22 +1259,6 @@
       "duration_ms": 230760,
       "name": "I Like To Move It (feat. The Mad Stuntman) ( Erick \"More\" Album Mix)",
       "url": "https://open.spotify.com/track/4l2ljvyXOCVNbD5ff7NpM7"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
-        "name": "Spice",
-        "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
-      },
-      "artists": [
-        {
-          "name": "Spice Girls",
-          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
-        }
-      ],
-      "duration_ms": 235973,
-      "name": "Say You'll Be There",
-      "url": "https://open.spotify.com/track/1yTQ39my3MoNROlFw3RDNy"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "I Wish",
-        "url": "https://open.spotify.com/album/74QhQQa0lhpkOSrz9HXWyE"
-      },
-      "artists": [
-        {
-          "name": "Skee-Lo",
-          "url": "https://open.spotify.com/artist/55Pp4Ns5VfTSFsBraW7MQy"
-        }
-      ],
-      "duration_ms": 252306,
-      "name": "I Wish - Radio Edit",
-      "url": "https://open.spotify.com/track/0QMHVTnrFTQJoaqmkdsKhT"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Big Willie Style",
         "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 227266,
       "name": "Men In Black - From \"Men In Black\" Soundtrack",
       "url": "https://open.spotify.com/track/2FK7fxjzQEXD7Z32HSF0Hl"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "I Wish",
+        "url": "https://open.spotify.com/album/74QhQQa0lhpkOSrz9HXWyE"
+      },
+      "artists": [
+        {
+          "name": "Skee-Lo",
+          "url": "https://open.spotify.com/artist/55Pp4Ns5VfTSFsBraW7MQy"
+        }
+      ],
+      "duration_ms": 252306,
+      "name": "I Wish - Radio Edit",
+      "url": "https://open.spotify.com/track/0QMHVTnrFTQJoaqmkdsKhT"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "12 Inches Of Snow",
-        "url": "https://open.spotify.com/album/6bNWz7bHK8M0xPfAPmFSRW"
-      },
-      "artists": [
-        {
-          "name": "Snow",
-          "url": "https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1"
-        }
-      ],
-      "duration_ms": 268910,
-      "name": "Informer",
-      "url": "https://open.spotify.com/track/2LjiPAQOVazT8sRyXL3XRs"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Ice 'n' Green",
         "url": "https://open.spotify.com/album/3fSQDORWIQuhjPWZOptkML"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 260973,
       "name": "Think About the Way",
       "url": "https://open.spotify.com/track/2foOeJLKSvepjHEkb4NR8N"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "12 Inches Of Snow",
+        "url": "https://open.spotify.com/album/6bNWz7bHK8M0xPfAPmFSRW"
+      },
+      "artists": [
+        {
+          "name": "Snow",
+          "url": "https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1"
+        }
+      ],
+      "duration_ms": 268910,
+      "name": "Informer",
+      "url": "https://open.spotify.com/track/2LjiPAQOVazT8sRyXL3XRs"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "The Party Album!",
-        "url": "https://open.spotify.com/album/2hy9sLDt7IVAvJRGVdzZnx"
-      },
-      "artists": [
-        {
-          "name": "Vengaboys",
-          "url": "https://open.spotify.com/artist/0cwmNvclzPd8mQnoHuIksj"
-        }
-      ],
-      "duration_ms": 217539,
-      "name": "We're Going To Ibiza!",
-      "url": "https://open.spotify.com/track/6trzHhvr6xqYJkNnbWwXz2"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Music For The People",
         "url": "https://open.spotify.com/album/03ZfzcyHfeWSuADL87VuTQ"
       },
@@ -1767,18 +1751,18 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Homework",
-        "url": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y"
+        "name": "The Party Album!",
+        "url": "https://open.spotify.com/album/2hy9sLDt7IVAvJRGVdzZnx"
       },
       "artists": [
         {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+          "name": "Vengaboys",
+          "url": "https://open.spotify.com/artist/0cwmNvclzPd8mQnoHuIksj"
         }
       ],
-      "duration_ms": 328680,
-      "name": "Da Funk",
-      "url": "https://open.spotify.com/track/0MyY4WcN7DIfbSmp5yej5z"
+      "duration_ms": 217539,
+      "name": "We're Going To Ibiza!",
+      "url": "https://open.spotify.com/track/6trzHhvr6xqYJkNnbWwXz2"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1799,22 +1783,18 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "It's My Life",
-        "url": "https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS"
+        "name": "Homework",
+        "url": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y"
       },
       "artists": [
         {
-          "name": "Sash!",
-          "url": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
-        },
-        {
-          "name": "Future Breeze",
-          "url": "https://open.spotify.com/artist/2Qa4UBwzhEFt1Tpj95cZls"
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
         }
       ],
-      "duration_ms": 221160,
-      "name": "Encore Une Fois - Future Breeze Edit",
-      "url": "https://open.spotify.com/track/3UPBOL5UtCZmJRwioMkfLD"
+      "duration_ms": 328680,
+      "name": "Da Funk",
+      "url": "https://open.spotify.com/track/0MyY4WcN7DIfbSmp5yej5z"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1851,6 +1831,26 @@
       "duration_ms": 248093,
       "name": "Emotions",
       "url": "https://open.spotify.com/track/0cELvuwJW1acISUHYB6suj"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "It's My Life",
+        "url": "https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS"
+      },
+      "artists": [
+        {
+          "name": "Sash!",
+          "url": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
+        },
+        {
+          "name": "Future Breeze",
+          "url": "https://open.spotify.com/artist/2Qa4UBwzhEFt1Tpj95cZls"
+        }
+      ],
+      "duration_ms": 221160,
+      "name": "Encore Une Fois - Future Breeze Edit",
+      "url": "https://open.spotify.com/track/3UPBOL5UtCZmJRwioMkfLD"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -2191,6 +2191,26 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
+        "name": "Amplified Heart (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0Vq4bI3MkIfa1HWlkt9Ud2"
+      },
+      "artists": [
+        {
+          "name": "Everything But The Girl",
+          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
+        },
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        }
+      ],
+      "duration_ms": 236293,
+      "name": "Missing - Todd Terry Remix",
+      "url": "https://open.spotify.com/track/1waLmkUyMq0M5ACmf5SG7q"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
         "name": "Ladies And Gentlemen... The Best Of George Michael",
         "url": "https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl"
       },
@@ -2219,26 +2239,6 @@
       "duration_ms": 215533,
       "name": "Moving on Up",
       "url": "https://open.spotify.com/track/6vGW3d8X48CBaLdU0PQbey"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
-        "name": "Amplified Heart (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0Vq4bI3MkIfa1HWlkt9Ud2"
-      },
-      "artists": [
-        {
-          "name": "Everything But The Girl",
-          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
-        },
-        {
-          "name": "Todd Terry",
-          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
-        }
-      ],
-      "duration_ms": 236293,
-      "name": "Missing - Todd Terry Remix",
-      "url": "https://open.spotify.com/track/1waLmkUyMq0M5ACmf5SG7q"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -2323,22 +2323,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Born Slippy (Nuxx) [Radio Edit]",
-        "url": "https://open.spotify.com/album/6p7gQ5S39dLxMvyqqnP9Qd"
-      },
-      "artists": [
-        {
-          "name": "Underworld",
-          "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
-        }
-      ],
-      "duration_ms": 264187,
-      "name": "Born Slippy (Nuxx) - Radio Edit",
-      "url": "https://open.spotify.com/track/3bUNyRrTFJDd4mqvUcb1Aa"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Swing Batta Swing",
         "url": "https://open.spotify.com/album/0BFZy6FBVmJmSK5FjQj2RN"
       },
@@ -2351,6 +2335,22 @@
       "duration_ms": 239733,
       "name": "Come Baby Come",
       "url": "https://open.spotify.com/track/2b8RCiPb2rtG5AQ1FwyUZX"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Born Slippy (Nuxx) [Radio Edit]",
+        "url": "https://open.spotify.com/album/6p7gQ5S39dLxMvyqqnP9Qd"
+      },
+      "artists": [
+        {
+          "name": "Underworld",
+          "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
+        }
+      ],
+      "duration_ms": 264187,
+      "name": "Born Slippy (Nuxx) - Radio Edit",
+      "url": "https://open.spotify.com/track/3bUNyRrTFJDd4mqvUcb1Aa"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -2423,22 +2423,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "In Stereo",
-        "url": "https://open.spotify.com/album/21Z00Rt15tDCUM4mStVNKI"
-      },
-      "artists": [
-        {
-          "name": "Bomfunk MC's",
-          "url": "https://open.spotify.com/artist/0NeC6ploeJUq8oDwYQjNPS"
-        }
-      ],
-      "duration_ms": 306000,
-      "name": "Freestyler",
-      "url": "https://open.spotify.com/track/2vlgOAH3M8Fmo19wOjeRyw"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Horny (Radio Edit's)",
         "url": "https://open.spotify.com/album/3WQ59lVT7UR1WvU0Of3W4D"
       },
@@ -2455,6 +2439,22 @@
       "duration_ms": 187826,
       "name": "Horny - '98 Radio Edit",
       "url": "https://open.spotify.com/track/79qPDRmHmJ5xcU7oyS8CQ1"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "In Stereo",
+        "url": "https://open.spotify.com/album/21Z00Rt15tDCUM4mStVNKI"
+      },
+      "artists": [
+        {
+          "name": "Bomfunk MC's",
+          "url": "https://open.spotify.com/artist/0NeC6ploeJUq8oDwYQjNPS"
+        }
+      ],
+      "duration_ms": 306000,
+      "name": "Freestyler",
+      "url": "https://open.spotify.com/track/2vlgOAH3M8Fmo19wOjeRyw"
     },
     {
       "added_at": "2022-10-11 00:00:00",

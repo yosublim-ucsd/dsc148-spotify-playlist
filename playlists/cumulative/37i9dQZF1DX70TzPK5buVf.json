@@ -124,7 +124,7 @@
       ],
       "date_added": "2020-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 339373,
       "name": "Bootzilla",
       "url": "https://open.spotify.com/track/5js0eS99CZbJpbZW6A9T95"
@@ -1976,6 +1976,24 @@
       "duration_ms": 228326,
       "name": "Use Me",
       "url": "https://open.spotify.com/track/4gRA0i5sxx3jAhHaVjPnUN"
+    },
+    {
+      "album": {
+        "name": "James Brown: Say It Loud - A&E Documentary Playlist",
+        "url": "https://open.spotify.com/album/33Us5UGDL0ZOtBXN8PBzRH"
+      },
+      "artists": [
+        {
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226148,
+      "name": "We Got To Change",
+      "url": "https://open.spotify.com/track/34rWoWiycg2hPA9nqGt7Ig"
     },
     {
       "album": {

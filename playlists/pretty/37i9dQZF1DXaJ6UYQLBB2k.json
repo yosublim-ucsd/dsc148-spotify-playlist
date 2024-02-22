@@ -1,12 +1,12 @@
 {
   "description": "Re-live the glory of Ambient from the 1990s. ",
-  "num_followers": 57180,
+  "num_followers": 57209,
   "original_name": "Ambient 1990s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NDYzMGE0N2Q1YTEyNmM4N2QwMzBkYTBiMzA0ZTAxMWMxZDE3YzBh",
+  "snapshot_id": "MCw3YTk5MzM5NDhkMDcwZDFlNGIyZDMzMTU3MzRhYWE2YjVmNjQ4Yjhm",
   "tracks": [
     {
       "added_at": "2023-12-04 12:20:45",
@@ -46,6 +46,10 @@
         {
           "name": "Stars Of The Lid",
           "url": "https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc"
+        },
+        {
+          "name": "Adam Wiltzie",
+          "url": "https://open.spotify.com/artist/5v27ybSj18HYkL7jc7BSIv"
         }
       ],
       "duration_ms": 568266,

@@ -4,7 +4,7 @@
 
 > 本格的な冬がようやく訪れました。そんな凍える日々を少しだけ暖めるような冬の名曲たちを一つのプレイリストに。
 
-120 songs - 8 hr 12 min
+121 songs - 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [Kissin' Christmas \(Christmas Dakarajanai\) 2023](https://open.spotify.com/track/0qjWX3mtR845RXlbrt9RJS) | [Keisuke Kuwata](https://open.spotify.com/artist/6YIqgghQqnkNne8BKQpW6v), [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU) | [Kissin' Christmas \(Christmas Dakarajanai\) 2023](https://open.spotify.com/album/47fiiDihH7dce4HLaz9c57) | 7:02 | 2023-12-12 | 2024-01-12 |
 | [LOVE LOVE LOVE](https://open.spotify.com/track/239dSULr1VNeGL30rzWZx2) | [gb](https://open.spotify.com/artist/7Ll3Cj9QGaAJ42YdRcFKG6) | [LOVE LOVE LOVE](https://open.spotify.com/album/6lPTKqfxFjfOodm0U7eXlC) | 3:11 | 2023-12-19 |  |
 | [marble latte](https://open.spotify.com/track/603KJ6OCDnVxfCVjDOJZ4f) | [Rin音](https://open.spotify.com/artist/2sd5k8N8cAOm6Q8OCcePw4), [illmore](https://open.spotify.com/artist/6xLWs7PzOiPY2351KcoeGZ) | [marble latte](https://open.spotify.com/album/27wiTABJf6UJfdncR3O8w6) | 3:37 | 2023-12-19 |  |
-| [Melting](https://open.spotify.com/track/2fx9Jqib69Q6BQuE2crNoC) | [U\-Key zone](https://open.spotify.com/artist/5UGa5DI6W2UrficTR8aZXj), [Fumika Sato](https://open.spotify.com/artist/3NB6x7M0zgFnVKCKsXFR3P) | [Melting](https://open.spotify.com/album/2ZA8lHf1yddpZyHBfoyhZz) | 5:00 | 2024-02-20 |  |
+| [Melting](https://open.spotify.com/track/2fx9Jqib69Q6BQuE2crNoC) | [U\-Key zone](https://open.spotify.com/artist/5UGa5DI6W2UrficTR8aZXj), [Fumika Sato](https://open.spotify.com/artist/3NB6x7M0zgFnVKCKsXFR3P) | [Melting](https://open.spotify.com/album/2ZA8lHf1yddpZyHBfoyhZz) | 5:00 | 2024-02-20 | 2024-02-22 |
+| [Melting](https://open.spotify.com/track/4wAMnxBJZ8CqRhz0Bzc0Au) | [U\-Key zone](https://open.spotify.com/artist/5UGa5DI6W2UrficTR8aZXj), [Fumika Sato](https://open.spotify.com/artist/3NB6x7M0zgFnVKCKsXFR3P) | [Melting](https://open.spotify.com/album/0yxz56r9ktKU3fPXeWnkfp) | 5:00 | 2024-02-20 |  |
 | [Memory Lane](https://open.spotify.com/track/7hHrs2q5c5rtzHLJ2DKHTT) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Memory Lane & Winter Song](https://open.spotify.com/album/5IvpvVd9LKgHACcUSHL5Y8) | 3:12 | 2023-12-12 |  |
 | [Milk tea](https://open.spotify.com/track/6AA62UWsygs2OxTXdRd5Nz) | [ReN](https://open.spotify.com/artist/22wa94PJF9zyFJMTp2BYus) | [Milk tea](https://open.spotify.com/album/0LmrMvBQU257p864XtE9np) | 5:01 | 2023-12-12 | 2023-12-22 |
 | [Moonlight](https://open.spotify.com/track/20oWyi2kyCBXvgmD41XYEm) | [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [Moonlight](https://open.spotify.com/album/1B7s0MuLuwvGpSMOpzKDTN) | 3:29 | 2023-12-12 |  |

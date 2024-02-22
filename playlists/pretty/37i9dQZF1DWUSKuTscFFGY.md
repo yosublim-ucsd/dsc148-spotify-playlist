@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSKuTscFFGY.md) - [plain]
 
 > Découvrez les meilleures nouveautés pop\. Photo : KAROL G
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,714 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,728 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSKuTscFFGY.md) - [plain]
 | 49 | [club heaven](https://open.spotify.com/track/1nO6DT2QIYTxwLGrfQvIt3) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [club heaven](https://open.spotify.com/album/119D6p9ScXWYQxWLMv99yn) | 2:11 |
 | 50 | [Afterlife](https://open.spotify.com/track/53spNZ1E32zh40DupLu6cf) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Afterlife](https://open.spotify.com/album/2nCXDKFnPvlSTH4D119M4V) | 3:01 |
 
-Snapshot ID: `MCwwZmZkYmIyYjJiZDBjMTJlZjhkNjFlNGM3ZWIzZDc4MDQ3NzJiNzZh`
+Snapshot ID: `MCxkOWRkMWE2NWI4NDYyZDk2OTVmOGE1MTZiYTIzYjE0MzQzM2ZlZDFj`

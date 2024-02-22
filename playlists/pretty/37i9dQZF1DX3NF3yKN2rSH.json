@@ -1,12 +1,12 @@
 {
   "description": "New and classic Gospel songs to celebrate the Easter season.",
-  "num_followers": 53246,
+  "num_followers": 53245,
   "original_name": "Easter Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZDU3YTA2MTVmMjg3MmFjNGRkNWU4NjRjYzkwOWZmNmE0ODFlODk4",
+  "snapshot_id": "MCw4NDA4MWM0ZGUwZWUwNjgxYzE4MjQ4OTE3N2Y1ZmVmNDIwMmY0MWFl",
   "tracks": [
     {
       "added_at": "2023-04-09 08:49:39",
@@ -279,8 +279,8 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Grace (Live/Deluxe)",
-        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
+        "name": "Heart. Passion. Pursuit.",
+        "url": "https://open.spotify.com/album/39UpQWkYwByspw53CTZDis"
       },
       "artists": [
         {
@@ -288,9 +288,9 @@
           "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
         }
       ],
-      "duration_ms": 406440,
-      "name": "For Your Glory - Live",
-      "url": "https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ"
+      "duration_ms": 376666,
+      "name": "Gracefully Broken",
+      "url": "https://open.spotify.com/track/7ILH9xthuxo4i4bTXpwDcZ"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -375,8 +375,8 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Heart. Passion. Pursuit.",
-        "url": "https://open.spotify.com/album/39UpQWkYwByspw53CTZDis"
+        "name": "Grace (Live/Deluxe)",
+        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
       },
       "artists": [
         {
@@ -384,9 +384,9 @@
           "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
         }
       ],
-      "duration_ms": 376666,
-      "name": "Gracefully Broken",
-      "url": "https://open.spotify.com/track/7ILH9xthuxo4i4bTXpwDcZ"
+      "duration_ms": 406440,
+      "name": "For Your Glory - Live",
+      "url": "https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
+        "name": "Easter Project",
+        "url": "https://open.spotify.com/album/09ofZQBVrHv1cQoFJDdrTB"
+      },
+      "artists": [
+        {
+          "name": "The Spirituals",
+          "url": "https://open.spotify.com/artist/1viPlR6yBVRaBcilVZ8yPy"
+        }
+      ],
+      "duration_ms": 273963,
+      "name": "The Resurrection",
+      "url": "https://open.spotify.com/track/6avTKEs6LUPsjfiA3w3uVm"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
         "name": "Famous For (I Believe) [Sunday A.M. Version]",
         "url": "https://open.spotify.com/album/34OmquTJzMTUsnK1r0nom8"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 467130,
       "name": "The Blood Will Never Lose Its Power",
       "url": "https://open.spotify.com/track/5Q7aK3pXH9l5mrjxrGiU9o"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
-        "name": "Easter Project",
-        "url": "https://open.spotify.com/album/09ofZQBVrHv1cQoFJDdrTB"
-      },
-      "artists": [
-        {
-          "name": "The Spirituals",
-          "url": "https://open.spotify.com/artist/1viPlR6yBVRaBcilVZ8yPy"
-        }
-      ],
-      "duration_ms": 273963,
-      "name": "The Resurrection",
-      "url": "https://open.spotify.com/track/6avTKEs6LUPsjfiA3w3uVm"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Live: The Praise, the Worship",
-        "url": "https://open.spotify.com/album/50hxoMiAYBD7ff6VoCfWwA"
-      },
-      "artists": [
-        {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        }
-      ],
-      "duration_ms": 329186,
-      "name": "Oh Holy Lamb",
-      "url": "https://open.spotify.com/track/3SBa0QkllF6IqeEdg9RPqk"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "Live In Detroit (Live)",
         "url": "https://open.spotify.com/album/0uKzIXtrSUvzRCFHSOv1vv"
       },
@@ -1759,18 +1743,18 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Joshua's Troop",
-        "url": "https://open.spotify.com/album/3XYaQRnY5ha54xB4x2gbgT"
+        "name": "Live: The Praise, the Worship",
+        "url": "https://open.spotify.com/album/50hxoMiAYBD7ff6VoCfWwA"
       },
       "artists": [
         {
-          "name": "Joshua's Troop",
-          "url": "https://open.spotify.com/artist/4ejvtrRzhIaqGb7YhTLUsV"
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
         }
       ],
-      "duration_ms": 311546,
-      "name": "God Is Not Dead",
-      "url": "https://open.spotify.com/track/64u71Ii45f6Pa3BPwIvYul"
+      "duration_ms": 329186,
+      "name": "Oh Holy Lamb",
+      "url": "https://open.spotify.com/track/3SBa0QkllF6IqeEdg9RPqk"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1791,22 +1775,18 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Classic Gold: Live In London: Andrae Crouch & The Disciples",
-        "url": "https://open.spotify.com/album/2uPR6aDZknw2wWgM4uHkHt"
+        "name": "Joshua's Troop",
+        "url": "https://open.spotify.com/album/3XYaQRnY5ha54xB4x2gbgT"
       },
       "artists": [
         {
-          "name": "Andrae Crouch",
-          "url": "https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7"
-        },
-        {
-          "name": "Disciples",
-          "url": "https://open.spotify.com/artist/4ZCnOYklELEjDUrbP4e5dv"
+          "name": "Joshua's Troop",
+          "url": "https://open.spotify.com/artist/4ejvtrRzhIaqGb7YhTLUsV"
         }
       ],
-      "duration_ms": 286946,
-      "name": "Power In the Blood v1.1",
-      "url": "https://open.spotify.com/track/57E9knoyqDbb3RtntQiuly"
+      "duration_ms": 311546,
+      "name": "God Is Not Dead",
+      "url": "https://open.spotify.com/track/64u71Ii45f6Pa3BPwIvYul"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1827,6 +1807,26 @@
       "duration_ms": 220493,
       "name": "Just As I Am",
       "url": "https://open.spotify.com/track/6T9cKNsIuOE3p0mTVgZlIX"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "Classic Gold: Live In London: Andrae Crouch & The Disciples",
+        "url": "https://open.spotify.com/album/2uPR6aDZknw2wWgM4uHkHt"
+      },
+      "artists": [
+        {
+          "name": "Andrae Crouch",
+          "url": "https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7"
+        },
+        {
+          "name": "Disciples",
+          "url": "https://open.spotify.com/artist/4ZCnOYklELEjDUrbP4e5dv"
+        }
+      ],
+      "duration_ms": 286946,
+      "name": "Power In the Blood v1.1",
+      "url": "https://open.spotify.com/track/57E9knoyqDbb3RtntQiuly"
     }
   ],
   "unique_name": "Easter Gospel",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: リーガルリリー \(Regallily\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,873 likes - 74 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,885 likes - 74 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 57 | [missing](https://open.spotify.com/track/5COfkrLpT6t2fHliXbc3tl) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [missing](https://open.spotify.com/album/6fxRUp0yEHIE79usuBfVaM) | 3:09 |
 | 58 | [ソー](https://open.spotify.com/track/0Q3bwm9x2p7qOsDQXZ6ahE) | [AIR\-CON BOOM BOOM ONESAN](https://open.spotify.com/artist/5fW0uZmGOE1kmRiqHbxE9Z) | [AIR \- CON BOOM BOOM ONESAN REPUBLIC](https://open.spotify.com/album/4sygk7SMXI6izkFwVprOfg) | 3:26 |
 | 59 | [君の目も鼻も口も顎も眉も寝ても覚めても超素敵!!!](https://open.spotify.com/track/5Us9nHV0bOYJI7uh3wJQFf) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [君の目も鼻も口も顎も眉も寝ても覚めても超素敵!!!](https://open.spotify.com/album/5zEchapHbkbcP85WGzHBwi) | 3:38 |
-| 60 | [自由と青](https://open.spotify.com/track/6CUOUj0nA8rQIJqlZXYdO5) | [S.O.H.B](https://open.spotify.com/artist/5NS5sPLW7SVGYC9IU7QAMe) | [自由と青](https://open.spotify.com/album/7vMUBHYl6cEgsp3kkHXt4z) | 3:54 |
+| 60 | [Jiyu to Ao](https://open.spotify.com/track/6ETYfx49mPSSv26SnmsrWJ) | [S.O.H.B](https://open.spotify.com/artist/5NS5sPLW7SVGYC9IU7QAMe) | [Jiyu to Ao](https://open.spotify.com/album/5OGoUraVvL8rva8PSSLCBD) | 3:54 |
 | 61 | [snowspring](https://open.spotify.com/track/7tonj11VpAOhsOH7QgJPhq) | [チョーキューメイ](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [snowspring](https://open.spotify.com/album/6097pqjwHjLkbbWj30WQmt) | 3:42 |
 | 62 | [湿度80%](https://open.spotify.com/track/6hQszys7Tkdtqe8Mb97A4S) | [エダワカレ](https://open.spotify.com/artist/4FkjIzbXuuo9oOH3AbSvPq) | [love/melancholy](https://open.spotify.com/album/23yccDB1BWEsNNjWlnnrdQ) | 3:18 |
 | 63 | [ミチヲユケ](https://open.spotify.com/track/63EaBEMlwYv55V7YXO7LQv) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [ミチヲユケ](https://open.spotify.com/album/736H5vVC9j0YWJ6YjrGSBU) | 3:35 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 73 | [FOOL](https://open.spotify.com/track/0AzcSSYPlbmeg1cBYi6nm2) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [FOOL](https://open.spotify.com/album/36feOZnIXPKzDkCkPOnG4j) | 3:04 |
 | 74 | [Kokoro no Naka](https://open.spotify.com/track/6J5Y0T35JVtOpQLVcOvvCa) | [AliA](https://open.spotify.com/artist/4Lmo7h2Ik12QI3Ik0BvGbB) | [Kokoro no Naka](https://open.spotify.com/album/1McLOtVpjTGSkeccdBQz2N) | 4:02 |
 
-Snapshot ID: `MCwwOTEwZjQwMDgzNWYzMGRlYTllMTNlMWI1ZTkyYmZmNjUzNWE0Mjdh`
+Snapshot ID: `MCxhOWU5MTRiNmQwMjgyNzY3MjM4MGRjZDEzNGQ4NzYzMDU4NWFiNWRm`

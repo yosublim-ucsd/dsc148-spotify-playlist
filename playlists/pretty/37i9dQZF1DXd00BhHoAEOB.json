@@ -1,12 +1,12 @@
 {
   "description": "Planta de la bugambilia que me cubres y me matas. ",
-  "num_followers": 66555,
+  "num_followers": 66586,
   "original_name": "Bugambilias",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNTAyMDBmYmU1MGQ2OGIwM2ZkMDdmYzhiMGQ2ODdhOTU2MmFiMDBj",
+  "snapshot_id": "MCxjOWE4ZjVkMTM4ZTA2MDQ1MmRmN2Y1NzFjZTcwNmZiOTkxMGY1YjRi",
   "tracks": [
     {
       "added_at": "2023-06-15 16:40:57",
@@ -887,6 +887,26 @@
     {
       "added_at": "2023-06-15 16:40:57",
       "album": {
+        "name": "Norma",
+        "url": "https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        },
+        {
+          "name": "El David Aguilar",
+          "url": "https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk"
+        }
+      ],
+      "duration_ms": 233346,
+      "name": "Si Alguna Vez",
+      "url": "https://open.spotify.com/track/4ZTWBKgutQg9W9GP4cvxhC"
+    },
+    {
+      "added_at": "2023-06-15 16:40:57",
+      "album": {
         "name": "Pa'lante",
         "url": "https://open.spotify.com/album/11JyLJwjtga29NFZwreG6o"
       },
@@ -963,26 +983,6 @@
       "duration_ms": 236058,
       "name": "Pa'lante",
       "url": "https://open.spotify.com/track/2Zh91nwJJNTyE6WzXfuZrO"
-    },
-    {
-      "added_at": "2023-06-15 16:40:57",
-      "album": {
-        "name": "Norma",
-        "url": "https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        },
-        {
-          "name": "El David Aguilar",
-          "url": "https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk"
-        }
-      ],
-      "duration_ms": 233346,
-      "name": "Si Alguna Vez",
-      "url": "https://open.spotify.com/track/4ZTWBKgutQg9W9GP4cvxhC"
     },
     {
       "added_at": "2023-06-15 16:40:57",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2023-06-15 16:40:57",
       "album": {
+        "name": "La Sandunga",
+        "url": "https://open.spotify.com/album/0QYmOnq6og7uF4NsVlQcn3"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 260013,
+      "name": "Sabor a Mi",
+      "url": "https://open.spotify.com/track/6hxEETYZvysyLVfCFjitUJ"
+    },
+    {
+      "added_at": "2023-06-15 16:40:57",
+      "album": {
         "name": "traguito",
         "url": "https://open.spotify.com/album/3w6RnyVHOO4xHAGzO9iOmB"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 236200,
       "name": "traguito",
       "url": "https://open.spotify.com/track/3t2nOnte5Wp9jbvMenZedH"
-    },
-    {
-      "added_at": "2023-06-15 16:40:57",
-      "album": {
-        "name": "La Sandunga",
-        "url": "https://open.spotify.com/album/0QYmOnq6og7uF4NsVlQcn3"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 260013,
-      "name": "Sabor a Mi",
-      "url": "https://open.spotify.com/track/6hxEETYZvysyLVfCFjitUJ"
     },
     {
       "added_at": "2023-06-15 16:40:57",
@@ -1267,18 +1267,22 @@
     {
       "added_at": "2023-06-15 16:40:57",
       "album": {
-        "name": "Aguerrida",
-        "url": "https://open.spotify.com/album/45WFleOFs1vRsZ6M3ba1W6"
+        "name": "Ciudadana del Mundo Volumen 1",
+        "url": "https://open.spotify.com/album/2vhg2TUJPxODrZhLwtp8bR"
       },
       "artists": [
         {
-          "name": "Mel Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
+          "name": "Eugenia Leon",
+          "url": "https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y"
+        },
+        {
+          "name": "Guadalupe Pineda",
+          "url": "https://open.spotify.com/artist/6xG6oz3V8nZWrwSqpZmPii"
         }
       ],
-      "duration_ms": 151953,
-      "name": "Ni una Gota de Amor",
-      "url": "https://open.spotify.com/track/0eYmT4lH19Aqi3tnVrsLG0"
+      "duration_ms": 202773,
+      "name": "La Flor De La Canela",
+      "url": "https://open.spotify.com/track/1uNBXMLgAC1mx1KH7reIG5"
     },
     {
       "added_at": "2023-06-15 16:40:57",
@@ -1299,22 +1303,18 @@
     {
       "added_at": "2023-06-15 16:40:57",
       "album": {
-        "name": "Ciudadana del Mundo Volumen 1",
-        "url": "https://open.spotify.com/album/2vhg2TUJPxODrZhLwtp8bR"
+        "name": "Aguerrida",
+        "url": "https://open.spotify.com/album/45WFleOFs1vRsZ6M3ba1W6"
       },
       "artists": [
         {
-          "name": "Eugenia Leon",
-          "url": "https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y"
-        },
-        {
-          "name": "Guadalupe Pineda",
-          "url": "https://open.spotify.com/artist/6xG6oz3V8nZWrwSqpZmPii"
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
         }
       ],
-      "duration_ms": 202773,
-      "name": "La Flor De La Canela",
-      "url": "https://open.spotify.com/track/1uNBXMLgAC1mx1KH7reIG5"
+      "duration_ms": 151953,
+      "name": "Ni una Gota de Amor",
+      "url": "https://open.spotify.com/track/0eYmT4lH19Aqi3tnVrsLG0"
     },
     {
       "added_at": "2023-06-15 16:40:57",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2023-06-15 16:40:57",
       "album": {
+        "name": "Navegar",
+        "url": "https://open.spotify.com/album/2nNzpj5R1xuqeu7yLtP4tb"
+      },
+      "artists": [
+        {
+          "name": "Eugenia Leon",
+          "url": "https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y"
+        }
+      ],
+      "duration_ms": 188654,
+      "name": "Navegar",
+      "url": "https://open.spotify.com/track/1BTzmYpxAtpJ18ql2mP82s"
+    },
+    {
+      "added_at": "2023-06-15 16:40:57",
+      "album": {
         "name": "Susana Baca",
         "url": "https://open.spotify.com/album/5rvmqZXWJaqmZC2FVzz4WS"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 228400,
       "name": "Ch\u00e9ni (Miedo)",
       "url": "https://open.spotify.com/track/4spSLPqeKzT5oXPJBTetZt"
-    },
-    {
-      "added_at": "2023-06-15 16:40:57",
-      "album": {
-        "name": "Navegar",
-        "url": "https://open.spotify.com/album/2nNzpj5R1xuqeu7yLtP4tb"
-      },
-      "artists": [
-        {
-          "name": "Eugenia Leon",
-          "url": "https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y"
-        }
-      ],
-      "duration_ms": 188654,
-      "name": "Navegar",
-      "url": "https://open.spotify.com/track/1BTzmYpxAtpJ18ql2mP82s"
     },
     {
       "added_at": "2023-06-15 16:40:57",

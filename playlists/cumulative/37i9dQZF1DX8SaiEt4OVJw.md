@@ -4,7 +4,7 @@
 
 > Les Champs d'Afrique!
 
-511 songs - 1 day 8 hr 16 min
+512 songs - 1 day 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -443,7 +443,8 @@
 | [Taste The Money \(Testimony\)](https://open.spotify.com/track/7DgyTaEkMdtAI2z1WEVEth) | [P\-Square](https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk) | [Taste The Money \(Testimony\)](https://open.spotify.com/album/3Ah1HN7OxawkbIUzFEsZaJ) | 4:20 | 2023-11-18 | 2023-12-05 |
 | [Tekkies Brand](https://open.spotify.com/track/3bDZnbdUWy02rqFzb5Sooi) | [Irene\-Louise Van Wyk](https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma) | [Tekkies Brand](https://open.spotify.com/album/05uEJdtdKnM4SjNGpkEuOD) | 3:28 | 2023-07-11 | 2023-07-29 |
 | [Telemo](https://open.spotify.com/track/4xpxDfHUzG8EIxKLYvlS2n) | [Gasmilla](https://open.spotify.com/artist/1Wtzdgd5YfWe0WWm9WN3l3), [Capasta](https://open.spotify.com/artist/0H8TqgST0J8syd64HA4itY) | [Telemo \(feat\. Capasta\)](https://open.spotify.com/album/5dXM6xMvgQr7NcUIkml7p0) | 4:14 | 2022-11-28 | 2022-11-30 |
-| [Temps en temps](https://open.spotify.com/track/2ZEzQtuXsSbFJrR9xhhiei) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Frères Ennemis](https://open.spotify.com/album/1HLUjcUDDsszfj7OIl6LGh) | 2:33 | 2024-02-10 |  |
+| [Temps en temps](https://open.spotify.com/track/01zsTmucc72th13AWj9HPf) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Frères Ennemis](https://open.spotify.com/album/2BBiqL9LvtK9Dk9aYBEsGC) | 2:33 | 2024-02-12 |  |
+| [Temps en temps](https://open.spotify.com/track/2ZEzQtuXsSbFJrR9xhhiei) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Frères Ennemis](https://open.spotify.com/album/1HLUjcUDDsszfj7OIl6LGh) | 2:33 | 2024-02-10 | 2024-02-22 |
 | [Ten Toes](https://open.spotify.com/track/3InzBS4QeY209i6YZL1Zxb) | [Ypee](https://open.spotify.com/artist/73vIVPEHNYnSjvxwN5AX6P), [Kofi Jamar](https://open.spotify.com/artist/79KG6wqJDA2rLXbAwmtNgK) | [PeeVolution](https://open.spotify.com/album/1WCOj7IljkfhBCk6kjmeuY) | 3:32 | 2022-03-27 | 2022-11-29 |
 | [Terminator](https://open.spotify.com/track/1oq33HJBs0rDmjjZ2rVFyG) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Terminator](https://open.spotify.com/album/27KnOMqnTWsnfBMXZ4YEuZ) | 3:54 | 2023-08-08 | 2023-08-26 |
 | [Terminator \(feat\. Young Jonn\)](https://open.spotify.com/track/4jyZRIiSAEkziHwhZsfmXc) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Terminator \(feat\. Young Jonn\)](https://open.spotify.com/album/1BICkuyzPn2IIQXjopKOXE) | 3:54 | 2024-02-02 | 2024-02-04 |

@@ -1,5 +1,5 @@
 {
-  "2024-02-21": 143857,
+  "2024-02-22": 143970,
   "date_first_scraped": "2022-04-19",
   "description": "Discover the classical side of anime with these orchestral soundtracks and classical masterpieces. \u30a2\u30cb\u30e1\u4f5c\u54c1\u306b\u767b\u5834\u3059\u308b\u30af\u30e9\u30b7\u30c3\u30af\u97f3\u697d\u3068\u8c61\u5fb4\u7684\u306a\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002Illustration by <a href=\"https://kazuhisauragami.com/\"> Kazuhisa Uragami</a>",
   "name": "Anime Classical",
@@ -906,7 +906,7 @@
     },
     {
       "album": {
-        "name": "\u300c\u653b\u6bbb\u6a5f\u52d5\u968a STAND ALONE COMPLEX be Human\u300d",
+        "name": "\u300c\u653b\u6bbb\u6a5f\u52d5\u968a STAND ALONE COMPLEX\u3000be Human\u300d",
         "url": "https://open.spotify.com/album/4yXX0zQxFl88hAV7FauBZ7"
       },
       "artists": [
@@ -1355,6 +1355,24 @@
       "duration_ms": 168883,
       "name": "\u305d\u308c\u305e\u308c\u306e\u5c45\u5834\u6240\u306f",
       "url": "https://open.spotify.com/track/53qehEsM6WQvVvAN2c8QCv"
+    },
+    {
+      "album": {
+        "name": "\u85e4\u5b50\u30fbF\u30fb\u4e0d\u4e8c\u96c4 \u751f\u8a9590\u5e74\u8a18\u5ff5 CAF\u00c9 de FUJIKO\u30fbF\u30fbFUJIO MUSEUM",
+        "url": "https://open.spotify.com/album/1UYgLb8yvCv769iwYywT0X"
+      },
+      "artists": [
+        {
+          "name": "\u4eca\u4e95\u4eae\u592a\u90ce",
+          "url": "https://open.spotify.com/artist/1Ogp4yK6RFM50S1RKqU21b"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215866,
+      "name": "\u307c\u304f\u30c9\u30e9\u3048\u3082\u3093",
+      "url": "https://open.spotify.com/track/16sjh1TIXOwVnPX268XjWm"
     },
     {
       "album": {

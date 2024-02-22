@@ -4,7 +4,7 @@
 
 > Introducing Alma — a soul born from Latin and house music.
 
-181 songs - 10 hr 8 min
+182 songs - 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Colombiana](https://open.spotify.com/track/09wXTzm6Q3NpBDKS4kUAqc) | [Gettoblaster](https://open.spotify.com/artist/5LGa1U6Mwiib6ocVuJItcG), [CZR](https://open.spotify.com/artist/4whL137jgt9m3zwTUlGJDz) | [Colombiana](https://open.spotify.com/album/7vvmaTj1zNgUxP3M61v2gA) | 2:58 | 2021-10-29 | 2023-03-26 |
 | [Conga Mode \- Edit](https://open.spotify.com/track/5QJwvpgZXdMD9lDtdczCVy) | [Melé](https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX) | [Conga Mode EP](https://open.spotify.com/album/5QH9ZqMTDy5c6yIg6PiLte) | 3:44 | 2021-10-08 | 2023-11-11 |
 | [Copacabana](https://open.spotify.com/track/1Z11FDEfDhpGnDSmeASq1J) | [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady) | [Copacabana](https://open.spotify.com/album/5hFScv2YAaIOFBBk035cUt) | 2:54 | 2021-10-08 | 2023-11-11 |
-| [Corazón Partió \(feat\. Dateless\)](https://open.spotify.com/track/2BCOH9nwaqUadJLOhSRBWP) | [Franklyn Watts](https://open.spotify.com/artist/4cS1RS2vIhO2NStH2ktLYn), [Dateless](https://open.spotify.com/artist/03B64rAQB4s7ewgX3wWYty) | [Corazón Partió \(feat\. Dateless\)](https://open.spotify.com/album/5J1JjIlgMzcTvmR4OwYHH5) | 6:10 | 2024-02-02 |  |
+| [Corazón Partió \(feat\. Dateless\)](https://open.spotify.com/track/2BCOH9nwaqUadJLOhSRBWP) | [Franklyn Watts](https://open.spotify.com/artist/4cS1RS2vIhO2NStH2ktLYn), [Dateless](https://open.spotify.com/artist/03B64rAQB4s7ewgX3wWYty) | [Corazón Partió \(feat\. Dateless\)](https://open.spotify.com/album/5J1JjIlgMzcTvmR4OwYHH5) | 6:10 | 2024-02-02 | 2024-02-22 |
 | [Cuarto Oscuro \(feat\. Pacho Carnaval\)](https://open.spotify.com/track/2KHh21KhHHNk9odrdFwXdB) | [Presi On](https://open.spotify.com/artist/4d6KcA6bohrqQTprSUWhEp), [Renate](https://open.spotify.com/artist/1GyJvwv01yQ6KfdV2yet6F), [Augusto Yepes](https://open.spotify.com/artist/4Fii6zdHW1hbQw0LS4qeTs), [Pacho Carnaval](https://open.spotify.com/artist/782eGsJcQXQ4uPl3x0gRs2) | [Cuarto Oscuro / BAQ Spicy](https://open.spotify.com/album/4aYbDplG4136xb7Umtfq6r) | 3:56 | 2024-02-09 |  |
 | [Cuban Riddim](https://open.spotify.com/track/6alU7gZpSPKGy1VD2gCnPb) | [Simon Fava](https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc), [Yvvan Back](https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3) | [Cuban Riddim](https://open.spotify.com/album/5Ey7YhSN7in831mPWfA1C1) | 2:47 | 2021-10-08 | 2023-11-11 |
 | [Cumbia Tropical](https://open.spotify.com/track/1H8sxtzrwWhFGiGamurqnW) | [Ilary Montanari](https://open.spotify.com/artist/5hSt4Q5c4lReEZr6Uaz8BA) | [Cumbia Tropical](https://open.spotify.com/album/1AB9MImjBERGHTLNwhUnUn) | 6:21 | 2021-11-05 | 2023-10-02 |
@@ -144,6 +144,7 @@
 | [Quemá](https://open.spotify.com/track/0jyHpmD0quGHjILUqMftHa) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [Andrew Mathers](https://open.spotify.com/artist/5rjFsTXq2iEMk09Pxtz2U0) | [Quemá](https://open.spotify.com/album/5hKdaI14cybTq3muwkWHxB) | 2:29 | 2021-11-05 | 2023-11-11 |
 | [Quiribi \- Yamil Remix](https://open.spotify.com/track/0orz2g3pXj7q9meh8ccGzA) | [Rosalinda de la Espada](https://open.spotify.com/artist/1rORrFKQT8vxvmb8gIAqwl), [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS) | [Quiribi \(Yamil Remix\)](https://open.spotify.com/album/14vA1aUbS1VAl99DurxZXL) | 6:06 | 2021-10-08 | 2023-11-11 |
 | [Reflection](https://open.spotify.com/track/5T10GMsxlnyizGo6RL5fvI) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [Reflection](https://open.spotify.com/album/17ma8BN1PDsiJaOBz6DlKh) | 3:07 | 2023-11-10 |  |
+| [Resistencia](https://open.spotify.com/track/7ek1DEzAizK2hYsOI1xQsN) | [Draxx \(ITA\)](https://open.spotify.com/artist/57QKWHmmY0jb44T2w7ln73), [Blow \(ITA\)](https://open.spotify.com/artist/0r7dWqdkEDihNmjuAcNAJq) | [Resistencia](https://open.spotify.com/album/3ztQRV32NjMVbxtdwkEy5E) | 2:43 | 2024-02-16 |  |
 | [Ritmo](https://open.spotify.com/track/15223sfwoQj4IAJL8GSnfO) | [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5) | [Ritmo](https://open.spotify.com/album/6LIsvePgAs2LVJHcWub3Sj) | 3:03 | 2021-10-08 | 2023-10-01 |
 | [Ritmo](https://open.spotify.com/track/4FHXsehfIbyPCJLP7fCnIF) | [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5) | [Ritmo](https://open.spotify.com/album/40DTjrBkgfSD4pb1CnlCgl) | 3:03 | 2021-10-08 |  |
 | [Ritmo](https://open.spotify.com/track/6cl8QDkk4dwykg7XwXvNET) | [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5) | [Ritmo](https://open.spotify.com/album/5kzBtWUO1HftW3QAdiUs0t) | 3:03 | 2021-10-08 | 2022-07-29 |

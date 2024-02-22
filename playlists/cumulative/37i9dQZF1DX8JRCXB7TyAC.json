@@ -546,7 +546,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 197851,
       "name": "Declare",
       "url": "https://open.spotify.com/track/3wiHYkijyJp1yqq4qIAQ6I"
@@ -1762,6 +1762,36 @@
       "duration_ms": 190682,
       "name": "Yaar Badmash",
       "url": "https://open.spotify.com/track/6vQYsw6Nfh3eI7CsrVz8A1"
+    },
+    {
+      "album": {
+        "name": "Yaar Haryane Te",
+        "url": "https://open.spotify.com/album/3hD4sNUhV9yErXgYvyT6Au"
+      },
+      "artists": [
+        {
+          "name": "Armaan Malik",
+          "url": "https://open.spotify.com/artist/3pibkVeMCi8twOlUWQGieI"
+        },
+        {
+          "name": "Gold E Gill",
+          "url": "https://open.spotify.com/artist/1nReJyCgrkUDk0VfCGXpQ4"
+        },
+        {
+          "name": "Ankit Baiyanpuria",
+          "url": "https://open.spotify.com/artist/1tYgxFs8KyYSXCfQGFsnsu"
+        },
+        {
+          "name": "Jaivir Rathee",
+          "url": "https://open.spotify.com/artist/11RL0P8BYXqoAChg4JkUZZ"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Yaar Haryane Te",
+      "url": "https://open.spotify.com/track/36pCCXFo9bICfCXIPrIegh"
     },
     {
       "album": {

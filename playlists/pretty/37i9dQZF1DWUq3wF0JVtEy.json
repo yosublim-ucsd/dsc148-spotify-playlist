@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out.",
-  "num_followers": 934674,
+  "num_followers": 934756,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Nzg2NTZkMTQ5ZTJhYmRmNWZlY2RlODU2ZTUwNzFlMTkxYmQzYmM0",
+  "snapshot_id": "MCw2MjExODU0M2NiYzQ1M2EzZGRlMzcwNjg1Zjg3ZWU0ZmMzN2NiOTBl",
   "tracks": [
     {
       "added_at": "2024-02-02 05:00:00",
@@ -907,22 +907,26 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Levitate",
-        "url": "https://open.spotify.com/album/730xOvYxbM6hsmbHlDsHbr"
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/4kfORdPZiXbOTGFBceUrf9"
       },
       "artists": [
         {
-          "name": "Sonny Fodera",
-          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+          "name": "Marc Kiss",
+          "url": "https://open.spotify.com/artist/4o5VpOIpQtpayG0gbDaNzO"
         },
         {
-          "name": "Marten H\u00f8rger",
-          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+          "name": "ThomTree",
+          "url": "https://open.spotify.com/artist/5AzHtrPXDhfNECgcGOjQse"
+        },
+        {
+          "name": "Crystal Rock",
+          "url": "https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e"
         }
       ],
-      "duration_ms": 165000,
-      "name": "Levitate",
-      "url": "https://open.spotify.com/track/18o6r7yB7rxFoLV5rcrWTa"
+      "duration_ms": 156093,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/5czwOsSExLRO25zcnaJuRr"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -987,26 +991,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Insomnia",
-        "url": "https://open.spotify.com/album/4kfORdPZiXbOTGFBceUrf9"
+        "name": "Levitate",
+        "url": "https://open.spotify.com/album/730xOvYxbM6hsmbHlDsHbr"
       },
       "artists": [
         {
-          "name": "Marc Kiss",
-          "url": "https://open.spotify.com/artist/4o5VpOIpQtpayG0gbDaNzO"
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
         },
         {
-          "name": "ThomTree",
-          "url": "https://open.spotify.com/artist/5AzHtrPXDhfNECgcGOjQse"
-        },
-        {
-          "name": "Crystal Rock",
-          "url": "https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e"
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
         }
       ],
-      "duration_ms": 156093,
-      "name": "Insomnia",
-      "url": "https://open.spotify.com/track/5czwOsSExLRO25zcnaJuRr"
+      "duration_ms": 165000,
+      "name": "Levitate",
+      "url": "https://open.spotify.com/track/18o6r7yB7rxFoLV5rcrWTa"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Silent",
-        "url": "https://open.spotify.com/album/2crRb5Zqd38VCkh4kiadvs"
-      },
-      "artists": [
-        {
-          "name": "Ship Wrek",
-          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
-        }
-      ],
-      "duration_ms": 190498,
-      "name": "Silent",
-      "url": "https://open.spotify.com/track/5MvvEKnfgMVLLBkzsgStpD"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Nightbird",
         "url": "https://open.spotify.com/album/2uZGmZtHVVcUNWzsNDdfUx"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 156190,
       "name": "Nightbird",
       "url": "https://open.spotify.com/track/0CADZTEOUaMw9bHnKB59Ts"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Silent",
+        "url": "https://open.spotify.com/album/2crRb5Zqd38VCkh4kiadvs"
+      },
+      "artists": [
+        {
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+        }
+      ],
+      "duration_ms": 190498,
+      "name": "Silent",
+      "url": "https://open.spotify.com/track/5MvvEKnfgMVLLBkzsgStpD"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1415,42 +1415,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Bumba Bass",
-        "url": "https://open.spotify.com/album/5jpu3knFAP2QMFzwa3JBFn"
-      },
-      "artists": [
-        {
-          "name": "TV Noise",
-          "url": "https://open.spotify.com/artist/32Aw9aJJoXXC1Vn3zqzJbQ"
-        },
-        {
-          "name": "Henry Fong",
-          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
-        }
-      ],
-      "duration_ms": 133125,
-      "name": "Bumba Bass",
-      "url": "https://open.spotify.com/track/119lPAmtAB9PhFXE7XBWV2"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Still Cutting Shapes",
-        "url": "https://open.spotify.com/album/6EcQPDgEbAbKIwWv24Jjb1"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 148571,
-      "name": "Still Cutting Shapes",
-      "url": "https://open.spotify.com/track/5dFbW0PcNAm69j8Rnooc2I"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Smack That",
         "url": "https://open.spotify.com/album/6coZsT8OiaHO1a98kJkjVQ"
       },
@@ -1471,6 +1435,42 @@
       "duration_ms": 160952,
       "name": "Smack That",
       "url": "https://open.spotify.com/track/2ttKP17aZtsb96c6sK1QDK"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Still Cutting Shapes",
+        "url": "https://open.spotify.com/album/6EcQPDgEbAbKIwWv24Jjb1"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 148571,
+      "name": "Still Cutting Shapes",
+      "url": "https://open.spotify.com/track/5dFbW0PcNAm69j8Rnooc2I"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Bumba Bass",
+        "url": "https://open.spotify.com/album/5jpu3knFAP2QMFzwa3JBFn"
+      },
+      "artists": [
+        {
+          "name": "TV Noise",
+          "url": "https://open.spotify.com/artist/32Aw9aJJoXXC1Vn3zqzJbQ"
+        },
+        {
+          "name": "Henry Fong",
+          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
+        }
+      ],
+      "duration_ms": 133125,
+      "name": "Bumba Bass",
+      "url": "https://open.spotify.com/track/119lPAmtAB9PhFXE7XBWV2"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Eye To Eye",
+        "url": "https://open.spotify.com/album/4MhknnFfLUIa16XZiicOvz"
+      },
+      "artists": [
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        }
+      ],
+      "duration_ms": 155002,
+      "name": "Eye To Eye",
+      "url": "https://open.spotify.com/track/6wJJSeYggU23fFSiZoWj4U"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "I'm Drunk (feat. AMY MIY\u00da)",
         "url": "https://open.spotify.com/album/0wuMHJgOAu6cCsJUyyMAta"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 150234,
       "name": "I'm Drunk (feat. AMY MIY\u00da)",
       "url": "https://open.spotify.com/track/0WW8txqecanm76y5Je34nf"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Eye To Eye",
-        "url": "https://open.spotify.com/album/4MhknnFfLUIa16XZiicOvz"
-      },
-      "artists": [
-        {
-          "name": "Lucas Estrada",
-          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
-        }
-      ],
-      "duration_ms": 155002,
-      "name": "Eye To Eye",
-      "url": "https://open.spotify.com/track/6wJJSeYggU23fFSiZoWj4U"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "BUBBLEGUM",
-        "url": "https://open.spotify.com/album/0Wi614PbxDMUurzK8xJDwe"
-      },
-      "artists": [
-        {
-          "name": "ESSEL",
-          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
-        }
-      ],
-      "duration_ms": 148538,
-      "name": "BUBBLEGUM",
-      "url": "https://open.spotify.com/track/3VQWkf0zg6397V3ql6mwMq"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Alok Club Series 2023",
         "url": "https://open.spotify.com/album/5gdnagxUxbz8mIbb7DVdLT"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 188226,
       "name": "2 Much 2 Handle",
       "url": "https://open.spotify.com/track/2ivy0p2Ib5acN3D9Dfio8K"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "BUBBLEGUM",
+        "url": "https://open.spotify.com/album/0Wi614PbxDMUurzK8xJDwe"
+      },
+      "artists": [
+        {
+          "name": "ESSEL",
+          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
+        }
+      ],
+      "duration_ms": 148538,
+      "name": "BUBBLEGUM",
+      "url": "https://open.spotify.com/track/3VQWkf0zg6397V3ql6mwMq"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Chain Gang",
+        "url": "https://open.spotify.com/album/0tS6kuEWcyV4jEty6H4Rz0"
+      },
+      "artists": [
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        }
+      ],
+      "duration_ms": 107536,
+      "name": "Chain Gang",
+      "url": "https://open.spotify.com/track/27gCmJDwzTxTx9e90NWDTb"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "What You Got",
         "url": "https://open.spotify.com/album/7cSGgAYjT88n0xDh9n4Jsh"
       },
@@ -1703,22 +1719,6 @@
       "duration_ms": 160000,
       "name": "What You Got",
       "url": "https://open.spotify.com/track/1IrTzpX4khWqGPdAyFBOqv"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Chain Gang",
-        "url": "https://open.spotify.com/album/0tS6kuEWcyV4jEty6H4Rz0"
-      },
-      "artists": [
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        }
-      ],
-      "duration_ms": 107536,
-      "name": "Chain Gang",
-      "url": "https://open.spotify.com/track/27gCmJDwzTxTx9e90NWDTb"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1795,26 +1795,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Ravers",
-        "url": "https://open.spotify.com/album/4JuA2DPEmIV0EUeDikpy2h"
-      },
-      "artists": [
-        {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
-        },
-        {
-          "name": "TV Noise",
-          "url": "https://open.spotify.com/artist/32Aw9aJJoXXC1Vn3zqzJbQ"
-        }
-      ],
-      "duration_ms": 153749,
-      "name": "Ravers",
-      "url": "https://open.spotify.com/track/5YWxunBgmnSlEq2xz49FqI"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "B\u20acNZ",
         "url": "https://open.spotify.com/album/5xLgpnSUHopno8qcuJA67z"
       },
@@ -1835,6 +1815,26 @@
       "duration_ms": 244218,
       "name": "B\u20acNZ",
       "url": "https://open.spotify.com/track/57UFzhgsL7Q4lxaEKosMSb"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Ravers",
+        "url": "https://open.spotify.com/album/4JuA2DPEmIV0EUeDikpy2h"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        },
+        {
+          "name": "TV Noise",
+          "url": "https://open.spotify.com/artist/32Aw9aJJoXXC1Vn3zqzJbQ"
+        }
+      ],
+      "duration_ms": 153749,
+      "name": "Ravers",
+      "url": "https://open.spotify.com/track/5YWxunBgmnSlEq2xz49FqI"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1927,26 +1927,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "I\u2019m A Freak (feat. Kazhi)",
-        "url": "https://open.spotify.com/album/2XPjCyxirQKCpW3d52WmUs"
+        "name": "2HEARTs dlux",
+        "url": "https://open.spotify.com/album/0jl5eSEDiAIQBY3eeXnDIQ"
       },
       "artists": [
         {
-          "name": "Henry Fong",
-          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
-        },
-        {
-          "name": "ANG",
-          "url": "https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl"
-        },
-        {
-          "name": "Kazhi",
-          "url": "https://open.spotify.com/artist/5GTYEYJqmYH3VlaRRnkaWj"
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
         }
       ],
-      "duration_ms": 156190,
-      "name": "I\u2019m A Freak (feat. Kazhi)",
-      "url": "https://open.spotify.com/track/1rI9fFHBnxcVT0FUKfrGOA"
+      "duration_ms": 239047,
+      "name": "my luv - bonus track",
+      "url": "https://open.spotify.com/track/6PFbJ9LyhPo5gbTpc08XGP"
     }
   ],
   "unique_name": "Shuffle Syndrome",

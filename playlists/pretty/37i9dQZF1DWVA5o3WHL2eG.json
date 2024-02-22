@@ -1,12 +1,12 @@
 {
   "description": "Women at full volume. Cover: ana\u00efs",
-  "num_followers": 33005,
+  "num_followers": 33007,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYjdlZWNjMTcyZWZjZDNlMDk0MjgxNjdiYjVkODcwN2RkNWQyYzI5",
+  "snapshot_id": "MCwyZmM1OWM0OTA5NzgxMmZmZjI1MmJmYmMxY2VmOTFlZmU0YjMzZWRl",
   "tracks": [
     {
       "added_at": "2024-02-14 00:00:00",
@@ -107,6 +107,26 @@
     {
       "added_at": "2024-02-14 00:00:00",
       "album": {
+        "name": "Unterwegs",
+        "url": "https://open.spotify.com/album/0YLHd9ODNz4Ym6s0puZhZm"
+      },
+      "artists": [
+        {
+          "name": "prod.suki",
+          "url": "https://open.spotify.com/artist/4sRWXtD28EnvezAlaltt0x"
+        },
+        {
+          "name": "Verifiziert",
+          "url": "https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG"
+        }
+      ],
+      "duration_ms": 180689,
+      "name": "Unterwegs",
+      "url": "https://open.spotify.com/track/2IXYCofJeVgh5r2y0JXOMN"
+    },
+    {
+      "added_at": "2024-02-14 00:00:00",
+      "album": {
         "name": "My Fantasy",
         "url": "https://open.spotify.com/album/4BtrOR6UZNQV8yJl0P3vF4"
       },
@@ -135,26 +155,6 @@
       "duration_ms": 167271,
       "name": "Kleines Bisschen Gr\u00fcn",
       "url": "https://open.spotify.com/track/7foBCSij76jXHuYteu1kh5"
-    },
-    {
-      "added_at": "2024-02-14 00:00:00",
-      "album": {
-        "name": "Unterwegs",
-        "url": "https://open.spotify.com/album/0YLHd9ODNz4Ym6s0puZhZm"
-      },
-      "artists": [
-        {
-          "name": "prod.suki",
-          "url": "https://open.spotify.com/artist/4sRWXtD28EnvezAlaltt0x"
-        },
-        {
-          "name": "Verifiziert",
-          "url": "https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG"
-        }
-      ],
-      "duration_ms": 180689,
-      "name": "Unterwegs",
-      "url": "https://open.spotify.com/track/2IXYCofJeVgh5r2y0JXOMN"
     },
     {
       "added_at": "2024-02-14 00:00:00",
@@ -467,22 +467,6 @@
     {
       "added_at": "2024-02-14 00:00:00",
       "album": {
-        "name": "nicht mal nihilist",
-        "url": "https://open.spotify.com/album/2XaCEABalhmbNnjjoc3m3J"
-      },
-      "artists": [
-        {
-          "name": "RAHEL",
-          "url": "https://open.spotify.com/artist/0WdihSMgLzyjcNcKsdvJCv"
-        }
-      ],
-      "duration_ms": 227078,
-      "name": "nicht mal nihilist",
-      "url": "https://open.spotify.com/track/7r8cLxIuHH5unKxrCjrgOC"
-    },
-    {
-      "added_at": "2024-02-14 00:00:00",
-      "album": {
         "name": "Green Blue Violet (Love Is Pain)",
         "url": "https://open.spotify.com/album/6ugCyZdalUQiJf52EfEuez"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 178806,
       "name": "Green Blue Violet (Love Is Pain)",
       "url": "https://open.spotify.com/track/0bpykpzP4TNPhOkQaGwXo0"
+    },
+    {
+      "added_at": "2024-02-14 00:00:00",
+      "album": {
+        "name": "nicht mal nihilist",
+        "url": "https://open.spotify.com/album/2XaCEABalhmbNnjjoc3m3J"
+      },
+      "artists": [
+        {
+          "name": "RAHEL",
+          "url": "https://open.spotify.com/artist/0WdihSMgLzyjcNcKsdvJCv"
+        }
+      ],
+      "duration_ms": 227078,
+      "name": "nicht mal nihilist",
+      "url": "https://open.spotify.com/track/7r8cLxIuHH5unKxrCjrgOC"
     },
     {
       "added_at": "2024-02-14 00:00:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-02-14 00:00:00",
       "album": {
-        "name": "oh my messy mind",
-        "url": "https://open.spotify.com/album/0B2JJ0hBxgTgExfN859HQt"
-      },
-      "artists": [
-        {
-          "name": "Philippa Kinsky",
-          "url": "https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0"
-        }
-      ],
-      "duration_ms": 167233,
-      "name": "oh my messy mind",
-      "url": "https://open.spotify.com/track/70YcgcIRmCzux3UNwiGCPV"
-    },
-    {
-      "added_at": "2024-02-14 00:00:00",
-      "album": {
         "name": "Don't Wanna",
         "url": "https://open.spotify.com/album/2rt8p7jfKZf51IYPjKWC6t"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 185624,
       "name": "Don't Wanna",
       "url": "https://open.spotify.com/track/5rGrH9RbXJN2TggEhHPkWW"
+    },
+    {
+      "added_at": "2024-02-14 00:00:00",
+      "album": {
+        "name": "oh my messy mind",
+        "url": "https://open.spotify.com/album/0B2JJ0hBxgTgExfN859HQt"
+      },
+      "artists": [
+        {
+          "name": "Philippa Kinsky",
+          "url": "https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0"
+        }
+      ],
+      "duration_ms": 167233,
+      "name": "oh my messy mind",
+      "url": "https://open.spotify.com/track/70YcgcIRmCzux3UNwiGCPV"
     },
     {
       "added_at": "2024-02-14 00:00:00",
@@ -659,18 +659,18 @@
     {
       "added_at": "2024-02-14 00:00:00",
       "album": {
-        "name": "Schleudertrauma",
-        "url": "https://open.spotify.com/album/4hLsRhE24dkJOeaBaBe1bO"
+        "name": "AMY WINEHOUZE",
+        "url": "https://open.spotify.com/album/4cDjx3jrT1FVnnZdilXq9n"
       },
       "artists": [
         {
-          "name": "linna",
-          "url": "https://open.spotify.com/artist/4EgjoNttrpi5WU1lIMWs1J"
+          "name": "LIZ",
+          "url": "https://open.spotify.com/artist/793QToVJnVh8Op8YSqJsSm"
         }
       ],
-      "duration_ms": 161806,
-      "name": "Schleudertrauma",
-      "url": "https://open.spotify.com/track/6dMkJN3pr9OR1HvOosTNNK"
+      "duration_ms": 156147,
+      "name": "Gangster tanzen nicht",
+      "url": "https://open.spotify.com/track/2yMOo8J6FpUZzfuSi0kTSu"
     },
     {
       "added_at": "2024-02-14 00:00:00",
@@ -687,6 +687,22 @@
       "duration_ms": 114937,
       "name": "Boo'd Up",
       "url": "https://open.spotify.com/track/5yNWmUaZWocjYaSsjttrPW"
+    },
+    {
+      "added_at": "2024-02-14 00:00:00",
+      "album": {
+        "name": "Schleudertrauma",
+        "url": "https://open.spotify.com/album/4hLsRhE24dkJOeaBaBe1bO"
+      },
+      "artists": [
+        {
+          "name": "linna",
+          "url": "https://open.spotify.com/artist/4EgjoNttrpi5WU1lIMWs1J"
+        }
+      ],
+      "duration_ms": 161806,
+      "name": "Schleudertrauma",
+      "url": "https://open.spotify.com/track/6dMkJN3pr9OR1HvOosTNNK"
     },
     {
       "added_at": "2024-02-14 00:00:00",
@@ -735,22 +751,6 @@
       "duration_ms": 187478,
       "name": "Something to Rely On",
       "url": "https://open.spotify.com/track/600ShBW2NpyeTmG2WEs7kM"
-    },
-    {
-      "added_at": "2024-02-14 00:00:00",
-      "album": {
-        "name": "AMY WINEHOUZE",
-        "url": "https://open.spotify.com/album/4cDjx3jrT1FVnnZdilXq9n"
-      },
-      "artists": [
-        {
-          "name": "LIZ",
-          "url": "https://open.spotify.com/artist/793QToVJnVh8Op8YSqJsSm"
-        }
-      ],
-      "duration_ms": 156147,
-      "name": "Gangster tanzen nicht",
-      "url": "https://open.spotify.com/track/2yMOo8J6FpUZzfuSi0kTSu"
     },
     {
       "added_at": "2024-02-14 00:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "You are sipping on your coffee in a caf\u00e9 in Paris while a Jazz band plays somewhere in the background. ",
-  "num_followers": 384441,
+  "num_followers": 384728,
   "original_name": "French Jazz Caf\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMWZmYzYzMzA2NTgyN2MzYTgyZTE5MDU4N2U2NTYwYTI5NjZkNGJi",
+  "snapshot_id": "MCxjZWMzYWYwYTU4Y2E4M2ZlYTFlMzQwMDVkYjg5YWEzYzk0NzRlNTg4",
   "tracks": [
     {
       "added_at": "2024-02-20 14:06:46",
@@ -727,26 +727,18 @@
     {
       "added_at": "2024-02-20 14:06:46",
       "album": {
-        "name": "Song, Song, Song",
-        "url": "https://open.spotify.com/album/0CNPTCumkfO3xJYWUD7ocd"
+        "name": "J'ai Deux Amours",
+        "url": "https://open.spotify.com/album/7JQL8HvC9UkGhzA96uDO4A"
       },
       "artists": [
         {
-          "name": "Baptiste Trotignon",
-          "url": "https://open.spotify.com/artist/13hKwJWXAVm2hYLiJbM69R"
-        },
-        {
-          "name": "Melody Gardot",
-          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
-        },
-        {
-          "name": "Miossec",
-          "url": "https://open.spotify.com/artist/0wf6vuNqTvdRGrmpsPu2kW"
+          "name": "Jos\u00e9phine Baker",
+          "url": "https://open.spotify.com/artist/2RXsHRCnva6BsZ12SSAzcz"
         }
       ],
-      "duration_ms": 261093,
-      "name": "Mon fant\u00f4me",
-      "url": "https://open.spotify.com/track/5Kffc1Z3lWKCKARrEUlzRW"
+      "duration_ms": 201013,
+      "name": "De Temps en Temps",
+      "url": "https://open.spotify.com/track/76jd74pjVZT9MlEozWQM5u"
     },
     {
       "added_at": "2024-02-20 14:06:46",
@@ -767,18 +759,26 @@
     {
       "added_at": "2024-02-20 14:06:46",
       "album": {
-        "name": "J'ai Deux Amours",
-        "url": "https://open.spotify.com/album/7JQL8HvC9UkGhzA96uDO4A"
+        "name": "Song, Song, Song",
+        "url": "https://open.spotify.com/album/0CNPTCumkfO3xJYWUD7ocd"
       },
       "artists": [
         {
-          "name": "Jos\u00e9phine Baker",
-          "url": "https://open.spotify.com/artist/2RXsHRCnva6BsZ12SSAzcz"
+          "name": "Baptiste Trotignon",
+          "url": "https://open.spotify.com/artist/13hKwJWXAVm2hYLiJbM69R"
+        },
+        {
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+        },
+        {
+          "name": "Miossec",
+          "url": "https://open.spotify.com/artist/0wf6vuNqTvdRGrmpsPu2kW"
         }
       ],
-      "duration_ms": 201013,
-      "name": "De Temps en Temps",
-      "url": "https://open.spotify.com/track/76jd74pjVZT9MlEozWQM5u"
+      "duration_ms": 261093,
+      "name": "Mon fant\u00f4me",
+      "url": "https://open.spotify.com/track/5Kffc1Z3lWKCKARrEUlzRW"
     },
     {
       "added_at": "2024-02-20 14:06:46",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-02-20 14:06:46",
       "album": {
-        "name": "Paris - I Love You",
-        "url": "https://open.spotify.com/album/6X29j29MSmUWNFv3D4zKUN"
-      },
-      "artists": [
-        {
-          "name": "Nathalie Et Guillaume",
-          "url": "https://open.spotify.com/artist/2sP7NffeSH1e8N5J3N9f6i"
-        }
-      ],
-      "duration_ms": 165466,
-      "name": "Un Homme Et Une Femme",
-      "url": "https://open.spotify.com/track/1pZcUuU8LiSkWy5JB9HESO"
-    },
-    {
-      "added_at": "2024-02-20 14:06:46",
-      "album": {
         "name": "Soir\u00e9e",
         "url": "https://open.spotify.com/album/4lddlOYftwWpttdq2MRpVy"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 189026,
       "name": "Vous Qui Passez Sans Me Voir",
       "url": "https://open.spotify.com/track/4GMWA6sqYzdDCma6oCBI1D"
+    },
+    {
+      "added_at": "2024-02-20 14:06:46",
+      "album": {
+        "name": "Paris - I Love You",
+        "url": "https://open.spotify.com/album/6X29j29MSmUWNFv3D4zKUN"
+      },
+      "artists": [
+        {
+          "name": "Nathalie Et Guillaume",
+          "url": "https://open.spotify.com/artist/2sP7NffeSH1e8N5J3N9f6i"
+        }
+      ],
+      "duration_ms": 165466,
+      "name": "Un Homme Et Une Femme",
+      "url": "https://open.spotify.com/track/1pZcUuU8LiSkWy5JB9HESO"
     },
     {
       "added_at": "2024-02-20 14:06:46",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-02-20 14:06:46",
       "album": {
-        "name": "Chansons sans \u00e9poques: 1964 - 1968 (Remasteris\u00e9 en 2017)",
-        "url": "https://open.spotify.com/album/0lFb6bBBCGagIFrblxhjE3"
-      },
-      "artists": [
-        {
-          "name": "Charles Trenet",
-          "url": "https://open.spotify.com/artist/4a16JEaHldo5vZuRojtGTZ"
-        }
-      ],
-      "duration_ms": 193586,
-      "name": "Si tu vas \u00e0 Paris - Remasteris\u00e9 en 2017",
-      "url": "https://open.spotify.com/track/0WYNxfmeHtYss2iUaiEDCJ"
-    },
-    {
-      "added_at": "2024-02-20 14:06:46",
-      "album": {
         "name": "Fourteen",
         "url": "https://open.spotify.com/album/62VsGN7VqFAOxSkFyy6v8X"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 197480,
       "name": "Plus je t'embrasse",
       "url": "https://open.spotify.com/track/1GWoi9bX3xFSrbZutph4En"
+    },
+    {
+      "added_at": "2024-02-20 14:06:46",
+      "album": {
+        "name": "Chansons sans \u00e9poques: 1964 - 1968 (Remasteris\u00e9 en 2017)",
+        "url": "https://open.spotify.com/album/0lFb6bBBCGagIFrblxhjE3"
+      },
+      "artists": [
+        {
+          "name": "Charles Trenet",
+          "url": "https://open.spotify.com/artist/4a16JEaHldo5vZuRojtGTZ"
+        }
+      ],
+      "duration_ms": 193586,
+      "name": "Si tu vas \u00e0 Paris - Remasteris\u00e9 en 2017",
+      "url": "https://open.spotify.com/track/0WYNxfmeHtYss2iUaiEDCJ"
     },
     {
       "added_at": "2024-02-20 14:06:46",

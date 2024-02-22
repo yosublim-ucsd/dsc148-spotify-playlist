@@ -1,12 +1,12 @@
 {
   "description": "Rewind and unwind with sirens of the seventies and eighties.",
-  "num_followers": 876153,
+  "num_followers": 876242,
   "original_name": "70s & 80s Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYTM0ZjhkZDk5YTNiZTI1NDdkNTI3ZGYxZDJiMTk2MDk3OTdhZWJi",
+  "snapshot_id": "MCw0YmE0ZGZjMDc0MjRiOTNjNDA5NDg4MmZmZWEwYjkxMTkzNjk4MzU3",
   "tracks": [
     {
       "added_at": "2023-01-03 15:50:01",
@@ -323,22 +323,6 @@
     {
       "added_at": "2023-01-03 15:50:01",
       "album": {
-        "name": "Bridge Over Troubled Water",
-        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 174826,
-      "name": "Cecilia",
-      "url": "https://open.spotify.com/track/6QhXQOpyYvbpdbyjgAqKdY"
-    },
-    {
-      "added_at": "2023-01-03 15:50:01",
-      "album": {
         "name": "Uprising",
         "url": "https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 233560,
       "name": "Redemption Song",
       "url": "https://open.spotify.com/track/26PwuMotZqcczKLHi4Htz3"
+    },
+    {
+      "added_at": "2023-01-03 15:50:01",
+      "album": {
+        "name": "Bridge Over Troubled Water",
+        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 174826,
+      "name": "Cecilia",
+      "url": "https://open.spotify.com/track/6QhXQOpyYvbpdbyjgAqKdY"
     },
     {
       "added_at": "2023-01-03 15:50:01",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-01-03 15:50:01",
       "album": {
-        "name": "Pearl (Legacy Edition)",
-        "url": "https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 271333,
-      "name": "Me and Bobby McGee",
-      "url": "https://open.spotify.com/track/1IqFh00G2kvvMm8pRMpehA"
-    },
-    {
-      "added_at": "2023-01-03 15:50:01",
-      "album": {
         "name": "You Don't Mess Around With Jim",
         "url": "https://open.spotify.com/album/0dZaHQ0OJlIyVrEuvnXmS9"
       },
@@ -467,18 +451,18 @@
     {
       "added_at": "2023-01-03 15:50:01",
       "album": {
-        "name": "I Can Stand A Little Rain",
-        "url": "https://open.spotify.com/album/3pZNBYMFG6OSNuajvsdN4Q"
+        "name": "Pearl (Legacy Edition)",
+        "url": "https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf"
       },
       "artists": [
         {
-          "name": "Joe Cocker",
-          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
         }
       ],
-      "duration_ms": 159640,
-      "name": "You Are So Beautiful",
-      "url": "https://open.spotify.com/track/1gJOqXpRjz9GeEEwQpcujK"
+      "duration_ms": 271333,
+      "name": "Me and Bobby McGee",
+      "url": "https://open.spotify.com/track/1IqFh00G2kvvMm8pRMpehA"
     },
     {
       "added_at": "2023-01-03 15:50:01",
@@ -495,6 +479,22 @@
       "duration_ms": 124000,
       "name": "Pink Moon",
       "url": "https://open.spotify.com/track/4KROoGIaPaR1pBHPnR3bwC"
+    },
+    {
+      "added_at": "2023-01-03 15:50:01",
+      "album": {
+        "name": "I Can Stand A Little Rain",
+        "url": "https://open.spotify.com/album/3pZNBYMFG6OSNuajvsdN4Q"
+      },
+      "artists": [
+        {
+          "name": "Joe Cocker",
+          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
+        }
+      ],
+      "duration_ms": 159640,
+      "name": "You Are So Beautiful",
+      "url": "https://open.spotify.com/track/1gJOqXpRjz9GeEEwQpcujK"
     },
     {
       "added_at": "2023-01-03 15:50:01",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-01-03 15:50:01",
       "album": {
-        "name": "Simple Dreams",
-        "url": "https://open.spotify.com/album/15lJi5fAnWPltCKBTUbTry"
-      },
-      "artists": [
-        {
-          "name": "Linda Ronstadt",
-          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
-        }
-      ],
-      "duration_ms": 239399,
-      "name": "Blue Bayou",
-      "url": "https://open.spotify.com/track/3zxklD2EGecZre9MjEEvIU"
-    },
-    {
-      "added_at": "2023-01-03 15:50:01",
-      "album": {
         "name": "McCartney (Archive Collection)",
         "url": "https://open.spotify.com/album/2lOll0xAGw8FPjwmwopAKT"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 229826,
       "name": "Maybe I\u2019m Amazed - 2011 Remaster",
       "url": "https://open.spotify.com/track/1Qa0Y05al633fG8f9Peytc"
+    },
+    {
+      "added_at": "2023-01-03 15:50:01",
+      "album": {
+        "name": "Simple Dreams",
+        "url": "https://open.spotify.com/album/15lJi5fAnWPltCKBTUbTry"
+      },
+      "artists": [
+        {
+          "name": "Linda Ronstadt",
+          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
+        }
+      ],
+      "duration_ms": 239399,
+      "name": "Blue Bayou",
+      "url": "https://open.spotify.com/track/3zxklD2EGecZre9MjEEvIU"
     },
     {
       "added_at": "2023-01-03 15:50:01",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-01-03 15:50:01",
       "album": {
-        "name": "Solitude Standing",
-        "url": "https://open.spotify.com/album/5w4IN5bPXAQD5iAVPNqvMg"
-      },
-      "artists": [
-        {
-          "name": "Suzanne Vega",
-          "url": "https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw"
-        }
-      ],
-      "duration_ms": 129106,
-      "name": "Tom's Diner",
-      "url": "https://open.spotify.com/track/6OKUhXuJMvoVPde9fMJJzy"
-    },
-    {
-      "added_at": "2023-01-03 15:50:01",
-      "album": {
         "name": "The Kick Inside (2018 Remaster)",
         "url": "https://open.spotify.com/album/0ld04FI3tfuxefSbNwCJSc"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 268933,
       "name": "Wuthering Heights - 2018 Remaster",
       "url": "https://open.spotify.com/track/4Q3vc39QZjLpGG7cS33kiC"
+    },
+    {
+      "added_at": "2023-01-03 15:50:01",
+      "album": {
+        "name": "Solitude Standing",
+        "url": "https://open.spotify.com/album/5w4IN5bPXAQD5iAVPNqvMg"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Vega",
+          "url": "https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw"
+        }
+      ],
+      "duration_ms": 129106,
+      "name": "Tom's Diner",
+      "url": "https://open.spotify.com/track/6OKUhXuJMvoVPde9fMJJzy"
     },
     {
       "added_at": "2023-01-03 15:50:01",

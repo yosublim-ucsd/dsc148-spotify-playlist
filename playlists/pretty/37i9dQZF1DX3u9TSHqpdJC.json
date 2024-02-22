@@ -1,13 +1,61 @@
 {
-  "description": "The best new pop music by independent artists and labels. Cover: Carver Jones. Artwork by Paola Saliby",
-  "num_followers": 205704,
+  "description": "The best new pop music by independent artists and labels. Cover: Gabi Sklar. Artwork by Paola Saliby",
+  "num_followers": 205858,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzUyNGM4ZDU0Nzk3ZDkyYWVlM2Y4OGVjODg3YTZjNWNlNjQ0MGUz",
+  "snapshot_id": "MCwxNjJiOWFhMDAwOGI3ZTQwNjk2ZTI0ZDliMmIyYjk2N2VkMTFiNjU0",
   "tracks": [
+    {
+      "added_at": "2024-02-21 05:00:00",
+      "album": {
+        "name": "Youniverse",
+        "url": "https://open.spotify.com/album/0S5HUfsYHiWndYT4uGY4pz"
+      },
+      "artists": [
+        {
+          "name": "Gabi Sklar",
+          "url": "https://open.spotify.com/artist/72K82D7yyKc8TZ45IZvPrj"
+        }
+      ],
+      "duration_ms": 160500,
+      "name": "Youniverse",
+      "url": "https://open.spotify.com/track/7leBNpRPcy10AxJCG8UesN"
+    },
+    {
+      "added_at": "2024-02-21 05:00:00",
+      "album": {
+        "name": "White Lies",
+        "url": "https://open.spotify.com/album/2E1WfryrNzCwCgn9QOXeZA"
+      },
+      "artists": [
+        {
+          "name": "Flo Gallop",
+          "url": "https://open.spotify.com/artist/3hpT13ziNDOLWo3HzuS2IN"
+        }
+      ],
+      "duration_ms": 136918,
+      "name": "White Lies",
+      "url": "https://open.spotify.com/track/6pQLLR4LMT3vszYOeukEQY"
+    },
+    {
+      "added_at": "2024-02-21 05:00:00",
+      "album": {
+        "name": "Nature Song",
+        "url": "https://open.spotify.com/album/2EiH4Rpf1OIxnvbZXOjkHe"
+      },
+      "artists": [
+        {
+          "name": "TogetherEffect",
+          "url": "https://open.spotify.com/artist/43O9PYwjSqOaAgz8BQxswm"
+        }
+      ],
+      "duration_ms": 186254,
+      "name": "Nature Song",
+      "url": "https://open.spotify.com/track/05VJciw9yX9yDVTyBEWWqv"
+    },
     {
       "added_at": "2024-02-14 05:05:28",
       "album": {
@@ -27,6 +75,266 @@
       "duration_ms": 237391,
       "name": "Middle Name (with Mckenna Grace)",
       "url": "https://open.spotify.com/track/2DVEot2Ll81iBFwoPxiL1j"
+    },
+    {
+      "added_at": "2024-02-21 05:00:00",
+      "album": {
+        "name": "It's Giving...",
+        "url": "https://open.spotify.com/album/3wsRwVsFWBq7cpPcSQPa60"
+      },
+      "artists": [
+        {
+          "name": "ili",
+          "url": "https://open.spotify.com/artist/4Yn7SW1ERvmPwQHPMiv8t4"
+        }
+      ],
+      "duration_ms": 189199,
+      "name": "It's Giving...",
+      "url": "https://open.spotify.com/track/14sy9bz023LO93gUiyf5Mz"
+    },
+    {
+      "added_at": "2024-02-21 05:00:00",
+      "album": {
+        "name": "Hot Mess",
+        "url": "https://open.spotify.com/album/3F5Y3MJeZyHUEORFQHpB9q"
+      },
+      "artists": [
+        {
+          "name": "Anacy",
+          "url": "https://open.spotify.com/artist/2oXqSYj1115os7ZUoEAEd0"
+        }
+      ],
+      "duration_ms": 211283,
+      "name": "Hot Mess",
+      "url": "https://open.spotify.com/track/5tewOYXM6gHZ1Lux0JkIjm"
+    },
+    {
+      "added_at": "2024-02-21 05:00:00",
+      "album": {
+        "name": "Willow Knox",
+        "url": "https://open.spotify.com/album/2wfWspz78YuTNKBZcsmqpL"
+      },
+      "artists": [
+        {
+          "name": "Willow Knox",
+          "url": "https://open.spotify.com/artist/2NOyeZEU5Kx1lB9xEOOftB"
+        }
+      ],
+      "duration_ms": 219370,
+      "name": "Illuminate",
+      "url": "https://open.spotify.com/track/2aN738vVrFyKjwy8ypg1US"
+    },
+    {
+      "added_at": "2024-02-21 05:00:00",
+      "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/0ZD1iNiEoNbj0Yw63TvGrq"
+      },
+      "artists": [
+        {
+          "name": "TATYANA",
+          "url": "https://open.spotify.com/artist/40SwTLJmxQgWXTFi4YUKyP"
+        },
+        {
+          "name": "Dave Okumu",
+          "url": "https://open.spotify.com/artist/3a34v9rZzoFZ7K19NszX9F"
+        }
+      ],
+      "duration_ms": 243762,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/10okvnC1neFd2vqHvbPS6R"
+    },
+    {
+      "added_at": "2024-02-14 05:05:28",
+      "album": {
+        "name": "Everything's Not Fine",
+        "url": "https://open.spotify.com/album/5tCSaDGt7dqIMBTuWCCx5P"
+      },
+      "artists": [
+        {
+          "name": "PHIA",
+          "url": "https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or"
+        }
+      ],
+      "duration_ms": 179313,
+      "name": "Everything's Not Fine",
+      "url": "https://open.spotify.com/track/6fvFzv3h94tKr9SWhR6SSh"
+    },
+    {
+      "added_at": "2024-02-21 05:00:00",
+      "album": {
+        "name": "Hostile",
+        "url": "https://open.spotify.com/album/5Say74X6vOcKRdnKB6hVY2"
+      },
+      "artists": [
+        {
+          "name": "Maya Kuriel",
+          "url": "https://open.spotify.com/artist/0QdMbXjSLBS2LfjQ3lvJvP"
+        }
+      ],
+      "duration_ms": 153110,
+      "name": "Hostile",
+      "url": "https://open.spotify.com/track/0GeIW97TvjqE2TA4P6a7gB"
+    },
+    {
+      "added_at": "2024-02-21 05:00:00",
+      "album": {
+        "name": "middle child",
+        "url": "https://open.spotify.com/album/4dvmArexmtj9ZkeswotNk5"
+      },
+      "artists": [
+        {
+          "name": "Madeleine Mayi",
+          "url": "https://open.spotify.com/artist/2SYmvaU9yUWwbsMdrsd4LX"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "middle child",
+      "url": "https://open.spotify.com/track/6gGxkaI0FRgEAxjOPEd9ow"
+    },
+    {
+      "added_at": "2024-02-21 05:00:00",
+      "album": {
+        "name": "Rough Patch",
+        "url": "https://open.spotify.com/album/4FaFDRGq7xviGcqAC48XBZ"
+      },
+      "artists": [
+        {
+          "name": "EVALINA",
+          "url": "https://open.spotify.com/artist/2EOdORJgTiT4w2eLQk1IWE"
+        }
+      ],
+      "duration_ms": 179482,
+      "name": "Rough Patch",
+      "url": "https://open.spotify.com/track/0TNDy8OHQZkiZn9W5EObNr"
+    },
+    {
+      "added_at": "2024-01-31 05:00:00",
+      "album": {
+        "name": "If I Can't Have Love (God Then Please Just Give Me Money)",
+        "url": "https://open.spotify.com/album/0CuQfxslUlVjEPzqmBGAoS"
+      },
+      "artists": [
+        {
+          "name": "Bambina",
+          "url": "https://open.spotify.com/artist/7dKQ4jc9y35k3P5dKWsLL1"
+        }
+      ],
+      "duration_ms": 210051,
+      "name": "If I Can't Have Love (God Then Please Just Give Me Money)",
+      "url": "https://open.spotify.com/track/0ewuee005YK77HvpRBcfcZ"
+    },
+    {
+      "added_at": "2024-02-21 05:00:00",
+      "album": {
+        "name": "clocks",
+        "url": "https://open.spotify.com/album/2uUEmLQbqZMtgTdN6AkQ60"
+      },
+      "artists": [
+        {
+          "name": "Alayna Grace",
+          "url": "https://open.spotify.com/artist/3Y6fsLnLUTNGc2BpscCdL1"
+        }
+      ],
+      "duration_ms": 190500,
+      "name": "clocks",
+      "url": "https://open.spotify.com/track/4QpM0qoxJ9JxpggqXrDjIt"
+    },
+    {
+      "added_at": "2024-02-21 05:00:00",
+      "album": {
+        "name": "Lavender",
+        "url": "https://open.spotify.com/album/45ZJzB6Cxl4liNOyfcejQ5"
+      },
+      "artists": [
+        {
+          "name": "HYRA",
+          "url": "https://open.spotify.com/artist/2FuelQeDO3E7kIrTfkySKS"
+        }
+      ],
+      "duration_ms": 183230,
+      "name": "Lavender",
+      "url": "https://open.spotify.com/track/3Sa7PJ7ohCAEnAzLccmmfj"
+    },
+    {
+      "added_at": "2024-02-21 05:00:00",
+      "album": {
+        "name": "Last Impression",
+        "url": "https://open.spotify.com/album/4g8K0OE7R8aTWhoItCw61v"
+      },
+      "artists": [
+        {
+          "name": "Eiza Murphy",
+          "url": "https://open.spotify.com/artist/0A7bgQaXKKxFsvurGyFMn9"
+        }
+      ],
+      "duration_ms": 124000,
+      "name": "Last Impression",
+      "url": "https://open.spotify.com/track/2Csuu6a5cp3UBjS3JD6WQR"
+    },
+    {
+      "added_at": "2024-02-21 05:00:00",
+      "album": {
+        "name": "Glad You Hate Me",
+        "url": "https://open.spotify.com/album/7ikfCplRVnTcrbYvZlLiAd"
+      },
+      "artists": [
+        {
+          "name": "Casey Conroy",
+          "url": "https://open.spotify.com/artist/7elB9Pjvsisg4hKILUjaUr"
+        }
+      ],
+      "duration_ms": 167760,
+      "name": "Glad You Hate Me",
+      "url": "https://open.spotify.com/track/4ddCcM5A7G0p8dxs7mWo0k"
+    },
+    {
+      "added_at": "2024-02-21 05:00:00",
+      "album": {
+        "name": "Face Card",
+        "url": "https://open.spotify.com/album/2DDzCw6ZK7qos7nueMfrJE"
+      },
+      "artists": [
+        {
+          "name": "Emerson Azarian",
+          "url": "https://open.spotify.com/artist/1jyynbj6tIl5gwyqIjAp1j"
+        }
+      ],
+      "duration_ms": 167767,
+      "name": "Face Card",
+      "url": "https://open.spotify.com/track/61GVPKAnqFecUWee4ulZuS"
+    },
+    {
+      "added_at": "2024-02-21 05:00:00",
+      "album": {
+        "name": "A Cool Car And A Good Smile",
+        "url": "https://open.spotify.com/album/1oi244o3aL9rZoXi06mNDr"
+      },
+      "artists": [
+        {
+          "name": "Aurora D'Amico",
+          "url": "https://open.spotify.com/artist/0RK60fxGsIiPdTJiToyEFA"
+        }
+      ],
+      "duration_ms": 195914,
+      "name": "A Cool Car And A Good Smile",
+      "url": "https://open.spotify.com/track/1kbwRwjFRyAHfrHV82hCDF"
+    },
+    {
+      "added_at": "2024-02-21 05:00:00",
+      "album": {
+        "name": "Opera",
+        "url": "https://open.spotify.com/album/4gcOmkhkrG8Ewtq1H0Ss1c"
+      },
+      "artists": [
+        {
+          "name": "Valencia Grace",
+          "url": "https://open.spotify.com/artist/5cb5ljWIIrvUxokdf2vl6A"
+        }
+      ],
+      "duration_ms": 173893,
+      "name": "Opera",
+      "url": "https://open.spotify.com/track/25qioGPeNaC1X9FiVPIoJ0"
     },
     {
       "added_at": "2024-02-14 05:05:28",
@@ -59,22 +367,6 @@
       "duration_ms": 146906,
       "name": "Call Me Stupid",
       "url": "https://open.spotify.com/track/4fXHEdEmxMsCP4tB3LvZpi"
-    },
-    {
-      "added_at": "2024-02-14 05:05:28",
-      "album": {
-        "name": "Everything's Not Fine",
-        "url": "https://open.spotify.com/album/5tCSaDGt7dqIMBTuWCCx5P"
-      },
-      "artists": [
-        {
-          "name": "PHIA",
-          "url": "https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or"
-        }
-      ],
-      "duration_ms": 179313,
-      "name": "Everything's Not Fine",
-      "url": "https://open.spotify.com/track/6fvFzv3h94tKr9SWhR6SSh"
     },
     {
       "added_at": "2024-02-14 05:05:28",
@@ -309,22 +601,6 @@
       "url": "https://open.spotify.com/track/1vvRNNSTZ9XuTBFqHY0eDu"
     },
     {
-      "added_at": "2024-01-31 05:00:00",
-      "album": {
-        "name": "If I Can't Have Love (God Then Please Just Give Me Money)",
-        "url": "https://open.spotify.com/album/0CuQfxslUlVjEPzqmBGAoS"
-      },
-      "artists": [
-        {
-          "name": "Bambina",
-          "url": "https://open.spotify.com/artist/7dKQ4jc9y35k3P5dKWsLL1"
-        }
-      ],
-      "duration_ms": 210051,
-      "name": "If I Can't Have Love (God Then Please Just Give Me Money)",
-      "url": "https://open.spotify.com/track/0ewuee005YK77HvpRBcfcZ"
-    },
-    {
       "added_at": "2024-02-07 05:00:00",
       "album": {
         "name": "Venom",
@@ -467,22 +743,6 @@
       "duration_ms": 161188,
       "name": "Mine",
       "url": "https://open.spotify.com/track/1K4W4T2b5mTzvmrVzVa7yH"
-    },
-    {
-      "added_at": "2024-01-31 05:00:00",
-      "album": {
-        "name": "If It's Alright",
-        "url": "https://open.spotify.com/album/46jsJCD0dUeYhgHNUKrjJv"
-      },
-      "artists": [
-        {
-          "name": "Emerson Azarian",
-          "url": "https://open.spotify.com/artist/1jyynbj6tIl5gwyqIjAp1j"
-        }
-      ],
-      "duration_ms": 114561,
-      "name": "If It's Alright",
-      "url": "https://open.spotify.com/track/4Gad4v9Cfv6HtU7xwk6b4F"
     },
     {
       "added_at": "2024-01-24 05:00:00",
@@ -885,22 +1145,6 @@
       "url": "https://open.spotify.com/track/7GXkoQOJkiWngZMxEVb2pN"
     },
     {
-      "added_at": "2024-01-10 05:00:00",
-      "album": {
-        "name": "Down Bad",
-        "url": "https://open.spotify.com/album/32yxU7eHcmvnqiZ8hXPGFS"
-      },
-      "artists": [
-        {
-          "name": "TATYANA",
-          "url": "https://open.spotify.com/artist/40SwTLJmxQgWXTFi4YUKyP"
-        }
-      ],
-      "duration_ms": 178540,
-      "name": "Down Bad",
-      "url": "https://open.spotify.com/track/54Y9wy1xU15thURSq12kHl"
-    },
-    {
       "added_at": "2024-01-17 05:00:00",
       "album": {
         "name": "January",
@@ -1111,22 +1355,6 @@
     {
       "added_at": "2024-01-10 05:00:00",
       "album": {
-        "name": "Lonely Times",
-        "url": "https://open.spotify.com/album/6flM8jP0kU0GPCf8Lt7sDX"
-      },
-      "artists": [
-        {
-          "name": "Gabi Sklar",
-          "url": "https://open.spotify.com/artist/72K82D7yyKc8TZ45IZvPrj"
-        }
-      ],
-      "duration_ms": 162519,
-      "name": "Lonely Times",
-      "url": "https://open.spotify.com/track/2RS2WXaaZ1CVZE0mLjxoG5"
-    },
-    {
-      "added_at": "2024-01-10 05:00:00",
-      "album": {
         "name": "Egocentric",
         "url": "https://open.spotify.com/album/6yZQzb3Rr7QnZdXeNK96xK"
       },
@@ -1155,150 +1383,6 @@
       "duration_ms": 168877,
       "name": "pure violence",
       "url": "https://open.spotify.com/track/4onRphOELkvQ04sPaPQ2Ut"
-    },
-    {
-      "added_at": "2024-01-10 05:00:00",
-      "album": {
-        "name": "Porn Star",
-        "url": "https://open.spotify.com/album/50sODBepKvtl2xsK5ni7wU"
-      },
-      "artists": [
-        {
-          "name": "Sydney Ross Mitchell",
-          "url": "https://open.spotify.com/artist/6ehbjKYJwaDdHpiw52vdGr"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "Porn Star",
-      "url": "https://open.spotify.com/track/3gb6mXrHtMgHV6XDgFXb60"
-    },
-    {
-      "added_at": "2024-01-10 05:00:00",
-      "album": {
-        "name": "BIG BABY!",
-        "url": "https://open.spotify.com/album/3rhBz1tMWR1BWtxwpYO6aF"
-      },
-      "artists": [
-        {
-          "name": "Tristan",
-          "url": "https://open.spotify.com/artist/0dxAnY1JAcSuYnBckIDhRv"
-        }
-      ],
-      "duration_ms": 161809,
-      "name": "BIG BABY!",
-      "url": "https://open.spotify.com/track/0uH5zsgP6V5uDYMFGpg8zs"
-    },
-    {
-      "added_at": "2024-01-10 05:00:00",
-      "album": {
-        "name": "Monster",
-        "url": "https://open.spotify.com/album/1fK9xuvTJNbCPyA2HT4bnN"
-      },
-      "artists": [
-        {
-          "name": "Lo Lauren",
-          "url": "https://open.spotify.com/artist/027P708CsXT3Nu0kQ3m3aq"
-        }
-      ],
-      "duration_ms": 162128,
-      "name": "Monster",
-      "url": "https://open.spotify.com/track/267gC1Dt6Yp4qmq8pJS5Qx"
-    },
-    {
-      "added_at": "2024-01-10 05:00:00",
-      "album": {
-        "name": "Mood Ring",
-        "url": "https://open.spotify.com/album/2uqREESdfSVRs5pfz7g2VJ"
-      },
-      "artists": [
-        {
-          "name": "Chase Cimala",
-          "url": "https://open.spotify.com/artist/298FbhhnWXd8PGz3zNlxe8"
-        }
-      ],
-      "duration_ms": 135267,
-      "name": "Mood Ring",
-      "url": "https://open.spotify.com/track/5cdQej7yMAVg8lTZieqweB"
-    },
-    {
-      "added_at": "2024-01-10 05:00:00",
-      "album": {
-        "name": "Twisted",
-        "url": "https://open.spotify.com/album/0csthgfGKnJIar7TlqRGKE"
-      },
-      "artists": [
-        {
-          "name": "Laura Davidson",
-          "url": "https://open.spotify.com/artist/09HoJ8gs0b933TzQs0qvKf"
-        }
-      ],
-      "duration_ms": 141880,
-      "name": "Twisted",
-      "url": "https://open.spotify.com/track/1m1DJcA1MNiadetY9tFZzD"
-    },
-    {
-      "added_at": "2024-01-10 05:00:00",
-      "album": {
-        "name": "Wall St",
-        "url": "https://open.spotify.com/album/603uqjnT4ENmW0sYjs2kne"
-      },
-      "artists": [
-        {
-          "name": "Boys Go To Jupiter",
-          "url": "https://open.spotify.com/artist/74HXuOPXsmbmsjoW69Jwyd"
-        }
-      ],
-      "duration_ms": 233025,
-      "name": "Wall St",
-      "url": "https://open.spotify.com/track/1H39jAnukCwKGyYe1Azy9Y"
-    },
-    {
-      "added_at": "2024-01-10 05:00:00",
-      "album": {
-        "name": "9 to 5",
-        "url": "https://open.spotify.com/album/690EYidpdfZq2hGaEtVlkK"
-      },
-      "artists": [
-        {
-          "name": "S.A.M",
-          "url": "https://open.spotify.com/artist/5SNAAtfydqmF9v11kOSQxb"
-        }
-      ],
-      "duration_ms": 146715,
-      "name": "9 to 5",
-      "url": "https://open.spotify.com/track/64H1lz2hGCAJv4rVNJmDCs"
-    },
-    {
-      "added_at": "2024-01-10 05:00:00",
-      "album": {
-        "name": "CRUSH",
-        "url": "https://open.spotify.com/album/2pl8iPa1JRSEoSgNXKqvxH"
-      },
-      "artists": [
-        {
-          "name": "FOX GUNN",
-          "url": "https://open.spotify.com/artist/4KSfI4UH3ZAxhyUTKRYigx"
-        }
-      ],
-      "duration_ms": 151036,
-      "name": "CRUSH",
-      "url": "https://open.spotify.com/track/5gPKKLIHcsJ4sxzfgiBlGr"
-    },
-    {
-      "added_at": "2024-01-10 05:00:00",
-      "album": {
-        "name": "Different",
-        "url": "https://open.spotify.com/album/7Jm1oRYt9j8kD7tMdDB19a"
-      },
-      "artists": [
-        {
-          "name": "Landan Ash",
-          "url": "https://open.spotify.com/artist/6qhb8OD7uR2pIteZ1FfroC"
-        }
-      ],
-      "duration_ms": 245571,
-      "name": "Different",
-      "url": "https://open.spotify.com/track/1KfXuX55mKi7dJmNhDlaW3"
     }
   ],
   "unique_name": "Fresh Finds Pop",

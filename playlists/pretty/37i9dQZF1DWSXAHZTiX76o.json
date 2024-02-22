@@ -1,12 +1,12 @@
 {
   "description": "Los nuevos cl\u00e1sicos para fiestear \u2728",
-  "num_followers": 343873,
+  "num_followers": 343896,
   "original_name": "Fiesta Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMjFhMGIzMjczMzBiZGE5YjdlOTRlM2M0MmM3ZTczOTM0NzAwMjNm",
+  "snapshot_id": "MCxkM2IzZDRjOTJkYTU5NzgzYTI4Y2YzYWIwOTg1ZDAyNmQwMGMwMDFk",
   "tracks": [
     {
       "added_at": "2023-02-15 17:16:01",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-02-15 17:16:01",
       "album": {
-        "name": "Is This It",
-        "url": "https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "duration_ms": 193373,
-      "name": "Last Nite",
-      "url": "https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv"
-    },
-    {
-      "added_at": "2023-02-15 17:16:01",
-      "album": {
         "name": "Holy Fire",
         "url": "https://open.spotify.com/album/6SBkXTPlJ3oEaFwRm5o2lD"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 238853,
       "name": "My Number",
       "url": "https://open.spotify.com/track/04caEZhAsQKnWqKsMwk9ud"
+    },
+    {
+      "added_at": "2023-02-15 17:16:01",
+      "album": {
+        "name": "Is This It",
+        "url": "https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "duration_ms": 193373,
+      "name": "Last Nite",
+      "url": "https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv"
     },
     {
       "added_at": "2023-02-15 17:16:01",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-02-15 17:16:01",
       "album": {
-        "name": "It's Blitz!",
-        "url": "https://open.spotify.com/album/4dBMwYZJ84lj8HRTdL8Toj"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "Heads Will Roll",
-      "url": "https://open.spotify.com/track/4WiIscpBgQFm5qIyjoH7M4"
-    },
-    {
-      "added_at": "2023-02-15 17:16:01",
-      "album": {
         "name": "Wild World (Complete Edition)",
         "url": "https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 206493,
       "name": "Good Grief",
       "url": "https://open.spotify.com/track/1oxOiOjsi7plNOZEhoPLPj"
+    },
+    {
+      "added_at": "2023-02-15 17:16:01",
+      "album": {
+        "name": "It's Blitz!",
+        "url": "https://open.spotify.com/album/4dBMwYZJ84lj8HRTdL8Toj"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "Heads Will Roll",
+      "url": "https://open.spotify.com/track/4WiIscpBgQFm5qIyjoH7M4"
     },
     {
       "added_at": "2023-02-15 17:16:01",

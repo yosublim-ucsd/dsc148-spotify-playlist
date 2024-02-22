@@ -1,12 +1,12 @@
 {
   "description": "French scene makes some noise!",
-  "num_followers": 35854,
+  "num_followers": 35894,
   "original_name": "French Noise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNWU5MjVkNzA4ODk1MjcxYjJkZDU4ODI5N2IxZTZkMzkxMGEwODc1",
+  "snapshot_id": "MCxlZjk4OWI5N2FhZWRjNGJjODFmZjRjNDg0NzhjNjhhMzMwNWY3M2Iz",
   "tracks": [
     {
       "added_at": "2024-01-19 09:53:33",
@@ -219,22 +219,6 @@
     {
       "added_at": "2024-01-19 09:53:33",
       "album": {
-        "name": "Horns",
-        "url": "https://open.spotify.com/album/62JI5wGV34CnvBhAG2xwxf"
-      },
-      "artists": [
-        {
-          "name": "Lysistrata",
-          "url": "https://open.spotify.com/artist/04bDp8VBNHzbTdujiMUuCb"
-        }
-      ],
-      "duration_ms": 206873,
-      "name": "Horns",
-      "url": "https://open.spotify.com/track/3NAiEdkwZ6tJHteQ1Lbhax"
-    },
-    {
-      "added_at": "2024-01-19 09:53:33",
-      "album": {
         "name": "Meule",
         "url": "https://open.spotify.com/album/1lkZB1dQUOG37b9lNAxvHo"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 198540,
       "name": "Brother",
       "url": "https://open.spotify.com/track/7AorDFAFIecmBhx6ujIhZX"
+    },
+    {
+      "added_at": "2024-01-19 09:53:33",
+      "album": {
+        "name": "Horns",
+        "url": "https://open.spotify.com/album/62JI5wGV34CnvBhAG2xwxf"
+      },
+      "artists": [
+        {
+          "name": "Lysistrata",
+          "url": "https://open.spotify.com/artist/04bDp8VBNHzbTdujiMUuCb"
+        }
+      ],
+      "duration_ms": 206873,
+      "name": "Horns",
+      "url": "https://open.spotify.com/track/3NAiEdkwZ6tJHteQ1Lbhax"
     },
     {
       "added_at": "2024-01-19 09:53:33",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-01-19 09:53:33",
       "album": {
-        "name": "Weathering",
-        "url": "https://open.spotify.com/album/4fRujS6zU3icVHKbTZMbGn"
-      },
-      "artists": [
-        {
-          "name": "Last Train",
-          "url": "https://open.spotify.com/artist/4S47feOS2ATuhc7Ao5ilfG"
-        }
-      ],
-      "duration_ms": 174346,
-      "name": "Dropped By The Doves",
-      "url": "https://open.spotify.com/track/3s8O2RnVyxDmm4zHELriYj"
-    },
-    {
-      "added_at": "2024-01-19 09:53:33",
-      "album": {
         "name": "LOOV",
         "url": "https://open.spotify.com/album/56ycgKlSswpmfEHsAcOjd8"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 165720,
       "name": "Stay Close To Me",
       "url": "https://open.spotify.com/track/58pV7RsaDG3rj2K3US9vJb"
+    },
+    {
+      "added_at": "2024-01-19 09:53:33",
+      "album": {
+        "name": "Weathering",
+        "url": "https://open.spotify.com/album/4fRujS6zU3icVHKbTZMbGn"
+      },
+      "artists": [
+        {
+          "name": "Last Train",
+          "url": "https://open.spotify.com/artist/4S47feOS2ATuhc7Ao5ilfG"
+        }
+      ],
+      "duration_ms": 174346,
+      "name": "Dropped By The Doves",
+      "url": "https://open.spotify.com/track/3s8O2RnVyxDmm4zHELriYj"
     },
     {
       "added_at": "2024-01-19 09:53:33",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-01-19 09:53:33",
       "album": {
-        "name": "Advertisement",
-        "url": "https://open.spotify.com/album/5VNOEsedkdQRCq1HtQuVPa"
-      },
-      "artists": [
-        {
-          "name": "MNNQNS",
-          "url": "https://open.spotify.com/artist/1xv8LIJ3qAL2EioqhUjqtY"
-        }
-      ],
-      "duration_ms": 231076,
-      "name": "If Only They Could",
-      "url": "https://open.spotify.com/track/7kjPwK6v801H3f0L8FckWG"
-    },
-    {
-      "added_at": "2024-01-19 09:53:33",
-      "album": {
         "name": "Bodysick",
         "url": "https://open.spotify.com/album/1Cx9PXN9WJIJEge4JXHknM"
       },
@@ -771,18 +755,18 @@
     {
       "added_at": "2024-01-19 09:53:33",
       "album": {
-        "name": "Ashamed",
-        "url": "https://open.spotify.com/album/2AVURS4qCdrIZkqriAelGo"
+        "name": "Advertisement",
+        "url": "https://open.spotify.com/album/5VNOEsedkdQRCq1HtQuVPa"
       },
       "artists": [
         {
-          "name": "Mad Foxes",
-          "url": "https://open.spotify.com/artist/0DNV4wMtnm1dZG7VLwdjCC"
+          "name": "MNNQNS",
+          "url": "https://open.spotify.com/artist/1xv8LIJ3qAL2EioqhUjqtY"
         }
       ],
-      "duration_ms": 179000,
-      "name": "Crystal Glass",
-      "url": "https://open.spotify.com/track/6g6kaanB0CkHwZVizWUaGj"
+      "duration_ms": 231076,
+      "name": "If Only They Could",
+      "url": "https://open.spotify.com/track/7kjPwK6v801H3f0L8FckWG"
     },
     {
       "added_at": "2024-01-19 09:53:33",
@@ -815,6 +799,22 @@
       "duration_ms": 229429,
       "name": "Like gods we feast",
       "url": "https://open.spotify.com/track/4JEsjww8YIm3P9nZ1094m8"
+    },
+    {
+      "added_at": "2024-01-19 09:53:33",
+      "album": {
+        "name": "Ashamed",
+        "url": "https://open.spotify.com/album/2AVURS4qCdrIZkqriAelGo"
+      },
+      "artists": [
+        {
+          "name": "Mad Foxes",
+          "url": "https://open.spotify.com/artist/0DNV4wMtnm1dZG7VLwdjCC"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "Crystal Glass",
+      "url": "https://open.spotify.com/track/6g6kaanB0CkHwZVizWUaGj"
     },
     {
       "added_at": "2024-01-19 09:53:33",
@@ -883,6 +883,22 @@
     {
       "added_at": "2024-01-19 09:53:33",
       "album": {
+        "name": "Don't Believe, Watch Out",
+        "url": "https://open.spotify.com/album/1zK3Na9JwlTeuhOyNGIkyV"
+      },
+      "artists": [
+        {
+          "name": "Pencey Sloe",
+          "url": "https://open.spotify.com/artist/6LZ5lMO2burFwjCctFW6tn"
+        }
+      ],
+      "duration_ms": 322119,
+      "name": "Lust of the Dead",
+      "url": "https://open.spotify.com/track/2b1KKMDFJ4dnMyg5G9Zz5Y"
+    },
+    {
+      "added_at": "2024-01-19 09:53:33",
+      "album": {
         "name": "Vacuum Sealed",
         "url": "https://open.spotify.com/album/1h6Mngi160e472DTepN8qD"
       },
@@ -899,18 +915,18 @@
     {
       "added_at": "2024-01-19 09:53:33",
       "album": {
-        "name": "SORORITY / CONTROL",
-        "url": "https://open.spotify.com/album/3SwAxSQK2G4ziJUs8TDWOK"
+        "name": "Nothing Belongs to Anything",
+        "url": "https://open.spotify.com/album/1hCtl92M5FJH8zmgRT1fN3"
       },
       "artists": [
         {
-          "name": "We Hate You Please Die",
-          "url": "https://open.spotify.com/artist/6Ts5nm6bMuPIqKy1fZRE8l"
+          "name": "Cosse",
+          "url": "https://open.spotify.com/artist/2sGoKWmM956fjU3X8N5VxH"
         }
       ],
-      "duration_ms": 163732,
-      "name": "Sorority",
-      "url": "https://open.spotify.com/track/3WBCcdmfS1EmlkHkvZU2o7"
+      "duration_ms": 308125,
+      "name": "Welcome Newcomers",
+      "url": "https://open.spotify.com/track/0yPdYvRz6qTo0oI6CFJwDj"
     },
     {
       "added_at": "2024-01-19 09:53:33",
@@ -931,6 +947,22 @@
     {
       "added_at": "2024-01-19 09:53:33",
       "album": {
+        "name": "SORORITY / CONTROL",
+        "url": "https://open.spotify.com/album/3SwAxSQK2G4ziJUs8TDWOK"
+      },
+      "artists": [
+        {
+          "name": "We Hate You Please Die",
+          "url": "https://open.spotify.com/artist/6Ts5nm6bMuPIqKy1fZRE8l"
+        }
+      ],
+      "duration_ms": 163732,
+      "name": "Sorority",
+      "url": "https://open.spotify.com/track/3WBCcdmfS1EmlkHkvZU2o7"
+    },
+    {
+      "added_at": "2024-01-19 09:53:33",
+      "album": {
         "name": "Guilty Species",
         "url": "https://open.spotify.com/album/3Dm0UMOKdtBKymE62q1Iau"
       },
@@ -947,18 +979,22 @@
     {
       "added_at": "2024-01-19 09:53:33",
       "album": {
-        "name": "Nothing Belongs to Anything",
-        "url": "https://open.spotify.com/album/1hCtl92M5FJH8zmgRT1fN3"
+        "name": "Afterparty - All We Have Is Now",
+        "url": "https://open.spotify.com/album/0ldHemZlZBRsIDJ1p6F6LU"
       },
       "artists": [
         {
-          "name": "Cosse",
-          "url": "https://open.spotify.com/artist/2sGoKWmM956fjU3X8N5VxH"
+          "name": "Caesaria",
+          "url": "https://open.spotify.com/artist/3GWHmhaBl7Lx4hygni7di3"
+        },
+        {
+          "name": "Storm Orchestra",
+          "url": "https://open.spotify.com/artist/5Zl04O5XJOu7kGrAosCPfR"
         }
       ],
-      "duration_ms": 308125,
-      "name": "Welcome Newcomers",
-      "url": "https://open.spotify.com/track/0yPdYvRz6qTo0oI6CFJwDj"
+      "duration_ms": 181600,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/6GpL98Krq2to6uvzaUGmy1"
     },
     {
       "added_at": "2024-01-19 09:53:33",
@@ -1027,22 +1063,18 @@
     {
       "added_at": "2024-01-19 09:53:33",
       "album": {
-        "name": "Afterparty - All We Have Is Now",
-        "url": "https://open.spotify.com/album/0ldHemZlZBRsIDJ1p6F6LU"
+        "name": "Songs/Revolving",
+        "url": "https://open.spotify.com/album/6krcKaWpYXqjZSt1Uk430O"
       },
       "artists": [
         {
-          "name": "Caesaria",
-          "url": "https://open.spotify.com/artist/3GWHmhaBl7Lx4hygni7di3"
-        },
-        {
-          "name": "Storm Orchestra",
-          "url": "https://open.spotify.com/artist/5Zl04O5XJOu7kGrAosCPfR"
+          "name": "Stuffed Foxes",
+          "url": "https://open.spotify.com/artist/61NXk42F56GdSy01BwNB06"
         }
       ],
-      "duration_ms": 181600,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/6GpL98Krq2to6uvzaUGmy1"
+      "duration_ms": 340004,
+      "name": "Sabotage",
+      "url": "https://open.spotify.com/track/2J9DxWY728bKvd0Q95XWJk"
     },
     {
       "added_at": "2024-01-19 09:53:33",
@@ -1063,34 +1095,18 @@
     {
       "added_at": "2024-01-19 09:53:33",
       "album": {
-        "name": "Don't Believe, Watch Out",
-        "url": "https://open.spotify.com/album/1zK3Na9JwlTeuhOyNGIkyV"
+        "name": "Chantal",
+        "url": "https://open.spotify.com/album/3U3htuQSFAzCQZgQy42D7W"
       },
       "artists": [
         {
-          "name": "Pencey Sloe",
-          "url": "https://open.spotify.com/artist/6LZ5lMO2burFwjCctFW6tn"
+          "name": "Equipe de Foot",
+          "url": "https://open.spotify.com/artist/3sf80v7vKTD23bvp5Xl836"
         }
       ],
-      "duration_ms": 322119,
-      "name": "Lust of the Dead",
-      "url": "https://open.spotify.com/track/2b1KKMDFJ4dnMyg5G9Zz5Y"
-    },
-    {
-      "added_at": "2024-01-19 09:53:33",
-      "album": {
-        "name": "Songs/Revolving",
-        "url": "https://open.spotify.com/album/6krcKaWpYXqjZSt1Uk430O"
-      },
-      "artists": [
-        {
-          "name": "Stuffed Foxes",
-          "url": "https://open.spotify.com/artist/61NXk42F56GdSy01BwNB06"
-        }
-      ],
-      "duration_ms": 340004,
-      "name": "Sabotage",
-      "url": "https://open.spotify.com/track/2J9DxWY728bKvd0Q95XWJk"
+      "duration_ms": 253906,
+      "name": "Fireworks",
+      "url": "https://open.spotify.com/track/08JoE08IrBh5FOW91eq7Hu"
     },
     {
       "added_at": "2024-01-19 09:53:33",
@@ -1111,22 +1127,6 @@
     {
       "added_at": "2024-01-19 09:53:33",
       "album": {
-        "name": "Chantal",
-        "url": "https://open.spotify.com/album/3U3htuQSFAzCQZgQy42D7W"
-      },
-      "artists": [
-        {
-          "name": "Equipe de Foot",
-          "url": "https://open.spotify.com/artist/3sf80v7vKTD23bvp5Xl836"
-        }
-      ],
-      "duration_ms": 253906,
-      "name": "Fireworks",
-      "url": "https://open.spotify.com/track/08JoE08IrBh5FOW91eq7Hu"
-    },
-    {
-      "added_at": "2024-01-19 09:53:33",
-      "album": {
         "name": "This Too Shall Pass",
         "url": "https://open.spotify.com/album/2cQYNZcTP8bD02QwiFCS2i"
       },
@@ -1139,22 +1139,6 @@
       "duration_ms": 289219,
       "name": "Aside",
       "url": "https://open.spotify.com/track/0vCypxhwkZTmBr8WIH97ha"
-    },
-    {
-      "added_at": "2024-01-19 09:53:33",
-      "album": {
-        "name": "Centaur Desire",
-        "url": "https://open.spotify.com/album/0Fjb0kM75nMYhktmSTj4np"
-      },
-      "artists": [
-        {
-          "name": "J.C. Sat\u00e0n",
-          "url": "https://open.spotify.com/artist/3YdIpKk40myJ3aC29izFRW"
-        }
-      ],
-      "duration_ms": 209426,
-      "name": "No Brain No Shame",
-      "url": "https://open.spotify.com/track/634Xqm8fG8J1cGymJ51Khy"
     },
     {
       "added_at": "2024-01-19 09:53:33",
@@ -1175,18 +1159,18 @@
     {
       "added_at": "2024-01-19 09:53:33",
       "album": {
-        "name": "SNAKES",
-        "url": "https://open.spotify.com/album/2rJqYCcDxFn1xvHIlfuQAk"
+        "name": "Centaur Desire",
+        "url": "https://open.spotify.com/album/0Fjb0kM75nMYhktmSTj4np"
       },
       "artists": [
         {
-          "name": "YAOUND\u00c9BOXINGCLUB",
-          "url": "https://open.spotify.com/artist/0DhFlKC8BmJcADqBXFEYZP"
+          "name": "J.C. Sat\u00e0n",
+          "url": "https://open.spotify.com/artist/3YdIpKk40myJ3aC29izFRW"
         }
       ],
-      "duration_ms": 191250,
-      "name": "SNAKES",
-      "url": "https://open.spotify.com/track/4oF4avlVY1oxZKp7DFBOCY"
+      "duration_ms": 209426,
+      "name": "No Brain No Shame",
+      "url": "https://open.spotify.com/track/634Xqm8fG8J1cGymJ51Khy"
     },
     {
       "added_at": "2024-01-19 09:53:33",
@@ -1203,6 +1187,22 @@
       "duration_ms": 180960,
       "name": "Heedless",
       "url": "https://open.spotify.com/track/5Gp3ki8Tvqoop5f1AuvsXr"
+    },
+    {
+      "added_at": "2024-01-19 09:53:33",
+      "album": {
+        "name": "SNAKES",
+        "url": "https://open.spotify.com/album/2rJqYCcDxFn1xvHIlfuQAk"
+      },
+      "artists": [
+        {
+          "name": "YAOUND\u00c9BOXINGCLUB",
+          "url": "https://open.spotify.com/artist/0DhFlKC8BmJcADqBXFEYZP"
+        }
+      ],
+      "duration_ms": 191250,
+      "name": "SNAKES",
+      "url": "https://open.spotify.com/track/4oF4avlVY1oxZKp7DFBOCY"
     },
     {
       "added_at": "2024-01-19 09:53:33",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2024-01-19 09:53:33",
       "album": {
+        "name": "Little Armageddon",
+        "url": "https://open.spotify.com/album/4aGp0loKrV89iJdJoksnYN"
+      },
+      "artists": [
+        {
+          "name": "Skip the Use",
+          "url": "https://open.spotify.com/artist/6UWiE4V9p2HK4C74A0CGKB"
+        }
+      ],
+      "duration_ms": 186160,
+      "name": "Second To None",
+      "url": "https://open.spotify.com/track/1MCIbFw68FQAqyaiV246ai"
+    },
+    {
+      "added_at": "2024-01-19 09:53:33",
+      "album": {
         "name": "AqME",
         "url": "https://open.spotify.com/album/2oXGlPpaj8pwFGL2SpnVUF"
       },
@@ -1271,18 +1287,18 @@
     {
       "added_at": "2024-01-19 09:53:33",
       "album": {
-        "name": "Little Armageddon",
-        "url": "https://open.spotify.com/album/4aGp0loKrV89iJdJoksnYN"
+        "name": "FRENCH FRIES",
+        "url": "https://open.spotify.com/album/5eZzXmpnC4ZpJBkBucUfdm"
       },
       "artists": [
         {
-          "name": "Skip the Use",
-          "url": "https://open.spotify.com/artist/6UWiE4V9p2HK4C74A0CGKB"
+          "name": "lya!",
+          "url": "https://open.spotify.com/artist/5DIzsQoiKqAEqckzSIOGDH"
         }
       ],
-      "duration_ms": 186160,
-      "name": "Second To None",
-      "url": "https://open.spotify.com/track/1MCIbFw68FQAqyaiV246ai"
+      "duration_ms": 215636,
+      "name": "SO TIRED",
+      "url": "https://open.spotify.com/track/7CiD9yJIfJshJEFwvgjPEq"
     },
     {
       "added_at": "2024-01-19 09:53:33",
@@ -1303,18 +1319,18 @@
     {
       "added_at": "2024-01-19 09:53:33",
       "album": {
-        "name": "FRENCH FRIES",
-        "url": "https://open.spotify.com/album/5eZzXmpnC4ZpJBkBucUfdm"
+        "name": "Sitcoms for Aliens",
+        "url": "https://open.spotify.com/album/5m60bag09WvO4KA2skUXV6"
       },
       "artists": [
         {
-          "name": "lya!",
-          "url": "https://open.spotify.com/artist/5DIzsQoiKqAEqckzSIOGDH"
+          "name": "Noiseheads",
+          "url": "https://open.spotify.com/artist/596tCSFtWm3PP3YHKtid6Q"
         }
       ],
-      "duration_ms": 215636,
-      "name": "SO TIRED",
-      "url": "https://open.spotify.com/track/7CiD9yJIfJshJEFwvgjPEq"
+      "duration_ms": 185218,
+      "name": "Homecoming",
+      "url": "https://open.spotify.com/track/0EEwKVe65Zg558NmnyMtCu"
     },
     {
       "added_at": "2024-01-19 09:53:33",
@@ -1347,22 +1363,6 @@
       "duration_ms": 314704,
       "name": "Here Comes the Sun",
       "url": "https://open.spotify.com/track/6JJxwlsFONGLquIJYdb2U2"
-    },
-    {
-      "added_at": "2024-01-19 09:53:33",
-      "album": {
-        "name": "Sitcoms for Aliens",
-        "url": "https://open.spotify.com/album/5m60bag09WvO4KA2skUXV6"
-      },
-      "artists": [
-        {
-          "name": "Noiseheads",
-          "url": "https://open.spotify.com/artist/596tCSFtWm3PP3YHKtid6Q"
-        }
-      ],
-      "duration_ms": 185218,
-      "name": "Homecoming",
-      "url": "https://open.spotify.com/track/0EEwKVe65Zg558NmnyMtCu"
     },
     {
       "added_at": "2024-01-19 09:53:33",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2024-01-19 09:53:33",
       "album": {
-        "name": "Ineffable",
-        "url": "https://open.spotify.com/album/5ffY3OhPNukgdhw6n13tXz"
-      },
-      "artists": [
-        {
-          "name": "Merge",
-          "url": "https://open.spotify.com/artist/017WuxWgOk7J8gVQCIaZ9m"
-        }
-      ],
-      "duration_ms": 254687,
-      "name": "The Password",
-      "url": "https://open.spotify.com/track/5lXrakjlZisavgHGQlBEGx"
-    },
-    {
-      "added_at": "2024-01-19 09:53:33",
-      "album": {
         "name": "Songs from the Deepwater",
         "url": "https://open.spotify.com/album/5c1WlgOeb83vuE1cVROyOd"
       },
@@ -1447,50 +1431,34 @@
     {
       "added_at": "2024-01-19 09:53:33",
       "album": {
-        "name": "Hotline",
-        "url": "https://open.spotify.com/album/27eh9C2MMAgFpb6R2iFNOt"
+        "name": "Ineffable",
+        "url": "https://open.spotify.com/album/5ffY3OhPNukgdhw6n13tXz"
       },
       "artists": [
         {
-          "name": "Birdstone",
-          "url": "https://open.spotify.com/artist/10s9vPaMhzDYMqjwmxNr1t"
+          "name": "Merge",
+          "url": "https://open.spotify.com/artist/017WuxWgOk7J8gVQCIaZ9m"
         }
       ],
-      "duration_ms": 251440,
-      "name": "Hotline",
-      "url": "https://open.spotify.com/track/49H7g5Cg0iitRMgcNpGcp1"
+      "duration_ms": 254687,
+      "name": "The Password",
+      "url": "https://open.spotify.com/track/5lXrakjlZisavgHGQlBEGx"
     },
     {
       "added_at": "2024-01-19 09:53:33",
       "album": {
-        "name": "Full Circle Back",
-        "url": "https://open.spotify.com/album/1G4sh6vNpyep8N9Kc8i4Lu"
+        "name": "Slot Logic",
+        "url": "https://open.spotify.com/album/2eiBZAV4PXCHiIgUsS4K8W"
       },
       "artists": [
         {
-          "name": "MNNQNS",
-          "url": "https://open.spotify.com/artist/1xv8LIJ3qAL2EioqhUjqtY"
+          "name": "Dewaere",
+          "url": "https://open.spotify.com/artist/2FIwxqF6IF8jSI3J79miOF"
         }
       ],
-      "duration_ms": 226506,
-      "name": "Full Circle Back",
-      "url": "https://open.spotify.com/track/5kVeebGBrpAum8u2RYt9xh"
-    },
-    {
-      "added_at": "2024-01-19 09:53:33",
-      "album": {
-        "name": "Your Great Deception",
-        "url": "https://open.spotify.com/album/6oQ0AQ3JRMTPbZRwFhXWP3"
-      },
-      "artists": [
-        {
-          "name": "Dirty Black Summer",
-          "url": "https://open.spotify.com/artist/5sJdiL5P0UK2MvpW1uPeuq"
-        }
-      ],
-      "duration_ms": 322013,
-      "name": "Your Great Deception",
-      "url": "https://open.spotify.com/track/6Lw5MyuDZVVE1G2ZbLU7Fm"
+      "duration_ms": 204866,
+      "name": "Get Down",
+      "url": "https://open.spotify.com/track/7EYX172yTq0YMvhAqe0RTP"
     },
     {
       "added_at": "2024-01-19 09:53:33",
@@ -1511,18 +1479,34 @@
     {
       "added_at": "2024-01-19 09:53:33",
       "album": {
-        "name": "Slot Logic",
-        "url": "https://open.spotify.com/album/2eiBZAV4PXCHiIgUsS4K8W"
+        "name": "Your Great Deception",
+        "url": "https://open.spotify.com/album/6oQ0AQ3JRMTPbZRwFhXWP3"
       },
       "artists": [
         {
-          "name": "Dewaere",
-          "url": "https://open.spotify.com/artist/2FIwxqF6IF8jSI3J79miOF"
+          "name": "Dirty Black Summer",
+          "url": "https://open.spotify.com/artist/5sJdiL5P0UK2MvpW1uPeuq"
         }
       ],
-      "duration_ms": 204866,
-      "name": "Get Down",
-      "url": "https://open.spotify.com/track/7EYX172yTq0YMvhAqe0RTP"
+      "duration_ms": 322013,
+      "name": "Your Great Deception",
+      "url": "https://open.spotify.com/track/6Lw5MyuDZVVE1G2ZbLU7Fm"
+    },
+    {
+      "added_at": "2024-01-19 09:53:33",
+      "album": {
+        "name": "Full Circle Back",
+        "url": "https://open.spotify.com/album/1G4sh6vNpyep8N9Kc8i4Lu"
+      },
+      "artists": [
+        {
+          "name": "MNNQNS",
+          "url": "https://open.spotify.com/artist/1xv8LIJ3qAL2EioqhUjqtY"
+        }
+      ],
+      "duration_ms": 226506,
+      "name": "Full Circle Back",
+      "url": "https://open.spotify.com/track/5kVeebGBrpAum8u2RYt9xh"
     },
     {
       "added_at": "2024-01-19 09:53:33",
@@ -1559,6 +1543,22 @@
     {
       "added_at": "2024-01-19 09:53:33",
       "album": {
+        "name": "Hotline",
+        "url": "https://open.spotify.com/album/27eh9C2MMAgFpb6R2iFNOt"
+      },
+      "artists": [
+        {
+          "name": "Birdstone",
+          "url": "https://open.spotify.com/artist/10s9vPaMhzDYMqjwmxNr1t"
+        }
+      ],
+      "duration_ms": 251440,
+      "name": "Hotline",
+      "url": "https://open.spotify.com/track/49H7g5Cg0iitRMgcNpGcp1"
+    },
+    {
+      "added_at": "2024-01-19 09:53:33",
+      "album": {
         "name": "The Lair of Gods",
         "url": "https://open.spotify.com/album/1snWQPp1HIT5ixB77kRcpf"
       },
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2024-01-19 09:53:33",
       "album": {
-        "name": "Hungry for Action",
-        "url": "https://open.spotify.com/album/6joG9m7o9GNL1cePZEn3YC"
-      },
-      "artists": [
-        {
-          "name": "Iron Lizards",
-          "url": "https://open.spotify.com/artist/5M3OioPh7JR2rfVOCFyDRY"
-        }
-      ],
-      "duration_ms": 164068,
-      "name": "It's About Time !",
-      "url": "https://open.spotify.com/track/741CQNrA1mkBvzqPKKbw9F"
-    },
-    {
-      "added_at": "2024-01-19 09:53:33",
-      "album": {
         "name": "Postmodern Blue",
         "url": "https://open.spotify.com/album/4ytKLcwskenzEAA3Ae3Kta"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 170393,
       "name": "Vulgar",
       "url": "https://open.spotify.com/track/7cOZA9hhLkBValr2rhaH61"
+    },
+    {
+      "added_at": "2024-01-19 09:53:33",
+      "album": {
+        "name": "Hungry for Action",
+        "url": "https://open.spotify.com/album/6joG9m7o9GNL1cePZEn3YC"
+      },
+      "artists": [
+        {
+          "name": "Iron Lizards",
+          "url": "https://open.spotify.com/artist/5M3OioPh7JR2rfVOCFyDRY"
+        }
+      ],
+      "duration_ms": 164068,
+      "name": "It's About Time !",
+      "url": "https://open.spotify.com/track/741CQNrA1mkBvzqPKKbw9F"
     },
     {
       "added_at": "2024-01-19 09:53:33",

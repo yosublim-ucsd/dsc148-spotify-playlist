@@ -4,7 +4,7 @@
 
 > كل شي خليجي جديد\. الغلاف:نوال الكويتية
 
-313 songs - 21 hr 29 min
+315 songs - 21 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Kheira](https://open.spotify.com/track/7AbtlIY4FXVDOuDXpivtJS) | [Carmen Soliman](https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt) | [Kheira](https://open.spotify.com/album/5mdW9cFswJ2SPNKI7ER224) | 4:13 | 2022-02-16 | 2022-08-13 |
 | [Kolli We Ehsasi](https://open.spotify.com/track/7sRtD4UFjJWp6XqY6bNbQu) | [Rulan](https://open.spotify.com/artist/2zyMGZUVbCHsh2LnkDF4ex) | [Kolli We Ehsasi](https://open.spotify.com/album/79Xf67nMR0UTUMgrBUT32F) | 6:37 | 2022-02-17 | 2022-08-13 |
 | [La Teharef](https://open.spotify.com/track/5aBHfsSGRuPxPdu3JPEusq) | [Natasha](https://open.spotify.com/artist/7MBJMXAEJuzO754trRIuHu) | [لا تحرف](https://open.spotify.com/album/3GQwWZK3ojppjzPkRGj7x5) | 3:54 | 2022-06-02 | 2023-01-10 |
+| [Laalaha Khierah](https://open.spotify.com/track/6idBQjC1kZMtrvVyWaLsAK) | [Waed](https://open.spotify.com/artist/2lJxCVBy3A4nHP3kh1lkDg) | [Laalaha Khierah](https://open.spotify.com/album/58ZvMH4DjAoNkY3r7vx32g) | 5:05 | 2024-02-21 |  |
 | [Lail EL Mefarag](https://open.spotify.com/track/2jr8YIesCQsPzjLpjwJx20) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Lail EL Mefarag](https://open.spotify.com/album/4lHyB1fOo2GPI34u47qwSD) | 4:34 | 2022-09-30 | 2023-05-03 |
 | [Leeh Ma Teji](https://open.spotify.com/track/10ttTmccx33sAtZDoasxUI) | [Shamma Hamdan](https://open.spotify.com/artist/0HB4KdHq8OA8xyJyxJ5lc2) | [Leeh Ma Teji](https://open.spotify.com/album/1MEG9F8I7J82QjzRxnlRnd) | 5:25 | 2022-05-01 | 2022-12-06 |
 | [Leeh Men Ndarah](https://open.spotify.com/track/0qnufWFALNHUnpcjHKmPrF) | [Mohamed Al Qahtani](https://open.spotify.com/artist/2mJ3asAxEwBkG0pbZJERAm) | [Leeh Men Ndarah](https://open.spotify.com/album/3LeYvuYO097cAJp0g8JXlF) | 4:07 | 2022-06-20 | 2022-06-23 |
@@ -260,7 +261,7 @@
 | [اشتاقيت لك](https://open.spotify.com/track/6DEFaweKzyaJFhN3mQ20a3) | [Faisal Abdulkareem](https://open.spotify.com/artist/5jFvzkcrrV8TqpRo2sMRuK) | [اشتاقيت لك \- Single](https://open.spotify.com/album/5qckdtVpXCLbsdxmzwCdAz) | 4:22 | 2021-12-23 | 2022-06-04 |
 | [اقسم برب الحب](https://open.spotify.com/track/16n29Queh9WamvEdPAzU30) | [Faisal Abdulkareem](https://open.spotify.com/artist/5jFvzkcrrV8TqpRo2sMRuK) | [اقسم برب الحب \- Single](https://open.spotify.com/album/0ndiTiEwgNBodLi9FUxCE8) | 3:48 | 2021-12-23 | 2021-12-31 |
 | [الا قلبي](https://open.spotify.com/track/5D8y7if4bfLuBDoJgnDhH8) | [هدى الفهد](https://open.spotify.com/artist/0PIckHaNLdTeZbmA8Vstn5) | [الا قلبي](https://open.spotify.com/album/4BuPfZI61xaTcTFgvKv9Ox) | 4:12 | 2023-05-15 | 2023-11-17 |
-| [الحب الأبدي](https://open.spotify.com/track/7usxVbBzZDS5cizMcCzC0Z) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj), [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [الحب الأبدي](https://open.spotify.com/album/62HLjL7THRp3y0913hTOq0) | 4:37 | 2023-08-03 |  |
+| [الحب الأبدي](https://open.spotify.com/track/7usxVbBzZDS5cizMcCzC0Z) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj), [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [الحب الأبدي](https://open.spotify.com/album/62HLjL7THRp3y0913hTOq0) | 4:37 | 2023-08-03 | 2024-02-22 |
 | [الحيلة](https://open.spotify.com/track/5JGPBZF9E9A1hRwhxPBpga) | [هدى الفهد](https://open.spotify.com/artist/0PIckHaNLdTeZbmA8Vstn5) | [الحيلة](https://open.spotify.com/album/4P1CiqYMFvMvMsNxKQWJce) | 2:57 | 2023-05-26 | 2023-12-22 |
 | [العجب في الهوى](https://open.spotify.com/track/7xj5Biz8I1trcgVq57jzhk) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [العجب في الهوى](https://open.spotify.com/album/5QqiSpeyNPcI4rUpvYEhcX) | 5:23 | 2023-08-25 |  |
 | [العمر مره](https://open.spotify.com/track/0Sy22uAj6TAgeMaBYsZoA8) | [Talal Salamah](https://open.spotify.com/artist/2yisgYUsuIfLHOcuCnbNu0) | [العمر مره](https://open.spotify.com/album/7iheqelPa0NoHhuNDTbsuf) | 4:56 | 2023-11-23 |  |
@@ -298,6 +299,7 @@
 | [قلب ناسيني](https://open.spotify.com/track/6Z4kadPlbhC6nE5MxP8C81) | [Nawal El Kuwaitia](https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ) | [الأرض](https://open.spotify.com/album/3qtM8m7WDIl4lhrmKjCMTp) | 4:48 | 2023-09-30 | 2023-10-09 |
 | [قلب ناسيني](https://open.spotify.com/track/3JyFw5gHP8pxsudyl1kltg) | [نوال الكويتية](https://open.spotify.com/artist/0KpzW2tcVs0tfnTFn6ZPys) | [الأرض](https://open.spotify.com/album/0S1DgCMQc8vbiPA210cc8X) | 4:48 | 2023-09-30 |  |
 | [لبيه](https://open.spotify.com/track/0CZtin5PSGzCCHp0cxjHTT) | [Hala Al Turk](https://open.spotify.com/artist/08XpoQUQ8CrwDVMo1BOEpj) | [لبيه](https://open.spotify.com/album/2julMTVNHEdU3D0vHOpyAd) | 3:47 | 2023-06-30 | 2024-02-01 |
+| [ليلة وصالك](https://open.spotify.com/track/6BCDeCmDw39YPG2L4T1nGM) | [دحوم الطلاسي](https://open.spotify.com/artist/1oqdsH0De57FaORaUIF9gC) | [ليلة وصالك](https://open.spotify.com/album/5j5SPlaI0ERnjeQdu0EzMZ) | 5:40 | 2024-02-21 |  |
 | [ما عرفتك](https://open.spotify.com/track/7HOuUa0bFPdJ4nFoIdK3PH) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [ما عرفتك](https://open.spotify.com/album/4rUz9KqZFlohSdai1fLvu7) | 5:39 | 2023-03-01 | 2023-09-30 |
 | [مجنون](https://open.spotify.com/track/74poQorNZ3f9iXMolw7gQx) | [Saber Rebai](https://open.spotify.com/artist/7Fqe0QpkJOM26wbeHGEKbD) | [مجنون](https://open.spotify.com/album/1ivQ3SBQ6eWl7NqG3QMyYT) | 3:33 | 2023-04-26 | 2023-11-16 |
 | [مرتاح](https://open.spotify.com/track/1eTt5Z7Yhxx0RABA3BLlgQ) | [Essa Almarzoug](https://open.spotify.com/artist/5F0AQAjsHjjT67OBz9GLuz) | [مرتاح](https://open.spotify.com/album/3AjExjqj8TnRdLrmW9RvZT) | 3:29 | 2021-12-23 | 2022-03-12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Vampire Weekend, Dua Lipa, Yeat, Karol G, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,158,451 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,158,637 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [Himalaya](https://open.spotify.com/track/4JUQCUpWyitHecYN5qFLDw) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Himalaya](https://open.spotify.com/album/2FxYWWfFTazRUhyYb3pofk) | 2:48 |
 | 100 | [A Day In The Life](https://open.spotify.com/track/39WdQbTRIFQsHSgBNGgXsI) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [A Day In The Life](https://open.spotify.com/album/1R5A6Gf97AuQlQp4YiE4Sp) | 3:35 |
 
-Snapshot ID: `MCw4MmIxZTVjYjdiMGQ3ZGRiZTYwYzg0ZDU1YmZkZWFiYWIwNTA0YTcw`
+Snapshot ID: `MCw3OTY5M2I0Y2NiZDZlYzU2NWJmYjVkYTE0NDk5MmJlNDNjZjAwMDVj`

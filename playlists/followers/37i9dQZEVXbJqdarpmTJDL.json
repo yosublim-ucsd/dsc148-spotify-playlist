@@ -1,5 +1,5 @@
 {
-  "2024-02-21": 102322,
+  "2024-02-22": 102358,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Greece.",
   "name": "Top 50 - Greece",
@@ -3139,7 +3139,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-20",
+      "date_removed": null,
       "duration_ms": 136258,
       "name": "BANSKO",
       "url": "https://open.spotify.com/track/0VojXGi7cSdHx1VdkdvvHV"
@@ -9925,7 +9925,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 137400,
       "name": "FREESTYLE",
       "url": "https://open.spotify.com/track/6mxVtY0iDdOkzcoqwbXdhI"
@@ -13605,6 +13605,24 @@
       "duration_ms": 264661,
       "name": "KALABAKA - Remix",
       "url": "https://open.spotify.com/track/7dNqWKOw2crbuRcH3hSH3R"
+    },
+    {
+      "album": {
+        "name": "KANE MOU TI XARI",
+        "url": "https://open.spotify.com/album/6u2pRcqjwiyow4Q0PifR9t"
+      },
+      "artists": [
+        {
+          "name": "REC",
+          "url": "https://open.spotify.com/artist/0XWz3PvSdEaZMO72W00Xfj"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183302,
+      "name": "KANE MOU TI XARI",
+      "url": "https://open.spotify.com/track/53iYKhd2RnQ5KzPJtdX9mu"
     },
     {
       "album": {
@@ -27479,7 +27497,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 143052,
       "name": "Tik Tak",
       "url": "https://open.spotify.com/track/249Ccx4Udp9bMug0T505Vx"

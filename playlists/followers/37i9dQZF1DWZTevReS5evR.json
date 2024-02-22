@@ -1,5 +1,5 @@
 {
-  "2024-02-21": 446359,
+  "2024-02-22": 446400,
   "date_first_scraped": "2023-03-26",
   "description": "I really wish your real name is my last name \ud83e\udd21",
   "name": "membadut",
@@ -1109,6 +1109,24 @@
       "duration_ms": 209259,
       "name": "golden hour",
       "url": "https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg"
+    },
+    {
+      "album": {
+        "name": "HAHAHA",
+        "url": "https://open.spotify.com/album/32KsXDdSdv8lJFKwt1cSEI"
+      },
+      "artists": [
+        {
+          "name": "Juicy Luicy",
+          "url": "https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193959,
+      "name": "HAHAHA",
+      "url": "https://open.spotify.com/track/0coPXOjcMS7mhizONlReis"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > La playlist urban più grande d'Italia 🔥 Cover: Geolier
 
-450 songs - 22 hr 16 min
+451 songs - 22 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Bandito](https://open.spotify.com/track/04emP3rMNw3yi1E7Q4ZoTI) | [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41), [Nardi](https://open.spotify.com/artist/5Weajr5biqrfs2QaSMUhCG), [Finesse](https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY) | [Bandito](https://open.spotify.com/album/4W80htSBryS02rTJg0nXUh) | 2:39 | 2022-12-08 | 2023-04-22 |
 | [Banlieue](https://open.spotify.com/track/1QKBcUYppvjlYrcQuGS73H) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK) | [Banlieue](https://open.spotify.com/album/1X7LRBkdizwwX3TtU2zrDO) | 3:16 | 2022-05-09 | 2022-05-28 |
 | [Battiti](https://open.spotify.com/track/7wG7IuZjCJn0bC2RS7MhtM) | [DrefGold](https://open.spotify.com/artist/6jwzGu5VdkR5tsRROYuxso) | [Battiti](https://open.spotify.com/album/1kV42QKgckkxFA0LIZDgNz) | 2:35 | 2022-06-09 | 2022-06-21 |
+| [BAYNA](https://open.spotify.com/track/1tZDQqGmN6A6wOWPHkJoC1) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [Sensazione ultra](https://open.spotify.com/album/7x0QV22Ci2ZOm9HweqBLhn) | 2:05 | 2024-02-21 |  |
 | [BEBE \(feat\. Baby Gang\)](https://open.spotify.com/track/5BpDpH327X9ExEJr4Oa5UY) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [Giù](https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3) | 2:46 | 2022-06-30 | 2023-01-27 |
 | [Bee](https://open.spotify.com/track/4ZTlsr3kmSylBKSTP7f2oR) | [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn) | [Lamborghini a Via Marina](https://open.spotify.com/album/2Q3U7ILYYVYLfvWrOLQJXp) | 2:45 | 2024-01-25 |  |
 | [BELLA](https://open.spotify.com/track/3vdJE5XWVax2kVs6OTJzWM) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Dystopic](https://open.spotify.com/artist/0bHol2ItTHAlLsW89chAQj) | [BELLA](https://open.spotify.com/album/66RYsaXoAIodtHYI7iKFZP) | 3:01 | 2023-06-22 | 2023-11-03 |
@@ -246,7 +247,7 @@
 | [Ma Xkè A Me?](https://open.spotify.com/track/4jeP1FfZpmRa1TIxibtOx2) | [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem) | [Ma Xkè A Me?](https://open.spotify.com/album/1MS0UQ61W1A77NTw77o1Ea) | 2:36 | 2023-07-27 | 2023-08-25 |
 | [Machiavelli \(feat\. Simba La Rue\)](https://open.spotify.com/track/3KRwYDQt79HltHM1YHzQbl) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [PIZZA KEBAB Vol\. 1](https://open.spotify.com/album/36pfG4aLiawluO8PgGZkeh) | 2:15 | 2023-12-07 |  |
 | [MADE IN ITALY](https://open.spotify.com/track/35BICD5dEJLVicj9cV0jhe) | [Rosa Chemical](https://open.spotify.com/artist/5gYADZXuZoaJwrwfAPbKuH), [Bdope](https://open.spotify.com/artist/3SGb7Dlm2pmV7qIQHUzRtB) | [MADE IN ITALY](https://open.spotify.com/album/0miArJPcQRJwlfZ6OGs2WJ) | 2:58 | 2023-02-09 | 2023-03-03 |
-| [Mafia Del Boom Bap](https://open.spotify.com/track/5aCfe1vmMzmCc916WKWar3) | [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv) | [Club Dogo](https://open.spotify.com/album/3nPgVpEmlL2JCf2yhdEcFy) | 3:05 | 2024-01-12 |  |
+| [Mafia Del Boom Bap](https://open.spotify.com/track/5aCfe1vmMzmCc916WKWar3) | [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv) | [Club Dogo](https://open.spotify.com/album/3nPgVpEmlL2JCf2yhdEcFy) | 3:05 | 2024-01-12 | 2024-02-22 |
 | [MALA \(feat\. Lazza, Tony Effe, JVLI\)](https://open.spotify.com/track/72zv9beS7sYZ6gbm1txJ0E) | [Fred De Palma](https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [PLC tape 1](https://open.spotify.com/album/7qKyuiyO2IC2gcp2R2VzrF) | 2:58 | 2022-05-09 | 2023-03-31 |
 | [Malamente](https://open.spotify.com/track/3myPe2jZvDbPoNXY7v2TU0) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [La Divina Commedia](https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl) | 3:01 | 2023-06-01 | 2023-10-27 |
 | [Maltempo](https://open.spotify.com/track/7FZicMWhkxtQxIsV6Y9SZk) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn) | [Maltempo](https://open.spotify.com/album/1Jopcn1DSXFQzDvj53uDpw) | 2:44 | 2023-09-21 | 2023-10-20 |

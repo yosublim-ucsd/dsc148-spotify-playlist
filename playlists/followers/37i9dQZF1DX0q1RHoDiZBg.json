@@ -1,5 +1,5 @@
 {
-  "2024-02-21": 131484,
+  "2024-02-22": 131485,
   "date_first_scraped": "2021-12-28",
   "description": "Fresh takes\u2014from new revisions and iconic covers to unexpected versions and the songwriter's own covers. Cover: <a href=\"spotify:artist:74ASZWbe4lXaubB36ztrGX\">Bob Dylan</a>",
   "name": "Bob Dylan: Covered",
@@ -2568,6 +2568,24 @@
     },
     {
       "album": {
+        "name": "Chimes Of Freedom: The Songs Of Bob Dylan Honoring 50 Years Of Amnesty International",
+        "url": "https://open.spotify.com/album/1SB9SD66SM04dm8wZdLatY"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211866,
+      "name": "You're Gonna Make Me Lonesome When You Go",
+      "url": "https://open.spotify.com/track/0fRz4JVcVEIxKvZwFDVVln"
+    },
+    {
+      "album": {
         "name": "Kiddie Folk Jams",
         "url": "https://open.spotify.com/album/1GZLtcNJTm5MYykURY8byA"
       },
@@ -2579,7 +2597,7 @@
       ],
       "date_added": "2018-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 211866,
       "name": "You're Gonna Make Me Lonesome When You Go",
       "url": "https://open.spotify.com/track/1X6f0IXbnRK1qVVgGoav0I"

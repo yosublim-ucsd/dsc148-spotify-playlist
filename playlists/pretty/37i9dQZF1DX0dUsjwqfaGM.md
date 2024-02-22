@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 
 > Thế hệ nghệ sĩ mới\. Ảnh bìa: Phí Phương Anh
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,447 likes - 60 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,446 likes - 60 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 | 34 | [GPS](https://open.spotify.com/track/7mSXu1Q76JGPLYolCKp3Xw) | [Pixel Neko](https://open.spotify.com/artist/6lKBdKySIpWUb4tA7hYzU7), [My Anh](https://open.spotify.com/artist/3C9BZr3AmjZ89zzcOdkA4i), [LostOwl](https://open.spotify.com/artist/2nO3NsrkKhV3cBI7X1wYbb), [Nam Ngo](https://open.spotify.com/artist/5rEpvWrgw0tvax27frKVlH) | [GPS](https://open.spotify.com/album/1dabh9kedSOCHQSXE1cYsN) | 3:59 |
 | 35 | [tỉnh thức sau giấc ngủ đông](https://open.spotify.com/track/4Xai78OB5OKQI9EFYcCzxD) | [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV) | [dự báo thời tiết hôm nay mưa – Maxi Single](https://open.spotify.com/album/7q2bB2NNFlNbtqadbn55pL) | 3:47 |
 | 36 | [Ánh Đèn Phố](https://open.spotify.com/track/6waGMOhiJ68iq8gpO3dqib) | [The Cassette](https://open.spotify.com/artist/1fQjpmcx8iNIy1gKRelTD2) | [Rừng Đom Đóm](https://open.spotify.com/album/68bMwerbq9axDV5m1wZYAn) | 4:42 |
-| 37 | [Lại Gần Và Để Anh Ôm Em Lâu Hơn \- Acoustic Version](https://open.spotify.com/track/2RG8uz3hvNVAlVvzhVufhi) | [Haisam](https://open.spotify.com/artist/5h0cBKxBX54CqPaQU6tJhk) | [Sâmflowers](https://open.spotify.com/album/4r2sh8ZMxq8yc3qT19bM3m) | 3:24 |
+| 37 | [Lại Gần Và Để Anh Ôm Em Lâu Hơn \- Acoustic Version](https://open.spotify.com/track/0YwdLjGal3u9hR5Ww1tWx7) | [Haisam](https://open.spotify.com/artist/5h0cBKxBX54CqPaQU6tJhk) | [Sâmflowers](https://open.spotify.com/album/25v8fVEZFohNneJf5stiSu) | 3:24 |
 | 38 | [To The Moon](https://open.spotify.com/track/1CyYcBdukmFjFibDZaDlHc) | [hooligan.](https://open.spotify.com/artist/4sDsgLXhS6If9HrV2mwuSx) | [To The Moon](https://open.spotify.com/album/4UEbczuNRxEy7SGJTrfEBd) | 3:21 |
 | 39 | [NICOT!NE](https://open.spotify.com/track/6bHUW6F0VTOHoiXVX7IjHA) | [hooligan.](https://open.spotify.com/artist/4sDsgLXhS6If9HrV2mwuSx) | [NICOT!NE](https://open.spotify.com/album/5y7rMRphWLC64hLb2OUwr8) | 3:44 |
 | 40 | [STAY FOR A WHILE](https://open.spotify.com/track/3krMz49aQyQny6U65HNHvA) | [Vxllish](https://open.spotify.com/artist/27RxVUWFswWxJaZzF1R3CT), [Pixel Neko](https://open.spotify.com/artist/6lKBdKySIpWUb4tA7hYzU7) | [STAY FOR A WHILE](https://open.spotify.com/album/3kaF1ubPMNkq47EkGptClH) | 3:47 |
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 | 44 | [Lỡ Say Bye Là Bye](https://open.spotify.com/track/0d6dbFvKczX1Us3J7TsMMv) | [Changg](https://open.spotify.com/artist/1nX1HVIUo1Zfs3e2v3lFb9), [Lemese](https://open.spotify.com/artist/0DL9VpY3UsZWQyDOO5Ej2o) | [Lỡ Say Bye Là Bye](https://open.spotify.com/album/3BKiAnPnm2Xn2cWB2uWeE0) | 3:34 |
 | 45 | [Nếu Ngày Mai Tôi Không Trở Về](https://open.spotify.com/track/33Lp6YwMsoES08PFMHgO28) | [The Cassette](https://open.spotify.com/artist/1fQjpmcx8iNIy1gKRelTD2) | [Rừng Đom Đóm](https://open.spotify.com/album/68bMwerbq9axDV5m1wZYAn) | 3:53 |
 | 46 | [Your Reflection](https://open.spotify.com/track/2lRcZxRB4xQLEBhyzTauC9) | [Rhosy](https://open.spotify.com/artist/3lL6jMbIkYzyxsXn3TU7GK) | [Words You Want](https://open.spotify.com/album/4NbdLnwTinHtXolBnSYmNG) | 2:29 |
-| 47 | [Dumb Mê \- Acoustic Version](https://open.spotify.com/track/6mR3aPF7A0VoFrm5acTMXq) | [Haisam](https://open.spotify.com/artist/5h0cBKxBX54CqPaQU6tJhk) | [Sâmflowers](https://open.spotify.com/album/4r2sh8ZMxq8yc3qT19bM3m) | 2:30 |
+| 47 | [Dumb Mê \- Acoustic Version](https://open.spotify.com/track/1gYCpRi5e6z4C2IqpMLyMY) | [Haisam](https://open.spotify.com/artist/5h0cBKxBX54CqPaQU6tJhk) | [Sâmflowers](https://open.spotify.com/album/25v8fVEZFohNneJf5stiSu) | 2:30 |
 | 48 | [MOT NGUOI VI EM](https://open.spotify.com/track/6lmJXxTcLTe6bdgwSfTqhO) | [WEAN](https://open.spotify.com/artist/30eFAXoU2kTjJPf2cq80B8) | [MOT NGUOI VI EM](https://open.spotify.com/album/4RdYWBn5Vw5SOYH0A30v1u) | 3:30 |
 | 49 | [ngày mây đen](https://open.spotify.com/track/57dSk370IBJTwMgyE5cAUI) | [Pay](https://open.spotify.com/artist/0LzKYyu8mwHXfMih4lnMXY), [Lazii](https://open.spotify.com/artist/2mrZ4gGfWba9oB1mfm9j90) | [Paylist](https://open.spotify.com/album/5Dk9wcrQb7PWiyQFuMYMA3) | 2:58 |
 | 50 | [Ố 1](https://open.spotify.com/track/3vFYKvXOHHFVD58Bxz98VL) | [Lazii](https://open.spotify.com/artist/2mrZ4gGfWba9oB1mfm9j90), [Sương Sâm](https://open.spotify.com/artist/1CaB0XOnPniIKLI8NjMMQL), [TE](https://open.spotify.com/artist/2GIuF9XgNJthcp0oRA1q3G) | [Ố 1](https://open.spotify.com/album/4pHnmegKPqoNpNstTgk5B6) | 3:20 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 | 59 | [my, my, my](https://open.spotify.com/track/1W1SPIukViuTd6wPo7hWB6) | [tanny ng](https://open.spotify.com/artist/6SmToDyj12uS8WGrc6m8ei), [juhye](https://open.spotify.com/artist/3xjFSJEkVSZvWdhMK4aOPl) | [my, my, my](https://open.spotify.com/album/701FniKi8G2MPnpbryojrj) | 3:36 |
 | 60 | [Bịt Mắt Bắt Anh](https://open.spotify.com/track/2YYgjG6Vm9lV74IOM5nkdY) | [Phí Phương Anh](https://open.spotify.com/artist/1OnnVNvbz0OsApDXHUX2bM), [RIN9](https://open.spotify.com/artist/6InVt9jASvsJY7qA60AGzf), [DREAMeR](https://open.spotify.com/artist/1f3aY4gX0O9B59iQyZXY0I) | [Bịt Mắt Bắt Anh](https://open.spotify.com/album/6qt24jojUkZSSiVGgKAemp) | 2:59 |
 
-Snapshot ID: `MCxhOWM1NTI1MjA4Y2ZkMGE2OTYyNjViMjRlODk2ODRjMWIyMTc2ZTdh`
+Snapshot ID: `MCwwOTdiNjFjNTBiOWVkMGExZDY4OGJhZDQ1YWUzYzBmYjE5MTYwZmIy`

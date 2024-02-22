@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Ana Castela com Hungria e Alok, Dua Lipa, Atitude 67  e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,912,337 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,912,717 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 10 | [CONTANDO OS GADIN](https://open.spotify.com/track/0yJpM3iq22TUM2eMSlNYE8) | [US Agroboy](https://open.spotify.com/artist/7gXnv2nAoF9X0XJQ3AMp7d) | [CONTANDO OS GADIN](https://open.spotify.com/album/32eT0jlcIcfjSQChOuxUbV) | 2:43 |
 | 11 | [Toalha \- Ao Vivo](https://open.spotify.com/track/1VDhTcn63fpKlNYLTJLXU6) | [Atitude 67](https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo) | [Fazendo Arte \(Ao Vivo / Vol.2\)](https://open.spotify.com/album/0zSKtOQ6feKHL4hj10IhAn) | 2:40 |
 | 12 | [Vai Empurrar](https://open.spotify.com/track/70vqN2IXExzmdAQC9XC5ue) | [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6), [DJ R7](https://open.spotify.com/artist/6WuTZb8WWZ5xitAQrgAJY2) | [Vai Empurrar](https://open.spotify.com/album/3Zs2aBMq1JxQ00G47gBAOD) | 2:51 |
-| 13 | [Acredita que Acontece](https://open.spotify.com/track/2H2gYzbx44ioCzG45OZbcN) | [MC Menor da VG](https://open.spotify.com/artist/4maKTxhTIDEnWKra7wEIMR) | [Acredita que Acontece](https://open.spotify.com/album/5atmKS0IH8DydeTCYLzVdr) | 2:22 |
+| 13 | [Acredita que Acontece](https://open.spotify.com/track/2H2gYzbx44ioCzG45OZbcN) | [MC Menor da VG](https://open.spotify.com/artist/4maKTxhTIDEnWKra7wEIMR) | [Acredita que Acontece](https://open.spotify.com/album/5atmKS0IH8DydeTCYLzVdr) | 2:34 |
 | 14 | [Velocidade](https://open.spotify.com/track/6nsUl93Uk1vf7NKefpCRDV) | [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [JD On Tha Track](https://open.spotify.com/artist/399fRDjZglRcNLNEDobdt4) | [Velocidade](https://open.spotify.com/album/3w7BVEEIOG9QVy1bxnOFOp) | 2:25 |
 | 15 | [Deus Guiando](https://open.spotify.com/track/1pk3K9bWcLtNPRhg6VZadX) | [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS) | [Deus Guiando](https://open.spotify.com/album/29Tzls0TFsMS5tW0VmxFZ0) | 2:33 |
 | 16 | [Cyberpunk](https://open.spotify.com/track/79kpDaVsQQUKRKYaLVsBbK) | [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Neckklace](https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX) | [Cyberpunk](https://open.spotify.com/album/37tMfPWBrcGJFtzQ5U35Lq) | 1:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 49 | [Capricorn](https://open.spotify.com/track/2tKqhcDNVVKXJqllKzrecM) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Capricorn / Gen\-X Cops](https://open.spotify.com/album/3szHsSqtiYzj9UbJRgvqkv) | 4:09 |
 | 50 | [A Tu Manera](https://open.spotify.com/track/2500EpUpryOBJX0rO8fDuB) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [A Tu Manera](https://open.spotify.com/album/5Skq54fuDILpEKXtmtTFXl) | 4:21 |
 
-Snapshot ID: `MCw1ZTczN2MxMDIwZDJhOWIxMjZhMTY2ZjEzZTkxODkzNjI4Yjc5MTJk`
+Snapshot ID: `MCwxOWM3YzJlNDE4YzM1OTQ0ODg0MzJlOTVjNDFiOWY4OTJhOTFkNTA2`

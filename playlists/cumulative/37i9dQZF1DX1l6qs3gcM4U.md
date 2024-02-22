@@ -4,7 +4,7 @@
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Djodje.
 
-348 songs - 20 hr 46 min
+349 songs - 20 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Comment vivre sans toi](https://open.spotify.com/track/0B2qVNmH4ngg1SpNH2zHzk) | [Kaysha](https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy) | [Comment vivre sans toi](https://open.spotify.com/album/78MJrZeQPFSxILprjOulwB) | 3:26 | 2021-12-10 | 2022-07-22 |
 | [Como Antes](https://open.spotify.com/track/0dAZ5dCofHy6rquqU6YG29) | [Matias Damásio](https://open.spotify.com/artist/0E0XPqa6BzxSkhmhvzA3k2) | [Como Antes](https://open.spotify.com/album/5Ja0yJ2hIVxWq5lOtGQ6Ih) | 3:44 | 2022-03-25 |  |
 | [Control](https://open.spotify.com/track/3WQxc2F2C57eqs57YJgEcZ) | [Black Spygo](https://open.spotify.com/artist/2A0VfJYVYzMd2EzexuHvjY), [Chelsea Dinorath](https://open.spotify.com/artist/0iFUMxC62joHJMxZwMZvzp), [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo), [Black Vision](https://open.spotify.com/artist/3nFAsihkHwUHm2fckVtTjJ) | [Control](https://open.spotify.com/album/6xxYj7XEsGGquc3DSbUf7L) | 3:27 | 2023-09-21 |  |
-| [Corno](https://open.spotify.com/track/1siCdFLHxIxRguAO1Q7NND) | [Messias Maricoa](https://open.spotify.com/artist/2nGm3BYzGAxkIuptvhRD99) | [Esperado](https://open.spotify.com/album/53WRpFhBqEq4McKmLeURPr) | 3:30 | 2023-08-31 |  |
+| [Corno](https://open.spotify.com/track/1siCdFLHxIxRguAO1Q7NND) | [Messias Maricoa](https://open.spotify.com/artist/2nGm3BYzGAxkIuptvhRD99) | [Esperado](https://open.spotify.com/album/53WRpFhBqEq4McKmLeURPr) | 3:30 | 2023-08-31 | 2024-02-22 |
 | [Corno](https://open.spotify.com/track/35wFDFtEwQesgr9ppW9s57) | [Messias Maricoa](https://open.spotify.com/artist/2nGm3BYzGAxkIuptvhRD99) | [Corno](https://open.spotify.com/album/301VhYBzUrqt9del8BwzD7) | 3:30 | 2022-02-14 | 2022-07-27 |
 | [Corno](https://open.spotify.com/track/65YDzoTd19yrff1ThXfmOW) | [Messias Maricoa](https://open.spotify.com/artist/2nGm3BYzGAxkIuptvhRD99) | [Corno](https://open.spotify.com/album/5wIj5r7RnXbgpY86w5NIRZ) | 3:30 | 2022-07-22 | 2023-07-18 |
 | [Could've Been \- Kizomba](https://open.spotify.com/track/1F1EJj1aVtbeI0y0hcFtRh) | [Kaysha](https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy) | [Could've Been \(Kizomba\)](https://open.spotify.com/album/6qIdA3p9mLWsRO9OQvKlgj) | 4:30 | 2021-12-10 | 2022-04-15 |
@@ -127,6 +127,7 @@
 | [Focadu na mi](https://open.spotify.com/track/2F8UmE4VDyq01qTdTqVp8V) | [Jennifer Dias](https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml) | [DIAS \(Tome 1\)](https://open.spotify.com/album/3mcuhcsPFPF10MFEn43hn1) | 3:38 | 2022-03-25 | 2022-04-20 |
 | [FORTI SO DA DI](https://open.spotify.com/track/26PYN8A18eUNXJw0BSWHJT) | [Soraia Ramos](https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L) | [COCKTAIL](https://open.spotify.com/album/0kWei4i3wj1HEVAggyE9fN) | 2:54 | 2023-10-26 | 2023-11-17 |
 | [Gostu Sabi](https://open.spotify.com/track/6cosp1xrAB2ibru87qvvqB) | [Gil Semedo](https://open.spotify.com/artist/09vnXoFkZgz4LpDF0xWULu), [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um), [Soraia Ramos](https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L), [Mito Kaskas](https://open.spotify.com/artist/61B4g2tzV2iOPCxFVXfC7F) | [Gostu Sabi](https://open.spotify.com/album/2Xi1UFTDSzhxS5bOn0uI3t) | 4:24 | 2022-06-16 | 2022-07-01 |
+| [Haverá Sinais](https://open.spotify.com/track/6jB7GCnGkB4rjDcklLiC6l) | [Felishia](https://open.spotify.com/artist/2VQJ9qBV0mzZAVkDYt1gCm) | [Haverá Sinais](https://open.spotify.com/album/7mmFtGC5xBKl3LGaclN8fW) | 3:14 | 2024-02-16 |  |
 | [Heartbeats](https://open.spotify.com/track/1lTCCK1d6IZLCbDPBaWhC7) | [Jazzy Rhodes](https://open.spotify.com/artist/4Jmpc3XWrGfzMXKYlQOrFG), [Arándano](https://open.spotify.com/artist/4vFS1RK96haxCYFEOEtv69), [Kitoko Sound](https://open.spotify.com/artist/7DqZ1E3qLhl3dXPc7jiVOb), [Kanda Beats](https://open.spotify.com/artist/62L2fBEJD1elMOdm0UAlj3), [D.i.n BEATS](https://open.spotify.com/artist/01jkpVYZa78YgI61h3gZbO) | [Heartbeats](https://open.spotify.com/album/6IQaqSnnAd72EaYm37TvPE) | 3:25 | 2021-12-10 | 2022-07-27 |
 | [Hoje a Noite É Nossa](https://open.spotify.com/track/09aLSoFasuxNVnGzgrBxc6) | [Edivaldo Prince](https://open.spotify.com/artist/1gqTY48L61CaY4ZNUpc8wL), [Uami Ndongadas](https://open.spotify.com/artist/5Zk9sDo6b2WArX9zr7I4BC), [Lil Drizzy](https://open.spotify.com/artist/6J7bOfaTg7OVG7b2uP0cqO) | [Hoje a Noite É Nossa](https://open.spotify.com/album/7zMtgdb8TzDx0ZjssmjaT5) | 3:49 | 2022-01-14 | 2022-01-29 |
 | [Homem Que É Homem](https://open.spotify.com/track/7KeFg6QHNBmANqLu3N0kYh) | [Badoxa](https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW) | [Homem Que É Homem](https://open.spotify.com/album/3da7ZdV8PajvULvHWlVCYU) | 3:36 | 2021-12-10 |  |

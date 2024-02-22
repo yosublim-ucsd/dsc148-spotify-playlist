@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7VnoXD1s7S.md) - [plain]
 
 > no\-clip out of reality
 
-[Spotify](https://open.spotify.com/user/spotify) - 807,171 likes - 84 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 808,663 likes - 84 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7VnoXD1s7S.md) - [plain]
 | 83 | [Submersible](https://open.spotify.com/track/0VLHVVJ67LemumV38DDb5b) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Replica](https://open.spotify.com/album/7H6gso8aBfKK7mlouLCsW3) | 3:50 |
 | 84 | [Bye](https://open.spotify.com/track/4JosyubgIpErAsvMKwph8n) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Figure 8](https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts) | 1:53 |
 
-Snapshot ID: `MCxhY2Y0ZDAxYzllZTdjOGYxMDRmZTlhOTQ2MWRmZTUxMDJmNzA5MDJk`
+Snapshot ID: `MCxlMGIxYmU0ZGFlNjUwYzc0YTI2NTc5ZWNmZDNjZDMwYzRlMmI0ZGY2`

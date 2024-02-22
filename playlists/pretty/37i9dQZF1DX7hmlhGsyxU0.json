@@ -1,12 +1,12 @@
 {
   "description": "Strings and pianos to accompany your latest great read.",
-  "num_followers": 158352,
+  "num_followers": 158424,
   "original_name": "Instrumental Reading",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OGMwMWViMzgyYmUxMjE5MDJhZjNjNTQxODZhYmYxODQ1NmFjMzNk",
+  "snapshot_id": "MCxhZGQ2NTIyNmU2NzYxY2UyZjFjN2ZhNDBiYThmOGU0OGIyOTFhN2Uw",
   "tracks": [
     {
       "added_at": "2023-06-27 16:12:39",
@@ -195,22 +195,6 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "The Innkeeper and the Moon",
-        "url": "https://open.spotify.com/album/2I22qH9JdIVJ1GAKclAuxv"
-      },
-      "artists": [
-        {
-          "name": "Austin Joy",
-          "url": "https://open.spotify.com/artist/6EQ4u4zmtbB7mXX0juIcDX"
-        }
-      ],
-      "duration_ms": 317682,
-      "name": "The Innkeeper and the Moon",
-      "url": "https://open.spotify.com/track/2NorafETAjaOLdEvoOrfj3"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
         "name": "On The Verge Of Collapse",
         "url": "https://open.spotify.com/album/70wpmzAa3c2tAeMQSSa6TA"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 168224,
       "name": "We All Grieve Differently",
       "url": "https://open.spotify.com/track/1FnkCdVKl5Hi5W6lOIDOFJ"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
+        "name": "The Innkeeper and the Moon",
+        "url": "https://open.spotify.com/album/2I22qH9JdIVJ1GAKclAuxv"
+      },
+      "artists": [
+        {
+          "name": "Austin Joy",
+          "url": "https://open.spotify.com/artist/6EQ4u4zmtbB7mXX0juIcDX"
+        }
+      ],
+      "duration_ms": 317682,
+      "name": "The Innkeeper and the Moon",
+      "url": "https://open.spotify.com/track/2NorafETAjaOLdEvoOrfj3"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -323,22 +323,6 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "No Time But Eternity",
-        "url": "https://open.spotify.com/album/22vYfRDKZAS9Z0r1mH0tsY"
-      },
-      "artists": [
-        {
-          "name": "Corciolli",
-          "url": "https://open.spotify.com/artist/2Np4nlDQduEo65iSyGZ4mk"
-        }
-      ],
-      "duration_ms": 399544,
-      "name": "No Time But Eternity",
-      "url": "https://open.spotify.com/track/7cAxtGjcTqffwer1mdT6JY"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
         "name": "Ash",
         "url": "https://open.spotify.com/album/4r4uivM8uagpk75U7ZEef9"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 203546,
       "name": "Ash",
       "url": "https://open.spotify.com/track/6SHUHXfhBf2q8UrmSrTvGH"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
+        "name": "No Time But Eternity",
+        "url": "https://open.spotify.com/album/22vYfRDKZAS9Z0r1mH0tsY"
+      },
+      "artists": [
+        {
+          "name": "Corciolli",
+          "url": "https://open.spotify.com/artist/2Np4nlDQduEo65iSyGZ4mk"
+        }
+      ],
+      "duration_ms": 399544,
+      "name": "No Time But Eternity",
+      "url": "https://open.spotify.com/track/7cAxtGjcTqffwer1mdT6JY"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "Altair",
-        "url": "https://open.spotify.com/album/2YQBt88g1dxueykouWGrUw"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Zawadzki",
-          "url": "https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Procyon",
-      "url": "https://open.spotify.com/track/1yzKGJupThHxhezhxAgkEy"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
         "name": "Floating on Land",
         "url": "https://open.spotify.com/album/2nq7JfT3k2eSy1kRm2Fk1X"
       },
@@ -459,18 +443,18 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "Sea Notes",
-        "url": "https://open.spotify.com/album/2dRAPX38G1swd3F15V9Tsl"
+        "name": "Altair",
+        "url": "https://open.spotify.com/album/2YQBt88g1dxueykouWGrUw"
       },
       "artists": [
         {
-          "name": "Joanna Finnis",
-          "url": "https://open.spotify.com/artist/6Lwb4OP1M9HhvZGN73m14Y"
+          "name": "Sebastian Zawadzki",
+          "url": "https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH"
         }
       ],
-      "duration_ms": 128684,
-      "name": "Flight of the Sea Birds",
-      "url": "https://open.spotify.com/track/05xneJHhmYhIPXwonkQFzI"
+      "duration_ms": 186000,
+      "name": "Procyon",
+      "url": "https://open.spotify.com/track/1yzKGJupThHxhezhxAgkEy"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -491,18 +475,18 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "Living Rooms",
-        "url": "https://open.spotify.com/album/3XSU10axr4q7lPwiMXQPUe"
+        "name": "Sea Notes",
+        "url": "https://open.spotify.com/album/2dRAPX38G1swd3F15V9Tsl"
       },
       "artists": [
         {
-          "name": "Joshua Naranjo",
-          "url": "https://open.spotify.com/artist/79umW4lywuQrIeeDrleqB5"
+          "name": "Joanna Finnis",
+          "url": "https://open.spotify.com/artist/6Lwb4OP1M9HhvZGN73m14Y"
         }
       ],
-      "duration_ms": 175384,
-      "name": "Living Rooms",
-      "url": "https://open.spotify.com/track/1bqUq2J07aWRk2Fu0QpAWy"
+      "duration_ms": 128684,
+      "name": "Flight of the Sea Birds",
+      "url": "https://open.spotify.com/track/05xneJHhmYhIPXwonkQFzI"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -523,18 +507,18 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "Joshua Tree",
-        "url": "https://open.spotify.com/album/0QOvM8uZd9MukqMjJZZqaw"
+        "name": "Living Rooms",
+        "url": "https://open.spotify.com/album/3XSU10axr4q7lPwiMXQPUe"
       },
       "artists": [
         {
-          "name": "Rolig",
-          "url": "https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz"
+          "name": "Joshua Naranjo",
+          "url": "https://open.spotify.com/artist/79umW4lywuQrIeeDrleqB5"
         }
       ],
-      "duration_ms": 157500,
-      "name": "Joshua Tree",
-      "url": "https://open.spotify.com/track/2lhwDrrTEQFiuveT3D2goS"
+      "duration_ms": 175384,
+      "name": "Living Rooms",
+      "url": "https://open.spotify.com/track/1bqUq2J07aWRk2Fu0QpAWy"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -559,6 +543,22 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
+        "name": "Joshua Tree",
+        "url": "https://open.spotify.com/album/0QOvM8uZd9MukqMjJZZqaw"
+      },
+      "artists": [
+        {
+          "name": "Rolig",
+          "url": "https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Joshua Tree",
+      "url": "https://open.spotify.com/track/2lhwDrrTEQFiuveT3D2goS"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
         "name": "Calm Water",
         "url": "https://open.spotify.com/album/1qgjBW7ZMom06x4uXaqnvQ"
       },
@@ -571,22 +571,6 @@
       "duration_ms": 260729,
       "name": "Calm Water",
       "url": "https://open.spotify.com/track/00CUZP34M4082rJyr4ZMen"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
-        "name": "How Time Works",
-        "url": "https://open.spotify.com/album/70cJVjIxPDkseZhzGy5kkE"
-      },
-      "artists": [
-        {
-          "name": "Eric Carlson",
-          "url": "https://open.spotify.com/artist/3rBIitlyjzAPUDj80fM3TE"
-        }
-      ],
-      "duration_ms": 225053,
-      "name": "How Time Works",
-      "url": "https://open.spotify.com/track/4xqfOnP7Mue9j5JJVfLFyh"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -607,18 +591,34 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "Autumn",
-        "url": "https://open.spotify.com/album/5MbVgvlnSE13v5BQEGgN0Q"
+        "name": "How Time Works",
+        "url": "https://open.spotify.com/album/70cJVjIxPDkseZhzGy5kkE"
       },
       "artists": [
         {
-          "name": "Rolig",
-          "url": "https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz"
+          "name": "Eric Carlson",
+          "url": "https://open.spotify.com/artist/3rBIitlyjzAPUDj80fM3TE"
         }
       ],
-      "duration_ms": 153387,
-      "name": "Autumn",
-      "url": "https://open.spotify.com/track/1qBQECdGaZL0Nwg55VMniX"
+      "duration_ms": 225053,
+      "name": "How Time Works",
+      "url": "https://open.spotify.com/track/4xqfOnP7Mue9j5JJVfLFyh"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
+        "name": "Zerachiel",
+        "url": "https://open.spotify.com/album/2p6YgkjGx3GpY85QNQE3SF"
+      },
+      "artists": [
+        {
+          "name": "Igor Ferreira",
+          "url": "https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1"
+        }
+      ],
+      "duration_ms": 191870,
+      "name": "Zerachiel",
+      "url": "https://open.spotify.com/track/75YWIrM2Veuz4Hlgnswhgp"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -643,18 +643,18 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "Zerachiel",
-        "url": "https://open.spotify.com/album/2p6YgkjGx3GpY85QNQE3SF"
+        "name": "Autumn",
+        "url": "https://open.spotify.com/album/5MbVgvlnSE13v5BQEGgN0Q"
       },
       "artists": [
         {
-          "name": "Igor Ferreira",
-          "url": "https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1"
+          "name": "Rolig",
+          "url": "https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz"
         }
       ],
-      "duration_ms": 191870,
-      "name": "Zerachiel",
-      "url": "https://open.spotify.com/track/75YWIrM2Veuz4Hlgnswhgp"
+      "duration_ms": 153387,
+      "name": "Autumn",
+      "url": "https://open.spotify.com/track/1qBQECdGaZL0Nwg55VMniX"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "S\u00e9r\u00e9nit\u00e9",
-        "url": "https://open.spotify.com/album/1XdeturncHpWMnATLRATPZ"
-      },
-      "artists": [
-        {
-          "name": "J\u00e9r\u00e9mie Fauquet",
-          "url": "https://open.spotify.com/artist/2JfYFXAwjWCX0EY9ZdPiob"
-        }
-      ],
-      "duration_ms": 108690,
-      "name": "S\u00e9r\u00e9nit\u00e9",
-      "url": "https://open.spotify.com/track/4KwJZiykCwZTDNF8ArSMWZ"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
         "name": "Low Sun",
         "url": "https://open.spotify.com/album/2rZV82DIS8DASudAIoBEHK"
       },
@@ -711,6 +695,38 @@
       "duration_ms": 196537,
       "name": "Low Sun",
       "url": "https://open.spotify.com/track/4CLkN6PDHrMkYbiQIigVz3"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
+        "name": "S\u00e9r\u00e9nit\u00e9",
+        "url": "https://open.spotify.com/album/1XdeturncHpWMnATLRATPZ"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9r\u00e9mie Fauquet",
+          "url": "https://open.spotify.com/artist/2JfYFXAwjWCX0EY9ZdPiob"
+        }
+      ],
+      "duration_ms": 108690,
+      "name": "S\u00e9r\u00e9nit\u00e9",
+      "url": "https://open.spotify.com/track/4KwJZiykCwZTDNF8ArSMWZ"
+    },
+    {
+      "added_at": "2023-06-27 16:12:39",
+      "album": {
+        "name": "EGUZKIA GALDU",
+        "url": "https://open.spotify.com/album/06pHIdK1jZwvfOUBUQyFUR"
+      },
+      "artists": [
+        {
+          "name": "Igor Ferreira",
+          "url": "https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1"
+        }
+      ],
+      "duration_ms": 161981,
+      "name": "EGUZKIA GALDU",
+      "url": "https://open.spotify.com/track/1jXTcTeHRUaWmWJME9U2I3"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -783,8 +799,8 @@
     {
       "added_at": "2023-06-27 16:12:39",
       "album": {
-        "name": "EGUZKIA GALDU",
-        "url": "https://open.spotify.com/album/06pHIdK1jZwvfOUBUQyFUR"
+        "name": "S\u00f3liton",
+        "url": "https://open.spotify.com/album/0971hkOs6jrivjyQaAgdqE"
       },
       "artists": [
         {
@@ -792,9 +808,9 @@
           "url": "https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1"
         }
       ],
-      "duration_ms": 161981,
-      "name": "EGUZKIA GALDU",
-      "url": "https://open.spotify.com/track/1jXTcTeHRUaWmWJME9U2I3"
+      "duration_ms": 122347,
+      "name": "S\u00f3liton",
+      "url": "https://open.spotify.com/track/5WstJ13vyaoD8EqpVbKB8v"
     },
     {
       "added_at": "2023-06-27 16:12:39",
@@ -859,22 +875,6 @@
       "duration_ms": 165741,
       "name": "A Winter's Tale",
       "url": "https://open.spotify.com/track/40Vn1ZHFzVdtTYLJ4huCfa"
-    },
-    {
-      "added_at": "2023-06-27 16:12:39",
-      "album": {
-        "name": "S\u00f3liton",
-        "url": "https://open.spotify.com/album/0971hkOs6jrivjyQaAgdqE"
-      },
-      "artists": [
-        {
-          "name": "Igor Ferreira",
-          "url": "https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1"
-        }
-      ],
-      "duration_ms": 122347,
-      "name": "S\u00f3liton",
-      "url": "https://open.spotify.com/track/5WstJ13vyaoD8EqpVbKB8v"
     },
     {
       "added_at": "2023-06-27 16:12:39",

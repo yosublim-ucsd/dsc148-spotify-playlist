@@ -1,12 +1,12 @@
 {
   "description": "\uad6d\ub0b4\ub97c \uac15\ud0c0 \ud588\ub358 R&B\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 13387,
+  "num_followers": 13392,
   "original_name": "\uad6d\ub0b4 R&B \uba54\uac00 \ud788\ud2b8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZGVhZTg5MDQ4MGU2ZTJlNWUxNDI5Mzg2YTc4ZDIyYjE0MzJmNWFl",
+  "snapshot_id": "MCw0NmFkNjdhY2YzOTU5NTRhNmMxMDVkMTk4OGI4ZWI5NDJkNzVmODY3",
   "tracks": [
     {
       "added_at": "2021-03-11 16:36:50",
@@ -419,22 +419,6 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
-        "name": "Reason 4 breathing?",
-        "url": "https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa"
-      },
-      "artists": [
-        {
-          "name": "Brown Eyes",
-          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
-        }
-      ],
-      "duration_ms": 211520,
-      "name": "\uc810\uc810",
-      "url": "https://open.spotify.com/track/0IwDO38DaBE7cMl4aLgybU"
-    },
-    {
-      "added_at": "2021-03-11 16:36:50",
-      "album": {
         "name": "Back To The Soul Flight",
         "url": "https://open.spotify.com/album/26nzz1WN0qn4C3B6zcm93u"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 266506,
       "name": "\uadc0\ub85c",
       "url": "https://open.spotify.com/track/5B6ewNeXBcIDHqzsgAn6Dk"
+    },
+    {
+      "added_at": "2021-03-11 16:36:50",
+      "album": {
+        "name": "Reason 4 breathing?",
+        "url": "https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa"
+      },
+      "artists": [
+        {
+          "name": "Brown Eyes",
+          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
+        }
+      ],
+      "duration_ms": 211520,
+      "name": "\uc810\uc810",
+      "url": "https://open.spotify.com/track/0IwDO38DaBE7cMl4aLgybU"
     },
     {
       "added_at": "2021-03-11 16:36:50",
@@ -551,18 +551,18 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
-        "name": "Emptiness in Memory",
-        "url": "https://open.spotify.com/album/4dYM107Vn5VXOCenlChbOG"
+        "name": "Brown Eyes",
+        "url": "https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA"
       },
       "artists": [
         {
-          "name": "Naul",
-          "url": "https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1"
+          "name": "Brown Eyes",
+          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
         }
       ],
-      "duration_ms": 278454,
-      "name": "Emptiness in Memory",
-      "url": "https://open.spotify.com/track/3pOuipxjrJEwnnGhE106Rh"
+      "duration_ms": 215840,
+      "name": "With Coffee\u2026",
+      "url": "https://open.spotify.com/track/7svHY5rTJ1Aotj6sDsDgdV"
     },
     {
       "added_at": "2021-03-11 16:36:50",
@@ -583,18 +583,18 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
-        "name": "Brown Eyes",
-        "url": "https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA"
+        "name": "Emptiness in Memory",
+        "url": "https://open.spotify.com/album/4dYM107Vn5VXOCenlChbOG"
       },
       "artists": [
         {
-          "name": "Brown Eyes",
-          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
+          "name": "Naul",
+          "url": "https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1"
         }
       ],
-      "duration_ms": 215840,
-      "name": "With Coffee\u2026",
-      "url": "https://open.spotify.com/track/7svHY5rTJ1Aotj6sDsDgdV"
+      "duration_ms": 278454,
+      "name": "Emptiness in Memory",
+      "url": "https://open.spotify.com/track/3pOuipxjrJEwnnGhE106Rh"
     },
     {
       "added_at": "2021-03-11 16:36:50",
@@ -631,6 +631,22 @@
       "duration_ms": 222860,
       "name": "Hug Me",
       "url": "https://open.spotify.com/track/7J28iQgZUf4sCfGKRFUazO"
+    },
+    {
+      "added_at": "2021-03-11 16:36:50",
+      "album": {
+        "name": "Reason 4 breathing?",
+        "url": "https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa"
+      },
+      "artists": [
+        {
+          "name": "Brown Eyes",
+          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
+        }
+      ],
+      "duration_ms": 216373,
+      "name": "\ube44\uc624\ub294 \uc555\uad6c\uc815",
+      "url": "https://open.spotify.com/track/1WKoaRdUQGSoo8qfiWc1dT"
     },
     {
       "added_at": "2021-03-11 16:36:50",
@@ -695,22 +711,6 @@
       "duration_ms": 263533,
       "name": "Nothing Better",
       "url": "https://open.spotify.com/track/1c3YKD6HDervPsw0nHxlhh"
-    },
-    {
-      "added_at": "2021-03-11 16:36:50",
-      "album": {
-        "name": "Reason 4 breathing?",
-        "url": "https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa"
-      },
-      "artists": [
-        {
-          "name": "Brown Eyes",
-          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
-        }
-      ],
-      "duration_ms": 216373,
-      "name": "\ube44\uc624\ub294 \uc555\uad6c\uc815",
-      "url": "https://open.spotify.com/track/1WKoaRdUQGSoo8qfiWc1dT"
     },
     {
       "added_at": "2021-03-11 16:36:50",
@@ -783,22 +783,6 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
-        "name": "Browneyed Soul",
-        "url": "https://open.spotify.com/album/7AujHzdkOYaeBVlhA7Z23j"
-      },
-      "artists": [
-        {
-          "name": "BROWN EYED SOUL",
-          "url": "https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5"
-        }
-      ],
-      "duration_ms": 301026,
-      "name": "Love Ballad",
-      "url": "https://open.spotify.com/track/1HUPqjUMF7m1qShIn1bDw9"
-    },
-    {
-      "added_at": "2021-03-11 16:36:50",
-      "album": {
         "name": "t 3 YOONMIRAE",
         "url": "https://open.spotify.com/album/1IpgVEDfoO0y50l2DyHu0L"
       },
@@ -815,22 +799,6 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
-        "name": "Addio",
-        "url": "https://open.spotify.com/album/1edy6Z8uDoMpdyElVk7bLx"
-      },
-      "artists": [
-        {
-          "name": "Yangpa",
-          "url": "https://open.spotify.com/artist/05Tt2bRgkP3yY2TnpRMvpS"
-        }
-      ],
-      "duration_ms": 245066,
-      "name": "Addio",
-      "url": "https://open.spotify.com/track/1My0WdX6NNKCjN1BuP44o8"
-    },
-    {
-      "added_at": "2021-03-11 16:36:50",
-      "album": {
         "name": "Parallax",
         "url": "https://open.spotify.com/album/3SkW52Wt3omQQexWElTNeR"
       },
@@ -843,6 +811,38 @@
       "duration_ms": 221753,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/1JMByXHGoGaBVSaMGyNN9w"
+    },
+    {
+      "added_at": "2021-03-11 16:36:50",
+      "album": {
+        "name": "Just One Day",
+        "url": "https://open.spotify.com/album/2ZRgUweTGRez4yzualNDci"
+      },
+      "artists": [
+        {
+          "name": "BIG MAMA",
+          "url": "https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ"
+        }
+      ],
+      "duration_ms": 257333,
+      "name": "Just One Day",
+      "url": "https://open.spotify.com/track/1UEHM8m4GswZLNykPkInEy"
+    },
+    {
+      "added_at": "2021-03-11 16:36:50",
+      "album": {
+        "name": "Browneyed Soul",
+        "url": "https://open.spotify.com/album/7AujHzdkOYaeBVlhA7Z23j"
+      },
+      "artists": [
+        {
+          "name": "BROWN EYED SOUL",
+          "url": "https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5"
+        }
+      ],
+      "duration_ms": 301026,
+      "name": "Love Ballad",
+      "url": "https://open.spotify.com/track/1HUPqjUMF7m1qShIn1bDw9"
     }
   ],
   "unique_name": "\uad6d\ub0b4 R&B \uba54\uac00 \ud788\ud2b8",

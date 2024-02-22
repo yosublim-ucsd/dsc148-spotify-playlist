@@ -1,12 +1,12 @@
 {
   "description": "Give thanks to the Lord, in all circumstances, with these songs about being grateful.",
-  "num_followers": 18980,
+  "num_followers": 18985,
   "original_name": "Give Thanks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YzJlOTU4MWNmNWZjNDRkYjA3NWYxNTUxYTFhYjQyZGFhOGY5ZGM1",
+  "snapshot_id": "MCxiNDM5YjU0MzM4OTYyYzA2ZjZmNzY2NzVhNWQ2Y2Y1YWZhZTg4Yjg5",
   "tracks": [
     {
       "added_at": "2022-11-23 15:01:23",
@@ -511,22 +511,6 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
-        "name": "At This Table",
-        "url": "https://open.spotify.com/album/3x5gkpYT2I80yewupH8FP6"
-      },
-      "artists": [
-        {
-          "name": "Selah",
-          "url": "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
-        }
-      ],
-      "duration_ms": 239932,
-      "name": "At This Table",
-      "url": "https://open.spotify.com/track/60TpgJ947vNb9A1UGQWkNm"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
         "name": "Kingdom Come - The Soundtrack",
         "url": "https://open.spotify.com/album/5HTBR75IKGcmwkgT1XXXmG"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 280333,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/5fj35Am6o5htd4HlOZEymW"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
+        "name": "At This Table",
+        "url": "https://open.spotify.com/album/3x5gkpYT2I80yewupH8FP6"
+      },
+      "artists": [
+        {
+          "name": "Selah",
+          "url": "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
+        }
+      ],
+      "duration_ms": 239932,
+      "name": "At This Table",
+      "url": "https://open.spotify.com/track/60TpgJ947vNb9A1UGQWkNm"
     },
     {
       "added_at": "2022-11-23 15:01:23",
@@ -691,22 +691,6 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
-        "name": "Thankful",
-        "url": "https://open.spotify.com/album/5KUru32rxqL7jGIKyi0HXp"
-      },
-      "artists": [
-        {
-          "name": "Natalie Cole",
-          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
-        }
-      ],
-      "duration_ms": 232333,
-      "name": "Be Thankful",
-      "url": "https://open.spotify.com/track/4UqpMOSIlRbizfXeDa2KSB"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
         "name": "Give Thanks",
         "url": "https://open.spotify.com/album/1Aut9LT8m8InV1Yu2Yx8tE"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 193413,
       "name": "Give Thanks",
       "url": "https://open.spotify.com/track/2fRPNI68Vk8SawD7lq1rsw"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
+        "name": "Thankful",
+        "url": "https://open.spotify.com/album/5KUru32rxqL7jGIKyi0HXp"
+      },
+      "artists": [
+        {
+          "name": "Natalie Cole",
+          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
+        }
+      ],
+      "duration_ms": 232333,
+      "name": "Be Thankful",
+      "url": "https://open.spotify.com/track/4UqpMOSIlRbizfXeDa2KSB"
     },
     {
       "added_at": "2022-11-23 15:01:23",

@@ -4,7 +4,7 @@
 
 > Aquí está el sonido urbano de Venezuela\. Cover: Irepelusa
 
-152 songs - 8 hr 8 min
+153 songs - 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,8 @@
 | [Headshot](https://open.spotify.com/track/5PiobPEH4MzphZ1exSPW10) | [Tayko](https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m) | [Headshot](https://open.spotify.com/album/2Pkx40wbmgdriBo3t199TV) | 2:24 | 2023-08-11 | 2023-10-28 |
 | [hotel san juan](https://open.spotify.com/track/5Di7ARBdcVfesKYlcyCdun) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [triste pero siempre mami](https://open.spotify.com/album/42KWkiTPmBC5YUfOtV4dIq) | 2:19 | 2023-05-26 | 2023-08-12 |
 | [HP](https://open.spotify.com/track/3kfXOIL2AvwrzS5cT5RjED) | [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf), [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ) | [HP](https://open.spotify.com/album/66Nzq7BM0gIRLz47lNdg1W) | 3:24 | 2022-06-10 | 2023-08-12 |
-| [Imaginándote](https://open.spotify.com/track/6zxkr2tSIZMIKHaALNvoCr) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Satus](https://open.spotify.com/album/1lOibSxSky80FXEzR5Z2Gn) | 2:29 | 2023-07-21 |  |
+| [Imaginándote](https://open.spotify.com/track/6zxkr2tSIZMIKHaALNvoCr) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Satus](https://open.spotify.com/album/1lOibSxSky80FXEzR5Z2Gn) | 2:29 | 2023-07-21 | 2024-02-22 |
+| [Imaginándote](https://open.spotify.com/track/7BFJYal3LoCIud75mCwLFz) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Satus](https://open.spotify.com/album/47aH1PiabZA5UfZ5frshXe) | 2:29 | 2024-01-26 |  |
 | [Joseando](https://open.spotify.com/track/67Yw5OgtVMoRdOkVSbUXXw) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Joseando](https://open.spotify.com/album/710PNpZjGyqoN5iFB5QSuc) | 3:24 | 2022-03-11 | 2022-07-08 |
 | [Juguito de Mañana](https://open.spotify.com/track/5ufV4XZFbuMcTUDc5XqUW5) | [Soul AM](https://open.spotify.com/artist/6ppLSXJZysRO3LBrlJIVuA), [Rap Bang Club](https://open.spotify.com/artist/0cRHRB8jrBv74aDfyXQPrd), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [CUÍDATE](https://open.spotify.com/album/170wLepHNxt1HFg3aMPR1R) | 3:42 | 2023-07-28 | 2023-10-28 |
 | [La Chama](https://open.spotify.com/track/2nK8tfg8lRVrzy8IOr5O3Z) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [La Chama](https://open.spotify.com/album/1PqlS6ozoc8TIB8uiiuPUy) | 3:12 | 2022-09-08 |  |

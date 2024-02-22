@@ -1,12 +1,12 @@
 {
   "description": "The best of Christian Hip Hop today.  Cover:  <a href=\"spotify:artist:1CFCsEqKrCyvAFKOATQHiW\">Lecrae</a>",
-  "num_followers": 149027,
+  "num_followers": 149109,
   "original_name": "The Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYTEyYTJiNjJiYzI4ZmJkZmE2YmY2OTM4OWE4Zjk5MDAzNTc1Yzk3",
+  "snapshot_id": "MCw4ZGMwOTIxNGIxMDg4ZDQ0OTVmMGQ3NTEwM2VmNzU5ZmViMjg4OGE2",
   "tracks": [
     {
       "added_at": "2024-02-09 07:39:09",
@@ -607,6 +607,30 @@
     {
       "added_at": "2024-02-09 07:39:09",
       "album": {
+        "name": "Good, Pt. 2",
+        "url": "https://open.spotify.com/album/3objons9Rsft3fOjdyq5G0"
+      },
+      "artists": [
+        {
+          "name": "Red Tips",
+          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
+        },
+        {
+          "name": "Kenny Rivers",
+          "url": "https://open.spotify.com/artist/41twdk8sw4fNv4nosACqp9"
+        },
+        {
+          "name": "Caleb Gordon",
+          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
+        }
+      ],
+      "duration_ms": 217750,
+      "name": "Good, Pt. 2",
+      "url": "https://open.spotify.com/track/2w5UQS0tj6nmLSX3lNduze"
+    },
+    {
+      "added_at": "2024-02-09 07:39:09",
+      "album": {
         "name": "SO LONELY (AN EREMOS STORY)",
         "url": "https://open.spotify.com/album/1yMjZOuzZHF2hRzluZESSD"
       },
@@ -639,58 +663,6 @@
     {
       "added_at": "2024-02-09 07:39:09",
       "album": {
-        "name": "Good, Pt. 2",
-        "url": "https://open.spotify.com/album/3objons9Rsft3fOjdyq5G0"
-      },
-      "artists": [
-        {
-          "name": "Red Tips",
-          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
-        },
-        {
-          "name": "Kenny Rivers",
-          "url": "https://open.spotify.com/artist/41twdk8sw4fNv4nosACqp9"
-        },
-        {
-          "name": "Caleb Gordon",
-          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
-        }
-      ],
-      "duration_ms": 217750,
-      "name": "Good, Pt. 2",
-      "url": "https://open.spotify.com/track/2w5UQS0tj6nmLSX3lNduze"
-    },
-    {
-      "added_at": "2024-02-09 07:39:09",
-      "album": {
-        "name": "Favorite Trapper",
-        "url": "https://open.spotify.com/album/0OOX0GDbvpMpAYZEyqM1RJ"
-      },
-      "artists": [
-        {
-          "name": "1K Phew",
-          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
-        },
-        {
-          "name": "Zaytoven",
-          "url": "https://open.spotify.com/artist/1mceaxtjWdEmwoDVAlkC41"
-        },
-        {
-          "name": "Young Dro",
-          "url": "https://open.spotify.com/artist/3ZooCJzNMTLpmJaIRUEorI"
-        },
-        {
-          "name": "1k Pson",
-          "url": "https://open.spotify.com/artist/3ex5lvW6vBEAbO0czNTIC2"
-        }
-      ],
-      "duration_ms": 146255,
-      "name": "Favorite Trapper",
-      "url": "https://open.spotify.com/track/6ELsXVHVwBNS81g4CXiXle"
-    },
-    {
-      "added_at": "2024-02-09 07:39:09",
-      "album": {
         "name": "GROOVY FREESTYLE (REMIX)",
         "url": "https://open.spotify.com/album/4qWe3ltHgJkRGWxX8VReWo"
       },
@@ -719,6 +691,34 @@
       "duration_ms": 211788,
       "name": "GROOVY FREESTYLE (REMIX)",
       "url": "https://open.spotify.com/track/75I3cFxZ68lLh9y61DhASM"
+    },
+    {
+      "added_at": "2024-02-09 07:39:09",
+      "album": {
+        "name": "Favorite Trapper",
+        "url": "https://open.spotify.com/album/0OOX0GDbvpMpAYZEyqM1RJ"
+      },
+      "artists": [
+        {
+          "name": "1K Phew",
+          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
+        },
+        {
+          "name": "Zaytoven",
+          "url": "https://open.spotify.com/artist/1mceaxtjWdEmwoDVAlkC41"
+        },
+        {
+          "name": "Young Dro",
+          "url": "https://open.spotify.com/artist/3ZooCJzNMTLpmJaIRUEorI"
+        },
+        {
+          "name": "1k Pson",
+          "url": "https://open.spotify.com/artist/3ex5lvW6vBEAbO0czNTIC2"
+        }
+      ],
+      "duration_ms": 146255,
+      "name": "Favorite Trapper",
+      "url": "https://open.spotify.com/track/6ELsXVHVwBNS81g4CXiXle"
     },
     {
       "added_at": "2024-02-09 07:39:09",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-02-09 07:39:09",
       "album": {
-        "name": "Play!",
-        "url": "https://open.spotify.com/album/376W7E1CjMqgBrYZK5GTuM"
-      },
-      "artists": [
-        {
-          "name": "PEABOD",
-          "url": "https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL"
-        }
-      ],
-      "duration_ms": 195045,
-      "name": "Press Play",
-      "url": "https://open.spotify.com/track/3DNuA9Bm2EJCHjK2LbPcK2"
-    },
-    {
-      "added_at": "2024-02-09 07:39:09",
-      "album": {
         "name": "Bought By The Blood",
         "url": "https://open.spotify.com/album/3wMWVjpGqDkz6BK3XDkXaz"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 143448,
       "name": "Bought By The Blood",
       "url": "https://open.spotify.com/track/3eLPuEgWkfFbtvNByNvCyY"
+    },
+    {
+      "added_at": "2024-02-09 07:39:09",
+      "album": {
+        "name": "Play!",
+        "url": "https://open.spotify.com/album/376W7E1CjMqgBrYZK5GTuM"
+      },
+      "artists": [
+        {
+          "name": "PEABOD",
+          "url": "https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL"
+        }
+      ],
+      "duration_ms": 195045,
+      "name": "Press Play",
+      "url": "https://open.spotify.com/track/3DNuA9Bm2EJCHjK2LbPcK2"
     },
     {
       "added_at": "2024-02-09 07:39:09",
@@ -1027,6 +1027,26 @@
       "duration_ms": 168000,
       "name": "PLAN PLAN",
       "url": "https://open.spotify.com/track/0EbDu1P2IOei9r3WlrECMp"
+    },
+    {
+      "added_at": "2024-02-09 07:39:09",
+      "album": {
+        "name": "IN MY ROOM",
+        "url": "https://open.spotify.com/album/5zGSq8TEeqTjYrwvD74bqr"
+      },
+      "artists": [
+        {
+          "name": "Marty",
+          "url": "https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK"
+        },
+        {
+          "name": "McKenna Johns",
+          "url": "https://open.spotify.com/artist/0KgwsewGeCsWjp7TFMfCWU"
+        }
+      ],
+      "duration_ms": 173788,
+      "name": "IN MY ROOM",
+      "url": "https://open.spotify.com/track/6NiEYy97bODtt7ntvUmlvp"
     },
     {
       "added_at": "2024-02-09 07:39:09",
@@ -1063,22 +1083,22 @@
     {
       "added_at": "2024-02-09 07:39:09",
       "album": {
-        "name": "IN MY ROOM",
-        "url": "https://open.spotify.com/album/5zGSq8TEeqTjYrwvD74bqr"
+        "name": "Potential",
+        "url": "https://open.spotify.com/album/1WnJo2qTW2AI9V4Dps4sS2"
       },
       "artists": [
         {
-          "name": "Marty",
-          "url": "https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK"
+          "name": "Drika Will",
+          "url": "https://open.spotify.com/artist/5VdviwU19Vq41743Wk12FB"
         },
         {
-          "name": "McKenna Johns",
-          "url": "https://open.spotify.com/artist/0KgwsewGeCsWjp7TFMfCWU"
+          "name": "Jekasole",
+          "url": "https://open.spotify.com/artist/6n0IUD1yLutKG8sWtKkjly"
         }
       ],
-      "duration_ms": 173788,
-      "name": "IN MY ROOM",
-      "url": "https://open.spotify.com/track/6NiEYy97bODtt7ntvUmlvp"
+      "duration_ms": 196578,
+      "name": "Potential",
+      "url": "https://open.spotify.com/track/1sVLkx9hkLcKNeg5GDrtuw"
     },
     {
       "added_at": "2024-02-09 07:39:09",
@@ -1107,26 +1127,6 @@
       "duration_ms": 234320,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/6KYCrxiSpcGc4OrL5tEuwb"
-    },
-    {
-      "added_at": "2024-02-09 07:39:09",
-      "album": {
-        "name": "Potential",
-        "url": "https://open.spotify.com/album/1WnJo2qTW2AI9V4Dps4sS2"
-      },
-      "artists": [
-        {
-          "name": "Drika Will",
-          "url": "https://open.spotify.com/artist/5VdviwU19Vq41743Wk12FB"
-        },
-        {
-          "name": "Jekasole",
-          "url": "https://open.spotify.com/artist/6n0IUD1yLutKG8sWtKkjly"
-        }
-      ],
-      "duration_ms": 196578,
-      "name": "Potential",
-      "url": "https://open.spotify.com/track/1sVLkx9hkLcKNeg5GDrtuw"
     },
     {
       "added_at": "2024-02-09 07:39:09",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-02-09 07:39:09",
       "album": {
-        "name": "Lines Drawn",
-        "url": "https://open.spotify.com/album/7mAuU95Sm5byNiQMx4LAQT"
-      },
-      "artists": [
-        {
-          "name": "Dee-1",
-          "url": "https://open.spotify.com/artist/5qEZVKHzNjB8k5tAT41Iox"
-        }
-      ],
-      "duration_ms": 154320,
-      "name": "Lines Drawn",
-      "url": "https://open.spotify.com/track/0ksMUGFdTv6853Jj9d2ISc"
-    },
-    {
-      "added_at": "2024-02-09 07:39:09",
-      "album": {
         "name": "KEEPER",
         "url": "https://open.spotify.com/album/6zNdGUzCMIPdyrPozkUxDV"
       },
@@ -1455,6 +1439,38 @@
     {
       "added_at": "2024-02-09 07:39:09",
       "album": {
+        "name": "Lines Drawn",
+        "url": "https://open.spotify.com/album/7mAuU95Sm5byNiQMx4LAQT"
+      },
+      "artists": [
+        {
+          "name": "Dee-1",
+          "url": "https://open.spotify.com/artist/5qEZVKHzNjB8k5tAT41Iox"
+        }
+      ],
+      "duration_ms": 154320,
+      "name": "Lines Drawn",
+      "url": "https://open.spotify.com/track/0ksMUGFdTv6853Jj9d2ISc"
+    },
+    {
+      "added_at": "2024-02-09 07:39:09",
+      "album": {
+        "name": "PANDEMONIUM",
+        "url": "https://open.spotify.com/album/0BYK4uW9rxHnZRH4BE0GJo"
+      },
+      "artists": [
+        {
+          "name": "International Show",
+          "url": "https://open.spotify.com/artist/6iqUZDrDngJ6LIHlJm5BpT"
+        }
+      ],
+      "duration_ms": 185615,
+      "name": "PANDEMONIUM",
+      "url": "https://open.spotify.com/track/69QUsdXXMl0m3K15efY2nV"
+    },
+    {
+      "added_at": "2024-02-09 07:39:09",
+      "album": {
         "name": "That Ain't It",
         "url": "https://open.spotify.com/album/4hqUjrpp4zDaZU5CNdAnBV"
       },
@@ -1475,38 +1491,6 @@
       "duration_ms": 219375,
       "name": "That Ain't It",
       "url": "https://open.spotify.com/track/7rFQRFe1bOVQweyZUBKkqe"
-    },
-    {
-      "added_at": "2024-02-09 07:39:09",
-      "album": {
-        "name": "WHATEVER HAPPENED TO KJ-52?",
-        "url": "https://open.spotify.com/album/6D1B9GHaZ4pYWpUnc5KARH"
-      },
-      "artists": [
-        {
-          "name": "KJ-52",
-          "url": "https://open.spotify.com/artist/0kSHocNBxQeP9pr25l1scP"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "BETTER THAN YOU",
-      "url": "https://open.spotify.com/track/2STMnpnc6UFhRYE0vmxBxN"
-    },
-    {
-      "added_at": "2024-02-09 07:39:09",
-      "album": {
-        "name": "PANDEMONIUM",
-        "url": "https://open.spotify.com/album/0BYK4uW9rxHnZRH4BE0GJo"
-      },
-      "artists": [
-        {
-          "name": "International Show",
-          "url": "https://open.spotify.com/artist/6iqUZDrDngJ6LIHlJm5BpT"
-        }
-      ],
-      "duration_ms": 185615,
-      "name": "PANDEMONIUM",
-      "url": "https://open.spotify.com/track/69QUsdXXMl0m3K15efY2nV"
     },
     {
       "added_at": "2024-02-09 07:39:09",
@@ -1547,6 +1531,22 @@
       "duration_ms": 198461,
       "name": "Never Leave Me",
       "url": "https://open.spotify.com/track/3MNeO34tGbdk9KdCk9CuYM"
+    },
+    {
+      "added_at": "2024-02-09 07:39:09",
+      "album": {
+        "name": "WHATEVER HAPPENED TO KJ-52?",
+        "url": "https://open.spotify.com/album/6D1B9GHaZ4pYWpUnc5KARH"
+      },
+      "artists": [
+        {
+          "name": "KJ-52",
+          "url": "https://open.spotify.com/artist/0kSHocNBxQeP9pr25l1scP"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "BETTER THAN YOU",
+      "url": "https://open.spotify.com/track/2STMnpnc6UFhRYE0vmxBxN"
     },
     {
       "added_at": "2024-02-09 07:39:09",
@@ -1627,22 +1627,22 @@
     {
       "added_at": "2024-02-09 07:39:09",
       "album": {
-        "name": "F.O.F.",
-        "url": "https://open.spotify.com/album/7f4AGyDNWYzWLRwTV2XCAh"
+        "name": "Against The Cosmic Powers",
+        "url": "https://open.spotify.com/album/0bCphzyujUHkBHvzNAsmG4"
       },
       "artists": [
         {
-          "name": "E.i. the King",
-          "url": "https://open.spotify.com/artist/3dsm2Sbz5i18pXDTjWSzZO"
+          "name": "Jaisua",
+          "url": "https://open.spotify.com/artist/7u5RAgXZgtZJ7yINfxdUc5"
         },
         {
-          "name": "Project Pat",
-          "url": "https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc"
+          "name": "EmanuelDaProphet",
+          "url": "https://open.spotify.com/artist/5P0vV6Fw0YTdumAPZSkkuC"
         }
       ],
-      "duration_ms": 148981,
-      "name": "F.O.F.",
-      "url": "https://open.spotify.com/track/0Ljju4kXFaKeAsbSDbdKdS"
+      "duration_ms": 161684,
+      "name": "Against The Cosmic Powers",
+      "url": "https://open.spotify.com/track/1vIfI3Oy2OvXG3KWkSWBHy"
     },
     {
       "added_at": "2024-02-09 07:39:09",
@@ -1683,6 +1683,26 @@
     {
       "added_at": "2024-02-09 07:39:09",
       "album": {
+        "name": "F.O.F.",
+        "url": "https://open.spotify.com/album/7f4AGyDNWYzWLRwTV2XCAh"
+      },
+      "artists": [
+        {
+          "name": "E.i. the King",
+          "url": "https://open.spotify.com/artist/3dsm2Sbz5i18pXDTjWSzZO"
+        },
+        {
+          "name": "Project Pat",
+          "url": "https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc"
+        }
+      ],
+      "duration_ms": 148981,
+      "name": "F.O.F.",
+      "url": "https://open.spotify.com/track/0Ljju4kXFaKeAsbSDbdKdS"
+    },
+    {
+      "added_at": "2024-02-09 07:39:09",
+      "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/7HpB1FzWw4SIF0KyWtpADM"
       },
@@ -1703,26 +1723,6 @@
       "duration_ms": 175135,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/2W7Nu6D9JUaBCjXPukso9f"
-    },
-    {
-      "added_at": "2024-02-09 07:39:09",
-      "album": {
-        "name": "Against The Cosmic Powers",
-        "url": "https://open.spotify.com/album/0bCphzyujUHkBHvzNAsmG4"
-      },
-      "artists": [
-        {
-          "name": "Jaisua",
-          "url": "https://open.spotify.com/artist/7u5RAgXZgtZJ7yINfxdUc5"
-        },
-        {
-          "name": "EmanuelDaProphet",
-          "url": "https://open.spotify.com/artist/5P0vV6Fw0YTdumAPZSkkuC"
-        }
-      ],
-      "duration_ms": 161684,
-      "name": "Against The Cosmic Powers",
-      "url": "https://open.spotify.com/track/1vIfI3Oy2OvXG3KWkSWBHy"
     },
     {
       "added_at": "2024-02-09 07:39:09",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2024-02-09 07:39:09",
       "album": {
-        "name": "Make It Out (From \"Bad Things Happen In Philadelphia\")",
-        "url": "https://open.spotify.com/album/6lRoiB35gfnd3zOyxO9x4X"
-      },
-      "artists": [
-        {
-          "name": "Canon",
-          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
-        }
-      ],
-      "duration_ms": 159306,
-      "name": "Make It Out (From \"Bad Things Happen In Philadelphia\")",
-      "url": "https://open.spotify.com/track/6jE9tkuIHU1Ggo2GAAure5"
-    },
-    {
-      "added_at": "2024-02-09 07:39:09",
-      "album": {
         "name": "My God",
         "url": "https://open.spotify.com/album/2Uu6O1wkoGo9XJIoHCVXLp"
       },
@@ -1879,6 +1863,22 @@
       "duration_ms": 163000,
       "name": "My God pt. 2",
       "url": "https://open.spotify.com/track/7p0xK9YIsN0kQ7DboU0P77"
+    },
+    {
+      "added_at": "2024-02-09 07:39:09",
+      "album": {
+        "name": "Make It Out (From \"Bad Things Happen In Philadelphia\")",
+        "url": "https://open.spotify.com/album/6lRoiB35gfnd3zOyxO9x4X"
+      },
+      "artists": [
+        {
+          "name": "Canon",
+          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
+        }
+      ],
+      "duration_ms": 159306,
+      "name": "Make It Out (From \"Bad Things Happen In Philadelphia\")",
+      "url": "https://open.spotify.com/track/6jE9tkuIHU1Ggo2GAAure5"
     }
   ],
   "unique_name": "The Flow",

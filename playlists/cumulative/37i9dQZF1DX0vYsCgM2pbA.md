@@ -4,7 +4,7 @@
 
 > Kick on with this mix of homegrown electronic music
 
-174 songs - 10 hr 39 min
+175 songs - 10 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,8 @@
 | [Rose Pink Cadillac \- LARRY PINK THE HUMAN Remix](https://open.spotify.com/track/2h1s9bSv7BU4vFwhWrdwSN) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8), [LARRY PINK THE HUMAN](https://open.spotify.com/artist/0EcsZYsbHS6JATYiPJhomh) | [Rose Pink Cadillac \(LARRY PINK THE HUMAN Remix\)](https://open.spotify.com/album/3AcGrv7iQnICLDrFKat8XP) | 4:10 | 2022-12-01 | 2023-05-26 |
 | [Rotary](https://open.spotify.com/track/6bbW1x1ERztI6Ze5vXAjPO) | [Subjoi](https://open.spotify.com/artist/5yP54uGWok9LAIYdH7tz5p) | [Rotary](https://open.spotify.com/album/4UYHCpndsdUFT6Tz8Iuqn2) | 6:25 | 2023-08-24 | 2023-09-01 |
 | [RUSH \(Blush\)](https://open.spotify.com/track/6pjI3CKUkIGbvSgo7TuRuu) | [Willo](https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA) | [RUSH \(Blush\)](https://open.spotify.com/album/3Mb7Mtq5mzfrHsfL8EloXp) | 4:02 | 2023-01-13 | 2023-06-02 |
-| [Say Nothing \(feat\. MAY\-A\)](https://open.spotify.com/track/424Uwmm1kNW07Ty1nOhSpl) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Say Nothing \(feat\. MAY\-A\)](https://open.spotify.com/album/3QMl37rC1ye7PKRFH7Bgz9) | 3:52 | 2022-12-01 |  |
+| [Say Nothing \(feat\. MAY\-A\)](https://open.spotify.com/track/424Uwmm1kNW07Ty1nOhSpl) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Say Nothing \(feat\. MAY\-A\)](https://open.spotify.com/album/3QMl37rC1ye7PKRFH7Bgz9) | 3:52 | 2022-12-01 | 2024-02-22 |
+| [Say Nothing \(feat\. MAY\-A\)](https://open.spotify.com/track/4uBgAIrCRf8ed02XbNKdBQ) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Palaces](https://open.spotify.com/album/6SZtno2XqSmfr5MKsNeXmC) | 3:52 | 2024-02-01 |  |
 | [Second Line](https://open.spotify.com/track/0I04jKhqWDv55sRz3LGLzh) | [Set Mo](https://open.spotify.com/artist/2rv8IrcIQiFKkdvQAgUTZj), [Sumner](https://open.spotify.com/artist/3MkvptiOUwlGj7DyNbJfrY) | [Second Line](https://open.spotify.com/album/1urJXJzqJ3JkAz8V1kiZUO) | 4:11 | 2023-02-09 | 2023-02-24 |
 | [See In Color](https://open.spotify.com/track/2RxDAFchouApF3yUwE6gxE) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs) | [See In Color](https://open.spotify.com/album/6JK0ooMtZxPQakH2bJJ5Yj) | 2:34 | 2022-12-01 |  |
 | [Shining](https://open.spotify.com/track/3fELwzVdYerUr3JuxaEa5C) | [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W), [Annalisa Fernandez](https://open.spotify.com/artist/5eGzlY642wbXxiXFTwBW0f) | [Morning Light](https://open.spotify.com/album/5mMNVDT4FcwzAVQSJDGco6) | 3:23 | 2023-08-24 | 2023-12-22 |

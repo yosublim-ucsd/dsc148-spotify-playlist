@@ -1,7 +1,7 @@
 {
-  "2024-02-21": 359142,
+  "2024-02-22": 359150,
   "date_first_scraped": "2021-12-21",
-  "description": "New & hot K-Pop ballads. (Cover:\bNUITNUIT(\ub258\ub258)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "New & hot K-Pop ballads. (Cover:\bKIMBUMSOO(\uae40\ubc94\uc218)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 (K-Pop Ballad Hits)",
   "tracks": [
     {
@@ -20758,6 +20758,24 @@
     },
     {
       "album": {
+        "name": "\uadf8 \uc0ac\ub78c, \uadf8 \uc0ac\ub791",
+        "url": "https://open.spotify.com/album/3s0zdlcbovF0Yp2JJ3x1VA"
+      },
+      "artists": [
+        {
+          "name": "Lim Jae Beum",
+          "url": "https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270889,
+      "name": "\uc0ac\ub791\ubcf4\ub2e4 \uae4a\uc740 \uc0c1\ucc98",
+      "url": "https://open.spotify.com/track/0cnx6iVwTUVLLnaTJKsZy2"
+    },
+    {
+      "album": {
         "name": "\uc0ac\ub791\uc744 \ubbff\uc5b4\uc694",
         "url": "https://open.spotify.com/album/1B2UTfGDOuENmhHGnySfrO"
       },
@@ -20975,6 +20993,24 @@
       "duration_ms": 264461,
       "name": "\uc5b4\ub514\uc120\uac00 \ub098\ucc98\ub7fc \uc774 \ub178\ub7a0 \ub4e3\uace0 \uc788\uc744 \ub108\uc5d0\uac8c",
       "url": "https://open.spotify.com/track/1WXhJfb1BXQbaxQzVdS1zD"
+    },
+    {
+      "album": {
+        "name": "Seven, <\uc9d1\uc744 \ub098\uc11c\uba70...>",
+        "url": "https://open.spotify.com/album/7DbmjsRXzvRuw5wDRSiOAy"
+      },
+      "artists": [
+        {
+          "name": "Lim Jae Beum",
+          "url": "https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242338,
+      "name": "\uc5ec\ud589\uc790",
+      "url": "https://open.spotify.com/track/1uN6oKBP57ZtfOULIiYrir"
     },
     {
       "album": {

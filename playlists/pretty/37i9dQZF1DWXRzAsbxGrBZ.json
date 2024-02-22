@@ -1,12 +1,12 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 45564,
+  "num_followers": 45646,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZjliZjNmZjlhMGUyOGY4NzFjNWY3ZDVlZjA1MWIyNzE2ODhjNjMx",
+  "snapshot_id": "MCxjYjI2ODc2Nzc1NWZmZGJhYThlYzVkZDI2YzFkYjMzM2Q5ZTk4ZWZm",
   "tracks": [
     {
       "added_at": "2024-02-15 23:00:00",
@@ -231,6 +231,26 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
+        "name": "Queen (Dan Kye Remix)",
+        "url": "https://open.spotify.com/album/5swCT2OVTQuomBylGL7f7K"
+      },
+      "artists": [
+        {
+          "name": "Muzi",
+          "url": "https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5"
+        },
+        {
+          "name": "Dan Kye",
+          "url": "https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf"
+        }
+      ],
+      "duration_ms": 327894,
+      "name": "Queen - Dan Kye Remix",
+      "url": "https://open.spotify.com/track/6R8VPBAucL2CBoW06RfBva"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
         "name": "Welcome To The Party",
         "url": "https://open.spotify.com/album/7CZsavnt6vFWPkk8KntzjO"
       },
@@ -347,22 +367,18 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Queen (Dan Kye Remix)",
-        "url": "https://open.spotify.com/album/5swCT2OVTQuomBylGL7f7K"
+        "name": "Skies Showers EP",
+        "url": "https://open.spotify.com/album/2Y36PkF781y7Tiu7ROuQR0"
       },
       "artists": [
         {
-          "name": "Muzi",
-          "url": "https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5"
-        },
-        {
-          "name": "Dan Kye",
-          "url": "https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf"
+          "name": "DJ Couza",
+          "url": "https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS"
         }
       ],
-      "duration_ms": 327894,
-      "name": "Queen - Dan Kye Remix",
-      "url": "https://open.spotify.com/track/6R8VPBAucL2CBoW06RfBva"
+      "duration_ms": 530086,
+      "name": "Stay For The Night",
+      "url": "https://open.spotify.com/track/4KrvgIX9t5QL7ulBfE9Gqt"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -379,22 +395,6 @@
       "duration_ms": 419010,
       "name": "Life",
       "url": "https://open.spotify.com/track/7LCVp1LIS1aYHlfvMUdJuD"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
-        "name": "Skies Showers EP",
-        "url": "https://open.spotify.com/album/2Y36PkF781y7Tiu7ROuQR0"
-      },
-      "artists": [
-        {
-          "name": "DJ Couza",
-          "url": "https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS"
-        }
-      ],
-      "duration_ms": 530086,
-      "name": "Stay For The Night",
-      "url": "https://open.spotify.com/track/4KrvgIX9t5QL7ulBfE9Gqt"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -451,22 +451,26 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "My Heartbeat For You",
-        "url": "https://open.spotify.com/album/34WV5aBk0og7jEVj5k5jF6"
+        "name": "Ingoma",
+        "url": "https://open.spotify.com/album/7FkJnT8Ve5hYmzVya06wF0"
       },
       "artists": [
         {
-          "name": "RoneeDeep",
-          "url": "https://open.spotify.com/artist/2bcM94EIlBz4YUVfCTEkeO"
+          "name": "DJ Couza",
+          "url": "https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS"
         },
         {
-          "name": "Zawadi",
-          "url": "https://open.spotify.com/artist/0qdTYFtnAgZVgZqKMX3jnQ"
+          "name": "Mr.Cantata",
+          "url": "https://open.spotify.com/artist/3r1o9eEvpXFvToBB6Y5GR0"
+        },
+        {
+          "name": "Bikie",
+          "url": "https://open.spotify.com/artist/4LwtgBxKUoIWPWOCdOA9yu"
         }
       ],
-      "duration_ms": 332000,
-      "name": "My Heartbeat For You",
-      "url": "https://open.spotify.com/track/4L8xFcF5arDJURNdwfOULs"
+      "duration_ms": 430538,
+      "name": "Ingoma - Original Mix",
+      "url": "https://open.spotify.com/track/7oyMweIaDux964WgeejCf7"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -491,6 +495,26 @@
       "duration_ms": 400103,
       "name": "Winter Nights - BlaQ Afro-Kay Remix",
       "url": "https://open.spotify.com/track/0hOOaM11kAyfUnJgDGaD3T"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "My Heartbeat For You",
+        "url": "https://open.spotify.com/album/34WV5aBk0og7jEVj5k5jF6"
+      },
+      "artists": [
+        {
+          "name": "RoneeDeep",
+          "url": "https://open.spotify.com/artist/2bcM94EIlBz4YUVfCTEkeO"
+        },
+        {
+          "name": "Zawadi",
+          "url": "https://open.spotify.com/artist/0qdTYFtnAgZVgZqKMX3jnQ"
+        }
+      ],
+      "duration_ms": 332000,
+      "name": "My Heartbeat For You",
+      "url": "https://open.spotify.com/track/4L8xFcF5arDJURNdwfOULs"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -583,30 +607,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Ingoma",
-        "url": "https://open.spotify.com/album/7FkJnT8Ve5hYmzVya06wF0"
-      },
-      "artists": [
-        {
-          "name": "DJ Couza",
-          "url": "https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS"
-        },
-        {
-          "name": "Mr.Cantata",
-          "url": "https://open.spotify.com/artist/3r1o9eEvpXFvToBB6Y5GR0"
-        },
-        {
-          "name": "Bikie",
-          "url": "https://open.spotify.com/artist/4LwtgBxKUoIWPWOCdOA9yu"
-        }
-      ],
-      "duration_ms": 430538,
-      "name": "Ingoma - Original Mix",
-      "url": "https://open.spotify.com/track/7oyMweIaDux964WgeejCf7"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "OVGSREPUBLIC",
         "url": "https://open.spotify.com/album/6wHFSpUGY7TYoMH36tJsaU"
       },
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Dafrotone",
-        "url": "https://open.spotify.com/album/5zNeFm1L1C6UALDQqnRg9N"
-      },
-      "artists": [
-        {
-          "name": "Dafro",
-          "url": "https://open.spotify.com/artist/6gNmmm0Dyt4geB8W2Z4VXL"
-        }
-      ],
-      "duration_ms": 453453,
-      "name": "Four Lessons",
-      "url": "https://open.spotify.com/track/3RGbg9ENcRIYFGXpzLr8Xe"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "OOO: AFRO",
         "url": "https://open.spotify.com/album/4YNw1RfxL1PBwTcx0D0JCx"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 466467,
       "name": "Don't 4get To Call Me",
       "url": "https://open.spotify.com/track/289Qw6pCjcz8FnaPNGLuvP"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Dafrotone",
+        "url": "https://open.spotify.com/album/5zNeFm1L1C6UALDQqnRg9N"
+      },
+      "artists": [
+        {
+          "name": "Dafro",
+          "url": "https://open.spotify.com/artist/6gNmmm0Dyt4geB8W2Z4VXL"
+        }
+      ],
+      "duration_ms": 453453,
+      "name": "Four Lessons",
+      "url": "https://open.spotify.com/track/3RGbg9ENcRIYFGXpzLr8Xe"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -719,6 +719,22 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
+        "name": "Fictions",
+        "url": "https://open.spotify.com/album/6hAZKyxzOLyf4eDPXUgmqH"
+      },
+      "artists": [
+        {
+          "name": "InQfive",
+          "url": "https://open.spotify.com/artist/7MlmAincLcFGKs2gyofE1a"
+        }
+      ],
+      "duration_ms": 375431,
+      "name": "Before Everything",
+      "url": "https://open.spotify.com/track/1RziJp45zr6MTOS9lSSJYg"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
         "name": "See the Light",
         "url": "https://open.spotify.com/album/4tK8aWdruyxD2H472JnryA"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 405420,
       "name": "See the Light",
       "url": "https://open.spotify.com/track/55kVPlB6novs0Iqr4EGUKu"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
-        "name": "Fictions",
-        "url": "https://open.spotify.com/album/6hAZKyxzOLyf4eDPXUgmqH"
-      },
-      "artists": [
-        {
-          "name": "InQfive",
-          "url": "https://open.spotify.com/artist/7MlmAincLcFGKs2gyofE1a"
-        }
-      ],
-      "duration_ms": 375431,
-      "name": "Before Everything",
-      "url": "https://open.spotify.com/track/1RziJp45zr6MTOS9lSSJYg"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "We Gonna Fight For Music",
-        "url": "https://open.spotify.com/album/5iB4ERgOJHSxDyhLUKIKCb"
-      },
-      "artists": [
-        {
-          "name": "Echo Deep",
-          "url": "https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU"
-        }
-      ],
-      "duration_ms": 521744,
-      "name": "We Gonna Fight For Music",
-      "url": "https://open.spotify.com/track/0b59ktQ0M328llm4xZlnsp"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "Little Me",
         "url": "https://open.spotify.com/album/6GbR420ApY1NvLE1PdafQn"
       },
@@ -919,6 +903,22 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
+        "name": "We Gonna Fight For Music",
+        "url": "https://open.spotify.com/album/5iB4ERgOJHSxDyhLUKIKCb"
+      },
+      "artists": [
+        {
+          "name": "Echo Deep",
+          "url": "https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU"
+        }
+      ],
+      "duration_ms": 521744,
+      "name": "We Gonna Fight For Music",
+      "url": "https://open.spotify.com/track/0b59ktQ0M328llm4xZlnsp"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
         "name": "Time to Dance",
         "url": "https://open.spotify.com/album/0zP0o4TYEjt3vM9u3SNEXV"
       },
@@ -935,6 +935,26 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
+        "name": "Ksasenjalo (Re-Imagined)",
+        "url": "https://open.spotify.com/album/0oKKnnM9Glh0iHfiCwEUZZ"
+      },
+      "artists": [
+        {
+          "name": "Zano",
+          "url": "https://open.spotify.com/artist/44wIq4IVr26PvWKBWJ42vq"
+        },
+        {
+          "name": "Exte C",
+          "url": "https://open.spotify.com/artist/6xUGu0QxJfllDHmB9Pyc23"
+        }
+      ],
+      "duration_ms": 401228,
+      "name": "Ksasenjalo (Exte C Remix)",
+      "url": "https://open.spotify.com/track/1PnAtWScmc0YQn8UbJW1NN"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
         "name": "Ivar the Boneless",
         "url": "https://open.spotify.com/album/00vV7Vovl8G5eu9B7f896I"
       },
@@ -947,26 +967,6 @@
       "duration_ms": 404480,
       "name": "Ivar the Boneless",
       "url": "https://open.spotify.com/track/5jEL4pW79jdIz6VnqDaCjm"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
-        "name": "From Blak With Love",
-        "url": "https://open.spotify.com/album/7kZYbWhSIz8L47LpjRE57X"
-      },
-      "artists": [
-        {
-          "name": "C-Blak",
-          "url": "https://open.spotify.com/artist/4ipkannhwnGj4uU4q5UUS5"
-        },
-        {
-          "name": "Kuthathu",
-          "url": "https://open.spotify.com/artist/29kaBvTouBKn6KenUUM3fh"
-        }
-      ],
-      "duration_ms": 403998,
-      "name": "Never Break Me (feat. Kuthathu)",
-      "url": "https://open.spotify.com/track/2xR7tEDcjcQEcLSEtPC7zF"
     }
   ],
   "unique_name": "Deep House Session",

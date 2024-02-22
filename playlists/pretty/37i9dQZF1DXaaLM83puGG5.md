@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaLM83puGG5.md) - [plain]
 
 > Keeping the party going with <a href="https://www.instagram.com/sweetone.jpg/">Sweet One!</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 443,048 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 443,176 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaLM83puGG5.md) - [plain]
 | 49 | [Getting Late](https://open.spotify.com/track/0khnsS3vcqT6qngEhZCk4c) | [Floetry](https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM) | [Floetic](https://open.spotify.com/album/37dLqaW3KP18Aeqesq0Exi) | 6:46 |
 | 50 | [Falsetto](https://open.spotify.com/track/2P1e3xpjDhYFqOFeu8IWzS) | [The\-Dream](https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz) | [Love/Hate](https://open.spotify.com/album/5yZReyaWQzR6jvaw4OBxzV) | 4:31 |
 
-Snapshot ID: `MCxmM2IwM2FjMzI5ZDdjYmMyYzk5YzM4MDI3MjgxZGE3NTljNDVkZmMy`
+Snapshot ID: `MCw1ODdmOTRkMDFhYWI4OTAzM2Y4ZDUyNDI0ZjA1MWM2Y2I2N2FhMWY3`

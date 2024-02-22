@@ -1,12 +1,12 @@
 {
   "description": "An essential list of recent hits of SoGo.  Cover:  <a href=\"https://open.spotify.com/artist/2KqWwLQj9ShX6taqgheFxb?si=t4i4AV79QiSGjnj0F5J2cA\">The Browns</a>",
-  "num_followers": 12932,
+  "num_followers": 12946,
   "original_name": "Streets Of Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYmQxMjcxOGJmMWQxZTljYTAwYzg3ZTZkYjhjOGFlNTkxMDJlYjgy",
+  "snapshot_id": "MCw1ZjFhNDY5NTg0OWFhOTMyNDAwNWFkZmY0NTdhYjNhYWY2N2YyOGZl",
   "tracks": [
     {
       "added_at": "2023-04-14 06:27:38",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Thinking 'Bout Home (Live)",
-        "url": "https://open.spotify.com/album/2JsF6YxWsHttLPXvlr8940"
-      },
-      "artists": [
-        {
-          "name": "The Talleys",
-          "url": "https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC"
-        }
-      ],
-      "duration_ms": 245825,
-      "name": "Thinking 'Bout Home - Live",
-      "url": "https://open.spotify.com/track/6xxUWn3zrgrMieEFUZRR9Z"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "A New Chapter",
         "url": "https://open.spotify.com/album/5uAhKPfP2Iy5lCgxLUQEpN"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 198493,
       "name": "Steppin' out in Faith",
       "url": "https://open.spotify.com/track/3oD8RRGLXHwk4vEMkbBo9k"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Thinking 'Bout Home (Live)",
+        "url": "https://open.spotify.com/album/2JsF6YxWsHttLPXvlr8940"
+      },
+      "artists": [
+        {
+          "name": "The Talleys",
+          "url": "https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC"
+        }
+      ],
+      "duration_ms": 245825,
+      "name": "Thinking 'Bout Home - Live",
+      "url": "https://open.spotify.com/track/6xxUWn3zrgrMieEFUZRR9Z"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "The Stories We Tell",
-        "url": "https://open.spotify.com/album/4GJxoLRAleQBeEb6CSR2oI"
-      },
-      "artists": [
-        {
-          "name": "Down East Boys",
-          "url": "https://open.spotify.com/artist/0Zg0qh2ZQsBDm68196Ofln"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "Good in the Good Times",
-      "url": "https://open.spotify.com/track/6m6CBaVU3KKztFkmz28m1I"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Give Me Jesus",
         "url": "https://open.spotify.com/album/2AWZoRFVr5aZTl374dbufg"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 197760,
       "name": "Give Me Jesus",
       "url": "https://open.spotify.com/track/1A0hWOgHJZhfmU0Jz27XsB"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "The Stories We Tell",
+        "url": "https://open.spotify.com/album/4GJxoLRAleQBeEb6CSR2oI"
+      },
+      "artists": [
+        {
+          "name": "Down East Boys",
+          "url": "https://open.spotify.com/artist/0Zg0qh2ZQsBDm68196Ofln"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "Good in the Good Times",
+      "url": "https://open.spotify.com/track/6m6CBaVU3KKztFkmz28m1I"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "In a Moment",
-        "url": "https://open.spotify.com/album/1hXk9gKQzIS6p9lnONUxpe"
-      },
-      "artists": [
-        {
-          "name": "Hebron Road",
-          "url": "https://open.spotify.com/artist/4IPpLxQQLSf3ANpz0Q7Y51"
-        }
-      ],
-      "duration_ms": 306462,
-      "name": "Every Other Throne",
-      "url": "https://open.spotify.com/track/4RLDBwWBB3amq8o48Zycig"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "McKamey Legacy",
         "url": "https://open.spotify.com/album/6N5d9pij1C406vQ91GptiS"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 157000,
       "name": "God is Still Good",
       "url": "https://open.spotify.com/track/7M5ZQSYwPKpzlreNgzcyF7"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "In a Moment",
+        "url": "https://open.spotify.com/album/1hXk9gKQzIS6p9lnONUxpe"
+      },
+      "artists": [
+        {
+          "name": "Hebron Road",
+          "url": "https://open.spotify.com/artist/4IPpLxQQLSf3ANpz0Q7Y51"
+        }
+      ],
+      "duration_ms": 306462,
+      "name": "Every Other Throne",
+      "url": "https://open.spotify.com/track/4RLDBwWBB3amq8o48Zycig"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
+        "name": "Not For Long",
+        "url": "https://open.spotify.com/album/3o2K93AUXYP6ksJabFbM62"
+      },
+      "artists": [
+        {
+          "name": "The Guardians",
+          "url": "https://open.spotify.com/artist/1BQ4qhmBKCLXppZm7LXtYo"
+        }
+      ],
+      "duration_ms": 230013,
+      "name": "Not For Long",
+      "url": "https://open.spotify.com/track/2x5wmviqv1wC7rCd8gL1sQ"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
         "name": "Music To Your Ears",
         "url": "https://open.spotify.com/album/562jKxonJvoxeSRUj8AQfh"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 247500,
       "name": "Let the Rain Wash Your Troubles Away",
       "url": "https://open.spotify.com/track/3RWZ0NduK2C8Mn8EpyE8YR"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
-        "name": "Not For Long",
-        "url": "https://open.spotify.com/album/3o2K93AUXYP6ksJabFbM62"
-      },
-      "artists": [
-        {
-          "name": "The Guardians",
-          "url": "https://open.spotify.com/artist/1BQ4qhmBKCLXppZm7LXtYo"
-        }
-      ],
-      "duration_ms": 230013,
-      "name": "Not For Long",
-      "url": "https://open.spotify.com/track/2x5wmviqv1wC7rCd8gL1sQ"
     },
     {
       "added_at": "2023-04-14 06:27:38",

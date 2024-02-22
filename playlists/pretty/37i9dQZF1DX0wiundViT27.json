@@ -1,12 +1,12 @@
 {
   "description": "A dose of high-energy rock & alt songs for your workout.",
-  "num_followers": 612983,
+  "num_followers": 613006,
   "original_name": "Rock Me Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZTMwYzRiNTM5ZTc5ZTE1MjdiZGFhN2RmMjVjN2ZlM2Q3YWE5MTU4",
+  "snapshot_id": "MCxiNzQ5NDk2YzYyZTgxYzlkOTM5NGZlYTg1MTJiNGM0ZjlhZjFmY2Yy",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -459,18 +459,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "DiE4u",
-        "url": "https://open.spotify.com/album/4L4TlrXB94790rqWBprweP"
+        "name": "Bleed",
+        "url": "https://open.spotify.com/album/1LcLPYd5lesuWO3QWHETBq"
       },
       "artists": [
         {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+          "name": "Connor Kauffman",
+          "url": "https://open.spotify.com/artist/0bFEOKy3T1knA0g7ZaPnHe"
         }
       ],
-      "duration_ms": 207141,
-      "name": "DiE4u",
-      "url": "https://open.spotify.com/track/2gT72HL4Y84K2Mle3miAMJ"
+      "duration_ms": 145454,
+      "name": "Bleed",
+      "url": "https://open.spotify.com/track/4vtzbijWEew1JlxamzNUBE"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -491,18 +491,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Bleed",
-        "url": "https://open.spotify.com/album/1LcLPYd5lesuWO3QWHETBq"
+        "name": "DiE4u",
+        "url": "https://open.spotify.com/album/4L4TlrXB94790rqWBprweP"
       },
       "artists": [
         {
-          "name": "Connor Kauffman",
-          "url": "https://open.spotify.com/artist/0bFEOKy3T1knA0g7ZaPnHe"
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         }
       ],
-      "duration_ms": 145454,
-      "name": "Bleed",
-      "url": "https://open.spotify.com/track/4vtzbijWEew1JlxamzNUBE"
+      "duration_ms": 207141,
+      "name": "DiE4u",
+      "url": "https://open.spotify.com/track/2gT72HL4Y84K2Mle3miAMJ"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -587,6 +587,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Costello Music",
+        "url": "https://open.spotify.com/album/6R6pjR9ocMYuqSuNx5e4mg"
+      },
+      "artists": [
+        {
+          "name": "The Fratellis",
+          "url": "https://open.spotify.com/artist/3M4ThdJR28z9eSMcQHAZ5G"
+        }
+      ],
+      "duration_ms": 215173,
+      "name": "Chelsea Dagger",
+      "url": "https://open.spotify.com/track/3ItzRpwvKtkDSNdRSjXu7Z"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Dancer",
         "url": "https://open.spotify.com/album/6AGtvMucIA2IRrLpVIP6ZR"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 189493,
       "name": "Dancer",
       "url": "https://open.spotify.com/track/2F7dO7OCqrxff66epaNPEU"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Costello Music",
-        "url": "https://open.spotify.com/album/6R6pjR9ocMYuqSuNx5e4mg"
-      },
-      "artists": [
-        {
-          "name": "The Fratellis",
-          "url": "https://open.spotify.com/artist/3M4ThdJR28z9eSMcQHAZ5G"
-        }
-      ],
-      "duration_ms": 215173,
-      "name": "Chelsea Dagger",
-      "url": "https://open.spotify.com/track/3ItzRpwvKtkDSNdRSjXu7Z"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -655,38 +655,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Overcome",
-        "url": "https://open.spotify.com/album/24nlaQLa3nx87nBaS9j35W"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 214723,
-      "name": "Overcome",
-      "url": "https://open.spotify.com/track/18q5OmlDTbSm8w9J1i17dT"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Dilemma",
-        "url": "https://open.spotify.com/album/0yYaqnTfyp9wlwJxRw1JFk"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 198324,
-      "name": "Dilemma",
-      "url": "https://open.spotify.com/track/6Gn1Gi5zfCgSiTHikrDjni"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "California (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0fmq1b2T3bjRyTsigDWUP6"
       },
@@ -715,6 +683,38 @@
       "duration_ms": 222146,
       "name": "Run For Cover",
       "url": "https://open.spotify.com/track/5NAiPIEzxAexFE3ucV18Q8"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Overcome",
+        "url": "https://open.spotify.com/album/24nlaQLa3nx87nBaS9j35W"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 214723,
+      "name": "Overcome",
+      "url": "https://open.spotify.com/track/18q5OmlDTbSm8w9J1i17dT"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Dilemma",
+        "url": "https://open.spotify.com/album/0yYaqnTfyp9wlwJxRw1JFk"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 198324,
+      "name": "Dilemma",
+      "url": "https://open.spotify.com/track/6Gn1Gi5zfCgSiTHikrDjni"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Welcome to the DCC",
-        "url": "https://open.spotify.com/album/5Os5j39zKEfpvKL11TtfYE"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 198798,
-      "name": "Welcome to the DCC",
-      "url": "https://open.spotify.com/track/0ZImVxesVZIydOnwTMSWOK"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Loved You A Little (with Taking Back Sunday and Charlotte Sands)",
         "url": "https://open.spotify.com/album/2tgx0FJj6dtx3GzTm1Jbbd"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 191124,
       "name": "Story Of My Life (feat. Trippie Redd)",
       "url": "https://open.spotify.com/track/1g7j5AxiNKTGjryhFIlAsA"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Welcome to the DCC",
+        "url": "https://open.spotify.com/album/5Os5j39zKEfpvKL11TtfYE"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 198798,
+      "name": "Welcome to the DCC",
+      "url": "https://open.spotify.com/track/0ZImVxesVZIydOnwTMSWOK"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -879,18 +879,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "hotline",
-        "url": "https://open.spotify.com/album/4UkjOqrpHBqN3n3WgqsR8f"
+        "name": "Here\u2019s To Us",
+        "url": "https://open.spotify.com/album/4tSC3VDDSQetWw8s4GcreS"
       },
       "artists": [
         {
-          "name": "bby",
-          "url": "https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM"
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
         }
       ],
-      "duration_ms": 137404,
-      "name": "hotline",
-      "url": "https://open.spotify.com/track/0ZUZmQiHvcHJY3375xsk3F"
+      "duration_ms": 198022,
+      "name": "Not The 1975",
+      "url": "https://open.spotify.com/track/4FjcgEhcOTostSAHQ0YYHj"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -911,18 +911,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Here\u2019s To Us",
-        "url": "https://open.spotify.com/album/4tSC3VDDSQetWw8s4GcreS"
+        "name": "Planet Zero",
+        "url": "https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw"
       },
       "artists": [
         {
-          "name": "Knox",
-          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
         }
       ],
-      "duration_ms": 198022,
-      "name": "Not The 1975",
-      "url": "https://open.spotify.com/track/4FjcgEhcOTostSAHQ0YYHj"
+      "duration_ms": 222738,
+      "name": "Planet Zero",
+      "url": "https://open.spotify.com/track/7g2LuO2QFplZfsLKRFiVHl"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -943,18 +943,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Planet Zero",
-        "url": "https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw"
+        "name": "hotline",
+        "url": "https://open.spotify.com/album/4UkjOqrpHBqN3n3WgqsR8f"
       },
       "artists": [
         {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+          "name": "bby",
+          "url": "https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM"
         }
       ],
-      "duration_ms": 222738,
-      "name": "Planet Zero",
-      "url": "https://open.spotify.com/track/7g2LuO2QFplZfsLKRFiVHl"
+      "duration_ms": 137404,
+      "name": "hotline",
+      "url": "https://open.spotify.com/track/0ZUZmQiHvcHJY3375xsk3F"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "only wanna dance",
+        "url": "https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm"
+      },
+      "artists": [
+        {
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+        }
+      ],
+      "duration_ms": 144391,
+      "name": "only wanna dance",
+      "url": "https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Rescued",
         "url": "https://open.spotify.com/album/74RB6Y9T2ubqGah14jueyO"
       },
@@ -1239,18 +1255,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "only wanna dance",
-        "url": "https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm"
+        "name": "ONE MORE TIME / MORE THAN YOU KNOW",
+        "url": "https://open.spotify.com/album/12shcf6jYi3XhXxAL7U6N9"
       },
       "artists": [
         {
-          "name": "almost monday",
-          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 144391,
-      "name": "only wanna dance",
-      "url": "https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA"
+      "duration_ms": 217187,
+      "name": "MORE THAN YOU KNOW",
+      "url": "https://open.spotify.com/track/6apKpbDebOi4RXhmcgOCNz"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1283,22 +1299,6 @@
       "duration_ms": 172714,
       "name": "What Am I Missing?",
       "url": "https://open.spotify.com/track/61noMxtCbfnzewtJmUIQ13"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "ONE MORE TIME / MORE THAN YOU KNOW",
-        "url": "https://open.spotify.com/album/12shcf6jYi3XhXxAL7U6N9"
-      },
-      "artists": [
-        {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
-        }
-      ],
-      "duration_ms": 217187,
-      "name": "MORE THAN YOU KNOW",
-      "url": "https://open.spotify.com/track/6apKpbDebOi4RXhmcgOCNz"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Mister Asylum",
-        "url": "https://open.spotify.com/album/7wGLeeJt18EBjc181FP2cM"
-      },
-      "artists": [
-        {
-          "name": "Highly Suspect",
-          "url": "https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg"
-        }
-      ],
-      "duration_ms": 234093,
-      "name": "Bloodfeather",
-      "url": "https://open.spotify.com/track/66Avcq6c51vcMGXLzHH5d7"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Angel Miners & The Lightning Riders",
         "url": "https://open.spotify.com/album/1rS0FYRCKha4gPkFCVY56j"
       },
@@ -1407,22 +1391,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Love From The Other Side",
-        "url": "https://open.spotify.com/album/6zhsE8Z0CfH68FSjxJn0dD"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 247320,
-      "name": "Love From The Other Side - Edit",
-      "url": "https://open.spotify.com/track/7Gm1XwQL5q72SX76nxuXtW"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Never Going Under",
         "url": "https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj"
       },
@@ -1435,6 +1403,38 @@
       "duration_ms": 134252,
       "name": "Never Going Under",
       "url": "https://open.spotify.com/track/36GQWaICkYgxYD8I9gJOYJ"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Mister Asylum",
+        "url": "https://open.spotify.com/album/7wGLeeJt18EBjc181FP2cM"
+      },
+      "artists": [
+        {
+          "name": "Highly Suspect",
+          "url": "https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg"
+        }
+      ],
+      "duration_ms": 234093,
+      "name": "Bloodfeather",
+      "url": "https://open.spotify.com/track/66Avcq6c51vcMGXLzHH5d7"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Love From The Other Side",
+        "url": "https://open.spotify.com/album/6zhsE8Z0CfH68FSjxJn0dD"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 247320,
+      "name": "Love From The Other Side - Edit",
+      "url": "https://open.spotify.com/track/7Gm1XwQL5q72SX76nxuXtW"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Everything's Electric",
-        "url": "https://open.spotify.com/album/2Dqayfhl6Eow6nsHBXTXM3"
-      },
-      "artists": [
-        {
-          "name": "Liam Gallagher",
-          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
-        }
-      ],
-      "duration_ms": 216859,
-      "name": "Everything's Electric",
-      "url": "https://open.spotify.com/track/63JU4kHsgytIKkSM4tedme"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Sleepwalking",
         "url": "https://open.spotify.com/album/4bI5LF5zauGsBIL9z8mLyl"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 187140,
       "name": "Sleepwalking",
       "url": "https://open.spotify.com/track/4SOtTsuFYYlkOOvXMbroUv"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Everything's Electric",
+        "url": "https://open.spotify.com/album/2Dqayfhl6Eow6nsHBXTXM3"
+      },
+      "artists": [
+        {
+          "name": "Liam Gallagher",
+          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
+        }
+      ],
+      "duration_ms": 216859,
+      "name": "Everything's Electric",
+      "url": "https://open.spotify.com/track/63JU4kHsgytIKkSM4tedme"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "We Need More Bricks",
-        "url": "https://open.spotify.com/album/4f5JujhyhXEY2XByzlfrvK"
-      },
-      "artists": [
-        {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
-        }
-      ],
-      "duration_ms": 228600,
-      "name": "We Need More Bricks",
-      "url": "https://open.spotify.com/track/5F3HNBitIp7FkxhBl8SNgW"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Black Box",
         "url": "https://open.spotify.com/album/6mvff3ZBKcQlXaZrTT0fs5"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 212621,
       "name": "Like A Drug",
       "url": "https://open.spotify.com/track/0eW2eEXedTyfGXZkuppSPh"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "We Need More Bricks",
+        "url": "https://open.spotify.com/album/4f5JujhyhXEY2XByzlfrvK"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "duration_ms": 228600,
+      "name": "We Need More Bricks",
+      "url": "https://open.spotify.com/track/5F3HNBitIp7FkxhBl8SNgW"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Some Of It Was True",
-        "url": "https://open.spotify.com/album/1haMGMoO3UjtVB1l3BHMFZ"
-      },
-      "artists": [
-        {
-          "name": "The Menzingers",
-          "url": "https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ"
-        }
-      ],
-      "duration_ms": 192007,
-      "name": "Hope is a Dangerous Little Thing",
-      "url": "https://open.spotify.com/track/089lW2lTDsHUDsNlzim7Qc"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Pushing Daisies (Oh My My)",
         "url": "https://open.spotify.com/album/0tQhPUgXN0N0fB8aKTZndT"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 177000,
       "name": "Pushing Daisies (Oh My My)",
       "url": "https://open.spotify.com/track/31HQXEZFHCi93k44JoStvb"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Some Of It Was True",
+        "url": "https://open.spotify.com/album/1haMGMoO3UjtVB1l3BHMFZ"
+      },
+      "artists": [
+        {
+          "name": "The Menzingers",
+          "url": "https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ"
+        }
+      ],
+      "duration_ms": 192007,
+      "name": "Hope is a Dangerous Little Thing",
+      "url": "https://open.spotify.com/track/089lW2lTDsHUDsNlzim7Qc"
     }
   ],
   "unique_name": "Rock Me Up",

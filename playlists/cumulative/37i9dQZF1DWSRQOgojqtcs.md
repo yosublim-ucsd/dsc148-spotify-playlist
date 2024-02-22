@@ -4,7 +4,7 @@
 
 > Love, sex, and heartbreak\. Listen to the official playlist for Heartbreak High, now on Netflix.
 
-145 songs - 8 hr 58 min
+147 songs - 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,8 @@
 | [GET ME OUT](https://open.spotify.com/track/5R8xUhYG8vJnFUX0TVfKRj) | [RBI](https://open.spotify.com/artist/1W274H48h2fREZkw3JoH5p) | [GET ME OUT / TAKE IT FOR ME ON THE FLOOR](https://open.spotify.com/album/5N9dpTKzTP7lHmutcCB7Gh) | 7:04 | 2022-09-14 |  |
 | [Gold Chains](https://open.spotify.com/track/07yIuXSdR31mHU6aR40pcV) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Smiling with No Teeth](https://open.spotify.com/album/4j7wEZWND7GIh918rLgYHQ) | 3:38 | 2022-09-14 |  |
 | [Good Times](https://open.spotify.com/track/0XzbAAWtu0zx6bnDbBUcOs) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Good Times + Simmer Down](https://open.spotify.com/album/3hie3PiFhq6i06fuptTaZ0) | 2:50 | 2022-09-14 | 2022-10-13 |
-| [Good Times](https://open.spotify.com/track/7yicVvWnecC6g7POm1mJPb) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Good Times + Simmer Down](https://open.spotify.com/album/3sI8iJNJwOWEUXdEZTVtvi) | 2:50 | 2022-09-15 |  |
+| [Good Times](https://open.spotify.com/track/1DXljcYE8iyuwSUbNCBMJC) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Good Times + Simmer Down](https://open.spotify.com/album/7fdKwBLm5Nf6kDarFn5QAQ) | 2:50 | 2022-09-15 |  |
+| [Good Times](https://open.spotify.com/track/7yicVvWnecC6g7POm1mJPb) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Good Times + Simmer Down](https://open.spotify.com/album/3sI8iJNJwOWEUXdEZTVtvi) | 2:50 | 2022-09-15 | 2024-02-22 |
 | [H.G.S](https://open.spotify.com/track/12rSnesdLIZfCzDDk9ZEef) | [Arona Mane](https://open.spotify.com/artist/70yqFQVIWhHa89ELLSB69B), [Ms\. Thandi](https://open.spotify.com/artist/0puWDWtG4G9xAJJ6JiZEfA) | [H.G.S](https://open.spotify.com/album/5znkcA0rAq6SIn0OaqKlhP) | 3:01 | 2022-09-14 |  |
 | [Higher](https://open.spotify.com/track/7MUhRZD1UNEYk4PPq2wSw3) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Higher](https://open.spotify.com/album/5bNltaFAuWA5gyTTCamcve) | 3:14 | 2022-09-14 |  |
 | [Horseplay](https://open.spotify.com/track/32NHD872Tc7Mh9upntoWjN) | [The Living Eyes](https://open.spotify.com/artist/4Z4RMwDmV4PnKo93AneaqA) | [Modern Living](https://open.spotify.com/album/6H2WvFXkzTqkTLeCdIjsMf) | 2:05 | 2022-09-14 |  |
@@ -116,7 +117,8 @@
 | [Raw Vision](https://open.spotify.com/track/2XudKldptC3tzth9spCv9W) | [NO ZU](https://open.spotify.com/artist/0ASJYABL9IBmNhXFXDuV5P) | [Afterlife](https://open.spotify.com/album/7pvEbQlyjML8YHH5bTICgT) | 7:03 | 2022-09-15 |  |
 | [Real Luv](https://open.spotify.com/track/4N1Vch91SH2b2xrseGfHTy) | [Qendresa](https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI) | [Midnight Request Line](https://open.spotify.com/album/6EjS2SQlbFfvqL0MGVNHbD) | 3:35 | 2022-09-14 |  |
 | [Rude Gyal](https://open.spotify.com/track/0FsOI2cYxB2a3dCKUu0y6q) | [Adrian Swish](https://open.spotify.com/artist/7BVbyQxv5u5jJ0lYjoElYD), [Mkada](https://open.spotify.com/artist/6f5pg2rPhGYYmZJkhvZrNf), [Slicker 1](https://open.spotify.com/artist/3zijNhgLVtJXWto8klJc6O) | [Already on Iii: Millennium Music](https://open.spotify.com/album/0BKKv32T5Mj7LxknOuNG1R) | 3:12 | 2022-09-14 |  |
-| [Say Nothing \(feat\. MAY\-A\)](https://open.spotify.com/track/424Uwmm1kNW07Ty1nOhSpl) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Say Nothing \(feat\. MAY\-A\)](https://open.spotify.com/album/3QMl37rC1ye7PKRFH7Bgz9) | 3:52 | 2022-09-14 |  |
+| [Say Nothing \(feat\. MAY\-A\)](https://open.spotify.com/track/424Uwmm1kNW07Ty1nOhSpl) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Say Nothing \(feat\. MAY\-A\)](https://open.spotify.com/album/3QMl37rC1ye7PKRFH7Bgz9) | 3:52 | 2022-09-14 | 2024-02-22 |
+| [Say Nothing \(feat\. MAY\-A\)](https://open.spotify.com/track/4uBgAIrCRf8ed02XbNKdBQ) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Palaces](https://open.spotify.com/album/6SZtno2XqSmfr5MKsNeXmC) | 3:52 | 2022-09-15 |  |
 | [SCREAM](https://open.spotify.com/track/0i7AGJG9DX0vI1w798IVKZ) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab), [潘PAN](https://open.spotify.com/artist/3gRbjzXPan9DOBEMmTjxVo) | [Art Angels](https://open.spotify.com/album/7J84ixPVFehy6FcLk8rhk3) | 2:20 | 2022-09-14 |  |
 | [Self Care](https://open.spotify.com/track/4LkSxKl6g9EQWn63jCYSmT) | [Miiesha](https://open.spotify.com/artist/1ehGGQnc7E28DNwhvnFuyL) | [Nyaaringu](https://open.spotify.com/album/4FPYLkPm1ri9vaxdGAOMuR) | 3:30 | 2022-09-14 |  |
 | [Shelf Life](https://open.spotify.com/track/4iGKYlDQN4mClpQWAySTyE) | [Northeast Party House](https://open.spotify.com/artist/500YRyClzP6Z7HtWd1BIje) | [Shelf Life](https://open.spotify.com/album/1MuRNoPRyJ5ylxa7h3D8Nm) | 4:51 | 2022-09-14 |  |

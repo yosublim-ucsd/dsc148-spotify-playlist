@@ -1,5 +1,5 @@
 {
-  "2024-02-21": 12891,
+  "2024-02-22": 12900,
   "date_first_scraped": "2022-08-02",
   "description": "<a href=\"spotify:artist:4Jh6PxSFH7CrZrQpDivlYf\">Amine K</a>'s favorite tracks. Updated regularly. Curated by Amine K. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "Amine K's track IDs",
@@ -95,6 +95,24 @@
       "duration_ms": 245669,
       "name": "Again (DJ Dep Remix)",
       "url": "https://open.spotify.com/track/7zZEYvl5ubalfjuNeZXFAm"
+    },
+    {
+      "album": {
+        "name": "Ambience",
+        "url": "https://open.spotify.com/album/1IhGeSMri6pJVDnqtgpRhn"
+      },
+      "artists": [
+        {
+          "name": "Mel\u00e9",
+          "url": "https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330240,
+      "name": "Ambience",
+      "url": "https://open.spotify.com/track/3u50rVvgy1hw1DOxPZOxxD"
     },
     {
       "album": {
@@ -996,6 +1014,28 @@
     },
     {
       "album": {
+        "name": "Favela Joint",
+        "url": "https://open.spotify.com/album/5tGqwxDFlJMRXm4Iiwnqb9"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Kura",
+          "url": "https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218604,
+      "name": "Favela Joint",
+      "url": "https://open.spotify.com/track/1ygoSdSGNwK3PIWxizJRnm"
+    },
+    {
+      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/2Wui1uFvsOcUfacighQEWo"
       },
@@ -1504,6 +1544,28 @@
     },
     {
       "album": {
+        "name": "Kalima (Extended Mix)",
+        "url": "https://open.spotify.com/album/17BgIIR2x8mARzobtFwFvg"
+      },
+      "artists": [
+        {
+          "name": "La Santa Music",
+          "url": "https://open.spotify.com/artist/4CGXFRuE498C4QKcjxiprx"
+        },
+        {
+          "name": "Augusto Yepes",
+          "url": "https://open.spotify.com/artist/4Fii6zdHW1hbQw0LS4qeTs"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361935,
+      "name": "Kalima - Extended Mix",
+      "url": "https://open.spotify.com/track/1Ac3HJrLYG686WD4fwpnRr"
+    },
+    {
+      "album": {
         "name": "Without Borders",
         "url": "https://open.spotify.com/album/2Fgzwt5QD6EFeApnyr1jzB"
       },
@@ -1980,6 +2042,42 @@
     },
     {
       "album": {
+        "name": "Mvinline",
+        "url": "https://open.spotify.com/album/5FeNmn9ROaljE00OMnusjS"
+      },
+      "artists": [
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308288,
+      "name": "Mvinline - Extended Mix",
+      "url": "https://open.spotify.com/track/7yRucK46dHsRRwNyuGM80j"
+    },
+    {
+      "album": {
+        "name": "Crosstown Rebels Present Spirits V",
+        "url": "https://open.spotify.com/album/1mGCys87x6mHYxlHyvDzZ5"
+      },
+      "artists": [
+        {
+          "name": "Chinonegro",
+          "url": "https://open.spotify.com/artist/22aMI6KbqOX9MdtGK58fyY"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362834,
+      "name": "My Moment",
+      "url": "https://open.spotify.com/track/72vKXsbMQAdlqvaMwFgEpw"
+    },
+    {
+      "album": {
         "name": "Defected In The House Radio Show Episode 015 (hosted by Sam Divine) [Mixed]",
         "url": "https://open.spotify.com/album/2Q2TWs7jB67JErKA0Ftehh"
       },
@@ -1995,6 +2093,28 @@
       "duration_ms": 226812,
       "name": "My My My (taken from 'Defected Presents House Masters - Armand Van Helden', Episode 015 Album Of The Week) - Mixed",
       "url": "https://open.spotify.com/track/1k6EksGynmRLT4m6iDzc7Z"
+    },
+    {
+      "album": {
+        "name": "Necotronik EP",
+        "url": "https://open.spotify.com/album/1tRYXqJ2956bWzMRPL0QYr"
+      },
+      "artists": [
+        {
+          "name": "Julian Collazos",
+          "url": "https://open.spotify.com/artist/4TAkVB7Zp91gNN57Ohzywt"
+        },
+        {
+          "name": "Victor Vergara",
+          "url": "https://open.spotify.com/artist/5uzGTSUmJIHbj8vvvZoqLB"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417146,
+      "name": "Necotronik - Original Mix",
+      "url": "https://open.spotify.com/track/1TzpoqM6U1x4Wb5bEoK1lh"
     },
     {
       "album": {
@@ -2466,6 +2586,28 @@
     },
     {
       "album": {
+        "name": "Group Therapy Reflections Special",
+        "url": "https://open.spotify.com/album/2NOoDMf0SjvoPSGTgy87fd"
+      },
+      "artists": [
+        {
+          "name": "Format",
+          "url": "https://open.spotify.com/artist/7vpTOtQikXEZZNqBBwjClU"
+        },
+        {
+          "name": "Joris Voorn",
+          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243757,
+      "name": "Solid Sessions (ABGT484) - Joris Voorn Remix",
+      "url": "https://open.spotify.com/track/3GF3HQNa31ymMNucnSpork"
+    },
+    {
+      "album": {
         "name": "The Return of the Space Cowboy (Remastered)",
         "url": "https://open.spotify.com/album/3emhnEQ76nUUehouSvnGxk"
       },
@@ -2788,6 +2930,28 @@
     },
     {
       "album": {
+        "name": "The First EP Series",
+        "url": "https://open.spotify.com/album/6A28s80owhcIF4DUkLFVyP"
+      },
+      "artists": [
+        {
+          "name": "Cotonete",
+          "url": "https://open.spotify.com/artist/7vRJDtEvLW2MZ4ISs1Zddy"
+        },
+        {
+          "name": "Dimitri From Paris",
+          "url": "https://open.spotify.com/artist/5Il27M5JXuQLgwDgVrQMgo"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 538560,
+      "name": "The Hustle Parisian",
+      "url": "https://open.spotify.com/track/680VBUAyzb1iKQZFHrisAw"
+    },
+    {
+      "album": {
         "name": "Get Your Groovebom On - Volume 3",
         "url": "https://open.spotify.com/album/1PMBgExkBq51h7foDolxyb"
       },
@@ -2967,6 +3131,24 @@
       "duration_ms": 241920,
       "name": "Trumpets Are Back",
       "url": "https://open.spotify.com/track/6dm3dc3rvODxGrvHqPougj"
+    },
+    {
+      "album": {
+        "name": "U Got 2",
+        "url": "https://open.spotify.com/album/4amivo7rjtgfmFZQAX80Kv"
+      },
+      "artists": [
+        {
+          "name": "Mambo Brothers",
+          "url": "https://open.spotify.com/artist/3mbfCtXiLCLZb1J2Bn6pKr"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326842,
+      "name": "U Got 2 - Extended Mix",
+      "url": "https://open.spotify.com/track/3jIqGOsZr13cu9GhiZP3hu"
     },
     {
       "album": {

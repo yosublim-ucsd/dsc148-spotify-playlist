@@ -4,7 +4,7 @@
 
 > اسمك فاشل بين البراكتسسس، بلعب بيهم يسطى ركتسسس، بكتفهم زي جكتسسس غلاف: أبيوسف
 
-287 songs - 14 hr 30 min
+288 songs - 14 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,7 +255,7 @@
 | [الخلطه](https://open.spotify.com/track/6gp6662FXHbmmZbM64y1vC) | [3ab3az](https://open.spotify.com/artist/1L2TmL1IEbktDOsTtAy6sr) | [الخلطه](https://open.spotify.com/album/5Yy7pst7P0EU2HD3hdJd9f) | 2:12 | 2024-01-18 |  |
 | [الخلطه \- El Khalta](https://open.spotify.com/track/5tE0Z2T2hkcMnGcnylGmwF) | [3ab3az](https://open.spotify.com/artist/1L2TmL1IEbktDOsTtAy6sr) | [الخلطه \- El Khalta](https://open.spotify.com/album/74qh30BxVtgztYD0ZdS6ju) | 2:12 | 2023-08-17 | 2024-01-21 |
 | [الدنيا ايه](https://open.spotify.com/track/6SBv0Z2UG5lkdJPWIarKj0) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [الدنيا ايه](https://open.spotify.com/album/3JqkIHvNZMoWe06n3oQKza) | 3:38 | 2023-06-23 |  |
-| [انا زعلتك](https://open.spotify.com/track/0kQtFJbzjpVkrUQyh7hDD5) | [Mostafa Elnesr](https://open.spotify.com/artist/3qMttOQzAJd5k3kbFPurvA) | [انا زعلتك](https://open.spotify.com/album/2kMAQwPx9QOZedvJ5Np61H) | 2:36 | 2023-10-03 |  |
+| [انا زعلتك](https://open.spotify.com/track/0kQtFJbzjpVkrUQyh7hDD5) | [Mostafa Elnesr](https://open.spotify.com/artist/3qMttOQzAJd5k3kbFPurvA) | [انا زعلتك](https://open.spotify.com/album/2kMAQwPx9QOZedvJ5Np61H) | 2:36 | 2023-10-03 | 2024-02-22 |
 | [بطل](https://open.spotify.com/track/3LxSKiIy0z4B9mEMHQZ77Q) | [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ), [Lil baba](https://open.spotify.com/artist/3T8fVfMYRXW3RQNpxy80iw) | [بطل](https://open.spotify.com/album/49dHOMyPff9KOzBNbslOxX) | 3:27 | 2022-05-10 | 2023-02-24 |
 | [بطل عالم](https://open.spotify.com/track/2E2ZmCeuHrHOECN01QhN0A) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [عقد احتراف](https://open.spotify.com/album/34cUR6XjHpwHswwPq7R9v1) | 3:03 | 2022-07-06 | 2023-05-26 |
 | [بعودة يا بلادى \( من فيلم " كباتن الزعتري "\)](https://open.spotify.com/track/0P6gYLZnBuhZNq99NAUJe3) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [بعودة يا بلادى \( من فيلم " كباتن الزعتري "\)](https://open.spotify.com/album/6bAqBBFbmNi3ixH2B1F7b8) | 3:11 | 2022-05-10 | 2022-07-29 |
@@ -293,6 +293,7 @@
 | [ملوك السوق](https://open.spotify.com/track/0xKWVC12CELTtXQ2misRoC) | [Wezza Montaser](https://open.spotify.com/artist/7nMcSzdtvLtrKIXIuLnxmj) | [ملوك السوق](https://open.spotify.com/album/2V77iWvLY9oxgpgi01bCRG) | 2:54 | 2023-08-17 | 2023-08-25 |
 | [مين يتحدى](https://open.spotify.com/track/2wlvrcPdey3ZCr0KRfRV4T) | [SFerroe](https://open.spotify.com/artist/0NkhEuKRMwXkY1jItuMuaW), [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM), [Tasneem El Aidy](https://open.spotify.com/artist/6dGbgtd9AkqjuoKHiiGKBx), [Dafencii](https://open.spotify.com/artist/74GGob3vwZoZ5Cs16pd4KC) | [مين يتحدى](https://open.spotify.com/album/6Q7vMeBwuMCGCAQaryhsZm) | 2:08 | 2022-06-28 | 2022-11-04 |
 | [نرجسه](https://open.spotify.com/track/0RpasZfuIcTzJURLIoQr8u) | [Shehab](https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz) | [آمل](https://open.spotify.com/album/2kjRdr3nzgOGPPWQctC91A) | 2:33 | 2022-07-28 | 2022-10-13 |
+| [نسينا ومحلفناش](https://open.spotify.com/track/36mpzLKAc52NvxFucRwEXV) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM) | [نسينا ومحلفناش](https://open.spotify.com/album/0bnOa3IR6sYleMfSrPVA7U) | 2:20 | 2024-02-21 |  |
 | [واحدة من مليون](https://open.spotify.com/track/1TdfNHr3Njy9Bmn5aMAOdr) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [عقد احتراف](https://open.spotify.com/album/34cUR6XjHpwHswwPq7R9v1) | 3:54 | 2022-06-20 | 2022-07-21 |
 | [ودو](https://open.spotify.com/track/2nM65NRVtWRHRz69gUHJ09) | [L5VAV](https://open.spotify.com/artist/7iriVfN6kftRpKDqdm492u) | [ودو](https://open.spotify.com/album/5eHO358gOBVasJ6U6Qtlno) | 2:53 | 2022-09-27 | 2022-10-14 |
 

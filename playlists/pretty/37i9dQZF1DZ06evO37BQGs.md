@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37BQGs.md) - [plain]
 
 > This is Hundred Reasons\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 620 likes - 35 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 620 likes - 35 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,11 +21,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37BQGs.md) - [plain]
 | 11 | [What You Get](https://open.spotify.com/track/0dGSOoOgiwqguvIO0WH39s) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Shatterproof Is Not A Challenge](https://open.spotify.com/album/5NRqlYZGCBZO5vwZCGJvah) | 3:27 |
 | 12 | [The Perfect Gift](https://open.spotify.com/track/6fRVeAhnfpfpmTRMndS2FK) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Kill Your Own](https://open.spotify.com/album/101Y1ApCSBWHyuJBSB46Sd) | 3:50 |
 | 13 | [Silver](https://open.spotify.com/track/1iP5nJRIag9Kem1RuqCVXt) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Ideas Above Our Station](https://open.spotify.com/album/0njHxwzfjbX5MS7YPXBwMM) | 3:17 |
-| 14 | [New Glasses](https://open.spotify.com/track/3N8PrkWhSMtzQrlslY6EQg) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Glorious Sunset](https://open.spotify.com/album/7c7Ls32YEt5ifi8BbrLX3D) | 3:49 |
+| 14 | [It Suits You](https://open.spotify.com/track/5eNo6tuJLliem6yhaSxUa2) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Glorious Sunset](https://open.spotify.com/album/71maDCJKDDfxPR1QcIHmaU) | 3:16 |
 | 15 | [Makeshift](https://open.spotify.com/track/3SWn0ZgWROzFaP98QcPZyl) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Shatterproof Is Not A Challenge](https://open.spotify.com/album/5NRqlYZGCBZO5vwZCGJvah) | 3:10 |
 | 16 | [No Pretending](https://open.spotify.com/track/59EnX4BXWB1mSe2pz4K2g3) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Kill Your Own](https://open.spotify.com/album/101Y1ApCSBWHyuJBSB46Sd) | 4:33 |
 | 17 | [Answers](https://open.spotify.com/track/4BLboQozqbi0wfghh4fV1a) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Ideas Above Our Station](https://open.spotify.com/album/0njHxwzfjbX5MS7YPXBwMM) | 3:13 |
-| 18 | [It Suits You](https://open.spotify.com/track/5eNo6tuJLliem6yhaSxUa2) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Glorious Sunset](https://open.spotify.com/album/71maDCJKDDfxPR1QcIHmaU) | 3:16 |
+| 18 | [New Glasses](https://open.spotify.com/track/3N8PrkWhSMtzQrlslY6EQg) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Glorious Sunset](https://open.spotify.com/album/7c7Ls32YEt5ifi8BbrLX3D) | 3:49 |
 | 19 | [The Great Test](https://open.spotify.com/track/29AGJhFoJ0y31oZ49r7J6D) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Shatterproof Is Not A Challenge](https://open.spotify.com/album/5NRqlYZGCBZO5vwZCGJvah) | 1:59 |
 | 20 | [Broken Hands](https://open.spotify.com/track/68bhEGCeB4rH6xNrDVASLu) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Kill Your Own](https://open.spotify.com/album/101Y1ApCSBWHyuJBSB46Sd) | 3:37 |
 | 21 | [What Thought Did](https://open.spotify.com/track/3nIwbl2XMTXisw5y5nu6Iq) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Ideas Above Our Station](https://open.spotify.com/album/0njHxwzfjbX5MS7YPXBwMM) | 2:38 |
@@ -42,6 +42,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37BQGs.md) - [plain]
 | 32 | [Remmus \- Live At Hammersmith](https://open.spotify.com/track/2zljVahQTKfZqc3oRT6Gxq) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Hundred Reasons \- Live At Hammersmith](https://open.spotify.com/album/5dUBD9UVNHzfPeDlDNHg1H) | 3:00 |
 | 33 | [Sick Little Masquerade](https://open.spotify.com/track/76jTPFhV40C0eJXTswyRrC) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Quick The Word Sharp The Action](https://open.spotify.com/album/2tJbT3ckeLs6FD5FXBKxtz) | 3:42 |
 | 34 | [Break The Glass](https://open.spotify.com/track/1MCsQjTwwzDPVLrOsAlp0b) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Quick The Word Sharp The Action](https://open.spotify.com/album/2tJbT3ckeLs6FD5FXBKxtz) | 3:26 |
-| 35 | [Lost For Words](https://open.spotify.com/track/1hR0EuABwXpAh3vkqmaeZG) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Quick The Word Sharp The Action](https://open.spotify.com/album/2tJbT3ckeLs6FD5FXBKxtz) | 3:21 |
+| 35 | [Boy](https://open.spotify.com/track/0XvuRaxgYMSWbFng8vHvDv) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Quick The Word Sharp The Action](https://open.spotify.com/album/2tJbT3ckeLs6FD5FXBKxtz) | 3:58 |
 
-Snapshot ID: `Mjg0NzQxMzEsMDAwMDAwMDA1ZTM5ZWRlNjUzYjk5N2Y4OGUyMmNhNzk2MWRlY2MzMw==`
+Snapshot ID: `Mjg0NzUyOTAsMDAwMDAwMDAwNWRmN2MwZGNhYzA5MzRhOTJiYTRjZTA3NzM4Y2I3Ng==`

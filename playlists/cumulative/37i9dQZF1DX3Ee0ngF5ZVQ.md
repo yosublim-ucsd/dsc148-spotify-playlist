@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Josh Abbott Band
 
-596 songs - 1 day 11 hr 30 min
+597 songs - 1 day 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Boots](https://open.spotify.com/track/3Yn1z4gHFWuhbNP7dopYCD) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [American Soul](https://open.spotify.com/album/22WbbbmGJNQWCtnxSk9jXe) | 3:09 | 2021-12-17 | 2022-01-08 |
 | [Boots on My Feet](https://open.spotify.com/track/5tHQXCXWmrc4ioLhCxZSGF) | [Josh Grider](https://open.spotify.com/artist/7a4J8L6Gg4xP6ix19HIx0Z) | [Boots on My Feet](https://open.spotify.com/album/4wNNObtCIpyrwB9pITUjoi) | 3:00 | 2021-12-17 | 2022-07-27 |
 | [Border Radio](https://open.spotify.com/track/3JpXOvjKO49lZt5mh7JKLC) | [John Baumann](https://open.spotify.com/artist/5OCPKdyvsphdpbIVpVts3L) | [Border Radio](https://open.spotify.com/album/3IUZOmv3B83l1jF976AIAi) | 3:03 | 2023-08-25 | 2023-10-07 |
+| [Bottom of It](https://open.spotify.com/track/7Hlt8sBheuJXbBU4aFOGcp) | [Don Louis](https://open.spotify.com/artist/5LICWu7uFLkdJVcEiTnRBX) | [Bottom of It](https://open.spotify.com/album/634fjrf1xw9BpyDx83lomm) | 3:12 | 2024-02-16 |  |
 | [Boy From Anderson County](https://open.spotify.com/track/6H4TyfdTbm1bIaBkXiyvvw) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Boy From Anderson County](https://open.spotify.com/album/2Mo6Xc2RfhJD6QkmRjYdid) | 4:04 | 2021-12-17 | 2023-11-04 |
 | [Boy From Anderson County](https://open.spotify.com/track/6rQGkoBBYegak061SkBSKH) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Boy From Anderson County To The Moon](https://open.spotify.com/album/1mnpdIkHiYcpvvCFQBaUrr) | 4:04 | 2023-11-10 |  |
 | [Boy Like Me](https://open.spotify.com/track/0L3hzWLPVgBCfg19H0dcIR) | [Chris Colston](https://open.spotify.com/artist/1drW8ii2leKur6GbJtibRz) | [Boy Like Me](https://open.spotify.com/album/183gKXKQgy0tncVwiK7kJi) | 3:52 | 2022-07-15 | 2022-07-18 |
@@ -266,7 +267,7 @@
 | [I Find a Reason](https://open.spotify.com/track/4IAupLMiDKB5zRplJfHA3R) | [David Adam Byrnes](https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU) | [I Find a Reason](https://open.spotify.com/album/5yWWYAO6oUH2oFJRVIslnN) | 3:24 | 2021-12-17 | 2022-03-19 |
 | [I Found Trouble](https://open.spotify.com/track/54WSRFGDv7lWCcZnAA1m3M) | [Teague Brothers Band](https://open.spotify.com/artist/79kA7zyNoaWwAmpf21p7vH) | [I Found Trouble](https://open.spotify.com/album/036hxRgtHzDUCtTzGt5Z6A) | 3:07 | 2021-12-17 | 2022-07-25 |
 | [I Got Game](https://open.spotify.com/track/4L380F6X8jQMzJGfcXnKTU) | [Nate Burnham](https://open.spotify.com/artist/0kdKIeJVJPraaKPgWjfjDf) | [I Got Game](https://open.spotify.com/album/6rrqcJxn566iuFFvF5LsSM) | 3:04 | 2021-12-17 | 2022-03-19 |
-| [I Just Killed A Man](https://open.spotify.com/track/7D9H7ROCXakc9PDf9PJZwG) | [Catie Offerman](https://open.spotify.com/artist/5uB8p8cO6UniAn2rnOsaXT) | [I Just Killed A Man](https://open.spotify.com/album/128clheSrjkaaJLnYe4ykz) | 3:32 | 2023-04-21 |  |
+| [I Just Killed A Man](https://open.spotify.com/track/7D9H7ROCXakc9PDf9PJZwG) | [Catie Offerman](https://open.spotify.com/artist/5uB8p8cO6UniAn2rnOsaXT) | [I Just Killed A Man](https://open.spotify.com/album/128clheSrjkaaJLnYe4ykz) | 3:32 | 2023-04-21 | 2024-02-22 |
 | [I Just Want You](https://open.spotify.com/track/1saE5pulEvPKbcWyRX6stQ) | [Chad Cooke Band](https://open.spotify.com/artist/7BFmW9uJ3wCZmZxpr03u0H) | [FREE](https://open.spotify.com/album/3rSKjvRVAGtNE038X3pjXb) | 3:44 | 2022-11-18 | 2023-06-23 |
 | [I Just Want You](https://open.spotify.com/track/2RAuxKLHNvjn9fBRJVTGqi) | [Chad Cooke Band](https://open.spotify.com/artist/7BFmW9uJ3wCZmZxpr03u0H) | [I Just Want You](https://open.spotify.com/album/7cdDtUoGbIgVDEkFaS3rA6) | 3:44 | 2022-01-28 | 2022-11-06 |
 | [I Will Find You](https://open.spotify.com/track/05KJqisYJmofxTbwY5qWWM) | [Walt Wilkins](https://open.spotify.com/artist/7ibIGIariNNiQyafUQ6Oqg), [Tip Jar](https://open.spotify.com/artist/0efqZTMypVgrLzEb7syIOT) | [I Will Find You](https://open.spotify.com/album/2n5ktGzFUxyj8zOogB0929) | 3:24 | 2021-12-31 | 2022-03-19 |
@@ -580,7 +581,7 @@
 | [Whiskey Over Wine](https://open.spotify.com/track/6HcEsb3pfAs2UJJZWE2xKa) | [David McMahon](https://open.spotify.com/artist/7jaxYfWErivORgwy5NvaNT), [Jake Parshall](https://open.spotify.com/artist/5lQnbSk0GQNuECY8I53g0U) | [Whiskey Over Wine](https://open.spotify.com/album/6CGjZb0VFhDnV0zaZOw9Bs) | 3:50 | 2021-12-17 | 2022-03-19 |
 | [Whiskey When I'm Gone](https://open.spotify.com/track/4NMrYRUW7GHSZhlUaqnG38) | [Cooper Mohrmann](https://open.spotify.com/artist/4b5lxXh8G3bCrO4q8fTTkk) | [Whiskey When I'm Gone](https://open.spotify.com/album/32GyLIWTsXlW1F54Zxns1R) | 3:47 | 2021-12-17 | 2022-07-22 |
 | [Who Am I to Judge](https://open.spotify.com/track/5lBUnmTbiFEuaqgU3zx9iR) | [Logan Jahnke](https://open.spotify.com/artist/7lTjwioILltF3hqmn6BjNg), [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Who Am I to Judge](https://open.spotify.com/album/3AklkzomSJInr5QA0MyHyD) | 3:52 | 2022-07-08 | 2023-02-25 |
-| [Who I Am](https://open.spotify.com/track/41kIX5NAx8HXFpZx8XJghd) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Who I Am](https://open.spotify.com/album/4dVQwZMN2B0tfKjPWs3ayY) | 4:17 | 2023-09-01 |  |
+| [Who I Am](https://open.spotify.com/track/41kIX5NAx8HXFpZx8XJghd) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Who I Am](https://open.spotify.com/album/4dVQwZMN2B0tfKjPWs3ayY) | 4:17 | 2023-09-01 | 2024-02-22 |
 | [Whole Lotta Heaven](https://open.spotify.com/track/0qXhqE3uvLWL3cs2HpQaug) | [Joey Greer](https://open.spotify.com/artist/0ZvGvF2SeEeUUTV8NlIXn4) | [Whole Lotta Heaven](https://open.spotify.com/album/7cRUHxfuLWHl0VMe7imioy) | 3:09 | 2022-01-21 | 2022-08-12 |
 | [Why Do Good People Die](https://open.spotify.com/track/49Pmd0h8IYfu0YferhZQtb) | [Kat Hasty](https://open.spotify.com/artist/2IpAJkXd1bfzyrq5oRVK4d) | [Midland](https://open.spotify.com/album/1WqO0gfSatzacLlvivWTih) | 3:57 | 2023-07-07 |  |
 | [Why, Dallas?](https://open.spotify.com/track/0aG9eIioKkXS4aicxhyuT8) | [Bo Armstrong](https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv) | [Why, Dallas?](https://open.spotify.com/album/5KIHgSEWi3mJ6qTVs5bGGl) | 3:23 | 2022-10-21 | 2023-01-06 |
@@ -603,6 +604,6 @@
 | [You To Me](https://open.spotify.com/track/6gIhOCip5eeREn4sQj8NMw) | [Cody Hibbard](https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5) | [You To Me](https://open.spotify.com/album/1wr3A9DOyF5ooxpLrYlEb2) | 3:14 | 2023-11-17 | 2024-01-18 |
 | [Young Man's Game](https://open.spotify.com/track/1fvnxdH0nEoDFNJPIjdVCN) | [Bo Armstrong](https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv) | [Young Man's Game](https://open.spotify.com/album/7d1ev8ZOIejEvyeNxIs6mL) | 3:34 | 2022-02-11 | 2022-03-19 |
 | [Your Alpine](https://open.spotify.com/track/0zxMh6r7kGqomTu9KzcYbi) | [Kolton Moore & the Clever Few](https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj) | [Your Alpine](https://open.spotify.com/album/786tMhrL0dSlsMkauWbOUv) | 4:39 | 2023-10-06 | 2023-12-16 |
-| [Your Bar Now](https://open.spotify.com/track/4ZZK3Nud5Ax5ZExoFZYhGq) | [Tyler Halverson](https://open.spotify.com/artist/3oFu5CCLk4p4zLBNo3wrai), [Kylie Frey](https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4) | [Your Bar Now](https://open.spotify.com/album/3N6z7QHV628Lbz0ocbzOhR) | 3:34 | 2022-05-13 | 2024-02-19 |
+| [Your Bar Now](https://open.spotify.com/track/4ZZK3Nud5Ax5ZExoFZYhGq) | [Tyler Halverson](https://open.spotify.com/artist/3oFu5CCLk4p4zLBNo3wrai), [Kylie Frey](https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4) | [Your Bar Now](https://open.spotify.com/album/3N6z7QHV628Lbz0ocbzOhR) | 3:34 | 2022-05-13 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

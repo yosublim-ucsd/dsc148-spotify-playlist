@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVkyW4DM7wMY.md) - [plain]
 
 > The hottest alternative music from Nairobi to Dar!
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,448 likes - 70 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,450 likes - 70 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVkyW4DM7wMY.md) - [plain]
 | 11 | [Muse \- A COLORS SHOW](https://open.spotify.com/track/4JmYe83UEo0u79arY6Zbn2) | [Matt Ngesa](https://open.spotify.com/artist/38jStfZwiNvdn1PKt9ma35) | [Muse \- A COLORS SHOW](https://open.spotify.com/album/4bMaXHiewgIcNRmKzRWnkJ) | 5:03 |
 | 12 | [Iceembe](https://open.spotify.com/track/6J5c3fZBYE3FoioezQ1LMA) | [Kwame Rígíi](https://open.spotify.com/artist/2YBmXbjqDbsGjTB9vMbuNf), [Delpha](https://open.spotify.com/artist/2SlxG2mBwhlntuDgudUVLl) | [Kinya Nginye](https://open.spotify.com/album/7By5iULjJbetlbGjMmliFq) | 2:39 |
 | 13 | [HIGH SPEDE](https://open.spotify.com/track/01OW8EwHqMLnUysHiLT9zE) | [KABEAUSHÉ](https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj) | [HOLD ON TO DEER LIFE, THERE'S A BLCAK BOY BEHIND YOU!](https://open.spotify.com/album/6aScw5iFrLHQUzlO21rCUl) | 3:58 |
-| 14 | [Divine Intervention](https://open.spotify.com/track/71FvDWdttOeuEdCb63a73s) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Galatea](https://open.spotify.com/album/6wlhvzUV68XeLk6fMirGqQ) | 2:58 |
+| 14 | [Divine Intervention](https://open.spotify.com/track/3wFzFIZFNn0gxYkfdOybqY) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Galatea](https://open.spotify.com/album/2qXvUtcDzC8UycI1ccMWFw) | 2:58 |
 | 15 | [My Darling](https://open.spotify.com/track/0dB0kygJpApTy1aTYiYxlk) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [My Darling](https://open.spotify.com/album/50lQePDD6ekrIKyqhsG8oD) | 3:06 |
 | 16 | [Vanity](https://open.spotify.com/track/23yGrPeT2zyxnr7EWqJsRa) | [capespring.](https://open.spotify.com/artist/2VF53usTu5Chbp1fmxjUeS) | [Vanity](https://open.spotify.com/album/6JgvhDCWYLwDbrNWkfUhAF) | 2:32 |
 | 17 | [My All](https://open.spotify.com/track/3udH6537pUGU9htZaPRv95) | [Vaniah King](https://open.spotify.com/artist/0P0GPZ8lXMiPvD6NazYgsk) | [My All](https://open.spotify.com/album/7udEwxCPrP8L3slP4oclpD) | 4:00 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVkyW4DM7wMY.md) - [plain]
 | 69 | [Entebbe](https://open.spotify.com/track/7JUJDegbbXHmYLtWIb811E) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729) | [Entebbe](https://open.spotify.com/album/59vlQB3gPrQV9VLhU120ub) | 3:52 |
 | 70 | [Hold On To The Faith](https://open.spotify.com/track/6M2SvwjsfkfQNncdSj1TAh) | [SERRO](https://open.spotify.com/artist/4r3svQfFw0Ae5GMplY92u9), [Mutoriah](https://open.spotify.com/artist/2eAAis6wgQ4My2ixOkGRaD) | [Misimu](https://open.spotify.com/album/68CvaHEB0uNEYLKUCosqYH) | 4:06 |
 
-Snapshot ID: `MCxhM2VjOGM5NzY5NTYzMzZiNGVlMTRmYzZlMDQ0Y2Q3M2U5NzA0ZDgz`
+Snapshot ID: `MCxiMmRkNjM0OWU1M2QyNmYwZTBmZWRkMWY4NzllZWJjNjg1MGIwZmEx`

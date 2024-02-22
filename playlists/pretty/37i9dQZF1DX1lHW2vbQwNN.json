@@ -1,12 +1,12 @@
 {
   "description": "Taking it back to the 2000s. Cover: Drake",
-  "num_followers": 175815,
+  "num_followers": 176245,
   "original_name": "I Love My 2000s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNzFhMDE2YjlmNTMxNzAxMmVlOTlkNTQwN2U3NGJkNzk0YTlkMDg4",
+  "snapshot_id": "MCw4YzlhNTExN2MxNGVmNmU2ZTQxY2QxMjEyY2IwZTAxOGM3NGEwZDg5",
   "tracks": [
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1127,26 +1127,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "UGK (Underground Kingz)",
-        "url": "https://open.spotify.com/album/4GXlMz68LyGZeHzJcetFi1"
-      },
-      "artists": [
-        {
-          "name": "UGK",
-          "url": "https://open.spotify.com/artist/6ZhjJOJXXwnPS8PrXdmjLw"
-        },
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        }
-      ],
-      "duration_ms": 259040,
-      "name": "Int'l Players Anthem (I Choose You) (feat. Outkast)",
-      "url": "https://open.spotify.com/track/4ns1XFP3W5JPyzvnAjMdHD"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Juve The Great",
         "url": "https://open.spotify.com/album/1JfdhweOku5xDD78eiid4A"
       },
@@ -1163,6 +1143,26 @@
       "duration_ms": 248200,
       "name": "Slow Motion",
       "url": "https://open.spotify.com/track/6ihObRBTB8xdSH2mlERtOX"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "UGK (Underground Kingz)",
+        "url": "https://open.spotify.com/album/4GXlMz68LyGZeHzJcetFi1"
+      },
+      "artists": [
+        {
+          "name": "UGK",
+          "url": "https://open.spotify.com/artist/6ZhjJOJXXwnPS8PrXdmjLw"
+        },
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 259040,
+      "name": "Int'l Players Anthem (I Choose You) (feat. Outkast)",
+      "url": "https://open.spotify.com/track/4ns1XFP3W5JPyzvnAjMdHD"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "THUGS ARE US",
-        "url": "https://open.spotify.com/album/2oJxBPqylFpSb60hOJ4DcH"
-      },
-      "artists": [
-        {
-          "name": "Trick Daddy",
-          "url": "https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25"
-        }
-      ],
-      "duration_ms": 254400,
-      "name": "I'm a Thug",
-      "url": "https://open.spotify.com/track/6j2aNuhJJUnRj6UHcvn5PI"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Let's Get Free",
         "url": "https://open.spotify.com/album/7gXuElmegVReY7imkb5bf8"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 214066,
       "name": "Hip-Hop",
       "url": "https://open.spotify.com/track/2HoDr1yVksl19omOhc1zWy"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "THUGS ARE US",
+        "url": "https://open.spotify.com/album/2oJxBPqylFpSb60hOJ4DcH"
+      },
+      "artists": [
+        {
+          "name": "Trick Daddy",
+          "url": "https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25"
+        }
+      ],
+      "duration_ms": 254400,
+      "name": "I'm a Thug",
+      "url": "https://open.spotify.com/track/6j2aNuhJJUnRj6UHcvn5PI"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "What The Game's Been Missing!",
+        "url": "https://open.spotify.com/album/1UnAHcFabsZQnZbPQRuwq8"
+      },
+      "artists": [
+        {
+          "name": "Juelz Santana",
+          "url": "https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb"
+        }
+      ],
+      "duration_ms": 180493,
+      "name": "There It Go (The Whistle Song)",
+      "url": "https://open.spotify.com/track/50UkypyQJbSQLaXHke5Yep"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Still Hot In Herre",
         "url": "https://open.spotify.com/album/4FyzqUSV3OqNvh0bjF2qaZ"
       },
@@ -1663,22 +1679,6 @@
       "duration_ms": 271160,
       "name": "Grillz",
       "url": "https://open.spotify.com/track/0l7DPAKQVayEz9FXC9di2e"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "What The Game's Been Missing!",
-        "url": "https://open.spotify.com/album/1UnAHcFabsZQnZbPQRuwq8"
-      },
-      "artists": [
-        {
-          "name": "Juelz Santana",
-          "url": "https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb"
-        }
-      ],
-      "duration_ms": 180493,
-      "name": "There It Go (The Whistle Song)",
-      "url": "https://open.spotify.com/track/50UkypyQJbSQLaXHke5Yep"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1731,26 +1731,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Pain Is Love",
-        "url": "https://open.spotify.com/album/2iIIgsaTEtVjDhrV7HKDJC"
-      },
-      "artists": [
-        {
-          "name": "Ja Rule",
-          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
-        },
-        {
-          "name": "Case",
-          "url": "https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy"
-        }
-      ],
-      "duration_ms": 257133,
-      "name": "Livin' It Up",
-      "url": "https://open.spotify.com/track/4ToZV7r72wSbVrljaLSp13"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Tha Carter",
         "url": "https://open.spotify.com/album/5POcKy926GgzFHZpGptJac"
       },
@@ -1787,6 +1767,26 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Pain Is Love",
+        "url": "https://open.spotify.com/album/2iIIgsaTEtVjDhrV7HKDJC"
+      },
+      "artists": [
+        {
+          "name": "Ja Rule",
+          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
+        },
+        {
+          "name": "Case",
+          "url": "https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy"
+        }
+      ],
+      "duration_ms": 257133,
+      "name": "Livin' It Up",
+      "url": "https://open.spotify.com/track/4ToZV7r72wSbVrljaLSp13"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Thug Misses (Digitally Remastered)",
         "url": "https://open.spotify.com/album/4Xa2dq99gQqzGj4vq0rGoV"
       },
@@ -1819,18 +1819,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Blood In My Eye",
-        "url": "https://open.spotify.com/album/0O11EhdLUWCOErqA4Xm3b6"
+        "name": "Tha Carter II",
+        "url": "https://open.spotify.com/album/7slHgsEMuJfnuft5LAPyw6"
       },
       "artists": [
         {
-          "name": "Ja Rule",
-          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         }
       ],
-      "duration_ms": 296466,
-      "name": "Clap Back",
-      "url": "https://open.spotify.com/track/1FK0sZfZzCAIDUn7htCemp"
+      "duration_ms": 303666,
+      "name": "Hustler Musik",
+      "url": "https://open.spotify.com/track/2334WaCjswLcRIRgTTPWaZ"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1851,26 +1851,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "The People's Champ",
-        "url": "https://open.spotify.com/album/4LfEslRqPOv2ZOrW6KhhWr"
-      },
-      "artists": [
-        {
-          "name": "Paul Wall",
-          "url": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg"
-        },
-        {
-          "name": "Big Pokey",
-          "url": "https://open.spotify.com/artist/1J6iGa2TNBDCrJzjsnI1a8"
-        }
-      ],
-      "duration_ms": 228933,
-      "name": "Sittin' Sidewayz (feat. Big Pokey)",
-      "url": "https://open.spotify.com/track/24PWKmemCvqfyVXODhoKHW"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Mississippi: The Album",
         "url": "https://open.spotify.com/album/6wTmI6YwP14KXnDC35VTT7"
       },
@@ -1887,6 +1867,26 @@
       "duration_ms": 254706,
       "name": "Like A Pimp",
       "url": "https://open.spotify.com/track/0DW5anNzTO7h0OlKqFsVQ6"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "The People's Champ",
+        "url": "https://open.spotify.com/album/4LfEslRqPOv2ZOrW6KhhWr"
+      },
+      "artists": [
+        {
+          "name": "Paul Wall",
+          "url": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg"
+        },
+        {
+          "name": "Big Pokey",
+          "url": "https://open.spotify.com/artist/1J6iGa2TNBDCrJzjsnI1a8"
+        }
+      ],
+      "duration_ms": 228933,
+      "name": "Sittin' Sidewayz (feat. Big Pokey)",
+      "url": "https://open.spotify.com/track/24PWKmemCvqfyVXODhoKHW"
     },
     {
       "added_at": "2024-02-02 05:00:00",

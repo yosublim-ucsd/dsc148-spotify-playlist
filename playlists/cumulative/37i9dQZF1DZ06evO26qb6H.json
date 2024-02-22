@@ -775,6 +775,28 @@
     },
     {
       "album": {
+        "name": "Welcome To Sin City",
+        "url": "https://open.spotify.com/album/0rIlufm34kVskiBFOU7Lsu"
+      },
+      "artists": [
+        {
+          "name": "Shordie Shordie",
+          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123076,
+      "name": "Sin City",
+      "url": "https://open.spotify.com/track/01F2R67nJLP3DaX6pqzCur"
+    },
+    {
+      "album": {
         "name": "Memory Lane 2",
         "url": "https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd"
       },

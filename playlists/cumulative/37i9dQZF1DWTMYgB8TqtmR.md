@@ -4,7 +4,7 @@
 
 > It's Hits – största och bästa hitsen just nu!
 
-668 songs - 1 day 9 hr 42 min
+669 songs - 1 day 9 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -304,7 +304,8 @@
 | [In The Stars](https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [In The Stars](https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd) | 3:36 | 2022-04-28 | 2022-12-09 |
 | [Inatt \(Inget Stoppar Oss Nu\)](https://open.spotify.com/track/4uPSmNAuHFVLcSHLKyWfny) | [Ellen Krauss](https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh) | [Inatt \(Inget Stoppar Oss Nu\)](https://open.spotify.com/album/7FtYP3MDq2sK9FMUMJTQcC) | 2:46 | 2023-10-31 |  |
 | [Infinity](https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK) | [Jaymes Young](https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2) | [Feel Something](https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z) | 3:57 | 2022-01-07 | 2022-03-18 |
-| [Inga änglar \(Na na na\)](https://open.spotify.com/track/532hmJMBzkTyhVQTlHHUuJ) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Inga änglar \(Na na na\)](https://open.spotify.com/album/3jJmhnYy9Zif0lCkLQfv6J) | 3:14 | 2024-01-29 |  |
+| [Inga änglar \(Na na na\)](https://open.spotify.com/track/532hmJMBzkTyhVQTlHHUuJ) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Inga änglar \(Na na na\)](https://open.spotify.com/album/3jJmhnYy9Zif0lCkLQfv6J) | 3:14 | 2024-01-29 | 2024-02-22 |
+| [Inga änglar \(Na na na\)](https://open.spotify.com/track/6Z81UrPb8kWlzO4bP0ETzo) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Nya Hits](https://open.spotify.com/album/3IAEBiMpkBwgSzMYQUjojd) | 3:14 | 2024-02-19 |  |
 | [Ingen annan rör mig som du](https://open.spotify.com/track/6D434uIe6ssDPXbCx9O9Bn) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [Ingen annan rör mig som du](https://open.spotify.com/album/6HUWcyVUOcdPTMcqvmX02a) | 3:37 | 2022-10-26 | 2023-02-25 |
 | [INGEN KAN SLÅ \(BOTEN ANNA\)](https://open.spotify.com/track/1pLglW5mDscxmbo32uaf3U) | [Basshunter](https://open.spotify.com/artist/37DdwREpvvQHmGLFEZ4h0Q), [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [INGEN KAN SLÅ \(BOTEN ANNA\)](https://open.spotify.com/album/3wiC6E5VBDno4edLIFcWKY) | 2:09 | 2023-06-22 | 2023-09-29 |
 | [Ingen luft mellan oss](https://open.spotify.com/track/1SOGSI8UPEwBnqG15h6NiC) | [Newkid](https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6) | [Ingen luft mellan oss](https://open.spotify.com/album/50pmFuV7ABGcA6cZz0Cqmt) | 3:16 | 2021-12-16 | 2022-01-21 |

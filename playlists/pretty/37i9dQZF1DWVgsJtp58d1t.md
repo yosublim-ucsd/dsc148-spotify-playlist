@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 ### [This Is Frequency](https://open.spotify.com/playlist/37i9dQZF1DWVgsJtp58d1t)
 
-> New music each and every Friday, with selects from prominent musicians across the map in honor of Black History Month\. Cover: <a href="spotify:artist:3tVQdUvClmAT7URs9V3rsp">Wizkid</a>
+> New music each and every Friday, with selects from prominent musicians across the map in honor of Black History Month\. Cover: <a href="spotify:playlist:37i9dQZF1DWVgsJtp58d1t">Beyoncé</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,008,568 likes - 99 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,008,805 likes - 99 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 98 | [SILYMI](https://open.spotify.com/track/2z1tHGVkMogil6jUCbZowQ) | [TeZATalks](https://open.spotify.com/artist/6olAhxDEja5fYKEHF6tA2W) | [SILYMI](https://open.spotify.com/album/6e9e4kvwl1CY0HtQ92vGbg) | 2:29 |
 | 99 | [Hotter Now](https://open.spotify.com/track/4BIyKFJ2pgh3eY7Hc4Ce0k) | [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Hotter Now](https://open.spotify.com/album/7yYUYzfzUGWPkqY1crWBlh) | 3:01 |
 
-Snapshot ID: `MCw5YTUzNjMxZTRmYmE0NjAwNTg0NGJmOWM5YmFkOGM0Yjk3YTI3YjJk`
+Snapshot ID: `MCxiYzNhM2E1YzQ4MjAyMGMwMzNlYzFmZDc2ZWFmYzFhZTc3NzY1MzIx`

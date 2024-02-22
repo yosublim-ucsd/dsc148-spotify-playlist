@@ -1,12 +1,12 @@
 {
   "description": "Turn traffic stops into jam sessions.",
-  "num_followers": 62828,
+  "num_followers": 62891,
   "original_name": "Traffic Jams Naija ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYWJjNmM5OWRjYjFjMzk0MDU0N2QxN2ZhZmU3NmFjYjM1ZWRmODY3",
+  "snapshot_id": "MCxhMWZhN2I0MjBiZTFmM2ZiNWEzMzEyMmNjMTBlODg0NzIzMDY2MTE0",
   "tracks": [
     {
       "added_at": "2024-02-16 00:01:00",
@@ -447,7 +447,7 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
-        "name": "Run Away",
+        "name": "Run Away (OMALICHA)",
         "url": "https://open.spotify.com/album/6ujoM3aPviamfNBV7qCpTh"
       },
       "artists": [
@@ -461,7 +461,7 @@
         }
       ],
       "duration_ms": 176200,
-      "name": "Run Away",
+      "name": "Run Away (OMALICHA)",
       "url": "https://open.spotify.com/track/1xet6MZrk4Zr5ebis0EF1Q"
     },
     {
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
-        "name": "Twe Twe",
-        "url": "https://open.spotify.com/album/1jv97lAItsr4nWgPBFm7e2"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 145031,
-      "name": "Twe Twe",
-      "url": "https://open.spotify.com/track/02qAdqcn1HGt3RMWMTDkSe"
-    },
-    {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
         "name": "INTOXYCATED (feat. Dave)",
         "url": "https://open.spotify.com/album/7ht2LkihRHKtZ5BiS60xCV"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 212000,
       "name": "INTOXYCATED (feat. Dave)",
       "url": "https://open.spotify.com/track/5YEVBJnnt2qMM67NGCjEdV"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
+        "name": "Twe Twe",
+        "url": "https://open.spotify.com/album/1jv97lAItsr4nWgPBFm7e2"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 145031,
+      "name": "Twe Twe",
+      "url": "https://open.spotify.com/track/02qAdqcn1HGt3RMWMTDkSe"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -691,22 +691,18 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
+        "name": "Qing Madi",
+        "url": "https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn"
       },
       "artists": [
         {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
         }
       ],
-      "duration_ms": 156212,
-      "name": "NO COMPETITION (feat. Asake)",
-      "url": "https://open.spotify.com/track/5DttTktPy0RMZPz4UNfFm4"
+      "duration_ms": 189015,
+      "name": "American Love",
+      "url": "https://open.spotify.com/track/5c1rWQAa8GX8LgCC9h3d1N"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -743,18 +739,22 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
-        "name": "Qing Madi",
-        "url": "https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn"
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
       },
       "artists": [
         {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         }
       ],
-      "duration_ms": 189015,
-      "name": "American Love",
-      "url": "https://open.spotify.com/track/5c1rWQAa8GX8LgCC9h3d1N"
+      "duration_ms": 156212,
+      "name": "NO COMPETITION (feat. Asake)",
+      "url": "https://open.spotify.com/track/5DttTktPy0RMZPz4UNfFm4"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
-        "name": "NAHAMciaga",
-        "url": "https://open.spotify.com/album/25W5Z67RX9uv82fijyx9Yk"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "Today",
-      "url": "https://open.spotify.com/track/1jYIMLLTKnecfOgccQnaHb"
-    },
-    {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
         "name": "EZIOKWU",
         "url": "https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx"
       },
@@ -1079,6 +1063,38 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
+        "name": "NAHAMciaga",
+        "url": "https://open.spotify.com/album/25W5Z67RX9uv82fijyx9Yk"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "Today",
+      "url": "https://open.spotify.com/track/1jYIMLLTKnecfOgccQnaHb"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
+        "name": "My Darling + Angelus",
+        "url": "https://open.spotify.com/album/0FLA39VyPgqIUGQg413ptJ"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "My Darling",
+      "url": "https://open.spotify.com/track/1Lyo0G6hpTjWfWi8zjd9Wz"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
         "name": "All My Life (Remixes) (feat. Burna Boy)",
         "url": "https://open.spotify.com/album/11OlFW8YpwZTlhAdc0NCV7"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 264179,
       "name": "All My Life (Burna Boy Remix)",
       "url": "https://open.spotify.com/track/6vyM1yoPhhdezAcW8CmCJq"
-    },
-    {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
-        "name": "My Darling + Angelus",
-        "url": "https://open.spotify.com/album/0FLA39VyPgqIUGQg413ptJ"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "My Darling",
-      "url": "https://open.spotify.com/track/1Lyo0G6hpTjWfWi8zjd9Wz"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
-        "name": "Like Ice Spice / Bezos",
-        "url": "https://open.spotify.com/album/6m8f7PHYHp3IlMOxdBNKvA"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        }
-      ],
-      "duration_ms": 123434,
-      "name": "LIKE ICE SPICE",
-      "url": "https://open.spotify.com/track/61iDSv1MgCsdo0zKXGxvCO"
-    },
-    {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
         "name": "Qing Madi",
         "url": "https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn"
       },
@@ -1187,6 +1171,22 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
+        "name": "Like Ice Spice / Bezos",
+        "url": "https://open.spotify.com/album/6m8f7PHYHp3IlMOxdBNKvA"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 123434,
+      "name": "LIKE ICE SPICE",
+      "url": "https://open.spotify.com/track/61iDSv1MgCsdo0zKXGxvCO"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
         "name": "Puff & Pass",
         "url": "https://open.spotify.com/album/2ktmJpxJYszyMXloEkbh8F"
       },
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
-        "name": "Do I",
-        "url": "https://open.spotify.com/album/7GaMQzXKnDyCk5dcXUb7Dk"
-      },
-      "artists": [
-        {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
-        }
-      ],
-      "duration_ms": 155044,
-      "name": "Do I",
-      "url": "https://open.spotify.com/track/3sKWRWuDKm0NODw7kB8xUD"
-    },
-    {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
         "name": "RU The World",
         "url": "https://open.spotify.com/album/676QN3uS7pzWA0Or87JTcN"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 172394,
       "name": "Tour",
       "url": "https://open.spotify.com/track/1Jj1sgeQ71UoGgetecz7mT"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
+        "name": "Do I",
+        "url": "https://open.spotify.com/album/7GaMQzXKnDyCk5dcXUb7Dk"
+      },
+      "artists": [
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        }
+      ],
+      "duration_ms": 155044,
+      "name": "Do I",
+      "url": "https://open.spotify.com/track/3sKWRWuDKm0NODw7kB8xUD"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -1395,26 +1395,6 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
-        "name": "Margaret",
-        "url": "https://open.spotify.com/album/0mIltbkJxRGCwdSxUPCP2h"
-      },
-      "artists": [
-        {
-          "name": "Major League Djz",
-          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 331332,
-      "name": "Margaret",
-      "url": "https://open.spotify.com/track/0AyRhLx663qekqQDLf78ta"
-    },
-    {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
         "name": "COMING HOME",
         "url": "https://open.spotify.com/album/70xOoXrLzPZTRHySJED3q3"
       },
@@ -1435,18 +1415,22 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
-        "name": "Lowkey!",
-        "url": "https://open.spotify.com/album/55IMTrO086EYoxCqFksLIA"
+        "name": "Margaret",
+        "url": "https://open.spotify.com/album/0mIltbkJxRGCwdSxUPCP2h"
       },
       "artists": [
         {
-          "name": "Mayorkun",
-          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+          "name": "Major League Djz",
+          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 213710,
-      "name": "Lowkey!",
-      "url": "https://open.spotify.com/track/5GEJ9JlbSlPleQU3yb2P5y"
+      "duration_ms": 331332,
+      "name": "Margaret",
+      "url": "https://open.spotify.com/track/0AyRhLx663qekqQDLf78ta"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -1471,6 +1455,22 @@
       "duration_ms": 155644,
       "name": "NDI IKE",
       "url": "https://open.spotify.com/track/0YGSh7YrEtSQ6z4icTszc1"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
+        "name": "Lowkey!",
+        "url": "https://open.spotify.com/album/55IMTrO086EYoxCqFksLIA"
+      },
+      "artists": [
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        }
+      ],
+      "duration_ms": 213710,
+      "name": "Lowkey!",
+      "url": "https://open.spotify.com/track/5GEJ9JlbSlPleQU3yb2P5y"
     }
   ],
   "unique_name": "Traffic Jams Naija ",

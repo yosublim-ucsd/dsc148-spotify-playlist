@@ -1,12 +1,12 @@
 {
   "description": "Estas son las indomables de la M\u00fasica Mexicana. Adriana R\u00edos en portada.",
-  "num_followers": 101980,
+  "num_followers": 102014,
   "original_name": "Mujeres Brav\u00edas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NTU3NTkyMjdiOGVkMTVhNWYxZWNmYTI0ZTk2NjZjYjAzNmY5Zjlh",
+  "snapshot_id": "MCxhNmEzZjM2MDZkN2M5OWQ4Mzg4ZDBiMDhkN2YzMTY0ZDczOTZlNWMy",
   "tracks": [
     {
       "added_at": "2024-02-09 06:00:00",
@@ -135,22 +135,6 @@
     {
       "added_at": "2024-02-09 06:00:00",
       "album": {
-        "name": "Soy Lo Prohibido",
-        "url": "https://open.spotify.com/album/4kI870RBIpDEXCJfDOpyt4"
-      },
-      "artists": [
-        {
-          "name": "Alicia Villarreal",
-          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
-        }
-      ],
-      "duration_ms": 217040,
-      "name": "Te Qued\u00f3 Grande La Yegua",
-      "url": "https://open.spotify.com/track/5tPxcLBsfj9yZS4PAiOr9G"
-    },
-    {
-      "added_at": "2024-02-09 06:00:00",
-      "album": {
         "name": "Amor Prohibido",
         "url": "https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 167000,
       "name": "Si Una Vez",
       "url": "https://open.spotify.com/track/4oM7ClXSB9DNmq83thDmXj"
+    },
+    {
+      "added_at": "2024-02-09 06:00:00",
+      "album": {
+        "name": "Soy Lo Prohibido",
+        "url": "https://open.spotify.com/album/4kI870RBIpDEXCJfDOpyt4"
+      },
+      "artists": [
+        {
+          "name": "Alicia Villarreal",
+          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
+        }
+      ],
+      "duration_ms": 217040,
+      "name": "Te Qued\u00f3 Grande La Yegua",
+      "url": "https://open.spotify.com/track/5tPxcLBsfj9yZS4PAiOr9G"
     },
     {
       "added_at": "2024-02-09 06:00:00",
@@ -271,18 +271,18 @@
     {
       "added_at": "2024-02-09 06:00:00",
       "album": {
-        "name": "Orgullo De Mujer",
-        "url": "https://open.spotify.com/album/4fbZPlF487LFDjYetlqmk3"
+        "name": "Enamorada de Ti",
+        "url": "https://open.spotify.com/album/6QT2jnwcvYH2H3fEbXeu0l"
       },
       "artists": [
         {
-          "name": "Alicia Villarreal",
-          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 243933,
-      "name": "Insensible A Ti (Me Pone A Mil)",
-      "url": "https://open.spotify.com/track/6WP2v1QpghefM2iM4x5L4a"
+      "duration_ms": 190840,
+      "name": "No Me Queda M\u00e1s",
+      "url": "https://open.spotify.com/track/6wDNRITsP5tBCImheKBTgi"
     },
     {
       "added_at": "2024-02-09 06:00:00",
@@ -319,18 +319,18 @@
     {
       "added_at": "2024-02-09 06:00:00",
       "album": {
-        "name": "Enamorada de Ti",
-        "url": "https://open.spotify.com/album/6QT2jnwcvYH2H3fEbXeu0l"
+        "name": "Orgullo De Mujer",
+        "url": "https://open.spotify.com/album/4fbZPlF487LFDjYetlqmk3"
       },
       "artists": [
         {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+          "name": "Alicia Villarreal",
+          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
         }
       ],
-      "duration_ms": 190840,
-      "name": "No Me Queda M\u00e1s",
-      "url": "https://open.spotify.com/track/6wDNRITsP5tBCImheKBTgi"
+      "duration_ms": 243933,
+      "name": "Insensible A Ti (Me Pone A Mil)",
+      "url": "https://open.spotify.com/track/6WP2v1QpghefM2iM4x5L4a"
     },
     {
       "added_at": "2024-02-09 06:00:00",
@@ -355,22 +355,18 @@
     {
       "added_at": "2024-02-09 06:00:00",
       "album": {
-        "name": "Choro",
-        "url": "https://open.spotify.com/album/6nRdxqQ8YT4mAznMWZ1uAV"
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA"
       },
       "artists": [
         {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        },
-        {
-          "name": "Estilo Sin Limite",
-          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 136250,
-      "name": "Choro",
-      "url": "https://open.spotify.com/track/1tal0eLU6Wk81aLDKx0tqy"
+      "duration_ms": 157306,
+      "name": "Fotos Y Recuerdos",
+      "url": "https://open.spotify.com/track/10dVXtTtcZGkslowGjI18r"
     },
     {
       "added_at": "2024-02-09 06:00:00",
@@ -407,6 +403,26 @@
       "duration_ms": 228187,
       "name": "\u00bfCon Qu\u00e9 Se Pega un Coraz\u00f3n?",
       "url": "https://open.spotify.com/track/6C9gYd0KyVHYgxaJu4c9Td"
+    },
+    {
+      "added_at": "2024-02-09 06:00:00",
+      "album": {
+        "name": "Choro",
+        "url": "https://open.spotify.com/album/6nRdxqQ8YT4mAznMWZ1uAV"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        },
+        {
+          "name": "Estilo Sin Limite",
+          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
+        }
+      ],
+      "duration_ms": 136250,
+      "name": "Choro",
+      "url": "https://open.spotify.com/track/1tal0eLU6Wk81aLDKx0tqy"
     },
     {
       "added_at": "2024-02-09 06:00:00",
@@ -491,22 +507,6 @@
     {
       "added_at": "2024-02-09 06:00:00",
       "album": {
-        "name": "Amor Prohibido",
-        "url": "https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 157306,
-      "name": "Fotos Y Recuerdos",
-      "url": "https://open.spotify.com/track/10dVXtTtcZGkslowGjI18r"
-    },
-    {
-      "added_at": "2024-02-09 06:00:00",
-      "album": {
         "name": "Pa' Luego Es Tarde",
         "url": "https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE"
       },
@@ -555,6 +555,22 @@
     {
       "added_at": "2024-02-09 06:00:00",
       "album": {
+        "name": "Camila Fern\u00e1ndez",
+        "url": "https://open.spotify.com/album/1x6Dtb9QaGaGDTCzfSpmjq"
+      },
+      "artists": [
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        }
+      ],
+      "duration_ms": 221826,
+      "name": "Aqu\u00ed Lo Siento",
+      "url": "https://open.spotify.com/track/2mJiIQJB2GUdl7gtPf0rWt"
+    },
+    {
+      "added_at": "2024-02-09 06:00:00",
+      "album": {
         "name": "Por Puro Amor",
         "url": "https://open.spotify.com/album/0WsszKdBU8ZgICPUvrvIb6"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 219693,
       "name": "Con La Misma Piedra",
       "url": "https://open.spotify.com/track/48YY9jYcCMqW6FiAZ5EmSb"
-    },
-    {
-      "added_at": "2024-02-09 06:00:00",
-      "album": {
-        "name": "Inolvidable",
-        "url": "https://open.spotify.com/album/0mH6NFmKHwFfnPah2zVwxB"
-      },
-      "artists": [
-        {
-          "name": "DiDi R",
-          "url": "https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM"
-        }
-      ],
-      "duration_ms": 153665,
-      "name": "Inolvidable",
-      "url": "https://open.spotify.com/track/2EfvlYuCAhPe9NnstnZJDx"
     },
     {
       "added_at": "2024-02-09 06:00:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-02-09 06:00:00",
       "album": {
-        "name": "Camila Fern\u00e1ndez",
-        "url": "https://open.spotify.com/album/1x6Dtb9QaGaGDTCzfSpmjq"
-      },
-      "artists": [
-        {
-          "name": "Camila Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
-        }
-      ],
-      "duration_ms": 221826,
-      "name": "Aqu\u00ed Lo Siento",
-      "url": "https://open.spotify.com/track/2mJiIQJB2GUdl7gtPf0rWt"
-    },
-    {
-      "added_at": "2024-02-09 06:00:00",
-      "album": {
         "name": "Al No Tenerte",
         "url": "https://open.spotify.com/album/4eQvcIFA0g1LN7lGWm4JgH"
       },
@@ -635,26 +619,34 @@
     {
       "added_at": "2024-02-09 06:00:00",
       "album": {
-        "name": "\u00bfQui\u00e9n Cuida al Pueblo?",
-        "url": "https://open.spotify.com/album/4iJ94Gg6xVt1GDaCWSI6z9"
+        "name": "Inolvidable",
+        "url": "https://open.spotify.com/album/0mH6NFmKHwFfnPah2zVwxB"
       },
       "artists": [
         {
-          "name": "Vivir Quintana",
-          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
-        },
-        {
-          "name": "Andrea Echeverri",
-          "url": "https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ"
-        },
-        {
-          "name": "La Marisoul",
-          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
+          "name": "DiDi R",
+          "url": "https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM"
         }
       ],
-      "duration_ms": 244800,
-      "name": "\u00bfQui\u00e9n Cuida al Pueblo?",
-      "url": "https://open.spotify.com/track/640dyQsLPdiLI4vY16mq3D"
+      "duration_ms": 153665,
+      "name": "Inolvidable",
+      "url": "https://open.spotify.com/track/2EfvlYuCAhPe9NnstnZJDx"
+    },
+    {
+      "added_at": "2024-02-09 06:00:00",
+      "album": {
+        "name": "Esto Es Lo M\u00edo",
+        "url": "https://open.spotify.com/album/2LiyZ5nz5himXbdbSVJUl9"
+      },
+      "artists": [
+        {
+          "name": "Ang\u00e9lica Gallegos",
+          "url": "https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb"
+        }
+      ],
+      "duration_ms": 121141,
+      "name": "Esto Es Lo M\u00edo",
+      "url": "https://open.spotify.com/track/3QPtJy4luaQEW2BhhAhv5i"
     },
     {
       "added_at": "2024-02-09 06:00:00",
@@ -691,18 +683,26 @@
     {
       "added_at": "2024-02-09 06:00:00",
       "album": {
-        "name": "Esto Es Lo M\u00edo",
-        "url": "https://open.spotify.com/album/2LiyZ5nz5himXbdbSVJUl9"
+        "name": "\u00bfQui\u00e9n Cuida al Pueblo?",
+        "url": "https://open.spotify.com/album/4iJ94Gg6xVt1GDaCWSI6z9"
       },
       "artists": [
         {
-          "name": "Ang\u00e9lica Gallegos",
-          "url": "https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb"
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+        },
+        {
+          "name": "Andrea Echeverri",
+          "url": "https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ"
+        },
+        {
+          "name": "La Marisoul",
+          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
         }
       ],
-      "duration_ms": 121141,
-      "name": "Esto Es Lo M\u00edo",
-      "url": "https://open.spotify.com/track/3QPtJy4luaQEW2BhhAhv5i"
+      "duration_ms": 244800,
+      "name": "\u00bfQui\u00e9n Cuida al Pueblo?",
+      "url": "https://open.spotify.com/track/640dyQsLPdiLI4vY16mq3D"
     },
     {
       "added_at": "2024-02-09 06:00:00",
@@ -1123,38 +1123,6 @@
     {
       "added_at": "2024-02-09 06:00:00",
       "album": {
-        "name": "Jupiter",
-        "url": "https://open.spotify.com/album/0VVF1iLypafNjK0KnvgN5K"
-      },
-      "artists": [
-        {
-          "name": "Ivonne Galaz",
-          "url": "https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G"
-        }
-      ],
-      "duration_ms": 182706,
-      "name": "Normal",
-      "url": "https://open.spotify.com/track/50NrQCGKrRSQeTQ2IWneLf"
-    },
-    {
-      "added_at": "2024-02-09 06:00:00",
-      "album": {
-        "name": "\u00bfPor Qu\u00e9 No Vienes?",
-        "url": "https://open.spotify.com/album/0YkM3kQNfaCjr5cUjNktzm"
-      },
-      "artists": [
-        {
-          "name": "Vicky Terrazas",
-          "url": "https://open.spotify.com/artist/4DklMZnSnGfzavNx8P02VG"
-        }
-      ],
-      "duration_ms": 215346,
-      "name": "\u00bfPor Qu\u00e9 No Vienes?",
-      "url": "https://open.spotify.com/track/5OMUiJlu6MR1JAS7PVuIOY"
-    },
-    {
-      "added_at": "2024-02-09 06:00:00",
-      "album": {
         "name": "No que no",
         "url": "https://open.spotify.com/album/0epUaxYXXwj70sm73aYpSF"
       },
@@ -1183,6 +1151,38 @@
       "duration_ms": 192913,
       "name": "Cuando Me Importabas",
       "url": "https://open.spotify.com/track/0ihv6gQs9XoIr7me3M9sCy"
+    },
+    {
+      "added_at": "2024-02-09 06:00:00",
+      "album": {
+        "name": "\u00bfPor Qu\u00e9 No Vienes?",
+        "url": "https://open.spotify.com/album/0YkM3kQNfaCjr5cUjNktzm"
+      },
+      "artists": [
+        {
+          "name": "Vicky Terrazas",
+          "url": "https://open.spotify.com/artist/4DklMZnSnGfzavNx8P02VG"
+        }
+      ],
+      "duration_ms": 215346,
+      "name": "\u00bfPor Qu\u00e9 No Vienes?",
+      "url": "https://open.spotify.com/track/5OMUiJlu6MR1JAS7PVuIOY"
+    },
+    {
+      "added_at": "2024-02-09 06:00:00",
+      "album": {
+        "name": "Jupiter",
+        "url": "https://open.spotify.com/album/0VVF1iLypafNjK0KnvgN5K"
+      },
+      "artists": [
+        {
+          "name": "Ivonne Galaz",
+          "url": "https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G"
+        }
+      ],
+      "duration_ms": 182706,
+      "name": "Normal",
+      "url": "https://open.spotify.com/track/50NrQCGKrRSQeTQ2IWneLf"
     },
     {
       "added_at": "2024-02-09 06:00:00",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2024-02-09 06:00:00",
       "album": {
+        "name": "Quiz\u00e1s Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/09JmTJCZF852vM3wsiO5iw"
+      },
+      "artists": [
+        {
+          "name": "Aida Cuevas",
+          "url": "https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr"
+        }
+      ],
+      "duration_ms": 275064,
+      "name": "Quiz\u00e1s Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/4Jze2pgd8QU9XHjzFCIFKL"
+    },
+    {
+      "added_at": "2024-02-09 06:00:00",
+      "album": {
         "name": "Ahora Va La M\u00eda",
         "url": "https://open.spotify.com/album/6oqlFEjgYbCrsMBPiH0NID"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 145518,
       "name": "El Bato Gacho",
       "url": "https://open.spotify.com/track/4zFxX8QAOcoqkCm9QWT7cq"
-    },
-    {
-      "added_at": "2024-02-09 06:00:00",
-      "album": {
-        "name": "Quiz\u00e1s Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/09JmTJCZF852vM3wsiO5iw"
-      },
-      "artists": [
-        {
-          "name": "Aida Cuevas",
-          "url": "https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr"
-        }
-      ],
-      "duration_ms": 275064,
-      "name": "Quiz\u00e1s Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/4Jze2pgd8QU9XHjzFCIFKL"
     },
     {
       "added_at": "2024-02-09 06:00:00",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2024-02-09 06:00:00",
       "album": {
-        "name": "Voy A Quedarte Mal",
-        "url": "https://open.spotify.com/album/6hpTo2yzqSjV7ZORP6LW0r"
-      },
-      "artists": [
-        {
-          "name": "Erika Vidrio",
-          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
-        }
-      ],
-      "duration_ms": 223211,
-      "name": "Voy A Quedarte Mal",
-      "url": "https://open.spotify.com/track/0AMcdHtKAFDBtEtDb1JNl2"
-    },
-    {
-      "added_at": "2024-02-09 06:00:00",
-      "album": {
         "name": "No Te Fui Suficiente",
         "url": "https://open.spotify.com/album/6kXkoHpJOaXE5m5Nl30qOh"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 278666,
       "name": "No Te Fui Suficiente",
       "url": "https://open.spotify.com/track/2L4keb30QHo4pQzOpJ1W06"
+    },
+    {
+      "added_at": "2024-02-09 06:00:00",
+      "album": {
+        "name": "Voy A Quedarte Mal",
+        "url": "https://open.spotify.com/album/6hpTo2yzqSjV7ZORP6LW0r"
+      },
+      "artists": [
+        {
+          "name": "Erika Vidrio",
+          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
+        }
+      ],
+      "duration_ms": 223211,
+      "name": "Voy A Quedarte Mal",
+      "url": "https://open.spotify.com/track/0AMcdHtKAFDBtEtDb1JNl2"
     },
     {
       "added_at": "2024-02-09 06:00:00",

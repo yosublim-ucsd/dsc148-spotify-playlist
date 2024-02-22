@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 
 > This is League of Legends\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,665 likes - 51 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,753 likes - 51 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 | 39 | [Burning Bright](https://open.spotify.com/track/6d2cQyhS2E4ai0VuNCorFC) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Burning Bright](https://open.spotify.com/album/25DYEijVSAPC4w9R1BxtsS) | 3:07 |
 | 40 | [Run It](https://open.spotify.com/track/3uKNoYPEy588darPCXlZxf) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Thutmose](https://open.spotify.com/artist/1igl9M102nuD96lo3ZoW5d), [Cal Scruby](https://open.spotify.com/artist/2wcrc3fjebDRLVdtRUa3pu) | [Run It](https://open.spotify.com/album/0h4zde0cxK8qD7Zd3f77Nu) | 3:37 |
 | 41 | [Hwei, the Visionary](https://open.spotify.com/track/2D4duiQsK4GJ6b6sl1TC7t) | [Ben Hicks](https://open.spotify.com/artist/3zTYcPDNUMSm7plwLKrH4p), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Hwei, the Visionary](https://open.spotify.com/album/1CNmUDQWcgSdMHm1AAvlCb) | 4:07 |
-| 42 | [Zeri, the Spark of Zaun](https://open.spotify.com/track/6q7tXbbAOFY9qMT6LMKHnA) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Lauren Babic](https://open.spotify.com/artist/6nT7RjBCuuggrafnb43vUX) | [Zeri, the Spark of Zaun](https://open.spotify.com/album/5Cco6XUss3Ws0CMyPUaLOQ) | 3:33 |
-| 43 | [Pantheon, the Unbreakable Spear \(From League of Legends: Season 9\)](https://open.spotify.com/track/2WuZNdPwSKkGCTKapd3GhG) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [The Music of League of Legends: Season 9 \(Original Game Soundtrack\)](https://open.spotify.com/album/3cYnSSnBe1akJwxv64PHOg) | 3:38 |
-| 44 | [Rules \(Are Meant to Break\)](https://open.spotify.com/track/0rZiFIOOnem9NmdzFEJBmR) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Che Lingo](https://open.spotify.com/artist/0xNKgWtSixAqcwJLM2c8ez) | [Rules \(Are Meant to Break\)](https://open.spotify.com/album/2iv4BH1w4P2vpiRZq3V9rj) | 3:01 |
+| 42 | [Rules \(Are Meant to Break\)](https://open.spotify.com/track/0rZiFIOOnem9NmdzFEJBmR) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Che Lingo](https://open.spotify.com/artist/0xNKgWtSixAqcwJLM2c8ez) | [Rules \(Are Meant to Break\)](https://open.spotify.com/album/2iv4BH1w4P2vpiRZq3V9rj) | 3:01 |
+| 43 | [Zeri, the Spark of Zaun](https://open.spotify.com/track/6q7tXbbAOFY9qMT6LMKHnA) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Lauren Babic](https://open.spotify.com/artist/6nT7RjBCuuggrafnb43vUX) | [Zeri, the Spark of Zaun](https://open.spotify.com/album/5Cco6XUss3Ws0CMyPUaLOQ) | 3:33 |
+| 44 | [Pantheon, the Unbreakable Spear \(From League of Legends: Season 9\)](https://open.spotify.com/track/2WuZNdPwSKkGCTKapd3GhG) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [The Music of League of Legends: Season 9 \(Original Game Soundtrack\)](https://open.spotify.com/album/3cYnSSnBe1akJwxv64PHOg) | 3:38 |
 | 45 | [Awakened](https://open.spotify.com/track/2Q218QT28mAgqnUVDgUOsK) | [LEC](https://open.spotify.com/artist/3pIwN0ERwFjm7yfQQXpfyz), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Awakened](https://open.spotify.com/album/3MnKqpMwBhVhrfN8XTCgPq) | 4:13 |
 | 46 | [The Curse of the Sad Mummy](https://open.spotify.com/track/6vWCjuZTaKuyp5IfDmmNyx) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [The Music of League of Legends Vol\. 1](https://open.spotify.com/album/4pg51OJaG6MGlpRFxWWLpr) | 3:59 |
 | 47 | [Set It Off](https://open.spotify.com/track/6qONYDmRz1s7Msz0yVDHMB) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg), [JIMMYCLINE](https://open.spotify.com/artist/4Z6fYh9ANGOfOSylYE5gZz) | [Set It Off](https://open.spotify.com/album/1dvFlkLfxQ9NsmZ61FUO4W) | 2:30 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 | 50 | [2023 World Championship Theme](https://open.spotify.com/track/7s9QiG7yUXpr9qNPUlZH3r) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [2023 World Championship Theme](https://open.spotify.com/album/41OWf02MFdHDPMP8439pWP) | 2:59 |
 | 51 | [Smolder, the Fiery Fledgling](https://open.spotify.com/track/1Fbm1bxQ0sXamkpjiXMClp) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Smolder, the Fiery Fledgling](https://open.spotify.com/album/2qebqrLs9esVTMWZRsztPj) | 3:40 |
 
-Snapshot ID: `Mjg0NzQxMzEsMDAwMDAwMDAwMDE5NmRlOGQwN2I5ZWYzZTkzMzYzOWIzN2IxZTE0YQ==`
+Snapshot ID: `Mjg0NzUyOTEsMDAwMDAwMDAyZWI1Y2E4NjA5YmEzMTMwYWI0YmI0MWYwM2VmYTA3Nw==`

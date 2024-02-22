@@ -4,7 +4,7 @@
 
 > Laid back soul music.
 
-328 songs - 23 hr 8 min
+329 songs - 23 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -264,7 +264,8 @@
 | [Slippin' Away](https://open.spotify.com/track/14TzzejRqmelvZKtJN8Und) | [Leon Ware](https://open.spotify.com/artist/3DwcX6M6GF3KGWbVmfNp8G) | [Leon Ware](https://open.spotify.com/album/4kMmUIUc2k7H3t7DimHhqE) | 4:10 | 2022-02-04 | 2022-07-28 |
 | [So Close](https://open.spotify.com/track/7c51mPqkeaO44KJjVuBG5J) | [Dina Carroll](https://open.spotify.com/artist/6G7PZ5QfWCPDMxTJ48vYwG) | [So Close](https://open.spotify.com/album/1N6OwzFpqpAbm4tjhuxMDe) | 4:53 | 2022-02-04 | 2022-07-29 |
 | [So in Love with You](https://open.spotify.com/track/7yLQMOBHYEkFkFQcEoNEpR) | [Leroy Hutson](https://open.spotify.com/artist/5YJjMGHVQj1IHBabXX8lH6) | [Love Oh Love](https://open.spotify.com/album/63QvEGahoi8TbcSNp0dT3e) | 2:58 | 2022-01-03 |  |
-| [Some Of Us Are Brave](https://open.spotify.com/track/076Ang4pgcByLvOEzNpW94) | [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Some Of Us Are Brave](https://open.spotify.com/album/7jvUHQQ7qlH4aymSXEDMkn) | 3:53 | 2022-09-08 |  |
+| [Some Of Us Are Brave](https://open.spotify.com/track/076Ang4pgcByLvOEzNpW94) | [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Some Of Us Are Brave](https://open.spotify.com/album/7jvUHQQ7qlH4aymSXEDMkn) | 3:53 | 2022-09-08 | 2024-02-22 |
+| [Some Of Us Are Brave](https://open.spotify.com/track/4Tr04LzFeZEYgcF7vKN1NN) | [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Some Of Us Are Brave](https://open.spotify.com/album/3U9lnLFMvyzJfBq6Twv06y) | 3:53 | 2024-02-09 |  |
 | [Somebody Is Gonna Lose A Good Woman](https://open.spotify.com/track/5EJZKffdlqfITcIce4oTM1) | [Jeff Floyd](https://open.spotify.com/artist/4daynj4qj7K17EbBzEhtDe) | [The Power Is Still On](https://open.spotify.com/album/63YiJ6IIvvEhxJ8uydvYFE) | 5:01 | 2022-01-05 | 2022-01-06 |
 | [Someone to Love \(feat\. Babyface\)](https://open.spotify.com/track/0vupPI8zGxy3QAgIynKtbh) | [Jon B.](https://open.spotify.com/artist/3SRJWVa6lZnqRHOyAHmDrX), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Bonafide](https://open.spotify.com/album/1q8qdjJU2M2hG9Wx8IO6GT) | 4:33 | 2022-02-21 | 2022-04-21 |
 | [Someone to Love \(feat\. Babyface\)](https://open.spotify.com/track/1ukbwpUGSimFKWxI7KfT8h) | [Jon B.](https://open.spotify.com/artist/3SRJWVa6lZnqRHOyAHmDrX), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Bonafide](https://open.spotify.com/album/1Os4j9C15CDRcQsfpraAkY) | 4:33 | 2022-05-11 | 2023-04-21 |

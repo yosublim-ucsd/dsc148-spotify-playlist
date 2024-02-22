@@ -1,5 +1,5 @@
 {
-  "2024-02-21": 413262,
+  "2024-02-22": 413505,
   "date_first_scraped": "2022-01-21",
   "description": "Perreo con \u2764\ufe0f\u200d\ud83d\udd25\u2764\ufe0f\u200d\ud83d\udd25\u2764\ufe0f\u200d\ud83d\udd25",
   "name": "Romantiqueo",
@@ -2705,7 +2705,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 270869,
       "name": "El Amor de tu Vida (feat. Lenny Tav\u00e1rez & Best) - Remix",
       "url": "https://open.spotify.com/track/0e09Q1sQWzAsP2Yo62la9F"
@@ -7649,6 +7649,28 @@
       "duration_ms": 192692,
       "name": "Suelo Pensarte",
       "url": "https://open.spotify.com/track/5swq6T052tEljbGGZ5yKqh"
+    },
+    {
+      "album": {
+        "name": "Sue\u00f1os Perdidos",
+        "url": "https://open.spotify.com/album/6JsNEh667ctg1Iznj6rdTI"
+      },
+      "artists": [
+        {
+          "name": "BROKIX",
+          "url": "https://open.spotify.com/artist/5yo2KNGw3Z6a9n0Xiswb50"
+        },
+        {
+          "name": "Esteban Rojas",
+          "url": "https://open.spotify.com/artist/680tleL97NcpJiib89V6UU"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "Sue\u00f1os Perdidos",
+      "url": "https://open.spotify.com/track/0dpZO7uwO7sPYUJ3TtxG12"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "\u200bBoogie along to doo-wop's greatest hits.",
-  "num_followers": 221877,
+  "num_followers": 221903,
   "original_name": "Doo-Wop Dee Doo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYjk3OGZjNjVhODU5NmI1ODRiZTVkMGMwNjU1MmU3OWRjMjk4ODA4",
+  "snapshot_id": "MCwwYjFiYTIxN2Q0YTU3MDY5ODBmYmRiM2Q5YTYwMjNmZTZlNjBhOWM0",
   "tracks": [
     {
       "added_at": "2021-02-12 10:06:47",
@@ -139,26 +139,6 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
-        "name": "The Best Of Frankie Lymon & The Teenagers",
-        "url": "https://open.spotify.com/album/0vMlyH3qNCkun2rIFVU5Gm"
-      },
-      "artists": [
-        {
-          "name": "Frankie Lymon",
-          "url": "https://open.spotify.com/artist/2KMQz6s6MNRr4bxI8EQdRk"
-        },
-        {
-          "name": "The Teenagers",
-          "url": "https://open.spotify.com/artist/1C5aVv7xV2lMH2epG5Dpi4"
-        }
-      ],
-      "duration_ms": 139666,
-      "name": "Why Do Fools Fall in Love",
-      "url": "https://open.spotify.com/track/2xKfXRhw5xaUXfevJJspZf"
-    },
-    {
-      "added_at": "2021-02-12 10:06:47",
-      "album": {
         "name": "Dirty Dancing (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0mtLFaQ3hL371jsNraRo9g"
       },
@@ -175,6 +155,26 @@
       "duration_ms": 94906,
       "name": "Stay",
       "url": "https://open.spotify.com/track/5R2DZitRTDYtrkCoJiddct"
+    },
+    {
+      "added_at": "2021-02-12 10:06:47",
+      "album": {
+        "name": "The Best Of Frankie Lymon & The Teenagers",
+        "url": "https://open.spotify.com/album/0vMlyH3qNCkun2rIFVU5Gm"
+      },
+      "artists": [
+        {
+          "name": "Frankie Lymon",
+          "url": "https://open.spotify.com/artist/2KMQz6s6MNRr4bxI8EQdRk"
+        },
+        {
+          "name": "The Teenagers",
+          "url": "https://open.spotify.com/artist/1C5aVv7xV2lMH2epG5Dpi4"
+        }
+      ],
+      "duration_ms": 139666,
+      "name": "Why Do Fools Fall in Love",
+      "url": "https://open.spotify.com/track/2xKfXRhw5xaUXfevJJspZf"
     },
     {
       "added_at": "2021-02-12 10:06:47",
@@ -555,6 +555,26 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
+        "name": "Doo Wop Classics Vol. 1",
+        "url": "https://open.spotify.com/album/74o0BLyhgBt6bvNqflYNmp"
+      },
+      "artists": [
+        {
+          "name": "Shep",
+          "url": "https://open.spotify.com/artist/4FrUg4jMTAlZHhBsOIYGJV"
+        },
+        {
+          "name": "The Limelites",
+          "url": "https://open.spotify.com/artist/2pEAs011HTyChRqX8VR8lW"
+        }
+      ],
+      "duration_ms": 174200,
+      "name": "Daddy's Home",
+      "url": "https://open.spotify.com/track/6pLYCkA0j6dcjMSP4IrgxW"
+    },
+    {
+      "added_at": "2021-02-12 10:06:47",
+      "album": {
         "name": "Dreams Of Contentment (Special Deluxe Collection)",
         "url": "https://open.spotify.com/album/1d010u6FB9UIUlk2P9BRYI"
       },
@@ -583,26 +603,6 @@
       "duration_ms": 170186,
       "name": "You Belong To Me",
       "url": "https://open.spotify.com/track/1bgKnEPujoiQzz0pc6gdt7"
-    },
-    {
-      "added_at": "2021-02-12 10:06:47",
-      "album": {
-        "name": "Doo Wop Classics Vol. 1",
-        "url": "https://open.spotify.com/album/74o0BLyhgBt6bvNqflYNmp"
-      },
-      "artists": [
-        {
-          "name": "Shep",
-          "url": "https://open.spotify.com/artist/4FrUg4jMTAlZHhBsOIYGJV"
-        },
-        {
-          "name": "The Limelites",
-          "url": "https://open.spotify.com/artist/2pEAs011HTyChRqX8VR8lW"
-        }
-      ],
-      "duration_ms": 174200,
-      "name": "Daddy's Home",
-      "url": "https://open.spotify.com/track/6pLYCkA0j6dcjMSP4IrgxW"
     },
     {
       "added_at": "2021-02-12 10:06:47",

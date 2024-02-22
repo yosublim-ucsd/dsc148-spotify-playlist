@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Chile.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,125 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,145 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 | 49 | [Cora Roto](https://open.spotify.com/track/35fSKiaVknkbEBJxvqKuHU) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [Cora Roto](https://open.spotify.com/album/0kuwC399JZDrmSjbGa6nCl) | 3:37 |
 | 50 | [pa la europa](https://open.spotify.com/track/7f6PquSCnTPMb1AbBu92oI) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy) | [pa la europa](https://open.spotify.com/album/3bUDTQ89TXoOcP4JTCBpeo) | 3:39 |
 
-Snapshot ID: `NzYxNzkzNjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`
+Snapshot ID: `NzYxODgwMDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`

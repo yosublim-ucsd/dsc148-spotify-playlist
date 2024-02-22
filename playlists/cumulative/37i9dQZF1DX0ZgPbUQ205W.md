@@ -4,7 +4,7 @@
 
 > Calm and soft sounds of Jazz to help you relax and unwind.
 
-332 songs - 23 hr 57 min
+333 songs - 23 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Austin](https://open.spotify.com/track/4hNWyQLrBIhFpEnwhpLNJh) | [Marcin Wasilewski Trio](https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL), [Joakim Milder](https://open.spotify.com/artist/6qlsVWkkxnqeu0ysL9qDjx) | [Spark Of Life](https://open.spotify.com/album/6xryZq7zr0ukHTMLRgGLoS) | 7:07 | 2022-05-25 |  |
 | [Autumn Once Again](https://open.spotify.com/track/3FFYuymUtI8DihGhLMHggW) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Autumn Once Again](https://open.spotify.com/album/3XWIqHBr7g3vkRKOx94SFk) | 4:44 | 2022-11-11 |  |
 | [Bad Spot](https://open.spotify.com/track/18l7PDQQ9gG5id24OeOMqD) | [Gottfried Barber Trio](https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf) | [Bad Spot](https://open.spotify.com/album/57Ty0PQ9AF7rNfUZAGeeY6) | 2:56 | 2023-08-17 |  |
-| [Beautiful Skin](https://open.spotify.com/track/6RCaFbkhc54IEtih0e3JhO) | [Magnús Jóhann](https://open.spotify.com/artist/3mwA449O96oqSJzR7F2JW5), [Skúli Sverrisson](https://open.spotify.com/artist/78kBVKyMQy7r9mEul6sXoh) | [Beautiful Skin](https://open.spotify.com/album/5A30Kh2Yrc2FbxjIBKOavp) | 3:03 | 2021-12-17 |  |
+| [Beautiful Skin](https://open.spotify.com/track/6RCaFbkhc54IEtih0e3JhO) | [Magnús Jóhann](https://open.spotify.com/artist/3mwA449O96oqSJzR7F2JW5), [Skúli Sverrisson](https://open.spotify.com/artist/78kBVKyMQy7r9mEul6sXoh) | [Beautiful Skin](https://open.spotify.com/album/5A30Kh2Yrc2FbxjIBKOavp) | 3:03 | 2021-12-17 | 2024-02-22 |
 | [Begging](https://open.spotify.com/track/258PbYttupkBbMUYHWSD8E) | [Mathias Eick](https://open.spotify.com/artist/6emZIO62oAXpIGiplDApwJ) | [Begging](https://open.spotify.com/album/1xHV3UVKqlEB1VCm3AiA0p) | 4:54 | 2021-12-17 |  |
 | [Beginning](https://open.spotify.com/track/0LP368Un2yy06i9hLCig9N) | [Kjetil Mulelid](https://open.spotify.com/artist/1RBwhYR07uefS25DqynAMy) | [Piano](https://open.spotify.com/album/7yRzVFzD4b5aTWlXsFIm6k) | 4:38 | 2021-12-17 |  |
 | [Belt of Venus](https://open.spotify.com/track/051WPIDuWqgVGeb68Or5KO) | [Lynn Avery](https://open.spotify.com/artist/1sniKBvInfBWCIkzFMUshP), [Cole Pulice](https://open.spotify.com/artist/7JUWlvLs6PzPMLryj6sdCh) | [To Live & Die In Space & Time](https://open.spotify.com/album/3gQqYnC4DbOrmnmPH51QPn) | 3:11 | 2022-02-24 | 2022-03-18 |
@@ -68,6 +68,7 @@
 | [Dancing Shadows](https://open.spotify.com/track/6F14syg4FMAOjIHCfJvb2C) | [Dries Riesen](https://open.spotify.com/artist/2CBiYt7JDgmt7EYJEVmDdL) | [Dancing Shadows](https://open.spotify.com/album/05JsbFBmz50hZwtFH2GQWK) | 3:24 | 2023-08-31 |  |
 | [Danny Boy](https://open.spotify.com/track/0HrxeBGg3LGIw170eNX9SW) | [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK) | [John Scofield](https://open.spotify.com/album/5KxGVWWQWETbJQ6ckQ4XD6) | 4:56 | 2022-05-19 | 2022-05-31 |
 | [Dans mon pays](https://open.spotify.com/track/5ej5LGbMYLgfpNYY85bYv9) | [Matthieu Bordenave](https://open.spotify.com/artist/2r30D3PYG5DxMxwwsxE8FE), [Patrice Moret](https://open.spotify.com/artist/0MTZfu5gIOffmUnu7hmrg1), [Florian Weber](https://open.spotify.com/artist/191rzpMqossqKurYORFe8F) | [Dans mon pays](https://open.spotify.com/album/3spAWJ1FOjGIJSM1CJyCOT) | 4:35 | 2021-12-17 | 2023-09-07 |
+| [Days of Hope](https://open.spotify.com/track/2du32xbCagN60GvRvtbRmH) | [Ola W Jansson](https://open.spotify.com/artist/4hoFdBmz4b5NykkV0SCEVz), [W JAZZ TRIO](https://open.spotify.com/artist/4nFofMNAntqM5p8Q4ha2YA) | [Days of Hope](https://open.spotify.com/album/3PgS9gBwNFLDkBxNeSbBBk) | 2:34 | 2024-02-21 |  |
 | [Deep As Love](https://open.spotify.com/track/2zLYr006x2323uleZZT1U2) | [Tord Gustavsen Trio](https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a) | [Changing Places](https://open.spotify.com/album/4572n5PFAccWTD3Aq3tw5g) | 5:54 | 2022-05-26 | 2022-10-07 |
 | [Desire](https://open.spotify.com/track/4XrTlrbPQF6kkrNZ7X1Nyk) | [Gillian Spencer Trio](https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM) | [Desire](https://open.spotify.com/album/7Iw3lbOiYLqhgPbr7tl8xR) | 4:00 | 2022-11-11 |  |
 | [Distant Hearts](https://open.spotify.com/track/7qOoWH3cUsEMfqEGcT1muE) | [The Don Mason Trio](https://open.spotify.com/artist/0lKn6bgPn1MwQE2L2OGjUf) | [Distant Hearts](https://open.spotify.com/album/1fbiWYWMGJF3yB4WmoqJNv) | 2:19 | 2022-11-24 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > Essential new pop tracks\. Cover: Myles Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,786 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,816 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 99 | [Illusion](https://open.spotify.com/track/2du5P5ONNBbrn4vHiqV0dY) | [Ghita](https://open.spotify.com/artist/0oZLmVQhyT6zFb7EjpJRrR) | [Illusion](https://open.spotify.com/album/4z3b2ipdkf4WijSlYcI6Gv) | 2:38 |
 | 100 | [BAD KARMA](https://open.spotify.com/track/3NONd2k32jYHxuSPGENaJU) | [My Name Is Alex](https://open.spotify.com/artist/1MaDqHjCtpHgPJHQz5bV2C) | [BAD KARMA](https://open.spotify.com/album/1s7LXlHTRTF4UVLh02haTn) | 2:49 |
 
-Snapshot ID: `MCw3Njg0ODU5ZDdmOTVjNzg3MjRmMTk2YWRjNTYyODRmZjRlODc4ZDMw`
+Snapshot ID: `MCw4Yjg0NDNjMzJkNDM1Mzg5NDI2MGQ5NGVkZmY3MTZlZGI4YTYxMTg0`

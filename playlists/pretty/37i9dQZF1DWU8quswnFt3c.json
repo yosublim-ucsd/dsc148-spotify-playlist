@@ -1,12 +1,12 @@
 {
   "description": "Listen to women at full volume. Cover: Loredana Bert\u00e8",
-  "num_followers": 903994,
+  "num_followers": 903972,
   "original_name": "EQUAL Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NmI4MjFhYmMxNDJkNjdiZGVjMjFlNGRkNzk5MmU5Y2ZiZTQ4MDk1",
+  "snapshot_id": "MCxhNWE0NWUxZGZjZjA1ZjNiZjcyOTkwNmM3MDUzZTVkODMyOGUwNDkx",
   "tracks": [
     {
       "added_at": "2024-02-07 13:26:59",
@@ -263,6 +263,22 @@
     {
       "added_at": "2024-02-07 13:26:59",
       "album": {
+        "name": "Toryanse",
+        "url": "https://open.spotify.com/album/5tHcuKjRQIAwAvm1eoQIqI"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 156556,
+      "name": "Toryanse",
+      "url": "https://open.spotify.com/track/6Zdy0Snyt41k4Bg8Imtq7r"
+    },
+    {
+      "added_at": "2024-02-07 13:26:59",
+      "album": {
         "name": "Pentru ca",
         "url": "https://open.spotify.com/album/6xA5uMZ5SLFnv2K9IVKOUx"
       },
@@ -283,22 +299,6 @@
     {
       "added_at": "2024-02-07 13:26:59",
       "album": {
-        "name": "Toryanse",
-        "url": "https://open.spotify.com/album/5tHcuKjRQIAwAvm1eoQIqI"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 156556,
-      "name": "Toryanse",
-      "url": "https://open.spotify.com/track/6Zdy0Snyt41k4Bg8Imtq7r"
-    },
-    {
-      "added_at": "2024-02-07 13:26:59",
-      "album": {
         "name": "CAM'ON",
         "url": "https://open.spotify.com/album/5tZXLMvuV0A4HYbU9tcQrg"
       },
@@ -315,22 +315,6 @@
     {
       "added_at": "2024-02-07 13:26:59",
       "album": {
-        "name": "\u4f60\u7684\u7ae5\u8a71",
-        "url": "https://open.spotify.com/album/5lCV1ehKM7jma7XgLQF2KD"
-      },
-      "artists": [
-        {
-          "name": "LaLa Hsu",
-          "url": "https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y"
-        }
-      ],
-      "duration_ms": 327001,
-      "name": "\u4f60\u7684\u7ae5\u8a71 (\u96fb\u8996\u5287\u300a\u4f60\u4e5f\u6709\u4eca\u5929\u300b\u7247\u5c3e\u66f2)",
-      "url": "https://open.spotify.com/track/1yKfefGYc9vk125q1OrSPm"
-    },
-    {
-      "added_at": "2024-02-07 13:26:59",
-      "album": {
         "name": "Bravo",
         "url": "https://open.spotify.com/album/4hjUdsAbOJlVTvPjTuWdKu"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 191479,
       "name": "Bravo",
       "url": "https://open.spotify.com/track/36FUspAqaG0UBBRrOXpnsF"
+    },
+    {
+      "added_at": "2024-02-07 13:26:59",
+      "album": {
+        "name": "\u4f60\u7684\u7ae5\u8a71",
+        "url": "https://open.spotify.com/album/5lCV1ehKM7jma7XgLQF2KD"
+      },
+      "artists": [
+        {
+          "name": "LaLa Hsu",
+          "url": "https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y"
+        }
+      ],
+      "duration_ms": 327001,
+      "name": "\u4f60\u7684\u7ae5\u8a71 (\u96fb\u8996\u5287\u300a\u4f60\u4e5f\u6709\u4eca\u5929\u300b\u7247\u5c3e\u66f2)",
+      "url": "https://open.spotify.com/track/1yKfefGYc9vk125q1OrSPm"
     },
     {
       "added_at": "2024-02-07 13:26:59",
@@ -435,6 +435,22 @@
     {
       "added_at": "2024-02-07 13:26:59",
       "album": {
+        "name": "Mine",
+        "url": "https://open.spotify.com/album/61brdiy3qEnUfbWWALxipD"
+      },
+      "artists": [
+        {
+          "name": "Jea Mira",
+          "url": "https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3"
+        }
+      ],
+      "duration_ms": 161188,
+      "name": "Mine",
+      "url": "https://open.spotify.com/track/1K4W4T2b5mTzvmrVzVa7yH"
+    },
+    {
+      "added_at": "2024-02-07 13:26:59",
+      "album": {
         "name": "BITE BACK",
         "url": "https://open.spotify.com/album/3X1sMupgW7KQJQsk0QXAdM"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 184490,
       "name": "\u0412\u0441\u0435 \u043d\u0435\u0432\u0438\u043f\u0430\u0434\u043a\u043e\u0432\u043e",
       "url": "https://open.spotify.com/track/5hjBItGjGd9JIFv5sltLIQ"
-    },
-    {
-      "added_at": "2024-02-07 13:26:59",
-      "album": {
-        "name": "Mine",
-        "url": "https://open.spotify.com/album/61brdiy3qEnUfbWWALxipD"
-      },
-      "artists": [
-        {
-          "name": "Jea Mira",
-          "url": "https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3"
-        }
-      ],
-      "duration_ms": 161188,
-      "name": "Mine",
-      "url": "https://open.spotify.com/track/1K4W4T2b5mTzvmrVzVa7yH"
     },
     {
       "added_at": "2024-02-07 13:26:59",
@@ -547,22 +547,6 @@
     {
       "added_at": "2024-02-07 13:26:59",
       "album": {
-        "name": "\u0e04\u0e34\u0e14\u0e21\u0e32\u0e01\u0e41\u0e15\u0e48\u0e44\u0e21\u0e48\u0e21\u0e32\u0e01\u0e40\u0e17\u0e48\u0e32\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e40\u0e18\u0e2d (Melatonin)",
-        "url": "https://open.spotify.com/album/1HCRQm24bs0w8qfA6MpJ5t"
-      },
-      "artists": [
-        {
-          "name": "Praesun",
-          "url": "https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7"
-        }
-      ],
-      "duration_ms": 195810,
-      "name": "\u0e04\u0e34\u0e14\u0e21\u0e32\u0e01\u0e41\u0e15\u0e48\u0e44\u0e21\u0e48\u0e21\u0e32\u0e01\u0e40\u0e17\u0e48\u0e32\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e40\u0e18\u0e2d - Melatonin",
-      "url": "https://open.spotify.com/track/3PzEupYTcbnYC9Qae05hG9"
-    },
-    {
-      "added_at": "2024-02-07 13:26:59",
-      "album": {
         "name": "\u05d7\u05d9\u05d1\u05d5\u05e7 \u05d0\u05d7\u05e8\u05d5\u05df",
         "url": "https://open.spotify.com/album/6rYUd3vvCwvRdqW0o6W5Ms"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 173996,
       "name": "\u05d7\u05d9\u05d1\u05d5\u05e7 \u05d0\u05d7\u05e8\u05d5\u05df",
       "url": "https://open.spotify.com/track/16a8kHfP9No2P9zqULmhtD"
+    },
+    {
+      "added_at": "2024-02-07 13:26:59",
+      "album": {
+        "name": "\u0e04\u0e34\u0e14\u0e21\u0e32\u0e01\u0e41\u0e15\u0e48\u0e44\u0e21\u0e48\u0e21\u0e32\u0e01\u0e40\u0e17\u0e48\u0e32\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e40\u0e18\u0e2d (Melatonin)",
+        "url": "https://open.spotify.com/album/1HCRQm24bs0w8qfA6MpJ5t"
+      },
+      "artists": [
+        {
+          "name": "Praesun",
+          "url": "https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7"
+        }
+      ],
+      "duration_ms": 195810,
+      "name": "\u0e04\u0e34\u0e14\u0e21\u0e32\u0e01\u0e41\u0e15\u0e48\u0e44\u0e21\u0e48\u0e21\u0e32\u0e01\u0e40\u0e17\u0e48\u0e32\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e40\u0e18\u0e2d - Melatonin",
+      "url": "https://open.spotify.com/track/3PzEupYTcbnYC9Qae05hG9"
     },
     {
       "added_at": "2024-02-07 13:26:59",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-02-07 13:26:59",
       "album": {
-        "name": "mother luna",
-        "url": "https://open.spotify.com/album/1xfuwVFrHx1EnQuo3MlLuy"
-      },
-      "artists": [
-        {
-          "name": "ajsa luna",
-          "url": "https://open.spotify.com/artist/0PmmEd4m9BdqzxjMpMQwJE"
-        }
-      ],
-      "duration_ms": 148800,
-      "name": "mother luna",
-      "url": "https://open.spotify.com/track/5O5XF0Ln1X1lejZcP8iS02"
-    },
-    {
-      "added_at": "2024-02-07 13:26:59",
-      "album": {
         "name": "Ao Mar",
         "url": "https://open.spotify.com/album/08ZO2fQuSKKppyJX7JePDL"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 289640,
       "name": "Mulher",
       "url": "https://open.spotify.com/track/1UcJsuWtnJauNxaCe8BI7u"
+    },
+    {
+      "added_at": "2024-02-07 13:26:59",
+      "album": {
+        "name": "mother luna",
+        "url": "https://open.spotify.com/album/1xfuwVFrHx1EnQuo3MlLuy"
+      },
+      "artists": [
+        {
+          "name": "ajsa luna",
+          "url": "https://open.spotify.com/artist/0PmmEd4m9BdqzxjMpMQwJE"
+        }
+      ],
+      "duration_ms": 148800,
+      "name": "mother luna",
+      "url": "https://open.spotify.com/track/5O5XF0Ln1X1lejZcP8iS02"
     },
     {
       "added_at": "2024-02-07 13:26:59",

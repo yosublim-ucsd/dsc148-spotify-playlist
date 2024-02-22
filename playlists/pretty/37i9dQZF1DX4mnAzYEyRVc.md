@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 
 > The world series of Ska\. Cover: Mad Caddies
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,489 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,529 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 70 | [Mejores Tiempos](https://open.spotify.com/track/13HIuzcWFCyMdtb8AQ8uYw) | [Rude Boys](https://open.spotify.com/artist/4o3k1NXafCHBNUROdhaK3Z) | [Mejores Tiempos](https://open.spotify.com/album/0h14qqlsKB6hYQxKs6e6Ea) | 4:33 |
 | 71 | [I Wanna Riot](https://open.spotify.com/track/3prgCqodybVT758HNY2SXW) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [All The Moon Stompers](https://open.spotify.com/album/5G6FHjebFlPzZ3i5iOeeot) | 3:11 |
 | 72 | [Siempre Fingiste Amarme](https://open.spotify.com/track/6jJ2wofOeao3iQDxs2KkLp) | [Out Of Control Army](https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy), [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Siempre Fingiste Amarme](https://open.spotify.com/album/2TBWXP0umyVSYynjsaXwNw) | 3:57 |
-| 73 | [El Ático](https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj) | [Ska\-P](https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl) | [El Ático](https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm) | 4:02 |
-| 74 | [No Te Olvidé](https://open.spotify.com/track/05oVLw37812S2eoTVetosi) | [Los Victorios](https://open.spotify.com/artist/0lUm3jq72pD9UrZJN0h0aj), [Banda Bastón](https://open.spotify.com/artist/5VP1mX81Z9JJSioPFTYF5a) | [2](https://open.spotify.com/album/1ij4uqkqWe8zVHQH4bgHzp) | 3:17 |
+| 73 | [No Te Olvidé](https://open.spotify.com/track/05oVLw37812S2eoTVetosi) | [Los Victorios](https://open.spotify.com/artist/0lUm3jq72pD9UrZJN0h0aj), [Banda Bastón](https://open.spotify.com/artist/5VP1mX81Z9JJSioPFTYF5a) | [2](https://open.spotify.com/album/1ij4uqkqWe8zVHQH4bgHzp) | 3:17 |
+| 74 | [El Ático](https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj) | [Ska\-P](https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl) | [El Ático](https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm) | 4:02 |
 | 75 | [House Of Fun](https://open.spotify.com/track/4SactOQQV5J66VtQRVOBGC) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [Madness](https://open.spotify.com/album/2P1bkVHSonLBBSKvrBbdbw) | 3:00 |
 | 76 | [Into Action](https://open.spotify.com/track/0gz2UpeIgaeqOb9FXQp06s) | [Tim Armstrong](https://open.spotify.com/artist/7v3ZMFl1E6X4isdEaOSnk3) | [A Poets Life](https://open.spotify.com/album/2KapAjnwtdsvFWtMwgiWBI) | 3:41 |
 | 77 | [Mala Vida](https://open.spotify.com/track/3o3ggHATl6U21OBID9YbzC) | [Los Calzones](https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc) | [Frecuencia Extrema](https://open.spotify.com/album/4JrqAwLYv9qODsJ8QogUbA) | 3:18 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 95 | [Palm Trees and Pines](https://open.spotify.com/track/4FzgB1N6xjQnTLWEQgS2VS) | [Mad Caddies](https://open.spotify.com/artist/0cmBbO2sr4w0rRGt3rKvs6) | [Palm Trees and Pines](https://open.spotify.com/album/1TfmRHcX2VSoLyQu5qDNoS) | 3:40 |
 | 96 | [The Last Ninja](https://open.spotify.com/track/0pSwZXfhuvGHKsT8dpbT1J) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [The Last Ninja](https://open.spotify.com/album/2o4kWMnrJxC9lksNceAnfg) | 3:37 |
 | 97 | [Me Va A Castigar El Señor](https://open.spotify.com/track/1m7FERQ0mu9OuhRTUdzHbP) | [Eskorzo](https://open.spotify.com/artist/766jwjrI3TM0rZvmNdzNx8) | [Historias de amor y otras mierdas](https://open.spotify.com/album/1vvV6rMEPELqmSFcAK7wtt) | 3:05 |
-| 98 | [Sometimes](https://open.spotify.com/track/3eSIZFcNGhA4bPJ9CMmjdF) | [Oxo86](https://open.spotify.com/artist/0HsB2g2AEmb44yfaKKUtF5), [Ole \- Brutal Bravo](https://open.spotify.com/artist/1UUxklAL8KBU8eiQPwtMXx) | [...and the usual suspects](https://open.spotify.com/album/4RBq321rOdaU2pwSIIS5zJ) | 3:59 |
-| 99 | [Guapa](https://open.spotify.com/track/6ZnlFcQA6Ghn8NYEgTu4Dl) | [Los Tres Puntos](https://open.spotify.com/artist/1dgExV84g1pE4Z2ALzB36P) | [Si Oh !](https://open.spotify.com/album/2H6VK5tsOqYwURh7BsLsiB) | 2:31 |
+| 98 | [Guapa](https://open.spotify.com/track/6ZnlFcQA6Ghn8NYEgTu4Dl) | [Los Tres Puntos](https://open.spotify.com/artist/1dgExV84g1pE4Z2ALzB36P) | [Si Oh !](https://open.spotify.com/album/2H6VK5tsOqYwURh7BsLsiB) | 2:31 |
+| 99 | [Sometimes](https://open.spotify.com/track/3eSIZFcNGhA4bPJ9CMmjdF) | [Oxo86](https://open.spotify.com/artist/0HsB2g2AEmb44yfaKKUtF5), [Ole \- Brutal Bravo](https://open.spotify.com/artist/1UUxklAL8KBU8eiQPwtMXx) | [...and the usual suspects](https://open.spotify.com/album/4RBq321rOdaU2pwSIIS5zJ) | 3:59 |
 | 100 | [Sally Brown](https://open.spotify.com/track/73wJGxCSk85BfOri5XfKv8) | [Laurel Aitken](https://open.spotify.com/artist/30vvi2orcocejP6c3nKcEA) | [The Story So Far...](https://open.spotify.com/album/2zFiJYNXXIZy73w60kNmEg) | 4:29 |
 
-Snapshot ID: `MCwyY2JkYjJmYmNiNTc2MDhkMmNjZmE2YzdjNTYyNWRlOWRmNTA2ZGUx`
+Snapshot ID: `MCw4M2I3MmJiMGJkNjgxZTA3NWRhYzdjZDZhZTQzZGQwYzczOGNhYjVh`

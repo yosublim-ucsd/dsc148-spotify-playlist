@@ -4,7 +4,7 @@
 
 > Grab your coffee and ease into the day with this light blend.
 
-731 songs - 1 day 19 hr 42 min
+732 songs - 1 day 19 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -362,7 +362,7 @@
 | [Just for Now](https://open.spotify.com/track/0B0Kv1dO7clBuDwZMO0dxP) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 4:00 | 2021-12-17 | 2022-07-25 |
 | [Just Wanna Be Your Friend](https://open.spotify.com/track/1pvEF9QEuLwjXlcnYYml54) | [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [Just Wanna Be Your Friend](https://open.spotify.com/album/37yp4T6Gtrf4JzTcwNbKnA) | 2:27 | 2022-01-24 | 2022-04-17 |
 | [Keep On Dancing](https://open.spotify.com/track/5clIpJtJdJbV1WMioS5CXS) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Home Tapes](https://open.spotify.com/album/2w2gRZhzkG0oAO54M8Pcat) | 3:15 | 2021-12-17 | 2022-05-18 |
-| [Keeping The Light On](https://open.spotify.com/track/1Uacdg0eFpE2bpjS90feZQ) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Keeping The Light On](https://open.spotify.com/album/6frFUCnLfPHN5cuGuONc04) | 3:43 | 2022-01-24 |  |
+| [Keeping The Light On](https://open.spotify.com/track/1Uacdg0eFpE2bpjS90feZQ) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Keeping The Light On](https://open.spotify.com/album/6frFUCnLfPHN5cuGuONc04) | 3:43 | 2022-01-24 | 2024-02-22 |
 | [Killer Queen \(What I Need\)](https://open.spotify.com/track/02RJ5dskUzptI7vFRMKw3J) | [Goldpark](https://open.spotify.com/artist/410AZAjsHSKP8VDsYcU47z), [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj) | [Killer Queen \(What I Need\)](https://open.spotify.com/album/1tHCJdeRE4oRYKd93t1XCy) | 3:18 | 2022-04-08 | 2022-04-20 |
 | [King Street](https://open.spotify.com/track/1iD8ge87IXRn8KPo3oNZb1) | [Eleni Drake](https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow) | [Vanilla Sky](https://open.spotify.com/album/0lJZOC767uMD7Pdp6lhOvZ) | 3:38 | 2022-07-29 |  |
 | [King Street](https://open.spotify.com/track/6jEhp06H3nxblZIyBy7ueE) | [Eleni Drake](https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow) | [King Street](https://open.spotify.com/album/1EzN2Ajl5JdJ2Pwgz8BxKF) | 3:38 | 2021-12-17 | 2022-07-29 |
@@ -494,6 +494,7 @@
 | [Place We Were Made](https://open.spotify.com/track/7nZF59EvFUshBQfhHev64D) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Place We Were Made](https://open.spotify.com/album/3lAphThw6i1jHzvXVGXJmE) | 3:05 | 2022-07-29 |  |
 | [Please Keep Loving Me](https://open.spotify.com/track/1rp1lRbL41qnlw354j8iTp) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Please Keep Loving Me](https://open.spotify.com/album/57nyAsOzQc642JTGwioDli) | 3:15 | 2022-01-24 | 2022-04-20 |
 | [Please Keep Loving Me](https://open.spotify.com/track/78zUxUPvONPgMIt46q5be6) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Please Keep Loving Me](https://open.spotify.com/album/53ZfIHyk0AhUHeVRBCIl64) | 3:15 | 2022-07-22 |  |
+| [Pontiac](https://open.spotify.com/track/1SguEoDj7MfO8m4zKjy15i) | [Mat Kearney](https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1) | [January Flower](https://open.spotify.com/album/4DvC7DqqEcba2kHAlkUL5x) | 3:06 | 2023-10-06 |  |
 | [Pontiac](https://open.spotify.com/track/1dNxCqZyAl9XhIDX578usC) | [Mat Kearney](https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1) | [Pontiac](https://open.spotify.com/album/57h6E4g2dPKQVVyTk8MJIP) | 3:06 | 2021-12-17 | 2024-01-21 |
 | [Poolside](https://open.spotify.com/track/33GHxxJAD1IZl6vG8noCEC) | [Tommy Ashby](https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t), [Lydia Clowes](https://open.spotify.com/artist/4KNIAGw8aeV4ZgMxzjqkeH) | [Poolside](https://open.spotify.com/album/3nrknIIXtcxUUrpyG4jaXU) | 3:43 | 2021-12-17 | 2022-07-28 |
 | [Praying for Love](https://open.spotify.com/track/4KETfxD7dbHBR2z52z6vKl) | [Arlissa](https://open.spotify.com/artist/7wzaSKTsjE9HnuDuZTX452) | [Praying for Love](https://open.spotify.com/album/0GLHwOs7kfsOMaF5EDqG4L) | 3:02 | 2022-01-24 | 2022-04-20 |

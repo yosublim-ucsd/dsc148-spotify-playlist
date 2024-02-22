@@ -1,12 +1,12 @@
 {
   "description": "You bring the ingredients, we bring the flavor. Enjoy la cena...",
-  "num_followers": 430717,
+  "num_followers": 430757,
   "original_name": "Latin Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxN2JmYTI5YThmNDQwMTc1Yzk5NTI4NDczYmI2YmI0MWUxM2YyNTUy",
+  "snapshot_id": "MCw3YTIwNzZhZDUxYzQ2ZDkwMzI0ZDM1YTIxMmJkNTE3ZjdhYmNkOWFj",
   "tracks": [
     {
       "added_at": "2024-02-16 16:09:29",
@@ -59,6 +59,22 @@
     {
       "added_at": "2024-02-16 16:09:29",
       "album": {
+        "name": "un",
+        "url": "https://open.spotify.com/album/69qvzyO2jAil3U6DZpckxr"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 180494,
+      "name": "No Se Vale",
+      "url": "https://open.spotify.com/track/5Q1MSdJ56O9BxB6wIvjsXY"
+    },
+    {
+      "added_at": "2024-02-16 16:09:29",
+      "album": {
         "name": "Elis & Tom",
         "url": "https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS"
       },
@@ -75,22 +91,6 @@
       "duration_ms": 214003,
       "name": "\u00c1guas De Mar\u00e7o",
       "url": "https://open.spotify.com/track/15ouqiBsgL12olEwP3COsH"
-    },
-    {
-      "added_at": "2024-02-16 16:09:29",
-      "album": {
-        "name": "un",
-        "url": "https://open.spotify.com/album/69qvzyO2jAil3U6DZpckxr"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 180494,
-      "name": "No Se Vale",
-      "url": "https://open.spotify.com/track/5Q1MSdJ56O9BxB6wIvjsXY"
     },
     {
       "added_at": "2024-02-16 16:09:29",
@@ -343,22 +343,6 @@
     {
       "added_at": "2024-02-16 16:09:29",
       "album": {
-        "name": "Terapia",
-        "url": "https://open.spotify.com/album/11qB7I59a0o0p2lNdTkwZC"
-      },
-      "artists": [
-        {
-          "name": "Cimafunk",
-          "url": "https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe"
-        }
-      ],
-      "duration_ms": 249250,
-      "name": "Parar el Tiempo",
-      "url": "https://open.spotify.com/track/49fa5bKsBZA5A360ZD2n1c"
-    },
-    {
-      "added_at": "2024-02-16 16:09:29",
-      "album": {
         "name": "Todos Tenemos un Amor",
         "url": "https://open.spotify.com/album/6loQxERAji3GRFOfcM0Lt0"
       },
@@ -399,6 +383,22 @@
     {
       "added_at": "2024-02-16 16:09:29",
       "album": {
+        "name": "Terapia",
+        "url": "https://open.spotify.com/album/11qB7I59a0o0p2lNdTkwZC"
+      },
+      "artists": [
+        {
+          "name": "Cimafunk",
+          "url": "https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe"
+        }
+      ],
+      "duration_ms": 249250,
+      "name": "Parar el Tiempo",
+      "url": "https://open.spotify.com/track/49fa5bKsBZA5A360ZD2n1c"
+    },
+    {
+      "added_at": "2024-02-16 16:09:29",
+      "album": {
         "name": "Some More Horizons (Digital Version)",
         "url": "https://open.spotify.com/album/4PTCPiyD0Pwhoec2VU6rlk"
       },
@@ -431,26 +431,6 @@
     {
       "added_at": "2024-02-16 16:09:29",
       "album": {
-        "name": "A fuego lento (feat. Vicente Garcia)",
-        "url": "https://open.spotify.com/album/1Lp0BSFnmEGJtcNDd3iHxa"
-      },
-      "artists": [
-        {
-          "name": "Daym\u00e9 Arocena",
-          "url": "https://open.spotify.com/artist/6LcWO77VeIUPqNY22N3fI0"
-        },
-        {
-          "name": "Vicente Garcia",
-          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
-        }
-      ],
-      "duration_ms": 199398,
-      "name": "A fuego lento (feat. Vicente Garcia)",
-      "url": "https://open.spotify.com/track/7dk1bu8gBxcjIHSyXccEpT"
-    },
-    {
-      "added_at": "2024-02-16 16:09:29",
-      "album": {
         "name": "Tourist (Remastered)",
         "url": "https://open.spotify.com/album/0YqCvOMhp8enM01an9Nntj"
       },
@@ -479,6 +459,26 @@
       "duration_ms": 201941,
       "name": "Voy",
       "url": "https://open.spotify.com/track/6fKvKQATKlwDsHgj6E6nyf"
+    },
+    {
+      "added_at": "2024-02-16 16:09:29",
+      "album": {
+        "name": "A fuego lento (feat. Vicente Garcia)",
+        "url": "https://open.spotify.com/album/1Lp0BSFnmEGJtcNDd3iHxa"
+      },
+      "artists": [
+        {
+          "name": "Daym\u00e9 Arocena",
+          "url": "https://open.spotify.com/artist/6LcWO77VeIUPqNY22N3fI0"
+        },
+        {
+          "name": "Vicente Garcia",
+          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
+        }
+      ],
+      "duration_ms": 199398,
+      "name": "A fuego lento (feat. Vicente Garcia)",
+      "url": "https://open.spotify.com/track/7dk1bu8gBxcjIHSyXccEpT"
     },
     {
       "added_at": "2024-02-16 16:09:29",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-02-16 16:09:29",
       "album": {
-        "name": "Otros Aires",
-        "url": "https://open.spotify.com/album/24uMVkq4ni8tDFHwva5e8p"
-      },
-      "artists": [
-        {
-          "name": "Otros Aires",
-          "url": "https://open.spotify.com/artist/4V8yy6XGCvl6cy2UihbH2h"
-        }
-      ],
-      "duration_ms": 233453,
-      "name": "Sin Rumbo",
-      "url": "https://open.spotify.com/track/6WGeW1Ooa2dndzIGwXCVFW"
-    },
-    {
-      "added_at": "2024-02-16 16:09:29",
-      "album": {
         "name": "Curita",
         "url": "https://open.spotify.com/album/1JgFkTn2qpYY8bPIduQMmF"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 206065,
       "name": "Curita",
       "url": "https://open.spotify.com/track/0Ryshb3D6BVfHvfqcRnGVa"
+    },
+    {
+      "added_at": "2024-02-16 16:09:29",
+      "album": {
+        "name": "Otros Aires",
+        "url": "https://open.spotify.com/album/24uMVkq4ni8tDFHwva5e8p"
+      },
+      "artists": [
+        {
+          "name": "Otros Aires",
+          "url": "https://open.spotify.com/artist/4V8yy6XGCvl6cy2UihbH2h"
+        }
+      ],
+      "duration_ms": 233453,
+      "name": "Sin Rumbo",
+      "url": "https://open.spotify.com/track/6WGeW1Ooa2dndzIGwXCVFW"
     },
     {
       "added_at": "2024-02-16 16:09:29",
@@ -863,6 +863,26 @@
     {
       "added_at": "2024-02-16 16:09:29",
       "album": {
+        "name": "Me Llaman Nella",
+        "url": "https://open.spotify.com/album/2NHcyi3RMzCCWHZBArCzNb"
+      },
+      "artists": [
+        {
+          "name": "Nella",
+          "url": "https://open.spotify.com/artist/6hgiVWraSMs9mbUrhPq8Oh"
+        },
+        {
+          "name": "Santiago Perin\u00e9",
+          "url": "https://open.spotify.com/artist/10kEF3JBr2POevADU2lGmj"
+        }
+      ],
+      "duration_ms": 198298,
+      "name": "Me Llaman Nella",
+      "url": "https://open.spotify.com/track/0dMQafMHQxzZIfBPUGWCQG"
+    },
+    {
+      "added_at": "2024-02-16 16:09:29",
+      "album": {
         "name": "Encuentro",
         "url": "https://open.spotify.com/album/5dMx0NVZdoTtrdVprK7gSz"
       },
@@ -883,26 +903,6 @@
       "duration_ms": 236346,
       "name": "Margarita (feat. Vicente Garc\u00eda & Jose Qui\u00f1\u00f3nez)",
       "url": "https://open.spotify.com/track/6LEZkAAdNuEPE6PdEX7lrj"
-    },
-    {
-      "added_at": "2024-02-16 16:09:29",
-      "album": {
-        "name": "Me Llaman Nella",
-        "url": "https://open.spotify.com/album/2NHcyi3RMzCCWHZBArCzNb"
-      },
-      "artists": [
-        {
-          "name": "Nella",
-          "url": "https://open.spotify.com/artist/6hgiVWraSMs9mbUrhPq8Oh"
-        },
-        {
-          "name": "Santiago Perin\u00e9",
-          "url": "https://open.spotify.com/artist/10kEF3JBr2POevADU2lGmj"
-        }
-      ],
-      "duration_ms": 198298,
-      "name": "Me Llaman Nella",
-      "url": "https://open.spotify.com/track/0dMQafMHQxzZIfBPUGWCQG"
     },
     {
       "added_at": "2024-02-16 16:09:29",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-02-16 16:09:29",
       "album": {
-        "name": "Se\u00f1or Coconut / Around the World",
-        "url": "https://open.spotify.com/album/3kc3Xf5509dG8PJeAkmZuF"
-      },
-      "artists": [
-        {
-          "name": "Atom TM",
-          "url": "https://open.spotify.com/artist/2a8NW6dE2Igxb6LQXDhdgL"
-        }
-      ],
-      "duration_ms": 167497,
-      "name": "Around the World (Intro)",
-      "url": "https://open.spotify.com/track/21lWmLmNPE7tBehlegKU7c"
-    },
-    {
-      "added_at": "2024-02-16 16:09:29",
-      "album": {
         "name": "Esperando Verte",
         "url": "https://open.spotify.com/album/1DizlzrJAt2J6CdekDpyMT"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 232853,
       "name": "Esperando Verte",
       "url": "https://open.spotify.com/track/7xRafouoS2J7SYgaURkJjx"
+    },
+    {
+      "added_at": "2024-02-16 16:09:29",
+      "album": {
+        "name": "Se\u00f1or Coconut / Around the World",
+        "url": "https://open.spotify.com/album/3kc3Xf5509dG8PJeAkmZuF"
+      },
+      "artists": [
+        {
+          "name": "Atom TM",
+          "url": "https://open.spotify.com/artist/2a8NW6dE2Igxb6LQXDhdgL"
+        }
+      ],
+      "duration_ms": 167497,
+      "name": "Around the World (Intro)",
+      "url": "https://open.spotify.com/track/21lWmLmNPE7tBehlegKU7c"
     },
     {
       "added_at": "2024-02-16 16:09:29",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2024-02-16 16:09:29",
       "album": {
+        "name": "It's Time",
+        "url": "https://open.spotify.com/album/2PzljcoZ70HbAKOK24bnEx"
+      },
+      "artists": [
+        {
+          "name": "Las Cafeteras",
+          "url": "https://open.spotify.com/artist/2AeRVFWlYSW9zMUGULjPpz"
+        }
+      ],
+      "duration_ms": 208320,
+      "name": "El Chuchumb\u00e9",
+      "url": "https://open.spotify.com/track/7lm82SH3x1PJGDeaNgpFc8"
+    },
+    {
+      "added_at": "2024-02-16 16:09:29",
+      "album": {
         "name": "La Marisoul & The Love Notes Orchestra (Vol. 1)",
         "url": "https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 185160,
       "name": "Mar Y Cielo",
       "url": "https://open.spotify.com/track/01OHq1JrkmDeyQTLQVxdTL"
-    },
-    {
-      "added_at": "2024-02-16 16:09:29",
-      "album": {
-        "name": "It's Time",
-        "url": "https://open.spotify.com/album/2PzljcoZ70HbAKOK24bnEx"
-      },
-      "artists": [
-        {
-          "name": "Las Cafeteras",
-          "url": "https://open.spotify.com/artist/2AeRVFWlYSW9zMUGULjPpz"
-        }
-      ],
-      "duration_ms": 208320,
-      "name": "El Chuchumb\u00e9",
-      "url": "https://open.spotify.com/track/7lm82SH3x1PJGDeaNgpFc8"
     },
     {
       "added_at": "2024-02-16 16:09:29",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2024-02-16 16:09:29",
       "album": {
+        "name": "Las Olas",
+        "url": "https://open.spotify.com/album/1JnidEbuApQKcCzo4HK3Og"
+      },
+      "artists": [
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        }
+      ],
+      "duration_ms": 231978,
+      "name": "El Rinc\u00f3n (Chachach\u00e1)",
+      "url": "https://open.spotify.com/track/1l0ACi45WOGrt9AyEBD1EW"
+    },
+    {
+      "added_at": "2024-02-16 16:09:29",
+      "album": {
         "name": "Versus (EP)",
         "url": "https://open.spotify.com/album/6fgxUYxx6bFiXASvLzUBFw"
       },
@@ -1687,26 +1703,6 @@
     {
       "added_at": "2024-02-16 16:09:29",
       "album": {
-        "name": "Meus Momentos: Paulinho Da Viola",
-        "url": "https://open.spotify.com/album/5DJ8Iu9nfpGykmggpCLsYu"
-      },
-      "artists": [
-        {
-          "name": "Paulinho Da Viola",
-          "url": "https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls"
-        },
-        {
-          "name": "Elton Medeiros",
-          "url": "https://open.spotify.com/artist/4kJdvLeXdVp1o5WjnrehLV"
-        }
-      ],
-      "duration_ms": 240640,
-      "name": "Perdoa",
-      "url": "https://open.spotify.com/track/3SLfDGY3UqESBUEdd7K2Ev"
-    },
-    {
-      "added_at": "2024-02-16 16:09:29",
-      "album": {
         "name": "No Pasa Na",
         "url": "https://open.spotify.com/album/1qDELsYjk55AV4cF3Ekvtp"
       },
@@ -1727,18 +1723,22 @@
     {
       "added_at": "2024-02-16 16:09:29",
       "album": {
-        "name": "Las Olas",
-        "url": "https://open.spotify.com/album/1JnidEbuApQKcCzo4HK3Og"
+        "name": "Meus Momentos: Paulinho Da Viola",
+        "url": "https://open.spotify.com/album/5DJ8Iu9nfpGykmggpCLsYu"
       },
       "artists": [
         {
-          "name": "Juan Pablo Vega",
-          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+          "name": "Paulinho Da Viola",
+          "url": "https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls"
+        },
+        {
+          "name": "Elton Medeiros",
+          "url": "https://open.spotify.com/artist/4kJdvLeXdVp1o5WjnrehLV"
         }
       ],
-      "duration_ms": 231978,
-      "name": "El Rinc\u00f3n (Chachach\u00e1)",
-      "url": "https://open.spotify.com/track/1l0ACi45WOGrt9AyEBD1EW"
+      "duration_ms": 240640,
+      "name": "Perdoa",
+      "url": "https://open.spotify.com/track/3SLfDGY3UqESBUEdd7K2Ev"
     },
     {
       "added_at": "2024-02-16 16:09:29",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2024-02-16 16:09:29",
       "album": {
-        "name": "Somos Hermanas",
-        "url": "https://open.spotify.com/album/5jwDeAqliI9J5t7KXDInjK"
-      },
-      "artists": [
-        {
-          "name": "Mel Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
-        }
-      ],
-      "duration_ms": 230877,
-      "name": "Somos Hermanas",
-      "url": "https://open.spotify.com/track/41THofGqCI97EnFDlPr7uZ"
-    },
-    {
-      "added_at": "2024-02-16 16:09:29",
-      "album": {
         "name": "En Medio Del Jard\u00edn",
         "url": "https://open.spotify.com/album/48UdlUGkJlQBpMWc9iYlHY"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 221986,
       "name": "En Medio Del Jard\u00edn",
       "url": "https://open.spotify.com/track/3Yqh9YIKQaI7EwhKWIXUI5"
+    },
+    {
+      "added_at": "2024-02-16 16:09:29",
+      "album": {
+        "name": "Somos Hermanas",
+        "url": "https://open.spotify.com/album/5jwDeAqliI9J5t7KXDInjK"
+      },
+      "artists": [
+        {
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
+        }
+      ],
+      "duration_ms": 230877,
+      "name": "Somos Hermanas",
+      "url": "https://open.spotify.com/track/41THofGqCI97EnFDlPr7uZ"
     }
   ],
   "unique_name": "Latin Dinner",

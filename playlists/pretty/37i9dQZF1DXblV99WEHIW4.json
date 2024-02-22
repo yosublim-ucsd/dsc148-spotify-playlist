@@ -1,12 +1,12 @@
 {
   "description": "Heavy music for heavy feelings.",
-  "num_followers": 236593,
+  "num_followers": 236748,
   "original_name": "Blood, Shred & Tears",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMjdjN2QyMjBkMjRjOGZhOGExM2EzZGVkZGVhZTY4YzRjOTQ0YTVm",
+  "snapshot_id": "MCw2NDdiMDdiMzhmODIyZjFmMDI0MmJkM2UxNTdkYzFhMjk5ZGY2YTc0",
   "tracks": [
     {
       "added_at": "2022-08-25 23:00:00",
@@ -425,6 +425,22 @@
       "url": "https://open.spotify.com/track/0OYcEfskah1egYHjYRvbg1"
     },
     {
+      "added_at": "2024-02-21 14:55:34",
+      "album": {
+        "name": "Planet Zero",
+        "url": "https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 248454,
+      "name": "A Symptom Of Being Human",
+      "url": "https://open.spotify.com/track/7xOB82ELg70RoIM3mMTkt4"
+    },
+    {
       "added_at": "2022-08-25 23:00:00",
       "album": {
         "name": "The Poison",
@@ -571,6 +587,22 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
+        "name": "Dear Agony",
+        "url": "https://open.spotify.com/album/0mBvlBWI6TMDrWvQ8bKOKV"
+      },
+      "artists": [
+        {
+          "name": "Breaking Benjamin",
+          "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
+        }
+      ],
+      "duration_ms": 258253,
+      "name": "Dear Agony",
+      "url": "https://open.spotify.com/track/0c3fJd2HRi6uHWgTljIae5"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
         "name": "Californication",
         "url": "https://open.spotify.com/album/0fLhefnjlIV3pGNF9Wo8CD"
       },
@@ -664,9 +696,9 @@
           "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
         }
       ],
-      "duration_ms": 258253,
-      "name": "Dear Agony",
-      "url": "https://open.spotify.com/track/0c3fJd2HRi6uHWgTljIae5"
+      "duration_ms": 256746,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/5r95yxmemjPfVSjCoSeAP4"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -815,22 +847,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Dear Agony",
-        "url": "https://open.spotify.com/album/0mBvlBWI6TMDrWvQ8bKOKV"
-      },
-      "artists": [
-        {
-          "name": "Breaking Benjamin",
-          "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
-        }
-      ],
-      "duration_ms": 256746,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/5r95yxmemjPfVSjCoSeAP4"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "Somewhere at the Bottom of the River Between Vega and Altair (10th Anniversary)",
         "url": "https://open.spotify.com/album/5fzDxefGUH8jM7T9HCLSNr"
       },
@@ -877,22 +893,6 @@
       "url": "https://open.spotify.com/track/3QbNQoebsLQUvXismbliHH"
     },
     {
-      "added_at": "2023-02-16 19:56:13",
-      "album": {
-        "name": "Haven't Been Myself",
-        "url": "https://open.spotify.com/album/2nGyrk4CKknFVjrEZQud7l"
-      },
-      "artists": [
-        {
-          "name": "Too Close To Touch",
-          "url": "https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp"
-        }
-      ],
-      "duration_ms": 277093,
-      "name": "Eiley",
-      "url": "https://open.spotify.com/track/03bb6AxzMre5LjZzTiLb1r"
-    },
-    {
       "added_at": "2022-08-25 23:00:00",
       "album": {
         "name": "The Mortal Coil",
@@ -907,6 +907,22 @@
       "duration_ms": 281807,
       "name": "Crooked Path",
       "url": "https://open.spotify.com/track/2oDbxBYY3kt7mFzIXJrGMv"
+    },
+    {
+      "added_at": "2023-02-16 19:56:13",
+      "album": {
+        "name": "Haven't Been Myself",
+        "url": "https://open.spotify.com/album/2nGyrk4CKknFVjrEZQud7l"
+      },
+      "artists": [
+        {
+          "name": "Too Close To Touch",
+          "url": "https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp"
+        }
+      ],
+      "duration_ms": 277093,
+      "name": "Eiley",
+      "url": "https://open.spotify.com/track/03bb6AxzMre5LjZzTiLb1r"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1039,22 +1055,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Blush",
-        "url": "https://open.spotify.com/album/3qdM2cxZoTPFWpyZrMZp2j"
-      },
-      "artists": [
-        {
-          "name": "Moose Blood",
-          "url": "https://open.spotify.com/artist/5fEKZRCUa0JApec5Xy095q"
-        }
-      ],
-      "duration_ms": 224840,
-      "name": "Knuckles",
-      "url": "https://open.spotify.com/track/0ttKGGwdONPJuVZggxzAl1"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "The Flood (Deluxe Reissue)",
         "url": "https://open.spotify.com/album/6DpR2DTKQ9hH4xEGqYQmLV"
       },
@@ -1067,6 +1067,22 @@
       "duration_ms": 212026,
       "name": "When You Can't Sleep at Night",
       "url": "https://open.spotify.com/track/6ncrdwPsLV0VlJIeS5oGfb"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Blush",
+        "url": "https://open.spotify.com/album/3qdM2cxZoTPFWpyZrMZp2j"
+      },
+      "artists": [
+        {
+          "name": "Moose Blood",
+          "url": "https://open.spotify.com/artist/5fEKZRCUa0JApec5Xy095q"
+        }
+      ],
+      "duration_ms": 224840,
+      "name": "Knuckles",
+      "url": "https://open.spotify.com/track/0ttKGGwdONPJuVZggxzAl1"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1275,26 +1291,6 @@
       "duration_ms": 212000,
       "name": "Empty Thoughts",
       "url": "https://open.spotify.com/track/7fsSWnDC5MIaBqklTIXS2W"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
-        "name": "Seize the Power",
-        "url": "https://open.spotify.com/album/2QgPGKzoN51qcEzGlHYk7j"
-      },
-      "artists": [
-        {
-          "name": "YONAKA",
-          "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
-        },
-        {
-          "name": "Barns Courtney",
-          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
-        }
-      ],
-      "duration_ms": 228847,
-      "name": "Anthem",
-      "url": "https://open.spotify.com/track/23Z6JttaqkoqxqbAWArFqO"
     }
   ],
   "unique_name": "Blood, Shred & Tears",

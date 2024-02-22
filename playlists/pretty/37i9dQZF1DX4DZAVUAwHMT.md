@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 
 > The UK's biggest rock playlist\. Cover: IDLES
 
-[Spotify](https://open.spotify.com/user/spotify) - 798,006 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 797,907 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 | 49 | [MERCY KILL](https://open.spotify.com/track/2vX1GxoaaomoYsbRy5VjK6) | [VUKOVI](https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt) | [MERCY KILL](https://open.spotify.com/album/0XzfAfWHhZlL7WSL6acUnx) | 3:06 |
 | 50 | [For Katie](https://open.spotify.com/track/26icQ3gcv38DZXWX8euZYj) | [Casey](https://open.spotify.com/artist/7KqVvL7NOdUWyQg2B63cck) | [How To Disappear](https://open.spotify.com/album/677t2DpQNOqCZN6PFzPgJr) | 3:56 |
 
-Snapshot ID: `MCw5NTVhYTYwZWJjZDRmMGNiODg3ZTI4NTJkMWRmN2ZiZDVmYmVjZGJm`
+Snapshot ID: `MCwwNzE1NDZiNzEwMGNlOTQwNDI0NmYyMTZkMTQ3ZDUzNTdmMzBkYmEw`

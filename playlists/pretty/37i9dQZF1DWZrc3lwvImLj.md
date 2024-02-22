@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrc3lwvImLj.md) - [plain]
 
 > lowkey crying.
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,887 likes - 162 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,928 likes - 162 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -171,4 +171,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrc3lwvImLj.md) - [plain]
 | 161 | [Včeraj](https://open.spotify.com/track/6o71Foef4Jf2LMFnHuvQo4) | [Zemfira Mironova](https://open.spotify.com/artist/7HdmWISDuEN6CX1zXXaK8H) | [Včeraj](https://open.spotify.com/album/5gR375qQkGA51v1fB4euT9) | 2:05 |
 | 162 | [Dunkel](https://open.spotify.com/track/4y5m6mGSXzVZArFSm4YnYK) | [Bodi Lukasz](https://open.spotify.com/artist/6FhL947nyB3vI5QUecgylC) | [Dunkel](https://open.spotify.com/album/62Wg9F1bDreyAWx9gp1IXx) | 2:20 |
 
-Snapshot ID: `MCw1YWQxMGZkZjgwOGU5MzkyZjAzZDNmMmE4YWQ2ZGYyMDFiNmZhMWRl`
+Snapshot ID: `MCxkZGZmOTRlNWFhMzQxMGEzMGQ1MjA2YjBlN2UyYjdkNGU5YTk1Mjdh`

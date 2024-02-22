@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 
 > All the new music you need to hear right now\. Cover: Vampire Weekend
 
-[Spotify](https://open.spotify.com/user/spotify) - 542,641 likes - 80 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 542,688 likes - 80 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 | 79 | [Blame You](https://open.spotify.com/track/7G5rVgRVk11sk5uRynQ5Qg) | [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD) | [Blame You](https://open.spotify.com/album/072afgsXKX0MGMjmoEcF4T) | 3:20 |
 | 80 | [Wanna Come Thru](https://open.spotify.com/track/1peSFUNahpj7paMnJGg9aX) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk) | [Wanna Come Thru](https://open.spotify.com/album/5XlqlnXXjWMlgfj2Y4pyOF) | 2:11 |
 
-Snapshot ID: `MCw2ZDI2YTA2NDk0MzVkNjI0YzI2N2Q4ZGIwYzY0YjE4Mzg1OGZhOWQ5`
+Snapshot ID: `MCw5ZjYzZTJhZTA4NDUxMjU0NzdmNDY3MjcxMmJlYjU4YzE1NTVmYWU2`

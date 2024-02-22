@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 
 > The hottest tracks trending in Pakistan featuring AUR, Anuv Jain, Shubh and more\. Cover \- AUR
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,720 likes - 60 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,807 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 | 59 | [HMM](https://open.spotify.com/track/1vGFCl9e0zVpFSl2K8oOGZ) | [KhullarG](https://open.spotify.com/artist/2yAbjVguK4dIqZ6IdVJP4i), [Bluish Music](https://open.spotify.com/artist/3KlLo4hL4Qq2mhSIGMfas6) | [HMM](https://open.spotify.com/album/1appD8E7s8Zuju8u0NrQDi) | 3:04 |
 | 60 | [Yaad](https://open.spotify.com/track/0GxXlmjiZNBWi44AUblZsR) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Street Dreams](https://open.spotify.com/album/3UFq6P2Qu3yNM2hMZqfZ1Y) | 3:12 |
 
-Snapshot ID: `MCwwMDYxNTg1NThmYTJhY2M2NzQwNjNmZDVlYzA0YzZhMTczMTZlNWQ4`
+Snapshot ID: `MCwwOGFjMWVjYzNkZDc5NDEwMjk4YjZmYTllMzJmMjk2MjUyZGQ5MWQ4`

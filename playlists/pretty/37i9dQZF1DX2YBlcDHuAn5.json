@@ -1,12 +1,12 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 6895,
+  "num_followers": 6899,
   "original_name": "Route Americana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwN2M1Y2FjYzFmZDljYjczZGVmMDk1NTIzYWViMmUxMGRlOTNlOTc5",
+  "snapshot_id": "MCw1NmI5MzM2MjZjMDUxMjEzODM1OGE3OTM4NjlmYzgzMzNjZjY2NmU2",
   "tracks": [
     {
       "added_at": "2024-02-01 23:00:00",
@@ -699,6 +699,22 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/3l4OdclVUWDKoS3G3qT1Rb"
+      },
+      "artists": [
+        {
+          "name": "Rich McFeather",
+          "url": "https://open.spotify.com/artist/1DGm9DpMlUDYqSYAbvfpqm"
+        }
+      ],
+      "duration_ms": 215553,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/4gitlSJ8ksxAMhmHxNKjNl"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
         "name": "Times",
         "url": "https://open.spotify.com/album/6RiH1JegZGAMd8lx4Jsw3l"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 244060,
       "name": "Times",
       "url": "https://open.spotify.com/track/2SihsYSOGwYDHMfd0riW4Y"
-    },
-    {
-      "added_at": "2024-02-01 23:00:00",
-      "album": {
-        "name": "Bittersweet",
-        "url": "https://open.spotify.com/album/3l4OdclVUWDKoS3G3qT1Rb"
-      },
-      "artists": [
-        {
-          "name": "Rich McFeather",
-          "url": "https://open.spotify.com/artist/1DGm9DpMlUDYqSYAbvfpqm"
-        }
-      ],
-      "duration_ms": 215553,
-      "name": "Bittersweet",
-      "url": "https://open.spotify.com/track/4gitlSJ8ksxAMhmHxNKjNl"
     },
     {
       "added_at": "2024-02-01 23:00:00",

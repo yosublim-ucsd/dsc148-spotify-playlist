@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,624 likes - 271 songs - 14 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,622 likes - 271 songs - 14 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -215,8 +215,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 205 | [Passing of the Days](https://open.spotify.com/track/4XQhy7sba25JLSSqp5Eqfg) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Touch the Sky](https://open.spotify.com/album/4zWaxKSpJTVw8J6qsRi4es) | 2:52 |
 | 206 | [Labyrinth](https://open.spotify.com/track/0oPJAmXNC5IkH2XLz82yEe) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Simple Things](https://open.spotify.com/album/5AJ4tMUKB5WOvIITI8JAZJ) | 4:03 |
 | 207 | [You're the One Who Knows](https://open.spotify.com/track/4MNVESzvFaJLNrFYVm4xRG) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Simple Things](https://open.spotify.com/album/5AJ4tMUKB5WOvIITI8JAZJ) | 5:06 |
-| 208 | [Good Mountain People](https://open.spotify.com/track/7oFn8J65n3wwrALSVXpDEE) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Touch the Sky](https://open.spotify.com/album/4zWaxKSpJTVw8J6qsRi4es) | 3:38 |
-| 209 | [We All Have To Be Alone](https://open.spotify.com/track/07cJZxqp8FVk1inmeDvR3r) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Thoroughbred](https://open.spotify.com/album/6n61GdcPqMQRkKYii9am8K) | 3:44 |
+| 208 | [We All Have To Be Alone](https://open.spotify.com/track/07cJZxqp8FVk1inmeDvR3r) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Thoroughbred](https://open.spotify.com/album/6n61GdcPqMQRkKYii9am8K) | 3:44 |
+| 209 | [Good Mountain People](https://open.spotify.com/track/7oFn8J65n3wwrALSVXpDEE) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Touch the Sky](https://open.spotify.com/album/4zWaxKSpJTVw8J6qsRi4es) | 3:38 |
 | 210 | [Sweet Adonis](https://open.spotify.com/track/73vUP8IfRHcUjJVrgRHpg7) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Wrap Around Joy](https://open.spotify.com/album/0u0ehiEE6XSZcWScJ9hVtz) | 3:21 |
 | 211 | [What You Got](https://open.spotify.com/track/5gyLF357QUyVIieHVOUSZZ) | [The Eccentrics](https://open.spotify.com/artist/7F6gDxFKnVK72FHRjrkcDK) | [Underground '60s British Invasion](https://open.spotify.com/album/0ldeG4UddBTw67CvKzJAwb) | 2:56 |
 | 212 | [Welcome Home](https://open.spotify.com/track/4cVFBWl1vyZYWHOtzw7psB) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Welcome Home](https://open.spotify.com/album/2JwpAbXZe3BAl8PObQMacv) | 3:20 |
@@ -280,4 +280,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 270 | [He Who Laughs Last](https://open.spotify.com/track/0CHCBayT9d8c5VJFY8Rfhn) | [Freda Payne](https://open.spotify.com/artist/0701Axu6yvUIoctaKMbDIZ) | [That's a Pretty Good Love](https://open.spotify.com/album/1rYVaZD5cDiOyQhpDD7mjV) | 2:06 |
 | 271 | [So This Is How It Feels](https://open.spotify.com/track/67wjnFeLF2bsZbhDAf85wg) | [The Countrymen](https://open.spotify.com/artist/0C62w20FpxpOHiWM9UCObQ) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:49 |
 
-Snapshot ID: `Mjg0NzQ2OTEsMDAwMDAwMDA2MjNhOWRlMmVkOGM5MjY0NTJhNWQzOGMzN2Q2OTE5ZA==`
+Snapshot ID: `Mjg0NzYxMzAsMDAwMDAwMDA4NTVjMTg2NTZiYjZiMDhmNGQzYjg3Y2UyNDZjZTgxNQ==`

@@ -1,5 +1,5 @@
 {
-  "2024-02-21": 7922,
+  "2024-02-22": 7925,
   "date_first_scraped": "2023-05-03",
   "description": "This is TOKiMONSTA. The essential tracks, all in one playlist.",
   "name": "This Is TOKiMONSTA",
@@ -103,7 +103,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 90397,
       "name": "4th Boom",
       "url": "https://open.spotify.com/track/5yGttN7cpq88005UeU0EB0"
@@ -1735,6 +1735,24 @@
       "duration_ms": 186708,
       "name": "Sa Mo Jung",
       "url": "https://open.spotify.com/track/2xbfhyjjSQMzBooLs7ZmT8"
+    },
+    {
+      "album": {
+        "name": "Desiderium",
+        "url": "https://open.spotify.com/album/5F5I5bpS03YzEwBRH3vrGh"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196799,
+      "name": "Sakamoto's Spring",
+      "url": "https://open.spotify.com/track/38Rny0AdKS82PbV6lNHQAr"
     },
     {
       "album": {

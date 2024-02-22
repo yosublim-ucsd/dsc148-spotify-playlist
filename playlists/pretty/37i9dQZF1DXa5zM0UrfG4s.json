@@ -1,12 +1,12 @@
 {
   "description": "b\u00f8gdebangers du kan spelle i kjerra! ",
-  "num_followers": 107432,
+  "num_followers": 107449,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOGNiMWE3ZWJiOWE1MjM4YzU0ZTcyYTYxMTNhNmYzZmQ5OTEyY2Iy",
+  "snapshot_id": "MCxiN2I2NDJhMjA5OTZmMTA3MzdjOWNmMDFkNzEyYWFhZmQyMDM2Yzc2",
   "tracks": [
     {
       "added_at": "2024-02-15 23:00:00",
@@ -320,7 +320,7 @@
       "added_at": "2024-02-15 23:00:00",
       "album": {
         "name": "DET \u00c4R JU DEJ JAG G\u00c5R OCH V\u00c4NTAR P\u00c5",
-        "url": "https://open.spotify.com/album/484DSeiUk7NvezjWAvI2iP"
+        "url": "https://open.spotify.com/album/5JsBau0Y0oWV0j1fqJ2Xp3"
       },
       "artists": [
         {
@@ -334,7 +334,7 @@
       ],
       "duration_ms": 173793,
       "name": "DET \u00c4R JU DEJ JAG G\u00c5R OCH V\u00c4NTAR P\u00c5",
-      "url": "https://open.spotify.com/track/4lkJBloFZ3aXhsezo8BgO1"
+      "url": "https://open.spotify.com/track/1cr0ryXVaePFlRl4lkmdf7"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -371,22 +371,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Ja likav\u00e4l",
-        "url": "https://open.spotify.com/album/4RcarBvLnRaQutxwxYLpJh"
-      },
-      "artists": [
-        {
-          "name": "Kuselofte",
-          "url": "https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2"
-        }
-      ],
-      "duration_ms": 161917,
-      "name": "Ja likav\u00e4l",
-      "url": "https://open.spotify.com/track/3lqKf1pbBrOFPtLMDqJjh5"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "Danse p\u00e5 panseret",
         "url": "https://open.spotify.com/album/3oKQTXaW1WRLsWcf3LH57F"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 144000,
       "name": "Danse p\u00e5 panseret",
       "url": "https://open.spotify.com/track/4docWah77XQ5t9jexaJKBG"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Ja likav\u00e4l",
+        "url": "https://open.spotify.com/album/4RcarBvLnRaQutxwxYLpJh"
+      },
+      "artists": [
+        {
+          "name": "Kuselofte",
+          "url": "https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2"
+        }
+      ],
+      "duration_ms": 161917,
+      "name": "Ja likav\u00e4l",
+      "url": "https://open.spotify.com/track/3lqKf1pbBrOFPtLMDqJjh5"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -527,6 +527,26 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
+        "name": "B\u00f8gda",
+        "url": "https://open.spotify.com/album/2FlHmlFjUImjvasA84suRu"
+      },
+      "artists": [
+        {
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+        },
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+        }
+      ],
+      "duration_ms": 164127,
+      "name": "B\u00f8gda",
+      "url": "https://open.spotify.com/track/1MpCvOlkM8VbH50AL7mAUm"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
         "name": "Konge p\u00e5 b\u00f8gda",
         "url": "https://open.spotify.com/album/5usqJIXSD19j31MtHaBQlb"
       },
@@ -559,42 +579,26 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Livet Er Herlig",
-        "url": "https://open.spotify.com/album/2TWTHZ6Qv0O9UqIqrTn8HG"
+        "name": "Helt Sykt VOL2",
+        "url": "https://open.spotify.com/album/6JsrkSrKeMMpnUpq5tTLtA"
       },
       "artists": [
         {
-          "name": "TIX",
-          "url": "https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9"
-        },
-        {
-          "name": "El Papi",
-          "url": "https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV"
-        }
-      ],
-      "duration_ms": 143261,
-      "name": "Livet Er Herlig",
-      "url": "https://open.spotify.com/track/1cb0J9fgwlnQtESfcRV0XJ"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
-        "name": "B\u00f8gda",
-        "url": "https://open.spotify.com/album/2FlHmlFjUImjvasA84suRu"
-      },
-      "artists": [
-        {
-          "name": "Hagle",
-          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+          "name": "Staysman & Lazz",
+          "url": "https://open.spotify.com/artist/2dViR9WphpDpMB3oUiDblq"
         },
         {
           "name": "Staysman",
           "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+        },
+        {
+          "name": "Plumbo",
+          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
         }
       ],
-      "duration_ms": 164127,
-      "name": "B\u00f8gda",
-      "url": "https://open.spotify.com/track/1MpCvOlkM8VbH50AL7mAUm"
+      "duration_ms": 185884,
+      "name": "En Siste Gang",
+      "url": "https://open.spotify.com/track/6tt3Na8Vjw1H2fCUcUivi5"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -631,26 +635,38 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Helt Sykt VOL2",
-        "url": "https://open.spotify.com/album/6JsrkSrKeMMpnUpq5tTLtA"
+        "name": "S\u00e5nn So Det Va F\u00f8r",
+        "url": "https://open.spotify.com/album/2rFaiP1auuPxt7AdDRwnDm"
       },
       "artists": [
         {
-          "name": "Staysman & Lazz",
-          "url": "https://open.spotify.com/artist/2dViR9WphpDpMB3oUiDblq"
-        },
-        {
-          "name": "Staysman",
-          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
-        },
-        {
-          "name": "Plumbo",
-          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
+          "name": "Vassendgutane",
+          "url": "https://open.spotify.com/artist/5sSnMyOXFRHWNFcC2LgdT2"
         }
       ],
-      "duration_ms": 185884,
-      "name": "En Siste Gang",
-      "url": "https://open.spotify.com/track/6tt3Na8Vjw1H2fCUcUivi5"
+      "duration_ms": 278457,
+      "name": "S\u00e5nn So Det Va F\u00f8r",
+      "url": "https://open.spotify.com/track/4s6yGnZ8L7PqTsKftYgADQ"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Livet Er Herlig",
+        "url": "https://open.spotify.com/album/2TWTHZ6Qv0O9UqIqrTn8HG"
+      },
+      "artists": [
+        {
+          "name": "TIX",
+          "url": "https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9"
+        },
+        {
+          "name": "El Papi",
+          "url": "https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV"
+        }
+      ],
+      "duration_ms": 143261,
+      "name": "Livet Er Herlig",
+      "url": "https://open.spotify.com/track/1cb0J9fgwlnQtESfcRV0XJ"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -667,22 +683,6 @@
       "duration_ms": 274053,
       "name": "Levva Livet",
       "url": "https://open.spotify.com/track/56C8jz11WNH1PM677aq6ez"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
-        "name": "S\u00e5nn So Det Va F\u00f8r",
-        "url": "https://open.spotify.com/album/2rFaiP1auuPxt7AdDRwnDm"
-      },
-      "artists": [
-        {
-          "name": "Vassendgutane",
-          "url": "https://open.spotify.com/artist/5sSnMyOXFRHWNFcC2LgdT2"
-        }
-      ],
-      "duration_ms": 278457,
-      "name": "S\u00e5nn So Det Va F\u00f8r",
-      "url": "https://open.spotify.com/track/4s6yGnZ8L7PqTsKftYgADQ"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "En f\u00e5r v\u00e6re som en er",
-        "url": "https://open.spotify.com/album/3F21yfZ0Jl0Ufs15kqrABT"
-      },
-      "artists": [
-        {
-          "name": "Ole Ivars",
-          "url": "https://open.spotify.com/artist/7dKfUD97BylRps6PXuEJy6"
-        }
-      ],
-      "duration_ms": 205818,
-      "name": "Kongen av campingplassen",
-      "url": "https://open.spotify.com/track/13JJKKGZW8iiCOOeaEItMi"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "Norge rundt med Staysman",
         "url": "https://open.spotify.com/album/6sqoMds60LzzOc39td4hA3"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 138454,
       "name": "Hytta Mi",
       "url": "https://open.spotify.com/track/6gyGtshjMiOrtqXJp553FZ"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "En f\u00e5r v\u00e6re som en er",
+        "url": "https://open.spotify.com/album/3F21yfZ0Jl0Ufs15kqrABT"
+      },
+      "artists": [
+        {
+          "name": "Ole Ivars",
+          "url": "https://open.spotify.com/artist/7dKfUD97BylRps6PXuEJy6"
+        }
+      ],
+      "duration_ms": 205818,
+      "name": "Kongen av campingplassen",
+      "url": "https://open.spotify.com/track/13JJKKGZW8iiCOOeaEItMi"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -875,26 +875,18 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Viddas Himmelbl\u00e5",
-        "url": "https://open.spotify.com/album/3E018LLkx3aXWwYLw7rIMb"
+        "name": "\u00c6rbesk\u00e6r",
+        "url": "https://open.spotify.com/album/2Wq5na5n7xXDAjeybcS8Ds"
       },
       "artists": [
         {
-          "name": "Plumbo",
-          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
-        },
-        {
-          "name": "Kevin Boine",
-          "url": "https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu"
-        },
-        {
-          "name": "Nils Mikael H\u00e6tta",
-          "url": "https://open.spotify.com/artist/2mGY9GWzeVhGxwHQAeut6d"
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
         }
       ],
-      "duration_ms": 192282,
-      "name": "Viddas Himmelbla\u030a",
-      "url": "https://open.spotify.com/track/2R3gKCBXGTtZStAchsKsFq"
+      "duration_ms": 135542,
+      "name": "\u00c6rbesk\u00e6r",
+      "url": "https://open.spotify.com/track/1KKqiE7UtShqsjZwYvWpm8"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -931,18 +923,26 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "\u00c6rbesk\u00e6r",
-        "url": "https://open.spotify.com/album/2Wq5na5n7xXDAjeybcS8Ds"
+        "name": "Viddas Himmelbl\u00e5",
+        "url": "https://open.spotify.com/album/3E018LLkx3aXWwYLw7rIMb"
       },
       "artists": [
         {
-          "name": "Hagle",
-          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+          "name": "Plumbo",
+          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
+        },
+        {
+          "name": "Kevin Boine",
+          "url": "https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu"
+        },
+        {
+          "name": "Nils Mikael H\u00e6tta",
+          "url": "https://open.spotify.com/artist/2mGY9GWzeVhGxwHQAeut6d"
         }
       ],
-      "duration_ms": 135542,
-      "name": "\u00c6rbesk\u00e6r",
-      "url": "https://open.spotify.com/track/1KKqiE7UtShqsjZwYvWpm8"
+      "duration_ms": 192282,
+      "name": "Viddas Himmelbla\u030a",
+      "url": "https://open.spotify.com/track/2R3gKCBXGTtZStAchsKsFq"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1079,18 +1079,22 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "29 tonn",
-        "url": "https://open.spotify.com/album/5xURrIcRE2TPM5BNmNoYcv"
+        "name": "Kjerring i fra by\u2019n",
+        "url": "https://open.spotify.com/album/26nEvQ8cazBeoTIO3dzu5G"
       },
       "artists": [
         {
-          "name": "Plumbo",
-          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+        },
+        {
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
         }
       ],
-      "duration_ms": 198268,
-      "name": "29 tonn",
-      "url": "https://open.spotify.com/track/1pSEXjBnrgZiHHs45k6pEI"
+      "duration_ms": 148520,
+      "name": "Kjerring i fra by\u2019n",
+      "url": "https://open.spotify.com/track/6Wcu2LamzXhBOgDUn47g9u"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1115,22 +1119,18 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Kjerring i fra by\u2019n",
-        "url": "https://open.spotify.com/album/26nEvQ8cazBeoTIO3dzu5G"
+        "name": "29 tonn",
+        "url": "https://open.spotify.com/album/5xURrIcRE2TPM5BNmNoYcv"
       },
       "artists": [
         {
-          "name": "Hagle",
-          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
-        },
-        {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+          "name": "Plumbo",
+          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
         }
       ],
-      "duration_ms": 148520,
-      "name": "Kjerring i fra by\u2019n",
-      "url": "https://open.spotify.com/track/6Wcu2LamzXhBOgDUn47g9u"
+      "duration_ms": 198268,
+      "name": "29 tonn",
+      "url": "https://open.spotify.com/track/1pSEXjBnrgZiHHs45k6pEI"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
-        "name": "Flammer og Bensin",
-        "url": "https://open.spotify.com/album/4gv90AccBv0Awh2ARD1WpK"
-      },
-      "artists": [
-        {
-          "name": "Plumbo",
-          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
-        }
-      ],
-      "duration_ms": 212360,
-      "name": "Flammer og Bensin",
-      "url": "https://open.spotify.com/track/6OxAgEwnw2mWW2e3HS7Mkz"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
         "name": "Norge rundt med Staysman",
         "url": "https://open.spotify.com/album/6sqoMds60LzzOc39td4hA3"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 161267,
       "name": "Bara vara med dig",
       "url": "https://open.spotify.com/track/6XyttiDC9XtzILqteIADau"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Flammer og Bensin",
+        "url": "https://open.spotify.com/album/4gv90AccBv0Awh2ARD1WpK"
+      },
+      "artists": [
+        {
+          "name": "Plumbo",
+          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
+        }
+      ],
+      "duration_ms": 212360,
+      "name": "Flammer og Bensin",
+      "url": "https://open.spotify.com/track/6OxAgEwnw2mWW2e3HS7Mkz"
     },
     {
       "added_at": "2024-02-15 23:00:00",

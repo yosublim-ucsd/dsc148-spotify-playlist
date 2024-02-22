@@ -1,5 +1,5 @@
 {
-  "2024-02-21": 269484,
+  "2024-02-22": 269538,
   "date_first_scraped": "2021-12-21",
   "description": "The perfect mix of Punk, Rock, Alt & Indie. Cover: Dehd",
   "name": "Noisy",
@@ -3683,6 +3683,24 @@
       "duration_ms": 218141,
       "name": "Gettin' In The Way",
       "url": "https://open.spotify.com/track/1roUIc6mekrsZXcTveHhBe"
+    },
+    {
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/2NSk5OYfehagwMeFNEUeDN"
+      },
+      "artists": [
+        {
+          "name": "mary in the junkyard",
+          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246909,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/11wMfHsceksu8GAIugQMA9"
     },
     {
       "album": {
@@ -10589,7 +10607,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 299136,
       "name": "Tuesday",
       "url": "https://open.spotify.com/track/19Ta3GtCyDQHhFXMS0vUZj"

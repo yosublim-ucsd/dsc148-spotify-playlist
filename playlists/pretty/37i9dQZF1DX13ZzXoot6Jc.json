@@ -1,12 +1,12 @@
 {
   "description": "Country hits that will have you singing every word. Cover: Chris Stapleton",
-  "num_followers": 456248,
+  "num_followers": 456259,
   "original_name": "Country Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZDUyNzQ0YjQyYWYzNjM2MTY3N2Y4OTc4ZTk1ODUwZDMyNTJjZDk0",
+  "snapshot_id": "MCwwMzA2MjI0NzM0ZjcyNjJhMDcxOTRlMzk3ZGU0OTQ0MTY5OTU2NGMy",
   "tracks": [
     {
       "added_at": "2024-02-16 05:01:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-02-16 05:01:00",
       "album": {
-        "name": "Southern and Slow",
-        "url": "https://open.spotify.com/album/4GECpyeTQzYCPShc1Xs3cT"
-      },
-      "artists": [
-        {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
-        }
-      ],
-      "duration_ms": 187493,
-      "name": "Southern and Slow",
-      "url": "https://open.spotify.com/track/5tAoi3TfoWB4esWc5hlLJ8"
-    },
-    {
-      "added_at": "2024-02-16 05:01:00",
-      "album": {
         "name": "The Thing That Wrecks You",
         "url": "https://open.spotify.com/album/0WV6Fl639FaUQIJHTTjuOp"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 145499,
       "name": "No Bad Days (featuring Jimmie Allen)",
       "url": "https://open.spotify.com/track/0Z36IMMSzdvXlfBu8fwgmR"
+    },
+    {
+      "added_at": "2024-02-16 05:01:00",
+      "album": {
+        "name": "Southern and Slow",
+        "url": "https://open.spotify.com/album/4GECpyeTQzYCPShc1Xs3cT"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "duration_ms": 187493,
+      "name": "Southern and Slow",
+      "url": "https://open.spotify.com/track/5tAoi3TfoWB4esWc5hlLJ8"
     },
     {
       "added_at": "2024-02-16 05:01:00",
@@ -951,6 +951,22 @@
     {
       "added_at": "2024-02-16 05:01:00",
       "album": {
+        "name": "The Whiskey's Gone",
+        "url": "https://open.spotify.com/album/3B5ICHgHiMeBUq0xmH2Ntm"
+      },
+      "artists": [
+        {
+          "name": "Alli Walker",
+          "url": "https://open.spotify.com/artist/7nspbN0Rr5jTKLOqJoUnPj"
+        }
+      ],
+      "duration_ms": 177186,
+      "name": "The Whiskey's Gone",
+      "url": "https://open.spotify.com/track/1zSpONTt43MyPpw53vdfj2"
+    },
+    {
+      "added_at": "2024-02-16 05:01:00",
+      "album": {
         "name": "I'll Be Here",
         "url": "https://open.spotify.com/album/4xbHSYI6hlGNwedfaXgSAk"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 247459,
       "name": "I'll Be Here",
       "url": "https://open.spotify.com/track/04yDiQ6Xdiq8saPsmHOdw3"
-    },
-    {
-      "added_at": "2024-02-16 05:01:00",
-      "album": {
-        "name": "The Whiskey's Gone",
-        "url": "https://open.spotify.com/album/3B5ICHgHiMeBUq0xmH2Ntm"
-      },
-      "artists": [
-        {
-          "name": "Alli Walker",
-          "url": "https://open.spotify.com/artist/7nspbN0Rr5jTKLOqJoUnPj"
-        }
-      ],
-      "duration_ms": 177186,
-      "name": "The Whiskey's Gone",
-      "url": "https://open.spotify.com/track/1zSpONTt43MyPpw53vdfj2"
     },
     {
       "added_at": "2024-02-16 05:01:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-02-16 05:01:00",
       "album": {
-        "name": "Brothers Osborne",
-        "url": "https://open.spotify.com/album/3OOe4GNNhV4ezmUyHAGyoH"
-      },
-      "artists": [
-        {
-          "name": "Brothers Osborne",
-          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
-        }
-      ],
-      "duration_ms": 188453,
-      "name": "Who Says You Can't Have Everything",
-      "url": "https://open.spotify.com/track/4KbLhLnwnhbHk0Aa13BeYD"
-    },
-    {
-      "added_at": "2024-02-16 05:01:00",
-      "album": {
         "name": "Two of Us",
         "url": "https://open.spotify.com/album/6hBCrISl057IRjVjlghx5P"
       },
@@ -1223,22 +1207,18 @@
     {
       "added_at": "2024-02-16 05:01:00",
       "album": {
-        "name": "Product Of (Feat. Lee Brice)",
-        "url": "https://open.spotify.com/album/5r9qa8kgZvK916DdSg4MSY"
+        "name": "Brothers Osborne",
+        "url": "https://open.spotify.com/album/3OOe4GNNhV4ezmUyHAGyoH"
       },
       "artists": [
         {
-          "name": "Lewis Brice",
-          "url": "https://open.spotify.com/artist/7uUOszTczQQwzDodHiz4j0"
-        },
-        {
-          "name": "Lee Brice",
-          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
         }
       ],
-      "duration_ms": 173346,
-      "name": "Product Of (Feat. Lee Brice)",
-      "url": "https://open.spotify.com/track/3Bb1txAwFxLW1PbKRlBV2x"
+      "duration_ms": 188453,
+      "name": "Who Says You Can't Have Everything",
+      "url": "https://open.spotify.com/track/4KbLhLnwnhbHk0Aa13BeYD"
     },
     {
       "added_at": "2024-02-16 05:01:00",
@@ -1255,6 +1235,26 @@
       "duration_ms": 225533,
       "name": "Walking Each Other Home",
       "url": "https://open.spotify.com/track/7Jbd2TWvjvJgBwaFbqJ06n"
+    },
+    {
+      "added_at": "2024-02-16 05:01:00",
+      "album": {
+        "name": "Product Of (Feat. Lee Brice)",
+        "url": "https://open.spotify.com/album/5r9qa8kgZvK916DdSg4MSY"
+      },
+      "artists": [
+        {
+          "name": "Lewis Brice",
+          "url": "https://open.spotify.com/artist/7uUOszTczQQwzDodHiz4j0"
+        },
+        {
+          "name": "Lee Brice",
+          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
+        }
+      ],
+      "duration_ms": 173346,
+      "name": "Product Of (Feat. Lee Brice)",
+      "url": "https://open.spotify.com/track/3Bb1txAwFxLW1PbKRlBV2x"
     },
     {
       "added_at": "2024-02-16 05:01:00",

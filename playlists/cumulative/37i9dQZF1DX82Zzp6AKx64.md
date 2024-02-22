@@ -4,7 +4,7 @@
 
 > Emotional and powerful \- let your feelings out with these rock power ballads\. Cover: Tina Turner
 
-212 songs - 16 hr 46 min
+214 songs - 16 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [All I Wanna Do Is Make Love To You](https://open.spotify.com/track/5YjKdeES9QRJ8NmF4Xc8pV) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Brigade](https://open.spotify.com/album/5CuSWXFhWielWXrXK8Sd8m) | 5:10 | 2020-04-30 |  |
 | [Alone](https://open.spotify.com/track/54b8qPFqYqIndfdxiLApea) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Bad Animals](https://open.spotify.com/album/56dfEbntfVTMCxjrjggL1e) | 3:38 | 2020-04-30 |  |
 | [Alone \- Remastered](https://open.spotify.com/track/0h17TpfCKbbib1J37Qgj7r) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Greatest Hits 1985\-1995](https://open.spotify.com/album/5bOhnWhieBJGivUovmtob5) | 3:39 | 2023-05-24 | 2023-12-14 |
+| [Alone Again](https://open.spotify.com/track/5Q916vqrwfON21qlJiXpSz) | [Dokken](https://open.spotify.com/artist/09hNSPPOxDop4FRdr6UEnq) | [Tooth and Nail](https://open.spotify.com/album/68bOQyF7s918K2nUIXSGWo) | 4:20 | 2024-02-02 |  |
 | [Alone Again](https://open.spotify.com/track/1j06ieEC2BOCM0fTmYhn2l) | [Dokken](https://open.spotify.com/artist/09hNSPPOxDop4FRdr6UEnq) | [Tooth and Nail](https://open.spotify.com/album/0opFMR8DprHzu1nPHhoHuL) | 4:22 | 2020-04-30 | 2024-02-10 |
 | [Always](https://open.spotify.com/track/2RChe0r2cMoyOvuKobZy44) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Cross Road](https://open.spotify.com/album/0tBfLeYdX3oBnl5NVpot4m) | 5:53 | 2022-01-21 |  |
 | [Always](https://open.spotify.com/track/4JAJV4D2902ZQL4A63Q2fe) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Cross Road](https://open.spotify.com/album/6ltCtxmCcZrkuqpmUwmCq4) | 5:53 | 2020-04-30 | 2022-07-29 |
@@ -116,7 +117,7 @@
 | [Just Take My Heart \- 2010 Remastered Version](https://open.spotify.com/track/7mqqMOgnRE50GOJFPxRF8x) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Lean Into It \[Expanded\]](https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ) | 4:25 | 2020-04-30 | 2022-07-29 |
 | [Keep on Loving You](https://open.spotify.com/track/4rcHWl68ai6KvpXlc8vbnE) | [REO Speedwagon](https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E) | [Hi Infidelity \(30th Anniversary Edition\)](https://open.spotify.com/album/0X4ZNTZw7SYgrp5rlBQC3N) | 3:20 | 2020-04-30 |  |
 | [Let It Rain](https://open.spotify.com/track/3DN7ZpzvdF7hfB64mDPQim) | [Warrant](https://open.spotify.com/artist/7HLvzuM9p11k9lUQfSM4Rq) | [Dog Eat Dog](https://open.spotify.com/album/49lunjcGy7kj30y4ODCFG6) | 4:15 | 2022-01-21 | 2022-04-21 |
-| [Life Goes On \- 2003 Remaster](https://open.spotify.com/track/2OWKsyrgUINadOG21dR0Fh) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Flesh & Blood](https://open.spotify.com/album/7alngtync76VqYWSKxcBhB) | 4:47 | 2020-04-30 |  |
+| [Life Goes On \- 2003 Remaster](https://open.spotify.com/track/2OWKsyrgUINadOG21dR0Fh) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Flesh & Blood](https://open.spotify.com/album/7alngtync76VqYWSKxcBhB) | 4:47 | 2020-04-30 | 2024-02-22 |
 | [Lost Without Your Love](https://open.spotify.com/track/5ykSCsr19ZqKZI9n8lzELk) | [LOUDNESS](https://open.spotify.com/artist/2bjzKs28cL5EVKB0xqUGuJ) | [Soldier Of Fortune](https://open.spotify.com/album/7x8NtjtIzC2q1nZPbjmpgx) | 4:56 | 2022-01-21 | 2022-04-21 |
 | [Love Bites \- Remastered 2017](https://open.spotify.com/track/3Dfy8YIxq89i84t108TvMi) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Hysteria \(Super Deluxe\)](https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE) | 5:46 | 2020-04-30 |  |
 | [Love Is on the Way](https://open.spotify.com/track/3F3n2V9XBrtb1omqLfcNPe) | [Saigon Kick](https://open.spotify.com/artist/1Qt3QdA0ZoOoeWfrJzA12d) | [The Lizard](https://open.spotify.com/album/0nZIjKvxpkli74fs827sAJ) | 4:24 | 2020-04-30 |  |
@@ -151,6 +152,7 @@
 | [Quicksand Jesus](https://open.spotify.com/track/1WYCGlOv6XhCqDyZBYnu9E) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Slave to the Grind](https://open.spotify.com/album/5rwVv60GrqUYkkrD3vxSJy) | 5:24 | 2020-04-30 | 2024-01-16 |
 | [Right Here Waiting](https://open.spotify.com/track/4LFwNJWoj74Yd71fIr1W8x) | [Richard Marx](https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6) | [Repeat Offender](https://open.spotify.com/album/0Zf6FJVyK6qUxmg1WMNruG) | 4:24 | 2020-04-30 |  |
 | [Rough Boy](https://open.spotify.com/track/7Be81Zrxv29TyFJEPPyf8h) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [ZZ Top's Greatest Hits](https://open.spotify.com/album/20ZZfEgbODMenFN8EKlVFh) | 4:47 | 2020-04-30 | 2022-07-29 |
+| [Rough Boy](https://open.spotify.com/track/6twEEIkgsC2Iv6RczUjLGv) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Afterburner](https://open.spotify.com/album/1YFWLc1QQ34XbIBXzesWdm) | 4:49 | 2024-02-02 |  |
 | [Save Your Love](https://open.spotify.com/track/28FVfrALlHSChnhD8jq8kd) | [Great White](https://open.spotify.com/artist/6ZPbX2Lxd40e2UVkXpyxvI) | [Rock Me: The Best Of Great White](https://open.spotify.com/album/2TUjGbi6H75rcYGBFwe5f5) | 4:38 | 2020-04-30 | 2022-07-27 |
 | [Save Your Love](https://open.spotify.com/track/1X1TonvQws8wxagWJmnUNj) | [Great White](https://open.spotify.com/artist/6ZPbX2Lxd40e2UVkXpyxvI) | [Once Bitten](https://open.spotify.com/album/7L3JfVjB7PpYEqDkWeJkAz) | 5:46 | 2020-04-30 | 2022-07-27 |
 | [Screaming in the Night](https://open.spotify.com/track/25suYHVUwWFTG6G31kuhZH) | [Krokus](https://open.spotify.com/artist/4YveAIZNQZBiWbt7iWsvCa) | [Head Hunter](https://open.spotify.com/album/1QTVIHunxbQf1dT4fXH9DO) | 6:37 | 2022-01-21 | 2024-02-12 |
@@ -169,7 +171,7 @@
 | [Still Loving You](https://open.spotify.com/track/6KGXbG5wEb6WlIFAGKDQh0) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Love At First Sting \(50th Anniversary Deluxe Edition\)](https://open.spotify.com/album/5mtL1sxFQ8vKzv1hk6t0xX) | 6:28 | 2020-04-30 | 2022-07-28 |
 | [Still Lovin’ You](https://open.spotify.com/track/6JeukHIbgOMHEmL4Qpyz7G) | [George Lynch](https://open.spotify.com/artist/4t9bqcZJUC9cAjgRRNVm6u), [Steve Whitman](https://open.spotify.com/artist/3kQb9aSULrdlZWFq1IfiLp) | [80s Metal Essentials](https://open.spotify.com/album/2TVw53GtUSghMd1GJ1rYNU) | 4:54 | 2022-01-21 | 2022-04-21 |
 | [Stone Cold](https://open.spotify.com/track/489G72NyIWlBqZWATHN2hr) | [Rainbow](https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m) | [Straight Between The Eyes \(Remastered\)](https://open.spotify.com/album/0yvj6yNOiuNLVpbbP1TWoS) | 5:17 | 2020-04-30 | 2022-07-27 |
-| [Stone Cold](https://open.spotify.com/track/7HXYoe65kmrPrJR1r0DGtW) | [Rainbow](https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m) | [Straight Between The Eyes](https://open.spotify.com/album/2TjkjpMXM0fsgmmVjmxNmI) | 5:17 | 2022-01-21 |  |
+| [Stone Cold](https://open.spotify.com/track/7HXYoe65kmrPrJR1r0DGtW) | [Rainbow](https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m) | [Straight Between The Eyes](https://open.spotify.com/album/2TjkjpMXM0fsgmmVjmxNmI) | 5:17 | 2022-01-21 | 2024-02-22 |
 | [Surrender](https://open.spotify.com/track/4EEAHK0c3M7CCgcQt9bfts) | [Trixter](https://open.spotify.com/artist/4M3TtMs03DHCYvzbgzBnyZ) | [Trixter](https://open.spotify.com/album/0XZ1S3qHK4OPgA0o8itUMb) | 5:50 | 2022-01-21 | 2022-04-21 |
 | [Take My Breath Away](https://open.spotify.com/track/1hZJcuz9iMoz6tLkFlIaUy) | [Berlin](https://open.spotify.com/artist/2aS6jYh7ysTL1ZUsHneNgM) | [Take My Breath Away](https://open.spotify.com/album/1gwQ8OK1YHKpzIxLKuc1MQ) | 4:24 | 2022-01-21 |  |
 | [The Angel Song](https://open.spotify.com/track/1JxRLFVoFx2f7zumJwRDSw) | [Great White](https://open.spotify.com/artist/6ZPbX2Lxd40e2UVkXpyxvI) | [Twice Shy](https://open.spotify.com/album/0gPfgxBDkrtJgwIkziS8LI) | 4:51 | 2020-04-30 | 2022-07-29 |

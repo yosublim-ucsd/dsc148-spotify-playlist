@@ -1,12 +1,12 @@
 {
   "description": "That real soulful house sound. Cover: Kerri Chandler",
-  "num_followers": 88924,
+  "num_followers": 88957,
   "original_name": "Soulful House",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODA1N2VhZDkyM2E1MDBmYTM0ZjU4MTBmODc0MDMyZWFlMjBhMjc2",
+  "snapshot_id": "MCxjMTQyYTI3ZmNlMDRiZDFlYjk0YjI5MjQ0ZDBkNGI0ZDcwNGZhMTg5",
   "tracks": [
     {
       "added_at": "2024-01-31 14:58:27",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-01-31 14:58:27",
       "album": {
-        "name": "Let Me See You (Clap Your Hands) EP",
-        "url": "https://open.spotify.com/album/1GOW3vMJfYO4pTXxtcmqMO"
-      },
-      "artists": [
-        {
-          "name": "Michele Chiavarini",
-          "url": "https://open.spotify.com/artist/5ec2x41RmuQqBYAKbQ7nhr"
-        }
-      ],
-      "duration_ms": 493440,
-      "name": "Let Me See You (Clap Your Hands)",
-      "url": "https://open.spotify.com/track/1Rji2sKlCxwfyxuk8N8FlX"
-    },
-    {
-      "added_at": "2024-01-31 14:58:27",
-      "album": {
         "name": "Most Precious Love",
         "url": "https://open.spotify.com/album/3ZGW0m1yYBEUdoaherCC34"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 503040,
       "name": "The Sound Is Yours - Kerri Chandler Remix",
       "url": "https://open.spotify.com/track/586ipzQlSCyAyY1pvFthWT"
+    },
+    {
+      "added_at": "2024-01-31 14:58:27",
+      "album": {
+        "name": "Let Me See You (Clap Your Hands) EP",
+        "url": "https://open.spotify.com/album/1GOW3vMJfYO4pTXxtcmqMO"
+      },
+      "artists": [
+        {
+          "name": "Michele Chiavarini",
+          "url": "https://open.spotify.com/artist/5ec2x41RmuQqBYAKbQ7nhr"
+        }
+      ],
+      "duration_ms": 493440,
+      "name": "Let Me See You (Clap Your Hands)",
+      "url": "https://open.spotify.com/track/1Rji2sKlCxwfyxuk8N8FlX"
     },
     {
       "added_at": "2024-01-31 14:58:27",
@@ -875,6 +875,22 @@
     {
       "added_at": "2024-01-31 14:58:27",
       "album": {
+        "name": "Black Mahogani",
+        "url": "https://open.spotify.com/album/224OuhZ1LThmaYGhD8ikq6"
+      },
+      "artists": [
+        {
+          "name": "Moodymann",
+          "url": "https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX"
+        }
+      ],
+      "duration_ms": 415933,
+      "name": "Shades of Jae",
+      "url": "https://open.spotify.com/track/2jzdxxtPk8hI5AlVJMI1dh"
+    },
+    {
+      "added_at": "2024-01-31 14:58:27",
+      "album": {
         "name": "Backfired",
         "url": "https://open.spotify.com/album/6ny1UzeTKJ9iR4e7t6SHVz"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 519039,
       "name": "Backfired - Dave Lee Club Mix",
       "url": "https://open.spotify.com/track/2RsSPUTNQ147dUCQyC4toz"
-    },
-    {
-      "added_at": "2024-01-31 14:58:27",
-      "album": {
-        "name": "Black Mahogani",
-        "url": "https://open.spotify.com/album/224OuhZ1LThmaYGhD8ikq6"
-      },
-      "artists": [
-        {
-          "name": "Moodymann",
-          "url": "https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX"
-        }
-      ],
-      "duration_ms": 415933,
-      "name": "Shades of Jae",
-      "url": "https://open.spotify.com/track/2jzdxxtPk8hI5AlVJMI1dh"
     },
     {
       "added_at": "2024-01-31 14:58:27",
@@ -1047,18 +1047,26 @@
     {
       "added_at": "2024-01-31 14:58:27",
       "album": {
-        "name": "No Politics",
-        "url": "https://open.spotify.com/album/2rGknRc712pRAvQUmkGHTh"
+        "name": "Complicated",
+        "url": "https://open.spotify.com/album/75yHjtmmdmIwY5lblJklzf"
       },
       "artists": [
         {
-          "name": "Quentin Harris",
-          "url": "https://open.spotify.com/artist/0XRU3hfrxwicmk4wRkqs8B"
+          "name": "Ralf Gum",
+          "url": "https://open.spotify.com/artist/2XE7Kskh4TLEcxIyNSoCwN"
+        },
+        {
+          "name": "Kafele",
+          "url": "https://open.spotify.com/artist/7n8KEGYBg5EoZDcH3eZYqa"
+        },
+        {
+          "name": "Raw Artistic Soul",
+          "url": "https://open.spotify.com/artist/4sUnbVPsyKENYjsbusOj8a"
         }
       ],
-      "duration_ms": 463320,
-      "name": "Poor People (Big Room Mix)",
-      "url": "https://open.spotify.com/track/3CYhbioAH5j4AHKwW0N9oL"
+      "duration_ms": 560292,
+      "name": "Complicated - Raw Artistic Soul Vocal Dub",
+      "url": "https://open.spotify.com/track/0nqzYokdUKH9CJxCPhvxfG"
     },
     {
       "added_at": "2024-01-31 14:58:27",
@@ -1083,26 +1091,18 @@
     {
       "added_at": "2024-01-31 14:58:27",
       "album": {
-        "name": "Complicated",
-        "url": "https://open.spotify.com/album/75yHjtmmdmIwY5lblJklzf"
+        "name": "No Politics",
+        "url": "https://open.spotify.com/album/2rGknRc712pRAvQUmkGHTh"
       },
       "artists": [
         {
-          "name": "Ralf Gum",
-          "url": "https://open.spotify.com/artist/2XE7Kskh4TLEcxIyNSoCwN"
-        },
-        {
-          "name": "Kafele",
-          "url": "https://open.spotify.com/artist/7n8KEGYBg5EoZDcH3eZYqa"
-        },
-        {
-          "name": "Raw Artistic Soul",
-          "url": "https://open.spotify.com/artist/4sUnbVPsyKENYjsbusOj8a"
+          "name": "Quentin Harris",
+          "url": "https://open.spotify.com/artist/0XRU3hfrxwicmk4wRkqs8B"
         }
       ],
-      "duration_ms": 560292,
-      "name": "Complicated - Raw Artistic Soul Vocal Dub",
-      "url": "https://open.spotify.com/track/0nqzYokdUKH9CJxCPhvxfG"
+      "duration_ms": 463320,
+      "name": "Poor People (Big Room Mix)",
+      "url": "https://open.spotify.com/track/3CYhbioAH5j4AHKwW0N9oL"
     },
     {
       "added_at": "2024-01-31 14:58:27",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-01-31 14:58:27",
       "album": {
-        "name": "Michael",
-        "url": "https://open.spotify.com/album/6bKcuQcBLfUwfMycHOvWlF"
-      },
-      "artists": [
-        {
-          "name": "Roy Davis Jr.",
-          "url": "https://open.spotify.com/artist/3O81ptrvwO8etw6HwABJs8"
-        }
-      ],
-      "duration_ms": 342800,
-      "name": "Michael - Love From San Francisco Dub",
-      "url": "https://open.spotify.com/track/7pPhKV991VkEc2oGCV7eSD"
-    },
-    {
-      "added_at": "2024-01-31 14:58:27",
-      "album": {
         "name": "Can\u2019t Stop (Dennis F\u2019s Falling 4 U Mix Edit)",
         "url": "https://open.spotify.com/album/6aJHmzrFn7rr0zKQncSGCC"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 265493,
       "name": "Can\u2019t Stop - Dennis F\u2019s Falling 4 U Mix Edit",
       "url": "https://open.spotify.com/track/29Ux17YJDtzAJSlz5MWTTs"
+    },
+    {
+      "added_at": "2024-01-31 14:58:27",
+      "album": {
+        "name": "Michael",
+        "url": "https://open.spotify.com/album/6bKcuQcBLfUwfMycHOvWlF"
+      },
+      "artists": [
+        {
+          "name": "Roy Davis Jr.",
+          "url": "https://open.spotify.com/artist/3O81ptrvwO8etw6HwABJs8"
+        }
+      ],
+      "duration_ms": 342800,
+      "name": "Michael - Love From San Francisco Dub",
+      "url": "https://open.spotify.com/track/7pPhKV991VkEc2oGCV7eSD"
     },
     {
       "added_at": "2024-01-31 14:58:27",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2024-01-31 14:58:27",
       "album": {
-        "name": "I Never Knew Love",
-        "url": "https://open.spotify.com/album/2nIniMGpYsChZLPYNcvocw"
-      },
-      "artists": [
-        {
-          "name": "Chez Damier",
-          "url": "https://open.spotify.com/artist/6ElgoHFh30ap09Koe8jf7C"
-        }
-      ],
-      "duration_ms": 229464,
-      "name": "I Never Knew Love - Made In Detroit Mix",
-      "url": "https://open.spotify.com/track/2PLQlE2zQKT3JfH3lWhIrz"
-    },
-    {
-      "added_at": "2024-01-31 14:58:27",
-      "album": {
         "name": "(un)Reliable Recordings Presents: New Things Remixes",
         "url": "https://open.spotify.com/album/6s7tgDqfY7bsaKT3WSCOlF"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 377069,
       "name": "New Things (Eric Kupper Remix)",
       "url": "https://open.spotify.com/track/21MaZOysLgNhO0MjWezOiX"
+    },
+    {
+      "added_at": "2024-01-31 14:58:27",
+      "album": {
+        "name": "I Never Knew Love",
+        "url": "https://open.spotify.com/album/2nIniMGpYsChZLPYNcvocw"
+      },
+      "artists": [
+        {
+          "name": "Chez Damier",
+          "url": "https://open.spotify.com/artist/6ElgoHFh30ap09Koe8jf7C"
+        }
+      ],
+      "duration_ms": 229464,
+      "name": "I Never Knew Love - Made In Detroit Mix",
+      "url": "https://open.spotify.com/track/2PLQlE2zQKT3JfH3lWhIrz"
     },
     {
       "added_at": "2024-01-31 14:58:27",
@@ -1547,6 +1547,26 @@
     {
       "added_at": "2024-01-31 14:58:27",
       "album": {
+        "name": "Joey Negro presents 30 Years of Z Records",
+        "url": "https://open.spotify.com/album/2tiE4dyEl6oDQmGX2U6P7o"
+      },
+      "artists": [
+        {
+          "name": "Erro",
+          "url": "https://open.spotify.com/artist/1OqARZ9xhHwxnxShurKYLK"
+        },
+        {
+          "name": "Dave Lee",
+          "url": "https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f"
+        }
+      ],
+      "duration_ms": 271680,
+      "name": "Change for Me - Joey Negro Radio Edit",
+      "url": "https://open.spotify.com/track/4CZDxv04XuF7yaDDXpAoD5"
+    },
+    {
+      "added_at": "2024-01-31 14:58:27",
+      "album": {
         "name": "Devoted",
         "url": "https://open.spotify.com/album/4CDM5zo71P6JWyDzovwcZh"
       },
@@ -1567,26 +1587,6 @@
       "duration_ms": 220475,
       "name": "Devoted - Radio Edit",
       "url": "https://open.spotify.com/track/1HzfuIqWacyHTNjyY99Ivu"
-    },
-    {
-      "added_at": "2024-01-31 14:58:27",
-      "album": {
-        "name": "Joey Negro presents 30 Years of Z Records",
-        "url": "https://open.spotify.com/album/2tiE4dyEl6oDQmGX2U6P7o"
-      },
-      "artists": [
-        {
-          "name": "Erro",
-          "url": "https://open.spotify.com/artist/1OqARZ9xhHwxnxShurKYLK"
-        },
-        {
-          "name": "Dave Lee",
-          "url": "https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f"
-        }
-      ],
-      "duration_ms": 271680,
-      "name": "Change for Me - Joey Negro Radio Edit",
-      "url": "https://open.spotify.com/track/4CZDxv04XuF7yaDDXpAoD5"
     },
     {
       "added_at": "2024-01-31 14:58:27",
@@ -1783,26 +1783,6 @@
     {
       "added_at": "2024-01-31 14:58:27",
       "album": {
-        "name": "Basic Blaze",
-        "url": "https://open.spotify.com/album/2AlcOxSXgsBk7DjM8DKOxW"
-      },
-      "artists": [
-        {
-          "name": "Blaze",
-          "url": "https://open.spotify.com/artist/5yK5YSsWKH35QRTsHQHxEN"
-        },
-        {
-          "name": "Palmer Brown",
-          "url": "https://open.spotify.com/artist/5MfFoEw9nTa4pyTUvG3kdb"
-        }
-      ],
-      "duration_ms": 319760,
-      "name": "My Beat - feat. Palmer Brown",
-      "url": "https://open.spotify.com/track/21G4nOpobUUb6czFyxLSBx"
-    },
-    {
-      "added_at": "2024-01-31 14:58:27",
-      "album": {
         "name": "Here to There",
         "url": "https://open.spotify.com/album/3bYHhxZtHnG7Ys0Vpf3xvy"
       },
@@ -1819,6 +1799,26 @@
       "duration_ms": 325773,
       "name": "Music in Me (Come Alive)",
       "url": "https://open.spotify.com/track/5DVTiIwuqEuXHWIOpnTSng"
+    },
+    {
+      "added_at": "2024-01-31 14:58:27",
+      "album": {
+        "name": "Basic Blaze",
+        "url": "https://open.spotify.com/album/2AlcOxSXgsBk7DjM8DKOxW"
+      },
+      "artists": [
+        {
+          "name": "Blaze",
+          "url": "https://open.spotify.com/artist/5yK5YSsWKH35QRTsHQHxEN"
+        },
+        {
+          "name": "Palmer Brown",
+          "url": "https://open.spotify.com/artist/5MfFoEw9nTa4pyTUvG3kdb"
+        }
+      ],
+      "duration_ms": 319760,
+      "name": "My Beat - feat. Palmer Brown",
+      "url": "https://open.spotify.com/track/21G4nOpobUUb6czFyxLSBx"
     },
     {
       "added_at": "2024-01-31 14:58:27",
@@ -2339,26 +2339,6 @@
     {
       "added_at": "2024-01-31 14:58:27",
       "album": {
-        "name": "Timeless Vol. 1",
-        "url": "https://open.spotify.com/album/1SHOOkR0rX45e1SKtvMGs0"
-      },
-      "artists": [
-        {
-          "name": "Elements Of Life",
-          "url": "https://open.spotify.com/artist/7uMlQA2qyNSJTbnqp1rbNY"
-        },
-        {
-          "name": "Blaze",
-          "url": "https://open.spotify.com/artist/5yK5YSsWKH35QRTsHQHxEN"
-        }
-      ],
-      "duration_ms": 501320,
-      "name": "Elements of Life - Album Mix",
-      "url": "https://open.spotify.com/track/33hWBifGdyJbPjCGwiqL6x"
-    },
-    {
-      "added_at": "2024-01-31 14:58:27",
-      "album": {
         "name": "Love Bomb",
         "url": "https://open.spotify.com/album/038vo73ab6kJi4NsOL6dX1"
       },
@@ -2379,22 +2359,22 @@
     {
       "added_at": "2024-01-31 14:58:27",
       "album": {
-        "name": "Keep on Stepping",
-        "url": "https://open.spotify.com/album/24phe71iWuGGP1zTn9GnAS"
+        "name": "Timeless Vol. 1",
+        "url": "https://open.spotify.com/album/1SHOOkR0rX45e1SKtvMGs0"
       },
       "artists": [
         {
-          "name": "Marcel Vogel",
-          "url": "https://open.spotify.com/artist/58cSkLlJKQgbPGKph5569D"
+          "name": "Elements Of Life",
+          "url": "https://open.spotify.com/artist/7uMlQA2qyNSJTbnqp1rbNY"
         },
         {
-          "name": "LYMA",
-          "url": "https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP"
+          "name": "Blaze",
+          "url": "https://open.spotify.com/artist/5yK5YSsWKH35QRTsHQHxEN"
         }
       ],
-      "duration_ms": 202835,
-      "name": "Keep on Stepping",
-      "url": "https://open.spotify.com/track/3tU7tiCiC7GLbs3r83wy6E"
+      "duration_ms": 501320,
+      "name": "Elements of Life - Album Mix",
+      "url": "https://open.spotify.com/track/33hWBifGdyJbPjCGwiqL6x"
     },
     {
       "added_at": "2024-01-31 14:58:27",
@@ -2467,6 +2447,26 @@
       "duration_ms": 247918,
       "name": "For The Culture - Sean McCabe & Black Sonix Remix Edit",
       "url": "https://open.spotify.com/track/7HOZfuZ9OzOtfHfOW3XNaK"
+    },
+    {
+      "added_at": "2024-01-31 14:58:27",
+      "album": {
+        "name": "Keep on Stepping",
+        "url": "https://open.spotify.com/album/24phe71iWuGGP1zTn9GnAS"
+      },
+      "artists": [
+        {
+          "name": "Marcel Vogel",
+          "url": "https://open.spotify.com/artist/58cSkLlJKQgbPGKph5569D"
+        },
+        {
+          "name": "LYMA",
+          "url": "https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP"
+        }
+      ],
+      "duration_ms": 202835,
+      "name": "Keep on Stepping",
+      "url": "https://open.spotify.com/track/3tU7tiCiC7GLbs3r83wy6E"
     },
     {
       "added_at": "2024-01-31 14:58:27",
@@ -2875,30 +2875,6 @@
     {
       "added_at": "2024-01-31 14:58:27",
       "album": {
-        "name": "Virgin Ubiquity: Remixed",
-        "url": "https://open.spotify.com/album/2fx4CE0Us9UpxDD9ySZLHd"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        },
-        {
-          "name": "Terri Wells",
-          "url": "https://open.spotify.com/artist/6YBiK4t0ZuN8ACjIfByjqJ"
-        },
-        {
-          "name": "Kenny Dope",
-          "url": "https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX"
-        }
-      ],
-      "duration_ms": 526800,
-      "name": "Holiday - Kenny Dope Main Pass",
-      "url": "https://open.spotify.com/track/5sNqQYKPuIUvipXRKWzOc8"
-    },
-    {
-      "added_at": "2024-01-31 14:58:27",
-      "album": {
         "name": "Betcha Wouldn't Hurt Me",
         "url": "https://open.spotify.com/album/0kpPKhMy5OHxSZ0ohmxVQt"
       },
@@ -2939,22 +2915,26 @@
     {
       "added_at": "2024-01-31 14:58:27",
       "album": {
-        "name": "Think Twice (Remixes)",
-        "url": "https://open.spotify.com/album/61K70Q4gJ3wUzEMQDYV2aN"
+        "name": "Virgin Ubiquity: Remixed",
+        "url": "https://open.spotify.com/album/2fx4CE0Us9UpxDD9ySZLHd"
       },
       "artists": [
         {
-          "name": "The Detroit Experiment",
-          "url": "https://open.spotify.com/artist/54g168aY2BbLhQ0g6SpoTa"
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
         },
         {
-          "name": "Mark E",
-          "url": "https://open.spotify.com/artist/4fCHedqRf3deyVeK2beyBo"
+          "name": "Terri Wells",
+          "url": "https://open.spotify.com/artist/6YBiK4t0ZuN8ACjIfByjqJ"
+        },
+        {
+          "name": "Kenny Dope",
+          "url": "https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX"
         }
       ],
-      "duration_ms": 578013,
-      "name": "Think Twice - Mark E Remix",
-      "url": "https://open.spotify.com/track/5FqKVL72KUO2vKM6nxcQYd"
+      "duration_ms": 526800,
+      "name": "Holiday - Kenny Dope Main Pass",
+      "url": "https://open.spotify.com/track/5sNqQYKPuIUvipXRKWzOc8"
     },
     {
       "added_at": "2024-01-31 14:58:27",
@@ -2975,6 +2955,26 @@
       "duration_ms": 373664,
       "name": "Good Morning - Kaytronik Remix",
       "url": "https://open.spotify.com/track/5XFwHSECR0Iy4bhdT0hSvP"
+    },
+    {
+      "added_at": "2024-01-31 14:58:27",
+      "album": {
+        "name": "Think Twice (Remixes)",
+        "url": "https://open.spotify.com/album/61K70Q4gJ3wUzEMQDYV2aN"
+      },
+      "artists": [
+        {
+          "name": "The Detroit Experiment",
+          "url": "https://open.spotify.com/artist/54g168aY2BbLhQ0g6SpoTa"
+        },
+        {
+          "name": "Mark E",
+          "url": "https://open.spotify.com/artist/4fCHedqRf3deyVeK2beyBo"
+        }
+      ],
+      "duration_ms": 578013,
+      "name": "Think Twice - Mark E Remix",
+      "url": "https://open.spotify.com/track/5FqKVL72KUO2vKM6nxcQYd"
     },
     {
       "added_at": "2024-01-31 14:58:27",

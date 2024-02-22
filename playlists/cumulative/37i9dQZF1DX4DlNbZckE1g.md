@@ -4,7 +4,7 @@
 
 > Lose yourself in the summer daze...
 
-154 songs - 8 hr 36 min
+155 songs - 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,8 @@
 | [Rose Pink Cadillac](https://open.spotify.com/track/3YC7FYhduZbYObLRCdhANa) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Rose Pink Cadillac](https://open.spotify.com/album/0JUuId9ZVeNiCk9KGtAUuv) | 4:21 | 2022-02-10 | 2023-11-05 |
 | [Rose Pink Cadillac](https://open.spotify.com/track/5J59tqY0Ad4r27tJJajzyB) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Rose Pink Cadillac](https://open.spotify.com/album/2VaOn32haUapQOYnerK32W) | 4:21 | 2022-02-10 |  |
 | [Safety](https://open.spotify.com/track/2712VhU2lg1zVicy19XYax) | [Becca Hatch](https://open.spotify.com/artist/1ypgMpyZkcMwXMkWuNFwyg) | [Safety](https://open.spotify.com/album/5rw8OZBGecZW0MJCUAORct) | 3:57 | 2022-02-10 |  |
-| [Say Nothing \(feat\. MAY\-A\)](https://open.spotify.com/track/424Uwmm1kNW07Ty1nOhSpl) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Say Nothing \(feat\. MAY\-A\)](https://open.spotify.com/album/3QMl37rC1ye7PKRFH7Bgz9) | 3:52 | 2022-02-10 |  |
+| [Say Nothing \(feat\. MAY\-A\)](https://open.spotify.com/track/424Uwmm1kNW07Ty1nOhSpl) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Say Nothing \(feat\. MAY\-A\)](https://open.spotify.com/album/3QMl37rC1ye7PKRFH7Bgz9) | 3:52 | 2022-02-10 | 2024-02-22 |
+| [Say Nothing \(feat\. MAY\-A\)](https://open.spotify.com/track/4uBgAIrCRf8ed02XbNKdBQ) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Palaces](https://open.spotify.com/album/6SZtno2XqSmfr5MKsNeXmC) | 3:52 | 2022-02-10 |  |
 | [Scotty \(Beam Me Up\)](https://open.spotify.com/track/132OLZW2HRIlUonFBLPS2v) | [CLOE TERARE](https://open.spotify.com/artist/7FndscX6qPcyhuUgWlBHXf) | [Scotty \(Beam Me Up\)](https://open.spotify.com/album/1t9SMFjalETfsLq4zQGFtP) | 3:42 | 2022-02-10 |  |
 | [Scream](https://open.spotify.com/track/4oJKge29FR8zhP548tDJIl) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU), [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Scream](https://open.spotify.com/album/7qyZ8ANsKsNXILKM442NpH) | 3:32 | 2022-02-10 |  |
 | [Scream \(feat\. UPSAHL\)](https://open.spotify.com/track/40K9YDjCX6OwuKYZxnI0cM) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU), [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Scream \(feat\. UPSAHL\)](https://open.spotify.com/album/7LyXJu1AEJY8rD56mp8AUw) | 3:32 | 2022-02-10 | 2023-12-11 |

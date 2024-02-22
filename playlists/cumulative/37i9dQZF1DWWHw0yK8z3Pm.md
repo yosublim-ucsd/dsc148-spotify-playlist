@@ -4,7 +4,7 @@
 
 > Fearless sounds at the crossroads of country and folk\. Cover: Allison Russell
 
-408 songs - 1 day 1 hr 7 min
+409 songs - 1 day 1 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [68 \- Live](https://open.spotify.com/track/40TGxZwQQG6cDHelPqiQSp) | [Nolan Taylor](https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo) | [Live at Bo Bash 2021](https://open.spotify.com/album/58QZnkI7wZjq1OhHyBoo0M) | 3:28 | 2023-03-24 | 2023-09-14 |
 | [A Different Kind of Light](https://open.spotify.com/track/3u6wgdJSBtdusakLXnlFlE) | [JJ Shiplett](https://open.spotify.com/artist/0XgzaFjKPFJT7VziwGD6o5) | [A Different Kind of Light](https://open.spotify.com/album/3qX9FYZfQZNRr01F8P6AES) | 4:23 | 2022-08-26 | 2023-04-22 |
 | [A Heart of Gold Is Hard to Find](https://open.spotify.com/track/5E6pYKegSu23icZLcIRCok) | [Benjamin Tod](https://open.spotify.com/artist/30hVqCpEQ8gBRdNvgWMr20) | [A Heart of Gold Is Hard to Find](https://open.spotify.com/album/6r7LEqLEJtrKiBkYKgBegM) | 2:20 | 2023-04-21 | 2024-02-18 |
+| [A Heart Of Gold Is Hard To Find](https://open.spotify.com/track/5yFs9fL1eIVT034HV8282J) | [Benjamin Tod](https://open.spotify.com/artist/30hVqCpEQ8gBRdNvgWMr20) | [A Heart of Gold Is Hard to Find](https://open.spotify.com/album/06JtBYFdMrc26oPswxRFQY) | 2:20 | 2024-02-16 |  |
 | [About Your Love](https://open.spotify.com/track/3EOCRq342rJjzkvGicSyvT) | [Slow Leaves](https://open.spotify.com/artist/1CNY3GA9jHEuZeQEOHx0r8) | [About Your Love](https://open.spotify.com/album/16Cjat1XXsgM8z2CG6NEYZ) | 2:33 | 2022-05-13 | 2022-06-18 |
 | [Abraham](https://open.spotify.com/track/7qfC3mu9cBBFegTKsNAyt8) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6) | [Abraham](https://open.spotify.com/album/0TNECEpqFQ1xd62vJbLsdF) | 4:10 | 2023-08-18 |  |
 | [Acre of Land](https://open.spotify.com/track/13IhhvCRSMREyJyAsLtDM2) | [Jeremie Albino](https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY) | [Past Dawn](https://open.spotify.com/album/61qIRfEjwnm1g80saLhf7T) | 3:59 | 2022-05-13 | 2023-06-20 |
@@ -144,7 +145,7 @@
 | [Felled](https://open.spotify.com/track/4DAQr8fZceW6ia4M1noVvU) | [Hollow Twin](https://open.spotify.com/artist/1K7OgXdlCvZ0Ype0vP54v2) | [Soft Hearts](https://open.spotify.com/album/2yHVgEiQl2UqwtdNwSda47) | 3:21 | 2022-05-13 | 2022-06-18 |
 | [Fighting Like Hell to Be Free](https://open.spotify.com/track/6Mg4YqzbhRu0HeoWFSrCNQ) | [Lost Dog Street Band](https://open.spotify.com/artist/6tkrcmVfWoHC4WOhE7IDyq) | [Glory](https://open.spotify.com/album/0flu8soCpwi7nj3U21kizB) | 3:04 | 2023-04-21 | 2024-02-18 |
 | [Find Your People](https://open.spotify.com/track/6GuyIXoGIaTw1Pg6Ug9enJ) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Find Your People](https://open.spotify.com/album/1a2RJNW9AkEtgK4Pt3hUlY) | 3:14 | 2023-03-24 |  |
-| [First Light](https://open.spotify.com/track/7MwtFy3hEW9ru5lF2vNHOL) | [Dom Louis](https://open.spotify.com/artist/13vGPMHjEc5xzTS1utb4Ph) | [Dom Louis](https://open.spotify.com/album/0gxSPjAI7bRL1qhMzQyQT6) | 2:55 | 2023-04-14 |  |
+| [First Light](https://open.spotify.com/track/7MwtFy3hEW9ru5lF2vNHOL) | [Dom Louis](https://open.spotify.com/artist/13vGPMHjEc5xzTS1utb4Ph) | [Dom Louis](https://open.spotify.com/album/0gxSPjAI7bRL1qhMzQyQT6) | 2:55 | 2023-04-14 | 2024-02-22 |
 | [Flowers On My Bedside](https://open.spotify.com/track/5ihEkOIEpylssy0dur6U6w) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Flowers On My Bedside](https://open.spotify.com/album/6GGxMlTRIwQOJV9TAooh0U) | 4:49 | 2023-03-17 | 2023-04-22 |
 | [Folk Song](https://open.spotify.com/track/0qCpY6SuVVY8vvIhflj93B) | [Logan Staats](https://open.spotify.com/artist/2vXJfRfKqdwDvqKL5tvJ7P) | [A Light in the Attic](https://open.spotify.com/album/5YivX6MADAUSfCEdDQpVk6) | 4:12 | 2023-03-24 | 2023-08-12 |
 | [From Austin](https://open.spotify.com/track/3X0V4uEujns3TlpoDa2TvP) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [From Austin](https://open.spotify.com/album/2URKspvbbsk7oo4ISroxzG) | 3:27 | 2022-05-13 | 2022-08-27 |

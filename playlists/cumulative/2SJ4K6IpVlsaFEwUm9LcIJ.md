@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: jan\-feb 2024 \(previous playlists archived on my profile\) \(image credit: @afffirmations on IG\)
 
-52 songs - 2 hr 42 min
+54 songs - 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,9 +18,11 @@
 | [Constants Are Changing](https://open.spotify.com/track/5ivVLMrixj6Qtw9HgX8EuD) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU) | 1:42 | 2024-01-08 |  |
 | [Convenient Parking](https://open.spotify.com/track/7ow8R2QCGeAr3JiRbSDzWs) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [The Lonesome Crowded West](https://open.spotify.com/album/5mvHTVy1iUIkAflIufoOpj) | 4:08 | 2024-01-05 |  |
 | [Corrections](https://open.spotify.com/track/6FWAfVMxU51ftt8lmtm2Ej) | [Kaikobad](https://open.spotify.com/artist/5lnQetmw5xW1Y1FVKA07Az) | [Corrections](https://open.spotify.com/album/4tc0n2pKK44heQTOzXIfvZ) | 3:39 | 2024-01-05 |  |
+| [Dream Alone](https://open.spotify.com/track/53ApaDXhRYAfB9St8Uqg2n) | [Artie Garr](https://open.spotify.com/artist/2qAv2padGLkUEaVP7SoWwv) | [Dream Alone / Beat Love](https://open.spotify.com/album/4rXWdsIYGhGtqYJpg3xA1b) | 2:22 | 2024-02-21 |  |
 | [Dream police](https://open.spotify.com/track/2fLBrwqNZ2oCZBbSPEX1G3) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Dream police](https://open.spotify.com/album/21IkWTFIWNfa1SCCkk24gw) | 2:49 | 2024-01-19 |  |
 | [Duffy's](https://open.spotify.com/track/0am577lRtOs3ur575VvdmI) | [deathcrash](https://open.spotify.com/artist/7m7gr3M1p4S92xuwXvorEH) | [Less](https://open.spotify.com/album/752HJRCJkpWgUt4arksHZh) | 3:39 | 2024-01-05 |  |
 | [Echo Tricks Me](https://open.spotify.com/track/5FYdwJ6ZFmB8o5LTdeyiNR) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [PHASOR](https://open.spotify.com/album/0iIfsqcMuRwzmseYvSZw9S) | 4:09 | 2024-02-09 |  |
+| [Evening Mirror \- From the Original Score of The Sweet East](https://open.spotify.com/track/7hy0XnO9PBwcsZNP4H5sX4) | [Paul Grimstad](https://open.spotify.com/artist/2sI4HMXuvwKYhP1gmqr6Jv), [Talia Ryder](https://open.spotify.com/artist/1gfXCBma9K651B5zUc2Btl) | [Evening Mirror \(From the Original Score of The Sweet East\)](https://open.spotify.com/album/0uailJ2SWjeKlOEDHcNoGB) | 3:11 | 2024-02-21 |  |
 | [Falling Backwards](https://open.spotify.com/track/3DYTT6HXBesNRtfFYAYVTY) | [Brittle Stars](https://open.spotify.com/artist/6uZBMEZeMcDuBoamJ7wLf5) | [Garage Sale EP + Remixes](https://open.spotify.com/album/1pcaVlKBjlBWSUqfcELSzO) | 1:40 | 2024-01-31 |  |
 | [Fishbrain](https://open.spotify.com/track/0xEHXAoanem0YrAZ2HMFRY) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [Fishbrain](https://open.spotify.com/album/0ynJtdryiHqFKeHHSCRjnc) | 4:37 | 2024-02-09 |  |
 | [Forever](https://open.spotify.com/track/64QEDKqiHt6bSU6zHNwKsv) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Forever](https://open.spotify.com/album/3PETlpfp2dwPJlESwbpjnt) | 3:28 | 2024-01-30 |  |

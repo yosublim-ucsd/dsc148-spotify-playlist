@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Don Diablo x Mearsy x RBZ
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,855 likes - 26 songs - 1 hr 12 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,853 likes - 26 songs - 1 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

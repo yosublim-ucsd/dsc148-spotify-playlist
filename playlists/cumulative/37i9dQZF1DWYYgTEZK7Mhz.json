@@ -301,6 +301,24 @@
     },
     {
       "album": {
+        "name": "Rita Pavone (Gli Indimenticabili)",
+        "url": "https://open.spotify.com/album/6yHABRmP5ITAONhmzIJ2vt"
+      },
+      "artists": [
+        {
+          "name": "Rita Pavone",
+          "url": "https://open.spotify.com/artist/3xc8CD41vwsoBNkGXL3pS7"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137573,
+      "name": "Il ballo del mattone",
+      "url": "https://open.spotify.com/track/3E41PlrWGcfROQIH5scjXd"
+    },
+    {
+      "album": {
         "name": "Rita Pavone",
         "url": "https://open.spotify.com/album/1c5unYhvdg4dPgJQpsCTum"
       },
@@ -312,7 +330,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 137573,
       "name": "Il Ballo Del Mattone",
       "url": "https://open.spotify.com/track/7HsCbVk1DlfgBqxk7yX8ym"

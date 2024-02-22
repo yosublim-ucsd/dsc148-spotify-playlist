@@ -1,5 +1,5 @@
 {
-  "2024-02-21": 1333,
+  "2024-02-22": 1335,
   "date_first_scraped": "2024-01-30",
   "description": "Your daily update of the most viral tracks right now - Belarus.",
   "name": "Viral 50 - Belarus",
@@ -82,6 +82,24 @@
     },
     {
       "album": {
+        "name": "bleach",
+        "url": "https://open.spotify.com/album/7y6UhMVQmJhsmug2tUnmHf"
+      },
+      "artists": [
+        {
+          "name": "Vandalism",
+          "url": "https://open.spotify.com/artist/0a5IWX9GElOmd65lKSzBe0"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "bleach",
+      "url": "https://open.spotify.com/track/2aRjdfibMVQyl5iw9epBGt"
+    },
+    {
+      "album": {
         "name": "Bling-Bang-Bang-Born",
         "url": "https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6"
       },
@@ -129,7 +147,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 126481,
       "name": "CLEARED - Remix",
       "url": "https://open.spotify.com/track/54L7uacUGRkvoLokUlNWfH"
@@ -241,7 +259,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 104423,
       "name": "ee nado x)",
       "url": "https://open.spotify.com/track/10bkbTXJZpOP5r9ZNeRwDw"
@@ -605,7 +623,7 @@
       ],
       "date_added": "2024-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 159714,
       "name": "Insane",
       "url": "https://open.spotify.com/track/5flerg6aEao2VayZezVlgu"
@@ -652,6 +670,24 @@
     },
     {
       "album": {
+        "name": "Killin' It",
+        "url": "https://open.spotify.com/album/7FbyxnCCfB4t8N8qwHrHi6"
+      },
+      "artists": [
+        {
+          "name": "P1Harmony",
+          "url": "https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176133,
+      "name": "Killin' It",
+      "url": "https://open.spotify.com/track/2E7qG81LXdZEfobhcrVm06"
+    },
+    {
+      "album": {
         "name": "krushed!",
         "url": "https://open.spotify.com/album/7qyBlBu0vNweg8G7NfmZdo"
       },
@@ -689,7 +725,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 140106,
       "name": "Let's Go",
       "url": "https://open.spotify.com/track/5GCU2LJWPzoP8Q6nexs61z"
@@ -943,7 +979,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 128182,
       "name": "MOVE YO BODY",
       "url": "https://open.spotify.com/track/1FKqhy26Yyu6jeCgbVJraj"
@@ -1015,7 +1051,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 228093,
       "name": "My Love \u0422\u0430\u043d\u044e\u0445\u0430",
       "url": "https://open.spotify.com/track/4pFopPJRrvXhdXmvSlsJ5A"
@@ -1164,6 +1200,32 @@
     },
     {
       "album": {
+        "name": "Hazbin Hotel (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2EOqRNsJiNb7IFLktJBZpq"
+      },
+      "artists": [
+        {
+          "name": "Andrew Underberg",
+          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
+        },
+        {
+          "name": "Sam Haft",
+          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
+        },
+        {
+          "name": "Daphne Rubin-Vega",
+          "url": "https://open.spotify.com/artist/0WJ95VwySC8v8HR504J5vR"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90305,
+      "name": "Out For Love",
+      "url": "https://open.spotify.com/track/3CAgZdCErAPdUBwFmaRyGA"
+    },
+    {
+      "album": {
         "name": "Perfect (Exceeder)",
         "url": "https://open.spotify.com/album/2KvtNjXWp2eq4oSUvf882U"
       },
@@ -1223,7 +1285,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 177230,
       "name": "PROTECTION CHARM",
       "url": "https://open.spotify.com/track/42zD05iksMrXWgagZvW6NA"
@@ -1521,7 +1583,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 112423,
       "name": "TryToFriend",
       "url": "https://open.spotify.com/track/7vD6fJg66dEzbYXVvEyQCh"
@@ -1605,7 +1667,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 276986,
       "name": "VULTURES",
       "url": "https://open.spotify.com/track/3SIRBp4RRQ2AO5H4NO7xfq"
@@ -1868,6 +1930,36 @@
     },
     {
       "album": {
+        "name": "Atomic Heart, Vol.4 (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/3NTst9GnO2cNWEAI8d7M3Q"
+      },
+      "artists": [
+        {
+          "name": "\u0411\u0440\u0430\u0442\u0441\u0442\u0432\u043e \u0410\u0442\u043e\u043c\u0430",
+          "url": "https://open.spotify.com/artist/0x8qVg3gMXb32iv4N5aPoH"
+        },
+        {
+          "name": "BassnPanda",
+          "url": "https://open.spotify.com/artist/5cAzIyJzopGLbc1hSQwTAB"
+        },
+        {
+          "name": "\u041a\u0432\u0430\u0448\u0435\u043d\u0430\u044f",
+          "url": "https://open.spotify.com/artist/63xCQmfD4SELvgkR4pWQl7"
+        },
+        {
+          "name": "Atomic Heart",
+          "url": "https://open.spotify.com/artist/1VhpqaYeyotfoFFdHZhrHP"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197368,
+      "name": "Zvenit Yanvarskaya Vyuga",
+      "url": "https://open.spotify.com/track/5K2aUcoGbQrsdb7T0Rf1C6"
+    },
+    {
+      "album": {
         "name": "PHLORA",
         "url": "https://open.spotify.com/album/5hYqMXq8qMf6FKPFGxl6Sm"
       },
@@ -1909,6 +2001,24 @@
       "duration_ms": 259500,
       "name": "\u0411\u043e\u043b\u044c\u0448\u0435 \u043d\u0438\u043a\u043e\u043c\u0443 \u043c\u0435\u043d\u044f \u043d\u0435 \u043f\u0440\u043e\u0449\u0430\u0439",
       "url": "https://open.spotify.com/track/1z5ZzNVikflBLtoaHC6nNV"
+    },
+    {
+      "album": {
+        "name": "\u0412\u0438\u043d\u043e\u0432\u0430\u0442\u0430 \u0441\u0430\u043c\u0430..",
+        "url": "https://open.spotify.com/album/0UaZNuLs8FmmSitNOBUtAb"
+      },
+      "artists": [
+        {
+          "name": "\u041f\u043b\u0430\u0442\u0438\u043d\u0430",
+          "url": "https://open.spotify.com/artist/4TzGOY9RpErzedN02w8Boh"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162264,
+      "name": "\u0412\u0438\u043d\u043e\u0432\u0430\u0442\u0430 \u0441\u0430\u043c\u0430..",
+      "url": "https://open.spotify.com/track/2SEke4aQ4dl7wqvhurhhQp"
     },
     {
       "album": {
@@ -2006,6 +2116,24 @@
     },
     {
       "album": {
+        "name": "\u0437\u0430\u043f\u0440\u0435\u0442\u0438\u0442\u044c",
+        "url": "https://open.spotify.com/album/2KsakqU4JrFItqZbRP1UuR"
+      },
+      "artists": [
+        {
+          "name": "SLAVA MARLOW",
+          "url": "https://open.spotify.com/artist/55jryyk7RhvMbrvoF0ndBh"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173625,
+      "name": "\u0437\u0430\u043f\u0440\u0435\u0442\u0438\u0442\u044c",
+      "url": "https://open.spotify.com/track/5VMcfQhuB2irnbuSDlaxpS"
+    },
+    {
+      "album": {
         "name": "\u042f \u043b\u044e\u0431\u043b\u044e \u0412\u0430\u0441 \u0432\u0441\u0435\u0445 - the best",
         "url": "https://open.spotify.com/album/04ivlPz1yQBQzC1fsmtbk1"
       },
@@ -2021,6 +2149,24 @@
       "duration_ms": 223386,
       "name": "\u0417\u0438\u043c\u0430",
       "url": "https://open.spotify.com/track/2OOCmfWdZxELGk5ilKb5al"
+    },
+    {
+      "album": {
+        "name": "\u041a\u0430\u0432\u0430\u0431\u0430\u043d\u0433\u0430",
+        "url": "https://open.spotify.com/album/5EQFGtskdDq7EIlB2Ix5cL"
+      },
+      "artists": [
+        {
+          "name": "quasha",
+          "url": "https://open.spotify.com/artist/6IAk40yL9R5xmYNsMJ2PFt"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65860,
+      "name": "\u041a\u0430\u0432\u0430\u0431\u0430\u043d\u0433\u0430",
+      "url": "https://open.spotify.com/track/0IQECQhJWfIlbSGcbppdmU"
     },
     {
       "album": {
@@ -2304,6 +2450,24 @@
     },
     {
       "album": {
+        "name": "\u043f\u043e\u0433\u0440\u0430\u043d\u0438\u0447\u043d\u0430\u044f \u043b\u0438\u0447\u043d\u043e\u0441\u0442\u044c \u2661",
+        "url": "https://open.spotify.com/album/1mbnvxxtv7Gsz9iVVeql7I"
+      },
+      "artists": [
+        {
+          "name": "vyrval",
+          "url": "https://open.spotify.com/artist/4hJrxZPQydibSnMMq7PpB9"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189131,
+      "name": "\u043f\u043e\u0433\u0440\u0430\u043d\u0438\u0447\u043d\u0430\u044f \u043b\u0438\u0447\u043d\u043e\u0441\u0442\u044c \u2661",
+      "url": "https://open.spotify.com/track/1stbYttwZb0Hsj4JJrru1z"
+    },
+    {
+      "album": {
         "name": "\u041f\u043e\u0435\u0437\u0434\u0430",
         "url": "https://open.spotify.com/album/5RjCEj6KIpdgEAdGokQuLU"
       },
@@ -2355,7 +2519,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 116023,
       "name": "\u041f\u0440\u043e\u043a\u043b\u044f\u0442\u0438\u0435 \u0444\u0430\u0440\u0430\u043e\u043d\u0430",
       "url": "https://open.spotify.com/track/4G1zemyvoqSmXryjn6ZZJg"
@@ -2442,6 +2606,24 @@
     },
     {
       "album": {
+        "name": "\u0412 \u0440\u0435\u0436\u0438\u043c\u0435 \u043f\u043e\u043b\u0451\u0442\u0430",
+        "url": "https://open.spotify.com/album/0S5salUtx21hXEhjiqcQXO"
+      },
+      "artists": [
+        {
+          "name": "TARAS",
+          "url": "https://open.spotify.com/artist/352kVcEfNAyzZbUdevybLp"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219862,
+      "name": "\u0422\u0435\u0431\u044f \u043d\u0435\u0436\u043d\u043e \u0433\u0440\u0443\u0431\u043e",
+      "url": "https://open.spotify.com/track/5TyFmKLRSsTjlEewvAvb14"
+    },
+    {
+      "album": {
         "name": "\u0426\u0435\u043b\u0443\u044e",
         "url": "https://open.spotify.com/album/5MMOUwDx6k2gxYw1CifHY7"
       },
@@ -2475,6 +2657,28 @@
       "duration_ms": 120108,
       "name": "\u0447\u0435\u043b\u043e\u0432\u0435\u043a-\u0431\u0435\u043d\u0437\u043e\u043f\u0438\u043b\u0430",
       "url": "https://open.spotify.com/track/4Y8GwOe2pxoHMVG6KPMFIF"
+    },
+    {
+      "album": {
+        "name": "\u0427\u0421\u0412",
+        "url": "https://open.spotify.com/album/7thnTMZ6YHfUgaARJIl0eG"
+      },
+      "artists": [
+        {
+          "name": "Lida",
+          "url": "https://open.spotify.com/artist/0ChMIwzbYxHbebgoPeETfV"
+        },
+        {
+          "name": "\u0421\u0415\u0420\u0415\u0413\u0410 \u041f\u0418\u0420\u0410\u0422",
+          "url": "https://open.spotify.com/artist/5IS4dQ9lDW01IY1buR7bW7"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200100,
+      "name": "\u0427\u0421\u0412",
+      "url": "https://open.spotify.com/track/05wSx129HwVCEpXpjAXn6X"
     },
     {
       "album": {

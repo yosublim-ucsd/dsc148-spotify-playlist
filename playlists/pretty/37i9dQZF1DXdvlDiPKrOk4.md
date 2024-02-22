@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvlDiPKrOk4.md) - [plain]
 
 > Celebrate the legend Lata Mangeshkar with her evergreen songs \(1929 \- ∞\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,917 likes - 49 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,956 likes - 49 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvlDiPKrOk4.md) - [plain]
 | 38 | [Bheegi Bheegi Raaton Mein \(From "Ajnabee"\)](https://open.spotify.com/track/1MOguHUU3ebLM4C5u20duQ) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Diamonds Forever \- Lata Mangeshkar](https://open.spotify.com/album/7cmbUR0oPLKzrP6j6303Ad) | 3:53 |
 | 39 | [Dil Hoom Hoom Kare \- Female Version](https://open.spotify.com/track/5A3tZCjNhmqtmNUNbjOZeL) | [Bhupen Hazarika](https://open.spotify.com/artist/31fDaUsley7Ms790N4CcSv), [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Rudaali \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4K4inDaW2TgqkkOOdXTorN) | 3:55 |
 | 40 | [Mere Khwabon Mein \(From "Dilwale Dulhania Le Jayenge"\)](https://open.spotify.com/track/4gYBJIMEnBB0Ylz7VSAMNt) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Diamonds Forever \- Lata Mangeshkar](https://open.spotify.com/album/7cmbUR0oPLKzrP6j6303Ad) | 4:16 |
-| 41 | [Dil Bechen Hai](https://open.spotify.com/track/1Etr6WQqv9eXG3CCK8HfAs) | [Anupma Yadav](https://open.spotify.com/artist/1npM7bcqlGK4UpD5LDLnEm) | [Dil Bechen Hai](https://open.spotify.com/album/6Yd6PIx8yUvcXvFsoqqpnl) | 5:47 |
+| 41 | [Salame Ishq Meri Jaan](https://open.spotify.com/track/2I3tlRJXVDuBDvfVOywwUU) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Muqaddar Ka Sikandar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Uvb08lPZhexcv1mYGe7L5) | 5:50 |
 | 42 | [Aye\-Dil\-E\-Nadan, Pt\. 1](https://open.spotify.com/track/4GPR2blOOTmvo1cW2rTM7J) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Razia Sultan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4DRpPf4p78FiUuQhYuMm5V) | 5:39 |
 | 43 | [Aayega Aanewala](https://open.spotify.com/track/7hQ85VFEXecqg9YuolCCEG) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Remembering Lata Didi](https://open.spotify.com/album/4kwcpIrNEAYXeSycvcqg6v) | 6:52 |
 | 44 | [Solah Baras Ki Bali Umar](https://open.spotify.com/track/2GFgbfvag81n24wKtGihXM) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Anup Jalota](https://open.spotify.com/artist/3kzGeGPP5gd5KAMm6QggHV) | [Ek Duuje Ke Liye \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/64zvuGkf1bauJb97BJaalB) | 6:13 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvlDiPKrOk4.md) - [plain]
 | 48 | [DIL DEEWANA](https://open.spotify.com/track/4qHVuUaejwuIrrvuuMZyiA) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Lata Didi \- Free Hits](https://open.spotify.com/album/3oNP4YgQxI9wzPmBlBkvr8) | 5:55 |
 | 49 | [Luka Chuppi](https://open.spotify.com/track/500H9ENeR5AYbKU1ScK6ME) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Rang De Basanti \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0NKNDn80mhKn4Xi6nHrsqQ) | 6:36 |
 
-Snapshot ID: `MCwzYTA0YmQyNjZlMTg3ZTA1M2Y3ZTAwM2Q3YjZhMDAwZDMxOWVmNjEx`
+Snapshot ID: `MCw3ZDY0MjllZjBmMDI3NTNhZGE5MGExYzI0MWMzOWUxOTQ0NzVlMTM0`

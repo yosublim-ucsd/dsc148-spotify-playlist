@@ -2,17 +2,17 @@ pretty - [cumulative](/playlists/cumulative/1qun7zlfjzP3Qhzh6Qx1Qc.md) - [plain]
 
 ### [Country Smash Hits](https://open.spotify.com/playlist/1qun7zlfjzP3Qhzh6Qx1Qc)
 
-> All your favourite country hits from Miranda Lambert, Luke Combs, Old Dominion, Kane Brown, Tenille Townes and more! Cover: Luke Combs
+> All your favourite country hits from Miranda Lambert, Luke Combs, Old Dominion, Kane Brown, Tenille Townes and more! Cover: Beyoncé
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 34,984 likes - 60 songs - 3 hr 21 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 34,981 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Fast Car](https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 4:25 |
-| 2 | [TEXAS HOLD 'EM](https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx) | 3:55 |
-| 3 | [Bulletproof](https://open.spotify.com/track/6VpH2prT3NGiK5pnpG2L3J) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Bulletproof](https://open.spotify.com/album/3ooWwlDKWfaVMx9kumptgg) | 3:03 |
-| 4 | [Falling for You](https://open.spotify.com/track/4kbaHslboiwyCgHmxRyLTm) | [Tim & The Glory Boys](https://open.spotify.com/artist/2TWquaofWA67mGmfN72csX) | [Tim & The Glory Boys \(Deluxe\)](https://open.spotify.com/album/7L6UgCIxEViu4qDyrnjbwZ) | 2:59 |
-| 5 | [16 CARRIAGES](https://open.spotify.com/track/3Fwebmu4BzPUpDtPZo0qHb) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [16 CARRIAGES](https://open.spotify.com/album/6PeoltoiWQWCyWA0JBHVGN) | 3:53 |
+| 1 | [TEXAS HOLD 'EM](https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx) | 3:55 |
+| 2 | [16 CARRIAGES](https://open.spotify.com/track/3Fwebmu4BzPUpDtPZo0qHb) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [16 CARRIAGES](https://open.spotify.com/album/6PeoltoiWQWCyWA0JBHVGN) | 3:53 |
+| 3 | [Fast Car](https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 4:25 |
+| 4 | [Bulletproof](https://open.spotify.com/track/6VpH2prT3NGiK5pnpG2L3J) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Bulletproof](https://open.spotify.com/album/3ooWwlDKWfaVMx9kumptgg) | 3:03 |
+| 5 | [Falling for You](https://open.spotify.com/track/4kbaHslboiwyCgHmxRyLTm) | [Tim & The Glory Boys](https://open.spotify.com/artist/2TWquaofWA67mGmfN72csX) | [Tim & The Glory Boys \(Deluxe\)](https://open.spotify.com/album/7L6UgCIxEViu4qDyrnjbwZ) | 2:59 |
 | 6 | [Double Down](https://open.spotify.com/track/7LvbLxitSFgQYfrXResa6k) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [Double Down](https://open.spotify.com/album/5l5yGchZei9NrlijF7DHtn) | 2:55 |
 | 7 | [Blood](https://open.spotify.com/track/613kRFZRUuzk1oNFJhLVyh) | [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN) | [Small Town Somethin'](https://open.spotify.com/album/3dn9G5nWuDYTshRFwPIsV7) | 2:44 |
 | 8 | [This Heart](https://open.spotify.com/track/1KtQmheytoTI6kOM8yCowf) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [This Heart](https://open.spotify.com/album/1AEpYbXIt9lp2hRK7Qqk9F) | 3:06 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/1qun7zlfjzP3Qhzh6Qx1Qc.md) - [plain]
 | 59 | [Growin' Up and Gettin' Old](https://open.spotify.com/track/6DdPacpAdYkxV8MCzsjaXu) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Growin' Up and Gettin' Old](https://open.spotify.com/album/2tyF3XymQtvSySp5osmr6d) | 3:53 |
 | 60 | [The Last Time](https://open.spotify.com/track/2JiEzw012NnQ3PoW6VWM1P) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [The Last Time](https://open.spotify.com/album/0jOEXC4gDm1Fh40eOFHVYo) | 3:30 |
 
-Snapshot ID: `MTc2NCw2YTEwOWU1Y2QxZTBlZWYxZDQ2MTRhODFkMGZiYWIxNjYxYWMzZWI2`
+Snapshot ID: `MTc2Nyw0OWNkZDA2ZGI2MTEzMmNjMTc2MmJlOTM5YzAxMmJmOWYxY2Y2ZjAy`

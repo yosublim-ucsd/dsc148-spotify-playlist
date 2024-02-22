@@ -4,7 +4,7 @@
 
 > 恋してるあなたに寄り添う、素敵なラブソングを集めました。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-288 songs - 18 hr 53 min
+289 songs - 18 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,8 @@
 | [Koi no Iro](https://open.spotify.com/track/46O3D2H8HPLiSUHNokwsRa) | [Ai Higuchi](https://open.spotify.com/artist/0KZzmjrOQumJVVnoGRbXCu) | [Koi no Iro](https://open.spotify.com/album/0oaOQZS5vKKA9P0jr8LmAV) | 4:42 | 2023-07-25 | 2023-08-05 |
 | [Koi suru wakusei "Anata"](https://open.spotify.com/track/5yA1bHk3IcTLnBBl2JYX6u) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [Koi suru wakusei "Anata"](https://open.spotify.com/album/5TNZnI8zAugK1q0hdhjSvx) | 3:28 | 2024-02-13 |  |
 | [KOINODHISUMAXTUCHIN](https://open.spotify.com/track/7CvYzuttwz9Yn7Z5nBUzjl) | [MOSHIMO](https://open.spotify.com/artist/2wfyx0p7LKFYZh2SaM9pXy) | [KOINODHISUMAXTUCHIN](https://open.spotify.com/album/5B016jj6OpHB6GSSSXIAaU) | 2:48 | 2023-05-30 | 2023-06-14 |
-| [LAD浪漫's](https://open.spotify.com/track/3XKrQIVTnr5IxzJi1My4Wy) | [LET ME KNOW](https://open.spotify.com/artist/1B4fAs5bODEsdgj2MGmJu3) | [LAD浪漫's](https://open.spotify.com/album/39bDkft5Qk2H6EQQwJZQjG) | 3:59 | 2024-02-20 |  |
+| [LAD Romance](https://open.spotify.com/track/6HZOiTBJ1Z7gJyaEdcg7vR) | [LET ME KNOW](https://open.spotify.com/artist/1B4fAs5bODEsdgj2MGmJu3) | [LAD Romance](https://open.spotify.com/album/0qgzwzKkqzKSmhm6SBfpce) | 3:59 | 2024-02-20 |  |
+| [LAD浪漫's](https://open.spotify.com/track/3XKrQIVTnr5IxzJi1My4Wy) | [LET ME KNOW](https://open.spotify.com/artist/1B4fAs5bODEsdgj2MGmJu3) | [LAD浪漫's](https://open.spotify.com/album/39bDkft5Qk2H6EQQwJZQjG) | 3:59 | 2024-02-20 | 2024-02-22 |
 | [Love \(feat\. Skaai\)](https://open.spotify.com/track/33WmukupZpPsnobClDyZzs) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [Love \(feat\. Skaai\)](https://open.spotify.com/album/3CTierTEtJQyHX3s6XlEUd) | 4:18 | 2023-02-09 | 2023-04-04 |
 | [Love Letter](https://open.spotify.com/track/2FIt86U56hUH4cb4xuGKuJ) | [AYANE](https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM) | [Love Letter](https://open.spotify.com/album/4NA1K3pMzd3RaJOFJXYl4m) | 3:22 | 2023-04-05 | 2023-04-06 |
 | [Love Song](https://open.spotify.com/track/0nokJDMZpEnGbC09v5Fn6T) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [Love Song](https://open.spotify.com/album/2mR7pRFpeDSEWbd0jj05hm) | 4:16 | 2023-09-26 | 2023-12-02 |

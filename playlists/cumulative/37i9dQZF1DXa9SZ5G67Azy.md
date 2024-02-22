@@ -4,7 +4,7 @@
 
 > un poquito de esto, un poquito de lo otro.
 
-75 songs - 4 hr 27 min
+76 songs - 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Chorrito Pa las Animas](https://open.spotify.com/track/4LGcebX3jcImrHD1RNF4Za) | [Delirio Mix](https://open.spotify.com/artist/7fiUtSeEYMX5lZZkKoiX77), [FRVNKK](https://open.spotify.com/artist/73ZUVJpRyRACS9qUSGVpWC) | [Chorrito Pa las Animas](https://open.spotify.com/album/3r0r0dVxvaogAMomujhPEJ) | 2:00 | 2023-11-29 |  |
 | [Ciudad Mágica \(Techengue\) \- Remix](https://open.spotify.com/track/7k3qyk6QbfxZpsu9WHbvpC) | [Nicolas Maulen](https://open.spotify.com/artist/533fdqxB2K5xhGKWarfXHO), [Nico Morini](https://open.spotify.com/artist/5O9Vy2Uc5xGykqvy6xKn9s) | [Ciudad Mágica \(Techengue Remix\)](https://open.spotify.com/album/03sk7spbSLeA4N3OtuwOE1) | 2:50 | 2023-11-29 |  |
 | [Classy 101 \- tech house](https://open.spotify.com/track/4AcLJkZaXtuni8UwR06Om6) | [Berna Rozenblum](https://open.spotify.com/artist/20Dmnhv5NP2oyP9ZwEWgIm) | [Classy 101 \(tech house\)](https://open.spotify.com/album/7f7l9MB46siXxNN5VTb6E8) | 2:34 | 2023-11-29 |  |
-| [Coco Chanel \(Techengue\) \- Remix](https://open.spotify.com/track/7s3qjn4yDCIeWZtK4KBvJF) | [Nicolas Maulen](https://open.spotify.com/artist/533fdqxB2K5xhGKWarfXHO) | [Techengue \#2 \(Extended Remix\)](https://open.spotify.com/album/2CDsuqvqj40ZuKZHuSiUb8) | 2:47 | 2023-11-29 |  |
+| [Coco Chanel \(Techengue\) \- Remix](https://open.spotify.com/track/1S4QnIVm7E0iBUmMuxj98r) | [Nicolas Maulen](https://open.spotify.com/artist/533fdqxB2K5xhGKWarfXHO) | [Coco Chanel \(Techengue Remix\)](https://open.spotify.com/album/578KvOMDl9D4EFDH9ZGg9Y) | 2:47 | 2024-02-05 |  |
+| [Coco Chanel \(Techengue\) \- Remix](https://open.spotify.com/track/7s3qjn4yDCIeWZtK4KBvJF) | [Nicolas Maulen](https://open.spotify.com/artist/533fdqxB2K5xhGKWarfXHO) | [Techengue \#2 \(Extended Remix\)](https://open.spotify.com/album/2CDsuqvqj40ZuKZHuSiUb8) | 2:47 | 2023-11-29 | 2024-02-22 |
 | [Columbia \- House Remix](https://open.spotify.com/track/2VjHiLZGii5ReGMNtF6ciS) | [ThomyDomé](https://open.spotify.com/artist/5qqUYMzxKlvDnSgAMIePLd) | [Columbia \(House Remix\)](https://open.spotify.com/album/77XixTCmjJIfmKctsX6Pef) | 2:16 | 2023-11-29 |  |
 | [Contra Mi \- Pyura Remix](https://open.spotify.com/track/3IHOMcTOGQqUxg81KgjYYf) | [Pyura](https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi) | [Contra Mi \(Pyura Remix\)](https://open.spotify.com/album/62LuC2mQWWa8dxCcwHYrAB) | 3:26 | 2023-11-29 |  |
 | [Corazon Vacio \(Tech House\) \- Remix](https://open.spotify.com/track/3XyDvbE8ejy8Epih8Au2s3) | [Chiky Dee Jay](https://open.spotify.com/artist/4z5uBsnmFPLFsGa5hQvLGO) | [Corazon Vacio \(Tech House Remix\)](https://open.spotify.com/album/1goTw9wZINVSMKrl8sjJaC) | 2:50 | 2023-11-29 |  |

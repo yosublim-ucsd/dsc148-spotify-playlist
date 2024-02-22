@@ -1,12 +1,12 @@
 {
   "description": "longe dos perigos noturnos",
-  "num_followers": 111560,
+  "num_followers": 111644,
   "original_name": "dengo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYjNlZDBjZjQ3NzVkMmE1MTg4MWM0NDEwNzYxZGY4MTExYTY5MTY5",
+  "snapshot_id": "MCw0Njk3NjNkOTBmYTVkNjVhYTkxMGUwMTIwYTVkNWM1MDZiODI1NTQ0",
   "tracks": [
     {
       "added_at": "2024-02-16 03:01:00",
@@ -147,22 +147,6 @@
     {
       "added_at": "2024-02-16 03:01:00",
       "album": {
-        "name": "Voodoo",
-        "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 356493,
-      "name": "Send It On",
-      "url": "https://open.spotify.com/track/5LIwaG8Wl9LfExcmiRQm7J"
-    },
-    {
-      "added_at": "2024-02-16 03:01:00",
-      "album": {
         "name": "Waiting In Vain (Spotify Singles)",
         "url": "https://open.spotify.com/album/5zlUBlDmY6dM4XFlZ3SFVs"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 252573,
       "name": "Waiting in Vain - Spotify Singles",
       "url": "https://open.spotify.com/track/5tHipIzrGqcoZ4ovlW1Aip"
+    },
+    {
+      "added_at": "2024-02-16 03:01:00",
+      "album": {
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 356493,
+      "name": "Send It On",
+      "url": "https://open.spotify.com/track/5LIwaG8Wl9LfExcmiRQm7J"
     },
     {
       "added_at": "2024-02-16 03:01:00",
@@ -383,6 +383,22 @@
     {
       "added_at": "2024-02-16 03:01:00",
       "album": {
+        "name": "Thinking Less",
+        "url": "https://open.spotify.com/album/3nlJCjmJXerAEitId6gwFW"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad Harnett",
+          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
+        }
+      ],
+      "duration_ms": 162653,
+      "name": "Thinking Less",
+      "url": "https://open.spotify.com/track/4QDAVHo7gtwrRp3aNpHdZm"
+    },
+    {
+      "added_at": "2024-02-16 03:01:00",
+      "album": {
         "name": "Exit",
         "url": "https://open.spotify.com/album/7go9k6n1fCuixMOOpW3gej"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 162188,
       "name": "Fallin",
       "url": "https://open.spotify.com/track/2SUQ7JvEtKtPwkyKQMsr0q"
-    },
-    {
-      "added_at": "2024-02-16 03:01:00",
-      "album": {
-        "name": "Thinking Less",
-        "url": "https://open.spotify.com/album/3nlJCjmJXerAEitId6gwFW"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad Harnett",
-          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
-        }
-      ],
-      "duration_ms": 162653,
-      "name": "Thinking Less",
-      "url": "https://open.spotify.com/track/4QDAVHo7gtwrRp3aNpHdZm"
     },
     {
       "added_at": "2024-02-16 03:01:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-02-16 03:01:00",
       "album": {
-        "name": "Ocean",
-        "url": "https://open.spotify.com/album/7t8M65IwqNUBrmrElXW8dX"
-      },
-      "artists": [
-        {
-          "name": "Zacari",
-          "url": "https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI"
-        }
-      ],
-      "duration_ms": 214054,
-      "name": "Ocean",
-      "url": "https://open.spotify.com/track/3FjHTALrJ66zzELMcge5vn"
-    },
-    {
-      "added_at": "2024-02-16 03:01:00",
-      "album": {
         "name": "Thought U Knew",
         "url": "https://open.spotify.com/album/21hotFpTsSBEofaYnbecMQ"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 222588,
       "name": "Right Back In It",
       "url": "https://open.spotify.com/track/03y3sE8OXK9PecrdjnX6dB"
+    },
+    {
+      "added_at": "2024-02-16 03:01:00",
+      "album": {
+        "name": "Ocean",
+        "url": "https://open.spotify.com/album/7t8M65IwqNUBrmrElXW8dX"
+      },
+      "artists": [
+        {
+          "name": "Zacari",
+          "url": "https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI"
+        }
+      ],
+      "duration_ms": 214054,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/3FjHTALrJ66zzELMcge5vn"
     },
     {
       "added_at": "2024-02-16 03:01:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-02-16 03:01:00",
       "album": {
-        "name": "Devil In A Dress (RHEAMIX)",
-        "url": "https://open.spotify.com/album/5nYbtOgKv3csvwdXvE8dad"
-      },
-      "artists": [
-        {
-          "name": "Rhea Raj",
-          "url": "https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1"
-        }
-      ],
-      "duration_ms": 117191,
-      "name": "Devil In A Dress - RHEAMIX",
-      "url": "https://open.spotify.com/track/3NUs3ZwYy4GFGNE6wvEG5P"
-    },
-    {
-      "added_at": "2024-02-16 03:01:00",
-      "album": {
         "name": "Live at VEVO",
         "url": "https://open.spotify.com/album/1auqYOyeliYPBgTAhBpQsl"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 158249,
       "name": "dumb luck (Live at VEVO)",
       "url": "https://open.spotify.com/track/0M3zo2dGoxG1hMzOWlJQ8U"
+    },
+    {
+      "added_at": "2024-02-16 03:01:00",
+      "album": {
+        "name": "Devil In A Dress (RHEAMIX)",
+        "url": "https://open.spotify.com/album/5nYbtOgKv3csvwdXvE8dad"
+      },
+      "artists": [
+        {
+          "name": "Rhea Raj",
+          "url": "https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1"
+        }
+      ],
+      "duration_ms": 117191,
+      "name": "Devil In A Dress - RHEAMIX",
+      "url": "https://open.spotify.com/track/3NUs3ZwYy4GFGNE6wvEG5P"
     },
     {
       "added_at": "2024-02-16 03:01:00",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2024-02-16 03:01:00",
       "album": {
-        "name": "Midnight Snacks",
-        "url": "https://open.spotify.com/album/1EEE1VEoFi5y8lqe7NGfHM"
-      },
-      "artists": [
-        {
-          "name": "Kelis",
-          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Midnight Snacks",
-      "url": "https://open.spotify.com/track/7lampoWFogPIJZRxThSOBq"
-    },
-    {
-      "added_at": "2024-02-16 03:01:00",
-      "album": {
         "name": "Milly",
         "url": "https://open.spotify.com/album/0ybPRt9okiivYSRzyyv1Yd"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 183586,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/1OOZ7HK33XptwtvGuKmb5s"
+    },
+    {
+      "added_at": "2024-02-16 03:01:00",
+      "album": {
+        "name": "Midnight Snacks",
+        "url": "https://open.spotify.com/album/1EEE1VEoFi5y8lqe7NGfHM"
+      },
+      "artists": [
+        {
+          "name": "Kelis",
+          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Midnight Snacks",
+      "url": "https://open.spotify.com/track/7lampoWFogPIJZRxThSOBq"
     },
     {
       "added_at": "2024-02-16 03:01:00",
@@ -1675,26 +1675,6 @@
     {
       "added_at": "2024-02-16 03:01:00",
       "album": {
-        "name": "From Lust Till Dawn",
-        "url": "https://open.spotify.com/album/4ZLdzPexpu7tb068zRz503"
-      },
-      "artists": [
-        {
-          "name": "Raheem DeVaughn",
-          "url": "https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL"
-        },
-        {
-          "name": "GeorgiaReign",
-          "url": "https://open.spotify.com/artist/62KLBbnYIKkF2bZeUn3UJI"
-        }
-      ],
-      "duration_ms": 157640,
-      "name": "Wait On Me Pt. 2 / Remix",
-      "url": "https://open.spotify.com/track/4WvBRYAI9k7BS2lk2Q1JsK"
-    },
-    {
-      "added_at": "2024-02-16 03:01:00",
-      "album": {
         "name": "Look At You",
         "url": "https://open.spotify.com/album/2dZvOTKtZXs9v8AzdnO9pZ"
       },
@@ -1715,6 +1695,26 @@
       "duration_ms": 165962,
       "name": "Look At You",
       "url": "https://open.spotify.com/track/2OzMvSU0CuklnI7tsoMUDO"
+    },
+    {
+      "added_at": "2024-02-16 03:01:00",
+      "album": {
+        "name": "From Lust Till Dawn",
+        "url": "https://open.spotify.com/album/4ZLdzPexpu7tb068zRz503"
+      },
+      "artists": [
+        {
+          "name": "Raheem DeVaughn",
+          "url": "https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL"
+        },
+        {
+          "name": "GeorgiaReign",
+          "url": "https://open.spotify.com/artist/62KLBbnYIKkF2bZeUn3UJI"
+        }
+      ],
+      "duration_ms": 157640,
+      "name": "Wait On Me Pt. 2 / Remix",
+      "url": "https://open.spotify.com/track/4WvBRYAI9k7BS2lk2Q1JsK"
     },
     {
       "added_at": "2024-02-16 03:01:00",

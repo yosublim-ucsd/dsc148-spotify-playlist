@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 
 > Music that's hard to define but easy to love\. Cover: Royel Otis
 
-[Spotify](https://open.spotify.com/user/spotify) - 564,381 likes - 80 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 564,387 likes - 80 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 | 79 | [Something To Remember](https://open.spotify.com/track/0768gHRTVgwK7PPxBFe3tL) | [Big Scary](https://open.spotify.com/artist/4mLYW48jy9Pwv6KpT74Evf) | [Wing](https://open.spotify.com/album/3Qc1qeHSkWYfWg9Jt9mxMq) | 4:28 |
 | 80 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 |
 
-Snapshot ID: `MCxjMjY2ODM4NmU1ZmY2MWM1YjdjNzQxMjgyYmE5Y2E2MDM2ZjRiMDcx`
+Snapshot ID: `MCwxZjAxYTQ3NmFkYWMxMjU4ZGQ0ZjBlZDRlMmRkYzgxZjY1ZWEwOTY4`

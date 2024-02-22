@@ -1,5 +1,5 @@
 {
-  "2024-02-21": 68434,
+  "2024-02-22": 68439,
   "date_first_scraped": "2022-05-26",
   "description": "Kick back and relax after a hard day.",
   "name": "Home at Last",
@@ -107,7 +107,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 247077,
       "name": "All Afternoon",
       "url": "https://open.spotify.com/track/2bHH3I9iNj9fGJ65v84SmS"
@@ -3989,7 +3989,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-06",
+      "date_removed": null,
       "duration_ms": 329000,
       "name": "THOUSAND STRINGED INSTRUMENT",
       "url": "https://open.spotify.com/track/5Z7VtnF9lSGqEsv8KOTkC6"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: Death Lens
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,714 likes - 101 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,856 likes - 101 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 100 | [Half Tank](https://open.spotify.com/track/6eeTmM6NgqFKxEyvbN8e5d) | [Wet Nights](https://open.spotify.com/artist/6KfM7n9lgcfBmiz9vrhqF3) | [Half Tank](https://open.spotify.com/album/2cNScKizCqLxWx4REOJ7BF) | 4:06 |
 | 101 | [Plateau](https://open.spotify.com/track/3VBNyssoLrTaLW1NAbibss) | [Hexmaze](https://open.spotify.com/artist/2RaLhh25Ct5KABbL3J332E) | [Plateau](https://open.spotify.com/album/1lVO4AstvS0S7tR1y8t9ko) | 4:42 |
 
-Snapshot ID: `MCw1MjY1N2JmMTY0MWJkYWY0ZTQ0MDUzYTJkOTIzMWJiZjQyYTU2NGJm`
+Snapshot ID: `MCxiNGEyYjQ3MGRiMjY0M2UxZDBmNTg5MzY0MTRmODM1YzkwODk2NDEx`

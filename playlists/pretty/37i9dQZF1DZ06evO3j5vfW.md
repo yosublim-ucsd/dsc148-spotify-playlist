@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3j5vfW.md) - [plain]
 
 > This is Nicky Romero\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,362 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,365 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3j5vfW.md) - [plain]
 | 26 | [Sober](https://open.spotify.com/track/4LSkEJ5P5MV0y3PZqw7guJ) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Sober](https://open.spotify.com/album/4GRth1z0snfAbeLoZXtnpk) | 2:42 |
 | 27 | [To The Floor \(Nicky Romero Edit\)](https://open.spotify.com/track/1HRRS1kg0we00eWCnLeH1m) | [Loud 'N Bright](https://open.spotify.com/artist/2YvMW8mwEJIohdOpAk4JcG), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [To The Floor \(Nicky Romero Edit\)](https://open.spotify.com/album/5UrucNSjRdkjxj7qLBI5Vp) | 2:22 |
 | 28 | [Stay A Little Longer](https://open.spotify.com/track/3r9RtXj216zntRikvgQdkK) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Stay A Little Longer](https://open.spotify.com/album/0auaYrAblTDxnAeU1Ggdav) | 3:31 |
-| 29 | [Forever](https://open.spotify.com/track/5nUyqq07mqo7dt8xd7BfYP) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Nico & Vinz](https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn) | [Forever](https://open.spotify.com/album/2iGZU0LNQmhZ5QbRDmCNZz) | 2:20 |
-| 30 | [Hero \- Nicky Romero Remix](https://open.spotify.com/track/4QDlt4NhI93bs9TI5s1sCc) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Hero \(Nicky Romero Remix\)](https://open.spotify.com/album/1ddufbXwUwO3l2uIB3qKe3) | 3:12 |
+| 29 | [Hero \- Nicky Romero Remix](https://open.spotify.com/track/4QDlt4NhI93bs9TI5s1sCc) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Hero \(Nicky Romero Remix\)](https://open.spotify.com/album/1ddufbXwUwO3l2uIB3qKe3) | 3:12 |
+| 30 | [Forever](https://open.spotify.com/track/5nUyqq07mqo7dt8xd7BfYP) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Nico & Vinz](https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn) | [Forever](https://open.spotify.com/album/2iGZU0LNQmhZ5QbRDmCNZz) | 2:20 |
 | 31 | [Drown \(feat\. Clinton Kane\) \- Nicky Romero Remix](https://open.spotify.com/track/5aRwLXpWjgXmwoJvXoYvCq) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Drown \(feat\. Clinton Kane\) \[Nicky Romero Remix\]](https://open.spotify.com/album/0yyVHA6DKNQSfYMVuvjuza) | 3:07 |
 | 32 | [Love You Forever](https://open.spotify.com/track/2gqzTQEn4g5ly0n5ScdMx0) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Stadiumx](https://open.spotify.com/artist/0DRf6JJDQnRnz0Yp209CmH), [Sam Martin](https://open.spotify.com/artist/66AE89GQTx88zLYhXn1wFK) | [Love You Forever](https://open.spotify.com/album/6HiujSCdsYuCXdd759w2kr) | 3:54 |
 | 33 | [Why Do I Call](https://open.spotify.com/track/7sRjDSJ5Vp3xC669buQVGi) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Why Do I Call](https://open.spotify.com/album/5eNuYTGzaZ36i04rdcz3bN) | 2:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3j5vfW.md) - [plain]
 | 49 | [Destiny](https://open.spotify.com/track/4mAFdxKaADfs3t2K0QCOXv) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Deniz Koyu](https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6), [Alexander Tidebrink](https://open.spotify.com/artist/6kI0ZZ0yjJ3Bf5JjEgUJLC) | [Destiny](https://open.spotify.com/album/0iYk7ujef4AMfDJJYoCfnq) | 4:13 |
 | 50 | [I Hope That It Hurts](https://open.spotify.com/track/7xi3mpdF9tC1SLrbkossDu) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [I Hope That It Hurts](https://open.spotify.com/album/46qNOQ9GrhScSpo6JStrck) | 2:40 |
 
-Snapshot ID: `Mjg0NzQxMzEsMDAwMDAwMDAyMmYyOWMyNjA0NWMxNzA2OGNlOGI1YjYyMTJlODhmNA==`
+Snapshot ID: `Mjg0NzUyOTAsMDAwMDAwMDBmZDU0ZTIyZGI0Y2NlY2NlNzE4ZjZiNTNkYThjNDU5YQ==`

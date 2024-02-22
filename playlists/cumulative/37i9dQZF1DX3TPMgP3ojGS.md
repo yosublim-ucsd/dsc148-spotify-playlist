@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,800 songs - 3 day 8 hr 35 min
+1,801 songs - 3 day 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,7 +181,7 @@
 | [Ballade d'amour](https://open.spotify.com/track/4ibd4ESFpgbPpO1NxhoT3q) | [Antoine Stavelot](https://open.spotify.com/artist/0vGTKzLWBPH48JntTqa3YJ) | [Ballade d'amour](https://open.spotify.com/album/1gdBJYSFRJGXydJNbarSGq) | 2:07 | 2022-05-31 | 2022-06-21 |
 | [Ballade Pour Elly](https://open.spotify.com/track/0p6olbVHkNaijGRG6IDEnK) | [Oscar Sundberg](https://open.spotify.com/artist/15IHLyiNk8DVf00tp661dp) | [Ballade Pour Elly](https://open.spotify.com/album/4S1yWI2jYomspKaEy8tnoZ) | 4:03 | 2023-04-25 | 2023-06-29 |
 | [Ballerina Light](https://open.spotify.com/track/5Eq3qZckwqaLZq2yEsUAvU) | [Ingemar Aberg](https://open.spotify.com/artist/7qA4SXXE0nQFNPN2qLmT4H) | [Ballerina Light](https://open.spotify.com/album/1E1NYgXEpG8vZWzJl7Y3Mh) | 2:41 | 2021-04-21 | 2022-04-16 |
-| [Balloon](https://open.spotify.com/track/6OIKgnO4zehihKR2ba6vlm) | [Chad Hammond](https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL) | [Balloon](https://open.spotify.com/album/5pJAAbu6gtYqxC9fx4Rusa) | 3:17 | 2023-10-10 |  |
+| [Balloon](https://open.spotify.com/track/6OIKgnO4zehihKR2ba6vlm) | [Chad Hammond](https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL) | [Balloon](https://open.spotify.com/album/5pJAAbu6gtYqxC9fx4Rusa) | 3:17 | 2023-10-10 | 2024-02-22 |
 | [Balm \(Scaled Down Version\)](https://open.spotify.com/track/5eIifmrzK2XxqiABsZhYGK) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [Balm](https://open.spotify.com/album/6MLFHwt3qK0OQNEHryutgw) | 2:06 | 2021-05-14 | 2021-05-15 |
 | [Bartram's Garden](https://open.spotify.com/track/0E97LEEOz5rk6wAJr6rNI3) | [Zachary Patel](https://open.spotify.com/artist/5BTQ9QBT1Le61VYLVtRBCB) | [Bartram's Garden](https://open.spotify.com/album/1SRli8CCpxMiaYuPgfR8qa) | 2:23 | 2021-03-27 | 2022-04-22 |
 | [Be, Leave](https://open.spotify.com/track/1NdgOyzoqE6FHIm7tM5ySM) | [Slow Fade Sailors](https://open.spotify.com/artist/14bUWQx1jCureD3Kud1ElD) | [Lovers in No Mind's Land](https://open.spotify.com/album/4r4uDSOluGi5a41Jh8XuZA) | 3:41 | 2021-04-30 | 2021-05-03 |
@@ -198,6 +198,7 @@
 | [Before Dawn](https://open.spotify.com/track/42mnMZ6db1BFIzrW89JpoU) | [Shaunta Coburn](https://open.spotify.com/artist/6Brh18kVDBzXLS2Uu38SuX) | [Before Dawn](https://open.spotify.com/album/4v89u5szEzd1HZbltZ8KPq) | 2:17 | 2022-03-29 | 2022-07-25 |
 | [Before the End](https://open.spotify.com/track/4tyxHnPMfFZcJdZS8R1zcT) | [Max Rossiter](https://open.spotify.com/artist/1QBHSnspvme5KAL4PJ2tDw) | [Before the End](https://open.spotify.com/album/7zEORVyhxLXS2AXKtWNI08) | 2:20 | 2022-03-29 | 2022-04-12 |
 | [Before We Met](https://open.spotify.com/track/1gB9Hvz050IuA28oxXtydl) | [Minik Jakobsen](https://open.spotify.com/artist/6UJfJw5p9sg08LBKb9Ckfe) | [Before We Met](https://open.spotify.com/album/6dD11SUFl17tNcD0qxpZAJ) | 1:53 | 2022-08-17 | 2023-07-26 |
+| [Before You](https://open.spotify.com/track/5vC5C7G92VJ4s9lXqtOXKY) | [Andrea Prine](https://open.spotify.com/artist/3tzbuAF9yZZHThB1ykHj0A) | [Before You](https://open.spotify.com/album/4437EHGAGBNz2lJzZaWogn) | 2:22 | 2024-02-13 |  |
 | [Before your eyes](https://open.spotify.com/track/4xugZez7zpHFNTgkf0DLV1) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [Before your eyes](https://open.spotify.com/album/0o9d8yy6sU4pkrwu06Y84t) | 3:00 | 2022-03-08 | 2022-09-30 |
 | [Beginning](https://open.spotify.com/track/0xfBAFqqp2bMbtRV2AIWRe) | [Megan Wofford](https://open.spotify.com/artist/3ac7SLoq4Rbms8XZE0rdkA) | [Awake](https://open.spotify.com/album/6sf1sDNB9paGfjOzavrIXj) | 2:26 | 2021-03-06\* | 2022-07-29 |
 | [Belle Vie De Tous Les Jours](https://open.spotify.com/track/3irfOZS30z0snSh5vOPs2V) | [Baudouin Béringer](https://open.spotify.com/artist/1zQiEG2u3FSEMD9QU0Brxg) | [Belle Vie De Tous Les Jours](https://open.spotify.com/album/2dYmnpSKtsLNFONuHvofaI) | 2:37 | 2021-10-07 | 2022-11-22 |

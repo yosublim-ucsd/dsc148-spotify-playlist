@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Sacky, Villabanks, Baby Gang, Medy e tanti altri.
 
-3,075 songs - 5 day 19 hr 21 min
+3,076 songs - 5 day 19 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -949,6 +949,7 @@
 | [Facile](https://open.spotify.com/track/4lDReJv3iE9H8nzpczppyo) | [Drimer](https://open.spotify.com/artist/3Qz694qtRw2d9yKFr8zK8u) | [Facile](https://open.spotify.com/album/5FYFYj6u9kBZFtS9ir65N2) | 3:08 | 2023-10-12 | 2023-10-27 |
 | [FACILE](https://open.spotify.com/track/7BjcyjVbwCZ5LJvv96ri3h) | [ernvss](https://open.spotify.com/artist/7gC9tWX4RacI5aIaYQCPza) | [FACILE](https://open.spotify.com/album/08HiGjAOgQCVxc1eEMdCnE) | 2:34 | 2023-04-20 | 2023-04-28 |
 | [Facile](https://open.spotify.com/track/00bmaHVOEDarcvwlxxkHW9) | [Spinas](https://open.spotify.com/artist/4Cox9N9TeGWWSfyvPEex5m), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx) | [Facile](https://open.spotify.com/album/01eTjOeJSoT0b4QS9KEzTi) | 2:25 | 2022-07-28 | 2022-09-09 |
+| [FACTS](https://open.spotify.com/track/4ZqFq28LRJTj8Z82EoLibg) | [Vegas Jones](https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp) | [FACTS](https://open.spotify.com/album/3bETgmv7jeiL9ztdKumkUf) | 2:03 | 2024-02-21 |  |
 | [Fahrenheit](https://open.spotify.com/track/0SNunpTVP3UO4RZ9LNXHj7) | [Lokita](https://open.spotify.com/artist/0qkSFtzIwfHhZhTaFGXfxp) | [Fahrenheit](https://open.spotify.com/album/3iPxEJnlQ2BsvawA5gY4Jn) | 3:15 | 2022-07-21 | 2022-09-09 |
 | [FAHRENHEIT](https://open.spotify.com/track/5fxD2aTFZnRGhoNA5DKKUp) | [Riki El Flacko](https://open.spotify.com/artist/2wXxFG4Mb9cIdURyVn2Ei7), [Sike](https://open.spotify.com/artist/1kUcmfCqDuYQDkokeHjUyZ) | [FAHRENHEIT](https://open.spotify.com/album/5ioFnAvBzSGxYIh8IBYDWc) | 2:31 | 2023-06-01 | 2023-06-16 |
 | [FAHRENHEIT](https://open.spotify.com/track/2IS8dPmnhC5rHyXcrQIsum) | [YD Kiku](https://open.spotify.com/artist/4VGrVZ7Alhf74EDqM21Qr1) | [ZIMA](https://open.spotify.com/album/4U48uKnjh248GnhYNuVXuJ) | 3:09 | 2022-12-15 | 2023-01-06 |
@@ -1209,7 +1210,7 @@
 | [HALO MONSIEUR](https://open.spotify.com/track/6K2rrsC179D8tIDJIlws9t) | [Fata](https://open.spotify.com/artist/2e0HLVyPlF5jP9khNWfV3m) | [HALO MONSIEUR](https://open.spotify.com/album/04Qyq05nMkhB62qURUJk4j) | 3:01 | 2023-01-12 | 2023-02-03 |
 | [Hamdulillah](https://open.spotify.com/track/4f0Q7m43kUsAQPjRctJUcJ) | [Amill Leonardo](https://open.spotify.com/artist/6O1mWUAaIrcMAXQAoNzpT5), [Seck](https://open.spotify.com/artist/0TDisUBeAlYDLMToNVhTfH) | [Hamdulillah](https://open.spotify.com/album/2VWtrGRjviwqeovmg4Z6XU) | 3:01 | 2022-05-26 | 2022-06-10 |
 | [Hammamet \(feat\. Security & Kira\)](https://open.spotify.com/track/7ic3NIBsDDRrlH9uAzUYOH) | [Manali](https://open.spotify.com/artist/0aH4uMOQMV806IsaRf4nLh), [Depha Beat](https://open.spotify.com/artist/6bwVTFdmpdNygRD0jMUQGm), [Security](https://open.spotify.com/artist/7MKJc8WAYeq779QzmWPzlw), [Kira](https://open.spotify.com/artist/2HyasfYKBQnhWBIonOhabC) | [Marchingegno](https://open.spotify.com/album/17FGUh4lQoa0Z4vx0aLXBX) | 2:09 | 2022-12-15 | 2023-01-13 |
-| [HANGAR](https://open.spotify.com/track/0JOQdjigjjDGSblkMR2YWC) | [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9), [Smookid](https://open.spotify.com/artist/2mLQ8JfGyC8pFZTNIhejPR), [4TheNight](https://open.spotify.com/artist/523cP8Y8ivlsc3sLEgdNTH) | [HANGAR](https://open.spotify.com/album/1YZCmfbJCplFmWEY1aVLLp) | 2:53 | 2024-02-15 |  |
+| [HANGAR](https://open.spotify.com/track/0JOQdjigjjDGSblkMR2YWC) | [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9) | [HANGAR](https://open.spotify.com/album/1YZCmfbJCplFmWEY1aVLLp) | 2:53 | 2024-02-15 |  |
 | [HANNIBAL](https://open.spotify.com/track/4goiLHnCVjXQUThiwMGOax) | [Fiore](https://open.spotify.com/artist/4GOWLNptHmjfpDP4HN21Im), [Gale](https://open.spotify.com/artist/0MLdj7ABckNxmKWlrxBuUL), [Scien](https://open.spotify.com/artist/6sJBjn9GZbhu93KnaVlwCR) | [HANNIBAL](https://open.spotify.com/album/6djlLJmHozqyLytbQlrAS0) | 2:36 | 2022-10-06 | 2022-10-28 |
 | [HARA\-KIRI](https://open.spotify.com/track/2dZ1F15FBUtPxnYUbCCQsi) | [A1](https://open.spotify.com/artist/6rTM68RrcrscQ8LNIBhPsK) | [HARA\-KIRI](https://open.spotify.com/album/66x4S71GO4J5DG1I0FiWbB) | 2:47 | 2023-03-24 | 2023-04-07 |
 | [Harlem](https://open.spotify.com/track/7vhsMlVPv4fLIII9JCLWXN) | [Em](https://open.spotify.com/artist/0Wh6q94lZ2hN8LlTcR8mEI), [Murad](https://open.spotify.com/artist/7EzXR09A6dIhmZOVsAGdkV) | [Harlem](https://open.spotify.com/album/5dxqpk77RI8xgFtLDvSEfC) | 1:48 | 2023-11-09 | 2023-11-24 |

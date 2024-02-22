@@ -1,12 +1,12 @@
 {
   "description": "Celebrating the film Bob Marley: One Love.",
-  "num_followers": 2112299,
+  "num_followers": 2113594,
   "original_name": "One Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZjE1YzNjNjYwMTA1OTEwNjY2MDA2YzZmNDU3NTZlZDgyMTBhMjc5",
+  "snapshot_id": "MCw0ZDhlOWJkNDU1NDg0ZmY3M2U4NTJkNGU3MDc5Y2U2ZWExMGYxNjNh",
   "tracks": [
     {
       "added_at": "2024-01-29 05:23:56",
@@ -255,18 +255,18 @@
     {
       "added_at": "2024-01-29 05:23:56",
       "album": {
-        "name": "Jah Victory",
-        "url": "https://open.spotify.com/album/01cPxSu0Lr5qocwgwt579N"
+        "name": "Burnin' (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe"
       },
       "artists": [
         {
-          "name": "Alpha Blondy",
-          "url": "https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG"
+          "name": "The Wailers",
+          "url": "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
         }
       ],
-      "duration_ms": 267360,
-      "name": "I Wish You Were Here",
-      "url": "https://open.spotify.com/track/5eCx5098mGhOXc3xY1fbWc"
+      "duration_ms": 279720,
+      "name": "I Shot The Sheriff",
+      "url": "https://open.spotify.com/track/5uBKhKWTJ4E47rcLQqu3YH"
     },
     {
       "added_at": "2024-01-29 05:23:56",
@@ -307,34 +307,18 @@
     {
       "added_at": "2024-01-29 05:23:56",
       "album": {
-        "name": "Burnin' (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe"
+        "name": "Jah Victory",
+        "url": "https://open.spotify.com/album/01cPxSu0Lr5qocwgwt579N"
       },
       "artists": [
         {
-          "name": "The Wailers",
-          "url": "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+          "name": "Alpha Blondy",
+          "url": "https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG"
         }
       ],
-      "duration_ms": 279720,
-      "name": "I Shot The Sheriff",
-      "url": "https://open.spotify.com/track/5uBKhKWTJ4E47rcLQqu3YH"
-    },
-    {
-      "added_at": "2024-01-29 05:23:56",
-      "album": {
-        "name": "Bloody Tourists",
-        "url": "https://open.spotify.com/album/3MecVG0PeBObAhjwEAczFG"
-      },
-      "artists": [
-        {
-          "name": "10cc",
-          "url": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
-        }
-      ],
-      "duration_ms": 267946,
-      "name": "Dreadlock Holiday",
-      "url": "https://open.spotify.com/track/1LOZMYF5s8qhW7Rv4w2gun"
+      "duration_ms": 267360,
+      "name": "I Wish You Were Here",
+      "url": "https://open.spotify.com/track/5eCx5098mGhOXc3xY1fbWc"
     },
     {
       "added_at": "2024-01-29 05:23:56",
@@ -351,6 +335,22 @@
       "duration_ms": 158893,
       "name": "You Can Get It If You Really Want",
       "url": "https://open.spotify.com/track/1Pao4DTLMB4gJPTnqmLgSQ"
+    },
+    {
+      "added_at": "2024-01-29 05:23:56",
+      "album": {
+        "name": "Bloody Tourists",
+        "url": "https://open.spotify.com/album/3MecVG0PeBObAhjwEAczFG"
+      },
+      "artists": [
+        {
+          "name": "10cc",
+          "url": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
+        }
+      ],
+      "duration_ms": 267946,
+      "name": "Dreadlock Holiday",
+      "url": "https://open.spotify.com/track/1LOZMYF5s8qhW7Rv4w2gun"
     },
     {
       "added_at": "2024-01-29 05:23:56",
@@ -455,6 +455,22 @@
     {
       "added_at": "2024-01-29 05:23:56",
       "album": {
+        "name": "Uptown Top Ranking",
+        "url": "https://open.spotify.com/album/1FWimRgPFwDVyVlHe9EEnP"
+      },
+      "artists": [
+        {
+          "name": "Althea And Donna",
+          "url": "https://open.spotify.com/artist/5E8FbSTegbOlYAH4b2rZj2"
+        }
+      ],
+      "duration_ms": 229160,
+      "name": "Uptown Top Ranking - Remastered 2001",
+      "url": "https://open.spotify.com/track/34zWZOSpU2V1ab0PiZCcv4"
+    },
+    {
+      "added_at": "2024-01-29 05:23:56",
+      "album": {
         "name": "Higher Place",
         "url": "https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 194406,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/0jPEWByX9DZAQb5zyQ6eng"
-    },
-    {
-      "added_at": "2024-01-29 05:23:56",
-      "album": {
-        "name": "Uptown Top Ranking",
-        "url": "https://open.spotify.com/album/1FWimRgPFwDVyVlHe9EEnP"
-      },
-      "artists": [
-        {
-          "name": "Althea And Donna",
-          "url": "https://open.spotify.com/artist/5E8FbSTegbOlYAH4b2rZj2"
-        }
-      ],
-      "duration_ms": 229160,
-      "name": "Uptown Top Ranking - Remastered 2001",
-      "url": "https://open.spotify.com/track/34zWZOSpU2V1ab0PiZCcv4"
     },
     {
       "added_at": "2024-01-29 05:23:56",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-01-29 05:23:56",
       "album": {
-        "name": "Inna Heights",
-        "url": "https://open.spotify.com/album/37Pe85NIhAwMFKmG8MjRlE"
-      },
-      "artists": [
-        {
-          "name": "Buju Banton",
-          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
-        }
-      ],
-      "duration_ms": 273040,
-      "name": "Hills And Valleys",
-      "url": "https://open.spotify.com/track/2H4M3lyO2rJFQw33idCk1X"
-    },
-    {
-      "added_at": "2024-01-29 05:23:56",
-      "album": {
         "name": "Parables",
         "url": "https://open.spotify.com/album/4xliwWMj72GCy9Edq1v985"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 251026,
       "name": "She's Royal",
       "url": "https://open.spotify.com/track/6dFOwtd9iBMERardJvsIxY"
+    },
+    {
+      "added_at": "2024-01-29 05:23:56",
+      "album": {
+        "name": "Inna Heights",
+        "url": "https://open.spotify.com/album/37Pe85NIhAwMFKmG8MjRlE"
+      },
+      "artists": [
+        {
+          "name": "Buju Banton",
+          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
+        }
+      ],
+      "duration_ms": 273040,
+      "name": "Hills And Valleys",
+      "url": "https://open.spotify.com/track/2H4M3lyO2rJFQw33idCk1X"
     },
     {
       "added_at": "2024-01-29 05:23:56",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-01-29 05:23:56",
       "album": {
-        "name": "Perfect Key Riddim",
-        "url": "https://open.spotify.com/album/1YyDLlEWKPAUCjUxWuTejl"
-      },
-      "artists": [
-        {
-          "name": "Christopher Martin",
-          "url": "https://open.spotify.com/artist/3dXC1YPbnQPsfHPVkm1ipj"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Mama",
-      "url": "https://open.spotify.com/track/6YNKLxiWQhK2n06xI6gUg7"
-    },
-    {
-      "added_at": "2024-01-29 05:23:56",
-      "album": {
         "name": "Wanted Dread and Alive",
         "url": "https://open.spotify.com/album/18s7KUeencxiAsv7ths3jK"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 268213,
       "name": "Wanted Dread and Alive - 2002 Remaster",
       "url": "https://open.spotify.com/track/5jkxC8SIZJ4qqusxRPVS5s"
+    },
+    {
+      "added_at": "2024-01-29 05:23:56",
+      "album": {
+        "name": "Perfect Key Riddim",
+        "url": "https://open.spotify.com/album/1YyDLlEWKPAUCjUxWuTejl"
+      },
+      "artists": [
+        {
+          "name": "Christopher Martin",
+          "url": "https://open.spotify.com/artist/3dXC1YPbnQPsfHPVkm1ipj"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Mama",
+      "url": "https://open.spotify.com/track/6YNKLxiWQhK2n06xI6gUg7"
     },
     {
       "added_at": "2024-01-29 05:23:56",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-01-29 05:23:56",
       "album": {
-        "name": "If Only",
-        "url": "https://open.spotify.com/album/1PxeMLy9b6zmzefxPOXACH"
-      },
-      "artists": [
-        {
-          "name": "TEEKS",
-          "url": "https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ"
-        }
-      ],
-      "duration_ms": 204857,
-      "name": "If Only",
-      "url": "https://open.spotify.com/track/7yJnPO4ZU4kGx82TbaQvlU"
-    },
-    {
-      "added_at": "2024-01-29 05:23:56",
-      "album": {
         "name": "Chronology",
         "url": "https://open.spotify.com/album/1w71axmi9UJfsKCdEqGdNm"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 213149,
       "name": "Smile Jamaica",
       "url": "https://open.spotify.com/track/7KhQx2EJaZIPGsbMAjf4jg"
+    },
+    {
+      "added_at": "2024-01-29 05:23:56",
+      "album": {
+        "name": "If Only",
+        "url": "https://open.spotify.com/album/1PxeMLy9b6zmzefxPOXACH"
+      },
+      "artists": [
+        {
+          "name": "TEEKS",
+          "url": "https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ"
+        }
+      ],
+      "duration_ms": 204857,
+      "name": "If Only",
+      "url": "https://open.spotify.com/track/7yJnPO4ZU4kGx82TbaQvlU"
     },
     {
       "added_at": "2024-01-29 05:23:56",
@@ -1352,8 +1352,8 @@
       },
       "artists": [
         {
-          "name": "Pressure Busspipre",
-          "url": "https://open.spotify.com/artist/3ptWB2WLHDeI7QQQDDGGfw"
+          "name": "Pressure Busspipe",
+          "url": "https://open.spotify.com/artist/61meTZVdfRrHMotU1AJipD"
         }
       ],
       "duration_ms": 258653,
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-01-29 05:23:56",
       "album": {
-        "name": "Missing You",
-        "url": "https://open.spotify.com/album/3688VgiRVASa05x5FHEmc9"
-      },
-      "artists": [
-        {
-          "name": "Sanchez",
-          "url": "https://open.spotify.com/artist/6550dJCDSrZ8Cv6IDAjHpf"
-        }
-      ],
-      "duration_ms": 202600,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/5BkEtAa7LHwm5qs2vLegX3"
-    },
-    {
-      "added_at": "2024-01-29 05:23:56",
-      "album": {
         "name": "The Cure",
         "url": "https://open.spotify.com/album/58fLSvm42vx4tNK9o3hhpU"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 279533,
       "name": "All Of Me",
       "url": "https://open.spotify.com/track/6cZRY3VaE6FeiMPHpaTvq0"
+    },
+    {
+      "added_at": "2024-01-29 05:23:56",
+      "album": {
+        "name": "Missing You",
+        "url": "https://open.spotify.com/album/3688VgiRVASa05x5FHEmc9"
+      },
+      "artists": [
+        {
+          "name": "Sanchez",
+          "url": "https://open.spotify.com/artist/6550dJCDSrZ8Cv6IDAjHpf"
+        }
+      ],
+      "duration_ms": 202600,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/5BkEtAa7LHwm5qs2vLegX3"
     },
     {
       "added_at": "2024-01-29 05:23:56",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2024-01-29 05:23:56",
       "album": {
-        "name": "Wisdom",
-        "url": "https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 323068,
-      "name": "Old Sunrise",
-      "url": "https://open.spotify.com/track/3IZVcI4XBomuSZTF6CBd28"
-    },
-    {
-      "added_at": "2024-01-29 05:23:56",
-      "album": {
         "name": "Original Paragons At Treasure Isle",
         "url": "https://open.spotify.com/album/2LekDlww2q2hr2HuKJeww1"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 165666,
       "name": "The Tide Is High",
       "url": "https://open.spotify.com/track/1GUcIBgJB2AX0Ex6J6SKXM"
+    },
+    {
+      "added_at": "2024-01-29 05:23:56",
+      "album": {
+        "name": "Wisdom",
+        "url": "https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 323068,
+      "name": "Old Sunrise",
+      "url": "https://open.spotify.com/track/3IZVcI4XBomuSZTF6CBd28"
     },
     {
       "added_at": "2024-01-29 05:23:56",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2024-01-29 05:23:56",
       "album": {
-        "name": "Poor Man Style",
-        "url": "https://open.spotify.com/album/05JkJkbziKzfr0wOFA4iFJ"
+        "name": "Fally Lover",
+        "url": "https://open.spotify.com/album/1KazY0vkz1QEHqnoF6ocUj"
       },
       "artists": [
         {
-          "name": "Barrington Levy",
-          "url": "https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u"
+          "name": "Johnny Osbourne",
+          "url": "https://open.spotify.com/artist/5TUTGRG0FlRoYTZ4GEdOVO"
         }
       ],
-      "duration_ms": 198440,
-      "name": "Don't Give Up",
-      "url": "https://open.spotify.com/track/4VC6Ihh1epJiQPiiMpJXDE"
+      "duration_ms": 203400,
+      "name": "Ice Cream Love",
+      "url": "https://open.spotify.com/track/16DTl4nJDz444OcvTlbxxD"
     },
     {
       "added_at": "2024-01-29 05:23:56",
@@ -1651,18 +1651,34 @@
     {
       "added_at": "2024-01-29 05:23:56",
       "album": {
-        "name": "Fally Lover",
-        "url": "https://open.spotify.com/album/1KazY0vkz1QEHqnoF6ocUj"
+        "name": "Poor Man Style",
+        "url": "https://open.spotify.com/album/05JkJkbziKzfr0wOFA4iFJ"
       },
       "artists": [
         {
-          "name": "Johnny Osbourne",
-          "url": "https://open.spotify.com/artist/5TUTGRG0FlRoYTZ4GEdOVO"
+          "name": "Barrington Levy",
+          "url": "https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u"
         }
       ],
-      "duration_ms": 203400,
-      "name": "Ice Cream Love",
-      "url": "https://open.spotify.com/track/16DTl4nJDz444OcvTlbxxD"
+      "duration_ms": 198440,
+      "name": "Don't Give Up",
+      "url": "https://open.spotify.com/track/4VC6Ihh1epJiQPiiMpJXDE"
+    },
+    {
+      "added_at": "2024-01-29 05:23:56",
+      "album": {
+        "name": "Who Feels It Knows It",
+        "url": "https://open.spotify.com/album/5BhC8RTEdWPiHF0HrzWE9F"
+      },
+      "artists": [
+        {
+          "name": "Rita Marley",
+          "url": "https://open.spotify.com/artist/13Kn0OI9oXhBDXClb1hGy3"
+        }
+      ],
+      "duration_ms": 265626,
+      "name": "One Draw",
+      "url": "https://open.spotify.com/track/0Og4hTQytc9vv4CCxZ2wpy"
     },
     {
       "added_at": "2024-01-29 05:23:56",
@@ -1683,22 +1699,6 @@
       "duration_ms": 243094,
       "name": "Party Girls (feat. Buju Banton)",
       "url": "https://open.spotify.com/track/5h0uJbjD9QEvXwigegc5O5"
-    },
-    {
-      "added_at": "2024-01-29 05:23:56",
-      "album": {
-        "name": "Who Feels It Knows It",
-        "url": "https://open.spotify.com/album/5BhC8RTEdWPiHF0HrzWE9F"
-      },
-      "artists": [
-        {
-          "name": "Rita Marley",
-          "url": "https://open.spotify.com/artist/13Kn0OI9oXhBDXClb1hGy3"
-        }
-      ],
-      "duration_ms": 265626,
-      "name": "One Draw",
-      "url": "https://open.spotify.com/track/0Og4hTQytc9vv4CCxZ2wpy"
     },
     {
       "added_at": "2024-01-29 05:23:56",
@@ -1755,6 +1755,22 @@
     {
       "added_at": "2024-01-29 05:23:56",
       "album": {
+        "name": "Chill Out",
+        "url": "https://open.spotify.com/album/4Lv1cH9BHvIpCzaP5LNusL"
+      },
+      "artists": [
+        {
+          "name": "Anthony B",
+          "url": "https://open.spotify.com/artist/7Lij2ZLJJQOfGojVR3Wmqa"
+        }
+      ],
+      "duration_ms": 242173,
+      "name": "Chill Out",
+      "url": "https://open.spotify.com/track/4bLXcbMmmM4aAuhALEfyD7"
+    },
+    {
+      "added_at": "2024-01-29 05:23:56",
+      "album": {
         "name": "Engine 54",
         "url": "https://open.spotify.com/album/7kApPBGR83HP2zyzG4WPmG"
       },
@@ -1771,18 +1787,18 @@
     {
       "added_at": "2024-01-29 05:23:56",
       "album": {
-        "name": "Chill Out",
-        "url": "https://open.spotify.com/album/4Lv1cH9BHvIpCzaP5LNusL"
+        "name": "Love Is My Religion",
+        "url": "https://open.spotify.com/album/6gbz6snf68aII9mDozVdkp"
       },
       "artists": [
         {
-          "name": "Anthony B",
-          "url": "https://open.spotify.com/artist/7Lij2ZLJJQOfGojVR3Wmqa"
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
         }
       ],
-      "duration_ms": 242173,
-      "name": "Chill Out",
-      "url": "https://open.spotify.com/track/4bLXcbMmmM4aAuhALEfyD7"
+      "duration_ms": 228506,
+      "name": "Love Is My Religion",
+      "url": "https://open.spotify.com/track/1HH9AYnSKZaPKgZUGuiDRf"
     },
     {
       "added_at": "2024-01-29 05:23:56",
@@ -1803,22 +1819,6 @@
       "duration_ms": 197183,
       "name": "A Thousand Times",
       "url": "https://open.spotify.com/track/05DVJrR6du2E1iU0p6izrC"
-    },
-    {
-      "added_at": "2024-01-29 05:23:56",
-      "album": {
-        "name": "Love Is My Religion",
-        "url": "https://open.spotify.com/album/6gbz6snf68aII9mDozVdkp"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 228506,
-      "name": "Love Is My Religion",
-      "url": "https://open.spotify.com/track/1HH9AYnSKZaPKgZUGuiDRf"
     },
     {
       "added_at": "2024-01-29 05:23:56",
@@ -1887,26 +1887,6 @@
     {
       "added_at": "2024-01-29 05:23:56",
       "album": {
-        "name": "Mi Deh Yah",
-        "url": "https://open.spotify.com/album/1nidBImbRcFGTYh0YBkAuu"
-      },
-      "artists": [
-        {
-          "name": "Capleton",
-          "url": "https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf"
-        },
-        {
-          "name": "Mixing Finga",
-          "url": "https://open.spotify.com/artist/2UopbSlohTzQEyqorhWAzx"
-        }
-      ],
-      "duration_ms": 227404,
-      "name": "Mi Deh Yah",
-      "url": "https://open.spotify.com/track/49v38DJoDmsKR2hLuuX035"
-    },
-    {
-      "added_at": "2024-01-29 05:23:56",
-      "album": {
         "name": "Reggae Greats",
         "url": "https://open.spotify.com/album/61RLzpGAy4BrIQoEiHXGXA"
       },
@@ -1919,6 +1899,26 @@
       "duration_ms": 322000,
       "name": "Handsworth Revolution",
       "url": "https://open.spotify.com/track/54cMaPPTAoC57ZgnMTJKHM"
+    },
+    {
+      "added_at": "2024-01-29 05:23:56",
+      "album": {
+        "name": "War Ina Babylon (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7xlWX3qBfCI68LjswqlBH6"
+      },
+      "artists": [
+        {
+          "name": "Max Romeo",
+          "url": "https://open.spotify.com/artist/45QpZznbXYo3nWy0TIhvgv"
+        },
+        {
+          "name": "The Upsetters",
+          "url": "https://open.spotify.com/artist/12CNljuN6DW9e5x61FS03b"
+        }
+      ],
+      "duration_ms": 290626,
+      "name": "War Ina Babylon",
+      "url": "https://open.spotify.com/track/5Me6F9y6iArvYxyuP30m14"
     }
   ],
   "unique_name": "One Love",

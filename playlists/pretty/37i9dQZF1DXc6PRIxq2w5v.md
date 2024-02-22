@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: Brunno Ramos, 2metro, BIG THE KIID
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,001 likes - 85 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,104 likes - 85 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 52 | [Salmos 33:3](https://open.spotify.com/track/07NVaJJmhoih1A70w6ylPZ) | [Kant](https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ) | [Salmos 33:3](https://open.spotify.com/album/3kvCH6WieHrSGdD8Q60M5U) | 2:39 |
 | 53 | [Sonhei um Dia](https://open.spotify.com/track/0wNVe3LOwU2yrFOQleHQAf) | [Israel Rapper](https://open.spotify.com/artist/7xk2gw7Xbo4GRywCx1hflX) | [Sonhei um Dia](https://open.spotify.com/album/7J9uOnQv6HNAbDd3P5mkYv) | 3:01 |
 | 54 | [Deixa Ele Entrar](https://open.spotify.com/track/4vy5XZ4lu2pmysT0tVDSBx) | [Jana Vitória](https://open.spotify.com/artist/3iOSS7l3Np373ttFNtDwEb), [Rafael Caff](https://open.spotify.com/artist/2ndrJSgCakELeEvOBoQeaw), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Deixa Ele Entrar](https://open.spotify.com/album/6wpKGkXjyxjMNUNTU0gF9T) | 2:56 |
-| 55 | [A Glória da Segunda Casa](https://open.spotify.com/track/0pkDpDx2338D3SiCfFs6RZ) | [SevenRxni](https://open.spotify.com/artist/62CjcyuCDE2VvpKPS0z9ps), [Jessé Alcantara](https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X), [P\. Oliveira](https://open.spotify.com/artist/7fqc3O97h2bySMwdI2g9Zd), [Lxlrod](https://open.spotify.com/artist/5H0D7GVFCNJqEW5BdVb82A) | [A Glória da Segunda Casa](https://open.spotify.com/album/2OOHzHaoKmp8KRWOv8sOui) | 2:26 |
-| 56 | [Amor Ágape](https://open.spotify.com/track/2AgIr2i9ygNU6IfZLiXduU) | [Big Asher](https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Amor Ágape](https://open.spotify.com/album/3e1uEOZv78o5VnfgWKqnkc) | 5:26 |
+| 55 | [Amor Ágape](https://open.spotify.com/track/2AgIr2i9ygNU6IfZLiXduU) | [Big Asher](https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Amor Ágape](https://open.spotify.com/album/3e1uEOZv78o5VnfgWKqnkc) | 5:26 |
+| 56 | [A Glória da Segunda Casa](https://open.spotify.com/track/0pkDpDx2338D3SiCfFs6RZ) | [SevenRxni](https://open.spotify.com/artist/62CjcyuCDE2VvpKPS0z9ps), [Jessé Alcantara](https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X), [P\. Oliveira](https://open.spotify.com/artist/7fqc3O97h2bySMwdI2g9Zd), [Lxlrod](https://open.spotify.com/artist/5H0D7GVFCNJqEW5BdVb82A) | [A Glória da Segunda Casa](https://open.spotify.com/album/2OOHzHaoKmp8KRWOv8sOui) | 2:26 |
 | 57 | [Nome Sobre Todo Nome](https://open.spotify.com/track/4WSdliftGLqW8bdw8HR8qc) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [Nome Sobre Todo Nome](https://open.spotify.com/album/1REKdbjMNhpUo6cTHhGacj) | 2:13 |
-| 58 | [Você Acredita?](https://open.spotify.com/track/1HJ0nfxiaOGKewT5banSjb) | [Clovis](https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF) | [Você Acredita?](https://open.spotify.com/album/2iYsPUuXs2GPQwUksocbBa) | 3:14 |
-| 59 | [Domingão](https://open.spotify.com/track/1HDLBb0pV7Y6INvZKp7Ss1) | [Kael](https://open.spotify.com/artist/2REBelsnF968ZaU1llcjiN), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Domingão](https://open.spotify.com/album/5hIXpAB9pVwGALuLDtqH3v) | 2:23 |
+| 58 | [Domingão](https://open.spotify.com/track/1HDLBb0pV7Y6INvZKp7Ss1) | [Kael](https://open.spotify.com/artist/2REBelsnF968ZaU1llcjiN), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Domingão](https://open.spotify.com/album/5hIXpAB9pVwGALuLDtqH3v) | 2:23 |
+| 59 | [Você Acredita?](https://open.spotify.com/track/1HJ0nfxiaOGKewT5banSjb) | [Clovis](https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF) | [Você Acredita?](https://open.spotify.com/album/2iYsPUuXs2GPQwUksocbBa) | 3:14 |
 | 60 | [Se Pá](https://open.spotify.com/track/6fovcomKmYiwkIiULHDNFR) | [Ney Moura](https://open.spotify.com/artist/1Dx5NxeSB0BFeA2cX7i2C4) | [Se Pá](https://open.spotify.com/album/0j5Bk6mgPM0JfIeFXIIYWC) | 2:43 |
 | 61 | [eu vi](https://open.spotify.com/track/776a4QwYcp91riZRZlAqWt) | [CAIQ](https://open.spotify.com/artist/1KWpZUdDFZt8GXdU5Uza3z) | [eu vi](https://open.spotify.com/album/0u2KNdhqH6ow0ngQvbGMDI) | 2:59 |
 | 62 | [Love Jesus \#1 \- Caminhos da Vida](https://open.spotify.com/track/5f8wNnCFZfx0Lh8fhNgt7I) | [Boanerges](https://open.spotify.com/artist/0yI5Pyeh5YYTWplqL3kscG), [Duda Matos](https://open.spotify.com/artist/4ZE7FQEuAyaqqG8wYi2mRq), [Yuri DSR](https://open.spotify.com/artist/3P5R5KRLnpElqxP6av8N2B) | [Love Jesus \#1 \- Caminhos da Vida](https://open.spotify.com/album/1TE4JunRsZ4INVJUTBVsdN) | 3:51 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 84 | [Eu Te Amo](https://open.spotify.com/track/5Ck8Dr84bu5E4jCOUe9nGm) | [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p), [Bia Jordão](https://open.spotify.com/artist/5DtnkeCt5yl2kmJkaVK1KU) | [Eu Te Amo](https://open.spotify.com/album/5NNPPKsVgkPDKgpB1wWI3N) | 4:04 |
 | 85 | [Filho do Homem](https://open.spotify.com/track/2WQ87ao5uZsRZS0UB8cQQi) | [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p) | [Jesus Invadiu a Cena](https://open.spotify.com/album/6ZYHnkp7z1agh309H04SYA) | 3:15 |
 
-Snapshot ID: `MCwzNGNlNzA5MjlmMzQ4YmNlNzIwNmNjNjBjMjFlMWNhNWIyNTViYWYz`
+Snapshot ID: `MCxlZGZlMTYwZjk3ZTA0YjVhN2Y4OThkNGYxNjlkYTg1NDVkYWY0MjFh`

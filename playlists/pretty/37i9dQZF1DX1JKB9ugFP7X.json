@@ -1,12 +1,12 @@
 {
   "description": "Escucha lo mejor del pop electr\u00f3nico en espa\u00f1ol.",
-  "num_followers": 23899,
+  "num_followers": 23902,
   "original_name": "ElectroPop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzQyNGRlYjM1OWYzMWUzNjVmMjFhY2I3ZDdiMGI0NDBiM2M0YmZi",
+  "snapshot_id": "MCwzNGExZDc0OWRkYmZlM2E5NDY1NTAzY2Y4ZWYxYmUzODQ1NzhhYmQ2",
   "tracks": [
     {
       "added_at": "2024-02-02 03:00:00",
@@ -643,30 +643,6 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "PACTO",
-        "url": "https://open.spotify.com/album/0dKbnLynYN0dv4VB1KSB9S"
-      },
-      "artists": [
-        {
-          "name": "Anto Segovia",
-          "url": "https://open.spotify.com/artist/3ZDlV4860jpcqhmIincWHF"
-        },
-        {
-          "name": "Franco \"El Gorilla\"",
-          "url": "https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ"
-        },
-        {
-          "name": "Criss J.",
-          "url": "https://open.spotify.com/artist/7K2LttekmuGSgw1Hy1wGDe"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "PACTO",
-      "url": "https://open.spotify.com/track/0CIRCBcH8KbFrRxYQPQR9v"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
         "name": "Dejarte Estar (Pyura Remix)",
         "url": "https://open.spotify.com/album/12S0HzVMapdyKJ7WCkevpD"
       },
@@ -715,6 +691,30 @@
       "duration_ms": 203125,
       "name": "Xtasis",
       "url": "https://open.spotify.com/track/3YhDwzSVlVULhqWv2D3M2b"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
+        "name": "PACTO",
+        "url": "https://open.spotify.com/album/0dKbnLynYN0dv4VB1KSB9S"
+      },
+      "artists": [
+        {
+          "name": "Anto Segovia",
+          "url": "https://open.spotify.com/artist/3ZDlV4860jpcqhmIincWHF"
+        },
+        {
+          "name": "Franco \"El Gorilla\"",
+          "url": "https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ"
+        },
+        {
+          "name": "Criss J.",
+          "url": "https://open.spotify.com/artist/7K2LttekmuGSgw1Hy1wGDe"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "PACTO",
+      "url": "https://open.spotify.com/track/0CIRCBcH8KbFrRxYQPQR9v"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "Chicos de la Luz",
-        "url": "https://open.spotify.com/album/1JAJem5IxeIq8Rwo6EhIWe"
-      },
-      "artists": [
-        {
-          "name": "Astro",
-          "url": "https://open.spotify.com/artist/0V2YTCyeeSs4sivZL99x3g"
-        }
-      ],
-      "duration_ms": 279600,
-      "name": "Caribbean",
-      "url": "https://open.spotify.com/track/6yciTnwFKwtN2WyrxaLyNz"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
         "name": "Delfines",
         "url": "https://open.spotify.com/album/2wBW2z26H62mqXz6CA5eJL"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 278274,
       "name": "Delfines",
       "url": "https://open.spotify.com/track/5LqVs6hiodD5YXRGV5rNzc"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
+        "name": "Chicos de la Luz",
+        "url": "https://open.spotify.com/album/1JAJem5IxeIq8Rwo6EhIWe"
+      },
+      "artists": [
+        {
+          "name": "Astro",
+          "url": "https://open.spotify.com/artist/0V2YTCyeeSs4sivZL99x3g"
+        }
+      ],
+      "duration_ms": 279600,
+      "name": "Caribbean",
+      "url": "https://open.spotify.com/track/6yciTnwFKwtN2WyrxaLyNz"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "Marcha II",
-        "url": "https://open.spotify.com/album/06zWjeOA3MwBHLApKUS3Qs"
-      },
-      "artists": [
-        {
-          "name": "Laika Perra Rusa",
-          "url": "https://open.spotify.com/artist/1ENwhswPVedRKPgabgGxsb"
-        }
-      ],
-      "duration_ms": 224330,
-      "name": "Atentado en la Pista",
-      "url": "https://open.spotify.com/track/1kvNcx5MoS5XvMcIua4PfG"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
         "name": "Fonomix",
         "url": "https://open.spotify.com/album/32vMhnRB3JbmRzAVd30KDL"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 157974,
       "name": "Grana",
       "url": "https://open.spotify.com/track/5PL1SaEHcnb50LJ7itQgNO"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
+        "name": "Marcha II",
+        "url": "https://open.spotify.com/album/06zWjeOA3MwBHLApKUS3Qs"
+      },
+      "artists": [
+        {
+          "name": "Laika Perra Rusa",
+          "url": "https://open.spotify.com/artist/1ENwhswPVedRKPgabgGxsb"
+        }
+      ],
+      "duration_ms": 224330,
+      "name": "Atentado en la Pista",
+      "url": "https://open.spotify.com/track/1kvNcx5MoS5XvMcIua4PfG"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -1511,26 +1511,6 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "PANTERA NEGRA",
-        "url": "https://open.spotify.com/album/7kHLoYeWZ5LxSOKYlsvhp9"
-      },
-      "artists": [
-        {
-          "name": "HAKANNA",
-          "url": "https://open.spotify.com/artist/02p3ZqCbYUwbkSPOFFpWxO"
-        },
-        {
-          "name": "Joshvatunes",
-          "url": "https://open.spotify.com/artist/1CB2epFJK69CCydeG5GLuc"
-        }
-      ],
-      "duration_ms": 200125,
-      "name": "PANTERA NEGRA",
-      "url": "https://open.spotify.com/track/16dwDsbD6tah72GeIUBskp"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
         "name": "Ficci\u00f3n",
         "url": "https://open.spotify.com/album/7kqvgYRCFIHjRTEXnVjSWW"
       },
@@ -1547,22 +1527,22 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "7 canciones antes de que nos corten la luz",
-        "url": "https://open.spotify.com/album/58Kzrvix7aM7yh0N4CpRVm"
+        "name": "PANTERA NEGRA",
+        "url": "https://open.spotify.com/album/7kHLoYeWZ5LxSOKYlsvhp9"
       },
       "artists": [
         {
-          "name": "DEFENSA",
-          "url": "https://open.spotify.com/artist/6FkVttiTT84WehLzoTrMEy"
+          "name": "HAKANNA",
+          "url": "https://open.spotify.com/artist/02p3ZqCbYUwbkSPOFFpWxO"
         },
         {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+          "name": "Joshvatunes",
+          "url": "https://open.spotify.com/artist/1CB2epFJK69CCydeG5GLuc"
         }
       ],
-      "duration_ms": 223278,
-      "name": "Fiebre",
-      "url": "https://open.spotify.com/track/2lDvFFGwcvUvStTh5t29yF"
+      "duration_ms": 200125,
+      "name": "PANTERA NEGRA",
+      "url": "https://open.spotify.com/track/16dwDsbD6tah72GeIUBskp"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -1599,6 +1579,26 @@
       "duration_ms": 213018,
       "name": "Housie",
       "url": "https://open.spotify.com/track/0bk5rMOL7200N3fvqhSfL6"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
+        "name": "7 canciones antes de que nos corten la luz",
+        "url": "https://open.spotify.com/album/58Kzrvix7aM7yh0N4CpRVm"
+      },
+      "artists": [
+        {
+          "name": "DEFENSA",
+          "url": "https://open.spotify.com/artist/6FkVttiTT84WehLzoTrMEy"
+        },
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        }
+      ],
+      "duration_ms": 223278,
+      "name": "Fiebre",
+      "url": "https://open.spotify.com/track/2lDvFFGwcvUvStTh5t29yF"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "Atemporal",
-        "url": "https://open.spotify.com/album/2MkNHGimCLS2aC0Bny8nnT"
-      },
-      "artists": [
-        {
-          "name": "ZEBRA 93",
-          "url": "https://open.spotify.com/artist/3cr7KiInVBOX6gCKYQvIoC"
-        }
-      ],
-      "duration_ms": 226464,
-      "name": "M\u00edstico Mezcal",
-      "url": "https://open.spotify.com/track/4uEvTqHD3KEO7xXuawTSWG"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
         "name": "Luc\u00eda",
         "url": "https://open.spotify.com/album/4Ni2gs4GGSo6NmJjvKL0NH"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 289333,
       "name": "Luc\u00eda",
       "url": "https://open.spotify.com/track/2IKC7XhiH7ZVVESFYmW1Ru"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
+        "name": "Atemporal",
+        "url": "https://open.spotify.com/album/2MkNHGimCLS2aC0Bny8nnT"
+      },
+      "artists": [
+        {
+          "name": "ZEBRA 93",
+          "url": "https://open.spotify.com/artist/3cr7KiInVBOX6gCKYQvIoC"
+        }
+      ],
+      "duration_ms": 226464,
+      "name": "M\u00edstico Mezcal",
+      "url": "https://open.spotify.com/track/4uEvTqHD3KEO7xXuawTSWG"
     },
     {
       "added_at": "2024-02-02 03:00:00",

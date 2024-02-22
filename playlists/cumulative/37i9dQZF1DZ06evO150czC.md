@@ -4,7 +4,7 @@
 
 > This is Midian Lima\. The essential tracks, all in one playlist.
 
-55 songs - 4 hr 32 min
+56 songs - 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [No Pares](https://open.spotify.com/track/6lhq52ulpv88jIYpqrZBFQ) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [No Pares](https://open.spotify.com/album/3OKxWsolYmrGBYJjWGIH0H) | 4:46 | 2023-07-09 | 2023-10-11 |
 | [Não Haverá Vergonha](https://open.spotify.com/track/2svtPIsdwo3G5tVTsMVhTN) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Não Haverá Vergonha](https://open.spotify.com/album/5JHnsAUQlOUH88A4bg2LRX) | 5:16 | 2023-07-09 |  |
 | [Não Pare](https://open.spotify.com/track/3VCfmjE0oEMYQUil14wd0J) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Não Pare](https://open.spotify.com/album/56P1CgGN8DGhG4ksRz0tfF) | 4:53 | 2023-07-09 |  |
+| [O Céu Se Abre](https://open.spotify.com/track/1rr7OQMrPZjktRVfUOYnxd) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [O Céu Se Abre](https://open.spotify.com/album/1F6n140GLrPVRY40AJzecK) | 4:30 | 2024-02-21 |  |
 | [O Deus dos Pequeninos](https://open.spotify.com/track/4kwrcCpp5QjKWrh6gkMncq) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [O Deus dos Pequeninos](https://open.spotify.com/album/0xRgeruz1NjwaL67PxOo4h) | 4:41 | 2023-07-09 |  |
 | [O Leão e o Cordeiro \(Ao Vivo\)](https://open.spotify.com/track/0GVWI4nhY1XyOkL8otfLQo) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [O Leão e o Cordeiro \(Ao Vivo\)](https://open.spotify.com/album/5CEHU4uCKjNwzGnRMGkBRZ) | 6:42 | 2023-07-09 |  |
 | [O Melhor Pra Ti](https://open.spotify.com/track/6F1oXa2BbKYBIVlUaWP17F) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [O Melhor Pra Ti](https://open.spotify.com/album/6d2Zx3I2bl97lhQAl2m2dd) | 4:03 | 2023-07-09 |  |
@@ -44,7 +45,7 @@
 | [O Preço Foi de Sangue](https://open.spotify.com/track/7xjM5HubCVLFcgfRCCDO7U) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Não Pare](https://open.spotify.com/album/19befBP8BMqgHh96PkDHZM) | 4:36 | 2023-07-09 |  |
 | [O Rei Está Voltando \(Ao Vivo\)](https://open.spotify.com/track/6zB5D61eW6SxQWGXn8jzle) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Midian Lima \(Ao Vivo\)](https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi) | 5:33 | 2023-10-10 |  |
 | [Olharei Para o Alto](https://open.spotify.com/track/6ZUd69R92Ao3V9yNRwY52M) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Milagre](https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R) | 4:28 | 2023-07-09 |  |
-| [Prioridad](https://open.spotify.com/track/30tXzCwahCEoAQreBgEfel) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Prioridad](https://open.spotify.com/album/7b4NMbigXOZcFsPMSHXIwZ) | 3:48 | 2023-07-09 |  |
+| [Prioridad](https://open.spotify.com/track/30tXzCwahCEoAQreBgEfel) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Prioridad](https://open.spotify.com/album/7b4NMbigXOZcFsPMSHXIwZ) | 3:48 | 2023-07-09 | 2024-02-22 |
 | [Prioridade](https://open.spotify.com/track/0XX21ynoX03YyxU13Dfuaj) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Milagre](https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R) | 3:59 | 2023-07-09 |  |
 | [Prossiga \(feat\. Midian Lima\)](https://open.spotify.com/track/0Q4kMlGILF6jZvfEDFnZBz) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Em Meu Coração](https://open.spotify.com/album/62yuV0UZe17S9roAFW5GFa) | 4:32 | 2023-07-09 |  |
 | [Que Tal](https://open.spotify.com/track/1cKmv6Ca3hqonAttrAOH6y) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Nasci Pra Voar](https://open.spotify.com/album/6u8T90oj5FjrcsoljgjmT7) | 5:09 | 2023-07-09 |  |

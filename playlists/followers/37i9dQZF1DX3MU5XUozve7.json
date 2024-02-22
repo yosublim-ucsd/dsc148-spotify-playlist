@@ -1,5 +1,5 @@
 {
-  "2024-02-21": 905001,
+  "2024-02-22": 905323,
   "date_first_scraped": "2020-03-20",
   "description": "A mix of new and classic melodic punk songs.",
   "name": "Skatepark Punks",
@@ -447,7 +447,7 @@
       ],
       "date_added": "2020-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-13",
+      "date_removed": null,
       "duration_ms": 158426,
       "name": "All My Friends Are Dead",
       "url": "https://open.spotify.com/track/6fEztciYVlIyWTBe66clVj"
@@ -3483,7 +3483,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 151362,
       "name": "Father of All...",
       "url": "https://open.spotify.com/track/17C1AVZVh5jhJU4eAcovpl"

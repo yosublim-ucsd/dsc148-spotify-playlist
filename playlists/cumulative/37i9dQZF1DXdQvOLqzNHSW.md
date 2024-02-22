@@ -4,7 +4,7 @@
 
 > slow burners for late nights
 
-721 songs - 1 day 19 hr 25 min
+722 songs - 1 day 19 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@
 | [Cherry](https://open.spotify.com/track/4sRmzVSedvFkENbSJ342Ex) | [Chromatics](https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE) | [Cherry \(Deluxe\)](https://open.spotify.com/album/6OqegZkCUq29CJarqL8trP) | 4:31 | 2022-07-22 | 2023-10-24 |
 | [Chewing Gum](https://open.spotify.com/track/3jxExv27cf3OSt0BXtAR6Z) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc) | [Negro Swan](https://open.spotify.com/album/7bvmGyFDwpHNRRRZJ0AHvn) | 4:23 | 2022-05-06 | 2022-05-08 |
 | [Circles](https://open.spotify.com/track/4EdKkFTADTOnzjZx0ek57X) | [The Amazing](https://open.spotify.com/artist/16f3WYlA4miISj20MG5J30) | [Picture You](https://open.spotify.com/album/5GyjftTci65k0lr3TTnh9t) | 6:20 | 2020-12-21 | 2022-04-21 |
-| [Clementine](https://open.spotify.com/track/12LTyzzKTuGJ7877d9UvJp) | [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F) | [Clementine](https://open.spotify.com/album/1cC3g85coOQwkIpbrbtuZm) | 3:02 | 2023-11-21 |  |
+| [Clementine](https://open.spotify.com/track/12LTyzzKTuGJ7877d9UvJp) | [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F) | [Clementine](https://open.spotify.com/album/1cC3g85coOQwkIpbrbtuZm) | 3:02 | 2023-11-21 | 2024-02-22 |
 | [Coffee](https://open.spotify.com/track/429NtPmr12aypzFH3FkN9l) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Coffee](https://open.spotify.com/album/5wQU9QESgj4rLyLECGTJGn) | 2:06 | 2020-12-21 | 2022-04-17 |
 | [Cold War](https://open.spotify.com/track/6DwiGVCgXGREeCyJZtX7S1) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Blood Type](https://open.spotify.com/album/1xpNb3oOnWsZJYQyomLe4Z) | 3:22 | 2022-07-22 | 2023-10-24 |
 | [Cold War](https://open.spotify.com/track/3l1QX9fhldeI23AlON5iY3) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Blood Type](https://open.spotify.com/album/0I55n0pRuelv0nfZHKhA8f) | 3:23 | 2020-12-21 | 2022-07-29 |
@@ -639,6 +639,7 @@
 | [The Barrel](https://open.spotify.com/track/06lw2dBFqdXhAErz7Xz9Zs) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Designer](https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI) | 4:59 | 2022-07-22 | 2023-10-24 |
 | [The Barrel](https://open.spotify.com/track/3s71tbgmSN9TfJLj4D18Mt) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [The Barrel](https://open.spotify.com/album/6GO0ZV4w1GHfksdyBiEAY0) | 4:59 | 2020-12-21 | 2022-04-20 |
 | [The Dress](https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Absolutely](https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO) | 3:04 | 2023-01-04 | 2023-06-17 |
+| [THE END \(feat\. Thrupence, Will Paquin & rum.gold\)](https://open.spotify.com/track/6RB5C04LElmQGOCJFCq0vS) | [Ta\-ku](https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV), [Thrupence](https://open.spotify.com/artist/33WEbJHirq23bohapH3pI9), [Will Paquin](https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6), [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB) | [Songs To Come Home To](https://open.spotify.com/album/3RyNOK2vXaGdkRWoh8QmjN) | 4:58 | 2024-01-04 |  |
 | [The Fear of Losing This](https://open.spotify.com/track/5JOUk0gSmk9Z9IfsSKV1Gy) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [If Blue Could Be Happiness](https://open.spotify.com/album/70EyzHbX9BpNwwQL31ceFI) | 3:53 | 2020-12-21 | 2022-07-15 |
 | [The Light](https://open.spotify.com/track/05fNbOESakUG0tDmbqZaG8) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Where Will We Go, Pt\. 1](https://open.spotify.com/album/59WE3K5iltJMy9VA87aq7v) | 4:27 | 2023-05-25 | 2023-11-18 |
 | [The Limit](https://open.spotify.com/track/5OBUmFuhkit7MYdaVZc2bs) | [DARKSIDE](https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB) | [The Limit](https://open.spotify.com/album/4qrRtK8B87gcp9S4aWZwPt) | 5:21 | 2021-05-01 | 2022-07-21 |

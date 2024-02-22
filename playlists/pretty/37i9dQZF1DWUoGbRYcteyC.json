@@ -1,12 +1,12 @@
 {
   "description": "Qu\u00e9 bonito se siente el amor. \ud83d\udc98",
-  "num_followers": 1952141,
+  "num_followers": 1952176,
   "original_name": "Amor Amor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYmYyODgzMWM1ZDA0YTlmZTY5NzM5OWNkODc0NjBiYTMzM2M0NDk1",
+  "snapshot_id": "MCwyMjg4YzA0MzNiZWU0MDMxZmFiOTA0MGIyZTY4YTdlZTQ1MzEwMTgz",
   "tracks": [
     {
       "added_at": "2024-02-16 05:01:00",
@@ -355,26 +355,6 @@
     {
       "added_at": "2024-02-16 05:01:00",
       "album": {
-        "name": "Amar Es Combatir",
-        "url": "https://open.spotify.com/album/6XrpkEuQyfilUHMduKDeuB"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        },
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 264720,
-      "name": "Bendita Tu Luz",
-      "url": "https://open.spotify.com/track/2JBs412fpVUuzIaIp3CyIs"
-    },
-    {
-      "added_at": "2024-02-16 05:01:00",
-      "album": {
         "name": "TU Y YO",
         "url": "https://open.spotify.com/album/6fP9gXEDhdBaWz6E08kqRr"
       },
@@ -391,6 +371,26 @@
       "duration_ms": 192517,
       "name": "TU Y YO",
       "url": "https://open.spotify.com/track/00THZGfbizNvMUkJsQs74K"
+    },
+    {
+      "added_at": "2024-02-16 05:01:00",
+      "album": {
+        "name": "Amar Es Combatir",
+        "url": "https://open.spotify.com/album/6XrpkEuQyfilUHMduKDeuB"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        },
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 264720,
+      "name": "Bendita Tu Luz",
+      "url": "https://open.spotify.com/track/2JBs412fpVUuzIaIp3CyIs"
     },
     {
       "added_at": "2024-02-16 05:01:00",
@@ -927,6 +927,22 @@
     {
       "added_at": "2024-02-16 05:01:00",
       "album": {
+        "name": "el afortunado",
+        "url": "https://open.spotify.com/album/2zrZBkIysHuJUkzYDQ9Lx2"
+      },
+      "artists": [
+        {
+          "name": "EV\u00cdC",
+          "url": "https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz"
+        }
+      ],
+      "duration_ms": 200597,
+      "name": "el afortunado",
+      "url": "https://open.spotify.com/track/4cgm8ysMxbJr6x84l7XArd"
+    },
+    {
+      "added_at": "2024-02-16 05:01:00",
+      "album": {
         "name": "Para Siempre",
         "url": "https://open.spotify.com/album/3j32qwP0UytC2bakmATjgP"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 241796,
       "name": "Mar Adentro",
       "url": "https://open.spotify.com/track/2PsSft1B1n0mZtmQ8xclLS"
-    },
-    {
-      "added_at": "2024-02-16 05:01:00",
-      "album": {
-        "name": "el afortunado",
-        "url": "https://open.spotify.com/album/2zrZBkIysHuJUkzYDQ9Lx2"
-      },
-      "artists": [
-        {
-          "name": "EV\u00cdC",
-          "url": "https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz"
-        }
-      ],
-      "duration_ms": 200597,
-      "name": "el afortunado",
-      "url": "https://open.spotify.com/track/4cgm8ysMxbJr6x84l7XArd"
     },
     {
       "added_at": "2024-02-16 05:01:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-02-16 05:01:00",
       "album": {
-        "name": "No Tengo Nada",
-        "url": "https://open.spotify.com/album/0sUMIXlf7GdaeiEibYJLml"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 225599,
-      "name": "No Tengo Nada",
-      "url": "https://open.spotify.com/track/2gXclup5H2J9dInrVLFs3n"
-    },
-    {
-      "added_at": "2024-02-16 05:01:00",
-      "album": {
         "name": "Carolina",
         "url": "https://open.spotify.com/album/3aeYk2orcfRNOt8Z0ZXc0k"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 167485,
       "name": "Carolina",
       "url": "https://open.spotify.com/track/3xBBuuVVgW7VUZkuX6QfSa"
+    },
+    {
+      "added_at": "2024-02-16 05:01:00",
+      "album": {
+        "name": "No Tengo Nada",
+        "url": "https://open.spotify.com/album/0sUMIXlf7GdaeiEibYJLml"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 225599,
+      "name": "No Tengo Nada",
+      "url": "https://open.spotify.com/track/2gXclup5H2J9dInrVLFs3n"
     },
     {
       "added_at": "2024-02-16 05:01:00",

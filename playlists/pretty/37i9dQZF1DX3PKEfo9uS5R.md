@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PKEfo9uS5R.md) - [plain]
 
 > Chill house tracks to power your pilates session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,823 likes - 92 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,903 likes - 92 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PKEfo9uS5R.md) - [plain]
 | 91 | [Rhodes Night](https://open.spotify.com/track/42UrWODXMY270D6mVLdGnT) | [Dimitri G](https://open.spotify.com/artist/0c5iXSRogLrwZrZeU4gF6k) | [Rhodes Night](https://open.spotify.com/album/4sMeFxBYKqgEKIfePb9Y0q) | 3:46 |
 | 92 | [Gardient heaven](https://open.spotify.com/track/4O1CGcCUjJXow4oBHxMxTK) | [YAN KAL](https://open.spotify.com/artist/04735OZRCyYdkA5Cay4qkG) | [Gardient heaven](https://open.spotify.com/album/1WVwh0s7pzG0PXzvtRVVJ8) | 2:32 |
 
-Snapshot ID: `MCxjZGUzNDRmMzA3NGJlYzkzMzdmOTMyZTJmY2UwMGE2ZTQ3MTlkZTEz`
+Snapshot ID: `MCwyYmVlNTY4ODk3NDhhZmZhYzVhMTQyMTk2NDUxMjVlN2RkNWNmMmMx`

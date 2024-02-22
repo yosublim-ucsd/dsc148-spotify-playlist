@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7rqPov2ZRCB.md) - [plain]
 
 > Ponte a guayar con este playlist de Merengue Tipico\. Cover: El Prodigio
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,092 likes - 51 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,095 likes - 51 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7rqPov2ZRCB.md) - [plain]
 | 47 | [La Correa](https://open.spotify.com/track/7KFwD8joQhDszOXDAddttv) | [Tatico Henriquez](https://open.spotify.com/artist/3Ut6HQlDNxriysExMqRCYm) | [60 Éxitos](https://open.spotify.com/album/6pGQLQMeYtj3MU4H90z2DX) | 2:49 |
 | 48 | [Ya No Creo en Ti](https://open.spotify.com/track/1ZE5wyZzjE25sEZ6nDXKbl) | [Rikar2nes](https://open.spotify.com/artist/0ZOHKurmSl9Nj3cpp5juyt) | [A Otro Nivel](https://open.spotify.com/album/6xLvSMjRybGGIeAu83sj1h) | 4:39 |
 | 49 | [El Diente de Oro](https://open.spotify.com/track/6n71ZzBawqtp584Fg2NAcO) | [El Cieguito De Nagua](https://open.spotify.com/artist/6FGEiODYfWqyS4rTtRaFgU) | [Los Numero 1 Bachata y Merengue Tipico](https://open.spotify.com/album/3uMEJcu34DYo8TfZO1sEvI) | 4:38 |
-| 50 | [Tipico Caliente](https://open.spotify.com/track/6sJmVh5brIuD3PywP0gVoE) | [Fefita La Grande](https://open.spotify.com/artist/4IYHkkHuBFwfBrqQ4XJiPA) | [La Reina del Soberano](https://open.spotify.com/album/6JG72C5AvYstaw7ZWdz8xv) | 5:05 |
-| 51 | [El Pompo](https://open.spotify.com/track/7HgiICdOqo0M8mliWTfqdx) | [Ricardo Gutierrez](https://open.spotify.com/artist/4USRigxRhhSovt62npVWv1) | [Los Numero 1 Bachata y Merengue Tipico](https://open.spotify.com/album/3uMEJcu34DYo8TfZO1sEvI) | 5:00 |
+| 50 | [El Pompo](https://open.spotify.com/track/7HgiICdOqo0M8mliWTfqdx) | [Ricardo Gutierrez](https://open.spotify.com/artist/4USRigxRhhSovt62npVWv1) | [Los Numero 1 Bachata y Merengue Tipico](https://open.spotify.com/album/3uMEJcu34DYo8TfZO1sEvI) | 5:00 |
+| 51 | [Tipico Caliente](https://open.spotify.com/track/6sJmVh5brIuD3PywP0gVoE) | [Fefita La Grande](https://open.spotify.com/artist/4IYHkkHuBFwfBrqQ4XJiPA) | [La Reina del Soberano](https://open.spotify.com/album/6JG72C5AvYstaw7ZWdz8xv) | 5:05 |
 
-Snapshot ID: `MCw1NjVlZDgxNDFlYzcyNGFlNjk5OGMxMTE1OGMyYjMwNjlkN2NlYzE0`
+Snapshot ID: `MCw1MmRlMDc5MzE0ZTMwNGMxYWJhMWExYzIxODFhZWViZjFlMTEyZjU3`

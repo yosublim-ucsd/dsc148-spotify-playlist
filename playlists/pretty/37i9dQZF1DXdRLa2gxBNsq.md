@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: Lendakaris Muertos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,099 likes - 90 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,144 likes - 90 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 37 | [Preso 2023](https://open.spotify.com/track/6gnqolg2ERx8i5GAGlYb0w) | [Kaotiko](https://open.spotify.com/artist/1XwQSgy1ZYGHw8ZryGbT2S) | [Raska Y Pierde](https://open.spotify.com/album/3hYROJXYVEmFZrDJEYAqmH) | 3:30 |
 | 38 | [Ante la Muerte](https://open.spotify.com/track/05bsH5Fb8aCb5gOdDLwj3b) | [Kaos Urbano](https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4) | [Suburbiales](https://open.spotify.com/album/6Iujfr9lJkl5hj9yk8XT4A) | 3:20 |
 | 39 | [Por Lo Visto](https://open.spotify.com/track/0UDHol0olHHNPJVOtPs9rT) | [Envidia Kotxina](https://open.spotify.com/artist/0ecMaXEm4sV6sndUYsyvmU) | [Cuando las Bocas Comen Silencio](https://open.spotify.com/album/501pjNhzQYeXfVJfkdRnL9) | 3:14 |
-| 40 | [La Última Patada](https://open.spotify.com/track/0QobiDnqGnnbbW8Duu9j90) | [Gatillazo](https://open.spotify.com/artist/3XrunnoiCGkRTanrnsPRam) | [Siglo XXI](https://open.spotify.com/album/2fwFXVTTeMyJj7IbIoFQZy) | 3:12 |
-| 41 | [Criatura](https://open.spotify.com/track/4lpFfUzN3Tss3XrtCj3Gc9) | [Non Servium](https://open.spotify.com/artist/3xyRzXuv0vKb4kCzVhqAbS) | [Criatura](https://open.spotify.com/album/3VnnePO0pWXdHCS1fBbNar) | 2:39 |
+| 40 | [Criatura](https://open.spotify.com/track/4lpFfUzN3Tss3XrtCj3Gc9) | [Non Servium](https://open.spotify.com/artist/3xyRzXuv0vKb4kCzVhqAbS) | [Criatura](https://open.spotify.com/album/3VnnePO0pWXdHCS1fBbNar) | 2:39 |
+| 41 | [La Última Patada](https://open.spotify.com/track/0QobiDnqGnnbbW8Duu9j90) | [Gatillazo](https://open.spotify.com/artist/3XrunnoiCGkRTanrnsPRam) | [Siglo XXI](https://open.spotify.com/album/2fwFXVTTeMyJj7IbIoFQZy) | 3:12 |
 | 42 | [Lola](https://open.spotify.com/track/150HpH0TzhcVwKASywBPs5) | [Cicatriz](https://open.spotify.com/artist/7f3sBMcnvGfOkHiKmeXtIz) | [4 Años, 2 Meses y 1 Día](https://open.spotify.com/album/5MbsgT9tlRbyZEMZzFS2y1) | 3:40 |
 | 43 | [Historia triste](https://open.spotify.com/track/0DJLkaZlg6JbwAg9VZzbYq) | [Eskorbuto](https://open.spotify.com/artist/3AXQ8iTveAp1uA5NlbK8qb) | [Impuesto Revolucionario](https://open.spotify.com/album/7iA4YreHDh5ozVdpg4kZcm) | 3:07 |
 | 44 | [Don Vito y la Revuelta en el Frenopático](https://open.spotify.com/track/4EBFU2ujZgudwRUsi588jo) | [Kortatu](https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann) | [A Frontline Compilation](https://open.spotify.com/album/2GUirHCExX549jcIgaYWKO) | 1:52 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 52 | [Resistiré \- En Directo](https://open.spotify.com/track/60qqPA0MLA1KgMCyinwjIW) | [Los Muertos de Cristo](https://open.spotify.com/artist/3kB55UDQKH1NV9TLKWgE8p) | [Bienvenidos al Infierno \(En Directo\)](https://open.spotify.com/album/4YFrai6oEA49jgPxPbpnt7) | 3:47 |
 | 53 | [Enemigo Publico](https://open.spotify.com/track/2U79EanNfw7bRqC68Jnfgf) | [Cicatriz](https://open.spotify.com/artist/7f3sBMcnvGfOkHiKmeXtIz) | [Inadaptados](https://open.spotify.com/album/27KSLddcDyno8Wm3kYweQV) | 2:38 |
 | 54 | [Empacho de Orfidal](https://open.spotify.com/track/6vbkhHC2YifNfPZFgRTmfs) | [El Último Ke Zierre](https://open.spotify.com/artist/0sT70rawlW3M0BbnKdxdJC) | [El Mutante del Barrio Chino](https://open.spotify.com/album/0IzirXfpxJt753nbjyMV7j) | 3:12 |
-| 55 | [El Mesías](https://open.spotify.com/track/22M4EmsybRYNbrlOSFffG7) | [Arpaviejas](https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA) | [Ladrón de Almas](https://open.spotify.com/album/6NxQYmLaVay641q8RtK37A) | 3:14 |
-| 56 | [Killer](https://open.spotify.com/track/4mbzjrFyniK1qqgWgpEsgL) | [Non Servium](https://open.spotify.com/artist/3xyRzXuv0vKb4kCzVhqAbS) | [Criatura](https://open.spotify.com/album/3VnnePO0pWXdHCS1fBbNar) | 3:26 |
+| 55 | [Killer](https://open.spotify.com/track/4mbzjrFyniK1qqgWgpEsgL) | [Non Servium](https://open.spotify.com/artist/3xyRzXuv0vKb4kCzVhqAbS) | [Criatura](https://open.spotify.com/album/3VnnePO0pWXdHCS1fBbNar) | 3:26 |
+| 56 | [El Mesías](https://open.spotify.com/track/22M4EmsybRYNbrlOSFffG7) | [Arpaviejas](https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA) | [Ladrón de Almas](https://open.spotify.com/album/6NxQYmLaVay641q8RtK37A) | 3:14 |
 | 57 | [Mucha Policía, Poca Diversión](https://open.spotify.com/track/75sT5MajoXIj5uviuKaAmF) | [Eskorbuto](https://open.spotify.com/artist/3AXQ8iTveAp1uA5NlbK8qb) | [Eskizofrenia](https://open.spotify.com/album/1ASN9C5KKT8pbqH7KxVH2l) | 1:33 |
 | 58 | [Tenemos a la Pasma](https://open.spotify.com/track/2yGO1zOQ3psTV42DxtzF85) | [Lendakaris Muertos](https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc) | [Cicatriz en la Matrix](https://open.spotify.com/album/51o67b23wyqqkYGN738zMG) | 1:58 |
 | 59 | [Señoras y Señores](https://open.spotify.com/track/0xyhHET6yRf0GQyEH6yexU) | [Sonotones](https://open.spotify.com/artist/1R7Qi5gy56OoJ8yG6cfJWU) | [No Hay Futuro](https://open.spotify.com/album/5Evysq6CtQKeK5fCXtqCjz) | 3:31 |
@@ -82,16 +82,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 72 | [Y Sigo en Pie](https://open.spotify.com/track/0XozUY7OB1r1bLcZV26iHp) | [Skontra](https://open.spotify.com/artist/3HlwB3k98CWsCN3o6nxQPi), [Odio Visceral](https://open.spotify.com/artist/2lwEjYspY5gmirh0mSmliA) | [Semeya de la Rabia](https://open.spotify.com/album/0jexOHFXIH5oUghZyrCWBN) | 4:02 |
 | 73 | [Nos Engañan](https://open.spotify.com/track/0l55TBWYpX12SZ0hWS0Vch) | [Parabellum](https://open.spotify.com/artist/0JbJ9sG3cB719QmmkIRTPQ) | [No Hay Opción](https://open.spotify.com/album/7ndpOGCY0VD7psI6RWg47M) | 3:06 |
 | 74 | [Ke Felicidad!](https://open.spotify.com/track/4Nx42MOIDpTxIqbik0zuCk) | [Discordia](https://open.spotify.com/artist/6COIQdML2EH50MNUYjzcaG) | [Versos de Rabia](https://open.spotify.com/album/6CbReCJ1l2o2Mwu2Matrq2) | 3:37 |
-| 75 | [Txus](https://open.spotify.com/track/2PsfVFoxML7Cqa5E66GKO8) | [Kojon Prieto y los Huajolotes](https://open.spotify.com/artist/7JQaCBrVLPIjr2mZq2hx5h) | [Síganle compadres](https://open.spotify.com/album/1AoAcFTJMxJSjxnXAecHZG) | 2:35 |
-| 76 | [Camela or Die 2.0](https://open.spotify.com/track/0JM8G9uBHKuXZF33JDK8aH) | [Me Fritos and the Gimme Cheetos](https://open.spotify.com/artist/29Ur1r8tVRPLl6TcppRLkr) | [Camela or Die 2.0](https://open.spotify.com/album/0KQsewvuOlmVHhxisVupVb) | 2:59 |
+| 75 | [Camela or Die 2.0](https://open.spotify.com/track/0JM8G9uBHKuXZF33JDK8aH) | [Me Fritos and the Gimme Cheetos](https://open.spotify.com/artist/29Ur1r8tVRPLl6TcppRLkr) | [Camela or Die 2.0](https://open.spotify.com/album/0KQsewvuOlmVHhxisVupVb) | 2:59 |
+| 76 | [Txus](https://open.spotify.com/track/2PsfVFoxML7Cqa5E66GKO8) | [Kojon Prieto y los Huajolotes](https://open.spotify.com/artist/7JQaCBrVLPIjr2mZq2hx5h) | [Síganle compadres](https://open.spotify.com/album/1AoAcFTJMxJSjxnXAecHZG) | 2:35 |
 | 77 | [Froilán de Todos los Antros](https://open.spotify.com/track/2532AJjI6LDDL9Ybz8Sl7k) | [Fuckop Family](https://open.spotify.com/artist/0b4TqnnddOeTOuGaWV0KRe), [Lendakaris Muertos](https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc) | [Froilán de Todos los Antros](https://open.spotify.com/album/0hhFWgkYXpVX1kFrmqksLE) | 3:40 |
 | 78 | [Noche Molona](https://open.spotify.com/track/6rjOCHV71E19A3mq6I1ZzI) | [Tu Madre Es Puta](https://open.spotify.com/artist/5SGCYqP9PN2R85WfA0yjPu) | [Noche Molona](https://open.spotify.com/album/0koYvQafHxEe9Eu8CcWTxU) | 2:58 |
 | 79 | [Amor frenopático](https://open.spotify.com/track/6YjmFAhmoUJydfvpDj0PMT) | [Comando 9mm](https://open.spotify.com/artist/4ysg7aP5WvMZge41OoKKHa) | [Camino hacia la ruina](https://open.spotify.com/album/7z6A7KRuF72XBB8VcvUbIh) | 4:45 |
 | 80 | [No es la primera vez que pasa](https://open.spotify.com/track/4IEUNHdJ55wvFkpfRpIdbs) | [mis amigas fuman todas](https://open.spotify.com/artist/7KdIqg2BmTqrSTJm19a8me) | [No es la primera vez que pasa](https://open.spotify.com/album/6V0HmOz23W95AM8BDhRpsU) | 2:07 |
 | 81 | [Gernika](https://open.spotify.com/track/2U24O0XkSyQ36T8yMnaeDp) | [M.C.D.](https://open.spotify.com/artist/2sKHlDMJUO4uCZLsEmcun3) | [Jódete](https://open.spotify.com/album/1AQXxv2pGU4QSh6v34FufL) | 3:47 |
 | 82 | [Maki Navaja, El Último Chorisso](https://open.spotify.com/track/2hK8ZAY2KgCbla7iZdOyhR) | [Tijuana in blue](https://open.spotify.com/artist/35LHJRKlkpHkACfkoyqqT4) | [A Bocajarro + Sopla Sopla](https://open.spotify.com/album/2QoZ36rmjP1gyQIQ2aAB9r) | 4:49 |
-| 83 | [No Olvidamos, 3 de Marzo](https://open.spotify.com/track/4l7gui5pGuOs7sHLkGqeCX) | [Soziedad Alkoholika](https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3) | [No Olvidamos, 3 de Marzo \- Single](https://open.spotify.com/album/0p3A6vidvVSIaA8lXxATVE) | 3:51 |
-| 84 | [Gasolina](https://open.spotify.com/track/1HlANSSpEaisMWmuLcRcEP) | [Laura Dsk](https://open.spotify.com/artist/1nsSJtfNANGtgfpp5IX0kB), [RADIOCRIMEN](https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK) | [Gasolina](https://open.spotify.com/album/16IoHHDc5YXL63cSPBg3n4) | 3:11 |
+| 83 | [Gasolina](https://open.spotify.com/track/1HlANSSpEaisMWmuLcRcEP) | [Laura Dsk](https://open.spotify.com/artist/1nsSJtfNANGtgfpp5IX0kB), [RADIOCRIMEN](https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK) | [Gasolina](https://open.spotify.com/album/16IoHHDc5YXL63cSPBg3n4) | 3:11 |
+| 84 | [No Olvidamos, 3 de Marzo](https://open.spotify.com/track/4l7gui5pGuOs7sHLkGqeCX) | [Soziedad Alkoholika](https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3) | [No Olvidamos, 3 de Marzo \- Single](https://open.spotify.com/album/0p3A6vidvVSIaA8lXxATVE) | 3:51 |
 | 85 | [Todos Mis Enemigos Se Llaman Cayetano](https://open.spotify.com/track/2DBfn7HocTGusEpvCr0xQc) | [Lendakaris Muertos](https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc) | [Todos Mis Enemigos Se Llaman Cayetano](https://open.spotify.com/album/4vRnzZz0zMqGjYpQzOQNZL) | 0:57 |
 | 86 | [Ellos Dicen Mierda \(Live\)](https://open.spotify.com/track/4ZhVqaagIdAhVswRMxkUTl) | [La Polla](https://open.spotify.com/artist/1hUMfVjUdE0cymGOv2J70J) | [Punk Latino Vol\. 1](https://open.spotify.com/album/1FOLdlGQrTwxpA7nhGd4zN) | 4:26 |
 | 87 | [Reino Sin Futuro](https://open.spotify.com/track/3z4RWsGoalHEUkzMJqb1B6) | [Eskorbuto](https://open.spotify.com/artist/3AXQ8iTveAp1uA5NlbK8qb) | [Reino Sin Futuro](https://open.spotify.com/album/40VVUxVi7onk4QfvdYRoqZ) | 3:12 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 89 | [Cuidado](https://open.spotify.com/track/2iq7umXGuvE09C6pdWq2pN) | [Zirrosis](https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ) | [Cuidado](https://open.spotify.com/album/00IQFRHhExjBgNSq2bWCz8) | 2:57 |
 | 90 | [All Cayetanos Are Bastards](https://open.spotify.com/track/7zlGLO9CuP87PAqkthjoFj) | [Lo Blanco Del Jamón](https://open.spotify.com/artist/1mTe6RvJvqSRZPKhRMd9gR) | [All Cayetanos Are Bastards](https://open.spotify.com/album/30MZ64Kx7H1eNkGvXa898t) | 2:40 |
 
-Snapshot ID: `MCxkYWI0MzNkOTBlMDEyY2JhZmYzMTJkYzhhOWNmZGY1NzFlYzM4NzQz`
+Snapshot ID: `MCxhMzU1N2U5MGUzNzVmZDFiMDBlZGQ0YjM2ZjRkODc4Y2MyMzUwNmU5`

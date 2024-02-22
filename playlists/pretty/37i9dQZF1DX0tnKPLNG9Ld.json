@@ -1,12 +1,12 @@
 {
   "description": "Blue skies, nothing but blue skies. Sun in your eyes and uplifting jazz in your ears on a sunny day.",
-  "num_followers": 81241,
+  "num_followers": 81290,
   "original_name": "Sunny Day Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMmVkYmFiYzExZDU2NDVjNGM5MTY3NzIwOTNkYzgxOGIzNGRjMTAw",
+  "snapshot_id": "MCw1MzBjNDI3ODE0NDNhYTRhZmUzYWEwZGEzM2I2OWE2MGQyNGI5ZTVm",
   "tracks": [
     {
       "added_at": "2024-02-01 14:37:51",
@@ -507,18 +507,18 @@
     {
       "added_at": "2024-02-01 14:37:51",
       "album": {
-        "name": "Lady Sings The Blues",
-        "url": "https://open.spotify.com/album/4Es5UWdUtj8CYn99AqCWPo"
+        "name": "Julian \"Cannonball\" Adderley",
+        "url": "https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8"
       },
       "artists": [
         {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
         }
       ],
-      "duration_ms": 132160,
-      "name": "Too Marvelous For Words",
-      "url": "https://open.spotify.com/track/2XOXYNVmg0Mpm6WlLC0LHx"
+      "duration_ms": 254800,
+      "name": "Cannonball",
+      "url": "https://open.spotify.com/track/1jWOaHSKT7CUcBuLdIcOTp"
     },
     {
       "added_at": "2024-02-01 14:37:51",
@@ -539,18 +539,18 @@
     {
       "added_at": "2024-02-01 14:37:51",
       "album": {
-        "name": "Julian \"Cannonball\" Adderley",
-        "url": "https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8"
+        "name": "Lady Sings The Blues",
+        "url": "https://open.spotify.com/album/4Es5UWdUtj8CYn99AqCWPo"
       },
       "artists": [
         {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 254800,
-      "name": "Cannonball",
-      "url": "https://open.spotify.com/track/1jWOaHSKT7CUcBuLdIcOTp"
+      "duration_ms": 132160,
+      "name": "Too Marvelous For Words",
+      "url": "https://open.spotify.com/track/2XOXYNVmg0Mpm6WlLC0LHx"
     },
     {
       "added_at": "2024-02-01 14:37:51",
@@ -619,26 +619,6 @@
     {
       "added_at": "2024-02-01 14:37:51",
       "album": {
-        "name": "A Musical Romance",
-        "url": "https://open.spotify.com/album/4WmDWM4jSLl3EcJ716V1cu"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        },
-        {
-          "name": "Teddy Wilson",
-          "url": "https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii"
-        }
-      ],
-      "duration_ms": 169466,
-      "name": "When You're Smiling (The Whole World Smiles with You) (with Teddy Wilson & His Orchestra) - Take 3",
-      "url": "https://open.spotify.com/track/61rbcfCY9ldEZYGCzpvfSt"
-    },
-    {
-      "added_at": "2024-02-01 14:37:51",
-      "album": {
         "name": "Anita",
         "url": "https://open.spotify.com/album/5ytkuJciMwGDXwQeLWbHCw"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 142400,
       "name": "Oh! Look At Me Now",
       "url": "https://open.spotify.com/track/2QgtqdIQJTNhStSWal6ceV"
+    },
+    {
+      "added_at": "2024-02-01 14:37:51",
+      "album": {
+        "name": "A Musical Romance",
+        "url": "https://open.spotify.com/album/4WmDWM4jSLl3EcJ716V1cu"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        },
+        {
+          "name": "Teddy Wilson",
+          "url": "https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii"
+        }
+      ],
+      "duration_ms": 169466,
+      "name": "When You're Smiling (The Whole World Smiles with You) (with Teddy Wilson & His Orchestra) - Take 3",
+      "url": "https://open.spotify.com/track/61rbcfCY9ldEZYGCzpvfSt"
     },
     {
       "added_at": "2024-02-01 14:37:51",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-02-01 14:37:51",
       "album": {
-        "name": "When The Sun Goes Down",
-        "url": "https://open.spotify.com/album/14sPbP9XeguX4mUASLIXbY"
-      },
-      "artists": [
-        {
-          "name": "Ernestine Anderson",
-          "url": "https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T"
-        }
-      ],
-      "duration_ms": 299160,
-      "name": "I Love Being Here With You",
-      "url": "https://open.spotify.com/track/3WFAZyv15EVj2IHu3v4m9N"
-    },
-    {
-      "added_at": "2024-02-01 14:37:51",
-      "album": {
         "name": "Jazz Samba",
         "url": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom"
       },
@@ -791,22 +775,18 @@
     {
       "added_at": "2024-02-01 14:37:51",
       "album": {
-        "name": "Golden Girl (The Columbia Recordings 1944-1966)",
-        "url": "https://open.spotify.com/album/5Vck2QyeSlhWymxrnQWpoM"
+        "name": "When The Sun Goes Down",
+        "url": "https://open.spotify.com/album/14sPbP9XeguX4mUASLIXbY"
       },
       "artists": [
         {
-          "name": "Doris Day",
-          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
-        },
-        {
-          "name": "Harry James",
-          "url": "https://open.spotify.com/artist/5MpELOfAiq7aIBTij30phD"
+          "name": "Ernestine Anderson",
+          "url": "https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T"
         }
       ],
-      "duration_ms": 171666,
-      "name": "Lullaby of Broadway (with Harry James & His Orchestra) - Version 2",
-      "url": "https://open.spotify.com/track/0qPeyVfebszZcHTUc48Lzl"
+      "duration_ms": 299160,
+      "name": "I Love Being Here With You",
+      "url": "https://open.spotify.com/track/3WFAZyv15EVj2IHu3v4m9N"
     },
     {
       "added_at": "2024-02-01 14:37:51",
@@ -823,6 +803,26 @@
       "duration_ms": 174641,
       "name": "Wandering - Remastered",
       "url": "https://open.spotify.com/track/2bKQdj9DjUQT9q8OvTgCM2"
+    },
+    {
+      "added_at": "2024-02-01 14:37:51",
+      "album": {
+        "name": "Golden Girl (The Columbia Recordings 1944-1966)",
+        "url": "https://open.spotify.com/album/5Vck2QyeSlhWymxrnQWpoM"
+      },
+      "artists": [
+        {
+          "name": "Doris Day",
+          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
+        },
+        {
+          "name": "Harry James",
+          "url": "https://open.spotify.com/artist/5MpELOfAiq7aIBTij30phD"
+        }
+      ],
+      "duration_ms": 171666,
+      "name": "Lullaby of Broadway (with Harry James & His Orchestra) - Version 2",
+      "url": "https://open.spotify.com/track/0qPeyVfebszZcHTUc48Lzl"
     },
     {
       "added_at": "2024-02-01 14:37:51",

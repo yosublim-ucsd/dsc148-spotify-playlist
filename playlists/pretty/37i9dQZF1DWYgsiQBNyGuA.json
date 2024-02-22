@@ -1,12 +1,12 @@
 {
   "description": "Soul to brighten up your day.",
-  "num_followers": 76647,
+  "num_followers": 76697,
   "original_name": "Soulful Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZmVmODk2ZjdjZWEyNGIyNTNhOGVjNzA4OTEyMGEwZjJjMWRjOGZh",
+  "snapshot_id": "MCw3NTk2YmE1ZTQ2ODk3OTdmMzQ2ZTBlZjJjNjY3NDZmN2IzMmZlZTZi",
   "tracks": [
     {
       "added_at": "2024-02-09 10:33:06",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-02-09 10:33:06",
       "album": {
-        "name": "BLACCJACK THE MAC",
-        "url": "https://open.spotify.com/album/5oPnNNKhqzuQwH9EjDdNVM"
-      },
-      "artists": [
-        {
-          "name": "Jordan Mackampa",
-          "url": "https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST"
-        }
-      ],
-      "duration_ms": 137079,
-      "name": "BLACCJACK THE MAC",
-      "url": "https://open.spotify.com/track/6EVbdSYP4HHdUT06ZFi7Wk"
-    },
-    {
-      "added_at": "2024-02-09 10:33:06",
-      "album": {
         "name": "Rahsaan Patterson",
         "url": "https://open.spotify.com/album/1uMPGRwlgCjpIxjGTjg93c"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 293400,
       "name": "Spend The Night",
       "url": "https://open.spotify.com/track/14VwBAL1qSlG4ovOSYUQF4"
+    },
+    {
+      "added_at": "2024-02-09 10:33:06",
+      "album": {
+        "name": "BLACCJACK THE MAC",
+        "url": "https://open.spotify.com/album/5oPnNNKhqzuQwH9EjDdNVM"
+      },
+      "artists": [
+        {
+          "name": "Jordan Mackampa",
+          "url": "https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST"
+        }
+      ],
+      "duration_ms": 137079,
+      "name": "BLACCJACK THE MAC",
+      "url": "https://open.spotify.com/track/6EVbdSYP4HHdUT06ZFi7Wk"
     },
     {
       "added_at": "2024-02-09 10:33:06",
@@ -1071,6 +1071,26 @@
     {
       "added_at": "2024-02-09 10:33:06",
       "album": {
+        "name": "Durand Jones & The Indications",
+        "url": "https://open.spotify.com/album/3JGHzHtOvRb5ye7YBmmDme"
+      },
+      "artists": [
+        {
+          "name": "Durand Jones & The Indications",
+          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
+        },
+        {
+          "name": "Durand Jones",
+          "url": "https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs"
+        }
+      ],
+      "duration_ms": 229403,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/12GZjzbMyuHyWQTrLvNmtG"
+    },
+    {
+      "added_at": "2024-02-09 10:33:06",
+      "album": {
         "name": "Emma Jean",
         "url": "https://open.spotify.com/album/3u38Zm1pGlCrGZSsUk2396"
       },
@@ -1087,26 +1107,6 @@
       "duration_ms": 214062,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/2mGWmvIIvs7jKEXxyh7Wfb"
-    },
-    {
-      "added_at": "2024-02-09 10:33:06",
-      "album": {
-        "name": "All Your Love",
-        "url": "https://open.spotify.com/album/3owhRoShVOJ29xOAgoLG8w"
-      },
-      "artists": [
-        {
-          "name": "Nathan Johnston",
-          "url": "https://open.spotify.com/artist/6Vz8qpQ7nZNOlhmTU0Ibwb"
-        },
-        {
-          "name": "Angels Of Libra",
-          "url": "https://open.spotify.com/artist/3u6psmBj8ZGKHKRTHUGBDL"
-        }
-      ],
-      "duration_ms": 214517,
-      "name": "All Your Love - Single Edit",
-      "url": "https://open.spotify.com/track/0DS0qQnq5jxPlePtWFfVMI"
     },
     {
       "added_at": "2024-02-09 10:33:06",
@@ -1139,6 +1139,26 @@
       "duration_ms": 214666,
       "name": "Movin' On",
       "url": "https://open.spotify.com/track/7uqDPKBvbsyFigZjaS9wHn"
+    },
+    {
+      "added_at": "2024-02-09 10:33:06",
+      "album": {
+        "name": "All Your Love",
+        "url": "https://open.spotify.com/album/3owhRoShVOJ29xOAgoLG8w"
+      },
+      "artists": [
+        {
+          "name": "Nathan Johnston",
+          "url": "https://open.spotify.com/artist/6Vz8qpQ7nZNOlhmTU0Ibwb"
+        },
+        {
+          "name": "Angels Of Libra",
+          "url": "https://open.spotify.com/artist/3u6psmBj8ZGKHKRTHUGBDL"
+        }
+      ],
+      "duration_ms": 214517,
+      "name": "All Your Love - Single Edit",
+      "url": "https://open.spotify.com/track/0DS0qQnq5jxPlePtWFfVMI"
     },
     {
       "added_at": "2024-02-09 10:33:06",
@@ -1207,42 +1227,6 @@
     {
       "added_at": "2024-02-09 10:33:06",
       "album": {
-        "name": "Take from Me",
-        "url": "https://open.spotify.com/album/20e8oP5W0209A6D87lTzB3"
-      },
-      "artists": [
-        {
-          "name": "Dojo Cuts",
-          "url": "https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL"
-        },
-        {
-          "name": "Roxie Ray",
-          "url": "https://open.spotify.com/artist/6ZbBl2PqUW7wMAU2DnsDCG"
-        }
-      ],
-      "duration_ms": 269706,
-      "name": "Lift Me Up",
-      "url": "https://open.spotify.com/track/1uyj6ycPIp7i907LsGbUmA"
-    },
-    {
-      "added_at": "2024-02-09 10:33:06",
-      "album": {
-        "name": "Special Night",
-        "url": "https://open.spotify.com/album/02j4VRhJ7MKK0Jf3FtBBsD"
-      },
-      "artists": [
-        {
-          "name": "Lee Fields & The Expressions",
-          "url": "https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K"
-        }
-      ],
-      "duration_ms": 278160,
-      "name": "Precious Love",
-      "url": "https://open.spotify.com/track/4LpFfd70HLdNIoVXZplfxH"
-    },
-    {
-      "added_at": "2024-02-09 10:33:06",
-      "album": {
         "name": "Next To You",
         "url": "https://open.spotify.com/album/4QrSU9pX2FzV2vc6vj19Fl"
       },
@@ -1259,18 +1243,34 @@
     {
       "added_at": "2024-02-09 10:33:06",
       "album": {
-        "name": "A Love Story",
-        "url": "https://open.spotify.com/album/2M5NsF6DS8Uemk6WcMewV4"
+        "name": "My Home (Love Brings Us Here) - Single",
+        "url": "https://open.spotify.com/album/1qsxuAF1ujU6tjtAIYRpqB"
       },
       "artists": [
         {
-          "name": "Vivian Green",
-          "url": "https://open.spotify.com/artist/3t83f2J04dRWOpNBe9GTfs"
+          "name": "Jon Mero",
+          "url": "https://open.spotify.com/artist/6MuZFI7KLPBjhmgkkX5LPf"
         }
       ],
-      "duration_ms": 244840,
-      "name": "Wishful Thinking",
-      "url": "https://open.spotify.com/track/0edULMXqdv4qV7CcJ6Obvd"
+      "duration_ms": 213983,
+      "name": "My Home (Love Brings Us Here)",
+      "url": "https://open.spotify.com/track/425RXHH1ByViVaSslgfg0V"
+    },
+    {
+      "added_at": "2024-02-09 10:33:06",
+      "album": {
+        "name": "Special Night",
+        "url": "https://open.spotify.com/album/02j4VRhJ7MKK0Jf3FtBBsD"
+      },
+      "artists": [
+        {
+          "name": "Lee Fields & The Expressions",
+          "url": "https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K"
+        }
+      ],
+      "duration_ms": 278160,
+      "name": "Precious Love",
+      "url": "https://open.spotify.com/track/4LpFfd70HLdNIoVXZplfxH"
     },
     {
       "added_at": "2024-02-09 10:33:06",
@@ -1295,18 +1295,38 @@
     {
       "added_at": "2024-02-09 10:33:06",
       "album": {
-        "name": "My Home (Love Brings Us Here) - Single",
-        "url": "https://open.spotify.com/album/1qsxuAF1ujU6tjtAIYRpqB"
+        "name": "Take from Me",
+        "url": "https://open.spotify.com/album/20e8oP5W0209A6D87lTzB3"
       },
       "artists": [
         {
-          "name": "Jon Mero",
-          "url": "https://open.spotify.com/artist/6MuZFI7KLPBjhmgkkX5LPf"
+          "name": "Dojo Cuts",
+          "url": "https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL"
+        },
+        {
+          "name": "Roxie Ray",
+          "url": "https://open.spotify.com/artist/6ZbBl2PqUW7wMAU2DnsDCG"
         }
       ],
-      "duration_ms": 213983,
-      "name": "My Home (Love Brings Us Here)",
-      "url": "https://open.spotify.com/track/425RXHH1ByViVaSslgfg0V"
+      "duration_ms": 269706,
+      "name": "Lift Me Up",
+      "url": "https://open.spotify.com/track/1uyj6ycPIp7i907LsGbUmA"
+    },
+    {
+      "added_at": "2024-02-09 10:33:06",
+      "album": {
+        "name": "A Love Story",
+        "url": "https://open.spotify.com/album/2M5NsF6DS8Uemk6WcMewV4"
+      },
+      "artists": [
+        {
+          "name": "Vivian Green",
+          "url": "https://open.spotify.com/artist/3t83f2J04dRWOpNBe9GTfs"
+        }
+      ],
+      "duration_ms": 244840,
+      "name": "Wishful Thinking",
+      "url": "https://open.spotify.com/track/0edULMXqdv4qV7CcJ6Obvd"
     },
     {
       "added_at": "2024-02-09 10:33:06",
@@ -1339,22 +1359,6 @@
       "duration_ms": 265560,
       "name": "All For Love",
       "url": "https://open.spotify.com/track/6vU8If1zpZDzYQdTa2Rvgp"
-    },
-    {
-      "added_at": "2024-02-09 10:33:06",
-      "album": {
-        "name": "Stand Up",
-        "url": "https://open.spotify.com/album/07bddfiyAYcp3Gwp1AgDnn"
-      },
-      "artists": [
-        {
-          "name": "Steffen Morrison",
-          "url": "https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r"
-        }
-      ],
-      "duration_ms": 175829,
-      "name": "Stand Up",
-      "url": "https://open.spotify.com/track/2AOCiU18f4kuZMltkR8cgh"
     }
   ],
   "unique_name": "Soulful Day",

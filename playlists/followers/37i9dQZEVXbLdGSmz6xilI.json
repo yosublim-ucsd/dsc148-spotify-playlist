@@ -1,5 +1,5 @@
 {
-  "2024-02-21": 89818,
+  "2024-02-22": 89869,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Vietnam.",
   "name": "Top 50 - Vietnam",
@@ -5095,7 +5095,7 @@
       ],
       "date_added": "2024-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-20",
+      "date_removed": null,
       "duration_ms": 210944,
       "name": "D\u00e2n Ch\u01a1i Sao Ph\u1ea3i Kh\u00f3c",
       "url": "https://open.spotify.com/track/0dBKcPEAsdxWJsqNDNHcPz"
@@ -11771,10 +11771,36 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 214701,
       "name": "on the street (with J. Cole)",
       "url": "https://open.spotify.com/track/5wxYxygyHpbgv0EXZuqb9V"
+    },
+    {
+      "album": {
+        "name": "The Highlights (Deluxe)",
+        "url": "https://open.spotify.com/album/18sR8zHx4zsVJUI4bHWuPC"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Lily-Rose Depp",
+          "url": "https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244684,
+      "name": "One Of The Girls (with JENNIE, Lily Rose Depp)",
+      "url": "https://open.spotify.com/track/1VNWdmXSbaNrnWod10WIL0"
     },
     {
       "album": {
@@ -13125,7 +13151,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 278732,
       "name": "R\u1ed3i Ta S\u1ebd Ng\u1eafm Ph\u00e1o Hoa C\u00f9ng Nhau",
       "url": "https://open.spotify.com/track/3a2Oftcs10wtzw6AmxuTMU"

@@ -1,12 +1,12 @@
 {
   "description": "Celebrando a los m\u00fasicos Afro-Latinos. Cover: Tego Calderon",
-  "num_followers": 51077,
+  "num_followers": 51100,
   "original_name": "Orgullo Afro-Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZmU1YWE0OGI0MTNlNWY2MGYxYjQyOTJkNzRiOTMwMzQzNGI5MWM4",
+  "snapshot_id": "MCxjYzE4YjViOTg3MzVlYjliZTQ1YTc3Mjc1YTViNGViY2FmZDJlZDAz",
   "tracks": [
     {
       "added_at": "2023-06-20 14:37:46",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
+        "name": "Haters y Fan\u00e1ticos",
+        "url": "https://open.spotify.com/album/5ozdJlbZNDyinRp5MGXqsb"
+      },
+      "artists": [
+        {
+          "name": "Akim",
+          "url": "https://open.spotify.com/artist/2y0XUKKpAeeGyQ5ND7dTY3"
+        }
+      ],
+      "duration_ms": 180853,
+      "name": "Fettuccine",
+      "url": "https://open.spotify.com/track/3Y21rqKVb3Rqf7FjRCK2EB"
+    },
+    {
+      "added_at": "2023-06-20 14:37:46",
+      "album": {
         "name": "Mismo De Antes",
         "url": "https://open.spotify.com/album/7K1G6hWjrZF7bJqMr4R1Tz"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 235462,
       "name": "Mismo De Antes",
       "url": "https://open.spotify.com/track/0e3pNr8A7NEAb9ItjHLlfb"
-    },
-    {
-      "added_at": "2023-06-20 14:37:46",
-      "album": {
-        "name": "Haters y Fan\u00e1ticos",
-        "url": "https://open.spotify.com/album/5ozdJlbZNDyinRp5MGXqsb"
-      },
-      "artists": [
-        {
-          "name": "Akim",
-          "url": "https://open.spotify.com/artist/2y0XUKKpAeeGyQ5ND7dTY3"
-        }
-      ],
-      "duration_ms": 180853,
-      "name": "Fettuccine",
-      "url": "https://open.spotify.com/track/3Y21rqKVb3Rqf7FjRCK2EB"
     },
     {
       "added_at": "2023-06-20 14:37:46",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
+        "name": "Duelo",
+        "url": "https://open.spotify.com/album/6TztCAG3KjvaQXkpi7Wx2L"
+      },
+      "artists": [
+        {
+          "name": "Nino Augustine",
+          "url": "https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU"
+        }
+      ],
+      "duration_ms": 159218,
+      "name": "Duelo",
+      "url": "https://open.spotify.com/track/23fULt6bWn6VC58bKZQSVj"
+    },
+    {
+      "added_at": "2023-06-20 14:37:46",
+      "album": {
         "name": "Los Rakas",
         "url": "https://open.spotify.com/album/2XhwBrlb6fNfro8uAoRu9M"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 176333,
       "name": "Raka Party",
       "url": "https://open.spotify.com/track/1zowgdEGsip4CUpyZI6nuN"
-    },
-    {
-      "added_at": "2023-06-20 14:37:46",
-      "album": {
-        "name": "Duelo",
-        "url": "https://open.spotify.com/album/6TztCAG3KjvaQXkpi7Wx2L"
-      },
-      "artists": [
-        {
-          "name": "Nino Augustine",
-          "url": "https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU"
-        }
-      ],
-      "duration_ms": 159218,
-      "name": "Duelo",
-      "url": "https://open.spotify.com/track/23fULt6bWn6VC58bKZQSVj"
     },
     {
       "added_at": "2023-06-20 14:37:46",

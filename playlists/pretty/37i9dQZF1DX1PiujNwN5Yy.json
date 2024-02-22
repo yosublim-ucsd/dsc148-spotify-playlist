@@ -1,12 +1,12 @@
 {
   "description": "Sad songs just 4 you para los d\u00edas tristes.",
-  "num_followers": 111244,
+  "num_followers": 111247,
   "original_name": "gris",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MTY2OWMzYjI5YzlhMDc4ZjIwMjlhZDg2OGVkYjI5NWQwMTg4MGI2",
+  "snapshot_id": "MCxhNmFmMDQ5MmU1NzFjNjAxMDFlNTg4YTVkZjY4Y2EwYWIzYzA4ZjQ4",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -175,18 +175,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "ARRANCARMELO",
-        "url": "https://open.spotify.com/album/4KFUPud6oSm5IgLwnGkzPt"
+        "name": "El Mismo Aire (con Pablo Albor\u00e1n)",
+        "url": "https://open.spotify.com/album/3E3coJkwv6rbqUTiw1qLZ6"
       },
       "artists": [
         {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
         }
       ],
-      "duration_ms": 183547,
-      "name": "ARRANCARMELO",
-      "url": "https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b"
+      "duration_ms": 188213,
+      "name": "El Mismo Aire - con Pablo Albor\u00e1n",
+      "url": "https://open.spotify.com/track/5EbtodsuLbxrFDH6j5avVS"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -207,22 +211,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "El Mismo Aire (con Pablo Albor\u00e1n)",
-        "url": "https://open.spotify.com/album/3E3coJkwv6rbqUTiw1qLZ6"
+        "name": "ARRANCARMELO",
+        "url": "https://open.spotify.com/album/4KFUPud6oSm5IgLwnGkzPt"
       },
       "artists": [
         {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
         }
       ],
-      "duration_ms": 188213,
-      "name": "El Mismo Aire - con Pablo Albor\u00e1n",
-      "url": "https://open.spotify.com/track/5EbtodsuLbxrFDH6j5avVS"
+      "duration_ms": 183547,
+      "name": "ARRANCARMELO",
+      "url": "https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Nada Es Igual",
+        "url": "https://open.spotify.com/album/4TouSDU0z4DXKuuheeCfZw"
+      },
+      "artists": [
+        {
+          "name": "Karen M\u00e9ndez",
+          "url": "https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk"
+        }
+      ],
+      "duration_ms": 251640,
+      "name": "Nada Es Igual",
+      "url": "https://open.spotify.com/track/4CKntyb4V1au0i1ieEfapR"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "No Te Voy a Ver",
         "url": "https://open.spotify.com/album/2rJ63ANIeYtgVa6nOpPWSL"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 217399,
       "name": "No Te Voy a Ver",
       "url": "https://open.spotify.com/track/2ZW0ePHHbbFQp1mTL7d68Z"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Bolsas - C. Tangana",
-        "url": "https://open.spotify.com/album/6Cg69S5BKiWGtk66BD8Fl5"
-      },
-      "artists": [
-        {
-          "name": "Valdivia",
-          "url": "https://open.spotify.com/artist/622Gl6V4TWg2yWdsSsnx3q"
-        }
-      ],
-      "duration_ms": 236605,
-      "name": "Bolsas - C. Tangana",
-      "url": "https://open.spotify.com/track/28rRswMxvXAoN5ZPXHYFbk"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1503,18 +1503,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Nada Es Igual",
-        "url": "https://open.spotify.com/album/4TouSDU0z4DXKuuheeCfZw"
+        "name": "Bolsas - C. Tangana",
+        "url": "https://open.spotify.com/album/6Cg69S5BKiWGtk66BD8Fl5"
       },
       "artists": [
         {
-          "name": "Karen M\u00e9ndez",
-          "url": "https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk"
+          "name": "Valdivia",
+          "url": "https://open.spotify.com/artist/622Gl6V4TWg2yWdsSsnx3q"
         }
       ],
-      "duration_ms": 251640,
-      "name": "Nada Es Igual",
-      "url": "https://open.spotify.com/track/4CKntyb4V1au0i1ieEfapR"
+      "duration_ms": 236605,
+      "name": "Bolsas - C. Tangana",
+      "url": "https://open.spotify.com/track/28rRswMxvXAoN5ZPXHYFbk"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1627,18 +1627,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Amsterdam (Versi\u00f3n En Espa\u00f1ol)",
-        "url": "https://open.spotify.com/album/0wAVBk6Y3crq4Oy4g2pB4w"
+        "name": "La Canci\u00f3n",
+        "url": "https://open.spotify.com/album/0JKeAs7WGDWdoCjvdqgiKQ"
       },
       "artists": [
         {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+          "name": "Sebasti\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq"
+        },
+        {
+          "name": "Recoversi\u00f3n",
+          "url": "https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r"
         }
       ],
-      "duration_ms": 237518,
-      "name": "Amsterdam - Versi\u00f3n En Espa\u00f1ol",
-      "url": "https://open.spotify.com/track/3z452TQ2qNiuNtyn4OJSBj"
+      "duration_ms": 253910,
+      "name": "La Canci\u00f3n",
+      "url": "https://open.spotify.com/track/2p6vZOWwUYqlmnDGIaAl72"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1659,22 +1663,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "La Canci\u00f3n",
-        "url": "https://open.spotify.com/album/0JKeAs7WGDWdoCjvdqgiKQ"
+        "name": "Amsterdam (Versi\u00f3n En Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/0wAVBk6Y3crq4Oy4g2pB4w"
       },
       "artists": [
         {
-          "name": "Sebasti\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq"
-        },
-        {
-          "name": "Recoversi\u00f3n",
-          "url": "https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r"
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
         }
       ],
-      "duration_ms": 253910,
-      "name": "La Canci\u00f3n",
-      "url": "https://open.spotify.com/track/2p6vZOWwUYqlmnDGIaAl72"
+      "duration_ms": 237518,
+      "name": "Amsterdam - Versi\u00f3n En Espa\u00f1ol",
+      "url": "https://open.spotify.com/track/3z452TQ2qNiuNtyn4OJSBj"
     }
   ],
   "unique_name": "gris",

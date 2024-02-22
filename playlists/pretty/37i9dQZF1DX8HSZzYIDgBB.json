@@ -1,12 +1,12 @@
 {
   "description": "Ritmos c\u00e1lidos y alternativos para relajarte y tirarse bajo el sol #IndieTropical \ud83c\udf3a\u2600\ufe0f\ud83c\udf34\ud83c\udfb6 Jarina De Marco en portada.",
-  "num_followers": 36460,
+  "num_followers": 36469,
   "original_name": "tropic.alt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMmJhNzNjMTg4NWMyNDlkNWE5MzAwOWRjYWY5ODVjYTMwZTdiY2E0",
+  "snapshot_id": "MCxlYmYyNzUwNjMyOTE3ZmEwZjA4ZWMyMzgzYTU2ZjQwMzAxNzllNWRm",
   "tracks": [
     {
       "added_at": "2024-02-09 03:12:32",
@@ -233,20 +233,24 @@
       "url": "https://open.spotify.com/track/608EJ9ZzAa7eAeLwt3O3tw"
     },
     {
-      "added_at": "2023-05-05 23:46:53",
+      "added_at": "2023-05-26 18:30:42",
       "album": {
-        "name": "atravesao",
-        "url": "https://open.spotify.com/album/2NQf4yrGL2SCUFvOYIKdFr"
+        "name": "cumbia aesthetic",
+        "url": "https://open.spotify.com/album/3MzlM2GvEnrKCYihOhLcxo"
       },
       "artists": [
         {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+          "name": "Foudeqush",
+          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
+        },
+        {
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
         }
       ],
-      "duration_ms": 200510,
-      "name": "atravesao",
-      "url": "https://open.spotify.com/track/00HU2RYUeBcOVJPbdOtdJ2"
+      "duration_ms": 170755,
+      "name": "cumbia aesthetic",
+      "url": "https://open.spotify.com/track/6iitVWohxBtt0HFopnMIkD"
     },
     {
       "added_at": "2023-05-05 23:46:53",
@@ -289,24 +293,20 @@
       "url": "https://open.spotify.com/track/6LzFrazsIFzzqzcFGVJt89"
     },
     {
-      "added_at": "2023-05-26 18:30:42",
+      "added_at": "2023-05-05 23:46:53",
       "album": {
-        "name": "cumbia aesthetic",
-        "url": "https://open.spotify.com/album/3MzlM2GvEnrKCYihOhLcxo"
+        "name": "atravesao",
+        "url": "https://open.spotify.com/album/2NQf4yrGL2SCUFvOYIKdFr"
       },
       "artists": [
         {
-          "name": "Foudeqush",
-          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
-        },
-        {
-          "name": "Jesse Baez",
-          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
         }
       ],
-      "duration_ms": 170755,
-      "name": "cumbia aesthetic",
-      "url": "https://open.spotify.com/track/6iitVWohxBtt0HFopnMIkD"
+      "duration_ms": 200510,
+      "name": "atravesao",
+      "url": "https://open.spotify.com/track/00HU2RYUeBcOVJPbdOtdJ2"
     },
     {
       "added_at": "2024-02-02 05:50:05",
@@ -801,22 +801,6 @@
       "url": "https://open.spotify.com/track/0np9UFhTftjmtGJSe0C9wP"
     },
     {
-      "added_at": "2023-10-16 17:45:32",
-      "album": {
-        "name": "Caribbean All-Inclusive Luxury",
-        "url": "https://open.spotify.com/album/2cUD4r5oFALdiZcf0uxCLl"
-      },
-      "artists": [
-        {
-          "name": "Jarina De Marco",
-          "url": "https://open.spotify.com/artist/2Ju0kEPJxYUo0XM2PNUGeL"
-        }
-      ],
-      "duration_ms": 63488,
-      "name": "Daiquiri",
-      "url": "https://open.spotify.com/track/3zAATyIcE5Mwvi3FuXarcE"
-    },
-    {
       "added_at": "2023-05-05 23:46:53",
       "album": {
         "name": "Alma Carnavalera",
@@ -831,6 +815,22 @@
       "duration_ms": 234655,
       "name": "Alma Carnavalera",
       "url": "https://open.spotify.com/track/2ia6khUL8cdWGqOc31dgl8"
+    },
+    {
+      "added_at": "2023-10-16 17:45:32",
+      "album": {
+        "name": "Caribbean All-Inclusive Luxury",
+        "url": "https://open.spotify.com/album/2cUD4r5oFALdiZcf0uxCLl"
+      },
+      "artists": [
+        {
+          "name": "Jarina De Marco",
+          "url": "https://open.spotify.com/artist/2Ju0kEPJxYUo0XM2PNUGeL"
+        }
+      ],
+      "duration_ms": 63488,
+      "name": "Daiquiri",
+      "url": "https://open.spotify.com/track/3zAATyIcE5Mwvi3FuXarcE"
     },
     {
       "added_at": "2023-05-05 23:46:53",
@@ -953,6 +953,42 @@
       "url": "https://open.spotify.com/track/1YKNaQqLDMVNDULbyOHGqK"
     },
     {
+      "added_at": "2023-12-07 01:08:32",
+      "album": {
+        "name": "Almadura",
+        "url": "https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT"
+      },
+      "artists": [
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+        },
+        {
+          "name": "Eddie Palmieri",
+          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
+        }
+      ],
+      "duration_ms": 323916,
+      "name": "D\u00e9jame Decirte (feat. Eddie Palmieri)",
+      "url": "https://open.spotify.com/track/5SozdAWTO5qVG2evZxYoe5"
+    },
+    {
+      "added_at": "2023-05-05 23:46:53",
+      "album": {
+        "name": "Mabanzo",
+        "url": "https://open.spotify.com/album/27YMkY29ejf68IpDywP91w"
+      },
+      "artists": [
+        {
+          "name": "Juanita Euka",
+          "url": "https://open.spotify.com/artist/5a7zFB39QFXzf8amit9zJh"
+        }
+      ],
+      "duration_ms": 291786,
+      "name": "Alma Seca",
+      "url": "https://open.spotify.com/track/0TjNcJLSuyWByX7IjYYYs9"
+    },
+    {
       "added_at": "2023-05-05 23:46:53",
       "album": {
         "name": "Sal de Mar",
@@ -975,42 +1011,6 @@
       "duration_ms": 206590,
       "name": "Sal de Mar",
       "url": "https://open.spotify.com/track/42ji13UfpBT4Gntboni1HX"
-    },
-    {
-      "added_at": "2023-05-05 23:46:53",
-      "album": {
-        "name": "Mabanzo",
-        "url": "https://open.spotify.com/album/27YMkY29ejf68IpDywP91w"
-      },
-      "artists": [
-        {
-          "name": "Juanita Euka",
-          "url": "https://open.spotify.com/artist/5a7zFB39QFXzf8amit9zJh"
-        }
-      ],
-      "duration_ms": 291786,
-      "name": "Alma Seca",
-      "url": "https://open.spotify.com/track/0TjNcJLSuyWByX7IjYYYs9"
-    },
-    {
-      "added_at": "2023-12-07 01:08:32",
-      "album": {
-        "name": "Almadura",
-        "url": "https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT"
-      },
-      "artists": [
-        {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
-        },
-        {
-          "name": "Eddie Palmieri",
-          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
-        }
-      ],
-      "duration_ms": 323916,
-      "name": "D\u00e9jame Decirte (feat. Eddie Palmieri)",
-      "url": "https://open.spotify.com/track/5SozdAWTO5qVG2evZxYoe5"
     },
     {
       "added_at": "2023-05-05 23:46:53",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2023-05-05 23:46:53",
       "album": {
+        "name": "Los Estimados",
+        "url": "https://open.spotify.com/album/3B98l6muwFWFXI9BkcR34N"
+      },
+      "artists": [
+        {
+          "name": "Tati Falco",
+          "url": "https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6"
+        }
+      ],
+      "duration_ms": 277589,
+      "name": "Los Estimados",
+      "url": "https://open.spotify.com/track/6AvC278qiJnaF5jj7ariso"
+    },
+    {
+      "added_at": "2023-05-05 23:46:53",
+      "album": {
         "name": "Espantap\u00e1jaros",
         "url": "https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg"
       },
@@ -1071,22 +1087,6 @@
     {
       "added_at": "2023-05-05 23:46:53",
       "album": {
-        "name": "Los Estimados",
-        "url": "https://open.spotify.com/album/3B98l6muwFWFXI9BkcR34N"
-      },
-      "artists": [
-        {
-          "name": "Tati Falco",
-          "url": "https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6"
-        }
-      ],
-      "duration_ms": 277589,
-      "name": "Los Estimados",
-      "url": "https://open.spotify.com/track/6AvC278qiJnaF5jj7ariso"
-    },
-    {
-      "added_at": "2023-05-05 23:46:53",
-      "album": {
         "name": "Te Olvidaste",
         "url": "https://open.spotify.com/album/5Ik3K7vNA7b4gtL5YL7jCZ"
       },
@@ -1099,22 +1099,6 @@
       "duration_ms": 182470,
       "name": "Te Olvidaste",
       "url": "https://open.spotify.com/track/5bRBvpq9Am8Wvwvk9AggFi"
-    },
-    {
-      "added_at": "2023-05-05 23:46:53",
-      "album": {
-        "name": "Sorpresa",
-        "url": "https://open.spotify.com/album/4clIaqyIpJOku2E6VNnwy2"
-      },
-      "artists": [
-        {
-          "name": "Cheo",
-          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
-        }
-      ],
-      "duration_ms": 256947,
-      "name": "Todo el D\u00eda en la Cama",
-      "url": "https://open.spotify.com/track/6TckoX2KeK1hK7wPfdT0zo"
     },
     {
       "added_at": "2023-05-05 23:46:53",
@@ -1151,6 +1135,22 @@
       "duration_ms": 177099,
       "name": "Poco a Poco - Remix",
       "url": "https://open.spotify.com/track/08qHgtCajTGcNWFbn0HQXT"
+    },
+    {
+      "added_at": "2023-05-05 23:46:53",
+      "album": {
+        "name": "Sorpresa",
+        "url": "https://open.spotify.com/album/4clIaqyIpJOku2E6VNnwy2"
+      },
+      "artists": [
+        {
+          "name": "Cheo",
+          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
+        }
+      ],
+      "duration_ms": 256947,
+      "name": "Todo el D\u00eda en la Cama",
+      "url": "https://open.spotify.com/track/6TckoX2KeK1hK7wPfdT0zo"
     },
     {
       "added_at": "2023-05-05 23:46:53",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-05-05 23:46:53",
       "album": {
-        "name": "Sabe a Tu Nombre",
-        "url": "https://open.spotify.com/album/5gkAUF7ohgE237sxZuIFaB"
-      },
-      "artists": [
-        {
-          "name": "Cosmic Wacho",
-          "url": "https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa"
-        }
-      ],
-      "duration_ms": 228793,
-      "name": "Sabe a Tu Nombre",
-      "url": "https://open.spotify.com/track/4kPG4XKpeWVhBd4bfDYuyF"
-    },
-    {
-      "added_at": "2023-05-05 23:46:53",
-      "album": {
         "name": "Noest\u00e1saqu\u00ed",
         "url": "https://open.spotify.com/album/4VzKvONEXBcKfAKZ4xXuiY"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 202066,
       "name": "Window Seat",
       "url": "https://open.spotify.com/track/5rpxuwiJIMouwlIodvNhJr"
+    },
+    {
+      "added_at": "2023-05-05 23:46:53",
+      "album": {
+        "name": "Sabe a Tu Nombre",
+        "url": "https://open.spotify.com/album/5gkAUF7ohgE237sxZuIFaB"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Wacho",
+          "url": "https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa"
+        }
+      ],
+      "duration_ms": 228793,
+      "name": "Sabe a Tu Nombre",
+      "url": "https://open.spotify.com/track/4kPG4XKpeWVhBd4bfDYuyF"
     },
     {
       "added_at": "2023-05-05 23:46:53",

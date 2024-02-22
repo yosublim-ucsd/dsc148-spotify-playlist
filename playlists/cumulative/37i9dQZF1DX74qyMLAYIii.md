@@ -4,7 +4,7 @@
 
 > Psicodélica, eléctrica y amazónica.
 
-55 songs - 3 hr 9 min
+56 songs - 3 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Lamento de Chullachaqui](https://open.spotify.com/track/584oNG0n03nJedZijh4Wtr) | [Los Invasores de Progreso](https://open.spotify.com/artist/456Iu6HKZYOQv9MpkEfofb) | [Invasión de Cumbia Psicodélica](https://open.spotify.com/album/3QEIOrM2RyePnQewl1DgnY) | 3:21 | 2022-07-01 |  |
 | [Lamento Del Yacuruna](https://open.spotify.com/track/4jWRMnkdsmDSWvDOaBln5J) | [Los Wembler's de Iquitos](https://open.spotify.com/artist/09o5k3t1L2ZxhJBnIERJxT) | [La Danza del Petrolero](https://open.spotify.com/album/44vmtLaH2kxNXmxrnPp6Oa) | 2:49 | 2022-07-01 |  |
 | [Lamento en la Selva](https://open.spotify.com/track/0rxjDRE2wot2sAiilVDiZt) | [Money Chicha](https://open.spotify.com/artist/3fsyG1yskjAgNCPPfIUBcE) | [Echo en Mexico](https://open.spotify.com/album/4ZjWUw1okFSeqCCRrzLQH4) | 5:02 | 2022-07-01 |  |
-| [Liliana](https://open.spotify.com/track/44Jr4qm2dZVKYEpEyaXR8x) | [Los Demonios del Mantaro](https://open.spotify.com/artist/4IR2RHn5pn5SxXSN1r0A8a) | [Cumbia Beat Volume 1](https://open.spotify.com/album/55Zzh7zGhuAF0YnlpbjV0S) | 2:21 | 2022-07-01 |  |
+| [Liliana](https://open.spotify.com/track/5T1INJGdX0dVo5bn2iJALW) | [Los Demonios del Mantaro](https://open.spotify.com/artist/4IR2RHn5pn5SxXSN1r0A8a) | [Sounds of Cumbia](https://open.spotify.com/album/1XsSplcLk26rOdeVqs5x9O) | 2:20 | 2022-07-01 |  |
+| [Liliana](https://open.spotify.com/track/44Jr4qm2dZVKYEpEyaXR8x) | [Los Demonios del Mantaro](https://open.spotify.com/artist/4IR2RHn5pn5SxXSN1r0A8a) | [Cumbia Beat Volume 1](https://open.spotify.com/album/55Zzh7zGhuAF0YnlpbjV0S) | 2:21 | 2022-07-01 | 2024-02-22 |
 | [Lobos al Escape](https://open.spotify.com/track/34TwJIqDRJTAxsslSU8ywh) | [Los Orientales de Paramonga](https://open.spotify.com/artist/6XpyhLSGgaliI2y0nYcD1c) | [Cumbias Chichadelicas: Peruvian Psychedelic Chicha](https://open.spotify.com/album/1YCdKn5y7C99mM2sb3QTlo) | 2:35 | 2022-07-01 |  |
 | [Me Robaron Mi Runa Mula](https://open.spotify.com/track/2wIdlmUWNZP5ZYaxCdZEmp) | [Juaneco Y Su Combo](https://open.spotify.com/artist/4sTcgUXJRSvSQHei3ZQUBR) | [Leyenda Amazónica](https://open.spotify.com/album/1XBTiJCFR4XFvymIUlnkKE) | 3:06 | 2022-07-01 |  |
 | [Mi Gran Noche](https://open.spotify.com/track/7BXaYhgzihosqcGVk72AK2) | [Aniceto y sus Fabulosos](https://open.spotify.com/artist/3sj4WDoPYnrkC4dg84UtG5) | [Cumbias Chichadelicas: Peruvian Psychedelic Chicha](https://open.spotify.com/album/1YCdKn5y7C99mM2sb3QTlo) | 2:57 | 2022-07-01 |  |

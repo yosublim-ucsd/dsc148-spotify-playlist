@@ -1,12 +1,12 @@
 {
   "description": "Porque el coraz\u00f3n habla vallenato. \u00a1Ay ombe!",
-  "num_followers": 110106,
+  "num_followers": 110200,
   "original_name": "Vallenato Rom\u00e1ntico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OGRkM2ZkYjg2YzYyMGYyYWVlYWU1YTg5MGRjZGY3YjM3ZjI3YWIw",
+  "snapshot_id": "MCw0MjQ1ZmM3ZDU5M2I5Mjg1YThlYmExNmE4NTczNDlmZDU1NTlmZTY2",
   "tracks": [
     {
       "added_at": "2022-12-16 20:17:47",
@@ -43,8 +43,8 @@
     {
       "added_at": "2022-12-16 20:17:47",
       "album": {
-        "name": "Lenguaje Universal",
-        "url": "https://open.spotify.com/album/1HXorJHIRNwFXQzV2GLC5k"
+        "name": "10 A\u00f1os De Historia",
+        "url": "https://open.spotify.com/album/2jLrQzNNyxlqrHZnSU5sCI"
       },
       "artists": [
         {
@@ -52,9 +52,9 @@
           "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
         }
       ],
-      "duration_ms": 246046,
-      "name": "Busca Un Confidente",
-      "url": "https://open.spotify.com/track/63kq9VZGTYhBELP0jX3qsq"
+      "duration_ms": 283600,
+      "name": "No Voy A Llorar",
+      "url": "https://open.spotify.com/track/0GeR6j3KxDNkLgjRbNgYxm"
     },
     {
       "added_at": "2022-12-16 20:17:47",
@@ -75,26 +75,6 @@
       "duration_ms": 284421,
       "name": "Una Hoja en Blanco",
       "url": "https://open.spotify.com/track/3G5OfJVzos5wI0L09oyTOW"
-    },
-    {
-      "added_at": "2022-12-16 20:17:47",
-      "album": {
-        "name": "Muy Nuestro",
-        "url": "https://open.spotify.com/album/11vSLzBjLYwRX1tjqTDsQQ"
-      },
-      "artists": [
-        {
-          "name": "Otto Serge",
-          "url": "https://open.spotify.com/artist/5CSek6ot4XS2AWiw1NFTiF"
-        },
-        {
-          "name": "Rafael Ricardo",
-          "url": "https://open.spotify.com/artist/2Aq0u75FM7QuhP4vUqsFVe"
-        }
-      ],
-      "duration_ms": 238893,
-      "name": "Se\u00f1ora",
-      "url": "https://open.spotify.com/track/1aWlzqhPWYcmMK5H9lgpP6"
     },
     {
       "added_at": "2022-12-16 20:17:47",
@@ -127,6 +107,26 @@
       "duration_ms": 294040,
       "name": "Tarde Lo Conoci",
       "url": "https://open.spotify.com/track/3J8blQzr6m5cPAlrmoHe93"
+    },
+    {
+      "added_at": "2022-12-16 20:17:47",
+      "album": {
+        "name": "Muy Nuestro",
+        "url": "https://open.spotify.com/album/11vSLzBjLYwRX1tjqTDsQQ"
+      },
+      "artists": [
+        {
+          "name": "Otto Serge",
+          "url": "https://open.spotify.com/artist/5CSek6ot4XS2AWiw1NFTiF"
+        },
+        {
+          "name": "Rafael Ricardo",
+          "url": "https://open.spotify.com/artist/2Aq0u75FM7QuhP4vUqsFVe"
+        }
+      ],
+      "duration_ms": 238893,
+      "name": "Se\u00f1ora",
+      "url": "https://open.spotify.com/track/1aWlzqhPWYcmMK5H9lgpP6"
     },
     {
       "added_at": "2022-12-16 20:17:47",
@@ -227,8 +227,8 @@
     {
       "added_at": "2022-12-16 20:17:47",
       "album": {
-        "name": "10 A\u00f1os De Historia",
-        "url": "https://open.spotify.com/album/2jLrQzNNyxlqrHZnSU5sCI"
+        "name": "Lenguaje Universal",
+        "url": "https://open.spotify.com/album/1HXorJHIRNwFXQzV2GLC5k"
       },
       "artists": [
         {
@@ -236,9 +236,9 @@
           "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
         }
       ],
-      "duration_ms": 283600,
-      "name": "No Voy A Llorar",
-      "url": "https://open.spotify.com/track/0GeR6j3KxDNkLgjRbNgYxm"
+      "duration_ms": 246046,
+      "name": "Busca Un Confidente",
+      "url": "https://open.spotify.com/track/63kq9VZGTYhBELP0jX3qsq"
     },
     {
       "added_at": "2022-12-16 20:17:47",
@@ -499,22 +499,22 @@
     {
       "added_at": "2022-12-16 20:17:47",
       "album": {
-        "name": "El Disco Que Me Gusta",
-        "url": "https://open.spotify.com/album/5ymciF4IdHbVu5yxJlCf1W"
+        "name": "Guerreras Del Amor",
+        "url": "https://open.spotify.com/album/4sbD543Z4mC4tFsaVJIGQ6"
       },
       "artists": [
         {
-          "name": "Elder Day\u00e1n D\u00edaz",
-          "url": "https://open.spotify.com/artist/0w8jfjckFjwtKLRkX9NT2K"
+          "name": "Patricia Teher\u00e1n",
+          "url": "https://open.spotify.com/artist/2pctdrQetn7EI0QpCm9RIF"
         },
         {
-          "name": "Rolando Ochoa",
-          "url": "https://open.spotify.com/artist/0VWoer2RDTKY4Sr9U93QTJ"
+          "name": "Las Musas Del Vallenato",
+          "url": "https://open.spotify.com/artist/51NKeKxApR2v2CKQ5oejIo"
         }
       ],
-      "duration_ms": 225840,
-      "name": "Amantes",
-      "url": "https://open.spotify.com/track/4HQa0epS8B23YEHqyA2fKr"
+      "duration_ms": 277472,
+      "name": "Me Dejaste Sin Nada",
+      "url": "https://open.spotify.com/track/00Yl6SEMlkvr0mnZGhvvcr"
     },
     {
       "added_at": "2022-12-16 20:17:47",
@@ -547,22 +547,22 @@
     {
       "added_at": "2022-12-16 20:17:47",
       "album": {
-        "name": "Guerreras Del Amor",
-        "url": "https://open.spotify.com/album/4sbD543Z4mC4tFsaVJIGQ6"
+        "name": "El Disco Que Me Gusta",
+        "url": "https://open.spotify.com/album/5ymciF4IdHbVu5yxJlCf1W"
       },
       "artists": [
         {
-          "name": "Patricia Teher\u00e1n",
-          "url": "https://open.spotify.com/artist/2pctdrQetn7EI0QpCm9RIF"
+          "name": "Elder Day\u00e1n D\u00edaz",
+          "url": "https://open.spotify.com/artist/0w8jfjckFjwtKLRkX9NT2K"
         },
         {
-          "name": "Las Musas Del Vallenato",
-          "url": "https://open.spotify.com/artist/51NKeKxApR2v2CKQ5oejIo"
+          "name": "Rolando Ochoa",
+          "url": "https://open.spotify.com/artist/0VWoer2RDTKY4Sr9U93QTJ"
         }
       ],
-      "duration_ms": 277472,
-      "name": "Me Dejaste Sin Nada",
-      "url": "https://open.spotify.com/track/00Yl6SEMlkvr0mnZGhvvcr"
+      "duration_ms": 225840,
+      "name": "Amantes",
+      "url": "https://open.spotify.com/track/4HQa0epS8B23YEHqyA2fKr"
     },
     {
       "added_at": "2022-12-16 20:17:47",
@@ -671,6 +671,22 @@
     {
       "added_at": "2022-12-16 20:17:47",
       "album": {
+        "name": "Vallenato Fest",
+        "url": "https://open.spotify.com/album/0ewlJ0aYyI7OfcqICyuP06"
+      },
+      "artists": [
+        {
+          "name": "Grupo Vallenato",
+          "url": "https://open.spotify.com/artist/6JjHRZP5MEJocK6frtvrEE"
+        }
+      ],
+      "duration_ms": 316279,
+      "name": "Dime Que Me Quieres",
+      "url": "https://open.spotify.com/track/0GPCmhhe3HkJ6VVHOwJmZw"
+    },
+    {
+      "added_at": "2022-12-16 20:17:47",
+      "album": {
         "name": "Avanzando",
         "url": "https://open.spotify.com/album/0CJV99FjO7LAPTLoYQ6U2O"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 266520,
       "name": "Que Me Puedas Amar",
       "url": "https://open.spotify.com/track/2TCLtIBA192ntJ6TQzzIzn"
-    },
-    {
-      "added_at": "2022-12-16 20:17:47",
-      "album": {
-        "name": "Vallenato Fest",
-        "url": "https://open.spotify.com/album/0ewlJ0aYyI7OfcqICyuP06"
-      },
-      "artists": [
-        {
-          "name": "Grupo Vallenato",
-          "url": "https://open.spotify.com/artist/6JjHRZP5MEJocK6frtvrEE"
-        }
-      ],
-      "duration_ms": 316279,
-      "name": "Dime Que Me Quieres",
-      "url": "https://open.spotify.com/track/0GPCmhhe3HkJ6VVHOwJmZw"
     },
     {
       "added_at": "2022-12-16 20:17:47",

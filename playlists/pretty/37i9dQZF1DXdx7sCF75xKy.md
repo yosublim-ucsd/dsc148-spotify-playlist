@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdx7sCF75xKy.md) - [plain]
 
 > Listen to women at full volume\. Cover: Stefanie Sun
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,013 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,014 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdx7sCF75xKy.md) - [plain]
 | 17 | [你要的愛](https://open.spotify.com/track/2AwYywTNbeiWqQcLqt8UwP) | [Penny Tai](https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud) | [怎樣](https://open.spotify.com/album/5wBnaUSaYmG7PH39bRIr1H) | 4:02 |
 | 18 | [Home is a Feeling \- English Version](https://open.spotify.com/track/0gPBfgkCYnqg4pZowtFdLD) | [Jasmine Sokko](https://open.spotify.com/artist/3risOBDAx6GGVaCcBuhswz) | [Home is a Feeling](https://open.spotify.com/album/1ebpEBxDECiv21T05WNl6G) | 2:30 |
 | 19 | [BIA](https://open.spotify.com/track/6HOEo39IBShUcMGw1S32Pc) | [TASHEY](https://open.spotify.com/artist/4HCmJXK4xVFDKWNIQzkIBn), [Tish Errda](https://open.spotify.com/artist/4WnVvYBKHRliSEu7uGORsG) | [BIA](https://open.spotify.com/album/2oBNAsf9CD9dxFbCHDHHTa) | 3:49 |
-| 20 | [crying over nothing \(wah wah\)](https://open.spotify.com/track/1pkjS4ml1e7c5n6HNPHdeh) | [Lunadira](https://open.spotify.com/artist/6i6xQR652uL4FpGmUqZHOC) | [cryin over nothin \(wah wah\)](https://open.spotify.com/album/615vh8PeIsnxjxu152zQco) | 2:53 |
+| 20 | [crying over nothing \(wah wah\)](https://open.spotify.com/track/1pkjS4ml1e7c5n6HNPHdeh) | [Lunadira](https://open.spotify.com/artist/6i6xQR652uL4FpGmUqZHOC) | [crying over nothing \(wah wah\)](https://open.spotify.com/album/615vh8PeIsnxjxu152zQco) | 2:53 |
 | 21 | [Baseball Bat](https://open.spotify.com/track/4yCaawHRPvykUKTHg78tGD) | [Iman Fandi](https://open.spotify.com/artist/2yv1QEWNbHyf6ErJzCNmlg) | [Baseball Bat](https://open.spotify.com/album/0qg7E4WliHo532gRUYdE8E) | 2:16 |
 | 22 | [Romeo](https://open.spotify.com/track/7b0SNKfupsDuEXd94i4KAA) | [RRILEY](https://open.spotify.com/artist/5uIwzjKbKHiTiRCShromkj) | [Alpha](https://open.spotify.com/album/2Apt6eGvcYabmvhsQg6kdw) | 3:05 |
 | 23 | [Right Person, Wrong Time](https://open.spotify.com/track/4O4NB0PEKsdA1wMatYuJYs) | [shazza](https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD) | [Right Person, Wrong Time](https://open.spotify.com/album/2IyQsLuXmJsalKTgUgqiaa) | 3:58 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdx7sCF75xKy.md) - [plain]
 | 37 | [怎樣 ?](https://open.spotify.com/track/7y3ubYh0BR6wgISiALACWQ) | [Penny Tai](https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud) | [怎樣](https://open.spotify.com/album/5wBnaUSaYmG7PH39bRIr1H) | 4:31 |
 | 38 | [Setia Kukorbankan](https://open.spotify.com/track/0OV7CuQ2sCxTM9hlaa1Kfz) | [Fauziah Latiff](https://open.spotify.com/artist/2x2EGZwTW09vcvx1dGfcxm) | [Memori Sentimental Hit](https://open.spotify.com/album/2YEyV6UFAF8qERHslTkmw7) | 4:42 |
 | 39 | [Lalai](https://open.spotify.com/track/5k7Fk0ndwJsQAjOMui8XpK) | [Baby Shima](https://open.spotify.com/artist/6b8ra1rFH1RtPCHWYEkaA5) | [Lalai](https://open.spotify.com/album/121e6ExFpnThDS7CdjVjSk) | 3:16 |
-| 40 | [i'll be alright, right?](https://open.spotify.com/track/2uIS8EKNfaJDVhoLR2vasP) | [Lunadira](https://open.spotify.com/artist/6i6xQR652uL4FpGmUqZHOC) | [cryin over nothin \(wah wah\)](https://open.spotify.com/album/615vh8PeIsnxjxu152zQco) | 2:29 |
+| 40 | [i'll be alright, right?](https://open.spotify.com/track/2uIS8EKNfaJDVhoLR2vasP) | [Lunadira](https://open.spotify.com/artist/6i6xQR652uL4FpGmUqZHOC) | [crying over nothing \(wah wah\)](https://open.spotify.com/album/615vh8PeIsnxjxu152zQco) | 2:29 |
 | 41 | [我的模樣](https://open.spotify.com/track/06n7XggvrgCntNUNKJFm8R) | [Tay Kewei](https://open.spotify.com/artist/7CEGCiUDMO8Xr257mqIJl2) | [我的模樣](https://open.spotify.com/album/0TLk1jVxt4z5fGgAJoN21D) | 3:23 |
 | 42 | [Wait With Me \- Movie "KIDS" Ending Song](https://open.spotify.com/track/0BD2aB9XkKit3cxDaybByd) | [Boon Hui Lu](https://open.spotify.com/artist/6PWJWwEm8BSBFAIAUWlwe4) | [Movie "KIDS" Soundtrack](https://open.spotify.com/album/1me16pQ0TSCXwvIeNBtAN0) | 4:58 |
 | 43 | [High](https://open.spotify.com/track/26E4MTKt55ife8No86ikfa) | [RRILEY](https://open.spotify.com/artist/5uIwzjKbKHiTiRCShromkj) | [Alpha](https://open.spotify.com/album/2Apt6eGvcYabmvhsQg6kdw) | 3:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdx7sCF75xKy.md) - [plain]
 | 49 | [Top Bop](https://open.spotify.com/track/2MYQdWKJS2OFWDYcsTKhvo) | [Iman Fandi](https://open.spotify.com/artist/2yv1QEWNbHyf6ErJzCNmlg) | [Top Bop](https://open.spotify.com/album/1AlFUvBhjG8jF3SR3dDOg0) | 2:31 |
 | 50 | [None Of My Business](https://open.spotify.com/track/0FErJR0yZYjnGqgbWUTxWh) | [shazza](https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD) | [None Of My Business](https://open.spotify.com/album/47nlIqeRk8eWpGq31y6yX1) | 2:18 |
 
-Snapshot ID: `MCxlMmFiOGE0ZTY5MmEwMGQwZDM1ODg0ZWQ4YTJiNWIwNWRlMTkxZThh`
+Snapshot ID: `MCw2NjhkZDI1ZGM0NzA4NGFhZWI4Yjk1OWMwNWU3MDdhODkyMDc5OTI0`

@@ -4,7 +4,7 @@
 
 > This is Lola Indigo\. The essential tracks, all in one playlist.
 
-63 songs - 3 hr 17 min
+64 songs - 3 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [KILLA \(ring ring\)](https://open.spotify.com/track/4HC176Wwwle6QcTAxNPfBV) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [La Niña](https://open.spotify.com/album/1hFRQRNjiMSWgH5xyEiVme) | 3:32 | 2023-11-10 |  |
 | [La Llorera](https://open.spotify.com/track/0sAnHXFgvyCw6gztFhNdZO) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [La Niña](https://open.spotify.com/album/1hFRQRNjiMSWgH5xyEiVme) | 2:34 | 2023-11-10 | 2024-01-18 |
 | [La Niña de la Escuela](https://open.spotify.com/track/1g4cZvi0nLeeIycd0Rkljj) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [La Niña](https://open.spotify.com/album/1hFRQRNjiMSWgH5xyEiVme) | 3:24 | 2023-11-10 |  |
-| [LA PRIMAVERA](https://open.spotify.com/track/5e2xxpLD2rjvUmpHaZseCd) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [La Plazuela](https://open.spotify.com/artist/3iNrNJ38T7OEaI1UofQcIB) | [GRX](https://open.spotify.com/album/3N8WkOmiTx5YdCizQivQbX) | 2:55 | 2023-12-16 |  |
+| [LA PRIMAVERA](https://open.spotify.com/track/4cuPBlZB9PBKIyiZAifjU9) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [La Plazuela](https://open.spotify.com/artist/3iNrNJ38T7OEaI1UofQcIB) | [GRX](https://open.spotify.com/album/2ORVtNDtwoBtJ1uTzRJogx) | 2:55 | 2024-02-21 |  |
+| [LA PRIMAVERA](https://open.spotify.com/track/5e2xxpLD2rjvUmpHaZseCd) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [La Plazuela](https://open.spotify.com/artist/3iNrNJ38T7OEaI1UofQcIB) | [GRX](https://open.spotify.com/album/3N8WkOmiTx5YdCizQivQbX) | 2:55 | 2023-12-16 | 2024-02-22 |
 | [LA SANTA](https://open.spotify.com/track/3TcSNX1WhlcVAI6fLWt7Qs) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [LA SANTA](https://open.spotify.com/album/7s7TZHak9Chi57TNKIH7T8) | 2:45 | 2023-11-10 | 2023-12-14 |
 | [LA SANTA](https://open.spotify.com/track/5IkKZvMCle5egJBU7VG4Ly) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [EL DRAGÓN](https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH) | 2:45 | 2023-12-13 |  |
 | [LA TIRITA](https://open.spotify.com/track/3PDpyXUoutFfBapsCDKAY8) | [Belén Aguilera](https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [SUPERPOP](https://open.spotify.com/album/6V77SSxyvFabMPHt4I5BF8) | 2:52 | 2023-11-10 |  |

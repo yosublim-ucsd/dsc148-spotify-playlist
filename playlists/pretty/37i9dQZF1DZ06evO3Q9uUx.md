@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 
 > This is BIA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,751 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,760 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 | 49 | [OH NO](https://open.spotify.com/track/1ZvcFWX1gRGhkCQJwtPANZ) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [REALLY HER](https://open.spotify.com/album/4acZyhrXnAZR3PSDLAaoX5) | 1:37 |
 | 50 | [Raised Me](https://open.spotify.com/track/5sisrx2Bwyxiju7Gttw3z7) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Raised Me](https://open.spotify.com/album/49Unv1AAYHoePvJe0vJPqN) | 2:12 |
 
-Snapshot ID: `Mjg0NzQxMzEsMDAwMDAwMDA5YTdiNDhkNzU1YzJiYzhiMzg1ZDJiY2M2MDYwMDg5NA==`
+Snapshot ID: `Mjg0NzUyOTEsMDAwMDAwMDA1ZmE3Mjc2YTg2ZWEwYTA3NDVmOGZlZGI4NDc1YzZjMQ==`

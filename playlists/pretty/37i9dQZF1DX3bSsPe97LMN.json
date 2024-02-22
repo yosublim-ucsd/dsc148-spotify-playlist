@@ -1,12 +1,12 @@
 {
   "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. Vena De Rey y Joss Favela en portada.",
-  "num_followers": 60196,
+  "num_followers": 60213,
   "original_name": "La Nueva Ola: M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZmU5NWVjZjM0MTRjMzZhMWFiYjc4YWI2YmIzNTczZWM2MmYwYTEx",
+  "snapshot_id": "MCw0ZDhlMDYyYTAwMDZjYWZiMzcxNWZjN2EyYjEyNWI5NDIzNzNlZjQ4",
   "tracks": [
     {
       "added_at": "2024-02-02 06:00:00",
@@ -299,22 +299,6 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "Pretender",
-        "url": "https://open.spotify.com/album/0JOlC6XynWzVpVVQ2h0gho"
-      },
-      "artists": [
-        {
-          "name": "Leonilo Jaimes",
-          "url": "https://open.spotify.com/artist/0n7CmDFQT0O48cLiBHx7XH"
-        }
-      ],
-      "duration_ms": 213915,
-      "name": "Pretender",
-      "url": "https://open.spotify.com/track/2a8q3CS5vCPezW8xFUGuo3"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
         "name": "Buenas Vibras",
         "url": "https://open.spotify.com/album/7zgQU4dD2S2122n8as0vco"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 129132,
       "name": "Buenas Vibras",
       "url": "https://open.spotify.com/track/1DXjtTKHBMa7MkCUf2Bdzt"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
+        "name": "Pretender",
+        "url": "https://open.spotify.com/album/0JOlC6XynWzVpVVQ2h0gho"
+      },
+      "artists": [
+        {
+          "name": "Leonilo Jaimes",
+          "url": "https://open.spotify.com/artist/0n7CmDFQT0O48cLiBHx7XH"
+        }
+      ],
+      "duration_ms": 213915,
+      "name": "Pretender",
+      "url": "https://open.spotify.com/track/2a8q3CS5vCPezW8xFUGuo3"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "Llegar A La Luna",
-        "url": "https://open.spotify.com/album/68OaTF0C5uLmD2FtXbxAPK"
-      },
-      "artists": [
-        {
-          "name": "Jassiel Gutierrez",
-          "url": "https://open.spotify.com/artist/0R9UUAXkhio5Vdj76xDKzv"
-        }
-      ],
-      "duration_ms": 214973,
-      "name": "Llegar A La Luna",
-      "url": "https://open.spotify.com/track/56Ya7Vj9jcXY2rghRfVB1R"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
         "name": "Billeticos",
         "url": "https://open.spotify.com/album/2o0I3Q6L0uuweDHF6cgvYn"
       },
@@ -539,6 +523,22 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
+        "name": "Llegar A La Luna",
+        "url": "https://open.spotify.com/album/68OaTF0C5uLmD2FtXbxAPK"
+      },
+      "artists": [
+        {
+          "name": "Jassiel Gutierrez",
+          "url": "https://open.spotify.com/artist/0R9UUAXkhio5Vdj76xDKzv"
+        }
+      ],
+      "duration_ms": 214973,
+      "name": "Llegar A La Luna",
+      "url": "https://open.spotify.com/track/56Ya7Vj9jcXY2rghRfVB1R"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
         "name": "C\u00f3mo Poder Olvidarte",
         "url": "https://open.spotify.com/album/273EJtAWuOPIOYmEnXyZN9"
       },
@@ -551,22 +551,6 @@
       "duration_ms": 194933,
       "name": "Como Poder Olvidarte",
       "url": "https://open.spotify.com/track/0XTJeOTpUs02t0786QsUXz"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
-        "name": "\u00bfqui\u00e9n dice?",
-        "url": "https://open.spotify.com/album/4Rv795jWYRd8g5rvBdIOBN"
-      },
-      "artists": [
-        {
-          "name": "Dariell Cano",
-          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
-        }
-      ],
-      "duration_ms": 213647,
-      "name": "\u00bfqui\u00e9n dice?",
-      "url": "https://open.spotify.com/track/1yukmg1ga6TEI8i9qrtgMZ"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -587,6 +571,22 @@
       "duration_ms": 98253,
       "name": "Aqu\u00ed Andamos",
       "url": "https://open.spotify.com/track/0HbCHoZoSADtxnpyRJ7KiA"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
+        "name": "\u00bfqui\u00e9n dice?",
+        "url": "https://open.spotify.com/album/4Rv795jWYRd8g5rvBdIOBN"
+      },
+      "artists": [
+        {
+          "name": "Dariell Cano",
+          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
+        }
+      ],
+      "duration_ms": 213647,
+      "name": "\u00bfqui\u00e9n dice?",
+      "url": "https://open.spotify.com/track/1yukmg1ga6TEI8i9qrtgMZ"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "Mil Pedazos",
-        "url": "https://open.spotify.com/album/0dchtdW6KeKfbHGwMMxppF"
-      },
-      "artists": [
-        {
-          "name": "Natalie L\u00f3pez",
-          "url": "https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU"
-        }
-      ],
-      "duration_ms": 181525,
-      "name": "Mil Pedazos",
-      "url": "https://open.spotify.com/track/2Mi5BLsctdUzadFCTbhSQC"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
         "name": "Coraz\u00f3n",
         "url": "https://open.spotify.com/album/4xM0FfeqFIyDwYbWhjuBoe"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 183600,
       "name": "Coraz\u00f3n",
       "url": "https://open.spotify.com/track/3rVlDhGNxSQApSOFM4XHYd"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
+        "name": "Mil Pedazos",
+        "url": "https://open.spotify.com/album/0dchtdW6KeKfbHGwMMxppF"
+      },
+      "artists": [
+        {
+          "name": "Natalie L\u00f3pez",
+          "url": "https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU"
+        }
+      ],
+      "duration_ms": 181525,
+      "name": "Mil Pedazos",
+      "url": "https://open.spotify.com/track/2Mi5BLsctdUzadFCTbhSQC"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "Feliz Cumplea\u00f1os Ferxxo",
-        "url": "https://open.spotify.com/album/7r0ntv8Os7uQksoHTjrczw"
-      },
-      "artists": [
-        {
-          "name": "Diego Coss",
-          "url": "https://open.spotify.com/artist/6LRTS7gHSbzSlzD4M7BJ7O"
-        }
-      ],
-      "duration_ms": 201746,
-      "name": "Feliz Cumplea\u00f1os Ferxxo",
-      "url": "https://open.spotify.com/track/38gCWM721Yetzyd4cc3quv"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
         "name": "La Plebada",
         "url": "https://open.spotify.com/album/2RhK9R4I6t8bdacMbu5Qt6"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 141333,
       "name": "La Plebada",
       "url": "https://open.spotify.com/track/1yGQ5WHIaLboYVm5IRjT0w"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
+        "name": "Feliz Cumplea\u00f1os Ferxxo",
+        "url": "https://open.spotify.com/album/7r0ntv8Os7uQksoHTjrczw"
+      },
+      "artists": [
+        {
+          "name": "Diego Coss",
+          "url": "https://open.spotify.com/artist/6LRTS7gHSbzSlzD4M7BJ7O"
+        }
+      ],
+      "duration_ms": 201746,
+      "name": "Feliz Cumplea\u00f1os Ferxxo",
+      "url": "https://open.spotify.com/track/38gCWM721Yetzyd4cc3quv"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "R\u00e1pido",
-        "url": "https://open.spotify.com/album/1oyD2MCtu40tDL41zsHsOS"
-      },
-      "artists": [
-        {
-          "name": "Diego Coss",
-          "url": "https://open.spotify.com/artist/6LRTS7gHSbzSlzD4M7BJ7O"
-        }
-      ],
-      "duration_ms": 194766,
-      "name": "R\u00e1pido",
-      "url": "https://open.spotify.com/track/59wfN7Wrwy48cADOItTXjY"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
         "name": "Bolsita Rosita",
         "url": "https://open.spotify.com/album/3unMmtTDq5aauuwk3cfUvK"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 168566,
       "name": "Bolsita Rosita",
       "url": "https://open.spotify.com/track/6hxn7RsbsxqwuZCHqzKSUV"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
+        "name": "R\u00e1pido",
+        "url": "https://open.spotify.com/album/1oyD2MCtu40tDL41zsHsOS"
+      },
+      "artists": [
+        {
+          "name": "Diego Coss",
+          "url": "https://open.spotify.com/artist/6LRTS7gHSbzSlzD4M7BJ7O"
+        }
+      ],
+      "duration_ms": 194766,
+      "name": "R\u00e1pido",
+      "url": "https://open.spotify.com/track/59wfN7Wrwy48cADOItTXjY"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "Lo Elegiste A \u00c9l",
-        "url": "https://open.spotify.com/album/6JywXnLcBu3X2WEgDJKPs8"
-      },
-      "artists": [
-        {
-          "name": "Los Nietos De Ter\u00e1n",
-          "url": "https://open.spotify.com/artist/2aRlqEM3PhwgKtXmYOWhFf"
-        }
-      ],
-      "duration_ms": 170933,
-      "name": "Lo Elegiste A \u00c9l",
-      "url": "https://open.spotify.com/track/5aV72PbCRUDikF8lGS14Sf"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
         "name": "Yo Ni Te Topo",
         "url": "https://open.spotify.com/album/6vfNB1Hos5ni9wAIdKAexj"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 158210,
       "name": "Yo Ni Te Topo",
       "url": "https://open.spotify.com/track/2hiAOmnmUnk90Cg3uMz6Jr"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
+        "name": "Lo Elegiste A \u00c9l",
+        "url": "https://open.spotify.com/album/6JywXnLcBu3X2WEgDJKPs8"
+      },
+      "artists": [
+        {
+          "name": "Los Nietos De Ter\u00e1n",
+          "url": "https://open.spotify.com/artist/2aRlqEM3PhwgKtXmYOWhFf"
+        }
+      ],
+      "duration_ms": 170933,
+      "name": "Lo Elegiste A \u00c9l",
+      "url": "https://open.spotify.com/track/5aV72PbCRUDikF8lGS14Sf"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1095,6 +1095,26 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
+        "name": "Tranquilo Y Sencillo",
+        "url": "https://open.spotify.com/album/1Qxk4L0BCfokCm1k3HYMeJ"
+      },
+      "artists": [
+        {
+          "name": "Ruben Figueroa",
+          "url": "https://open.spotify.com/artist/39sUQ6z3CTsNB4BhBecLOg"
+        },
+        {
+          "name": "El Nuevo Equipo",
+          "url": "https://open.spotify.com/artist/4HX57pJhKXFXfUTbJZrXxb"
+        }
+      ],
+      "duration_ms": 187263,
+      "name": "Tranquilo Y Sencillo",
+      "url": "https://open.spotify.com/track/0ON5YTUgh0gMtSzIThCsR2"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
         "name": "Dej\u00e9moslo As\u00ed",
         "url": "https://open.spotify.com/album/68uoaAVX3lfeKD2igm1SX1"
       },
@@ -1123,26 +1143,6 @@
       "duration_ms": 163333,
       "name": "RULETEANDO",
       "url": "https://open.spotify.com/track/7mK2P7rPNdzBVygHel5O7w"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
-        "name": "Tranquilo Y Sencillo",
-        "url": "https://open.spotify.com/album/1Qxk4L0BCfokCm1k3HYMeJ"
-      },
-      "artists": [
-        {
-          "name": "Ruben Figueroa",
-          "url": "https://open.spotify.com/artist/39sUQ6z3CTsNB4BhBecLOg"
-        },
-        {
-          "name": "El Nuevo Equipo",
-          "url": "https://open.spotify.com/artist/4HX57pJhKXFXfUTbJZrXxb"
-        }
-      ],
-      "duration_ms": 187263,
-      "name": "Tranquilo Y Sencillo",
-      "url": "https://open.spotify.com/track/0ON5YTUgh0gMtSzIThCsR2"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
+        "name": "La Tostada",
+        "url": "https://open.spotify.com/album/0p0bDZxCPtc2NKmlnQin5j"
+      },
+      "artists": [
+        {
+          "name": "Los del roble",
+          "url": "https://open.spotify.com/artist/4GP79lfzsxYXZn1HNu31Dj"
+        }
+      ],
+      "duration_ms": 215568,
+      "name": "La Tostada",
+      "url": "https://open.spotify.com/track/1iHDT9mosEvwDMHgROl0Vp"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
         "name": "Los Chismes",
         "url": "https://open.spotify.com/album/1b3pThADFDTmQITRpwRqzI"
       },
@@ -1307,18 +1323,18 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "La Tostada",
-        "url": "https://open.spotify.com/album/0p0bDZxCPtc2NKmlnQin5j"
+        "name": "NO HAY NADA M\u00c1S",
+        "url": "https://open.spotify.com/album/06JBns9E0YypUBapj5kuQC"
       },
       "artists": [
         {
-          "name": "Los del roble",
-          "url": "https://open.spotify.com/artist/4GP79lfzsxYXZn1HNu31Dj"
+          "name": "ARRIOLA",
+          "url": "https://open.spotify.com/artist/40C6ypaqw5koNMf06hVked"
         }
       ],
-      "duration_ms": 215568,
-      "name": "La Tostada",
-      "url": "https://open.spotify.com/track/1iHDT9mosEvwDMHgROl0Vp"
+      "duration_ms": 150891,
+      "name": "EL CHAPUL\u00cdN",
+      "url": "https://open.spotify.com/track/2Bk7TqMfkc0ihSBapbZKel"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1335,22 +1351,6 @@
       "duration_ms": 194253,
       "name": "Rafa Caro",
       "url": "https://open.spotify.com/track/2wyYfvmdPUgClntrbbTUFB"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
-        "name": "NO HAY NADA M\u00c1S",
-        "url": "https://open.spotify.com/album/06JBns9E0YypUBapj5kuQC"
-      },
-      "artists": [
-        {
-          "name": "ARRIOLA",
-          "url": "https://open.spotify.com/artist/40C6ypaqw5koNMf06hVked"
-        }
-      ],
-      "duration_ms": 150891,
-      "name": "EL CHAPUL\u00cdN",
-      "url": "https://open.spotify.com/track/2Bk7TqMfkc0ihSBapbZKel"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1483,6 +1483,26 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
+        "name": "Qu\u00e9 Agon\u00eda",
+        "url": "https://open.spotify.com/album/4G0lFiDJo1OkGQaaydGOqJ"
+      },
+      "artists": [
+        {
+          "name": "Los Cedre\u00f1os",
+          "url": "https://open.spotify.com/artist/76nj339lU2ayZ9826xi7j5"
+        },
+        {
+          "name": "Evelyn Ozuna",
+          "url": "https://open.spotify.com/artist/3WOxDYEXZgUkddUFOeztYr"
+        }
+      ],
+      "duration_ms": 182720,
+      "name": "Qu\u00e9 Agon\u00eda",
+      "url": "https://open.spotify.com/track/5KKOilUrX3rLQJD6j0O22w"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
         "name": "Te Digo Adi\u00f3s",
         "url": "https://open.spotify.com/album/5of75JzXXBQIGskSlBvmsf"
       },
@@ -1495,22 +1515,6 @@
       "duration_ms": 129029,
       "name": "Te Digo Adi\u00f3s",
       "url": "https://open.spotify.com/track/6pbyaOvQE0XEmv8c5fYTKo"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
-        "name": "La Tragedia de Arturo",
-        "url": "https://open.spotify.com/album/2qOlq5c0q0zwx0DNkXoPzJ"
-      },
-      "artists": [
-        {
-          "name": "Estilo Sencillo",
-          "url": "https://open.spotify.com/artist/0PG3h5k6cYdVbyKgHGMHc5"
-        }
-      ],
-      "duration_ms": 141386,
-      "name": "La Tragedia de Arturo",
-      "url": "https://open.spotify.com/track/2m2sqnngKuMV2xOxRxborX"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1531,22 +1535,18 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "Qu\u00e9 Agon\u00eda",
-        "url": "https://open.spotify.com/album/4G0lFiDJo1OkGQaaydGOqJ"
+        "name": "La Tragedia de Arturo",
+        "url": "https://open.spotify.com/album/2qOlq5c0q0zwx0DNkXoPzJ"
       },
       "artists": [
         {
-          "name": "Los Cedre\u00f1os",
-          "url": "https://open.spotify.com/artist/76nj339lU2ayZ9826xi7j5"
-        },
-        {
-          "name": "Evelyn Ozuna",
-          "url": "https://open.spotify.com/artist/3WOxDYEXZgUkddUFOeztYr"
+          "name": "Estilo Sencillo",
+          "url": "https://open.spotify.com/artist/0PG3h5k6cYdVbyKgHGMHc5"
         }
       ],
-      "duration_ms": 182720,
-      "name": "Qu\u00e9 Agon\u00eda",
-      "url": "https://open.spotify.com/track/5KKOilUrX3rLQJD6j0O22w"
+      "duration_ms": 141386,
+      "name": "La Tragedia de Arturo",
+      "url": "https://open.spotify.com/track/2m2sqnngKuMV2xOxRxborX"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1587,6 +1587,26 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
+        "name": "Corazon Duro (En Vivo)",
+        "url": "https://open.spotify.com/album/1tLAvsv1WcPl0y6J2joEQc"
+      },
+      "artists": [
+        {
+          "name": "Jessica Ballesteros",
+          "url": "https://open.spotify.com/artist/1Rq2kGkkTmWsoPlrB8baSE"
+        },
+        {
+          "name": "Sarah La Morena",
+          "url": "https://open.spotify.com/artist/7073ZEqNEhm0NGaGMnpbFQ"
+        }
+      ],
+      "duration_ms": 210187,
+      "name": "Corazon Duro - En Vivo",
+      "url": "https://open.spotify.com/track/1GNfOr5QynMN4pr9RR7ddN"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
         "name": "Yo Soy Guerrera",
         "url": "https://open.spotify.com/album/59Tnc8xzcatjqS7n9eBdks"
       },
@@ -1615,26 +1635,6 @@
       "duration_ms": 150000,
       "name": "Hoy Tenemos Modo",
       "url": "https://open.spotify.com/track/7ebzmHjIIeaqN3JWKiN18G"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
-        "name": "Corazon Duro (En Vivo)",
-        "url": "https://open.spotify.com/album/1tLAvsv1WcPl0y6J2joEQc"
-      },
-      "artists": [
-        {
-          "name": "Jessica Ballesteros",
-          "url": "https://open.spotify.com/artist/1Rq2kGkkTmWsoPlrB8baSE"
-        },
-        {
-          "name": "Sarah La Morena",
-          "url": "https://open.spotify.com/artist/7073ZEqNEhm0NGaGMnpbFQ"
-        }
-      ],
-      "duration_ms": 210187,
-      "name": "Corazon Duro - En Vivo",
-      "url": "https://open.spotify.com/track/1GNfOr5QynMN4pr9RR7ddN"
     },
     {
       "added_at": "2024-02-02 06:00:00",

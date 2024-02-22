@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9SZ5G67Azy.md) - [plain]
 
 > un poquito de esto, un poquito de lo otro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,612 likes - 70 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,804 likes - 70 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9SZ5G67Azy.md) - [plain]
 | 3 | [Classy 101 \- tech house](https://open.spotify.com/track/4AcLJkZaXtuni8UwR06Om6) | [Berna Rozenblum](https://open.spotify.com/artist/20Dmnhv5NP2oyP9ZwEWgIm) | [Classy 101 \(tech house\)](https://open.spotify.com/album/7f7l9MB46siXxNN5VTb6E8) | 2:34 |
 | 4 | [Ciudad Mágica \(Techengue\) \- Remix](https://open.spotify.com/track/7k3qyk6QbfxZpsu9WHbvpC) | [Nicolas Maulen](https://open.spotify.com/artist/533fdqxB2K5xhGKWarfXHO), [Nico Morini](https://open.spotify.com/artist/5O9Vy2Uc5xGykqvy6xKn9s) | [Ciudad Mágica \(Techengue Remix\)](https://open.spotify.com/album/03sk7spbSLeA4N3OtuwOE1) | 2:50 |
 | 5 | [Salimos De Nochev](https://open.spotify.com/track/4JU47IjBIvSXdHwkZjqlsd) | [Facundo Majdalani](https://open.spotify.com/artist/3NyQOEvPVM0jpm4Kh7sY5A) | [Salimos De Nochev](https://open.spotify.com/album/6yEoafmzIAeNZBcyWqmh2Q) | 1:52 |
-| 6 | [Coco Chanel \(Techengue\) \- Remix](https://open.spotify.com/track/7s3qjn4yDCIeWZtK4KBvJF) | [Nicolas Maulen](https://open.spotify.com/artist/533fdqxB2K5xhGKWarfXHO) | [Techengue \#2 \(Extended Remix\)](https://open.spotify.com/album/2CDsuqvqj40ZuKZHuSiUb8) | 2:47 |
+| 6 | [Coco Chanel \(Techengue\) \- Remix](https://open.spotify.com/track/1S4QnIVm7E0iBUmMuxj98r) | [Nicolas Maulen](https://open.spotify.com/artist/533fdqxB2K5xhGKWarfXHO) | [Coco Chanel \(Techengue Remix\)](https://open.spotify.com/album/578KvOMDl9D4EFDH9ZGg9Y) | 2:47 |
 | 7 | [Ando High](https://open.spotify.com/track/0wIZzK1cWw1CzYGxN1Og8m) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Ando High](https://open.spotify.com/album/3NebZzG6xjkmLE0wDiSbXH) | 2:45 |
 | 8 | [Monaco \- Pyura Remix](https://open.spotify.com/track/3wHtiTdrZkj5aYFnCeZcn0) | [Pyura](https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi) | [Monaco \(Pyura Remix\)](https://open.spotify.com/album/4QBrLN1AcqoQCmFUit2sWv) | 3:56 |
 | 9 | [512v](https://open.spotify.com/track/2oQz32JhGEmemuItfgoz1M) | [Dj Nacho Serra](https://open.spotify.com/artist/37JbKGCIYTyYw01zML801E), [Facundo Majdalani](https://open.spotify.com/artist/3NyQOEvPVM0jpm4Kh7sY5A) | [512v](https://open.spotify.com/album/345CAv2Rfeqo4blCC8Pajh) | 2:24 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9SZ5G67Azy.md) - [plain]
 | 69 | [Fuck el Police \- Remix](https://open.spotify.com/track/2v5gBze24GL5nWbZgvaEAk) | [Pyura](https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi) | [Fuck el Police \(Remix\)](https://open.spotify.com/album/3CHiQzPxbqvfkkm2QM3BlM) | 4:21 |
 | 70 | [Esta Vida](https://open.spotify.com/track/5OSGdSxtulzlzdPdK2MQJC) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Esta Vida](https://open.spotify.com/album/5C82uAeAwABjDB7lsLL9iL) | 3:29 |
 
-Snapshot ID: `MCwxZmY1ZTk3ZDc5ZDg2Yzk5YmU2Njc4M2U1NTdmZWZiZWFiNjVkMmY5`
+Snapshot ID: `MCwyNTczNDljYzdhYzQ2MTdlMjUyMmE5MWIyZjE1NDgzMGZiNDg4N2Jj`

@@ -2364,6 +2364,36 @@
     {
       "album": {
         "name": "The Season's Back Again",
+        "url": "https://open.spotify.com/album/2w32SlRvzHGycxGXbvCzS1"
+      },
+      "artists": [
+        {
+          "name": "Jeff Meegan",
+          "url": "https://open.spotify.com/artist/2XS2MrkksPqxbs0jputTr8"
+        },
+        {
+          "name": "David Tobin",
+          "url": "https://open.spotify.com/artist/4URqQyKF1NuIVmYiJtQIHb"
+        },
+        {
+          "name": "Mark Armstrong",
+          "url": "https://open.spotify.com/artist/2heBrCXNrnKh0sOfaaThiy"
+        },
+        {
+          "name": "Steve Memmolo",
+          "url": "https://open.spotify.com/artist/316EMLib9M7s8r6hxFnBtv"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176379,
+      "name": "The Very Best Day This Year",
+      "url": "https://open.spotify.com/track/2SYfeTvbD7cjxDRCm6LSTe"
+    },
+    {
+      "album": {
+        "name": "The Season's Back Again",
         "url": "https://open.spotify.com/album/1TFxAeGNb72icOOpa5jxHE"
       },
       "artists": [
@@ -2386,7 +2416,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 176379,
       "name": "The Very Best Day This Year",
       "url": "https://open.spotify.com/track/4tS8ySaehAjC9hd54xCesZ"

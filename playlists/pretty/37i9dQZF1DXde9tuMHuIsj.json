@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZGQ1Zjc4Mzg3MTM0MWEwOTllNTM1ZjAzNDg2ZjY3NThhMjMzMWI5",
+  "snapshot_id": "MCwyNDBmZmJlYmVmOTY0ZGMzYWZmZDNmMmI5OTAxNmQ3YWU0OTA2MzIw",
   "tracks": [
     {
       "added_at": "2024-02-09 05:00:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "3MEN2 KBRN",
-        "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 125124,
-      "name": "El Hokage",
-      "url": "https://open.spotify.com/track/5GZ4tx6VZxM7V4IQtSJFyx"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Glizzy Walk 2.5",
         "url": "https://open.spotify.com/album/65ebh116sDPSsxm2eXExyK"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 224248,
       "name": "Glizzy Walk 2.5",
       "url": "https://open.spotify.com/track/3O6dtQDB3MTYFPxlXn7zww"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "3MEN2 KBRN",
+        "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 125124,
+      "name": "El Hokage",
+      "url": "https://open.spotify.com/track/5GZ4tx6VZxM7V4IQtSJFyx"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1031,26 +1031,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Big Booty",
-        "url": "https://open.spotify.com/album/3a6Zg7J0UPZMl8rujyXgvt"
+        "name": "Manhattan",
+        "url": "https://open.spotify.com/album/1Hg5PSA16edGh2KZXxMpjN"
       },
       "artists": [
         {
-          "name": "Hozwal",
-          "url": "https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        },
-        {
-          "name": "Lil Geniuz",
-          "url": "https://open.spotify.com/artist/7nuTWfojdN0o8d7NGDo71U"
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
         }
       ],
-      "duration_ms": 191052,
-      "name": "Big Booty",
-      "url": "https://open.spotify.com/track/5nBHB9JZjBS087RSDgIEon"
+      "duration_ms": 130961,
+      "name": "Manhattan",
+      "url": "https://open.spotify.com/track/2YIkop8YguSz17oRABRXIp"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1103,18 +1095,26 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "MICRODOSIS",
-        "url": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC"
+        "name": "Big Booty",
+        "url": "https://open.spotify.com/album/3a6Zg7J0UPZMl8rujyXgvt"
       },
       "artists": [
         {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+          "name": "Hozwal",
+          "url": "https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        },
+        {
+          "name": "Lil Geniuz",
+          "url": "https://open.spotify.com/artist/7nuTWfojdN0o8d7NGDo71U"
         }
       ],
-      "duration_ms": 174916,
-      "name": "ROBERT DE NIRO",
-      "url": "https://open.spotify.com/track/3cR23eAZcjukbKtb9knlL4"
+      "duration_ms": 191052,
+      "name": "Big Booty",
+      "url": "https://open.spotify.com/track/5nBHB9JZjBS087RSDgIEon"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Manhattan",
-        "url": "https://open.spotify.com/album/1Hg5PSA16edGh2KZXxMpjN"
+        "name": "MICRODOSIS",
+        "url": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC"
       },
       "artists": [
         {
-          "name": "Hades66",
-          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
         }
       ],
-      "duration_ms": 130961,
-      "name": "Manhattan",
-      "url": "https://open.spotify.com/track/2YIkop8YguSz17oRABRXIp"
+      "duration_ms": 174916,
+      "name": "ROBERT DE NIRO",
+      "url": "https://open.spotify.com/track/3cR23eAZcjukbKtb9knlL4"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "WLGS",
+        "url": "https://open.spotify.com/album/5JWyYQTyvhEeUj0xvHrPxh"
+      },
+      "artists": [
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        }
+      ],
+      "duration_ms": 301874,
+      "name": "Glizzy Walk 3",
+      "url": "https://open.spotify.com/track/4GlyvnFvQ3wFiq1ot3xJBY"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Al Otro Nivel",
         "url": "https://open.spotify.com/album/2RS3obBX5SSEQE1e2TEdtZ"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 286754,
       "name": "Al Otro Nivel",
       "url": "https://open.spotify.com/track/2WJXba0CALXqWk8ghw2RiR"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "WLGS",
-        "url": "https://open.spotify.com/album/5JWyYQTyvhEeUj0xvHrPxh"
-      },
-      "artists": [
-        {
-          "name": "YOVNGCHIMI",
-          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
-        }
-      ],
-      "duration_ms": 301874,
-      "name": "Glizzy Walk 3",
-      "url": "https://open.spotify.com/track/4GlyvnFvQ3wFiq1ot3xJBY"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "TRAP KITTY",
+        "url": "https://open.spotify.com/album/6Pd4PYQpNXE7z3Scyfv0AV"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Trending",
+      "url": "https://open.spotify.com/track/0WY20ugVpmNX68kKtORl8i"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Neymar (Remix)",
         "url": "https://open.spotify.com/album/4p4nlwIbNxYl0CUqNwgpUQ"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 188108,
       "name": "Neymar - Remix",
       "url": "https://open.spotify.com/track/1pkfnn0nqvaBaoiT29pvwF"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "TRAP KITTY",
-        "url": "https://open.spotify.com/album/6Pd4PYQpNXE7z3Scyfv0AV"
-      },
-      "artists": [
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Trending",
-      "url": "https://open.spotify.com/track/0WY20ugVpmNX68kKtORl8i"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1547,42 +1547,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Anfetamina",
-        "url": "https://open.spotify.com/album/7J6peVThlSZeHce1YMyW9n"
-      },
-      "artists": [
-        {
-          "name": "Almighty",
-          "url": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
-        },
-        {
-          "name": "Luar La L",
-          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
-        }
-      ],
-      "duration_ms": 236197,
-      "name": "Anfetamina",
-      "url": "https://open.spotify.com/track/30gIEtWe6BawlVKlsgllKa"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Nosotros",
-        "url": "https://open.spotify.com/album/1BiWw1GQjHsvqG4SZPYjaV"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 262722,
-      "name": "Nosotros",
-      "url": "https://open.spotify.com/track/4o5kWgO8DVkEXO54fdXR3l"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Salvaje",
         "url": "https://open.spotify.com/album/2hiQsjcxSp7Y1XthypCH5r"
       },
@@ -1603,22 +1567,38 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/2TZv7gq1Xnp8c2IVTRy8Zp"
+        "name": "Nosotros",
+        "url": "https://open.spotify.com/album/1BiWw1GQjHsvqG4SZPYjaV"
       },
       "artists": [
         {
-          "name": "Yeruza",
-          "url": "https://open.spotify.com/artist/6NyPX5jymkvSPaJhCh1crb"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         }
       ],
-      "duration_ms": 254000,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/5V42ESWm6CPVldc1vzKwAU"
+      "duration_ms": 262722,
+      "name": "Nosotros",
+      "url": "https://open.spotify.com/track/4o5kWgO8DVkEXO54fdXR3l"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Anfetamina",
+        "url": "https://open.spotify.com/album/7J6peVThlSZeHce1YMyW9n"
+      },
+      "artists": [
+        {
+          "name": "Almighty",
+          "url": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "duration_ms": 236197,
+      "name": "Anfetamina",
+      "url": "https://open.spotify.com/track/30gIEtWe6BawlVKlsgllKa"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1643,6 +1623,26 @@
       "duration_ms": 193332,
       "name": "Juanito Alima\u00f1a",
       "url": "https://open.spotify.com/track/0qyBcGtF6GrRwnfRH8ezzK"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/2TZv7gq1Xnp8c2IVTRy8Zp"
+      },
+      "artists": [
+        {
+          "name": "Yeruza",
+          "url": "https://open.spotify.com/artist/6NyPX5jymkvSPaJhCh1crb"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 254000,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/5V42ESWm6CPVldc1vzKwAU"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1907,26 +1907,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "El Bloke Hills",
-        "url": "https://open.spotify.com/album/3bUFjO2k4a1KpnSjtpfwxc"
-      },
-      "artists": [
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 162713,
-      "name": "Gafas Pal Sol",
-      "url": "https://open.spotify.com/track/1fRVcAo1TNDqdzV55vn3ep"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "2seater",
         "url": "https://open.spotify.com/album/4AwJRkBFfYW4gtR4hD00A0"
       },
@@ -1947,6 +1927,26 @@
       "duration_ms": 161073,
       "name": "2seater",
       "url": "https://open.spotify.com/track/79I3HVYg5wXqlB9jjRCrWF"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "El Bloke Hills",
+        "url": "https://open.spotify.com/album/3bUFjO2k4a1KpnSjtpfwxc"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 162713,
+      "name": "Gafas Pal Sol",
+      "url": "https://open.spotify.com/track/1fRVcAo1TNDqdzV55vn3ep"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -2063,22 +2063,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Guarida",
-        "url": "https://open.spotify.com/album/5BvgHK8tmdBlIjxdSnyI0K"
-      },
-      "artists": [
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Guarida",
-      "url": "https://open.spotify.com/track/19FjaZwowlzROovPliZty2"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Hoodie",
         "url": "https://open.spotify.com/album/7khVi5TFgnk7RkKP7e9ttP"
       },
@@ -2091,6 +2075,22 @@
       "duration_ms": 174130,
       "name": "Hoodie",
       "url": "https://open.spotify.com/track/0tDLDI57XWC0ZTrfxKJVmB"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Guarida",
+        "url": "https://open.spotify.com/album/5BvgHK8tmdBlIjxdSnyI0K"
+      },
+      "artists": [
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Guarida",
+      "url": "https://open.spotify.com/track/19FjaZwowlzROovPliZty2"
     }
   ],
   "unique_name": "Trap Land",

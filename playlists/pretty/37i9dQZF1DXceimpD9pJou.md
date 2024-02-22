@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: <a href="spotify:artist:41A1tLHviwiCao1vXl1cgd">Manny Montes</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,248 likes - 100 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,270 likes - 100 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 99 | [QUE TIENE DE MALO](https://open.spotify.com/track/2XkZoV77TGMaAF8IR5w4I4) | [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42) | [VEINTITRES \(Deluxe\)](https://open.spotify.com/album/77cKQFZipHsTUGlJUCzCe8) | 2:22 |
 | 100 | [Es Épico Cristiano](https://open.spotify.com/track/4TqXo8GQT0ML9web55i0b4) | [Creyente.7](https://open.spotify.com/artist/5MaYKizuZvefKKYa85knBs) | [Es Épico Cristiano](https://open.spotify.com/album/2vGONICCl3n71w90DmmzYV) | 6:08 |
 
-Snapshot ID: `MCxkOTQ2ODdhMDE4MTA0OTRjZWQxMzJiYWY1NjQ0MmE0OWU1YzNmNDcz`
+Snapshot ID: `MCw0NzY3N2QxZTgyNTQ2MTIxNjAyZGU1NTllYjRiMWQ1NDFiMjE2MmQ5`

@@ -4,7 +4,7 @@
 
 > This is Murda Beatz\. The essential tracks, all in one playlist.
 
-35 songs - 1 hr 40 min
+36 songs - 1 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Ride With Shordie, Pt\. 2](https://open.spotify.com/track/05uAvu6nskpw3PNjsOStGd) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane 2](https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd) | 2:50 | 2023-12-13 |  |
 | [Same Niggas](https://open.spotify.com/track/5QKOme2dkvt6P3J0makF7b) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane](https://open.spotify.com/album/6m30knOGvtlQGoN4qMqtbp) | 2:18 | 2023-12-13 |  |
 | [Shopping Spree \(feat\. Lil Pump & Sheck Wes\)](https://open.spotify.com/track/7K3qxAZqTZEScGAEjVcUnJ) | [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [Lil Pump](https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY), [Sheck Wes](https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX) | [Shopping Spree \(feat\. Lil Pump & Sheck Wes\)](https://open.spotify.com/album/71uxGkMDuq1nSSXfkpeqqZ) | 2:50 | 2023-12-13 |  |
+| [Sin City](https://open.spotify.com/track/01F2R67nJLP3DaX6pqzCur) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Welcome To Sin City](https://open.spotify.com/album/0rIlufm34kVskiBFOU7Lsu) | 2:03 | 2024-02-21 |  |
 | [Sin City](https://open.spotify.com/track/1NU1Ee13eBlicWPRgLNWOc) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane 2](https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd) | 2:03 | 2023-12-13 | 2024-01-28 |
 | [Stuck in Between](https://open.spotify.com/track/0RjweECF6Y4zdR1cixjmiG) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane](https://open.spotify.com/album/6m30knOGvtlQGoN4qMqtbp) | 2:23 | 2023-12-13 |  |
 | [Touchdown \(feat\. Peezy & Murda Beatz\)](https://open.spotify.com/track/6EEh3VBH5a6ptEeTz1OYHv) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Unfuckwitable \(Deluxe Edition\)](https://open.spotify.com/album/4TZreMdjJL5LjJmK61oxG6) | 2:52 | 2023-12-13 |  |

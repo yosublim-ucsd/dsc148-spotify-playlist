@@ -4,7 +4,7 @@
 
 > The rap soundtrack to the internet\. Cover: Barretta
 
-950 songs - 1 day 14 hr 45 min
+951 songs - 1 day 14 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,7 +191,7 @@
 | [Clumsy Dancer](https://open.spotify.com/track/6LuD2JSlTWmidYCxwoDwMw) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW) | [exiit](https://open.spotify.com/album/5VAWrWrATNYTgUojcJtn8g) | 3:16 | 2023-06-16 | 2023-09-23 |
 | [Cmonnn \(Hit It One Time\)\(feat\. Lay Bankz\)](https://open.spotify.com/track/0FZUgV8DchbInBN1S7INnM) | [5Star](https://open.spotify.com/artist/493Nd7z7FKZXJOwQmuDng3), [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Cmonnn \(Hit It One Time\)\(feat\. Lay Bankz\)](https://open.spotify.com/album/6yrKgdAGnLWgmaYP6pKUDw) | 2:44 | 2022-04-04 | 2022-09-17 |
 | [COBRA](https://open.spotify.com/track/3caUeHv3m0bu2W7ATsLSdS) | [454](https://open.spotify.com/artist/29fUSOyH1ufr9HZbErHpc4), [SURF GANG](https://open.spotify.com/artist/0rTeZQSxEg1XzZ1dFz6Moz), [Sickboyrari](https://open.spotify.com/artist/395BAMokcNaqWcCl8uU1ky) | [FAST 5](https://open.spotify.com/album/20LECbYxV7cqF5R4nmk4Zg) | 2:30 | 2023-07-14 | 2023-11-25 |
-| [CODEINE CRAZY](https://open.spotify.com/track/7FoNUT1v6tCzGna2yZvVY3) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [CODEINE CRAZY](https://open.spotify.com/album/4tNzC4wdMxmqFQQ3ZAOdIU) | 2:37 | 2023-09-22 |  |
+| [CODEINE CRAZY](https://open.spotify.com/track/7FoNUT1v6tCzGna2yZvVY3) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [CODEINE CRAZY](https://open.spotify.com/album/4tNzC4wdMxmqFQQ3ZAOdIU) | 2:37 | 2023-09-22 | 2024-02-22 |
 | [COINCIDENCE](https://open.spotify.com/track/4Y3E5Y3kaBJqFc1vmSyg7V) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [FLAWLESS LIKE ME](https://open.spotify.com/album/5zWZi7tO66MoobIAl9OxWS) | 2:03 | 2022-09-27 | 2023-03-18 |
 | [COME HERE!](https://open.spotify.com/track/4lJEAyZDt8m7vXREjEXS6q) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [REAL RAW!](https://open.spotify.com/album/1vy7C8Ih5xGZM55A8mQME8) | 1:48 | 2023-05-05 | 2023-09-02 |
 | [Come On, Let's Go \(with Nigo\)](https://open.spotify.com/track/6f44p3Kc4ayD9VtbC9Clkr) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn) | [I Know NIGO!](https://open.spotify.com/album/75T8WnF5n7fgKJ0EC7WRPS) | 3:19 | 2022-04-02 | 2022-05-28 |
@@ -273,7 +273,7 @@
 | [EA \(feat\. 21 Savage\)](https://open.spotify.com/track/68MTDH8Kk4jBEV1ah0n89s) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [SlimeBall 2](https://open.spotify.com/album/6PRXKEq952eaaJWMUGNx5t) | 3:47 | 2022-04-03 | 2022-07-17 |
 | [Easter Pink](https://open.spotify.com/track/4GSOrzdPw00JS2aB2dAkSi) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [Easter Pink](https://open.spotify.com/album/4zvl90HgnIRiO1sBRUPmf9) | 2:34 | 2023-05-26 | 2023-10-14 |
 | [Eazy](https://open.spotify.com/track/6Ab81Bs9fcOwaTYuBsUUpI) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Eazy](https://open.spotify.com/album/26LYxs49CqC9WUZWiEK3jT) | 3:54 | 2022-02-18 | 2022-04-20 |
-| [Emily](https://open.spotify.com/track/6URtrmPQlWDbCy3Ke1VSNz) | [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr) | [Emily](https://open.spotify.com/album/5gyHraOxWm3iG92twv1HrL) | 1:39 | 2023-09-22 |  |
+| [Emily](https://open.spotify.com/track/6URtrmPQlWDbCy3Ke1VSNz) | [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr) | [Emily](https://open.spotify.com/album/5gyHraOxWm3iG92twv1HrL) | 1:39 | 2023-09-22 | 2024-02-22 |
 | [Escape From BABYLON](https://open.spotify.com/track/3f9lNXFSpE93mkVcQmm4x3) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Escape From BABYLON](https://open.spotify.com/album/2bcbMl6COtcqmSU5WBiUr8) | 2:21 | 2022-07-08 | 2023-01-26 |
 | [ESCAPE YOUR LOVE \(feat\. Trippie Redd\)](https://open.spotify.com/track/2dXQJ3cCBmaeX2QZVVh3cI) | [SSGKobe](https://open.spotify.com/artist/1NHCwCMqV9oNQJXl16IltL), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [ESCAPE YOUR LOVE \(feat\. Trippie Redd\)](https://open.spotify.com/album/6aZ1P0WWtwVCRRW8tjyPfP) | 3:19 | 2022-03-24 | 2022-09-17 |
 | [euphoria](https://open.spotify.com/track/4O9icaX9uwFqdFm9DmC26Q) | [che](https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF), [Specxfic](https://open.spotify.com/artist/5PbXje7x8DoKod3J9NB2Ex) | [euphoria](https://open.spotify.com/album/15BsUDpzIMTzlN6cEwqoEq) | 2:49 | 2022-05-13 | 2022-07-23 |
@@ -678,6 +678,7 @@
 | [Plastic Girls](https://open.spotify.com/track/6DulwWv42sYCMcCrs3one7) | [BBY KODIE](https://open.spotify.com/artist/7Mkl8rsG7ZMoh0SZPuVZUW) | [Plastic Girls](https://open.spotify.com/album/3mgenfgpKNOWkVMS1ASa9T) | 2:12 | 2022-06-24 | 2022-08-13 |
 | [Playboy](https://open.spotify.com/track/45GDh5cZcRVOAyQqZWxiUt) | [Jx.Zero](https://open.spotify.com/artist/3mMSaohBdsQgDKFmsJ5n2d) | [In My Sins](https://open.spotify.com/album/4GENTWizn55KM44eriqNq8) | 2:32 | 2022-02-02 | 2022-07-02 |
 | [Players](https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Players](https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM) | 2:19 | 2023-01-04 | 2023-06-10 |
+| [Point Em Out \(with DaBaby\)](https://open.spotify.com/track/1oaV97SzklGWVLi9LdW4Hf) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Point Em Out \(with DaBaby\)](https://open.spotify.com/album/4OokZs4MaEgyCHN35wJtew) | 2:13 | 2024-02-21 |  |
 | [Poland](https://open.spotify.com/track/74loibzxXRL875X20kenvk) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Poland](https://open.spotify.com/album/5LZiWbqOpj6g8uxSHch12S) | 1:23 | 2022-10-11 | 2023-02-16 |
 | [Pop Music \(feat\. Moneybagg Yo & Beatking\)](https://open.spotify.com/track/7562OP1Zx84xqrO5ECYour) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [BeatKing](https://open.spotify.com/artist/5L8p9kDnX2cgoI8VLUL2p4) | [Pop Music](https://open.spotify.com/album/0vKrIJGelC0Rz6R4zI7lsS) | 2:05 | 2022-01-28 | 2022-02-05 |
 | [Poppin](https://open.spotify.com/track/3wn8nOygkHLUQ9dlXM1rKW) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2 Alivë](https://open.spotify.com/album/0d1BFY8z15vye3KjtLvF3u) | 2:47 | 2022-03-06 | 2022-09-17 |

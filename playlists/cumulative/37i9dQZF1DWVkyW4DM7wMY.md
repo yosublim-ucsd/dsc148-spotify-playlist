@@ -4,7 +4,7 @@
 
 > The hottest alternative music from Nairobi to Dar!
 
-191 songs - 10 hr 1 min
+192 songs - 10 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [Crying](https://open.spotify.com/track/162t0gr1BgkLiLugHJTZpF) | [Tkay](https://open.spotify.com/artist/6fyyG0bifPLZIjIEKjidhs) | [Crying](https://open.spotify.com/album/23hBJSDu9n6PYuMBd0LIVl) | 2:58 | 2023-06-09 |  |
 | [Curtains](https://open.spotify.com/track/25XVan47oOYRQU04LiTfE0) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [Curtains](https://open.spotify.com/album/0CKUdB8tlCZaoxAVrCYKTI) | 1:50 | 2022-06-17 | 2022-09-23 |
 | [Divergent](https://open.spotify.com/track/4dvHvQKlhxqIqSDtUbmRdn) | [Waithaka](https://open.spotify.com/artist/5Ro7QwcAlsSBGQuv5FWTs4) | [Divergent](https://open.spotify.com/album/06NpcpY8sd5DofuSW0AApU) | 2:49 | 2024-01-26 |  |
-| [Divine Intervention](https://open.spotify.com/track/71FvDWdttOeuEdCb63a73s) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Galatea](https://open.spotify.com/album/6wlhvzUV68XeLk6fMirGqQ) | 2:58 | 2023-10-20 |  |
+| [Divine Intervention](https://open.spotify.com/track/3wFzFIZFNn0gxYkfdOybqY) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Galatea](https://open.spotify.com/album/2qXvUtcDzC8UycI1ccMWFw) | 2:58 | 2024-02-02 |  |
+| [Divine Intervention](https://open.spotify.com/track/71FvDWdttOeuEdCb63a73s) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Galatea](https://open.spotify.com/album/6wlhvzUV68XeLk6fMirGqQ) | 2:58 | 2023-10-20 | 2024-02-22 |
 | [Dogtail](https://open.spotify.com/track/1ziLbRPnlPKu9QeUyl36fx) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf) | [MFN](https://open.spotify.com/album/1UbW090je8UnxtjgGphoXy) | 3:36 | 2021-10-15 | 2022-07-09 |
 | [Doing U Better](https://open.spotify.com/track/7trZEJ00tghFf93kvkyb7S) | [Tangaza](https://open.spotify.com/artist/2ud6k0Vv2jiXXg78RuPmaS), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [Doing U Better](https://open.spotify.com/album/3OM6ultAF9mWPZZ5QC5Wdh) | 2:51 | 2023-03-17 |  |
 | [Echoes \- Remix](https://open.spotify.com/track/3B7XQSWXPAsz50D3NZTmZi) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729), [K!MERA](https://open.spotify.com/artist/1C3pCs0DmKTCvmqAJYerKN) | [Echoes \(Remix\)](https://open.spotify.com/album/21mY94BhJNjVcHXuTuBElI) | 2:47 | 2021-10-29 | 2023-11-10 |

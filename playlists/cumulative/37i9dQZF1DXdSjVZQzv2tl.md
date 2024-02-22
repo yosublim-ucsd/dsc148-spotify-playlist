@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [30 Cadeados \- Ao Vivo](https://open.spotify.com/track/4UBTjBOglPqrcDKSLwYHQr) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN), [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Paraíso Particular Vol\. 01 \(Ao Vivo\)](https://open.spotify.com/album/5xbSsOJsCXNSodcAE7IsAA) | 2:47 | 2024-02-09 |  |
+| [30 Cadeados \- Ao Vivo](https://open.spotify.com/track/4UBTjBOglPqrcDKSLwYHQr) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN), [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Paraíso Particular Vol\. 01 \(Ao Vivo\)](https://open.spotify.com/album/5xbSsOJsCXNSodcAE7IsAA) | 2:47 | 2024-02-09 | 2024-02-22 |
 | [5 Regras \- Ao Vivo](https://open.spotify.com/track/3gCWngngUs1uojw33vrE8K) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [É Simples Assim \(Ao Vivo\)](https://open.spotify.com/album/3KOePCX9vdj3OrAC2ruEFk) | 2:41 | 2022-08-05 | 2023-11-11 |
 | [50 por Cento](https://open.spotify.com/track/1d7Z2HUkWno2w4452Jaqt6) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [50 por Cento](https://open.spotify.com/album/0rSMQjWcNv9A4zD0XnTFR0) | 2:56 | 2022-03-18 | 2022-05-14 |
 | [A Cerveja Abre Sozinha \- Ao Vivo](https://open.spotify.com/track/1t7hoiam7urTLzzSTHuSDD) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Fortaleza, Vol.1 \(Ao Vivo\)](https://open.spotify.com/album/30YOsTPCOEx3GRXyZhDAMD) | 2:27 | 2024-01-26 |  |

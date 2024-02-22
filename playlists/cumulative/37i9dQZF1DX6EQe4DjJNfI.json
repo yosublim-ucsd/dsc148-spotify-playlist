@@ -3898,10 +3898,28 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 159375,
       "name": "Troco",
       "url": "https://open.spotify.com/track/3lL3rifI9DsdbApt8Lidkr"
+    },
+    {
+      "album": {
+        "name": "Troco",
+        "url": "https://open.spotify.com/album/3P5HL7EhZK7047gZXxWGW5"
+      },
+      "artists": [
+        {
+          "name": "Feh",
+          "url": "https://open.spotify.com/artist/3bMQmsnuvak2a7fOQagiCP"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159375,
+      "name": "Troco",
+      "url": "https://open.spotify.com/track/6TEMhEyTclTXT6PvYlW2tr"
     },
     {
       "album": {

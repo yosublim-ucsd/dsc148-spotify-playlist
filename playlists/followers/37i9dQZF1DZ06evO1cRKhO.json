@@ -1,5 +1,5 @@
 {
-  "2024-02-21": 565,
+  "2024-02-22": 565,
   "date_first_scraped": "2022-05-30",
   "description": "This is Pauline Oliveros. The essential tracks, all in one playlist.",
   "name": "This Is Pauline Oliveros",
@@ -1285,7 +1285,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 145040,
       "name": "Ghosting",
       "url": "https://open.spotify.com/track/4zpP00UCCZsYs9DkUHQkjx"
@@ -1373,7 +1373,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-20",
+      "date_removed": null,
       "duration_ms": 193813,
       "name": "Growler",
       "url": "https://open.spotify.com/track/4EiNKvrhChXtR5iyB9o2TT"
@@ -1715,7 +1715,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-18",
+      "date_removed": null,
       "duration_ms": 215880,
       "name": "Jupiter Smiles",
       "url": "https://open.spotify.com/track/3USmotICBcaGGxPfqATu64"
@@ -2715,7 +2715,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-20",
+      "date_removed": null,
       "duration_ms": 223960,
       "name": "Reverberations",
       "url": "https://open.spotify.com/track/6QhWeoGPAlrNOhnyhmQyLF"
@@ -2885,7 +2885,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 324358,
       "name": "Saxifraga Cotyledon",
       "url": "https://open.spotify.com/track/0KaZK2XsEioFtIoPGclo0K"
@@ -3435,7 +3435,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-19",
+      "date_removed": null,
       "duration_ms": 1504466,
       "name": "The Beauty Of Sorrow",
       "url": "https://open.spotify.com/track/078txIRiyvxbjjYesA9qy6"
@@ -4211,7 +4211,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 688426,
       "name": "Untited #270",
       "url": "https://open.spotify.com/track/5yrWE0AgTqRcQiIGyE0IFC"
@@ -4477,7 +4477,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 301173,
       "name": "Web Doppelganger",
       "url": "https://open.spotify.com/track/1GG18hW2tOOEEMlVjvOvil"

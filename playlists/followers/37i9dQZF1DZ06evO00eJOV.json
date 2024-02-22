@@ -1,5 +1,5 @@
 {
-  "2024-02-21": 34876,
+  "2024-02-22": 34882,
   "date_first_scraped": "2021-12-29",
   "description": "This is Brenda Fassie. The essential tracks, all in one playlist.",
   "name": "This Is Brenda Fassie",
@@ -115,6 +115,24 @@
       "duration_ms": 296733,
       "name": "Dikonyana",
       "url": "https://open.spotify.com/track/2v3m71lnJIB8GPeMdnjVlx"
+    },
+    {
+      "album": {
+        "name": "Too Late For Mama",
+        "url": "https://open.spotify.com/album/46iGQsed63hPnVAF45FCLN"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277896,
+      "name": "Don't Follow Me I'm Married",
+      "url": "https://open.spotify.com/track/3ntYMGTuAmBoRHe1IdQAsS"
     },
     {
       "album": {
@@ -1019,7 +1037,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 288626,
       "name": "Romantic World",
       "url": "https://open.spotify.com/track/6pOOXngC299Z7wOPU4kDWQ"

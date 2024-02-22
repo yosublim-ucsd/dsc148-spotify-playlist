@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wf3aoR8txl.md) - [plain]
 
 > Music from "YU☆YU☆HAKUSHO" series\. 実写化も話題の人気アニメ「幽☆遊☆白書」主題歌、エンディングソングと人気キャラクターソングを一気にお届け！©Y.T.90\-94/P,S
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,031 likes - 45 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,033 likes - 45 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,10 +48,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wf3aoR8txl.md) - [plain]
 | 38 | [Cry Lonely Cry](https://open.spotify.com/track/2m6XCWUd1s5lrkns0av1kf) | [戸愚呂\(弟\)\(CV:玄田哲章\)](https://open.spotify.com/artist/5c2K7k72UqEnb5t07nb0Me) | [幽☆遊☆白書 ミュージックバトル編3～魔界伝説～](https://open.spotify.com/album/0d9vC1LJbYT3PwzAfM8qVR) | 5:49 |
 | 39 | [永遠のレクイエム](https://open.spotify.com/track/5wKy9UzQqzzAXAJJc9XhQb) | [仙水 忍\(CV:納谷六朗\)](https://open.spotify.com/artist/5alj1n51xNhB8pIGqL41Uj), [樹\(CV:辻谷耕史\)](https://open.spotify.com/artist/3JCqW7t3AFNw4ZNhZHwGB4) | [幽☆遊☆白書 ミュージックバトル編3～魔界伝説～](https://open.spotify.com/album/0d9vC1LJbYT3PwzAfM8qVR) | 6:33 |
 | 40 | [Hikari no Naka de](https://open.spotify.com/track/3qXRUX5UjXHrQuKGy4mOen) | [Yusuke Urameshi\(CV:Nozomu Sasaki\)](https://open.spotify.com/artist/04hFZSKvPBidU2MNPyiMSZ), [Kazuma Kuwabara\(CV:Shigeru Chiba\)](https://open.spotify.com/artist/0YEregQJiAKJrROVX58i43), [Kurama\(CV:Megumi Ogata\)](https://open.spotify.com/artist/0Ohqjv3X2RAixPHxVV11qL), [Hiei\(CV:Nobuyuki Hiyama\)](https://open.spotify.com/artist/2Mex0lnZpIGg3VNi6Rx7GL) | [Yu Yu Hakusho \- Collective Songs \-](https://open.spotify.com/album/464M4r3vUBjyxSUkpmDUi4) | 6:05 |
-| 41 | [幽助のテーマ](https://open.spotify.com/track/6Ptdwc9IuzdPIWtOgURwgs) | [Yusuke Honma](https://open.spotify.com/artist/5QLXviQ1Xodo1PuwOQ848V) | [幽☆遊☆白書 オリジナルサウンドトラック](https://open.spotify.com/album/3jjfgVzSP1ve3ATWDkR36e) | 3:08 |
-| 42 | [飛影のテーマ](https://open.spotify.com/track/17FrLmGZ8gD6NRcbfUHfeS) | [Yusuke Honma](https://open.spotify.com/artist/5QLXviQ1Xodo1PuwOQ848V) | [幽☆遊☆白書 オリジナルサウンドトラック](https://open.spotify.com/album/3jjfgVzSP1ve3ATWDkR36e) | 2:58 |
-| 43 | [蔵馬のテーマ](https://open.spotify.com/track/2p9ppB8D2WusFAM0kCMeyQ) | [Yusuke Honma](https://open.spotify.com/artist/5QLXviQ1Xodo1PuwOQ848V) | [幽☆遊☆白書 オリジナルサウンドトラック](https://open.spotify.com/album/3jjfgVzSP1ve3ATWDkR36e) | 3:15 |
-| 44 | [桑原のテーマ](https://open.spotify.com/track/1xS1xkpVsxedglgB6awWSC) | [Yusuke Honma](https://open.spotify.com/artist/5QLXviQ1Xodo1PuwOQ848V) | [幽☆遊☆白書 オリジナルサウンドトラック](https://open.spotify.com/album/3jjfgVzSP1ve3ATWDkR36e) | 2:59 |
+| 41 | [Yusuke no Theme](https://open.spotify.com/track/3W8gnSSJZAop98kDl7Eyg0) | [Yusuke Honma](https://open.spotify.com/artist/5QLXviQ1Xodo1PuwOQ848V) | [Yu Yu Hakusho Original Soundtrack](https://open.spotify.com/album/7LH62pNEQFCABzXwrX8Ema) | 3:08 |
+| 42 | [Hiei no Theme](https://open.spotify.com/track/55hbHOPvOUT2HEb0d9L6Uo) | [Yusuke Honma](https://open.spotify.com/artist/5QLXviQ1Xodo1PuwOQ848V) | [Yu Yu Hakusho Original Soundtrack](https://open.spotify.com/album/7LH62pNEQFCABzXwrX8Ema) | 2:58 |
+| 43 | [Kurama no Theme](https://open.spotify.com/track/1coyv479zxWurUVr6K4nS3) | [Yusuke Honma](https://open.spotify.com/artist/5QLXviQ1Xodo1PuwOQ848V) | [Yu Yu Hakusho Original Soundtrack](https://open.spotify.com/album/7LH62pNEQFCABzXwrX8Ema) | 3:15 |
+| 44 | [Kuwabara no Theme](https://open.spotify.com/track/3mcU012P39zfHImsKP88mT) | [Yusuke Honma](https://open.spotify.com/artist/5QLXviQ1Xodo1PuwOQ848V) | [Yu Yu Hakusho Original Soundtrack](https://open.spotify.com/album/7LH62pNEQFCABzXwrX8Ema) | 2:59 |
 | 45 | [幽助パワーアップ!](https://open.spotify.com/track/5WH89dniVjsSZEACH6VrEt) | [Yusuke Honma](https://open.spotify.com/artist/5QLXviQ1Xodo1PuwOQ848V) | [幽☆遊☆白書 オリジナルサウンドトラック Vol.2 ～魔界の扉編～](https://open.spotify.com/album/1ha1rWSxldGVVDH6JdKM2B) | 3:56 |
 
-Snapshot ID: `MCxjOTgwMzdiMDFlMjM1ZGVjZjMxNmFhNDBmZTY4MmU1ZmJmZTc0NzA1`
+Snapshot ID: `MCwwZTQzOTY2NjRkNmQ3MGQ4YWFmNGEyNWI0ZDgxYjU5ZDUxZWVlOTcz`

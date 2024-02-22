@@ -1,12 +1,12 @@
 {
   "description": "The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.",
-  "num_followers": 66280,
+  "num_followers": 66431,
   "original_name": "Not Quite Classical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMTlkMjUzZDA2MjU0ZmY5MGZiNjJjOTRlMTc1ZGRiMWExNjY5MmRk",
+  "snapshot_id": "MCwwNGMwMjY4NzhmNzk3ZjVkMTM0MGIzNDQ3OTY2YjcxZGEwYTgyYmZl",
   "tracks": [
     {
       "added_at": "2024-02-09 04:00:00",
@@ -23,6 +23,22 @@
       "duration_ms": 198584,
       "name": "Late",
       "url": "https://open.spotify.com/track/617B8BzRj0qN4cx8ITXV5B"
+    },
+    {
+      "added_at": "2024-02-09 04:00:00",
+      "album": {
+        "name": "Human",
+        "url": "https://open.spotify.com/album/45VK2yNRU1GPKcfaeN2aLP"
+      },
+      "artists": [
+        {
+          "name": "Vanbur",
+          "url": "https://open.spotify.com/artist/0R2bPrDcf0qEFHbQazwiXj"
+        }
+      ],
+      "duration_ms": 232040,
+      "name": "In Cold Light",
+      "url": "https://open.spotify.com/track/140jZx69WlaEovptyTYevr"
     },
     {
       "added_at": "2024-02-09 04:00:00",
@@ -47,22 +63,6 @@
     {
       "added_at": "2024-02-09 04:00:00",
       "album": {
-        "name": "Human",
-        "url": "https://open.spotify.com/album/45VK2yNRU1GPKcfaeN2aLP"
-      },
-      "artists": [
-        {
-          "name": "Vanbur",
-          "url": "https://open.spotify.com/artist/0R2bPrDcf0qEFHbQazwiXj"
-        }
-      ],
-      "duration_ms": 232040,
-      "name": "In Cold Light",
-      "url": "https://open.spotify.com/track/140jZx69WlaEovptyTYevr"
-    },
-    {
-      "added_at": "2024-02-09 04:00:00",
-      "album": {
         "name": "Du Nord",
         "url": "https://open.spotify.com/album/3oXN64PxXKUKYVt6elfyWp"
       },
@@ -83,22 +83,6 @@
     {
       "added_at": "2024-02-09 04:00:00",
       "album": {
-        "name": "Frost",
-        "url": "https://open.spotify.com/album/4gn0GVFZ6ckwtHYuu6SKpH"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 125437,
-      "name": "Frost",
-      "url": "https://open.spotify.com/track/0dJ2ybe4xFAFc8jXwUVNjg"
-    },
-    {
-      "added_at": "2024-02-09 04:00:00",
-      "album": {
         "name": "Eyes Closed And Traveling",
         "url": "https://open.spotify.com/album/5Lc2PFEqSXXRAL3swmftRb"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 219549,
       "name": "Eyes Closed And Traveling",
       "url": "https://open.spotify.com/track/6zYHwIlDPraiG9UTg4y0oe"
+    },
+    {
+      "added_at": "2024-02-09 04:00:00",
+      "album": {
+        "name": "Frost",
+        "url": "https://open.spotify.com/album/4gn0GVFZ6ckwtHYuu6SKpH"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 125437,
+      "name": "Frost",
+      "url": "https://open.spotify.com/track/0dJ2ybe4xFAFc8jXwUVNjg"
     },
     {
       "added_at": "2024-02-09 04:00:00",
@@ -131,22 +131,6 @@
       "duration_ms": 292880,
       "name": "Whispering House",
       "url": "https://open.spotify.com/track/3Rp6QRg26D55gGRFlfHltm"
-    },
-    {
-      "added_at": "2024-02-09 04:00:00",
-      "album": {
-        "name": "Cloud Memory",
-        "url": "https://open.spotify.com/album/1uu3zbo7cvj4NM2U15fCOU"
-      },
-      "artists": [
-        {
-          "name": "Jim Perkins",
-          "url": "https://open.spotify.com/artist/6ihM9B0SRS5Xcvsw03Y1Vi"
-        }
-      ],
-      "duration_ms": 117585,
-      "name": "Cloud Memory",
-      "url": "https://open.spotify.com/track/2dUIvQRy9wfxNVcm0JLwNm"
     },
     {
       "added_at": "2024-02-09 04:00:00",
@@ -203,6 +187,22 @@
       "duration_ms": 229606,
       "name": "Solitude I",
       "url": "https://open.spotify.com/track/4tkzQ9Eg3OeuZuAH8O3aUl"
+    },
+    {
+      "added_at": "2024-02-09 04:00:00",
+      "album": {
+        "name": "Cloud Memory",
+        "url": "https://open.spotify.com/album/1uu3zbo7cvj4NM2U15fCOU"
+      },
+      "artists": [
+        {
+          "name": "Jim Perkins",
+          "url": "https://open.spotify.com/artist/6ihM9B0SRS5Xcvsw03Y1Vi"
+        }
+      ],
+      "duration_ms": 117585,
+      "name": "Cloud Memory",
+      "url": "https://open.spotify.com/track/2dUIvQRy9wfxNVcm0JLwNm"
     },
     {
       "added_at": "2024-02-09 04:00:00",
@@ -283,30 +283,6 @@
     {
       "added_at": "2024-02-09 04:00:00",
       "album": {
-        "name": "Delicately",
-        "url": "https://open.spotify.com/album/7yh6bUD0zf7uDGeufUHh85"
-      },
-      "artists": [
-        {
-          "name": "Jim Perkins",
-          "url": "https://open.spotify.com/artist/6ihM9B0SRS5Xcvsw03Y1Vi"
-        },
-        {
-          "name": "Javi Lobe",
-          "url": "https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT"
-        },
-        {
-          "name": "Anna De Bruin",
-          "url": "https://open.spotify.com/artist/1VE5Yi7cxQZsCF044htLO4"
-        }
-      ],
-      "duration_ms": 123251,
-      "name": "Delicately",
-      "url": "https://open.spotify.com/track/4hL2tCFmEkRBfaVsZ8G7lC"
-    },
-    {
-      "added_at": "2024-02-09 04:00:00",
-      "album": {
         "name": "The Wind",
         "url": "https://open.spotify.com/album/4Ud5YQc9KHMuj0TQQfvnnj"
       },
@@ -375,6 +351,30 @@
     {
       "added_at": "2024-02-09 04:00:00",
       "album": {
+        "name": "Delicately",
+        "url": "https://open.spotify.com/album/7yh6bUD0zf7uDGeufUHh85"
+      },
+      "artists": [
+        {
+          "name": "Jim Perkins",
+          "url": "https://open.spotify.com/artist/6ihM9B0SRS5Xcvsw03Y1Vi"
+        },
+        {
+          "name": "Javi Lobe",
+          "url": "https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT"
+        },
+        {
+          "name": "Anna De Bruin",
+          "url": "https://open.spotify.com/artist/1VE5Yi7cxQZsCF044htLO4"
+        }
+      ],
+      "duration_ms": 123251,
+      "name": "Delicately",
+      "url": "https://open.spotify.com/track/4hL2tCFmEkRBfaVsZ8G7lC"
+    },
+    {
+      "added_at": "2024-02-09 04:00:00",
+      "album": {
         "name": "Balcony Hotel (From 'Miss')",
         "url": "https://open.spotify.com/album/03gQiVHlkBcujpdfozAUKz"
       },
@@ -387,6 +387,22 @@
       "duration_ms": 168398,
       "name": "Balcony Hotel - From 'Miss'",
       "url": "https://open.spotify.com/track/1ugTSkllKG0YdiPaOEPa0z"
+    },
+    {
+      "added_at": "2024-02-09 04:00:00",
+      "album": {
+        "name": "Elva",
+        "url": "https://open.spotify.com/album/7hdlF6vtbKZROuiJE99zKs"
+      },
+      "artists": [
+        {
+          "name": "Doug Kaufman",
+          "url": "https://open.spotify.com/artist/3Z9VXDrGAFUoyvXvI0aFbZ"
+        }
+      ],
+      "duration_ms": 176062,
+      "name": "The Garden",
+      "url": "https://open.spotify.com/track/1QwnjxsFzruTTCbuuKQdnH"
     },
     {
       "added_at": "2024-02-09 04:00:00",
@@ -407,22 +423,6 @@
       "duration_ms": 160089,
       "name": "The Turning Year",
       "url": "https://open.spotify.com/track/53sR7EKIy3Yc2a3xPXMz9h"
-    },
-    {
-      "added_at": "2024-02-09 04:00:00",
-      "album": {
-        "name": "Elva",
-        "url": "https://open.spotify.com/album/7hdlF6vtbKZROuiJE99zKs"
-      },
-      "artists": [
-        {
-          "name": "Doug Kaufman",
-          "url": "https://open.spotify.com/artist/3Z9VXDrGAFUoyvXvI0aFbZ"
-        }
-      ],
-      "duration_ms": 176062,
-      "name": "The Garden",
-      "url": "https://open.spotify.com/track/1QwnjxsFzruTTCbuuKQdnH"
     },
     {
       "added_at": "2024-02-09 04:00:00",
@@ -503,6 +503,22 @@
     {
       "added_at": "2024-02-09 04:00:00",
       "album": {
+        "name": "Chasing the Present (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3WOn9LRzQqSsykbPB9AChV"
+      },
+      "artists": [
+        {
+          "name": "Snorri Hallgr\u00edmsson",
+          "url": "https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs"
+        }
+      ],
+      "duration_ms": 182836,
+      "name": "Chasing the Present",
+      "url": "https://open.spotify.com/track/5HzT7FpMsxO23zG5oIkzUz"
+    },
+    {
+      "added_at": "2024-02-09 04:00:00",
+      "album": {
         "name": "Under the Stars",
         "url": "https://open.spotify.com/album/3aZRTplanzJ0a3TW9asCfI"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 151402,
       "name": "Under the Stars",
       "url": "https://open.spotify.com/track/42QdAFbblfxSMMlzMFbVbx"
-    },
-    {
-      "added_at": "2024-02-09 04:00:00",
-      "album": {
-        "name": "Chasing the Present (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3WOn9LRzQqSsykbPB9AChV"
-      },
-      "artists": [
-        {
-          "name": "Snorri Hallgr\u00edmsson",
-          "url": "https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs"
-        }
-      ],
-      "duration_ms": 182836,
-      "name": "Chasing the Present",
-      "url": "https://open.spotify.com/track/5HzT7FpMsxO23zG5oIkzUz"
     },
     {
       "added_at": "2024-02-09 04:00:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-02-09 04:00:00",
       "album": {
-        "name": "Stars Light Up The Water",
-        "url": "https://open.spotify.com/album/3rsPuZNT9JJUVwCfjBY8eJ"
-      },
-      "artists": [
-        {
-          "name": "Comet Blue",
-          "url": "https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF"
-        }
-      ],
-      "duration_ms": 136625,
-      "name": "Stars Light Up The Water",
-      "url": "https://open.spotify.com/track/3Jff69kvbsXnRwHnJTOL2A"
-    },
-    {
-      "added_at": "2024-02-09 04:00:00",
-      "album": {
         "name": "Mirror",
         "url": "https://open.spotify.com/album/3Amd5iGpGd9lv6hNAVwdA8"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 194000,
       "name": "Mirror",
       "url": "https://open.spotify.com/track/3NABVjRtAZrbnmGNeoyCyN"
+    },
+    {
+      "added_at": "2024-02-09 04:00:00",
+      "album": {
+        "name": "Stars Light Up The Water",
+        "url": "https://open.spotify.com/album/3rsPuZNT9JJUVwCfjBY8eJ"
+      },
+      "artists": [
+        {
+          "name": "Comet Blue",
+          "url": "https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF"
+        }
+      ],
+      "duration_ms": 136625,
+      "name": "Stars Light Up The Water",
+      "url": "https://open.spotify.com/track/3Jff69kvbsXnRwHnJTOL2A"
     },
     {
       "added_at": "2024-02-09 04:00:00",
@@ -775,6 +775,22 @@
     {
       "added_at": "2024-02-09 04:00:00",
       "album": {
+        "name": "Somnia",
+        "url": "https://open.spotify.com/album/7dtv2mPeog1e4VssWa3zh4"
+      },
+      "artists": [
+        {
+          "name": "Peter Gregson",
+          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
+        }
+      ],
+      "duration_ms": 198323,
+      "name": "Somnia",
+      "url": "https://open.spotify.com/track/3Q1jt1WHNwsszyEAJmyaRL"
+    },
+    {
+      "added_at": "2024-02-09 04:00:00",
+      "album": {
         "name": "The Invisible EP",
         "url": "https://open.spotify.com/album/2YlB5eElaicdKaMYZVUHsO"
       },
@@ -811,6 +827,22 @@
     {
       "added_at": "2024-02-09 04:00:00",
       "album": {
+        "name": "The Drifter",
+        "url": "https://open.spotify.com/album/4WMp8Iz1dogRcM9XaOlkxU"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 168085,
+      "name": "The Drifter",
+      "url": "https://open.spotify.com/track/4u2Kn8DaYBEuB19AjWcMDn"
+    },
+    {
+      "added_at": "2024-02-09 04:00:00",
+      "album": {
         "name": "Footsteps",
         "url": "https://open.spotify.com/album/4qI8w8FNN2WloEl7uYhLPZ"
       },
@@ -827,38 +859,6 @@
       "duration_ms": 189026,
       "name": "Footsteps",
       "url": "https://open.spotify.com/track/0fW4lw6yMHRckkdM8gj5st"
-    },
-    {
-      "added_at": "2024-02-09 04:00:00",
-      "album": {
-        "name": "Somnia",
-        "url": "https://open.spotify.com/album/7dtv2mPeog1e4VssWa3zh4"
-      },
-      "artists": [
-        {
-          "name": "Peter Gregson",
-          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
-        }
-      ],
-      "duration_ms": 198323,
-      "name": "Somnia",
-      "url": "https://open.spotify.com/track/3Q1jt1WHNwsszyEAJmyaRL"
-    },
-    {
-      "added_at": "2024-02-09 04:00:00",
-      "album": {
-        "name": "The Drifter",
-        "url": "https://open.spotify.com/album/4WMp8Iz1dogRcM9XaOlkxU"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 168085,
-      "name": "The Drifter",
-      "url": "https://open.spotify.com/track/4u2Kn8DaYBEuB19AjWcMDn"
     },
     {
       "added_at": "2024-02-09 04:00:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-02-09 04:00:00",
       "album": {
-        "name": "Empty",
-        "url": "https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI"
-      },
-      "artists": [
-        {
-          "name": "Nils Frahm",
-          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
-        }
-      ],
-      "duration_ms": 286986,
-      "name": "No Step on Wing",
-      "url": "https://open.spotify.com/track/2DmIDwMhMA3V0KipI78nM1"
-    },
-    {
-      "added_at": "2024-02-09 04:00:00",
-      "album": {
         "name": "Avant-derni\u00e8res pens\u00e9es: I. Idylle [Snorri Hallgr\u00edmsson Rework (FRAGMENTS / Erik Satie)]",
         "url": "https://open.spotify.com/album/1arRxLkgqEqmKAFodhjgCv"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 236520,
       "name": "Avant-derni\u00e8res pens\u00e9es: I. Idylle - Snorri Hallgr\u00edmsson Rework (FRAGMENTS / Erik Satie)",
       "url": "https://open.spotify.com/track/3q8PlM3EcBu5ab6CFrIbTe"
+    },
+    {
+      "added_at": "2024-02-09 04:00:00",
+      "album": {
+        "name": "Empty",
+        "url": "https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "duration_ms": 286986,
+      "name": "No Step on Wing",
+      "url": "https://open.spotify.com/track/2DmIDwMhMA3V0KipI78nM1"
     },
     {
       "added_at": "2024-02-09 04:00:00",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2024-02-09 04:00:00",
       "album": {
+        "name": "Okno",
+        "url": "https://open.spotify.com/album/1LheFuzh54DF8zmFiKD1iX"
+      },
+      "artists": [
+        {
+          "name": "Julia Gjertsen",
+          "url": "https://open.spotify.com/artist/6dEpJk27D9ijwgvz33icCC"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Okno",
+      "url": "https://open.spotify.com/track/1fne5Gw3Uv96aNy50Fer6s"
+    },
+    {
+      "added_at": "2024-02-09 04:00:00",
+      "album": {
         "name": "A",
         "url": "https://open.spotify.com/album/4pyvUT61X7FcjvItZogGt3"
       },
@@ -1175,18 +1191,18 @@
     {
       "added_at": "2024-02-09 04:00:00",
       "album": {
-        "name": "Okno",
-        "url": "https://open.spotify.com/album/1LheFuzh54DF8zmFiKD1iX"
+        "name": "Tripping with Nils Frahm",
+        "url": "https://open.spotify.com/album/1NbOBXUF862DsBNF5byxzh"
       },
       "artists": [
         {
-          "name": "Julia Gjertsen",
-          "url": "https://open.spotify.com/artist/6dEpJk27D9ijwgvz33icCC"
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
         }
       ],
-      "duration_ms": 187000,
-      "name": "Okno",
-      "url": "https://open.spotify.com/track/1fne5Gw3Uv96aNy50Fer6s"
+      "duration_ms": 368668,
+      "name": "My Friend the Forest",
+      "url": "https://open.spotify.com/track/6Rkp6fEsvOTR7YxsW5uNyR"
     },
     {
       "added_at": "2024-02-09 04:00:00",
@@ -1223,22 +1239,6 @@
       "duration_ms": 210440,
       "name": "A Tiny Ripple That Becomes A Giant Wave",
       "url": "https://open.spotify.com/track/7iyHlkSodnReI1yq3U858h"
-    },
-    {
-      "added_at": "2024-02-09 04:00:00",
-      "album": {
-        "name": "Tripping with Nils Frahm",
-        "url": "https://open.spotify.com/album/1NbOBXUF862DsBNF5byxzh"
-      },
-      "artists": [
-        {
-          "name": "Nils Frahm",
-          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
-        }
-      ],
-      "duration_ms": 368668,
-      "name": "My Friend the Forest",
-      "url": "https://open.spotify.com/track/6Rkp6fEsvOTR7YxsW5uNyR"
     },
     {
       "added_at": "2024-02-09 04:00:00",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2024-02-09 04:00:00",
       "album": {
+        "name": "Above (composed as the score to a Matthias Koenigswieser photograph)",
+        "url": "https://open.spotify.com/album/578KRUD8wbv5en4bzsw0p7"
+      },
+      "artists": [
+        {
+          "name": "Slow Shiver",
+          "url": "https://open.spotify.com/artist/7Is8CSsyLYNX4GANuU3oCl"
+        }
+      ],
+      "duration_ms": 127865,
+      "name": "Above - composed as the score to a Matthias Koenigswieser photograph",
+      "url": "https://open.spotify.com/track/6nwOd5erhIqafAW6koIocm"
+    },
+    {
+      "added_at": "2024-02-09 04:00:00",
+      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/2IZYzC0D0efP2obfPhvClq"
       },
@@ -1383,18 +1399,18 @@
     {
       "added_at": "2024-02-09 04:00:00",
       "album": {
-        "name": "Above (composed as the score to a Matthias Koenigswieser photograph)",
-        "url": "https://open.spotify.com/album/578KRUD8wbv5en4bzsw0p7"
+        "name": "Vitamin String Quartet Performs Bjork",
+        "url": "https://open.spotify.com/album/0JL6wzlO2S9sPwdDiBkawB"
       },
       "artists": [
         {
-          "name": "Slow Shiver",
-          "url": "https://open.spotify.com/artist/7Is8CSsyLYNX4GANuU3oCl"
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
         }
       ],
-      "duration_ms": 127865,
-      "name": "Above - composed as the score to a Matthias Koenigswieser photograph",
-      "url": "https://open.spotify.com/track/6nwOd5erhIqafAW6koIocm"
+      "duration_ms": 225400,
+      "name": "New World",
+      "url": "https://open.spotify.com/track/0ZYyAD3ZFssmqUrfBhjQst"
     },
     {
       "added_at": "2024-02-09 04:00:00",
@@ -1419,22 +1435,6 @@
     {
       "added_at": "2024-02-09 04:00:00",
       "album": {
-        "name": "Vitamin String Quartet Performs Bjork",
-        "url": "https://open.spotify.com/album/0JL6wzlO2S9sPwdDiBkawB"
-      },
-      "artists": [
-        {
-          "name": "Vitamin String Quartet",
-          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
-        }
-      ],
-      "duration_ms": 225400,
-      "name": "New World",
-      "url": "https://open.spotify.com/track/0ZYyAD3ZFssmqUrfBhjQst"
-    },
-    {
-      "added_at": "2024-02-09 04:00:00",
-      "album": {
         "name": "A Winged Victory for the Sullen",
         "url": "https://open.spotify.com/album/6vygseD1InhHomosteUnPU"
       },
@@ -1447,22 +1447,6 @@
       "duration_ms": 266840,
       "name": "Steep Hills of Vicodin Tears",
       "url": "https://open.spotify.com/track/3ytUgxZj1EYHb8zlk5VKk6"
-    },
-    {
-      "added_at": "2024-02-09 04:00:00",
-      "album": {
-        "name": "Old Friends New Friends",
-        "url": "https://open.spotify.com/album/6kczD163sXLW0Z8P42laJ6"
-      },
-      "artists": [
-        {
-          "name": "Nils Frahm",
-          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
-        }
-      ],
-      "duration_ms": 244919,
-      "name": "Corn",
-      "url": "https://open.spotify.com/track/32qxwUbqj7j9MK4fkiXGPU"
     },
     {
       "added_at": "2024-02-09 04:00:00",
@@ -1483,6 +1467,22 @@
     {
       "added_at": "2024-02-09 04:00:00",
       "album": {
+        "name": "Old Friends New Friends",
+        "url": "https://open.spotify.com/album/6kczD163sXLW0Z8P42laJ6"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "duration_ms": 244919,
+      "name": "Corn",
+      "url": "https://open.spotify.com/track/32qxwUbqj7j9MK4fkiXGPU"
+    },
+    {
+      "added_at": "2024-02-09 04:00:00",
+      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/49jgXZPDfEu07LoN4hCS5O"
       },
@@ -1495,22 +1495,6 @@
       "duration_ms": 201181,
       "name": "For You",
       "url": "https://open.spotify.com/track/3j7siGdElMQwOX1VPCWoW7"
-    },
-    {
-      "added_at": "2024-02-09 04:00:00",
-      "album": {
-        "name": "Waterfelt",
-        "url": "https://open.spotify.com/album/6H5PZmSZzvTXLlt07qzNZk"
-      },
-      "artists": [
-        {
-          "name": "Joel Christian Goffin",
-          "url": "https://open.spotify.com/artist/658h552Ad4Rs9s9jwcWVuF"
-        }
-      ],
-      "duration_ms": 223326,
-      "name": "Waterfelt",
-      "url": "https://open.spotify.com/track/0lWBHo6UlkykeDpwAiwOv4"
     },
     {
       "added_at": "2024-02-09 04:00:00",
@@ -1531,6 +1515,22 @@
     {
       "added_at": "2024-02-09 04:00:00",
       "album": {
+        "name": "Waterfelt",
+        "url": "https://open.spotify.com/album/6H5PZmSZzvTXLlt07qzNZk"
+      },
+      "artists": [
+        {
+          "name": "Joel Christian Goffin",
+          "url": "https://open.spotify.com/artist/658h552Ad4Rs9s9jwcWVuF"
+        }
+      ],
+      "duration_ms": 223326,
+      "name": "Waterfelt",
+      "url": "https://open.spotify.com/track/0lWBHo6UlkykeDpwAiwOv4"
+    },
+    {
+      "added_at": "2024-02-09 04:00:00",
+      "album": {
         "name": "No Home of the Mind",
         "url": "https://open.spotify.com/album/0CNDCFHe5E0EYQT39CwgNA"
       },
@@ -1547,18 +1547,22 @@
     {
       "added_at": "2024-02-09 04:00:00",
       "album": {
-        "name": "Next Winter",
-        "url": "https://open.spotify.com/album/6ZWxDNKRbwvPHa8quQNf9P"
+        "name": "Floreana",
+        "url": "https://open.spotify.com/album/6xGQ7fVQqfMCaS4mYVBaTl"
       },
       "artists": [
         {
-          "name": "Mark Slater",
-          "url": "https://open.spotify.com/artist/63TOnUvxBBCq0yJN9wKuXF"
+          "name": "Gustaf Ljunggren",
+          "url": "https://open.spotify.com/artist/448xgQqrgiEalhGErK14bs"
+        },
+        {
+          "name": "Sk\u00fali Sverrisson",
+          "url": "https://open.spotify.com/artist/78kBVKyMQy7r9mEul6sXoh"
         }
       ],
-      "duration_ms": 234683,
-      "name": "Next Winter",
-      "url": "https://open.spotify.com/track/0UfpJngBbA7yILNdoNDqlM"
+      "duration_ms": 263608,
+      "name": "Leading Somewhere",
+      "url": "https://open.spotify.com/track/0oLadn7l2XO7vvZK066MjM"
     },
     {
       "added_at": "2024-02-09 04:00:00",
@@ -1575,6 +1579,22 @@
       "duration_ms": 195019,
       "name": "The Young Weaver",
       "url": "https://open.spotify.com/track/7bimdtIK17l7y2b0Zy9kwy"
+    },
+    {
+      "added_at": "2024-02-09 04:00:00",
+      "album": {
+        "name": "Next Winter",
+        "url": "https://open.spotify.com/album/6ZWxDNKRbwvPHa8quQNf9P"
+      },
+      "artists": [
+        {
+          "name": "Mark Slater",
+          "url": "https://open.spotify.com/artist/63TOnUvxBBCq0yJN9wKuXF"
+        }
+      ],
+      "duration_ms": 234683,
+      "name": "Next Winter",
+      "url": "https://open.spotify.com/track/0UfpJngBbA7yILNdoNDqlM"
     },
     {
       "added_at": "2024-02-09 04:00:00",
@@ -1599,22 +1619,34 @@
     {
       "added_at": "2024-02-09 04:00:00",
       "album": {
-        "name": "Floreana",
-        "url": "https://open.spotify.com/album/6xGQ7fVQqfMCaS4mYVBaTl"
+        "name": "Fragmente",
+        "url": "https://open.spotify.com/album/5RHqv8G1C59xAEGVl1z5fK"
       },
       "artists": [
         {
-          "name": "Gustaf Ljunggren",
-          "url": "https://open.spotify.com/artist/448xgQqrgiEalhGErK14bs"
-        },
-        {
-          "name": "Sk\u00fali Sverrisson",
-          "url": "https://open.spotify.com/artist/78kBVKyMQy7r9mEul6sXoh"
+          "name": "Felix R\u00f6sch",
+          "url": "https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp"
         }
       ],
-      "duration_ms": 263608,
-      "name": "Leading Somewhere",
-      "url": "https://open.spotify.com/track/0oLadn7l2XO7vvZK066MjM"
+      "duration_ms": 213859,
+      "name": "Opal",
+      "url": "https://open.spotify.com/track/13j8daEIHjVbfXSIAf38EZ"
+    },
+    {
+      "added_at": "2024-02-09 04:00:00",
+      "album": {
+        "name": "Tranquillant",
+        "url": "https://open.spotify.com/album/6B9gEaeD0u9eaBZL1lznqs"
+      },
+      "artists": [
+        {
+          "name": "Eyd\u00eds Evensen",
+          "url": "https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx"
+        }
+      ],
+      "duration_ms": 173373,
+      "name": "Tranquillant",
+      "url": "https://open.spotify.com/track/7lvEhtMzOBgfVBu4oF7cse"
     },
     {
       "added_at": "2024-02-09 04:00:00",
@@ -1651,58 +1683,6 @@
     {
       "added_at": "2024-02-09 04:00:00",
       "album": {
-        "name": "Tranquillant",
-        "url": "https://open.spotify.com/album/6B9gEaeD0u9eaBZL1lznqs"
-      },
-      "artists": [
-        {
-          "name": "Eyd\u00eds Evensen",
-          "url": "https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx"
-        }
-      ],
-      "duration_ms": 173373,
-      "name": "Tranquillant",
-      "url": "https://open.spotify.com/track/7lvEhtMzOBgfVBu4oF7cse"
-    },
-    {
-      "added_at": "2024-02-09 04:00:00",
-      "album": {
-        "name": "Fragmente",
-        "url": "https://open.spotify.com/album/5RHqv8G1C59xAEGVl1z5fK"
-      },
-      "artists": [
-        {
-          "name": "Felix R\u00f6sch",
-          "url": "https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp"
-        }
-      ],
-      "duration_ms": 213859,
-      "name": "Opal",
-      "url": "https://open.spotify.com/track/13j8daEIHjVbfXSIAf38EZ"
-    },
-    {
-      "added_at": "2024-02-09 04:00:00",
-      "album": {
-        "name": "Svalbard",
-        "url": "https://open.spotify.com/album/57bDNgzUtAvKaL2wSPnsiF"
-      },
-      "artists": [
-        {
-          "name": "Niklas Paschburg",
-          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
-        },
-        {
-          "name": "Andy Barlow",
-          "url": "https://open.spotify.com/artist/6TC2SpVp20fhwV7SAVr56o"
-        }
-      ],
-      "duration_ms": 175090,
-      "name": "Little Orc",
-      "url": "https://open.spotify.com/track/43SR37OKj3Dgc82aHXr6ql"
-    },
-    {
-      "added_at": "2024-02-09 04:00:00",
-      "album": {
         "name": "Earnest Leslye",
         "url": "https://open.spotify.com/album/1A76Rz2tsAds0OQCYYrsAY"
       },
@@ -1719,18 +1699,18 @@
     {
       "added_at": "2024-02-09 04:00:00",
       "album": {
-        "name": "Woven Song",
-        "url": "https://open.spotify.com/album/0Ah7kVnuWgdH3vQy0DNtuA"
+        "name": "Riverscape",
+        "url": "https://open.spotify.com/album/5TS8osFEMF2oHUwKWnS0Qw"
       },
       "artists": [
         {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+          "name": "Fabrizio Paterlini",
+          "url": "https://open.spotify.com/artist/0jrFMgW018F1XVnLtCXOKi"
         }
       ],
-      "duration_ms": 190283,
-      "name": "Woven Song",
-      "url": "https://open.spotify.com/track/0Fs13LJdctI630wOhPcIO8"
+      "duration_ms": 154041,
+      "name": "Riverscape",
+      "url": "https://open.spotify.com/track/5GwVkYN0uWaS9rwNezJAZg"
     },
     {
       "added_at": "2024-02-09 04:00:00",
@@ -1759,6 +1739,26 @@
     {
       "added_at": "2024-02-09 04:00:00",
       "album": {
+        "name": "Svalbard",
+        "url": "https://open.spotify.com/album/57bDNgzUtAvKaL2wSPnsiF"
+      },
+      "artists": [
+        {
+          "name": "Niklas Paschburg",
+          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
+        },
+        {
+          "name": "Andy Barlow",
+          "url": "https://open.spotify.com/artist/6TC2SpVp20fhwV7SAVr56o"
+        }
+      ],
+      "duration_ms": 175090,
+      "name": "Little Orc",
+      "url": "https://open.spotify.com/track/43SR37OKj3Dgc82aHXr6ql"
+    },
+    {
+      "added_at": "2024-02-09 04:00:00",
+      "album": {
         "name": "Familiar",
         "url": "https://open.spotify.com/album/4kpmg5bYaTMB3imXsf1ucT"
       },
@@ -1779,18 +1779,18 @@
     {
       "added_at": "2024-02-09 04:00:00",
       "album": {
-        "name": "All I Need",
-        "url": "https://open.spotify.com/album/6JLS96rMyyFzQTlpNuRV51"
+        "name": "Woven Song",
+        "url": "https://open.spotify.com/album/0Ah7kVnuWgdH3vQy0DNtuA"
       },
       "artists": [
         {
-          "name": "Pablo Nouvelle",
-          "url": "https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P"
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
         }
       ],
-      "duration_ms": 247600,
-      "name": "Ave",
-      "url": "https://open.spotify.com/track/1uIjVysHAMBXEr8Arx7tfT"
+      "duration_ms": 190283,
+      "name": "Woven Song",
+      "url": "https://open.spotify.com/track/0Fs13LJdctI630wOhPcIO8"
     }
   ],
   "unique_name": "Not Quite Classical",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 
 > New and trending hip\-hop from around the world\. Cover: Little Simz
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,738 likes - 85 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,027 likes - 85 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 | 63 | [Compare](https://open.spotify.com/track/1AANTCuuyxJwTrQXRqQ7UZ) | [Blinky Bill](https://open.spotify.com/artist/3knnBcRO5nzDS1GOFhU1ba), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [We Cut Keys 2](https://open.spotify.com/album/4QrLni4FRgGo9SgAUoHDso) | 3:42 |
 | 64 | [Do I \- Remix](https://open.spotify.com/track/7yKjDDd9w01nFEOD5adoHq) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Do I \(Remix\)](https://open.spotify.com/album/5aVA4avxVgyg1S6iVQpx0m) | 2:18 |
 | 65 | [Cast](https://open.spotify.com/track/6BWgLorAwF17ofyu8361HM) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Presido La Pluto](https://open.spotify.com/album/14VJEhvxRCOsNtcwjjBxwR) | 2:09 |
-| 66 | [Amiri jeans](https://open.spotify.com/track/2b0nACGnsNKVvJhmhOjewh) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Frères Ennemis](https://open.spotify.com/album/1HLUjcUDDsszfj7OIl6LGh) | 2:59 |
+| 66 | [Amiri jeans](https://open.spotify.com/track/4YCvIRnKeOQfKbJXNWKZw5) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Frères Ennemis](https://open.spotify.com/album/2BBiqL9LvtK9Dk9aYBEsGC) | 2:59 |
 | 67 | [Hocus Pocus](https://open.spotify.com/track/3gtbkrjOmjgLqznoV4PQS5) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [Blood Diamond](https://open.spotify.com/album/0z3bbwLzSFO7ObKjmaI7TY) | 3:22 |
 | 68 | [Pressure](https://open.spotify.com/track/3TN2HZSll8ueBFtt88VbfX) | [Rushy](https://open.spotify.com/artist/0Mf9AMLaP102sdJQ3Xqm6J) | [Pressure](https://open.spotify.com/album/2WNtJ2E9Y7BRSYmXtiZ5F1) | 2:44 |
 | 69 | [Energy](https://open.spotify.com/track/1trBv3yXEwFq7BLooqpf8P) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [Back To Square One](https://open.spotify.com/album/5ZNpiEEn5h8L40p99UZ9XI) | 2:56 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 | 84 | [Paganini](https://open.spotify.com/track/34XnlHqQzVeqXTMXc7SVo0) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Paganini](https://open.spotify.com/album/3kI8OpMHBcp6Fb56Z1uGeZ) | 2:54 |
 | 85 | [SWEETCHY](https://open.spotify.com/track/0c3oj5HJnYj2bbMEoabmiY) | [Dada](https://open.spotify.com/artist/7prKK2GchmQEkgUsAFXEz0) | [M.I.M](https://open.spotify.com/album/16VwVZ1dFAaCXAeQrsyit8) | 2:31 |
 
-Snapshot ID: `MCxhYzY3YzI5MDdhYjc3MzQxYTFiNDI5Y2YwMmRmNzQzOTQ2MjgwYWRk`
+Snapshot ID: `MCxhYTU0NDIzN2M1MDNjMjczMDE1NGMyMjc2ZTRkOTAyMDc5YmQ2ZjNj`

@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: jan-feb 2024 (previous playlists archived on my profile) (image credit: @afffirmations on IG)",
-  "num_followers": 18098,
+  "num_followers": 18113,
   "original_name": "here i go again on my own",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "MjU2MSwyYmFiOTM2NmE2YzNhODdmYjNiOTMzYTk4MTZkZGU2YjJjYzM0ODJm",
+  "snapshot_id": "MjU2MyxjNjQwNTVkYWQ4MzgxZGEwNDM4MTI1NWQ5YzUyMjA0MDhlYWRmMTA4",
   "tracks": [
     {
       "added_at": "2024-01-05 02:29:38",
@@ -847,6 +847,42 @@
       "duration_ms": 198295,
       "name": "Alesis",
       "url": "https://open.spotify.com/track/4u7vj352S98d9iA7ac1EVG"
+    },
+    {
+      "added_at": "2024-02-21 21:31:35",
+      "album": {
+        "name": "Evening Mirror (From the Original Score of The Sweet East)",
+        "url": "https://open.spotify.com/album/0uailJ2SWjeKlOEDHcNoGB"
+      },
+      "artists": [
+        {
+          "name": "Paul Grimstad",
+          "url": "https://open.spotify.com/artist/2sI4HMXuvwKYhP1gmqr6Jv"
+        },
+        {
+          "name": "Talia Ryder",
+          "url": "https://open.spotify.com/artist/1gfXCBma9K651B5zUc2Btl"
+        }
+      ],
+      "duration_ms": 191040,
+      "name": "Evening Mirror - From the Original Score of The Sweet East",
+      "url": "https://open.spotify.com/track/7hy0XnO9PBwcsZNP4H5sX4"
+    },
+    {
+      "added_at": "2024-02-21 22:46:29",
+      "album": {
+        "name": "Dream Alone / Beat Love",
+        "url": "https://open.spotify.com/album/4rXWdsIYGhGtqYJpg3xA1b"
+      },
+      "artists": [
+        {
+          "name": "Artie Garr",
+          "url": "https://open.spotify.com/artist/2qAv2padGLkUEaVP7SoWwv"
+        }
+      ],
+      "duration_ms": 142103,
+      "name": "Dream Alone",
+      "url": "https://open.spotify.com/track/53ApaDXhRYAfB9St8Uqg2n"
     }
   ],
   "unique_name": "here i go again on my own",

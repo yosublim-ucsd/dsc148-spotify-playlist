@@ -1289,6 +1289,28 @@
     },
     {
       "album": {
+        "name": "yes, and? (remixes)",
+        "url": "https://open.spotify.com/album/0kHBlnc69hLOSyXAZn2yeX"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212903,
+      "name": "yes, and? - Jonas Blue Remix",
+      "url": "https://open.spotify.com/track/62iX6bbxe9T81LrNwqre3p"
+    },
+    {
+      "album": {
         "name": "Younger",
         "url": "https://open.spotify.com/album/26IuzA897QHyOQVYBWXtTD"
       },

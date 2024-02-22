@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70dqoLSWJrU.md) - [plain]
 
 > Heartbreaking and sad instrumental and vocal Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,093 likes - 90 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,128 likes - 90 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70dqoLSWJrU.md) - [plain]
 | 25 | [I Miss You So](https://open.spotify.com/track/0G3WxfqXCkCq9AGgqLINg9) | [Etta Jones](https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0) | [Lonely And Blue](https://open.spotify.com/album/5aMysOzmRwAQArAcRegasS) | 3:22 |
 | 26 | [Next Time](https://open.spotify.com/track/2dAikVHuf4fWuiK5i8Hjcg) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [Next Time](https://open.spotify.com/album/5wKPzPaWDHbyDOHpIGHfAL) | 5:18 |
 | 27 | [I Thought About You \(feat\. Hank Mobley, Wynton Kelly, Paul Chambers & Jimmy Cobb\)](https://open.spotify.com/track/63JCF21fkQzPsC2fBr9TMD) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv), [Wynton Kelly](https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG), [Jimmy Cobb](https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ) | [Someday My Prince Will Come](https://open.spotify.com/album/68A4o4tkirJRFYbO9Ag0YZ) | 4:52 |
-| 28 | [You Go To My Head](https://open.spotify.com/track/522fhFdFIhJ2XFQVcBroXg) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [It Had To be You..\. The Great American Songbook](https://open.spotify.com/album/4Ssek6XSIaTLnP4Fq3olTM) | 4:17 |
-| 29 | [Autumn Leaves](https://open.spotify.com/track/3k42wvwwogIJyZ4HK5YswY) | [Eva Cassidy](https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew) | [Songbird](https://open.spotify.com/album/14vOTJhsfQIlJeHgLajs7r) | 4:42 |
+| 28 | [Autumn Leaves](https://open.spotify.com/track/3k42wvwwogIJyZ4HK5YswY) | [Eva Cassidy](https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew) | [Songbird](https://open.spotify.com/album/14vOTJhsfQIlJeHgLajs7r) | 4:42 |
+| 29 | [You Go To My Head](https://open.spotify.com/track/522fhFdFIhJ2XFQVcBroXg) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [It Had To be You..\. The Great American Songbook](https://open.spotify.com/album/4Ssek6XSIaTLnP4Fq3olTM) | 4:17 |
 | 30 | [Good Morning Heartache](https://open.spotify.com/track/762FeIx1AXpUBRXd8zbFDB) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ), [Fi Maróstica](https://open.spotify.com/artist/6YT55fXGg6nMvzH6XpUlOP), [Leo Gasso](https://open.spotify.com/artist/241oJtKxM4JAbhH9F23CJN), [Jose Reinoso](https://open.spotify.com/artist/2yWY3Ocvnnu0at3c976leJ) | [Good Morning Heartache](https://open.spotify.com/album/1pQVULMV34Hv31Zv5zbGsR) | 3:13 |
 | 31 | [When Sunny Gets Blue](https://open.spotify.com/track/2ttCdSWedaPtOltZLPZVAT) | [Stína Ágústsdóttir](https://open.spotify.com/artist/7tn2NxdUjOm9WuvEXQNhLi), [Carl Bagge](https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF) | [When Sunny Gets Blue](https://open.spotify.com/album/2tcBjPtxrfZLep0WKsdVAR) | 4:24 |
 | 32 | [But Beautiful](https://open.spotify.com/track/5CxkNGZFfG7eiWNWhvUC9A) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Cheek To Cheek \(Deluxe\)](https://open.spotify.com/album/2VX9rp6NAC19TQN4IgkmYu) | 4:04 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70dqoLSWJrU.md) - [plain]
 | 89 | [No More](https://open.spotify.com/track/0OhVyeMWNraRrgGPByQiWc) | [Abbey Lincoln](https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F) | [Abbey Lincoln's Affair..\. A Story Of A Girl In Love \(Expanded Edition\)](https://open.spotify.com/album/75kSQXvLMJh5TsK65zGkOg) | 3:11 |
 | 90 | [It's Easy to Remember](https://open.spotify.com/track/2zKcVjhrP5r8vwxmEaANUm) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Smooth Songs](https://open.spotify.com/album/0bTi6NaKZTPdu3G2a4fePf) | 3:36 |
 
-Snapshot ID: `MCw2YzhmMGI1NjM4NzU4MDkwOTY2ZmYwNjc4MjM2ZWRmODRkNGRjZmU1`
+Snapshot ID: `MCw1MGNjNTFmMTdiYWU2NjI5NDRjMGRlYWIwMWQxYTIwMDQ1ZTBmOWJi`

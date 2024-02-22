@@ -1,12 +1,12 @@
 {
   "description": "\u604b\u3057\u3066\u308b\u3042\u306a\u305f\u306b\u5bc4\u308a\u6dfb\u3046\u3001\u7d20\u6575\u306a\u30e9\u30d6\u30bd\u30f3\u30b0\u3092\u96c6\u3081\u307e\u3057\u305f\u3002Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
-  "num_followers": 155766,
+  "num_followers": 155798,
   "original_name": "\u604b\u3059\u308b\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOTg0YzJmOTZjMGRlMDY3ODQ2OTVmMTRlZGZmMWM0MWY3ZTBmZTY3",
+  "snapshot_id": "MCxlYzgyYTM3YjNhZjViNTViN2JhNzQ4YzFjMTYxNmM0MDhlNjc1OTEz",
   "tracks": [
     {
       "added_at": "2024-02-20 15:01:00",
@@ -963,8 +963,8 @@
     {
       "added_at": "2024-02-20 15:01:00",
       "album": {
-        "name": "LAD\u6d6a\u6f2b's",
-        "url": "https://open.spotify.com/album/39bDkft5Qk2H6EQQwJZQjG"
+        "name": "LAD Romance",
+        "url": "https://open.spotify.com/album/0qgzwzKkqzKSmhm6SBfpce"
       },
       "artists": [
         {
@@ -973,8 +973,8 @@
         }
       ],
       "duration_ms": 239823,
-      "name": "LAD\u6d6a\u6f2b's",
-      "url": "https://open.spotify.com/track/3XKrQIVTnr5IxzJi1My4Wy"
+      "name": "LAD Romance",
+      "url": "https://open.spotify.com/track/6HZOiTBJ1Z7gJyaEdcg7vR"
     },
     {
       "added_at": "2024-02-20 15:01:00",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2024-02-20 15:01:00",
       "album": {
-        "name": "\u7f8e\u3057\u3044\u9c2d",
-        "url": "https://open.spotify.com/album/5npmI7gA2KMh68DwRjNSj9"
-      },
-      "artists": [
-        {
-          "name": "SPITZ",
-          "url": "https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0"
-        }
-      ],
-      "duration_ms": 209777,
-      "name": "\u7f8e\u3057\u3044\u9c2d",
-      "url": "https://open.spotify.com/track/3RauRsiIxUOQTS8h9sVWcP"
-    },
-    {
-      "added_at": "2024-02-20 15:01:00",
-      "album": {
         "name": "\u5927\u962aLOVER",
         "url": "https://open.spotify.com/album/0uH4fu7TXAnnrx4aRhSBln"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 266560,
       "name": "\u5927\u962aLOVER",
       "url": "https://open.spotify.com/track/2WpgKrUoWaZHQLTgT6aZBF"
+    },
+    {
+      "added_at": "2024-02-20 15:01:00",
+      "album": {
+        "name": "\u7f8e\u3057\u3044\u9c2d",
+        "url": "https://open.spotify.com/album/5npmI7gA2KMh68DwRjNSj9"
+      },
+      "artists": [
+        {
+          "name": "SPITZ",
+          "url": "https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0"
+        }
+      ],
+      "duration_ms": 209777,
+      "name": "\u7f8e\u3057\u3044\u9c2d",
+      "url": "https://open.spotify.com/track/3RauRsiIxUOQTS8h9sVWcP"
     },
     {
       "added_at": "2024-02-20 15:01:00",

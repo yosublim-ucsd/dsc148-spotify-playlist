@@ -1,5 +1,5 @@
 {
-  "2024-02-21": 1188,
+  "2024-02-22": 1189,
   "date_first_scraped": "2023-02-19",
   "description": "<a>https://bit.ly/2WYLxJM </a>",
   "name": "THE TECHNO METHOD",
@@ -355,6 +355,28 @@
       "duration_ms": 278181,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/4AqLfv5PWtRBhDm0VA8ewq"
+    },
+    {
+      "album": {
+        "name": "Bonafide (LEVT Remix)",
+        "url": "https://open.spotify.com/album/1Wm3aDHPiII9CXyQxSi9mZ"
+      },
+      "artists": [
+        {
+          "name": "Karla Blum",
+          "url": "https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO"
+        },
+        {
+          "name": "LEVT",
+          "url": "https://open.spotify.com/artist/5xtKvLkmqMb5tTMuU9Lgmn"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249777,
+      "name": "Bonafide - LEVT Remix",
+      "url": "https://open.spotify.com/track/5FgpZHbdw8Aou4HwATvzmf"
     },
     {
       "album": {

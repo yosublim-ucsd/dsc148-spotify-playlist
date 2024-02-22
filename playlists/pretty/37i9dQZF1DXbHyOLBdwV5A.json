@@ -1,12 +1,12 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar.",
-  "num_followers": 119757,
+  "num_followers": 119780,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOTQwMDgzYTNhYjE0NzhlZDcyMmJkYjIxNGE3ZDIyNzY4ZjljZjk2",
+  "snapshot_id": "MCwyZGJkZjY4YzA2Y2U5ZTk3NzZhM2VkNWVlZTFlZjE1YjE5NTIxNzI5",
   "tracks": [
     {
       "added_at": "2024-01-05 13:32:37",
@@ -1023,6 +1023,26 @@
     {
       "added_at": "2024-01-05 13:32:37",
       "album": {
+        "name": "N\u00e3o Me Deixar\u00e1s",
+        "url": "https://open.spotify.com/album/2MFewcVd5k0eWTlksqrt73"
+      },
+      "artists": [
+        {
+          "name": "DJ Marcos Andre",
+          "url": "https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61"
+        },
+        {
+          "name": "Caio Cesar",
+          "url": "https://open.spotify.com/artist/1sgcu8pUxJ3sHcVd3JrKB4"
+        }
+      ],
+      "duration_ms": 184320,
+      "name": "N\u00e3o Me Deixar\u00e1s",
+      "url": "https://open.spotify.com/track/6z3Nx0Iaw7up0lhHTjzg9j"
+    },
+    {
+      "added_at": "2024-01-05 13:32:37",
+      "album": {
         "name": "Tropa de Jesus (2024)",
         "url": "https://open.spotify.com/album/3cMB70XA0t8qOHs2V6tMnL"
       },
@@ -1043,26 +1063,6 @@
       "duration_ms": 106285,
       "name": "Tropa de Jesus (2024)",
       "url": "https://open.spotify.com/track/1SUGoH6UafL9VHhon8DMmh"
-    },
-    {
-      "added_at": "2024-01-05 13:32:37",
-      "album": {
-        "name": "N\u00e3o Me Deixar\u00e1s",
-        "url": "https://open.spotify.com/album/2MFewcVd5k0eWTlksqrt73"
-      },
-      "artists": [
-        {
-          "name": "DJ Marcos Andre",
-          "url": "https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61"
-        },
-        {
-          "name": "Caio Cesar",
-          "url": "https://open.spotify.com/artist/1sgcu8pUxJ3sHcVd3JrKB4"
-        }
-      ],
-      "duration_ms": 184320,
-      "name": "N\u00e3o Me Deixar\u00e1s",
-      "url": "https://open.spotify.com/track/6z3Nx0Iaw7up0lhHTjzg9j"
     },
     {
       "added_at": "2024-01-05 13:32:37",
@@ -1251,22 +1251,18 @@
     {
       "added_at": "2024-01-05 13:32:37",
       "album": {
-        "name": "Respirar e Confiar",
-        "url": "https://open.spotify.com/album/3dmStxhcGEBKhPzJ6UBXxP"
+        "name": "Encontrar",
+        "url": "https://open.spotify.com/album/2Mwju9MPuVu6msQXmoWsKc"
       },
       "artists": [
         {
-          "name": "Dj Yuuki",
-          "url": "https://open.spotify.com/artist/1NzRv31U5R4nhzNFipOhUb"
-        },
-        {
-          "name": "Jessi Dias",
-          "url": "https://open.spotify.com/artist/6L8137JRkMls0kVJr7jP83"
+          "name": "Tomatti",
+          "url": "https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR"
         }
       ],
-      "duration_ms": 216470,
-      "name": "Respirar e Confiar",
-      "url": "https://open.spotify.com/track/0Z5DQErCulcYwwstMWIMjl"
+      "duration_ms": 164750,
+      "name": "Encontrar",
+      "url": "https://open.spotify.com/track/6MwtfborOQQqACqx6lsBrX"
     },
     {
       "added_at": "2024-01-05 13:32:37",
@@ -1295,18 +1291,22 @@
     {
       "added_at": "2024-01-05 13:32:37",
       "album": {
-        "name": "Encontrar",
-        "url": "https://open.spotify.com/album/2Mwju9MPuVu6msQXmoWsKc"
+        "name": "Respirar e Confiar",
+        "url": "https://open.spotify.com/album/3dmStxhcGEBKhPzJ6UBXxP"
       },
       "artists": [
         {
-          "name": "Tomatti",
-          "url": "https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR"
+          "name": "Dj Yuuki",
+          "url": "https://open.spotify.com/artist/1NzRv31U5R4nhzNFipOhUb"
+        },
+        {
+          "name": "Jessi Dias",
+          "url": "https://open.spotify.com/artist/6L8137JRkMls0kVJr7jP83"
         }
       ],
-      "duration_ms": 164750,
-      "name": "Encontrar",
-      "url": "https://open.spotify.com/track/6MwtfborOQQqACqx6lsBrX"
+      "duration_ms": 216470,
+      "name": "Respirar e Confiar",
+      "url": "https://open.spotify.com/track/0Z5DQErCulcYwwstMWIMjl"
     },
     {
       "added_at": "2024-01-05 13:32:37",

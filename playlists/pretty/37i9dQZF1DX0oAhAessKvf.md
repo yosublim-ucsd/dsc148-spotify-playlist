@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 
 > La calle temblaba con los primeros pasos del reggaetón\. Foto: El General
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,952 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,978 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 | 43 | [Donde Mi No Vengas](https://open.spotify.com/track/3dsbpGfTrORNIo1aVCyS1q) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Playero](https://open.spotify.com/artist/2YTyoyU90b3CF5x91YjVaQ) | [Playero Dj Presenta Exitos '95 / 17Th Anniversary \(Underground Reggaeton Edition\)](https://open.spotify.com/album/1Sd1MeGVmcy4OHZq1svbdm) | 2:04 |
 | 44 | [Luna y Estrellas](https://open.spotify.com/track/2srDyKCj9JJ0Iwvwdl8xj8) | [El Chombo](https://open.spotify.com/artist/6iSZjc4kOoKZKiBXK5HbwD), [Jimmy Bad Boy](https://open.spotify.com/artist/5KQIqm4ZbWSfcrWuzGBI9r) | [A Mover el Culo Con el Chombo](https://open.spotify.com/album/0dGcHWlzgWsN4bMc4DXq9Y) | 3:10 |
 | 45 | [Brutalidad](https://open.spotify.com/track/3dvKl75j8fIkNLyoRVsNgl) | [Ruben Sam](https://open.spotify.com/artist/2c6mwKFQ9Z46QjIEO53w8v) | [Playero Dj Live](https://open.spotify.com/album/0dGDiFO2IAhxCUGzN2nRig) | 2:03 |
-| 46 | [Mujeres](https://open.spotify.com/track/0rLJYPOKXUe2TfngVgH0eB) | [Dj Joe](https://open.spotify.com/artist/3mOpXyQgTwyCxIjz9EEIFN) | [Fatal Fantassy](https://open.spotify.com/album/5KjlY2iLyL9qaexUbxTGeo) | 2:52 |
-| 47 | [Liza Love](https://open.spotify.com/track/3Ct22HVsc9BMni7XKUIaKR) | [Frankie Boy](https://open.spotify.com/artist/7qoo1AvP85FXmN8cEwnBqN) | [Playero Dj Live](https://open.spotify.com/album/0dGDiFO2IAhxCUGzN2nRig) | 1:41 |
+| 46 | [Liza Love](https://open.spotify.com/track/3Ct22HVsc9BMni7XKUIaKR) | [Frankie Boy](https://open.spotify.com/artist/7qoo1AvP85FXmN8cEwnBqN) | [Playero Dj Live](https://open.spotify.com/album/0dGDiFO2IAhxCUGzN2nRig) | 1:41 |
+| 47 | [Mujeres](https://open.spotify.com/track/0rLJYPOKXUe2TfngVgH0eB) | [Dj Joe](https://open.spotify.com/artist/3mOpXyQgTwyCxIjz9EEIFN) | [Fatal Fantassy](https://open.spotify.com/album/5KjlY2iLyL9qaexUbxTGeo) | 2:52 |
 | 48 | [Soy El Mas Sensual](https://open.spotify.com/track/682nWbALzgmrOYovxI0Me1) | [Renato](https://open.spotify.com/artist/6VBd6EXDkDR7D9UjtEUtFn) | [Soy El Mas Sensual \- Renato Classics](https://open.spotify.com/album/4MfqddoCTSJHreuI2Fd57Q) | 3:30 |
 | 49 | [A Mi Me Gusta](https://open.spotify.com/track/46aYwWPK8JEwhJJ9arlQM9) | [Alberto Stylee](https://open.spotify.com/artist/5mgqYTU6dhKlEdi7DOy4uU) | [Los Dueños De La Disco Clasico](https://open.spotify.com/album/4rVTwbTlIJsw4Gw9Y4bOZY) | 3:17 |
 | 50 | [Maniatica Sexual](https://open.spotify.com/track/2zzklcpDAS1ryizQj83uRy) | [Lito y Polaco](https://open.spotify.com/artist/1CLPoZyoqBo2z444JtmBAF) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 2:57 |
@@ -69,19 +69,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 | 59 | [Donde Mi No Vengas](https://open.spotify.com/track/3PAKvNqqYklkKhg1xEieNB) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Los Homerun\-es](https://open.spotify.com/album/7uIGxnb0Th4Av0R5oui7A0) | 1:58 |
 | 60 | [Dónde Están las Girlas](https://open.spotify.com/track/2rIdnCi7aa86ce2LRcEE6j) | [Tempo](https://open.spotify.com/artist/76whng5pl9msPkkjFUtWYn) | [Game Over](https://open.spotify.com/album/7vQN5aljYXJcSD8Mq20NtS) | 3:32 |
 | 61 | [Chin A Chin](https://open.spotify.com/track/6HCqz9dMD3WWBArOSnyiDK) | [Ledesma](https://open.spotify.com/artist/6xlXWDWOnEBcK2u8urv69Z) | [Fuera de lo Comun](https://open.spotify.com/album/6bikXQQ5LBHm7qeFk5sTQk) | 3:49 |
-| 62 | [Dem Bow](https://open.spotify.com/track/1BUBidO12VUKo44PaQvpt9) | [Shabba Ranks](https://open.spotify.com/artist/3j7Sw80qzL2FJlryUhI3wG) | [Dancehall 101 Vol\. 5](https://open.spotify.com/album/6oU84HBu2wur3VP9tjEECu) | 3:36 |
-| 63 | [Xplosion](https://open.spotify.com/track/58q5Jz1My29hgf6lh2N2Sj) | [Vico C](https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6) | [Serie Platino](https://open.spotify.com/album/4lv6tavshM2ZuTXJemNb9F) | 4:22 |
+| 62 | [Xplosion](https://open.spotify.com/track/58q5Jz1My29hgf6lh2N2Sj) | [Vico C](https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6) | [Serie Platino](https://open.spotify.com/album/4lv6tavshM2ZuTXJemNb9F) | 4:22 |
+| 63 | [Dem Bow](https://open.spotify.com/track/1BUBidO12VUKo44PaQvpt9) | [Shabba Ranks](https://open.spotify.com/artist/3j7Sw80qzL2FJlryUhI3wG) | [Dancehall 101 Vol\. 5](https://open.spotify.com/album/6oU84HBu2wur3VP9tjEECu) | 3:36 |
 | 64 | [La Combinación Perfecta Old School](https://open.spotify.com/track/3kfIzNY57LOd9LAHkTsYwk) | [Chezina Y Pirin](https://open.spotify.com/artist/28wojMfAl5P9mJhbLJExac) | [Playero Dj Live](https://open.spotify.com/album/0dGDiFO2IAhxCUGzN2nRig) | 6:56 |
 | 65 | [Quiere Ser Like Me](https://open.spotify.com/track/2E6L2RNkPtZTiNcCBO5Vqw) | [Rey Pirin](https://open.spotify.com/artist/1ViM1nVwtJmRm5CSXyU0U9) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 2:58 |
 | 66 | [Camion Lleno de Gun](https://open.spotify.com/track/2sHUhHm3iNuBC4JhbYbt0N) | [Jam & Suppose](https://open.spotify.com/artist/42iAiw7Kn6Ji3xIeDzxJ0q) | [Ragga Heros, Vol\. 1](https://open.spotify.com/album/3XaS7Nc8sf2l3TzWnSFng1) | 3:34 |
 | 67 | [Tra, Tra](https://open.spotify.com/track/2xYB15HL6IjFSXnNTFyCLb) | [Don Chezina](https://open.spotify.com/artist/1ljNTY4uIBecRJmy69UNWt) | [Mi Trayectoria](https://open.spotify.com/album/05SjZ7u69wnd12tDLo7x2v) | 3:27 |
-| 68 | [Sientela](https://open.spotify.com/track/1YzG316tvhG7QereFQuq1A) | [Speedy](https://open.spotify.com/artist/5Z39pi8twNPXoHLcOM81X2) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 1:54 |
+| 68 | [Persígueme](https://open.spotify.com/track/2STcXIS8BHSiRsypyRA19r) | [Ruben Sam](https://open.spotify.com/artist/2c6mwKFQ9Z46QjIEO53w8v) | [Playero Dj Live](https://open.spotify.com/album/0dGDiFO2IAhxCUGzN2nRig) | 2:41 |
 | 69 | [El Lloron](https://open.spotify.com/track/4O5VaPssQGPKnPZiISNWgI) | [Ledesma](https://open.spotify.com/artist/6xlXWDWOnEBcK2u8urv69Z) | [El Poder de la Música](https://open.spotify.com/album/4Wfbj8v9wtgnvTQs3nT49p) | 3:55 |
-| 70 | [Persígueme](https://open.spotify.com/track/2STcXIS8BHSiRsypyRA19r) | [Ruben Sam](https://open.spotify.com/artist/2c6mwKFQ9Z46QjIEO53w8v) | [Playero Dj Live](https://open.spotify.com/album/0dGDiFO2IAhxCUGzN2nRig) | 2:41 |
+| 70 | [Sientela](https://open.spotify.com/track/1YzG316tvhG7QereFQuq1A) | [Speedy](https://open.spotify.com/artist/5Z39pi8twNPXoHLcOM81X2) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 1:54 |
 | 71 | [Muchos Quieren Tumbarme](https://open.spotify.com/track/74bOsHdd28eUPW2SQBG7z8) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [Flashback](https://open.spotify.com/album/02yQT1coQ6ohLWBOPh8F7D) | 2:03 |
 | 72 | [Marijuana](https://open.spotify.com/track/0fqj5uqf5iYvEFo6gyM1Ju) | [Baby J](https://open.spotify.com/artist/5yjQKQYt12QjWzQK62T8ov) | [Prime Underground 1](https://open.spotify.com/album/3UGPRfGaIVrdMhqWZYSCuv) | 2:51 |
 | 73 | [Por Mi Reggae Muero](https://open.spotify.com/track/4FoEobQ4dNAMzDcIGkdEHF) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 3:36 |
 | 74 | [Alza la Mano Si Te Gusta Fumar](https://open.spotify.com/track/0m6giBF179ViIADfkXcLkQ) | [The Noise](https://open.spotify.com/artist/0xbdsXms9xTAtNmROodyy8), [Baby J](https://open.spotify.com/artist/0CXKthoKqF82onOw8RB6pA) | [The Beginning](https://open.spotify.com/album/3nqohzl5qqylbTrIu3PIB7) | 3:10 |
-| 75 | [El Trenecito](https://open.spotify.com/track/7IscZjDuApOs2gIFw9XaFp) | [Impacto Mc](https://open.spotify.com/artist/1KHgy3AlIpLFkeEyRwC6Qs) | [Golosa](https://open.spotify.com/album/6T2JoTSWxQhqIzcauJivm3) | 3:14 |
+| 75 | [Encendio](https://open.spotify.com/track/4vxPk9bmTGfkNE8wV5annp) | [Falo](https://open.spotify.com/artist/5QfKUbR3EOkfzKoDNBV3xJ) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 2:46 |
 
-Snapshot ID: `MCw4ZTcyNDMxMTJmOTllZWRmODk2ZDQzOGRkNWZlODQwNTIxYjgyNTUz`
+Snapshot ID: `MCwzM2Q4MDk3ZTYwMTBmZjgxNDJkZWM4NWU3YTY1N2ZlOGVlMjU2NDRl`

@@ -1,12 +1,12 @@
 {
   "description": "The most essential R&B songs from the '00s. Cover: Keyshia Cole",
-  "num_followers": 4626983,
+  "num_followers": 4627777,
   "original_name": "I Love My '00s R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNWQ1ZDhmOTFkM2IwYjgzNTFkNDc2YjdhYzUwM2ZjYWU3MzBhYjQ0",
+  "snapshot_id": "MCw2MTE3NjRjMzc0MzJlZmM1MDI2OTQ3MTQ1M2YxZTJiNDYwZGY3MDIy",
   "tracks": [
     {
       "added_at": "2022-02-11 05:00:00",
@@ -381,20 +381,20 @@
       "url": "https://open.spotify.com/track/7pv80uUHfocFqfTytu1MVi"
     },
     {
-      "added_at": "2023-09-14 14:32:45",
+      "added_at": "2022-08-21 11:22:08",
       "album": {
-        "name": "Music Of The Sun",
-        "url": "https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz"
+        "name": "Lovers Rock",
+        "url": "https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9"
       },
       "artists": [
         {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
         }
       ],
-      "duration_ms": 208106,
-      "name": "If It's Lovin' That You Want",
-      "url": "https://open.spotify.com/track/4x2rgtSFOI4hRvEvDj02KP"
+      "duration_ms": 274933,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/7H3ojI1BsVy0dEJENqMt1k"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -413,20 +413,20 @@
       "url": "https://open.spotify.com/track/2QsZVnbWVSjKMXK6K3uRBL"
     },
     {
-      "added_at": "2022-08-21 11:22:08",
+      "added_at": "2023-09-14 14:32:45",
       "album": {
-        "name": "Lovers Rock",
-        "url": "https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9"
+        "name": "Music Of The Sun",
+        "url": "https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz"
       },
       "artists": [
         {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
         }
       ],
-      "duration_ms": 274933,
-      "name": "By Your Side",
-      "url": "https://open.spotify.com/track/7H3ojI1BsVy0dEJENqMt1k"
+      "duration_ms": 208106,
+      "name": "If It's Lovin' That You Want",
+      "url": "https://open.spotify.com/track/4x2rgtSFOI4hRvEvDj02KP"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -859,6 +859,22 @@
     {
       "added_at": "2022-02-11 05:00:00",
       "album": {
+        "name": "The Evolution of Robin Thicke",
+        "url": "https://open.spotify.com/album/55ErdDg54WTAEySb0r7yzb"
+      },
+      "artists": [
+        {
+          "name": "Robin Thicke",
+          "url": "https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP"
+        }
+      ],
+      "duration_ms": 254146,
+      "name": "Lost Without U",
+      "url": "https://open.spotify.com/track/4V2F0DZrAXOWq9hkwMMG3x"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
         "name": "Intuition",
         "url": "https://open.spotify.com/album/4Tk1gvdwy7TL3Ma2s9iZ9f"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 289746,
       "name": "Blame It",
       "url": "https://open.spotify.com/track/08uGhvS5MfBk7crUCpnjva"
-    },
-    {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
-        "name": "The Evolution of Robin Thicke",
-        "url": "https://open.spotify.com/album/55ErdDg54WTAEySb0r7yzb"
-      },
-      "artists": [
-        {
-          "name": "Robin Thicke",
-          "url": "https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP"
-        }
-      ],
-      "duration_ms": 254146,
-      "name": "Lost Without U",
-      "url": "https://open.spotify.com/track/4V2F0DZrAXOWq9hkwMMG3x"
     },
     {
       "added_at": "2023-06-20 16:00:00",
@@ -1101,22 +1101,6 @@
       "url": "https://open.spotify.com/track/2SLZ2rX5773RS16mcqBxG7"
     },
     {
-      "added_at": "2023-09-14 14:32:45",
-      "album": {
-        "name": "All For You",
-        "url": "https://open.spotify.com/album/0IfJey7ibEDtWNxAQw2ub9"
-      },
-      "artists": [
-        {
-          "name": "Janet Jackson",
-          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
-        }
-      ],
-      "duration_ms": 329933,
-      "name": "All For You",
-      "url": "https://open.spotify.com/track/5X8kkUaUlAyAUr9TYqDFTH"
-    },
-    {
       "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "After The Storm",
@@ -1131,6 +1115,22 @@
       "duration_ms": 242773,
       "name": "So Gone",
       "url": "https://open.spotify.com/track/6BIcjFZIVDZxNAcofRFPx4"
+    },
+    {
+      "added_at": "2023-09-14 14:32:45",
+      "album": {
+        "name": "All For You",
+        "url": "https://open.spotify.com/album/0IfJey7ibEDtWNxAQw2ub9"
+      },
+      "artists": [
+        {
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+        }
+      ],
+      "duration_ms": 329933,
+      "name": "All For You",
+      "url": "https://open.spotify.com/track/5X8kkUaUlAyAUr9TYqDFTH"
     },
     {
       "added_at": "2022-02-11 05:00:00",

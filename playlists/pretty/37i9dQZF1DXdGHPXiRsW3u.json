@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 2000s.",
-  "num_followers": 537315,
+  "num_followers": 537551,
   "original_name": "Soft 00s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyN2JmNjEyZjI1ODE5NzliYjBhNDZjOGIwZTQ1MTg1ZGJmOWQ3MGVi",
+  "snapshot_id": "MCw1M2E0NDllZmZkMDc5OWM4MTc4MTUzMzk2YmM0N2IwYzE4NDRhMTY1",
   "tracks": [
     {
       "added_at": "2024-02-12 15:05:39",
@@ -239,22 +239,6 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "Drops Of Jupiter",
-        "url": "https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT"
-      },
-      "artists": [
-        {
-          "name": "Train",
-          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
-        }
-      ],
-      "duration_ms": 259933,
-      "name": "Drops of Jupiter (Tell Me)",
-      "url": "https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA"
-    },
-    {
-      "added_at": "2024-02-12 15:05:39",
-      "album": {
         "name": "Nellyville",
         "url": "https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 289160,
       "name": "Dilemma",
       "url": "https://open.spotify.com/track/0ARK753YaiJbpLUk7z5yIM"
+    },
+    {
+      "added_at": "2024-02-12 15:05:39",
+      "album": {
+        "name": "Drops Of Jupiter",
+        "url": "https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT"
+      },
+      "artists": [
+        {
+          "name": "Train",
+          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+        }
+      ],
+      "duration_ms": 259933,
+      "name": "Drops of Jupiter (Tell Me)",
+      "url": "https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "Stop All The World Now",
-        "url": "https://open.spotify.com/album/0bQBS1GmZ2sqbHcqiQnldn"
-      },
-      "artists": [
-        {
-          "name": "Howie Day",
-          "url": "https://open.spotify.com/artist/0ekbDNE2eOq8QiaXM34wer"
-        }
-      ],
-      "duration_ms": 249120,
-      "name": "Collide",
-      "url": "https://open.spotify.com/track/6dwkFmLUz6hx2CZG2EqLol"
-    },
-    {
-      "added_at": "2024-02-12 15:05:39",
-      "album": {
         "name": "Hard Candy",
         "url": "https://open.spotify.com/album/50oL8ADjfT0n9gVoMpDwBy"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 225573,
       "name": "Big Yellow Taxi",
       "url": "https://open.spotify.com/track/4O4dhPrjcw7GSLNafNydmb"
+    },
+    {
+      "added_at": "2024-02-12 15:05:39",
+      "album": {
+        "name": "Stop All The World Now",
+        "url": "https://open.spotify.com/album/0bQBS1GmZ2sqbHcqiQnldn"
+      },
+      "artists": [
+        {
+          "name": "Howie Day",
+          "url": "https://open.spotify.com/artist/0ekbDNE2eOq8QiaXM34wer"
+        }
+      ],
+      "duration_ms": 249120,
+      "name": "Collide",
+      "url": "https://open.spotify.com/track/6dwkFmLUz6hx2CZG2EqLol"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -1947,22 +1947,6 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "19",
-        "url": "https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 271226,
-      "name": "Hometown Glory",
-      "url": "https://open.spotify.com/track/19QzuPTNZHJ2SEu5LCQTGI"
-    },
-    {
-      "added_at": "2024-02-12 15:05:39",
-      "album": {
         "name": "Funhouse (Expanded Edition)",
         "url": "https://open.spotify.com/album/1LOJfNDxQhbpssKx7oM7at"
       },
@@ -1975,6 +1959,22 @@
       "duration_ms": 231560,
       "name": "Please Don't Leave Me",
       "url": "https://open.spotify.com/track/2gnZad0pb6QtUqMLTj2AjI"
+    },
+    {
+      "added_at": "2024-02-12 15:05:39",
+      "album": {
+        "name": "19",
+        "url": "https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 271226,
+      "name": "Hometown Glory",
+      "url": "https://open.spotify.com/track/19QzuPTNZHJ2SEu5LCQTGI"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -2299,22 +2299,6 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "Life For Rent",
-        "url": "https://open.spotify.com/album/6PEApt1cBh2EtWeXMKZJzo"
-      },
-      "artists": [
-        {
-          "name": "Dido",
-          "url": "https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs"
-        }
-      ],
-      "duration_ms": 240600,
-      "name": "White Flag",
-      "url": "https://open.spotify.com/track/3adnLFXKO5rC1lhUNSeg3N"
-    },
-    {
-      "added_at": "2024-02-12 15:05:39",
-      "album": {
         "name": "Westlife",
         "url": "https://open.spotify.com/album/03zaputfmJ3wwrKh6bHcTN"
       },
@@ -2327,6 +2311,22 @@
       "duration_ms": 248040,
       "name": "Seasons in the Sun",
       "url": "https://open.spotify.com/track/523WUV77jFBx3fbeJTOWZ6"
+    },
+    {
+      "added_at": "2024-02-12 15:05:39",
+      "album": {
+        "name": "Life For Rent",
+        "url": "https://open.spotify.com/album/6PEApt1cBh2EtWeXMKZJzo"
+      },
+      "artists": [
+        {
+          "name": "Dido",
+          "url": "https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs"
+        }
+      ],
+      "duration_ms": 240600,
+      "name": "White Flag",
+      "url": "https://open.spotify.com/track/3adnLFXKO5rC1lhUNSeg3N"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -2411,42 +2411,6 @@
     {
       "added_at": "2024-02-12 15:05:39",
       "album": {
-        "name": "Call Me Irresponsible",
-        "url": "https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 219840,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/6vhYDNMZgffPwcdXdvMqCS"
-    },
-    {
-      "added_at": "2024-02-12 15:05:39",
-      "album": {
-        "name": "Face To Face",
-        "url": "https://open.spotify.com/album/07sBktUc2CbnzPd8ecePWk"
-      },
-      "artists": [
-        {
-          "name": "Westlife",
-          "url": "https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY"
-        },
-        {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
-        }
-      ],
-      "duration_ms": 236240,
-      "name": "When You Tell Me That You Love Me (with Diana Ross)",
-      "url": "https://open.spotify.com/track/0Yg9xipP8POqZetnhGh8x6"
-    },
-    {
-      "added_at": "2024-02-12 15:05:39",
-      "album": {
         "name": "Rise",
         "url": "https://open.spotify.com/album/2KOwfgyufhsAO3Qaycw7sX"
       },
@@ -2459,6 +2423,22 @@
       "duration_ms": 219093,
       "name": "Rise",
       "url": "https://open.spotify.com/track/63nkNgHkmfgjElTEnCzKYU"
+    },
+    {
+      "added_at": "2024-02-12 15:05:39",
+      "album": {
+        "name": "Call Me Irresponsible",
+        "url": "https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 219840,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/6vhYDNMZgffPwcdXdvMqCS"
     },
     {
       "added_at": "2024-02-12 15:05:39",
@@ -2479,6 +2459,26 @@
       "duration_ms": 294200,
       "name": "Never Be The Same Again",
       "url": "https://open.spotify.com/track/79EAVfOpzgfHx3IE2BVFQv"
+    },
+    {
+      "added_at": "2024-02-12 15:05:39",
+      "album": {
+        "name": "Face To Face",
+        "url": "https://open.spotify.com/album/07sBktUc2CbnzPd8ecePWk"
+      },
+      "artists": [
+        {
+          "name": "Westlife",
+          "url": "https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY"
+        },
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "duration_ms": 236240,
+      "name": "When You Tell Me That You Love Me (with Diana Ross)",
+      "url": "https://open.spotify.com/track/0Yg9xipP8POqZetnhGh8x6"
     }
   ],
   "unique_name": "Soft 00s",

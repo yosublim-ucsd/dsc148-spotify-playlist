@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: Hedigan’s
 
-1,356 songs - 3 day 12 hr 6 min
+1,359 songs - 3 day 12 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -380,6 +380,7 @@
 | [Jam](https://open.spotify.com/track/5xt9N7xhDqEpp6NIdMCUux) | [Mizuki Ohira](https://open.spotify.com/artist/5rNUVqgzCi4FX47RY8n9cx) | [Jam](https://open.spotify.com/album/6yGcdAn7qspsakb8jdPtbp) | 4:05 | 2023-04-27 | 2023-06-23 |
 | [Jam goes on](https://open.spotify.com/track/4QGkA9LcIj3HKNxFNi0qjJ) | [SANABAGUN.](https://open.spotify.com/artist/7tiKnydNP65EPFiYRiW2Pu) | [Jam goes on](https://open.spotify.com/album/5O5A2NYnNCVS1d5lu8ILIZ) | 3:58 | 2023-08-01 | 2023-08-23 |
 | [Japanalog](https://open.spotify.com/track/6UvaD6jmG8NDUs5j0F0w6f) | [TESTSET](https://open.spotify.com/artist/5yNHyOo143SXywbGvCAXhD) | [1STST](https://open.spotify.com/album/2rrNP1v4yTJDxK4NdYAiZt) | 4:01 | 2023-07-11 | 2023-08-02 |
+| [Jellyfish](https://open.spotify.com/track/389o6ubDDpPvhNUaLl22tL) | [Subway Daydream](https://open.spotify.com/artist/4Iiidb9Wqw3kMFVEMxtEyf) | [Jellyfish](https://open.spotify.com/album/6ieIuzXf3cN3GH0Nzh7Y98) | 3:05 | 2024-02-20 |  |
 | [JET](https://open.spotify.com/track/7hftTxgaRlD51lgTvmtVqJ) | [黄鶯睍睆\(uguisu\-naku\)](https://open.spotify.com/artist/6XUG7F74W7f7j36VzVPlSl) | [JET](https://open.spotify.com/album/3tjGSyyeaNSbn6EDPHW1gE) | 2:53 | 2023-08-08 | 2023-08-16 |
 | [Jimmy](https://open.spotify.com/track/43w8P0srZycFKeKf04etpG) | [Giallo](https://open.spotify.com/artist/4BlSVJE8kmeUwTaDYLZgwU) | [Jimmy](https://open.spotify.com/album/7jsC0HrAcsIjfhrQEwYVT0) | 2:19 | 2023-04-11 | 2023-04-26 |
 | [JOHJI](https://open.spotify.com/track/1trPyHkA0NvuY8jfYLEruI) | [HOME](https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB) | [JOHJI](https://open.spotify.com/album/6Mv4qwCruIA7hkMAoCwPOt) | 4:48 | 2023-10-31 | 2023-11-27 |
@@ -429,7 +430,8 @@
 | [life on the run](https://open.spotify.com/track/5DyTRTEBWGANlW8tHHclp5) | [Fennel](https://open.spotify.com/artist/1D0gxH3t0FQjWqryWmhjnq) | [Mixed up](https://open.spotify.com/album/7vTpvDx5hHj2Bu77bHFhK0) | 4:28 | 2023-04-04 | 2023-04-12 |
 | [Lifetime](https://open.spotify.com/track/19ifncpKx4A8IDEEFHCCZC) | [松木美定](https://open.spotify.com/artist/4VytANV5Kt1OqJpzkkc6wA) | [Lifetime](https://open.spotify.com/album/3biCMPJLQKjynlXeJBZcDg) | 3:23 | 2023-01-12 | 2023-07-06 |
 | [Life’s A Game](https://open.spotify.com/track/5PHqslBNMYjZGjAa2VEAP6) | [Wez Atlas](https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ) | [This Too Shall Pass](https://open.spotify.com/album/22VtQWVPaMtZXlwKc82rxz) | 2:34 | 2023-03-14 | 2023-06-28 |
-| [Light\(n\)ing](https://open.spotify.com/track/6KBkIxXzV6cv3ANyq4KFBS) | [STAP Sigh Boys](https://open.spotify.com/artist/0CaylYCVMWiEhpoZxxdDeu) | [Light\(n\)ing](https://open.spotify.com/album/3weisOmHMVWetDBg79mlzx) | 3:33 | 2024-02-20 |  |
+| [Light\(n\)ing](https://open.spotify.com/track/4AolTQz0nbPeFKLrWP3OAR) | [STAP Sigh Boys](https://open.spotify.com/artist/0CaylYCVMWiEhpoZxxdDeu) | [Light\(n\)ing](https://open.spotify.com/album/2d9QtkSDbgZLy8p4EThXFL) | 3:33 | 2024-02-20 |  |
+| [Light\(n\)ing](https://open.spotify.com/track/6KBkIxXzV6cv3ANyq4KFBS) | [STAP Sigh Boys](https://open.spotify.com/artist/0CaylYCVMWiEhpoZxxdDeu) | [Light\(n\)ing](https://open.spotify.com/album/3weisOmHMVWetDBg79mlzx) | 3:33 | 2024-02-20 | 2024-02-22 |
 | [Lights Out](https://open.spotify.com/track/2HimnwGFDGe1DNE1RdkQYN) | [EASTOKLAB](https://open.spotify.com/artist/2oP86D3OWdYeX1OG2chPuu) | [Lights Out](https://open.spotify.com/album/4rDonhNZ6ckv15jHzR1cit) | 3:32 | 2023-11-14 | 2023-11-25 |
 | [Link](https://open.spotify.com/track/52DdvqVipvD6SsdxumQlLa) | [DIMWORK](https://open.spotify.com/artist/1LF1v18dJ7OGuGdju3T56d) | [ANORAK! / DIMWORK](https://open.spotify.com/album/104w26GFWkYQErMzsQ8ISZ) | 4:53 | 2023-08-08 | 2023-08-16 |
 | [lonely & lonely](https://open.spotify.com/track/4GGmUBA5w9sABmbnnBLee9) | [WANG GUNG BAND](https://open.spotify.com/artist/7yHwDGb1SxYEJGjqnjTNtP) | [lonely & lonely](https://open.spotify.com/album/6EemxOgxgfGbYPlSEvpkFR) | 3:57 | 2023-08-15 | 2023-08-23 |
@@ -561,6 +563,7 @@
 | [ONESTAR](https://open.spotify.com/track/0pIOcDlY4pFwNarTwkyRDY) | [RiL](https://open.spotify.com/artist/5nT4QCGLJJmkpt8RrniCqe) | [ONESTAR](https://open.spotify.com/album/3TB3SFdG5dWlW481iYLAbo) | 4:06 | 2023-08-08 | 2023-08-16 |
 | [Opal](https://open.spotify.com/track/1mxsOeet26zHpCrMlxWrKJ) | [碧海祐人](https://open.spotify.com/artist/7xgHL7lpJ2OsAz3akd1OIk) | [Opal](https://open.spotify.com/album/154NpAyn5bQ66Ar3W0N5hr) | 3:33 | 2023-11-29 | 2024-01-17 |
 | [orange](https://open.spotify.com/track/42qT2xXpYbu1tpJtj7paqb) | [Hoach5000](https://open.spotify.com/artist/1LqzNg0KlZGwDrNClMNMYo) | [orange](https://open.spotify.com/album/3uGMz5oboP965F8wbWcllw) | 3:06 | 2023-06-06 | 2023-06-14 |
+| [Oredake ga Zu Bu Nu Re](https://open.spotify.com/track/2UArtQ1NiQFBRldVW9zCLG) | [Za Ninngenn](https://open.spotify.com/artist/4FwqgQ92TpsuzQ82fIosrX) | [Oredake ga Zu Bu Nu Re](https://open.spotify.com/album/6F84iZHVnH7pqmfLbjluv4) | 3:37 | 2024-02-20 |  |
 | [Our Place](https://open.spotify.com/track/5NP138SXXvwjJUN9yhS1V1) | [EASTOKLAB](https://open.spotify.com/artist/2oP86D3OWdYeX1OG2chPuu) | [Our Place](https://open.spotify.com/album/0LIiMRs1m29orPVNQf8jFD) | 4:22 | 2024-01-09 | 2024-01-17 |
 | [outside of the house](https://open.spotify.com/track/2EIovS4PXDlQkhPzrQICE2) | [OGRE YOU ASSHOLE](https://open.spotify.com/artist/0X9vdekJ6sIKcUvwIgVsjW) | [outside of the house](https://open.spotify.com/album/0H6FGzdwIRGc4F7UXEGNsX) | 5:22 | 2023-07-02 | 2023-08-02 |
 | [Overcast](https://open.spotify.com/track/2WH6hX0mKg6y6rVwDbp3n9) | [Salmon Pink](https://open.spotify.com/artist/5eR0ueB8Fx3Nyck2cAzYXN) | [Garden](https://open.spotify.com/album/4Q5reDgFvPvFN4wIrcpKEN) | 4:29 | 2023-09-29 | 2023-10-04 |
@@ -1017,7 +1020,7 @@
 | [ショートショート \- ウ山あまねRemix](https://open.spotify.com/track/1KxV8iq860PX565GdaQc9L) | [幽体コミュニケーションズ](https://open.spotify.com/artist/3dLMNvMcmgkMxqf2smWYs4), [Amane Uyama](https://open.spotify.com/artist/3CyPpYzll6TJcJ0RTnHHVa) | [ショートショート \(ウ山あまねRemix\)](https://open.spotify.com/album/0jFI7n7OkqMtdO6qUHHXhj) | 2:19 | 2023-09-19 | 2023-09-27 |
 | [シラフ](https://open.spotify.com/track/2kmiYDRuLggy8rAsifrybE) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [into the wind](https://open.spotify.com/album/7LrHpRzmWf26GXIJ4uqR6R) | 3:40 | 2023-06-20 | 2023-06-22 |
 | [シンシャ](https://open.spotify.com/track/5jAHFipcLURLl4NiEWpjaV) | [LINK](https://open.spotify.com/artist/6RqbKKub3TQaChfwAqYooJ) | [シンシャ](https://open.spotify.com/album/2Wbjn9gW8to9OtHHzcNkHF) | 3:56 | 2023-12-05 | 2023-12-13 |
-| [ジェリーフィッシュ](https://open.spotify.com/track/1phE9NoCTcHApCZn6kXoQE) | [Subway Daydream](https://open.spotify.com/artist/4Iiidb9Wqw3kMFVEMxtEyf) | [ジェリーフィッシュ](https://open.spotify.com/album/5wrs5O2FBqJb9srJocM8Kk) | 3:05 | 2024-02-20 |  |
+| [ジェリーフィッシュ](https://open.spotify.com/track/1phE9NoCTcHApCZn6kXoQE) | [Subway Daydream](https://open.spotify.com/artist/4Iiidb9Wqw3kMFVEMxtEyf) | [ジェリーフィッシュ](https://open.spotify.com/album/5wrs5O2FBqJb9srJocM8Kk) | 3:05 | 2024-02-20 | 2024-02-22 |
 | [スカフィンのうた](https://open.spotify.com/track/6J6oZQOtnPZap0gHG88DSi) | [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [スカフィンのうた](https://open.spotify.com/album/3EmJjo9wN19HWDyoFMSgp1) | 2:30 | 2023-07-11 | 2024-01-10 |
 | [スキップスキップスキップ \-Live Ver.\-](https://open.spotify.com/track/2tv2TcoiYMEgIHnDUDrNON) | [Merlion](https://open.spotify.com/artist/0DetD9qvM9Qiokxzo3Srmq) | [スキップスキップスキップ \-Live Ver.\-](https://open.spotify.com/album/77baDjzneBGcx07VV97ZLQ) | 3:21 | 2023-11-09 | 2023-11-16 |
 | [スタンド・バイ・ミー](https://open.spotify.com/track/1uqIzwX6OaH0adzFHHb8ms) | [初恋モーテル](https://open.spotify.com/artist/1WEhXsGPvA5DS1810cjnOS) | [スタンド・バイ・ミー](https://open.spotify.com/album/63xKPJKQLaOfC4X2jQMbWw) | 4:50 | 2023-11-29 | 2023-12-06 |
@@ -1119,7 +1122,7 @@
 | [低空](https://open.spotify.com/track/6WVmWMn8ZknjbA70Xr93wc) | [CRCK/LCKS](https://open.spotify.com/artist/1iCsnjNikUpDDGDAxBalTs) | [低空](https://open.spotify.com/album/5069TeKV6SsMxz4PQW9GEp) | 3:54 | 2023-03-21 | 2023-04-16 |
 | [何度大人になったって](https://open.spotify.com/track/1hqDNBeFeplMihnRMt6ipS) | [KUKIKODAN](https://open.spotify.com/artist/7mzrWoSNJn8MaPPBPNr9yS) | [何度大人になったって](https://open.spotify.com/album/3PV4XJnhX3UI55hZFCjpCL) | 4:09 | 2023-09-26 | 2023-10-23 |
 | [修羅だってクラスメイト](https://open.spotify.com/track/1kpObJxRAUgfv49R96pzRP) | [The Otals](https://open.spotify.com/artist/2L8w8wwNFtKVGd9CLkicfe), [eureka](https://open.spotify.com/artist/7oUqP2q81T2SIUBoJjippe) | [修羅だってクラスメイト](https://open.spotify.com/album/0EnNucQLOsbYInAA8HMK8w) | 3:21 | 2023-07-11 | 2023-07-19 |
-| [俺だけがZU・BU・NU・RE......](https://open.spotify.com/track/6KxqJCpuP6ZRPOs2xyVDZO) | [Za Ninngenn](https://open.spotify.com/artist/4FwqgQ92TpsuzQ82fIosrX) | [俺だけがZU・BU・NU・RE......](https://open.spotify.com/album/3GZvgiUm8uL3Iqdf23QIfY) | 3:37 | 2024-02-20 |  |
+| [俺だけがZU・BU・NU・RE......](https://open.spotify.com/track/6KxqJCpuP6ZRPOs2xyVDZO) | [Za Ninngenn](https://open.spotify.com/artist/4FwqgQ92TpsuzQ82fIosrX) | [俺だけがZU・BU・NU・RE......](https://open.spotify.com/album/3GZvgiUm8uL3Iqdf23QIfY) | 3:37 | 2024-02-20 | 2024-02-22 |
 | [僕しか知らない](https://open.spotify.com/track/5bO0x5yT69HKIDVekQWUVV) | [Nerd Magnet](https://open.spotify.com/artist/5GMWMP2vINSe4wq4mS5xle) | [僕しか知らない](https://open.spotify.com/album/1tDVydiEgw1y82hjmOvEcN) | 3:34 | 2023-09-26 | 2023-09-28 |
 | [僕の右手](https://open.spotify.com/track/2CLJmMe5g3ZKmQg13zKR9o) | [ラッキーセベン](https://open.spotify.com/artist/6i96AnwBuNfWOyMz7OHYWx) | [僕の右手](https://open.spotify.com/album/7bKj3wV1x34nhrkaTTO7rq) | 4:59 | 2023-08-15 | 2023-08-23 |
 | [僕の家](https://open.spotify.com/track/0M6AuT2CHZP7rZ4MAxsxZp) | [KiQ](https://open.spotify.com/artist/1wpDXEtGHLGW18q9A0bvGz) | [空想](https://open.spotify.com/album/7JmvBaTG3wbN9vPmb3ardJ) | 3:20 | 2023-09-19 | 2023-09-27 |

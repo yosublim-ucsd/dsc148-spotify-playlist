@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wB72P2sVsT.md) - [plain]
 
 > David Guetta au top des bangers dance/electro du moment !
 
-[Spotify](https://open.spotify.com/user/spotify) - 407,528 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 407,627 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wB72P2sVsT.md) - [plain]
 | 49 | [God Is A Girl](https://open.spotify.com/track/6orZ3ZsSlFvsgmXEAiGfWJ) | [Sound Of Legend](https://open.spotify.com/artist/3g9yyIlJ0sIunQWJLmIYhn), [Groove Coverage](https://open.spotify.com/artist/1yWjNh9SRE7C59A3LDIwVW), [DJane HouseKat](https://open.spotify.com/artist/64tnAMgE8bc2zTMBcBsLdx) | [God Is A Girl](https://open.spotify.com/album/6SsqqKA7GXG1ZVch5S8YKX) | 2:41 |
 | 50 | [Living On Video \(feat\. DTale\)](https://open.spotify.com/track/0W6MlHGvHAcSsoRt34pZIt) | [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7), [DTale](https://open.spotify.com/artist/6kNzhTpSxGfG0dxqMuraWy) | [Living On Video \(feat\. DTale\) \[Festival Mix\]](https://open.spotify.com/album/3ilMBUiEE7oTOExAPwkV84) | 2:23 |
 
-Snapshot ID: `MCxlMjFlZmM3NjMxYWVkNzM3ZjFmNjlkZTVlMmQ4ODNhOTk3OWZlY2Q0`
+Snapshot ID: `MCwwNjkxYjY5YzU0MTY5ZmNiOWQ1NDJiOWY5MDE4M2VkOGUwYmIxMTZk`

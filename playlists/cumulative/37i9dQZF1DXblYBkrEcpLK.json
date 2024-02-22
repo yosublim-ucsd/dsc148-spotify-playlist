@@ -3023,6 +3023,24 @@
     },
     {
       "album": {
+        "name": "Kibou no namae",
+        "url": "https://open.spotify.com/album/1nc8iam2SFPEwHqfrIG9dB"
+      },
+      "artists": [
+        {
+          "name": "\u5bb6\u5165\u30ec\u30aa\u00d7\u9ebb\u5009\u3082\u3082",
+          "url": "https://open.spotify.com/artist/2sQ533RKXQvXLT66OkfEqw"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206865,
+      "name": "Kibou no namae",
+      "url": "https://open.spotify.com/track/1ldgALd36lkNKA9MkEjQcF"
+    },
+    {
+      "album": {
         "name": "Kimi no Tonaride",
         "url": "https://open.spotify.com/album/23CWIjCLZrE3FfZbCRQ90A"
       },
@@ -9908,7 +9926,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 206865,
       "name": "\u5e0c\u671b\u306e\u540d\u524d",
       "url": "https://open.spotify.com/track/46mJphrIjZH61w0pFy9OmB"

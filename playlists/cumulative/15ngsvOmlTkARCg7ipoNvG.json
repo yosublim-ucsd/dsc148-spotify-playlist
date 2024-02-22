@@ -4319,6 +4319,24 @@
     },
     {
       "album": {
+        "name": "Bonds",
+        "url": "https://open.spotify.com/album/7Iqj5fg0T1pMtI8h5G4Agt"
+      },
+      "artists": [
+        {
+          "name": "Poella",
+          "url": "https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60258,
+      "name": "Bonds",
+      "url": "https://open.spotify.com/track/72JBytoM9NtMcmpwdJK3PV"
+    },
+    {
+      "album": {
         "name": "Rising Light",
         "url": "https://open.spotify.com/album/0htQDvvGMdICGa3gM2Z8be"
       },
@@ -8511,6 +8529,42 @@
     },
     {
       "album": {
+        "name": "Eternal",
+        "url": "https://open.spotify.com/album/2ZIQufrOHWVRU6j6HSUznQ"
+      },
+      "artists": [
+        {
+          "name": "Cello Soul",
+          "url": "https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60258,
+      "name": "Eternal",
+      "url": "https://open.spotify.com/track/0U6EeKfcfOfr4YFAwZf89n"
+    },
+    {
+      "album": {
+        "name": "Eternal",
+        "url": "https://open.spotify.com/album/2ZIQufrOHWVRU6j6HSUznQ"
+      },
+      "artists": [
+        {
+          "name": "Cello Soul",
+          "url": "https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60258,
+      "name": "Eternal - Cello Version",
+      "url": "https://open.spotify.com/track/71VFERRJh5OoP2y3tmqEF9"
+    },
+    {
+      "album": {
         "name": "Serene Moments",
         "url": "https://open.spotify.com/album/6u831RiIAfoxHs2kG8Bzwm"
       },
@@ -8764,6 +8818,24 @@
       "duration_ms": 60500,
       "name": "Everlasting Hope",
       "url": "https://open.spotify.com/track/627VlJ5NQcUPniUWZ9wDjH"
+    },
+    {
+      "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/6YgaOEu7ROQWVhMqdlZAfZ"
+      },
+      "artists": [
+        {
+          "name": "Harp Flow",
+          "url": "https://open.spotify.com/artist/1dTMXyW6jjoTvvf7ktsuGH"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60258,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/0zkm8mrM0MfeglZn50dCBw"
     },
     {
       "album": {

@@ -1504,10 +1504,32 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 209156,
       "name": "I'm A Winner",
       "url": "https://open.spotify.com/track/0KVnFTW27uyzGeLs23pF8L"
+    },
+    {
+      "album": {
+        "name": "You Are My Number One",
+        "url": "https://open.spotify.com/album/11U8bfoUaQAnK2eMDSLZpA"
+      },
+      "artists": [
+        {
+          "name": "Carolyn Jordan",
+          "url": "https://open.spotify.com/artist/1gimN0nGWo08aPdWlsr79n"
+        },
+        {
+          "name": "Craig Hardy",
+          "url": "https://open.spotify.com/artist/1ppHsN9NuneZby7Ue4tioA"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209156,
+      "name": "I'm A Winner",
+      "url": "https://open.spotify.com/track/5uY46k1WiTJAM4NYAzEQTQ"
     },
     {
       "album": {

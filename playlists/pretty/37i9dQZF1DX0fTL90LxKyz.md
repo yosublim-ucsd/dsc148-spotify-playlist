@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fTL90LxKyz.md) - [plain]
 
 > Go hard or go home!
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,846 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,855 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,11 +43,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fTL90LxKyz.md) - [plain]
 | 33 | [Warm \- Original](https://open.spotify.com/track/0h67w8nvVRIq5jOm4YO2Da) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m) | [Warm](https://open.spotify.com/album/6WBjQpN3WFzSQm0HBiOsiw) | 2:32 |
 | 34 | [Spin This Coupe](https://open.spotify.com/track/7CSjrlKu2HI9qNpzCWWYer) | [Abra Cadabra](https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM) | [Spin This Coupe](https://open.spotify.com/album/14f53xLUSSKlpAuvgc6smC) | 2:41 |
 | 35 | [M24 x Fumez the Engineer \- Plugged In](https://open.spotify.com/track/6mZ1eBLOPHltSDFZn4SfwU) | [Fumez The Engineer](https://open.spotify.com/artist/0ksX396B3t2Gt8kwr0BJZk), [M24](https://open.spotify.com/artist/601bmA9VRZnMVclsxG7W6T) | [M24 x Fumez the Engineer \- Plugged In](https://open.spotify.com/album/4XVOMAV4svBJPsSYI3SE5u) | 2:32 |
-| 36 | [6am in Brighton](https://open.spotify.com/track/0pvPWDLzZcWFyXO2VantXA) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk) | [6am in Brighton](https://open.spotify.com/album/5fuMhXg7UxrJWnm8qbWIVW) | 3:14 |
-| 37 | [The Great Escape \(feat\. Central Cee\)](https://open.spotify.com/track/11z8FQUmPdr1JQxOlBqECS) | [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [The Great Escape \(feat\. Central Cee\)](https://open.spotify.com/album/74QOvBN9TxbosknH81QoC5) | 3:12 |
+| 36 | [The Great Escape \(feat\. Central Cee\)](https://open.spotify.com/track/11z8FQUmPdr1JQxOlBqECS) | [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [The Great Escape \(feat\. Central Cee\)](https://open.spotify.com/album/74QOvBN9TxbosknH81QoC5) | 3:12 |
+| 37 | [6am in Brighton](https://open.spotify.com/track/0pvPWDLzZcWFyXO2VantXA) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk) | [6am in Brighton](https://open.spotify.com/album/5fuMhXg7UxrJWnm8qbWIVW) | 3:14 |
 | 38 | [Who Else \(feat\. Unknown T\)](https://open.spotify.com/track/6BERzZBkuvnjuf7dUYOL3R) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [Who Else \(feat\. Unknown T\)](https://open.spotify.com/album/3dVDMKUj4X35IMG63SCbwe) | 2:34 |
-| 39 | [Wasteman](https://open.spotify.com/track/3jKFt4kXB8EjY9beWwdvOv) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [The Villain I Never Was](https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg) | 2:31 |
-| 40 | [Know Better \(feat\. Rv\)](https://open.spotify.com/track/0IX9PL2dUVCHp6L4JQ9Rzq) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Rv](https://open.spotify.com/artist/4VylF3B1rKCL5tdOJ8VL8o) | [The One](https://open.spotify.com/album/1y37t6X1wmEVbCke5Luugd) | 3:30 |
+| 39 | [Know Better \(feat\. Rv\)](https://open.spotify.com/track/0IX9PL2dUVCHp6L4JQ9Rzq) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Rv](https://open.spotify.com/artist/4VylF3B1rKCL5tdOJ8VL8o) | [The One](https://open.spotify.com/album/1y37t6X1wmEVbCke5Luugd) | 3:30 |
+| 40 | [Wasteman](https://open.spotify.com/track/3jKFt4kXB8EjY9beWwdvOv) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [The Villain I Never Was](https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg) | 2:31 |
 | 41 | [Pisces](https://open.spotify.com/track/1YTKdKM3X8G1XjUStxchPP) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [Krept & Konan](https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE) | [Pisces](https://open.spotify.com/album/3n9e29kuHF17F9d0XF8H5j) | 2:40 |
 | 42 | [WW2](https://open.spotify.com/track/51ryhYwXfP7vv3A9RORmQ9) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [WW2](https://open.spotify.com/album/3dvyDylacbSogoCzyIJn52) | 3:21 |
 | 43 | [Call Me A Spartan](https://open.spotify.com/track/3tvtBZEkBPhrusKwj0Bhft) | [Harlem Spartans](https://open.spotify.com/artist/2tdPAMw1puUwZNvRo3Rq4g) | [Call Me A Spartan](https://open.spotify.com/album/0L3E3Q7E8vGe64qn30FuUN) | 3:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fTL90LxKyz.md) - [plain]
 | 49 | [Talk To Me Nice](https://open.spotify.com/track/1JTnvQEXkqf0ZovtKPDh9j) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p) | [Talk To Me Nice](https://open.spotify.com/album/4wt9ueqBx4ngkdrD3Rd41Z) | 2:28 |
 | 50 | [Lagga](https://open.spotify.com/track/4HYAiH7u0Ef4zRzhD7VUJ5) | [M1llionz](https://open.spotify.com/artist/5ZD4VhNTUEnEBTlWQPeyzq) | [Lagga](https://open.spotify.com/album/3ycrGoY6xf0Y2npCyyiEtU) | 3:26 |
 
-Snapshot ID: `MCw3NmQ2YjUwNTk2ZWIyNTk0YjEzZjVmNTU2OThmYTI4M2I4YTNhMDU2`
+Snapshot ID: `MCxlNDRhMWMxMGI1YjJlN2ZmOWU0NzUwM2NmYWQxODE3NzUxODRiYmFl`

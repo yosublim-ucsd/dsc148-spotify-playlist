@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gCG2c.md) - [plain]
 
 > This is Akon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,896 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,012 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gCG2c.md) - [plain]
 | 49 | [Angel](https://open.spotify.com/track/6LBcHFbzmKSgGjZapRE2B5) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Angel](https://open.spotify.com/album/3m1Nxg2YS7QIs0v428yNLP) | 3:35 |
 | 50 | [Locked Up ft\. Akon \(3 Are Legend & Bassjackers Remix\)](https://open.spotify.com/track/1AY0L2LubNmVDCDnP9UCF9) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Trinix](https://open.spotify.com/artist/46qRZXqd4W6AQ0QExGjDwN), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [3 Are Legend](https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II), [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [HiROQUEST 2: Double Helix Remixed](https://open.spotify.com/album/66WcJqzeSYCSSO9uGPfKIF) | 3:17 |
 
-Snapshot ID: `Mjg0NzQxMzEsMDAwMDAwMDBiMzYxMDM2ZDcxZGI5NGVjYjU2ZDIwZDZhZTRjNmZmMw==`
+Snapshot ID: `Mjg0NzUyOTEsMDAwMDAwMDAzY2JkMTdmZWEyYmFmMGIwMDY4YjgwYTg4ZWE1ODYwZQ==`

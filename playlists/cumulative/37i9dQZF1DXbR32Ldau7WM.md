@@ -4,7 +4,7 @@
 
 > The biggest rock bands/artists in Japan right now!  Cover: Fujifabric\(フジファブリック\)
 
-969 songs - 2 day 16 hr 6 min
+970 songs - 2 day 16 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -313,6 +313,7 @@
 | [Mirage](https://open.spotify.com/track/24B1pivOBr5KpJbwwIS05q) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [Dream in Dream](https://open.spotify.com/album/55pmZFcK0E5yTcAqvs26qX) | 4:27 | 2023-06-27 | 2023-07-12 |
 | [Miraino Uta \- 2023 Master](https://open.spotify.com/track/4hx8WgEJQOIcXflbmK3xRW) | [Kazuya Yoshii](https://open.spotify.com/artist/4tgnOBWTNWUtp3uhUiLCkj) | [20](https://open.spotify.com/album/6SA5aeZwQ2hOrEOeTWUGj8) | 5:07 | 2023-09-12 | 2023-10-11 |
 | [Mirror Mirror](https://open.spotify.com/track/38gysCdAsWQcOWWEC07Run) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [THE OTHER ONE](https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t) | 3:50 | 2023-03-23 | 2023-03-29 |
+| [Mizuwariwo Usukutsukutte Itsumademo](https://open.spotify.com/track/0TJppXf9pBhMQNgcIAt6A1) | [Takehara Pistol](https://open.spotify.com/artist/0IRFQcZbbHHpFY5EUNA2XA) | [Mizuwariwo Usukutsukutte Itsumademo](https://open.spotify.com/album/47u6mM6JlOrCKgEwHVxF3n) | 3:14 | 2024-02-20 |  |
 | [Monochrome](https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Monochrome](https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI) | 3:57 | 2022-11-17 | 2023-01-25 |
 | [Moonlight](https://open.spotify.com/track/4hfBibBqDQFOPANcqR2ODh) | [androp](https://open.spotify.com/artist/7n437ZdDaCzqjJDJ7WmbyX) | [Moonlight](https://open.spotify.com/album/5Qkw9pXEw3swmDQRmB1xQg) | 3:39 | 2022-05-10 | 2022-07-29 |
 | [More Than Words](https://open.spotify.com/track/4mvTOCXzPHBmLT5IJLUHJ5) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [More Than Words](https://open.spotify.com/album/479BpYjSqpTRKX4DjmIbQC) | 3:50 | 2022-05-10 | 2023-03-22 |
@@ -451,7 +452,6 @@
 | [Slow Dance](https://open.spotify.com/track/1j8b2kx4h4JIpSw600rxeQ) | [BRAHMAN](https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5) | [Slow Dance](https://open.spotify.com/album/027kJFq2aEKN1y53MFq1LZ) | 4:23 | 2022-05-19 | 2022-07-27 |
 | [Slowhand ni Dakarete \(Oh Love!!\)](https://open.spotify.com/track/5dmD2fCgxHNMmOkP0i3A62) | [Yuko Hara](https://open.spotify.com/artist/176umXeBGLzt8j80Bh53l0) | [Fujin no Shozo \(Portrait of a Lady\)](https://open.spotify.com/album/6BQzYaKDVZSdJ8GqE91MsI) | 4:11 | 2022-10-18 | 2022-10-29 |
 | [Smells](https://open.spotify.com/track/4JRzTRnZ6yvscy7INaYk93) | [Yoshito Tanaka](https://open.spotify.com/artist/4E3SE3M4WZxSzRx16UruNl), [Shikao Suga](https://open.spotify.com/artist/3sddhwNhGabYSvzYKhB7qj) | [TIME](https://open.spotify.com/album/6i2utXc5iuFdEUnOeAsb9o) | 3:59 | 2022-05-10 | 2022-07-29 |
-| [SMOKIN' BILLY](https://open.spotify.com/track/6pjCT2TfxXdoNSMmWIkBA8) | [Thee Michelle Gun Elephant](https://open.spotify.com/artist/2DBcgbvakjiv4Yi9bRyjVX) | [GEAR BLUES](https://open.spotify.com/album/7gUem4NLZn4NKR0d5IVeOJ) | 3:27 | 2023-12-12 |  |
 | [Smoothie Glider](https://open.spotify.com/track/4T2OrfIekkpkZHTv07qLxG) | [SHERBETS](https://open.spotify.com/artist/2wDZiOSGlVZbHYSqAeJRW9) | [UK](https://open.spotify.com/album/2EtI69rcRw5yItVXEBQeJZ) | 4:01 | 2022-10-29 | 2022-11-23 |
 | [So am I](https://open.spotify.com/track/2JsVTIGU8AH4U0Z4LZY0II) | [Uniolla](https://open.spotify.com/artist/46FRoaRwYgXPq0HGAdTRDU) | [Love me tender](https://open.spotify.com/album/5CyzUnjMCkWpPSZiCaXJDG) | 4:31 | 2023-07-04 | 2023-08-02 |
 | [So am I](https://open.spotify.com/track/2f1exvQg0PWmi8d4mlQKb9) | [Uniolla](https://open.spotify.com/artist/46FRoaRwYgXPq0HGAdTRDU) | [Love me tender](https://open.spotify.com/album/4twbnqqyzbe5X8AitewvVf) | 4:31 | 2023-07-04 | 2023-07-06 |
@@ -710,6 +710,7 @@
 | [スウィート・ソウル・レヴュー \(duet with Rainych, feat\. evening cinema\)](https://open.spotify.com/track/7zc7YIxrfTzXSXTe6oQKwH) | [Maki Nomiya](https://open.spotify.com/artist/0PoKzYeBX3Lgg35BipPlAj), [Rainych](https://open.spotify.com/artist/3dTzeO0QCd86cXSgQ04Y3r), [evening cinema](https://open.spotify.com/artist/6NQ3DibpWMigY2cXJr9KYv) | [スウィート・ソウル・レヴュー \(duet with Rainych, feat\. evening cinema\)](https://open.spotify.com/album/3spkvo7ENdH913rigIMaKI) | 4:34 | 2022-05-10 | 2022-07-27 |
 | [スカイブルー](https://open.spotify.com/track/76JZBSd8oq8USE4gRwdxtz) | [The Birthday](https://open.spotify.com/artist/58zME34zPsQx58YXCyFryH) | [スカイブルー](https://open.spotify.com/album/4kvE2PgtYvZ0LY3rrKOg0S) | 3:16 | 2022-11-22 | 2022-12-21 |
 | [スターフィッシュ](https://open.spotify.com/track/18xszcbgtHszOyovyumBPJ) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [Pepperoni Quattro](https://open.spotify.com/album/1nbpjfQPtVEeexILtqJxrq) | 3:40 | 2023-08-22 |  |
+| [スモーキン・ビリー](https://open.spotify.com/track/6pjCT2TfxXdoNSMmWIkBA8) | [Thee Michelle Gun Elephant](https://open.spotify.com/artist/2DBcgbvakjiv4Yi9bRyjVX) | [GEAR BLUES](https://open.spotify.com/album/7gUem4NLZn4NKR0d5IVeOJ) | 3:27 | 2023-12-12 |  |
 | [スローハンドに抱かれて \(Oh Love!!\)](https://open.spotify.com/track/4lXUj3lo0LZtrgLdtCfowj) | [Yuko Hara](https://open.spotify.com/artist/176umXeBGLzt8j80Bh53l0) | [婦人の肖像 \(Portrait of a Lady\)](https://open.spotify.com/album/33OSGknTPhRmt4pDyqDA6O) | 4:11 | 2022-10-18 | 2022-10-20 |
 | [センスレス・ワンダー\[ReREC\]](https://open.spotify.com/track/0vxB49O2ae1Hf3LWw3xoXq) | [Hitorie](https://open.spotify.com/artist/0ouUO7PZ76vjBJytaT2Na0) | [10年後のセンスレス・ワンダー](https://open.spotify.com/album/4DhpPwIwj55p5Wbvi6mb53) | 4:18 | 2024-01-23 | 2024-02-14 |
 | [ソウル・ブレイド](https://open.spotify.com/track/1UkISoJjHBG3IEkTcx9waL) | [Koji Kikkawa](https://open.spotify.com/artist/1S6yZL1OIb51tEtbKg3iZ1) | [ソウル・ブレイド](https://open.spotify.com/album/55rzLkZnf2qAoxyQkrnOzz) | 3:59 | 2022-10-13 | 2022-10-19 |
@@ -885,7 +886,7 @@
 | [欲望の種類](https://open.spotify.com/track/0tH51HhTDdVlk2LDlsR9TY) | [SHERBETS](https://open.spotify.com/artist/2wDZiOSGlVZbHYSqAeJRW9) | [欲望の種類](https://open.spotify.com/album/53xPqQvVSyHA63t5LwgkU5) | 3:27 | 2022-05-10 | 2022-07-25 |
 | [歌えニッポンの空](https://open.spotify.com/track/4haAEK652y6L2Z2r64IGVz) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [歌えニッポンの空](https://open.spotify.com/album/1iP54ywpeh0moWni82OKXo) | 4:07 | 2023-08-01 | 2023-08-03 |
 | [残響散歌](https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [残響散歌](https://open.spotify.com/album/1gfSftIuafqkGu28ely5z6) | 3:04 | 2022-05-10 | 2022-11-09 |
-| [水割りをうすくつくっていつまでも](https://open.spotify.com/track/0KlLXIG5ZtKrSqDN2IOKt5) | [Takehara Pistol](https://open.spotify.com/artist/0IRFQcZbbHHpFY5EUNA2XA) | [水割りをうすくつくっていつまでも](https://open.spotify.com/album/1V2e27tAPHcBPNvh0VStNn) | 3:14 | 2024-02-20 |  |
+| [水割りをうすくつくっていつまでも](https://open.spotify.com/track/0KlLXIG5ZtKrSqDN2IOKt5) | [Takehara Pistol](https://open.spotify.com/artist/0IRFQcZbbHHpFY5EUNA2XA) | [水割りをうすくつくっていつまでも](https://open.spotify.com/album/1V2e27tAPHcBPNvh0VStNn) | 3:14 | 2024-02-20 | 2024-02-22 |
 | [水色と空色](https://open.spotify.com/track/3ng50f0XnhrTWF8ooA8wzJ) | [Fumiya Fujii](https://open.spotify.com/artist/5uDMiTt5fxXmUyPS5HPwvS) | [水色と空色](https://open.spotify.com/album/55BY83icZvzWxKSShP7Bb9) | 4:41 | 2022-05-24 | 2022-06-01 |
 | [永遠](https://open.spotify.com/track/7oCZ1O1L4TuLRnmt8Io4IU) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [永遠](https://open.spotify.com/album/42nEyaGtOPG8YuugZjyNFt) | 6:12 | 2022-07-28 | 2022-08-31 |
 | [永遠の不在証明](https://open.spotify.com/track/7FL5iSLdKcersBgDiwijis) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [永遠の不在証明](https://open.spotify.com/album/5y7E3hUWGNoY98C1TubePY) | 4:21 | 2023-09-26 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover:  <a href="https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH?si=pALXzk\-DTzqjHtl3l\-Tghg">Yumbs</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 690,704 likes - 60 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 691,310 likes - 60 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 | 59 | [Uzungandishiyi](https://open.spotify.com/track/4uVJP9HxCgiLPyfFBSxkE8) | [Sino Msolo](https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI), [Kelvin Momo](https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v) | [Uzungandishiyi](https://open.spotify.com/album/0EU6sfZJ5eWYhbHuOsNlP9) | 7:04 |
 | 60 | [Sgudi Snyc](https://open.spotify.com/track/0XSYoJ0MJpMB2tddyRcBEC) | [De Mthuda](https://open.spotify.com/artist/1w2P5nNsO5W7FYq2Oui0cM), [Da Muziqal Chef](https://open.spotify.com/artist/25uuaH9QdKIygoWTDzKuve), [Eemoh](https://open.spotify.com/artist/4k3Qot5J7igrWE9JUP3Wza) | [Sgudi Snyc](https://open.spotify.com/album/3MOD8aita13JIDWrLsqQoe) | 5:31 |
 
-Snapshot ID: `MCxhNWIzMDdhZGFiZGJiZDQ3MjQwMTBlOGRjMDkwZGVhMTcxYTJmNjBj`
+Snapshot ID: `MCxiMjMzMzIwYTExZTViNjlmM2FlYWQzOWJlMTM5NDJmMWRmNDdlMTVl`

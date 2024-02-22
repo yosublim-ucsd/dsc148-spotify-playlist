@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Dua Lipa
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,431 likes - 79 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,439 likes - 79 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 68 | [River](https://open.spotify.com/track/3UrmjZcjcYP3zFUdfWOy46) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [River](https://open.spotify.com/album/7jfhFHdRgOjyDAvIZ4WNL8) | 2:36 |
 | 69 | [Rooftop \(옥탑\)](https://open.spotify.com/track/7kdbbVFmNzsTGpQRTrBtCl) | [Flowsik](https://open.spotify.com/artist/4N2CbwZ7ekytt9Oi5dh4Vq) | [Worlds Apart](https://open.spotify.com/album/1NGVSYnU5H1g0IWOEyuYNq) | 2:37 |
 | 70 | [Spi\-cy \(feat\. Soo\-Yeony\)](https://open.spotify.com/track/0UaFnYtyBYf1DX6oiVtG3n) | [ONLEE](https://open.spotify.com/artist/673y8xDyKRPiixhztTAOIR), [Soo\-Yeony](https://open.spotify.com/artist/2xHDCGwsXvDCLDeF555iki) | [Spi\-cy \(feat\. Soo\-Yeony\)](https://open.spotify.com/album/5wSgsjV4Wb93tcuM75oIEC) | 3:09 |
-| 71 | [K′up](https://open.spotify.com/track/0C6Y6Vhft4YrnmKS3nM5oR) | [Don Malik](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE) | [K′up](https://open.spotify.com/album/7k0cYSTwHYUDltxrArQ6eF) | 3:09 |
+| 71 | [K′up](https://open.spotify.com/track/0C6Y6Vhft4YrnmKS3nM5oR) | [DON MALIK](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE) | [K′up](https://open.spotify.com/album/7k0cYSTwHYUDltxrArQ6eF) | 3:09 |
 | 72 | [?? \(Feat\. Choi Jungyoon\)](https://open.spotify.com/track/2r0InU4FaekWGNoQK8O0fX) | [Kanto](https://open.spotify.com/artist/1Pr77yszl1ikj6k9sy4Cju), [Choi Jungyoon](https://open.spotify.com/artist/1jpRO6feBr1rjOCSHzu3Xi) | [?? \(Feat\. Choi Jungyoon\)](https://open.spotify.com/album/0sxlmnmBXIopIqldzbj5YN) | 2:45 |
 | 73 | [On Everything](https://open.spotify.com/track/2E009KpQieiSpGDru6l5fU) | [mabanua](https://open.spotify.com/artist/1lBnm3edbDJ7KbWSHzSGQP), [Otomodatchi](https://open.spotify.com/artist/1YtYMJNUVAW60TKtwu6PQj) | [On Everything](https://open.spotify.com/album/79nCVge6Qf4GrdjdTMazLf) | 3:08 |
 | 74 | [SAICO](https://open.spotify.com/track/2Ai3BXDpkd8uyag1cLMwBg) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [SAICO](https://open.spotify.com/album/4anpmAbMwcV3GZMRjX51JQ) | 2:47 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 78 | [Be Yours](https://open.spotify.com/track/3Jjwrk3xgnJWPTc48GYhWg) | [Cliff](https://open.spotify.com/artist/3jjbX9cm5Np3ekAypS71si) | [Be Yours](https://open.spotify.com/album/7vM7i3keTw97YelVp8akgg) | 3:04 |
 | 79 | [Nowhere](https://open.spotify.com/track/5d9QunA2YMB6gKQ65fE8cs) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [Nowhere](https://open.spotify.com/album/1NgOh8j1ai2Qs67m48gLd9) | 2:46 |
 
-Snapshot ID: `MCxiMDM3MDFmNDViMjc0N2ZkODdhZGNhMTY5Mjk0YjgwYzQ3M2I3Zjk0`
+Snapshot ID: `MCxmZjc5NmZhZGQ2Y2Q3ZWEyM2EzMjZmYzc4MDEwOTIyZTdlNzA3NDRj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Dua Lipa, Calvin Harris, IDLES and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 846,041 likes - 135 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 846,071 likes - 135 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 50 | [Your Apartment](https://open.spotify.com/track/2F8GiqfSE1JSjLGHlHMmQa) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Your Apartment](https://open.spotify.com/album/4bchmgK2VJWV9fHapF5nms) | 3:18 |
 | 51 | [Love Now, Again](https://open.spotify.com/track/1NoWuTa2yd2fmXqIbALVri) | [Sonnee](https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr) | [Chalk](https://open.spotify.com/album/7BwSbpmnlFAHrKpXdCrlcj) | 3:17 |
 | 52 | [Sexyy Red \(feat\. Headie One\)](https://open.spotify.com/track/0f5ZTJ6BcOEijnrR11edbr) | [Booter Bee](https://open.spotify.com/artist/4UqCESpZKvidid87gOWQyU), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [True Stories](https://open.spotify.com/album/1Jkf7g6nVVDqUxev11BWl6) | 2:25 |
-| 53 | [R&B](https://open.spotify.com/track/3nJFqIDFcku1zLfbC2Lrgi) | [English Teacher](https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU) | [R&B](https://open.spotify.com/album/6S1bUot55HmBNa7e1z67i2) | 2:48 |
+| 53 | [R&B](https://open.spotify.com/track/6yRsDLeo8qszcOS2u11ZDn) | [English Teacher](https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU) | [R&B](https://open.spotify.com/album/1fr1VcE4Jo3WoaUcOi7chU) | 2:48 |
 | 54 | [LAST OF US \(feat\. Rita Ora\)](https://open.spotify.com/track/2Mwmp4qVCe8CJcalsT4xm1) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [LAST OF US \(feat\. Rita Ora\)](https://open.spotify.com/album/19wUjYvz97e0wXWHE41PSV) | 3:10 |
 | 55 | [kinda smacks](https://open.spotify.com/track/4cwi0Yd3pq1GfvHj7FLMdn) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0), [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [kinda smacks](https://open.spotify.com/album/09Aw6tRqufmeBbVjR5kHrm) | 2:16 |
 | 56 | [Matching Tattoos](https://open.spotify.com/track/6Q0oVfhe6qYiwv6VNHhEAd) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Matching Tattoos](https://open.spotify.com/album/1mlkMoZYsAX8tvNnodHDFC) | 3:00 |
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 134 | [a little love for myself](https://open.spotify.com/track/6GoTkMsiBcsrpWjII05gZS) | [Tia Gordon](https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc) | [a little love for myself](https://open.spotify.com/album/1x8VAK3gdCGOrSY1tNCKUN) | 3:29 |
 | 135 | [Powerful Women](https://open.spotify.com/track/2p0VD8mwgVidhkioB1XNZm) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Trackhouse \(Daytona 500 Edition\)](https://open.spotify.com/album/56jg3KJcYmfL7RzYmG2O1Q) | 2:45 |
 
-Snapshot ID: `MCw0Y2UxZjI4NWU2ODRiODFmNDhiNTc1YTQwOGM3MTZjNzY5MjlkMzJl`
+Snapshot ID: `MCw2ZjExNzkwNDJmZWFiZjA1OWZkZTU4MzFkYWFiZTc0YTFlZjQyZTU2`

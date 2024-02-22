@@ -1,5 +1,5 @@
 {
-  "2024-02-21": 1422871,
+  "2024-02-22": 1423485,
   "date_first_scraped": "2022-05-30",
   "description": "Hottest Anime tracks & best new sounds for all Anime fans! \u6700\u65b0\u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u306e\u8a71\u984c\u66f2\u3092\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\uff01Illustration by <a href=\"https://kazuhisauragami.com/\"> Kazuhisa Uragami</a>",
   "name": "Anime Now",
@@ -1347,6 +1347,32 @@
       "duration_ms": 219360,
       "name": "Blaze",
       "url": "https://open.spotify.com/track/5Pw2rjJVoTbMJlY8988bvn"
+    },
+    {
+      "album": {
+        "name": "Blaze of Clear Sky (from \"The Apothecary Diaries\" Soundtrack)",
+        "url": "https://open.spotify.com/album/23GffvhwgaUE3p6K3ZCDFT"
+      },
+      "artists": [
+        {
+          "name": "Daichi Takenaka",
+          "url": "https://open.spotify.com/artist/40kOocaMWxJX2dIYzDAUmB"
+        },
+        {
+          "name": "Mashiro Uchida",
+          "url": "https://open.spotify.com/artist/3kFbGXxreI0op7aD2SInoo"
+        },
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118000,
+      "name": "Blaze of Clear Sky (from \"The Apothecary Diaries\" Soundtrack)",
+      "url": "https://open.spotify.com/track/04xIuk7yE5S3ucvzd7VNi2"
     },
     {
       "album": {
@@ -4655,6 +4681,24 @@
       "duration_ms": 245026,
       "name": "HELLO HELLO HELLO",
       "url": "https://open.spotify.com/track/1IlMcBvlQlPSd58GxEHX44"
+    },
+    {
+      "album": {
+        "name": "HELLO WORLD",
+        "url": "https://open.spotify.com/album/710djdFa2qcgDZvp8UzqLB"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293013,
+      "name": "HELLO WORLD",
+      "url": "https://open.spotify.com/track/4Fc2uEp6DsKCxWB7day331"
     },
     {
       "album": {

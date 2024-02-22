@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxwmBaMqxsl.md) - [plain]
 
 > Sad and gloomy Jazz for a rainy day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,130 likes - 216 songs - 13 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,145 likes - 216 songs - 13 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -225,4 +225,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxwmBaMqxsl.md) - [plain]
 | 215 | [No Time To Lose](https://open.spotify.com/track/33PBF5x1QjBp3EjlMHVkqd) | [North West Trio](https://open.spotify.com/artist/6xEHf5bkAwi6XDbFwRwUpa) | [No Time To Lose](https://open.spotify.com/album/7JrQv5id6mbOlu2iWFc4Ob) | 4:31 |
 | 216 | [Bandängen](https://open.spotify.com/track/7HX0DryEZ4qOYEzVCF942E) | [Jazz Tonality](https://open.spotify.com/artist/7bUmkNAZbilFTnmG2lmU5t) | [Bandängen](https://open.spotify.com/album/7akZUKwJixzT2ey60dcaPR) | 2:30 |
 
-Snapshot ID: `MCwxMGM1YWQ2MmFkM2M3MzVlM2Q2ZjRlMzE4YzQwZWY0NWIwNDgwOTI1`
+Snapshot ID: `MCw4OWRjZjg2ZTViMzU1NzZlMTk1NjUxMGE4MzE0N2RhZjdlODdmNzhi`

@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin pop on the rise. Cover: Ela Taubert",
-  "num_followers": 283057,
+  "num_followers": 283079,
   "original_name": "el nuevo pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYmNjMGI2YmNkZmRjYzI0MjA4NDhhZWY5MjUyZWFmZGJmOGRiYTIz",
+  "snapshot_id": "MCw1MWM5ODI3ZWY4MTQ3NTNhNzg4NmZmMzk4ZWJkY2NkZmRmMTRhZjM3",
   "tracks": [
     {
       "added_at": "2024-02-16 05:01:00",
@@ -507,6 +507,22 @@
     {
       "added_at": "2024-02-16 05:01:00",
       "album": {
+        "name": "\u00bfPor Qu\u00e9 No Me Fui Antes?",
+        "url": "https://open.spotify.com/album/5EsXC7mx9m2O11NHQvr21L"
+      },
+      "artists": [
+        {
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+        }
+      ],
+      "duration_ms": 167960,
+      "name": "\u00bfPor Qu\u00e9 No Me Fui Antes?",
+      "url": "https://open.spotify.com/track/6sYMPSRtbjiPjksAfrjszr"
+    },
+    {
+      "added_at": "2024-02-16 05:01:00",
+      "album": {
         "name": "Aqu\u00ed Sigo (Remix)",
         "url": "https://open.spotify.com/album/0k111CK5XkSEH9hFObcrYu"
       },
@@ -527,18 +543,34 @@
     {
       "added_at": "2024-02-16 05:01:00",
       "album": {
-        "name": "\u00bfPor Qu\u00e9 No Me Fui Antes?",
-        "url": "https://open.spotify.com/album/5EsXC7mx9m2O11NHQvr21L"
+        "name": "Pasado Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/467IwAn2Dtwex8TLMnHiBM"
       },
       "artists": [
         {
-          "name": "Ela Taubert",
-          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
         }
       ],
-      "duration_ms": 167960,
-      "name": "\u00bfPor Qu\u00e9 No Me Fui Antes?",
-      "url": "https://open.spotify.com/track/6sYMPSRtbjiPjksAfrjszr"
+      "duration_ms": 137693,
+      "name": "Pasado Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/1gUf12HGllfBJdGlM7Vk04"
+    },
+    {
+      "added_at": "2024-02-16 05:01:00",
+      "album": {
+        "name": "PAENAMORAR",
+        "url": "https://open.spotify.com/album/4690a9jilzn3yfvvtKdqMj"
+      },
+      "artists": [
+        {
+          "name": "Paula Cendejas",
+          "url": "https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC"
+        }
+      ],
+      "duration_ms": 178701,
+      "name": "PAENAMORAR",
+      "url": "https://open.spotify.com/track/6N9hiZx8ZvZznXjaWoiPJ1"
     },
     {
       "added_at": "2024-02-16 05:01:00",
@@ -563,22 +595,6 @@
     {
       "added_at": "2024-02-16 05:01:00",
       "album": {
-        "name": "PAENAMORAR",
-        "url": "https://open.spotify.com/album/4690a9jilzn3yfvvtKdqMj"
-      },
-      "artists": [
-        {
-          "name": "Paula Cendejas",
-          "url": "https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC"
-        }
-      ],
-      "duration_ms": 178701,
-      "name": "PAENAMORAR",
-      "url": "https://open.spotify.com/track/6N9hiZx8ZvZznXjaWoiPJ1"
-    },
-    {
-      "added_at": "2024-02-16 05:01:00",
-      "album": {
         "name": "A Oscuras",
         "url": "https://open.spotify.com/album/0z89TxA81wiOwBEyr6l7vN"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 159935,
       "name": "A Oscuras",
       "url": "https://open.spotify.com/track/0sf46dgA1e5uPj0uzwKCVn"
-    },
-    {
-      "added_at": "2024-02-16 05:01:00",
-      "album": {
-        "name": "Verano En NY",
-        "url": "https://open.spotify.com/album/4Z7PRGpL2aO3a8PAcMdiCD"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 186617,
-      "name": "Verano En NY",
-      "url": "https://open.spotify.com/track/0kRsOLSelm2Sxq0mbtshdJ"
     },
     {
       "added_at": "2024-02-16 05:01:00",
@@ -635,34 +635,18 @@
     {
       "added_at": "2024-02-16 05:01:00",
       "album": {
-        "name": "Pasado Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/467IwAn2Dtwex8TLMnHiBM"
+        "name": "Verano En NY",
+        "url": "https://open.spotify.com/album/4Z7PRGpL2aO3a8PAcMdiCD"
       },
       "artists": [
         {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
         }
       ],
-      "duration_ms": 137693,
-      "name": "Pasado Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/1gUf12HGllfBJdGlM7Vk04"
-    },
-    {
-      "added_at": "2024-02-16 05:01:00",
-      "album": {
-        "name": "tiroteAo",
-        "url": "https://open.spotify.com/album/79shU5fy5HE8MJp05fYeOh"
-      },
-      "artists": [
-        {
-          "name": "Pol Granch",
-          "url": "https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0"
-        }
-      ],
-      "duration_ms": 153403,
-      "name": "tiroteAo",
-      "url": "https://open.spotify.com/track/0HG1ISOw3yzzKxWbgOxBb0"
+      "duration_ms": 186617,
+      "name": "Verano En NY",
+      "url": "https://open.spotify.com/track/0kRsOLSelm2Sxq0mbtshdJ"
     },
     {
       "added_at": "2024-02-16 05:01:00",
@@ -683,18 +667,18 @@
     {
       "added_at": "2024-02-16 05:01:00",
       "album": {
-        "name": "Que La Detengan",
-        "url": "https://open.spotify.com/album/4Ojro0SE46qoa50JqvpOj8"
+        "name": "tiroteAo",
+        "url": "https://open.spotify.com/album/79shU5fy5HE8MJp05fYeOh"
       },
       "artists": [
         {
-          "name": "Sof\u00eda Mart\u00edn",
-          "url": "https://open.spotify.com/artist/7oWRB45H5Usj3JVKeCwsus"
+          "name": "Pol Granch",
+          "url": "https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0"
         }
       ],
-      "duration_ms": 143265,
-      "name": "Que La Detengan",
-      "url": "https://open.spotify.com/track/26SAg6zRb3JpoyEXmcXxe0"
+      "duration_ms": 153403,
+      "name": "tiroteAo",
+      "url": "https://open.spotify.com/track/0HG1ISOw3yzzKxWbgOxBb0"
     },
     {
       "added_at": "2024-02-16 05:01:00",
@@ -715,42 +699,18 @@
     {
       "added_at": "2024-02-16 05:01:00",
       "album": {
-        "name": "La Mexicana",
-        "url": "https://open.spotify.com/album/5JBNbex1k3qqo57JwIZUTA"
+        "name": "Que La Detengan",
+        "url": "https://open.spotify.com/album/4Ojro0SE46qoa50JqvpOj8"
       },
       "artists": [
         {
-          "name": "Ramon Vega",
-          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
-        },
-        {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+          "name": "Sof\u00eda Mart\u00edn",
+          "url": "https://open.spotify.com/artist/7oWRB45H5Usj3JVKeCwsus"
         }
       ],
-      "duration_ms": 149741,
-      "name": "La Mexicana",
-      "url": "https://open.spotify.com/track/09d92ol4KHLqTx0nu9vbxZ"
-    },
-    {
-      "added_at": "2024-02-16 05:01:00",
-      "album": {
-        "name": "Chistes Malos",
-        "url": "https://open.spotify.com/album/6wLViE7wlFKmKwDDL7Hqba"
-      },
-      "artists": [
-        {
-          "name": "Xavibo",
-          "url": "https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7"
-        },
-        {
-          "name": "Cardellino",
-          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
-        }
-      ],
-      "duration_ms": 171357,
-      "name": "Chistes Malos",
-      "url": "https://open.spotify.com/track/18u0LkneTkVliL6KU08bP9"
+      "duration_ms": 143265,
+      "name": "Que La Detengan",
+      "url": "https://open.spotify.com/track/26SAg6zRb3JpoyEXmcXxe0"
     },
     {
       "added_at": "2024-02-16 05:01:00",
@@ -775,6 +735,26 @@
     {
       "added_at": "2024-02-16 05:01:00",
       "album": {
+        "name": "Chistes Malos",
+        "url": "https://open.spotify.com/album/6wLViE7wlFKmKwDDL7Hqba"
+      },
+      "artists": [
+        {
+          "name": "Xavibo",
+          "url": "https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7"
+        },
+        {
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+        }
+      ],
+      "duration_ms": 171357,
+      "name": "Chistes Malos",
+      "url": "https://open.spotify.com/track/18u0LkneTkVliL6KU08bP9"
+    },
+    {
+      "added_at": "2024-02-16 05:01:00",
+      "album": {
         "name": "No Est\u00e1s",
         "url": "https://open.spotify.com/album/7gdZQEOFPSZUKj03hqPZnQ"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 181588,
       "name": "No Est\u00e1s",
       "url": "https://open.spotify.com/track/7j9eKuQVUAm4I878E3n2eA"
+    },
+    {
+      "added_at": "2024-02-16 05:01:00",
+      "album": {
+        "name": "La Mexicana",
+        "url": "https://open.spotify.com/album/5JBNbex1k3qqo57JwIZUTA"
+      },
+      "artists": [
+        {
+          "name": "Ramon Vega",
+          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
+        },
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        }
+      ],
+      "duration_ms": 149741,
+      "name": "La Mexicana",
+      "url": "https://open.spotify.com/track/09d92ol4KHLqTx0nu9vbxZ"
     },
     {
       "added_at": "2024-02-16 05:01:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-02-16 05:01:00",
       "album": {
-        "name": "quise quererte",
-        "url": "https://open.spotify.com/album/3iWWKOwiBVw2nDZmU0mCFp"
-      },
-      "artists": [
-        {
-          "name": "Joaquina",
-          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
-        }
-      ],
-      "duration_ms": 219786,
-      "name": "quise quererte",
-      "url": "https://open.spotify.com/track/6VE5ysTVC4BkeOrLWkud3N"
-    },
-    {
-      "added_at": "2024-02-16 05:01:00",
-      "album": {
         "name": "Pensando en Ti",
         "url": "https://open.spotify.com/album/0DsdrB2awxK94OuFpBl3cH"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 173206,
       "name": "Pensando en Ti",
       "url": "https://open.spotify.com/track/56oRryxhnnkwWbARsyBuaM"
+    },
+    {
+      "added_at": "2024-02-16 05:01:00",
+      "album": {
+        "name": "quise quererte",
+        "url": "https://open.spotify.com/album/3iWWKOwiBVw2nDZmU0mCFp"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "duration_ms": 219786,
+      "name": "quise quererte",
+      "url": "https://open.spotify.com/track/6VE5ysTVC4BkeOrLWkud3N"
     },
     {
       "added_at": "2024-02-16 05:01:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-02-16 05:01:00",
       "album": {
-        "name": "Argumentos",
-        "url": "https://open.spotify.com/album/7E6Cd1yNTMWHTvGTieyb7v"
-      },
-      "artists": [
-        {
-          "name": "Darho",
-          "url": "https://open.spotify.com/artist/3Vzymy9i8OqVAbiCbAXCWq"
-        }
-      ],
-      "duration_ms": 211844,
-      "name": "Argumentos",
-      "url": "https://open.spotify.com/track/3oyze75R0o1QvMJMdVK2K9"
-    },
-    {
-      "added_at": "2024-02-16 05:01:00",
-      "album": {
         "name": "el afortunado",
         "url": "https://open.spotify.com/album/2zrZBkIysHuJUkzYDQ9Lx2"
       },
@@ -947,6 +931,38 @@
       "duration_ms": 235451,
       "name": "COLIBR\u00cd",
       "url": "https://open.spotify.com/track/0mTeZ4upWbQrf66p3iAxkg"
+    },
+    {
+      "added_at": "2024-02-16 05:01:00",
+      "album": {
+        "name": "Argumentos",
+        "url": "https://open.spotify.com/album/7E6Cd1yNTMWHTvGTieyb7v"
+      },
+      "artists": [
+        {
+          "name": "Darho",
+          "url": "https://open.spotify.com/artist/3Vzymy9i8OqVAbiCbAXCWq"
+        }
+      ],
+      "duration_ms": 211844,
+      "name": "Argumentos",
+      "url": "https://open.spotify.com/track/3oyze75R0o1QvMJMdVK2K9"
+    },
+    {
+      "added_at": "2024-02-16 05:01:00",
+      "album": {
+        "name": "crush",
+        "url": "https://open.spotify.com/album/0Tqz0PyiUMHr2HIwvXmyKP"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 199877,
+      "name": "crush",
+      "url": "https://open.spotify.com/track/3njA65KM3YEF08hEBGpaTW"
     },
     {
       "added_at": "2024-02-16 05:01:00",
@@ -1003,22 +1019,6 @@
       "duration_ms": 175282,
       "name": "La Dosis",
       "url": "https://open.spotify.com/track/1whTkcaiWWR8HqWpgiN7XD"
-    },
-    {
-      "added_at": "2024-02-16 05:01:00",
-      "album": {
-        "name": "crush",
-        "url": "https://open.spotify.com/album/0Tqz0PyiUMHr2HIwvXmyKP"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 199877,
-      "name": "crush",
-      "url": "https://open.spotify.com/track/3njA65KM3YEF08hEBGpaTW"
     },
     {
       "added_at": "2024-02-16 05:01:00",

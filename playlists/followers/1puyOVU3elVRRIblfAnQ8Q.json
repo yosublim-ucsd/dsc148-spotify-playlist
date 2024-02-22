@@ -1,5 +1,5 @@
 {
-  "2024-02-21": 62790,
+  "2024-02-22": 62792,
   "date_first_scraped": "2023-11-08",
   "description": "DEADBEATS &amp; BROWNIES - Drum &amp; Bass compilation out now!  DEADBEATS ON TOUR NOW--&gt; <a href=\"http://www.deadbeatsofficial.com\">www.deadbeatsofficial.com</a>",
   "name": "Zeds Dead's Deadbeats",
@@ -764,6 +764,28 @@
     },
     {
       "album": {
+        "name": "Feel It",
+        "url": "https://open.spotify.com/album/5kGOAASVomzriytdsAT08e"
+      },
+      "artists": [
+        {
+          "name": "Sikdope",
+          "url": "https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG"
+        },
+        {
+          "name": "RayRay",
+          "url": "https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173538,
+      "name": "Feel It",
+      "url": "https://open.spotify.com/track/04LKP5NozL90CGOfjwxASX"
+    },
+    {
+      "album": {
         "name": "Feel This Way",
         "url": "https://open.spotify.com/album/196fDVj2YoME2w9185WRNb"
       },
@@ -881,6 +903,24 @@
       "duration_ms": 253714,
       "name": "Forest Catcher",
       "url": "https://open.spotify.com/track/7yRMwQAGpzLnAUEY6BAATi"
+    },
+    {
+      "album": {
+        "name": "NOTE KEEPERS AA",
+        "url": "https://open.spotify.com/album/6aB9UGE5JOmzBD28s4yfvy"
+      },
+      "artists": [
+        {
+          "name": "Goosey",
+          "url": "https://open.spotify.com/artist/76ICZ7nJdYo0EBLYLkH2Tn"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241889,
+      "name": "Freak Da Funk",
+      "url": "https://open.spotify.com/track/4jUgAf3OoD7TwUyaeSjIaY"
     },
     {
       "album": {

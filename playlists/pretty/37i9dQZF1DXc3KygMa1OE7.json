@@ -1,12 +1,12 @@
 {
   "description": "The most unforgettable love songs from the 80s.",
-  "num_followers": 2551906,
+  "num_followers": 2552079,
   "original_name": "80s Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNTU0MjBmYTIzZDg4YmVkM2EzYTU4NmFhODQ5Y2I4ZmFkZmNiN2I2",
+  "snapshot_id": "MCw4NTgzNDhlMjdhMDE5YTE5ZTQ0NGJlODA4NDU4MzlkY2U2NGI5MmY3",
   "tracks": [
     {
       "added_at": "2023-11-15 17:55:35",
@@ -863,6 +863,22 @@
     {
       "added_at": "2023-11-15 17:55:35",
       "album": {
+        "name": "Slippery When Wet",
+        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 288933,
+      "name": "Never Say Goodbye",
+      "url": "https://open.spotify.com/track/4AfsbRvvuN7nEHAhONdeEp"
+    },
+    {
+      "added_at": "2023-11-15 17:55:35",
+      "album": {
         "name": "We've Got Tonight",
         "url": "https://open.spotify.com/album/50Mjw5tM0p8GZYT2sGgzIa"
       },
@@ -883,18 +899,18 @@
     {
       "added_at": "2023-11-15 17:55:35",
       "album": {
-        "name": "Slippery When Wet",
-        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
+        "name": "Electric Youth",
+        "url": "https://open.spotify.com/album/5PnwSSRbLcCLpNMe2LFhOC"
       },
       "artists": [
         {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+          "name": "Debbie Gibson",
+          "url": "https://open.spotify.com/artist/18jZvCsW1PJ4FDQ5gEXuKp"
         }
       ],
-      "duration_ms": 288933,
-      "name": "Never Say Goodbye",
-      "url": "https://open.spotify.com/track/4AfsbRvvuN7nEHAhONdeEp"
+      "duration_ms": 215146,
+      "name": "Lost in Your Eyes",
+      "url": "https://open.spotify.com/track/6PMDILZiYo4YzMBbE0dGK9"
     },
     {
       "added_at": "2023-11-15 17:55:35",
@@ -911,22 +927,6 @@
       "duration_ms": 237106,
       "name": "Even the Nights Are Better",
       "url": "https://open.spotify.com/track/09bRmFRViBORKQ2miwp04P"
-    },
-    {
-      "added_at": "2023-11-15 17:55:35",
-      "album": {
-        "name": "Electric Youth",
-        "url": "https://open.spotify.com/album/5PnwSSRbLcCLpNMe2LFhOC"
-      },
-      "artists": [
-        {
-          "name": "Debbie Gibson",
-          "url": "https://open.spotify.com/artist/18jZvCsW1PJ4FDQ5gEXuKp"
-        }
-      ],
-      "duration_ms": 215146,
-      "name": "Lost in Your Eyes",
-      "url": "https://open.spotify.com/track/6PMDILZiYo4YzMBbE0dGK9"
     },
     {
       "added_at": "2023-11-15 17:55:35",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-11-15 17:55:35",
       "album": {
-        "name": "Lost in Love",
-        "url": "https://open.spotify.com/album/3fB2z5YtmKvSCu77Z3nTnW"
-      },
-      "artists": [
-        {
-          "name": "Air Supply",
-          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
-        }
-      ],
-      "duration_ms": 209600,
-      "name": "Every Woman in the World",
-      "url": "https://open.spotify.com/track/6OxnToSgslbtjJuNSKSdDQ"
-    },
-    {
-      "added_at": "2023-11-15 17:55:35",
-      "album": {
         "name": "Bad 25th Anniversary",
         "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 267733,
       "name": "Who's Holding Donna Now?",
       "url": "https://open.spotify.com/track/66rdGSb6FMm0neFXxmJdPQ"
+    },
+    {
+      "added_at": "2023-11-15 17:55:35",
+      "album": {
+        "name": "Lost in Love",
+        "url": "https://open.spotify.com/album/3fB2z5YtmKvSCu77Z3nTnW"
+      },
+      "artists": [
+        {
+          "name": "Air Supply",
+          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
+        }
+      ],
+      "duration_ms": 209600,
+      "name": "Every Woman in the World",
+      "url": "https://open.spotify.com/track/6OxnToSgslbtjJuNSKSdDQ"
     },
     {
       "added_at": "2023-11-15 17:55:35",

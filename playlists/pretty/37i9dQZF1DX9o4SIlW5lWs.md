@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9o4SIlW5lWs.md) - [plain]
 
 > Al corazón! Foto: Daniel Agostini.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,825 likes - 99 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,914 likes - 99 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,14 +20,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9o4SIlW5lWs.md) - [plain]
 | 10 | [Te Hubieras Ido Antes](https://open.spotify.com/track/2UxquTQq2PH2zHACCtgJ2d) | [Super Quinteto](https://open.spotify.com/artist/4ArkxyeBPg8alE9CcBf86X), [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq) | [Te Hubieras Ido Antes](https://open.spotify.com/album/7AgB035l0VvxVvBAblr4gq) | 5:23 |
 | 11 | [ADICTO](https://open.spotify.com/track/5gx39tUko6htjixWpIMqzM) | [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Antonio Rios](https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi) | [ADICTO](https://open.spotify.com/album/7m9VVSSHC7u07Oy8a7H8XZ) | 3:14 |
 | 12 | [Sin Valentín](https://open.spotify.com/track/4qjw6B9bJWb3jd0RInF1RY) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN), [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU) | [Sin Valentín](https://open.spotify.com/album/1ZPwG0m0QpSpsPKcmqAJdj) | 2:41 |
-| 13 | [Latidos](https://open.spotify.com/track/7exaYYNN99DHkbZuHOZWO3) | [Matías Valdez](https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID) | [Latidos](https://open.spotify.com/album/0t02JBE4R9bXj3VRXqxrLx) | 2:09 |
+| 13 | [Con Vos](https://open.spotify.com/track/2aEwfuFWFF7Va5fEccGs3x) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Flor Alvarez](https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa) | [Con Vos](https://open.spotify.com/album/4lN4nVXWJYtFecrKIflo7N) | 2:56 |
 | 14 | [A Chillar a Otra Parte](https://open.spotify.com/track/70WFn8PLvtppSHM3DUEj02) | [El Tecla](https://open.spotify.com/artist/6TY0JuXMcvhCLtHYBJ4iXH), [Huguito Flores el Super](https://open.spotify.com/artist/4Jiwh0RF8Cilfpe6JGvWlR) | [A Chillar a Otra Parte](https://open.spotify.com/album/0hG1L7X4lqnBQXlwISMP8l) | 3:41 |
 | 15 | [Mi Historia Entre Tus Dedos](https://open.spotify.com/track/3mrRVpo3r93hi6qdQm2bLw) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Mi Historia Entre Tus Dedos](https://open.spotify.com/album/1om4tN4zbd13XwYmFk6B7O) | 3:24 |
 | 16 | [Mentirosa](https://open.spotify.com/track/3Iw4UVS7fo2TdD6Spmgqaj) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Imparables](https://open.spotify.com/album/7jfg9E2mgCCUgeRAHRJuIG) | 3:14 |
 | 17 | [Maldita flor](https://open.spotify.com/track/72Oc0OIk1j0UfMkq9zV79L) | [Huguito Flores el Super](https://open.spotify.com/artist/4Jiwh0RF8Cilfpe6JGvWlR), [El Suppe'r De Oro](https://open.spotify.com/artist/5YcTv2UEkzSdBgDUlCHSya) | [Maldita Flor](https://open.spotify.com/album/02pZs137dI76WI0aNsHMz6) | 3:02 |
 | 18 | [Lo Que Me Duele / Y Que Pasó](https://open.spotify.com/track/7vL8ZEvLOXXW9SiL9ulZRZ) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Lo Que Me Duele / Y Que Pasó](https://open.spotify.com/album/3CtG7vSvFhZqFPryWeuZ0N) | 4:44 |
 | 19 | [Cartas de Verano](https://open.spotify.com/track/3uOEWxeR6DXatAYyO6PIUE) | [Super Quinteto](https://open.spotify.com/artist/4ArkxyeBPg8alE9CcBf86X) | [Cartas de Verano](https://open.spotify.com/album/6VjbHJWar0lhRJueKMi28A) | 4:24 |
-| 20 | [Con Vos](https://open.spotify.com/track/2aEwfuFWFF7Va5fEccGs3x) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Flor Alvarez](https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa) | [Con Vos](https://open.spotify.com/album/4lN4nVXWJYtFecrKIflo7N) | 2:56 |
+| 20 | [Latidos](https://open.spotify.com/track/7exaYYNN99DHkbZuHOZWO3) | [Matías Valdez](https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID) | [Latidos](https://open.spotify.com/album/0t02JBE4R9bXj3VRXqxrLx) | 2:09 |
 | 21 | [Me Equivoqué Otra Vez](https://open.spotify.com/track/2A4e9DgiXeal1EIJa4xAgk) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d), [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [Me Equivoqué Otra Vez](https://open.spotify.com/album/5s8s1HOQNJ1Fl9aDLkMQpy) | 2:55 |
 | 22 | [Díganle](https://open.spotify.com/track/7Gc9iCkANNOlw32jQCemjz) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Con la Misma Moneda](https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc) | 3:22 |
 | 23 | [ESAS LÁGRIMAS](https://open.spotify.com/track/62afBH32Rh04BXl7pwtr2r) | [Huguito Flores el Super](https://open.spotify.com/artist/4Jiwh0RF8Cilfpe6JGvWlR), [JOHANA RODRIGUEZ](https://open.spotify.com/artist/7tuofRUkaEJGOBu0FImMYw) | [ESAS LÁGRIMAS](https://open.spotify.com/album/7Gt2ZvYH5uGwnULjxYDOcf) | 3:48 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9o4SIlW5lWs.md) - [plain]
 | 51 | [Son de Amores](https://open.spotify.com/track/7hY45Nsy6op1yjmnEDVIRu) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Amor de Mentiras](https://open.spotify.com/album/2wtKU46kgyPUjDBUc5zIhh) | 2:51 |
 | 52 | [La Ventanita](https://open.spotify.com/track/2dfnK7rHRibkQR93iZn7Z2) | [Grupo Sombras](https://open.spotify.com/artist/2t5LZnlhZW4ctjLQE9qoae) | [Boquita de Caramelo](https://open.spotify.com/album/0zXEyFkwoxht6Bqd3SgnOm) | 4:03 |
 | 53 | [No Es Mi Despedida](https://open.spotify.com/track/5D5gQ5AB4Ih09bOstMMmKQ) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Los Más Grandes Exitos](https://open.spotify.com/album/5O2xqtPFhEp81GUIkKNV8Z) | 3:04 |
-| 54 | [Cinco Minutos](https://open.spotify.com/track/2mDq3mPvdpwE8zAXpRXE0b) | [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq) | [Montevideo 418](https://open.spotify.com/album/6MJnOjPMpFdInIEWItilLP) | 3:31 |
-| 55 | [Ella](https://open.spotify.com/track/6ZHydaYmmzJKeceEV5nmuS) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [Solo Para Entendidos](https://open.spotify.com/album/6v4EOAJlhIqTgl7vbRbUga) | 3:02 |
+| 54 | [Ella](https://open.spotify.com/track/6ZHydaYmmzJKeceEV5nmuS) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [Solo Para Entendidos](https://open.spotify.com/album/6v4EOAJlhIqTgl7vbRbUga) | 3:02 |
+| 55 | [Cinco Minutos](https://open.spotify.com/track/2mDq3mPvdpwE8zAXpRXE0b) | [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq) | [Montevideo 418](https://open.spotify.com/album/6MJnOjPMpFdInIEWItilLP) | 3:31 |
 | 56 | [Vienes y Te Vas \- En Vivo](https://open.spotify.com/track/6TjT0xHmKOq0ucSuh96SKa) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Inimitable](https://open.spotify.com/album/5EzSSOaUdXxqsf4iniszNU) | 4:14 |
 | 57 | [Muero por Tí](https://open.spotify.com/track/2d9l94V66SgMgvOu0DKdwl) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Muero por Ti](https://open.spotify.com/album/5HsMAwmKL4scPfwIiDEbNj) | 3:56 |
 | 58 | [Te Arrepentirás](https://open.spotify.com/track/2J2mlJCRpkPSURHZtFv5eU) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG) | [Sonidero Soy](https://open.spotify.com/album/0AbPq586w8qOeaSqN5ZOmX) | 3:30 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9o4SIlW5lWs.md) - [plain]
 | 98 | [Agüita](https://open.spotify.com/track/4AwjZri8DDFBQQnZZKeVBF) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Lo Mejor de Ráfaga](https://open.spotify.com/album/328Ys1TcAr9CNAHcy9jf9N) | 3:33 |
 | 99 | [Amor Pirata](https://open.spotify.com/track/7F15KCy88ObXpqnBrfJsbb) | [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA) | [Amor pirata](https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5) | 3:15 |
 
-Snapshot ID: `MCw0NWNjMDIwNDI4YTRlMWI3ZGI2M2MwNGNjZmFiMTRhMDQ3NjNjMjRj`
+Snapshot ID: `MCxiMDhkYjZjYzM5YjIzNzgzNjc2NjZhMGRiOGQ3YmNiZjhhYWZjMTQ3`

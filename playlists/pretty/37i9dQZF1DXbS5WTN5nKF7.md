@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS5WTN5nKF7.md) - [plain]
 
 > Le meilleur des hits ! Photo : iñigo quintero
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,904 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,067 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS5WTN5nKF7.md) - [plain]
 | 49 | [Tattoo](https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Tattoo](https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp) | 3:03 |
 | 50 | [Plus de place pour ta peine](https://open.spotify.com/track/5mKlpOIgCnIQpiTLsgXPUF) | [Eloïz](https://open.spotify.com/artist/1J7b2Snol73xTmYILnCk1t) | [Eloïz](https://open.spotify.com/album/4zZpibujGFVsI6foiaWJhj) | 2:32 |
 
-Snapshot ID: `MCw5ZTdkODIzODRjMWQxYzRhMWY3MmFhMzA4NGZkMDlhOTg5YWJjYWJh`
+Snapshot ID: `MCw4MWVmZTllNTE1MGRkY2JkYmI5NTFjNzBmYzdhYWY2YzlmZGU2ZGVj`

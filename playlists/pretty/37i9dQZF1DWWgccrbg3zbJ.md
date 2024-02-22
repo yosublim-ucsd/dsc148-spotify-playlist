@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgccrbg3zbJ.md) - [plain]
 
 > The classic recordings from Bossa Nova\. Cover: João Gilberto
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,206 likes - 65 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,662 likes - 65 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,11 +30,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgccrbg3zbJ.md) - [plain]
 | 20 | [Tarde em itapuã](https://open.spotify.com/track/1Qwzw8hbVa28uXYxHeamaT) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y), [Vinícius de Moraes](https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd), [Ophélie Gaillard](https://open.spotify.com/artist/2iV0Qpl8GsF2IDqFP9mwpj), [Romain Lécuyer](https://open.spotify.com/artist/6KQoMDHBskwa6F66N0vZSZ) | [Alvorada](https://open.spotify.com/album/0AAHmJXk4tvaE0e3jINJho) | 2:59 |
 | 21 | [Aos Pés da Cruz](https://open.spotify.com/track/1G3tT3xLodVLyZV7MQDXin) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Gilbertos Samba](https://open.spotify.com/album/4CzqCaWsFEzNWWugq0EfUV) | 3:15 |
 | 22 | [Gente Humilde](https://open.spotify.com/track/24OF9ihv97VwNXQZ2gGy8v) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Chico Buarque De Hollanda Nº4](https://open.spotify.com/album/3dbh9K8CNUq8BQcL0VxbZf) | 2:27 |
-| 23 | [Samba de Orfeu](https://open.spotify.com/track/0yO7Rg00ZJiMMb8pHiBojc) | [Luiz Bonfá](https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb), [Toots Thielemans](https://open.spotify.com/artist/0KyolDFb1RjJQb4qXZKCqo) | [The Brasil Project Vol\. II](https://open.spotify.com/album/5UjRL6iqsJX1kRbuqQ43U7) | 3:36 |
+| 23 | [Nova Bossa Nova](https://open.spotify.com/track/68K8VaazzURRjLf84yaOA3) | [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk) | [Nova Bossa Nova](https://open.spotify.com/album/7CgmxyKY28uY1Fgj01ZmMa) | 4:05 |
 | 24 | [Samba De Uma Nota Só](https://open.spotify.com/track/1CKhZVUyHhXKtN6Bo68xqq) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Inédito](https://open.spotify.com/album/2A8A15YTJJEXGUNAJRKMPW) | 3:00 |
 | 25 | [Desafinado](https://open.spotify.com/track/7dm2MG1cI9oo3kZgpjMLFz) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto Apresenta Chega de Saudade](https://open.spotify.com/album/6eEhHeu8VTc5WemfyfgLY8) | 1:58 |
 | 26 | [Saudade Vem Correndo](https://open.spotify.com/track/3QxAadrRx8aSEVd6Qzr8KF) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Luiz Bonfá](https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb), [Maria Toledo](https://open.spotify.com/artist/6snRLiVZyEVuH73LLGamvi) | [Jazz Samba Encore!](https://open.spotify.com/album/1JDkIxq4xRW7ySH89sGflc) | 3:39 |
-| 27 | [Nova Bossa Nova](https://open.spotify.com/track/68K8VaazzURRjLf84yaOA3) | [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk) | [Nova Bossa Nova](https://open.spotify.com/album/7CgmxyKY28uY1Fgj01ZmMa) | 4:05 |
+| 27 | [Samba de Orfeu](https://open.spotify.com/track/0yO7Rg00ZJiMMb8pHiBojc) | [Luiz Bonfá](https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb), [Toots Thielemans](https://open.spotify.com/artist/0KyolDFb1RjJQb4qXZKCqo) | [The Brasil Project Vol\. II](https://open.spotify.com/album/5UjRL6iqsJX1kRbuqQ43U7) | 3:36 |
 | 28 | [Fotografia](https://open.spotify.com/track/4O2tMlIxlgRwmNQDElwIq4) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Elis & Tom](https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS) | 2:49 |
 | 29 | [A Felicidade](https://open.spotify.com/track/28PORYgAQ5vrbwtobRlCoq) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [The Wonderful World Of Antonio Carlos Jobim](https://open.spotify.com/album/5TGwdCOJzrpqTEFu7Uojkn) | 2:04 |
 | 30 | [Este Seu Olhar](https://open.spotify.com/track/7ws9U1clOAmsZmc0LAQxFt) | [Nara Leão](https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3) | [Nara Dez Anos Depois](https://open.spotify.com/album/14vNVSBK4R5XpKUEUOTjvd) | 2:32 |
@@ -72,6 +72,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgccrbg3zbJ.md) - [plain]
 | 62 | [Sorriu Para Mim](https://open.spotify.com/track/06baiB3MQP3UaRJjAgd0LG) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Bossa Nova For Beginners](https://open.spotify.com/album/1pcnT4wosrH8uUmKZBtozX) | 3:08 |
 | 63 | [De Conversa Em Conversa](https://open.spotify.com/track/61hcUAElBx2rcOCoaldQNj) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Summer Samba! \- João Gilberto](https://open.spotify.com/album/4pUsMoa4fayB4dCGpNrVLc) | 2:16 |
 | 64 | [Rosa Morena](https://open.spotify.com/track/2lUwmS0xS6X1JelcbzWNFI) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto Apresenta Chega de Saudade](https://open.spotify.com/album/6eEhHeu8VTc5WemfyfgLY8) | 2:06 |
-| 65 | [Pra Que Discutir Com Madame? \- Live](https://open.spotify.com/track/66nRcgioGhlcdlhUhUWpND) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Summer Samba! \- João Gilberto](https://open.spotify.com/album/4pUsMoa4fayB4dCGpNrVLc) | 6:01 |
+| 65 | [Meditação \- Ultimate Mix](https://open.spotify.com/track/0mdesrM7UZZuDAu8RjBkMy) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [O Amor, O Sorriso e a Flor \(Ultimate Mix\)](https://open.spotify.com/album/31wFbkHhgPP1c8S3wYx7it) | 1:46 |
 
-Snapshot ID: `MCw0N2IwMjlhODQ1ZWVmNzEzYmM3NGUzYzM1Yjg3YTVjMGI1ZGMyZWJj`
+Snapshot ID: `MCxkYmQ1ZGMzNjY0ZDFkOGU4ZjIzODgxZmI2N2VkYmFhZjAzNDY0NjIw`

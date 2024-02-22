@@ -1,12 +1,12 @@
 {
   "description": "as novas de pop rock br / Foto: TINN",
-  "num_followers": 47756,
+  "num_followers": 47780,
   "original_name": "rockers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYzQzNWVlNjc5YTNkZGQ5YWYwY2RhNTQxZDE5OWYwNGUwY2NiMTYw",
+  "snapshot_id": "MCxkNzY2MjdhZTdjOGJjMGZlNDQwOWY3NzBkOTQ4ZGVhMTg5OTQ2ZmMw",
   "tracks": [
     {
       "added_at": "2024-01-26 17:06:16",
@@ -559,18 +559,22 @@
     {
       "added_at": "2024-01-26 17:06:16",
       "album": {
-        "name": "V\u00caNUS\u2260netuno",
-        "url": "https://open.spotify.com/album/5T2KhsmSyj6UvXehTNFLg8"
+        "name": "LADY LESTE (AO VIVO)",
+        "url": "https://open.spotify.com/album/3M76dR9f8pjvLVL31Xw28d"
       },
       "artists": [
         {
-          "name": "DAY LIMNS",
-          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        },
+        {
+          "name": "Pitty",
+          "url": "https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT"
         }
       ],
-      "duration_ms": 173322,
-      "name": "K\u00c1LICE",
-      "url": "https://open.spotify.com/track/2XaMdvOBES7VhroymOTQzg"
+      "duration_ms": 218096,
+      "name": "M\u00c1SCARA - AO VIVO",
+      "url": "https://open.spotify.com/track/5pXQo3mH6JWxa3HXN4VwLX"
     },
     {
       "added_at": "2024-01-26 17:06:16",
@@ -591,22 +595,18 @@
     {
       "added_at": "2024-01-26 17:06:16",
       "album": {
-        "name": "LADY LESTE (AO VIVO)",
-        "url": "https://open.spotify.com/album/3M76dR9f8pjvLVL31Xw28d"
+        "name": "V\u00caNUS\u2260netuno",
+        "url": "https://open.spotify.com/album/5T2KhsmSyj6UvXehTNFLg8"
       },
       "artists": [
         {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        },
-        {
-          "name": "Pitty",
-          "url": "https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT"
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
         }
       ],
-      "duration_ms": 218096,
-      "name": "M\u00c1SCARA - AO VIVO",
-      "url": "https://open.spotify.com/track/5pXQo3mH6JWxa3HXN4VwLX"
+      "duration_ms": 173322,
+      "name": "K\u00c1LICE",
+      "url": "https://open.spotify.com/track/2XaMdvOBES7VhroymOTQzg"
     },
     {
       "added_at": "2024-01-26 17:06:16",

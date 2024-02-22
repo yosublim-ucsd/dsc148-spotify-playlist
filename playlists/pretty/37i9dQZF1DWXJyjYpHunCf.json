@@ -1,12 +1,12 @@
 {
   "description": "The best of folk-infused pop and singer-songwriter. Cover: Myles Smith",
-  "num_followers": 892598,
+  "num_followers": 892763,
   "original_name": "Folk Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OGU3OGRhMmI4M2ZlOTFlOTk1NzdkNWQ4NDZkMWQyMTI5NzcxYzZk",
+  "snapshot_id": "MCw0OWQxMjFhM2U3NjYzNzRmMjYzZTk0MjliODFkYzg5NjFlOTVkOWQ5",
   "tracks": [
     {
       "added_at": "2024-02-16 05:00:00",
@@ -639,6 +639,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "Before You Leave Me",
+        "url": "https://open.spotify.com/album/5RFlSbyzgtiMtN7IzqLOhz"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 176178,
+      "name": "Before You Leave Me",
+      "url": "https://open.spotify.com/track/7qoxdajngC0j9VXrcnephA"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "Sonder (2023)",
         "url": "https://open.spotify.com/album/0uEpKcZU1hGooddCjct4j2"
       },
@@ -651,6 +667,22 @@
       "duration_ms": 198221,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/0B6hW0mGwtejHAWuJ0qMka"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Stick Season (We'll All Be Here Forever)",
+        "url": "https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 207880,
+      "name": "Your Needs, My Needs",
+      "url": "https://open.spotify.com/track/5S9hlmzNQwZuhynLfxZ8Lg"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -671,22 +703,6 @@
       "duration_ms": 191013,
       "name": "In A Perfect World (with Julia Michaels)",
       "url": "https://open.spotify.com/track/2ibGdhv3nTO89VN9KR7N2H"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Stick Season (We'll All Be Here Forever)",
-        "url": "https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 207880,
-      "name": "Your Needs, My Needs",
-      "url": "https://open.spotify.com/track/5S9hlmzNQwZuhynLfxZ8Lg"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -727,22 +743,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Before You Leave Me",
-        "url": "https://open.spotify.com/album/5RFlSbyzgtiMtN7IzqLOhz"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 176178,
-      "name": "Before You Leave Me",
-      "url": "https://open.spotify.com/track/7qoxdajngC0j9VXrcnephA"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Missing Piece",
         "url": "https://open.spotify.com/album/6zQCdokfVne8dFU5Z5BpS3"
       },
@@ -779,6 +779,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "My Home",
+        "url": "https://open.spotify.com/album/6PXZreuCbDw0VlSBrPJ1ND"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 206250,
+      "name": "My Home",
+      "url": "https://open.spotify.com/track/4ZEw5uS9RY6M6lEjsu7w8Q"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "III",
         "url": "https://open.spotify.com/album/0cGGGHvqwMD2J7bNz8TG3s"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 177880,
       "name": "Evangeline",
       "url": "https://open.spotify.com/track/3lGPy4laQ3s4lT1pRXKmFC"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "My Home",
-        "url": "https://open.spotify.com/album/6PXZreuCbDw0VlSBrPJ1ND"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 206250,
-      "name": "My Home",
-      "url": "https://open.spotify.com/track/4ZEw5uS9RY6M6lEjsu7w8Q"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -875,6 +875,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "Belong Together",
+        "url": "https://open.spotify.com/album/1RaDxuGnsIuuGR3lHukOPI"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "duration_ms": 148317,
+      "name": "Belong Together",
+      "url": "https://open.spotify.com/track/4JGtRHnWyaNq7FIOZoBdPe"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "London's Song",
         "url": "https://open.spotify.com/album/7znWNtOhMKIQiYUldh2Rmr"
       },
@@ -923,6 +939,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/2SLgmMY9hC8pM6qPwNRBWK"
+      },
+      "artists": [
+        {
+          "name": "Henrik",
+          "url": "https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC"
+        }
+      ],
+      "duration_ms": 200666,
+      "name": "Grace",
+      "url": "https://open.spotify.com/track/2LF1EjI7vMM37yRUzEWk8s"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "Unreal Unearth",
         "url": "https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx"
       },
@@ -939,18 +971,18 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Grace",
-        "url": "https://open.spotify.com/album/2SLgmMY9hC8pM6qPwNRBWK"
+        "name": "Perfect Portrait of Young Love",
+        "url": "https://open.spotify.com/album/3bdkQ8IbGwzvmOBAeRjbIm"
       },
       "artists": [
         {
-          "name": "Henrik",
-          "url": "https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC"
+          "name": "The 502s",
+          "url": "https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX"
         }
       ],
-      "duration_ms": 200666,
-      "name": "Grace",
-      "url": "https://open.spotify.com/track/2LF1EjI7vMM37yRUzEWk8s"
+      "duration_ms": 179000,
+      "name": "Perfect Portrait of Young Love",
+      "url": "https://open.spotify.com/track/5JR1l1O7OfqrTGrToo9Pwk"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1023,34 +1055,18 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Perfect Portrait of Young Love",
-        "url": "https://open.spotify.com/album/3bdkQ8IbGwzvmOBAeRjbIm"
+        "name": "Runaway",
+        "url": "https://open.spotify.com/album/6NPLTIUzyvIsn7r8cXycR9"
       },
       "artists": [
         {
-          "name": "The 502s",
-          "url": "https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX"
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
         }
       ],
-      "duration_ms": 179000,
-      "name": "Perfect Portrait of Young Love",
-      "url": "https://open.spotify.com/track/5JR1l1O7OfqrTGrToo9Pwk"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Belong Together",
-        "url": "https://open.spotify.com/album/1RaDxuGnsIuuGR3lHukOPI"
-      },
-      "artists": [
-        {
-          "name": "Mark Ambor",
-          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
-        }
-      ],
-      "duration_ms": 148317,
-      "name": "Belong Together",
-      "url": "https://open.spotify.com/track/4JGtRHnWyaNq7FIOZoBdPe"
+      "duration_ms": 272733,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/7HjU833ZEDExWGm6XkNbXI"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1071,22 +1087,6 @@
       "duration_ms": 230098,
       "name": "You and Me On The Rock (feat. Lucius)",
       "url": "https://open.spotify.com/track/61X73CJcpwGIxgQgKEXbw0"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Runaway",
-        "url": "https://open.spotify.com/album/6NPLTIUzyvIsn7r8cXycR9"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Alberts",
-          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
-        }
-      ],
-      "duration_ms": 272733,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/7HjU833ZEDExWGm6XkNbXI"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1243,26 +1243,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "We\u2019re All Gonna Die",
-        "url": "https://open.spotify.com/album/1uiwlKORLzoDvBsDiLdkm4"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        },
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 179202,
-      "name": "We\u2019re All Gonna Die (with Noah Kahan)",
-      "url": "https://open.spotify.com/track/2Eb2TKNAaE15Fqd4A3MFWU"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "People Don't Change",
         "url": "https://open.spotify.com/album/3MCI7K9Qj3lAMADbHP4EaQ"
       },
@@ -1283,6 +1263,26 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "We\u2019re All Gonna Die",
+        "url": "https://open.spotify.com/album/1uiwlKORLzoDvBsDiLdkm4"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        },
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 179202,
+      "name": "We\u2019re All Gonna Die (with Noah Kahan)",
+      "url": "https://open.spotify.com/track/2Eb2TKNAaE15Fqd4A3MFWU"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "drywall",
         "url": "https://open.spotify.com/album/2cbcM8spLBGvSIxsiOwIkz"
       },
@@ -1295,38 +1295,6 @@
       "duration_ms": 222739,
       "name": "drywall",
       "url": "https://open.spotify.com/track/49XjLtTAwwhC8tupC8E8wp"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Only Real When Shared",
-        "url": "https://open.spotify.com/album/17sBr3OmJz1lzH20ckwyIB"
-      },
-      "artists": [
-        {
-          "name": "Caiola",
-          "url": "https://open.spotify.com/artist/2wtnLqsyJndM1rASXsxltV"
-        }
-      ],
-      "duration_ms": 225378,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/58Jt8MKkvodjpQ4EQBXQ79"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "XOXO",
-        "url": "https://open.spotify.com/album/1SX20zgyjlyqjHSzOTmqxf"
-      },
-      "artists": [
-        {
-          "name": "Family and Friends",
-          "url": "https://open.spotify.com/artist/2AmW5LU0vqfHoN2qvghRFe"
-        }
-      ],
-      "duration_ms": 207519,
-      "name": "Amadeus",
-      "url": "https://open.spotify.com/track/4F9jpNQDKRFoyM4Ebpni6S"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1347,6 +1315,54 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "Only Real When Shared",
+        "url": "https://open.spotify.com/album/17sBr3OmJz1lzH20ckwyIB"
+      },
+      "artists": [
+        {
+          "name": "Caiola",
+          "url": "https://open.spotify.com/artist/2wtnLqsyJndM1rASXsxltV"
+        }
+      ],
+      "duration_ms": 225378,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/58Jt8MKkvodjpQ4EQBXQ79"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Your Town",
+        "url": "https://open.spotify.com/album/0V9MqMG3NmBdgsu6LHuSWb"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 306613,
+      "name": "Your Town",
+      "url": "https://open.spotify.com/track/5tnGGUknyB7ynd3PvFkOLu"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "XOXO",
+        "url": "https://open.spotify.com/album/1SX20zgyjlyqjHSzOTmqxf"
+      },
+      "artists": [
+        {
+          "name": "Family and Friends",
+          "url": "https://open.spotify.com/artist/2AmW5LU0vqfHoN2qvghRFe"
+        }
+      ],
+      "duration_ms": 207519,
+      "name": "Amadeus",
+      "url": "https://open.spotify.com/track/4F9jpNQDKRFoyM4Ebpni6S"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "Palomar Parade",
         "url": "https://open.spotify.com/album/10BcjSFPmPwUtHyqHfKkQh"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 215516,
       "name": "What I Do",
       "url": "https://open.spotify.com/track/27V9QAXyt9u9itQpS7A7lO"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/5QC8ECRS0aZK0Vpoo1AorE"
-      },
-      "artists": [
-        {
-          "name": "Will Swinton",
-          "url": "https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh"
-        }
-      ],
-      "duration_ms": 167865,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/3oCorEb2RJOrGlpRcUy3Bn"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/5QC8ECRS0aZK0Vpoo1AorE"
+      },
+      "artists": [
+        {
+          "name": "Will Swinton",
+          "url": "https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh"
+        }
+      ],
+      "duration_ms": 167865,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/3oCorEb2RJOrGlpRcUy3Bn"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "Celeste EP",
         "url": "https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 203309,
       "name": "Celeste",
       "url": "https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Lost & Found",
-        "url": "https://open.spotify.com/album/4DiQ4IeyIWXdexDkikRTRJ"
-      },
-      "artists": [
-        {
-          "name": "Darren Kiely",
-          "url": "https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9"
-        }
-      ],
-      "duration_ms": 249825,
-      "name": "Lost & Found",
-      "url": "https://open.spotify.com/track/2DjZwbUsZeLL7qzyej7K0V"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1475,18 +1475,18 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "in defense of my own happiness",
-        "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
+        "name": "Lost & Found",
+        "url": "https://open.spotify.com/album/4DiQ4IeyIWXdexDkikRTRJ"
       },
       "artists": [
         {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+          "name": "Darren Kiely",
+          "url": "https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9"
         }
       ],
-      "duration_ms": 241200,
-      "name": "jordan",
-      "url": "https://open.spotify.com/track/2BGyfq5k9xGO9019bUsYFk"
+      "duration_ms": 249825,
+      "name": "Lost & Found",
+      "url": "https://open.spotify.com/track/2DjZwbUsZeLL7qzyej7K0V"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1523,18 +1523,18 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Rearview",
-        "url": "https://open.spotify.com/album/5wVWj2Nwq93ucLX10IqFyV"
+        "name": "in defense of my own happiness",
+        "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
       },
       "artists": [
         {
-          "name": "Brenn!",
-          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 231724,
-      "name": "Rearview",
-      "url": "https://open.spotify.com/track/3iE4Jss20H7mJm1Zw8TAkN"
+      "duration_ms": 241200,
+      "name": "jordan",
+      "url": "https://open.spotify.com/track/2BGyfq5k9xGO9019bUsYFk"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "Rearview",
+        "url": "https://open.spotify.com/album/5wVWj2Nwq93ucLX10IqFyV"
+      },
+      "artists": [
+        {
+          "name": "Brenn!",
+          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
+        }
+      ],
+      "duration_ms": 231724,
+      "name": "Rearview",
+      "url": "https://open.spotify.com/track/3iE4Jss20H7mJm1Zw8TAkN"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "Yard Sale",
         "url": "https://open.spotify.com/album/3QtYZFAUnjY7M8FjpXvBFC"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 223240,
       "name": "Misnomer",
       "url": "https://open.spotify.com/track/0AXHqychsqAuL0ZNXI3kWq"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Mom & Dad",
-        "url": "https://open.spotify.com/album/0VfH1xz9pcm8RkjXN0INmn"
-      },
-      "artists": [
-        {
-          "name": "Darren Kiely",
-          "url": "https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9"
-        }
-      ],
-      "duration_ms": 203683,
-      "name": "Mom & Dad",
-      "url": "https://open.spotify.com/track/0wW8h0pLHZwNFv2v2e3KHw"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Your Town",
-        "url": "https://open.spotify.com/album/0V9MqMG3NmBdgsu6LHuSWb"
+        "name": "Pretty Picture, Dirty Brush",
+        "url": "https://open.spotify.com/album/6gRMw9HleQT2CGc7gIPPdj"
       },
       "artists": [
         {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+          "name": "The Harmaleighs",
+          "url": "https://open.spotify.com/artist/0JpiOyzO3e8FYCsDe8EaUN"
         }
       ],
-      "duration_ms": 306613,
-      "name": "Your Town",
-      "url": "https://open.spotify.com/track/5tnGGUknyB7ynd3PvFkOLu"
+      "duration_ms": 156360,
+      "name": "I Keep Ticking On",
+      "url": "https://open.spotify.com/track/1Etp6DlUsn2P5im8f7J9HP"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "Mom & Dad",
+        "url": "https://open.spotify.com/album/0VfH1xz9pcm8RkjXN0INmn"
+      },
+      "artists": [
+        {
+          "name": "Darren Kiely",
+          "url": "https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9"
+        }
+      ],
+      "duration_ms": 203683,
+      "name": "Mom & Dad",
+      "url": "https://open.spotify.com/track/0wW8h0pLHZwNFv2v2e3KHw"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "Waves",
         "url": "https://open.spotify.com/album/5ZO7Yhx5k8r4513DjUb0GO"
       },
@@ -1651,22 +1667,6 @@
       "duration_ms": 136378,
       "name": "Waves",
       "url": "https://open.spotify.com/track/5luLMIQajTbWm2Zz4EsO9D"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Pretty Picture, Dirty Brush",
-        "url": "https://open.spotify.com/album/6gRMw9HleQT2CGc7gIPPdj"
-      },
-      "artists": [
-        {
-          "name": "The Harmaleighs",
-          "url": "https://open.spotify.com/artist/0JpiOyzO3e8FYCsDe8EaUN"
-        }
-      ],
-      "duration_ms": 156360,
-      "name": "I Keep Ticking On",
-      "url": "https://open.spotify.com/track/1Etp6DlUsn2P5im8f7J9HP"
     },
     {
       "added_at": "2024-02-16 05:00:00",

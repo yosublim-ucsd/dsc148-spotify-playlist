@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0reIgs.md) - [plain]
 
 > This is Cynthia Luz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,320 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,326 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0reIgs.md) - [plain]
 | 31 | [O Troco \- Ao Vivo](https://open.spotify.com/track/44dzl8rVR1mMPccqsc0rdV) | [Thais Macedo](https://open.spotify.com/artist/6UwezAoo5IVh7Ned3j5eVP), [Dudu](https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [O Troco \(Ao Vivo\)](https://open.spotify.com/album/0qmayW0UP1sJLj6eX0g1EM) | 3:11 |
 | 32 | [Ela Tá Que Tá](https://open.spotify.com/track/3G79AJm9H5lKnngSgBT21L) | [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Felipe Flip](https://open.spotify.com/artist/233YXmma3OPL1trG1x3WpS), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Ela Tá Que Tá](https://open.spotify.com/album/26WTFLXc2Y8ps9P4QuLr27) | 3:26 |
 | 33 | [Eu Penso](https://open.spotify.com/track/2mdV9aef4MkBJ9Mmnilqa0) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Sol](https://open.spotify.com/album/2BAJGWOgcjDYz9b3tGPuNo) | 3:03 |
-| 34 | [Beira Mar](https://open.spotify.com/track/0WIcuCP4r3jBup7JRk7yRO) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Beira Mar](https://open.spotify.com/album/1cp33YxpxZBcnc8RpoHLYX) | 3:00 |
-| 35 | [Nosso Jeito](https://open.spotify.com/track/0JHcoeYllu3QHCtuCUrqYf) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Jailhouse](https://open.spotify.com/artist/6QuV7w29AgBJFHxKVzRyJY) | [Nosso Jeito](https://open.spotify.com/album/5HczXa5wbSx9VZ21cORK7B) | 3:10 |
+| 34 | [Nosso Jeito](https://open.spotify.com/track/0JHcoeYllu3QHCtuCUrqYf) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Jailhouse](https://open.spotify.com/artist/6QuV7w29AgBJFHxKVzRyJY) | [Nosso Jeito](https://open.spotify.com/album/5HczXa5wbSx9VZ21cORK7B) | 3:10 |
+| 35 | [Beira Mar](https://open.spotify.com/track/0WIcuCP4r3jBup7JRk7yRO) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Beira Mar](https://open.spotify.com/album/1cp33YxpxZBcnc8RpoHLYX) | 3:00 |
 | 36 | [O Que Você Faz](https://open.spotify.com/track/3HTyLPUwl9e2gUp6Ewgd7e) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [O Que Você Faz](https://open.spotify.com/album/3nVHkr0UYH2LIGvNzkazNd) | 3:01 |
 | 37 | [Alaska, Pt\. 2](https://open.spotify.com/track/4GX3rgGpnofCyMdLzILs09) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Teoria do Ciclo da Água](https://open.spotify.com/album/2G0mpuNuqGqCmwuZokY4x5) | 3:52 |
 | 38 | [Fé](https://open.spotify.com/track/2cAsgavVid3IoFYfiUgHzi) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm) | [Do Caos ao Nirvana](https://open.spotify.com/album/6N88vAiBfbbyjNm2JRgE43) | 3:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0reIgs.md) - [plain]
 | 49 | [Me Deixa](https://open.spotify.com/track/7nmPP9MYKOhDZa8eQP4pMY) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Me Deixa](https://open.spotify.com/album/1rnBqFFqGQz5rJn0sIGDPk) | 3:56 |
 | 50 | [A Cura Tá no Coração](https://open.spotify.com/track/35ZFS434PZDDofT9AXK62y) | [Gabriel O Pensador](https://open.spotify.com/artist/5BWqFYIPTnFx3OPWOoJvmD), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [A Cura Tá no Coração](https://open.spotify.com/album/2kbAHf5ae9v2LWfWup43QH) | 3:48 |
 
-Snapshot ID: `Mjg0NzQxMzEsMDAwMDAwMDBmNDEzMGRhOWYwZjVkZDJhMzc1OTdiYmZiZjhiYzhhOQ==`
+Snapshot ID: `Mjg0NzUyOTAsMDAwMDAwMDBkODU1MmJjNjA3NjE3MGNlYTMxZTQzZTFhYTk0NzhkNg==`

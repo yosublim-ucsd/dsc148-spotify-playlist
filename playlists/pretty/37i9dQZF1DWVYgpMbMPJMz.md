@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover:  <a href="spotify:artist:4leTWyczsXYGlzUh8sFGSz">Kim Walker\-Smith</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 981,468 likes - 89 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 981,576 likes - 89 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 88 | [Live Again](https://open.spotify.com/track/1K2dxpyTXiR5xcwo0ZrjBI) | [ONE HOUSE](https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn), [Kyle McHargh](https://open.spotify.com/artist/6pKGdTf8wPcOSzeNGN1Or3), [Roosevelt Stewart](https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk) | [Live Again](https://open.spotify.com/album/7N1EAGw0mr5jFoZ1acuPap) | 8:42 |
 | 89 | [Now To God \- Live](https://open.spotify.com/track/3VFfyjdeL14YNC6RgOWBhe) | [Stockholm Worship](https://open.spotify.com/artist/5BLAL4fBI3BB2ohYBPmCOH) | [Other Side](https://open.spotify.com/album/0wRQo1pAoe3b4mNdiQnbV4) | 4:46 |
 
-Snapshot ID: `MCwxYmE4NzY0NGRlMDU0MDI2NzMwODYyNmVmMTI2ODRmN2JiZmIyY2Fk`
+Snapshot ID: `MCwwZGIwNDYyYTE0Y2IyNmQ3NzY4MWU2MjkwZWE4YzdlNTNlODNkMGVj`

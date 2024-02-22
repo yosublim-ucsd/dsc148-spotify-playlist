@@ -4,7 +4,7 @@
 
 > Grab your dancing shoes and strut your stuff with these upbeat blues numbers.
 
-194 songs - 11 hr 15 min
+195 songs - 11 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [Get Right Before You Get Left](https://open.spotify.com/track/3C0kKoOwndJkF07oweozpz) | [Nick Moss Band](https://open.spotify.com/artist/6B3fdJhhhAVJ4RTrFAptMM), [Dennis Gruenling](https://open.spotify.com/artist/56M0TPfeix1WjBuylxkVeG) | [The High Cost Of Low Living](https://open.spotify.com/album/0ICEUWSi4yT9BpkjR0lo6N) | 3:51 | 2021-12-20 |  |
 | [Give Me Back My Wig \- Remastered](https://open.spotify.com/track/3kkCpDqhrOEBf0eOR2igEE) | [Hound Dog Taylor](https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4) | [Alligator Records 50 Years Of Genuine Houserockin' Music](https://open.spotify.com/album/30aecilbP86mA0dVdWcFp0) | 3:34 | 2021-12-20 |  |
 | [Golden Girl Blues](https://open.spotify.com/track/6Zrmhv80Oc3ASwhRtjXDPF) | [Trudy Lynn](https://open.spotify.com/artist/1fh5pVts7jbJuDSUwWLfAz) | [Golden Girl Blues](https://open.spotify.com/album/1iArO8gjyaE6y0MUW9H8QQ) | 5:07 | 2022-02-25 |  |
-| [Got My Mojo Working](https://open.spotify.com/track/65VzqBb5ogD2xIFD8jetMG) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [His Best 1956\-1964 \- The Chess 50th Anniversary Collection](https://open.spotify.com/album/21Lv19NsmMPpwUL58JCP57) | 2:53 | 2021-12-20 |  |
+| [Got My Mojo Working](https://open.spotify.com/track/18n0zch7bRo453Iwq98xYf) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Chess Box](https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB) | 2:52 | 2023-11-24 |  |
+| [Got My Mojo Working](https://open.spotify.com/track/65VzqBb5ogD2xIFD8jetMG) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [His Best 1956\-1964 \- The Chess 50th Anniversary Collection](https://open.spotify.com/album/21Lv19NsmMPpwUL58JCP57) | 2:53 | 2021-12-20 | 2024-02-22 |
 | [Hate To See You Go](https://open.spotify.com/track/5jthNmPnbVPiEcO8JGgRsZ) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Hate To See You Go](https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI) | 2:16 | 2021-12-20 |  |
 | [Hate to See You Go](https://open.spotify.com/track/57Paxn9MrW8d8FmFyndLKj) | [The Paul Butterfield Blues Band](https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i) | [The Original Lost Elektra Sessions](https://open.spotify.com/album/1cJp20pcnm5tM2eeBhIbMz) | 4:34 | 2023-08-18 |  |
 | [Heartbreaker](https://open.spotify.com/track/35j5tUnce6812hJBmwxXGV) | [Laura Evans](https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS) | [Heartbreaker](https://open.spotify.com/album/516Bv1lX91UTFGLIdpKYYt) | 3:50 | 2023-11-24 |  |

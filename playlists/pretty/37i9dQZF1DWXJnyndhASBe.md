@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Kukon
 
-[Spotify](https://open.spotify.com/user/spotify) - 497,117 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 497,264 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 2 | [NAPALONE FANKI](https://open.spotify.com/track/1am7ZCYTibeYENexigk6Gz) | [Eryk Moczko](https://open.spotify.com/artist/6BqCCSNavmsoUg5WLnQGhd), [MIÜ](https://open.spotify.com/artist/5NpwJ9XcZH35RxF2PUIqs2), [Bedoes 2115](https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74) | [NAPALONE FANKI](https://open.spotify.com/album/0bqOLnjMLRVAdiZXME4L92) | 3:07 |
 | 3 | [Plaster](https://open.spotify.com/track/6epWbDEEEOakzBeyNr69MO) | [Szpaku](https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99), [Deemz](https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt) | [CERBER EP](https://open.spotify.com/album/2s9Jf5Ir7sG2uFYzFWkxSU) | 2:35 |
 | 4 | [Vanitas](https://open.spotify.com/track/2stWwxi8C6L1TESgCw9ANY) | [Aleshen](https://open.spotify.com/artist/4lmMkf4tLyEKBslusiNZdu) | [Vanitas](https://open.spotify.com/album/6d7MSutLjG62hZLhhObdx9) | 3:36 |
-| 5 | [New York Freestyle](https://open.spotify.com/track/0Q0sBnoTWkeswHbvvpQyK6) | [Otsochodzi](https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB), [lohleq](https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF) | [New York Freestyle](https://open.spotify.com/album/4ZpDOqonkjeH4angMDZJFm) | 2:15 |
+| 5 | [New York Freestyle](https://open.spotify.com/track/0Q0sBnoTWkeswHbvvpQyK6) | [Otsochodzi](https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB), [lohleq](https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF), [Kusha](https://open.spotify.com/artist/2a3CjKMScCbYiM3XTay0zf), [Suwal](https://open.spotify.com/artist/5ySH1SGdybbpB07zl03goY) | [New York Freestyle](https://open.spotify.com/album/4ZpDOqonkjeH4angMDZJFm) | 2:15 |
 | 6 | [Drive](https://open.spotify.com/track/4kcMDgaU8xb4otoDv5c4kD) | [Gibbs](https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ), [Opał](https://open.spotify.com/artist/28WXX79U4jzq1kfjx5QXPy), [Jonatan](https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak), [4Money](https://open.spotify.com/artist/6EjCs0fSiq0HvAbCzIPeq1) | [SAFE](https://open.spotify.com/album/0dk2Dde2gYp7GrIzIC679c) | 3:22 |
 | 7 | [MOJA NATURA](https://open.spotify.com/track/0giDu2we8VeEyBeDHNrGMi) | [Asster](https://open.spotify.com/artist/5PJKbcbs3gm5tdePNo2eZX), [Young Igi](https://open.spotify.com/artist/1yq2JzsqbzFbJ1B7wGOXLc) | [ALL DAY FRESH](https://open.spotify.com/album/4W9ZoxLnbJkQvmwdD4Kxi3) | 2:34 |
 | 8 | [nie jestem romantyczny](https://open.spotify.com/track/3kUY4HIXepmVlxJ4vZGjlA) | [Zeamsone](https://open.spotify.com/artist/1FdfWn1DrRwWDtRK8faYKY) | [nie jestem romantyczny](https://open.spotify.com/album/0YOOJVUTl08owfwGLe7lHQ) | 2:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 49 | [Hammurabi](https://open.spotify.com/track/60uAqUA7Rkii40E5XCHy3k) | [Bonus RPK](https://open.spotify.com/artist/070tdNOiP3pIsGlqNfVkG3), [Czaha](https://open.spotify.com/artist/4QnVEkkzc4FkISFmri44MW) | [Hammurabi](https://open.spotify.com/album/1NZZlpCdFvP3bFTp8UuZRt) | 2:30 |
 | 50 | [HIPNOZA](https://open.spotify.com/track/3a4hbzdiwoXYVa0n9XRyDK) | [NIKOŚ](https://open.spotify.com/artist/3iRmsaD6hZKTJJABRJKlCX) | [HIPNOZA](https://open.spotify.com/album/3gOx3UcpK2HeJ9gHerhIKY) | 3:14 |
 
-Snapshot ID: `MCw3Y2I2NTVhYTQ4NzFjMTUwYTc0MjY2ZmIzYTM4ODA3YTZiMTI0MDUy`
+Snapshot ID: `MCw4MGNlYjc1OWIxOTlmZTlmOTAxMjNlNTI1M2Q0ZWVlOTg3N2I4NGM5`

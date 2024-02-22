@@ -4,7 +4,7 @@
 
 > Soft and cozy acoustic covers of famous songs.
 
-447 songs - 1 day 0 hr 12 min
+448 songs - 1 day 0 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Because the Night](https://open.spotify.com/track/53b0UGKJrMVpyq5yF3Uaru) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [Because the Night](https://open.spotify.com/album/3eFo0L4Dt442Fbl0F6S7zD) | 3:10 | 2023-10-27 |  |
 | [Before You Go \(Acoustic\)](https://open.spotify.com/track/0eJsowcx9g02cKPkohJ2fe) | [Ben Woodward](https://open.spotify.com/artist/142VT1MtWzaD13CnOiKFDn) | [Before You Go \(Acoustic\)](https://open.spotify.com/album/69SQohr3ZqG0Mx0qcTk0h3) | 3:33 | 2021-03-11 | 2022-07-29 |
 | [Before You Go \- Acoustic](https://open.spotify.com/track/3s5OWUD1uDxTKOvM7FNF8q) | [Ben Woodward](https://open.spotify.com/artist/142VT1MtWzaD13CnOiKFDn) | [Before You Go \(Acoustic\)](https://open.spotify.com/album/7xaCqATAVdhEEbXkJ5WSVn) | 3:33 | 2021-03-11 | 2023-10-28 |
+| [Behind Blue Eyes](https://open.spotify.com/track/4bjwOaC6YzQAnbSNaWTJ7a) | [Brassfield](https://open.spotify.com/artist/4VWdngsndsvJd348vi76I0) | [Behind Blue Eyes](https://open.spotify.com/album/7yHOE5W3lfTf3c2K8gorFm) | 2:44 | 2024-02-02 |  |
 | [Best Day Of My Life](https://open.spotify.com/track/1MtqOE9Uy6SZjPnBi1X7pQ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life](https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw) | 2:26 | 2022-11-11 | 2023-02-16 |
 | [Best Day Of My Life](https://open.spotify.com/track/6rUtMKEej81ORTGtCpjyOJ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day Of My Life](https://open.spotify.com/album/5eKyTl0Q430cufzTo8ibcX) | 2:26 | 2022-10-14 | 2023-10-28 |
 | [Best Part of Me \(feat\. YEBBA\)](https://open.spotify.com/track/0VsGaRXR5WAzpu51unJTis) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [No.6 Collaborations Project](https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx) | 4:03 | 2021-03-11 | 2022-11-26 |
@@ -373,7 +374,7 @@
 | [spark \- acoustic version](https://open.spotify.com/track/1Bf6t21wDuopvxEjEG0Axx) | [Lewis Watson](https://open.spotify.com/artist/40ELTAg7Kg6vbWnlyx2n9R) | [spark \(acoustic version\)](https://open.spotify.com/album/6i4Fr88uQpqbLsbhP0i2bo) | 3:35 | 2022-10-26 | 2022-11-14 |
 | [spark \- Acoustic Version](https://open.spotify.com/track/3t9VNPLPtOSHhdDdTx7VFM) | [Lewis Watson](https://open.spotify.com/artist/40ELTAg7Kg6vbWnlyx2n9R) | [the love that you want \(Acoustic\)](https://open.spotify.com/album/14hXoTfUY2iXfr65WvMWou) | 3:35 | 2022-08-31 | 2022-11-26 |
 | [spark \- acoustic version](https://open.spotify.com/track/5JEvRUqLBetsMC12nAKlen) | [Lewis Watson](https://open.spotify.com/artist/40ELTAg7Kg6vbWnlyx2n9R) | [spark \(acoustic version\)](https://open.spotify.com/album/2t9kgL9bskHkLAR3wESeeF) | 3:35 | 2021-03-11 | 2022-07-29 |
-| [Sparks](https://open.spotify.com/track/5OKWAL4qNRUz28CBWEU411) | [Roberta Loki](https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB) | [Sparks](https://open.spotify.com/album/1qORB1Q8h63lnKR7Jsv8Cx) | 4:16 | 2023-02-17 |  |
+| [Sparks](https://open.spotify.com/track/5OKWAL4qNRUz28CBWEU411) | [Roberta Loki](https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB) | [Sparks](https://open.spotify.com/album/1qORB1Q8h63lnKR7Jsv8Cx) | 4:16 | 2023-02-17 | 2024-02-22 |
 | [Stack It Up \- Acoustic](https://open.spotify.com/track/26pc0rVJ8Ca8N03RDxT0rp) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6) | [Stack It Up \(Acoustic\)](https://open.spotify.com/album/1Y46HfQXfRfi4hSt91WQFE) | 2:42 | 2021-03-11 | 2023-10-28 |
 | [STAY](https://open.spotify.com/track/1ejniTp6tQF5xULkomIwrj) | [Isaac Hale](https://open.spotify.com/artist/6Rsd9PL48rBbTSgG75Yjy4) | [STAY](https://open.spotify.com/album/1sNm6M8h7Rx5vPVcoQzgDG) | 2:12 | 2022-12-02 |  |
 | [STAY](https://open.spotify.com/track/47HAVYDQN5gH38pf9R8VpJ) | [Mel & Macy](https://open.spotify.com/artist/332dMuxyefYaTqoo3k7oVk) | [STAY](https://open.spotify.com/album/1Vxqds6fwlew2NKKge1lgn) | 2:34 | 2022-08-31 | 2022-12-02 |

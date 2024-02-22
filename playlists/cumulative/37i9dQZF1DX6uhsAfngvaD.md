@@ -4,7 +4,7 @@
 
 > Blissful indie for dreamers.
 
-385 songs - 1 day 0 hr 20 min
+387 songs - 1 day 0 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [Driving in My Car](https://open.spotify.com/track/4NcWigh0uMXPKxCdesQWxG) | [George Clanton](https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr), [Nick Hexum](https://open.spotify.com/artist/0lXQieFzHiPaeimBBGqAXY) | [George Clanton and Nick Hexum](https://open.spotify.com/album/714XLbWXbM8C6sfaYALRG7) | 3:37 | 2020-08-09 | 2023-09-22 |
 | [Drown](https://open.spotify.com/track/3bGmob8nw4PPfOQTwIirIS) | [Geowulf](https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ) | [Drown](https://open.spotify.com/album/5yoQ1d6TathCxE8EJzG3dW) | 4:04 | 2022-04-01 | 2022-08-26 |
 | [Drown](https://open.spotify.com/track/7zOrpg7SHJHRgb9GJqtBLM) | [Geowulf](https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ) | [Drown](https://open.spotify.com/album/5FXYJNs1vmtLOb6BibHjJP) | 4:04 | 2022-07-06 | 2023-03-13 |
-| [Drown](https://open.spotify.com/track/61eG7WlDZhRKJKMLPsCtWY) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Waves](https://open.spotify.com/album/1XTjLKNxV3JG6TjZLhk3aX) | 3:10 | 2022-07-06 |  |
+| [Drown](https://open.spotify.com/track/61eG7WlDZhRKJKMLPsCtWY) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Waves](https://open.spotify.com/album/1XTjLKNxV3JG6TjZLhk3aX) | 3:10 | 2022-07-06 | 2024-02-22 |
 | [Drown](https://open.spotify.com/track/7EUcNIHj2eWmpGNJF5u0Vh) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Waves](https://open.spotify.com/album/3fsuoXmdJU3QLMNVucfQNE) | 3:10 | 2021-03-26 | 2022-10-14 |
 | [Du pouvoir/Power](https://open.spotify.com/track/2Y0xdEsWhfDAsvtMzFqJ73) | [Halo Maud](https://open.spotify.com/artist/6PXvOmtayxXQNE9stTpRMs) | [Du pouvoir](https://open.spotify.com/album/5otAnfZLjI3n5zsx8eOPKY) | 3:20 | 2019-11-19\* | 2020-08-09 |
 | [Dumb](https://open.spotify.com/track/6kCQsjFV3SubIrNTDkGrdr) | [George Clanton](https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr) | [Dumb](https://open.spotify.com/album/0N42Coxg2wBuzP1LyB2mkq) | 3:21 | 2019-11-19\* | 2020-08-09 |
@@ -158,6 +158,7 @@
 | [How Can I Love? \(When I Can't Get Away From You\)](https://open.spotify.com/track/4g0ElvVfW24EHPdfWo2I8w) | [fika](https://open.spotify.com/artist/4nJPiUgLhO1HcK13jBkAqX), [Bambie](https://open.spotify.com/artist/2K2zheLCDXiIK9j83oWNxv) | [How Can I Love? \(When I Can't Get Away From You\)](https://open.spotify.com/album/6ya53tyYpsLogdzeCJdTsL) | 2:59 | 2022-07-06 | 2023-01-09 |
 | [How Can I Love? \- When I Can't Get Away from You](https://open.spotify.com/track/521d9sMAWCvOwsxKUtdZg3) | [fika](https://open.spotify.com/artist/4nJPiUgLhO1HcK13jBkAqX), [Bambie](https://open.spotify.com/artist/2K2zheLCDXiIK9j83oWNxv) | [How Can I Love? \(When I Can't Get Away from You\)](https://open.spotify.com/album/47dm9IPB8nas3cTzwLZu0q) | 2:59 | 2021-09-23 | 2022-07-29 |
 | [how do you feel](https://open.spotify.com/track/3BMcTB54pN4oZlIIPNxcy1) | [strawbey](https://open.spotify.com/artist/3Ecd4KEdZpKTW8gi3HOmeX) | [play pretend](https://open.spotify.com/album/47wxXFDjvNfaGnMPaxBjT4) | 4:57 | 2020-10-08 | 2022-07-29 |
+| [How Many Love Songs Have Died In Vegas?](https://open.spotify.com/track/6ldiSdfgx96IQvUm2XOobi) | [Swim Deep](https://open.spotify.com/artist/2XddLUPFBmTonCFy8uB3uc) | [How Many Love Songs Have Died In Vegas?](https://open.spotify.com/album/3ctaMoubphJD5IVfNfsb1V) | 3:53 | 2024-02-21 |  |
 | [Hyper\-normal](https://open.spotify.com/track/137bcY3t0tco8OqzumsF4z) | [GRAZER](https://open.spotify.com/artist/66npZ0iLHcWmV2DAC8oYRF) | [Hyper\-normal](https://open.spotify.com/album/3mQjXEpNYf3kXHXhRQt9YG) | 3:15 | 2021-12-05 | 2023-12-10 |
 | [I Don't Live Here Anymore \(feat\. Lucius\)](https://open.spotify.com/track/3h2CkNuAKSxZXWGElwcOvH) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU), [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [I Don't Live Here Anymore \(feat\. Lucius\)](https://open.spotify.com/album/3TlKOq7pgN2XIAM3J2HSyD) | 5:27 | 2021-10-09 | 2022-10-07 |
 | [I Don't Live Here Anymore \(feat\. Lucius\)](https://open.spotify.com/track/5Uou8idst1XJc0F6MRAk5S) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU), [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [I Don’t Live Here Anymore](https://open.spotify.com/album/69jQsPvJzMvcb2fGqI2qaB) | 5:27 | 2022-07-06 |  |
@@ -235,7 +236,7 @@
 | [Notice Me](https://open.spotify.com/track/0QvmhbIf4rbeRx4DzAbIce) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [Notice Me](https://open.spotify.com/album/1kOhuN7E5bWjkfUUu1BDID) | 2:32 | 2023-03-24 | 2023-06-18 |
 | [Now It's Gone](https://open.spotify.com/track/55RPfUUmsyU2Yjx8k4qzp9) | [Maria BC](https://open.spotify.com/artist/1GRdVyqsikMsJrvHskjwry) | [Now It's Gone](https://open.spotify.com/album/2bH4nIurTWpCkA9vYUwBRr) | 4:05 | 2021-08-01 | 2022-11-29 |
 | [number own](https://open.spotify.com/track/4RX4JxC2GZShiS8sqCRRuF) | [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk) | [number own](https://open.spotify.com/album/5dgEKrKHdm5NzdjbjRSQ7c) | 2:39 | 2023-03-24 |  |
-| [obliterate me](https://open.spotify.com/track/7qRMiZxKOdihhkdlJthqxP) | [ellis](https://open.spotify.com/artist/7EQmY1hAAeuJLa0GUNpKNN) | [obliterate me](https://open.spotify.com/album/19oywMyEwcitk495lSqOyM) | 3:53 | 2024-01-26 |  |
+| [obliterate me](https://open.spotify.com/track/7qRMiZxKOdihhkdlJthqxP) | [ellis](https://open.spotify.com/artist/7EQmY1hAAeuJLa0GUNpKNN) | [obliterate me](https://open.spotify.com/album/19oywMyEwcitk495lSqOyM) | 3:53 | 2024-01-26 | 2024-02-22 |
 | [Ocho Domingos](https://open.spotify.com/track/4Z3kYIFtzf69vXdRDGTLfP) | [Menta](https://open.spotify.com/artist/6LlGOJmoJ97bhGx3UX2URn) | [não não](https://open.spotify.com/album/1YGOwQRrbTILIXICx0KiGz) | 2:34 | 2021-04-30 | 2022-04-18 |
 | [Ohio Blue Tips](https://open.spotify.com/track/3cKzdHoTN1g39ktjm3twCF) | [Terry vs\. Tori](https://open.spotify.com/artist/1UAyQNs2HANU7mGGqtXzJv) | [Heathers](https://open.spotify.com/album/219YBWjZumk7SNvu9Rk86K) | 3:14 | 2020-11-06 | 2022-11-18 |
 | [Old Canvas](https://open.spotify.com/track/5JREM5ZdkL20Yeiv71nssh) | [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Old Canvas](https://open.spotify.com/album/6ITW1wLstKHkOUMin1G3ew) | 4:30 | 2021-07-19 | 2022-07-29 |
@@ -381,6 +382,7 @@
 | [Won't You Be Happy](https://open.spotify.com/track/15TTCCmsbOxKeb9QGr0At7) | [Eaves Wilder](https://open.spotify.com/artist/41NfVLegTOApdhejdXt4jQ) | [Won't You Be Happy](https://open.spotify.com/album/4Ucjnk2Zmlq0c3Atp4lChH) | 3:53 | 2020-08-09 | 2022-06-25 |
 | [Woo](https://open.spotify.com/track/6kvJuHxn3BrRhFxLrBEt8c) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [7](https://open.spotify.com/album/4qftBBO7pnYlek3mRENIvM) | 4:14 | 2020-12-22 | 2021-02-26 |
 | [Wrong At Last](https://open.spotify.com/track/3bseWERc5aydzlM6B9o7bp) | [Melpo Mene](https://open.spotify.com/artist/6Ur5BsJW8sUICtONqIqfwj) | [Wrong At Last](https://open.spotify.com/album/2Ss6Lv2PF0RvhdfJE2PGzC) | 3:28 | 2021-03-29 | 2022-06-19 |
+| [Wry](https://open.spotify.com/track/4xwjpqfk8mHL36w1lsGcl2) | [Keep Shelly In Athens](https://open.spotify.com/artist/15cJEqQvfVczJK2DVdY6DV) | [Wry](https://open.spotify.com/album/0CnWFjySZ8PqIo5S5OD7qC) | 3:00 | 2024-02-21 |  |
 | [YKWIM?](https://open.spotify.com/track/2vWBUC9djv6BtiGlmKiQaH) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Bipolar](https://open.spotify.com/album/60jUlxAOAcsiQUEW0XLroT) | 3:32 | 2022-07-06 |  |
 | [YKWIM?](https://open.spotify.com/track/7ejeQLLLGjVriLS7cojERB) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Bipolar](https://open.spotify.com/album/7bbDmub6x679LEFy8eZj5w) | 3:32 | 2021-03-26 | 2022-06-14 |
 | [You and Me](https://open.spotify.com/track/4KE91Xg3FL51yMhnpSqRvE) | [Nature TV](https://open.spotify.com/artist/43oBGBlKaDxrti8m7QiQrC), [Nice Guys](https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN) | [You and Me](https://open.spotify.com/album/4WmQIWuFrxPQc7Ae3LKDUQ) | 3:45 | 2021-02-26 | 2024-02-09 |

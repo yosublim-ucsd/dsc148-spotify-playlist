@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDtaPlsmvZ7.md) - [plain]
 
 > A mover el cucu con estas cadenciosas versiones cumbiatizadas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,098 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,113 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDtaPlsmvZ7.md) - [plain]
 | 34 | [El Color de Tus Ojos](https://open.spotify.com/track/7nmV1InGzooNuPx6iSPwHz) | [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1) | [El Color de Tus Ojos](https://open.spotify.com/album/4nL0XYZSkhZZaFQvNvxbMO) | 2:36 |
 | 35 | [Traicionero](https://open.spotify.com/track/7dAO2xy0K5tUqax8LthAml) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24), [Media Naranja](https://open.spotify.com/artist/1CPCudqABxMYzF2PFEfQme) | [Traicionero](https://open.spotify.com/album/1HspaBXnlgh97QO7eIBqpD) | 3:24 |
 | 36 | [Yo Te Pido Amor](https://open.spotify.com/track/4dbQHs5xcUXdA2ZOF2Cf8M) | [Aaron Y Su Grupo Ilusion](https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ) | [Un Poco Locos \(Edición De Lujo\)](https://open.spotify.com/album/7e5WnX4OclEABi7QJfLj7v) | 3:29 |
-| 37 | [Lo Siento](https://open.spotify.com/track/3Aa0e22YhtYdeZEch2RyET) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS), [La Sonora Master](https://open.spotify.com/artist/34ncxwjKmuXtfWo8wh91sL) | [Lo Siento](https://open.spotify.com/album/6N4GEhdNmY6Ip86tL02MDW) | 3:19 |
-| 38 | [Insoportablemente Bella](https://open.spotify.com/track/3T70Y5JdAJV5iFh1NGuXhu) | [Rayito Colombiano](https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn) | [Insoportablemente Bella](https://open.spotify.com/album/1gRdM69SCvqFqtYRbWOQi6) | 4:09 |
+| 37 | [Insoportablemente Bella](https://open.spotify.com/track/3T70Y5JdAJV5iFh1NGuXhu) | [Rayito Colombiano](https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn) | [Insoportablemente Bella](https://open.spotify.com/album/1gRdM69SCvqFqtYRbWOQi6) | 4:09 |
+| 38 | [Lo Siento](https://open.spotify.com/track/3Aa0e22YhtYdeZEch2RyET) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS), [La Sonora Master](https://open.spotify.com/artist/34ncxwjKmuXtfWo8wh91sL) | [Lo Siento](https://open.spotify.com/album/6N4GEhdNmY6Ip86tL02MDW) | 3:19 |
 | 39 | [Hotline Bling](https://open.spotify.com/track/6q3HqeduJaaZvoGkxcJEOb) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Los Miticos Del Ritmo](https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu) | [Hotline Bling](https://open.spotify.com/album/3wIfrWCteaifdw84a9ckUi) | 3:23 |
 | 40 | [Juntos a la Par](https://open.spotify.com/track/259PHSfv5ayeRJNvIjoDr5) | [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T), [Natalia Corbalán](https://open.spotify.com/artist/1WI154Z6NR5a5g8FTNtd4q) | [Juntos a la Par](https://open.spotify.com/album/5BGFvYVx8rdJSAREh6jNCs) | 2:26 |
 | 41 | [Los Caminos de la Vida](https://open.spotify.com/track/7HfBfu8aVH5mz03JPMPpHF) | [Alexander Acha](https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh), [Dulce María](https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL) | [Los Caminos de la Vida](https://open.spotify.com/album/4AOwRkeJSIowptYmRnE3RT) | 3:41 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDtaPlsmvZ7.md) - [plain]
 | 69 | [¿Por Qué Te Vas?](https://open.spotify.com/track/5MyvrPjiTEq8KgJWFfzT9y) | [Elidian](https://open.spotify.com/artist/1cmdGf7H8WvP2EImi02Vz4) | [¿Por qué Te Vas?](https://open.spotify.com/album/7IjO1vAxpTqnlKmzDcb01o) | 3:35 |
 | 70 | [Puntos Suspensivos](https://open.spotify.com/track/2ySUUTXVJkPqOfN2jmPeAW) | [Latam Sonora](https://open.spotify.com/artist/4AxOu00BxKnsEKsDf4lfpa) | [Puntos Suspensivos](https://open.spotify.com/album/0QyB4CmC5FdWCtdJiZ9h3K) | 2:50 |
 | 71 | [Felices Los 4 \- Version Cumbia](https://open.spotify.com/track/70VKTITzq3LkUUMmWFrZ8l) | [Alex Dover](https://open.spotify.com/artist/1mZ4z5FjhzO1nEVCsl3wUz), [Chule](https://open.spotify.com/artist/09QoQi6E7GP5AePICzRcZe) | [Felices Los 4 \(Version Cumbia\)](https://open.spotify.com/album/735ID4Ax2DldOpClH686PW) | 2:48 |
-| 72 | [Procura](https://open.spotify.com/track/4EhJSTlHXyP5dbz1CaZZmU) | [Cristian Jacobo](https://open.spotify.com/artist/02HnByHOPN5e2RXNHZ9HhW) | [Procura](https://open.spotify.com/album/0M0rRbZMiMlwEyXn06zJPy) | 4:32 |
-| 73 | [Ya No Tiene Novio \- Version Cumbia](https://open.spotify.com/track/2akbizyZrFqGzUZzSUQiVq) | [Otto Bunge](https://open.spotify.com/artist/52B23cu0u8HfuhNLQIhtZn), [Cande Grau](https://open.spotify.com/artist/6HxOHuLKJXWfA1txQu0A1o), [Agu Cartier](https://open.spotify.com/artist/4fqtP4zl3FiAwzrmPUInbW) | [Ya No Tiene Novio \(Version Cumbia\)](https://open.spotify.com/album/6Ke6vYnNX8xsOHiLKl9m77) | 3:00 |
-| 74 | [Clavado en un Bar](https://open.spotify.com/track/41OhLBVZ1vhQSbw7WDfcAq) | [El Combo Loco](https://open.spotify.com/artist/1xWqDlS9XUQQlKzbm4dWEn) | [El Combo Loco](https://open.spotify.com/album/37AK87c1LWBvaSNoBI0jNO) | 3:21 |
-| 75 | [Bidi Bidi Bom Bom](https://open.spotify.com/track/5rb3whySuw8zcp0HtUVeEO) | [Musicalísimo Fuego Indio](https://open.spotify.com/artist/0rH58cEKLQvObKk2mR7rZN) | [Retro Con](https://open.spotify.com/album/3lbfNpHzH7PMTgmwYJpwHt) | 3:25 |
+| 72 | [Ya No Tiene Novio \- Version Cumbia](https://open.spotify.com/track/2akbizyZrFqGzUZzSUQiVq) | [Otto Bunge](https://open.spotify.com/artist/52B23cu0u8HfuhNLQIhtZn), [Cande Grau](https://open.spotify.com/artist/6HxOHuLKJXWfA1txQu0A1o), [Agu Cartier](https://open.spotify.com/artist/4fqtP4zl3FiAwzrmPUInbW) | [Ya No Tiene Novio \(Version Cumbia\)](https://open.spotify.com/album/6Ke6vYnNX8xsOHiLKl9m77) | 3:00 |
+| 73 | [Procura](https://open.spotify.com/track/4EhJSTlHXyP5dbz1CaZZmU) | [Cristian Jacobo](https://open.spotify.com/artist/02HnByHOPN5e2RXNHZ9HhW) | [Procura](https://open.spotify.com/album/0M0rRbZMiMlwEyXn06zJPy) | 4:32 |
+| 74 | [Bidi Bidi Bom Bom](https://open.spotify.com/track/5rb3whySuw8zcp0HtUVeEO) | [Musicalísimo Fuego Indio](https://open.spotify.com/artist/0rH58cEKLQvObKk2mR7rZN) | [Retro Con](https://open.spotify.com/album/3lbfNpHzH7PMTgmwYJpwHt) | 3:25 |
+| 75 | [Clavado en un Bar](https://open.spotify.com/track/41OhLBVZ1vhQSbw7WDfcAq) | [El Combo Loco](https://open.spotify.com/artist/1xWqDlS9XUQQlKzbm4dWEn) | [El Combo Loco](https://open.spotify.com/album/37AK87c1LWBvaSNoBI0jNO) | 3:21 |
 
-Snapshot ID: `MCwxYTNjOGE3MzAzMzc0NWJjYzE1MDgzYWI1NmM1OTVlODAxMjM4NTZh`
+Snapshot ID: `MCw4MjA2MDg2YjBlZjg1MjBlZWIxYzQ4MDBkZWQwMWZjODZjZmJhM2Ey`

@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,567 songs - 4 day 11 hr 52 min
+1,568 songs - 4 day 11 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -999,7 +999,7 @@
 | [Not Going Home](https://open.spotify.com/track/7C7GwLFoDQztNFElOFHjc3) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [CMC$](https://open.spotify.com/artist/78DWNk8gFHU30TGITAgbM7), [Gia Koka](https://open.spotify.com/artist/71WExccCBN2mw0klSzfYzz) | [Beautiful Disaster](https://open.spotify.com/album/3zwDMdI7ZaNBMV5GouGTJG) | 3:14 | 2020-05-18 | 2020-07-03 |
 | [Nothing But You](https://open.spotify.com/track/49X1d9QKZKU2WFBtm4GUzN) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Battle Lines](https://open.spotify.com/album/42aWQU8pO4KLq2aNwidEZS) | 3:39 | 2020-03-20 | 2020-10-09 |
 | [Nothing But You \(feat\. Donnie Sloan & Ricky Ducati\)](https://open.spotify.com/track/5rFPaZ5DpO3t7Z9JppR9hM) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [Donnie Sloan](https://open.spotify.com/artist/4t95822Jv53tQJK2iS4dKt), [Ricky Ducati](https://open.spotify.com/artist/66OCo8OcuPNrW6QLfmn7PE) | [Nothing But You \(feat\. Donnie Sloan & Ricky Ducati\)](https://open.spotify.com/album/7ulMDKBaFYF11sytYHkB6A) | 4:31 | 2020-03-16 | 2020-10-09 |
-| [Nothing To Lose \(feat\. Circa Waves\)](https://open.spotify.com/track/4iU0r23eZnO9uOQ0y0xJ7F) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Nothing To Lose \(feat\. Circa Waves\)](https://open.spotify.com/album/25b7zCdvfIzaKupV2GRPvw) | 4:18 | 2024-01-19 |  |
+| [Nothing To Lose \(feat\. Circa Waves\)](https://open.spotify.com/track/4iU0r23eZnO9uOQ0y0xJ7F) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Nothing To Lose \(feat\. Circa Waves\)](https://open.spotify.com/album/25b7zCdvfIzaKupV2GRPvw) | 4:18 | 2024-01-19 | 2024-02-22 |
 | [Now You Know](https://open.spotify.com/track/3uv74bJQCukadVWQsEbjhy) | [Cubicolor](https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU) | [Hardly A Day, Hardly A Night](https://open.spotify.com/album/3sXK7ip7DA3SZSKeYFbf6Q) | 3:59 | 2020-04-14 | 2020-10-09 |
 | [nowhere](https://open.spotify.com/track/3GO5rhSwva3FehBw36GhF3) | [josh pan](https://open.spotify.com/artist/2sfSQ1BOzaFQa3LZj6OGwD), [X&G](https://open.spotify.com/artist/5ic5UHDgniVG1xKLAIU9sG) | [nowhere](https://open.spotify.com/album/0nxyFLQ27Mg74ZeKwQUMR0) | 4:20 | 2020-05-18 | 2020-07-03 |
 | [Numb](https://open.spotify.com/track/7rBpjxstrSsuOLqnuOC028) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Numb](https://open.spotify.com/album/0wM4Ss4GefFaHkJsaAEzLK) | 3:50 | 2020-05-19 | 2021-03-06 |
@@ -1120,6 +1120,7 @@
 | [Read All About It, Pt\. III](https://open.spotify.com/track/2eMGnjkOcyw0g8qZ84BE6j) | [Stefan Biniak](https://open.spotify.com/artist/5Ph1JG7S1Eu0ZlXWayTwjc) | [Read All About It, Pt\. III](https://open.spotify.com/album/7L6e2zyp1W8WJXiKqeu3sT) | 3:14 | 2020-04-25 | 2020-10-09 |
 | [Real Time](https://open.spotify.com/track/4d4MA9MXy0cVIVdsNWGf60) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Real Time](https://open.spotify.com/album/3NPUhWZ7kwP4xryqQbANft) | 4:00 | 2020-05-22 | 2020-07-03 |
 | [Rear View](https://open.spotify.com/track/69EcMpr07eS77EbH90ejVD) | [Prince Woods](https://open.spotify.com/artist/4tMGyWuFOvj3YA7Y9AqDHc) | [Rear View](https://open.spotify.com/album/4dML4zUDbJiNQQqFdQfIet) | 2:58 | 2020-03-20 | 2020-07-03 |
+| [Reason](https://open.spotify.com/track/6D8hNLZL3lz5Cp392mjrlG) | [Apotech](https://open.spotify.com/artist/2nwGAlGI70BCkpJDfdfHec), [Lucas Nord](https://open.spotify.com/artist/4ZUg3IUvAPAl8coXQAxaXd) | [Reason](https://open.spotify.com/album/0UBMDH6SZpQCvGq42yjRtp) | 2:45 | 2024-02-16 |  |
 | [Rebirth](https://open.spotify.com/track/4Xz2mxHREzWiEr0AyCJuU6) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Hero Baldwin](https://open.spotify.com/artist/3F5e8tUWnf1MKKwW89rSg6) | [In Another Lifetime](https://open.spotify.com/album/5YbDMcXp70ko2WzPFA7WEb) | 4:44 | 2022-07-01 |  |
 | [Rebirth](https://open.spotify.com/track/6nftN1ZTgba3uRF1cU3y4b) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Hero Baldwin](https://open.spotify.com/artist/3F5e8tUWnf1MKKwW89rSg6) | [In Another Lifetime](https://open.spotify.com/album/3rbRgdfalHwqQSDIj1zVze) | 4:44 | 2022-02-18 | 2022-07-29 |
 | [Recto Verso \- Mall Grab Remix](https://open.spotify.com/track/5FVdng1BLqLy5Q1u71LuY6) | [Paradis](https://open.spotify.com/artist/1JV4iC1UhplRE8RFr8Q9n9) | [Recto Versions](https://open.spotify.com/album/0OwJqkCyb1CLLcIvauh1Uo) | 5:54 | 2022-08-26 | 2022-09-10 |

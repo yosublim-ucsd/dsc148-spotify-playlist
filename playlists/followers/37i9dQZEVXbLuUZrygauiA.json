@@ -1,5 +1,5 @@
 {
-  "2024-02-21": 214463,
+  "2024-02-22": 214467,
   "date_first_scraped": "2022-02-09",
   "description": "Your daily update of the most viral tracks right now - Mexico.",
   "name": "Viral 50 - Mexico",
@@ -901,7 +901,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 113684,
       "name": "act ii: date @ 8",
       "url": "https://open.spotify.com/track/4HMop4Re0iucehmF7mgV27"
@@ -4801,6 +4801,24 @@
     {
       "album": {
         "name": "Cactus",
+        "url": "https://open.spotify.com/album/4tENygDaMnwk2xajkMm5l1"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183381,
+      "name": "Cactus",
+      "url": "https://open.spotify.com/track/213Q7w8RMi5qbj18kvWasy"
+    },
+    {
+      "album": {
+        "name": "Cactus",
         "url": "https://open.spotify.com/album/5kL1tVuZuSNtfn9v4ZAdyY"
       },
       "artists": [
@@ -5307,6 +5325,28 @@
       "duration_ms": 205483,
       "name": "Can\u2019t Catch Me Now - from The Hunger Games: The Ballad of Songbirds & Snakes",
       "url": "https://open.spotify.com/track/17cia5k4BpGVlyEfqrFH50"
+    },
+    {
+      "album": {
+        "name": "Capuchas",
+        "url": "https://open.spotify.com/album/5g1hYqFTKyktDQ6YMAEJut"
+      },
+      "artists": [
+        {
+          "name": "Fend",
+          "url": "https://open.spotify.com/artist/4zTS87j9J5bBv0R9AEzeC7"
+        },
+        {
+          "name": "Kevin AMF",
+          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157440,
+      "name": "Capuchas",
+      "url": "https://open.spotify.com/track/2aKIZtzWNPRoDLkITdxGaB"
     },
     {
       "album": {
@@ -8581,7 +8621,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 220800,
       "name": "DJ Got Us Fallin' In Love (feat. Pitbull)",
       "url": "https://open.spotify.com/track/4356Typ82hUiFAynbLYbPn"
@@ -12394,6 +12434,28 @@
     },
     {
       "album": {
+        "name": "Gata Only",
+        "url": "https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM"
+      },
+      "artists": [
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        },
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Gata Only",
+      "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
+    },
+    {
+      "album": {
         "name": "Gatita",
         "url": "https://open.spotify.com/album/1UsI3wV7vgPllijr4hfpgT"
       },
@@ -13874,6 +13936,24 @@
     },
     {
       "album": {
+        "name": "I GOT YOU (Voyage ver.)",
+        "url": "https://open.spotify.com/album/5cnrcbdcdt6BJgAig9Tn3P"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173240,
+      "name": "I GOT YOU (Original)",
+      "url": "https://open.spotify.com/track/4RXsi1oTj3uaqoRC9UrwGA"
+    },
+    {
+      "album": {
         "name": "I Know (PR1SVX Edit)",
         "url": "https://open.spotify.com/album/0U2gygUYvl2y1aPQiQZg1h"
       },
@@ -14128,6 +14208,24 @@
     },
     {
       "album": {
+        "name": "Ice Cream",
+        "url": "https://open.spotify.com/album/3jWNvanTepYUAcHw4Todyf"
+      },
+      "artists": [
+        {
+          "name": "El Montana",
+          "url": "https://open.spotify.com/artist/7pZYQsrmytIvo3fWRnQ6Jv"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67759,
+      "name": "Ice Cream",
+      "url": "https://open.spotify.com/track/7nFLwb0AmWAp3uIM6RPAWB"
+    },
+    {
+      "album": {
         "name": "ID",
         "url": "https://open.spotify.com/album/1egkQ2UCu5EaokUNnDsvFL"
       },
@@ -14307,7 +14405,7 @@
       ],
       "date_added": "2024-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 159714,
       "name": "Insane",
       "url": "https://open.spotify.com/track/5flerg6aEao2VayZezVlgu"
@@ -17365,7 +17463,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 196800,
       "name": "LUNA",
       "url": "https://open.spotify.com/track/7bywjHOc0wSjGGbj04XbVi"
@@ -20552,6 +20650,24 @@
     },
     {
       "album": {
+        "name": "Ni 1 Complejo",
+        "url": "https://open.spotify.com/album/0gzD0rupIe407RHRQY9GPk"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174580,
+      "name": "Ni 1 Complejo",
+      "url": "https://open.spotify.com/track/7qP5BoRHR5d9qxGmk8ruY1"
+    },
+    {
+      "album": {
         "name": "Ni Con Labios Prestados",
         "url": "https://open.spotify.com/album/6qbkITbtEKq6CfhurxWvLx"
       },
@@ -22332,6 +22448,32 @@
     },
     {
       "album": {
+        "name": "Hazbin Hotel (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2EOqRNsJiNb7IFLktJBZpq"
+      },
+      "artists": [
+        {
+          "name": "Andrew Underberg",
+          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
+        },
+        {
+          "name": "Sam Haft",
+          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
+        },
+        {
+          "name": "Daphne Rubin-Vega",
+          "url": "https://open.spotify.com/artist/0WJ95VwySC8v8HR504J5vR"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90305,
+      "name": "Out For Love",
+      "url": "https://open.spotify.com/track/3CAgZdCErAPdUBwFmaRyGA"
+    },
+    {
+      "album": {
         "name": "More Than Just a Dream (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3IWUFJCM3CvCCQIHQ4vtRK"
       },
@@ -23127,7 +23269,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 145946,
       "name": "Peonia",
       "url": "https://open.spotify.com/track/7kabKZcIsgr5WS5HU94sif"
@@ -24757,6 +24899,28 @@
       "duration_ms": 198620,
       "name": "Que El Porte Se Me Note",
       "url": "https://open.spotify.com/track/7oteWihovGG0K5grhTaZhj"
+    },
+    {
+      "album": {
+        "name": "Que Empiece El Juego",
+        "url": "https://open.spotify.com/album/4b1B9h0jg1yaWQHkO9fdcf"
+      },
+      "artists": [
+        {
+          "name": "Chicho Castro y Sus Alia2",
+          "url": "https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC"
+        },
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149697,
+      "name": "Que Empiece El Juego",
+      "url": "https://open.spotify.com/track/6d4we28oTHN8qrkJXkZwrS"
     },
     {
       "album": {
@@ -29363,7 +29527,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 155293,
       "name": "Te Juro No Te Miento",
       "url": "https://open.spotify.com/track/0QVjAc46sFSl5iVJ33CotU"
@@ -31785,7 +31949,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 243898,
       "name": "Una Foto Remix (feat. Emilia)",
       "url": "https://open.spotify.com/track/1kqH58eGh2ZTOHwqBIB2tM"
@@ -33783,7 +33947,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 250373,
       "name": "Yeah! (feat. Lil Jon & Ludacris)",
       "url": "https://open.spotify.com/track/5rb9QrpfcKFHM1EUbSIurX"

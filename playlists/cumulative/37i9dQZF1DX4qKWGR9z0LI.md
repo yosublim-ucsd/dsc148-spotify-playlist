@@ -4,7 +4,7 @@
 
 > Lo último y lo mejor de la salsa\. Cover: Camilo & Evaluna Montaner
 
-259 songs - 19 hr 18 min
+260 songs - 19 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Ayúdame Inspiración](https://open.spotify.com/track/3WyCqAwE7P6OgWGGd9sW1r) | [Maite Hontelé](https://open.spotify.com/artist/1Pe4MoTbike2NZeexUUBrU), [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Ayúdame Inspiración](https://open.spotify.com/album/3POCvSEqOXYWinGpbkR7iO) | 4:07 | 2022-01-01 | 2022-02-01 |
 | [Bailando A Tu Son](https://open.spotify.com/track/3vrPR7zhJKvVG5INzVu8l6) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Debut y Segunda Tanda, Vol.1](https://open.spotify.com/album/1m8xBkNoOgnAPnHL5VLdem) | 4:36 | 2022-09-09 |  |
 | [Besos de Amor](https://open.spotify.com/track/1mjnPkzmQBrm5x4p1dpxnP) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [Besos de Amor](https://open.spotify.com/album/7uopsqM4qKfK7M8TwLqqm7) | 4:32 | 2022-03-18 | 2022-05-27 |
+| [Bochinchero](https://open.spotify.com/track/5ju2uIITK3ZXXhF9e074iG) | [Motiff](https://open.spotify.com/artist/5yjh35rXozitS6KLyjicLj), [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Bochinchero](https://open.spotify.com/album/4QUSOz0vAbOGRAFAduJ6GY) | 3:19 | 2024-02-16 |  |
 | [Boogaloo Supreme](https://open.spotify.com/track/3X5h9JHRn22bwysuTLVOXQ) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [Boogaloo Supreme](https://open.spotify.com/album/5Pce9doDhsmeD7QEuIsF98) | 3:28 | 2022-01-01 | 2022-07-29 |
 | [Buenaventura Y Caney](https://open.spotify.com/track/7ugeLfcFCak3rje9PTRCkS) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Virtual Hits](https://open.spotify.com/album/1c3FbTrBqiQ9YWHBE71QHB) | 5:24 | 2022-01-01 | 2022-04-27 |
 | [Cachondea](https://open.spotify.com/track/0z1jqSzPEiblIxozrI9Tto) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob) | [Power Salsa](https://open.spotify.com/album/6sZTpQ7hYETezmf3qq3p3N) | 4:57 | 2022-01-01 | 2022-07-29 |
@@ -239,7 +240,7 @@
 | [Tuyo \(Nueva Versión\)](https://open.spotify.com/track/3e8hxZsJBGkwL3G1HYSfUy) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Tuyo \(Nueva Versión\)](https://open.spotify.com/album/2ybsD3xEJmlMLxJ6rYqXKL) | 5:17 | 2022-01-01 | 2022-11-13 |
 | [Tú](https://open.spotify.com/track/1MoXABDvebpvUqoawzi5bc) | [Alex Matos](https://open.spotify.com/artist/4nwpr7Msz5dvHftcPNkDRC) | [Salsa, Sabor & Sentimiento](https://open.spotify.com/album/73bJ8SUOeJ29UxYDYy7slv) | 4:15 | 2022-02-18 | 2022-02-25 |
 | [Tú Cómo Estás](https://open.spotify.com/track/39cz1Ua6M1YFAjxKxipgOK) | [Domingo Quiñones](https://open.spotify.com/artist/4JqvRbbOIF4EUmsVQMTgjs) | [Serie Cinco Estrellas](https://open.spotify.com/album/5BpVkIMEFkJuBc78SbJyZY) | 5:00 | 2022-01-01 | 2022-07-29 |
-| [Tú Me Vuelves Loco](https://open.spotify.com/track/1xAubZVq0sOxsoSfm1PzqA) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Oro Salsero \(Vol 2\)](https://open.spotify.com/album/7hVgZj58AvnzHHzxw3Oqyh) | 4:58 | 2022-01-01 |  |
+| [Tú Me Vuelves Loco](https://open.spotify.com/track/1xAubZVq0sOxsoSfm1PzqA) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Oro Salsero \(Vol 2\)](https://open.spotify.com/album/7hVgZj58AvnzHHzxw3Oqyh) | 4:58 | 2022-01-01 | 2024-02-22 |
 | [Un Amor Eterno](https://open.spotify.com/track/3Wx05XUK4VGLYWTChk572f) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [OPUS](https://open.spotify.com/album/0iSDto0c8PqIKtwrYS4lbh) | 4:18 | 2022-01-01 | 2022-07-29 |
 | [Un Beso de Su Boca](https://open.spotify.com/track/1Ql6nNEgjJbVo52HeDUV2Q) | [Maía](https://open.spotify.com/artist/1IKP8dm7pmlkZS4V4MzKkI) | [Un Beso de Su Boca](https://open.spotify.com/album/7yw3Crx1ixKISeQdscnVrO) | 4:17 | 2022-01-01 | 2023-04-10 |
 | [Uno Se Cura](https://open.spotify.com/track/2jIeTDKCMcpyEzR3KCnIfW) | [Raulin Rosendo](https://open.spotify.com/artist/4pYTSh5LpqCVVSejQ4v6AF) | [El Sonero Quel El Pueblo Prefiere](https://open.spotify.com/album/4UCOrGLB3LoRAeHPWA4O3G) | 5:32 | 2022-01-01 |  |

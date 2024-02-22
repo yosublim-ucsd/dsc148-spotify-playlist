@@ -1,12 +1,12 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Benny The Butcher",
-  "num_followers": 1602418,
+  "num_followers": 1602451,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMjY3YzRlMzMxYjEwYWVjM2E2ZTg4ZTI4ZTdjNDc1ZGJjN2U3Yzlm",
+  "snapshot_id": "MCxhNjkzZjY1NmRhMGQxOWZhYTYzYmU0NmUxN2VlYWZjOWJkNDFlNWQ3",
   "tracks": [
     {
       "added_at": "2024-02-16 05:00:37",
@@ -51,18 +51,22 @@
     {
       "added_at": "2024-02-16 05:00:37",
       "album": {
-        "name": "Scarlet",
-        "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
+        "name": "VOIR DIRE",
+        "url": "https://open.spotify.com/album/2jFEoWXPcVtO7MX0j12kZ6"
       },
       "artists": [
         {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
         }
       ],
-      "duration_ms": 177666,
-      "name": "97",
-      "url": "https://open.spotify.com/track/3zLwDjumhvIFFwAAZaDNPL"
+      "duration_ms": 113186,
+      "name": "Vin Skully",
+      "url": "https://open.spotify.com/track/09kYuK9gLUai92QYwsrU49"
     },
     {
       "added_at": "2024-02-16 05:00:37",
@@ -239,22 +243,18 @@
     {
       "added_at": "2024-02-16 05:00:37",
       "album": {
-        "name": "VOIR DIRE",
-        "url": "https://open.spotify.com/album/2jFEoWXPcVtO7MX0j12kZ6"
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
       },
       "artists": [
         {
-          "name": "Earl Sweatshirt",
-          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         }
       ],
-      "duration_ms": 113186,
-      "name": "Vin Skully",
-      "url": "https://open.spotify.com/track/09kYuK9gLUai92QYwsrU49"
+      "duration_ms": 177666,
+      "name": "97",
+      "url": "https://open.spotify.com/track/3zLwDjumhvIFFwAAZaDNPL"
     },
     {
       "added_at": "2024-02-16 05:00:37",
@@ -275,22 +275,6 @@
       "duration_ms": 134523,
       "name": "Supergoat",
       "url": "https://open.spotify.com/track/3jkLr0voaj5CkiqdcqZRju"
-    },
-    {
-      "added_at": "2024-02-16 05:00:37",
-      "album": {
-        "name": "Scarlet",
-        "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 236960,
-      "name": "Love Life",
-      "url": "https://open.spotify.com/track/4NW3t9GA7CyBisyoROefUs"
     },
     {
       "added_at": "2024-02-16 05:00:37",
@@ -323,6 +307,34 @@
     {
       "added_at": "2024-02-16 05:00:37",
       "album": {
+        "name": "And Then You Pray For Me",
+        "url": "https://open.spotify.com/album/3CXoPCQuBb7kP9vEFcfXKU"
+      },
+      "artists": [
+        {
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        },
+        {
+          "name": "Cartier A Williams",
+          "url": "https://open.spotify.com/artist/2Fsw6Hh9wWybcZPZZEGYPj"
+        }
+      ],
+      "duration_ms": 299270,
+      "name": "Mamas PrimeTime",
+      "url": "https://open.spotify.com/track/5DBkCzSGttobRr6ApIEd4f"
+    },
+    {
+      "added_at": "2024-02-16 05:00:37",
+      "album": {
         "name": "Scared Money",
         "url": "https://open.spotify.com/album/7nmiiO0GYNkExhZveP4pOD"
       },
@@ -333,7 +345,7 @@
         },
         {
           "name": "Kevin Durant",
-          "url": "https://open.spotify.com/artist/50jVoCjWS4E2ENknl1KIh6"
+          "url": "https://open.spotify.com/artist/0CFcWMZu68nAWFjuFg0jey"
         }
       ],
       "duration_ms": 173161,
@@ -363,34 +375,6 @@
     {
       "added_at": "2024-02-16 05:00:37",
       "album": {
-        "name": "And Then You Pray For Me",
-        "url": "https://open.spotify.com/album/3CXoPCQuBb7kP9vEFcfXKU"
-      },
-      "artists": [
-        {
-          "name": "Westside Gunn",
-          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
-        },
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        },
-        {
-          "name": "Conway the Machine",
-          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
-        },
-        {
-          "name": "Cartier A Williams",
-          "url": "https://open.spotify.com/artist/2Fsw6Hh9wWybcZPZZEGYPj"
-        }
-      ],
-      "duration_ms": 299270,
-      "name": "Mamas PrimeTime",
-      "url": "https://open.spotify.com/track/5DBkCzSGttobRr6ApIEd4f"
-    },
-    {
-      "added_at": "2024-02-16 05:00:37",
-      "album": {
         "name": "Bobby Boucher",
         "url": "https://open.spotify.com/album/7HOrAl8yqZsqW8UUVeVYZY"
       },
@@ -411,6 +395,26 @@
       "duration_ms": 195200,
       "name": "Bobby Boucher",
       "url": "https://open.spotify.com/track/2b1oIoYHq5vj5q1hrQ5WQy"
+    },
+    {
+      "added_at": "2024-02-16 05:00:37",
+      "album": {
+        "name": "Instincts",
+        "url": "https://open.spotify.com/album/2lQfIDJwaRfrr5Hdty8Yv5"
+      },
+      "artists": [
+        {
+          "name": "Erick the Architect",
+          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
+        },
+        {
+          "name": "WESTSIDE BOOGIE",
+          "url": "https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6"
+        }
+      ],
+      "duration_ms": 236199,
+      "name": "Instincts",
+      "url": "https://open.spotify.com/track/7bA0Di2pbdscrttwpwrTjp"
     },
     {
       "added_at": "2024-02-16 05:00:37",
@@ -439,42 +443,6 @@
     {
       "added_at": "2024-02-16 05:00:37",
       "album": {
-        "name": "Instincts",
-        "url": "https://open.spotify.com/album/2lQfIDJwaRfrr5Hdty8Yv5"
-      },
-      "artists": [
-        {
-          "name": "Erick the Architect",
-          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
-        },
-        {
-          "name": "WESTSIDE BOOGIE",
-          "url": "https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6"
-        }
-      ],
-      "duration_ms": 236199,
-      "name": "Instincts",
-      "url": "https://open.spotify.com/track/7bA0Di2pbdscrttwpwrTjp"
-    },
-    {
-      "added_at": "2024-02-16 05:00:37",
-      "album": {
-        "name": "Balut",
-        "url": "https://open.spotify.com/album/3lCIdX7XZlrO6SbxAne7QG"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 207507,
-      "name": "Balut",
-      "url": "https://open.spotify.com/track/3PvChJcbDMKFCQppIRYQo9"
-    },
-    {
-      "added_at": "2024-02-16 05:00:37",
-      "album": {
         "name": "VOIR DIRE",
         "url": "https://open.spotify.com/album/2jFEoWXPcVtO7MX0j12kZ6"
       },
@@ -495,6 +463,22 @@
       "duration_ms": 161506,
       "name": "Mancala (feat. Vince Staples)",
       "url": "https://open.spotify.com/track/3G2Xq0ZA5nra0iHMjbXOYD"
+    },
+    {
+      "added_at": "2024-02-16 05:00:37",
+      "album": {
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 236960,
+      "name": "Love Life",
+      "url": "https://open.spotify.com/track/4NW3t9GA7CyBisyoROefUs"
     },
     {
       "added_at": "2024-02-16 05:00:37",
@@ -611,38 +595,18 @@
     {
       "added_at": "2024-02-16 05:00:37",
       "album": {
-        "name": "Give & Give",
-        "url": "https://open.spotify.com/album/3Sf7ORHvuauAX9FisZJ5Vb"
+        "name": "Balut",
+        "url": "https://open.spotify.com/album/3lCIdX7XZlrO6SbxAne7QG"
       },
       "artists": [
         {
-          "name": "Conway the Machine",
-          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
-        },
-        {
-          "name": "Cool & Dre",
-          "url": "https://open.spotify.com/artist/2PsjBHyb950JI7BHXY10TD"
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         }
       ],
-      "duration_ms": 159220,
-      "name": "Give & Give",
-      "url": "https://open.spotify.com/track/0SAAiYReOaWsGZTSeIQq5q"
-    },
-    {
-      "added_at": "2024-02-16 05:00:37",
-      "album": {
-        "name": "Winner's Blues",
-        "url": "https://open.spotify.com/album/6RRhPkrVw32dIyfkEr8SMX"
-      },
-      "artists": [
-        {
-          "name": "Marlon Craft",
-          "url": "https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Winner's Blues",
-      "url": "https://open.spotify.com/track/5biONrLLqpAl9FQsDuymLq"
+      "duration_ms": 207507,
+      "name": "Balut",
+      "url": "https://open.spotify.com/track/3PvChJcbDMKFCQppIRYQo9"
     },
     {
       "added_at": "2024-02-16 05:00:37",
@@ -667,6 +631,42 @@
     {
       "added_at": "2024-02-16 05:00:37",
       "album": {
+        "name": "Winner's Blues",
+        "url": "https://open.spotify.com/album/6RRhPkrVw32dIyfkEr8SMX"
+      },
+      "artists": [
+        {
+          "name": "Marlon Craft",
+          "url": "https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Winner's Blues",
+      "url": "https://open.spotify.com/track/5biONrLLqpAl9FQsDuymLq"
+    },
+    {
+      "added_at": "2024-02-16 05:00:37",
+      "album": {
+        "name": "Give & Give",
+        "url": "https://open.spotify.com/album/3Sf7ORHvuauAX9FisZJ5Vb"
+      },
+      "artists": [
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        },
+        {
+          "name": "Cool & Dre",
+          "url": "https://open.spotify.com/artist/2PsjBHyb950JI7BHXY10TD"
+        }
+      ],
+      "duration_ms": 159220,
+      "name": "Give & Give",
+      "url": "https://open.spotify.com/track/0SAAiYReOaWsGZTSeIQq5q"
+    },
+    {
+      "added_at": "2024-02-16 05:00:37",
+      "album": {
         "name": "RIP Human Art",
         "url": "https://open.spotify.com/album/1RDjmGZKjYCMTCTzUBSIVf"
       },
@@ -683,42 +683,6 @@
       "duration_ms": 274558,
       "name": "Flavors of Karma",
       "url": "https://open.spotify.com/track/56Nv3kZNdUPL6BsC1I0jd7"
-    },
-    {
-      "added_at": "2024-02-16 05:00:37",
-      "album": {
-        "name": "Burning Desire",
-        "url": "https://open.spotify.com/album/0oc3ietmTjMghpRPvszTw9"
-      },
-      "artists": [
-        {
-          "name": "MIKE",
-          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
-        }
-      ],
-      "duration_ms": 108281,
-      "name": "Burning Desire",
-      "url": "https://open.spotify.com/track/2KKrlVEhlXqfrLR1okapHp"
-    },
-    {
-      "added_at": "2024-02-16 05:00:37",
-      "album": {
-        "name": "And Then You Pray For Me",
-        "url": "https://open.spotify.com/album/3CXoPCQuBb7kP9vEFcfXKU"
-      },
-      "artists": [
-        {
-          "name": "Westside Gunn",
-          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
-        },
-        {
-          "name": "DJ Drama",
-          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
-        }
-      ],
-      "duration_ms": 171192,
-      "name": "Suicide in Selfridges",
-      "url": "https://open.spotify.com/track/7KuoNaz8JL1xppLQRSHuO5"
     },
     {
       "added_at": "2024-02-16 05:00:37",
@@ -747,46 +711,38 @@
     {
       "added_at": "2024-02-16 05:00:37",
       "album": {
-        "name": "DeNiro & Pesci",
-        "url": "https://open.spotify.com/album/0FH0RTdtqMNg8dtXmM785x"
+        "name": "And Then You Pray For Me",
+        "url": "https://open.spotify.com/album/3CXoPCQuBb7kP9vEFcfXKU"
       },
       "artists": [
         {
-          "name": "Dave East",
-          "url": "https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5"
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
         },
         {
-          "name": "Vado",
-          "url": "https://open.spotify.com/artist/4ubKsFJjMgWkARG6w2Qlv8"
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
         }
       ],
-      "duration_ms": 175648,
-      "name": "DeNiro & Pesci",
-      "url": "https://open.spotify.com/track/1FJWjfuUpgm8Amd9Wg5Gt3"
+      "duration_ms": 171192,
+      "name": "Suicide in Selfridges",
+      "url": "https://open.spotify.com/track/7KuoNaz8JL1xppLQRSHuO5"
     },
     {
       "added_at": "2024-02-16 05:00:37",
       "album": {
-        "name": "Welcome 2 Collegrove",
-        "url": "https://open.spotify.com/album/2LdlfTE6xqf2Ez8LPAFZSy"
+        "name": "Burning Desire",
+        "url": "https://open.spotify.com/album/0oc3ietmTjMghpRPvszTw9"
       },
       "artists": [
         {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Fabolous",
-          "url": "https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy"
+          "name": "MIKE",
+          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
         }
       ],
-      "duration_ms": 220586,
-      "name": "P.P.A. (feat. Fabolous)",
-      "url": "https://open.spotify.com/track/7pmkOYSaUvaA39nWnHcqmj"
+      "duration_ms": 108281,
+      "name": "Burning Desire",
+      "url": "https://open.spotify.com/track/2KKrlVEhlXqfrLR1okapHp"
     },
     {
       "added_at": "2024-02-16 05:00:37",
@@ -823,6 +779,22 @@
     {
       "added_at": "2024-02-16 05:00:37",
       "album": {
+        "name": "MICHAEL (Deluxe)",
+        "url": "https://open.spotify.com/album/5dhb5ZpYSm2gH8OCxAKTn1"
+      },
+      "artists": [
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        }
+      ],
+      "duration_ms": 177814,
+      "name": "YES!",
+      "url": "https://open.spotify.com/track/577J3qiLUuwmdz6r2GdgJM"
+    },
+    {
+      "added_at": "2024-02-16 05:00:37",
+      "album": {
         "name": "Ski'd Up",
         "url": "https://open.spotify.com/album/6ZCJKxS9Vx9Aq9XrEf9JjV"
       },
@@ -839,6 +811,30 @@
       "duration_ms": 130194,
       "name": "Ski'd Up",
       "url": "https://open.spotify.com/track/5t75pNr8pZCnllaSWw1LtK"
+    },
+    {
+      "added_at": "2024-02-16 05:00:37",
+      "album": {
+        "name": "Welcome 2 Collegrove",
+        "url": "https://open.spotify.com/album/2LdlfTE6xqf2Ez8LPAFZSy"
+      },
+      "artists": [
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Fabolous",
+          "url": "https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy"
+        }
+      ],
+      "duration_ms": 220586,
+      "name": "P.P.A. (feat. Fabolous)",
+      "url": "https://open.spotify.com/track/7pmkOYSaUvaA39nWnHcqmj"
     },
     {
       "added_at": "2024-02-16 05:00:37",
@@ -879,34 +875,22 @@
     {
       "added_at": "2024-02-16 05:00:37",
       "album": {
-        "name": "MICHAEL (Deluxe)",
-        "url": "https://open.spotify.com/album/5dhb5ZpYSm2gH8OCxAKTn1"
+        "name": "DeNiro & Pesci",
+        "url": "https://open.spotify.com/album/0FH0RTdtqMNg8dtXmM785x"
       },
       "artists": [
         {
-          "name": "Killer Mike",
-          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
-        }
-      ],
-      "duration_ms": 177814,
-      "name": "YES!",
-      "url": "https://open.spotify.com/track/577J3qiLUuwmdz6r2GdgJM"
-    },
-    {
-      "added_at": "2024-02-16 05:00:37",
-      "album": {
-        "name": "YUMA",
-        "url": "https://open.spotify.com/album/3TcrWRrzAn2ZvavYxznNcE"
-      },
-      "artists": [
+          "name": "Dave East",
+          "url": "https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5"
+        },
         {
-          "name": "Kota the Friend",
-          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+          "name": "Vado",
+          "url": "https://open.spotify.com/artist/4ubKsFJjMgWkARG6w2Qlv8"
         }
       ],
-      "duration_ms": 122000,
-      "name": "YUMA",
-      "url": "https://open.spotify.com/track/6JFwqguM5QjpKrN6JLQdGA"
+      "duration_ms": 175648,
+      "name": "DeNiro & Pesci",
+      "url": "https://open.spotify.com/track/1FJWjfuUpgm8Amd9Wg5Gt3"
     },
     {
       "added_at": "2024-02-16 05:00:37",
@@ -923,6 +907,22 @@
       "duration_ms": 162162,
       "name": "Flow",
       "url": "https://open.spotify.com/track/0YVAbRnpG4mVxxwob9DdS8"
+    },
+    {
+      "added_at": "2024-02-16 05:00:37",
+      "album": {
+        "name": "YUMA",
+        "url": "https://open.spotify.com/album/3TcrWRrzAn2ZvavYxznNcE"
+      },
+      "artists": [
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        }
+      ],
+      "duration_ms": 122000,
+      "name": "YUMA",
+      "url": "https://open.spotify.com/track/6JFwqguM5QjpKrN6JLQdGA"
     },
     {
       "added_at": "2024-02-16 05:00:37",
@@ -975,6 +975,30 @@
     {
       "added_at": "2024-02-16 05:00:37",
       "album": {
+        "name": "The Caliphate (feat. Vince Staples)",
+        "url": "https://open.spotify.com/album/3MIxWOJ1dM0H5mO4p6OXGD"
+      },
+      "artists": [
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        }
+      ],
+      "duration_ms": 230720,
+      "name": "The Caliphate (feat. Vince Staples)",
+      "url": "https://open.spotify.com/track/5zdaRJpmbs5lUHCOKn3K6e"
+    },
+    {
+      "added_at": "2024-02-16 05:00:37",
+      "album": {
         "name": "No Yeast (Remix) [feat. Boldy James & Westside Gunn]",
         "url": "https://open.spotify.com/album/1cTjjDQu00jgCLmSQLNF4G"
       },
@@ -999,26 +1023,6 @@
       "duration_ms": 227240,
       "name": "No Yeast (feat. Boldy James & Westside Gunn) - Remix",
       "url": "https://open.spotify.com/track/3g94P2bRVtVe1GqJnYOoV1"
-    },
-    {
-      "added_at": "2024-02-16 05:00:37",
-      "album": {
-        "name": "One Foot In",
-        "url": "https://open.spotify.com/album/6lngN4MM1P71ocrwive5Cg"
-      },
-      "artists": [
-        {
-          "name": "Benny The Butcher",
-          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
-        },
-        {
-          "name": "Stove God Cooks",
-          "url": "https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv"
-        }
-      ],
-      "duration_ms": 164501,
-      "name": "One Foot In (with Stove God Cooks)",
-      "url": "https://open.spotify.com/track/5t8cjiKVfQeNUgrGIaRUBy"
     },
     {
       "added_at": "2024-02-16 05:00:37",

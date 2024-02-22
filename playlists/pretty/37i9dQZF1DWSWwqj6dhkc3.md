@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWwqj6dhkc3.md) - [plain]
 
 > The official playlist for Valeria\. Watch on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,525 likes - 76 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,528 likes - 76 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWwqj6dhkc3.md) - [plain]
 | 67 | [Wicked](https://open.spotify.com/track/0VglkQLWWiEeq0Qrva9zUN) | [Cycle](https://open.spotify.com/artist/1t9h9FknndxGe1PtzpxQek) | [Wicked](https://open.spotify.com/album/1xGfzBn6vU7J5yeyL4S6DQ) | 3:48 |
 | 68 | [Rooting For You](https://open.spotify.com/track/0HFCw1viBRc2siCdkjL86P) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Truth Is a Beautiful Thing \(Deluxe\)](https://open.spotify.com/album/2czuN6tZcR5ebpuK9A1Vur) | 4:29 |
 | 69 | [I Do I Do](https://open.spotify.com/track/6ttaiNcKsrrFXWjKTPRDfy) | [Heatwaves](https://open.spotify.com/artist/0dWp1AZPe1hwnjlfQu16HO) | [Heatwaves / Freddie Dilevi](https://open.spotify.com/album/2GXGL4IaIrGHlU7vaZaxtk) | 2:33 |
-| 70 | [Go Solo](https://open.spotify.com/track/18ywhG9EvuMMUIdUWxEqp7) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [The Pleasant Trees](https://open.spotify.com/album/30dSlleSaT1dEaK39OM5B4) | 2:22 |
+| 70 | [Go Solo](https://open.spotify.com/track/6GI4rgcKBRwbi9hN84ErdW) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [The Pleasant Trees](https://open.spotify.com/album/5ILDV2rWri2MngM94QiDok) | 2:22 |
 | 71 | [No](https://open.spotify.com/track/6S4SIidaZRUGzAQhOLqemt) | [Sandré](https://open.spotify.com/artist/5jO693ntO8nc5utL8HpE4H) | [Ave Muñón](https://open.spotify.com/album/1BqSRXtsvatyTaNO8RZUO1) | 1:16 |
 | 72 | [Dignity and Freedom](https://open.spotify.com/track/6FaqNHSIHcTGlbFmsQKIeq) | [Freedonia](https://open.spotify.com/artist/4R6QzJKEDe4F7y4tNd5Wim) | [Dignity and Freedom](https://open.spotify.com/album/1VSCpakpmgQSLg7PXnGZbz) | 4:00 |
 | 73 | [lovely \(with Khalid\)](https://open.spotify.com/track/0u2P5u6lvoDfwTYjAADbn4) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [lovely \(with Khalid\)](https://open.spotify.com/album/2sBB17RXTamvj7Ncps15AK) | 3:20 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWwqj6dhkc3.md) - [plain]
 | 75 | [Voilà](https://open.spotify.com/track/7z9b9sw3k2ov3fO6YHKLHO) | [Club Yoko](https://open.spotify.com/artist/3kcV06zLtzUXC1p43aO5DJ) | [Voilà](https://open.spotify.com/album/7asKOioOiNZUhL5JiQs30H) | 2:25 |
 | 76 | [Everybody Hurts](https://open.spotify.com/track/1keQQqma4XPBRL1e6USd7Z) | [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt) | [Dream On](https://open.spotify.com/album/4EKA6cOPmM0VmjHigV03QH) | 3:36 |
 
-Snapshot ID: `MCxmNzE5M2Q5MTIzZGMzN2Y1OTIwNTIxMDQ3NzFkYjJiOGZjYzI1Mzk2`
+Snapshot ID: `MCxhNzgyY2Y2ZTM1N2Y3MmM0M2Q1MGQ1NmFiNzY1ZDdiZDNiOTYzNTM4`

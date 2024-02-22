@@ -1,12 +1,12 @@
 {
   "description": "Tudo de novo que t\u00e1 rolando no pop! Atualizada toda semana \u2728 Foto: Lil Nas X",
-  "num_followers": 125219,
+  "num_followers": 125218,
   "original_name": "SUPERNOVA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMTM2MjYwMmUzZDkxYzQ1NTE1ZWI2M2MzZTcwN2FjN2E1ZmZlM2Zm",
+  "snapshot_id": "MCw1NTE0MGIwZmYzNmMyNTlmMWYyZjA5YTE3NTA4YWJkMWFjN2VjMzE0",
   "tracks": [
     {
       "added_at": "2024-02-16 17:13:51",
@@ -219,22 +219,6 @@
     {
       "added_at": "2024-02-16 17:13:51",
       "album": {
-        "name": "B\u00e9cane - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/7oBuvko8hsXKXHEUHvDXnB"
-      },
-      "artists": [
-        {
-          "name": "Yam\u00ea",
-          "url": "https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl"
-        }
-      ],
-      "duration_ms": 182440,
-      "name": "B\u00e9cane - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/3oUEzTAoOxqZHN4xiqTGqJ"
-    },
-    {
-      "added_at": "2024-02-16 17:13:51",
-      "album": {
         "name": "Think U The Shit (Fart)",
         "url": "https://open.spotify.com/album/1NEBms3ay8CUHTUzD7wzHO"
       },
@@ -251,50 +235,18 @@
     {
       "added_at": "2024-02-16 17:13:51",
       "album": {
-        "name": "THINK LATER",
-        "url": "https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE"
+        "name": "B\u00e9cane - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/7oBuvko8hsXKXHEUHvDXnB"
       },
       "artists": [
         {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+          "name": "Yam\u00ea",
+          "url": "https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl"
         }
       ],
-      "duration_ms": 143940,
-      "name": "run for the hills",
-      "url": "https://open.spotify.com/track/51hyZpbJlIgZIaX3TtMxmu"
-    },
-    {
-      "added_at": "2024-02-16 17:13:51",
-      "album": {
-        "name": "Training Season",
-        "url": "https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 209487,
-      "name": "Training Season",
-      "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"
-    },
-    {
-      "added_at": "2024-02-16 17:13:51",
-      "album": {
-        "name": "Can\u2019t Catch Me Now (from The Hunger Games: The Ballad of Songbirds & Snakes)",
-        "url": "https://open.spotify.com/album/07J7Q3Z7V00LvCxqzVqj9s"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 205483,
-      "name": "Can\u2019t Catch Me Now - from The Hunger Games: The Ballad of Songbirds & Snakes",
-      "url": "https://open.spotify.com/track/56xHMIfQPoe0prrSi3BGhf"
+      "duration_ms": 182440,
+      "name": "B\u00e9cane - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/3oUEzTAoOxqZHN4xiqTGqJ"
     },
     {
       "added_at": "2024-02-16 17:13:51",
@@ -315,6 +267,54 @@
       "duration_ms": 192786,
       "name": "CONTIGO (with Ti\u00ebsto)",
       "url": "https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh"
+    },
+    {
+      "added_at": "2024-02-16 17:13:51",
+      "album": {
+        "name": "Training Season",
+        "url": "https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 209487,
+      "name": "Training Season",
+      "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"
+    },
+    {
+      "added_at": "2024-02-16 17:13:51",
+      "album": {
+        "name": "THINK LATER",
+        "url": "https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 143940,
+      "name": "run for the hills",
+      "url": "https://open.spotify.com/track/51hyZpbJlIgZIaX3TtMxmu"
+    },
+    {
+      "added_at": "2024-02-16 17:13:51",
+      "album": {
+        "name": "Can\u2019t Catch Me Now (from The Hunger Games: The Ballad of Songbirds & Snakes)",
+        "url": "https://open.spotify.com/album/07J7Q3Z7V00LvCxqzVqj9s"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 205483,
+      "name": "Can\u2019t Catch Me Now - from The Hunger Games: The Ballad of Songbirds & Snakes",
+      "url": "https://open.spotify.com/track/56xHMIfQPoe0prrSi3BGhf"
     },
     {
       "added_at": "2024-02-16 17:13:51",
@@ -407,22 +407,18 @@
     {
       "added_at": "2024-02-16 17:13:51",
       "album": {
-        "name": "Mean Girls (Music From The Motion Picture)",
-        "url": "https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74"
+        "name": "QUE CHIMBA DE VIDA",
+        "url": "https://open.spotify.com/album/23DP7UVHWrSMBXnjpZ6kCW"
       },
       "artists": [
         {
-          "name": "Rene\u00e9 Rapp",
-          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         }
       ],
-      "duration_ms": 170528,
-      "name": "Not My Fault (with Megan Thee Stallion)",
-      "url": "https://open.spotify.com/track/18dlAFKaajLjRgBNZZ4ThU"
+      "duration_ms": 123351,
+      "name": "QUE CHIMBA DE VIDA",
+      "url": "https://open.spotify.com/track/22AVtdVU43dMFTeWaUCthT"
     },
     {
       "added_at": "2024-02-16 17:13:51",
@@ -443,18 +439,22 @@
     {
       "added_at": "2024-02-16 17:13:51",
       "album": {
-        "name": "QUE CHIMBA DE VIDA",
-        "url": "https://open.spotify.com/album/23DP7UVHWrSMBXnjpZ6kCW"
+        "name": "Mean Girls (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74"
       },
       "artists": [
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
         }
       ],
-      "duration_ms": 123351,
-      "name": "QUE CHIMBA DE VIDA",
-      "url": "https://open.spotify.com/track/22AVtdVU43dMFTeWaUCthT"
+      "duration_ms": 170528,
+      "name": "Not My Fault (with Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/18dlAFKaajLjRgBNZZ4ThU"
     },
     {
       "added_at": "2024-02-16 17:13:51",
@@ -639,26 +639,22 @@
     {
       "added_at": "2024-02-16 17:13:51",
       "album": {
-        "name": "Airplane Tickets",
-        "url": "https://open.spotify.com/album/6xEpW40GaWcE663h7cA3Ws"
+        "name": "Ruin",
+        "url": "https://open.spotify.com/album/5FCCJIcpppCJI3qIPAhgbG"
       },
       "artists": [
         {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
         },
         {
-          "name": "Swae Lee",
-          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
         }
       ],
-      "duration_ms": 198514,
-      "name": "Airplane Tickets",
-      "url": "https://open.spotify.com/track/2v1FKs8SR6tYEYREKM6MNN"
+      "duration_ms": 181646,
+      "name": "Ruin",
+      "url": "https://open.spotify.com/track/3XloH0C8QYXgbYPmXlxf2x"
     },
     {
       "added_at": "2024-02-16 17:13:51",
@@ -711,26 +707,6 @@
     {
       "added_at": "2024-02-16 17:13:51",
       "album": {
-        "name": "Ruin",
-        "url": "https://open.spotify.com/album/5FCCJIcpppCJI3qIPAhgbG"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        },
-        {
-          "name": "Pheelz",
-          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
-        }
-      ],
-      "duration_ms": 181646,
-      "name": "Ruin",
-      "url": "https://open.spotify.com/track/3XloH0C8QYXgbYPmXlxf2x"
-    },
-    {
-      "added_at": "2024-02-16 17:13:51",
-      "album": {
         "name": "In The City",
         "url": "https://open.spotify.com/album/4yb3RB7teZSVscBmOoDWvT"
       },
@@ -747,6 +723,30 @@
       "duration_ms": 176479,
       "name": "In The City",
       "url": "https://open.spotify.com/track/3xY5aYJcdvZX9xQxNd02ku"
+    },
+    {
+      "added_at": "2024-02-16 17:13:51",
+      "album": {
+        "name": "Airplane Tickets",
+        "url": "https://open.spotify.com/album/6xEpW40GaWcE663h7cA3Ws"
+      },
+      "artists": [
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 198514,
+      "name": "Airplane Tickets",
+      "url": "https://open.spotify.com/track/2v1FKs8SR6tYEYREKM6MNN"
     },
     {
       "added_at": "2024-02-16 17:13:51",
@@ -923,6 +923,26 @@
     {
       "added_at": "2024-02-16 17:13:51",
       "album": {
+        "name": "Nu King",
+        "url": "https://open.spotify.com/album/5yrqPWuCSAo6beZdIBYAUU"
+      },
+      "artists": [
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 129796,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/78dsAqvPezU0xkeEJMjlj3"
+    },
+    {
+      "added_at": "2024-02-16 17:13:51",
+      "album": {
         "name": "A\u00daN TE QUIERO",
         "url": "https://open.spotify.com/album/6ElZodBAzNw2Tsh7eFrK9u"
       },
@@ -935,6 +955,22 @@
       "duration_ms": 205533,
       "name": "A\u00daN TE QUIERO",
       "url": "https://open.spotify.com/track/1NI6GSGPQn0EYeW27V2n2n"
+    },
+    {
+      "added_at": "2024-02-16 17:13:51",
+      "album": {
+        "name": "INSANO",
+        "url": "https://open.spotify.com/album/0tpIUAzCeUkoV4u2r5NrQr"
+      },
+      "artists": [
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "duration_ms": 205173,
+      "name": "ELECTROWAVEBABY",
+      "url": "https://open.spotify.com/track/7iwBRiipMHOz0sApVqZBRF"
     },
     {
       "added_at": "2024-02-16 17:13:51",
@@ -955,22 +991,6 @@
       "duration_ms": 209693,
       "name": "Bota Ni\u00f1a",
       "url": "https://open.spotify.com/track/2EbRFerXy6IPM3EfAOqZkB"
-    },
-    {
-      "added_at": "2024-02-16 17:13:51",
-      "album": {
-        "name": "INSANO",
-        "url": "https://open.spotify.com/album/0tpIUAzCeUkoV4u2r5NrQr"
-      },
-      "artists": [
-        {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
-        }
-      ],
-      "duration_ms": 205173,
-      "name": "ELECTROWAVEBABY",
-      "url": "https://open.spotify.com/track/7iwBRiipMHOz0sApVqZBRF"
     },
     {
       "added_at": "2024-02-16 17:13:51",
@@ -1007,26 +1027,6 @@
     {
       "added_at": "2024-02-16 17:13:51",
       "album": {
-        "name": "Nu King",
-        "url": "https://open.spotify.com/album/5yrqPWuCSAo6beZdIBYAUU"
-      },
-      "artists": [
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 129796,
-      "name": "Down",
-      "url": "https://open.spotify.com/track/78dsAqvPezU0xkeEJMjlj3"
-    },
-    {
-      "added_at": "2024-02-16 17:13:51",
-      "album": {
         "name": "I Believe In Love Again",
         "url": "https://open.spotify.com/album/4j8paHpWXq0sgm5jcWl84R"
       },
@@ -1059,6 +1059,26 @@
       "duration_ms": 192647,
       "name": "SORRY",
       "url": "https://open.spotify.com/track/5icZ87FcdUCMYAp9VXWdd9"
+    },
+    {
+      "added_at": "2024-02-16 17:13:51",
+      "album": {
+        "name": "LAST OF US (feat. Rita Ora)",
+        "url": "https://open.spotify.com/album/19wUjYvz97e0wXWHE41PSV"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "duration_ms": 190909,
+      "name": "LAST OF US (feat. Rita Ora)",
+      "url": "https://open.spotify.com/track/2Mwmp4qVCe8CJcalsT4xm1"
     },
     {
       "added_at": "2024-02-16 17:13:51",
@@ -1111,22 +1131,18 @@
     {
       "added_at": "2024-02-16 17:13:51",
       "album": {
-        "name": "LAST OF US (feat. Rita Ora)",
-        "url": "https://open.spotify.com/album/19wUjYvz97e0wXWHE41PSV"
+        "name": "Slut Pop Miami",
+        "url": "https://open.spotify.com/album/32hFJhRyYyZF2e3JRkE0bK"
       },
       "artists": [
         {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
         }
       ],
-      "duration_ms": 190909,
-      "name": "LAST OF US (feat. Rita Ora)",
-      "url": "https://open.spotify.com/track/2Mwmp4qVCe8CJcalsT4xm1"
+      "duration_ms": 181417,
+      "name": "Head Head Honcho",
+      "url": "https://open.spotify.com/track/0rW8JS6v94ggHMBiAI2PNf"
     },
     {
       "added_at": "2024-02-16 17:13:51",
@@ -1175,38 +1191,6 @@
     {
       "added_at": "2024-02-16 17:13:51",
       "album": {
-        "name": "Paris",
-        "url": "https://open.spotify.com/album/5DFNdBjKvIRlPl0i76yBSC"
-      },
-      "artists": [
-        {
-          "name": "Kenya Grace",
-          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
-        }
-      ],
-      "duration_ms": 180527,
-      "name": "Paris",
-      "url": "https://open.spotify.com/track/3WzmwVmkRDTYroaLg0Klcb"
-    },
-    {
-      "added_at": "2024-02-16 17:13:51",
-      "album": {
-        "name": "Slut Pop Miami",
-        "url": "https://open.spotify.com/album/32hFJhRyYyZF2e3JRkE0bK"
-      },
-      "artists": [
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 181417,
-      "name": "Head Head Honcho",
-      "url": "https://open.spotify.com/track/0rW8JS6v94ggHMBiAI2PNf"
-    },
-    {
-      "added_at": "2024-02-16 17:13:51",
-      "album": {
         "name": "COMING HOME",
         "url": "https://open.spotify.com/album/70xOoXrLzPZTRHySJED3q3"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 188206,
       "name": "Kissing Strangers",
       "url": "https://open.spotify.com/track/1pas3RniY46hElvMSzr0Uv"
+    },
+    {
+      "added_at": "2024-02-16 17:13:51",
+      "album": {
+        "name": "Paris",
+        "url": "https://open.spotify.com/album/5DFNdBjKvIRlPl0i76yBSC"
+      },
+      "artists": [
+        {
+          "name": "Kenya Grace",
+          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
+        }
+      ],
+      "duration_ms": 180527,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/3WzmwVmkRDTYroaLg0Klcb"
     },
     {
       "added_at": "2024-02-16 17:13:51",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2024-02-16 17:13:51",
       "album": {
+        "name": "Enough",
+        "url": "https://open.spotify.com/album/5oa7QL92n6HXfKY1dlz5qu"
+      },
+      "artists": [
+        {
+          "name": "Jess Glynne",
+          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
+        }
+      ],
+      "duration_ms": 180977,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/2TwdK6m9dTg2L8oKhZC7ZD"
+    },
+    {
+      "added_at": "2024-02-16 17:13:51",
+      "album": {
         "name": "The Glass",
         "url": "https://open.spotify.com/album/1ytv4k4Yiz5XupOA1Tbgjm"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 211190,
       "name": "The Glass",
       "url": "https://open.spotify.com/track/1Wm507fKIw4Un8x11ucO1W"
-    },
-    {
-      "added_at": "2024-02-16 17:13:51",
-      "album": {
-        "name": "RAVAGE",
-        "url": "https://open.spotify.com/album/53oOgXjjaTx42Sy2exYlH9"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 185500,
-      "name": "Don't Leave",
-      "url": "https://open.spotify.com/track/19fCpJYZVtBKyOtIvEnDv0"
     }
   ],
   "unique_name": "SUPERNOVA",

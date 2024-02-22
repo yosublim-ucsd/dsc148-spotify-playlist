@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Beyoncé, Mother Mother, Dua Lipa, Josh Ross and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,593 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,616 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 90 | [Under Water](https://open.spotify.com/track/4qbh9Zlb8SClIOKwMDJaPb) | [Quake Matthews](https://open.spotify.com/artist/2I2GpkVOATiTrXSXCafxvO) | [Roses](https://open.spotify.com/album/2P54yHx8zFGjNv8fnLqYqF) | 3:00 |
 | 91 | [Derailer](https://open.spotify.com/track/68qd3jmHgV7YLsJa6RJaF7) | [Wine Lips](https://open.spotify.com/artist/4fPl9Aa0FMkATDiA7AnBNM) | [Derailer](https://open.spotify.com/album/72bQ2H2xbYK6QMjt7Gqpmw) | 2:19 |
 | 92 | [Suntan Woman](https://open.spotify.com/track/1OUnlmlJ6FT4PpJMAqlVyc) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Suntan Woman](https://open.spotify.com/album/1Th1Fn7Cm4UiXZDOKJUazZ) | 3:41 |
-| 93 | [Nvm](https://open.spotify.com/track/4OVqoD9exHPI6c1Zt2aVdT) | [3MFrench](https://open.spotify.com/artist/7MPnGqTzCsarDScihWka1x) | [Its Me Not You](https://open.spotify.com/album/1bvkLtyYfPl65K9YNUrcH5) | 2:12 |
+| 93 | [Nvm](https://open.spotify.com/track/4OVqoD9exHPI6c1Zt2aVdT) | [3MFrench](https://open.spotify.com/artist/7MPnGqTzCsarDScihWka1x), [Tilla](https://open.spotify.com/artist/2WUWGxe2YfvUFk69M3Ri2f) | [Its Me Not You](https://open.spotify.com/album/1bvkLtyYfPl65K9YNUrcH5) | 2:12 |
 | 94 | [Late to the Party](https://open.spotify.com/track/2gnjGxnyrkD5JEd6T0qT8E) | [Amaal Nuux](https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz) | [Late to the Party](https://open.spotify.com/album/4n7mXxNyD93LHBamg4tAPq) | 2:59 |
 | 95 | [Eyes Wide Shut](https://open.spotify.com/track/2LyaOE8P7p8X0yofHVtF2D) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Eyes Wide Shut](https://open.spotify.com/album/6O7B3KJmgRfdn0OaCPv8Gq) | 3:22 |
 | 96 | [FADE AWAY](https://open.spotify.com/track/3FIuvNRbMDueDoYERFy7yg) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [FADE AWAY](https://open.spotify.com/album/5NpiYMXcL0jr4JCh3WDpHb) | 2:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [time is measured](https://open.spotify.com/track/666tnbLT7ugnf5Xw7D3ecX) | [jerry](https://open.spotify.com/artist/1AZJhKobUOUAawr0AEmGE4) | [lovemesooner](https://open.spotify.com/album/398Pg5EQy3xSV3mYCBySn0) | 2:16 |
 | 100 | [Devil On My Shoulder](https://open.spotify.com/track/2CaiWCNMFAIxoyYKjMxAbf) | [Julia Shuren](https://open.spotify.com/artist/4V8ZAyBfaMQ8gEpLPXhf5V) | [Devil On My Shoulder](https://open.spotify.com/album/3kl9IYI5NmJbdTWgJZNCmk) | 3:02 |
 
-Snapshot ID: `MCxiYjBlMDc3ZThhZTExZjkwMjNlOGVjYTg1Y2JhNzY3MGQ5YTI4M2Uy`
+Snapshot ID: `MCw5ZDViZjBiMGZlNzk5MzNhMTgwMmYyZTVkNTRlOTEyNzYxYWYyOTA0`

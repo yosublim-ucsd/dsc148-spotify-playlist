@@ -4,7 +4,7 @@
 
 > The best new music by independent artists in the UK & Ireland\. Cover: Chloe Slater\. Artwork: Isu Kim
 
-1,615 songs - 3 day 14 hr 16 min
+1,616 songs - 3 day 14 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [blocked](https://open.spotify.com/track/24AthZW8c7jwI9E5fqwRBl) | [Max Armfield](https://open.spotify.com/artist/1W8tDkSW5WnB38vW6nqrQN) | [blocked](https://open.spotify.com/album/4Ui16oxKfYuIdRYqgWBLX1) | 1:57 | 2022-04-13 | 2022-06-01 |
 | [Blood](https://open.spotify.com/track/0yNyMQhVlmqYJSYtBIPUZq) | [Kai Bosch](https://open.spotify.com/artist/6NvsbUgzHkjZK3ZUEWui41) | [Blood](https://open.spotify.com/album/1KqWIh4S19Awll9HkdJRuf) | 3:19 | 2022-07-13 | 2022-08-25 |
 | [Blood Money](https://open.spotify.com/track/0mtTpJWvLCICDbjshlMpX0) | [The Lounge Society](https://open.spotify.com/artist/5OfZVpXzGottp1rYD73ufE) | [Blood Money](https://open.spotify.com/album/0eiBDyD35crWZEu8GaPHr3) | 3:32 | 2022-05-11 | 2022-06-30 |
+| [Blood Moon](https://open.spotify.com/track/55mvlhDU0EXnOpzngEWBJk) | [WineMom](https://open.spotify.com/artist/5GTLWbVEr4R6zk5pVZOQGo) | [Blood Moon](https://open.spotify.com/album/6209out2XGRbB5ZBFe0FKP) | 3:50 | 2024-02-21 |  |
 | [Blood Pact](https://open.spotify.com/track/65ySk1hwNkFRawlG0suzzd) | [Petrie](https://open.spotify.com/artist/5emXRrMfHjfZIRqy0HcL8a), [SANNI](https://open.spotify.com/artist/4KbUzTS1NC8GHIe9LkwIPS) | [Blood Pact](https://open.spotify.com/album/0B91PsXlG1wkY3jlLqOI2p) | 2:59 | 2022-01-05 | 2022-01-20 |
 | [Bloodline](https://open.spotify.com/track/0Os4EP2gnCtMA9AYiAmSyZ) | [Jaish](https://open.spotify.com/artist/4gA27N5UFxsfcwEoZISYry) | [Bloodline](https://open.spotify.com/album/4jeyvMABoKv55qkpczN80F) | 3:12 | 2022-04-20 | 2023-01-05 |
 | [Blooming](https://open.spotify.com/track/06RnC0JLSzmDyR7uww6DTG) | [Raheem Bakare](https://open.spotify.com/artist/40IuUXbYWhw6UcfU7hHmpM) | [Blooming](https://open.spotify.com/album/161LWOFteLoBDzzNqq03AI) | 2:54 | 2022-03-23 | 2022-05-26 |
@@ -811,7 +812,7 @@
 | [Killers](https://open.spotify.com/track/078SrbxWDf0hvzEv6hDTyL) | [Siobhán Winifred](https://open.spotify.com/artist/1YvRCYoo7jj2O6l6sPcT9x) | [Killers](https://open.spotify.com/album/7nzdV7pxXhGojG5cnpOrwI) | 3:36 | 2023-11-16 | 2024-01-03 |
 | [Kimbo](https://open.spotify.com/track/5LOYEyu49C5PSyzVKSiqTM) | [Post\-Party](https://open.spotify.com/artist/6Sg6gogb6FlpSMhqTL7XO9) | [Kimbo](https://open.spotify.com/album/25x3ck5y5bFbAAQjWe9xIn) | 3:54 | 2023-01-25 | 2023-03-29 |
 | [kinda don't wanna exist](https://open.spotify.com/track/3dcTkVIkD8oW2Ug351Oq73) | [Elisa Ailes](https://open.spotify.com/artist/1UvxtqRR5lVUcO90xgz9DP) | [kinda don't wanna exist](https://open.spotify.com/album/6rSDB1kjY3POLJq7v8iDtX) | 1:49 | 2022-10-19 | 2023-03-09 |
-| [KING](https://open.spotify.com/track/3WOjAdN3cu6xJHNrIYrde8) | [Ellis Evason](https://open.spotify.com/artist/6w8E53hPHlIEl7TVL9BVrA) | [SINS OF THE FATHER](https://open.spotify.com/album/0gR3CHYatSBjgeRFBb9GNr) | 3:17 | 2024-01-24 |  |
+| [KING](https://open.spotify.com/track/3WOjAdN3cu6xJHNrIYrde8) | [Ellis Evason](https://open.spotify.com/artist/6w8E53hPHlIEl7TVL9BVrA) | [SINS OF THE FATHER](https://open.spotify.com/album/0gR3CHYatSBjgeRFBb9GNr) | 3:17 | 2024-01-24 | 2024-02-22 |
 | [Kingpin’s Achilles](https://open.spotify.com/track/6AAdJaI4hINLMIP2G40mhJ) | [jesi](https://open.spotify.com/artist/0yxqFoPntD6G4CStjyjMww) | [Sayonara City](https://open.spotify.com/album/7yYTN3lp9LrJ6uQFUNQGZz) | 3:56 | 2022-06-29 | 2022-07-28 |
 | [Kiss Me](https://open.spotify.com/track/0NRwFeMADBWL37hfcEaGGe) | [Sorel](https://open.spotify.com/artist/4TZUFk09wBJnPrXSrHKQYb) | [Kiss Me](https://open.spotify.com/album/306hGaeAWPp7wuIl4e4k6l) | 5:09 | 2023-09-12 | 2023-10-18 |
 | [KitKat](https://open.spotify.com/track/4MJFujlU2RTEw9c2qMqkRn) | [Scuti](https://open.spotify.com/artist/0U22PYRY87xqfpBJgRt4US) | [KitKat](https://open.spotify.com/album/02UwuXYk7XvWFG45Wim7jr) | 3:16 | 2022-01-28 | 2022-02-24 |

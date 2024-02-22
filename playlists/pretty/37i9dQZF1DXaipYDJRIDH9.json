@@ -1,12 +1,12 @@
 {
   "description": "Piano instrumental para ajudar sua concentra\u00e7\u00e3o na hora de ler e estudar.",
-  "num_followers": 217296,
+  "num_followers": 217352,
   "original_name": "Foco no Estudo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1M2QyZDI0MjYxN2U0ZWQ4YmQ2MGNhMjA5NTNiMmVjZDhiNzRhOWFm",
+  "snapshot_id": "MCxlMWRhY2UwMmMyZTViMTI3MDU4MmJmMjg5OWQ5M2VmNDI4YzY1MzQw",
   "tracks": [
     {
       "added_at": "2024-02-13 10:03:29",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-02-13 10:03:29",
       "album": {
-        "name": "Syllables Flow",
-        "url": "https://open.spotify.com/album/3rJEjPamXwipkhDj65Fkn0"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Austin",
-          "url": "https://open.spotify.com/artist/3RyXWAkPxxntDFBAeGst6K"
-        }
-      ],
-      "duration_ms": 126673,
-      "name": "Syllables Flow",
-      "url": "https://open.spotify.com/track/2USbdKxzXryyv1fakxIbD0"
-    },
-    {
-      "added_at": "2024-02-13 10:03:29",
-      "album": {
         "name": "There Is Light",
         "url": "https://open.spotify.com/album/6AcZrFuuDEO6AJAOTNM6Jg"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 178624,
       "name": "There Is Light",
       "url": "https://open.spotify.com/track/4ZdgNKRy8OJcuUEAfErHfZ"
+    },
+    {
+      "added_at": "2024-02-13 10:03:29",
+      "album": {
+        "name": "Syllables Flow",
+        "url": "https://open.spotify.com/album/3rJEjPamXwipkhDj65Fkn0"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Austin",
+          "url": "https://open.spotify.com/artist/3RyXWAkPxxntDFBAeGst6K"
+        }
+      ],
+      "duration_ms": 126673,
+      "name": "Syllables Flow",
+      "url": "https://open.spotify.com/track/2USbdKxzXryyv1fakxIbD0"
     },
     {
       "added_at": "2024-02-13 10:03:29",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-02-13 10:03:29",
       "album": {
-        "name": "Spruces and pines",
-        "url": "https://open.spotify.com/album/1ZDs2oPCrDDdfXMLC1j6nG"
-      },
-      "artists": [
-        {
-          "name": "Fredrik Lundberg",
-          "url": "https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3"
-        }
-      ],
-      "duration_ms": 142500,
-      "name": "Spruces and pines",
-      "url": "https://open.spotify.com/track/7kE18LIKowFAQL4eOwBbNi"
-    },
-    {
-      "added_at": "2024-02-13 10:03:29",
-      "album": {
         "name": "Littoral",
         "url": "https://open.spotify.com/album/6tPOxLpqILRg4kIfRpkSJC"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 141216,
       "name": "Littoral",
       "url": "https://open.spotify.com/track/73Nea4j1hzgzKdgOLaiiZd"
+    },
+    {
+      "added_at": "2024-02-13 10:03:29",
+      "album": {
+        "name": "Spruces and pines",
+        "url": "https://open.spotify.com/album/1ZDs2oPCrDDdfXMLC1j6nG"
+      },
+      "artists": [
+        {
+          "name": "Fredrik Lundberg",
+          "url": "https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3"
+        }
+      ],
+      "duration_ms": 142500,
+      "name": "Spruces and pines",
+      "url": "https://open.spotify.com/track/7kE18LIKowFAQL4eOwBbNi"
     },
     {
       "added_at": "2024-02-13 10:03:29",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-02-13 10:03:29",
       "album": {
-        "name": "Up",
-        "url": "https://open.spotify.com/album/5WmgcLlvxLBGF0exbEyv5h"
-      },
-      "artists": [
-        {
-          "name": "Jozef De Schutter",
-          "url": "https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o"
-        }
-      ],
-      "duration_ms": 135013,
-      "name": "Up",
-      "url": "https://open.spotify.com/track/6a04n0DK9frDlgWEQkl2S8"
-    },
-    {
-      "added_at": "2024-02-13 10:03:29",
-      "album": {
         "name": "Flourish",
         "url": "https://open.spotify.com/album/3ZZa5qPd2XsANxEP7Aypnp"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 151124,
       "name": "Flourish",
       "url": "https://open.spotify.com/track/64FQyOZ9XEu8BOjSLdKSxP"
+    },
+    {
+      "added_at": "2024-02-13 10:03:29",
+      "album": {
+        "name": "Up",
+        "url": "https://open.spotify.com/album/5WmgcLlvxLBGF0exbEyv5h"
+      },
+      "artists": [
+        {
+          "name": "Jozef De Schutter",
+          "url": "https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o"
+        }
+      ],
+      "duration_ms": 135013,
+      "name": "Up",
+      "url": "https://open.spotify.com/track/6a04n0DK9frDlgWEQkl2S8"
     },
     {
       "added_at": "2024-02-13 10:03:29",
@@ -823,6 +823,22 @@
       "duration_ms": 167120,
       "name": "All I Hear Is Birds,",
       "url": "https://open.spotify.com/track/15hyn4FNUMbHexh7kLvb0e"
+    },
+    {
+      "added_at": "2024-02-13 10:03:29",
+      "album": {
+        "name": "Emerald",
+        "url": "https://open.spotify.com/album/68F0SS9ueRjE4NUhAReYDE"
+      },
+      "artists": [
+        {
+          "name": "Agatha Messina",
+          "url": "https://open.spotify.com/artist/286xUM2HNGoiq5B1ym9cMI"
+        }
+      ],
+      "duration_ms": 137000,
+      "name": "Emerald",
+      "url": "https://open.spotify.com/track/0OpKRZqOmoSCtjfpkOa6Ew"
     },
     {
       "added_at": "2024-02-13 10:03:29",
@@ -927,22 +943,6 @@
     {
       "added_at": "2024-02-13 10:03:29",
       "album": {
-        "name": "Emerald",
-        "url": "https://open.spotify.com/album/68F0SS9ueRjE4NUhAReYDE"
-      },
-      "artists": [
-        {
-          "name": "Agatha Messina",
-          "url": "https://open.spotify.com/artist/286xUM2HNGoiq5B1ym9cMI"
-        }
-      ],
-      "duration_ms": 137000,
-      "name": "Emerald",
-      "url": "https://open.spotify.com/track/0OpKRZqOmoSCtjfpkOa6Ew"
-    },
-    {
-      "added_at": "2024-02-13 10:03:29",
-      "album": {
         "name": "Peaceful Rebellion",
         "url": "https://open.spotify.com/album/57Pg8ejZM8WiXzduIW1SXI"
       },
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-02-13 10:03:29",
       "album": {
-        "name": "85mm",
-        "url": "https://open.spotify.com/album/2WBVYJgZDu0sU46CakgquV"
-      },
-      "artists": [
-        {
-          "name": "Ludovico Einaudi",
-          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
-        }
-      ],
-      "duration_ms": 179123,
-      "name": "85mm",
-      "url": "https://open.spotify.com/track/0QXXalGnUnollbhAscrpy3"
-    },
-    {
-      "added_at": "2024-02-13 10:03:29",
-      "album": {
         "name": "Ripples of Moonlight",
         "url": "https://open.spotify.com/album/3Kwj5lCmfovJVt9qjVT6VY"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 131551,
       "name": "Ripples of Moonlight",
       "url": "https://open.spotify.com/track/7bpquLnlXXBPG7VsR0QKM1"
+    },
+    {
+      "added_at": "2024-02-13 10:03:29",
+      "album": {
+        "name": "85mm",
+        "url": "https://open.spotify.com/album/2WBVYJgZDu0sU46CakgquV"
+      },
+      "artists": [
+        {
+          "name": "Ludovico Einaudi",
+          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
+        }
+      ],
+      "duration_ms": 179123,
+      "name": "85mm",
+      "url": "https://open.spotify.com/track/0QXXalGnUnollbhAscrpy3"
     },
     {
       "added_at": "2024-02-13 10:03:29",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-02-13 10:03:29",
       "album": {
-        "name": "The Beginning",
-        "url": "https://open.spotify.com/album/4Y5btjkWzLtRnCvZZxxaDA"
-      },
-      "artists": [
-        {
-          "name": "Lexi Bradley",
-          "url": "https://open.spotify.com/artist/1CvuYflvQR5lwg1WzrhKAm"
-        }
-      ],
-      "duration_ms": 124500,
-      "name": "The Beginning",
-      "url": "https://open.spotify.com/track/29cTQB5qtEyaazYqjfVIt3"
-    },
-    {
-      "added_at": "2024-02-13 10:03:29",
-      "album": {
         "name": "Along dammed rivers",
         "url": "https://open.spotify.com/album/4p7zwsvBIehxETxwBLgRSK"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 135310,
       "name": "Along dammed rivers",
       "url": "https://open.spotify.com/track/74kSL8wn4qNOURsSpye78o"
+    },
+    {
+      "added_at": "2024-02-13 10:03:29",
+      "album": {
+        "name": "The Beginning",
+        "url": "https://open.spotify.com/album/4Y5btjkWzLtRnCvZZxxaDA"
+      },
+      "artists": [
+        {
+          "name": "Lexi Bradley",
+          "url": "https://open.spotify.com/artist/1CvuYflvQR5lwg1WzrhKAm"
+        }
+      ],
+      "duration_ms": 124500,
+      "name": "The Beginning",
+      "url": "https://open.spotify.com/track/29cTQB5qtEyaazYqjfVIt3"
     },
     {
       "added_at": "2024-02-13 10:03:29",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-02-13 10:03:29",
       "album": {
-        "name": "Everyday",
-        "url": "https://open.spotify.com/album/6wtmiUX46vgAtAZ64UHtK2"
-      },
-      "artists": [
-        {
-          "name": "Hans Bukowski",
-          "url": "https://open.spotify.com/artist/3Vc2GbgFE5kQCvG6Td2vDi"
-        }
-      ],
-      "duration_ms": 139250,
-      "name": "Everyday",
-      "url": "https://open.spotify.com/track/3ljvffjEqf4o0gvOcvxF4O"
-    },
-    {
-      "added_at": "2024-02-13 10:03:29",
-      "album": {
         "name": "Night Solace",
         "url": "https://open.spotify.com/album/3XBvc453nHdxoK0PYyOouF"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 161469,
       "name": "Night Solace",
       "url": "https://open.spotify.com/track/4Z94Nth1RThACL5ohW5xpy"
+    },
+    {
+      "added_at": "2024-02-13 10:03:29",
+      "album": {
+        "name": "Everyday",
+        "url": "https://open.spotify.com/album/6wtmiUX46vgAtAZ64UHtK2"
+      },
+      "artists": [
+        {
+          "name": "Hans Bukowski",
+          "url": "https://open.spotify.com/artist/3Vc2GbgFE5kQCvG6Td2vDi"
+        }
+      ],
+      "duration_ms": 139250,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/3ljvffjEqf4o0gvOcvxF4O"
     },
     {
       "added_at": "2024-02-13 10:03:29",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2024-02-13 10:03:29",
       "album": {
+        "name": "Metanoia",
+        "url": "https://open.spotify.com/album/1CiQYlksvhi8cgPaFno6kl"
+      },
+      "artists": [
+        {
+          "name": "Constance Lucas",
+          "url": "https://open.spotify.com/artist/3xe11Jl7vdO7Py3udTGzWq"
+        }
+      ],
+      "duration_ms": 141971,
+      "name": "Metanoia",
+      "url": "https://open.spotify.com/track/5fRCo9FZmnE92j7BnY3Win"
+    },
+    {
+      "added_at": "2024-02-13 10:03:29",
+      "album": {
         "name": "Pyramidale",
         "url": "https://open.spotify.com/album/2ZXnb9NFeJnwzW0wQ4jY8A"
       },
@@ -1307,38 +1323,6 @@
       "duration_ms": 176500,
       "name": "Pyramidale",
       "url": "https://open.spotify.com/track/2ECCRffnbDdRXwbkfBPTzP"
-    },
-    {
-      "added_at": "2024-02-13 10:03:29",
-      "album": {
-        "name": "Flock of birds",
-        "url": "https://open.spotify.com/album/05KODFYK497NNmTs0ZW9xx"
-      },
-      "artists": [
-        {
-          "name": "Skye High",
-          "url": "https://open.spotify.com/artist/3DGbJwTEqE5CuLnxk0KI5l"
-        }
-      ],
-      "duration_ms": 182613,
-      "name": "Flock of birds",
-      "url": "https://open.spotify.com/track/1IX1OcHSP4orBnAijqa7gT"
-    },
-    {
-      "added_at": "2024-02-13 10:03:29",
-      "album": {
-        "name": "Return To Le Berry",
-        "url": "https://open.spotify.com/album/6NSObXFjmErUsJ4FA5kGqM"
-      },
-      "artists": [
-        {
-          "name": "Jordi Forni\u00e9s",
-          "url": "https://open.spotify.com/artist/2XpDoARX6IQRx9w19lO62x"
-        }
-      ],
-      "duration_ms": 165826,
-      "name": "Return To Le Berry",
-      "url": "https://open.spotify.com/track/5CLTDDnoA0QbcKKIwpEDDa"
     },
     {
       "added_at": "2024-02-13 10:03:29",
@@ -1359,18 +1343,34 @@
     {
       "added_at": "2024-02-13 10:03:29",
       "album": {
-        "name": "Metanoia",
-        "url": "https://open.spotify.com/album/1CiQYlksvhi8cgPaFno6kl"
+        "name": "Return To Le Berry",
+        "url": "https://open.spotify.com/album/6NSObXFjmErUsJ4FA5kGqM"
       },
       "artists": [
         {
-          "name": "Constance Lucas",
-          "url": "https://open.spotify.com/artist/3xe11Jl7vdO7Py3udTGzWq"
+          "name": "Jordi Forni\u00e9s",
+          "url": "https://open.spotify.com/artist/2XpDoARX6IQRx9w19lO62x"
         }
       ],
-      "duration_ms": 141971,
-      "name": "Metanoia",
-      "url": "https://open.spotify.com/track/5fRCo9FZmnE92j7BnY3Win"
+      "duration_ms": 165826,
+      "name": "Return To Le Berry",
+      "url": "https://open.spotify.com/track/5CLTDDnoA0QbcKKIwpEDDa"
+    },
+    {
+      "added_at": "2024-02-13 10:03:29",
+      "album": {
+        "name": "Flock of birds",
+        "url": "https://open.spotify.com/album/05KODFYK497NNmTs0ZW9xx"
+      },
+      "artists": [
+        {
+          "name": "Skye High",
+          "url": "https://open.spotify.com/artist/3DGbJwTEqE5CuLnxk0KI5l"
+        }
+      ],
+      "duration_ms": 182613,
+      "name": "Flock of birds",
+      "url": "https://open.spotify.com/track/1IX1OcHSP4orBnAijqa7gT"
     },
     {
       "added_at": "2024-02-13 10:03:29",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2024-02-13 10:03:29",
       "album": {
-        "name": "Sonnenkind",
-        "url": "https://open.spotify.com/album/0hTN8NbBKPGhbtUSrCzLgj"
-      },
-      "artists": [
-        {
-          "name": "Ludwig Bern",
-          "url": "https://open.spotify.com/artist/3CTqF5KWRHPvxA8SMgxHNA"
-        }
-      ],
-      "duration_ms": 148770,
-      "name": "Falke",
-      "url": "https://open.spotify.com/track/6b5jWO1oYGUG7LKNJ07De4"
-    },
-    {
-      "added_at": "2024-02-13 10:03:29",
-      "album": {
         "name": "Secrets of the Earth",
         "url": "https://open.spotify.com/album/181sKloKYO9iKWM50ldXbK"
       },
@@ -1611,6 +1595,26 @@
       "duration_ms": 144530,
       "name": "Secrets of the Earth",
       "url": "https://open.spotify.com/track/2ebLKk0oGuiVzJz9JCXnVs"
+    },
+    {
+      "added_at": "2024-02-13 10:03:29",
+      "album": {
+        "name": "Secret Language (Solo Piano Version)",
+        "url": "https://open.spotify.com/album/1FDrPTALSqfWClwFePUBkJ"
+      },
+      "artists": [
+        {
+          "name": "Sonny Santos",
+          "url": "https://open.spotify.com/artist/61rw2tGmDJZcFrMO638UXS"
+        },
+        {
+          "name": "Sarah Watson",
+          "url": "https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0"
+        }
+      ],
+      "duration_ms": 157521,
+      "name": "Secret Language (Solo Piano Version)",
+      "url": "https://open.spotify.com/track/1PZaY3NrqUG03f3QworoZL"
     }
   ],
   "unique_name": "Foco no Estudo",

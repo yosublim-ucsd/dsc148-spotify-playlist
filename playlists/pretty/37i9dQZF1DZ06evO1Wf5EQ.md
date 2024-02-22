@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Wf5EQ.md) - [plain]
 
 > This is Carlos Rafael Rivera\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 416 likes - 25 songs - 41 min 52 sec
+[Spotify](https://open.spotify.com/user/spotify) - 417 likes - 25 songs - 41 min 52 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Wf5EQ.md) - [plain]
 | 24 | [Quinn Persiste](https://open.spotify.com/track/1VzTxjZoXavQIzjt299tQE) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Chupa \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/6GGqqXXRUwPfbkLaUD65mm) | 1:03 |
 | 25 | [Levantate Abuelo](https://open.spotify.com/track/122XzF89QhYoZkPIj5p53f) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Chupa \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/6GGqqXXRUwPfbkLaUD65mm) | 0:58 |
 
-Snapshot ID: `Mjg0NzQxMzEsMDAwMDAwMDA0ODgzY2M2OWFmZTE1ZWRlN2NiOTdjY2U4YWI3NjY2Mw==`
+Snapshot ID: `Mjg0NzUyOTAsMDAwMDAwMDA0NDQ5MDM1MzYwYWQzOWQ5YTIxNWY0YzY1ZDdhMjZlZQ==`

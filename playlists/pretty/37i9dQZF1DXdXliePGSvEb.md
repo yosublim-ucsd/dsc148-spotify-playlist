@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 
 > Our favorite electronic songs from around the world this year\. Cover: Jungle
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,674 likes - 75 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,696 likes - 75 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 | 32 | [Burn Dem Bridges \- Nia Archives Edit](https://open.spotify.com/track/7jOMGubGp37qGAnsCdztCn) | [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Burn Dem Bridges \(Nia Archives Edit\)](https://open.spotify.com/album/0trpgSYjPsFpnsjxD7FAIM) | 2:27 |
 | 33 | [When the Lights Go Out](https://open.spotify.com/track/51T5k0OjVZE6d8O1UwTU7W) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM), [braev](https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS) | [When the Lights Go Out](https://open.spotify.com/album/1L7MYLhgLH4LAevJrd0OJx) | 3:41 |
 | 34 | [Don't Let Go](https://open.spotify.com/track/6IKgXtJX61K7kByC3ZTRWM) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 4:29 |
-| 35 | [Simply Won't Do](https://open.spotify.com/track/6q41rWOFtGs0K63lm0tAPa) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Alchemy](https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71) | 3:26 |
-| 36 | [You](https://open.spotify.com/track/0qjYHI9np3bsH5tr0tX2Pk) | [Flansie](https://open.spotify.com/artist/2BArfYNHUsUFaABc7WzoSI), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [You](https://open.spotify.com/album/0Gc4oCJpqyp7D2OchNftc1) | 4:06 |
+| 35 | [You](https://open.spotify.com/track/0qjYHI9np3bsH5tr0tX2Pk) | [Flansie](https://open.spotify.com/artist/2BArfYNHUsUFaABc7WzoSI), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [You](https://open.spotify.com/album/0Gc4oCJpqyp7D2OchNftc1) | 4:06 |
+| 36 | [Simply Won't Do](https://open.spotify.com/track/6q41rWOFtGs0K63lm0tAPa) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Alchemy](https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71) | 3:26 |
 | 37 | [Rose Rouge](https://open.spotify.com/track/6XM6FI6rPJBnhoF6heNHeN) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg) | [Rose Rouge](https://open.spotify.com/album/7DodMymoQ0sFG6baosag8D) | 4:37 |
 | 38 | [Dreamcast](https://open.spotify.com/track/4B7Hi7TY2Bl76SI3tojI5e) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Dreamcast](https://open.spotify.com/album/56QCxS7cxFlJqLNnsmAoqF) | 5:25 |
 | 39 | [No Reason](https://open.spotify.com/track/70JiPk5FBlc6eymIcHPCxU) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [No Reason](https://open.spotify.com/album/0noR7T69B8RDZ71B5VIIrt) | 4:00 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 | 47 | [El Tiempo](https://open.spotify.com/track/3gqn5ShJpp0VTnPNzpdfJi) | [Grigoré](https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX) | [Combinations EP](https://open.spotify.com/album/7qrdnd3NoxZwClPen84lC9) | 6:11 |
 | 48 | [Sunrise Bang Ur Head Against Tha Wall](https://open.spotify.com/track/3tZKrJ0EznJE4e5cn41Dfz) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Sunrise Bang Ur Head Against Tha Wall](https://open.spotify.com/album/4NDtzV15CP0IYfSgv4bAOK) | 2:30 |
 | 49 | [Time Machine](https://open.spotify.com/track/2W95I0bLSIEyuMepqUO522) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey) | [Time Machine](https://open.spotify.com/album/4N3tw2C89vya0RGo6P7g84) | 4:31 |
-| 50 | [Madres](https://open.spotify.com/track/3oZOhcGFBx5AdxDmpp209k) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Madres](https://open.spotify.com/album/72c0drLnTHGgihMXP0TXU5) | 3:56 |
-| 51 | [Little Miss Dynamite](https://open.spotify.com/track/0UgyZoaRyRZ8NSiAF8RIiz) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [A Mixtape by Anish Kumar](https://open.spotify.com/album/2FKcfRXY5LYv0pALiLRh3g) | 3:14 |
+| 50 | [Little Miss Dynamite](https://open.spotify.com/track/0UgyZoaRyRZ8NSiAF8RIiz) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [A Mixtape by Anish Kumar](https://open.spotify.com/album/2FKcfRXY5LYv0pALiLRh3g) | 3:14 |
+| 51 | [Madres](https://open.spotify.com/track/3oZOhcGFBx5AdxDmpp209k) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Madres](https://open.spotify.com/album/72c0drLnTHGgihMXP0TXU5) | 3:56 |
 | 52 | [The One](https://open.spotify.com/track/1HEAdiEtqfNwRiWLBflKgn) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [The One](https://open.spotify.com/album/2L9IJGseRrMNGLg8eqzAzv) | 5:01 |
 | 53 | [Scars](https://open.spotify.com/track/3LzXNblYTky3isOztnWqcz) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Guy](https://open.spotify.com/album/1yGK2fGDPhaZ3O9AhGrkRS) | 2:58 |
 | 54 | [Everything I Do](https://open.spotify.com/track/6xIavZrzwKrMN8glvjCj1O) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu), [Denham Audio](https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1) | [Everything I Do](https://open.spotify.com/album/7DWDzLGhYO99yvQzk5kSJc) | 3:14 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 | 74 | [Monica Vitti](https://open.spotify.com/track/7bIqHtObwmyE16EazeXHWa) | [Giulia Tess](https://open.spotify.com/artist/1DIRMEtLvteuZfHcKgwQX3) | [Vista Mare Forever](https://open.spotify.com/album/6s7TqgQdz4A8Ghx0dXsxqW) | 4:34 |
 | 75 | [The Good, the Bad & the Acid](https://open.spotify.com/track/3ikwLYbhR3cq8Wej3RXETZ) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [The Good, the Bad & the Acid](https://open.spotify.com/album/38nTiPUbeQQPMiEd0ITxGi) | 5:49 |
 
-Snapshot ID: `MCw3MzJhMTIzODkwZDU1OWNmNDZmOTgzZjEzYTEyMDkyMmYwYmMwMjM5`
+Snapshot ID: `MCxmZjc2YmU2NGQwMWJkMWFlMjNjZWM3ZjMxM2E5ZjIyZDQwOWRmOGVh`

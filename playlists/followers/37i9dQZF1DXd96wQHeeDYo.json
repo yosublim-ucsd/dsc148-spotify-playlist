@@ -1,5 +1,5 @@
 {
-  "2024-02-21": 72552,
+  "2024-02-22": 72564,
   "date_first_scraped": "2023-12-14",
   "description": "Tu t\u00e1ta tu tat\u00e1... el beat funk de Brasil para el mundo. Baile bonitoooo Foto: Bibi Babydoll",
   "name": "es funk y el cuerpo lo sabe \ud83c\udde7\ud83c\uddf7",
@@ -95,10 +95,36 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 129776,
       "name": "Automotivo Bibi Fogosa",
       "url": "https://open.spotify.com/track/4kRLRWnn5u9wO2wOKAAdEN"
+    },
+    {
+      "album": {
+        "name": "Automotivo Bibi Fogosa",
+        "url": "https://open.spotify.com/album/5YHGz0NvgBlhKefmyhP9zO"
+      },
+      "artists": [
+        {
+          "name": "Bibi Babydoll",
+          "url": "https://open.spotify.com/artist/6R26kGib2ubbZJMh7kKVGV"
+        },
+        {
+          "name": "Dj Brunin XM",
+          "url": "https://open.spotify.com/artist/6MSMZkBlZT4vhQmjO5Ynv3"
+        },
+        {
+          "name": "KZA Produ\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/1rRhJIu1ufxCjbmMWon6ax"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129798,
+      "name": "Automotivo Bibi Fogosa",
+      "url": "https://open.spotify.com/track/2JIzOc3HHo4MhiyZzhpBUV"
     },
     {
       "album": {

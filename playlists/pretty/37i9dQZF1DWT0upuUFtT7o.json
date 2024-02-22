@@ -1,12 +1,12 @@
 {
   "description": "The best new indie tracks from independent artists & labels. Updates every Wednesday. Cover: Chezile",
-  "num_followers": 206879,
+  "num_followers": 207114,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZTcwMjA0MDljOWQxOTZlMzEzNTViNjM0NDhiMDE4MDk0YmM4MDI1",
+  "snapshot_id": "MCxhNWQ3MGM5MThjM2NmZTM2Zjk1YjlhM2ZmYTQ1YWU1NzEzNGU3YmVk",
   "tracks": [
     {
       "added_at": "2024-02-14 05:00:00",
@@ -25,6 +25,26 @@
       "url": "https://open.spotify.com/track/5vHRQOgc2tQb4h7KrBQUmS"
     },
     {
+      "added_at": "2024-02-21 05:00:00",
+      "album": {
+        "name": "lose myself in you",
+        "url": "https://open.spotify.com/album/4fo2KoDpmRMoXxveQ1O0CS"
+      },
+      "artists": [
+        {
+          "name": "Abby Roberts",
+          "url": "https://open.spotify.com/artist/11260Smss09lExMicvRPeO"
+        },
+        {
+          "name": "re6ce",
+          "url": "https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK"
+        }
+      ],
+      "duration_ms": 198533,
+      "name": "lose myself in you",
+      "url": "https://open.spotify.com/track/6GpSWcqSaXWNKK5j7LI4Kl"
+    },
+    {
       "added_at": "2024-02-14 05:00:00",
       "album": {
         "name": "Monochrome",
@@ -41,20 +61,20 @@
       "url": "https://open.spotify.com/track/5LEMdVviumJLxbRP1e53FL"
     },
     {
-      "added_at": "2024-02-14 05:00:00",
+      "added_at": "2024-02-21 05:00:00",
       "album": {
-        "name": "Bad Parts",
-        "url": "https://open.spotify.com/album/0yIP1cfqa0I2SY5erTNZ4a"
+        "name": "Next Time",
+        "url": "https://open.spotify.com/album/4cDkVp1F4MoDk14LiUQzZV"
       },
       "artists": [
         {
-          "name": "Jack Boyd",
-          "url": "https://open.spotify.com/artist/7riSp70grwJBgN0Kn5OqIw"
+          "name": "Sydney Ross Mitchell",
+          "url": "https://open.spotify.com/artist/6ehbjKYJwaDdHpiw52vdGr"
         }
       ],
-      "duration_ms": 177295,
-      "name": "Pisces 2",
-      "url": "https://open.spotify.com/track/4eKdnaQERFG2KN9BW9Q1nR"
+      "duration_ms": 178180,
+      "name": "Next Time",
+      "url": "https://open.spotify.com/track/2JfSHrsOnxzDUZptyH31DL"
     },
     {
       "added_at": "2024-02-14 05:00:00",
@@ -73,36 +93,20 @@
       "url": "https://open.spotify.com/track/1jGXdyuVnBiIiNUHD4q7Ra"
     },
     {
-      "added_at": "2024-02-14 05:00:00",
+      "added_at": "2024-02-21 05:00:00",
       "album": {
-        "name": "Kirkland",
-        "url": "https://open.spotify.com/album/4sMdjdYH7jx47MW2xoq04L"
+        "name": "Angel Baby",
+        "url": "https://open.spotify.com/album/7kLZSaOb6EwfZ3gj7ynwQR"
       },
       "artists": [
         {
-          "name": "Max Leone",
-          "url": "https://open.spotify.com/artist/4VrJDwgmhD1aIenZwn7JpE"
+          "name": "Suzie True",
+          "url": "https://open.spotify.com/artist/4COdM5vE5byEogAXp1cghR"
         }
       ],
-      "duration_ms": 166761,
-      "name": "Kirkland",
-      "url": "https://open.spotify.com/track/4OxjnvgN5wtUNALPUPIyAz"
-    },
-    {
-      "added_at": "2024-02-14 05:00:00",
-      "album": {
-        "name": "ghost",
-        "url": "https://open.spotify.com/album/48Qt5QQVuP7E39iJw2Nfni"
-      },
-      "artists": [
-        {
-          "name": "Sierra Spirit",
-          "url": "https://open.spotify.com/artist/1IpkMILxQQ6fXFxHsolyFR"
-        }
-      ],
-      "duration_ms": 152998,
-      "name": "ghost",
-      "url": "https://open.spotify.com/track/0JKJhT8xLUbkBSglfIm8nP"
+      "duration_ms": 213890,
+      "name": "Angel Baby",
+      "url": "https://open.spotify.com/track/2rQ21Ja2Pg3O88NGFEC9v3"
     },
     {
       "added_at": "2024-02-20 20:53:58",
@@ -137,6 +141,166 @@
       "url": "https://open.spotify.com/track/2NlxHzUzAHhNcZdaOEuLzq"
     },
     {
+      "added_at": "2024-02-21 05:00:00",
+      "album": {
+        "name": "My Own Mess",
+        "url": "https://open.spotify.com/album/5mp3KxReZ08V8JP5HxOfEe"
+      },
+      "artists": [
+        {
+          "name": "lake j",
+          "url": "https://open.spotify.com/artist/6qkkqxyqLSZHoeimJ7XwQe"
+        }
+      ],
+      "duration_ms": 226270,
+      "name": "My Own Mess",
+      "url": "https://open.spotify.com/track/6plytfUC3sPLEIRYJPZGt7"
+    },
+    {
+      "added_at": "2024-02-14 05:00:00",
+      "album": {
+        "name": "Kirkland",
+        "url": "https://open.spotify.com/album/4sMdjdYH7jx47MW2xoq04L"
+      },
+      "artists": [
+        {
+          "name": "Max Leone",
+          "url": "https://open.spotify.com/artist/4VrJDwgmhD1aIenZwn7JpE"
+        }
+      ],
+      "duration_ms": 166761,
+      "name": "Kirkland",
+      "url": "https://open.spotify.com/track/4OxjnvgN5wtUNALPUPIyAz"
+    },
+    {
+      "added_at": "2024-02-21 05:00:00",
+      "album": {
+        "name": "Ego",
+        "url": "https://open.spotify.com/album/6a51W0b5pxwJZOEvVGIyWm"
+      },
+      "artists": [
+        {
+          "name": "Paige Fish",
+          "url": "https://open.spotify.com/artist/10djoaqJLN6H4oORnKJ63P"
+        }
+      ],
+      "duration_ms": 223636,
+      "name": "Ego",
+      "url": "https://open.spotify.com/track/7dHzPI3YRolg60tFHtTydt"
+    },
+    {
+      "added_at": "2024-02-21 05:00:00",
+      "album": {
+        "name": "Drifting",
+        "url": "https://open.spotify.com/album/2JCfufabmLxc8jj3S4GHmt"
+      },
+      "artists": [
+        {
+          "name": "Jacklen Ro",
+          "url": "https://open.spotify.com/artist/02V9xHLkyNSvfSbJka7HhX"
+        }
+      ],
+      "duration_ms": 201366,
+      "name": "Drifting",
+      "url": "https://open.spotify.com/track/5sPJnf2B7EGj4eyo3sGslE"
+    },
+    {
+      "added_at": "2024-02-21 05:00:00",
+      "album": {
+        "name": "Our Love Was Fading",
+        "url": "https://open.spotify.com/album/2SBwUD1kcaLVMgC4ykLQHS"
+      },
+      "artists": [
+        {
+          "name": "Fetch Tiger",
+          "url": "https://open.spotify.com/artist/2Oj1K4H1MalhAhBvuT48ts"
+        }
+      ],
+      "duration_ms": 239462,
+      "name": "Our Love Was Fading",
+      "url": "https://open.spotify.com/track/57S2nF6YymIpqHGICiWLeZ"
+    },
+    {
+      "added_at": "2024-02-14 05:00:00",
+      "album": {
+        "name": "Bad Parts",
+        "url": "https://open.spotify.com/album/0yIP1cfqa0I2SY5erTNZ4a"
+      },
+      "artists": [
+        {
+          "name": "Jack Boyd",
+          "url": "https://open.spotify.com/artist/7riSp70grwJBgN0Kn5OqIw"
+        }
+      ],
+      "duration_ms": 177295,
+      "name": "Pisces 2",
+      "url": "https://open.spotify.com/track/4eKdnaQERFG2KN9BW9Q1nR"
+    },
+    {
+      "added_at": "2024-02-14 05:00:00",
+      "album": {
+        "name": "ghost",
+        "url": "https://open.spotify.com/album/48Qt5QQVuP7E39iJw2Nfni"
+      },
+      "artists": [
+        {
+          "name": "Sierra Spirit",
+          "url": "https://open.spotify.com/artist/1IpkMILxQQ6fXFxHsolyFR"
+        }
+      ],
+      "duration_ms": 152998,
+      "name": "ghost",
+      "url": "https://open.spotify.com/track/0JKJhT8xLUbkBSglfIm8nP"
+    },
+    {
+      "added_at": "2024-02-21 05:00:00",
+      "album": {
+        "name": "Inaka",
+        "url": "https://open.spotify.com/album/5ybEeQKYsEErgNZnxPqn4B"
+      },
+      "artists": [
+        {
+          "name": "Mei Semones",
+          "url": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR"
+        }
+      ],
+      "duration_ms": 185115,
+      "name": "Inaka",
+      "url": "https://open.spotify.com/track/0DRjfY5KFcuD53IcGvfawC"
+    },
+    {
+      "added_at": "2024-02-21 05:00:00",
+      "album": {
+        "name": "The Dove",
+        "url": "https://open.spotify.com/album/01katMj01lqGHr0lDrEWYq"
+      },
+      "artists": [
+        {
+          "name": "After",
+          "url": "https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li"
+        }
+      ],
+      "duration_ms": 181333,
+      "name": "The Dove",
+      "url": "https://open.spotify.com/track/5Y1oSRH425pZciPpXqZE1r"
+    },
+    {
+      "added_at": "2024-02-21 05:00:00",
+      "album": {
+        "name": "Brand New",
+        "url": "https://open.spotify.com/album/0bj9Srcu7R3APWXFgk174b"
+      },
+      "artists": [
+        {
+          "name": "VARIATION",
+          "url": "https://open.spotify.com/artist/3hhVQqcfWUdTkrDMhnIRpO"
+        }
+      ],
+      "duration_ms": 198260,
+      "name": "Brand New",
+      "url": "https://open.spotify.com/track/7hB2CDiCrDvWkAUQVzNB72"
+    },
+    {
       "added_at": "2024-02-07 05:00:00",
       "album": {
         "name": "Synthetic Flowers For A Romantic Comedy",
@@ -169,6 +333,22 @@
       "url": "https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK"
     },
     {
+      "added_at": "2024-02-21 05:00:00",
+      "album": {
+        "name": "HIGH LIFE",
+        "url": "https://open.spotify.com/album/6nMHJT2PM6gLLsCygd9FKh"
+      },
+      "artists": [
+        {
+          "name": "Daniel Ellsworth & The Great Lakes",
+          "url": "https://open.spotify.com/artist/6wdFLynBtY9Ee5UV8NUJj0"
+        }
+      ],
+      "duration_ms": 180141,
+      "name": "NIGHT_2_GOLD",
+      "url": "https://open.spotify.com/track/0llf1MxisU7j3DXIypuTyc"
+    },
+    {
       "added_at": "2024-02-14 05:00:00",
       "album": {
         "name": "Gold Control",
@@ -183,6 +363,22 @@
       "duration_ms": 240558,
       "name": "Fade and Fading",
       "url": "https://open.spotify.com/track/740vuzO9W1FKZXO9Kf9jvP"
+    },
+    {
+      "added_at": "2024-02-21 05:00:00",
+      "album": {
+        "name": "NYC",
+        "url": "https://open.spotify.com/album/68LQAWu2yYJ09PiPSGh4rG"
+      },
+      "artists": [
+        {
+          "name": "Las Los",
+          "url": "https://open.spotify.com/artist/3WqvmoaOxt3SeGPoEew1L1"
+        }
+      ],
+      "duration_ms": 219680,
+      "name": "NYC",
+      "url": "https://open.spotify.com/track/0BdJW0Js73JMsJFyiRhDsf"
     },
     {
       "added_at": "2024-02-07 05:00:00",
@@ -201,6 +397,22 @@
       "url": "https://open.spotify.com/track/6vfJ8MiERPMLsI0g0LQfUt"
     },
     {
+      "added_at": "2024-02-21 05:00:00",
+      "album": {
+        "name": "My World",
+        "url": "https://open.spotify.com/album/7wSVo97M1Tx566ikQ9BH71"
+      },
+      "artists": [
+        {
+          "name": "Taraneh",
+          "url": "https://open.spotify.com/artist/7IoTiUNmwPOdUCPlNtezaO"
+        }
+      ],
+      "duration_ms": 153857,
+      "name": "My World",
+      "url": "https://open.spotify.com/track/0ZkSZo3KfEmWDVRQfkcurd"
+    },
+    {
       "added_at": "2024-02-14 05:00:00",
       "album": {
         "name": "22-25",
@@ -215,6 +427,22 @@
       "duration_ms": 205000,
       "name": "Sex Sells",
       "url": "https://open.spotify.com/track/3hWYFYdFGMv14V5ZdVcS92"
+    },
+    {
+      "added_at": "2024-02-21 05:00:00",
+      "album": {
+        "name": "Bubble Bath",
+        "url": "https://open.spotify.com/album/1xuThITWHkINezQf4Xkj2v"
+      },
+      "artists": [
+        {
+          "name": "Leith",
+          "url": "https://open.spotify.com/artist/6NloIpzx0PEcGY2NJVVjc1"
+        }
+      ],
+      "duration_ms": 176880,
+      "name": "Bubble Bath",
+      "url": "https://open.spotify.com/track/20YR9nQbpzkgu8unaM5daZ"
     },
     {
       "added_at": "2024-02-07 05:00:00",
@@ -1383,26 +1611,6 @@
     {
       "added_at": "2024-01-17 17:00:00",
       "album": {
-        "name": "Tell Me About It",
-        "url": "https://open.spotify.com/album/6VSG0hjL7YhTSPcCmtuZR8"
-      },
-      "artists": [
-        {
-          "name": "Whitelands",
-          "url": "https://open.spotify.com/artist/4B9oWJTIts1eOPLGKy4mro"
-        },
-        {
-          "name": "deary",
-          "url": "https://open.spotify.com/artist/5Pir3nnrulz7WMyC9bFhkL"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Tell Me About It",
-      "url": "https://open.spotify.com/track/2NwTjLimau0whgmUC18wSU"
-    },
-    {
-      "added_at": "2024-01-17 17:00:00",
-      "album": {
         "name": "Baggage",
         "url": "https://open.spotify.com/album/5Bf4XBYCI8Bo9GLHCaNoBR"
       },
@@ -1415,22 +1623,6 @@
       "duration_ms": 292000,
       "name": "Baggage",
       "url": "https://open.spotify.com/track/6sENeBQkymXyZDmwSXUVFS"
-    },
-    {
-      "added_at": "2024-01-17 17:00:00",
-      "album": {
-        "name": "Supernatural",
-        "url": "https://open.spotify.com/album/0NIqLdZS16xSe11Tk1gabP"
-      },
-      "artists": [
-        {
-          "name": "Vaughn",
-          "url": "https://open.spotify.com/artist/6V2CwJ2e1JOQLKlrFXJ259"
-        }
-      ],
-      "duration_ms": 241985,
-      "name": "Supernatural",
-      "url": "https://open.spotify.com/track/5uwlYbJ8xovXnbTL0TaItp"
     },
     {
       "added_at": "2024-01-10 16:59:16",
@@ -1447,186 +1639,6 @@
       "duration_ms": 168227,
       "name": "Don't",
       "url": "https://open.spotify.com/track/10RehYr3Ci6jeCwwzlwtvC"
-    },
-    {
-      "added_at": "2024-01-17 17:00:00",
-      "album": {
-        "name": "we don't move",
-        "url": "https://open.spotify.com/album/0XDaAj0BLRxre1JAmIu1Vn"
-      },
-      "artists": [
-        {
-          "name": "BADMIND",
-          "url": "https://open.spotify.com/artist/4qTKTDRcMPtnohoWWR1oX9"
-        }
-      ],
-      "duration_ms": 160258,
-      "name": "we don't move",
-      "url": "https://open.spotify.com/track/4waAiItUduog4VPo0BAQEx"
-    },
-    {
-      "added_at": "2024-01-10 16:59:16",
-      "album": {
-        "name": "Orange Squeeez",
-        "url": "https://open.spotify.com/album/23BTek7q5nyuhDsTcVdu2B"
-      },
-      "artists": [
-        {
-          "name": "Orange House",
-          "url": "https://open.spotify.com/artist/1PslRfYqNE2oXlbe0hD8XX"
-        }
-      ],
-      "duration_ms": 193714,
-      "name": "Orange Squeeez",
-      "url": "https://open.spotify.com/track/6IocvbgXz5gecqaraNlfsM"
-    },
-    {
-      "added_at": "2024-01-17 17:00:00",
-      "album": {
-        "name": "Icarus",
-        "url": "https://open.spotify.com/album/2p0rKLNVRJ3DspsjBK8SWf"
-      },
-      "artists": [
-        {
-          "name": "Low Girl",
-          "url": "https://open.spotify.com/artist/2NieKujN76b0pYPpxo79qE"
-        }
-      ],
-      "duration_ms": 199500,
-      "name": "Icarus",
-      "url": "https://open.spotify.com/track/3ce3sMJej1oV7TeSjlxvJK"
-    },
-    {
-      "added_at": "2024-01-17 17:00:00",
-      "album": {
-        "name": "All My Life",
-        "url": "https://open.spotify.com/album/61pQMn4q37JvogvItkByrT"
-      },
-      "artists": [
-        {
-          "name": "boerd",
-          "url": "https://open.spotify.com/artist/5E5cEevLYdQHU04gIkA3ff"
-        },
-        {
-          "name": "Boko Yout",
-          "url": "https://open.spotify.com/artist/4WRA6GylKtbbRMUugHQuxP"
-        }
-      ],
-      "duration_ms": 203478,
-      "name": "All My Life",
-      "url": "https://open.spotify.com/track/4NdL16ojaYmQzy5AQB9ti5"
-    },
-    {
-      "added_at": "2024-01-17 17:00:00",
-      "album": {
-        "name": "Stop & Stare",
-        "url": "https://open.spotify.com/album/1NBIz4sWJZtw76e5D6issj"
-      },
-      "artists": [
-        {
-          "name": "Logan",
-          "url": "https://open.spotify.com/artist/7w8LS5pR81tvDOskUj8x1j"
-        }
-      ],
-      "duration_ms": 156986,
-      "name": "Stop & Stare",
-      "url": "https://open.spotify.com/track/3HQkHblcaWYmYfP1jIRfsj"
-    },
-    {
-      "added_at": "2024-01-17 17:00:00",
-      "album": {
-        "name": "Brick Hill",
-        "url": "https://open.spotify.com/album/7zsR6O8S3HQVXqkgKbK4fi"
-      },
-      "artists": [
-        {
-          "name": "Jupie",
-          "url": "https://open.spotify.com/artist/4AaFbIT8Qzqp6hNP3d4d28"
-        }
-      ],
-      "duration_ms": 149258,
-      "name": "Circle Falls",
-      "url": "https://open.spotify.com/track/5nX6EuwErmNnD5LkzqryZa"
-    },
-    {
-      "added_at": "2024-01-17 17:00:00",
-      "album": {
-        "name": "New Creation Myths",
-        "url": "https://open.spotify.com/album/7mV2bYuVM8WdQPCaa10Yq6"
-      },
-      "artists": [
-        {
-          "name": "Frail Talk",
-          "url": "https://open.spotify.com/artist/7stmp1OR4yaVInBIXIeKBf"
-        }
-      ],
-      "duration_ms": 185002,
-      "name": "Sunday Dreamin'",
-      "url": "https://open.spotify.com/track/5WCPn3XkHCrwJUMc6vSj3X"
-    },
-    {
-      "added_at": "2024-01-17 17:00:00",
-      "album": {
-        "name": "Party",
-        "url": "https://open.spotify.com/album/2njN9U1kX2FzQ3CjsbcIWe"
-      },
-      "artists": [
-        {
-          "name": "veronicavon",
-          "url": "https://open.spotify.com/artist/6qOWi2uVjil54PGcEfdKVZ"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Party",
-      "url": "https://open.spotify.com/track/7igi6HbHaMAne8Hd67EP6E"
-    },
-    {
-      "added_at": "2024-01-17 17:00:00",
-      "album": {
-        "name": "Please Be Careful",
-        "url": "https://open.spotify.com/album/7ryr4h1oUwQiJfvKSFT4Cl"
-      },
-      "artists": [
-        {
-          "name": "Edgar Homeros",
-          "url": "https://open.spotify.com/artist/4j8tcurjLu5pZAi0uogaYg"
-        }
-      ],
-      "duration_ms": 143242,
-      "name": "Please Be Careful",
-      "url": "https://open.spotify.com/track/1QCRcAOltXgDMpMIzg6o78"
-    },
-    {
-      "added_at": "2024-01-17 17:00:00",
-      "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/1fUwGoojsGCHhqBlYBQ8dy"
-      },
-      "artists": [
-        {
-          "name": "Ellur",
-          "url": "https://open.spotify.com/artist/4uG8VYp1GLQpZVokfG2Ui7"
-        }
-      ],
-      "duration_ms": 214358,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/6wV8g1K2bTaGIaX62gUUsd"
-    },
-    {
-      "added_at": "2024-01-17 17:00:00",
-      "album": {
-        "name": "Whole Lotta Nothing",
-        "url": "https://open.spotify.com/album/2pZjqwc0vAhUBINnTmHrd3"
-      },
-      "artists": [
-        {
-          "name": "Ellie Bleach",
-          "url": "https://open.spotify.com/artist/5ahGL7pdoC2nvzna5z5Fz3"
-        }
-      ],
-      "duration_ms": 287500,
-      "name": "Whole Lotta Nothing",
-      "url": "https://open.spotify.com/track/2fJ8qVt2jxBzbJevlnIEvw"
     }
   ],
   "unique_name": "Fresh Finds Indie",

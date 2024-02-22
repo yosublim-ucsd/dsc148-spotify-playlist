@@ -1,5 +1,5 @@
 {
-  "2024-02-21": 252117,
+  "2024-02-22": 252142,
   "date_first_scraped": "2022-06-10",
   "description": "The essential tracks from LiSA. \u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u304b\u3089\u4e16\u754c\u3078\u3068\u7fbd\u3070\u305f\u304f\u6b4c\u59eb\u3001LiSA\u306e\u30aa\u30fc\u30eb\u30bf\u30a4\u30e0\u30fb\u30d9\u30b9\u30c8!",
   "name": "This Is LiSA",
@@ -829,6 +829,24 @@
       "duration_ms": 222699,
       "name": "Headphone Actor",
       "url": "https://open.spotify.com/track/56VTCRO6gYrpICBibMKr7R"
+    },
+    {
+      "album": {
+        "name": "HELLO WORLD",
+        "url": "https://open.spotify.com/album/710djdFa2qcgDZvp8UzqLB"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293013,
+      "name": "HELLO WORLD",
+      "url": "https://open.spotify.com/track/4Fc2uEp6DsKCxWB7day331"
     },
     {
       "album": {

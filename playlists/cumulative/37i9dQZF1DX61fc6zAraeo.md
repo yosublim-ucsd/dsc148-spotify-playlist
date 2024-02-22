@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [AEIOU](https://open.spotify.com/track/5I8YyKG5iIdOiuTFnX9YVC) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [AEIOU](https://open.spotify.com/album/2F00Hw4CHbhTPMeUllX8Oc) | 3:15 | 2024-02-07 |  |
+| [AEIOU](https://open.spotify.com/track/5I8YyKG5iIdOiuTFnX9YVC) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [AEIOU](https://open.spotify.com/album/2F00Hw4CHbhTPMeUllX8Oc) | 3:15 | 2024-02-07 |  |
 | [Afterglow](https://open.spotify.com/track/6ZB01Z7MU4upRj7whEt6Ye) | [Future Class](https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC), [CMC$](https://open.spotify.com/artist/78DWNk8gFHU30TGITAgbM7), [Felix Samuel](https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK) | [Afterglow](https://open.spotify.com/album/5WwGb5jfW9icOphjipRqzG) | 2:32 | 2024-02-07 |  |
 | [All Nighter](https://open.spotify.com/track/3jksOdXCaDXyGiZ7L4YZbp) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [DRIVE](https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74) | 2:14 | 2024-02-07 |  |
 | [All The Things She Said](https://open.spotify.com/track/3a5VAKV2lXI2x2jQEgrX3B) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [All The Things She Said](https://open.spotify.com/album/6RaqLOaAQCJhhhn9xvTT9T) | 2:49 | 2024-02-07 |  |

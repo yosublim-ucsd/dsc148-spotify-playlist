@@ -1,12 +1,12 @@
 {
   "description": "Glitch and giggle with these whimsically warped bouncy bops \ud83e\udd16",
-  "num_followers": 11890,
+  "num_followers": 11897,
   "original_name": "Quirktronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MjNmOTVkMTYyY2Y2NGYxODMyNmQ5ZGQ4NzdmNjgzMmU3ZDMxOWY2",
+  "snapshot_id": "MCwxZDlmN2EzNmQzMDUxYmQyZGE0MTFlYzhhYmM4N2EyYWVlNmUwYTI3",
   "tracks": [
     {
       "added_at": "2023-02-17 01:10:22",
@@ -801,6 +801,22 @@
       "url": "https://open.spotify.com/track/3QPwOGIY2s6Ky6zh5UX0NT"
     },
     {
+      "added_at": "2023-02-17 01:53:11",
+      "album": {
+        "name": "Existenzmaximum - EP",
+        "url": "https://open.spotify.com/album/3NWkkkqOSXEr0w7VS8oLyl"
+      },
+      "artists": [
+        {
+          "name": "Datassette",
+          "url": "https://open.spotify.com/artist/5bTaUOrBY8IWCwW12jCU5U"
+        }
+      ],
+      "duration_ms": 121856,
+      "name": "Mechanical Advantage",
+      "url": "https://open.spotify.com/track/6zTO0Y58ZBd1ZMjH0EIX1X"
+    },
+    {
       "added_at": "2023-02-17 02:19:05",
       "album": {
         "name": "A View of U",
@@ -819,22 +835,6 @@
       "duration_ms": 205784,
       "name": "Sleepy Pietro",
       "url": "https://open.spotify.com/track/0MoeShvEacFvWAROMIfqKz"
-    },
-    {
-      "added_at": "2023-02-17 01:53:11",
-      "album": {
-        "name": "Existenzmaximum - EP",
-        "url": "https://open.spotify.com/album/3NWkkkqOSXEr0w7VS8oLyl"
-      },
-      "artists": [
-        {
-          "name": "Datassette",
-          "url": "https://open.spotify.com/artist/5bTaUOrBY8IWCwW12jCU5U"
-        }
-      ],
-      "duration_ms": 121856,
-      "name": "Mechanical Advantage",
-      "url": "https://open.spotify.com/track/6zTO0Y58ZBd1ZMjH0EIX1X"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -989,38 +989,6 @@
       "url": "https://open.spotify.com/track/0LoinP9A7yG0Irl0evvU2b"
     },
     {
-      "added_at": "2023-08-29 01:12:43",
-      "album": {
-        "name": "Familiar Flavours",
-        "url": "https://open.spotify.com/album/2OJCNJVU3nDjLVV5PzZRCU"
-      },
-      "artists": [
-        {
-          "name": "700 Feel",
-          "url": "https://open.spotify.com/artist/4dyipJdNkRIUS9DrMohalV"
-        }
-      ],
-      "duration_ms": 260202,
-      "name": "Familiar Flavours",
-      "url": "https://open.spotify.com/track/5DahiVparbFG67nqloWPSL"
-    },
-    {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
-        "name": "Isles in Indigo",
-        "url": "https://open.spotify.com/album/2Eb8ILQvNTEJ1JpjxPfHIc"
-      },
-      "artists": [
-        {
-          "name": "RUMTUM",
-          "url": "https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Tropic Air",
-      "url": "https://open.spotify.com/track/2owNgQt1ScFjfm7rjFUEuX"
-    },
-    {
       "added_at": "2023-02-17 02:19:05",
       "album": {
         "name": "Treat Em Right (Boards Of Canada Remix)",
@@ -1043,22 +1011,34 @@
     {
       "added_at": "2023-02-17 01:10:22",
       "album": {
-        "name": "Double Figure",
-        "url": "https://open.spotify.com/album/3194Mf7OpqJqCGJpv9lRFB"
+        "name": "Isles in Indigo",
+        "url": "https://open.spotify.com/album/2Eb8ILQvNTEJ1JpjxPfHIc"
       },
       "artists": [
         {
-          "name": "Plaid",
-          "url": "https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD"
-        },
-        {
-          "name": "Benet Walsh",
-          "url": "https://open.spotify.com/artist/4MqsYgT5rDgG907p84pzIY"
+          "name": "RUMTUM",
+          "url": "https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI"
         }
       ],
-      "duration_ms": 260972,
-      "name": "Eyen",
-      "url": "https://open.spotify.com/track/0w1P0lcWUKniBbJfcz8Hvy"
+      "duration_ms": 224000,
+      "name": "Tropic Air",
+      "url": "https://open.spotify.com/track/2owNgQt1ScFjfm7rjFUEuX"
+    },
+    {
+      "added_at": "2023-08-29 01:12:43",
+      "album": {
+        "name": "Familiar Flavours",
+        "url": "https://open.spotify.com/album/2OJCNJVU3nDjLVV5PzZRCU"
+      },
+      "artists": [
+        {
+          "name": "700 Feel",
+          "url": "https://open.spotify.com/artist/4dyipJdNkRIUS9DrMohalV"
+        }
+      ],
+      "duration_ms": 260202,
+      "name": "Familiar Flavours",
+      "url": "https://open.spotify.com/track/5DahiVparbFG67nqloWPSL"
     },
     {
       "added_at": "2023-02-17 01:53:11",
@@ -1095,6 +1075,26 @@
       "duration_ms": 144000,
       "name": "\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616",
       "url": "https://open.spotify.com/track/0v2kIE5dfrMxQWhfRXWKPp"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "Double Figure",
+        "url": "https://open.spotify.com/album/3194Mf7OpqJqCGJpv9lRFB"
+      },
+      "artists": [
+        {
+          "name": "Plaid",
+          "url": "https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD"
+        },
+        {
+          "name": "Benet Walsh",
+          "url": "https://open.spotify.com/artist/4MqsYgT5rDgG907p84pzIY"
+        }
+      ],
+      "duration_ms": 260972,
+      "name": "Eyen",
+      "url": "https://open.spotify.com/track/0w1P0lcWUKniBbJfcz8Hvy"
     },
     {
       "added_at": "2023-02-17 02:19:05",
@@ -1145,6 +1145,22 @@
       "url": "https://open.spotify.com/track/6IcvrVg1YFoLGH6mcuZtZL"
     },
     {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "Continuous Portrait",
+        "url": "https://open.spotify.com/album/51QtuRQyWyidnzs3ZNVue7"
+      },
+      "artists": [
+        {
+          "name": "Inventions",
+          "url": "https://open.spotify.com/artist/356y23wKxVdd7IowNVCSlW"
+        }
+      ],
+      "duration_ms": 210670,
+      "name": "Outlook for the Future",
+      "url": "https://open.spotify.com/track/0nMswZQeNQF96yypz93dwE"
+    },
+    {
       "added_at": "2023-02-17 02:19:05",
       "album": {
         "name": "Building Blocks, Pt. 5",
@@ -1159,6 +1175,22 @@
       "duration_ms": 280818,
       "name": "The Cheek of Daniel",
       "url": "https://open.spotify.com/track/4dPaLJHdNzdTkzotsNo4Op"
+    },
+    {
+      "added_at": "2023-02-17 02:19:05",
+      "album": {
+        "name": "Polymer",
+        "url": "https://open.spotify.com/album/3U8FaNJ7XTrin6TNwDjuiA"
+      },
+      "artists": [
+        {
+          "name": "Plaid",
+          "url": "https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "Dancers",
+      "url": "https://open.spotify.com/track/258BvHGOVi8YbchiORbR52"
     },
     {
       "added_at": "2023-02-17 01:53:11",
@@ -1183,22 +1215,6 @@
       "duration_ms": 196355,
       "name": "Mahi Mahi",
       "url": "https://open.spotify.com/track/2NUTRCnkJOycn9NR81MeZU"
-    },
-    {
-      "added_at": "2023-02-17 02:19:05",
-      "album": {
-        "name": "Polymer",
-        "url": "https://open.spotify.com/album/3U8FaNJ7XTrin6TNwDjuiA"
-      },
-      "artists": [
-        {
-          "name": "Plaid",
-          "url": "https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD"
-        }
-      ],
-      "duration_ms": 300000,
-      "name": "Dancers",
-      "url": "https://open.spotify.com/track/258BvHGOVi8YbchiORbR52"
     },
     {
       "added_at": "2023-02-17 02:19:05",
@@ -1235,22 +1251,6 @@
       "duration_ms": 266526,
       "name": "Good Places",
       "url": "https://open.spotify.com/track/1Apv5AFp7kIsRwKJYCCY2g"
-    },
-    {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
-        "name": "Continuous Portrait",
-        "url": "https://open.spotify.com/album/51QtuRQyWyidnzs3ZNVue7"
-      },
-      "artists": [
-        {
-          "name": "Inventions",
-          "url": "https://open.spotify.com/artist/356y23wKxVdd7IowNVCSlW"
-        }
-      ],
-      "duration_ms": 210670,
-      "name": "Outlook for the Future",
-      "url": "https://open.spotify.com/track/0nMswZQeNQF96yypz93dwE"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -1337,6 +1337,22 @@
       "url": "https://open.spotify.com/track/4macbsL1U1qhQD9Ixj5OVa"
     },
     {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "Manhattan Research, Inc.",
+        "url": "https://open.spotify.com/album/7ctcZZGbNxjwHb46pMRZ7D"
+      },
+      "artists": [
+        {
+          "name": "Raymond Scott",
+          "url": "https://open.spotify.com/artist/31DffUzogcRBJT3Andaqtt"
+        }
+      ],
+      "duration_ms": 105026,
+      "name": "Night And Day",
+      "url": "https://open.spotify.com/track/7hflY8LpoAi4bUF7hBOWSX"
+    },
+    {
       "added_at": "2023-02-17 01:53:11",
       "album": {
         "name": "The Space Lady's Greatest Hits",
@@ -1351,22 +1367,6 @@
       "duration_ms": 275372,
       "name": "I Had Too Much to Dream Last Night",
       "url": "https://open.spotify.com/track/0z8i5oCBPR9MLFrvxO2JpI"
-    },
-    {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
-        "name": "For Beginner Piano",
-        "url": "https://open.spotify.com/album/2mdkf39z60lelr7zulBMky"
-      },
-      "artists": [
-        {
-          "name": "Plone",
-          "url": "https://open.spotify.com/artist/28HqZ2RaUbI3uewbxWDW41"
-        }
-      ],
-      "duration_ms": 237133,
-      "name": "Plock",
-      "url": "https://open.spotify.com/track/1Oq3hZjG2WWIR2MEqASnNd"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2023-02-17 01:10:22",
       "album": {
-        "name": "Manhattan Research, Inc.",
-        "url": "https://open.spotify.com/album/7ctcZZGbNxjwHb46pMRZ7D"
+        "name": "For Beginner Piano",
+        "url": "https://open.spotify.com/album/2mdkf39z60lelr7zulBMky"
       },
       "artists": [
         {
-          "name": "Raymond Scott",
-          "url": "https://open.spotify.com/artist/31DffUzogcRBJT3Andaqtt"
+          "name": "Plone",
+          "url": "https://open.spotify.com/artist/28HqZ2RaUbI3uewbxWDW41"
         }
       ],
-      "duration_ms": 105026,
-      "name": "Night And Day",
-      "url": "https://open.spotify.com/track/7hflY8LpoAi4bUF7hBOWSX"
+      "duration_ms": 237133,
+      "name": "Plock",
+      "url": "https://open.spotify.com/track/1Oq3hZjG2WWIR2MEqASnNd"
     },
     {
       "added_at": "2023-02-17 01:53:11",
@@ -1421,22 +1421,6 @@
       "url": "https://open.spotify.com/track/4bbC2PWt5QDvICHQBUXyj4"
     },
     {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
-        "name": "Between Voids",
-        "url": "https://open.spotify.com/album/0ledrPUfebeLTGu1Lr4DQE"
-      },
-      "artists": [
-        {
-          "name": "Oils",
-          "url": "https://open.spotify.com/artist/3Q2M9TPSdCOUOw0IStqvdI"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "The Psychedelic One",
-      "url": "https://open.spotify.com/track/4R9SrmMdJK2kQCWuZjzOsg"
-    },
-    {
       "added_at": "2023-02-17 01:53:11",
       "album": {
         "name": "Drunken Clouds",
@@ -1451,6 +1435,22 @@
       "duration_ms": 253701,
       "name": "Drunken Clouds",
       "url": "https://open.spotify.com/track/0JF3Ju6TpQjwnnH10B9kpu"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "Between Voids",
+        "url": "https://open.spotify.com/album/0ledrPUfebeLTGu1Lr4DQE"
+      },
+      "artists": [
+        {
+          "name": "Oils",
+          "url": "https://open.spotify.com/artist/3Q2M9TPSdCOUOw0IStqvdI"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "The Psychedelic One",
+      "url": "https://open.spotify.com/track/4R9SrmMdJK2kQCWuZjzOsg"
     },
     {
       "added_at": "2023-02-17 02:19:05",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-02-17 01:10:22",
       "album": {
-        "name": "Green (SFX Version)",
-        "url": "https://open.spotify.com/album/6viDcqQjEZbYDCxomxO18w"
-      },
-      "artists": [
-        {
-          "name": "Hiroshi Yoshimura",
-          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
-        }
-      ],
-      "duration_ms": 321666,
-      "name": "GREEN",
-      "url": "https://open.spotify.com/track/4MoCSvcnlRpfMXUAd65LAB"
-    },
-    {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
         "name": "caso de estudio",
         "url": "https://open.spotify.com/album/7k3qFMpJYBXVg4x634Aopp"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 225822,
       "name": "to all the plants i loved",
       "url": "https://open.spotify.com/track/6lvQXM7GBbnuFMQwEIHCDX"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "Green (SFX Version)",
+        "url": "https://open.spotify.com/album/6viDcqQjEZbYDCxomxO18w"
+      },
+      "artists": [
+        {
+          "name": "Hiroshi Yoshimura",
+          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
+        }
+      ],
+      "duration_ms": 321666,
+      "name": "GREEN",
+      "url": "https://open.spotify.com/track/4MoCSvcnlRpfMXUAd65LAB"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -1605,22 +1605,6 @@
       "url": "https://open.spotify.com/track/5lztNaNPhBTrfygH1BO1W2"
     },
     {
-      "added_at": "2023-02-17 02:19:05",
-      "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/32dttKpIJvL2ndTAUSyQui"
-      },
-      "artists": [
-        {
-          "name": "RX-101",
-          "url": "https://open.spotify.com/artist/1nxxFDcQjl85Vn3PSZs651"
-        }
-      ],
-      "duration_ms": 349575,
-      "name": "Warm Electronics Box",
-      "url": "https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC"
-    },
-    {
       "added_at": "2023-02-17 01:10:22",
       "album": {
         "name": "Homescreen Glow",
@@ -1635,6 +1619,22 @@
       "duration_ms": 326829,
       "name": "Soft Gaiden",
       "url": "https://open.spotify.com/track/3I6IMWZJ9FkTcUCKBrzlkh"
+    },
+    {
+      "added_at": "2023-02-17 02:19:05",
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/32dttKpIJvL2ndTAUSyQui"
+      },
+      "artists": [
+        {
+          "name": "RX-101",
+          "url": "https://open.spotify.com/artist/1nxxFDcQjl85Vn3PSZs651"
+        }
+      ],
+      "duration_ms": 349575,
+      "name": "Warm Electronics Box",
+      "url": "https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC"
     },
     {
       "added_at": "2023-02-17 01:53:11",
@@ -1685,22 +1685,6 @@
       "url": "https://open.spotify.com/track/7oY7hsyhvGS5rVaMszDEEh"
     },
     {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
-        "name": "Zoom",
-        "url": "https://open.spotify.com/album/6Fgw2NUHzJFbOQ5u4o0Clq"
-      },
-      "artists": [
-        {
-          "name": "upsammy",
-          "url": "https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV"
-        }
-      ],
-      "duration_ms": 196547,
-      "name": "Echo Boomed",
-      "url": "https://open.spotify.com/track/4xsuHsl6KbNrkFnCvNY3JG"
-    },
-    {
       "added_at": "2023-02-17 01:53:11",
       "album": {
         "name": "Rounds (Special Anniversary Edition)",
@@ -1717,20 +1701,20 @@
       "url": "https://open.spotify.com/track/2UFR9rHVRKPVMC5DeZvO1P"
     },
     {
-      "added_at": "2023-02-17 01:53:11",
+      "added_at": "2023-02-17 01:10:22",
       "album": {
-        "name": "L'illustration Musicale",
-        "url": "https://open.spotify.com/album/6caV1YMVhGYooSA5G94ys1"
+        "name": "Zoom",
+        "url": "https://open.spotify.com/album/6Fgw2NUHzJFbOQ5u4o0Clq"
       },
       "artists": [
         {
-          "name": "King Of Woolworths",
-          "url": "https://open.spotify.com/artist/4aeNorERmnd7xuHWBJvsTd"
+          "name": "upsammy",
+          "url": "https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV"
         }
       ],
-      "duration_ms": 370800,
-      "name": "Delia Derbyshire",
-      "url": "https://open.spotify.com/track/5z7m0r7VqF45d6ZqQ7WBL4"
+      "duration_ms": 196547,
+      "name": "Echo Boomed",
+      "url": "https://open.spotify.com/track/4xsuHsl6KbNrkFnCvNY3JG"
     },
     {
       "added_at": "2023-02-17 01:53:11",
@@ -1755,6 +1739,22 @@
       "duration_ms": 123973,
       "name": "Beyond the Clouds",
       "url": "https://open.spotify.com/track/1LUCSMbcv43ZhcCz9LwVHz"
+    },
+    {
+      "added_at": "2023-02-17 01:53:11",
+      "album": {
+        "name": "L'illustration Musicale",
+        "url": "https://open.spotify.com/album/6caV1YMVhGYooSA5G94ys1"
+      },
+      "artists": [
+        {
+          "name": "King Of Woolworths",
+          "url": "https://open.spotify.com/artist/4aeNorERmnd7xuHWBJvsTd"
+        }
+      ],
+      "duration_ms": 370800,
+      "name": "Delia Derbyshire",
+      "url": "https://open.spotify.com/track/5z7m0r7VqF45d6ZqQ7WBL4"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -1805,22 +1805,6 @@
       "url": "https://open.spotify.com/track/1FBJbDjXg2rfih1ITZoqUP"
     },
     {
-      "added_at": "2023-02-17 01:53:11",
-      "album": {
-        "name": "Put Your Head Above The Parakeets",
-        "url": "https://open.spotify.com/album/6SJSwXUsU7XAuI32YfX2iC"
-      },
-      "artists": [
-        {
-          "name": "HAAi",
-          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
-        }
-      ],
-      "duration_ms": 436052,
-      "name": "Head Above The Parakeets",
-      "url": "https://open.spotify.com/track/1F7wFVvXwazyZdy4jq3Bj8"
-    },
-    {
       "added_at": "2023-02-17 01:10:22",
       "album": {
         "name": "Cambio Wechsel",
@@ -1835,6 +1819,22 @@
       "duration_ms": 390986,
       "name": "After Gold",
       "url": "https://open.spotify.com/track/3Nr62FFbrwPRAAmKoLbR7a"
+    },
+    {
+      "added_at": "2023-02-17 01:53:11",
+      "album": {
+        "name": "Put Your Head Above The Parakeets",
+        "url": "https://open.spotify.com/album/6SJSwXUsU7XAuI32YfX2iC"
+      },
+      "artists": [
+        {
+          "name": "HAAi",
+          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
+        }
+      ],
+      "duration_ms": 436052,
+      "name": "Head Above The Parakeets",
+      "url": "https://open.spotify.com/track/1F7wFVvXwazyZdy4jq3Bj8"
     },
     {
       "added_at": "2023-02-17 02:19:05",
@@ -2023,22 +2023,6 @@
     {
       "added_at": "2023-02-17 01:10:22",
       "album": {
-        "name": "High Maintenance: Original Music (Season 1)",
-        "url": "https://open.spotify.com/album/3q9iSRK4p24UPEGuuOwZQQ"
-      },
-      "artists": [
-        {
-          "name": "Christopher Bear",
-          "url": "https://open.spotify.com/artist/0emf9Ah5yNpbvhS49Bl3zt"
-        }
-      ],
-      "duration_ms": 135093,
-      "name": "Goodnight Felicia",
-      "url": "https://open.spotify.com/track/1yjmDtqnbH5kKEEbTRpR4B"
-    },
-    {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
         "name": "Puzzlewood",
         "url": "https://open.spotify.com/album/7kJ4lcPkAOebXxBxvOmaeq"
       },
@@ -2051,6 +2035,22 @@
       "duration_ms": 150289,
       "name": "Years and Elements",
       "url": "https://open.spotify.com/track/7sLQ99cOLqGQ63xKIKPhz2"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "High Maintenance: Original Music (Season 1)",
+        "url": "https://open.spotify.com/album/3q9iSRK4p24UPEGuuOwZQQ"
+      },
+      "artists": [
+        {
+          "name": "Christopher Bear",
+          "url": "https://open.spotify.com/artist/0emf9Ah5yNpbvhS49Bl3zt"
+        }
+      ],
+      "duration_ms": 135093,
+      "name": "Goodnight Felicia",
+      "url": "https://open.spotify.com/track/1yjmDtqnbH5kKEEbTRpR4B"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -2127,26 +2127,18 @@
     {
       "added_at": "2023-02-17 01:10:22",
       "album": {
-        "name": "SEIM",
-        "url": "https://open.spotify.com/album/2417iYb0cUeCNgshb6wTz8"
+        "name": "Natura",
+        "url": "https://open.spotify.com/album/7iKvcnzcqiPHlyvXKvs0d3"
       },
       "artists": [
         {
-          "name": "QUINQUIS",
-          "url": "https://open.spotify.com/artist/10FKxn7w2iNuFkI0uKm9KH"
-        },
-        {
-          "name": "Gareth Jones",
-          "url": "https://open.spotify.com/artist/1W9zmk9JQsQaKSpphFHkUV"
-        },
-        {
-          "name": "\u00d3lavur J\u00e1kupsson",
-          "url": "https://open.spotify.com/artist/0gfdV2BOENhfosiHzk0MCG"
+          "name": "Drum & Lace",
+          "url": "https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7"
         }
       ],
-      "duration_ms": 311533,
-      "name": "Run (feat. Gareth Jones & \u00d3lavur J\u00e1kupsson)",
-      "url": "https://open.spotify.com/track/0JOiqhfNPuIsNUBJpsPdPy"
+      "duration_ms": 252000,
+      "name": "Creatura",
+      "url": "https://open.spotify.com/track/4t2rtg8xGq6hKgXmDJzq3k"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -2167,18 +2159,26 @@
     {
       "added_at": "2023-02-17 01:10:22",
       "album": {
-        "name": "Natura",
-        "url": "https://open.spotify.com/album/7iKvcnzcqiPHlyvXKvs0d3"
+        "name": "SEIM",
+        "url": "https://open.spotify.com/album/2417iYb0cUeCNgshb6wTz8"
       },
       "artists": [
         {
-          "name": "Drum & Lace",
-          "url": "https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7"
+          "name": "QUINQUIS",
+          "url": "https://open.spotify.com/artist/10FKxn7w2iNuFkI0uKm9KH"
+        },
+        {
+          "name": "Gareth Jones",
+          "url": "https://open.spotify.com/artist/1W9zmk9JQsQaKSpphFHkUV"
+        },
+        {
+          "name": "\u00d3lavur J\u00e1kupsson",
+          "url": "https://open.spotify.com/artist/0gfdV2BOENhfosiHzk0MCG"
         }
       ],
-      "duration_ms": 252000,
-      "name": "Creatura",
-      "url": "https://open.spotify.com/track/4t2rtg8xGq6hKgXmDJzq3k"
+      "duration_ms": 311533,
+      "name": "Run (feat. Gareth Jones & \u00d3lavur J\u00e1kupsson)",
+      "url": "https://open.spotify.com/track/0JOiqhfNPuIsNUBJpsPdPy"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -2493,20 +2493,20 @@
       "url": "https://open.spotify.com/track/1nHuJ99bSdi4ZoAfv3VzoW"
     },
     {
-      "added_at": "2023-02-17 01:53:11",
+      "added_at": "2023-02-17 01:10:22",
       "album": {
-        "name": "The Gone Away",
-        "url": "https://open.spotify.com/album/0xd7v6oCe19dDOKz7Po6lv"
+        "name": "We Are Reasonable People",
+        "url": "https://open.spotify.com/album/3uuoa0fvvb93KoORCTpPko"
       },
       "artists": [
         {
-          "name": "Belbury Poly",
-          "url": "https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB"
+          "name": "Plone",
+          "url": "https://open.spotify.com/artist/28HqZ2RaUbI3uewbxWDW41"
         }
       ],
-      "duration_ms": 228289,
-      "name": "Fol-de-rol",
-      "url": "https://open.spotify.com/track/4RZqAPcXS3eTasFttfgi1J"
+      "duration_ms": 254800,
+      "name": "Plaything",
+      "url": "https://open.spotify.com/track/0VEU0lalfqxjwezz7M1YaI"
     }
   ],
   "unique_name": "Quirktronica",

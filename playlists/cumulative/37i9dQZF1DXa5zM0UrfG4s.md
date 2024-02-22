@@ -4,7 +4,7 @@
 
 > bøgdebangers du kan spelle i kjerra!
 
-346 songs - 15 hr 55 min
+347 songs - 15 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,8 @@
 | [Det finns bara en kung](https://open.spotify.com/track/4CwDkY1WcODvyuo0vw5lyI) | [F.E.S.T](https://open.spotify.com/artist/0QZbl0d87CNgrGgxi0DvkU) | [Det finns bara en kung](https://open.spotify.com/album/1pOgOOTULLBnySxhCQEh80) | 2:51 | 2022-05-19 | 2022-07-18 |
 | [Det regnar och regnar](https://open.spotify.com/track/6Id0DbZqrV9Vy64WlxU1ce) | [Lasse Stefanz](https://open.spotify.com/artist/0ntVZReCfBFQctUiiaTaeu) | [Röd Chevrolet](https://open.spotify.com/album/5urzDMt0XkBEwmGAZCtxYB) | 3:42 | 2021-12-16 | 2024-02-09 |
 | [Det Ringer](https://open.spotify.com/track/2knRq4hvRNFwI8ilTBJXeS) | [Slæm Dønk](https://open.spotify.com/artist/0dei79O9i0uYwCGYniYGzZ) | [Det Ringer](https://open.spotify.com/album/2eCJ7T0MsfxttdEreBmBUN) | 2:42 | 2022-06-02 | 2022-06-13 |
-| [DET ÄR JU DEJ JAG GÅR OCH VÄNTAR PÅ](https://open.spotify.com/track/4lkJBloFZ3aXhsezo8BgO1) | [Louise Andersson Bodin](https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE), [250 kg kärlek](https://open.spotify.com/artist/4zLti6k7kpm9jwOVJv7wtT) | [DET ÄR JU DEJ JAG GÅR OCH VÄNTAR PÅ](https://open.spotify.com/album/484DSeiUk7NvezjWAvI2iP) | 2:53 | 2023-09-28 |  |
+| [DET ÄR JU DEJ JAG GÅR OCH VÄNTAR PÅ](https://open.spotify.com/track/1cr0ryXVaePFlRl4lkmdf7) | [Louise Andersson Bodin](https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE), [250 kg kärlek](https://open.spotify.com/artist/4zLti6k7kpm9jwOVJv7wtT) | [DET ÄR JU DEJ JAG GÅR OCH VÄNTAR PÅ](https://open.spotify.com/album/5JsBau0Y0oWV0j1fqJ2Xp3) | 2:53 | 2024-02-15 |  |
+| [DET ÄR JU DEJ JAG GÅR OCH VÄNTAR PÅ](https://open.spotify.com/track/4lkJBloFZ3aXhsezo8BgO1) | [Louise Andersson Bodin](https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE), [250 kg kärlek](https://open.spotify.com/artist/4zLti6k7kpm9jwOVJv7wtT) | [DET ÄR JU DEJ JAG GÅR OCH VÄNTAR PÅ](https://open.spotify.com/album/484DSeiUk7NvezjWAvI2iP) | 2:53 | 2023-09-28 | 2024-02-22 |
 | [Det årnær sæ](https://open.spotify.com/track/5h8cq31h3tTcEJRo4uceZp) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW) | [Det årnær sæ](https://open.spotify.com/album/5VUUm9IhL7migYIkyKwLe5) | 2:58 | 2021-12-16 | 2022-06-06 |
 | [Digger deg](https://open.spotify.com/track/4nt7SCb3Nkp60GcLHfPn5Y) | [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9), [Katastrofe](https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR) | [Digger deg](https://open.spotify.com/album/2CjutmDqrsL14Ru3OhcwaD) | 3:06 | 2022-01-20 | 2022-07-28 |
 | [Diggy Liggy](https://open.spotify.com/track/1N6ZbLCBBnO43OVkr0t0LC) | [Teddy Nelson](https://open.spotify.com/artist/7s2dnP8BfaBimZOM4P0fFE) | [Diggy Liggy](https://open.spotify.com/album/5c6e85py9XmaFQBFvODfoC) | 2:16 | 2022-03-24 | 2022-04-21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbaeBomo9L1a.md) - [plain]
 
 > R&B sensual para una apasionada noche en excelente compañía.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,777 likes - 90 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,811 likes - 90 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbaeBomo9L1a.md) - [plain]
 | 79 | [Spirit 2.0](https://open.spotify.com/track/3JKRuo3KhL39T6XWAXPohj) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Spirit 2.0](https://open.spotify.com/album/6idz4m2nMbiHsx3QjHhdcv) | 4:49 |
 | 80 | [All the Way Down](https://open.spotify.com/track/3GZpSLgW7eaPzbJUFD7jfL) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Hallucinogen](https://open.spotify.com/album/0kbTEjztiBKiwDGqogecTy) | 4:28 |
 | 81 | [Curvas](https://open.spotify.com/track/6TO05VYYHCkZpy0V1XVOdI) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ), [Claruz](https://open.spotify.com/artist/5NtQw3vT27cspk8K7krlJv), [Floyd](https://open.spotify.com/artist/4yURrK9HEczFPGPya2yBu2) | [Curvas](https://open.spotify.com/album/4epp2PoR2TdOkYN90EG1MT) | 2:48 |
-| 82 | [Glory](https://open.spotify.com/track/3Ku8Zc9cnCkKwvXs7qErVQ) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Glory](https://open.spotify.com/album/51VWvFuTcJuqfvms0SLXQr) | 2:45 |
-| 83 | [Modo Avión](https://open.spotify.com/track/6EvN04vgLsZpLxNphVyr5Y) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Modo Avión](https://open.spotify.com/album/49UdayEAAiIV7fC6nFenPn) | 3:01 |
+| 82 | [Modo Avión](https://open.spotify.com/track/6EvN04vgLsZpLxNphVyr5Y) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Modo Avión](https://open.spotify.com/album/49UdayEAAiIV7fC6nFenPn) | 3:01 |
+| 83 | [Glory](https://open.spotify.com/track/3Ku8Zc9cnCkKwvXs7qErVQ) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Glory](https://open.spotify.com/album/51VWvFuTcJuqfvms0SLXQr) | 2:45 |
 | 84 | [Te Hice Mal \(Remix\)](https://open.spotify.com/track/5GScJWskAOiLZz9upeOKaI) | [Lui5](https://open.spotify.com/artist/0gfBmg53uxgAVNEDB23X5n), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Te Hice Mal \(Remix\)](https://open.spotify.com/album/3QJN1KLfND8BJpBRHDPCDk) | 4:29 |
 | 85 | [Frío](https://open.spotify.com/track/2fw6liEffYRav3ORECpqvQ) | [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4) | [Frío](https://open.spotify.com/album/251ubhwCkD47ljB7FLK9DN) | 2:25 |
 | 86 | [daydreaming](https://open.spotify.com/track/77TNJhVDMPwRYxeMOED5Bl) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [daydreaming](https://open.spotify.com/album/1zsf05JNT2seWKnDbwQzfn) | 2:42 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbaeBomo9L1a.md) - [plain]
 | 89 | [Los Dos](https://open.spotify.com/track/6kn5oUW8uoVIcGjpjbnBlw) | [Panther](https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ) | [Los Dos](https://open.spotify.com/album/5J0ozKBrpKY05AoClZx56R) | 2:52 |
 | 90 | [Poco a Poco \- Remix](https://open.spotify.com/track/08qHgtCajTGcNWFbn0HQXT) | [Ilse Hendrix](https://open.spotify.com/artist/4nKY8xVK5R0lpdv2oDyraB), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Poco a Poco \(Remix\)](https://open.spotify.com/album/4A0tvOTSvKJtMCt5T16KAW) | 2:57 |
 
-Snapshot ID: `MCwyZWI2MGU2MDQzYThkMTlmMzIxMzhlZTYzYTM0ZDNhODRiYTE2ZGQy`
+Snapshot ID: `MCwyM2RhYWU4NzdmZjQxODAyNDU1YTk4ZWYxZDVmYWEwZDdiNjk0YzE3`

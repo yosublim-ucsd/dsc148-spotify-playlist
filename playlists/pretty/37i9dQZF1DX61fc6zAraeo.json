@@ -1,12 +1,12 @@
 {
   "description": "Dance tracks for your power moves",
-  "num_followers": 97357,
+  "num_followers": 97381,
   "original_name": "Power Up!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OWQ3OTAxZmQyMTA3N2Y1M2QyOTFkNDc0Nzg2Y2UwYWQyNWRjMjk2",
+  "snapshot_id": "MCxhNTg5MDQzNTQ3MTA3MzAwOTZmMmQ5Nzc3ZGZhZWQ2YTI5OTg0NDJl",
   "tracks": [
     {
       "added_at": "2024-02-15 10:24:03",
@@ -260,7 +260,7 @@
           "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
         },
         {
-          "name": "Empire of the Sun",
+          "name": "Empire Of The Sun",
           "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
         }
       ],
@@ -511,26 +511,22 @@
     {
       "added_at": "2024-02-15 10:24:03",
       "album": {
-        "name": "Lost My Way",
-        "url": "https://open.spotify.com/album/3jqAZ70Mmyq8arzZnSBiBX"
+        "name": "Lost My Mind (Wake Up)",
+        "url": "https://open.spotify.com/album/3sHc1hZu6UZ63wgnqqUjDw"
       },
       "artists": [
         {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
         },
         {
-          "name": "Azteck",
-          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
-        },
-        {
-          "name": "July",
-          "url": "https://open.spotify.com/artist/2lQUT7KTSpuj9z8PdtMdtz"
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
         }
       ],
-      "duration_ms": 142700,
-      "name": "Lost My Way",
-      "url": "https://open.spotify.com/track/5jPFtwxkrKbpsqFgVE1czX"
+      "duration_ms": 147673,
+      "name": "Lost My Mind (Wake Up)",
+      "url": "https://open.spotify.com/track/0fdfXWcW9BFBGsdk7fh0B5"
     },
     {
       "added_at": "2024-02-15 10:24:03",
@@ -555,22 +551,26 @@
     {
       "added_at": "2024-02-15 10:24:03",
       "album": {
-        "name": "Lost My Mind (Wake Up)",
-        "url": "https://open.spotify.com/album/3sHc1hZu6UZ63wgnqqUjDw"
+        "name": "Lost My Way",
+        "url": "https://open.spotify.com/album/3jqAZ70Mmyq8arzZnSBiBX"
       },
       "artists": [
         {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
         },
         {
-          "name": "Elley Duh\u00e9",
-          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+          "name": "Azteck",
+          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
+        },
+        {
+          "name": "July",
+          "url": "https://open.spotify.com/artist/2lQUT7KTSpuj9z8PdtMdtz"
         }
       ],
-      "duration_ms": 147673,
-      "name": "Lost My Mind (Wake Up)",
-      "url": "https://open.spotify.com/track/0fdfXWcW9BFBGsdk7fh0B5"
+      "duration_ms": 142700,
+      "name": "Lost My Way",
+      "url": "https://open.spotify.com/track/5jPFtwxkrKbpsqFgVE1czX"
     },
     {
       "added_at": "2024-02-15 10:24:03",
@@ -587,26 +587,6 @@
       "duration_ms": 137538,
       "name": "For The People",
       "url": "https://open.spotify.com/track/1LvXRLxZ8s2ofB0X5zONou"
-    },
-    {
-      "added_at": "2024-02-15 10:24:03",
-      "album": {
-        "name": "Dizzy",
-        "url": "https://open.spotify.com/album/5PG4dJqM18cKtGl0vE5cJk"
-      },
-      "artists": [
-        {
-          "name": "Sick Individuals",
-          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
-        },
-        {
-          "name": "LOUI LANE",
-          "url": "https://open.spotify.com/artist/0ZmqAO2kf9AFpYbnT7Z9MN"
-        }
-      ],
-      "duration_ms": 147253,
-      "name": "Dizzy",
-      "url": "https://open.spotify.com/track/4bH4PYPmrsKcw2rI5c3QqD"
     },
     {
       "added_at": "2024-02-15 10:24:03",
@@ -631,6 +611,26 @@
     {
       "added_at": "2024-02-15 10:24:03",
       "album": {
+        "name": "Dizzy",
+        "url": "https://open.spotify.com/album/5PG4dJqM18cKtGl0vE5cJk"
+      },
+      "artists": [
+        {
+          "name": "Sick Individuals",
+          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+        },
+        {
+          "name": "LOUI LANE",
+          "url": "https://open.spotify.com/artist/0ZmqAO2kf9AFpYbnT7Z9MN"
+        }
+      ],
+      "duration_ms": 147253,
+      "name": "Dizzy",
+      "url": "https://open.spotify.com/track/4bH4PYPmrsKcw2rI5c3QqD"
+    },
+    {
+      "added_at": "2024-02-15 10:24:03",
+      "album": {
         "name": "What a Night",
         "url": "https://open.spotify.com/album/203rSwQJ4j3HSbE0aoXRh0"
       },
@@ -651,26 +651,6 @@
       "duration_ms": 157750,
       "name": "What a Night",
       "url": "https://open.spotify.com/track/5M78sypr7NMw0MMcrWTS0l"
-    },
-    {
-      "added_at": "2024-02-15 10:24:03",
-      "album": {
-        "name": "When You're Lonely",
-        "url": "https://open.spotify.com/album/1kfbRsla1nsTki4JVunQFW"
-      },
-      "artists": [
-        {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
-        },
-        {
-          "name": "Emma Steinbakken",
-          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
-        }
-      ],
-      "duration_ms": 159016,
-      "name": "When You're Lonely",
-      "url": "https://open.spotify.com/track/0kknXqNaOqZt0DqPkpE3fc"
     },
     {
       "added_at": "2024-02-15 10:24:03",
@@ -783,6 +763,26 @@
       "duration_ms": 176328,
       "name": "The Drop - \u00d6wnboss Remix",
       "url": "https://open.spotify.com/track/0Sqo0vvIRcIQBD1XuTrH69"
+    },
+    {
+      "added_at": "2024-02-15 10:24:03",
+      "album": {
+        "name": "When You're Lonely",
+        "url": "https://open.spotify.com/album/1kfbRsla1nsTki4JVunQFW"
+      },
+      "artists": [
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        },
+        {
+          "name": "Emma Steinbakken",
+          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
+        }
+      ],
+      "duration_ms": 159016,
+      "name": "When You're Lonely",
+      "url": "https://open.spotify.com/track/0kknXqNaOqZt0DqPkpE3fc"
     },
     {
       "added_at": "2024-02-15 10:24:03",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-02-15 10:24:03",
       "album": {
-        "name": "Something Like This",
-        "url": "https://open.spotify.com/album/6pyaAfwfFHYwi7fX7TWlY1"
-      },
-      "artists": [
-        {
-          "name": "JLV",
-          "url": "https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L"
-        }
-      ],
-      "duration_ms": 148124,
-      "name": "Something Like This",
-      "url": "https://open.spotify.com/track/3qBzuSVtK2LGTuWaB2WTHs"
-    },
-    {
-      "added_at": "2024-02-15 10:24:03",
-      "album": {
         "name": "You're Not Alone",
         "url": "https://open.spotify.com/album/3GaRGIbg3kk7GnvpJRxsFS"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 188809,
       "name": "You're Not Alone",
       "url": "https://open.spotify.com/track/3hhFeE9rlu4PKo1uSVQYBb"
+    },
+    {
+      "added_at": "2024-02-15 10:24:03",
+      "album": {
+        "name": "Something Like This",
+        "url": "https://open.spotify.com/album/6pyaAfwfFHYwi7fX7TWlY1"
+      },
+      "artists": [
+        {
+          "name": "JLV",
+          "url": "https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L"
+        }
+      ],
+      "duration_ms": 148124,
+      "name": "Something Like This",
+      "url": "https://open.spotify.com/track/3qBzuSVtK2LGTuWaB2WTHs"
     },
     {
       "added_at": "2024-02-15 10:24:03",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2024-02-15 10:24:03",
       "album": {
+        "name": "Pop Some Tags",
+        "url": "https://open.spotify.com/album/227QNgObxVtAGhJeN2OtRe"
+      },
+      "artists": [
+        {
+          "name": "WAVES",
+          "url": "https://open.spotify.com/artist/6p32HfiKpYD3wdKHV7utxQ"
+        }
+      ],
+      "duration_ms": 139183,
+      "name": "Pop Some Tags",
+      "url": "https://open.spotify.com/track/25owlYCoM7EiKwlixXBaB8"
+    },
+    {
+      "added_at": "2024-02-15 10:24:03",
+      "album": {
         "name": "Break the Silence",
         "url": "https://open.spotify.com/album/23Rl1kQPUyymnjNwDmIqcF"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 152196,
       "name": "Break the Silence",
       "url": "https://open.spotify.com/track/3J731DK3zEufsb4xaTbvrL"
-    },
-    {
-      "added_at": "2024-02-15 10:24:03",
-      "album": {
-        "name": "Pop Some Tags",
-        "url": "https://open.spotify.com/album/227QNgObxVtAGhJeN2OtRe"
-      },
-      "artists": [
-        {
-          "name": "WAVES",
-          "url": "https://open.spotify.com/artist/6p32HfiKpYD3wdKHV7utxQ"
-        }
-      ],
-      "duration_ms": 139183,
-      "name": "Pop Some Tags",
-      "url": "https://open.spotify.com/track/25owlYCoM7EiKwlixXBaB8"
     },
     {
       "added_at": "2024-02-15 10:24:03",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2024-02-15 10:24:03",
       "album": {
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/5tinrUufdUwPi1eMf6vkRj"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 187920,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/3Pmtj9zlqxesYszjHmQpKu"
+    },
+    {
+      "added_at": "2024-02-15 10:24:03",
+      "album": {
         "name": "Afterglow",
         "url": "https://open.spotify.com/album/5WwGb5jfW9icOphjipRqzG"
       },
@@ -1559,22 +1575,6 @@
     {
       "added_at": "2024-02-15 10:24:03",
       "album": {
-        "name": "Deja Vu",
-        "url": "https://open.spotify.com/album/5tinrUufdUwPi1eMf6vkRj"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 187920,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/3Pmtj9zlqxesYszjHmQpKu"
-    },
-    {
-      "added_at": "2024-02-15 10:24:03",
-      "album": {
         "name": "Can't Talk Right Now",
         "url": "https://open.spotify.com/album/5yeCt6aAyUjUS4ZKHu1OXQ"
       },
@@ -1587,6 +1587,26 @@
       "duration_ms": 199218,
       "name": "Can't Talk Right Now",
       "url": "https://open.spotify.com/track/2NlH2mGYXQmheI8ll2dLAx"
+    },
+    {
+      "added_at": "2024-02-15 10:24:03",
+      "album": {
+        "name": "Supersonic",
+        "url": "https://open.spotify.com/album/6hzL8KtH8J597ggeNfVxHS"
+      },
+      "artists": [
+        {
+          "name": "BODYWORX",
+          "url": "https://open.spotify.com/artist/6GIwyYD9kOim8j3M6jt4AM"
+        },
+        {
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+        }
+      ],
+      "duration_ms": 160400,
+      "name": "Supersonic",
+      "url": "https://open.spotify.com/track/3v2bQyQMYdlpxO8hpbA4Po"
     },
     {
       "added_at": "2024-02-15 10:24:03",
@@ -1619,22 +1639,22 @@
     {
       "added_at": "2024-02-15 10:24:03",
       "album": {
-        "name": "Supersonic",
-        "url": "https://open.spotify.com/album/6hzL8KtH8J597ggeNfVxHS"
+        "name": "Exceso (feat. GALE)",
+        "url": "https://open.spotify.com/album/46y7BZhXOZeFO1ZeEBZZHT"
       },
       "artists": [
         {
-          "name": "BODYWORX",
-          "url": "https://open.spotify.com/artist/6GIwyYD9kOim8j3M6jt4AM"
+          "name": "DallasK",
+          "url": "https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW"
         },
         {
-          "name": "MOTi",
-          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+          "name": "GALE",
+          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
         }
       ],
-      "duration_ms": 160400,
-      "name": "Supersonic",
-      "url": "https://open.spotify.com/track/3v2bQyQMYdlpxO8hpbA4Po"
+      "duration_ms": 142829,
+      "name": "Exceso (feat. GALE)",
+      "url": "https://open.spotify.com/track/5SBsYJjr5Dg09XNV6RZpUy"
     },
     {
       "added_at": "2024-02-15 10:24:03",
@@ -1655,26 +1675,6 @@
       "duration_ms": 135483,
       "name": "Pretty Little Lies",
       "url": "https://open.spotify.com/track/2gg28k4Djlpg0a7SGsB8Zc"
-    },
-    {
-      "added_at": "2024-02-15 10:24:03",
-      "album": {
-        "name": "Exceso (feat. GALE)",
-        "url": "https://open.spotify.com/album/46y7BZhXOZeFO1ZeEBZZHT"
-      },
-      "artists": [
-        {
-          "name": "DallasK",
-          "url": "https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW"
-        },
-        {
-          "name": "GALE",
-          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
-        }
-      ],
-      "duration_ms": 142829,
-      "name": "Exceso (feat. GALE)",
-      "url": "https://open.spotify.com/track/5SBsYJjr5Dg09XNV6RZpUy"
     },
     {
       "added_at": "2024-02-15 10:24:03",
@@ -1739,6 +1739,22 @@
     {
       "added_at": "2024-02-15 10:24:03",
       "album": {
+        "name": "Hold On Tight",
+        "url": "https://open.spotify.com/album/33MCxT30XFEvEsSVIsFCOH"
+      },
+      "artists": [
+        {
+          "name": "Quintino",
+          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
+        }
+      ],
+      "duration_ms": 178125,
+      "name": "Hold On Tight",
+      "url": "https://open.spotify.com/track/7ia3tvn2ZZgtQo3I3hIhEv"
+    },
+    {
+      "added_at": "2024-02-15 10:24:03",
+      "album": {
         "name": "Take Me Higher",
         "url": "https://open.spotify.com/album/0ZcoPTlFVu4qjJuDtwFeIg"
       },
@@ -1759,22 +1775,6 @@
       "duration_ms": 142200,
       "name": "Take Me Higher",
       "url": "https://open.spotify.com/track/67XJUKj8k8hKyjjn0sG8xA"
-    },
-    {
-      "added_at": "2024-02-15 10:24:03",
-      "album": {
-        "name": "Hold On Tight",
-        "url": "https://open.spotify.com/album/33MCxT30XFEvEsSVIsFCOH"
-      },
-      "artists": [
-        {
-          "name": "Quintino",
-          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
-        }
-      ],
-      "duration_ms": 178125,
-      "name": "Hold On Tight",
-      "url": "https://open.spotify.com/track/7ia3tvn2ZZgtQo3I3hIhEv"
     },
     {
       "added_at": "2024-02-15 10:24:03",
@@ -1819,18 +1819,22 @@
     {
       "added_at": "2024-02-15 10:24:03",
       "album": {
-        "name": "Needing You",
-        "url": "https://open.spotify.com/album/1SKUtzbpnb3sNj0EWBiUF7"
+        "name": "Currents",
+        "url": "https://open.spotify.com/album/2rfaWwbzTb380DNEpLWQRy"
       },
       "artists": [
         {
-          "name": "Laura van Dam",
-          "url": "https://open.spotify.com/artist/6gmecOfbzCBnKd3OGkCQuz"
+          "name": "Mahalo",
+          "url": "https://open.spotify.com/artist/1SeU8Y2rEUpEoeWmUCdQIR"
+        },
+        {
+          "name": "Guillaume Gordon",
+          "url": "https://open.spotify.com/artist/3TfKErb0eKYPcZbuA32oPj"
         }
       ],
-      "duration_ms": 216190,
-      "name": "Needing You",
-      "url": "https://open.spotify.com/track/36TDp73ujhbKnX6qxPqjmb"
+      "duration_ms": 162712,
+      "name": "Got a Friend",
+      "url": "https://open.spotify.com/track/0fdpoQFH8s3viiqy42p1f5"
     },
     {
       "added_at": "2024-02-15 10:24:03",
@@ -1851,26 +1855,6 @@
     {
       "added_at": "2024-02-15 10:24:03",
       "album": {
-        "name": "Fantasy",
-        "url": "https://open.spotify.com/album/54Dzt1WneTLVnfwWCKxoik"
-      },
-      "artists": [
-        {
-          "name": "Klaas",
-          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
-        },
-        {
-          "name": "Sary",
-          "url": "https://open.spotify.com/artist/64IRUxTrpRi86hkZqJEreW"
-        }
-      ],
-      "duration_ms": 162222,
-      "name": "Fantasy",
-      "url": "https://open.spotify.com/track/7gTz5MRjppI1Pdid7VX6Xy"
-    },
-    {
-      "added_at": "2024-02-15 10:24:03",
-      "album": {
         "name": "Guiding Light",
         "url": "https://open.spotify.com/album/08LGWohzZ6wlIiWVMMlOKC"
       },
@@ -1887,22 +1871,38 @@
     {
       "added_at": "2024-02-15 10:24:03",
       "album": {
-        "name": "Currents",
-        "url": "https://open.spotify.com/album/2rfaWwbzTb380DNEpLWQRy"
+        "name": "Needing You",
+        "url": "https://open.spotify.com/album/1SKUtzbpnb3sNj0EWBiUF7"
       },
       "artists": [
         {
-          "name": "Mahalo",
-          "url": "https://open.spotify.com/artist/1SeU8Y2rEUpEoeWmUCdQIR"
-        },
-        {
-          "name": "Guillaume Gordon",
-          "url": "https://open.spotify.com/artist/3TfKErb0eKYPcZbuA32oPj"
+          "name": "Laura van Dam",
+          "url": "https://open.spotify.com/artist/6gmecOfbzCBnKd3OGkCQuz"
         }
       ],
-      "duration_ms": 162712,
-      "name": "Got a Friend",
-      "url": "https://open.spotify.com/track/0fdpoQFH8s3viiqy42p1f5"
+      "duration_ms": 216190,
+      "name": "Needing You",
+      "url": "https://open.spotify.com/track/36TDp73ujhbKnX6qxPqjmb"
+    },
+    {
+      "added_at": "2024-02-15 10:24:03",
+      "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/54Dzt1WneTLVnfwWCKxoik"
+      },
+      "artists": [
+        {
+          "name": "Klaas",
+          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
+        },
+        {
+          "name": "Sary",
+          "url": "https://open.spotify.com/artist/64IRUxTrpRi86hkZqJEreW"
+        }
+      ],
+      "duration_ms": 162222,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/7gTz5MRjppI1Pdid7VX6Xy"
     },
     {
       "added_at": "2024-02-15 10:24:03",
@@ -1943,26 +1943,6 @@
     {
       "added_at": "2024-02-15 10:24:03",
       "album": {
-        "name": "Fitness",
-        "url": "https://open.spotify.com/album/20L2EPQGvZV2WsgLJ1WdMz"
-      },
-      "artists": [
-        {
-          "name": "Marc Benjamin",
-          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
-        },
-        {
-          "name": "Bad Amie",
-          "url": "https://open.spotify.com/artist/3tTqCfscGTg5hnbaKce3lE"
-        }
-      ],
-      "duration_ms": 180480,
-      "name": "Fitness",
-      "url": "https://open.spotify.com/track/6tlTBmaJCBJ238Gl5eFZ2z"
-    },
-    {
-      "added_at": "2024-02-15 10:24:03",
-      "album": {
         "name": "To The Floor (Nicky Romero Edit)",
         "url": "https://open.spotify.com/album/5UrucNSjRdkjxj7qLBI5Vp"
       },
@@ -1999,6 +1979,26 @@
       "duration_ms": 180000,
       "name": "Nothing In Common",
       "url": "https://open.spotify.com/track/3q7U43P5AbtkD1XiB0J1wR"
+    },
+    {
+      "added_at": "2024-02-15 10:24:03",
+      "album": {
+        "name": "Fitness",
+        "url": "https://open.spotify.com/album/20L2EPQGvZV2WsgLJ1WdMz"
+      },
+      "artists": [
+        {
+          "name": "Marc Benjamin",
+          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
+        },
+        {
+          "name": "Bad Amie",
+          "url": "https://open.spotify.com/artist/3tTqCfscGTg5hnbaKce3lE"
+        }
+      ],
+      "duration_ms": 180480,
+      "name": "Fitness",
+      "url": "https://open.spotify.com/track/6tlTBmaJCBJ238Gl5eFZ2z"
     }
   ],
   "unique_name": "Power Up!",

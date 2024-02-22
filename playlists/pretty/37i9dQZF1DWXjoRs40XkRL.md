@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjoRs40XkRL.md) - [plain]
 
 > Unwind to the best Indian classical sounds out there.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,991 likes - 75 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,028 likes - 75 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjoRs40XkRL.md) - [plain]
 | 15 | [Jabse Tum Sana Lag Li \- Bhoopali](https://open.spotify.com/track/6zFQPuWAkXBEN2h3ytYJLx) | [DEW](https://open.spotify.com/artist/3kTz6jnByrB7YKt0sEQC8s), [Sanchari Nag](https://open.spotify.com/artist/3Vdi9hu61GlWNIvJH51AmE) | [Jabse Tum Sana Lag Li \(Bhoopali\)](https://open.spotify.com/album/6Bm1pY8Lg5vDmRzxOjC22l) | 3:03 |
 | 16 | [Jaa Kaga](https://open.spotify.com/track/33mqdecKrXjGk1JZQGuQ5f) | [Abby V](https://open.spotify.com/artist/73VDhvYEhL7FbnDPaNTUmX), [Ricky Kej](https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ) | [Jaa Kaga](https://open.spotify.com/album/6Rw6ZLW1qBJczNKuJu18E1) | 5:10 |
 | 17 | [Piya Se Mila De](https://open.spotify.com/track/4Z2MfpavuPU4dNJUohBGRo) | [Ujwal Nagar](https://open.spotify.com/artist/09GQxWaCQICsreFokLcbzc), [Anindo Bose](https://open.spotify.com/artist/1G2v9z0cxtBy5FMHvZB5Hr) | [Piya Se Mila De](https://open.spotify.com/album/6Kr7joSInnPV3gWBRj5xN2) | 4:26 |
-| 18 | [Tose Naina](https://open.spotify.com/track/45NNVgKvUDMgL1WVNIpyKm) | [Arhaan Hussain](https://open.spotify.com/artist/4pxfXcQuZLeqfukbO0oUXa) | [Tose Naina](https://open.spotify.com/album/3ZO8adEFEpq1Yco1j5EANq) | 2:08 |
+| 18 | [Tose Naina](https://open.spotify.com/track/0mzRVNdWVjpgJIxY2gR2SD) | [Arhaan Hussain](https://open.spotify.com/artist/4pxfXcQuZLeqfukbO0oUXa) | [Tose Naina](https://open.spotify.com/album/634nRHQCeG4bkFOglkBQLT) | 2:08 |
 | 19 | [Ratiya](https://open.spotify.com/track/6Y839c8I5ikVmXJcp3GF4U) | [Abby V](https://open.spotify.com/artist/73VDhvYEhL7FbnDPaNTUmX), [Ricky Kej](https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Aarambh](https://open.spotify.com/album/23tB4HqO2xE8DqUkXyhzyc) | 3:53 |
 | 20 | [Aaj Rang Hai](https://open.spotify.com/track/60qVbVr6wm7yTOoj0s0a9z) | [Amaan Ali Bangash](https://open.spotify.com/artist/4YHKzvqxptwrqZT9GyYHIg), [Amrita Kak](https://open.spotify.com/artist/4BTpn8TkJe0FnqlpTY1ZJ2), [Ayaan Ali Bangash](https://open.spotify.com/artist/7ljpuNfOEA1vCZv3SHeKdG) | [Aaj Rang Hai](https://open.spotify.com/album/5ANnHLbfSJXZMUjPQTX13W) | 3:25 |
 | 21 | [Love for Rasiya](https://open.spotify.com/track/4xsrwACNh8i7csjLuBhRzF) | [Madhuvanthi Narayan](https://open.spotify.com/artist/2uKITbMInpFKYeI9ll9fv8) | [Love for Rasiya](https://open.spotify.com/album/0NaV1zKUBcQktxAex9KEvW) | 2:55 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjoRs40XkRL.md) - [plain]
 | 74 | [Garaj Garaj Jugalbandi](https://open.spotify.com/track/1TOQb1AwnZLzrAu4VXZUIO) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Farid Hasan](https://open.spotify.com/artist/5VS1XKT1Og8hCqS5n7MyLZ), [Mohammed Aman](https://open.spotify.com/artist/1mfkISQy4OfXQjdV46x6Yf) | [Bandish Bandits \(Original Series Soundtrack\)](https://open.spotify.com/album/778BLlKdQHXXzKm6XEiqTz) | 5:30 |
 | 75 | [Shafqat with Shafqat \(Lakh Jatan / Khamaj\)](https://open.spotify.com/track/4oFTEI6Dmnca8HbpwdXQCL) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm), [Shafqat Ali Khan](https://open.spotify.com/artist/5G8426kJYJIy8qoGo1b4sU) | [Shafqat with Shafqat \(Lakh Jatan / Khamaj\)](https://open.spotify.com/album/1a87DOMOSxUy66pUYGfx5S) | 7:20 |
 
-Snapshot ID: `MCxmY2M2Nzc2MTcxMWVjNDdiNTkwY2NhZTVhNjZkNjU1YzdhMTNjNDFl`
+Snapshot ID: `MCxmN2JiYTllODQ3MGRlNzcwMjQxMjBjNzEyMjM1MDRlZWJjZDEwY2Nl`

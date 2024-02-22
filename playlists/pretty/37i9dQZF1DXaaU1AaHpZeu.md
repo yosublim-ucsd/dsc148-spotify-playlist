@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. Mica Sotera en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,210 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,208 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 49 | [Tú, Mija](https://open.spotify.com/track/3iHKAaHygZybCLU2oDostS) | [ElArturo](https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Tú, Mija](https://open.spotify.com/album/1wTlJ4THw8zVTuZna1AFwI) | 3:30 |
 | 50 | [Los Domingos La Paso Solita](https://open.spotify.com/track/1rQY8whjb9XKysfXQdqtRQ) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Los Domingos La Paso Solita](https://open.spotify.com/album/4k9aSMV2bBwlipxCyXzj8h) | 3:19 |
 
-Snapshot ID: `MCwyMzlmY2U1OWVhNTVlNjc4NWZjMjYwZTZiNzY5MmY3NTRjY2M2NmM4`
+Snapshot ID: `MCxiNzJkOGM4Mzg5OTc5YmI4YTAyZjgwYzFiNmFmNmY0N2EzN2U4NjIw`

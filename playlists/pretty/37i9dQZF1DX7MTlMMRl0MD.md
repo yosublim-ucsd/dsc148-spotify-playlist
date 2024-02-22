@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 
 > Tu lista favorita de Bachata ❤️ Cover: Marc Anthony
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,859,880 likes - 65 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,860,009 likes - 65 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 | 64 | [HASTA QUE LA MUERTE NOS SEPARE](https://open.spotify.com/track/0t40u904M4HGa3vCcrttUP) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG) | 3:27 |
 | 65 | [Madre](https://open.spotify.com/track/1e89wmECkzDpPCr9op4Pxf) | [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA) | [Madre](https://open.spotify.com/album/44TzyeLPqQZT2ipNqJwQ4r) | 3:39 |
 
-Snapshot ID: `MCw1OTJkZDEzMmIxZjYwMzI3MzMxYzE1YThiNTkxZjE0MzliM2JiY2I4`
+Snapshot ID: `MCwyMWFiODE5MDQyNDE4MThkYzRhMTNhYzVhMmMzNWFlNTg4OWU1YTVl`

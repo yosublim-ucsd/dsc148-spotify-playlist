@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 675599,
+  "num_followers": 703938,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZGNlN2MxNzcxN2MxNmI2YTg1MTA3M2NlMTM5MDg5NGUxYThiZDE0",
+  "snapshot_id": "MCwyMmI1ZjAxYzIzMjNkMWJhMDlkZGMwOWI0MTZmNjZmOTJjYzE2NmVi",
   "tracks": [
     {
       "added_at": "2024-02-14 11:37:11",
@@ -683,6 +683,22 @@
     {
       "added_at": "2024-02-14 11:37:11",
       "album": {
+        "name": "On A Mission",
+        "url": "https://open.spotify.com/album/6KV9kNSuC1mmzrXKx6p6vV"
+      },
+      "artists": [
+        {
+          "name": "Katy B",
+          "url": "https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M"
+        }
+      ],
+      "duration_ms": 219120,
+      "name": "Katy on a Mission",
+      "url": "https://open.spotify.com/track/47uhrF6IvyE2eUyyfLAEzf"
+    },
+    {
+      "added_at": "2024-02-14 11:37:11",
+      "album": {
         "name": "Now U Do",
         "url": "https://open.spotify.com/album/7k7TUZNKlDHu5MfSSCX8rR"
       },
@@ -703,18 +719,18 @@
     {
       "added_at": "2024-02-14 11:37:11",
       "album": {
-        "name": "On A Mission",
-        "url": "https://open.spotify.com/album/6KV9kNSuC1mmzrXKx6p6vV"
+        "name": "Tell Me Something Good",
+        "url": "https://open.spotify.com/album/4tyukGQ3uDTgjLHxHZocH4"
       },
       "artists": [
         {
-          "name": "Katy B",
-          "url": "https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M"
+          "name": "Ewan McVicar",
+          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
         }
       ],
-      "duration_ms": 219120,
-      "name": "Katy on a Mission",
-      "url": "https://open.spotify.com/track/47uhrF6IvyE2eUyyfLAEzf"
+      "duration_ms": 249678,
+      "name": "Tell Me Something Good",
+      "url": "https://open.spotify.com/track/5krhFNgUcYHwXlNPJJYzFM"
     },
     {
       "added_at": "2024-02-14 11:37:11",
@@ -735,22 +751,6 @@
       "duration_ms": 219047,
       "name": "Human (feat. Echoes)",
       "url": "https://open.spotify.com/track/4G4patpYxsF6ovHZOX9wgR"
-    },
-    {
-      "added_at": "2024-02-14 11:37:11",
-      "album": {
-        "name": "Tell Me Something Good",
-        "url": "https://open.spotify.com/album/4tyukGQ3uDTgjLHxHZocH4"
-      },
-      "artists": [
-        {
-          "name": "Ewan McVicar",
-          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
-        }
-      ],
-      "duration_ms": 249678,
-      "name": "Tell Me Something Good",
-      "url": "https://open.spotify.com/track/5krhFNgUcYHwXlNPJJYzFM"
     },
     {
       "added_at": "2024-02-14 11:37:11",
@@ -791,6 +791,22 @@
     {
       "added_at": "2024-02-14 11:37:11",
       "album": {
+        "name": "Unfoolish (You Must Be Used To Me Crying)",
+        "url": "https://open.spotify.com/album/4Fxgfr9pg3csJp73m5SZ53"
+      },
+      "artists": [
+        {
+          "name": "Ku De Ta",
+          "url": "https://open.spotify.com/artist/39oQK5CtIHrU6EuaWtJpnU"
+        }
+      ],
+      "duration_ms": 133462,
+      "name": "Unfoolish (You Must Be Used To Me Crying)",
+      "url": "https://open.spotify.com/track/3n8hN6Q8tQR8JHvRQSGFuU"
+    },
+    {
+      "added_at": "2024-02-14 11:37:11",
+      "album": {
         "name": "Signals",
         "url": "https://open.spotify.com/album/51cQuF5mmlX5cHRVIbOBYE"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 167998,
       "name": "Signals",
       "url": "https://open.spotify.com/track/3Zs7UPRJeoy3uycdPHVfwv"
-    },
-    {
-      "added_at": "2024-02-14 11:37:11",
-      "album": {
-        "name": "Unfoolish (You Must Be Used To Me Crying)",
-        "url": "https://open.spotify.com/album/4Fxgfr9pg3csJp73m5SZ53"
-      },
-      "artists": [
-        {
-          "name": "Ku De Ta",
-          "url": "https://open.spotify.com/artist/39oQK5CtIHrU6EuaWtJpnU"
-        }
-      ],
-      "duration_ms": 133462,
-      "name": "Unfoolish (You Must Be Used To Me Crying)",
-      "url": "https://open.spotify.com/track/3n8hN6Q8tQR8JHvRQSGFuU"
     },
     {
       "added_at": "2024-02-14 11:37:11",
@@ -1095,22 +1095,22 @@
     {
       "added_at": "2024-02-14 11:37:11",
       "album": {
-        "name": "JOY (Push The Button)",
-        "url": "https://open.spotify.com/album/1jkNntbUEEHM1TDNrestb2"
+        "name": "Foreign Ororo (Special Edition)",
+        "url": "https://open.spotify.com/album/5oKOIiqFThV4doCMFA5Y4z"
       },
       "artists": [
         {
-          "name": "Joy Anonymous",
-          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
+          "name": "Riton",
+          "url": "https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1"
         },
         {
-          "name": "Sugababes",
-          "url": "https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf"
+          "name": "Kah-Lo",
+          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
         }
       ],
-      "duration_ms": 235198,
-      "name": "JOY (Push The Button)",
-      "url": "https://open.spotify.com/track/38k9ZI2scBdNV11KM3pTNB"
+      "duration_ms": 151229,
+      "name": "Rinse & Repeat",
+      "url": "https://open.spotify.com/track/6lo7WipynUbiHfmmcpn3Qa"
     },
     {
       "added_at": "2024-02-14 11:37:11",
@@ -1131,22 +1131,22 @@
     {
       "added_at": "2024-02-14 11:37:11",
       "album": {
-        "name": "Foreign Ororo (Special Edition)",
-        "url": "https://open.spotify.com/album/5oKOIiqFThV4doCMFA5Y4z"
+        "name": "JOY (Push The Button)",
+        "url": "https://open.spotify.com/album/1jkNntbUEEHM1TDNrestb2"
       },
       "artists": [
         {
-          "name": "Riton",
-          "url": "https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1"
+          "name": "Joy Anonymous",
+          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
         },
         {
-          "name": "Kah-Lo",
-          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
+          "name": "Sugababes",
+          "url": "https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf"
         }
       ],
-      "duration_ms": 151229,
-      "name": "Rinse & Repeat",
-      "url": "https://open.spotify.com/track/6lo7WipynUbiHfmmcpn3Qa"
+      "duration_ms": 235198,
+      "name": "JOY (Push The Button)",
+      "url": "https://open.spotify.com/track/38k9ZI2scBdNV11KM3pTNB"
     },
     {
       "added_at": "2024-02-14 11:37:11",
@@ -1367,6 +1367,26 @@
     {
       "added_at": "2024-02-14 11:37:11",
       "album": {
+        "name": "Every Single Time (with Silky)",
+        "url": "https://open.spotify.com/album/7t7ONZWC56jEHLGBTKPZSX"
+      },
+      "artists": [
+        {
+          "name": "Bissett",
+          "url": "https://open.spotify.com/artist/4Mgx5TSeuT3wJwZYu6T7t7"
+        },
+        {
+          "name": "Silky",
+          "url": "https://open.spotify.com/artist/3dlippLcdVGBPKVFhnWXaF"
+        }
+      ],
+      "duration_ms": 167102,
+      "name": "Every Single Time (with Silky)",
+      "url": "https://open.spotify.com/track/61drLfij7yoXMTYIY8088V"
+    },
+    {
+      "added_at": "2024-02-14 11:37:11",
+      "album": {
         "name": "Good for Me (feat. Anna Straker)",
         "url": "https://open.spotify.com/album/748zysgcKhJBQPJcRAnznX"
       },
@@ -1387,26 +1407,6 @@
       "duration_ms": 144960,
       "name": "Good for Me (feat. Anna Straker)",
       "url": "https://open.spotify.com/track/2uq1PtuZxq2BAWqZSS80Bd"
-    },
-    {
-      "added_at": "2024-02-14 11:37:11",
-      "album": {
-        "name": "Every Single Time (with Silky)",
-        "url": "https://open.spotify.com/album/7t7ONZWC56jEHLGBTKPZSX"
-      },
-      "artists": [
-        {
-          "name": "Bissett",
-          "url": "https://open.spotify.com/artist/4Mgx5TSeuT3wJwZYu6T7t7"
-        },
-        {
-          "name": "Silky",
-          "url": "https://open.spotify.com/artist/3dlippLcdVGBPKVFhnWXaF"
-        }
-      ],
-      "duration_ms": 167102,
-      "name": "Every Single Time (with Silky)",
-      "url": "https://open.spotify.com/track/61drLfij7yoXMTYIY8088V"
     },
     {
       "added_at": "2024-02-14 11:37:11",
@@ -1663,26 +1663,6 @@
     {
       "added_at": "2024-02-14 11:37:11",
       "album": {
-        "name": "Better Me (feat. Lily Mckenzie)",
-        "url": "https://open.spotify.com/album/6fQqgCDn84OWQZTSswLo6l"
-      },
-      "artists": [
-        {
-          "name": "Saffron Stone",
-          "url": "https://open.spotify.com/artist/71FmTfYoEXhF3kSsbPiuKz"
-        },
-        {
-          "name": "Lily Mckenzie",
-          "url": "https://open.spotify.com/artist/6LsSHppZVgx7eks7hAkTPN"
-        }
-      ],
-      "duration_ms": 191625,
-      "name": "Better Me (feat. Lily Mckenzie)",
-      "url": "https://open.spotify.com/track/3aeqEyOCo9AaKboo37Wr8B"
-    },
-    {
-      "added_at": "2024-02-14 11:37:11",
-      "album": {
         "name": "Outta My Head",
         "url": "https://open.spotify.com/album/7vl0y5eLEBIdeASytoZOWA"
       },
@@ -1699,6 +1679,26 @@
       "duration_ms": 158692,
       "name": "Outta My Head",
       "url": "https://open.spotify.com/track/73HFI78kF6Hr3PjOpdcU2t"
+    },
+    {
+      "added_at": "2024-02-14 11:37:11",
+      "album": {
+        "name": "Better Me (feat. Lily Mckenzie)",
+        "url": "https://open.spotify.com/album/6fQqgCDn84OWQZTSswLo6l"
+      },
+      "artists": [
+        {
+          "name": "Saffron Stone",
+          "url": "https://open.spotify.com/artist/71FmTfYoEXhF3kSsbPiuKz"
+        },
+        {
+          "name": "Lily Mckenzie",
+          "url": "https://open.spotify.com/artist/6LsSHppZVgx7eks7hAkTPN"
+        }
+      ],
+      "duration_ms": 191625,
+      "name": "Better Me (feat. Lily Mckenzie)",
+      "url": "https://open.spotify.com/track/3aeqEyOCo9AaKboo37Wr8B"
     },
     {
       "added_at": "2024-02-14 11:37:11",

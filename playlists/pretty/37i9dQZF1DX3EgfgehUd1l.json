@@ -1,12 +1,12 @@
 {
   "description": "Vintage easy listening from the fifties...",
-  "num_followers": 164805,
+  "num_followers": 164814,
   "original_name": "Easy 50s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOGMxODg2MzY1NDliOTRlMTA1MzA0MWY4OTI4OWQwOWNhMGJiOWFh",
+  "snapshot_id": "MCwwM2FmZWJmODFmZDFmMjY5MzdlNzQ2ODMzNThmODgyNThkYzEwNTQ3",
   "tracks": [
     {
       "added_at": "2023-10-17 16:18:55",
@@ -627,18 +627,18 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Sound Of Christmas",
-        "url": "https://open.spotify.com/album/0YjxIUhLMpx8AitREvQxKl"
+        "name": "Elvis Presley",
+        "url": "https://open.spotify.com/album/7GXP5OhYyPVLmcVfO9Iqin"
       },
       "artists": [
         {
-          "name": "Ramsey Lewis Trio",
-          "url": "https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu"
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
         }
       ],
-      "duration_ms": 158933,
-      "name": "Here Comes Santa Claus",
-      "url": "https://open.spotify.com/track/3D2uwNConeiGJmzopkVkCU"
+      "duration_ms": 162213,
+      "name": "Blue Moon - Take 9/M",
+      "url": "https://open.spotify.com/track/6VqCe4PcokSekHPJQaDx0B"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -659,18 +659,18 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Elvis Presley",
-        "url": "https://open.spotify.com/album/7GXP5OhYyPVLmcVfO9Iqin"
+        "name": "Sound Of Christmas",
+        "url": "https://open.spotify.com/album/0YjxIUhLMpx8AitREvQxKl"
       },
       "artists": [
         {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+          "name": "Ramsey Lewis Trio",
+          "url": "https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu"
         }
       ],
-      "duration_ms": 162213,
-      "name": "Blue Moon - Take 9/M",
-      "url": "https://open.spotify.com/track/6VqCe4PcokSekHPJQaDx0B"
+      "duration_ms": 158933,
+      "name": "Here Comes Santa Claus",
+      "url": "https://open.spotify.com/track/3D2uwNConeiGJmzopkVkCU"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "16 Most Requested Songs",
-        "url": "https://open.spotify.com/album/1MqnaRP5Mi9yN8mOis4YUM"
+        "name": "The Welsh Tenor",
+        "url": "https://open.spotify.com/album/6JGE30arieUuj9yMlmWGxU"
       },
       "artists": [
         {
-          "name": "Johnnie Ray",
-          "url": "https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq"
+          "name": "Malcolm Vaughan",
+          "url": "https://open.spotify.com/artist/40nN9AjGbnrntYFEyD95GA"
         }
       ],
-      "duration_ms": 172440,
-      "name": "Hey There - from The \"Pajama Game\"",
-      "url": "https://open.spotify.com/track/6bXBU7A1e6oVoMCYNPzXoN"
+      "duration_ms": 166266,
+      "name": "My Special Angel",
+      "url": "https://open.spotify.com/track/3NaKs6Dv0bPR3626ZnQ1Fx"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "The Welsh Tenor",
-        "url": "https://open.spotify.com/album/6JGE30arieUuj9yMlmWGxU"
+        "name": "16 Most Requested Songs",
+        "url": "https://open.spotify.com/album/1MqnaRP5Mi9yN8mOis4YUM"
       },
       "artists": [
         {
-          "name": "Malcolm Vaughan",
-          "url": "https://open.spotify.com/artist/40nN9AjGbnrntYFEyD95GA"
+          "name": "Johnnie Ray",
+          "url": "https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq"
         }
       ],
-      "duration_ms": 166266,
-      "name": "My Special Angel",
-      "url": "https://open.spotify.com/track/3NaKs6Dv0bPR3626ZnQ1Fx"
+      "duration_ms": 172440,
+      "name": "Hey There - from The \"Pajama Game\"",
+      "url": "https://open.spotify.com/track/6bXBU7A1e6oVoMCYNPzXoN"
     }
   ],
   "unique_name": "Easy 50s",

@@ -4,7 +4,7 @@
 
 > 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: syudou
 
-265 songs - 15 hr 50 min
+267 songs - 15 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [hot lemon \- Remix](https://open.spotify.com/track/0KjOGXAd5j5rbjGSnBiolt) | [noa](https://open.spotify.com/artist/7nhWQxOMcfIv29SBPZEcgp), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [SKRYU](https://open.spotify.com/artist/3YI0IfapXX8M8W3zwzmcbM) | [hot lemon \(Remix\)](https://open.spotify.com/album/6MNsyAUtnCzLnuo1dJQBMB) | 2:33 | 2023-12-05 | 2023-12-13 |
 | [I GOT YOU](https://open.spotify.com/track/35dhwUoJNlxrPyEIJkfDnx) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [I GOT YOU](https://open.spotify.com/album/6RZHj6L3NqrvcKeiBHQbjL) | 2:53 | 2024-02-01 | 2024-02-09 |
 | [I GOT YOU \(Original\)](https://open.spotify.com/track/4RXsi1oTj3uaqoRC9UrwGA) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [I GOT YOU \(Voyage ver.\)](https://open.spotify.com/album/5cnrcbdcdt6BJgAig9Tn3P) | 2:53 | 2024-02-08 |  |
+| [Inochizuna](https://open.spotify.com/track/5RDlCRPbMIgVzNS3677eKo) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [Inochizuna](https://open.spotify.com/album/1L6Q6ImUTkfuYi4jRLtnRf) | 3:21 | 2024-02-20 |  |
 | [junkie](https://open.spotify.com/track/0w9YAJAe83rOwK8yKCURqN) | [swetty](https://open.spotify.com/artist/1upcOMqQPeePrD1BmZV6vm) | [junkie](https://open.spotify.com/album/1O51SwMFrdxhjgsSzC9Fsw) | 2:28 | 2024-02-11 |  |
 | [Just Like Dat feat\. JP THE WAVY](https://open.spotify.com/track/44jt5m1pRE0rI4VixZbWF6) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [99.9 Psychic Radio](https://open.spotify.com/album/0am7ZAy4aq4sAS4ThW4ZhB) | 3:11 | 2024-01-18 | 2024-01-26 |
 | [jya\-ji](https://open.spotify.com/track/11cyQJ1nsaOPoIfQRqUZep) | [saba sister](https://open.spotify.com/artist/2E9ODwADhw1qvfO9BXAkGX) | [Saba No Ichi](https://open.spotify.com/album/4h0gEOGeWn8Dc22RJ0McFN) | 2:35 | 2024-01-10 |  |
@@ -137,7 +138,8 @@
 | [Toryanse](https://open.spotify.com/track/6Zdy0Snyt41k4Bg8Imtq7r) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Toryanse](https://open.spotify.com/album/5tHcuKjRQIAwAvm1eoQIqI) | 2:36 | 2024-01-25 | 2024-02-07 |
 | [Toryanse](https://open.spotify.com/track/7lxfgkxV4IGz7lc6TmFPqx) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Toryanse](https://open.spotify.com/album/2RjltuGxIPfb5a8djkUF57) | 2:36 | 2024-01-25 | 2024-01-27 |
 | [Touhikou](https://open.spotify.com/track/5Xg3ixE8imcxa3QKnH8ldi) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Touhikou](https://open.spotify.com/album/6AU5EVaR9fZQpJL3aB0VK6) | 2:56 | 2023-12-26 | 2024-01-17 |
-| [Transpose](https://open.spotify.com/track/1pXgfCnwQwziwKHULqVIXo) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [Transpose](https://open.spotify.com/album/0CpmKvgc6E22A9gD5GTxin) | 3:59 | 2024-02-20 |  |
+| [Transpose](https://open.spotify.com/track/0n2q9kCBG5QSgZx2sj4H1P) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [Transpose](https://open.spotify.com/album/6txrWZ14wMs7sh93JtWFUU) | 3:59 | 2024-02-20 |  |
+| [Transpose](https://open.spotify.com/track/1pXgfCnwQwziwKHULqVIXo) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [Transpose](https://open.spotify.com/album/0CpmKvgc6E22A9gD5GTxin) | 3:59 | 2024-02-20 | 2024-02-22 |
 | [Tsumugu](https://open.spotify.com/track/0vfBB5CXn4CwpmQ2M5EZOe) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [Oidaki](https://open.spotify.com/album/5FGKmIasXlcphIo9Z3ihS5) | 3:52 | 2023-11-23 | 2023-12-13 |
 | [TURN IT UP \- feat\. Candee & ZOT on the WAVE](https://open.spotify.com/track/3BjCtb7zq4Nn1riQhneMwo) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [Candee](https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR), [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH) | [TURN IT UP \(feat\. Candee & ZOT on the WAVE\)](https://open.spotify.com/album/5gTvyYgUsKQ6UwUdavwn5z) | 3:13 | 2023-11-23 | 2024-01-10 |
 | [U Are My Paradise](https://open.spotify.com/track/3sdo6IqAbWbu8rDsZE2ilQ) | [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4) | [U Are My Paradise](https://open.spotify.com/album/4hifUmkTUBbd654FpY0QS8) | 3:15 | 2023-12-19 | 2024-01-05 |
@@ -225,7 +227,7 @@
 | [初恋](https://open.spotify.com/track/6TwzwaTeNOEqxDJcBJDyQm) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [初恋](https://open.spotify.com/album/5j59Yk7RbdJTsfxWprg2hD) | 3:15 | 2023-11-29 | 2024-01-11 |
 | [右手のネイル](https://open.spotify.com/track/1Sl2DHDcnQlLPq8Ko68bHW) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [右手のネイル](https://open.spotify.com/album/6kcHo9w5zCAJlr6wmEexd0) | 4:19 | 2023-12-12 | 2023-12-14 |
 | [君がサヨナラ言えたって・・・](https://open.spotify.com/track/5CG60s0L8ax0UPQBuIiKFl) | [櫻坂46](https://open.spotify.com/artist/0Ti7MfCiVVQAK8zLSiqlto) | [君がサヨナラ言えたって・・・](https://open.spotify.com/album/4AsdDdaEPCapGJCWB17Q3I) | 4:40 | 2023-12-26 | 2024-01-17 |
-| [命綱](https://open.spotify.com/track/15HRektCNAGiAVBrQ2bjCb) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [命綱](https://open.spotify.com/album/6Zn9rSkfR2ehZKbA5k14kG) | 3:21 | 2024-02-20 |  |
+| [命綱](https://open.spotify.com/track/15HRektCNAGiAVBrQ2bjCb) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [命綱](https://open.spotify.com/album/6Zn9rSkfR2ehZKbA5k14kG) | 3:21 | 2024-02-20 | 2024-02-22 |
 | [問.1](https://open.spotify.com/track/4WXU2ZnBWwasAenqq2GZKO) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [問.1](https://open.spotify.com/album/6rceF7Zl8hpcZYiXGNIgg4) | 3:51 | 2024-02-13 | 2024-02-15 |
 | [嘘つきの君が好き](https://open.spotify.com/track/4f38Jn95Ls3TEpqeeTdJjT) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [嘘つきの君が好き](https://open.spotify.com/album/4aSOGfFjJiJpqsP5HwHYhs) | 3:14 | 2024-01-10 |  |
 | [夢と悪魔とファンタジー](https://open.spotify.com/track/4e4FVy70OnvQZ9lXbwPhCB) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [花になって](https://open.spotify.com/album/55lTYZYG9JnlBg9NSHEgma) | 4:29 | 2023-12-05 | 2023-12-13 |

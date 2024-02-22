@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,860 songs - 4 day 4 hr 34 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,861 songs - 4 day 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -647,7 +647,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 637 | [Start a Riot](https://open.spotify.com/track/6V81K1OcvYgHEnCA6A2Qx9) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)](https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs) | 2:51 |
 | 638 | [The Bidding](https://open.spotify.com/track/0HBrtXJohbIW4IhPZ50GmH) | [Tally Hall](https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL) | [Marvin's Marvelous Mechanical Museum](https://open.spotify.com/album/2TN3NIEBmAOGWmvP96DFs5) | 2:40 |
 | 639 | [Blow My Brains Out](https://open.spotify.com/track/4ZlQzskKkK4jsbcqO96luB) | [Tikkle Me](https://open.spotify.com/artist/6oWIS1UZp9dR74eYez74vX) | [Tikkle Me](https://open.spotify.com/album/0tNO6EN9i6at8omQTYkcch) | 3:42 |
-| 640 | [Walking On A Dream](https://open.spotify.com/track/6A6qBFJHid4WutQu6HHEZt) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream \(Special Edition\)](https://open.spotify.com/album/1GoqBRUPZzBKvMKZxSQ1mp) | 3:18 |
+| 640 | [Walking On A Dream](https://open.spotify.com/track/6A6qBFJHid4WutQu6HHEZt) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream \(Special Edition\)](https://open.spotify.com/album/1GoqBRUPZzBKvMKZxSQ1mp) | 3:18 |
 | 641 | [Burning Pile](https://open.spotify.com/track/0zMAvsQmaQ4DGsmXtKixpn) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [O My Heart](https://open.spotify.com/album/0X7S0TEZ5NJsSxmyTnfYi2) | 4:22 |
 | 642 | [HURT](https://open.spotify.com/track/067hayOg89adiLyGpC6Ox6) | [1 800 PAIN](https://open.spotify.com/artist/7BT9qietxZuylsjyWGYBUR) | [HURT](https://open.spotify.com/album/3wpSPPVxf7OgZToA2KWCzO) | 2:53 |
 | 643 | [Peppermint](https://open.spotify.com/track/6pqsSDGg7akpAMXLSkRL00) | [Jack Stauber's Micropop](https://open.spotify.com/artist/1yNIb413Bmfs2ZBVuPp9kC) | [Micropop](https://open.spotify.com/album/1yY9R0IjLXGhf3aPb6Y63k) | 0:33 |
@@ -1868,5 +1868,6 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 1858 | [Youngest Daughter](https://open.spotify.com/track/3tYxhPqkioZEV5el3DJxLQ) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Jar](https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw) | 4:09 |
 | 1859 | [shhh](https://open.spotify.com/track/6kh9HwHs4jdVtwejIHdEVV) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [shhh](https://open.spotify.com/album/3i6absni01kvSBR0Ppa9oA) | 2:38 |
 | 1860 | [Romeo and Juliet, Op\. 64 / Act 1: Dance Of The Knights](https://open.spotify.com/track/2LiWNkeUOAeibGxJKxmjsD) | [Sergei Prokofiev](https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l), [The Cleveland Orchestra](https://open.spotify.com/artist/0jJszR81GjA87jeRq0Jgwz), [Lorin Maazel](https://open.spotify.com/artist/3EQvBmWlfyaRLGDuVfKmve) | [Prokofiev: Romeo & Juliet](https://open.spotify.com/album/2wYzIASaoQtpXa16C5HvDZ) | 5:07 |
+| 1861 | [Glory to Arstotzka](https://open.spotify.com/track/1j8nEnYhowaJRq5aZD35mo) | [Lucas Pope](https://open.spotify.com/artist/78f89mbowbxt39ctuqX8bM) | [Papers, Please \(Original Game Soundtrack\)](https://open.spotify.com/album/0lKVow2QmwXI6NlxCr2LNW) | 1:43 |
 
-Snapshot ID: `NzExLDVmYjc5YTIzNGNhMTY1MTgzOGVjOTJlMjJhZTI5MzYzM2I0OWRjODc=`
+Snapshot ID: `NzEyLDAwNjY4MmVlYzBkMzIxMWQxNjQxYTMxMzNkMjkwZGQ0MjNmZWFiOGY=`

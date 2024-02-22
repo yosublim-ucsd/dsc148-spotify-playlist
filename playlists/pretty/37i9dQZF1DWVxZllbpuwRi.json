@@ -1,12 +1,12 @@
 {
   "description": "Aqui o ver\u00e3o dura 365 dias! Passe o protetor solar, aumente o som e aperte o play!",
-  "num_followers": 609536,
+  "num_followers": 609520,
   "original_name": "Ver\u00e3o Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjM2FjMzlkOTA2YTJlY2NlY2YwZjg2MDNiZjczODZjNmJlMDM2ZWM4",
+  "snapshot_id": "MCwwNjJkMmY0MGY0ZjkyMzJkYzExNTA4ZDg4MzEyMmZmYTVjYzU3ZDQx",
   "tracks": [
     {
       "added_at": "2023-02-17 03:00:00",
@@ -639,30 +639,6 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
-        "name": "ENOC",
-        "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 214506,
-      "name": "Del Mar",
-      "url": "https://open.spotify.com/track/5cpJFiNwYyWwFLH0V6B3N8"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
         "name": "Jackie Chan",
         "url": "https://open.spotify.com/album/0vRcQquqBlFvnezWldWfmt"
       },
@@ -687,6 +663,30 @@
       "duration_ms": 215759,
       "name": "Jackie Chan",
       "url": "https://open.spotify.com/track/4kWO6O1BUXcZmaxitpVUwp"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
+        "name": "ENOC",
+        "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 214506,
+      "name": "Del Mar",
+      "url": "https://open.spotify.com/track/5cpJFiNwYyWwFLH0V6B3N8"
     },
     {
       "added_at": "2023-02-17 03:00:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
-        "name": "#7DJ (7 D\u00edas En Jamaica)",
-        "url": "https://open.spotify.com/album/7vZC8PTQUCcw3687OxqY98"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 176970,
-      "name": "Agua de Jamaica",
-      "url": "https://open.spotify.com/track/41BzKiCrKpUQHS3TP0jmdr"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
         "name": "Don Don",
         "url": "https://open.spotify.com/album/5xBO97P4jYEn69VzV06503"
       },
@@ -1111,6 +1095,22 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
+        "name": "#7DJ (7 D\u00edas En Jamaica)",
+        "url": "https://open.spotify.com/album/7vZC8PTQUCcw3687OxqY98"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 176970,
+      "name": "Agua de Jamaica",
+      "url": "https://open.spotify.com/track/41BzKiCrKpUQHS3TP0jmdr"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
         "name": "K.O.",
         "url": "https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK"
       },
@@ -1123,26 +1123,6 @@
       "duration_ms": 161813,
       "name": "Calla T\u00fa",
       "url": "https://open.spotify.com/track/7jL2tCE0Xn2tunqWayBkte"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
-        "name": "M\u00e1s De La Una",
-        "url": "https://open.spotify.com/album/0fz7mvsACRDrvT5PYTt4U9"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 236731,
-      "name": "M\u00e1s De La Una",
-      "url": "https://open.spotify.com/track/69Y5IZuBvGyzySFt5x7kCq"
     },
     {
       "added_at": "2023-02-17 03:00:00",
@@ -1163,6 +1143,26 @@
       "duration_ms": 206586,
       "name": "Antes",
       "url": "https://open.spotify.com/track/73O30uMI7n6DuzBmbtO7kC"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
+        "name": "M\u00e1s De La Una",
+        "url": "https://open.spotify.com/album/0fz7mvsACRDrvT5PYTt4U9"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 236731,
+      "name": "M\u00e1s De La Una",
+      "url": "https://open.spotify.com/track/69Y5IZuBvGyzySFt5x7kCq"
     },
     {
       "added_at": "2023-02-17 03:00:00",
@@ -1587,26 +1587,6 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
-        "name": "Lento",
-        "url": "https://open.spotify.com/album/3P5vWf0KJyYObvNKB7jP00"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 188910,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/2XghxCSGfhpGR2B3ahQXVr"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
         "name": "One Touch",
         "url": "https://open.spotify.com/album/73JUDiyiu0OXCzzM2jjVkL"
       },
@@ -1623,6 +1603,26 @@
       "duration_ms": 197875,
       "name": "One Touch",
       "url": "https://open.spotify.com/track/5EKiBMhzRLALeGDPdoAKkQ"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
+        "name": "Lento",
+        "url": "https://open.spotify.com/album/3P5vWf0KJyYObvNKB7jP00"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 188910,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/2XghxCSGfhpGR2B3ahQXVr"
     },
     {
       "added_at": "2023-02-17 03:00:00",
@@ -1811,26 +1811,6 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
-        "name": "Noitada",
-        "url": "https://open.spotify.com/album/4TxfLb1NSPnGUgFZ2bkTvY"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 136706,
-      "name": "Balinha de Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/265PFGoMLp50HHmtbKjvNW"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
         "name": "Ya T\u00fa Me Conoces",
         "url": "https://open.spotify.com/album/1HLBpz1LijH2GD2Um5vemj"
       },
@@ -1847,6 +1827,26 @@
       "duration_ms": 195573,
       "name": "Ya T\u00fa Me Conoces",
       "url": "https://open.spotify.com/track/4yuAWrga4ugFz8pnkPBtzE"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
+        "name": "Noitada",
+        "url": "https://open.spotify.com/album/4TxfLb1NSPnGUgFZ2bkTvY"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 136706,
+      "name": "Balinha de Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/265PFGoMLp50HHmtbKjvNW"
     },
     {
       "added_at": "2023-02-17 03:00:00",

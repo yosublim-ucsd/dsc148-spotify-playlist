@@ -4,7 +4,7 @@
 
 > This is Jonas Blue\. The essential tracks, all in one playlist.
 
-55 songs - 2 hr 57 min
+56 songs - 3 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Weekends](https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Weekends](https://open.spotify.com/album/68Ph2nuIeP3e0vzRxrUmkh) | 2:07 | 2023-03-19 |  |
 | [What I Like About You \(feat\. Theresa Rex\)](https://open.spotify.com/track/4NSW0Km5ZG60L8FthUebPJ) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Theresa Rex](https://open.spotify.com/artist/6t9tbRO9Lv6Oq6xtVwfdrn) | [What I Like About You \(feat\. Theresa Rex\)](https://open.spotify.com/album/6gPZmYBSipug1asf4zu9jh) | 3:40 | 2023-03-19 |  |
 | [Wild](https://open.spotify.com/track/1kEc9ep3rFqhwG4OlqbjLH) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Blue](https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L) | 3:32 | 2023-03-20 | 2023-06-07 |
+| [yes, and? \- Jonas Blue Remix](https://open.spotify.com/track/62iX6bbxe9T81LrNwqre3p) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [yes, and? \(remixes\)](https://open.spotify.com/album/0kHBlnc69hLOSyXAZn2yeX) | 3:32 | 2024-02-21 |  |
 | [Younger](https://open.spotify.com/track/4D7ERaKgv8NAeck8RzUtRz) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [Younger](https://open.spotify.com/album/26IuzA897QHyOQVYBWXtTD) | 3:14 | 2023-03-19 |  |
 
 \*This playlist was first scraped on 2023-03-20. Prior content cannot be recovered.

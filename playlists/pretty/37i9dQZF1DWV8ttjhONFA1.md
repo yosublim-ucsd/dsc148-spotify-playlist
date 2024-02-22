@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8ttjhONFA1.md) - [plain]
 
 > El nuevo sonido argentino lo encontrás acá\. Foto: Mica Sotera & Los Otros Días
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,253 likes - 90 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,264 likes - 90 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8ttjhONFA1.md) - [plain]
 | 89 | [Visa Gold Miami](https://open.spotify.com/track/0Pd4u4TF4v3xsUK6ziOamg) | [Francisca y Los Exploradores](https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf), [Lauta](https://open.spotify.com/artist/5ELYwDwhy00ecTXhfsKWci), [Tote](https://open.spotify.com/artist/4JvhKLSrtJy7jAWYaatd64) | [Visa Gold Miami](https://open.spotify.com/album/4RP1zedrA6lKoiOku9W7mw) | 3:01 |
 | 90 | [El Imán \- Remix](https://open.spotify.com/track/2eIGZkPBrCJ4VhqdgaXXV3) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G), [Santiago Martínez](https://open.spotify.com/artist/29AdYwEQmOfNyjhYJQWcHu) | [El Imán \(Remix\)](https://open.spotify.com/album/57eGpWYvr1Oknqn2wExxZe) | 3:48 |
 
-Snapshot ID: `MCxhZTUyYWE3M2MyMmVjNGNlNjFhZWZmOWZkODMyN2UwZDEzNjZjOGJh`
+Snapshot ID: `MCwzYzVkYjUxNjhkM2RmNzNkYzVlMmFkZDU5MmExY2E0ODM2MzIzNWZl`

@@ -1,12 +1,12 @@
 {
   "description": "t\u00edrate un paso y saca los prohibidos",
-  "num_followers": 71703,
+  "num_followers": 71734,
   "original_name": "los pasos prohibidos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNGFmOWFlYjEyZWJlMDFjMzgwMzVkMjM2NjA4NDY0MzczNDM3Nzhl",
+  "snapshot_id": "MCxhZDg1MzY2YTBkOGU2MzkwMDg2OGUzYmRhYzhkZGIxMGMxMzEzZTQ0",
   "tracks": [
     {
       "added_at": "2023-08-14 15:48:07",
@@ -595,26 +595,6 @@
     {
       "added_at": "2023-08-14 15:48:07",
       "album": {
-        "name": "Ya Fue",
-        "url": "https://open.spotify.com/album/7HP4D9IXODFyFuJcOfJmDa"
-      },
-      "artists": [
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        },
-        {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
-        }
-      ],
-      "duration_ms": 193636,
-      "name": "Ya Fue",
-      "url": "https://open.spotify.com/track/61mCcE6UJZyxKESDCPvrim"
-    },
-    {
-      "added_at": "2023-08-14 15:48:07",
-      "album": {
         "name": "Querian Perreo?",
         "url": "https://open.spotify.com/album/0IzxRY3FGPo3sB8kLrNMCU"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 200816,
       "name": "Cochinae",
       "url": "https://open.spotify.com/track/01EzG8Qg7oQqYMTNV5YkOW"
+    },
+    {
+      "added_at": "2023-08-14 15:48:07",
+      "album": {
+        "name": "Ya Fue",
+        "url": "https://open.spotify.com/album/7HP4D9IXODFyFuJcOfJmDa"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        },
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        }
+      ],
+      "duration_ms": 193636,
+      "name": "Ya Fue",
+      "url": "https://open.spotify.com/track/61mCcE6UJZyxKESDCPvrim"
     },
     {
       "added_at": "2023-08-14 15:48:07",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-08-14 15:48:07",
       "album": {
-        "name": "Mi \u00danico Amor",
-        "url": "https://open.spotify.com/album/0XbjIvrClo1jg5G1W3DFMN"
-      },
-      "artists": [
-        {
-          "name": "Nestor En Bloque",
-          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
-        }
-      ],
-      "duration_ms": 212062,
-      "name": "Una Calle Nos Separa",
-      "url": "https://open.spotify.com/track/68tIkBAvIpA5LNpG4xplME"
-    },
-    {
-      "added_at": "2023-08-14 15:48:07",
-      "album": {
         "name": "El Baile de San Juan",
         "url": "https://open.spotify.com/album/6I3BGNjjCmPZ6NKvB9krta"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 254375,
       "name": "El Baile de San Juan",
       "url": "https://open.spotify.com/track/25KUL02kWrFzEVhANo0ESg"
+    },
+    {
+      "added_at": "2023-08-14 15:48:07",
+      "album": {
+        "name": "Mi \u00danico Amor",
+        "url": "https://open.spotify.com/album/0XbjIvrClo1jg5G1W3DFMN"
+      },
+      "artists": [
+        {
+          "name": "Nestor En Bloque",
+          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
+        }
+      ],
+      "duration_ms": 212062,
+      "name": "Una Calle Nos Separa",
+      "url": "https://open.spotify.com/track/68tIkBAvIpA5LNpG4xplME"
     },
     {
       "added_at": "2023-08-14 15:48:07",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-08-14 15:48:07",
       "album": {
-        "name": "Merengues Con Gusto",
-        "url": "https://open.spotify.com/album/3cnNKDOYcchZ5Jl9aPxvKL"
-      },
-      "artists": [
-        {
-          "name": "Oro Solido",
-          "url": "https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4"
-        }
-      ],
-      "duration_ms": 291324,
-      "name": "Moviendo Las Caderas",
-      "url": "https://open.spotify.com/track/4q6N9URYBLk9g1bUIWwnoR"
-    },
-    {
-      "added_at": "2023-08-14 15:48:07",
-      "album": {
         "name": "Cumbia Del Coraz\u00f3n",
         "url": "https://open.spotify.com/album/0ZgIMgZMTpyNRZNCYoHhYm"
       },
@@ -1187,18 +1171,18 @@
     {
       "added_at": "2023-08-14 15:48:07",
       "album": {
-        "name": "Pibes Chorros - Criando Cuervos",
-        "url": "https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs"
+        "name": "Merengues Con Gusto",
+        "url": "https://open.spotify.com/album/3cnNKDOYcchZ5Jl9aPxvKL"
       },
       "artists": [
         {
-          "name": "Los Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+          "name": "Oro Solido",
+          "url": "https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4"
         }
       ],
-      "duration_ms": 225320,
-      "name": "Que calor",
-      "url": "https://open.spotify.com/track/0RDDMvevLZkkBhAHP2mNpb"
+      "duration_ms": 291324,
+      "name": "Moviendo Las Caderas",
+      "url": "https://open.spotify.com/track/4q6N9URYBLk9g1bUIWwnoR"
     },
     {
       "added_at": "2023-08-14 15:48:07",
@@ -1219,6 +1203,22 @@
     {
       "added_at": "2023-08-14 15:48:07",
       "album": {
+        "name": "Pibes Chorros - Criando Cuervos",
+        "url": "https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs"
+      },
+      "artists": [
+        {
+          "name": "Los Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+        }
+      ],
+      "duration_ms": 225320,
+      "name": "Que calor",
+      "url": "https://open.spotify.com/track/0RDDMvevLZkkBhAHP2mNpb"
+    },
+    {
+      "added_at": "2023-08-14 15:48:07",
+      "album": {
         "name": "KlK Llego El Tipo the Album",
         "url": "https://open.spotify.com/album/3XHcqktZHNuuRjdLJqiGs0"
       },
@@ -1231,6 +1231,22 @@
       "duration_ms": 175333,
       "name": "Menea Tu Chapa",
       "url": "https://open.spotify.com/track/7G6dxux3uUjSfQY7MP9J5W"
+    },
+    {
+      "added_at": "2023-08-14 15:48:07",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/2se2DHy9J2L20JV02zwQHx"
+      },
+      "artists": [
+        {
+          "name": "Fulanito",
+          "url": "https://open.spotify.com/artist/0hD97064k3LBUrRvfT42SE"
+        }
+      ],
+      "duration_ms": 206493,
+      "name": "El Cepillo",
+      "url": "https://open.spotify.com/track/2EWZswsvSERfAWzXPE2trG"
     },
     {
       "added_at": "2023-08-14 15:48:07",
@@ -1251,22 +1267,6 @@
       "duration_ms": 124133,
       "name": "Te Hubieras Ido Antes",
       "url": "https://open.spotify.com/track/4HeQYAeIq5lyHcR5JIh6I7"
-    },
-    {
-      "added_at": "2023-08-14 15:48:07",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/2se2DHy9J2L20JV02zwQHx"
-      },
-      "artists": [
-        {
-          "name": "Fulanito",
-          "url": "https://open.spotify.com/artist/0hD97064k3LBUrRvfT42SE"
-        }
-      ],
-      "duration_ms": 206493,
-      "name": "El Cepillo",
-      "url": "https://open.spotify.com/track/2EWZswsvSERfAWzXPE2trG"
     },
     {
       "added_at": "2023-08-14 15:48:07",

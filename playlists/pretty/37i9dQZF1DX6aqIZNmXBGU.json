@@ -1,12 +1,12 @@
 {
   "description": "Get pumped, feel the vibe and get ready for the swell coming in.",
-  "num_followers": 17390,
+  "num_followers": 17386,
   "original_name": "Sun & Surf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNGJmMjkwMDFlYzA5MzMxYTQ5NmI3MmYyMWU5OGY0OTY5MzMyN2Fk",
+  "snapshot_id": "MCw5Yzc4MGE1YjNjM2E4OTAwMjY2Yzc3YjJmYmU4NDFmNzc0MjI3Zjc3",
   "tracks": [
     {
       "added_at": "2021-04-09 06:19:31",
@@ -427,22 +427,6 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "Sad Boys",
-        "url": "https://open.spotify.com/album/3BxuW4fI9ScjP9dr5BMd8C"
-      },
-      "artists": [
-        {
-          "name": "Surf Curse",
-          "url": "https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D"
-        }
-      ],
-      "duration_ms": 159198,
-      "name": "I'm Not Making out With You",
-      "url": "https://open.spotify.com/track/7k7LglMYwTTM6P7Bnqlu1N"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
         "name": "InnerSpeaker",
         "url": "https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 271720,
       "name": "Lucidity",
       "url": "https://open.spotify.com/track/4EC81w5nKG5tZlkHyKT2vO"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
+        "name": "Sad Boys",
+        "url": "https://open.spotify.com/album/3BxuW4fI9ScjP9dr5BMd8C"
+      },
+      "artists": [
+        {
+          "name": "Surf Curse",
+          "url": "https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D"
+        }
+      ],
+      "duration_ms": 159198,
+      "name": "I'm Not Making out With You",
+      "url": "https://open.spotify.com/track/7k7LglMYwTTM6P7Bnqlu1N"
     },
     {
       "added_at": "2022-03-23 15:48:35",
@@ -555,6 +555,22 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
+        "name": "Sundown Syndrome / Remember Me",
+        "url": "https://open.spotify.com/album/58rVVNfX3nGIMcaC1Zf2qe"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 261040,
+      "name": "Remember Me",
+      "url": "https://open.spotify.com/track/48HSUrDZQPVeWuVckLb902"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
         "name": "Bass Drum of Death",
         "url": "https://open.spotify.com/album/5CZ0hRrtBQifqQ1GhHuNgH"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 229946,
       "name": "Crawling After You",
       "url": "https://open.spotify.com/track/7lHGsPvsdeSD1tRm0faS1o"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
-        "name": "Floating Coffin",
-        "url": "https://open.spotify.com/album/6UpdRU3P0AAMA6MVCzsW3c"
-      },
-      "artists": [
-        {
-          "name": "Thee Oh Sees",
-          "url": "https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh"
-        }
-      ],
-      "duration_ms": 212600,
-      "name": "Toe Cutter - Thumb Buster",
-      "url": "https://open.spotify.com/track/4lZjHEJXzKCCTVPtgYcypv"
     },
     {
       "added_at": "2021-04-09 06:19:31",
@@ -603,18 +603,18 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "Sundown Syndrome / Remember Me",
-        "url": "https://open.spotify.com/album/58rVVNfX3nGIMcaC1Zf2qe"
+        "name": "Floating Coffin",
+        "url": "https://open.spotify.com/album/6UpdRU3P0AAMA6MVCzsW3c"
       },
       "artists": [
         {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+          "name": "Thee Oh Sees",
+          "url": "https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh"
         }
       ],
-      "duration_ms": 261040,
-      "name": "Remember Me",
-      "url": "https://open.spotify.com/track/48HSUrDZQPVeWuVckLb902"
+      "duration_ms": 212600,
+      "name": "Toe Cutter - Thumb Buster",
+      "url": "https://open.spotify.com/track/4lZjHEJXzKCCTVPtgYcypv"
     },
     {
       "added_at": "2021-04-09 06:19:31",
@@ -895,6 +895,22 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
+        "name": "FIDLAR",
+        "url": "https://open.spotify.com/album/5JMfv67IC3DqCIAbWS0muC"
+      },
+      "artists": [
+        {
+          "name": "FIDLAR",
+          "url": "https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud"
+        }
+      ],
+      "duration_ms": 134026,
+      "name": "No Waves",
+      "url": "https://open.spotify.com/track/1IqHrcsmlkHR8k1jzqH4Ki"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
         "name": "Gb City",
         "url": "https://open.spotify.com/album/4VFt6gflVhBmesukoQ3Lt5"
       },
@@ -927,22 +943,6 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "Common Sense",
-        "url": "https://open.spotify.com/album/1kiiHeNfR8OZWcCeOPpRW3"
-      },
-      "artists": [
-        {
-          "name": "Viagra Boys",
-          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
-        }
-      ],
-      "duration_ms": 198866,
-      "name": "Lick the Bag",
-      "url": "https://open.spotify.com/track/7ct0y8Itq93G2qrRJewVUp"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
         "name": "Manipulator",
         "url": "https://open.spotify.com/album/2pIFOXH6DxLbWcUO19mbXa"
       },
@@ -959,18 +959,18 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "FIDLAR",
-        "url": "https://open.spotify.com/album/5JMfv67IC3DqCIAbWS0muC"
+        "name": "Common Sense",
+        "url": "https://open.spotify.com/album/1kiiHeNfR8OZWcCeOPpRW3"
       },
       "artists": [
         {
-          "name": "FIDLAR",
-          "url": "https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud"
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
         }
       ],
-      "duration_ms": 134026,
-      "name": "No Waves",
-      "url": "https://open.spotify.com/track/1IqHrcsmlkHR8k1jzqH4Ki"
+      "duration_ms": 198866,
+      "name": "Lick the Bag",
+      "url": "https://open.spotify.com/track/7ct0y8Itq93G2qrRJewVUp"
     }
   ],
   "unique_name": "Sun & Surf",

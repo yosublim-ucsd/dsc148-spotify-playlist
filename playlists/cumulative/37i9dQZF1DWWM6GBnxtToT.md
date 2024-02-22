@@ -4,7 +4,7 @@
 
 > Diese Songs zaubern dir ein Grinsen ins Gesicht.
 
-129 songs - 7 hr 16 min
+130 songs - 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Mine Forever](https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Mine Forever](https://open.spotify.com/album/5vPc0ab8XurwCozeAu1xp6) | 4:48 | 2023-07-20 |  |
 | [minuit](https://open.spotify.com/track/1DHXKDRugToFO7ak3nA06L) | [Clementine](https://open.spotify.com/artist/5TjiHAfGCJuUsTyAg9Z5fx), [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [minuit](https://open.spotify.com/album/71bHefIH4lQ3fjypk9Tv89) | 3:45 | 2023-07-20 |  |
 | [Mister Burns](https://open.spotify.com/track/3KOk4G26hi8f8kOJF3iZTa) | [KYTES](https://open.spotify.com/artist/1q8H46YhdCtAO8tXHIWe2d) | [Mister Burns](https://open.spotify.com/album/64XYX9rT7ouZe7vVsRV6hi) | 2:35 | 2023-07-20 |  |
-| [Mojito](https://open.spotify.com/track/4RHnFylLAjQXPHIuZZE1bx) | [BILBAO](https://open.spotify.com/artist/6MJ5mobLenB7bCPKPIRoRH) | [Mojito](https://open.spotify.com/album/2DBmd6085jcbfKpihaRpax) | 3:04 | 2023-07-20 |  |
+| [Mojito](https://open.spotify.com/track/4RHnFylLAjQXPHIuZZE1bx) | [BILBAO](https://open.spotify.com/artist/6MJ5mobLenB7bCPKPIRoRH) | [Mojito](https://open.spotify.com/album/2DBmd6085jcbfKpihaRpax) | 3:04 | 2023-07-20 | 2024-02-22 |
 | [More Than Happiness](https://open.spotify.com/track/3AosSVnv55KvhcpPaj5IO1) | [Matija](https://open.spotify.com/artist/0AT9xOpJni8J7sM4UNrrt9) | [More Than Happiness](https://open.spotify.com/album/0AEksbW3dMkEn4mjqmITM0) | 3:58 | 2023-07-20 |  |
 | [Morning Blue](https://open.spotify.com/track/71qr4SoRZ61SKxhH4XhAqP) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Morning Blue](https://open.spotify.com/album/2ewGI2tIH2rBS0j5avcEfG) | 3:37 | 2023-07-20 | 2024-02-07 |
 | [Morning Blue](https://open.spotify.com/track/45c4L5n0wh6KRv0SOf879S) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [How Have You Been?](https://open.spotify.com/album/4FqEHLgdiMHXboXIztMkkO) | 3:37 | 2024-02-05 |  |
@@ -96,6 +96,7 @@
 | [Out of Time](https://open.spotify.com/track/2WPhVFDTP6OyrfT2Hwg75K) | [KYTES](https://open.spotify.com/artist/1q8H46YhdCtAO8tXHIWe2d) | [To Feel Something At All](https://open.spotify.com/album/46vIcaJA2Si8q22eFQkGEH) | 2:49 | 2023-10-19 |  |
 | [Passion \(feat\. Nile Rodgers\)](https://open.spotify.com/track/7jtdG988aYR7IkFObSWfJe) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Passion \(feat\. Nile Rodgers\)](https://open.spotify.com/album/3PPX05eUVd7M3SBnU3Ev5I) | 3:41 | 2023-07-20 | 2024-01-14 |
 | [Passion \(feat\. Nile Rodgers\)](https://open.spotify.com/track/7zMny9SA9XiJeNBp0YUNXK) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Passion \(feat\. Nile Rodgers\)](https://open.spotify.com/album/7hg9Cv2iWH4RTlQuhUWpIx) | 3:41 | 2024-02-05 |  |
+| [Pretty Lady](https://open.spotify.com/track/31ys9ZVrUE0HyS2C6ePzpn) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Terra Firma](https://open.spotify.com/album/7o1gl7In7Onhi6KpQwUDWy) | 4:39 | 2024-02-05 |  |
 | [Pretty Lady](https://open.spotify.com/track/77R5bq7AvzIevi8wicB3Oz) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Terra Firma](https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK) | 4:39 | 2023-07-20 | 2024-02-14 |
 | [Red & Blue](https://open.spotify.com/track/3bmhQ0lxeJeLDe8ElVLOND) | [Razz](https://open.spotify.com/artist/4C7xdu7M6QHh7HqmiyJoTu) | [Red & Blue](https://open.spotify.com/album/4LwCWinuYbTmzTBuiXQsU7) | 3:33 | 2023-07-20 | 2024-02-19 |
 | [Right There](https://open.spotify.com/track/3Y9CkOkl5eotKgClQMZvdw) | [Cassia](https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX) | [Why You Lacking Energy?](https://open.spotify.com/album/5Oky6qpyguBJj42ajNfxEu) | 3:02 | 2023-10-19 |  |

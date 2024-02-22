@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarlH9zHuV0v.md) - [plain]
 
 > A playlist of spooky songs to get you ready for fright night!
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,931 likes - 60 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,918 likes - 60 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarlH9zHuV0v.md) - [plain]
 | 59 | [Halloween](https://open.spotify.com/track/3DN3nPW5VDyGa48ELeXPU0) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Bad Moon Rising](https://open.spotify.com/album/5qZwFWvjfQF6uqrtMaCbO6) | 5:11 |
 | 60 | [You And Me And The Devil Makes 3](https://open.spotify.com/track/5Jy6qEhf3rDl1us388toad) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [EAT ME, DRINK ME](https://open.spotify.com/album/2A49izrVW0wRLcst64owry) | 4:24 |
 
-Snapshot ID: `MCxlOGFkYmEyMDBhZTQ4NzU3NDAwNDE2MWQ1MGZlZDc2ZmVlMDhiYmEx`
+Snapshot ID: `MCw1M2YwNzhmNDU2MTQ0NWQwNTUzZjQyYzU0ODhjNTJkNWU5NzMwYzQ2`

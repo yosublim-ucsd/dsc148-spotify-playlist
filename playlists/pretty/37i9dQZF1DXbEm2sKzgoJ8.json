@@ -1,12 +1,12 @@
 {
   "description": "Set the mood just right...",
-  "num_followers": 1891852,
+  "num_followers": 1892734,
   "original_name": "Make Out Jams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiM2RlZGMxOTAzYzE2YTlkMWQ4MzhjNjg1NDY3M2Y2YjgxNmU4NWE3",
+  "snapshot_id": "MCw0M2QzZWJkZDRkY2FlZTgyNjAwYzY4ZTAyNDBkODE2NTg0OTcyOTUy",
   "tracks": [
     {
       "added_at": "2024-02-19 00:01:14",
@@ -403,6 +403,22 @@
     {
       "added_at": "2024-02-19 00:01:14",
       "album": {
+        "name": "channel ORANGE",
+        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 200746,
+      "name": "Thinkin Bout You",
+      "url": "https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau"
+    },
+    {
+      "added_at": "2024-02-19 00:01:14",
+      "album": {
         "name": "wherever u r (ft. V of BTS)",
         "url": "https://open.spotify.com/album/2LwzZahqXWr0POXIWI7WaN"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 153034,
       "name": "wherever u r (ft. V of BTS)",
       "url": "https://open.spotify.com/track/1k255f17DRuRbGrfz5Ifmd"
-    },
-    {
-      "added_at": "2024-02-19 00:01:14",
-      "album": {
-        "name": "channel ORANGE",
-        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 200746,
-      "name": "Thinkin Bout You",
-      "url": "https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau"
     },
     {
       "added_at": "2024-02-19 00:01:14",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-02-19 00:01:14",
       "album": {
-        "name": "Fuck The World",
-        "url": "https://open.spotify.com/album/3vi20DRHkqv4HyVg9Rt9wC"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 110128,
-      "name": "Clouded",
-      "url": "https://open.spotify.com/track/2J6OF7CkpdQGSfm1wdclqn"
-    },
-    {
-      "added_at": "2024-02-19 00:01:14",
-      "album": {
         "name": "channel ORANGE",
         "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 234093,
       "name": "Lost",
       "url": "https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723"
+    },
+    {
+      "added_at": "2024-02-19 00:01:14",
+      "album": {
+        "name": "Fuck The World",
+        "url": "https://open.spotify.com/album/3vi20DRHkqv4HyVg9Rt9wC"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 110128,
+      "name": "Clouded",
+      "url": "https://open.spotify.com/track/2J6OF7CkpdQGSfm1wdclqn"
     },
     {
       "added_at": "2024-02-19 00:01:14",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-02-19 00:01:14",
       "album": {
-        "name": "Based On A True Story...",
-        "url": "https://open.spotify.com/album/6I5Pf71uQzQC0IcJOrh8Rz"
-      },
-      "artists": [
-        {
-          "name": "New West",
-          "url": "https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn"
-        }
-      ],
-      "duration_ms": 220750,
-      "name": "Those Eyes",
-      "url": "https://open.spotify.com/track/2psRActEWsTlYYd7EDoyVR"
-    },
-    {
-      "added_at": "2024-02-19 00:01:14",
-      "album": {
         "name": "Sol Mar\u00eda",
         "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
       },
@@ -643,6 +627,22 @@
     {
       "added_at": "2024-02-19 00:01:14",
       "album": {
+        "name": "Novacane",
+        "url": "https://open.spotify.com/album/3RYdEXhGHojkTILUdtnRVJ"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 302346,
+      "name": "Novacane",
+      "url": "https://open.spotify.com/track/4osgfFTICMkcGbbigdsa53"
+    },
+    {
+      "added_at": "2024-02-19 00:01:14",
+      "album": {
         "name": "\"Awaken, My Love!\"",
         "url": "https://open.spotify.com/album/7caGY3YPOchIO8xLvTKWN4"
       },
@@ -659,6 +659,22 @@
     {
       "added_at": "2024-02-19 00:01:14",
       "album": {
+        "name": "Based On A True Story...",
+        "url": "https://open.spotify.com/album/6I5Pf71uQzQC0IcJOrh8Rz"
+      },
+      "artists": [
+        {
+          "name": "New West",
+          "url": "https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn"
+        }
+      ],
+      "duration_ms": 220750,
+      "name": "Those Eyes",
+      "url": "https://open.spotify.com/track/2psRActEWsTlYYd7EDoyVR"
+    },
+    {
+      "added_at": "2024-02-19 00:01:14",
+      "album": {
         "name": "Starboy",
         "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 260252,
       "name": "Die For You",
       "url": "https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz"
-    },
-    {
-      "added_at": "2024-02-19 00:01:14",
-      "album": {
-        "name": "Novacane",
-        "url": "https://open.spotify.com/album/3RYdEXhGHojkTILUdtnRVJ"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 302346,
-      "name": "Novacane",
-      "url": "https://open.spotify.com/track/4osgfFTICMkcGbbigdsa53"
     },
     {
       "added_at": "2024-02-19 00:01:14",
@@ -1423,18 +1423,18 @@
     {
       "added_at": "2024-02-19 00:01:14",
       "album": {
-        "name": "ORQU\u00cdDEAS",
-        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
+        "name": "Not Around",
+        "url": "https://open.spotify.com/album/1Sj2R7Zu0mYAPf5oCEnl2P"
       },
       "artists": [
         {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+          "name": "Nova",
+          "url": "https://open.spotify.com/artist/3J2OSq7G34UlfnNB6YuZCF"
         }
       ],
-      "duration_ms": 198300,
-      "name": "Young Rich & In Love",
-      "url": "https://open.spotify.com/track/2R6tflIwv19qoYxg5hYLVh"
+      "duration_ms": 183920,
+      "name": "Not Around",
+      "url": "https://open.spotify.com/track/1Adhz5VVDZxhojOLfQQUxa"
     },
     {
       "added_at": "2024-02-19 00:01:14",
@@ -1455,18 +1455,18 @@
     {
       "added_at": "2024-02-19 00:01:14",
       "album": {
-        "name": "Not Around",
-        "url": "https://open.spotify.com/album/1Sj2R7Zu0mYAPf5oCEnl2P"
+        "name": "Morning Sex",
+        "url": "https://open.spotify.com/album/6nPjdP4pjRIItNMnu9DSLQ"
       },
       "artists": [
         {
-          "name": "Nova",
-          "url": "https://open.spotify.com/artist/3J2OSq7G34UlfnNB6YuZCF"
+          "name": "Ralph Castelli",
+          "url": "https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd"
         }
       ],
-      "duration_ms": 183920,
-      "name": "Not Around",
-      "url": "https://open.spotify.com/track/1Adhz5VVDZxhojOLfQQUxa"
+      "duration_ms": 175312,
+      "name": "Morning Sex",
+      "url": "https://open.spotify.com/track/2fGRJzoiYJYAzlQAyBONMb"
     },
     {
       "added_at": "2024-02-19 00:01:14",
@@ -1503,18 +1503,18 @@
     {
       "added_at": "2024-02-19 00:01:14",
       "album": {
-        "name": "Morning Sex",
-        "url": "https://open.spotify.com/album/6nPjdP4pjRIItNMnu9DSLQ"
+        "name": "ORQU\u00cdDEAS",
+        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
       },
       "artists": [
         {
-          "name": "Ralph Castelli",
-          "url": "https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd"
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         }
       ],
-      "duration_ms": 175312,
-      "name": "Morning Sex",
-      "url": "https://open.spotify.com/track/2fGRJzoiYJYAzlQAyBONMb"
+      "duration_ms": 198300,
+      "name": "Young Rich & In Love",
+      "url": "https://open.spotify.com/track/2R6tflIwv19qoYxg5hYLVh"
     },
     {
       "added_at": "2024-02-19 00:01:14",
@@ -1539,26 +1539,6 @@
     {
       "added_at": "2024-02-19 00:01:14",
       "album": {
-        "name": "IT'S YOU (feat. keshi)",
-        "url": "https://open.spotify.com/album/1LtaBRxkVaAnoTSQQsWjJF"
-      },
-      "artists": [
-        {
-          "name": "MAX",
-          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
-        },
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "duration_ms": 173426,
-      "name": "IT'S YOU (feat. keshi)",
-      "url": "https://open.spotify.com/track/5SMCxRA6hB2jEhroaYfw6N"
-    },
-    {
-      "added_at": "2024-02-19 00:01:14",
-      "album": {
         "name": "Daddy Issues (Remix) feat. Syd",
         "url": "https://open.spotify.com/album/6vdbDPGQbJMCHyZhz9z6GS"
       },
@@ -1575,6 +1555,26 @@
       "duration_ms": 181186,
       "name": "Daddy Issues (Remix) feat. Syd",
       "url": "https://open.spotify.com/track/5Q6fh8OEhBYepJaORz9lxe"
+    },
+    {
+      "added_at": "2024-02-19 00:01:14",
+      "album": {
+        "name": "IT'S YOU (feat. keshi)",
+        "url": "https://open.spotify.com/album/1LtaBRxkVaAnoTSQQsWjJF"
+      },
+      "artists": [
+        {
+          "name": "MAX",
+          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
+        },
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 173426,
+      "name": "IT'S YOU (feat. keshi)",
+      "url": "https://open.spotify.com/track/5SMCxRA6hB2jEhroaYfw6N"
     },
     {
       "added_at": "2024-02-19 00:01:14",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2024-02-19 00:01:14",
       "album": {
-        "name": "Happier Than Ever",
-        "url": "https://open.spotify.com/album/6EOyWmHnLJptnyjB8xrYT5"
-      },
-      "artists": [
-        {
-          "name": "ASTN",
-          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
-        }
-      ],
-      "duration_ms": 109325,
-      "name": "Happier Than Ever",
-      "url": "https://open.spotify.com/track/7es56D0QedGMsK39wl2yFX"
-    },
-    {
-      "added_at": "2024-02-19 00:01:14",
-      "album": {
         "name": "Over It",
         "url": "https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 193840,
       "name": "Body",
       "url": "https://open.spotify.com/track/7vxLj7MREliG5i5vSnqSVr"
+    },
+    {
+      "added_at": "2024-02-19 00:01:14",
+      "album": {
+        "name": "Happier Than Ever",
+        "url": "https://open.spotify.com/album/6EOyWmHnLJptnyjB8xrYT5"
+      },
+      "artists": [
+        {
+          "name": "ASTN",
+          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
+        }
+      ],
+      "duration_ms": 109325,
+      "name": "Happier Than Ever",
+      "url": "https://open.spotify.com/track/7es56D0QedGMsK39wl2yFX"
     },
     {
       "added_at": "2024-02-19 00:01:14",

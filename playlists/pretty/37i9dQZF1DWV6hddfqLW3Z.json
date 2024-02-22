@@ -1,12 +1,12 @@
 {
   "description": "Pegue seu caf\u00e9, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.",
-  "num_followers": 794181,
+  "num_followers": 794252,
   "original_name": "Cafezinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYWM4OGRjMzM3OGViNjI4Y2U2OWNlYzgzZTA4ZWE2YjZkYzUwNTEy",
+  "snapshot_id": "MCwzMWY2YWQ3ZGQxNTJlOGZkODczOGQ4MjZiOWZlMTgyM2QzNWU3MDQ3",
   "tracks": [
     {
       "added_at": "2023-11-24 15:08:43",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-11-24 15:08:43",
       "album": {
-        "name": "Se fosse t\u00e3o f\u00e1cil (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/7JdKZ7Ve0q242f1ljpi4c9"
-      },
-      "artists": [
-        {
-          "name": "MAR ABERTO",
-          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
-        }
-      ],
-      "duration_ms": 198193,
-      "name": "Se fosse t\u00e3o f\u00e1cil - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4IuWJzJRVZyyjyxcDdzpaE"
-    },
-    {
-      "added_at": "2023-11-24 15:08:43",
-      "album": {
         "name": "Apesar de Querer",
         "url": "https://open.spotify.com/album/0ErKcgeiea7yFFpyBvXIpb"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 244000,
       "name": "Apesar de Querer",
       "url": "https://open.spotify.com/track/6MbwzsouKfv44jkE6eA4j9"
+    },
+    {
+      "added_at": "2023-11-24 15:08:43",
+      "album": {
+        "name": "Se fosse t\u00e3o f\u00e1cil (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7JdKZ7Ve0q242f1ljpi4c9"
+      },
+      "artists": [
+        {
+          "name": "MAR ABERTO",
+          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
+        }
+      ],
+      "duration_ms": 198193,
+      "name": "Se fosse t\u00e3o f\u00e1cil - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4IuWJzJRVZyyjyxcDdzpaE"
     },
     {
       "added_at": "2023-11-24 15:08:43",

@@ -1,5 +1,5 @@
 {
-  "2024-02-21": 835241,
+  "2024-02-22": 835262,
   "date_first_scraped": "2021-12-21",
   "description": "Float away on heady orchestrations and haunting harmonies...",
   "name": "Chill + Atmospheric",
@@ -645,7 +645,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-02",
+      "date_removed": null,
       "duration_ms": 242193,
       "name": "Carrie",
       "url": "https://open.spotify.com/track/6RsQrfzyexFtl37NOVjT0S"
@@ -3823,7 +3823,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 184661,
       "name": "Up Here North",
       "url": "https://open.spotify.com/track/7d6jv0jXA1bLmgkyN6IYkW"

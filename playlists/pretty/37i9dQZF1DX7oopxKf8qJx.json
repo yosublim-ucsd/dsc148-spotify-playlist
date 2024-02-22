@@ -1,12 +1,12 @@
 {
   "description": "The moody sound of easy listening from the 50's and 60's. Cover: Percy Faith",
-  "num_followers": 83860,
+  "num_followers": 83923,
   "original_name": "Classic Easy Listening",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzVhZDIwMjI0ODdhYzg1ODQ1ZGQ4ZmM4ZmVmODY3YmFhNTdhYjBj",
+  "snapshot_id": "MCwyZTllMDc4NTU4OTk3MzUwODNlZGIwZDZhNDNmMDQwNjhlYzY2MGQ0",
   "tracks": [
     {
       "added_at": "2024-02-01 13:41:34",
@@ -127,22 +127,6 @@
     {
       "added_at": "2024-02-01 13:41:34",
       "album": {
-        "name": "Film Festival",
-        "url": "https://open.spotify.com/album/4f942rZJsCBVfuFUQgdbSV"
-      },
-      "artists": [
-        {
-          "name": "Frank Chacksfield & His Orchestra",
-          "url": "https://open.spotify.com/artist/01zQA436fdUqmEWvljtzxr"
-        }
-      ],
-      "duration_ms": 141000,
-      "name": "I Will Wait For You - From \"The Umbrellas Of Cherbourg\"",
-      "url": "https://open.spotify.com/track/3RRR4mBySzKJCEZHxMIEm5"
-    },
-    {
-      "added_at": "2024-02-01 13:41:34",
-      "album": {
         "name": "I Only Have Eyes for You",
         "url": "https://open.spotify.com/album/7ls79FDjgrXlt424cIP1SE"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 160320,
       "name": "You'll Never Know - Instrumental",
       "url": "https://open.spotify.com/track/0sQ0BzLHZfX9TLXvNROcjh"
+    },
+    {
+      "added_at": "2024-02-01 13:41:34",
+      "album": {
+        "name": "Film Festival",
+        "url": "https://open.spotify.com/album/4f942rZJsCBVfuFUQgdbSV"
+      },
+      "artists": [
+        {
+          "name": "Frank Chacksfield & His Orchestra",
+          "url": "https://open.spotify.com/artist/01zQA436fdUqmEWvljtzxr"
+        }
+      ],
+      "duration_ms": 141000,
+      "name": "I Will Wait For You - From \"The Umbrellas Of Cherbourg\"",
+      "url": "https://open.spotify.com/track/3RRR4mBySzKJCEZHxMIEm5"
     },
     {
       "added_at": "2024-02-01 13:41:34",
@@ -351,22 +351,18 @@
     {
       "added_at": "2024-02-01 13:41:34",
       "album": {
-        "name": "The Pops Goes Country (with Boston Pops Orchestra)",
-        "url": "https://open.spotify.com/album/0mmCf5GOA5jCuduhZmh0iq"
+        "name": "The Best Of Nelson Riddle",
+        "url": "https://open.spotify.com/album/1ZBWBWcN8IQFYRgC0jwLOl"
       },
       "artists": [
         {
-          "name": "Chet Atkins",
-          "url": "https://open.spotify.com/artist/4dZrt8Ong5t7YYpvbfp0RU"
-        },
-        {
-          "name": "Boston Pops Orchestra",
-          "url": "https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq"
+          "name": "Nelson Riddle",
+          "url": "https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb"
         }
       ],
-      "duration_ms": 163893,
-      "name": "Tennessee Waltz (with Boston Pops Orchestra)",
-      "url": "https://open.spotify.com/track/5SzsffG2AkYrjgcmUrVfxX"
+      "duration_ms": 144666,
+      "name": "The Green Leaves Of Summer",
+      "url": "https://open.spotify.com/track/3IM5KByL9vEigcg7WqORhv"
     },
     {
       "added_at": "2024-02-01 13:41:34",
@@ -403,18 +399,22 @@
     {
       "added_at": "2024-02-01 13:41:34",
       "album": {
-        "name": "The Best Of Nelson Riddle",
-        "url": "https://open.spotify.com/album/1ZBWBWcN8IQFYRgC0jwLOl"
+        "name": "The Pops Goes Country (with Boston Pops Orchestra)",
+        "url": "https://open.spotify.com/album/0mmCf5GOA5jCuduhZmh0iq"
       },
       "artists": [
         {
-          "name": "Nelson Riddle",
-          "url": "https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb"
+          "name": "Chet Atkins",
+          "url": "https://open.spotify.com/artist/4dZrt8Ong5t7YYpvbfp0RU"
+        },
+        {
+          "name": "Boston Pops Orchestra",
+          "url": "https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq"
         }
       ],
-      "duration_ms": 144666,
-      "name": "The Green Leaves Of Summer",
-      "url": "https://open.spotify.com/track/3IM5KByL9vEigcg7WqORhv"
+      "duration_ms": 163893,
+      "name": "Tennessee Waltz (with Boston Pops Orchestra)",
+      "url": "https://open.spotify.com/track/5SzsffG2AkYrjgcmUrVfxX"
     },
     {
       "added_at": "2024-02-01 13:41:34",
@@ -503,18 +503,18 @@
     {
       "added_at": "2024-02-01 13:41:34",
       "album": {
-        "name": "The Piano Legend (Remastered)",
-        "url": "https://open.spotify.com/album/7AZxS7684aRvvnJZ7fC2ZV"
+        "name": "Music For Romancing",
+        "url": "https://open.spotify.com/album/6uvtXa9roNJj96YTGJkhV4"
       },
       "artists": [
         {
-          "name": "Russ Conway",
-          "url": "https://open.spotify.com/artist/3CH93c2rBMyBq9eeWBCQ60"
+          "name": "Paul Weston",
+          "url": "https://open.spotify.com/artist/5ctnTue97AB5QdivrymEaK"
         }
       ],
-      "duration_ms": 203973,
-      "name": "Theme from Picnic - Remastered",
-      "url": "https://open.spotify.com/track/7C2cDPLUfDxfxq5u7vIWF0"
+      "duration_ms": 197453,
+      "name": "Gone With The Wind",
+      "url": "https://open.spotify.com/track/7tzYfZQV2WHTtRbMYoowPy"
     },
     {
       "added_at": "2024-02-01 13:41:34",
@@ -535,18 +535,18 @@
     {
       "added_at": "2024-02-01 13:41:34",
       "album": {
-        "name": "Music For Romancing",
-        "url": "https://open.spotify.com/album/6uvtXa9roNJj96YTGJkhV4"
+        "name": "The Piano Legend (Remastered)",
+        "url": "https://open.spotify.com/album/7AZxS7684aRvvnJZ7fC2ZV"
       },
       "artists": [
         {
-          "name": "Paul Weston",
-          "url": "https://open.spotify.com/artist/5ctnTue97AB5QdivrymEaK"
+          "name": "Russ Conway",
+          "url": "https://open.spotify.com/artist/3CH93c2rBMyBq9eeWBCQ60"
         }
       ],
-      "duration_ms": 197453,
-      "name": "Gone With The Wind",
-      "url": "https://open.spotify.com/track/7tzYfZQV2WHTtRbMYoowPy"
+      "duration_ms": 203973,
+      "name": "Theme from Picnic - Remastered",
+      "url": "https://open.spotify.com/track/7C2cDPLUfDxfxq5u7vIWF0"
     },
     {
       "added_at": "2024-02-01 13:41:34",

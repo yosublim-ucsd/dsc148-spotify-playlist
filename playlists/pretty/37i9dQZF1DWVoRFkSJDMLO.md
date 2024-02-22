@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 
 > Inspired by African drums\. Discover more Black artists and their contributions <a href="spotify:genre:0JQ5DAqbMKFF9bY76LXmfI">here</a>\. Cover: <a href="spotify:artist:1XavfPKBpNjkOfxHINlMHF">Joeboy</a> 🇳🇬
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,876 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,909 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 | 18 | [Jolene](https://open.spotify.com/track/5483pcvbfX7Ii7gO5JGUpF) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [KTIZO](https://open.spotify.com/artist/4iRmNYPp7K9YaLrQXohMPr) | [Outlaw](https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w) | 2:55 |
 | 19 | [Honest](https://open.spotify.com/track/1w8XryfrrR7rXSo5GscZ5f) | [Highlyy](https://open.spotify.com/artist/4JmaulM4hnNKJzvNgdxx3B) | [+243](https://open.spotify.com/album/6HtnERLFPPLFNQGy3RoZGK) | 3:14 |
 | 20 | [SO COMAN](https://open.spotify.com/track/6W0iLz8aOKUzObanCzJj2U) | [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8) | [SO COMAN](https://open.spotify.com/album/6IsaPEPJsZ4qXbOmdTkq0F) | 2:17 |
-| 21 | [Run Away](https://open.spotify.com/track/1xet6MZrk4Zr5ebis0EF1Q) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Run Away](https://open.spotify.com/album/6ujoM3aPviamfNBV7qCpTh) | 2:56 |
+| 21 | [Run Away \(OMALICHA\)](https://open.spotify.com/track/1xet6MZrk4Zr5ebis0EF1Q) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Run Away \(OMALICHA\)](https://open.spotify.com/album/6ujoM3aPviamfNBV7qCpTh) | 2:56 |
 | 22 | [Is It Real?](https://open.spotify.com/track/4L5Gj9HqAEKMfCofzlAcMz) | [Lu City](https://open.spotify.com/artist/5UoVuwjRIYT6WGDUJjT1Se) | [Is It Real?](https://open.spotify.com/album/5Lt04Tc6oTfxTee05aZX1E) | 3:29 |
 | 23 | [ACCEPT DAT.](https://open.spotify.com/track/3PHfUHQFPkteSsgQfLMoCt) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [ACCEPT DAT.](https://open.spotify.com/album/5wH2R5zxQBz6daM1XXArvN) | 2:53 |
 | 24 | [Waiting For You](https://open.spotify.com/track/2iLDuGXM92uMIOs855P52I) | [Demarco](https://open.spotify.com/artist/0af5VM6xubf8EXKvoG35x6), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Waiting For You](https://open.spotify.com/album/3er5zEWJfH3A2xRRLKioW8) | 3:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 | 99 | [BODY TOUCHING BODY \(feat\. Victoria Monét\)](https://open.spotify.com/track/2NKUIkh9fZLR7C7PXiJIsP) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA), [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [BORN FOR GREATNESS](https://open.spotify.com/album/37A8OxnuHRRRd8QJcwzEfg) | 2:37 |
 | 100 | [Hate \(feat\. Lojay & Highlyy\) \- Remix](https://open.spotify.com/track/3ZKSDLVZ8ciaMkNap7c7CS) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Highlyy](https://open.spotify.com/artist/4JmaulM4hnNKJzvNgdxx3B), [WaveIQ](https://open.spotify.com/artist/5IhbkGKKSgqomquNJuT0oA) | [Risk: Reloaded](https://open.spotify.com/album/6f0V5FE0YzSkofS8DQztN7) | 3:32 |
 
-Snapshot ID: `MCw2MzIzYmY0ZDhiZDgwODAwYTM1OGUwZjAyMjQyYjM3YmNhYmUyMTQw`
+Snapshot ID: `MCxjODBiOTA4NWZmZGJlM2VkOGI1MGM0MDZmMmY3ZTRlMDNjMDliMzUy`

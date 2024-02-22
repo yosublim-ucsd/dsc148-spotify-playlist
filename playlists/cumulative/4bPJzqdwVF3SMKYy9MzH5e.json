@@ -12101,6 +12101,24 @@
     },
     {
       "album": {
+        "name": "Papers, Please (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/0lKVow2QmwXI6NlxCr2LNW"
+      },
+      "artists": [
+        {
+          "name": "Lucas Pope",
+          "url": "https://open.spotify.com/artist/78f89mbowbxt39ctuqX8bM"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103050,
+      "name": "Glory to Arstotzka",
+      "url": "https://open.spotify.com/track/1j8nEnYhowaJRq5aZD35mo"
+    },
+    {
+      "album": {
         "name": "I Hate Myself",
         "url": "https://open.spotify.com/album/5JzPoUSYx7B1YGVgv79n0i"
       },
@@ -33196,7 +33214,7 @@
       },
       "artists": [
         {
-          "name": "Empire of the Sun",
+          "name": "Empire Of The Sun",
           "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
         }
       ],

@@ -1015,6 +1015,32 @@
     },
     {
       "album": {
+        "name": "tqum (feat. Kim Petras) [Remix]",
+        "url": "https://open.spotify.com/album/3AkqnUN42HjnrhzjDOA8IS"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149589,
+      "name": "tqum (feat. Kim Petras) - Remix",
+      "url": "https://open.spotify.com/track/4XkGvXQm7GKZDZkQ6CgMDN"
+    },
+    {
+      "album": {
         "name": "SIE7E +",
         "url": "https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE"
       },

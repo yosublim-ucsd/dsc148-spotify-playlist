@@ -1,12 +1,12 @@
 {
   "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring KU\u010cKA & Flume",
-  "num_followers": 765204,
+  "num_followers": 765218,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZDQ0YzkwYWQ4NTVkZWNlOWI4YWM3MmJiMjliNTYyYzdhZTJhNDlj",
+  "snapshot_id": "MCw1YWNmOWFmNmUxMmNjNjQ5NzE5YTkzODdhZWZmMjY4ZjY0MWFkZmRk",
   "tracks": [
     {
       "added_at": "2024-02-16 05:00:00",
@@ -567,22 +567,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "JUNGLE",
-        "url": "https://open.spotify.com/album/409STQlcajDkM1vdhM4Qxo"
-      },
-      "artists": [
-        {
-          "name": "The Blaze",
-          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
-        }
-      ],
-      "duration_ms": 279653,
-      "name": "LULLABY",
-      "url": "https://open.spotify.com/track/2o002vjoIgeX0Ho2aCWR1N"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Rushing Back (feat. Vera Blue)",
         "url": "https://open.spotify.com/album/29OgoLRPAWEYSWgwkemiHT"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 231663,
       "name": "Rushing Back (feat. Vera Blue)",
       "url": "https://open.spotify.com/track/4uyYsLMnxzzIB6LE81g4OF"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "JUNGLE",
+        "url": "https://open.spotify.com/album/409STQlcajDkM1vdhM4Qxo"
+      },
+      "artists": [
+        {
+          "name": "The Blaze",
+          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
+        }
+      ],
+      "duration_ms": 279653,
+      "name": "LULLABY",
+      "url": "https://open.spotify.com/track/2o002vjoIgeX0Ho2aCWR1N"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -751,26 +751,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "GLOW (feat. Au/Ra)",
-        "url": "https://open.spotify.com/album/00EZK39AhK4dek1em8nCZJ"
-      },
-      "artists": [
-        {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
-        },
-        {
-          "name": "Au/Ra",
-          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
-        }
-      ],
-      "duration_ms": 150225,
-      "name": "GLOW (feat. Au/Ra)",
-      "url": "https://open.spotify.com/track/3lqfTqap6aFMlYGEOyDZvt"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Favourite Place",
         "url": "https://open.spotify.com/album/0hi96KFhhFchURSGce2nq1"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 180100,
       "name": "Favourite Place",
       "url": "https://open.spotify.com/track/36bQ9KQlmwNZnccm7MMjjP"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "GLOW (feat. Au/Ra)",
+        "url": "https://open.spotify.com/album/00EZK39AhK4dek1em8nCZJ"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        },
+        {
+          "name": "Au/Ra",
+          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
+        }
+      ],
+      "duration_ms": 150225,
+      "name": "GLOW (feat. Au/Ra)",
+      "url": "https://open.spotify.com/track/3lqfTqap6aFMlYGEOyDZvt"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Good Lies",
-        "url": "https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp"
-      },
-      "artists": [
-        {
-          "name": "Overmono",
-          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
-        }
-      ],
-      "duration_ms": 217369,
-      "name": "Cold Blooded",
-      "url": "https://open.spotify.com/track/6ULPq2iNWiykHX1acI2SGn"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Chromatically",
         "url": "https://open.spotify.com/album/238tOstpXzMOcfrLzWQtfY"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 198000,
       "name": "Chromatically",
       "url": "https://open.spotify.com/track/6tr6rSUNVlBtTZUf0fFzKl"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Good Lies",
+        "url": "https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp"
+      },
+      "artists": [
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        }
+      ],
+      "duration_ms": 217369,
+      "name": "Cold Blooded",
+      "url": "https://open.spotify.com/track/6ULPq2iNWiykHX1acI2SGn"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1695,26 +1695,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Small Sanctuary (nimino Remix)",
-        "url": "https://open.spotify.com/album/4c9AHJFZftjbrG9qt02lI0"
-      },
-      "artists": [
-        {
-          "name": "Tycho",
-          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
-        },
-        {
-          "name": "nimino",
-          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
-        }
-      ],
-      "duration_ms": 252187,
-      "name": "Small Sanctuary - nimino Remix",
-      "url": "https://open.spotify.com/track/2WR6MC3545yuad4CyrWkVa"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Fallen",
         "url": "https://open.spotify.com/album/1ivE1jTe5sDLo3hh9eqef1"
       },
@@ -1731,6 +1711,26 @@
       "duration_ms": 189517,
       "name": "Fallen",
       "url": "https://open.spotify.com/track/3VvQKhWigoAD5pfM6zul48"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Small Sanctuary (nimino Remix)",
+        "url": "https://open.spotify.com/album/4c9AHJFZftjbrG9qt02lI0"
+      },
+      "artists": [
+        {
+          "name": "Tycho",
+          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+        },
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        }
+      ],
+      "duration_ms": 252187,
+      "name": "Small Sanctuary - nimino Remix",
+      "url": "https://open.spotify.com/track/2WR6MC3545yuad4CyrWkVa"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Sd-2",
-        "url": "https://open.spotify.com/album/0UCKDXpYHTZoZpwzrm1KRp"
-      },
-      "artists": [
-        {
-          "name": "Loukeman",
-          "url": "https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/2X7D3Pg9gNuQ5iwFHuyCr0"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Skrt",
         "url": "https://open.spotify.com/album/4DsDDEdHYCFrhIA1aVXly6"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 181998,
       "name": "Skrt",
       "url": "https://open.spotify.com/track/2f4GKuEzyCEKq2zqlzqmkB"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Sd-2",
+        "url": "https://open.spotify.com/album/0UCKDXpYHTZoZpwzrm1KRp"
+      },
+      "artists": [
+        {
+          "name": "Loukeman",
+          "url": "https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/2X7D3Pg9gNuQ5iwFHuyCr0"
     },
     {
       "added_at": "2024-02-16 05:00:00",

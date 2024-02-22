@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 
 > Sometimes all you need is a fresh start\. Listen to the music from, and inspired by, Virgin River, now stream on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,316 likes - 226 songs - 13 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,326 likes - 226 songs - 13 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,10 +59,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 | 49 | [Come Back to Me](https://open.spotify.com/track/1WUCyuyCihAz4nXD5kgOms) | [3 One Oh](https://open.spotify.com/artist/0LeWcad3qLZOVYNxm5pG7e) | [Come Back to Me](https://open.spotify.com/album/50WassgZwHALKp2tIHsjUg) | 3:16 |
 | 50 | [So Happy It Hurts](https://open.spotify.com/track/3pwyxtKttUfugQybBFkJrJ) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [So Happy It Hurts](https://open.spotify.com/album/4UTnmsmUfpex7nAxmrtaFt) | 3:35 |
 | 51 | [What a Time to Be Alive](https://open.spotify.com/track/2wpc0OnkylBzNahTxZ5ERc) | [The Guest and the Host](https://open.spotify.com/artist/5btUhGNTcEvv2W2NcsKndH) | [Songs from Mirror Wall](https://open.spotify.com/album/5BPFrjkerwTdVXZ6PIoOSj) | 3:41 |
-| 52 | [Let Love](https://open.spotify.com/track/7hDCguTgcPgprkacs8z3U1) | [Lincoln Grounds](https://open.spotify.com/artist/3IvMomEciLsUnn0Kd6jtDJ), [Thomm Jutz](https://open.spotify.com/artist/1ebv4m89CN6v5nKtG0yu2D), [Charley Stefl](https://open.spotify.com/artist/58ESWpDuC4nPaXDJKMjVBJ) | [Way Down The Road](https://open.spotify.com/album/4IeR1815fI0sK8qLz1OVNf) | 2:37 |
+| 52 | [Let Love](https://open.spotify.com/track/6F0E9Y2eEczyVpWycDfw6O) | [Lincoln Grounds](https://open.spotify.com/artist/3IvMomEciLsUnn0Kd6jtDJ), [Thomm Jutz](https://open.spotify.com/artist/1ebv4m89CN6v5nKtG0yu2D), [Charley Stefl](https://open.spotify.com/artist/58ESWpDuC4nPaXDJKMjVBJ) | [Way Down The Road](https://open.spotify.com/album/1l9ZaaCd7WLCxf4H3ljKD8) | 2:37 |
 | 53 | [Can't Take My Eyes Off of You](https://open.spotify.com/track/47Dc6UvkluFZbPnumBlDBH) | [Emilie Mover](https://open.spotify.com/artist/4dx2QFru02KbFFNYgwourF) | [Can't Take My Eyes Off of You](https://open.spotify.com/album/6E7q60dny8FilgA0miylxv) | 3:23 |
-| 54 | [Wake Up](https://open.spotify.com/track/2lBruCnqs3ZGti3zG60IKs) | [Randall Breneman](https://open.spotify.com/artist/2SPERlEqPP3E6be2ptHVHT), [Lincoln Grounds](https://open.spotify.com/artist/3IvMomEciLsUnn0Kd6jtDJ) | [Gun](https://open.spotify.com/album/21zJBmYVbICYncjwAiwQSp) | 2:47 |
-| 55 | [So Long Pretty Baby](https://open.spotify.com/track/2rMaLemAw1DhXoyLMjKlOB) | [Tenderfoot](https://open.spotify.com/artist/0cAed9YivTN7Yq2BnjRNyt) | [To Be Young](https://open.spotify.com/album/3lXYDEXGf78jrHbshOeTsX) | 2:52 |
+| 54 | [Wake Up](https://open.spotify.com/track/0djmnC2m6BfRZVJLtxvjwg) | [Randall Breneman](https://open.spotify.com/artist/2SPERlEqPP3E6be2ptHVHT), [Lincoln Grounds](https://open.spotify.com/artist/3IvMomEciLsUnn0Kd6jtDJ) | [Gun](https://open.spotify.com/album/771xcAikeAnvvjAd2YzDHh) | 2:47 |
+| 55 | [So Long Pretty Baby](https://open.spotify.com/track/00OSqRanWkWpYBhpNG0lAQ) | [Tenderfoot](https://open.spotify.com/artist/0cAed9YivTN7Yq2BnjRNyt) | [To Be Young](https://open.spotify.com/album/7zrwQQqPm60VI7yrKoi73m) | 2:52 |
 | 56 | [Something Good](https://open.spotify.com/track/6pQQS2sAzMfy6sHhJD6UUO) | [Amy Stroup](https://open.spotify.com/artist/3dVt88018sQikXFlIocj3X), [Michael Logen](https://open.spotify.com/artist/7KaasLUJvHN32JTeXBmowR) | [Something Good](https://open.spotify.com/album/2EultUQvXZxWsOwWyvR8py) | 3:02 |
 | 57 | [I'm Not Ready To Say Goodbye](https://open.spotify.com/track/4evGfvrvdDPAs9JXP4PUjA) | [Margot Todd](https://open.spotify.com/artist/2ecMIWLmwxbQ9k21NSOro6) | [I'm Not Ready To Say Goodbye](https://open.spotify.com/album/2EDJuBb3bo7uLyqBQ2U3DD) | 3:14 |
 | 58 | [Ho Hey](https://open.spotify.com/track/2zKrGW8bGf5DzAGUHamw6X) | [BURNS](https://open.spotify.com/artist/6mCn6FRHufzaQjq9hrrE9A), [biz colletti](https://open.spotify.com/artist/32e20zdHxumYLsUQnODjMk) | [Ho Hey](https://open.spotify.com/album/1a1cyDzzmMnzz3Ep86Xi8y) | 3:19 |
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 | 67 | [Already There](https://open.spotify.com/track/4CskNnumSq5GwKMP410i1D) | [Anna Elizabeth Laube](https://open.spotify.com/artist/6O0rWDT0LuZk9Cpe45kbcx) | [Anna Laube](https://open.spotify.com/album/5Qw7W3cJ9COG6W8HIgsdPS) | 3:01 |
 | 68 | [Sweat It Out](https://open.spotify.com/track/5QS6GiRJJXEfiztHs61wc7) | [Bamtone](https://open.spotify.com/artist/5ijUEMAjCYpgYYoaqQ6L3p) | [Better Times](https://open.spotify.com/album/1Wq6ScQmHJayPcJgEPKWjM) | 2:45 |
 | 69 | [Woe Is Me](https://open.spotify.com/track/4kfENolM5UCOcswl2KZGzG) | [Josh Eagle and The Harvest City](https://open.spotify.com/artist/6dN2IgjlE0uwYPVK078qLX) | [Clockwork Radio](https://open.spotify.com/album/4kCZgWvwRL5ijO8XOgKSdS) | 3:44 |
-| 70 | [Gonna Drive All Night](https://open.spotify.com/track/6Jj3j1dZQI7JWrMAwtm7yr) | [Julian Emery](https://open.spotify.com/artist/4nbCme6RCJulaab14aFmqP) | [Drive All Night](https://open.spotify.com/album/50tgVonsGallh4xTYf2myi) | 3:26 |
+| 70 | [Gonna Drive All Night](https://open.spotify.com/track/5RybPdDT8hl6XKQiG2AoCG) | [Julian Emery](https://open.spotify.com/artist/4nbCme6RCJulaab14aFmqP) | [Drive All Night](https://open.spotify.com/album/1FqGiF2jbff29yiFWQW1hN) | 3:26 |
 | 71 | [Hunker Down](https://open.spotify.com/track/1a2PHxjQkWGDz5MS9dPony) | [The Roseline](https://open.spotify.com/artist/6fLmBunD1XB6d30Fu9xIh7) | [Constancy](https://open.spotify.com/album/4w8TwbZ2eyuk3wEmT38IzZ) | 5:50 |
 | 72 | [Moving On](https://open.spotify.com/track/0P2tSwbjoQIzAg101A23Db) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [Sober EP](https://open.spotify.com/album/1iDjqu3yelX85OlGArQlfo) | 3:14 |
 | 73 | [You?](https://open.spotify.com/track/7aW115ZGsZcA0Y2HQxiUIU) | [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH) | [Pink](https://open.spotify.com/album/3gk5LmXVewb5mo4FWHuZI6) | 2:49 |
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 | 83 | [Forever With You](https://open.spotify.com/track/0WATpfBLHGcX4DDxyL83HW) | [Ryan Lau](https://open.spotify.com/artist/646tpmjSFYpGby2Jr7MDCX) | [Forever With You](https://open.spotify.com/album/0sOgtJSmw2q94seovYpMe7) | 1:49 |
 | 84 | [Nothing to Lose](https://open.spotify.com/track/48ck1T7sKUaq78y2aUNBUf) | [Jared Lutes](https://open.spotify.com/artist/1w74yhT4b3dl2IdvEiLKoY) | [The Rest of Your Life](https://open.spotify.com/album/5cDqaKVSj6cGPZMAdJggrD) | 3:10 |
 | 85 | [You Will Be Loved](https://open.spotify.com/track/22Z5cIZuRsO7HOYmrmOoYZ) | [Sounding Arrow](https://open.spotify.com/artist/1NsbPxBRY1cYkn0cqcxkqv) | [Loving Is Breathing](https://open.spotify.com/album/3Oi2YStTUttHxi5ms89xCm) | 3:33 |
-| 86 | [Keep Believing](https://open.spotify.com/track/2jIKnU2ipSX9oxaKAI5lBC) | [Julian Emery](https://open.spotify.com/artist/4nbCme6RCJulaab14aFmqP) | [Long Winding Road](https://open.spotify.com/album/3GYb5GK1umtCc1sNcVMsAS) | 3:10 |
+| 86 | [Keep Believing](https://open.spotify.com/track/56C2PCjjmPNKCCeBho5LGr) | [Julian Emery](https://open.spotify.com/artist/4nbCme6RCJulaab14aFmqP) | [Long Winding Road](https://open.spotify.com/album/2iP0DlLSRz3b4lWpX0GzNo) | 3:10 |
 | 87 | [Unix Girl](https://open.spotify.com/track/7euRJEQfoHVTfV2bon4iBH) | [Captain Firebutton](https://open.spotify.com/artist/74MCG1pBx3cfHZNc0yTM82) | [Unix Girl](https://open.spotify.com/album/2ErFlUaN3YSySqIuRDnWnx) | 4:09 |
 | 88 | [Adore You](https://open.spotify.com/track/3jjujdWJ72nww5eGnfs2E7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:27 |
 | 89 | [Home to You](https://open.spotify.com/track/1Xc92bNvk3V2BM0B2592pj) | [Tom Rhodes](https://open.spotify.com/artist/4lsAzbWcYZblSVl1zhT9bc) | [The Old Pinole Sessions](https://open.spotify.com/album/6g8PQl8NdCJy3sMgDFppLX) | 3:30 |
@@ -115,7 +115,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 | 105 | [Grandma Looks](https://open.spotify.com/track/7btS5zJOJPLXOsTkcrzhm2) | [Desert Noises](https://open.spotify.com/artist/2X3rGYJyh8oBkRKMzIQaLe) | [27 Ways](https://open.spotify.com/album/5RZznkaaVzeKeN1UMp1jiy) | 3:21 |
 | 106 | [Have A Little Faith In Me](https://open.spotify.com/track/6CC7m07iUQA2oKr2Ky4gRl) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Have A Little Faith In Me](https://open.spotify.com/album/5tUKs4B9KY6Yd5qSiyvENz) | 3:17 |
 | 107 | [Shining Down](https://open.spotify.com/track/0g3KpDmvCYscVBqxByDpQo) | [Josh Rennie\-Hynes](https://open.spotify.com/artist/3YRZWrA1WzMaDfOPoQVHCp) | [Furthermore](https://open.spotify.com/album/0jOktT5IOcnpP0FoHm0Rqh) | 3:12 |
-| 108 | [Spirit Fresh](https://open.spotify.com/track/3NRduYCiouMXfsQD6gcmqe) | [Paddy Conn](https://open.spotify.com/artist/6iilscTEv9jQWydJsY4uA7) | [Future Beach](https://open.spotify.com/album/0bkoN2KdMClWIOPda3R3WT) | 3:25 |
+| 108 | [Spirit Fresh](https://open.spotify.com/track/4x0oniJ4CqBGa0A5RLLB4f) | [Paddy Conn](https://open.spotify.com/artist/6iilscTEv9jQWydJsY4uA7) | [Future Beach](https://open.spotify.com/album/7762DXt6ZVJ8SjDWhQNrFg) | 3:25 |
 | 109 | [Sweet Home](https://open.spotify.com/track/6gxWNvzbOJnSFqU0GlzHPR) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Sweet Home](https://open.spotify.com/album/3JVnUmC4nMLjgMtztt26I4) | 4:08 |
 | 110 | [Through the Dark](https://open.spotify.com/track/6DL5Wc5rwmITnKOi4tpt6N) | [Vanbur](https://open.spotify.com/artist/0R2bPrDcf0qEFHbQazwiXj) | [Human](https://open.spotify.com/album/45VK2yNRU1GPKcfaeN2aLP) | 3:15 |
 | 111 | [Time After Time](https://open.spotify.com/track/6vSmNysHIlALPOg2fk37PX) | [Phillip LaRue and The Wildwoods](https://open.spotify.com/artist/4ax5Muh1D7VX3aYWPR3g8K) | [Virgin River \(Music from the Netflix Series\)](https://open.spotify.com/album/1yP98guPImv2LUdjTSV461) | 3:35 |
@@ -235,4 +235,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 | 225 | [Our Own Cloud](https://open.spotify.com/track/6cvzYgrLWhXyw8q4OfUUJ6) | [Daniel Milewski](https://open.spotify.com/artist/6C8PW0ngsQWToD7bE4nnU5) | [Quarry](https://open.spotify.com/album/37HodiQLdGP1iOnliGWSot) | 6:13 |
 | 226 | [Carry You](https://open.spotify.com/track/3qeTDINIdJjblabgluS5rK) | [Ruelle](https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx), [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4) | [Carry You](https://open.spotify.com/album/3cDlbiwvay9zjWMqKZqsGa) | 4:28 |
 
-Snapshot ID: `MCwyOTViMzY2YTBkY2VkMjJjZmYwZjEyNGM0MjA0MjM3ZGI4YjU1YzRk`
+Snapshot ID: `MCwwZmM5MzczZDM1MTA4NzY2NTFjZTJkNjUxMDVjZmY1ZDlkZTU0ZWRm`

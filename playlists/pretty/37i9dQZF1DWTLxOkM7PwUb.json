@@ -1,12 +1,12 @@
 {
   "description": "\u2764\ufe0f o \ud83d\udc94\n",
-  "num_followers": 40193,
+  "num_followers": 40229,
   "original_name": "Trap Luv",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMzc5NjQyMjY1OTExNjg2NjMxYWVkMjFlNTIxZjY0OTlhMzFjMDdh",
+  "snapshot_id": "MCxlMWE3NTMzYTQzZDRhMzE1ODZjOGE5NmQ1ZjBkZDljZDFkYzVhODYx",
   "tracks": [
     {
       "added_at": "2024-01-12 03:00:00",
@@ -447,22 +447,6 @@
     {
       "added_at": "2024-01-12 03:00:00",
       "album": {
-        "name": "Arriba",
-        "url": "https://open.spotify.com/album/0HlvBztJb8mQPHUZqZDHzb"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 174642,
-      "name": "Arriba",
-      "url": "https://open.spotify.com/track/6MOjqs7ngSnZz3J5GZLAfm"
-    },
-    {
-      "added_at": "2024-01-12 03:00:00",
-      "album": {
         "name": "C.R.O: Bzrp Music Sessions, Vol. 29",
         "url": "https://open.spotify.com/album/6JRgIvDqCA1WxzEhV52zny"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 146341,
       "name": "C.R.O: Bzrp Music Sessions, Vol. 29",
       "url": "https://open.spotify.com/track/0qPbQWcqNDVrReSSvMoJxk"
+    },
+    {
+      "added_at": "2024-01-12 03:00:00",
+      "album": {
+        "name": "Arriba",
+        "url": "https://open.spotify.com/album/0HlvBztJb8mQPHUZqZDHzb"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 174642,
+      "name": "Arriba",
+      "url": "https://open.spotify.com/track/6MOjqs7ngSnZz3J5GZLAfm"
     },
     {
       "added_at": "2024-01-12 03:00:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-01-12 03:00:00",
       "album": {
-        "name": "LLNM2",
-        "url": "https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 243957,
-      "name": "Las Jordan",
-      "url": "https://open.spotify.com/track/3dTfFNVkfGUAAsWa3ne3Ig"
-    },
-    {
-      "added_at": "2024-01-12 03:00:00",
-      "album": {
         "name": "YaMeFui",
         "url": "https://open.spotify.com/album/1leCmYLFE8LDdd8uCK16U2"
       },
@@ -699,6 +683,22 @@
     {
       "added_at": "2024-01-12 03:00:00",
       "album": {
+        "name": "LLNM2",
+        "url": "https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 243957,
+      "name": "Las Jordan",
+      "url": "https://open.spotify.com/track/3dTfFNVkfGUAAsWa3ne3Ig"
+    },
+    {
+      "added_at": "2024-01-12 03:00:00",
+      "album": {
         "name": "GPS (feat. French Montana)",
         "url": "https://open.spotify.com/album/391Aef4X78Ta4Y7XpRJw6q"
       },
@@ -719,6 +719,22 @@
     {
       "added_at": "2024-01-12 03:00:00",
       "album": {
+        "name": "Colocao",
+        "url": "https://open.spotify.com/album/3VH9BRaAzvy7n9X5DNdHxm"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 179966,
+      "name": "Colocao",
+      "url": "https://open.spotify.com/track/7MCFjPDImfjQv7GynHgVrR"
+    },
+    {
+      "added_at": "2024-01-12 03:00:00",
+      "album": {
         "name": "Tres Rosas",
         "url": "https://open.spotify.com/album/6mvvlcmcxcEb5dGRbGPa06"
       },
@@ -735,18 +751,18 @@
     {
       "added_at": "2024-01-12 03:00:00",
       "album": {
-        "name": "Colocao",
-        "url": "https://open.spotify.com/album/3VH9BRaAzvy7n9X5DNdHxm"
+        "name": "S.A.D",
+        "url": "https://open.spotify.com/album/2y4bx11ZTk9jxo0zXwLhLm"
       },
       "artists": [
         {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
         }
       ],
-      "duration_ms": 179966,
-      "name": "Colocao",
-      "url": "https://open.spotify.com/track/7MCFjPDImfjQv7GynHgVrR"
+      "duration_ms": 128375,
+      "name": "S.A.D",
+      "url": "https://open.spotify.com/track/0ZGNuav3HfUf1iOLoF3CaO"
     },
     {
       "added_at": "2024-01-12 03:00:00",
@@ -767,22 +783,6 @@
       "duration_ms": 270400,
       "name": "ODIO",
       "url": "https://open.spotify.com/track/7alOsNr36sJ8CyOEP4aILq"
-    },
-    {
-      "added_at": "2024-01-12 03:00:00",
-      "album": {
-        "name": "S.A.D",
-        "url": "https://open.spotify.com/album/2y4bx11ZTk9jxo0zXwLhLm"
-      },
-      "artists": [
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        }
-      ],
-      "duration_ms": 128375,
-      "name": "S.A.D",
-      "url": "https://open.spotify.com/track/0ZGNuav3HfUf1iOLoF3CaO"
     },
     {
       "added_at": "2024-01-12 03:00:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-01-12 03:00:00",
       "album": {
-        "name": "KUN",
-        "url": "https://open.spotify.com/album/0MnNn3zWWUP8CcHUXuOnCc"
-      },
-      "artists": [
-        {
-          "name": "DrefQuila",
-          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "Me Atrapa",
-      "url": "https://open.spotify.com/track/2TnkEU0979HuAtOXD1kI9H"
-    },
-    {
-      "added_at": "2024-01-12 03:00:00",
-      "album": {
         "name": "Sexy (feat. Marlku)",
         "url": "https://open.spotify.com/album/0kVRyKb6YCBggbll6m5QSu"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 254852,
       "name": "Sexy (feat. Marlku)",
       "url": "https://open.spotify.com/track/07op5jYgtFXEdA5NGqBgEr"
+    },
+    {
+      "added_at": "2024-01-12 03:00:00",
+      "album": {
+        "name": "KUN",
+        "url": "https://open.spotify.com/album/0MnNn3zWWUP8CcHUXuOnCc"
+      },
+      "artists": [
+        {
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Me Atrapa",
+      "url": "https://open.spotify.com/track/2TnkEU0979HuAtOXD1kI9H"
     },
     {
       "added_at": "2024-01-12 03:00:00",
@@ -1767,6 +1767,22 @@
     {
       "added_at": "2024-01-12 03:00:00",
       "album": {
+        "name": "Una Semana",
+        "url": "https://open.spotify.com/album/6btnX8ER1IHMIUqmmQfFVY"
+      },
+      "artists": [
+        {
+          "name": "Seven Kayne",
+          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
+        }
+      ],
+      "duration_ms": 183703,
+      "name": "Una Semana",
+      "url": "https://open.spotify.com/track/7oERzx2IvTweeSXU7S8wdO"
+    },
+    {
+      "added_at": "2024-01-12 03:00:00",
+      "album": {
         "name": "CARAMELOS",
         "url": "https://open.spotify.com/album/3xfXp5kKVbWTMvO7bmOGWQ"
       },
@@ -1783,22 +1799,6 @@
       "duration_ms": 165818,
       "name": "CARAMELOS",
       "url": "https://open.spotify.com/track/4gC0DGimATZgd8lZW4n0aR"
-    },
-    {
-      "added_at": "2024-01-12 03:00:00",
-      "album": {
-        "name": "Una Semana",
-        "url": "https://open.spotify.com/album/6btnX8ER1IHMIUqmmQfFVY"
-      },
-      "artists": [
-        {
-          "name": "Seven Kayne",
-          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
-        }
-      ],
-      "duration_ms": 183703,
-      "name": "Una Semana",
-      "url": "https://open.spotify.com/track/7oERzx2IvTweeSXU7S8wdO"
     },
     {
       "added_at": "2024-01-12 03:00:00",

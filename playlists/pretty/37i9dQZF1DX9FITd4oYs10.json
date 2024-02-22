@@ -1,12 +1,12 @@
 {
   "description": "Os brabos do hip hop nacional. Foto: Racionais MCs",
-  "num_followers": 17869,
+  "num_followers": 17872,
   "original_name": "Cole\u00e7\u00e3o Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMWIyNWNhNGZlNDM1M2ZjNzc3NDkyM2JmZjZjZjM2ZDBjNzJiZDFi",
+  "snapshot_id": "MCxkMzk4OGU1MzkwZDgxNTljNDRmYzgzNTgzMDUxNmViN2FiYzkyYTg1",
   "tracks": [
     {
       "added_at": "2023-12-29 03:00:00",
@@ -195,46 +195,6 @@
     {
       "added_at": "2023-12-29 03:00:00",
       "album": {
-        "name": "Praia do Rosa (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/0ZctkhWjiHRZ4t20iKd2Ql"
-      },
-      "artists": [
-        {
-          "name": "Oriente",
-          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Delacruz",
-          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
-        }
-      ],
-      "duration_ms": 256523,
-      "name": "Praia do Rosa - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/5lYKob6hewwt3dcy5kWMfF"
-    },
-    {
-      "added_at": "2023-12-29 03:00:00",
-      "album": {
-        "name": "Nada Como um Dia Ap\u00f3s o Outro Dia, Vol. 1 & 2",
-        "url": "https://open.spotify.com/album/4HcPzKyKVtcZCwJgesoZWn"
-      },
-      "artists": [
-        {
-          "name": "Racionais MC's",
-          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
-        }
-      ],
-      "duration_ms": 303560,
-      "name": "Vida Loka, Pt. 1",
-      "url": "https://open.spotify.com/track/6m8AgjfI28ER6odzMxmHtR"
-    },
-    {
-      "added_at": "2023-12-29 03:00:00",
-      "album": {
         "name": "Outro Dia",
         "url": "https://open.spotify.com/album/4OpLG18GdHYN3FamTxiP5o"
       },
@@ -267,6 +227,22 @@
     {
       "added_at": "2023-12-29 03:00:00",
       "album": {
+        "name": "Nada Como um Dia Ap\u00f3s o Outro Dia, Vol. 1 & 2",
+        "url": "https://open.spotify.com/album/4HcPzKyKVtcZCwJgesoZWn"
+      },
+      "artists": [
+        {
+          "name": "Racionais MC's",
+          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
+        }
+      ],
+      "duration_ms": 303560,
+      "name": "Vida Loka, Pt. 1",
+      "url": "https://open.spotify.com/track/6m8AgjfI28ER6odzMxmHtR"
+    },
+    {
+      "added_at": "2023-12-29 03:00:00",
+      "album": {
         "name": "Com os Neur\u00f4nios Evoluidos",
         "url": "https://open.spotify.com/album/6BZBlOY8oVISvKMnUvDQ3Z"
       },
@@ -279,6 +255,30 @@
       "duration_ms": 258742,
       "name": "Rainha da Pista",
       "url": "https://open.spotify.com/track/6pSS3wWysnciJRFMcK14R7"
+    },
+    {
+      "added_at": "2023-12-29 03:00:00",
+      "album": {
+        "name": "Praia do Rosa (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/0ZctkhWjiHRZ4t20iKd2Ql"
+      },
+      "artists": [
+        {
+          "name": "Oriente",
+          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+        }
+      ],
+      "duration_ms": 256523,
+      "name": "Praia do Rosa - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5lYKob6hewwt3dcy5kWMfF"
     },
     {
       "added_at": "2023-12-29 03:00:00",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-12-29 03:00:00",
       "album": {
-        "name": "Com os Neur\u00f4nios Evoluidos",
-        "url": "https://open.spotify.com/album/6BZBlOY8oVISvKMnUvDQ3Z"
-      },
-      "artists": [
-        {
-          "name": "ConeCrewDiretoria",
-          "url": "https://open.spotify.com/artist/0iUdFhwiXjGQWAt9yXPP1T"
-        }
-      ],
-      "duration_ms": 353532,
-      "name": "Chama os Mulekes",
-      "url": "https://open.spotify.com/track/5p3umkh1j1x1lL9IW8DbSZ"
-    },
-    {
-      "added_at": "2023-12-29 03:00:00",
-      "album": {
         "name": "Relic\u00e1rio",
         "url": "https://open.spotify.com/album/6qp8a3Tx1FRR70uoa6xcWR"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 191933,
       "name": "Relic\u00e1rio",
       "url": "https://open.spotify.com/track/60CZZExLs2g78by2XrDBC7"
+    },
+    {
+      "added_at": "2023-12-29 03:00:00",
+      "album": {
+        "name": "Com os Neur\u00f4nios Evoluidos",
+        "url": "https://open.spotify.com/album/6BZBlOY8oVISvKMnUvDQ3Z"
+      },
+      "artists": [
+        {
+          "name": "ConeCrewDiretoria",
+          "url": "https://open.spotify.com/artist/0iUdFhwiXjGQWAt9yXPP1T"
+        }
+      ],
+      "duration_ms": 353532,
+      "name": "Chama os Mulekes",
+      "url": "https://open.spotify.com/track/5p3umkh1j1x1lL9IW8DbSZ"
     },
     {
       "added_at": "2023-12-29 03:00:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-12-29 03:00:00",
       "album": {
-        "name": "Racionais 3 D\u00e9cadas",
-        "url": "https://open.spotify.com/album/5gmsqaExyN56rGxJxY6yLX"
-      },
-      "artists": [
-        {
-          "name": "Racionais MC's",
-          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
-        }
-      ],
-      "duration_ms": 354310,
-      "name": "Negro Drama - Ao Vivo",
-      "url": "https://open.spotify.com/track/4hPY8Hyit0AqHTZZp4a861"
-    },
-    {
-      "added_at": "2023-12-29 03:00:00",
-      "album": {
         "name": "Roteiro Pra A\u00efnouz (Vol. 3)",
         "url": "https://open.spotify.com/album/7hUHxgR9xS4sDrnsfPTtQW"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 368024,
       "name": "Aquela F\u00e9",
       "url": "https://open.spotify.com/track/2HunnLQdWqDFTTKXd8PP5r"
+    },
+    {
+      "added_at": "2023-12-29 03:00:00",
+      "album": {
+        "name": "Racionais 3 D\u00e9cadas",
+        "url": "https://open.spotify.com/album/5gmsqaExyN56rGxJxY6yLX"
+      },
+      "artists": [
+        {
+          "name": "Racionais MC's",
+          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
+        }
+      ],
+      "duration_ms": 354310,
+      "name": "Negro Drama - Ao Vivo",
+      "url": "https://open.spotify.com/track/4hPY8Hyit0AqHTZZp4a861"
     },
     {
       "added_at": "2023-12-29 03:00:00",
@@ -1171,6 +1171,38 @@
     {
       "added_at": "2023-12-29 03:00:00",
       "album": {
+        "name": "Poesia Ac\u00fastica Ep. Acabou",
+        "url": "https://open.spotify.com/album/2ejKEkRgh3uruTbgFEUbOG"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Salve Malak",
+          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "Poesia Ac\u00fastica Ep. Acabou",
+      "url": "https://open.spotify.com/track/0oHUP66PMEiy7itEGM0EpY"
+    },
+    {
+      "added_at": "2023-12-29 03:00:00",
+      "album": {
         "name": "Flora Matos Vs. Stereodubs",
         "url": "https://open.spotify.com/album/6HNoNczfw0EsT7W5UgRzZ7"
       },
@@ -1207,34 +1239,26 @@
     {
       "added_at": "2023-12-29 03:00:00",
       "album": {
-        "name": "Poesia Ac\u00fastica Ep. Acabou",
-        "url": "https://open.spotify.com/album/2ejKEkRgh3uruTbgFEUbOG"
+        "name": "Mixtape: O Homem N\u00e3o para Nunca, Vol. 1",
+        "url": "https://open.spotify.com/album/1lXyXfLQHjxtxWJKquzMjF"
       },
       "artists": [
         {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
         },
         {
-          "name": "Budah",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+          "name": "Santzu",
+          "url": "https://open.spotify.com/artist/7vIhwLkRibT4hBjpBAPwZP"
         },
         {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Salve Malak",
-          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
         }
       ],
-      "duration_ms": 270000,
-      "name": "Poesia Ac\u00fastica Ep. Acabou",
-      "url": "https://open.spotify.com/track/0oHUP66PMEiy7itEGM0EpY"
+      "duration_ms": 294913,
+      "name": "Vem Tranquilo",
+      "url": "https://open.spotify.com/track/7lllBXlYPpeocz95bTVyPO"
     },
     {
       "added_at": "2023-12-29 03:00:00",
@@ -1283,30 +1307,6 @@
       "duration_ms": 335907,
       "name": "The Cypher Deffect 2",
       "url": "https://open.spotify.com/track/6GYrNXsWoprEndJCoKLfAB"
-    },
-    {
-      "added_at": "2023-12-29 03:00:00",
-      "album": {
-        "name": "Mixtape: O Homem N\u00e3o para Nunca, Vol. 1",
-        "url": "https://open.spotify.com/album/1lXyXfLQHjxtxWJKquzMjF"
-      },
-      "artists": [
-        {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
-        },
-        {
-          "name": "Santzu",
-          "url": "https://open.spotify.com/artist/7vIhwLkRibT4hBjpBAPwZP"
-        },
-        {
-          "name": "Chris MC",
-          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
-        }
-      ],
-      "duration_ms": 294913,
-      "name": "Vem Tranquilo",
-      "url": "https://open.spotify.com/track/7lllBXlYPpeocz95bTVyPO"
     },
     {
       "added_at": "2023-12-29 03:00:00",

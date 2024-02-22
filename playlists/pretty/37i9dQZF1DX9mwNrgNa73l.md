@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mwNrgNa73l.md) - [plain]
 
 > Jahaan bhi dekho tera nishaan hai, mahraab\-i dil men teri azaan hai.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,103 likes - 75 songs - 8 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,216 likes - 75 songs - 8 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mwNrgNa73l.md) - [plain]
 | 17 | [Tu Jhoom](https://open.spotify.com/track/2xRtXbFAmk3cW6xE1zF7ye) | [Naseebo Lal](https://open.spotify.com/artist/4sAweKU7CjDZ1bUEb6VF6a), [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl) | [Tu Jhoom](https://open.spotify.com/album/6VhS1BISA2PS23CmP0XH5M) | 6:37 |
 | 18 | [Shukran Allah](https://open.spotify.com/track/3nKEiJUeaWn8q2O9I1xwlB) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm) | [Kurbaan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7gJUjDpRvBRY5oCh4pC9d5) | 4:50 |
 | 19 | [Aas Paas Khuda \(Unplugged\)](https://open.spotify.com/track/0hVXFWS00liq3W2YAQUma4) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0), [Shruti Pathak](https://open.spotify.com/artist/3wZBspj86lRk2XLf4gfnSE) | [Anjaana Anjaani](https://open.spotify.com/album/6FC95PYKFrO8UYhjCidPZ9) | 3:24 |
-| 20 | [Noor E Khuda](https://open.spotify.com/track/60d1uQmqTZ1Lg2SGJYdQTI) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Adnan Sami](https://open.spotify.com/artist/0kJO65h553i1iGsZutBuqz), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [We Are Family \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0WepPP0SOdbZD6oFHzAM4X) | 6:36 |
+| 20 | [Noor E Khuda](https://open.spotify.com/track/55fSZWdcvMPJga3LbiV8jN) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Adnan Sami](https://open.spotify.com/artist/0kJO65h553i1iGsZutBuqz), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [My Name Is Khan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5O06EpSaMFlN0DKqF8hRnK) | 6:37 |
 | 21 | [Tera Woh Pyar \(Nawazishein Karam\)](https://open.spotify.com/track/2RV4QunRX0CTs2JR1uUbMj) | [Momina Mustehsan](https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV), [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS) | [Coke Studio: Season 9](https://open.spotify.com/album/0XhnwVTHd5Z0MwdrulhJhQ) | 7:05 |
 | 22 | [Din Dhalay](https://open.spotify.com/track/1y30e6iFISuGTbpO68H1Ob) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP) | [4 Saal](https://open.spotify.com/album/5LiulhSHQrEXkYO63T5Z6Q) | 5:36 |
 | 23 | [Arziyan](https://open.spotify.com/track/3V80Iv04B9XAqGHbXdtRT1) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7), [Kailash Kher](https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4) | [Delhi\-6](https://open.spotify.com/album/2oEJvIPxiVWejbACLjq6Lh) | 8:39 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mwNrgNa73l.md) - [plain]
 | 74 | [O Re](https://open.spotify.com/track/4AHvMLWvuGZn62sCpFEtj7) | [Noori](https://open.spotify.com/artist/2KRtcParcfvUYXcCAueULl) | [Coke Studio: Season 9](https://open.spotify.com/album/0XhnwVTHd5Z0MwdrulhJhQ) | 5:21 |
 | 75 | [Ali \(A.S\) Aye Hain](https://open.spotify.com/track/1eg7IqSJ1JHk3goCqLpS60) | [Zain Zohaib](https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP) | [Ali \(A.S\) Aye Hain](https://open.spotify.com/album/4VALKrlOl0rKJUlDFfRQvx) | 6:56 |
 
-Snapshot ID: `MCwzN2RlYTNkMTQwZThiNmMwM2Y4OTk5YTIyYTA0NTZlYzkwN2Q3MDI0`
+Snapshot ID: `MCw5YjU3YzZmMjljNTA5NGQyM2Q0YzM4MTg5ZjUzMmRlOWNiNjE0MWQy`

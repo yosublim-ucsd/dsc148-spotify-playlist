@@ -1,12 +1,12 @@
 {
   "description": "Dejate llevar por los mejores lentos del rock. Foto: Fabiana Cantilo",
-  "num_followers": 118004,
+  "num_followers": 118144,
   "original_name": "Baladas Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZjA1MTA1Mzk2NjBhMTI3YjhhNzE3MDIzY2I2YzIwNWY3NjVmMTgw",
+  "snapshot_id": "MCw4YjhiMmU5ODcxM2M2MGIyMGNmOWFiZWViYzU1Njk2NDVlMjU0ODcy",
   "tracks": [
     {
       "added_at": "2024-02-08 21:51:19",
@@ -387,22 +387,6 @@
     {
       "added_at": "2024-02-08 21:51:19",
       "album": {
-        "name": "Otras Canciones",
-        "url": "https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D"
-      },
-      "artists": [
-        {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
-        }
-      ],
-      "duration_ms": 202063,
-      "name": "A Las Nueve",
-      "url": "https://open.spotify.com/track/68cko9zdsKwaxgb98sF36S"
-    },
-    {
-      "added_at": "2024-02-08 21:51:19",
-      "album": {
         "name": "Nunca Lo Olvides",
         "url": "https://open.spotify.com/album/6ZDbOUt4FRdFgQEbhJyFui"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 299810,
       "name": "Nunca Lo Olvides",
       "url": "https://open.spotify.com/track/1qAMb1y3o7Olwm8pYTuzyV"
+    },
+    {
+      "added_at": "2024-02-08 21:51:19",
+      "album": {
+        "name": "Otras Canciones",
+        "url": "https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D"
+      },
+      "artists": [
+        {
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        }
+      ],
+      "duration_ms": 202063,
+      "name": "A Las Nueve",
+      "url": "https://open.spotify.com/track/68cko9zdsKwaxgb98sF36S"
     },
     {
       "added_at": "2024-02-08 21:51:19",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-02-08 21:51:19",
       "album": {
-        "name": "Abre",
-        "url": "https://open.spotify.com/album/4uOEHOabkf5hmv0ra14XJb"
-      },
-      "artists": [
-        {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
-        }
-      ],
-      "duration_ms": 342160,
-      "name": "Dos en la ciudad",
-      "url": "https://open.spotify.com/track/4MYOJ2AhfzdoPAjwHg79LS"
-    },
-    {
-      "added_at": "2024-02-08 21:51:19",
-      "album": {
         "name": "Locales Calientes",
         "url": "https://open.spotify.com/album/13d9lMGw8xFgzoWEZhIaLC"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 247419,
       "name": "Tan Distintos",
       "url": "https://open.spotify.com/track/5lVxdKsJkQClhBLK7lfurE"
+    },
+    {
+      "added_at": "2024-02-08 21:51:19",
+      "album": {
+        "name": "Abre",
+        "url": "https://open.spotify.com/album/4uOEHOabkf5hmv0ra14XJb"
+      },
+      "artists": [
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        }
+      ],
+      "duration_ms": 342160,
+      "name": "Dos en la ciudad",
+      "url": "https://open.spotify.com/track/4MYOJ2AhfzdoPAjwHg79LS"
     },
     {
       "added_at": "2024-02-08 21:51:19",
@@ -735,34 +735,18 @@
     {
       "added_at": "2024-02-08 21:51:19",
       "album": {
-        "name": "Devorador De Corazones",
-        "url": "https://open.spotify.com/album/7nJFHb7cLQNlv710wRjbvH"
+        "name": "El Amor Despu\u00e9s del Amor",
+        "url": "https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5"
       },
       "artists": [
         {
-          "name": "La Portuaria",
-          "url": "https://open.spotify.com/artist/0Q7HmY08qjZ6SrCb9DYji7"
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
         }
       ],
-      "duration_ms": 178800,
-      "name": "Nada Es Igual",
-      "url": "https://open.spotify.com/track/3YLIsu2NZxqfEPj4ADA7WX"
-    },
-    {
-      "added_at": "2024-02-08 21:51:19",
-      "album": {
-        "name": "Palabras m\u00e1s, palabras menos",
-        "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
-      },
-      "artists": [
-        {
-          "name": "Los Rodriguez",
-          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
-        }
-      ],
-      "duration_ms": 215386,
-      "name": "Diez a\u00f1os despu\u00e9s",
-      "url": "https://open.spotify.com/track/75ri6NVvxCULgNRrbGkfzj"
+      "duration_ms": 163280,
+      "name": "P\u00e9talo de sal",
+      "url": "https://open.spotify.com/track/47rrhPXwe6sfKtIDwJAsO4"
     },
     {
       "added_at": "2024-02-08 21:51:19",
@@ -783,34 +767,50 @@
     {
       "added_at": "2024-02-08 21:51:19",
       "album": {
-        "name": "El Amor Despu\u00e9s del Amor",
-        "url": "https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5"
+        "name": "Palabras m\u00e1s, palabras menos",
+        "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
       },
       "artists": [
         {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+          "name": "Los Rodriguez",
+          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
         }
       ],
-      "duration_ms": 163280,
-      "name": "P\u00e9talo de sal",
-      "url": "https://open.spotify.com/track/47rrhPXwe6sfKtIDwJAsO4"
+      "duration_ms": 215386,
+      "name": "Diez a\u00f1os despu\u00e9s",
+      "url": "https://open.spotify.com/track/75ri6NVvxCULgNRrbGkfzj"
     },
     {
       "added_at": "2024-02-08 21:51:19",
       "album": {
-        "name": "Karmagedon",
-        "url": "https://open.spotify.com/album/7BwJSFUMeLoEFyJEXbTLLv"
+        "name": "Devorador De Corazones",
+        "url": "https://open.spotify.com/album/7nJFHb7cLQNlv710wRjbvH"
       },
       "artists": [
         {
-          "name": "Attaque 77",
-          "url": "https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9"
+          "name": "La Portuaria",
+          "url": "https://open.spotify.com/artist/0Q7HmY08qjZ6SrCb9DYji7"
         }
       ],
-      "duration_ms": 328746,
-      "name": "Chance",
-      "url": "https://open.spotify.com/track/5jU0mt57ZibD3Us55vMs9Y"
+      "duration_ms": 178800,
+      "name": "Nada Es Igual",
+      "url": "https://open.spotify.com/track/3YLIsu2NZxqfEPj4ADA7WX"
+    },
+    {
+      "added_at": "2024-02-08 21:51:19",
+      "album": {
+        "name": "Hijos Del Culo",
+        "url": "https://open.spotify.com/album/3e8flfLtloaUHUqv3PIR2o"
+      },
+      "artists": [
+        {
+          "name": "Bersuit Vergarabat",
+          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
+        }
+      ],
+      "duration_ms": 291493,
+      "name": "Desconexi\u00f3n Sideral",
+      "url": "https://open.spotify.com/track/2vAwpcT3V607tEib9booQZ"
     },
     {
       "added_at": "2024-02-08 21:51:19",
@@ -847,18 +847,18 @@
     {
       "added_at": "2024-02-08 21:51:19",
       "album": {
-        "name": "Hijos Del Culo",
-        "url": "https://open.spotify.com/album/3e8flfLtloaUHUqv3PIR2o"
+        "name": "Karmagedon",
+        "url": "https://open.spotify.com/album/7BwJSFUMeLoEFyJEXbTLLv"
       },
       "artists": [
         {
-          "name": "Bersuit Vergarabat",
-          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
+          "name": "Attaque 77",
+          "url": "https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9"
         }
       ],
-      "duration_ms": 291493,
-      "name": "Desconexi\u00f3n Sideral",
-      "url": "https://open.spotify.com/track/2vAwpcT3V607tEib9booQZ"
+      "duration_ms": 328746,
+      "name": "Chance",
+      "url": "https://open.spotify.com/track/5jU0mt57ZibD3Us55vMs9Y"
     },
     {
       "added_at": "2024-02-08 21:51:19",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-02-08 21:51:19",
       "album": {
-        "name": "Mec\u00e1nica Popular",
-        "url": "https://open.spotify.com/album/4Z1Q71sHLNHcnT5OpSZjtS"
-      },
-      "artists": [
-        {
-          "name": "Buitres",
-          "url": "https://open.spotify.com/artist/04IlmuXVBYLASmLi18VqRl"
-        }
-      ],
-      "duration_ms": 284451,
-      "name": "La Primera Vez",
-      "url": "https://open.spotify.com/track/7pqLOROlyd3YW4Gvl09HPX"
-    },
-    {
-      "added_at": "2024-02-08 21:51:19",
-      "album": {
         "name": "L\u00e1piz Libertad",
         "url": "https://open.spotify.com/album/48NPbFVbP0dhZNMtZOxETh"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 248064,
       "name": "L\u00e1piz Libertad",
       "url": "https://open.spotify.com/track/4zPgTLglAVR88y0V8MBMrx"
+    },
+    {
+      "added_at": "2024-02-08 21:51:19",
+      "album": {
+        "name": "Mec\u00e1nica Popular",
+        "url": "https://open.spotify.com/album/4Z1Q71sHLNHcnT5OpSZjtS"
+      },
+      "artists": [
+        {
+          "name": "Buitres",
+          "url": "https://open.spotify.com/artist/04IlmuXVBYLASmLi18VqRl"
+        }
+      ],
+      "duration_ms": 284451,
+      "name": "La Primera Vez",
+      "url": "https://open.spotify.com/track/7pqLOROlyd3YW4Gvl09HPX"
     },
     {
       "added_at": "2024-02-08 21:51:19",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2024-02-08 21:51:19",
       "album": {
+        "name": "Magos, Espadas Y Rosas",
+        "url": "https://open.spotify.com/album/4ZVdhrTnRFM8OYwB9lp71x"
+      },
+      "artists": [
+        {
+          "name": "Rata Blanca",
+          "url": "https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd"
+        }
+      ],
+      "duration_ms": 365173,
+      "name": "Mujer Amante",
+      "url": "https://open.spotify.com/track/7xUw3j3VBUhbMmoo3re0cU"
+    },
+    {
+      "added_at": "2024-02-08 21:51:19",
+      "album": {
         "name": "Ojos de R\u00edo",
         "url": "https://open.spotify.com/album/0FDjjaaAOmUSmEyGlcPJtM"
       },
@@ -1427,22 +1443,6 @@
     {
       "added_at": "2024-02-08 21:51:19",
       "album": {
-        "name": "Magos, Espadas Y Rosas",
-        "url": "https://open.spotify.com/album/4ZVdhrTnRFM8OYwB9lp71x"
-      },
-      "artists": [
-        {
-          "name": "Rata Blanca",
-          "url": "https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd"
-        }
-      ],
-      "duration_ms": 365173,
-      "name": "Mujer Amante",
-      "url": "https://open.spotify.com/track/7xUw3j3VBUhbMmoo3re0cU"
-    },
-    {
-      "added_at": "2024-02-08 21:51:19",
-      "album": {
         "name": "Zoe Exitos",
         "url": "https://open.spotify.com/album/0A9jGSvMMxAQr9iNb5p1hr"
       },
@@ -1471,6 +1471,22 @@
       "duration_ms": 223753,
       "name": "Esp\u00edritu Felino",
       "url": "https://open.spotify.com/track/3whsO3ehU6ebnGjAZdzGFt"
+    },
+    {
+      "added_at": "2024-02-08 21:51:19",
+      "album": {
+        "name": "Una y Otra Vez",
+        "url": "https://open.spotify.com/album/0bVbUOC1tbkj2MvPq1Yu4R"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Mollo",
+          "url": "https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7"
+        }
+      ],
+      "duration_ms": 130804,
+      "name": "Una y Otra Vez",
+      "url": "https://open.spotify.com/track/7yJxEX2Vee55JroU1eiLF1"
     },
     {
       "added_at": "2024-02-08 21:51:19",
@@ -1539,22 +1555,6 @@
     {
       "added_at": "2024-02-08 21:51:19",
       "album": {
-        "name": "Una y Otra Vez",
-        "url": "https://open.spotify.com/album/0bVbUOC1tbkj2MvPq1Yu4R"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Mollo",
-          "url": "https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7"
-        }
-      ],
-      "duration_ms": 130804,
-      "name": "Una y Otra Vez",
-      "url": "https://open.spotify.com/track/7yJxEX2Vee55JroU1eiLF1"
-    },
-    {
-      "added_at": "2024-02-08 21:51:19",
-      "album": {
         "name": "Deja Su Lugar",
         "url": "https://open.spotify.com/album/1V1ijqEHIpV8UtWqicm0z4"
       },
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2024-02-08 21:51:19",
       "album": {
+        "name": "Tu Mirada",
+        "url": "https://open.spotify.com/album/6e45aH8gfnLjPqd9jX25HX"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Mollo",
+          "url": "https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7"
+        }
+      ],
+      "duration_ms": 201402,
+      "name": "Tu Mirada",
+      "url": "https://open.spotify.com/track/4wSHlr7aUYTYlyO1dtfblV"
+    },
+    {
+      "added_at": "2024-02-08 21:51:19",
+      "album": {
         "name": "Vendedora de Caricias",
         "url": "https://open.spotify.com/album/0EatkO6cNzVzxbWRhWYK91"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 243391,
       "name": "El Regalo",
       "url": "https://open.spotify.com/track/47fOMQaJ6vELtlB7qDLnJX"
-    },
-    {
-      "added_at": "2024-02-08 21:51:19",
-      "album": {
-        "name": "Tu Mirada",
-        "url": "https://open.spotify.com/album/6e45aH8gfnLjPqd9jX25HX"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Mollo",
-          "url": "https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7"
-        }
-      ],
-      "duration_ms": 201402,
-      "name": "Tu Mirada",
-      "url": "https://open.spotify.com/track/4wSHlr7aUYTYlyO1dtfblV"
     }
   ],
   "unique_name": "Baladas Rock",

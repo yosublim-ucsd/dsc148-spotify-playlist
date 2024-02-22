@@ -4,7 +4,7 @@
 
 > Hottest bars coming live from the 233\.  Cover:  Strongman
 
-418 songs - 21 hr 8 min
+419 songs - 21 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,7 +197,8 @@
 | [Jeje \(Easy\)](https://open.spotify.com/track/6siJBdHjgN9jy9n04yxA9y) | [Dajon AF](https://open.spotify.com/artist/4yN3RB5NqyHi9cSyllXgeS), [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN), [Korshi T](https://open.spotify.com/artist/6LYgIKATg0RJj86yCqAxnc) | [Jeje \(Easy\)](https://open.spotify.com/album/0CrKfunCicrYq2ufIw3P0n) | 2:41 | 2023-04-20 | 2023-05-05 |
 | [Journey](https://open.spotify.com/track/5jfg1efkZ353GGK2vpmfDs) | [GAVNOR](https://open.spotify.com/artist/615ijsp6e3be3lmyhGB1VG), [Kweku Darlington](https://open.spotify.com/artist/3ZR23AVEcvrtRqPXpIcjSW) | [Journey](https://open.spotify.com/album/3MdaY6xLTAYBIlpfh61SM9) | 3:08 | 2023-03-10 | 2023-03-18 |
 | [Jungle](https://open.spotify.com/track/4NARIv4QbQuthTNOxD86YN) | [Delis](https://open.spotify.com/artist/4edwjN1rPYHiAbkPNihGWP) | [Jungle](https://open.spotify.com/album/2coPddvfw3sBXwm6Fi72eb) | 3:30 | 2023-04-20 | 2023-05-27 |
-| [Jungle Music, Pt.1](https://open.spotify.com/track/3lHz5md9boT0yiIDRutanu) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Jungle Music, Pt.1](https://open.spotify.com/album/1u53HTtDzE94WWWoGFUCFy) | 3:05 | 2024-02-16 |  |
+| [Jungle Music, Pt.1](https://open.spotify.com/track/3lHz5md9boT0yiIDRutanu) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Jungle Music, Pt.1](https://open.spotify.com/album/1u53HTtDzE94WWWoGFUCFy) | 3:05 | 2024-02-16 | 2024-02-22 |
+| [Jungle Music, Pt.1](https://open.spotify.com/track/6igRiUF4wplkbTr2ecNx8Y) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Jungle Music, Pt.1](https://open.spotify.com/album/3YosaIj8eB3PHuQv5QGtB0) | 3:05 | 2024-02-16 |  |
 | [Just Wana Live](https://open.spotify.com/track/4KvrTUqzgC6U1ABhep2JJY) | [9thnvtiv3](https://open.spotify.com/artist/2iz0ioOmfy3pSjjhhHJ69K), [Don Dali](https://open.spotify.com/artist/0HFCLPeM7uPYf6mgVavzz7), [A\-Clipse](https://open.spotify.com/artist/0XI7j7EgtRE6HI8iDEIJkO), [Juma Mufasa](https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs) | [Just Wana Live](https://open.spotify.com/album/0GucHYqlUx2g3J3By4CeA0) | 2:48 | 2023-02-03 | 2023-02-11 |
 | [K3 Afee Ateee](https://open.spotify.com/track/6wN2yIdVp3NBsAv0ho3TFZ) | [Gasmilla](https://open.spotify.com/artist/1Wtzdgd5YfWe0WWm9WN3l3) | [K3 Afee Ateee](https://open.spotify.com/album/3B8RFWCB0E7Gdj2t8dtxaJ) | 2:44 | 2023-03-02 | 2023-03-11 |
 | [KABUTEY FLOW](https://open.spotify.com/track/7JS8FzTaLZEQFhTHTXinLY) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [KABUTEY FLOW](https://open.spotify.com/album/71E270Mzm0P0YkMPAMBEjx) | 2:17 | 2024-01-05 |  |

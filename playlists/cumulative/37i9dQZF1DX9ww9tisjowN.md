@@ -4,7 +4,7 @@
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. cover: Serani Poji
 
-365 songs - 21 hr 13 min
+366 songs - 21 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,7 +205,8 @@
 | [Sugarless Kiss](https://open.spotify.com/track/2pEeXbiebbKqIklSL0gLO0) | [Suzuko Mimori](https://open.spotify.com/artist/0BNdkdR8pOiC1SYm415sYY) | [P](https://open.spotify.com/album/7fIlrZpTkNXvOZoWXppmcW) | 3:34 | 2023-05-09 | 2023-05-15 |
 | [Suki Lie](https://open.spotify.com/track/45h7ZIjSfrPbhbl7EgwKwh) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [ICHIJIKIKOKU](https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz) | 3:15 | 2023-05-15 | 2023-06-02 |
 | [Summer Situation](https://open.spotify.com/track/7Da7crN49ehmABnxJuo52J) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [SIKK\-O](https://open.spotify.com/artist/62x90xtztIeFjU7Z9eVKDR), [Mamiko Suzuki](https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF) | [ALLSEASON EP.](https://open.spotify.com/album/7enrVhK4zZBVokYXmZXm4L) | 4:50 | 2023-05-09 | 2023-12-08 |
-| [SUPER PALE HORSE feat\. CVLTE](https://open.spotify.com/track/4Gg0ukD0TBFWNA1tOLnWo2) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa), [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [PALEHELL](https://open.spotify.com/album/061Fln1SY6RputuFt6GP5N) | 3:11 | 2024-02-20 |  |
+| [SUPER PALE HORSE](https://open.spotify.com/track/3I48EGIIUz6xDE87NoYI5y) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa), [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [PALEHELL](https://open.spotify.com/album/4RJm4nESvtZRn9MV3sOs9V) | 3:11 | 2024-02-20 |  |
+| [SUPER PALE HORSE feat\. CVLTE](https://open.spotify.com/track/4Gg0ukD0TBFWNA1tOLnWo2) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa), [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [PALEHELL](https://open.spotify.com/album/061Fln1SY6RputuFt6GP5N) | 3:11 | 2024-02-20 | 2024-02-22 |
 | [take it easy](https://open.spotify.com/track/5zcZFIA0wp45rmn0XVyyVO) | [Asa](https://open.spotify.com/artist/3JjGQRskRjFJMpBESBtSum) | [take it easy](https://open.spotify.com/album/4DD5ROQGQfmNBVLKxnU5p1) | 3:28 | 2023-11-09 | 2023-11-29 |
 | [TGIF](https://open.spotify.com/track/3horUXBBgEyTEAxfeT9c0P) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [TGIF](https://open.spotify.com/album/0aNeBf2SZFAUOYuyCBPU0c) | 2:51 | 2023-08-03 | 2023-08-30 |
 | [The Flame of Love](https://open.spotify.com/track/0uNmOW9ock1EUkbBzjTk0L) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [The Flower of Love](https://open.spotify.com/album/7n2ZUQwPFVI1duDelTWD3p) | 3:19 | 2024-01-04 | 2024-01-19 |

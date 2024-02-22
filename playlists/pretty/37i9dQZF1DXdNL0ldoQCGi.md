@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 
 > anda se recomponha!!!!!! o carnaval acabou mas a vida continua!!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,590 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,665 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 | 49 | [ENSAIO DAS MARAVILHAS](https://open.spotify.com/track/1V6gIVSrMEJCRyogBnIrNr) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Thaysa Maravilha](https://open.spotify.com/artist/1ki7YZPuQY8PYZ8cugIzBc) | [ENSAIO DAS MARAVILHAS](https://open.spotify.com/album/0WySBFNRnQ1HeXUHckbpLw) | 2:56 |
 | 50 | [Gostosinha é Ela](https://open.spotify.com/track/0XyPPyGes0omXppV5YE8gy) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [Gostosinha é Ela](https://open.spotify.com/album/4mh9PwttztTnpvYlPFCPRZ) | 2:18 |
 
-Snapshot ID: `MCw5NWMyMmU0YzlkZGYzNTc0ZDA4YzFjZjM2MTc0MzgxZThiMzM4ZTJi`
+Snapshot ID: `MCxlMTkxNWQ5MWU3ZGZkMDU4ODE2NjI5OGE1ZDljZjUwZDI5ZDhiODY3`

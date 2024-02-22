@@ -1,12 +1,12 @@
 {
   "description": "The perfect playlist to just sit back and chill out with.",
-  "num_followers": 1777373,
+  "num_followers": 1777349,
   "original_name": "Hanging Out & Relaxing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YTE3NTBlM2JkMDExOWM5NzU5N2Q3ZTk0YzI4Nzk4NzczYTg3YjU1",
+  "snapshot_id": "MCxmYTUzNjlhOTU5ZjNhNWI2NWFhYzc5OTY5OTE2YWIxZmQ2ZGRlZWE0",
   "tracks": [
     {
       "added_at": "2024-01-16 15:05:04",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-01-16 15:05:04",
       "album": {
-        "name": "The Tower",
-        "url": "https://open.spotify.com/album/47RludCGdkS9Um7g0emMUD"
-      },
-      "artists": [
-        {
-          "name": "Future Islands",
-          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
-        }
-      ],
-      "duration_ms": 216866,
-      "name": "The Tower",
-      "url": "https://open.spotify.com/track/09eApSzdPkFadMVJ8LlA3D"
-    },
-    {
-      "added_at": "2024-01-16 15:05:04",
-      "album": {
         "name": "How Long Do You Think It's Gonna Last?",
         "url": "https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 178546,
       "name": "Only Time",
       "url": "https://open.spotify.com/track/6QXolVfFVjUHPp5TVzsjIF"
+    },
+    {
+      "added_at": "2024-01-16 15:05:04",
+      "album": {
+        "name": "The Tower",
+        "url": "https://open.spotify.com/album/47RludCGdkS9Um7g0emMUD"
+      },
+      "artists": [
+        {
+          "name": "Future Islands",
+          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
+        }
+      ],
+      "duration_ms": 216866,
+      "name": "The Tower",
+      "url": "https://open.spotify.com/track/09eApSzdPkFadMVJ8LlA3D"
     },
     {
       "added_at": "2024-01-16 15:05:04",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2024-01-16 15:05:04",
       "album": {
+        "name": "To Enjoy is the Only Thing",
+        "url": "https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK"
+      },
+      "artists": [
+        {
+          "name": "Maple Glider",
+          "url": "https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk"
+        }
+      ],
+      "duration_ms": 252454,
+      "name": "Good Thing",
+      "url": "https://open.spotify.com/track/1avgH7udg2X4mx82V1ChDC"
+    },
+    {
+      "added_at": "2024-01-16 15:05:04",
+      "album": {
         "name": "Seasons of Change",
         "url": "https://open.spotify.com/album/74fRgN21qhhAQv43mbCJFq"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 276826,
       "name": "All The Good Times",
       "url": "https://open.spotify.com/track/6Tv21RLLA1Dt6OtPNz8QDq"
-    },
-    {
-      "added_at": "2024-01-16 15:05:04",
-      "album": {
-        "name": "To Enjoy is the Only Thing",
-        "url": "https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK"
-      },
-      "artists": [
-        {
-          "name": "Maple Glider",
-          "url": "https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk"
-        }
-      ],
-      "duration_ms": 252454,
-      "name": "Good Thing",
-      "url": "https://open.spotify.com/track/1avgH7udg2X4mx82V1ChDC"
     },
     {
       "added_at": "2024-01-16 15:05:04",

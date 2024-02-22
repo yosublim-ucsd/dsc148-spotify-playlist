@@ -1,12 +1,12 @@
 {
   "description": "los mejores beats producidos en tierras mexicanas \ud83c\udf35",
-  "num_followers": 28733,
+  "num_followers": 28737,
   "original_name": "lofi mexa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMWM3OGU5Mjc3M2Y0NjEzMmUwOWQyNjU2MmI1MTBhMGY2ZmM1MzE0",
+  "snapshot_id": "MCw2MDgzOTEyMWFiZTY0YjI0N2UwMTFkZmM5MDk4ODM3OTRiNWVmMmEz",
   "tracks": [
     {
       "added_at": "2024-02-02 06:00:00",
@@ -303,26 +303,6 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "lost in a dream",
-        "url": "https://open.spotify.com/album/1GxXT299HiVWL3tp3Tbogk"
-      },
-      "artists": [
-        {
-          "name": "Lenny Loops",
-          "url": "https://open.spotify.com/artist/6MvnyPinXRQbUCMsPoymhR"
-        },
-        {
-          "name": "amlo",
-          "url": "https://open.spotify.com/artist/3tnECtf0aO6jeCJOXHKMg4"
-        }
-      ],
-      "duration_ms": 163333,
-      "name": "lost in a dream",
-      "url": "https://open.spotify.com/track/2Knc6s3lb5pAAVcetSmu7i"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
         "name": "Mi Pueblo",
         "url": "https://open.spotify.com/album/02WfhEBpCed81725wg1lsx"
       },
@@ -343,6 +323,26 @@
       "duration_ms": 114000,
       "name": "Mi Pueblo",
       "url": "https://open.spotify.com/track/6dStpu70kmcpJmCtVD8vbB"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
+        "name": "lost in a dream",
+        "url": "https://open.spotify.com/album/1GxXT299HiVWL3tp3Tbogk"
+      },
+      "artists": [
+        {
+          "name": "Lenny Loops",
+          "url": "https://open.spotify.com/artist/6MvnyPinXRQbUCMsPoymhR"
+        },
+        {
+          "name": "amlo",
+          "url": "https://open.spotify.com/artist/3tnECtf0aO6jeCJOXHKMg4"
+        }
+      ],
+      "duration_ms": 163333,
+      "name": "lost in a dream",
+      "url": "https://open.spotify.com/track/2Knc6s3lb5pAAVcetSmu7i"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "Saguaro",
-        "url": "https://open.spotify.com/album/0Q9gN3lrZJuqeaf9fqVfkb"
-      },
-      "artists": [
-        {
-          "name": "Flora Vida",
-          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
-        }
-      ],
-      "duration_ms": 132631,
-      "name": "Saguaro",
-      "url": "https://open.spotify.com/track/3FU5mFV1Kk63mtMv2xEru0"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
         "name": "Ay Cabr\u00f3n",
         "url": "https://open.spotify.com/album/2w9ZD90QY8FBfKVUEQh3X9"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 97931,
       "name": "Ay Cabr\u00f3n",
       "url": "https://open.spotify.com/track/07MId57g9gjI1XrPZGfZaN"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
+        "name": "Saguaro",
+        "url": "https://open.spotify.com/album/0Q9gN3lrZJuqeaf9fqVfkb"
+      },
+      "artists": [
+        {
+          "name": "Flora Vida",
+          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
+        }
+      ],
+      "duration_ms": 132631,
+      "name": "Saguaro",
+      "url": "https://open.spotify.com/track/3FU5mFV1Kk63mtMv2xEru0"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -863,6 +863,26 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
+        "name": "Mexico City, Mexico",
+        "url": "https://open.spotify.com/album/0Wit1dwhIc0TreRS59vlDd"
+      },
+      "artists": [
+        {
+          "name": "LO-FI BEATS",
+          "url": "https://open.spotify.com/artist/7iUy9ctasMRtp5jwWs95Fm"
+        },
+        {
+          "name": "Lofi Hip-Hop Beats",
+          "url": "https://open.spotify.com/artist/3zw9kN0i8eKIDbGhEiIIwo"
+        }
+      ],
+      "duration_ms": 76800,
+      "name": "Mexico City, Mexico",
+      "url": "https://open.spotify.com/track/3NwIPWV0d9qFZIjHAXqAqq"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
         "name": "Take Me Home",
         "url": "https://open.spotify.com/album/07bZkVxKUmei2L3lRXKKls"
       },
@@ -883,26 +903,6 @@
       "duration_ms": 150500,
       "name": "Take Me Home",
       "url": "https://open.spotify.com/track/1h4aLXGfmLVxXUT0IZeTmk"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
-        "name": "Mexico City, Mexico",
-        "url": "https://open.spotify.com/album/0Wit1dwhIc0TreRS59vlDd"
-      },
-      "artists": [
-        {
-          "name": "LO-FI BEATS",
-          "url": "https://open.spotify.com/artist/7iUy9ctasMRtp5jwWs95Fm"
-        },
-        {
-          "name": "Lofi Hip-Hop Beats",
-          "url": "https://open.spotify.com/artist/3zw9kN0i8eKIDbGhEiIIwo"
-        }
-      ],
-      "duration_ms": 76800,
-      "name": "Mexico City, Mexico",
-      "url": "https://open.spotify.com/track/3NwIPWV0d9qFZIjHAXqAqq"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "somewhere, nowhere.",
-        "url": "https://open.spotify.com/album/4raL3WCI3x7NqCh8dqcZKC"
-      },
-      "artists": [
-        {
-          "name": "AGM",
-          "url": "https://open.spotify.com/artist/2X0CuLwmbLWRUdBDaQVBgg"
-        }
-      ],
-      "duration_ms": 112663,
-      "name": "i shouldn't have done that...",
-      "url": "https://open.spotify.com/track/4Fl52C3mzmr66yD022Sj4r"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
         "name": "Dreaming of summer",
         "url": "https://open.spotify.com/album/6MvTkD17pTjv8eJ3RHXzu0"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 95040,
       "name": "Dreaming of summer",
       "url": "https://open.spotify.com/track/12NdC7ZrZqYjCa3HLQh5dX"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
+        "name": "somewhere, nowhere.",
+        "url": "https://open.spotify.com/album/4raL3WCI3x7NqCh8dqcZKC"
+      },
+      "artists": [
+        {
+          "name": "AGM",
+          "url": "https://open.spotify.com/artist/2X0CuLwmbLWRUdBDaQVBgg"
+        }
+      ],
+      "duration_ms": 112663,
+      "name": "i shouldn't have done that...",
+      "url": "https://open.spotify.com/track/4Fl52C3mzmr66yD022Sj4r"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "Canciones para Escuchar Frente a la Ventana",
-        "url": "https://open.spotify.com/album/5v12ASLi4FBNBdTdIzZLmy"
-      },
-      "artists": [
-        {
-          "name": "Iv\u00e1n Rosa",
-          "url": "https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "22 Hrs.",
-      "url": "https://open.spotify.com/track/2IqIhvvNbx4Toteczeyntg"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
         "name": "alone alone",
         "url": "https://open.spotify.com/album/2nCUNWm6QmLQqSYX7sTyuO"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 90933,
       "name": "alone alone",
       "url": "https://open.spotify.com/track/5EP4twphCMkOHxqggs8pLO"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
+        "name": "Canciones para Escuchar Frente a la Ventana",
+        "url": "https://open.spotify.com/album/5v12ASLi4FBNBdTdIzZLmy"
+      },
+      "artists": [
+        {
+          "name": "Iv\u00e1n Rosa",
+          "url": "https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "22 Hrs.",
+      "url": "https://open.spotify.com/track/2IqIhvvNbx4Toteczeyntg"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
+        "name": "Chillaquil",
+        "url": "https://open.spotify.com/album/41xtSTxujWEDsekEdofbsm"
+      },
+      "artists": [
+        {
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        }
+      ],
+      "duration_ms": 180674,
+      "name": "Chillaquil",
+      "url": "https://open.spotify.com/track/67fq8JQdCmk9oIyXLhiqxJ"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
         "name": "98 pasos",
         "url": "https://open.spotify.com/album/3CxK8OH2UaRL4LdMALcWEZ"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 133600,
       "name": "98 pasos",
       "url": "https://open.spotify.com/track/4DfTxshRgY238XqOHkxAnx"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
-        "name": "Chillaquil",
-        "url": "https://open.spotify.com/album/41xtSTxujWEDsekEdofbsm"
-      },
-      "artists": [
-        {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
-        }
-      ],
-      "duration_ms": 180674,
-      "name": "Chillaquil",
-      "url": "https://open.spotify.com/track/67fq8JQdCmk9oIyXLhiqxJ"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "Canciones Para Ver Las Nubes Pasar",
-        "url": "https://open.spotify.com/album/0KBtOIMP5pyxxMhm9Yy7VJ"
+        "name": "Shiny",
+        "url": "https://open.spotify.com/album/0c2yx03r9wtlW0JKwOffHi"
       },
       "artists": [
         {
-          "name": "Iv\u00e1n Rosa",
-          "url": "https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF"
+          "name": "RNDN",
+          "url": "https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn"
         }
       ],
-      "duration_ms": 164117,
-      "name": "Canci\u00f3n en Forma de Elefante",
-      "url": "https://open.spotify.com/track/6hgUc1kIwdsuWWMxkpRFDs"
+      "duration_ms": 129975,
+      "name": "Shiny",
+      "url": "https://open.spotify.com/track/4LRD9QLwptQrwYsiJCPm5g"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "Shiny",
-        "url": "https://open.spotify.com/album/0c2yx03r9wtlW0JKwOffHi"
-      },
-      "artists": [
-        {
-          "name": "RNDN",
-          "url": "https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn"
-        }
-      ],
-      "duration_ms": 129975,
-      "name": "Shiny",
-      "url": "https://open.spotify.com/track/4LRD9QLwptQrwYsiJCPm5g"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
         "name": "Lluvia de Oro",
         "url": "https://open.spotify.com/album/0RKJSxCx19WhHJgIhqYEgg"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 140400,
       "name": "Lluvia de Oro",
       "url": "https://open.spotify.com/track/6HGMkhxtqUwihX2ayzFxW2"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
+        "name": "Canciones Para Ver Las Nubes Pasar",
+        "url": "https://open.spotify.com/album/0KBtOIMP5pyxxMhm9Yy7VJ"
+      },
+      "artists": [
+        {
+          "name": "Iv\u00e1n Rosa",
+          "url": "https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF"
+        }
+      ],
+      "duration_ms": 164117,
+      "name": "Canci\u00f3n en Forma de Elefante",
+      "url": "https://open.spotify.com/track/6hgUc1kIwdsuWWMxkpRFDs"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "being honest",
-        "url": "https://open.spotify.com/album/6gUJp3K6E84oj4GxS1U43n"
-      },
-      "artists": [
-        {
-          "name": "Fallen Roses",
-          "url": "https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv"
-        }
-      ],
-      "duration_ms": 163200,
-      "name": "being honest",
-      "url": "https://open.spotify.com/track/5K4GGvQAgG8vNM0UNCWVBI"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
         "name": "Feelings",
         "url": "https://open.spotify.com/album/3RbrgYXo7GUFlswEjTIE0k"
       },
@@ -1499,6 +1483,22 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
+        "name": "being honest",
+        "url": "https://open.spotify.com/album/6gUJp3K6E84oj4GxS1U43n"
+      },
+      "artists": [
+        {
+          "name": "Fallen Roses",
+          "url": "https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv"
+        }
+      ],
+      "duration_ms": 163200,
+      "name": "being honest",
+      "url": "https://open.spotify.com/track/5K4GGvQAgG8vNM0UNCWVBI"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
         "name": "un lugar tranquilo",
         "url": "https://open.spotify.com/album/1UhnAhjNCNlqNg7964Er1a"
       },
@@ -1511,22 +1511,6 @@
       "duration_ms": 123711,
       "name": "un lugar tranquilo",
       "url": "https://open.spotify.com/track/0p1FaiQPjtm3OfYNdwCZVw"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
-        "name": "Duerme",
-        "url": "https://open.spotify.com/album/3lSsZLGP5WLfjoGM5n9xF6"
-      },
-      "artists": [
-        {
-          "name": "Mariana Red",
-          "url": "https://open.spotify.com/artist/0gehovGx04GX2D2GDfpaNQ"
-        }
-      ],
-      "duration_ms": 126004,
-      "name": "Duerme",
-      "url": "https://open.spotify.com/track/1b7XK2lhy8hy9HAK4pFOpC"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1563,6 +1547,22 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
+        "name": "Duerme",
+        "url": "https://open.spotify.com/album/3lSsZLGP5WLfjoGM5n9xF6"
+      },
+      "artists": [
+        {
+          "name": "Mariana Red",
+          "url": "https://open.spotify.com/artist/0gehovGx04GX2D2GDfpaNQ"
+        }
+      ],
+      "duration_ms": 126004,
+      "name": "Duerme",
+      "url": "https://open.spotify.com/track/1b7XK2lhy8hy9HAK4pFOpC"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
         "name": "find me",
         "url": "https://open.spotify.com/album/4fax9eSjZUijcXqMDfCxEd"
       },
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "I See Us",
-        "url": "https://open.spotify.com/album/0zB0QKnVSVEeFjYHjrUmfh"
-      },
-      "artists": [
-        {
-          "name": "Fallen Roses",
-          "url": "https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv"
-        }
-      ],
-      "duration_ms": 137196,
-      "name": "loving",
-      "url": "https://open.spotify.com/track/3ARGtxntpoIsQfZdnBHZC6"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
         "name": "Viernes Azul",
         "url": "https://open.spotify.com/album/3nsTP9n9ikz64G5fpDZvnz"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 214000,
       "name": "Viernes Azul",
       "url": "https://open.spotify.com/track/15jXUrt4BqPPqsp2Z7QO1M"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
+        "name": "I See Us",
+        "url": "https://open.spotify.com/album/0zB0QKnVSVEeFjYHjrUmfh"
+      },
+      "artists": [
+        {
+          "name": "Fallen Roses",
+          "url": "https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv"
+        }
+      ],
+      "duration_ms": 137196,
+      "name": "loving",
+      "url": "https://open.spotify.com/track/3ARGtxntpoIsQfZdnBHZC6"
     },
     {
       "added_at": "2024-02-02 06:00:00",

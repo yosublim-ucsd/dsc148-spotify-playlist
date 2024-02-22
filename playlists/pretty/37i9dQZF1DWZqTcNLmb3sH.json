@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Karataka Damanaka\n",
-  "num_followers": 57084,
+  "num_followers": 57090,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1N2E2MDVkOWM3ZDAzZWYxYzE5YWFiNjBjODFiZTRlMmExMmEwYTFh",
+  "snapshot_id": "MCxmY2Y2M2RhYTc4OWNiNWMwMzA0YWRkY2JmNzg3NjI3YzIzZmVkZGZi",
   "tracks": [
     {
       "added_at": "2024-02-16 09:14:10",
@@ -83,6 +83,50 @@
       "duration_ms": 227701,
       "name": "Nenapirali (From \"Bachelor Party\")",
       "url": "https://open.spotify.com/track/2LPAUe9OyNcBhp1ExQrBJC"
+    },
+    {
+      "added_at": "2024-02-20 10:33:17",
+      "album": {
+        "name": "Nam Kathe Shuru (From \"Back Bencherz\")",
+        "url": "https://open.spotify.com/album/74KxoC4rTK2c8ELTvUoO1l"
+      },
+      "artists": [
+        {
+          "name": "Chandan Shetty",
+          "url": "https://open.spotify.com/artist/2b4BOEtTbGchL0K53fvpgk"
+        },
+        {
+          "name": "Lavita Lobo",
+          "url": "https://open.spotify.com/artist/2RBQVSVinw1X1iRQQ4iqJv"
+        },
+        {
+          "name": "Nakul Abhyankar",
+          "url": "https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD"
+        }
+      ],
+      "duration_ms": 265896,
+      "name": "Nam Kathe Shuru (From \"Back Bencherz\")",
+      "url": "https://open.spotify.com/track/3C0xLaMFfAU28qtwi4HJ9W"
+    },
+    {
+      "added_at": "2024-02-21 08:10:22",
+      "album": {
+        "name": "Devil the Hero Theme (From \"Devil the Hero\")",
+        "url": "https://open.spotify.com/album/4xyHt3fOLS3KC1zlYrO5nk"
+      },
+      "artists": [
+        {
+          "name": "B. Ajaneesh Loknath",
+          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
+        },
+        {
+          "name": "C.R.Bobby",
+          "url": "https://open.spotify.com/artist/1WMMdHnsy7rwTnKmsu85z1"
+        }
+      ],
+      "duration_ms": 127765,
+      "name": "Devil The Hero Theme (From \"Devil The Hero\")",
+      "url": "https://open.spotify.com/track/42NA1xlDyARsiNnGet2liL"
     },
     {
       "added_at": "2024-01-30 12:16:19",
@@ -235,30 +279,6 @@
       "duration_ms": 174797,
       "name": "Babu (No.1 Bullshit Guy) Title Song",
       "url": "https://open.spotify.com/track/7uqywamyCdTjAIxfw8AZgH"
-    },
-    {
-      "added_at": "2024-02-20 10:33:17",
-      "album": {
-        "name": "Nam Kathe Shuru (From \"Back Bencherz\")",
-        "url": "https://open.spotify.com/album/74KxoC4rTK2c8ELTvUoO1l"
-      },
-      "artists": [
-        {
-          "name": "Chandan Shetty",
-          "url": "https://open.spotify.com/artist/2b4BOEtTbGchL0K53fvpgk"
-        },
-        {
-          "name": "Lavita Lobo",
-          "url": "https://open.spotify.com/artist/2RBQVSVinw1X1iRQQ4iqJv"
-        },
-        {
-          "name": "Nakul Abhyankar",
-          "url": "https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD"
-        }
-      ],
-      "duration_ms": 265896,
-      "name": "Nam Kathe Shuru (From \"Back Bencherz\")",
-      "url": "https://open.spotify.com/track/3C0xLaMFfAU28qtwi4HJ9W"
     },
     {
       "added_at": "2024-02-12 11:58:12",
@@ -1643,38 +1663,6 @@
       "duration_ms": 204000,
       "name": "Bhoomi Runa (from \"Yaava Mohana Murali Kareithu\")",
       "url": "https://open.spotify.com/track/6NcPqD2dMeDQXvsO5OvwwF"
-    },
-    {
-      "added_at": "2024-01-03 06:15:20",
-      "album": {
-        "name": "Kaatera Theme Song (from \"Kaatera\")",
-        "url": "https://open.spotify.com/album/728mu86GJsYdEsgyoS311Z"
-      },
-      "artists": [
-        {
-          "name": "Aniruddha Sastry",
-          "url": "https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa"
-        },
-        {
-          "name": "Abhishek M R",
-          "url": "https://open.spotify.com/artist/2SXCXOoQxoRfHwtHaRwt97"
-        },
-        {
-          "name": "Madhwesh Bharadwaj",
-          "url": "https://open.spotify.com/artist/1H6i8xrN9PqWTo6u5EbaxH"
-        },
-        {
-          "name": "Vishak Nagalapura",
-          "url": "https://open.spotify.com/artist/6bfkyWyRl7vgkQlV0gy57S"
-        },
-        {
-          "name": "V. Harikrishna",
-          "url": "https://open.spotify.com/artist/2zPbgeprcP9vP4hbb0xQUX"
-        }
-      ],
-      "duration_ms": 168490,
-      "name": "Kaatera Theme Song (from \"Kaatera\")",
-      "url": "https://open.spotify.com/track/3aAgx4eC1uOt0t0SMkaL9F"
     },
     {
       "added_at": "2023-12-05 06:44:55",

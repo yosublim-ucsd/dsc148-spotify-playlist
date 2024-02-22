@@ -1,12 +1,12 @@
 {
   "description": "The biggest metal songs of the 2000s. Cover: Slipknot",
-  "num_followers": 1260902,
+  "num_followers": 1261134,
   "original_name": "00s Metal Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMWNhZjlmZjI5ZGVkOTcwNWY1MTRiZTdlMjFiNjMxMzkzNjkxYzgx",
+  "snapshot_id": "MCwzYTYwNzMzMWQ5ZDdiZmYzYWE3NjU1OGE4NzcwMDc0NTVhMTJiZjcy",
   "tracks": [
     {
       "added_at": "2023-02-08 17:32:03",
@@ -459,18 +459,18 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "War Is the Answer",
-        "url": "https://open.spotify.com/album/5wqJcLJsFqVg1lWowuyv3V"
+        "name": "Life Starts Now",
+        "url": "https://open.spotify.com/album/0vv1zKShlm7WuawEup5Mf4"
       },
       "artists": [
         {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
         }
       ],
-      "duration_ms": 262440,
-      "name": "Bad Company",
-      "url": "https://open.spotify.com/track/2KZXCH4npY28gtZKXcB2N8"
+      "duration_ms": 193106,
+      "name": "Break",
+      "url": "https://open.spotify.com/track/4urxRqBRiaH0i20OKBsgxc"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -491,18 +491,18 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "Life Starts Now",
-        "url": "https://open.spotify.com/album/0vv1zKShlm7WuawEup5Mf4"
+        "name": "War Is the Answer",
+        "url": "https://open.spotify.com/album/5wqJcLJsFqVg1lWowuyv3V"
       },
       "artists": [
         {
-          "name": "Three Days Grace",
-          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
         }
       ],
-      "duration_ms": 193106,
-      "name": "Break",
-      "url": "https://open.spotify.com/track/4urxRqBRiaH0i20OKBsgxc"
+      "duration_ms": 262440,
+      "name": "Bad Company",
+      "url": "https://open.spotify.com/track/2KZXCH4npY28gtZKXcB2N8"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "Ashes of the Wake (15th Anniversary)",
-        "url": "https://open.spotify.com/album/3ffdUrEvCQJX6mn2ZTq93m"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 230127,
-      "name": "Laid to Rest",
-      "url": "https://open.spotify.com/track/1yc53HK08sDab7PDFgnLWk"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
         "name": "The Blessed Hellride",
         "url": "https://open.spotify.com/album/2xeT6RXRKJqGS1MLNDJPVc"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 196040,
       "name": "Stillborn",
       "url": "https://open.spotify.com/track/7s6Rk59SDllxPq5omrxJT4"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
+        "name": "Ashes of the Wake (15th Anniversary)",
+        "url": "https://open.spotify.com/album/3ffdUrEvCQJX6mn2ZTq93m"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 230127,
+      "name": "Laid to Rest",
+      "url": "https://open.spotify.com/track/1yc53HK08sDab7PDFgnLWk"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -699,6 +699,22 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
+        "name": "With Teeth",
+        "url": "https://open.spotify.com/album/56Us3Q6UIM4jKJZlWhqddL"
+      },
+      "artists": [
+        {
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+        }
+      ],
+      "duration_ms": 211680,
+      "name": "The Hand That Feeds",
+      "url": "https://open.spotify.com/track/5ugzDiilhy6ILKmKfhEzd7"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
         "name": "Worlds Collide",
         "url": "https://open.spotify.com/album/1rmhml18o2KDLUpYMXq6VQ"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 237346,
       "name": "I Don't Care",
       "url": "https://open.spotify.com/track/1WxF4gMsFXnKCyh48CW2RI"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
-        "name": "With Teeth",
-        "url": "https://open.spotify.com/album/56Us3Q6UIM4jKJZlWhqddL"
-      },
-      "artists": [
-        {
-          "name": "Nine Inch Nails",
-          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
-        }
-      ],
-      "duration_ms": 211680,
-      "name": "The Hand That Feeds",
-      "url": "https://open.spotify.com/track/5ugzDiilhy6ILKmKfhEzd7"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "The Sinister Urge",
-        "url": "https://open.spotify.com/album/2ExOcLFwyExzkXK0ea180I"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 233666,
-      "name": "Feel So Numb",
-      "url": "https://open.spotify.com/track/6KnNDix4Owr4vNmsPhLmxD"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
         "name": "Sacrament",
         "url": "https://open.spotify.com/album/1cikCss5SRQLrIAmpyHoVw"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 250253,
       "name": "Holy Diver",
       "url": "https://open.spotify.com/track/3a9urnht8HvfFzPwd0ipx6"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
+        "name": "The Sinister Urge",
+        "url": "https://open.spotify.com/album/2ExOcLFwyExzkXK0ea180I"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 233666,
+      "name": "Feel So Numb",
+      "url": "https://open.spotify.com/track/6KnNDix4Owr4vNmsPhLmxD"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "Inhuman Rampage",
-        "url": "https://open.spotify.com/album/5hzFLt9DwW1RXr7omvS4B5"
-      },
-      "artists": [
-        {
-          "name": "DragonForce",
-          "url": "https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR"
-        }
-      ],
-      "duration_ms": 441560,
-      "name": "Through the Fire and Flames",
-      "url": "https://open.spotify.com/track/6nnacTL5on2aVsRhVDNUSo"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
         "name": "The End of Heartache (Special Edition)",
         "url": "https://open.spotify.com/album/6NrMjaGIZAKZLMzVnkNY4V"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 298106,
       "name": "The End of Heartache",
       "url": "https://open.spotify.com/track/2nUy0ifVE7UwtOK4rugFsP"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
+        "name": "Inhuman Rampage",
+        "url": "https://open.spotify.com/album/5hzFLt9DwW1RXr7omvS4B5"
+      },
+      "artists": [
+        {
+          "name": "DragonForce",
+          "url": "https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR"
+        }
+      ],
+      "duration_ms": 441560,
+      "name": "Through the Fire and Flames",
+      "url": "https://open.spotify.com/track/6nnacTL5on2aVsRhVDNUSo"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "Liebe ist f\u00fcr alle da",
-        "url": "https://open.spotify.com/album/3pksjSyo1w4vAPOenAzM4Z"
+        "name": "Mafia",
+        "url": "https://open.spotify.com/album/0yFCaaNOKgZVhDxZ0mNFeg"
       },
       "artists": [
         {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+          "name": "Black Label Society",
+          "url": "https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5"
         }
       ],
-      "duration_ms": 301853,
-      "name": "Ich tu dir weh",
-      "url": "https://open.spotify.com/track/47gjUao1XjSO4fvVRm9L55"
+      "duration_ms": 347866,
+      "name": "Suicide Messiah",
+      "url": "https://open.spotify.com/track/7ex3AmxCTBz3zXLx6hWy5q"
     },
     {
       "added_at": "2023-02-08 17:32:03",

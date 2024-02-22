@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7br4y32b7L8.md) - [plain]
 
 > songs voor je playlist! \#fyp
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,742 likes - 62 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,799 likes - 62 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7br4y32b7L8.md) - [plain]
 | 24 | [Macarena](https://open.spotify.com/track/0JCxROyTcCmn2NlmKozQBp) | [Stavros Martina](https://open.spotify.com/artist/17ynEC4GysdLM4R66FmghW) | [Macarena](https://open.spotify.com/album/15x23pLQyRifNSNESswpN0) | 2:22 |
 | 25 | [Slowdown \(girl what's up\)](https://open.spotify.com/track/4xexPtg7VSPCf9hM3aZdfZ) | [YellowStraps](https://open.spotify.com/artist/772hWD0N94gYjnVhrqE7lx) | [Slowdown \(girl what's up\)](https://open.spotify.com/album/4B6I2s8qDymQLWT9qtJOtW) | 2:03 |
 | 26 | [Bonus](https://open.spotify.com/track/3KXeTMIdec8G6rclrOFKTL) | [Young Dylan](https://open.spotify.com/artist/6qqRfVXPotai8VXd2Umpyc), [Jantje](https://open.spotify.com/artist/4qkXUou0EQ56wmcais8uwJ) | [Bonus](https://open.spotify.com/album/78BcIlHd26IcfnBgOKK2jQ) | 2:10 |
-| 27 | [SKEU SKEU \(feat\. wilsko & 7ia\) \- Speed Up](https://open.spotify.com/track/60XZ7ePJQZqRJio62G5CnM) | [Jogga](https://open.spotify.com/artist/6kByPyGr60aeCsb8TGOWav), [wilsko](https://open.spotify.com/artist/1d38UPGn8PJ9XekumcIBha), [7ia](https://open.spotify.com/artist/7736wQOIPocKi5hEg7l3hG) | [SKEU SKEU \(feat\. wilsko & 7ia\) \[Speed Up\]](https://open.spotify.com/album/0CYCJc1xZYhd9BIaKXCdn7) | 2:35 |
+| 27 | [SKEU SKEU \(feat\. wilsko\) \- Speed Up](https://open.spotify.com/track/60XZ7ePJQZqRJio62G5CnM) | [Jogga](https://open.spotify.com/artist/6kByPyGr60aeCsb8TGOWav), [wilsko](https://open.spotify.com/artist/1d38UPGn8PJ9XekumcIBha) | [SKEU SKEU \(feat\. wilsko\) \[Speed Up\]](https://open.spotify.com/album/0CYCJc1xZYhd9BIaKXCdn7) | 2:35 |
 | 28 | [Evergreen](https://open.spotify.com/track/6me7F0aaZjwDo6RJ5MrfBD) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [RMCM](https://open.spotify.com/album/2weOG4ZiOjfxiuFMsHm9JQ) | 1:27 |
 | 29 | [SUPARO \- SPEED UP](https://open.spotify.com/track/7sf9InBTBA24jMwMHpiq2K) | [WAYNE FLENORY](https://open.spotify.com/artist/6SZwuzkYiQwQIFMJ6VHCIV) | [SUPARO \(SPEED UP\)](https://open.spotify.com/album/2rygY1Vjrl34eG7IJ9wJFa) | 1:58 |
 | 30 | [Made For Me](https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Made For Me](https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv) | 3:08 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7br4y32b7L8.md) - [plain]
 | 61 | [Push Up \- Main Edit](https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j) | [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Push Up \(Main Edit\)](https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0) | 2:19 |
 | 62 | [Jam Inside Your Love \(feat\. Carla Monroe\)](https://open.spotify.com/track/1xFrwpp4li4MFpMr9KpTEK) | [Sam Green](https://open.spotify.com/artist/4Dvxcj9zZyKbzuwRG4lzSR), [Carla Monroe](https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB) | [Jam Inside Your Love \(feat\. Carla Monroe\)](https://open.spotify.com/album/7CfLWKrEPYYsJ46kWTKtUA) | 2:27 |
 
-Snapshot ID: `MCxiYWMxODlhZmIwNTExM2IzNjY1MmYwNWYxNjMyNGU0ZGVmZmFjODU5`
+Snapshot ID: `MCwzZGFkMTA2N2UzZmQ5MzJhNTA2ODFmODJkNzFjZTkwOTA3NTJhMzc0`

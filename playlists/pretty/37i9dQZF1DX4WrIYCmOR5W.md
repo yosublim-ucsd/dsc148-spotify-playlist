@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WrIYCmOR5W.md) - [plain]
 
 > Des chansons qui vous feront rire, vous et vos enfants
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,261 likes - 26 songs - 1 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,262 likes - 26 songs - 1 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WrIYCmOR5W.md) - [plain]
 | 25 | [La musclada](https://open.spotify.com/track/23FOEBE5EOSEpBKngOwPOz) | [Les Musclés](https://open.spotify.com/artist/6QppA1SWIWR2jBhBTGp19j) | [L'essentiel](https://open.spotify.com/album/6yOucBhSn24JNDPWdLDtRY) | 4:37 |
 | 26 | [Papayou](https://open.spotify.com/track/7iCol2HISkTo8kv8WC3Ydr) | [Carlos](https://open.spotify.com/artist/5BxSkqB9akjCvWjFig3HdU) | [Cristal collection](https://open.spotify.com/album/4VStD0LHwgI6ok4kmoKVZY) | 3:02 |
 
-Snapshot ID: `MCw2MWQwZWQzNjAyOWY0NzExNDVmOWZmYTY0ZGZmZjYwZWEwZmM0MGUz`
+Snapshot ID: `MCw0NjBkMTY4NzFhOWY1MTQzZmQ0ZjA0ODMzNWMzNGVkNzgwYjk5YWNm`

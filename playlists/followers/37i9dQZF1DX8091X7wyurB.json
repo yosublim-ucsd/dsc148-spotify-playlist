@@ -1,5 +1,5 @@
 {
-  "2024-02-21": 108808,
+  "2024-02-22": 109075,
   "date_first_scraped": "2022-10-01",
   "description": "If your mood is to Praise and Worship the Almighty God for what He has done, then this is the right playlist. A mix of both African and International songs. ",
   "name": "Praise and Worship",
@@ -1665,7 +1665,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-21",
       "duration_ms": 315776,
       "name": "Forever It Is Done",
       "url": "https://open.spotify.com/track/3TyRJ4x7El0PujsfO5yzHg"
@@ -1905,6 +1905,24 @@
       "duration_ms": 174146,
       "name": "Gold",
       "url": "https://open.spotify.com/track/3hlQG5mVjjR5MupseJXkid"
+    },
+    {
+      "album": {
+        "name": "Gonna Be Good",
+        "url": "https://open.spotify.com/album/6Y60vIyAVwhGLmC9CcAu1g"
+      },
+      "artists": [
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183213,
+      "name": "Gonna Be Good",
+      "url": "https://open.spotify.com/track/67TXuANxWhN3i3bUVXxD9U"
     },
     {
       "album": {

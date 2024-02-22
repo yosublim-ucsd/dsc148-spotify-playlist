@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: <a href=\"https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk?si=JvKPycNvTJCSkQ73WwDcDA\"> Jeriq </a> and <a href=\"https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr?si=q5HdY1aKQ0aPWERT9SuRMw\"> PsychoYP</a>",
-  "num_followers": 43598,
+  "num_followers": 43667,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZTk4ODE5NGFmNDRlYWZiYzY0MjAwNWI2ZmM5MWVhOGQ3ZGU4ZTUy",
+  "snapshot_id": "MCxiMDJmODVjMDQzZTJmZTQ0YTA0NGI5NTU4ZTAxYjI5NTU1ZDFjMmE5",
   "tracks": [
     {
       "added_at": "2024-02-16 05:27:18",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-02-16 05:27:18",
       "album": {
-        "name": "RAVAGE",
-        "url": "https://open.spotify.com/album/53oOgXjjaTx42Sy2exYlH9"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 185500,
-      "name": "Don't Leave",
-      "url": "https://open.spotify.com/track/19fCpJYZVtBKyOtIvEnDv0"
-    },
-    {
-      "added_at": "2024-02-16 05:27:18",
-      "album": {
         "name": "PRAY",
         "url": "https://open.spotify.com/album/38stSF1VmGFy1VaatiMmp5"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 177931,
       "name": "PRAY",
       "url": "https://open.spotify.com/track/69bvwTwKZBlynqbMyZmEO2"
+    },
+    {
+      "added_at": "2024-02-16 05:27:18",
+      "album": {
+        "name": "RAVAGE",
+        "url": "https://open.spotify.com/album/53oOgXjjaTx42Sy2exYlH9"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 185500,
+      "name": "Don't Leave",
+      "url": "https://open.spotify.com/track/19fCpJYZVtBKyOtIvEnDv0"
     },
     {
       "added_at": "2024-02-16 05:27:18",
@@ -987,6 +987,22 @@
     {
       "added_at": "2024-02-16 05:27:18",
       "album": {
+        "name": "Earth Song",
+        "url": "https://open.spotify.com/album/5a6ZjVaabN6JakII4rHBdo"
+      },
+      "artists": [
+        {
+          "name": "Wizard Chan",
+          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
+        }
+      ],
+      "duration_ms": 183536,
+      "name": "Earth Song",
+      "url": "https://open.spotify.com/track/2kstLu8PSeQl2A5ks13fm0"
+    },
+    {
+      "added_at": "2024-02-16 05:27:18",
+      "album": {
         "name": "Kpe Paso",
         "url": "https://open.spotify.com/album/4UwYrizY5gCAUZJugVF9DR"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 177915,
       "name": "Kpe Paso",
       "url": "https://open.spotify.com/track/4Mlgf7GD6bbx09N4uxqU3S"
-    },
-    {
-      "added_at": "2024-02-16 05:27:18",
-      "album": {
-        "name": "Earth Song",
-        "url": "https://open.spotify.com/album/5a6ZjVaabN6JakII4rHBdo"
-      },
-      "artists": [
-        {
-          "name": "Wizard Chan",
-          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
-        }
-      ],
-      "duration_ms": 183536,
-      "name": "Earth Song",
-      "url": "https://open.spotify.com/track/2kstLu8PSeQl2A5ks13fm0"
     },
     {
       "added_at": "2024-02-16 05:27:18",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2024-02-16 05:27:18",
       "album": {
+        "name": "No Joke",
+        "url": "https://open.spotify.com/album/6N9L2cPBhx54BGLIQBZzvj"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 162474,
+      "name": "No Joke",
+      "url": "https://open.spotify.com/track/2HvW7GzIbiRQGAGytSBQz6"
+    },
+    {
+      "added_at": "2024-02-16 05:27:18",
+      "album": {
         "name": "If They Are Real",
         "url": "https://open.spotify.com/album/3mlV93Na9JR8MeusKzDwEF"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 222000,
       "name": "If They Are Real",
       "url": "https://open.spotify.com/track/4nlA1i2haXMOxCHBRAVx2j"
-    },
-    {
-      "added_at": "2024-02-16 05:27:18",
-      "album": {
-        "name": "No Joke",
-        "url": "https://open.spotify.com/album/6N9L2cPBhx54BGLIQBZzvj"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 162474,
-      "name": "No Joke",
-      "url": "https://open.spotify.com/track/2HvW7GzIbiRQGAGytSBQz6"
     },
     {
       "added_at": "2024-02-16 05:27:18",
@@ -1307,26 +1307,6 @@
     {
       "added_at": "2024-02-16 05:27:18",
       "album": {
-        "name": "Philo (Remix)",
-        "url": "https://open.spotify.com/album/4kzr0lEPxjP4hoBUz4b9SV"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        },
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        }
-      ],
-      "duration_ms": 166556,
-      "name": "Philo - Remix",
-      "url": "https://open.spotify.com/track/57S9ELiUtHZ2aqkyegA5nN"
-    },
-    {
-      "added_at": "2024-02-16 05:27:18",
-      "album": {
         "name": "Will Be",
         "url": "https://open.spotify.com/album/3Gtsc2tZYcWsidiJLGL05R"
       },
@@ -1343,22 +1323,22 @@
     {
       "added_at": "2024-02-16 05:27:18",
       "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/6dzZXbynFHXkRdLL4v4om2"
+        "name": "Philo (Remix)",
+        "url": "https://open.spotify.com/album/4kzr0lEPxjP4hoBUz4b9SV"
       },
       "artists": [
         {
-          "name": "Dremo",
-          "url": "https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu"
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
         },
         {
-          "name": "DanDizzy",
-          "url": "https://open.spotify.com/artist/6xXPMuWSjIYafdBhXLpVZK"
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/4lRRrYJrfMZfacQ2SDavuC"
+      "duration_ms": 166556,
+      "name": "Philo - Remix",
+      "url": "https://open.spotify.com/track/57S9ELiUtHZ2aqkyegA5nN"
     },
     {
       "added_at": "2024-02-16 05:27:18",
@@ -1387,6 +1367,26 @@
       "duration_ms": 222857,
       "name": "Oppress",
       "url": "https://open.spotify.com/track/0Xp3jkTLbquF9DVII3VDsT"
+    },
+    {
+      "added_at": "2024-02-16 05:27:18",
+      "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/6dzZXbynFHXkRdLL4v4om2"
+      },
+      "artists": [
+        {
+          "name": "Dremo",
+          "url": "https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu"
+        },
+        {
+          "name": "DanDizzy",
+          "url": "https://open.spotify.com/artist/6xXPMuWSjIYafdBhXLpVZK"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/4lRRrYJrfMZfacQ2SDavuC"
     }
   ],
   "unique_name": "Naija Bars ",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q9BpF.md) - [plain]
 
 > This is Generación 12\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,193 likes - 46 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,228 likes - 46 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q9BpF.md) - [plain]
 | 45 | [Permaneceré En Tí](https://open.spotify.com/track/1JSo33oU2B2DdC0eFv6TBo) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Seamos Luz](https://open.spotify.com/album/5pvHvfyAdZyeunmyYLtfHS) | 4:18 |
 | 46 | [Cantar de Tu Amor](https://open.spotify.com/track/2nFGPjnTmncOxR78FEb0YV) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Lead](https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd), [Sofía Mancipe](https://open.spotify.com/artist/13JxTQpXz8TBhXjOjYDioQ), [Daniela Quintero](https://open.spotify.com/artist/3Oiu7Wp2lqFqkoRkcZCcWi), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7) | [Obra de Tu Amor](https://open.spotify.com/album/7iwgHqgKqP2D5MhtnmGBeV) | 4:36 |
 
-Snapshot ID: `Mjg0NzQxMzEsMDAwMDAwMDA4NmU1NGYwZjA4ZjU4ZDRiMmFiZGExNzRhYzMwYjQwOA==`
+Snapshot ID: `Mjg0NzUyOTAsMDAwMDAwMDA2NDAwZmEzMmM3MjM4MDIwZWM3YTEzMDI0OThiYjBjNw==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZMm3WdVVwc.md) - [plain]
 
 > 本格的な冬がようやく訪れました。そんな凍える日々を少しだけ暖めるような冬の名曲たちを一つのプレイリストに。
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,939 likes - 80 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,941 likes - 80 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZMm3WdVVwc.md) - [plain]
 | 49 | [LOVE LOVE LOVE](https://open.spotify.com/track/239dSULr1VNeGL30rzWZx2) | [gb](https://open.spotify.com/artist/7Ll3Cj9QGaAJ42YdRcFKG6) | [LOVE LOVE LOVE](https://open.spotify.com/album/6lPTKqfxFjfOodm0U7eXlC) | 3:11 |
 | 50 | [Gothic Babe Tendencies \(feat\. blackbear\)](https://open.spotify.com/track/1nBYPBo39v4KrtsBQVJ05F) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Good Thing We Stayed](https://open.spotify.com/album/5dD6Wiq5qbFX0hNoFlQpkX) | 5:03 |
 | 51 | [Kiss Me, Winter](https://open.spotify.com/track/1WSoVvYq6FzehSUeKYkiDc) | [FIVE NEW OLD](https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo) | [Kiss Me, Winter](https://open.spotify.com/album/1ZldWWMOJLK3tQYTFmGBPU) | 3:41 |
-| 52 | [Melting](https://open.spotify.com/track/2fx9Jqib69Q6BQuE2crNoC) | [U\-Key zone](https://open.spotify.com/artist/5UGa5DI6W2UrficTR8aZXj), [Fumika Sato](https://open.spotify.com/artist/3NB6x7M0zgFnVKCKsXFR3P) | [Melting](https://open.spotify.com/album/2ZA8lHf1yddpZyHBfoyhZz) | 5:00 |
+| 52 | [Melting](https://open.spotify.com/track/4wAMnxBJZ8CqRhz0Bzc0Au) | [U\-Key zone](https://open.spotify.com/artist/5UGa5DI6W2UrficTR8aZXj), [Fumika Sato](https://open.spotify.com/artist/3NB6x7M0zgFnVKCKsXFR3P) | [Melting](https://open.spotify.com/album/0yxz56r9ktKU3fPXeWnkfp) | 5:00 |
 | 53 | [Memory Lane](https://open.spotify.com/track/7hHrs2q5c5rtzHLJ2DKHTT) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Memory Lane & Winter Song](https://open.spotify.com/album/5IvpvVd9LKgHACcUSHL5Y8) | 3:12 |
 | 54 | [Winter Wish](https://open.spotify.com/track/6CQOjnyaea8drGsMQs0tKy) | [GENERATIONS from EXILE TRIBE](https://open.spotify.com/artist/4HfuyMMy295oBvbIuXr0v8) | [beyond the GENERATIONS](https://open.spotify.com/album/7rgGNHvz8NleF8pal7IL0X) | 4:28 |
 | 55 | [Snowin'](https://open.spotify.com/track/6gsWfx1d3KtV4Y8ecsLVfx) | [DXTEEN](https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR) | [Snowin’](https://open.spotify.com/album/7AHmQEtHOwdKGFvcHC9PPM) | 3:25 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZMm3WdVVwc.md) - [plain]
 | 79 | [雪の降る夜溶けた恋](https://open.spotify.com/track/63047m8dV4WsmhQOU1dQ8I) | [Coraline](https://open.spotify.com/artist/05MH0jN9XFCnmmHCXkbkIv) | [雪の降る夜溶けた恋](https://open.spotify.com/album/48TWbuxIXcRizoU0fNO1qw) | 4:23 |
 | 80 | [ホログラム](https://open.spotify.com/track/62bud8rK9kWK4jF4Tdrcdc) | [crhug](https://open.spotify.com/artist/2YquAy5FoS3m5T1nvCpi3I) | [ホログラム](https://open.spotify.com/album/46ZXPu6sVtFcF9YUIuKa5x) | 3:08 |
 
-Snapshot ID: `MCwwNGZjMTYxMzY4YWUzZGMwNGYxZDU4YTljN2VlZWU3YzAxNDI2ODg1`
+Snapshot ID: `MCwyZjgzODRkYzdiY2Y5NDBiN2IxMmViNTg2MzJhMTk4ZjU5MGI4YTll`

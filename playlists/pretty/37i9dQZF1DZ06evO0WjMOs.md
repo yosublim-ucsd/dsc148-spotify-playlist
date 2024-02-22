@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0WjMOs.md) - [plain]
 
 > This is Lizzy McAlpine\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,800 likes - 35 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,913 likes - 35 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0WjMOs.md) - [plain]
 | 34 | [Lady In Blue \(Pickup Live Session\)](https://open.spotify.com/track/0ZrmeApk2p2FY4BGvQHPoZ) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Lady In Blue \(Pickup Live Session\)](https://open.spotify.com/album/0paOo5lZd1KIFagxQgLMLf) | 3:10 |
 | 35 | [Just the Two of Us](https://open.spotify.com/track/7kjvp3gUi1BzmcUsjk1k6I) | [Scary Pockets](https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [Swatkins](https://open.spotify.com/artist/0HnF3y5xRlNr6eGQmFZgjP) | [Just the Two of Us](https://open.spotify.com/album/6ppQvrvuJh7YAiAsz5IMp8) | 3:15 |
 
-Snapshot ID: `Mjg0NzQxMzEsMDAwMDAwMDBhZDkyMWM0NDU3NjdjMDUxZWYwN2NlZWI5MTliNzlkNw==`
+Snapshot ID: `Mjg0NzUyOTAsMDAwMDAwMDBiMWMwN2NkMGFiYTM0YjhkYjUxZGYyZGY2MTM4ZTExMA==`

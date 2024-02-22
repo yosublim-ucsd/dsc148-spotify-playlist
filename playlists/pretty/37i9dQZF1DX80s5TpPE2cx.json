@@ -1,12 +1,12 @@
 {
   "description": "The songs that defined Nigeria's Alt\u00e9 era. Cover: Amaarae",
-  "num_followers": 8673,
+  "num_followers": 8686,
   "original_name": "Alt\u00e9 Classics ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MGYxZDg0OGQ1ZGRiZDU2NTlkNzU1NDEzYjFhNDY0YzU5NDJkYjQx",
+  "snapshot_id": "MCxkMzVlZjA0NWFmYjNlMmY5M2M0ZTFkYmQwODVjZWEyYzUwMTUyMjIz",
   "tracks": [
     {
       "added_at": "2024-02-15 16:22:36",
@@ -343,6 +343,26 @@
     {
       "added_at": "2024-02-15 16:22:36",
       "album": {
+        "name": "Mango Juice & Bad Decisions",
+        "url": "https://open.spotify.com/album/0YKc3XhPcRHiM9ofkNn1eL"
+      },
+      "artists": [
+        {
+          "name": "Ay\u00fc\u00fc",
+          "url": "https://open.spotify.com/artist/3FsvslOG6CKAJF9TZ5N9f7"
+        },
+        {
+          "name": "Andr\u0119 Wolff",
+          "url": "https://open.spotify.com/artist/5oOskrwWHIzrhb0DBCor85"
+        }
+      ],
+      "duration_ms": 161828,
+      "name": "'00 Nostalgia",
+      "url": "https://open.spotify.com/track/5lF0OJHp09PfZofnC9ZrBH"
+    },
+    {
+      "added_at": "2024-02-15 16:22:36",
+      "album": {
         "name": "Gbagada Express",
         "url": "https://open.spotify.com/album/0ZkoBYU0ykvOrHMz2uxfkn"
       },
@@ -363,26 +383,6 @@
       "duration_ms": 193515,
       "name": "In A Loop",
       "url": "https://open.spotify.com/track/4n1SykKn2Da29B4riTa41U"
-    },
-    {
-      "added_at": "2024-02-15 16:22:36",
-      "album": {
-        "name": "Mango Juice & Bad Decisions",
-        "url": "https://open.spotify.com/album/0YKc3XhPcRHiM9ofkNn1eL"
-      },
-      "artists": [
-        {
-          "name": "Ay\u00fc\u00fc",
-          "url": "https://open.spotify.com/artist/3FsvslOG6CKAJF9TZ5N9f7"
-        },
-        {
-          "name": "Andr\u0119 Wolff",
-          "url": "https://open.spotify.com/artist/5oOskrwWHIzrhb0DBCor85"
-        }
-      ],
-      "duration_ms": 161828,
-      "name": "'00 Nostalgia",
-      "url": "https://open.spotify.com/track/5lF0OJHp09PfZofnC9ZrBH"
     },
     {
       "added_at": "2024-02-15 16:22:36",
@@ -947,18 +947,26 @@
     {
       "added_at": "2024-02-15 16:22:36",
       "album": {
-        "name": "Sunsets in Lagos",
-        "url": "https://open.spotify.com/album/3mbHTOgBQgcuOEjzdaAwgb"
+        "name": "Feel Alright",
+        "url": "https://open.spotify.com/album/2Cgvi847HBc0gsamKi0Do4"
       },
       "artists": [
         {
-          "name": "Bella Alubo",
-          "url": "https://open.spotify.com/artist/4QorJVeBcR8p3rOveZtpSk"
+          "name": "Show Dem Camp",
+          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
+        },
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Poe",
+          "url": "https://open.spotify.com/artist/2ll3lU5iepPghkEc9c6dK2"
         }
       ],
-      "duration_ms": 223896,
-      "name": "Aiya",
-      "url": "https://open.spotify.com/track/5pldaGwSTIgiNoJ5bOxSjT"
+      "duration_ms": 258263,
+      "name": "Feel Alright",
+      "url": "https://open.spotify.com/track/45oXGtNuG81jUcwmk73xLh"
     },
     {
       "added_at": "2024-02-15 16:22:36",
@@ -991,26 +999,18 @@
     {
       "added_at": "2024-02-15 16:22:36",
       "album": {
-        "name": "Feel Alright",
-        "url": "https://open.spotify.com/album/2Cgvi847HBc0gsamKi0Do4"
+        "name": "Sunsets in Lagos",
+        "url": "https://open.spotify.com/album/3mbHTOgBQgcuOEjzdaAwgb"
       },
       "artists": [
         {
-          "name": "Show Dem Camp",
-          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
-        },
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        },
-        {
-          "name": "Poe",
-          "url": "https://open.spotify.com/artist/2ll3lU5iepPghkEc9c6dK2"
+          "name": "Bella Alubo",
+          "url": "https://open.spotify.com/artist/4QorJVeBcR8p3rOveZtpSk"
         }
       ],
-      "duration_ms": 258263,
-      "name": "Feel Alright",
-      "url": "https://open.spotify.com/track/45oXGtNuG81jUcwmk73xLh"
+      "duration_ms": 223896,
+      "name": "Aiya",
+      "url": "https://open.spotify.com/track/5pldaGwSTIgiNoJ5bOxSjT"
     },
     {
       "added_at": "2024-02-15 16:22:36",

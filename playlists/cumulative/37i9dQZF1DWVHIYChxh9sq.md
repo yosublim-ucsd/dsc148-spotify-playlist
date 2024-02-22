@@ -4,7 +4,7 @@
 
 > Música en vivo de tus artistas favoritos del Regional Mexicano\. Portada: Grupo Recluta y Adrian Chaparro
 
-415 songs - 23 hr 2 min
+416 songs - 23 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@
 | [El Buho](https://open.spotify.com/track/1LwuBjjFT9Wc8qJqQV5xia) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Buho](https://open.spotify.com/album/7mNGmzl36M6Cpm6SoNfbIL) | 2:56 | 2023-09-26 |  |
 | [El Buho](https://open.spotify.com/track/1quaoU1wjFHLkDXC3bNghk) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Buho](https://open.spotify.com/album/2Xuu8wGSDeBPCzhYJtMExb) | 2:56 | 2022-05-12 | 2024-02-18 |
 | [El Búho \- En vivo](https://open.spotify.com/track/2ca33MiWXy5JR0ELVH6SXj) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Las Preferidas, Vol\. 3 \(En vivo\)](https://open.spotify.com/album/4jufeGTVJpClLZiktiMMGn) | 2:55 | 2022-05-12 | 2022-12-09 |
-| [El Cajoncito \- En Vivo](https://open.spotify.com/track/3L3fOyV49wTqBU0BYu5cQQ) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Corridos, Rancheras Y Caballos En Vivo](https://open.spotify.com/album/0Qy6qGMqzEoZCUu0hKtMu2) | 3:41 | 2022-12-08 |  |
+| [El Cajoncito \- En Vivo](https://open.spotify.com/track/3L3fOyV49wTqBU0BYu5cQQ) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Corridos, Rancheras Y Caballos En Vivo](https://open.spotify.com/album/0Qy6qGMqzEoZCUu0hKtMu2) | 3:41 | 2022-12-08 | 2024-02-22 |
 | [El Callejero \- En Vivo](https://open.spotify.com/track/6hK8OO9lAlbHwctZNhKJV7) | [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD), [El Yaki](https://open.spotify.com/artist/4toIblSAfEe7buSwNPRmaF) | [El Callejero \(En Vivo\) \[feat\. El Yaki\]](https://open.spotify.com/album/4T9F4lYfSEICjga2IS0hzD) | 2:16 | 2022-05-12 | 2022-12-09 |
 | [El Centenario \- En Vivo](https://open.spotify.com/track/2XITh0QgZK5Q9IJZWqsHOd) | [Los Parras](https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp) | [Peda en la Banqueta](https://open.spotify.com/album/1qOSDizKu1dmLl73BF6VdS) | 2:56 | 2022-05-12 | 2022-12-09 |
 | [El Chaman](https://open.spotify.com/track/3yE8qL9HNfyzAbpqoMnUr8) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu), [Legion RG](https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [El Chaman](https://open.spotify.com/album/0dKlcXtiUXnQK7BZH7UIfE) | 4:41 | 2022-12-08 |  |
@@ -295,6 +295,7 @@
 | [Lupe Reyes \(En Vivo\)](https://open.spotify.com/track/6ggjc8JFAxy0jiKgQmhU3i) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk), [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp) | [Lupe Reyes \(En Vivo\)](https://open.spotify.com/album/6PVMtefRXmt5aTjS8Iopnc) | 3:00 | 2022-05-12 | 2022-12-22 |
 | [Lárgate \- En Vivo](https://open.spotify.com/track/3V4vwziUxmEPgVnzkRCEdg) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk), [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [Lárgate \(En Vivo\)](https://open.spotify.com/album/5EFOvXqlA0BNEzXlLqhJNF) | 3:15 | 2022-05-12 |  |
 | [Maestra del Engaño \- En Vivo](https://open.spotify.com/track/27BVgB1VHa9RrUhi2mGrHu) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Maestra del Engaño \(En Vivo\)](https://open.spotify.com/album/6KTq0B6tFLsoemadvjD8Ql) | 2:42 | 2022-05-12 | 2023-02-11 |
+| [Malas Rachas \(En Vivo\)](https://open.spotify.com/track/0js27m6Zy7oJDWfJ4f2hJ5) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Malas Rachas \(En Vivo\)](https://open.spotify.com/album/0xlaInOYofb0OkPiW9zDuJ) | 4:16 | 2023-09-26 |  |
 | [Malas Rachas \(En Vivo\)](https://open.spotify.com/track/3tJgIzFi8JfNNr2SukMISp) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Malas Rachas \(En Vivo\)](https://open.spotify.com/album/6RQExWvMa6De96hdwfxdDi) | 4:16 | 2022-12-08 | 2024-02-19 |
 | [Maniaco Enfermo](https://open.spotify.com/track/3048sEV1VZ5jcqDvLm3CDL) | [Los Buitres De Culiacan Sinaloa](https://open.spotify.com/artist/535ap2f16rTOKTMPTkvbGB) | [En Vivo Desde La D](https://open.spotify.com/album/5IOVPxrxFdSQx6txrGoBNg) | 3:43 | 2022-05-12 | 2023-09-25 |
 | [Margarita Margarita \(En Vivo\)](https://open.spotify.com/track/5C7Md1p8ojkNNXoHeX9FLc) | [Los Caimanes De Sinaloa](https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN) | [En Vivo Desde Chicago](https://open.spotify.com/album/2z6kMSAE2UYjf4ToJNriLb) | 2:43 | 2022-12-08 |  |

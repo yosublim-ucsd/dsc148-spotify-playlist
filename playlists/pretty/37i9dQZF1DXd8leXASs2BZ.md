@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: 999dobby
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,920 likes - 100 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,924 likes - 100 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hana Celeb](https://open.spotify.com/track/4pj3xcOIRVnCjbFDjayFJ5) | [999dobby](https://open.spotify.com/artist/1JUeTjci5VPfOW2myLu8Tc), [Miyabi](https://open.spotify.com/artist/4uiejZ8T3YciiSnHEsEB5q) | [DEPRESSION](https://open.spotify.com/album/2DLYLmxDYNpqziSBJ1AMXE) | 3:14 |
-| 2 | [Boss Bitch \- Remix](https://open.spotify.com/track/35KNZlorV8tFWaOCGyWa49) | [7](https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn), [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH), [LANA](https://open.spotify.com/artist/6HIxjjBk4Vg0pfnaxBTeOF), [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [7 \(Boss Bitch Edition\)](https://open.spotify.com/album/7wVZvzhAREfRwhVcxi2ik5) | 3:32 |
+| 2 | [Boss Bitch \- Remix](https://open.spotify.com/track/0BMmYlBRZBel67VcE8mM0q) | [nana](https://open.spotify.com/artist/7uzEQGrUAupBJK2j3uQsoC), [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH), [LANA](https://open.spotify.com/artist/6HIxjjBk4Vg0pfnaxBTeOF), [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [7 \(Boss Bitch Edition\)](https://open.spotify.com/album/0qWaruyY6ogPiKAcmPWfUM) | 3:32 |
 | 3 | [Rarri](https://open.spotify.com/track/6tiguQlJ1ZYIfBFGPkJ0GL) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK), [lj](https://open.spotify.com/artist/7bf8nSozw4GvGHRSGJ74ez), [Only U](https://open.spotify.com/artist/7p5yGL3yNq2pqUUKvt2vnt) | [KJ SEASON](https://open.spotify.com/album/28Tb83FZurUuUbiv17V0zE) | 3:06 |
 | 4 | [Sexy](https://open.spotify.com/track/6GF1LaNPKsEKr8kF644pyJ) | [Bene Baby](https://open.spotify.com/artist/4qd1YiKsGPymzmgZLBYY8g) | [Sexy](https://open.spotify.com/album/0uou2s2z1kr5X0wdvzCaZi) | 3:30 |
 | 5 | [SAICO](https://open.spotify.com/track/2Ai3BXDpkd8uyag1cLMwBg) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [SAICO](https://open.spotify.com/album/4anpmAbMwcV3GZMRjX51JQ) | 2:47 |
 | 6 | [4 MY CULT](https://open.spotify.com/track/1fKeLutFtUHBleFW010cNp) | [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8) | [4 MY CULT](https://open.spotify.com/album/2jk9bSrhkHp2XAVXi22BDz) | 2:45 |
 | 7 | [24/7 YOU...](https://open.spotify.com/track/44FOrs9EwYsp64WlsL8EXD) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [24/7 YOU...](https://open.spotify.com/album/1RIeaWQ4OVcm8TEZdiAaPr) | 2:41 |
 | 8 | [Jimmy Choo](https://open.spotify.com/track/7sjMVTwRPodZm1uBmGDp5f) | [chao chao](https://open.spotify.com/artist/4MT9OmyrjZzGG7TZTd9yQ0) | [Back To The Past](https://open.spotify.com/album/6NR7ADnnNsu63b6pRYYpmB) | 2:51 |
-| 9 | [i don't know \(that](https://open.spotify.com/track/6xP8c14PqOvebGsnS2oZqg) | [AOTO](https://open.spotify.com/artist/3hcgrXE2f4dTzHc1WS4JGs), [M\-3](https://open.spotify.com/artist/1ksrAJFSS3cQ2axS9fcMcU) | [i don't know \(that](https://open.spotify.com/album/1Jx7Rwgjp7tXuFSllcBuCW) | 2:11 |
+| 9 | [i don't know \(that](https://open.spotify.com/track/2Jo94X97s79fE6prjgNTBk) | [AOTO](https://open.spotify.com/artist/3hcgrXE2f4dTzHc1WS4JGs), [M\-3](https://open.spotify.com/artist/1ksrAJFSS3cQ2axS9fcMcU) | [i don't know \(that](https://open.spotify.com/album/1RMj4durFQoxp5Ni6M1RNF) | 2:11 |
 | 10 | [The first snowfall](https://open.spotify.com/track/49XnF4NRLNMImT1qKAmH9o) | [ShowyVICTOR](https://open.spotify.com/artist/7wBFVrT9qEIi4FRjgqgPXA), [Tade Dust](https://open.spotify.com/artist/2pxHWQNVmLCr3HnSqFk5IH) | [The first snowfall](https://open.spotify.com/album/4B4pZcXibJxmeJiOICB0gK) | 2:57 |
 | 11 | [Crew up](https://open.spotify.com/track/4r96S9ST7u1SfNqjvmuTJ6) | [Authority](https://open.spotify.com/artist/6fY9vo5VWazGw5fZesSB71), [ShowyRENZO](https://open.spotify.com/artist/1DXib0yTufkuTm2KkQIwvi) | [Crew up](https://open.spotify.com/album/0QuDieUt9menSlhCQvf0M6) | 2:10 |
 | 12 | [CLOVER](https://open.spotify.com/track/3tEPX2fSLx5ugdhl0QpKng) | [Sound's Deli](https://open.spotify.com/artist/7dd46Nuonbm2HO2pZ8bdgB) | [CLOVER](https://open.spotify.com/album/1AKbPWDyGF2nTwVWuOsz7D) | 3:59 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 99 | [Still Tippin' Freestyle](https://open.spotify.com/track/4TxrDVJY9ucVw0cbtvoRxG) | [Choppa Capone](https://open.spotify.com/artist/6qYsothwQkj7FyzDhCj3Ez), [Rommy Montana](https://open.spotify.com/artist/6EeUJT7hjgVaVKk0ucsmLM), [Montiago](https://open.spotify.com/artist/3oxrNkqeblaZHXBD2wG8pA), [San Quintin](https://open.spotify.com/artist/7MdYVhXrjFPMoDcsB7cKfz), [Huncho Bandz](https://open.spotify.com/artist/2LKdjCrOECn9Y7NTZLaHjB), [DaeDae3K](https://open.spotify.com/artist/7JzqdyzJay1cjXGP9A5xu6) | [Still Tippin' Freestyle](https://open.spotify.com/album/0WPd3eXS3isXu6krsVn0Vg) | 3:23 |
 | 100 | [Care free](https://open.spotify.com/track/7fAg5vKDq5jBOBpAoYExV6) | [SugLawd Familiar](https://open.spotify.com/artist/6xiT2jISLeWrj8udndxqW4), [Oichi](https://open.spotify.com/artist/6b9pWhWVeTIH0p0px5KnXn), [XF MENEW](https://open.spotify.com/artist/3YF6gmNp1tjvTJp4MkLoWH) | [Care free](https://open.spotify.com/album/0DsApSEvCkKXGQom5mqKJ0) | 2:44 |
 
-Snapshot ID: `MCxkY2M2YmNjOWI4MGI3ZjU4Zjk4OTRmZWUzYzVmMjllYjBkYzBiYmIz`
+Snapshot ID: `MCwxZjg5MGVhODA3NzEzMzM3ZjE5YWNkODJkMDU5OTljNTNhMWM4ZGMz`

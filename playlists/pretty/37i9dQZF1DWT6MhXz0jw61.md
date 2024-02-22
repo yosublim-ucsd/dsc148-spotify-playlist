@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Kota The Friend
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,308,819 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,308,922 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 23 | [R&B](https://open.spotify.com/track/3LtQtMTElsBhQQl1Oe2WVv) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU), [Tony Seltzer](https://open.spotify.com/artist/3xLOLsGCDyUCj1L9W5fUpl) | [R&B](https://open.spotify.com/album/3GtGp6gTuR28nRXbJmkmPj) | 1:49 |
 | 24 | [Bliss](https://open.spotify.com/track/5TLeG3t4ZPLJ6rsjltvRDY) | [408 Darwin](https://open.spotify.com/artist/7GmjP8u0uwwAwBt3e3tmdS) | [Bliss](https://open.spotify.com/album/1xgHi3qOIa25dlJwdA0pxl) | 2:31 |
 | 25 | [I Love You Boy](https://open.spotify.com/track/67nxFsoVMZF4GvaapcnUlC) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [SANTIAGO](https://open.spotify.com/album/3mX0HbDt7oIzBBJHgQYnDY) | 4:13 |
-| 26 | [Scared Money \(feat\. Kevin Durant\)](https://open.spotify.com/track/0IchVBfnDKMhViGonBA3j4) | [Stalley](https://open.spotify.com/artist/1wUmdemiR9Dxw8A2el365A), [Kevin Durant](https://open.spotify.com/artist/50jVoCjWS4E2ENknl1KIh6) | [Scared Money](https://open.spotify.com/album/7nmiiO0GYNkExhZveP4pOD) | 2:53 |
+| 26 | [Scared Money \(feat\. Kevin Durant\)](https://open.spotify.com/track/0IchVBfnDKMhViGonBA3j4) | [Stalley](https://open.spotify.com/artist/1wUmdemiR9Dxw8A2el365A), [Kevin Durant](https://open.spotify.com/artist/0CFcWMZu68nAWFjuFg0jey) | [Scared Money](https://open.spotify.com/album/7nmiiO0GYNkExhZveP4pOD) | 2:53 |
 | 27 | [You Never Visit Me \(feat\. Wale & Enny\)](https://open.spotify.com/track/7qArEpkWxXwdh8nkfqcjIf) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [You Never Visit Me \(feat\. Wale & Enny\)](https://open.spotify.com/album/5768qKkadOnArtFfrupjLe) | 4:24 |
 | 28 | [Shimmy \(feat\. Joey Bada$$\)](https://open.spotify.com/track/1EY8nx5zKnaag1rlc2zNNd) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [College Park](https://open.spotify.com/album/7KcBjQ5f47uYAmvWCbB2FX) | 2:35 |
 | 29 | [SANGRE / AGUA \(feat\. Mick Jenkins & AMARAH\)](https://open.spotify.com/track/0eQxD7LMq3Q3c6GFx7tmwm) | [CJ Fly](https://open.spotify.com/artist/41yEdWozNYEzA2RfgYQHgr), [Stoic](https://open.spotify.com/artist/2H02v7YOfOLkXv9udKVE4t), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [AMARAH](https://open.spotify.com/artist/3WZGJETwBoBc3BV8rsxXFS) | [PIRANHA](https://open.spotify.com/album/3OTyL5ef5Q7WWlpVUVBV5Q) | 4:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 99 | [PLAIN JANE](https://open.spotify.com/track/0ibfcFmGtwTPScXJY7USAE) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [PLAIN JANE](https://open.spotify.com/album/1gU8EZFGp7aIaIz8PCPldL) | 2:07 |
 | 100 | [Destiny](https://open.spotify.com/track/5eArWUVDGcjO9zNXMYguEW) | [Foggieraw](https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM) | [Destiny](https://open.spotify.com/album/1BDtfB8bRHcCaXk0ck9uXW) | 1:36 |
 
-Snapshot ID: `MCwyMjExM2MyNmNkOTlhYzkxMWU3NTFkNzVlZmQxZDAwMjY1ZDNmZWRh`
+Snapshot ID: `MCxhYWY1ZjU4ZjBlN2I3NjEzZTZhNGI5MzdmNWJjOWZmMmEyMjg4ZTgw`

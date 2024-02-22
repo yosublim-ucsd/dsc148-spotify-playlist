@@ -1103,6 +1103,24 @@
     },
     {
       "album": {
+        "name": "Inochizuna",
+        "url": "https://open.spotify.com/album/1L6Q6ImUTkfuYi4jRLtnRf"
+      },
+      "artists": [
+        {
+          "name": "syudou",
+          "url": "https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201366,
+      "name": "Inochizuna",
+      "url": "https://open.spotify.com/track/5RDlCRPbMIgVzNS3677eKo"
+    },
+    {
+      "album": {
         "name": "junkie",
         "url": "https://open.spotify.com/album/1O51SwMFrdxhjgsSzC9Fsw"
       },
@@ -2456,7 +2474,7 @@
     {
       "album": {
         "name": "Transpose",
-        "url": "https://open.spotify.com/album/0CpmKvgc6E22A9gD5GTxin"
+        "url": "https://open.spotify.com/album/6txrWZ14wMs7sh93JtWFUU"
       },
       "artists": [
         {
@@ -2467,6 +2485,24 @@
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 239000,
+      "name": "Transpose",
+      "url": "https://open.spotify.com/track/0n2q9kCBG5QSgZx2sj4H1P"
+    },
+    {
+      "album": {
+        "name": "Transpose",
+        "url": "https://open.spotify.com/album/0CpmKvgc6E22A9gD5GTxin"
+      },
+      "artists": [
+        {
+          "name": "Tota",
+          "url": "https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": "2024-02-22",
       "duration_ms": 239000,
       "name": "Transpose",
       "url": "https://open.spotify.com/track/1pXgfCnwQwziwKHULqVIXo"
@@ -4110,7 +4146,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 201366,
       "name": "\u547d\u7db1",
       "url": "https://open.spotify.com/track/15HRektCNAGiAVBrQ2bjCb"
