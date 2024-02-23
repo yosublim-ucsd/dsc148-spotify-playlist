@@ -1,4 +1,4 @@
-## Playlists \(7601\)
+## Playlists \(7602\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -7231,6 +7231,7 @@
 - [madera y miel](/playlists/pretty/37i9dQZF1DX2xKqsL1SVWb.md)
 - [magmuni\-muni](/playlists/pretty/37i9dQZF1DX0DrBh4sbMhw.md)
 - [main](/playlists/pretty/7KiWS8RzTKKELnmiE4pDz3.md)
+- [main playlist](/playlists/pretty/5QCgGvCDWDLSVMBloZrie3.md)
 - [mamá cool](/playlists/pretty/37i9dQZF1DWVuraZzTY0LP.md)
 - [mandarina](/playlists/pretty/37i9dQZF1DX6LVkNunXMAU.md)
 - [manicure](/playlists/pretty/37i9dQZF1DX8IeJ8CDjZpj.md)
