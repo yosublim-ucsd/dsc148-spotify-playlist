@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxoleDT3ILq.md) - [plain]
 
 > Todo el sonido indie de Chile\. Foto: Benjamín Walker
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,204 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,203 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxoleDT3ILq.md) - [plain]
 | 99 | [Consenso](https://open.spotify.com/track/1DE9EKIIPydoe64TLzWvKV) | [Colayuta](https://open.spotify.com/artist/7FayVmhZEu2ewzGQdIH0yt) | [Consenso](https://open.spotify.com/album/4T60wxy6eR4IhvCX30lu6j) | 3:39 |
 | 100 | [Las Piedras](https://open.spotify.com/track/5FMyNDgr11zcBsxfilA005) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Las Piedras](https://open.spotify.com/album/0f502VlRJBXXIcu3q780yK) | 4:01 |
 
-Snapshot ID: `MCw2OGYzNTgzMzJhYWU3NjhiN2NjMjQ4MDFjM2NjOWUxMzExNDhiYjIw`
+Snapshot ID: `MCxlNTMxMzMyMzIxN2RhODcyM2Y3MGU3NWZlY2ZmYWFlNTAxZWE0Nzk4`

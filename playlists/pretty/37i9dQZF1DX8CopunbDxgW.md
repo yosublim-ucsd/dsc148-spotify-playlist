@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 
 > The best indie dance tracks of the moment\. Cover: salute
 
-[Spotify](https://open.spotify.com/user/spotify) - 859,564 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 859,568 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 | 99 | [JOY \(I Did You Wrong\)](https://open.spotify.com/track/31ZBEAVjrABh1eSSDYPnRc) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(I Did You Wrong\)](https://open.spotify.com/album/5a929ZHQr9ctGnhlnfWjra) | 3:08 |
 | 100 | [Si Te Portas Bonito \- Edit](https://open.spotify.com/track/5s6RZxzKf37QOJfjzSD9L9) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Si Te Portas Bonito](https://open.spotify.com/album/2O1INg3ragKUjPmQ5jMPQy) | 1:57 |
 
-Snapshot ID: `MCxlMzQxZjQxODk3ZWRiM2JmZmJjMWZhZWMyMDBhNTk2MGQwY2JmYzFi`
+Snapshot ID: `MCw3NWE1OTQ0ZWJkZjljM2IyM2VjNjYwOTlkMmUxMjcxYjA3MzNlMzY5`

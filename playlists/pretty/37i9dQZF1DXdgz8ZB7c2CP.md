@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgz8ZB7c2CP.md) - [plain]
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>, featuring KUČKA & Flume
 
-[Spotify](https://open.spotify.com/user/spotify) - 765,218 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 765,232 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgz8ZB7c2CP.md) - [plain]
 | 99 | [i'm hurting ! \(deja\-vu..\)](https://open.spotify.com/track/7x3YdsIvT6RPGgz18GEXkv) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [i'm hurting ! \(deja\-vu..\)](https://open.spotify.com/album/07W3pEXd8gK8GzJ3prgeuh) | 2:56 |
 | 100 | [Exodia](https://open.spotify.com/track/0JIhwGegswRgXRVKYxa8lx) | [Montell2099](https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0), [XIRA](https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ), [Sublab](https://open.spotify.com/artist/3tjRdPCZTpme7vslZJYtJx) | [Exodia](https://open.spotify.com/album/7MSWYmuDJAlBYUa0QrEqyo) | 2:55 |
 
-Snapshot ID: `MCw1YWNmOWFmNmUxMmNjNjQ5NzE5YTkzODdhZWZmMjY4ZjY0MWFkZmRk`
+Snapshot ID: `MCwyZDQ0YzkwYWQ4NTVkZWNlOWI4YWM3MmJiMjliNTYyYzdhZTJhNDlj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 
 > LUDMILLA e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,313 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,364 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 | 49 | [Mega da Gang 06](https://open.spotify.com/track/5NF0cMnsvWWg3uhF80Aqio) | [MC Braz](https://open.spotify.com/artist/7htxZTR76qcXYJylEmkLiJ), [MC Vitin LC](https://open.spotify.com/artist/3VU1prPpWqYhRlKS6FQNMR), [MC Luan da BS](https://open.spotify.com/artist/1BrFcFtIp3ZqvuI5C0VcK3), [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [MC Tairon](https://open.spotify.com/artist/7ujbuq6hAjLSf7cGr6au0b), [Mc Vaguin](https://open.spotify.com/artist/0Ao6gimo1AyJkxj9zRIEC5), [Dj Bk Original](https://open.spotify.com/artist/3RzRDkNYMnLhkQLBm5tXb3), [DJ 2w](https://open.spotify.com/artist/0yO1IUIzyJgjMqFbKw57pq) | [Mega da Gang 06](https://open.spotify.com/album/08Hzh10xxUrZG1qWVZmub3) | 5:13 |
 | 50 | [Boa Sorte Mesmo](https://open.spotify.com/track/4qWBGrLVgn1XiUTRzC3fkx) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Dj Alle da coro](https://open.spotify.com/artist/6fGH2Qk8eKAcvEU1nHOi8x), [Cúpula](https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F) | [Dacoromode](https://open.spotify.com/album/4wsh2d30QdwnFQLEpSkXKz) | 2:26 |
 
-Snapshot ID: `MCwwZmRkOTBhMzYzOWM5NDkwYWQyNTJmMzc5NDg4NDI1ZDQ2MGEzMWVj`
+Snapshot ID: `MCw2NDU0NzRkZGMxNjZhNTNmNWY4YmYyMGJlYzMzYzgyMGU2MjlkMTU1`

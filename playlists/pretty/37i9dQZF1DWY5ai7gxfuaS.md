@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 
 > The future of metal is here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,679 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,767 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 | 99 | [ABYSS](https://open.spotify.com/track/7J7M7bscbyKo7WQSwnry7s) | [Mimi Barks](https://open.spotify.com/artist/5A4P1UOSqbSvJKoi3VYlCC) | [DEADGIRL](https://open.spotify.com/album/48CPMZleL4rHMqtQN5opuV) | 2:31 |
 | 100 | [Synopsis](https://open.spotify.com/track/1TGEVFUCXVI7GzqAzGFBkX) | [Mountain Eye](https://open.spotify.com/artist/4tAs3G5ZsXLbE1yXpc6apz) | [Synopsis](https://open.spotify.com/album/1csn83LGlgEFpoFjZDjHYG) | 3:22 |
 
-Snapshot ID: `MCxkZjEzMTY5YTk1ZDVjMGU1NWM5NWQwYmJjMmQ0ZjU4ZjViOTkxOGVk`
+Snapshot ID: `MCw5OGFkM2UyOTgyZTI2YTlkZmZlZmUyYjdmYjdkYTllYTE3ZGRjZWE0`

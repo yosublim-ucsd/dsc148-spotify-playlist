@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO06p7qw.md) - [plain]
 
 > This is Manuel Medrano\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,700 likes - 29 songs - 1 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,804 likes - 28 songs - 1 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,6 +36,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO06p7qw.md) - [plain]
 | 26 | [Te Lastimé](https://open.spotify.com/track/644e2A7OrjKecbT31eZ3dU) | [Superlitio](https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB), [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Te Lastimé](https://open.spotify.com/album/3NiY4M0jMYZP9NkAziX41p) | 3:41 |
 | 27 | [Más Allá](https://open.spotify.com/track/4CZ9C2LlTI1BWPAcvIiDbY) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Eterno](https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi) | 3:17 |
 | 28 | [Polvo De Estrellas](https://open.spotify.com/track/7kNIFgiurMWE3dB93hbEPE) | [Alberto Plaza](https://open.spotify.com/artist/0Up8AZmXDecXiMirZhRLmw), [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Polvo De Estrellas](https://open.spotify.com/album/1yBh12xHy3FXpXvQvRwadu) | 3:47 |
-| 29 | [Cadillac \(feat\. Manuel Medrano\)](https://open.spotify.com/track/7oAdQEMMDrPusH5vhoL2fI) | [Beatriz Luengo](https://open.spotify.com/artist/23cijmutocNvhM5xkcyyFF), [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Cuerpo y Alma](https://open.spotify.com/album/3Y5VB4scWDZAqa0CxD3uP9) | 3:27 |
 
-Snapshot ID: `Mjg0NzUyOTAsMDAwMDAwMDA4OWZmY2RiMjNlODc5Njc0NjZhY2FjMWUxNTQwZWQ0Mw==`
+Snapshot ID: `Mjg0NzcwNzUsMDAwMDAwMDA3Zjc0MWNiNDg4YmIwNGQ2NDcyODM5NDY3NjI3NWFlMw==`

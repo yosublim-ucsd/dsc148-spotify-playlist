@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XfRr4cb6cr.md) - [plain]
 
 > Hymns for darker hours.
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,151 likes - 150 songs - 12 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,260 likes - 150 songs - 12 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XfRr4cb6cr.md) - [plain]
 | 149 | [Waves \- Oliver Doerell & Helga Raimondi Rework](https://open.spotify.com/track/5oXGS29Qa8Pv7ITfKLm9X4) | [Vetle Nærø](https://open.spotify.com/artist/1FjMgsUfnOoSWTHuVzAukf) | [Waves \(Oliver Doerell & Helga Raimondi Rework\)](https://open.spotify.com/album/5t2W6cCG2GjfC1gRVZv1eB) | 5:14 |
 | 150 | [Melting Refuge](https://open.spotify.com/track/72yOEueBpwoPF7zBWtvREm) | [Ecker & Meulyzer](https://open.spotify.com/artist/0LmTH1Y1gidIP6T9yTtSPU) | [Carbon](https://open.spotify.com/album/1V2Ek9fnWQhDGApxedbg3J) | 4:25 |
 
-Snapshot ID: `MCxhODVmMWJjNWQ2ZmZmYmRkOGVkMWVkMDg5MjNmYzYzOTcyYmQ5ZGZk`
+Snapshot ID: `MCw4NWE4NmI3ZWI2NzliY2UxZWU5Y2NmYTM2YWE5ZGViNjcyYTIwZWI2`

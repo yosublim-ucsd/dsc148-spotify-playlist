@@ -10249,6 +10249,24 @@
     },
     {
       "album": {
+        "name": "On Another Level",
+        "url": "https://open.spotify.com/album/3AftCQAH0WzS0sEcni5ToS"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos",
+          "url": "https://open.spotify.com/artist/5gmYIZpH1l8t94NoRZRB5x"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373920,
+      "name": "Queztal",
+      "url": "https://open.spotify.com/track/3BLtz1XMadNpiil28XLUyU"
+    },
+    {
+      "album": {
         "name": "Faut rigoler",
         "url": "https://open.spotify.com/album/7eQ6aBe1LPCLkt6vkYPuZ4"
       },

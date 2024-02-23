@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmafsRvwS7L.md) - [plain]
 
 > Curated by the biggest stars of the 2021 NFL Draft celebrating their journey to Draft Night!
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,859 likes - 25 songs - 1 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,885 likes - 25 songs - 1 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmafsRvwS7L.md) - [plain]
 | 24 | [All I Got](https://open.spotify.com/track/2xShtispA0L5J8SyZFQGSX) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [SoulFly](https://open.spotify.com/album/4FY0HCt6PEbOF1RqUbYVzq) | 3:13 |
 | 25 | [The Believer \- feat\. John Legend](https://open.spotify.com/track/6QtpJNlCfA091GmD2ALNri) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [The Dreamer, The Believer](https://open.spotify.com/album/17eQeA5m7DpsZ42mUAGjgG) | 3:43 |
 
-Snapshot ID: `MCxkZjdlOWJlMTY5OTMxMGJmOTAzZTA5NTQ0NDcyMzJjM2I1NTI3NTA0`
+Snapshot ID: `MCw1ZjkzMjM1ZWVmMWI4MTAyNTViYWI4OWM4M2ZkNmFkOTY0Y2E0NGYx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 
 > Live fast, die awesome! A great mix of the best rockabilly tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 530,977 likes - 60 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 530,996 likes - 60 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 | 59 | [Help Me Out](https://open.spotify.com/track/6qgKJxzgWqPyoHJaoDAnGE) | [The Hotlips](https://open.spotify.com/artist/1WNWaC0lAc3o5ODUvRfOo6) | [Help Me Out](https://open.spotify.com/album/1OiLEuPXzmyiPDUZtAQZYc) | 2:59 |
 | 60 | [Fire Bug](https://open.spotify.com/track/0t3d4mJOfYTCjlG83IJ1IY) | [JD McPherson](https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9) | [Signs & Signifiers](https://open.spotify.com/album/4pXFLdHq1JQifrVxEFTKpO) | 2:17 |
 
-Snapshot ID: `MCxkZjVmNjkwMmMwMmM3ZmY1ZjYwNzk0OTQyZDEzMTNjZGQ2Y2ExYzk3`
+Snapshot ID: `MCw2ZGUwOWMxMDJjNzRmMWRlNTdhYmM5ZTNjMDQxM2IyYmYyNDQ1OTky`

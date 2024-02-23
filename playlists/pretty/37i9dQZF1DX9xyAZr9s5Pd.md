@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xyAZr9s5Pd.md) - [plain]
 
 > ¡Estos son los nombres que amplifican el sonido indie de los Andes! Foto: Adrian Bello
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,536 likes - 60 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,541 likes - 60 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xyAZr9s5Pd.md) - [plain]
 | 59 | [Beso de Luna](https://open.spotify.com/track/722rVjkkGTlugUMxQn3BGz) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu), [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Aries](https://open.spotify.com/album/5UDENHnOZGZhPbjsItZaRx) | 3:03 |
 | 60 | [Alma Rota](https://open.spotify.com/track/13fm0n3dQGNwMzVPdayFe9) | [Inzul](https://open.spotify.com/artist/6MOWxtx3qLM9FR0EVn4xGp) | [Las Cosas Que Nunca Te Dije](https://open.spotify.com/album/5NQAx2tanyqT0G3t219BDe) | 2:55 |
 
-Snapshot ID: `MCwwZDRiYjI0ODZiYTljMmY1M2ZiN2M2NjczODJlZTFhNzkyNGI1Mjdm`
+Snapshot ID: `MCwzNzFmZDFjOTgwYTM4MGNiZjk0Y2IxZWQyYjY0ZTY2MjA4Yzk4YzUz`

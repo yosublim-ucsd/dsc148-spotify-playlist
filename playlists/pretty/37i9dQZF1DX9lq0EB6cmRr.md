@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lq0EB6cmRr.md) - [plain]
 
 > Listen hot and new Korean classical & new age  music in here! \(Cover: Hera Hyesang Park\(박혜상\)\) 한국 클래식 음악 핫 & 최신 트랙들을 만나보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,556 likes - 100 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,905 likes - 100 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lq0EB6cmRr.md) - [plain]
 | 99 | [Island baby](https://open.spotify.com/track/4KK9FI8mWKkbn6ryGdUY6k) | [Denis Sungho](https://open.spotify.com/artist/14AiQlh46InimcwmW3zXdp), [COAST82](https://open.spotify.com/artist/6gv9fIqO7Q8YrI7hUxH0pL) | [ISLAND](https://open.spotify.com/album/1P23X6A8ovWM89GeBOjxzT) | 4:39 |
 | 100 | [The Steps Of Tomorrow](https://open.spotify.com/track/4SGvRalrhEY1s389vbLK0x) | [Kai](https://open.spotify.com/artist/5zCtihKT8IsDqVS5WBbqHD) | [KAI ON MUSICAL](https://open.spotify.com/album/04B5WAQquyirwfdtBWrs6N) | 3:32 |
 
-Snapshot ID: `MCw4MzRlZWVlYmZhNjdhZjRlN2NhNmEwZTZlY2M5N2NkYTQzMDg4MjI4`
+Snapshot ID: `MCw0MTc4MzM4MzVlYTQ0MDQwZDdhZWRhZGNjNjRlMmYwZGM4NDNlYTgz`

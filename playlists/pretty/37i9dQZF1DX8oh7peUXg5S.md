@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 
 > El don de cantar y componer, una playlist llena de talento\. Foto: Jorge Drexler.
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,243 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,311 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 | 99 | [Mi Problema](https://open.spotify.com/track/6PIRiVNVZk0vN9ZyUJTqKj) | [Ismael Serrano](https://open.spotify.com/artist/4eyF2eDCunzeFykH90Ej34) | [La Llamada](https://open.spotify.com/album/4IKa51k08eP9C6MhKslZ21) | 6:05 |
 | 100 | [Quiéreme Bien \(feat\. Leiva\)](https://open.spotify.com/track/52kEfpan3auLao9pbnOJ6m) | [Macaco](https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT), [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Quiéreme Bien \(feat\. Leiva\)](https://open.spotify.com/album/1aUj6H7XCzFRRznXIsArqm) | 4:41 |
 
-Snapshot ID: `MCxiODg0NzNlMWM3MDRhMjVkMjQ2NGE4ODI4ZWIyZDA3NGM0YjNkMjJj`
+Snapshot ID: `MCxkNGE3YzE1NTcxNWRkODA0MDFlZTZjYjQzMWUxNmRhYTI3M2ViNjdh`

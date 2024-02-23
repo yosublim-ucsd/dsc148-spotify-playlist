@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: Lendakaris Muertos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,144 likes - 90 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,169 likes - 90 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 89 | [Cuidado](https://open.spotify.com/track/2iq7umXGuvE09C6pdWq2pN) | [Zirrosis](https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ) | [Cuidado](https://open.spotify.com/album/00IQFRHhExjBgNSq2bWCz8) | 2:57 |
 | 90 | [All Cayetanos Are Bastards](https://open.spotify.com/track/7zlGLO9CuP87PAqkthjoFj) | [Lo Blanco Del Jamón](https://open.spotify.com/artist/1mTe6RvJvqSRZPKhRMd9gR) | [All Cayetanos Are Bastards](https://open.spotify.com/album/30MZ64Kx7H1eNkGvXa898t) | 2:40 |
 
-Snapshot ID: `MCxhMzU1N2U5MGUzNzVmZDFiMDBlZGQ0YjM2ZjRkODc4Y2MyMzUwNmU5`
+Snapshot ID: `MCxkYWI0MzNkOTBlMDEyY2JhZmYzMTJkYzhhOWNmZGY1NzFlYzM4NzQz`

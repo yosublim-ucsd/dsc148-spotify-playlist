@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLMw3ry7d7k.md) - [plain]
 
 > These hits were made to stay! Revive los éxitos de los últimos meses aquí.
 
-[Spotify](https://open.spotify.com/user/spotify) - 561,700 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 561,817 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLMw3ry7d7k.md) - [plain]
 | 99 | [Muñekita \(with El Alfa & JT\)](https://open.spotify.com/track/4PzxlHzDM3bDafkHjg1XCX) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Muñekita \(with El Alfa & JT\)](https://open.spotify.com/album/1TNCpCq8peDn03K1qK5If4) | 3:39 |
 | 100 | [BONITA](https://open.spotify.com/track/6pLYGP1FGsfhUFb3s9X1mz) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [BONITA](https://open.spotify.com/album/1ufDxUWa07eVx4iakS8DVO) | 2:49 |
 
-Snapshot ID: `MCw1YmQ0MTUxYmY2YzFjOWQwN2NhY2JhNmFkY2IzNmVlN2RhYmRkMWIx`
+Snapshot ID: `MCw0ZDgxYjI3OTk0ZTQ4MTkxNWU3MmQwYjk1MjU5MzA2MGI0ODU1MGQ1`

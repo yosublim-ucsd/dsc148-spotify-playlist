@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Senndy, Niink
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,599 likes - 75 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,628 likes - 75 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 74 | [VIDA DE UM MENO BANDIDO](https://open.spotify.com/track/5tdIOZxUtzy6eJVMKzFXhC) | [Meno Tody](https://open.spotify.com/artist/2mNP0EIVZICxF8NJ46SG0L) | [O MUNDO DE UM JOVEM TRALHA](https://open.spotify.com/album/2wasNK4LbD19eHD70au9mL) | 3:06 |
 | 75 | [Só/Sim ou Não](https://open.spotify.com/track/14FjbgbyStHBIK8FMKYdyI) | [Massaru](https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU) | [Só/Sim ou Não](https://open.spotify.com/album/77j6bV8NFDWAx2mObaY9c2) | 3:59 |
 
-Snapshot ID: `MCxmZDcyMjRmZGM4MTAyMTU0OTNmMjg3NmExZDUzZTI0MDVmM2QyMmYw`
+Snapshot ID: `MCw2ODMzZWU1YzcyOTBiYzZhYWY0OGE2MzI1ZTE4NmVkYmYwMjY1NjY0`

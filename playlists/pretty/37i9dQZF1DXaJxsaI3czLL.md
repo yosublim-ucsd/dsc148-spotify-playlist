@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJxsaI3czLL.md) - [plain]
 
 > 眠れない夜も音楽と一緒に。くつろぎながら、入眠効果のある音楽と素敵な夜をゆったりとお過ごし下さい。
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,506 likes - 100 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,515 likes - 100 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJxsaI3czLL.md) - [plain]
 | 99 | [虹とカイト](https://open.spotify.com/track/6wKvOYzi6WBbF4WXC9J7Ey) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [ohashiTrio best Too](https://open.spotify.com/album/7370BLhXSYfiIJ1S26expM) | 5:37 |
 | 100 | [雪解](https://open.spotify.com/track/6wYQ2o2ayXPpwHmhUiz5p9) | [湊大瀬](https://open.spotify.com/artist/0gbV5LrMApRAILxgr3gfFB), [カリスマ](https://open.spotify.com/artist/68k1h6racwqpRSnc29J4RM) | [雪解](https://open.spotify.com/album/3lTSCj370LfP4sca6gOCr5) | 4:10 |
 
-Snapshot ID: `MCxiYzZjNjE3MzMxYTNkMzk3MTJlNDZiOGExNmY5MGU5YTc2OWU0Yzcz`
+Snapshot ID: `MCxmODQ2NzAxOWQ4NWNkZjRiZDgzYTE0ODdhYzRkMzY1ODk0YjE3ZWJk`

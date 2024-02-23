@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkMjlBZAZ07.md) - [plain]
 
 > Brighten your day with a mix of folksy mood boosters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,944,381 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,944,427 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkMjlBZAZ07.md) - [plain]
 | 99 | [Headstart](https://open.spotify.com/track/7pwv5cbW7hj4HVv3US4XUT) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Different Kinds of Light](https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9) | 2:22 |
 | 100 | [Amsterdam](https://open.spotify.com/track/07h7XnD84Kzg8EsMqj1H5R) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Amsterdam](https://open.spotify.com/album/1G5wziJiffg6QNea5Xqp86) | 2:59 |
 
-Snapshot ID: `MCxjNGYwZmZiMzIyYzZiZjIyMzI4NDZjNDJlNzRhMWY3ZTkzMDc2NGNh`
+Snapshot ID: `MCwyNTliNWM0YWNlM2VhYzdkOTAwNmMzNDA0ZTIyYWE1MTE5MWZkZTVk`

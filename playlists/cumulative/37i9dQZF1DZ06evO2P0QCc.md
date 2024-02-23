@@ -4,13 +4,13 @@
 
 > This is Inspector\. The essential tracks, all in one playlist.
 
-71 songs - 4 hr 21 min
+72 songs - 4 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ["Lamba Do Ska" \(Llorando Se Fue\)](https://open.spotify.com/track/6KNGqIRhE44Cf56dvcgi1l) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Ska a La Carta](https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd) | 3:48 | 2023-01-14 | 2023-12-26 |
 | [Alma En Fuego](https://open.spotify.com/track/5Jk1TpnDH4MzaOg05NMiKO) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Unidad, Cerveza y Ska](https://open.spotify.com/album/54LTjGhFJR2kn8gqlQTgGd) | 4:07 | 2023-01-14 | 2023-09-16 |
-| [Amar O Morir](https://open.spotify.com/track/0WGw8hRQjJFwz0fNyrj91A) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Inspección Retroacústica](https://open.spotify.com/album/6BPO85IdQxuZ1TtoiM7ysk) | 3:56 | 2023-01-14 |  |
+| [Amar O Morir](https://open.spotify.com/track/0WGw8hRQjJFwz0fNyrj91A) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Inspección Retroacústica](https://open.spotify.com/album/6BPO85IdQxuZ1TtoiM7ysk) | 3:56 | 2023-01-14 | 2024-02-23 |
 | [Amargo Adiós](https://open.spotify.com/track/0zCOT028cU3DeCqN1G18wE) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Alma En Fuego](https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk) | 3:48 | 2023-01-14 |  |
 | [Amnesia](https://open.spotify.com/track/41xb9U5PEsvZYLKFW50xCZ) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Alma En Fuego](https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk) | 4:01 | 2023-01-14 |  |
 | [Araña Ska](https://open.spotify.com/track/6oseawKMHtK8WzEy0mcsUI) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Blanco y Negro](https://open.spotify.com/album/7qhAkyX27LQoUTrveQmika) | 2:34 | 2024-02-12 | 2024-02-17 |
@@ -38,6 +38,7 @@
 | [Esta Vez](https://open.spotify.com/track/0zPQsH6ocbEQoiVU5kEJL8) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Inspector](https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB) | 3:55 | 2023-01-14 |  |
 | [Grita](https://open.spotify.com/track/2lI7vYYG6KDsUyz7zxP01c) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Los Calzones](https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc) | [Serpientes Y Escaleras](https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ) | 3:44 | 2023-09-09 |  |
 | [Guitarras Blancas](https://open.spotify.com/track/08oC8F2G7gkwfcVRGrOB2U) | [La Skandalosa Tripulación](https://open.spotify.com/artist/3dTtKHXPMLmyevUFZO941G), [Fabián Dee](https://open.spotify.com/artist/0rrBjKAgWYCE9QOe2HWat8), [Homero Ontiveros](https://open.spotify.com/artist/6IIAv1oFfMw5tEjIbcjyFt), [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Guitarras Blancas](https://open.spotify.com/album/3FQid93WBN205xUSNji4cZ) | 3:07 | 2023-01-14 | 2024-02-11 |
+| [Hoy Será \(feat\. Natalia Ramírez\)](https://open.spotify.com/track/4x868qxqVPPXQiPEc27zDG) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Natalia Ramírez](https://open.spotify.com/artist/1s4O7vhYHnEw8eA3tg9yV4) | [Canciones De Amor, Y Un Remedio Pa'l Corazón](https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha) | 3:34 | 2024-02-22 |  |
 | [Inspiracional](https://open.spotify.com/track/1iPLqMA51oVMzaATZrcZZ1) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Inspección Retroacústica](https://open.spotify.com/album/6BPO85IdQxuZ1TtoiM7ysk) | 4:36 | 2023-01-14 |  |
 | [La Tregua](https://open.spotify.com/track/13lwyE1cMl3KDmAMgRMHvl) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Serpientes Y Escaleras](https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ) | 4:02 | 2023-09-09 |  |
 | [La Vida Es Una Cumbia](https://open.spotify.com/track/24drGwvENGtj91ZFUAciAG) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Ronda Bogotá](https://open.spotify.com/artist/7843pz6oKe2jtcPew109fr) | [Serpientes Y Escaleras](https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ) | 4:03 | 2023-09-15 | 2023-10-11 |

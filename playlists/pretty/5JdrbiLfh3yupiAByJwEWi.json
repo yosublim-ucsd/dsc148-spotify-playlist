@@ -1,12 +1,12 @@
 {
-  "description": "The best party hits from the decade that gave you Katy Perry, Nelly Furtado and more! Cover: Rihanna",
-  "num_followers": 13940,
+  "description": "The best party hits from the decade that gave you Katy Perry, Rihanna, Lady Gaga and more! Cover: Nelly Furtado",
+  "num_followers": 14005,
   "original_name": "2000s Pop Party",
   "owner": {
     "name": "Digster Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "NDQ3LDViZjc5NjFiYzY1MThmNWJiMGVjYmNhMDljZGUyMDI2MDViNGFjOTM=",
+  "snapshot_id": "NDUzLGUxZjJjNjYzNTliNDJiNzExNWZkNTdkYTBlMWEyZDY2Y2U0ZWQ5ODA=",
   "tracks": [
     {
       "added_at": "2024-02-21 18:54:08",
@@ -43,26 +43,6 @@
       "duration_ms": 241933,
       "name": "Just Dance",
       "url": "https://open.spotify.com/track/1dzQoRqT5ucxXVaAhTcT0J"
-    },
-    {
-      "added_at": "2024-02-21 18:54:08",
-      "album": {
-        "name": "Good Girl Gone Bad: Reloaded",
-        "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        },
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 275986,
-      "name": "Umbrella",
-      "url": "https://open.spotify.com/track/49FYlytm3dAAraYgpoJZux"
     },
     {
       "added_at": "2024-02-21 18:54:08",
@@ -123,6 +103,22 @@
     {
       "added_at": "2024-02-21 18:54:08",
       "album": {
+        "name": "One Of The Boys",
+        "url": "https://open.spotify.com/album/0r2BUyPTmpbfuz4rR39mLl"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 220226,
+      "name": "Hot N Cold",
+      "url": "https://open.spotify.com/track/1y4eb6hmAvsqlDOl3fx9kk"
+    },
+    {
+      "added_at": "2024-02-21 18:54:08",
+      "album": {
         "name": "Not 4 Sale",
         "url": "https://open.spotify.com/album/4mvT7q9PuuBWZcVyUnZP8e"
       },
@@ -159,6 +155,26 @@
     {
       "added_at": "2024-02-21 18:54:08",
       "album": {
+        "name": "Good Girl Gone Bad: Reloaded",
+        "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "duration_ms": 275986,
+      "name": "Umbrella",
+      "url": "https://open.spotify.com/track/49FYlytm3dAAraYgpoJZux"
+    },
+    {
+      "added_at": "2024-02-21 18:54:08",
+      "album": {
         "name": "PCD",
         "url": "https://open.spotify.com/album/5x8e8UcCeOgrOzSnDGuPye"
       },
@@ -171,6 +187,30 @@
       "duration_ms": 225560,
       "name": "Buttons",
       "url": "https://open.spotify.com/track/3BxWKCI06eQ5Od8TY2JBeA"
+    },
+    {
+      "added_at": "2024-02-21 18:54:08",
+      "album": {
+        "name": "Shock Value",
+        "url": "https://open.spotify.com/album/4BxB8U8QgpR4UCvJ0moj8Z"
+      },
+      "artists": [
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        },
+        {
+          "name": "Keri Hilson",
+          "url": "https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1"
+        },
+        {
+          "name": "D.O.E.",
+          "url": "https://open.spotify.com/artist/4TLCPR1sMYoNU1jA7O4uww"
+        }
+      ],
+      "duration_ms": 179120,
+      "name": "The Way I Are",
+      "url": "https://open.spotify.com/track/2bLqfJjuC5syrsgDsZfGmn"
     },
     {
       "added_at": "2024-02-21 18:54:08",
@@ -203,30 +243,6 @@
       "duration_ms": 236066,
       "name": "The Climb",
       "url": "https://open.spotify.com/track/0V8FYVlBFuXXTIvRnMbZyS"
-    },
-    {
-      "added_at": "2024-02-21 18:54:08",
-      "album": {
-        "name": "Shock Value",
-        "url": "https://open.spotify.com/album/4BxB8U8QgpR4UCvJ0moj8Z"
-      },
-      "artists": [
-        {
-          "name": "Timbaland",
-          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
-        },
-        {
-          "name": "Keri Hilson",
-          "url": "https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1"
-        },
-        {
-          "name": "D.O.E.",
-          "url": "https://open.spotify.com/artist/4TLCPR1sMYoNU1jA7O4uww"
-        }
-      ],
-      "duration_ms": 179120,
-      "name": "The Way I Are",
-      "url": "https://open.spotify.com/track/2bLqfJjuC5syrsgDsZfGmn"
     },
     {
       "added_at": "2024-02-21 18:54:08",
@@ -283,22 +299,6 @@
     {
       "added_at": "2024-02-21 18:54:08",
       "album": {
-        "name": "One Of The Boys",
-        "url": "https://open.spotify.com/album/0r2BUyPTmpbfuz4rR39mLl"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 220226,
-      "name": "Hot N Cold",
-      "url": "https://open.spotify.com/track/1y4eb6hmAvsqlDOl3fx9kk"
-    },
-    {
-      "added_at": "2024-02-21 18:54:08",
-      "album": {
         "name": "Confessions (Expanded Edition)",
         "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
       },
@@ -339,6 +339,26 @@
     {
       "added_at": "2024-02-21 18:54:08",
       "album": {
+        "name": "Loose",
+        "url": "https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT"
+      },
+      "artists": [
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        },
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        }
+      ],
+      "duration_ms": 242293,
+      "name": "Promiscuous",
+      "url": "https://open.spotify.com/track/2gam98EZKrF9XuOkU13ApN"
+    },
+    {
+      "added_at": "2024-02-21 18:54:08",
+      "album": {
         "name": "Hot Fuss",
         "url": "https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg"
       },
@@ -367,26 +387,6 @@
       "duration_ms": 311866,
       "name": "Stronger",
       "url": "https://open.spotify.com/track/4fzsfWzRhPawzqhX8Qt9F3"
-    },
-    {
-      "added_at": "2024-02-21 18:54:08",
-      "album": {
-        "name": "Loose",
-        "url": "https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT"
-      },
-      "artists": [
-        {
-          "name": "Nelly Furtado",
-          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
-        },
-        {
-          "name": "Timbaland",
-          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
-        }
-      ],
-      "duration_ms": 242293,
-      "name": "Promiscuous",
-      "url": "https://open.spotify.com/track/2gam98EZKrF9XuOkU13ApN"
     },
     {
       "added_at": "2024-02-21 18:54:08",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3IJ2kse1M3.md) - [plain]
 
 > 在音樂的懷抱裡，你想哭就哭。<br/>我不在乎 別人怎麼看 怎麼猜測 我只在乎 你今天是否 笑過哭過。
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,387 likes - 50 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,389 likes - 50 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3IJ2kse1M3.md) - [plain]
 | 49 | [如果沒有你](https://open.spotify.com/track/5u6hY0h8gUWfPQSdNuKgQb) | [Karen Mok](https://open.spotify.com/artist/6jlz5QSUqbKE4vnzo2qfP1) | [如果沒有你](https://open.spotify.com/album/67rYAc50qw4Da0Rp2PavMK) | 4:47 |
 | 50 | [太委屈](https://open.spotify.com/track/6tMgRC6pDQOqEnKCnAL6pT) | [陶晶瑩](https://open.spotify.com/artist/3YZU8HQWGJEAlNIhTK6UKT) | [愛缺](https://open.spotify.com/album/6dTh0ChcWfqethdCqNuM4r) | 4:51 |
 
-Snapshot ID: `MCxmZmUzNDY3NGY0NmZmZjkxOTRkMGRmOWFhMzY2MzUzZTk1Y2YyMjZh`
+Snapshot ID: `MCw4OGQ4YWVhODU1NDJjODIyZGNjNDY3YWRjNmVlZjZhMzk0ZTliYWNm`

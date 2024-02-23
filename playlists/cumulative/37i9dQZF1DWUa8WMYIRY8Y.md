@@ -2,9 +2,9 @@
 
 ### [Hot Alternative](https://open.spotify.com/playlist/37i9dQZF1DWUa8WMYIRY8Y)
 
-> Les meilleurs morceaux alternatifs du moment\. Photo : Astral Bakers
+> Les meilleurs morceaux alternatifs du moment\. Photo : Kasabian
 
-153 songs - 9 hr 23 min
+154 songs - 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Bullet of Dignity](https://open.spotify.com/track/0bd1oHZdvi2DHUGPVhdOAI) | [Fat White Family](https://open.spotify.com/artist/5ztBFCBEL7OtjdAt98RnD4) | [Bullet of Dignity](https://open.spotify.com/album/40gq5eFnNQbQ7EEvO6V2ja) | 2:59 | 2024-01-25 |  |
 | [Burning in Flames](https://open.spotify.com/track/1vp0sTWWZVcs8gW0PmDhM8) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Burning In Flames](https://open.spotify.com/album/5E97jRPfvqIazBexNqZCjI) | 3:08 | 2024-01-18 | 2024-02-16 |
 | [Caesar on a TV Screen](https://open.spotify.com/track/1Eysrn2oD2cIuuFQD1Iu2G) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Caesar on a TV Screen](https://open.spotify.com/album/5NWTTPxklDD8ed31edYo5V) | 3:49 | 2024-01-04 | 2024-02-16 |
+| [Call](https://open.spotify.com/track/1nNqKHLoMMzpQNhsZihMgC) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Call](https://open.spotify.com/album/0T8Y7EDE0nHQOVHq0rCZXu) | 2:30 | 2024-02-22 |  |
 | [Capricorn](https://open.spotify.com/track/2tKqhcDNVVKXJqllKzrecM) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Capricorn / Gen\-X Cops](https://open.spotify.com/album/3szHsSqtiYzj9UbJRgvqkv) | 4:09 | 2024-02-15 |  |
 | [catalogue](https://open.spotify.com/track/2fjqgNiQI8SbUrfN5yn2GS) | [julie](https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW) | [catalogue](https://open.spotify.com/album/4Hd9WBZhWgxKGXsH9OWYOc) | 3:14 | 2023-09-28 | 2023-12-22 |
 | [Chemical Animal](https://open.spotify.com/track/6NyWKXFYaw29rFuAIgrgpq) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Chemical Animal](https://open.spotify.com/album/4LUYV8jcT97Xoy9sI1TPs3) | 4:33 | 2024-01-25 |  |
@@ -48,7 +49,7 @@
 | [Doubt](https://open.spotify.com/track/3s6sLTCG8QZmpIIRgIW4HS) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Yard](https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9) | 2:35 | 2023-12-21 |  |
 | [DUST OFF / START AGAIN](https://open.spotify.com/track/5vyDsprQI2koIpWbFIrAqI) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [DUST OFF / START AGAIN](https://open.spotify.com/album/4DX48GxWm0UadGrp1dDT3O) | 3:44 | 2024-02-08 |  |
 | [Exits Blocked](https://open.spotify.com/track/6ZjQr2u2refwSwIE1Y2FFQ) | [Pile](https://open.spotify.com/artist/44pUNjqg4mExLyFHnB3Bqf) | [Hot Air Balloon EP](https://open.spotify.com/album/6FQhPhyUfZcfqvjeGd4lhC) | 3:29 | 2024-01-04 |  |
-| [Fairlies](https://open.spotify.com/track/5GxHieECgT7L3Uo92HHUef) | [Grian Chatten](https://open.spotify.com/artist/6XyAI3jtlsss5mJjAAJXzE) | [Chaos For The Fly](https://open.spotify.com/album/0lYFv5JDwH0NwiufmU4GKj) | 4:10 | 2023-09-28 |  |
+| [Fairlies](https://open.spotify.com/track/5GxHieECgT7L3Uo92HHUef) | [Grian Chatten](https://open.spotify.com/artist/6XyAI3jtlsss5mJjAAJXzE) | [Chaos For The Fly](https://open.spotify.com/album/0lYFv5JDwH0NwiufmU4GKj) | 4:10 | 2023-09-28 | 2024-02-23 |
 | [Faraway](https://open.spotify.com/track/0pgUhVXiLkbnmyRPBrk3A3) | [Cast](https://open.spotify.com/artist/0vBDEQ1aLZpe4zgn2fPH6Z) | [Faraway](https://open.spotify.com/album/4X90ucwF3x1z3eTinhK4w4) | 5:08 | 2024-01-04 |  |
 | [Feel Alive](https://open.spotify.com/track/20dwwr5VsKtjOmPBSeIdxm) | [Couch Sleepers](https://open.spotify.com/artist/54VlMlovDgwy2Dod8XTOYw) | [Feel Alive](https://open.spotify.com/album/7AcGQ0oCQfX55vHDU9VmCj) | 2:51 | 2024-02-15 |  |
 | [Feet Up](https://open.spotify.com/track/5INtXPkeFiKoxfb1NCHQTH) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Feet Up](https://open.spotify.com/album/4WsRuEohGjQM5T09Osf97R) | 2:59 | 2023-09-28 | 2023-10-20 |

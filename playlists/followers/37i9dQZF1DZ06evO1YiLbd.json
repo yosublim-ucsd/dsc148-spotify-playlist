@@ -1,5 +1,5 @@
 {
-  "2024-02-22": 7103,
+  "2024-02-23": 7101,
   "date_first_scraped": "2022-12-24",
   "description": "This is Yuki Hayashi. The essential tracks, all in one playlist.",
   "name": "This Is Yuki Hayashi",
@@ -669,7 +669,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-19",
+      "date_removed": null,
       "duration_ms": 211000,
       "name": "\u300e\u6b32\u300f",
       "url": "https://open.spotify.com/track/69ImxLhTWjSRBl2nGspu9C"
@@ -893,7 +893,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 144573,
       "name": "\u30dc\u30fc\u30eb\u62fe\u3044Lv.1",
       "url": "https://open.spotify.com/track/1QUgDHrmc4POLCvlTn3o4e"
@@ -933,6 +933,24 @@
       "duration_ms": 241080,
       "name": "\u4e0a",
       "url": "https://open.spotify.com/track/5N5iImDfoQ4IF3YvXBpxPX"
+    },
+    {
+      "album": {
+        "name": "\u300e\u5287\u5834\u7248\u30cf\u30a4\u30ad\u30e5\u30fc\u203c \u30b4\u30df\u6368\u3066\u5834\u306e\u6c7a\u6226\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6lGRAnmCrwobSnjZrt09CQ"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 56893,
+      "name": "\u4e0a\u3010\u6539\u3011",
+      "url": "https://open.spotify.com/track/5eKqam6pPN5505PUVhlAvW"
     },
     {
       "album": {
@@ -1317,7 +1335,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 191000,
       "name": "\u6c7a\u7740",
       "url": "https://open.spotify.com/track/6Br2dCwvGTvSO42V3c2pox"
@@ -1335,7 +1353,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 167253,
       "name": "\u6c7a\u88c2",
       "url": "https://open.spotify.com/track/6KXa4E3C3zIF9uTk60doYC"
@@ -1603,7 +1621,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-18",
+      "date_removed": null,
       "duration_ms": 175000,
       "name": "\u9032\u5316",
       "url": "https://open.spotify.com/track/4DRekX1RLo64233HPnQzhW"

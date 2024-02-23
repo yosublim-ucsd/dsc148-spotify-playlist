@@ -2,9 +2,9 @@
 
 ### [Couleur Pop](https://open.spotify.com/playlist/37i9dQZF1DX8HUWm4UDVR3)
 
-> La pop française annonce la couleur\. Photo : Johnny Jane
+> La pop française annonce la couleur\. Photo : Aliocha Schneider
 
-136 songs - 6 hr 44 min
+138 songs - 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [CONS’ DE LOVE](https://open.spotify.com/track/73eih2FtSIuGkKvqZpMGnW) | [Disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g) | [L'Amour...](https://open.spotify.com/album/0CyzYWU1ZY7Z5Eggx2c3ML) | 2:45 | 2023-09-21 | 2023-12-01 |
 | [Corps Nucléaire](https://open.spotify.com/track/4m2Jir1D8nb2dHFeXEBtp6) | [ELISA ERKA](https://open.spotify.com/artist/1EkqwqtzsjxMYJZH73RFVM) | [Corps Nucléaire](https://open.spotify.com/album/1w501CXi8HCQdDOXNmrRx7) | 3:33 | 2023-10-12 |  |
 | [Crash](https://open.spotify.com/track/0QAkn0BvBwGqVLlDAHeCFG) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [Monstrueuse](https://open.spotify.com/album/3ncHignlQNL2JTMxYMYz5X) | 3:28 | 2024-01-18 |  |
-| [CRASH <3](https://open.spotify.com/track/3qxpjvGzwjP4b6EDYLaon6) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [CRASH CŒUR](https://open.spotify.com/album/37b90qQXuhhAzmxQlQLWOK) | 2:49 | 2023-11-16 |  |
+| [CRASH <3](https://open.spotify.com/track/3qxpjvGzwjP4b6EDYLaon6) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [CRASH CŒUR](https://open.spotify.com/album/37b90qQXuhhAzmxQlQLWOK) | 2:49 | 2023-11-16 | 2024-02-23 |
 | [Creep \- Reprise](https://open.spotify.com/track/44X6oJ7rCioDz5dhtC4Fjn) | [Jeanne Bonjour](https://open.spotify.com/artist/69RTXNHpm2vfbE6xBVuC4u) | [Nouvelle Ère](https://open.spotify.com/album/5fDeHvOOrCb7iOw7V90OQm) | 2:51 | 2024-01-18 |  |
 | [Creep \- Reprise](https://open.spotify.com/track/5vZtvZGmR9APE5Uthy4A3H) | [Jeanne Bonjour](https://open.spotify.com/artist/69RTXNHpm2vfbE6xBVuC4u) | [Creep \(Reprise\)](https://open.spotify.com/album/0CRmRKpMa7LpbNCkHzgwBD) | 2:51 | 2023-07-27 | 2024-01-10 |
 | [Creep \- Reprise](https://open.spotify.com/track/6R3kzJCQFejaS1XIR7wnbo) | [Jeanne Bonjour](https://open.spotify.com/artist/69RTXNHpm2vfbE6xBVuC4u) | [Creep \(Reprise\)](https://open.spotify.com/album/2Q1hHWosLo5qBPj6oL8bDY) | 2:51 | 2024-01-04 | 2024-01-22 |
@@ -47,6 +47,7 @@
 | [Destin](https://open.spotify.com/track/32sbhu9nAOqDC16fuAIvf6) | [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr) | [Pulsations](https://open.spotify.com/album/5dfL1lSvKW38OgZQaOXIFo) | 3:49 | 2023-11-16 |  |
 | [Destin](https://open.spotify.com/track/7bo2MkmObkPgSVia8fwHcp) | [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr) | [Destin](https://open.spotify.com/album/6Ej58sXtw6h8a1IQ2qZXuf) | 3:49 | 2023-08-31 | 2023-11-19 |
 | [Désert](https://open.spotify.com/track/1I9YflEKKOy6nLpdZ4PFIP) | [Cäroline](https://open.spotify.com/artist/062DVjtaNXTLUIyWyYrfOj) | [Désert](https://open.spotify.com/album/6VkEAixeoVxvFT2otZ2JFb) | 3:22 | 2024-01-04 | 2024-01-26 |
+| [En Tempête](https://open.spotify.com/track/2s3XdMAhUphgMcVsXb7VEk) | [Illa](https://open.spotify.com/artist/0aRBiwxscsF4yfu14Hs55O) | [En Tempête](https://open.spotify.com/album/7sH2SfPz71jhcqFE6N3eWD) | 3:21 | 2024-02-22 |  |
 | [encore + triste](https://open.spotify.com/track/2ppsKRsn8QJAjL5xr17Rcn) | [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [Chansons \(+\) tristes](https://open.spotify.com/album/1lGhHAusdvuwsG81xS7khE) | 2:55 | 2023-07-27 | 2024-01-19 |
 | [Envie de toi](https://open.spotify.com/track/1zbEXE5iszVEJbalOERHTp) | [Charlie Motto](https://open.spotify.com/artist/6zdCsWv5dvlyaJhk0nMmfb) | [Envie de toi](https://open.spotify.com/album/3ZvaIqyBibuSGTINRkeUvM) | 3:00 | 2023-09-28 | 2023-11-25 |
 | [Essence Ivresse](https://open.spotify.com/track/6m5bb0HGuIJMAvnDnh7EGm) | [Abel](https://open.spotify.com/artist/4kitxzTDsGXkCybo2BIUnW) | [Essence Ivresse](https://open.spotify.com/album/0tPxztqibO6KQRaNnN8DNK) | 3:11 | 2024-02-08 |  |
@@ -137,6 +138,7 @@
 | [Tristesse](https://open.spotify.com/track/7duqAqQUm0vYSaXzavXhfn) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [Tristesse](https://open.spotify.com/album/2knIF0Z25bt6E8fYWYhOqJ) | 3:31 | 2023-07-27 | 2023-09-22 |
 | [Trop bonnes](https://open.spotify.com/track/7iK13xTzFJPPigdz62zh7X) | [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [Trop bonnes](https://open.spotify.com/album/7clsSaHNGevHo4oN6OQE95) | 2:32 | 2023-07-27 | 2023-09-08 |
 | [Ultra Chelou](https://open.spotify.com/track/57UBYwVmyJI6vKxU9C5toS) | [Hervé](https://open.spotify.com/artist/3mNXGOPYzxYiGxttEvJ9hx) | [Ultra Chelou](https://open.spotify.com/album/6yREVOqD9UEQb4sR4aZzge) | 2:46 | 2023-10-05 |  |
+| [urgences 911](https://open.spotify.com/track/6oPdINOiUOUMn6InuqFrXa) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [CRASH CŒUR](https://open.spotify.com/album/37b90qQXuhhAzmxQlQLWOK) | 2:57 | 2024-02-22 |  |
 | [Vanves](https://open.spotify.com/track/5y1qlBZufBrTIIFl9BtMQn) | [Distractions](https://open.spotify.com/artist/0tjYp5aomovObVn97GZjIN) | [Vanves](https://open.spotify.com/album/0UQU72tWqIODSrzyZzE6dK) | 3:50 | 2024-01-26 | 2024-02-02 |
 | [Vent violent](https://open.spotify.com/track/08B3fIzo8bmYNlGgeZMzCM) | [Fleur Copin](https://open.spotify.com/artist/7LcMjf96A3Do8qhgjnn8Fy) | [Vent violent](https://open.spotify.com/album/2ZmUpBmqmuRf2Ev6opeojO) | 2:13 | 2023-09-28 | 2023-10-20 |
 | [Vital](https://open.spotify.com/track/6TmFRumBFH5pe47ifSk6xH) | [Tessa Galli](https://open.spotify.com/artist/2gwcCVXHaxheagUuFstHvI) | [Vital](https://open.spotify.com/album/78JSV318gx3LZyLYnbGqqP) | 2:52 | 2023-09-07 | 2023-10-06 |

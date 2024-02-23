@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ME1cOz1QtO.md) - [plain]
 
 > Find the path back to an era of enlightenment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,568 likes - 100 songs - 11 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,620 likes - 100 songs - 11 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ME1cOz1QtO.md) - [plain]
 | 99 | [Lifeforce Celebration](https://open.spotify.com/track/5FI2qrfwNS8Leq5Vo3txcu) | [Emerald Web](https://open.spotify.com/artist/4pXW1cANcBgMaLvVwCfsMe) | [Dragon Wings and Wizard Tales](https://open.spotify.com/album/28yG3trjPCbTDtKbTgm9Pf) | 4:09 |
 | 100 | [Seraphic Borealis](https://open.spotify.com/track/0QGgY7KrzfTcIZRy7D8fGQ) | [Joel Andrews](https://open.spotify.com/artist/0Wowmx0w1IqFPCGYYhLaNT) | [I Am the Center: Private Issue New Age Music in America, 1950\-1990](https://open.spotify.com/album/5J6elnQWSwhzzD6Zo6QZso) | 12:37 |
 
-Snapshot ID: `MCxhZmZmYjFkNmFkM2Q2ZWVjMjA2OGY2YjBmODNjZWIzYmEyYmI3ZWVi`
+Snapshot ID: `MCwyOWI4NTFmMzI5YzMyYzM5YjUwZWU1NTI3MTc1MWQyYmY2ODJlYWIx`

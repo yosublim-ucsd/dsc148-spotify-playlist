@@ -4,7 +4,7 @@
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: southstar
 
-287 songs - 15 hr 24 min
+288 songs - 15 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Glücklich](https://open.spotify.com/track/3z3thFt7kVIkfY9PRdIOcJ) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [Altbau](https://open.spotify.com/album/2qwFhDKCrCy5sYU6lqGC77) | 2:23 | 2022-11-17 | 2023-03-03 |
 | [Gone](https://open.spotify.com/track/2mD8ODdKo0y165EtmfAHqN) | [ELI](https://open.spotify.com/artist/63gbXCha1jpkrJJ9K5gGpR) | [Gone](https://open.spotify.com/album/651CcYUL1asuZzRClUinai) | 2:35 | 2021-12-16 | 2023-07-12 |
 | [good good](https://open.spotify.com/track/4clhJIomittfffOssrsKMh) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [good good](https://open.spotify.com/album/5G2EiAE53X62bW3erdq1lw) | 2:35 | 2023-08-24 | 2023-11-17 |
+| [HAPPY NEVER AFTER](https://open.spotify.com/track/3o3gTvHOGeBqyzS0PtraTH) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [SCARYTALE](https://open.spotify.com/album/1AxVUJ0eJ0lyOzgRYXIP5g) | 3:39 | 2024-02-22 |  |
 | [Haus am See](https://open.spotify.com/track/0ZmJHRMjUaDTjgUvg867Y5) | [Jugglerz](https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY), [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U) | [Haus am See](https://open.spotify.com/album/0oCCOrnBMCeNJ8kJXnUGJe) | 3:17 | 2021-12-16 | 2022-08-12 |
 | [Herz](https://open.spotify.com/track/1Yryu4z1YbCmqkz76J18nb) | [Mathea](https://open.spotify.com/artist/3r5Kc95Oz8lDc8BL9ChO7n) | [Herz](https://open.spotify.com/album/6pvbHjNeuK9qk4MaOU81w6) | 2:20 | 2023-07-27 |  |
 | [Herz Klopft](https://open.spotify.com/track/3S52C6WTpp5kqKvEInZXOu) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS), [Lugatti](https://open.spotify.com/artist/4P5ooDKThRs2cx6MZ7cpFg), [Cato](https://open.spotify.com/artist/5Qa6L42X3G6sXrWvYvxGOc) | [Herz Klopft](https://open.spotify.com/album/0PpvnPnQgnObHVKSUsnGrO) | 2:52 | 2022-07-14 | 2023-03-03 |
@@ -171,7 +172,7 @@
 | [Mirror](https://open.spotify.com/track/3oEE9CTAWGucULUz6q9s7l) | [AVEC](https://open.spotify.com/artist/6N8vbhxZ0CYJHd8WGJ9Snf) | [I Feel Alone These Days](https://open.spotify.com/album/3XUpS6zpdfyYvqLHktRXia) | 4:08 | 2023-07-20 |  |
 | [Mom&Dad](https://open.spotify.com/track/7nk2rwASLMnPTGMTrW0tqa) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Mom&Dad](https://open.spotify.com/album/4XOL1wYfQ0bku2DDaoYMqn) | 3:01 | 2021-12-16 | 2022-07-29 |
 | [Mond](https://open.spotify.com/track/53czFJt0Cz9DGgpyDrO6l1) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Also was jetzt?](https://open.spotify.com/album/0HV0znOFszVIR664Z6vc3k) | 2:40 | 2024-02-08 |  |
-| [MONSTER](https://open.spotify.com/track/1Nrhmk93FjBG8zevcTDSH9) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [MONSTER](https://open.spotify.com/album/3HlASdUxisoWlTgyZX5rKI) | 2:56 | 2024-01-25 |  |
+| [MONSTER](https://open.spotify.com/track/1Nrhmk93FjBG8zevcTDSH9) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [MONSTER](https://open.spotify.com/album/3HlASdUxisoWlTgyZX5rKI) | 2:56 | 2024-01-25 | 2024-02-23 |
 | [Morning Blue](https://open.spotify.com/track/71qr4SoRZ61SKxhH4XhAqP) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Morning Blue](https://open.spotify.com/album/2ewGI2tIH2rBS0j5avcEfG) | 3:37 | 2022-07-14 | 2023-11-10 |
 | [My Wife The Depression](https://open.spotify.com/track/4Izo6qdh1ypa33xz2Ez4Lf) | [AVEC](https://open.spotify.com/artist/6N8vbhxZ0CYJHd8WGJ9Snf) | [My Wife The Depression](https://open.spotify.com/album/6vhpoAT5KHbsE5pxv7Mp9O) | 3:02 | 2021-12-16 | 2022-04-15 |
 | [Nero](https://open.spotify.com/track/1ySWFxPIPHpjA5EsRx39Q7) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Nero](https://open.spotify.com/album/3cBbmX6ACg8NdpVyr2QACS) | 3:02 | 2023-02-23 | 2023-04-21 |

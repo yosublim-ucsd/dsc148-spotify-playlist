@@ -2,9 +2,9 @@
 
 ### [Hot Hits Indonesia](https://open.spotify.com/playlist/37i9dQZF1DXa2EiKmMLhFD)
 
-> Hits terpanas dari Lyodra, Nadhif Basalamah, Henry Moodie serta artis terfavorit Anda dari dalam negeri dan mancanegara.
+> Hits terpanas dari Henry Moodie, Lyodra, Nadhif Basalamah, serta artis terfavorit Anda dari dalam negeri dan mancanegara.
 
-162 songs - 10 hr 10 min
+165 songs - 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,13 +24,13 @@
 | [Bersamamu](https://open.spotify.com/track/2GUp5FWzjfs422g45y16HQ) | [Jaz](https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm) | [Bersamamu](https://open.spotify.com/album/07VKSQaIDc1EoFGIO2YzrU) | 3:40 | 2023-10-23 |  |
 | [Bertahan Terluka](https://open.spotify.com/track/62sancAaHEMwPxBuatzaay) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [ASHER](https://open.spotify.com/album/4km2qQIoGCCevm1Qf51OcE) | 4:00 | 2023-03-23 | 2023-05-20 |
 | [Broken Melodies](https://open.spotify.com/track/5OehhztxLfJeCxUMbFfPy6) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Broken Melodies](https://open.spotify.com/album/54rCRVcg8v1yA9MFCYol8W) | 3:46 | 2023-06-22 | 2023-07-06 |
-| [Bulan Dikekang Malam \- From ''Ayat Ayat Cinta 2''](https://open.spotify.com/track/1fztiHQGVlICM9hI17dCmn) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp) | [Bulan Dikekang Malam \(From ''Ayat Ayat Cinta 2''\)](https://open.spotify.com/album/50mMnTDrXLCCFEE5zzWS69) | 3:54 | 2024-02-08 |  |
+| [Bulan Dikekang Malam \- From ''Ayat Ayat Cinta 2''](https://open.spotify.com/track/1fztiHQGVlICM9hI17dCmn) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp) | [Bulan Dikekang Malam \(From ''Ayat Ayat Cinta 2''\)](https://open.spotify.com/album/50mMnTDrXLCCFEE5zzWS69) | 3:54 | 2024-02-08 | 2024-02-23 |
 | [Bunga Hati](https://open.spotify.com/track/4AfhlJghKIWkXa8sfFEXVd) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [Bunga Hati](https://open.spotify.com/album/4F4XK6lkrHveOTKSGMeGF4) | 2:53 | 2024-01-03 |  |
 | [Car's Outside](https://open.spotify.com/track/0otRX6Z89qKkHkQ9OqJpKt) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 4:08 | 2023-05-12 |  |
 | [Cincin](https://open.spotify.com/track/7J0isBrUxhIYZVdrBOOlIh) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Lagipula Hidup Akan Berakhir](https://open.spotify.com/album/2kgo1jbmAmaANgE8EaIrKX) | 4:26 | 2023-07-20 |  |
 | [Cinderella](https://open.spotify.com/track/3nWlfhNCcDhAxlsHmcggEG) | [Radja](https://open.spotify.com/artist/2f1AZeW1r6TUVLagZaRXO5) | [Langkah Baru](https://open.spotify.com/album/6wms9n1gWJVTXIzXL0SzIR) | 3:32 | 2024-01-25 |  |
 | [Cintamu Sepahit Topi Miring](https://open.spotify.com/track/1ixNEKbIZTTZ5LIz3rr9jD) | [Jogja Hip Hop Foundation](https://open.spotify.com/artist/0Pk4JEXgC64RBmovnQDZ27) | [Semar Mesem Romo Mendem](https://open.spotify.com/album/7nC7NZkREbTAIWuknYkWlP) | 4:54 | 2023-03-23 | 2023-07-06 |
-| [Cintanya Aku](https://open.spotify.com/track/53fKDMfQhWMSw7QKVDOTBP) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm), [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT) | [Cintanya Aku](https://open.spotify.com/album/2qEHRe3bIRZ1DLyYMmnBK4) | 3:54 | 2023-05-25 |  |
+| [Cintanya Aku](https://open.spotify.com/track/53fKDMfQhWMSw7QKVDOTBP) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm), [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT) | [Cintanya Aku](https://open.spotify.com/album/2qEHRe3bIRZ1DLyYMmnBK4) | 3:54 | 2023-05-25 | 2024-02-23 |
 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 | 2023-06-28 |  |
 | [Cupid \- Twin Ver.](https://open.spotify.com/track/3Kw7zkALCVxY4wmlnh2IWC) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/1ZXXEGGhHYgOEzYUjP6bPR) | 2:54 | 2023-03-23 | 2023-04-04 |
 | [Cupid \- Twin Ver.](https://open.spotify.com/track/739WUU1tPFLO4x4HJq561K) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning](https://open.spotify.com/album/5If2zLk3mlHXuhIS7rQF90) | 2:54 | 2023-09-22 | 2023-10-07 |
@@ -43,6 +43,7 @@
 | [drunk text](https://open.spotify.com/track/0KpWiHVmIFDTvai20likX4) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [drunk text](https://open.spotify.com/album/0lcfkucXPJH7zGSHbUXUjZ) | 3:07 | 2024-01-31 |  |
 | [Duka](https://open.spotify.com/track/5MIpcd16T59wFeqAChSYwC) | [Last Child](https://open.spotify.com/artist/1v1khTmozNfxB2ET1Ep288) | [Duka](https://open.spotify.com/album/6RUEyCnpcBsm3uSv08NY8q) | 5:25 | 2023-03-23 | 2024-01-25 |
 | [Dunia Tipu\-Tipu](https://open.spotify.com/track/0mMqopQJOWADJSPRMYkvTF) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Tutur Batin](https://open.spotify.com/album/4ehjkt2KhPomUc7duIqeyD) | 3:38 | 2023-03-23 | 2023-07-17 |
+| [EASY](https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY](https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C) | 2:44 | 2024-02-22 |  |
 | [Ego](https://open.spotify.com/track/5s8W7GGcTubPJHpFOo4Sjf) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG) | [Ego](https://open.spotify.com/album/5PKuRgxDEG48qVxQbD9nL0) | 4:34 | 2023-06-22 | 2023-11-10 |
 | [Evaluasi](https://open.spotify.com/track/2dIBMHByUGcNPzmYBJ6OAj) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Menari Dengan Bayangan](https://open.spotify.com/album/1DAuVHMlBvIjzWZALSUXbn) | 3:14 | 2023-03-23 | 2023-12-22 |
 | [Fall In Love Alone](https://open.spotify.com/track/5xwBIieMMFUmLDgvG4DjFe) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Fall In Love Alone](https://open.spotify.com/album/0ASnNAycI0eu91gMm9Jfe4) | 3:25 | 2023-03-23 | 2023-07-21 |
@@ -116,7 +117,8 @@
 | [River](https://open.spotify.com/track/04CqLjewJiSAqM210vZAmT) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 2:42 | 2023-03-23 | 2023-04-21 |
 | [Rumah Singgah](https://open.spotify.com/track/6raMBnVBIvvUngMLyDdzyP) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [ASHER](https://open.spotify.com/album/4km2qQIoGCCevm1Qf51OcE) | 4:06 | 2023-03-23 | 2023-09-08 |
 | [Runtuh](https://open.spotify.com/track/6Hii26x3qDErVitnGW8QtO) | [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW), [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [Runtuh](https://open.spotify.com/album/5boeKAXsTkdFlm6OnkQxQW) | 3:43 | 2023-03-23 | 2024-01-18 |
-| [Saat Kau Telah Mengerti](https://open.spotify.com/track/22k5lgD5F7Pc7BodEMzDrY) | [Virgoun](https://open.spotify.com/artist/4bAgr9zaF0bpzVGHdHuf0f) | [Saat Kau Telah Mengerti](https://open.spotify.com/album/2KhCqrXaLVeUNuB8FifMJj) | 4:50 | 2023-03-23 |  |
+| [Saat Kau Telah Mengerti](https://open.spotify.com/track/22k5lgD5F7Pc7BodEMzDrY) | [Virgoun](https://open.spotify.com/artist/4bAgr9zaF0bpzVGHdHuf0f) | [Saat Kau Telah Mengerti](https://open.spotify.com/album/2KhCqrXaLVeUNuB8FifMJj) | 4:50 | 2023-03-23 | 2024-02-23 |
+| [SAH](https://open.spotify.com/track/6PGx1glZXYFGVppfHlCQqc) | [Sarah Suhairi](https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh), [Alfie Zumi](https://open.spotify.com/artist/4SkJ6iSvBXWjEzLEY4BmVV) | [SAH](https://open.spotify.com/album/3wa5IjTNnZX7vVVW891IDX) | 3:48 | 2024-02-22 |  |
 | [Sang Dewi](https://open.spotify.com/track/5fDCy4Hse30ZsjaTUGKVh5) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [Sang Dewi](https://open.spotify.com/album/5JO7f6aqA0Tw1vfZuwLr0I) | 4:07 | 2023-03-23 | 2023-06-16 |
 | [Satu\-Satu](https://open.spotify.com/track/3d6BjQ0QOLTzuKoOQbeGgG) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Mengudara](https://open.spotify.com/album/40Yp12B9KULY4j2xbhE1YY) | 4:45 | 2023-08-24 |  |
 | [Selamat \(Selamat Tinggal\)](https://open.spotify.com/track/1mruWrUwAVe2XkksUQiaHK) | [Virgoun](https://open.spotify.com/artist/4bAgr9zaF0bpzVGHdHuf0f), [Audy](https://open.spotify.com/artist/611ajYp7fMbkU5CYF08tje) | [Selamat \(Selamat Tinggal\)](https://open.spotify.com/album/6osB48b3PzrABxdspbyYkd) | 5:13 | 2024-01-25 | 2024-02-21 |
@@ -127,6 +129,7 @@
 | [Serana](https://open.spotify.com/track/0PtJbtW50jcvvswNPn3QGd) | [For Revenge](https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1) | [Perayaan Patah Hati \- Babak 1](https://open.spotify.com/album/6E4sl58YgjMqfUBNGOfAUa) | 4:10 | 2023-06-15 |  |
 | [Set Fire to the Rain](https://open.spotify.com/track/73CMRj62VK8nUS4ezD2wvi) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) | 4:02 | 2024-02-20 |  |
 | [Seven \(feat\. Latto\) \(Explicit Ver.\)](https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Seven \(feat\. Latto\)](https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX) | 3:04 | 2023-07-16 | 2024-01-04 |
+| [Shopper](https://open.spotify.com/track/1c6kkrWnpy68eYDfBdxNtF) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [The Winning](https://open.spotify.com/album/08CvAj58nVMpq1Nw7T6maj) | 3:35 | 2024-02-22 |  |
 | [Sial](https://open.spotify.com/track/6O0WEM0QNEhqpU50BKui7o) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [fábula](https://open.spotify.com/album/1vva4fJyjXaJ2RDsGmIbCv) | 4:03 | 2023-09-22 | 2024-02-16 |
 | [Sial](https://open.spotify.com/track/6dXiWwFrcGieqnoLYzPNp5) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [fábula](https://open.spotify.com/album/6iBh7T1cUR8MPrtly5xugU) | 4:03 | 2023-03-23 | 2023-10-01 |
 | [Sisa Rasa](https://open.spotify.com/track/6pmo9ha8iOPZc5lxPU9o8w) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [Sisa Rasa](https://open.spotify.com/album/1HWELX1pBJxEArEKKoepuJ) | 4:14 | 2023-03-23 | 2023-08-25 |

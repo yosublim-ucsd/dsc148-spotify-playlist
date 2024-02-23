@@ -4,7 +4,7 @@
 
 > The biggest Japanese rock hits right now\.  Cover: Age Factory　日本ロックシーンの最新話題曲をひとつのプレイリストに。
 
-1,312 songs - 3 day 10 hr 12 min
+1,313 songs - 3 day 10 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [APART](https://open.spotify.com/track/7zzaYtfY8m5LGWMhrV5jJW) | [YAJICO GIRL](https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4) | [APART](https://open.spotify.com/album/4bCqpGMScqjIAYFiTkG7qC) | 3:16 | 2023-11-28 | 2024-01-10 |
 | [Arata](https://open.spotify.com/track/3ZFecqJOj1yaSbOd9KMSb0) | [androp](https://open.spotify.com/artist/7n437ZdDaCzqjJDJ7WmbyX) | [Arata](https://open.spotify.com/album/3Ta6Y0SF6FiKZjZGZW77xQ) | 3:28 | 2023-07-04 | 2023-08-02 |
 | [Asayake no Mukou](https://open.spotify.com/track/2VjtLskTqFS32qhiuSJGZu) | [Ryota Fujimaki](https://open.spotify.com/artist/7r3FkquAY1tv1roZs3unJ1) | [Asayake no Mukou](https://open.spotify.com/album/3GurbiI6aWgptNIkGKJ9Xs) | 5:25 | 2023-02-28 | 2023-04-05 |
-| [Ashen](https://open.spotify.com/track/2dbM1j1plZaxNeRGGvyy66) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [Ashen](https://open.spotify.com/album/4sI4AogOQTRzDa8zyuZyV0) | 4:03 | 2023-11-30 |  |
+| [Ashen](https://open.spotify.com/track/2dbM1j1plZaxNeRGGvyy66) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [Ashen](https://open.spotify.com/album/4sI4AogOQTRzDa8zyuZyV0) | 4:03 | 2023-11-30 | 2024-02-23 |
 | [Ashes](https://open.spotify.com/track/2hWYqb2PHlUZKXOdK2rfFA) | [Superfly](https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ) | [Ashes](https://open.spotify.com/album/3UZBxSPfJQumL14kCOzJJo) | 3:20 | 2023-11-07 | 2024-01-17 |
 | [B.O.Y.](https://open.spotify.com/track/33UTmYJPlpkPFsKr29NI6K) | [Ivy to Fraudulent Game](https://open.spotify.com/artist/4tfU4ctKJhrv0PJmSzMlJX) | [B.O.Y.](https://open.spotify.com/album/5RJM7phpmtJ3dip8rA4cHK) | 4:02 | 2023-02-14 | 2023-02-22 |
 | [baby blue eyes](https://open.spotify.com/track/1ZH8xfse7AimYhri5u29ew) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [baby blue eyes](https://open.spotify.com/album/1GGa1VAV3dcPJRCIT7Y8ue) | 3:11 | 2023-08-22 | 2023-09-20 |
@@ -1264,6 +1264,7 @@
 | [花降る空に不滅の歌を](https://open.spotify.com/track/4RX9IHe9Znm9lcVm5RZuEl) | [a flood of circle](https://open.spotify.com/artist/1BydOOxI2QltpphEOkKHgl) | [花降る空に不滅の歌を](https://open.spotify.com/album/1bOVFJ5wymIcHswxz8saYM) | 4:24 | 2023-02-14 | 2023-03-08 |
 | [虹](https://open.spotify.com/track/6h5IGzVINoWx0CGmN7hxmG) | [Huwie Ishizaki](https://open.spotify.com/artist/4NZJF1Qong0IAWBRE2EjTr) | [虹](https://open.spotify.com/album/1NyltwVd2b4qnY2lrbkpN1) | 3:31 | 2023-07-18 | 2023-08-30 |
 | [蛍](https://open.spotify.com/track/2U93Qos9BlyUeGU68SRAF7) | [Kiro Akiyama](https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty) | [蛍](https://open.spotify.com/album/6nHk2AOBDEv4KNDfbQCPgS) | 4:00 | 2023-07-25 | 2023-09-20 |
+| [蛙鳴蝉噪](https://open.spotify.com/track/4sbq65yZWMkbcUfzojugjN) | [THE 2](https://open.spotify.com/artist/668YZEv91Ux6vBKFwc3NLk) | [THE 2](https://open.spotify.com/album/6FNVQB1fabfMCDvKaUuHaM) | 4:04 | 2024-02-22 |  |
 | [蜃気楼](https://open.spotify.com/track/2K2fKGu0wJuByM2dTBTUsr) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [蜃気楼](https://open.spotify.com/album/6Jhc9KCqAkl1NqFhQ1dORC) | 3:10 | 2023-10-31 | 2023-12-01 |
 | [衛星の夜](https://open.spotify.com/track/5zcga5dxLXanH6GhuOkZ7U) | [ZOOKARADERU](https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp) | [衛星の夜 / 秘密](https://open.spotify.com/album/5fqK00Cgh8EjVSTILXrZB3) | 3:12 | 2023-10-24 | 2023-10-26 |
 | [裏終電・敵前逃亡同盟](https://open.spotify.com/track/3YXDOt61f3Eb6gNR4hJGDe) | [Qujila Yoluno Machi](https://open.spotify.com/artist/3hdtbNgPSlPKcE082xdCMq) | [裏終電・敵前逃亡同盟](https://open.spotify.com/album/12ABFWVcX8WNZ1MWhV5Z5M) | 3:27 | 2023-09-20 | 2023-09-21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0U9tAmY58zt.md) - [plain]
 
 > Todos los artistas del Corona Capital en una sola playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,762 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,769 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0U9tAmY58zt.md) - [plain]
 | 99 | [Wake Me up When September Ends](https://open.spotify.com/track/3ZffCQKLFLUvYM59XKLbVm) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot](https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke) | 4:45 |
 | 100 | [Where Is My Mind? \- Remastered](https://open.spotify.com/track/7wCmS9TTVUcIhRalDYFgPy) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Surfer Rosa](https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9) | 3:54 |
 
-Snapshot ID: `MCxmYWUxNGU0OWVhMDJkZDJmOTBlNGQ1NjVlMmFhNjk5NDQyOTc1NmMx`
+Snapshot ID: `MCw4Y2Q2ZmRlZWJiZjFhN2E2NzhjNGQ1MjE0YjlmNzVhZTFhNWIzYTJk`

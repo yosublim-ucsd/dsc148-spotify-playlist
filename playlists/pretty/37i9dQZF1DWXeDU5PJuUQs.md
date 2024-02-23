@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 
 > Unas buenas cumbias con el calor de la gente! <br/>Foto: Ke Personajes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,377 likes - 64 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,447 likes - 64 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 | 63 | [Mujer Cósmica \- En Vivo](https://open.spotify.com/track/6NxgReEqcqHa7JnuQmKkLc) | [Siete Lunas](https://open.spotify.com/artist/3OrjkcpKAlJClVOopBZicQ) | [En Vivo en Metropolis](https://open.spotify.com/album/4oHlEryOif4ltmbrpzj7EO) | 3:59 |
 | 64 | [Ahora Que Te Vas / El Mismo Aire / a Puro Dolor \- En Vivo](https://open.spotify.com/track/5q17HklaySch2Jg73dYgto) | [La Piedra Urbana](https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt) | [Ahora Que Te Vas / El Mismo Aire / a Puro Dolor \(En Vivo\)](https://open.spotify.com/album/5icndhv8kYRghjcp9avKq2) | 5:28 |
 
-Snapshot ID: `MCxjZjMwYTVhZTZhMzVlY2I5OWNjZmE2ZTAwYjg5OTRhNWQyYzQ4ZTg0`
+Snapshot ID: `MCxkMmRjOGM3NTc3MWMxZTAyMTczMDc0ODViZThjN2UzNmYzMTljYjYx`

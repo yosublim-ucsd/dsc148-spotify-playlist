@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUY9O5yRihK.md) - [plain]
 
 > Bossa nova vibes for the hopeless romantic daydreamers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,105 likes - 74 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,248 likes - 74 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUY9O5yRihK.md) - [plain]
 | 73 | [Seaside Adventures](https://open.spotify.com/track/5deQ46BnmgeUzCeuFfVINX) | [tiffi](https://open.spotify.com/artist/4bQCZKbtYa0W0hzA7JrpC4), [City Girl](https://open.spotify.com/artist/6yby1ACnfwVigbSSaH3kEQ) | [Seaside Adventures](https://open.spotify.com/album/5JzjozUauQCTyWdXoH201b) | 2:47 |
 | 74 | [When I Look Into Your Eyes](https://open.spotify.com/track/6h0zYPs9wEj3ydlgwpibSL) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c), [Lanie](https://open.spotify.com/artist/1qUDBm1ALFrHogBczA8KIF) | [When I Look Into Your Eyes](https://open.spotify.com/album/6wT9XMbBpXNZTkXGatvKiV) | 2:30 |
 
-Snapshot ID: `MCw3ODNkNGRjZjY4MTUyZmFkN2Q3MzM5OWMzMTM4NGZjYTU3OTVmZjRj`
+Snapshot ID: `MCwxOTc4ZWRlMGU2MTdhNjczNWY1ZmI1NmEzMWNjZjNlZWNiZTUxMTBl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XuzoFe1VZC.md) - [plain]
 
 > ¡Una inyección de alegría para tus mañanas!
 
-[Spotify](https://open.spotify.com/user/spotify) - 471,959 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 472,016 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XuzoFe1VZC.md) - [plain]
 | 99 | [Bota Niña](https://open.spotify.com/track/2EbRFerXy6IPM3EfAOqZkB) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Bota Niña](https://open.spotify.com/album/3RCMoOMrcSNTHKPVDQRERR) | 3:29 |
 | 100 | [TU Y YO](https://open.spotify.com/track/00THZGfbizNvMUkJsQs74K) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [TU Y YO](https://open.spotify.com/album/6fP9gXEDhdBaWz6E08kqRr) | 3:12 |
 
-Snapshot ID: `MCwyN2E2ODBiZmRlOGJiZWRmODUxZmQ2OTNhNzFjYjg1ZDVmMThiMmJj`
+Snapshot ID: `MCwzNDcxOGFhNjViNDdjY2EyMWY5YTgwMmRkOWNlNTY5OWFiZWE2NGU2`

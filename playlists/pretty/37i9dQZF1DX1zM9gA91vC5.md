@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zM9gA91vC5.md) - [plain]
 
 > Concentração no máximo, sem distrações.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,023 likes - 250 songs - 10 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,028 likes - 250 songs - 10 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zM9gA91vC5.md) - [plain]
 | 249 | [Duomo di Milano](https://open.spotify.com/track/3mffU0czrRPDpfUeul2EcJ) | [Akiko Mina](https://open.spotify.com/artist/2wqjgcSh9MHmBAYXcR1tWn) | [Duomo di Milano](https://open.spotify.com/album/2aKUCrS9jMnOwTVINklBpY) | 3:07 |
 | 250 | [Never Unsaid](https://open.spotify.com/track/1zG58ldyABiNx05Brxkktd) | [Aleisha Millar](https://open.spotify.com/artist/2a2JENyvbHLDEeMCbAKjl4) | [Never Unsaid](https://open.spotify.com/album/0Nfqe5WLzyIhIULRpci5sP) | 2:17 |
 
-Snapshot ID: `MCw3YzhkZmMzZGIzNzE0ZDcyMTU0NjVmODQ4MjQ4YWJmOGJkYzViZjVm`
+Snapshot ID: `MCxlYjA2Y2I0ZTI1MDdhYTQ3NzMxYWM4NGI4YjYxNzdlODJlMDc4MjM5`

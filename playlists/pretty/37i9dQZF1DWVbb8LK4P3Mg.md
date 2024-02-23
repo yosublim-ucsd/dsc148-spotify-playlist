@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 
 > Enjoy the wonderful holiday season with K\-Pop! Here's a collection of Korean Christmas tunes by K\-Pop artists\. \(Cover: NCT 127\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,766 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,733 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 | 99 | [White Christmas](https://open.spotify.com/track/7fBkbMzxZ4XQvCrLRVuR6O) | [LeeBoram \(seeya\)](https://open.spotify.com/artist/1ZMb9j2ssGDvUY2ZcwWijW), [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm), [Baekyebin](https://open.spotify.com/artist/12Uoy7i814uNVhoCaz6pQW) | [White Christmas](https://open.spotify.com/album/2zxcBkQRkiHohhsc3yLJCR) | 3:47 |
 | 100 | [Falling](https://open.spotify.com/track/0KFQoeuppOmhNDcJzoqZyr) | [Seo In Guk](https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1), [VIXX](https://open.spotify.com/artist/5BkB3rXc0qIdUtuEnhbK0A), [gugudan](https://open.spotify.com/artist/0h7XZWgoxlY49uSUj7MVRY), [Park Yunha](https://open.spotify.com/artist/34nTe3ixEmbYyzsiLJeEUq), [Park JungA](https://open.spotify.com/artist/4aqjsIDcJwUVjq9vQbjlll), [Kim Gyu Sun](https://open.spotify.com/artist/1HvRGOiUGvQUxCLwgcx4O8), [Kim Ye\-Won](https://open.spotify.com/artist/5W20UGfzUOyZyAnq5VAuqJ), [Ji Yul](https://open.spotify.com/artist/67N0u1LXlfqz51c7a78qPm) | [Jelly Box Jelly Christmas 2016](https://open.spotify.com/album/5c4RIUO2CA2P0gUopDP3na) | 4:09 |
 
-Snapshot ID: `MCw1MmNkYTAxZDVhMjUxNGFhMThiMWI2NDhjN2I4Yjk1NGUxYTJhOGEx`
+Snapshot ID: `MCxkYmE2ZTY2OWE3YTdhY2MwMjVhOTBmNmYzOTlhNWJlOWM0NjY0MmM0`

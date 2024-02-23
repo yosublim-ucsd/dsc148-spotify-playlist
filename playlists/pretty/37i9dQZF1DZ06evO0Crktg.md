@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Crktg.md) - [plain]
 
 > This is Jelly Roll\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,489 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,706 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Crktg.md) - [plain]
 | 29 | [Sober](https://open.spotify.com/track/0fYEckNsTfncGvfwafcsEx) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Ballads of the Broken](https://open.spotify.com/album/4HNIAKT3412itayEYv2BxL) | 2:36 |
 | 30 | [Vows \(feat\. Jelly Roll\)](https://open.spotify.com/track/01CPKpskTCzekQrlkqZtjS) | [Upchurch](https://open.spotify.com/artist/2pSObt5Fk8izuX8ZfI3jRn), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [People's Champ](https://open.spotify.com/album/05nUDymtjkkya5l7gtyznT) | 3:51 |
 | 31 | [Life](https://open.spotify.com/track/1fnHcFqvzsTtXNDnm1rVf9) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Brix](https://open.spotify.com/artist/4LsrAQY9ShOYMMZEhZ2tN2) | [A Beautiful Disaster](https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ) | 4:14 |
-| 32 | [Twisted](https://open.spotify.com/track/7pM0OKRVs6jXBqRGu81mxD) | [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Twisted](https://open.spotify.com/album/1nIH0JZfg67in1Y7kt8WMH) | 3:22 |
-| 33 | [Dance With Ghosts](https://open.spotify.com/track/0BnkfcPXRPqxiqk593hnD9) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Self Medicated](https://open.spotify.com/album/5LtYMFZoC0elRSipbMV5sw) | 2:41 |
+| 32 | [Dance With Ghosts](https://open.spotify.com/track/0BnkfcPXRPqxiqk593hnD9) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Self Medicated](https://open.spotify.com/album/5LtYMFZoC0elRSipbMV5sw) | 2:41 |
+| 33 | [Twisted](https://open.spotify.com/track/7pM0OKRVs6jXBqRGu81mxD) | [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Twisted](https://open.spotify.com/album/1nIH0JZfg67in1Y7kt8WMH) | 3:22 |
 | 34 | [Love the Heartless](https://open.spotify.com/track/6VvtZ4ZBiwsUdREsAR0tY6) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Crosses and Crossroads](https://open.spotify.com/album/5n9eRSSDsuEa7MR99P4MwX) | 3:20 |
 | 35 | [Blame Us \(feat\. Merkules & Jelly Roll\)](https://open.spotify.com/track/1Z0rdmLAw7VJ9WCIT3TkiC) | [Upchurch](https://open.spotify.com/artist/2pSObt5Fk8izuX8ZfI3jRn), [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Mud to Gold](https://open.spotify.com/album/2C9n12izeGNvEJ0FlSUTxX) | 3:31 |
 | 36 | [Almost Home](https://open.spotify.com/track/6IsnHsAA1kUOxASB9ynaOl) | [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Enlisted](https://open.spotify.com/album/5aEnEDTGJInHwBfuOLyyed) | 4:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Crktg.md) - [plain]
 | 49 | [Kamikaze](https://open.spotify.com/track/3aohNUmAixSr12gJxaR2wE) | [Benny Holiday](https://open.spotify.com/artist/4YMAnaqA8h3Djt7Z5SPgbL), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [C\-Lance](https://open.spotify.com/artist/2O2cQN5ayTOwS8WdiMAjWA) | [Kamikaze](https://open.spotify.com/album/38Xgxs0gyMoxftBuTrV83I) | 2:35 |
 | 50 | [Double Crown](https://open.spotify.com/track/7CxWLI6FDroqte3DbucNx9) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Crosses and Crossroads](https://open.spotify.com/album/5n9eRSSDsuEa7MR99P4MwX) | 2:57 |
 
-Snapshot ID: `Mjg0NzUyOTEsMDAwMDAwMDA4YzBiMGE4OGZiZTU5NTZkODkzZTZmYzFhNzI3ZTIwYg==`
+Snapshot ID: `Mjg0NzcwNzYsMDAwMDAwMDA2YjA4ODg5ZGVhOTYxMDQwM2ZkNWZmMmYxZDNiOTA5Nw==`

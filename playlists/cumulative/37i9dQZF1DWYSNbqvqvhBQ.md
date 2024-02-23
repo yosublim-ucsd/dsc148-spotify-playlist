@@ -2,9 +2,9 @@
 
 ### [Stay Tuned!](https://open.spotify.com/playlist/37i9dQZF1DWYSNbqvqvhBQ)
 
-> Luister naar nieuwe songs en hits van dit moment! Cover: Stephen Sanchez
+> Luister naar nieuwe songs en hits van dit moment! Cover: Ilse DeLange
 
-362 songs - 21 hr 0 min
+367 songs - 21 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [90s Kid](https://open.spotify.com/track/3JgcOUpDmbU5lguxvxKfKG) | [DI\-RECT](https://open.spotify.com/artist/0d1nFNO90pwRmCeeqjOx2Q) | [90s Kid](https://open.spotify.com/album/1THYYuaXwWyZsdgybQ6bCD) | 3:19 | 2023-02-23 | 2023-03-10 |
 | [A Fool](https://open.spotify.com/track/0yup5kApYOD1UANw4hgJrt) | [Melle](https://open.spotify.com/artist/0tNutPAfpYEeY6YEzwIXQp) | [A Fool](https://open.spotify.com/album/6Avdb3Kzzi5byUmnACETXh) | 3:32 | 2023-04-06 | 2023-10-06 |
 | [a little more time](https://open.spotify.com/track/5UhZyWfrSEhGYfIIFNYscF) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [a little more time](https://open.spotify.com/album/7GRsfBAEdhJTdcwoqTXedi) | 3:30 | 2023-02-23 | 2023-07-15 |
+| [A Symptom Of Being Human](https://open.spotify.com/track/7xOB82ELg70RoIM3mMTkt4) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Planet Zero](https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw) | 4:08 | 2024-02-22 |  |
 | [A Year Ago](https://open.spotify.com/track/3DBJE1Zndql25OGUQSv7aD) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [A Year Ago](https://open.spotify.com/album/4mXHsCQ4aRccewmcKUxIBJ) | 2:50 | 2023-05-11 | 2023-10-28 |
 | [All I Ever Wanted](https://open.spotify.com/track/6vcuJ0lxMSbIZDToFEfyFI) | [St\. Solaire](https://open.spotify.com/artist/5QsBtdXbeZMaAjXd7GBPL8) | [All I Ever Wanted](https://open.spotify.com/album/4rQWKrHV9WQL9igdrcpwDT) | 4:18 | 2023-02-23 | 2023-03-25 |
 | [All My Broken Pieces](https://open.spotify.com/track/4VmFqEEqbLReGKJQhDl9c0) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [All My Broken Pieces](https://open.spotify.com/album/4sbMRC8gsLRdloSLdNlwif) | 4:02 | 2023-10-27 |  |
@@ -38,7 +39,9 @@
 | [Ballad Of Easy Rider](https://open.spotify.com/track/5Nn8SPmzJUV3xUZFBdFjcV) | [Mell & Vintage Future](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Ballad Of Easy Rider](https://open.spotify.com/album/0QQxEoiKi7sgUjlAzjTQCS) | 2:05 | 2023-02-23 | 2023-06-09 |
 | [Be More](https://open.spotify.com/track/4bp4kwe29qY9PBdrEgSa53) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Be More](https://open.spotify.com/album/3td8YUGhx5odYjMPV7HPNF) | 3:51 | 2023-08-17 | 2024-01-26 |
 | [Before The Storm](https://open.spotify.com/track/3Rul7xOVvLysGVak1Qu9N8) | [Bertolf](https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty), [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Before The Storm](https://open.spotify.com/album/1ketSreRN3Qq5OTzgqPOcP) | 3:11 | 2023-06-22 | 2023-12-08 |
+| [Before You Leave Me](https://open.spotify.com/track/7qoxdajngC0j9VXrcnephA) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Before You Leave Me](https://open.spotify.com/album/5RFlSbyzgtiMtN7IzqLOhz) | 2:56 | 2024-02-22 |  |
 | [Believer](https://open.spotify.com/track/4QthYp34wrGAPQEvbz9QNS) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Believer](https://open.spotify.com/album/0h77eG0HVYZ2ki4T9qIHou) | 4:23 | 2023-02-23 | 2023-04-29 |
+| [Belong Together](https://open.spotify.com/track/4JGtRHnWyaNq7FIOZoBdPe) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Belong Together](https://open.spotify.com/album/1RaDxuGnsIuuGR3lHukOPI) | 2:28 | 2024-02-22 |  |
 | [Best Damn Day](https://open.spotify.com/track/0MgfP0e6VkyQXSvjfNZ7bM) | [The Jordan](https://open.spotify.com/artist/7uV6WztwBfEmbGrVPANEaW) | [Best Damn Day](https://open.spotify.com/album/2a1m48rQO8BWkeIApM0Iu5) | 3:12 | 2023-02-23 | 2023-03-03 |
 | [Better Man](https://open.spotify.com/track/7qqOrc0Uvpvl5NvoAPRGLE) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [Better Man](https://open.spotify.com/album/1hfIWkFQJnxCtCTWshLEX7) | 3:12 | 2023-05-18 | 2023-10-06 |
 | [Beyond The Stars](https://open.spotify.com/track/1oMJ4dfdZAfxO9krc2k9Af) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Beyond The Stars](https://open.spotify.com/album/1gRLZwKYbYT6WRsnJGJceq) | 3:33 | 2023-09-21 |  |
@@ -297,6 +300,7 @@
 | [Survivor](https://open.spotify.com/track/6km2lJaj6prmDlrPnYQPzH) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Survivor](https://open.spotify.com/album/1SZfmTvRqaMEK8xS2sLcU1) | 3:10 | 2024-01-29 |  |
 | [Sweet Sounds Of Heaven \(feat\. Lady Gaga\)](https://open.spotify.com/track/5YW7oSt4jHBO7yE9XER2Be) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Sweet Sounds Of Heaven](https://open.spotify.com/album/6E4RZkGvHiOp41XvdpiWaK) | 7:22 | 2023-09-29 |  |
 | [Symphony](https://open.spotify.com/track/2ThaHV10xrAcL2WfqXyLnp) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Mercury \- Acts 1 & 2](https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS) | 2:55 | 2023-02-23 | 2023-08-12 |
+| [Tainted](https://open.spotify.com/track/1KY71U9JNydW5ZxvUgemc2) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Tainted](https://open.spotify.com/album/2xacv88eGjNUhLTFj4C8w5) | 3:01 | 2024-02-22 |  |
 | [Take A Ride](https://open.spotify.com/track/5lv9ngCtTMuXD6FtEzTGzN) | [Sam Saxton](https://open.spotify.com/artist/3Xbb6InMR77LO6hrWU1I04) | [Take A Ride](https://open.spotify.com/album/05FmZGsA5g6HqHBPU3CW9Q) | 3:33 | 2023-02-23 | 2023-03-18 |
 | [Take My Heart](https://open.spotify.com/track/7i6ba4Pz9c6i0TnDKUmI7F) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Take My Heart](https://open.spotify.com/album/1AqN9WyeYYPPLEvclp2xlI) | 4:18 | 2023-03-30 | 2023-06-20 |
 | [Take My Heart](https://open.spotify.com/track/7vS9rpDGP8Z75CbrlseYlu) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [The Winding Way](https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH) | 4:18 | 2023-06-08 | 2023-10-28 |
@@ -348,6 +352,7 @@
 | [We doen wat we kunnen \(feat\. Geike\) \- Single Edit](https://open.spotify.com/track/5Bzuagyvt3iOyI7CgNTj9x) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB), [Geike](https://open.spotify.com/artist/5mkzx9Hq5mYTx1LZ0CUGiP) | [We doen wat we kunnen \(feat\. Geike\)](https://open.spotify.com/album/6OFRhULTO9UJf1yk7v9XfZ) | 4:00 | 2023-02-23 | 2023-03-18 |
 | [We Were Never Really Friends](https://open.spotify.com/track/2QZzngN7hEFac2yC6zxOGy) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [Columbo](https://open.spotify.com/album/77ecNwHIYZfoOSgQ1FMSAS) | 3:24 | 2023-08-31 | 2023-10-13 |
 | [We Were Never Really Friends](https://open.spotify.com/track/3oUam1JxcuLVFKaAr5MWnN) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [We Were Never Really Friends](https://open.spotify.com/album/2S7z1CuntMrp5YhDvVRQA9) | 3:24 | 2023-05-09 | 2023-09-02 |
+| [Weak In The Knees](https://open.spotify.com/track/4iVzeNvV42xwtm4bvKJ2Iu) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7) | [Weak In The Knees](https://open.spotify.com/album/50dhdw314flh7k7IKBDP9p) | 3:06 | 2024-02-22 |  |
 | [Weak In The Knees](https://open.spotify.com/track/7zTQERSGQl9Xnh58ocvOQa) | [Wulf](https://open.spotify.com/artist/134sCDSe1w2zPnfCG4hT0f), [Cara Melín](https://open.spotify.com/artist/4jPA6KrvGWwAnWwCAo3gk8) | [Weak In The Knees](https://open.spotify.com/album/2gei2GiI0zjYuVQOaBDgUJ) | 3:02 | 2023-02-23 | 2023-03-10 |
 | [Weightless](https://open.spotify.com/track/4syzriQO4gEZR61pU5FBFd) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Weightless](https://open.spotify.com/album/6XscVw482npx8U4x0aXXyp) | 4:02 | 2023-02-23 | 2023-06-09 |
 | [What Am I Gonna Do](https://open.spotify.com/track/4DYVmGdpglpFoq1YyawFCl) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Higher](https://open.spotify.com/album/6kcZ35GY84A3FBIcIKVqTW) | 3:01 | 2023-11-09 |  |

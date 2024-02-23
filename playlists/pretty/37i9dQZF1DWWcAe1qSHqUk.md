@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcAe1qSHqUk.md) - [plain]
 
 > 爵士就是一個聲音的紳士，有歌聲動人、有演奏優雅，旋律美妙之餘還濃濃情意！
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,160 likes - 75 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,161 likes - 75 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcAe1qSHqUk.md) - [plain]
 | 74 | [Deep in a Dream](https://open.spotify.com/track/16gccT3MmOuVrTPdBGJCBv) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [My Funny Valentine: The Chet Baker Songbook](https://open.spotify.com/album/2CtTsLssbJvp8iORyGOkwB) | 4:05 |
 | 75 | [I Wish You Love](https://open.spotify.com/track/5Uc0WlK2e5B5NYvS72fCHp) | [Ann Sally](https://open.spotify.com/artist/1g9zG323vBvafWMplgUEQx) | [Voices Of Love](https://open.spotify.com/album/3vyGVRUQaAS4g2ztBZX9t9) | 4:18 |
 
-Snapshot ID: `MCw1ODlkMDIwZTA0MWRhYTI2NDU2MTdkNzFlNWUwMjc1OWNhOTI5NTkz`
+Snapshot ID: `MCwwYWMxYjFhYjQ4MDlkMmJhZjE0ZDRmY2Y1NDA5OGVlNTI4MjQ0NWVh`

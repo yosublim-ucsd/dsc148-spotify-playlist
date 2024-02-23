@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXrKtH3fzUd.md) - [plain]
 
 > Automatic floorfillers\. A DJ's best friend\. Cover: Daft Punk
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,314 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,397 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXrKtH3fzUd.md) - [plain]
 | 99 | [Chicken Fried](https://open.spotify.com/track/0LQtEJt7x0s6knb6RKdRYc) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Foundation](https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT) | 3:58 |
 | 100 | [Wonderwall \- Remastered](https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Remastered Edition\)](https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4) | 4:18 |
 
-Snapshot ID: `MCxjZWE1YmM5OTk0NDhiNWM3MDcwYWMwMzY0NmYyOTAyMzIwM2EwNmYy`
+Snapshot ID: `MCwwZTJiZjg3ZTQ1ZTBkZjVmNjQwNmUzOWJmMzk4ZmY2NzQ5NzNjNDc3`

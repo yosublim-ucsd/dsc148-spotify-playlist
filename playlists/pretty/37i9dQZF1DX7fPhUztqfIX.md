@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 
 > Emerging sounds in worship from everywhere.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,102 likes - 130 songs - 11 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,170 likes - 130 songs - 11 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 | 129 | [Your Name \- Live](https://open.spotify.com/track/6EBl99aH0CywyEmWqje7pW) | [LIFE Worship](https://open.spotify.com/artist/1ORYkhkN6flHlDSkWVsk4d) | [Your Name \(Live\)](https://open.spotify.com/album/3gtzVT6Ai7m4pxfdv1KnjG) | 6:25 |
 | 130 | [The Blessing \(feat\. Maranda Curtis\) \- Song Session](https://open.spotify.com/track/0bicWqcGF8HXaaBB1HqnxR) | [Melvin Crispell III](https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK), [Essential Worship](https://open.spotify.com/artist/5ovBCDCRU118CMxJ1KpAOw), [Maranda Curtis](https://open.spotify.com/artist/28BlrKFyTd2woqU7ai8502) | [The Blessing \(feat\. Maranda Curtis\) \[Song Session\]](https://open.spotify.com/album/6AEDBghw44SvpsiMjDctNo) | 6:49 |
 
-Snapshot ID: `MCw0OTNmOWJkYWE3ZjYwZWI2MTAyZTQ3MTAxNjNmZmViZjUyMzdhYjk3`
+Snapshot ID: `MCw5MmMyMmRiNThhOWRjMWNiYWNjMTY3ZGQxYTQyOGFmOGE1NjhiNDE0`

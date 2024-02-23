@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Benny The Butcher
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,602,451 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,602,459 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 49 | [No Yeast \(feat\. Boldy James & Westside Gunn\) \- Remix](https://open.spotify.com/track/3g94P2bRVtVe1GqJnYOoV1) | [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [No Yeast \(Remix\) \[feat\. Boldy James & Westside Gunn\]](https://open.spotify.com/album/1cTjjDQu00jgCLmSQLNF4G) | 3:47 |
 | 50 | [Guapanese](https://open.spotify.com/track/40pwSWsizZ5xUSVJMqoYOA) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [The Patience](https://open.spotify.com/album/1R7oXtXCQEI7GDujxImL87) | 2:24 |
 
-Snapshot ID: `MCxhNjkzZjY1NmRhMGQxOWZhYTYzYmU0NmUxN2VlYWZjOWJkNDFlNWQ3`
+Snapshot ID: `MCxkMjY3YzRlMzMxYjEwYWVjM2E2ZTg4ZTI4ZTdjNDc1ZGJjN2U3Yzlm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcjpPPxCzYRE.md) - [plain]
 
 > Música tranquila para evadirse.
 
-[Spotify](https://open.spotify.com/user/spotify) - 394,151 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 394,281 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcjpPPxCzYRE.md) - [plain]
 | 99 | [Moving in Slow Motion](https://open.spotify.com/track/1JzJFYOlNFISoz28z5t20x) | [The Sweet Remains](https://open.spotify.com/artist/35HoDSeQMKnwC1f4sng0eK) | [Laurel & Sunset](https://open.spotify.com/album/6HjqPv1wOvpoPzyINKwTf4) | 3:57 |
 | 100 | [una luz](https://open.spotify.com/track/0zd0kuNdqeLgxuFm5SLYxH) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [Verano, por siempre](https://open.spotify.com/album/5ix1sSSCWiQf8hZKaiV0Tc) | 2:56 |
 
-Snapshot ID: `MCw1YjJkMzI2NzBkMTU5ZjMzMjk5MDAzNzFlZDNiOTI1MTZhODdiY2Qz`
+Snapshot ID: `MCw0ODExNGVjZTJmMjA5MzhiYTE1YWY0NGM4ZDgyMzNjZTNjYTAzNzJk`

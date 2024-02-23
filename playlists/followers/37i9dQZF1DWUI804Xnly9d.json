@@ -1,5 +1,5 @@
 {
-  "2024-02-22": 130788,
+  "2024-02-23": 130811,
   "date_first_scraped": "2023-05-19",
   "description": "Magic of acoustic poured into your Chai. Cover - Anuv Jain",
   "name": "Chai & Acoustic",
@@ -1855,6 +1855,28 @@
       "duration_ms": 283984,
       "name": "Ik Daffa",
       "url": "https://open.spotify.com/track/0p81CX3O1kwWvVE2NkHDsp"
+    },
+    {
+      "album": {
+        "name": "Ik Tarfa",
+        "url": "https://open.spotify.com/album/4ZGELdtNOQhqA1YUAAqRDR"
+      },
+      "artists": [
+        {
+          "name": "Mohit Aanand",
+          "url": "https://open.spotify.com/artist/34RdxcV748gvPZDZ7U3GXy"
+        },
+        {
+          "name": "LTG",
+          "url": "https://open.spotify.com/artist/7hdF2YLHKChiztK3Ui0bBp"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259303,
+      "name": "Ik Tarfa",
+      "url": "https://open.spotify.com/track/5kAo09yI0O1o2qU9nLzoeQ"
     },
     {
       "album": {
@@ -5359,7 +5381,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 191376,
       "name": "Tuney Na Jaana",
       "url": "https://open.spotify.com/track/3UmiabeUzFCIsVvZeD3bpQ"

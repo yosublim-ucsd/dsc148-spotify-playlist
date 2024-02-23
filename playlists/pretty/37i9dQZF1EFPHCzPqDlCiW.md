@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1c2S9zEjadnB6Mt2aOOLWn">Ollie Green</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203 likes - 120 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 204 likes - 120 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,8 +107,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 97 | [Who's Gonna Love You More](https://open.spotify.com/track/1tKgSDKLiGecDcbxm4kOIG) | [Huntar](https://open.spotify.com/artist/2woivlckW1wdml7zq1WW6e) | [Bitter](https://open.spotify.com/album/4RSwF4HXGFzdtxnV3xuxjT) | 2:57 |
 | 98 | [No Life](https://open.spotify.com/track/03URrJS1ItDUJELGMuDW2T) | [Larkins](https://open.spotify.com/artist/6cCfC12LHtD5XIc1rLsm8Y) | [JCOY](https://open.spotify.com/album/6BgcY6wNgindhEnSeCmJ5i) | 3:33 |
 | 99 | [Cigarette \- Acoustic](https://open.spotify.com/track/0G5pSMytYwa5Ep7VzqB8Ab) | [MICHAELA](https://open.spotify.com/artist/0QxBW01qmpM8InQcVa1x9V) | [Cigarette \(Acoustic\)](https://open.spotify.com/album/4jRskEEfU18eb9nxCgBLYa) | 2:59 |
-| 100 | [Paradise](https://open.spotify.com/track/02QcMeK6YrwvOWQ9XWpyYp) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Cautionary Tales of Youth](https://open.spotify.com/album/7oZTFBcPmwuv0L2AQI1yO9) | 3:05 |
-| 101 | [Anyone](https://open.spotify.com/track/0SvS0K6Hehf58MRhUSdpDT) | [Morgan Page](https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b) | [Anyone](https://open.spotify.com/album/7mq2F1PMmHZNGVatKOsSu7) | 3:21 |
+| 100 | [Anyone](https://open.spotify.com/track/0SvS0K6Hehf58MRhUSdpDT) | [Morgan Page](https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b) | [Anyone](https://open.spotify.com/album/7mq2F1PMmHZNGVatKOsSu7) | 3:21 |
+| 101 | [Paradise](https://open.spotify.com/track/02QcMeK6YrwvOWQ9XWpyYp) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Cautionary Tales of Youth](https://open.spotify.com/album/7oZTFBcPmwuv0L2AQI1yO9) | 3:05 |
 | 102 | [All Around The World](https://open.spotify.com/track/68O6kIl42XxQBltMi3g8mZ) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [The Sweetest Part](https://open.spotify.com/album/0b4Skg0UskddlJ9v4XRQ0S) | 3:31 |
 | 103 | [Better Man](https://open.spotify.com/track/75o9dfDkw3F6hjSujBJQZi) | [James Newman](https://open.spotify.com/artist/4iaTgZRy5aVnImDyRJn61n) | [Better Man](https://open.spotify.com/album/6pFTHq7uBtEGJBjlOx5YDn) | 3:14 |
 | 104 | [Hurricane](https://open.spotify.com/track/1it55uap8fb6m5EudcE0yG) | [Hannah Trigwell](https://open.spotify.com/artist/7AEPFGsBBHqMtHGiYDFVQy) | [Rectify](https://open.spotify.com/album/0pf9DOuwPtzCHT2RF5wOE3) | 3:27 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 119 | [Cry Baby](https://open.spotify.com/track/6CUhst2FN306kgbPZRDMlX) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Cry Baby](https://open.spotify.com/album/3qw9vLNZSZVp0nspvfnYMQ) | 2:54 |
 | 120 | [Mother](https://open.spotify.com/track/6w0UT19dw0IRWtLMQyn1Sq) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Mother](https://open.spotify.com/album/3PzaUA5NnjrDsDECx5tcSe) | 3:19 |
 
-Snapshot ID: `Mjg0NzYxMzAsMDAwMDAwMDA2OGY4YzVhZTMwMjIxMWMzYjVmZGYxMWYzYWEzNmY1Ng==`
+Snapshot ID: `Mjg0Nzc1NzAsMDAwMDAwMDA0ZTg4YjIyYTc3ODA0NDY4MDFlMjUwYjUwZjRiZmQzOQ==`

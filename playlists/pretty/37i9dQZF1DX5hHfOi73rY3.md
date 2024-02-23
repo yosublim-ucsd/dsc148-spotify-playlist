@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 
 > Dance anthems from the club to your ears!
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,062 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,099 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 | 11 | [Ascending Into The Clouds \(feat\. Elisabeth Troy\) \- Edit](https://open.spotify.com/track/5dlwxxHd9RNBPP3PwlLZgB) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb), [Elisabeth Troy](https://open.spotify.com/artist/2PWJP6HKlECQurewX1uGuT) | [Ascending Into The Clouds \(feat\. Elisabeth Troy\) \[Edit\]](https://open.spotify.com/album/6RkAmdnqMxodcx6t6dKg5K) | 3:28 |
 | 12 | [Forget](https://open.spotify.com/track/39WhV9YklFbeygAz7nhBkq) | [Patrick Topping](https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa) | [Armada Deep House Selection, Vol\. 4 \(The Finest Deep House Tunes\)](https://open.spotify.com/album/2i9yjYi16dZwC5iwTFWgXG) | 3:25 |
 | 13 | [It's Over](https://open.spotify.com/track/0Z7G2l8HgDK08AUQBty6zi) | [Jon Gurd](https://open.spotify.com/artist/2Nd5J1iedlzuNp32YYNuAl), [Reset Robot](https://open.spotify.com/artist/7hmPLllWGkE1X101Wv4vb3) | [It's Over EP](https://open.spotify.com/album/3Qi8hbE9uiWP3l1GGhOfNX) | 3:35 |
-| 14 | [My Head is A Jungle \- MK Remix / Radio Edit](https://open.spotify.com/track/1AUdrHbGmrPgWkda6JjylP) | [lusttqwe](https://open.spotify.com/artist/1ppoDV6LO37SPuHEK2FAyR), [rufflws](https://open.spotify.com/artist/6XeLF1KiaS5aBmp2d1fghp), [Lythx](https://open.spotify.com/artist/3opEpMCuPejInY9rC6l22S) | [My Head is A Jungle \- MK Remix / Radio Edit](https://open.spotify.com/album/1V2K4IdlYAMC73lZyNTE7W) | 3:26 |
+| 14 | [My Head Is A Jungle \- MK Remix / Radio Edit](https://open.spotify.com/track/4NbvIwYcwx8dNGYfUX2bKB) | [Wankelmut](https://open.spotify.com/artist/01e2lCvLZ4fLUIRy68nptH), [Emma Louise](https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [My Head Is A Jungle \(MK Remix / Radio Edit\)](https://open.spotify.com/album/2zOqNJBZAqp57WXXhE4zpn) | 3:25 |
 | 15 | [Make It Hot](https://open.spotify.com/track/6pdgjp4LLvSPXGPOLRN9oo) | [Kastelo](https://open.spotify.com/artist/2KmU3cHtzAMUFFEQPHF8ON), [JOSÉPHINE](https://open.spotify.com/artist/12pfYeZ791ghFuc59SZOf7) | [Make It Hot](https://open.spotify.com/album/6jbtfprot9CSfANCq9R0Eq) | 2:57 |
 | 16 | [Hungry For The Power \- Jamie Jones Ridge Street Remix](https://open.spotify.com/track/2S5uhb50uFNVEQSeyo1w5H) | [Azari & III](https://open.spotify.com/artist/2DC2KJDKwTf5RGfuWCzAkc), [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [Remix Album](https://open.spotify.com/album/0znP7VU4pVi603U0QkzpJK) | 6:46 |
 | 17 | [Jealous](https://open.spotify.com/track/5Ir9mqfAUnXkSkXHF1yvM0) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo) | [Jealous](https://open.spotify.com/album/4Kka250AUtEvx1XUuoNHfZ) | 4:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 | 49 | [Grey](https://open.spotify.com/track/1tNxprI7wf87blRuXUyEvC) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [Speicher 93](https://open.spotify.com/album/3ynaPdzABzDYa71e6RSagL) | 4:53 |
 | 50 | [The Renegade](https://open.spotify.com/track/7dyWwtPsaL3ThtPtkA4oQK) | [Friend Within](https://open.spotify.com/artist/4FJPplt1JOVw8Q7NiwFmLv) | [The Renegade EP](https://open.spotify.com/album/2nFqzhDJO6HBSQHGpsYhw7) | 2:30 |
 
-Snapshot ID: `MCxjMGZhZmY1ZjA0OTg4MDAwNjIzM2VmMDYwNDc3NWY4MTI2NTUyMDdj`
+Snapshot ID: `MCxkY2VjZTU2ZDk2YjZlMmU5NDRiZDI3YWE0ZjA5ZWZhM2ZhY2E1NGEy`

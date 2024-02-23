@@ -1214,10 +1214,28 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 150014,
       "name": "Chloe Enough!",
       "url": "https://open.spotify.com/track/0so9O4kW2iUyDjflqDxA18"
+    },
+    {
+      "album": {
+        "name": "Chloe Enough!",
+        "url": "https://open.spotify.com/album/1YUeCffXlEbbVzSWzGzpaP"
+      },
+      "artists": [
+        {
+          "name": "CXLOE",
+          "url": "https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150014,
+      "name": "Chloe Enough!",
+      "url": "https://open.spotify.com/track/39rW3vGtDSCM889izxIkiu"
     },
     {
       "album": {

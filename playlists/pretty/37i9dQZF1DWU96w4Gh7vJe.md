@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU96w4Gh7vJe.md) - [plain]
 
 > Sit back and relax to our favorite local indie and R&B sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 582,431 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 582,450 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU96w4Gh7vJe.md) - [plain]
 | 49 | [Nagbabakasakali](https://open.spotify.com/track/4fE0gWRGGRTxMCiJ51As3w) | [polaris.](https://open.spotify.com/artist/48iP2a3vIRKl7MtFZDLnUx), [drmfy](https://open.spotify.com/artist/4hsyXkZRXr0zZ8WNQAJnhp) | [Nagbabakasakali](https://open.spotify.com/album/3QGjMQB9pwrBzvdbHacVdQ) | 3:22 |
 | 50 | [Closer You and I](https://open.spotify.com/track/4yefFdkOF4T8rN6OAO7RIP) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Closer You and I](https://open.spotify.com/album/3oiv09ehNwGqaLWk3TDBgA) | 4:00 |
 
-Snapshot ID: `MCxlNzEwZjRhNGNmOGFmZTA4NmE5NzNiYmE5OThiNjlhMWZkOTMzNTk4`
+Snapshot ID: `MCwyNmVmMWJkMmNmZjQ2ZmYzMGM1OTBiOTQ2YzRhODBiMjQ0NGM0Mzk1`

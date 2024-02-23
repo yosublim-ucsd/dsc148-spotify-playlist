@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyLwMSMFLA4.md) - [plain]
 
 > ¡Asadito a pura cumbia con toques de cuarteto!
 
-[Spotify](https://open.spotify.com/user/spotify) - 508,542 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 508,750 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyLwMSMFLA4.md) - [plain]
 | 99 | [Soy Sabalero](https://open.spotify.com/track/6MIulZ9FG6Td02EpvFC5ZL) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Soy Sabalero](https://open.spotify.com/album/4E9U7vlfoRlUIi57xcO53W) | 2:59 |
 | 100 | [Sabrosón](https://open.spotify.com/track/3i9RlCwMh2I0semxufRnyS) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Parulo](https://open.spotify.com/album/00A8Fwcno8bR8PghDYmcv8) | 2:54 |
 
-Snapshot ID: `MCwyN2QwZjMzZThiYmY4MzEyYWMzMmY2MGE1Y2NlOTRhZDgzOGQzMzlj`
+Snapshot ID: `MCw5N2I5Nzc1NWVhYmFhY2QzNTIxN2UwN2QzNTc3ZjFjYjk3M2NlMTEw`

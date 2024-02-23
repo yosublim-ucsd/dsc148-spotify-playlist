@@ -1,5 +1,5 @@
 {
-  "2024-02-22": 4633,
+  "2024-02-23": 4632,
   "date_first_scraped": "2023-01-14",
   "description": "This is Banda Bostik. The essential tracks, all in one playlist.",
   "name": "This Is Banda Bostik",
@@ -107,7 +107,7 @@
       ],
       "date_added": "2024-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 156548,
       "name": "Blue Suede Shoes",
       "url": "https://open.spotify.com/track/73jOGdULRXfR02W41tyP9u"
@@ -381,6 +381,24 @@
       "duration_ms": 268004,
       "name": "Falsa Sociedad",
       "url": "https://open.spotify.com/track/11XeYp5xuwtEwTs9FcGdlH"
+    },
+    {
+      "album": {
+        "name": "Genoma Humano",
+        "url": "https://open.spotify.com/album/7vN4m21unn7Fy7splGXC62"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223386,
+      "name": "Guerrillero",
+      "url": "https://open.spotify.com/track/7vW9d63iftut4OaD1IVv17"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 
 > Esta es la plebada que está marcando tendencia en la Música Mexicana\. Vena De Rey y Joss Favela en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,213 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,224 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 | 99 | [Me Gusta Tener de a Dos \(En Vivo\)](https://open.spotify.com/track/47cvF8B8o2U7ee45E8Q0ZI) | [Evelyn Ozuna](https://open.spotify.com/artist/3WOxDYEXZgUkddUFOeztYr) | [En Vivo Desde Houston](https://open.spotify.com/album/0Q9SH5cq1hJq3cpSN995UL) | 2:59 |
 | 100 | [Pregúntale al Diablo](https://open.spotify.com/track/34dr8fWOjiYQlI2mGXeBVH) | [Hendry El Mero Mero](https://open.spotify.com/artist/2dnVGtPJ6ZLyyzahVpPkWP) | [Pregúntale al Diablo](https://open.spotify.com/album/4hdLVZh2WslvvQ3upe1zt5) | 3:42 |
 
-Snapshot ID: `MCw0ZDhlMDYyYTAwMDZjYWZiMzcxNWZjN2EyYjEyNWI5NDIzNzNlZjQ4`
+Snapshot ID: `MCxlZmU5NWVjZjM0MTRjMzZhMWFiYjc4YWI2YmIzNTczZWM2MmYwYTEx`

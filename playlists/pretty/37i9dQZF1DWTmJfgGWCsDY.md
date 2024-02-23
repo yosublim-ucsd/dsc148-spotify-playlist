@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmJfgGWCsDY.md) - [plain]
 
 > This is Singeli\. High energy dance music echoing throughout the streets of Tanzania
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,258 likes - 75 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,265 likes - 75 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmJfgGWCsDY.md) - [plain]
 | 74 | [Uroda](https://open.spotify.com/track/1Lp86p4MRUMR0DmimDBr7w) | [Kadilida](https://open.spotify.com/artist/3IQ6Cq1KB09iPoMzMdWihN), [Sammy Donnar](https://open.spotify.com/artist/0kIZyUX6qkSPclKox24eMh) | [Uroda](https://open.spotify.com/album/6Li6670qH4HxtF9nzgIc3C) | 3:35 |
 | 75 | [Mchepuko](https://open.spotify.com/track/12zGv1X0dXwtz7gU2yL0j3) | [Seneta Kilaka](https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8) | [Mchepuko](https://open.spotify.com/album/3ZJ0RRiA56WsQb3G2M4N6F) | 4:33 |
 
-Snapshot ID: `MCwxNTE2NGVkNzI0YWExZDMyYTdjYWQyZjMzNjYwNmYxYmVhNzkwOGU0`
+Snapshot ID: `MCxjNGVlNWM1OTJmZjVlZTVhMWQzNWM2NDI4ODAxOWUyZmE1YTdjOGU2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PpQS44qqLL.md) - [plain]
 
 > Siempre espectaculares\. Vicente Fernández en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,897 likes - 200 songs - 13 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,038 likes - 200 songs - 13 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PpQS44qqLL.md) - [plain]
 | 199 | [Este hombre no se toca](https://open.spotify.com/track/047T2fSx1eNiRbCNztIAhL) | [Rocio Banquells](https://open.spotify.com/artist/0WaPMyYYZZ7yxzG1qhZ5kz) | [Rocio Banquells](https://open.spotify.com/album/2XWgQoX6V3MDSm9dGZGkGz) | 3:58 |
 | 200 | [Lo Mejor de Mi](https://open.spotify.com/track/5cEGQnaurid1T3sI5LyIL1) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Lo Mejor De Mi](https://open.spotify.com/album/1lLfKvbH4T00XyWPg5grYF) | 3:55 |
 
-Snapshot ID: `MCw2NmI0YWY2Y2VjZmU5MTQzMjNiMGZiMjA1N2FkYmM4ODU4YTk2NDJi`
+Snapshot ID: `MCw0YWIwYzg0NjljN2E3ZTc3NmVkMGUxYTZhYTQzZmJhNTkyOWI4ZWM2`

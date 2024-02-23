@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 
 > Don't worry, we're back in the funk of it besties ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,286 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,366 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 | 99 | [Exacta](https://open.spotify.com/track/05aRMsnObR7SdMQwxxJvHv) | [Tupperwave](https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO) | [Hooked On Aesthetics](https://open.spotify.com/album/2Uadv8pQQjvkAK77xgRB5u) | 2:43 |
 | 100 | [SAILORSATURDAYS](https://open.spotify.com/track/5bg67Ih7JzzmfrJZVx2zXC) | [Kokonoku](https://open.spotify.com/artist/5K61kNqfScq9HPn5FgsjSy) | [SAILORSATURDAYS](https://open.spotify.com/album/3WIYClNXR4haWaAOQs6KVM) | 4:00 |
 
-Snapshot ID: `MCw1YTdlYWVkMTQ0ZTk1MmRhNzBjMDcxZDg1NWM0NmJiMjQwZTZjYjgy`
+Snapshot ID: `MCwyNDhjMjRjYzg0MGFiOWU0MWYwMjVkZjZhYjM0MjkzYTM2NDgxZjk3`

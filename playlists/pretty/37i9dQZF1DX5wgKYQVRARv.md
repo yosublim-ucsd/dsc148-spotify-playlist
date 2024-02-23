@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgKYQVRARv.md) - [plain]
 
 > New and recent favorites of Prog Metal\. Cover: TesseracT
 
-[Spotify](https://open.spotify.com/user/spotify) - 529,327 likes - 200 songs - 15 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 529,417 likes - 200 songs - 15 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgKYQVRARv.md) - [plain]
 | 199 | [Dogma](https://open.spotify.com/track/5rLqQdNrDPZk4EM7Q4fzt7) | [Satyr](https://open.spotify.com/artist/5ktYe9ZQMyLivSJbjEEEXy) | [Totem](https://open.spotify.com/album/383t7dgt66V7IxTZsYCcbP) | 3:54 |
 | 200 | [The Worst of Us](https://open.spotify.com/track/4LcuJ73bfEi48jJIC56xBp) | [QuietKind](https://open.spotify.com/artist/6TldHVbpoDY8Ut8FAPtdbr) | [Shadow Play](https://open.spotify.com/album/6cxXEPHGeIXiz0w4ktHMNi) | 4:39 |
 
-Snapshot ID: `MCwzMWU1Yzc1NDVhYjRkZGUzZjg3MDI4YTMzZDIzMGEwOWE2YmJhYzlk`
+Snapshot ID: `MCxmNDAzZmMzYTVjNmI1MTQzZDU1MjBhYjMzYzU2OGFlMWE1ZGUwY2M3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 
 > Powerful and rhythmic  metal for maximum power during your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 637,863 likes - 120 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 638,067 likes - 120 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 119 | [One Day Closer to the End of the World](https://open.spotify.com/track/5Db1yq0HRGZFOARJVgLvlP) | [Cattle Decapitation](https://open.spotify.com/artist/67ZMMtA88DDO0gTuRrzGjn) | [One Day Closer to the End of the World](https://open.spotify.com/album/5OnPLCsMC3lTchISlmzbZm) | 3:47 |
 | 120 | [Of Mice and Mountains](https://open.spotify.com/track/0CwLjkdgKzMRxR0WE89Hw7) | [Dyscarnate](https://open.spotify.com/artist/6SvjnoIxcyGjkhoazemIlB) | [With All Their Might](https://open.spotify.com/album/44T2XNcei3Bq04flbhwn9I) | 4:06 |
 
-Snapshot ID: `MCwxZjU5NWY3YzAwM2IxMjI5NDliYzIxNWUwOGMzOGQwM2MyNWFhNzA1`
+Snapshot ID: `MCw5NDVlYzBhMDA4Mzg2ZjNmYzMxOGUzMzg5ZDNhNWE1Yjk2NzY0MWEz`

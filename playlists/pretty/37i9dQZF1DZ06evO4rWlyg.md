@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rWlyg.md) - [plain]
 
 > This is Björk\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,917 likes - 48 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,943 likes - 47 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,12 +49,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rWlyg.md) - [plain]
 | 39 | [Beautiful Mother](https://open.spotify.com/track/3shbvAgUyh9nhJa53JN8mB) | [Dirty Projectors](https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Mount Wittenberg Orca \(Expanded Edition\)](https://open.spotify.com/album/14xINYt1omt6jlxv8AFbly) | 2:16 |
 | 40 | [Who Is It \(Carry My Joy On The Left, Carry My Pain On The Right\)](https://open.spotify.com/track/0LyiKRBtKkIaTZKXBcDyb3) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Medúlla](https://open.spotify.com/album/12n9nyAJ5Q4FHRldrciIPG) | 3:57 |
 | 41 | [Declare Independence](https://open.spotify.com/track/7gy9d7iBHW9BWhMNPjHuFf) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Volta](https://open.spotify.com/album/64EKrS1Ubw2rQ9qn9QRUq3) | 4:13 |
-| 42 | [Black Lake](https://open.spotify.com/track/7McqTkJc3laznwCoQXKxFe) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vulnicura](https://open.spotify.com/album/6sJTyQHzjefi0GgknYCgBf) | 10:08 |
+| 42 | [Notget](https://open.spotify.com/track/2rUOu6JSds2ewDskKCzVBj) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vulnicura](https://open.spotify.com/album/6sJTyQHzjefi0GgknYCgBf) | 6:26 |
 | 43 | [Sharing Orb](https://open.spotify.com/track/1M4euFTqRYW2xTLhqYGC0C) | [Dirty Projectors](https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Mount Wittenberg Orca \(Expanded Edition\)](https://open.spotify.com/album/14xINYt1omt6jlxv8AFbly) | 2:48 |
 | 44 | [Where Is The Line](https://open.spotify.com/track/6b7MeZUEaRBLix7nfl3aRQ) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Medúlla](https://open.spotify.com/album/12n9nyAJ5Q4FHRldrciIPG) | 4:41 |
 | 45 | [Batabid](https://open.spotify.com/track/1h2JfIHKYy1zE4oztaWt0M) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Pagan Poetry](https://open.spotify.com/album/6y8qmVF6G3lVjTDztWrNWb) | 2:26 |
-| 46 | [Notget](https://open.spotify.com/track/2rUOu6JSds2ewDskKCzVBj) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vulnicura](https://open.spotify.com/album/6sJTyQHzjefi0GgknYCgBf) | 6:26 |
+| 46 | [The Gate](https://open.spotify.com/track/7g2YQhm3jIxHnkMAeLjduf) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Utopia](https://open.spotify.com/album/2i0mqPNTcaLcmKWSMsE3c8) | 6:33 |
 | 47 | [When the World Comes to an End](https://open.spotify.com/track/09TNNle5fDBPUtLpO6a7BK) | [Dirty Projectors](https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Mount Wittenberg Orca \(Expanded Edition\)](https://open.spotify.com/album/14xINYt1omt6jlxv8AFbly) | 3:08 |
-| 48 | [The Gate](https://open.spotify.com/track/7g2YQhm3jIxHnkMAeLjduf) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Utopia](https://open.spotify.com/album/2i0mqPNTcaLcmKWSMsE3c8) | 6:33 |
 
-Snapshot ID: `Mjg0NzUyOTAsMDAwMDAwMDA0M2ZhNjAxNDkzMjQ3Njk2YzRiNWEzYWM5ODM1MGQ2NA==`
+Snapshot ID: `Mjg0NzcwNzUsMDAwMDAwMDA0Y2UyOWM3Mjk1OTI0NzU3YzRhM2Q5NzBjYjkzMTE3YQ==`

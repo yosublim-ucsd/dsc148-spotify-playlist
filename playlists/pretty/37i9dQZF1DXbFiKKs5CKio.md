@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 
 > Muito romance, groove suave e R&B feitos no Brasil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,260 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,300 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 | 49 | [Noite Sem Fim](https://open.spotify.com/track/6hiFqmAtkWXIDuqDUfm8yI) | [Mixdgroove](https://open.spotify.com/artist/7C9uzbHPDku3N6vZUokNNL) | [Noite Sem Fim](https://open.spotify.com/album/3xOBahgMHPmoopICoD5mzr) | 3:51 |
 | 50 | [Filho do Soul](https://open.spotify.com/track/0GyYORKftax285LSmzF2oA) | [Augus7o](https://open.spotify.com/artist/78iJtzui4jnlK1KsDnlykz), [Lovro](https://open.spotify.com/artist/7roNMW0hJ2WwFhrXyKZRwF) | [Filho do Soul](https://open.spotify.com/album/11CfMBbIFivVBOerau2ZFI) | 4:00 |
 
-Snapshot ID: `MCwwZDg5Y2MyMjJiMjA2YTY4ZGRhMjExNjAzOGU1YTc3MDA1OTVjMjgx`
+Snapshot ID: `MCw1ZmJlYWE1NTZmYTE0YTJiOWIzN2ZhMjU4MjZiYmNjNTczZjFiOWFm`

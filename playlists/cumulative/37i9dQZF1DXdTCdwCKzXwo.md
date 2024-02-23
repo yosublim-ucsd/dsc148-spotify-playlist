@@ -2,7 +2,7 @@
 
 ### [Early Alternative](https://open.spotify.com/playlist/37i9dQZF1DXdTCdwCKzXwo)
 
-> These early pioneers brought the underground to the foreground\. Cover: Lou Reed.
+> These early pioneers brought the underground to the foreground\. Cover: The Smiths
 
 177 songs - 12 hr 11 min
 

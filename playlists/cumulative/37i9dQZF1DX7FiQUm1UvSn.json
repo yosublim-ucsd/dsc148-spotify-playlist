@@ -1737,6 +1737,24 @@
     },
     {
       "album": {
+        "name": "Only Girl In The World",
+        "url": "https://open.spotify.com/album/3AjamrNkp98f9m0QEDXCDG"
+      },
+      "artists": [
+        {
+          "name": "Norah Davis",
+          "url": "https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226181,
+      "name": "Only Girl In The World",
+      "url": "https://open.spotify.com/track/0KOLKV454e5cN98pyHGMjL"
+    },
+    {
+      "album": {
         "name": "Only Wanna Be With You",
         "url": "https://open.spotify.com/album/3vqYbaz02htSWXaRqNWvBQ"
       },
@@ -2440,6 +2458,24 @@
       "duration_ms": 173250,
       "name": "You Get What You Give",
       "url": "https://open.spotify.com/track/7BoCnys48XsoCiJwE6g491"
+    },
+    {
+      "album": {
+        "name": "You Raise Me Up",
+        "url": "https://open.spotify.com/album/6lsClakGKncbzUfvydr0vd"
+      },
+      "artists": [
+        {
+          "name": "Shelby Park",
+          "url": "https://open.spotify.com/artist/5k2EXCexl2KBdpfyyNEpet"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140617,
+      "name": "You Raise Me Up",
+      "url": "https://open.spotify.com/track/4mGiTmzkCS8Y1EFnQT4010"
     },
     {
       "album": {

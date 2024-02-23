@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X277P8nU0l.md) - [plain]
 
 > Un café, un croissant et c‘est parti pour une bonne journée.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,918 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,922 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X277P8nU0l.md) - [plain]
 | 10 | [Know the Night](https://open.spotify.com/track/0hfjholWfyL1cxsvjwkzM8) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Know the Night](https://open.spotify.com/album/1rKrDA2rrti4WOKjsF4XWm) | 3:10 |
 | 11 | [Pixie Dust](https://open.spotify.com/track/3w8UEOStGNxoF7a9xuzY2j) | [Ethel](https://open.spotify.com/artist/71EdrAYsVrCyHOzDEqNOu0) | [Pixie Dust](https://open.spotify.com/album/6qzfWCqFbcf5wxMXQ7pKO8) | 3:03 |
 | 12 | [If You Don't Want My Love](https://open.spotify.com/track/4A48ckONJNoXU5smWT9CeG) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Come Around and Love Me](https://open.spotify.com/album/0E2PgtXRUHCslZ7gRselUq) | 2:26 |
-| 13 | [All day](https://open.spotify.com/track/5X0K7EYfLnoztd4oSwucJv) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG), [Olivia Merilahti](https://open.spotify.com/artist/6i2umdD3q6XxXmqR8fRJuR) | [All day](https://open.spotify.com/album/6uJZYYLIdh24fxnIGe9Vbn) | 3:14 |
+| 13 | [All day](https://open.spotify.com/track/6GAbbgKtgj2F4BwszjEk12) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG), [Olivia Merilahti](https://open.spotify.com/artist/6i2umdD3q6XxXmqR8fRJuR) | [Lost and found](https://open.spotify.com/album/4V5EXwlVZyDgqx5RHLik1z) | 3:14 |
 | 14 | [Space Song](https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr) | 5:20 |
 | 15 | [Those Eyes](https://open.spotify.com/track/2psRActEWsTlYYd7EDoyVR) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Based On A True Story...](https://open.spotify.com/album/6I5Pf71uQzQC0IcJOrh8Rz) | 3:40 |
 | 16 | [The Wedding Song](https://open.spotify.com/track/2mwY1C4oCxPFy2A3UQIcEu) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [The Wedding Song](https://open.spotify.com/album/1k0rqhjZ18zvF6dKMoVnjj) | 3:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X277P8nU0l.md) - [plain]
 | 49 | [Free \(feat\. Tom Misch\)](https://open.spotify.com/track/01wXY7C3ywHBMKmj3f31EB) | [Joel Culpepper](https://open.spotify.com/artist/2PEsLlEk8HIw0NFPSENdQs), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Free \(feat\. Tom Misch\)](https://open.spotify.com/album/4eoxzgxqIHsMd44siCY4lg) | 3:54 |
 | 50 | [Dark Imagination](https://open.spotify.com/track/2HG5pRpERRJ2wbln73lvLS) | [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [Walk of Fire](https://open.spotify.com/album/0K21lLIS1d13QlL5jhHgi3) | 2:59 |
 
-Snapshot ID: `MCxjMmI0MmQ4MWZlNWNiYTY4NWYxNzAwZWJlYTFlZmYwZTUxZGNmYTA4`
+Snapshot ID: `MCw2ZDM2YmZkODhkNjAyNDhlZDhhZDZmOWNjN2Y0MGVlMDEyN2YwYzhm`

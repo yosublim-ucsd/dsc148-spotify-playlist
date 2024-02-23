@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: southstar
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,232 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,230 likes - 60 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Set Me Free](https://open.spotify.com/track/4QaTmat7UUkWqWPafw59pn) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi), [COSBY](https://open.spotify.com/artist/7lNukQP9I2H6JmLcXrfmEv), [sebo](https://open.spotify.com/artist/3CW9E4zbWJaS4xVUb0KPeW) | [Set Me Free](https://open.spotify.com/album/0AlLXyc7bWVwCoDAZFu6p7) | 2:11 |
-| 2 | [BLESSED](https://open.spotify.com/track/2cPqx00sDnkXgxHg9fSZQj) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [BLESSED](https://open.spotify.com/album/1wL7610e4VBIR2iTziwnHv) | 2:51 |
-| 3 | [Alive](https://open.spotify.com/track/4ZhRddutIAnleTnvqir5LM) | [ÄTNA](https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX) | [Alive](https://open.spotify.com/album/1bIkaKwrNbpDzFKVgqp8IU) | 3:52 |
-| 4 | [Mond](https://open.spotify.com/track/53czFJt0Cz9DGgpyDrO6l1) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Also was jetzt?](https://open.spotify.com/album/0HV0znOFszVIR664Z6vc3k) | 2:40 |
-| 5 | [Z0RNIG \[2O24\]](https://open.spotify.com/track/4bL1w0m4bPkjqMfi93RK1x) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [Z0RNIG \[2O24\]](https://open.spotify.com/album/6jd8NOxJvrkCjWGfbyZbHg) | 2:36 |
-| 6 | [MONSTER](https://open.spotify.com/track/1Nrhmk93FjBG8zevcTDSH9) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [MONSTER](https://open.spotify.com/album/3HlASdUxisoWlTgyZX5rKI) | 2:56 |
+| 2 | [HAPPY NEVER AFTER](https://open.spotify.com/track/3o3gTvHOGeBqyzS0PtraTH) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [SCARYTALE](https://open.spotify.com/album/1AxVUJ0eJ0lyOzgRYXIP5g) | 3:39 |
+| 3 | [BLESSED](https://open.spotify.com/track/2cPqx00sDnkXgxHg9fSZQj) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [BLESSED](https://open.spotify.com/album/1wL7610e4VBIR2iTziwnHv) | 2:51 |
+| 4 | [Alive](https://open.spotify.com/track/4ZhRddutIAnleTnvqir5LM) | [ÄTNA](https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX) | [Alive](https://open.spotify.com/album/1bIkaKwrNbpDzFKVgqp8IU) | 3:52 |
+| 5 | [Mond](https://open.spotify.com/track/53czFJt0Cz9DGgpyDrO6l1) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Also was jetzt?](https://open.spotify.com/album/0HV0znOFszVIR664Z6vc3k) | 2:40 |
+| 6 | [Z0RNIG \[2O24\]](https://open.spotify.com/track/4bL1w0m4bPkjqMfi93RK1x) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [Z0RNIG \[2O24\]](https://open.spotify.com/album/6jd8NOxJvrkCjWGfbyZbHg) | 2:36 |
 | 7 | [sie](https://open.spotify.com/track/6QqeFkSVC1e5sfdfY68mb5) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [sie](https://open.spotify.com/album/38kcgG8H98TRVAh7OVxe08) | 2:30 |
 | 8 | [Zeit](https://open.spotify.com/track/6WoyIbtL9Ex5jxiGF7a5jE) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Zeit](https://open.spotify.com/album/4aL2wj06bRu9M93gzQJbpI) | 2:15 |
 | 9 | [Pink Skies](https://open.spotify.com/track/43Ka2d0YZZlOzVGwf96xNw) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [How Have You Been?](https://open.spotify.com/album/4FqEHLgdiMHXboXIztMkkO) | 3:21 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 | 59 | [Lipsticks & Heartbreaks](https://open.spotify.com/track/5WX5hHwiJnFx9IIcCKxWWP) | [Kynda Gray](https://open.spotify.com/artist/3LPEGy5eAGPgKYJVrkRuSX) | [Lipsticks & Heartbreaks](https://open.spotify.com/album/5mkpbYUEBkj9tRJ3aKGUdc) | 2:10 |
 | 60 | [Paranoid](https://open.spotify.com/track/0HMqKvy71TIbFMZP573ggQ) | [Leoniden](https://open.spotify.com/artist/1zwtew8BGPk66RKGQqtPCX) | [Complex Happenings Reduced To A Simple Design](https://open.spotify.com/album/759AQPUMn36dDf7cRSwsmF) | 3:16 |
 
-Snapshot ID: `MCxhMzRkMzJmMjc5NjE0NmMzZDFjYzAwOWVlODQ1ZTdmNjU4MDBjY2Nk`
+Snapshot ID: `MCw2YzBkOGE5YjgzMmYxMDFmYzU0MGIwNjdiZWFmYmI1NTdiYjM0Yzlm`

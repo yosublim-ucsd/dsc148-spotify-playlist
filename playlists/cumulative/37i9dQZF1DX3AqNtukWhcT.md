@@ -4,7 +4,7 @@
 
 > Global ambient with percussion to soundtrack your Yoga session.
 
-180 songs - 9 hr 27 min
+183 songs - 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Euthalia Lubentina](https://open.spotify.com/track/2bni5uNaF2vpuErZvO8Z33) | [Star Lions](https://open.spotify.com/artist/3oyABNjDzJ2BL5tshlzpf0) | [Gende Ka Phool](https://open.spotify.com/album/2jCOAIjv0fhD1bap6y0i6Q) | 3:21 | 2022-09-02 |  |
 | [Evolving](https://open.spotify.com/track/72ayVp3nnzaDgv34YIXR4x) | [Gary Koepp](https://open.spotify.com/artist/03b5zfYHJxK8v6IpTnVUlX) | [Evolving](https://open.spotify.com/album/6DOASUKDLzaYzNsbFx5xVL) | 3:03 | 2022-09-02 |  |
 | [Expectations](https://open.spotify.com/track/3sqAF5u1lZdHD2FpYRNyyM) | [Michel LeBond](https://open.spotify.com/artist/49r28kFLIBUEgxnjLUvUwA) | [FEAR](https://open.spotify.com/album/7ifhbe9ZjiElMn91LKohIr) | 3:28 | 2022-09-02 |  |
+| [Exploration](https://open.spotify.com/track/1r4ZJZtYc26u54jIgOhlbM) | [Sonic Ark](https://open.spotify.com/artist/64yr5oBBkL3KiDfT9eexN1) | [Exploration](https://open.spotify.com/album/3u4416QBy5zLXb5Okw0qnC) | 2:49 | 2024-02-22 |  |
 | [Falling Leaves](https://open.spotify.com/track/5FtoDcfUO6XwuNAm2JUUQO) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Falling Leaves](https://open.spotify.com/album/1kkJfkWtHIchrkxz1ShILT) | 5:50 | 2023-08-11 |  |
 | [Fire Glow](https://open.spotify.com/track/70qfnb0w6ypgrklgNSPIcF) | [Native Flute American Music Consort](https://open.spotify.com/artist/0b3hZJBNghdc6NQeHSzxol) | [Healing Music\. Shamanic Therapies\. Well – Being Time, Amazing Nature](https://open.spotify.com/album/6cDYbmkaqnVtwm9I8cIZBq) | 3:38 | 2022-09-02 | 2022-10-26 |
 | [Floatsam Flow](https://open.spotify.com/track/5pyTFtEdFg4mNGCgSeSFVk) | [Bengretzi Beat](https://open.spotify.com/artist/61vzuFv6SWUHKMlFpyhVzI) | [Floatsam Flow](https://open.spotify.com/album/4IGNptNvnocPI7riYNZAQ0) | 2:39 | 2022-09-02 |  |
@@ -69,6 +70,7 @@
 | [Garden Of Rhythm](https://open.spotify.com/track/4WFhr2DDEyMEdNXW8waIL5) | [Start Of Something Good](https://open.spotify.com/artist/37qYg33d5znCp06dghSGz4) | [Chaturanga](https://open.spotify.com/album/7g0nKAHc5ShQ2quCpXz9hr) | 3:11 | 2022-09-02 |  |
 | [Gende Ka Phool](https://open.spotify.com/track/4i4rZpKi3QA58Bqs5QRdUd) | [Star Lions](https://open.spotify.com/artist/3oyABNjDzJ2BL5tshlzpf0) | [Gende Ka Phool](https://open.spotify.com/album/2jCOAIjv0fhD1bap6y0i6Q) | 3:32 | 2022-09-02 |  |
 | [Glidin' Glenn](https://open.spotify.com/track/3J2H0xt3OmOp2owq9uEoRG) | [The Dallay Llamas](https://open.spotify.com/artist/1rNyFpeh9Ok00sFw0wMATm) | [Lullabeats](https://open.spotify.com/album/2DL4A3UTJJNwuLvkHjkA8N) | 3:19 | 2022-09-02 |  |
+| [Greet the Energy Self](https://open.spotify.com/track/7ANNj93G5eBbDOvBoACE4x) | [J\. Cartwright](https://open.spotify.com/artist/4DQYUQ3tze2DqQtZUkXdcC) | [Greet the Energy Self](https://open.spotify.com/album/2nYhiBRBxxAfpJtP8PfxKZ) | 2:09 | 2024-02-22 |  |
 | [Guardian Spirit](https://open.spotify.com/track/5R3vumaYt5qvKdkV16xC2U) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Guardian Spirit](https://open.spotify.com/album/03VIm7VSJi8xdIdZrhopiE) | 3:23 | 2022-09-02 |  |
 | [Hang Down](https://open.spotify.com/track/1D2edNtMr6uk9T7mz8bKsF) | [Diva Baakso](https://open.spotify.com/artist/3hPCWh0GHhVnQQ4DL3dVGr) | [Hang Down](https://open.spotify.com/album/2mzKOhh9u0JaHRctB3ZYa8) | 2:22 | 2022-09-02 |  |
 | [Hangimba](https://open.spotify.com/track/2xG6eMBqaFVHkB0TtS4S4P) | [Hangimba Boy](https://open.spotify.com/artist/1Fv4aj9ojTsR3lz2RwYEKM) | [Hangimba](https://open.spotify.com/album/7CeEZ5Ci3qsveK8YC30orQ) | 2:56 | 2022-09-02 | 2023-11-18 |
@@ -96,6 +98,7 @@
 | [Lunar Rhythms](https://open.spotify.com/track/7sWDnV9xAwJOYvF6aPowAV) | [Dreamasia](https://open.spotify.com/artist/0EiFTjlTH6OzXifh641yAv) | [Lunar Rhythms](https://open.spotify.com/album/19qWecQ8sCa5BXbYXgpH6C) | 2:25 | 2022-09-02 |  |
 | [Lustre and Mist](https://open.spotify.com/track/2tCQYWs43KyIximDIklg7z) | [The Goldlight](https://open.spotify.com/artist/35zOaLSrpQwL9mSBQjbK7f) | [Lustre and Mist](https://open.spotify.com/album/1cqYxODeCDRlnOqERNtXn5) | 4:26 | 2022-09-02 |  |
 | [Magic Moment](https://open.spotify.com/track/5cPMT9j9tE4ZK6C7mlSK5n) | [Percussion As Medicine](https://open.spotify.com/artist/3FRJVDCXmMrOEnjzr24ful) | [Magic Moment](https://open.spotify.com/album/5ENXsOri8k4cdCnKDGfRoM) | 2:42 | 2022-10-25 |  |
+| [Marari Vibes](https://open.spotify.com/track/7FGXxtTLhPXusdPJox3q8R) | [The Surrealers](https://open.spotify.com/artist/6G9OIA19uLnfd7PNELBJI9) | [Marari Vibes](https://open.spotify.com/album/7El5vb5cGWoy9shvwiZYBT) | 2:57 | 2024-02-22 |  |
 | [Melody in the Rain](https://open.spotify.com/track/4Bl2g1lL12IxgQRfFiRQuR) | [Jolene Cedar](https://open.spotify.com/artist/41pIg33NrVsSkXuvOcG9Vs) | [Melody in the Rain](https://open.spotify.com/album/6ZnAj9D4E3sMrHp8JCDwxD) | 2:12 | 2023-06-21 |  |
 | [Morning sun](https://open.spotify.com/track/1WGkqt17bWJCmoOVdy5B23) | [Darma Waters](https://open.spotify.com/artist/4nN4oxcvDaWafW2VAmvf7Y) | [Morning sun](https://open.spotify.com/album/6ZWdDY9ScArTi6vWyEZgJa) | 3:08 | 2023-06-21 |  |
 | [Mountains](https://open.spotify.com/track/0H6JIWGyILocIhKM8ItOHC) | [Bahn Kramina](https://open.spotify.com/artist/3fBzknNOKdMhLJ0oSuYMqA) | [Mountains](https://open.spotify.com/album/5BPUrS4ypZSS836CGQ75mp) | 2:52 | 2022-12-22 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfhOsjRMISB.md) - [plain]
 
 > Country music to accompany you on the open road\. Cover: Kelsea Ballerini
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,131 likes - 150 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,153 likes - 150 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfhOsjRMISB.md) - [plain]
 | 149 | [Best Shot](https://open.spotify.com/track/3eDNb3ZG3gKgjAAgJBcOL8) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Mercury Lane](https://open.spotify.com/album/0GM0DnvOD2WOztAB2WBwzo) | 3:15 |
 | 150 | [Every Little Thing](https://open.spotify.com/track/3kgCJPXDlnL5bl1HFesHUi) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Yours](https://open.spotify.com/album/6NxQDh433Rl4EQXT6QiQCE) | 3:10 |
 
-Snapshot ID: `MCw4YmRjMmYxZTg5MGJiNDFhMjNhOTIyOTYyOGM1NThhM2E2NzY4Mzhh`
+Snapshot ID: `MCw1NjFkYjBjNzcyZWFlNzU2MDZmZWUwMTdhYjNmNmFmNDQzOWUxYjIz`

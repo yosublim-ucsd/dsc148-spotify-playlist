@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PQjZjmV7Hf.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/jharden13/">James Harden</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,775 likes - 49 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,825 likes - 49 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,11 +51,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PQjZjmV7Hf.md) - [plain]
 | 41 | [Toast Up](https://open.spotify.com/track/0nlQLaytSQwrY6d5cS2X2i) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Drip Season 3 \(Deluxe\)](https://open.spotify.com/album/5xtAAHr59ozJ2PQ67utEmi) | 3:49 |
 | 42 | [U See Us](https://open.spotify.com/track/2fkiHKbZVhkywVvJynZNR0) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [Crenshaw](https://open.spotify.com/album/1C5gVWv1k7r0LxsrIL8OL8) | 3:25 |
 | 43 | [Flewed Out](https://open.spotify.com/track/3Ao4pGywlb4i8WiJgYWRm6) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [City On Lock](https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN) | 3:10 |
-| 44 | [Find A Way](https://open.spotify.com/track/3CtfBYewF9YoIj4tN1Xuh6) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Back of My Mind](https://open.spotify.com/album/4IwODpNZKFYkHWXSeWMGmP) | 3:17 |
+| 44 | [Find A Way \(feat\. Lil Baby\)](https://open.spotify.com/track/3CtfBYewF9YoIj4tN1Xuh6) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Back of My Mind](https://open.spotify.com/album/4IwODpNZKFYkHWXSeWMGmP) | 3:17 |
 | 45 | [Flamerz Flow](https://open.spotify.com/track/74saqPvlvYTPwXORWa9IeU) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Flamerz Flow](https://open.spotify.com/album/69Fj23LvwqsYsPE0roNuzl) | 1:40 |
 | 46 | [Special](https://open.spotify.com/track/6skKn3fQ37z7m5hfl9jAr3) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Ion Feel Nun](https://open.spotify.com/album/3fqV2haNIJQ5nn8qyVLzpU) | 2:31 |
 | 47 | [Effortless](https://open.spotify.com/track/0Zx7njsXzVa0rTX1h2K9qd) | [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB), [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [No Pressure](https://open.spotify.com/album/1r7w42IgRTrBtFG5atqDud) | 3:05 |
 | 48 | [BET](https://open.spotify.com/track/7mKJak60o7cmixVEfggraL) | [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB) | [OUTSIDE](https://open.spotify.com/album/3gn74laPFNRL9OO9GHLxZL) | 1:44 |
 | 49 | [FUCCWITCHU](https://open.spotify.com/track/6y0AwrWm1E63waiByoKYam) | [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB) | [OUTSIDE](https://open.spotify.com/album/3gn74laPFNRL9OO9GHLxZL) | 3:28 |
 
-Snapshot ID: `MCxjZjViY2ZmZDYxMmU0MzRlNTNmMGJkYjBkNWRkZGFhNDI0MzEwN2Uw`
+Snapshot ID: `MCw1NzQ5ODE1NjQ0MTJiNDkyZjJiMjFhMDA3MThkNzRmYWY2ZTJjYjdh`

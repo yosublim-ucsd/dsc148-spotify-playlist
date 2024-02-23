@@ -6,10 +6,54 @@
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "NzM4MSxkYmVkYjY5NjY2NGEwNzI1OTRhNTQ0YWFjYjY4NjM3NDNmMWYxMzcz",
+  "snapshot_id": "NzM4NCxhMjNjOTI0M2I4YTdjNjk5NjYyMzJlZGQ1ZjU1ZmFlMjFlYzg1NzAz",
   "tracks": [
     {
-      "added_at": "2024-02-16 00:01:29",
+      "added_at": "2024-02-23 00:35:16",
+      "album": {
+        "name": "Crazy (Robin Schulz Presents KOPPY)",
+        "url": "https://open.spotify.com/album/3X9q2q2XTcMyGP7p76nGID"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "KOPPY",
+          "url": "https://open.spotify.com/artist/5SfqIMwBJ7wD419vvb33mO"
+        }
+      ],
+      "duration_ms": 155885,
+      "name": "Crazy (Robin Schulz Presents KOPPY)",
+      "url": "https://open.spotify.com/track/3xKMFwysDGJSgXB8Fjj3sX"
+    },
+    {
+      "added_at": "2024-02-23 00:35:16",
+      "album": {
+        "name": "Riverside MF",
+        "url": "https://open.spotify.com/album/7AD6baGevfjYSyirJ1inGZ"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "Sidney Samson",
+          "url": "https://open.spotify.com/artist/3XonXgjEAAXVl0WKLF1Z4g"
+        },
+        {
+          "name": "PAJANE",
+          "url": "https://open.spotify.com/artist/3xur0inruYquZ8zO73xq1q"
+        }
+      ],
+      "duration_ms": 155146,
+      "name": "Riverside MF",
+      "url": "https://open.spotify.com/track/3ptLW4fzupzNrzbO7Hneam"
+    },
+    {
+      "added_at": "2024-02-23 00:35:16",
       "album": {
         "name": "Physique (feat. RBZ)",
         "url": "https://open.spotify.com/album/3HfqZWOX6nEQruLMy7eKuQ"
@@ -33,7 +77,191 @@
       "url": "https://open.spotify.com/track/0Tr1fMsT0SkAogFV343Bvy"
     },
     {
-      "added_at": "2024-02-16 00:01:29",
+      "added_at": "2024-02-23 00:35:16",
+      "album": {
+        "name": "Stompin' (Friendly Fire Remix)",
+        "url": "https://open.spotify.com/album/1lQk3JKq0iz3u8PO8ckF5l"
+      },
+      "artists": [
+        {
+          "name": "Pickle",
+          "url": "https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt"
+        },
+        {
+          "name": "Friendly Fire",
+          "url": "https://open.spotify.com/artist/1JtDSmvj4bVA8pBszG43fK"
+        }
+      ],
+      "duration_ms": 164090,
+      "name": "Stompin' (Friendly Fire Remix)",
+      "url": "https://open.spotify.com/track/1KrqHhPJFuN9RNqNycwUdx"
+    },
+    {
+      "added_at": "2024-02-23 00:35:16",
+      "album": {
+        "name": "We House U",
+        "url": "https://open.spotify.com/album/1XU0Z54SlEYhHtRv4lLacl"
+      },
+      "artists": [
+        {
+          "name": "P\u00d8P CULTUR",
+          "url": "https://open.spotify.com/artist/7lxjUMVAHwmzzPATtuEB9m"
+        }
+      ],
+      "duration_ms": 167638,
+      "name": "We House U",
+      "url": "https://open.spotify.com/track/15sHpP61Dht32ezVKBrtPg"
+    },
+    {
+      "added_at": "2024-02-23 00:35:16",
+      "album": {
+        "name": "Freak In The Weekend",
+        "url": "https://open.spotify.com/album/5nLLM6BAWl88JPwlGcVMjo"
+      },
+      "artists": [
+        {
+          "name": "BURNR",
+          "url": "https://open.spotify.com/artist/7bi8ABpXgK2DpE5nRaWdZ5"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Freak In The Weekend",
+      "url": "https://open.spotify.com/track/6DePSYDCW0ujpW5cUEVqoM"
+    },
+    {
+      "added_at": "2024-02-23 00:35:16",
+      "album": {
+        "name": "Keep It Real",
+        "url": "https://open.spotify.com/album/0T0Ti0o3aczJWmGY5xMh0w"
+      },
+      "artists": [
+        {
+          "name": "BYOR",
+          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
+        },
+        {
+          "name": "ARIA",
+          "url": "https://open.spotify.com/artist/5pRlKxATEYXaSwYkFbkmMm"
+        }
+      ],
+      "duration_ms": 142322,
+      "name": "Keep It Real",
+      "url": "https://open.spotify.com/track/6knUSEy7DCqqUbFoUIqffY"
+    },
+    {
+      "added_at": "2024-02-23 00:35:16",
+      "album": {
+        "name": "Vamo Que Vamo",
+        "url": "https://open.spotify.com/album/5qoafQqdcninxnfwZDhMCI"
+      },
+      "artists": [
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        }
+      ],
+      "duration_ms": 245714,
+      "name": "Vamo Que Vamo",
+      "url": "https://open.spotify.com/track/4MezYLhoClZzEbL2wGAFq4"
+    },
+    {
+      "added_at": "2024-02-23 00:35:16",
+      "album": {
+        "name": "Turn It Up",
+        "url": "https://open.spotify.com/album/5mQaSzlFbbTR1XgxBuJJJL"
+      },
+      "artists": [
+        {
+          "name": "Dannic",
+          "url": "https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc"
+        }
+      ],
+      "duration_ms": 169687,
+      "name": "Turn It Up",
+      "url": "https://open.spotify.com/track/68SvGw2QuLY9eZ3pN07DDp"
+    },
+    {
+      "added_at": "2024-02-23 00:35:16",
+      "album": {
+        "name": "Falling Behind",
+        "url": "https://open.spotify.com/album/7z8vTKugHIPvZ8hFIk5DaH"
+      },
+      "artists": [
+        {
+          "name": "MLA",
+          "url": "https://open.spotify.com/artist/34WF6tDTxrlmI6SaRPWvES"
+        }
+      ],
+      "duration_ms": 169411,
+      "name": "Falling Behind",
+      "url": "https://open.spotify.com/track/7aXbpW2ne3zplMuSbl6Njm"
+    },
+    {
+      "added_at": "2024-02-23 00:35:16",
+      "album": {
+        "name": "Dreams (feat. Emma Wells)",
+        "url": "https://open.spotify.com/album/6zujaO8gXxl9evT3snA8fd"
+      },
+      "artists": [
+        {
+          "name": "Alle Farben",
+          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
+        },
+        {
+          "name": "Maurice Lessing",
+          "url": "https://open.spotify.com/artist/6Y4NTIEU6tHHoxM3s0FO4r"
+        },
+        {
+          "name": "Emma Wells",
+          "url": "https://open.spotify.com/artist/3ChhgHO30YBZB8X7kyligx"
+        }
+      ],
+      "duration_ms": 211038,
+      "name": "Dreams (feat. Emma Wells)",
+      "url": "https://open.spotify.com/track/0ZMdztbo0EmGVZDzMAGsA2"
+    },
+    {
+      "added_at": "2024-02-23 00:35:16",
+      "album": {
+        "name": "Flying High (feat. Roddy)",
+        "url": "https://open.spotify.com/album/5znhutJOyvcwcipWZE7alI"
+      },
+      "artists": [
+        {
+          "name": "Selva",
+          "url": "https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa"
+        },
+        {
+          "name": "Boombastix",
+          "url": "https://open.spotify.com/artist/76BPdrcLmLPm8lz0lakeaj"
+        },
+        {
+          "name": "Roddy",
+          "url": "https://open.spotify.com/artist/3M85D4bHEadOIVyGMXo4uW"
+        }
+      ],
+      "duration_ms": 158826,
+      "name": "Flying High (feat. Roddy)",
+      "url": "https://open.spotify.com/track/2Y7LhlDfAWqTJ35Qzi0Hka"
+    },
+    {
+      "added_at": "2024-02-23 00:35:16",
+      "album": {
+        "name": "Don't Kill My Vibe",
+        "url": "https://open.spotify.com/album/3KnpNfHUGS8LGKMBPcTQ1h"
+      },
+      "artists": [
+        {
+          "name": "Sunstars",
+          "url": "https://open.spotify.com/artist/37obY6KAyQrGu95SqzKJlu"
+        }
+      ],
+      "duration_ms": 137566,
+      "name": "Don't Kill My Vibe",
+      "url": "https://open.spotify.com/track/5VjgPAhUOkHa7URYAHLSfa"
+    },
+    {
+      "added_at": "2024-02-23 00:35:16",
       "album": {
         "name": "Nikes On",
         "url": "https://open.spotify.com/album/6XNYFdj89d9S80qrwATYFH"
@@ -57,7 +285,27 @@
       "url": "https://open.spotify.com/track/0atyEX8Oo2UzFjsLmqN18m"
     },
     {
-      "added_at": "2024-02-16 00:01:29",
+      "added_at": "2024-02-23 00:35:16",
+      "album": {
+        "name": "Just A Kid",
+        "url": "https://open.spotify.com/album/71hoJtICb8oJUOclgYjRWh"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Captain Curtis",
+          "url": "https://open.spotify.com/artist/3uGJkMEEZ1kGFieLT5KytR"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Just A Kid",
+      "url": "https://open.spotify.com/track/43qTGBfICY2nCeC7iEatjH"
+    },
+    {
+      "added_at": "2024-02-23 00:35:16",
       "album": {
         "name": "Could It Be Love",
         "url": "https://open.spotify.com/album/7f8JjJK8NZZBi34FehzYqB"
@@ -73,7 +321,7 @@
       "url": "https://open.spotify.com/track/7sNXZG5QOWvxh2W2mKbXNp"
     },
     {
-      "added_at": "2024-02-16 00:01:29",
+      "added_at": "2024-02-23 00:35:16",
       "album": {
         "name": "Say It Right",
         "url": "https://open.spotify.com/album/3G61YNQMtrN1LCyiJocIJp"
@@ -93,7 +341,7 @@
       "url": "https://open.spotify.com/track/4vMUICZuISXIbaN8Qgqv9c"
     },
     {
-      "added_at": "2024-02-16 00:01:29",
+      "added_at": "2024-02-23 00:35:16",
       "album": {
         "name": "Lost In The Music",
         "url": "https://open.spotify.com/album/4302kKfB2VwUA3mUA84mUr"
@@ -109,7 +357,7 @@
       "url": "https://open.spotify.com/track/7oZOV66eOcLjv7a9YEt5NW"
     },
     {
-      "added_at": "2024-02-16 00:01:29",
+      "added_at": "2024-02-23 00:35:16",
       "album": {
         "name": "Underground",
         "url": "https://open.spotify.com/album/5rtgABh0j5MrK8EgDPkRpz"
@@ -125,7 +373,7 @@
       "url": "https://open.spotify.com/track/6RsuZyv4VrEZcdAjAonEsN"
     },
     {
-      "added_at": "2024-02-16 00:01:29",
+      "added_at": "2024-02-23 00:35:16",
       "album": {
         "name": "My Illusion",
         "url": "https://open.spotify.com/album/7f6P5PDtSHxWGk4DcgG1PD"
@@ -145,7 +393,7 @@
       "url": "https://open.spotify.com/track/1EzDAkSK2QCcqrvQZNaZP0"
     },
     {
-      "added_at": "2024-02-16 00:01:29",
+      "added_at": "2024-02-23 00:35:16",
       "album": {
         "name": "Finally",
         "url": "https://open.spotify.com/album/4GYXFokiQ37XDf1m26cQvg"
@@ -165,63 +413,7 @@
       "url": "https://open.spotify.com/track/329JBDKFLtiMA5aeKmRi1l"
     },
     {
-      "added_at": "2024-02-16 00:01:29",
-      "album": {
-        "name": "All Night",
-        "url": "https://open.spotify.com/album/7mlbnclHjUsHGkk0Ga8jIZ"
-      },
-      "artists": [
-        {
-          "name": "KSHMR",
-          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
-        },
-        {
-          "name": "gritney",
-          "url": "https://open.spotify.com/artist/4ffsVdOEMAqvXPPePkgP5d"
-        }
-      ],
-      "duration_ms": 195521,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/7LbdiDgAmMO8NskLtb43Yy"
-    },
-    {
-      "added_at": "2024-02-16 00:01:29",
-      "album": {
-        "name": "Move It",
-        "url": "https://open.spotify.com/album/21rVLnpqNomTcw2e1gTkg2"
-      },
-      "artists": [
-        {
-          "name": "Turno",
-          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
-        },
-        {
-          "name": "POLTERGST",
-          "url": "https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM"
-        }
-      ],
-      "duration_ms": 161828,
-      "name": "Move It",
-      "url": "https://open.spotify.com/track/2lfNpKFme8VsEUAddq1zOG"
-    },
-    {
-      "added_at": "2024-02-16 00:01:29",
-      "album": {
-        "name": "Don\u2019t Lead Anywhere",
-        "url": "https://open.spotify.com/album/7Cfo3SJMIztFNrnkBARuT9"
-      },
-      "artists": [
-        {
-          "name": "Dastic",
-          "url": "https://open.spotify.com/artist/1wdU1J2NHzcDYarT7jEU2A"
-        }
-      ],
-      "duration_ms": 127413,
-      "name": "Don\u2019t Lead Anywhere",
-      "url": "https://open.spotify.com/track/4u1sq1VQW1roBeLsQ9aUzq"
-    },
-    {
-      "added_at": "2024-02-16 00:01:29",
+      "added_at": "2024-02-23 00:35:16",
       "album": {
         "name": "When I Wake Up (Club Mix)",
         "url": "https://open.spotify.com/album/1GcYmXDF41C7moqc4SuW0B"
@@ -241,7 +433,7 @@
       "url": "https://open.spotify.com/track/1wH1L0g4zpEv3KSnFix9Lf"
     },
     {
-      "added_at": "2024-02-16 00:01:29",
+      "added_at": "2024-02-23 00:35:16",
       "album": {
         "name": "Best Thing (Mollie Collins Remix)",
         "url": "https://open.spotify.com/album/4Xm1CbxbmVdw9EkWzq7nRi"
@@ -261,43 +453,7 @@
       "url": "https://open.spotify.com/track/5hcQAJjNJvG60ay2TADG8I"
     },
     {
-      "added_at": "2024-02-16 00:01:29",
-      "album": {
-        "name": "Ass Made In USA",
-        "url": "https://open.spotify.com/album/46GHeqiYcausBtqTjmIHDO"
-      },
-      "artists": [
-        {
-          "name": "Vessbroz",
-          "url": "https://open.spotify.com/artist/7cfwpLTCScF6nchUyuwWUt"
-        }
-      ],
-      "duration_ms": 127200,
-      "name": "Ass Made In USA",
-      "url": "https://open.spotify.com/track/1QwZDpX5vfsCEI28EBkKVq"
-    },
-    {
-      "added_at": "2024-02-16 00:01:29",
-      "album": {
-        "name": "BAMAKA",
-        "url": "https://open.spotify.com/album/7i9rMBdZGy93sd5fVMpWBO"
-      },
-      "artists": [
-        {
-          "name": "Guglielmo Nasini",
-          "url": "https://open.spotify.com/artist/5L8AUf5S6M3XPD1foPgJ8j"
-        },
-        {
-          "name": "Aurelios",
-          "url": "https://open.spotify.com/artist/3hYxIpjaE52Bn3EZ8hDSxa"
-        }
-      ],
-      "duration_ms": 170125,
-      "name": "BAMAKA",
-      "url": "https://open.spotify.com/track/7FsThZgIXHuxMr4CfQ8uEW"
-    },
-    {
-      "added_at": "2024-02-16 00:01:29",
+      "added_at": "2024-02-23 00:35:16",
       "album": {
         "name": "Obsessed",
         "url": "https://open.spotify.com/album/1hsb6RcJ9etjnn4nl1qv9c"
@@ -313,7 +469,7 @@
       "url": "https://open.spotify.com/track/4RxMBaWraYDLmpz5fs6UaE"
     },
     {
-      "added_at": "2024-02-16 00:01:29",
+      "added_at": "2024-02-23 00:35:16",
       "album": {
         "name": "Coming Down",
         "url": "https://open.spotify.com/album/3V18tHyBzSTzmOLLMsydeK"
@@ -333,7 +489,7 @@
       "url": "https://open.spotify.com/track/6G9vK4N2yvvs5ZXz3dCPBx"
     },
     {
-      "added_at": "2024-02-16 00:01:29",
+      "added_at": "2024-02-23 00:35:16",
       "album": {
         "name": "Red",
         "url": "https://open.spotify.com/album/5piXyzMAIZuMZ8VaofZjNx"
@@ -353,7 +509,7 @@
       "url": "https://open.spotify.com/track/3MvGYvJ8pjFnau0RkcspXK"
     },
     {
-      "added_at": "2024-02-16 00:01:29",
+      "added_at": "2024-02-23 00:35:16",
       "album": {
         "name": "Life\u2019s Too Short (feat. Scarlett)",
         "url": "https://open.spotify.com/album/3DR0BJBWLEO5Uq8baZu15B"
@@ -381,51 +537,7 @@
       "url": "https://open.spotify.com/track/5QGkTjZ7qb6fQlNLh4mn2W"
     },
     {
-      "added_at": "2024-02-16 00:01:29",
-      "album": {
-        "name": "Sublime",
-        "url": "https://open.spotify.com/album/4rxSLDjau3Kqk1cPspR3bv"
-      },
-      "artists": [
-        {
-          "name": "Thomas Newson",
-          "url": "https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5"
-        },
-        {
-          "name": "Voost",
-          "url": "https://open.spotify.com/artist/2Xpq8bhn9z3zWo6WUsdvDO"
-        }
-      ],
-      "duration_ms": 175090,
-      "name": "Sublime",
-      "url": "https://open.spotify.com/track/4mYFelexMuf7kgSbGBdbJv"
-    },
-    {
-      "added_at": "2024-02-16 00:01:29",
-      "album": {
-        "name": "Dive In (feat. Notelle) [Dave Summer Remix]",
-        "url": "https://open.spotify.com/album/2QD6NrgyZ8fMxvzpmKVyzy"
-      },
-      "artists": [
-        {
-          "name": "Westend",
-          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
-        },
-        {
-          "name": "Notelle",
-          "url": "https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U"
-        },
-        {
-          "name": "Dave Summer",
-          "url": "https://open.spotify.com/artist/24qTxxQWmyOY28ZtW5z7O5"
-        }
-      ],
-      "duration_ms": 169479,
-      "name": "Dive In (feat. Notelle) [Dave Summer Remix]",
-      "url": "https://open.spotify.com/track/6Y5B6KG9OmiVChgLwrlt6O"
-    },
-    {
-      "added_at": "2024-02-16 00:01:29",
+      "added_at": "2024-02-23 00:35:16",
       "album": {
         "name": "Rock My Body (with Sash!) [NOYSE Remix]",
         "url": "https://open.spotify.com/album/4bCZIZSVSGu8TuJAswZ0L6"
@@ -451,86 +563,6 @@
       "duration_ms": 152000,
       "name": "Rock My Body (with Sash!) [NOYSE Remix]",
       "url": "https://open.spotify.com/track/7pV8lSQ4OM6GyCciYXBdso"
-    },
-    {
-      "added_at": "2024-02-16 00:01:29",
-      "album": {
-        "name": "BASS DON'T LIE",
-        "url": "https://open.spotify.com/album/6iT6kNsSon6LWlq6rKssZz"
-      },
-      "artists": [
-        {
-          "name": "Blasterjaxx",
-          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
-        },
-        {
-          "name": "Luciana",
-          "url": "https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV"
-        }
-      ],
-      "duration_ms": 206482,
-      "name": "BASS DON'T LIE",
-      "url": "https://open.spotify.com/track/2ptmmuBjaCXQr6zmdgf6Qg"
-    },
-    {
-      "added_at": "2024-02-16 00:01:29",
-      "album": {
-        "name": "La Vida Es Un Carnaval",
-        "url": "https://open.spotify.com/album/3VGYnKhtRiZYkDlj1I3Pn3"
-      },
-      "artists": [
-        {
-          "name": "Raffa Fl",
-          "url": "https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5"
-        },
-        {
-          "name": "H\u00c4WK",
-          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
-        },
-        {
-          "name": "Skylin3",
-          "url": "https://open.spotify.com/artist/0lfEYuqXghLpDw2GvG1kOB"
-        }
-      ],
-      "duration_ms": 125849,
-      "name": "La Vida Es Un Carnaval",
-      "url": "https://open.spotify.com/track/4QHReI7hHndwJVFesx6w26"
-    },
-    {
-      "added_at": "2024-02-16 00:01:29",
-      "album": {
-        "name": "Breathe",
-        "url": "https://open.spotify.com/album/12svB8ZOlbG8t3wXr8l84b"
-      },
-      "artists": [
-        {
-          "name": "Yves V",
-          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
-        },
-        {
-          "name": "Lukas Vane",
-          "url": "https://open.spotify.com/artist/4KG9oqu0VXEqu6fNdiip0U"
-        }
-      ],
-      "duration_ms": 156093,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/5WzW9TJyM9crru0ATLE1tm"
-    },
-    {
-      "added_at": "2024-02-16 00:01:29",
-      "album": {
-        "name": "1001 Nights",
-        "url": "https://open.spotify.com/album/0OMnm0euox8G0i7TeaZKl5"
-      },
-      "artists": [
-        {
-          "name": "Jad Halal",
-          "url": "https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "1001 Nights",
-      "url": "https://open.spotify.com/track/1xB46SSVfV5wXqrbz4NSUN"
     }
   ],
   "unique_name": "Spinnin' Records Brand New",

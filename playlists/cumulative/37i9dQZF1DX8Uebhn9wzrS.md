@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-1,849 songs - 2 day 22 hr 28 min
+1,852 songs - 2 day 22 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,7 +299,7 @@
 | [Chillin](https://open.spotify.com/track/4emXvNTk1TXMWTe2DiTl76) | [lofi stu](https://open.spotify.com/artist/42sa3ImS1Gv0LDCNS8jr2E) | [Chillin](https://open.spotify.com/album/0IQf3XnXYJQOjTdDD0lRzW) | 2:09 | 2022-04-15 | 2022-10-01 |
 | [Chilling At The Coast](https://open.spotify.com/track/0ssJ7IIxKQlYmdzHaBB0J7) | [Basmati](https://open.spotify.com/artist/1OK2jT1iiO4d8D5qHnJzLB), [Smeeagain](https://open.spotify.com/artist/2LTRTV2dmIxyoyHC7QZ7mZ) | [Chilling At The Coast](https://open.spotify.com/album/3WW5usDqUd1x29TKAy2iqN) | 1:36 | 2022-07-08 | 2022-11-26 |
 | [Chills](https://open.spotify.com/track/5X8vhQVCsICecrOKt5eE7r) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [Chills](https://open.spotify.com/album/0UuN74Piht5BTS6wdq6UMm) | 2:13 | 2024-01-12 |  |
-| [Chimes](https://open.spotify.com/track/3rtl8o4opvXJnYUtk1CgUq) | [daria valentina](https://open.spotify.com/artist/5t8yaGoIRiRYaluWCliD1F) | [Chimes](https://open.spotify.com/album/6jCtYhaisHTv8URb48V67Z) | 2:48 | 2024-02-09 |  |
+| [Chimes](https://open.spotify.com/track/3rtl8o4opvXJnYUtk1CgUq) | [daria valentina](https://open.spotify.com/artist/5t8yaGoIRiRYaluWCliD1F) | [Chimes](https://open.spotify.com/album/6jCtYhaisHTv8URb48V67Z) | 2:48 | 2024-02-09 | 2024-02-23 |
 | [Chino](https://open.spotify.com/track/6Xyj5BeU6yRXY0W8NOqxxQ) | [Pepe.](https://open.spotify.com/artist/1la8zkPQaD2MjeQB31y9j4), [Moo Latte](https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F) | [Chino](https://open.spotify.com/album/6X8Rc9Rk6jmgJ762f5U0aN) | 3:09 | 2022-05-27 | 2022-11-12 |
 | [Cigarette Serenade](https://open.spotify.com/track/6Gw7WZdsCOhM5hr7JbTah9) | [Hi Hat Henry](https://open.spotify.com/artist/7tsp47BEDJSjYQB0YaDV52) | [Midnight Cityscape](https://open.spotify.com/album/1uv4Aj6Lvid3x6bELOJ45h) | 1:49 | 2023-02-21 |  |
 | [Circle of Ours](https://open.spotify.com/track/57sd7qRHflTjWvcbTL9NnW) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs) | [Circle Of Ours](https://open.spotify.com/album/6DEf9pLBRcDGDCMBrcrTyh) | 2:17 | 2022-04-15 | 2022-12-09 |
@@ -414,7 +414,7 @@
 | [Deux Issues](https://open.spotify.com/track/5rEZbTGUKmxNpfdqaQkd36) | [Major Mélanger](https://open.spotify.com/artist/3QSBaA0B5mA2WrHmUR3GoH) | [Deux Issues](https://open.spotify.com/album/1JFbMzfDYFX0LrJpfCzipd) | 2:44 | 2023-12-08 |  |
 | [Devolving](https://open.spotify.com/track/1o11MvTRPD8vW7BhAQmWLw) | [Muni](https://open.spotify.com/artist/2VcTkhXOXidpqh4MfiQA5p) | [Devolving](https://open.spotify.com/album/7DhS7EenGeLLAJPwfuEVMA) | 1:56 | 2022-05-13 | 2022-11-12 |
 | [Diaphane](https://open.spotify.com/track/00oTqcKHoGsI2RpajOg0hh) | [Naute](https://open.spotify.com/artist/2LfwnXXH6HdeP825h4u7lt) | [Diaphane](https://open.spotify.com/album/7F92gWMkU59j6wlOLXUCs4) | 2:17 | 2023-01-13 | 2023-10-20 |
-| [dice](https://open.spotify.com/track/5s2QLYYGX8sNyxPfEaqOZ5) | [poems](https://open.spotify.com/artist/3MqAMBWx8jXvOhjQWiGN6w) | [dice](https://open.spotify.com/album/2oRp58qXZya0hiR7f6wkTQ) | 2:30 | 2024-02-09 |  |
+| [dice](https://open.spotify.com/track/5s2QLYYGX8sNyxPfEaqOZ5) | [poems](https://open.spotify.com/artist/3MqAMBWx8jXvOhjQWiGN6w) | [dice](https://open.spotify.com/album/2oRp58qXZya0hiR7f6wkTQ) | 2:30 | 2024-02-09 | 2024-02-23 |
 | [Dijon Lofi](https://open.spotify.com/track/0QBLLWPxhUficWtZlpGGgS) | [Printeme](https://open.spotify.com/artist/2YvnVXbia5SDheNBnFoVLE) | [Magnifique](https://open.spotify.com/album/0DpMbQvYK92kNNFkfZ8Bqo) | 1:37 | 2022-04-15 | 2023-08-18 |
 | [Dinner is Ready](https://open.spotify.com/track/0QIlgmnJBsd6zkH9u7MEcX) | [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O), [Lodge Records](https://open.spotify.com/artist/1zH6nlehuJvatlTMmKok98) | [Dinner is Ready](https://open.spotify.com/album/3kPBeasLZztiyyCPZ9l9wO) | 2:27 | 2022-04-15 | 2022-07-08 |
 | [Dinner Party](https://open.spotify.com/track/77McLs2DwfzeDTKGKMgwyX) | [Schmiddunsk](https://open.spotify.com/artist/0AQS8pEM0Xn19i8l0expPg) | [Dinner Party](https://open.spotify.com/album/0I1HKkQIUSw2xpC8VBSOv2) | 2:03 | 2023-04-20 | 2023-09-14 |
@@ -719,6 +719,7 @@
 | [Hello](https://open.spotify.com/track/55kBQKbWwzMmEafQYjvhQe) | [Mr Argyle](https://open.spotify.com/artist/3uXwEhmJJ8hkRJS7nE07sw) | [Hello](https://open.spotify.com/album/6NtOlKsDjrApcJtdH4T6jn) | 1:51 | 2023-11-17 |  |
 | [Hendi Dendi](https://open.spotify.com/track/4E3b2X2YqgyHOsHcs9UUgF) | [Zumak](https://open.spotify.com/artist/6be30BeZ9kqClak0AY5Gi7) | [Hendi Dendi](https://open.spotify.com/album/5OpiTQzeq0CRKoX6PjNCUe) | 1:45 | 2022-06-17 | 2023-03-25 |
 | [Here and now](https://open.spotify.com/track/31hcMWLC7fDMWgBZwuHpyp) | [S\-Ilo](https://open.spotify.com/artist/04zvEg1lhzzyN1rLgfO8hG), [Jokujekku](https://open.spotify.com/artist/0L1eY5MVRiGxxfMa77yy3n) | [Sprouts](https://open.spotify.com/album/4o3FdqqI0H63vkFpr6Xq2Z) | 2:55 | 2022-07-01 | 2022-11-26 |
+| [Heroes Retreat](https://open.spotify.com/track/1iD0vEZSvlpsDRSN6y3o0J) | [Conjure kid](https://open.spotify.com/artist/3mFXDnOibfFGvbYkqAt2XU) | [Heroes Retreat](https://open.spotify.com/album/3zkjaXc1ojZQnC61ZhDgTP) | 2:03 | 2024-02-23 |  |
 | [Hertz](https://open.spotify.com/track/4iZ2xIWITnUiSJYAsVkKy6) | [Twinkz](https://open.spotify.com/artist/1uAbd4UZwniPiJefEpZfm9) | [Vacations](https://open.spotify.com/album/4abXoseVkIbthiSLFKhIi9) | 1:50 | 2022-04-15 | 2022-10-14 |
 | [hibernation mode](https://open.spotify.com/track/4Kii20h2MsA5HEt7K6mCPy) | [buggy beats](https://open.spotify.com/artist/20sIKWsBpGJNPLbWNeSrT7) | [hibernation mode](https://open.spotify.com/album/2mE0S43AM9FVSGuai19oUP) | 2:10 | 2024-02-02 |  |
 | [hide and seek](https://open.spotify.com/track/4qLmzt8gY917amivZZw1IO) | [Pi Teddy](https://open.spotify.com/artist/12BlQzNeSJJOSrPciICYFu) | [Childhood](https://open.spotify.com/album/5pJdmQhsZdqUNMPs2uzTxh) | 1:56 | 2023-02-06 |  |
@@ -1281,6 +1282,7 @@
 | [Pool of Swim](https://open.spotify.com/track/3xK38Jy0gEs7yprInWoFZQ) | [Papi Pier](https://open.spotify.com/artist/12lYoPQA3rNidZJe8zMTwe) | [Pool of Swim](https://open.spotify.com/album/0GPUOPd04HhfgvCmWWtEGb) | 2:34 | 2022-04-15 | 2022-10-29 |
 | [Poolside](https://open.spotify.com/track/16KQpV5VEOshgoavRzHKV1) | [Gold Coast Microscopes](https://open.spotify.com/artist/1cp4bfGnJTQ2JImmeBCzMu) | [Poolside](https://open.spotify.com/album/5tkPyaVRCTnUwXozgKpvB8) | 1:36 | 2022-06-03 | 2022-12-09 |
 | [poolside](https://open.spotify.com/track/23qAxDhazTIB0AvnmPKaFS) | [May\-Flowa](https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr) | [poolside](https://open.spotify.com/album/33hQDtv1nKUPbZPl0ish6A) | 1:58 | 2023-12-08 |  |
+| [poppy](https://open.spotify.com/track/2n4AwQls3F6atW1Av1sLIM) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [poppy](https://open.spotify.com/album/2KhU3J9GYoqTjmAnBQcMwg) | 2:33 | 2024-02-23 |  |
 | [Porcelain](https://open.spotify.com/track/0UNB3fFFmSJ8PzI7qQMR7j) | [Astairé](https://open.spotify.com/artist/2DWDXgHWqbRV6oQKFTlcvc) | [Porcelain](https://open.spotify.com/album/1v6Zf1hclq06Y1IF9rqaxO) | 2:06 | 2022-10-28 | 2023-01-20 |
 | [poseidon](https://open.spotify.com/track/6MpZRAlMbG1PvjuMNtzp9t) | [low&slow](https://open.spotify.com/artist/5nRIouNA5T37sVSDEjbhAL) | [poseidon](https://open.spotify.com/album/63BcmPVShgWasXts8qMikS) | 2:01 | 2024-02-02 |  |
 | [Postcard](https://open.spotify.com/track/6igKvLcWShsDL1ZRhUMTcM) | [Luc Delvaux](https://open.spotify.com/artist/0TtVPA9JL5p8Yqr7guSEn0) | [Postcard](https://open.spotify.com/album/4a1dWfgc8gKIrnJ7fTQRQ4) | 2:22 | 2023-01-06 | 2023-03-09 |
@@ -1496,6 +1498,7 @@
 | [Space Loneliness](https://open.spotify.com/track/5kci1qV7mn8VeQh5uJFbj9) | [Myríad](https://open.spotify.com/artist/5TGFw78FIV0hLV90O8A7an), [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC) | [Interplanetary](https://open.spotify.com/album/4sqt9my6FZqGFZ941bdyOy) | 2:00 | 2022-12-09 | 2023-09-16 |
 | [Spaced](https://open.spotify.com/track/24j5X1HoQGjZBSOrqKixDA) | [Neon Panda](https://open.spotify.com/artist/2NtkuswhQoj1dDBC5xFLtY) | [Spaced](https://open.spotify.com/album/6cgxglNfCLIyqkTNjiB34l) | 2:35 | 2022-04-15 | 2022-07-01 |
 | [spacewalk](https://open.spotify.com/track/0aCCGFwEjFpwbBogpzra6b) | [okayokay](https://open.spotify.com/artist/633sZM1wdqt78ctvpVluum) | [spacewalk](https://open.spotify.com/album/6EudaZOIQN6nXEodWRhcuX) | 2:15 | 2023-11-24 |  |
+| [Sparkle](https://open.spotify.com/track/6E3Ks7ElkgvfhF93unPTXj) | [Tune in with Chewie](https://open.spotify.com/artist/4M4gexhCyv12RmbowD8xjS) | [Sparkle](https://open.spotify.com/album/6pwc042jl4PQ5RQfSMUGOP) | 2:30 | 2024-02-23 |  |
 | [Speakeasy](https://open.spotify.com/track/5irWhK2xahSBHYmloLrtsp) | [Butler Earl](https://open.spotify.com/artist/75EPAxAdLTklBTdTm1GI3h) | [Sultry Soiree](https://open.spotify.com/album/5I3k7IoRagNyQUasfiNhCB) | 3:00 | 2023-04-20 | 2023-09-22 |
 | [Special Juice](https://open.spotify.com/track/5m4bEYyJh1G7TxlWYBDx31) | [Wally Woo](https://open.spotify.com/artist/3XVKC5nfhl73bqsvMz9coN) | [Special Juice](https://open.spotify.com/album/16VeFUhnt3jgHG8zVNvuK7) | 2:16 | 2022-04-15 | 2022-12-17 |
 | [Specs](https://open.spotify.com/track/5oTOrR69wkWoJbKElUhmRA) | [Nick Mosh](https://open.spotify.com/artist/5ZprAKTt6mHV0qSdABSUPx), [Sid Similar](https://open.spotify.com/artist/1w4vugLBqgHoBPartBq9A9) | [Specs](https://open.spotify.com/album/14nqrIOs4msbZoxrQUa92c) | 1:53 | 2022-08-19 | 2022-11-21 |
@@ -1552,7 +1555,7 @@
 | [Sun Meets Moon](https://open.spotify.com/track/3gEAPIikCAa8ch4IT1mmwe) | [Oscar Hollis](https://open.spotify.com/artist/15ZZypdx99YQ2lPB7o5wka) | [Sun Meets Moon](https://open.spotify.com/album/0CLlGhAKoLPlaHGkY6ttrv) | 2:38 | 2022-04-15 | 2023-03-02 |
 | [Sunburn \- Remix](https://open.spotify.com/track/2NQidIdJeB77ZblvIwIZrt) | [Sebastián Zarza](https://open.spotify.com/artist/6gtTcc5ZMOrs3870QQfyxC), [Lloyd Vaan](https://open.spotify.com/artist/3HFWqhd60hrJB8fpyjrTLu) | [Sunburn \(Remix\)](https://open.spotify.com/album/5dgqvaimpNv9MePu6nHlFS) | 3:05 | 2022-11-11 | 2023-09-16 |
 | [Sunday](https://open.spotify.com/track/1gFYYUmb1cwLssxND7thGG) | [Mama Gecko](https://open.spotify.com/artist/3hsIheKwar2G4DBVfH3FBh) | [Sunday](https://open.spotify.com/album/5bmSp90NZHIeDJDgedtTFL) | 1:24 | 2022-04-15 | 2022-09-09 |
-| [Sunday \(Nichiyoubi\)](https://open.spotify.com/track/5LUlMNS5g88rz2SfAvG4ht) | [M.I Hakone](https://open.spotify.com/artist/1Gi5R2l9oX8zs5iiy2vP7v) | [Sunday \(Nichiyoubi\)](https://open.spotify.com/album/5EBjW98OgvW7lXGNfOvnff) | 2:24 | 2024-02-09 |  |
+| [Sunday \(Nichiyoubi\)](https://open.spotify.com/track/5LUlMNS5g88rz2SfAvG4ht) | [M.I Hakone](https://open.spotify.com/artist/1Gi5R2l9oX8zs5iiy2vP7v) | [Sunday \(Nichiyoubi\)](https://open.spotify.com/album/5EBjW98OgvW7lXGNfOvnff) | 2:24 | 2024-02-09 | 2024-02-23 |
 | [Sunday Funday](https://open.spotify.com/track/69SSNKlRiIl05N6x0drCUa) | [Vida](https://open.spotify.com/artist/7b3Z4ZPifTMuQfrdZr9QRg) | [Sunday Funday](https://open.spotify.com/album/5vPRAZcnvkETTgTqnIEluP) | 1:58 | 2024-01-19 |  |
 | [sunday jammin'](https://open.spotify.com/track/03YNvnjIXEv0Du4mWlYhvd) | [UKDD](https://open.spotify.com/artist/14AiEXtiaKk6yF7YO2fap8), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [sunday jammin'](https://open.spotify.com/album/2UR3mLagCXzEm1UHsWi8Xh) | 2:09 | 2022-04-15 | 2022-10-14 |
 | [Sunday Vibe](https://open.spotify.com/track/2DkudyqbfyxWaHrsFVdcQg) | [Black Phaze](https://open.spotify.com/artist/4Xm7EYlYJm4EqciSxo5emO) | [Sunday Vibe](https://open.spotify.com/album/7u2zSSqdcVSt7jW0IYSF8x) | 2:18 | 2022-04-15 | 2022-10-08 |

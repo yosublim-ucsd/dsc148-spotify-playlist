@@ -1,5 +1,5 @@
 {
-  "2024-02-22": 488896,
+  "2024-02-23": 489086,
   "date_first_scraped": "2022-04-14",
   "description": "Sitar, flute, and sounds inspired by India.",
   "name": "Indian Chill",
@@ -2697,6 +2697,28 @@
     {
       "album": {
         "name": "Siddharthas Echoes",
+        "url": "https://open.spotify.com/album/55Jz6l9fzWVopImHAFYzoG"
+      },
+      "artists": [
+        {
+          "name": "Vedic Moon",
+          "url": "https://open.spotify.com/artist/5sDjAQydhCH4cMMsWRJBI7"
+        },
+        {
+          "name": "Vic Vision",
+          "url": "https://open.spotify.com/artist/7sWJw6QdFcubpMrTamBKw0"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192473,
+      "name": "Siddharthas Echoes",
+      "url": "https://open.spotify.com/track/0VB1Djbd1gnDZzhLHopYIf"
+    },
+    {
+      "album": {
+        "name": "Siddharthas Echoes",
         "url": "https://open.spotify.com/album/2cumKJiYUKZOcbMrNrXh6b"
       },
       "artists": [
@@ -2711,7 +2733,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 192473,
       "name": "Siddharthas Echoes",
       "url": "https://open.spotify.com/track/3WmDbmhu8NH9i4NB8gJdbm"

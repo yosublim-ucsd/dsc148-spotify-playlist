@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9EM98aZosoy.md) - [plain]
 
 > Feiern mit den größten aktuellen Partyhits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,286,853 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,286,824 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9EM98aZosoy.md) - [plain]
 | 49 | [Ich nehm dich bei der Hand \(SimsalaGrimm\)](https://open.spotify.com/track/14iwJXnTuI9qdcosMEB73h) | [Luca\-Dante Spadafora](https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB), [Beats by Luca](https://open.spotify.com/artist/4zWCSVXVIgIscx9kT3vfOs) | [Ich nehm dich bei der Hand \(SimsalaGrimm\)](https://open.spotify.com/album/2nP38OhbFaK5iCeGV8gEbP) | 2:05 |
 | 50 | [EWIGKEIT \- REMIX](https://open.spotify.com/track/4kcgrgZhd4h8chSAJ86mIq) | [erobé](https://open.spotify.com/artist/2Reg4IlIHtEGZHnSD4pphn), [KXXMA](https://open.spotify.com/artist/6AFA7y2tNohNcpaLwDRyxx), [Lyfrix](https://open.spotify.com/artist/4TSAnyHn47PpS8S9ofOjYU) | [EWIGKEIT \(REMIX\)](https://open.spotify.com/album/7g9MhzAbsC7Z7Orsa0Z7Dz) | 2:17 |
 
-Snapshot ID: `MCxkNzk4MDIzNmNlN2Y5MDU3OTFlMzBmOWQ1MjE5ODFjZmUwYzA2NzUw`
+Snapshot ID: `MCw0ZWY3NDFiYWZlMGNkYzcwYTliOTMxYWQ4ZTQzYWE2ZjRhZmRhNWM5`

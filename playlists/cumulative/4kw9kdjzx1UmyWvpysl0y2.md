@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-664 songs - 1 day 14 hr 25 min
+665 songs - 1 day 14 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [Do Not Resist](https://open.spotify.com/track/4xvvHMshkQgGoDBCVXTSIa) | [Rebel Scum](https://open.spotify.com/artist/59aaYbMLU4xeqKrwJSY4tE) | [Do Not Resist](https://open.spotify.com/album/475crrYDMvhgxXYp91ffTa) | 3:32 | 2023-09-18 | 2024-01-11 |
 | [Don't Let Me Down](https://open.spotify.com/track/07YWBlyteDawyBWwKZGWmN) | [Dr\. Ushūu](https://open.spotify.com/artist/5UCxi2O9gdyXj7fNgQE9xR) | [Don't Let Me Down](https://open.spotify.com/album/7EqjRqiP6PJHOoypQfTQH6) | 3:00 | 2023-04-03 | 2023-06-27 |
 | [Don't Need You](https://open.spotify.com/track/3DyQ8iVs0kfsgbugsPQfT8) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO), [Laura Brehm](https://open.spotify.com/artist/7ddnIV2r4SLjuwyGlgLIWt) | [Don't Need You](https://open.spotify.com/album/6IVig4iThZNVK8Fz7xtRTz) | 3:27 | 2022-02-08 | 2022-04-19 |
+| [Don't Wanna Know](https://open.spotify.com/track/1OSrkd1JuVQXQJaGE5joFY) | [Ryan Case](https://open.spotify.com/artist/2MCUmcEXeY80S0aSucQsXn), [Jake Neumar](https://open.spotify.com/artist/69weKTfYYEBofMntV36KPG) | [Don't Wanna Know](https://open.spotify.com/album/5iAqHK3ZuBqgcXaIDNCEjl) | 2:45 | 2024-02-22 |  |
 | [Doppelleben](https://open.spotify.com/track/7HF6q1y3zrvuB74VxOoZqP) | [OAI](https://open.spotify.com/artist/518xSxGVtLL5ck9r5xzasg) | [Doppelleben](https://open.spotify.com/album/0AFtfyQilo8jDVHssOtSE9) | 4:09 | 2021-11-19 | 2022-02-23 |
 | [Double Tap](https://open.spotify.com/track/4bc9Yk2C6ad3fAnTLfrBGZ) | [Going Quantum](https://open.spotify.com/artist/14XqctcPu0lzQjrUZ06Tsn), [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs) | [Double Tap](https://open.spotify.com/album/4SDO9lDKGzIIBp9zubIvPo) | 3:21 | 2022-10-10 | 2022-12-10 |
 | [Dream Cycle](https://open.spotify.com/track/7txsm358oTUP7fYsV1pI5M) | [Dokho](https://open.spotify.com/artist/5m62yqRUbEgCFNLKLlHkXM), [Banaati](https://open.spotify.com/artist/3lwdREjAeG9zskfcoPYAz4) | [Dream Cycle](https://open.spotify.com/album/1QvHgVXLSeEvJ7QYtapuBK) | 3:47 | 2022-01-26 | 2022-04-06 |
@@ -355,7 +356,7 @@
 | [Love For You](https://open.spotify.com/track/7ao8imeoghP0rWSOrIJalv) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [Madalen Duke](https://open.spotify.com/artist/5qElg3REYcoPscmGLy0NmU) | [Love For You](https://open.spotify.com/album/3ymyjHRaZNbk8c2Sa2u8sg) | 3:23 | 2022-01-14 | 2022-03-24 |
 | [Love Me](https://open.spotify.com/track/532GvRC2Nvv6sZlMtppByu) | [Dr\. Ushūu](https://open.spotify.com/artist/5UCxi2O9gdyXj7fNgQE9xR) | [Love Me](https://open.spotify.com/album/2n3BfSQ9ey2xQP4sr9DGfr) | 3:42 | 2023-02-03 | 2023-04-21 |
 | [Love Runs Out](https://open.spotify.com/track/62Il6xcyOlZ3oB4qvQ33sj) | [Afinity](https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf), [Dror](https://open.spotify.com/artist/31BRzHwH9Ayqp5AbRDk9kO) | [Love Runs Out](https://open.spotify.com/album/03DTFehGzdj45KPNxxpGxg) | 4:02 | 2023-02-21 | 2023-05-13 |
-| [Machine](https://open.spotify.com/track/4yDWW2wokaaPrFBAE1qUAx) | [F.O.O.L](https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2) | [MACHINE](https://open.spotify.com/album/34ZXvS2vUviORekLOh9qPA) | 2:48 | 2023-11-10 |  |
+| [Machine](https://open.spotify.com/track/4yDWW2wokaaPrFBAE1qUAx) | [F.O.O.L](https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2) | [MACHINE](https://open.spotify.com/album/34ZXvS2vUviORekLOh9qPA) | 2:48 | 2023-11-10 | 2024-02-23 |
 | [Madara](https://open.spotify.com/track/5j5AySWYSMSsBD4nmz6z1D) | [IVORY](https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo), [Dr\. Ushūu](https://open.spotify.com/artist/5UCxi2O9gdyXj7fNgQE9xR) | [Madara](https://open.spotify.com/album/17JIU9E1un5GmXxEGBjjEl) | 3:51 | 2022-10-31 | 2023-01-24 |
 | [Madness](https://open.spotify.com/track/3zsPz5ElM9EZZALNNN5gBy) | [Saxsquatch](https://open.spotify.com/artist/0rsyQklwpBiAvkeXbnFB1t) | [Madness](https://open.spotify.com/album/7jyOHk3mdvqCpGWqsj7aPE) | 2:55 | 2022-03-11 | 2022-05-26 |
 | [Magma](https://open.spotify.com/track/56x8xKnAXBdAJVK3AgdsFm) | [Pixel Terror](https://open.spotify.com/artist/3DajvNySJjylWpCSeXefFm) | [Magma](https://open.spotify.com/album/3D3vEPEMF6ZuoDaHiLSyz5) | 3:21 | 2021-11-19 | 2022-02-03 |

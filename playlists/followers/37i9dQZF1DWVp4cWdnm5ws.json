@@ -1,5 +1,5 @@
 {
-  "2024-02-22": 84126,
+  "2024-02-23": 84151,
   "date_first_scraped": "2022-01-02",
   "description": "Discover new artists on the horizon this 2023. Cover: Alamat\n\n",
   "name": "RADAR Philippines",
@@ -157,6 +157,28 @@
       "duration_ms": 158677,
       "name": "An Art Gallery Could Never Be As Unique As You",
       "url": "https://open.spotify.com/track/22Nd3GuO7sHopPjdKccRcq"
+    },
+    {
+      "album": {
+        "name": "Ang Galing DITO",
+        "url": "https://open.spotify.com/album/0SlJFK6OHKamPywLwROwaI"
+      },
+      "artists": [
+        {
+          "name": "DITO Telecommunity",
+          "url": "https://open.spotify.com/artist/5dvhvdiS3UKaAJ74swZo8H"
+        },
+        {
+          "name": "Alamat",
+          "url": "https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Ang Galing DITO",
+      "url": "https://open.spotify.com/track/0LAX5IcN1i2aDWXqW0Tsap"
     },
     {
       "album": {
@@ -1950,6 +1972,28 @@
     },
     {
       "album": {
+        "name": "Pagdali",
+        "url": "https://open.spotify.com/album/185zJ1UyWQn80NFdOCjIPJ"
+      },
+      "artists": [
+        {
+          "name": "PLAYERTWO",
+          "url": "https://open.spotify.com/artist/4wjgqUtfS9TNfMHhjEqAb7"
+        },
+        {
+          "name": "Felip",
+          "url": "https://open.spotify.com/artist/2tEFDBihLXytoPl4xdResl"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213658,
+      "name": "Pagdali",
+      "url": "https://open.spotify.com/track/7fMR5ryCo3m38yyj1PCym4"
+    },
+    {
+      "album": {
         "name": "Pagsamo",
         "url": "https://open.spotify.com/album/2a4tsCtI450vuuBKJ3nSP2"
       },
@@ -2483,6 +2527,24 @@
       "duration_ms": 238847,
       "name": "Soul Ties",
       "url": "https://open.spotify.com/track/6HFrOJItMlIgzlYsXcs6Fu"
+    },
+    {
+      "album": {
+        "name": "20:20",
+        "url": "https://open.spotify.com/album/0TJkShI3cK81IT2dQ70Xbh"
+      },
+      "artists": [
+        {
+          "name": "VXON",
+          "url": "https://open.spotify.com/artist/03jMNKZ7bfBuHdZUqeJyv7"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214434,
+      "name": "SSP (Saksak Sa Puso)",
+      "url": "https://open.spotify.com/track/4hNKQWQvHOOfxUR0IrGpYG"
     },
     {
       "album": {

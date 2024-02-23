@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3vuU6c.md) - [plain]
 
 > This is Sia\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,378,367 likes - 51 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,378,514 likes - 51 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3vuU6c.md) - [plain]
 | 50 | [Guts Over Fear](https://open.spotify.com/track/3pAnZV3mgNKCABheAUatc3) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [SHADYXV](https://open.spotify.com/album/3CjuTytLZz3G9znXt2rJgU) | 5:01 |
 | 51 | [Salted Wound \- From "Fifty Shades Of Grey" Soundtrack](https://open.spotify.com/track/54ssLbJIu1evMyaERFYHjs) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Fifty Shades Of Grey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4gnEi23PFBwHXT9rMqTsN5) | 4:30 |
 
-Snapshot ID: `Mjg0NzUyOTAsMDAwMDAwMDBiZTJhMzdhYTdkYmE1ZDNjODAyMThjNGE4MTcyOTk5Mw==`
+Snapshot ID: `Mjg0NzcwNzUsMDAwMDAwMDA5YmFlZjQ4ZjVhYmZhOGYyNjRmZTFmNDZhYTVmMzkwYw==`

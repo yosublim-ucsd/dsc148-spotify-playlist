@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJ7xPn4vNaz.md) - [plain]
 
 > The biggest songs of the 1970s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,288,052 likes - 150 songs - 9 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,288,827 likes - 150 songs - 9 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJ7xPn4vNaz.md) - [plain]
 | 149 | [I'm Not In Love](https://open.spotify.com/track/5HQEmiV2lKnSO6qa2fsR7x) | [10cc](https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5) | [The Original Soundtrack](https://open.spotify.com/album/1CMgmJjMFskwwmK8h8j1Oj) | 6:06 |
 | 150 | [Cold as Ice](https://open.spotify.com/track/7vidktgNZFQylTgH1GEnMs) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [Foreigner \(Expanded\)](https://open.spotify.com/album/1OU7zJvUfgxxPHgkTClt1M) | 3:20 |
 
-Snapshot ID: `MCw0NjJhZGVjZDgwODhmMzk3YjIzN2MyM2EyNDU3NWQ4ZmNlNDc2N2Yx`
+Snapshot ID: `MCwzNWY1MmY0OTg3ZjJhOTEzNGY0ZGJhM2VmYzc3ZmYyOGZlMjgyZTkw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKuerrwoAGz.md) - [plain]
 
 > Put a smile on your face with these happy tunes from the last 30 years.
 
-[Spotify](https://open.spotify.com/user/spotify) - 502,861 likes - 150 songs - 8 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 503,079 likes - 150 songs - 8 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKuerrwoAGz.md) - [plain]
 | 149 | [Style](https://open.spotify.com/track/4lIxdJw6W3Fg4vUIYCB0S5) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) | 3:51 |
 | 150 | [All About That Bass](https://open.spotify.com/track/5jE48hhRu8E6zBDPRSkEq7) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Title \(Deluxe\)](https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE) | 3:07 |
 
-Snapshot ID: `MCw0Y2M3ODAzNWE1MzdiNTc2NDVkNTc1OWZhNWJjZWU5NWIyYWYxYWMz`
+Snapshot ID: `MCxhNmU5ZDQwNzJhMzIyMDZjZWM1MjI2ZjJjNDg0OWFlNjUxYzZjZmEx`

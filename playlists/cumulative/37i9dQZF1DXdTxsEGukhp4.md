@@ -4,11 +4,12 @@
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: Ayumu Imazu
 
-330 songs - 19 hr 28 min
+331 songs - 19 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [18](https://open.spotify.com/track/20bxks5amfv7rVf8D6a1r7) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [18](https://open.spotify.com/album/4pyHUmAJzl9dZUvFwVzLe7) | 3:35 | 2023-04-27 | 2023-07-06 |
+| [24/7 YOU...](https://open.spotify.com/track/44FOrs9EwYsp64WlsL8EXD) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [24/7 YOU...](https://open.spotify.com/album/1RIeaWQ4OVcm8TEZdiAaPr) | 2:41 | 2024-02-22 |  |
 | [35°C](https://open.spotify.com/track/2JNDQGte1PNUZaxV8wp5MB) | [Candee](https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR), [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [Rockdown](https://open.spotify.com/album/0PTuKPDfxHvFUJlAkMtDy8) | 2:28 | 2023-11-16 |  |
 | [ai no hana](https://open.spotify.com/track/2piySGAWgVwsRKm60SfOmF) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [ai no hana](https://open.spotify.com/album/05BmOU0qWEmrkLoGxwoV1p) | 4:02 | 2023-08-17 | 2023-09-29 |
 | [Ai no Nuime](https://open.spotify.com/track/6Fg4d8rimrexkqDqDxYsB0) | [moon drop](https://open.spotify.com/artist/1fqzuhLXIimUwLTU6HzBse) | [Boku no Uta de Kimi ni Eien wo](https://open.spotify.com/album/1MMlfzh5fLDMyMt72ZwQkY) | 4:01 | 2023-01-26 | 2023-02-24 |
@@ -272,7 +273,7 @@
 | [スマイルあげない](https://open.spotify.com/track/4LKpngNUdNSWMSewkMkKzL) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [スマイルあげない](https://open.spotify.com/album/0jQQr37kPhFRI6zjpP5Ys5) | 3:17 | 2023-06-22 | 2023-09-15 |
 | [セブンティーン](https://open.spotify.com/track/1TXhBe3DnaOFc7onTbEoiB) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [セブンティーン](https://open.spotify.com/album/2XGJwl5zpqPTmtLAPy2rr6) | 3:19 | 2023-03-30 | 2023-04-28 |
 | [ゼロ距離恋愛](https://open.spotify.com/track/3rA3elSXqK2aMkuDajQrFn) | [rerulili](https://open.spotify.com/artist/0pe4oh93288gTffEVZWZ1H) | [ゼロ距離恋愛](https://open.spotify.com/album/3W3HK6jamfEw1LRofzXGDL) | 2:54 | 2023-01-26 | 2023-03-03 |
-| [タイムマシンにのって](https://open.spotify.com/track/60Ll4oaLbHtoscyMJyNwfo) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [タイムマシンにのって](https://open.spotify.com/album/3pZbyfVXT3wJFnjoU7rJf7) | 3:56 | 2023-11-09 |  |
+| [タイムマシンにのって](https://open.spotify.com/track/60Ll4oaLbHtoscyMJyNwfo) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [タイムマシンにのって](https://open.spotify.com/album/3pZbyfVXT3wJFnjoU7rJf7) | 3:56 | 2023-11-09 | 2024-02-23 |
 | [ターコイズ](https://open.spotify.com/track/4h0bg0R9tG0OplMXy9SVM2) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [ターコイズ](https://open.spotify.com/album/37SXzOlujwOrbxMDCcFpmY) | 3:19 | 2023-06-01 | 2023-09-09 |
 | [チーズ](https://open.spotify.com/track/3bjyPSQqaxldKhMQuJ3U5v) | [Chinozo](https://open.spotify.com/artist/205dGSmCjnFA0Mjptshdsx) | [チーズ](https://open.spotify.com/album/0JQrvuksIwuucJWdGGgOtX) | 2:40 | 2023-01-26 | 2023-02-24 |
 | [ハナウタ](https://open.spotify.com/track/0K8ckD0WIk7AzgEkXDPoVC) | [Tamio Okuda](https://open.spotify.com/artist/3ZWE1TnryM03rfzVin17K0) | [ハナウタ](https://open.spotify.com/album/3Lc1YBq6bx1Cu2SgLIho0N) | 3:49 | 2023-12-07 | 2024-01-05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl4lbUfCVSx.md) - [plain]
 
 > Sa k'ap fèt! Enjoy Haiti’s national music, a smooth modern méringue sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,911 likes - 40 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,922 likes - 40 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl4lbUfCVSx.md) - [plain]
 | 39 | [Blakawout](https://open.spotify.com/track/1TWzsHg1p2lC21NXGWBOzS) | [Klass](https://open.spotify.com/artist/5SXlv0JnAn32FcXUP7Ib2n) | [Ret Nan Liy Ou](https://open.spotify.com/album/4kATfnQIJ6aOEfQ5hxMGOp) | 5:14 |
 | 40 | [She's a Freak](https://open.spotify.com/track/0emPt8vmtR7wKYKr0TKajD) | [Dee End](https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f) | [She's a Freak](https://open.spotify.com/album/6weHkn20iKsmXfJeD8QpfJ) | 6:54 |
 
-Snapshot ID: `MCwxM2VkMDc1Y2FhMDAwMmNiYWFmMTZjZDIwOWMzYWNiNTQ3ODIxMzg5`
+Snapshot ID: `MCw1ZTcyNmMwNTBkMzJjNDk0NzNhZWQxNzk5NTEwNDYwMDMwZmRlZmM5`

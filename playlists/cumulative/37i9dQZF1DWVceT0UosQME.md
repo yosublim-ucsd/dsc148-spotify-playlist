@@ -4,7 +4,7 @@
 
 > your soundtrack to your exam studies\. for max productiveness\. u got this!
 
-521 songs - 19 hr 56 min
+524 songs - 20 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Check\-Out Time](https://open.spotify.com/track/6Q0Pf9BVZxgpebR8q3NS6N) | [Geometrical](https://open.spotify.com/artist/2qBL4kmK6EygqSfEEkMRpq) | [Check\-Out Time](https://open.spotify.com/album/4G799Tgmay9itwQSV3xdTF) | 1:53 | 2024-01-05 |  |
 | [Cherries and Blossoms](https://open.spotify.com/track/56cMel1zfzxtK41JFABVKV) | [Aiko Ai](https://open.spotify.com/artist/4ifCvddHRxg397i6vjqwby) | [Cherries and Blossoms](https://open.spotify.com/album/1JJFpT7M1xqL6DCa7kp2GW) | 1:43 | 2024-01-05 |  |
 | [Cherry Blossom](https://open.spotify.com/track/6RO1NFtqXr2FgbrUJCkame) | [Komorebi](https://open.spotify.com/artist/2eOS10ukiu8a9nPVwivizO) | [Cherry Blossom](https://open.spotify.com/album/7n1QYNXh7TbEQLtYrrUWwF) | 2:00 | 2024-01-05 |  |
-| [Chimes](https://open.spotify.com/track/3rtl8o4opvXJnYUtk1CgUq) | [daria valentina](https://open.spotify.com/artist/5t8yaGoIRiRYaluWCliD1F) | [Chimes](https://open.spotify.com/album/6jCtYhaisHTv8URb48V67Z) | 2:48 | 2024-02-09 |  |
+| [Chimes](https://open.spotify.com/track/3rtl8o4opvXJnYUtk1CgUq) | [daria valentina](https://open.spotify.com/artist/5t8yaGoIRiRYaluWCliD1F) | [Chimes](https://open.spotify.com/album/6jCtYhaisHTv8URb48V67Z) | 2:48 | 2024-02-09 | 2024-02-23 |
 | [Cigarette Serenade](https://open.spotify.com/track/6Gw7WZdsCOhM5hr7JbTah9) | [Hi Hat Henry](https://open.spotify.com/artist/7tsp47BEDJSjYQB0YaDV52) | [Midnight Cityscape](https://open.spotify.com/album/1uv4Aj6Lvid3x6bELOJ45h) | 1:49 | 2024-01-05 |  |
 | [city lights](https://open.spotify.com/track/5vQeIRZVYMZZgaPNiYUz5h) | [fly\_by\_wire](https://open.spotify.com/artist/68bqVC3nQPvOuKAYdQNUEj) | [city lights](https://open.spotify.com/album/4kfUmEXhzM7XU7QN677eVQ) | 2:21 | 2024-01-05 |  |
 | [city signs](https://open.spotify.com/track/2pbNxwPO7CIgRTiwiuEvTN) | [rec.X](https://open.spotify.com/artist/128lWCKxWAbFjrQaTDviJt) | [city signs](https://open.spotify.com/album/6K7wrCG1xu2oJ1NsOnm5Fy) | 1:59 | 2024-01-05 |  |
@@ -129,7 +129,7 @@
 | [Early Grey](https://open.spotify.com/track/4fbZjDV5jrlnJgche5lZBj) | [Blank x Blank](https://open.spotify.com/artist/7tZMN6RonZwh9uUI3zdDgT) | [Early Grey](https://open.spotify.com/album/2mpedk23jMimsBI06nCWxi) | 2:36 | 2024-01-05 |  |
 | [Early Mornings](https://open.spotify.com/track/3mZQX7fqgtcMIHJuAH3UEA) | [d'Addario](https://open.spotify.com/artist/4V0Cgq9L5jRSOTcDVZgABQ) | [Early Mornings](https://open.spotify.com/album/2Ru4uhUL0lCt81wgMPjimz) | 1:53 | 2024-01-05 |  |
 | [Edgy Stripes](https://open.spotify.com/track/1HfvXRyfR8DPm9KK0PCOue) | [sunnee](https://open.spotify.com/artist/6lT0N3TbFSVDDPMAVXk32X) | [Edgy Stripes](https://open.spotify.com/album/18EGmKo4d938htKFBJOZyB) | 2:10 | 2024-01-05 |  |
-| [Egg Rollz](https://open.spotify.com/track/5swljGcGse2QRMLWji89yv) | [baegel](https://open.spotify.com/artist/5NaaHKhCjBsIbSRh96NuzA), [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Egg Rollz](https://open.spotify.com/album/0g2qx277TrWnpNgQcXjvBp) | 2:11 | 2024-01-05 |  |
+| [Egg Rollz](https://open.spotify.com/track/5swljGcGse2QRMLWji89yv) | [baegel](https://open.spotify.com/artist/5NaaHKhCjBsIbSRh96NuzA), [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Egg Rollz](https://open.spotify.com/album/0g2qx277TrWnpNgQcXjvBp) | 2:11 | 2024-01-05 | 2024-02-23 |
 | [Emotions](https://open.spotify.com/track/0GX01FogF0EeJYXKTYwhMp) | [Kibunde](https://open.spotify.com/artist/53W7kqgUgfbnfgPXkK7r0g) | [Emotions](https://open.spotify.com/album/61boJpcbCcJogaxhegOHwN) | 2:24 | 2024-01-05 |  |
 | [empty heads](https://open.spotify.com/track/78CZWFmBaPAWNmm1k14Vis) | [Lou Lizza](https://open.spotify.com/artist/64ExAUrTH26xYrVrCFEVH4) | [empty heads](https://open.spotify.com/album/4P41CkhQor2WlRLv8bQYai) | 2:38 | 2024-01-05 |  |
 | [Enchanté](https://open.spotify.com/track/2DrgL0r61Hen8m0pV3zyW1) | [Herbert Ungarn](https://open.spotify.com/artist/0ha44a2tcK2b9iERUaXWAQ) | [Enchanté](https://open.spotify.com/album/4i8j7sK7dQ6ESbIDopluL8) | 2:36 | 2024-01-05 |  |
@@ -208,6 +208,7 @@
 | [hatten](https://open.spotify.com/track/0nPa8iAD5XHvwAuh7dND32) | [archipelago beats](https://open.spotify.com/artist/7kv4vSxfaAfdzaq6Ogd272) | [hatten](https://open.spotify.com/album/00xZabDtZSUmnM8ODVHA7e) | 2:35 | 2024-01-05 | 2024-02-07 |
 | [Hauga](https://open.spotify.com/track/4Zt4YhDZ0SoMIR8lzXZw7I) | [J Mariou](https://open.spotify.com/artist/0EtOuwnEN1iBz6miiq5NfW) | [Hauga](https://open.spotify.com/album/08Hy3qIJEDIvUDw1oaoT7g) | 2:01 | 2024-01-05 |  |
 | [Hello](https://open.spotify.com/track/55kBQKbWwzMmEafQYjvhQe) | [Mr Argyle](https://open.spotify.com/artist/3uXwEhmJJ8hkRJS7nE07sw) | [Hello](https://open.spotify.com/album/6NtOlKsDjrApcJtdH4T6jn) | 1:51 | 2024-01-05 |  |
+| [Heroes Retreat](https://open.spotify.com/track/1iD0vEZSvlpsDRSN6y3o0J) | [Conjure kid](https://open.spotify.com/artist/3mFXDnOibfFGvbYkqAt2XU) | [Heroes Retreat](https://open.spotify.com/album/3zkjaXc1ojZQnC61ZhDgTP) | 2:03 | 2024-02-23 |  |
 | [hide and seek](https://open.spotify.com/track/4qLmzt8gY917amivZZw1IO) | [Pi Teddy](https://open.spotify.com/artist/12BlQzNeSJJOSrPciICYFu) | [Childhood](https://open.spotify.com/album/5pJdmQhsZdqUNMPs2uzTxh) | 1:56 | 2024-01-05 |  |
 | [high above](https://open.spotify.com/track/4iIFJ3anp1aKw6fx0tg8jD) | [Soulflu](https://open.spotify.com/artist/6dBaFTE0JSiCN4JL9K03tM) | [high above](https://open.spotify.com/album/0dNK0JXw77i4UaG6HRVidc) | 1:42 | 2024-01-05 |  |
 | [Highway to Shell](https://open.spotify.com/track/1h9AZqUiuQWbnpbUiR3olP) | [Royal 63](https://open.spotify.com/artist/3uacTioaRYR9HiighlkFqJ) | [Highway to Shell](https://open.spotify.com/album/61ClakUBMQ1Efqa4wolbNs) | 2:20 | 2024-01-05 |  |
@@ -372,6 +373,7 @@
 | [Planka på tricken](https://open.spotify.com/track/6rqgMboy3Kc7vVFZeeJnp9) | [Alek Faith](https://open.spotify.com/artist/3TPr8KDYLfhwXdYOuUoFdi) | [Planka på tricken](https://open.spotify.com/album/34L7eNGbFJoqVkoK8E9SeM) | 2:04 | 2024-01-05 |  |
 | [Plant Haze](https://open.spotify.com/track/7q0NPAbq3rDORmYjfR0VYu) | [WFPB](https://open.spotify.com/artist/4rMRjyAjkIJB4a6voVAtAM) | [Plant Haze](https://open.spotify.com/album/5nKTjrxGyD9AR9wMehx4iA) | 2:01 | 2024-01-05 |  |
 | [Play and Stop](https://open.spotify.com/track/1gT6cdQbANynZ2aur4Prnk) | [Hall of Lofi](https://open.spotify.com/artist/5KWhpgpD7iLdJaf5MZbRYt) | [Viro Aronowitz](https://open.spotify.com/album/6PyEDBCGsADSxhoRksNFxQ) | 1:45 | 2024-01-05 |  |
+| [poppy](https://open.spotify.com/track/2n4AwQls3F6atW1Av1sLIM) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [poppy](https://open.spotify.com/album/2KhU3J9GYoqTjmAnBQcMwg) | 2:33 | 2024-02-23 |  |
 | [projection](https://open.spotify.com/track/5ot2Nv3COru7DqNd8PaFy5) | [love\_eight](https://open.spotify.com/artist/2cCbtvKbNfKnKuMfEeyvJE) | [projection](https://open.spotify.com/album/64wr6u8ng4pFUfCvtLIbJ8) | 2:38 | 2024-01-05 |  |
 | [Proud](https://open.spotify.com/track/389TtRJoTkbZ8VtGkt22iC) | [SPEERMINT](https://open.spotify.com/artist/4vUekBx2RSM0U87RLJl1pL) | [Proud](https://open.spotify.com/album/6kethGKQhDlXousA0NfVCD) | 2:16 | 2024-01-05 |  |
 | [Purified Soul](https://open.spotify.com/track/2JGKpdMtspPxONj1xJYwS1) | [Henry Lowe](https://open.spotify.com/artist/1Op6kjtkZu2Yqx5UprLQVt) | [Purified Soul & Refreshing Air](https://open.spotify.com/album/0GIIExJeHSE5hR32lBLnVi) | 3:12 | 2024-01-05 |  |
@@ -418,7 +420,7 @@
 | [Sinnlig](https://open.spotify.com/track/1QLn1ZxpNoMD8ATiLcAT8w) | [Sippo](https://open.spotify.com/artist/6Ifp89Y7k7akjnLdD83G0c) | [Sinnlig](https://open.spotify.com/album/3jlHIjqf15s7iAeytrZvO0) | 2:03 | 2024-01-05 |  |
 | [Sitting in the back of the bar](https://open.spotify.com/track/2xgqlUPRHDVzwsPQLkzLtW) | [Wezley Wiz](https://open.spotify.com/artist/6oGyihO2387JNURS8U5Olg) | [Sitting in the back of the bar](https://open.spotify.com/album/6L86usczi60obBJx6cLG3z) | 2:03 | 2024-01-05 |  |
 | [Skyrisers](https://open.spotify.com/track/6l4OburkdTyyFVKAQ885mt) | [K\-Town Rollers](https://open.spotify.com/artist/4bzyVkMeEJtUOYFjMpSJd9) | [Skyrisers](https://open.spotify.com/album/6XbT7i6Nqj9RHounBHXHJ2) | 1:53 | 2024-01-05 |  |
-| [Slay](https://open.spotify.com/track/6Rt2oplsgLFOyU4okO7zkJ) | [Grill Hensler](https://open.spotify.com/artist/0jdnj1iJ03t0r3VM4SIgYc) | [Slay](https://open.spotify.com/album/0NEtzD2Zmrepd0H8lzn9Z3) | 2:21 | 2024-01-05 |  |
+| [Slay](https://open.spotify.com/track/6Rt2oplsgLFOyU4okO7zkJ) | [Grill Hensler](https://open.spotify.com/artist/0jdnj1iJ03t0r3VM4SIgYc) | [Slay](https://open.spotify.com/album/0NEtzD2Zmrepd0H8lzn9Z3) | 2:21 | 2024-01-05 | 2024-02-23 |
 | [smileyface](https://open.spotify.com/track/6oGk8aYZv1s28KeBrFGQax) | [Ali Kaj](https://open.spotify.com/artist/06VNBq9wJN4eEo6ZRM7HGI) | [smileyface](https://open.spotify.com/album/78DU2xHbAo9sss8dmbstyI) | 2:54 | 2024-01-05 |  |
 | [Smokin' aces](https://open.spotify.com/track/3GoTqkZ7NxIGy7uBLkeLuR) | [Idris Kelly](https://open.spotify.com/artist/2V8HJffWKh4zmPWFqvwImv) | [Smokin' aces](https://open.spotify.com/album/2hWKhdSkjrJAhYMepkdxkf) | 2:01 | 2024-01-05 |  |
 | [Smoking at Sundown](https://open.spotify.com/track/7fZE886mHBzgaeA5SlMSaa) | [peerless](https://open.spotify.com/artist/1c2JWfQucGww8ADlPqc0oJ) | [Laboratoire](https://open.spotify.com/album/6TmlJOoGjqc57gXO0lxgvX) | 2:12 | 2024-01-05 |  |
@@ -432,6 +434,7 @@
 | [somethings up](https://open.spotify.com/track/3rDBUpweSkV3oVQTpfi2m9) | [milk beats](https://open.spotify.com/artist/0q21LrR1ploq7PhImgdhZA) | [somethings up](https://open.spotify.com/album/3f5XgiJhXdkBL7yqY9PuP9) | 1:52 | 2024-01-15 |  |
 | [Sounds From The Park](https://open.spotify.com/track/55uqa2dZDFoy45LNi2c0Da) | [Byz Playground](https://open.spotify.com/artist/0BMwJwRVDIJwATictkQzky) | [Sounds From The Park](https://open.spotify.com/album/1hZjugixYJQrlemnJEwnLE) | 1:54 | 2024-01-05 |  |
 | [spacewalk](https://open.spotify.com/track/0aCCGFwEjFpwbBogpzra6b) | [okayokay](https://open.spotify.com/artist/633sZM1wdqt78ctvpVluum) | [spacewalk](https://open.spotify.com/album/6EudaZOIQN6nXEodWRhcuX) | 2:15 | 2024-01-05 |  |
+| [Sparkle](https://open.spotify.com/track/6E3Ks7ElkgvfhF93unPTXj) | [Tune in with Chewie](https://open.spotify.com/artist/4M4gexhCyv12RmbowD8xjS) | [Sparkle](https://open.spotify.com/album/6pwc042jl4PQ5RQfSMUGOP) | 2:30 | 2024-02-23 |  |
 | [Spectre](https://open.spotify.com/track/7lAMobRN7Q1Gj00qA0TyNM) | [submarine](https://open.spotify.com/artist/5Z939ZaWYTA9rJyHq1jzKv) | [Spectre](https://open.spotify.com/album/1gI6pkoJ3EvTV5msQgFzSe) | 1:51 | 2024-01-05 |  |
 | [spellbounds](https://open.spotify.com/track/5XtH4864ouLpUJx3rzBeOS) | [Beamer](https://open.spotify.com/artist/6AbxfHV92ca4w7SK7IN9Md) | [spellbounds](https://open.spotify.com/album/5QR42b7gHmNPuK2IqkpDD9) | 3:29 | 2024-01-05 |  |
 | [Spin Free](https://open.spotify.com/track/3XfWLX7rsb5AptnfdY63iv) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [Spin Free](https://open.spotify.com/album/3mgmSjsfe7MZcPSAlG6PuH) | 2:20 | 2024-01-05 |  |

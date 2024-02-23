@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2I7Ykltk83m.md) - [plain]
 
 > killer songs from badass artists\. Cover: Haley Blais
 
-[Spotify](https://open.spotify.com/user/spotify) - 358,703 likes - 125 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 358,768 likes - 125 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2I7Ykltk83m.md) - [plain]
 | 124 | [Tick Tock](https://open.spotify.com/track/0Q7tKJdvKx6yyJ8qSf6elE) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Warm Chris](https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v) | 3:39 |
 | 125 | [Watching Cartoons](https://open.spotify.com/track/3Gb1M4i5UlDauEnaLJF2HT) | [La Luz](https://open.spotify.com/artist/6QRlkjrHz5A62mqeNZz7t3), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [La Luz](https://open.spotify.com/album/17WOu1wHd6KdSO2Z0HRz6w) | 3:28 |
 
-Snapshot ID: `MCw2NDUzNDQwMjNhY2RjNWEwNzMwZTRhZmU1MjhhY2ZiNDVkZmZhMTJi`
+Snapshot ID: `MCwzOGJhMzlkMTc5NGY4MmM0MGM3NjZiZjQ4MDQ5MzVhMzc1ZTY3NzA1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Lime Garden
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,043 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,080 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 5 | [Birdseye](https://open.spotify.com/track/3g3WLQLqNNLyzCY7rBZup7) | [Babehoven](https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70) | [Birdseye](https://open.spotify.com/album/15nDuQXtC6M3m3esLEa4w7) | 2:31 |
 | 6 | [Next Time](https://open.spotify.com/track/2JfSHrsOnxzDUZptyH31DL) | [Sydney Ross Mitchell](https://open.spotify.com/artist/6ehbjKYJwaDdHpiw52vdGr) | [Next Time](https://open.spotify.com/album/4cDkVp1F4MoDk14LiUQzZV) | 2:58 |
 | 7 | [Here Hair](https://open.spotify.com/track/115AP550Xkjhj1O6S0teo8) | [Gustaf](https://open.spotify.com/artist/6QqLYrbjh5CnfMG7z5r96E) | [Here Hair / Hard Hair](https://open.spotify.com/album/03fQcyzWD57NgUkIwFuVmD) | 4:40 |
-| 8 | [Compliment](https://open.spotify.com/track/5KtPXXwn4EOZQIjCMZne7P) | [Omni](https://open.spotify.com/artist/4wBhllC5Nto10UefzXVMt9) | [Compliment](https://open.spotify.com/album/03HhnvM8QBxTsqXE2on8DK) | 3:56 |
+| 8 | [Compliment](https://open.spotify.com/track/1zRQ4KlIzIpikVJq4ZnvvC) | [Omni](https://open.spotify.com/artist/4wBhllC5Nto10UefzXVMt9) | [Souvenir](https://open.spotify.com/album/703bpbJhzptTx5GTGNQoS4) | 3:56 |
 | 9 | [Ghost](https://open.spotify.com/track/11wMfHsceksu8GAIugQMA9) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [Ghost](https://open.spotify.com/album/2NSk5OYfehagwMeFNEUeDN) | 4:06 |
 | 10 | [The Brown Eyed Driver](https://open.spotify.com/track/0QQgM0bkR3myEAEE7QNOaS) | [Flora Rose](https://open.spotify.com/artist/7FA3u2tBhml3eXiOSbNwVL) | [Synthetic Flowers For A Romantic Comedy](https://open.spotify.com/album/2oGnqDKo3Z6gtTphnvAr0A) | 4:39 |
 | 11 | [Obsessive Thoughts](https://open.spotify.com/track/0lavlWToofi8DpSeC2DplP) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Weird Faith](https://open.spotify.com/album/40hflv8qjnNzLA2ZrFA3yv) | 3:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 99 | [Nothing Left To Lose](https://open.spotify.com/track/00udfYIC2Z9rLaghIxRh3x) | [Bleach Lab](https://open.spotify.com/artist/2B70zWgfCAGQ8o2ImS2bH8) | [Lost In A Rush Of Emptiness](https://open.spotify.com/album/3EvUVXwaGNkeqinGICcGQU) | 3:18 |
 | 100 | [rainwater on the windowsill](https://open.spotify.com/track/7bpmQPNf2KYjI0ZbbShENj) | [Orchid Mantis](https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq) | [rainwater on the windowsill](https://open.spotify.com/album/2w4pzTqX8lAeVLnJ0NGEsw) | 3:08 |
 
-Snapshot ID: `MCxmMjkxNDc5YmM5MWU4YTEwZGY5ODU4NDlkNWRkMDJmYjQ2NmZmMGE1`
+Snapshot ID: `MCwyNGRlYTFjNTY0YTBhMjQ0YWUwYTkyMWQxN2YxMmM4Yzg0MDZmMzk0`

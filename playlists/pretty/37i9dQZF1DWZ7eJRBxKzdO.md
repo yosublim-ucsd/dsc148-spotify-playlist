@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7eJRBxKzdO.md) - [plain]
 
 > The summer needs dance hits 😎☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 393,723 likes - 120 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 394,356 likes - 120 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7eJRBxKzdO.md) - [plain]
 | 119 | [Feeling For You](https://open.spotify.com/track/1BSTT3sbQ1MVVacApHilK9) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Living In A Haze](https://open.spotify.com/album/0i97wLIXfWMDi3vyRDZBCn) | 3:41 |
 | 120 | [Sun Will Shine](https://open.spotify.com/track/6bp0sJ0l3Ab3ZU0aktsYCf) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Sun Will Shine](https://open.spotify.com/album/43u6j73XJJE6wOhKgsA50W) | 3:21 |
 
-Snapshot ID: `MCxmNDNmYjNiNDZkOGIxMWIxYzQ5YjU1ZjE3MTMwOWQ2YjY1MzRlZjYz`
+Snapshot ID: `MCxlYjE1YzRhOTlhOTQ2NjRlYjYyNjZkODMyYjAzYzYxN2MzNDhjMWYz`

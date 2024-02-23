@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuraZzTY0LP.md) - [plain]
 
 > Lo más alternativo para una mamá muy mo\-der\-na.
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,612 likes - 70 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,678 likes - 70 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuraZzTY0LP.md) - [plain]
 | 69 | [Sin Señal](https://open.spotify.com/track/4CA5GAc6d6zM2ft0MbQ1BW) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Paranoia Pop](https://open.spotify.com/album/7oKpkZ7JZqjK4GP5cyKCyV) | 3:39 |
 | 70 | [Fresh](https://open.spotify.com/track/6sRfgwJVZZnMo92SaEAaY4) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Fresh](https://open.spotify.com/album/6RGWxCMX5GEKPgjP7gi6zD) | 2:45 |
 
-Snapshot ID: `MCxmM2ViMzMwOTc0MDNmM2E0OGVkM2Y0YTIyZWNkOTc0MDQxMmY4ZjRm`
+Snapshot ID: `MCwwZTVkMWVjOGRiMTNlOTlhMGRhN2JjYTEyYzc3ZDk0ZmYxZTU2ZWE0`

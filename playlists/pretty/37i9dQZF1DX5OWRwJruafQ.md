@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 
 > Keep it Punjabi, Keep it Real\. Cover: Tarsem Jassar
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,579 likes - 100 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,653 likes - 100 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Kingpin The Next Episode](https://open.spotify.com/track/5TJb1FKg6Fa2zRcTqifRtm) | [Tarsem Jassar](https://open.spotify.com/artist/67XQGZSc63AMXMINY8H7Fx), [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [New Order](https://open.spotify.com/album/2Wz1JsCb2VN3mNMy10nmK7) | 3:00 |
-| 2 | [.45](https://open.spotify.com/track/4mym4dNc5XPEAXP7Orzq18) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [.45](https://open.spotify.com/album/6vG52FnBHzc61469A3yiBs) | 2:40 |
+| 2 | [.45](https://open.spotify.com/track/4mym4dNc5XPEAXP7Orzq18) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Roop Bhullar](https://open.spotify.com/artist/0sYnCQ9Eb3RbEHOqVQST8d) | [.45](https://open.spotify.com/album/6vG52FnBHzc61469A3yiBs) | 2:40 |
 | 3 | [Hisaab](https://open.spotify.com/track/1yRBYvgibg7JVS6uGvbDGU) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Street Dreams](https://open.spotify.com/album/3UFq6P2Qu3yNM2hMZqfZ1Y) | 3:26 |
 | 4 | [8 ASLE](https://open.spotify.com/track/6wkHR8cU4INbp145hngbQO) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [UNDISPUTED](https://open.spotify.com/album/5jwxgwhfEuWqBfKYPHaC34) | 2:41 |
 | 5 | [Patiala Flow](https://open.spotify.com/track/4bwM0uV1LvFtNtTL78ZgHR) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Laddi Chahal](https://open.spotify.com/artist/3lmszXxkp47K9kDCRRPU8p) | [Y Hate ?](https://open.spotify.com/album/7N0yvorIcp7TXTvhKSK1uQ) | 2:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 | 99 | [Nah They Can't](https://open.spotify.com/track/5RXc1cmSNl3DSRThl2Ii4W) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [No Lookin' Back](https://open.spotify.com/album/2z1B8rt2WK0K92x9XbCV24) | 3:24 |
 | 100 | [If I Die](https://open.spotify.com/track/6Hz3tNl55T31nuoX5NKybR) | [Guri Lahoria](https://open.spotify.com/artist/4oMjKSuAAFB6E9a5Icudw3), [Devilo](https://open.spotify.com/artist/5qrlwNqpcRzoI9Pjux1xHQ) | [If I Die](https://open.spotify.com/album/78piK5s0g1fcELSLFzvDbI) | 3:06 |
 
-Snapshot ID: `MCwzYjg1OTdmYjQ1NGZiMWE5YzMxNDI5ODRlMGU0ZjQzZTUxZDAwYTg1`
+Snapshot ID: `MCw1YWNkODc1NGVjNjdmMWQzOWEzOWY3ODI1NjQ3NGIyMmIxYjg2ZTc2`

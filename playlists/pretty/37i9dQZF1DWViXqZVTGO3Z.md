@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViXqZVTGO3Z.md) - [plain]
 
 > Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,459 likes - 150 songs - 10 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,452 likes - 150 songs - 10 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViXqZVTGO3Z.md) - [plain]
 | 149 | [Silent Night](https://open.spotify.com/track/1pL2y3rKA7iNQnaq8kbZle) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [Silent Night](https://open.spotify.com/album/4heqRBLM0AmNnbJfclf5nD) | 3:03 |
 | 150 | [A Very Merry Christmas](https://open.spotify.com/track/3tKCt9Xy303NAWC8xZHQZ5) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s), [Mateus Asato](https://open.spotify.com/artist/4en3qu5SDsPtBcTkXasukc), [Jesus Molina](https://open.spotify.com/artist/7Gl7yiOLDSRr1cZyPwpGv4) | [A Very Merry Christmas](https://open.spotify.com/album/3gJyqisGeXFgauoNd0GNnE) | 3:20 |
 
-Snapshot ID: `MCw1NTU1YjdmMTI4YzNhNzk2MTk0NTQ5NGIwZTk0M2RmZjg5YmU3YmZh`
+Snapshot ID: `MCwxYmY1NmFjYzEwMzBkZDY1OWQwNGVhMzg5YzRlNjczN2M4OWNiODdk`

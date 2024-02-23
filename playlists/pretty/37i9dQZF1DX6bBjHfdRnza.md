@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance & electronic by independent artists and labels\. Cover: Glimji\. Artwork by Rewina Beshue.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,571 likes - 85 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,630 likes - 85 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 84 | [Do It Like Me](https://open.spotify.com/track/26o843uY3ANMiXKs81ha75) | [VASA](https://open.spotify.com/artist/2AfkC7SKf63FMnxCKGbncN) | [Do It Like Me](https://open.spotify.com/album/3veXCUSQdxDEuNg9ZsjpJ3) | 2:07 |
 | 85 | [Go Through Everything](https://open.spotify.com/track/4OzmkADqSbUFs6gUtcJp8l) | [Lugovskiy](https://open.spotify.com/artist/6wozPdzuBdOnDCoesMPIkT) | [Go Through Everything](https://open.spotify.com/album/4G5JyNCJaem1oORudvs3RZ) | 3:24 |
 
-Snapshot ID: `MCxlZDg2NmM4NzY0MzhjZTkxNTc5MWFhMzQ3NjRmMmU5YzI0Yzk0ZmVi`
+Snapshot ID: `MCw2ZjBkOGRhNTZmY2JlYTRmNTUyNTFkNTdkM2MwZjhlNmRlODU5NGI5`

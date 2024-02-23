@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8lgFHA30hX3.md) - [plain]
 
 > Enjoy the ATEEZ world tour concert LIVE SET including the voices of members on stage! \(에이티즈 멤버들의 무대의 목소리가 포함된 월드 투어 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,501 likes - 31 songs - 1 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,554 likes - 31 songs - 1 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8lgFHA30hX3.md) - [plain]
 | 30 | [Farewell](https://open.spotify.com/track/7pjkkGfyooslqdMtXdq5Lm) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ATEEZ WORLD TOUR \[THE FELLOWSHIP : BREAK THE WALL\]](https://open.spotify.com/album/0uVS8lXDfmv57euKIlwXnl) | 0:22 |
 | 31 | [BOUNCY \(K\-HOT CHILLI PEPPERS\)](https://open.spotify.com/track/5KyOUICJIvO0z71MBdPGiX) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.2 : OUTLAW](https://open.spotify.com/album/5DxixnuklLg28S7UMeGC9H) | 3:07 |
 
-Snapshot ID: `MCwzZjI1OTU2NWM0Yjk4MmFmYTE0MmNmZWMyOWQ1NzcyZWU5ZjE2MWE4`
+Snapshot ID: `MCw1MjEyMjExZGZmZjJlMzBmZDM5OTYwNmQ3NGI4ZDg4YmYyYWM4ZTJm`

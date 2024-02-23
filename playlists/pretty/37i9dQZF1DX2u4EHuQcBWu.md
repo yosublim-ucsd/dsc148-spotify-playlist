@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 
 > Himnos de Resistencia: Somos un pueblo fuerte que no se calla.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,125 likes - 100 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,167 likes - 100 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 | 99 | [La vida no vale nada \(feat\. Lila Downs\)](https://open.spotify.com/track/2G93TASv7mpom8JIZnWbuv) | [Haydée Milanés](https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [AMOR Haydée Milanés a dúo con Pablo Milanés \(EDICIÓN DELUXE\)](https://open.spotify.com/album/3ytIR3b4QHTDgreNs5bDzU) | 3:46 |
 | 100 | [Todavia Cantamos](https://open.spotify.com/track/1TenrgmXbei6eyBQQdcnYK) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq), [Victor Heredia](https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X) | [Gieco Y Heredia En Vivo](https://open.spotify.com/album/3DJPYHm866uKwVGciRggY3) | 3:46 |
 
-Snapshot ID: `MCwyODllZGRhMzE4ODEzYWM0NzdiYzAxM2FlOGNkMWE2M2E2Y2Q0Mjdm`
+Snapshot ID: `MCwyM2UwOWZkOTcxMWVmYjhmYjQxNzA5NTU3NGZkNTg3N2RmODdlZDA2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 
 > Para honrar a los muertos con el más sublime placer terrenal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,667 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,660 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 | 99 | [A Mi Me Mató La Vida](https://open.spotify.com/track/6IXhgZRpbrZULT8aqNrC43) | [Astrid Hadad](https://open.spotify.com/artist/5UwFR1nHrA40JVhsZsI0i3) | [Vivir Muriendo](https://open.spotify.com/album/19X1XEM2hrbn7FNX3cyfP1) | 4:04 |
 | 100 | [Dimensión Astral](https://open.spotify.com/track/7FV7GdKvi1FFbP41PqI1y2) | [Rosalía León](https://open.spotify.com/artist/3CmpJ8AXGUzYIRPmFUbjyx), [Sole Gimenez](https://open.spotify.com/artist/56FObtReljLqgs2bgQ0kZS), [Pavel Cal](https://open.spotify.com/artist/5Als1ZFRIWsXOBsNpDvVm9) | [Más Alto](https://open.spotify.com/album/2Gxxed1c45BQTqHbfBbmsG) | 3:29 |
 
-Snapshot ID: `MCxlZGVkZDUwNjU5OWUxODg1Y2MzYjc4ZjVlM2U0ODAwNGVlZDM2NDhh`
+Snapshot ID: `MCxmYTI1YmQxZWM4YjUwMmJkNWZjNzZiOGY5ZDcyM2UxNjIyZTk4ZTMy`

@@ -4,7 +4,7 @@
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: Chevon
 
-1,427 songs - 3 day 14 hr 39 min
+1,428 songs - 3 day 14 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1097,6 +1097,7 @@
 | [ミラ](https://open.spotify.com/track/3Nh3i6YBmVN9zHGFuMlwd2) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [ミラ](https://open.spotify.com/album/5RLYmHgINEeyKJrWTDZr4c) | 2:56 | 2022-02-17 | 2022-04-06 |
 | [ミラージュ](https://open.spotify.com/track/1Th7SUwzsekSITN4OcLfmc) | [Benlou](https://open.spotify.com/artist/4sECzRxkhQ0LmFaufbgbKj) | [ミラージュ](https://open.spotify.com/album/5uqGYqtdZmnQ2ZdsVhrijJ) | 3:43 | 2022-10-25 | 2022-10-27 |
 | [ムスクの香り](https://open.spotify.com/track/5N7gaC7e7eeOFe8Bgnzhti) | [the shes gone](https://open.spotify.com/artist/689D5sYXTKmpBXqAkAu0H7) | [ムスクの香り](https://open.spotify.com/album/3ytT7NqC0qAXHLAMp2R3lq) | 3:16 | 2022-10-25 | 2022-12-21 |
+| [メイデン](https://open.spotify.com/track/5n4hfQXhSc1nXYoKTAS2xb) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [僕だけの愛](https://open.spotify.com/album/1rUF9QA4jMdL55gIgL0vxZ) | 2:55 | 2024-02-22 |  |
 | [メルト](https://open.spotify.com/track/1l3DyfCBMljhECA1oO2ySP) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [メルト](https://open.spotify.com/album/3ScJNa9OOkQYCVc3A6eg6P) | 2:43 | 2023-02-01 | 2023-02-27 |
 | [メロディー!](https://open.spotify.com/track/1gdYC7zGOFf0sRPwkkqbf5) | [ワンダフル放送局](https://open.spotify.com/artist/06HH8z9WkqtGgLpCMqDkaT) | [メロディー!](https://open.spotify.com/album/3XmO2Vdj0gzXIG6qg98sZQ) | 3:35 | 2023-04-25 | 2023-05-31 |
 | [ユメのはじまり。](https://open.spotify.com/track/66oYFwtVhj0zSayFxcNaSj) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [ユメのはじまり。](https://open.spotify.com/album/3b3WoVqAc6zcXApOjchHvj) | 4:05 | 2024-02-06 |  |
@@ -1139,7 +1140,7 @@
 | [何年先も憶えててほしい](https://open.spotify.com/track/79OJr7RyMwOCupcDtZSX9Y) | [ケプラ](https://open.spotify.com/artist/1vJQ33eLhZQw9PHiHoA8ZJ) | [何年先も憶えててほしい](https://open.spotify.com/album/6si9mH4mbMYsLa8RBRLHCJ) | 4:02 | 2023-03-21 | 2023-03-29 |
 | [余所見](https://open.spotify.com/track/1Kz2Y9PKCU30rjVTajO0mD) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [余所見](https://open.spotify.com/album/2fUjOVrL5QujhYp5t2kBOK) | 3:35 | 2022-10-18 | 2022-10-20 |
 | [俄青](https://open.spotify.com/track/4ptrNeHcA09ErHaHvAHJ6a) | [光季](https://open.spotify.com/artist/3LXqR6Lto6ChlfibcmAnlj) | [俄青](https://open.spotify.com/album/2oAont2hXYZP7LbK4KIvcM) | 5:25 | 2023-05-30 | 2023-07-12 |
-| [僕だけが愛](https://open.spotify.com/track/586HamUq3n9cH9cDXWRzAb) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [僕だけが愛](https://open.spotify.com/album/3bdleoxF74CDSzQXLwY8MI) | 5:23 | 2023-12-05 |  |
+| [僕だけが愛](https://open.spotify.com/track/586HamUq3n9cH9cDXWRzAb) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [僕だけが愛](https://open.spotify.com/album/3bdleoxF74CDSzQXLwY8MI) | 5:23 | 2023-12-05 | 2024-02-23 |
 | [僕らじゃなきゃだめになって](https://open.spotify.com/track/6KIYsdABQFGyNOjYBLNvfJ) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [僕らじゃなきゃだめになって](https://open.spotify.com/album/2CGM51cwVTnhPPtbgkr97p) | 4:50 | 2023-05-30 | 2023-07-12 |
 | [僕らの純情](https://open.spotify.com/track/0fvF0nkcnCpyi80PpVn2Fq) | [髙橋多聞](https://open.spotify.com/artist/71GnUG4fPTeVn1h7PwUbNs) | [僕らの純情](https://open.spotify.com/album/32SnAdmGCALw68HG00Gg5F) | 4:00 | 2023-04-25 | 2023-06-14 |
 | [僕等の日々](https://open.spotify.com/track/22PT5uLiey4j5iE5ZMLlvE) | [fusen](https://open.spotify.com/artist/3vOolRilmDxcJJENFu8mWu) | [僕等の日々](https://open.spotify.com/album/1MPswJxnfrhjN1rcPSLIO2) | 4:32 | 2022-10-11 | 2022-10-26 |

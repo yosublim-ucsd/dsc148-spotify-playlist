@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7iB3RCnBnN4.md) - [plain]
 
 > All the songs with more than 1 BILLION streams on Spotify\. Cover: Ariana Grande
 
-[Spotify](https://open.spotify.com/user/spotify) - 554,792 likes - 577 songs - 1 day 11 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 555,430 likes - 577 songs - 1 day 11 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -586,4 +586,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7iB3RCnBnN4.md) - [plain]
 | 576 | [Diamonds](https://open.spotify.com/track/7Kt59L2ZZGtOnIhvMwzG6f) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Unapologetic \(Deluxe\)](https://open.spotify.com/album/4eddbruVtOqw8khwxSH6H2) | 3:45 |
 | 577 | [In My Feelings](https://open.spotify.com/track/0h1W19pS59KtEd7aDzF58i) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scorpion](https://open.spotify.com/album/42wvKYHFezpmDuAP43558f) | 3:37 |
 
-Snapshot ID: `MCxmZGI4ZTY0NWY5ZGJlYWMwZDliOGZmN2I4YjU5NGZhNmRlMmM0NzQ4`
+Snapshot ID: `MCw0YWY0Y2Y3YzU0MzU0YmMxN2I5MmJjZDQyNTBhYWVjNzczZjFmYzQz`

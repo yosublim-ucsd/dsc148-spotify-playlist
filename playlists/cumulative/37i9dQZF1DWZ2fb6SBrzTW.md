@@ -4,7 +4,7 @@
 
 > Your go to Afrobeats workout playlist
 
-368 songs - 18 hr 59 min
+369 songs - 19 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Basquiat](https://open.spotify.com/track/2H0w7oYDjUvgsFlNQ5swIg) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Work Of Art](https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU) | 2:14 | 2023-06-16 |  |
 | [Be My Luv](https://open.spotify.com/track/6dzK4aJJaO3NBYNVGcuPH7) | [Mut4y](https://open.spotify.com/artist/5eWt7HdpWwlidAEBcNtqWQ), [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl), [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a) | [Be My Luv](https://open.spotify.com/album/4RDXWNXefxndbzqREBH6IA) | 3:43 | 2022-07-07 | 2022-09-02 |
 | [Belle Full](https://open.spotify.com/track/7ppSFPUTqVqp97SmOci4q8) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [KTIZO](https://open.spotify.com/artist/4iRmNYPp7K9YaLrQXohMPr) | [Belle Full](https://open.spotify.com/album/6RWa45eSEJ9454G5dgA1dQ) | 3:11 | 2023-07-20 | 2023-08-04 |
+| [Big Big Things \(feat\. Kizz Daniel & Seyi Vibez\)](https://open.spotify.com/track/7MaM9JVq1UXAGZQ4JFNXMg) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Big Big Things \(feat\. Kizz Daniel & Seyi Vibez\)](https://open.spotify.com/album/2CcOmbLxQFIsm5aQu7VSuJ) | 3:00 | 2024-02-23 |  |
 | [Big Flexa](https://open.spotify.com/track/16vqEDaCZpq5zdgop8U9uM) | [Costa Titch](https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG), [C'buda M](https://open.spotify.com/artist/3rdDFMUUzxsQODbgrY6mCf), [Alfa Kat](https://open.spotify.com/artist/30Ep7ARHnQpc0z9otD7jup), [Banaba Des](https://open.spotify.com/artist/02CpmHJhuAVY5YybphI3Wn), [Sdida](https://open.spotify.com/artist/7MVdJWzuMTtXvvaovjs3bB), [Man T](https://open.spotify.com/artist/5syvopnKgETMISE53XS578) | [Big Flexa](https://open.spotify.com/album/5MhQBsStYfPKxStExE5wM3) | 5:27 | 2022-06-23 | 2023-09-28 |
 | [Blood, Sweat & Tears \(with Bas & Black Sherif feat\. Kel\-P\)](https://open.spotify.com/track/6G45nT1iMlP1HdJ0MCTuDU) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Kel\-P](https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8) | [Blood, Sweat & Tears \(with Bas & Black Sherif feat\. Kel\-P\)](https://open.spotify.com/album/5MoByp7KkxmWqP0qTICrTV) | 3:42 | 2023-02-23 | 2023-06-03 |
 | [Body](https://open.spotify.com/track/1Ut1vSnb0hM58jFbPVhZaC) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [Body](https://open.spotify.com/album/17voJtUJhl79b5WgXT0ttE) | 2:06 | 2023-06-16 | 2023-06-18 |
@@ -85,7 +86,7 @@
 | [Comment Allez Vous](https://open.spotify.com/track/31rkhdlOuZLNpNseZHPbXS) | [Gerian](https://open.spotify.com/artist/07DL9OVC5jPi0d29RsF7xq), [Jamopyper](https://open.spotify.com/artist/7InYF1yp4vtlnMr1U4D3KZ) | [Comment Allez Vous](https://open.spotify.com/album/3O2folrgcbs5AktzGNpVUr) | 2:37 | 2022-04-28 | 2022-07-26 |
 | [Concussion](https://open.spotify.com/track/4WJaHwTA2AEveZJxycUUyp) | [Savage](https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn) | [Concussion](https://open.spotify.com/album/01L0fw4AWHmnE7nAJmhAL9) | 2:37 | 2023-06-30 | 2023-07-20 |
 | [Cough](https://open.spotify.com/track/2SggWVBRvkOmtQRfbKh6sV) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Cough](https://open.spotify.com/album/0H0fVt4IgYrsTJGfWxPJfx) | 2:57 | 2023-07-20 | 2023-09-28 |
-| [Dada](https://open.spotify.com/track/6SLhDU3r8FLmESRyWZypjT) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Dada](https://open.spotify.com/album/0ogWb5mN0ZG6U1aMX7r4ai) | 2:41 | 2022-04-18 |  |
+| [Dada](https://open.spotify.com/track/6SLhDU3r8FLmESRyWZypjT) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Dada](https://open.spotify.com/album/0ogWb5mN0ZG6U1aMX7r4ai) | 2:41 | 2022-04-18 | 2024-02-23 |
 | [Dagger](https://open.spotify.com/track/7BO9zcAuosnSwmSsXrgiw5) | [Senth](https://open.spotify.com/artist/0ZMEdbOY3ADh3qbia7kH2b) | [Dagger](https://open.spotify.com/album/5V3eRSdrs84Usrd1XAy39p) | 2:17 | 2023-02-10 | 2023-02-17 |
 | [Dambalektra](https://open.spotify.com/track/5phRz5C0lbK0y6JReywqCl) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Back 2 Basics](https://open.spotify.com/album/35NrBizEFZV3nxcccD42XB) | 3:31 | 2022-07-25 | 2022-07-29 |
 | [Dance Body Breaker](https://open.spotify.com/track/3zzY2bdhZ7bld7kLK8ujk3) | [DJ KAYSMART](https://open.spotify.com/artist/44RAWv4e52G2F8RoEQYswt) | [Dance Body Breaker](https://open.spotify.com/album/1PI6Zu5jeS6XfktW8gXubq) | 2:06 | 2022-06-16 | 2022-07-29 |

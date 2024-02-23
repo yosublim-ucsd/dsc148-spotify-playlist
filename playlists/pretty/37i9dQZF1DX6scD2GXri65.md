@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6scD2GXri65.md) - [plain]
 
 > Go hard or go home
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,790 likes - 80 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,866 likes - 80 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6scD2GXri65.md) - [plain]
 | 79 | [Unleash The Fire](https://open.spotify.com/track/0jb8dBj7ILjgev8qt0pWrT) | [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK), [Zatox](https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO) | [Unleash The Fire](https://open.spotify.com/album/6uCzjve3I6bB3MsxI7AROY) | 4:01 |
 | 80 | [Nightmare Nirvana](https://open.spotify.com/track/0X89hVtXc6V04eRMCjB1Vj) | [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl), [Diandra Faye](https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q) | [Nightmare Nirvana](https://open.spotify.com/album/7jPDK7qtsjA010J5fXR9w1) | 4:30 |
 
-Snapshot ID: `MCw2NjJlN2I3MjYwNTZjZWMzMzBiNzE1MjAxNjFjZTkzYTQwNWFkNTFj`
+Snapshot ID: `MCxhMmQ1MjEyM2IwZGE5MjlmMmYwZjM4OTg0M2E3MGVmZTlhOGNkOGQ1`

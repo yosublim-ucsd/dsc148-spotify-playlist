@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 
 > Experience the best of live worship here\. Cover: <a href="spotify:artist:3yAv8udgy9z6yF6rREcgfB">Rock City Worship</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 889,645 likes - 100 songs - 10 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 889,801 likes - 100 songs - 10 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 | 99 | [GLORY \- Live](https://open.spotify.com/track/33oZ6GmYJmDYcis4vJvwFE) | [ZOE Music](https://open.spotify.com/artist/468p12FvjFTfWvyxLbIL3q) | [GLORY \(Live\)](https://open.spotify.com/album/5GTXYrwdg699BF7rIPczkQ) | 6:23 |
 | 100 | [On The Rise](https://open.spotify.com/track/13t1LQJSZhd2hbKMxRCLMI) | [Awaken Music](https://open.spotify.com/artist/1QcT7Zc5PsF36V3cEe7ws9) | [On The Rise](https://open.spotify.com/album/5RxG9qsktzpP1xGa01l3kG) | 5:02 |
 
-Snapshot ID: `MCwzNjlhYjM2M2Q4ZmYyZjdlMzdiMjc0YjZkMmU0MjQ3MDMwM2M5NzNm`
+Snapshot ID: `MCxjMjY3MzgwNDg1NTQyOGRmODIyNzNlMTNhYTA5ZTdjMTc5NTY2YmQ2`

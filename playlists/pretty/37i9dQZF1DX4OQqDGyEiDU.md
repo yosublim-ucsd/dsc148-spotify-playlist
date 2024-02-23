@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 
 > 人気ボカロ曲をプレイリストで。命を持たないVOCALOIDの魅力を特集。Biggest hits & fresh tracks of VOCALOID.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,266 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,296 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 | 49 | [HERO \(feat\. 初音ミク\)](https://open.spotify.com/track/4oJVybTP5RihSfOn5sxf3W) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [初音ミク「マジカルミライ 2023」OFFICIAL ALBUM](https://open.spotify.com/album/3LnVCNSjdedP7hEmrrF7WR) | 3:24 |
 | 50 | [フィクサー](https://open.spotify.com/track/2DYupgAcdomatly7Lhw8zv) | [ぬゆり](https://open.spotify.com/artist/3ZIOAB6YRggYj0LIG6JLXx) | [plotoplan](https://open.spotify.com/album/5GhRicRw19hWj6PeZJQfW9) | 4:07 |
 
-Snapshot ID: `MCw4ZDMzZmQyYTIzYTUyZGI2MTdlYWY0NzVkMzA1MTQ1ZWMwZDc3YmE0`
+Snapshot ID: `MCwwZGIzYzI0NjJjMTlmNDllMjZjYTg0YzRiNTc5MTAyY2ZmZWE2NTgx`

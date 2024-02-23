@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Polska](https://open.spotify.com/playlist/37i9dQZF1DWTI0B69TStH2)
 
-> Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover:  <a href="spotify:artist:6by3AJadEjmjCl4MDHip2H">Natiflora</a> \| Playlista odświeżana w każdą środę.
+> Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover:  <a href="spotify:artist:6by3AJadEjmjCl4MDHip2H">NatiFlora</a> \| Playlista odświeżana w każdą środę.
 
 1,957 songs - 4 day 14 hr 32 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35X4JNyBWtb.md) - [plain]
 
 > Need to get your energy level up?
 
-[Spotify](https://open.spotify.com/user/spotify) - 811,458 likes - 150 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 812,006 likes - 150 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35X4JNyBWtb.md) - [plain]
 | 149 | [Delirious \(Boneless\) \(feat\. Kid Ink\)](https://open.spotify.com/track/2SSFvQBwsxeazzo7z5l9gD) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3) | [Neon Future I](https://open.spotify.com/album/3KYFjFzw34AhmlxQC8r5W6) | 3:43 |
 | 150 | [Saturday/Sunday](https://open.spotify.com/track/2tX3PY8eP3h9XaBcLXuRBa) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Saturday/Sunday](https://open.spotify.com/album/5mhEZOho91w4yYgkOTHdas) | 2:46 |
 
-Snapshot ID: `MCxiMDI2YmY1NmZkZGQ4ZWNmZmYwYWUyNDNlMDQ5Y2RkYTgyZjcxMWM1`
+Snapshot ID: `MCw3MGUyNGFiODViMzMyNjIxMDU1OWIwMzZhNWY3OGI1ZmZlMTE2N2M4`

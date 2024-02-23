@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aUUBCKwo4Y.md) - [plain]
 
 > Country music's 50 most played songs in the world\. Updated weekly\. Cover: Morgan Wallen
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,218,272 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,219,880 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aUUBCKwo4Y.md) - [plain]
 | 49 | [Please Don't Go](https://open.spotify.com/track/6DHPLbudo5JXNdUlG7zDcC) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Please Don't Go](https://open.spotify.com/album/4K2htiCgz7DrhLOWepp3ru) | 3:01 |
 | 50 | [This Town's Been Too Good To Us](https://open.spotify.com/track/6vsa5VDsIaWC8oJnowU65l) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [This Town's Been Too Good To Us](https://open.spotify.com/album/1QVjRGmRPZIbdlL22aUmol) | 3:11 |
 
-Snapshot ID: `MCwwMTgzZjVhN2JhZjgzZTQzZWNiM2FmNTFjZTM5YWVkMjM5MWEzNDYx`
+Snapshot ID: `MCw1ZjA2Mzc5ZjQyN2IyYmZmZGE4Y2E0YjU4MTZkNWFlNzNhZTRiMDk1`

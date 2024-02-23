@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50QitC6Oqtn.md) - [plain]
 
 > Because we all deserve great pop love songs in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,529,577 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,529,514 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50QitC6Oqtn.md) - [plain]
 | 99 | [Lay By Me](https://open.spotify.com/track/5xQ1yxKzTuPcSNO9FP0lNS) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Melancholic](https://open.spotify.com/album/6s7HjPR5SQ29OYKLIGq63J) | 2:50 |
 | 100 | [Love Me Like You Do \- From "Fifty Shades Of Grey"](https://open.spotify.com/track/1ip2IGDWMrUmlaepEbWlL8) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Fifty Shades Of Grey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/38WMYJ0LhCKAiRflk43Xt9) | 4:10 |
 
-Snapshot ID: `MCwyMjU0ZDAwMDhiZmY0ODY2ZDM1YzMwMDNmYzY2ZTY5MzE1YjhjYTE1`
+Snapshot ID: `MCwwNDQ3MGRlOGMwN2Y3NjZjMjgyNjZhOTlkYjYxMjZhZTkyNTEwOGZj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: Chezile
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,114 likes - 101 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,226 likes - 101 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 61 | [Just Like Heaven](https://open.spotify.com/track/5jllHkxe3JUdEpsrMYywv4) | [Club 8](https://open.spotify.com/artist/0bDw4crr1aysTpUTjI3Wqx) | [Just Like Heaven](https://open.spotify.com/album/4vj87sOnqARYS2nsfc3C6B) | 2:02 |
 | 62 | [horny dog](https://open.spotify.com/track/1rtfJi9qilFW1JIpxX7Rvm) | [Ari Rivera](https://open.spotify.com/artist/4Vnn6VxzWl4xuVIpkxKRK7) | [horny dog](https://open.spotify.com/album/4I4kgF5LhNXCNR9VkvHRz2) | 3:27 |
 | 63 | [Set Me Free](https://open.spotify.com/track/4BBejz4QjscuApJoK3j1yJ) | [PROM](https://open.spotify.com/artist/5p9qBa6VyXEvdxwI8WNwJb) | [Set Me Free](https://open.spotify.com/album/6rHwavFWk3JBy7iZtHR19a) | 2:50 |
-| 64 | [Terminal Woes](https://open.spotify.com/track/6KrfQye9oJaJ7ieCF1Dez2) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [Terminal Woes](https://open.spotify.com/album/1XNz75lfWi16KjzQB063De) | 3:19 |
+| 64 | [Terminal Woes](https://open.spotify.com/track/3Gp7XRhtbdoC8nFGrD6aT6) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [Terminal Woes](https://open.spotify.com/album/4VtmKAVSqGS4Eb2dlwuwMw) | 3:19 |
 | 65 | [Pressure](https://open.spotify.com/track/79PiE74k1XXaLO5mIEPJN5) | [Gabby Martin](https://open.spotify.com/artist/2o2U1JlkmCsWDICkgOjrht) | [Pressure](https://open.spotify.com/album/1ix9m7LbreZ4Ny13H2I7gK) | 3:52 |
 | 66 | [Whatever U Want](https://open.spotify.com/track/0pZPqy1yRzeX0vtNxaEwPr) | [Hard Car Kids](https://open.spotify.com/artist/6oLj5SonG9BHYVJurbEri8) | [NIGHT RIDE](https://open.spotify.com/album/4L6S5JOFJpuDFpu5DA6d3M) | 3:16 |
 | 67 | [Yes Please!](https://open.spotify.com/track/7GoZb3nes83ynwUOkxRmK5) | [SidePonies](https://open.spotify.com/artist/5KwKfaUL5Ha9ihmXDRYEB0) | [Yes Please!](https://open.spotify.com/album/7qT0HAYr3IlPyPPPyn5fIB) | 3:47 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 100 | [Baggage](https://open.spotify.com/track/6sENeBQkymXyZDmwSXUVFS) | [TTSSFU](https://open.spotify.com/artist/4u0g598Mtg9ch4HgEP2DFG) | [Baggage](https://open.spotify.com/album/5Bf4XBYCI8Bo9GLHCaNoBR) | 4:52 |
 | 101 | [Don't](https://open.spotify.com/track/10RehYr3Ci6jeCwwzlwtvC) | [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5) | [Don't](https://open.spotify.com/album/4HdVwH0GL9t4eQZaxAPc3x) | 2:48 |
 
-Snapshot ID: `MCxhNWQ3MGM5MThjM2NmZTM2Zjk1YjlhM2ZmYTQ1YWU1NzEzNGU3YmVk`
+Snapshot ID: `MCwzZGEwYzQ2NDQ4ZWYxNDhiYzI4YzI3NWQ4ZTY5YzM2MzRhNGM0ZjYx`

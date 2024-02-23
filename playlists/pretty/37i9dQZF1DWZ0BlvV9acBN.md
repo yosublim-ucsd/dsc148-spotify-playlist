@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 
 > Grandes sucessos e novidades do rock Cristão\. Foto: Thalles Roberto
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,952 likes - 70 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,004 likes - 70 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 | 69 | [Espelhos Mágicos / Naves Imperiais](https://open.spotify.com/track/3WyzekjMekrPAmTsIb8mub) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Lembre\-se 90's](https://open.spotify.com/album/3uj4RFLuFtfSIPVVvOcptS) | 4:25 |
 | 70 | [Aonde Está Deus](https://open.spotify.com/track/5uFP9ZbZG1aqJx1jbaFNqF) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [Basic Session, Vol\. 1](https://open.spotify.com/album/2a0ofu5yp0e9WPLpYjUZN4) | 4:24 |
 
-Snapshot ID: `MCw1ZjU1MGE1ZDdjNmJlMGU1NDUxMjg3ZGZkNmEzMmRiZThkZmI5YTlj`
+Snapshot ID: `MCxlNjUwYjg3NWNlM2MxNzRhNWEzMzUwNTIwMmVkYmFjNzQzOWVmZTMx`

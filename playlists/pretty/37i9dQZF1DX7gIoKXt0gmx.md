@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gIoKXt0gmx.md) - [plain]
 
 > All the vibes\. All the feels\. 🫠 🙄
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,733,737 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,734,180 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gIoKXt0gmx.md) - [plain]
 | 99 | [Can't Be Friends](https://open.spotify.com/track/4iMDkH8t3Sooaj3uCzpYP2) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Passion, Pain & Pleasure \(Deluxe Version\)](https://open.spotify.com/album/3sDoSYf2AKB2IegZmkISGD) | 3:40 |
 | 100 | [All or Nothing \(feat\. Ella Mai\)](https://open.spotify.com/track/4SPazIWgMqArA81XKxgDZa) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [After the Butterflies](https://open.spotify.com/album/3KxnjxwC38wxRIYl2tFo80) | 3:10 |
 
-Snapshot ID: `MCxhYzZiMjZmNzJlNWFhYTBhZTNlMTFjYzM2YTFhMWEzMjdjZTIwNjgy`
+Snapshot ID: `MCwwYzQ4YWU2YTI3N2I2NjE3NTlmNmE2MmM3NTBhZWQxY2M3MjI1MWNl`

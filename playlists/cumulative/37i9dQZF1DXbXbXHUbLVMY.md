@@ -2,9 +2,9 @@
 
 ### [100 \(2\)](https://open.spotify.com/playlist/37i9dQZF1DXbXbXHUbLVMY)
 
-> Skandinavisk hiphop som holder det 100! 🚨 feat\. Marstein
+> Skandinavisk hiphop som holder det 100! 🚨
 
-142 songs - 6 hr 7 min
+144 songs - 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [HÅLL KÄFTEN](https://open.spotify.com/track/748Ay0C89PjJfa3iEelLmH) | [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8) | [HÅLL KÄFTEN](https://open.spotify.com/album/1rwCQvCnCIzEkCVSECmJPe) | 2:07 | 2024-02-08 |  |
 | [I Care](https://open.spotify.com/track/05e7SNuOTnMpY6D39ZbNI6) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [I Care](https://open.spotify.com/album/3eEH7sepvY4yYG8DGly0ii) | 2:19 | 2023-11-09 | 2024-01-12 |
 | [Inga änglar \(Na na na\)](https://open.spotify.com/track/532hmJMBzkTyhVQTlHHUuJ) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Inga änglar \(Na na na\)](https://open.spotify.com/album/3jJmhnYy9Zif0lCkLQfv6J) | 3:14 | 2024-02-01 | 2024-02-22 |
-| [Inga änglar \(Na na na\)](https://open.spotify.com/track/6Z81UrPb8kWlzO4bP0ETzo) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Nya Hits](https://open.spotify.com/album/3IAEBiMpkBwgSzMYQUjojd) | 3:14 | 2024-02-15 |  |
+| [Inga änglar \(Na na na\)](https://open.spotify.com/track/6Z81UrPb8kWlzO4bP0ETzo) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Nya Hits](https://open.spotify.com/album/3IAEBiMpkBwgSzMYQUjojd) | 3:14 | 2024-02-15 | 2024-02-23 |
 | [jeg har stream](https://open.spotify.com/track/0GGwFY0Wh72UJ1x934E2Kl) | [B\-Boy Myhre](https://open.spotify.com/artist/7H788ePZvqYPv7MxfLt3rj) | [sitter inne](https://open.spotify.com/album/1rVBiTR6WE7TpJ3CI35SD9) | 1:17 | 2023-11-09 | 2023-12-09 |
 | [Ka Kac](https://open.spotify.com/track/66rngPnLy4VNXRsTUWaUSw) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [SKAPAD AV SMÄRTAN](https://open.spotify.com/album/5JgB4y6k3WdxG5sVKfUzbp) | 2:41 | 2023-09-21 | 2023-12-19 |
 | [KALASH](https://open.spotify.com/track/5yT7K64oCQTH9nlWDVP2a9) | [HAVAL](https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt) | [KALASH](https://open.spotify.com/album/2vPQjrPL4biW6F8s2y2A1f) | 2:10 | 2023-09-21 |  |
@@ -120,7 +120,7 @@
 | [Saint Laurent](https://open.spotify.com/track/1MFHhIk4t2w4K6amxMYV9Y) | [Robin Kadir](https://open.spotify.com/artist/4juMqlCDk4p6TrM7JXfSw2), [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [Saint Laurent](https://open.spotify.com/album/5lKomx0E7DTWYVCrK4nBDC) | 2:48 | 2023-09-21 |  |
 | [Salam](https://open.spotify.com/track/2mHppKj9X1ixv9miy2cdoz) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Salam](https://open.spotify.com/album/56xgHK320guDeJaXou4VQu) | 2:17 | 2023-09-21 |  |
 | [Se & Lär](https://open.spotify.com/track/0LGsfY6XeIJtx8K3YJbWJf) | [Z.E](https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR) | [Se & Lär](https://open.spotify.com/album/1pc3MNrUfjUZ8atQ2D6ynv) | 2:23 | 2023-11-09 | 2024-01-12 |
-| [Seriøs \(feat\. Amara\)](https://open.spotify.com/track/1sEYjmfPxDMS0tRxEqbWTy) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa), [Amara](https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j) | [Seriøs \(feat\. Amara\)](https://open.spotify.com/album/680vIkkksZ7C7MOoLMNbwS) | 2:36 | 2023-09-21 |  |
+| [Seriøs \(feat\. Amara\)](https://open.spotify.com/track/1sEYjmfPxDMS0tRxEqbWTy) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa), [Amara](https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j) | [Seriøs \(feat\. Amara\)](https://open.spotify.com/album/680vIkkksZ7C7MOoLMNbwS) | 2:36 | 2023-09-21 | 2024-02-23 |
 | [SIPPER](https://open.spotify.com/track/6zmYjRCtFkZqKTPgEqbODr) | [Beathoven](https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ), [Dutty Dior](https://open.spotify.com/artist/5ktSHm2pKmqua1MTV1dkrg) | [SIPPER](https://open.spotify.com/album/1darpI3AUMsbJdlIWOfx0x) | 2:15 | 2023-09-21 |  |
 | [Sjunka](https://open.spotify.com/track/4OpXUf4Jz2iLU5V1iryLsH) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Sjunka](https://open.spotify.com/album/7koL32Rlgl24Tha65f2mr7) | 2:13 | 2023-09-21 |  |
 | [Skarpt Lys](https://open.spotify.com/track/4dC3pTi2Bbei0QGMg722Rl) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Kiko Club](https://open.spotify.com/album/3y4SAFKOvJ9CDDwNaMOgLL) | 3:03 | 2023-11-16 | 2024-01-04 |
@@ -138,8 +138,10 @@
 | [Svar](https://open.spotify.com/track/2ZWsuZ6No9BImF61NI1ITw) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [In Memory Of Some Stand Up Guys](https://open.spotify.com/album/77Od9wwcLw10IjhX2D7srV) | 2:41 | 2024-01-11 |  |
 | [Säg Mig](https://open.spotify.com/track/6QcM5ODX1XpjBKIMQuWmdE) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [Säg Mig](https://open.spotify.com/album/0EfLxPztOcuTi1gr2qXPXp) | 2:15 | 2024-02-15 |  |
 | [Tango](https://open.spotify.com/track/5TGveWo66AyNkhEbJyhhfY) | [Dio Mudara](https://open.spotify.com/artist/44dtVuy3JdjkJ0PqVh4nKy), [KØBER](https://open.spotify.com/artist/60a2bBHgTEfBJxFeJykcbD) | [Tango](https://open.spotify.com/album/0ipce2oa34OW7g2g6mNhvQ) | 2:14 | 2023-09-21 | 2023-09-29 |
+| [Til Toppen](https://open.spotify.com/track/3IdMka9dVfYIKZmpGf6Heo) | [Rambow](https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9), [Voksen Mann Uten Slips](https://open.spotify.com/artist/5FGyG1MDfNSzpijXguKZAF), [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp) | [Til Toppen](https://open.spotify.com/album/0yDrCi3oVTSrrQCgkQH3eo) | 2:36 | 2024-02-22 |  |
 | [Top Notch](https://open.spotify.com/track/5QrHaI2f2gTwDLMvV14ecf) | [Mohelá](https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ) | [Top Notch](https://open.spotify.com/album/4bc8UZIOPt9TIw4D9mnhki) | 2:28 | 2024-01-11 | 2024-02-09 |
 | [TRILLE](https://open.spotify.com/track/3DEpiDGy8aebrTZrZB5CYY) | [Jonas Benyoub](https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU), [Karpe](https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN) | [TRILLE](https://open.spotify.com/album/1n7BDlc1vwPfZlyZwxcL1D) | 2:42 | 2024-01-04 | 2024-01-06 |
+| [Tyrs Vals \(feat\. Arif Murakami & Siyabång\)](https://open.spotify.com/track/0V0qOWYd1Oz1jGaVFii95s) | [Tyr](https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE), [Arif Murakami](https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q), [Siyabång](https://open.spotify.com/artist/6Ry0CvCsPRp7Z9qewvxYBK) | [Bedøvelse Gjør Mester](https://open.spotify.com/album/1MEQ3H8iYw0q4npG8Bht2t) | 3:41 | 2024-02-22 |  |
 | [Vidunderbarn](https://open.spotify.com/track/4tF8PXK6pa5GkDUONmhVqN) | [Tyr](https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE) | [Vidunderbarn](https://open.spotify.com/album/1CKWqVN71ZYjeJLQfjUUT3) | 3:07 | 2024-01-11 |  |
 | [Vill va med dig](https://open.spotify.com/track/56flxHBv6c08oCUjQhXeb1) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [Vill va med dig](https://open.spotify.com/album/2kEXuEfiNApqFQHym7qXcI) | 2:48 | 2023-09-21 |  |
 | [WAKA WAKA](https://open.spotify.com/track/2g6O4J9ktUjorMkgyhglYP) | [Sarettii](https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi) | [Come Alive](https://open.spotify.com/album/2ZJYTrtrH7mlGfeZ9ysR3R) | 2:46 | 2023-09-21 |  |

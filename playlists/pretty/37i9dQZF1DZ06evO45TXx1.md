@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45TXx1.md) - [plain]
 
 > This is Mc Luanna\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,110 likes - 49 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,137 likes - 49 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45TXx1.md) - [plain]
 | 48 | [Ela diz](https://open.spotify.com/track/2o7p1pK5AIQ3uYlpCyeFp1) | [MC Leozinho ZS](https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Ela diz](https://open.spotify.com/album/1w3PXAn9xkEhHMd4Xm80gO) | 3:20 |
 | 49 | [Valioso](https://open.spotify.com/track/6zUFTF5qhcLYZp6TUjGnX1) | [Sena Mc](https://open.spotify.com/artist/0KmUWyp6jHACYG8KaXiCyV), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Delli Beatz](https://open.spotify.com/artist/7EaQWxFZ0tJfoXylyF4dSn) | [Valioso](https://open.spotify.com/album/6R25D8RauPYTEEBHeT3m5J) | 2:55 |
 
-Snapshot ID: `Mjg0NzUyOTAsMDAwMDAwMDBiMjI5MzIwODg5YWIyODJiYzQ0ZWZlMTRkYWQ1MDJiOA==`
+Snapshot ID: `Mjg0NzcwNzUsMDAwMDAwMDA0NzcxZTczZGE2Mzc4MjJkNGYzMDcyMGMxZjUzOGYwMg==`

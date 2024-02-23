@@ -637,6 +637,24 @@
     },
     {
       "album": {
+        "name": "East Bounce",
+        "url": "https://open.spotify.com/album/5Hwfv9dfENIQ1RJ7PzB5cL"
+      },
+      "artists": [
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229438,
+      "name": "East Bounce",
+      "url": "https://open.spotify.com/track/6RwZ2HhlgX1MDo3l5ek0a4"
+    },
+    {
+      "album": {
         "name": "Elevate Your Love",
         "url": "https://open.spotify.com/album/5IPHtrVFhktYAo1A7M5LSF"
       },

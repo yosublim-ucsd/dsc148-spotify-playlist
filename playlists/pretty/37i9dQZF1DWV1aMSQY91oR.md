@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: AR Paisley
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,150 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,173 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 49 | [City Lights](https://open.spotify.com/track/53RtHfvyr0f6yj1uLy5bxY) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [City Lights](https://open.spotify.com/album/1lfQlXzzgUbMBNQmyrDBhp) | 3:56 |
 | 50 | [MIDST](https://open.spotify.com/track/53PNIzmsDfZZ7IxhSbvxz6) | [Nyota Parker](https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl) | [MIDST](https://open.spotify.com/album/2AUuYLf37fCO2FEnz3fVER) | 2:40 |
 
-Snapshot ID: `MCwzOWU5MTk5MTY3NDk2YWIxNGE4YTZkOTRjYTA4MDA4ZDVlNDkyMGQx`
+Snapshot ID: `MCwxMmVkZTRlOTBjMjUwODE2YzNjMzMwYTU1Nzc5OTFiYTMyNmQwMThm`

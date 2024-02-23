@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lU51fgoMhF.md) - [plain]
 
 > Be cool with refreshing Tropical K\-Pop dance music! \(시원청량한 국내 댄스곡을 즐겨보세요!\) \(Cover: NAYEON\(나연\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,972 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,066 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lU51fgoMhF.md) - [plain]
 | 99 | [Move Like This \(Feat\. YUNA KIM\)](https://open.spotify.com/track/5xIBHVtjcxg2I86wodrj1d) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW), [ANYUJIN](https://open.spotify.com/artist/3schR1HLbYu3RqqPDiDFrE), [YUNA KIM](https://open.spotify.com/artist/5wBTXLKoAsiWsKn3ijyGPo) | [Move Like This \(Feat\. YUNA KIM\)](https://open.spotify.com/album/18zHgBBbSGZ90hu1mJmvFQ) | 3:16 |
 | 100 | [Reference](https://open.spotify.com/track/2PmLP4DNUPJC98L78mrkal) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Room Vol.1](https://open.spotify.com/album/2cSXk0XqGoen6IvmlJmJJt) | 3:41 |
 
-Snapshot ID: `MCxhNDE1MjBmMWVkODlhMDgxMGI4NWUwYmZkNDNiMmYzYTI0OWMxYTli`
+Snapshot ID: `MCw3NGQzYjVjZmQ4MzA5YTlhOTcyNWFhNGJjNDE3YTYxOGVjYTc1MWY0`

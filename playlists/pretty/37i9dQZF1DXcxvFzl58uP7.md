@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 
 > Dreamy melodies and hushed vocals\.  Cover: Clairo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,105,690 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,105,758 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 99 | [What You Do To Me](https://open.spotify.com/track/0QuQCTJL4UXkDx111mXrbL) | [Blanks](https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF) | [What You Do To Me](https://open.spotify.com/album/3P2eHCVYVyfzYRlmG5I2qO) | 3:16 |
 | 100 | [Goodbye Texas](https://open.spotify.com/track/0S0nfzQqlGHthICsbSWG9A) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [Goodbye Texas](https://open.spotify.com/album/7Lw9PSCaFWcZkBTn8D8mS3) | 3:34 |
 
-Snapshot ID: `MCxhYzE0MzU4Yjg3N2YwYWIwNjYyNGVhOTY4MDY2YzM4YjYxYTQxZDhl`
+Snapshot ID: `MCw0NDFiYmU5MTU2MDU1ZjRjODVkMjI5MjY2MzU5YTQ3NGI3NDcyODRj`

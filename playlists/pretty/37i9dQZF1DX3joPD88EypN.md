@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3joPD88EypN.md) - [plain]
 
 > The sound of Jazz from the nordics\. Cover: Jan Garbarek
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,860 likes - 100 songs - 8 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,877 likes - 100 songs - 8 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3joPD88EypN.md) - [plain]
 | 99 | [9](https://open.spotify.com/track/2buYb32JUcXvH1PLwTc8Cu) | [Agnas Bros](https://open.spotify.com/artist/5vGzJvLmR1rxxu1jgDWlJp) | [Lycka till med musiken](https://open.spotify.com/album/2sDcUMzVTuwXFVXOU0ueNL) | 9:04 |
 | 100 | [Earthbeat \- Single Edit](https://open.spotify.com/track/74ZDuZ6IzMjxJz7Gq72WC4) | [Tuomas Paukku Scription](https://open.spotify.com/artist/71OhqiVpT4D9PqQlUYLXD1) | [Earthbeat](https://open.spotify.com/album/1fowrT0sKZSEHUALZZU7PO) | 5:56 |
 
-Snapshot ID: `MCw0YjQ0N2JiMzM5ZjJhM2MxMWM2MmIzMjRjNzQ1MjJiNGE0OTYwYzI4`
+Snapshot ID: `MCxmOWRiZmEyM2NhM2JiMWRhYmRjMmRlYmY0ODMyYzNjYjg0OGQ3YTcz`

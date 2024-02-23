@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5fMwWEdzkDc.md) - [plain]
 
 > 2000년대를 수 놓았던 명곡들을 즐겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,235 likes - 100 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,238 likes - 100 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5fMwWEdzkDc.md) - [plain]
 | 99 | [Hawaian Couple](https://open.spotify.com/track/1Yd6CizL523PL8IsdkmKCD) | [HUS](https://open.spotify.com/artist/23m7tUHLULVyBAAIYHbsgT) | [Purple Drop](https://open.spotify.com/album/1OSnHPkpPMWO8BEqwKfURo) | 3:38 |
 | 100 | [아무리 생각해도 난 너를](https://open.spotify.com/track/4yTuqkCAUwPuW0cHqEKdcm) | [SWEET SORROW](https://open.spotify.com/artist/1rwig4pRfLrj3scq9as1Mb) | [나는가수다 시즌3 1회 \`자신의 대표곡\`](https://open.spotify.com/album/0tdCd8Z8RkV03UcM6p7xQK) | 4:33 |
 
-Snapshot ID: `MCw4YmY4YTFiOWM2OThlNjEwYWI0MDdjMmI1ZTRiNzJkNzBlNjA0MjFk`
+Snapshot ID: `MCwyYzg2YTk1OGYyMmZkMmM0ZGRlYWJiNzg5NGRjZjgzNGFkZjRmNmU0`

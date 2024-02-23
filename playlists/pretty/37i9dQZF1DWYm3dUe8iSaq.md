@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 
 > Indie folk songs to help your worries get lost in the woods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,091 likes - 80 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,143 likes - 80 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 | 79 | [Wild Garlic](https://open.spotify.com/track/63QMSWVvD2rJ9szBFx5ssF) | [KONL](https://open.spotify.com/artist/4GqeovkUhMsSvFkHVshwS0) | [Wild Garlic](https://open.spotify.com/album/0nFTaga9Qx7IWDuVT5WSfS) | 4:08 |
 | 80 | [Another Day](https://open.spotify.com/track/4rlXhOtWRzGhxjgr9FRKF0) | [Ben Stafford](https://open.spotify.com/artist/3pWZ3BMPDAaoNd1DciVMyd) | [Beudy Penlan](https://open.spotify.com/album/1RA5ryginKxtFUqkFfaNT2) | 2:58 |
 
-Snapshot ID: `MCxiOGMyMjJhZmM5MTE4OGZlMzU2ZTE2MGY4YTI4Yjk5MzI3MzhlNTA0`
+Snapshot ID: `MCxhZGFmMjVkZWVhOWQzYzY4MTg2MmFmNDkxZjQ1NGU1NjliOGQwNzZh`

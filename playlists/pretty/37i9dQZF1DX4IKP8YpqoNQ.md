@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IKP8YpqoNQ.md) - [plain]
 
 > Experience the best live performances\. Check out live soul albums <a href="spotify:genre:0JQ5IMCbQBLzm5vQYyTJnY">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,933 likes - 100 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,936 likes - 100 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IKP8YpqoNQ.md) - [plain]
 | 99 | [Untitled \(How Does It Feel\)](https://open.spotify.com/track/74EBtxAMvsJVTzh3pPXZwr) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Live In Stockholm](https://open.spotify.com/album/0VgPK1zGg0JIe5fXAbfkVT) | 8:04 |
 | 100 | [Add To Me \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/1pvaVKcvcdNcfo9iLzSMAU) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [Spotify Singles](https://open.spotify.com/album/5nUKNLU2nc5JlmCrzXrJ65) | 3:40 |
 
-Snapshot ID: `MCw5OGUxYjg2OGM2OWI4MWQxNmZkZDUyZDQ4Y2M3ZjliYzU4YWEwZGU5`
+Snapshot ID: `MCw5ZTIyNDk1MmNhNWNkODIyYTcyYmM3OTk0ZDM4N2Y2M2YwMjlkMTU3`

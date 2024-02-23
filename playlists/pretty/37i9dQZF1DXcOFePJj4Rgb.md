@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcOFePJj4Rgb.md) - [plain]
 
 > The hits you just can't get enough of\. Cover: Ayra Starr
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,245 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,302 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcOFePJj4Rgb.md) - [plain]
 | 99 | [THATS WHAT I WANT](https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:23 |
 | 100 | [Wildest Dreams \(Taylor's Version\)](https://open.spotify.com/track/1Ov37jtRQ2YNAe8HzfczkL) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Wildest Dreams \(Taylor's Version\)](https://open.spotify.com/album/5hxKw2PurC0i1VVJMAntDU) | 3:40 |
 
-Snapshot ID: `MCw5MDdkMTU4NzQyY2UxOTlkOGIxYmJhZDEzZGUxMzI0NWVjM2I0Y2E5`
+Snapshot ID: `MCw1N2VhMzRlYjI4OWFhODc0NTczY2E3ZjY1MTI0M2I1YWQ0OGI4YTgx`

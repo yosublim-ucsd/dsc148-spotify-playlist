@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 
 > When everything around you is falling apart.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,015 likes - 80 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,070 likes - 80 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 | 79 | [Channa Mereya \(From "Ae Dil Hai Mushkil"\)](https://open.spotify.com/track/1plFCZ6QFAjSRutT02GTCn) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Channa Mereya \(From "Ae Dil Hai Mushkil"\)](https://open.spotify.com/album/7IuYiJjqLtPUqgDYlUTuML) | 4:49 |
 | 80 | [Ve Kamleya \(From "Rocky Aur Rani Kii Prem Kahaani"\)](https://open.spotify.com/track/1AmwIgy0WYLJJ5e24aCFTm) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Shadab Faridi](https://open.spotify.com/artist/6WixbETKEXH0xBf0OB9kRB), [Altamash Faridi](https://open.spotify.com/artist/38IHJBGBuaYXHEkIQd4DtF), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Ve Kamleya \(From "Rocky Aur Rani Kii Prem Kahaani"\)](https://open.spotify.com/album/7q4DcFIuSUzOoQs3QMvwNe) | 4:06 |
 
-Snapshot ID: `MCw1MmEyN2RlNjAwNmM2YzUxMjZmNDQwMmVkOTljN2E0ZDI5NjEzYmFk`
+Snapshot ID: `MCwyZmMzNTJjNTM3Nzg5OGVmNGJhZTA0OTg5MzUyNzkwZjI3N2IwMjE0`

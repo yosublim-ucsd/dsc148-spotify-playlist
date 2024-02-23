@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2LPGy4.md) - [plain]
 
 > This is Gerardo Ortiz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 421,025 likes - 51 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 421,101 likes - 51 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2LPGy4.md) - [plain]
 | 47 | [Morir Y Existir](https://open.spotify.com/track/12cT1bEwXxg42o2AOwFF2q) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Morir y Existir En Vivo](https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY) | 3:05 |
 | 48 | [El Comando del Diablo \- En Vivo](https://open.spotify.com/track/4ttaps59yHeuSYKhMitFjJ) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Comando del Diablo \(En Vivo\)](https://open.spotify.com/album/7hMQTRIaeXlCAaVxBX4pNx) | 2:53 |
 | 49 | [El Coach \(En Vivo\)](https://open.spotify.com/track/3QS5Z1l9keZLelGpmnsSBl) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [El Coach \(En Vivo\)](https://open.spotify.com/album/5GrA7aAr5CK4BjIKybsShe) | 3:31 |
-| 50 | [El Convoy de los Hermanos](https://open.spotify.com/track/4BwiQHmZt92xZpQsLaRbw7) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [No Tengo Rival](https://open.spotify.com/album/6vfTTVKTh4TgsA6aI8tixn) | 2:15 |
-| 51 | [Polvito de Limón](https://open.spotify.com/track/30NTCvmEfRddA4bsnRZ7U3) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Polvito de Limón](https://open.spotify.com/album/5tlfPbg3TlQkMzCxtFN8we) | 2:41 |
+| 50 | [Polvito de Limón](https://open.spotify.com/track/30NTCvmEfRddA4bsnRZ7U3) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Polvito de Limón](https://open.spotify.com/album/5tlfPbg3TlQkMzCxtFN8we) | 2:41 |
+| 51 | [El Convoy de los Hermanos](https://open.spotify.com/track/4BwiQHmZt92xZpQsLaRbw7) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [No Tengo Rival](https://open.spotify.com/album/6vfTTVKTh4TgsA6aI8tixn) | 2:15 |
 
-Snapshot ID: `Mjg0NzUyOTEsMDAwMDAwMDAwOWYzZGFhMjlkYjk1OTBmMmQ3YzQ2ZGRiYjY4Yjg1YQ==`
+Snapshot ID: `Mjg0NzcwNzYsMDAwMDAwMDAzNjM2OTA5MzMzMjNhY2UyY2YzMGMzODQwNDZjN2E5ZQ==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29E6gJ.md) - [plain]
 
 > This is Los Alegres De Teran\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,026 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,032 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29E6gJ.md) - [plain]
 | 30 | [Los Alegres de Terán](https://open.spotify.com/track/7vtzM64OIUPLYTFwN0lzwA) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ), [Hermanas Huerta](https://open.spotify.com/artist/1hU5wdiWeIWv4fBklDgta1) | [Los Alegres De Terán, Sus Mejores Corridos Y Rancheras Contestadas](https://open.spotify.com/album/43Eu9c8JiKyvuWMAnJCuxc) | 2:49 |
 | 31 | [Cuando Salgo A Los Campos](https://open.spotify.com/track/0u0N27nvxh5ClF4sMgYMpV) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Frente a Frente Los Alegres de Terán vs Los Invasores de Nuevo León](https://open.spotify.com/album/4Vnb9izUKk4ee79qfydeyf) | 2:31 |
 | 32 | [La Martina](https://open.spotify.com/track/2h7YyAPzP2MGveT4XxbO9w) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ), [Las Jilgueritas](https://open.spotify.com/artist/76Wi64t9RIQEkhnCUSD1tn) | [Canciones Contestadas](https://open.spotify.com/album/6ho7Igzb95M9rfpkU5ARXd) | 2:50 |
-| 33 | [Quiero Que Sepas](https://open.spotify.com/track/642HoTm4RHCmqhvsTAF1HD) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Siguen En La Honda Nortena](https://open.spotify.com/album/2XV7z1eeqMkdGk6Ve8hOlr) | 2:19 |
-| 34 | [La Mula Bronca](https://open.spotify.com/track/3XYKkhVYeNveTUFgGPj4ip) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Norteñas de Oro](https://open.spotify.com/album/1PNXf5gl2iFS6ZN3ssNY95) | 2:50 |
+| 33 | [La Mula Bronca](https://open.spotify.com/track/3XYKkhVYeNveTUFgGPj4ip) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Norteñas de Oro](https://open.spotify.com/album/1PNXf5gl2iFS6ZN3ssNY95) | 2:50 |
+| 34 | [Quiero Que Sepas](https://open.spotify.com/track/642HoTm4RHCmqhvsTAF1HD) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Siguen En La Honda Nortena](https://open.spotify.com/album/2XV7z1eeqMkdGk6Ve8hOlr) | 2:19 |
 | 35 | [Prenda Del Alma](https://open.spotify.com/track/6dAiVXqPyOp64bo42LfQDp) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Tu Recuerdo](https://open.spotify.com/album/0ElJxS0euvpw3AQfgVGPKj) | 3:17 |
 | 36 | [La Mosca](https://open.spotify.com/track/6kVnZD4Fw0GF1Uh31a09Qa) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ), [Las Jilgueritas](https://open.spotify.com/artist/76Wi64t9RIQEkhnCUSD1tn) | [Canciones Contestadas](https://open.spotify.com/album/6ho7Igzb95M9rfpkU5ARXd) | 2:47 |
 | 37 | [Hablando Claro](https://open.spotify.com/track/7cXUofSYEealMPBcymmKGp) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [La Gran Coleccion de Oro, Vol\. 1](https://open.spotify.com/album/7FgTvoZPZEOarrn1kKHWa0) | 2:46 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29E6gJ.md) - [plain]
 | 43 | [Cuatro Milpas](https://open.spotify.com/track/2GapsLaCJN57fkVBmQiJ3P) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Nostalgia Norteña](https://open.spotify.com/album/30ONqsYPJeKz3lMs1PjeLu) | 3:04 |
 | 44 | [Nocturno a Rosario](https://open.spotify.com/track/5P9KFF9UpaPmA49QJO7huL) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Norteñas de Oro](https://open.spotify.com/album/1PNXf5gl2iFS6ZN3ssNY95) | 2:57 |
 | 45 | [La Tumba de Villa](https://open.spotify.com/track/5HitQXXbYmjUZwQraMjV1n) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Las 100 Clasicas De Los Alegres De Teran Vol\. 2](https://open.spotify.com/album/4eLLJs0uZVko6pwncshyfj) | 4:05 |
-| 46 | [Jacinto Treviño](https://open.spotify.com/track/25DxDNf0o4Uw1HhEAEFJ8p) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Corridos Famosos](https://open.spotify.com/album/5pwxkJ7SsCvzHZ4SLPPRxu) | 3:06 |
-| 47 | [Te Vas Angel Mío](https://open.spotify.com/track/5jyY0uSQZjdJRJq1vF2mFI) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Latin Classics](https://open.spotify.com/album/4aHYMwkbQBblvPaSrAfBsJ) | 2:22 |
-| 48 | [El Cuervo Y El Escribano](https://open.spotify.com/track/4zc9IeFLfP38imKJgRzuNc) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Alma Enamorada](https://open.spotify.com/album/0Hhcxil7ucwHVQgVxxIJTc) | 2:37 |
+| 46 | [El Cuervo Y El Escribano](https://open.spotify.com/track/4zc9IeFLfP38imKJgRzuNc) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Alma Enamorada](https://open.spotify.com/album/0Hhcxil7ucwHVQgVxxIJTc) | 2:37 |
+| 47 | [Jacinto Treviño](https://open.spotify.com/track/25DxDNf0o4Uw1HhEAEFJ8p) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Corridos Famosos](https://open.spotify.com/album/5pwxkJ7SsCvzHZ4SLPPRxu) | 3:06 |
+| 48 | [Te Vas Angel Mío](https://open.spotify.com/track/5jyY0uSQZjdJRJq1vF2mFI) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Latin Classics](https://open.spotify.com/album/4aHYMwkbQBblvPaSrAfBsJ) | 2:22 |
 | 49 | [Paso del Norte](https://open.spotify.com/track/2HYz3vIPX8aoRYxDZTdBEW) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Las 100 Clasicas De Los Alegres De Teran Vol\. 2](https://open.spotify.com/album/4eLLJs0uZVko6pwncshyfj) | 3:22 |
 | 50 | [Gabino Barrera](https://open.spotify.com/track/7eWE0XtEh4ZbUjWzEDTSPJ) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Historias Del Siglo XX En 20 Corridos](https://open.spotify.com/album/5ps2KefGtIVYRk3OtdoM2a) | 3:36 |
 
-Snapshot ID: `Mjg0NzUyOTAsMDAwMDAwMDBlZWFiNzY3MzQ3ODg5Y2U1OTM1YjgzYjdjNGVlNzQzMA==`
+Snapshot ID: `Mjg0NzcwNzUsMDAwMDAwMDBhNzk2MWU4MjQzYjZkMzdmYmVlZDBkMTMzN2IzMWFiNg==`

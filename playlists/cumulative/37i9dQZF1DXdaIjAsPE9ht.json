@@ -607,6 +607,24 @@
     },
     {
       "album": {
+        "name": "four star restaurant",
+        "url": "https://open.spotify.com/album/3my19QS6hdNjkwc6WrBulN"
+      },
+      "artists": [
+        {
+          "name": "the tofu paradigm",
+          "url": "https://open.spotify.com/artist/3Ux7jaAusHBJAKgdzZ1RCe"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "four star restaurant",
+      "url": "https://open.spotify.com/track/5OGxjOExU6JWucuin2XAUs"
+    },
+    {
+      "album": {
         "name": "Free Trees",
         "url": "https://open.spotify.com/album/377keRBbyFcp49RdaFw90Z"
       },
@@ -1011,6 +1029,24 @@
     },
     {
       "album": {
+        "name": "Metropolis Moods",
+        "url": "https://open.spotify.com/album/5GNIh6i7uaucdL1Go5fuF8"
+      },
+      "artists": [
+        {
+          "name": "LOFI FRAN",
+          "url": "https://open.spotify.com/artist/79lYlTTaSsCLvanVBtYWf6"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123000,
+      "name": "Metropolis Moods",
+      "url": "https://open.spotify.com/track/4v2AVfVsqsnYdGVkUUdKag"
+    },
+    {
+      "album": {
         "name": "Mirror",
         "url": "https://open.spotify.com/album/5hDzkcdJRdVxdfwZDUiRta"
       },
@@ -1152,6 +1188,24 @@
       "duration_ms": 126410,
       "name": "promised you",
       "url": "https://open.spotify.com/track/3X3nG3p7bb4XtGCh0ITsLv"
+    },
+    {
+      "album": {
+        "name": "rainclouds",
+        "url": "https://open.spotify.com/album/6T0tFcQXo5JXbmLtfXpcef"
+      },
+      "artists": [
+        {
+          "name": "xOHARA",
+          "url": "https://open.spotify.com/artist/2Sebo5izi3H67nS858uHoK"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123648,
+      "name": "rainclouds",
+      "url": "https://open.spotify.com/track/13vQBrsVfdgkRwoPJ1Kniq"
     },
     {
       "album": {

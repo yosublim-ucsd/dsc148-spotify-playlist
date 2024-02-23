@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 
 > Experience music from some of your favorite Gospel artists and those they've influenced\.  Cover:  <a href="spotify:artist:7z7byOJ4AJnMY2NHE66ZpW">DOE</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,784 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,901 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 | 99 | [Emmanuel](https://open.spotify.com/track/4O5TT3kmWaL5c4K1HU1SyQ) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce), [Denise Bamfo](https://open.spotify.com/artist/6j4c63tFu9m7oWWc11GwDO) | [Emmanuel](https://open.spotify.com/album/4pGAeO6sOgQZ9r79XBnZw0) | 2:56 |
 | 100 | [Goodness Gracious](https://open.spotify.com/track/11Mr0wJ9DcX1QyEdMZC8ei) | [Konola](https://open.spotify.com/artist/5OLzjUDB3C9y3LvyNefP8t), [Keelah Chase](https://open.spotify.com/artist/0m9wRtULtrl8kWvHQcupJE) | [Goodness Gracious](https://open.spotify.com/album/6Su3gT1IwNyHu05WxqIjJE) | 3:45 |
 
-Snapshot ID: `MCwwZjUzZmZjYjRiZjYyOGE3MTc3MGNmMDA5MTNiNTFhYjNiOTM4OWUy`
+Snapshot ID: `MCwzMDBiYzIyYzJjYmUwMDU3ZGY3YzRiNzhkNmU0NjdkNjA0YmM3ODFl`

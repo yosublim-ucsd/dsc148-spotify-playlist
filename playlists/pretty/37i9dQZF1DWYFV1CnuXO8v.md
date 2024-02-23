@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFV1CnuXO8v.md) - [plain]
 
 > عيش أجمل حالة حب 🫶❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,526 likes - 75 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,675 likes - 75 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFV1CnuXO8v.md) - [plain]
 | 74 | [بطمنك](https://open.spotify.com/track/4AqmPix9i32pQb33bsSWYG) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [بطمنك](https://open.spotify.com/album/1gq4RDcXHPenXBMl2tdmLM) | 4:49 |
 | 75 | [فضحاني عنية](https://open.spotify.com/track/7gHnIsFdTHKPxj6odECNLa) | [Samara Now](https://open.spotify.com/artist/33C02CFofpaWCgYTPD1au0) | [فضحاني عنية](https://open.spotify.com/album/090FJL1hXb1Bxvf5cj6JZr) | 4:37 |
 
-Snapshot ID: `MCxjOWJmM2U4ZDY5M2Y1NzU4M2JmMWY1MTY1MTBkM2JjNmU0NWZhMGQ2`
+Snapshot ID: `MCw3NzFkZmExOWU0YWIxYmFkNzViZjBjZDY3MjBiOTMwYmZhYzg4ZDli`

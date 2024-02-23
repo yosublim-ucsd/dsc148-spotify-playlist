@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 
 > Deep beats to study to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,415 likes - 50 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,495 likes - 50 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 | 49 | [The Ganga river unpolluted once more](https://open.spotify.com/track/0JWrWRvxPc86sLSfnyhCBv) | [Aron Estocolmo](https://open.spotify.com/artist/2QU3bcawUYfHbcPmWPHtra) | [In search of Moksha..\. Or something of the kind](https://open.spotify.com/album/3CtCE0cNY4AQZTr1Jdyos2) | 6:37 |
 | 50 | [Lotus Bass](https://open.spotify.com/track/6HZ2zvOAWZGhp9tT8CxPz4) | [Aroma Pitch](https://open.spotify.com/artist/4ZZJe4oBObVPp44pPiwhdC) | [Interlife](https://open.spotify.com/album/6QIBDUk1b28H4aq45gaqT1) | 4:41 |
 
-Snapshot ID: `MCw2MDhhNjVkZDVhYmE2NjM0NjJkMWRkOWIyNTZiNTZhNzFjN2RlYzc2`
+Snapshot ID: `MCw3OGNkMjk0ZGM5YTVkZjQ5ZmI0OGFlNjMyYzEyNzA4YjhiNzIyOWE4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9zR7tdziuQ.md) - [plain]
 
 > Relájate con tus canciones favoritas en versión acústica / Descontrai com versões acústicas das tuas músicas preferidas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 918,309 likes - 150 songs - 8 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 918,439 likes - 150 songs - 8 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9zR7tdziuQ.md) - [plain]
 | 149 | [Sugar \- Acoustic](https://open.spotify.com/track/3zjScixLevnImm0BErIHxQ) | [Francesco Yates](https://open.spotify.com/artist/5X1JzPIIonP3u9lA580pPT) | [Sugar \(Acoustic\)](https://open.spotify.com/album/24TT3jzVoaZb4j8L5HKUNs) | 3:29 |
 | 150 | [Call On Me \- Acoustic Version](https://open.spotify.com/track/7eTkIKmFgeb9MQmkTC2jCi) | [Starley](https://open.spotify.com/artist/02A3cEvlLLCbIMVDrK2GHV) | [Call On Me \(Acoustic Version\)](https://open.spotify.com/album/1CKFN0JYtkyPOgEIkIvBz2) | 2:28 |
 
-Snapshot ID: `MCxmZmRjNDY3NjE2NWI1MTY5MWU0Mjc2NWU0NDBjNzI2M2ZlYzNhOTZj`
+Snapshot ID: `MCxlZjc1ODk5NGUwZjU4NGRiYzMwZDFlNTVmYjNiMjdkMGRlZjA0OWZj`

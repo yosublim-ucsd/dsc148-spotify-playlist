@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafD1g5rer7q.md) - [plain]
 
 > Create the new vibe by mixing in the retro sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,697 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 389,879 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 |
-| 2 | [Stuck In Limbo](https://open.spotify.com/track/7H5jEUSvLTATbZNsmQJup0) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [jayover](https://open.spotify.com/artist/3D9DcggL2jQSpF0PaxAyr3) | [Stuck In Limbo](https://open.spotify.com/album/1hJHCRR8QQoi88AA51yRL8) | 2:14 |
+| 2 | [The Way It Is](https://open.spotify.com/track/22sFNLCbk7LJ2gWKANf6Ue) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh) | [The Way It Is](https://open.spotify.com/album/2nrh9MzGMJVt705Q3G47V7) | 2:30 |
 | 3 | [Whatever](https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Whatever](https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l) | 2:58 |
 | 4 | [Deep Down \(feat\. Never Dull\)](https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA), [Kenny Dope](https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX), [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [Deep Down \(feat\. Never Dull\)](https://open.spotify.com/album/3KpxpdySrMR2S7noneu1bI) | 2:45 |
 | 5 | [Friday \(feat\. Mufasa & Hypeman\) \- Dopamine Re\-Edit](https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Nightcrawlers](https://open.spotify.com/artist/1gALaWbNDnwS2ECV09sn2A), [Mufasa & Hypeman](https://open.spotify.com/artist/4L2dV3zY7RmkeiNO035Fi0), [Dopamine](https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN) | [Friday \(feat\. Mufasa & Hypeman\) \[Dopamine Re\-Edit\]](https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j) | 2:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafD1g5rer7q.md) - [plain]
 | 49 | [On My Mind](https://open.spotify.com/track/5lXY6PTuWXOludKy4zDQwM) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [On My Mind](https://open.spotify.com/album/2JvNCktHSlDwB9PhNYfOEq) | 3:09 |
 | 50 | [Ride With Me \(feat\. Kid Ink\) \- Brennan Heart Remix](https://open.spotify.com/track/74CkeJ0vYYTdQImnaLy759) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck), [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [Ride With Me \(feat\. Kid Ink\) \[Brennan Heart Remix\]](https://open.spotify.com/album/6AiFDQJbdWwKrZ4IMimBgE) | 3:50 |
 
-Snapshot ID: `MCwzYjE1Yjg5YTg5Zjc2Y2Y3YjY4Zjg0YWZhNGY3OWY0ZDliMzM5ZmNk`
+Snapshot ID: `MCwxNWMzYjIzMjk5ZGJmNjYxNjE1NTNjYTliZjgwODRiY2E4YWI2N2Rl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO05RikU.md) - [plain]
 
 > This is Sofía Reyes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,972 likes - 51 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,980 likes - 51 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO05RikU.md) - [plain]
 | 8 | [Lo siento \(feat\. Sofía Reyes\)](https://open.spotify.com/track/6mvhi5xZsGJeWyf1uyiW0r) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Prisma](https://open.spotify.com/album/3p9YnUYZyns6PGxTbKeLFq) | 3:52 |
 | 9 | [¿Qué Ha Pasao'?](https://open.spotify.com/track/5fxnoiUBJ5DMAQEYb2uFOr) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Sigo a Lo Mío](https://open.spotify.com/album/7mRlOJYRk9u7I8MteTkfzZ) | 3:18 |
 | 10 | [Casualidad](https://open.spotify.com/track/5FcT2TuosRkokjn3xyncER) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Casualidad](https://open.spotify.com/album/2TMrMWOfJY01n2MRhANkWi) | 3:13 |
-| 11 | [El Wey](https://open.spotify.com/track/4bFDvUCl0ZMQ6yHAUaSsF5) | [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [El Wey](https://open.spotify.com/album/52neKij6fmer1UfXcau0Dr) | 3:17 |
-| 12 | [24/7](https://open.spotify.com/track/6nQ3fhwmCWMoEa7m9Vn9du) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [Mal De Amores](https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc) | 3:10 |
+| 11 | [24/7](https://open.spotify.com/track/6nQ3fhwmCWMoEa7m9Vn9du) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [Mal De Amores](https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc) | 3:10 |
+| 12 | [El Wey](https://open.spotify.com/track/4bFDvUCl0ZMQ6yHAUaSsF5) | [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [El Wey](https://open.spotify.com/album/52neKij6fmer1UfXcau0Dr) | 3:17 |
 | 13 | [Dancing On Dangerous \(feat\. Sofía Reyes\)](https://open.spotify.com/track/6OYZvwKN8GaauTrJS1TuuH) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Dancing On Dangerous \(feat\. Sofía Reyes\)](https://open.spotify.com/album/2JxYl1wEAY8SUgZdUMYQ6Z) | 2:04 |
 | 14 | [Ya Lo Sabía](https://open.spotify.com/track/7w84NiIflcJxIOcvgUm1iB) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Hotel Miranda!](https://open.spotify.com/album/5QL33hpDp6XBWdNsc0VGUO) | 2:54 |
 | 15 | [How to Love \(feat\. Sofia Reyes\)](https://open.spotify.com/track/1oUb2nyyq0IWVj1nsuft0H) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Blood, Sweat & 3 Years](https://open.spotify.com/album/0KQDN58Lz8CXOsfIG6tQ7X) | 3:39 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO05RikU.md) - [plain]
 | 50 | [Échalo Pa' Ca](https://open.spotify.com/track/2h9otdWcqvn5D52cgS32fz) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj) | [Échalo Pa' Ca](https://open.spotify.com/album/0l17ZOSlaSfuQXPe2G82hk) | 3:42 |
 | 51 | [Treehouse](https://open.spotify.com/track/0Zrxq7AxjJQrVg013MYgU2) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Treehouse](https://open.spotify.com/album/0xDUWlPe0z4xOiBi41dmb9) | 3:09 |
 
-Snapshot ID: `Mjg0NzUyOTAsMDAwMDAwMDA4N2U4ZWJlYzY3ZDhiNTZmMzI2NjllZjljYjBiYjU5NA==`
+Snapshot ID: `Mjg0NzcwNzUsMDAwMDAwMDA3NTM0MGJhYjQ2NzY3ZDdiNzEzODE5YTU0ODBjZmUwNw==`

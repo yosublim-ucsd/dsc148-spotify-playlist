@@ -4,7 +4,7 @@
 
 > The best French indie tracks right now\. Cover : Emma Hoet
 
-465 songs - 1 day 1 hr 27 min
+466 songs - 1 day 1 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,7 +254,8 @@
 | [lighthouse](https://open.spotify.com/track/0v74b7nJnB4khRqiA8E3b9) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [postcard from NYC](https://open.spotify.com/album/0UjDR2kB0enEGBNDBGwQvR) | 2:18 | 2022-09-01 | 2022-10-14 |
 | [Looking Backward](https://open.spotify.com/track/3fdocuLx6MshLRTtXSWvqr) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Looking Backward](https://open.spotify.com/album/0EfmslMYF1WjVprELXpQvx) | 3:21 | 2022-01-20 | 2022-04-08 |
 | [Lost](https://open.spotify.com/track/6dElM6tD7hW95f8hCzKSeJ) | [Kazy Lambist](https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH), [Amouë](https://open.spotify.com/artist/5hxkInZtrkxDnUjsRqs5Ww) | [Lost](https://open.spotify.com/album/3aiDdnlHp7GrgKzHIgc3ES) | 3:20 | 2024-01-25 |  |
-| [Lost and found](https://open.spotify.com/track/3o5inGcKklTC2NwrCSUhQl) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG) | [Lost and found](https://open.spotify.com/album/3AVDhfJj8lyxdhLgSia94h) | 4:02 | 2023-09-21 |  |
+| [Lost and found](https://open.spotify.com/track/6MMEa398lg04laP9v8Q1YM) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG) | [Lost and found](https://open.spotify.com/album/4V5EXwlVZyDgqx5RHLik1z) | 4:02 | 2024-02-15 |  |
+| [Lost and found](https://open.spotify.com/track/3o5inGcKklTC2NwrCSUhQl) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG) | [Lost and found](https://open.spotify.com/album/3AVDhfJj8lyxdhLgSia94h) | 4:02 | 2023-09-21 | 2024-02-23 |
 | [Love](https://open.spotify.com/track/2DdwX6AeNWHtM2MDVBwosk) | [Nusky & Vaati](https://open.spotify.com/artist/4hQg3HQhXpqDWA0xi8rplg), [Clea Vincent](https://open.spotify.com/artist/6eforqOxk5mRrgprF7XtYu) | [Love](https://open.spotify.com/album/0w4szfJWUyvDX0zHhGHUPS) | 4:10 | 2022-06-30 | 2023-01-13 |
 | [Love! love! love!](https://open.spotify.com/track/0VUrBTBFYX8tkGUbWJ5wkD) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI), [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [BLOWSOM & friends](https://open.spotify.com/album/3ixRxq63i9d7drvJJf8UGs) | 3:22 | 2023-01-05 | 2023-04-14 |
 | [Loving Soft](https://open.spotify.com/track/59ZKmw2qa1w0IWcYZxk25s) | [Please](https://open.spotify.com/artist/07xx8lFWESVjZnqCpm43ku) | [Loving Soft](https://open.spotify.com/album/6cS7DGBdv2IRcTOF4Ed7e3) | 3:54 | 2023-01-26 | 2023-03-10 |

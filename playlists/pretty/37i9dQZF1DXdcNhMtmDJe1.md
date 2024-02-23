@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcNhMtmDJe1.md) - [plain]
 
 > Celebrated composer of jazz standards, classical masterpieces and some very catchy love songs; this is Gershwin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,026 likes - 54 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,041 likes - 54 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcNhMtmDJe1.md) - [plain]
 | 53 | [Of Thee I Sing: Overture \(Arr\. D\. Rose for Orchestra\)](https://open.spotify.com/track/2OyY9i6Ct7zLdrron7eIdt) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Michael Tilson Thomas](https://open.spotify.com/artist/2v1lHgfpG4joXW7kDdDI78), [Buffalo Philharmonic](https://open.spotify.com/artist/7y7JfF5Y2WU0VO8kWjp6WJ), [Buffalo Philharmonic Orchestra](https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK) | [Gershwin: Rhapsody in Blue](https://open.spotify.com/album/2NO6kml1PSIKXTVXYoQVXc) | 4:35 |
 | 54 | [2nd Rhapsody](https://open.spotify.com/track/1ckFQ0OHFXmtDqIBp1SCUV) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Orion Weiss](https://open.spotify.com/artist/5iT645Y7XQ99AdNq7hGI2e), [Buffalo Philharmonic Orchestra](https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK), [Joann Falletta](https://open.spotify.com/artist/4XNYbiwP1fToWVyvNPTMMK) | [Gershwin: Piano Concerto in F Major, 2nd Rhapsody & I Got Rhythm Variations](https://open.spotify.com/album/2eUSz8vAM7RQvkyDMDRDB5) | 15:49 |
 
-Snapshot ID: `MCxiOGU2MzFkOTFlZjU3YTczMzMwMzc2NDE4ODFlNThiNDFiZDA4ZmIx`
+Snapshot ID: `MCw3M2YzYjRmZmFjMGJiYjAzY2YzZWU5NmVkN2QyMTYyOWM1OTc4MjY2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXao0JEaClQq9.md) - [plain]
 
 > Modern heavenly sounds\. Cover: Caroline Polachek
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,624,573 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,624,731 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXao0JEaClQq9.md) - [plain]
 | 74 | [Bloom For Me](https://open.spotify.com/track/5C25UbDGoB9pgvqFlGfS9A) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL) | [Call For Help](https://open.spotify.com/album/2T0LDUVshmydIaKywFCDKX) | 2:27 |
 | 75 | [Unbothered](https://open.spotify.com/track/3pBG8fHFEUp3edhWfkIoCW) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Unbothered](https://open.spotify.com/album/2KV3y0IfAswzlbd2iJIgwU) | 2:04 |
 
-Snapshot ID: `MCwxM2I3MjdlZDA3NzNlNmFmMzI3ZTE3ODRiZDQ2YWE0YjZmZmVhMTBh`
+Snapshot ID: `MCw5NjJmNTJmMzE1OGY1MDMwZTg1ZDI4MjVjNGIzNTgyZDkxOTVhOTNi`

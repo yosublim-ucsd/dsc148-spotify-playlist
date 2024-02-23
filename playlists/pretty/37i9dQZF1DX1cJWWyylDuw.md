@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cJWWyylDuw.md) - [plain]
 
 > A collection of the best Deathcore tracks, mixing recent and fresh new tracks\. Cover: Left To Suffer
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,009 likes - 150 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,213 likes - 150 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cJWWyylDuw.md) - [plain]
 | 149 | [Teeth](https://open.spotify.com/track/2RfN92B2CL62PPcZs8Rl3f) | [Convictions](https://open.spotify.com/artist/0PNbGkwlV3farYnmoojYAY) | [I Won't Survive](https://open.spotify.com/album/4nALrWtHZfDGHX2eOzBkGO) | 2:08 |
 | 150 | [Malediction](https://open.spotify.com/track/0uT6SSzA93yxuWZea8bmxk) | [Shadow of Intent](https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D) | [Malediction](https://open.spotify.com/album/5ebvrBFdm6sSF9YPs4vfvy) | 5:40 |
 
-Snapshot ID: `MCw5MmQ4YjljMjc2YTZhMjg5OTZlMDEzMjA4ZWYyODdhMTE3MmVlNWEx`
+Snapshot ID: `MCxjYzA1OTNmZWUzMjliY2QyMjE1NTMzNzMwYmNiNDYzN2YyYzQxZmQz`

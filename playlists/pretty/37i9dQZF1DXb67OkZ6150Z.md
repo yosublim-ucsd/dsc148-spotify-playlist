@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 
 > Songs you love with an indie spin on it\. Cover: Arlo Parks
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,767 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,788 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 | 99 | [On the Road Again](https://open.spotify.com/track/4QCzw4JAIj6Ythv6GxiI7G) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [On the Road Again](https://open.spotify.com/album/4AcWg6gNuQV2Ulh0yS0Nqt) | 2:25 |
 | 100 | [Everybody Wants To Rule The World](https://open.spotify.com/track/6Io2LMAlssbMR1cjj9cGD7) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Everybody Wants To Rule The World](https://open.spotify.com/album/2cl1aT8KUor2XmO4WH6vOu) | 3:43 |
 
-Snapshot ID: `MCxlZTVkMDA4NmUwMDZiZGIxNzVjMWU4ZjZjZmE5MjJhZTJmYWRkMDU5`
+Snapshot ID: `MCwyMTFkNzMzY2QyMmMwMDM1NjlhYzA3MjQ2MTE2MjQ1OWE2MWFlOGZj`

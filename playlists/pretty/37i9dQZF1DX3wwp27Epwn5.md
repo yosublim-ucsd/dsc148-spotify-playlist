@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wwp27Epwn5.md) - [plain]
 
 > Train insane with these Bollywood tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,655 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,706 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wwp27Epwn5.md) - [plain]
 | 49 | [Lakshya](https://open.spotify.com/track/7o1yzUVkQt2Gto5yYvzo2T) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a) | [Lakshya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2U02MTp5MJnqV54xsJOVIe) | 6:15 |
 | 50 | [High Rated Gabru](https://open.spotify.com/track/4dJWik0ax9bRFXl0HqbFjT) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL) | [Nawabzaade](https://open.spotify.com/album/5cExHIssPauI1CN9fwxkOk) | 2:59 |
 
-Snapshot ID: `MCw3NGI5OGU5NDU3ZDZhM2M0N2IyNTU2OWExMDNlM2E2OTQ1NTJhNWMz`
+Snapshot ID: `MCwxYjJiZGE0NWRmZWMzMmQzMTRiOGJkZjAwZTkyMjFkYzg1ZDBmNGE2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KmjFVboxXV.md) - [plain]
 
 > Love whoever you want to love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,139 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,422 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KmjFVboxXV.md) - [plain]
 | 49 | [Wish You Were Gay](https://open.spotify.com/track/1UOgQpv8Ofd3OtlmpCjmTM) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Sideline Star](https://open.spotify.com/album/50XzEQE4WzsW2XH1UWIsBD) | 3:11 |
 | 50 | [Feelings](https://open.spotify.com/track/27DxZkqTR2SHZTTfMRpUvW) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Expectations](https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL) | 3:36 |
 
-Snapshot ID: `MCwzNTA4OTExNjEzMTBiYjk2NmFmOGI1OGE0ZjJmMWMzNGI0MDM2MDVl`
+Snapshot ID: `MCwxYWFjZmZhZTE0OGQ0OWRiNzI3MTQyZGIzMTM3ODZkYTA2ZTAwMjdi`

@@ -1,5 +1,5 @@
 {
-  "2024-02-22": 840865,
+  "2024-02-23": 841002,
   "date_first_scraped": "2023-07-28",
   "description": "Le meilleur de la musique d'hier et d'aujourd'hui pour une journ\u00e9e parfaite.",
   "name": "La vie est belle",
@@ -913,7 +913,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 163472,
       "name": "Feel Good",
       "url": "https://open.spotify.com/track/6PcVlezWXunO2Bh78iEq0W"
@@ -1043,6 +1043,24 @@
       "duration_ms": 245120,
       "name": "Foundations",
       "url": "https://open.spotify.com/track/1wi4ti9BYUbwoGJ1EBUVtv"
+    },
+    {
+      "album": {
+        "name": "The Ballet Girl",
+        "url": "https://open.spotify.com/album/26YF4ze9QFyuOWcTETDlX0"
+      },
+      "artists": [
+        {
+          "name": "Aden Foyer",
+          "url": "https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199405,
+      "name": "Galileo Galilei",
+      "url": "https://open.spotify.com/track/3Ox5iyqF3SeTC2bqOA9V9u"
     },
     {
       "album": {
@@ -1289,7 +1307,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 163133,
       "name": "Ho Hey",
       "url": "https://open.spotify.com/track/0W4Kpfp1w2xkY3PrV714B7"
@@ -1390,6 +1408,28 @@
     },
     {
       "album": {
+        "name": "Starboy",
+        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269186,
+      "name": "I Feel It Coming",
+      "url": "https://open.spotify.com/track/3dhjNA0jGA8vHBQ1VdD6vV"
+    },
+    {
+      "album": {
         "name": "ily (i love you baby) (feat. Emilee)",
         "url": "https://open.spotify.com/album/4MHHajvRTUHItDsvfdIC8B"
       },
@@ -1409,6 +1449,24 @@
       "duration_ms": 176546,
       "name": "ily (i love you baby) (feat. Emilee)",
       "url": "https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS"
+    },
+    {
+      "album": {
+        "name": "In My Bones",
+        "url": "https://open.spotify.com/album/0k0bNry02giEZTTZjkIdyC"
+      },
+      "artists": [
+        {
+          "name": "Ray Dalton",
+          "url": "https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191053,
+      "name": "In My Bones",
+      "url": "https://open.spotify.com/track/6yHVyMdC08djbP86mdkP3G"
     },
     {
       "album": {
@@ -1445,6 +1503,24 @@
       "duration_ms": 232384,
       "name": "Irrelevant",
       "url": "https://open.spotify.com/track/5Oz15cyQP3TMDDXKWm4tYH"
+    },
+    {
+      "album": {
+        "name": "Is It Love",
+        "url": "https://open.spotify.com/album/6fYOQSJpXKdVBkD09Kg2lf"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143669,
+      "name": "Is It Love",
+      "url": "https://open.spotify.com/track/5JEzgajKcC4eIQfRu3cZk7"
     },
     {
       "album": {
@@ -1665,7 +1741,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 260532,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/2xsAm4w9P3kSF1DophKAiF"
@@ -1939,7 +2015,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 182226,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/0RFjIMPz5LJuSjtdx5W8bE"
@@ -2065,7 +2141,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 213080,
       "name": "No Strings",
       "url": "https://open.spotify.com/track/2EVPJwUDXYldA6gAv00Tj6"
@@ -2604,6 +2680,24 @@
     },
     {
       "album": {
+        "name": "Playing My Game",
+        "url": "https://open.spotify.com/album/2uOhhD5z1ANhNgEmnROk0N"
+      },
+      "artists": [
+        {
+          "name": "Lene Marlin",
+          "url": "https://open.spotify.com/artist/5TrH0BhpRgs2gkOb992bGC"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234373,
+      "name": "Sitting Down Here",
+      "url": "https://open.spotify.com/track/2NwXOuYLEbyhlQzDtoANul"
+    },
+    {
+      "album": {
         "name": "Alright, Still (Bonus Track Version)",
         "url": "https://open.spotify.com/album/3nxPzWEJBjzonYWtTNb0uY"
       },
@@ -2749,7 +2843,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 172723,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt"
@@ -2803,7 +2897,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 202333,
       "name": "Stressed Out",
       "url": "https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn"
@@ -2825,6 +2919,24 @@
       "duration_ms": 169839,
       "name": "Sugar Sweet",
       "url": "https://open.spotify.com/track/5ZzaQW3InamKZ0KdJVQ1GO"
+    },
+    {
+      "album": {
+        "name": "Sweet Tooth",
+        "url": "https://open.spotify.com/album/0m7jHaP0wjBEqrRncFTLic"
+      },
+      "artists": [
+        {
+          "name": "Lusaint",
+          "url": "https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187324,
+      "name": "Sweet Tooth",
+      "url": "https://open.spotify.com/track/2q3WnVVXT4xh4GA4O7cHF3"
     },
     {
       "album": {
@@ -3024,6 +3136,24 @@
     },
     {
       "album": {
+        "name": "Viva La Vida or Death and All His Friends",
+        "url": "https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242373,
+      "name": "Viva La Vida",
+      "url": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
+    },
+    {
+      "album": {
         "name": "Stories",
         "url": "https://open.spotify.com/album/7dqftJ3kas6D0VAdmt3k3V"
       },
@@ -3129,7 +3259,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 201519,
       "name": "Why Do the Bad Things Feel Good",
       "url": "https://open.spotify.com/track/4tlqyokGNPlVU2kciN4J2N"
@@ -3187,6 +3317,24 @@
       "duration_ms": 274693,
       "name": "You Say",
       "url": "https://open.spotify.com/track/6Up545NUflOiXo8cEraH49"
+    },
+    {
+      "album": {
+        "name": "Women in Technology",
+        "url": "https://open.spotify.com/album/6z6qZbY7mDuyzstPSCy5Xq"
+      },
+      "artists": [
+        {
+          "name": "White Town",
+          "url": "https://open.spotify.com/artist/1MPcILKoMCJym9KscdYxuM"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259893,
+      "name": "Your Woman",
+      "url": "https://open.spotify.com/track/3UBItNVbFQiVC5hBQlBvnr"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXdrln2UyZD7F"

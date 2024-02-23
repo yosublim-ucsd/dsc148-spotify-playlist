@@ -114,6 +114,6 @@
 | [XO Tour Llif3](https://open.spotify.com/track/7GX5flRQZVHRAGd6B4TmDO) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Luv Is Rage 2](https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE) | 3:02 | 2023-03-01 | 2023-07-12 |
 | [Yes Indeed](https://open.spotify.com/track/6vN77lE9LK6HP2DewaN6HZ) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Harder Than Ever](https://open.spotify.com/album/7yf9ZJyHRbp8sHtpDKfPpt) | 2:22 | 2023-03-01 | 2023-07-12 |
 | [YUM YUM \- Slowed](https://open.spotify.com/track/7eLiel6UxoNWPGJoSfrq46) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [YUM YUM](https://open.spotify.com/album/7Bc7xEWvkW01bvq5jAhCQS) | 2:34 | 2023-12-27 | 2024-01-01 |
-| [YUMMI](https://open.spotify.com/track/3RlfkOE0lXMec08I6CaakR) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK), [YOUK3IV](https://open.spotify.com/artist/4ftc3UZdpRIPlQVWZRnEg4) | [YUMMI](https://open.spotify.com/album/4J0FEQtbjPH1DA60p6bKe9) | 1:35 | 2023-12-01 |  |
+| [YUMMI](https://open.spotify.com/track/3RlfkOE0lXMec08I6CaakR) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK), [YOUK3IV](https://open.spotify.com/artist/4ftc3UZdpRIPlQVWZRnEg4) | [YUMMI](https://open.spotify.com/album/4J0FEQtbjPH1DA60p6bKe9) | 1:36 | 2023-12-01 |  |
 
 \*This playlist was first scraped on 2023-03-02. Prior content cannot be recovered.

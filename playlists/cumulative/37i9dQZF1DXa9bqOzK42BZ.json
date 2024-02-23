@@ -451,6 +451,28 @@
     },
     {
       "album": {
+        "name": "Design",
+        "url": "https://open.spotify.com/album/6dqPT2VdkhAmRL0BITqIFJ"
+      },
+      "artists": [
+        {
+          "name": "Kenani",
+          "url": "https://open.spotify.com/artist/5k3oBkYy3nm3hHoUreIJ3O"
+        },
+        {
+          "name": "Dj Penny",
+          "url": "https://open.spotify.com/artist/0m8Pugts84dRwQV3sYSJuY"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154455,
+      "name": "Design",
+      "url": "https://open.spotify.com/track/2sRh4c16w9ouLKDsxST41G"
+    },
+    {
+      "album": {
         "name": "Nimekutana Na Yesu",
         "url": "https://open.spotify.com/album/7uG3igTPfTvad0ePaGCWM2"
       },
@@ -1258,6 +1280,24 @@
       "duration_ms": 420597,
       "name": "Natamani Wamebarikiwa",
       "url": "https://open.spotify.com/track/2xJA3Bbn20xQYiWh1Cjj6E"
+    },
+    {
+      "album": {
+        "name": "Neema Yako",
+        "url": "https://open.spotify.com/album/0XBXZ6z5qXz5f6ZsVD4UqD"
+      },
+      "artists": [
+        {
+          "name": "Rehema Simfukwe",
+          "url": "https://open.spotify.com/artist/6LL0XXSfIWHDxuDf9HmnjL"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 768284,
+      "name": "Neema Yako",
+      "url": "https://open.spotify.com/track/48KauDiCxIpvjOXd0Cg99L"
     },
     {
       "album": {
@@ -2668,6 +2708,28 @@
       "duration_ms": 297431,
       "name": "Wewe Pekee",
       "url": "https://open.spotify.com/track/28IQhL2pviXFkWXMz4sxn3"
+    },
+    {
+      "album": {
+        "name": "Who You Are",
+        "url": "https://open.spotify.com/album/2rJn9soQ8jyta1maaJSQGM"
+      },
+      "artists": [
+        {
+          "name": "Dj Penny",
+          "url": "https://open.spotify.com/artist/0m8Pugts84dRwQV3sYSJuY"
+        },
+        {
+          "name": "Guardian Angel",
+          "url": "https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141061,
+      "name": "Who You Are",
+      "url": "https://open.spotify.com/track/7wGFgjK6ExstaxgaxMkUbq"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pbGJDhTXK3.md) - [plain]
 
 > A celebration of Norway's dance scene!
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,020 likes - 50 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,032 likes - 50 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pbGJDhTXK3.md) - [plain]
 | 49 | [Perseverance](https://open.spotify.com/track/1S2N8e03dQC5Hs8OC141PE) | [Niilas](https://open.spotify.com/artist/1qAHgylFxv2gU6bXAQEM2P) | [Perseverance](https://open.spotify.com/album/3mppadjAyaa5NGmMRDSQIS) | 2:46 |
 | 50 | [Zephyr \- Robert Solheim Solaris Remix](https://open.spotify.com/track/1psXs0ni8IySbY3AxcEeMG) | [Stereolynk](https://open.spotify.com/artist/6W2V2WS3Kr36kZjd2YjFOn), [Robert Solheim](https://open.spotify.com/artist/5Ewl7o6HfXIj36cP4zXkyn) | [Zephyr \(Unreleased Remixes\)](https://open.spotify.com/album/68GKYd7hqm3DLlYjsD4KgR) | 9:55 |
 
-Snapshot ID: `MCw2M2JlMWQzZDg4ZjY2ZmRlYWZlMDQ1YWZlNDhhZjk3MzZmNjQ4ZWQ0`
+Snapshot ID: `MCw1YmQ1NDM1OWRjNjA3MjhmNjNmM2I5ZTg3ZjI5NDJjYmQ0OGNmOWE4`

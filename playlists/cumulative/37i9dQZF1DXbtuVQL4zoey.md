@@ -4,11 +4,12 @@
 
 > Beach vibes and summer jams only.
 
-539 songs - 20 hr 47 min
+541 songs - 20 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [!Sunshine!](https://open.spotify.com/track/5v4j4LiqW49SnYAwnJugw5) | [Camden Clown](https://open.spotify.com/artist/56yn1U5TaMjH6ENhDdlWfM) | [Seven Hours](https://open.spotify.com/album/35tjstca6Mawcst5DoeXMN) | 3:03 | 2022-05-20 |  |
+| [3 pm](https://open.spotify.com/track/0HoWhKBcNCjomwXVCg5Mcz) | [Trish Lupin](https://open.spotify.com/artist/2tUWdnMothLxACGOxca5Nz) | [3 pm](https://open.spotify.com/album/4ATHCe9ZEngQ0GNxJToKQ6) | 1:57 | 2024-02-23 |  |
 | [A Bright New Day](https://open.spotify.com/track/0OVFRb4yQK5abrmnWNjr5f) | [Natasha Ghosh](https://open.spotify.com/artist/1NdDUOuRmmfgKiuWKUEp7z), [Early Garden](https://open.spotify.com/artist/6UFQmSPDWaWReDLcCrPyNL) | [Development](https://open.spotify.com/album/2I3z5YfETOjQQHs2JPdceV) | 2:08 | 2022-07-08 | 2022-07-15 |
 | [a bright point of view](https://open.spotify.com/track/3evjhgwpjWYwNWFom2wenu) | [middt](https://open.spotify.com/artist/3u78iBx7E3vzHHhc47gdTf), [Igor Utzig](https://open.spotify.com/artist/0SK3nj1aKuSNtBRvEow982) | [a bright point of view](https://open.spotify.com/album/3uhS1om9OFKIaXwCTjBESF) | 2:01 | 2023-01-13 |  |
 | [A Costa](https://open.spotify.com/track/009s8MccQSXM4pAQwsP59s) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Maple Syrup](https://open.spotify.com/artist/18hiqhddMloGWzY8pNZ8qr) | [A Costa](https://open.spotify.com/album/0w5RQ9HUb2vv1WqSzm9lME) | 2:12 | 2022-05-20 | 2022-07-01 |
@@ -524,6 +525,7 @@
 | [Vacation Days](https://open.spotify.com/track/76cHnrbRZkkJzm6MbIrIHB) | [Strehlow](https://open.spotify.com/artist/1pUWzVmu8ACMnIAu9BsOHm) | [Vacation Days](https://open.spotify.com/album/1l9PBk2Z5lUW5KuATKUMIu) | 2:18 | 2022-11-11 | 2024-02-09 |
 | [Vague Action](https://open.spotify.com/track/5P4K1RXoqxuLalYxSQqgbA) | [K9 Division](https://open.spotify.com/artist/14mNenIi1W5u68fvDTd7ES) | [Zakky](https://open.spotify.com/album/0qoRty23FJ6Whk9gQQvBIT) | 1:50 | 2022-05-20 |  |
 | [valeu](https://open.spotify.com/track/1F2uybth25RtZSiswOl7S2) | [Joey Silva](https://open.spotify.com/artist/4wVViv1ngnAiahW2T7UQgB) | [valeu](https://open.spotify.com/album/2G9bljIWW9h1EIgbM3fCL2) | 1:58 | 2023-06-15 |  |
+| [Vitamin Sea](https://open.spotify.com/track/3P7RYWEmBu5wKE82bZe2am) | [Harry Hawaii](https://open.spotify.com/artist/7fQVHvcP2LSpPU3pNU7wKA) | [Vitamin Sea](https://open.spotify.com/album/6ww2qGiRXSKAknQiJWfgAa) | 1:46 | 2024-02-23 |  |
 | [Waking Waves](https://open.spotify.com/track/2CCvwL3lgXH94oajKSOblm) | [PIÑA PINK](https://open.spotify.com/artist/7L2I1AuvyRXd2ysLSTeKZX) | [Waking Waves](https://open.spotify.com/album/0GTAbLRocrPLSAu3y1MQT6) | 3:07 | 2022-05-20 | 2023-05-02 |
 | [Walking to Adachi](https://open.spotify.com/track/0zHKDPdhYYuRsZP6UPYu0x) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Morning\-Evening](https://open.spotify.com/album/7KoIdddL9V7auQaffvseFl) | 2:21 | 2022-10-28 | 2022-11-13 |
 | [Walking to Adachi](https://open.spotify.com/track/3HTm1FF3Cv1i7QMMIBkbVJ) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Walking to Adachi / Neon Signage](https://open.spotify.com/album/5lFq6p8lHq53YXV5BmoaBb) | 2:21 | 2022-05-20 | 2022-07-29 |

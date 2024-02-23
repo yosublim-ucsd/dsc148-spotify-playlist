@@ -24,7 +24,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 149278,
       "name": "Aadharanjali (From \"Romancham)",
       "url": "https://open.spotify.com/track/3jg0GvH2oYHGuy2U7SH4SJ"
@@ -384,7 +384,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 242334,
       "name": "Ashubha Mangalakaari (From \"Super Sharanya\")",
       "url": "https://open.spotify.com/track/2G83DX4DbwqeW7v8QV6sdg"
@@ -534,7 +534,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 226000,
       "name": "Darshana - From \"Hridayam\"",
       "url": "https://open.spotify.com/track/4BBwON1XG02S4cpYrV10u2"
@@ -556,7 +556,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 344791,
       "name": "Devadoothar Paadi - From \"Nna Thaan Case Kodu\"",
       "url": "https://open.spotify.com/track/4Zi74O1mr960YTHwcTVOej"
@@ -708,7 +708,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 201600,
       "name": "Entammede Jimikki Kammal",
       "url": "https://open.spotify.com/track/2n46SeXId7o9WvXTFgRO8B"
@@ -824,7 +824,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 196759,
       "name": "Haalaake Marunne",
       "url": "https://open.spotify.com/track/4r25jJbIeF3pED2ilzAmOV"
@@ -942,7 +942,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 197538,
       "name": "Ingattu Nokku - From \"Chattambi\"",
       "url": "https://open.spotify.com/track/0WTIeBhKBR293BRjAiDjJD"
@@ -990,7 +990,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 241411,
       "name": "Jaathikkathottam",
       "url": "https://open.spotify.com/track/1ZZtStYMdU3QIvUjhfnsAU"
@@ -1208,7 +1208,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 336545,
       "name": "Jil Jil Jil",
       "url": "https://open.spotify.com/track/3DTtRxqlIhnWKW9WjRQnGj"
@@ -1282,7 +1282,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 124245,
       "name": "Kalakkatha",
       "url": "https://open.spotify.com/track/667y08kCQ18lpjvdLK5wQi"
@@ -1316,7 +1316,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 251999,
       "name": "Kalapakkaara (From \"King of Kotha\")",
       "url": "https://open.spotify.com/track/554RItg5afQv3ODGQMT29x"
@@ -1746,7 +1746,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 157609,
       "name": "Kudukku",
       "url": "https://open.spotify.com/track/3QRSs8nzHXXvcQjdnx0CsJ"
@@ -1964,7 +1964,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 200000,
       "name": "Manavaalan Thug - From \"Thallumaala\"",
       "url": "https://open.spotify.com/track/0MHiYjjcHNYM9KURa6NveF"
@@ -2108,10 +2108,32 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 270521,
       "name": "Mazha Pattu (From \"Padavettu\")",
       "url": "https://open.spotify.com/track/4YVewbtar0Zdg7sUlO2bjl"
+    },
+    {
+      "album": {
+        "name": "Mazhavillile (From \"Falimy\")",
+        "url": "https://open.spotify.com/album/2CPlfbyLCopFkWebKyBgeo"
+      },
+      "artists": [
+        {
+          "name": "Vishnu Vijay",
+          "url": "https://open.spotify.com/artist/2einniD11Dbvrwy5nWmn4p"
+        },
+        {
+          "name": "Mu.Ri",
+          "url": "https://open.spotify.com/artist/6XaKvCWc54LHjReFGiQBDm"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196609,
+      "name": "Mazhavillile - From \"Falimy\"",
+      "url": "https://open.spotify.com/track/0vvlXqo7vNXmMDwSqXldLy"
     },
     {
       "album": {
@@ -2192,7 +2214,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 238067,
       "name": "Mizhiyil - From 'Mayaanadhi'",
       "url": "https://open.spotify.com/track/3BpzVElcubHiz9thWkHxrN"
@@ -2340,7 +2362,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 209772,
       "name": "Nee Mukilo",
       "url": "https://open.spotify.com/track/4kw7D5nU2QqjdM9pVef6GN"
@@ -2428,7 +2450,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 325650,
       "name": "Nenjakame - From \"Ambili\"",
       "url": "https://open.spotify.com/track/4HYiaTXtQLiASRD3H87e7L"
@@ -2446,7 +2468,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 197314,
       "name": "Nilaavil Ellame",
       "url": "https://open.spotify.com/track/09KdVJCUon1OvPmST9uJKt"
@@ -2564,7 +2586,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 195223,
       "name": "Olam Up",
       "url": "https://open.spotify.com/track/34S1HR7v1HWX9OlijjZ0iR"
@@ -2946,7 +2968,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 270157,
       "name": "Pala Palli (From \"Kaduva\")",
       "url": "https://open.spotify.com/track/22bYBTbMlfs95PWLLdrCRv"
@@ -3418,7 +3440,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 238101,
       "name": "Rosapoo Malatharam",
       "url": "https://open.spotify.com/track/311UhpNSp0MTOjrzfyYcaK"
@@ -3626,7 +3648,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 183737,
       "name": "Thallumaala Paattu",
       "url": "https://open.spotify.com/track/1JGdOSXhyXpAu7xUpoygxW"
@@ -3752,7 +3774,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 132755,
       "name": "Thee Minnal",
       "url": "https://open.spotify.com/track/0MazZtniHdlLigR01rpKEI"
@@ -3942,7 +3964,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 224890,
       "name": "Thiru Thiru Thiruvananthapurathu (From \"Kaapa\")",
       "url": "https://open.spotify.com/track/1NS9z3vPkLQW3fLTFgGMPZ"
@@ -4098,7 +4120,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 199921,
       "name": "Uyire",
       "url": "https://open.spotify.com/track/6kPYrnBJubso1t47lbXvNU"
@@ -4252,7 +4274,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 264852,
       "name": "Vaarthinkale",
       "url": "https://open.spotify.com/track/7fccqI6j1XXpVpAO5gkDXL"

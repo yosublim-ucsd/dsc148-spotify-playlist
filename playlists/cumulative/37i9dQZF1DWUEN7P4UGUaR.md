@@ -2,9 +2,9 @@
 
 ### [Aseda](https://open.spotify.com/playlist/37i9dQZF1DWUEN7P4UGUaR)
 
-> Fresh gospel music from Ghana\. Cover: Joyce Blessing
+> Fresh gospel music from Ghana\. Cover: MOGMusic
 
-83 songs - 7 hr 17 min
+84 songs - 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Chosen](https://open.spotify.com/track/6kkor3J7R9YO2gembUEGPI) | [Eugy](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo) | [Chosen](https://open.spotify.com/album/23FSijZfVgyYFGVdiXvG4Y) | 2:44 | 2023-09-14 | 2023-11-11 |
 | [Chosen](https://open.spotify.com/track/3D28L1BTQL3erWFIEamyBR) | [Eugy Official](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo) | [The Prodigal Son](https://open.spotify.com/album/0V8fKBOCPB9xJuQt3j8cOQ) | 2:44 | 2023-09-14 |  |
 | [CYB](https://open.spotify.com/track/4RROgBvii00NTvk2ga3xZk) | [Regardless Da YungKing](https://open.spotify.com/artist/7dkbG2UVvht2XS9FzRXBcy), [Morphat](https://open.spotify.com/artist/6aOcPv0XzxXzDWpEQer0rw) | [CYB](https://open.spotify.com/album/0KqMiA8MVuuBsK8KXlCAmy) | 2:59 | 2023-04-06 | 2023-06-01 |
-| [Dear God](https://open.spotify.com/track/17m5N07GGlrUrqz1XwL40w) | [Jacquelyn Oforiwaa\-Amanfo](https://open.spotify.com/artist/2noxRpCkkwCk7iYYPr151p), [Nana Amoah](https://open.spotify.com/artist/3EQe9YDfiBp4ZERkmjp6Fu) | [Dear God](https://open.spotify.com/album/4uW2MlugHUxK2JgW2tIjS6) | 7:08 | 2023-04-06 |  |
+| [Dear God](https://open.spotify.com/track/17m5N07GGlrUrqz1XwL40w) | [Jacquelyn Oforiwaa\-Amanfo](https://open.spotify.com/artist/2noxRpCkkwCk7iYYPr151p), [Nana Amoah](https://open.spotify.com/artist/3EQe9YDfiBp4ZERkmjp6Fu) | [Dear God](https://open.spotify.com/album/4uW2MlugHUxK2JgW2tIjS6) | 7:08 | 2023-04-06 | 2024-02-23 |
 | [Deeper Medley](https://open.spotify.com/track/0ZAXIDq2pDCoFQxtk7ldwg) | [Denzel Prempeh](https://open.spotify.com/artist/1WwOwiV8aUE5RABgYamU0p) | [Deeper Touch](https://open.spotify.com/album/5nOXDaaJq1brfEv9jEYAGP) | 13:01 | 2023-04-06 |  |
 | [Energy](https://open.spotify.com/track/4h2jfMLM38ub5BFyZcmlvn) | [Louis Pascal](https://open.spotify.com/artist/2XftZv39x5JTEBmKZFDuvg), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [The Pen Of A Ready Writer](https://open.spotify.com/album/51yOhvYNPRcZWyXOY8pOhr) | 2:24 | 2023-04-20 | 2023-06-10 |
 | [Fawohodie\(Twi Medley\)](https://open.spotify.com/track/2N5uglkqAalKPTCnm4a2Cl) | [Perez Musik](https://open.spotify.com/artist/0aoCkJnz41cyF84JmMISzI) | [Fawohodie\(Twi Medley\)](https://open.spotify.com/album/3mLLK2GJ9k1uvVetcauSm1) | 9:54 | 2023-04-06 |  |
@@ -87,6 +87,7 @@
 | [W' asue Me](https://open.spotify.com/track/38TUsRvKzntzSTQGiCTEyk) | [Obaapa Christy](https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk) | [W'agye Me \(He Has Saved Me\)](https://open.spotify.com/album/2WWBMpv4jMlHegBbp40ot5) | 5:24 | 2023-04-06 |  |
 | [W'asem](https://open.spotify.com/track/2P1734fFFj2AG4oekoXtHz) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Grace](https://open.spotify.com/album/6vHojEWIva0bbhJIDS5YTC) | 3:39 | 2023-04-06 |  |
 | [Who Say God No Dey](https://open.spotify.com/track/3Ff4Jeg1zd09LYVABJ4YUU) | [Kofi Karikari](https://open.spotify.com/artist/0xhT4axNpehsv6iBReJgAE) | [Who Say God No Dey](https://open.spotify.com/album/4jy0Yrg8U6CacwTwChNtti) | 2:54 | 2023-04-06 | 2023-06-10 |
+| [Wo Ye \(Live\)](https://open.spotify.com/track/6NrKEvAtPayQpi9iPBF4zL) | [MOGmusic](https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW) | [Wo Ye \(Live\)](https://open.spotify.com/album/1UQpttjQ3N0bzPONAeuN1Y) | 8:32 | 2024-02-23 |  |
 | [Yes You Are the Lord](https://open.spotify.com/track/0ZNI3OqSxNAi3YGVd0ny2w) | [Denzel Prempeh](https://open.spotify.com/artist/1WwOwiV8aUE5RABgYamU0p), [Danny Nettey](https://open.spotify.com/artist/6GQaGd9hwNtiQG9pmFCnBK), [Emmit Jim Konadu](https://open.spotify.com/artist/5sWCmeUgaxTxG9DWEVWRnx), [Negar Wujanji](https://open.spotify.com/artist/0MJL3N9JJNFKx8s6G3Rsxi) | [A Sound from Heaven](https://open.spotify.com/album/5nskXzeE3eYkoi48SEpeVo) | 6:42 | 2023-04-06 |  |
 | [Yesu Mo](https://open.spotify.com/track/3HdoWrKP0zYDyJUjk82W2j) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Yesu Mo](https://open.spotify.com/album/3dkgSTTZBFef5lc2JzftJG) | 4:01 | 2023-04-06 |  |
 | [Your Grace](https://open.spotify.com/track/7JUphXRshWVYaxMwhgIWK2) | [Prince Tuffour](https://open.spotify.com/artist/6Eepfbu8xs396Vg3nDfTH4) | [Your Grace](https://open.spotify.com/album/7lsWJ06VBvThqiQ2jrKzMy) | 5:25 | 2023-04-14 | 2023-06-10 |

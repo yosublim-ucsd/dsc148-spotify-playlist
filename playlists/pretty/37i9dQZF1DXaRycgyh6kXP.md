@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 
 > Delicate digital expressions of the heart.
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,872 likes - 100 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,953 likes - 100 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 | 99 | [Talisman](https://open.spotify.com/track/6v6cuaxCnIAnnFrMcJLrc6) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Encores 2](https://open.spotify.com/album/2C2LdCgWMw6MkJ5RGJi5eg) | 4:02 |
 | 100 | [Kilika](https://open.spotify.com/track/3W2uJ9jgY0l55Rs1BCmgTu) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Themes for a New Earth](https://open.spotify.com/album/0X0yNR4beqvHw4HtqNfj1g) | 4:44 |
 
-Snapshot ID: `MCxlNTAwN2I4YTExYTBhNmI2OTI5MmJmMTY2ZTU2NTgxM2JhMzdjNDk2`
+Snapshot ID: `MCxmODY0OTY4YTExMjY1NWMwZGRkY2MzNTM5NzM2ZTc3MTA0ZTljOGVk`

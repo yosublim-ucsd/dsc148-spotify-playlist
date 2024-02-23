@@ -4,7 +4,7 @@
 
 > The best new music every Friday\. Cover: Jessica Pratt
 
-6,547 songs - 15 day 22 hr 21 min
+6,548 songs - 15 day 22 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2824,6 +2824,7 @@
 | [I'll Probably Never Be Somebody](https://open.spotify.com/track/7pT6H8KnmDSbRS05m41Tea) | [Vlad Holiday](https://open.spotify.com/artist/4kzBapiIVMxwhJLsTm28Gc) | [I'll Probably Never Be Somebody](https://open.spotify.com/album/0kIk4SNaOwUmgtDmkSrGHR) | 2:59 | 2020-11-06 | 2020-12-22 |
 | [I'll Take It Boring](https://open.spotify.com/track/1YXevBwffBF9tH0IC1D1yt) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [I'll Take It Boring](https://open.spotify.com/album/5WGpZFOUMsmWHbblJEmtNI) | 3:09 | 2020-05-15 | 2020-06-19 |
 | [I'll Wait](https://open.spotify.com/track/5n0EvYxNnyCBJpKn90i9Wl) | [Petey](https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA) | [I'll Wait](https://open.spotify.com/album/19GTyFd4MvQ9jRTyczZIB1) | 2:52 | 2023-07-07 | 2023-07-29 |
+| [I'm A Man](https://open.spotify.com/track/4RdqVrjTnuEms5pgKNG95q) | [Kim Gordon](https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx) | [I'm A Man](https://open.spotify.com/album/1GDSTZ2T6bOGQdFtjXTZn4) | 4:31 | 2024-02-16 |  |
 | [I'm a Moth!!](https://open.spotify.com/track/4ZapAR5XjoPEtsDHUG6cad) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [I'm a Moth!!](https://open.spotify.com/album/1P6WH7pf30l0VSKHm0894a) | 2:06 | 2022-02-11 | 2022-03-26 |
 | [I'm Always Here](https://open.spotify.com/track/485XGXNp7cvrPSaxJJbJ99) | [sign crushes motorist](https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP) | [Hurting](https://open.spotify.com/album/2iv4j11JOrhPnIz67C9UCT) | 3:20 | 2023-06-30 | 2023-08-05 |
 | [I'm Done](https://open.spotify.com/track/2OfPiMCN1oV3lFgh6mO0vQ) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [I'm Done](https://open.spotify.com/album/3c9nI13kCbfkFJqaPJRGcs) | 2:29 | 2023-09-08 | 2023-10-01 |
@@ -3044,7 +3045,6 @@
 | [iwantuall4me](https://open.spotify.com/track/6ygPBBgzTqxppds9IO0gOF) | [Estrada](https://open.spotify.com/artist/2GneXHHf3TSS7swhr1uzzE) | [iwantuall4me](https://open.spotify.com/album/4KZ5IYrCfL2R2vNX3wga8F) | 3:58 | 2023-07-28 | 2023-08-26 |
 | [iznotreal](https://open.spotify.com/track/4p3rEFNRRBsJHeerpmz5WU) | [meg elsier](https://open.spotify.com/artist/4rkAMhebcdsLwZKBriNerT) | [iznotreal/baby](https://open.spotify.com/album/4HpNCwKuDOIZCxO0Pg3yvg) | 3:33 | 2023-11-17 | 2024-01-13 |
 | [I’d Like You To Leave](https://open.spotify.com/track/2ufyUEytXZQvltIJsxEDwO) | [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn) | [I’d Like You To Leave](https://open.spotify.com/album/07fLys1nAwfqubZ5q927iW) | 2:46 | 2023-08-11 | 2023-09-09 |
-| [I’m A Man](https://open.spotify.com/track/4RdqVrjTnuEms5pgKNG95q) | [Kim Gordon](https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx) | [I'm A Man](https://open.spotify.com/album/1GDSTZ2T6bOGQdFtjXTZn4) | 4:31 | 2024-02-16 |  |
 | [I’m in love](https://open.spotify.com/track/2ZVZSnW5RecZ3dgUjmZiOJ) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [Bound](https://open.spotify.com/album/0alzQ77np9vExPaQChtWZX) | 2:26 | 2021-08-14 | 2021-09-25 |
 | [i’m not where you are](https://open.spotify.com/track/7CFYGfz2jiJeJQ9Ivyc6mp) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [i’m not where you are](https://open.spotify.com/album/3M9KkgOEzPIzMVDApN7FHM) | 3:46 | 2019-05-26\* | 2019-06-15 |
 | [J'aime les filles](https://open.spotify.com/track/6GiwLIxSRc3bEBaLj2RPjK) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [J'aime les filles](https://open.spotify.com/album/6dPvgLmDxBa52kR1MPJoQ0) | 3:16 | 2023-01-13 | 2023-02-18 |
@@ -5533,7 +5533,8 @@
 | [Tenderness](https://open.spotify.com/track/1HuyKIhidCvd5qy2a8T8fj) | [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Tenderness](https://open.spotify.com/album/4B5Y3cix5Nk4wJ6gYSvsbZ) | 4:01 | 2019-07-12 | 2019-09-13 |
 | [Tennis](https://open.spotify.com/track/5HjMrOB5mWB8F8Uh3wu58E) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [A Bowl of Unripe Fruit](https://open.spotify.com/album/1sTbqsjJft5XrgnGRN2Y05) | 2:19 | 2023-11-03 | 2023-12-16 |
 | [Tennis Courts](https://open.spotify.com/track/7FSHUkLuZipISCAvdgxEc2) | [Kevin Holliday](https://open.spotify.com/artist/30VidDqHTbEp8U7CBe1mX0) | [Tennis Courts](https://open.spotify.com/album/7tKJHyWwrh0KIkTRo2KMOW) | 3:00 | 2021-05-29 | 2021-07-17 |
-| [Terminal Woes](https://open.spotify.com/track/6KrfQye9oJaJ7ieCF1Dez2) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [Terminal Woes](https://open.spotify.com/album/1XNz75lfWi16KjzQB063De) | 3:19 | 2024-01-19 |  |
+| [Terminal Woes](https://open.spotify.com/track/3Gp7XRhtbdoC8nFGrD6aT6) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [Terminal Woes](https://open.spotify.com/album/4VtmKAVSqGS4Eb2dlwuwMw) | 3:19 | 2024-01-19 |  |
+| [Terminal Woes](https://open.spotify.com/track/6KrfQye9oJaJ7ieCF1Dez2) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [Terminal Woes](https://open.spotify.com/album/1XNz75lfWi16KjzQB063De) | 3:19 | 2024-01-19 | 2024-02-23 |
 | [TERMS](https://open.spotify.com/track/57AUprrPPO1UpdwKsk80yg) | [nickname jos](https://open.spotify.com/artist/0ZGyR0jYdrIzy1xDZYyuDn) | [HOT WHEELS / TERMS](https://open.spotify.com/album/3OORhTzZtBdNwSRixMdNGg) | 1:48 | 2021-10-09 | 2021-11-20 |
 | [Terrace](https://open.spotify.com/track/4PBgPkUQ8K7RttxbZol0mA) | [Shelter Boy](https://open.spotify.com/artist/0pTrkIFjUhNNHIV3YhtPfV), [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Terrace](https://open.spotify.com/album/7C6kJXJaBbBaNlLjuwfuou) | 2:32 | 2021-06-12 | 2021-08-07 |
 | [Terrified](https://open.spotify.com/track/3hNpZSfHbBQTBa171Vfm1L) | [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Terrified](https://open.spotify.com/album/6QeAYQsFc9ZdoyNsHwtoqc) | 3:59 | 2020-01-10 | 2020-02-14 |

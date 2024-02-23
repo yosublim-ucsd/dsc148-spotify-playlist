@@ -4,12 +4,12 @@
 
 > This is Aline Barros\. The essential tracks, all in one playlist.
 
-68 songs - 5 hr 24 min
+69 songs - 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Bênção \(The Blessing\) \(feat\. Lukas Agustinho\)](https://open.spotify.com/track/2ei5FBkatI52VChwfJjRPC) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O) | [A Bênção \(The Blessing\) \(feat\. Lukas Agustinho\)](https://open.spotify.com/album/2zWbRGUOKL6S39wFpdd5zW) | 7:07 | 2023-07-09 |  |
-| [A Dança do Quaquito](https://open.spotify.com/track/3o7vf9FujS4DkcDOMVMTug) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia 2](https://open.spotify.com/album/58dham8BeNuWKBJJTbzenr) | 2:58 | 2023-11-10 |  |
+| [A Dança do Quaquito](https://open.spotify.com/track/3o7vf9FujS4DkcDOMVMTug) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia 2](https://open.spotify.com/album/58dham8BeNuWKBJJTbzenr) | 2:58 | 2023-11-10 | 2024-02-23 |
 | [Amen \(Amém\)](https://open.spotify.com/track/4BqBBL859cZTWGEwCVa99g) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [Barak](https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P) | [Redención](https://open.spotify.com/album/6gIsv3ZQysvQzvJO4Dcbs5) | 4:12 | 2023-07-09 | 2023-11-11 |
 | [Ao Único](https://open.spotify.com/track/4ILBvXzE1hHidS46q6i7zO) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [O Poder do Teu Amor](https://open.spotify.com/album/2L2bJBB02c1Lfe18VLwGsL) | 4:10 | 2023-07-09 |  |
 | [Arca de Noé](https://open.spotify.com/track/2IlFyiCXLg5EK5JChEgWGA) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia 3](https://open.spotify.com/album/6dtJQolCzJVqKjpBE72gpg) | 3:21 | 2023-08-16 | 2024-02-09 |
@@ -23,6 +23,7 @@
 | [Casa do Pai](https://open.spotify.com/track/5Phlatr2avk8DRTA1ahxb6) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Graça](https://open.spotify.com/album/5cnXg9VgRklof02kUD45zk) | 4:44 | 2023-07-09 |  |
 | [Consagração / Louvor ao Rei](https://open.spotify.com/track/5oaAx3LoQLdQvwUvneLJ5L) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Consagração](https://open.spotify.com/album/6awgw5EcFtkcvDXC5RnwtM) | 6:21 | 2023-07-09 |  |
 | [Corra para os Braços do Pai \(If This World\) \[Ao Vivo Em Paris\]](https://open.spotify.com/track/3yMXARmXJgM6c0sYrtLJDk) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Corra para os Braços do Pai \(If This World\) \[Ao Vivo Em Paris\]](https://open.spotify.com/album/02EClmGIfQz1LDlAw8XEER) | 4:49 | 2023-07-09 | 2023-08-17 |
+| [Criança de Jesus](https://open.spotify.com/track/6FsX4uGYBj8gjqH245iUWD) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia 2](https://open.spotify.com/album/58dham8BeNuWKBJJTbzenr) | 2:33 | 2024-02-22 |  |
 | [Dança do Canguru](https://open.spotify.com/track/1U4Vl0LRSvWtfBtRI6bnBN) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia 3](https://open.spotify.com/album/6dtJQolCzJVqKjpBE72gpg) | 2:53 | 2023-07-09 |  |
 | [Dança do Pinguim](https://open.spotify.com/track/4xIhkjavXmWmlUSBOtEqUq) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia](https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4) | 2:56 | 2023-07-09 |  |
 | [Deus do Impossível \(Ao Vivo em Mojave Desert\)](https://open.spotify.com/track/0hD0KWK4te47pXBRJXVbY4) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Deus do Impossível \(Ao Vivo em Mojave Desert\)](https://open.spotify.com/album/3VRNnp5f7vPHZXQ81rVj1m) | 3:29 | 2023-07-09 |  |

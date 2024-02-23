@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9B1hu73DioC.md) - [plain]
 
 > Vibey indie tracks for just hanging out.
 
-[Spotify](https://open.spotify.com/user/spotify) - 822,477 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 822,594 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9B1hu73DioC.md) - [plain]
 | 99 | [My Shadow Life](https://open.spotify.com/track/6HiK9qjs0yuppNUR1LB9Bh) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL), [Oddbody](https://open.spotify.com/artist/3ASxxkRVFetiJFHvxaNdZX) | [LOVE + POP](https://open.spotify.com/album/5God4dounbNrQtR8otCSHD) | 1:37 |
 | 100 | [All Comes Crashing](https://open.spotify.com/track/4XRvI0XtqdOGYeC36VkbwA) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Formentera](https://open.spotify.com/album/1S5vq5vSHCnCJnMljIiuS6) | 4:23 |
 
-Snapshot ID: `MCw3MTUzNDFiMWZhZGI0ZWIyN2EwNjUxYWQ4MDBjMDY4Yjg4ODliODNj`
+Snapshot ID: `MCxmNTExZTJjYmYyMjg4YjE4Y2VhMmIyNzc0Yzc3NzI1ZTEwNjU2MDJl`

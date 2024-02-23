@@ -4,7 +4,7 @@
 
 > New & hot K\-Pop ballads\. \(Cover:KIMBUMSOO\(김범수\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,153 songs - 3 day 2 hr 41 min
+1,154 songs - 3 day 2 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -512,6 +512,7 @@
 | [I′m Sad without You \(Feat\. DOKO\)](https://open.spotify.com/track/35gNUShmNzCuSccQ5XheBp) | [Yooan Kim](https://open.spotify.com/artist/1HcoUEnl4hqoZXazYKGZAo), [DOKO](https://open.spotify.com/artist/7y5E5llLKviR9WIXK5lrag) | [I'm Sad without You](https://open.spotify.com/album/1T5vbcHbRYU9ICbvmfexFe) | 3:34 | 2022-11-09 | 2023-01-21 |
 | [I′m Sorry](https://open.spotify.com/track/3LUkaacGXrVcn8jo29Vymi) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Alchemy of Souls: Light and Shadow, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5GeLZHhhxLRaDeL2o6aaTg) | 4:16 | 2023-01-11 | 2023-02-15 |
 | [I′m Still In Love With You](https://open.spotify.com/track/5qtvMj1louZUaU2WeDRGa8) | [Lee Young Hyun](https://open.spotify.com/artist/4GzuNU3GlvlfNB4xweeTVR) | [I′m Still In Love With You](https://open.spotify.com/album/7DznUUwxhcd3C9urHroOIe) | 4:06 | 2023-09-14 | 2023-11-16 |
+| [Journey](https://open.spotify.com/track/2kyyJtsitronmU6HMGsm1m) | [KIM BUMSOO](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt) | [Journey](https://open.spotify.com/album/1uEb7pZr66xdSQcbfVVSX7) | 4:34 | 2024-02-22 |  |
 | [Just](https://open.spotify.com/track/4DR1sTHvsHjyKObD5PscKA) | [Nilo](https://open.spotify.com/artist/3JfHHtYuuQHtMtw2T7ff4v) | [Just](https://open.spotify.com/album/1mNNVEDDbAWUGas45o94VZ) | 3:41 | 2023-04-14 | 2023-08-25 |
 | [Just Another Day](https://open.spotify.com/track/1DsZiNbPwS6WyHdm6P9RZi) | [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Just Another Day](https://open.spotify.com/album/0GcGIYssBQ5oQ8XMjBYpmT) | 2:59 | 2023-12-13 |  |
 | [Just for a moment](https://open.spotify.com/track/0V7elfOc7DP0R0sOswnPsD) | [KEN](https://open.spotify.com/artist/08fiOzXWHTizuWGyS1dWu6) | [Greeting](https://open.spotify.com/album/026uWhfvMFjZyNEF6p0GBs) | 4:32 | 2022-03-24 | 2022-04-12 |

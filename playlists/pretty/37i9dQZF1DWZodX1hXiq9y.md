@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZodX1hXiq9y.md) - [plain]
 
 > The greatest saxophonists in Jazz\. Cover: John Coltrane
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,468 likes - 150 songs - 15 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,571 likes - 150 songs - 15 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZodX1hXiq9y.md) - [plain]
 | 149 | [On the Trail](https://open.spotify.com/track/5MKKKVSZZalOWxwTfIDxkO) | [Walter Smith III](https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b), [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S), [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv), [Eric Harland](https://open.spotify.com/artist/0wTdAqanDZiEonTBUmBSQh) | [Twio](https://open.spotify.com/album/2ekSSgd5FCCjgkMwT3qVXb) | 6:07 |
 | 150 | [Byablue](https://open.spotify.com/track/4MhGJyGOmgURHEJBatYzMz) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [Byablue](https://open.spotify.com/album/7BVDdIIHvAleYqTVobRLjr) | 7:19 |
 
-Snapshot ID: `MCxkMjYzMTQ1NTE5OTM3OTJkZTg3ZDJjYTVhMWM2YWZhMDc1ZTlmMTUx`
+Snapshot ID: `MCwwMDgyNjQ2NWVkNzlhZTViZTIyY2NkOTdlYWExODBkM2Q1ZWZmZGVj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXapHi7gXtXo2.md) - [plain]
 
 > Dale play y déjate llevar por estas finas melodías Indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,980 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,014 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXapHi7gXtXo2.md) - [plain]
 | 99 | [Me Siento en Primavera](https://open.spotify.com/track/6Jnj7W0neqd2vF5FBzU81P) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [Me Siento en Primavera](https://open.spotify.com/album/6ZNgkv0SXGV0xnSIBEUypz) | 2:42 |
 | 100 | [Sad Balada](https://open.spotify.com/track/5gVtKWi5x6U74LMJ6YjyHw) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN) | [La Negación](https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2) | 3:12 |
 
-Snapshot ID: `MCxlMGViMDg3OGJmNmI3NTYzZTgyYjY4MzBkNjY2YjA0YzdkYjlkYzMz`
+Snapshot ID: `MCxmYzI4NDI4MDYyYzNmZTJhYzM1ZTc1MmZhZGEwYTk2OTkyOGYyODVj`

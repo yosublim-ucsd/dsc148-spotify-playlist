@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWR73B3Bnjfh.md) - [plain]
 
 > The melancholic and soft sound of Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,204 likes - 75 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,402 likes - 75 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWR73B3Bnjfh.md) - [plain]
 | 74 | [Little Girl Blue](https://open.spotify.com/track/4y3Rmu6XbLeUi95ym34PGq) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Messages](https://open.spotify.com/album/6jePTuUPpahMgH5j9u9o55) | 8:43 |
 | 75 | [When Joanna Loved Me](https://open.spotify.com/track/2rxK2vd9P8QM1TEbyGFjoY) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu), [Jim Hall](https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr), [Eugene Wright](https://open.spotify.com/artist/3Bx84JkzpCnEzS2bTIHI53), [Connie Kay](https://open.spotify.com/artist/7txdgV9R0IGjkZ8R6rPake) | [Falling In Love With Paul Desmond](https://open.spotify.com/album/38SK483XET4r7jzPXaz8rc) | 5:43 |
 
-Snapshot ID: `MCwzNDc1NGZkNTZkOTMyOWYzOGQyMzNlODBhZGI2ZmRhNmFkNThjMGJi`
+Snapshot ID: `MCw4N2I2MTE0YzY5YmRhZGZmZDFkZjcxNjg4NmRiZTI4MWMwYmY2ZDZm`

@@ -4,7 +4,7 @@
 
 > Smooth and cozy saxophone ballads for relaxing or focus.
 
-204 songs - 13 hr 18 min
+206 songs - 13 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Ardent](https://open.spotify.com/track/0tJPym7iyE0HyPFhwPrPBj) | [The City of Birches](https://open.spotify.com/artist/6fGGglYJY8D22eJtcjgg8S) | [Ardent](https://open.spotify.com/album/14v5XJ2DIhpd1AmlgA25cw) | 3:06 | 2022-10-13 |  |
 | [As Though The Sun](https://open.spotify.com/track/2AxW80QuVqJ0GXygmupaM2) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [As Though The Sun](https://open.spotify.com/album/6Te3ZDjwGegzpFd1MaZNNe) | 3:47 | 2023-01-05 |  |
 | [Autumn in Berlin](https://open.spotify.com/track/5Frs5xwfED7VCc6XYNFnK7) | [William Claeson](https://open.spotify.com/artist/0QDLHVdGZpRfw01CpFIoUZ) | [Autumn in Berlin](https://open.spotify.com/album/0j5PaJc7pFXmloYCVSIxZ1) | 2:54 | 2022-08-18 |  |
+| [Back Again](https://open.spotify.com/track/2tc90056I9biUsg2AJJgxu) | [Belleville](https://open.spotify.com/artist/6OZLCBcT66pK5nRLz4xC2V) | [Back Again](https://open.spotify.com/album/7t2aig2y41TMu92g00TRNj) | 5:11 | 2024-02-23 |  |
 | [Ballad For Trane](https://open.spotify.com/track/6Iffg8hOfzhHOmpyZFdprO) | [The Boston Four](https://open.spotify.com/artist/2vRbMto00LAZjdA2s227Sl) | [Ballad For Trane](https://open.spotify.com/album/6lzGCAfFHQA487O3mOGTIs) | 3:37 | 2022-08-18 |  |
 | [Ballad Of The Sad Young Man](https://open.spotify.com/track/6jqTF5uYRWJjDklyCSJpX8) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [Ballad Of The Sad Young Man](https://open.spotify.com/album/3vT3GZxPt08jfwZib4FEJ4) | 3:44 | 2022-08-18 | 2022-11-25 |
 | [Black Ice](https://open.spotify.com/track/2vLmNEKsbw9sjl7PFzmar3) | [Piper Williamson](https://open.spotify.com/artist/5ahbWWBc8VL95P5BG7Miai) | [Black Ice](https://open.spotify.com/album/6Wq8NLhoc7O3VpDZx8hpr4) | 3:48 | 2022-10-27 |  |
@@ -38,7 +39,7 @@
 | [Bridges](https://open.spotify.com/track/4lwnOftnucowM1naK5rB7X) | [Ikigai](https://open.spotify.com/artist/0bNWgPLuFJzQ3IXoDfydPv) | [Bridges](https://open.spotify.com/album/5zZQGomSy4wpZaWL34x6fK) | 2:53 | 2023-06-08 |  |
 | [Café International](https://open.spotify.com/track/6mWHwX0VNVDyWVF0j6qQ56) | [Nelly Vernon](https://open.spotify.com/artist/2QTDEcFCA6jvoJwQsm3TpS) | [Café International](https://open.spotify.com/album/0bBBE6Q90Fvr4Ka2EO0ObZ) | 3:30 | 2023-03-23 |  |
 | [Chelsea Bridge](https://open.spotify.com/track/2wxy1aZya6S7mYZAn2m3I3) | [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R) | [A Ballad Moment: Second View](https://open.spotify.com/album/7CxvY9uDtXY6za0GdpWInW) | 4:49 | 2023-08-17 |  |
-| [Close Enough For Love](https://open.spotify.com/track/0JVGzHbAmJybAXzPV6D7CM) | [The Boston Four](https://open.spotify.com/artist/2vRbMto00LAZjdA2s227Sl) | [Close Enough For Love](https://open.spotify.com/album/1chLDtOmC1qhV5Pq7YpiqJ) | 3:25 | 2022-08-18 |  |
+| [Close Enough For Love](https://open.spotify.com/track/0JVGzHbAmJybAXzPV6D7CM) | [The Boston Four](https://open.spotify.com/artist/2vRbMto00LAZjdA2s227Sl) | [Close Enough For Love](https://open.spotify.com/album/1chLDtOmC1qhV5Pq7YpiqJ) | 3:25 | 2022-08-18 | 2024-02-23 |
 | [Cocktails For Two](https://open.spotify.com/track/50ijZUy4vc2q9Pm12q5F7K) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0), [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Verve Jazz Masters 34: Coleman Hawkins](https://open.spotify.com/album/068xxiiZI5PQYoYVQl2R7y) | 2:39 | 2022-08-18 | 2023-05-05 |
 | [Compassion](https://open.spotify.com/track/6Pam6EgPKbExmLSPRTCRDL) | [Jenny Jones](https://open.spotify.com/artist/3tznBwhLYOJzC3mh6DBM47) | [Compassion](https://open.spotify.com/album/1ZdxPS9TA5wuI201gxbabv) | 4:11 | 2022-08-18 |  |
 | [Connections](https://open.spotify.com/track/2ogKZchAqOWwZtTiRvWfNK) | [Archie Taylor](https://open.spotify.com/artist/6p8c1ewQ2thcBnDzhkoZaL) | [Connections](https://open.spotify.com/album/0VB2e5tcXGwJDetWSbOS7D) | 3:40 | 2023-12-08 |  |
@@ -57,6 +58,7 @@
 | [Embraceble You](https://open.spotify.com/track/61qcz5XScc4DubjroIyGsG) | [Mornington](https://open.spotify.com/artist/1oC6eOjjixPdeV0HvUAviS) | [Embraceble You](https://open.spotify.com/album/4GwhE4HL4dbZe9rch6dwAB) | 4:38 | 2022-08-18 |  |
 | [Epilogue](https://open.spotify.com/track/3VyR5Ge6OR28B8sSNlZGxN) | [Baxter Williams](https://open.spotify.com/artist/10yIBprceJrz7GP0BkENlg) | [Epilogue](https://open.spotify.com/album/5X29DiYEFR8JLcghhL1fIK) | 3:33 | 2023-04-20 |  |
 | [Evening In Paris](https://open.spotify.com/track/36NzG0ptwi4k798mpIS3Oz) | [Zoot Sims](https://open.spotify.com/artist/1pwr5rTWLVfqhvHfB7Reap) | [Zoot Sims avec Henri Renaud et son orchestre](https://open.spotify.com/album/1tYXf9tuMLCiUrW18UwlHE) | 3:21 | 2022-08-18 | 2023-09-01 |
+| [Filippa](https://open.spotify.com/track/1m7ab27FBBeF3Zg13ol2YC) | [Jules Moreau](https://open.spotify.com/artist/4EgOpuGf3Qe7DYYol4AJCz) | [Filippa](https://open.spotify.com/album/0Ud0BP8Fdy1mqDWWl8bHj6) | 4:18 | 2024-02-23 |  |
 | [Five Leaves](https://open.spotify.com/track/2tmAIIkIYNWvp93nMfi8Lw) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [Five Leaves](https://open.spotify.com/album/7IfBIe2sTrJvldMPB61w5e) | 4:09 | 2023-08-10 |  |
 | [Flatlands](https://open.spotify.com/track/2zI4BotlVn6HNOmCv3Nf75) | [George Kuntz Four](https://open.spotify.com/artist/6bPFM0SEcXOJwLr0aY024d) | [Flatlands](https://open.spotify.com/album/77J8FVf2roMDpGKHXjKIQC) | 3:14 | 2023-02-02 |  |
 | [Foggy Sunday](https://open.spotify.com/track/331aspu4164ZfUMcaWzc8C) | [Bladverk Band](https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65) | [Foggy Sunday](https://open.spotify.com/album/3U2D6KS4rrUHvaFHY5w9P4) | 3:47 | 2022-08-18 | 2023-02-10 |

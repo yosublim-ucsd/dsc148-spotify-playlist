@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 
 > All things <a href="spotify:genre:bass">bass</a> with Subtronics
 
-[Spotify](https://open.spotify.com/user/spotify) - 976,448 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 976,457 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 | 99 | [RAVEN](https://open.spotify.com/track/6tk1LRABEXt2zygYj3jmPt) | [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl), [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1) | [RAVEN](https://open.spotify.com/album/6tX2IEgpNeLwODIXR36mOS) | 3:04 |
 | 100 | [ANGELS IN HELL](https://open.spotify.com/track/6g7dSKYqZTuaGSLsf4o0s5) | [Ryan Nevis](https://open.spotify.com/artist/3lTv6FUrCLwLJqLkkqWRij), [Gomey](https://open.spotify.com/artist/5ibWbhA0IkPT3xCN0YicRL), [Xuitcasecity](https://open.spotify.com/artist/6YxrfNCKBcQlbITpmDLErL) | [ANGELS IN HELL](https://open.spotify.com/album/6eQp2cvNbakYkWLip21vPF) | 3:54 |
 
-Snapshot ID: `MCw2MGE2NWJmODQ4ODc4NTExZDI0NzdjYjA0ZDZiODAyZDllZDdlYjc4`
+Snapshot ID: `MCxjYzVhNDBhNmU4NGI0NjVhMmU5NWQ5YmJjNzBkODg2MjZlNjIyNjk4`

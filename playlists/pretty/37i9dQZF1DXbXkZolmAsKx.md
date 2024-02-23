@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXkZolmAsKx.md) - [plain]
 
 > The best Ambient tracks from 2010 to 2019.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,781 likes - 100 songs - 8 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,795 likes - 100 songs - 8 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXkZolmAsKx.md) - [plain]
 | 99 | [Gentle Flight](https://open.spotify.com/track/71LrMApAHFrst0uRGnp01X) | [White Rainbow](https://open.spotify.com/artist/5xi43z2pbrEFFcxboQQKcq) | [21 Exoticism ESCAP](https://open.spotify.com/album/0ZdjiLjmm4hJyJHsfPyt4h) | 3:17 |
 | 100 | [Search Party](https://open.spotify.com/track/1DrPfngDvjmj1JPh9BtfGP) | [Adam Wiltzie](https://open.spotify.com/artist/5W6H1jJ9bQMcUm1G2iToMs) | [American Woman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7AH6mWK8xurDA3D16PJIn1) | 1:46 |
 
-Snapshot ID: `MCxiNzMzZTcxMjVkNTZkZWI1ODczYTYxNDY1NDI2ZGMxMDUzNDFiOGM0`
+Snapshot ID: `MCw3NTIzZjU5OWQ3Y2FkMTk2NmUyZmZkZTcwNGJiOGMxZjQ2ODY1ODhj`

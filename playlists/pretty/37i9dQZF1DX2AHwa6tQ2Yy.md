@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 
 > Let the music flow through you...
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,578 likes - 70 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,594 likes - 70 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 | 69 | [TRAVELIN'](https://open.spotify.com/track/6WtFDxNz4x99GCvHeSx13q) | [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8) | [TRAVELIN'](https://open.spotify.com/album/2y0dyhEYehIoXnEkXLuD7y) | 3:37 |
 | 70 | [Ease Up](https://open.spotify.com/track/4ykxlLzlR2B7OhpkPBMhUW) | [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Most Wanted \(Deluxe\)](https://open.spotify.com/album/46fxxm1oHMPzR51GElXrAt) | 3:41 |
 
-Snapshot ID: `MCw3N2JkNjY1OGVjY2IxYzAyYzhjNmRjZmIzMDFjNmNmNWEzNjIyNmYz`
+Snapshot ID: `MCwyYmYwYTY0Zjk5YWEyNDk2MTJmMjY1NDg4ZjE3ZWFlNmMzZDI1NTFh`

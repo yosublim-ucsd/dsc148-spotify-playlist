@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 
 > Det bästa från den svenska reggaescenen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,667 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,674 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 | 49 | [Vakna](https://open.spotify.com/track/3YOor59KQIT8AyxwVhddIy) | [Svenska Akademien](https://open.spotify.com/artist/3BPemeIazbWrWKNMeorJvS) | [Gör Det Ändå](https://open.spotify.com/album/1WwVqbKojvk0SM8REsquY8) | 3:32 |
 | 50 | [Dunya](https://open.spotify.com/track/5N5CCm7QFaZaqYlmZOAU0i) | [General Knas](https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy) | [Reggaestrerad](https://open.spotify.com/album/13DfA1T9VKqtBD5xQwgvhG) | 3:43 |
 
-Snapshot ID: `MCw5OWI5NGQ3NGEwNWNhODc1NGYxYzYwNGUwNWYwMTBiNGI2MzVlYTQx`
+Snapshot ID: `MCw1NDZmNWViNWFjM2IxNDBlZTA5OTdlN2Q5YWQ1NGFlNWJjYTJkZWUw`

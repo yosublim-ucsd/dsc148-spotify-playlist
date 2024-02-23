@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYU33S4rAJZv.md) - [plain]
 
 > Warm and cozy Christmas Jazz to your hot cup of coffee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,152 likes - 108 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,142 likes - 108 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYU33S4rAJZv.md) - [plain]
 | 107 | [Jolly Holiday](https://open.spotify.com/track/1nNmGXc4dcQHvteyiwjWv9) | [More than Jazz](https://open.spotify.com/artist/6BLANsh44CPzD19TF0X0Et) | [Jolly Holiday](https://open.spotify.com/album/6Bq0rkBNkUOFwGwMCPFHuN) | 3:18 |
 | 108 | [Here We Come A\-Caroling](https://open.spotify.com/track/6dAElJFsKJmqRrqaHYoJfg) | [Goblin Quartet](https://open.spotify.com/artist/0ceEvbf4gmN9my4kriQVfm) | [Here We Come A\-Caroling](https://open.spotify.com/album/3egzz4FGBjVceoI4hO89BI) | 2:23 |
 
-Snapshot ID: `MCw3NTZhZTRmNTQ3MTYyMDJhNjE3MTcyOWI4YmRlY2Q4ZjQyOWNkNzY5`
+Snapshot ID: `MCw3YzBkNmZhYjhkNzk5ZjdiN2FlYzE4ZmExMmE0ODQ1NmM0NjEzYjU0`

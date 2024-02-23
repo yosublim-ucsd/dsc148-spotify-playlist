@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,802 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,801 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 | 99 | [Trickster](https://open.spotify.com/track/4080qNZP4kWloqGH3ujVkp) | [FIVE NEW OLD](https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo) | [Departure : My New Me](https://open.spotify.com/album/6NFXKfWoqQFS1O22Pkvop0) | 3:42 |
 | 100 | [2MANYTIMES](https://open.spotify.com/track/3rVgFAXFJnmpki9sVgRFfn) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [CODY JON](https://open.spotify.com/artist/5xYvg2nZQcavaPwYOcOYRD), [Taka Perry](https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF) | [2MANYTIMES](https://open.spotify.com/album/5v0whhzr6ryjzu2Ds5V5Cc) | 3:25 |
 
-Snapshot ID: `MCwzZDYwOGVjODZlZWQ4MDgzYTk2NjdiYmZkOGNhOWE1NWYzY2QyMTEz`
+Snapshot ID: `MCwyYzZjMmNhZGM0YzY2M2ExNTVkMDQwNWJlYTcyN2U1Y2Q2OTAwNGNj`

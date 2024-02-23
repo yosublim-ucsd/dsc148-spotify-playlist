@@ -4,7 +4,7 @@
 
 > Pop hits in the making! Cover: Jazzy
 
-374 songs - 19 hr 48 min
+375 songs - 19 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,8 @@
 | [cheap wine.](https://open.spotify.com/track/0rPHMZdRqG5HRK4XYRio2W) | [Arches](https://open.spotify.com/artist/3UY48SY9Hl7RaffUZ5qAZC) | [cheap wine.](https://open.spotify.com/album/3ctxXXIgq3ureQHCJZXvdi) | 3:09 | 2023-12-07 | 2023-12-22 |
 | [Chemical](https://open.spotify.com/track/4qzEjmuz380jeiBJp31oDY) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Chemical](https://open.spotify.com/album/6NoH5RUtjoh6ae2lJ9gWfq) | 3:04 | 2023-06-15 | 2023-10-13 |
 | [Chemical](https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Chemical](https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA) | 3:04 | 2024-01-19 |  |
-| [Chloe Enough!](https://open.spotify.com/track/0so9O4kW2iUyDjflqDxA18) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Chloe Enough!](https://open.spotify.com/album/0xaOEgweHb5N05ZtJTxUsj) | 2:30 | 2024-01-19 |  |
+| [Chloe Enough!](https://open.spotify.com/track/0so9O4kW2iUyDjflqDxA18) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Chloe Enough!](https://open.spotify.com/album/0xaOEgweHb5N05ZtJTxUsj) | 2:30 | 2024-01-19 | 2024-02-23 |
+| [Chloe Enough!](https://open.spotify.com/track/39rW3vGtDSCM889izxIkiu) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Chloe Enough!](https://open.spotify.com/album/1YUeCffXlEbbVzSWzGzpaP) | 2:30 | 2024-01-19 |  |
 | [Choose Your Fighter \(From Barbie The Album\)](https://open.spotify.com/track/3SexEc7om0q1awRqi8nCd1) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Choose Your Fighter \(From Barbie The Album\)](https://open.spotify.com/album/718h0CzRHO6ums1CTrB5L1) | 2:17 | 2023-07-20 | 2023-08-18 |
 | [club heaven](https://open.spotify.com/track/1nO6DT2QIYTxwLGrfQvIt3) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [club heaven](https://open.spotify.com/album/119D6p9ScXWYQxWLMv99yn) | 2:11 | 2023-10-05 | 2023-11-11 |
 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 | 2023-06-22 |  |

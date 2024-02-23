@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mPHJeSJNRN.md) - [plain]
 
 > Soundtrack spring time with uplifting and sunny Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,740 likes - 100 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,755 likes - 100 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mPHJeSJNRN.md) - [plain]
 | 99 | [Roaring Heights](https://open.spotify.com/track/2wFSomD4N8Zwd4JriLtkm3) | [Rob Van Bavel](https://open.spotify.com/artist/1hoKG6Fb0T7qUj1yL8MPsN) | [Time for Ballads \- The Maene Sessions](https://open.spotify.com/album/0A3ky8Ix813biINCcxXAe5) | 4:18 |
 | 100 | [Westinghouse](https://open.spotify.com/track/55UjR3GUomXEVVxpZA9zX0) | [Glenn Zaleski](https://open.spotify.com/artist/0M5jsQVMD2A3wpBLI9qs8W) | [Fellowship](https://open.spotify.com/album/7rTZ97K6Ho6RGMnQ8PUk8k) | 6:36 |
 
-Snapshot ID: `MCw2Y2FhYjBiMGE5MzY3ODFiOTJhOWQ2NTk1NWFiZTg3M2NhNjFmZjA0`
+Snapshot ID: `MCwxY2ZkMmJlOWYzM2M2MjJhZDM3YzQ4NzllOGI0OTNkM2NlYzU5YmZh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Jessica Pratt
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,271,336 likes - 169 songs - 9 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,271,403 likes - 169 songs - 9 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 21 | [Lovefool](https://open.spotify.com/track/1VjpUxL6GsKNLksZiiqhCr) | [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn) | [Lovefool](https://open.spotify.com/album/1UmkrSI3vmCZL4drle2xaH) | 3:55 |
 | 22 | [i don't really feel it anymore](https://open.spotify.com/track/49vbTCy6HYvy67dLe8ZQ5K) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [i don't really feel it anymore](https://open.spotify.com/album/2TfTE74h6Tiadsm2Dj0Jbn) | 2:00 |
 | 23 | [I'm In Love](https://open.spotify.com/track/5kGCnXbeNgKak05lfRFrll) | [Slaughter Beach, Dog](https://open.spotify.com/artist/3lWVgSwutPsiJ8Awm7OTKU) | [I'm In Love](https://open.spotify.com/album/2LxN7gXANSe2A8kZUIPZI7) | 3:22 |
-| 24 | [I’m A Man](https://open.spotify.com/track/4RdqVrjTnuEms5pgKNG95q) | [Kim Gordon](https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx) | [I'm A Man](https://open.spotify.com/album/1GDSTZ2T6bOGQdFtjXTZn4) | 4:31 |
+| 24 | [I'm A Man](https://open.spotify.com/track/4RdqVrjTnuEms5pgKNG95q) | [Kim Gordon](https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx) | [I'm A Man](https://open.spotify.com/album/1GDSTZ2T6bOGQdFtjXTZn4) | 4:31 |
 | 25 | [Eyes on my baby](https://open.spotify.com/track/7cM6obAwlMkP6nDTwNPEl2) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [Eyes on my baby](https://open.spotify.com/album/6dVL5KrLrQeJM1IxKnkKhZ) | 2:12 |
 | 26 | [someone's gotta be the last](https://open.spotify.com/track/3wrfNRQxGD9tOr2I2aBPkd) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [someone's gotta be the last](https://open.spotify.com/album/2xdqCp16HspPEn9EYHbAE6) | 3:00 |
 | 27 | [Idea June](https://open.spotify.com/track/6Jfj1S7EgM22jkHOGigzrm) | [Chanel Beads](https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL) | [Idea June](https://open.spotify.com/album/17pHBGN0qKzdwOqmHXCBCC) | 1:30 |
@@ -158,7 +158,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 148 | [Haunted World](https://open.spotify.com/track/0mhRq6ZwGkt6wJigeFHZ90) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT) | [Haunted World](https://open.spotify.com/album/6U7yDiUXMXITMyaCeqTf5n) | 3:02 |
 | 149 | [No Mast](https://open.spotify.com/track/4XHvLCzN2G5VUfvh3wxW6D) | [Loving](https://open.spotify.com/artist/4ftctxasGrW5Ud5Pbw6kWq) | [No Mast](https://open.spotify.com/album/4f5BS0arTqNijWEsVU8ESv) | 3:06 |
 | 150 | [Hunt You Down](https://open.spotify.com/track/18BXVZ04Xm9eiSyFpD5PJE) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Little Rope](https://open.spotify.com/album/7hf2cM8SdK5vdb6SeH2qyM) | 3:32 |
-| 151 | [Terminal Woes](https://open.spotify.com/track/6KrfQye9oJaJ7ieCF1Dez2) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [Terminal Woes](https://open.spotify.com/album/1XNz75lfWi16KjzQB063De) | 3:19 |
+| 151 | [Terminal Woes](https://open.spotify.com/track/3Gp7XRhtbdoC8nFGrD6aT6) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [Terminal Woes](https://open.spotify.com/album/4VtmKAVSqGS4Eb2dlwuwMw) | 3:19 |
 | 152 | [Ride With You \- Mindchatter Remix](https://open.spotify.com/track/2lQRpiMcCLjniQbhfEjViY) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Ben Browning](https://open.spotify.com/artist/497VSHqaZA32b7tgCETFEH), [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [Ride With You \(Mindchatter Remix\)](https://open.spotify.com/album/1u0ykcrGcK2UW8imVJaqwo) | 4:13 |
 | 153 | [Run Girl](https://open.spotify.com/track/6wuLTG0NHXeqfVEVj3JiVg) | [Abigail Rose](https://open.spotify.com/artist/2CraSvnAIaUnmEaNEVBwYd) | [Run Girl](https://open.spotify.com/album/7uIQhWX0gU7f7qjkDptGDc) | 4:18 |
 | 154 | [Hold Him](https://open.spotify.com/track/05PrnPGWceL8GlsdfkXeH3) | [Jesse Mac Cormack](https://open.spotify.com/artist/2H8M8TXbgq7ZF676K4Zm2C) | [Hold Him](https://open.spotify.com/album/4DU0NqdcK5B0nWrrxYj4Ss) | 3:55 |
@@ -178,4 +178,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 168 | [Friend Of A Friend](https://open.spotify.com/track/3Mn22PKkfTR2CjaRt4ziNj) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Friend Of A Friend](https://open.spotify.com/album/7w5rD7XcQufZshgBmTjDIJ) | 4:35 |
 | 169 | [Missy](https://open.spotify.com/track/2J1mMDgmYNZqUj6dMGTCcg) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm), [tormentatropica](https://open.spotify.com/artist/7s5dEbXvzBdwVactVzuNOc) | [Missy](https://open.spotify.com/album/5ivstXjtxTx9UXLBN7KuZj) | 2:02 |
 
-Snapshot ID: `MCw5ZGU2NDM2MGY3ZTgwODY3NjhmYWRhMGY0Yjk1ZmI5N2RlNTdhNmI5`
+Snapshot ID: `MCxhOWRkZTg0ZGMxZTRjOGM2MDE4YjU2ODNhOTFjOWUxMDQ5NzBjNGM2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZESE3fHLhmD.md) - [plain]
 
 > Bringt auch nach 16 Uhr noch ein bisschen Licht ins Dunkel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,279,634 likes - 90 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,279,457 likes - 90 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZESE3fHLhmD.md) - [plain]
 | 89 | [Into The Walls](https://open.spotify.com/track/5Gdbm8oHbicLgj79HcOxtL) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [vert1go vol\. 1](https://open.spotify.com/album/1RcfzHK44GEHSBwAH1NQeY) | 3:08 |
 | 90 | [Softly](https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Softly](https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN) | 3:08 |
 
-Snapshot ID: `MCw2MzRkNWFiZDlhMjM3ZTcwNWUxNjQ2M2I1NGRhODc5NTQwZThiNDJh`
+Snapshot ID: `MCwwMzA5YjI3MTVlNWQ0ODRiM2IwYzM1MmFmZDk2ZjlkYmM1YWY2MDk1`

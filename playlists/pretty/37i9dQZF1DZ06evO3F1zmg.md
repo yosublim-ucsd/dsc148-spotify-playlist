@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F1zmg.md) - [plain]
 
 > This is Saweetie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,980 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,984 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F1zmg.md) - [plain]
 | 43 | [Up Now \(feat\. G\-Eazy and Rich The Kid\)](https://open.spotify.com/track/01TreyTchXP0J1Mn6wcVHt) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [London On Da Track](https://open.spotify.com/artist/5Nf5yishRW9Ye174sJISkg), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Up Now \(feat\. G\-Eazy and Rich The Kid\)](https://open.spotify.com/album/3joOEhJbsckuCFIF5G8veI) | 3:18 |
 | 44 | [I'm That Bitch \(feat\. Saweetie\)](https://open.spotify.com/track/7jJVq2u7EP9XoAxMIc5Dro) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [7](https://open.spotify.com/album/5rbJtzuXtpIP0Ykk7ewIit) | 3:14 |
 | 45 | [DON'T SAY NOTHIN'](https://open.spotify.com/track/71OhlyZmlUaJ1yL20SR372) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [DON'T SAY NOTHIN'](https://open.spotify.com/album/1lcQCI355q0dW7gCrIs5x3) | 3:07 |
-| 46 | [Risky \(feat\. Drakeo the Ruler\)](https://open.spotify.com/track/4Y0E52nss2ZybjhMpMHTT5) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Drakeo the Ruler](https://open.spotify.com/artist/0p4ViyfJUTW0IT4SCBLexf) | [Pretty Summer Playlist: Season 1](https://open.spotify.com/album/2HOYNp9NxRakR9u9na7Wth) | 2:39 |
-| 47 | [GIVE IT TO EM \(feat\. Saweetie\)](https://open.spotify.com/track/1kvt3N2KmoSAunaEJNrgNM) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [QUAVO HUNCHO](https://open.spotify.com/album/2DjfazR5N3TgXBQ7oVALA1) | 3:02 |
+| 46 | [GIVE IT TO EM \(feat\. Saweetie\)](https://open.spotify.com/track/1kvt3N2KmoSAunaEJNrgNM) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [QUAVO HUNCHO](https://open.spotify.com/album/2DjfazR5N3TgXBQ7oVALA1) | 3:02 |
+| 47 | [Risky \(feat\. Drakeo the Ruler\)](https://open.spotify.com/track/4Y0E52nss2ZybjhMpMHTT5) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Drakeo the Ruler](https://open.spotify.com/artist/0p4ViyfJUTW0IT4SCBLexf) | [Pretty Summer Playlist: Season 1](https://open.spotify.com/album/2HOYNp9NxRakR9u9na7Wth) | 2:39 |
 | 48 | [Seesaw \(feat\. Saweetie\)](https://open.spotify.com/track/1rlASnWYQsgGz9g2YVCl6I) | [Kendra Jae](https://open.spotify.com/artist/1KcnqRVBBJ2FUZMQUn3k5P), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Seesaw](https://open.spotify.com/album/0fR9mr0fEAvAlLl0Ks5E0B) | 3:44 |
 | 49 | [Emotional \(feat\. Quavo\)](https://open.spotify.com/track/4rrFGOdnreypzg6ux5mdPh) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [ICY](https://open.spotify.com/album/7mdpibDh6Sec6o6zItcSEH) | 3:10 |
 | 50 | [Slow Clap \(with Saweetie\)](https://open.spotify.com/track/0xLf1SbCnuFfBRbDNauT5b) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Slow Clap \(with Saweetie\)](https://open.spotify.com/album/32I12RuItIkrLV7a3qGIPh) | 3:11 |
 
-Snapshot ID: `Mjg0NzUyOTAsMDAwMDAwMDAzY2UzODdiNjc5NzhhNzlmMjBmYjA2ZTNkODc4ZDllZg==`
+Snapshot ID: `Mjg0NzcwNzUsMDAwMDAwMDAwNmI4YWRhYjBmYzQ0NWYwNDEzNjk3YzJhOWVmMTc3OQ==`

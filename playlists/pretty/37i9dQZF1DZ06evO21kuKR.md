@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21kuKR.md) - [plain]
 
 > This is Moneybagg Yo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,377 likes - 51 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,408 likes - 51 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21kuKR.md) - [plain]
 | 27 | [A Gangsta’s Pain](https://open.spotify.com/track/3bnM8xTlWUoaLh6JLogbw8) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [A Gangsta’s Pain](https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe) | 1:53 |
 | 28 | [Blow](https://open.spotify.com/track/2g3qKijfeHfDyM7Fmaoi5M) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Blow](https://open.spotify.com/album/07AiRVrtrniKqkxHpLLY2g) | 3:02 |
 | 29 | [Switches & Dracs \(with Lil Durk feat\. EST Gee\)](https://open.spotify.com/track/4c7LkE1lSNj3RR4cZo0jEi) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [A Gangsta’s Pain: Reloaded](https://open.spotify.com/album/527JxbrqUTevhf0mgQlMWB) | 2:13 |
-| 30 | [I Really \(feat\. 42 Dugg & Moneybagg Yo\)](https://open.spotify.com/track/7qX5T4glBvqHlRxEZvQbvc) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Life Of A Hotboii](https://open.spotify.com/album/02sXWcIVVNCGr6WE30UJyZ) | 3:11 |
+| 30 | [Turnt](https://open.spotify.com/track/3FYxg905coMBsZgKfOzz5R) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Purple Heart](https://open.spotify.com/album/0m2bXElzedMjPj8udeytbz) | 2:45 |
 | 31 | [GO! \(with BIG30\)](https://open.spotify.com/track/04wzgTWP6YU07PdUjm0XzG) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE) | [A Gangsta’s Pain](https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe) | 2:03 |
-| 32 | [Turnt](https://open.spotify.com/track/3FYxg905coMBsZgKfOzz5R) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Purple Heart](https://open.spotify.com/album/0m2bXElzedMjPj8udeytbz) | 2:45 |
+| 32 | [I Really \(feat\. 42 Dugg & Moneybagg Yo\)](https://open.spotify.com/track/7qX5T4glBvqHlRxEZvQbvc) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Life Of A Hotboii](https://open.spotify.com/album/02sXWcIVVNCGr6WE30UJyZ) | 3:11 |
 | 33 | [Tampering With Evidence](https://open.spotify.com/track/7sVryAf2sqT0I9fBbp0LJB) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Fed Baby’s](https://open.spotify.com/album/4RUq0kdGLKc5ROEv8I0lRY) | 2:14 |
 | 34 | [Start Up Again \(with Moneybagg Yo\)](https://open.spotify.com/track/4O3bINhkGghgoKsOCr2HNz) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Hall of Fame 2.0](https://open.spotify.com/album/2rLqUcipEjIKK9rma5OTN8) | 1:48 |
 | 35 | [Scared Money \(feat\. J\. Cole and Moneybagg Yo\)](https://open.spotify.com/track/4heBcjj4Lw3X2sQVFNbLbz) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Scared Money](https://open.spotify.com/album/3TsYjPFN8qCxcYWHL3DtL8) | 3:24 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21kuKR.md) - [plain]
 | 50 | [Speak 4 Em](https://open.spotify.com/track/6BfJ1k7cPUqq7k9QsMBb19) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Time Served](https://open.spotify.com/album/6Wq84YPRzpAIY8CEeluUlv) | 2:22 |
 | 51 | [Hot \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/5qyZ6LcHvBiIHLaoED8K4g) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Expensive Pain](https://open.spotify.com/album/3cLQ49Ll3nGRkw3HSSk92K) | 2:30 |
 
-Snapshot ID: `Mjg0NzUyOTEsMDAwMDAwMDAyMDE0NzA3ZjA2NDJjYWYzNWRkYjc2MjE5MTg1MzgyYQ==`
+Snapshot ID: `Mjg0NzcwNzUsMDAwMDAwMDA1Y2I1MzYzOTk0Y2MwMzQwMjY2ZjljNjQ3ZWI0NzUyMg==`

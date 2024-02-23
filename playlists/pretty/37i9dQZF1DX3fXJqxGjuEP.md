@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fXJqxGjuEP.md) - [plain]
 
 > ¡Dale buena onda cálida y frutal a tu día!
 
-[Spotify](https://open.spotify.com/user/spotify) - 668,717 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 668,767 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fXJqxGjuEP.md) - [plain]
 | 99 | [Garúa \(Sabor a Querer\)](https://open.spotify.com/track/39jlkB93dZvtx8RG0Zkhdc) | [Tayko](https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m), [Migliz](https://open.spotify.com/artist/0Wg0zqWRumeTT4AEMIVu2b) | [Garúa \(Sabor a Querer\)](https://open.spotify.com/album/0XiN7T7kky8LzThoVwbgNO) | 3:42 |
 | 100 | [En Tu Pelo](https://open.spotify.com/track/1WoLEPg3uGeFYqKk9S174p) | [Isaac et Nora](https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls) | [Latin & Love Studies](https://open.spotify.com/album/771YlZnyW3Dhj8n9X4wMWM) | 3:03 |
 
-Snapshot ID: `MCxjMTY0ZDU0Mzc5MGFlNzNlZjYyYmY3M2E3MzRhZmEyMWYxOTc0NmJh`
+Snapshot ID: `MCw0ZmUzODY5NmQ0NTIxNWEyMTY4NjZhYThiMGFmOWYzZWE0MjYxNDgy`

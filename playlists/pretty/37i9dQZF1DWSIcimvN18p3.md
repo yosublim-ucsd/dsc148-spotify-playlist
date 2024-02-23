@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIcimvN18p3.md) - [plain]
 
 > Dive into the women of folk and roots music—from Americana icons to roots rock, singer\-songwriter, and indie\-folk favorites\. Cover: Sunny War
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,638 likes - 150 songs - 9 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,671 likes - 150 songs - 9 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIcimvN18p3.md) - [plain]
 | 149 | [Sorry Now](https://open.spotify.com/track/5vTnp3Oue2Vioki5Jn5Nwx) | [Jill Andrews](https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc) | [Sorry Now](https://open.spotify.com/album/72kgT7HDOlYmJmmIxUwy7k) | 3:12 |
 | 150 | [Be Careful](https://open.spotify.com/track/6PoMRNbAahzOCWvRGePExt) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Be Careful](https://open.spotify.com/album/6q36JBS51lMuxw7rsU9hwf) | 5:42 |
 
-Snapshot ID: `MCw4MjZjOThmYTNlZjc0ZTI1OGI5OWEyNDYyMjdiZmIxYzNmM2YzNDIz`
+Snapshot ID: `MCwwZjk4MDVjNjIyM2IzZjg2ZTIwYWU4MjMyZDc4YjYxMmFmMjcyYmY5`

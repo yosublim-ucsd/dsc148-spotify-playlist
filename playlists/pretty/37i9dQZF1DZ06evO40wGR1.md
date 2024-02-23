@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40wGR1.md) - [plain]
 
 > This is Liran' Roll\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,206 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,224 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40wGR1.md) - [plain]
 | 41 | [California](https://open.spotify.com/track/5ElUJL40Y3LI4KQHbEjQLv) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Disco de Aniversario](https://open.spotify.com/album/2B06d9gCFyAoSQdjtqVbwc) | 3:20 |
 | 42 | [El Último Viaje \(En Vivo\)](https://open.spotify.com/track/3JWoomq9M2TL413JyaFojn) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [25 Años De Resistencia \(En Vivo\)](https://open.spotify.com/album/1wZ2uSG8rTvOLedTZcQisj) | 5:44 |
 | 43 | [Mario](https://open.spotify.com/track/7ucQ19pWXGcH8ypZFQNMLL) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [María \(Remastered\)](https://open.spotify.com/album/0hIFRE4KyYl4RZHASuJYgF) | 2:21 |
-| 44 | [Tu Cariño](https://open.spotify.com/track/5UGbVlpbOP666CxjZ1ma5A) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Recuerdos](https://open.spotify.com/album/3s289NXXERpHfvkRYNbYQs) | 2:38 |
-| 45 | [No Todo Es Oro](https://open.spotify.com/track/328Y6znBICauFKcJhJQ94W) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [15 Éxitos, Vol\. 2](https://open.spotify.com/album/5qhTvBl63Blw114264HUbn) | 4:22 |
+| 44 | [No Todo Es Oro](https://open.spotify.com/track/328Y6znBICauFKcJhJQ94W) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [15 Éxitos, Vol\. 2](https://open.spotify.com/album/5qhTvBl63Blw114264HUbn) | 4:22 |
+| 45 | [Tu Cariño](https://open.spotify.com/track/5UGbVlpbOP666CxjZ1ma5A) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Recuerdos](https://open.spotify.com/album/3s289NXXERpHfvkRYNbYQs) | 2:38 |
 | 46 | [La Falsa](https://open.spotify.com/track/6eWXNEADmfH0yCXZEZ2yHH) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [En Vivo, Vol\. 1](https://open.spotify.com/album/6NwUNxmwxnNDiYoxNU2q2u) | 3:37 |
 | 47 | [El Alcohol](https://open.spotify.com/track/7q707LG7vCu4IEqFF2vzqf) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [María \(Remastered\)](https://open.spotify.com/album/0hIFRE4KyYl4RZHASuJYgF) | 3:41 |
-| 48 | [Tiempo Atrás](https://open.spotify.com/track/50rKIJTytRZaR1Ndyc9qj3) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Recuerdos](https://open.spotify.com/album/3s289NXXERpHfvkRYNbYQs) | 5:44 |
-| 49 | [Chucho el Roto \- En Vivo](https://open.spotify.com/track/1lveoKohEpXmhc73uVrmkg) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [En Vivo, Vol\. 1](https://open.spotify.com/album/5qU2H5w2q5zcvJC8K2YXZD) | 1:19 |
+| 48 | [Chucho el Roto \- En Vivo](https://open.spotify.com/track/1lveoKohEpXmhc73uVrmkg) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [En Vivo, Vol\. 1](https://open.spotify.com/album/5qU2H5w2q5zcvJC8K2YXZD) | 1:19 |
+| 49 | [Tiempo Atrás](https://open.spotify.com/track/50rKIJTytRZaR1Ndyc9qj3) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Recuerdos](https://open.spotify.com/album/3s289NXXERpHfvkRYNbYQs) | 5:44 |
 | 50 | [Le Diré a las Estrellas](https://open.spotify.com/track/4kstyJBA1kmcBmvVJu9SDv) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Momentos](https://open.spotify.com/album/0Mot1VW7pPX7lBl02XjoCN) | 4:48 |
 
-Snapshot ID: `Mjg0NzUyOTEsMDAwMDAwMDA1OTM2ZDZhZWI5NWUzNzFiNjQ2MjBiYTNkNjlkOTIzNw==`
+Snapshot ID: `Mjg0NzcwNzYsMDAwMDAwMDA4N2QyYzMyZDI1MmU2MjZiMDc3NzUzYzJhYzUxMjkxYg==`

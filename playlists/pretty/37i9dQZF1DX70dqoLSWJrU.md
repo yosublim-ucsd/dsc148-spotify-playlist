@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70dqoLSWJrU.md) - [plain]
 
 > Heartbreaking and sad instrumental and vocal Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,128 likes - 90 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,169 likes - 90 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70dqoLSWJrU.md) - [plain]
 | 89 | [No More](https://open.spotify.com/track/0OhVyeMWNraRrgGPByQiWc) | [Abbey Lincoln](https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F) | [Abbey Lincoln's Affair..\. A Story Of A Girl In Love \(Expanded Edition\)](https://open.spotify.com/album/75kSQXvLMJh5TsK65zGkOg) | 3:11 |
 | 90 | [It's Easy to Remember](https://open.spotify.com/track/2zKcVjhrP5r8vwxmEaANUm) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Smooth Songs](https://open.spotify.com/album/0bTi6NaKZTPdu3G2a4fePf) | 3:36 |
 
-Snapshot ID: `MCw1MGNjNTFmMTdiYWU2NjI5NDRjMGRlYWIwMWQxYTIwMDQ1ZTBmOWJi`
+Snapshot ID: `MCxkNzZkMThjNzMyNGJjMjZjMTczMDgwYWViYzlkZDFjN2JkYmE3Y2Rm`

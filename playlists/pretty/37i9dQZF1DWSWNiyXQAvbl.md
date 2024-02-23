@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWNiyXQAvbl.md) - [plain]
 
 > Ease back in time with the help of these seventies classics...
 
-[Spotify](https://open.spotify.com/user/spotify) - 481,990 likes - 80 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 482,035 likes - 80 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWNiyXQAvbl.md) - [plain]
 | 70 | [Rock Me Gently](https://open.spotify.com/track/2qh2VGAOYFXLsMbdATRf6w) | [Andy Kim](https://open.spotify.com/artist/5MYBNUKoFf9LAg30ByaBli) | [Greatest Hits](https://open.spotify.com/album/1yBUWYxGG5j1fjzSkrMY0C) | 3:28 |
 | 71 | [Yellow River](https://open.spotify.com/track/4VnzKUBMB6cvog8Jvv1few) | [Christie](https://open.spotify.com/artist/0HoeFrrKutiio4HJtXN0Sn) | [Christie](https://open.spotify.com/album/0YtUDtmBOGWAerJN70aCUR) | 2:45 |
 | 72 | [Don't Play That Song](https://open.spotify.com/track/4M1zcX803dgkDkISHZDPYi) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Spirit in the Dark](https://open.spotify.com/album/1s3FSienS5KcpWckmq4NHO) | 3:02 |
-| 73 | [Dancing in the City](https://open.spotify.com/track/4MVhYm4LCenxBIZKrT5CAc) | [Marshall Hain](https://open.spotify.com/artist/0bUGoPJdCrDnuIQNLxsnBb) | [Free Ride](https://open.spotify.com/album/6fIotKh6Xp44xP0hvYYboe) | 3:46 |
+| 73 | [Dancing in the City](https://open.spotify.com/track/4MVhYm4LCenxBIZKrT5CAc) | [Marshall Hain](https://open.spotify.com/artist/0bUGoPJdCrDnuIQNLxsnBb) | [Free Ride](https://open.spotify.com/album/6fIotKh6Xp44xP0hvYYboe) | 3:49 |
 | 74 | [Lean on Me](https://open.spotify.com/track/20kN7bu0HMO8rIVY6tEytW) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [The Essential Bill Withers](https://open.spotify.com/album/36qxAJDnXvbjD2UVAkawwZ) | 4:17 |
 | 75 | [Arms of Mary](https://open.spotify.com/track/6287Wj4s5fDLLxZPQFCwZq) | [The Sutherland Brothers](https://open.spotify.com/artist/1Zc7TYayqzpDtjvXfNvPrL), [Quiver](https://open.spotify.com/artist/0vVxoKTyF3nIdUr2W84uIn), [Ron Albert](https://open.spotify.com/artist/1QoYcmEu5DiUAmmsFYNYBG), [Howle Albert](https://open.spotify.com/artist/7GNO2xlmnh1VmZAxkI8Mdl) | [REACH FOR THE SKY](https://open.spotify.com/album/250pi4BXKaHZKZg7Q4nnAo) | 2:37 |
 | 76 | [Everybody Plays the Fool](https://open.spotify.com/track/3DkqEHCCqlkknDfksHWWu0) | [The Main Ingredient](https://open.spotify.com/artist/6vuD08WKtmp1yc7kQx1rBm) | [Everybody Plays The Fool: The Best Of The Main Ingredient](https://open.spotify.com/album/6jsWa1n8iL7fJYfMJaWa7K) | 3:22 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWNiyXQAvbl.md) - [plain]
 | 79 | [Big Yellow Taxi](https://open.spotify.com/track/6UkMcAA19lTdjs22jtB7o2) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Ladies of the Canyon](https://open.spotify.com/album/7JOdtLDLyXJIppDRB7kxr9) | 2:14 |
 | 80 | [Love Grows \(Where My Rosemary Goes\)](https://open.spotify.com/track/6hFAaTvtzYDkng1T5K4XLB) | [Edison Lighthouse](https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa) | [On the Rocks](https://open.spotify.com/album/2AFiOvkMzT32Q0wL0UZW8i) | 2:47 |
 
-Snapshot ID: `MCwwNzc3M2I1ZDZmMTNjZjcwNWRjNWUyOTA3YzM3ZTE2MWI0OTdiZDVh`
+Snapshot ID: `MCwxODJhYzgwN2ZlN2EyNDQxM2JlNjdmN2E0YjJjN2VmYTExMTUwYzRl`

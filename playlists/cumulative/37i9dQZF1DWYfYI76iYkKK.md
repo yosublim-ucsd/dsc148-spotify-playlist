@@ -4,7 +4,7 @@
 
 > 到了週末，你應該試著把柔軟的感覺找回來，小憩一下、小走一段、小酌一杯或小哭一場。
 
-385 songs - 1 day 1 hr 26 min
+386 songs - 1 day 1 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,7 +199,7 @@
 | [想和你一起](https://open.spotify.com/track/5fktrJ3Sds9nmhyVva2irU) | [Yo Lee](https://open.spotify.com/artist/1D2LuIU6rgg0MGa0l8wYJh), [Anni Hung](https://open.spotify.com/artist/3ZlBKjbfPWDT0RUWTpWzwv) | [如果你也愛我就好了](https://open.spotify.com/album/5s3lkz5pkdwPir6BwFqFDb) | 3:53 | 2022-06-02 | 2022-07-29 |
 | [想和你一起 \(feat\. 洪安妮\)](https://open.spotify.com/track/3m51Vc66fUIorBDsck4LwC) | [Yo Lee](https://open.spotify.com/artist/1D2LuIU6rgg0MGa0l8wYJh), [Anni Hung](https://open.spotify.com/artist/3ZlBKjbfPWDT0RUWTpWzwv) | [想和你一起 \(feat\. 洪安妮\)](https://open.spotify.com/album/79uriKWKqmAdmFaSed84rV) | 3:52 | 2022-06-23 | 2022-07-12 |
 | [想回家的時候](https://open.spotify.com/track/3qBCr8BDyEqEZjSDNGW5op) | [Dadado Huang](https://open.spotify.com/artist/3C8yUWotyLh2Kjkood3xYN) | [一切平常](https://open.spotify.com/album/33TkgPZWkWleCmNCchXHVQ) | 4:06 | 2024-02-08 |  |
-| [想念擬人化](https://open.spotify.com/track/2QkELHIEQONatqO5ZrE5H7) | [孟慧圓](https://open.spotify.com/artist/4RcNXR3j50a6JCZcU06h6g) | [我被放上天空](https://open.spotify.com/album/0mrDA81eWQS79HY5GfF81y) | 4:26 | 2022-06-02 |  |
+| [想念擬人化](https://open.spotify.com/track/2QkELHIEQONatqO5ZrE5H7) | [孟慧圓](https://open.spotify.com/artist/4RcNXR3j50a6JCZcU06h6g) | [我被放上天空](https://open.spotify.com/album/0mrDA81eWQS79HY5GfF81y) | 4:26 | 2022-06-02 | 2024-02-23 |
 | [想把空白的日子留给你](https://open.spotify.com/track/4Mw26chMpfO6JvbFgFpKUF) | [林鴻宇](https://open.spotify.com/artist/3cNu9TadMUtDkoVd5db2qB) | [想把空白的日子留给你](https://open.spotify.com/album/0yMMA9HWHFVFGkkOs8nxSI) | 4:19 | 2022-06-02 | 2022-07-29 |
 | [想見就能相見 \- Live 版](https://open.spotify.com/track/46hRFXILthnANbKUrbGWtb) | [Leehom Wang](https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt) | [想見就能相見 \(Live 版\)](https://open.spotify.com/album/7tKrxlXdVdep0w6dHibgMO) | 5:04 | 2023-02-16 | 2023-03-03 |
 | [愛你\-十周年版](https://open.spotify.com/track/4l6MkYf4FSw9kFQqSUktx5) | [Kimberley Chen](https://open.spotify.com/artist/1dVbVQZjRGDjQmHD8oiS8k) | [愛你\-十周年版](https://open.spotify.com/album/6ZEYMuyw0GYjJg6GgjS31O) | 3:29 | 2022-07-21 | 2022-07-27 |
@@ -345,6 +345,7 @@
 | [謝謝你們今天來聽我唱歌](https://open.spotify.com/track/4m37p4soa3dXN1F9yqhqKs) | [伏儀](https://open.spotify.com/artist/33UTGPjrx1ngiSDUfn8zAy) | [謝謝你們今天來聽我唱歌](https://open.spotify.com/album/60cQp0lgGtrxXD8VPd2XuN) | 3:39 | 2022-06-10 | 2022-06-14 |
 | [让浪漫作主](https://open.spotify.com/track/4AJWlnFYUgSi153Sb52u3X) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [DEPART](https://open.spotify.com/album/14irQNOtPlopyjODP2SH8R) | 4:10 | 2022-06-02 |  |
 | [貪](https://open.spotify.com/track/0eUN4ME3OZsaIC3ecHjbtg) | [Eve Ai](https://open.spotify.com/artist/6eLpNMX3ZygSrUuxAlIWIx) | [貪](https://open.spotify.com/album/7FUtIQFGU1OvQTpehWkeI6) | 5:00 | 2022-06-10 | 2022-06-16 |
+| [跟我來 \- Acoustic Version](https://open.spotify.com/track/6anxzdzGCEdYUnaA2T92eF) | [Jinbo](https://open.spotify.com/artist/2QlEDg87oaNdcAA1O7dIIC) | [跟我來 \(Acoustic Version\)](https://open.spotify.com/album/6oOj4SXZ6dt5dn0BpoCC9z) | 3:38 | 2024-02-22 |  |
 | [輕描淡寫](https://open.spotify.com/track/0QByQXCUMi94bFMNbuYBrW) | [賴慈泓](https://open.spotify.com/artist/3t0zjFDl69EzHp3SGQya9l) | [輕描淡寫](https://open.spotify.com/album/4nxPnVF27HUvtCAsoCNhEd) | 3:30 | 2024-01-18 | 2024-01-26 |
 | [輸情歌](https://open.spotify.com/track/0WNodcT2mn3fX8NwsYxCp8) | [J.Sheon](https://open.spotify.com/artist/4DEItwf281SHmTnS8q3Mn9) | [輸情歌](https://open.spotify.com/album/3SfW0yFNbsj6Neyft3zmDV) | 3:44 | 2022-06-30 |  |
 | [轻轻\(《长风渡》影视剧主题曲\)](https://open.spotify.com/track/6tExCmPVJ7zc8PPwmz2b8p) | [Jane Zhang](https://open.spotify.com/artist/7qJmFr579WC8MMGj4PiWdu) | [轻轻\(《长风渡》影视剧主题曲\)](https://open.spotify.com/album/2ow2a2CTBCZpDQANUuMabi) | 4:16 | 2023-06-22 | 2023-09-26 |

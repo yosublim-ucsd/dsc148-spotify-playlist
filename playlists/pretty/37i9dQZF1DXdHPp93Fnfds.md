@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHPp93Fnfds.md) - [plain]
 
 > Son jóvenes, guerreras y cool\. Foto: Kirnbauer, Joaquina Mertz, María Centeno & Noa Sainz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,085 likes - 80 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,088 likes - 80 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHPp93Fnfds.md) - [plain]
 | 79 | [Y vos decís que me gustás](https://open.spotify.com/track/39Zdm7as5HOcbIkvIQBqLD) | [Manu Martínez](https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS), [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Y vos decís que me gustás](https://open.spotify.com/album/56CQFLi5i54v0mgfbzrV4q) | 2:33 |
 | 80 | [Te Vi](https://open.spotify.com/track/1Otj8A7vMiHW6dY07pwTK0) | [Valsian](https://open.spotify.com/artist/4f8uwOhcAdzozAkqq6AEwa) | [Te Vi](https://open.spotify.com/album/1oy4RCK3TYGSXVVh6iwqAp) | 3:25 |
 
-Snapshot ID: `MCw3YjQ5MmNmNzc1OWExMzdmZWE3MDk3NjhmZTkwYWRjY2EzYzMwMDE2`
+Snapshot ID: `MCwxMWU2YTczZjhkYWY2N2VlNDVhZTY1ODE0NTc0MTVjYTZkZmRiMDFh`

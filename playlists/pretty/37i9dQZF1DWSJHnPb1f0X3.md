@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSJHnPb1f0X3.md) - [plain]
 
 > Upbeat dance pop to keep your heart pumping.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,085,110 likes - 100 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,085,808 likes - 100 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSJHnPb1f0X3.md) - [plain]
 | 99 | [Wasted Love \(feat\. Lagique\)](https://open.spotify.com/track/2pPO9YecZimmuVQfIzfV6U) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Lagique](https://open.spotify.com/artist/1PbtWtrN7jZpd4toqxrjm2) | [Wasted Love \(feat\. Lagique\)](https://open.spotify.com/album/0i72GjB523RgrjK8HUa61B) | 2:19 |
 | 100 | [Call Me \(with R3HAB & Timmy Trumpet\)](https://open.spotify.com/track/1dt220OBbkTsYz1NLVKIaw) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Call Me \(with R3HAB & Timmy Trumpet\)](https://open.spotify.com/album/3FPgLHoo4FzTPtY8j2HNeQ) | 2:58 |
 
-Snapshot ID: `MCxjZmZhMjMwNmJmMGU5ZGQ3MmM1OGZjZGM1YWY2ZmQwNjViYjZhM2Zl`
+Snapshot ID: `MCwxNjYzYzE1OTkwZGYyZTM2YmQ0NTI0YTVjMDkwN2RjMWMyMGQ1ZDIy`

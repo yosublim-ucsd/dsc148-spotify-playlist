@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 
 > ¡Los éxitos de banda que necesitas! Banda MS en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,144,356 likes - 125 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,217,378 likes - 125 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 | 124 | [Fiestas, Tragos, Noche Loca](https://open.spotify.com/track/2um0106nrjNOayotnhbKMZ) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Sigan Hablando](https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK) | 2:40 |
 | 125 | [Sueños de Niño \(En Vivo\)](https://open.spotify.com/track/0ZFUm0cdR8IRqmbSCizos8) | [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Sueños de Niño \(En Vivo\)](https://open.spotify.com/album/6QeM5ysFgWsrZCnERu5hrP) | 4:09 |
 
-Snapshot ID: `MCxhNzJhNTRlODU0ZTRhZTA2MGRiNGIwZmJlNzVmZjJlZjAwMmZhZjEx`
+Snapshot ID: `MCwzNTIxMWE2NzA2NjhkMDAwMWFiOWY2NWZlYTZhNmUxZDM2ODhhOGEz`

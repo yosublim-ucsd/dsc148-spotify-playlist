@@ -1,5 +1,5 @@
 {
-  "2024-02-22": 130917,
+  "2024-02-23": 130943,
   "date_first_scraped": "2023-11-11",
   "description": "This is Bj\u00f6rk. The essential tracks, all in one playlist.",
   "name": "This Is Bj\u00f6rk",
@@ -463,7 +463,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-21",
+      "date_removed": null,
       "duration_ms": 180200,
       "name": "History Of Touches",
       "url": "https://open.spotify.com/track/5VrL9zKmi3P2IwtnvP5yfU"
@@ -755,7 +755,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-21",
+      "date_removed": null,
       "duration_ms": 386560,
       "name": "Notget",
       "url": "https://open.spotify.com/track/2rUOu6JSds2ewDskKCzVBj"

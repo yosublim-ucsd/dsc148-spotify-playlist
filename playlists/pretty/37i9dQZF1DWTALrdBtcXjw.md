@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTALrdBtcXjw.md) - [plain]
 
 > Instrumental Jazz to set the mood for a relaxed evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 416,233 likes - 150 songs - 13 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 416,262 likes - 150 songs - 13 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTALrdBtcXjw.md) - [plain]
 | 149 | [Skylla](https://open.spotify.com/track/3R8AWBWbqkWTvWx9Tjd16p) | [Tobias Stavngaard](https://open.spotify.com/artist/0xE90kt9Ep1DwjmFgYCckA), [Jakob Sørensen](https://open.spotify.com/artist/0X5V6eviwYY5xnC8ryCbRq), [Aske Drasbæk](https://open.spotify.com/artist/0Hvho6Koqqy0L3x8W1eQpi), [Carl\-Emil Dons Christensen](https://open.spotify.com/artist/27SjjVrhLG67xZPGl5tnfJ), [William Mannerland](https://open.spotify.com/artist/2W3TmmwZ3G8WwbMUQlI3yB), [Nikolaj Bangsgaard](https://open.spotify.com/artist/4uDLtTKpXFUSlKBjGX7B5i) | [Skylla](https://open.spotify.com/album/1pqpgB49R4Mtw8YvYFX2EZ) | 7:37 |
 | 150 | [Divergence](https://open.spotify.com/track/4SsYc7rzyUhEbXW0OPTDJf) | [Alistair Martin](https://open.spotify.com/artist/2fDpiP8x5yGXehZ6WrZFig) | [Oblivion](https://open.spotify.com/album/0ZmP5V1EPnCEVcyy1tV7pF) | 5:43 |
 
-Snapshot ID: `MCxhNzE5NDNjMGUzNjlkYWVmY2E1NDdkYjI1ZWU5ZWE4MTM3ZjdhMzg1`
+Snapshot ID: `MCw4YjhjYWMxODU1OGQ5MzZkYmU0ODQ1NjI4YTc0NGZlMDBiZTY3YTJj`

@@ -2,9 +2,9 @@
 
 ### [Top of the Rock](https://open.spotify.com/playlist/37i9dQZF1DWWSuZL7uNdVA)
 
-> Kid Kapichi au top des meilleurs morceaux rock du moment.
+> Linkin Park au top des meilleurs morceaux rock du moment.
 
-130 songs - 7 hr 24 min
+133 songs - 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Breathing](https://open.spotify.com/track/1VVeFLlYZRLwNPCelUUJyM) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [MoonEater](https://open.spotify.com/album/77lFAgPHlv1lzlgVpUevVK) | 3:03 | 2023-09-28 | 2023-10-13 |
 | [Broken Bones](https://open.spotify.com/track/2ZTXDpAna2oX7SmxctOjmi) | [No Money Kids](https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF) | [Broken Bones](https://open.spotify.com/album/7Bo93WOR189AwOAt6RUvAD) | 3:25 | 2023-09-28 | 2023-11-17 |
 | [By The Time You're Reading This](https://open.spotify.com/track/0uuxAXS1X7kH0WjC0nD6q9) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Welcome To My House](https://open.spotify.com/album/0ImZVp5Lh6vnyMUkQtnQIw) | 3:10 | 2023-09-28 | 2023-10-27 |
-| [Call Me](https://open.spotify.com/track/11KdG302ZtlT6LUC0NpaAW) | [Skip the Use](https://open.spotify.com/artist/6UWiE4V9p2HK4C74A0CGKB), [Youv Dee](https://open.spotify.com/artist/5P3mgWx3KvnURMhlVm5pMS) | [Call Me](https://open.spotify.com/album/7rD6S3nfNwM3PoVUUAsKsW) | 3:21 | 2023-09-28 |  |
+| [Call Me](https://open.spotify.com/track/11KdG302ZtlT6LUC0NpaAW) | [Skip the Use](https://open.spotify.com/artist/6UWiE4V9p2HK4C74A0CGKB), [Youv Dee](https://open.spotify.com/artist/5P3mgWx3KvnURMhlVm5pMS) | [Call Me](https://open.spotify.com/album/7rD6S3nfNwM3PoVUUAsKsW) | 3:21 | 2023-09-28 | 2024-02-23 |
 | [Cold World](https://open.spotify.com/track/4rUWdWtDbM3aYUHoFTzJdW) | [Death Lens](https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8) | [Cold World](https://open.spotify.com/album/4OMrhNt4uDO7k44AlkqLJb) | 3:17 | 2024-02-08 |  |
 | [CRUEL](https://open.spotify.com/track/0T70OATh83XtJsQG74lL86) | [LYELL](https://open.spotify.com/artist/3aDih8lIm5GOfAaorpUg5Y) | [CRUEL](https://open.spotify.com/album/7ELoEFG7ec1h7GLDZdFU99) | 2:21 | 2023-11-30 | 2024-01-02 |
 | [Dad’Algorhythm](https://open.spotify.com/track/3BiY7K7qzbJ5VWZz2qgULg) | [Shaka Ponk](https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q) | [Dad’Algorhythm](https://open.spotify.com/album/3b4XGfpUQmrqrtzN95sKLj) | 2:38 | 2023-09-28 |  |
@@ -49,6 +49,7 @@
 | [Fake As Hell \(with Avril Lavigne\)](https://open.spotify.com/track/7bbhu051CI6krV0M6lv7tl) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Fake As Hell \(with Avril Lavigne\)](https://open.spotify.com/album/39fNnKFUvJIyEyItTOoc9Z) | 2:59 | 2023-09-28 |  |
 | [Fantasize](https://open.spotify.com/track/0U4fmzqtFTbtrwX7QQooT3) | [TSS](https://open.spotify.com/artist/0hTsRy6iJPc0fgkxhEHzmT) | [Fantasize](https://open.spotify.com/album/0QMUUYbfJ1Tu6fuilNyhor) | 2:42 | 2023-10-12 | 2023-11-17 |
 | [Freak Of Nature](https://open.spotify.com/track/4paB6XEsrPmRtX2xua5WTL) | [Heart Attack Man](https://open.spotify.com/artist/5esKrGWvWmBAmjnao5jInN) | [Freak of Nature](https://open.spotify.com/album/3G9FJTEpXcL0vYIX31RGP6) | 3:22 | 2023-12-21 | 2024-01-26 |
+| [Friendly Fire](https://open.spotify.com/track/1rAzOr3zpUDRtN2zsqGHiG) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Friendly Fire](https://open.spotify.com/album/601IEigQO3enlyrbn4SpNM) | 2:56 | 2024-02-22 |  |
 | [Gelled Water](https://open.spotify.com/track/1pdkMHkkctz1IlomRCzErR) | [Droïd Fantôm](https://open.spotify.com/artist/7HrozFN6zYmxYBLejkkZuz) | [Gelled Water](https://open.spotify.com/album/7cBhtxtvMTN8hwuS2qlATW) | 3:46 | 2023-11-09 | 2023-11-24 |
 | [Get Down](https://open.spotify.com/track/1PNkX69uB2KUsmJIAh5yiB) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [Get Down](https://open.spotify.com/album/1q6grMLrlXI4o1fANDnovc) | 3:39 | 2024-02-08 |  |
 | [Good Days Again](https://open.spotify.com/track/5jnXjIfc9DFqzfaqq9uz2O) | [DYE CRAP](https://open.spotify.com/artist/5dACJsbbSkmY4tC7kPpd5x) | [Good Days Again](https://open.spotify.com/album/5DuSCuARht6T3a6X1TtaJB) | 2:43 | 2023-09-28 | 2023-12-01 |
@@ -73,6 +74,7 @@
 | [Make It Out Alive](https://open.spotify.com/track/4WVJeRP6hjMMBkmWsV4TtF) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Make It Out Alive](https://open.spotify.com/album/6FRkntES0AkBOQu9AOHNeo) | 3:29 | 2023-09-28 |  |
 | [Meeting The Master](https://open.spotify.com/track/6jXwOrrBoutMICNxckeDNQ) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Starcatcher](https://open.spotify.com/album/7i1NJXQNNFZPyjE0W3GPgE) | 5:12 | 2023-09-28 | 2023-12-22 |
 | [Motel Way of Life](https://open.spotify.com/track/3hqNVh2HrQyX0j9FsjSQX9) | [No Money Kids](https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF) | [Motel Way of Life](https://open.spotify.com/album/4TqCIDinCXhpoDuDKI5ENg) | 2:51 | 2024-01-25 |  |
+| [Mustang](https://open.spotify.com/track/5y1kheWw8d3DHl8bv5aEE8) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Mustang](https://open.spotify.com/album/00aKd415VlHgSv5uzQotNW) | 3:14 | 2024-02-22 |  |
 | [My Condition](https://open.spotify.com/track/3dwG0z9bOORf9W1NWj2eFQ) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | [My Condition](https://open.spotify.com/album/6HCfBgib3AXge1a1gDwcLH) | 3:27 | 2024-01-18 |  |
 | [My House](https://open.spotify.com/track/7i1FxvxQeTkPzdFeXukZ0j) | [Royal Republic](https://open.spotify.com/artist/0DbbnkFMhhDvinDYIiHhGS) | [My House](https://open.spotify.com/album/0L4RnqTg3JE7PtHVTkYQTT) | 3:14 | 2024-01-11 |  |
 | [Nowhere To Go But Everywhere](https://open.spotify.com/track/0XT3u4dsfUh4A9EhH2FzoO) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [Nowhere To Go But Everywhere](https://open.spotify.com/album/2Ptp2BvVc7YsdSL3YXBWNu) | 4:03 | 2023-10-05 | 2023-11-24 |
@@ -108,7 +110,7 @@
 | [Stuck](https://open.spotify.com/track/1PYG9Akj0LAZZUDXzV9m1S) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Stuck](https://open.spotify.com/album/2kcNcoLI7IeK9GJepoA2lq) | 3:02 | 2023-09-28 |  |
 | [Stuck In a Car With You](https://open.spotify.com/track/105tJEDg9Q5LF5aoZ96ckp) | [Twin Atlantic](https://open.spotify.com/artist/4A9xtvezlouTD7H0kyUje9) | [Stuck In a Car With You](https://open.spotify.com/album/24Vd6jQWV2gf3MbIxAOc8t) | 3:59 | 2023-09-28 | 2023-11-24 |
 | [Stuck on You](https://open.spotify.com/track/4itaZ1FLykardSo2xfrVtU) | [Dea Matrona](https://open.spotify.com/artist/2mjBLM7k51GwUPhN1miEHY) | [Stuck on You](https://open.spotify.com/album/4jxWewF9wV0XiqJb0ic8qX) | 3:11 | 2024-02-15 |  |
-| [Sugar Rush](https://open.spotify.com/track/4Q2guVruhbhzux6NApPTkP) | [Tip Stevens](https://open.spotify.com/artist/0dDbdyjsq9HEPNKPyNElgd) | [Sugar Rush](https://open.spotify.com/album/5lft83Fx1Dth0Frg1ptTUE) | 4:05 | 2023-10-05 |  |
+| [Sugar Rush](https://open.spotify.com/track/4Q2guVruhbhzux6NApPTkP) | [Tip Stevens](https://open.spotify.com/artist/0dDbdyjsq9HEPNKPyNElgd) | [Sugar Rush](https://open.spotify.com/album/5lft83Fx1Dth0Frg1ptTUE) | 4:05 | 2023-10-05 | 2024-02-23 |
 | [Sunshine](https://open.spotify.com/track/2czqsuJetQmyHxx3M009FX) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Still Love](https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d) | 3:14 | 2023-11-23 | 2024-01-19 |
 | [Supermodel Avalanches](https://open.spotify.com/track/3daLDEbCt1fvkS7POmwu2U) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Back To The Water Below \(Bonus Edition\)](https://open.spotify.com/album/1bPTd5Ic6yHUGq5QZj2j2N) | 3:10 | 2024-01-04 |  |
 | [Sweet Life](https://open.spotify.com/track/3XHdtukUPR5db9KVyZwDCt) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Mercy](https://open.spotify.com/album/7m5exqpKRweMqgxgOk6wY1) | 3:33 | 2023-10-19 | 2024-02-02 |
@@ -130,7 +132,8 @@
 | [Under You](https://open.spotify.com/track/6vWu5uWlox5TVDPl3LvoG3) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [But Here We Are](https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel) | 3:39 | 2023-09-28 | 2023-11-24 |
 | [Unhappier](https://open.spotify.com/track/7G7TGbFjNOhd2rdCi2DoXR) | [laye](https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn) | [Unhappier](https://open.spotify.com/album/52T8ox6votmUHEqoGzgFd5) | 3:17 | 2023-09-28 | 2023-10-13 |
 | [Vomit Candy](https://open.spotify.com/track/21ir1Jx963He5dvy6WeFg5) | [Johnny Mafia](https://open.spotify.com/artist/7iM6UV8wXD4l2bS2QxdOPY) | [Vomit Candy](https://open.spotify.com/album/3enD08oLyPBEvFL5vSufJF) | 2:43 | 2023-12-21 | 2024-01-12 |
-| [We Didn’t Start The Fire \(Bonus Track\)](https://open.spotify.com/track/22H7neCMj03ifZXlix1B6h) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [So Much \(For\) Stardust](https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3) | 3:35 | 2023-09-28 |  |
+| [Waiting On A Twist Of Fate](https://open.spotify.com/track/5PCMU8scAoT4sz4Fn2Umua) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Waiting On A Twist Of Fate](https://open.spotify.com/album/5oK4d9R1CpF1jVdLaL4fj8) | 2:46 | 2024-02-22 |  |
+| [We Didn’t Start The Fire \(Bonus Track\)](https://open.spotify.com/track/22H7neCMj03ifZXlix1B6h) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [So Much \(For\) Stardust](https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3) | 3:35 | 2023-09-28 | 2024-02-23 |
 | [We Need More Bricks](https://open.spotify.com/track/5F3HNBitIp7FkxhBl8SNgW) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [We Need More Bricks](https://open.spotify.com/album/4f5JujhyhXEY2XByzlfrvK) | 3:48 | 2024-01-04 |  |
 | [Welcome to the DCC](https://open.spotify.com/track/0ZImVxesVZIydOnwTMSWOK) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Welcome to the DCC](https://open.spotify.com/album/5Os5j39zKEfpvKL11TtfYE) | 3:18 | 2023-09-28 | 2023-10-20 |
 | [When The Pain Comes](https://open.spotify.com/track/5gchQWwST4zwgxCIG3raYB) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [Screamin' At The Sky](https://open.spotify.com/album/0sxSm3jkiCTFpud91cIkYN) | 3:24 | 2023-10-12 | 2024-01-05 |

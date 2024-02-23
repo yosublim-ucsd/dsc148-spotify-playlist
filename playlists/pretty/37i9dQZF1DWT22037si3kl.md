@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > bgl é ser autêntico vocês já sabem\. Foto: Yunk Vino
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,746 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,795 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 49 | [TAMBOR](https://open.spotify.com/track/5I3fsOI8IJjOkmgqCyZVfY) | [Fúria](https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS), [Diego Kairo](https://open.spotify.com/artist/6D0yjB3AE6xTi137BEQkWb), [L300](https://open.spotify.com/artist/0PVUOzL3xWKnD1lMEE3tPw), [FELINA](https://open.spotify.com/artist/3RwgTYuexocU1QLpiOhhNO), [RUI'f](https://open.spotify.com/artist/7eAOkFsB01T4iRqfC4cjH9), [Negrex](https://open.spotify.com/artist/3McCPdkvrYSgz1vzJgTVgl) | [ISSO Ñ É GPT](https://open.spotify.com/album/79Ie0NdfCAMkZQakRrMLFI) | 6:03 |
 | 50 | [Centro de São Paulo](https://open.spotify.com/track/0yOc9p0JVvVX5zKBDPZAqm) | [Shaodree](https://open.spotify.com/artist/4NOi6526Zq6dqCMXaEN0EW) | [Nova Wave, Pt\. 4](https://open.spotify.com/album/3Lf4zUSuZ0ihmvpt72P8bx) | 2:53 |
 
-Snapshot ID: `MCwwYTViZWNjNzQxYTJlNGYzZmYyM2UyNzYxNGM4NzdiODE4ODE3N2Fm`
+Snapshot ID: `MCwyYjA3MDM3NGZlZWUxZWM1NWU1YmIxNGQ0ZThkNzdhMGFiMTM1ODgy`

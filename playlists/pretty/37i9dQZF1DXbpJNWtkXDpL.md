@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 
 > El futuro está acá\. Conoce a El Frizian en RADAR México.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,012 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,053 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 49 | [La Octava Maravilla \- En Vivo](https://open.spotify.com/track/0gQDxHSXOICEXjTFkl1UMb) | [Alfredo Montaño](https://open.spotify.com/artist/23L3bzvIziNKZw42P3lwsH) | [En Vivo](https://open.spotify.com/album/6n20YXCHsJZZTSd89n3uP1) | 3:53 |
 | 50 | [Son Cosas De La Peda](https://open.spotify.com/track/7r4zmKeD4bTlj9Sg1KjWSz) | [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Son Cosas De La Peda](https://open.spotify.com/album/1JIFXZFu0d8ZPUiyq531zE) | 2:35 |
 
-Snapshot ID: `MCxmODllMTE3NTY2NWI0MmRlYzg3ZTMzYTA1YzRhMjY4YWQyNzM4ODI1`
+Snapshot ID: `MCw0ZTk0NDU0ZjA3MzgyYTFlMDQxNWQ0YzM4NDc4OGM4NjI1ZDU4MjE4`

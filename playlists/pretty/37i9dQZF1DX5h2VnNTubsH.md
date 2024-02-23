@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5h2VnNTubsH.md) - [plain]
 
 > Out of office ✅
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,543 likes - 80 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,504 likes - 80 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5h2VnNTubsH.md) - [plain]
 | 79 | [The Cure & The Cause \- Radio Edit](https://open.spotify.com/track/2aYryJEl86lIZWCS6X1CUm) | [Fish Go Deep](https://open.spotify.com/artist/0fOlkKkWVb6gOtwUXL2i0y), [Tracey K](https://open.spotify.com/artist/2RG9WXLhvCaeGE3gFaAAZg) | [The Cure & The Cause \(Radio Edit\)](https://open.spotify.com/album/4O082xEh8tgidqkcNKrVEN) | 2:37 |
 | 80 | [Desire](https://open.spotify.com/track/1g2D7SpGbRPPXKLCly1mPc) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY) | [Desire](https://open.spotify.com/album/0iveF55RhHxTp2IB8vxoTH) | 2:39 |
 
-Snapshot ID: `MCw0NmE3OTBlNjE1MzUwNzc4ZDgzYWQwMTE2Zjg0ZTZhYTM5MjEwMzZm`
+Snapshot ID: `MCw4MjZlMDliN2NjMmM1MjhjMWQzYzA2ZWM3ZjQ1YTVkYzBiNzExZjIy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEr4IfnBNnly.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/369gjhNQa5gezV4nHOIQFT">Lauren Faith</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24 likes - 43 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 26 likes - 43 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEr4IfnBNnly.md) - [plain]
 | 4 | [Just a Little](https://open.spotify.com/track/6GDoulv0WO25vEFjN6pZOq) | [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [Just a Little](https://open.spotify.com/album/3HozEf10DwxV06n4WZ6Kym) | 3:43 |
 | 5 | [Blue Denim Jeans](https://open.spotify.com/track/327epjHIypEPo3c0kjIli9) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [Blue Denim Jeans](https://open.spotify.com/album/6YdS3GKcT9hE8cxjWzRrqn) | 3:12 |
 | 6 | [Jheeze](https://open.spotify.com/track/6jYO8RSMk85V3rf460rfgp) | [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [Cosmic EP](https://open.spotify.com/album/1BILYdgS6lJKkFmlEgAWtP) | 3:14 |
-| 7 | [Messed Up \(feat\. LK Faith\)](https://open.spotify.com/track/3rwvx3YnglHg9Y2VHFem01) | [Louis Mattrs](https://open.spotify.com/artist/7qevodTHcV0rtg9O7ih6nn), [LK Faith](https://open.spotify.com/artist/7p4qGFqH7a0Eittt17TOt1) | [Slow Waves \- EP](https://open.spotify.com/album/6nZteuYubXw8vNCt7pgXyz) | 3:59 |
-| 8 | [21 Seconds](https://open.spotify.com/track/23QGl89duiLAngpPCcbBSt) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [started in college \(mixtape\)](https://open.spotify.com/album/3HfPgsV9182o2KraJHNQ83) | 3:17 |
+| 7 | [21 Seconds](https://open.spotify.com/track/23QGl89duiLAngpPCcbBSt) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [started in college \(mixtape\)](https://open.spotify.com/album/3HfPgsV9182o2KraJHNQ83) | 3:17 |
+| 8 | [Messed Up \(feat\. LK Faith\)](https://open.spotify.com/track/3rwvx3YnglHg9Y2VHFem01) | [Louis Mattrs](https://open.spotify.com/artist/7qevodTHcV0rtg9O7ih6nn), [LK Faith](https://open.spotify.com/artist/7p4qGFqH7a0Eittt17TOt1) | [Slow Waves \- EP](https://open.spotify.com/album/6nZteuYubXw8vNCt7pgXyz) | 3:59 |
 | 9 | [Sink or Swim](https://open.spotify.com/track/5Ir63UHpJuydc7frFGS7vs) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Following My Intuition \(Expanded Edition\)](https://open.spotify.com/album/0Vop2iSyeir0QntOrgamFN) | 3:21 |
 | 10 | [High \(feat\. Lauren Faith\)](https://open.spotify.com/track/0jwGWqhXgfS8KAg4CkHEAh) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Cervendos](https://open.spotify.com/artist/3DZRro0HzRPtZ5UxJzf6gZ), [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [High \(feat\. Lauren Faith\)](https://open.spotify.com/album/3U9B6PXoVMTvtpK7mHzUnG) | 6:41 |
 | 11 | [So Deep](https://open.spotify.com/track/0Yg0203arYkcNlL9M41D9s) | [iLL BLU](https://open.spotify.com/artist/550Zxz0BTZi3yd8gX9QINw) | [So Deep](https://open.spotify.com/album/1OnZwt3geJVKCSq952WdIa) | 2:52 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEr4IfnBNnly.md) - [plain]
 | 42 | [Reason in You](https://open.spotify.com/track/3qR86AzbWJLO6dZcsgBsXE) | [Molly Elizabeth](https://open.spotify.com/artist/3g0ZkVtrQWot5YhGZr3hSt) | [Cruel Intentions](https://open.spotify.com/album/6AWSAFGksTbUeRaKhSUYLE) | 3:32 |
 | 43 | [Sorry Not Sorry](https://open.spotify.com/track/6sYDCx3rQZsadayyAuh8U8) | [Molly Elizabeth](https://open.spotify.com/artist/3g0ZkVtrQWot5YhGZr3hSt) | [Cruel Intentions](https://open.spotify.com/album/6AWSAFGksTbUeRaKhSUYLE) | 2:55 |
 
-Snapshot ID: `Mjg0NzYxNDAsMDAwMDAwMDA4ZGUyNWFlODVjZmYwNDY5ZTFhMjNjZTgyZTVjMTIwMw==`
+Snapshot ID: `Mjg0Nzc1MzAsMDAwMDAwMDBlYzQzYWM3OTJkZTRlMDJjYjc5NmJmYjliYWE2N2FhNw==`

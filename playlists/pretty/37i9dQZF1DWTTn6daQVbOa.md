@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTn6daQVbOa.md) - [plain]
 
 > Mellow songs from the 1970s\. Cover: Elton John
 
-[Spotify](https://open.spotify.com/user/spotify) - 553,583 likes - 150 songs - 9 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 553,841 likes - 150 songs - 9 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTn6daQVbOa.md) - [plain]
 | 149 | [Fanny \(Be Tender With My Love\)](https://open.spotify.com/track/7KUHpRlZQR91SLflhsQCg9) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Main Course](https://open.spotify.com/album/2blsPE3sO5SnroFjfEAlfj) | 4:03 |
 | 150 | [Three Times A Lady](https://open.spotify.com/track/4ztwMHfPZhPoruZdBbgriM) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [All The Great Love Songs](https://open.spotify.com/album/5ZsWgDWvZ2luAHlczO8h2o) | 3:37 |
 
-Snapshot ID: `MCxkZjMxMjlmZTA4NWRhMDA2NzUxNzNhYzlhZGI2YWMxNGMwMzUzN2Jj`
+Snapshot ID: `MCw0Njk2NTI0ZDZhZDcxMWMyN2UxYzgxMGRmYmViNmI5YjUyZmU2NTkx`

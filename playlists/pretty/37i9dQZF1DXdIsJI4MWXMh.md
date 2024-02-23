@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIsJI4MWXMh.md) - [plain]
 
 > ¡A gastar la suela con lo mejor de la ranchera chilena!
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,699 likes - 100 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,720 likes - 100 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIsJI4MWXMh.md) - [plain]
 | 23 | [Lloviendo Estrellas](https://open.spotify.com/track/7huxeti3G0pilltnUI3l6u) | [Amor Sureño](https://open.spotify.com/artist/1Qa7X1aFkcKCuA8B5XHw2y) | [Cumpliendo Sueños](https://open.spotify.com/album/5PqDgVf5GtuvqJeRILqIiy) | 4:28 |
 | 24 | [Con Que Derecho](https://open.spotify.com/track/26iOxv7FyPSfYeV1beFg7j) | [Gran Sismo Tropikal](https://open.spotify.com/artist/2ukK9Jw0F1ZX9NZqx7r8Rs) | [Siempre Arriba](https://open.spotify.com/album/1ZyuRSvEjBg1lbS9tfTNNR) | 4:06 |
 | 25 | [Ya Supérame](https://open.spotify.com/track/4iDTrmoyem5De8YZkTGIag) | [RIVALES DE CHILE](https://open.spotify.com/artist/33AD9OZTMS2oNnsuDcVw9g) | [Ella, La Que No Quiso](https://open.spotify.com/album/1aGRZjZVmiEktlVsCx5lJj) | 4:35 |
-| 26 | [La Pareja Ideal](https://open.spotify.com/track/5QEvWvmJ8G2Gda219wCY9x) | [Los Gatos Negros](https://open.spotify.com/artist/65F6OtLWx2jRUCjEgjj9D6) | [Rancheras Populares 16 Éxitos](https://open.spotify.com/album/79FB6kLs7REYbGEYFew3Xr) | 4:40 |
+| 26 | [La Pareja Ideal](https://open.spotify.com/track/5QEvWvmJ8G2Gda219wCY9x) | [Los Gatos Negros](https://open.spotify.com/artist/65F6OtLWx2jRUCjEgjj9D6) | [Rancheras Populares 16 Éxitos \(Vol\. 3\)](https://open.spotify.com/album/79FB6kLs7REYbGEYFew3Xr) | 4:40 |
 | 27 | [El Corrido Del R\-15](https://open.spotify.com/track/7rjQhl7r3019yShjY02VdO) | [La Descendencia Chilena](https://open.spotify.com/artist/1K32xjhUxJktdl9aaCwK4n) | [El Corrido Del R\-15](https://open.spotify.com/album/71AvOjT5t3bLf0GuLZBTYA) | 3:24 |
 | 28 | [Matalas](https://open.spotify.com/track/7pSYLS1okWaevRLU2oXCqa) | [Los Tigres de Parral](https://open.spotify.com/artist/4HZb1I1ON6nfxpMmMPql6B) | [Yo Lo Canto y Tu Lo Bailas](https://open.spotify.com/album/3UW6tbYhtJYrYVGR0U85W1) | 3:51 |
 | 29 | [Tatuaje](https://open.spotify.com/track/04iJD3f7nwF1wuM8b8FPmk) | [Los Pincheira del sur Oficial](https://open.spotify.com/artist/4B6txUkP3Ou0M2dFHtoJAR) | [Puro Sur Puro Chile](https://open.spotify.com/album/5YWjUPIjgoWkKHKgdHBNIG) | 3:35 |
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIsJI4MWXMh.md) - [plain]
 | 63 | [Por Debajo del Agua](https://open.spotify.com/track/3QPfTAedVVyalXRfplJIKY) | [Los Chacales del Maule](https://open.spotify.com/artist/3JwCj883t6VDr4EXsn0UYN) | [Nacieron para Triunfar, Vol\. 1](https://open.spotify.com/album/37wrVwHHXeP8fHf8E8dPw0) | 4:39 |
 | 64 | [La Puntada](https://open.spotify.com/track/494ZDmO4zk9knBfI0o3Wn8) | [Los Hermanos Bustos](https://open.spotify.com/artist/6tHL3QK7MT2Tm05x3D3MfQ) | [La Trayectoria](https://open.spotify.com/album/47HtfhXmNErmARr7h9Wx9g) | 2:54 |
 | 65 | [Somos Infieles](https://open.spotify.com/track/0xxqACHxwwhP4r51GmnRrU) | [Grupo el duelo](https://open.spotify.com/artist/00q1iEmkH6dNeT4Os4mAOv) | [Somos Infieles](https://open.spotify.com/album/4vNNb74WGZJl9cCWQjmrpC) | 3:19 |
-| 66 | [Te Lavaste la Cara y el Mono No](https://open.spotify.com/track/4NSeSrdpLhJd0Q6RL4fVn8) | [Los Gatos Negros](https://open.spotify.com/artist/65F6OtLWx2jRUCjEgjj9D6) | [Rancheras Populares 16 Éxitos](https://open.spotify.com/album/79FB6kLs7REYbGEYFew3Xr) | 2:49 |
+| 66 | [Te Lavaste la Cara y el Mono No](https://open.spotify.com/track/4NSeSrdpLhJd0Q6RL4fVn8) | [Los Gatos Negros](https://open.spotify.com/artist/65F6OtLWx2jRUCjEgjj9D6) | [Rancheras Populares 16 Éxitos \(Vol\. 3\)](https://open.spotify.com/album/79FB6kLs7REYbGEYFew3Xr) | 2:49 |
 | 67 | [La Diuca](https://open.spotify.com/track/1MPLrlcAb3gQ89tffm0kXD) | [Zumba Ranchera](https://open.spotify.com/artist/7yqVm4qWAFjxvtw5R9HHLu) | [La Diuca](https://open.spotify.com/album/7xzyEyU06MNtW4VlOVH9E7) | 3:20 |
 | 68 | [No Te Creas Tan Importante](https://open.spotify.com/track/1xew4s5581HZOaES46OSTN) | [Los Villanos de Coltauco](https://open.spotify.com/artist/653hTCHsQjYo9jLOEGJenk) | [Siempre en Tu Corazón](https://open.spotify.com/album/59vA22sZsQ0exXTI07xc3R) | 5:11 |
 | 69 | [Sola Con Mi Soledad / Y Voy a Ser Feliz](https://open.spotify.com/track/7gQ8PK6QcOMrKJn6QCRV2z) | [Los Halcones Negros](https://open.spotify.com/artist/3gKLNRsPFUsiUA1gk9tXyS) | [Alma Enamorada](https://open.spotify.com/album/2BoTjs0a7IgcKXQNQqJgdg) | 4:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIsJI4MWXMh.md) - [plain]
 | 99 | [Ojitos Verdes](https://open.spotify.com/track/1NMPgg0S88HdOkrdCxjucv) | [Los Diamantes de Purapel](https://open.spotify.com/artist/2qXq5Q06bTg3wUxs7mar7U) | [Nuestra Música Suena Mas Fuerte Que Tus Problemas](https://open.spotify.com/album/2oKdLYpjkDEvjM6f9vLgEf) | 3:31 |
 | 100 | [Sácale Leche a la Vaca](https://open.spotify.com/track/1VfOAcpdLVMd5M1FdyA6XO) | [Alex y el Clan Azabache](https://open.spotify.com/artist/1Czzz8yLK9B2CvVvwGvpZr) | [Alex y el Clan Azabache](https://open.spotify.com/album/1Xk4fcTkrVsPHbtSHlaYWJ) | 3:00 |
 
-Snapshot ID: `MCw1ZTMxZTdiMjFmZDhiNzhkY2Q4ZTE3YjVmY2MwYWJkNGEzMDE4Zjc4`
+Snapshot ID: `MCxiNTNmOGI4NzcwNDk2NTY1MTliMjY2NjY4MWY2YjRiMTE4NmRkMjNl`

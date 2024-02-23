@@ -1,13 +1,29 @@
 {
   "description": "glaivepilled",
-  "num_followers": 431699,
+  "num_followers": 431714,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOWY1Yzg2Mjc0NjU2OWE5NmFmYmRjY2NmY2ZjMDM1MzAzMDkxMzlk",
+  "snapshot_id": "MCwyZTQ1NmQ5ZWMxYjhlZGQxNTBhMDQ4YThkMTg0YWM4MWRmYmYxMTE0",
   "tracks": [
+    {
+      "added_at": "2024-02-16 16:39:59",
+      "album": {
+        "name": "No Service",
+        "url": "https://open.spotify.com/album/0SijjdP4yC4j4SO9xIXbTM"
+      },
+      "artists": [
+        {
+          "name": "CXLOE",
+          "url": "https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R"
+        }
+      ],
+      "duration_ms": 140221,
+      "name": "No Service",
+      "url": "https://open.spotify.com/track/5kCdBZHfHuAsSrU8hF9wF2"
+    },
     {
       "added_at": "2024-02-16 16:39:59",
       "album": {
@@ -928,7 +944,7 @@
       "added_at": "2024-01-22 16:15:30",
       "album": {
         "name": "FCKNSTR",
-        "url": "https://open.spotify.com/album/6T5QtDBPJ24NqXvI7d4u5o"
+        "url": "https://open.spotify.com/album/1LXC62pD9hPjQaMWT4wKuD"
       },
       "artists": [
         {
@@ -940,9 +956,9 @@
           "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
         }
       ],
-      "duration_ms": 156923,
+      "duration_ms": 154372,
       "name": "FCKNSTR",
-      "url": "https://open.spotify.com/track/7GQlDWxQJ0J7JdXnqPAwkC"
+      "url": "https://open.spotify.com/track/4hFlAmJ6zJ53nZNRbsNpTn"
     },
     {
       "added_at": "2024-01-22 16:15:30",

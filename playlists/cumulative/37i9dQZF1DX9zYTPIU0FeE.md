@@ -4,7 +4,7 @@
 
 > Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/0mfRVYU5HbWqITp6dR5lVA">NALEDI</a>
 
-196 songs - 21 hr 4 min
+199 songs - 21 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,16 +99,19 @@
 | [Kunzima Madoda](https://open.spotify.com/track/0hLqS3gWMiVvANb5HvndhP) | [Linda Tshabalala](https://open.spotify.com/artist/2owcGskTifdgn9Tw7sK9p7) | [Convergence Bekezela Siyeza](https://open.spotify.com/album/3tmmJjesjQuWYgA2qvafpe) | 6:02 | 2023-11-23 |  |
 | [Kwa Thula](https://open.spotify.com/track/08Gj2NwZwtrhbwqiCEVSUb) | [Dudu Pukwana](https://open.spotify.com/artist/6bW73aNRCae7jPJF1Dxy9F) | [Dudu Phukwana and the "Spears"](https://open.spotify.com/album/60DdSYk9ZM6YdHQL4NiZVF) | 3:41 | 2023-11-01 | 2023-11-17 |
 | [Kwetu](https://open.spotify.com/track/6Veo9O8iD7ewhA5ZzB3fRh) | [Aaron Rimbui \| Ayanda Sikade \| Herbie Tsoaeli](https://open.spotify.com/artist/1MyMTjHltmrJ1A4Z79vpSo) | [Kwetu](https://open.spotify.com/album/2hNj1dmL0kfOlMUtOpcFcJ) | 5:26 | 2022-04-28 |  |
+| [Lesedi](https://open.spotify.com/track/0nL1LtNr9zcl0wgGOK6HJm) | [Kujenga](https://open.spotify.com/artist/46zBMWkU58KyXCD5WuS3ha) | [Lesedi](https://open.spotify.com/album/1Sukgz3b5erT1h2RdaAmlY) | 10:02 | 2024-02-22 |  |
 | [Life Esidimeni](https://open.spotify.com/track/6R6JexV8l3fhKCfRPrTaI6) | [Malcolm Jiyane Tree\-O](https://open.spotify.com/artist/4OKERbN3Zv7ZLU8XfINKBH) | [UMDALI](https://open.spotify.com/album/6P9Zd5TpULDQd28yr50MlY) | 11:06 | 2023-11-01 | 2023-11-17 |
 | [Light Cycle / Vang Gou Die Strandloper](https://open.spotify.com/track/2Qr7PCmshXAAOUvP3bwotE) | [Skyjack](https://open.spotify.com/artist/6gSBRCbcqIIaD7slbHymwa) | [Light Cycle / Vang Gou Die Strandloper](https://open.spotify.com/album/0AbupBIps2UaQWWQjIWmTt) | 8:40 | 2024-01-25 |  |
 | [Lishonile](https://open.spotify.com/track/73nQSl5TEuPL9mHFuJc1rH) | [Batsumi](https://open.spotify.com/artist/5Tody6xQBQiLnjLzg40yRZ) | [Batsumi](https://open.spotify.com/album/5uYPQOxhKyzMboAmxqdhcZ) | 11:25 | 2023-11-01 | 2023-11-17 |
 | [Log Out Shut Down \- Live in Studio](https://open.spotify.com/track/2zjanNO8418bIvxfu0FKfs) | [MABUTA](https://open.spotify.com/artist/4Z6IP9yKpOBbitoDKeMIFI) | [Log out Shut Down \(Live in Studio\)](https://open.spotify.com/album/1UcfQoitK9uJQeGHTYaAls) | 6:19 | 2022-04-28 | 2023-04-12 |
+| [Lonely Flowers \- Remastered 2024](https://open.spotify.com/track/6BP0MPz3UVk8s7Aixy2hs5) | [Johnny Dyani](https://open.spotify.com/artist/5aAplFNZE4KHKvdmo7xbNw) | [African Bass \(Remastered 2024\)](https://open.spotify.com/album/3bh4LWHLqPS5CWKdz3ZYvz) | 9:06 | 2024-02-22 |  |
 | [Mabaphile](https://open.spotify.com/track/041J8KXn8xjhQCcgfBQWsR) | [Mandisi Dyantyis](https://open.spotify.com/artist/6hNOG85RpnNVlDUvl6jNF0) | [Cwaka](https://open.spotify.com/album/5x2pAfzkEpcmudXzuVPvyV) | 4:48 | 2023-08-25 |  |
 | [Magwaza](https://open.spotify.com/track/0hcy9qRxJvDU7SmarGV2aB) | [Johnny Dyani](https://open.spotify.com/artist/5aAplFNZE4KHKvdmo7xbNw) | [Witchdoctor's Son](https://open.spotify.com/album/7CEEI9oMR992aCbByho4S3) | 13:06 | 2023-11-01 | 2023-11-17 |
 | [Majampa Jampa](https://open.spotify.com/track/2BbZxaStk8il8epewh9Dbp) | [Kgethi Nkotsi](https://open.spotify.com/artist/4wzL116zQJRoKFm99b6zFx) | [Maswitsi](https://open.spotify.com/album/42wwNyvnXH1ic9WXoDMPih) | 4:14 | 2023-11-23 |  |
 | [Malume](https://open.spotify.com/track/0remaUvyhDjXE5OUFNmVsS) | [Tune Recreation Committee](https://open.spotify.com/artist/6lNEil3Rutgl0lscHp9pZx) | [Afrika Grooves With the Tune Recreation Committee](https://open.spotify.com/album/7etAEMYrH6A4M3Q7LvaycA) | 6:45 | 2022-04-28 | 2023-03-18 |
 | [Marabi](https://open.spotify.com/track/5X1eMB9DdFDR5IMqigxAMV) | [Malombo](https://open.spotify.com/artist/4bXWyXENW0qmuSg1Lnkj7q) | [Pele Pele](https://open.spotify.com/album/3Gc72EaS2NgCQzNeZI8PAS) | 7:30 | 2023-11-01 | 2023-11-17 |
 | [Mdantsane](https://open.spotify.com/track/31wngQeY1jLRdR1vLirax7) | [Ayanda Sikade](https://open.spotify.com/artist/6F9LoTvwNSxtAVFj5i6Hnh) | [Umakhulu](https://open.spotify.com/album/4OKxDZS6s45zQdFCeO2y7e) | 8:39 | 2023-11-01 | 2023-11-17 |
+| [Melancholia \- Live in Cairo](https://open.spotify.com/track/2AgIUzV6qZQIGVscjMsO4F) | [Asher Gamedze](https://open.spotify.com/artist/0seHw20kF6a8af3qsufKyQ) | [Another Side with Another Time Ensemble \(Live in Cairo\)](https://open.spotify.com/album/60JtkiywjwTlf4tY529C8Z) | 4:38 | 2024-02-22 |  |
 | [Mindif \- Single Edit](https://open.spotify.com/track/0KfGdrpJ3Dn4eW7CQRqRgO) | [Abdullah Ibrahim](https://open.spotify.com/artist/39mb0I6tdTcCXkeigvzxOJ), [Noah Jackson](https://open.spotify.com/artist/5n3YSxzEv2ZTuEpCNAsUDe), [Cleave Guyton Jr.](https://open.spotify.com/artist/705SGaMmdej3DZJ8cJdMLC) | [Mindif](https://open.spotify.com/album/0fGJTOhEGxKMIEFtsemF19) | 4:16 | 2023-11-30 |  |
 | [Mogaetsho](https://open.spotify.com/track/4cs9zPibRaJWnpinq2OCjA) | [Bokani Dyer](https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy) | [Radio Sechaba](https://open.spotify.com/album/0gJH7Mg6iDdjxFssLUHTGj) | 5:32 | 2023-05-12 | 2023-10-12 |
 | [Mogaetsho](https://open.spotify.com/track/6M7qRhvKFVoczT8Nlrasdq) | [Bokani Dyer](https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy) | [Radio Sechaba](https://open.spotify.com/album/5qK3CSS06KxQ7zF4xnFWJB) | 5:32 | 2023-10-05 | 2024-01-26 |

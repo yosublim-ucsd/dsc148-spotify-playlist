@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5S7hzwhDSyV.md) - [plain]
 
 > The best instrumental versions of the american songbook classics\. Cover: Stan Getz
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,899 likes - 125 songs - 11 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,982 likes - 125 songs - 11 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5S7hzwhDSyV.md) - [plain]
 | 124 | [You Are Too Beautiful](https://open.spotify.com/track/0ncaOYFsDJ7X0HaVOESL2v) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k) | [You And Lee](https://open.spotify.com/album/4zOW1zEMnDd4mH6Gs8dpFr) | 4:09 |
 | 125 | [Alice In Wonderland \- Live At The Village Vanguard, 1961 / Take 2](https://open.spotify.com/track/7aHMuaIUsIS6p3wKuoPxnN) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Sunday At The Village Vanguard](https://open.spotify.com/album/20ONXWjxrJhlX3rfNeAbS0) | 8:35 |
 
-Snapshot ID: `MCwyYTU0OGM3MTk2OTM2YmM3ZDExNzdjYzEwMjY4MjAzZWIzYjEyNzMy`
+Snapshot ID: `MCw2ZTgyZDg3ZTlmMTk5Yzk5ODk0NTRjMDcxZGIxMDJmMjY5ODdiZDM4`

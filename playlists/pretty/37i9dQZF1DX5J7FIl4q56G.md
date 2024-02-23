@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal & hard rock tracks\. Cover: Kittie
 
-[Spotify](https://open.spotify.com/user/spotify) - 709,422 likes - 51 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 709,453 likes - 51 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 50 | [Curse of the Wyrd Syster](https://open.spotify.com/track/0M1UTcEVcLoM9pyUkSbXze) | [Acid Magus](https://open.spotify.com/artist/1w3X8HvqSYpUFKfaQH1kF2) | [Curse Of The Wyrd Syster](https://open.spotify.com/album/1sXSKqbP92ZMj2zzYoZ6Gc) | 15:34 |
 | 51 | [Shattered Reflection](https://open.spotify.com/track/3HUQlxtEZYT9X3JZU0R5Dr) | [FHORCE](https://open.spotify.com/artist/1LN7EN8sPFrm2tMtRtdYTr) | [NEEDLES](https://open.spotify.com/album/2bm9Z7tuTaghlsDVS2rocC) | 3:28 |
 
-Snapshot ID: `MCwzYjEyZGI4NTQ3OGY5NWQyZjY2NGNjNTdkNTA5OGNiNzJhZGIyZmJm`
+Snapshot ID: `MCw4ZmFjMWQxMDY3ZWU4NThlODFmMDkyNjBmZWI3MTYzYzI3NmY5YjIy`

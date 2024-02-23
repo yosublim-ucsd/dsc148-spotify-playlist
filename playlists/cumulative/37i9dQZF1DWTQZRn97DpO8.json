@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Quand R&B francophone rime avec douceur \ud83c\udf6f. Photo : IPNDEGO",
+  "description": "Quand R&B francophone rime avec douceur \ud83c\udf6f. Photo : Monsieur Nov",
   "name": "le miel",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 201813,
       "name": "0",
       "url": "https://open.spotify.com/track/3K35huutmm1Nb1HxpBMJ7m"
@@ -528,7 +528,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 189836,
       "name": "Dimanche Soir",
       "url": "https://open.spotify.com/track/1s8fQVWLb7q8o4bQrLNnUr"
@@ -694,7 +694,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 56086,
       "name": "GIGI",
       "url": "https://open.spotify.com/track/4Rkru3YgYVOCufUoq1uY8H"
@@ -788,7 +788,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 142267,
       "name": "Honeymoon",
       "url": "https://open.spotify.com/track/5TkJeNwPnc46axqIAmjI5k"
@@ -904,7 +904,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 211408,
       "name": "Je t'ai cherch\u00e9",
       "url": "https://open.spotify.com/track/0oncxtG7oIZK34SWHZNe60"
@@ -1053,6 +1053,24 @@
     },
     {
       "album": {
+        "name": "LUCKY",
+        "url": "https://open.spotify.com/album/48yAtmi6yZ3vyp4lwhdQif"
+      },
+      "artists": [
+        {
+          "name": "Ocevne",
+          "url": "https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208714,
+      "name": "LUCKY",
+      "url": "https://open.spotify.com/track/5MKX0y0nRqiXc1lnpDxMFM"
+    },
+    {
+      "album": {
         "name": "Papillon Monarque",
         "url": "https://open.spotify.com/album/5WJBBxQz7mhA2XlvWFP7CX"
       },
@@ -1090,6 +1108,24 @@
       "duration_ms": 157700,
       "name": "Ma Go",
       "url": "https://open.spotify.com/track/5sl1qh0eclSeUTGW5XgZnc"
+    },
+    {
+      "album": {
+        "name": "Monsieur Saudade",
+        "url": "https://open.spotify.com/album/2utwqz4VmZWi2rTKhRP3HV"
+      },
+      "artists": [
+        {
+          "name": "Abou Tall",
+          "url": "https://open.spotify.com/artist/2AD97sdXTycPyTc9rHN2s2"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235440,
+      "name": "MAISON MARGIELA",
+      "url": "https://open.spotify.com/track/31apVS91MZ1rj1gZ7DpBBB"
     },
     {
       "album": {
@@ -1447,6 +1483,24 @@
     },
     {
       "album": {
+        "name": "Pr\u00e9datrice",
+        "url": "https://open.spotify.com/album/6wftxblgo2IdoUoVDLzOfj"
+      },
+      "artists": [
+        {
+          "name": "Gros Mo",
+          "url": "https://open.spotify.com/artist/7r65N4pfWPM7D0zKe86jgk"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192880,
+      "name": "Pr\u00e9datrice",
+      "url": "https://open.spotify.com/track/2YUGbE007BGwUEUBWRO5kk"
+    },
+    {
+      "album": {
         "name": "Que la nuit",
         "url": "https://open.spotify.com/album/389WQhjRH4tDq72Eb7MG94"
       },
@@ -1595,6 +1649,24 @@
     },
     {
       "album": {
+        "name": "Rouge satin",
+        "url": "https://open.spotify.com/album/3m1f6RSYhLrPRiR7wfm8pT"
+      },
+      "artists": [
+        {
+          "name": "BR\u00d6",
+          "url": "https://open.spotify.com/artist/6U2PIOH8ZKgFprcdkIe8J5"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225656,
+      "name": "Rouge satin",
+      "url": "https://open.spotify.com/track/0xcveWUzVD8Bn8a3lzQD47"
+    },
+    {
+      "album": {
         "name": "Sacrifices",
         "url": "https://open.spotify.com/album/2DfHq4xDVVM7uSGyN8X69l"
       },
@@ -1694,6 +1766,24 @@
       "duration_ms": 226569,
       "name": "Si J't'oubliais",
       "url": "https://open.spotify.com/track/0fML4zWjIwNwOOPtUZ3SBC"
+    },
+    {
+      "album": {
+        "name": "L\u00e0 o\u00f9 les Diamants brillent",
+        "url": "https://open.spotify.com/album/6nef3YvZdsFaC6ldV2zSfL"
+      },
+      "artists": [
+        {
+          "name": "Ruthee",
+          "url": "https://open.spotify.com/artist/43Lkhar9oQ9sIpFXzwhe0T"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160558,
+      "name": "Si seulement",
+      "url": "https://open.spotify.com/track/7dfIxgOs8OObrkQ9MBWpVD"
     },
     {
       "album": {
@@ -1824,7 +1914,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 203320,
       "name": "Ton masque est tomb\u00e9",
       "url": "https://open.spotify.com/track/6XGUabUpTYkuj3Fkzmllkh"
@@ -1936,6 +2026,28 @@
       "duration_ms": 160186,
       "name": "Tu sais que",
       "url": "https://open.spotify.com/track/5CvsjxPwSteTgzyuPaCHs7"
+    },
+    {
+      "album": {
+        "name": "T\u00e9l\u00e9commande",
+        "url": "https://open.spotify.com/album/6krz5mD2pn0ZcGsrSidtR9"
+      },
+      "artists": [
+        {
+          "name": "Myra",
+          "url": "https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE"
+        },
+        {
+          "name": "Nemir",
+          "url": "https://open.spotify.com/artist/5f6nz3iqzrfiUfKOIKvLvd"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175425,
+      "name": "T\u00e9l\u00e9commande",
+      "url": "https://open.spotify.com/track/4i9IcJ4T5aHY4xsUaRoS1C"
     },
     {
       "album": {

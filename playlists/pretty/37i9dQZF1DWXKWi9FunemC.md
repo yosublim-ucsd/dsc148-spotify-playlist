@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKWi9FunemC.md) - [plain]
 
 > Sometimes upbeat, sometimes chill, these songs will encourage you and warm your heart and soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,684 likes - 100 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,901 likes - 100 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKWi9FunemC.md) - [plain]
 | 99 | [Now I See](https://open.spotify.com/track/66SLmhCxmoFG8DUgBFv572) | [The McClures](https://open.spotify.com/artist/5lI2VDVbI989t1YHEFhGyI), [Paul McClure](https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz), [Hannah McClure](https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya) | [Now I See](https://open.spotify.com/album/3ag0IZGy6XuaBQPA4fH3V3) | 4:03 |
 | 100 | [Bridges](https://open.spotify.com/track/7nkKHByyonJIPEx8OxgoZR) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Bridges](https://open.spotify.com/album/5lx5uNnvFxSiruId2vTS1a) | 3:36 |
 
-Snapshot ID: `MCwzNDc0NzJmMDYyMjhjZmJjNTQzMDY0ZDI4MzhkZWFmYjJhZmNjMTIx`
+Snapshot ID: `MCxjNTYzNzViYjIzOTQxYmQ0ZmJiNTllMGJhNzViNjUzYmU1ZDI5MDdj`

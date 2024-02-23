@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKvEw7Rwtq.md) - [plain]
 
 > Soaring soundscapes from the most epic Post\-Rock artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,641 likes - 100 songs - 8 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,697 likes - 100 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKvEw7Rwtq.md) - [plain]
 | 99 | [Deliveries](https://open.spotify.com/track/2fwzxX1uakYBKc5cT0kFN3) | [From Overseas](https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV) | [Volcan](https://open.spotify.com/album/1oeoW3Ucs6A2zSMMgMS0UW) | 4:44 |
 | 100 | [Altar of Tammy](https://open.spotify.com/track/1ZXY4vBNHhaOwTQLjWKGkV) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw), [Paul Sukeena](https://open.spotify.com/artist/2BATlF7iN0eToMP3ev80mH) | [West Kensington](https://open.spotify.com/album/60JgMML7iNBhaRhcKfRRpf) | 7:58 |
 
-Snapshot ID: `MCw0YTRlMGI1MjE3MDJmNmEyMmJjY2U0NjNhNWQyZGYyNmNkMGQ2N2Qx`
+Snapshot ID: `MCw3MTY4YTEwZGQ5YzM3YTcwY2RkNDk2NzEyNDhjMzhkYjE2MmQ5ZDFk`

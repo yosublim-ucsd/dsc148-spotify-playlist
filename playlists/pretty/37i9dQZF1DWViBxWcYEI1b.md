@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 
 > For those with a taste for both the new and the classic\. Cover: Alicia Creti
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,127 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,153 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 | 99 | [Stand Still](https://open.spotify.com/track/2GOKL8ynbeBg0vzBH46eXa) | [Jack Curley](https://open.spotify.com/artist/1Unwe9Xco0JDlTTwpDVrcK) | [Stand Still](https://open.spotify.com/album/1mbpklFb3tk249EMHhF5Zy) | 3:01 |
 | 100 | [Otherside](https://open.spotify.com/track/1gEI3oSPZQdmabcY4rlyQk) | [Heather Russell](https://open.spotify.com/artist/2207WvrklK8Cn1XeMOlzVN) | [Knock, Knock](https://open.spotify.com/album/7gUgtgNsrdWEwSzZzRntXC) | 3:34 |
 
-Snapshot ID: `MCw1ODI1ZDA2MjhlM2RlNGVkMDk1ODJlNWVlODQwM2UyYzI1Y2E0NDQ4`
+Snapshot ID: `MCxjNTQ3NDFmZWQ0NTg5MDBiM2QzN2U2NWMxNWRlZTU1MTkxMTg2YzYx`

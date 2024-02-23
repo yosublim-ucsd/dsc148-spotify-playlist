@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrqe4wqsboB.md) - [plain]
 
 > Indie, pop, alternativo..\. y un poco más allá\. Cover: Sie7e
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,985 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,991 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrqe4wqsboB.md) - [plain]
 | 49 | [Flow Criollo](https://open.spotify.com/track/2WwDoD3AIsGmftk5vUFuM5) | [El Hijo de Borikén](https://open.spotify.com/artist/7uXZ6bfeXXpFv8Wrx86zyG) | [El Hijo de Borikén](https://open.spotify.com/album/3DXb3q4cW3pttaTVFouNaV) | 4:17 |
 | 50 | [Beso Con Sal](https://open.spotify.com/track/6OOzp7GNfEPBbhCmEw8ycA) | [Fux Beat](https://open.spotify.com/artist/6hftbcqGKIFB01XfseVMN1), [Bebo Dumont](https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe) | [Beso Con Sal](https://open.spotify.com/album/58E1Dd75D47aEixQBfwWmy) | 2:33 |
 
-Snapshot ID: `MCw3YzU0NjFlMDc5YzNmOTY0OGVmMzNmMWVmYTM4NTIxNTc0YTk1MmRk`
+Snapshot ID: `MCw1OWJlOTI5OTRjODk2NTE0YzZjYjI1ZTgyOGVmOWJiNGJlYzlkZDAx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19s0CZ.md) - [plain]
 
 > This is The Rolling Stones\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,011,958 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,012,075 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19s0CZ.md) - [plain]
 | 49 | [Paying The Cost To Be The Boss](https://open.spotify.com/track/1HK0gVdcEwTUaJzCTNhjA3) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U), [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Deuces Wild](https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV) | 3:33 |
 | 50 | [Little T&A \- Remastered](https://open.spotify.com/track/7K3rmA4f6NEElsxKEOOt8H) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Tattoo You \(2009 Re\-Mastered\)](https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ) | 3:23 |
 
-Snapshot ID: `Mjg0NzUyOTEsMDAwMDAwMDA3NjgwMWRhYzk1NzljYzNiN2JlYmNkMjM4ZWVmOTVhYg==`
+Snapshot ID: `Mjg0NzcwNzYsMDAwMDAwMDA0YTVjYzA4YjhkNDY5ZGM3NTAzNzA1ODZkMGE2OTVhZA==`

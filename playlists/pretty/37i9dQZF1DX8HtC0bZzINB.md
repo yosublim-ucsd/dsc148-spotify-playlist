@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HtC0bZzINB.md) - [plain]
 
 > Yerli Afro, Latin ve trap ritimleri ile yazın en hareketli hali.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,284 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,293 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HtC0bZzINB.md) - [plain]
 | 49 | [bu gece dağıtıcam..](https://open.spotify.com/track/4hqipk4YpAV3tXlsZ3usQE) | [Kozmos](https://open.spotify.com/artist/0qERHMCWkMoZvWZMngc1A6) | [bu gece dağıtıcam..](https://open.spotify.com/album/7af93QWDFzJliE8Y67CIhX) | 2:19 |
 | 50 | [Imdat \(feat\. Hadise\)](https://open.spotify.com/track/2hDRKm3BqOsEHaWIBm4u01) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49) | [Imdat \(feat\. Hadise\)](https://open.spotify.com/album/0rcbaFAKT6ndumBjWnF3AD) | 3:14 |
 
-Snapshot ID: `MCxiODA5YTJiNjA0ODQ5ZmU4ZjIxMWQ2YjBlYmVjZjY3ZDVkMjIyNTJk`
+Snapshot ID: `MCw0ZDY4YjZlY2UwZjQyZTcyNWRlNzlmZTIxODMyNDUyNWQ3N2YxYzZk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdV3Fs5eWjC.md) - [plain]
 
 > Discover the multifaceted creativity of the black queer community\. Cover: Janelle Monáe
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,452 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,469 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdV3Fs5eWjC.md) - [plain]
 | 49 | [SULA \(Paperback\)](https://open.spotify.com/track/26kFP6TwarrLpmXO86PH5k) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [SULA](https://open.spotify.com/album/1u6YYtjNLMP87kjDH33V3K) | 4:15 |
 | 50 | [Bruises](https://open.spotify.com/track/5EKjnrnyrw688C3yoMfbwK) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Raven](https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT) | 4:15 |
 
-Snapshot ID: `MCwyOTcxMWRlYTU5YzFkMTYxM2U5ODZjOGJmYjg5YmEwMWJlODE5YWIz`
+Snapshot ID: `MCxlMGJmN2UzMGI4OTdmNGQ5M2JjM2QwOGRlNDBjODM2OTFhNzk0MTRm`

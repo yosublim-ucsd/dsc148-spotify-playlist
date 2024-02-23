@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf4L9PMKQqr.md) - [plain]
 
 > Enamórate con las interpretaciones más románticas de El Flaco de Oro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,477 likes - 80 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,487 likes - 80 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf4L9PMKQqr.md) - [plain]
 | 79 | [Concha Nacar](https://open.spotify.com/track/2NYZ1itaWAy8jOAjeQVNjc) | [David Reynoso](https://open.spotify.com/artist/5djhr5Q01njJFuZFtTqT8s) | [David Reynoso y la Música de Agustín Lara](https://open.spotify.com/album/4VnXBg6RqDKAZhkPB5YjHL) | 2:18 |
 | 80 | [El Capulin](https://open.spotify.com/track/4XBq7wuQTC05NrwquJ3HWP) | [Aida Cuevas](https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr) | [Suite Mexicana de Agustín Lara](https://open.spotify.com/album/7yVxgddVdrQVgXS3OCgPon) | 2:19 |
 
-Snapshot ID: `MCw1YjMxYzNjNjhmMmQ0YjM5MjA5MDY0Njg3YjQ1NTQxNTFhNzE1NmM0`
+Snapshot ID: `MCwwMmE3M2VhODdiMzBhODNjNTQ3OWRhMmFlNDY4Y2VmZjQwMDY2NDIx`

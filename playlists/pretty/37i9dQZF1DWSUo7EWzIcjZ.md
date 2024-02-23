@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 
 > ¡Merengue de los 80 y 90! Portada: Johnny Ventura
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,066 likes - 150 songs - 10 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 390,190 likes - 150 songs - 10 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 | 149 | [Por Que Hemos Cambiado](https://open.spotify.com/track/6842NuQSyOymfndMDbGeSw) | [Jochy Hernandez](https://open.spotify.com/artist/3WDEmWVINk7sTXoUkCj231) | [Merengues Clasicos Hit](https://open.spotify.com/album/6GIRcvaohM4ivHgG9ybdvB) | 4:32 |
 | 150 | [Nuestro Amor](https://open.spotify.com/track/4sEqK8SeihEwDySmsf2Zed) | [Monchy Capricho](https://open.spotify.com/artist/0R8lrNHlo9m4xovk3wbBua) | [Merengues Clásicos de los 80´s, Vol\. 3](https://open.spotify.com/album/0ZtKfpi3mUYi1T2n8SMoh5) | 3:40 |
 
-Snapshot ID: `MCwyNWU1ZmNjZTkwNDEyNzI4MDFhYmIyODczMGYyZjllZGY3OGZmNjQ5`
+Snapshot ID: `MCw1ZWVjMzMwZWU1ZmJiZGY4YWY5ZTRlMzUwYWM2YjYxMGM3NWQ5Nzlj`

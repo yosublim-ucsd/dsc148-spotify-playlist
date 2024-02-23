@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KVBf2zZZ2X.md) - [plain]
 
 > Relaxing music with soft nature sounds for meditation, sleep or to just enjoy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,168 likes - 120 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,363 likes - 120 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KVBf2zZZ2X.md) - [plain]
 | 119 | [Paladin Diversum](https://open.spotify.com/track/60r8LX6fGaLQYjYCdBB2Kp) | [Los Sobriles](https://open.spotify.com/artist/3JST5hIfjYPRqhKMJXqku2) | [Paladin Diversum](https://open.spotify.com/album/2S05YvCq7NM8x57DIb73ur) | 3:16 |
 | 120 | [Rocks](https://open.spotify.com/track/5OMQHzsRygG9YU08n8TLfz) | [Zenson](https://open.spotify.com/artist/7983rW2azuZ8ECMtX32VOr) | [Rocks](https://open.spotify.com/album/3W78KOdeAshBiNPDcBL1eD) | 1:57 |
 
-Snapshot ID: `MCxmZDg5ZDAzZTUxODcxZmZlMDg0YTdlOTBkOTE3ZTdlNTcwNzhkMTk0`
+Snapshot ID: `MCw0NjAyMjdkNjllODdkN2UxNGQ3MGM1MDU5YWQwMzkwY2ZlMzg3NGEx`

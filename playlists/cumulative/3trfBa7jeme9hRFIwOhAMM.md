@@ -4,7 +4,7 @@
 
 > bringing you all things house!! follow me on tour <a href="http://www.instagram.com/curbi">here</a> and don't forget to <a href="https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT">follow my artist profile</a>..
 
-152 songs - 7 hr 27 min
+153 songs - 7 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Don't Stop](https://open.spotify.com/track/73Aj6vBOimEVHMMm67YmcU) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Don't Stop](https://open.spotify.com/album/2LeGGDt1Nn31jdCThW1SKW) | 2:50 | 2023-06-26 | 2023-07-14 |
 | [Don't Touch](https://open.spotify.com/track/2csjKdfu4sncJWlgGRBjPm) | [Actimax](https://open.spotify.com/artist/4R9Bm1J23wbXOK3oxpjKau), [1997](https://open.spotify.com/artist/6MSe5IjGtnDLfKyAuofPo2), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn) | [Don't Touch](https://open.spotify.com/album/6ixv1LSLXYYmTE1jtVm4uo) | 3:05 | 2023-12-11 | 2024-01-14 |
 | [Drop It](https://open.spotify.com/track/74rowk6lkrVhf006AwHhih) | [Eleganto](https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V) | [Drop It](https://open.spotify.com/album/0cBrb3fBPk1SVRLz6Y3Zom) | 2:33 | 2023-09-20 | 2024-02-16 |
+| [East Bounce](https://open.spotify.com/track/6RwZ2HhlgX1MDo3l5ek0a4) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT) | [East Bounce](https://open.spotify.com/album/5Hwfv9dfENIQ1RJ7PzB5cL) | 3:49 | 2024-02-22 |  |
 | [Elevate Your Love](https://open.spotify.com/track/6GiZMMByquYTUYtsVsoVD4) | [Luke Alexander](https://open.spotify.com/artist/7x19vko80gBo5wK1kwn542) | [Elevate Your Love](https://open.spotify.com/album/5IPHtrVFhktYAo1A7M5LSF) | 2:20 | 2024-01-22 |  |
 | [Ella Quiere](https://open.spotify.com/track/5HqE67HzcBwgg02U7nrGtS) | [CMC$](https://open.spotify.com/artist/78DWNk8gFHU30TGITAgbM7), [Noel Holler](https://open.spotify.com/artist/7GAYMj354pCJ0yazsS0ryj), [Lackmus](https://open.spotify.com/artist/54ryBVbl5CbgFmiXixV6C1) | [Safari / Ella Quiere EP](https://open.spotify.com/album/4TTCyY1FPBVW1eA7zueYEX) | 2:54 | 2023-07-28 | 2023-12-14 |
 | [Enemy](https://open.spotify.com/track/4Syuvo6HDr7SraUJyOVAh4) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn), [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC) | [Enemy](https://open.spotify.com/album/1ak05kVWCtEdvlCRS5EeZF) | 3:31 | 2024-02-02 |  |

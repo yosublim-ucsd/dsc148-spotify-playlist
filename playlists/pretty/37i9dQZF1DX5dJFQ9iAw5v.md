@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dJFQ9iAw5v.md) - [plain]
 
 > De Argentina para el mundo, los más destacados intérpretes y compositores\. Foto: Escalandrum
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,784 likes - 76 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,786 likes - 76 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dJFQ9iAw5v.md) - [plain]
 | 75 | [Titi](https://open.spotify.com/track/42asnYtW9jNdlDdMjZqCne) | [Patricio Carpossi](https://open.spotify.com/artist/0i4ii7RkdOXZRMpTm5cYxX) | [El Dragón Blanco](https://open.spotify.com/album/0F2TCMAdxijKLlbUWFbIzF) | 4:46 |
 | 76 | [Polacos](https://open.spotify.com/track/2BrNycAn6bLcTzhT0zanr7) | [Pipi Piazzolla Trio](https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B) | [Polacos](https://open.spotify.com/album/3EbzOkNDvfYgvbT5xjqCmi) | 3:08 |
 
-Snapshot ID: `MCw3YmFlNjRhN2RmMDkyNWE5YmE1MGQzNDRkNzk2NWU3MzMzOTNiZGIz`
+Snapshot ID: `MCw3YmZjNTVlMDlkZjNjNzdkYmJiM2NjYzM0NWQ5Y2I2MWJmNWIxOGE4`

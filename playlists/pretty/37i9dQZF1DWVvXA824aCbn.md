@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvXA824aCbn.md) - [plain]
 
 > A relaxing atmosphere of Jazz piano sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 577,129 likes - 350 songs - 21 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 577,135 likes - 350 songs - 21 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -359,4 +359,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvXA824aCbn.md) - [plain]
 | 349 | [Secret Love](https://open.spotify.com/track/5IzJev1UfE4EKR0hnAhJJB) | [Sunshine Williams](https://open.spotify.com/artist/3HnqHjANigMf83FnZzXYbV) | [Secret Love](https://open.spotify.com/album/5lTOhWxMKBWP6jtSICnnAi) | 4:11 |
 | 350 | [I Wish I Knew](https://open.spotify.com/track/6jEtmU0Wssyr3KObLUxFYU) | [Lady Luck Trio](https://open.spotify.com/artist/6Qm9vphqbolUkkRINZk5BS) | [I Wish I Knew](https://open.spotify.com/album/1lEpsN0KgGGljcFuZ0DtXE) | 4:23 |
 
-Snapshot ID: `MCxlZmM3ZTIyN2I0NTMxNjFjNmEyNGNlZGEwODdiZjYyNTk4OGZmNjU0`
+Snapshot ID: `MCw0NTNjMWZjZGU2MGM4MTQzNWVhY2I3NjhhNDBmYzNkNDdmZWJkMWFh`

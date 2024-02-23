@@ -4,7 +4,7 @@
 
 > 綺麗事は聞きたくない。本音でつづられた唄。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-126 songs - 7 hr 42 min
+127 songs - 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [愛を伝えたいだとか](https://open.spotify.com/track/0N8Xztr4pBHJ7V0moJWhbO) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [青春のエキサイトメント](https://open.spotify.com/album/0ct8ESCAYEpDGYJOndCfft) | 3:55 | 2023-11-23 |  |
 | [愛哀](https://open.spotify.com/track/1jNX9JdSdlhqkmiIPBUii4) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [まだらもよう](https://open.spotify.com/album/0bamCeA6hehUk8NqStBL7k) | 3:47 | 2024-01-18 | 2024-01-20 |
 | [斜陽](https://open.spotify.com/track/2U6mFmBDjaAu6oCCDRpRet) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [斜陽](https://open.spotify.com/album/4FGNOtaosV0RFQZohUbGHj) | 3:20 | 2023-11-23 | 2023-11-28 |
+| [星めぐる詩](https://open.spotify.com/track/30aPCMAtkH6Cf5ejzY4cE4) | [suis from Yorushika](https://open.spotify.com/artist/4UOdwKkaWHJ5k6UqnfC2w0) | [星めぐる詩](https://open.spotify.com/album/2EfEYAvVUWajLKby2VTeZC) | 3:21 | 2024-02-22 |  |
 | [星寂夜](https://open.spotify.com/track/15WaDRa6mXiEUb3WjSVBl0) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [愛ニ咲花](https://open.spotify.com/album/7aFleZUf1KAfpLX1cUgsC6) | 3:10 | 2023-12-26 | 2023-12-30 |
 | [晩餐歌](https://open.spotify.com/track/2cxcqKwQtfKq7giphxjzOu) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [晩餐歌](https://open.spotify.com/album/0i4V6w1zpf6CFXSS67cyfQ) | 3:35 | 2023-11-23 |  |
 | [最低](https://open.spotify.com/track/0qmF7YXfxp15wDexlK1tTt) | [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [最低](https://open.spotify.com/album/4DV2vgNpPKrd4BS3p2Msb0) | 3:20 | 2024-01-16 | 2024-01-31 |
@@ -132,7 +133,7 @@
 | [私が明日死ぬなら](https://open.spotify.com/track/29KOSOrduu8U6Pz6ZZtuEj) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [ROUNDABOUT](https://open.spotify.com/album/1N3qm3w4YsYgXh6XxBjkay) | 4:13 | 2024-01-18 |  |
 | [精神ロック](https://open.spotify.com/track/5H3po4kcJFSyiz2tv2iFdz) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [精神ロック](https://open.spotify.com/album/1VMeEQKCxiGnloMZvdqVvS) | 2:53 | 2023-12-12 | 2023-12-14 |
 | [花束が似合う君へ \- fantastic ver.](https://open.spotify.com/track/2vVaTLbzFN5TPIayqJDxv7) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [花束が似合う君へ \(fantastic ver.\)](https://open.spotify.com/album/3BVTAz0ufqnsdPBuvQk6tx) | 4:54 | 2024-01-30 |  |
-| [負け犬にアンコールはいらない](https://open.spotify.com/track/1fooGB6yJLKiOk8jW3thn6) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [負け犬にアンコールはいらない](https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy) | 3:54 | 2023-11-27 |  |
+| [負け犬にアンコールはいらない](https://open.spotify.com/track/1fooGB6yJLKiOk8jW3thn6) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [負け犬にアンコールはいらない](https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy) | 3:54 | 2023-11-27 | 2024-02-23 |
 | [金木犀](https://open.spotify.com/track/6lJ31xE2jGeRqapTygwRGm) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [金木犀](https://open.spotify.com/album/7kYA3MEiquoNZVZgzWhJJX) | 4:35 | 2023-11-23 | 2024-01-22 |
 
 \*This playlist was first scraped on 2023-11-24. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDfBvFXqzpv.md) - [plain]
 
 > Discover your personalized playlist of tracks from FIFA '98 to FIFA '23.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,523 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,569 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDfBvFXqzpv.md) - [plain]
 | 99 | [Window](https://open.spotify.com/track/3hARuUtzTdUuWH1KiLJlSf) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Window](https://open.spotify.com/album/4JxgricHyH0BbMUaefAHfR) | 2:19 |
 | 100 | [&Run](https://open.spotify.com/track/0w4m3Xp4svlIoyL94Zjlyd) | [Sir Sly](https://open.spotify.com/artist/3DFoVPonoAAt4EZ1FEI8ue) | [Don't You Worry, Honey](https://open.spotify.com/album/5VvCD7gVffRgdPfExxLfF4) | 3:46 |
 
-Snapshot ID: `MCxjNDJjMGRmOWNkMTE5OThmNzUyMmNhZGIwOTk5N2ZiZDNlNjUyZmVi`
+Snapshot ID: `MCxhNTE2NzQxOTY1OGJmZTFmNjJhODE5Mjk3ZmQ0NjA5NTQ4NDZmODgz`

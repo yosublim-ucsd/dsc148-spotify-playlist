@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 
 > O trap nacional pra qualquer hora, daquele jeitão
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,531 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,607 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 | 99 | [Dior](https://open.spotify.com/track/5wtUQY9UnGkbRlVYxGppry) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Dior](https://open.spotify.com/album/79fVjt1Csv8t5s2XqN2xqN) | 2:14 |
 | 100 | [Diñero](https://open.spotify.com/track/5qEEAaLmldzSSFQjj6eJb3) | [Jé](https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI) | [O Bagulho É Trap](https://open.spotify.com/album/7sRNPfZfQ9RB3DtMffLPo3) | 3:12 |
 
-Snapshot ID: `MCxjYjIzNzNjYmM2N2EwN2ZmNzM2ZmQwMDhkNGQ3YTc2ZWNiM2Q2ZjY0`
+Snapshot ID: `MCwyNjAzN2MwZWU4YTQ5ODFkYjcyMDk5YzdlNjc0YTZjYTYwNDA1YWQw`

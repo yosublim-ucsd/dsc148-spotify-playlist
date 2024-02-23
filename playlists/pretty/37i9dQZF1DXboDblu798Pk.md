@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboDblu798Pk.md) - [plain]
 
 > Pop hits in the making! Cover: Jazzy
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,709 likes - 79 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,719 likes - 79 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboDblu798Pk.md) - [plain]
 | 49 | [Dance The Night \- From Barbie The Album](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 |
 | 50 | [Lil Boo Thang](https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8) | [Lil Boo Thang](https://open.spotify.com/album/1j5AROUr8rq5xb2CXDIH1c) | 1:54 |
 | 51 | [All Night \(feat\. LAUREL\)](https://open.spotify.com/track/70YNlheifxJIlRKnS9G5be) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec), [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [All Night \(feat\. LAUREL\)](https://open.spotify.com/album/5oIHA8IYx2koRMMzifLCaV) | 2:50 |
-| 52 | [Chloe Enough!](https://open.spotify.com/track/0so9O4kW2iUyDjflqDxA18) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Chloe Enough!](https://open.spotify.com/album/0xaOEgweHb5N05ZtJTxUsj) | 2:30 |
+| 52 | [Chloe Enough!](https://open.spotify.com/track/39rW3vGtDSCM889izxIkiu) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Chloe Enough!](https://open.spotify.com/album/1YUeCffXlEbbVzSWzGzpaP) | 2:30 |
 | 53 | [You Love Who You Love](https://open.spotify.com/track/05P2XnfYsMtbvajPRcLTzO) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [You Love Who You Love](https://open.spotify.com/album/5Qz6ewHWcFWlQ89R0aeTDb) | 3:05 |
 | 54 | [Alibi \(feat\. Rudimental\)](https://open.spotify.com/track/5Jpz4nv8nA6FIYO5gEyQa2) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Alibi \(feat\. Rudimental\)](https://open.spotify.com/album/3Ku8LDPYg53Kh59amfFWjL) | 3:04 |
 | 55 | [Give You Love \(feat\. Jason Derulo\)](https://open.spotify.com/track/672pbi6q4UuyJYIuThNsq3) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Give You Love \(feat\. Jason Derulo\)](https://open.spotify.com/album/19F2dOW0JWTAuK941khqsA) | 2:54 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboDblu798Pk.md) - [plain]
 | 78 | [I Believe In Love Again](https://open.spotify.com/track/4fZ9WECee9p7FEWOUP03jD) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [I Believe In Love Again](https://open.spotify.com/album/4j8paHpWXq0sgm5jcWl84R) | 2:56 |
 | 79 | [TOO MUCH](https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [TOO MUCH](https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR) | 3:23 |
 
-Snapshot ID: `MCw4ZDVkZTdhNjZjM2QzZDBjNTZhMDRhMjdhNGE4MDU5NzVmNDM0NzA2`
+Snapshot ID: `MCxhNjhhMzZlNTg4ZDFjMzI5YTVjZjIxYTAzNzMwMDE4ZmVhYWUzOWNj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7gP3QDumGRrHqoy9iWtDyw.md) - [plain]
 
 > 
 
-[Ma La](https://open.spotify.com/user/21ecxryiyxe6gj5elglqca2fy) - 22,436 likes - 172 songs - 11 hr 7 min
+[Ma La](https://open.spotify.com/user/21ecxryiyxe6gj5elglqca2fy) - 22,437 likes - 172 songs - 11 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/7gP3QDumGRrHqoy9iWtDyw.md) - [plain]
 | 29 | [Night Together](https://open.spotify.com/track/0IvL19yn7dVObJBCxaqPeZ) | [KiRiK](https://open.spotify.com/artist/2kQveut2J5sz6PPKL99qF2), [Driule XL](https://open.spotify.com/artist/3sZDs92fG1QhvPI3WgulKK) | [Question](https://open.spotify.com/album/6zQyE1ZbFpyFBWKcMKM3Hm) | 6:03 |
 | 30 | [The Invite](https://open.spotify.com/track/32svAbQdYmwe8MaqqZPeoZ) | [Ammo Avenue](https://open.spotify.com/artist/2Ruz18KUgVaQXSbc6mqdOn) | [Surrender EP](https://open.spotify.com/album/1vJkIOZOYBZ67u8Vk42DPl) | 3:46 |
 | 31 | [Danzer](https://open.spotify.com/track/3qxwMr3Xhc56VAHLFyk7vc) | [Darius Syrossian](https://open.spotify.com/artist/6PDUdAoMV9dMy0wOt09Rsf) | [Danzer](https://open.spotify.com/album/6gG5oOL3hHJzpP8vHIrdG1) | 6:05 |
-| 32 | [When the beat Bang](https://open.spotify.com/track/3nj5UffFuqIdyy0BGrBI2l) | [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [When the beat Bang](https://open.spotify.com/album/12LyRM80nwhWdxAwACJeBf) | 4:01 |
+| 32 | [When The Beat Bang](https://open.spotify.com/track/3nj5UffFuqIdyy0BGrBI2l) | [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [When The Beat Bang](https://open.spotify.com/album/12LyRM80nwhWdxAwACJeBf) | 4:01 |
 | 33 | [Feel So Good](https://open.spotify.com/track/4wXt1AZgYt7k72oTHy0e0P) | [LEFTI](https://open.spotify.com/artist/7o5gxy3lEGcP62TNIppa7w) | [Feel So Good](https://open.spotify.com/album/5t0Q2AJoqfFuwuYhPDPny7) | 2:35 |
 | 34 | [Can You Feel It \- Radio Edit](https://open.spotify.com/track/6CGd0uFmGFxbFOJFVxQdBe) | [FOLEY \(UK\)](https://open.spotify.com/artist/6anTdfcXpebpP1MVwq4BZD) | [Can You Feel It](https://open.spotify.com/album/0S4iMIlBf2y3wH3sdGVz4v) | 3:27 |
 | 35 | [Let The Bass Kik](https://open.spotify.com/track/3ww5nLQrMUtAFFIhwdsWDx) | [Paul C](https://open.spotify.com/artist/4GsJmtonKVB04VUrQba43F) | [Let The Bass Kik EP](https://open.spotify.com/album/2CNLf14sw4uLa2QYA4Jfl4) | 4:30 |

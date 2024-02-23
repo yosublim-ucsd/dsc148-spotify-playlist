@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sUQwD7tbmL.md) - [plain]
 
 > The best indie rock vibes — classic and current.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,999,505 likes - 150 songs - 8 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,999,741 likes - 150 songs - 8 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sUQwD7tbmL.md) - [plain]
 | 149 | [Run To The Moon](https://open.spotify.com/track/03tXFHO65orOSnHlEDf0JK) | [Beach Fossils](https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC) | [Run To The Moon](https://open.spotify.com/album/5OUIMs7DlmNEY1ia8IVQfs) | 3:45 |
 | 150 | [All Night](https://open.spotify.com/track/1mHGtXWQSfnzB5CLVnsykO) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [All Night](https://open.spotify.com/album/4GJuAhTBGZUgdAFLU5phPk) | 3:28 |
 
-Snapshot ID: `MCw2YWQzNWVjMWZlY2M5NDhlMDM5Y2QxZTNmOWE3YzUyMmYzMjdmOTE2`
+Snapshot ID: `MCxlZmE5ZGIwN2M4OTE2NmU1ZmViMjI1NjI0ODUyNWYwMzE1MDg4ZjJi`

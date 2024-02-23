@@ -4,31 +4,31 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,926 likes - 60 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,983 likes - 60 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Stolen Seasons](https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Goodbye to the Valley Low](https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91) | 3:01 |
-| 2 | [Ulveham](https://open.spotify.com/track/6awPQdcqY8IYdHzqhEYm3s) | [Gåte](https://open.spotify.com/artist/3YxkGgMvqCQA75aFpy6524) | [Ulveham](https://open.spotify.com/album/1GtVgb3TUKeAn466kCjgwJ) | 3:02 |
+| 2 | [the man](https://open.spotify.com/track/6OTVvKhi3Wb16TEiQEokrs) | [de clair.](https://open.spotify.com/artist/0XcoKb34hnRUc4u9agLp6o) | [the man](https://open.spotify.com/album/5c4WcxUUeJNjIkGfylXRBI) | 2:39 |
 | 3 | [Turning Onto You](https://open.spotify.com/track/4tl5Knezh7Qohx4TWgJFpP) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Turning Onto You](https://open.spotify.com/album/19IxPhDOBKzybB79cFUNnF) | 3:21 |
 | 4 | [Stay Alive](https://open.spotify.com/track/0ZNYGrmcehorhh9JOeg5Iv) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Stay Alive \(From The Secret Life Of Walter Mitty\)](https://open.spotify.com/album/1bOzvOad5Oirmr1ewGlnKs) | 4:26 |
 | 5 | [Coming Home](https://open.spotify.com/track/3jRPGXCJVVCFZTDIGOk2WH) | [Fay Wildhagen](https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P) | [Coming Home](https://open.spotify.com/album/57YwnLtf7BosgnrpqycowZ) | 3:28 |
 | 6 | [Crystals](https://open.spotify.com/track/5wU6jk9kxYzFGUpeE6T2Q5) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Beneath The Skin](https://open.spotify.com/album/2mD97VgxTRfwB8F5tvkwrL) | 4:03 |
 | 7 | [Let Go](https://open.spotify.com/track/6sxBh5RVUA3IP5i93WLIDn) | [Louien](https://open.spotify.com/artist/3ZwQaquUgrZdqoWDtVUUMY) | [Let Go](https://open.spotify.com/album/3qnowTLuRg2RxHRztC22DG) | 2:41 |
-| 8 | [Forest Fires](https://open.spotify.com/track/6Vejmu5dz6MMOnn2pIko9q) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [Forest Fires](https://open.spotify.com/album/7AabGPOL1FA2NO2ge0vtn9) | 3:30 |
+| 8 | [Ulveham](https://open.spotify.com/track/6awPQdcqY8IYdHzqhEYm3s) | [Gåte](https://open.spotify.com/artist/3YxkGgMvqCQA75aFpy6524) | [Ulveham](https://open.spotify.com/album/1GtVgb3TUKeAn466kCjgwJ) | 3:02 |
 | 9 | [Halloween Costume](https://open.spotify.com/track/1vv16Pho6EfYcpsO5hydxh) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Halloween Costume](https://open.spotify.com/album/7p1474NP93HoaWyfjds5Tw) | 2:29 |
 | 10 | [All of Me](https://open.spotify.com/track/0VFbizmhEILidyQBvPOjCx) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [All of Me](https://open.spotify.com/album/0wEaalS9Qna2fCrgnLMPDc) | 2:56 |
 | 11 | [Here Comes The Sun](https://open.spotify.com/track/3qDlYd3hhaWo1xg6AgbzhQ) | [Hush Forever](https://open.spotify.com/artist/5MIIeE6xoDQNqwSMTweWlv) | [Here Comes The Sun](https://open.spotify.com/album/1Uqnmck9tbT6OSQMrW5Stw) | 3:12 |
-| 12 | [Cemetery](https://open.spotify.com/track/0y4zq960wgBj2gTdpshCZ1) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Goodbye to the Valley Low](https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91) | 2:52 |
+| 12 | [Forest Fires](https://open.spotify.com/track/6Vejmu5dz6MMOnn2pIko9q) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [Forest Fires](https://open.spotify.com/album/7AabGPOL1FA2NO2ge0vtn9) | 3:30 |
 | 13 | [Asymmetry](https://open.spotify.com/track/42PkrZXRieevKfmgxOfDFv) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [Asymmetry](https://open.spotify.com/album/7hUysjVpItw73HUo8VS5Tq) | 4:04 |
-| 14 | [Way down We Go \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3inSmIa388icRdpDi5ecJd) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 3:13 |
+| 14 | [Cemetery](https://open.spotify.com/track/0y4zq960wgBj2gTdpshCZ1) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Goodbye to the Valley Low](https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91) | 2:52 |
 | 15 | [Brick by Brick](https://open.spotify.com/track/4bhQUsObZYGGtiZPe2kGYN) | [August Green](https://open.spotify.com/artist/4ZoIkqWHz47n5xuIfVbncu) | [Brick by Brick](https://open.spotify.com/album/2MyNPpaEbiLzjwXkMrjIfz) | 3:38 |
 | 16 | [Hindsight](https://open.spotify.com/track/1oNhUK7wYAITgmDiAFoKYZ) | [Hafdís Huld](https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5) | [Hindsight](https://open.spotify.com/album/60H5w2fXHEJX2gQjoCCjaQ) | 3:24 |
 | 17 | [Echoes](https://open.spotify.com/track/5YMEMDmLVnDqvLUirzLRqu) | [Fay Wildhagen](https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P) | [Echoes](https://open.spotify.com/album/638VM8l8718I1qj9MlXILl) | 3:47 |
 | 18 | [Have This Dance](https://open.spotify.com/track/4csq4gihsVZNrpGmIpaIsF) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [Have This Dance](https://open.spotify.com/album/4zKvZUoXI2dWuHsUdpk3z5) | 3:34 |
-| 19 | [Love is All](https://open.spotify.com/track/5u9NUat59IiQFVEzZ4r3Np) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [The Wild Hunt](https://open.spotify.com/album/2iZD3ggZbHlAg64cM9iQco) | 4:15 |
+| 19 | [Way down We Go \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3inSmIa388icRdpDi5ecJd) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 3:13 |
 | 20 | [You Wanted Free](https://open.spotify.com/track/2powPYtAtRWlwYWgqJiZMC) | [Alexander Grandjean](https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp) | [Songs From The Woods](https://open.spotify.com/album/3ijVpnglTn2BBI6DTDcHRV) | 2:57 |
-| 21 | [the man](https://open.spotify.com/track/6OTVvKhi3Wb16TEiQEokrs) | [de clair.](https://open.spotify.com/artist/0XcoKb34hnRUc4u9agLp6o) | [the man](https://open.spotify.com/album/5c4WcxUUeJNjIkGfylXRBI) | 2:39 |
+| 21 | [Love is All](https://open.spotify.com/track/5u9NUat59IiQFVEzZ4r3Np) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [The Wild Hunt](https://open.spotify.com/album/2iZD3ggZbHlAg64cM9iQco) | 4:15 |
 | 22 | [Love Me One More Time](https://open.spotify.com/track/4bXsNJgYxshTRZHevGj18v) | [Jonas Wallin](https://open.spotify.com/artist/1nj8AqytomxmHbAtYweL0w) | [Love Me One More Time](https://open.spotify.com/album/2PY0w8l8TivHXSR6qc8LWA) | 3:09 |
 | 23 | [Wolf](https://open.spotify.com/track/3pMUTmKGA5hWOWpzf82xn0) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Wolf](https://open.spotify.com/album/0rWBMz1deEBd4l2TAsW7dq) | 3:40 |
 | 24 | [Halo](https://open.spotify.com/track/4JaoU6fL2Ifz2gDyFYtpiP) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm), [Linnea Olsson](https://open.spotify.com/artist/5URaqWGLWi0maxmjctj8I0) | [Rarities](https://open.spotify.com/album/1bvAlOqMbnWLwTcp65kSAP) | 3:52 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 59 | [Rolling Thunder](https://open.spotify.com/track/4h6unbwOKDPWeSizNav2nd) | [Alberta Cross](https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq), [L'aupaire](https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE) | [Rolling Thunder](https://open.spotify.com/album/1OfUQjs3de9iU5C2bYbmYc) | 4:01 |
 | 60 | [i went outside](https://open.spotify.com/track/4FqqjYkdjKttebtiv6ovJL) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [i went outside](https://open.spotify.com/album/62WGQjLeIZ2aZ5yA8Tth25) | 4:53 |
 
-Snapshot ID: `MCxkZjYwZGM0MWU5OWRiMzI3M2VlZmEyZjI3ZmQ1MDVkODhhNjJjYjc1`
+Snapshot ID: `MCw2Y2UwNzgxZTEyZGIwYzhiNzc4Y2NjMzViMTJiYjNhZDUyZTNjY2M3`

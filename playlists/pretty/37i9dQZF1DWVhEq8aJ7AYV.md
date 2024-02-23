@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhEq8aJ7AYV.md) - [plain]
 
 > Tengan a la mano las máscaras de lucha libre y la tabla de surf.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,042 likes - 75 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,057 likes - 75 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhEq8aJ7AYV.md) - [plain]
 | 74 | [Space Oddity](https://open.spotify.com/track/1aqKNWVSHrdJNxYTtl8kZU) | [The Neanderthals](https://open.spotify.com/artist/3IEkhYN4pmmS1XFtB2cAT8), [Eddie Angel \(Los Straitjackets\)](https://open.spotify.com/artist/1vo1sJls2CJ26A7VcvWEqC) | [The Neanderthals In Space](https://open.spotify.com/album/18Q5PGVJ162yrxJvZD6Uei) | 2:59 |
 | 75 | [surf nouveau](https://open.spotify.com/track/5T5ooP6MVPkoPi6vjJfnxo) | [The Aqua Velvets](https://open.spotify.com/artist/2jim1jhi2L8h3YnFicGbov) | [Nomad](https://open.spotify.com/album/5mbVRo73uR3kw6dD6GuFt7) | 3:39 |
 
-Snapshot ID: `MCxmZmQyMzMyMTUxMTdhNTE3NWMxODNjZmVhZTYyMDU4ZjEyMzE4MDZl`
+Snapshot ID: `MCxkZWUxOGUzOThkY2ViYzIxNGNhYWYwMWJiYzExYWY2NWU1ODUyNzdl`

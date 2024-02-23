@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA91mpJ5Ldc.md) - [plain]
 
 > Música brasileira para temperar as receitas do dia\-a\-dia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,591 likes - 60 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,608 likes - 60 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA91mpJ5Ldc.md) - [plain]
 | 59 | [Apesar de Você](https://open.spotify.com/track/0gTWSdIl8bUq7us45K3PZh) | [Francisco, el Hombre](https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg) | [Apesar de Você](https://open.spotify.com/album/4ol2nFnfys22NkU5wAys79) | 4:35 |
 | 60 | [Dias de Janeiro](https://open.spotify.com/track/05m3Pl8gI9JiySe6IoISa5) | [Otto](https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK) | [Condom Black](https://open.spotify.com/album/79PfK4UpwBYNTmfb3OQEas) | 5:42 |
 
-Snapshot ID: `MCwxYjAxODhiNjhlMWY5ZjVjY2FiNzAwY2MxNjhhMDMzYzZlNGRiYjEx`
+Snapshot ID: `MCw1MjMxOTgwMWRiZGM0Mjg2NWIwYzIzZjY1ZjI4MmQ1NzY5YjM4ZmFh`

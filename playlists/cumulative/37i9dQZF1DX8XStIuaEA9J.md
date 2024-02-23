@@ -4,7 +4,7 @@
 
 > 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: syudou
 
-267 songs - 15 hr 57 min
+268 songs - 16 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [unravel](https://open.spotify.com/track/0Cez33GqDU7Pw5rqOVUPpU) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado's Utattemita Album](https://open.spotify.com/album/2tGokYNjX87AAodtbLBYuf) | 3:58 | 2023-12-22 | 2024-01-29 |
 | [Unstable](https://open.spotify.com/track/0kzF81ArFP6NwGUn6E4EXu) | [空音](https://open.spotify.com/artist/3rTxb36W3M1BCxx00iiwMU) | [Life Teller](https://open.spotify.com/album/0CtGAU2zSJQdzX3POIRtN5) | 3:26 | 2023-11-23 | 2023-11-29 |
 | [utatane](https://open.spotify.com/track/1h5ehmENTsi5d8P7bzI4t6) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [Holy Night](https://open.spotify.com/album/0pE8RdY5oe6qtnd3guQSam) | 3:01 | 2024-01-04 |  |
+| [Value](https://open.spotify.com/track/6BEnpVB7g2j8mzWs3MC2kh) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Value](https://open.spotify.com/album/63xNXfql8mdsOd1fZjodbf) | 3:05 | 2024-02-22 |  |
 | [Veranda feat\. Kanano Senritsu](https://open.spotify.com/track/4eQy3KR6AwncK3adZNJVV3) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5), [戦慄かなの](https://open.spotify.com/artist/54gCiGV7c68le0eU5pIRup) | [Veranda feat\. Kanano Senritsu](https://open.spotify.com/album/34sAFOo66Y8VNbSDVBr8U8) | 3:28 | 2024-02-13 | 2024-02-21 |
 | [Welcome](https://open.spotify.com/track/2eret7tEFawBg7ivErrSdx) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [Welcome to My Castle](https://open.spotify.com/album/7gkjbmsbhiXCDPmKYGPk2l) | 3:17 | 2023-12-12 | 2023-12-20 |
 | [Winter Candle](https://open.spotify.com/track/4msb9K8jtCWI8MJgnyt3ro) | [A夏目](https://open.spotify.com/artist/2HUc3XMRhQi0UBcSGGa0mH) | [Winter Candle](https://open.spotify.com/album/3Ll0Gxx43IIuBwhJuAH5Du) | 4:04 | 2023-11-23 | 2023-11-29 |
@@ -186,7 +187,7 @@
 | [コンパクトミラー](https://open.spotify.com/track/0OjN6CZMsjEFBAIUeN3J7R) | [kiwano](https://open.spotify.com/artist/2gWOEyfr0ms1TzCQmIQ2IS) | [コンパクトミラー](https://open.spotify.com/album/1KSdaSWekXgtyjrtIlTfcX) | 3:21 | 2024-01-04 | 2024-01-24 |
 | [サクラキミワタシ](https://open.spotify.com/track/4bM9itWEyMkLUSd2VeROAd) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [サクラキミワタシ](https://open.spotify.com/album/4gOlBkqSeyF4uZPey6aZAd) | 3:22 | 2024-01-09 |  |
 | [シュガースポット](https://open.spotify.com/track/5KQnoIToRhc46PsWoiv5iq) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [シュガースポット](https://open.spotify.com/album/7CogGI6l5nM7bXFcQfg0Wg) | 3:50 | 2023-11-23 | 2023-12-13 |
-| [ショコラカタブラ](https://open.spotify.com/track/6nhGcCOyjnHshIJjPROEBF) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado "Ready For My Show Playlist"](https://open.spotify.com/album/31LvSRXGPVhYs2EZFK0BEU) | 3:03 | 2024-02-08 |  |
+| [ショコラカタブラ](https://open.spotify.com/track/6nhGcCOyjnHshIJjPROEBF) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado "Ready For My Show Playlist"](https://open.spotify.com/album/31LvSRXGPVhYs2EZFK0BEU) | 3:03 | 2024-02-08 | 2024-02-23 |
 | [ジングル](https://open.spotify.com/track/6IQuANQN2e61EoNTZf3r5O) | [悠馬](https://open.spotify.com/artist/47kIb7z5wndfkWHdRN34kO) | [ジングル](https://open.spotify.com/album/5rEU14CuDKV5CASdI38Qpo) | 3:24 | 2023-11-29 | 2023-12-06 |
 | [スノードーム](https://open.spotify.com/track/4OBzP1c7KL73CkLKmKziH0) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [スノードーム](https://open.spotify.com/album/1JiqiqZQkIlx8azFzzz3uV) | 3:18 | 2023-11-23 | 2024-01-19 |
 | [スーパー愛したい \- fantastic ver.](https://open.spotify.com/track/314Q8YaLGYZg6bZCx9dbje) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [ファンタジーな祝日を!!!](https://open.spotify.com/album/2DgoQE2Qb3e990SJER3TIG) | 4:00 | 2024-02-13 | 2024-02-21 |

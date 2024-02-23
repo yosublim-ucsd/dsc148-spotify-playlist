@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 
 > Chill lo\-fi beats to enjoy a great afternoon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,225 likes - 75 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,224 likes - 75 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 | 74 | [Green Stamps](https://open.spotify.com/track/30zouM8GTBeX57AFYDCcDI) | [Tesk](https://open.spotify.com/artist/7ntBtETW7gkufH8Hw38gb4) | [Spotless Minds](https://open.spotify.com/album/502M2AoaTM2CDYghPlH0Mn) | 2:37 |
 | 75 | [Swingtheory](https://open.spotify.com/track/2w7VjB083rwx1oxDW3CbfO) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Over Skies](https://open.spotify.com/album/6h8dWi1kVq0JA4Cg0GCrGJ) | 3:48 |
 
-Snapshot ID: `MCwxY2IzM2ExZTYwMzQ2ODFhNDE3M2QwZDc5ZjE1OGQ4NTY3MTJhMjdk`
+Snapshot ID: `MCxhNGQ0ZDcxMWNlMjlkYzE0Mzc4OTA5ODcyNzJhMGFmMmVlOTk4Nzgz`

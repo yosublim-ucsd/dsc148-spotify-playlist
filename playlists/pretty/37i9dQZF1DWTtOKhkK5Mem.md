@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtOKhkK5Mem.md) - [plain]
 
 > Male artists singing about love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 749,254 likes - 150 songs - 10 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 749,379 likes - 150 songs - 10 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtOKhkK5Mem.md) - [plain]
 | 149 | [Slave To Love](https://open.spotify.com/track/7imzBhHn7KD6ag3letxmSt) | [Bryan Ferry](https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC) | [More Than This \- The Best Of Bryan Ferry And Roxy Music](https://open.spotify.com/album/7MCxE9Sx4zHSXL4xXHm4Im) | 4:19 |
 | 150 | [Movie Star](https://open.spotify.com/track/4a7Z10eGGg3th4H5jqFScX) | [KAIRO](https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v) | [Return To Sender](https://open.spotify.com/album/3jOzdF8WPsqwUp9OznStfw) | 2:52 |
 
-Snapshot ID: `MCxhYTE0MTllOGM4NTBlOTBkZTljYzZmZWY0NjY0NzUzZGFjZmQ5YWEz`
+Snapshot ID: `MCw1NmRkYmZiZTg0ZGM2Mjk1NjgyNTdmMGEzNWQxMWYzOGU3MmU0Mjlm`

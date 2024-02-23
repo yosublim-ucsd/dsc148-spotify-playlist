@@ -4,7 +4,7 @@
 
 > The essential tracks by the Dutch DJ and producer</a>.
 
-118 songs - 7 hr 9 min
+119 songs - 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Breach \(Walk Alone\)](https://open.spotify.com/track/5UHrKSQhNs96msAx8LPVwS) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Blinders](https://open.spotify.com/artist/26JVnujQQ3lEML8t9p3X1J) | [BYLAW EP](https://open.spotify.com/album/5dv1oLETxdsYOkS2Sic00z) | 2:58 | 2021-12-09 |  |
 | [Break Through The Silence \- Radio Edit](https://open.spotify.com/track/2bd7KLt028ssKE0K0WYWXl) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88) | [Break Through The Silence EP](https://open.spotify.com/album/5D8IRQ0MLsDQ5t6CMf6vWV) | 3:24 | 2021-12-09 | 2022-07-29 |
 | [Break Through The Silence \- Radio Edit](https://open.spotify.com/track/2eotSKVADMMV6qaY15qDOd) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88) | [Break Through The Silence EP](https://open.spotify.com/album/5LntuNK1jvjyn9or76TNQ9) | 3:24 | 2022-07-28 |  |
+| [Breakaway](https://open.spotify.com/track/3g0eHwVjGYZaHooqGtKefQ) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Mesto](https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9), [WILHELM](https://open.spotify.com/artist/7g4gQKWTNj0X8BqpKpZFC0) | [Breakaway](https://open.spotify.com/album/3Qf1lsCco4UBhUZF0ydjmx) | 2:45 | 2024-02-22 |  |
 | [Byte](https://open.spotify.com/track/20hsdn8oITBsuWNLhzr5eh) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Brooks](https://open.spotify.com/artist/4mHAu7NX2UNsnGXjviBD9e) | [Byte](https://open.spotify.com/album/7bhogovOiLN8d5QEKltWyc) | 4:45 | 2021-12-09 |  |
 | [Can't Feel My Face \- Martin Garrix Remix](https://open.spotify.com/track/22SXyL6pUjwIvGWvgGjLov) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Can't Feel My Face \(Martin Garrix Remix\)](https://open.spotify.com/album/12yYl13Ce7u8LuhtEl75aQ) | 4:12 | 2021-12-09 |  |
 | [Carry You](https://open.spotify.com/track/31ZO9XuKt48Qb2eUTBynd2) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Third Party](https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO), [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Carry You](https://open.spotify.com/album/1EHfXHtB9Ynnia0yZhV6HO) | 3:35 | 2024-02-15 |  |

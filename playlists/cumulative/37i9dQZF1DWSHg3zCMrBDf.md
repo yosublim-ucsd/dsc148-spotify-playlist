@@ -4,7 +4,7 @@
 
 > The hottest tracks in Ghana\. Cover: King Promise
 
-243 songs - 12 hr 28 min
+244 songs - 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Fallen Angel](https://open.spotify.com/track/3XFc1Q32ssmKglaZKI5iTI) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Fallen Angel](https://open.spotify.com/album/3O8VIa31ZtEh5DKRhMzp2m) | 3:20 | 2024-01-05 |  |
 | [Far Away](https://open.spotify.com/track/6ytwuDs4xBbt0TllrIZi4C) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Far Away](https://open.spotify.com/album/57oEI8ZsS1oPc6bYwgfNiT) | 2:19 | 2023-03-30 | 2023-05-27 |
 | [Fate](https://open.spotify.com/track/1QCV9ndrHVnqtMcqXszEN6) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Fate](https://open.spotify.com/album/4ReLbue8ShBMjIGbJjGGAw) | 2:58 | 2023-09-14 | 2023-11-14 |
-| [FEEL](https://open.spotify.com/track/1mk8ZC9OeTZMr8Wy31LqRj) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:34 | 2023-05-26 |  |
+| [FEEL](https://open.spotify.com/track/1mk8ZC9OeTZMr8Wy31LqRj) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:34 | 2023-05-26 | 2024-02-23 |
 | [Feel Good](https://open.spotify.com/track/0int0g8dikLn0uhd1b1iZu) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Feel Good](https://open.spotify.com/album/3SYYiw2TfVVlau3XAu5NHG) | 2:49 | 2023-09-27 | 2023-11-14 |
 | [Fine Wine \(feat\. King Promise & Joeboy\)](https://open.spotify.com/track/3E3WIVDBt4rX4N2kRrwSah) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Fine Wine \(feat\. King Promise & Joeboy\)](https://open.spotify.com/album/3f6FbIilED8NakLgcWAhqi) | 3:50 | 2021-06-25 | 2023-05-27 |
 | [Finesse](https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse](https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1) | 2:35 | 2022-07-07 | 2023-05-27 |
@@ -228,6 +228,7 @@
 | [Tested, Approved & Trusted](https://open.spotify.com/track/05A6mr7C2bP7uPrEQrj9qk) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [I Told Them...](https://open.spotify.com/album/51r39Gm18d7yIS3PC1QD8B) | 3:40 | 2023-11-13 |  |
 | [Therapy](https://open.spotify.com/track/1qIATFQg93M6KvhPh9QSNc) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Therapy](https://open.spotify.com/album/5HTQ5jXZYHmG0rsYpABqGp) | 3:05 | 2022-05-05 | 2023-05-27 |
 | [Till We Die \(feat\. Ruger\)](https://open.spotify.com/track/0tdbVxn9Qewgtv2lUgD8aD) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Till We Die \(feat\. Ruger\)](https://open.spotify.com/album/75BdyAVpJgWI6Dmz9qc9zY) | 3:03 | 2023-10-27 |  |
+| [Ting Ting](https://open.spotify.com/track/4pPjtltszSbjBFzM0KCEqs) | [Oseikrom Sikanii](https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN) | [Ting Ting](https://open.spotify.com/album/5SovjJsCQZwm4zGoVCq2TK) | 3:02 | 2024-02-22 |  |
 | [Tomorrow](https://open.spotify.com/track/4F1qhy14MdQoYcgrJUGt3a) | [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK) | [Tomorrow](https://open.spotify.com/album/6rXRhlh1NEEI5eLb6UdRVk) | 2:28 | 2023-05-11 | 2023-07-21 |
 | [Tornado](https://open.spotify.com/track/52L1OTjUe8Zmz8xQH9HENi) | [Tripcy](https://open.spotify.com/artist/5O7sGyn3CPojVAPQAtVApn), [Nektunez](https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72) | [Tornado](https://open.spotify.com/album/339rnWvetNqZTAZzxrlv35) | 2:38 | 2023-04-27 | 2023-05-27 |
 | [Touch It](https://open.spotify.com/track/3h3xeg5OGNYVM0U9rOAc6j) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Touch It](https://open.spotify.com/album/3VDgHI9zYEzSeH1dv8ij1c) | 2:45 | 2021-05-06 | 2023-02-24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsObZRzO8Xw.md) - [plain]
 
 > Welcome to the universe of complex rhythms and mesmerizing loops\. Cover: LITE
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,475 likes - 100 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,554 likes - 100 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsObZRzO8Xw.md) - [plain]
 | 99 | [003: Haiyah!](https://open.spotify.com/track/0c0bDlQjSzaEZEOb3TJdm3) | [DJ Perro](https://open.spotify.com/artist/4JBHP6FfjpOBZsb0aY6zxE) | [003: Haiyah!](https://open.spotify.com/album/1FKjY7xOj7quTktAnX2hUE) | 3:54 |
 | 100 | [El Sol Es un Holgazán](https://open.spotify.com/track/5m3QSbDsffb9ROpMlYZsGR) | [Corriendo](https://open.spotify.com/artist/1PL7VVHo2DOSgg3Ak6S29w) | [Abajo la Tarea](https://open.spotify.com/album/74s1lnDnhjzuDdK3LovTXs) | 2:21 |
 
-Snapshot ID: `MCw5NDM1NjQ1YzBlODJkMjM0MjUzYTJhNjU3MzIxOTA4YjRhOTMzMmMy`
+Snapshot ID: `MCw5ZDU0MTRmZGQzOWViYzRlNzJmZDIxOTJiMTFmNWVmNGYyZjM4MmQ2`

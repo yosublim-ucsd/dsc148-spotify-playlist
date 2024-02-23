@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 
 > Le meilleur de la scène alternative québécoise actuelle\. Photo: Corridor
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,135 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,137 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 | 74 | [Sur la pointe des pieds](https://open.spotify.com/track/5kOivCUmRhPe9aSQCN7zy7) | [Allô Fantôme](https://open.spotify.com/artist/48P9cQW6qwEGKMfeM60h2i) | [Allô Fantôme](https://open.spotify.com/album/4EAVVokg9wiZN1vineldV8) | 6:36 |
 | 75 | [Doux doux](https://open.spotify.com/track/4NuOtpcC2inuP8vucJgz0D) | [Jesuslesfilles](https://open.spotify.com/artist/4lg0G5z7GXpJtAYTR9WC0W) | [L'heure idéale](https://open.spotify.com/album/2QsjTHO6QeITKll9jecLwR) | 3:24 |
 
-Snapshot ID: `MCxjMWI2MTNlYTkzNmJjZDRkMzBjYjdmODA5ZjFhNTE0YzAyM2QzYWYz`
+Snapshot ID: `MCxhNjdhNzliMmIxOTlhYzgzMGJmODYxZmVkMDAwYjhjYmZkOWE3Mzgz`

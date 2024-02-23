@@ -1,12 +1,12 @@
 {
   "description": "dig through the record bin.",
-  "num_followers": 205866,
+  "num_followers": 206131,
   "original_name": "Thrifted",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMTVlYmZmY2Y0YzFmOTA5ZTViNGQ1NjZlMDZhYmVlYzRlOWM1ZDM1",
+  "snapshot_id": "MCw0MzE0ZWIyMGZlNTkwZDUxZGUwNTFkMWJlMzZiMmVmMDgzMjEzNzk5",
   "tracks": [
     {
       "added_at": "2024-02-07 18:19:28",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-02-07 18:19:28",
       "album": {
-        "name": "Blondshell",
-        "url": "https://open.spotify.com/album/7rG4h8pLLcr6kW30cbSWD8"
-      },
-      "artists": [
-        {
-          "name": "Blondshell",
-          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
-        }
-      ],
-      "duration_ms": 216852,
-      "name": "Olympus",
-      "url": "https://open.spotify.com/track/2pqi703QQcp2zsuS3NgCii"
-    },
-    {
-      "added_at": "2024-02-07 18:19:28",
-      "album": {
         "name": "Without a Sound",
         "url": "https://open.spotify.com/album/0yxM1OyaFOZiJhi9eNThE4"
       },
@@ -1291,22 +1275,6 @@
     {
       "added_at": "2024-02-07 18:19:28",
       "album": {
-        "name": "Go Man Go",
-        "url": "https://open.spotify.com/album/0NIscR0RzlDtKmHFR3ya1s"
-      },
-      "artists": [
-        {
-          "name": "The Breeders",
-          "url": "https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp"
-        }
-      ],
-      "duration_ms": 136266,
-      "name": "Go Man Go",
-      "url": "https://open.spotify.com/track/4gC9PZqUSZbfzm8LEygxZD"
-    },
-    {
-      "added_at": "2024-02-07 18:19:28",
-      "album": {
         "name": "Loveless",
         "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
       },
@@ -1319,6 +1287,22 @@
       "duration_ms": 257519,
       "name": "Only Shallow",
       "url": "https://open.spotify.com/track/52UcjsM15hjCQAUbTW2hy1"
+    },
+    {
+      "added_at": "2024-02-07 18:19:28",
+      "album": {
+        "name": "Go Man Go",
+        "url": "https://open.spotify.com/album/0NIscR0RzlDtKmHFR3ya1s"
+      },
+      "artists": [
+        {
+          "name": "The Breeders",
+          "url": "https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp"
+        }
+      ],
+      "duration_ms": 136266,
+      "name": "Go Man Go",
+      "url": "https://open.spotify.com/track/4gC9PZqUSZbfzm8LEygxZD"
     },
     {
       "added_at": "2024-02-07 18:19:28",
@@ -1631,6 +1615,22 @@
       "duration_ms": 223640,
       "name": "Sandusky",
       "url": "https://open.spotify.com/track/0rib9hiYy1NWL0w8BUYgmd"
+    },
+    {
+      "added_at": "2024-02-07 18:19:28",
+      "album": {
+        "name": "Ray of Light",
+        "url": "https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 308880,
+      "name": "Drowned World / Substitute for Love",
+      "url": "https://open.spotify.com/track/0beXeFEWUYYY13fYVHTtFk"
     }
   ],
   "unique_name": "Thrifted",

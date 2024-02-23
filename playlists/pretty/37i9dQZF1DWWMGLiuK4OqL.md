@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWMGLiuK4OqL.md) - [plain]
 
 > The soft sound of some of the smoothest and sweetest vocal Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,529 likes - 200 songs - 13 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,646 likes - 200 songs - 13 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWMGLiuK4OqL.md) - [plain]
 | 199 | [Cover Up](https://open.spotify.com/track/4uG1SPiRluQnbhRdfsgSYU) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Christine Jensen](https://open.spotify.com/artist/6ILqwG2NEsYuwmqIzZ1Spu) | [Cover Up](https://open.spotify.com/album/7JXds7hOl3z4LGfx8xTorg) | 6:06 |
 | 200 | [It Could Happen to You](https://open.spotify.com/track/394KDSNViy2bwXtHw6Tk8F) | [Judy Whitmore](https://open.spotify.com/artist/2gzKEkaudJ2BTHE3o68se5) | [Isn't It Romantic?](https://open.spotify.com/album/7lgznc93SEj6gYWbO9MOmi) | 3:32 |
 
-Snapshot ID: `MCwwYzQxODgxZjMzMWUyYzkwNzA0NGQ1Nzk0MmFkZTM3NmFhZjlmODQz`
+Snapshot ID: `MCw5YmM3YjQxYzE3NWM1MjUyMjBhZDkxNDg3NjZmZDZmYjUwMjE1YTg2`

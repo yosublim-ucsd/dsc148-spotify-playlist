@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQebjaPYhvs.md) - [plain]
 
 > The official playlist for <a href="spotify:user:0ouhj3nctpqgo8bgamzte2o6o">Paramount Network</a>'s Yellowstone.
 
-[Spotify](https://open.spotify.com/user/spotify) - 416,518 likes - 197 songs - 12 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 417,344 likes - 197 songs - 12 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,7 +111,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQebjaPYhvs.md) - [plain]
 | 101 | [Orange Bus](https://open.spotify.com/track/61u88CKSEw98wssFk8kexC) | [Brock Tyler](https://open.spotify.com/artist/4T0Qlfv0mPuMiX9PBaRkeb) | [Unclosing](https://open.spotify.com/album/6Wnbm2suEM9WbHqNcWptiJ) | 1:21 |
 | 102 | [Love Someone](https://open.spotify.com/track/6VsI7EZPBKskkkUPT6mrOT) | [Dani Rose](https://open.spotify.com/artist/2cbJIwmifF9ZZO8yhoZHo8) | [Love Someone](https://open.spotify.com/album/4tJ4uQSqHlYSLUXQq0BJaE) | 3:14 |
 | 103 | [Under Your Influence](https://open.spotify.com/track/7LLpt1hGZHIrSKt9zoDogD) | [Dani Rose](https://open.spotify.com/artist/2cbJIwmifF9ZZO8yhoZHo8), [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Under Your Influence](https://open.spotify.com/album/4B6hfEUdXTkCfK9vLHegXi) | 3:35 |
-| 104 | [That Would Be Alright](https://open.spotify.com/track/6Jee1gQ5P42GHckmnGleL2) | [Lincoln Grounds](https://open.spotify.com/artist/3IvMomEciLsUnn0Kd6jtDJ), [Thomm Jutz](https://open.spotify.com/artist/1ebv4m89CN6v5nKtG0yu2D) | [Start Right Here](https://open.spotify.com/album/78RCzBIDEJymGU98erPOzG) | 3:22 |
+| 104 | [That Would Be Alright](https://open.spotify.com/track/4Db3Z93uKXBgGCoRYLzKC1) | [Lincoln Grounds](https://open.spotify.com/artist/3IvMomEciLsUnn0Kd6jtDJ), [Thomm Jutz](https://open.spotify.com/artist/1ebv4m89CN6v5nKtG0yu2D) | [Start Right Here](https://open.spotify.com/album/7zvb4BCGx3MKhKISxEJlhF) | 3:22 |
 | 105 | [Dreams and Gasoline](https://open.spotify.com/track/3eng6pOVl3hVdnHrvWbeJj) | [Rob Baird](https://open.spotify.com/artist/1eE9EMjfAxDNT22LXc4Xpt) | [I Swear It's the Truth](https://open.spotify.com/album/5j5erAxcsHEfXVMpnZjPky) | 4:41 |
 | 106 | [Fast Stack](https://open.spotify.com/track/5AVmuEaNjeIQvrnvd8ZWzl) | [William Wild](https://open.spotify.com/artist/3DrB9nBkn2tfhXxSsKAaor) | [William Wild](https://open.spotify.com/album/1NT7YqPsTFkiaLQybuh4DE) | 5:22 |
 | 107 | [You Can't Bring Me Down](https://open.spotify.com/track/203xxdlledLFnkqrUleD72) | [Suicidal Tendencies](https://open.spotify.com/artist/3WPKDlucMsXH6FC1XaclZC) | [Lights...Camera...Revolution](https://open.spotify.com/album/414jOqUfrq3k2QlAddNXfT) | 5:48 |
@@ -206,4 +206,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQebjaPYhvs.md) - [plain]
 | 196 | [Yellowstone Main Titles](https://open.spotify.com/track/2UJvq5v0tSh1UrtINtKhMn) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr) | [Yellowstone \(Original Television Series Soundtrack\)](https://open.spotify.com/album/3B3SP3uBMl7n2UsJb5ZH7L) | 1:09 |
 | 197 | [Yellowstone Theme](https://open.spotify.com/track/39dFpriXYV9LfUSRJZXqyI) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr) | [Yellowstone \(Original Television Series Soundtrack\)](https://open.spotify.com/album/3B3SP3uBMl7n2UsJb5ZH7L) | 2:28 |
 
-Snapshot ID: `MCxjYjFkODkwYzNjMTI2MDUzZjMxOGQ5N2VjOTU4MGRkYzlmODYyYTY4`
+Snapshot ID: `MCw1MTM5NmQ1NmIyMGU0NzI1N2M5ZWY0ZjkxMDM2MGY3MjgwYzQzOTM1`

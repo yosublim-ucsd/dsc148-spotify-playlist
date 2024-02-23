@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MLFaUdXnjA.md) - [plain]
 
 > Keeping it lowkey with the best chill pop\. Cover: Sasha Alex Sloan
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,816,053 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,816,068 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MLFaUdXnjA.md) - [plain]
 | 71 | [Let The Light In \(feat\. Father John Misty\)](https://open.spotify.com/track/4qG7hWhljsqqENL5PaLA2z) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:38 |
 | 72 | [east side](https://open.spotify.com/track/2AqZLF7yk7Jf17Be1i6jcO) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [east side](https://open.spotify.com/album/0TqA7jHzMVftg6xeMa9ZZj) | 2:45 |
 | 73 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 |
-| 74 | [Sleepyhead](https://open.spotify.com/track/2Nf1xezlclOKIUiAIvkjVU) | [david hugo](https://open.spotify.com/artist/0IErJSgNHRD1DAH0X7yHvn) | [Sleepyhead](https://open.spotify.com/album/7vtEGgaefryUMRilWJ8zGD) | 3:14 |
+| 74 | [Sleepyhead](https://open.spotify.com/track/0swLKGvJZnbROxhHggpVBa) | [david hugo](https://open.spotify.com/artist/0IErJSgNHRD1DAH0X7yHvn) | [Sleepyhead](https://open.spotify.com/album/10nDX7ZVSymEXVDQxtemR8) | 3:14 |
 | 75 | [Moon](https://open.spotify.com/track/3jJNg3l3NoZwQKESfr04VS) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Everything To Everyone](https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ) | 2:59 |
 | 76 | [Heather](https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:18 |
 | 77 | [Apocalypse](https://open.spotify.com/track/0yc6Gst2xkRu0eMLeRMGCX) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA) | 4:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MLFaUdXnjA.md) - [plain]
 | 99 | [One More Shot](https://open.spotify.com/track/54SXW7yYS36p8rOMFGmcoN) | [CIL](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [One More Shot \(One Take Version\)](https://open.spotify.com/album/1mgYvDEkZoWqoNjnMU6QhI) | 2:21 |
 | 100 | [Hopelessly Devoted To You \- Spotify Single](https://open.spotify.com/track/3ab4v5DEX5BTlfKp5PA6yu) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [Spotify Singles](https://open.spotify.com/album/0C1QF5MYNtmIJno4gzufLi) | 3:10 |
 
-Snapshot ID: `MCxiNGVmZGRlZTM4ODZjZTgxMjYyOGVmODdmMmNmNmIyYWFjMGYzYmY1`
+Snapshot ID: `MCxjZDY3MzE1YTc2NjM1MjgwYjE4NTNlNmE4ZjkwN2M3MGY0N2QwY2Ex`

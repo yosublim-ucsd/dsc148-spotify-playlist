@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Dfa7kD6dg.md) - [plain]
 
 > New York salsa...it's home.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,585 likes - 115 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,624 likes - 115 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Dfa7kD6dg.md) - [plain]
 | 114 | [El Cantante](https://open.spotify.com/track/3gIZxkCKjNP1tft5TynUED) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Marc Anthony "El Cantante" OST](https://open.spotify.com/album/4MRdW6rlNSqpnCAZKGxqLC) | 6:47 |
 | 115 | [Insaciable](https://open.spotify.com/track/2NhpUxYubhTbFqn8PFNfwo) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Serie Millennium: Eddie Santiago](https://open.spotify.com/album/6trSesFexVgSw7P7eeSN6L) | 4:29 |
 
-Snapshot ID: `MCxhOWRmZGU2NDJiMWNjNWE0MjA4MmIyYjdiNzZjYzViYjRhMzYxNjEw`
+Snapshot ID: `MCwwNTE4YjY1NTYyYzg2ZDAxOWYyZmJkMmM0NjUwMTU4Yjg3YjUzN2U2`

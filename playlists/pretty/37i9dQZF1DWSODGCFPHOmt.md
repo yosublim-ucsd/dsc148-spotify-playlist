@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSODGCFPHOmt.md) - [plain]
 
 > Música navideña para las fiestas decembrinas\. Cover: Panter Belico
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,977 likes - 80 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,978 likes - 80 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSODGCFPHOmt.md) - [plain]
 | 79 | [Te Deseo Muy Felices Fiestas \- Have Yourself a Merry Little Christmas](https://open.spotify.com/track/4A1hU6E70LLwHowQH8CEyv) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Te Deseo Muy Felices Fiestas \(Have Yourself a Merry Little Christmas\)](https://open.spotify.com/album/5jGysGd2338AcYE2ia0JHC) | 3:57 |
 | 80 | [Vamonos de Fiesta](https://open.spotify.com/track/3FTz7HqpK34vdYfPUiDkrV) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Feliz Navidad Con Banda el Recodo de Cruz Lizárraga](https://open.spotify.com/album/4O4jEe27pdyAt631nGTaAE) | 3:14 |
 
-Snapshot ID: `MCw2N2I5MWI5ODU5Nzg4NjdkMGM4NmRhMjdjY2Q5OWY1ZGY5YzE2ZTI4`
+Snapshot ID: `MCxlOGVmYzg1ZmE5ODI1MmMzZDAwYjFlOTczNDQxODIxY2M5ODQ5Nzlk`

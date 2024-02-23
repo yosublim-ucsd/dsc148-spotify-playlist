@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 
 > Dos estilos, dos sonidos, un mismo origen: El Barrio\. Neto Peña, Zxmyr en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,671 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,724 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 | 99 | [Humo Pal Relax](https://open.spotify.com/track/030ysyn4nsX7qBNNoT1lKd) | [La Autorización](https://open.spotify.com/artist/1V9705vd14WxDwXeTp2TYJ), [Dylan Coronel](https://open.spotify.com/artist/3oBZXbSQHXnxp9sWJcUT7j) | [Humo Pal Relax](https://open.spotify.com/album/6FGYBgwaxqqFnSFlPPMp2X) | 2:09 |
 | 100 | [Gallo y Mi Cuerno](https://open.spotify.com/track/5spGDsdSSflFVnhSzIRAnS) | [Angel Tumbado](https://open.spotify.com/artist/6Vlv2tBpKw6ib5C7DHkOfq) | [Gallo y Mi Cuerno](https://open.spotify.com/album/76uSaPvd5aVD1TBzrQG39S) | 2:32 |
 
-Snapshot ID: `MCxlZGM0ZTM0MTAwMWJhZjE1NDUwYzE2YmM5MzZlZGRjNmRmM2I1OTQw`
+Snapshot ID: `MCw4M2VjMTRkYzgxZDdlM2Y3NWIzNGU0NDZkNDJjYWY1NDRhOTQ5Yzgx`

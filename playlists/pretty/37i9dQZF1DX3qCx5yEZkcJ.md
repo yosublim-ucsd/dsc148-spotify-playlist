@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,484,730 likes - 80 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,484,770 likes - 80 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 | 79 | [Legend \- Instrumental](https://open.spotify.com/track/6h7oDV8mZDTtml9IV5demY) | [A.O.](https://open.spotify.com/artist/2jfEozrJPe4aHfA86ClOAI) | [Legend \(Instrumental\)](https://open.spotify.com/album/3hm1cBdoB5GIHNH8zOf7dh) | 3:38 |
 | 80 | [piece of you](https://open.spotify.com/track/19L7jhJgZFKBq2nVVtPHAO) | [Jadu Jadu](https://open.spotify.com/artist/2Oe3qtPntosByl21BCcUSc), [TAMBALA](https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F) | [ripple room](https://open.spotify.com/album/1PKYM3W11OpTtq6bdlwoF8) | 2:49 |
 
-Snapshot ID: `MCwwYmZhZWFlZDQzZDJiMDA0N2QwNjg5MjVmM2Y5MjQ5ZDFmZTg5MDhm`
+Snapshot ID: `MCxmMzQxZGNkZGY2YjgzMzA5NTgxODRmMWJkZDhjMmFlODQ5YmNlZGNh`

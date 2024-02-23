@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8Xx03D65RT.md) - [plain]
 
 > La sutileza del piano para enriquecer tu espacio.
 
-[Spotify](https://open.spotify.com/user/spotify) - 441,224 likes - 250 songs - 10 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 441,215 likes - 250 songs - 10 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8Xx03D65RT.md) - [plain]
 | 249 | [Une main tendue](https://open.spotify.com/track/5rqAxnEsenuRJjUAXbzima) | [Céline Aubin](https://open.spotify.com/artist/1uJcXulhTLN9A0F6qrpWeT) | [Une main tendue](https://open.spotify.com/album/33xfKJOTxE3XQPsinEubFw) | 2:01 |
 | 250 | [Magnificent](https://open.spotify.com/track/1gjZYQff9vXXru1KI6XJHd) | [Odette Montano](https://open.spotify.com/artist/3J2sqtWaUCFmoVhS2ibEXC) | [Magnificent](https://open.spotify.com/album/3sBAbDkxVcDKACCpFUcgCn) | 2:34 |
 
-Snapshot ID: `MCwwMmExZTJmNTYzYWY5YjNiMzhjYmJjZWIwODljOWI0MTQ0MTZjZmRi`
+Snapshot ID: `MCxmMzYzOWFkY2FlODUxNWZjYzg1NzFkYThhMThiOGUwNWZmYTk2YjI5`

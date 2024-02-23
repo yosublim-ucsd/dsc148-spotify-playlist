@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,456 likes - 70 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,457 likes - 70 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 69 | [Ellipsis](https://open.spotify.com/track/3MaBdTM6hLwb4n280HJaia) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl), [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [GRIP](https://open.spotify.com/album/6yQiAySk0ELR4cjDCgSqtY) | 3:21 |
 | 70 | [Daydream Repeat](https://open.spotify.com/track/4c7b2Ft8Br0CgJLmt3mI7Z) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Daydream Repeat](https://open.spotify.com/album/0FTFpi4DEZ8yP11kRwVsNK) | 6:08 |
 
-Snapshot ID: `MCxlZTA2NDA2NDUxOTNlYTA3MDFlZmI4MzlkNTg0NTlhMjAwMmIzNTZi`
+Snapshot ID: `MCwzNmMxOGYyNGU2MWRjMzcwNjNjNTlkMGQ1ZTRmY2I5NmM1ZTA3NzVm`

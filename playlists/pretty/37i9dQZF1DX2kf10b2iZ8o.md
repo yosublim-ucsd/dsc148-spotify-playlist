@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kf10b2iZ8o.md) - [plain]
 
 > Music from "Idle Master SideM"\. アイドルマスターSideMの楽曲を1つのプレイリストで。THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,415 likes - 75 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,419 likes - 75 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kf10b2iZ8o.md) - [plain]
 | 74 | [LIVE in your SMILE](https://open.spotify.com/track/5xb0pajvByQuLCiksFCcrE) | [Altessimo](https://open.spotify.com/artist/2viMthZdiHQywTnV7zxUh8), [W](https://open.spotify.com/artist/5cmezlx5oF243CQzRMGAmK), [FRAME](https://open.spotify.com/artist/6rlqCfcfFQ4EQlkqvzGXE0), [彩](https://open.spotify.com/artist/2FqtW7CPZV5K1VIu8eNZ4l), [神速一魂](https://open.spotify.com/artist/4XqIzb0wMoHGuRN6c8Slrd), [S.E.M](https://open.spotify.com/artist/0OLHY6ORia3onwhPvE97I4), [THE 虎牙道](https://open.spotify.com/artist/1oKbpodNLfQLEi6Fgtzbo4), [Legenders](https://open.spotify.com/artist/4iG460lxCJz1J6UYEbYxTR) | [THE IDOLM@STER SideM 4th ANNIVERSARY「LIVE in your SMILE/DREAM JOURNEY」](https://open.spotify.com/album/6BO9rXjfYfGQfcN1ODqeND) | 4:55 |
 | 75 | [運命光年](https://open.spotify.com/track/4gAniioYF8jxhfl5vEz8sC) | [Jupiter](https://open.spotify.com/artist/3lJVQgWgaTtaIQxlNEHTpE) | [THE IDOLM@STER SideM 5th ANNIVERSARY 06](https://open.spotify.com/album/3FPBLf9wQsO8XR1aWQfXzA) | 4:16 |
 
-Snapshot ID: `MCxjMmZjMzAyNmM1YWE2MGQ4MzEyMjY3MzliMGNkNzY2MGNhNjM3ZTgw`
+Snapshot ID: `MCxjYzgwNDAzMzlmNTdiOTMzZjAwZWE4NDUzMzkxMGZkNGRkZjI4MjRl`

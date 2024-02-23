@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 
 > Canciones de ayer y de hoy grabadas a fuego en el corazón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,232 likes - 90 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,258 likes - 90 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 | 89 | [Tonada De Tus Labios](https://open.spotify.com/track/5iynZIlZkHVoWrxXgdhd4N) | [Karamelo Santo](https://open.spotify.com/artist/609ifGTYnL9iOfPI5KIzq1), [Goy Karamelo](https://open.spotify.com/artist/6ivDKC9j7KCZ6vYb9syvcC) | [Tonada De Tus Labios](https://open.spotify.com/album/7CUPx0jk0kMV7CaS8uae5n) | 2:57 |
 | 90 | [Ansiado Encuentro](https://open.spotify.com/track/4bgaEcs1bsLuV49Q67DtRT) | [ALEJANDRO FARIAS](https://open.spotify.com/artist/5p5tYck12ZHCLPdbFp13rh), [La Eulogia Folk](https://open.spotify.com/artist/044zb14KOZosDnxI71XpGr) | [Ansiado Encuentro](https://open.spotify.com/album/3Z3dyIUxHZfTlBarrWrHLR) | 4:35 |
 
-Snapshot ID: `MCxhN2FiZTlhMjc1ZjYxNGNiMWVkZjFlMTc2YjQxYTA0ODVlN2Y5ZTZi`
+Snapshot ID: `MCxiYmZhNDIxMDdhMzQ0YjZkZDI1Mjk1YWNjYjlkNzhmYjc4ODU2YTkx`

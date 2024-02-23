@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 
 > pra curtir o puro afrobeats feito no Brasil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,782 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,811 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 | 49 | [Afasta](https://open.spotify.com/track/6ekpFyv5LxPy6FvHnzTw3C) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu) | [Afasta](https://open.spotify.com/album/5PZq9lvlzx0yx6eXsVPZ4k) | 2:55 |
 | 50 | [Enquanto o tempo passa](https://open.spotify.com/track/7DtF6vbzhFwlxI4eDWsB06) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu) | [Enquanto o tempo passa](https://open.spotify.com/album/3Z25lZgzdpM0Zd1LE3g6u0) | 2:11 |
 
-Snapshot ID: `MCwxODBhNmZlZjM2MjkwNDZmYTZhNTExNmRhZDg3MzYyMDYzMDQyZjdk`
+Snapshot ID: `MCw0OTU2YjZiMWEzNzIwNmZkNzNlYmQ2ODFhZWI5MWY5NGI1ODg1MTIx`

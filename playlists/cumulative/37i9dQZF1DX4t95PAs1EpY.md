@@ -4,7 +4,7 @@
 
 > beats + birds = <3
 
-488 songs - 18 hr 46 min
+490 songs - 18 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Big Wave Surfing](https://open.spotify.com/track/2UoP5BNB4tOW6BchOLMgbu) | [Beats Me, Innit?](https://open.spotify.com/artist/5szil3lhFSrW575RVEyPle) | [Big Wave Surfing](https://open.spotify.com/album/5UGRz4ydUaly6KyHea5J8U) | 2:21 | 2021-12-07 | 2022-09-09 |
 | [bird bath](https://open.spotify.com/track/5gQS58bvi4xhWM26hMskkV) | [May\-Flowa](https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr) | [bird bath](https://open.spotify.com/album/3FZCSBJ8gXOv4mxuLSIUCS) | 1:41 | 2023-11-17 |  |
 | [Birdie Nest](https://open.spotify.com/track/3udESAvwu3koYQ2Exoaqq5) | [Henry Lowe](https://open.spotify.com/artist/1Op6kjtkZu2Yqx5UprLQVt) | [Birdie Nest](https://open.spotify.com/album/0dMdJZ9VH0eRLxn4o68MmA) | 2:06 | 2023-01-13 | 2023-09-29 |
-| [birdies](https://open.spotify.com/track/4kYC7liqGKYiPtBIkcUcHO) | [Flaminguez](https://open.spotify.com/artist/6N1OYOloCfLQRL1NQeHF4x) | [birdies](https://open.spotify.com/album/2k6Ommgt2VnJFEMRxhP6mh) | 1:43 | 2024-01-05 |  |
+| [birdies](https://open.spotify.com/track/4kYC7liqGKYiPtBIkcUcHO) | [Flaminguez](https://open.spotify.com/artist/6N1OYOloCfLQRL1NQeHF4x) | [birdies](https://open.spotify.com/album/2k6Ommgt2VnJFEMRxhP6mh) | 1:43 | 2024-01-05 | 2024-02-23 |
 | [Birdlife](https://open.spotify.com/track/5U8kA1RQpLCfsbeAcFrXys) | [Kotsaku](https://open.spotify.com/artist/28tOzncpNDbM8j0dewexfs) | [clear skies](https://open.spotify.com/album/5z1cpl3Hy1z9XPDkPZ1bBh) | 1:51 | 2021-12-07 |  |
 | [Birds of Paradise](https://open.spotify.com/track/6XzpOu0XRCXLut73JrToxx) | [luzzy fogic](https://open.spotify.com/artist/1otffiT3xiIe9A8jw7LVut) | [Birds of Paradise](https://open.spotify.com/album/6mcgTMhAfZP8GZMYPZOmrz) | 2:19 | 2023-09-22 |  |
 | [Birdzz](https://open.spotify.com/track/2Gx8lwfbGrY2vXbh6PZ3MB) | [Zoozzy](https://open.spotify.com/artist/6KnbMTPGZkiurTMRHRFYSC) | [Swimm](https://open.spotify.com/album/6DOAMKot1lhBT9uNK6xqwf) | 2:44 | 2021-12-07 | 2022-09-30 |
@@ -84,6 +84,7 @@
 | [Cigar](https://open.spotify.com/track/7yD9xepeRrBa6bO3li14Gu) | [Aphrodiciaq](https://open.spotify.com/artist/1YlacHeO7Vj237OMKD8hxh) | [Cigar](https://open.spotify.com/album/2BARicBFCobZspePy6WvhJ) | 2:31 | 2022-09-30 |  |
 | [Cinnamon](https://open.spotify.com/track/4pyVqxmgjlgKp4PWY9VdJp) | [Tinad](https://open.spotify.com/artist/15CCe8N73vvOy2ZYLEKmFs) | [Cinnamon](https://open.spotify.com/album/6ye2vtm17HqV3Rh74NVZzb) | 2:27 | 2023-02-17 |  |
 | [City Park](https://open.spotify.com/track/4lqEtgytnO3H4tDwLV3Tj3) | [Fleet Francis](https://open.spotify.com/artist/0USAl4ZgyskdW7gADLZkdn) | [City Park](https://open.spotify.com/album/6f5JLzj6RhOYa15xlLAlFX) | 2:30 | 2021-12-07 | 2022-05-27 |
+| [City Serenade](https://open.spotify.com/track/2DCrYodQKFVT9kKAXA4KZi) | [Flying Demond](https://open.spotify.com/artist/6RBGmg9yokIH4mEaoPABJd) | [City Serenade](https://open.spotify.com/album/5OrOV5CkSPMeishCpPWuAr) | 2:00 | 2024-02-23 |  |
 | [Clear Skies](https://open.spotify.com/track/1N5L6TGOYl4udaEk2UxRu2) | [sftspkn](https://open.spotify.com/artist/2RTHRVmtTiMDjDCZIOO9wq) | [Clear Skies](https://open.spotify.com/album/6i2OcCQDNlpywA5dVDE9UA) | 2:00 | 2022-09-16 |  |
 | [Closer](https://open.spotify.com/track/3EdHF4lKiLFX5zxWw33SvH) | [Bobby Dreamz BIG](https://open.spotify.com/artist/3WEutW4SLc7V9PiKTDM7bD) | [Closer](https://open.spotify.com/album/3uNIXCtYe8Brqj9d7yGf7y) | 2:17 | 2023-06-06 | 2023-11-24 |
 | [Closure](https://open.spotify.com/track/5AoRaygf1Gqd5nk0wWZSMl) | [Nick Wolf](https://open.spotify.com/artist/4j60yxoFJVWkQNs6uaoJms), [azayaka](https://open.spotify.com/artist/6NlDyXtng5iheiZRAzt4NF), [Roadetrix](https://open.spotify.com/artist/7Md5xGlvby3sPI2NLkbYlv) | [Closure](https://open.spotify.com/album/0WIibN3WgfTnFPY1isNNv3) | 2:07 | 2022-10-07 |  |
@@ -152,7 +153,7 @@
 | [first 6 hours](https://open.spotify.com/track/7Kws9dCwpYnypN3Uv2Vq19) | [Genser 55](https://open.spotify.com/artist/3UFbxZyncA9yrkXQjjYdMG) | [first 6 hours](https://open.spotify.com/album/5iCQSYf8iGVrFxqsqVM0ZG) | 2:31 | 2023-03-08 |  |
 | [Flight 747](https://open.spotify.com/track/1eUz5dNUwjcr6NrO6RxlRM) | [Sikon Avalon](https://open.spotify.com/artist/5YLuxVW2P13TpoUbzwGRx2) | [Flight 747](https://open.spotify.com/album/3Ht7ZdQHo9KnY55GKP0ddh) | 2:24 | 2021-12-07 | 2022-05-27 |
 | [Float](https://open.spotify.com/track/3NtmYToDopQNSUUEXOccEJ) | [Fya Playce](https://open.spotify.com/artist/7M7ryKqUcnn2r0F08gYuxr) | [Float](https://open.spotify.com/album/7Et180mnH7h72mrE53mt6o) | 2:11 | 2024-01-12 |  |
-| [flow](https://open.spotify.com/track/4NpahYQIVFPwbREi4Iq406) | [Phonedown](https://open.spotify.com/artist/6mAZPYwuELJQtdrxvnPg1Q), [Tree Climber](https://open.spotify.com/artist/4JklWwTFWnCHDOa8Vc7YHV) | [flow](https://open.spotify.com/album/36hqM3wjdl1tD5CUHBaV3D) | 2:18 | 2022-11-25 |  |
+| [flow](https://open.spotify.com/track/4NpahYQIVFPwbREi4Iq406) | [Phonedown](https://open.spotify.com/artist/6mAZPYwuELJQtdrxvnPg1Q), [Tree Climber](https://open.spotify.com/artist/4JklWwTFWnCHDOa8Vc7YHV) | [flow](https://open.spotify.com/album/36hqM3wjdl1tD5CUHBaV3D) | 2:18 | 2022-11-25 | 2024-02-23 |
 | [Flower trip](https://open.spotify.com/track/3YsmPCSFwhkKrwNn4OOECm) | [Raul Vinicius](https://open.spotify.com/artist/5jXnCghyML9ot78G4qjsVp) | [Flower trip](https://open.spotify.com/album/3aDtEmt2HeqxuV0s1CYxCq) | 1:52 | 2022-09-02 |  |
 | [Flying Over](https://open.spotify.com/track/3zB69ZJmFPI31v1slVYBJO) | [Daniel Fridell](https://open.spotify.com/artist/4WG5037NDBAMyjzClxwmKK) | [Flying Over](https://open.spotify.com/album/0IjgTLnQT99ADLUEre4BN6) | 3:17 | 2023-11-17 |  |
 | [Foam](https://open.spotify.com/track/2AvC66KZABWnIgzf94XWOP) | [Fujitsu](https://open.spotify.com/artist/2a42gzUH51UAvwcfy0N6JT) | [Foam](https://open.spotify.com/album/6q3rgP1ws6SJbG4kCa9Z64) | 1:58 | 2022-07-08 | 2022-09-03 |
@@ -162,6 +163,7 @@
 | [Forrest](https://open.spotify.com/track/0t0jeNPpefsuhh31UPn1pK) | [Mr Davies](https://open.spotify.com/artist/2gLbE2Cr7iD5hNTTTFgY2K) | [Forrest](https://open.spotify.com/album/5O00VXNEsXB7F8XqZfWfSY) | 2:44 | 2023-10-06 |  |
 | [FORWARD](https://open.spotify.com/track/56IW9O3dVCJ9hdA4TJINVs) | [WASTELAND](https://open.spotify.com/artist/1Nxw0yfsMqk14UsOqMKOXP) | [FORWARD](https://open.spotify.com/album/75OwXvuvF4eU9icYhebnWJ) | 2:39 | 2021-12-07 |  |
 | [fotka](https://open.spotify.com/track/6Xtcf7QFYmF4ye41fkpOh9) | [Dan Betz](https://open.spotify.com/artist/79qPqKymS6xDTlnGzCraZr) | [fotka](https://open.spotify.com/album/6dURtxzLtI0TorlX6kxCk4) | 2:01 | 2021-12-07 |  |
+| [fountains](https://open.spotify.com/track/46ereS3wNR84tLaCJUnjJF) | [May\-Flowa](https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr) | [fountains](https://open.spotify.com/album/78FRv7QbicT2tx0kMEztYu) | 1:50 | 2024-02-23 |  |
 | [Free](https://open.spotify.com/track/7L0oaIyBSqOT86qby2MmOi) | [nitsche](https://open.spotify.com/artist/2DfvZBcBFe2kL0P2U2Ob6A), [Sleeping Dove](https://open.spotify.com/artist/7zub81qpnE40fRD7Cftke8) | [Free](https://open.spotify.com/album/1gsohCQJjnhKU9pwDd6Ub6) | 2:14 | 2022-08-05 | 2023-09-29 |
 | [Free as a Bird](https://open.spotify.com/track/0ubmEMJ8mepIt4zLQCN1fR) | [Thymes](https://open.spotify.com/artist/0GxIjbHfr6z8hjKOg7HJzu) | [Relaxing Study Music](https://open.spotify.com/album/6XoR2ZWHiDmUZDNLr8CFrN) | 2:16 | 2022-10-28 | 2022-11-13 |
 | [Free as a Bird](https://open.spotify.com/track/2HPJBZmbHZmiCkSmkxIw8g) | [Thymes](https://open.spotify.com/artist/0GxIjbHfr6z8hjKOg7HJzu) | [Free as a Bird](https://open.spotify.com/album/5T7xJ7wlxCMSmD0ZD9XUcf) | 2:16 | 2022-07-29 | 2022-12-17 |
@@ -209,7 +211,7 @@
 | [Hugz for Dayz](https://open.spotify.com/track/2kaUUldx08XfmVvkXYbDss) | [Tigerpalm\*Bay](https://open.spotify.com/artist/17AFp9vXzeK7mwKhcFFB5J) | [Hugz for Dayz](https://open.spotify.com/album/14n9ygTqdMux02i3ZWECNC) | 3:09 | 2022-07-22 | 2022-09-09 |
 | [I Am a Flower](https://open.spotify.com/track/2jxi0UFqcT99mvQ05TjsFW) | [Mr OCB](https://open.spotify.com/artist/1RorScxoqHkBchQcufPdTl) | [Pilot Girl](https://open.spotify.com/album/1XJVz61Pjb6HJhhMTTIpxi) | 1:43 | 2021-12-07 | 2023-06-07 |
 | [i just really like you](https://open.spotify.com/track/1oiw4rSikuk2SHWxDDiwkq) | [Pi Teddy](https://open.spotify.com/artist/12BlQzNeSJJOSrPciICYFu) | [Neverland](https://open.spotify.com/album/7hqkuF8La9P8fpEh1lHSHF) | 2:39 | 2022-10-14 |  |
-| [i'm coming too \(Zion\)](https://open.spotify.com/track/1zSBHs3pALBjOlZHQFOD6S) | [clay house](https://open.spotify.com/artist/12im7CjaLsHG55sOqVEHCB), [Arden Records](https://open.spotify.com/artist/4t6K3qACkVu8WWrG3mvo0r) | [i'm coming too \(Zion\)](https://open.spotify.com/album/2mRIekQzraCUxdAWKvJDEY) | 1:50 | 2022-10-28 |  |
+| [i'm coming too \(Zion\)](https://open.spotify.com/track/1zSBHs3pALBjOlZHQFOD6S) | [clay house](https://open.spotify.com/artist/12im7CjaLsHG55sOqVEHCB), [Arden Records](https://open.spotify.com/artist/4t6K3qACkVu8WWrG3mvo0r) | [i'm coming too \(Zion\)](https://open.spotify.com/album/2mRIekQzraCUxdAWKvJDEY) | 1:50 | 2022-10-28 | 2024-02-23 |
 | [Ice Cubes](https://open.spotify.com/track/7o2M9p2nBQzBBNOXCE1XPL) | [Saiko](https://open.spotify.com/artist/1ux1cA3N0QiscFolXpfbni) | [Ice Cubes](https://open.spotify.com/album/0PQRvgoWtUJmbkXwNawC2d) | 2:18 | 2023-02-07 | 2023-12-15 |
 | [In My Head](https://open.spotify.com/track/6i83YIqDjFSe6zrNG8k0G4) | [Sorai](https://open.spotify.com/artist/6ATrPrg8qbSNEyCSEwLgDW) | [In My Head](https://open.spotify.com/album/6n58bGQ0vW1pgM3ODMGgS8) | 2:03 | 2023-06-06 |  |
 | [in soft focus](https://open.spotify.com/track/0glnbDMV9T38Iy5d6xhB74) | [You're Good](https://open.spotify.com/artist/1fSUA9tPyGkQ2QLYCowDbR) | [in soft focus](https://open.spotify.com/album/2CIJPBsMHx0LNW8BccodNN) | 2:07 | 2023-03-16 |  |

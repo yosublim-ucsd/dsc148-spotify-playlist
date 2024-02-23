@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VvfRBFClxm.md) - [plain]
 
 > A mix of soulful, folksy, and beloved singer\-songwriter acoustic gems\. Cover: Ed Sheeran
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,472,951 likes - 125 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,472,997 likes - 125 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VvfRBFClxm.md) - [plain]
 | 124 | [Hollow \- Acoustic](https://open.spotify.com/track/2K4uwGeeT2AmZgAgdxdDNM) | [Belle Mt.](https://open.spotify.com/artist/6DewGkgNz0j4pO3T2ZMUHS) | [Volume I](https://open.spotify.com/album/7AtPi4pa51OrsqZOVqzS84) | 3:56 |
 | 125 | [Too Much To Ask \- Acoustic](https://open.spotify.com/track/6HTDbFiF3c6QFRKkB6DcR4) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Too Much To Ask \(Acoustic\)](https://open.spotify.com/album/54VaqAx59YDqRsoBh4l5Up) | 3:41 |
 
-Snapshot ID: `MCxiYmYzMmM4Y2JiZGNmYWU0Yjg0MjdiNjRjODE5NzE0YTEwNWQ2ZmI1`
+Snapshot ID: `MCxiNzA3OThlOTBlZDI5YjA2YzA0NmI3Y2U1N2E5ZDQyZjE2ZjYwY2Rh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pFh4sRdmEB.md) - [plain]
 
 > Éxitos del Regional Mexicano de ayer y hoy para acompañarte en la troca.
 
-[Spotify](https://open.spotify.com/user/spotify) - 518,713 likes - 150 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 518,789 likes - 150 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pFh4sRdmEB.md) - [plain]
 | 149 | [Tuyo y Mío](https://open.spotify.com/track/4msyEItsAavVb5pZYCuz4n) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Mis Manos](https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA) | 3:20 |
 | 150 | [Te Amo \(Para Siempre\)](https://open.spotify.com/track/6IL4kE0WnD4CfKp2me7vCa) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [En Peligro De Extinción](https://open.spotify.com/album/0nKSgzMBxxghnjJATsPm2Z) | 4:34 |
 
-Snapshot ID: `MCwzNTA2Y2YzYTI0ZDk3NTA1ZDViMDIxYTgzYzg5OTMxM2Y3MmIxY2Qz`
+Snapshot ID: `MCw0ODQ2NzU1NjQzZmFhZDA2OWU2OWU0YTkxNGZlNGY0OWM5NTc1NTgz`

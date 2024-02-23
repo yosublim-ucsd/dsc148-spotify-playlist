@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lttj7ulLd6.md) - [plain]
 
 > Instrumental Smooth Jazz for relaxing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,509 likes - 100 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,730 likes - 100 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lttj7ulLd6.md) - [plain]
 | 99 | [Beautiful](https://open.spotify.com/track/7CezvnEL5FMOnbsRCgBiMy) | [Boulevard Pacific](https://open.spotify.com/artist/6JbSthWVq60iYLhfcOuQnE), [Thomas Darelid](https://open.spotify.com/artist/3VgrYw0LQjgMkYa5kuYeaQ), [Henrik Janson](https://open.spotify.com/artist/5kIhxGyX6VtcsLk88dwYED), [Jenny Kristoffersson](https://open.spotify.com/artist/3sKtRVB4wK89xAGqbgcmWy), [Per Lindvall](https://open.spotify.com/artist/2DeT2uR8f8SINDvVEEGSFc) | [Beautiful](https://open.spotify.com/album/00D7sHveDqx8HwneqBVvq0) | 3:33 |
 | 100 | [When You Love Somebody](https://open.spotify.com/track/3sUlkxJZ3KtHFFuNo8Yhdt) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [Influences](https://open.spotify.com/album/1hbsoh6rcNrxngTQwAi1gR) | 4:24 |
 
-Snapshot ID: `MCw2MmVmZDAzYzBkMzk5YmI5MjY3ZmIyMTIyNDYwYTc5ZjJhNTc2MGIy`
+Snapshot ID: `MCw4ZmQwNzZkMzI2NzU5OGVhYjQxN2NjMTVmYTk3ZWQxYzFkYjQwN2Jk`

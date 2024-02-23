@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cTwPMorHcH.md) - [plain]
 
 > Blues \- new and old \- to accompany your drive\. Cover: B.B\. King
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,733 likes - 100 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,764 likes - 100 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cTwPMorHcH.md) - [plain]
 | 99 | [Bulletproof \- Tangle Eye Mix](https://open.spotify.com/track/6iy2u83vc4L95HS3JYxSQs) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Kill Or Be Kind](https://open.spotify.com/album/0Z917mMSP3EHtJicbhSAhA) | 5:19 |
 | 100 | [It Hurt So Bad](https://open.spotify.com/track/3RqsX9mUWAhkFeRESUs1e8) | [Susan Tedeschi](https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta) | [Just Won't Burn \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/3tUrmnZBBUN9ZCtdJh16xn) | 4:50 |
 
-Snapshot ID: `MCw3ZGZiN2FkMzI0MjYyOTA3NDA5YjIzYzViOGRmNjFjN2VkNTdkZTkw`
+Snapshot ID: `MCw5MjcyYTdkM2UyZTExYWVlZjJjOGYzMTYxNTZhY2I4ZDBiZGIyZTY3`

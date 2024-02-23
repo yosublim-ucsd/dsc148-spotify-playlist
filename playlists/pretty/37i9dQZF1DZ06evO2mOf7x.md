@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mOf7x.md) - [plain]
 
 > This is Ana Bárbara\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,167 likes - 51 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,196 likes - 51 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,12 +23,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mOf7x.md) - [plain]
 | 13 | [Solos](https://open.spotify.com/track/1oQtCWxfOZwyfy2Vl3yy6w) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Solos](https://open.spotify.com/album/4MZ3QFD6pxd9uQvjsX0SpR) | 3:06 |
 | 14 | [No Es Brujeria](https://open.spotify.com/track/0nZUAnwrg9l0QUqW8O8sbb) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [No Es Brujeria](https://open.spotify.com/album/4nuYRYCbs4fqdzwjtkoiw4) | 3:47 |
 | 15 | [El Consejo](https://open.spotify.com/track/2KwhQzFa2ZqvexBdALeAJo) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z), [Paquita La Del Barrio](https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7) | [Las Que Más Amo](https://open.spotify.com/album/731ECu5lhhgFIDPtbgOwe3) | 3:59 |
-| 16 | [Nada](https://open.spotify.com/track/09oFND2pC7tobyRfNVYzjQ) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Lo Más Escuchado De](https://open.spotify.com/album/1l7InHBt3P5CgQtTfhwQrU) | 3:31 |
-| 17 | [No Lloraré](https://open.spotify.com/track/1EXlMcLvZlN21kugkLI8SC) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Ay, Amor](https://open.spotify.com/album/3ZmguqRipyO48mXaLCchdz) | 4:04 |
+| 16 | [No Lloraré](https://open.spotify.com/track/1EXlMcLvZlN21kugkLI8SC) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Ay, Amor](https://open.spotify.com/album/3ZmguqRipyO48mXaLCchdz) | 4:04 |
+| 17 | [Nada](https://open.spotify.com/track/09oFND2pC7tobyRfNVYzjQ) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Lo Más Escuchado De](https://open.spotify.com/album/1l7InHBt3P5CgQtTfhwQrU) | 3:31 |
 | 18 | [La Jugada](https://open.spotify.com/track/4JYL9I4fOKA1uculx98rr0) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z), [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Bordado a Mano](https://open.spotify.com/album/39Frs6BtTz8Wdj5I6x6vYh) | 3:53 |
 | 19 | [Fruta Prohibida](https://open.spotify.com/track/0oZYQ8dIQh5EFQwErqDWl6) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Las Que Más Amo](https://open.spotify.com/album/731ECu5lhhgFIDPtbgOwe3) | 2:45 |
-| 20 | [Me Asusta Pero Me Gusta](https://open.spotify.com/track/5f4nU53KDcZc5gLUnyIKJh) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Lo Más Escuchado De](https://open.spotify.com/album/1l7InHBt3P5CgQtTfhwQrU) | 2:41 |
-| 21 | [Quiero Verte](https://open.spotify.com/track/18Qh0YfnFo5wMb8P9756yK) | [Los Vasquez](https://open.spotify.com/artist/3GlN5joOPb7aAQVJLSPpJx), [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Quiero Verte](https://open.spotify.com/album/0THRwX1TyZekzsCWn3wXxK) | 3:33 |
+| 20 | [Quiero Verte](https://open.spotify.com/track/18Qh0YfnFo5wMb8P9756yK) | [Los Vasquez](https://open.spotify.com/artist/3GlN5joOPb7aAQVJLSPpJx), [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Quiero Verte](https://open.spotify.com/album/0THRwX1TyZekzsCWn3wXxK) | 3:33 |
+| 21 | [Me Asusta Pero Me Gusta](https://open.spotify.com/track/5f4nU53KDcZc5gLUnyIKJh) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Lo Más Escuchado De](https://open.spotify.com/album/1l7InHBt3P5CgQtTfhwQrU) | 2:41 |
 | 22 | [Nada de Ti](https://open.spotify.com/track/5ikUjQaH48yITEb174TQIi) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Nada de Ti](https://open.spotify.com/album/1vMml3En3NNjiSmokeLg4q) | 3:43 |
 | 23 | [Reza y Reza](https://open.spotify.com/track/6Z6FqnImFvNvxg9aHW2HKz) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Las Que Más Amo](https://open.spotify.com/album/731ECu5lhhgFIDPtbgOwe3) | 2:52 |
 | 24 | [Ya No Te Creo Nada](https://open.spotify.com/track/7p2XqGtvXYKRE9mSWytHd6) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Ay, Amor](https://open.spotify.com/album/3ZmguqRipyO48mXaLCchdz) | 3:09 |
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mOf7x.md) - [plain]
 | 45 | [Amor y Veneno](https://open.spotify.com/track/7BwMGZyHpH5pGFJWdnQDKh) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Amor y Veneno](https://open.spotify.com/album/0SgEoi2WKqtJw4JJZhbLsn) | 3:29 |
 | 46 | [Los Besos No Se Dan En La Camisa](https://open.spotify.com/track/7HEztOmJiiJhpykhjoUtWc) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Los Besos No Se Dan En La Camisa](https://open.spotify.com/album/7fmhqh0nvaGukOYWkRoUWS) | 3:44 |
 | 47 | [Prefiero Tomar](https://open.spotify.com/track/5vpA67Nbp1btxUWsfeVUQB) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Bordado a Mano](https://open.spotify.com/album/39Frs6BtTz8Wdj5I6x6vYh) | 2:42 |
-| 48 | [Yo Ya No Estoy](https://open.spotify.com/track/5JBXKpGw5LBTOomR5w20sm) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Yo Soy La Mujer](https://open.spotify.com/album/3yEDiwSeDMiYh7oJLzl7QC) | 3:35 |
-| 49 | [Amor Perfecto](https://open.spotify.com/track/3X4rVC4WXcUYU1u2NyMWKo) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0), [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Bienvenida La Vida](https://open.spotify.com/album/5mcWT0gHRYtncD9jCT3f6E) | 3:54 |
+| 48 | [Amor Perfecto](https://open.spotify.com/track/3X4rVC4WXcUYU1u2NyMWKo) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0), [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Bienvenida La Vida](https://open.spotify.com/album/5mcWT0gHRYtncD9jCT3f6E) | 3:54 |
+| 49 | [Yo Ya No Estoy](https://open.spotify.com/track/5JBXKpGw5LBTOomR5w20sm) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Yo Soy La Mujer](https://open.spotify.com/album/3yEDiwSeDMiYh7oJLzl7QC) | 3:35 |
 | 50 | [Y Siempre](https://open.spotify.com/track/3N3G4GKbHlkRfktCuNV5Ul) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Ay, Amor](https://open.spotify.com/album/3ZmguqRipyO48mXaLCchdz) | 3:50 |
 | 51 | [Alma perdida](https://open.spotify.com/track/3iJ92AFAzuxuVMXZHlRkbA) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Alma Perdida](https://open.spotify.com/album/7lCJ9krfW84FJXkN8MkBOL) | 3:55 |
 
-Snapshot ID: `Mjg0NzUyOTAsMDAwMDAwMDAyZTc2YTIzZWZmNWM5ODI0MTFmOThkZTc4ZjVkOGM5OQ==`
+Snapshot ID: `Mjg0NzcwNzUsMDAwMDAwMDA2ZDA4MjVjMWZiN2U0NDRlODlmZTIzYmNlZDUzZjA3Yw==`

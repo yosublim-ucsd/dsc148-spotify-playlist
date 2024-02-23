@@ -4,7 +4,7 @@
 
 > Chasing sunsets con buena música de fondo.
 
-91 songs - 5 hr 19 min
+92 songs - 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Mi Mejor Versión](https://open.spotify.com/track/3JA65Jo8LtmZIjlvhB08pG) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [Mi Mejor Versión](https://open.spotify.com/album/3vvreW2zeLSPk2FV97TkH3) | 3:21 | 2023-03-10 |  |
 | [mi pobre angelito 2](https://open.spotify.com/track/5smZX3A2NyCZW2Kfmrvv4z) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [LOS FELIZ](https://open.spotify.com/album/390uWKDSYJdCxX0dYebMyJ) | 2:41 | 2023-03-10 | 2023-04-30 |
 | [Miento](https://open.spotify.com/track/3zXnqU3s2bL6ScV8eh4XqF) | [Deiv](https://open.spotify.com/artist/6Z26q1zYyoHDTzO2SrVaX1) | [Miento](https://open.spotify.com/album/0AKbl4MBCdVIRCn1qQ2vne) | 2:49 | 2023-03-10 | 2023-03-19 |
+| [no llamaste \- Remix](https://open.spotify.com/track/3o4if7llOb7PZCz5ZIGCGI) | [Mica Sotera](https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1), [Los Otros Días](https://open.spotify.com/artist/3XQc1ORL38qQC9U0Z4do9V) | [no llamaste \(Remix\)](https://open.spotify.com/album/2cVEApzTrA9JZP6U7ao6H7) | 4:06 | 2024-02-22 |  |
 | [NO TE ALEJES](https://open.spotify.com/track/3x5uBmNaBtm8l843nO15P1) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE), [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [TE QUIERO](https://open.spotify.com/album/0wEYSJWNHI1blWJmwCRRfo) | 3:30 | 2023-11-03 |  |
 | [NO TE ALEJES](https://open.spotify.com/track/4Nx5BIyMer4DjxbE5aJh1v) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE), [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [TE QUIERO](https://open.spotify.com/album/65EzIW9HRqb0a7v8gY3oXJ) | 3:30 | 2023-03-10 | 2023-11-02 |
 | [Nos Soltamos](https://open.spotify.com/track/5wiHLVINwcLi2x0G6IoIYL) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi) | [Last Spa on Earth](https://open.spotify.com/album/0Wcevqdyy01R4lGtAYoleB) | 3:34 | 2023-03-10 | 2023-11-21 |
@@ -87,7 +88,7 @@
 | [Sos Todo Lo Que Está Bien](https://open.spotify.com/track/4pL01X6Og8L9kJRTB65Hsz) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [ANIM4LES](https://open.spotify.com/album/2h48DpjjNc111ug7zH2aXl) | 1:55 | 2023-03-10 |  |
 | [Soy Un Guapo](https://open.spotify.com/track/0Hl9zIp6BUMfdijVXEXAQG) | [The Guapos](https://open.spotify.com/artist/0rpiQ50GeyAWnvorWR4pvh) | [Soy Un Guapo](https://open.spotify.com/album/2vmMCMxlftRO0lB0guabEu) | 3:02 | 2023-03-24 | 2023-11-07 |
 | [Todo Es Perfecto](https://open.spotify.com/track/00CaDxVVxJaUeAOebDI65k) | [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Todo Es Perfecto](https://open.spotify.com/album/542V4yB6vkGz9lJhBHnIGp) | 3:31 | 2023-03-10 | 2023-04-30 |
-| [Todo Va a Estar Bien](https://open.spotify.com/track/64jBAvPvYBRU1m4chLxbtT) | [Bilbao](https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT) | [Todo Va a Estar Bien](https://open.spotify.com/album/0GoEGXpVjqIcPJOZIqlhtw) | 3:15 | 2023-03-10 |  |
+| [Todo Va a Estar Bien](https://open.spotify.com/track/64jBAvPvYBRU1m4chLxbtT) | [Bilbao](https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT) | [Todo Va a Estar Bien](https://open.spotify.com/album/0GoEGXpVjqIcPJOZIqlhtw) | 3:15 | 2023-03-10 | 2024-02-23 |
 | [Trail Blazer](https://open.spotify.com/track/0Pe3iMJXI9a0dDdoXgG10G) | [La Vida Bohème](https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79) | [Caribe Caribe](https://open.spotify.com/album/7zGq7oV1gSW4Aga1a9XJUK) | 4:13 | 2023-03-10 | 2023-05-24 |
 | [Tribus de libertad](https://open.spotify.com/track/3ylceN7GD9rUSebqzH61Ny) | [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ) | [Tribus de libertad](https://open.spotify.com/album/5t5TWWWB5iGSXzHiEBbmXf) | 4:24 | 2023-04-21 | 2023-06-04 |
 | [Tu Forma](https://open.spotify.com/track/6SullLVOVzuWkaCCHJhQaS) | [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [Tu Forma](https://open.spotify.com/album/5C4E1kwoa7VWHEXIwdEOoK) | 2:34 | 2023-04-21 |  |

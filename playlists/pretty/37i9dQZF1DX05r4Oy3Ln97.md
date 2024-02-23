@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 
 > Dip your feet in the pool and enjoy this perfect summer house mix ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 555,607 likes - 60 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 555,711 likes - 60 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 | 59 | [Where I Find My Mind](https://open.spotify.com/track/1RuXenlriyybOv1ra0zeSQ) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Where I Find My Mind](https://open.spotify.com/album/0sJ4br8FWqrOwoGcxTwJOM) | 3:32 |
 | 60 | [Evermore](https://open.spotify.com/track/1MC3Qkc2oC0ISlyrA1YefY) | [Rich Vom Dorf](https://open.spotify.com/artist/1j1jzA1X6Lr19bxTlBS8n9) | [Evermore](https://open.spotify.com/album/2gvEsAot01a7rhHTYJVFf5) | 5:25 |
 
-Snapshot ID: `MCxhYzI5OTA3Y2JjOTdiZTMwYTdlZTU4MGMzMmFmNTc1NzA0NzI0NWM5`
+Snapshot ID: `MCxhZTcwNzdlNjg5MWE2MDhmMmQ0YTFkYTFjN2U3ZTQyZmI0ZmJkZmJm`

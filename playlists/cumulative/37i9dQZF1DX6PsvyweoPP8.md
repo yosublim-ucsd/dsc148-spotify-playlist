@@ -4,7 +4,7 @@
 
 > Muito trap feito especialmente para os momentos mais sexys e quentes\. \[Conteúdo Explícito\]
 
-191 songs - 9 hr 24 min
+192 songs - 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [1000 Rosas](https://open.spotify.com/track/4GaOnNm5S193W7lkghjBhf) | [Will Kevin](https://open.spotify.com/artist/29Aluk4XkIrlZzUi15cqoG) | [1000 Rosas](https://open.spotify.com/album/5rLW6XwLgtoA2isL3mKYDE) | 3:18 | 2022-11-18 | 2023-02-25 |
 | [10Min](https://open.spotify.com/track/4o7Eankd4tED31C2Bkw3U3) | [xochuo](https://open.spotify.com/artist/7uDHqQfRR5spZgZWfj286P), [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [Thomaz](https://open.spotify.com/artist/2Y9JJi5tsqEFAzr1NY9Mag) | [10Min](https://open.spotify.com/album/3kqgJR1MqCuziuY65f5XaK) | 2:52 | 2022-03-18 | 2023-10-14 |
 | [111](https://open.spotify.com/track/1KSl3fjYahx3NizZXO8jwE) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Yas](https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO), [JnrBeats](https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt) | [111](https://open.spotify.com/album/1y6ac0icJ80lpV4wIADU7U) | 3:21 | 2022-11-11 | 2022-11-19 |
+| [123](https://open.spotify.com/track/6JfHhsaYmjHaqLd4ykzIKi) | [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN), [Mel](https://open.spotify.com/artist/5a5NeXda5Km8VQLSJQIa94), [Volp](https://open.spotify.com/artist/6fFgNVTo4bxMf2eswaar7Z) | [123](https://open.spotify.com/album/3pRZvBWwgcncxMB38qQNou) | 2:45 | 2024-02-16 |  |
 | [2 Minutos](https://open.spotify.com/track/3bZZd8qlz5WhRkxXfKxsw2) | [UCLÃ](https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Ryan Realcria](https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX), [Sobs](https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9), [Sueth](https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX) | [2 Minutos](https://open.spotify.com/album/5DPRUTrk79KG5HMKmsl6XQ) | 3:35 | 2022-03-18 | 2023-10-14 |
 | [202](https://open.spotify.com/track/3imzmQM2DPPVBLMiBBexRL) | [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU), [Thomie](https://open.spotify.com/artist/5UkeFCuymumzsQizZ1xzsW), [prodbyeros](https://open.spotify.com/artist/2VykmpwjNmZuVWKiKnqonz) | [202](https://open.spotify.com/album/5F5QjUVSgXHrXj7xbhSRW6) | 2:50 | 2022-08-22 |  |
 | [3am](https://open.spotify.com/track/74ApTVJtZx6Eq2YI7FwRYA) | [IssoQueÉSomDeRap](https://open.spotify.com/artist/43DrL9cHm49HEwg85idE2c), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [3am](https://open.spotify.com/album/4rNZcmAi0bjWSTKqRMjIXn) | 3:32 | 2022-03-18 | 2022-07-29 |

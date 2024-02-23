@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 
 > Holiday classics from your favourite punks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,234 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,217 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 | 99 | [Please Come Home for Christmas](https://open.spotify.com/track/2S8rCnJHO2Gbj6648CrDyf) | [Unwritten Law](https://open.spotify.com/artist/30h6MvMZfHQ8yzYCbfHMMT) | [Punk Rock Christmas](https://open.spotify.com/album/0t4F6flsnJPTxR6sJOzE2X) | 2:02 |
 | 100 | [The War On Christmas Is Over \(If You Buy It\)](https://open.spotify.com/track/1Rx7GdnqSzyoJNZ8Om6xEA) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The War On Christmas Is Over \(If You Buy It\)](https://open.spotify.com/album/2HIOIJu86CtMZuGgXiyaDW) | 2:24 |
 
-Snapshot ID: `MCxkYmU2YzVjYmQ5ZDI4MTIwMzAxYjVmOTJhMjlmYTc0ZTEwY2Q0NmZm`
+Snapshot ID: `MCwzM2M2Y2ExNjNjZDJkYzg3OThkMjViNTY1ZjYyODgwODY4NmY0YmJm`

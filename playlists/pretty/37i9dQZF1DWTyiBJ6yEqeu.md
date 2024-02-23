@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyiBJ6yEqeu.md) - [plain]
 
 > Press play, press start.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,301,101 likes - 100 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,301,872 likes - 100 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyiBJ6yEqeu.md) - [plain]
 | 99 | [GET OFF ME \(with Travis Scott\)](https://open.spotify.com/track/2Adxpr1j5lSihOCsmIfflJ) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [INSANO](https://open.spotify.com/album/0tpIUAzCeUkoV4u2r5NrQr) | 3:35 |
 | 100 | [Ballin' \(with Roddy Ricch\)](https://open.spotify.com/track/3QzAOrNlsabgbMwlZt7TAY) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Perfect Ten](https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy) | 3:00 |
 
-Snapshot ID: `MCxhMjEyNzBhZDMyYjU0NzhkMDZkZDYxMDUyMjYzYTVkOWMyOGYwMWEz`
+Snapshot ID: `MCw3NWE1MzZmMDdiMTdmYzkwOGI3Zjg2ZjVhNzM4YjYwMWIwODUxMjhk`

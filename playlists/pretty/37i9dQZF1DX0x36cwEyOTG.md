@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 
 > Relax with this mix of peaceful, ambient, indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 422,817 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 422,846 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 | 49 | [Atom 6](https://open.spotify.com/track/4Hctp8jfbMwLTchI6o3vDc) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Atom 6](https://open.spotify.com/album/0Ve7BbpsthPeae1D7UGul9) | 1:12 |
 | 50 | [Alright](https://open.spotify.com/track/7EqB4Si62qbT1P8Yf3ZPKH) | [Keaton Henson](https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160) | [Kindly Now](https://open.spotify.com/album/2STN4lLvNNRsO0FuatKqVI) | 4:39 |
 
-Snapshot ID: `MCwwZmQ4NDUwNzNiOGUwMjU3NzUwYmU5NWYwNWExODA5Y2NiZWM1ZWI3`
+Snapshot ID: `MCw1MWM3OTdjNzg5MjkwZWE0ZjJkMmMzOWE3ZWU4ZGUzNjRhNGVkOWNl`

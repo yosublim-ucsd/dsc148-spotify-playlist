@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,001 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,013 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 15 | [Крепче](https://open.spotify.com/track/6bCLkzoE3agC7Ws9NxVxIn) | [KRBK](https://open.spotify.com/artist/0E56Ncr2I37JQhW71UJALE) | [Крепче](https://open.spotify.com/album/1e82MHQz8mczZXotjeR0ky) | 2:00 |
 | 16 | [Это любовь](https://open.spotify.com/track/1P9oRiZJWnxe2pZmYUZ5eC) | [Skryptonite](https://open.spotify.com/artist/3vvLuXEEf7sl3izJcw0GIn) | [Дом с нормальными явлениями](https://open.spotify.com/album/7j7tgADtrPaN7Rrfb8qIcI) | 4:39 |
 | 17 | [Эй](https://open.spotify.com/track/2oUSzRUIE4GvMw29rLKlWw) | [Кишлак](https://open.spotify.com/artist/44L2bdEufrpXM5S7yn30JJ) | [Сборник хуйни и картинки](https://open.spotify.com/album/6bNQ6UFOF8C70iz7IajffH) | 2:15 |
-| 18 | [Дай Мне Шанс](https://open.spotify.com/track/5mE3uSxYQu5QfCyPVubftA) | [Scally Milano](https://open.spotify.com/artist/6lb7AnsNhDAcQxGTllxOlg), [uglystephan](https://open.spotify.com/artist/3I9Bd4StaxvFWPG9AAjlrO) | [Дай Мне Шанс](https://open.spotify.com/album/4dIIvMWiIevJHJ6d2xWZ0I) | 2:20 |
+| 18 | [Дай Мне Шанс](https://open.spotify.com/track/5mE3uSxYQu5QfCyPVubftA) | [Scally Milano](https://open.spotify.com/artist/1nnaE1FllcW0TlDdPVmdPg), [uglystephan](https://open.spotify.com/artist/3I9Bd4StaxvFWPG9AAjlrO) | [Дай Мне Шанс](https://open.spotify.com/album/4dIIvMWiIevJHJ6d2xWZ0I) | 2:20 |
 | 19 | [Антидепрессант](https://open.spotify.com/track/26yvlxKTtN2u3mpbl6AIeI) | [FACE](https://open.spotify.com/artist/2z20q6EEfm6w6PiIKsgtb3) | [Hate Love](https://open.spotify.com/album/5UKIxEdQDFQztvCEfK5QME) | 2:00 |
 | 20 | [Я уёбываю в джаз](https://open.spotify.com/track/0olubSy8HbZBrCJlSHV7ex) | [Кишлак](https://open.spotify.com/artist/44L2bdEufrpXM5S7yn30JJ) | [Я уёбываю в джаз](https://open.spotify.com/album/2AvnyNwfyaS3qNawe1eqxK) | 2:24 |
 | 21 | [Зима в сердце](https://open.spotify.com/track/6awpF8KkBWuZr1ElN2xkaW) | [Moya Mishel](https://open.spotify.com/artist/28oFVU5sNejm6p76RkSwtQ) | [Из цветов и темноты](https://open.spotify.com/album/5Psqb8umHXgLiEXpkAsYl4) | 4:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [Контракт](https://open.spotify.com/track/2bqS0QtnXGjOYs3z6VtSyW) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [Контракт](https://open.spotify.com/album/3OzWTanaiFd8jyfF6E9PRq) | 3:24 |
 | 50 | [Остров](https://open.spotify.com/track/0uhI1APF1D4scWNrOUCMIw) | [My](https://open.spotify.com/artist/3WGL5CRtgYd8Tm5elcbsdV) | [Ближе Part2](https://open.spotify.com/album/01uAUykKCf6D42apWGMxhk) | 2:26 |
 
-Snapshot ID: `NzYxODgwMDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`
+Snapshot ID: `NzYxOTY2NDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`

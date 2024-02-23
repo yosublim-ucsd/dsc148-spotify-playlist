@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xJGcbAX1KJ.md) - [plain]
 
 > Go ahead, lounge a little longer with a fun mix of your favorite covers...
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,098 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,105 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xJGcbAX1KJ.md) - [plain]
 | 49 | [Dancing in the Dark](https://open.spotify.com/track/3IDYyNRmL5npjqm3x6fqjQ) | [Eddie Berman](https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql) | [Blood & Rust](https://open.spotify.com/album/1FloGVX6YhHXEKWlnFGder) | 3:59 |
 | 50 | [Creep](https://open.spotify.com/track/3TiWLK8KWhklkau2hVxBif) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Creep](https://open.spotify.com/album/6RFSLPW06Z3yjzewDi6oiA) | 3:54 |
 
-Snapshot ID: `MCwzNTA3NmI5ZjcxZjA3ZTVjNjMxMGRjNzZjYzlhZDA3MzQ4MTZkMzdl`
+Snapshot ID: `MCwyODhjODUyNWYxNWZlZjNlZDY4OGEyOTY1ZWExNTBkNTljMzQyZTgy`

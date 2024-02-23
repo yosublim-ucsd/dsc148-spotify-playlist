@@ -9341,6 +9341,24 @@
     },
     {
       "album": {
+        "name": "Journey",
+        "url": "https://open.spotify.com/album/1uEb7pZr66xdSQcbfVVSX7"
+      },
+      "artists": [
+        {
+          "name": "KIM BUMSOO",
+          "url": "https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274893,
+      "name": "Journey",
+      "url": "https://open.spotify.com/track/2kyyJtsitronmU6HMGsm1m"
+    },
+    {
+      "album": {
         "name": "Just",
         "url": "https://open.spotify.com/album/1mNNVEDDbAWUGas45o94VZ"
       },

@@ -339,6 +339,24 @@
     },
     {
       "album": {
+        "name": "All I Want",
+        "url": "https://open.spotify.com/album/61hib8ajgCzIBhNoNsJvUe"
+      },
+      "artists": [
+        {
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175187,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/34oVCWxvzVR1sJNbCEMoEC"
+    },
+    {
+      "album": {
         "name": "All My Life (Remixes) (feat. Burna Boy)",
         "url": "https://open.spotify.com/album/11OlFW8YpwZTlhAdc0NCV7"
       },
@@ -708,7 +726,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 411441,
       "name": "APALA DISCO - Remix",
       "url": "https://open.spotify.com/track/7zFW3MaxqY47vQ6vroWDzD"
@@ -2633,6 +2651,36 @@
     },
     {
       "album": {
+        "name": "Denge 3.0",
+        "url": "https://open.spotify.com/album/30oF6LFNkttC3Mtktz9Zb9"
+      },
+      "artists": [
+        {
+          "name": "King Perryy",
+          "url": "https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW"
+        },
+        {
+          "name": "Marioo",
+          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
+        },
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        },
+        {
+          "name": "Savara",
+          "url": "https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209578,
+      "name": "Denge 3.0",
+      "url": "https://open.spotify.com/track/2SXbzZhAJs0vF3h6fQhtT2"
+    },
+    {
+      "album": {
         "name": "Denge II",
         "url": "https://open.spotify.com/album/7K9VJX2ZO6rtj4jW9zqY8t"
       },
@@ -3099,6 +3147,32 @@
     },
     {
       "album": {
+        "name": "Ebelebe",
+        "url": "https://open.spotify.com/album/2EViC0HI5jyqtpa6kpqhpY"
+      },
+      "artists": [
+        {
+          "name": "KCee",
+          "url": "https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG"
+        },
+        {
+          "name": "Skiibii",
+          "url": "https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE"
+        },
+        {
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172631,
+      "name": "Ebelebe",
+      "url": "https://open.spotify.com/track/7mDVlwNJ0pY6xOmDn7D7u3"
+    },
+    {
+      "album": {
         "name": "Echoes (feat. Tony Duardo, Manana & Lusanda)",
         "url": "https://open.spotify.com/album/6GPfETz7e4MYd3kU4CtLIK"
       },
@@ -3482,7 +3556,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 168019,
       "name": "FADE AWAY",
       "url": "https://open.spotify.com/track/3FIuvNRbMDueDoYERFy7yg"
@@ -3560,7 +3634,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 182142,
       "name": "Fakosi",
       "url": "https://open.spotify.com/track/3yFntP1ZfDbHkNWWOCZt7O"
@@ -4536,7 +4610,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 141562,
       "name": "high and sober (go on soun)",
       "url": "https://open.spotify.com/track/2NndR3RtJRruBdk57CPHfp"
@@ -6676,7 +6750,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-16",
+      "date_removed": null,
       "duration_ms": 173571,
       "name": "Mumu",
       "url": "https://open.spotify.com/track/05bS6TTT5lXiDfOS4dcAc4"
@@ -7372,7 +7446,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 198620,
       "name": "ODO",
       "url": "https://open.spotify.com/track/5rRKhpWLZzDp8a7KZ4wPYO"
@@ -7470,7 +7544,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-17",
+      "date_removed": null,
       "duration_ms": 153893,
       "name": "OH NO",
       "url": "https://open.spotify.com/track/2VhFflRmXimh8NNpD9jFgR"
@@ -9050,7 +9124,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 176200,
       "name": "Run Away (OMALICHA)",
       "url": "https://open.spotify.com/track/1xet6MZrk4Zr5ebis0EF1Q"
@@ -9112,6 +9186,32 @@
       "duration_ms": 166558,
       "name": "Sability",
       "url": "https://open.spotify.com/track/5V9XFfvCG4WP5ZdISOLvaF"
+    },
+    {
+      "album": {
+        "name": "Sade (feat. Nasty C)",
+        "url": "https://open.spotify.com/album/0xgY5KFARllShxhQ719GiD"
+      },
+      "artists": [
+        {
+          "name": "Rotimi",
+          "url": "https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf"
+        },
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        },
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223990,
+      "name": "Sade (feat. Nasty C)",
+      "url": "https://open.spotify.com/track/0h09jdyYa1ncmUTcAHiZU1"
     },
     {
       "album": {
@@ -10283,6 +10383,24 @@
     },
     {
       "album": {
+        "name": "The Life I Chose",
+        "url": "https://open.spotify.com/album/7swEKu1GceYFZl5ZMPtCDS"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144447,
+      "name": "The Life I Chose",
+      "url": "https://open.spotify.com/track/48kCxQOtSAeyB3YucB8Ccs"
+    },
+    {
+      "album": {
         "name": "The One (Chop Life)",
         "url": "https://open.spotify.com/album/5nECl8Xw4BiWM7PSuI6dDl"
       },
@@ -10834,7 +10952,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 188135,
       "name": "Wale (Remix) [feat. Simi]",
       "url": "https://open.spotify.com/track/0CetiWNK7oVzF5H0M2dGTS"

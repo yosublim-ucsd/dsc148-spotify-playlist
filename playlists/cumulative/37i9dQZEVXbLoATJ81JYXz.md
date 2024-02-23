@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Sweden.
 
-1,760 songs - 3 day 18 hr 41 min
+1,761 songs - 3 day 18 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -432,6 +432,7 @@
 | [En säng av rosor](https://open.spotify.com/track/14eKSIRO006SRXYpfoY8HK) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [En säng av rosor](https://open.spotify.com/album/5ZHVwbE2Pu2kYWqIlFpPz7) | 3:42 | 2021-04-05 | 2021-04-14 |
 | [En sån som han](https://open.spotify.com/track/5MY0sVEPnFGu7Y4xHRtmNe) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk) | [En sån som han \(En man som han\)](https://open.spotify.com/album/65VVxA7XK8G8NIH4uR6zAc) | 3:27 | 2022-10-24 | 2022-11-22 |
 | [En till dans](https://open.spotify.com/track/2dSAFb1xzoJffGzfxU4BaE) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [En till dans](https://open.spotify.com/album/3ikbwi5mxo5peZyvGaAugP) | 3:20 | 2023-04-22 | 2023-10-29 |
+| [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2024-02-22 |  |
 | [End Of Time](https://open.spotify.com/track/5ttodnEIaCGDuBbvJctUfc) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [End Of Time](https://open.spotify.com/album/5qIq5q9nx9fymmk5JyKmsB) | 3:03 | 2023-05-20 | 2023-05-23 |
 | [Enemy \(with JID\) \- from the series Arcane League of Legends](https://open.spotify.com/track/1HhNoOuqm1a5MXYEgAFl8o) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Mercury \- Act 1](https://open.spotify.com/album/4fZIyJn2wKb51QPNnWYnqt) | 2:53 | 2022-02-05 | 2022-04-27 |
 | [Enemy \(with JID\) \- from the series Arcane League of Legends](https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Enemy \(with JID\) \[from the series Arcane League of Legends\]](https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b) | 2:53 | 2021-12-16 | 2022-02-06 |
@@ -1492,7 +1493,7 @@
 | [Sympati](https://open.spotify.com/track/14yZQJtJZNv5OdQ8dYWx13) | [Georgios Barbanos](https://open.spotify.com/artist/0n4qD1LR233g1LdGBp1BEE) | [Sympati](https://open.spotify.com/album/76tWeUGclH3256e49629is) | 1:57 | 2022-02-01 | 2022-02-06 |
 | [Synd om dig](https://open.spotify.com/track/0CbWynA3BNPIwapjEdqXu5) | [Malin Christin](https://open.spotify.com/artist/7yf7WsRvoRDq5va1SKGgBa) | [Synd om dig](https://open.spotify.com/album/3k2w8Li8JZC47hql6XnLSs) | 2:58 | 2022-02-28 | 2022-03-02 |
 | [Syrener](https://open.spotify.com/track/7iKUMPi3CcDLLNF4pU1vND) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [Syrener](https://open.spotify.com/album/35KHrZ7KsOC7ajWq6SNxgu) | 3:02 | 2022-04-23 | 2022-10-01 |
-| [Säg Mig](https://open.spotify.com/track/6QcM5ODX1XpjBKIMQuWmdE) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [Säg Mig](https://open.spotify.com/album/0EfLxPztOcuTi1gr2qXPXp) | 2:15 | 2024-02-15 |  |
+| [Säg Mig](https://open.spotify.com/track/6QcM5ODX1XpjBKIMQuWmdE) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [Säg Mig](https://open.spotify.com/album/0EfLxPztOcuTi1gr2qXPXp) | 2:15 | 2024-02-15 | 2024-02-23 |
 | [Säg mig var du står](https://open.spotify.com/track/32qGFJqweMFsGvsxRKgdjk) | [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt) | [Främling 25 år](https://open.spotify.com/album/4cotyYQgYleaHbqQEgU9Hv) | 3:49 | 2021-06-27 | 2021-06-28 |
 | [Säg Mig Var Du Står](https://open.spotify.com/track/23PJqdjssVlOJlKvhQe5o9) | [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Säg Mig Var Du Står](https://open.spotify.com/album/3Qg81i4ee6h9l2nbwZAS4F) | 3:24 | 2022-06-25 | 2023-06-26 |
 | [Säg Mig Var Du Står](https://open.spotify.com/track/704iA6CyFdeP24JvGFxsRs) | [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Säg Mig Var Du Står](https://open.spotify.com/album/4NQfAHzpcD28TVebM9TXAC) | 3:24 | 2021-03-27 | 2021-04-20 |

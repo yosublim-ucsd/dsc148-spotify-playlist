@@ -1,13 +1,29 @@
 {
   "description": "Kickstart your morning workout with these upbeat workout tracks, updated weekly! Featuring Dom Dolla, Kygo, cass\u00f6, Calvin Harris and more.",
-  "num_followers": 30935,
+  "num_followers": 30934,
   "original_name": "Morning Workout",
   "owner": {
     "name": "Filtr Australia\t",
     "url": "https://open.spotify.com/user/sonymusicaustralia"
   },
-  "snapshot_id": "MzA4NywxZDk0ZWQyZTU2MDZmYzFlODJjMGYzNDE4YzVhNzUwNWY3NDY3Y2I3",
+  "snapshot_id": "MzA5MCwzYjAzMDZmMmYzNTBiNDRmMzQ2ODY1MTVhNTg5ZTExZjIxNWI0MDg0",
   "tracks": [
+    {
+      "added_at": "2024-02-22 23:50:40",
+      "album": {
+        "name": "NOW COME ON NOW",
+        "url": "https://open.spotify.com/album/6ncJdlq3oqhAxRxrgRkWxi"
+      },
+      "artists": [
+        {
+          "name": "KYE",
+          "url": "https://open.spotify.com/artist/7aD0vAhYP5JsPQPgrd76bp"
+        }
+      ],
+      "duration_ms": 155638,
+      "name": "NOW COME ON NOW",
+      "url": "https://open.spotify.com/track/7c6oQ0XE7ajiShh26GC299"
+    },
     {
       "added_at": "2024-02-16 03:22:13",
       "album": {
@@ -1971,26 +1987,6 @@
       "duration_ms": 161770,
       "name": "Big FU",
       "url": "https://open.spotify.com/track/2HbTwmup8SWz5tMcKZXFLh"
-    },
-    {
-      "added_at": "2024-02-16 03:22:13",
-      "album": {
-        "name": "Summertime Friends",
-        "url": "https://open.spotify.com/album/06NJ4sxQJg1BiSGH9WkzRE"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "GRACEY",
-          "url": "https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ"
-        }
-      ],
-      "duration_ms": 170616,
-      "name": "Think Of Us",
-      "url": "https://open.spotify.com/track/4jpNmNXMzO3aVgJhy8sdxL"
     }
   ],
   "unique_name": "Morning Workout",

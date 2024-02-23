@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 
 > Dulce y ácido: indie pop latino en estado natural\. Foto: Paola Navarrete & Adanowsky.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,680 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,687 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 | 99 | [Volcán](https://open.spotify.com/track/4GxXdJPyw9IPuhBw7wyTNM) | [Agata Prisma](https://open.spotify.com/artist/2g2gwCr1ZcowpJeVTubUy2), [Leo Salinas](https://open.spotify.com/artist/3AyxootFsf60iAcaQlOawD), [Paula Pávez](https://open.spotify.com/artist/2aJMvTqheNrisBUbV9zDPM) | [Volcán](https://open.spotify.com/album/4ii6T1Fyt693umGZcYzhP3) | 3:56 |
 | 100 | [Barquinho](https://open.spotify.com/track/50ToY96BGpEettrv6UeR5u) | [LA LOU](https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof) | [Barquinho](https://open.spotify.com/album/1TIJdi8RR0NynFLZWqKdK0) | 2:32 |
 
-Snapshot ID: `MCw4NzgxN2M2MTg4ZTdhZmM1OTg2Y2IwOWYxNTQ0ZDc3M2VjZGVmNzVl`
+Snapshot ID: `MCw0MDZhMjM3ZjExZjkwNzIwNTBiMmI3YjlkMGFlZWNiZmI5YTQ1ZTRi`

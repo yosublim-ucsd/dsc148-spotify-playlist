@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3acIik.md) - [plain]
 
 > This is Montell Fish\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,284 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,308 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3acIik.md) - [plain]
 | 25 | [Eyes Only for You](https://open.spotify.com/track/7JWFNEhVS1IZzZK6JBkITN) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [Ecclesia](https://open.spotify.com/artist/6yuXGldP2yeZ8GFNrZdlSC) | [Eyes Only for You](https://open.spotify.com/album/3WnkjmXut8WYqVb6dPcPRH) | 3:32 |
 | 26 | [6:16am](https://open.spotify.com/track/5pTb9i96sgct5x6jyjwhrM) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Nights & Days.](https://open.spotify.com/album/13G65Pa4a3yM8pfN8wLrH3) | 1:59 |
 | 27 | [3:35am](https://open.spotify.com/track/0QAFiGqEkWn27WVy6AZShQ) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [It's Beautiful.](https://open.spotify.com/album/6MRvWffD81OCQNUsa5J63K) | 3:02 |
-| 28 | [Stay \(With Me\).](https://open.spotify.com/track/1lYF2cFAjKU8DG6FfGU4CE) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Stay \(With Me\).](https://open.spotify.com/album/2UOdVuBqu1UQA9EXWGQNeE) | 5:03 |
-| 29 | [Mercy](https://open.spotify.com/track/2jBRks9u41rAywLxQjcdYt) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Mercy](https://open.spotify.com/album/2zSiFSrqjSoZsXdxzOjQtY) | 2:29 |
+| 28 | [Mercy](https://open.spotify.com/track/2jBRks9u41rAywLxQjcdYt) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Mercy](https://open.spotify.com/album/2zSiFSrqjSoZsXdxzOjQtY) | 2:29 |
+| 29 | [Stay \(With Me\).](https://open.spotify.com/track/1lYF2cFAjKU8DG6FfGU4CE) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Stay \(With Me\).](https://open.spotify.com/album/2UOdVuBqu1UQA9EXWGQNeE) | 5:03 |
 | 30 | [Yes, You Love Me.](https://open.spotify.com/track/0Aj3GRorN6QAFwwZlqXz6T) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Bedroom Lofi](https://open.spotify.com/album/6zvGIAgWSOkS1w8F4C42Mi) | 1:58 |
 | 31 | [All I Need](https://open.spotify.com/track/0GQPdbDdcBCO8MUY8YKluB) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Nights & Days.](https://open.spotify.com/album/13G65Pa4a3yM8pfN8wLrH3) | 3:25 |
 | 32 | [Crumble](https://open.spotify.com/track/0Gji3Cm4mRFYvXXtX82klr) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [SOPHIETHEHOMIE](https://open.spotify.com/artist/1FiNaCwPk9tRjTH4gCqsWh), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Camp Lukewarm](https://open.spotify.com/album/1ojRsIYi1rLdiFpSKNtEBp) | 3:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3acIik.md) - [plain]
 | 49 | [Holding Me Down](https://open.spotify.com/track/6LiFdQTu27Hq7nZfCFUxof) | [Chris Howland](https://open.spotify.com/artist/2wqF6dCN8bQp7TN0eNDSsc), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [Sarah Juers](https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG) | [Holding Me Down](https://open.spotify.com/album/4vEgr4lrtJcFgHcaknUy7Q) | 3:15 |
 | 50 | [Getting Stronger](https://open.spotify.com/track/2RNUP450GqkdTQvnSDo8zO) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Chillhop Essentials Winter 2020](https://open.spotify.com/album/2tawQhSOBEJ4MQm1ZN6knB) | 2:40 |
 
-Snapshot ID: `Mjg0NzUyOTAsMDAwMDAwMDA0ODUyNTQ4NmIzNjY0ZWJmMTM2Y2RmZWRmOWU0MDdhNQ==`
+Snapshot ID: `Mjg0NzcwNzUsMDAwMDAwMDA4YjBlZDlhNjNjMDkxNWIxNzFlYzhiNzk2YTdhYzFiMA==`

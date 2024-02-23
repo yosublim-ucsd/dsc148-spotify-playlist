@@ -6953,6 +6953,24 @@
     },
     {
       "album": {
+        "name": "Spring Cold",
+        "url": "https://open.spotify.com/album/0XL40uz5cMkTAlN25kyIm3"
+      },
+      "artists": [
+        {
+          "name": "eun",
+          "url": "https://open.spotify.com/artist/0L8slSjSjkpmY2vCCuXZ2r"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Spring Cold",
+      "url": "https://open.spotify.com/track/3lCZxVYjOpUmFKEjsKsnTU"
+    },
+    {
+      "album": {
         "name": "Springboard Fun",
         "url": "https://open.spotify.com/album/7cZ1x7VKrugvimRelrbfnZ"
       },

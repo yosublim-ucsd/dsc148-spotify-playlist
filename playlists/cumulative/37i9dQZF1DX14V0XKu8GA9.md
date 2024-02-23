@@ -4,7 +4,7 @@
 
 > The wave of Latinos representing Hip\-Hop in the U.S\. Cover: That Mexican OT
 
-371 songs - 17 hr 28 min
+372 songs - 17 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,7 +256,8 @@
 | [Poppin](https://open.spotify.com/track/1CrTglTTE9oIA4uYoImCYG) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2 Alivë \(Geëk Pack\)](https://open.spotify.com/album/0345WPzPBSeISh2IpIQWxT) | 2:47 | 2022-06-07 | 2023-01-07 |
 | [Poppin](https://open.spotify.com/track/3wn8nOygkHLUQ9dlXM1rKW) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2 Alivë](https://open.spotify.com/album/0d1BFY8z15vye3KjtLvF3u) | 2:47 | 2022-03-15 | 2023-01-28 |
 | [Pozole](https://open.spotify.com/track/5gmXbYlKOJAZC8B3ZQsqBk) | [Kap G](https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O), [Brick Wolfpack](https://open.spotify.com/artist/7e4uf2N5gWV3z9yLRhRMUe), [Peso Peso](https://open.spotify.com/artist/4sUMXGoB71qnOF7H691QGj) | [Pozole](https://open.spotify.com/album/7iXpohH3LXJ4oBs9drIEE3) | 2:28 | 2023-05-27 | 2023-09-16 |
-| [Pray](https://open.spotify.com/track/3k7ZFo1rctoR96HVMPPwjd) | [Cypress Moreno](https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk), [Bravo the Bagchaser](https://open.spotify.com/artist/31t9hT68QYCDPWkkUVrQjY) | [Pray](https://open.spotify.com/album/7zhl0a3SVapomKIFA6XnKC) | 2:12 | 2024-01-08 |  |
+| [Pray](https://open.spotify.com/track/1tLrpjQVeeO9nsvv9tV0RI) | [Cypress Moreno](https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk), [Bravo the Bagchaser](https://open.spotify.com/artist/31t9hT68QYCDPWkkUVrQjY) | [Pray](https://open.spotify.com/album/3ouSeQBrmIonvY03o9bYRU) | 2:12 | 2024-02-21 |  |
+| [Pray](https://open.spotify.com/track/3k7ZFo1rctoR96HVMPPwjd) | [Cypress Moreno](https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk), [Bravo the Bagchaser](https://open.spotify.com/artist/31t9hT68QYCDPWkkUVrQjY) | [Pray](https://open.spotify.com/album/7zhl0a3SVapomKIFA6XnKC) | 2:12 | 2024-01-08 | 2024-02-23 |
 | [Preguntas \(feat\. D Smoke\)](https://open.spotify.com/track/6hxCLo1NKmkjGQ1KWekm14) | [Swifty Blue](https://open.spotify.com/artist/68CRxZTAqk19AznItZInip), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo) | [Preguntas \(feat\. D Smoke\)](https://open.spotify.com/album/7tzB7azJJSUd3xlvad2EFn) | 3:01 | 2022-06-07 | 2023-01-28 |
 | [PRO CLUB](https://open.spotify.com/track/4aTOaLYeM0WOhY1kmwS0zz) | [CNG](https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca), [Peysoh](https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC) | [PRO CLUB](https://open.spotify.com/album/23IDJMWYQ8AFrVkw7x5h61) | 2:46 | 2022-02-25 | 2023-01-28 |
 | [Props](https://open.spotify.com/track/3K89G9TiC7SahIWGZ5DDCc) | [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4), [Mah](https://open.spotify.com/artist/3YphOEEPD57GnkVgJZrLG5) | [Props](https://open.spotify.com/album/04fwpYWKcIOAiyRjo4WvQz) | 2:54 | 2023-05-27 | 2023-06-22 |

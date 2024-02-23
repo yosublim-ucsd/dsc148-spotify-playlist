@@ -1188,7 +1188,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 166725,
       "name": "Cuore Rotto",
       "url": "https://open.spotify.com/track/5qAMsFqClevxs2nuZbReDW"
@@ -4494,6 +4494,24 @@
       "duration_ms": 148940,
       "name": "RA SUL",
       "url": "https://open.spotify.com/track/0pwcRVxksO8iEAXjWsTd71"
+    },
+    {
+      "album": {
+        "name": "Realness",
+        "url": "https://open.spotify.com/album/6WvpHmaySTeQGPLhRrVAiq"
+      },
+      "artists": [
+        {
+          "name": "Cecchy",
+          "url": "https://open.spotify.com/artist/2yLVjmzpKCw0B7SKpWeZjN"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138484,
+      "name": "Realness",
+      "url": "https://open.spotify.com/track/7bq0EaS7UDPUQGQTx0jeHn"
     },
     {
       "album": {

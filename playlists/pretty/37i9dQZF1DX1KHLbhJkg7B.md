@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 
 > Unique versions of hit songs by other artists\. Cover: Dolly Parton and Lainey Wilson
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,103 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,145 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 | 99 | [Someone You Loved](https://open.spotify.com/track/2Gd3xovLjWKqPIfQNs3LP0) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Someone You Loved](https://open.spotify.com/album/1z9rgqCPr9UaOxipFCHZN5) | 2:51 |
 | 100 | [I Don't Want To Miss A Thing](https://open.spotify.com/track/3FN7JMZaaQ9lSzIaan0YZ1) | [Mark Chesnutt](https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS) | [I Don't Want To Miss A Thing](https://open.spotify.com/album/4I8szVY9j0NJAOz7tmnZVy) | 4:06 |
 
-Snapshot ID: `MCwwZjJhZjZkYTY0YmM2MWVjNzJjZmQ2MzYzZTAyZjk0ZDY0OTlmNTUx`
+Snapshot ID: `MCwxMjFmMjJkZDAwNzY4MDRkMWJlMWU5M2EwM2ExOTJiYzkyODQwMzEy`

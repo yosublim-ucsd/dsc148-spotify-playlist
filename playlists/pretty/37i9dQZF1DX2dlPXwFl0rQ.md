@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 
 > Estas son las indomables de la Música Mexicana\. Adriana Ríos en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,014 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,044 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 | 99 | [La Gitanilla](https://open.spotify.com/track/7jKkmzmUeVV4gbwALwp43w) | [Dueto Eleval](https://open.spotify.com/artist/33gpRuqgapD4OaV9kcODrK), [Banda las Angelinas](https://open.spotify.com/artist/6jSN6llBjMrAcneqaOvUtp) | [La Gitanilla](https://open.spotify.com/album/63XjnfQ5amRVXAeEhIqJMA) | 3:54 |
 | 100 | [Contigo Aprendí \- En Vivo](https://open.spotify.com/track/1Oj84aMBeOnTcjKyQ4yHkA) | [Ana Casillas](https://open.spotify.com/artist/1B14dSg39GuUntPDa6KOXu) | [Sesiones En Vivo Vol\. 2](https://open.spotify.com/album/10F9VCKoV67HlFuBM0wgju) | 3:26 |
 
-Snapshot ID: `MCxhNmEzZjM2MDZkN2M5OWQ4Mzg4ZDBiMDhkN2YzMTY0ZDczOTZlNWMy`
+Snapshot ID: `MCw4NTU3NTkyMjdiOGVkMTVhNWYxZWNmYTI0ZTk2NjZjYjAzNmY5Zjlh`

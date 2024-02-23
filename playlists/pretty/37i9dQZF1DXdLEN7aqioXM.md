@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLEN7aqioXM.md) - [plain]
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-[Spotify](https://open.spotify.com/user/spotify) - 989,311 likes - 150 songs - 10 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 989,410 likes - 150 songs - 10 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLEN7aqioXM.md) - [plain]
 | 149 | [Missense](https://open.spotify.com/track/2MFdVPnEWRjXQIY96VgiGn) | [PatternShift](https://open.spotify.com/artist/6MNFOvQOGj0BYmHJa6tVIV) | [Missense](https://open.spotify.com/album/5bIiP1fm9HipstrA6ZK56u) | 3:27 |
 | 150 | [Communication](https://open.spotify.com/track/71z55WQyp9EDfGe7U2bHkm) | [Shook](https://open.spotify.com/artist/3JKd43oYlE7ifoodXetsuw) | [Start Computer](https://open.spotify.com/album/1qDI1pOetrsLc5GMxSO0TD) | 3:17 |
 
-Snapshot ID: `MCxiOWY2YmNkODk1YjRjYTkxODI0ZmY3NjI4NGQwN2UzZWJkMjIwMGM0`
+Snapshot ID: `MCxlNjM4ZGEzMjgxNzJjOWQ5NTA4Yjk3MTdmNmM4YTY5ODI5YWQ0N2Q5`

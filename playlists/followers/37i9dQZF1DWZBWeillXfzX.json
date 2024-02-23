@@ -1,5 +1,5 @@
 {
-  "2024-02-22": 21960,
+  "2024-02-23": 21975,
   "date_first_scraped": "2022-05-26",
   "description": "Blues guitar heroes of today. Cover: Kirk Fletcher",
   "name": "Modern Blues Guitar",
@@ -897,7 +897,7 @@
       ],
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 268733,
       "name": "Royal Tea",
       "url": "https://open.spotify.com/track/503MGoC5sPfTvL3cbJsg7P"
@@ -1125,7 +1125,7 @@
       ],
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-18",
+      "date_removed": null,
       "duration_ms": 599678,
       "name": "Sweet Tea",
       "url": "https://open.spotify.com/track/6JojEmIb1NMNEGpAlDDKhj"

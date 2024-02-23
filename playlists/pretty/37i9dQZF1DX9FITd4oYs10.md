@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 
 > Os brabos do hip hop nacional\. Foto: Racionais MCs
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,872 likes - 60 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,881 likes - 60 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 | 59 | [Wallpaper](https://open.spotify.com/track/5PzzpWrRjoKmA1nzYasTL1) | [Dalsin](https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk) | [Wallpaper](https://open.spotify.com/album/2BXYBkDIGCjZJhGHtAmu9V) | 3:11 |
 | 60 | [Como Deus Quiser](https://open.spotify.com/track/72ZGT5dwrp7lZ40ums6dHi) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K) | [Não é Só Isso](https://open.spotify.com/album/74oYgcDGGUfRnt9bJHmkKt) | 3:01 |
 
-Snapshot ID: `MCxkMzk4OGU1MzkwZDgxNTljNDRmYzgzNTgzMDUxNmViN2FiYzkyYTg1`
+Snapshot ID: `MCxiMWIyNWNhNGZlNDM1M2ZjNzc3NDkyM2JmZjZjZjM2ZDBjNzJiZDFi`

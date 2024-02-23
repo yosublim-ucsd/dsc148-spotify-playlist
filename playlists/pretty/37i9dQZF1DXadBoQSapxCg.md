@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadBoQSapxCg.md) - [plain]
 
 > Apaga a luz e deixa rolar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,616 likes - 60 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,627 likes - 60 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadBoQSapxCg.md) - [plain]
 | 59 | [Sexflix](https://open.spotify.com/track/7iEDBUCkwn7ScwZ8A3oS5B) | [Agostta](https://open.spotify.com/artist/76DjxkWnHza9Q02cejvQhc), [Gabziim](https://open.spotify.com/artist/7BWtfkxYpBQaca6WNohCQ6) | [Sexflix](https://open.spotify.com/album/01FZhEDVPRXK8LnLRrkNYJ) | 2:55 |
 | 60 | [Quero Mais](https://open.spotify.com/track/7tDghG79gNiQzE1wgLI8Fp) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Scarlett Wolf](https://open.spotify.com/artist/5hiwoYrfML1abtDBW5EG2p), [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH) | [Quero Mais](https://open.spotify.com/album/46fGZIUMxdnL93QP6DJZCY) | 2:45 |
 
-Snapshot ID: `MCxkYTIyMGUwMGM4M2EwOGM1MjU0NDM2YTJjMTE5MWEyN2IyNzRlODI3`
+Snapshot ID: `MCw2NzY4NjZlZTE4MDg5MTUyZmIyOGM2MjI2MmEzNzdmMDFkM2U0ZGQ1`

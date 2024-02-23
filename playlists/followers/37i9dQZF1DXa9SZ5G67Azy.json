@@ -1,5 +1,5 @@
 {
-  "2024-02-22": 23804,
+  "2024-02-23": 23990,
   "date_first_scraped": "2023-12-22",
   "description": "un poquito de esto, un poquito de lo otro.",
   "name": "Techengue",
@@ -306,6 +306,24 @@
     },
     {
       "album": {
+        "name": "Coco Chanel (Techengue Remix)",
+        "url": "https://open.spotify.com/album/578KvOMDl9D4EFDH9ZGg9Y"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Maulen",
+          "url": "https://open.spotify.com/artist/533fdqxB2K5xhGKWarfXHO"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167089,
+      "name": "Coco Chanel (Techengue) - Remix",
+      "url": "https://open.spotify.com/track/1S4QnIVm7E0iBUmMuxj98r"
+    },
+    {
+      "album": {
         "name": "Techengue #2 (Extended Remix)",
         "url": "https://open.spotify.com/album/2CDsuqvqj40ZuKZHuSiUb8"
       },
@@ -317,7 +335,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 167089,
       "name": "Coco Chanel (Techengue) - Remix",
       "url": "https://open.spotify.com/track/7s3qjn4yDCIeWZtK4KBvJF"

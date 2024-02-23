@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 
 > A ponerse a tono con los mejores cumbiones\. Foto: Corazon Serrano, Axel
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,268 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,304 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 | 9 | [Serpiente](https://open.spotify.com/track/2OXYYCVlDZfiVtktj00ul5) | [Armonia 10](https://open.spotify.com/artist/2MLibj8EtYKluK594J3D9Y) | [Primicias y Éxitos](https://open.spotify.com/album/5pzyQ9Ytd01DXdhZUCmgQ2) | 2:01 |
 | 10 | [La Duda](https://open.spotify.com/track/1euvZCoC0ETg1aiK0tfkEs) | [Armonia 10](https://open.spotify.com/artist/2MLibj8EtYKluK594J3D9Y) | [Una Cualquiera](https://open.spotify.com/album/1ShwZyhoqhWGaZkQg6yVfS) | 4:24 |
 | 11 | [Homenaje a Mallanep: Donde Está el Amor / Una Aventura Más / Me Rio de Ti](https://open.spotify.com/track/5LynHpyyaUj5xh8lFg1I0s) | [Los Villacorta Orquesta](https://open.spotify.com/artist/6SBThOgbJFtWxxm3jHH2HI) | [Homenaje a Mallanep: Donde Está el Amor / Una Aventura Más / Me Rio de Ti](https://open.spotify.com/album/1II3iDAzoQDYy5v1aBPVoJ) | 5:44 |
-| 12 | [Déjame Amarte/ Sentada en un Bar \(Mix En Vivo\)](https://open.spotify.com/track/5oY8cWKPJdRUpPBIYi1fFS) | [Azucena Calvay y Orquesta](https://open.spotify.com/artist/7yQurz9Di595INUnLmoO4G) | [Déjame Amarte/ Sentada en un Bar \(Mix En Vivo\)](https://open.spotify.com/album/1NtVozfDK1aWVGxIQ2q4oh) | 6:34 |
+| 12 | [Dejar de Amarte / Sentada en un Bar \- En Vivo](https://open.spotify.com/track/1ZYEy0WY5z97M4UnJs1lUR) | [Los Rebeldes De La Cumbia](https://open.spotify.com/artist/4Kq6PhHm3gDTuxwXAMJkyY) | [Dejar de Amarte / Sentada en un Bar \(En Vivo\)](https://open.spotify.com/album/6LP9Pvkqi4ffmo9z9ImAjf) | 6:28 |
 | 13 | [Lárgate](https://open.spotify.com/track/77Dw5g050GN208e1Bk11AR) | [Hnos Yaipen](https://open.spotify.com/artist/1MD1SEYZh3dbCa2M7YVjPg) | [A Llorar a Otra Parte](https://open.spotify.com/album/5DxZS2tAHjOf0c3CB5s5lc) | 3:53 |
 | 14 | [Amor Vuelve \- \(En Vivo\)](https://open.spotify.com/track/29QkpKsdxiChq3xsmu5VDG) | [Grupo 5](https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6), [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Noche de Oro \(En Vivo\)](https://open.spotify.com/album/639y9TFplTFnb6WeqB4c9d) | 3:46 |
 | 15 | [Quiero Amanecer](https://open.spotify.com/track/7FxnHDy0ew0aDygCSo6vYH) | [Bareto](https://open.spotify.com/artist/5piEbDj9Q4qiZvNO8Gktv7) | [Quiero Amanecer](https://open.spotify.com/album/1ccXrhxirn0DN7sqHNO9jO) | 2:52 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 | 42 | [Lejos de Ti](https://open.spotify.com/track/0p1Tg14xmC1MgxncLFkt6d) | [Amaya Hnos](https://open.spotify.com/artist/5jSk6SgXKrDMuyvyVtoHkZ) | [Lejos de Ti](https://open.spotify.com/album/3VugzWWNSNU6AiSecTnbn6) | 4:01 |
 | 43 | [Por Siempre Mi Angel](https://open.spotify.com/track/2rM68rJ4fQCFxZdpqjpSyN) | [Son de Ríos](https://open.spotify.com/artist/7n4KfJhG8p9DJyOo3nWK0z) | [Imposible Olvidarte](https://open.spotify.com/album/1G71N908z995Kj6sNJ40DT) | 5:58 |
 | 44 | [Tu Traición Se Acabó \- En Vivo](https://open.spotify.com/track/71TGkSfNH1jNEEdSvm3AmS) | [Agua Marina](https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ) | [Domingos de Fiesta \(En Vivo\)](https://open.spotify.com/album/5LHsfpJNae4RgShOL8GGLy) | 4:07 |
-| 45 | [Siempre Pierdo En El Amor](https://open.spotify.com/track/78oRCsKraelp8RRDunjKCy) | [Armonia 10](https://open.spotify.com/artist/2MLibj8EtYKluK594J3D9Y) | [Gracias Perú 29 Años](https://open.spotify.com/album/0AnoCuZDCVr9ERtRsq4jvF) | 3:12 |
-| 46 | [Te Burlaste de Mi](https://open.spotify.com/track/1OVkTwhR0LISMQcZkAqHsg) | [La Única Tropical](https://open.spotify.com/artist/1WUEWZGTvX4AjC2y5PoSDd) | [El Futuro De La Cumbia](https://open.spotify.com/album/5Lu7FjFsriB2SKkR7GfqQc) | 4:37 |
-| 47 | [El Casorio](https://open.spotify.com/track/0Tpvw6qsSGxHuKqYlbAyC6) | [Orquesta Caña Brava](https://open.spotify.com/artist/3DLny21nx7cmXJ1NHSvwyM) | [VOL.1](https://open.spotify.com/album/6dIEZrlyaHc0KGhBVi7IBg) | 5:29 |
+| 45 | [Te Burlaste de Mi](https://open.spotify.com/track/1OVkTwhR0LISMQcZkAqHsg) | [La Única Tropical](https://open.spotify.com/artist/1WUEWZGTvX4AjC2y5PoSDd) | [El Futuro De La Cumbia](https://open.spotify.com/album/5Lu7FjFsriB2SKkR7GfqQc) | 4:37 |
+| 46 | [El Casorio](https://open.spotify.com/track/0Tpvw6qsSGxHuKqYlbAyC6) | [Orquesta Caña Brava](https://open.spotify.com/artist/3DLny21nx7cmXJ1NHSvwyM) | [VOL.1](https://open.spotify.com/album/6dIEZrlyaHc0KGhBVi7IBg) | 5:29 |
+| 47 | [Por Que un Hombre No Llora](https://open.spotify.com/track/3WXuIhwbCGYvzLEfyvGYOU) | [Los Tigres de la Cumbia](https://open.spotify.com/artist/044y0XSznUpOIzgp61qwT1) | [Porque un Hombre No Llora](https://open.spotify.com/album/5yuZLJjoc41D8Di7y2nlbW) | 4:30 |
 | 48 | [Dolor y Lagrimas](https://open.spotify.com/track/5iu23EuTrwZtZdJt7DWUlS) | [El Lobo Y La Sociedad Privada](https://open.spotify.com/artist/7lGdkFJ1fEIemMJApdnRBh) | [Desierto](https://open.spotify.com/album/17kNwp6zAftLn7MzlqT8hz) | 4:48 |
-| 49 | [Por Que un Hombre No Llora](https://open.spotify.com/track/3WXuIhwbCGYvzLEfyvGYOU) | [Los Tigres de la Cumbia](https://open.spotify.com/artist/044y0XSznUpOIzgp61qwT1) | [Porque un Hombre No Llora](https://open.spotify.com/album/5yuZLJjoc41D8Di7y2nlbW) | 4:30 |
-| 50 | [Me extrañarás](https://open.spotify.com/track/71Dj6EXOnAVJEPDoxHuSOf) | [Orquesta Caribeños de Guadalupe](https://open.spotify.com/artist/3TMIaKD9aqaLVRTK5DYg0C), [Josimar y Su Yambú](https://open.spotify.com/artist/25gsQNkL2qTq778NWyughs) | [Me extrañarás](https://open.spotify.com/album/3mLRImJ2z7aqjyyfkXCS0O) | 4:22 |
+| 49 | [Me extrañarás](https://open.spotify.com/track/71Dj6EXOnAVJEPDoxHuSOf) | [Orquesta Caribeños de Guadalupe](https://open.spotify.com/artist/3TMIaKD9aqaLVRTK5DYg0C), [Josimar y Su Yambú](https://open.spotify.com/artist/25gsQNkL2qTq778NWyughs) | [Me extrañarás](https://open.spotify.com/album/3mLRImJ2z7aqjyyfkXCS0O) | 4:22 |
+| 50 | [Voy a Buscarme un Amor](https://open.spotify.com/track/0IGpE4M5z9RXaaRl0Jde8h) | [Agua Bella](https://open.spotify.com/artist/4HKgCyUZMpl41vzhVXdhNy) | [Mejor Que Nunca...Sola Hay Una...!](https://open.spotify.com/album/3LCqM5Qtqi4sVHAQjmaTlF) | 4:03 |
 
-Snapshot ID: `MCxjNDBkYTA4YTIzNjA1ZDg3MzUxMWMwMGM1NzI0ZGYwMTM3YmIwM2Jm`
+Snapshot ID: `MCwzZmQyZDcxMWE5MzBiNmU1Y2ZiMmQ2ZDEzYTFjYmFjNDNkNDExZmFi`

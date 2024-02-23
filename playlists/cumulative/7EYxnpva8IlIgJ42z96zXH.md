@@ -4,7 +4,7 @@
 
 > Kickstart your morning workout with these upbeat workout tracks, updated weekly! Featuring Dom Dolla, Kygo, cassö, Calvin Harris and more.
 
-814 songs - 1 day 18 hr 56 min
+815 songs - 1 day 18 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -513,6 +513,7 @@
 | [Nothing Left to Do](https://open.spotify.com/track/4PWWDtcnqI8QRNQInfjXq4) | [Rami](https://open.spotify.com/artist/0TlBL4XarAQyeGsIpzCeWc) | [Lab78 Dimensions](https://open.spotify.com/album/0z2Q7pHRjy0rapuz5MvMU8) | 2:27 | 2021-08-14 | 2021-08-28 |
 | [Nothing to Love About Love](https://open.spotify.com/track/63CZ0zvkjuuYYXJwhcOq9P) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY), [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Nothing to Love About Love](https://open.spotify.com/album/2n0nzjLEt3mHBWBrkczpPA) | 3:29 | 2020-11-03\* | 2021-03-26 |
 | [November 26](https://open.spotify.com/track/1Bzx8M2az8q6wnoXOhK3uw) | [Jakka](https://open.spotify.com/artist/4QsjdD4tkCOSUqRSDoazaM) | [November 26](https://open.spotify.com/album/3hlkRsFKhmyfTKeOUyWyKY) | 2:32 | 2023-04-21 | 2023-07-06 |
+| [NOW COME ON NOW](https://open.spotify.com/track/7c6oQ0XE7ajiShh26GC299) | [KYE](https://open.spotify.com/artist/7aD0vAhYP5JsPQPgrd76bp) | [NOW COME ON NOW](https://open.spotify.com/album/6ncJdlq3oqhAxRxrgRkWxi) | 2:35 | 2024-02-22 |  |
 | [Nowhere](https://open.spotify.com/track/717yTlcMr1mOOsZGPBLX68) | [Otosan](https://open.spotify.com/artist/1syjYeo2PptHbZlvJQsjUO), [Julia Lostrom](https://open.spotify.com/artist/6LhvyFKJgz8TdcwOkmPnv0) | [Nowhere](https://open.spotify.com/album/28dAUA6OF4hpjtLqS3EFEQ) | 3:31 | 2020-12-11 | 2021-01-15 |
 | [Numb](https://open.spotify.com/track/10xV5l9nhLvFpR8mqzs0bL) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Numb](https://open.spotify.com/album/3SBeYxkc3Ce7lanK0f3epk) | 2:35 | 2022-06-09 | 2023-03-04 |
 | [Oh No \(Remix\)](https://open.spotify.com/track/1U3fV86b5w51waiFONENNd) | [Joel Fletcher](https://open.spotify.com/artist/2Z4QqhmV5Xw5vX2ZI70HOR), [HOOX](https://open.spotify.com/artist/2n83kKZFMPXPOgfhmQwPRO) | [Oh No \(Remix\)](https://open.spotify.com/album/3dKoHMuyH3KvHRaljZTh8E) | 2:50 | 2021-10-08 | 2021-10-22 |
@@ -716,7 +717,7 @@
 | [Them Girls](https://open.spotify.com/track/5wuwcRpOKOaP1wZiHYGbq6) | [Freejak](https://open.spotify.com/artist/3bhHEBJ3RJGTyOGp0KIB11) | [Them Girls](https://open.spotify.com/album/2zvshIUW633GO4UBXTfAnD) | 2:22 | 2023-02-17 | 2023-05-30 |
 | [These Nights](https://open.spotify.com/track/1GL7vwDnPqCnJ2xGNxNLwG) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [These Nights](https://open.spotify.com/album/6VsiabIfqnY6VH8qJAJVPd) | 2:12 | 2022-07-08 | 2022-08-27 |
 | [Things I Never Nu](https://open.spotify.com/track/1NAYrYgd473ua418mz32xb) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Second Nature](https://open.spotify.com/album/39g7HzX4s9teKLxwNYebw1) | 3:46 | 2022-11-11 | 2022-12-16 |
-| [Think Of Us](https://open.spotify.com/track/4jpNmNXMzO3aVgJhy8sdxL) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Summertime Friends](https://open.spotify.com/album/06NJ4sxQJg1BiSGH9WkzRE) | 2:50 | 2023-12-08 |  |
+| [Think Of Us](https://open.spotify.com/track/4jpNmNXMzO3aVgJhy8sdxL) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Summertime Friends](https://open.spotify.com/album/06NJ4sxQJg1BiSGH9WkzRE) | 2:50 | 2023-12-08 | 2024-02-23 |
 | [Thinkin' of You](https://open.spotify.com/track/2lUkWTfqLLMmCLrH41YpBd) | [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [Bklava \- EP](https://open.spotify.com/album/5vj3Ca8rK10V6Dy01hip5E) | 2:52 | 2020-11-03\* | 2020-11-06 |
 | [This City \- Frank Walker Remix](https://open.spotify.com/track/5SN8Y8Q430cJL4kqboNYlf) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA), [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq) | [This City \(Frank Walker Remix\)](https://open.spotify.com/album/2yITly43GtKHYyJIXEHNwO) | 2:50 | 2020-11-03\* | 2021-01-15 |
 | [This Time \(feat\. Tasman Keith\)](https://open.spotify.com/track/7moFboQ0CzOBlWOMgepIIa) | [Holy Holy](https://open.spotify.com/artist/5KeQyt1QJBjcutJ2AuLNO2), [Tasman Keith](https://open.spotify.com/artist/3Pe4IIW9HoZsmBlKa5G6I1) | [Cellophane](https://open.spotify.com/album/3JVHGXV3vmSWZoDRLiEbpw) | 3:22 | 2023-12-08 | 2024-02-02 |

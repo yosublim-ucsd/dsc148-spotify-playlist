@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37tvjlT1GSK.md) - [plain]
 
 > Románticas, rancheras y bravías, las mejores canciones sierreñas\. El Frizian, Gerardo Ortíz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 736,404 likes - 125 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 736,499 likes - 125 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37tvjlT1GSK.md) - [plain]
 | 124 | [La Niña Del Instagram](https://open.spotify.com/track/1aYCq7zHZ4tHvDUxEN6nHG) | [Grupo TMB](https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT) | [La Niña Del Instagram](https://open.spotify.com/album/393GPWJ8CE4UjBLMXEhSZr) | 3:48 |
 | 125 | [El Fresa](https://open.spotify.com/track/4cMOfkMyTneOnxzFx5KLM3) | [Jose Manuel](https://open.spotify.com/artist/1rXOb9uSnt1qvPF44FTplr) | [El Fresa](https://open.spotify.com/album/1TKxUMokZlKDFlGVq2Pn9f) | 2:40 |
 
-Snapshot ID: `MCwyNzk2NDlhZjE0MGIwOGJjOGE5NmU2YjcwZGZmNjZlMTU1YjU5YjA5`
+Snapshot ID: `MCxlM2YwZjc5ZWYzZDE3YjE1YjA3MWMxM2RlYjFiYWJiMGI5MDgyYjhh`

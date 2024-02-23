@@ -1,7 +1,7 @@
 {
-  "2024-02-22": 333099,
+  "2024-02-23": 333188,
   "date_first_scraped": "2022-05-30",
-  "description": "Lagu-lagu yang terbaik di Malaysia. Cover: Hael Husaini",
+  "description": "Lagu-lagu yang terbaik di Malaysia. Cover: Sarah Suhairi, Alfie Zumi ",
   "name": "Carta Malaysia 50",
   "tracks": [
     {
@@ -1283,7 +1283,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 161470,
       "name": "BY YOUR SIDE",
       "url": "https://open.spotify.com/track/7gG4zvBiCXLSiTi5M6qqhv"
@@ -1341,7 +1341,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 165000,
       "name": "Cemburu",
       "url": "https://open.spotify.com/track/3fbNkHTrMF0bAL9IV6z9dC"
@@ -1671,6 +1671,24 @@
       "duration_ms": 279618,
       "name": "Dawai (From \"Air Mata Di Ujung Sajadah\")",
       "url": "https://open.spotify.com/track/5KKqMjyldESKZbcfEs9QnY"
+    },
+    {
+      "album": {
+        "name": "Dealova",
+        "url": "https://open.spotify.com/album/6p8PaOcS2B8N9MSNgqhkOP"
+      },
+      "artists": [
+        {
+          "name": "Fadhilah Intan",
+          "url": "https://open.spotify.com/artist/452u7UZFOhNTdO5dQwbhzL"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282587,
+      "name": "Dealova",
+      "url": "https://open.spotify.com/track/7I55fdwpyAz4OZbsK6QC3A"
     },
     {
       "album": {
@@ -2892,6 +2910,24 @@
     },
     {
       "album": {
+        "name": "Nada-Nada Cinta",
+        "url": "https://open.spotify.com/album/10J2dxMOfYI0oua3HyLE9y"
+      },
+      "artists": [
+        {
+          "name": "Rossa",
+          "url": "https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283436,
+      "name": "Jangan",
+      "url": "https://open.spotify.com/track/237DyZuDz6R4oKVddI51XR"
+    },
+    {
+      "album": {
         "name": "Jangan Ada Dusta Diantara Kita",
         "url": "https://open.spotify.com/album/0s0gDzEspCuawHzw0SWTTD"
       },
@@ -3099,7 +3135,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 278219,
       "name": "Jiwa Yang Bersedih",
       "url": "https://open.spotify.com/track/6XsFgTG4dY768oIB4Dmeu0"
@@ -3781,6 +3817,24 @@
     {
       "album": {
         "name": "Pilot",
+        "url": "https://open.spotify.com/album/2Ykep6jay9dIiAB9eJq7vo"
+      },
+      "artists": [
+        {
+          "name": "The Lantis",
+          "url": "https://open.spotify.com/artist/1REvGGP2H7cFLGZgK2sStO"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298000,
+      "name": "Lampu Merah",
+      "url": "https://open.spotify.com/track/6E7DsxwI4eOcMHLYRUDCaw"
+    },
+    {
+      "album": {
+        "name": "Pilot",
         "url": "https://open.spotify.com/album/2fm5dfglCcyJ4yVxjIP0qU"
       },
       "artists": [
@@ -3791,7 +3845,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 298000,
       "name": "Lampu Merah",
       "url": "https://open.spotify.com/track/7uwo3VQxUlRtKudAjluuTr"
@@ -4591,7 +4645,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 180576,
       "name": "Mula",
       "url": "https://open.spotify.com/track/1gh9BcsC8eU0FlH5JEuUEV"
@@ -6836,6 +6890,24 @@
     },
     {
       "album": {
+        "name": "Takdir Itu Milik Aku (From \"Takdir Itu Milik Aku\")",
+        "url": "https://open.spotify.com/album/1gKCqDpVuJz9e4gPpeJTOp"
+      },
+      "artists": [
+        {
+          "name": "Liza Hanim",
+          "url": "https://open.spotify.com/artist/0TQk8sb9bPIMKGbvbkB51O"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203750,
+      "name": "Takdir Itu Milik Aku - From \"Takdir Itu Milik Aku\"",
+      "url": "https://open.spotify.com/track/55I53FnWDLYy0DhC8iazxh"
+    },
+    {
+      "album": {
         "name": "Cinta & Doa",
         "url": "https://open.spotify.com/album/4g3aTyVwe84yOlAM9LMWro"
       },
@@ -7467,6 +7539,24 @@
       "duration_ms": 216234,
       "name": "Waktu",
       "url": "https://open.spotify.com/track/025PzVIfqs8GadsWd73r1J"
+    },
+    {
+      "album": {
+        "name": "Wanita Biasa",
+        "url": "https://open.spotify.com/album/3wWZ03MvMHn8mVE7cFztFi"
+      },
+      "artists": [
+        {
+          "name": "Ziva Magnolya",
+          "url": "https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245147,
+      "name": "Wanita Biasa",
+      "url": "https://open.spotify.com/track/5Gk5wniF0YSpkKMPmQqaxZ"
     },
     {
       "album": {

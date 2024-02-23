@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 
 > The best in folk & acoustic today featuring music from Sierra Ferrell
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,835,779 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,835,813 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 | 99 | [Russell County Line](https://open.spotify.com/track/68i0Y8xMaYxLHSeUu4uWtA) | [49 Winchester](https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20) | [Fortune Favors the Bold](https://open.spotify.com/album/1u5IKTsfXmfqqRbtOkHZWw) | 4:09 |
 | 100 | [Jersey Giant](https://open.spotify.com/track/1md6N1TV9uNH2VdiCcYEkM) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Jersey Giant](https://open.spotify.com/album/7HwlzPe0rapJWoSeLp9KDn) | 3:18 |
 
-Snapshot ID: `MCwzZWZhMDc1Njk2NGJkZmM1YjVhNTYwYTJhOGZjOTk3ZDgzNWFlMzNk`
+Snapshot ID: `MCxlMDdlN2Y3OTBhMTNhZWVlYzJjMjZkZDMxNzY4YjQ2MWMwMjczZDJl`

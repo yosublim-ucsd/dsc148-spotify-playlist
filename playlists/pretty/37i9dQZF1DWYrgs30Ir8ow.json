@@ -1,15 +1,15 @@
 {
   "description": "Altijd fris in Fresh Hits. Cover: Ayra Starr",
-  "num_followers": 24384,
+  "num_followers": 24406,
   "original_name": "Fresh Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjRkYzRkZGZjN2JjOTU2ZTcxODljOGViMzgxMjVlYmQ4ZGYwMzkz",
+  "snapshot_id": "MCxiNWQxZjRkYTNkM2RmNjM1Njk4Y2U1MGQzNzVhZDhmMzA4ZjhkOTc2",
   "tracks": [
     {
-      "added_at": "2024-02-19 09:48:17",
+      "added_at": "2024-02-22 23:00:00",
       "album": {
         "name": "Commas",
         "url": "https://open.spotify.com/album/5UX3Gr5uFrtvRvIScps1gA"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/3JozQbIWMHBTKIghXKehVy"
     },
     {
-      "added_at": "2024-02-19 09:48:17",
+      "added_at": "2024-02-22 23:00:00",
       "album": {
         "name": "Lost & Found",
         "url": "https://open.spotify.com/album/2UMTQXRwobqaIDJaYDsHN8"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/7kleqbfZAvPzMMiX1uxCin"
     },
     {
-      "added_at": "2024-02-19 09:48:17",
+      "added_at": "2024-02-22 23:00:00",
       "album": {
         "name": "TEXAS HOLD 'EM",
         "url": "https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9"
     },
     {
-      "added_at": "2024-02-19 09:48:17",
+      "added_at": "2024-02-22 23:00:00",
       "album": {
         "name": "Verrader",
         "url": "https://open.spotify.com/album/3LxnX0bz2R5b5CWsUE3PN6"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/41ftob2dyXVwsrC3Q5oNIq"
     },
     {
-      "added_at": "2024-02-19 09:48:17",
+      "added_at": "2024-02-22 23:00:00",
       "album": {
         "name": "Derni\u00e8re danse (Techno Mix)",
         "url": "https://open.spotify.com/album/3MhGOga5TlR7JfKxDSxv9Q"
@@ -93,7 +93,23 @@
       "url": "https://open.spotify.com/track/5fIZ683j2xPeLAXfHeWKEG"
     },
     {
-      "added_at": "2024-02-19 09:48:17",
+      "added_at": "2024-02-22 23:00:00",
+      "album": {
+        "name": "Make You Mine",
+        "url": "https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC"
+      },
+      "artists": [
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        }
+      ],
+      "duration_ms": 221709,
+      "name": "Make You Mine",
+      "url": "https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL"
+    },
+    {
+      "added_at": "2024-02-22 23:00:00",
       "album": {
         "name": "Streken",
         "url": "https://open.spotify.com/album/6NWyKQDS1bvfOpHvcZ0YdV"
@@ -113,7 +129,7 @@
       "url": "https://open.spotify.com/track/5KXZnw9AK9H2zLqykIvUIZ"
     },
     {
-      "added_at": "2024-02-19 09:48:17",
+      "added_at": "2024-02-22 23:00:00",
       "album": {
         "name": "Lovers In A Past Life (with Rag'n'Bone Man)",
         "url": "https://open.spotify.com/album/3VI38DDpgfFMVPrUi69V5B"
@@ -133,23 +149,27 @@
       "url": "https://open.spotify.com/track/6v4ABPB255HDSWyIj3S9Wn"
     },
     {
-      "added_at": "2024-02-19 09:48:17",
+      "added_at": "2024-02-22 23:00:00",
       "album": {
-        "name": "Make You Mine",
-        "url": "https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC"
+        "name": "Alibi (feat. Rudimental)",
+        "url": "https://open.spotify.com/album/3Ku8LDPYg53Kh59amfFWjL"
       },
       "artists": [
         {
-          "name": "Madison Beer",
-          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        },
+        {
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
         }
       ],
-      "duration_ms": 221709,
-      "name": "Make You Mine",
-      "url": "https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL"
+      "duration_ms": 184852,
+      "name": "Alibi (feat. Rudimental)",
+      "url": "https://open.spotify.com/track/5Jpz4nv8nA6FIYO5gEyQa2"
     },
     {
-      "added_at": "2024-02-19 09:48:17",
+      "added_at": "2024-02-22 23:00:00",
       "album": {
         "name": "Training Season",
         "url": "https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784"
@@ -165,7 +185,27 @@
       "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"
     },
     {
-      "added_at": "2024-02-19 09:48:17",
+      "added_at": "2024-02-22 23:00:00",
+      "album": {
+        "name": "CONTIGO (with Ti\u00ebsto)",
+        "url": "https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 192786,
+      "name": "CONTIGO (with Ti\u00ebsto)",
+      "url": "https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh"
+    },
+    {
+      "added_at": "2024-02-22 23:00:00",
       "album": {
         "name": "Stukje Van Mij",
         "url": "https://open.spotify.com/album/0WuTTSyph8iJopqrYySkOL"
@@ -181,7 +221,7 @@
       "url": "https://open.spotify.com/track/3k9LdosLHcyy4kE5J6pV2p"
     },
     {
-      "added_at": "2024-02-19 09:48:17",
+      "added_at": "2024-02-22 23:00:00",
       "album": {
         "name": "Werkpaarden",
         "url": "https://open.spotify.com/album/7DWMruitVpNxScBcZgCZFH"
@@ -209,7 +249,23 @@
       "url": "https://open.spotify.com/track/3aypmO20NtT2LKFag6ek9Y"
     },
     {
-      "added_at": "2024-02-19 09:48:17",
+      "added_at": "2024-02-22 23:00:00",
+      "album": {
+        "name": "Love On",
+        "url": "https://open.spotify.com/album/7I7rbWQoLZ7PrTMsRfocpL"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 181650,
+      "name": "Love On",
+      "url": "https://open.spotify.com/track/2fB5YRuD88drKpCXQOAk03"
+    },
+    {
+      "added_at": "2024-02-22 23:00:00",
       "album": {
         "name": "Angel Face",
         "url": "https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg"
@@ -225,7 +281,7 @@
       "url": "https://open.spotify.com/track/5hlPrSCx9BvnQ3rCTkblMZ"
     },
     {
-      "added_at": "2024-02-19 09:48:17",
+      "added_at": "2024-02-22 23:00:00",
       "album": {
         "name": "Zomer In M'n Bol (feat. Andr\u00e9 Hazes)",
         "url": "https://open.spotify.com/album/6nULDYcDGqhpZ4P9vksgD5"
@@ -253,27 +309,27 @@
       "url": "https://open.spotify.com/track/5VlY1Th1IgoNCLutkFfUVu"
     },
     {
-      "added_at": "2024-02-19 09:48:17",
+      "added_at": "2024-02-22 23:00:00",
       "album": {
-        "name": "Alibi (feat. Rudimental)",
-        "url": "https://open.spotify.com/album/3Ku8LDPYg53Kh59amfFWjL"
+        "name": "LAST OF US (feat. Rita Ora)",
+        "url": "https://open.spotify.com/album/19wUjYvz97e0wXWHE41PSV"
       },
       "artists": [
         {
-          "name": "Ella Henderson",
-          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
         },
         {
-          "name": "Rudimental",
-          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
         }
       ],
-      "duration_ms": 184852,
-      "name": "Alibi (feat. Rudimental)",
-      "url": "https://open.spotify.com/track/5Jpz4nv8nA6FIYO5gEyQa2"
+      "duration_ms": 190909,
+      "name": "LAST OF US (feat. Rita Ora)",
+      "url": "https://open.spotify.com/track/2Mwmp4qVCe8CJcalsT4xm1"
     },
     {
-      "added_at": "2024-02-19 09:48:17",
+      "added_at": "2024-02-22 23:00:00",
       "album": {
         "name": "Nafsi (Pt. II)",
         "url": "https://open.spotify.com/album/6rneBPWDNtU6TIUTVMehfq"
@@ -297,7 +353,7 @@
       "url": "https://open.spotify.com/track/4bTsUyzB9BG0uMeEJKmTvQ"
     },
     {
-      "added_at": "2024-02-19 09:48:17",
+      "added_at": "2024-02-22 23:00:00",
       "album": {
         "name": "Elevate (feat. RANI)",
         "url": "https://open.spotify.com/album/1BJiT96gyEtwZ42k4OdecY"
@@ -317,7 +373,7 @@
       "url": "https://open.spotify.com/track/1CJUiFwl7TunU6G4tjFf2A"
     },
     {
-      "added_at": "2024-02-19 09:48:17",
+      "added_at": "2024-02-22 23:00:00",
       "album": {
         "name": "Spicy Margarita",
         "url": "https://open.spotify.com/album/0axDmm6r0mlrw4SRIXpIER"
@@ -337,7 +393,7 @@
       "url": "https://open.spotify.com/track/6TFUhEcEsqGVMZeZtAeUzN"
     },
     {
-      "added_at": "2024-02-19 09:48:17",
+      "added_at": "2024-02-22 23:00:00",
       "album": {
         "name": "Stumblin' In",
         "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
@@ -353,7 +409,7 @@
       "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
     },
     {
-      "added_at": "2024-02-19 09:48:17",
+      "added_at": "2024-02-22 23:00:00",
       "album": {
         "name": "Perfect (Exceeder)",
         "url": "https://open.spotify.com/album/2eScJnMQTMY0WYPz2MXWsp"
@@ -377,7 +433,7 @@
       "url": "https://open.spotify.com/track/7jY6W92bLfnXnevTa7JKHi"
     },
     {
-      "added_at": "2024-02-19 09:48:17",
+      "added_at": "2024-02-22 23:00:00",
       "album": {
         "name": "Tuesday",
         "url": "https://open.spotify.com/album/0QvhqTigV3PbcHT93q3Sfn"
@@ -393,27 +449,7 @@
       "url": "https://open.spotify.com/track/7zPOZujiZy4q0RYIx7mKKh"
     },
     {
-      "added_at": "2024-02-19 09:48:17",
-      "album": {
-        "name": "This Is The Life",
-        "url": "https://open.spotify.com/album/5hFY0oK1Ow8h9xIAtliOvp"
-      },
-      "artists": [
-        {
-          "name": "LIZOT",
-          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
-        },
-        {
-          "name": "KYANU",
-          "url": "https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ"
-        }
-      ],
-      "duration_ms": 131388,
-      "name": "This Is The Life",
-      "url": "https://open.spotify.com/track/3Me5bYXeDXqjBVgug53Ula"
-    },
-    {
-      "added_at": "2024-02-19 09:48:17",
+      "added_at": "2024-02-22 23:00:00",
       "album": {
         "name": "Johnny",
         "url": "https://open.spotify.com/album/3voX07TL0mx8vLIVVLwNlR"
@@ -437,7 +473,7 @@
       "url": "https://open.spotify.com/track/61mqrQaWEQ6TsL01b4TuIf"
     },
     {
-      "added_at": "2024-02-19 09:48:17",
+      "added_at": "2024-02-22 23:00:00",
       "album": {
         "name": "Dreaming",
         "url": "https://open.spotify.com/album/0WK5sLNYIynhTomJpn1bqs"
@@ -453,7 +489,7 @@
       "url": "https://open.spotify.com/track/3TBNXtO8ukvpbgvkMuttsb"
     },
     {
-      "added_at": "2024-02-19 09:48:17",
+      "added_at": "2024-02-22 23:00:00",
       "album": {
         "name": "Unwritten",
         "url": "https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL"
@@ -469,7 +505,7 @@
       "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
     },
     {
-      "added_at": "2024-02-19 09:48:17",
+      "added_at": "2024-02-22 23:00:00",
       "album": {
         "name": "Undecided",
         "url": "https://open.spotify.com/album/4rOBvkbMvjHEtQByHEUx4V"
@@ -485,7 +521,7 @@
       "url": "https://open.spotify.com/track/67HfJMTt2jley2uzWzocKe"
     },
     {
-      "added_at": "2024-02-19 09:48:17",
+      "added_at": "2024-02-22 23:00:00",
       "album": {
         "name": "Angel Face",
         "url": "https://open.spotify.com/album/5hTm1YiaWDgGDJdGroOKqI"
@@ -501,7 +537,7 @@
       "url": "https://open.spotify.com/track/005k50cKNdWjOitdP6Y6jz"
     },
     {
-      "added_at": "2024-02-19 09:48:17",
+      "added_at": "2024-02-22 23:00:00",
       "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/4UCjvqGiMnghqo31aPQQ09"
@@ -517,7 +553,7 @@
       "url": "https://open.spotify.com/track/2VDTqhsSzrRxsbjvv4KLPl"
     },
     {
-      "added_at": "2024-02-19 09:48:17",
+      "added_at": "2024-02-22 23:00:00",
       "album": {
         "name": "Never Be Lonely",
         "url": "https://open.spotify.com/album/1DCiXnF1Z9XX4zxYCFytSX"
@@ -537,7 +573,7 @@
       "url": "https://open.spotify.com/track/4beKzTMCCMDizozv4Y3Shj"
     },
     {
-      "added_at": "2024-02-19 09:48:17",
+      "added_at": "2024-02-22 23:00:00",
       "album": {
         "name": "Noodzakelijk Verdriet",
         "url": "https://open.spotify.com/album/2K7gv2r8UMcEbp88ytO12o"
@@ -553,7 +589,7 @@
       "url": "https://open.spotify.com/track/2wvPA1ZpNEtewvbngmbOXY"
     },
     {
-      "added_at": "2024-02-19 09:48:17",
+      "added_at": "2024-02-22 23:00:00",
       "album": {
         "name": "Nu King",
         "url": "https://open.spotify.com/album/5yrqPWuCSAo6beZdIBYAUU"
@@ -573,23 +609,7 @@
       "url": "https://open.spotify.com/track/78dsAqvPezU0xkeEJMjlj3"
     },
     {
-      "added_at": "2024-02-19 09:48:17",
-      "album": {
-        "name": "Haat Me",
-        "url": "https://open.spotify.com/album/6267wKbOwViwFSSz1PwuJv"
-      },
-      "artists": [
-        {
-          "name": "Emma Heesters",
-          "url": "https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM"
-        }
-      ],
-      "duration_ms": 215905,
-      "name": "Haat Me",
-      "url": "https://open.spotify.com/track/50ELw2DvK4J2Z02m0Vphed"
-    },
-    {
-      "added_at": "2024-02-19 09:48:17",
+      "added_at": "2024-02-22 23:00:00",
       "album": {
         "name": "Jolene",
         "url": "https://open.spotify.com/album/41i23J7Vzeb4QPWzKJfa8F"
@@ -613,7 +633,23 @@
       "url": "https://open.spotify.com/track/1iUSupGwxSegT8RlPDJ3Cr"
     },
     {
-      "added_at": "2024-02-19 09:48:17",
+      "added_at": "2024-02-22 23:00:00",
+      "album": {
+        "name": "Grey",
+        "url": "https://open.spotify.com/album/3sNFF8w1fDHGcqRG6bWzhu"
+      },
+      "artists": [
+        {
+          "name": "Yung Filly",
+          "url": "https://open.spotify.com/artist/3OEJ7D4RwbnNFuG9JczKEa"
+        }
+      ],
+      "duration_ms": 169051,
+      "name": "Grey",
+      "url": "https://open.spotify.com/track/4Fuf1v4kPQ6RIvEGlUfvaq"
+    },
+    {
+      "added_at": "2024-02-22 23:00:00",
       "album": {
         "name": "One of the Girls",
         "url": "https://open.spotify.com/album/4T8wBxIvoSRVfoFZzuwOXR"
@@ -637,7 +673,7 @@
       "url": "https://open.spotify.com/track/54XqJ3fP3GxmUejMsKwCaK"
     },
     {
-      "added_at": "2024-02-19 09:48:17",
+      "added_at": "2024-02-22 23:00:00",
       "album": {
         "name": "Verpest",
         "url": "https://open.spotify.com/album/2YBv3ZyINo3Qev4ArgZEZf"
@@ -657,7 +693,7 @@
       "url": "https://open.spotify.com/track/4OXQsETHvL01dQfx3mpCpo"
     },
     {
-      "added_at": "2024-02-19 09:48:17",
+      "added_at": "2024-02-22 23:00:00",
       "album": {
         "name": "Lost & Found",
         "url": "https://open.spotify.com/album/5cW90rGxu6denjf08pebZw"
@@ -673,7 +709,7 @@
       "url": "https://open.spotify.com/track/4vomlztZrN1nspKvzfCEJI"
     },
     {
-      "added_at": "2024-02-19 09:48:17",
+      "added_at": "2024-02-22 23:00:00",
       "album": {
         "name": "LET'S GET FKD UP (feat. Tribbs)",
         "url": "https://open.spotify.com/album/1zz2cxnkEpgyLdSmoPBEjK"
@@ -701,43 +737,7 @@
       "url": "https://open.spotify.com/track/0iB5f04XdJ2tcfhoVkeLV8"
     },
     {
-      "added_at": "2024-02-19 09:48:17",
-      "album": {
-        "name": "Grey",
-        "url": "https://open.spotify.com/album/3sNFF8w1fDHGcqRG6bWzhu"
-      },
-      "artists": [
-        {
-          "name": "Yung Filly",
-          "url": "https://open.spotify.com/artist/3OEJ7D4RwbnNFuG9JczKEa"
-        }
-      ],
-      "duration_ms": 169051,
-      "name": "Grey",
-      "url": "https://open.spotify.com/track/4Fuf1v4kPQ6RIvEGlUfvaq"
-    },
-    {
-      "added_at": "2024-02-19 09:48:17",
-      "album": {
-        "name": "Hoog Staan",
-        "url": "https://open.spotify.com/album/084kEsnvRcomeA5aNj7VLP"
-      },
-      "artists": [
-        {
-          "name": "Yurmaine",
-          "url": "https://open.spotify.com/artist/7LK9Y1esYppZ5ag5BFWooi"
-        },
-        {
-          "name": "Lijpe",
-          "url": "https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Hoog Staan",
-      "url": "https://open.spotify.com/track/7cmPD7aD3RHEOnYTlE2mX3"
-    },
-    {
-      "added_at": "2024-02-19 09:48:17",
+      "added_at": "2024-02-22 23:00:00",
       "album": {
         "name": "Forever (Stay Like This)",
         "url": "https://open.spotify.com/album/1HyxYCoQk0T8iIHKE5fkEm"
@@ -757,7 +757,7 @@
       "url": "https://open.spotify.com/track/7pUtuvFh9SMtFozqwsPHnl"
     },
     {
-      "added_at": "2024-02-19 09:48:17",
+      "added_at": "2024-02-22 23:00:00",
       "album": {
         "name": "Wil Je Dat Ik Blijf",
         "url": "https://open.spotify.com/album/7l16ZGPtMRoVMwAJPxFI1o"

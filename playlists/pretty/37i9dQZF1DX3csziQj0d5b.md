@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3csziQj0d5b.md) - [plain]
 
 > Some bops to take the pain of homework away.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,750,459 likes - 150 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,751,199 likes - 150 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3csziQj0d5b.md) - [plain]
 | 149 | [Wonder](https://open.spotify.com/track/5KCbr5ndeby4y4ggthdiAb) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Wonder](https://open.spotify.com/album/7vif3nVzXURIrjGjHeHytB) | 2:52 |
 | 150 | [prom dress](https://open.spotify.com/track/2u4XZR5A8cRPTPxBLJbAFC) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [the masquerade](https://open.spotify.com/album/7uao4FMrfz8x7lYFrOJb6C) | 3:17 |
 
-Snapshot ID: `MCw3ZjlkMmYyYjZlNDQ0MzNiNTgyNzUxZmI4ZDI2MTcyMmYyMjcwZjFj`
+Snapshot ID: `MCw2YzQyMDkyMGQyNjZkYzlmMjE2MDczM2YyZDhkODVkMzg3OWFhOWY5`

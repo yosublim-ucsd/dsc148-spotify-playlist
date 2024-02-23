@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 
 > New and classic Gospel songs to celebrate the Easter season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,245 likes - 100 songs - 9 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,244 likes - 100 songs - 9 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 | 99 | [Just As I Am](https://open.spotify.com/track/6T9cKNsIuOE3p0mTVgZlIX) | [Wanda Nero Butler](https://open.spotify.com/artist/45G4MMIPUIxPDWLDhuVzY9), [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11) | [Wanda Nero Butler & Yolanda Adams](https://open.spotify.com/album/2Cl4KsxZsmtURyKzXBDSL4) | 3:40 |
 | 100 | [Power In the Blood v1.1](https://open.spotify.com/track/57E9knoyqDbb3RtntQiuly) | [Andrae Crouch](https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7), [Disciples](https://open.spotify.com/artist/4ZCnOYklELEjDUrbP4e5dv) | [Classic Gold: Live In London: Andrae Crouch & The Disciples](https://open.spotify.com/album/2uPR6aDZknw2wWgM4uHkHt) | 4:46 |
 
-Snapshot ID: `MCw4NDA4MWM0ZGUwZWUwNjgxYzE4MjQ4OTE3N2Y1ZmVmNDIwMmY0MWFl`
+Snapshot ID: `MCw5ZDU3YTA2MTVmMjg3MmFjNGRkNWU4NjRjYzkwOWZmNmE0ODFlODk4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vFCryQCDjh.md) - [plain]
 
 > 90년대를 수 놓았던 명곡들을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,685 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,687 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vFCryQCDjh.md) - [plain]
 | 99 | [비밀은 없어](https://open.spotify.com/track/0LRuYG5HETbxUnUwcfjQYf) | [Roo'RA](https://open.spotify.com/artist/7bb3cdFh1kkHdopjeJRgca) | [Roo\`ra Best Album](https://open.spotify.com/album/0Oo0yUuomioW1BfFs6tNMm) | 4:03 |
 | 100 | [무기여 잘 있거라](https://open.spotify.com/track/2r6mL74mX7G7BMAPqXBPsF) | [Park Sang Min](https://open.spotify.com/artist/7nbE2lMt1tbp5y3Uivn0bu) | [화산](https://open.spotify.com/album/05cmrYERspfIVBw3Hx57DV) | 4:25 |
 
-Snapshot ID: `MCwxMTE5N2YzNGEzMGYyZjJiYmU0YzFmZWFmZWExODE2MzU3YzFkODc1`
+Snapshot ID: `MCw4MTFhNWRmNDYzNjk1MzVlODJmOTBiODc4N2E2YmY1OWVlNWVjMzEw`

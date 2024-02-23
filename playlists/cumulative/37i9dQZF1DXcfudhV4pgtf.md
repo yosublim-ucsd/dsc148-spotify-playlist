@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:7icoOm5fKKPo49jVxoj1Cq">Anfisa Letyago</a>'s favorite tracks\. Updated regularly\. Curated by Anfisa Letyago\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-96 songs - 8 hr 35 min
+97 songs - 8 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Punk Coding](https://open.spotify.com/track/17PxRve6HMubrjkioWYqCd) | [LDS](https://open.spotify.com/artist/6d9eyCKSzKbGK4bTM2erwG) | [Organic Computer Awareness](https://open.spotify.com/album/3TRTjyxDqR2eY17o9djsZ5) | 4:57 | 2024-01-30 |  |
 | [Rave Daddy](https://open.spotify.com/track/0EK5x3zyROo3sxmQ7wTMxw) | [Bjarki](https://open.spotify.com/artist/6FtSCON62H1CEJtN39y9yI) | [Rave Daddy](https://open.spotify.com/album/44mhDfYvB63uHiLLCOc1Zi) | 4:30 | 2024-01-30 |  |
 | [Rejected \- Original Mix](https://open.spotify.com/track/6l4TKAqemxk0im4XkmBzHu) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Future History](https://open.spotify.com/album/4wSC9GM9351UEUtkFsdLr0) | 4:49 | 2024-01-30 |  |
-| [Rosso Profondo](https://open.spotify.com/track/0Regj8wXZsDesHK6DrWaDg) | [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq) | [Rosso Profondo](https://open.spotify.com/album/5yaUSupnWkaCaVqSlbubbk) | 5:33 | 2023-02-21 |  |
+| [Rosso Profondo](https://open.spotify.com/track/0Regj8wXZsDesHK6DrWaDg) | [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq) | [Rosso Profondo](https://open.spotify.com/album/5yaUSupnWkaCaVqSlbubbk) | 5:33 | 2023-02-21 | 2024-02-23 |
 | [Rove Ranger \- Surfer](https://open.spotify.com/track/3OS9SPEFyyFY9PVue1BOsQ) | [Rove Ranger](https://open.spotify.com/artist/2tcPPLnCV4T3tevcfw1Iss) | [HOME I](https://open.spotify.com/album/4oIxUf66to46M5IWpNbQdN) | 4:06 | 2023-02-21 | 2024-01-31 |
 | [Sci Si](https://open.spotify.com/track/3ZWuxoEmS8KkYvZoRQSIy7) | [Mor Elian](https://open.spotify.com/artist/4nLavg4nn48n7wwx2AIklZ) | [Sci Si](https://open.spotify.com/album/71kGI5p0ca13pTv78f2w9P) | 5:17 | 2023-02-21 | 2024-01-31 |
 | [Second Self](https://open.spotify.com/track/73cwB2E3k7T6IHhtyUsAFW) | [FILM \(IN\)](https://open.spotify.com/artist/2yj3A6f3QJAsRjVhWi1gKt) | [FILM](https://open.spotify.com/album/6AqPkH84uTxDCu4yoKOx7u) | 5:29 | 2023-02-21 | 2024-01-31 |
@@ -103,6 +103,7 @@
 | [Wide Range](https://open.spotify.com/track/3rBZNc7X9DqNG3JApxvtJ5) | [Answer Code Request](https://open.spotify.com/artist/52NOZYgYNsmv3nS0me6cqO), [Amotik](https://open.spotify.com/artist/6EROUCmvQtSuBUkZ9nNOOO) | [LED](https://open.spotify.com/album/38lEC37x4M5CsqVfgXDjWr) | 5:17 | 2024-01-30 |  |
 | [Will U](https://open.spotify.com/track/2fIC3Uy9pi0nSwAsTVt4WC) | [Oprofessionell](https://open.spotify.com/artist/35niYtdYOBS0VmZEYuNgs1) | [UTE003](https://open.spotify.com/album/0rVccOc3vA7BUFOjH0lnqd) | 7:35 | 2024-01-30 |  |
 | [With You](https://open.spotify.com/track/71X0yWa9OmTa4BLSYCegYb) | [nthng](https://open.spotify.com/artist/1V0EQCS8125xaDrR4ZURGO) | [Hypnotherapy](https://open.spotify.com/album/70xUST6t5AMSDC1N5bx2br) | 7:39 | 2024-01-30 |  |
+| [You & Me](https://open.spotify.com/track/4mwYnQIIIQMZ2fv1bA1v9E) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq) | [You & Me](https://open.spotify.com/album/1nbX5SpbInsusz0qYRcrr2) | 2:50 | 2024-02-23 |  |
 | [Zoom Pool](https://open.spotify.com/track/27N7odSNzgDu9PHwo9seaw) | [THIRD WIFE](https://open.spotify.com/artist/3bfXMYZJKvajmg39wBwaQY) | [Zoom Pool](https://open.spotify.com/album/3VplRgnKvBvtskhN9BvwV9) | 5:20 | 2023-02-21 | 2024-01-31 |
 
 \*This playlist was first scraped on 2023-05-31. Prior content cannot be recovered.

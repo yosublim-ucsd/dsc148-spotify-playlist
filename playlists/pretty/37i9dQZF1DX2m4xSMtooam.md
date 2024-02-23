@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2m4xSMtooam.md) - [plain]
 
 > Relax to the sweet and soothing sound of Bossa nova.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,220 likes - 150 songs - 9 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,339 likes - 150 songs - 9 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2m4xSMtooam.md) - [plain]
 | 149 | [Estágio](https://open.spotify.com/track/2Z5CvWJ5kgga6l3g4WaTTL) | [da Suécia](https://open.spotify.com/artist/4oOtPyWe8TK5mn4gKJDNse) | [Estágio](https://open.spotify.com/album/5YpDYJcj7TWf8mxWD0DlQk) | 4:19 |
 | 150 | [Goin' Home \- Rudy Van Gelder Edition/2007 Digital Remaster](https://open.spotify.com/track/4vmyjeAmH2YW1Zf2YhTca6) | [Ike Quebec](https://open.spotify.com/artist/6y7dRlvApiCjP12JrxWQjh) | [Bossa Nova Soul Samba \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/4ntjTCmyhwHIsK12RScxRP) | 5:41 |
 
-Snapshot ID: `MCw3YjU0MmQ1NjYxOWZkYmJkZGM0ZjkyZTE5NDVmZDcxMGYwZTNhYTMw`
+Snapshot ID: `MCw5YzFjOGEwY2U3ZThlZjllMjZmOTI2ZDlkMzNhOWZmZDYwMTliYjY0`

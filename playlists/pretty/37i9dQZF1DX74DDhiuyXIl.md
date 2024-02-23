@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74DDhiuyXIl.md) - [plain]
 
 > 回家的路上，有好聽的歌曲陪伴，會讓人暫時忘了疲倦。
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,550 likes - 75 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,594 likes - 75 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74DDhiuyXIl.md) - [plain]
 | 74 | [Love Me True](https://open.spotify.com/track/6vuxvUXRXUvsMDDx9bGphD) | [Power Station](https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy) | [Because of Love](https://open.spotify.com/album/6x1tyJxeLAr4ga3SxwFy91) | 5:13 |
 | 75 | [放過自己](https://open.spotify.com/track/1AVYznIek3SoK9xSAsnAuH) | [Ada Zhuang](https://open.spotify.com/artist/42l9R70OWvywz9JN9DCVOM) | [放過自己](https://open.spotify.com/album/4JbsUHHIczczvvAPh137S8) | 4:09 |
 
-Snapshot ID: `MCxiMTVlNjIxM2M5NmIzNzdlYzZhZDBmZTQ4YjI4ZTI4ZmJkZDk0NTI0`
+Snapshot ID: `MCw2ODM0YmYyOTUwYjI2YTJlYzVkMGEyNGUzM2U0OTJmOGFjOGVmMDU0`

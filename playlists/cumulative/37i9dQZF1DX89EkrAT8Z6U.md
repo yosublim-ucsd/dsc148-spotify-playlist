@@ -4,7 +4,7 @@
 
 > A mixtape for the perfect anime fight scene\. Also check out <a href='spotify:playlist:37i9dQZF1EId8uVIwoG4N5'>Anime Rap Mix</a>
 
-310 songs - 13 hr 7 min
+311 songs - 13 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,7 @@
 | [King Kai](https://open.spotify.com/track/04tAzmldYGn6DAZrpny2WG) | [Khantrast](https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo), [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [King Kai](https://open.spotify.com/album/5pxT6OgFygrOCvCqaUVnxe) | 1:43 | 2023-09-06 | 2023-09-30 |
 | [Kismet](https://open.spotify.com/track/3owRFZTvTuWgNlUkbI6YgS) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [19](https://open.spotify.com/album/0jQjCFXUVRUrwUN7ACw0h8) | 2:51 | 2022-05-25 | 2022-07-27 |
 | [Kujo Freestyle](https://open.spotify.com/track/1VvwxqIfKRazmvE7zdDFRg) | [Sinoda](https://open.spotify.com/artist/0ndm6JWcrLhnmrbVzSGi0b) | [Kujo Freestyle](https://open.spotify.com/album/2x5cyj5Lfd8a4CUSRauDPx) | 1:55 | 2023-07-13 | 2024-01-06 |
-| [Kujo Freestyle](https://open.spotify.com/track/50wSSOhJIC80JyDblxaDIu) | [Sinoda](https://open.spotify.com/artist/0ndm6JWcrLhnmrbVzSGi0b) | [Kujo Freestyle](https://open.spotify.com/album/1K5NQ3uYpYENDGyt84BhYV) | 1:55 | 2024-01-12 |  |
+| [Kujo Freestyle](https://open.spotify.com/track/50wSSOhJIC80JyDblxaDIu) | [Sinoda](https://open.spotify.com/artist/0ndm6JWcrLhnmrbVzSGi0b) | [Kujo Freestyle](https://open.spotify.com/album/1K5NQ3uYpYENDGyt84BhYV) | 1:55 | 2024-01-12 | 2024-02-23 |
 | [Kusakabe](https://open.spotify.com/track/6uExHIneReZOje7uvWAPmm) | [Aerial Ace](https://open.spotify.com/artist/0MQEUY64e086Zu5Yp85gj2), [Ham Sandwich](https://open.spotify.com/artist/10IrmnIj8FmleJotGxwTRX) | [Kusakabe](https://open.spotify.com/album/5PiLVdRmpaVAMcYgezB7JB) | 2:28 | 2022-05-25 | 2022-06-26 |
 | [Kyouran Hey Kids!!](https://open.spotify.com/track/38kcwx5znepLWCIBID0Bwm) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [FIXION](https://open.spotify.com/album/7uy0IV2P1VxmeYcssedEq0) | 4:10 | 2022-07-08 | 2023-11-29 |
 | [LA ESPADA](https://open.spotify.com/track/2KYNQpVdHsqC84TgJa5T7O) | [Eternal Raijin](https://open.spotify.com/artist/2GuyBEQIm7jzDzdSNTjPQe) | [LA ESPADA](https://open.spotify.com/album/251w9v57Ijs1ZCAiwW0hjs) | 2:57 | 2023-01-12 |  |
@@ -200,6 +200,7 @@
 | [OKE](https://open.spotify.com/track/6Qah1RanKHrrv7iYoqjNKM) | [Maddy Soma](https://open.spotify.com/artist/1wFTlSSnvzNxs7FpbTyEuO) | [OKE](https://open.spotify.com/album/2yZNGTY9G1WABteaesNDRR) | 2:26 | 2022-10-07 | 2022-11-13 |
 | [OLIVIA](https://open.spotify.com/track/2s14ypvd880AiEfZssEjaY) | [Softwilly](https://open.spotify.com/artist/0fAEWMlRd4yiJBT2usaqqc), [Yung Kage](https://open.spotify.com/artist/7j8MiVdcaaVpUvhkXWwYDT) | [OLIVIA](https://open.spotify.com/album/3hNNuCctdqZqKJvPcb5UbV) | 2:23 | 2022-05-25 | 2023-09-30 |
 | [omg](https://open.spotify.com/track/036vYJjHZaL2wt57Y9po39) | [Anzyeity](https://open.spotify.com/artist/70bFGn5xdE74H0YNFVH3Mq) | [omg](https://open.spotify.com/album/0zPL3rDE8KZgpWSiikz8aK) | 1:29 | 2023-09-15 | 2023-09-27 |
+| [ONE CALL](https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [Ghetto Fabulous](https://open.spotify.com/album/2D1j7mjB55lvygjMmYgTYT) | 2:01 | 2024-02-22 |  |
 | [Out thë way](https://open.spotify.com/track/6IyoLWzljeR3ldQo4KWHT6) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Lyfë](https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu) | 2:30 | 2023-01-12 | 2023-05-23 |
 | [paranoia](https://open.spotify.com/track/7w4t6sPVdboBZpa5prmUuj) | [KENTENSHI](https://open.spotify.com/artist/7Ad37JjLQE0Gjd9YuGHj3j) | [paranoia](https://open.spotify.com/album/6jS7gC4DBGC5GLA99RFwEx) | 1:57 | 2023-09-15 |  |
 | [paranoia agent](https://open.spotify.com/track/2xu7cNiSsc4MbJRuzQxNxb) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U), [KAMAARA](https://open.spotify.com/artist/06d6Jun2N1hugnXeN98kQ0) | [paranoia agent](https://open.spotify.com/album/6fLqeT8Z5Vkq84Kfw0o8I7) | 2:57 | 2023-08-22 | 2023-09-30 |

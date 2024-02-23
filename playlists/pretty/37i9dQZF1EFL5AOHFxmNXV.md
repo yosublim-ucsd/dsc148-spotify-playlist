@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL5AOHFxmNXV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6tNq3vprcBeO8S36v06ylj">PartyNextDoor</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,240 likes - 141 songs - 8 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,239 likes - 141 songs - 8 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,8 +113,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL5AOHFxmNXV.md) - [plain]
 | 103 | [Better Man \(feat\. Rick Ross\)](https://open.spotify.com/track/6Oj8Uf2qnCNDEIJNOuQbLc) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Seven Days](https://open.spotify.com/album/5hGC6Zuhu4JaC0YXb8iejw) | 4:37 |
 | 104 | [Temptations](https://open.spotify.com/track/1bgpUVB4gPYYNpMBLeyiid) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 3 \(P3\)](https://open.spotify.com/album/2veXxRriGPw4fFBZQNNMfQ) | 2:43 |
 | 105 | [Whole Lotta Liquor \[Feat\. Future, PARTYNEXTDOOR\]](https://open.spotify.com/track/4PBiof9BsDvIHAziFWVrMC) | [Rubi Rose](https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [For The Streets](https://open.spotify.com/album/3kt6kVdzG272bxMGMSkGlm) | 2:57 |
-| 106 | [Nothing Easy to Please](https://open.spotify.com/track/14NUhdjQHbAVesSRmK2n7M) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 3 \(P3\)](https://open.spotify.com/album/7wuiHCscUN4WZV4jdLEFHt) | 4:23 |
-| 107 | [Sex In The Porsche](https://open.spotify.com/track/7bHft9FWtH4KKjFe3qetJM) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [The Love Album: Off The Grid \(Extended\)](https://open.spotify.com/album/3WLWqmiyt0appVWYwm2mK2) | 3:33 |
+| 106 | [Sex In The Porsche](https://open.spotify.com/track/7bHft9FWtH4KKjFe3qetJM) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [The Love Album: Off The Grid \(Extended\)](https://open.spotify.com/album/3WLWqmiyt0appVWYwm2mK2) | 3:33 |
+| 107 | [Nothing Easy to Please](https://open.spotify.com/track/14NUhdjQHbAVesSRmK2n7M) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 3 \(P3\)](https://open.spotify.com/album/7wuiHCscUN4WZV4jdLEFHt) | 4:23 |
 | 108 | [Keep Calm](https://open.spotify.com/track/37AewLBJI8PXeDltljfIMs) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Morning After](https://open.spotify.com/album/1byBN7cXhocL7f10LA7E9L) | 4:44 |
 | 109 | [Make a Mall](https://open.spotify.com/track/3IXAiQPAN5FXsETn9Gk3PR) | [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Make a Mall](https://open.spotify.com/album/4oCeqTNixwJLgsPjJmW5z2) | 3:02 |
 | 110 | [Goodlove](https://open.spotify.com/track/4qAPq3U8GkcKmU8lQcsKLD) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ) | [ULTRAVIOLET](https://open.spotify.com/album/75LxF9bnfpeimog46qoQJl) | 4:09 |
@@ -150,4 +150,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL5AOHFxmNXV.md) - [plain]
 | 140 | [Like That](https://open.spotify.com/track/0ABKToGGd9V58REvHDTX88) | [S.Carter](https://open.spotify.com/artist/69QnpszMblbP1UG8hyNceY) | [Vice Party Riddim](https://open.spotify.com/album/5ezBqBdt5YSQl0nPxWXxA0) | 3:32 |
 | 141 | [You Know](https://open.spotify.com/track/0WDI9y83HSMV8Cbrk5AX2X) | [TIMCOO$AUSE](https://open.spotify.com/artist/3W9DUcJGwa3oAlbhPAJBYG) | [Heartbreak Central II](https://open.spotify.com/album/2g3up2pt3tpQzRxB1hZLsJ) | 4:07 |
 
-Snapshot ID: `Mjg0NzYxNDAsMDAwMDAwMDAyY2JhY2M5YmEyOGIzZmI4MDc4ODhiNGZjMWRjZjZiNA==`
+Snapshot ID: `Mjg0Nzc1ODAsMDAwMDAwMDBhZGUzMGVkODU5OTMyOTZhYmFkZjFhYzBkMTkzODA2Ng==`

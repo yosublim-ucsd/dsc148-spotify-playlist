@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjpQgC7Wtwz.md) - [plain]
 
 > ¡Hay tamales! ¡Tamales calientitos! Verdes, rojos, de dulce, de mole, ¡y hasta oaxaqueños!
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,553 likes - 125 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,594 likes - 125 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjpQgC7Wtwz.md) - [plain]
 | 124 | [Golpes en el Corazón](https://open.spotify.com/track/5fXk93H1gUgNtZrDGiNLR4) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Golpes en el Corazón](https://open.spotify.com/album/1v2sXZ3GCmKSwGOM24VSiZ) | 3:31 |
 | 125 | [Skápate](https://open.spotify.com/track/1vLn1lpgNJTHLcLSJqLEK0) | [Los De Abajo](https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW), [Julieta Venegas](https://open.spotify.com/artist/0r0eibQp01HGqJ2G5ZI7ZC), [Cheko Biloba](https://open.spotify.com/artist/15Iv3aQ1jLdyRLvbJ5Vdo2), [Dr\. Shenka](https://open.spotify.com/artist/4y4EPNQdZnWTw0XoNWF7c1) | [Latin Ska Force](https://open.spotify.com/album/0nqw5cvwdXNtyGv0H9WEDt) | 3:37 |
 
-Snapshot ID: `MCwzYWM4NDBmNTFhY2NkYzk3YzBhZDBhZGI1MzJlMGI4MWFjMTg3MDQ5`
+Snapshot ID: `MCw4ODA1NTE4MzM0NDlkOWI3MTZjYWEzZWM2NjlmM2NiZmQ4NjcwZjQx`

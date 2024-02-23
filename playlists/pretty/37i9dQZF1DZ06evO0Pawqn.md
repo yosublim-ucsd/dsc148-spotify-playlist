@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Pawqn.md) - [plain]
 
 > This is Los Tiranos Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,017 likes - 51 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,019 likes - 51 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,17 +33,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Pawqn.md) - [plain]
 | 23 | [Extravio](https://open.spotify.com/track/4WpmldTXZXmy2n2SQi3HQE) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Entrega Total](https://open.spotify.com/album/1ynIsTxuLWB8gcIIOEV4pN) | 2:57 |
 | 24 | [Sabor a Mi](https://open.spotify.com/track/0yaZWlPAoBm3iyQa8F3k4X) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Inolvidables](https://open.spotify.com/album/4jBi66BbClFguTlMaPijcr) | 3:15 |
 | 25 | [MI Amiga,MI Amor](https://open.spotify.com/track/6OhVAKo5GdXlSiPsZYqCpZ) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Por Siempre](https://open.spotify.com/album/6DrYJjF6s1khX4qntiY3ns) | 3:18 |
-| 26 | [Sentencia](https://open.spotify.com/track/0A68MP0eyN498lCVN1xi1s) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Pa Que Son Pasiones](https://open.spotify.com/album/01yx9SBrqS2cmbXdGZ52Ze) | 3:12 |
-| 27 | [Para Morir Iguales](https://open.spotify.com/track/4toc0zrnlmaPUTeo9YKD5w) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Con Sangre Nortena](https://open.spotify.com/album/34hVlKjJ6JvQN9b7p1tTCr) | 3:14 |
+| 26 | [Para Morir Iguales](https://open.spotify.com/track/4toc0zrnlmaPUTeo9YKD5w) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Con Sangre Nortena](https://open.spotify.com/album/34hVlKjJ6JvQN9b7p1tTCr) | 3:14 |
+| 27 | [Sentencia](https://open.spotify.com/track/0A68MP0eyN498lCVN1xi1s) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Pa Que Son Pasiones](https://open.spotify.com/album/01yx9SBrqS2cmbXdGZ52Ze) | 3:12 |
 | 28 | [Historia de un Amor](https://open.spotify.com/track/1ml853VvNJ960JkbfHSvyN) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Inolvidables](https://open.spotify.com/album/4jBi66BbClFguTlMaPijcr) | 3:26 |
 | 29 | [Matame a Besos](https://open.spotify.com/track/0om9GXGwk5d7VNyp0nOSuW) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Tiranos del Norte](https://open.spotify.com/album/2N2PsW32lWDtPq1wM8EGKf) | 3:17 |
 | 30 | [Cajita De Cartón](https://open.spotify.com/track/758r1Fu3SHRePFwLA367Rf) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Voy A Pedirte Perdón](https://open.spotify.com/album/3aedPb0XrY7mikfdPjmCy6) | 2:41 |
 | 31 | [De Su Vida Me Ire](https://open.spotify.com/track/5CSN3xcAG1e8jpPKDaoj4w) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Hermosa Tirana](https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn) | 2:57 |
 | 32 | [Tragos Amargos](https://open.spotify.com/track/53qTj9XcdiKPwIuakXo5dv) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Inolvidables](https://open.spotify.com/album/4jBi66BbClFguTlMaPijcr) | 2:44 |
 | 33 | [Ni La Vida Es Mia](https://open.spotify.com/track/328esIvzI95ilj8G26ilbT) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Juego Peligroso](https://open.spotify.com/album/11dW5IqcLzDkruN3LtyQvN) | 3:24 |
-| 34 | [Hay una Persona en Este Mundo](https://open.spotify.com/track/73KDGz61qi7byZhoi0mX5p) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [De la Tierra al Cielo VII](https://open.spotify.com/album/3gEDDLBunavFzx7qenQPuh) | 2:56 |
+| 34 | [Hasta La Miel Amarga \(En vivo\)](https://open.spotify.com/track/09svmcMAbgXvCsP1kMsLjj) | [Los Nuevos Rebeldes](https://open.spotify.com/artist/3OFZZxPrO2uYjDVglqTwEr), [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Hasta La Miel Amarga \(En vivo\)](https://open.spotify.com/album/4CiA8UW1cPEuZAg32uBjAp) | 3:29 |
 | 35 | [Cuando Sola Estes](https://open.spotify.com/track/67ZW7fVVWWhN2D9SQxOTxv) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Hermosa Tirana](https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn) | 3:07 |
-| 36 | [Hasta La Miel Amarga \(En vivo\)](https://open.spotify.com/track/09svmcMAbgXvCsP1kMsLjj) | [Los Nuevos Rebeldes](https://open.spotify.com/artist/3OFZZxPrO2uYjDVglqTwEr), [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Hasta La Miel Amarga \(En vivo\)](https://open.spotify.com/album/4CiA8UW1cPEuZAg32uBjAp) | 3:29 |
+| 36 | [Hay una Persona en Este Mundo](https://open.spotify.com/track/73KDGz61qi7byZhoi0mX5p) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [De la Tierra al Cielo VII](https://open.spotify.com/album/3gEDDLBunavFzx7qenQPuh) | 2:56 |
 | 37 | [Te Pido y Te Ruego](https://open.spotify.com/track/7CP4iGgVAKJvK2ZZbL7Kqi) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Asomate a Mi Alma](https://open.spotify.com/album/4YBewtZ8JtwPqZT1h7IFph) | 2:54 |
 | 38 | [Veinte más](https://open.spotify.com/track/1IJAF9Rdh2DGxDUQqhwMmv) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv), [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Amistades](https://open.spotify.com/album/44LrvNvSvNp8Hwmo9twwYs) | 3:12 |
 | 39 | [En Tu Dia Mi Amor](https://open.spotify.com/track/7h6ulEngQG3YQqX8DPpZFH) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Hermosa Tirana](https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn) | 2:49 |
@@ -53,11 +53,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Pawqn.md) - [plain]
 | 43 | [Que Te Perdone Dios](https://open.spotify.com/track/7tf3InyYrlyM1hVSbqUYmE) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Hermosa Tirana](https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn) | 3:25 |
 | 44 | [Echame a Mi la Culpa](https://open.spotify.com/track/511ZpnhnfDK6payDHFkIpp) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [30 Exitos](https://open.spotify.com/album/5z9l5t8x9UDOWOMKWSBXz9) | 3:50 |
 | 45 | [Para la Reina](https://open.spotify.com/track/5Ok9Oqj5HAvIfcbfMt6vPc) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Para Mi Reina](https://open.spotify.com/album/1RhzfA1RNDKFwlwwP3XTeM) | 3:20 |
-| 46 | [Por Una Mujer Bonita](https://open.spotify.com/track/39AnTZLp0oKSewkKjFZ6Jv) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Exitos De Oro](https://open.spotify.com/album/5gP2oZWJVWOCrEBH1pZRrZ) | 3:12 |
-| 47 | [Mares de Licor \- En Vivo](https://open.spotify.com/track/0TEVzhoz8bTA6vhOLM7c2m) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Grandes Éxitos \(En Vivo\)](https://open.spotify.com/album/7pEcnufaP1g1YEEXHUEQM0) | 2:26 |
+| 46 | [Mares de Licor \- En Vivo](https://open.spotify.com/track/0TEVzhoz8bTA6vhOLM7c2m) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Grandes Éxitos \(En Vivo\)](https://open.spotify.com/album/7pEcnufaP1g1YEEXHUEQM0) | 2:26 |
+| 47 | [Por Una Mujer Bonita](https://open.spotify.com/track/39AnTZLp0oKSewkKjFZ6Jv) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Exitos De Oro](https://open.spotify.com/album/5gP2oZWJVWOCrEBH1pZRrZ) | 3:12 |
 | 48 | [Rosas Tristes](https://open.spotify.com/track/21gb8fPgoAR7V31dnqr0f0) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Invencibles](https://open.spotify.com/album/12ECqvcpA6cSRdDN8sif7c) | 2:37 |
 | 49 | [Corazon de Vecindad](https://open.spotify.com/track/56tdpVNcEEwCTIvaZRlRk9) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Tesoros de Coleccion, Vol\. 1](https://open.spotify.com/album/43YQOZfMDgWtqa2LZ7R7eR) | 3:07 |
 | 50 | [De Corazon Ranchero](https://open.spotify.com/track/4nARb8o7ElcHDrAoeVj6K8) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Mis 30 Mejores Canciones](https://open.spotify.com/album/5sZ8JHwkEV2s0Dbv0ylSmZ) | 3:03 |
 | 51 | [El Bambino](https://open.spotify.com/track/2SxPkJSpGqdcl1KzBENz8K) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [El Bambino](https://open.spotify.com/album/7GU8JPZrEB65wftrnNEJvX) | 2:22 |
 
-Snapshot ID: `Mjg0NzUyOTEsMDAwMDAwMDBkMDBiNTEzZGVjZDM1NWQ3YmNjZDMyZjRlZWQ1NmFlZg==`
+Snapshot ID: `Mjg0NzcwNzUsMDAwMDAwMDA1OWQ1YzQ3YzYxYjZkZTFlOWE1ZThlOTM2YTE1ZDczOQ==`

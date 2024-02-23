@@ -1,5 +1,5 @@
 {
-  "2024-02-22": 86282,
+  "2024-02-23": 86319,
   "date_first_scraped": "2021-12-21",
   "description": "Calm and soft sounds of Jazz to help you relax and unwind.",
   "name": "Calming Jazz",
@@ -475,7 +475,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 183701,
       "name": "Beautiful Skin",
       "url": "https://open.spotify.com/track/6RCaFbkhc54IEtih0e3JhO"
@@ -1163,6 +1163,28 @@
       "duration_ms": 275066,
       "name": "Dans mon pays",
       "url": "https://open.spotify.com/track/5ej5LGbMYLgfpNYY85bYv9"
+    },
+    {
+      "album": {
+        "name": "Days of Hope",
+        "url": "https://open.spotify.com/album/3PgS9gBwNFLDkBxNeSbBBk"
+      },
+      "artists": [
+        {
+          "name": "Ola W Jansson",
+          "url": "https://open.spotify.com/artist/4hoFdBmz4b5NykkV0SCEVz"
+        },
+        {
+          "name": "W JAZZ TRIO",
+          "url": "https://open.spotify.com/artist/4nFofMNAntqM5p8Q4ha2YA"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154765,
+      "name": "Days of Hope",
+      "url": "https://open.spotify.com/track/2du32xbCagN60GvRvtbRmH"
     },
     {
       "album": {

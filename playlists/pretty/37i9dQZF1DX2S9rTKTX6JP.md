@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 
 > killer rock & alternative covers\. Cover: Paramore
 
-[Spotify](https://open.spotify.com/user/spotify) - 670,454 likes - 150 songs - 9 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 670,548 likes - 150 songs - 9 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 | 149 | [Blinded By The Light \- From "Super Troopers 2" Soundtrack](https://open.spotify.com/track/3kgtj0csPcN5uqPyEObXu9) | [Eagles Of Death Metal](https://open.spotify.com/artist/02uYdhMhCgdB49hZlYRm9o) | [Blinded By The Light \(From "Super Troopers 2" Soundtrack\)](https://open.spotify.com/album/35CSAGjxuiLJhGEQ1KoRY9) | 4:36 |
 | 150 | [Tainted Love](https://open.spotify.com/track/3TJYSrFUkSSd95XXdMNgmY) | [Holy Wars](https://open.spotify.com/artist/2dTOWcCL0cYviin0Uz1lj4), [NOCTURN](https://open.spotify.com/artist/0U8NYuumNlHvaXwMAvu87K) | [Tainted Love](https://open.spotify.com/album/3obOuWdKKDTA5toHFQhQ0z) | 3:24 |
 
-Snapshot ID: `MCw5MTQxYjQwYjg1YWIxNjA2MDJjZjA2YWYyNGY1YjRjOTIwMTA1NDMz`
+Snapshot ID: `MCw5M2NhZjIyNzY5OTg4ZjFlYjllNTU1YjgyN2YzY2NjZWRmYzc5NDM3`

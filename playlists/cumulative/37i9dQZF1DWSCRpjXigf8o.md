@@ -4,7 +4,7 @@
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-518 songs - 1 day 7 hr 41 min
+520 songs - 1 day 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [Fashion](https://open.spotify.com/track/4qDHWmO7CiHNtX0Y5gk6O9) | [Bricknasty](https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd), [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp) | [Fashion](https://open.spotify.com/album/5k6RHg5QRy9E4erIcJgZiC) | 2:15 | 2023-03-07 | 2023-04-21 |
 | [Fast Car](https://open.spotify.com/track/1SN1vSPsr4V4tIUTR3s8YW) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Dakota](https://open.spotify.com/artist/2zzpznMuhKlKlqh1ma7Sms) | [Blue](https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L) | 3:32 | 2022-12-15 | 2023-02-08 |
 | [Fast Car](https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Tracy Chapman](https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8) | 4:56 | 2022-12-15 |  |
+| [Feel Those Things \- Edit](https://open.spotify.com/track/4cYKgQeEG6b929cRBHTXf2) | [Bryony Jarman\-Pinto](https://open.spotify.com/artist/4qGRPAtF4Dnuy1pZEH8Pgv) | [Feel Those Things / Riverside](https://open.spotify.com/album/6yQOcjm11PEUQF4qANYI2G) | 3:32 | 2024-02-22 |  |
 | [Feels Like You](https://open.spotify.com/track/21UPL4RXZPmg2TZ2DgWADj) | [Faime](https://open.spotify.com/artist/6bNCZ9mUA7Qpg8Vu6WGox4) | [Feels Like You](https://open.spotify.com/album/6KQTZTlcnqA82p6RkQk0yr) | 3:18 | 2023-03-07 | 2023-03-18 |
 | [Fine Day](https://open.spotify.com/track/5pDaT8owMZaH9ZRCZjAYgs) | [ABOY](https://open.spotify.com/artist/67Cl557uIp08IkVBI79Wub) | [Fine Day](https://open.spotify.com/album/3v7AHXJAJeYIfCibPT12fZ) | 3:03 | 2024-01-30 |  |
 | [Fire On Fire \- From "Watership Down"](https://open.spotify.com/track/5rFj8OzffT0iggSjcBaeND) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Fire On Fire \(From "Watership Down"\)](https://open.spotify.com/album/5utJfkRQ5yEIat3AIK6WIL) | 4:06 | 2022-10-20 | 2023-08-18 |
@@ -297,7 +298,7 @@
 | [Never Saw It Coming](https://open.spotify.com/track/25HpCBspDVXL1XigIDzLwF) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [I Love You](https://open.spotify.com/album/4psyGw8pJ4Y4VQOQ8EN3qA) | 3:07 | 2023-11-14 |  |
 | [Never Too Much](https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Never Too Much](https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn) | 3:50 | 2022-12-22 |  |
 | [new day](https://open.spotify.com/track/7uVtYRoo4ZQX8LNBETpMkY) | [Cape of good hope](https://open.spotify.com/artist/71qVt23XtBAsadtjkBwjAZ) | [new day](https://open.spotify.com/album/1UwzyiMeZwNh3oGITGHm8u) | 3:44 | 2023-01-10 | 2023-01-18 |
-| [New In Town](https://open.spotify.com/track/30d9CfN1PElhNtGWIzlhYR) | [Remo Drive](https://open.spotify.com/artist/5LMPXUMhWXshBPjrqvZOfv) | [New In Town](https://open.spotify.com/album/3efyVqUDcIGkkgrgalIPOL) | 2:45 | 2023-12-05 |  |
+| [New In Town](https://open.spotify.com/track/30d9CfN1PElhNtGWIzlhYR) | [Remo Drive](https://open.spotify.com/artist/5LMPXUMhWXshBPjrqvZOfv) | [New In Town](https://open.spotify.com/album/3efyVqUDcIGkkgrgalIPOL) | 2:45 | 2023-12-05 | 2024-02-23 |
 | [New Light](https://open.spotify.com/track/4T6FWA703h6H7zk1FoSARw) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 3:37 | 2022-10-20 | 2023-01-06 |
 | [NO SZNS](https://open.spotify.com/track/0dn6S6lJqAIQg90kMmWtVj) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [NO SZNS](https://open.spotify.com/album/05kT1p6wyim40HJVzg7tt3) | 3:33 | 2023-09-21 | 2023-11-16 |
 | [Nonvignon](https://open.spotify.com/track/0HIrwgryXKOJ0CIfyP3gds) | [Gretchen Parlato](https://open.spotify.com/artist/76Gi1qoWLrIerL5FcL0TZb), [Lionel Loueke](https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig) | [Nonvignon](https://open.spotify.com/album/7JHB9DWgncfSI4q58mi2eU) | 3:53 | 2023-04-20 | 2023-09-22 |
@@ -315,7 +316,7 @@
 | [Parody](https://open.spotify.com/track/69JmafotyJNxvKsbQbQj5v) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Parody](https://open.spotify.com/album/6L8pdjEecAuyqss3nizuOu) | 3:06 | 2023-03-16 | 2023-04-21 |
 | [Part Of The Band](https://open.spotify.com/track/79vEv8zqy9tLYsTxxkXHXq) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Part Of The Band](https://open.spotify.com/album/4B8N7qve3H2cNQux3vqywM) | 4:20 | 2022-10-20 | 2022-11-12 |
 | [Party of the Century](https://open.spotify.com/track/1JEyp69tRjo7mjW6mPSvtb) | [Katy Kirby](https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy) | [Party of the Century](https://open.spotify.com/album/2pC55Z6LUmN76r3HSzE9Av) | 2:40 | 2023-11-28 | 2024-02-04 |
-| [Party of the Century](https://open.spotify.com/track/2IAEIzMfn4mZoDzkvtSz1G) | [Katy Kirby](https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy) | [Blue Raspberry](https://open.spotify.com/album/3ue5JrkSudbuHwQOEvZwHj) | 2:40 | 2024-02-01 |  |
+| [Party of the Century](https://open.spotify.com/track/2IAEIzMfn4mZoDzkvtSz1G) | [Katy Kirby](https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy) | [Blue Raspberry](https://open.spotify.com/album/3ue5JrkSudbuHwQOEvZwHj) | 2:40 | 2024-02-01 | 2024-02-23 |
 | [Pegasus \(ft\. Phoebe Bridgers\)](https://open.spotify.com/track/2oZH5jrlSr0sFWoiIymVHh) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Pegasus \(ft\. Phoebe Bridgers\)](https://open.spotify.com/album/0gsw4flnfCrEqGr16ACAoQ) | 3:06 | 2023-05-09 | 2023-07-14 |
 | [Perfect](https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 4:23 | 2022-12-15 |  |
 | [Pieces](https://open.spotify.com/track/5bwL1JGq1j4SFfCSGZtwZd) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Pieces](https://open.spotify.com/album/7wXDiXmcDVgqSQZeZwIM4d) | 4:24 | 2023-05-04 | 2023-07-07 |
@@ -339,6 +340,7 @@
 | [Say Goodbye](https://open.spotify.com/track/44mw4OdRaYz6KkRVP5PEjN) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [Say Goodbye](https://open.spotify.com/album/3n66BWhi8FGqDOHFbkON6y) | 3:58 | 2024-01-11 |  |
 | [Scream](https://open.spotify.com/track/70ZbFIWCgJq6q2YBISDbhd) | [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [Scream](https://open.spotify.com/album/4OhW7FxIOXs6ezNilC8fCz) | 2:11 | 2023-04-20 | 2023-05-19 |
 | [Sea Lions](https://open.spotify.com/track/2QBnT3LDKDhldKVCfe12Qj) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Pink Balloon / Sea Lions](https://open.spotify.com/album/5Onu4scGFnxb1MhrLFJqX0) | 5:19 | 2022-12-06 | 2023-03-01 |
+| [See You Soon](https://open.spotify.com/track/6J0iDtlXabHqZizUKWUAX8) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [See You Soon](https://open.spotify.com/album/3RnZzFLaoswdse4TKBEmmH) | 3:14 | 2024-02-22 |  |
 | [Shiawase no Mawarimichi](https://open.spotify.com/track/20riqOrK0iWFV2mpjbcbDr) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Shiawase no Mawarimichi](https://open.spotify.com/album/0K0nIz0V6KZbfq3uM66yiW) | 3:45 | 2023-12-28 |  |
 | [Shortstop](https://open.spotify.com/track/6NdmT2the0cqnj8ot18ryX) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [ROACH](https://open.spotify.com/album/05PlYzA6iAlIjPclb5dUcb) | 3:20 | 2023-05-25 | 2023-08-30 |
 | [Sidelines](https://open.spotify.com/track/4mMviz9DJKLPyfhxpQIBcW) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Sandhills](https://open.spotify.com/album/1ZTd9cM6FPWW4ZP0qUwhpF) | 3:25 | 2023-08-24 | 2024-02-21 |

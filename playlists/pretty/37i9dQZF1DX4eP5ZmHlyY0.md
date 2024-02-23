@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 
 > 日本で活躍するボーイズグループを特集。cover: BALLISTIK BOYZ from EXILE TRIBE
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,818 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,829 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 49 | [Temperature \(Prod\. JP THE WAVY\)](https://open.spotify.com/track/6lLDeGs3dN0fsTYP24sJpp) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb) | [Temperature \(Prod\. JP THE WAVY\)](https://open.spotify.com/album/7vGsOpaySuHwzja3LPHjfT) | 3:06 |
 | 50 | [Melody](https://open.spotify.com/track/495GBEvMX06OrwhCCZ7H0y) | [8LOOM](https://open.spotify.com/artist/0EmfXhT2Bhc53cyK3hrZM5) | [Melody](https://open.spotify.com/album/7C22dOSEgyvDKkVKxiSkGV) | 3:14 |
 
-Snapshot ID: `MCwzMDJiMmYwZmE0ZTAyNWNjNTc5NDRjNmU4Mjc0MjIyMzhlZTc4M2Vi`
+Snapshot ID: `MCxjOGVjZGI3ZTYwZGZjYWQ3NjRiZmRhN2RmODc4ODVhOGYyOWI4ODcz`

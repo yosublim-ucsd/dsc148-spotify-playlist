@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 
 > Uplifting and happy jazz christmas classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,111 likes - 70 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,093 likes - 70 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 | 69 | [Christmas Never Gets Old](https://open.spotify.com/track/6o6DStpgZIzSyfpz0tRu8M) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [The Pianoman at Christmas](https://open.spotify.com/album/6vWS3FRodKtNLbH25ZbNt5) | 2:42 |
 | 70 | [Christmas Time All Over the World](https://open.spotify.com/track/2KTDECCXQYjGftNlpsCkya) | [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D) | [Christmas Jazz With The Stars](https://open.spotify.com/album/4sfq7INKFIAYi8NEigZ7RY) | 2:34 |
 
-Snapshot ID: `MCxlYzk2YTc5OTQ0NjMwODdjMThjNzZjOWNmZDcyOWQ4YzIyNDhjOTU3`
+Snapshot ID: `MCxmODU1MDIwZGRhMmNiYzlmNGEyMGQ2MDBmMGMxZjhiZTg1NGU4MTc3`

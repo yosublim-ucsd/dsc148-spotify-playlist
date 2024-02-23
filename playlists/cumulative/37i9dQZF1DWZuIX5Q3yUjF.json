@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Il meglio dell'R&B italiano. Cover: sigarettewest",
+  "description": "Il meglio dell'R&B italiano. Cover: Coca Puma",
   "name": "anima R&B",
   "tracks": [
     {
@@ -248,7 +248,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 171428,
       "name": "Acquario & Scorpione",
       "url": "https://open.spotify.com/track/6gafnI4O74FPg2l78XZEgl"
@@ -610,6 +610,28 @@
       "duration_ms": 183791,
       "name": "Bad Habits",
       "url": "https://open.spotify.com/track/7yrarQCL87CIAmiqm85DG0"
+    },
+    {
+      "album": {
+        "name": "Bagaglio",
+        "url": "https://open.spotify.com/album/42WqQtLUsm5kL3Tj3oRwKG"
+      },
+      "artists": [
+        {
+          "name": "Periodo Blu",
+          "url": "https://open.spotify.com/artist/7yuiCazz5pT4tRGX530sMg"
+        },
+        {
+          "name": "GEA",
+          "url": "https://open.spotify.com/artist/0Nnr3IWmNaJwPa0DxTcRg1"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190021,
+      "name": "Bagaglio",
+      "url": "https://open.spotify.com/track/1KWGFSz4Zk2skURQBSrd8P"
     },
     {
       "album": {
@@ -1530,7 +1552,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 193076,
       "name": "Come mi ricordi",
       "url": "https://open.spotify.com/track/3uB8fbnGNHH8YqsrT0bP4V"
@@ -2614,6 +2636,24 @@
       "duration_ms": 185000,
       "name": "Fantasma",
       "url": "https://open.spotify.com/track/62AYmj3XkHN0fZGUVCTX44"
+    },
+    {
+      "album": {
+        "name": "Favole",
+        "url": "https://open.spotify.com/album/3aozojEXJ4fzpRBSgxwLiA"
+      },
+      "artists": [
+        {
+          "name": "Paola Pizzino",
+          "url": "https://open.spotify.com/artist/6qZnOElnoaba63XsIts7ug"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193745,
+      "name": "Favole",
+      "url": "https://open.spotify.com/track/6x0zZolR37lU4nupnEfOJ0"
     },
     {
       "album": {
@@ -4192,7 +4232,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 168013,
       "name": "Labirinto",
       "url": "https://open.spotify.com/track/1558E3L8hQXfsFGwEz8e1N"
@@ -5600,7 +5640,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 185256,
       "name": "Non Mi Sembri Tu",
       "url": "https://open.spotify.com/track/3heycD4XRr4QZ5zmUuy0Ue"
@@ -5828,6 +5868,28 @@
       "duration_ms": 165762,
       "name": "NRP",
       "url": "https://open.spotify.com/track/6DRAc2zO6ZjYywTq6yz5on"
+    },
+    {
+      "album": {
+        "name": "Nuda",
+        "url": "https://open.spotify.com/album/5FBA355AV3pQ6BQYhqiND3"
+      },
+      "artists": [
+        {
+          "name": "Saintess",
+          "url": "https://open.spotify.com/artist/1rZmAfzhpXD8kgq8ZMFl1J"
+        },
+        {
+          "name": "aura6am",
+          "url": "https://open.spotify.com/artist/55mMu19vJ9H8pAbgXsULmU"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138659,
+      "name": "Nuda",
+      "url": "https://open.spotify.com/track/2iHTi6QJa2pXsKCJa64Q2k"
     },
     {
       "album": {
@@ -6546,6 +6608,24 @@
       "duration_ms": 181263,
       "name": "Porcellana",
       "url": "https://open.spotify.com/track/6riDFgwqLeLabN6u1DzMtV"
+    },
+    {
+      "album": {
+        "name": "Porta Pia",
+        "url": "https://open.spotify.com/album/27ewyS8tUv5mc6VtkB206d"
+      },
+      "artists": [
+        {
+          "name": "Coca Puma",
+          "url": "https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175458,
+      "name": "Porta Pia",
+      "url": "https://open.spotify.com/track/3odWDhS8Pk3yIqti833UQb"
     },
     {
       "album": {
@@ -7272,7 +7352,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 184421,
       "name": "salvare",
       "url": "https://open.spotify.com/track/4jQCFTq0WPVBHayDkgzIFf"
@@ -8334,6 +8414,40 @@
       "duration_ms": 157239,
       "name": "supernova",
       "url": "https://open.spotify.com/track/1HgQFrZi1J4RuhJ9Z4MAcD"
+    },
+    {
+      "album": {
+        "name": "Payback",
+        "url": "https://open.spotify.com/album/05dBxSbBWiQo2IRtfkXWnG"
+      },
+      "artists": [
+        {
+          "name": "Rak",
+          "url": "https://open.spotify.com/artist/3tnVct3V6mIWk5FnBGCuVt"
+        },
+        {
+          "name": "Kamyar",
+          "url": "https://open.spotify.com/artist/4cTOxBErR9Of5kMfjVw86j"
+        },
+        {
+          "name": "Danno",
+          "url": "https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ"
+        },
+        {
+          "name": "Gianni Bismark",
+          "url": "https://open.spotify.com/artist/26PZBCQnswFp61ccTrVJOa"
+        },
+        {
+          "name": "Icaro",
+          "url": "https://open.spotify.com/artist/207Kr2A9hJzVUSY2QDCXyg"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280000,
+      "name": "Svegliarsi a Roma",
+      "url": "https://open.spotify.com/track/4S9yzQBJb7hMFG07XKufsm"
     },
     {
       "album": {

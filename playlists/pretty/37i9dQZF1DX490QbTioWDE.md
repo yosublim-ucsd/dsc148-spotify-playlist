@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Emanero, La K'onga & David Bisbal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 683,962 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 684,400 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 99 | [De Quien Es la Culpa / Como Lo Hacias Con El](https://open.spotify.com/track/0GWrX4qSvHTnpWLhHRRrZi) | [El Loco Amato](https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p) | [Sigan Bailando](https://open.spotify.com/album/2MeHG6oVZ76wfqSxWaikwe) | 6:27 |
 | 100 | [Te Felicito](https://open.spotify.com/track/2fFCL1cbivwt9v9jerCgmf) | [Tyago Griffo](https://open.spotify.com/artist/0TQyaoEDvRCU1BiA0VrTcC) | [Te Felicito](https://open.spotify.com/album/4l0209Du1kilXZ4RojUfIJ) | 2:32 |
 
-Snapshot ID: `MCxhMThkYmIxZDc5NjYwYzVlY2M4MmIxMzkyNWMwM2NjZjZlYWUzMDI1`
+Snapshot ID: `MCw2MWQxMDAzYTI3YmNmMDdkNDZmYTcxMmU4NzJjZTAwMjZlZTRmNWU1`

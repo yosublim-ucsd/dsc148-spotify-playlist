@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWylYLMvjuRG.md) - [plain]
 
 ### [Party Hits 2010s](https://open.spotify.com/playlist/37i9dQZF1DWWylYLMvjuRG)
 
-> The biggest party hits of the 2010s\. Cover: Flo Rida.
+> The biggest party hits of the 2010s\. Cover: Flo Rida
 
-[Spotify](https://open.spotify.com/user/spotify) - 952,958 likes - 150 songs - 9 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 953,458 likes - 150 songs - 9 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWylYLMvjuRG.md) - [plain]
 | 149 | [More \- RedOne Jimmy Joker Remix](https://open.spotify.com/track/0aBKFfdyOD1Ttvgv0cfjjJ) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [More](https://open.spotify.com/album/5GNPZT1Bxq0EP7PQDQmK3U) | 3:39 |
 | 150 | [Escápate Conmigo \(feat\. Ozuna\)](https://open.spotify.com/track/1KSqYYJFyfTecXFk9M0prc) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Victory](https://open.spotify.com/album/6I32dRerwcm3jYRsprxb5k) | 3:52 |
 
-Snapshot ID: `MCw5MDE5MDBlYjJhYzYyOTQ4MDY2NmYyNWJkZTRiMzdjMWY5MDAwNTBk`
+Snapshot ID: `MCwwNzU0MTM5Mjg2YzRkZTljZjEzZjEzMGVmNDE1YjU5YzcwZDYyZTBm`

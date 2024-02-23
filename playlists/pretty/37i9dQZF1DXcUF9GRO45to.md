@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUF9GRO45to.md) - [plain]
 
 > French scene makes some noise!
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,894 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,922 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUF9GRO45to.md) - [plain]
 | 99 | [It's About Time !](https://open.spotify.com/track/741CQNrA1mkBvzqPKKbw9F) | [Iron Lizards](https://open.spotify.com/artist/5M3OioPh7JR2rfVOCFyDRY) | [Hungry for Action](https://open.spotify.com/album/6joG9m7o9GNL1cePZEn3YC) | 2:44 |
 | 100 | [So Quarrelsome](https://open.spotify.com/track/5Z9zNP3QnZUZNvakIDKTbP) | [Can't Bear This Party!](https://open.spotify.com/artist/44aEYDMMKlw3aUhxXmRg1f) | [Ain't No Princess](https://open.spotify.com/album/34dXeWYkadymUqJYIWuwYh) | 3:17 |
 
-Snapshot ID: `MCxlZjk4OWI5N2FhZWRjNGJjODFmZjRjNDg0NzhjNjhhMzMwNWY3M2Iz`
+Snapshot ID: `MCxiNWU5MjVkNzA4ODk1MjcxYjJkZDU4ODI5N2IxZTZkMzkxMGEwODc1`

@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2019-09-29",
   "description": "Obama&#x27;s favorite songs of 2024 plus some of his favorite summer songs. Includes Summer 23, 22, &amp; 21 editions + bonus tracks.",
-  "name": " Obama\u2019s Summer Playlist 2024 | Favorite Songs of 2023",
+  "name": " Obama\u2019s Summer Playlist 2024",
   "tracks": [
     {
       "album": {
@@ -4596,7 +4596,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 168315,
       "name": "Baila",
       "url": "https://open.spotify.com/track/1lrm7DCsp7W4cmFp682gnM"
@@ -7966,7 +7966,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 159590,
       "name": "Cada Vez Que Te Veo",
       "url": "https://open.spotify.com/track/0WluOfoxpbQNyVtAQOHq9H"
@@ -17243,6 +17243,24 @@
     },
     {
       "album": {
+        "name": "Find A Way",
+        "url": "https://open.spotify.com/album/44sjjZVpW02Rp47b3AtFl8"
+      },
+      "artists": [
+        {
+          "name": "Tm2 Ent Presents Nani Babbey",
+          "url": "https://open.spotify.com/artist/0lNtvTnB6SsdmXtHW4NdtX"
+        }
+      ],
+      "date_added": "2023-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-30",
+      "duration_ms": 186200,
+      "name": "Find A Way",
+      "url": "https://open.spotify.com/track/6UxL2QDcngbCGZyn8qcmBE"
+    },
+    {
+      "album": {
         "name": "Back of My Mind",
         "url": "https://open.spotify.com/album/577SefILL1LFIbsOMP3lm1"
       },
@@ -17260,26 +17278,8 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 197413,
-      "name": "Find A Way",
+      "name": "Find A Way (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/292NnHERQgizPvOY3pCEPK"
-    },
-    {
-      "album": {
-        "name": "Find A Way",
-        "url": "https://open.spotify.com/album/44sjjZVpW02Rp47b3AtFl8"
-      },
-      "artists": [
-        {
-          "name": "Tm2 Ent Presents Nani Babbey",
-          "url": "https://open.spotify.com/artist/0lNtvTnB6SsdmXtHW4NdtX"
-        }
-      ],
-      "date_added": "2023-06-11",
-      "date_added_asterisk": false,
-      "date_removed": "2023-06-30",
-      "duration_ms": 186200,
-      "name": "Find A Way",
-      "url": "https://open.spotify.com/track/6UxL2QDcngbCGZyn8qcmBE"
     },
     {
       "album": {
@@ -17830,6 +17830,24 @@
       "duration_ms": 154720,
       "name": "FONDA ON THE ROOF",
       "url": "https://open.spotify.com/track/2JfCe2B4MSLuXHsPfXVwTn"
+    },
+    {
+      "album": {
+        "name": "Fool for You",
+        "url": "https://open.spotify.com/album/4zt0muBCWjK6XoOFRzDRa8"
+      },
+      "artists": [
+        {
+          "name": "Mariannie",
+          "url": "https://open.spotify.com/artist/3NqchMmoxqZRQ6cFNjtPOx"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233000,
+      "name": "Fool for You",
+      "url": "https://open.spotify.com/track/6zOW2qJlrALfG1TTk5yKc1"
     },
     {
       "album": {
@@ -25944,6 +25962,24 @@
       "duration_ms": 264229,
       "name": "It's Over",
       "url": "https://open.spotify.com/track/5OGbLGjP2u4Z8VaUiZMdr7"
+    },
+    {
+      "album": {
+        "name": "It's Over",
+        "url": "https://open.spotify.com/album/0re8WAbErEit8Nzj5mWFn7"
+      },
+      "artists": [
+        {
+          "name": "Narah Elba",
+          "url": "https://open.spotify.com/artist/49xus9KjnESiLPl9EQuvU4"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193124,
+      "name": "It's Over",
+      "url": "https://open.spotify.com/track/19cHrFNWx0rjKHG3Kan4XU"
     },
     {
       "album": {
@@ -34519,6 +34555,28 @@
     },
     {
       "album": {
+        "name": "Lord Jenva",
+        "url": "https://open.spotify.com/album/3zUiwmCEeRU8EdXrX1qm6i"
+      },
+      "artists": [
+        {
+          "name": "Jenva",
+          "url": "https://open.spotify.com/artist/4uF42Z3U3gdQIwrDzZPvT3"
+        },
+        {
+          "name": "Tee J",
+          "url": "https://open.spotify.com/artist/2KC4q2DkXcvCtx4jMEuck8"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142135,
+      "name": "Nana",
+      "url": "https://open.spotify.com/track/3s5BFU2hJyXDJMaiBDrPsZ"
+    },
+    {
+      "album": {
         "name": "Party King",
         "url": "https://open.spotify.com/album/2OuLdErybwLlZImvi8k911"
       },
@@ -35848,7 +35906,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 190787,
       "name": "Not My Game",
       "url": "https://open.spotify.com/track/0DqPIjJ4DOHNinTDdXObOc"
@@ -37796,7 +37854,7 @@
       ],
       "date_added": "2024-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 177632,
       "name": "Overnight",
       "url": "https://open.spotify.com/track/5YNyJMdYhdJjSKc22gdFHJ"
@@ -44278,6 +44336,24 @@
       "duration_ms": 193365,
       "name": "Sleeping Dragon",
       "url": "https://open.spotify.com/track/0pbcUYlFRPImubzedyHL76"
+    },
+    {
+      "album": {
+        "name": "Sleepless Nights",
+        "url": "https://open.spotify.com/album/0bv99jwaL1jTAW2T5MPlNs"
+      },
+      "artists": [
+        {
+          "name": "Trevor Preston",
+          "url": "https://open.spotify.com/artist/7Df80FvbUNxcEt9E73FPXz"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146086,
+      "name": "Sleepless Nights",
+      "url": "https://open.spotify.com/track/1hNBLycvuZVkqMO5N7IuHT"
     },
     {
       "album": {
@@ -54792,7 +54868,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 194625,
       "name": "What You Cryin' For?",
       "url": "https://open.spotify.com/track/2cl1C4FuzCTDZcn8cuNObJ"

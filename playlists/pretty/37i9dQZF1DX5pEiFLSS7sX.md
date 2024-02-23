@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 
 > Go deep into spontaneous praise and worship here\. On and on.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,520 likes - 100 songs - 9 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,589 likes - 100 songs - 9 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 | 99 | [Only Jesus](https://open.spotify.com/track/613opoQSXDsSSssAlBwBc6) | [Brian Johnson](https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9) | [After All These Years](https://open.spotify.com/album/799XvKSzKmyjCUMBE48XpS) | 4:53 |
 | 100 | [The Garden](https://open.spotify.com/track/7HtF6IsvLL7dES6Gb5odxE) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [The Garden](https://open.spotify.com/album/0VlrwygIqoI06z2BTCYuTq) | 5:39 |
 
-Snapshot ID: `MCw1Y2I2Nzc0ODk1YmRkNGI1NjU4NjM1MzlhNjhiMTNkMTI4NmRjY2Yw`
+Snapshot ID: `MCxkMjdkOTk3OTE1YzBjZThhMTcxZTEyNmFlYzE5ZTRkYWM3M2Y1OWEw`

@@ -1,7 +1,7 @@
 {
-  "2024-02-22": 50474,
+  "2024-02-23": 50474,
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels in India. Cover: Kapow!, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels in India. Cover: Dhruv Malik, Artwork: Isu Kim",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -1306,6 +1306,32 @@
     },
     {
       "album": {
+        "name": "Ansunaa Sa",
+        "url": "https://open.spotify.com/album/0mkkGpZKgcwHC7NScUNKWb"
+      },
+      "artists": [
+        {
+          "name": "The White Window",
+          "url": "https://open.spotify.com/artist/5gCBZI9qOU5EHbi1Y7oso5"
+        },
+        {
+          "name": "Archana Kamath Hegdekar",
+          "url": "https://open.spotify.com/artist/6btgQtc8ir0wUCRC3D0U4y"
+        },
+        {
+          "name": "Shon Pinto",
+          "url": "https://open.spotify.com/artist/6Y6dBkFtvtSEcnYJkKtrkK"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216375,
+      "name": "Ansunaa Sa",
+      "url": "https://open.spotify.com/track/5IP4jN2mGffR44tNq018VF"
+    },
+    {
+      "album": {
         "name": "Antaragini",
         "url": "https://open.spotify.com/album/1hBvmLqhVgFrNpjcIczMqA"
       },
@@ -1415,7 +1441,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 245555,
       "name": "Aria",
       "url": "https://open.spotify.com/track/59Gh7hAmHdkmOCgUbNgtyO"
@@ -3376,6 +3402,24 @@
     },
     {
       "album": {
+        "name": "Chapter in gore",
+        "url": "https://open.spotify.com/album/2TN8yPcDcIhz354CdNnyyP"
+      },
+      "artists": [
+        {
+          "name": "Vanita Singh",
+          "url": "https://open.spotify.com/artist/5CThY5IHKqw51ssrOym5qu"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207072,
+      "name": "Chapter in gore",
+      "url": "https://open.spotify.com/track/1N69HeKJRGrHOOW0f3dYsq"
+    },
+    {
+      "album": {
         "name": "Chasm City",
         "url": "https://open.spotify.com/album/72U1oPrYwXYRG0yeuR0r22"
       },
@@ -3785,7 +3829,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 253000,
       "name": "Cry For You",
       "url": "https://open.spotify.com/track/1T2pnp74o3kbvT4zhyojAy"
@@ -5603,7 +5647,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 195004,
       "name": "February 17th",
       "url": "https://open.spotify.com/track/7qJwDseSsxmgZSoCKEh0wZ"
@@ -11346,6 +11390,24 @@
     },
     {
       "album": {
+        "name": "Lehrein",
+        "url": "https://open.spotify.com/album/1PalWzpE7UXkHv7Sf50ARX"
+      },
+      "artists": [
+        {
+          "name": "SidB",
+          "url": "https://open.spotify.com/artist/1y6bxUL1fVTzt3YSVBf0FG"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Lehrein",
+      "url": "https://open.spotify.com/track/5DtLtzTnFcbOuGU6tXPNFq"
+    },
+    {
+      "album": {
         "name": "Let it burn",
         "url": "https://open.spotify.com/album/2DA1SSTjPkbCuuGAhthgQc"
       },
@@ -13213,7 +13275,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 184588,
       "name": "My Favourite Notification",
       "url": "https://open.spotify.com/track/093PYI9GcBf4qbJ7XizqqD"
@@ -17116,6 +17178,24 @@
     },
     {
       "album": {
+        "name": "Sochu",
+        "url": "https://open.spotify.com/album/4fhXeH4ZHxUrOsndsziT1f"
+      },
+      "artists": [
+        {
+          "name": "Sparsh Jain",
+          "url": "https://open.spotify.com/artist/0vHTMw51bbuH1yYoiJ75PD"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202514,
+      "name": "Sochu",
+      "url": "https://open.spotify.com/track/651OglmdGFaRT2W47hx696"
+    },
+    {
+      "album": {
         "name": "Sohbat Teri",
         "url": "https://open.spotify.com/album/2HZhyf73va1G477F0ypWoE"
       },
@@ -17501,6 +17581,24 @@
       "duration_ms": 155904,
       "name": "Still Around",
       "url": "https://open.spotify.com/track/2j4cZhB3XM2QOP8ia2wyA1"
+    },
+    {
+      "album": {
+        "name": "Stolen Sunshine",
+        "url": "https://open.spotify.com/album/42BRqFnZVmNv6OvIuI9VDF"
+      },
+      "artists": [
+        {
+          "name": "The Coconut Milk Project",
+          "url": "https://open.spotify.com/artist/7ME0Ae7qHNi4yPx7362ZF2"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132715,
+      "name": "Stolen Sunshine",
+      "url": "https://open.spotify.com/track/2YUhQ2qJkOStYro1hw1gfO"
     },
     {
       "album": {
@@ -17962,6 +18060,24 @@
     },
     {
       "album": {
+        "name": "Takiyana",
+        "url": "https://open.spotify.com/album/7qT3SPMmawCU0KnRa1hH82"
+      },
+      "artists": [
+        {
+          "name": "Dhruv Malik",
+          "url": "https://open.spotify.com/artist/7tENU45Hct4mXnfUVC3dMy"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113684,
+      "name": "Takiyana",
+      "url": "https://open.spotify.com/track/7vQJvzwlwaQqWOOre3AXmH"
+    },
+    {
+      "album": {
         "name": "Tan Kha Gayi Ye Tankha",
         "url": "https://open.spotify.com/album/7cqVlSMnCGA2ahxPPsyY7b"
       },
@@ -17973,7 +18089,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 269408,
       "name": "Tan Kha Gayi Ye Tankha",
       "url": "https://open.spotify.com/track/49voCyjMMz7SekTdRuu3QI"
@@ -19442,6 +19558,24 @@
     },
     {
       "album": {
+        "name": "Tujhe Dhoondta Hu",
+        "url": "https://open.spotify.com/album/3YaHnIHaF3uqdgS8kqM68H"
+      },
+      "artists": [
+        {
+          "name": "Vincent Boral",
+          "url": "https://open.spotify.com/artist/0ZWcvDl5x0q79wjTREH2IH"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70370,
+      "name": "Tujhe Dhoondta Hu",
+      "url": "https://open.spotify.com/track/4YP3jBkuSFV7swUbmBJXHl"
+    },
+    {
+      "album": {
         "name": "Tujhse Kyun",
         "url": "https://open.spotify.com/album/1zGP2nED5lg4VfgWpdbiCb"
       },
@@ -19819,7 +19953,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 185437,
       "name": "Tumse Pyaar Hai",
       "url": "https://open.spotify.com/track/5QI5oFA7jDyyvevDDYC79w"
@@ -21661,7 +21795,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 171500,
       "name": "Zaroori Saman",
       "url": "https://open.spotify.com/track/71WrJaBUsdwsf7NFxMMNcl"

@@ -1,28 +1,32 @@
 {
-  "description": "The best Indie sounds from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs?si=Nw1H2JgSQcKFtqcpiTKbGg\">Milky Chance</a> ",
-  "num_followers": 11083,
+  "description": "The best Indie sounds from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF?si=ZmzXxL73SwmAIvJ4R7zzkA\">Jabulile Majola</a> & <a href=\"https://open.spotify.com/artist/2TUFDVa7aZJ4O9U0qjrSJH?si=2yqSYjpxSjGfhZJspU3vIg\">Yoav</a> ",
+  "num_followers": 11084,
   "original_name": "Indie GO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OTNiZjlhMzNlZTc3ZGEyZGFlNjNiYTU1N2VmMzhmNjNhMjI0MjVj",
+  "snapshot_id": "MCwwMDBhNGJmYTNlY2EzYmQ5NzVlOGJlNTk4NzUwMjllMzg5ZmZhZDE5",
   "tracks": [
     {
-      "added_at": "2024-02-15 22:00:00",
+      "added_at": "2024-02-22 22:00:00",
       "album": {
-        "name": "Living In A Haze",
-        "url": "https://open.spotify.com/album/0i97wLIXfWMDi3vyRDZBCn"
+        "name": "Nyoni Yami",
+        "url": "https://open.spotify.com/album/1U2hqgPgcpntPLQyYnBxUy"
       },
       "artists": [
         {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+          "name": "Jabulile Majola",
+          "url": "https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF"
+        },
+        {
+          "name": "Yoav",
+          "url": "https://open.spotify.com/artist/2TUFDVa7aZJ4O9U0qjrSJH"
         }
       ],
-      "duration_ms": 221560,
-      "name": "Feeling For You",
-      "url": "https://open.spotify.com/track/1BSTT3sbQ1MVVacApHilK9"
+      "duration_ms": 212500,
+      "name": "Nyoni Yami",
+      "url": "https://open.spotify.com/track/1hO7XxOmMRAo3gj2UYqqEg"
     },
     {
       "added_at": "2024-02-09 03:53:38",
@@ -41,20 +45,20 @@
       "url": "https://open.spotify.com/track/6zkVSIgcGnqromeMTYmXv4"
     },
     {
-      "added_at": "2024-02-15 22:00:00",
+      "added_at": "2024-02-22 22:00:00",
       "album": {
-        "name": "Night Bus",
-        "url": "https://open.spotify.com/album/5QdvSCOjTIDM1tFkNVzwak"
+        "name": "Care",
+        "url": "https://open.spotify.com/album/1X3yeKsuB1sSPXQZ9VChgg"
       },
       "artists": [
         {
-          "name": "Beatenberg",
-          "url": "https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU"
+          "name": "Hana Vu",
+          "url": "https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO"
         }
       ],
-      "duration_ms": 153961,
-      "name": "Night Bus",
-      "url": "https://open.spotify.com/track/5MJLYGN2xkA9p9FaKhtzvU"
+      "duration_ms": 277815,
+      "name": "Care",
+      "url": "https://open.spotify.com/track/6egdXtpyZGrZwsaESnpHAi"
     },
     {
       "added_at": "2024-02-09 03:53:38",
@@ -107,6 +111,22 @@
     {
       "added_at": "2024-02-15 22:00:00",
       "album": {
+        "name": "Night Bus",
+        "url": "https://open.spotify.com/album/5QdvSCOjTIDM1tFkNVzwak"
+      },
+      "artists": [
+        {
+          "name": "Beatenberg",
+          "url": "https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU"
+        }
+      ],
+      "duration_ms": 153961,
+      "name": "Night Bus",
+      "url": "https://open.spotify.com/track/5MJLYGN2xkA9p9FaKhtzvU"
+    },
+    {
+      "added_at": "2024-02-15 22:00:00",
+      "album": {
         "name": "How Have You Been?",
         "url": "https://open.spotify.com/album/4FqEHLgdiMHXboXIztMkkO"
       },
@@ -119,6 +139,38 @@
       "duration_ms": 201467,
       "name": "Pink Skies",
       "url": "https://open.spotify.com/track/43Ka2d0YZZlOzVGwf96xNw"
+    },
+    {
+      "added_at": "2024-02-15 22:00:00",
+      "album": {
+        "name": "Living In A Haze",
+        "url": "https://open.spotify.com/album/0i97wLIXfWMDi3vyRDZBCn"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "duration_ms": 221560,
+      "name": "Feeling For You",
+      "url": "https://open.spotify.com/track/1BSTT3sbQ1MVVacApHilK9"
+    },
+    {
+      "added_at": "2024-02-22 22:00:00",
+      "album": {
+        "name": "See You Shine",
+        "url": "https://open.spotify.com/album/0pPVLCQw41MZRY6SGKtsQN"
+      },
+      "artists": [
+        {
+          "name": "Sean Koch",
+          "url": "https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9"
+        }
+      ],
+      "duration_ms": 164002,
+      "name": "See You Shine",
+      "url": "https://open.spotify.com/track/7bzmfqeBpB4crtt1Vm5GRk"
     },
     {
       "added_at": "2024-02-09 03:53:38",
@@ -151,22 +203,6 @@
       "duration_ms": 206571,
       "name": "The Feminine Urge",
       "url": "https://open.spotify.com/track/4uAPVHpdoGKHmIFkv1wgmb"
-    },
-    {
-      "added_at": "2024-02-09 03:53:38",
-      "album": {
-        "name": "All My Friends",
-        "url": "https://open.spotify.com/album/4uUVVNUe5FSoNkF1cJF3br"
-      },
-      "artists": [
-        {
-          "name": "CON THE ARTIST",
-          "url": "https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz"
-        }
-      ],
-      "duration_ms": 144187,
-      "name": "All My Friends",
-      "url": "https://open.spotify.com/track/5cyeEMdqMmg0epS1laIYIE"
     },
     {
       "added_at": "2024-02-15 22:00:00",
@@ -219,6 +255,22 @@
       "duration_ms": 217466,
       "name": "Chelsea Blakemore",
       "url": "https://open.spotify.com/track/7EGi0qRExGCKt76HRmCoBr"
+    },
+    {
+      "added_at": "2024-02-22 22:00:00",
+      "album": {
+        "name": "Late",
+        "url": "https://open.spotify.com/album/6dJSqvOrm05gaHlLNFNWeY"
+      },
+      "artists": [
+        {
+          "name": "Soft Loft",
+          "url": "https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t"
+        }
+      ],
+      "duration_ms": 237677,
+      "name": "Late",
+      "url": "https://open.spotify.com/track/3oOLmRfPj0hBbCG6rQn0ok"
     },
     {
       "added_at": "2024-02-15 22:00:00",
@@ -365,6 +417,22 @@
       "url": "https://open.spotify.com/track/1SZN00cfG8T8UxDmJeqjuv"
     },
     {
+      "added_at": "2024-02-22 22:00:00",
+      "album": {
+        "name": "GHOSTS",
+        "url": "https://open.spotify.com/album/4jrzhfsW9LFG1leDoipgyo"
+      },
+      "artists": [
+        {
+          "name": "December Streets",
+          "url": "https://open.spotify.com/artist/60oeRht0NXwELSxJNhQw7v"
+        }
+      ],
+      "duration_ms": 161584,
+      "name": "GHOSTS",
+      "url": "https://open.spotify.com/track/6QFgE1RSsCncK81HoKmMVp"
+    },
+    {
       "added_at": "2024-02-09 03:53:38",
       "album": {
         "name": "Another Day",
@@ -509,6 +577,22 @@
       "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
     },
     {
+      "added_at": "2024-02-22 22:00:00",
+      "album": {
+        "name": "Setting Suns",
+        "url": "https://open.spotify.com/album/3BqqPFVR6zGtNkkAtLb68y"
+      },
+      "artists": [
+        {
+          "name": "Brandon Grant",
+          "url": "https://open.spotify.com/artist/3rD8GtrMQjQ8UAQCEQ0RGU"
+        }
+      ],
+      "duration_ms": 199960,
+      "name": "Setting Suns",
+      "url": "https://open.spotify.com/track/0GB6NBQY3nYvuwaCApTbFx"
+    },
+    {
       "added_at": "2024-02-09 03:53:38",
       "album": {
         "name": "Beanie",
@@ -611,22 +695,6 @@
     {
       "added_at": "2024-02-09 03:53:38",
       "album": {
-        "name": "Vitamin D",
-        "url": "https://open.spotify.com/album/4sFSVAu6lPn5clc1izlKDE"
-      },
-      "artists": [
-        {
-          "name": "Black Heidi",
-          "url": "https://open.spotify.com/artist/1uKkDJ0B4qGyH0hsUaGPvt"
-        }
-      ],
-      "duration_ms": 197920,
-      "name": "Vitamin D",
-      "url": "https://open.spotify.com/track/3Ktp59pfDr2qcdhdCYop7T"
-    },
-    {
-      "added_at": "2024-02-09 03:53:38",
-      "album": {
         "name": "Surfer's Corner",
         "url": "https://open.spotify.com/album/2U1WaEZ35in1zSOfSiijSL"
       },
@@ -695,6 +763,22 @@
       "duration_ms": 226544,
       "name": "Fight For Me",
       "url": "https://open.spotify.com/track/04SvT7sTy6PcImc0mmEXmU"
+    },
+    {
+      "added_at": "2024-02-22 22:00:00",
+      "album": {
+        "name": "Overwhelmed",
+        "url": "https://open.spotify.com/album/26JUVlyx5R92n0wtk2imiw"
+      },
+      "artists": [
+        {
+          "name": "Johan Van Rensburg",
+          "url": "https://open.spotify.com/artist/78PN6tfFrmzWMWFPyRvdrD"
+        }
+      ],
+      "duration_ms": 398235,
+      "name": "Overwhelmed",
+      "url": "https://open.spotify.com/track/5nVjtxHDubxdjFEdDURToX"
     },
     {
       "added_at": "2024-02-09 03:53:38",
@@ -877,6 +961,22 @@
       "url": "https://open.spotify.com/track/38QjNatYVLGEPZkwYxmYpi"
     },
     {
+      "added_at": "2024-02-22 22:00:00",
+      "album": {
+        "name": "photos of us",
+        "url": "https://open.spotify.com/album/2tTW1BuapNXDx7fB2ReARV"
+      },
+      "artists": [
+        {
+          "name": "Conn",
+          "url": "https://open.spotify.com/artist/46JYMwEYsvRprcluO5f2n7"
+        }
+      ],
+      "duration_ms": 126041,
+      "name": "photos of us",
+      "url": "https://open.spotify.com/track/46jaynseu6NxJqgiLn9Zbk"
+    },
+    {
       "added_at": "2024-02-09 03:53:38",
       "album": {
         "name": "1988",
@@ -907,6 +1007,26 @@
       "duration_ms": 149215,
       "name": "ANY BETTER",
       "url": "https://open.spotify.com/track/1aS9JhKewGG5VJza4E6S3u"
+    },
+    {
+      "added_at": "2024-02-22 22:00:00",
+      "album": {
+        "name": "Moving Along",
+        "url": "https://open.spotify.com/album/1H9Z8zyQE7Lq7d5Q7BhYcM"
+      },
+      "artists": [
+        {
+          "name": "Jon Shaban",
+          "url": "https://open.spotify.com/artist/2hOAyAZgWdc35MU7P6Vuwt"
+        },
+        {
+          "name": "Rambling Bones",
+          "url": "https://open.spotify.com/artist/1PReiKwLzoHZ5jWRfqUcXa"
+        }
+      ],
+      "duration_ms": 187733,
+      "name": "Moving Along",
+      "url": "https://open.spotify.com/track/2NrvCjdlEhCAtebIRBQa1p"
     },
     {
       "added_at": "2024-02-09 03:53:38",
@@ -941,6 +1061,22 @@
       "url": "https://open.spotify.com/track/2Qm9EWXzINZwhmycmjFIXP"
     },
     {
+      "added_at": "2024-02-22 22:00:00",
+      "album": {
+        "name": "Daydreaming",
+        "url": "https://open.spotify.com/album/4OYcrztrz0ctkJUDJ105u1"
+      },
+      "artists": [
+        {
+          "name": "Joe Preyer",
+          "url": "https://open.spotify.com/artist/2sKYeAvwqwJcGEJD01ccnt"
+        }
+      ],
+      "duration_ms": 236666,
+      "name": "Daydreaming",
+      "url": "https://open.spotify.com/track/15qHVTy7SsvYDqc1YlKpbi"
+    },
+    {
       "added_at": "2024-02-09 03:53:38",
       "album": {
         "name": "Milk",
@@ -955,6 +1091,22 @@
       "duration_ms": 231724,
       "name": "Milk",
       "url": "https://open.spotify.com/track/3V6tKpXHWxlP9z7ThCcUEA"
+    },
+    {
+      "added_at": "2024-02-22 22:00:00",
+      "album": {
+        "name": "Come On Over",
+        "url": "https://open.spotify.com/album/2dRFhoxJH8CFNlsWhjhioc"
+      },
+      "artists": [
+        {
+          "name": "Ruben Gerritz",
+          "url": "https://open.spotify.com/artist/4IXnbn0VJQ42ybbNRa4MB0"
+        }
+      ],
+      "duration_ms": 206037,
+      "name": "Come On Over",
+      "url": "https://open.spotify.com/track/0bKDR8g4ZYmIMiJ1lz3ks2"
     },
     {
       "added_at": "2024-02-09 03:53:38",

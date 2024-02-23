@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 
 > riff\-heavy, fuzzed\-out numbers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 539,005 likes - 100 songs - 10 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 539,021 likes - 100 songs - 10 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 99 | [Too Stoned](https://open.spotify.com/track/3i5Z1K6f6E1OcVQ8DZqkyQ) | [Gas Giant](https://open.spotify.com/artist/2Npjb3nqMxBL8XDBa37won) | [High Volume: The Stoner Rock Collection](https://open.spotify.com/album/5bcsAnJvIiept5zU4B2g8x) | 6:11 |
 | 100 | [Superjudge](https://open.spotify.com/track/0YMwyd5XZzHZZuRFCj04Zs) | [Monster Magnet](https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q) | [Superjudge](https://open.spotify.com/album/1JQ37QyKofGEp5UEz3Gay4) | 6:49 |
 
-Snapshot ID: `MCw3ODA3MTY5NTAzYjFjM2M3NzUxMjVmMjRjYjI2OWZjZGFlNTFiMGZk`
+Snapshot ID: `MCw5MDI1ZGZmZjczNDdkMTNhZDc4YmUyMGRkMTNhYTc4ZWUxYjlhMzc0`

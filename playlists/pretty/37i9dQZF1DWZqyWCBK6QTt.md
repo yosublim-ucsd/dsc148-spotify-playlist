@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqyWCBK6QTt.md) - [plain]
 
 > The songs you love, in ways you’ve never heard before\. Cover: Norah Jones & Remi Wof
 
-[Spotify](https://open.spotify.com/user/spotify) - 455,236 likes - 150 songs - 9 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 455,319 likes - 150 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqyWCBK6QTt.md) - [plain]
 | 149 | [Lost \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/5wjdouk5wQxXkmTeyOC12M) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Spotify Singles](https://open.spotify.com/album/2kQ1EcVFOp70CML1HYjRzn) | 3:54 |
 | 150 | [More Than Words](https://open.spotify.com/track/2eL7okeUuLM7000O6KTbbg) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Spotify Singles](https://open.spotify.com/album/6TRs7CwVqOShWEnB7rL2Lp) | 3:34 |
 
-Snapshot ID: `MCw2MWZiMzFmODM5Y2EzYjg5ZGRjOTFmMDA0OWIxMmU2ZmZmN2MyM2Qx`
+Snapshot ID: `MCwwYWJiMjc1ZWZmY2EyZTdhYWMxMjA1YTkwYTkzMWQ4ZjEzMDJlODAw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 
 > Keep your night easy and light with this acoustic mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,271,170 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,271,149 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 | 99 | [Howling Light](https://open.spotify.com/track/0wZ5Yxp0MDP7aAsc68UF87) | [J\. Tillman](https://open.spotify.com/artist/21XbnrbEMUTZelIfoV12hC) | [Year In The Kingdom](https://open.spotify.com/album/50UnH0t4AHlGSa1sqqxYAg) | 3:34 |
 | 100 | [Wild Parts](https://open.spotify.com/track/3RG5SUMbOTOEaQoOuCBSgG) | [Maddie Medley](https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3) | [Wild Parts](https://open.spotify.com/album/7kTYlYTFHfIrL9kplUnRam) | 3:59 |
 
-Snapshot ID: `MCw3ODBmZmEyN2UzNjdkZmUyOWMxMzhkM2FjMjEzYmJkOGVmZDA4OWE3`
+Snapshot ID: `MCw4OWQyZGRjOTYyZGM4Y2E0ZTdjOGViOTgxMzRiYzNjZDI5ZTg4ZWQy`

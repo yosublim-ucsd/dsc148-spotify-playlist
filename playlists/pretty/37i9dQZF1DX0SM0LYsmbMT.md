@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SM0LYsmbMT.md) - [plain]
 
 > The original chill instrumental beats playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,194,380 likes - 300 songs - 10 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,194,493 likes - 300 songs - 10 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SM0LYsmbMT.md) - [plain]
 | 299 | [Hazey](https://open.spotify.com/track/2rDxQ4QksLeOwwelctmOLE) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [M e a d o w](https://open.spotify.com/artist/6kG4rnzy0AVEvZb7RGZtoy) | [Hazey](https://open.spotify.com/album/77yiJRvx13PUJm7TRhfakf) | 2:18 |
 | 300 | [Joshua aime les myrtilles](https://open.spotify.com/track/2KUR6TQJ2aCQf6BNZytUoW) | [Quentin Elmi](https://open.spotify.com/artist/1rzvnLU6QzGQZFeCcsR5VE), [Valentine Morell](https://open.spotify.com/artist/3l8NLw6POkjXQps81nd7mT) | [Joshua aime les myrtilles](https://open.spotify.com/album/5EnyCX9fVaqwKnu01nznxS) | 2:11 |
 
-Snapshot ID: `MCxjNWRmNmYwM2NiZWE1MGZjM2VjN2I0NDBlYjc4OTRjZjA5NWQ3OWM3`
+Snapshot ID: `MCw5YWQ0MWY1ZWM5YWU1YThjOTI0YWI0YzhlNDJiZmRjNzE1OTNkYmQw`

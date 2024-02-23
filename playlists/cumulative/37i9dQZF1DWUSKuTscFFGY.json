@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s pop. Photo : KAROL G",
+  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s pop. Photo : Selena Gomez",
   "name": "Nouveaut\u00e9s Pop",
   "tracks": [
     {
@@ -751,6 +751,24 @@
     },
     {
       "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/7eSHhMZCCvJvubQ3plHlYZ"
+      },
+      "artists": [
+        {
+          "name": "Aqyila",
+          "url": "https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175057,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/5utUZ5nv6y6dR8irsnOQEj"
+    },
+    {
+      "album": {
         "name": "Farewell",
         "url": "https://open.spotify.com/album/40eOtSpXZRNJDZ2MR7oN3K"
       },
@@ -1080,7 +1098,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 184000,
       "name": "Dance Alone",
       "url": "https://open.spotify.com/track/5BnL7i0syYE3KK8RgbK6hn"
@@ -1464,6 +1482,24 @@
       "duration_ms": 208253,
       "name": "Dreaming",
       "url": "https://open.spotify.com/track/3TBNXtO8ukvpbgvkMuttsb"
+    },
+    {
+      "album": {
+        "name": "Drown",
+        "url": "https://open.spotify.com/album/5PpH5XpQ59g6CB399oKkVA"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260120,
+      "name": "Drown",
+      "url": "https://open.spotify.com/track/5qxOeTyWa0JAst5fqdrqgu"
     },
     {
       "album": {
@@ -2342,7 +2378,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 162146,
       "name": "if you only knew",
       "url": "https://open.spotify.com/track/2w5iEdgKsFms9vAFq2n3Yy"
@@ -2753,6 +2789,24 @@
     },
     {
       "album": {
+        "name": "THE HEART",
+        "url": "https://open.spotify.com/album/51VxnE4MjwQvLYSvI1lKyE"
+      },
+      "artists": [
+        {
+          "name": "Mishaal Tamer",
+          "url": "https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178624,
+      "name": "LIFE'S ALL WORK",
+      "url": "https://open.spotify.com/track/4WuhpQO4RrncEx5Iw36TQa"
+    },
+    {
+      "album": {
         "name": "Lighthouse",
         "url": "https://open.spotify.com/album/0uzmn5569YzeNmq63JMK5S"
       },
@@ -2876,6 +2930,24 @@
       "duration_ms": 173303,
       "name": "Love Like This",
       "url": "https://open.spotify.com/track/3P9pRL7V9yM9DhY6NGZjzA"
+    },
+    {
+      "album": {
+        "name": "Love On",
+        "url": "https://open.spotify.com/album/7I7rbWQoLZ7PrTMsRfocpL"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181650,
+      "name": "Love On",
+      "url": "https://open.spotify.com/track/2fB5YRuD88drKpCXQOAk03"
     },
     {
       "album": {
@@ -3834,7 +3906,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 143940,
       "name": "run for the hills",
       "url": "https://open.spotify.com/track/51hyZpbJlIgZIaX3TtMxmu"
@@ -4274,7 +4346,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 124800,
       "name": "Stuck In Paradise",
       "url": "https://open.spotify.com/track/0bKY5wu5Ciq5s86comjeeG"
@@ -4452,7 +4524,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 166676,
       "name": "Take Me Home, Country Roads",
       "url": "https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 
 > The women at the forefront of ambient and experimental music\. Cover: Whatever The Weather
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,012 likes - 100 songs - 9 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,025 likes - 100 songs - 9 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 | 99 | [Laurus I](https://open.spotify.com/track/2Ghsr0ema2mSWWAFitSttM) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Laurus](https://open.spotify.com/album/002PfB3V3MwL05lAvCTC6l) | 4:05 |
 | 100 | [A Cereus Night](https://open.spotify.com/track/2xYxy6oYLHpa89b2E5bzxU) | [Mira Calix](https://open.spotify.com/artist/7yop5VpIW8Wv2l8ReGzbSq) | [Eyes Set Against The Sun](https://open.spotify.com/album/4IsaWRJswfh4mhXd4LBheN) | 1:18 |
 
-Snapshot ID: `MCxhMjg1N2VkZTI1Mzk4Mzk0MThjYTFhNTk3MDFlZjYyN2E1OGJiODEx`
+Snapshot ID: `MCxkN2M0ZDM4ZDhlNjU2MDBjOGIwYjk5ZWRjMmY4ZTg3ZWFlMDhkZmFk`

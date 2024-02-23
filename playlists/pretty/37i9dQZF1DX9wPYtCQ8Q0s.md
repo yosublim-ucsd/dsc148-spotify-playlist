@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wPYtCQ8Q0s.md) - [plain]
 
 > A batida certa para o seu treino
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,095 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,083 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wPYtCQ8Q0s.md) - [plain]
 | 99 | [Stupid Again](https://open.spotify.com/track/1fPnUpoXCpD2NDI4vPVeLw) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [The New Toronto 3](https://open.spotify.com/album/2TbrXjwWklhT7JrC5sdUkf) | 2:54 |
 | 100 | [Straightenin](https://open.spotify.com/track/3X2r2CnHOJeV5YekPTgBnK) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Straightenin](https://open.spotify.com/album/7MFj8Fxl8OrEAOyOBSMz51) | 4:15 |
 
-Snapshot ID: `MCxmNWI5ZTBkYzk2ZGExYmU3MDM4NDYxNzZkMTcwN2Q4NDdkZGIzMDJj`
+Snapshot ID: `MCxhOTMwMjcxNDNmNzI5NDg0ZGZiYWM2ODRmOTRkNDc5MTJlZDlhNGJl`

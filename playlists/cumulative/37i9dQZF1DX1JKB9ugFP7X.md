@@ -4,7 +4,7 @@
 
 > Escucha lo mejor del pop electrónico en español.
 
-119 songs - 7 hr 14 min
+120 songs - 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [El Magnetismo](https://open.spotify.com/track/4RJpJjhEH1yFizM4CGD65Z) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ) | [ELETÉ](https://open.spotify.com/album/2yrXDD1dTZFPVSKMp9ADpL) | 5:11 | 2023-09-08 |  |
 | [El Mundo Será Nuestro](https://open.spotify.com/track/44ISmW3lNQUqyqRRKrTw2K) | [GLAS](https://open.spotify.com/artist/4Z1zjj6iQYhxLY9zE9sJch) | [El Mundo Será Nuestro](https://open.spotify.com/album/4HU8TUSho4zUe3eG9I2xnX) | 4:38 | 2023-09-08 |  |
 | [EMERGENCIA \- Presented by PlayStation, Horizon Forbidden West](https://open.spotify.com/track/5Fj753yCLyWL699hiiCgoJ) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [EMERGENCIA \(Presented by PlayStation, Horizon Forbidden West\)](https://open.spotify.com/album/3gnyAB5RtdV38RCk7hW74R) | 3:43 | 2023-09-08 |  |
-| [En la Torre \- AV Remix](https://open.spotify.com/track/5zW85xW2bXJWP5b2xES8Fc) | [Alejo y Valentin](https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum) | [En el Palacio \(REMIX\)](https://open.spotify.com/album/1BQ7z4gQEX3bTLnHBy4sXS) | 4:06 | 2023-09-08 |  |
+| [En la Torre \- AV Remix](https://open.spotify.com/track/5zW85xW2bXJWP5b2xES8Fc) | [Alejo y Valentin](https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum) | [En el Palacio \(REMIX\)](https://open.spotify.com/album/1BQ7z4gQEX3bTLnHBy4sXS) | 4:06 | 2023-09-08 | 2024-02-23 |
 | [Entender la luz](https://open.spotify.com/track/6BF2d8f9xm8ws6orycS1cZ) | [Proyecto Gomez Casa](https://open.spotify.com/artist/2llTGhog6PYF3KfYg5sTYe), [Sof Tot](https://open.spotify.com/artist/0QLkVX5UDeJyKxSA8z8mtj), [Zucker](https://open.spotify.com/artist/2ARej2X8wUv5o72p5K5p6B) | [Luz](https://open.spotify.com/album/6CJlsg416F8vi0YWIMGE2x) | 3:25 | 2023-09-08 | 2023-10-27 |
 | [Entre las Dos](https://open.spotify.com/track/2SbinZ9sYneunRL0MNxlbZ) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Souvenir](https://open.spotify.com/album/6nva6vnxk725eRidB3AgbC) | 3:25 | 2023-09-08 |  |
 | [Espantapájaros](https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [La Perla](https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp) | [Espantapájaros](https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg) | 2:52 | 2023-09-08 |  |
@@ -97,6 +97,7 @@
 | [POSE!](https://open.spotify.com/track/0CBqdjYm2rVEEFbzxCtdLj) | [Juana Rozas](https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq) | [POSE!](https://open.spotify.com/album/20TZLmuA2scsAXFU62L1vN) | 2:52 | 2024-01-12 |  |
 | [PURA](https://open.spotify.com/track/28GuOCqBtFvSpthDJ2Vyli) | [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T) | [PURA](https://open.spotify.com/album/2PAJpftisSwkakrKmheRcl) | 2:14 | 2023-12-07 |  |
 | [Quién Me Escucha](https://open.spotify.com/track/19e0zVRwZdpid0bGdYXxGi) | [Sandra Bernardo](https://open.spotify.com/artist/5JKn780F1w5aPxnMZEmA5H), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E), [Lagartijeando](https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw) | [Quién Me Escucha](https://open.spotify.com/album/0ZFJQ8aL8E9kxKapcZSN2V) | 3:18 | 2023-09-08 |  |
+| [Qué Bueno Que Llegaste](https://open.spotify.com/track/4PNqYBcu4KvFHUD8LOPATS) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn), [Bronko Yotte](https://open.spotify.com/artist/6l78ydrIl7eG2kPTwGXaz7) | [Qué Bueno Que Llegaste](https://open.spotify.com/album/7Gn1FfMecfsL1T1fOAw6MY) | 4:35 | 2024-02-22 |  |
 | [Rayo Eléctrico](https://open.spotify.com/track/7B29BMyYb5jgnwfiJxLwq8) | [Poncho](https://open.spotify.com/artist/4ADdzb8h9qQTE8XPmSxY8r), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Rayo Eléctrico](https://open.spotify.com/album/3kc3kZbhYmb22GHlCaqiYs) | 4:18 | 2023-09-08 |  |
 | [RESPIRAR](https://open.spotify.com/track/4WSrc5DozzVTtZcGafsVvf) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Uri](https://open.spotify.com/artist/1Sdn8kqQIdeQBjwMiwyNNN), [Rodridi](https://open.spotify.com/artist/6ASGA8HXm5wcYHk0dBteDv) | [RESPIRAR](https://open.spotify.com/album/2mdpPhNB6O4BDobUFxI7ai) | 2:25 | 2023-09-08 |  |
 | [Romance de Fin de Semana](https://open.spotify.com/track/2DevAjPcgZ3H2fzw9jYMIm) | [Vita Set](https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy), [Antonia Navarro](https://open.spotify.com/artist/1xmUtLnSPwuJOVGB5kZwSt) | [Romance de Fin de Semana](https://open.spotify.com/album/1OYZ5cJN4YZiUq54DZDcvN) | 4:35 | 2023-09-08 |  |

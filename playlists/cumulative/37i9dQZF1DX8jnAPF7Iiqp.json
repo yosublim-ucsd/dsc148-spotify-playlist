@@ -470,7 +470,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 226206,
       "name": "Brazil",
       "url": "https://open.spotify.com/track/3jrToiaGyx4o553AfgoofP"
@@ -624,7 +624,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 206616,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/5wp6dhW0dCOO0TG4MGCIPT"
@@ -778,6 +778,28 @@
       "duration_ms": 209557,
       "name": "Colour My Soul",
       "url": "https://open.spotify.com/track/2qQPTWZ1QAg9k9Rb2O7HaB"
+    },
+    {
+      "album": {
+        "name": "Comedown",
+        "url": "https://open.spotify.com/album/3GWl74uAhfuBmwx1de0YHW"
+      },
+      "artists": [
+        {
+          "name": "Grafix",
+          "url": "https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY"
+        },
+        {
+          "name": "Andromedik",
+          "url": "https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156555,
+      "name": "Comedown",
+      "url": "https://open.spotify.com/track/3kYENrUwhbTu4iylBisph0"
     },
     {
       "album": {
@@ -2037,6 +2059,28 @@
     },
     {
       "album": {
+        "name": "iSpy",
+        "url": "https://open.spotify.com/album/3zeQ3RxNeO4bOd9PM6cp4X"
+      },
+      "artists": [
+        {
+          "name": "AC13",
+          "url": "https://open.spotify.com/artist/2JckSanHaR24IYLgQv60zn"
+        },
+        {
+          "name": "Mila Falls",
+          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140524,
+      "name": "iSpy",
+      "url": "https://open.spotify.com/track/23AssmqMJFb8mtQzfW28aC"
+    },
+    {
+      "album": {
         "name": "It's That Time (Dimension Remix)",
         "url": "https://open.spotify.com/album/1jf13J2HTGFllbhJH5Pozr"
       },
@@ -2148,7 +2192,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 160000,
       "name": "Know What It Means",
       "url": "https://open.spotify.com/track/1FIFWiHNLtohEAnuFgNgJf"
@@ -2848,7 +2892,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 213252,
       "name": "Never Be Alone",
       "url": "https://open.spotify.com/track/2bxVJeXMKGHijMD563Oqcr"
@@ -3829,6 +3873,28 @@
     },
     {
       "album": {
+        "name": "Supersonic (Basstripper Remix)",
+        "url": "https://open.spotify.com/album/2QJuzV5qlzbQtFJhRRmgNG"
+      },
+      "artists": [
+        {
+          "name": "Friction",
+          "url": "https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr"
+        },
+        {
+          "name": "Basstripper",
+          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224232,
+      "name": "Supersonic - Basstripper Remix",
+      "url": "https://open.spotify.com/track/0vMIb12OsAkLzYuuWixnka"
+    },
+    {
+      "album": {
         "name": "Sweeter / Do It Right",
         "url": "https://open.spotify.com/album/5rvjAb7aB99PUfE8hhdjce"
       },
@@ -4238,6 +4304,28 @@
       "duration_ms": 286996,
       "name": "Warsaw",
       "url": "https://open.spotify.com/track/7CbJcPYjmH4Gs8An5sPvJM"
+    },
+    {
+      "album": {
+        "name": "Wasted Youth",
+        "url": "https://open.spotify.com/album/7BXCwPeAm4m1KFabsvCTuy"
+      },
+      "artists": [
+        {
+          "name": "goddard.",
+          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
+        },
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147581,
+      "name": "Wasted Youth",
+      "url": "https://open.spotify.com/track/7i5tBVaBU5Z4Va6XK0L5mm"
     },
     {
       "album": {

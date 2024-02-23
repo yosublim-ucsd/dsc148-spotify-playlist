@@ -1,5 +1,5 @@
 {
-  "2024-02-22": 130857,
+  "2024-02-23": 130908,
   "date_first_scraped": "2023-09-23",
   "description": "J-Hip Hop\u30ab\u30eb\u30c1\u30e3\u30fc\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d\u3092\u7e4b\u3050\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 cover:  Jin Dogg",
   "name": "+81 Connect: J-Hip Hop\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d",
@@ -897,7 +897,7 @@
     {
       "album": {
         "name": "ATTENTION",
-        "url": "https://open.spotify.com/album/69hkeaytszlZEHuniaXeJH"
+        "url": "https://open.spotify.com/album/6yyYGRIhEHSd0RW8EU2dO0"
       },
       "artists": [
         {
@@ -916,6 +916,32 @@
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 186715,
+      "name": "ATTENTION",
+      "url": "https://open.spotify.com/track/1ocrIc0ammblLTOuHfXG3d"
+    },
+    {
+      "album": {
+        "name": "ATTENTION",
+        "url": "https://open.spotify.com/album/69hkeaytszlZEHuniaXeJH"
+      },
+      "artists": [
+        {
+          "name": "TAXON",
+          "url": "https://open.spotify.com/artist/5P4QZuZGQD2FjvNF6lk49r"
+        },
+        {
+          "name": "Jinmenusagi",
+          "url": "https://open.spotify.com/artist/5QSm6dJVv4soCzV7rv4QqE"
+        },
+        {
+          "name": "Tade Dust",
+          "url": "https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": "2024-02-22",
       "duration_ms": 186715,
       "name": "ATTENTION",
       "url": "https://open.spotify.com/track/6BKZksyx56fu08aIr57r2U"
@@ -1619,10 +1645,40 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 212553,
       "name": "Boss Bitch - Remix",
       "url": "https://open.spotify.com/track/35KNZlorV8tFWaOCGyWa49"
+    },
+    {
+      "album": {
+        "name": "7 (Boss Bitch Edition)",
+        "url": "https://open.spotify.com/album/0qWaruyY6ogPiKAcmPWfUM"
+      },
+      "artists": [
+        {
+          "name": "nana",
+          "url": "https://open.spotify.com/artist/7uzEQGrUAupBJK2j3uQsoC"
+        },
+        {
+          "name": "ZOT on the WAVE",
+          "url": "https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH"
+        },
+        {
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/6HIxjjBk4Vg0pfnaxBTeOF"
+        },
+        {
+          "name": "Elle Teresa",
+          "url": "https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212553,
+      "name": "Boss Bitch - Remix",
+      "url": "https://open.spotify.com/track/0BMmYlBRZBel67VcE8mM0q"
     },
     {
       "album": {
@@ -6437,10 +6493,28 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 212100,
       "name": "NAMIDA",
       "url": "https://open.spotify.com/track/0ZbHnUrW5rwzXwo0yIVMJc"
+    },
+    {
+      "album": {
+        "name": "NAMIDA",
+        "url": "https://open.spotify.com/album/1GVyp2JmOiBgLuuTjJilx1"
+      },
+      "artists": [
+        {
+          "name": "Masato Hayashi",
+          "url": "https://open.spotify.com/artist/5j7m1n3HAdmbJoYMizwzk2"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212100,
+      "name": "NAMIDA",
+      "url": "https://open.spotify.com/track/5tBT3JVU72cH6UCNehL44s"
     },
     {
       "album": {

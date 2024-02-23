@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5eku7F05o6O.md) - [plain]
 
 > Le plus beau, le plus triste\. Photo: Alexandra Streliski
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,738 likes - 102 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,740 likes - 102 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5eku7F05o6O.md) - [plain]
 | 101 | [Grand mal](https://open.spotify.com/track/0LN18forBwwfYK9GU2vt92) | [ludovic alarie](https://open.spotify.com/artist/5YQJ21kmCLdhMccxqJoDWU) | [Ludovic Alarie](https://open.spotify.com/album/0FxH3Lu9Sxu501EFCauomP) | 4:50 |
 | 102 | [Ce monde](https://open.spotify.com/track/2mUWSp5aSbvSCNeW18SE5I) | [VAN Piunno](https://open.spotify.com/artist/7HQokVgxCA3pXAieQ9HuXI) | [Ce monde \- Single](https://open.spotify.com/album/0E6O5g66aIM69v7YjCw6ov) | 3:19 |
 
-Snapshot ID: `MCw5MDI4MWZiMWExMTI0MzhkZGRkZTFjYmMwNGU5ZGNhZjg2OGE3YTI1`
+Snapshot ID: `MCw5NjAwMzc1MzU2MjlmNWIyNzEzZDEwOGMwMDliNThiZDIxM2ZiOWZl`

@@ -2,9 +2,9 @@
 
 ### [RAP 91](https://open.spotify.com/playlist/37i9dQZF1DX1ct2TQrAvRf)
 
-> India's Rap Scene\. Cover\- Karan Aujla & Divine
+> India's Rap Scene\. Cover\- MC Square
 
-141 songs - 7 hr 54 min
+142 songs - 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [Mirchi](https://open.spotify.com/track/5KkCsYIgMK5H7Ih31Dnd2Q) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu), [Stylo G](https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd), [Phenom](https://open.spotify.com/artist/3vQ75vDDu0nhfHuEW3n17Z) | [Mirchi](https://open.spotify.com/album/7veJEEW836HtKZG9Admr3z) | 3:12 | 2023-03-27 | 2023-10-19 |
 | [Moosedrilla \(feat\. DIVINE\)](https://open.spotify.com/track/67KTXqxMEyBMq3LApqCgNV) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:52 | 2023-03-27 | 2023-12-10 |
 | [No Reason](https://open.spotify.com/track/3ICNl7gysAiDxFtpYAPOZK) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [GD 47](https://open.spotify.com/artist/6uflkUXhbKhwVwZ3E2opoG) | [No Reason](https://open.spotify.com/album/0wzfXAUHyTS4jzRA0HciwY) | 3:38 | 2023-04-19 |  |
-| [Nothing Lasts](https://open.spotify.com/track/7tYAKbutuUrdxAhdOvqF01) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Street Dreams](https://open.spotify.com/album/3UFq6P2Qu3yNM2hMZqfZ1Y) | 2:56 | 2024-02-15 |  |
+| [Nothing Lasts](https://open.spotify.com/track/7tYAKbutuUrdxAhdOvqF01) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Street Dreams](https://open.spotify.com/album/3UFq6P2Qu3yNM2hMZqfZ1Y) | 2:56 | 2024-02-15 | 2024-02-23 |
 | [Nusta Paisa](https://open.spotify.com/track/4PzwnV2M9498W9sqH7qin3) | [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH) | [Nusta Paisa](https://open.spotify.com/album/22vgvuGWlqNx7Tu29FSvSO) | 3:40 | 2023-08-30 |  |
 | [Obsessed](https://open.spotify.com/track/6Z4rRhYZVQsYKmrxD40tru) | [Riar Saab](https://open.spotify.com/artist/34gAaWeYZoRER7MY3KBy1Q), [Abhijay Sharma](https://open.spotify.com/artist/3x1jBMHHrDUQbtRrvV78h2) | [Obsessed](https://open.spotify.com/album/3LyafXRRJVEfcjTMr1N8Mu) | 3:10 | 2023-06-08 |  |
 | [On Top](https://open.spotify.com/track/4SJMuaIYcBS8ke96lDYOsw) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [On Top](https://open.spotify.com/album/6ephunHyThVj3tQkGgZKpJ) | 3:03 | 2023-06-08 |  |
@@ -135,6 +135,7 @@
 | [Streetwise](https://open.spotify.com/track/5YYqibj5kqYWjZ3GOHHUaC) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [J.Hind](https://open.spotify.com/artist/3hWwqQE8pDtGEOOf0VJx4t) | [Street Knowledge](https://open.spotify.com/album/4atfMjGwk0GMXIvGvqyNqC) | 2:44 | 2023-09-04 | 2023-10-04 |
 | [Sunn Na](https://open.spotify.com/track/7b8BHkjW0vfgT54yXp0Lvn) | [Bali](https://open.spotify.com/artist/65pmgBULHr82D3llNlHtB8) | [Sunn Na](https://open.spotify.com/album/7ghJOs6RjHWSl4nuqYi1v8) | 2:51 | 2023-03-27 | 2023-08-18 |
 | [Systumm](https://open.spotify.com/track/3cBFnVztvQnMcPcIgipLTV) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy) | [Systumm](https://open.spotify.com/album/3X6OFKhCfx2cG3rzLHDkAK) | 2:34 | 2023-08-17 | 2023-10-27 |
+| [Tedhe Chaalak](https://open.spotify.com/track/5EXNgdixf4572ATdvnSdXL) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [Ankee](https://open.spotify.com/artist/0eJO7NuzYBNE2tVGcxiRfn) | [Tedhe Chaalak](https://open.spotify.com/album/48e53D1ZHIh0EfVpCySju6) | 3:16 | 2024-02-22 |  |
 | [The Last Ride](https://open.spotify.com/track/7B4uYqxTpTOS1sgxFB9Ann) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [The Last Ride](https://open.spotify.com/album/2ga8NDQRxoXRAsqajZoCjv) | 4:22 | 2023-03-27 |  |
 | [Top Class / Overseas](https://open.spotify.com/track/4BDOA9pV0yLClbR3v37ekI) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Street Dreams](https://open.spotify.com/album/3UFq6P2Qu3yNM2hMZqfZ1Y) | 4:48 | 2024-02-15 |  |
 | [TRAP PRAA](https://open.spotify.com/track/2IodN2cQX9LASXaRu6Ovqd) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC) | [PRAA](https://open.spotify.com/album/4OsOipytcFs0SwulwIAtis) | 3:11 | 2023-04-19 |  |

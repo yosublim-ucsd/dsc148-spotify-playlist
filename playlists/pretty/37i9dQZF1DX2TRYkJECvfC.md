@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2TRYkJECvfC.md) - [plain]
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,707,866 likes - 200 songs - 15 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,708,430 likes - 200 songs - 15 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2TRYkJECvfC.md) - [plain]
 | 199 | [Blasphemy](https://open.spotify.com/track/1VFP7rkQB2dkEqWj9hBZym) | [Moullinex](https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr), [GPU Panic](https://open.spotify.com/artist/1kClYC29n6M4YTALilSyY3) | [Blasphemy](https://open.spotify.com/album/7cfkhtRdWjxknBT7Khj1HW) | 3:09 |
 | 200 | [Medium](https://open.spotify.com/track/6MLh79MhMrzh25OoF4o4hA) | [Fractures](https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70) | [Medium](https://open.spotify.com/album/2NcT8DWACI7PjmoOufep5G) | 3:58 |
 
-Snapshot ID: `MCw3MDU5NzU1NmU3YjllMGJhZDRkMDJhNjI3YjgyY2E0NDU1ZGU5ZmUz`
+Snapshot ID: `MCxkNjFhOTMzMmIxMjQxMzdiNzY2NzhjYjFiNGUzMDA0MjdmOWNjMmEw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2yvmlOdMYzV.md) - [plain]
 
 > Indie soul that's highkey fire
 
-[Spotify](https://open.spotify.com/user/spotify) - 931,758 likes - 150 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 931,779 likes - 150 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -150,13 +150,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2yvmlOdMYzV.md) - [plain]
 | 140 | [HANGING WITH YOU](https://open.spotify.com/track/2Fj4zjw9tV9NY1wWq0bAKN) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [HANGING WITH YOU](https://open.spotify.com/album/5HDraXX5eNcpYzNcyVyykH) | 3:50 |
 | 141 | [Moonlight](https://open.spotify.com/track/3pp63SNvp4x3qSPv3TqYAM) | [Relyae](https://open.spotify.com/artist/1XWIY6lvgEpKAIPNOK2CjO) | [Moonlight](https://open.spotify.com/album/6MBbyh68wDw1FL72MP4vvt) | 3:21 |
 | 142 | [Private Party \(feat\. Siaira Shawn\)](https://open.spotify.com/track/3DOYM3dncVBzg3cfTLPG87) | [V\. Cartier](https://open.spotify.com/artist/5Spozi8ZrO7PLm99USCdop), [Siaira Shawn](https://open.spotify.com/artist/7wkquqt8snY30TIZKCHIdX) | [Private Party \(feat\. Siaira Shawn\)](https://open.spotify.com/album/7F80alawlEMrhANP2kPwiV) | 3:33 |
-| 143 | [Honeydew \(02\)](https://open.spotify.com/track/1q8Ie915rJrzLTOPT71vUA) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [LIBBIE 02](https://open.spotify.com/album/4WLuz6h7LOGyRJybO2DiFD) | 2:33 |
-| 144 | [New Lows](https://open.spotify.com/track/3AcEznRWD9ySaNvW6TUxcc) | [Kevin Ross](https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY) | [Midnight Microdose, Vol\. 2](https://open.spotify.com/album/3nZfR3g2APtjLlOOE3h6jL) | 1:26 |
-| 145 | [Raining Tomorrow](https://open.spotify.com/track/6CBBTbmqTTSCzkSyfpUs8n) | [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [Raining Tomorrow](https://open.spotify.com/album/3bG5fjCjRBLHq0b6p2oGBY) | 3:48 |
-| 146 | [After The Day Party](https://open.spotify.com/track/2dYxccZjun7pzA4npfbKfb) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [Outside](https://open.spotify.com/album/4pWieE77CDQHT2UKff0WEy) | 2:27 |
-| 147 | [Better Care](https://open.spotify.com/track/0ObifqYUwrZOSDSkgJMGLf) | [UNA MIA](https://open.spotify.com/artist/0wWj7u5D7ksVZp8qVuCuz0) | [Better Care](https://open.spotify.com/album/7ESHyi4MorUD8bQ9qKcs6Y) | 3:26 |
-| 148 | [Lonely](https://open.spotify.com/track/6vkucSVB3rWcLQA4Shijcr) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Conditions](https://open.spotify.com/album/5dQyKXUD3YhvsESDAUX4iZ) | 2:11 |
-| 149 | [SMILE \(feat\. Xavier Omär, DAISY WORLD & ROMderful\)](https://open.spotify.com/track/0uwpYA2e1LrTS9MDS4p9q9) | [Ta\-ku](https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV), [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg), [DAISY WORLD](https://open.spotify.com/artist/53rBi3LpNcMJUTSANS6uYT), [ROMderful](https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU) | [SMILE \(feat\. Xavier Omär, DAISY WORLD & ROMderful\)](https://open.spotify.com/album/3bDCfRa4XXnxPEaAGYGvd9) | 3:18 |
-| 150 | [Talk about us](https://open.spotify.com/track/6issJt39BhQbPQK7mM7KxB) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Tell Jimmy](https://open.spotify.com/album/7qW0v91QqdcYVuu4sVMLVt) | 3:02 |
+| 143 | [New Lows](https://open.spotify.com/track/3AcEznRWD9ySaNvW6TUxcc) | [Kevin Ross](https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY) | [Midnight Microdose, Vol\. 2](https://open.spotify.com/album/3nZfR3g2APtjLlOOE3h6jL) | 1:26 |
+| 144 | [Raining Tomorrow](https://open.spotify.com/track/6CBBTbmqTTSCzkSyfpUs8n) | [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [Raining Tomorrow](https://open.spotify.com/album/3bG5fjCjRBLHq0b6p2oGBY) | 3:48 |
+| 145 | [After The Day Party](https://open.spotify.com/track/2dYxccZjun7pzA4npfbKfb) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [Outside](https://open.spotify.com/album/4pWieE77CDQHT2UKff0WEy) | 2:27 |
+| 146 | [Better Care](https://open.spotify.com/track/0ObifqYUwrZOSDSkgJMGLf) | [UNA MIA](https://open.spotify.com/artist/0wWj7u5D7ksVZp8qVuCuz0) | [Better Care](https://open.spotify.com/album/7ESHyi4MorUD8bQ9qKcs6Y) | 3:26 |
+| 147 | [Lonely](https://open.spotify.com/track/6vkucSVB3rWcLQA4Shijcr) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Conditions](https://open.spotify.com/album/5dQyKXUD3YhvsESDAUX4iZ) | 2:11 |
+| 148 | [SMILE \(feat\. Xavier Omär, DAISY WORLD & ROMderful\)](https://open.spotify.com/track/0uwpYA2e1LrTS9MDS4p9q9) | [Ta\-ku](https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV), [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg), [DAISY WORLD](https://open.spotify.com/artist/53rBi3LpNcMJUTSANS6uYT), [ROMderful](https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU) | [SMILE \(feat\. Xavier Omär, DAISY WORLD & ROMderful\)](https://open.spotify.com/album/3bDCfRa4XXnxPEaAGYGvd9) | 3:18 |
+| 149 | [Talk about us](https://open.spotify.com/track/6issJt39BhQbPQK7mM7KxB) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Tell Jimmy](https://open.spotify.com/album/7qW0v91QqdcYVuu4sVMLVt) | 3:02 |
+| 150 | [Cold Showers](https://open.spotify.com/track/0xLIu53VONIKcPKcwtBBkd) | [Tia Gordon](https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc) | [Cold Showers](https://open.spotify.com/album/6yKezCicZESF7XUSD4ubrg) | 3:20 |
 
-Snapshot ID: `MCw0MTJjMjExY2ZiMzg3YzU0OTQ1OWQ2Njg3MWY3ZDc1NDMyYWU0MGNh`
+Snapshot ID: `MCwxNmI0MzBlYjYxYWU4MDg1MDgwYzFkZTViZDVmMjMxNTUzNDZjNTAw`

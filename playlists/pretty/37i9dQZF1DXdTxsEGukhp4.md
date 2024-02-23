@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: Ayumu Imazu
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,288 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,305 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,31 +32,31 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 | 22 | [kimiwaunmeinohito](https://open.spotify.com/track/0FXPwxpbU9jZRndH7buJGW) | [Manato Funatsu](https://open.spotify.com/artist/4L7zIJ9LjO6oSTRjzBlrva) | [kimiwaunmeinohito](https://open.spotify.com/album/4spgC6mFvPofhyFBhHWUVU) | 3:36 |
 | 23 | [Yozora](https://open.spotify.com/track/6xUPHMakPsGiur26RV3ABu) | [Sugar Goose](https://open.spotify.com/artist/78XX7wBh49Kk7YXPc0HKj4) | [20Escape](https://open.spotify.com/album/2HReb5L8Pix27hRgQRNbzS) | 2:56 |
 | 24 | [Custom Lovedool](https://open.spotify.com/track/3s0ZWBG9l85BqTi6aJzjXt) | [akuma no kiss \(senritsu kanano & katy\)](https://open.spotify.com/artist/5TqcSYdrNJtfgnr7W37JcA) | [Custom Lovedool](https://open.spotify.com/album/6ZN7SpS7A16lYFQwAE0qZO) | 3:25 |
-| 25 | [The Flame of Love](https://open.spotify.com/track/0uNmOW9ock1EUkbBzjTk0L) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [The Flower of Love](https://open.spotify.com/album/7n2ZUQwPFVI1duDelTWD3p) | 3:19 |
-| 26 | [MOTTAI](https://open.spotify.com/track/6mHZYuJSurWBl6ne142xiz) | [P丸様｡](https://open.spotify.com/artist/4hUWwJ0fRLx9rYtUvT26Ii) | [MOTTAI](https://open.spotify.com/album/2hzMW3wgt1nmHUhTjAR7bF) | 2:40 |
-| 27 | [Moonlight](https://open.spotify.com/track/20oWyi2kyCBXvgmD41XYEm) | [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [Moonlight](https://open.spotify.com/album/1B7s0MuLuwvGpSMOpzKDTN) | 3:29 |
-| 28 | [사랑스러워](https://open.spotify.com/track/6XVp0q2S9ORgOeHBeaXlke) | [Kim Jong Kook](https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG) | [This is me](https://open.spotify.com/album/0aOZf1FV1MFFhue6oRi3eu) | 4:29 |
-| 29 | [サクラキミワタシ](https://open.spotify.com/track/4bM9itWEyMkLUSd2VeROAd) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [サクラキミワタシ](https://open.spotify.com/album/4gOlBkqSeyF4uZPey6aZAd) | 3:22 |
-| 30 | [コンパクトミラー](https://open.spotify.com/track/0OjN6CZMsjEFBAIUeN3J7R) | [kiwano](https://open.spotify.com/artist/2gWOEyfr0ms1TzCQmIQ2IS) | [コンパクトミラー](https://open.spotify.com/album/1KSdaSWekXgtyjrtIlTfcX) | 3:21 |
-| 31 | [Love U](https://open.spotify.com/track/4iIMfHTphhf2OBXhEN7YGh) | [AYANE](https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM) | [Love U](https://open.spotify.com/album/0eLwyZhtxWTOmkX6tkk64n) | 3:29 |
-| 32 | [Girl Like Me](https://open.spotify.com/track/2LowULAGQcOzlwh6nCk8Lf) | [CREAM](https://open.spotify.com/artist/7j6necEPY4TApEMUs9xJgh) | [CREAM THE BEST](https://open.spotify.com/album/24wTu029mfgpSNtz9JUsie) | 3:32 |
-| 33 | [通り雨](https://open.spotify.com/track/380Ie5zoE1prroPeuNquXH) | [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [通り雨](https://open.spotify.com/album/6PS8k0M1Qlme23JTA1bhXE) | 3:01 |
-| 34 | [rendez\-vous](https://open.spotify.com/track/77mI5OSGIIPKxHXBkHOySy) | [shy taupe](https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg) | [Hors d'oeuvre](https://open.spotify.com/album/2xoDg0aFWHgzxMKvTetH4D) | 3:58 |
-| 35 | [Love Song](https://open.spotify.com/track/7dPdKXZjt04R6Ne7vWXZIh) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [Candle](https://open.spotify.com/album/1Dy7aa6yDhK1X0RdrVnHhq) | 4:18 |
-| 36 | [SOULSOUP](https://open.spotify.com/track/1JrxwbZ9u0VNwemdcJwZNi) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [SOULSOUP](https://open.spotify.com/album/2nilNZLuzCuFSkhXC2h10C) | 5:14 |
-| 37 | [Kimi ni Sayonara](https://open.spotify.com/track/2dj9qLXCyP9KoY8bbJ1Kaa) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [Namiutsu Kokoro o Mochinagara](https://open.spotify.com/album/2AqgPeRgCAYar0Yh6pVedu) | 4:23 |
-| 38 | [35°C](https://open.spotify.com/track/2JNDQGte1PNUZaxV8wp5MB) | [Candee](https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR), [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [Rockdown](https://open.spotify.com/album/0PTuKPDfxHvFUJlAkMtDy8) | 2:28 |
-| 39 | [between](https://open.spotify.com/track/6CIHG120FeUdUsH6iW5gxC) | [NOA](https://open.spotify.com/artist/1vpHPL6nejNAg9GXYrJ5ck) | [between](https://open.spotify.com/album/17mh0vNnlu05rA4UxyhrOD) | 3:09 |
-| 40 | [そんな人生を堪能したい](https://open.spotify.com/track/0dj1xrFO8n4Ln4iU1cnOlr) | [虎鷹](https://open.spotify.com/artist/3tYCVKXyZ05qXTvYNmt9ou) | [そんな人生を堪能したい](https://open.spotify.com/album/5vJmr7z9UoxG5p0UpuKSq5) | 3:54 |
-| 41 | [社会のゴミカザマタカフミ](https://open.spotify.com/track/72sYT21EAMIAKRVkJ6svqV) | [3markets\[ \]](https://open.spotify.com/artist/0HxV66MjdNTz6E2oHZxS6g) | [さよならスーサイド](https://open.spotify.com/album/1vDBgxDf3ocCjB0vwsCHA5) | 2:42 |
-| 42 | [fuyu ga sugitara](https://open.spotify.com/track/3VBOu2YNXP2nav4tarq7Ws) | [nyamura](https://open.spotify.com/artist/07ug3BRvzioh7LjHtTDgF6) | [fuyu ga sugitara](https://open.spotify.com/album/7ApemSByPg78zmcga7T9h5) | 2:17 |
-| 43 | [UP TO ME!](https://open.spotify.com/track/0DmNijje9yn7c7yMdjMrmx) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp) | [UP TO ME!](https://open.spotify.com/album/0lV4NlGwWTO1ufKtLQDDfU) | 3:29 |
-| 44 | [スマイリーを探して](https://open.spotify.com/track/0XgoXio6L2d5tFhIq0K0ty) | [Serani Poji](https://open.spotify.com/artist/6JzJhoOtjzVLZpMi3Ppz3T) | [ワンルームサバイバル](https://open.spotify.com/album/2AbeJ3WRfsuNBj60drWwWi) | 4:31 |
-| 45 | [最高速度](https://open.spotify.com/track/22PDXKDnBNEejFZkWzETQE) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [最高速度](https://open.spotify.com/album/70HIn4TXNsSPybodDDMxqI) | 3:50 |
-| 46 | [twilight](https://open.spotify.com/track/4RointGDAgN9lumV9VY27q) | [Sano ibuki](https://open.spotify.com/artist/5QTiwZndpc1mObGXkDKry3) | [twilight](https://open.spotify.com/album/5UT8tarzeeubxICZb7IAuQ) | 4:06 |
-| 47 | [himawari](https://open.spotify.com/track/6EMixJeYzOGRHrrGz4EVwT) | [RKID'z](https://open.spotify.com/artist/2M4aC5IMTkKDehBolXar1B) | [HIMAWARI](https://open.spotify.com/album/7L3JLQdnE1BWXXubSZSqWZ) | 3:39 |
-| 48 | [Young Boy](https://open.spotify.com/track/0pmE2OAqk0YIoQBHUfR2Pw) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [ICON](https://open.spotify.com/album/2T9uqa1ZOZiHu2FGrbOWgR) | 3:01 |
-| 49 | [Luv Myself](https://open.spotify.com/track/4woDrq2rIKBbI6UNkzB48j) | [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs), [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb), [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL) | [Luv Myself](https://open.spotify.com/album/4sJMZSWobdfCTgwICMGU6d) | 4:28 |
-| 50 | [タイムマシンにのって](https://open.spotify.com/track/60Ll4oaLbHtoscyMJyNwfo) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [タイムマシンにのって](https://open.spotify.com/album/3pZbyfVXT3wJFnjoU7rJf7) | 3:56 |
+| 25 | [24/7 YOU...](https://open.spotify.com/track/44FOrs9EwYsp64WlsL8EXD) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [24/7 YOU...](https://open.spotify.com/album/1RIeaWQ4OVcm8TEZdiAaPr) | 2:41 |
+| 26 | [The Flame of Love](https://open.spotify.com/track/0uNmOW9ock1EUkbBzjTk0L) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [The Flower of Love](https://open.spotify.com/album/7n2ZUQwPFVI1duDelTWD3p) | 3:19 |
+| 27 | [MOTTAI](https://open.spotify.com/track/6mHZYuJSurWBl6ne142xiz) | [P丸様｡](https://open.spotify.com/artist/4hUWwJ0fRLx9rYtUvT26Ii) | [MOTTAI](https://open.spotify.com/album/2hzMW3wgt1nmHUhTjAR7bF) | 2:40 |
+| 28 | [Moonlight](https://open.spotify.com/track/20oWyi2kyCBXvgmD41XYEm) | [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [Moonlight](https://open.spotify.com/album/1B7s0MuLuwvGpSMOpzKDTN) | 3:29 |
+| 29 | [사랑스러워](https://open.spotify.com/track/6XVp0q2S9ORgOeHBeaXlke) | [Kim Jong Kook](https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG) | [This is me](https://open.spotify.com/album/0aOZf1FV1MFFhue6oRi3eu) | 4:29 |
+| 30 | [サクラキミワタシ](https://open.spotify.com/track/4bM9itWEyMkLUSd2VeROAd) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [サクラキミワタシ](https://open.spotify.com/album/4gOlBkqSeyF4uZPey6aZAd) | 3:22 |
+| 31 | [コンパクトミラー](https://open.spotify.com/track/0OjN6CZMsjEFBAIUeN3J7R) | [kiwano](https://open.spotify.com/artist/2gWOEyfr0ms1TzCQmIQ2IS) | [コンパクトミラー](https://open.spotify.com/album/1KSdaSWekXgtyjrtIlTfcX) | 3:21 |
+| 32 | [Love U](https://open.spotify.com/track/4iIMfHTphhf2OBXhEN7YGh) | [AYANE](https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM) | [Love U](https://open.spotify.com/album/0eLwyZhtxWTOmkX6tkk64n) | 3:29 |
+| 33 | [Girl Like Me](https://open.spotify.com/track/2LowULAGQcOzlwh6nCk8Lf) | [CREAM](https://open.spotify.com/artist/7j6necEPY4TApEMUs9xJgh) | [CREAM THE BEST](https://open.spotify.com/album/24wTu029mfgpSNtz9JUsie) | 3:32 |
+| 34 | [通り雨](https://open.spotify.com/track/380Ie5zoE1prroPeuNquXH) | [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [通り雨](https://open.spotify.com/album/6PS8k0M1Qlme23JTA1bhXE) | 3:01 |
+| 35 | [rendez\-vous](https://open.spotify.com/track/77mI5OSGIIPKxHXBkHOySy) | [shy taupe](https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg) | [Hors d'oeuvre](https://open.spotify.com/album/2xoDg0aFWHgzxMKvTetH4D) | 3:58 |
+| 36 | [Love Song](https://open.spotify.com/track/7dPdKXZjt04R6Ne7vWXZIh) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [Candle](https://open.spotify.com/album/1Dy7aa6yDhK1X0RdrVnHhq) | 4:18 |
+| 37 | [SOULSOUP](https://open.spotify.com/track/1JrxwbZ9u0VNwemdcJwZNi) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [SOULSOUP](https://open.spotify.com/album/2nilNZLuzCuFSkhXC2h10C) | 5:14 |
+| 38 | [Kimi ni Sayonara](https://open.spotify.com/track/2dj9qLXCyP9KoY8bbJ1Kaa) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [Namiutsu Kokoro o Mochinagara](https://open.spotify.com/album/2AqgPeRgCAYar0Yh6pVedu) | 4:23 |
+| 39 | [35°C](https://open.spotify.com/track/2JNDQGte1PNUZaxV8wp5MB) | [Candee](https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR), [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [Rockdown](https://open.spotify.com/album/0PTuKPDfxHvFUJlAkMtDy8) | 2:28 |
+| 40 | [between](https://open.spotify.com/track/6CIHG120FeUdUsH6iW5gxC) | [NOA](https://open.spotify.com/artist/1vpHPL6nejNAg9GXYrJ5ck) | [between](https://open.spotify.com/album/17mh0vNnlu05rA4UxyhrOD) | 3:09 |
+| 41 | [そんな人生を堪能したい](https://open.spotify.com/track/0dj1xrFO8n4Ln4iU1cnOlr) | [虎鷹](https://open.spotify.com/artist/3tYCVKXyZ05qXTvYNmt9ou) | [そんな人生を堪能したい](https://open.spotify.com/album/5vJmr7z9UoxG5p0UpuKSq5) | 3:54 |
+| 42 | [社会のゴミカザマタカフミ](https://open.spotify.com/track/72sYT21EAMIAKRVkJ6svqV) | [3markets\[ \]](https://open.spotify.com/artist/0HxV66MjdNTz6E2oHZxS6g) | [さよならスーサイド](https://open.spotify.com/album/1vDBgxDf3ocCjB0vwsCHA5) | 2:42 |
+| 43 | [fuyu ga sugitara](https://open.spotify.com/track/3VBOu2YNXP2nav4tarq7Ws) | [nyamura](https://open.spotify.com/artist/07ug3BRvzioh7LjHtTDgF6) | [fuyu ga sugitara](https://open.spotify.com/album/7ApemSByPg78zmcga7T9h5) | 2:17 |
+| 44 | [UP TO ME!](https://open.spotify.com/track/0DmNijje9yn7c7yMdjMrmx) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp) | [UP TO ME!](https://open.spotify.com/album/0lV4NlGwWTO1ufKtLQDDfU) | 3:29 |
+| 45 | [スマイリーを探して](https://open.spotify.com/track/0XgoXio6L2d5tFhIq0K0ty) | [Serani Poji](https://open.spotify.com/artist/6JzJhoOtjzVLZpMi3Ppz3T) | [ワンルームサバイバル](https://open.spotify.com/album/2AbeJ3WRfsuNBj60drWwWi) | 4:31 |
+| 46 | [最高速度](https://open.spotify.com/track/22PDXKDnBNEejFZkWzETQE) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [最高速度](https://open.spotify.com/album/70HIn4TXNsSPybodDDMxqI) | 3:50 |
+| 47 | [twilight](https://open.spotify.com/track/4RointGDAgN9lumV9VY27q) | [Sano ibuki](https://open.spotify.com/artist/5QTiwZndpc1mObGXkDKry3) | [twilight](https://open.spotify.com/album/5UT8tarzeeubxICZb7IAuQ) | 4:06 |
+| 48 | [himawari](https://open.spotify.com/track/6EMixJeYzOGRHrrGz4EVwT) | [RKID'z](https://open.spotify.com/artist/2M4aC5IMTkKDehBolXar1B) | [HIMAWARI](https://open.spotify.com/album/7L3JLQdnE1BWXXubSZSqWZ) | 3:39 |
+| 49 | [Young Boy](https://open.spotify.com/track/0pmE2OAqk0YIoQBHUfR2Pw) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [ICON](https://open.spotify.com/album/2T9uqa1ZOZiHu2FGrbOWgR) | 3:01 |
+| 50 | [Luv Myself](https://open.spotify.com/track/4woDrq2rIKBbI6UNkzB48j) | [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs), [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb), [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL) | [Luv Myself](https://open.spotify.com/album/4sJMZSWobdfCTgwICMGU6d) | 4:28 |
 
-Snapshot ID: `MCwzZDJjZTQ2MGU1N2ZmY2VhZDRjMTdkMWZhOTA5YzQyZTkxM2RmMDIz`
+Snapshot ID: `MCw1YjAxMzFkMjkwMDZmNWY0NzRlMjE0ODJiZDQ1ZDNhZmJiOTEwZDRi`

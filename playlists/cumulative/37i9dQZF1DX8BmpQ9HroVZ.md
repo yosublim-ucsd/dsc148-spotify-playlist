@@ -2,7 +2,7 @@
 
 ### [Hot Hits Pakistan](https://open.spotify.com/playlist/37i9dQZF1DX8BmpQ9HroVZ)
 
-> The hottest tracks trending in Pakistan featuring AUR, Anuv Jain, Shubh and more\. Cover \- AUR
+> The hottest tracks trending in Pakistan featuring AUR, Anuv Jain, Shubh and more\. Cover \- Nehaal Naseem, Aashir Wajahat, NAYEL
 
 301 songs - 17 hr 37 min
 

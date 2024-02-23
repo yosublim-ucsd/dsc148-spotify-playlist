@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd1XhoKS5S57.md) - [plain]
 
 > Retour en arrière avec les meilleurs titres de l'année 2004\. Photo : Usher
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,336 likes - 60 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,343 likes - 60 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd1XhoKS5S57.md) - [plain]
 | 59 | [Sexy pour moi! \- Mix 2](https://open.spotify.com/track/5H0ZfIuXw3qEXn2E1EasWX) | [Tragédie](https://open.spotify.com/artist/6EysjvvcafloXNdLkwuGLm) | [Tragédie \(Édition Deluxe\)](https://open.spotify.com/album/3Wy1uWOyhabx91yqV18GzH) | 3:36 |
 | 60 | [Dip It Low](https://open.spotify.com/track/4L55p6txv9vuCWhpNnY6eY) | [Christina Milian](https://open.spotify.com/artist/4eAOcbAXIF4BmbN6E1QIlw) | [Dip It Low](https://open.spotify.com/album/3iJxV52syDyKSOoS6aC3cE) | 3:21 |
 
-Snapshot ID: `MCw3YjEwYjJmYTMxY2JiM2JmNjUxZjFiNjgwN2NlNGQxZTYwYjhmZGM1`
+Snapshot ID: `MCw3NGQ5NmZkZjFkZDg0M2E5ZjZiZTUzMWEwZTA3YWFmYTdjOTAyYTQ3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bpoWO7sjH5.md) - [plain]
 
 > Música navideña para celebrar el nacimiento de nuestro Salvador.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,494 likes - 120 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,491 likes - 120 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bpoWO7sjH5.md) - [plain]
 | 119 | [Noche de paz](https://open.spotify.com/track/4KECWIRk40HKi3cqPxZnq0) | [Deluz](https://open.spotify.com/artist/5fCPGe3IiKm8Id0PZazH9R) | [Noche de paz](https://open.spotify.com/album/5xYN99mczSnd6XFrb3J7ku) | 3:06 |
 | 120 | [Santa la Noche](https://open.spotify.com/track/1VSIMVn192zKDOoRKFYIan) | [Gabriela Cartulano](https://open.spotify.com/artist/0i3Bb89hqVidaYPGOD03kx) | [Santa la Noche](https://open.spotify.com/album/2Vds3tR4KKnNsotTbAd1GQ) | 3:56 |
 
-Snapshot ID: `MCxiYjAwN2NkYTAxNTFkNmJjZDFlMTIxMDc5YzQzNmY4ZDRmZmEzN2Q0`
+Snapshot ID: `MCxjN2E5M2EyM2MxYzQ4M2FmZWFhNzc3YTA1M2UwZmQ3MWNjMmY1OTFm`

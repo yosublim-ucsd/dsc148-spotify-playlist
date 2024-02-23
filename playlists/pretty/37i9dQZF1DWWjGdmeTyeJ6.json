@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels. Cover: EF\u00c9. Artwork by Isu Kim.",
-  "num_followers": 1183592,
+  "num_followers": 1183803,
   "original_name": "Fresh Finds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOTZjNTM0ZGRiNzYzYzg5MWFiOTA1ZWRlMjJkYjAyYzFlZTU4NWVj",
+  "snapshot_id": "MCxiZmU1M2M5NmU0ZDFkYzJhMzMwMWM5ZTQzNjNjYWI0ZDAwYTFjYjhk",
   "tracks": [
     {
       "added_at": "2024-02-14 15:55:40",
@@ -27,18 +27,82 @@
     {
       "added_at": "2024-02-21 16:08:04",
       "album": {
-        "name": "21 de septiembre",
-        "url": "https://open.spotify.com/album/3a1GwfJPTWJjSwh4KwxTko"
+        "name": "NYC",
+        "url": "https://open.spotify.com/album/68LQAWu2yYJ09PiPSGh4rG"
       },
       "artists": [
         {
-          "name": "Greccia",
-          "url": "https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K"
+          "name": "Las Los",
+          "url": "https://open.spotify.com/artist/3WqvmoaOxt3SeGPoEew1L1"
         }
       ],
-      "duration_ms": 127594,
-      "name": "21 de septiembre",
-      "url": "https://open.spotify.com/track/6oTDC7wBYS5pURSQEMEcBz"
+      "duration_ms": 219680,
+      "name": "NYC",
+      "url": "https://open.spotify.com/track/0BdJW0Js73JMsJFyiRhDsf"
+    },
+    {
+      "added_at": "2024-02-21 16:08:04",
+      "album": {
+        "name": "gin and wine (ginuwine)",
+        "url": "https://open.spotify.com/album/3JwhKO0Pw10XKRlgFC9PL0"
+      },
+      "artists": [
+        {
+          "name": "tg.blk",
+          "url": "https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm"
+        }
+      ],
+      "duration_ms": 129473,
+      "name": "gin and wine (ginuwine)",
+      "url": "https://open.spotify.com/track/33u4lROskD2GSckbtsjCVI"
+    },
+    {
+      "added_at": "2024-02-14 15:55:40",
+      "album": {
+        "name": "Monochrome",
+        "url": "https://open.spotify.com/album/2K6dix8Cx3UBanEylzyiM1"
+      },
+      "artists": [
+        {
+          "name": "oh caroline",
+          "url": "https://open.spotify.com/artist/3pRWI652A2fPGwFbCjtoaW"
+        }
+      ],
+      "duration_ms": 160041,
+      "name": "Second Chances",
+      "url": "https://open.spotify.com/track/5LEMdVviumJLxbRP1e53FL"
+    },
+    {
+      "added_at": "2024-02-21 18:36:54",
+      "album": {
+        "name": "I Chose to Keep Going",
+        "url": "https://open.spotify.com/album/1w66h1lj1jU89X2LXn9xVJ"
+      },
+      "artists": [
+        {
+          "name": "Shant\u00e9",
+          "url": "https://open.spotify.com/artist/01LFHYk6xpMMbpzH8Gzoju"
+        }
+      ],
+      "duration_ms": 145945,
+      "name": "How Long?",
+      "url": "https://open.spotify.com/track/0bFiS83jnXUTojsrO6p77A"
+    },
+    {
+      "added_at": "2024-02-07 15:25:55",
+      "album": {
+        "name": "Truth\u2606Truth",
+        "url": "https://open.spotify.com/album/1jntHHi1HpBdfSPuwUtmwN"
+      },
+      "artists": [
+        {
+          "name": "EF\u00c9",
+          "url": "https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C"
+        }
+      ],
+      "duration_ms": 224385,
+      "name": "Truth\u2606Truth",
+      "url": "https://open.spotify.com/track/6vfJ8MiERPMLsI0g0LQfUt"
     },
     {
       "added_at": "2024-02-21 16:08:04",
@@ -55,6 +119,22 @@
       "duration_ms": 190000,
       "name": "safe space",
       "url": "https://open.spotify.com/track/7lOsJPdQuDAVmm3ZZsvG9f"
+    },
+    {
+      "added_at": "2024-02-21 16:08:04",
+      "album": {
+        "name": "21 de septiembre",
+        "url": "https://open.spotify.com/album/3a1GwfJPTWJjSwh4KwxTko"
+      },
+      "artists": [
+        {
+          "name": "Greccia",
+          "url": "https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K"
+        }
+      ],
+      "duration_ms": 127594,
+      "name": "21 de septiembre",
+      "url": "https://open.spotify.com/track/6oTDC7wBYS5pURSQEMEcBz"
     },
     {
       "added_at": "2024-02-21 18:36:54",
@@ -83,70 +163,6 @@
     {
       "added_at": "2024-02-21 16:08:04",
       "album": {
-        "name": "gin and wine (ginuwine)",
-        "url": "https://open.spotify.com/album/3JwhKO0Pw10XKRlgFC9PL0"
-      },
-      "artists": [
-        {
-          "name": "tg.blk",
-          "url": "https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm"
-        }
-      ],
-      "duration_ms": 129473,
-      "name": "gin and wine (ginuwine)",
-      "url": "https://open.spotify.com/track/33u4lROskD2GSckbtsjCVI"
-    },
-    {
-      "added_at": "2024-02-07 15:25:55",
-      "album": {
-        "name": "Truth\u2606Truth",
-        "url": "https://open.spotify.com/album/1jntHHi1HpBdfSPuwUtmwN"
-      },
-      "artists": [
-        {
-          "name": "EF\u00c9",
-          "url": "https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C"
-        }
-      ],
-      "duration_ms": 224385,
-      "name": "Truth\u2606Truth",
-      "url": "https://open.spotify.com/track/6vfJ8MiERPMLsI0g0LQfUt"
-    },
-    {
-      "added_at": "2024-02-21 16:08:04",
-      "album": {
-        "name": "NYC",
-        "url": "https://open.spotify.com/album/68LQAWu2yYJ09PiPSGh4rG"
-      },
-      "artists": [
-        {
-          "name": "Las Los",
-          "url": "https://open.spotify.com/artist/3WqvmoaOxt3SeGPoEew1L1"
-        }
-      ],
-      "duration_ms": 219680,
-      "name": "NYC",
-      "url": "https://open.spotify.com/track/0BdJW0Js73JMsJFyiRhDsf"
-    },
-    {
-      "added_at": "2024-02-21 18:36:54",
-      "album": {
-        "name": "I Chose to Keep Going",
-        "url": "https://open.spotify.com/album/1w66h1lj1jU89X2LXn9xVJ"
-      },
-      "artists": [
-        {
-          "name": "Shant\u00e9",
-          "url": "https://open.spotify.com/artist/01LFHYk6xpMMbpzH8Gzoju"
-        }
-      ],
-      "duration_ms": 145945,
-      "name": "How Long?",
-      "url": "https://open.spotify.com/track/0bFiS83jnXUTojsrO6p77A"
-    },
-    {
-      "added_at": "2024-02-21 16:08:04",
-      "album": {
         "name": "Youniverse",
         "url": "https://open.spotify.com/album/0S5HUfsYHiWndYT4uGY4pz"
       },
@@ -159,22 +175,6 @@
       "duration_ms": 160500,
       "name": "Youniverse",
       "url": "https://open.spotify.com/track/7leBNpRPcy10AxJCG8UesN"
-    },
-    {
-      "added_at": "2024-02-21 20:29:12",
-      "album": {
-        "name": "Faster",
-        "url": "https://open.spotify.com/album/2GF8ON7y9f8dhs3aGGVHNY"
-      },
-      "artists": [
-        {
-          "name": "HUMS",
-          "url": "https://open.spotify.com/artist/5QjAqXjrOtaLmrUuT2U1CE"
-        }
-      ],
-      "duration_ms": 201036,
-      "name": "Faster",
-      "url": "https://open.spotify.com/track/32wWoepx8MRN4zf2rzIZEK"
     },
     {
       "added_at": "2024-02-21 16:08:04",
@@ -193,22 +193,6 @@
       "url": "https://open.spotify.com/track/3g3WLQLqNNLyzCY7rBZup7"
     },
     {
-      "added_at": "2024-02-14 15:55:40",
-      "album": {
-        "name": "Monochrome",
-        "url": "https://open.spotify.com/album/2K6dix8Cx3UBanEylzyiM1"
-      },
-      "artists": [
-        {
-          "name": "oh caroline",
-          "url": "https://open.spotify.com/artist/3pRWI652A2fPGwFbCjtoaW"
-        }
-      ],
-      "duration_ms": 160041,
-      "name": "Second Chances",
-      "url": "https://open.spotify.com/track/5LEMdVviumJLxbRP1e53FL"
-    },
-    {
       "added_at": "2024-02-21 18:36:54",
       "album": {
         "name": "a little love for myself",
@@ -223,6 +207,38 @@
       "duration_ms": 209280,
       "name": "a little love for myself",
       "url": "https://open.spotify.com/track/6GoTkMsiBcsrpWjII05gZS"
+    },
+    {
+      "added_at": "2024-02-21 18:36:54",
+      "album": {
+        "name": "Love's Graveyard",
+        "url": "https://open.spotify.com/album/6ZWrOlNorLPFkRtSsyvKUj"
+      },
+      "artists": [
+        {
+          "name": "Aiyana-Lee",
+          "url": "https://open.spotify.com/artist/2IZXxSIGhFtkHJyMh6UTln"
+        }
+      ],
+      "duration_ms": 185049,
+      "name": "Love's Graveyard",
+      "url": "https://open.spotify.com/track/08fxE97WEcGEgPKJFYJuqE"
+    },
+    {
+      "added_at": "2024-02-07 15:25:55",
+      "album": {
+        "name": "Jealousy",
+        "url": "https://open.spotify.com/album/5KGIf82I9zVXvZSUMXnw5c"
+      },
+      "artists": [
+        {
+          "name": "RUBII",
+          "url": "https://open.spotify.com/artist/3gN8Ihw22Vt9mnK97gbwMQ"
+        }
+      ],
+      "duration_ms": 173114,
+      "name": "Jealousy",
+      "url": "https://open.spotify.com/track/0uU6wpqMrSe8SuIAJNIje9"
     },
     {
       "added_at": "2024-02-21 16:08:04",
@@ -289,6 +305,22 @@
       "url": "https://open.spotify.com/track/1vs8g4oyFhRe2a4IvrQRH2"
     },
     {
+      "added_at": "2024-02-14 15:55:40",
+      "album": {
+        "name": "GURUNDANGA",
+        "url": "https://open.spotify.com/album/6w2Fmjyrv5Vhs6ll216FQA"
+      },
+      "artists": [
+        {
+          "name": "LA GUR\u00da",
+          "url": "https://open.spotify.com/artist/5t4bsXVxbRW0nxuCPuNuxz"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Perra Melanc\u00f3lica",
+      "url": "https://open.spotify.com/track/1oz56HcDz9gNaN659hDg3Z"
+    },
+    {
       "added_at": "2024-02-07 15:25:55",
       "album": {
         "name": "KEEPER",
@@ -303,6 +335,22 @@
       "duration_ms": 160150,
       "name": "KEEPER",
       "url": "https://open.spotify.com/track/4tOXsy4x3JFsY7NMHWLWMi"
+    },
+    {
+      "added_at": "2024-02-21 20:29:12",
+      "album": {
+        "name": "Faster",
+        "url": "https://open.spotify.com/album/2GF8ON7y9f8dhs3aGGVHNY"
+      },
+      "artists": [
+        {
+          "name": "HUMS",
+          "url": "https://open.spotify.com/artist/5QjAqXjrOtaLmrUuT2U1CE"
+        }
+      ],
+      "duration_ms": 201036,
+      "name": "Faster",
+      "url": "https://open.spotify.com/track/32wWoepx8MRN4zf2rzIZEK"
     },
     {
       "added_at": "2024-02-21 16:08:04",
@@ -393,22 +441,6 @@
       "url": "https://open.spotify.com/track/0GeIW97TvjqE2TA4P6a7gB"
     },
     {
-      "added_at": "2024-02-07 15:25:55",
-      "album": {
-        "name": "Jealousy",
-        "url": "https://open.spotify.com/album/5KGIf82I9zVXvZSUMXnw5c"
-      },
-      "artists": [
-        {
-          "name": "RUBII",
-          "url": "https://open.spotify.com/artist/3gN8Ihw22Vt9mnK97gbwMQ"
-        }
-      ],
-      "duration_ms": 173114,
-      "name": "Jealousy",
-      "url": "https://open.spotify.com/track/0uU6wpqMrSe8SuIAJNIje9"
-    },
-    {
       "added_at": "2024-02-21 20:29:12",
       "album": {
         "name": "Hold On To You",
@@ -439,22 +471,6 @@
       "duration_ms": 137000,
       "name": "Millennials",
       "url": "https://open.spotify.com/track/713gREmePzVabI2eS61689"
-    },
-    {
-      "added_at": "2024-02-21 18:36:54",
-      "album": {
-        "name": "Love's Graveyard",
-        "url": "https://open.spotify.com/album/6ZWrOlNorLPFkRtSsyvKUj"
-      },
-      "artists": [
-        {
-          "name": "Aiyana-Lee",
-          "url": "https://open.spotify.com/artist/2IZXxSIGhFtkHJyMh6UTln"
-        }
-      ],
-      "duration_ms": 185049,
-      "name": "Love's Graveyard",
-      "url": "https://open.spotify.com/track/08fxE97WEcGEgPKJFYJuqE"
     },
     {
       "added_at": "2024-02-21 16:08:04",
@@ -491,22 +507,6 @@
       "duration_ms": 198314,
       "name": "Mariposa",
       "url": "https://open.spotify.com/track/0G5KstY7RXnfBhF16xVLVJ"
-    },
-    {
-      "added_at": "2024-02-14 15:55:40",
-      "album": {
-        "name": "GURUNDANGA",
-        "url": "https://open.spotify.com/album/6w2Fmjyrv5Vhs6ll216FQA"
-      },
-      "artists": [
-        {
-          "name": "LA GUR\u00da",
-          "url": "https://open.spotify.com/artist/5t4bsXVxbRW0nxuCPuNuxz"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Perra Melanc\u00f3lica",
-      "url": "https://open.spotify.com/track/1oz56HcDz9gNaN659hDg3Z"
     },
     {
       "added_at": "2024-02-21 18:36:54",
@@ -587,26 +587,6 @@
       "duration_ms": 149525,
       "name": "Don't Go",
       "url": "https://open.spotify.com/track/2h9Pob71i8LoCnKDyPs01j"
-    },
-    {
-      "added_at": "2024-02-14 15:55:40",
-      "album": {
-        "name": "Middle Name (with Mckenna Grace)",
-        "url": "https://open.spotify.com/album/0uSJ41W8lppeei1i7b7EAv"
-      },
-      "artists": [
-        {
-          "name": "Carver Jones",
-          "url": "https://open.spotify.com/artist/2cQgX3pb2k7rgJG4rxNfid"
-        },
-        {
-          "name": "Mckenna Grace",
-          "url": "https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE"
-        }
-      ],
-      "duration_ms": 237391,
-      "name": "Middle Name (with Mckenna Grace)",
-      "url": "https://open.spotify.com/track/2DVEot2Ll81iBFwoPxiL1j"
     },
     {
       "added_at": "2024-02-21 16:08:04",
@@ -891,22 +871,6 @@
       "duration_ms": 166761,
       "name": "Kirkland",
       "url": "https://open.spotify.com/track/4OxjnvgN5wtUNALPUPIyAz"
-    },
-    {
-      "added_at": "2024-02-20 21:05:42",
-      "album": {
-        "name": "FIRST ENCOUNTER",
-        "url": "https://open.spotify.com/album/4rOqXdpoXvE1PH59Jf88be"
-      },
-      "artists": [
-        {
-          "name": "BOABOA",
-          "url": "https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o"
-        }
-      ],
-      "duration_ms": 169354,
-      "name": "Boy, Empty",
-      "url": "https://open.spotify.com/track/0SNuOUnmzWghN3oPcaduCA"
     },
     {
       "added_at": "2024-02-14 15:55:40",
@@ -1469,22 +1433,6 @@
       "url": "https://open.spotify.com/track/2mbxifzlODJWwSG5O6LMuY"
     },
     {
-      "added_at": "2024-02-14 15:55:40",
-      "album": {
-        "name": "Call Me Ms.",
-        "url": "https://open.spotify.com/album/4L8ioUOQuZriSJqOOF25Em"
-      },
-      "artists": [
-        {
-          "name": "Mio",
-          "url": "https://open.spotify.com/artist/1JfJjWsE2dwEFhcZG0zVlA"
-        }
-      ],
-      "duration_ms": 118211,
-      "name": "WYBM?",
-      "url": "https://open.spotify.com/track/0RK0cyuj7x1GN3eV9b2clu"
-    },
-    {
       "added_at": "2024-02-08 18:56:09",
       "album": {
         "name": "Eros",
@@ -1791,30 +1739,6 @@
     {
       "added_at": "2024-02-14 15:55:40",
       "album": {
-        "name": "Pxdrete :/",
-        "url": "https://open.spotify.com/album/6xTlK5RebvOu3bH9UrbBdH"
-      },
-      "artists": [
-        {
-          "name": "M\u00e9rida",
-          "url": "https://open.spotify.com/artist/40mr1p17oA1QhgK0IoJZkj"
-        },
-        {
-          "name": "D'huizar",
-          "url": "https://open.spotify.com/artist/3DCJs16lEewkE0m5Do6feJ"
-        },
-        {
-          "name": "Ferchosre",
-          "url": "https://open.spotify.com/artist/6u6yjjvGpWEXUkPN1dutoq"
-        }
-      ],
-      "duration_ms": 233803,
-      "name": "Pxdrete :/",
-      "url": "https://open.spotify.com/track/6P9m13NJ4noX54g8olnkVL"
-    },
-    {
-      "added_at": "2024-02-14 15:55:40",
-      "album": {
         "name": "Be Mine",
         "url": "https://open.spotify.com/album/4Gs6I1wzfinkwaY7lpy5ND"
       },
@@ -1827,22 +1751,6 @@
       "duration_ms": 200906,
       "name": "Be Mine",
       "url": "https://open.spotify.com/track/1ZDgWqqQU172dhoKJ2AOqw"
-    },
-    {
-      "added_at": "2024-02-14 15:55:40",
-      "album": {
-        "name": "Stay at Home",
-        "url": "https://open.spotify.com/album/5YgLsT6HRQtoxkyDax8r7w"
-      },
-      "artists": [
-        {
-          "name": "Laney Jones",
-          "url": "https://open.spotify.com/artist/7uRgKJfoqXp05a5OKhpEXS"
-        }
-      ],
-      "duration_ms": 219026,
-      "name": "Stay at Home",
-      "url": "https://open.spotify.com/track/6vlk3gFyQgB9Oy4f4FPykh"
     },
     {
       "added_at": "2024-02-14 15:55:40",
@@ -1867,22 +1775,6 @@
       "duration_ms": 195954,
       "name": "Your Body",
       "url": "https://open.spotify.com/track/7hieuAetWnTNSWctpbsRqn"
-    },
-    {
-      "added_at": "2024-02-14 15:55:40",
-      "album": {
-        "name": "porno story",
-        "url": "https://open.spotify.com/album/1u2eDAbSLeXrIiBYiHWCd3"
-      },
-      "artists": [
-        {
-          "name": "Chow Lee",
-          "url": "https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL"
-        }
-      ],
-      "duration_ms": 137061,
-      "name": "porno story!",
-      "url": "https://open.spotify.com/track/4mkc5jirrlrhIvC7geeVRK"
     },
     {
       "added_at": "2024-02-14 15:55:40",

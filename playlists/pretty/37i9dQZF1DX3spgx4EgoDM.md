@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3spgx4EgoDM.md) - [plain]
 
 > ¡El mejor condimento para tus comidas!
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,585 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,620 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3spgx4EgoDM.md) - [plain]
 | 99 | [Si Te Marchas, No Hay Manera](https://open.spotify.com/track/1Au0sqaCTdSjHdGkQdwQw8) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o), [Illapu](https://open.spotify.com/artist/6gWVXK2R7WYXTqxULGAyfx) | [En El Ojo Del Huracán](https://open.spotify.com/album/6BvsB3GWe7LlRBZyK5nBAQ) | 3:40 |
 | 100 | [Serenata cruel](https://open.spotify.com/track/2gEhAH0eZwl3b8si4l3tZ1) | [Villa Cariño](https://open.spotify.com/artist/3BBhJ4tssZm6vSQQ5xPDC1) | [La Fiesta es de Nosotros](https://open.spotify.com/album/67YStxw0rxexYKzFU6ocdT) | 4:32 |
 
-Snapshot ID: `MCw0OGZjZjYxNzE3ZjRiMjYwYzUzOTVhMzMxNmJjYWQ4MjM4NDc5N2Fm`
+Snapshot ID: `MCw3ODg1ZGNjZGM1NWFlNTc3MWFjZjU1Mjc3YmViN2RkYmYwYmE5Njhh`

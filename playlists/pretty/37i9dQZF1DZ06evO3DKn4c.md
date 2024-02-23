@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3DKn4c.md) - [plain]
 
 > This is Black Alien\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,518 likes - 41 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,525 likes - 41 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3DKn4c.md) - [plain]
 | 31 | [O Estranho Vizinho da Frente](https://open.spotify.com/track/7ymEK7S0DIlXiTLB4Fs17J) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [No Princípio Era o Verbo \- Babylon by Gus, Vol\. II](https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN) | 2:56 |
 | 32 | [Como Eu Te Quero \- Remix](https://open.spotify.com/track/028kyZPJ1bWNSDrtmj6CWM) | [Gabe](https://open.spotify.com/artist/0WoUrE9CjbROyWCMMdGMqu), [Viot](https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Como Eu Te Quero \(Remix\)](https://open.spotify.com/album/202XFQhcWaClPP1PbwDb5y) | 3:10 |
 | 33 | [Sangue de Free \- Acústico](https://open.spotify.com/track/26iz49YLrEiZhBRfMpuX0e) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Rael Convida: Black Alien \(Acústico\)](https://open.spotify.com/album/2vZQ7eD2GaHIuZYhiJOyHl) | 2:57 |
-| 34 | [Papaia](https://open.spotify.com/track/3PMXcwMCEcFx5ZmSmUFXSg) | [Hot e Oreia](https://open.spotify.com/artist/2sxBXOW6WrpuO6rXZ3kHtE), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j), [Hot](https://open.spotify.com/artist/6UiNFle7UUqz6t9x8A6i0A), [Oreia](https://open.spotify.com/artist/0473TlzNowswPtN7v5U4Pb) | [Crianças Selvagens](https://open.spotify.com/album/5KD6a45jKqFqE7HrhcfghS) | 3:55 |
+| 34 | [Papaia](https://open.spotify.com/track/3PMXcwMCEcFx5ZmSmUFXSg) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx), [Hot e Oreia](https://open.spotify.com/artist/2sxBXOW6WrpuO6rXZ3kHtE), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j), [Hot](https://open.spotify.com/artist/6UiNFle7UUqz6t9x8A6i0A), [Oreia](https://open.spotify.com/artist/0473TlzNowswPtN7v5U4Pb) | [Crianças Selvagens](https://open.spotify.com/album/5KD6a45jKqFqE7HrhcfghS) | 3:55 |
 | 35 | [Homem de Família](https://open.spotify.com/track/34CKVzQJk6T6XsKwNh2cpN) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [No Princípio Era o Verbo \- Babylon by Gus, Vol\. II](https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN) | 3:32 |
 | 36 | [Black Belt \(feat\. Black Alien & Bi Ribeiro\)](https://open.spotify.com/track/2UtZyVQIghFcIvm1MxpRd6) | [Marcelinho Da Lua](https://open.spotify.com/artist/4Yw5FcyGxFtur6gG4YWmZ6), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx), [Bi Ribeiro](https://open.spotify.com/artist/0toWNUEQ8Bcimaq6BKh7Tr) | [Insolente](https://open.spotify.com/album/7mMAxGxVUdblaH1sLrvPXB) | 3:34 |
 | 37 | [Terra \- Acústico](https://open.spotify.com/track/2raY0UodsOKaKxV9pP8d5T) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Rael Convida: Black Alien \(Acústico\)](https://open.spotify.com/album/2vZQ7eD2GaHIuZYhiJOyHl) | 4:01 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3DKn4c.md) - [plain]
 | 40 | [Mic Masters](https://open.spotify.com/track/5mVvDreTJ956BQHYBQ0b3E) | [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Ogi](https://open.spotify.com/artist/5tQCsrqxW41tECpfMWbm4j) | [Bendito](https://open.spotify.com/album/7K34wocIiDx0k9ptLTwCaC) | 4:20 |
 | 41 | [U\-Informe \(Ao Vivo\)](https://open.spotify.com/track/7hEuT00TQjRqhalX1uIOav) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Babylon by Gus Vol\. 1 \- O Ano do Macaco \(Ao Vivo\)](https://open.spotify.com/album/6N3dbZ1njWxuZSV3gQrVna) | 3:58 |
 
-Snapshot ID: `Mjg0NzUyOTAsMDAwMDAwMDBiZmM3OGMxYzE1MGZiMjY2Yzg2ODM1Mjg1ZTY0Mjg1ZA==`
+Snapshot ID: `Mjg0NzcwNzUsMDAwMDAwMDBjMjk5MDQ0YTdlMzdiMDg0ZDQ0OTBiNGZlOTUxNzhlMQ==`

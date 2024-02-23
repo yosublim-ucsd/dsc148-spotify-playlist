@@ -4,7 +4,7 @@
 
 > Les meilleurs titres du moment en version acoustique.
 
-101 songs - 5 hr 20 min
+102 songs - 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [By Your Side \(feat\. Tom Grennan\) \- Acoustic](https://open.spotify.com/track/1QMSIsTV6lcLCQ9MBHTLhT) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [By Your Side \(Acoustic\) \(feat\. Tom Grennan\)](https://open.spotify.com/album/7lYiqSYSUOeWFahBbVZYCF) | 3:11 | 2022-12-21 | 2023-05-15 |
 | [Can't Tame Her \- Acoustic](https://open.spotify.com/track/1fuD35YHKBFQTIy61hbwo4) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Can't Tame Her \(Acoustic\)](https://open.spotify.com/album/7kSvTMG6BOS7O7yHyKeGpg) | 3:30 | 2023-03-09 |  |
 | [Carry Me \- Acoustic Version](https://open.spotify.com/track/0KXhbwmPLhECjqhGkhYpic) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [ROOM 96](https://open.spotify.com/album/6MFyUXJ1YrcHvraPVirOZ1) | 3:24 | 2023-02-21 | 2023-09-27 |
+| [Ceux qu'on était \- Version acoustique](https://open.spotify.com/track/03Nu6igh7gtptMbgJrcdrk) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr) | [Ceux qu'on était](https://open.spotify.com/album/4JdvSrnVF0r39NGMm1Xree) | 3:20 | 2024-02-22 |  |
 | [Cold Heart \- Acoustic](https://open.spotify.com/track/0k6LV1ohcK2hlNPwu1nVw9) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Cold Heart \(Acoustic\)](https://open.spotify.com/album/78pahaG6oQu93YqFLVYGEv) | 3:15 | 2022-12-21 |  |
 | [Control \- Acoustic Guitar Version](https://open.spotify.com/track/7LsJd6JUzWy3SUvy33g6yQ) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Control \(Acoustic Versions\)](https://open.spotify.com/album/0GfYuFknkNUEPIbmV9rCef) | 3:51 | 2022-12-21 |  |
 | [Dancing Queen](https://open.spotify.com/track/6FIevL8p5LBywjfWZs5rlM) | [Hannah Grace](https://open.spotify.com/artist/597GQ9dmhOQoBfqmfQINKB) | [Dancing Queen](https://open.spotify.com/album/4hczd0jX66BRXeZ6Gbk6Fl) | 3:13 | 2024-01-05 |  |
@@ -55,7 +56,7 @@
 | [I Ain’t Worried \- Acoustic](https://open.spotify.com/track/29kUiQdEvB9q7joHiYZNJ3) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \- Acoustic \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/7lR2Xqpmvr2r05DQENflBG) | 2:29 | 2022-12-21 |  |
 | [I Don't Care \- Acoustic](https://open.spotify.com/track/1m84zLz4WizjR4mCDoXReg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [I Don't Care \(Acoustic\)](https://open.spotify.com/album/34hxmcDX91rZtwckrSlq1X) | 3:58 | 2022-12-21 | 2023-03-10 |
 | [I Leave Again \- Acoustic](https://open.spotify.com/track/6XnmPBOZfmvRHW1BSbwugJ) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2) | [I Leave Again](https://open.spotify.com/album/15yBff9ZnXVgnO3v6vfCw5) | 2:57 | 2022-12-21 | 2023-02-03 |
-| [I Sent My Therapist To Therapy \- Acoustic](https://open.spotify.com/track/3h0yZkd3cbDXKAR4eb1bsL) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [I Sent My Therapist To Therapy \(Acoustic\)](https://open.spotify.com/album/5Lwg53mX2B56t694xYZzuc) | 3:08 | 2024-01-05 |  |
+| [I Sent My Therapist To Therapy \- Acoustic](https://open.spotify.com/track/3h0yZkd3cbDXKAR4eb1bsL) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [I Sent My Therapist To Therapy \(Acoustic\)](https://open.spotify.com/album/5Lwg53mX2B56t694xYZzuc) | 3:08 | 2024-01-05 | 2024-02-23 |
 | [I'm Good \(Blue\) \- Acoustic](https://open.spotify.com/track/2MV9MRVSXNTIS3ny31cx9c) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\) \[Acoustic\]](https://open.spotify.com/album/4WekVlSrFGks8g7BW9xvfY) | 2:18 | 2023-01-05 |  |
 | [I'm Sorry \- Live Version](https://open.spotify.com/track/4kjlQ7qSPLHjgxJTSmJIJv) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [I'm Sorry \(Live Version\)](https://open.spotify.com/album/6XkjRKuAMUKLH22JRqUMqR) | 3:43 | 2024-01-11 |  |
 | [If We Ever Broke Up \- Acoustic](https://open.spotify.com/track/4EmQjaL9qkniq3YO1EKmCR) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [If We Ever Broke Up \(Acoustic\)](https://open.spotify.com/album/6TiPoqyrGIzXke5FLATpAj) | 2:27 | 2023-04-13 | 2024-02-16 |

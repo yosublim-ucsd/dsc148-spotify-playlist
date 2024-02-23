@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXzhlHao91lq.md) - [plain]
 
 > 以輕快又富原野氣息的民謠搭配午茶，讓耳際、齒頰一同留香，好心情開花結果。
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,398 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,414 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXzhlHao91lq.md) - [plain]
 | 74 | [Mélancolie](https://open.spotify.com/track/7sybHzhjxg2vqSVBCY4u7t) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Mélancolie](https://open.spotify.com/album/6GBos4tSuQ5btdAosIyvxA) | 2:42 |
 | 75 | [Come Back Around](https://open.spotify.com/track/7G89TqdJ9lZIv4toGuxjAr) | [Daniel Pearson](https://open.spotify.com/artist/0yll2u1E5eqktJyKri1PNm) | [Alone, Together](https://open.spotify.com/album/0rjKAJNRVVFIzCF8mYLPCZ) | 3:04 |
 
-Snapshot ID: `MCxiNWM1MTc3MjM1MTk3ZWJmNDI3ZDI0OTAyOTljZjk1MGU4NTlkNTBk`
+Snapshot ID: `MCwzMWFiY2Y4ODIxMjNkNTM3ZmFjNjIzN2Q5OTEyNmExNzBjYTg2ZDg4`

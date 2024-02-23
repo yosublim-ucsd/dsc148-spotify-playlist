@@ -1,5 +1,5 @@
 {
-  "2024-02-22": 1239133,
+  "2024-02-23": 1239817,
   "date_first_scraped": "2023-03-26",
   "description": "Kumpulan lagu yang sedang menyebar luas. Cover: HYBS",
   "name": "Lagi Viral",
@@ -3181,6 +3181,24 @@
     {
       "album": {
         "name": "Pilot",
+        "url": "https://open.spotify.com/album/2Ykep6jay9dIiAB9eJq7vo"
+      },
+      "artists": [
+        {
+          "name": "The Lantis",
+          "url": "https://open.spotify.com/artist/1REvGGP2H7cFLGZgK2sStO"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298000,
+      "name": "Lampu Merah",
+      "url": "https://open.spotify.com/track/6E7DsxwI4eOcMHLYRUDCaw"
+    },
+    {
+      "album": {
+        "name": "Pilot",
         "url": "https://open.spotify.com/album/2fm5dfglCcyJ4yVxjIP0qU"
       },
       "artists": [
@@ -3191,7 +3209,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 298000,
       "name": "Lampu Merah",
       "url": "https://open.spotify.com/track/7uwo3VQxUlRtKudAjluuTr"

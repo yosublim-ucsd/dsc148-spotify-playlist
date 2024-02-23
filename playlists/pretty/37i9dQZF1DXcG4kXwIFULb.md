@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 
 > A look back at this fruitful era comprising trip\-hop heavyweights, electronica's vanguard and everything in between.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,461 likes - 100 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,540 likes - 100 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 | 99 | [I Don't Know What I Can Save You From \- Röyksopp Remix](https://open.spotify.com/track/3DvQTKQ0ydUn5SNYzRL5wr) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7), [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [Versus](https://open.spotify.com/album/1iP2GfxXwQyeHw4CZCTBGI) | 4:12 |
 | 100 | [End of Our Days](https://open.spotify.com/track/33u4LsVXzotyxM37912gNr) | [Archive](https://open.spotify.com/artist/1Q776wzj2mrtXrNu3iH6nk) | [Restriction](https://open.spotify.com/album/4grzyr8RWop3h1MLoo74ZP) | 4:52 |
 
-Snapshot ID: `MCwzZGNlNjNjMjNmMTU3YTRjNDk2YjVlMjgwMmIyNDMxYWRkZDQ5YmVk`
+Snapshot ID: `MCxhMzQwM2Q4ZGNiYmIyY2UzNzQyZTNlOTZlNTcyYzM0MjFlNWNmZjJi`

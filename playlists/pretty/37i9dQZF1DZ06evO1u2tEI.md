@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1u2tEI.md) - [plain]
 
 > This is Elliott Smith\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,795 likes - 49 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,834 likes - 49 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,14 +48,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1u2tEI.md) - [plain]
 | 38 | [The White Lady Loves You More](https://open.spotify.com/track/6qZOS137Ow5ehV9h3jvBsu) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Elliott Smith](https://open.spotify.com/album/1nGWgkinMkmX7BlAuC4umM) | 2:24 |
 | 39 | [Pretty Mary K \(Other Version\)](https://open.spotify.com/track/5m80zPT09wNZd3MO7flmEv) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [New Moon](https://open.spotify.com/album/1BbuJWxtdCS2r6wBt1JsSN) | 3:24 |
 | 40 | [I Don't Think I'm Ever Gonna Figure It Out \- Remixed / Remastered](https://open.spotify.com/track/5aRWbpGuItECDLfjw0n1Ba) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or: Expanded Edition](https://open.spotify.com/album/0QKE0f5dMf8kc8TtlxkXtw) | 1:57 |
-| 41 | [St\. Ides Heaven \- 25th Anniversary Remaster](https://open.spotify.com/track/7zOdsysP1duel1IiG0UtWL) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Elliott Smith: Expanded 25th Anniversary Edition](https://open.spotify.com/album/4XFvmYc0AI61WsLCdAnMuT) | 3:00 |
+| 41 | [No Name \#2](https://open.spotify.com/track/3QAHvJbzjFne5mMLSEMmdV) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Roman Candle](https://open.spotify.com/album/6zbWzjBUvXvF16tg98OYck) | 3:34 |
 | 42 | [Satellite](https://open.spotify.com/track/3CIVlmcrOjfEE9RmTUnzx2) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Elliott Smith](https://open.spotify.com/album/1nGWgkinMkmX7BlAuC4umM) | 2:25 |
-| 43 | [No Name \#2](https://open.spotify.com/track/3QAHvJbzjFne5mMLSEMmdV) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Roman Candle](https://open.spotify.com/album/6zbWzjBUvXvF16tg98OYck) | 3:34 |
-| 44 | [Either/Or](https://open.spotify.com/track/2gEGEZKBFSPajolkBb3szK) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [New Moon](https://open.spotify.com/album/1BbuJWxtdCS2r6wBt1JsSN) | 2:27 |
+| 43 | [Either/Or](https://open.spotify.com/track/2gEGEZKBFSPajolkBb3szK) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [New Moon](https://open.spotify.com/album/1BbuJWxtdCS2r6wBt1JsSN) | 2:27 |
+| 44 | [St\. Ides Heaven \- 25th Anniversary Remaster](https://open.spotify.com/track/7zOdsysP1duel1IiG0UtWL) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Elliott Smith: Expanded 25th Anniversary Edition](https://open.spotify.com/album/4XFvmYc0AI61WsLCdAnMuT) | 3:00 |
 | 45 | [Because](https://open.spotify.com/track/0W78mVK0xVPpOD7oh4medH) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Figure 8 \(Deluxe Edition\)](https://open.spotify.com/album/5EUL6RGTIuVJCaCWGOedan) | 2:19 |
 | 46 | [Pretty \(Ugly Before\)](https://open.spotify.com/track/4f76iWvbHC3mgm0hLmYKEv) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [From A Basement On The Hill](https://open.spotify.com/album/4YRoxHoDrGw0LI5rxDH9Dl) | 4:45 |
 | 47 | [Kiwi Maddog 20/20 \(version 2 of 2\)](https://open.spotify.com/track/5GwXU2PDHWykajNQ2Gaj8e) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Roman Candle](https://open.spotify.com/album/6zbWzjBUvXvF16tg98OYck) | 3:40 |
 | 48 | [Thirteen](https://open.spotify.com/track/5iU2CYMavJ66Gg1XuzloLU) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [New Moon](https://open.spotify.com/album/1BbuJWxtdCS2r6wBt1JsSN) | 2:43 |
 | 49 | [King's Crossing](https://open.spotify.com/track/0pMazmJOCNRnIWe3I8COVd) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [From A Basement On The Hill](https://open.spotify.com/album/4YRoxHoDrGw0LI5rxDH9Dl) | 4:57 |
 
-Snapshot ID: `Mjg0NzUyOTAsMDAwMDAwMDA5NjljM2NmOWRhMmI4OGVhZDM0YTI5MTUwMjY4MGE4Zg==`
+Snapshot ID: `Mjg0NzcwNzUsMDAwMDAwMDAwNzk3MmQzN2E2ZDNmYWIxOWM2MGYzYWU2OGEwZDNmMA==`

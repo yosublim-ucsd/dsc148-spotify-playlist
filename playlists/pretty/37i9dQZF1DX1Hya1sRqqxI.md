@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Hya1sRqqxI.md) - [plain]
 
 > The biggest party hits of the 1970s\. Cover: The Jacksons.
 
-[Spotify](https://open.spotify.com/user/spotify) - 381,805 likes - 150 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,158 likes - 150 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Hya1sRqqxI.md) - [plain]
 | 149 | [Don't Leave Me This Way](https://open.spotify.com/track/2rBBhFXtuMoGuwYTSDpAdF) | [Thelma Houston](https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO) | [The Best Of](https://open.spotify.com/album/3npGGvmS0VJrBukG2PcgP4) | 3:37 |
 | 150 | [Instant Karma! \(We All Shine On\) \- Remastered 2010](https://open.spotify.com/track/2BkXpZSvPoUDMLI2Xw9kAL) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H), [Yoko Ono](https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ) | [Signature Box](https://open.spotify.com/album/555NIhJIQ4XoS5N7VglF0v) | 3:20 |
 
-Snapshot ID: `MCw5N2E3NGUyYTQwOTMxYzFiZmEyYzU1NDNiZGVlNzc1MGU2NTE0ZmQ0`
+Snapshot ID: `MCw0Y2YyZWY3ODYxY2Q1OGNkNTg1NTc5ODEzNDc2NjJjYTE2ZjI1M2U3`

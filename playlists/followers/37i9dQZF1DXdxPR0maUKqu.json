@@ -1,5 +1,5 @@
 {
-  "2024-02-22": 69505,
+  "2024-02-23": 69539,
   "date_first_scraped": "2023-07-30",
   "description": "\u7406\u7531\u306e\u306a\u3044\u7126\u308a\u3001\u82db\u7acb\u3061\u3002\u308f\u3051\u3082\u306a\u304f\u53eb\u3073\u305f\u304f\u306a\u308b\u3002\u601d\u6625\u671f\u3092\u904e\u3054\u3059\u5168\u3066\u306e\u30c6\u30a3\u30fc\u30f3\u306b\u8d08\u308b\u3001\u5e30\u308a\u9053\u306e\u5fdc\u63f4\u6b4c\u3002Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
   "name": "\u5915\u65b9\u30b8\u30a7\u30cd\u30ec\u30fc\u30b7\u30e7\u30f3",
@@ -222,6 +222,24 @@
     },
     {
       "album": {
+        "name": "Baka To Eiko",
+        "url": "https://open.spotify.com/album/3Hkl5UYzSMmR8jHoibVzIs"
+      },
+      "artists": [
+        {
+          "name": "peeto",
+          "url": "https://open.spotify.com/artist/2o7CvH7hLj3c3XbkFmnLXA"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245960,
+      "name": "Baka To Eiko",
+      "url": "https://open.spotify.com/track/5g1l22EmCxbIeBkbESxsPn"
+    },
+    {
+      "album": {
         "name": "Namiutsu Kokoro o Mochinagara",
         "url": "https://open.spotify.com/album/2AqgPeRgCAYar0Yh6pVedu"
       },
@@ -255,6 +273,24 @@
       "duration_ms": 229999,
       "name": "Be My Baby",
       "url": "https://open.spotify.com/track/7rTDgZStUEXS4suFRnewjl"
+    },
+    {
+      "album": {
+        "name": "Bouquet",
+        "url": "https://open.spotify.com/album/6U8sNsAGPjgAJnBlupCq7P"
+      },
+      "artists": [
+        {
+          "name": "TRACK15",
+          "url": "https://open.spotify.com/artist/2yBeBpGsS9sgRa4rlJldIT"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238860,
+      "name": "Bouquet",
+      "url": "https://open.spotify.com/track/2nmKXcHdicY328zAPkcSJB"
     },
     {
       "album": {
@@ -705,6 +741,24 @@
       "duration_ms": 249068,
       "name": "Itsuwarisetsunaina",
       "url": "https://open.spotify.com/track/6EzXmInCWy9ccCJmemvgIk"
+    },
+    {
+      "album": {
+        "name": "Jellyfish",
+        "url": "https://open.spotify.com/album/6ieIuzXf3cN3GH0Nzh7Y98"
+      },
+      "artists": [
+        {
+          "name": "Subway Daydream",
+          "url": "https://open.spotify.com/artist/4Iiidb9Wqw3kMFVEMxtEyf"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185789,
+      "name": "Jellyfish",
+      "url": "https://open.spotify.com/track/389o6ubDDpPvhNUaLl22tL"
     },
     {
       "album": {
@@ -1626,6 +1680,24 @@
     },
     {
       "album": {
+        "name": "Spring",
+        "url": "https://open.spotify.com/album/2m3VHk3Zm37UUSXSnWYVgT"
+      },
+      "artists": [
+        {
+          "name": "\u9244\u98a8\u6771\u4eac",
+          "url": "https://open.spotify.com/artist/2dcQMsKiEfgJ9t7GolC4rn"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204640,
+      "name": "Spring",
+      "url": "https://open.spotify.com/track/1hG5Uhr5SIWQHskbLmcC9U"
+    },
+    {
+      "album": {
         "name": "Spring Chance",
         "url": "https://open.spotify.com/album/3Je448Q8acg4ROISszu7il"
       },
@@ -2523,7 +2595,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 185789,
       "name": "\u30b8\u30a7\u30ea\u30fc\u30d5\u30a3\u30c3\u30b7\u30e5",
       "url": "https://open.spotify.com/track/1phE9NoCTcHApCZn6kXoQE"
@@ -2577,7 +2649,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 204640,
       "name": "\u30b9\u30d7\u30ea\u30f3\u30b0",
       "url": "https://open.spotify.com/track/45KxSOEWt1gd7U3BE5r1X0"
@@ -2873,7 +2945,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 238860,
       "name": "\u30d6\u30fc\u30b1",
       "url": "https://open.spotify.com/track/7H2QpQ7AWXuFT8cHv4u0ap"
@@ -4205,7 +4277,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 245960,
       "name": "\u99ac\u9e7f\u3068\u6804\u5149",
       "url": "https://open.spotify.com/track/6wlSeALQrFl62YIdMZ9Bcm"

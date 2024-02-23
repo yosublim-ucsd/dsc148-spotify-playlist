@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 
 > 부드럽고 고급스러운 재즈향이 가미된 힙합음악을 즐겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,358 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,364 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 | 49 | [Room Service](https://open.spotify.com/track/2T3ghpZrxmbrn9ukDmrc9W) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [ROOM SERVICE](https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0) | 2:35 |
 | 50 | [Price Tag \(feat\. Jessi, Ja Mezz\)](https://open.spotify.com/track/3bOJ2oxgtl5XikXtdGVxUv) | [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv), [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37), [Ja Mezz](https://open.spotify.com/artist/1q1Fe4tXiu1Weq4U0uhqPi) | [Summer Grooves](https://open.spotify.com/album/5I13UDFjkrH0U9btBd4Mey) | 3:41 |
 
-Snapshot ID: `MCw0NmIxNWM3MzFhODRhZDc2MTU0M2Y5YzA1YmJjYTZkYjgxYjg2Yzg2`
+Snapshot ID: `MCw3ZDE5ZTdmM2QxZjMwNzM1ODA0NTFiMDRmYWIyYzQ5MmMwZTQ0NDE1`

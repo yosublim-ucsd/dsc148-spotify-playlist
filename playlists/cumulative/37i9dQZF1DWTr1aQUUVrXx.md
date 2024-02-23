@@ -4,7 +4,7 @@
 
 > Your favourite café with that warm and cozy Jazz vibe.
 
-186 songs - 10 hr 59 min
+190 songs - 11 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,8 @@
 | [Forever Promises](https://open.spotify.com/track/4a1J9yup472zZW604BHbha) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [Forever Promises](https://open.spotify.com/album/3N6pPJE8XPhs4CtJTa2YYx) | 3:13 | 2023-03-03 |  |
 | [Forget About It, Al](https://open.spotify.com/track/53ITTs99tI13zcMBjdQpoB) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [Sally Waits](https://open.spotify.com/album/3RE35ZGRfHOijqNBtePVJz) | 2:38 | 2023-03-03 |  |
 | [Forget the Moonlight](https://open.spotify.com/track/04B0Jt1hOgu7nt6UEjtTo8) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [Tonight We Dance](https://open.spotify.com/album/4KUrd6HHTvbaJDNUVlUDFF) | 2:43 | 2023-03-03 |  |
+| [Forgetful](https://open.spotify.com/track/6zWt69VWeGEtq5hmXjxH4y) | [Old Town Trio](https://open.spotify.com/artist/4dSiNMDfIlI3qwNuAlk4dZ) | [Forgetful](https://open.spotify.com/album/5TWNQuius9yqF8qamYmojN) | 4:06 | 2024-02-23 |  |
+| [Fragile](https://open.spotify.com/track/4CzDyivmhcakKRALgJ2fxE) | [Amir Patel](https://open.spotify.com/artist/2IwMjlPYSZLq7oH4YN4WFy) | [Fragile](https://open.spotify.com/album/6KdcjyA5ICwb2SnxntwCDS) | 3:25 | 2024-02-23 |  |
 | [Gentle Rain](https://open.spotify.com/track/2EJujnITIj7jRLTM38DBwB) | [Tom Francis](https://open.spotify.com/artist/6uaneVpX351id57reqAEff) | [Gentle Rain](https://open.spotify.com/album/5fwhgGEmNF748ytdgWVmci) | 3:12 | 2024-01-12 |  |
 | [Good Night](https://open.spotify.com/track/3hWjbyHK72kyF3CXMCjoSx) | [Charlie James\-Walker](https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U) | [Good Night](https://open.spotify.com/album/0vYW9ULnZQnTCBCmOSMZKS) | 3:56 | 2023-03-03 |  |
 | [Graceful Rhapsody](https://open.spotify.com/track/3VRTgB7okjGGrRg4pTFC8r) | [Velvet Groove](https://open.spotify.com/artist/48LGJPZrYDxU9i6tKtakia) | [Graceful Rhapsody](https://open.spotify.com/album/0nSIdCAU3WMSoCuIM9Fzfm) | 2:42 | 2023-09-22 |  |
@@ -155,6 +157,7 @@
 | [Sweet Lilyanne](https://open.spotify.com/track/2DX1gWF4hjdivWePjoP81G) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [Sweet Lilyanne](https://open.spotify.com/album/1P3MpyYyLwr075pq33KiRk) | 3:13 | 2023-06-22 |  |
 | [Take My Heart](https://open.spotify.com/track/1byqPlC5Auv9pmaCJpGGqQ) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Take My Heart](https://open.spotify.com/album/3NM7Y1p5b0X1WfXSHAiPJ1) | 3:31 | 2024-01-19 |  |
 | [Tangerine](https://open.spotify.com/track/3aEzo1qHVQU5S3nsjFfx0V) | [Tribute Trio](https://open.spotify.com/artist/3PuxIr3757alJvpconHY1C) | [Tangerine](https://open.spotify.com/album/1HhnW65X0yXfoXZSWSFROL) | 2:59 | 2023-03-03 |  |
+| [Thank God It's Friday](https://open.spotify.com/track/42S2G34aFGrY68idLUPyHt) | [Mike Coen](https://open.spotify.com/artist/17USEyRv0BAOsxvM5pnsA8) | [Thank God It's Friday](https://open.spotify.com/album/5dgTygeXR5TRuDYIzm5X0T) | 3:53 | 2024-02-23 |  |
 | [That’s gotta be it](https://open.spotify.com/track/0FazSNhRZ6WLccyfjtKFZB) | [Charles Daisey & Friends](https://open.spotify.com/artist/3w2I7PA6Gx8aD6IZMBJP20) | [That’s gotta be it](https://open.spotify.com/album/3PeEeMedpzBi6ab7lCqCJG) | 3:18 | 2023-03-24 |  |
 | [The bag with cash](https://open.spotify.com/track/2UIP33RxIEfUCEFxY0gySi) | [The Holly Molly Trio](https://open.spotify.com/artist/3g3uNIc5VvWR29BUhjuVAZ) | [The bag with cash](https://open.spotify.com/album/5nGxB4RGvlB9KdI5A09fFv) | 3:32 | 2023-08-10 |  |
 | [The Flow of Your Way](https://open.spotify.com/track/4cXWKqGv91HzvKQe0r6dNJ) | [Lachlan Wright Trio](https://open.spotify.com/artist/2HaQQhL4YwnMEo6CHATOtx) | [The Flow of Your Way](https://open.spotify.com/album/2DjphKfzhL1u4YCdraGRCq) | 3:26 | 2023-03-03 |  |
@@ -164,6 +167,7 @@
 | [There Was Nothing Wrong](https://open.spotify.com/track/65C7E1ayf2iyyemUNA9DwY) | [Reuben Plays](https://open.spotify.com/artist/5RktRZOHbkKduKINbyTHNC) | [There Was Nothing Wrong](https://open.spotify.com/album/6SkYp9Iq0B5ZjlIGBUozyW) | 3:34 | 2023-10-20 |  |
 | [There Will Be Better Days](https://open.spotify.com/track/3muzfT0ljP8aBBipCCZUba) | [Midnight Trio](https://open.spotify.com/artist/6tlN3eXUM981BWTAHN27bv) | [There Will Be Better Days](https://open.spotify.com/album/5ELhztVWr2IO1958kMWLli) | 4:59 | 2023-09-22 |  |
 | [Things To Look Forward To](https://open.spotify.com/track/6pGvG8RMWD19UTLDPf5Gei) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Things To Look Forward To](https://open.spotify.com/album/6HKoV1sIgJA7qgmwiX8Joo) | 4:05 | 2023-03-03 |  |
+| [This Lullaby](https://open.spotify.com/track/0XvOa8OJrBwVXG77AMkzN6) | [Grace Carey](https://open.spotify.com/artist/6r8iQcLJAEKpFGN0FSusEd) | [This Lullaby](https://open.spotify.com/album/0qqrXJ63GT7I1PKoVVpQY4) | 2:27 | 2024-02-23 |  |
 | [Through The Years](https://open.spotify.com/track/7g5SC1jZlV5dG5czITyjWa) | [Will Rivers Trio](https://open.spotify.com/artist/3Hre5sD1zqwVLFVZIhRuDD) | [Through The Years](https://open.spotify.com/album/4fWa037ryzZJYfrxejalL0) | 3:56 | 2023-03-03 |  |
 | [Tip Your Hat](https://open.spotify.com/track/3sg1RZE32Qwy8j1T1POnBx) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [Something About Her Smile](https://open.spotify.com/album/2NzsBCHEWjKiUQbUjDfpNl) | 3:58 | 2023-03-03 |  |
 | [Too Young To Go Steady](https://open.spotify.com/track/23yV324zCQ7eARFz6qZxxt) | [Angela Rowles](https://open.spotify.com/artist/6afIMyGrPUhBUFk34MfINr) | [Too Young To Go Steady](https://open.spotify.com/album/2sba5NbOxg0eaGQGXNgjTh) | 2:26 | 2023-04-14 |  |

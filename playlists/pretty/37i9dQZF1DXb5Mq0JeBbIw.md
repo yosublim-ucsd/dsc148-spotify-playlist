@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5Mq0JeBbIw.md) - [plain]
 
 > Soft songs that gives you a gentle start of the day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,550 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,575 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5Mq0JeBbIw.md) - [plain]
 | 99 | [Heaven Knows, Right?](https://open.spotify.com/track/4XJES8gXvP1HrkAfXWa97O) | [Benjamin Gustafsson](https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl) | [Dear Earth, I’m Lost](https://open.spotify.com/album/2FivUBt8rP3epBzyDhtoqE) | 4:20 |
 | 100 | [With Or Without You \(Acoustic\)](https://open.spotify.com/track/1691RkrJC65WAaLJhJryKS) | [Landon Austin](https://open.spotify.com/artist/2WROyFfIOmKtRopsTrIL52), [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm) | [With Or Without You \(Acoustic\)](https://open.spotify.com/album/1PSL58r4ZGDdNtJ2MiXclC) | 3:26 |
 
-Snapshot ID: `MCw0MWY1YjA0MTY4YzRiMGM0ZDgzNDNjOTU0ZDc2ZDM1NDlkZDBlYWRk`
+Snapshot ID: `MCw0NjMzMGYzYjg5ZTA1YjQxZjkwMzU2YjI0OWU5MzE1YjQ1NDVkNjQw`

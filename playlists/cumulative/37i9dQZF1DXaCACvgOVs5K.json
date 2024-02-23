@@ -2204,6 +2204,32 @@
     {
       "album": {
         "name": "Levitate",
+        "url": "https://open.spotify.com/album/7DnifJAeP8n2eMj1vG89Hs"
+      },
+      "artists": [
+        {
+          "name": "Arielle Free",
+          "url": "https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d"
+        },
+        {
+          "name": "GotSome",
+          "url": "https://open.spotify.com/artist/5eALE6GKSAiBNMyqpsqoeX"
+        },
+        {
+          "name": "Icarus",
+          "url": "https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206875,
+      "name": "Levitate",
+      "url": "https://open.spotify.com/track/3pA6bEb7Y0lGeyysqDlzDm"
+    },
+    {
+      "album": {
+        "name": "Levitate",
         "url": "https://open.spotify.com/album/4Ihs3D52rXV5uNlQfsgkqh"
       },
       "artists": [
@@ -2222,7 +2248,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 206875,
       "name": "Levitate",
       "url": "https://open.spotify.com/track/3w0nFtVBa75tPHsSNZxWr6"

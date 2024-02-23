@@ -4,7 +4,7 @@
 
 > Acoustic covers of all your favourite songs.
 
-305 songs - 16 hr 37 min
+308 songs - 16 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Breathless](https://open.spotify.com/track/2p5TVHyvFkVFBcJNKHwjh4) | [WestSouth](https://open.spotify.com/artist/3WOmfcfJJjfAuUAHeiNxY0) | [Breathless](https://open.spotify.com/album/4kJIsjIBDje8BRZb6xoVMn) | 2:46 | 2023-12-15 |  |
 | [Brief and Beautiful](https://open.spotify.com/track/7MOGp0X4VUfsvlZQFpKVhY) | [Fahrenhaidt](https://open.spotify.com/artist/36YkPEVyrGPidekkTErnko) | [Memories of Tomorrow](https://open.spotify.com/album/16gAW8RYGRjjHqUfedNpHY) | 3:39 | 2022-08-26 | 2023-02-03 |
 | [Burn](https://open.spotify.com/track/3zYvxKKjKpF8swPtMC2EwL) | [Dan Berk](https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ) | [Burn](https://open.spotify.com/album/3zptlZqWpgTow8kcilYOqy) | 3:26 | 2022-08-26 |  |
+| [By Your Side](https://open.spotify.com/track/0QUUfXxit1xeCtmuF6VNrc) | [J\. Seasons](https://open.spotify.com/artist/3RSFoHIhEK1TsXXWDXQnvP) | [By Your Side](https://open.spotify.com/album/2KaUS3nSP8EgKStEa8Jeia) | 2:37 | 2024-02-23 |  |
 | [California](https://open.spotify.com/track/0x7dQOmBLZYkmlfl2rRLPP) | [Lisa Mitchell](https://open.spotify.com/artist/53f2OKMfVLTsHFkGyA5dnz) | [California](https://open.spotify.com/album/2EaRR124i84vMnjDK12XoI) | 2:47 | 2022-08-26 | 2023-09-01 |
 | [Call Me](https://open.spotify.com/track/3oWSDDSjKpLsqbszAvzOap) | [Greg Gould](https://open.spotify.com/artist/7scMWGksw0YUGUVuewfyJo) | [Call Me](https://open.spotify.com/album/6J1KXsAGwAKYKrW3PoMSPw) | 3:40 | 2022-08-26 | 2022-12-02 |
 | [Call Me Maybe](https://open.spotify.com/track/5dX20XdA69FD8D7ZXHuLnN) | [Graham Carter](https://open.spotify.com/artist/0A6NReVqiHGQlKWIpriTO3) | [Call Me Maybe](https://open.spotify.com/album/6jz6kfRiAOzpd0VMh0MPQh) | 3:08 | 2022-12-09 |  |
@@ -217,6 +218,7 @@
 | [Nutshell](https://open.spotify.com/track/4ElGaXU3jJJI5HtRpli5Tv) | [Francis Nola](https://open.spotify.com/artist/6a1RYumukMXDLES7imW2Ah) | [Nutshell](https://open.spotify.com/album/0GZduTtg1Dj4BRGTHzYlMS) | 3:05 | 2022-08-26 |  |
 | [One](https://open.spotify.com/track/1hoSHBbsZBNvv051EjQP5D) | [Castle Theater](https://open.spotify.com/artist/66DA1SaRhtBFQo4dQ8eF3e) | [One](https://open.spotify.com/album/0bSKEEtgOoaruEJ6NKvkCk) | 3:03 | 2022-08-26 | 2023-03-31 |
 | [One](https://open.spotify.com/track/1YuKlF5t0vvkMeq7GCHYZJ) | [M.I.R.K](https://open.spotify.com/artist/0XZuiuoZkCu26CRkSHKhwA) | [One](https://open.spotify.com/album/0HzIOmD8Uz36WOucuJrijn) | 2:29 | 2022-08-26 |  |
+| [Only Girl In The World](https://open.spotify.com/track/0KOLKV454e5cN98pyHGMjL) | [Norah Davis](https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G) | [Only Girl In The World](https://open.spotify.com/album/3AjamrNkp98f9m0QEDXCDG) | 3:46 | 2024-02-23 |  |
 | [OTW \- Acoustic Version](https://open.spotify.com/track/3kK2BuV20t1y7zMLSxDy6h) | [Missy & Blonde](https://open.spotify.com/artist/2XpEZIV9uuJY6pdhKAbuBh), [Julia Ross](https://open.spotify.com/artist/6fOD5mThYrqHe1cyTrKcyu) | [OTW \(Acoustic Version\)](https://open.spotify.com/album/6l6dNBkA3JjaUHbfQqidei) | 3:21 | 2022-08-26 |  |
 | [Out Of My Head And Back In My Bed](https://open.spotify.com/track/13TEQskDYFrpAtPtKVMznF) | [Eloise Freud](https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh) | [Out Of My Head And Back In My Bed](https://open.spotify.com/album/2tYlc586qfpzDq1nfh8z1M) | 3:10 | 2023-04-14 |  |
 | [Overpass Graffiti](https://open.spotify.com/track/3tob5ofeuvFKKSbOTldenC) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Overpass Graffiti](https://open.spotify.com/album/3df7YWbL6GcTWdqht33UVC) | 3:46 | 2022-08-26 |  |
@@ -311,6 +313,7 @@
 | [Wrecking Ball \- Acoustic](https://open.spotify.com/track/161JZ8ANbUaizt4sgI8j21) | [Bailey Rushlow](https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw) | [Wrecking Ball \(Acoustic\)](https://open.spotify.com/album/2nETuQ5qhW7T4gAiiptjd4) | 3:30 | 2022-08-26 | 2023-02-03 |
 | [Yellow \(Acoustic Cover\)](https://open.spotify.com/track/29eMw0pm8wTSUgnNZiA0rZ) | [Penny Sweet](https://open.spotify.com/artist/0hZthAp1iTcXizd63szbku) | [Yellow \(Acoustic Cover\)](https://open.spotify.com/album/0k9eNBzlFmHoZBHwEQxOeF) | 3:47 | 2023-04-14 |  |
 | [You Get What You Give](https://open.spotify.com/track/7BoCnys48XsoCiJwE6g491) | [Jenny Thorn](https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9) | [You Get What You Give](https://open.spotify.com/album/7eAjW0akqpFZc14QeBj4Gd) | 2:53 | 2022-08-26 | 2023-04-14 |
+| [You Raise Me Up](https://open.spotify.com/track/4mGiTmzkCS8Y1EFnQT4010) | [Shelby Park](https://open.spotify.com/artist/5k2EXCexl2KBdpfyyNEpet) | [You Raise Me Up](https://open.spotify.com/album/6lsClakGKncbzUfvydr0vd) | 2:20 | 2024-02-23 |  |
 | [You're Losing Me](https://open.spotify.com/track/5ScpcdugUeOQTbVxYCBiuy) | [Kody Ternes](https://open.spotify.com/artist/3kcZRvJW10HzHleumOMgTc) | [You're Losing Me](https://open.spotify.com/album/4jFe1w3b0ovGoiXjJ3lL7i) | 3:20 | 2024-02-02 |  |
 | [Your Song](https://open.spotify.com/track/5m8CFxNmVxgIUezNyZ3e6e) | [Blended Colours](https://open.spotify.com/artist/0hilVq0NlYegOGXan9zu6f) | [Your Song](https://open.spotify.com/album/1OaSVhsJ33mQVXQukPItlv) | 2:59 | 2023-11-24 |  |
 

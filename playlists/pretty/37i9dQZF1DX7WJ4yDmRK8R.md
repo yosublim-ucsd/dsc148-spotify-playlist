@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 
 > This is the best of ska, new and classic\. Cover: Madness
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,571 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,671 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 99 | [I Can't Wait](https://open.spotify.com/track/51vJlDmoPncY0fzzarlHW2) | [Hepcat](https://open.spotify.com/artist/79pQC5STz5lsGdkJ0NHmGp) | [Right On Time](https://open.spotify.com/album/5n7IeJHvlLtCo3HW5vgCqu) | 3:22 |
 | 100 | [Cali](https://open.spotify.com/track/75pC1KbHcJ9Wmrkdb53tGl) | [Tropidelic](https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl) | [Here in The Heights](https://open.spotify.com/album/2lGYvbR1ovYdsZKb2lTiq0) | 3:43 |
 
-Snapshot ID: `MCxhMWExYjU0YzhlYmJmMmY0ZTFiZTY2MDM4ZTcxODFlMDBjOGQ1Y2I3`
+Snapshot ID: `MCwwOWU0Y2QxOGMzODMxN2MxMTk1N2MwMzBmZTU2ZDRjMDE4ZDkyYzcx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Zeit für Schlittschuhlaufen und Schneemann bauen 🍪⛸️☃️
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,814 likes - 48 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,798 likes - 48 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 47 | [Kannst du die Lichter sehen \(feat\. Detlev Jöcker, Sarah Schiffer & Kinderlieder Gang\)](https://open.spotify.com/track/2daU8eguAJf1hTrCkZrSja) | [Der singende Bauernhof](https://open.spotify.com/artist/1phaLooaZs3k7XOl7mCKeo), [Detlev Jöcker](https://open.spotify.com/artist/4UiTe5uwHKDUddmV8yQeY4), [Sarah Schiffer](https://open.spotify.com/artist/3Lc3iBAHvaR0LVKVF881oP), [Kinderlieder Gang](https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E) | [Willkommen auf dem singenden Bauernhof](https://open.spotify.com/album/7GG2q94m8WC2EHoQVo84dD) | 2:32 |
 | 48 | [Plätzchenduft liegt in der Luft](https://open.spotify.com/track/5MkqWrSiNmnXQsLsaI1VaB) | [Familie Sonntag](https://open.spotify.com/artist/34rlWZv8uNVp6YbXJyHLoR) | [Unsere schönsten Weihnachtslieder](https://open.spotify.com/album/1Bs8R1MlRykYywXeH0dEvJ) | 2:56 |
 
-Snapshot ID: `MCwzNTA5NTVkZWRmM2E0ZWJmNTJjY2IxYmRmMTZmZDNlNTQxY2I0MTNh`
+Snapshot ID: `MCw2NjlhNjY3MmExMDI1ZTVhNWRhOGI4YzU0YWI1NmJlM2ViZWQ3Mzlh`

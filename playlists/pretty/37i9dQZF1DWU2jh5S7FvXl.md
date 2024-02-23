@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2jh5S7FvXl.md) - [plain]
 
 > Just try not to move to this mix of recent hits\. Cover: Kx5
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,783 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,780 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2jh5S7FvXl.md) - [plain]
 | 99 | [Maria Maria](https://open.spotify.com/track/4wP6mzWZC94dYmU6OYeljf) | [TECH IT DEEP](https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw) | [Maria Maria](https://open.spotify.com/album/4VMuvqjQv3yvtFdlLs9Mnd) | 2:41 |
 | 100 | [Hero](https://open.spotify.com/track/1rBTBbtkJlSDk78gg8Dw9F) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Hero](https://open.spotify.com/album/5jbvicaA8IhNJxOyr4iXtt) | 2:55 |
 
-Snapshot ID: `MCw5NzVkYzVkODcwNTY0ZGFhOGY4Mjk4ZWM3NTE2ZDVkNDAxMGQ3NTIy`
+Snapshot ID: `MCw2YWFiNmI4ZjdiMTU3NDkyMzkzMzFiNTJjN2MxNmYwMWFhMGZmOWJh`

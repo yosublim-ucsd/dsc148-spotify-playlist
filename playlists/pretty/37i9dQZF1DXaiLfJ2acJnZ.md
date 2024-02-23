@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 
 > Lovely, pop\-filled, fun.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,295 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,046 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 | 79 | [Nothing Lasts Forever](https://open.spotify.com/track/6IzTSuvoY6w3QAhCfN1Sgb) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Nothing Lasts Forever](https://open.spotify.com/album/0eeLFV76Mnl91MEXf893YQ) | 2:47 |
 | 80 | [More to me](https://open.spotify.com/track/0J1qkBgPKmgAY3M3BPe1QR) | [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [More to me](https://open.spotify.com/album/5feSG8uVsqlDWrMrzIrInL) | 2:15 |
 
-Snapshot ID: `MCw4YzdmNmJkZmJhNGEyNGU1YTE2ZDc0M2Q4MWJiOWUxOWY3ZjRjMjM1`
+Snapshot ID: `MCxlM2U4ZGU1OWU5MTI1OWRmNzY4MTU3NWI1ZGY4MzFkNGZhZmYxNDBk`

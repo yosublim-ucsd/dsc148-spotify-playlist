@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 
 > Bądź sobą ✨ Posłuchaj głosu polskich artystów LGBTQIA+\. Cover: <a href="spotify:artist:0e06gUDSCntc3X6v8mL6kk">Kamil Kowalski</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,265 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,267 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 | 99 | [JOY](https://open.spotify.com/track/0UuGEWNj6aiWTtCujOGozw) | [Yanch](https://open.spotify.com/artist/0cB5gHRy82zYYouDMeckVZ) | [JOY](https://open.spotify.com/album/4rYwfcRtfdG95A0kBVH9Oj) | 5:59 |
 | 100 | [Super](https://open.spotify.com/track/3TZlCnbC6q8JGH3TCCjBKB) | [Vipera](https://open.spotify.com/artist/4vCaa5Di1yZpfsdowt4l48) | [Remedium](https://open.spotify.com/album/72fMYKTiaytD7nrFykKlDS) | 3:20 |
 
-Snapshot ID: `MCw0NjE3MWVmZjhlZTQzODg4MjE3ZGVmM2I4ZjRiNzFkNGI3NjcyOGIz`
+Snapshot ID: `MCwxMjRjODJmYzQ4M2RjZDM2ZGZkNzU4MmRlODAxYjNlYzMyMjU4NTk3`

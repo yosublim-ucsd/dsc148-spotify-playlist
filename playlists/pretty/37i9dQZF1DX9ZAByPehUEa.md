@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 
 > A happy place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,394 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,452 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 | 74 | [Tension \(Chromeo Remix\)](https://open.spotify.com/track/1FvLE1PSYgWy9t98gHyoz8) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Tension \(The Remixes\)](https://open.spotify.com/album/6OCoaXc7qY2Y39b8FMTEb9) | 4:06 |
 | 75 | [I’m Just Ken \- Purple Disco Machine Remix](https://open.spotify.com/track/5bIELpyrphj886yjo2Rdjg) | [Ryan Gosling](https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue), [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [I’m Just Ken \(Purple Disco Machine Remix\)](https://open.spotify.com/album/5XaVlDEMaatZMwYjatvPpy) | 2:55 |
 
-Snapshot ID: `MCxkOGMzYWMwMTM3ZTMyMzgwZmNhZjI2NzE5NWNhNDE3OGY3NGEyNjYw`
+Snapshot ID: `MCxiZjY1ZjY0YzRhZWFhZDJkY2E5NDkxNGMwNThjY2YyNTdjNTIwZDUx`

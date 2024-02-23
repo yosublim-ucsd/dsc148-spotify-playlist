@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QC1DnNqj3m.md) - [plain]
 
 > Bask in the sound of soul, old and new.
 
-[Spotify](https://open.spotify.com/user/spotify) - 528,343 likes - 80 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 528,334 likes - 80 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QC1DnNqj3m.md) - [plain]
 | 79 | [Don't Think You Ever Loved Me](https://open.spotify.com/track/3fMDMQEcEFW4LV7P6oay3b) | [Tyrese](https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ) | [Don't Think You Ever Loved Me](https://open.spotify.com/album/7LFx0rToSRheeuvNMdjovz) | 6:36 |
 | 80 | [Outside](https://open.spotify.com/track/7HUWDK8W290h5FD9G5t3eH) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Outside](https://open.spotify.com/album/48GGRBVO34uMUTyCII8ZpY) | 3:25 |
 
-Snapshot ID: `MCw5NjhhZjRjNDFjYWZmZjllYmU5MDVkYjE2N2MyOWFjNTU3MDZkM2Q0`
+Snapshot ID: `MCxkYTgyZWY1ZWI0NmE1M2MyY2U4ODYwNTIzOGY5YjUyNDMzNzdiMmI5`

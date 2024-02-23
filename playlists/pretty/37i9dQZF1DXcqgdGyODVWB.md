@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcqgdGyODVWB.md) - [plain]
 
 > Cumbia Norteña y Norteño Sax para las vibras de verano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,359 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,399 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcqgdGyODVWB.md) - [plain]
 | 99 | [Fuiste Mala](https://open.spotify.com/track/3L4Uma47VZ9pxoRJ5A4P3o) | [Predilecto](https://open.spotify.com/artist/73hTO2mEmqyYZYvvotylqb) | [Fuiste Mala](https://open.spotify.com/album/3ME3ProACErxI1b0Inwfbw) | 3:24 |
 | 100 | [Muñeca De Ojos De Miel](https://open.spotify.com/track/5PbP28y4J2HUkvNkoiGA8z) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG), [Conjunto Rio Grande](https://open.spotify.com/artist/2Ro0uSqcQMG6L3ZRyoDEsG) | [Muñeca De Ojos De Miel](https://open.spotify.com/album/5CEZXFpY36cBoaWd37LYhn) | 3:43 |
 
-Snapshot ID: `MCw3NWE3N2E5YzUxYzRhNzhiNzFhODU1YzkxNGUyMTA5MDdkZGM1ZDcz`
+Snapshot ID: `MCxiMjIzYzA5MWIzZjg0NzdhMWI1M2YzNjcwOWI5ZGVmMGI2NWU2ZmQ3`

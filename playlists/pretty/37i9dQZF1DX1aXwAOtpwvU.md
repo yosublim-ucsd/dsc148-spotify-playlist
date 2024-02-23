@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 
 > Odkryj swojego nowego ulubionego artystę\. Cover: <a href="spotify:artist:5ic8bWWvZHWf0dDBi9ThNk">bambi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,533 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,535 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 | 59 | [Egoistka](https://open.spotify.com/track/5qVME9yp5IFWYfK2n3irxL) | [Julia Pośnik](https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX) | [Egoistka](https://open.spotify.com/album/0Liumm2scg9ecS9Gqnva96) | 2:48 |
 | 60 | [Oceany](https://open.spotify.com/track/30UVmRMUluX69S9OwuCdsv) | [P\. Tropez](https://open.spotify.com/artist/73WmoKfPsHU8sSCoRx2v2J) | [Oceany](https://open.spotify.com/album/0KEVljxnak0oVwBpKaNODK) | 3:10 |
 
-Snapshot ID: `MCw4ZTVmODFhZmEyODVlNWI1ZDkzZjk4ODllYWU3NTA3NGVhNmQxMmQ0`
+Snapshot ID: `MCwwMGU0MTNlNjZhNTk1ODA0NzljMjBkN2YwOTQ0NmRhYjdmM2QzYTky`

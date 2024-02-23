@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 
 > The decade when New Traditional artists like George Strait, Reba McEntire, and Randy Travis dominated the Country scene\. Cover: The Judds
 
-[Spotify](https://open.spotify.com/user/spotify) - 607,906 likes - 150 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 608,082 likes - 150 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 | 149 | [We Believe In Happy Endings \(with Emmylou Harris\)](https://open.spotify.com/track/7sEmUltyPUy9v2Of7Whzpy) | [Earl Thomas Conley](https://open.spotify.com/artist/69baNgo5tsg1RjBgotRbEj), [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [The Heart of It All](https://open.spotify.com/album/5sgaAKTYixY72uzVOKHlJG) | 3:35 |
 | 150 | [Crackers \- Single Version](https://open.spotify.com/track/3VSkgyqT0jkV68t5QCX8iQ) | [Barbara Mandrell](https://open.spotify.com/artist/67BqBdApdbZ0onglFqRoTg) | [Love Is Fair](https://open.spotify.com/album/6sVMfY88I8a7xkmSaXCruy) | 2:34 |
 
-Snapshot ID: `MCw5NjJhNDI5NjhjZWFiNzZkOTgxMDE4OWE4MDEyZmY2MzQyNWQyMjlm`
+Snapshot ID: `MCw5MTA4ODI1Y2I2NTM1MzUxZjk0NzA5M2ZmNmI5YWI3ODZjNDQ5ZmZl`

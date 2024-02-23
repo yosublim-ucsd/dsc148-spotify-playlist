@@ -2,9 +2,9 @@
 
 ### [NairoBae](https://open.spotify.com/playlist/37i9dQZF1DX0JohQO7Ys7N)
 
-> Kickback, Relax to some smooth R&B from The City Under The Sun \- Nairobi\. Cover: Ethan
+> Kickback, Relax to some smooth R&B from The City Under The Sun \- Nairobi\. Cover: Caleb Awiti
 
-160 songs - 8 hr 59 min
+163 songs - 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Go](https://open.spotify.com/track/1bHbElmOOzqRNui7Ocq4Vp) | [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ), [Chemutai Sage](https://open.spotify.com/artist/2mP0v7i6JeL8yXPfey97lx) | [Go](https://open.spotify.com/album/0YT2PJ2AbXqRbz4Oj3ew0Z) | 2:59 | 2023-01-26 |  |
 | [Haba Na Haba](https://open.spotify.com/track/7iB7aG563XdqyqGLpb1BYj) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520), [Effji](https://open.spotify.com/artist/7Ct2oQCP2BEMpMBqk2lRJK) | [Colours](https://open.spotify.com/album/3clJXsKbeadJqCZoURhp5R) | 2:59 | 2022-07-22 |  |
 | [Hardest Thing](https://open.spotify.com/track/3VhO6BOBUVXj7kf7dFJEkA) | [WAMUYU](https://open.spotify.com/artist/5bzxOcTF1zHbuPm0hhgq03) | [Songa](https://open.spotify.com/album/2W1aQvUtiMpWTkqV48dcIl) | 3:33 | 2023-10-26 |  |
-| [Hello Sadness](https://open.spotify.com/track/7vmwfBkvRtJ6ncov0ClTpp) | [Hook](https://open.spotify.com/artist/0d2cvrJfsN0fBd6WuwwlDQ), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Steph Kapela](https://open.spotify.com/artist/6wLnCeHouyPLFHjolO1Igl), [Sim Citizen](https://open.spotify.com/artist/6yrGrT2cOZ3R2oZqNQozsu) | [Hello Sadness](https://open.spotify.com/album/7JxP2gswniXKC54kESMAX8) | 4:01 | 2023-04-06 |  |
+| [Hello Sadness](https://open.spotify.com/track/7vmwfBkvRtJ6ncov0ClTpp) | [Hook](https://open.spotify.com/artist/0d2cvrJfsN0fBd6WuwwlDQ), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Steph Kapela](https://open.spotify.com/artist/6wLnCeHouyPLFHjolO1Igl), [Sim Citizen](https://open.spotify.com/artist/6yrGrT2cOZ3R2oZqNQozsu) | [Hello Sadness](https://open.spotify.com/album/7JxP2gswniXKC54kESMAX8) | 4:01 | 2023-04-06 | 2024-02-23 |
 | [Hit Me Up](https://open.spotify.com/track/09XIfMbZ7hLoa1Ae4R0mdg) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Hit Me Up](https://open.spotify.com/album/69jV1c5wIirVWVyaZpiLuj) | 3:42 | 2021-12-28 | 2022-05-20 |
 | [Hivyo](https://open.spotify.com/track/7I0gVer3b94T9aoRSRqGEw) | [Ethan](https://open.spotify.com/artist/16VZMbA7y5gwrxNG0q3wC1) | [Hivyo](https://open.spotify.com/album/0DDhl9xlbotJWZ7yihik6B) | 3:18 | 2023-03-23 | 2024-01-27 |
 | [Home](https://open.spotify.com/track/10xrx94SPkwD7Kf3ynXCED) | [Amara Tari](https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd), [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520) | [Home](https://open.spotify.com/album/2Xt2Uq1c96N7rRKfmWQPNW) | 4:12 | 2022-06-10 | 2024-02-16 |
@@ -122,13 +122,16 @@
 | [Problems](https://open.spotify.com/track/13Vo9Bfa1mdR7p3tZk3ues) | [Matt Ngesa](https://open.spotify.com/artist/38jStfZwiNvdn1PKt9ma35) | [Problems](https://open.spotify.com/album/6nuNAmZvBNuOMHdHCHKWNs) | 4:09 | 2021-12-28 | 2024-01-12 |
 | [project \- A COLORS SHOW](https://open.spotify.com/track/0ZgroOYQAUzfcQYS6wibf9) | [Zowie Kengocha](https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci) | [project \- A COLORS SHOW](https://open.spotify.com/album/5tHWyhdLYInrDivcSPWpnC) | 3:28 | 2023-11-24 |  |
 | [Pulling Out](https://open.spotify.com/track/2Xqi7yZeFfcSIVwU1c5slN) | [Amara Tari](https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd) | [Pulling Out](https://open.spotify.com/album/50rwp4OLO5TL7QcRQ23Rji) | 3:12 | 2021-12-28 | 2022-10-01 |
-| [Relieve Pressure](https://open.spotify.com/track/6j0KqhTRDYjJVqy6q80PvR) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN), [Maali](https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk) | [Relieve Pressure](https://open.spotify.com/album/6ePMowPW0VwXDvMNZsfniV) | 3:19 | 2023-08-17 |  |
+| [REASON](https://open.spotify.com/track/1481IQC8BjqGLTer67cWbC) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Hook](https://open.spotify.com/artist/0d2cvrJfsN0fBd6WuwwlDQ), [GR!](https://open.spotify.com/artist/3OLtlWxh8Ht9pL5ke6gFkd) | [REASON](https://open.spotify.com/album/3HsFIS5mJMqpisQXuwL0BN) | 3:41 | 2024-02-22 |  |
+| [Relieve Pressure](https://open.spotify.com/track/6j0KqhTRDYjJVqy6q80PvR) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN), [Maali](https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk) | [Relieve Pressure](https://open.spotify.com/album/6ePMowPW0VwXDvMNZsfniV) | 3:19 | 2023-08-17 | 2024-02-23 |
 | [Rosella](https://open.spotify.com/track/0X5xHB8t99D6jv5ES4BUqH) | [H\_art the Band](https://open.spotify.com/artist/0m6SCIzf7kP9iylizWmIp1), [Lady Jaydee](https://open.spotify.com/artist/0ZKCb65YNJBoBaC3gMTijS) | [Rosella](https://open.spotify.com/album/328oKDyLr5OBnbdA97KLeb) | 5:04 | 2021-12-28 | 2022-03-04 |
 | [Save Me](https://open.spotify.com/track/0lZxPIkeXHFYsMousts9TZ) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [The Other Side](https://open.spotify.com/album/7M0ZgZyJUYIG6RCHud7Xa6) | 3:21 | 2022-11-10 |  |
 | [Saviour](https://open.spotify.com/track/5NaYtbE1183SMAa57dDH8w) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Iyanah](https://open.spotify.com/artist/6dRAXLNCcsl6P2mgIu6WhO) | [Saviour](https://open.spotify.com/album/1g4JkRkSgMy2DwaO2Kb7aJ) | 2:25 | 2022-05-19 | 2023-01-13 |
+| [SBLTLA](https://open.spotify.com/track/4U4XZWxsMKtcd6lOVSZT1z) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [SBLTLA](https://open.spotify.com/album/6ZmoFJLKAUoNKzuxyQa8Xb) | 1:59 | 2024-02-22 |  |
 | [Secret Love](https://open.spotify.com/track/0GtSe2T7ddleLyYRrDQwSF) | [Njoki Karu](https://open.spotify.com/artist/0pGewSIX8FwwBqZLsbDk7F) | [Secret Love](https://open.spotify.com/album/6JwMBgQOEwAhZD6MbH26Bp) | 3:48 | 2021-12-28 | 2022-07-30 |
 | [Secret Lover](https://open.spotify.com/track/5wTCpN911fjwZYhnCYzX7k) | [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ), [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Secret Lover](https://open.spotify.com/album/0aZpLxujAEhkWnYT9yeZe1) | 2:51 | 2023-07-13 |  |
 | [Shea Butter Baby](https://open.spotify.com/track/2QzHJns0EJD4nCQ1AevgwL) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [Shea Butter Baby](https://open.spotify.com/album/2pOcq4SAJfA8B7eXPwseIt) | 2:33 | 2022-04-28 | 2022-09-23 |
+| [Shelter](https://open.spotify.com/track/4dLW9YgtBGCquFb0gs6HdR) | [Maali](https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk) | [Shelter](https://open.spotify.com/album/0VMCN0GaByNplAXw9lOLFW) | 3:06 | 2024-02-22 |  |
 | [Sio Siri](https://open.spotify.com/track/5oKoPTkNST0DFa6CYOrCS6) | [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn) | [Sio Siri](https://open.spotify.com/album/1XkXWsoUaTSbYFtKjDOR54) | 3:08 | 2021-12-28 | 2023-12-01 |
 | [Skin](https://open.spotify.com/track/1j6AwoqDeTLmfvBeY281CN) | [Zowie Kengocha](https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci) | [You Never Learn](https://open.spotify.com/album/53p5igeY5gYg2TDXVKDeVd) | 3:39 | 2023-09-21 |  |
 | [Slow Down](https://open.spotify.com/track/0hrXbMtT7Wb8vlRLpRxBZ8) | [Emma Cheruto](https://open.spotify.com/artist/3vIVa24HAi5YMEWiyW4ve3), [Mutoriah](https://open.spotify.com/artist/23fYD3tClohzF1Afng7tPJ) | [Slow Down](https://open.spotify.com/album/4juUxcfkxdA6ry2dKBRMYz) | 3:17 | 2021-12-28 | 2022-06-11 |

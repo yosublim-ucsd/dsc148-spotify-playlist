@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9pVDnNPGPE.md) - [plain]
 
 > 따뜻한 햇살과 가벼운 발걸음\. 행복한 음악들과 기분 좋은 산책 & 피크닉을 즐겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,817 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,826 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9pVDnNPGPE.md) - [plain]
 | 49 | [Happiness](https://open.spotify.com/track/4N9NAR5gze1VdTCY9xOUwc) | [J Rabbit](https://open.spotify.com/artist/4Imsd61cGosmAFBaMLtl4G) | [The Interest of Love \(Original Television Soundtrack, Pt.1\)](https://open.spotify.com/album/2LEJvE8JDCf8ttruz5sFLm) | 3:24 |
 | 50 | [Let's Love](https://open.spotify.com/track/6h5ORMFWElwmVjCYWxZosK) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB), [KIM YO HAN](https://open.spotify.com/artist/49p6UP6XmVrB73XB2CSOVD) | [Let's Love](https://open.spotify.com/album/1brl58xXMDKWcCEbSECZ5P) | 3:40 |
 
-Snapshot ID: `MCw4Mzg2ZDY4NjExNmIyNDFkNTBkODkzNjZlZjliMTY3OTQwMjk5ZmIx`
+Snapshot ID: `MCwzNmM5ZDc4NmYxOTA3Y2I4OTQ1N2YzNDA0YWEyZDc5YWI2MzY4OTIy`

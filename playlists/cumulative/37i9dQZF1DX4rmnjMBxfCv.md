@@ -4,7 +4,7 @@
 
 > The best dance and electronic songs in the MENA region\. Cover: Zerb, Sofiya Nzau
 
-197 songs - 13 hr 7 min
+198 songs - 13 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Chromosome \- Edit](https://open.spotify.com/track/2QTO7F2Xr7cfAupY2ucqAp) | [Dish Dash](https://open.spotify.com/artist/2C0q6kKsOqXe490AYXubeA) | [Chromosome](https://open.spotify.com/album/4Nfdi4im1O5Hye98NO3DTZ) | 3:17 | 2023-06-23 | 2023-07-12 |
 | [DABA](https://open.spotify.com/track/4oMowo1TLJr06oACFD3h7K) | [Kawtar Sadik](https://open.spotify.com/artist/76hWhGu3o57UxXrt5BLljb), [Rabab Najid](https://open.spotify.com/artist/65v8WqbomHyZ6St35xgg10), [Hamada Hammy](https://open.spotify.com/artist/3ynNwCnPhBjoUFpNe3zoXl), [El Mahmoud](https://open.spotify.com/artist/2kD42CAOYhdohJB6kbHRKB), [Karim Hasnaoui](https://open.spotify.com/artist/54cF2GtCfm7LrMfzLurLEx) | [DABA](https://open.spotify.com/album/6u6sRHXmetSsvVKFDySVpM) | 8:33 | 2023-07-03 |  |
 | [Dana Dana \- Radio Edit](https://open.spotify.com/track/2CE7yTFslLMkI0Oqf1vq9u) | [Kimotion](https://open.spotify.com/artist/6X4zocbF8W6mPR9UFIvQ3z) | [Dana Dana \(Extended Mix\)](https://open.spotify.com/album/2jM8xYKKAjTwpnnkjTHIZE) | 3:12 | 2024-01-09 | 2024-01-27 |
+| [Dernière danse \- Techno Mix](https://open.spotify.com/track/5fIZ683j2xPeLAXfHeWKEG) | [Indila](https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB), [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Dernière danse \(Techno Mix\)](https://open.spotify.com/album/3MhGOga5TlR7JfKxDSxv9Q) | 3:17 | 2024-02-22 |  |
 | [Dum Tak \(feat\. NASIR\)](https://open.spotify.com/track/524qzN14VG2CCqVgDIiwNA) | [Dana Salah](https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ), [NASIR](https://open.spotify.com/artist/6lNVdJnv3L8A8BsYnfaTD4) | [Dum Tak \(feat\. NASIR\)](https://open.spotify.com/album/12pFrjNH8z7zdZJopRksgy) | 2:36 | 2022-08-01 | 2023-06-24 |
 | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/album/6UC9oEbksP0m0Sfl1sgVEQ) | 3:17 | 2023-06-23 | 2023-08-17 |
 | [El Dunia Helwa](https://open.spotify.com/track/5mVB0eKgO2b6W8JNEKd8si) | [Mohab Sammy](https://open.spotify.com/artist/223p44YDBTVmvgi2NeHC5j), [Sara Said](https://open.spotify.com/artist/5qgwGFlPCxO4jCEKID6SIE) | [El Dunia Helwa](https://open.spotify.com/album/4DE07uisXHQ7416FuSEAUw) | 4:54 | 2022-10-14 | 2023-02-02 |
@@ -159,7 +160,7 @@
 | [Sahra On The Moon](https://open.spotify.com/track/3ZjURSv9XIXmIJYbhhntFr) | [Djamil](https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA), [Feras Naddaf](https://open.spotify.com/artist/1DXyrlrEPGitPShvpLJd2b) | [Sahra On The Moon](https://open.spotify.com/album/14KzkAjFLB8uX6aPndfbg7) | 2:39 | 2023-03-01 | 2023-06-24 |
 | [Sakaratou Achiqin](https://open.spotify.com/track/35F8IkWdNjmWyDYWWMeVRb) | [Recham](https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP), [Mawal Lotfi](https://open.spotify.com/artist/63MKSrXghwm3Mbu2eVtUda) | [Sakaratou Achiqin](https://open.spotify.com/album/0IuWzM5c3lVePBhnVA4Xuh) | 2:19 | 2023-08-16 |  |
 | [See You Again](https://open.spotify.com/track/1wYTR3Hg5rBQcdfxGEdsx0) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [See You Again](https://open.spotify.com/album/5YD0kqXIXIg5GqSHiX7pJ4) | 2:43 | 2023-06-23 | 2023-08-17 |
-| [Seret El Hob Remix](https://open.spotify.com/track/2nLsfcz1xMPpRVQbEICa0a) | [Aly Fathalla](https://open.spotify.com/artist/1U9pDbOQmuQ1vHzAF2Bmxp) | [Seret El Hob Remix](https://open.spotify.com/album/6ac2W6mJALSa62m9Rjf8WQ) | 4:06 | 2022-12-21 |  |
+| [Seret El Hob Remix](https://open.spotify.com/track/2nLsfcz1xMPpRVQbEICa0a) | [Aly Fathalla](https://open.spotify.com/artist/1U9pDbOQmuQ1vHzAF2Bmxp) | [Seret El Hob Remix](https://open.spotify.com/album/6ac2W6mJALSa62m9Rjf8WQ) | 4:06 | 2022-12-21 | 2024-02-23 |
 | [Shakshaka](https://open.spotify.com/track/2RGuapH4pwoOSIIdpPS5Ey) | [Cosmicat](https://open.spotify.com/artist/34iHrE61AX1yx8uAqNOCyU) | [Shakshaka](https://open.spotify.com/album/71GUT29ISc2e0qyokN06TX) | 3:26 | 2023-12-07 |  |
 | [Shoft Alhala \- Radio Edit](https://open.spotify.com/track/6nlJi5I96yMdToZZ7vfKdf) | [Vinyl Mode](https://open.spotify.com/artist/5Hk1jxKs1Qxg8uQY3SrAAv), [Moayad](https://open.spotify.com/artist/6DutMGme3677e88ZM0THXu) | [Shoft Alhala](https://open.spotify.com/album/2h0QwgH6vNBvECQEmTxeH8) | 3:46 | 2022-11-22 | 2023-02-02 |
 | [Silent](https://open.spotify.com/track/2kHThfsaP12zxe136zAkmU) | [Recham](https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP) | [Silent](https://open.spotify.com/album/5MLe08ARj0m3I2cIOADFPR) | 2:52 | 2022-03-30 | 2022-11-26 |

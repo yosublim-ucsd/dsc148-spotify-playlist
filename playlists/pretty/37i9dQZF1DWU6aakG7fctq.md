@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 
 > Fresh Latin Indie\. Cover: Danny Schiller & Ambar Lucid
 
-[Spotify](https://open.spotify.com/user/spotify) - 493,729 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 493,736 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 | 99 | [Cuatro Paredes](https://open.spotify.com/track/2MrSJk7Bm6GCmE5WfwOGOr) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [Cuatro Paredes](https://open.spotify.com/album/4H09USw50ogQNzcpEu5cck) | 3:40 |
 | 100 | [Dama](https://open.spotify.com/track/0Tmi4OKz5CTFnWNjeR2j1G) | [Los Wálters](https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY) | [Dama](https://open.spotify.com/album/5YsBGBAtUA1GsQqaVXyyru) | 3:46 |
 
-Snapshot ID: `MCwxMmVlNDM1MjNhNjg0NDkwZDk0MzBiY2RjNDEyMzY2MmI2MTFmMTg0`
+Snapshot ID: `MCwyMGQ0OGI1YTNjMmJkY2YwOTZjY2NiMDI5M2E4ZTJmOWNjOGY2YTA2`

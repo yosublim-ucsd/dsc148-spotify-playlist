@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "2023 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01\u53f0\u7063\u51fa\u767c\uff0c \u5c55\u671b\u4e16\u754c\uff0c\u4ed6\u5011\u5c31\u662f\u672a\u4f86\u7684\u5de8\u661f\uff01Cover: KIRE",
+  "description": "2023 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01\u53f0\u7063\u51fa\u767c\uff0c \u5c55\u671b\u4e16\u754c\uff0c\u4ed6\u5011\u5c31\u662f\u672a\u4f86\u7684\u5de8\u661f\uff01Cover: \u738bADEN",
   "name": "RADAR \u65b0\u52e2\u529b",
   "tracks": [
     {
@@ -174,7 +174,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-03",
+      "date_removed": null,
       "duration_ms": 149727,
       "name": "Baby Blue",
       "url": "https://open.spotify.com/track/7nCHYzmZMV178mQBzdDCRD"
@@ -232,6 +232,24 @@
       "duration_ms": 210000,
       "name": "Black Panther",
       "url": "https://open.spotify.com/track/6OHNx1ADztv9b8mCBi2Y5s"
+    },
+    {
+      "album": {
+        "name": "BRB..",
+        "url": "https://open.spotify.com/album/7mipSeDbC11eM2TL0qkOep"
+      },
+      "artists": [
+        {
+          "name": "\u738bADEN",
+          "url": "https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143625,
+      "name": "BRB..",
+      "url": "https://open.spotify.com/track/63TJ9ddXXJPeS6nztvtJOZ"
     },
     {
       "album": {
@@ -658,7 +676,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 167692,
       "name": "DOSE ME (with \u5433\u601d\u8ce2, Jinbo & \u9ec3\u795d\u8ce2\u5112)",
       "url": "https://open.spotify.com/track/77pS53R8n659PX7RQZe2Ap"
@@ -1571,6 +1589,24 @@
     },
     {
       "album": {
+        "name": "Not Bad",
+        "url": "https://open.spotify.com/album/79lUYHxJgyHrhGGs1Z4GyW"
+      },
+      "artists": [
+        {
+          "name": "\u5433\u970f",
+          "url": "https://open.spotify.com/artist/2q5HrJWKwU4iHaTTSKGZC4"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193307,
+      "name": "Keep Fallin",
+      "url": "https://open.spotify.com/track/5WuXujPMlQrFLTAVH7qVNU"
+    },
+    {
+      "album": {
         "name": "Keep Up",
         "url": "https://open.spotify.com/album/0Cz4M6d0VmPIShBHxqs5zD"
       },
@@ -1919,6 +1955,24 @@
     },
     {
       "album": {
+        "name": "filter",
+        "url": "https://open.spotify.com/album/3ZOANcz0gC0tgkJMLpe3S4"
+      },
+      "artists": [
+        {
+          "name": "163 braces",
+          "url": "https://open.spotify.com/artist/6gtUGnqU4qnJ2ZB2bvp5TZ"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173200,
+      "name": "murmur",
+      "url": "https://open.spotify.com/track/2ah8eX0t8aF0rgwhqPR2QC"
+    },
+    {
+      "album": {
         "name": "music",
         "url": "https://open.spotify.com/album/74f2abiQasJUuM0HlRTjM8"
       },
@@ -2040,7 +2094,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 210974,
       "name": "Nothing Gold Can Stay",
       "url": "https://open.spotify.com/track/6QgPq28fEIugfZrMZ8WUOq"
@@ -2116,7 +2170,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 159069,
       "name": "OIK",
       "url": "https://open.spotify.com/track/1p8XXEIjVHIqS6EKXG5qhb"
@@ -3116,7 +3170,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 198786,
       "name": "Woody",
       "url": "https://open.spotify.com/track/6S1JhalUapj0WoE8fKsaZ2"
@@ -3414,7 +3468,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 188571,
       "name": "\u4e09\u5929\u4e4b\u5167\u6688\u4e86\u4f60",
       "url": "https://open.spotify.com/track/2sTgpjvhk5NYKtGO6LWogR"
@@ -3952,7 +4006,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 196750,
       "name": "\u4f60\u8aaa\u9019\u53eb\u5929\u79e4\u5ea7\u4f46\u4f60\u559c\u6b61",
       "url": "https://open.spotify.com/track/5vYF35h9hdvYWfCL3Zb8Xj"
@@ -4800,7 +4854,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-16",
+      "date_removed": null,
       "duration_ms": 204800,
       "name": "\u5979\u7e3d\u662f",
       "url": "https://open.spotify.com/track/4pe1L6Aqzcb1N2igoamraU"
@@ -6398,7 +6452,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-06",
+      "date_removed": null,
       "duration_ms": 215999,
       "name": "\u666f\u7f8e",
       "url": "https://open.spotify.com/track/703QKP05wHYmeRvr8MGQ80"
@@ -7852,7 +7906,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 259764,
       "name": "\u81ed\u5c0f\u5b50",
       "url": "https://open.spotify.com/track/3sRCpZsgPuVfCNU674NdeY"
@@ -8326,6 +8380,24 @@
       "duration_ms": 196000,
       "name": "\u8ddf\u6211\u4f86",
       "url": "https://open.spotify.com/track/3hSnIxdAhRl1NpGTVJgqdO"
+    },
+    {
+      "album": {
+        "name": "\u8ddf\u6211\u4f86 (Acoustic Version)",
+        "url": "https://open.spotify.com/album/6oOj4SXZ6dt5dn0BpoCC9z"
+      },
+      "artists": [
+        {
+          "name": "Jinbo",
+          "url": "https://open.spotify.com/artist/2QlEDg87oaNdcAA1O7dIIC"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "\u8ddf\u6211\u4f86 - Acoustic Version",
+      "url": "https://open.spotify.com/track/6anxzdzGCEdYUnaA2T92eF"
     },
     {
       "album": {

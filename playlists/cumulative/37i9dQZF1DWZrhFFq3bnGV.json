@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-09",
-  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: ArumtaLa",
+  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Adikara",
   "name": "Jazz Anak Negeri",
   "tracks": [
     {
@@ -532,7 +532,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 189120,
       "name": "Best Friend",
       "url": "https://open.spotify.com/track/0QMKNY9xswyHRqA7OjVrNj"
@@ -728,7 +728,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 276129,
       "name": "Cruisin n' groovin",
       "url": "https://open.spotify.com/track/5ZBEkuN7XOOnQIPlFsEIpo"
@@ -1827,6 +1827,24 @@
     },
     {
       "album": {
+        "name": "Katakan Saja",
+        "url": "https://open.spotify.com/album/6Jc1f9u2q0sIe3xwvZeRCH"
+      },
+      "artists": [
+        {
+          "name": "Adikara",
+          "url": "https://open.spotify.com/artist/4g69iZz2nk9El5Zf3ttiBN"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236202,
+      "name": "Katakan Saja",
+      "url": "https://open.spotify.com/track/6bIQQJk47tJsUmlqd1hEUW"
+    },
+    {
+      "album": {
         "name": "Teras Dan Angin Malam",
         "url": "https://open.spotify.com/album/0zUzJIuniSzSPmwEwNweUp"
       },
@@ -2046,6 +2064,24 @@
       "duration_ms": 197142,
       "name": "Little Bit Simple - Instrumental Version",
       "url": "https://open.spotify.com/track/0vlnOeaiMERE83zsDwV1i5"
+    },
+    {
+      "album": {
+        "name": "Living in Harmony",
+        "url": "https://open.spotify.com/album/4wfXoLMv9iH2xLXx9PaHv6"
+      },
+      "artists": [
+        {
+          "name": "Koko Wijanarko",
+          "url": "https://open.spotify.com/artist/0c26hbkWSxPK07pXEzTvFK"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338620,
+      "name": "Living in Harmony",
+      "url": "https://open.spotify.com/track/6C69VLGIYGcTm2KoWqUWZ1"
     },
     {
       "album": {

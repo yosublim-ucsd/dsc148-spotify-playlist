@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc2CX1rMGAc.md) - [plain]
 
 > Latin tunes to get your beast mode on!
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,181 likes - 150 songs - 8 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,379 likes - 150 songs - 8 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc2CX1rMGAc.md) - [plain]
 | 149 | [Cuando Te Toca](https://open.spotify.com/track/6N5kayELaZsZUOwW9uCBU2) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Resistencia](https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ) | 2:56 |
 | 150 | [MI EXXX](https://open.spotify.com/track/5hHzqkPU6TQxWtV2cJqsMp) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [MI EXXX](https://open.spotify.com/album/1O9NM8bAvDQwD5ZZDmoStC) | 3:14 |
 
-Snapshot ID: `MCwxODUwZGU5NzkxZjJlZTRhYTdhYjhlNWQ2YWJhNDhhN2UzOTc2ODgx`
+Snapshot ID: `MCwxNGUwNWYzMzIzZDVlM2RkMWU5Y2UxNzczYzRjYTllYTQyM2Y0OWUx`

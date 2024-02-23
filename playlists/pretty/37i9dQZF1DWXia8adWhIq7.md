@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 
 > Ouça as novidades e sucessos do Pop Cristão\. Foto: Luma Elpidio
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,967 likes - 85 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,023 likes - 85 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 | 84 | [Mostra\-Me Tua Glória](https://open.spotify.com/track/4lpmXAuqiQ3h69eIzQ57lQ) | [Hadassah Perez](https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb) | [Mostra\-Me Tua Glória](https://open.spotify.com/album/7cl3wKgvILtYbTp4hDkRbK) | 3:50 |
 | 85 | [A Casa Caiu](https://open.spotify.com/track/5TSHa3hQd3YOvBHNKSuc5C) | [Leif Bessa](https://open.spotify.com/artist/7AXkzxHwKWcrSmdAJ5e5WV), [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3) | [Ele e Nóiz](https://open.spotify.com/album/65iNHR49BjxlK6nuOrKqrv) | 2:52 |
 
-Snapshot ID: `MCxmZDBmYTY5Yzc4NGU1NjAxYWM3MzEwZWU0ZTAxMmIyNTllZTAzMzY4`
+Snapshot ID: `MCwzNWVlM2E0NWIyYjc5ZDRiMDExNGI2MTExNTBlMmU2YzYxZjJmOGUw`

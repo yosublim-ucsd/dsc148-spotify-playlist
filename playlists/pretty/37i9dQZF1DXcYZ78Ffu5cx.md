@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYZ78Ffu5cx.md) - [plain]
 
 > music, waves, friends and a good time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,544 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,569 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYZ78Ffu5cx.md) - [plain]
 | 99 | [Mi Vecinita](https://open.spotify.com/track/18DmZ510OB9XATcFbQ8vDZ) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Love And Sex](https://open.spotify.com/album/2nyw6aQu85kFb3mYb4vWwE) | 3:02 |
 | 100 | [COMO UN BEBÉ](https://open.spotify.com/track/7knLcYCOSaURD0d7HUULFM) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [OASIS](https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN) | 3:38 |
 
-Snapshot ID: `MCw0OThmMGE5Y2Y0M2NmM2M2YTA0M2EwMGUzNGJjZWJiZGRhMTYwMjVm`
+Snapshot ID: `MCxhZWRlNmUxYWM0ODdlMGU2MWZmMWM1MWRmNWM2MGMwMmRmYTM4MWYx`

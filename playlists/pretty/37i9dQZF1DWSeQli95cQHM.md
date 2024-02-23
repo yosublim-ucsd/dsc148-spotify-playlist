@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSeQli95cQHM.md) - [plain]
 
 > Na música eletrônica underground brasileira, nos vemos no front.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,042 likes - 50 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,047 likes - 50 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSeQli95cQHM.md) - [plain]
 | 49 | [Corpo Fechado](https://open.spotify.com/track/3JtseE56PXDVUvZUqwbx5K) | [Gezender](https://open.spotify.com/artist/1oNqcSKUrJbsXHri4XS31a), [Linn da Quebrada](https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t) | [Corpo](https://open.spotify.com/album/3sRnGBAdriBmqGZH52snaz) | 5:03 |
 | 50 | [Fixity \- Original Mix](https://open.spotify.com/track/6qLbhDQaerJfb8q9AdoP70) | [Mau Maioli](https://open.spotify.com/artist/68xQyTJpYadNytY09qeyuS) | [VA IFN 001 \- Techno Concept](https://open.spotify.com/album/4lwp9JmCU7CxpDPp1HF0L6) | 5:11 |
 
-Snapshot ID: `MCw3ZDcxNTU2YmE3ZjNiMGQ3YjllMTIyMGE3ZDE5ZWI5YWI3M2YwNmYx`
+Snapshot ID: `MCwwNDJhMDNiMjM3N2QzOWJmMjM4ODZiYmJmODA2NTZlNGRmOWVjOGFl`

@@ -4,7 +4,7 @@
 
 > Soulful Hindi songs for your nostalgic journey\. Cover \- Mere Jeevan Saathi
 
-166 songs - 12 hr 39 min
+167 songs - 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,8 @@
 | [Na Tum Hamen Jano \- Male Vocals](https://open.spotify.com/track/63duKTfcFc60adEHebFkD9) | [Hemant Kumar](https://open.spotify.com/artist/02Um2HIOrUdsy3wqPBZwsj) | [Baat Ek Raat Ki \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5SMMj9xYoZSg6VpmQltOu1) | 3:21 | 2021-09-29 | 2024-02-11 |
 | [Nainon Mein Badra Chhaye \(From "Mera Saaya"\)](https://open.spotify.com/track/1qSRdYWUNNgsNq0B8eTCU6) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Lag Ja Gale \- Best of Lata Mangeshkar and Madan Mohan](https://open.spotify.com/album/3KtIvdV7p791lZ2J5TSSow) | 3:33 | 2023-05-02 |  |
 | [Nindiya Se Jagi Bahar](https://open.spotify.com/track/0W7WqMBoEJLWJ46uZ0C08v) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Hero \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6yQsPqhpbIN49FGws6o2Dv) | 6:20 | 2023-05-02 | 2023-10-22 |
-| [Nindiya Se Jagi Bahar \(From "Hero"\)](https://open.spotify.com/track/2jdoLNzDogFP1Nzk8SKRIJ) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Rhythmical Duo Laxmikant \- Pyarelal](https://open.spotify.com/album/0oooRZxphPmlfhGjXSnitS) | 6:20 | 2023-10-10 |  |
+| [Nindiya Se Jagi Bahar](https://open.spotify.com/track/1iqWaJ2muo6klCJLD4NDRs) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Anand Bakshi](https://open.spotify.com/artist/3Bku4b0uiR8KJSXu7U8Iyy) | [Hero \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4qVcrwcaOQjnQUlOi8043E) | 6:20 | 2024-02-22 |  |
+| [Nindiya Se Jagi Bahar \(From "Hero"\)](https://open.spotify.com/track/2jdoLNzDogFP1Nzk8SKRIJ) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Rhythmical Duo Laxmikant \- Pyarelal](https://open.spotify.com/album/0oooRZxphPmlfhGjXSnitS) | 6:20 | 2023-10-10 | 2024-02-23 |
 | [O Haseena Zulfonwale Jane Jahan \(From "Teesri Manzil"\)](https://open.spotify.com/track/1JHNf1BPNDQEVZehemIDay) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U), [Mohammed Rafi](https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J) | [Memoirically \- Mohammed Rafi](https://open.spotify.com/album/7EZdE0t7jl1HVelhq6OUej) | 6:55 | 2021-09-29 | 2023-02-22 |
 | [O Mere Dil Ke Chain \(From "Mere Jeevan Saathi"\)](https://open.spotify.com/track/71hanKncfyBt0Yi66LRUYm) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Krazy Kishore](https://open.spotify.com/album/43ehHE4nhmYH976HupqUlx) | 4:33 | 2021-09-29 |  |
 | [O Saathi Re \(From "Muqaddar Ka Sikandar"\)](https://open.spotify.com/track/48D8kYVTIwnkBoYvvb3hsv) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Coffee Aur Kishore](https://open.spotify.com/album/0bX8qbSF7lWNygaTcpcwQz) | 4:30 | 2023-03-27 |  |

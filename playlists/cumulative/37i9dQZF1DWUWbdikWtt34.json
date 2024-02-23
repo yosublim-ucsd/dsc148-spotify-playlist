@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Dendang Dangdut teratas. Cover: Kresya Della",
+  "description": "Dendang Dangdut teratas. Cover: Nayunda",
   "name": "Dangdut Top",
   "tracks": [
     {
@@ -869,6 +869,24 @@
     },
     {
       "album": {
+        "name": "Harusnya Aku Bukan Dia",
+        "url": "https://open.spotify.com/album/5bhiAHjrp1DNxyLDnkFD90"
+      },
+      "artists": [
+        {
+          "name": "Balena",
+          "url": "https://open.spotify.com/artist/2cjdvAkEtUktGoQSyc1teU"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317575,
+      "name": "Harusnya Aku Bukan Dia",
+      "url": "https://open.spotify.com/track/0rmbQ7zTdLbO4ZeRINhwct"
+    },
+    {
+      "album": {
         "name": "Hati Ini Selalu Milikmu",
         "url": "https://open.spotify.com/album/112on20pNWhwlIGoWGe4JM"
       },
@@ -960,7 +978,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 265111,
       "name": "Ikhlas Ngenteni",
       "url": "https://open.spotify.com/track/4zbeozbK1z1OM8p8EzG310"
@@ -2213,6 +2231,42 @@
     },
     {
       "album": {
+        "name": "Setia Selamanya",
+        "url": "https://open.spotify.com/album/68xo70xpsg2AgbucwNpjrL"
+      },
+      "artists": [
+        {
+          "name": "Nayunda",
+          "url": "https://open.spotify.com/artist/14d9MMITs2VsO16pEVEe6M"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242282,
+      "name": "Setia Selamanya",
+      "url": "https://open.spotify.com/track/28Bo7TZyfgXwyI94AovY74"
+    },
+    {
+      "album": {
+        "name": "Siang Malam Rindu",
+        "url": "https://open.spotify.com/album/4kDFIPaPUAbDaDWaObbQjT"
+      },
+      "artists": [
+        {
+          "name": "Fildan",
+          "url": "https://open.spotify.com/artist/6uOceknzOyjcK3UdX3SIzl"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253200,
+      "name": "Siang Malam Rindu",
+      "url": "https://open.spotify.com/track/4QWa2dAN3aKBWvvkEJghCD"
+    },
+    {
+      "album": {
         "name": "Siapa Benar Siapa Salah",
         "url": "https://open.spotify.com/album/59OrcFyOttYw7F3fZ1aT91"
       },
@@ -2465,6 +2519,24 @@
     },
     {
       "album": {
+        "name": "Terbuai Asmara",
+        "url": "https://open.spotify.com/album/22PIY9l1gFVrTIiTp3h5L9"
+      },
+      "artists": [
+        {
+          "name": "Aulia",
+          "url": "https://open.spotify.com/artist/7MttyEE8E5rgZixU23TZW6"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292689,
+      "name": "Terbuai Asmara",
+      "url": "https://open.spotify.com/track/6OvS9FpU0AhP5Z1TdTuo8J"
+    },
+    {
+      "album": {
         "name": "Terbuai Cinta Palsu (Live Ska Reggae)",
         "url": "https://open.spotify.com/album/0WznoxDQEe7I64PQTKsswJ"
       },
@@ -2714,7 +2786,7 @@
       ],
       "date_added": "2021-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 296100,
       "name": "Widodari",
       "url": "https://open.spotify.com/track/6NboFmEGgwlzpVG7dFfJUV"

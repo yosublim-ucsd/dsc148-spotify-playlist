@@ -375,6 +375,24 @@
     },
     {
       "album": {
+        "name": "Love Testament",
+        "url": "https://open.spotify.com/album/6tRqd597i8RSQ6odzWhpje"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156226,
+      "name": "Carry Am Go",
+      "url": "https://open.spotify.com/track/56QegwkRucsEi48LrPhfUc"
+    },
+    {
+      "album": {
         "name": "Case",
         "url": "https://open.spotify.com/album/3vhhduoyZmze3Av47M9OvM"
       },

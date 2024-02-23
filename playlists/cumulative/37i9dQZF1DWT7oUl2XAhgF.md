@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Britti
 
-380 songs - 22 hr 56 min
+381 songs - 23 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -350,7 +350,8 @@
 | [Trade of Hearts](https://open.spotify.com/track/1n3lQ9NRhdY2Km9HGAUdmA) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Easier Said Than Done](https://open.spotify.com/album/6TXtR9ZlYnBU78SSQy5krJ) | 2:54 | 2022-01-14 | 2022-08-29 |
 | [Trade of Hearts](https://open.spotify.com/track/6p2uzqM9QqCVxXhs2A9rBN) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma) | 2:54 | 2022-01-14 | 2023-02-18 |
 | [Train Wreck](https://open.spotify.com/track/186r8w6faWFUgUeIS1PqcZ) | [The Lady Songbird Jinda](https://open.spotify.com/artist/7bARxuRTtyat6pGGBxQMJ8), [Donnie Ray](https://open.spotify.com/artist/4r3SnXMswiuZZNDD1OzJqv) | [Train Wreck](https://open.spotify.com/album/3BCKshx1X4t3nYFzaG2ItA) | 3:30 | 2023-08-18 | 2023-09-09 |
-| [Trouble](https://open.spotify.com/track/6IZ0AmqxPlnhRjIqoZtrCh) | [Emilia Sisco](https://open.spotify.com/artist/4RE2veIqf9YBlKqVTDKpV4), [Cold Diamond & Mink](https://open.spotify.com/artist/47eOrmm0M2qY5atzSNNt2b) | [Trouble](https://open.spotify.com/album/28sgphniUIB4msFwWLZfgb) | 3:39 | 2023-07-21 |  |
+| [Trouble](https://open.spotify.com/track/0QrPA1DZnFzbh2sK2Ru6zL) | [Emilia Sisco](https://open.spotify.com/artist/4RE2veIqf9YBlKqVTDKpV4), [Cold Diamond & Mink](https://open.spotify.com/artist/47eOrmm0M2qY5atzSNNt2b) | [Trouble](https://open.spotify.com/album/1kanCOAOK32Mle4upbv8W0) | 3:39 | 2023-09-01 |  |
+| [Trouble](https://open.spotify.com/track/6IZ0AmqxPlnhRjIqoZtrCh) | [Emilia Sisco](https://open.spotify.com/artist/4RE2veIqf9YBlKqVTDKpV4), [Cold Diamond & Mink](https://open.spotify.com/artist/47eOrmm0M2qY5atzSNNt2b) | [Trouble](https://open.spotify.com/album/28sgphniUIB4msFwWLZfgb) | 3:39 | 2023-07-21 | 2024-02-23 |
 | [Trust](https://open.spotify.com/track/1SSdSN70LK45vWndX3twa9) | [Michelle David & The True\-tones](https://open.spotify.com/artist/7on1NP7h7wh2Onwvkff1pj) | [Truth & Soul](https://open.spotify.com/album/0d1vlMDPL6j1ebfb4x0sTt) | 4:20 | 2022-05-06 |  |
 | [Tryin' to Get By](https://open.spotify.com/track/5oKR1mBL3cN7iiGFpovuH4) | [Eddie 9V](https://open.spotify.com/artist/2GHXeEEol7BPT31flS6O1B) | [Capricorn](https://open.spotify.com/album/34kckA5C2zC6ouE5ncMJfI) | 3:19 | 2023-01-27 | 2023-02-04 |
 | [Tumblin'](https://open.spotify.com/track/53XMmw6emHn2NLt4YPPgPi) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Soft Spot](https://open.spotify.com/album/2NCpqUoUNjA1lUi8ROrexY) | 3:44 | 2022-10-07 | 2023-04-09 |

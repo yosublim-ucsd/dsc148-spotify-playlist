@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX61fc6zAraeo.md) - [plain]
 
 > Dance tracks for your power moves
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,381 likes - 100 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,406 likes - 100 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX61fc6zAraeo.md) - [plain]
 | 99 | [Nothing In Common](https://open.spotify.com/track/3q7U43P5AbtkD1XiB0J1wR) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [Raphi](https://open.spotify.com/artist/5uRAMorzqKiss3EUQPVDD4) | [Nothing In Common](https://open.spotify.com/album/2OVpPBoS3pjmlaJH6PuT39) | 3:00 |
 | 100 | [Fitness](https://open.spotify.com/track/6tlTBmaJCBJ238Gl5eFZ2z) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw), [Bad Amie](https://open.spotify.com/artist/3tTqCfscGTg5hnbaKce3lE) | [Fitness](https://open.spotify.com/album/20L2EPQGvZV2WsgLJ1WdMz) | 3:00 |
 
-Snapshot ID: `MCxhNTg5MDQzNTQ3MTA3MzAwOTZmMmQ5Nzc3ZGZhZWQ2YTI5OTg0NDJl`
+Snapshot ID: `MCw0OWQ3OTAxZmQyMTA3N2Y1M2QyOTFkNDc0Nzg2Y2UwYWQyNWRjMjk2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 
 > slow burners for late nights
 
-[Spotify](https://open.spotify.com/user/spotify) - 974,027 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 974,033 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 | 99 | [One Trick Pony](https://open.spotify.com/track/1qpg6H28CYp95bvj2fj3b3) | [Grebes](https://open.spotify.com/artist/5BHV73RQsL8zucEcnzs8IE) | [House Creature](https://open.spotify.com/album/27ba8fckG1oJ4DzPZO80Ey) | 1:57 |
 | 100 | [THE END \(feat\. Thrupence, Will Paquin & rum.gold\)](https://open.spotify.com/track/6RB5C04LElmQGOCJFCq0vS) | [Ta\-ku](https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV), [Thrupence](https://open.spotify.com/artist/33WEbJHirq23bohapH3pI9), [Will Paquin](https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6), [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB) | [Songs To Come Home To](https://open.spotify.com/album/3RyNOK2vXaGdkRWoh8QmjN) | 4:58 |
 
-Snapshot ID: `MCxmYjQ1NjQwNzA5MjZlMGFkMmIwZjQ2Nzg2MDg0NjAyY2UxY2Q4OTY1`
+Snapshot ID: `MCxhMTIwNmNkODc3MmZmMWU1MWFhNmI1NDE3N2I2NDYzZWNlNzRjODVi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4fzHck.md) - [plain]
 
 > This is The Cure\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 522,789 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 522,881 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4fzHck.md) - [plain]
 | 11 | [Jumping Someone Else's Train](https://open.spotify.com/track/76XCLlTwCYYaqQ9aru4yLB) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Three Imaginary Boys](https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG) | 2:57 |
 | 12 | [A Letter To Elise](https://open.spotify.com/track/7mEGddVRDdESAibWOnbXoA) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1) | 5:12 |
 | 13 | [Pictures Of You \- Remastered](https://open.spotify.com/track/2o49Twc3qrNMOt8gq9W06L) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Deluxe Edition\)](https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy) | 7:28 |
-| 14 | [Play For Today](https://open.spotify.com/track/77HYwsktlwB37zyEH9dgYY) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Seventeen Seconds](https://open.spotify.com/album/6hmiQJ6FbPEQIDeKEIKSck) | 3:38 |
-| 15 | [A Night Like This](https://open.spotify.com/track/5AQqtXvhgDKl3v4JzkdEsG) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head On The Door](https://open.spotify.com/album/7zJzNs8eVgbkVVSQSwKRtx) | 4:16 |
+| 14 | [A Night Like This](https://open.spotify.com/track/5AQqtXvhgDKl3v4JzkdEsG) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head On The Door](https://open.spotify.com/album/7zJzNs8eVgbkVVSQSwKRtx) | 4:16 |
+| 15 | [Play For Today](https://open.spotify.com/track/77HYwsktlwB37zyEH9dgYY) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Seventeen Seconds](https://open.spotify.com/album/6hmiQJ6FbPEQIDeKEIKSck) | 3:38 |
 | 16 | [High](https://open.spotify.com/track/1G5cCZhEI67suiGvSWAiZz) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1) | 3:32 |
 | 17 | [Let's Go To Bed](https://open.spotify.com/track/7yZvWX3xZ50oh555vREpin) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Japanese Whispers](https://open.spotify.com/album/5tAMx7VbNpPCvn35reMtFN) | 3:34 |
 | 18 | [Fire In Cairo](https://open.spotify.com/track/2ZZjAZLVSnHJnSNFN5AUCd) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Three Imaginary Boys](https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG) | 3:23 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4fzHck.md) - [plain]
 | 35 | [From The Edge Of The Deep Green Sea](https://open.spotify.com/track/5Pmpq3bZzrjT9HuYbvMviP) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1) | 7:40 |
 | 36 | [Cut \- 1990 Demo](https://open.spotify.com/track/0DuagCkRRIggdD2K058KHf) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish \(30th Anniversary Edition\)](https://open.spotify.com/album/2Zj1cFOmfPfykuXLVGXhhe) | 3:33 |
 | 37 | [Grinding Halt](https://open.spotify.com/track/4wJGF0EeEgwX8mBJcbwESi) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Three Imaginary Boys](https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG) | 2:49 |
-| 38 | [Plainsong \- Remastered](https://open.spotify.com/track/4gcfxHL1iRgP0RHCDYMNIo) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Deluxe Edition\)](https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy) | 5:17 |
-| 39 | [Perfect Girl](https://open.spotify.com/track/7lYkyTd5mViUaw5kCTRB1x) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Kiss Me, Kiss Me, Kiss Me](https://open.spotify.com/album/6qRV8jXFV1fZG0TizFOuTE) | 2:33 |
+| 38 | [Perfect Girl](https://open.spotify.com/track/7lYkyTd5mViUaw5kCTRB1x) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Kiss Me, Kiss Me, Kiss Me](https://open.spotify.com/album/6qRV8jXFV1fZG0TizFOuTE) | 2:33 |
+| 39 | [Plainsong \- Remastered](https://open.spotify.com/track/4gcfxHL1iRgP0RHCDYMNIo) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Deluxe Edition\)](https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy) | 5:17 |
 | 40 | [Cut Here](https://open.spotify.com/track/1SuAd1VNCDpM2ovs1ic9tN) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Greatest Hits](https://open.spotify.com/album/093amtf9s8VkIdUtvd2Tap) | 4:10 |
 | 41 | [One Hundred Years](https://open.spotify.com/track/5D9ArD78F5e39isS8BNCfl) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Pornography](https://open.spotify.com/album/0qJ30kPyjNkKjtV5h0JpHm) | 6:39 |
 | 42 | [To Wish Impossible Things](https://open.spotify.com/track/69MyxFlOm2ennzuE2FqeM1) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1) | 4:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4fzHck.md) - [plain]
 | 49 | [The Hanging Garden](https://open.spotify.com/track/4aiCy98MqryFBPOKN8e9GP) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Pornography](https://open.spotify.com/album/0qJ30kPyjNkKjtV5h0JpHm) | 4:32 |
 | 50 | [Six Different Ways \- 2006 Remaster](https://open.spotify.com/track/24W113iYyDEa2d6lqfgikX) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head on the Door \(Deluxed Edition\)](https://open.spotify.com/album/4Uq47onfCEj5en94jpHovk) | 3:18 |
 
-Snapshot ID: `Mjg0NzUyOTAsMDAwMDAwMDAwNjJkZGFjZjAzMjMxZmJiOWU4MDE3ZjYzYmY3ZmEwNg==`
+Snapshot ID: `Mjg0NzcwNzUsMDAwMDAwMDA2ODQwN2UzYTczNDA0NWQ2ZDE1NjZlNjdlYWViYjg4Yw==`

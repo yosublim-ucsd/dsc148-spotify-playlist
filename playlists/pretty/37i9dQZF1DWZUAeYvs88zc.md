@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUAeYvs88zc.md) - [plain]
 
 > For all of us dancing on our own.
 
-[Spotify](https://open.spotify.com/user/spotify) - 591,048 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 591,111 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUAeYvs88zc.md) - [plain]
 | 74 | [Into The Walls](https://open.spotify.com/track/5Gdbm8oHbicLgj79HcOxtL) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [vert1go vol\. 1](https://open.spotify.com/album/1RcfzHK44GEHSBwAH1NQeY) | 3:08 |
 | 75 | [You Know What I Need](https://open.spotify.com/track/5PQFmB2xhRkJTUWDKccBoP) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [You Know What I Need](https://open.spotify.com/album/0kktnSnWwAcdS0PQGAEcSM) | 2:50 |
 
-Snapshot ID: `MCw5ZGM4OTg1MzM3ZmM5NmVjYWNmZWU1NDhlYjc4ZjMwYThiODRlNWFh`
+Snapshot ID: `MCxjYmM4YTg0NzExZDliZmNhOTY2YTgyZjI3MDZhN2NiZGJhMTdmODdk`

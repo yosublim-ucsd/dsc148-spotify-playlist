@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uge6k.md) - [plain]
 
 > This is ZZ Top\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,259 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,293 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uge6k.md) - [plain]
 | 37 | [Pearl Necklace](https://open.spotify.com/track/4anJfhuQLpdg637D6wt0cL) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [ZZ Top's Greatest Hits](https://open.spotify.com/album/20ZZfEgbODMenFN8EKlVFh) | 4:05 |
 | 38 | [Just Got Back from Baby's](https://open.spotify.com/track/7AX7qVqFljHOJC3FIQ8a6t) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [ZZ Top's First Album](https://open.spotify.com/album/0Y9jM9umdMOH7t19urnOw4) | 4:10 |
 | 39 | [Planet of Women](https://open.spotify.com/track/6VdlbIPdzJYj35Tq05vsH5) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Afterburner](https://open.spotify.com/album/1YRTFKHD0QDO2QAKvU4mLz) | 4:02 |
-| 40 | [Master of Sparks \- 2006 Remaster](https://open.spotify.com/track/5QlRoZ3eJRwFOK8xBQf44y) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tres Hombres \(Expanded 2006 Remaster\)](https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY) | 3:29 |
-| 41 | [Francine](https://open.spotify.com/track/1dzfGr4PZ5npvdv6DWvycB) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Rio Grande Mud](https://open.spotify.com/album/4M9bA8YsjIlZOg2wD0BmsM) | 3:33 |
+| 40 | [Francine](https://open.spotify.com/track/1dzfGr4PZ5npvdv6DWvycB) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Rio Grande Mud](https://open.spotify.com/album/4M9bA8YsjIlZOg2wD0BmsM) | 3:33 |
+| 41 | [Move Me on Down the Line \- 2005 Remaster](https://open.spotify.com/track/2afW0UsI1mU9mREstUTwu6) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tres Hombres \(Expanded 2006 Remaster\)](https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY) | 2:31 |
 | 42 | [Squank](https://open.spotify.com/track/5ndUXJQPTVDPVlQUgW2vgE) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [ZZ Top's First Album](https://open.spotify.com/album/0Y9jM9umdMOH7t19urnOw4) | 2:48 |
 | 43 | [Velcro Fly](https://open.spotify.com/track/511XWfaUgmaVcms4OhQ9oz) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Afterburner](https://open.spotify.com/album/1YRTFKHD0QDO2QAKvU4mLz) | 3:29 |
-| 44 | [Move Me on Down the Line \- 2005 Remaster](https://open.spotify.com/track/2afW0UsI1mU9mREstUTwu6) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tres Hombres \(Expanded 2006 Remaster\)](https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY) | 2:31 |
-| 45 | [Sure Got Cold After the Rain Fell](https://open.spotify.com/track/30sJmjuLalNSzlRIml1PlJ) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Rio Grande Mud](https://open.spotify.com/album/4M9bA8YsjIlZOg2wD0BmsM) | 7:20 |
+| 44 | [Sure Got Cold After the Rain Fell](https://open.spotify.com/track/30sJmjuLalNSzlRIml1PlJ) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Rio Grande Mud](https://open.spotify.com/album/4M9bA8YsjIlZOg2wD0BmsM) | 7:20 |
+| 45 | [Master of Sparks \- 2006 Remaster](https://open.spotify.com/track/5QlRoZ3eJRwFOK8xBQf44y) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tres Hombres \(Expanded 2006 Remaster\)](https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY) | 3:29 |
 | 46 | [Certified Blues](https://open.spotify.com/track/7mdPXhJBfxJBonEmqZvm9t) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [ZZ Top's First Album](https://open.spotify.com/album/0Y9jM9umdMOH7t19urnOw4) | 3:27 |
 | 47 | [She Loves My Automobile](https://open.spotify.com/track/4AeZKrbiPqJuVrJvrngTkR) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Deguello](https://open.spotify.com/album/339EONXrRgL9iLpxOKrUJZ) | 2:23 |
 | 48 | [Give It Up](https://open.spotify.com/track/40IMYicpMrM9ziQIbFtfNY) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Recycler](https://open.spotify.com/album/4ItwdwD5kWC4Wa9tIl0eEq) | 3:29 |
 | 49 | [Down Brownie](https://open.spotify.com/track/0aipmEKEVMfYccmS4CQa6C) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Rio Grande Mud](https://open.spotify.com/album/4M9bA8YsjIlZOg2wD0BmsM) | 2:30 |
 | 50 | [Mexican Blackbird \- 2005 Remaster](https://open.spotify.com/track/7rbm9b3fLOKCCBqNFVdkWV) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Fandango! \(Expanded 2006 Remaster\)](https://open.spotify.com/album/4krv5xmTGdK9LhWINUkVgO) | 3:05 |
 
-Snapshot ID: `Mjg0NzUyOTAsMDAwMDAwMDA3OTNlNTlhMDM2NzhkMjAzM2JhN2UwMjk4Y2YwOWIxMw==`
+Snapshot ID: `Mjg0NzcwNzUsMDAwMDAwMDA2Y2NkOTFlNDcyZDRhNTEyMmQwZmZiY2UxMzc3NDA4MQ==`

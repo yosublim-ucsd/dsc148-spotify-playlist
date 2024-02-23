@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bf0P6HTTom.md) - [plain]
 
 > Eagles, The Byrds and all your favorite country rock
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,159 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,190 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bf0P6HTTom.md) - [plain]
 | 49 | [Rebecca \- Remastered](https://open.spotify.com/track/6JivFldqJ4qjT7kYhygGTl) | [Longbranch/Pennywhistle](https://open.spotify.com/artist/7bK26KSS2vRPxiT2UDeYSF) | [Longbranch/Pennywhistle \(Remastered\)](https://open.spotify.com/album/6z5JQxMPg26VbiNjK0ktjp) | 2:48 |
 | 50 | [Make A Little Magic \- 2001 Remaster](https://open.spotify.com/track/6bYroZcslsd84iw56ft2a6) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW), [Nicolette Larson](https://open.spotify.com/artist/0NCXrh1XOnHNp4mM0JUFJw) | [Best Of](https://open.spotify.com/album/53g97Xwkme1StWj2GC3BkG) | 3:55 |
 
-Snapshot ID: `MCwzZWRmMGI5MmEwZmNjZWU5NDY1MDMxYmEzOTVmOWE2ZjNkYmEzYzBk`
+Snapshot ID: `MCxhZmUzYmYwZmJhNWJkYjk3NGMwNzc2MmE4Nzg2NjY5MDJkMzEwODY1`

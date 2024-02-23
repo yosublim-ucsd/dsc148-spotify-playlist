@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdk2DZvqpqJY.md) - [plain]
 
 > Swinging jazz for relaxing and unwinding.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,657 likes - 150 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,711 likes - 150 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdk2DZvqpqJY.md) - [plain]
 | 149 | [Make good better](https://open.spotify.com/track/75tYxIVIyTRQmCJeg68z84) | [Ornette Haynes](https://open.spotify.com/artist/5Fb5lnOYweoOU7Xt5qQ1h6) | [Make good better](https://open.spotify.com/album/1fkpOxRymVjgS47si11Dup) | 3:24 |
 | 150 | [A Gentle Reminder](https://open.spotify.com/track/2pwKVc1O6cUQZRXIJ74Lh6) | [Rainy Days Trio](https://open.spotify.com/artist/0ZiJ1fWX1eDMn7PA74GdLN) | [Lonesome Road](https://open.spotify.com/album/7hNrGtYQcUXkuBw4KPWu5C) | 3:29 |
 
-Snapshot ID: `MCwzMTg2ZDJmMzFkNDBmYzAzYTAzNzRmZDU3YThiODFjMTZkNDE3YWU2`
+Snapshot ID: `MCw1YjFiYWY2MzY4Y2QwMzUzMDg3ODQ1YTk4ZjM0ZGZiMzg5NGZhMjRl`

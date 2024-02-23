@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 
 > Lo mejor de la nueva\. Foto: Itzza Primera
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,781 likes - 60 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,794 likes - 60 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 | 59 | [Q\-Lito](https://open.spotify.com/track/1W9c0BUe6ETdtBfQyqeOgw) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Q\-Lito](https://open.spotify.com/album/7vy05msyjhqtzv6wgemce7) | 3:08 |
 | 60 | [Que a Pasao](https://open.spotify.com/track/5s2SRpPmDiYFf0Qu17r9Uk) | [Big Apple](https://open.spotify.com/artist/5suUyNwJ1hw1M45oqdw8zE), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Que a Pasao](https://open.spotify.com/album/00LnZnMQqMsYFIhnTjGAEo) | 2:05 |
 
-Snapshot ID: `MCwwZjZjM2Y1YjEzMjAxZDU5MjVkYTdjNmJhNDgzZmIzZDVjMWYzZGRj`
+Snapshot ID: `MCw1M2E3N2Y2MzA1YThmNTcxYjY2OWY1NWQ4NWVkNDczNjlmMmUwNGY0`

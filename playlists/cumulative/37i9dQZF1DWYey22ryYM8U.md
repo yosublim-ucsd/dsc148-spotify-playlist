@@ -2,9 +2,9 @@
 
 ### [Tropical Hits](https://open.spotify.com/playlist/37i9dQZF1DWYey22ryYM8U)
 
-> Hits con sabor\. Cover: Tiago PZK & Ke Personajes
+> Hits con sabor\. Cover: Camilo & Evaluna Montaner
 
-295 songs - 18 hr 59 min
+296 songs - 19 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [No Hay](https://open.spotify.com/track/1EKaKgdN9gHpKG0QoWe1eZ) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [De Trulla Con el Combo](https://open.spotify.com/album/0iC3T3qi5SRyxXfZ3cfSyq) | 4:19 | 2022-02-14 |  |
 | [No Hay Cama Pa' Tanta Gente](https://open.spotify.com/track/40vpI6DtJU1EwFpnCrpWcb) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Tañón Pal' Combo Es Lo Que Hay](https://open.spotify.com/album/0VSHWr0Nz2qMRIOFQ2qwHa) | 3:10 | 2021-12-03 | 2022-07-29 |
 | [No Me Canso](https://open.spotify.com/track/3tbKkKbrG64V5aSEPHgG36) | [Josimar y Su Yambú](https://open.spotify.com/artist/25gsQNkL2qTq778NWyughs) | [No Me Canso](https://open.spotify.com/album/0EbxeksRLXDTEIKw9VXvOw) | 4:40 | 2022-02-14 | 2022-08-31 |
+| [No Se Vale](https://open.spotify.com/track/5Q1MSdJ56O9BxB6wIvjsXY) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [un](https://open.spotify.com/album/69qvzyO2jAil3U6DZpckxr) | 3:00 | 2024-02-22 |  |
 | [No Te Contaron Mal](https://open.spotify.com/track/0jLNtXSoXNQ09T3zyhBPDl) | [You Salsa](https://open.spotify.com/artist/4kYoLs6okVQkRPGtrzMgcU) | [No Te Contaron Mal](https://open.spotify.com/album/6aELgtAHSfkmKVNKqDxE86) | 4:36 | 2022-02-14 |  |
 | [No Te Contaron Mal](https://open.spotify.com/track/62vIBUC9hTfE4nlT3x90uH) | [You Salsa](https://open.spotify.com/artist/4kYoLs6okVQkRPGtrzMgcU) | [No Te Contaron Mal](https://open.spotify.com/album/2X1vTnHXphROBoaIxomDL3) | 4:38 | 2021-12-03 | 2022-02-15 |
 | [No Te Vayas](https://open.spotify.com/track/587xp1Yt8CAPzbHsAuN5nD) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [No Te Vayas](https://open.spotify.com/album/5LWzkXfz3kWsZ6mAc122X9) | 3:46 | 2021-12-03 |  |
@@ -191,7 +192,7 @@
 | [Nunca Es Suficiente](https://open.spotify.com/track/0HlMshB5JmZjPNbOuOgFHN) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Esto Sí Es Cumbia](https://open.spotify.com/album/1ezTrrYQHb4QAsjw7uHZwG) | 4:26 | 2021-12-03 | 2022-02-15 |
 | [Oiga, Mire, Vea](https://open.spotify.com/track/17Sfr3T1chYPGcmM4VlhCh) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [Sentimental de Punta a Punta](https://open.spotify.com/album/0MMzGqy6fMEb6ktGTuxEm2) | 5:25 | 2021-12-03 | 2022-02-15 |
 | [Ojalá](https://open.spotify.com/track/5RsWQQ8DWwrZZEHv9UvcYT) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Ojalá](https://open.spotify.com/album/0kAsWiX9vauYBBqcspZPHW) | 3:35 | 2022-03-04 |  |
-| [Ojalá \- Remix](https://open.spotify.com/track/1gkf7yielXnNYK1BqHPkHj) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE), [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu) | [Ojalá \(Remix\)](https://open.spotify.com/album/7sNRUbrS9DLbbZTtP40KgH) | 3:39 | 2022-04-15 |  |
+| [Ojalá \- Remix](https://open.spotify.com/track/1gkf7yielXnNYK1BqHPkHj) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE), [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu) | [Ojalá \(Remix\)](https://open.spotify.com/album/7sNRUbrS9DLbbZTtP40KgH) | 3:39 | 2022-04-15 | 2024-02-23 |
 | [Otra Noche](https://open.spotify.com/track/5i82o3878xCPNCUK8VIeqX) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Otra Noche](https://open.spotify.com/album/202ZNK1Xpb0r72VyHsz23L) | 3:19 | 2021-12-03 | 2024-02-17 |
 | [Otra Vez](https://open.spotify.com/track/5iwezY285OvcvpWZ5DOwHc) | [Chavi Leons](https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx) | [Otra Vez](https://open.spotify.com/album/1b50tBHDr0LWi7GAOHPwey) | 2:30 | 2022-01-28 | 2023-04-23 |
 | [Oye Mujer](https://open.spotify.com/track/5aLELbBB0Pa7TlGJJyBJo9) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Oye Mujer](https://open.spotify.com/album/61g9r3DhCVt25gpz2FD1DD) | 4:12 | 2021-12-03 | 2022-02-15 |

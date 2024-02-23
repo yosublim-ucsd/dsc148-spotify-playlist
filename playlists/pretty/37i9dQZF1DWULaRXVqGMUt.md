@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULaRXVqGMUt.md) - [plain]
 
 > The most iconic piano style in Blues; all the greatest Boogie\-woogie pianists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,849 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,881 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULaRXVqGMUt.md) - [plain]
 | 74 | [Bongo Boogie](https://open.spotify.com/track/0z54FzJQpU4t2qV1zGYrCj) | [Anisteen Allen](https://open.spotify.com/artist/5H7GMEfLmgBJlLlEltL1wF) | [Boogie Woogie Gals](https://open.spotify.com/album/0MIfIVZV7t0zPMaSiiJnQJ) | 2:40 |
 | 75 | [Chicago Breakdown](https://open.spotify.com/track/6AKFwQSfIA97Dq8N2YeJkN) | [Big Maceo](https://open.spotify.com/artist/6MaCG0Ef8DahWf6Mn0Ikve) | [The Very Best Of Boogie Woogie](https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2) | 2:57 |
 
-Snapshot ID: `MCxkMWMwYjEwZmZhMjNkZTAzYTI1M2JjOWY4NTM5MTc4NmVkODE4NzM1`
+Snapshot ID: `MCw5MDU3ZjVlNzYwODFjZWM1NDVkNDRmMWU0MmEzZTBhMDQ2MWFhN2Fi`

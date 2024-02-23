@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 
 > Strut to electronic tracks that grace runways in Paris, New York City and Milan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,414 likes - 100 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,428 likes - 100 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 | 99 | [U\. \- Junior Sanchez Remix](https://open.spotify.com/track/78K3N4N9BLS9nKUxINO3Zg) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9), [Junior Sanchez](https://open.spotify.com/artist/31ZNfGVEEcI9CyicPVJQni) | [U\. \(Junior Sanchez Remix\)](https://open.spotify.com/album/6LPE0OjnmnzfNNQcU2D4E8) | 2:44 |
 | 100 | [Back Seat \- Tseba Remix](https://open.spotify.com/track/6c4mLN6NaKa0Js76rCIfTr) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D), [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke), [Tseba](https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf) | [Back Seat \(Tseba Remix\)](https://open.spotify.com/album/7mpjZlmA0AAYRfBL1aoatW) | 4:00 |
 
-Snapshot ID: `MCxkOGVjOWI0M2M0NGMwOGFjYzMwNzc3NWUxOTI5YTUyOTQwYTM3Yjhi`
+Snapshot ID: `MCwwMGQ4MGQzZjUzOGY2ZGNlNmE3YjJiOTkwNTY0NjNkNDU5MDRkYmU2`

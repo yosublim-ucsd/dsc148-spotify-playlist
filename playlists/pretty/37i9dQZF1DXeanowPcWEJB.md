@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeanowPcWEJB.md) - [plain]
 
 > Viaja al México tradicional con la expresión de sus guitarras.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,263 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,372 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeanowPcWEJB.md) - [plain]
 | 99 | [En el Último Trago](https://open.spotify.com/track/0qyqbhpeDTVKVwdfkeppj6) | [Juan Veronico](https://open.spotify.com/artist/6srSERU4ay3tUEK8XbA2Rp) | [Lo Mejor en Guitarras](https://open.spotify.com/album/7nl5EG8xfTaQ4WVyB9dsc3) | 2:16 |
 | 100 | [Guadalajara](https://open.spotify.com/track/1w3PYey5h6WBp4Y8W3e3vM) | [Ramon Dona\-Dio](https://open.spotify.com/artist/2onS1woeVK5STw8eKF6x5V) | [Lo Mejor en Guitarras](https://open.spotify.com/album/7nl5EG8xfTaQ4WVyB9dsc3) | 2:31 |
 
-Snapshot ID: `MCw2NzYzZGUxNDQxOTkzZDNmYWZlOGEwYTk1MDY1MjgxNGEzODM4YTI2`
+Snapshot ID: `MCw0NGY1MzE2OWYwMmIwM2M5ODE1ZWMzYjRhYTJjYmI3YTQyNDE0NzM5`

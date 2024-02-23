@@ -4,7 +4,7 @@
 
 > Soundtrack your cozy dinner with bossa nova jazz.
 
-178 songs - 11 hr 9 min
+179 songs - 11 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Liljeholmsviken](https://open.spotify.com/track/3Gw26kNDJHfTtHJQOzI1h4) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Liljeholmsviken](https://open.spotify.com/album/6wrG9MReEESMfnXLh3daCe) | 4:22 | 2023-01-26 |  |
 | [Little Sunflower](https://open.spotify.com/track/6EBzxEkM0l4UkRBhqj3JWn) | [Mitchell Jackson Quartet](https://open.spotify.com/artist/6zV8mNPXyQHoNMxGxlcQXF) | [Soul Eyes](https://open.spotify.com/album/6Y1sADHp2yDRkT6iCPKYTG) | 4:23 | 2022-04-26 | 2023-05-05 |
 | [Lonely Desires](https://open.spotify.com/track/6FgLJ7dCQMjgvqrKnYP1Q6) | [Amir Patel](https://open.spotify.com/artist/2IwMjlPYSZLq7oH4YN4WFy) | [Lonely Desires](https://open.spotify.com/album/6SYo8TS6PN3OIVqSfmUqW1) | 2:41 | 2023-10-13 |  |
+| [Maneiro](https://open.spotify.com/track/5Ibs7bA78QLwMylLggsZpi) | [Eric Merlino](https://open.spotify.com/artist/1vL7K80AJZnr8Y10olI96q) | [Maneiro](https://open.spotify.com/album/2sYgZHT6yCVpbu9omNzrEt) | 4:03 | 2024-02-23 |  |
 | [Maua](https://open.spotify.com/track/02ngxoQds9K80KQk95QDR1) | [Joao Silva Olivieira](https://open.spotify.com/artist/73JoEuxW6Q8dYPQ9oseUmX) | [Mestre Sala](https://open.spotify.com/album/64XduSoe5Uw39MbiGOhs1p) | 5:05 | 2022-12-01 |  |
 | [Meditação](https://open.spotify.com/track/4QdHwCmkuQuKfCuqK0VqOP) | [Michel Rosa](https://open.spotify.com/artist/5tGQbvcsEaVXQ5uD7NzfLV) | [Meditação](https://open.spotify.com/album/7uvnQx1Ih6etuDuFLamyzr) | 6:18 | 2022-04-26 |  |
 | [Mestre Sala](https://open.spotify.com/track/5R9gaRq8mNeuStZxXu1Sr9) | [Joao Silva Olivieira](https://open.spotify.com/artist/73JoEuxW6Q8dYPQ9oseUmX) | [Mestre Sala](https://open.spotify.com/album/64XduSoe5Uw39MbiGOhs1p) | 4:32 | 2022-12-01 |  |

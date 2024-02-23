@@ -4,7 +4,7 @@
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: Dehd
 
-626 songs - 1 day 10 hr 23 min
+627 songs - 1 day 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -435,7 +435,8 @@
 | [Pillar on the Bridge of You](https://open.spotify.com/track/3xLmKij70Eq5j5MsLCFYLt) | [BODEGA](https://open.spotify.com/artist/3lnWfdMG9U0oVMC15SEbB5) | [Broken Equipment](https://open.spotify.com/album/7cQv9A3WQqO4qclDdN2gRB) | 3:17 | 2022-11-04 | 2023-04-09 |
 | [Pinking Shears](https://open.spotify.com/track/25nJyg6wnbRLN1zkmbX8cF) | [Mandy, Indiana](https://open.spotify.com/artist/2nDJxXJ7PtW7eLpFXcGH3u) | [Pinking Shears](https://open.spotify.com/album/5tEQyQksm6Hx1QPpvr8NYK) | 2:32 | 2023-05-22 |  |
 | [PLANT THE FANGS](https://open.spotify.com/track/6AKsTbsS7RJ3oBBlmrkss4) | [Masked Man](https://open.spotify.com/artist/4au9pcYGXtv2fPYbMa6wg5), [BLUE TWO](https://open.spotify.com/artist/46ii392aUgGZUt2rvBrv4m) | [PLANT THE FANGS](https://open.spotify.com/album/3xKtJyeWidxEkuZ1KC5AIl) | 2:05 | 2022-03-11 | 2023-04-15 |
-| [Plastic Pyramid](https://open.spotify.com/track/06SgGRLn7xmwCz8wIxIx8U) | [Omni](https://open.spotify.com/artist/4wBhllC5Nto10UefzXVMt9), [Izzy Glaudini](https://open.spotify.com/artist/1VqGiwhaU2Djzx8UYFKr2x) | [Plastic Pyramid](https://open.spotify.com/album/6EwBOdpvB0ElEPN3Sbpgbv) | 3:25 | 2024-01-13 |  |
+| [Plastic Pyramid](https://open.spotify.com/track/06SgGRLn7xmwCz8wIxIx8U) | [Omni](https://open.spotify.com/artist/4wBhllC5Nto10UefzXVMt9), [Izzy Glaudini](https://open.spotify.com/artist/1VqGiwhaU2Djzx8UYFKr2x) | [Plastic Pyramid](https://open.spotify.com/album/6EwBOdpvB0ElEPN3Sbpgbv) | 3:25 | 2024-01-13 | 2024-02-23 |
+| [Plastic Pyramid](https://open.spotify.com/track/1nxVYkAMpRqLaNLJdggYWa) | [Omni](https://open.spotify.com/artist/4wBhllC5Nto10UefzXVMt9), [Izzy Glaudini](https://open.spotify.com/artist/1VqGiwhaU2Djzx8UYFKr2x) | [Souvenir](https://open.spotify.com/album/703bpbJhzptTx5GTGNQoS4) | 3:25 | 2024-02-16 |  |
 | [Plus One](https://open.spotify.com/track/6zi6Oa8jioqPbeqoCbZCkq) | [Speedy Ortiz](https://open.spotify.com/artist/6YHfq8Pg3lZPo1u0PaQ8ob) | [Plus One](https://open.spotify.com/album/3dqTJ8HgLAqqgHE0ou361D) | 3:16 | 2023-06-30 |  |
 | [Pod](https://open.spotify.com/track/4Pd4s9r2rVwxRq6PqkEAXr) | [Snõõper](https://open.spotify.com/artist/197lTCdMFPariBJ2Xd1xNb) | [Pod](https://open.spotify.com/album/2GjYLE2ifHo7Dyo1sonejL) | 1:41 | 2023-04-14 |  |
 | [Post Ryan \- Edit](https://open.spotify.com/track/529CmaR7Fe7Fq2micbIkgs) | [Gilla Band](https://open.spotify.com/artist/7IdPmzvB3PugXieZE9vS4S) | [Post Ryan](https://open.spotify.com/album/5yymZcgXcokucqKrKdMqNW) | 4:16 | 2022-09-19 | 2023-06-03 |

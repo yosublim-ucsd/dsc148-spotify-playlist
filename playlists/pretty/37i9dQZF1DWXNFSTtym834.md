@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNFSTtym834.md) - [plain]
 
 > The biggest metal songs of the 2000s\. Cover: Slipknot
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,261,134 likes - 100 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,261,364 likes - 100 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNFSTtym834.md) - [plain]
 | 99 | [Suicide Messiah](https://open.spotify.com/track/7ex3AmxCTBz3zXLx6hWy5q) | [Black Label Society](https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5) | [Mafia](https://open.spotify.com/album/0yFCaaNOKgZVhDxZ0mNFeg) | 5:47 |
 | 100 | [Get Up Again](https://open.spotify.com/track/7jClgHzR5JG69gar7rVMoX) | [Flaw](https://open.spotify.com/artist/4hFScNSgSkApFw193xlyH7) | [Through The Eyes](https://open.spotify.com/album/4ENDNin0EF4elzkaWLvbAM) | 2:56 |
 
-Snapshot ID: `MCwzYTYwNzMzMWQ5ZDdiZmYzYWE3NjU1OGE4NzcwMDc0NTVhMTJiZjcy`
+Snapshot ID: `MCxjMWNhZjlmZjI5ZGVkOTcwNWY1MTRiZTdlMjFiNjMxMzkzNjkxYzgx`

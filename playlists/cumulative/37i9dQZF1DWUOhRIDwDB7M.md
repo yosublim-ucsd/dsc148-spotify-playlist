@@ -4,7 +4,7 @@
 
 > Positive and uplifting ambient instrumental tracks.
 
-267 songs - 13 hr 12 min
+270 songs - 13 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Enchanted](https://open.spotify.com/track/04tznUT3mDntcr1Qe04woG) | [Smith/Hill](https://open.spotify.com/artist/7HBGJDqgtjAhCnoFpZzFDS) | [Enchanted](https://open.spotify.com/album/70HO4IL74UmxzVDZ5qOwVu) | 3:03 | 2021-09-06 |  |
 | [Epitome](https://open.spotify.com/track/7lEM6c1Go2pQ4sZ37FZHpg) | [Josefa Charron](https://open.spotify.com/artist/64KLU7MQE2WENVFCjXGk0v) | [Epitome](https://open.spotify.com/album/3qDYhD8GvGsZ4WARJZuDCg) | 2:02 | 2021-09-06 |  |
 | [Escape](https://open.spotify.com/track/7th2hXLHjvUPvxyxHt2IAU) | [Laila Lawson](https://open.spotify.com/artist/7FkVtLkKm15RmW66X3x23z) | [Escape](https://open.spotify.com/album/6Pft1eyl8GjbzywxAnAuen) | 3:44 | 2021-09-06 | 2023-07-15 |
+| [Escapism](https://open.spotify.com/track/6aEP08m5WYICO4WofcP0pn) | [Vista Hierro](https://open.spotify.com/artist/0CALPbZtkitbpbqDjU6Ddp) | [Escapism](https://open.spotify.com/album/7i4BCH82oZU3vWcTTXnOVH) | 3:44 | 2024-02-22 |  |
 | [Eternity](https://open.spotify.com/track/4XZz634KzXkHftaBVyKsS6) | [Slow Clouds](https://open.spotify.com/artist/2R3DV0jv4qC5PHxVnxhQMA) | [Eternity](https://open.spotify.com/album/5EbArSaUXMtF95S2sS4Gvv) | 3:21 | 2021-09-06 |  |
 | [Eudoxie](https://open.spotify.com/track/1onEytWdEeDCZoyF8VOOA9) | [Irizarry Barraza](https://open.spotify.com/artist/3l8Rz2GBf5iqZUpd4FjlLW) | [Eudoxie](https://open.spotify.com/album/402X73RJSmxYwo0ndY8A21) | 3:33 | 2021-09-06 |  |
 | [Europa](https://open.spotify.com/track/5A3kw1qZP3UQwzfALXmVFd) | [Heddwch](https://open.spotify.com/artist/5Oj3bW1BamBPQQveuX6o1i) | [Europa](https://open.spotify.com/album/0tvUIHd5KOv2cRnKPkzq5t) | 3:13 | 2022-05-05 |  |
@@ -159,8 +160,10 @@
 | [Ljung](https://open.spotify.com/track/4S3rgz60bvE155xKGyCaZe) | [Fjellet](https://open.spotify.com/artist/4S0x628hBw2YQyh0hCQAf8) | [Ljung](https://open.spotify.com/album/6xKGBiSNUOB37r84vLhPWJ) | 2:00 | 2021-12-22 |  |
 | [Lonely Hearts](https://open.spotify.com/track/2NHvznYFCm8Fx7UE7sTZGa) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Summer Memories](https://open.spotify.com/album/1qf7trVq03K5jA7hCiy1Vi) | 2:45 | 2021-09-06 |  |
 | [Luminary](https://open.spotify.com/track/137CbIbl9SXUiCS2R58Uqz) | [Spherical Harmonics](https://open.spotify.com/artist/6zmgXBf7eD1SpC4O5NJo0H) | [Luminary](https://open.spotify.com/album/5VyVfg2OuhWr4yQMpketLt) | 3:24 | 2023-12-04 |  |
+| [Lunar Dreamscape](https://open.spotify.com/track/5t9XohWGihplq53Gi4lfQE) | [Terra Armoniosa](https://open.spotify.com/artist/0AkcSI557MXz8GvC7fbyVT) | [Lunar Dreamscape](https://open.spotify.com/album/0osy0lravryxj4wRzC6kFU) | 2:58 | 2024-02-22 |  |
 | [Lunaria](https://open.spotify.com/track/64NfNdH3XaMEpchQznOuxl) | [Francesca Caroléo](https://open.spotify.com/artist/2odGPzJOIq98kgGB8N93Ke) | [Lunaria](https://open.spotify.com/album/7DU0LoKUQb14uqooXRxLPn) | 1:52 | 2021-09-06 | 2023-07-29 |
 | [Lupus Dream](https://open.spotify.com/track/5PZASTgARJNAA849LvrAz5) | [Lama House](https://open.spotify.com/artist/3We2SFbH59mXg6D42TPhWJ) | [A New Constellation](https://open.spotify.com/album/20auUkhq5BLo3ab520baTi) | 3:17 | 2021-09-06 | 2023-03-18 |
+| [Manitoba](https://open.spotify.com/track/0bPvqnt9L5FNrHAMO7MdMh) | [Benjamin Rhey](https://open.spotify.com/artist/1hD3DmoEBRAveULl3BCFGe) | [Manitoba](https://open.spotify.com/album/3IlPtuf3cP1V6QdqJgeMsb) | 2:21 | 2024-02-22 |  |
 | [Mayor Menor](https://open.spotify.com/track/5nrBW6ySNOcXTzC7WcpyNf) | [King Kuelgue](https://open.spotify.com/artist/5PIv0hL3wDUZ57va29ZKeT) | [Tres](https://open.spotify.com/album/2QCMu5Nsx4Cs1Rl3m2tq7j) | 1:52 | 2021-09-06 | 2023-07-29 |
 | [Meditations pt 1](https://open.spotify.com/track/6vOgKvTHr4NO9YPsZQfiDX) | [Estado De Calma](https://open.spotify.com/artist/0E1GrT0XtW2bcQvEuu7ajV) | [Meditations pt 1](https://open.spotify.com/album/4VNV5Z6ESAqrAjbe7nwIq9) | 2:30 | 2021-09-06 |  |
 | [mellow](https://open.spotify.com/track/1yJXNOEP2bq1N1691n37oS) | [cloudcrush](https://open.spotify.com/artist/3S1Kdh8aXPKVbs1dZnrRST) | [sleep escape](https://open.spotify.com/album/4XrIUaNhTJFVDrfykbsnAN) | 2:24 | 2021-09-06 |  |

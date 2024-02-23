@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 
 > Lavando e louvando a Deus com grandes hinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 412,207 likes - 70 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 412,265 likes - 70 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 | 69 | [Jesus em Tua Presença // Ao Único // Eu Navegarei \- Ao Vivo](https://open.spotify.com/track/3FL7T4DvAFmnVNpnnvZqNb) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Jesus em Tua Presença // Ao Único // Eu Navegarei \(Ao Vivo\)](https://open.spotify.com/album/6bf32mEPUvr7XLD2oStDL7) | 11:09 |
 | 70 | [O Que Sua Glória Fez Comigo](https://open.spotify.com/track/0Y9nHU2Fhl76LHbRRmNQ6X) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Da Eternidade](https://open.spotify.com/album/0Djnza7Nqw27F8YqJL0R64) | 6:39 |
 
-Snapshot ID: `MCw4NzQyYThmZTM3NTQyOTViZDYyNDBiZGFiYzc2YTc2NzY3ZTBjZGEx`
+Snapshot ID: `MCxhMTZjOTFiMzcwYzk3YmVlOGFlOTA4YTdhOWU2YzM0NmU3YmFmODM1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYC7hFn0j2HC.md) - [plain]
 
 > ¡Lo mejor de los charros cantores! Vicente Fernández en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,512 likes - 70 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,620 likes - 70 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYC7hFn0j2HC.md) - [plain]
 | 69 | [Retirada](https://open.spotify.com/track/6kYxWFXzSkvwYBcdrHSFSD) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Sombras](https://open.spotify.com/album/38BNQJvYJ4KPOmAT9dEq9B) | 2:52 |
 | 70 | [La Puerta Negra](https://open.spotify.com/track/2yAbDJYqqZDxM399YpQy8U) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar con Mariachi](https://open.spotify.com/album/1avd5vgMRyfa6YD4LuZh2n) | 3:15 |
 
-Snapshot ID: `MCw4MTM2ZWFjYWFkYTU0NGU2NTBhYmE1Y2E5YmRkNTc5NDllOTYxYWNh`
+Snapshot ID: `MCxkNTAwZDdlNDYxM2YwNGNiYjlhNGYzNzc4ZTYwYWEyM2FiOTk2YTE0`

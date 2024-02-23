@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTGsgbBDhyNA.md) - [plain]
 
 > Playlist oficial del podcast <a href="spotify:show:1MAoOdM2Xx9TayWrXQ2MCj"> Momentos Chingones</a> donde tendrás las noticias más frescas y los hits del momento de la Música Mexicana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,419 likes - 34 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,482 likes - 34 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTGsgbBDhyNA.md) - [plain]
 | 33 | [La Intención](https://open.spotify.com/track/05tGmdz9dVZ4yGqz4YJdPK) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [La Intención](https://open.spotify.com/album/3tKHDHYrbcCFDC1yDeLOx2) | 4:09 |
 | 34 | [LADY GAGA](https://open.spotify.com/track/7mXuWTczZNxG5EDcjFEuJR) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 3:32 |
 
-Snapshot ID: `MCwxNDU4ZmYwYjFlZTU2ODNlZTYyNzZjMzY3ZGYwMDI4ODMxM2MzMDQ5`
+Snapshot ID: `MCxhZGVlOGU4MDg0ZTFmYzFjYmMzMzJkYWJjMTY5ZmZlNTdmOTI5ZDY1`

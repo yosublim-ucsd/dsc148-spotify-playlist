@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: Hedigan’s
 
-1,359 songs - 3 day 12 hr 16 min
+1,361 songs - 3 day 12 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -393,6 +393,7 @@
 | [Just an Ordinary Sunday](https://open.spotify.com/track/6p6NytZ2eNa7ZWstx6Kvva) | [EMPTYSCENARIO](https://open.spotify.com/artist/6KbPaXqXnqgcSfdK1kN9lu) | [Just an Ordinary Sunday](https://open.spotify.com/album/02s2ewiUd2YgGpL5uH9WWq) | 3:02 | 2023-08-15 | 2023-11-28 |
 | [Just Wanna Live It Up](https://open.spotify.com/track/5cqsYIfTp31RBjyJURiku7) | [Sugar House](https://open.spotify.com/artist/688OLNQQtC0VGgYhVXCYVP) | [Just Wanna Live It Up](https://open.spotify.com/album/0ZovDMTQVxsIrCBffLVH49) | 4:46 | 2023-04-04 | 2023-04-12 |
 | [jya\-ji](https://open.spotify.com/track/11cyQJ1nsaOPoIfQRqUZep) | [saba sister](https://open.spotify.com/artist/2E9ODwADhw1qvfO9BXAkGX) | [Saba No Ichi](https://open.spotify.com/album/4h0gEOGeWn8Dc22RJ0McFN) | 2:35 | 2024-01-11 |  |
+| [Kabaddi](https://open.spotify.com/track/6qnjIrbnUsIYA3BnqLm8tJ) | [DALLJUB STEP CLUB](https://open.spotify.com/artist/2PLYQ204zNBkuTzt9T19Zv) | [3%](https://open.spotify.com/album/6XtTiZ532bUHpbIZtLX26K) | 3:38 | 2024-02-22 |  |
 | [Kaigara Bushi](https://open.spotify.com/track/1h3R8qQQg7XXxJXtXC2K1F) | [民謡クルセイダーズ](https://open.spotify.com/artist/6y2mWIw5wZardbauKap0LI) | [Tour of Japan](https://open.spotify.com/album/7wGkxUU2BAHk6vPEypdUJ2) | 5:25 | 2023-11-23 | 2023-12-06 |
 | [Kaka feat\. punipunidenki](https://open.spotify.com/track/7ad6IlRnchYtUIBGC8BUdf) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb), [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK) | [Kaka feat\. punipunidenki](https://open.spotify.com/album/6V4s8g2PPSNOBuNT8g517t) | 4:05 | 2023-09-20 | 2023-10-18 |
 | [Kakitai](https://open.spotify.com/track/2zKDI5j1TARoklb76FJ2CW) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [Sweet.ep](https://open.spotify.com/album/2D2D5bX44DRCqC9ON4hGJF) | 3:44 | 2023-04-11 | 2023-05-31 |
@@ -435,7 +436,7 @@
 | [Lights Out](https://open.spotify.com/track/2HimnwGFDGe1DNE1RdkQYN) | [EASTOKLAB](https://open.spotify.com/artist/2oP86D3OWdYeX1OG2chPuu) | [Lights Out](https://open.spotify.com/album/4rDonhNZ6ckv15jHzR1cit) | 3:32 | 2023-11-14 | 2023-11-25 |
 | [Link](https://open.spotify.com/track/52DdvqVipvD6SsdxumQlLa) | [DIMWORK](https://open.spotify.com/artist/1LF1v18dJ7OGuGdju3T56d) | [ANORAK! / DIMWORK](https://open.spotify.com/album/104w26GFWkYQErMzsQ8ISZ) | 4:53 | 2023-08-08 | 2023-08-16 |
 | [lonely & lonely](https://open.spotify.com/track/4GGmUBA5w9sABmbnnBLee9) | [WANG GUNG BAND](https://open.spotify.com/artist/7yHwDGb1SxYEJGjqnjTNtP) | [lonely & lonely](https://open.spotify.com/album/6EemxOgxgfGbYPlSEvpkFR) | 3:57 | 2023-08-15 | 2023-08-23 |
-| [Lonely star](https://open.spotify.com/track/0Cwn9uG2MvqkZ7tQ9uk4yd) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [Lonely star](https://open.spotify.com/album/5pE7WbMog2Ask6PG54qvAc) | 3:47 | 2024-01-30 |  |
+| [Lonely star](https://open.spotify.com/track/0Cwn9uG2MvqkZ7tQ9uk4yd) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [Lonely star](https://open.spotify.com/album/5pE7WbMog2Ask6PG54qvAc) | 3:47 | 2024-01-30 | 2024-02-23 |
 | [Long Night out \- アツムワンダフル Recreation](https://open.spotify.com/track/0iyJmh8QdhR0ChB97XjH7k) | [futures](https://open.spotify.com/artist/2wtFS2xpKzmzVCD1k9vhI6), [アツムワンダフル](https://open.spotify.com/artist/5bSP4BWuxMm8IaUdgLg1qW) | [Long Night out \(アツムワンダフル Recreation\)](https://open.spotify.com/album/0OxxY99Tn9n5Miz4ZQZR36) | 4:20 | 2024-01-30 | 2024-02-07 |
 | [Looking 4u](https://open.spotify.com/track/1klLWilNyA3eCOvvw0y1sQ) | [Neibiss](https://open.spotify.com/artist/0aTXphzBvPlvIirCBLEaTG) | [Daydream Marker](https://open.spotify.com/album/4wKlHESfXOKQhuk4s6zXyJ) | 3:40 | 2024-02-13 | 2024-02-21 |
 | [Lost](https://open.spotify.com/track/4gcA5iPJh6mPAJ0rHkBgpV) | [Okada Takuro](https://open.spotify.com/artist/4d4VL0LIBWkVXAq4YZ07wm) | [Morning Sun](https://open.spotify.com/album/0YbataSydU54bA7P2wnwYx) | 2:35 | 2023-03-30 | 2023-06-08 |
@@ -518,6 +519,7 @@
 | [Mystery Train \- feat\. Wez Atlas](https://open.spotify.com/track/0v2zPLhc7ZROOxz1uOQjps) | [Helsinki Lambda Club](https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5), [Wez Atlas](https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ) | [Mystery Train \(feat\. Wez Atlas\)](https://open.spotify.com/album/19pg8oyWhvQ9ILkHML1Uo4) | 3:41 | 2023-03-30 | 2023-06-21 |
 | [Naiya](https://open.spotify.com/track/1wcJpJWF1aK1WHyl7vjTR2) | [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [Naiya](https://open.spotify.com/album/3ifbPgar0fxH4qyznObkn9) | 2:16 | 2024-01-11 |  |
 | [Nanairo Colorful](https://open.spotify.com/track/4BNOwFIKjYB56oFhCZx57O) | [Daoko](https://open.spotify.com/artist/5Qeyh2XKoITt1mlEVtzazC), [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE) | [Nanairo Colorful](https://open.spotify.com/album/357Rk5z5HzJ6HIb12RgZYq) | 2:42 | 2023-12-19 | 2024-01-17 |
+| [Nandakke?](https://open.spotify.com/track/3lgPLaan7Kt1KGfNGdtMO8) | [Aili](https://open.spotify.com/artist/4hKrRKWY1mF3LTwGIMj99R) | [Nandakke?](https://open.spotify.com/album/47MNeiL3ppEnb4WwSa27hM) | 2:53 | 2024-02-22 |  |
 | [Nantonaku Haru](https://open.spotify.com/track/1OExZqhRRwlaiRtsg3RhhD) | [Soul Babies](https://open.spotify.com/artist/4XcuqT0ZwHVBmB5sDUS0du) | [Nantonaku Haru](https://open.spotify.com/album/6QD4Xc2JiVOuy4KBedARoY) | 4:49 | 2023-03-21 | 2023-03-29 |
 | [narashite \- Audiotree Live Version](https://open.spotify.com/track/71fkJnR1lE164GspbrcFUA) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Audiotree](https://open.spotify.com/artist/1j8QyWpOJKAe6Iw2KvEg2j) | [HARU NEMURI on Audiotree Live](https://open.spotify.com/album/4VJQdztVh2Pkt6nOt7h1D3) | 3:17 | 2023-02-14 | 2023-03-29 |
 | [naretara…](https://open.spotify.com/track/3v7CKCS4zylNue6cX300Ct) | [iiichanman](https://open.spotify.com/artist/6I8QBjbVfdeTc0uBFdxHOS) | [naretara…](https://open.spotify.com/album/61BfDM9fGprAkmDgKi3gpg) | 3:13 | 2024-02-13 | 2024-02-21 |
@@ -1165,7 +1167,7 @@
 | [夜の流れ](https://open.spotify.com/track/4QL8gzhgrPMsEjnSO76Yfp) | [Cantaro Ihara](https://open.spotify.com/artist/0Mjk62ywbh7Y0GWw4grdLe) | [Portray](https://open.spotify.com/album/4gf7SnhuI71ZpFVivmLQiF) | 4:36 | 2023-04-27 | 2023-05-23 |
 | [夜明けの夢](https://open.spotify.com/track/5ZT98DGg4bjyrGOEyl80SL) | [Haruna Yusa](https://open.spotify.com/artist/3lc5Z805sOOFhD7BcUlMG2) | [夜明けの夢](https://open.spotify.com/album/4QN0scuxcn5OBVN7g8gMF5) | 3:12 | 2023-08-08 | 2023-08-16 |
 | [夢](https://open.spotify.com/track/6sfO55yUSONmh8PT7wgcy5) | [Izumi Makura](https://open.spotify.com/artist/012ldd58H1N5UZLxjMzV29) | [夢](https://open.spotify.com/album/1y4H0diX3fRtiDmjYr5KyK) | 3:53 | 2023-06-13 | 2023-07-20 |
-| [夢にならないように](https://open.spotify.com/track/3akniqbPdq5nhh19QtxAq2) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [陽気な休日](https://open.spotify.com/album/6j9nxtP0BmchrWc9JkBT2G) | 4:28 | 2023-01-31 |  |
+| [夢にならないように](https://open.spotify.com/track/3akniqbPdq5nhh19QtxAq2) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [陽気な休日](https://open.spotify.com/album/6j9nxtP0BmchrWc9JkBT2G) | 4:28 | 2023-01-31 | 2024-02-23 |
 | [夢の恋人](https://open.spotify.com/track/1k8nHi41KYSvsUFivUuZ3T) | [ZOOKARADERU](https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp) | [夢が醒めたら](https://open.spotify.com/album/7cd2jEnLcsoH3BY86ncs7z) | 3:20 | 2023-03-28 | 2023-04-05 |
 | [夢占](https://open.spotify.com/track/6jczRyvwF3406OoInAJJ6X) | [SAI](https://open.spotify.com/artist/26CHm3gYd2zeEfTZeyZzal) | [水中庭園](https://open.spotify.com/album/4FxkA4os4gczMz5KifOc8b) | 2:19 | 2023-04-11 | 2023-05-10 |
 | [大天国 \- Live](https://open.spotify.com/track/0KmmAbzOkV0fSX2tEBGmsQ) | [Shimizu Bonnou](https://open.spotify.com/artist/5cOIrWBIepCzxuXh03X5zb) | [2023年12月13日7人編成 \(Live\)](https://open.spotify.com/album/5htPgk9AjglTmT00TPGlFf) | 4:24 | 2024-01-23 | 2024-01-31 |

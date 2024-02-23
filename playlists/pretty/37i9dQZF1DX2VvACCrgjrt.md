@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VvACCrgjrt.md) - [plain]
 
 > Real nasty house\. Cover: BIJOU and Dr\. Fresch
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,611 likes - 125 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,652 likes - 125 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VvACCrgjrt.md) - [plain]
 | 124 | [Step Back](https://open.spotify.com/track/7opSc1BeR7P8v0i3QYUi0W) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz) | [Step Back](https://open.spotify.com/album/2L8DBsnUXZTi2R9y0BTzjI) | 2:53 |
 | 125 | [Mumble](https://open.spotify.com/track/0jWu42iPy82XVVKOyNVLPA) | [OOTORO](https://open.spotify.com/artist/3kWLEfykUXgiuhbR2NwnLI) | [Poissound](https://open.spotify.com/album/392617G8Fahkedg4Vejmsu) | 3:42 |
 
-Snapshot ID: `MCw3ZjBlOGIxNTg0ZDU1YWIyYzI5MGI4NjYxMTE4Y2QzOTMwZjliNWVm`
+Snapshot ID: `MCwyNWQxMGIyNzZkOGUwOTQzOTZjMjRkNWMxN2NhZWVmNjI1OTE4NDQz`

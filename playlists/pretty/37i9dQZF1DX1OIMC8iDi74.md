@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 
 > The best of electronic trap\. Cover: Fabian Mazur
 
-[Spotify](https://open.spotify.com/user/spotify) - 889,346 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 889,355 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 99 | [Visions](https://open.spotify.com/track/3xY1Z0W0UO1itJoa5wpA95) | [BEATSMASH](https://open.spotify.com/artist/7FFbcFSr2g8ylh2P0S7TTB), [Slanks](https://open.spotify.com/artist/3ubgPaF0WJapZWk05Olf2p), [Drama B](https://open.spotify.com/artist/1Ars2RdXFbmt04pZ5g2RNr) | [Visions](https://open.spotify.com/album/60ljn2ZV5TP3v0NHbEJ3VM) | 2:43 |
 | 100 | [Got Me Like](https://open.spotify.com/track/4JPG8zY4MKIrchfyFGOEPU) | [Big Gigantic](https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r) | [Leisure Season Vol\. 1](https://open.spotify.com/album/0hUxMTFyT6xRfWfsBaCIYg) | 2:51 |
 
-Snapshot ID: `MCwxN2U1MjUzOTAxMGIyNjZhZTM4ZjIyZGE4NjVkMDIwNGZiYTBmOTVi`
+Snapshot ID: `MCw3NjFkM2RiZmNmZmIzMjczN2M0ZTA0ZmZiYzI3NzI2MGEzODlhNDY5`

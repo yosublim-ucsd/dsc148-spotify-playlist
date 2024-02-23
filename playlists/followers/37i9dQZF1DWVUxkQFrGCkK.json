@@ -1,5 +1,5 @@
 {
-  "2024-02-22": 243627,
+  "2024-02-23": 243835,
   "date_first_scraped": "2023-04-15",
   "description": "Tulum szn",
   "name": "Umami",
@@ -2580,6 +2580,24 @@
     },
     {
       "album": {
+        "name": "Famax",
+        "url": "https://open.spotify.com/album/1wwVoTyNUWFP6BAOcGWbZI"
+      },
+      "artists": [
+        {
+          "name": "RAFFA GUIDO",
+          "url": "https://open.spotify.com/artist/5zvKbKHQcyZFvTYADnEkTQ"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335194,
+      "name": "Famax",
+      "url": "https://open.spotify.com/track/4yhqQAKFiHNCXpxxFVhxRq"
+    },
+    {
+      "album": {
         "name": "Famax / Mala Fama / Yafama",
         "url": "https://open.spotify.com/album/0hhxk3OBEzpwJqAEABTNdp"
       },
@@ -2591,7 +2609,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 335194,
       "name": "Famax",
       "url": "https://open.spotify.com/track/72zBuma8aAT4UGTijcHQHx"

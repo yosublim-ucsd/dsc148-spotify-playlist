@@ -3498,7 +3498,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 266085,
       "name": "\u60f3\u5ff5\u64ec\u4eba\u5316",
       "url": "https://open.spotify.com/track/2QkELHIEQONatqO5ZrE5H7"
@@ -6156,6 +6156,24 @@
       "duration_ms": 300032,
       "name": "\u8caa",
       "url": "https://open.spotify.com/track/0eUN4ME3OZsaIC3ecHjbtg"
+    },
+    {
+      "album": {
+        "name": "\u8ddf\u6211\u4f86 (Acoustic Version)",
+        "url": "https://open.spotify.com/album/6oOj4SXZ6dt5dn0BpoCC9z"
+      },
+      "artists": [
+        {
+          "name": "Jinbo",
+          "url": "https://open.spotify.com/artist/2QlEDg87oaNdcAA1O7dIIC"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "\u8ddf\u6211\u4f86 - Acoustic Version",
+      "url": "https://open.spotify.com/track/6anxzdzGCEdYUnaA2T92eF"
     },
     {
       "album": {

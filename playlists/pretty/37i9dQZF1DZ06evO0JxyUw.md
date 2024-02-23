@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0JxyUw.md) - [plain]
 
 > This is Christina Aguilera\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,006 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,046 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0JxyUw.md) - [plain]
 | 43 | [Por Siempre Tú](https://open.spotify.com/track/6jSxXM35ohsLj636rJoFg2) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Mi Reflejo](https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK) | 4:04 |
 | 44 | [Steppin' Out with My Baby \(with Christina Aguilera\)](https://open.spotify.com/track/04LAPXr5C6W4ufoCVxr5Bx) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Viva Duets](https://open.spotify.com/album/4bePJNQoFZ2FhPHgBPmvbv) | 2:02 |
 | 45 | [Fall In Line \(feat\. Demi Lovato\)](https://open.spotify.com/track/25qfFpoGhk9Njgu5nl36sS) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Fall In Line \(feat\. Demi Lovato\)](https://open.spotify.com/album/323CkC5IKF9IakoJFSE8Yy) | 4:08 |
-| 46 | [Suéltame](https://open.spotify.com/track/11dM832bBziKUZvI3tCfW5) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [AGUILERA](https://open.spotify.com/album/1yzGdDRVUtPRGWATYs7J35) | 2:53 |
+| 46 | [Haunted Heart](https://open.spotify.com/track/7qcanNUZ2M1kfBPuzHHVgj) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Haunted Heart](https://open.spotify.com/album/4Qe5hKn7JNQ55cBCMhQCUC) | 2:46 |
 | 47 | [Contigo en la Distancia](https://open.spotify.com/track/3iNPY9AOdaklvkNAgmRHRk) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Mi Reflejo](https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK) | 3:43 |
-| 48 | [Haunted Heart](https://open.spotify.com/track/7qcanNUZ2M1kfBPuzHHVgj) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Haunted Heart](https://open.spotify.com/album/4Qe5hKn7JNQ55cBCMhQCUC) | 2:46 |
+| 48 | [Suéltame](https://open.spotify.com/track/11dM832bBziKUZvI3tCfW5) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [AGUILERA](https://open.spotify.com/album/1yzGdDRVUtPRGWATYs7J35) | 2:53 |
 | 49 | [Infatuation](https://open.spotify.com/track/1Bwq4TKxWqvSgyHZN06wId) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Stripped](https://open.spotify.com/album/2USigX9DhGuAini71XZEEK) | 4:17 |
 | 50 | [Save Me from Myself](https://open.spotify.com/track/7aLQoD4MWkYQjZuTQKuT9Y) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Back To Basics](https://open.spotify.com/album/0zRJsgzHZUUdk8Rjk6Segd) | 3:13 |
 
-Snapshot ID: `Mjg0NzUyOTAsMDAwMDAwMDA2N2RlNWMxYjQ3Y2ZiZWFlYWNkNTg3ZDI5OWRjZTY4Zg==`
+Snapshot ID: `Mjg0NzcwNzUsMDAwMDAwMDBjNTQ0ZGY3Yjk5NzY2M2MxZWJlMGJjNDhlZWFlODE3MA==`

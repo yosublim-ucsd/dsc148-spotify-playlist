@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ngEVM0lKrb.md) - [plain]
 
 > Lo mejor en inglés de la última década\. Para novedades, escucha <a href="spotify:playlist:37i9dQZF1DX6aTaZa0K6VA">Pop Up</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 604,715 likes - 150 songs - 8 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 605,105 likes - 150 songs - 8 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ngEVM0lKrb.md) - [plain]
 | 149 | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 3:32 |
 | 150 | [Let Her Go](https://open.spotify.com/track/1KxwZYyzWNyZSRyErj2ojT) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [All The Little Lights](https://open.spotify.com/album/52ukyDfkPmF4X6EcSYVfVJ) | 4:12 |
 
-Snapshot ID: `MCw0OGU4ZGE2ZjA3OGFmMTE1MWVkMjU0ZDcwMTc2ODIyZWFjY2U1ZTA5`
+Snapshot ID: `MCwxMzk2YjNiMTQyYzhiY2VmYzBhZDFkMGY0YzNjNTg3NjU4ZGFmN2My`

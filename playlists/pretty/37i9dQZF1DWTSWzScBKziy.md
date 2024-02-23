@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 
 > Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  K\-Anthony
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,858 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,923 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 | 99 | [Plans](https://open.spotify.com/track/7ylUm6UwDblnxBNFq1E0nh) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Plans](https://open.spotify.com/album/5p3ZxGjxM3xnGi8gzHLU6f) | 3:42 |
 | 100 | [Revival](https://open.spotify.com/track/5UC1B9KaUWKFUYNFrklGxQ) | [Daniel Doss](https://open.spotify.com/artist/5KUNK8C0taPJnUD0xvPQaC) | [Revival](https://open.spotify.com/album/350DvgUbR83wdpqAIEAUeU) | 3:29 |
 
-Snapshot ID: `MCxkOGRiZDc1NjM1ZTIwZmZhMzMxNjVmYmUwMDJjMDJkMzNiMWMxZTQx`
+Snapshot ID: `MCw3ZjRjZGEwZDAyOTgwZGJjZTg5OTdlZmJkYTc2NjYzNWM3YzU5NzUy`

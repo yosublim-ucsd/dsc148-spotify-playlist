@@ -4,7 +4,7 @@
 
 > Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: Asa
 
-190 songs - 11 hr 22 min
+192 songs - 11 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Fall](https://open.spotify.com/track/2PE70oh4iy1VCSxG9H1vdu) | [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [ROOTS](https://open.spotify.com/album/2OU0uJWqRBeAokBzjvAiRF) | 3:05 | 2020-08-28 | 2023-01-28 |
 | [Fallo Fall](https://open.spotify.com/track/04BumdOBKWl5LcGkUAMZTU) | [Afro Begue](https://open.spotify.com/artist/00WVDGi6uKfbfd97rreoQA) | [Lou Bess Dioudouna](https://open.spotify.com/album/3whvMDSCMRddEOXqENyP7l) | 5:06 | 2022-11-04 | 2022-12-09 |
 | [For You](https://open.spotify.com/track/37cZqoXsZiqJ4JN82lNthD) | [Dolapo Martins](https://open.spotify.com/artist/4I7iWiZjm7vAJvePf3iRQT) | [For You](https://open.spotify.com/album/3mXWpQc1yhsTIJKon60KFr) | 2:19 | 2023-04-27 | 2024-01-19 |
+| [Foya](https://open.spotify.com/track/2zAaSEZzHHEVqvD18wgoXN) | [Yaans](https://open.spotify.com/artist/2aBmsHCMYVxE84mbhFhj4k), [Wisdom](https://open.spotify.com/artist/7pyynkEL0G0TzqIvVWEEWE) | [Foya](https://open.spotify.com/album/2dzONdn4K6iqxZy8rVfyjS) | 4:08 | 2024-02-23 |  |
 | [Give Thanks & Praises](https://open.spotify.com/track/6ufkeDENtPwmyGQlZoboTM) | [Philippe Cohen Solal](https://open.spotify.com/artist/0EFmOtI513PheI6td8B5WV), [Keziah Jones](https://open.spotify.com/artist/7fkVKWnSaQNFwqrR62vsSo) | [Give Thanks & Praises](https://open.spotify.com/album/61vhDxm4zijV1ESUdSd9hK) | 3:23 | 2023-02-03 | 2023-04-21 |
 | [GO WITH GUT](https://open.spotify.com/track/7mRFGJZ5TUuNbOALh3tDwV) | [KABEAUSHÉ](https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj) | [GO WITH GUT](https://open.spotify.com/album/01Xj382BlVU0Jlcd46b4ra) | 3:20 | 2023-09-21 |  |
 | [Good](https://open.spotify.com/track/4Gur4FdxkmXH8x3DCmYmz0) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [José Louis And The Paradox of Love \(Deluxe\)](https://open.spotify.com/album/5XPNisbGcTvrjvQ0jnKyxD) | 3:15 | 2023-06-30 | 2023-07-29 |
@@ -68,7 +69,7 @@
 | [Imali](https://open.spotify.com/track/0POdzGSgOhsL9oPX4ERj6q) | [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Hammarsdale](https://open.spotify.com/album/3UkDRVrOBRrMvoMsb0EGim) | 2:42 | 2023-08-03 | 2023-08-05 |
 | [Imali](https://open.spotify.com/track/3Z9lmDapyI88AyHZ8utTf1) | [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Hammarsdale](https://open.spotify.com/album/1bgbyxRaOGJaHu4Qze6rle) | 2:42 | 2023-08-03 |  |
 | [In My Soul](https://open.spotify.com/track/3CMfurJL0T1OZPKU1RdYUc) | [Shalom Dubas](https://open.spotify.com/artist/2ys4tbtUpMQd5eujuaRXSj) | [In My Soul](https://open.spotify.com/album/5XzrqHjTXVWn6WRnLVawep) | 3:02 | 2023-10-13 | 2023-11-10 |
-| [In The Clouds](https://open.spotify.com/track/4CIOeAaG7HTGFL2OZjbB9k) | [Adomaa](https://open.spotify.com/artist/4D29Hq7QjKomhnDDvyb99e) | [In The Clouds](https://open.spotify.com/album/79eYcHk7WngNWEIAP68pmn) | 3:23 | 2022-09-23 |  |
+| [In The Clouds](https://open.spotify.com/track/4CIOeAaG7HTGFL2OZjbB9k) | [Adomaa](https://open.spotify.com/artist/4D29Hq7QjKomhnDDvyb99e) | [In The Clouds](https://open.spotify.com/album/79eYcHk7WngNWEIAP68pmn) | 3:23 | 2022-09-23 | 2024-02-23 |
 | [Inauma](https://open.spotify.com/track/3HlLqEWLhoKV9GVVOFerQb) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Inauma](https://open.spotify.com/album/2XucwpZyoKaEjM8lJyZCX5) | 3:30 | 2022-07-28 | 2022-11-26 |
 | [iNtwenhle](https://open.spotify.com/track/5EuU8UQ4bWYr5oUeiGAUhL) | [Thando Zide](https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2), [Kaelan DiJulio](https://open.spotify.com/artist/4jFzUXVreZE4PeLQLASASx) | [iNtwenhle](https://open.spotify.com/album/4YldSI7awi0p2CgqxphLTn) | 3:34 | 2023-11-17 |  |
 | [Isoka](https://open.spotify.com/track/2gO1rty4jBXQaP7jSuVIh2) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn), [Q Twins](https://open.spotify.com/artist/2krUPP3nMYoF1C5WX3yB7J), [Mzukulu](https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3) | [Isibuko](https://open.spotify.com/album/4yFM1aHZINPJ8p9Ei7uLOR) | 4:38 | 2023-01-27 | 2023-09-29 |
@@ -116,6 +117,7 @@
 | [No More Wars](https://open.spotify.com/track/2jTkWgm19fYZgfxxt9eTY3) | [Mádé Kuti](https://open.spotify.com/artist/1ZeiiasZFdLdliVe0TJI7b) | [No More Wars](https://open.spotify.com/album/36CHxQaUH868DavFDk71QV) | 3:40 | 2022-08-05 | 2023-04-15 |
 | [No No No](https://open.spotify.com/track/1zhw7Isr1B4UdYUrALHXhJ) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [José Louis And The Paradox Of Love](https://open.spotify.com/album/5tDp9bLRK35HVbFIG80lpf) | 3:00 | 2022-04-28 | 2022-10-14 |
 | [noba bangathini](https://open.spotify.com/track/4qfoM0662Amfu0vUBhxzQP) | [Bongeziwe Mabandla](https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy) | [noba bangathini](https://open.spotify.com/album/6bAahiYLIo1WGuiSip2EU0) | 4:50 | 2023-01-27 | 2023-03-31 |
+| [Nyoni Yami](https://open.spotify.com/track/1hO7XxOmMRAo3gj2UYqqEg) | [Jabulile Majola](https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF), [Yoav](https://open.spotify.com/artist/2TUFDVa7aZJ4O9U0qjrSJH) | [Nyoni Yami](https://open.spotify.com/album/1U2hqgPgcpntPLQyYnBxUy) | 3:32 | 2024-02-23 |  |
 | [ODO](https://open.spotify.com/track/5rRKhpWLZzDp8a7KZ4wPYO) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc) | [ODO](https://open.spotify.com/album/767cvHiLzCJBzufXLwZg7i) | 3:18 | 2024-02-02 |  |
 | [Oh Shoot](https://open.spotify.com/track/4kHKic91jzEObqoLgYzROV) | [Matt Ngesa](https://open.spotify.com/artist/38jStfZwiNvdn1PKt9ma35) | [Oh Shoot](https://open.spotify.com/album/5Hq2dnXCD2b5HVhy8wwP9U) | 2:49 | 2023-03-30 | 2023-04-28 |
 | [OLE](https://open.spotify.com/track/3ugqlQkSvdAckn4uNOlzQF) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [OLE](https://open.spotify.com/album/72Gkfhx9bDh2LMrO2vMaPy) | 2:31 | 2023-04-14 | 2023-12-09 |
@@ -192,7 +194,7 @@
 | [Woman King](https://open.spotify.com/track/1OBzOpEaPjWE7lnGsmF4vA) | [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [African Royalty](https://open.spotify.com/album/2bh6NRrRmiKVSST5ia5JpK) | 2:37 | 2023-12-01 |  |
 | [Wonderful](https://open.spotify.com/track/4p1tpwSTLqFBGEZKQQ03JR) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [Okay Baby, Lets Do This](https://open.spotify.com/album/6mF7YvP41L2d40LkDVLsfp) | 3:32 | 2023-06-08 |  |
 | [Working on You](https://open.spotify.com/track/20elM8EhWy52VmxbjEWCkn) | [Alien Em](https://open.spotify.com/artist/5ol84ORfazc9kNCz4V2ixt) | [Working on You](https://open.spotify.com/album/7tpq3j1GIJ2Ii1zvqiTU4u) | 2:56 | 2023-03-24 | 2023-05-05 |
-| [Wrong for It](https://open.spotify.com/track/4kntTTVtSIfsTl1dEak3X7) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h), [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ) | [Some Nights I Dream of Doors](https://open.spotify.com/album/4b5bbOFp8eUd5QxQJ6jFs3) | 3:22 | 2022-05-12 |  |
+| [Wrong for It](https://open.spotify.com/track/4kntTTVtSIfsTl1dEak3X7) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h), [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ) | [Some Nights I Dream of Doors](https://open.spotify.com/album/4b5bbOFp8eUd5QxQJ6jFs3) | 3:22 | 2022-05-12 | 2024-02-23 |
 | [YAKOYO](https://open.spotify.com/track/4pWKbOnBx45TWBFQl3k6ck) | [Tommy WÁ](https://open.spotify.com/artist/17e35Wp915ZK8I2wCBT1Kd) | [YAKOYO](https://open.spotify.com/album/2HDyAE2vT8mR31fsl3eUrl) | 2:52 | 2023-08-03 |  |
 | [Yeni Abre](https://open.spotify.com/track/5PR0Mk6xqpMoKh8D9GXbeQ) | [FRA!](https://open.spotify.com/artist/07Bkdyq0lzTh2ayKwd40HN) | [Yeni Abre](https://open.spotify.com/album/1C9Xf13fBpa09nVuwlxaWW) | 4:18 | 2023-04-27 | 2023-09-29 |
 | [YOU, ME & HER](https://open.spotify.com/track/5NmID3iqf6S77eXrPH1ZQs) | [Black Hibiscus](https://open.spotify.com/artist/6LPW0r5I57Z5itdpQJbHgN) | [YOU, ME & HER](https://open.spotify.com/album/3XUGELunEteuDsurX667dH) | 3:04 | 2023-11-03 |  |

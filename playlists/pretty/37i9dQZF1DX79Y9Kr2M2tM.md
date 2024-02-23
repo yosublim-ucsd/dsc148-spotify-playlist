@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79Y9Kr2M2tM.md) - [plain]
 
 > Float away on heady orchestrations and haunting harmonies...
 
-[Spotify](https://open.spotify.com/user/spotify) - 835,262 likes - 100 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 835,285 likes - 100 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79Y9Kr2M2tM.md) - [plain]
 | 99 | [Arc \- Stripped](https://open.spotify.com/track/7zdLzxX3JvF8qqW2o6UyMN) | [Yoste](https://open.spotify.com/artist/2wwZDwSBHaVaOI6cE2hfhf) | [Arc \- Stripped](https://open.spotify.com/album/6TetCtVwrmq85YsuG7h9vZ) | 3:26 |
 | 100 | [Carrie](https://open.spotify.com/track/6RsQrfzyexFtl37NOVjT0S) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Carrie](https://open.spotify.com/album/2SoOXRCpYdmeB07e9Ln6Ub) | 4:02 |
 
-Snapshot ID: `MCxmZmI0YWM0ZGQyOWMxOGUxM2YzMzBjYzk2N2I5YTg5YmVmZTBmOWFj`
+Snapshot ID: `MCwzYjRhMjBmZTQ2YjUxZmMxZTY1ODliMTg0NDQzNDlmZDAyYjgxZWJj`

@@ -146,7 +146,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 147746,
       "name": "Bandit",
       "url": "https://open.spotify.com/track/7sTyAjxDXq9afwfSQy6D0s"
@@ -164,7 +164,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 132160,
       "name": "Beanie",
       "url": "https://open.spotify.com/track/2NlxHzUzAHhNcZdaOEuLzq"
@@ -254,7 +254,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-22",
+      "date_removed": null,
       "duration_ms": 173226,
       "name": "Birknbam",
       "url": "https://open.spotify.com/track/0GPU2Ho9l6yt9A0iFdW8lQ"
@@ -402,7 +402,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-21",
+      "date_removed": null,
       "duration_ms": 126481,
       "name": "CLEARED - Remix",
       "url": "https://open.spotify.com/track/54L7uacUGRkvoLokUlNWfH"
@@ -1103,6 +1103,24 @@
     },
     {
       "album": {
+        "name": "high, high, high",
+        "url": "https://open.spotify.com/album/00trTBqMdRTwVaw1HmYuT6"
+      },
+      "artists": [
+        {
+          "name": "Camylio",
+          "url": "https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175447,
+      "name": "high, high, high",
+      "url": "https://open.spotify.com/track/4zezDZW6gxas6tCLcYjaT8"
+    },
+    {
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy"
       },
@@ -1252,7 +1270,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 107368,
       "name": "IN DIE BIOTONNE",
       "url": "https://open.spotify.com/track/2AL6gVfsIHKJv9dmF6YtW5"
@@ -1520,7 +1538,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 229111,
       "name": "Life Is A Highway - JF Jake X GwnMike Bounce Remix",
       "url": "https://open.spotify.com/track/5l0zEyTh7dw1NOGZV2Ag6H"
@@ -1649,6 +1667,24 @@
     },
     {
       "album": {
+        "name": "Made For Me",
+        "url": "https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Made For Me",
+      "url": "https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC"
+    },
+    {
+      "album": {
         "name": "Maxxx (Radio Edit)",
         "url": "https://open.spotify.com/album/2tZrs1JuliuF7KGbMl6QUr"
       },
@@ -1668,7 +1704,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 133161,
       "name": "Maxxx - Radio Edit",
       "url": "https://open.spotify.com/track/3W2yAtMkxXVmLCJAZLsqTZ"
@@ -1748,7 +1784,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 176698,
       "name": "MONTENEGRO (feat. RAF Camora)",
       "url": "https://open.spotify.com/track/0xuaMTaQFsfaLPuMoYUQoP"
@@ -2002,6 +2038,24 @@
       "duration_ms": 200042,
       "name": "Ode an den Bass",
       "url": "https://open.spotify.com/track/5BfQq5cdMr5f5PVSz6yRpq"
+    },
+    {
+      "album": {
+        "name": "Oh No :: He Said What?",
+        "url": "https://open.spotify.com/album/4kT2KzTC4GE1AEqAQx5BnO"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228138,
+      "name": "Oh No :: He Said What?",
+      "url": "https://open.spotify.com/track/7Gk8icymiW50sDfFbWLoVG"
     },
     {
       "album": {
@@ -2434,6 +2488,28 @@
       "duration_ms": 179449,
       "name": "Soaked",
       "url": "https://open.spotify.com/track/65zIby9Z03d1bhGvLNJNrA"
+    },
+    {
+      "album": {
+        "name": "Nu King",
+        "url": "https://open.spotify.com/album/5yrqPWuCSAo6beZdIBYAUU"
+      },
+      "artists": [
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        },
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154376,
+      "name": "Spicy Margarita",
+      "url": "https://open.spotify.com/track/22bZVqJfATps2ETj7017Ms"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvLASFobxmI.md) - [plain]
 
 > Bravías, románticas y rancheras, las mejores canciones norteñas\. Intocable en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 442,974 likes - 125 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 474,239 likes - 125 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvLASFobxmI.md) - [plain]
 | 124 | [La Ley del Mayo](https://open.spotify.com/track/4JgF8vGk0Vp3rBOHWBMjW7) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [La Ley del Mayo](https://open.spotify.com/album/0XCMIwN9p62x59fQn6eQTH) | 3:36 |
 | 125 | [Dirección Equivocada](https://open.spotify.com/track/4rS0DRx5wKCNmdLsyFb9Pk) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Dirección Equivocada](https://open.spotify.com/album/6xdmbSBueb704E5lGXGqfL) | 3:09 |
 
-Snapshot ID: `MCxlMjY3M2U1ZGIyMmQ2NmExNTc2NWVjNzVlZWZlZDdkMWRhN2E0MTIx`
+Snapshot ID: `MCxkNWQwZDdkMTY2ZGFmZGNjOWI2Y2E1MDM0YzA1YzExZmVhNDNiYjNi`

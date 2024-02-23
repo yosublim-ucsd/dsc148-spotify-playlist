@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "\u30d5\u30a7\u30b9\u95a2\u4fc2\u8005\u306e\u7686\u69d8\u3001Let's book them! \u3044\u307e\u8074\u304d\u305f\u3044\u3001\u6ce8\u76ee\u306e\u6d0b\u697d\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\uff01 cover: Alfie Templeman",
+  "description": "\u30d5\u30a7\u30b9\u95a2\u4fc2\u8005\u306e\u7686\u69d8\u3001Let's book them! \u3044\u307e\u8074\u304d\u305f\u3044\u3001\u6ce8\u76ee\u306e\u6d0b\u697d\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\uff01 cover: Erika de Casier",
   "name": "The WISHLIST: \u6ce8\u76ee\u306e\u6d0b\u697d\u7279\u96c6",
   "tracks": [
     {
@@ -126,7 +126,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-16",
+      "date_removed": null,
       "duration_ms": 233388,
       "name": "A Night To Remember",
       "url": "https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9"
@@ -480,6 +480,28 @@
       "duration_ms": 189713,
       "name": "Be Who You Are (Real Magic) (feat. JID, NewJeans & Camilo)",
       "url": "https://open.spotify.com/track/7fcZk7OXeFWD7DWybltVVf"
+    },
+    {
+      "album": {
+        "name": "Fantasies",
+        "url": "https://open.spotify.com/album/7jI0uMNouj0i2i0Kw0NpSR"
+      },
+      "artists": [
+        {
+          "name": "Bombay Bicycle Club",
+          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+        },
+        {
+          "name": "Rae Morris",
+          "url": "https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226546,
+      "name": "Better Now (feat. Rae Morris)",
+      "url": "https://open.spotify.com/track/0Zu5Nb2llf36AMjYd1as45"
     },
     {
       "album": {
@@ -1153,6 +1175,24 @@
     },
     {
       "album": {
+        "name": "Where we've been, Where we go from here",
+        "url": "https://open.spotify.com/album/2ci8WTUkswu4PgtLVPJFeU"
+      },
+      "artists": [
+        {
+          "name": "Friko",
+          "url": "https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208258,
+      "name": "Crimson to Chrome",
+      "url": "https://open.spotify.com/track/2MMWOv9rH5g03uKQ6oWZW5"
+    },
+    {
+      "album": {
         "name": "Crowded Roomz",
         "url": "https://open.spotify.com/album/6noU224rd5kmYt0KPBhtgG"
       },
@@ -1292,7 +1332,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 151926,
       "name": "Damn Gloves",
       "url": "https://open.spotify.com/track/7qJXfY2YuKeAc4y8CdWJPq"
@@ -2050,7 +2090,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-16",
+      "date_removed": null,
       "duration_ms": 233456,
       "name": "Glimpse of Us",
       "url": "https://open.spotify.com/track/4ewazQLXFTDC8XvCbhvtXs"
@@ -2869,6 +2909,24 @@
     },
     {
       "album": {
+        "name": "Keys To Your Civic",
+        "url": "https://open.spotify.com/album/60gu2gwGpYPiVs1TKipN8i"
+      },
+      "artists": [
+        {
+          "name": "Last Dinosaurs",
+          "url": "https://open.spotify.com/artist/677sHrkjhB7IP4YwjzZyc4"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222500,
+      "name": "Keys To Your Civic",
+      "url": "https://open.spotify.com/track/7sKzDAK6YQm5WhTSYQO5nY"
+    },
+    {
+      "album": {
         "name": "Kissing In Swimming Pools",
         "url": "https://open.spotify.com/album/1B1PGcHPdviJ6xkOtJiLgX"
       },
@@ -3068,7 +3126,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-11",
+      "date_removed": null,
       "duration_ms": 131000,
       "name": "Little Things x Gypsy Woman - L BEATS MASHUP",
       "url": "https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP"
@@ -3220,7 +3278,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 131999,
       "name": "Loving You Will Be The Death Of Me",
       "url": "https://open.spotify.com/track/2TpHdNgZWRCqmZ2iPG90fJ"
@@ -3332,7 +3390,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 185853,
       "name": "Mi Coraz\u00f3n (feat. Camilo)",
       "url": "https://open.spotify.com/track/421IxIwggbLYx9XUSUJpZN"
@@ -3426,7 +3484,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 246426,
       "name": "MUD",
       "url": "https://open.spotify.com/track/4TaDzzRy2PUQn8wAG6Fvpw"
@@ -3498,7 +3556,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 176418,
       "name": "my mind (now)",
       "url": "https://open.spotify.com/track/3ECkGETHF9WCdlRJmVdo7F"
@@ -4116,7 +4174,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 175326,
       "name": "Pipe Down",
       "url": "https://open.spotify.com/track/688zECd3rFRSFq3i5EDf5w"
@@ -4576,7 +4634,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-09",
+      "date_removed": null,
       "duration_ms": 175875,
       "name": "Sleep Well",
       "url": "https://open.spotify.com/track/5ye1TParxcolbnNsOXO8qE"
@@ -4656,7 +4714,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 164019,
       "name": "Soak",
       "url": "https://open.spotify.com/track/1eqEBpA2T1w9Sn97D4d6Wl"
@@ -4934,7 +4992,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 195268,
       "name": "STeAKFACe** \u1559(\u21c0\u2038\u21bc\u2036)\u1557",
       "url": "https://open.spotify.com/track/7KATT8Q9RnpLz8w7n6oJdG"
@@ -5126,10 +5184,28 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 218762,
       "name": "Swapping Socks",
       "url": "https://open.spotify.com/track/70P2SrcpkFbMOvjXrevKga"
+    },
+    {
+      "album": {
+        "name": "Still",
+        "url": "https://open.spotify.com/album/7ArSPwsw4Su6nyeId06SZH"
+      },
+      "artists": [
+        {
+          "name": "Erika de Casier",
+          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166760,
+      "name": "Test It",
+      "url": "https://open.spotify.com/track/1UMAHQ2G23kmost9bTNv26"
     },
     {
       "album": {
@@ -5546,6 +5622,24 @@
       "duration_ms": 190392,
       "name": "Truth or Dare",
       "url": "https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf"
+    },
+    {
+      "album": {
+        "name": "Try",
+        "url": "https://open.spotify.com/album/2R40H2ayJTqBjqHWLvYuTp"
+      },
+      "artists": [
+        {
+          "name": "Fly By Midnight",
+          "url": "https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136941,
+      "name": "Try",
+      "url": "https://open.spotify.com/track/5gqGq4xbGAypDUD6YZVIUG"
     },
     {
       "album": {

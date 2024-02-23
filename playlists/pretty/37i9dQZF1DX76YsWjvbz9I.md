@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 
 > The unforgettable romantic Jazz songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,957 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,052 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 | 99 | [Have You Met Miss Jones](https://open.spotify.com/track/597IFswsQ0TaWnNn2S9wYh) | [Joe Williams](https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL) | [You Are Free](https://open.spotify.com/album/6AFnZ1lljnYwntxC8YHSy7) | 2:05 |
 | 100 | [Easy Living](https://open.spotify.com/track/7GfGULTcjWV5Np3xFNZ9hW) | [Monica Zetterlund](https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD) | [Swedish Sensation](https://open.spotify.com/album/6UAzZrcoC6kwtTbIJiaTrh) | 5:37 |
 
-Snapshot ID: `MCxjYzhmOTI3YjEwYzFiY2VlMjU5YWFkMWM5ZWFiMTllM2FlMmY1YWUw`
+Snapshot ID: `MCxkYWY2MjhlMzJjOTE4MzQ0YzdhNmMzMThkOTA1ODRmZjQyOTU2Nzc1`

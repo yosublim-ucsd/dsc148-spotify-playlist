@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDxnC0UqHJa.md) - [plain]
 
 > Folksy takes on your favorite tracks\. Cover: Norah Jones & Remi Wolf
 
-[Spotify](https://open.spotify.com/user/spotify) - 465,400 likes - 115 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 465,405 likes - 115 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDxnC0UqHJa.md) - [plain]
 | 114 | [Girl From The North Country](https://open.spotify.com/track/6WFN2f7IptgrM2QA9LPtaE) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Leave Me Breathless](https://open.spotify.com/album/62EG6ravDzMqNtGb1CCYjy) | 4:00 |
 | 115 | [Strong Enough](https://open.spotify.com/track/69qLjFRZbz7V7uM13DtmOW) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [...but i'd rather be with you, too](https://open.spotify.com/album/5rBVASdotOwS4z4a4LAbmS) | 3:17 |
 
-Snapshot ID: `MCwzNzhjZDUxODVkZTU5YTQ1ZTRjMTI1NjkwNDBmNjA3NTc4OGYwMzI3`
+Snapshot ID: `MCw3ZDFjYjUxMDBmMmNmODMzY2YzZjQzNjEwOTQ5MzFkMzc0ZjliMjNi`

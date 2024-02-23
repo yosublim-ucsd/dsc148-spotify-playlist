@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Proudly South African gospel goodness. Cover: <a href=\"https://open.spotify.com/artist/77Usu1sGRDkXT40F6f14XC?si=UoGh5yS4SryIbJNb32jmhA\">Mahalia Buchanan</a>\n",
+  "description": "Proudly South African gospel goodness. Cover: <a href=\"https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa?si=DGNulj14TvmcL1mE7I6rdg\">Spirit Of Praise</a>\n",
   "name": "Sunday Praise",
   "tracks": [
     {
@@ -116,6 +116,50 @@
       "duration_ms": 304559,
       "name": "Awuhluleki",
       "url": "https://open.spotify.com/track/2bfeBqV3zS6moeaq5AFQ5m"
+    },
+    {
+      "album": {
+        "name": "Spirit Of Praise, Vol. 9 (Live)",
+        "url": "https://open.spotify.com/album/22HnjxKMzSGhOUGgEbO3Dv"
+      },
+      "artists": [
+        {
+          "name": "Spirit Of Praise",
+          "url": "https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa"
+        },
+        {
+          "name": "Spirit of Praise Choir",
+          "url": "https://open.spotify.com/artist/598iFL4vIXJNBPQHcB8jDG"
+        },
+        {
+          "name": "Pastor M Tshabalala",
+          "url": "https://open.spotify.com/artist/4y1C1Os7WSQmz4c25ulZQQ"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 556346,
+      "name": "Bamba Mzalwane (Live)",
+      "url": "https://open.spotify.com/track/7EK0Se77nYoRndoAJXUWHq"
+    },
+    {
+      "album": {
+        "name": "Motlhang Ke Kolobetswa 'Die Poppe Sal Dans'",
+        "url": "https://open.spotify.com/album/6OIg6NwgtsE7kfcPH3PL23"
+      },
+      "artists": [
+        {
+          "name": "Solly Moholo",
+          "url": "https://open.spotify.com/artist/5rPklQ6cqWrAGWgHxjZS8Z"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328360,
+      "name": "Banaka Nako Ea Me E Haufi",
+      "url": "https://open.spotify.com/track/3rtv6UeFWYOAbegjRrrGCB"
     },
     {
       "album": {
@@ -1167,6 +1211,24 @@
     },
     {
       "album": {
+        "name": "Ke le hole",
+        "url": "https://open.spotify.com/album/2j2v2Nk8CcyzVS9qpond8V"
+      },
+      "artists": [
+        {
+          "name": "Nomadlozi",
+          "url": "https://open.spotify.com/artist/4O5tjGjeBBmqPRhP2ChSy2"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237819,
+      "name": "Ke le hole",
+      "url": "https://open.spotify.com/track/6QVVWizgLUNkzAED09ljo4"
+    },
+    {
+      "album": {
         "name": "Ke Mang",
         "url": "https://open.spotify.com/album/2JBxdERjVMKSQVArIqKTcW"
       },
@@ -1426,6 +1488,24 @@
       "duration_ms": 333120,
       "name": "Liyinqaba",
       "url": "https://open.spotify.com/track/4WCMWuPMDVEfzzFDrMLrXg"
+    },
+    {
+      "album": {
+        "name": "Joyous Celebration, Vol. 17 (Grateful) [Live]",
+        "url": "https://open.spotify.com/album/7gTaZx47Gn8gh9n4p1KkHY"
+      },
+      "artists": [
+        {
+          "name": "Joyous Celebration",
+          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302453,
+      "name": "Lona Baratang - Live",
+      "url": "https://open.spotify.com/track/032DTgyqTtIxIZESeY6fAB"
     },
     {
       "album": {
@@ -2481,6 +2561,24 @@
     },
     {
       "album": {
+        "name": "Restored (Live)",
+        "url": "https://open.spotify.com/album/4CVpV7NAYwOeWuZ9FSbFZ5"
+      },
+      "artists": [
+        {
+          "name": "Lebo Sekgobela",
+          "url": "https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234986,
+      "name": "Thato Ya Hao (Live)",
+      "url": "https://open.spotify.com/track/5GCgGHvpspY0QmFuMeaIvW"
+    },
+    {
+      "album": {
         "name": "The 4th Man",
         "url": "https://open.spotify.com/album/3xzLg7y8Bmc02X5IWu8FAM"
       },
@@ -2811,6 +2909,24 @@
     },
     {
       "album": {
+        "name": "Calvary",
+        "url": "https://open.spotify.com/album/2DtSSFURqcaYDLMuecNAkO"
+      },
+      "artists": [
+        {
+          "name": "Dumi Mkokstad",
+          "url": "https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309984,
+      "name": "Ukuhlala Kuye - Live",
+      "url": "https://open.spotify.com/track/0iqVqe4mwM9DE54MIYXfvj"
+    },
+    {
+      "album": {
         "name": "Ukunxanela Komoya Wakho",
         "url": "https://open.spotify.com/album/566j14AsYwCWJW4GrjUVWi"
       },
@@ -2992,6 +3108,24 @@
       "duration_ms": 434042,
       "name": "UnguJehova Igama Lakho (Live)",
       "url": "https://open.spotify.com/track/2GrEouhLr4QoieMsy1LD8u"
+    },
+    {
+      "album": {
+        "name": "Jesus Is Enough",
+        "url": "https://open.spotify.com/album/5zE9oNFI9xWwuhW11OOvii"
+      },
+      "artists": [
+        {
+          "name": "Xolly Mncwango",
+          "url": "https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356306,
+      "name": "Ungukuphila",
+      "url": "https://open.spotify.com/track/53wwaMp15eGyE12Cm7sxLa"
     },
     {
       "album": {

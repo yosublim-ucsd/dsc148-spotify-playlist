@@ -4,7 +4,7 @@
 
 > you give me shiverssss
 
-48 songs - 2 hr 26 min
+52 songs - 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Brunch](https://open.spotify.com/track/2uka2kAlD8m3yUXT0iZKv6) | [Noon Dave](https://open.spotify.com/artist/7JkLbDtlEwAhFPn3o2kXAm) | [Brunch](https://open.spotify.com/album/2cQ86acGp5LQatlnXdrDec) | 3:01 | 2024-02-09 |  |
 | [Burn 4 U](https://open.spotify.com/track/07azphHzbTXLjgE0h4HHP4) | [Mia](https://open.spotify.com/artist/7z2DaVmImfzaRsnSJow820) | [The Other Side](https://open.spotify.com/album/2E6nRkDKnZ0pv5G8uHMZdE) | 4:38 | 2024-02-09 |  |
 | [Chill](https://open.spotify.com/track/5J2EQqHiopKv9cHX3zLSZg) | [Jasën Blu](https://open.spotify.com/artist/6IdeXkZ2Kk6CtIKe9QUePe) | [Chill](https://open.spotify.com/album/3hAvR6hXAumr2FaeDnmbNf) | 3:58 | 2024-02-09 |  |
-| [Chocolati](https://open.spotify.com/track/2GnmljVcpgOs1kX2ysKazT) | [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA), [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Analyze Love](https://open.spotify.com/album/3tMt7EOBb1KBbfiKKJaWKj) | 2:20 | 2024-02-09 |  |
+| [Chocolati](https://open.spotify.com/track/2GnmljVcpgOs1kX2ysKazT) | [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA), [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Analyze Love](https://open.spotify.com/album/3tMt7EOBb1KBbfiKKJaWKj) | 2:20 | 2024-02-09 | 2024-02-23 |
 | [chokehold](https://open.spotify.com/track/1sTHELUvMf848Hr5b2ekav) | [Zowie Kengocha](https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci), [NGE\-THE\-PRODUCER](https://open.spotify.com/artist/5oV5Wd6ZbxfzzlHqlOchXS) | [Nightshot](https://open.spotify.com/album/0L9LtAbap45bpiJsqX05fG) | 4:02 | 2024-02-09 |  |
 | [Cigarette](https://open.spotify.com/track/5NLPsDXx7q3zZFbFv5pdeQ) | [Turunesh](https://open.spotify.com/artist/7jsrAZ7VOhvG48hjxVaIkv) | [Cigarette](https://open.spotify.com/album/7lVfpqQNDnvujR82cyXFOd) | 4:13 | 2024-02-09 |  |
 | [come close \(feat\. Ayra Starr\)](https://open.spotify.com/track/2u5dBIBam2FTwYsgsptJyj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Sad Romance](https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY) | 3:24 | 2024-02-09 |  |
@@ -26,7 +26,10 @@
 | [eMotion](https://open.spotify.com/track/4F09Q90WWBBoCY3k1OqOBp) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [LeriQ](https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl) | [Asylum](https://open.spotify.com/album/4C4GoTj4U4QL9awtXxbFYv) | 2:16 | 2024-02-09 |  |
 | [Equestrian Love](https://open.spotify.com/track/3dNaSqy9JgCElA1QF4TjYp) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Renascentia](https://open.spotify.com/album/5R7cUADCzBIPUfq0hrSv2N) | 3:24 | 2024-02-09 |  |
 | [Fashion](https://open.spotify.com/track/6Qo7qjGij0dOtoyVN9c3UK) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Mr Oúlala](https://open.spotify.com/album/2uFpZj1OcVRJlnSMs0Zlby) | 2:29 | 2024-02-09 |  |
+| [Fast](https://open.spotify.com/track/6UCvdFpOt1vQwKaOvl0LCq) | [Mars Baby](https://open.spotify.com/artist/05GmksAMb6rILtaA7JBuri) | [Luna](https://open.spotify.com/album/3edbe7CGUZvGnHYN9K1jkP) | 2:27 | 2024-02-23 |  |
+| [gin and wine \(ginuwine\)](https://open.spotify.com/track/33u4lROskD2GSckbtsjCVI) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [gin and wine \(ginuwine\)](https://open.spotify.com/album/3JwhKO0Pw10XKRlgFC9PL0) | 2:09 | 2024-02-23 |  |
 | [Grown Ass Girl.](https://open.spotify.com/track/1oCtaFhWkV3Dvuuzy6DNE0) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd) | [Grown Ass Girl.](https://open.spotify.com/album/4KR4FghCCBGvhxvsgnRVe0) | 2:59 | 2024-02-09 |  |
+| [Guide Me](https://open.spotify.com/track/5nnGqBHjGNGUu6Khin46XL) | [Mars Baby](https://open.spotify.com/artist/05GmksAMb6rILtaA7JBuri), [Filah Lah Lah](https://open.spotify.com/artist/0xACKjkY8pqrot7s6da1Sw) | [Luna](https://open.spotify.com/album/3edbe7CGUZvGnHYN9K1jkP) | 3:45 | 2024-02-23 |  |
 | [Heart On Fire](https://open.spotify.com/track/1apBZCzXcyW1NUqeUtrldP) | [Titose](https://open.spotify.com/artist/1GqDQYv81wsGJmzM5LOyF7) | [Was It Something I Said?](https://open.spotify.com/album/3M6SVIRAGFPUmQ6ca3mFOi) | 1:08 | 2024-02-09 |  |
 | [Heaven](https://open.spotify.com/track/1OOZ7HK33XptwtvGuKmb5s) | [Amaal Nuux](https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz) | [Milly](https://open.spotify.com/album/0ybPRt9okiivYSRzyyv1Yd) | 3:03 | 2024-02-09 |  |
 | [Holding Hands in Public](https://open.spotify.com/track/29lNjiF1YhmL5DKPPZam1M) | [Ria Boss](https://open.spotify.com/artist/4RVL6ckos0QWCCz9dTFb5q) | [Underwater](https://open.spotify.com/album/0KVPTGdsC0QkJEYOsork9Y) | 3:26 | 2024-02-09 |  |
@@ -41,6 +44,7 @@
 | [project \- A COLORS SHOW](https://open.spotify.com/track/0ZgroOYQAUzfcQYS6wibf9) | [Zowie Kengocha](https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci) | [project \- A COLORS SHOW](https://open.spotify.com/album/5tHWyhdLYInrDivcSPWpnC) | 3:28 | 2024-02-09 |  |
 | [Promise](https://open.spotify.com/track/0XiqUgSUvwPCyi6iyEES6N) | [A\-swxg](https://open.spotify.com/artist/4WLrRRtBJv9WV3A5KVClPg) | [Promise](https://open.spotify.com/album/6wdW7MEbcMGqrsFKDVB21x) | 2:47 | 2024-02-09 |  |
 | [R\-, Pt\. 2 \- Acoustic Version](https://open.spotify.com/track/2X8UWEViu7QZn7uRXAWKmV) | [OSO](https://open.spotify.com/artist/62fPxmuEy5IX40T8omAeB2), [Amoit](https://open.spotify.com/artist/1EO9IOTaipIYiA0K8AnBuA), [Phoebe Thestor](https://open.spotify.com/artist/14Pns33TGKYoRZlxi2sN1I) | [R\-, Pt\. 2 \(Acoustic Version\)](https://open.spotify.com/album/4pjezrOHcAXQkBoe0rw0Zz) | 2:11 | 2024-02-09 |  |
+| [REASON](https://open.spotify.com/track/1481IQC8BjqGLTer67cWbC) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Hook](https://open.spotify.com/artist/0d2cvrJfsN0fBd6WuwwlDQ), [GR!](https://open.spotify.com/artist/3OLtlWxh8Ht9pL5ke6gFkd) | [REASON](https://open.spotify.com/album/3HsFIS5mJMqpisQXuwL0BN) | 3:41 | 2024-02-23 |  |
 | [Room 69](https://open.spotify.com/track/3dl81ypaK6k0y0RCszBKS4) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [ROOM 96](https://open.spotify.com/album/6MFyUXJ1YrcHvraPVirOZ1) | 3:09 | 2024-02-09 |  |
 | [Rum & Butter](https://open.spotify.com/track/1UVy3p0uQqnWi9kndjhNCC) | [Turunesh](https://open.spotify.com/artist/7jsrAZ7VOhvG48hjxVaIkv) | [Satin Cassette](https://open.spotify.com/album/6O8YfFylaHXZlCmgkN44hV) | 4:25 | 2024-02-09 |  |
 | [Shadow](https://open.spotify.com/track/3nRNBZWIeLWfXKvuLuyiWl) | [Salome](https://open.spotify.com/artist/5DxbeMKmMhAE6j80lDhUxq) | [Shadow](https://open.spotify.com/album/2cJLHEoYe1o1NkeexIWMRS) | 2:49 | 2024-02-09 |  |

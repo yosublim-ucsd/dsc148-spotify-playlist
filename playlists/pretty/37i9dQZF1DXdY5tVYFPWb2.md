@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdY5tVYFPWb2.md) - [plain]
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,635 likes - 100 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,671 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdY5tVYFPWb2.md) - [plain]
 | 99 | [だりぃ](https://open.spotify.com/track/11w5mx2G7vi5xkyIeI6DGx) | [YAJICO GIRL](https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4) | [Indoor Newtown Collective](https://open.spotify.com/album/2bEq5HpMoGQRikWSVJEacq) | 3:16 |
 | 100 | [AURORA TOKIO](https://open.spotify.com/track/0DWuqS6eHlmVazf52ysjB4) | [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju) | [AURORA TOKIO](https://open.spotify.com/album/23BfGKaS5MhE255NglNI0R) | 3:35 |
 
-Snapshot ID: `MCw1MjAyYzE1ODZkN2VlMTk3M2FjOWM3YmQyODc0Y2EwNGI4MjFjYWZj`
+Snapshot ID: `MCxhMDQ1NzZmZmI2MjU5YWIwMGI5OTFiZjVmZDNiOWZmYTk4NDNmNmI2`

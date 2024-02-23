@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 
 > Nuestro hip\-hop se escribe con Ñ, aquí los que dominan el juego de las rimas\. Trueno en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,418 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,518 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [BAD BEHAVIORS](https://open.spotify.com/track/2PrvvsroFvKyI8ERdB0URU) | [ND Kobi'](https://open.spotify.com/artist/65vpTU1WPlaRYEX5UKTfrl) | [BAD BEHAVIORS](https://open.spotify.com/album/5fASm7hVEv3LWShYTVXqAV) | 3:10 |
 | 2 | [PINK FLOYD](https://open.spotify.com/track/2YXmkEgrudYSKpNu4kKl0e) | [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch), [Cookin Soul](https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [PINK FLOYD](https://open.spotify.com/album/2UkicL9GQDYs1LvSURTelG) | 2:51 |
 | 3 | [No Cap \- A COLORS SHOW](https://open.spotify.com/track/1h8rqVZnl80iJzZCMeCc8G) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [No Cap \- A COLORS SHOW](https://open.spotify.com/album/0n54S0AXVz8kQkYL06hQiN) | 2:10 |
-| 4 | [Da Capo](https://open.spotify.com/track/37rJxaVXeP1tO0hoMqYrxN) | [ha$lopablito](https://open.spotify.com/artist/2oWYJFQ324bj4y4Km5eNeX), [Willie DeVille](https://open.spotify.com/artist/18vnqu7XJRHPmua3tsejG5), [Hi\-Kymon](https://open.spotify.com/artist/16WCvOujBHZJ3jKoLRpWKb), [Pezcatore](https://open.spotify.com/artist/5T7FQGGs5vVldFp9Z7xCao) | [Da Capo](https://open.spotify.com/album/1DY9wxWoohEiCxBw9tzhS7) | 3:06 |
+| 4 | [Da Capo](https://open.spotify.com/track/37rJxaVXeP1tO0hoMqYrxN) | [Hi\-Kymon](https://open.spotify.com/artist/16WCvOujBHZJ3jKoLRpWKb), [Willie DeVille](https://open.spotify.com/artist/18vnqu7XJRHPmua3tsejG5), [ha$lopablito](https://open.spotify.com/artist/2oWYJFQ324bj4y4Km5eNeX), [Pezcatore](https://open.spotify.com/artist/5T7FQGGs5vVldFp9Z7xCao) | [Da Capo](https://open.spotify.com/album/1DY9wxWoohEiCxBw9tzhS7) | 3:06 |
 | 5 | [Mi Vida](https://open.spotify.com/track/55WHGRh8av3cHRMX2MuWFk) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Mi Vida](https://open.spotify.com/album/7h9QYjMl1MdvKQSvnXj6c5) | 1:57 |
 | 6 | [Cuatro 44](https://open.spotify.com/track/5PcxOKZC1CjKX9WLLLXjT7) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [Cuatro 44](https://open.spotify.com/album/39CQpGgsU5LTagewDPB1lN) | 2:37 |
 | 7 | [De Oro](https://open.spotify.com/track/39vbXhdllt7Npz6Ym9ekfB) | [Robert Tiamo](https://open.spotify.com/artist/7M4raOQ6EsBzMYM0oyKlTu) | [De Oro](https://open.spotify.com/album/0UYD1YeqrWOe2aSx1vvgsk) | 2:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 | 99 | [Mucho para Mí](https://open.spotify.com/track/29FljZjbNMcXlHAf2lKHbR) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Franco Escamilla](https://open.spotify.com/artist/1ZlIROqKXOEvPgEffO8vri) | [Mucho para Mí](https://open.spotify.com/album/57dqYC3Drhz5gxPxcIn4d5) | 5:10 |
 | 100 | [Si No Hay Mañana \- Spotify Singles](https://open.spotify.com/track/4KfT6tbE0Hq4GffrFJvCus) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Si No Hay Mañana \- Spotify Singles](https://open.spotify.com/album/2awsgyoW4ncnfyTHJsTiC6) | 3:42 |
 
-Snapshot ID: `MCxmZDYwNzJkMmNkZTM2OGIyNDNiNWEyM2YwOGEyZjlmZmY4MzAyY2Q5`
+Snapshot ID: `MCw0ZWI2NDJmMDU1NzE0ZmM0ZjE1ODdiZTU5OGZhYjA2M2E3MjNlMGVi`

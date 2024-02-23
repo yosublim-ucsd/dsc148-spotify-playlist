@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 
 > The biggest rock bands/artists in Japan right now!  Cover: Fujifabric\(フジファブリック\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,967 likes - 80 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,049 likes - 80 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 79 | [Stray Hearts](https://open.spotify.com/track/3sqx01xjg7G7Fehge1YqUP) | [Koshi Inaba](https://open.spotify.com/artist/0EvnQ89Ry2DPyn2xYAH9Ls) | [Stray Hearts](https://open.spotify.com/album/4vBh1pUF953y5Sf6Y9A3Su) | 4:33 |
 | 80 | [I MISS YOU](https://open.spotify.com/track/6wiTNSLb7qvu2IGKJSf9Q1) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [miss you](https://open.spotify.com/album/2luSxY6Y2fyFA9nK3OzVts) | 4:32 |
 
-Snapshot ID: `MCw4MDJkODdmYWRlNmQyOGNhMGExZDJkMGMzNDgxYzk2YzYxZTBjZGUx`
+Snapshot ID: `MCxhNzY4MWE5YWFhYWY3NDcxZGVmNjYyMTkyZmFhMjNiOGM1NjRmNTk0`

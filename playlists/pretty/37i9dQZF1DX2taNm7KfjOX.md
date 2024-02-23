@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2taNm7KfjOX.md) - [plain]
 
 > Repeat\-free hours of new and beloved indie folk\. Cover: Marika Hackman
 
-[Spotify](https://open.spotify.com/user/spotify) - 801,847 likes - 150 songs - 9 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 801,895 likes - 150 songs - 9 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2taNm7KfjOX.md) - [plain]
 | 149 | [Exploding](https://open.spotify.com/track/6yNYd418PyTvOM9WkHSUcf) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Exploding](https://open.spotify.com/album/72GQuGC9XNu3WnvOh45KbZ) | 4:01 |
 | 150 | [Wind On Tin](https://open.spotify.com/track/49TYOtiNamKbN1xGIaNOgV) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Sorceress](https://open.spotify.com/album/0CGHgo9imbQfU2n8LdbVDO) | 3:06 |
 
-Snapshot ID: `MCxhYzllNjQzNTBjNTZhMmFhMWM0MWY1MThiZmU1ZDdjYjIxZWY5ZjFk`
+Snapshot ID: `MCwwM2NiZDVhNmJiMzQ0MWI5OTMyZWUzNzJiOTczYTAwM2NlMzhlMDg0`

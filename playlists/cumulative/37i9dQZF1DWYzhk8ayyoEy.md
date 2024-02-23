@@ -4,7 +4,7 @@
 
 > Warm, inspirational pop, that's good at heart.
 
-120 songs - 6 hr 45 min
+121 songs - 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Give You Love](https://open.spotify.com/track/0H4yyuVRMIXT9hkDZMc6D6) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [Give You Love](https://open.spotify.com/album/307eCZ5BF0wjOmE29qDiUj) | 2:53 | 2023-01-04 |  |
 | [Give You Love \(feat\. Jason Derulo\)](https://open.spotify.com/track/672pbi6q4UuyJYIuThNsq3) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Give You Love \(feat\. Jason Derulo\)](https://open.spotify.com/album/19F2dOW0JWTAuK941khqsA) | 2:54 | 2023-08-11 |  |
 | [Gold](https://open.spotify.com/track/3FtOav13HRZKhnEFIeYl8q) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu), [Jome](https://open.spotify.com/artist/4rUMcxwZhidyj6FTbMSXse) | [Gold](https://open.spotify.com/album/5r5nju63zf21QC2ApeWNt2) | 2:45 | 2023-01-04 |  |
+| [GOOD DAY](https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [GOOD DAY](https://open.spotify.com/album/3EdKL10Hos74yj7rGqoS2e) | 2:50 | 2024-02-22 |  |
 | [Good Day](https://open.spotify.com/track/0FEXQUgIG0X2rhdT3nuQ3M) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [Good Day](https://open.spotify.com/album/1HSgWrfiiWkMNUr8abCu1c) | 2:53 | 2023-01-04 | 2023-12-01 |
 | [Good Day](https://open.spotify.com/track/5zsTxXxpVzWC9MqeNJ3Pes) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [Lavender](https://open.spotify.com/album/11v89Gklx5GvGK6zfhj5jA) | 2:53 | 2023-11-17 |  |
 | [Good In Me](https://open.spotify.com/track/0p4K6vPDV2bnwCK1hihpt7) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Good In Me](https://open.spotify.com/album/7yQrM7GtpRyxvJyXcE351Z) | 3:01 | 2023-01-04 |  |
@@ -79,7 +80,7 @@
 | [My Revival](https://open.spotify.com/track/33ihkBSArzmeAbT0DNDVsC) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [My Revival](https://open.spotify.com/album/07da4vVoTXWXZ0rdiIHL1d) | 3:44 | 2023-09-29 |  |
 | [New Light](https://open.spotify.com/track/6GQTJDcxw4c4qHkk4CUDt8) | [Mega](https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg) | [New Light](https://open.spotify.com/album/7fUsf40ugmlvEjNj6uGrFq) | 2:31 | 2023-01-04 | 2023-09-04 |
 | [Next To Me](https://open.spotify.com/track/1Xsxp1SEOxuMzjrFZhtw8u) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Our Version Of Events](https://open.spotify.com/album/3bPrapL1DmFkznWnTb7xNz) | 3:16 | 2023-01-04 |  |
-| [no longer bound](https://open.spotify.com/track/7anCH1IPfW8Jsjhw5ZViuN) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [California Cowboy](https://open.spotify.com/album/6WbSGtYjhsDT4sMbeONLBn) | 2:53 | 2024-02-09 |  |
+| [no longer bound](https://open.spotify.com/track/7anCH1IPfW8Jsjhw5ZViuN) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [California Cowboy](https://open.spotify.com/album/6WbSGtYjhsDT4sMbeONLBn) | 2:53 | 2024-02-09 | 2024-02-23 |
 | [No Longer Bound](https://open.spotify.com/track/08HjPPTP1GWkiIpVZKw2E3) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [California Cowboy](https://open.spotify.com/album/2a9qafMKqGnx33ScYB8nbp) | 3:00 | 2023-07-25 | 2024-02-14 |
 | [Nobody](https://open.spotify.com/track/1JvGjHoDwbekZ9lNVzH0GH) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Revival \(Deluxe\)](https://open.spotify.com/album/7lDBDk8OQarV5dBMu3qrdz) | 3:37 | 2023-01-04 |  |
 | [North](https://open.spotify.com/track/0pjBEOWMJTwzzjBrTAlbDd) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ) | [Silver Crane](https://open.spotify.com/album/1ufCvsEshySWoAvaWRVMbl) | 3:34 | 2023-01-04 | 2023-08-17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ejj0EkURtP.md) - [plain]
 
 > The biggest songs of the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,205,415 likes - 150 songs - 9 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,206,359 likes - 150 songs - 9 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ejj0EkURtP.md) - [plain]
 | 149 | [Levels \- Radio Edit](https://open.spotify.com/track/5UqCQaDshqbIk3pkhy4Pjg) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [Levels](https://open.spotify.com/album/1OEGfToF7QbjUgyxMAnGXg) | 3:19 |
 | 150 | [Super Bass](https://open.spotify.com/track/3hlksXnvbKogFdPbpO9vel) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday \(Complete Edition\)](https://open.spotify.com/album/7aADdYLiK1z7GlMFr0UIZw) | 3:20 |
 
-Snapshot ID: `MCxhNDgyZWZjZTZmNDBmNGI2ZWZlNTEyZTUwMzJiYzk4MWM0ZDA2ODFh`
+Snapshot ID: `MCw4NGU0ZDcwNWU3MjBmOWFhOTQwZDJmOGM3MDRhZDJkYjViMjdlMTNi`

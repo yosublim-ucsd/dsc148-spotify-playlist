@@ -4,11 +4,12 @@
 
 > Alpha frequencies to reach the point of ultimate relaxation.
 
-85 songs - 4 hr 16 min
+87 songs - 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [110 Hz \- 123 Hz Alpha Soundscape](https://open.spotify.com/track/3alCs4bLSLEVmq0f8pMy3V) | [Underscores And Drones](https://open.spotify.com/artist/4o2si54bTht8Zqe73sAHJb) | [Binaural Alpha Soundscapes for Deep Relaxation](https://open.spotify.com/album/4tIovUJTFv0rbj146oK5pi) | 3:00 | 2023-06-02 |  |
+| [432 Hz Tellus Heartbeat](https://open.spotify.com/track/3jZtP1Fbf4WO45BuCClXQJ) | [Aura Glow](https://open.spotify.com/artist/7IGjZnvxxrmq5LtjOSjLt6) | [432 Hz Tellus Heartbeat](https://open.spotify.com/album/3F6z3CdXwUdmEytOcDOdIf) | 2:45 | 2024-02-22 |  |
 | [92 Hz \- 100 Hz Alpha Soundscape](https://open.spotify.com/track/19OrKcIbpm8JyN416MrqnR) | [Underscores And Drones](https://open.spotify.com/artist/4o2si54bTht8Zqe73sAHJb) | [Binaural Alpha Soundscapes for Deep Relaxation](https://open.spotify.com/album/4tIovUJTFv0rbj146oK5pi) | 3:07 | 2023-06-02 |  |
 | [Alpha 6HZ](https://open.spotify.com/track/0D32zKm96iknCXO4fZDZKe) | [Amulett](https://open.spotify.com/artist/5jEi7bFTyCKl7NUgVtO90x) | [Binaural Movement](https://open.spotify.com/album/1hfV1O1wccF6G0IpR1Xnix) | 2:31 | 2023-04-28 |  |
 | [Alpha 8HZ](https://open.spotify.com/track/2b73pXF92rsFndS7FxeQ68) | [Schamanen](https://open.spotify.com/artist/6o3pIin2DmrRp7z2HMbIcT) | [Synchronized Beta](https://open.spotify.com/album/23X2NUStO3afzaR3uS6QU8) | 3:24 | 2023-04-28 |  |
@@ -87,6 +88,7 @@
 | [Sphere of Alpha 10 Hz](https://open.spotify.com/track/2lEDf4AwwqaVYpTftIqcBZ) | [The Inner Circle](https://open.spotify.com/artist/0mRW2BlrPBuwMkmtgZbDIB) | [Binaural Sphere](https://open.spotify.com/album/02tvTtzLWwJkElS8m4diA5) | 2:39 | 2023-04-28 |  |
 | [Steam](https://open.spotify.com/track/1cUhZBk6uXcUiyEkbzdP6k) | [Synchrophonic](https://open.spotify.com/artist/3TUQC7breUMMUi7bQVZQkP) | [Drones and Beats](https://open.spotify.com/album/4dqxnmrsRlZcjJOkRgP3FD) | 3:31 | 2023-04-28 |  |
 | [Stimulus \- Alpha sinus 95 \- 100hz](https://open.spotify.com/track/1WTzE86eipBlrg5RnzJTm5) | [Electronic Waves](https://open.spotify.com/artist/76njKl9PZjeFGyXq6FXsKT) | [Brain Entrainment](https://open.spotify.com/album/18d1Hr9e7GaU8VEoRK3lkJ) | 4:22 | 2023-04-28 |  |
+| [Suspended in Time 528Hz](https://open.spotify.com/track/2AlSl9svSZiPOz8HLGzehn) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Suspended in Time 528Hz](https://open.spotify.com/album/3wkXTVe5vEYlmdOg47BgNs) | 3:10 | 2024-02-22 |  |
 | [The Flow](https://open.spotify.com/track/5Omod9l5W2uYlYsXCGPoil) | [The Binaural Monk](https://open.spotify.com/artist/5pvkT3ytMcvZhh1CqW2C6B) | [The Flow](https://open.spotify.com/album/1BP0IKAWzL7pXt76l0g2Du) | 2:10 | 2023-07-07 |  |
 | [The Power of Now \(Alpha Waves\)](https://open.spotify.com/track/4gbAjIiEDIjEQoPTzQijkP) | [Leerseite](https://open.spotify.com/artist/7l8dnU5tDk33Zw78dgfwi5) | [The Power of Now \(Alpha Binaural Beats\)](https://open.spotify.com/album/3paWjmhxh5wcMFRumXjtxk) | 4:06 | 2023-04-28 | 2023-08-25 |
 | [Total \- Alpha Sinus 65,4hz \- 68,5 hz](https://open.spotify.com/track/1w8ZPmlfAahvTwfSKxoRRn) | [Drone](https://open.spotify.com/artist/4g3KE7YbVpqmgxg2zhxzXb) | [Healing Alpha Sinus](https://open.spotify.com/album/4kq3eKdVleRq8aYNT3iWCy) | 3:52 | 2023-04-28 |  |

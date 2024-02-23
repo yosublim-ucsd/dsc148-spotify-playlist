@@ -4,7 +4,7 @@
 
 > Slow instrumental Jazz for evening listening pleasure.
 
-287 songs - 18 hr 33 min
+288 songs - 18 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [In This Wonderful World](https://open.spotify.com/track/7cxOaLcFhKEH4IaBOd0F46) | [Rainy Days Trio](https://open.spotify.com/artist/0ZiJ1fWX1eDMn7PA74GdLN) | [In This Wonderful World](https://open.spotify.com/album/6DgGOcAfVYCHu7xX3ChE85) | 4:04 | 2022-05-17 |  |
 | [In Unforgettable Ways](https://open.spotify.com/track/5tt5XCZlIpHyrdMNNRm721) | [Dinner Club Band](https://open.spotify.com/artist/3FLF2qI9V3gVxBcvc3D2To) | [Beneath the Tide](https://open.spotify.com/album/5ew8lwhVmVfgLed2nv3Ay6) | 2:51 | 2022-04-26 |  |
 | [Indeed Necessary](https://open.spotify.com/track/1sYLG6wsPi6H2bGPAovwCz) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [Indeed Necessary](https://open.spotify.com/album/7JMgiEKjiWEY7e8e8bh3rt) | 2:57 | 2023-10-13 |  |
+| [Into Your Arms](https://open.spotify.com/track/4j1WoGCsyNS1Ja1JE9Zcuk) | [Trois Amis](https://open.spotify.com/artist/19hT5DHNATnRhmkR5LevK7) | [Into Your Arms](https://open.spotify.com/album/1Em9KboxpeR2GXE5tBueVh) | 2:51 | 2024-02-23 |  |
 | [Irridescent Mountains](https://open.spotify.com/track/6W2hNKNp5Brv1igihBn5zw) | [Felix McCoy Quartet](https://open.spotify.com/artist/2UIgtE5XCEu7BYtjaY8wsh) | [Irridescent Mountains](https://open.spotify.com/album/2Qkk2GO6d72FNEdGZloHwq) | 3:19 | 2023-04-13 |  |
 | [It Never Entered My Mind](https://open.spotify.com/track/6PKCEB5JzjCizpz9hUQcpX) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0), [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Coleman Hawkins Encounters Ben Webster \(Expanded Edition\)](https://open.spotify.com/album/5AmT3edRjRxnDR2ZVW3QJZ) | 5:46 | 2021-12-14 | 2022-09-30 |
 | [It Never Rains In Florida](https://open.spotify.com/track/1Z35oBnxnF9dUJIMvMzhky) | [Kendrettes](https://open.spotify.com/artist/2IQF92w0RMFsspuMr89Ylj) | [It Never Rains In Florida](https://open.spotify.com/album/7LytFaMhdA3l1NLT8X8CRu) | 2:48 | 2022-04-26 |  |

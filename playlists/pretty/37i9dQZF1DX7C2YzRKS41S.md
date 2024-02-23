@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 
 > Um pouco de folk, MPB e indie para acordar com o pé na estrada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,406 likes - 60 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,495 likes - 60 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 | 59 | [Telefonía](https://open.spotify.com/track/7zSBOSD4w5LGv1bIblkVFp) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Salvavidas de hielo](https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0) | 3:04 |
 | 60 | [Meant For Me](https://open.spotify.com/track/7Gt9tznlLCCe2gZoRzuLhD) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Along The Way](https://open.spotify.com/album/1xfdHLXMtp4hAhRLoMdiRJ) | 3:15 |
 
-Snapshot ID: `MCwyYWRkZmIzNGM3NWZhYWQ2YmUxYmE4MDA1NjhhNmQ1ZGQxZWE0N2Vl`
+Snapshot ID: `MCw0YjIxYzUyZGI3N2U3NzhlNDQxMmE5OWUyN2ZmYmZjNGQxNmIwYzM2`

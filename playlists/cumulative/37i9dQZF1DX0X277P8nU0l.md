@@ -4,7 +4,7 @@
 
 > Un café, un croissant et c‘est parti pour une bonne journée.
 
-202 songs - 11 hr 34 min
+203 songs - 11 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [A Night To Remember](https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Night To Remember](https://open.spotify.com/album/73wBVA41AulgjGiL3rBwfe) | 3:53 | 2023-10-19 |  |
 | [Aged Eyes](https://open.spotify.com/track/0gQbyxRhcMI8SM4eMZpSZF) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Kaya Thomas\-Dyke](https://open.spotify.com/artist/12WK0pR6DK71O5uqTHWzyE) | [Variables](https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6) | 4:06 | 2023-06-30 | 2024-01-03 |
 | [Aidono](https://open.spotify.com/track/6QusYd55DBtsTH2Q2xSehg) | [Evergreen](https://open.spotify.com/artist/2rdtngq3t4zQwluqyGfZuS) | [Aidono](https://open.spotify.com/album/5bYpJJqFRDseDSQ0z4vI0T) | 3:50 | 2022-12-21 | 2023-04-21 |
-| [All day](https://open.spotify.com/track/5X0K7EYfLnoztd4oSwucJv) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG), [Olivia Merilahti](https://open.spotify.com/artist/6i2umdD3q6XxXmqR8fRJuR) | [All day](https://open.spotify.com/album/6uJZYYLIdh24fxnIGe9Vbn) | 3:14 | 2023-12-15 |  |
+| [All day](https://open.spotify.com/track/5X0K7EYfLnoztd4oSwucJv) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG), [Olivia Merilahti](https://open.spotify.com/artist/6i2umdD3q6XxXmqR8fRJuR) | [All day](https://open.spotify.com/album/6uJZYYLIdh24fxnIGe9Vbn) | 3:14 | 2023-12-15 | 2024-02-23 |
+| [All day](https://open.spotify.com/track/6GAbbgKtgj2F4BwszjEk12) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG), [Olivia Merilahti](https://open.spotify.com/artist/6i2umdD3q6XxXmqR8fRJuR) | [Lost and found](https://open.spotify.com/album/4V5EXwlVZyDgqx5RHLik1z) | 3:14 | 2024-02-21 |  |
 | [All I Need To Hear](https://open.spotify.com/track/42Q00bTTgyQhPE2FVWaoJE) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [All I Need To Hear](https://open.spotify.com/album/13ztfgangyOF3Mxt5VbE1s) | 3:30 | 2022-12-21 | 2023-01-07 |
 | [angeleyes](https://open.spotify.com/track/0OFsazXhclEqk8JVNE12xl) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn), [Lou Roy](https://open.spotify.com/artist/4SXS92sCu5twnCUx4Dy44H) | [angeleyes](https://open.spotify.com/album/75iHw0qBQ8xJWpkwlOMafE) | 3:54 | 2023-05-04 | 2023-11-10 |
 | [Angels & Queens](https://open.spotify.com/track/4KpqdNIQw7S6DlZz8RjBzO) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Angels & Queens](https://open.spotify.com/album/1KIvBCWJuLhFYdXPvE8ExK) | 3:19 | 2022-12-21 | 2023-01-20 |

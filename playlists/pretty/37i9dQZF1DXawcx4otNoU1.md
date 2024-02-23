@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawcx4otNoU1.md) - [plain]
 
 > For those cozy moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 500,606 likes - 150 songs - 9 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 500,665 likes - 150 songs - 9 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawcx4otNoU1.md) - [plain]
 | 149 | [everytime we fall](https://open.spotify.com/track/2Y1Uszl2U8QdwOLtizvUUI) | [noui](https://open.spotify.com/artist/3NNLu9Wli3fbZW22xzN08B), [Heiakim](https://open.spotify.com/artist/7CSdLmKke7VFyb0ZJfl3W1) | [everytime we fall](https://open.spotify.com/album/1wmhx7Q7Y4dYDWJ7jOWwUQ) | 3:09 |
 | 150 | [Song For A Friend](https://open.spotify.com/track/52xQMyCABMvx7nSoPZXeSV) | [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [Song For A Friend](https://open.spotify.com/album/5QSrxF1V37uujwGsZdYy4I) | 3:56 |
 
-Snapshot ID: `MCxhZTQwN2ZlODVmM2RiZDQ4ZTFjNWQyNTE3ZTVhMjM1MDU1OTkzZTFl`
+Snapshot ID: `MCwyMDNlYTkxOGVkNmVlODJlNGYxMmQxM2NhOTQ1ZTFkNWI3ZTA1MzFi`

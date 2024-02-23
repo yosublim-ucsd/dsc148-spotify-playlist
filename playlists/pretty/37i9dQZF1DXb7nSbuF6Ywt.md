@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7nSbuF6Ywt.md) - [plain]
 
 > A solid mix of favourites for any time, any place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,420 likes - 100 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,462 likes - 100 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7nSbuF6Ywt.md) - [plain]
 | 99 | [If You Leave Me Now](https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago X](https://open.spotify.com/album/4asBn7hzIq2Ka7rDzJN24P) | 3:55 |
 | 100 | [Valerie \- Live At BBC Radio 1 Live Lounge, London / 2007](https://open.spotify.com/track/6nLvaCZFR1wEzW3sIKpsnr) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 3:53 |
 
-Snapshot ID: `MCw0NGY1N2U5NGU1MzY1ZDI0ZmY1OTdlZGZmOTJlNjU3MWNiNWZlZWU2`
+Snapshot ID: `MCwxODY3YzUwMGViMjljYTVkMWRlNjQ1ZjBmMGRjNWQ3YTQxMmI4MDc5`

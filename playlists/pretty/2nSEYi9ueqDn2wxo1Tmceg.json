@@ -6,8 +6,28 @@
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "Mzg4OCw5MTA5NWQwNjM3ZWI1NGQyNDllZWIyYmM1MTdkODQ0MzU5MDgxNjg3",
+  "snapshot_id": "Mzg4OSwwNTc4YjVmYmQ3Mzc2MDc4NjNlZjIxNGQzZmE3Y2MwMGZhY2VkYmJl",
   "tracks": [
+    {
+      "added_at": "2024-02-22 11:16:51",
+      "album": {
+        "name": "All The Same (Mandy, Indiana Remix)",
+        "url": "https://open.spotify.com/album/4Zrv5qWt0Ux02mynONQSyy"
+      },
+      "artists": [
+        {
+          "name": "Fat Dog",
+          "url": "https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe"
+        },
+        {
+          "name": "Mandy, Indiana",
+          "url": "https://open.spotify.com/artist/2nDJxXJ7PtW7eLpFXcGH3u"
+        }
+      ],
+      "duration_ms": 271034,
+      "name": "All The Same - Mandy, Indiana Remix",
+      "url": "https://open.spotify.com/track/29pmTqAgwWmOPnvfu1J918"
+    },
     {
       "added_at": "2024-02-21 12:35:51",
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 
 > Throw your lighters in the air and wave them like you don't care\. Cover: Guns N' Roses
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,330,009 likes - 100 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,330,434 likes - 100 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 | 99 | [Fall to Pieces](https://open.spotify.com/track/4A9O9e4iTm4bYnOPSzWaGb) | [Velvet Revolver](https://open.spotify.com/artist/7CHilrn81OdYjkh4uSVnYM) | [Contraband](https://open.spotify.com/album/5pJSDIgzal89ksQUzcGGFE) | 4:31 |
 | 100 | [Ohne dich](https://open.spotify.com/track/4Hruh5C0Ef3y8mIcns5Y1O) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Reise, Reise](https://open.spotify.com/album/09qHS2BgOLqi3SMkbauxdJ) | 4:31 |
 
-Snapshot ID: `MCxlMmNmYzNiOTJiMzZkMWEyNDViZWMzNjg5YmE1YjA3ZDA2NDg4Zjhi`
+Snapshot ID: `MCwwYjRhODFhYzMzYzZkMDg4NmY3MTdiNzE5ZGY1NThjODVlMTEzOTZi`

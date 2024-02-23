@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music each and every Friday, with selects from prominent musicians across the map in honor of Black History Month\. Cover: <a href="spotify:playlist:37i9dQZF1DWVgsJtp58d1t">Beyoncé</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,008,805 likes - 99 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,009,020 likes - 99 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 77 | [Wanna Come Thru](https://open.spotify.com/track/1peSFUNahpj7paMnJGg9aX) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk) | [Wanna Come Thru](https://open.spotify.com/album/5XlqlnXXjWMlgfj2Y4pyOF) | 2:11 |
 | 78 | [Say Cheese](https://open.spotify.com/track/7uJkYfpWvJiiBGsChnk56I) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8) | [Say Cheese](https://open.spotify.com/album/1UGN9fmJaWKfTuwmmyaQ3N) | 2:33 |
 | 79 | [SHOWER SONG](https://open.spotify.com/track/4mD2clo4xlw6aCk5LC7dsi) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [SHOWER SONG](https://open.spotify.com/album/7zJhaYDSEPb6mybiV8sdl5) | 2:43 |
-| 80 | [Danger](https://open.spotify.com/track/6PZWlB5Z54Ap2FmeUnooMq) | [KAMAUU](https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc) | [Danger](https://open.spotify.com/album/6POfEs8ynjGPawz4fQmGXB) | 3:02 |
+| 80 | [Danger](https://open.spotify.com/track/6PZWlB5Z54Ap2FmeUnooMq) | [Victorious De Costa](https://open.spotify.com/artist/4WWyrxwRv2tnUNrTh4lK4U), [KAMAUU](https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc) | [Danger](https://open.spotify.com/album/6POfEs8ynjGPawz4fQmGXB) | 3:02 |
 | 81 | [MYSTERIOUS LOVE](https://open.spotify.com/track/6E60TB6THcK8aglk78MHbS) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [IS IT YOU? / MYSTERIOUS LOVE](https://open.spotify.com/album/3nYZCI9RDtpcy5TtMKjwyS) | 2:32 |
 | 82 | [Heart Ain't Empty](https://open.spotify.com/track/1PqnJfIMxnUrpUISfdbPGQ) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Heart Ain't Empty](https://open.spotify.com/album/7s00wxQvavyaVWYPJjL9gr) | 2:57 |
 | 83 | [Passports & Suitcases \(feat\. KayCyy\)](https://open.spotify.com/track/0A0ZpEwDk5iNNfxUSYeJCt) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL) | [Passports & Suitcases \(feat\. KayCyy\)](https://open.spotify.com/album/51CsULE4CnOMvX0Vkiau0s) | 2:49 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 98 | [SILYMI](https://open.spotify.com/track/2z1tHGVkMogil6jUCbZowQ) | [TeZATalks](https://open.spotify.com/artist/6olAhxDEja5fYKEHF6tA2W) | [SILYMI](https://open.spotify.com/album/6e9e4kvwl1CY0HtQ92vGbg) | 2:29 |
 | 99 | [Hotter Now](https://open.spotify.com/track/4BIyKFJ2pgh3eY7Hc4Ce0k) | [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Hotter Now](https://open.spotify.com/album/7yYUYzfzUGWPkqY1crWBlh) | 3:01 |
 
-Snapshot ID: `MCxiYzNhM2E1YzQ4MjAyMGMwMzNlYzFmZDc2ZWFmYzFhZTc3NzY1MzIx`
+Snapshot ID: `MCxkMDQzYjZjMDdhMWU2MjA3NTFlNWQwNjQzZDgxYTNiNGQ5NGMzOTky`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKCIjknUoQ.md) - [plain]
 
 > Le meilleur du rock français moderne\. Photo : Matmatah
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,082 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,118 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKCIjknUoQ.md) - [plain]
 | 49 | [L'iditenté](https://open.spotify.com/track/6mZO5vMvCTBQ9JyBx5D5gH) | [Têtes Raides](https://open.spotify.com/artist/2omAWwH1ZV9JYIyfMUQSgG) | [Gratte Poil](https://open.spotify.com/album/2utInP6jbz1gVaTm8Djozo) | 4:27 |
 | 50 | [Droit Dans Le Soleil](https://open.spotify.com/track/4rpeOY4yFkKFcImfFxZqqu) | [Detroit](https://open.spotify.com/artist/4t5BWOtBj0BZwYlntlKKDj) | [Horizons](https://open.spotify.com/album/5NAlRXuJEAqDjuYlzuGewb) | 3:24 |
 
-Snapshot ID: `MCw2OGFmYWFlN2JmNDZlMmQzYWEyMDdjZjRkNGQ0MDI0Y2E0MmRhMTlh`
+Snapshot ID: `MCxkZmE3OThmZjgyZDhkMmE2ZmYzNTFkYzA3NTFmZTNiNDBiMGZjNWVm`

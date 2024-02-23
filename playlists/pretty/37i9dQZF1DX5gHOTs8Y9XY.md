@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gHOTs8Y9XY.md) - [plain]
 
 > A beginners introduction to the beauty of Jazz\. Cover: Chet Baker
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,531 likes - 100 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,626 likes - 100 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gHOTs8Y9XY.md) - [plain]
 | 99 | [Tenor Madness \- Rudy Van Gelder Remaster](https://open.spotify.com/track/7f4svguucdFTOv6gOjOvhO) | [Sonny Rollins Quartet](https://open.spotify.com/artist/2mlKlEmxOO3vb6DqopDh4H), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Tenor Madness](https://open.spotify.com/album/7Jpvy75Z6twnPyADNBzeII) | 12:13 |
 | 100 | [Alone Together](https://open.spotify.com/track/7lApnj6eswDJvT8mqGrut6) | [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj) | [New York Jazz](https://open.spotify.com/album/5iQMDqjUmF9ZY1sLsK5Vmm) | 4:51 |
 
-Snapshot ID: `MCxiZjA2NjkyYjQwNTJhNjBmMzI3Y2U1OTc3MWE4MWY1ZjA4MjMwNjk0`
+Snapshot ID: `MCwzNDQwMWUzMTI1NjY3MDRkZjM1OGE1ZThhNWMwNzg3YjVhOThmZTVl`

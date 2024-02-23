@@ -616,7 +616,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 234352,
       "name": "La Bebe - Remix",
       "url": "https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU"
@@ -722,7 +722,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 212878,
       "name": "LADY GAGA",
       "url": "https://open.spotify.com/track/7mXuWTczZNxG5EDcjFEuJR"
@@ -878,6 +878,40 @@
       "duration_ms": 184027,
       "name": "M.A.I",
       "url": "https://open.spotify.com/track/35ttE4t8lQZA2vuCYDg4G7"
+    },
+    {
+      "album": {
+        "name": "Atrevido",
+        "url": "https://open.spotify.com/album/1xBoZOfcOsqd77V6AENKYC"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Taiu",
+          "url": "https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic"
+        },
+        {
+          "name": "TATOOL",
+          "url": "https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219201,
+      "name": "Mamichula - con Nicki Nicole",
+      "url": "https://open.spotify.com/track/0TUW9faHNaBmi89wsYGp9y"
     },
     {
       "album": {
@@ -1156,6 +1190,28 @@
       "duration_ms": 188361,
       "name": "Peso Pluma: Bzrp Music Sessions, Vol. 55",
       "url": "https://open.spotify.com/track/5AqiaZwhmC6dIbgWrD5SzV"
+    },
+    {
+      "album": {
+        "name": "Piel",
+        "url": "https://open.spotify.com/album/4HB0tHV2edhM1QJXFYeKLy"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141079,
+      "name": "Piel",
+      "url": "https://open.spotify.com/track/4wS0TnQzVkY9ML1BPKpOk1"
     },
     {
       "album": {

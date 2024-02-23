@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX661EjJOj3Tu.md) - [plain]
 
 > The irresistible rhythms of Latin jazz\. Cover: Tito Puente
 
-[Spotify](https://open.spotify.com/user/spotify) - 515,429 likes - 100 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 515,470 likes - 100 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX661EjJOj3Tu.md) - [plain]
 | 99 | [Descarga Entre Amigos \(feat\. Rubén Blades\)](https://open.spotify.com/track/2wDWb88s7POYtWg5757eiE) | [Carlos Henriquez](https://open.spotify.com/artist/7jDk9ohezXq697Zz5X2KPI), [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [The Bronx Pyramid](https://open.spotify.com/album/3tzUc7mPAuBZCWAM28Ithw) | 5:21 |
 | 100 | [Summertime](https://open.spotify.com/track/61kdYuzRxng0e8rKb3QLq6) | [Giovanni Hidalgo](https://open.spotify.com/artist/5x8FeI2yziZBdKbfAhvms6) | [Worldwide](https://open.spotify.com/album/20QQyfHLjyZENU9jJFEvdj) | 7:05 |
 
-Snapshot ID: `MCwzYzFhM2UxZTk0YjYzNjUyNzQ0YmI3ZTI1MjkxNGU2MjVjYTRlYjdh`
+Snapshot ID: `MCxlN2MzZDRmYjQ0M2JiNzkxMWUxOThhMjI3MmY5NWI1Njg1NGZiYWFl`

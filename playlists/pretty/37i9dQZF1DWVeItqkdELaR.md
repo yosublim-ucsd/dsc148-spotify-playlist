@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVeItqkdELaR.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,083 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,093 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVeItqkdELaR.md) - [plain]
 | 99 | [Bebé](https://open.spotify.com/track/2elwWMHTuAEiPwG9IWg5dP) | [Nininho Vaz Maia](https://open.spotify.com/artist/7bMt24fjCeUulKxEUyLdL6) | [Bebé](https://open.spotify.com/album/4e7N0a611cO24FwRxD0Rdp) | 2:32 |
 | 100 | [Pode Tentar](https://open.spotify.com/track/2vFjbIf5sKoXsXdBG2E9Xf) | [Maninho](https://open.spotify.com/artist/0c1Tiu4dJze8OTzxJ7Yowr) | [Pode Tentar](https://open.spotify.com/album/7tqfs2HS7LyVIKS6u8hTgS) | 2:35 |
 
-Snapshot ID: `MCxiMzk0MzJjN2QxM2JjYjMyZDc0YWQ0ZTczOTg1ODIzZDcxMmExYWU4`
+Snapshot ID: `MCw1ZTNiOTU1OWIyY2MyNDJhZGNiOTJmNzMyYWNhZjY3NDVlODczMGYz`

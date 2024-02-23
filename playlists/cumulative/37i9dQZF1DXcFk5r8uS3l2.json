@@ -3996,10 +3996,28 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 180995,
       "name": "Nothing's Gonna Stop Me Feeling Good",
       "url": "https://open.spotify.com/track/3578ilBVTJbZFgJH8z8lxn"
+    },
+    {
+      "album": {
+        "name": "Nothing's Gonna Stop Me Feeling Good",
+        "url": "https://open.spotify.com/album/1JHZ601aiZH8AexrDLnxbp"
+      },
+      "artists": [
+        {
+          "name": "The Gulls",
+          "url": "https://open.spotify.com/artist/2n0FlGHc3OxI0x2WI39BEc"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180995,
+      "name": "Nothing's Gonna Stop Me Feeling Good",
+      "url": "https://open.spotify.com/track/4rmOzQCwbGIiukTKmpRHlC"
     },
     {
       "album": {

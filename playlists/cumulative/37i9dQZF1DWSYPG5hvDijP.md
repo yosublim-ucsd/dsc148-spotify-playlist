@@ -4,7 +4,7 @@
 
 > New Hip Hop from India.
 
-226 songs - 11 hr 55 min
+227 songs - 11 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [808](https://open.spotify.com/track/5zq4bkV1NxcJ9pyZCXqE6l) | [Srushti Tawade](https://open.spotify.com/artist/1fhSwtJ9X5HrqaK9vfCV2M) | [Breadcrumbs](https://open.spotify.com/album/729KNJXudnLaQoZkCnYeDc) | 2:09 | 2023-09-13 | 2023-10-28 |
 | [Aaj Kya Karu?](https://open.spotify.com/track/5fWTE8vJR97JJmqjyhGli4) | [Shuman](https://open.spotify.com/artist/37RVI9e6Cg0mE3QZ3aDcpd) | [Aaj Kya Karu?](https://open.spotify.com/album/33lk0F1GAKHxbKCGMAgZZl) | 3:02 | 2023-04-01 | 2023-04-17 |
 | [Aaropi](https://open.spotify.com/track/3dJWfCq3I3i2NQJkpQLYNS) | [Loka](https://open.spotify.com/artist/0AK5uxL2fY52xEoj1bBySu) | [Loka Kaha Hai \(Side A\)](https://open.spotify.com/album/1RTiXgD0zfpa32wqRFVNRe) | 3:14 | 2023-12-13 |  |
+| [AAT](https://open.spotify.com/track/4RXRgE3ShaYBrFxy2q0OkK) | [Simba Sing](https://open.spotify.com/artist/7Dn0LHcvgOdA2lcsHwmWcj) | [AAT](https://open.spotify.com/album/3urwKaj9Rps57JJppOQIzx) | 2:01 | 2024-02-22 |  |
 | [ABBU](https://open.spotify.com/track/6XQZXteMzrGkV3ogDLmf2R) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC) | [PRAA](https://open.spotify.com/album/4OsOipytcFs0SwulwIAtis) | 2:49 | 2023-03-29 | 2023-07-21 |
 | [Akela](https://open.spotify.com/track/7kgNsbE5PjQq1eqinaZvEN) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Phenom](https://open.spotify.com/artist/03hG7s3MUquIZwa4OvtLD7) | [Akela](https://open.spotify.com/album/1PqapJIkqEoL6CudXe6Rzd) | 4:03 | 2023-03-29 | 2023-04-17 |
 | [ALAG BT](https://open.spotify.com/track/6UWlAw7SRidFHyYgiqlqX0) | [Munawar Faruqui](https://open.spotify.com/artist/7yLGN6pQ3Fll8eWpjJwwQl), [Hitzone](https://open.spotify.com/artist/0mtJ84Ykk72kP5NvC14s6V), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [ALAG BT](https://open.spotify.com/album/0w17qtUDmxXdh5fsHynOCm) | 3:20 | 2023-03-29 | 2023-06-02 |
@@ -100,7 +101,7 @@
 | [HEALER \(Pa Ni Sa\)](https://open.spotify.com/track/5ZEp8HXjcsJVVfy88V9LfC) | [Agsy](https://open.spotify.com/artist/6vEZoTDeZRvmQc1XXJCQBp), [Bella](https://open.spotify.com/artist/7JPv4d46znI7x7VOkdHNAa) | [HEALER \(Pa Ni Sa\)](https://open.spotify.com/album/3WQxcltWctIEvmvdqK9gHG) | 2:33 | 2023-04-16 | 2023-07-21 |
 | [Heat](https://open.spotify.com/track/2jiqurufki36TQmtpoFSwu) | [Rebh Singh](https://open.spotify.com/artist/09LFFWvZNlVVlxLdpTonrC) | [Heat](https://open.spotify.com/album/6JQlLXlbrXbdd0YGKRufkr) | 1:57 | 2023-11-09 | 2023-12-07 |
 | [HELLO](https://open.spotify.com/track/5HTVLbAStMB6MgfGOww6xW) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC) | [PRAA](https://open.spotify.com/album/4OsOipytcFs0SwulwIAtis) | 2:54 | 2023-03-29 | 2023-06-02 |
-| [Here to Rule](https://open.spotify.com/track/59UjVsciK1MazaY2r8jDfK) | [Madhakaala Brar](https://open.spotify.com/artist/795ZMlNN8jjVfrv32qm6Iv), [Kunwxrr](https://open.spotify.com/artist/2ln8u0bAiqCrbEeskIGOpL) | [Here to Rule](https://open.spotify.com/album/22Nj90V18JkQiezrpBhWFa) | 3:57 | 2024-02-13 |  |
+| [Here to Rule](https://open.spotify.com/track/59UjVsciK1MazaY2r8jDfK) | [Madhakaala Brar](https://open.spotify.com/artist/795ZMlNN8jjVfrv32qm6Iv), [Kunwxrr](https://open.spotify.com/artist/2ln8u0bAiqCrbEeskIGOpL) | [Here to Rule](https://open.spotify.com/album/22Nj90V18JkQiezrpBhWFa) | 3:57 | 2024-02-13 | 2024-02-23 |
 | [HipHop](https://open.spotify.com/track/2P93lGrpCAYBsRDkwTAJUR) | [Archiesman Kundu](https://open.spotify.com/artist/17L6rZzYeBhlhbM2QrP1dp), [Rawhit](https://open.spotify.com/artist/7kgwOK3eQom7HQwkpbRwO9) | [HipHop](https://open.spotify.com/album/6HVA3RkFCgLUNPzWU8vPjX) | 2:37 | 2023-04-28 | 2023-06-02 |
 | [Hola Amigo](https://open.spotify.com/track/19pHSvXUwErAXFktkvYMk9) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [FAR FROM OVER](https://open.spotify.com/album/4013u1RNEHieH8NwnN0vNh) | 3:46 | 2023-08-29 |  |
 | [Hona Hi Tha](https://open.spotify.com/track/3ezm3DukK26vagWIIPvmgS) | [yungsta](https://open.spotify.com/artist/4HQz6xUrKEKQ8nmMKsfvkB), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe), [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [Encore ABJ](https://open.spotify.com/artist/1GNRmzBPWT8hh6CYxkNiRy), [dilliboy](https://open.spotify.com/artist/37KYCGXSG8pWVFC0fQbWoh) | [MEEN](https://open.spotify.com/album/0x8LEMRVAJWEdX6cGEcJeu) | 4:22 | 2023-05-12 |  |

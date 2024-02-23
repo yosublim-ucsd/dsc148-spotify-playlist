@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1IUaS6F7Z8.md) - [plain]
 
 > All of the Celtic punk essentials.\. Cover: Dropkick Murphys
 
-[Spotify](https://open.spotify.com/user/spotify) - 416,184 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 416,344 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1IUaS6F7Z8.md) - [plain]
 | 49 | [Old Maui](https://open.spotify.com/track/3RR2COvkYZlw28BmyxdTFO) | [Brave the Sea](https://open.spotify.com/artist/2ImOzhCBveQtdB7x0RcHkQ) | [The Murders Three](https://open.spotify.com/album/32nwMM1uqcXZpRyD3sxgfo) | 2:26 |
 | 50 | [Drink Some More](https://open.spotify.com/track/71MLYxrDVR7PjGmOPqghp9) | [The Real McKenzies](https://open.spotify.com/artist/1YczG6BNjM9XAnw64RqnXi) | [Off the Leash](https://open.spotify.com/album/2lm8NrhAtM2ez61pI92J3l) | 3:19 |
 
-Snapshot ID: `MCw5YTY5MzE2YzdhYmIzOWNiNmVkNGZjMDVjYjA4ODIxZDIzOTA0NTM3`
+Snapshot ID: `MCxmMDA5ZjJlYTg5ZTJjN2U3OWRmNjcwMzRlMDZhOTk1ZjY1NmFiYTk5`

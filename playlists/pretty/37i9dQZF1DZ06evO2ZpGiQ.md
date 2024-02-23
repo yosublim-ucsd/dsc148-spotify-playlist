@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZpGiQ.md) - [plain]
 
 > This is Lil Wayne\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 415,673 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 415,769 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZpGiQ.md) - [plain]
 | 34 | [Lollipop](https://open.spotify.com/track/4P7VFiaZb3xrXoqGwZXC3J) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Static Major](https://open.spotify.com/artist/3pbi8H08p95NUZ7m6ybxUV) | [Tha Carter III](https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP) | 4:59 |
 | 35 | [Only](https://open.spotify.com/track/4MRT0dDbhqFKl67WzhUbSw) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [The Pinkprint \(Deluxe\)](https://open.spotify.com/album/5ooCuPIk58IwSo6DRr1JCu) | 5:12 |
 | 36 | [Love in This Club, Pt\. II \(feat\. Beyoncé & Lil' Wayne\)](https://open.spotify.com/track/2bppvcuQhuMcJZHtM9So7r) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Here I Stand](https://open.spotify.com/album/2peB0xKYHSlIWc5boFA6PW) | 5:09 |
-| 37 | [Believer \(feat\. Lil Wayne\)](https://open.spotify.com/track/2sU9EjevkrU9OkPZudvFNN) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Believer \(feat\. Lil Wayne\)](https://open.spotify.com/album/6Q0aPCxLqK5EDSJdlPkNeT) | 3:39 |
-| 38 | [RNB \(feat\. Lil Wayne & Tate Kobang\)](https://open.spotify.com/track/4DNmr6nXrvHLRh6oxOHNsz) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Tate Kobang](https://open.spotify.com/artist/05ZOzt8hlefGYXWJIL37PI) | [Pink Friday 2](https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2) | 3:04 |
+| 37 | [RNB \(feat\. Lil Wayne & Tate Kobang\)](https://open.spotify.com/track/4DNmr6nXrvHLRh6oxOHNsz) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Tate Kobang](https://open.spotify.com/artist/05ZOzt8hlefGYXWJIL37PI) | [Pink Friday 2](https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2) | 3:04 |
+| 38 | [Believer \(feat\. Lil Wayne\)](https://open.spotify.com/track/2sU9EjevkrU9OkPZudvFNN) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Believer \(feat\. Lil Wayne\)](https://open.spotify.com/album/6Q0aPCxLqK5EDSJdlPkNeT) | 3:39 |
 | 39 | [Droppin' Seeds \(feat\. Lil' Wayne\)](https://open.spotify.com/track/39u2PsqrAZpZ0KPx6CjasV) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Flower Boy](https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o) | 1:00 |
 | 40 | [SEVEN \(with Lil Wayne\)](https://open.spotify.com/track/0pMqb24GW0NLPVkVw8NMVT) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [INSANO](https://open.spotify.com/album/0tpIUAzCeUkoV4u2r5NrQr) | 2:31 |
 | 41 | [Mona Lisa \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/0dbTQYW3Ad1FTzIA9t90E8) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Tha Carter V](https://open.spotify.com/album/50yFYgKdwJANZ5O9MIbMkg) | 5:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZpGiQ.md) - [plain]
 | 49 | [Transparency \(feat\. USHER\)](https://open.spotify.com/track/4f5rBgdoka8ffiFAX9GNuO) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Welcome 2 Collegrove](https://open.spotify.com/album/2LdlfTE6xqf2Ez8LPAFZSy) | 3:15 |
 | 50 | [Back That Azz Up](https://open.spotify.com/track/6o2g1BJvtYQssH84kBYs7y) | [JUVENILE](https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Mannie Fresh](https://open.spotify.com/artist/0fbFfVckGKsDbAfYnB5mD1) | [400 Degreez](https://open.spotify.com/album/6wpqS71CJr3I0dLguYiZdJ) | 4:25 |
 
-Snapshot ID: `Mjg0NzUyOTAsMDAwMDAwMDA1ZDEzODliNGU5YWM3ODA3ZDllMjIxMDdmNmFhMmVjMA==`
+Snapshot ID: `Mjg0NzcwNzUsMDAwMDAwMDBhM2I0MGU0NWIyMGQ1MGJlZGVjN2ExZGZjMWQ4NmM1MQ==`

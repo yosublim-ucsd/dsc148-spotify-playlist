@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28npkgy2RE4.md) - [plain]
 
 > New styles, deep sounds\. Cover: Helado Negro
 
-[Spotify](https://open.spotify.com/user/spotify) - 416,367 likes - 150 songs - 9 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 416,378 likes - 150 songs - 9 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28npkgy2RE4.md) - [plain]
 | 149 | [Turn Off The News \(Build A Garden\) \- Acoustic](https://open.spotify.com/track/2MveWLaASfY6eQb0IpSxzq) | [Lukas Nelson and Promise of the Real](https://open.spotify.com/artist/5iXYJYmMcjlTFL1qA8UfgY) | [Turn Off The News \(Build A Garden\)](https://open.spotify.com/album/4pq1gNWh38JQfazZqxjH5m) | 3:01 |
 | 150 | [Requiem](https://open.spotify.com/track/5w4axvkZhiRqoE0PP6teSo) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [Requiem](https://open.spotify.com/album/4Xr1qkaJY6ICHp7nh1rzec) | 3:38 |
 
-Snapshot ID: `MCxjMGZkODNkNjgyMGM3MzdlOGY2N2E4OGRlNDI3Yjk1NmMyMDk0N2Zh`
+Snapshot ID: `MCxmOTc1NDM5YmE4N2YwOTQ2NzMwZWQwMmFiN2YxNzBmMWU1ZDViZDQ2`

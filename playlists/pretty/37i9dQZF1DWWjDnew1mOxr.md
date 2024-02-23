@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 
 > Boss music for boss people\. Cover: JAMIE WEBSTER
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,479 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,489 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 | 99 | [Hardly News](https://open.spotify.com/track/1vB2WPQZUrm1jL0zPZtnhX) | [Declan Welsh and The Decadent West](https://open.spotify.com/artist/6KNqvxgfYVRSzgAE1j2UT5) | [2](https://open.spotify.com/album/5ycbPGmtrkxqAOL2QuLKBe) | 3:22 |
 | 100 | [Hiding & Reading](https://open.spotify.com/track/07LMjoua9eEWxfLxqZ7PUQ) | [The Hubbards](https://open.spotify.com/artist/5qU07JDAP3mSTpsbRcEbYD) | [Hiding & Reading](https://open.spotify.com/album/1kGZ5GfyjsH1v4ZiGVWjj6) | 2:58 |
 
-Snapshot ID: `MCwzZjM5ZTJhYTE3NjQwYTdhMTljMjViNGRhYTQ3NzkxNDNmOGI2N2E4`
+Snapshot ID: `MCw4ZGYxODlhYWE5ZGFiZTY4Y2I5OWU3ZWNlZWNjYjVlNTljNWI1YTY0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Matt Champion
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,328,380 likes - 105 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,328,371 likes - 105 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 104 | [Jasmine](https://open.spotify.com/track/6bniCXManaPDnCN34waQs6) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Jasmine](https://open.spotify.com/album/1DBHlk9JyIXfKOFtK7mYjQ) | 3:39 |
 | 105 | [Police Scanner](https://open.spotify.com/track/15YfCOUZ0480yVO8huUvTY) | [Chanel Beads](https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL) | [Police Scanner](https://open.spotify.com/album/3UEx6dCjY47tO4a57de8dW) | 2:22 |
 
-Snapshot ID: `MCw1MmMxOWEyYjFlNGQwYjMyM2UxYTE3NDc3MjQ4ZmNmMDEyYmM4Yjhl`
+Snapshot ID: `MCw2YWRkNGIzYjQxMDc3N2JkYzBhOGExNTdlNGEwOTdhMDgyNTI4ODJm`

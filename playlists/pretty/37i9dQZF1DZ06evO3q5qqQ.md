@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q5qqQ.md) - [plain]
 
 > This is Grupo Arriesgado\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,319 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,359 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q5qqQ.md) - [plain]
 | 15 | [Levantando Polvadera \(En vivo\)](https://open.spotify.com/track/63z6pfIFHMXPUvZCuXOL9W) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Los Populares Del Llano](https://open.spotify.com/artist/5ZZ2zIylJkPJVKZDVwW29B) | [Jalando La Bandona \(En Vivo\)](https://open.spotify.com/album/1XOu9hIZACtCfv5XyK7Ns7) | 2:09 |
 | 16 | [Modo Avion](https://open.spotify.com/track/4pljc9DdwyxBPojzgHpoL4) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Modo Avion](https://open.spotify.com/album/1RV8eX7Z0Prav12ViroXxd) | 3:05 |
 | 17 | [Rosas](https://open.spotify.com/track/3uFzo9GFVS3Yw4KIVdsYHN) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Rosas](https://open.spotify.com/album/6sDgZzqJBy8r5TWPPVjL1E) | 4:33 |
-| 18 | [Son Cosas De La Peda](https://open.spotify.com/track/7r4zmKeD4bTlj9Sg1KjWSz) | [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Son Cosas De La Peda](https://open.spotify.com/album/1JIFXZFu0d8ZPUiyq531zE) | 2:35 |
-| 19 | [Amigos Mis Huevos](https://open.spotify.com/track/2psdyq0rZCpZINw5C55GcG) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Amigos Mis Huevos](https://open.spotify.com/album/1RXRTjAoDzIbi0z96VsaW1) | 2:29 |
+| 18 | [Amigos Mis Huevos](https://open.spotify.com/track/2psdyq0rZCpZINw5C55GcG) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Amigos Mis Huevos](https://open.spotify.com/album/1RXRTjAoDzIbi0z96VsaW1) | 2:29 |
+| 19 | [Son Cosas De La Peda](https://open.spotify.com/track/7r4zmKeD4bTlj9Sg1KjWSz) | [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Son Cosas De La Peda](https://open.spotify.com/album/1JIFXZFu0d8ZPUiyq531zE) | 2:35 |
 | 20 | [Los Mitotes](https://open.spotify.com/track/0MEHgDJShhpGFQ5DRWEge0) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [El Mes De Las Madres](https://open.spotify.com/album/5wUs3Gjy7H6Pvq873lvoDN) | 3:28 |
 | 21 | [La Ley del Mayo](https://open.spotify.com/track/4JgF8vGk0Vp3rBOHWBMjW7) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [La Ley del Mayo](https://open.spotify.com/album/0XCMIwN9p62x59fQn6eQTH) | 3:36 |
 | 22 | [El Precio De La Soledad](https://open.spotify.com/track/7pYfcq47xJDP98syaVhpuK) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [El Precio De La Soledad](https://open.spotify.com/album/2eJw7c1smx7ycjTqcBgI5I) | 2:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q5qqQ.md) - [plain]
 | 49 | [El Apache](https://open.spotify.com/track/6JtzRe7OZeTp3np1d3qULV) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Corridos Bélicos, Vol\. 3](https://open.spotify.com/album/2tqw9Hsyxr5G3bCR5NgWGo) | 2:48 |
 | 50 | [El Mundo Es Tuyo](https://open.spotify.com/track/7lygN96gNT6JH0tkvaJm5i) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [El Mundo Es Tuyo](https://open.spotify.com/album/5HAH4US9VHIkAxixOd8fE4) | 3:29 |
 
-Snapshot ID: `Mjg0NzUyOTAsMDAwMDAwMDBhOThmYWVhNjVjMTc4M2I2MGZhYjkzNzIwNDNjYWJhNw==`
+Snapshot ID: `Mjg0NzcwNzUsMDAwMDAwMDA0ZjM1ZWI1NWYxZDcyNzk1Zjc0OTM2OTZlNjZjMTU2Zg==`

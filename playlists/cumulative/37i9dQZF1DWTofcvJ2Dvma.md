@@ -4,7 +4,7 @@
 
 > Soundtrack your practice with this mix of chill and motivational tracks perfect for vinyasa yoga.
 
-477 songs - 20 hr 3 min
+481 songs - 20 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Blue](https://open.spotify.com/track/6jpQ73DuZifjGw2VDnj21p) | [The Easy Breeze](https://open.spotify.com/artist/5MpwtWtFfapulpKEjAeU81) | [Blue](https://open.spotify.com/album/01dwUb3AtTgxqnYLMzk5La) | 2:15 | 2022-10-25 | 2022-11-26 |
 | [Blurry](https://open.spotify.com/track/3tLmQrqggs7KI3S3IidjHc) | [Fiber Zone](https://open.spotify.com/artist/4sDZLaSAdjXRiSOZkLMBlA) | [Blurry](https://open.spotify.com/album/2oZNNkRDp2sLFsBg3yE7jk) | 2:24 | 2022-06-22 | 2024-01-20 |
 | [bonded bass](https://open.spotify.com/track/6OopFjOT4EwXMLbBbJBbTM) | [Leo Zane](https://open.spotify.com/artist/7xIrUrdfYoRUQdcBUGP3di) | [bonded bass](https://open.spotify.com/album/6EYdVOqsyaNZlo9uRmqi1t) | 2:02 | 2024-01-19 |  |
+| [brainin' in my rainin'](https://open.spotify.com/track/5m8Wvl0GrFfMfmkDshFBPj) | [Tall Roots](https://open.spotify.com/artist/6QHqHz26iLQmFVPbhEeOup) | [brainin' in my rainin'](https://open.spotify.com/album/2gZltZMzpGMXVfIDRQ54AJ) | 1:54 | 2024-02-23 |  |
 | [Breeze 52](https://open.spotify.com/track/0rNTOI1K11CSPTj3dvq1tU) | [Pluto Tracks](https://open.spotify.com/artist/1JFmZ9XvgZnVttQHe8RSj1) | [Breeze 52](https://open.spotify.com/album/1qRVaci6Oqo43ssMt88MwZ) | 1:58 | 2022-03-14 | 2023-01-06 |
 | [butter](https://open.spotify.com/track/2gouQWJVOdLrjfAF6N1WIg) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [butter](https://open.spotify.com/album/564uFHwoXpTQUR8RkRDJjS) | 2:18 | 2024-01-19 |  |
 | [Buttermilk](https://open.spotify.com/track/727CT3984GcH1aqLkbGo6D) | [Selene Blais](https://open.spotify.com/artist/5EdnUbCaXHAdgqnOZvAWTP) | [Buttermilk](https://open.spotify.com/album/2nGkjmdviKiohj2bK8Rooj) | 2:49 | 2024-01-19 |  |
@@ -75,6 +76,7 @@
 | [Cliffjumper](https://open.spotify.com/track/2kzoCKXaGINkfef5QJuruX) | [Von Von Bon](https://open.spotify.com/artist/46ex27gVTAa49Ikzk0M6jU) | [Cliffjumper](https://open.spotify.com/album/1mGefacxktE8XRcFgF9b79) | 2:42 | 2022-03-14 | 2022-11-26 |
 | [cloud bumps](https://open.spotify.com/track/1s5yO4enHGKAaAuPueXlnn) | [lisa millien](https://open.spotify.com/artist/2Kr18HMvOrDXltmo8bM3Wa) | [fly high](https://open.spotify.com/album/4x0gUzqPNnLH64bLBMrxlL) | 1:23 | 2022-03-14 | 2023-01-06 |
 | [Clouds](https://open.spotify.com/track/51qdf2XksX7V5YfhS4VghX) | [Mentalism](https://open.spotify.com/artist/7uxVLIxwB1UHlBT96DAJdj) | [Clouds](https://open.spotify.com/album/1KYeDdVmd8NEzg0siza8gv) | 2:27 | 2022-03-14 | 2022-11-26 |
+| [coconut](https://open.spotify.com/track/4VLf2JAtJmzHaKvA8mOlmu) | [Ali Kaj](https://open.spotify.com/artist/06VNBq9wJN4eEo6ZRM7HGI) | [coconut](https://open.spotify.com/album/1uqMqtvFq5jns7j9kZPvKd) | 2:50 | 2024-02-23 |  |
 | [Cold Heart](https://open.spotify.com/track/2ox7UibRifja8dXB3kHrwT) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Cold Heart](https://open.spotify.com/album/0xq8Pp3iMFK87gP7v0BqWG) | 2:27 | 2023-06-20 | 2023-08-11 |
 | [Cold Spring](https://open.spotify.com/track/1WwjE3IGXk54dNBRKZAXz3) | [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft), [Sunshine Recorder](https://open.spotify.com/artist/0C7vbfD3UtshkAi5BjrpA8) | [Volume One](https://open.spotify.com/album/3BBl14XBVh0vHf1bXF3vWi) | 2:04 | 2022-03-14 | 2022-07-29 |
 | [Cold Spring](https://open.spotify.com/track/5qzs925pSB9rD5v8tdu9CZ) | [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft), [Sunshine Recorder](https://open.spotify.com/artist/0C7vbfD3UtshkAi5BjrpA8) | [Volume One](https://open.spotify.com/album/4lnx4Xq7hxsOFltbRZ12fr) | 2:04 | 2022-07-28 | 2022-10-26 |
@@ -262,6 +264,7 @@
 | [mid autumn](https://open.spotify.com/track/4QhzZqh71thbm5cxxiHkzT) | [luzzy fogic](https://open.spotify.com/artist/1otffiT3xiIe9A8jw7LVut) | [mid autumn](https://open.spotify.com/album/30tiLGIHjpSplPuKOAcaqW) | 2:16 | 2024-01-19 |  |
 | [Midnight Caller](https://open.spotify.com/track/21ysFPwLBA4OuSATx19XPG) | [Morpheus Two](https://open.spotify.com/artist/1YFyublQissuj82xACfDxj) | [Midnight Caller](https://open.spotify.com/album/6ykRic5nAug1fuS7e4ZWLR) | 2:10 | 2022-03-14 | 2022-11-26 |
 | [midnight melody](https://open.spotify.com/track/5lPvUiyvXEHMsiuOybY1Dc) | [Plectric](https://open.spotify.com/artist/4cCJWoH6K4jsI81MvizSxl) | [midnight melody](https://open.spotify.com/album/3PpJbBS0404mPEK8Lg6dDA) | 2:19 | 2024-01-19 |  |
+| [migratory birds](https://open.spotify.com/track/35NQOcWiezPLwesUrg21fe) | [Cmd q](https://open.spotify.com/artist/6XiXz5Vit02rmpr0M9SzMG) | [migratory birds](https://open.spotify.com/album/1GFq1BMDs8ot5ZSCbtTI3M) | 2:17 | 2024-02-23 |  |
 | [milky moon](https://open.spotify.com/track/5Ro7Zhxns5rtyleQsffnkb) | [Tween City](https://open.spotify.com/artist/0tVWLGanEa906nosw2Uu9p) | [milky moon](https://open.spotify.com/album/4D2PsPJFSQwH63YitxHYNy) | 2:09 | 2024-01-19 |  |
 | [millions](https://open.spotify.com/track/5I20Xa98Zm3YQlSfRQgwxt) | [heading\_\_](https://open.spotify.com/artist/3aE2ahDVUX4Pd0KKkWOfmS) | [outwards](https://open.spotify.com/album/00mqlceXIbKhc7ukOv5VOk) | 1:48 | 2022-03-14 | 2022-04-22 |
 | [minamii](https://open.spotify.com/track/58O3hjQt2WnaDxyxqtauH9) | [louke's beats](https://open.spotify.com/artist/2dr9SIsVpmN3ijGzjsnT0E) | [minamii](https://open.spotify.com/album/5h6hhA2XMVBxjjvZGB5CVb) | 1:57 | 2024-01-19 |  |
@@ -445,6 +448,7 @@
 | [u shine](https://open.spotify.com/track/3MzNoKBTU7YDse4ffTVDfd) | [shapure](https://open.spotify.com/artist/34grM2pbi7LfEpQTrwURpL) | [u shine](https://open.spotify.com/album/2Z6b3szOnc0srhttso8uIq) | 2:12 | 2022-03-14 | 2024-01-20 |
 | [Ubbadd](https://open.spotify.com/track/7FmNnWZUXiqXLngbAmh1X9) | [Kokta beats](https://open.spotify.com/artist/2ETiol5Kw5v2LFEjGLnlbS) | [Ubbadd](https://open.spotify.com/album/1arYRdx6nIYgn7tALBNar5) | 2:06 | 2022-12-21 | 2024-01-20 |
 | [Under Water](https://open.spotify.com/track/2UltutQuhWKc1hPuEY5Rje) | [LAV8](https://open.spotify.com/artist/0n0N8rkm96ulhvOxNu6zK5) | [Under Water](https://open.spotify.com/album/2hcHXpCfHtP28XiAgEopaB) | 3:00 | 2022-09-01 | 2023-11-18 |
+| [Under your spell](https://open.spotify.com/track/0lhi5mngupaKhSpOQFp2w3) | [Blank x Blank](https://open.spotify.com/artist/7tZMN6RonZwh9uUI3zdDgT) | [Under your spell](https://open.spotify.com/album/2rAzqLth8UwwTnysQFnRNe) | 2:42 | 2024-02-23 |  |
 | [Unfolding](https://open.spotify.com/track/02NPmYFlgDP3gv5NB8m0I0) | [Brière](https://open.spotify.com/artist/6aXUg2Sop4QZv01JPXDdy0) | [Unfolding](https://open.spotify.com/album/6pDqBvBOXwH60PInXbJCaM) | 2:57 | 2022-03-14 | 2022-11-26 |
 | [Unwind](https://open.spotify.com/track/29FJzCW7Uj2VmwW4uroaiC) | [Jesse Houghton](https://open.spotify.com/artist/7LuufjFkjNN1Qwol9eOBvq) | [Unwind](https://open.spotify.com/album/5PrhLUjoJ1YGI2LjfAIZ1O) | 2:03 | 2022-06-22 | 2024-01-20 |
 | [unwind](https://open.spotify.com/track/2xsp997S61D8kPXcFOdDzM) | [Papi Pier](https://open.spotify.com/artist/12lYoPQA3rNidZJe8zMTwe) | [unwind](https://open.spotify.com/album/5BTxrqYNHEgN7OA8whnqsE) | 2:13 | 2024-01-19 |  |

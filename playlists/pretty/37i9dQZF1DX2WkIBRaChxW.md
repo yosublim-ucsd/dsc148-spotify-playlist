@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WkIBRaChxW.md) - [plain]
 
 > What's happening in R&B, right now – featuring <a href="spotify:artist:3SozjO3Lat463tQICI9LcE">Tyla</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,457 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,475 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WkIBRaChxW.md) - [plain]
 | 74 | [Call My Name](https://open.spotify.com/track/6PvlwHIjZKFjEvCyZbb86i) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [Call My Name](https://open.spotify.com/album/1tdzxoaEx4CBftJrZ06X8B) | 3:37 |
 | 75 | [Gave You My All](https://open.spotify.com/track/2WEgOHRhsCMNiV4qcWNxAX) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [emil](https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb) | [Thoughts I Never Said](https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl) | 3:01 |
 
-Snapshot ID: `MCw2ZjM5N2IyYzU3Njk3YzgyOTE2MWQwZDNmNWQxMzRmNjk1YzlmZTIy`
+Snapshot ID: `MCxjZDdlZTg3ODRlZjU5NTQ1OWNmMGQ5NDFkOTY0ZjFlMTZlZWQzZGFm`

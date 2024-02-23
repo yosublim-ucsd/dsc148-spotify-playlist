@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KOz8PNkOlS.md) - [plain]
 
 > Transform your workspace into a cozy retreat with gentle tunes and warm vibes
 
-[Spotify](https://open.spotify.com/user/spotify) - 439,673 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,906 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KOz8PNkOlS.md) - [plain]
 | 99 | [Jalisco](https://open.spotify.com/track/7gEvMdJjKAlvW68yG4ASSX) | [Babeheaven](https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ) | [Home for Now](https://open.spotify.com/album/5lQ1jNr2gktMSkGpGVmFlN) | 3:42 |
 | 100 | [Sweetness \- Dub Mix by Andras](https://open.spotify.com/track/6h5SiRf0aOLRql4UGopHOu) | [Sweet Whirl](https://open.spotify.com/artist/3gMAzRuPRRTdDDbeBzlxKu), [Andras](https://open.spotify.com/artist/6C3Q1d8QOpgYuRdsTmSoVm) | [Sweetness Remixes](https://open.spotify.com/album/45IJcpXoaZbDYSYN3qkeNb) | 3:26 |
 
-Snapshot ID: `MCw2ZDFjYzhjZmQxYmI5ZjcwZDc0YWNmMjNhYWRlZmRlODc5MWM0OWIx`
+Snapshot ID: `MCw1ODg3N2JkZDdmNTE1N2ExOWFmZTkwMWEwYzdmMzM1NjA2NDNhOTMz`

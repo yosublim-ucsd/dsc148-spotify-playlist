@@ -4,7 +4,7 @@
 
 > Listen to the music from and inspired by My Life With The Walter Boys, now streaming on Netflix.
 
-62 songs - 3 hr 37 min
+63 songs - 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [For the Birds](https://open.spotify.com/track/3zIZn2lkgEVnnr7HutPnrT) | [Hyaenas](https://open.spotify.com/artist/3WURoSXW6bsmAW6JtgYiYU) | [Little Trophy](https://open.spotify.com/album/12ZOnVksOZO6kRaRQY8N3t) | 3:35 | 2023-12-07 |  |
 | [Glove Scene](https://open.spotify.com/track/1xUyWcChEGClUTOlGdhRGd) | [Leonard Bernstein](https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn) | [On the Waterfront \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2KqLl9eMcIo79Zj5cmHpIq) | 1:47 | 2023-12-07 |  |
 | [Golden](https://open.spotify.com/track/4laju5extoTLQIckYUtMXk) | [Kingswood](https://open.spotify.com/artist/4zOw0E0NA7B4lIYyc3XNt5) | [After Hours, Close to Dawn](https://open.spotify.com/album/21oCeqJ0minDcd8zmuIOnP) | 3:22 | 2023-12-07 |  |
-| [Golden Leaves](https://open.spotify.com/track/1fTi9sJDQV1VPM57eH0M5m) | [Sula Mae](https://open.spotify.com/artist/4uU2oiUh7HtoaFnNF6MzG5) | [Closer To You](https://open.spotify.com/album/2tlHkd05gk4CNHSWvkbd93) | 3:30 | 2023-12-07 |  |
+| [Golden Leaves](https://open.spotify.com/track/1fTi9sJDQV1VPM57eH0M5m) | [Sula Mae](https://open.spotify.com/artist/4uU2oiUh7HtoaFnNF6MzG5) | [Closer To You](https://open.spotify.com/album/2tlHkd05gk4CNHSWvkbd93) | 3:30 | 2023-12-07 | 2024-02-23 |
+| [Golden Leaves](https://open.spotify.com/track/4bhOCfkXuBR10GqmdR7aJn) | [Sula Mae](https://open.spotify.com/artist/4uU2oiUh7HtoaFnNF6MzG5) | [Golden Leaves](https://open.spotify.com/album/3pAY7Z5PLMzlZHpQGcnzPU) | 3:30 | 2023-12-07 |  |
 | [Green with Envy](https://open.spotify.com/track/5uITkbd1oEVPL1NKH4PQWI) | [Ormiston](https://open.spotify.com/artist/21zEHj3svxppGr8k4jLLwm) | [Hammer Down](https://open.spotify.com/album/3APC9y1m25zkLVEpxQ9f5N) | 3:39 | 2023-12-07 |  |
 | [Hallucinate](https://open.spotify.com/track/1nYeVF5vIBxMxfPoL0SIWg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:28 | 2023-12-07 |  |
 | [Hardtown](https://open.spotify.com/track/2YapbeYWZqWSXbe05rifZN) | [Leeroy Stagger](https://open.spotify.com/artist/3ltVtf7QHIwJBNQHqjb9UI) | [Little Victories](https://open.spotify.com/album/7Ldcp2r7lXWhmG89Htn1GV) | 4:50 | 2023-12-07 |  |

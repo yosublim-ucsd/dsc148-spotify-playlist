@@ -4,7 +4,7 @@
 
 > Workout with Haryanvi Songs\. Cover: Ankit Baiyanpuria
 
-83 songs - 4 hr 8 min
+84 songs - 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Bad Boys](https://open.spotify.com/track/5WkaECgnFSCeSHKBoRGoNs) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy) | [Bad Boys](https://open.spotify.com/album/7KC6ODLTHNAlrJnObUIqaw) | 2:22 | 2023-12-22 |  |
 | [Badmash](https://open.spotify.com/track/2LAeibIZBqlCD3HrlLSjjE) | [Amit Saini Rohtakiya](https://open.spotify.com/artist/4d8PlD50b5CG0eIBY6jm0b) | [Badmash](https://open.spotify.com/album/1UdeL0ma0I1LT1PAO4ut2B) | 2:33 | 2023-07-24 | 2023-08-01 |
 | [Badmash Bateu](https://open.spotify.com/track/2jnwvcGoSIxuY4xLAnJuzT) | [Masoom Sharma](https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj), [Ashu Twinkle](https://open.spotify.com/artist/5J23fam8Qq5thmzmk91qob), [Fiza Choudhary](https://open.spotify.com/artist/2mMUQGaKHQGZieMXnJpHiB), [Kehar Kharkiya](https://open.spotify.com/artist/0BZEgC6IsnbuFOIOAu802I) | [Badmash Bateu](https://open.spotify.com/album/3vDXarnLcnZRmmahYwatq2) | 2:30 | 2023-07-24 |  |
-| [Badmashan Ka Gaam](https://open.spotify.com/track/4iPqNt6wKhJUJXD5qm9bQu) | [Dikshit Parasher](https://open.spotify.com/artist/0BU9ouBKN5Y55wZ6iNSSL5), [Fiza Choudhary](https://open.spotify.com/artist/2mMUQGaKHQGZieMXnJpHiB) | [Badmashan Ka Gaam](https://open.spotify.com/album/6LND3ww5b7PjfvcOzXl7xv) | 2:24 | 2023-07-24 |  |
+| [Badmashan Ka Gaam](https://open.spotify.com/track/4iPqNt6wKhJUJXD5qm9bQu) | [Dikshit Parasher](https://open.spotify.com/artist/0BU9ouBKN5Y55wZ6iNSSL5), [Fiza Choudhary](https://open.spotify.com/artist/2mMUQGaKHQGZieMXnJpHiB) | [Badmashan Ka Gaam](https://open.spotify.com/album/6LND3ww5b7PjfvcOzXl7xv) | 2:24 | 2023-07-24 | 2024-02-23 |
 | [Banda 2 Numbri](https://open.spotify.com/track/0U1QaF0SEwqSugoqMrOu1k) | [Raj Mawer](https://open.spotify.com/artist/2ygqIXEM1r7RaEn9PrbML2), [Fiza Choudhary](https://open.spotify.com/artist/2mMUQGaKHQGZieMXnJpHiB), [R K Crew](https://open.spotify.com/artist/6QQcSyntyILnDWvSZmnoVT) | [Banda 2 Numbri](https://open.spotify.com/album/7dkaPHQKE9BrttpGDcGkQr) | 2:49 | 2023-07-24 |  |
 | [Bhaichara](https://open.spotify.com/track/6mCL0woLlGJZV52QQLbHhz) | [Sangam Vigyaanik](https://open.spotify.com/artist/6QCNlu5DCtRhOTxGovAols), [Elvish Yadav](https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp) | [Bhaichara](https://open.spotify.com/album/7reaLezW7CdO3r3Pl6f6Gb) | 3:26 | 2024-01-05 |  |
 | [Binde](https://open.spotify.com/track/3dduicyXRRc56JhQyWvNPj) | [Sapna Choudhary](https://open.spotify.com/artist/5WYVZzKOZMUn4pNY9gy2BM), [Komal Chaudhary](https://open.spotify.com/artist/3NDoCvXtQOPngtgRsqjcd3) | [Binde](https://open.spotify.com/album/3GLVHpysgsLtisASRLPmWt) | 2:19 | 2023-07-24 | 2023-08-31 |
@@ -80,6 +80,7 @@
 | [Tair Paatge](https://open.spotify.com/track/49fe97w18d7UWkJ5Ig5l0H) | [Gulzaar Chhaniwala](https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo) | [Tair Paatge](https://open.spotify.com/album/55Ac8oT3KR3RaE9tg9QTpG) | 4:05 | 2023-07-24 | 2023-08-01 |
 | [Target](https://open.spotify.com/track/3dMIUgx4oCPjBlOtN8X7Z0) | [Mavrix](https://open.spotify.com/artist/3ivej5P51jgZiJKDNfZd11) | [Target](https://open.spotify.com/album/1c2n4BfMREowVQJ5sr1CmW) | 2:45 | 2023-07-24 | 2024-01-06 |
 | [Target 2](https://open.spotify.com/track/6TiXW1QTLAoRGqFmIw2SgL) | [Mavrix](https://open.spotify.com/artist/3ivej5P51jgZiJKDNfZd11), [Duhan Muzic](https://open.spotify.com/artist/2uuKzuZ3JZXuMhUkYyS0xz) | [Target 2](https://open.spotify.com/album/7MwOyeoMdqiA2SJYXLMahp) | 2:30 | 2023-10-03 | 2023-11-10 |
+| [Tedhe Chaalak](https://open.spotify.com/track/5EXNgdixf4572ATdvnSdXL) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [Ankee](https://open.spotify.com/artist/0eJO7NuzYBNE2tVGcxiRfn) | [Tedhe Chaalak](https://open.spotify.com/album/48e53D1ZHIh0EfVpCySju6) | 3:16 | 2024-02-22 |  |
 | [Tha Tha](https://open.spotify.com/track/3NCTkRAJLcSK0OMyuomlAs) | [Manisha Sharma](https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf), [Raj Mawar](https://open.spotify.com/artist/0481f4CMOOSlFB69C2wyZf) | [Tha Tha](https://open.spotify.com/album/48tF1dtmzFTUflbODkZ6UO) | 2:49 | 2023-07-24 |  |
 | [The Villagers](https://open.spotify.com/track/2x7iprCTkTR7WcTRkCLFBr) | [Sumit Goswami](https://open.spotify.com/artist/7h79JnwJEjrnCCyGrxTdZM), [Jerry](https://open.spotify.com/artist/68hoiPmCjy1S0Ioe0l1lT7) | [The Villagers](https://open.spotify.com/album/5VRPx5fbREQVJ9lNApySLV) | 3:03 | 2023-07-24 | 2023-11-10 |
 | [This is Haryana](https://open.spotify.com/track/3K0HbRxcEZoPH7jE7VDltd) | [Badal](https://open.spotify.com/artist/0aLbfu2yo1hLo6J0SNBSPp) | [This is Haryana](https://open.spotify.com/album/39lfhZMC6uszJC2VoB5XhH) | 3:28 | 2023-07-24 | 2023-11-10 |

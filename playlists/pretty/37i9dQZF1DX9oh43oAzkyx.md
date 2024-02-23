@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9oh43oAzkyx.md) - [plain]
 
 > Energy tracks to get your beast mode on.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,559,048 likes - 76 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,559,896 likes - 76 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9oh43oAzkyx.md) - [plain]
 | 75 | [Stick \(with JID & J\. Cole feat\. Kenny Mason & Sheck Wes\)](https://open.spotify.com/track/1BzXvBpIFWJgu0P8P6xmP4) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv), [Sheck Wes](https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX) | [D\-Day: A Gangsta Grillz Mixtape](https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy) | 5:09 |
 | 76 | [I Gotta](https://open.spotify.com/track/3lcfs9Qjfxzy00VSVkixDv) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 2:53 |
 
-Snapshot ID: `MCwwMjY4MTY2MDJmOTNmYWM0ZTM2ODg3NmE1NmNhYWZmYTAwYTkwNjQ0`
+Snapshot ID: `MCxmNjI3MGI2NDFkMGNmZGJlMTA0NzQ0YWVlM2M1NzhjMmI5ODk2NWE0`

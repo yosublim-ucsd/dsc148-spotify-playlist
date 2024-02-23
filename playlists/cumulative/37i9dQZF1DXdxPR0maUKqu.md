@@ -4,7 +4,7 @@
 
 > 理由のない焦り、苛立ち。わけもなく叫びたくなる。思春期を過ごす全てのティーンに贈る、帰り道の応援歌。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-237 songs - 15 hr 9 min
+239 songs - 15 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [GUNJOUOUKA](https://open.spotify.com/track/1UF27ubfWrZy92mjCb3XnN) | [bokula.](https://open.spotify.com/artist/03d8apfHOy2uV3oLL9lsFG) | [GUNJOUOUKA](https://open.spotify.com/album/0HVA2YkOBzxSzve44TdSgd) | 3:53 | 2023-08-15 | 2023-09-01 |
 | [Hana Ni Nare \- Ryu\-Take 2023 ver.](https://open.spotify.com/track/3ywoJ3ZNkZ7AXaTFaiA109) | [flumpool](https://open.spotify.com/artist/5Kpt1mryjiwHa9goYPQG1o) | [Hana Ni Nare \(Ryu\-Take 2023 ver.\)](https://open.spotify.com/album/4ceieoHaWzTbiyJ1cuU5BN) | 6:27 | 2023-09-14 | 2023-10-02 |
 | [Headliner](https://open.spotify.com/track/5wYXXFzzelTMEbVOGoZ3Q0) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [Headliner](https://open.spotify.com/album/209bUB4Yw8SiUB5F3t252c) | 3:54 | 2024-01-16 |  |
-| [HERO](https://open.spotify.com/track/420VV3WsaUzKuo9I9C7yxo) | [Fish and Lips](https://open.spotify.com/artist/79Vm1EXJ1Jk7CyYLTNGe5J) | [HERO](https://open.spotify.com/album/3nHFbR7VqRGAFj7g8iLqX1) | 3:47 | 2024-01-16 |  |
+| [HERO](https://open.spotify.com/track/420VV3WsaUzKuo9I9C7yxo) | [Fish and Lips](https://open.spotify.com/artist/79Vm1EXJ1Jk7CyYLTNGe5J) | [HERO](https://open.spotify.com/album/3nHFbR7VqRGAFj7g8iLqX1) | 3:47 | 2024-01-16 | 2024-02-23 |
 | [Hontowane,](https://open.spotify.com/track/1p24ocb4bvCRId4cquDUHl) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Utanishiteshimaeba,Donnakotodemoyurusarerutoomotteita](https://open.spotify.com/album/7dj8tTCDJt5KRM9rqCsPbb) | 3:21 | 2023-11-17 | 2024-01-19 |
 | [I like you](https://open.spotify.com/track/3RJRPo3N1StuAjAjJqacYk) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [I like you](https://open.spotify.com/album/3fDyWpBQokx5FuzPIKeQOF) | 3:50 | 2023-10-10 | 2023-12-14 |
 | [Itsuka](https://open.spotify.com/track/37ZddqLVyF23NIg5I17SBd) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [Country Road](https://open.spotify.com/album/6ZtpnrvdBqke77cOazRblq) | 4:34 | 2023-07-25 |  |
@@ -136,6 +136,7 @@
 | [ただそれだけ](https://open.spotify.com/track/36SIW9lTd7Aa4oStAC9y1E) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [恋愛至上主義](https://open.spotify.com/album/3wd2Js2vgvDwTRgDVWtrgr) | 3:12 | 2023-07-25 | 2023-08-02 |
 | [だから僕は音楽を辞めた](https://open.spotify.com/track/5j7ixaLeGTGSv4DzKs0pCM) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [だから僕は音楽を辞めた](https://open.spotify.com/album/4b9nOSXSf1LROzgfYFxdxI) | 4:02 | 2023-08-15 |  |
 | [だって](https://open.spotify.com/track/175C4JA6zfA4kaId3GWmft) | [BELLMAINZ](https://open.spotify.com/artist/4dbOK4V3g2bSvFZvrhcHCm) | [だって](https://open.spotify.com/album/38IPKWm6SoIzlLTJXxD5p4) | 4:03 | 2024-01-30 | 2024-02-14 |
+| [ですとらくしょん!!](https://open.spotify.com/track/54krDxm0tOxeZy36AKT3Bj) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [Chevon](https://open.spotify.com/album/5zpDo1cOOtnbzrRjKdCqA8) | 4:01 | 2024-02-22 |  |
 | [もっと](https://open.spotify.com/track/14scjle0gHsjlujD10AliV) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [もっと](https://open.spotify.com/album/6cNBLzQoV9126uS2B0sPRB) | 4:09 | 2024-01-30 | 2024-02-21 |
 | [アイネクライネ](https://open.spotify.com/track/45YBVp6zMwQZRbUDcPzmMB) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [YANKEE](https://open.spotify.com/album/64SAjax288grKsmuLDfA6G) | 4:48 | 2023-07-25 | 2024-02-21 |
 | [インスタントジョーク](https://open.spotify.com/track/4DLhoNZw9OR8s0ovueelH8) | [omeme tenten](https://open.spotify.com/artist/0uwxPKyoIIT8WIQLYpXSFC) | [インスタントジョーク / マイラブリー](https://open.spotify.com/album/6OYEgnr0XA0TcNsfmo1NDb) | 3:14 | 2024-01-16 | 2024-02-07 |
@@ -235,8 +236,9 @@
 | [花になれ \- Ryu\-Take 2023 ver.](https://open.spotify.com/track/3pXPqtPn0dAMRbztfuEwmf) | [flumpool](https://open.spotify.com/artist/5Kpt1mryjiwHa9goYPQG1o) | [花になれ \(Ryu\-Take 2023 ver.\)](https://open.spotify.com/album/6uCHKMCp9Qbmbbb0gzjwAY) | 6:27 | 2023-09-14 | 2023-09-16 |
 | [花占い](https://open.spotify.com/track/4ETc1oFREuqQss7VQ1Y4mj) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:27 | 2023-11-17 | 2024-02-21 |
 | [花束が似合う君へ \- fantastic ver.](https://open.spotify.com/track/2vVaTLbzFN5TPIayqJDxv7) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [花束が似合う君へ \(fantastic ver.\)](https://open.spotify.com/album/3BVTAz0ufqnsdPBuvQk6tx) | 4:54 | 2024-01-30 |  |
+| [蛙鳴蝉噪](https://open.spotify.com/track/4sbq65yZWMkbcUfzojugjN) | [THE 2](https://open.spotify.com/artist/668YZEv91Ux6vBKFwc3NLk) | [THE 2](https://open.spotify.com/album/6FNVQB1fabfMCDvKaUuHaM) | 4:04 | 2024-02-22 |  |
 | [覚悟を決めろ!](https://open.spotify.com/track/6oGK40sTrlPSkR8yf0f04P) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [覚悟を決めろ!](https://open.spotify.com/album/0jtrUUnMiw14yT1vSyA4mV) | 3:54 | 2024-02-13 | 2024-02-15 |
-| [言って。](https://open.spotify.com/track/6z1TvLTR0oOsWSJfDrERmj) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [夏草が邪魔をする](https://open.spotify.com/album/3o5yzVy1ZXMfyATfj9OjbV) | 4:02 | 2023-09-21 |  |
+| [言って。](https://open.spotify.com/track/6z1TvLTR0oOsWSJfDrERmj) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [夏草が邪魔をする](https://open.spotify.com/album/3o5yzVy1ZXMfyATfj9OjbV) | 4:02 | 2023-09-21 | 2024-02-23 |
 | [言葉にして](https://open.spotify.com/track/6nEkWRyNxWHawcf6pRcNnW) | [This is LAST](https://open.spotify.com/artist/4wW9Mak1gx2PnswYDpHmA1) | [言葉にして](https://open.spotify.com/album/7pudWjUKycdXIrwrUch3nK) | 4:35 | 2023-12-12 | 2024-01-31 |
 | [負け犬にアンコールはいらない](https://open.spotify.com/track/1fooGB6yJLKiOk8jW3thn6) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [負け犬にアンコールはいらない](https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy) | 3:54 | 2023-09-21 |  |
 | [金星](https://open.spotify.com/track/7x2HAt5GncMkvYI4dVrwpQ) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [金星](https://open.spotify.com/album/3El28GIdiUaHziptKtw5d0) | 3:37 | 2023-09-05 | 2023-12-14 |

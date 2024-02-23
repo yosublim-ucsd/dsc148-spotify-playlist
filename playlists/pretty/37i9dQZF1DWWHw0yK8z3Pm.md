@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 
 > Fearless sounds at the crossroads of country and folk\. Cover: Allison Russell
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,787 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,790 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 | 99 | [So Easy](https://open.spotify.com/track/1yVG9iuNxfOe30LRKy1dJf) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Reasons Why](https://open.spotify.com/album/3RfPLlT6L2KXC1meUTVeoh) | 3:33 |
 | 100 | [Coyote](https://open.spotify.com/track/4XvkVnSQOyLFgE4iu9w62g) | [Spencer Burton](https://open.spotify.com/artist/4g86a03cASyc60kG0Rbgjq) | [North Wind](https://open.spotify.com/album/3rZWy0ccyoMV2uUyNnXW9k) | 4:16 |
 
-Snapshot ID: `MCxhMTYwOGNmZjhkN2E5MjhhMGUyOTczMGUzOTcwNzJjYzFmMDc3YWM0`
+Snapshot ID: `MCw5MTA3MTlhODUxNTUzYWQ5NmZiNDQ0NjkwZTJlNDkzNTlmZjIwMjc2`

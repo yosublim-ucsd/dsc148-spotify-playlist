@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvGpUc6O5W1.md) - [plain]
 
 > ¡Mi amooorrrrrr! Las canciones escritas por "El Lujo de Sinaloa".
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,523 likes - 150 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,539 likes - 150 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvGpUc6O5W1.md) - [plain]
 | 149 | [Vas a Recordarme](https://open.spotify.com/track/68sLYh83RjZkPFlNg3cDR9) | [Banda Saucitos](https://open.spotify.com/artist/0N20ZTWNbKIiHIwT4QH9UM) | [Seguimos Firmes](https://open.spotify.com/album/2gtuFY8OsphtndFOjLD0Du) | 3:26 |
 | 150 | [Pude](https://open.spotify.com/track/7xVwmWF7flGqtWyaTOYcdA) | [Gabriel Diaz](https://open.spotify.com/artist/4FqkFAlXmpAJGOsc9k4GBO) | [Prohibido El Amor](https://open.spotify.com/album/4t5EkZNnFsqJLOlETpfgj9) | 3:20 |
 
-Snapshot ID: `MCw5NDExYjdiMGYwZjI1ODcwZTEyNTYwMzVmZDU2N2Y2ZmExOGRlYzI5`
+Snapshot ID: `MCxmMjBjMzRlNjAxMDYyOTc5MzcwN2IzOWRkY2E2OGQyYjVhNDUxOWMx`

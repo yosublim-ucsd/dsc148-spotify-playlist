@@ -4,7 +4,7 @@
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: リーガルリリー \(Regallily\)
 
-1,485 songs - 3 day 20 hr 53 min
+1,488 songs - 3 day 21 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,7 +154,7 @@
 | [Dogs and Ducks](https://open.spotify.com/track/6XANNQ4GfMK8fubNkEcYzI) | [tricot](https://open.spotify.com/artist/5IKKS7LhpdlmMwqIagqf3f) | [Dogs and Ducks](https://open.spotify.com/album/3Gn1YUG8g4AxV7PCeZquTz) | 2:41 | 2022-06-07 | 2022-06-12 |
 | [doll](https://open.spotify.com/track/4LbegEhpVETr2aAOoo6kP5) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [Welcome to My Castle](https://open.spotify.com/album/6DSelDneeVFEluC97trMur) | 3:33 | 2023-11-21 | 2023-12-14 |
 | [doll](https://open.spotify.com/track/7lZgyhI0XOvjzi7g0eeHBA) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [Welcome to My Castle](https://open.spotify.com/album/7gkjbmsbhiXCDPmKYGPk2l) | 3:33 | 2023-12-12 | 2024-02-14 |
-| [Don!!](https://open.spotify.com/track/1NmeWXhB73LNP1y9PtTEbk) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [ミチヲユケ](https://open.spotify.com/album/37dX6AfZhwKIYGHnxkqVIQ) | 3:48 | 2022-11-08 |  |
+| [Don!!](https://open.spotify.com/track/1NmeWXhB73LNP1y9PtTEbk) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [ミチヲユケ](https://open.spotify.com/album/37dX6AfZhwKIYGHnxkqVIQ) | 3:48 | 2022-11-08 | 2024-02-23 |
 | [don't cry](https://open.spotify.com/track/1q1aSnLbv4KG4oXEvYig4H) | [LIGHTERS](https://open.spotify.com/artist/3zIMtn2DQfuy14ZUthklGq) | [don't cry](https://open.spotify.com/album/33OyKHKpfnHKAgfLO3EJKb) | 3:40 | 2022-06-07 | 2022-06-14 |
 | [Don't Obsess](https://open.spotify.com/track/1VPdPQ7xmxOyCQodIw24R0) | [ni\-hao!!!!](https://open.spotify.com/artist/2rq2Ey2tW4ZBG0K9OAg39k) | [i!i!i!i!](https://open.spotify.com/album/4fSo1ByAhFJSzhQ5YyMDaZ) | 1:52 | 2023-04-04 | 2023-04-12 |
 | [Don't Stop the Rock](https://open.spotify.com/track/3NoEpZC1xZN8rxtGIssyaG) | [Cerveteri](https://open.spotify.com/artist/1QxwPVYrEOpJ5LKl8b7Gla) | [Don't Stop the Rock](https://open.spotify.com/album/4UOTjg4Ec1eWMNDtcb4tbd) | 3:46 | 2022-06-02 | 2022-06-08 |
@@ -345,7 +345,7 @@
 | [koi](https://open.spotify.com/track/6aR2Dy2Ur9TZ6PifgvJYFJ) | [フジタ カコ](https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg) | [koi](https://open.spotify.com/album/3kmSRwmaYAPQDBPkG3WZJL) | 3:16 | 2023-10-31 | 2023-11-08 |
 | [KOINODHISUMAXTUCHIN](https://open.spotify.com/track/7CvYzuttwz9Yn7Z5nBUzjl) | [MOSHIMO](https://open.spotify.com/artist/2wfyx0p7LKFYZh2SaM9pXy) | [KOINODHISUMAXTUCHIN](https://open.spotify.com/album/5B016jj6OpHB6GSSSXIAaU) | 2:48 | 2023-05-31 | 2023-06-07 |
 | [Koka](https://open.spotify.com/track/3jp7OJopxINpYt4OoUGE3J) | [Chikyukara 2miri Uiteruhitotachi](https://open.spotify.com/artist/7noDQtNgyA34TFE0ICDYf5) | [Koka](https://open.spotify.com/album/1YVSWgGpQcurA1c8JwmU65) | 3:23 | 2023-04-04 | 2023-04-12 |
-| [Kokoro no Naka](https://open.spotify.com/track/6J5Y0T35JVtOpQLVcOvvCa) | [AliA](https://open.spotify.com/artist/4Lmo7h2Ik12QI3Ik0BvGbB) | [Kokoro no Naka](https://open.spotify.com/album/1McLOtVpjTGSkeccdBQz2N) | 4:02 | 2024-01-09 |  |
+| [Kokoro no Naka](https://open.spotify.com/track/6J5Y0T35JVtOpQLVcOvvCa) | [AliA](https://open.spotify.com/artist/4Lmo7h2Ik12QI3Ik0BvGbB) | [Kokoro no Naka](https://open.spotify.com/album/1McLOtVpjTGSkeccdBQz2N) | 4:02 | 2024-01-09 | 2024-02-23 |
 | [KokoroToIuNaNoFukakai](https://open.spotify.com/track/5b2Zd5mH2MNYohcWYfnUze) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Kyougen](https://open.spotify.com/album/4muEF5biWb506ZojGMfHb7) | 4:29 | 2022-11-08 | 2022-12-14 |
 | [Kujira no Stage](https://open.spotify.com/track/4QYow0TygMiFEJYyQbewak) | [Cocco](https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6) | [Kujira no Stage](https://open.spotify.com/album/6i1bkPuMVk0eSbBpmQK3NL) | 5:24 | 2023-02-07 | 2023-02-15 |
 | [L.I.B](https://open.spotify.com/track/3bkxrLI6XgEY1HwjM236qN) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [Chilli Beans.](https://open.spotify.com/album/4eAn8XoBrzPRhzNGTctv4O) | 4:03 | 2022-07-14 | 2022-07-27 |
@@ -677,6 +677,7 @@
 | [Twilight](https://open.spotify.com/track/6mmxTacsga0hZsnN0eNMwS) | [Hakubi](https://open.spotify.com/artist/1vgwCsZx2um1wmTgP5EkZj) | [Twilight](https://open.spotify.com/album/4CAyOGS199Ruq0TGxn221c) | 4:11 | 2022-07-14 | 2022-07-17 |
 | [Twinkle Winter Day](https://open.spotify.com/track/11XQKSBZeuPUiwdfmdL2zP) | [LEARNERS](https://open.spotify.com/artist/1M6XLICqGgFsxLpKU6v5UP) | [Twinkle Winter Day](https://open.spotify.com/album/1shyD8qG9pwAGaWG8uEVzp) | 2:16 | 2022-07-19 | 2022-08-10 |
 | [Two minutes](https://open.spotify.com/track/1lwxpEsQQ2GIOg1Ar5rB38) | [The Wisely Brothers](https://open.spotify.com/artist/11Cpz0a2etAGYbvCW6xLmb) | [Two minutes](https://open.spotify.com/album/2JZ6ecPu9mXbadyDzw53f8) | 2:40 | 2022-09-27 | 2022-10-05 |
+| [TYPHOOON!!!](https://open.spotify.com/track/5SLPGVN3QSbfEOpLWKF5cm) | [Heap](https://open.spotify.com/artist/5IMBG2QP7e3xxCPyr9HvH8) | [TYPHOOON!!!](https://open.spotify.com/album/2Cl3hgi7NPBr4JOS278cAt) | 4:01 | 2024-02-22 |  |
 | [U.L.K.](https://open.spotify.com/track/7f5iWO8ZFN5hXKLuJKlQxr) | [フレンズ](https://open.spotify.com/artist/7I045Ct8xfI1QlSYq4XuBh) | [Superb](https://open.spotify.com/album/2vr09zUb5DHDBY6tDr1dTV) | 3:55 | 2022-07-05 | 2022-07-20 |
 | [UCHU ICHI NO ME](https://open.spotify.com/track/6Sf69vMZDSyRZZRfbc9Ams) | [THE DOKUROS](https://open.spotify.com/artist/1e9JQv27KSnk5NpBR9CryM), [TANAKA OF THE HAMADA](https://open.spotify.com/artist/7dbDyleqCJgP2JqHOhPGYi) | [UCHU ICHI NO ME](https://open.spotify.com/album/3H6rWFHdMdNaeFt9JRLDru) | 4:08 | 2022-09-15 | 2022-09-21 |
 | [Ultramarine](https://open.spotify.com/track/69AejqVZgrdgzxjchFuHb2) | [HYLUL](https://open.spotify.com/artist/6OkxL4eH0SW3pwtXWp6ikX) | [Ultramarine](https://open.spotify.com/album/4jvRCNMiEU5tbWzNSh2W3T) | 3:24 | 2023-08-15 | 2023-08-23 |
@@ -688,6 +689,7 @@
 | [Us](https://open.spotify.com/track/2LvtKcNpyH9dIOynM3Xz3R) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [New Neighbors](https://open.spotify.com/album/5brXjr8BORF46m2FHgY55a) | 5:18 | 2023-04-04 | 2023-04-19 |
 | [UTOPIA](https://open.spotify.com/track/6155KcjQlwKcrbUAW6tAOF) | [Living Rita](https://open.spotify.com/artist/0ekt0GY3EGCsVugNHfBkHJ) | [Reality / UTOPIA](https://open.spotify.com/album/1rS3zYiUpv89HAuiedJf8X) | 4:02 | 2022-08-09 | 2022-08-17 |
 | [utouto](https://open.spotify.com/track/49RH7RyhJnF83In6yelKJO) | [sitaq](https://open.spotify.com/artist/6lajY9kGucnlFVlixs7Ne7) | [night](https://open.spotify.com/album/13DkAPBzkRZ1MxYdZO1Ywi) | 3:22 | 2022-11-01 | 2022-11-09 |
+| [Value](https://open.spotify.com/track/6BEnpVB7g2j8mzWs3MC2kh) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Value](https://open.spotify.com/album/63xNXfql8mdsOd1fZjodbf) | 3:05 | 2024-02-22 |  |
 | [violet](https://open.spotify.com/track/7G7ugnWj3iYMCCEYn171lN) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [violet](https://open.spotify.com/album/04bHJcq13Fuh20o3pgmDY0) | 3:52 | 2023-02-21 | 2023-03-01 |
 | [Virus Buster](https://open.spotify.com/track/47ghKf5vH4unAKTXLkvoWu) | [CARAMEL CANDiD](https://open.spotify.com/artist/4nDSmohFDEuowSQQjTAStH) | [Virus Buster](https://open.spotify.com/album/08yJkMIGw3ATCmqGoGXl6F) | 3:30 | 2023-10-24 | 2023-11-01 |
 | [Vision](https://open.spotify.com/track/0GcPTSS0Jy1HAhfq1KPuiX) | [SCANDAL](https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz) | [Line of sight](https://open.spotify.com/album/7eqEaO6vnNqeAK7bUbkf7L) | 3:29 | 2023-05-09 | 2023-05-11 |
@@ -1072,6 +1074,7 @@
 | [ムーンドライバー](https://open.spotify.com/track/2t4eYtF4gFF9UcFvDN41Pm) | [エルスウェア紀行](https://open.spotify.com/artist/6lWxoCU3pEVd1k3QuP2HVb) | [ムーンドライバー](https://open.spotify.com/album/7da23Lp8vILfquBe5gw1af) | 4:11 | 2022-07-19 | 2022-07-27 |
 | [ムーヴ](https://open.spotify.com/track/2ZZOFbq0vCAYSJKnZ6u5ld) | [青い](https://open.spotify.com/artist/7KFqxwEis6G5L0yAYqYrXe) | [ムーヴ](https://open.spotify.com/album/5I6fiujXDmKXJLvU8wBpJy) | 3:24 | 2022-09-27 | 2022-11-02 |
 | [メイ](https://open.spotify.com/track/02gB1gWn7Gbs9oySId5Jso) | [SOM4LI](https://open.spotify.com/artist/7DT4fNnvRM3afyDfwm3hof) | [メイ](https://open.spotify.com/album/51gJqL941ZUIQhrH6OZJ3u) | 2:53 | 2022-08-17 | 2022-08-24 |
+| [メイデン](https://open.spotify.com/track/5n4hfQXhSc1nXYoKTAS2xb) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [僕だけの愛](https://open.spotify.com/album/1rUF9QA4jMdL55gIgL0vxZ) | 2:55 | 2024-02-22 |  |
 | [メイビー](https://open.spotify.com/track/4iIN1HeAdH6J42nzc2EGzA) | [Atomic Skipper](https://open.spotify.com/artist/3BraNqS870zA5KxrtuZXAd) | [メイビー](https://open.spotify.com/album/3ntkuv9OK6DkRsVkmjRmSK) | 3:41 | 2022-06-27 | 2022-06-29 |
 | [メイビー](https://open.spotify.com/track/1GQuDkTPqcPCgJZrBWI45g) | [帰りの会](https://open.spotify.com/artist/5YXzV93qLK8xNqNy5OKVkJ) | [メイビー](https://open.spotify.com/album/7348QVYB8YH1qs4yFfVAby) | 4:15 | 2022-05-26 | 2022-06-11 |
 | [メタモルフォーゼ](https://open.spotify.com/track/5WkN8jPH9tvTjRDqYOdufM) | [八木海莉](https://open.spotify.com/artist/49WETRjhY9BjHQsxPWj5Vi) | [メタモルフォーゼ](https://open.spotify.com/album/5o6YjEGVGgdZb05AkqIwko) | 2:32 | 2023-08-08 | 2023-08-18 |
@@ -1197,7 +1200,7 @@
 | [夏の光](https://open.spotify.com/track/6Y0N0AyVjxuGAEOXVqT7Ah) | [Sunday Student](https://open.spotify.com/artist/05HOn3p4dEG7ubmwkwsB8q) | [夏の光](https://open.spotify.com/album/5mkn0LOg61GAcBwhj6QBxJ) | 4:11 | 2022-06-21 | 2022-06-24 |
 | [夏嵐](https://open.spotify.com/track/7cD5iMN0Oq385by3Xhg8Ca) | [Genie High](https://open.spotify.com/artist/1NdpjvRYsY6cwAVX9YWzAB) | [夏嵐](https://open.spotify.com/album/5uRsMPKDnQfqIdnFPUs9Rx) | 3:16 | 2022-05-31 | 2022-07-07 |
 | [夏影、](https://open.spotify.com/track/6TNCjUqjCfNyhqZKqTFMeY) | [anna calla](https://open.spotify.com/artist/5Kjfw00jyKFzU8IwAmwAy0) | [夏影、](https://open.spotify.com/album/2x3IupbEeHXoOmL8Y73T3c) | 4:09 | 2022-06-23 | 2022-06-28 |
-| [夏恋注意報](https://open.spotify.com/track/1AB5STSw5kjkOSmie1dkYb) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [夏恋注意報](https://open.spotify.com/album/2YPfXFSP0eiV5W0WnVyJUM) | 4:49 | 2023-06-27 |  |
+| [夏恋注意報](https://open.spotify.com/track/1AB5STSw5kjkOSmie1dkYb) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [夏恋注意報](https://open.spotify.com/album/2YPfXFSP0eiV5W0WnVyJUM) | 4:49 | 2023-06-27 | 2024-02-23 |
 | [夏日狂想](https://open.spotify.com/track/4YiiwI9UXNTT51BwojLcR8) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [夏日狂想](https://open.spotify.com/album/3awrF7PnzLIDdQyJzlhrzx) | 4:17 | 2023-05-30 | 2023-06-01 |
 | [夕凪詠草](https://open.spotify.com/track/3ubz3X8CL6Fd1xUYh1L2IU) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [夕凪詠草](https://open.spotify.com/album/0hz1H7b4aFsXSRsPfb4hj8) | 3:57 | 2023-09-26 | 2023-09-28 |
 | [夕陽](https://open.spotify.com/track/50LOQDfaIwCDXWor7PkyS3) | [sawamay](https://open.spotify.com/artist/0pXaWX4t0zSi9TzhoKBd55) | [夕陽](https://open.spotify.com/album/5R5PTG0i4VEoeOE3YXMHKM) | 3:24 | 2023-12-12 | 2023-12-20 |

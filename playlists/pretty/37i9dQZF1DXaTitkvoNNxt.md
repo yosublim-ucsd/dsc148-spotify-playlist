@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTitkvoNNxt.md) - [plain]
 
 > Songs from the last decade that will make you sing and dance all summer long!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,430,014 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,429,936 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTitkvoNNxt.md) - [plain]
 | 99 | [Blurred Lines](https://open.spotify.com/track/0n4bITAu0Y0nigrz3MFJMb) | [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Blurred Lines \(Deluxe\)](https://open.spotify.com/album/1eHyfkrIOVLGVnt5E4MD2j) | 4:23 |
 | 100 | [Finesse \- Remix; feat\. Cardi B](https://open.spotify.com/track/3Vo4wInECJQuz9BIBMOu8i) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Finesse \(Remix\) \[feat\. Cardi B\]](https://open.spotify.com/album/3mumK2ar9b4JPhVOZR0V2p) | 3:37 |
 
-Snapshot ID: `MCw1MWQ0ZmRiNjE3OTY0MmM5ZjA0ZmNlYTY3Yzc3MzNhYTdmZTFmNmRj`
+Snapshot ID: `MCw3NWVjOWMyMDhmODdkYWM0YmI4OGIyMzMxM2VkZWRhNjI2YTYwM2Jk`

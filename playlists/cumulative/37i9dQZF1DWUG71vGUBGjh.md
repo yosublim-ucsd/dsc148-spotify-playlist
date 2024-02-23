@@ -4,7 +4,7 @@
 
 > Plug your brain into a modular synthesizer analog loop.
 
-192 songs - 12 hr 4 min
+193 songs - 12 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,7 +181,8 @@
 | [Tropic Topic](https://open.spotify.com/track/3DhODZawheEKJAZENppr0r) | [Gerhard Narholz](https://open.spotify.com/artist/7uvEwug4pon5M8ktDXyx3q), [Manuel Landy](https://open.spotify.com/artist/7w5BFEiKNV1PK6SCPlogco) | [Retro Synth POP](https://open.spotify.com/album/7MCGywkanJ3ajx2Debevh2) | 3:58 | 2021-08-17 | 2022-10-14 |
 | [Tropic Topic \- Remastered](https://open.spotify.com/track/0A85JZuQVyOnQONv00spjo) | [Manuel Landy](https://open.spotify.com/artist/7w5BFEiKNV1PK6SCPlogco) | [Retro Synth Pop](https://open.spotify.com/album/001ZKrEwFq82rNcR538IFT) | 3:58 | 2021-08-17 |  |
 | [Tropical Green \(B\) \- Instrumental Version](https://open.spotify.com/track/3D94IdEFFnOL6wt2S2Dm1a) | [David Vorhaus](https://open.spotify.com/artist/6k0DgDKA5WW1H4iJhXV2Ae) | [Virtual World](https://open.spotify.com/album/1OprXHIv02g0zq9smNKnOl) | 2:29 | 2021-08-17 |  |
-| [Tu y Yo](https://open.spotify.com/track/1JadQMSwfzMBZ9h3ymjPx0) | [El Dragón Criollo](https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G), [El Palmas](https://open.spotify.com/artist/607tUX31sF7QoJVbCx3r6Y), [Grupo Almendra](https://open.spotify.com/artist/59wBrEGZ8dlFTu48CxK6AK) | [Color de Trópico \(Compiled By El Dragón Criollo y El Palmas\)](https://open.spotify.com/album/0x29QRFTQuq7LvSwfEDHcz) | 4:28 | 2021-08-17 |  |
+| [Tu y Yo](https://open.spotify.com/track/1JadQMSwfzMBZ9h3ymjPx0) | [El Dragón Criollo](https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G), [El Palmas](https://open.spotify.com/artist/607tUX31sF7QoJVbCx3r6Y), [Grupo Almendra](https://open.spotify.com/artist/59wBrEGZ8dlFTu48CxK6AK) | [Color de Trópico \(Compiled By El Dragón Criollo y El Palmas\)](https://open.spotify.com/album/0x29QRFTQuq7LvSwfEDHcz) | 4:28 | 2021-08-17 | 2024-02-23 |
+| [Tu y Yo](https://open.spotify.com/track/7FKAtMHMO9zcSOLI9ZJKDu) | [El Dragón Criollo](https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G), [El Palmas](https://open.spotify.com/artist/607tUX31sF7QoJVbCx3r6Y), [Grupo Almendra](https://open.spotify.com/artist/59wBrEGZ8dlFTu48CxK6AK) | [Color de Trópico \(Compiled By El Dragón Criollo & El Palmas\)](https://open.spotify.com/album/6j4ID9fk5IfuVWPloOiG9h) | 4:28 | 2021-08-17 |  |
 | [Tu y Yo](https://open.spotify.com/track/0Rq6XEX3ga409Bf8JPOt1F) | [Grupo Almendra](https://open.spotify.com/artist/59wBrEGZ8dlFTu48CxK6AK) | [Color de Trópico \(Compiled By El Dragón Criollo y El Palmas\)](https://open.spotify.com/album/1ADKGt7i1rGDNPjiZscJV4) | 4:28 | 2021-08-17 | 2022-07-29 |
 | [Tu y Yo](https://open.spotify.com/track/5fBFdaomCwZzSlZi4c56Z1) | [Grupo Almendra](https://open.spotify.com/artist/59wBrEGZ8dlFTu48CxK6AK) | [Tu y Yo](https://open.spotify.com/album/1WfHBjvJIz8N4Z1BDr6PDz) | 4:28 | 2021-08-17 | 2022-11-13 |
 | [Unavailable Memory](https://open.spotify.com/track/2TYPY7sEP9cBAcqScBiNEQ) | [Meat Beat Manifesto](https://open.spotify.com/artist/3AO9jmM1JTooPNcu9tTyZx) | [Moog \(Original Film Soundtrack\)](https://open.spotify.com/album/384OEA0oW6JSujc4VmwJe3) | 4:54 | 2021-08-17 |  |

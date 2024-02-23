@@ -4,7 +4,7 @@
 
 > smooth drifting only
 
-197 songs - 8 hr 48 min
+199 songs - 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [CLOUD](https://open.spotify.com/track/6ZbpaHInXckaSUDiGDCwHX) | [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [Night Show](https://open.spotify.com/album/52mLSslJpI3vsoIgi1KSA6) | 2:54 | 2022-10-10 |  |
 | [Club Racer](https://open.spotify.com/track/0TixfN2rNvg1VL4gggylRH) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627) | [Club Racer](https://open.spotify.com/album/05FqgSKvtl1CfngN1M6C8l) | 2:08 | 2022-10-28 |  |
 | [Cold Blood](https://open.spotify.com/track/6BGI62bC9ZBOvTqWCd6Nd5) | [Wilee](https://open.spotify.com/artist/0PszchiiynrfCAwjdHdN5r), [HOSPICEMANE](https://open.spotify.com/artist/5k3a4j15fF9gr4ZvCqMjDm) | [Cold Blood](https://open.spotify.com/album/4i4J6PY1upuY48jsSITgGi) | 3:06 | 2022-11-18 |  |
+| [Creatures of the Night](https://open.spotify.com/track/7IolTPngH9m5BHNC9qgWlz) | [Kaytan](https://open.spotify.com/artist/6eNUa8KyKjUijdRSJbdHl1) | [Creatures of the Night](https://open.spotify.com/album/57A1qjqGTBLbS019uQIDwe) | 3:00 | 2024-02-22 |  |
 | [Cyanide](https://open.spotify.com/track/2FqBlSZxiRuxjgQcMvQAUP) | [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [Cyanide](https://open.spotify.com/album/1AlwyKku3ObMAl0jkz8Qwf) | 2:57 | 2022-10-10 | 2023-08-05 |
 | [Dark Mercer](https://open.spotify.com/track/3TX53IyZvSsjYzZrmHQdI1) | [5l33p](https://open.spotify.com/artist/1JjSBnVH2QnmXFBmaIGdjq) | [Dark Mercer](https://open.spotify.com/album/6GMEh5mGT9CVyXO3TFo8EU) | 2:38 | 2022-11-11 |  |
 | [Desolation 2](https://open.spotify.com/track/5YQV3dcbq48zCmofyOSzcJ) | [CREEPYMANE](https://open.spotify.com/artist/4iS0O9GXC7newvIHGqgaEz) | [Desolation 2](https://open.spotify.com/album/0xMdm6pqSb4FKXUhI6iAa1) | 1:32 | 2022-10-10 |  |
@@ -91,7 +92,7 @@
 | [HOLOGRAM](https://open.spotify.com/track/20NjSzmdUKNjFEpfEYj6XA) | [HIDEOUS MORBID](https://open.spotify.com/artist/7G5D01HWj1IELY5nfLQrw6) | [HOLOGRAM](https://open.spotify.com/album/0cm5qj6DKNvUcD0haLZVFp) | 2:13 | 2022-12-09 |  |
 | [HYPERPHONK](https://open.spotify.com/track/1F14gm4JQcW7SAWRMGD4nT) | [LXVIATHXN](https://open.spotify.com/artist/2SJRVFLT1rSs5oKiqsZ04T) | [HYPERPHONK](https://open.spotify.com/album/5unAHopAAQmbF079dpLPmD) | 2:56 | 2022-10-10 | 2023-03-11 |
 | [I'M SORRY](https://open.spotify.com/track/0K3JJbRm9y70tesc73U6bn) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [I'M SORRY](https://open.spotify.com/album/4oWAtbgahTeGrYKljx6GI0) | 2:19 | 2022-10-21 | 2023-06-10 |
-| [In the mountains](https://open.spotify.com/track/40yeoePtbySoqCSRHgPPpR) | [phonk.me](https://open.spotify.com/artist/3YNdAmDzM5zMbGYeaSCe6A), [zetuv](https://open.spotify.com/artist/1PhDjAsWVkTLg5mUtSOeg9) | [In the mountains](https://open.spotify.com/album/1uejx5trxVgGx7HQulfDND) | 1:49 | 2023-06-09 |  |
+| [In the mountains](https://open.spotify.com/track/40yeoePtbySoqCSRHgPPpR) | [phonk.me](https://open.spotify.com/artist/3YNdAmDzM5zMbGYeaSCe6A), [zetuv](https://open.spotify.com/artist/1PhDjAsWVkTLg5mUtSOeg9) | [In the mountains](https://open.spotify.com/album/1uejx5trxVgGx7HQulfDND) | 1:49 | 2023-06-09 | 2024-02-23 |
 | [In the mountains](https://open.spotify.com/track/51Uf2MSlbnu3nQhsZMmSYr) | [phonk.me](https://open.spotify.com/artist/3YNdAmDzM5zMbGYeaSCe6A), [zetuv](https://open.spotify.com/artist/1PhDjAsWVkTLg5mUtSOeg9) | [In the mountains](https://open.spotify.com/album/1nmSWtZwOE2xrQUlNtg6r0) | 1:49 | 2023-06-09 | 2023-12-05 |
 | [Infinite](https://open.spotify.com/track/36lAaFOepMC0kbLeHSLtbU) | [Skidz](https://open.spotify.com/artist/5OpDyR287ck0uxPbA2MF7Y) | [Infinite](https://open.spotify.com/album/2F7yVNgSaE4UcfTKx9be2B) | 3:22 | 2022-10-10 | 2023-03-25 |
 | [infinite universe](https://open.spotify.com/track/2U155vVDxWPXEaKy2QvK99) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG), [INTERWORLD](https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN), [glichery](https://open.spotify.com/artist/7xD76cR2sg2mAH29zBGnks) | [infinite universe](https://open.spotify.com/album/47k1YcVtWladbWe4EUjSfj) | 2:05 | 2023-09-29 |  |
@@ -120,12 +121,13 @@
 | [MINDSET](https://open.spotify.com/track/7AopDNQE6cqEydT5zv96MN) | [KEDELA](https://open.spotify.com/artist/0ytXblHAJwc57GVGp6wjvB) | [MINDSET](https://open.spotify.com/album/4DdiZ6bzOzDgNRUzygqWQI) | 3:05 | 2022-10-10 | 2022-11-26 |
 | [Miracle](https://open.spotify.com/track/5Oom5k3WHqAhJRe0lgueTI) | [HXPETRAIN](https://open.spotify.com/artist/58Kb5i2Bxw4XM6Cj8a5hbi) | [Miracle](https://open.spotify.com/album/0p5240k3qJdmTjdMCR5lEO) | 2:12 | 2023-12-08 |  |
 | [Moments](https://open.spotify.com/track/5jpmgLngjOgpBcCePMQraa) | [danjerr](https://open.spotify.com/artist/4viVD4UGbYimCV8cWpmRoQ) | [Moments](https://open.spotify.com/album/5ZcRhb7zelopjMDIAXn5Xn) | 4:12 | 2023-08-18 |  |
+| [MONTAGEM DIAMANTE ROSA \- SLOWED](https://open.spotify.com/track/4XdP1OCiSv3sc2jKnH2sGN) | [vtze archive](https://open.spotify.com/artist/3yn6fs9MkW1i4V3S2G8Dxs) | [MONTAGEM DIAMANTE ROSA](https://open.spotify.com/album/6qLQUot17pNAjGRTui2seK) | 1:54 | 2024-02-22 |  |
 | [Moog City 2](https://open.spotify.com/track/5ZRKfEdvg8sRBi6F8LCXmc) | [bxkq](https://open.spotify.com/artist/65lEC99xqy295XmDhg1KtW) | [New World 2](https://open.spotify.com/album/6qQuNWgENDmCA19f01Zy0w) | 3:05 | 2023-06-09 | 2023-09-09 |
 | [MUSEUM OF THE VOID](https://open.spotify.com/track/6rDjt5uh8wte2GzZHQxVzT) | [ETERNVL SVDNESS](https://open.spotify.com/artist/0FNnibWWGPh1bSwBkcUrMg) | [CULTURE OF FUTURITY](https://open.spotify.com/album/38f0sIVlHZbIhEBlKeb0OF) | 2:49 | 2022-10-10 | 2022-12-17 |
 | [MUSIC DEALER](https://open.spotify.com/track/2P3AH23KTwpzusIFlPYqT1) | [LXST CXNTURY](https://open.spotify.com/artist/4TS37lr3ZraUxBHS727sEp), [Juicy J](https://open.spotify.com/artist/0kYf4ylD6mLtRa6s9vyscE) | [MUSIC DEALER](https://open.spotify.com/album/5t0koaV8MkNBU4IjcwTnfI) | 2:49 | 2023-05-05 |  |
 | [MY LIFE](https://open.spotify.com/track/053gZ2j8c8cVK9ec5nPJbZ) | [KIIXSHI](https://open.spotify.com/artist/3nLZDVpDU6RrQ9k98yHTKh), [phonk.me](https://open.spotify.com/artist/3YNdAmDzM5zMbGYeaSCe6A) | [MY LIFE](https://open.spotify.com/album/5G2cyv4KGkZ1z033AbZjOV) | 1:52 | 2023-09-29 |  |
 | [My Toy](https://open.spotify.com/track/47C0kcP46CKw8DX69aXmRK) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [My Toy](https://open.spotify.com/album/6ai1YGBCS8Y83QWtJrRJz8) | 3:18 | 2022-10-10 | 2023-01-21 |
-| [MY WORLD](https://open.spotify.com/track/3VDGdOujH6PrDEPzbydrM9) | [Project 98](https://open.spotify.com/artist/78DBqQqK14yzExqp8L9d27), [PHONK.EXE](https://open.spotify.com/artist/3LTVq8jMbES1jTJaghsw5C) | [MY WORLD](https://open.spotify.com/album/09AkyzOHO3ymWmm9CYz6BF) | 2:03 | 2023-06-09 |  |
+| [MY WORLD](https://open.spotify.com/track/3VDGdOujH6PrDEPzbydrM9) | [Project 98](https://open.spotify.com/artist/78DBqQqK14yzExqp8L9d27), [PHONK.EXE](https://open.spotify.com/artist/3LTVq8jMbES1jTJaghsw5C) | [MY WORLD](https://open.spotify.com/album/09AkyzOHO3ymWmm9CYz6BF) | 2:03 | 2023-06-09 | 2024-02-23 |
 | [Next Day Was Yesterday](https://open.spotify.com/track/1fsKkXFu9AKvKDQFKrzz6p) | [plenka](https://open.spotify.com/artist/6yjz9vY01vOQUcFIAEYVQ0) | [Next Day Was Yesterday](https://open.spotify.com/album/33eCGntZUPDW5Sa7OK804R) | 2:52 | 2023-03-10 |  |
 | [Next Day Was Yesterday](https://open.spotify.com/track/2TaFenxaQaYmeSpq4EaPNl) | [plenka](https://open.spotify.com/artist/6yjz9vY01vOQUcFIAEYVQ0) | [Next Day Was Yesterday](https://open.spotify.com/album/3zzx0LzD0pqX9BUPUZzacZ) | 2:52 | 2022-10-10 | 2023-12-07 |
 | [night drive](https://open.spotify.com/track/483zAX1Wr9Eguhl28c1FUv) | [Antent](https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW), [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X) | [night drive](https://open.spotify.com/album/5CYYo6qi5CiYSZHrZdadfg) | 2:26 | 2023-06-09 |  |

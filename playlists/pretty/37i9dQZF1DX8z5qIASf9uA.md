@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8z5qIASf9uA.md) - [plain]
 
 > Honramos la memoria de las leyendas de nuestra Música Mexicana\. Valentín Elizalde en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,179 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,327 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8z5qIASf9uA.md) - [plain]
 | 74 | [Yo la Quería para Mi](https://open.spotify.com/track/6JRJhfBSAGgQKXkXsTH4b0) | [Jerry Demara](https://open.spotify.com/artist/4fo4CVWELgeLeKwqzJqdY7) | [Brindemos](https://open.spotify.com/album/1qdf86Qo4CCnxyCJn8JbGs) | 3:27 |
 | 75 | [Caja de Muerte](https://open.spotify.com/track/3yNdtIO9fyip5mTx0OZc3X) | [Saul Viera El Gavilancillo](https://open.spotify.com/artist/3tLdnHmnfkIdQq5cyFDl69) | [20 Éxitos Querido Amigo](https://open.spotify.com/album/5eOZiK0XfTpIU3mXAA22rq) | 3:22 |
 
-Snapshot ID: `MCwwYjI1MjZjNGQwZjhlMGQ4NjY0NWRiN2I2MDMwMzI3NjUyMjc0MjM5`
+Snapshot ID: `MCw2MWFlOWFmMTllNWI5OTViNmNjYmNkZjYwNzI3YTFhZDM4MjFkMDAw`

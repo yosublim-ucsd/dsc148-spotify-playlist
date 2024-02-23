@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 
 > A collection of Industrial Metal \- fresh and old tunes\. Cover: Fear Factory
 
-[Spotify](https://open.spotify.com/user/spotify) - 317,492 likes - 100 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 317,579 likes - 100 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 | 99 | [Killer Quinn](https://open.spotify.com/track/0nuPTlaHKknCMqwkiIgqSf) | [SCARLET](https://open.spotify.com/artist/1ezwRjcVcSgr0HNIwRd2CN) | [Killer Quinn](https://open.spotify.com/album/3WRtHLiv4uw6pkxx0Bbddd) | 2:59 |
 | 100 | [Doctor Online](https://open.spotify.com/track/0aZQyZyQ41fb12tJdYVa5H) | [Zeromancer](https://open.spotify.com/artist/0tQn2q1TIEenLgodtb8Nhx) | [Eurotrash](https://open.spotify.com/album/63o4mkCR9nAyiAsKA1UlxI) | 3:18 |
 
-Snapshot ID: `MCwwN2VjZWQ1ZjEzOTgzYmI1ZTExNTQ1YzQwODY5MmMwZWYyMWM0ZDAw`
+Snapshot ID: `MCxjOGZhMjU3ZTQzOThiZGExZDU1MmEyZjkzNWI2NWEwY2UwOGE3N2Mw`

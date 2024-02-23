@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WaFyg.md) - [plain]
 
 > This is Young Thug\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,588 likes - 51 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,648 likes - 51 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WaFyg.md) - [plain]
 | 50 | [Hellcat Kenny \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/5nYygW7bTgPOhckh3uDR9L) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [BUSINESS IS BUSINESS](https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D) | 2:34 |
 | 51 | [Wyclef Jean](https://open.spotify.com/track/55OdqrG8WLmsYyY1jijD9b) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [JEFFERY](https://open.spotify.com/album/7EpUpNUkkEGnaCvkcn1j4H) | 3:56 |
 
-Snapshot ID: `Mjg0NzUyOTAsMDAwMDAwMDBmYTE0MDM0NTA4M2Q2NTJhZTdjYzQ3MTA0OTAyMGQ2YQ==`
+Snapshot ID: `Mjg0NzcwNzUsMDAwMDAwMDA2MmNiMWU4NmI3MjcxODIyNDcwNjI5M2EzNTgzYTNkYg==`

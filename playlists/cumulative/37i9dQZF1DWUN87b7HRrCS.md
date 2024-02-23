@@ -4,7 +4,7 @@
 
 > Soft and cozy sounds of Bossa nova.
 
-99 songs - 6 hr 20 min
+100 songs - 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Lembranças](https://open.spotify.com/track/4eGXFQEQGGxgYy6OFabfJV) | [Vitor José Fonseca](https://open.spotify.com/artist/4lmPgpLRyJHPseygyVBGTu) | [Lembranças](https://open.spotify.com/album/1uPZt0rwu5GK8wA9Qji4tW) | 4:04 | 2023-05-11 |  |
 | [Liljeholmsviken](https://open.spotify.com/track/3Gw26kNDJHfTtHJQOzI1h4) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Liljeholmsviken](https://open.spotify.com/album/6wrG9MReEESMfnXLh3daCe) | 4:22 | 2023-05-11 |  |
 | [Lonely Desires](https://open.spotify.com/track/6FgLJ7dCQMjgvqrKnYP1Q6) | [Amir Patel](https://open.spotify.com/artist/2IwMjlPYSZLq7oH4YN4WFy) | [Lonely Desires](https://open.spotify.com/album/6SYo8TS6PN3OIVqSfmUqW1) | 2:41 | 2023-10-13 |  |
+| [Maneiro](https://open.spotify.com/track/5Ibs7bA78QLwMylLggsZpi) | [Eric Merlino](https://open.spotify.com/artist/1vL7K80AJZnr8Y10olI96q) | [Maneiro](https://open.spotify.com/album/2sYgZHT6yCVpbu9omNzrEt) | 4:03 | 2024-02-23 |  |
 | [Manha de Carnaval](https://open.spotify.com/track/0kfdvJhyb0QHBG1IM9Vlht) | [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi) | [The New Sound of Brazil](https://open.spotify.com/album/0947CUJYGkjD70oXtYtgbU) | 3:09 | 2023-05-11 |  |
 | [Meditação](https://open.spotify.com/track/4QdHwCmkuQuKfCuqK0VqOP) | [Michel Rosa](https://open.spotify.com/artist/5tGQbvcsEaVXQ5uD7NzfLV) | [Meditação](https://open.spotify.com/album/7uvnQx1Ih6etuDuFLamyzr) | 6:18 | 2023-05-11 |  |
 | [Morning Of The Carnival \- From "Black Orpheus"](https://open.spotify.com/track/6GQ6rapsknPIutGbpv0DTR) | [Gerry Mulligan Sextet](https://open.spotify.com/artist/6tzN9Ew9w6JB0UQr8culs1) | [Night Lights \(Expanded Edition\)](https://open.spotify.com/album/1uJ9OJIgmgj4ta8xjq9nEJ) | 5:30 | 2023-05-11 |  |

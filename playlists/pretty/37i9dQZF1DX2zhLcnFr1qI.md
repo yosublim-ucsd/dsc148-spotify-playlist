@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 
 > Dance and Electronic tracks for the season <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,376 likes - 60 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,365 likes - 60 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 | 59 | [Christmas is Here \(feat\. Late Night Alumni\)](https://open.spotify.com/track/4voEvBr3uYSMRtKlJKP1UX) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Late Night Alumni](https://open.spotify.com/artist/6JtFllJR7nhh8fa6oGefSj) | [Kaskade Christmas](https://open.spotify.com/album/3gTy7Qdza0pvQTwWTC0CxY) | 2:47 |
 | 60 | [Santa Tell Me](https://open.spotify.com/track/4AmUOomwGifLOR3lPiweuc) | [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [Stephanie Schulte](https://open.spotify.com/artist/0lFLwxM5lPGtJVmCkjYTQ3) | [Santa Tell Me](https://open.spotify.com/album/4Ya1nBIiIKwE7bRyVw7Zx4) | 2:37 |
 
-Snapshot ID: `MCw0NTljOTUzZTFhNTA2OWM2M2UxOGUzNjAyNDQ0NmEwY2Y3NzE1ZmE5`
+Snapshot ID: `MCxhNmE4OWU2Nzc2Mjg4YWJlZmI3MTQ4NzM4NjQ1YWFiMGI1YzAzYWM2`

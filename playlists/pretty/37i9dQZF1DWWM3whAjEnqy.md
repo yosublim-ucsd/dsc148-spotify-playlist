@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM3whAjEnqy.md) - [plain]
 
 > Sun, sand, salt water and the perfect songs to match.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,843 likes - 85 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,856 likes - 85 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM3whAjEnqy.md) - [plain]
 | 84 | [Every Day Is A Holiday \(feat\. Winston Surfshirt\)](https://open.spotify.com/track/2FYPHlCcEzere9tj4vAouv) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8), [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh) | [Rose Pink Cadillac](https://open.spotify.com/album/2VaOn32haUapQOYnerK32W) | 5:53 |
 | 85 | [Leave That](https://open.spotify.com/track/3YuAWFpVawNf23ZN7OlfD8) | [Old Mervs](https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg) | [Give It Up](https://open.spotify.com/album/1A3A8WdrkktsDANff6H9mt) | 3:20 |
 
-Snapshot ID: `MCw2OGNlMTQ4ODdlYTZjOWQ1ZDZhNThmYmY2YWVhMzFmNTgxMWExYWI4`
+Snapshot ID: `MCxmM2Y2MzZkZmEzOTQ2ODVmMWQ4MTY1ZjA5MWM3YjQ1NzViZTBhNjU4`

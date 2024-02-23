@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0fmLn46c92nP4dePQSZlsz.md) - [plain]
 
 > Secretly's collection of the best new music from independent artists and labels everywhere\. Updates bi\-weekly\. Cover star: <a href="https://open.spotify.com/artist/3LDUvPQ97zYOzFliNk9GmV?si=NrdMWwm6TeOsn9HqNK5q8w">Loren Kramar</a>
 
-[Secretly Group](https://open.spotify.com/user/secretlygroup) - 17,105 likes - 80 songs - 4 hr 49 min
+[Secretly Group](https://open.spotify.com/user/secretlygroup) - 17,104 likes - 80 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/0fmLn46c92nP4dePQSZlsz.md) - [plain]
 | 18 | [Butterfly Net \(feat\. Weyes Blood\)](https://open.spotify.com/track/0NL61fJiDf07EAd2HzsNCW) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Butterfly Net \(feat\. Weyes Blood\)](https://open.spotify.com/album/3rxjw1Di3SRicz2Z4eE4Pb) | 5:33 |
 | 19 | [for the kids...](https://open.spotify.com/track/2P3PxlSbLXQOQnrkxUySvo) | [aja monet](https://open.spotify.com/artist/6dclGxWbiv1ScMQwT5INQF) | [for the kids...](https://open.spotify.com/album/252DBqUqlWG0eOgpEUqPd5) | 5:50 |
 | 20 | [milksugar \- DJ Python Remix](https://open.spotify.com/track/2aqIwxUPWxN5zhmJzYRonA) | [crushed](https://open.spotify.com/artist/5U7wHWp1AmjN0mzvAfA6YM), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl) | [milksugar \(DJ Python Remix\)](https://open.spotify.com/album/1xApy6wmpdBnqmJpj4Nm5u) | 3:21 |
-| 21 | [I’m A Man](https://open.spotify.com/track/4RdqVrjTnuEms5pgKNG95q) | [Kim Gordon](https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx) | [I'm A Man](https://open.spotify.com/album/1GDSTZ2T6bOGQdFtjXTZn4) | 4:31 |
+| 21 | [I'm A Man](https://open.spotify.com/track/4RdqVrjTnuEms5pgKNG95q) | [Kim Gordon](https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx) | [I'm A Man](https://open.spotify.com/album/1GDSTZ2T6bOGQdFtjXTZn4) | 4:31 |
 | 22 | [Messages](https://open.spotify.com/track/1FSDiVFnNPWbFTrHaKTYD2) | [Jane Penny](https://open.spotify.com/artist/3LgeMxdrjCnZIHB8VoFhcd) | [Messages](https://open.spotify.com/album/2NTbrUHlhtJZUCcIebjth2) | 3:15 |
 | 23 | [I\-90 Bridge](https://open.spotify.com/track/3hzwcc7r60iu5LxwnBgB3F) | [Chastity Belt](https://open.spotify.com/artist/1tho5dJnzdYD57EQkM3SmK) | [I\-90 Bridge](https://open.spotify.com/album/32eLWJP5fC26HGO3awNioD) | 4:53 |
 | 24 | [Floating On A Moment](https://open.spotify.com/track/5ZBjVFfYDwj3TeIfDHLWLN) | [Beth Gibbons](https://open.spotify.com/artist/6Lt6KFXX3P0v6vfrynQAMo) | [Floating On A Moment](https://open.spotify.com/album/6WnQZyGXl3oKTsWmRLMqgY) | 5:26 |

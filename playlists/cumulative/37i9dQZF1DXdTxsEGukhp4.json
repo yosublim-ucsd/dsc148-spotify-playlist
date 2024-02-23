@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "24/7 YOU...",
+        "url": "https://open.spotify.com/album/1RIeaWQ4OVcm8TEZdiAaPr"
+      },
+      "artists": [
+        {
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161899,
+      "name": "24/7 YOU...",
+      "url": "https://open.spotify.com/track/44FOrs9EwYsp64WlsL8EXD"
+    },
+    {
+      "album": {
         "name": "Rockdown",
         "url": "https://open.spotify.com/album/0PTuKPDfxHvFUJlAkMtDy8"
       },
@@ -5128,7 +5146,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 236802,
       "name": "\u30bf\u30a4\u30e0\u30de\u30b7\u30f3\u306b\u306e\u3063\u3066",
       "url": "https://open.spotify.com/track/60Ll4oaLbHtoscyMJyNwfo"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 
 > Blues with a British flavor\. Cover: Jeff Beck
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,446 likes - 65 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,501 likes - 65 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 | 64 | [Hear Me Calling \- Mono](https://open.spotify.com/track/4e2QAsNsK4k2L3AmfkCs3w) | [Ten Years After](https://open.spotify.com/artist/7nkLRaWHImCvWGHdNGnhVE) | [Stonedhenge \(Re\-Presents\)](https://open.spotify.com/album/6Y4yzjEE03x6pPQbyoWi8l) | 5:48 |
 | 65 | [I Don't Care](https://open.spotify.com/track/3hbwdoayA5vJwebCygMDg2) | [Duffy Power](https://open.spotify.com/artist/1HD11ESo3mcg0LtEJSZkvN) | [The Marquis Sessions](https://open.spotify.com/album/2jIctQtMRND7mnasTHEFmW) | 2:42 |
 
-Snapshot ID: `MCw0ZDk0YjhkOWU5MzQwZGFiZTM2NTExYzg3NDJlYTYwNDAyYThhOTM1`
+Snapshot ID: `MCwyYzhiNWJmODNlMTZjMzEzNjM5ODFjZjRiMjEyMTkwNDA3NWU5NGI5`

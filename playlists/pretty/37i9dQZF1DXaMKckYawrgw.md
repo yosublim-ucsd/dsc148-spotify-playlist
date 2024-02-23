@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMKckYawrgw.md) - [plain]
 
 > ¡Ska 100% Mexicano, círculos de paz y baile! Panteón Rococó en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,882 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,312 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMKckYawrgw.md) - [plain]
 | 99 | [Mérida Ska](https://open.spotify.com/track/5watJHxDxO5RLv7ye4HHXy) | [Toño Quirazco](https://open.spotify.com/artist/2uu3Ci708BPlF2oXSCeSeo) | [Jamaica Ska](https://open.spotify.com/album/6DDi0g2UP6IYKTY8xyT2Xq) | 2:33 |
 | 100 | [Felicidad](https://open.spotify.com/track/4nO5Ljx7tRrYqC6t3BGRhg) | [Girls Go Ska](https://open.spotify.com/artist/0jLRSH7uzp7DAbl3vfBhjo) | [Frente al Mar](https://open.spotify.com/album/5mo377nus6GhMWCoPMhi7n) | 5:04 |
 
-Snapshot ID: `MCw4NWE5NWZlNTIwODI0MzIwMDc4MGY5OGE2YzMwMjA4ZjEwMDdkOWU5`
+Snapshot ID: `MCw2Nzc0N2QxNjA2ZDZjZDk2ZWJiNGI1NmRiZTUwZGE0NGM1YzAzOTNi`

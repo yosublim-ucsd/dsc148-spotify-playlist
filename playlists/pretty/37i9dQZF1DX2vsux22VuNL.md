@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vsux22VuNL.md) - [plain]
 
 > Aquele som que é pura brisa\. 🍃 Foto: Ariel Donato, MC Cabelinho, Marina Sena
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,726 likes - 80 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,721 likes - 80 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vsux22VuNL.md) - [plain]
 | 79 | [Nós Dois](https://open.spotify.com/track/3OSKdxDJ15q682cx1NF0ne) | [NALAH](https://open.spotify.com/artist/6ETEPWJAjX1ZwlvkcRX5t8) | [Nós Dois](https://open.spotify.com/album/7xKWFFnBKO9EM0GpWQ4JmY) | 2:27 |
 | 80 | [Seu Zé](https://open.spotify.com/track/7uZm4WI4OqH25LFlNobiff) | [Gu](https://open.spotify.com/artist/08vwQJxPdhUyPBxT4Tf0cS), [IVYO](https://open.spotify.com/artist/3HbuQbAHMPwBb4mQyNllCa) | [Seu Zé](https://open.spotify.com/album/7s3KnsNmFhgSyUxhfLcS3N) | 2:16 |
 
-Snapshot ID: `MCxjYWM0MzM5MjBmNDNmY2FiZmY0MTNmMDEwYzBhMGE2NmFiYmZmNzVh`
+Snapshot ID: `MCw4Mzg2MWViZDk3OWFlNmViNzBiNWMxYjI2ZDFlMGMzODIyMmI1Yjlj`

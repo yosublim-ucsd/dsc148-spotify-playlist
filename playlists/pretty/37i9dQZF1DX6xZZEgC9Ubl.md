@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 
 > Emo feels for the misunderstood\. Cover: The Kid LAROI
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,579,531 likes - 152 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,579,663 likes - 152 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,7 +117,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 | 107 | [Table for One](https://open.spotify.com/track/3NyGlrlfpTKK9J07N1BGud) | [Roderick Porter](https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy) | [Table for One](https://open.spotify.com/album/5mldiHS5v1OF5yKoLoXWxk) | 2:44 |
 | 108 | [Psycho!](https://open.spotify.com/track/56fkAaSu91c1E2k43wGPFC) | [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE) | [How To Kill A Rockstar](https://open.spotify.com/album/19C3hX64lG3BikzOfwmUm6) | 3:17 |
 | 109 | [nobody else](https://open.spotify.com/track/5tNsiJvMrreUQASdTU4FVh) | [Lubalin](https://open.spotify.com/artist/6lt3CXKfhLXjYl2VFD6vN4) | [nobody else](https://open.spotify.com/album/2cROz0PXt0BsCGnQXRApNf) | 2:32 |
-| 110 | [HURT SO BAD](https://open.spotify.com/track/61UW1ahvPB6hxLPxjM2VoK) | [RØNIN](https://open.spotify.com/artist/5AueQd01cgyqBRQ82ns5cd) | [HURT SO BAD](https://open.spotify.com/album/7lJSH2Ex6k51cNarafJkBQ) | 2:34 |
+| 110 | [Hurt So Bad](https://open.spotify.com/track/61UW1ahvPB6hxLPxjM2VoK) | [RØNIN](https://open.spotify.com/artist/5AueQd01cgyqBRQ82ns5cd) | [Hurt So Bad](https://open.spotify.com/album/7lJSH2Ex6k51cNarafJkBQ) | 2:34 |
 | 111 | [YellowStone](https://open.spotify.com/track/607Gx4Z3NAiqGCGJg9925F) | [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN), [Eddy Baker](https://open.spotify.com/artist/26HvjJ7ni9UWX4p7QhrXV6) | [YellowStone](https://open.spotify.com/album/5m93kff6ndGPd1hhdrZ9Rp) | 3:09 |
 | 112 | [in the dark](https://open.spotify.com/track/16puXojTt3aLXv0GKX1kxH) | [guccihighwaters](https://open.spotify.com/artist/7EIOmfcBRSR63ZaUptkD09) | [in the dark](https://open.spotify.com/album/3MPtNODqj1w5ut0fYrBvS7) | 2:48 |
 | 113 | [For Him](https://open.spotify.com/track/1wnraERlBZNnDMPgHRVU67) | [Ouse](https://open.spotify.com/artist/6R29RU7eyQHSNc5kaHPWJn), [Svar](https://open.spotify.com/artist/01XHWYnO2Mw0DdumkQLtgC) | [For Him](https://open.spotify.com/album/0HsZSZzSwpG2D8evaTc4d7) | 3:24 |
@@ -161,4 +161,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 | 151 | [North Star](https://open.spotify.com/track/42rF3FLOvTSXRpVowkwTGY) | [Mackned](https://open.spotify.com/artist/68VUmnZEzmzZdd1zPtnbZZ) | [God Mom](https://open.spotify.com/album/7gBvEFzk4d13BOayesrAuB) | 2:03 |
 | 152 | [KIDS ARE GROWING UP \(PART 1\)](https://open.spotify.com/track/6bVtAHmzr3X8pwJ2TpeF2G) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [KIDS ARE GROWING UP \(PART 1\)](https://open.spotify.com/album/0q4WCFawxIPF7ZGwL2sfaV) | 2:01 |
 
-Snapshot ID: `MCxiOTE2MzczMGY2MWI3OTdhMjY0OWNiZDVlNTEyZjBlZmJlMzM2YThh`
+Snapshot ID: `MCwxZjEwNTQwOTc5NDE3ZjI5YzQ4NGFmMDY3NjA2ZWMzMGFkN2MyNGE5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oTcyc.md) - [plain]
 
 > This is Kodak Black\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,309 likes - 51 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,371 likes - 51 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oTcyc.md) - [plain]
 | 50 | [Still Play Valorant](https://open.spotify.com/track/2utemadSk7qZrkzj8ZShSN) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Rolling Stone](https://open.spotify.com/album/3k7IcgDj3ZfvI2I7CCaS9H) | 3:11 |
 | 51 | [Get Ready \(feat\. Kodak Black\)](https://open.spotify.com/track/04EHa1ZzBl8OPvcnddph4p) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [SoulFly \(Deluxe Version\)](https://open.spotify.com/album/15BnishwaiZhh0ZY3fnxMN) | 3:51 |
 
-Snapshot ID: `Mjg0NzUyOTEsMDAwMDAwMDA1MmVhMjNiNzg3OWRkY2IxMTliNzE1YWUzM2ZhYjgxZQ==`
+Snapshot ID: `Mjg0NzcwNzUsMDAwMDAwMDBlNTY2YTNhOTBhZTkyZTJiYTYzMmE5ZmQ4ZjBmYmExNQ==`

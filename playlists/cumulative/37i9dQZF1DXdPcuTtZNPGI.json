@@ -1015,6 +1015,24 @@
     },
     {
       "album": {
+        "name": "Value",
+        "url": "https://open.spotify.com/album/63xNXfql8mdsOd1fZjodbf"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Value",
+      "url": "https://open.spotify.com/track/6BEnpVB7g2j8mzWs3MC2kh"
+    },
+    {
+      "album": {
         "name": "Ado's Utattemita Album",
         "url": "https://open.spotify.com/album/2tGokYNjX87AAodtbLBYuf"
       },

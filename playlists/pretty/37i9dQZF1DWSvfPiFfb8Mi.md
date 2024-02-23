@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvfPiFfb8Mi.md) - [plain]
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-[Spotify](https://open.spotify.com/user/spotify) - 550,902 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 551,007 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvfPiFfb8Mi.md) - [plain]
 | 99 | [Studio 54](https://open.spotify.com/track/20blT6R5DJhfrk9c16lQ4E) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k) | [Studio 54](https://open.spotify.com/album/5eqNUuxFHel3GEUPeaaFbv) | 2:46 |
 | 100 | [Waiting 4 You](https://open.spotify.com/track/6APQPY2tZzOV9T4iNSXdYe) | [Ekkah](https://open.spotify.com/artist/31UKSWpSUyiReoTEb39vHb) | [Waiting 4 You](https://open.spotify.com/album/6azOujmzDmxwelXemqImSU) | 3:40 |
 
-Snapshot ID: `MCxmM2YzM2FkYWEyMjgyYjEyZTNkMWE3ODg1OGU2ZWZjOTE5NDMwZjg2`
+Snapshot ID: `MCw3NDNmNGFhZWYzZDI4NWU2NGE5MWM0NTY4MmFiZjRjZDc1ZjE4ZjRl`

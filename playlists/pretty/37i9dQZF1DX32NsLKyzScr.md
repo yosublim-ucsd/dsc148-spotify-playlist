@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32NsLKyzScr.md) - [plain]
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,537,127 likes - 125 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,537,637 likes - 125 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32NsLKyzScr.md) - [plain]
 | 124 | [Sacrifice](https://open.spotify.com/track/76YXmewvHFse7tBeOTtSx3) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY) | [Sacrifice](https://open.spotify.com/album/4D3QP0SVFo1iRWWACAhmQi) | 4:39 |
 | 125 | [ABC](https://open.spotify.com/track/1no0HVphfnHBjYNfhH3m1k) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR) | [ABC](https://open.spotify.com/album/1eCJRp3bemhLyeuD3hSCqK) | 2:39 |
 
-Snapshot ID: `MCwxOGE5YWI0ODg4MzhjMmNiN2NmMTIzN2NkOWE4M2JhOWE2NjhmYjQ0`
+Snapshot ID: `MCw0MTA4OWQ3YjNlOWU5ZGFjMGU3NGRjNWUzOTE4ZGFmMWJjNWE0MGIz`

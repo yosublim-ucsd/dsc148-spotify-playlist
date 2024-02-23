@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Jerj8LqApV.md) - [plain]
 
 > Chill out and relax to the breeziest hits from the Philippines.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,665,849 likes - 40 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,666,205 likes - 40 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Jerj8LqApV.md) - [plain]
 | 39 | [Pasensya Ka Na](https://open.spotify.com/track/4yrphG2212kF0aIt3qOt3g) | [Silent Sanctuary](https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C) | [Langit\. Luha.](https://open.spotify.com/album/6L9ym5oi9qCCJgYyVxgwxn) | 4:01 |
 | 40 | [Bukod\-Tangi](https://open.spotify.com/track/66tKd60oZUTAK0PdmXJl09) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Bukod\-Tangi](https://open.spotify.com/album/4yAWdaZDMWNCNrpwd745NH) | 3:42 |
 
-Snapshot ID: `MCwyN2FlNGY1MGY2NDBiYmJiZDI2ZTE2YTMxMWM3NzFiOGY0NDY5YWVh`
+Snapshot ID: `MCw3M2JhNWM5MDdlMGViOWFlMGZmNGU0YzI0OWY0YWZiNjM5Y2U2YjMw`

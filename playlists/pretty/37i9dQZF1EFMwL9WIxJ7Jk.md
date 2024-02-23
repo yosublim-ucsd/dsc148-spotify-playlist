@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3wlYs23A2Ma5v7mAwIBJsR">Meghan Trainor</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,537 likes - 134 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,539 likes - 134 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 | 22 | [My Kind Of Present](https://open.spotify.com/track/2rkb8ijsPapKDMEh0cSe8I) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [A Very Trainor Christmas](https://open.spotify.com/album/2Mb2HvX9H2J98qOvZGdsFf) | 2:41 |
 | 23 | [No Good For You](https://open.spotify.com/track/5lOK3NCvbvgK6cohyTTQ4Z) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Title \(Deluxe\)](https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE) | 3:36 |
 | 24 | [Can't Blame a Girl for Trying](https://open.spotify.com/track/5K7fGxZQB0K5sPKhLe9e07) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Eyes Wide Open](https://open.spotify.com/album/55huyEjfSVsk9nnmmKp5df) | 2:49 |
-| 25 | [Walkashame](https://open.spotify.com/track/0Jrzzjj0pVzS6xl4wonUNh) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Title \(Deluxe\)](https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE) | 2:58 |
-| 26 | [Just a Friend to You](https://open.spotify.com/track/18U2UphSbJBfkDCSxbiMgy) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Thank You \(Deluxe\)](https://open.spotify.com/album/5nkgosKhWt1yXRzmjXNV2d) | 2:44 |
+| 25 | [Just a Friend to You](https://open.spotify.com/track/18U2UphSbJBfkDCSxbiMgy) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Thank You \(Deluxe\)](https://open.spotify.com/album/5nkgosKhWt1yXRzmjXNV2d) | 2:44 |
+| 26 | [Walkashame](https://open.spotify.com/track/0Jrzzjj0pVzS6xl4wonUNh) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Title \(Deluxe\)](https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE) | 2:58 |
 | 27 | [I'm a Lady \- from SMURFS: THE LOST VILLAGE](https://open.spotify.com/track/7MSFoTbgwi5BFpilewAbUo) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [I'm a Lady \(from SMURFS: THE LOST VILLAGE\)](https://open.spotify.com/album/2WmgJ564fx8gNku6JdIjB5) | 2:44 |
 | 28 | [Nice to Meet Ya \(feat\. Nicki Minaj\)](https://open.spotify.com/track/5HqRQwSAPAgJBQ3bhtpUTg) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [TREAT MYSELF](https://open.spotify.com/album/766Hr0WDvATeOSIo41JvNs) | 3:17 |
 | 29 | [You Gotta Not](https://open.spotify.com/track/11GdgPlzK9Vzn0DV8gHQmd) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Glory Days \(Expanded Edition\)](https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m) | 3:11 |
@@ -143,4 +143,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 | 133 | [Take Me There](https://open.spotify.com/track/67bB21Y4jSjG3bPPxmqHE8) | [Roger](https://open.spotify.com/artist/4znx0x1npb8pWk0b7Te7hg) | [Hoy \(Finalista La Voz Kids 2015\)](https://open.spotify.com/album/03R3ZvRxNVnjl4PvAeloSg) | 3:30 |
 | 134 | [I'm Ready](https://open.spotify.com/track/4vHh5UPDjmK4R8OPu6sizb) | [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9), [Kinsley](https://open.spotify.com/artist/45TaTVSd9vVWTbafjbljHX) | [Motions LP](https://open.spotify.com/album/2yrVlPZtagwIhwpGm2arbH) | 2:27 |
 
-Snapshot ID: `Mjg0NzYxMzAsMDAwMDAwMDBkZjEwZjJjOTA3YThlMTUyYTY1ZTg3NDJlYzI2MjNlNg==`
+Snapshot ID: `Mjg0Nzc1NzAsMDAwMDAwMDBhNDI5NDIzM2ExZDhjMGVlNTY5MzQ0NTljZjJkNzQ5ZQ==`

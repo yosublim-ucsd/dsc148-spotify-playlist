@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGzo2lhvYlP.md) - [plain]
 
 > nothing but bangers to help you with the grind
 
-[Spotify](https://open.spotify.com/user/spotify) - 538,594 likes - 200 songs - 10 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 538,640 likes - 200 songs - 10 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGzo2lhvYlP.md) - [plain]
 | 199 | [My Bed](https://open.spotify.com/track/7BZ2xgtqnvle8d5EiR3xcy) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Alive and Unwell \(Deluxe\)](https://open.spotify.com/album/2RkBBR9ARKnTM4BDptb3tT) | 2:44 |
 | 200 | [Need You](https://open.spotify.com/track/0EQeui6OBMzqJ3Z3wCOzZh) | [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd) | [Need You](https://open.spotify.com/album/1IqpPKPKVpu1VWZ67VnHPB) | 3:02 |
 
-Snapshot ID: `MCw4ZWYwMWFmOTM0MTA2NDc5ODZmMjQwY2ZmOGEwNDcxNDQ3MTg0ZmJi`
+Snapshot ID: `MCxiMTg0MTQ2NTE4NDBjYTVhYTU5MWRiYzVkMDViMWUzODgzNWU4OWIx`

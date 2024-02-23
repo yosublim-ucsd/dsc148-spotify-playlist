@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 
 > Distorted and rough around the edges.
 
-[Spotify](https://open.spotify.com/user/spotify) - 456,810 likes - 60 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 456,874 likes - 60 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 | 59 | [Bliss](https://open.spotify.com/track/3CCBNEcg3etv2gppDhs3At) | [Best Friends Club](https://open.spotify.com/artist/7JjgGzq5j7CBkglcvQ48vq) | [Bliss](https://open.spotify.com/album/2T1JvD1CHgQfQcEGd9CzKe) | 5:47 |
 | 60 | [Carefree](https://open.spotify.com/track/2Z93jIyx7k6fvTYDIbZJiO) | [Grey Killer](https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb) | [Carefree](https://open.spotify.com/album/6byYvncu2dYHriyQrVdlJB) | 3:28 |
 
-Snapshot ID: `MCwxNjY1ODUzMDBiYjVmZGMzZWNmZTY5YWQxOGE2OGZlMzBjY2Y2Yzcz`
+Snapshot ID: `MCxiM2ZiNjFhNzUzM2VkMTIwMjU3MjM4MjcwZDA0MmQ2ZjFmNDE5OWQw`

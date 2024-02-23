@@ -4,7 +4,7 @@
 
 > Mantras for meditation
 
-109 songs - 1 day 6 hr 31 min
+110 songs - 1 day 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Durga Mantra](https://open.spotify.com/track/0gJNEG3bWdslbqGOf8VOWj) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Magical Mantras for Meditation \- Volume Two](https://open.spotify.com/album/2SyTtRLOHedCwGOBNiQcU4) | 43:59 | 2022-01-24 | 2023-05-05 |
 | [Durga Mantra](https://open.spotify.com/track/2M3U3LxFTNj3gKcYPSkM34) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Magical Mantras for Meditation \- Volume Two](https://open.spotify.com/album/6KusWndRTwoWKdMEKR7wde) | 43:59 | 2022-01-24 | 2022-07-29 |
 | [Ganesh Mantra](https://open.spotify.com/track/16nKhvMOqdeGrYQF3vurog) | [Raghav Sarangal](https://open.spotify.com/artist/6670l7bZPECHs6RgUhLLu9) | [Ganesh Mantra](https://open.spotify.com/album/5CVVbGzAkku6oG0AI7bE4B) | 26:40 | 2023-05-04 |  |
+| [Ganesh Mantra](https://open.spotify.com/track/4Cd4lQdse8xNPfXOgpUfPF) | [Uma Mohan](https://open.spotify.com/artist/3IJsrpcwlIt9wYIFISmc4q) | [Ganesh Mantra](https://open.spotify.com/album/7Fl31P8ZIOJivw5OPfjTKs) | 4:43 | 2024-02-22 |  |
 | [Ganesh Stuti](https://open.spotify.com/track/2VkyL7OvkQqABhtM3hyPaf) | [Ankita Bramhe](https://open.spotify.com/artist/1FKFRFij4L7rPTm8J4HPkj) | [Ganesh Stuti](https://open.spotify.com/album/6yta2A7hXHC2Cmv1eKVUOv) | 2:34 | 2024-02-15 |  |
 | [Ganesh Stuti](https://open.spotify.com/track/30s5J8ytFaCovIy0rrNPZO) | [Ankita Bramhe](https://open.spotify.com/artist/1FKFRFij4L7rPTm8J4HPkj) | [Ganesh Bhakti Sangrah](https://open.spotify.com/album/0nL4UuEp3jT8dL68IXuWEs) | 2:34 | 2023-09-14 | 2024-02-20 |
 | [Ganesha Gayatri: For Success in Anything](https://open.spotify.com/track/2fHWrCwPVLjpJb2ibPFDjr) | [Ananda Vdovic](https://open.spotify.com/artist/0pyLDBws2r1CNSkLJol5tN), [Davor Vdovic](https://open.spotify.com/artist/19dzgXUMohaOgGPT3OzpAJ) | [Mantras for a Happy Life](https://open.spotify.com/album/6zCF7QiMqi8CY8J4qP1a0k) | 3:44 | 2022-01-24 | 2023-11-06 |
@@ -95,7 +96,7 @@
 | [Sarvesham Svastir Bhavatu](https://open.spotify.com/track/10hYBr0KXyCNtuvc388Rn8) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Mantras for Deep Inner Peace](https://open.spotify.com/album/1RRMH04ndZk2LWEgDAkUG7) | 45:17 | 2022-01-24 | 2022-07-29 |
 | [Sarvesham Svastir Bhavatu](https://open.spotify.com/track/3wPDOm3yUZdZtxjkDTIUcm) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Mantras for Deep Inner Peace](https://open.spotify.com/album/1jugrSJ5ZNJFaeZvki19Z4) | 45:17 | 2022-08-05 | 2022-11-13 |
 | [Sarvesham Svastir Bhavtu](https://open.spotify.com/track/0ttVqRISNySDktBhdJsJZv) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Magical Mantras for Meditation \- Volume Two](https://open.spotify.com/album/2SyTtRLOHedCwGOBNiQcU4) | 45:17 | 2022-01-24 |  |
-| [Shanti Mantra \(For Inner and Outer Peace\)](https://open.spotify.com/track/2k0UyMqa4FbwMZiHgYJzfA) | [Manish Vyas](https://open.spotify.com/artist/4eZcz3z9PEo5TMzkjHlzrK) | [Sahaj Atma](https://open.spotify.com/album/1301F9iFu666bf4IqviXar) | 6:58 | 2023-05-23 |  |
+| [Shanti Mantra \(For Inner and Outer Peace\)](https://open.spotify.com/track/2k0UyMqa4FbwMZiHgYJzfA) | [Manish Vyas](https://open.spotify.com/artist/4eZcz3z9PEo5TMzkjHlzrK) | [Sahaj Atma](https://open.spotify.com/album/1301F9iFu666bf4IqviXar) | 6:58 | 2023-05-23 | 2024-02-23 |
 | [Shiv Tandav Stotra \(Hindi Adaptation\)](https://open.spotify.com/track/77EGwUvKLSsinbBoPtsIPn) | [Om Voices](https://open.spotify.com/artist/35Dv4r2eP3iqNKQTSwaBVK) | [Shiv Tandav Stotra \(Hindi Adaptation\)](https://open.spotify.com/album/7FWuNtoURNJenQNf9j2wwF) | 6:20 | 2023-08-10 |  |
 | [Shiv Tandav Strotram](https://open.spotify.com/track/4Vp6ajyPyG5onrrzMOql6p) | [akashworldwide](https://open.spotify.com/artist/7aDBhDrZS0RXtMDmQQNwDE) | [Shiv Tandav Strotram](https://open.spotify.com/album/23gj0ztuhpH7H2l2d4hT3J) | 3:18 | 2023-12-26 | 2024-02-16 |
 | [Shiv Tandav Strotram](https://open.spotify.com/track/6EuRDQtfLoapVGesvko8sS) | [akashworldwide](https://open.spotify.com/artist/7aDBhDrZS0RXtMDmQQNwDE) | [Shiv Tandav Strotram](https://open.spotify.com/album/6fI7Z1YcFQoS4mq3JZYLT6) | 3:18 | 2023-11-05 |  |

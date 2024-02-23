@@ -2,7 +2,7 @@
 
 ### [Mezzanotte Chill Rap](https://open.spotify.com/playlist/37i9dQZF1DX37pZLd58ED5)
 
-> Solo beat e rime avvolgenti\. Cover: Geolier
+> Solo beat e rime avvolgenti\. Cover: Massimo Pericolo
 
 150 songs - 8 hr 12 min
 

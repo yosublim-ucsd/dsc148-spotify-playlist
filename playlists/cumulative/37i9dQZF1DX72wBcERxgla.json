@@ -1769,6 +1769,24 @@
     },
     {
       "album": {
+        "name": "Don't Take It Too Seriously",
+        "url": "https://open.spotify.com/album/7zyWJev2kmLlfovwozPFtS"
+      },
+      "artists": [
+        {
+          "name": "Joe M. Key",
+          "url": "https://open.spotify.com/artist/6u5JdEH2gZlzRb2HfVa9Km"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183274,
+      "name": "Don't Take It Too Seriously",
+      "url": "https://open.spotify.com/track/6lCnbCKCqURAomnczybXOZ"
+    },
+    {
+      "album": {
         "name": "Downtown",
         "url": "https://open.spotify.com/album/4YtOKRkyUM2AAII3jfvALT"
       },
@@ -1874,6 +1892,24 @@
       "duration_ms": 173279,
       "name": "Early Autumn",
       "url": "https://open.spotify.com/track/3VztHPAF4NNh2QXdQ5M6XP"
+    },
+    {
+      "album": {
+        "name": "Easy Goin'",
+        "url": "https://open.spotify.com/album/07YKwMac0MwqKsvOf7ugKx"
+      },
+      "artists": [
+        {
+          "name": "Franck Byrne",
+          "url": "https://open.spotify.com/artist/7aRioiKpZ6nRpUIy5QgiDq"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164108,
+      "name": "Easy Goin'",
+      "url": "https://open.spotify.com/track/23v7yXkwzDcmC8b6nIJ9HK"
     },
     {
       "album": {
@@ -3677,6 +3713,24 @@
     },
     {
       "album": {
+        "name": "It's Always You",
+        "url": "https://open.spotify.com/album/1AyGDjBqXKqitkKu9znlV3"
+      },
+      "artists": [
+        {
+          "name": "Noah Francis",
+          "url": "https://open.spotify.com/artist/4eb1snZh2HniBNVrM6lnrT"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146145,
+      "name": "It's Always You",
+      "url": "https://open.spotify.com/track/0cp6chOz2cL9WPRmkXgMJh"
+    },
+    {
+      "album": {
         "name": "It\u00b4s All About You",
         "url": "https://open.spotify.com/album/1PpdlckOwsdsJgFo8iyMmh"
       },
@@ -3746,6 +3800,24 @@
       "duration_ms": 253976,
       "name": "Juniper Leaves",
       "url": "https://open.spotify.com/track/5prNNKn1SNLrJsL5Ic4vew"
+    },
+    {
+      "album": {
+        "name": "Just A Little Thought",
+        "url": "https://open.spotify.com/album/3ZRG84XNodq7Km8JTbzeov"
+      },
+      "artists": [
+        {
+          "name": "Seth Liane",
+          "url": "https://open.spotify.com/artist/4JLTxlTLrEwcYFc2g0anOT"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199875,
+      "name": "Just A Little Thought",
+      "url": "https://open.spotify.com/track/5wU4KJSvgbfxHPdXj5Sp6b"
     },
     {
       "album": {
@@ -3998,6 +4070,24 @@
       "duration_ms": 123910,
       "name": "Let's Fall in Love",
       "url": "https://open.spotify.com/track/61Wv9rlpZz27NHul5O6XN7"
+    },
+    {
+      "album": {
+        "name": "Let's Get Away",
+        "url": "https://open.spotify.com/album/6KJJn6jCQLDGh2TMJk0Kgf"
+      },
+      "artists": [
+        {
+          "name": "Ron Bladworth",
+          "url": "https://open.spotify.com/artist/0BqBNOQfrBTClJMq6n03Mf"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169066,
+      "name": "Let's Get Away",
+      "url": "https://open.spotify.com/track/3sE2c9m6eByRjMBDvWMs2c"
     },
     {
       "album": {
@@ -4775,6 +4865,24 @@
     },
     {
       "album": {
+        "name": "Moonlit Nights",
+        "url": "https://open.spotify.com/album/1pfrSOAxX3tKAIYCRthcg8"
+      },
+      "artists": [
+        {
+          "name": "Millie Blue",
+          "url": "https://open.spotify.com/artist/3Z6Jby1DnvCKJMkHjrwg5P"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118236,
+      "name": "Moonlit Nights",
+      "url": "https://open.spotify.com/track/4wf3q64jS9wZu0pfFlNSGq"
+    },
+    {
+      "album": {
         "name": "My Buddy",
         "url": "https://open.spotify.com/album/0qsrKAuW7nZBUAC0lJkKxm"
       },
@@ -5006,6 +5114,24 @@
       "duration_ms": 131120,
       "name": "My Roses",
       "url": "https://open.spotify.com/track/3vje2r6o6xnUnPTsoAwxju"
+    },
+    {
+      "album": {
+        "name": "My Writing Time",
+        "url": "https://open.spotify.com/album/13bS4DuoftGDo0Gfun7V7K"
+      },
+      "artists": [
+        {
+          "name": "Logan Jameison",
+          "url": "https://open.spotify.com/artist/1qGVG7uUHFWBfuUXIon1gt"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213420,
+      "name": "My Writing Time",
+      "url": "https://open.spotify.com/track/4YReZY9ljzF8jbIn9wRmUg"
     },
     {
       "album": {
@@ -5456,6 +5582,24 @@
       "duration_ms": 163634,
       "name": "One of your little friends",
       "url": "https://open.spotify.com/track/24mDMSSd3K07ilwCA83WzW"
+    },
+    {
+      "album": {
+        "name": "Only Trust Your Heart",
+        "url": "https://open.spotify.com/album/5cd46VvhE6ChnEOOZZ1qta"
+      },
+      "artists": [
+        {
+          "name": "Valentine Summers",
+          "url": "https://open.spotify.com/artist/20rl2utHmZk0IPSLeyB7Fs"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142162,
+      "name": "Only Trust Your Heart",
+      "url": "https://open.spotify.com/track/2hmtAFBGrjZLCYBWQd3IB8"
     },
     {
       "album": {
@@ -6755,6 +6899,24 @@
     },
     {
       "album": {
+        "name": "Spring in Chicago",
+        "url": "https://open.spotify.com/album/6IRKUu24Xf86iDWVlf6rJx"
+      },
+      "artists": [
+        {
+          "name": "Myles Dale",
+          "url": "https://open.spotify.com/artist/3Q7czp0WDDlH4Z1Zt8yWKG"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180594,
+      "name": "Spring in Chicago",
+      "url": "https://open.spotify.com/track/3GZtZDAbxKusD1QjrwCMDH"
+    },
+    {
+      "album": {
         "name": "Square One",
         "url": "https://open.spotify.com/album/6rdTWVLWJekeRcmeQ50BbG"
       },
@@ -7220,6 +7382,24 @@
       "duration_ms": 125450,
       "name": "The last chance saloon",
       "url": "https://open.spotify.com/track/0AOJQ4Z5NRdI8w8s8LxcNv"
+    },
+    {
+      "album": {
+        "name": "The Meaning of Love",
+        "url": "https://open.spotify.com/album/66RInep8kbl6Oj5XcjlYPN"
+      },
+      "artists": [
+        {
+          "name": "Timothy Reisen",
+          "url": "https://open.spotify.com/artist/4rJYlfkVsUwDk0iDUUBU01"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193230,
+      "name": "The Meaning of Love",
+      "url": "https://open.spotify.com/track/0agfKOBEM1hf5ZyRGT1NUC"
     },
     {
       "album": {
@@ -7796,6 +7976,24 @@
       "duration_ms": 164515,
       "name": "Times passed",
       "url": "https://open.spotify.com/track/7EwupksVc4RcQW67OhlTs8"
+    },
+    {
+      "album": {
+        "name": "Tired",
+        "url": "https://open.spotify.com/album/7K6kTK2SnRfJegPTFUojsf"
+      },
+      "artists": [
+        {
+          "name": "Jacob Schr\u00f6der",
+          "url": "https://open.spotify.com/artist/4VOTRfoGtDDp0Fl9ar28XN"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170756,
+      "name": "Tired",
+      "url": "https://open.spotify.com/track/7eTSFAOVW9mKWHO2dpYIcX"
     },
     {
       "album": {

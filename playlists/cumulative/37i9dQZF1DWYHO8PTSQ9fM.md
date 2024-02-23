@@ -4,7 +4,7 @@
 
 > Les hits du moment sont ici\. Cover : Stormy
 
-249 songs - 13 hr 33 min
+251 songs - 13 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [All Eyez On Me \- Gangsta Remix](https://open.spotify.com/track/6hfogGuqhfOcq11ZDjXluc) | [Dj Belite](https://open.spotify.com/artist/0kDOao6cVpYBKRLPXokuDF), [DNDM](https://open.spotify.com/artist/49LauQfpd2peE6g1aWbuTA) | [All Eyez On Me \(Gangsta Remix\)](https://open.spotify.com/album/2WrsRqFFxJUYfibA1mNvzS) | 2:45 | 2023-05-05 | 2023-05-12 |
 | [Allo](https://open.spotify.com/track/3aeCyLTeN6ypImKPtdjYjZ) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E), [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [Allo](https://open.spotify.com/album/1JcEpcqvv3IMdtcupUh0yD) | 3:15 | 2023-11-10 |  |
 | [Allo \- الو](https://open.spotify.com/track/1mYKk7dWVDcfn8lTJ6CKJV) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Allo \(الو\)](https://open.spotify.com/album/5sw19c2WnCbMacw9OzubzT) | 4:19 | 2022-06-03 | 2023-05-13 |
-| [Allo Oui](https://open.spotify.com/track/0FvnIUp3c3YRawAkprTCp6) | [Cheb Hichem TGV](https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl) | [Allo Oui](https://open.spotify.com/album/0Y98q8LciCVvefjIvkCZlR) | 3:20 | 2023-12-14 |  |
+| [Allo Oui](https://open.spotify.com/track/06r1Ea7fbuDdbNZewcySTy) | [Cheb Hichem TGV](https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl) | [Allo Oui](https://open.spotify.com/album/4VlMF9KxBExY0QXUXbtZwn) | 3:17 | 2024-02-23 |  |
+| [Allo Oui](https://open.spotify.com/track/0FvnIUp3c3YRawAkprTCp6) | [Cheb Hichem TGV](https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl) | [Allo Oui](https://open.spotify.com/album/0Y98q8LciCVvefjIvkCZlR) | 3:20 | 2023-12-14 | 2024-02-23 |
 | [Alo Aleky](https://open.spotify.com/track/0zzrAsIPYKENTWOwZqYjYp) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Alo Aleky](https://open.spotify.com/album/0PpvOrpEHnxaxmzdrrpm26) | 2:58 | 2023-01-18 | 2023-06-10 |
 | [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 | 2022-11-25 | 2022-11-28 |
 | [Arahmini](https://open.spotify.com/track/4TCs0LTzW2xaW7SFeFDY7K) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl) | [٤in](https://open.spotify.com/album/0JtymU6pdB083UYEXKwOS9) | 3:48 | 2023-01-01 |  |
@@ -58,7 +59,7 @@
 | [D'Kover \- Darja Darja \- درجة درجة](https://open.spotify.com/track/6AqTrSMEkIN0jiRYWLnBlx) | [DKB](https://open.spotify.com/artist/4Ozq4urgB1jcYw0VzXpj2X), [Amine SEMMA](https://open.spotify.com/artist/187xRinFfEj83kQ9KpgqKA) | [D'Kover](https://open.spotify.com/album/5jAZJlyawkAJarExM8HjKC) | 2:24 | 2022-05-12 | 2022-09-07 |
 | [DARBA 9ADIYA](https://open.spotify.com/track/0WCiCbdRB54GMzlRGs3Fa4) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [YAM](https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E) | [DARBA 9ADIYA](https://open.spotify.com/album/0A32UfWq7bigKFdXJ0o2LW) | 2:29 | 2023-04-28 | 2023-12-19 |
 | [Dawk Lya](https://open.spotify.com/track/5OInx13SpghEifbS5bQmwq) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Dawk Lya](https://open.spotify.com/album/4vbm2Tj7L5fbzD1q5MmFrP) | 2:28 | 2023-01-07 | 2024-02-11 |
-| [Dawk Lya](https://open.spotify.com/track/4JaAz4mEXpAdO8CKjCDjVx) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Dawk Lya](https://open.spotify.com/album/4lL3CmSYMLjPq3c2nF9sZL) | 2:28 | 2024-02-09 |  |
+| [Dawk Lya](https://open.spotify.com/track/4JaAz4mEXpAdO8CKjCDjVx) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Dawk Lya](https://open.spotify.com/album/4lL3CmSYMLjPq3c2nF9sZL) | 2:28 | 2024-02-09 | 2024-02-23 |
 | [De9at l9elb](https://open.spotify.com/track/3WzncgOidVpqkak5Ee4b1n) | [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [De9at l9elb](https://open.spotify.com/album/4AqUJTIVVpHmoGonhlp7Gr) | 2:34 | 2022-05-24 | 2023-05-09 |
 | [Deghri Deghri](https://open.spotify.com/track/2DPkmFqCCEIJGjlVnsPU7A) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [Deghri Deghri](https://open.spotify.com/album/3WcHikXDcd7HopAj1IVD7j) | 3:46 | 2022-05-12 | 2022-09-07 |
 | [DELLALI \(feat\. Hamza\)](https://open.spotify.com/track/05DrM4jF73TZFu1h7sl26w) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [DELLALI \(feat\. Hamza\)](https://open.spotify.com/album/33ibPX6kKMGWXcxNtWYlv7) | 3:02 | 2023-11-16 |  |
@@ -150,6 +151,7 @@
 | [Maktoub](https://open.spotify.com/track/5gcjlJBN0VbOcxMZlRTnmn) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Maktoub](https://open.spotify.com/album/1aodjEwWr0vyVMIOGgGHuP) | 3:14 | 2022-09-06 | 2022-10-08 |
 | [MAMI WATA](https://open.spotify.com/track/6yqwxY8qifBBhyryjZutxk) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [LA MELO EST GANGX](https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1) | 3:53 | 2024-02-19 |  |
 | [Manetfergou](https://open.spotify.com/track/36DuVeAj8R4TFkKD1sFbEN) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [Manetfergou](https://open.spotify.com/album/0eKyvzuJJpTtAYBEflLox8) | 3:17 | 2023-08-30 |  |
+| [MARADONA](https://open.spotify.com/track/1GxUG5xWcY2R9hQ3NcE5ya) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [ICEBERG](https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5) | 2:40 | 2024-02-23 |  |
 | [Matkhafesh Yamma](https://open.spotify.com/track/0johwiyFvPcTbM1miBvaUh) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1), [Ouzzy](https://open.spotify.com/artist/1IRIol7Z2UlCtpj2MYuwU5) | [Matkhafesh Yamma](https://open.spotify.com/album/4r5fdLwRblr3wlbItBYJ75) | 2:43 | 2022-05-24 | 2023-01-18 |
 | [Mazalni](https://open.spotify.com/track/4Mi1B4Sc3u5zkLaEB7PETp) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Mazalni](https://open.spotify.com/album/2be1DLBmI7MFfY4Gm92i77) | 4:20 | 2022-08-08 | 2023-01-20 |
 | [Mentalité](https://open.spotify.com/track/6bgI3JZPDLm6gDE75utatQ) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [EP2](https://open.spotify.com/album/06BFpQi8sfXz6yQXlITPky) | 3:37 | 2023-01-18 |  |

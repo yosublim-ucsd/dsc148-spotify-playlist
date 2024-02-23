@@ -301,6 +301,28 @@
     },
     {
       "album": {
+        "name": "FOMO",
+        "url": "https://open.spotify.com/album/2wj8AHax9qryX210NBwu5Q"
+      },
+      "artists": [
+        {
+          "name": "Paula Cendejas",
+          "url": "https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169802,
+      "name": "cosquillas",
+      "url": "https://open.spotify.com/track/5wX7RyoYLhUdTccRqyay42"
+    },
+    {
+      "album": {
         "name": "Cuando Amanezca (feat. Danny Ocean, Justin Quiles, Feid)",
         "url": "https://open.spotify.com/album/6WjiLNVEpAtgN4XTwxRvnA"
       },

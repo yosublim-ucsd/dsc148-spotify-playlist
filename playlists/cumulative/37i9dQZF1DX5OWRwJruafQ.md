@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [.45](https://open.spotify.com/track/4mym4dNc5XPEAXP7Orzq18) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [.45](https://open.spotify.com/album/6vG52FnBHzc61469A3yiBs) | 2:40 | 2024-01-29 |  |
+| [.45](https://open.spotify.com/track/4mym4dNc5XPEAXP7Orzq18) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Roop Bhullar](https://open.spotify.com/artist/0sYnCQ9Eb3RbEHOqVQST8d) | [.45](https://open.spotify.com/album/6vG52FnBHzc61469A3yiBs) | 2:40 | 2024-01-29 |  |
 | [0 to 100](https://open.spotify.com/track/7cVe3mYMIfhOlz1NXFWv70) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [No Name](https://open.spotify.com/album/57SIarHHgfby4AvV6ftCB5) | 1:48 | 2023-03-29 |  |
 | [10 Bande](https://open.spotify.com/track/6yOfrhPr40G18wPui5CXxu) | [George Sidhu](https://open.spotify.com/artist/3D2754tZxCEJ4bhiEN0QEC) | [10 Bande](https://open.spotify.com/album/5zpxoPuMHZIOYBoJjl1oO7) | 3:21 | 2023-03-29 | 2023-04-28 |
 | [100](https://open.spotify.com/track/1i0OA7qz1PQkX01TeR8Ua8) | [Homeboy](https://open.spotify.com/artist/1ZGICPQ7A8H3vsWxHV9GO7), [Yeah Proof](https://open.spotify.com/artist/3GOxylxqB046EtIQynePq2) | [Infinite](https://open.spotify.com/album/4XeEBSXQZI0LISx8a81mLe) | 1:47 | 2023-04-01 | 2023-04-09 |

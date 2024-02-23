@@ -2,9 +2,9 @@
 
 ### [Afrikaanse Hits](https://open.spotify.com/playlist/37i9dQZF1DX7bangZ8fzV0)
 
-> Net die beste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG?si=vE7cPH\-jTGO7QE3lTc9Ofg">Barto</a>
+> Net die beste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/05RbDB13aoIZwFzHqe8ehO?si=5ujO3UdcT7ixUp5Mnk8eug">Robbie Wessels</a>
 
-194 songs - 10 hr 50 min
+195 songs - 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Ek Sê So](https://open.spotify.com/track/2q8HCRTpxZrqErJ3RqOpRT) | [Irene\-Louise Van Wyk](https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma) | [Ek Sê So](https://open.spotify.com/album/1w40mnsJMQ65QLtsn5xZhB) | 3:01 | 2022-12-22 | 2023-06-30 |
 | [Ek Wens](https://open.spotify.com/track/7cYUAAyZDMOLBqhzXCen7S) | [Ray Dylan](https://open.spotify.com/artist/6eUxX7dCHCaXNNMvYtBhxY) | [Ek Wens](https://open.spotify.com/album/7s1ETgKwUedSSPMIJTY6Hg) | 3:57 | 2022-11-10 | 2023-06-04 |
 | [Ek Wonder](https://open.spotify.com/track/7d1dnWCYBxIkLHYkxjF6Yd) | [Riana Nel](https://open.spotify.com/artist/6Skl2RueCJYKBBm1Yr6BBQ) | [Ek Wonder](https://open.spotify.com/album/07wqaVr50Sy5ke6YhxnIF4) | 3:32 | 2023-10-19 |  |
+| [Elke Troep](https://open.spotify.com/track/6e8tmQKrN28evqkXYMrdau) | [Robbie Wessels](https://open.spotify.com/artist/05RbDB13aoIZwFzHqe8ehO) | [Elke Troep](https://open.spotify.com/album/0IVTaJa5i6fU8qQyoszTr4) | 3:48 | 2024-02-22 |  |
 | [Erika Way](https://open.spotify.com/track/1smrGKf89mWioxRiWHLtV7) | [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn), [Jodi Jantjies](https://open.spotify.com/artist/7bO5j58JFaj207CPYThbpG) | [Dryf](https://open.spotify.com/album/445kxPtDxdYm3AMBJpKxLt) | 4:33 | 2022-12-08 | 2022-12-30 |
 | [Fairway Lyf](https://open.spotify.com/track/3DLeotilho45LEdwKPYb49) | [Arno Jordaan](https://open.spotify.com/artist/1BqYfwv0S0mnUZzGp4PfPE) | [Fairway Lyf](https://open.spotify.com/album/4gIcGlEcuNiBtT7IcB56DV) | 3:09 | 2023-04-20 | 2023-06-09 |
 | [Foto's](https://open.spotify.com/track/6qXoZby29Lp0QmA4NsSE0J) | [Dodo Nyoka](https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa) | [Foto's](https://open.spotify.com/album/4hpljUB91UU8TtYSGrRTwU) | 3:14 | 2022-10-28 |  |
@@ -149,7 +150,7 @@
 | [Plaaslewe](https://open.spotify.com/track/45dV2UvbpsG4pvWqzNLHOL) | [Anlia Star](https://open.spotify.com/artist/0ijtg0i2JHKpiiQnyZofqm) | [Plaaslewe](https://open.spotify.com/album/6TO27C8sqynfu2ymExD6Kf) | 3:03 | 2022-10-13 | 2023-05-19 |
 | [Plathond](https://open.spotify.com/track/4lVzLsiJSMVeEzd94JSjRk) | [Robbie Wessels](https://open.spotify.com/artist/05RbDB13aoIZwFzHqe8ehO) | [Plathond](https://open.spotify.com/album/3yYGQg48xSnd5jTpYA8hcD) | 2:50 | 2022-08-04 | 2023-02-03 |
 | [Plett My Net](https://open.spotify.com/track/1PGWHOYPHxed0rl9JAWk5v) | [Mionette](https://open.spotify.com/artist/2IATFOSnfbxrL3bL0cxCOu) | [Plett My Net](https://open.spotify.com/album/0LhQ4Tkw4D4GzcmrbPa66Z) | 3:23 | 2022-11-17 | 2023-01-28 |
-| [Ploeg Jy?](https://open.spotify.com/track/2rLRZ848llZCkbxLV0VhUo) | [Ricus Nel](https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg) | [Ploeg Jy](https://open.spotify.com/album/4ab69ZYCFbLWrmDCmDFkyK) | 3:37 | 2021-09-23 |  |
+| [Ploeg Jy?](https://open.spotify.com/track/2rLRZ848llZCkbxLV0VhUo) | [Ricus Nel](https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg) | [Ploeg Jy](https://open.spotify.com/album/4ab69ZYCFbLWrmDCmDFkyK) | 3:37 | 2021-09-23 | 2024-02-23 |
 | [Ploeg Jy?](https://open.spotify.com/track/769iPvJtZt4nkdV7FKqvHS) | [Ricus Nel](https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg) | [Afrikaans is Groot Vol\. 14](https://open.spotify.com/album/3wMyH1M60asVYjnhQVJc6h) | 3:37 | 2021-09-23 | 2022-11-13 |
 | [Rowwe Bliksem](https://open.spotify.com/track/0RwvdQ3H9kSo1lk9IFTBqf) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7), [Jay](https://open.spotify.com/artist/4KZEdNPtF2AdijUD02qPoj) | [Rowwe Bliksem](https://open.spotify.com/album/3aqGXXhEPT35aGsxTWrHBS) | 3:03 | 2022-01-27 |  |
 | [Rowwe Bliksem](https://open.spotify.com/track/4BfFToLT0o8wQM4xrJjsfS) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7), [Jay](https://open.spotify.com/artist/4KZEdNPtF2AdijUD02qPoj) | [Afrikaans is Groot Vol\. 15](https://open.spotify.com/album/0yHt9vK6AJvlHovnjtey8Z) | 3:03 | 2023-03-09 | 2023-03-25 |

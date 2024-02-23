@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39gY1y.md) - [plain]
 
 > This is Charles Ans\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,070 likes - 51 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,161 likes - 51 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39gY1y.md) - [plain]
 | 30 | [Desde Que Te Bese](https://open.spotify.com/track/52yiGPq2rumA8stMa345dJ) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO) | [Desde Que Te Bese](https://open.spotify.com/album/269AgD2kvSnseu3eFYSq17) | 3:02 |
 | 31 | [No Hay Palabras Bonitas](https://open.spotify.com/track/3XGPIhoTG09ItjxNtdtEnE) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Gordo Fu](https://open.spotify.com/artist/23bGjptdJUtlOgewyvds6g) | [Smile](https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu) | 3:20 |
 | 32 | [Llamando A Tu Fon](https://open.spotify.com/track/07lwUBDazPEFw2qvl9pERT) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Llamando A Tu Fon](https://open.spotify.com/album/2oXsW0YViUeRi38nZ41sl7) | 3:27 |
-| 33 | [En Lo Malo Me Va Bien](https://open.spotify.com/track/6JP2x0Rvwq7LZ8goXDGAIL) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [BCN](https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf) | [¿Cómo Terminamos Aquí?](https://open.spotify.com/album/5ODmbI1fYx0NajM6mo6Dpe) | 4:01 |
-| 34 | [Naranja a Morado](https://open.spotify.com/track/3CcUQabK3Vn0RUjZI7lfPz) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA), [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Buen Pez](https://open.spotify.com/album/4M70tDygFtUlnlvmn5qLLV) | 4:16 |
+| 33 | [Naranja a Morado](https://open.spotify.com/track/3CcUQabK3Vn0RUjZI7lfPz) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA), [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Buen Pez](https://open.spotify.com/album/4M70tDygFtUlnlvmn5qLLV) | 4:16 |
+| 34 | [En Lo Malo Me Va Bien](https://open.spotify.com/track/6JP2x0Rvwq7LZ8goXDGAIL) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [BCN](https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf) | [¿Cómo Terminamos Aquí?](https://open.spotify.com/album/5ODmbI1fYx0NajM6mo6Dpe) | 4:01 |
 | 35 | [¿Dónde Estarás?](https://open.spotify.com/track/2osyhnv7vdVGs4VyeBANZ1) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [¿Dónde Estarás?](https://open.spotify.com/album/1HUdC5JjGda1CqfRoXzKcL) | 3:24 |
 | 36 | [La Que Se Fue](https://open.spotify.com/track/0CTaaPUheCCdynjsZhhwlB) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Nunca Jamas](https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7) | [La Que Se Fue](https://open.spotify.com/album/1WXcLpnA8CXFXpHM9Yuz26) | 2:46 |
 | 37 | [Mañana Vas a Estar Ausente](https://open.spotify.com/track/23LJH1g8mvoynusQzCG7ud) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf), [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA) | [Órbitas](https://open.spotify.com/album/3N3VyxZUijgbxTXdCECuK4) | 3:29 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39gY1y.md) - [plain]
 | 50 | [Siguele](https://open.spotify.com/track/4qbHgYxL96v8ulUWlY7YVW) | [Movimiento Original](https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo), [Dr\. Bene](https://open.spotify.com/artist/21VgYxAlrfp0QKBgxmQE5p), [Jeff Turner Musik](https://open.spotify.com/artist/5M7sRhqfcu6miizd5uGlWj), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Sobre el Aire](https://open.spotify.com/album/4QXjXW4J6E9KPimmQCnz3T) | 4:31 |
 | 51 | [Mil Escalas](https://open.spotify.com/track/6NjRybxD0tZ90fLwnPCkkp) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Mil Escalas](https://open.spotify.com/album/0vM7MIZddwc4AskM0iaid6) | 2:24 |
 
-Snapshot ID: `Mjg0NzUyOTAsMDAwMDAwMDAwODYxZGVkMzNmZmMyYTdkNDc5ZGNhNjI2MWQ5OTZlNQ==`
+Snapshot ID: `Mjg0NzcwNzUsMDAwMDAwMDBmYWRlNTBjZDY3NzJiZjA2MjdkYzA0ZmI4MTc3MTNjYw==`

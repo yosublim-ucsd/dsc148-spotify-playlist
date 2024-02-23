@@ -114,7 +114,7 @@
       ],
       "date_added": "2022-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 225983,
       "name": "24K Magic",
       "url": "https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"
@@ -3120,7 +3120,7 @@
       ],
       "date_added": "2020-08-30",
       "date_added_asterisk": true,
-      "date_removed": "2024-02-22",
+      "date_removed": null,
       "duration_ms": 219146,
       "name": "Cake By The Ocean",
       "url": "https://open.spotify.com/track/76hfruVvmfQbw0eYn1nmeC"
@@ -3378,7 +3378,7 @@
       ],
       "date_added": "2020-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-22",
+      "date_removed": null,
       "duration_ms": 213520,
       "name": "Can't Feel My Face",
       "url": "https://open.spotify.com/track/22VdIZQfgXJea34mQxlt81"
@@ -9688,7 +9688,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 190946,
       "name": "High Hopes",
       "url": "https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom"
@@ -9862,7 +9862,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 267066,
       "name": "Hotline Bling",
       "url": "https://open.spotify.com/track/0wwPcA6wtMf6HUMpIRdeP7"
@@ -11138,7 +11138,7 @@
       ],
       "date_added": "2023-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 242946,
       "name": "I'm Yours",
       "url": "https://open.spotify.com/track/3S0OXQeoh0w6AY8WQVckRW"
@@ -12034,7 +12034,7 @@
       ],
       "date_added": "2020-08-30",
       "date_added_asterisk": true,
-      "date_removed": "2024-02-22",
+      "date_removed": null,
       "duration_ms": 220734,
       "name": "Just the Way You Are",
       "url": "https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ"
@@ -12709,6 +12709,32 @@
     },
     {
       "album": {
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/6ZWL1xSTEvqs5A6dBh8vZw"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC"
+        },
+        {
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+        },
+        {
+          "name": "Stevie J",
+          "url": "https://open.spotify.com/artist/09A1kpyGbzYAPb8cEvee64"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230133,
+      "name": "Let Me Blow Ya Mind",
+      "url": "https://open.spotify.com/track/3RmKpob8xzv1pzHEQrMJah"
+    },
+    {
+      "album": {
         "name": "Let Me Go (with Alesso, Florida Georgia Line & watt)",
         "url": "https://open.spotify.com/album/3ggBBGRhkDVAu7pQRXRPXO"
       },
@@ -13180,7 +13206,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 166138,
       "name": "Light It Up (Remix)",
       "url": "https://open.spotify.com/track/1qFSPn37zEeCyRiVpkW9dt"
@@ -13598,7 +13624,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 326466,
       "name": "Lose Yourself",
       "url": "https://open.spotify.com/track/5Z01UMMf7V1o0MzF86s6WJ"
@@ -15316,7 +15342,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-25",
+      "date_removed": null,
       "duration_ms": 326960,
       "name": "My Humps",
       "url": "https://open.spotify.com/track/19JdbdEwQI7bCxefMokZO8"
@@ -15524,7 +15550,7 @@
       ],
       "date_added": "2020-08-30",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 221176,
       "name": "No Lie",
       "url": "https://open.spotify.com/track/48QmG1dfvMuYLxMPt7KSRA"
@@ -19724,7 +19750,7 @@
       ],
       "date_added": "2020-08-30",
       "date_added_asterisk": true,
-      "date_removed": "2024-02-22",
+      "date_removed": null,
       "duration_ms": 200786,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/09CtPGIpYB4BrO8qb1RGsF"
@@ -19862,7 +19888,7 @@
       ],
       "date_added": "2020-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 230453,
       "name": "Starboy",
       "url": "https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB"
@@ -20228,6 +20254,24 @@
       "duration_ms": 224791,
       "name": "Strip That Down - Nevada Remix",
       "url": "https://open.spotify.com/track/4KYD3RjwErvhpGxudM6D1E"
+    },
+    {
+      "album": {
+        "name": "Graduation",
+        "url": "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311866,
+      "name": "Stronger",
+      "url": "https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf"
     },
     {
       "album": {
@@ -21124,7 +21168,7 @@
       ],
       "date_added": "2020-08-30",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 206693,
       "name": "That's What I Like",
       "url": "https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU"
@@ -21952,7 +21996,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-21",
+      "date_removed": null,
       "duration_ms": 195546,
       "name": "This Girl (Kungs Vs. Cookin' On 3 Burners)",
       "url": "https://open.spotify.com/track/1A8j067qyiNwQnZT0bzUpZ"
@@ -23602,7 +23646,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 201400,
       "name": "We Belong Together",
       "url": "https://open.spotify.com/track/3LmvfNUQtglbTrydsdIqFU"
@@ -23862,7 +23906,7 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-22",
+      "date_removed": null,
       "duration_ms": 205680,
       "name": "What Do You Mean?",
       "url": "https://open.spotify.com/track/4B0JvthVoAAuygILe3n4Bs"
@@ -24358,7 +24402,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 290320,
       "name": "Without Me",
       "url": "https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk"

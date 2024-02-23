@@ -4,7 +4,7 @@
 
 > 多彩なボカロPの作品に生命を吹き込み、変幻自在なボーカルの表現力で世間を席巻中の新世代女性シンガー、Adoのオールタイム・ベスト。The essential tracks of Ado, all in one playlist.
 
-77 songs - 5 hr 37 min
+78 songs - 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [unravel](https://open.spotify.com/track/0Cez33GqDU7Pw5rqOVUPpU) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado's Utattemita Album](https://open.spotify.com/album/2tGokYNjX87AAodtbLBYuf) | 3:58 | 2023-12-12 |  |
 | [unravel](https://open.spotify.com/track/3uyiyeKrVPjbMdFGe9sGas) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [unravel](https://open.spotify.com/album/3EvVwxsQkXYSuItQMbTshK) | 3:59 | 2023-11-14 | 2023-12-16 |
 | [Usseewa](https://open.spotify.com/track/61KYsWS25JXUO4fGb1138X) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Kyougen](https://open.spotify.com/album/4muEF5biWb506ZojGMfHb7) | 3:26 | 2022-10-09 |  |
+| [Value](https://open.spotify.com/track/6BEnpVB7g2j8mzWs3MC2kh) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Value](https://open.spotify.com/album/63xNXfql8mdsOd1fZjodbf) | 3:05 | 2024-02-22 |  |
 | [Villain](https://open.spotify.com/track/6IYbB5G5hZ0P2DYwGLptqA) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado's Utattemita Album](https://open.spotify.com/album/2tGokYNjX87AAodtbLBYuf) | 3:19 | 2023-12-12 |  |
 | [Where the Wind Blows](https://open.spotify.com/track/51iiBOpcbxJQWf1cI8kSf6) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [UTA'S SONGS ONE PIECE FILM RED](https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172) | 4:32 | 2022-10-09 |  |
 | [Yoru No Pierrot](https://open.spotify.com/track/1imCxLL7UtQUkqL3NiAmmg) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Kyougen](https://open.spotify.com/album/4muEF5biWb506ZojGMfHb7) | 3:20 | 2022-10-09 |  |

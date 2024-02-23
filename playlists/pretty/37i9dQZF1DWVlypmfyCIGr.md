@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: 澤田 空海理
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,376 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,382 likes - 80 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [The Lady](https://open.spotify.com/track/3xRImSHrjR3NvA1z3m5fwL) | [Hannah Warm](https://open.spotify.com/artist/3NpwE88TR2nUKcmg87MeL7) | [The Lady](https://open.spotify.com/album/36O0qoIfcIEZMk5fygWZSU) | 3:49 |
 | 80 | [おーる・ざ・やんぐ・ぎーくす](https://open.spotify.com/track/5eMZFpCA34CjojOSMwtLTQ) | [Earphones](https://open.spotify.com/artist/6nH1MaNtYwXEuwdOZ1R75p) | [おーる・ざ・やんぐ・ぎーくす](https://open.spotify.com/album/7DdO9kXkzARuAeVDc15Ibs) | 4:03 |
 
-Snapshot ID: `MCxkOWQ0ODc4ZThhNmMyMjgxMThhMWYwYzNjNjBjNTE2NWQwNzk5M2My`
+Snapshot ID: `MCxhZWZlMWY3OWMwOThiN2M3ODU1ZWI1OGUxMzdhNzlmZmU3ZjEyZGIx`

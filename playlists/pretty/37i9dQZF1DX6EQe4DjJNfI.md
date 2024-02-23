@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: LUTHULY
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,487 likes - 75 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,519 likes - 75 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 | 74 | [Roupa de Ontem](https://open.spotify.com/track/1JLgTEDJJTUawSFGwAKLyI) | [Krupinsk](https://open.spotify.com/artist/5gLgoNI5QB6Osvi7aQwe5S) | [Roupa de Ontem](https://open.spotify.com/album/6MnjJgPNn494q1ODleBV0s) | 4:38 |
 | 75 | [Troco](https://open.spotify.com/track/6TEMhEyTclTXT6PvYlW2tr) | [Feh](https://open.spotify.com/artist/3bMQmsnuvak2a7fOQagiCP) | [Troco](https://open.spotify.com/album/3P5HL7EhZK7047gZXxWGW5) | 2:39 |
 
-Snapshot ID: `MCxjNTVkYjJmZTNjNGZlZGY0MjI3ZTI1MTBhNWIyNTljMWVmZWJlNGEz`
+Snapshot ID: `MCw4Y2RmOTVmMDEyZmM1ZmQ1NmM5ZWFhYWRhOGQzODBlZDU4YWQ2Yzk4`

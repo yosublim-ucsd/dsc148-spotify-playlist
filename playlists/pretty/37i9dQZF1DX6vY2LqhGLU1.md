@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6vY2LqhGLU1.md) - [plain]
 
 > Celebrate the Savior being born by worshipping along with these Christmas songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,739 likes - 150 songs - 10 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,732 likes - 150 songs - 10 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6vY2LqhGLU1.md) - [plain]
 | 149 | [Angels We Have Heard On High](https://open.spotify.com/track/2mCGyYZna7YLFPonIziP0x) | [Vineyard Worship](https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL), [Tina Colón Williams](https://open.spotify.com/artist/2BH2hojvyoVD7WKMWU8TNl) | [Angels We Have Heard On High](https://open.spotify.com/album/5dQjOApHr2xDsYjfmmwCF2) | 3:49 |
 | 150 | [Hark the Herald Angels Sing](https://open.spotify.com/track/1nu2k5FWIcPtcS2tiE6pED) | [Mariners Worship](https://open.spotify.com/artist/4SfGaFiH2xoqKnRtGP5l9p) | [Our God With Us](https://open.spotify.com/album/4wBxWy0gVEJabnqm6SHEKK) | 3:48 |
 
-Snapshot ID: `MCxmNjYwNTMzMTAzMDZiZTM0NzliYTEzOTg2NmI0OTk1NWY1MGQ3Yzll`
+Snapshot ID: `MCxkZjNjODUzNjM3MTRhNTVjMmVmNGJhNDExNGU1MjU4ZTE2YjczOGJj`

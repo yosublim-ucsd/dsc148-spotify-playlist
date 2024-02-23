@@ -4,7 +4,7 @@
 
 > Soft, relaxing music for workout recovery.
 
-184 songs - 9 hr 41 min
+187 songs - 9 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,9 +22,12 @@
 | [Ayunan](https://open.spotify.com/track/7sKHxAlAL7yvXMqCQyOLLK) | [Indah Bethari](https://open.spotify.com/artist/6PEb2KuIsMYIR8DFdBL2al) | [Faedah](https://open.spotify.com/album/1tR8nFFyDf0jgyxRlcVAYi) | 2:15 | 2022-12-30 |  |
 | [Beila's Comet](https://open.spotify.com/track/3IAnhwTjZLf5CSnghGASC3) | [Oliver Ólafsson](https://open.spotify.com/artist/0xgumNwunVskpeLSl8FyjU) | [Beila's Comet](https://open.spotify.com/album/3TKaoqXuRk1EmMM5q2HYZL) | 2:16 | 2023-11-10 |  |
 | [Black hole](https://open.spotify.com/track/5iD6NihVFdiA9hp03qH8Ho) | [Sleep Cyclone](https://open.spotify.com/artist/1J7K4Jr0deYSXtXoUtyp1D) | [Solid Mercury](https://open.spotify.com/album/5hF6PGmJIwBssjOccmxNOT) | 3:06 | 2023-02-17 |  |
+| [Blue Clouds](https://open.spotify.com/track/0NXTm7alwB0tMhLqEnWSri) | [Joy Parade](https://open.spotify.com/artist/4obAvtejwiAj0YW3Q4CH1o) | [Blue Clouds](https://open.spotify.com/album/6SiSM8vEUiAFZ8zb5yISHH) | 2:48 | 2024-02-22 |  |
 | [Blue Horizon](https://open.spotify.com/track/40TIxgymbbZsANsfvMRFvC) | [Crystals](https://open.spotify.com/artist/0WO63gX2KR2lMmeAgNf8gY) | [Crystals](https://open.spotify.com/album/4KyUloQONRdcmdTjidzpwI) | 2:48 | 2021-12-10 | 2023-02-18 |
+| [Blue Peak](https://open.spotify.com/track/33rVIuXB2ZgtxCG64qVT24) | [Tibetan Audio](https://open.spotify.com/artist/4jjUtZ19nXBNcIL9s1AAM8) | [Blue Peak](https://open.spotify.com/album/6Q67bFtUNxqRJ9RxRBsxIm) | 3:24 | 2024-02-22 |  |
 | [Cadeau](https://open.spotify.com/track/1uDuwJazJz7RRgrrkkEonw) | [Benjin Blund](https://open.spotify.com/artist/4X7C94aG7ctqFboeUcc1Q1) | [Cadeau](https://open.spotify.com/album/0jLAqumtp6VUkT7ielt55m) | 3:09 | 2021-12-10 |  |
 | [Callisto](https://open.spotify.com/track/7o4AVqj9WYHeLsh2MKrx3N) | [Heddwch](https://open.spotify.com/artist/5Oj3bW1BamBPQQveuX6o1i) | [Callisto](https://open.spotify.com/album/0sXa6aFkcLQftp8F5CIicF) | 3:02 | 2021-12-10 |  |
+| [Calmness](https://open.spotify.com/track/7tcFhsJd1HoFQTbSbL23wA) | [Zane Cassidy](https://open.spotify.com/artist/14VSkhVnQy04O8rEQdsyCC) | [Calmness](https://open.spotify.com/album/7lO44zg7O0NZTnGrY3AH11) | 2:42 | 2024-02-22 |  |
 | [Cassie](https://open.spotify.com/track/3AJAKCETcSZ4QGpehqvySl) | [Elfva](https://open.spotify.com/artist/5kie64trGheZwIDvvwBHF1) | [Cassie](https://open.spotify.com/album/5dJjrW2grnoec37fXIFhsQ) | 3:27 | 2021-12-10 |  |
 | [Celandine](https://open.spotify.com/track/5ptMWCoMxUP5phRKZ5MyBx) | [Francesca Caroléo](https://open.spotify.com/artist/2odGPzJOIq98kgGB8N93Ke) | [Lunaria](https://open.spotify.com/album/7DU0LoKUQb14uqooXRxLPn) | 2:53 | 2021-12-10 |  |
 | [Celestial Sonnet](https://open.spotify.com/track/6AEMRuYsKv69womNo3qpmS) | [Delta Shores](https://open.spotify.com/artist/3tXdeFwRiTfum3oQBQbLmP) | [In The Open](https://open.spotify.com/album/3NNdbGYBf9prwsRHaKHwb1) | 3:23 | 2021-12-10 |  |

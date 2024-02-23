@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 
 > let the dj set u free
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,278 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,402 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 | 74 | [Aftertaste](https://open.spotify.com/track/4fI6RSIPnwSDhGP0LXtpxG) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Morgan St\. Jean](https://open.spotify.com/artist/4kAyoGhVlC6PFg0FvMqmFB) | [Aftertaste \(D.O.D Remix\)](https://open.spotify.com/album/6Sk0Mnki17p8mxtT4t6HjW) | 3:17 |
 | 75 | [Keep On Dancing](https://open.spotify.com/track/0f8PWE8E1UB3HqREAkqoa5) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Keep On Dancing](https://open.spotify.com/album/5kpKJ5RolSyJGW80Y1VqDi) | 3:05 |
 
-Snapshot ID: `MCwzN2E3ZDY1YTdiYWMwZGZhM2U0OTU4MTFjNWI4MTZlNDYyNzcwZGQ3`
+Snapshot ID: `MCxmODJlYTA0NWYxZGFiOGEwMjkxYmNlMWY3ZDRhMWQyNWY5ZmU3YTVh`

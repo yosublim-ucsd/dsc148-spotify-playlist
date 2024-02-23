@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1LvmfL.md) - [plain]
 
 > This is Teddy Swims\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,338 likes - 45 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,316 likes - 45 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1LvmfL.md) - [plain]
 | 11 | [Bad For Me \(feat\. Teddy Swims\)](https://open.spotify.com/track/0mHk41X0RRc6pqrcq1gQAr) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 3:33 |
 | 12 | [Simple Things](https://open.spotify.com/track/3qTnncgYlMT0k0Z0prgUgD) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Simple Things \(Piano Version\)](https://open.spotify.com/album/7EjIKCV3OsHJqXObEbdGbz) | 2:59 |
 | 13 | [Some Things I'll Never Know](https://open.spotify.com/track/3sXWFs0hku4tR5cy54PnRz) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 4:02 |
-| 14 | [Better \(feat\. Teddy Swims\)](https://open.spotify.com/track/5MnmuLgPmsAFkmG5n85cna) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Better \(feat\. Teddy Swims\)](https://open.spotify.com/album/0sZCthcwNebNdmwpXXmMKI) | 3:02 |
-| 15 | [FACE MYSELF](https://open.spotify.com/track/2R5hXZrxhgwycn39rC0OdQ) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [FACE MYSELF](https://open.spotify.com/album/0wwDGGiX6lAVuZDLG9oR2u) | 3:47 |
+| 14 | [FACE MYSELF](https://open.spotify.com/track/2R5hXZrxhgwycn39rC0OdQ) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [FACE MYSELF](https://open.spotify.com/album/0wwDGGiX6lAVuZDLG9oR2u) | 3:47 |
+| 15 | [Better \(feat\. Teddy Swims\)](https://open.spotify.com/track/5MnmuLgPmsAFkmG5n85cna) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Better \(feat\. Teddy Swims\)](https://open.spotify.com/album/0sZCthcwNebNdmwpXXmMKI) | 3:02 |
 | 16 | [Bed on Fire](https://open.spotify.com/track/5O5ExR5u69CclV8lb24WmV) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bed on Fire](https://open.spotify.com/album/6wSN7NkylN8rRm6Z4QqFTg) | 3:48 |
 | 17 | [Goodbye's Been Good to You](https://open.spotify.com/track/2L6pMQRcT6aM0Lq5FycBke) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 2:44 |
 | 18 | [Broke \(feat\. Thomas Rhett\)](https://open.spotify.com/track/1etcoCl2mkHpMHkMVco8iz) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Broke \(feat\. Thomas Rhett\)](https://open.spotify.com/album/6G1IliLfJTzCkHBvj5idiS) | 2:40 |
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1LvmfL.md) - [plain]
 | 21 | [Flame](https://open.spotify.com/track/1EWKlsk5xEsDnejpkPkFVZ) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 2:24 |
 | 22 | [Amazing](https://open.spotify.com/track/1UlaB17A3XYcsObZaXqUjF) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Tough Love](https://open.spotify.com/album/5DAnXvsWlrq2zTPrjb8rjB) | 2:55 |
 | 23 | [Til I Change Your Mind](https://open.spotify.com/track/0SBsdYSakN6BViHUPMzXwN) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Unlearning](https://open.spotify.com/album/6UgNw0NOw3Ixs0kAWl7RGr) | 3:08 |
-| 24 | [2 Moods](https://open.spotify.com/track/4NP7m0lFf4JXa2yp9RfqKq) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Sleep is Exhausting](https://open.spotify.com/album/0fc1W53T3llTmKSzRgaj3s) | 2:24 |
-| 25 | [Only Love Can Hurt Like This \(feat\. Teddy Swims\) \- Remix](https://open.spotify.com/track/0LCkj8JSa3pahuphDXiOwZ) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Only Love Can Hurt Like This \(feat\. Teddy Swims\) \[Remix\]](https://open.spotify.com/album/2jAnutEJgLvYaO73RBRKiJ) | 3:52 |
+| 24 | [Only Love Can Hurt Like This \(feat\. Teddy Swims\) \- Remix](https://open.spotify.com/track/0LCkj8JSa3pahuphDXiOwZ) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Only Love Can Hurt Like This \(feat\. Teddy Swims\) \[Remix\]](https://open.spotify.com/album/2jAnutEJgLvYaO73RBRKiJ) | 3:52 |
+| 25 | [2 Moods](https://open.spotify.com/track/4NP7m0lFf4JXa2yp9RfqKq) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Sleep is Exhausting](https://open.spotify.com/album/0fc1W53T3llTmKSzRgaj3s) | 2:24 |
 | 26 | [Don't Stop Believin'](https://open.spotify.com/track/3sQzp18PlsOAQKZxW7EbEK) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Don't Stop Believin'](https://open.spotify.com/album/5WzjpQ9cLRxTzK4AMn7Ipr) | 4:08 |
 | 27 | [Blinding Lights](https://open.spotify.com/track/66aMnwdhkEc1V0AAnyYchX) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Blinding Lights](https://open.spotify.com/album/4vh9LW3igRT6NayBnmb8fZ) | 3:34 |
 | 28 | [Bed on Fire \(with Ingrid Andress\)](https://open.spotify.com/track/0739yB1rNxAQeLda9pOrEP) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Bed on Fire \(with Ingrid Andress\)](https://open.spotify.com/album/1tOEXqqFrTxoyHTXhvb8E5) | 3:48 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1LvmfL.md) - [plain]
 | 44 | [Night Off](https://open.spotify.com/track/1Dyxoge6qSmCddVjspic8S) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Night Off](https://open.spotify.com/album/4RC8AQINYpJrohzaxq6gSW) | 3:22 |
 | 45 | [Elephant in the Room \(feat\. Teddy Swims\)](https://open.spotify.com/track/66c9N3zuJe0mpC1JrJc1u1) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Elephant in the Room \(feat\. Teddy Swims\)](https://open.spotify.com/album/26WmAEmGUvMtHOd1emDVgG) | 2:43 |
 
-Snapshot ID: `Mjg0NzUyOTEsMDAwMDAwMDA0YmY5NTQwZmJhMDE5ZjY1MmQ5M2ZiMmRiZDc4YWVmNQ==`
+Snapshot ID: `Mjg0NzcwNzYsMDAwMDAwMDA4MWU4YWQ3M2FjYWE0YzgxYzVjM2UwOGQ0YTU2NmQ2Zg==`

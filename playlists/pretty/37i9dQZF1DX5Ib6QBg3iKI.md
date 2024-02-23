@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ib6QBg3iKI.md) - [plain]
 
 > Get cozy and relax to these laid\-back festive sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,049 likes - 80 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,042 likes - 80 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ib6QBg3iKI.md) - [plain]
 | 79 | [Walking in The Air](https://open.spotify.com/track/0c2L8oZyVWwesIZDocfJCB) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Walking in The Air](https://open.spotify.com/album/3K0oR5fAmNX2dx19FGUN51) | 3:59 |
 | 80 | [Give Love on Christmas Day \(Piano Version\) \- Recorded Live at Spotify Studios NYC](https://open.spotify.com/track/2bhUuihxnwHia4kXN0Tx6m) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Give Love on Christmas Day \(Piano Version\) \[Recorded Live at Spotify Studios NYC\]](https://open.spotify.com/album/3oRUIETu6Lclw9xQdif183) | 3:45 |
 
-Snapshot ID: `MCxkZmM0ODNlZWVlZWJkOWFiYWM5OTVjNGQ3NmZlNWI0NjYxNjdmZjcw`
+Snapshot ID: `MCw0NmViZDZjNTVkZmFmMjYyY2RmNTNmZGI0YmUxNmZhZmYwZjZlMTVh`

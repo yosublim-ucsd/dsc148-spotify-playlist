@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 
 > Listen to your favourite tunes for inspiration and upliftment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,531 likes - 50 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,584 likes - 50 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 | 49 | [Firm Foundation \(He Won’t\) \- Live](https://open.spotify.com/track/2HdibfM50khhtRTeKI0FkK) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Firm Foundation \(Live\)](https://open.spotify.com/album/7JItqwtqscE2BMoRPIJj4l) | 6:20 |
 | 50 | [Simple Matter](https://open.spotify.com/track/19TiECi9uhu3vRj2XAQrq5) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [Forward City](https://open.spotify.com/artist/58bqbgcmYuTyHDGGkHbrFH) | [Strike The Ground](https://open.spotify.com/album/2EZnBhenVIfsfTjhhrbWjs) | 5:17 |
 
-Snapshot ID: `MCxlNzc2NDA5YjVlZDBjMTU0OTkxYTk2Mzc4MDA4MTQ1ZTI1OWRjOTM0`
+Snapshot ID: `MCwxYjc2OGUzYTQ2Zjc3MjcwYTM2N2Y1YTIzNjgwNTNiNjFjMGRlNzIy`

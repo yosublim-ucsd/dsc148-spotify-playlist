@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxUz0Ouugmb.md) - [plain]
 
 ### [RADAR Indonesia ](https://open.spotify.com/playlist/37i9dQZF1DWYxUz0Ouugmb)
 
-> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Nadhif Basalamah
+> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Bernadya
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,005 likes - 58 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,016 likes - 58 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [tiba\-tiba jumat lagi](https://open.spotify.com/track/5H1AMIgdjQCHMwLTZ72Z9U) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [tiba\-tiba jumat lagi](https://open.spotify.com/album/6xFYX7yfK1mzGs3akS2or7) | 4:09 |
-| 2 | [Kata Mereka Ini Berlebihan](https://open.spotify.com/track/15xaVF0miqkphP0O0TZRs7) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Kata Mereka Ini Berlebihan](https://open.spotify.com/album/3UDTwdzFWA2rgP19S9oUaC) | 3:11 |
+| 1 | [Kata Mereka Ini Berlebihan](https://open.spotify.com/track/15xaVF0miqkphP0O0TZRs7) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Kata Mereka Ini Berlebihan](https://open.spotify.com/album/3UDTwdzFWA2rgP19S9oUaC) | 3:11 |
+| 2 | [tiba\-tiba jumat lagi](https://open.spotify.com/track/5H1AMIgdjQCHMwLTZ72Z9U) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [tiba\-tiba jumat lagi](https://open.spotify.com/album/6xFYX7yfK1mzGs3akS2or7) | 4:09 |
 | 3 | [Kisah Yang Lain](https://open.spotify.com/track/7ewBrAZeVLIZkGgrEbR0az) | [Anggi Marito](https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx) | [Kisah Yang Lain](https://open.spotify.com/album/1EeGQqYpr6ephrrwkD42Ss) | 4:02 |
 | 4 | [Aku Mengerti \(Prologue Version\)](https://open.spotify.com/track/3ps6Y7PHQ9rh6HbHnu0IFd) | [Stereo Wall](https://open.spotify.com/artist/0kw7tMniMnrp9Pcr7vgDAm) | [Prologue](https://open.spotify.com/album/5xGgVRebfE9c1LkYPdK21s) | 3:45 |
 | 5 | [PULANG](https://open.spotify.com/track/1gt5nseAiBxo6fgGJ0cOtt) | [ENVY\*](https://open.spotify.com/artist/0wMJryVOHUmtw8y05i7puj) | [THE GRAND CHASE](https://open.spotify.com/album/5LyYbjOZxOorwRmB7aqOei) | 3:54 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxUz0Ouugmb.md) - [plain]
 | 57 | [Amin Kita Beda](https://open.spotify.com/track/6cHeFykKTpMpWfGG1T6SbG) | [Awdella](https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw) | [Amin Kita Beda](https://open.spotify.com/album/1H1E64YHp6JOoKxKjwmQqm) | 4:07 |
 | 58 | [Cinta Air Mata](https://open.spotify.com/track/1Mhevyt2cl5lvG3htZoK7a) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Cinta Air Mata](https://open.spotify.com/album/7LdARvPk1Wms5pKXqP5UUp) | 4:39 |
 
-Snapshot ID: `MCxiZDkzNDIxNzFhZjIwNGQwYzM1MThiMDE1Mjc5Zjc5ZWZiYzFjZmIx`
+Snapshot ID: `MCxhYjFkZTJhZDI5YzJiOWVjMzc1YjRiMTk1ZDQ0YTY2YmZiOGZjNTY3`

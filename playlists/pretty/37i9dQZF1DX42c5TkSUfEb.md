@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42c5TkSUfEb.md) - [plain]
 
 > La playlist idéale pour se détendre en musique.
 
-[Spotify](https://open.spotify.com/user/spotify) - 762,136 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 762,230 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42c5TkSUfEb.md) - [plain]
 | 99 | [Elle laisse \- Radio Edit](https://open.spotify.com/track/01gFlEXnkRNkgtN7jPjByI) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA) | [Elle laisse \(Radio Edit\)](https://open.spotify.com/album/2iFptJp3EGJagpx0KdWlcr) | 3:28 |
 | 100 | [and we’ll leave it there…](https://open.spotify.com/track/55k261ZvchUvKnC62TYwK9) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Ella McRobb](https://open.spotify.com/artist/0NswlnGI3k9W3MHn5dEjdw) | [and we’ll leave it there…](https://open.spotify.com/album/1b7UmY5gAuMFrcotfQ8G6d) | 3:39 |
 
-Snapshot ID: `MCw5ODU4YWYxZThkNmFlZjRlMGQ2ZTQzMTE3ZDM0MTNmYTY5NTYzODY0`
+Snapshot ID: `MCwxYWNkMDJiMWNhMzc4NzMyZDUyZmZmZjEwODJmOGM5MzcyNzUzMjFl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgZcN2HVMoe.md) - [plain]
 
 > Grab your coffee and ease into the day with this light blend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,019 likes - 200 songs - 12 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,098 likes - 200 songs - 12 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgZcN2HVMoe.md) - [plain]
 | 199 | [Colors](https://open.spotify.com/track/4Zarrcq9Ir58UaMp9n3mbC) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Far From Here](https://open.spotify.com/album/3y1HiZb2e8rIP4nWMKJRFi) | 3:11 |
 | 200 | [Pontiac](https://open.spotify.com/track/1SguEoDj7MfO8m4zKjy15i) | [Mat Kearney](https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1) | [January Flower](https://open.spotify.com/album/4DvC7DqqEcba2kHAlkUL5x) | 3:06 |
 
-Snapshot ID: `MCw2ZmJlYWU1MmU0OTE5MDljZDdhYzlmN2VjOTNkZTlkNmEzNTdmNWE3`
+Snapshot ID: `MCw5OTEyZjM5NmNmM2JlNDBlNTVkOTVjMzFmZWEyMzc5NDk4MTc3Njgx`

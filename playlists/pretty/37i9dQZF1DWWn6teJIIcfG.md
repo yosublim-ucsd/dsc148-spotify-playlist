@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWn6teJIIcfG.md) - [plain]
 
 > Get your creative juices flowing with these classical and instrumental masterpieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,506 likes - 120 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,563 likes - 120 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWn6teJIIcfG.md) - [plain]
 | 119 | [Beethoven / Arr\. Barrios Mangoré: Piano Sonata No\. 14 in C\-Sharp Minor, Op\. 27 No\. 2 "Moonlight": I\. Adagio sostenuto](https://open.spotify.com/track/5j1fjs2Ooo0Rb1LQqwgUrO) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Thibaut García](https://open.spotify.com/artist/6ZgXLDSjEsWxgYP8MeLS1t) | [El Bohemio](https://open.spotify.com/album/5znYPBoDbkv2f5TKCFHzro) | 5:58 |
 | 120 | [Handel: Water Music, Suite No\. 1 in F Major, HWV 348: III\. \(b\) Andante](https://open.spotify.com/track/1uCnDVzdxzyUoAk2xZahYj) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [John Eliot Gardiner](https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi), [English Baroque Soloists](https://open.spotify.com/artist/3OtZV9aCZ6G004vjOQcf59) | [John Eliot Gardiner Conducts Handel](https://open.spotify.com/album/5c1KNy2PXJttM46NhAq3hN) | 2:18 |
 
-Snapshot ID: `MCw4MTEzMzA1ZjQ3YTVkZjZjNTBhNmMzZDkwOTRjOWQxYmVjYThhZTcw`
+Snapshot ID: `MCw3ODllOTE2YTQ3NjFjYzNjNDM0ODljZGM3MGI2MGUxZjg4NGIyNmMw`

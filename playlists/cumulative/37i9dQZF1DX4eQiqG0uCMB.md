@@ -4,7 +4,7 @@
 
 > Chill afro music to study with.
 
-270 songs - 13 hr 46 min
+271 songs - 13 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Different \(With Majid Jordan\)](https://open.spotify.com/track/2U474RK9GnAqXXh5YqigaY) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Different \(With Majid Jordan\)](https://open.spotify.com/album/0XRJnjejsA9YXjYGdek23k) | 2:26 | 2022-06-09 | 2023-07-01 |
 | [Different Pattern](https://open.spotify.com/track/7FB5261Iv3MRbSz13HYP5l) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [NAHAMciaga](https://open.spotify.com/album/25W5Z67RX9uv82fijyx9Yk) | 2:03 | 2023-12-08 |  |
 | [Dior](https://open.spotify.com/track/6nLdg1lpE3dHLmNam1aoA6) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [The Second Wave](https://open.spotify.com/album/2X0RCBDJankvvvaJgMUUHD) | 3:40 | 2022-06-09 | 2023-02-17 |
+| [Distance](https://open.spotify.com/track/5CqoCjBdBTTsVrf6aZOP3t) | [Funbi](https://open.spotify.com/artist/2ZvhA3s4Jwbcce62lzGEGX) | [Distance](https://open.spotify.com/album/1mzN3IVisdj5OSEkVW0rD3) | 2:56 | 2024-02-23 |  |
 | [DKT](https://open.spotify.com/track/48DoYs5rIX1PbsbCBYpYfB) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [DKT](https://open.spotify.com/album/3zu38j0czgA5doZyGPnfMd) | 2:18 | 2022-06-09 |  |
 | [Dreams](https://open.spotify.com/track/4rbmoqtKWALCrCUYPFZCyz) | [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Boy Spyce](https://open.spotify.com/album/5lsk9UPtpMStsuVJCZgtin) | 3:13 | 2022-06-09 | 2022-07-27 |
 | [EARTH ANGEL](https://open.spotify.com/track/408jhAwjl6IvdoQMN29t7O) | [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu), [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of) | [ULTRALIGHT](https://open.spotify.com/album/555u9I3MowqYOghGFSAR7U) | 2:22 | 2023-04-20 | 2023-05-12 |
@@ -148,7 +149,7 @@
 | [Love, Today](https://open.spotify.com/track/1LoCwW6zCCmuLxDU8p06Q8) | [Preyé](https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [Don't Look Down!](https://open.spotify.com/album/6DEAfTTihu0p1nNkti8Bn0) | 3:26 | 2022-09-01 | 2023-01-28 |
 | [loving is harder](https://open.spotify.com/track/3FFTifOMJ6jUNxTELrRasy) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [loving is harder](https://open.spotify.com/album/66bXOBWU3SD12I3Hiw6TD9) | 2:29 | 2022-06-09 | 2022-07-26 |
 | [Loyalty](https://open.spotify.com/track/2oOr7XZmuqYTdmCnC5qQsC) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Loyalty](https://open.spotify.com/album/1xaW0G0ccKSbUuHfYGVhbL) | 2:47 | 2022-06-09 | 2023-06-14 |
-| [Loyalty](https://open.spotify.com/track/64jt46zpWwImMcxRIj8GVY) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Bad Boy Etiquette 101](https://open.spotify.com/album/4MPDBst1efOusd0rI4jlFp) | 2:47 | 2023-10-13 |  |
+| [Loyalty](https://open.spotify.com/track/64jt46zpWwImMcxRIj8GVY) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Bad Boy Etiquette 101](https://open.spotify.com/album/4MPDBst1efOusd0rI4jlFp) | 2:47 | 2023-10-13 | 2024-02-23 |
 | [Lucid Cruise 2.0](https://open.spotify.com/track/2vw9YvN1l0plaFQUW2zTdi) | [Hermez](https://open.spotify.com/artist/168iTeZjIZlN7Sc8ieZJl6), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [Lucid Cruise 2.0](https://open.spotify.com/album/0XouERt5OLjWYljfLNhg0K) | 3:17 | 2022-10-13 | 2023-01-28 |
 | [Ma chérie](https://open.spotify.com/track/2Kle8vKrSquAU200Sb5WHp) | [Ici c'est Paris](https://open.spotify.com/artist/0XVAP17xehWKLmcb0DhtbZ), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Ma chérie](https://open.spotify.com/album/2Ff3vqpWfrBskuHurHzaK3) | 3:33 | 2022-08-18 | 2022-11-01 |
 | [MAMA](https://open.spotify.com/track/05ol8gdiT7MUNvA9Bt2dcP) | [Pabi Cooper](https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ), [Khanyisa](https://open.spotify.com/artist/5Sgtj9tFA2TAYXDeh1sJTc), [Yumbs](https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH), [Liebah](https://open.spotify.com/artist/2KypNNZFY9osrpfgPSMfPz) | [MAMA](https://open.spotify.com/album/0lY6EDqhPVeR8h3WVSJtI7) | 7:07 | 2022-07-22 | 2022-07-25 |

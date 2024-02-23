@@ -1,5 +1,5 @@
 {
-  "2024-02-22": 278967,
+  "2024-02-23": 279049,
   "date_first_scraped": "2022-05-11",
   "description": "The biggest rock bands/artists in Japan right now!  Cover: Fujifabric(\u30d5\u30b8\u30d5\u30a1\u30d6\u30ea\u30c3\u30af)",
   "name": "Big in Japan",
@@ -5624,6 +5624,24 @@
     },
     {
       "album": {
+        "name": "Mizuwariwo Usukutsukutte Itsumademo",
+        "url": "https://open.spotify.com/album/47u6mM6JlOrCKgEwHVxF3n"
+      },
+      "artists": [
+        {
+          "name": "Takehara Pistol",
+          "url": "https://open.spotify.com/artist/0IRFQcZbbHHpFY5EUNA2XA"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194511,
+      "name": "Mizuwariwo Usukutsukutte Itsumademo",
+      "url": "https://open.spotify.com/track/0TJppXf9pBhMQNgcIAt6A1"
+    },
+    {
+      "album": {
         "name": "Monochrome",
         "url": "https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI"
       },
@@ -8201,24 +8219,6 @@
       "duration_ms": 239000,
       "name": "Smells",
       "url": "https://open.spotify.com/track/4JRzTRnZ6yvscy7INaYk93"
-    },
-    {
-      "album": {
-        "name": "GEAR BLUES",
-        "url": "https://open.spotify.com/album/7gUem4NLZn4NKR0d5IVeOJ"
-      },
-      "artists": [
-        {
-          "name": "Thee Michelle Gun Elephant",
-          "url": "https://open.spotify.com/artist/2DBcgbvakjiv4Yi9bRyjVX"
-        }
-      ],
-      "date_added": "2023-12-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 207773,
-      "name": "SMOKIN' BILLY",
-      "url": "https://open.spotify.com/track/6pjCT2TfxXdoNSMmWIkBA8"
     },
     {
       "album": {
@@ -12970,6 +12970,24 @@
     },
     {
       "album": {
+        "name": "GEAR BLUES",
+        "url": "https://open.spotify.com/album/7gUem4NLZn4NKR0d5IVeOJ"
+      },
+      "artists": [
+        {
+          "name": "Thee Michelle Gun Elephant",
+          "url": "https://open.spotify.com/artist/2DBcgbvakjiv4Yi9bRyjVX"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207773,
+      "name": "\u30b9\u30e2\u30fc\u30ad\u30f3\u30fb\u30d3\u30ea\u30fc",
+      "url": "https://open.spotify.com/track/6pjCT2TfxXdoNSMmWIkBA8"
+    },
+    {
+      "album": {
         "name": "\u5a66\u4eba\u306e\u8096\u50cf (Portrait of a Lady)",
         "url": "https://open.spotify.com/album/33OSGknTPhRmt4pDyqDA6O"
       },
@@ -16183,7 +16201,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 194511,
       "name": "\u6c34\u5272\u308a\u3092\u3046\u3059\u304f\u3064\u304f\u3063\u3066\u3044\u3064\u307e\u3067\u3082",
       "url": "https://open.spotify.com/track/0KlLXIG5ZtKrSqDN2IOKt5"

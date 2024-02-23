@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg3JLYhYrif.md) - [plain]
 
 > Hits brasileiros dos últimos anos para animar sua faxina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,242 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,289 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg3JLYhYrif.md) - [plain]
 | 59 | [Encaixa](https://open.spotify.com/track/6VXpxDMdPfMrFF8UmZRm87) | [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi), [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Encaixa](https://open.spotify.com/album/2aIFyJR1TbFuxBjRXt3UMA) | 2:49 |
 | 60 | [Show das Poderosas](https://open.spotify.com/track/28aUFtkMnJaqNQkLHR0weV) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Anitta](https://open.spotify.com/album/7IcgpWsMMBvW5NzNoKRu6z) | 2:30 |
 
-Snapshot ID: `MCxmY2U1MWVhZjBjZDE4NzZhMmNjYzgwMWQ4MjhlYWZjNzhiYmQ3MTc1`
+Snapshot ID: `MCw1YmI1ZDdjM2FlNWI1Mjc1MTM1YjE3ZGFmZjZiZGM5ZGZlZTAxZmVi`

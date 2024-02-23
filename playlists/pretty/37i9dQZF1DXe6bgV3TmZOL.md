@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 
 > If your workout doubles as an outlet for your aggression, this is the playlist for you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,362,010 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,362,515 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 | 99 | [Remember We Die](https://open.spotify.com/track/2iQoaliksvoEBhldqjYPgL) | [Gemini Syndrome](https://open.spotify.com/artist/5plcM0NxqZcnAWQVECcjWN) | [Memento Mori](https://open.spotify.com/album/3R8iA3RLV2cS2rxTvEn4Kn) | 3:45 |
 | 100 | [Black Hole](https://open.spotify.com/track/4Y7eqYTpV7fQxpYj1isN2F) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz), [Caleb Shomo](https://open.spotify.com/artist/0YbrhcmTTHZbsXyqjsGCGD) | [Black Hole](https://open.spotify.com/album/4rTul9Y40kljIY12LiVAwB) | 2:59 |
 
-Snapshot ID: `MCwwOTA1Mjg4MWI2MzE5OWQzYWZjMzExNGM2YmNiMjIwMjhkODZmYzJj`
+Snapshot ID: `MCwyOTQ4N2E1M2U0Y2M3NjYwNWFjYjJjYjA1ZDNkMzg2ZGU4ZWM1YmEy`

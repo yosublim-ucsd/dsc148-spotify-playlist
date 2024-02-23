@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3P56PKzFc9f.md) - [plain]
 
 > Home is where the heart is.
 
-[Spotify](https://open.spotify.com/user/spotify) - 789,842 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 789,876 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3P56PKzFc9f.md) - [plain]
 | 99 | [Don't Give Up On Me](https://open.spotify.com/track/0fiijtFXDJ9MOVwgSaEQJ5) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Naïve](https://open.spotify.com/album/4NkgzNCOzuki4FuWUOY28R) | 3:16 |
 | 100 | [Tacones Rojos](https://open.spotify.com/track/0Be7sopyKMv8Y8npsUkax2) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Tacones Rojos](https://open.spotify.com/album/4mdWMx4VouAqsIqgLt3R6S) | 3:09 |
 
-Snapshot ID: `MCxiNDUzY2Q4ZDhiOGU0MWFkMTAzNjhkMTQ0MGY2Mjg5ZTM1MzhiZTMy`
+Snapshot ID: `MCxjYWU4ODQ2YjI0YTA1YTA0NzBiYmVjZTI5YmRiNjVkMTgyZjBkMGI0`

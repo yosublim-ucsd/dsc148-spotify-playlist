@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 
 > O melhor do sertanejo em uma só playlist! Foto: Murilo Huff
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,654,216 likes - 48 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,654,808 likes - 48 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 | 47 | [Quando Apaga A Luz \- Ao Vivo](https://open.spotify.com/track/1nf1HJdTWXwf9XHQebGlOd) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL) | [Quando Apaga A Luz \(Ao Vivo\)](https://open.spotify.com/album/14GC6d6HNAE3AZEItOG0kc) | 2:24 |
 | 48 | [Metade De Mim \- Ao Vivo](https://open.spotify.com/track/6cZqw8wIrMsFxCNMzLRbNU) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [Metade De Mim \(Ao Vivo\)](https://open.spotify.com/album/6M62EAu5KM45AycOLLCdfd) | 2:40 |
 
-Snapshot ID: `MCw4MmE2OGEyYTE5ZDgwMmRiZGY2N2U0OTlkOTUxMjM1MzY2ODljZGYw`
+Snapshot ID: `MCwxMzEyOGIyNDg1ZGU4MGVkZWRiYTRjZTc1MTMxNjNjYmJkMTEzODEw`

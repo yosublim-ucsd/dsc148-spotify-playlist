@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX206LSYrawGc.md) - [plain]
 
 > 80s rock to fuel your ride\. Cover: Guns N' Roses
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,706 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,936 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX206LSYrawGc.md) - [plain]
 | 49 | [Shake Me](https://open.spotify.com/track/1Qjpl8Kav6rrO92ZuG0OK8) | [Cinderella](https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx) | [Night Songs](https://open.spotify.com/album/6Af1uU7Di8q9oHyXpgvrmY) | 3:42 |
 | 50 | [Just Like Paradise](https://open.spotify.com/track/5ZY7Gug850kv4heJcWZGHM) | [David Lee Roth](https://open.spotify.com/artist/0KyCXNSa7ZMb5LydfKbLG3) | [Skyscraper](https://open.spotify.com/album/2mYFKWSxCYhLHSXsjLDmp4) | 4:03 |
 
-Snapshot ID: `MCwxNGJhN2ZhZjg3OGRiYWQ3ZDJmZGYzNjExZGRlMzIyN2U0ZDJmNGQ0`
+Snapshot ID: `MCxlZDQ5ODFhN2QyNjkzZTFiZTRkZDBiMGNiZGIyNmFhMmNhZGVmNzRk`

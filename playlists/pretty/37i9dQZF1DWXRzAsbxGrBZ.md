@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 
 > Deep House speaks to the soul\. Get revived with some of the best Deep House South Africa has to offer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,646 likes - 50 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,721 likes - 50 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 | 49 | [Ksasenjalo \(Exte C Remix\)](https://open.spotify.com/track/1PnAtWScmc0YQn8UbJW1NN) | [Zano](https://open.spotify.com/artist/44wIq4IVr26PvWKBWJ42vq), [Exte C](https://open.spotify.com/artist/6xUGu0QxJfllDHmB9Pyc23) | [Ksasenjalo \(Re\-Imagined\)](https://open.spotify.com/album/0oKKnnM9Glh0iHfiCwEUZZ) | 6:41 |
 | 50 | [Ivar the Boneless](https://open.spotify.com/track/5jEL4pW79jdIz6VnqDaCjm) | [Gigg Cosco](https://open.spotify.com/artist/0DkJm7HViEwxS1zxHKY86o) | [Ivar the Boneless](https://open.spotify.com/album/00vV7Vovl8G5eu9B7f896I) | 6:44 |
 
-Snapshot ID: `MCxjYjI2ODc2Nzc1NWZmZGJhYThlYzVkZDI2YzFkYjMzM2Q5ZTk4ZWZm`
+Snapshot ID: `MCwwZjliZjNmZjlhMGUyOGY4NzFjNWY3ZDVlZjA1MWIyNzE2ODhjNjMx`

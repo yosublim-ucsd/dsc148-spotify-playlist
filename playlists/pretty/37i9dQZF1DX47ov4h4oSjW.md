@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47ov4h4oSjW.md) - [plain]
 
 > Music to help you concentrate during your homework.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,114 likes - 100 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,111 likes - 100 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47ov4h4oSjW.md) - [plain]
 | 99 | [Sunlight](https://open.spotify.com/track/3PFaIXHfT7cLCo1mRGbhZU) | [Alec Windt](https://open.spotify.com/artist/3zz0C9ZwusoYHsr5K8b0HW) | [In Love](https://open.spotify.com/album/2KlIpwlJnD92CbIQp3CiIm) | 2:15 |
 | 100 | [As The Crow Flies](https://open.spotify.com/track/3Tny1IsUZeQyXJEwrzSYSp) | [Jonas Holmes](https://open.spotify.com/artist/1ktaC9yb8R0mC5KSPjENLl) | [Ripples on a Pond](https://open.spotify.com/album/2VNrWdvo3fG7HcQPOk5ZmX) | 1:36 |
 
-Snapshot ID: `MCw4MzI4Y2IwM2JmMTQ3NDM1OWQ1ZGZhYTI0NjUyZjgxNTc3MzlkNmM3`
+Snapshot ID: `MCxhN2ExMTg2YjQ5YWE0NjU5YTZkOWI4NDJkZGViNmQ2MzVhMWVjMGE2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43v1NFXUzji.md) - [plain]
 
 > Latin music bangers for your gaming session! Cover: Eladio Carrion
 
-[Spotify](https://open.spotify.com/user/spotify) - 606,197 likes - 150 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 606,237 likes - 150 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43v1NFXUzji.md) - [plain]
 | 149 | [Afuera Que Tengan Miedo \- Jayrick Remix](https://open.spotify.com/track/3Sualy9gkVDHDgOKcTJgFd) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Jayrick](https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T) | [Afuera Que Tengan Miedo \(Jayrick Remix\)](https://open.spotify.com/album/3Oxo5otS6sHMaa06uPUGxp) | 2:46 |
 | 150 | [HASTA ABAJO](https://open.spotify.com/track/54FoR5osiOJtVae7SCdSnq) | [KEVIN ROLDAN](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [HASTA ABAJO](https://open.spotify.com/album/2eM85kZYl1Lz7tjp0MTGo1) | 3:49 |
 
-Snapshot ID: `MCxjOTU5YzA5MDAxMjMxYjMwM2M4ZmRkMTBlZDY4YTViOTAwMmQ1YzM1`
+Snapshot ID: `MCxjZTFmODhiMWMyMGQ3Y2QzYzM3NDRhNDdlMjg5NTE5YWNiZjIyYzc1`

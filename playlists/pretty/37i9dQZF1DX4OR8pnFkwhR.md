@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: Chevon
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,529 likes - 69 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,544 likes - 69 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [ですとらくしょん!!](https://open.spotify.com/track/54krDxm0tOxeZy36AKT3Bj) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [Chevon](https://open.spotify.com/album/5zpDo1cOOtnbzrRjKdCqA8) | 4:01 |
 | 2 | [Prepare Yourself!](https://open.spotify.com/track/3imhdLe85Nmrw9HiSGmbXz) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [Prepare Yourself!](https://open.spotify.com/album/4Ef7Fy5sLhUDU1LM5enHbQ) | 3:54 |
-| 3 | [Unlucky!!](https://open.spotify.com/track/2OBYXeH83Bf0hzpgdbvPVc) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [Unlucky!!](https://open.spotify.com/album/2BOvgYoO9BpcpfnQZjHizV) | 3:35 |
-| 4 | [あらわれないで](https://open.spotify.com/track/4J355x8SX4orM1H3tyPBFa) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [あらわれないで](https://open.spotify.com/album/3Of0ZbIf2fr4VTCoy8YNxY) | 3:57 |
-| 5 | [fake face dance music \- night drive remix](https://open.spotify.com/track/4PZoa61PqX7neqlNnc4lf1) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo), [ESME MORI](https://open.spotify.com/artist/76H8LGZ7isj2XG6ZRMYpzK) | [fake face dance music \(night drive remix\)](https://open.spotify.com/album/4z1ACaaeLSMwfQClzKW3YA) | 2:32 |
-| 6 | [SAICO](https://open.spotify.com/track/2Ai3BXDpkd8uyag1cLMwBg) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [SAICO](https://open.spotify.com/album/4anpmAbMwcV3GZMRjX51JQ) | 2:47 |
-| 7 | [ランタン](https://open.spotify.com/track/4osMB4WygimYX7kKCx8OxU) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [ランタン](https://open.spotify.com/album/0SW1ThYU7yZwF0FQi4u7qe) | 3:26 |
-| 8 | [空とぶ東京](https://open.spotify.com/track/1Z09qAdhbdRF40re5pjW0S) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [tradition](https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm) | 3:12 |
-| 9 | [サクラキミワタシ](https://open.spotify.com/track/4bM9itWEyMkLUSd2VeROAd) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [サクラキミワタシ](https://open.spotify.com/album/4gOlBkqSeyF4uZPey6aZAd) | 3:22 |
-| 10 | [僕だけが愛](https://open.spotify.com/track/586HamUq3n9cH9cDXWRzAb) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [僕だけが愛](https://open.spotify.com/album/3bdleoxF74CDSzQXLwY8MI) | 5:23 |
+| 3 | [メイデン](https://open.spotify.com/track/5n4hfQXhSc1nXYoKTAS2xb) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [僕だけの愛](https://open.spotify.com/album/1rUF9QA4jMdL55gIgL0vxZ) | 2:55 |
+| 4 | [Unlucky!!](https://open.spotify.com/track/2OBYXeH83Bf0hzpgdbvPVc) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [Unlucky!!](https://open.spotify.com/album/2BOvgYoO9BpcpfnQZjHizV) | 3:35 |
+| 5 | [あらわれないで](https://open.spotify.com/track/4J355x8SX4orM1H3tyPBFa) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [あらわれないで](https://open.spotify.com/album/3Of0ZbIf2fr4VTCoy8YNxY) | 3:57 |
+| 6 | [fake face dance music \- night drive remix](https://open.spotify.com/track/4PZoa61PqX7neqlNnc4lf1) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo), [ESME MORI](https://open.spotify.com/artist/76H8LGZ7isj2XG6ZRMYpzK) | [fake face dance music \(night drive remix\)](https://open.spotify.com/album/4z1ACaaeLSMwfQClzKW3YA) | 2:32 |
+| 7 | [SAICO](https://open.spotify.com/track/2Ai3BXDpkd8uyag1cLMwBg) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [SAICO](https://open.spotify.com/album/4anpmAbMwcV3GZMRjX51JQ) | 2:47 |
+| 8 | [ランタン](https://open.spotify.com/track/4osMB4WygimYX7kKCx8OxU) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [ランタン](https://open.spotify.com/album/0SW1ThYU7yZwF0FQi4u7qe) | 3:26 |
+| 9 | [空とぶ東京](https://open.spotify.com/track/1Z09qAdhbdRF40re5pjW0S) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [tradition](https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm) | 3:12 |
+| 10 | [サクラキミワタシ](https://open.spotify.com/track/4bM9itWEyMkLUSd2VeROAd) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [サクラキミワタシ](https://open.spotify.com/album/4gOlBkqSeyF4uZPey6aZAd) | 3:22 |
 | 11 | [paypay](https://open.spotify.com/track/2Zs44ccb41dYvMavig1kRQ) | [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [Noodle](https://open.spotify.com/album/3AV012gIyQAqTHAfquzBPz) | 2:51 |
 | 12 | [Any angle](https://open.spotify.com/track/4KiY8v1cM2S8BS8ob2IGVg) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [Any angle](https://open.spotify.com/album/0ZkaPbECbazcsi7Mi4dNAa) | 2:07 |
 | 13 | [Planet](https://open.spotify.com/track/2JBvAB9MRddsTnvKPxO1bk) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [Planet](https://open.spotify.com/album/1Rz5hGKTRAn5NaBEoasR5U) | 3:36 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 68 | [Cropping](https://open.spotify.com/track/7aAuchtgMb9X5P8cQjlE6X) | [Quw](https://open.spotify.com/artist/17ryZCE9CTpuNkJMYTwB5M) | [Cropping](https://open.spotify.com/album/1vVhayWOCyooUqJSG5uboX) | 3:01 |
 | 69 | [Sanzameku](https://open.spotify.com/track/0XWKTGEZy1UxKERL4ZuPEz) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [NEO TOKYO METRO](https://open.spotify.com/album/3QmE1SZpwTswgKFSIBkuuv) | 3:05 |
 
-Snapshot ID: `MCxkNjIxYzBhNTYwZmZlNDAyOTcwNzkyYjdmMDIzNTAzNWYzNDYzZWRm`
+Snapshot ID: `MCxkMmQzOGVjMTU4NDdjNDFlZDFkYzczZGVkZmZkNDA1NGJiZjBiNGI1`

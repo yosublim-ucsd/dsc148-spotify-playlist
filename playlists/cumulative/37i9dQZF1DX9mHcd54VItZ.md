@@ -2,9 +2,9 @@
 
 ### [SA Rock ](https://open.spotify.com/playlist/37i9dQZF1DX9mHcd54VItZ)
 
-> The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/4FvIuLbPat5vSttuzmM7VE?si=JGUrPgDPS06jZsY\-1v2IvQ">VOLK</a>
+> The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/45Ahb3Z1t6yHM2F2gFrAtx?si=5n4wUgkkQWSISsvTzBbXRg">Wonderboom</a>
 
-448 songs - 1 day 2 hr 45 min
+451 songs - 1 day 2 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Black Sun Blues](https://open.spotify.com/track/4rBXj6zG73kTuhdZGmSMHR) | [Ross Harding](https://open.spotify.com/artist/1FqnXueiEcKhdI6NBFwKcA) | [Chapter II](https://open.spotify.com/album/7AkMozqHXDF5OtauzP2ZQI) | 4:42 | 2022-11-17 | 2023-03-03 |
 | [BLAH BLAH BLAH](https://open.spotify.com/track/5ncpsijPbqSkfej6b8PGjw) | [Yung Beathoven](https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs), [Alex Solomon](https://open.spotify.com/artist/0T4llo79dwDWJrgR7FP0sU) | [BLAH BLAH BLAH](https://open.spotify.com/album/282KDJUgTAO64N8HMeiUAR) | 1:52 | 2022-07-21 | 2022-10-07 |
 | [Blue Eyes](https://open.spotify.com/track/7DirY6NZx5zbsNChNHUZNb) | [Springbok Nude Girls](https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh) | [Surpass The Power](https://open.spotify.com/album/7hCunCzhFrtnlE24iOtQwY) | 3:53 | 2024-01-04 |  |
-| [Blues Truth](https://open.spotify.com/track/3oNXo7kZWYKaPHZrw1mQtQ) | [Kenny Hughes](https://open.spotify.com/artist/6Y0yxjU9WEv7qauNd39OYL) | [Born & Raised](https://open.spotify.com/album/0PyGIf0dDWsd7Pj2dnRXgN) | 4:49 | 2024-01-18 |  |
+| [Blues Truth](https://open.spotify.com/track/3oNXo7kZWYKaPHZrw1mQtQ) | [Kenny Hughes](https://open.spotify.com/artist/6Y0yxjU9WEv7qauNd39OYL) | [Born & Raised](https://open.spotify.com/album/0PyGIf0dDWsd7Pj2dnRXgN) | 4:49 | 2024-01-18 | 2024-02-23 |
 | [Bones](https://open.spotify.com/track/0QFgIdxhhn6QzPT5Ndnm7E) | [Apollo Motel](https://open.spotify.com/artist/7ztNWtpfiEIPWu13f62d8t) | [Bones](https://open.spotify.com/album/2H1yVakFRyooDlWkX2o3on) | 3:43 | 2021-10-07 | 2022-08-04 |
 | [Bones](https://open.spotify.com/track/5xbhhW2S2vbfrhMrblZJ0l) | [Apollo Motel](https://open.spotify.com/artist/7ztNWtpfiEIPWu13f62d8t) | [Bones](https://open.spotify.com/album/5vJEmUbdVJJ38GzwpoJs52) | 3:43 | 2021-10-07 | 2022-08-09 |
 | [Bones](https://open.spotify.com/track/6yiOgFmbkN0n6p9GVqevmt) | [Apollo Motel](https://open.spotify.com/artist/7ztNWtpfiEIPWu13f62d8t) | [Greytown](https://open.spotify.com/album/3228rqtQ8JsE3RvJrq6dHw) | 3:43 | 2021-10-07 | 2022-11-18 |
@@ -176,7 +176,7 @@
 | [Goue Lokke](https://open.spotify.com/track/1cgeBbPkPmJNMzvwg6nCQL) | [Skelm](https://open.spotify.com/artist/0lWcirgozFoMaWPo9jZXHD) | [Vreemd](https://open.spotify.com/album/3QhqEsWuvMdvBEcVXWb5UM) | 3:42 | 2023-07-06 | 2023-11-25 |
 | [Greetings from The Room](https://open.spotify.com/track/4AOimaZwuTMPO6PFYCZ0VE) | [Drumfish](https://open.spotify.com/artist/2K1niaGIMquSzoja4NOr9s) | [Eating Dirt](https://open.spotify.com/album/43wjvldlI53z3hfRxRX4rO) | 3:16 | 2023-06-01 | 2023-07-07 |
 | [H.F.A.Y\. \(How Fake Are You\)](https://open.spotify.com/track/6jszxDsTnpI6xOeBuJ3l8K) | [Lincoln Hunter](https://open.spotify.com/artist/1pDMcSajVybIxvEbeazPG1) | [H.F.A.Y\. \(How Fake Are You\)](https://open.spotify.com/album/5qZCP7F4qZ7jNEWzbrANTK) | 3:19 | 2023-05-11 | 2023-07-29 |
-| [Hard As A Rock](https://open.spotify.com/track/2WC1YAcc7PW6N9pT8Z286K) | [MUSTANG](https://open.spotify.com/artist/0hjSbjmm1Tj4P26gF0wLgv) | [Hard As A Rock](https://open.spotify.com/album/2UpFL7l7YVexFHlTBPBKn4) | 3:15 | 2024-02-01 |  |
+| [Hard As A Rock](https://open.spotify.com/track/2WC1YAcc7PW6N9pT8Z286K) | [MUSTANG](https://open.spotify.com/artist/0hjSbjmm1Tj4P26gF0wLgv) | [Hard As A Rock](https://open.spotify.com/album/2UpFL7l7YVexFHlTBPBKn4) | 3:15 | 2024-02-01 | 2024-02-23 |
 | [Hartseer Freaks](https://open.spotify.com/track/0QkQXlKStGokMoWhngW99p) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF), [Hunter Kennedy](https://open.spotify.com/artist/1ZMCOQhfU6y2jzMHXooyKi) | [Kanniedood](https://open.spotify.com/album/2sAn67LpCat3XJqDuMmtTh) | 3:25 | 2022-12-01 | 2022-12-09 |
 | [Haunting You](https://open.spotify.com/track/0lIUqLV6zqnyRl7cPPhj9u) | [Oceans of Angels](https://open.spotify.com/artist/043vNvW2Jlt2J03d0tJJPY) | [Haunting You](https://open.spotify.com/album/2Qf78FHmRbc3Qf34eTMPXY) | 3:52 | 2023-07-28 | 2023-12-08 |
 | [Heaving](https://open.spotify.com/track/0sYJEJYGBKaiTcHdAcMAUP) | [Lucy Kruger & The Lost Boys](https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u) | [Heaving](https://open.spotify.com/album/4vVdnV7qeVHfw6eXvsuAHj) | 3:26 | 2023-02-16 | 2023-03-31 |
@@ -271,6 +271,7 @@
 | [Mud](https://open.spotify.com/track/5byP45prtT0kxbXDWM4S0n) | [Wonderwolf](https://open.spotify.com/artist/5v2qeKbxQBq5iKIZNp9w5A) | [Mud](https://open.spotify.com/album/4Ne7tTIbyzladfzbwO2y8x) | 3:07 | 2023-04-14 | 2023-06-09 |
 | [My Ek\(skuus\)](https://open.spotify.com/track/5BVm8JglDc7zHRuNTlux6D) | [Dans Dans Lisa](https://open.spotify.com/artist/6Kasz09T76a1IAveNC2xZH) | [Die gids vir grootword](https://open.spotify.com/album/1NmIZyDHE2FJmqH5EZPejU) | 3:37 | 2024-01-04 |  |
 | [My Favourite Place](https://open.spotify.com/track/32N9WJD9Zatt2ejxTkvZuT) | [Shortstraw](https://open.spotify.com/artist/1jldLaOPqF1tSIqeHruozt) | [My Favourite Place](https://open.spotify.com/album/5B7kv69LuD5m0OKtZUSJ11) | 3:29 | 2021-12-02 | 2022-11-18 |
+| [My Name Is Freedom](https://open.spotify.com/track/6WvHk5ZGK8p945lHPjRpWt) | [Wonderboom](https://open.spotify.com/artist/45Ahb3Z1t6yHM2F2gFrAtx) | [My Name Is Freedom](https://open.spotify.com/album/1JG8bied0mmLZIxrhNYrk4) | 3:42 | 2024-02-22 |  |
 | [My Obsession](https://open.spotify.com/track/3KSuV9KC96YOR7aaqiHNWS) | [Jack Stone](https://open.spotify.com/artist/1fuZsUTxoFVifBfXGSTOxh) | [My Obsession](https://open.spotify.com/album/2k9v4WSCMwJZH2bmawDQZE) | 3:30 | 2023-07-28 | 2023-09-29 |
 | [My Wolf](https://open.spotify.com/track/1O9wH2a4pYvKvQflK61JVL) | [Hansie Roodt](https://open.spotify.com/artist/78nUGs2i0NV2hsgPQya8E3) | [My Wolf](https://open.spotify.com/album/1zLCBWxCWdinLZLX9KMiCf) | 3:44 | 2023-03-30 | 2023-05-26 |
 | [Nakhu Ses’Fika](https://open.spotify.com/track/5ldT2XXjE1vGrJqzaeO1Ez) | [Shameless Band](https://open.spotify.com/artist/1WMFWKZqX2Y5lW2SKetrMz) | [Nakhu Ses’Fika](https://open.spotify.com/album/2Wvspa9VimsIhlaKrlmfJp) | 3:30 | 2023-10-26 | 2024-01-05 |
@@ -294,6 +295,7 @@
 | [Ooaa](https://open.spotify.com/track/0l6dcnH2fpmWeh2wvk03S8) | [Boo!](https://open.spotify.com/artist/39dPrvOQpekY24oOeKGYlq) | [Pynapple](https://open.spotify.com/album/6X7KUMT70zeYdRYxYgqirF) | 3:16 | 2024-01-04 |  |
 | [Oud Geword](https://open.spotify.com/track/4uiF6f8SnK7Yxax8GNy6bz) | [Van Der Aven](https://open.spotify.com/artist/24YKf4cTz4brZ8j8UShB2e) | [Oud Geword](https://open.spotify.com/album/70VkQsYTEX51832qXP82U1) | 3:03 | 2023-05-25 | 2023-09-01 |
 | [Out & About](https://open.spotify.com/track/4IJjTMbpLBnewkNrtcRLPj) | [Nomadic Orchestra](https://open.spotify.com/artist/27EGFQK4v27KEpLcdJhORE) | [Out & About](https://open.spotify.com/album/4HHFN1jXBNoSxpHUUupEbJ) | 2:52 | 2021-12-09 | 2022-09-16 |
+| [Out In The Open](https://open.spotify.com/track/0zG0Pb5Iqk4k85w1gCTKpl) | [The Govt.](https://open.spotify.com/artist/2UJWWvf4gRNfPzfrvO1VU9) | [Friendly Neighbourhood Conspiracies](https://open.spotify.com/album/092gJ1XwRQ1NgJXouE7h2j) | 3:44 | 2024-02-22 |  |
 | [Outcasts](https://open.spotify.com/track/38WBPi8N2uLBIA03sU0vea) | [Cindy\-Louise](https://open.spotify.com/artist/6nEhQq8FIrP4VY4lixkdZD), [Erick Gerber](https://open.spotify.com/artist/4EPvmo3SCToxenG4mQfhcc) | [Outcasts](https://open.spotify.com/album/1WJEMPcD7KGqkJrSzmgTdD) | 3:09 | 2023-08-04 | 2023-11-25 |
 | [Outer Space](https://open.spotify.com/track/0DWkbxfSqGNmHaEuqlR3wU) | [The Tazers](https://open.spotify.com/artist/3oBP043HsDnok9FzprqPce) | [Outer Space](https://open.spotify.com/album/5LsVvRpDG6HIju5gZK1gRe) | 4:00 | 2022-02-17 | 2022-08-05 |
 | [Overkill](https://open.spotify.com/track/6Pnoo2W3kHr11N0Eb4YEqg) | [Parable Fifteen](https://open.spotify.com/artist/0nIR1lnY2FD8JAaKcmmV1Z) | [Within the Margin of Error](https://open.spotify.com/album/5qhaaBLxoGO2D7Gi4Rd6Dr) | 3:14 | 2023-01-12 | 2023-03-25 |
@@ -302,6 +304,7 @@
 | [Parasite](https://open.spotify.com/track/1wJsjT1Oo2Kh2H3J9WOmde) | [Hugo Pooe](https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ) | [Distopia](https://open.spotify.com/album/1D37tFbgePiH2NuBrzOAm9) | 3:33 | 2022-10-06 | 2022-12-16 |
 | [Parasite](https://open.spotify.com/track/30QoZ68McWKW7jNcznqYAc) | [Hunter Kennedy](https://open.spotify.com/artist/1ZMCOQhfU6y2jzMHXooyKi) | [Parasite](https://open.spotify.com/album/03kcrEFLCsPQ5pnev44X5S) | 2:42 | 2022-03-18 | 2022-08-05 |
 | [Partners in Crime](https://open.spotify.com/track/0nwyYEJoZAhx1lkj0C95Qs) | [Marene](https://open.spotify.com/artist/5CMKKbyPMl9Ry6Kl1m8u1I) | [Partners in Crime](https://open.spotify.com/album/1qjw3P90aCqZ4jGJIWNn7D) | 3:39 | 2023-04-27 | 2023-07-29 |
+| [Patience](https://open.spotify.com/track/4WhPLGHy7mVIFDx3saaYvf) | [We Kill Cowboys](https://open.spotify.com/artist/2M7xonKOedqLEmBlxm1U8k) | [Patience](https://open.spotify.com/album/7aLOnvf1S2TJ3Zr9R0QWeN) | 5:33 | 2024-02-22 |  |
 | [Picture Perfect](https://open.spotify.com/track/2RZlgvQasR4X3gglKV4vuP) | [Perez](https://open.spotify.com/artist/4G30SsYmThGzZPCCyDN1bH) | [Picture Perfect](https://open.spotify.com/album/60Hh4NmsMVF1BriCanVolb) | 4:05 | 2024-01-04 |  |
 | [Pink Codeine](https://open.spotify.com/track/2nSfDIYnU3euVZN81xLjJp) | [We Kill Cowboys](https://open.spotify.com/artist/2M7xonKOedqLEmBlxm1U8k) | [Pink Codeine](https://open.spotify.com/album/1mT061XTU1JRimRQap8hQe) | 3:29 | 2023-06-01 | 2023-09-01 |
 | [PITY PARTY](https://open.spotify.com/track/275HPZ0ZqO7aVvP0oNqO5b) | [Yung Beathoven](https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs), [Brogan the band](https://open.spotify.com/artist/6hyyfSQkg85RaqUiyflfZc) | [PITY PARTY](https://open.spotify.com/album/44aRUzG8io87BE9XUIhYy8) | 2:27 | 2022-09-22 | 2023-01-27 |

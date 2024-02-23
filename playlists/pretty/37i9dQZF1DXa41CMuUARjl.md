@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 
 > This week's handpicked new <a href="spotify:genre:edm\_dance">dance and electronic music</a>, featuring new music from Martin Garrix, Third Party, Oaks and Declan J Donovan
 
-[Spotify](https://open.spotify.com/user/spotify) - 466,701 likes - 110 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 466,765 likes - 110 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 | 109 | [Interstellar \- Matisa Remix](https://open.spotify.com/track/1W5jnqm2XCND3Fryw09uLr) | [Demi Riquísimo](https://open.spotify.com/artist/1GIv2BGriYO1IdownXWWac), [Manami](https://open.spotify.com/artist/3YY7kS1ZzdHKY7DcQ7KEoB), [Matisa](https://open.spotify.com/artist/18YBSDKYgR6so2I94gqUQ9) | [Interstellar \(Matisa Remix\)](https://open.spotify.com/album/0BznKOSSEG05jR4dLHmSCD) | 6:21 |
 | 110 | [CUZIDO](https://open.spotify.com/track/5p1c8nEJzTyoytMkzKrgFP) | [DJ E\-Clyps](https://open.spotify.com/artist/4mnSMKXeNuynsdozoCUpcZ), [Anya V](https://open.spotify.com/artist/1R3Fkn0oSr6u957rN09vTg) | [CUZIDO](https://open.spotify.com/album/2CYrPV7s5Cq8ltx427w7VM) | 3:02 |
 
-Snapshot ID: `MCw5NzYxZjhhNDQ3MDY4M2JmMzI2NDkzMzk4YzI0MDA2ODVkYTVmNDAx`
+Snapshot ID: `MCw4ZWNmMjU2M2ZlYTE3MWM4NDc1NWQzY2ZlMGRhMTBjNGIxYzU4NTc0`

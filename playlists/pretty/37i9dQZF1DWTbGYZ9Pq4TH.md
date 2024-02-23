@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbGYZ9Pq4TH.md) - [plain]
 
 > Le canzoni italiane più romantiche di sempre ❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,138 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,161 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbGYZ9Pq4TH.md) - [plain]
 | 99 | [Blu \(feat\. Elisa\)](https://open.spotify.com/track/0Q4v8N758nx98YxObfqkNC) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23) | [Dove Gli Occhi Non Arrivano](https://open.spotify.com/album/6qLE8gO2SSYOFv03GaxxHi) | 2:45 |
 | 100 | [Rapide](https://open.spotify.com/track/2cf1g08CvDuhwXFqxjetQi) | [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd) | [Rapide](https://open.spotify.com/album/40tgSHlPNeumzdzLxaN9xC) | 4:03 |
 
-Snapshot ID: `MCxkZTEyZDkzMGNlZDI0OWI1NjdlZTA4ZDE5YTNjZjhiYzc5YTdjZjgy`
+Snapshot ID: `MCxhNWNlYjNlMjk4OGRmMWNhNzFhZWE1YjJlZDUwN2UzMmJmYzUwOWUx`

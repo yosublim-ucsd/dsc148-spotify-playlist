@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Q6G4VDGLq.md) - [plain]
 
 > Dulce jazz ideal para estudiar o relajarse.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,957 likes - 700 songs - 1 day 17 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,972 likes - 700 songs - 1 day 17 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -709,4 +709,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Q6G4VDGLq.md) - [plain]
 | 699 | [Danny´s Dream](https://open.spotify.com/track/5X7wI6LqZfnp6XGYRSktPo) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [If You Could See Me Now](https://open.spotify.com/album/6zyhwDtl3VvpjMUksJQMDl) | 3:34 |
 | 700 | [In the Blue of Evening](https://open.spotify.com/track/3a55Ev3zFKc3P3cNgCUGoq) | [Asi Kaplan Jazz Band](https://open.spotify.com/artist/2bQxNPjJdj06cHr6CWLjaO) | [In the Blue of Evening](https://open.spotify.com/album/0iOgj7a3X8cteCh1RrJbOr) | 5:50 |
 
-Snapshot ID: `MCwzOGY2YmIxMmNiOTUxNTNlMzAxYWZmODNiNzhmNmIxOTFmOTNmNzJj`
+Snapshot ID: `MCxlMTdiMWQzNzY0Y2I0ZDc1NTBiMmFmNGFjNzExYmE3NzBmODdhZTI4`

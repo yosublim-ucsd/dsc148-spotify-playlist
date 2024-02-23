@@ -4,7 +4,7 @@
 
 > Rap napoletano e il meglio della scena campana\. Geolier in cover.
 
-288 songs - 13 hr 23 min
+289 songs - 13 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [COME VUOI](https://open.spotify.com/track/5x9LonDyHxGUO2VzfHJHLE) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [IL CORAGGIO DEI BAMBINI](https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K) | 2:52 | 2023-01-12 |  |
 | [CREATUR](https://open.spotify.com/track/3x3zzu71pDb02u6bOtTDvh) | [Pit](https://open.spotify.com/artist/5dO2ChPqNYjEyy3wXA5R0A) | [CREATUR](https://open.spotify.com/album/3HPRHm1cSto7dT0mhzFEB4) | 2:37 | 2023-06-01 | 2023-06-15 |
 | [Cuore](https://open.spotify.com/track/0d16j8Dro7bPysTqCC41gx) | [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Cuore](https://open.spotify.com/album/2QuV4BJfv91iB4alvddypY) | 3:22 | 2022-06-23 | 2022-11-18 |
-| [Cuore Rotto](https://open.spotify.com/track/5qAMsFqClevxs2nuZbReDW) | [Noisys](https://open.spotify.com/artist/6H5GGtS0sPeHTZjS5q70D7) | [Cuore Rotto](https://open.spotify.com/album/5BXkveR4dh0YJpV75rtPNY) | 2:46 | 2022-05-10 |  |
+| [Cuore Rotto](https://open.spotify.com/track/5qAMsFqClevxs2nuZbReDW) | [Noisys](https://open.spotify.com/artist/6H5GGtS0sPeHTZjS5q70D7) | [Cuore Rotto](https://open.spotify.com/album/5BXkveR4dh0YJpV75rtPNY) | 2:46 | 2022-05-10 | 2024-02-23 |
 | [Dahmer](https://open.spotify.com/track/0gfbR7L5IfFNmVK5b0OpqK) | [SHYGUY.OG](https://open.spotify.com/artist/5OGilC8ZDq4jiufxRylb0X) | [Dahmer](https://open.spotify.com/album/5dC6fpDZGiLrgGVM2ovFff) | 1:27 | 2023-04-27 | 2023-05-05 |
 | [Dedication \(con Geolier & anice\)](https://open.spotify.com/track/24xrkSLeA7Y6Ypb4ZSXwJ2) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [anice](https://open.spotify.com/artist/0Sf5IqezdIhXjKogXm0Nad) | [Botox](https://open.spotify.com/album/1CjtjrWyjx2eT5OejciTVr) | 3:03 | 2022-09-15 | 2023-01-06 |
 | [Desaparecidos \(feat\. Geolier\)](https://open.spotify.com/track/1kcwsO1ptrEMXsHtcIGPjI) | [Clementino](https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [Black Pulcinella](https://open.spotify.com/album/44BqX1Kc6bSgUb3SvWF0k6) | 3:12 | 2022-05-10 | 2022-09-16 |
@@ -218,6 +218,7 @@
 | [PUORTEM RISPETT](https://open.spotify.com/track/0dT9EbREPPOhKlGTPN377A) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY) | [FEDE](https://open.spotify.com/album/2eV25SPEQ57dzp4Qs9FonT) | 3:25 | 2023-04-27 | 2023-05-19 |
 | [QUANNO ME NE SO JUTO, Pt\. II](https://open.spotify.com/track/0ZgM3SJ7xdLr0fj0l7lHN9) | [Kunta](https://open.spotify.com/artist/2yJDUGrAgtX7NyJ1RULAnX) | [QUANNO ME NE SO JUTO, Pt\. II](https://open.spotify.com/album/7tAZQpjOq08v3WE2IoEK3b) | 3:01 | 2023-04-13 | 2023-05-05 |
 | [RA SUL](https://open.spotify.com/track/0pwcRVxksO8iEAXjWsTd71) | [Vettosi](https://open.spotify.com/artist/0GaXpJSu3Ka0RPEVa35VPg), [Ceru167](https://open.spotify.com/artist/3XpabuerK4UATrLQKdE8S3) | [RA SUL](https://open.spotify.com/album/1ACfQpoG9EyNkg5yt8VyFD) | 2:28 | 2022-12-08 | 2023-01-13 |
+| [Realness](https://open.spotify.com/track/7bq0EaS7UDPUQGQTx0jeHn) | [Cecchy](https://open.spotify.com/artist/2yLVjmzpKCw0B7SKpWeZjN) | [Realness](https://open.spotify.com/album/6WvpHmaySTeQGPLhRrVAiq) | 2:18 | 2024-02-22 |  |
 | [REPLAY \(feat\. CLARA\)](https://open.spotify.com/track/7kpOVh9aXFebATgVR5HGg7) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [REPLAY \(feat\. CLARA\)](https://open.spotify.com/album/7zaIi38D3my8g10sIkaadq) | 2:44 | 2023-09-28 | 2023-12-01 |
 | [Revenge \(feat\. Enzo Dong\)](https://open.spotify.com/track/5juO5QlcUYCwDEm8KG7V1x) | [Clementino](https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3), [Enzo Dong](https://open.spotify.com/artist/7iCdyOeJYk06mKJ6nLrFQ6), [endly](https://open.spotify.com/artist/1cqb0IqRUO8HCpKFdMsdvI) | [Black Pulcinella](https://open.spotify.com/album/44BqX1Kc6bSgUb3SvWF0k6) | 3:09 | 2022-05-10 | 2022-09-02 |
 | [RFTS 2 \(Freestyle\)](https://open.spotify.com/track/0bhvxnFCiCm4p2iEdt2b5u) | [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn) | [RFTS 2 \(Freestyle\)](https://open.spotify.com/album/2cgpTKFKtfQ52DYZnV6qJG) | 2:21 | 2022-05-10 | 2022-05-13 |

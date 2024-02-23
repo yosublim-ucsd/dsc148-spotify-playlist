@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Die nuutste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/0StQwxwrKk0iUBg0u0YF9C?si=I-tG_QFVRSePrJqo6TjtrQ\">Wentzel</a>  ",
+  "description": "Die nuutste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS?si=GZaYZwMBRbasLH7vauDTtw\">Die Piesangskille</a>  ",
   "name": "Nuwe Afrikaans",
   "tracks": [
     {
@@ -396,6 +396,24 @@
       "duration_ms": 222582,
       "name": "Alles",
       "url": "https://open.spotify.com/track/6AfAYZSP09RMPqCVzyVAMj"
+    },
+    {
+      "album": {
+        "name": "Alles",
+        "url": "https://open.spotify.com/album/20G0kRU1BmTXfVBPlYT18T"
+      },
+      "artists": [
+        {
+          "name": "X_C_Xreece",
+          "url": "https://open.spotify.com/artist/5K7YIVq5HTLQROahka7QyZ"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162951,
+      "name": "Alles",
+      "url": "https://open.spotify.com/track/30IwHv0WYeEw4dypaVefHS"
     },
     {
       "album": {
@@ -932,7 +950,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 264000,
       "name": "Baby Fourie",
       "url": "https://open.spotify.com/track/241w9ZhajUhUxkHq13EKDe"
@@ -1981,6 +1999,24 @@
     },
     {
       "album": {
+        "name": "B\u00eare My",
+        "url": "https://open.spotify.com/album/7zaYBzMadcoUXaM2C6BAZx"
+      },
+      "artists": [
+        {
+          "name": "Neil Nachtrein",
+          "url": "https://open.spotify.com/artist/4BzXDRscCSZ0cgLq8SRzZr"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "B\u00eare My",
+      "url": "https://open.spotify.com/track/1pvM20tnPgbA6FbGc5AlH8"
+    },
+    {
+      "album": {
         "name": "C'est La Vie",
         "url": "https://open.spotify.com/album/6rwHalenFvXv3J6H2xj3MQ"
       },
@@ -2766,7 +2802,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 221492,
       "name": "Die Lewensdans",
       "url": "https://open.spotify.com/track/07ZMTaapq9ym7qIxCNelv9"
@@ -2860,7 +2896,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 215040,
       "name": "Die Oorlog",
       "url": "https://open.spotify.com/track/3NXF0spCulopYTBblc8zqf"
@@ -3055,6 +3091,24 @@
     },
     {
       "album": {
+        "name": "Diepseeduiker 17",
+        "url": "https://open.spotify.com/album/3f4di9rXmSluZdoknKpgpz"
+      },
+      "artists": [
+        {
+          "name": "Die Piesangskille",
+          "url": "https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165149,
+      "name": "Diepseeduiker 17",
+      "url": "https://open.spotify.com/track/2gQutDwmbRbdTi23qqBlsu"
+    },
+    {
+      "album": {
         "name": "DieVeilingPitCrew",
         "url": "https://open.spotify.com/album/7hFI51vZlEWWpjMogVbFU2"
       },
@@ -3142,6 +3196,24 @@
       "duration_ms": 213214,
       "name": "Dis Raak",
       "url": "https://open.spotify.com/track/4lXuqZUIkJ66ViPHOFN86v"
+    },
+    {
+      "album": {
+        "name": "Dis Wat Liefde Is",
+        "url": "https://open.spotify.com/album/1garcPSs9fJT45SKkiKUUD"
+      },
+      "artists": [
+        {
+          "name": "Nadine Blom",
+          "url": "https://open.spotify.com/artist/4xdhhxjDnqlTtI5uIEN2Sd"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Dis Wat Liefde Is",
+      "url": "https://open.spotify.com/track/3gS3m6j5TSUs6SnXIJcEPS"
     },
     {
       "album": {
@@ -3248,6 +3320,24 @@
       "duration_ms": 198471,
       "name": "Ditjies & Datjies",
       "url": "https://open.spotify.com/track/1PILq0KMOWhfXaP7eqmS95"
+    },
+    {
+      "album": {
+        "name": "DJ Vellies",
+        "url": "https://open.spotify.com/album/1yOhNTTjRGT0c5EbGxUiyX"
+      },
+      "artists": [
+        {
+          "name": "Johan Eloff",
+          "url": "https://open.spotify.com/artist/1Jx7eKfGOZi0LyBhRf3onk"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196270,
+      "name": "DJ Vellies",
+      "url": "https://open.spotify.com/track/4BLNJlLa0W57EuLl37sB1y"
     },
     {
       "album": {
@@ -3613,6 +3703,24 @@
     },
     {
       "album": {
+        "name": "Ek Mis Jou (Remix)",
+        "url": "https://open.spotify.com/album/3um8Q9pJybmjzkgZ8EWvFc"
+      },
+      "artists": [
+        {
+          "name": "Rohan Britz",
+          "url": "https://open.spotify.com/artist/7umJ5LzbtNl0EGYiVEzzeo"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215624,
+      "name": "Ek Mis Jou - Remix",
+      "url": "https://open.spotify.com/track/2usZ51LNLgkrlTxNjLiLBu"
+    },
+    {
+      "album": {
         "name": "Ek Moes Dit Ges\u00ea Het",
         "url": "https://open.spotify.com/album/5lucuqI53Ku3ukgOCy3PAg"
       },
@@ -3646,6 +3754,28 @@
       "duration_ms": 193407,
       "name": "Ek Probeer",
       "url": "https://open.spotify.com/track/1ixBQMO19n3eXRsSgaQFR2"
+    },
+    {
+      "album": {
+        "name": "Ek Soek Nogsteeds Vir Jou (Awd Remix)",
+        "url": "https://open.spotify.com/album/6c3a4QMcmYlVcyNTWRrFGL"
+      },
+      "artists": [
+        {
+          "name": "Murphy",
+          "url": "https://open.spotify.com/artist/2O6u7Ltcg0MNq4Uh2C8NdQ"
+        },
+        {
+          "name": "Afrikaans Wil Dans",
+          "url": "https://open.spotify.com/artist/0izyicZrCh95ouk1VWn59M"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228750,
+      "name": "Ek Soek Nogsteeds Vir Jou (Awd Remix)",
+      "url": "https://open.spotify.com/track/3fRBDFhOOtVJmEmMAkWdGe"
     },
     {
       "album": {
@@ -4223,6 +4353,24 @@
     },
     {
       "album": {
+        "name": "Dis GG Baby",
+        "url": "https://open.spotify.com/album/43JIs9wHeTUeH5eDnCTNeZ"
+      },
+      "artists": [
+        {
+          "name": "Groot Geraas",
+          "url": "https://open.spotify.com/artist/22mvNtn2L9hIK5vyVKL9ZC"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233200,
+      "name": "GG Baby",
+      "url": "https://open.spotify.com/track/2m092k8A0GyeAaxtcZsCOU"
+    },
+    {
+      "album": {
         "name": "Gister Is Vandag Se Gewete",
         "url": "https://open.spotify.com/album/7qsoPGoW46cvRpMzabHLIW"
       },
@@ -4368,6 +4516,24 @@
       "duration_ms": 225620,
       "name": "Grondpad (Remix)",
       "url": "https://open.spotify.com/track/517fb3CYQCiAPhuL8VvlcT"
+    },
+    {
+      "album": {
+        "name": "Gunsteling",
+        "url": "https://open.spotify.com/album/15adHcjsSuyeFLVjFxWFRI"
+      },
+      "artists": [
+        {
+          "name": "Werner Olckers",
+          "url": "https://open.spotify.com/artist/0uGoWMIEm56ThYr7kIW4VG"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159846,
+      "name": "Gunsteling",
+      "url": "https://open.spotify.com/track/53BCDRTJQ2PM8J3xZoRNDq"
     },
     {
       "album": {
@@ -4928,7 +5094,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 191702,
       "name": "HMFYL",
       "url": "https://open.spotify.com/track/6xQk1YovGUFio85aMtF4IL"
@@ -5126,7 +5292,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 219533,
       "name": "Hou My Vas",
       "url": "https://open.spotify.com/track/2VJnU2XlS3UDTjD3abBLuM"
@@ -5659,6 +5825,24 @@
     },
     {
       "album": {
+        "name": "Jannie",
+        "url": "https://open.spotify.com/album/5Ucunlmz0JUrquuVRSVhZr"
+      },
+      "artists": [
+        {
+          "name": "Kris Ray",
+          "url": "https://open.spotify.com/artist/7BM3anHU7hBCgXATgWesbN"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215609,
+      "name": "Jannie",
+      "url": "https://open.spotify.com/track/5lee2SjlYo2ra1oweVA6w7"
+    },
+    {
+      "album": {
         "name": "Jannie Bloemfontein",
         "url": "https://open.spotify.com/album/25Ar72ANXBJmlwYqh56d8u"
       },
@@ -5980,7 +6164,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 178151,
       "name": "kaal",
       "url": "https://open.spotify.com/track/62SCKkR81lIvq39QJIkMcD"
@@ -6566,7 +6750,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 191103,
       "name": "Klop Uit Die Hemel",
       "url": "https://open.spotify.com/track/4IBdZJlEPk7r4z0cas1uud"
@@ -7615,6 +7799,24 @@
     },
     {
       "album": {
+        "name": "Liewe Lulu",
+        "url": "https://open.spotify.com/album/0O4avMqb6IuHCwKkRbLbhx"
+      },
+      "artists": [
+        {
+          "name": "Christiaan Baartman",
+          "url": "https://open.spotify.com/artist/5egE9ZcFwzNSANzupQrcYQ"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214487,
+      "name": "Liewe Lulu",
+      "url": "https://open.spotify.com/track/27qmSe0uQBRIdq73pGAEk8"
+    },
+    {
+      "album": {
         "name": "Lig Die Dak",
         "url": "https://open.spotify.com/album/5YRe8s8smoWsA1eNPtB82k"
       },
@@ -8012,7 +8214,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 184506,
       "name": "Meer as Liefde",
       "url": "https://open.spotify.com/track/1QcqjIDq9rDjDMEcytNDBr"
@@ -9588,7 +9790,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 211193,
       "name": "Ons Sal Dans",
       "url": "https://open.spotify.com/track/1tXBAXCekOEaM4FF5LtpBC"
@@ -10537,6 +10739,28 @@
     },
     {
       "album": {
+        "name": "Romy (feat. Rocco de Villiers)",
+        "url": "https://open.spotify.com/album/4hivQs3sKSc966jlGG0swU"
+      },
+      "artists": [
+        {
+          "name": "Steve Hofmeyr",
+          "url": "https://open.spotify.com/artist/3XYaWzAVTUeNetMigezvS5"
+        },
+        {
+          "name": "Rocco De Villiers",
+          "url": "https://open.spotify.com/artist/17a0tmrvsBt77bE5048xjx"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227472,
+      "name": "Romy (feat. Rocco de Villiers)",
+      "url": "https://open.spotify.com/track/7n354KICGrpex4V5skxmE8"
+    },
+    {
+      "album": {
         "name": "Rooi Bos",
         "url": "https://open.spotify.com/album/0CzF8nPiQS2Vr0JSZXands"
       },
@@ -11088,7 +11312,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 174437,
       "name": "Sjoe Sjoe",
       "url": "https://open.spotify.com/track/57uwZN7Nr5zoWmb9m2bsJ8"
@@ -11566,6 +11790,28 @@
       "duration_ms": 218879,
       "name": "Sonneblom (Remix)",
       "url": "https://open.spotify.com/track/1kdH7R4HnRubFiL0BzeL9l"
+    },
+    {
+      "album": {
+        "name": "Sonsak",
+        "url": "https://open.spotify.com/album/66SXh0v7gifb4ihUPeOC2B"
+      },
+      "artists": [
+        {
+          "name": "J4KES",
+          "url": "https://open.spotify.com/artist/2x24fY1ymNIm4mG5O2lc1I"
+        },
+        {
+          "name": "Henru",
+          "url": "https://open.spotify.com/artist/5DnO62BUKruSHizebx8Vhk"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155142,
+      "name": "Sonsak",
+      "url": "https://open.spotify.com/track/1GLUYqosqfhBaLvI4T3iww"
     },
     {
       "album": {
@@ -12304,7 +12550,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 225280,
       "name": "S\u00ea Dit Soos Dit Is",
       "url": "https://open.spotify.com/track/2vzct9k4Tj0iP3dMD1QfSt"
@@ -13378,7 +13624,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 157500,
       "name": "Verlief",
       "url": "https://open.spotify.com/track/00y4vxbDuviPFwiVa1Zxbe"
@@ -13760,7 +14006,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 225443,
       "name": "Voor Die Koebaai",
       "url": "https://open.spotify.com/track/7gCJas6EovZ5ET0NzJ3Vkh"

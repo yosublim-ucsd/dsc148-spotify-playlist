@@ -4,7 +4,7 @@
 
 > Músicas aconchegantes para aquecer a alma nos dias frios.
 
-274 songs - 15 hr 43 min
+275 songs - 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [31](https://open.spotify.com/track/5mJbLqzvoRio2PeuuPcUuU) | [Manu Gavassi](https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8) | [31](https://open.spotify.com/album/1zdl2g07b86asvSAFwVY6C) | 4:11 | 2024-01-05 |  |
 | [A Concert Six Months From Now](https://open.spotify.com/track/1FaXNkTPTe6k8mCCi6OVbh) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [A Concert Six Months From Now](https://open.spotify.com/album/0tivTdbZdEUeC4NvXnle3J) | 3:25 | 2022-02-18 | 2022-07-29 |
 | [A Concert Six Months From Now](https://open.spotify.com/track/41iHyE85arjIrcUQRwmATU) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Optimist \(Deluxe\)](https://open.spotify.com/album/03PDLn3kEki1c4fMa5h3Cq) | 3:25 | 2022-11-04 | 2022-11-13 |
-| [A Concert Six Months From Now](https://open.spotify.com/track/7aDIsG4RJx4THcSEMeM01x) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Optimist](https://open.spotify.com/album/3KChz6qdEH9AfHE6VCBshZ) | 3:25 | 2022-07-22 |  |
+| [A Concert Six Months From Now](https://open.spotify.com/track/7aDIsG4RJx4THcSEMeM01x) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Optimist](https://open.spotify.com/album/3KChz6qdEH9AfHE6VCBshZ) | 3:25 | 2022-07-22 | 2024-02-23 |
 | [A Little Closer \(FINNEAS Version\) \- From The “Dear Evan Hansen” Original Motion Picture Soundtrack](https://open.spotify.com/track/3tcquFqOHmSIDmhW4rH2Pn) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Dear Evan Hansen \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0yURloAyqmXCjQ1rmX0ltA) | 4:02 | 2022-02-18 | 2022-08-13 |
 | [A&W](https://open.spotify.com/track/1wTopxO5eQBpxrBXPSbsUn) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [A&W](https://open.spotify.com/album/46XKgCOOHTZkQTdiMsBxHS) | 7:13 | 2023-02-17 | 2023-04-01 |
 | [A&W](https://open.spotify.com/track/5nW4z3pfZgJAJ2QTCz9AIE) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 7:13 | 2023-03-28 |  |
@@ -55,6 +55,7 @@
 | [Crying Over You](https://open.spotify.com/track/53bCcVMGv0S2aIYvfju2Tt) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Crying Over You](https://open.spotify.com/album/53KjVSjTOJXAyJ7Fdjjhwr) | 2:58 | 2022-02-18 | 2023-11-13 |
 | [Daddy's Eyes](https://open.spotify.com/track/726mGvnRdaFnW6dmlOqTBu) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Daddy’s Eyes](https://open.spotify.com/album/1b2RyLbUMkbXb62sVIguvY) | 3:02 | 2022-10-28 | 2023-12-02 |
 | [Daylight](https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight](https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv) | 3:32 | 2023-04-17 |  |
+| [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 | 2024-02-22 |  |
 | [DEPOIS DO UNIVERSO](https://open.spotify.com/track/6T5TyMUmqcg8ZIvTDYaJ1o) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [DEPOIS DO UNIVERSO](https://open.spotify.com/album/4jsJ7WsXvoyiwYFx16MlqG) | 3:04 | 2022-10-28 |  |
 | [Devil On My Shoulder](https://open.spotify.com/track/1jLUaPGjk5zwV9kXUt4Jt1) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Devil On My Shoulder](https://open.spotify.com/album/1ZSDwevftMUQ8SqGx6clvZ) | 3:32 | 2022-02-18 | 2023-02-02 |
 | [Dinner Table](https://open.spotify.com/track/1tB3qub1zWVNQHNBibsEhK) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Dinner Table](https://open.spotify.com/album/3vchonSakoZOHdblX8GZoj) | 3:29 | 2022-04-29 | 2022-11-27 |

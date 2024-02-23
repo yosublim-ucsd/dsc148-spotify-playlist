@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 
 > We just wanna rock you all night long.
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,677 likes - 100 songs - 9 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,714 likes - 100 songs - 9 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 | 99 | [Dancing in Outer Space](https://open.spotify.com/track/0OYKPDicsx5rFpScHnWIoH) | [Atmosfear](https://open.spotify.com/artist/1DqpAdUZXDlOEUHdiawMJF) | [Dancing in Outer Space](https://open.spotify.com/album/4MF1H26SPWJ74EcEpkg11r) | 9:37 |
 | 100 | [Lypso Illusion](https://open.spotify.com/track/39A5QHG41wrR0cahFX5Y7N) | [Stephen Encinas](https://open.spotify.com/artist/1x7JcJXMdepSOPU57sQNk5) | [Disco Illusion](https://open.spotify.com/album/04rsn20RX1qNN9JMSY76P9) | 4:44 |
 
-Snapshot ID: `MCxmNzY4ZDcwZGQ0ZTFmOWI5M2JlMTFmZjZiNmI4MDAzMGY5OTRhNTkw`
+Snapshot ID: `MCw0MzNhMGVkMGNiYTNhODEwNjQzMDgyMmIxYTI5Mzc4MzUwZDljY2Uy`

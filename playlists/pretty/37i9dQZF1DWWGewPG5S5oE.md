@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: SHIN KOKAWA
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,969 likes - 50 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,992 likes - 50 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 49 | [The Great U's Train](https://open.spotify.com/track/09K7opjPdiz1VwEJCBk34v) | [桑原あい](https://open.spotify.com/artist/6ATrUDyyYVTcuJPnlafenR), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [Dear Family](https://open.spotify.com/album/49xd23XOYzPdJkPdZWUHwz) | 2:12 |
 | 50 | [Spring Kiss](https://open.spotify.com/track/6aHeGMKCgfF2UdKRqyezyh) | [Liquid Stella](https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9) | [AUTHENTIC](https://open.spotify.com/album/4f8IJ4VUGPe7S0xsLEOtIG) | 4:12 |
 
-Snapshot ID: `MCwxNDViMTM2NmMyMDBkZGI4ZjFhOWFlMTA3NDNiZThlZjU5Y2M1OGYz`
+Snapshot ID: `MCw1ZjQ4NmYzNzdjNWQ3ZjJkM2MxNWNmNWUwMmYyNjRiMmMwNTlhNmQ5`

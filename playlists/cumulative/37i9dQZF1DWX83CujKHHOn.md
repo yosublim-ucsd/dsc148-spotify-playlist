@@ -4,7 +4,7 @@
 
 > Being alone \(again\) can be tough, but these songs will keep you company.
 
-372 songs - 22 hr 58 min
+373 songs - 23 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,8 +19,8 @@
 | [All I Want](https://open.spotify.com/track/1XczdQt6RKNkEQfPqUsi3q) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [The Kodaline EP](https://open.spotify.com/album/13UF27he6juTSHhQHHjnL1) | 5:06 | 2021-12-06 | 2022-07-29 |
 | [All of Me](https://open.spotify.com/track/3r1jpjacZ2StBRHtpYcZD7) | [Katey Brooks](https://open.spotify.com/artist/0OobWT1O24A3SpQcKYjgYP) | [Revolute](https://open.spotify.com/album/05jX3gu0Xv9jWZ4nMNBE60) | 3:47 | 2022-03-25 | 2022-04-07 |
 | [All of the Stars](https://open.spotify.com/track/3SZLtkoHoECHHuOnNkNCuS) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [The Fault In Our Stars: Music From The Motion Picture](https://open.spotify.com/album/7bXOViTvx6EHXuYFuI2yfj) | 3:54 | 2021-12-06 |  |
-| [All Out of Love](https://open.spotify.com/track/6Nq8YtPAHuL1outooeiFde) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [Ultimate Air Supply](https://open.spotify.com/album/5PXeBHFjvr8EykHfFxJMje) | 4:01 | 2022-01-05 | 2024-02-10 |
-| [All Out of Love](https://open.spotify.com/track/7dQC53NiYOY9gKg3Qsu2Bs) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [Lost in Love](https://open.spotify.com/album/3fB2z5YtmKvSCu77Z3nTnW) | 4:03 | 2024-02-09 |  |
+| [All Out of Love](https://open.spotify.com/track/6Nq8YtPAHuL1outooeiFde) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [Ultimate Air Supply](https://open.spotify.com/album/5PXeBHFjvr8EykHfFxJMje) | 4:01 | 2022-01-05 |  |
+| [All Out of Love](https://open.spotify.com/track/7dQC53NiYOY9gKg3Qsu2Bs) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [Lost in Love](https://open.spotify.com/album/3fB2z5YtmKvSCu77Z3nTnW) | 4:03 | 2024-02-09 | 2024-02-23 |
 | [Almost Is Never Enough](https://open.spotify.com/track/442j8VxaB60dWf9cBFuX5w) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Nathan Sykes](https://open.spotify.com/artist/2Rf4X6m0oayCJhaJ5K63GQ) | [Yours Truly](https://open.spotify.com/album/6czdbbMtGbAkZ6ud2OMTcg) | 5:27 | 2022-05-30 |  |
 | [Almost Is Never Enough](https://open.spotify.com/track/63bo7NDoWdMFXufhsYOxwG) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Nathan Sykes](https://open.spotify.com/artist/2Rf4X6m0oayCJhaJ5K63GQ) | [Yours Truly](https://open.spotify.com/album/5xSvNPstcxHtR4ap2vvN8A) | 5:27 | 2021-12-06 | 2022-06-04 |
 | [Almost Lover](https://open.spotify.com/track/3GSYWQNnSdovwC2H8HpziA) | [A Fine Frenzy](https://open.spotify.com/artist/5dTYaRzOn4rXGBLH052EeQ) | [One Cell In The Sea](https://open.spotify.com/album/0Ot7MEgreG2R93aN42M9iK) | 4:28 | 2022-01-05 | 2022-11-13 |
@@ -259,10 +259,11 @@
 | [Sad Song \(feat\. Elena Coats\)](https://open.spotify.com/track/05CrK6Q5VGtfPDtyQFJ4Kf) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl), [Elena Coats](https://open.spotify.com/artist/76rOhzdFrZx37hyeA5cQgZ) | [Somewhere Somehow](https://open.spotify.com/album/2hc2nl6opteMmG3LCDVt0e) | 3:46 | 2022-07-08 | 2023-11-04 |
 | [Sad Song \(feat\. Elena Coats\)](https://open.spotify.com/track/7xpraKSakDJ6WWgjQEtvgT) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl), [Elena Coats](https://open.spotify.com/artist/76rOhzdFrZx37hyeA5cQgZ) | [Somewhere Somehow](https://open.spotify.com/album/1d5UvO6jHEchSbMIV0qrTM) | 3:46 | 2021-12-06 | 2022-07-29 |
 | [Sad Songs \(feat\. L Devine\) \- Stripped](https://open.spotify.com/track/2caArnpeWW955oZL6rxgbd) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6), [L Devine](https://open.spotify.com/artist/5dhyUSoGhz79WTzP39vKs4) | [Sad Songs \(feat\. L Devine\) \[Stripped\]](https://open.spotify.com/album/3L7ogksR6NT8lQqzKYs9AY) | 3:17 | 2021-12-06 | 2022-07-29 |
+| [Save Me \(with Lainey Wilson\)](https://open.spotify.com/track/30LZU3ReFIndjHLfaahreM) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ) | 3:57 | 2024-02-22 |  |
 | [Say It Again \- Acoustic](https://open.spotify.com/track/19lJcWaqc4JSFEd8ciz00g) | [Frances](https://open.spotify.com/artist/4m6VmvHDXWmVdIw6EJGQ86) | [Say It Again \(Acoustic\)](https://open.spotify.com/album/3Y0VlRmIiYtweQhIWApgaw) | 3:01 | 2021-12-06 | 2022-07-29 |
 | [Say It Again \- Acoustic](https://open.spotify.com/track/7puldW6ecGUcM3Vau6U0SD) | [Frances](https://open.spotify.com/artist/4m6VmvHDXWmVdIw6EJGQ86) | [Say It Again \(Acoustic\)](https://open.spotify.com/album/4skXIqZpJdY12tJy4KJvxV) | 3:01 | 2022-07-08 | 2022-12-06 |
 | [Say Something](https://open.spotify.com/track/6Vc5wAMmXdKIAM7WUoEb7N) | [A Great Big World](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Is There Anybody Out There?](https://open.spotify.com/album/1yOcLa4euMk9sV7rRJ89Dl) | 3:49 | 2021-12-06 |  |
-| [Say You Love Me](https://open.spotify.com/track/71AATBHZGo82EnjZnG53Zx) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Tough Love](https://open.spotify.com/album/0AQPyk27yOeG8L4KmtJ1xP) | 4:17 | 2021-12-06 |  |
+| [Say You Love Me](https://open.spotify.com/track/71AATBHZGo82EnjZnG53Zx) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Tough Love](https://open.spotify.com/album/0AQPyk27yOeG8L4KmtJ1xP) | 4:17 | 2021-12-06 | 2024-02-23 |
 | [Seen](https://open.spotify.com/track/56ybiNUE5Gim5BtlWRD40o) | [DEZI](https://open.spotify.com/artist/3X9hlPTLBIZ9pEONCQnjTm) | [Seen](https://open.spotify.com/album/4pQgKTITrIp8lNGKwNWjWg) | 3:27 | 2022-03-08 | 2022-07-29 |
 | [Selfish Heart](https://open.spotify.com/track/7hoxzqrdFj51MCuX14I2rM) | [HYLLS](https://open.spotify.com/artist/38DMab9EdBy39sL35NsFZj) | [Selfish Heart](https://open.spotify.com/album/6ZAJOlBDKvTrFpd0jMayX2) | 4:00 | 2021-12-06 | 2022-07-01 |
 | [She's Gone](https://open.spotify.com/track/1Q7HO1L7KO46VlMH8C3Abh) | [Vwillz](https://open.spotify.com/artist/0S7eN9KAsbAaIZtFyCn1q1) | [She's Gone](https://open.spotify.com/album/1TcDaA8yaW6n3h3Kb1fiuA) | 3:44 | 2021-12-06 | 2022-11-13 |

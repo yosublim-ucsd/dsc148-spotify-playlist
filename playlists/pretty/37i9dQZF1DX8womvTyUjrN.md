@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 
 > Fresh Latin pop on the rise\. Cover: Ela Taubert
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,079 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,095 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 74 | [medio vacío](https://open.spotify.com/track/68bWtlDEUAV5l0bJPUr1sr) | [Alex Wall](https://open.spotify.com/artist/4ea330FfNhtiTABdSJZthp) | [medio vacío](https://open.spotify.com/album/5WLapTTLMjeF2g1bJPcTNy) | 3:05 |
 | 75 | [no quiero olvidarte](https://open.spotify.com/track/23o6PatI0hYzKoQIOOAD3d) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP) | [no quiero olvidarte](https://open.spotify.com/album/4fVokzcFNJnOUjGposnKeb) | 3:50 |
 
-Snapshot ID: `MCw1MWM5ODI3ZWY4MTQ3NTNhNzg4NmZmMzk4ZWJkY2NkZmRmMTRhZjM3`
+Snapshot ID: `MCwwYmNjMGI2YmNkZmRjYzI0MjA4NDhhZWY5MjUyZWFmZGJmOGRiYTIz`

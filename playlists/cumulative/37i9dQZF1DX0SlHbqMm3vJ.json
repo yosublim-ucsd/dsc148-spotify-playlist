@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "A collection R&B and Afropop cuts from West Africa\u2019s finest artists. Cover: Yaadman FKA Yung L ",
+  "description": "A collection R&B and Afropop cuts from West Africa\u2019s finest artists. Cover: Boy Spyce",
   "name": "Ginger Me",
   "tracks": [
     {
@@ -352,6 +352,24 @@
       "duration_ms": 154666,
       "name": "Alive",
       "url": "https://open.spotify.com/track/3a1aICYwrm7nwHfFT9Aomm"
+    },
+    {
+      "album": {
+        "name": "All I Want",
+        "url": "https://open.spotify.com/album/61hib8ajgCzIBhNoNsJvUe"
+      },
+      "artists": [
+        {
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175187,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/34oVCWxvzVR1sJNbCEMoEC"
     },
     {
       "album": {
@@ -2349,6 +2367,24 @@
     },
     {
       "album": {
+        "name": "Distance",
+        "url": "https://open.spotify.com/album/1mzN3IVisdj5OSEkVW0rD3"
+      },
+      "artists": [
+        {
+          "name": "Funbi",
+          "url": "https://open.spotify.com/artist/2ZvhA3s4Jwbcce62lzGEGX"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176700,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/5CqoCjBdBTTsVrf6aZOP3t"
+    },
+    {
+      "album": {
         "name": "DKT",
         "url": "https://open.spotify.com/album/3zu38j0czgA5doZyGPnfMd"
       },
@@ -3415,6 +3451,24 @@
     },
     {
       "album": {
+        "name": "Friends",
+        "url": "https://open.spotify.com/album/6sgJbJLPVdIEMOw1xVivHN"
+      },
+      "artists": [
+        {
+          "name": "Dayonthetrack",
+          "url": "https://open.spotify.com/artist/7vsaQwuPAG2PSWPVitnXrc"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/0n01Jo84IjPVepCtZ6ZFnr"
+    },
+    {
+      "album": {
         "name": "Madina to the Universe",
         "url": "https://open.spotify.com/album/4q2dTArxnUt4hiWxXK0xPW"
       },
@@ -3732,7 +3786,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 156734,
       "name": "Heavy Rotation",
       "url": "https://open.spotify.com/track/7m3Udvtkx3DsFmpCPpyhLh"
@@ -4027,6 +4081,24 @@
     },
     {
       "album": {
+        "name": "I Don't Care",
+        "url": "https://open.spotify.com/album/5CQmHT9zoHQnwvfvP6tEYg"
+      },
+      "artists": [
+        {
+          "name": "Boy Spyce",
+          "url": "https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166750,
+      "name": "I Don't Care",
+      "url": "https://open.spotify.com/track/5vNL6mCfgM4SzLB7xy4KXa"
+    },
+    {
+      "album": {
         "name": "Sounds of My World (Deluxe)",
         "url": "https://open.spotify.com/album/3enpMKYHm54sPooLM6heYY"
       },
@@ -4156,7 +4228,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-09",
+      "date_removed": null,
       "duration_ms": 224000,
       "name": "I Wish (feat. Libianca) - Acoustic",
       "url": "https://open.spotify.com/track/4PFWe1UG9f3RFbjVH9644c"
@@ -5314,7 +5386,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 186666,
       "name": "Lockdown 2.0 (feat. Camidoh)",
       "url": "https://open.spotify.com/track/1yp4jq7tC4Cbn95nqD8BDW"
@@ -5336,7 +5408,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 174178,
       "name": "Look What You Made Me Do (with Simi)",
       "url": "https://open.spotify.com/track/5a314dyLzz8YyFTFjd8X6w"
@@ -6970,7 +7042,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 176000,
       "name": "Ordinary Love",
       "url": "https://open.spotify.com/track/27oYvDzSpwNDNojFdUD7LZ"
@@ -7434,7 +7506,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 166950,
       "name": "PrEttY Like",
       "url": "https://open.spotify.com/track/2lgeehwv2ThyBEQ8kHKFCn"
@@ -8372,7 +8444,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 208695,
       "name": "Smile For Me - Acoustic Version",
       "url": "https://open.spotify.com/track/3kLRL0oEwf04wmvZtnQrsU"

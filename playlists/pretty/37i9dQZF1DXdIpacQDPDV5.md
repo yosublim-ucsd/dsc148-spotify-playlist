@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 
 > The best of today's dance hits\. Cover: WHIPPED CREAM
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,658 likes - 65 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,681 likes - 65 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 64 | [Lost In Mumbai](https://open.spotify.com/track/3WZDLEcdZXE0TtLYrbJmmH) | [Apashe](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN), [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [Lost In Mumbai](https://open.spotify.com/album/641ITlNYNF5fjZUoWM97yC) | 3:00 |
 | 65 | [Where Does The Light Go](https://open.spotify.com/track/1ISIClvWD9oMrOL5BLBoal) | [ORACLE](https://open.spotify.com/artist/3gZrJ9QnqxKlSdZAkT54aF), [Holochrome](https://open.spotify.com/artist/4J8ZCyRxfI3y0mqQhfmGbQ) | [Where Does The Light Go](https://open.spotify.com/album/10fHBAh5NqGghBoiBGTiz3) | 3:42 |
 
-Snapshot ID: `MCw4YWE0NTY2YjdhYjc4ZTUxNzgyOGQyY2IyM2U1OWMwNjc5MjE0YmI5`
+Snapshot ID: `MCxiMjI1NmMyMjM0ODQ1NWE2YTM3ZGEzNDY0NmZlM2NmMGZmY2VjZjdh`

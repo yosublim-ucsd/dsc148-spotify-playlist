@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hmlhGsyxU0.md) - [plain]
 
 > Strings and pianos to accompany your latest great read.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,424 likes - 63 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,476 likes - 63 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hmlhGsyxU0.md) - [plain]
 | 62 | [Musica Desolata](https://open.spotify.com/track/3Yxr6ErXlxOZlKpHopaOZ4) | [Alexei Aigui](https://open.spotify.com/artist/5LaWJYIJaRFtx0HbieOTE5), [Arkady Marto](https://open.spotify.com/artist/2EgSk5VfvU0eFTdX3J7tWx) | [Musica Desolata](https://open.spotify.com/album/6d2zEv374iiL8FmTRbuklB) | 4:44 |
 | 63 | [Perceptions](https://open.spotify.com/track/5JOtNkA1yyV0dreSnmbLGT) | [Sebastian Zawadzki](https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH) | [Spirituality](https://open.spotify.com/album/6A5tIdJUuOGiuRnXpbvTtk) | 2:53 |
 
-Snapshot ID: `MCxhZGQ2NTIyNmU2NzYxY2UyZjFjN2ZhNDBiYThmOGU0OGIyOTFhN2Uw`
+Snapshot ID: `MCw3OGMwMWViMzgyYmUxMjE5MDJhZjNjNTQxODZhYmYxODQ1NmFjMzNk`

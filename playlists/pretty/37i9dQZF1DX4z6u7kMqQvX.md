@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,428 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,440 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 | 99 | [Romance Con la Luna](https://open.spotify.com/track/5cTIKVnQPW1qW7LioXEilJ) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [Romance Con la Luna](https://open.spotify.com/album/035K8wr5lzZSvkYIUfb781) | 2:51 |
 | 100 | [Nosotros Dos](https://open.spotify.com/track/2dX6OVcDAYCjopRIoQalKQ) | [Cítrico](https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9), [Goyo Degano](https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf) | [Nosotros Dos](https://open.spotify.com/album/2u8lXaejQL4N9yhOeLdspj) | 4:06 |
 
-Snapshot ID: `MCwyMDI4ZmI0MzEwZjI1NWUyM2MzN2YzYWJmMjQ2NmE1OWEwMDBjZjE4`
+Snapshot ID: `MCxhODMzODEyMzYwNTZjYjJlNDMzYzYwMzY1YTdjOTdmNDFiYmM1ZDFl`

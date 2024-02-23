@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YSRoSdA634.md) - [plain]
 
 > Having a bad day? We know how it feels!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,051,689 likes - 200 songs - 12 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,052,073 likes - 200 songs - 12 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YSRoSdA634.md) - [plain]
 | 199 | [Too Sad To Cry](https://open.spotify.com/track/3CRtbOoAP82y0VbPO5j1ft) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Self Portrait](https://open.spotify.com/album/5UZriQSHZOJOjqUtPE5lpg) | 3:28 |
 | 200 | [No Peace](https://open.spotify.com/track/5ZX1X9Rl4zbx1Wwyn3idVD) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ) | 4:43 |
 
-Snapshot ID: `MCxiZjZkNjM0MjcxNDUzNmQ3YWY5NjE0ZGI5MDlkYzM5ZWE1NTI5NTdi`
+Snapshot ID: `MCxkYmI1OWE5MmFiZjlhNmYxNmU2YjAxYWZmNzViNTE5ODg2ODI4NzNh`

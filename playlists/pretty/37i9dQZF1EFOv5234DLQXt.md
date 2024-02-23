@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOv5234DLQXt.md) - [plain]
 | 13 | [Un Misil En Mi Placard \- MTV Unplugged](https://open.spotify.com/track/7IJC1qatyg2t8SZiwJRvID) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Comfort Y Musica Para Volar](https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8) | 4:34 |
 | 14 | [Zoom \- Remasterizado 2007](https://open.spotify.com/track/1djou52IdL1mVEE7gTauxo) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Sueño Stereo \(Remastered\)](https://open.spotify.com/album/1A3VRbn7Kto2ov0LkSY0eg) | 3:26 |
 | 15 | [Me Quedo Aquí](https://open.spotify.com/track/6lUBD8XA38zIFt6C0giPsP) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Ahí Vamos](https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP) | 3:37 |
-| 16 | [Cosas Imposibles](https://open.spotify.com/track/7be5IEj6GYti0jauRKODoG) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Siempre Es Hoy](https://open.spotify.com/album/46Yq9oqsaZJb9ahoMk9iVd) | 5:05 |
-| 17 | [Te Llevo para Que Me Lleves](https://open.spotify.com/track/5rGphVLnbPdyBQ5X3rjb2X) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Amor Amarillo](https://open.spotify.com/album/75onhE4ne52iMHlVcpHUKR) | 3:44 |
+| 16 | [Te Llevo para Que Me Lleves](https://open.spotify.com/track/5rGphVLnbPdyBQ5X3rjb2X) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Amor Amarillo](https://open.spotify.com/album/75onhE4ne52iMHlVcpHUKR) | 3:44 |
+| 17 | [Cosas Imposibles](https://open.spotify.com/track/7be5IEj6GYti0jauRKODoG) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Siempre Es Hoy](https://open.spotify.com/album/46Yq9oqsaZJb9ahoMk9iVd) | 5:05 |
 | 18 | [Signos](https://open.spotify.com/track/5f6FKVoc3mfhxImJBqbrPJ) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Originales \- 20 Exitos](https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n) | 5:16 |
 | 19 | [Entre Canibales \- MTV Unplugged](https://open.spotify.com/track/060aWWmC9CrLqbhzHQifQf) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Comfort Y Musica Para Volar](https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8) | 4:54 |
 | 20 | [Magia](https://open.spotify.com/track/1qxW7VuoZFyO0UQHR8XWcB) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Fuerza Natural](https://open.spotify.com/album/51wepZm3YvZfvFxiu7D5F8) | 4:28 |
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOv5234DLQXt.md) - [plain]
 | 112 | [Caravana](https://open.spotify.com/track/7xlM9YL6XDJpMhFdgRxftR) | [Relapso](https://open.spotify.com/artist/2TqxIOZGT5ir3F58WmCl4Z) | [Relapso](https://open.spotify.com/album/4i7xuNkPEWqlcBx31IKjq1) | 4:18 |
 | 113 | [Ameba](https://open.spotify.com/track/3ECr0mjuB8aN7IIlRIRlsA) | [BLACK NOUGAT](https://open.spotify.com/artist/5LkcF1aQUBHs2rJp07DBlC) | [Some Argie Rock](https://open.spotify.com/album/18NMhBWcnzfTXyNrg12Yju) | 4:27 |
 
-Snapshot ID: `Mjg0NzYxNDAsMDAwMDAwMDA3Mzc5M2FhZGJkOTg4YzBlZTQxZTNhNzBhZGU2NTU4Ng==`
+Snapshot ID: `Mjg0Nzc1ODAsMDAwMDAwMDBlZWQ4MTRlYjk0NzhjMjFkMTM1NDYxODkwOTgxMzM5ZQ==`

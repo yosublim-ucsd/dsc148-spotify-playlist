@@ -1,5 +1,5 @@
 {
-  "2024-02-22": 56326,
+  "2024-02-23": 56333,
   "date_first_scraped": "2022-07-23",
   "description": "Sometimes all you need is a fresh start. Listen to the music from, and inspired by, Virgin River, now stream on Netflix. ",
   "name": "Virgin River Official Playlist",
@@ -1341,6 +1341,24 @@
     {
       "album": {
         "name": "Drive All Night",
+        "url": "https://open.spotify.com/album/1FqGiF2jbff29yiFWQW1hN"
+      },
+      "artists": [
+        {
+          "name": "Julian Emery",
+          "url": "https://open.spotify.com/artist/4nbCme6RCJulaab14aFmqP"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206450,
+      "name": "Gonna Drive All Night",
+      "url": "https://open.spotify.com/track/5RybPdDT8hl6XKQiG2AoCG"
+    },
+    {
+      "album": {
+        "name": "Drive All Night",
         "url": "https://open.spotify.com/album/50tgVonsGallh4xTYf2myi"
       },
       "artists": [
@@ -1351,7 +1369,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 206450,
       "name": "Gonna Drive All Night",
       "url": "https://open.spotify.com/track/6Jj3j1dZQI7JWrMAwtm7yr"
@@ -2339,10 +2357,28 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 190196,
       "name": "Keep Believing",
       "url": "https://open.spotify.com/track/2jIKnU2ipSX9oxaKAI5lBC"
+    },
+    {
+      "album": {
+        "name": "Long Winding Road",
+        "url": "https://open.spotify.com/album/2iP0DlLSRz3b4lWpX0GzNo"
+      },
+      "artists": [
+        {
+          "name": "Julian Emery",
+          "url": "https://open.spotify.com/artist/4nbCme6RCJulaab14aFmqP"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190196,
+      "name": "Keep Believing",
+      "url": "https://open.spotify.com/track/56C2PCjjmPNKCCeBho5LGr"
     },
     {
       "album": {
@@ -2455,6 +2491,32 @@
     {
       "album": {
         "name": "Way Down The Road",
+        "url": "https://open.spotify.com/album/1l9ZaaCd7WLCxf4H3ljKD8"
+      },
+      "artists": [
+        {
+          "name": "Lincoln Grounds",
+          "url": "https://open.spotify.com/artist/3IvMomEciLsUnn0Kd6jtDJ"
+        },
+        {
+          "name": "Thomm Jutz",
+          "url": "https://open.spotify.com/artist/1ebv4m89CN6v5nKtG0yu2D"
+        },
+        {
+          "name": "Charley Stefl",
+          "url": "https://open.spotify.com/artist/58ESWpDuC4nPaXDJKMjVBJ"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157320,
+      "name": "Let Love",
+      "url": "https://open.spotify.com/track/6F0E9Y2eEczyVpWycDfw6O"
+    },
+    {
+      "album": {
+        "name": "Way Down The Road",
         "url": "https://open.spotify.com/album/4IeR1815fI0sK8qLz1OVNf"
       },
       "artists": [
@@ -2473,7 +2535,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 157320,
       "name": "Let Love",
       "url": "https://open.spotify.com/track/7hDCguTgcPgprkacs8z3U1"
@@ -3549,6 +3611,24 @@
     {
       "album": {
         "name": "To Be Young",
+        "url": "https://open.spotify.com/album/7zrwQQqPm60VI7yrKoi73m"
+      },
+      "artists": [
+        {
+          "name": "Tenderfoot",
+          "url": "https://open.spotify.com/artist/0cAed9YivTN7Yq2BnjRNyt"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172387,
+      "name": "So Long Pretty Baby",
+      "url": "https://open.spotify.com/track/00OSqRanWkWpYBhpNG0lAQ"
+    },
+    {
+      "album": {
+        "name": "To Be Young",
         "url": "https://open.spotify.com/album/3lXYDEXGf78jrHbshOeTsX"
       },
       "artists": [
@@ -3559,7 +3639,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 172387,
       "name": "So Long Pretty Baby",
       "url": "https://open.spotify.com/track/2rMaLemAw1DhXoyLMjKlOB"
@@ -3743,10 +3823,28 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 205272,
       "name": "Spirit Fresh",
       "url": "https://open.spotify.com/track/3NRduYCiouMXfsQD6gcmqe"
+    },
+    {
+      "album": {
+        "name": "Future Beach",
+        "url": "https://open.spotify.com/album/7762DXt6ZVJ8SjDWhQNrFg"
+      },
+      "artists": [
+        {
+          "name": "Paddy Conn",
+          "url": "https://open.spotify.com/artist/6iilscTEv9jQWydJsY4uA7"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205272,
+      "name": "Spirit Fresh",
+      "url": "https://open.spotify.com/track/4x0oniJ4CqBGa0A5RLLB4f"
     },
     {
       "album": {
@@ -4429,6 +4527,28 @@
     {
       "album": {
         "name": "Gun",
+        "url": "https://open.spotify.com/album/771xcAikeAnvvjAd2YzDHh"
+      },
+      "artists": [
+        {
+          "name": "Randall Breneman",
+          "url": "https://open.spotify.com/artist/2SPERlEqPP3E6be2ptHVHT"
+        },
+        {
+          "name": "Lincoln Grounds",
+          "url": "https://open.spotify.com/artist/3IvMomEciLsUnn0Kd6jtDJ"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167925,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/0djmnC2m6BfRZVJLtxvjwg"
+    },
+    {
+      "album": {
+        "name": "Gun",
         "url": "https://open.spotify.com/album/21zJBmYVbICYncjwAiwQSp"
       },
       "artists": [
@@ -4443,7 +4563,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 167925,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/2lBruCnqs3ZGti3zG60IKs"

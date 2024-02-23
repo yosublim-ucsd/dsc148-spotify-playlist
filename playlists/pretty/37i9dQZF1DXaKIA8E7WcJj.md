@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKIA8E7WcJj.md) - [plain]
 
 > The biggest songs of the 1960s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,068,802 likes - 150 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,069,234 likes - 150 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKIA8E7WcJj.md) - [plain]
 | 149 | [Waterloo Sunset](https://open.spotify.com/track/3G0EALIIp5DAeIERxXBHmo) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Something Else \(Deluxe\)](https://open.spotify.com/album/3n0mKh1yuR5QjX6Vm0GKj2) | 3:14 |
 | 150 | [The Tracks Of My Tears](https://open.spotify.com/track/6QyQmdvQ1ywNccYa0pwLNQ) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [Going To A Go\-Go](https://open.spotify.com/album/2NT1Pc0MXlXORHLBkHyKQW) | 2:54 |
 
-Snapshot ID: `MCw4MzkxZjJlMTRkNzMwODhiNGQ3MjUxY2MzYWYwMjk1YjIxYTk0NjU4`
+Snapshot ID: `MCw3MDJiNjFjZTEyZTg0NDgyYmQyZGEzYWQyYzRhZDBiODkzZDFmYTMy`

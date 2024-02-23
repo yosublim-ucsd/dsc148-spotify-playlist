@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 
 > Queeeima paredão! Pra forrozeiro sofrer dançando e dançar sofrendo, bora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,962 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,089 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 | 99 | [É Só Oi e Tchau](https://open.spotify.com/track/6V6Vgs8NDlYappnYAq0Syy) | [Luan Estilizado](https://open.spotify.com/artist/1tGLEVy901arulIovZtdLc) | [É Só Oi e Tchau](https://open.spotify.com/album/1cRntUVNelLM02NrKFjYhV) | 3:27 |
 | 100 | [Isca](https://open.spotify.com/track/5zdIuIo9uQ2E8ly4rypcRi) | [Jonas Esticado](https://open.spotify.com/artist/22jNvLBrXGKr4CcV2tw8Ag), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Isca](https://open.spotify.com/album/67yOV9EyBXfw1kH5xi8zrv) | 2:42 |
 
-Snapshot ID: `MCw2N2ZhNzM1ODE4MzlhNDFjNTk5N2I1OTU2YmUyOTdiZWM5Mzg1NzA4`
+Snapshot ID: `MCw4NWI4ZmYzMGQ2Nzg5OGY1YzM2YzYzYzQxMGM5NTllMDRmZDRiYzhm`

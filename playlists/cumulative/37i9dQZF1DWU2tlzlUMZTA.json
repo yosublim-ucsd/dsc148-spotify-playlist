@@ -803,6 +803,32 @@
     },
     {
       "album": {
+        "name": "Crakk - Jeetegaa Toh Jiyegaa",
+        "url": "https://open.spotify.com/album/6GYYjfTgjkKDoZMVaTSVKX"
+      },
+      "artists": [
+        {
+          "name": "Vikram Montrose",
+          "url": "https://open.spotify.com/artist/0aXLGxJ65wok0y1bVG6flg"
+        },
+        {
+          "name": "Abhinav Shekhar",
+          "url": "https://open.spotify.com/artist/7bBqAz65fp8BVnuHQTFgSQ"
+        },
+        {
+          "name": "Shekhar Astitwa",
+          "url": "https://open.spotify.com/artist/1o4gJ2P9CYruGrCXoMv36l"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144325,
+      "name": "Khel",
+      "url": "https://open.spotify.com/track/6mv8YGvDRwdYiLc5zVdFjO"
+    },
+    {
+      "album": {
         "name": "Kapoor & Sons (Since 1921) (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1teNu8WgSFQyNncvswvbAL"
       },

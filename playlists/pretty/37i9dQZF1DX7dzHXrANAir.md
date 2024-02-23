@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dzHXrANAir.md) - [plain]
 
 > The genre\-defying artists inspired by classical music\. Photo: Nils Frahm.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,029 likes - 80 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,061 likes - 80 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dzHXrANAir.md) - [plain]
 | 79 | [We Could Stay](https://open.spotify.com/track/1EBTOlVfjhxt5jipMekMZQ) | [Josin](https://open.spotify.com/artist/0QgpJAGWO61N2hgJQhW4xW), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [We Could Stay](https://open.spotify.com/album/1H2N1aTT8g9zwzD3Nqui0w) | 3:37 |
 | 80 | [Sections 1\-16](https://open.spotify.com/track/7uBH8LGTreuwZZ7fr8K6N0) | [Simeon ten Holt](https://open.spotify.com/artist/0aU7GVdY5SUzQ0dBObFK57), [Erik Hall](https://open.spotify.com/artist/32XidxH0N45E1SLV6AhJwB) | [Canto Ostinato](https://open.spotify.com/album/6nRzGIFEUCxf19vdEdZEZ5) | 12:56 |
 
-Snapshot ID: `MCw1YzIxYTkwM2ZiZjI0ZDg1NjBmZjg3YTM4NmE2NGNiOTdjMDhjYjQ2`
+Snapshot ID: `MCxlN2YxZThiNmIzN2M2MjQ3YjAzMDFiYjNlZDAwMTIwZGRlMDc3NGY4`

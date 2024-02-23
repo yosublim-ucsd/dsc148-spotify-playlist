@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PiujNwN5Yy.md) - [plain]
 
 > Sad songs just 4 you para los días tristes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,247 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,255 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PiujNwN5Yy.md) - [plain]
 | 99 | [olvídate de mí](https://open.spotify.com/track/1mc8w5UYCDHeNzAua5JxnW) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [olvídate de mí](https://open.spotify.com/album/2CQuvDLfVKcfNkzWknbVhA) | 2:57 |
 | 100 | [Amsterdam \- Versión En Español](https://open.spotify.com/track/3z452TQ2qNiuNtyn4OJSBj) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Amsterdam \(Versión En Español\)](https://open.spotify.com/album/0wAVBk6Y3crq4Oy4g2pB4w) | 3:57 |
 
-Snapshot ID: `MCxhNmFmMDQ5MmU1NzFjNjAxMDFlNTg4YTVkZjY4Y2EwYWIzYzA4ZjQ4`
+Snapshot ID: `MCw2MTY2OWMzYjI5YzlhMDc4ZjIwMjlhZDg2OGVkYjI5NWQwMTg4MGI2`

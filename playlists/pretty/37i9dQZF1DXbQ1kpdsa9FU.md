@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQ1kpdsa9FU.md) - [plain]
 
 > Everyday\. Every time\.  These are the songs you can count on\. Always.
 
-[Spotify](https://open.spotify.com/user/spotify) - 600,782 likes - 100 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 600,879 likes - 100 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQ1kpdsa9FU.md) - [plain]
 | 99 | [Into The Deep \- Live](https://open.spotify.com/track/5wkUfhKdCzHRGK7XwpMksC) | [Citipointe Worship](https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2), [Chardon Lewis](https://open.spotify.com/artist/45LYhTlK3RpgFCIvO8fMcx) | [Into The Deep \(Live\)](https://open.spotify.com/album/0VvN0tftREbwUMOBpyOOHB) | 6:28 |
 | 100 | [Cornerstone \- Live](https://open.spotify.com/track/5KTJJnSs2H1p5SaBXsG0Hb) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [David Ware](https://open.spotify.com/artist/7u4dUkbQ3gqCiVNge3xUc7) | [Cornerstone \(Live\)](https://open.spotify.com/album/6dG4VcAdbKyhBmfunMitx8) | 6:49 |
 
-Snapshot ID: `MCw2OGQxOTQ3N2E5OTQ2NDA3NzVmMGUwOTRjOTI2ZGFjMzE3MTFhZmQ3`
+Snapshot ID: `MCw2OTFkZmVkZTk3NjBkM2MzYTYxN2JjZWYwZWQ5MjgxNWY2MThkMTRl`

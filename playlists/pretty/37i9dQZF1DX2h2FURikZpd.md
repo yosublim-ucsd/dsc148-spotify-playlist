@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2h2FURikZpd.md) - [plain]
 
 > Latin gems you absolutely need to hear\. Save them before they're gone!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,581 likes - 30 songs - 1 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,592 likes - 30 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2h2FURikZpd.md) - [plain]
 | 29 | [Quién Lo Diría?](https://open.spotify.com/track/452m5ztdx9eWHArqp7Bg5Z) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY) | [Quién Lo Diría?](https://open.spotify.com/album/7xRccUSF7yzBqHH0wEN3S9) | 3:38 |
 | 30 | [Hielo](https://open.spotify.com/track/1buOWQg3BhMC5SNp1eeTPq) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [Hielo](https://open.spotify.com/album/7DLt7rMj26WSDUzGDk2B9g) | 3:04 |
 
-Snapshot ID: `MCxhNTI4Mzg3NWRiMGNkMGZmMmY1NjkyMDI4ZTkyNGFlY2UxOTQ0ZDYy`
+Snapshot ID: `MCxkMDVmZWZiYmFkZmUxNzE5NDA4M2ZkOWVlZTFlOTRhN2ZmM2IyOTc0`

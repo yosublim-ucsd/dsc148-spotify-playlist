@@ -1,8 +1,8 @@
 {
-  "2024-02-22": 2556,
+  "2024-02-23": 2905,
   "date_first_scraped": "2023-10-12",
   "description": "Listen hot and new Korean classical & new age  music in here! (Cover: Hera Hyesang Park(\ubc15\ud61c\uc0c1)) \ud55c\uad6d \ud074\ub798\uc2dd \uc74c\uc545 \ud56b & \ucd5c\uc2e0 \ud2b8\ub799\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
-  "name": "Classic.K",
+  "name": "Classic Korea",
   "tracks": [
     {
       "album": {
@@ -357,7 +357,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 741986,
       "name": "Cello Sonata for Cello and Piano in g minor, op.19 : I. Lento - Allegro moderato",
       "url": "https://open.spotify.com/track/5GhyoZUW9XdWQOrbOODnD2"
@@ -778,6 +778,24 @@
     },
     {
       "album": {
+        "name": "Hello Future (Orchestra Version)",
+        "url": "https://open.spotify.com/album/64wbFWrfJGu8mxeB64nr1X"
+      },
+      "artists": [
+        {
+          "name": "SM Classics TOWN Orchestra",
+          "url": "https://open.spotify.com/artist/5uv1gQAOE14WiuRMvqfesF"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265120,
+      "name": "Hello Future - Orchestra Version",
+      "url": "https://open.spotify.com/track/5OEMZULG7kkUTuh6WAgVm4"
+    },
+    {
+      "album": {
         "name": "Mystique",
         "url": "https://open.spotify.com/album/77QkGABj1W4jm5fQ5zCrfq"
       },
@@ -968,6 +986,28 @@
     },
     {
       "album": {
+        "name": "It's okay (Orchestra Version) - SM CLASSICS X ARTIST",
+        "url": "https://open.spotify.com/album/0WRvNg8dwyvCP0UKgyaNCg"
+      },
+      "artists": [
+        {
+          "name": "RYEOWOOK",
+          "url": "https://open.spotify.com/artist/0fwfMuz3AmWRy2pyM5fDRo"
+        },
+        {
+          "name": "SM Classics TOWN Orchestra",
+          "url": "https://open.spotify.com/artist/5uv1gQAOE14WiuRMvqfesF"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280687,
+      "name": "It's okay - Orchestra Version",
+      "url": "https://open.spotify.com/track/6YLTwDwqYnHrAK5h8PMbSL"
+    },
+    {
+      "album": {
         "name": "Debussy",
         "url": "https://open.spotify.com/album/4tYYPSmCZM2bmfrJvXAOfr"
       },
@@ -1143,6 +1183,24 @@
       "duration_ms": 216333,
       "name": "Magnolia",
       "url": "https://open.spotify.com/track/3ohdGaN55v20ZmO9pIvkty"
+    },
+    {
+      "album": {
+        "name": "Make A Wish (Birthday Song) [Orchestra Version]",
+        "url": "https://open.spotify.com/album/0fOonLfWvfoOYNaaVJyIp8"
+      },
+      "artists": [
+        {
+          "name": "SM Classics TOWN Orchestra",
+          "url": "https://open.spotify.com/artist/5uv1gQAOE14WiuRMvqfesF"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273346,
+      "name": "Make A Wish (Birthday Song) - Orchestra Version",
+      "url": "https://open.spotify.com/track/384VlAWxIQjjxoulQz0P54"
     },
     {
       "album": {
@@ -1378,6 +1436,28 @@
     },
     {
       "album": {
+        "name": "Red Flavor (Orchestra Version) - SM STATION",
+        "url": "https://open.spotify.com/album/6Fxc4F5iiG8YisFZ8gOwMY"
+      },
+      "artists": [
+        {
+          "name": "Seoul Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/4jeL1MqtTmuyNb04ZuzGR7"
+        },
+        {
+          "name": "Inyoung Park",
+          "url": "https://open.spotify.com/artist/5dLUk1Gy9zRizXEPFUUf04"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201093,
+      "name": "Red Flavor - Orchestra Version",
+      "url": "https://open.spotify.com/track/6ISvENhyKPxx13XWfzrKSp"
+    },
+    {
+      "album": {
         "name": "Remembering That Time",
         "url": "https://open.spotify.com/album/4t169pzs8XwsLblqQ1Pfhy"
       },
@@ -1459,6 +1539,24 @@
       "duration_ms": 178920,
       "name": "Sc\u00e8nes d\u2019enfants: No. 5, Jeunes filles au Jardin - Live",
       "url": "https://open.spotify.com/track/1nnnITAhUa10DROk1FhrCu"
+    },
+    {
+      "album": {
+        "name": "Sherlock (Clue + Note) [Orchestra Version]",
+        "url": "https://open.spotify.com/album/2fg7HdPCDSHdbZRXzh70RE"
+      },
+      "artists": [
+        {
+          "name": "SM Classics TOWN Orchestra",
+          "url": "https://open.spotify.com/artist/5uv1gQAOE14WiuRMvqfesF"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260325,
+      "name": "Sherlock (Clue + Note) - Orchestra Version",
+      "url": "https://open.spotify.com/track/73rDAj6Wl1JBgaKsr2qHlA"
     },
     {
       "album": {
@@ -1693,7 +1791,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 156466,
       "name": "Suite No. 2 in F Major, HWV 427: I. Adagio",
       "url": "https://open.spotify.com/track/76PT3Wp1xEYDkMFeLj5H8d"
@@ -1821,6 +1919,24 @@
       "duration_ms": 169853,
       "name": "Tosca, SC 69, Act I: Recondita armonia",
       "url": "https://open.spotify.com/track/1fPMSIOJRNZLqhEitUupuk"
+    },
+    {
+      "album": {
+        "name": "Our Beloved BoA #5 - SM STATION",
+        "url": "https://open.spotify.com/album/2qCFU2r5sHsVlffK3mclJs"
+      },
+      "artists": [
+        {
+          "name": "SM Classics TOWN Orchestra",
+          "url": "https://open.spotify.com/artist/5uv1gQAOE14WiuRMvqfesF"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269013,
+      "name": "Tree - Orchestra Version",
+      "url": "https://open.spotify.com/track/4Jd92aiHEfyHSf8IGlO9Ay"
     },
     {
       "album": {
@@ -2051,7 +2167,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 198524,
       "name": "We Contain Multitudes",
       "url": "https://open.spotify.com/track/4SrMWTrs3io7FJXAHSo43c"

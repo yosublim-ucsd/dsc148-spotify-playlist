@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 
 > Take a break from distorted guitars and enjoy punk's mellow side\. Cover: Avril Lavigne
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,289 likes - 75 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,325 likes - 75 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 | 74 | [The Eulogy of You and Me \- Acoustic](https://open.spotify.com/track/4TiXtzotMUHwn8ylMowMNl) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f) | [The Eulogy of You and Me \(Acoustic\)](https://open.spotify.com/album/7LkoDMiD7dXSQF6tyYt6OR) | 3:11 |
 | 75 | [End of an Era \(Acoustic\)](https://open.spotify.com/track/1MOdasYTTObANkLfUkcDtF) | [Summer Wars](https://open.spotify.com/artist/0G96TkItgnb79cFLnUbdhy) | [End of an Era \(Acoustic\)](https://open.spotify.com/album/4Q2OTj4MBIT5aqEuu3tj4A) | 3:33 |
 
-Snapshot ID: `MCxjZjVhNDFjNDdjMjRkMjNjNTFlNmZiM2Y3ZTg3ZjQ5OTI5NThjNDE5`
+Snapshot ID: `MCw3MTg5NThiMWVkODE1ZjRjMjMwNDBlOTQwNTVjZjYwMTJkYjQ1YjU0`

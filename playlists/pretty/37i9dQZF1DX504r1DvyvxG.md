@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX504r1DvyvxG.md) - [plain]
 
 > Kick back with a collection of iconic and new acoustic tracks with that classic feel\. Cover: George Harrison
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,652,842 likes - 100 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,652,902 likes - 100 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX504r1DvyvxG.md) - [plain]
 | 99 | [Maggie May \- Remastered Version](https://open.spotify.com/track/1r3kj1yMff7ilIsR7hpvUo) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [The Definitive Rod Stewart](https://open.spotify.com/album/16B8kK28QgKIYTb7XyLMuj) | 5:45 |
 | 100 | [Where Do You Go To \(My Lovely\) \- Re\-Recorded](https://open.spotify.com/track/6M665tf7ZKQzUFA5yOrUE4) | [Peter Sarstedt](https://open.spotify.com/artist/3ExGDjEKejMhyciAgxPe0B) | [The Lost Album](https://open.spotify.com/album/68it2FTN3u7cMWuHR4yYpu) | 4:47 |
 
-Snapshot ID: `MCwyNThlZjhjNDA2MTdjOWNkMWJjMjNjN2IxNjA0OTNkOTdhYjVjNGNj`
+Snapshot ID: `MCw2NTQzYmJmNzU0NzA1NGVhNmM2MDc1NThhMmI2MTA4NmQ1NTYyYTNk`

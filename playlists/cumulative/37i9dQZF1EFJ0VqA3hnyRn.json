@@ -663,6 +663,24 @@
     },
     {
       "album": {
+        "name": "BIRTHDAY DANCE",
+        "url": "https://open.spotify.com/album/5xiibvMpHtyR7YjZbl0arD"
+      },
+      "artists": [
+        {
+          "name": "Josh Levi",
+          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160310,
+      "name": "BIRTHDAY DANCE",
+      "url": "https://open.spotify.com/track/6ZEfk4fuYEBBDuplPsH5Gn"
+    },
+    {
+      "album": {
         "name": "Special",
         "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
       },

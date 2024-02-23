@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHIYChxh9sq.md) - [plain]
 
 > Música en vivo de tus artistas favoritos del Regional Mexicano\. Portada: Grupo Recluta y Adrian Chaparro
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,057 likes - 150 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,084 likes - 150 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHIYChxh9sq.md) - [plain]
 | 149 | [El Flaquito](https://open.spotify.com/track/5DzZO7t61t9gihMcwVfkNK) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Banda Punto Medio](https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP) | [¿Será Prudente Jalar La Banda?](https://open.spotify.com/album/0KGUDXu3WiMAd4jkhg16G3) | 2:22 |
 | 150 | [Aquí en Mi Corazón Tú Mandas](https://open.spotify.com/track/7nViwkptvpQTzpGN5DEAiU) | [Lilo Bermudez](https://open.spotify.com/artist/5bES419H93yPwH6fzmrlDa) | [Aquí en Mi Corazón Tú Mandas \(En Vivo\)](https://open.spotify.com/album/5oN8kpQItso4HSZCZ3zc5c) | 2:08 |
 
-Snapshot ID: `MCwyN2UyNzVlMmMzOWI1NDlkMDAzNmMxZmRlNzNlZjNjYmI0M2ZmYjU2`
+Snapshot ID: `MCxmZWRmMzkyODUzNzdkYzQxMzYzMGExNGY2MGE0ZWYyODZiYjMxZGRm`

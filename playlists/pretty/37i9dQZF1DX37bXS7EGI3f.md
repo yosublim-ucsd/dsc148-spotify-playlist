@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 
 > Epic and melodic metal\. Cover: Within Temptation
 
-[Spotify](https://open.spotify.com/user/spotify) - 762,526 likes - 80 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 762,621 likes - 80 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 79 | [Cicada](https://open.spotify.com/track/28Npl9mDDanrITQV8NNe2A) | [Blackbriar](https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI) | [Cicada](https://open.spotify.com/album/0s6oyS1Qbf3dJjyBgtWa2x) | 4:31 |
 | 80 | [Call of the North](https://open.spotify.com/track/4BS6jSRHgqNjL1eSlokBBd) | [Frozen Crown](https://open.spotify.com/artist/6hbGneO1qRnmz6xflK4n8E) | [Call of the North](https://open.spotify.com/album/4w7w5ZXaUSAqY6qot06f5t) | 6:24 |
 
-Snapshot ID: `MCw4ZTFjMDQxZjFhZmU2NGJhNmU5ZmYxODEzNzM2MzExZTk1ODcyNzFk`
+Snapshot ID: `MCwzNmYxMzA1YzkwMTVhMGIxYTA1OGU3NTQ3NTNiOGU2ZGVhY2IwM2Ix`

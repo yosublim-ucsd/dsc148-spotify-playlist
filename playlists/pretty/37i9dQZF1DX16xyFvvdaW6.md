@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16xyFvvdaW6.md) - [plain]
 
 > Los mejores temas del Rock Cristiano\. ¡Dale al play y disfruta estos tremendos temazos!
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,003 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,037 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16xyFvvdaW6.md) - [plain]
 | 14 | [Sobre las Aguas](https://open.spotify.com/track/0160nXrwsZGabn2MS3eZBt) | [Credo](https://open.spotify.com/artist/6RjjLhiDH0icVk8Et5Unsl) | [Sobre las Aguas](https://open.spotify.com/album/0NTxzUKkcuioP465pmYzUF) | 4:00 |
 | 15 | [Enamorado De Ti](https://open.spotify.com/track/6QQaNfFVNVBzCMCHfTcNln) | [Strike 3](https://open.spotify.com/artist/3hNpQuSjrFXElHOEzmwQ2l) | [Llevate El Tiempo](https://open.spotify.com/album/65tShWSVCNe5Fgj5ogLDBl) | 5:26 |
 | 16 | [Memoria \(Identidad\)](https://open.spotify.com/track/5GMBmIpJdpt3RqbuVxxePR) | [Mesver](https://open.spotify.com/artist/7dbLyuLmmTrijbn5TJSuMH) | [Despertares](https://open.spotify.com/album/2gomThBXGueNJ82vMAjBAt) | 3:16 |
-| 17 | [Rey De Majestad](https://open.spotify.com/track/1YBT09TyZHe9y2EmB3Q1Vg) | [Vertical](https://open.spotify.com/artist/7c0cfSQ3Oq5EEZXfdh8WLt) | [Imagínate](https://open.spotify.com/album/3EAMMcIMWeDZ7evJ4Tjvu9) | 4:28 |
+| 17 | [Rey De Majestad](https://open.spotify.com/track/1YBT09TyZHe9y2EmB3Q1Vg) | [Vertical](https://open.spotify.com/artist/1hbkbFMzOqz9bW2KGPJrRW) | [Imagínate](https://open.spotify.com/album/3EAMMcIMWeDZ7evJ4Tjvu9) | 4:28 |
 | 18 | [Éramos](https://open.spotify.com/track/6fVL8BrM91tDH7O2mdJfs0) | [Legados](https://open.spotify.com/artist/7wxcfZAF0aqflLMFbsPZp2) | [Mil Intentos](https://open.spotify.com/album/2os50fltRWshJNluelHYmD) | 3:53 |
 | 19 | [Nada Es Imposible](https://open.spotify.com/track/6OjwMUQIffS74Z2qIsWmVO) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ) | [Ilumina](https://open.spotify.com/album/2NPZuJOrcVRr1r91pmKciq) | 4:18 |
 | 20 | [Venga Tu Reino](https://open.spotify.com/track/7lVFBPhA4TBiAHmaKZjsyV) | [Alpha Union](https://open.spotify.com/artist/7r3OVrzP7rwFr0q1C4IQ5n) | [Conquistador](https://open.spotify.com/album/6ByW3JlKlwzAnHgMRWkYuz) | 3:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16xyFvvdaW6.md) - [plain]
 | 49 | [Otra Oportunidad](https://open.spotify.com/track/0g1dQ5Wafzv5umVhjNcEle) | [Revoluzion Estereo](https://open.spotify.com/artist/07y7DBTR7GwPS7sapmxrtG) | [Revoluzion Estereo](https://open.spotify.com/album/6LpcHauCrtKT0UJuXG8YI8) | 4:15 |
 | 50 | [Porque Fingir](https://open.spotify.com/track/7v13JBeYnHzgB4enyvcOcP) | [180 Grados](https://open.spotify.com/artist/5EFB2QpDOSYieHayE27uZ8) | [Cambio](https://open.spotify.com/album/59V6jFpLnTeVajCNjVKlyM) | 4:04 |
 
-Snapshot ID: `MCw2Y2U2NzVmNGNiNzVmYmEyNjFmMzQ5MjZkMWRhZTIyMzJmZmNhYzYy`
+Snapshot ID: `MCw4YjNlNjNhMjUyNzQwNTQ4YjliNGU2ZDkwYTg0MDIyZjZmMWQwZmNk`

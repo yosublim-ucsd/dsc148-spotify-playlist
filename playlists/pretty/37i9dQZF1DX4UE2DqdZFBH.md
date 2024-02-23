@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4UE2DqdZFBH.md) - [plain]
 
 > Unwind to the real beauty of Instrumentals!
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,178 likes - 104 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,179 likes - 104 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4UE2DqdZFBH.md) - [plain]
 | 103 | [Blossom](https://open.spotify.com/track/1fSASLRRwjPfVPF4vpQ3Gu) | [Apoorva Krishna](https://open.spotify.com/artist/3Eg09zCuagz6r7ZGQwj6Zv), [Aaron Sinclair](https://open.spotify.com/artist/30qeoFS7dHDWrD9idbcpLf) | [Blossom](https://open.spotify.com/album/6dZTgBjODMPiJZrijZ5MQN) | 5:58 |
 | 104 | [Transcend](https://open.spotify.com/track/1dUDWTN2g42sz1yXykCUQn) | [Apoorva Krishna](https://open.spotify.com/artist/3Eg09zCuagz6r7ZGQwj6Zv), [William Cepeda](https://open.spotify.com/artist/0w2oHz4dH8krp7aEc7zTWc) | [Transcend](https://open.spotify.com/album/3Ox4brenAwA37r3RPNoXjB) | 9:37 |
 
-Snapshot ID: `MCwwY2JiZWJjMjZlZTZkZDgxYjZlYTgyMWMxM2ZjMTUyMTgzNWVjZWEw`
+Snapshot ID: `MCwwYTFhYjhjMjRjMzU4NDk3MThkMGJiNDdlZDIyODliNzU5M2I5MzQ1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/3T7YH8Lq7GMkrYLiWvaXgc?si=sCJpLXugRKKZssTKQEG4ig"> Josef Lamercier </a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,535 likes - 133 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,647 likes - 133 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -142,4 +142,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 132 | [Pitaya](https://open.spotify.com/track/0dK7sdfUOkeqHlWOAtjTtf) | [young.vishnu](https://open.spotify.com/artist/13ktebtZo4NRbX3uThOmP2), [Pachakuti](https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr), [Ceeopatra](https://open.spotify.com/artist/02XqprFjC8W9C6ie3v947A) | [Pitaya](https://open.spotify.com/album/2GZbFLOgJWgoUecKVhEIy1) | 2:42 |
 | 133 | [Closure \(feat\. Jane Handcock\)](https://open.spotify.com/track/6Li90fECyiwWCx7OfqbxyL) | [Zyah Belle](https://open.spotify.com/artist/09q46aTaAsSGoLID49Y6Sx), [Jane Handcock](https://open.spotify.com/artist/0bl51qrk7bbplQWzpO2fqD) | [Yam Grier](https://open.spotify.com/album/4yRSYMAzTAg4HEUjVVwfhU) | 3:29 |
 
-Snapshot ID: `MCwwYjExOGIxODVlMWEyYjRlMTE1NjQ4OGY5Y2JmYmI0OTU3MzA3YTE2`
+Snapshot ID: `MCwzNjg0MTMwOTQyMTdmZTVlZWJmMjZhNWYyZGU5Zjg4MjhiMTU3NGFh`

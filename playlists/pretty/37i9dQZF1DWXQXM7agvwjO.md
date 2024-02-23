@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds & the best new tracks from Asia\. cover: HYBS + SIRUP \(TH/JP\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,979 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,003 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 99 | [Movie Scenes](https://open.spotify.com/track/6pkvHlxFsRuAmE0eSCd2BI) | [Javi That's Me](https://open.spotify.com/artist/4yPRWVvazFxeuAd4R26X8W) | [Movie Scenes](https://open.spotify.com/album/1LfkYj4wbQoXrAmmeGE1Jm) | 3:23 |
 | 100 | [Highteen](https://open.spotify.com/track/4HcnOrtYTFOLyZrfC7BQ9U) | [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [Highteen](https://open.spotify.com/album/0KOiVCCpmrK72XwMIL4ieW) | 3:01 |
 
-Snapshot ID: `MCxhZjNjMzNlY2MxM2Y0MjNlOTQ2OTU3NWRkNjRkODA3OTExN2M2NDA5`
+Snapshot ID: `MCxmZmZhMWRlZGI0NDY4MGQ3ZDJkY2YwY2MyZjc0NDYxNTE2M2VjYTc1`

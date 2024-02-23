@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuWb88xGwFB.md) - [plain]
 
 > Releases from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,033 likes - 75 songs - 9 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,044 likes - 75 songs - 9 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuWb88xGwFB.md) - [plain]
 | 74 | [The Beat That Makes U Move \(The Rhythm Hype Mix\)](https://open.spotify.com/track/2un4L4HUr8Q17tHtehjM81) | [Bass Hitt](https://open.spotify.com/artist/1AzJbkaxkRGTXx25UoVPbR), [Dreamgirl Vee](https://open.spotify.com/artist/4D7oLTG2VmYSHZkWfYkduN) | [The Beat That Makes U Move](https://open.spotify.com/album/5GyM1JW6iNfthvDAAuQZnX) | 7:38 |
 | 75 | [Keep On Jumpin' \(feat\. Chazzie\) \(Egotrip Mix\)](https://open.spotify.com/track/7kz21a3f03ZDNBGARMCnnM) | [Beatboxx](https://open.spotify.com/artist/3eCbjMCl079pmtW3KaoxLs), [Chazzie](https://open.spotify.com/artist/2l8Sszon3yQDStEHxwXFtV) | [Keep On Jumpin' \(feat\. Chazzie\)](https://open.spotify.com/album/3uDbWkbSKipKALdmI8ZOUE) | 6:21 |
 
-Snapshot ID: `MCxjNWZiN2E5YzY2ZmU0OThlZmFhOTQ1MmNmNDkzZjNlOTc2MzNjNGVl`
+Snapshot ID: `MCwzMTQwNzIxZTRhN2FmYjI3MjNhZGExZjU2MGMxOTMxYWM5M2Q3YWQ4`

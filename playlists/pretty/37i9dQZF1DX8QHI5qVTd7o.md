@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QHI5qVTd7o.md) - [plain]
 
 > You know all the tracks, you just can't sing\-along\. Cover: Martin Garrix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,507 likes - 47 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,513 likes - 47 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QHI5qVTd7o.md) - [plain]
 | 17 | [We Like to Party \- Original Mix](https://open.spotify.com/track/4O799OM270z43L7pKzNqrt) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7) | [We Like to Party](https://open.spotify.com/album/4uMuXdihVpcYnO8LF6GbXx) | 4:40 |
 | 18 | [Riverside 2099](https://open.spotify.com/track/4gCeoAADi0gWPVbwLhhuqq) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Sidney Samson](https://open.spotify.com/artist/3XonXgjEAAXVl0WKLF1Z4g) | [Riverside 2099](https://open.spotify.com/album/4JoKJiPMDmMuF8SHj4j47N) | 3:54 |
 | 19 | [Virus \(How About Now\)](https://open.spotify.com/track/3ukWpmRHvpuDATCJkgLEkF) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Virus \(How About Now\)](https://open.spotify.com/album/07c9ANynLvxYlO8aHWoNqP) | 4:33 |
-| 20 | [Beast \(All as One\)](https://open.spotify.com/track/3wSrPtJpnGaUC2hOmJy0BV) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [Beast \(All as One\)](https://open.spotify.com/album/7jcGJ20TXkDOwe5rfOm2Gg) | 3:09 |
+| 20 | [Beast \(All as One\)](https://open.spotify.com/track/3wSrPtJpnGaUC2hOmJy0BV) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO) | [Beast \(All as One\)](https://open.spotify.com/album/7jcGJ20TXkDOwe5rfOm2Gg) | 3:09 |
 | 21 | [Ode To Oi](https://open.spotify.com/track/7aIiDOQyCBA8yi1dozGojm) | [TJR](https://open.spotify.com/artist/2L8yW8GIoirHEdeW4bWQXq) | [Ode To Oi](https://open.spotify.com/album/79kc4mpzpEX4MdeLYFwd1Y) | 4:31 |
 | 22 | [How We Party](https://open.spotify.com/track/6Yis2VwVcABCNVEutLgAf7) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx) | [How We Party](https://open.spotify.com/album/3kA25T4kY1AwFVrLDJCzLE) | 3:31 |
 | 23 | [Burnin](https://open.spotify.com/track/5lByoyTJti3jYo22bLQKOH) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Motion](https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS) | 3:54 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QHI5qVTd7o.md) - [plain]
 | 46 | [G.I.P.S.Y\. \- Radio Edit](https://open.spotify.com/track/4BLHQIfrGZX6VKAmCjJwaZ) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Boostedkids](https://open.spotify.com/artist/2PMTEy2vzCh81UZTpjK7fZ) | [G.I.P.S.Y.](https://open.spotify.com/album/7gMun8L9PaRORbVjsi4Bli) | 3:41 |
 | 47 | [Reckless](https://open.spotify.com/track/45GtpfaI7fg7mSZBQTNJss) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [Reckless](https://open.spotify.com/album/6RtNDAbbah1pa4IFdlAiNE) | 2:28 |
 
-Snapshot ID: `MCw0MjdjODdmZTRiNDg3MDk3MGZjOWQ0NTUyZGI0NDc1YmYwZGEwZWUw`
+Snapshot ID: `MCwzZDkxZDNlN2FkYzM2OGZjZDdiYzUwYTQ2ODJkNDA0NThlYmNiMDMw`

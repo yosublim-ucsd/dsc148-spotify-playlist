@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 
 > Immerse yourself in the mysticism of Tulum!
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,753 likes - 70 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,884 likes - 70 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 | 69 | [Na Procura](https://open.spotify.com/track/5jHL9thvvnkuKPExerUgTg) | [Yemanjo](https://open.spotify.com/artist/20rsBY890yu3Jms9QHTg7N) | [Na Procura](https://open.spotify.com/album/4MjVYF2WrA2LxHOekWZREA) | 6:30 |
 | 70 | [Pueblo](https://open.spotify.com/track/6pR0LSU0EAwvfEa9ocQ1aV) | [HUGØ](https://open.spotify.com/artist/17DJNYAUPmyxap4CY4hCDK), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Pueblo](https://open.spotify.com/album/5s0xBuS6BCFEyJwLrLRJWZ) | 1:43 |
 
-Snapshot ID: `MCw0OTg1ZTg1NTE5YThhZDRmMjdiNWUxYzk5ZjA0NTlkNjA0NTlkZDli`
+Snapshot ID: `MCw5Njk0ODMzMGQzYTAxMWM1OTZjZmUyZTQyMzU0YWE4NTkwOTVjY2Iy`

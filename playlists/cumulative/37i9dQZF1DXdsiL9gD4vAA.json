@@ -697,6 +697,28 @@
     },
     {
       "album": {
+        "name": "Main Ghalib",
+        "url": "https://open.spotify.com/album/0sjTmXIHy3WFkGz841v9Yc"
+      },
+      "artists": [
+        {
+          "name": "Jagjit Singh",
+          "url": "https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU"
+        },
+        {
+          "name": "Chitra Singh",
+          "url": "https://open.spotify.com/artist/6pDga1iElP4dCa4S5bYvoo"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60905,
+      "name": "Dil-E-Naadaan Tujhe Hua Kya Hai",
+      "url": "https://open.spotify.com/track/3sV3XBN8XZaJpsYgZwzfD5"
+    },
+    {
+      "album": {
         "name": "Gulmohar (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/79Xlo73WJ5gL2TnbAFWw87"
       },

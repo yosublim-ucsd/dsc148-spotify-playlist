@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jSp9PHDkEC.md) - [plain]
 
 > Una selección musical para los sentimientos tenues y taciturnos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,943 likes - 300 songs - 20 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,948 likes - 300 songs - 20 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jSp9PHDkEC.md) - [plain]
 | 299 | [Unfold](https://open.spotify.com/track/7Ep8BuyZZGrbDP3alg2jPX) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Unfold](https://open.spotify.com/album/5eMxezuwxG5iv40YIjXuop) | 1:30 |
 | 300 | [Pale](https://open.spotify.com/track/0DG6jgOEXd7cOy2gI7lRDv) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Someone New](https://open.spotify.com/album/6gwAAOZeKLYDAPzSSP4SCa) | 3:01 |
 
-Snapshot ID: `MCxkNTA3MmI4YzRhYzI0OWVmYmM2MDZlZDQwODY4ODJkZjg2NDk5N2E1`
+Snapshot ID: `MCxlOGFjMGFhZjBmZDNhMGUyNDVjNjRiNTljOTM1NDcwYjI4OWU2ZDkz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 
 > African Praise music taking you all the way up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,238 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,276 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 49 | [Mon Dieu](https://open.spotify.com/track/7JPGrPIF6uDuyiWlTzfUYk) | [Emandiong](https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs) | [Mon Dieu](https://open.spotify.com/album/3j4XcPPW0QPOXfzt2ygnNd) | 2:46 |
 | 50 | [Hosanna](https://open.spotify.com/track/0H1Jd2NNq80u7xF7FzyJtn) | [KODA](https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB) | [Hosanna](https://open.spotify.com/album/64p2ahUYDuum6CrFPSlmnV) | 5:21 |
 
-Snapshot ID: `MCwzNDMxZDgyZmIwNGFhMzc0NjA2YWEzYTZlNjFiNGVkZTg3N2JlMjUy`
+Snapshot ID: `MCxmOTExZTZlYWU2YWFiMmIxYTUyZWJmN2U0YjRjZWFhNTczOGUzMWM1`

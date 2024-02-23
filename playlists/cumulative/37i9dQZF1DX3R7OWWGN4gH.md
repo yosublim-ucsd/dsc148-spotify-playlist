@@ -4,7 +4,7 @@
 
 > Entering my reputation era...
 
-281 songs - 15 hr 23 min
+282 songs - 15 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Barracuda](https://open.spotify.com/track/4KfSdst7rW39C0sfhArdrz) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Little Queen](https://open.spotify.com/album/1LaeNhiUpL3X6N0LcFvuDF) | 4:21 | 2022-01-27 |  |
 | [Beggin For Thread](https://open.spotify.com/track/4PvD06Pmbm2rHG2JjSlElF) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Goddess \(Deluxe\)](https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah) | 4:09 | 2022-01-27 | 2022-02-19 |
 | [Bitch Better Have My Money](https://open.spotify.com/track/0NTMtAO2BV4tnGvw9EgBVq) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Bitch Better Have My Money](https://open.spotify.com/album/4S8F794ucXJcAtycwOZgR9) | 3:39 | 2022-01-27 |  |
-| [Bite Marks](https://open.spotify.com/track/2iFoEIA2RSH1wt4i1LRiia) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [CCTV](https://open.spotify.com/album/6pLPp1De6DXPHhFry71Dn0) | 2:41 | 2024-01-05 |  |
+| [Bite Marks](https://open.spotify.com/track/2iFoEIA2RSH1wt4i1LRiia) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [CCTV](https://open.spotify.com/album/6pLPp1De6DXPHhFry71Dn0) | 2:41 | 2024-01-05 | 2024-02-23 |
 | [Black Sheep](https://open.spotify.com/track/72hSmnleYTiiOo23q8ZJIS) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Black Sheep](https://open.spotify.com/album/69BagWbfHgbO9uxjfVYcux) | 4:57 | 2022-01-27 | 2022-04-21 |
 | [Blonde](https://open.spotify.com/track/6Tmj9k9HeZhP5CdLHcj81h) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Blonde](https://open.spotify.com/album/4U9tk0sbiMp8PuHY7rsfCI) | 3:01 | 2022-08-11 | 2022-11-14 |
 | [Bloodsucker](https://open.spotify.com/track/3Vjz4qxSB8k2UGjJPR6JGd) | [CIL](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [Bloodsucker](https://open.spotify.com/album/59boJCTqevkvToAoVm9c9y) | 2:37 | 2024-01-24 |  |
@@ -130,6 +130,7 @@
 | [Headache](https://open.spotify.com/track/754P7sAkjMg3tYqMW3NA3W) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Off the Rails](https://open.spotify.com/album/4n6oL9oDtMwzf2ip2wDt2s) | 3:21 | 2022-01-27 | 2022-04-20 |
 | [Heathens](https://open.spotify.com/track/6i0V12jOa3mr6uu4WYhUBr) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Heathens](https://open.spotify.com/album/3J8W9AOjQhnBLCX33m3atT) | 3:15 | 2022-01-27 |  |
 | [Hello Bitches](https://open.spotify.com/track/72ysGFB4mZTgQsPqN9PzPS) | [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [Hello Bitches](https://open.spotify.com/album/1pu6aEuAKBdTdQLSbfBNTG) | 2:58 | 2022-01-27 | 2022-09-26 |
+| [Hell’s Greatest Dad](https://open.spotify.com/track/2h4MTQZP8quVwuwrtIPErD) | [Andrew Underberg](https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8), [Jeremy Jordan](https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub), [Amir Talai](https://open.spotify.com/artist/1el8TNH6bcVfqnavlh0qZL), [Erika Henningsen](https://open.spotify.com/artist/3hjgA2bJfvsFAbHNM60dvG), [Kimiko Glenn](https://open.spotify.com/artist/6lU0XGyOn94aBZno3H9WpA) | [Hazbin Hotel \(Original Soundtrack\)](https://open.spotify.com/album/2EOqRNsJiNb7IFLktJBZpq) | 2:13 | 2024-02-22 |  |
 | [High Enough](https://open.spotify.com/track/1qwno7xb5mJe71xtMS6jl2) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Every Where Is Some Where](https://open.spotify.com/album/4QwcXvqLh5Yj35wBt2DnTr) | 3:51 | 2022-01-27 |  |
 | [HONEY](https://open.spotify.com/track/7AVf3MdvwHM5CdOdquzu9c) | [LUNA AURA](https://open.spotify.com/artist/18UrIT17pqz5fG7J85iwSh) | [HONEY](https://open.spotify.com/album/5xaKQhMQZELvqDgxs8iLyQ) | 2:35 | 2022-01-27 | 2022-07-29 |
 | [Horns](https://open.spotify.com/track/5oyCruHORvRI8UEh9xVyam) | [Bryce Fox](https://open.spotify.com/artist/6g878dtAhjegRHVe5X0ALf) | [Heaven on Hold](https://open.spotify.com/album/4Ldmb0AgDupMkstZDIPzZk) | 3:37 | 2022-01-27 | 2022-07-29 |

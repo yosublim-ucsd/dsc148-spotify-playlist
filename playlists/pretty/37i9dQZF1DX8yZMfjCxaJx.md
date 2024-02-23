@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8yZMfjCxaJx.md) - [plain]
 
 > Las favoritas de los patrones\. Beto Vega, Edgardo Nuñez, Antonin Padilla en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,935 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,030 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8yZMfjCxaJx.md) - [plain]
 | 74 | [Somos Gente Del Sombrero \- En Vivo](https://open.spotify.com/track/5cJUpAtZBY253aPOo0QmId) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Somos Gente Del Sombrero \(En Vivo\)](https://open.spotify.com/album/2qaSacTJoTXZHZShAIRkZK) | 3:23 |
 | 75 | [El De La Defender Blanca](https://open.spotify.com/track/1hWwQlh8IX6RroVqPpZmbc) | [Grupo Cartel](https://open.spotify.com/artist/5wa3UkofRgI0jl6fKB6q4J) | [El De La Defender Blanca](https://open.spotify.com/album/4B4JQCRfMSBbsnZfGGJ1Xk) | 3:02 |
 
-Snapshot ID: `MCw0OWNjNGI4ZDY1MDY3NDAyMThlNmZjM2YyZmVmOWQ3NzE5ODIwODk4`
+Snapshot ID: `MCw1Yzg2YjdhYzJlMTE2MzFiMWQxNjBkNzRhNzc2OThlZDAwZGIyMjhk`

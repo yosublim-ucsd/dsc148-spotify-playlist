@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79UF7ALECl7.md) - [plain]
 
 > Have some chill house with your coffee
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,177 likes - 100 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,186 likes - 100 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79UF7ALECl7.md) - [plain]
 | 99 | [Mercury Moments](https://open.spotify.com/track/3c8hntpeHHoS8BxppJoBBW) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv) | [Golden Cage EP](https://open.spotify.com/album/4rF9lZgtSHe1blrCPGFyGY) | 3:59 |
 | 100 | [Moraine](https://open.spotify.com/track/68gG8lazvms6X0uC6MWmFz) | [Sebastian Davidson](https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp) | [Moraine](https://open.spotify.com/album/47dCDllqthOKWSyMw3yLQb) | 3:57 |
 
-Snapshot ID: `MCxiMzU3OWI0N2IyNGEyZWVjY2I2YThiZmJhMjA5NjIyYjNmODE2ZGQ3`
+Snapshot ID: `MCw5NDU3MDdjOWNhODg2Mjc0NGE5MzRjNTVmMjM5NzYxYTM1N2ZiZDEy`

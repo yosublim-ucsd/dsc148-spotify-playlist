@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2K7vh9.md) - [plain]
 
 > This is Lil Tecca\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,329 likes - 47 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,372 likes - 47 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2K7vh9.md) - [plain]
 | 27 | [Somebody](https://open.spotify.com/track/44b5itlYXwofZZoPFsNzcT) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [B4 The Storm \(Expanded Edition\)](https://open.spotify.com/album/4fszOxJ7RWHqPIXOrC2iKY) | 2:54 |
 | 28 | [Chemistry](https://open.spotify.com/track/7niut1GcKrCVZe4mx7Tqp8) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Virgo World](https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX) | 2:13 |
 | 29 | [Treesha](https://open.spotify.com/track/2mzlyJ8Gb8cFMJvfENKnJQ) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Treesha](https://open.spotify.com/album/2AvGq63YVyGVyU0YqMecCy) | 1:45 |
-| 30 | [Rover \(feat\. Lil Tecca\)](https://open.spotify.com/track/6E6RS1uUDxxYiWMmEKrxnh) | [S1mba](https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Rover \(feat\. Lil Tecca\)](https://open.spotify.com/album/4mywvojjCi9vsVNSPRCNfR) | 2:46 |
-| 31 | [Blessing](https://open.spotify.com/track/6DswwzQlABrNoqjNydtvuX) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Blessing](https://open.spotify.com/album/7hjZI0A6hrUjbZFZsnVGlT) | 2:24 |
+| 30 | [Blessing](https://open.spotify.com/track/6DswwzQlABrNoqjNydtvuX) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Blessing](https://open.spotify.com/album/7hjZI0A6hrUjbZFZsnVGlT) | 2:24 |
+| 31 | [Rover \(feat\. Lil Tecca\)](https://open.spotify.com/track/6E6RS1uUDxxYiWMmEKrxnh) | [S1mba](https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Rover \(feat\. Lil Tecca\)](https://open.spotify.com/album/4mywvojjCi9vsVNSPRCNfR) | 2:46 |
 | 32 | [All Star \(with Lil Tjay\)](https://open.spotify.com/track/62uolmVjOio9xIfwDM1ZvC) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [All Star](https://open.spotify.com/album/45LIS5vxDcdMniZcD6biUD) | 3:00 |
 | 33 | [SEASIDE \(feat\. iann dior\)](https://open.spotify.com/track/45bXTH6SuR2MKjypu4ksNz) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [We Love You Tecca 2](https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS) | 2:12 |
 | 34 | [Prada \(feat\. Lil Tecca\)](https://open.spotify.com/track/4wuMS7NGVbU7hdu94K5icd) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Prada \(feat\. Lil Tecca\)](https://open.spotify.com/album/2ut84dwAs20nDuTqnvKsDQ) | 2:31 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2K7vh9.md) - [plain]
 | 46 | [She Want Some More \(feat\. Ken Carson\)](https://open.spotify.com/track/6MXlAZuSUsbKAN68ErtWj5) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Ken Carson](https://open.spotify.com/artist/6BURJsrwD35kYYZlpMw2Xs) | [She Want Some More \(feat\. Ken Carson\)](https://open.spotify.com/album/2MNgdTVRIyedTK7n3Ej46C) | 3:04 |
 | 47 | [Virgo World \(feat\. Lil Tecca\)](https://open.spotify.com/track/1jN7omTNonXiWogKpngUAj) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [BIRTHDAY MIX 6](https://open.spotify.com/album/33nkEur8beeeEcTA4nxapX) | 2:14 |
 
-Snapshot ID: `Mjg0NzUyOTAsMDAwMDAwMDA5MTA4M2JjMjhjOWZhNGVkODUxMmUyZGNmMWMyZjBhNw==`
+Snapshot ID: `Mjg0NzcwNzUsMDAwMDAwMDA1YmFhNDlmNGNhZDI0NmJiMDYxYWUzYjhiMWY2MWRhZg==`

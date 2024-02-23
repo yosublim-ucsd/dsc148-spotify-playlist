@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52ln8eMkne9.md) - [plain]
 
 > Soft and cozy vocal and instrumental Jazz\. Cover: Laufey
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,133 likes - 180 songs - 13 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,203 likes - 180 songs - 13 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -189,4 +189,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52ln8eMkne9.md) - [plain]
 | 179 | [Life Came into Colour](https://open.spotify.com/track/0fkyyAgPx7XuQXfkk8FnVD) | [Katharine Timoney](https://open.spotify.com/artist/2yWFqhoEprHiXcvLxnuNI7) | [Life Came into Colour](https://open.spotify.com/album/3t3qFGMm0AnYbNQpYuTuBv) | 5:16 |
 | 180 | [Will I Find](https://open.spotify.com/track/34Qfsdz0oLWpI0E9Z64Ps1) | [Carmen Quill](https://open.spotify.com/artist/2dScqoyglnFy1sPO8L0fCF) | [Don't Get Comfy / Nowhere](https://open.spotify.com/album/6OY9cmz2EmT35b9LwkdJ4S) | 4:10 |
 
-Snapshot ID: `MCwwNjBjMzJmZDJmOGYxMGNlMzI0MmE2NDMzMjgzOWNlNmQyNTlkZjcz`
+Snapshot ID: `MCxmOGQ0ZDFmZWVkODRhN2IxODZkZmM0NWM4NmRjYTQyZTlmNzYxMzdk`

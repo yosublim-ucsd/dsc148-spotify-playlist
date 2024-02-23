@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 
 > Hot noise for those summer days.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,898 likes - 80 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,897 likes - 80 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 | 79 | [Is Everybody Going Crazy?](https://open.spotify.com/track/3CauBZqN2EuHTJo4sSpjbS) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Is Everybody Going Crazy?](https://open.spotify.com/album/5J2B0xzIbsFSqwLTLrlRe1) | 3:57 |
 | 80 | [Childhood Eyes](https://open.spotify.com/track/2ttWOp5QoqdO6zkIJJ4bFh) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Childhood Eyes](https://open.spotify.com/album/7g4Iij7EeDIraxCXQRQAQo) | 3:13 |
 
-Snapshot ID: `MCxhZGJmZTgyMDMwOWFkNTUxZGM3NDlkODMxOThlNzdjMGE3ZTVkNGI2`
+Snapshot ID: `MCw1MjQwZDJjMDE4Zjc5ZDIwM2FhMTJkYTc3OGZhNjlkNDc4YmE3MTRi`

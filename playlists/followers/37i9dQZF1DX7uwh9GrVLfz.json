@@ -1,5 +1,5 @@
 {
-  "2024-02-22": 116497,
+  "2024-02-23": 116560,
   "date_first_scraped": "2022-05-15",
   "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. cover: Ken Yokoyama",
   "name": "Punk Japan",
@@ -7246,24 +7246,6 @@
     },
     {
       "album": {
-        "name": "GEAR BLUES",
-        "url": "https://open.spotify.com/album/7gUem4NLZn4NKR0d5IVeOJ"
-      },
-      "artists": [
-        {
-          "name": "Thee Michelle Gun Elephant",
-          "url": "https://open.spotify.com/artist/2DBcgbvakjiv4Yi9bRyjVX"
-        }
-      ],
-      "date_added": "2022-05-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 207773,
-      "name": "SMOKIN' BILLY",
-      "url": "https://open.spotify.com/track/6pjCT2TfxXdoNSMmWIkBA8"
-    },
-    {
-      "album": {
         "name": "Smoking Kills",
         "url": "https://open.spotify.com/album/0iAymKIkRcGyUgSZmio1o8"
       },
@@ -10631,6 +10613,24 @@
       "duration_ms": 173061,
       "name": "\u30b9\u30d4\u30fc\u30c9",
       "url": "https://open.spotify.com/track/2TbBvejxOk5c9NIqrNVS4M"
+    },
+    {
+      "album": {
+        "name": "GEAR BLUES",
+        "url": "https://open.spotify.com/album/7gUem4NLZn4NKR0d5IVeOJ"
+      },
+      "artists": [
+        {
+          "name": "Thee Michelle Gun Elephant",
+          "url": "https://open.spotify.com/artist/2DBcgbvakjiv4Yi9bRyjVX"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207773,
+      "name": "\u30b9\u30e2\u30fc\u30ad\u30f3\u30fb\u30d3\u30ea\u30fc",
+      "url": "https://open.spotify.com/track/6pjCT2TfxXdoNSMmWIkBA8"
     },
     {
       "album": {

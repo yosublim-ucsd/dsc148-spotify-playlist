@@ -1,5 +1,5 @@
 {
-  "2024-02-22": 60150,
+  "2024-02-23": 60154,
   "date_first_scraped": "2023-07-11",
   "description": "This is N\u00edvea Soares. The essential tracks, all in one playlist.",
   "name": "This Is N\u00edvea Soares",
@@ -849,6 +849,28 @@
       "duration_ms": 267170,
       "name": "O Le\u00e3o E A Igreja - Ao Vivo",
       "url": "https://open.spotify.com/track/1DZWhBkO9rIEX5IpyRDLgB"
+    },
+    {
+      "album": {
+        "name": "O Que Tua Gl\u00f3ria Fez Comigo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5J0V7iimGhQGcBWIXV6t7w"
+      },
+      "artists": [
+        {
+          "name": "Leo Fonseca",
+          "url": "https://open.spotify.com/artist/34iSGCakITd5m0nZgIjkio"
+        },
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 538285,
+      "name": "O Que Tua Gl\u00f3ria Fez Comigo - Ao Vivo",
+      "url": "https://open.spotify.com/track/1eZ6MiWjHmwbbcGpAetCiO"
     },
     {
       "album": {

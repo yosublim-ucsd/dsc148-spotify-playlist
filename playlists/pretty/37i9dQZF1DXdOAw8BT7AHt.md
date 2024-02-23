@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 
 > The best in modern punk rock music\. Cover: Lambrini Girls
 
-[Spotify](https://open.spotify.com/user/spotify) - 451,758 likes - 80 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 451,697 likes - 80 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 79 | [Under The Rules](https://open.spotify.com/track/3HgZwGpYYI6jKcW3UsDC49) | [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh) | [MORE UK GRIM](https://open.spotify.com/album/2AQNQR9GwxxByoFeXHPH3F) | 3:33 |
 | 80 | [Left Right Forward](https://open.spotify.com/track/1asg5gvlIxDNECNn1GeaN5) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [Left Right Forward](https://open.spotify.com/album/6dtoYJEmC42TD7s322YBrE) | 2:55 |
 
-Snapshot ID: `MCxlMWE1ZGZlY2E5YmY2YmY2YzgzNWUwNTkyYTc4ZWYzYjJjNGFmYzc5`
+Snapshot ID: `MCxiOGMwNzRmY2YyN2Q4ZDA4YzBmNGNmY2RmMTFhOWNiZWE2NTUzZjky`

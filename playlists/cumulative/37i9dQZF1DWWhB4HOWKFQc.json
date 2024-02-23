@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-26",
-  "description": "Kumpulan lagu yang sedang menyebar luas. Cover: HYBS",
+  "description": "Kumpulan lagu yang sedang menyebar luas. Cover: Sarah Suhairi, Alfie Zumi",
   "name": "Lagi Viral",
   "tracks": [
     {
@@ -1652,7 +1652,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 189416,
       "name": "Denting",
       "url": "https://open.spotify.com/track/4i7xD6pmEaV25wL6K7Pjd0"
@@ -2168,7 +2168,7 @@
       ],
       "date_added": "2024-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 291590,
       "name": "Gampil",
       "url": "https://open.spotify.com/track/6T03CN5UVnCGPz3muqvpOz"
@@ -2504,6 +2504,24 @@
       "duration_ms": 234466,
       "name": "Hits Different",
       "url": "https://open.spotify.com/track/3xYJScVfxByb61dYHTwiby"
+    },
+    {
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157485,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK"
     },
     {
       "album": {
@@ -2905,6 +2923,24 @@
     },
     {
       "album": {
+        "name": "Kata Mereka Ini Berlebihan",
+        "url": "https://open.spotify.com/album/3UDTwdzFWA2rgP19S9oUaC"
+      },
+      "artists": [
+        {
+          "name": "Bernadya",
+          "url": "https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191141,
+      "name": "Kata Mereka Ini Berlebihan",
+      "url": "https://open.spotify.com/track/15xaVF0miqkphP0O0TZRs7"
+    },
+    {
+      "album": {
         "name": "Kau Rumahku",
         "url": "https://open.spotify.com/album/7vPQboGZn7eLlwwyOeCTQO"
       },
@@ -3010,10 +3046,36 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 253333,
       "name": "Kerasnya Kota",
       "url": "https://open.spotify.com/track/6jkMvmZNH8vszD0dLbUMaj"
+    },
+    {
+      "album": {
+        "name": "Kidung (Remastered)",
+        "url": "https://open.spotify.com/album/3IO8vHB489ECfBpVbExBon"
+      },
+      "artists": [
+        {
+          "name": "Bram",
+          "url": "https://open.spotify.com/artist/5sX5q95TohGxh4wn0o4Yfz"
+        },
+        {
+          "name": "Dianne",
+          "url": "https://open.spotify.com/artist/5labb7Qs3izpENolhdPs1U"
+        },
+        {
+          "name": "Chris Manusama",
+          "url": "https://open.spotify.com/artist/0DmIbSc52Ue1WNm9jHrtl7"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253040,
+      "name": "Kidung",
+      "url": "https://open.spotify.com/track/0Uyh7UINyHXHjZGFZst8Bc"
     },
     {
       "album": {
@@ -3370,7 +3432,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 173489,
       "name": "Love 119",
       "url": "https://open.spotify.com/track/7M7d0e8Ue3Z7QieuZe72J9"
@@ -3464,6 +3526,24 @@
       "duration_ms": 248986,
       "name": "Makeba",
       "url": "https://open.spotify.com/track/4TNFLwe6DhtR3Wn1JKMqMJ"
+    },
+    {
+      "album": {
+        "name": "Malam Tak Berjudul",
+        "url": "https://open.spotify.com/album/7lCDU5y9iZ9f4T2WULA5eS"
+      },
+      "artists": [
+        {
+          "name": "Monica Christiana",
+          "url": "https://open.spotify.com/artist/2GqWsg2YJM3SRdIreM7f2h"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189512,
+      "name": "Malam Tak Berjudul",
+      "url": "https://open.spotify.com/track/72G8Le8BhpTKe5abDqZQEE"
     },
     {
       "album": {
@@ -5914,7 +5994,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 237769,
       "name": "Tak Berharap Lagi",
       "url": "https://open.spotify.com/track/1UJn9fyMNelBMvWTWu6FDZ"

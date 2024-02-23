@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnpLW9iux5M.md) - [plain]
 
 > Celebrate Christmas with these soulful and classic songs sung by some of your favorite Gospel artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,509 likes - 120 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,502 likes - 120 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnpLW9iux5M.md) - [plain]
 | 119 | [Joy To The World \(feat\. Eryka Edmund\)](https://open.spotify.com/track/0AsURWUc8JqeILrFhCRSzx) | [Charles Butler & Trinity](https://open.spotify.com/artist/5U7TaBluxhgDPNGx2NadSU), [Eryka Edmund](https://open.spotify.com/artist/1VitpzYVY9vaDnqSl0wir9) | [Joy To The World \(feat\. Eryka Edmund\)](https://open.spotify.com/album/7nBbkSBamXj4ki3mlr53eY) | 5:26 |
 | 120 | [I’ll Be Home For Christmas](https://open.spotify.com/track/7LsohUDYAUvnrsuOBgIQBt) | [J\. Moss](https://open.spotify.com/artist/7GOz2zIfLCrlyqQYVCfQtW), [Matt Jones Orchestra](https://open.spotify.com/artist/2lwFaWIs8Nd2COGdxMYeVf) | [A J Holiday](https://open.spotify.com/album/2nt6fN9ycbCmC7HaS5j3W5) | 3:08 |
 
-Snapshot ID: `MCxlMWEyNmM1NjM2ZTMxMjFiNDBiZTk5MWU3ODRjYzc0ODNlOGZmMzc4`
+Snapshot ID: `MCwyNTc1MTE3NzE2Mjc2YzE2YmZkNTA3MDQ4NjExNDYzYWI2N2Q2ZGI3`

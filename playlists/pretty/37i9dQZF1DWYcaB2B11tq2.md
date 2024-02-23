@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 
 > Una fusión moderna de música Cristiana que alimenta el alma.
 
-[Spotify](https://open.spotify.com/user/spotify) - 403,319 likes - 75 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 403,445 likes - 75 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 | 74 | [Fullness](https://open.spotify.com/track/5UqyM8fDp1hAAvcb83TS7B) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Speak Revival](https://open.spotify.com/album/4WysoMeub5mYFEkmCEuM3V) | 6:07 |
 | 75 | [Ama A Dios Y A Tu Vecino](https://open.spotify.com/track/0ZIzGwc3j4lVacHR1c5DKb) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz), [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [Ama A Dios Y A Tu Vecino](https://open.spotify.com/album/7cIlbOk2EXPl3ZBkuYDSnG) | 3:26 |
 
-Snapshot ID: `MCw2MmJlMDk4YzQ3ZDJjNDgxMzdlZTM3ZjdlYTA1NTRkM2Y0OTZlM2Ni`
+Snapshot ID: `MCwxNzdjMzVjMzFjMDgyMjVjNTZhOGZmYjU3MjIxODMzNmQ2MTgxMWMw`

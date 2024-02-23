@@ -1,5 +1,5 @@
 {
-  "2024-02-22": 18128,
+  "2024-02-23": 18131,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Estonia.",
   "name": "Top 50 - Estonia",
@@ -22951,7 +22951,7 @@
       ],
       "date_added": "2021-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-21",
+      "date_removed": null,
       "duration_ms": 213850,
       "name": "Paarist\u00f5uked",
       "url": "https://open.spotify.com/track/5fhn8aAo9FAl1pVLsMPOPk"
@@ -28891,7 +28891,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 115238,
       "name": "STARS",
       "url": "https://open.spotify.com/track/347AQK5Lyhn6RvB8tBGYxt"

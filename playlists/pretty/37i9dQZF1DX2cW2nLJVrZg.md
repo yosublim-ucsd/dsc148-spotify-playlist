@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cW2nLJVrZg.md) - [plain]
 
 > Nominees — and past winners — from the 96th annual event celebrating Hollywood's brightest stars.
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,020 likes - 58 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,019 likes - 58 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cW2nLJVrZg.md) - [plain]
 | 57 | [Father Comes Home](https://open.spotify.com/track/4BopLkm0TFvregWWVI1Qtl) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0) | [Little Women \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2y8d4zbifvkrpASJeTMDnE) | 3:18 |
 | 58 | [Sooner or Later](https://open.spotify.com/track/0QLuoNpyzXMcCLfVtFScE2) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [I'm Breathless](https://open.spotify.com/album/38nngL1nidjNYdHvJ3xJED) | 3:20 |
 
-Snapshot ID: `MCw2ODE4YjdhYzIwMmJiYmYyOGI1NDMwZTBmMjQ4NWVhMzhkZjE3MmQw`
+Snapshot ID: `MCw5ODcxNDBiY2QzZTk4OTE3ZTc3OTRjMDY2YzRhNzM3ZTBkNjE1MTY0`

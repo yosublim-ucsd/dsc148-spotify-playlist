@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZtGWF9Ltb0N.md) - [plain]
 
 > Floor shattering bass and dark soundscapes to dive into.
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,710 likes - 150 songs - 9 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,795 likes - 150 songs - 9 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZtGWF9Ltb0N.md) - [plain]
 | 149 | [The Wisp Song](https://open.spotify.com/track/4eJrcgPtNToP8lBTxuozIg) | [Chee](https://open.spotify.com/artist/18fX4a2lpLLHmvJO2a5NkA) | [Polarities](https://open.spotify.com/album/1FHgoaW0HQ6LpKRkEUmA9A) | 3:46 |
 | 150 | [Wriggle](https://open.spotify.com/track/3EW5sNOYG0NoiYDYBX3GTD) | [Wraz.](https://open.spotify.com/artist/67b5TsLqAzMdmtWZCy2k7D) | [Wriggle](https://open.spotify.com/album/1HmkK4okglpviZ4NssumLI) | 4:11 |
 
-Snapshot ID: `MCw1ZTkwZjdmMWM0ODY0M2I4OWEzNTdmZTRjMDVmZmEwNTJhMzIxYzdh`
+Snapshot ID: `MCxhZTdhNTdkYmYyN2M0NGY0YmIwYmIwY2I0YzVlNDhlM2JlMTgxMzYy`

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 
 ### [Testify](https://open.spotify.com/playlist/37i9dQZF1DXbQX7bVSkxBy)
 
-> Raise a voice and testify the goodness of God\.  Cover:  <a href=https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn?si=ufvviwyFRdmPwgIEioNVWA>Neon Adejo</a>
+> Raise a voice and testify the goodness of God\.  Cover:  <a href=https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp?si=6mutUARsSHKhKJdS7KpqAw>Chidiya Ohiagu</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,293 likes - 50 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,327 likes - 50 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 | 49 | [Pain To Praise](https://open.spotify.com/track/2W1o9Q1zRVlPz1GYzGLXKM) | [Nsikan Louis](https://open.spotify.com/artist/5oS7TVro4fEqwxwRCaUW8B) | [Pain To Praise](https://open.spotify.com/album/7A5B9Z5YL8mhRxglK0rljH) | 3:45 |
 | 50 | [Fragrance](https://open.spotify.com/track/5d7XeBCY5V4WV7yO6BD4Cq) | [Esther Oji](https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4), [GGTQ All Stars](https://open.spotify.com/artist/2lvxliTzqHNjv7hOulrHCS) | [Fragrance](https://open.spotify.com/album/2e8K2P2XWzFxeyGWEHVEKV) | 4:27 |
 
-Snapshot ID: `MCxkYjk5YWJhZWVmMjdkOWM5OTQwNzM0NTFiYWZmNGVjMzE3OTY4ZWEy`
+Snapshot ID: `MCw3YTZmNTRjODZlNDY5YWIwYzg4OTA2MTI0Y2Y3MjMxMTVjOWQwMjg5`

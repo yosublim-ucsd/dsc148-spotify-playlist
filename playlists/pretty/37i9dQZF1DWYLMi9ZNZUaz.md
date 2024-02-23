@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 
 > Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: Đen
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,650 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,681 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 49 | [Cho Tôi Lang Thang](https://open.spotify.com/track/2zRzmGerfTxc2epZHgaTdh) | [Ngọt](https://open.spotify.com/artist/0V2DfUrZvBuUReS1LFo5ZI), [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi) | [Cho Tôi Lang Thang](https://open.spotify.com/album/4CpoMF5isZ7CFM6o3iyb3V) | 4:18 |
 | 50 | [XTC \(Xích Thêm Chút\) \(Remix\)](https://open.spotify.com/track/7fNHfgOxPLcg4mQLhCnOHB) | [Rapital](https://open.spotify.com/artist/0wqus4nTxIoJvLZLwBt8Df), [Groovie Lã Thắng](https://open.spotify.com/artist/1yx4rYyjUYupI7Ji1YvXRh), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL) | [Rapitalove](https://open.spotify.com/album/3ULu7EK5sl1zUdx2r7D15E) | 4:03 |
 
-Snapshot ID: `MCw1ZDc3NTE3MjMzMzFkZmFkMTRlNjU3ZjAxMjY1OGNkNzY1N2QzNWRj`
+Snapshot ID: `MCwxN2M2NGVjODg2YWE0MDYzZTAyNzhkMTYxZTE1ZmU2MTZlM2QyZTA4`

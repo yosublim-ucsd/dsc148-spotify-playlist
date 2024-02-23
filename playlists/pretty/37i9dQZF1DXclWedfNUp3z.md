@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclWedfNUp3z.md) - [plain]
 
 > Mellow vibrations for green leaves, green thumbs and green ears.
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,840 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,069 likes - 100 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,18 +95,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclWedfNUp3z.md) - [plain]
 | 85 | [eons away](https://open.spotify.com/track/3CMzipkTzyGP4g0YaEeuNd) | [santpoort](https://open.spotify.com/artist/7KtVS0f2RQoEhjxDcSGBtJ), [Tennyson](https://open.spotify.com/artist/3Nb8N20WChM0swo5qWTvm8) | [ocean tales](https://open.spotify.com/album/0ENr07q7h0vsydKinh36FM) | 2:32 |
 | 86 | [Solo, Op\. 1: No\. 1](https://open.spotify.com/track/2QNMea9rsz01sxiNPErdwd) | [Böjo](https://open.spotify.com/artist/3QqnbjYN3VAqJ5xjnteu9e) | [Solo, Op\. 1: No\. 1](https://open.spotify.com/album/61XTYqp8mi8ULHA6huHRAN) | 2:40 |
 | 87 | [\#3 \(Rhubarb\)](https://open.spotify.com/track/47VFticYkP3UYOroGPjjD6) | [Brendan Eder Ensemble](https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK) | [\#3 \(Rhubarb\)](https://open.spotify.com/album/0R9wqsIlcwjmkpcIaRCJfK) | 7:17 |
-| 88 | [sol](https://open.spotify.com/track/77hF3X4YebUOpYoqY7s9xj) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [Grethel Ross](https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg) | [sol](https://open.spotify.com/album/6dOkPpcZ3elxSPmyZbvCIg) | 1:59 |
-| 89 | [conversations with grandma](https://open.spotify.com/track/5Hfp1A85EAcD3fqHmAPbpN) | [Delayde](https://open.spotify.com/artist/254ga0emOv4GhfUUw5J16h) | [blue moon](https://open.spotify.com/album/439132aTNPy2bbctlYh3yN) | 1:26 |
-| 90 | [Circular Wave Forms.](https://open.spotify.com/track/7b6GiDnHmOC18lYhDCUJfj) | [LFO Waves](https://open.spotify.com/artist/1JjFLJxtZ8Es5nRpz4146Z) | [Circular Wave Forms.](https://open.spotify.com/album/062LGURSKpRw9BYEpR2Pla) | 3:00 |
-| 91 | [The Pillow Sisters](https://open.spotify.com/track/05gq1Z7LjHYlgt9FRBAMWb) | [Singleton](https://open.spotify.com/artist/21JuplSnwK51Cp5olrc7q8) | [The Pillow Sisters](https://open.spotify.com/album/5Xa5zHnzplguzrNoCzUdSM) | 2:39 |
-| 92 | [Sinú](https://open.spotify.com/track/3qtKG3CgbZrmMrmPjNk1N6) | [Nodes](https://open.spotify.com/artist/7wr6W82k7PmCoyYgKKxmPv) | [Pantano Lontano](https://open.spotify.com/album/1rWoQDBXjsjQ4famyZsqpE) | 5:41 |
-| 93 | [venus mist](https://open.spotify.com/track/6UEHWnyYNSTjgqxxJF84wQ) | [AOI](https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ) | [phases of the moon](https://open.spotify.com/album/5zImrTFUWontzflxnybrH8) | 3:12 |
-| 94 | [Fragile](https://open.spotify.com/track/6XDmQX1g0mwTif6Hy1EJuk) | [The Last Days of Our Past](https://open.spotify.com/artist/2jRNvVCA7vd9patmMZQTlX) | [Fragile](https://open.spotify.com/album/6f0ELW7CR2CWxYf859r71X) | 4:08 |
-| 95 | [V.](https://open.spotify.com/track/3dNY6woOGqmjAGYWCxutOw) | [Houis](https://open.spotify.com/artist/3bjJEXLyXKBFUx6MOj3wlF) | [Nocturnal](https://open.spotify.com/album/1c4GN3QhqkSl0AMeRAfvRC) | 2:48 |
-| 96 | [Growing Cannabis Vegetation Cycle](https://open.spotify.com/track/6QEPm379BapyBAyJMWS0ER) | [Music For Plants](https://open.spotify.com/artist/2746YvEYNDpropECfjdoQs) | [Growing Cannabis \- Vegetation Cycle Node Explosion](https://open.spotify.com/album/0x02WeUPoy95DiiODcFkfl) | 2:30 |
-| 97 | [Atlantic Diva](https://open.spotify.com/track/5Rvvv94WBHJ7xBTv4wDqzV) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B) | [Atlantic Diva](https://open.spotify.com/album/5oQr6pVVI2D7lpvDM04QbV) | 4:03 |
-| 98 | [Thus](https://open.spotify.com/track/3zYbmJ5O9g3fgIni2B0Wh1) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm), [Rena Jones](https://open.spotify.com/artist/09qbbuYgbAysaJDRlCkbT6), [Flowerpulse](https://open.spotify.com/artist/2r954nnXRVwwleWpnScEoP) | [Xylem](https://open.spotify.com/album/71CubrxJW16Hgxu8HBKd32) | 3:31 |
-| 99 | [Kono Yoni Yomeri \(Sono 2\)](https://open.spotify.com/track/0nByarxBnlqMBH5tWvBuTG) | [Yasuaki Shimizu](https://open.spotify.com/artist/0Q14t6kRnPv4av49Rz5o6e) | [Kakashi](https://open.spotify.com/album/0ZVkkcvhUWQ4hIeoC8Y5Kb) | 2:20 |
-| 100 | [wading through the wetlands](https://open.spotify.com/track/41DB59gjQcplKWlQPI89lt) | [santpoort](https://open.spotify.com/artist/7KtVS0f2RQoEhjxDcSGBtJ) | [mudflat hikers](https://open.spotify.com/album/3sFJdoo3cHihNzJtPEaOHw) | 2:44 |
+| 88 | [conversations with grandma](https://open.spotify.com/track/5Hfp1A85EAcD3fqHmAPbpN) | [Delayde](https://open.spotify.com/artist/254ga0emOv4GhfUUw5J16h) | [blue moon](https://open.spotify.com/album/439132aTNPy2bbctlYh3yN) | 1:26 |
+| 89 | [Circular Wave Forms.](https://open.spotify.com/track/7b6GiDnHmOC18lYhDCUJfj) | [LFO Waves](https://open.spotify.com/artist/1JjFLJxtZ8Es5nRpz4146Z) | [Circular Wave Forms.](https://open.spotify.com/album/062LGURSKpRw9BYEpR2Pla) | 3:00 |
+| 90 | [The Pillow Sisters](https://open.spotify.com/track/05gq1Z7LjHYlgt9FRBAMWb) | [Singleton](https://open.spotify.com/artist/21JuplSnwK51Cp5olrc7q8) | [The Pillow Sisters](https://open.spotify.com/album/5Xa5zHnzplguzrNoCzUdSM) | 2:39 |
+| 91 | [Sinú](https://open.spotify.com/track/3qtKG3CgbZrmMrmPjNk1N6) | [Nodes](https://open.spotify.com/artist/7wr6W82k7PmCoyYgKKxmPv) | [Pantano Lontano](https://open.spotify.com/album/1rWoQDBXjsjQ4famyZsqpE) | 5:41 |
+| 92 | [venus mist](https://open.spotify.com/track/6UEHWnyYNSTjgqxxJF84wQ) | [AOI](https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ) | [phases of the moon](https://open.spotify.com/album/5zImrTFUWontzflxnybrH8) | 3:12 |
+| 93 | [Fragile](https://open.spotify.com/track/6XDmQX1g0mwTif6Hy1EJuk) | [The Last Days of Our Past](https://open.spotify.com/artist/2jRNvVCA7vd9patmMZQTlX) | [Fragile](https://open.spotify.com/album/6f0ELW7CR2CWxYf859r71X) | 4:08 |
+| 94 | [V.](https://open.spotify.com/track/3dNY6woOGqmjAGYWCxutOw) | [Houis](https://open.spotify.com/artist/3bjJEXLyXKBFUx6MOj3wlF) | [Nocturnal](https://open.spotify.com/album/1c4GN3QhqkSl0AMeRAfvRC) | 2:48 |
+| 95 | [Growing Cannabis Vegetation Cycle](https://open.spotify.com/track/6QEPm379BapyBAyJMWS0ER) | [Music For Plants](https://open.spotify.com/artist/2746YvEYNDpropECfjdoQs) | [Growing Cannabis \- Vegetation Cycle Node Explosion](https://open.spotify.com/album/0x02WeUPoy95DiiODcFkfl) | 2:30 |
+| 96 | [Atlantic Diva](https://open.spotify.com/track/5Rvvv94WBHJ7xBTv4wDqzV) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B) | [Atlantic Diva](https://open.spotify.com/album/5oQr6pVVI2D7lpvDM04QbV) | 4:03 |
+| 97 | [Thus](https://open.spotify.com/track/3zYbmJ5O9g3fgIni2B0Wh1) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm), [Rena Jones](https://open.spotify.com/artist/09qbbuYgbAysaJDRlCkbT6), [Flowerpulse](https://open.spotify.com/artist/2r954nnXRVwwleWpnScEoP) | [Xylem](https://open.spotify.com/album/71CubrxJW16Hgxu8HBKd32) | 3:31 |
+| 98 | [Kono Yoni Yomeri \(Sono 2\)](https://open.spotify.com/track/0nByarxBnlqMBH5tWvBuTG) | [Yasuaki Shimizu](https://open.spotify.com/artist/0Q14t6kRnPv4av49Rz5o6e) | [Kakashi](https://open.spotify.com/album/0ZVkkcvhUWQ4hIeoC8Y5Kb) | 2:20 |
+| 99 | [wading through the wetlands](https://open.spotify.com/track/41DB59gjQcplKWlQPI89lt) | [santpoort](https://open.spotify.com/artist/7KtVS0f2RQoEhjxDcSGBtJ) | [mudflat hikers](https://open.spotify.com/album/3sFJdoo3cHihNzJtPEaOHw) | 2:44 |
+| 100 | [CAPRICORN](https://open.spotify.com/track/4WkEVhfzvQYr0GqOyuRthu) | [Pauli The PSM](https://open.spotify.com/artist/0REk2fMEqOBQKenqZv4sgp), [OFFAIR](https://open.spotify.com/artist/7Ma4FYYpM6vqvTeXHAMKkp), [Liz Vice](https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx) | [OFFAIR: The Power of your Subconscious Mind Vol 1: SPACE](https://open.spotify.com/album/1gUxFwmsNfsAmyrirHs3hG) | 3:42 |
 
-Snapshot ID: `MCxhNmM1OWNhOTI1Y2RhMTM1NDZhYjAzMGQ0MjkxYTE3Nzk5ZDU5Zjdi`
+Snapshot ID: `MCw3NTlkMzQ1NmE3NDdmM2UxMzlhZWYzMWI2NjBkZDBlZTg4MGQxNzFj`

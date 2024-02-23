@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrtsSlLKzro.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">electronic</a> melancholy < / 3
 
-[Spotify](https://open.spotify.com/user/spotify) - 626,547 likes - 168 songs - 9 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 626,631 likes - 168 songs - 9 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrtsSlLKzro.md) - [plain]
 | 40 | [Without Me \- ILLENIUM Remix](https://open.spotify.com/track/4bw3ZyWA1ui0Adu285NWDl) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg) | [Without Me \(ILLENIUM Remix\)](https://open.spotify.com/album/2iiNSk2EKg3d3OQQGlj2N3) | 4:08 |
 | 41 | [Where did you go](https://open.spotify.com/track/0CUR9GVPMJmzz9r887N4UV) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w) | [Where did you go](https://open.spotify.com/album/1MRd1XMJpkkmtmMP57hTmE) | 2:48 |
 | 42 | [Love We Lost \(with R3HAB\)](https://open.spotify.com/track/2ayyzfxamdoNRDI0au3wva) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Simon Ward](https://open.spotify.com/artist/2yi9c8OXkt7PrwbBFOMgjP) | [Love We Lost \(with R3HAB\)](https://open.spotify.com/album/2IlpXQUD25LyrLQ5anXjZG) | 2:16 |
-| 43 | [All In My Head](https://open.spotify.com/track/0bTcsfvvELwAupgm0DxhjK) | [BKAYE](https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9) | [All In My Head](https://open.spotify.com/album/5XOshXQLbsax7zxKwMYS3F) | 2:33 |
+| 43 | [All In My Head](https://open.spotify.com/track/0bTcsfvvELwAupgm0DxhjK) | [BKAYE](https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9), [Aria Ohlsson](https://open.spotify.com/artist/4hFc1FC8qA7XFF1XrTwlsJ) | [All In My Head](https://open.spotify.com/album/5XOshXQLbsax7zxKwMYS3F) | 2:33 |
 | 44 | [We Will Meet Again](https://open.spotify.com/track/6VpRQDOM7nQ6viuVUSXWGn) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [We Will Meet Again](https://open.spotify.com/album/5Pz41jv4xOHJzn93rhHWle) | 3:21 |
 | 45 | [After You \(feat\. Calle Lehmann\)](https://open.spotify.com/track/6DiogHhtwkVgUHUDUJVuXV) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150), [Calle Lehmann](https://open.spotify.com/artist/2QeNM65b7IWvK4Ofcqz8cm) | [After You \(feat\. Calle Lehmann\)](https://open.spotify.com/album/1RDosPV9LVUjxUxpzyXHB6) | 3:44 |
 | 46 | [Deep End](https://open.spotify.com/track/1UtRBq2n0IlQNA1WI3axWX) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h) | [Pieces](https://open.spotify.com/album/2Mzaihfp9i7m6UO5HSRtHb) | 3:28 |
@@ -177,4 +177,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrtsSlLKzro.md) - [plain]
 | 167 | [Avoiding Pain](https://open.spotify.com/track/5bJjMsfoU0EWtXcg03eY6u) | [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT) | [Avoiding Pain](https://open.spotify.com/album/4H57gAzcBcaUAb4ua9H3zD) | 4:07 |
 | 168 | [Sleepless](https://open.spotify.com/track/68wmnF8Q5rC6EMnBJ9Qp5a) | [Eloi El](https://open.spotify.com/artist/3fN5sNv6BOuzPD6r95XVNJ), [ALEV](https://open.spotify.com/artist/6aJbn3lXAQsFM3tl742XaD), [onebit.](https://open.spotify.com/artist/0rJ1sIMo2XYGEgzvSbY5DE) | [Sleepless](https://open.spotify.com/album/4wBlr3iqVkGBoNaKU7l4qA) | 3:05 |
 
-Snapshot ID: `MCwxMGZhNjNmY2IxYjdmMTFkNTY3MDc4ZTZhNjA2YzljNzkyNGRjOTQ1`
+Snapshot ID: `MCw0MTdjZWJlMWM1YTVjNTg2MDA4NjU5ZWQxZjc5OTE2YmFjZWZhYzcy`

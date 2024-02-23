@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnY33e7En9e.md) - [plain]
 
 > Hits of the 70s, 80s and 90s for gamers who love things retro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 473,421 likes - 100 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 473,670 likes - 100 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnY33e7En9e.md) - [plain]
 | 99 | [Flashdance...What a Feeling \- Radio Edit](https://open.spotify.com/track/3cbV252akVZInSvJk7jAYX) | [Irene Cara](https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G) | [What a Feelin'](https://open.spotify.com/album/0BK4XIgJ3AublHWN48vNzS) | 3:57 |
 | 100 | [Don't You Want Me](https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Dare!](https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY) | 3:56 |
 
-Snapshot ID: `MCxlOThkMDJkODY5YzNlZWJmNmVhODZhMTlkNDhiZGNjYTY1YWFhM2Iz`
+Snapshot ID: `MCwyZmQwNTc3ZTcyNjE1NWZhZjdlZTZkOGE0MWQ2ZWYxYmIwYmVhZDlh`

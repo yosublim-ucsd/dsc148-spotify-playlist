@@ -2,9 +2,9 @@
 
 ### [Jazz Anak Negeri](https://open.spotify.com/playlist/37i9dQZF1DWZrhFFq3bnGV)
 
-> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: ArumtaLa
+> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Adikara
 
-167 songs - 12 hr 0 min
+169 songs - 12 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Begini Cinta](https://open.spotify.com/track/7vCBnI93aQCdPJMqx5z6EU) | [Kaloka](https://open.spotify.com/artist/6nHMb25O7yt2syNMxygMTK) | [Begini Cinta](https://open.spotify.com/album/18KtHSEUWRj9q1NrAPr2G1) | 4:35 | 2022-09-02 | 2023-03-04 |
 | [Berbunga \- Bunga](https://open.spotify.com/track/3NtqKyA6WU6AR6ajEAntjO) | [The Groove](https://open.spotify.com/artist/4QaAmS47H6ZCc5JtXP5933), [Tiara Effendy](https://open.spotify.com/artist/2fOTPwnARqKiw6FvDgUJLg) | [Sejiwa](https://open.spotify.com/album/4rEgxywUFenTE0CSvJxUAO) | 3:56 | 2023-08-24 |  |
 | [Berdansa Sejenak](https://open.spotify.com/track/4wQc5aLDPH58ncFsv1EpnD) | [djalto](https://open.spotify.com/artist/17s3iWyEdWg6OnUePMXG7r) | [Berdansa Sejenak](https://open.spotify.com/album/2Hk1gGS699WYzv1L3UpHjp) | 3:15 | 2022-09-02 |  |
-| [Best Friend](https://open.spotify.com/track/0QMKNY9xswyHRqA7OjVrNj) | [Koko Wijanarko](https://open.spotify.com/artist/0c26hbkWSxPK07pXEzTvFK) | [Best Friend](https://open.spotify.com/album/1HJWP2NJ19Sa1TxZtpTou0) | 3:09 | 2022-09-02 |  |
+| [Best Friend](https://open.spotify.com/track/0QMKNY9xswyHRqA7OjVrNj) | [Koko Wijanarko](https://open.spotify.com/artist/0c26hbkWSxPK07pXEzTvFK) | [Best Friend](https://open.spotify.com/album/1HJWP2NJ19Sa1TxZtpTou0) | 3:09 | 2022-09-02 | 2024-02-23 |
 | [bitterlove](https://open.spotify.com/track/74OLXYsvpfmSgPCMMi898K) | [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd) | [bitterlove](https://open.spotify.com/album/5pSxeG2bdlj3MYdBVRBexK) | 3:36 | 2022-09-02 | 2023-07-14 |
 | [Blue](https://open.spotify.com/track/2wQezSDg7fDhAxNr09E00Y) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Blue](https://open.spotify.com/album/7rh3PfTK0nrnjzyamfGvjU) | 6:46 | 2023-09-29 | 2023-11-08 |
 | [Blue](https://open.spotify.com/track/3e2cdlozr0ZKut6dWOer3q) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Continuance](https://open.spotify.com/album/0PFFqNI88PG7QKGYWvjwXQ) | 6:46 | 2023-11-03 | 2024-01-26 |
@@ -42,7 +42,7 @@
 | [Christy](https://open.spotify.com/track/0M3l9QtKkL4QJpJUmXxEGc) | [January Christy](https://open.spotify.com/artist/6r6dOSjeTf5AjwywbRqSIX) | [Unreleased Tracks from 1985](https://open.spotify.com/album/26rn9d3WodFSvOVSsd8N8S) | 3:27 | 2022-09-02 |  |
 | [Cinta Dalam Diam](https://open.spotify.com/track/76npF4CedfcIz0p6YN8UAY) | [Andezzz](https://open.spotify.com/artist/2fbpowgwOj5DqZt6IZHzWd), [Nadine Emmanuella](https://open.spotify.com/artist/02nmmf0lZ42hJgaZpNo6oW) | [Cinta Dalam Diam](https://open.spotify.com/album/6JfU4yHFF4vl4L8JymLvOp) | 5:25 | 2022-09-02 |  |
 | [Cocoa Butter](https://open.spotify.com/track/4guIRGkMQBGNBWFA3SjDah) | [Neida](https://open.spotify.com/artist/6pXFLqoZMjMxHMwrNuueoW), [Greybox](https://open.spotify.com/artist/7dQtKW1F0fbXa3q5cPXF3f) | [Cocoa Butter](https://open.spotify.com/album/06BgAdvlGyBptrJeigmZMS) | 3:31 | 2023-03-03 | 2023-08-25 |
-| [Cruisin n' groovin](https://open.spotify.com/track/5ZBEkuN7XOOnQIPlFsEIpo) | [Devian Zikri](https://open.spotify.com/artist/0BBhYg5ZPpxxz3DC2zLCvM) | [Now & Forever](https://open.spotify.com/album/5G5r3l1yvNUUDrtuakapdQ) | 4:36 | 2023-06-15 |  |
+| [Cruisin n' groovin](https://open.spotify.com/track/5ZBEkuN7XOOnQIPlFsEIpo) | [Devian Zikri](https://open.spotify.com/artist/0BBhYg5ZPpxxz3DC2zLCvM) | [Now & Forever](https://open.spotify.com/album/5G5r3l1yvNUUDrtuakapdQ) | 4:36 | 2023-06-15 | 2024-02-23 |
 | [Cukup](https://open.spotify.com/track/01iNsEL4mvh7L6Dn2NbUrs) | [Naufalbahir](https://open.spotify.com/artist/0AWgaUdmTXrTcBiMjsqVDH) | [Kindergarten](https://open.spotify.com/album/6TE6PVaMcvIWFPM97wQxIS) | 2:03 | 2023-03-03 |  |
 | [Daffy](https://open.spotify.com/track/3JNKp9XdviZsOadURpU88i) | [Chaseiro](https://open.spotify.com/artist/3cWhTURNoVUEdmNFzmfgms) | [Chaseiro Vol\. 3](https://open.spotify.com/album/5iPgWA8tAYp9VnF46FLGsd) | 4:14 | 2023-03-03 |  |
 | [Dahaga](https://open.spotify.com/track/0KbqA51Q4NcxY1zym7VvuE) | [Erwin Gutawa](https://open.spotify.com/artist/0WlOmBhUcwcMtzJd0GLwWN) | [Dahaga](https://open.spotify.com/album/50qzgwXtfVQE1ZrqjRszsD) | 4:49 | 2022-09-02 |  |
@@ -95,6 +95,7 @@
 | [Joni Indo](https://open.spotify.com/track/7yb4Tmncgrdz4EHTQNXpvu) | [Batavia Collective](https://open.spotify.com/artist/5codNlJ0krrWfPHbRMKHEJ) | [Joni Indo](https://open.spotify.com/album/06xMum9P424YVJqSIAyD9D) | 4:45 | 2023-03-24 |  |
 | [Kala Itu](https://open.spotify.com/track/7HO2RmmmIZgZHiRJPzpguJ) | [Indro Hardjodikoro](https://open.spotify.com/artist/2HLQzDOWlVpNfizh2uEA3b), [Sruti Respati](https://open.spotify.com/artist/6vWqh5xpzX5QfyqoQFwcRH) | [Kala Itu](https://open.spotify.com/album/1AqGHk7kTIRkCCWhMId4KL) | 3:52 | 2023-05-25 |  |
 | [Kanaya Tidore](https://open.spotify.com/track/7fzNvMZUf36MlIBTnSGrUg) | [Tesla Manaf](https://open.spotify.com/artist/6LkomW0B7xs6zolDBJRUFt) | [Rembah Pribumi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Z2Yhg12LYvI1rW6v48jJM) | 3:29 | 2023-03-03 | 2023-06-09 |
+| [Katakan Saja](https://open.spotify.com/track/6bIQQJk47tJsUmlqd1hEUW) | [Adikara](https://open.spotify.com/artist/4g69iZz2nk9El5Zf3ttiBN) | [Katakan Saja](https://open.spotify.com/album/6Jc1f9u2q0sIe3xwvZeRCH) | 3:56 | 2024-02-22 |  |
 | [Kejar Terus](https://open.spotify.com/track/7LR3VRJQIWtuHs5kVkjVk5) | [Hezky Jo](https://open.spotify.com/artist/4xJoIawErbqny2Yj6X6xdy) | [Teras Dan Angin Malam](https://open.spotify.com/album/0zUzJIuniSzSPmwEwNweUp) | 3:23 | 2023-08-18 |  |
 | [Kejar Waktu](https://open.spotify.com/track/1Eo6TNhL7ydD7HFHPFc9bE) | [Marini Nainggolan](https://open.spotify.com/artist/68CRp4uznB4jlgbcNEqbTp) | [Kejar Waktu](https://open.spotify.com/album/3Q8ZezQuRlmq8xsVfYsw3F) | 4:36 | 2022-09-02 | 2022-11-18 |
 | [Kembali Bersama](https://open.spotify.com/track/5uCEXd94GXJrediRWmF9Mx) | [Sequoia Projects](https://open.spotify.com/artist/3yyjWdipsrJk6edPtRUpfF), [Danto](https://open.spotify.com/artist/1DdCPXzmVDJnPKiH1AnUL2) | [Kembali Bersama](https://open.spotify.com/album/41fNuj0KJtHoR3Rger2nfL) | 4:00 | 2022-09-02 |  |
@@ -106,6 +107,7 @@
 | [Like It Was Meant To Be](https://open.spotify.com/track/7cz4iZepf9e5Mxj4t5rYeB) | [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [Like It Was Meant To Be](https://open.spotify.com/album/6CZCQsfxNLLWURl0LicSnI) | 3:29 | 2023-08-17 | 2023-09-24 |
 | [Like Someone In Love](https://open.spotify.com/track/0fB6UiXQltFaqUEhDFqoiI) | [Dua Empat](https://open.spotify.com/artist/5dPAU1hj01l7evl47KdU9L), [Hansen Arief](https://open.spotify.com/artist/7446uGOrQeWwCLpw4L6DHA), [Joshua Alexander](https://open.spotify.com/artist/7cKHUspMzlUC7k1UTndbYr), [Ify Alyssa](https://open.spotify.com/artist/2Up8d4glQCL5t90Fq9aGp4) | [Like Someone In Love](https://open.spotify.com/album/6IUwLsSLyw4usMrtkg1noZ) | 3:37 | 2023-06-08 |  |
 | [Little Bit Simple \- Instrumental Version](https://open.spotify.com/track/0vlnOeaiMERE83zsDwV1i5) | [Harif Santoso](https://open.spotify.com/artist/7E6DDaLrcTuOodp5meW12r) | [Little Bit Simple \(Instrumental Version\)](https://open.spotify.com/album/3dYqureVrHc38jE6m4EqRH) | 3:17 | 2022-09-02 | 2023-08-25 |
+| [Living in Harmony](https://open.spotify.com/track/6C69VLGIYGcTm2KoWqUWZ1) | [Koko Wijanarko](https://open.spotify.com/artist/0c26hbkWSxPK07pXEzTvFK) | [Living in Harmony](https://open.spotify.com/album/4wfXoLMv9iH2xLXx9PaHv6) | 5:38 | 2024-02-22 |  |
 | [Love In Peace](https://open.spotify.com/track/3BguNO1FHJs4KRqNp1hC2K) | [Praya Tjondro](https://open.spotify.com/artist/5ByAOpFqqD2MzptfchAEiM) | [Love In Peace](https://open.spotify.com/album/72PHHKpw2zuBHrDgPx0Mfl) | 4:24 | 2023-08-17 |  |
 | [LOVE IS](https://open.spotify.com/track/1Sx3NLx0k01HRqA2JhVguv) | [Jason Mountario](https://open.spotify.com/artist/6ibPIgByjCH7qYPlBbN4Tr), [Sri Hanuraga](https://open.spotify.com/artist/6oBbSq1WI51saPC5Vys7z2), [Kelvin Andreas](https://open.spotify.com/artist/2hl3KpfiMWRSP51mLLi4Pd) | [LOVE IS](https://open.spotify.com/album/23f2kd0MMf7L6aJZ5vOkAb) | 6:00 | 2023-03-12 | 2023-06-30 |
 | [Makan Teman](https://open.spotify.com/track/7MHKaG1rgfunhfW1bbsw1S) | [Tompi](https://open.spotify.com/artist/3FxQst3IlItxaNPGzjl17G) | [Makan Teman](https://open.spotify.com/album/4F99lV3Ql04YNP8P3WV3mh) | 2:40 | 2022-09-02 |  |

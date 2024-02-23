@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX66m4icL86Ru.md) - [plain]
 
 > Bad b\*\*\*\* energy\. Be blessed, be spicy\. Cover: Flo Milli
 
-[Spotify](https://open.spotify.com/user/spotify) - 883,848 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 883,999 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX66m4icL86Ru.md) - [plain]
 | 37 | [Little Things x Gypsy Woman \- L BEATS MASHUP](https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Little Things x Gypsy Woman \(L BEATS MASHUP\)](https://open.spotify.com/album/052c03LAr2euUtLKgvOKae) | 2:11 |
 | 38 | [Bongos \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/4YQImHflXSiIMXntcwPkx8) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Bongos \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/3XYWRia8E82cJI6WrDLTTQ) | 2:55 |
 | 39 | [One Margarita \(Margarita Song\) \[feat\. Saucy Santana\] \- Saucy Remix](https://open.spotify.com/track/7kT07Kchz7TIyylr6RNbVa) | [That Chick Angel](https://open.spotify.com/artist/3qhkjSaDQrlZVAg0hvVYfh), [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23), [Casa Di](https://open.spotify.com/artist/1yFh88WSoMOObwLi5GUwRp), [Steve Terrell](https://open.spotify.com/artist/0gmg6AYgqIGfQ0dVyr951p) | [One Margarita \(Margarita Song\) \[feat\. Saucy Santana\] \[Saucy Remix\]](https://open.spotify.com/album/1u0sKdA7niUzooEbjU7ypF) | 2:45 |
-| 40 | [FΛSHION](https://open.spotify.com/track/4YQgOgIElFtEvwJQ9ArWL7) | [Britney Manson](https://open.spotify.com/artist/7GtPtPbDC5CLNzSNxVpqaf) | [FΛSHION](https://open.spotify.com/album/7umRaDZ9FqTaL2EWZvGMEX) | 2:26 |
+| 40 | [FΛSHION](https://open.spotify.com/track/70jiETKdlLEram2zJSHdHH) | [Britney Manson](https://open.spotify.com/artist/7GtPtPbDC5CLNzSNxVpqaf) | [FΛSHION](https://open.spotify.com/album/6cKTeK2UQ55jCrJcTsDm1h) | 2:26 |
 | 41 | [Prada](https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i) | [cassö](https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Prada](https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc) | 2:12 |
 | 42 | [Barbie World \(with Aqua\) \[From Barbie The Album\]](https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Barbie World \(with Aqua\) \[From Barbie The Album\]](https://open.spotify.com/album/5CM66hwjlbZ06LhONWXOAs) | 1:49 |
 | 43 | [You Wish \(with Missy Elliott & Kaliii\) – Remix](https://open.spotify.com/track/1bUhj0j6akbGxinxsVe6PR) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [You Wish \(with Missy Elliott & Kaliii\) – Remix](https://open.spotify.com/album/5VUeDa4FENhqT8o2fuFdjK) | 2:37 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX66m4icL86Ru.md) - [plain]
 | 74 | [Escapism\. \- Sped Up](https://open.spotify.com/track/3XCpS4k8WqNnCpcDOSRRuz) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism.](https://open.spotify.com/album/4parxQfGC25WtlVVAm5S9q) | 3:59 |
 | 75 | [Her](https://open.spotify.com/track/5hHvFrMnwic82WwRLr4WY0) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 2:17 |
 
-Snapshot ID: `MCw2MjEzNTdkZGQ1MTU1MDRmYzViMDUwNmZjNTlhZWZiMmQ5ZTI3MWY0`
+Snapshot ID: `MCxkOWUxMzBkNDIwMzk5ZjY2MDk5YWQ0NjYxMWFjNTdjZjU0YWRmMTE2`

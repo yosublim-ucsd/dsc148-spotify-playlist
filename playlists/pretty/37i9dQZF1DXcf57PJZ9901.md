@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcf57PJZ9901.md) - [plain]
 
 > The best easy rock from the 2010s\. Cover: Keane
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,779 likes - 70 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,819 likes - 70 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcf57PJZ9901.md) - [plain]
 | 69 | [Second Chances](https://open.spotify.com/track/6FQcdl2PzmsoXRF3F1flZ5) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Smoke + Mirrors \(Deluxe\)](https://open.spotify.com/album/6ecx4OFG0nlUMqAi9OXQER) | 3:37 |
 | 70 | [Country Song](https://open.spotify.com/track/0XY9YAtkp5GXMuFdkZk8Xp) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Jake Bugg](https://open.spotify.com/album/6b2BArDCfSvW3VFenLJatj) | 1:49 |
 
-Snapshot ID: `MCw2ZTA3M2MwZGMxYzcxN2EzNmM4MDFjODY1ZGJhOTlhNDgyMjNhYzM4`
+Snapshot ID: `MCxiY2QwYWUzZjNhMWYxNjU3N2MxMzAzMGYzZDlmOTdmOTAzNjY0NDg4`

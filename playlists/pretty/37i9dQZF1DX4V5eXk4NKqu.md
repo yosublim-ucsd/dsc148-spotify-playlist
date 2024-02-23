@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 
 > The best Latin Indie tracks of today, featuring Dromedarios Mágicos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,950 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,957 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 | 74 | [Cortada En La Frente](https://open.spotify.com/track/6q2zT7E0nsAhLggEVeCv96) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd) | [Cortada En La Frente](https://open.spotify.com/album/2XTHHhHJJiOWmx3ptLnOGy) | 3:20 |
 | 75 | [XO](https://open.spotify.com/track/7Hv1cgxfZs6pswYKvh0tDJ) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi) | [Last Spa on Earth](https://open.spotify.com/album/0Wcevqdyy01R4lGtAYoleB) | 3:05 |
 
-Snapshot ID: `MCwxYTUwZjE3YjJhMzk2YzIzOTU4MjAyMDdiYzZhYzAxMDk3ZjI4ZWU4`
+Snapshot ID: `MCw3ZDcwMTUyMmNhMTdhZWFiNTQ5MjlhYzJkMmQxN2VjMzk4NDI1ZDI2`

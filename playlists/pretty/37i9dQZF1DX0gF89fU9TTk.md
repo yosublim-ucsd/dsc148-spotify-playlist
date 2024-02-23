@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gF89fU9TTk.md) - [plain]
 
 > The best of today's pop worship music\.  Turn the beat up! Cover: Switch
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,988 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,022 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gF89fU9TTk.md) - [plain]
 | 74 | [Love Goes On \- Remix](https://open.spotify.com/track/1tGTlycaTuNIIbqziQGcOR) | [ICF Worship](https://open.spotify.com/artist/0uw5aNQFG4WgdsqkElEHrW), [Hezekia](https://open.spotify.com/artist/0Bc8nt0oNumzNCcsehEd8N), [H!ERO](https://open.spotify.com/artist/0RfC9jvntRgsnGzakWVX8k) | [Love Goes On](https://open.spotify.com/album/1DUATtHXOoaHIaj2yojBTy) | 3:42 |
 | 75 | [The Blessing \- Reyer Remix](https://open.spotify.com/track/3xfDEpTPumLqOWWc26losd) | [Reyer](https://open.spotify.com/artist/54UJV3OPkBfR4V92nsYs1Z), [Skye Reedy](https://open.spotify.com/artist/5IBA7q2IF0hOuRxdPaG65R) | [Worship: The Remix Project, Vol\. 3](https://open.spotify.com/album/1C6zfthwK3pGTdutkBbPkQ) | 3:56 |
 
-Snapshot ID: `MCw3NWVmMTZlOGU4NjU3YmQ4MDk0MWMxODYwZjZmYzY3MTY5NjQzMTU4`
+Snapshot ID: `MCw5MGJmYWY4ZjQ4MjBiNDRmY2I0YjM3MGQyNzkwNzRjMDY5ZGU0YmZm`

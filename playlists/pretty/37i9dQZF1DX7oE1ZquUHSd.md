@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 
 > El poder real del Hip Hop latinoamericano y español\. La Banda Bastön en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,460 likes - 100 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,515 likes - 100 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 | 99 | [光 Luz](https://open.spotify.com/track/5aF2hoUHaU9GainPXIZDMV) | [Lil Supa](https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K) | [Serio](https://open.spotify.com/album/1rSmB2J6FBTsH9NOCV24xW) | 4:44 |
 | 100 | [Apaga el Celular](https://open.spotify.com/track/7BhCvFVZwe04hLpNutqTdg) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Apaga el celular](https://open.spotify.com/album/4hl6j5ZMGsCxBhw3BuDDbK) | 3:45 |
 
-Snapshot ID: `MCxjZTdkMDczNzUwZjk3MTJjMzFhNmRmYjM3ZDE1Y2U5OTdhZDIzNTU1`
+Snapshot ID: `MCxiZDk4OTU4MGEzYmEyOWFiN2Q4YWVlMWMzYTAwNWFhMmE2ZTdjNjdk`

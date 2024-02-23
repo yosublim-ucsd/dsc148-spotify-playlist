@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71VcjjnyaBQ.md) - [plain]
 
 > Jazz for breakfast to start your day right.
 
-[Spotify](https://open.spotify.com/user/spotify) - 397,257 likes - 100 songs - 8 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 397,311 likes - 100 songs - 8 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71VcjjnyaBQ.md) - [plain]
 | 99 | [Oh My](https://open.spotify.com/track/4tW55Nq7uPwHkYWqNx8e6t) | [Nuvole](https://open.spotify.com/artist/5X65Iv1V1AcOZhFM1AzjJ1) | [Oh My](https://open.spotify.com/album/2rFOE5zMg2b6nydeMZyIyY) | 4:17 |
 | 100 | [Fanølyng](https://open.spotify.com/track/6Brlcuqm8bgTTo5oongQqT) | [Henrik Gunde](https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu), [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP) | [Moods](https://open.spotify.com/album/6Y5IwmwVNOEp83c5oi5fyU) | 5:18 |
 
-Snapshot ID: `MCw1YzYxMTZmN2YzYjk5MjEwYTYyYzk3NTlkM2RkYWE2OGNkMjJkMzRh`
+Snapshot ID: `MCw5MWM4NThkMDM5NzEyZTc3YmFmMWMzOWZlMTc0MTM4YThjNzVkY2Ez`

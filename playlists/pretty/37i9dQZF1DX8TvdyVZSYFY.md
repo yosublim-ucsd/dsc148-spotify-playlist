@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8TvdyVZSYFY.md) - [plain]
 
 > Big hits from the world of acoustics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,063,761 likes - 300 songs - 17 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,063,819 likes - 300 songs - 17 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8TvdyVZSYFY.md) - [plain]
 | 299 | [Next To Me \- Live From Spotify NYC, USA/2012](https://open.spotify.com/track/4Y1ZvAbetcpZsmedL9uhmR) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Spotify Sessions \- Live From Spotify NYC, USA/2012](https://open.spotify.com/album/23NSEnpwoyErSZ3FXXPx4N) | 3:40 |
 | 300 | [Dye My Hair \- Acoustic Version](https://open.spotify.com/track/3tKz0pbZj8Rxha2kseiwpp) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Dye My Hair](https://open.spotify.com/album/72OGxvqzD8lVsmT0HsaEPS) | 3:16 |
 
-Snapshot ID: `MCwyZTNhMTg5ZWM5YTI0NDhjMDg5MGI4NTYwYWU0YWEzYzhlZjA4NGZi`
+Snapshot ID: `MCwwZGIwZjlkOTY5NjQzY2VjNmM0MjY2ZWJjZDZkZDcwZGQyYWZhMWE3`

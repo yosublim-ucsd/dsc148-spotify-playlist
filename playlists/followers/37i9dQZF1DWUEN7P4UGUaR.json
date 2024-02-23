@@ -1,5 +1,5 @@
 {
-  "2024-02-22": 8748,
+  "2024-02-23": 8763,
   "date_first_scraped": "2023-04-07",
   "description": "Fresh gospel music from Ghana. Cover: Joyce Blessing ",
   "name": "Aseda",
@@ -544,6 +544,28 @@
     },
     {
       "album": {
+        "name": "Charis",
+        "url": "https://open.spotify.com/album/4Qb4BzONaGMy7ByhSzHAjk"
+      },
+      "artists": [
+        {
+          "name": "Lordina The Soprano",
+          "url": "https://open.spotify.com/artist/3y9dp9aHQ2LBUbuepkiddU"
+        },
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300877,
+      "name": "Gye Wo Nkoaa",
+      "url": "https://open.spotify.com/track/1e1NtfnGiSOEF4okclf7c1"
+    },
+    {
+      "album": {
         "name": "Gye Wo Nkoaa",
         "url": "https://open.spotify.com/album/11X1SIyHGMDcVooFlbqIkv"
       },
@@ -559,7 +581,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 300877,
       "name": "Gye Wo Nkoaa",
       "url": "https://open.spotify.com/track/569HzTSs0toPBtmrcC4VyD"

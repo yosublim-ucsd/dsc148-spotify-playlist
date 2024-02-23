@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSw8liJZcPOI.md) - [plain]
 
 > The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,431 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,599 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSw8liJZcPOI.md) - [plain]
 | 99 | [Familiar](https://open.spotify.com/track/1j2FfR6RJlBJoJQDNfoukY) | [ABBOTT](https://open.spotify.com/artist/5CU8kbEERwvAfRatCVyPnt), [Canea Quartett](https://open.spotify.com/artist/2fDDFvi81fsu9osi2VhvNe) | [Familiar](https://open.spotify.com/album/4kpmg5bYaTMB3imXsf1ucT) | 3:32 |
 | 100 | [Woven Song](https://open.spotify.com/track/0Fs13LJdctI630wOhPcIO8) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Woven Song](https://open.spotify.com/album/0Ah7kVnuWgdH3vQy0DNtuA) | 3:10 |
 
-Snapshot ID: `MCwwNGMwMjY4NzhmNzk3ZjVkMTM0MGIzNDQ3OTY2YjcxZGEwYTgyYmZl`
+Snapshot ID: `MCwzMTlkMjUzZDA2MjU0ZmY5MGZiNjJjOTRlMTc1ZGRiMWExNjY5MmRk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 
 > พบคนคลั่งรักหลายอัตราในเพลย์ลิสต์นี้ \#คลั่งรัก
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,377 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,405 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 | 99 | [ดูดฝุ่น \(home.\)](https://open.spotify.com/track/74H9bBeNa5SMITV645EYJs) | [Morvasu](https://open.spotify.com/artist/4S7sdsjS2srUTDPXAuOYw8), [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [ดูดฝุ่น \(home.\)](https://open.spotify.com/album/1qbmY8Bpi6BStFmenXfGum) | 2:55 |
 | 100 | [I JUST WANNA PEN FAN YOU DAI BOR ? \(อ้ายจัสวอนน่าเป็นแฟนยูได้บ่ ?\)](https://open.spotify.com/track/7DLdnWK7OYDsRf7I15Ze0L) | [Singto Numchok](https://open.spotify.com/artist/780z5aP7EUHfDT6Q5YERKL) | [I JUST WANNA PEN FAN YOU DAI BOR ? \(อ้ายจัสวอนน่าเป็นแฟนยูได้บ่ ?\)](https://open.spotify.com/album/6G2oqaD3wdiXVAgubTcDzP) | 3:48 |
 
-Snapshot ID: `MCxkY2QyOWRkZGNhOTJkZWRhYmU2MDYwNzc1NGE4MmIzMWEzMjJmZTE3`
+Snapshot ID: `MCwwNTY3ZGQ1Yzc0NmIzYzc1MmM1ZTk1ZDM5N2U4ZjY4YjlmMGNlODY3`

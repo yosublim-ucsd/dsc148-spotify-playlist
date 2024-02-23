@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVr03NrIUlx5.md) - [plain]
 
 > 8 bit bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,934 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,015 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVr03NrIUlx5.md) - [plain]
 | 99 | [Immigrant Song](https://open.spotify.com/track/6INzFSLg08SUeZcG64PSwZ) | [8\-Bit Misfits](https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic) | [8\-Bit Versions of Led Zeppelin](https://open.spotify.com/album/11nihhKvWVwU8cM9QWoF4Y) | 2:27 |
 | 100 | [Nothing Else Matters](https://open.spotify.com/track/4S6Ib78sMFF0nOWVtpMJes) | [8\-Bit Misfits](https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic) | [8\-Bit Versions of Metallica](https://open.spotify.com/album/5YgOotRzagZR9gCiHaXD9S) | 5:19 |
 
-Snapshot ID: `MCwwM2UyNDFkMWUwMTVhNzgwNjVjMDI0YTcwZDhhNjZlNTNiYjliMjFk`
+Snapshot ID: `MCw1MmYxMTQ4MzM3MGUwMzhiYzA3OTRiZWRhZWJkNjVmZDQ3NzY0Nzk2`

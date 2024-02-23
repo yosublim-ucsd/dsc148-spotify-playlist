@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWRgGXjiM40.md) - [plain]
 
 > Uma seleção sertaneja para você curtir a sua paixão sem limites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 946,086 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 946,163 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWRgGXjiM40.md) - [plain]
 | 49 | [Declaração pro Bar \- Ao Vivo](https://open.spotify.com/track/5Ge3eW6KYGdmTZbyF7YGVi) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu), [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Amando, Bebendo e Sofrendo \(Ao Vivo\)](https://open.spotify.com/album/48CmSzaD8bR6AYb7Ic2NdH) | 2:41 |
 | 50 | [Ficha Limpa](https://open.spotify.com/track/5SwyN9hzmWjBsINlif8li8) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Falando de Amor, Vol\. 1](https://open.spotify.com/album/1XNqME96E9GBNYCv8wFbn2) | 3:12 |
 
-Snapshot ID: `MCw0YzcwZTQ2ZDkwZGE4NzFiNzhjMjFkMGE1YjY3ZGY5OTI5MGUyNDZj`
+Snapshot ID: `MCw5YWU4MzAwZWIwMGVjYWU0MjY5YjQzNjk0NTFhMzRkYmZhMzE1NmI0`

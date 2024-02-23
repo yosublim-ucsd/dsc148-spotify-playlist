@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 
 > New makes old\. Cover: Sierra Ferrell
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,622 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,687 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 | 99 | [Heartbreak Blues](https://open.spotify.com/track/7lbCzpJx4waIGVSqLwH6tg) | [Holly Macve](https://open.spotify.com/artist/2E51tnARTxTvmYznDHfE5V) | [Golden Eagle](https://open.spotify.com/album/1mmQW9vAtSUvvNVzbJmUxL) | 4:07 |
 | 100 | [Light As a Fire](https://open.spotify.com/track/1GaMKT7VrFJnyzjflhrRHu) | [The Stray Birds](https://open.spotify.com/artist/6cPMzk1hDgzdIe8vkAhcNM) | [Let It Pass](https://open.spotify.com/album/2iZp6ZrhjsPgblTW1UYpDa) | 3:26 |
 
-Snapshot ID: `MCxjZTVjODhmYThiNThiMzFlMjVhM2FiZDVkZWE5N2Q0MzI2M2Q4YzAw`
+Snapshot ID: `MCwzYjM5N2IzZTg2Y2MyYzMzM2YxN2JkZGE0NjljNTk3ZTFkYmI5MzE4`

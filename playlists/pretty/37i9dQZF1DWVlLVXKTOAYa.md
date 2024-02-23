@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlLVXKTOAYa.md) - [plain]
 
 > The most interesting tracks in the current world of pop music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,056,123 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,056,277 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlLVXKTOAYa.md) - [plain]
 | 99 | [How Do I Say Goodbye](https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [How Do I Say Goodbye](https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp) | 2:43 |
 | 100 | [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/album/6MLx7SZjcmMHNUJc1Tcir0) | 1:57 |
 
-Snapshot ID: `MCw1ZjZlZDVhMmE0NDhlOTE3MGU3ZTUwMmNmNTE1NGQ1MjdlYjMwMjQx`
+Snapshot ID: `MCwwZDhmMGZjYTAxYzJmYzU1NjYzZTc5NGJiYThkMzkyOGRmZjAwYzZl`

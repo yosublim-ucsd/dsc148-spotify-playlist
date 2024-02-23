@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 
 > All your favourite holiday jazz classics for your christmas dinner party.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,479 likes - 125 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,471 likes - 125 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 | 124 | [Toyland](https://open.spotify.com/track/4rOpf9iZxgQLSALGHsYvk4) | [Stephen Stevens Quartet](https://open.spotify.com/artist/0sHjwkrwfeNPET9gG2nNfQ) | [Santa Claus Is Coming To Town](https://open.spotify.com/album/29NEpWZtAc1pKuVl6LvEvm) | 2:54 |
 | 125 | [We Wish You A Merry Christmas](https://open.spotify.com/track/7sqKpLs0CUelnUekGEhHwW) | [Rasmus H Thomsen Trio](https://open.spotify.com/artist/5Ep05EOVNYVc5b5trOuDI1), [Krydda Sundström](https://open.spotify.com/artist/6dI8O0N6q3qFU8OgvgpEIm), [Oskar Cederblad](https://open.spotify.com/artist/2FglkJbc16UM02HY1VovVM) | [We Wish You A Merry Christmas](https://open.spotify.com/album/506rp9HRzW8Eu1Cmnlo0rg) | 2:41 |
 
-Snapshot ID: `MCw5MjgyMjA0MjM3NzMxYmRjZWMzZWM2NDc3MTUyMmZlMjYwZDA0ZGZj`
+Snapshot ID: `MCw5OTU2NWJkZDdlN2Q0NmEwMjZmNjg5Zjc5MzMxYjliODczY2UwZWIw`

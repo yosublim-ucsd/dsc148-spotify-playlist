@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ad1mBZqxYJ.md) - [plain]
 
 > ¡Cortes modernos pa' los compas con estilo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,730 likes - 150 songs - 8 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,800 likes - 150 songs - 8 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ad1mBZqxYJ.md) - [plain]
 | 149 | [Te Marqué Pedo](https://open.spotify.com/track/4hAYQuavbB0FYhyxBTbVal) | [Alex Luna](https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2), [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [Te Marqué Pedo](https://open.spotify.com/album/5RY8g4VHQsgPDxewtnPIEX) | 3:36 |
 | 150 | [Morado](https://open.spotify.com/track/35KmOEIUqAGn02t7n4qaIr) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Colores](https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis) | 3:20 |
 
-Snapshot ID: `MCwwY2U5NmQ1MDU3YzIwNWM0YWIxNjQwZTkwZjVkYzZkNDE0MTJhYmUz`
+Snapshot ID: `MCxhODE0NDMzMmIxNDY2ZGRhODFjZWQ3NDAwNjQyYjg0Njk4YWIyZmJi`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-04-15",
-  "description": "Tulum szn",
+  "description": "warming up for ibz szn",
   "name": "Umami",
   "tracks": [
     {
@@ -1781,6 +1781,28 @@
     },
     {
       "album": {
+        "name": "Day I Met You",
+        "url": "https://open.spotify.com/album/0FkM3AnJGzeXNjMudtNRGi"
+      },
+      "artists": [
+        {
+          "name": "YUMA",
+          "url": "https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0"
+        },
+        {
+          "name": "LE YORA",
+          "url": "https://open.spotify.com/artist/0JguaqQNo1CgVjFqtIXyGR"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331855,
+      "name": "Day I Met You",
+      "url": "https://open.spotify.com/track/2CKUBP6gZlk7gVSQLiie5M"
+    },
+    {
+      "album": {
         "name": "Day To Day",
         "url": "https://open.spotify.com/album/0yRmRs2WQV5QzBtcnVfFRR"
       },
@@ -2068,6 +2090,32 @@
       "duration_ms": 202202,
       "name": "Devotion",
       "url": "https://open.spotify.com/track/54vzUEcuM3CmIVnrBiYABn"
+    },
+    {
+      "album": {
+        "name": "DIKEBO",
+        "url": "https://open.spotify.com/album/2LaAMUq3t9WYTchh44IiiI"
+      },
+      "artists": [
+        {
+          "name": "CISUMMI",
+          "url": "https://open.spotify.com/artist/3TndCXavazaX36ikXqPIcq"
+        },
+        {
+          "name": "Stevo Atambire",
+          "url": "https://open.spotify.com/artist/6gbEfMzGr0anNu4sKlXZye"
+        },
+        {
+          "name": "Sparrow & Barbossa",
+          "url": "https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334426,
+      "name": "DIKEBO - Sparrow & Barbossa Remix",
+      "url": "https://open.spotify.com/track/6gYIpXyyYSw7vEZgQmDp7d"
     },
     {
       "album": {
@@ -6191,6 +6239,28 @@
     },
     {
       "album": {
+        "name": "Peperuke (feat. Nes Mburu)",
+        "url": "https://open.spotify.com/album/3PNSiqqwzdFfy1U5Xvkqc0"
+      },
+      "artists": [
+        {
+          "name": "Alex Wann",
+          "url": "https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT"
+        },
+        {
+          "name": "Nes Mburu",
+          "url": "https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216413,
+      "name": "Peperuke (feat. Nes Mburu)",
+      "url": "https://open.spotify.com/track/0d3MdoK5iKTFOUPQadokKZ"
+    },
+    {
+      "album": {
         "name": "Peru (Peace Control Remix)",
         "url": "https://open.spotify.com/album/1BscUG4h8ZyAhQAdmAkJgw"
       },
@@ -8297,6 +8367,36 @@
     },
     {
       "album": {
+        "name": "Veneno (&friends Remix)",
+        "url": "https://open.spotify.com/album/4au0ZInXEbJHLvTLZs7pFi"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        },
+        {
+          "name": "&friends",
+          "url": "https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0"
+        },
+        {
+          "name": "Mari Merenda",
+          "url": "https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ"
+        },
+        {
+          "name": "Sophia Ardessore",
+          "url": "https://open.spotify.com/artist/5XWPfS0p9Ow7IfTrlQhxhw"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235635,
+      "name": "Veneno (&friends Remix)",
+      "url": "https://open.spotify.com/track/6a56Hsf9EGznpPXr4VERkw"
+    },
+    {
+      "album": {
         "name": "Vertigo",
         "url": "https://open.spotify.com/album/6PLiavXQv8JeNW2HBIl18X"
       },
@@ -8518,6 +8618,24 @@
       "duration_ms": 214000,
       "name": "Watch Ya Scent",
       "url": "https://open.spotify.com/track/5FyizYtpHGXVd3IEQHcq54"
+    },
+    {
+      "album": {
+        "name": "Watching My Body Move EP",
+        "url": "https://open.spotify.com/album/3HVmnYV4XqFjr2CeeUfal3"
+      },
+      "artists": [
+        {
+          "name": "MOSY",
+          "url": "https://open.spotify.com/artist/7JqRlV02zd5qwCwzn1aQhf"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327000,
+      "name": "Watching My Body Move",
+      "url": "https://open.spotify.com/track/4SKpC65kJLHhK9a1mUgIa8"
     },
     {
       "album": {

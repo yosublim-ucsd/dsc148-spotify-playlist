@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6i7txhF59QA.md) - [plain]
 
 > Let's party with cheerful Korean trot medley\. Cover: Son Tae Jin\(손태진\), Shin Seong\(신성\), Enoch\(에녹\) \(신나는 트로트 멜로디를 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,678 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,682 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6i7txhF59QA.md) - [plain]
 | 99 | [Breakfast](https://open.spotify.com/track/1fAr5z76bNzGqzs1gKRJo9) | [박군](https://open.spotify.com/artist/3Fe5DbLAhIho2Gdc3xr6BC) | [Breakfast](https://open.spotify.com/album/5VZzzQBGBtjpyXEN8vTY5H) | 4:09 |
 | 100 | [Wind road](https://open.spotify.com/track/1ScaL6JTiXR5YVL8Vwp958) | [Tae Yeon Kim](https://open.spotify.com/artist/1fj59ljd3doYrhH7iCaEVd) | [MISS TROT2 Legendary Mission Best Semi\-Final 1](https://open.spotify.com/album/1zAZbX0fXTXbFdVS26noHA) | 3:55 |
 
-Snapshot ID: `MCxiMmQ2ODgwMDgxODk4MDUzMjMyYjc4YmEzZGJiM2UyNTc1MDY5YzYw`
+Snapshot ID: `MCw0ZjY4NTgxYjQ5NmVjYTU3MDJlNTQwYWM4OTBiMTI5MTM4MTE2ODUw`

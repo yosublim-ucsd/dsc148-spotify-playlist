@@ -4,7 +4,7 @@
 
 > The trending country songs and viral hits you need to know\. Cover: Hailey Whitters
 
-181 songs - 9 hr 57 min
+182 songs - 10 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [breadwinner](https://open.spotify.com/track/2stbjvpFujerfDUuUUPX7o) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 3:20 | 2021-12-03 |  |
 | [Breakup Szn](https://open.spotify.com/track/5pQXzRh20OsQxMaTYhelm7) | [Gracie Carol](https://open.spotify.com/artist/24GbtL2XINFQxX2NxiTWSO) | [Breakup Szn](https://open.spotify.com/album/2axveu3fM08fxnR361iNwn) | 2:33 | 2021-12-03 |  |
 | [Bridesmaids](https://open.spotify.com/track/6qrJ2kxNvGey8ZEWii5teB) | [Kylie Morgan](https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV) | [Bridesmaids](https://open.spotify.com/album/0VdFcNM19RTRUlX59heg5A) | 2:50 | 2022-09-16 |  |
+| [Buckle Bunny](https://open.spotify.com/track/17KfodDyg0yKQYmjGGGnlA) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [BUCKLE BUNNY](https://open.spotify.com/album/0s3PLrYRp1PojvP8W9g1qS) | 3:12 | 2024-02-22 |  |
 | [Call Your Sister](https://open.spotify.com/track/4ZhULfF8Sto8LKYUgx1yU3) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Born in July](https://open.spotify.com/album/3Y22F7f6OISIYwTirf2E6R) | 3:00 | 2022-07-25 |  |
 | [Call Your Sister](https://open.spotify.com/track/6E7NIyFK1OYaG4fTyr8zX1) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Born in July](https://open.spotify.com/album/3FeBLXRG2x2SOz3hOoktdY) | 3:00 | 2021-12-03 | 2022-07-29 |
 | [Call Your Sister \(Sister Version\)](https://open.spotify.com/track/0L36gi0C5hYN90gegFQWrp) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Born in July \(The Album\)](https://open.spotify.com/album/6Xz5OPkS6RCcmQ1hA7JUaO) | 2:59 | 2022-10-11 | 2022-11-14 |

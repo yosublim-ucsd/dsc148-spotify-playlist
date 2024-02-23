@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzN91i1LVSo.md) - [plain]
 
 > a fresh & mellow mix from some of today's best singer\-songwriters\. Cover: Bre Kennedy
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,103 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,099 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzN91i1LVSo.md) - [plain]
 | 99 | [Care for Your Mother](https://open.spotify.com/track/0hkYjDHkQ0vFw1H2fqo08z) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [Foreigner](https://open.spotify.com/album/7BACBsD9qvKUGXs6Pkyz5r) | 4:13 |
 | 100 | [Let Me Hurt \(Acoustic\)](https://open.spotify.com/track/5lCYavZeZIbkVMyiukdTJx) | [Emily Rowed](https://open.spotify.com/artist/0f1BcubFYDkGOTA0bJ0u1w) | [Crying in Cars](https://open.spotify.com/album/4uJrophYlBcAfwQXI6uDlf) | 3:42 |
 
-Snapshot ID: `MCw1ZmM5NDhmNDNmZTRiZmRjMDc4OTlhNzdlMGI2ZjNiZTc3YzhjOTc2`
+Snapshot ID: `MCxhNzcxNjg5ODJmOTlmZjc4MDE0MGQ5MTU5YzlkNzAyZjVmY2UyZDY3`

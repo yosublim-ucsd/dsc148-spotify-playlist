@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 
 > Celebrating the film Bob Marley: One Love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,113,594 likes - 110 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,114,850 likes - 110 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 | 109 | [Handsworth Revolution](https://open.spotify.com/track/54cMaPPTAoC57ZgnMTJKHM) | [Steel Pulse](https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g) | [Reggae Greats](https://open.spotify.com/album/61RLzpGAy4BrIQoEiHXGXA) | 5:22 |
 | 110 | [War Ina Babylon](https://open.spotify.com/track/5Me6F9y6iArvYxyuP30m14) | [Max Romeo](https://open.spotify.com/artist/45QpZznbXYo3nWy0TIhvgv), [The Upsetters](https://open.spotify.com/artist/12CNljuN6DW9e5x61FS03b) | [War Ina Babylon \(Expanded Edition\)](https://open.spotify.com/album/7xlWX3qBfCI68LjswqlBH6) | 4:50 |
 
-Snapshot ID: `MCw0ZDhlOWJkNDU1NDg0ZmY3M2U4NTJkNGU3MDc5Y2U2ZWExMGYxNjNh`
+Snapshot ID: `MCxhZjE1YzNjNjYwMTA1OTEwNjY2MDA2YzZmNDU3NTZlZDgyMTBhMjc5`

@@ -2,7 +2,7 @@
 
 ### [Made In South Africa](https://open.spotify.com/playlist/37i9dQZF1DX9wXOYagay8L)
 
-> Proudly South African Afropop gems\. Cover: <a href="https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe?si=z9IvQnCmTVesshTJLRVaoA">Venom</a>,  <a href="https://open.spotify.com/artist/1bcMyQ4E06YJPmJIZC1IZj?si=2e\_svoWtSnS6jKFCv1STkQ">Shishiliza</a>
+> Proudly South African Afropop gems\. Cover: <a href="https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8?si=KKrVxItjSNGYYw7TaZMuEw">Vusi Nova</a>
 
 527 songs - 1 day 13 hr 52 min
 

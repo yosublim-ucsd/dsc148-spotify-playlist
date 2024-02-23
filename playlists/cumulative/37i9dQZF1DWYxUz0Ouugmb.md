@@ -2,7 +2,7 @@
 
 ### [RADAR Indonesia ](https://open.spotify.com/playlist/37i9dQZF1DWYxUz0Ouugmb)
 
-> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Nadhif Basalamah
+> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Bernadya
 
 187 songs - 12 hr 1 min
 

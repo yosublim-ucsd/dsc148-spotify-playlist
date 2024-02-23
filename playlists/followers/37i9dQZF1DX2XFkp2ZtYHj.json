@@ -1,5 +1,5 @@
 {
-  "2024-02-22": 8048,
+  "2024-02-23": 8092,
   "date_first_scraped": "2023-10-22",
   "description": "No lyrics, no distractions, just chilled piano and study vibes for as long as you need. ",
   "name": "8 Hours of Study Music",
@@ -78,6 +78,24 @@
     },
     {
       "album": {
+        "name": "A Soulful Journey",
+        "url": "https://open.spotify.com/album/3nNSJxyQHDBzYOrWrtaP2q"
+      },
+      "artists": [
+        {
+          "name": "Rory Lewis",
+          "url": "https://open.spotify.com/artist/5xMvSh83e0z7eBZSZ8dxKA"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "A Soulful Journey",
+      "url": "https://open.spotify.com/track/12anw5aeRQWbQVZINMKaoo"
+    },
+    {
+      "album": {
         "name": "A tale to tell",
         "url": "https://open.spotify.com/album/0eaPaXCdf4G33QFO93cfXc"
       },
@@ -147,6 +165,24 @@
       "duration_ms": 200250,
       "name": "Afterlight",
       "url": "https://open.spotify.com/track/0X3mDFl8poPzyNQmrTe9fr"
+    },
+    {
+      "album": {
+        "name": "Afternoon Notes",
+        "url": "https://open.spotify.com/album/3K4EvPk8Du2hyiXwUYkAuy"
+      },
+      "artists": [
+        {
+          "name": "Maria Buehler",
+          "url": "https://open.spotify.com/artist/414bu4YqVabs17TyYuWzbt"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129927,
+      "name": "Afternoon Notes",
+      "url": "https://open.spotify.com/track/1eCb9GfrxJjX0YTn0uPEMU"
     },
     {
       "album": {
@@ -546,6 +582,24 @@
     },
     {
       "album": {
+        "name": "Blessedness",
+        "url": "https://open.spotify.com/album/17HyaDaI7IB2II45VvAT2M"
+      },
+      "artists": [
+        {
+          "name": "Tom Kristiaan",
+          "url": "https://open.spotify.com/artist/1ZU9WJfipgna3ANBoomXYk"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153493,
+      "name": "Blessedness",
+      "url": "https://open.spotify.com/track/1cM4gjiaQ8PS0rz1lv75LF"
+    },
+    {
+      "album": {
         "name": "Blinded by the light",
         "url": "https://open.spotify.com/album/2C8D0P6qH28RM0icHOaWI2"
       },
@@ -597,6 +651,24 @@
       "duration_ms": 140102,
       "name": "Calm Wind",
       "url": "https://open.spotify.com/track/6fjZ39b5dT9uZzFsVRLwSi"
+    },
+    {
+      "album": {
+        "name": "Camino",
+        "url": "https://open.spotify.com/album/5nyL3abLor8WN4Ba6mJIyr"
+      },
+      "artists": [
+        {
+          "name": "Ron Adelaar",
+          "url": "https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135505,
+      "name": "Camino",
+      "url": "https://open.spotify.com/track/6iRtD6kgCTAHOl5nXmOkop"
     },
     {
       "album": {
@@ -1011,6 +1083,24 @@
       "duration_ms": 139375,
       "name": "Elysian",
       "url": "https://open.spotify.com/track/1tPeUoPyQkH8xvr9MqMXT3"
+    },
+    {
+      "album": {
+        "name": "Emerald",
+        "url": "https://open.spotify.com/album/68F0SS9ueRjE4NUhAReYDE"
+      },
+      "artists": [
+        {
+          "name": "Agatha Messina",
+          "url": "https://open.spotify.com/artist/286xUM2HNGoiq5B1ym9cMI"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137000,
+      "name": "Emerald",
+      "url": "https://open.spotify.com/track/0OpKRZqOmoSCtjfpkOa6Ew"
     },
     {
       "album": {

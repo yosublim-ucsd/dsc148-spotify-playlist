@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXanygmGYrrk3.md) - [plain]
 
 > Tus canciones favoritas de Música Mexicana, all in one place! Cover: Eden Muñoz
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,214 likes - 150 songs - 8 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,303 likes - 150 songs - 8 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXanygmGYrrk3.md) - [plain]
 | 149 | [No Paras de Hacerme Feliz](https://open.spotify.com/track/5bP1RCdGcUxkwASwKAbPHa) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [No Paras de Hacerme Feliz](https://open.spotify.com/album/4GnznPcGs85z1yeeWA5Gyi) | 3:05 |
 | 150 | [Mi Última Caravana](https://open.spotify.com/track/0TLYlmmcovm6qxIjg7aDb3) | [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp) | [Amistad y Pesos](https://open.spotify.com/album/2dp0TRYQW761GeOOMtqPv1) | 5:38 |
 
-Snapshot ID: `MCxhOTY2NTkwOTJjZDliNmMwMmIwN2M0OWY2NWJmYjliZjFjOTI5ZjZk`
+Snapshot ID: `MCxjNTRhYTY5MTRlZTI0NDk3YTE3NWY5YzA0ZTdjZWRhNGY3NTkzZGZm`

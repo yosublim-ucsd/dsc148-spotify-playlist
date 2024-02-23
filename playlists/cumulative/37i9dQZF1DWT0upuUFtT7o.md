@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: Chezile
 
-2,222 songs - 5 day 1 hr 40 min
+2,223 songs - 5 day 1 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1909,7 +1909,8 @@
 | [TEMPLE OF THE DRAGON](https://open.spotify.com/track/0NvWS8etvfqa3AFEZEwhK8) | [adam brian paul](https://open.spotify.com/artist/3t5QpadlJRUDWaL2OXileh) | [TEMPLE OF THE DRAGON](https://open.spotify.com/album/3KP1E4NzMHjgMGDafxpVPW) | 2:48 | 2021-12-01 | 2022-01-13 |
 | [Tenderness and Purity](https://open.spotify.com/track/3d7AppklPbBmKap2mBi6aM) | [The Purest Blue](https://open.spotify.com/artist/4gLOH9QcvymfFLcsiPuf7G) | [Tenderness and Purity](https://open.spotify.com/album/7saw3rJ7XbES6Iv2lGgk3q) | 2:08 | 2023-07-19 | 2023-08-24 |
 | [Terminal](https://open.spotify.com/track/611bHLbCX1SlJUIdPLiJ3c) | [Marci](https://open.spotify.com/artist/2YvVKe1MfcslinaPCv402E) | [Terminal](https://open.spotify.com/album/3ggSo0sJMW38ysmz00zwSu) | 3:22 | 2022-06-15 | 2022-07-28 |
-| [Terminal Woes](https://open.spotify.com/track/6KrfQye9oJaJ7ieCF1Dez2) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [Terminal Woes](https://open.spotify.com/album/1XNz75lfWi16KjzQB063De) | 3:19 | 2024-01-31 |  |
+| [Terminal Woes](https://open.spotify.com/track/3Gp7XRhtbdoC8nFGrD6aT6) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [Terminal Woes](https://open.spotify.com/album/4VtmKAVSqGS4Eb2dlwuwMw) | 3:19 | 2024-01-31 |  |
+| [Terminal Woes](https://open.spotify.com/track/6KrfQye9oJaJ7ieCF1Dez2) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [Terminal Woes](https://open.spotify.com/album/1XNz75lfWi16KjzQB063De) | 3:19 | 2024-01-31 | 2024-02-23 |
 | [Terry And Julie](https://open.spotify.com/track/0HObOkJBJGS2Mk5QQimbwj) | [Eden Rain](https://open.spotify.com/artist/05VijScuoKQiWkLdXcsQAq) | [Terry And Julie](https://open.spotify.com/album/1eVWMJvG6ILDqP4Um8cmfa) | 3:04 | 2023-07-26 | 2023-09-21 |
 | [Test Drive](https://open.spotify.com/track/0uNfVfWPTXc0OQpenU2Ejk) | [Dulcie](https://open.spotify.com/artist/5mizYbdTNtmQlU97XqxJOe) | [Test Drive](https://open.spotify.com/album/3P1kvhiXildaFMUSrxSdG4) | 2:52 | 2023-01-18 | 2024-01-11 |
 | [Thank You](https://open.spotify.com/track/69B4QnuWrFFhro2NS2YPS6) | [Wallker](https://open.spotify.com/artist/63D2ytMsspeVC2z9qrfQLI) | [Thank You / A Fraction of This](https://open.spotify.com/album/6pA7GvH8yiihDoHUKew8sR) | 3:03 | 2024-01-10 | 2024-01-18 |

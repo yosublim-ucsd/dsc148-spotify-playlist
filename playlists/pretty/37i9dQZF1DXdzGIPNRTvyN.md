@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzGIPNRTvyN.md) - [plain]
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,716 likes - 170 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,247 likes - 170 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzGIPNRTvyN.md) - [plain]
 | 169 | [Gong like wind](https://open.spotify.com/track/2kUDELBLnmtHbhS6I6WYro) | [Auricz](https://open.spotify.com/artist/1PL9QegP0mArHAjJeJDKWN), [Georg Valeks](https://open.spotify.com/artist/0CdgdnjNOILlUCUFx0JfWS) | [Gong like wind](https://open.spotify.com/album/28HuOj4SnAEmTtECUqoxbD) | 3:12 |
 | 170 | [Horizon](https://open.spotify.com/track/72g342BdHqVHgitJOVpKyU) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [Horizon](https://open.spotify.com/album/6MiyneDUR4YLTtnuoqcvNy) | 3:00 |
 
-Snapshot ID: `MCwxNGNjOGI3NTBhMjE5NGJjMGMyOWJmZmI1ODc3ZmYzOTYyZTUwNDYx`
+Snapshot ID: `MCwwM2UyZmMxMThhODRkYTIwZDMyMjUxMWQwYTRkZjNkMmRkYTI2NTdj`

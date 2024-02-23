@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NFCksjqsSg.md) - [plain]
 
 > Pas mal "tes tounes de karaoké préférées".
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,373 likes - 75 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,384 likes - 75 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NFCksjqsSg.md) - [plain]
 | 74 | [Incognito](https://open.spotify.com/track/6Jfd5c2iOPkphlCX9nt0GJ) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Incognito](https://open.spotify.com/album/3Gc6kXiuACCXzuozrbA1C4) | 4:39 |
 | 75 | [Un nouveau jour va se lever](https://open.spotify.com/track/76LS5dHm0faY67uTILq24m) | [Les Académiciens 2004](https://open.spotify.com/artist/0ngR9CsCD7CZUqY4gUnFyZ) | [Star Académie 2004](https://open.spotify.com/album/1LeElbISsZ2YWjcz89zyC5) | 3:04 |
 
-Snapshot ID: `MCxmMTI4ZTg4NmMwNDdjMTQzZTU5MmNmZmI4YWE3NzNjYThhODRhNzQ1`
+Snapshot ID: `MCwxNTIxMjhkYWU0YjFlMjgzOTBiZTdkOTc1NjI4MzhlNmE4NDc4MzI0`

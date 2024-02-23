@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWpx7KRCSbJ.md) - [plain]
 
 > Pronto pra pool party? Vem com a gente!
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,021 likes - 70 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,012 likes - 70 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWpx7KRCSbJ.md) - [plain]
 | 69 | [Resenha lá em casa](https://open.spotify.com/track/3NnW2EqJxvHYrRy3upaznl) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6) | [Resenha lá em casa](https://open.spotify.com/album/3woJd4AFogSyxqK3wkzPk2) | 3:56 |
 | 70 | [Quero Que Tu Vá](https://open.spotify.com/track/7ppLcVgxpoWAhAa2c0CN3b) | [Ananda](https://open.spotify.com/artist/3ocjm34azq21UtebolrtKj), [Joker Beats](https://open.spotify.com/artist/7tsmrNpbLkT4xL1nzRLpCu) | [Quero Que Tu Vá](https://open.spotify.com/album/0JkqxwCPsumktyGvbytKbh) | 2:19 |
 
-Snapshot ID: `MCwyODA1M2JjMDg5MzJhMTQ0MTM4MjBmNjhjMGI5ZjdkYmRhYTU4YWZl`
+Snapshot ID: `MCw1MTE5ZDhjNjg2ZmUzN2U2YjIxYTliOTUyMjI4ZWYyZTEyMGRlMDdh`

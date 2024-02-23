@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 
 > All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Anthrax
 
-[Spotify](https://open.spotify.com/user/spotify) - 537,979 likes - 120 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 538,079 likes - 120 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 | 119 | [Sin](https://open.spotify.com/track/4bFwNDLo9IeqHQ0iqFEaUA) | [Nuclear Assault](https://open.spotify.com/artist/2iu7W76DMacXn6hzAqmJJU) | [Game Over](https://open.spotify.com/album/0isrNd8l4UqHhtPDhCKsId) | 3:22 |
 | 120 | [Give Me Leather](https://open.spotify.com/track/0W5YJVzJ9WABd2vmoqmlC8) | [Gama Bomb](https://open.spotify.com/artist/7h0muodpQ1q5o3RajwownN) | [Speed Between the Lines](https://open.spotify.com/album/3Ti0nXYU3jdrWkIV8gxpaA) | 3:50 |
 
-Snapshot ID: `MCwzODE0YmU0Y2M0Yzg4MWVlZGNmZjZhMGQ3NWVmZTg2YjhhMDE1YjM5`
+Snapshot ID: `MCwxY2RlZTY5NTZlOGViZmRjY2MyOGJlMWNiMGIyMGM5YzY3YmM4MWUz`

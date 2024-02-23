@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 
 > Vibraciones rastafari en español\. Foto: Nonpalidece
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,218,268 likes - 100 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,218,334 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 | 99 | [Mi Sol](https://open.spotify.com/track/6yHfT8zwc1YOJ5FLNOiWzK) | [El Natty Combo](https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9) | [El Sonido Real](https://open.spotify.com/album/0ny4vJH3LRvW8AjTotkY4A) | 6:25 |
 | 100 | [Ahora Sé](https://open.spotify.com/track/0SmzNdmlTBHsMrfcs82xVQ) | [Iseo & Dodosound](https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc) | [Ahora Sé](https://open.spotify.com/album/5qzeqSCqqYM1LDGqpQqdyA) | 3:20 |
 
-Snapshot ID: `MCwwZWE3M2RjMjY2ZjhmMTNlMmI3OTVhZDM0N2EwN2QwNzMwMWM2YzBh`
+Snapshot ID: `MCxiYzA2N2Q1NDUyMGI4MjgyY2ZjNDhhZmM1YzZhODg2MTA1MWEwM2Y4`

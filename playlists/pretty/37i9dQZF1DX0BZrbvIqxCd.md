@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 
 > A mix of punk rock to get you through your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 544,441 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 544,491 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 | 99 | [Dead!](https://open.spotify.com/track/3262RRKqFC1oJXFwCMqgM0) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade / Living with Ghosts \(The 10th Anniversary Edition\)](https://open.spotify.com/album/29mlJg2PpuihKDNYZalIxw) | 3:15 |
 | 100 | [Want Me Around](https://open.spotify.com/track/3dncWYTMi4YudEtsJzT4OI) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Shapeshifter](https://open.spotify.com/album/4pIwtCO5U55WjclTKwf8Ah) | 3:31 |
 
-Snapshot ID: `MCw3ZTk2ZmQ1YTlhZDRjMzYyYThkNjI3NTg5ZDkwNzhhNmE5MWE3ZmU4`
+Snapshot ID: `MCw3ZGU5ZmEwODc5NzJkNWNiZGM3ZmIwNzNkMmRjZDhhOTQ2MTUwMThi`

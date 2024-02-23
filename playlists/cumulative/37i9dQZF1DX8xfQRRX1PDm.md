@@ -2,7 +2,7 @@
 
 ### [Bollywood Dance Music](https://open.spotify.com/playlist/37i9dQZF1DX8xfQRRX1PDm)
 
-> Party\-ready, biggest Bollywood dance tracks of last 10 years\. Cover \- Bhediya
+> Party\-ready, biggest Bollywood dance tracks of the last 10 years\. Cover \- Bhediya
 
 226 songs - 13 hr 15 min
 

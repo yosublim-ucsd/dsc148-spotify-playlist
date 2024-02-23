@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 
 > i don't normally like country but now my whole life is line dancing to Dasha 🤠👢🌵🏜🐴
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,493,764 likes - 133 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,493,919 likes - 133 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -142,4 +142,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 | 132 | [Jungle Type Love](https://open.spotify.com/track/658TvwYU4VDypQz2cjAhag) | [SKYLAR](https://open.spotify.com/artist/3JFpiBTgX5C0aIzePDlgXA) | [Jungle Type Love](https://open.spotify.com/album/5bX5NlS3qoaLcpND4bnqis) | 2:29 |
 | 133 | [Make More Money](https://open.spotify.com/track/1AfQb3PcCfeUQo39c0jUR7) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [Make More Money](https://open.spotify.com/album/7fUJqEZknIGZwp59TsDQqK) | 3:19 |
 
-Snapshot ID: `MCxjNTM2YmRlYWUzY2ZjNjNkMDA4OTkzNWU2ZmZiMWRlMDUyMTFkOTZj`
+Snapshot ID: `MCxiNzljMzQyZWJlMTZiNDZhM2EwMWM3Yzc0M2UxMDgzMzFhMjFlOWU3`

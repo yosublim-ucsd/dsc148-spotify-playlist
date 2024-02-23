@@ -101,6 +101,32 @@
     },
     {
       "album": {
+        "name": "123",
+        "url": "https://open.spotify.com/album/3pRZvBWwgcncxMB38qQNou"
+      },
+      "artists": [
+        {
+          "name": "Carla Sol",
+          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
+        },
+        {
+          "name": "Mel",
+          "url": "https://open.spotify.com/artist/5a5NeXda5Km8VQLSJQIa94"
+        },
+        {
+          "name": "Volp",
+          "url": "https://open.spotify.com/artist/6fFgNVTo4bxMf2eswaar7Z"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165106,
+      "name": "123",
+      "url": "https://open.spotify.com/track/6JfHhsaYmjHaqLd4ykzIKi"
+    },
+    {
+      "album": {
         "name": "2 Minutos",
         "url": "https://open.spotify.com/album/5DPRUTrk79KG5HMKmsl6XQ"
       },

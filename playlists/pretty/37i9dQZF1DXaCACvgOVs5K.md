@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaCACvgOVs5K.md) - [plain]
 
 > Get ready for Ibiza season 2023\. See you on the dancefloor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,907 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,159 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaCACvgOVs5K.md) - [plain]
 | 18 | [B.O.T.A\. \(Baddest Of Them All\) \- Edit](https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [B.O.T.A\. \(Baddest Of Them All\)](https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK) | 3:46 |
 | 19 | [Call My Name](https://open.spotify.com/track/0vQ2LIvx5U6QN7BnUHWwsJ) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Call My Name](https://open.spotify.com/album/1JU6xZQeMx05tLZAkm5uCv) | 3:18 |
 | 20 | [Good Love](https://open.spotify.com/track/0ZVjgfaC2Ptrod9v6p9KFP) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [RoRo](https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff) | [Good Love](https://open.spotify.com/album/4SCAkvXJmXuvoQTlQU7Q48) | 2:49 |
-| 21 | [Levitate](https://open.spotify.com/track/3w0nFtVBa75tPHsSNZxWr6) | [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d), [GotSome](https://open.spotify.com/artist/5eALE6GKSAiBNMyqpsqoeX), [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3) | [Levitate](https://open.spotify.com/album/4Ihs3D52rXV5uNlQfsgkqh) | 3:26 |
+| 21 | [Levitate](https://open.spotify.com/track/3pA6bEb7Y0lGeyysqDlzDm) | [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d), [GotSome](https://open.spotify.com/artist/5eALE6GKSAiBNMyqpsqoeX), [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3) | [Levitate](https://open.spotify.com/album/7DnifJAeP8n2eMj1vG89Hs) | 3:26 |
 | 22 | [Giving Me](https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Giving Me](https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc) | 2:49 |
 | 23 | [Drugs From Amsterdam](https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam](https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo) | 3:55 |
 | 24 | [Marea \(we’ve lost dancing\)](https://open.spotify.com/track/5Z8Dj3LtbyCMiwE86rhg2f) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Actual Life \(April 14 \- December 17 2020\)](https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC) | 4:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaCACvgOVs5K.md) - [plain]
 | 99 | [Let You Go](https://open.spotify.com/track/0KG7XrgM20KEmJrKsyFDAm) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [Diplo](https://open.spotify.com/album/5pdR4YX2zWMXotdF034UYY) | 3:54 |
 | 100 | [Joy](https://open.spotify.com/track/17E3lZxFJnO49Gb0tdgVn0) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Joy](https://open.spotify.com/album/76GgZZUHQu2VQRLMXEIQcL) | 4:41 |
 
-Snapshot ID: `MCw3NjIwNDQ2YjMzNmI3MzdkODZiODViYmIyYzE0NGI5MTk2Mzc4MWRl`
+Snapshot ID: `MCxiMjIxYjRlYjA4NTI1NjJlZmM3ZTY2OGQ2YWRjMmEwNzRlMTk3YWRi`

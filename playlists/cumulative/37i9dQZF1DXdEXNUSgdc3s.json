@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "432 Hz Tellus Heartbeat",
+        "url": "https://open.spotify.com/album/3F6z3CdXwUdmEytOcDOdIf"
+      },
+      "artists": [
+        {
+          "name": "Aura Glow",
+          "url": "https://open.spotify.com/artist/7IGjZnvxxrmq5LtjOSjLt6"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "432 Hz Tellus Heartbeat",
+      "url": "https://open.spotify.com/track/3jZtP1Fbf4WO45BuCClXQJ"
+    },
+    {
+      "album": {
         "name": "Binaural Alpha Soundscapes for Deep Relaxation",
         "url": "https://open.spotify.com/album/4tIovUJTFv0rbj146oK5pi"
       },
@@ -1424,6 +1442,24 @@
       "duration_ms": 262965,
       "name": "Stimulus - Alpha sinus 95 - 100hz",
       "url": "https://open.spotify.com/track/1WTzE86eipBlrg5RnzJTm5"
+    },
+    {
+      "album": {
+        "name": "Suspended in Time 528Hz",
+        "url": "https://open.spotify.com/album/3wkXTVe5vEYlmdOg47BgNs"
+      },
+      "artists": [
+        {
+          "name": "myndstream",
+          "url": "https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190043,
+      "name": "Suspended in Time 528Hz",
+      "url": "https://open.spotify.com/track/2AlSl9svSZiPOz8HLGzehn"
     },
     {
       "album": {

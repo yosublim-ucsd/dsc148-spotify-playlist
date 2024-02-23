@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZndSu0dHeI.md) - [plain]
 
 > Sometimes it's nice to be nice, you know.
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,814 likes - 80 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,944 likes - 80 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZndSu0dHeI.md) - [plain]
 | 79 | [Sorry I Am](https://open.spotify.com/track/1mVva2Aa3gD9Wwlqg2G1y3) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Del Water Gap](https://open.spotify.com/album/22ljnmjYzy4TS5tCtaRIUE) | 4:01 |
 | 80 | [Close One](https://open.spotify.com/track/4mL3gs1HONGGLaZyW6OYMq) | [FIZZ](https://open.spotify.com/artist/0zooagBp2tYdvvSLp74S7U) | [The Secret To Life](https://open.spotify.com/album/49YsmuVR4Dk9iC2m5LPSKy) | 3:55 |
 
-Snapshot ID: `MCxiYzRhNGFiMWQxNDExY2FjM2Y5Zjk0OWQyNTc5YWM3OGEyY2E5ODJi`
+Snapshot ID: `MCxmYTQ1NjQ0YzhhZDlkYmM3YTZjNmM4ZDZlYjhmNzlhNGE5NzQ0NjU0`

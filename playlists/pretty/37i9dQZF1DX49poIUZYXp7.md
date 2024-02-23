@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49poIUZYXp7.md) - [plain]
 
 > The extraordinary women making great country music today\. Cover: Mickey Guyton
 
-[Spotify](https://open.spotify.com/user/spotify) - 479,081 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 479,161 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49poIUZYXp7.md) - [plain]
 | 99 | [Ghost Story](https://open.spotify.com/track/2FGOg7uYBfnspkPOISXTFY) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Ghost Story](https://open.spotify.com/album/7jiRQ5lBRvqoqSsPldfHjc) | 3:01 |
 | 100 | [Love You a Little Bit](https://open.spotify.com/track/5U8jzduwcqML3oi3yY1wDP) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [BUCKLE BUNNY \(DELUXE\)](https://open.spotify.com/album/2GBaNzYtAW6NgOW4VHxnlq) | 3:30 |
 
-Snapshot ID: `MCxjN2ZmZDkzZTk1YzRlOGM3NmZkNWM1ODYwZGUwYTIxMmY5YjNiMjVk`
+Snapshot ID: `MCxlYzNhNzkzMjBlODg0NzJiNzRhZmMxMDhlMzAwNzMwNjA1MjcwMTI3`

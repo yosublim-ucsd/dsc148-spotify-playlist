@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ5Se2LB1C5h.md) - [plain]
 
 > Únete a la extravaganza del neón\. Calvin Harris con Rag'n'Bone Man en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 428,706 likes - 100 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 428,754 likes - 100 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ5Se2LB1C5h.md) - [plain]
 | 42 | [Gimme That Bounce](https://open.spotify.com/track/7jURkEKDVEm9sHueqUX0ko) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Gimme That Bounce](https://open.spotify.com/album/1aCIYDZTw34CIRq8Vr1VQv) | 3:37 |
 | 43 | [All By Myself](https://open.spotify.com/track/5Hp4xFihdOE2dmDzxWcBFb) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [All By Myself](https://open.spotify.com/album/3lAmnw0gNntYuTltwETnSn) | 2:51 |
 | 44 | [Dancin \(feat\. Luvli\) \- Krono Remix](https://open.spotify.com/track/6WkJ2OK163XXS2oARUC9JM) | [Aaron Smith](https://open.spotify.com/artist/77qukKzmdI5BeMBR7WGUrN), [Krono](https://open.spotify.com/artist/17TFSnqADESRM8BPSaM5aB), [Luvli](https://open.spotify.com/artist/6dqohi36avY0M9urnyhITr) | [Dancin \(feat\. Luvli\) \[Krono Remix\]](https://open.spotify.com/album/2J2f6vGACFrRghO1Ki74BE) | 3:18 |
-| 45 | [Mexico](https://open.spotify.com/track/6yTaG6eJDi6T0VSawfMTQy) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Mexico](https://open.spotify.com/album/6dn1PltXAnQZB5i5jJoeN6) | 2:33 |
+| 45 | [Mexico](https://open.spotify.com/track/6yTaG6eJDi6T0VSawfMTQy) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO) | [Mexico](https://open.spotify.com/album/6dn1PltXAnQZB5i5jJoeN6) | 2:33 |
 | 46 | [OUT OUT \(feat\. Charli XCX & Saweetie\)](https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [OUT OUT \(feat\. Charli XCX & Saweetie\)](https://open.spotify.com/album/5wJb3DBSoSMKYJA8TrNKi8) | 2:42 |
 | 47 | [Sicko Drop](https://open.spotify.com/track/5T4lERmPqhO2ukZoGJ5sSr) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [Schillist](https://open.spotify.com/artist/2qvWyc9Z0oHK156P65vH4d) | [Sicko Drop](https://open.spotify.com/album/2dwO0gaZIbr77oUSn6OfoE) | 2:27 |
 | 48 | [Something](https://open.spotify.com/track/6LHXb1sGs72iTmpSr0603b) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Breathe Carolina](https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC) | [Something](https://open.spotify.com/album/7GFLvptwUjJfXt21DbQmQQ) | 2:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ5Se2LB1C5h.md) - [plain]
 | 99 | [Don't Forget My Love](https://open.spotify.com/track/2OZZpID4LgZ0GGm8XB99e3) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Don't Forget My Love](https://open.spotify.com/album/1vtsrwjdXkuAmojBCw2mtv) | 3:19 |
 | 100 | [HISTORY](https://open.spotify.com/track/5IfHQilcjciOxJQBFCNCCN) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [HISTORY](https://open.spotify.com/album/1R7H7T15beGxVaQQ1MnH78) | 2:56 |
 
-Snapshot ID: `MCxlYTVkMzcyZWU5ODRhNDFlYWMwMmM1OTdmNGVkZmIzOTQ4NjEzNjk2`
+Snapshot ID: `MCxiMWIxMjM2MmJjNGZmNjAwNDAyMzA3MmFiYzRmZmI2NjNjODM1MjA5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVE0GbO5rNDb.md) - [plain]
 
 > Hit dance per l'estate 2023, anche in autunno 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,672 likes - 100 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,675 likes - 100 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVE0GbO5rNDb.md) - [plain]
 | 99 | [Hero](https://open.spotify.com/track/29p6UW08MXzwj9thWBW3uF) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Hero](https://open.spotify.com/album/6KV17NyVQwm5PJOVwAVlyV) | 2:51 |
 | 100 | [Sunrise](https://open.spotify.com/track/4iWMYQzb82cuwANWqByUda) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [Sunrise](https://open.spotify.com/album/6a65EL0FbTxEZ837CMrtYg) | 2:18 |
 
-Snapshot ID: `MCwyODViZWE5Y2EyYzYyOWJmMGYzNzlhMzM0OWYyNDU1OWRlODMyM2Mw`
+Snapshot ID: `MCwxOTU0ZTA1YzM0ZWZlYThhNDhlYWVmYTE5Mjg2ODJlNWQyMzUxNTkw`

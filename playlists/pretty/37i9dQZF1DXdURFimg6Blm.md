@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdURFimg6Blm.md) - [plain]
 
 > Dance tracks for a big workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 573,664 likes - 100 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 574,065 likes - 100 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdURFimg6Blm.md) - [plain]
 | 99 | [dashstar\* \- VIP](https://open.spotify.com/track/4FKRT4uPFx2L4exy9DCs1o) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg) | [dashstar\* \(VIP\)](https://open.spotify.com/album/014iFORUzGJCv81enXjJMg) | 2:20 |
 | 100 | [Take Me Away](https://open.spotify.com/track/1EXDjOpV3Lbiv8CzJ7caHs) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd) | [Take Me Away](https://open.spotify.com/album/6EYwIO2gr5pTgQBysWPQvt) | 2:59 |
 
-Snapshot ID: `MCxlM2E1NDdjMjFiOTc4NjUwMGIyY2ZmYWM3NGM4OWZjYzEyNTA4Njhi`
+Snapshot ID: `MCw4YTkzMjY0NjBmOWZjZjFmOWUyZTQxMDJlMWM5NzJiMDM2YzkyNmQ3`

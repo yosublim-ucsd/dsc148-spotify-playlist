@@ -4,7 +4,7 @@
 
 > Instrumental beats for a restful night's sleep.
 
-656 songs - 1 day 1 hr 23 min
+657 songs - 1 day 1 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Cabin House](https://open.spotify.com/track/67deXf90gwZw4QeAWHiylh) | [lofi geek](https://open.spotify.com/artist/1hqeRW1EQZ1flf02acnGVU) | [Cabin House \(Lofi Hip Hop\)](https://open.spotify.com/album/6BXMZHSTUqvCYdCS8WOGHy) | 3:04 | 2022-05-20 | 2022-08-12 |
 | [cabin in the woods](https://open.spotify.com/track/68Tr47vEwCpIwHfD71BfEY) | [L O K P I K](https://open.spotify.com/artist/5cBhqrr27KHAzJ5GyoApmh) | [cabin in the woods](https://open.spotify.com/album/7hIKQzPwgFFZCJ1Hn3JyE6) | 2:02 | 2023-03-16 |  |
 | [Call It A Night](https://open.spotify.com/track/4T7oDgtpVj7mvGseuU7nyA) | [jon pm](https://open.spotify.com/artist/0hEvTw85lFywhlAfgEc8VH) | [Call It A Night](https://open.spotify.com/album/1Xr2BvONEbJF8jKapfbg8O) | 2:21 | 2023-02-20 |  |
-| [Calm City](https://open.spotify.com/track/6mSrioYFENXOUzqeUpB7fi) | [Baila Sin Cesar](https://open.spotify.com/artist/0YERaAlqBjUVFTJevGHGcD) | [Calm City](https://open.spotify.com/album/31m4bBQfftbOjyCF1qDyFq) | 2:04 | 2023-06-06 |  |
+| [Calm City](https://open.spotify.com/track/6mSrioYFENXOUzqeUpB7fi) | [Baila Sin Cesar](https://open.spotify.com/artist/0YERaAlqBjUVFTJevGHGcD) | [Calm City](https://open.spotify.com/album/31m4bBQfftbOjyCF1qDyFq) | 2:04 | 2023-06-06 | 2024-02-23 |
 | [candlelight](https://open.spotify.com/track/2X6DKsYGYiPYCn0iezQja7) | [Flacvih](https://open.spotify.com/artist/5vyWkHZrsvbjPskzIatoFg), [abovus](https://open.spotify.com/artist/5DXweVRKKbzWHYb4jgIafb) | [candlelight](https://open.spotify.com/album/0L2V7JeAv4OCbB1XG3Sij7) | 2:01 | 2023-08-18 |  |
 | [cardemom](https://open.spotify.com/track/72zJvhH4TtIiLhqf0MLcH0) | [costa rossa](https://open.spotify.com/artist/2X3PPKj7e0xtArhiXP6n1U) | [cardemom](https://open.spotify.com/album/7xdsI2tMfxROavLukCqiRe) | 2:16 | 2023-02-06 |  |
 | [Care For Lads](https://open.spotify.com/track/6RfxKL8zlBXG1Up4wNlLwz) | [Matt Kaff](https://open.spotify.com/artist/4k9rFz2MLEyxG3GqdZ1Uqg) | [Care For Lads](https://open.spotify.com/album/5zb3DkfoA7QUTT98faoJ2d) | 2:51 | 2022-07-01 |  |
@@ -203,6 +203,7 @@
 | [Fireflies](https://open.spotify.com/track/30RBPOOwjABC3G1k0QXsfj) | [wood.](https://open.spotify.com/artist/2mPJCIWr1F4EPuHC4qSGJi) | [Fireflies](https://open.spotify.com/album/4ZHqOdkFxvVhispfS44eKC) | 2:51 | 2022-09-09 |  |
 | [First Light](https://open.spotify.com/track/0sqdRPJVQWtDOYGWIfkyA6) | [casternova](https://open.spotify.com/artist/3lD0xLpL1pkSo5YZJt3lVk) | [First Light](https://open.spotify.com/album/6tsXTLAXqs771YLoD8hFiP) | 2:36 | 2022-11-18 | 2023-08-30 |
 | [first look](https://open.spotify.com/track/4fhwddTpcG2yxv26BFVLDd) | [jacob klev](https://open.spotify.com/artist/3XV2xVPuckMYpUbguXZ57D) | [first look](https://open.spotify.com/album/3yZU9nbHQenBDDdgiDIEKt) | 2:04 | 2022-05-20 | 2023-08-30 |
+| [first spring](https://open.spotify.com/track/2lz9hiRuncFf0mhXblOFEo) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [first spring](https://open.spotify.com/album/7HrMeeEyJuYpSXPRXJrtSi) | 2:34 | 2024-02-23 |  |
 | [Flickering Lights](https://open.spotify.com/track/2DR0SF7IY37qj9GJKmoIjx) | [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [Hanni](https://open.spotify.com/artist/14E7RzXOsb9iMithqexVOd) | [Flickering Lights](https://open.spotify.com/album/3Eu6F3NxjlKxcyKdT3CFkJ) | 2:52 | 2023-08-18 | 2023-09-22 |
 | [Floating Forest](https://open.spotify.com/track/5cb1aOyZ7LCAXVqLjgqywy) | [Darsena](https://open.spotify.com/artist/1BeDagLSzc3lMXJm0NSKNV), [Simadì](https://open.spotify.com/artist/76Rf6N7xWJE6lWwhAsAcVM) | [Floating Forest](https://open.spotify.com/album/4WYYiK654I2BPtYYXEIMpH) | 2:30 | 2022-07-01 |  |
 | [Flower Dance](https://open.spotify.com/track/2wNPKZ1ne2YwcEON1sGfif) | [Lilac](https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1) | [Flower Dance](https://open.spotify.com/album/08tgysJg7YBfWDTJVcDErq) | 2:36 | 2022-07-22 | 2022-08-12 |
@@ -634,7 +635,7 @@
 | [typewriter](https://open.spotify.com/track/0J7Fq0zoBOj4Sfcxy7kyg4) | [shawn pink](https://open.spotify.com/artist/2RcAWtULux9LPj37M9nXxI) | [typewriter](https://open.spotify.com/album/3a0OsiJ0NMiqiy7W7T8Yfa) | 2:03 | 2023-07-17 |  |
 | [Under The Stars](https://open.spotify.com/track/1OWbLmxzyL8HLPlxKehklr) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [Under The Stars](https://open.spotify.com/album/6ObwaaMTrezEKYZz4p0qwU) | 2:47 | 2023-02-14 |  |
 | [Under The Tree](https://open.spotify.com/track/420Lnd8GyiUS2HGt5NQBja) | [Chrisolof](https://open.spotify.com/artist/3j5LR5BmDSKqCvNRuAqCKI) | [Under The Tree](https://open.spotify.com/album/3aTq47AQERmjnRyrsQqswn) | 1:54 | 2022-07-15 |  |
-| [under water](https://open.spotify.com/track/1sQlZIzRvIakw7SIB4THi1) | [bax iv](https://open.spotify.com/artist/0JZZhhFnYFY5c4mDXTgj42) | [under water](https://open.spotify.com/album/5lMoCrsL2AheZithd3omCi) | 2:06 | 2023-09-22 |  |
+| [under water](https://open.spotify.com/track/1sQlZIzRvIakw7SIB4THi1) | [bax iv](https://open.spotify.com/artist/0JZZhhFnYFY5c4mDXTgj42) | [under water](https://open.spotify.com/album/5lMoCrsL2AheZithd3omCi) | 2:06 | 2023-09-22 | 2024-02-23 |
 | [Untroubled](https://open.spotify.com/track/3BM6eztAb6mpU54ptvRJVz) | [Dozy Blank](https://open.spotify.com/artist/3Z4yBB7X6uBREX8Uouu0Ds), [LUXID AXID](https://open.spotify.com/artist/6yZIMRBmAHdrstkuapdrc0) | [Untroubled](https://open.spotify.com/album/7LtbSMTmH8dp9vSCOwUCtL) | 2:00 | 2022-12-16 |  |
 | [Uphill](https://open.spotify.com/track/0oEDgkRNaHonuqilpTGydO) | [Lomme](https://open.spotify.com/artist/2UxHowdAHxVWPhQQswzpT6), [Kayba](https://open.spotify.com/artist/6ALIOkppAXyMd9G0MbHqOL), [Elk Beats](https://open.spotify.com/artist/1Nl5io0qeF6ISnWrdTnFQB) | [Fly Away](https://open.spotify.com/album/087RvpUEA0OPTqzLFMd8h8) | 2:20 | 2022-09-02 | 2023-09-29 |
 | [Vanilla](https://open.spotify.com/track/3eew64ZAbWJa9HvzLcqXmO) | [Manamera](https://open.spotify.com/artist/7ar7lfJxKo3iW5YNXzrLJz) | [Vanilla](https://open.spotify.com/album/269AHsEgEDJ8Q5TY9oU0ym) | 2:05 | 2022-05-20 | 2022-09-17 |

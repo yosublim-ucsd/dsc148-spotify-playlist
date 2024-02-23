@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 
 > A journey into the unknown, dark, and experimental.
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,710 likes - 75 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,755 likes - 75 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 | 74 | [Glossy Bingo Stain](https://open.spotify.com/track/2Cq1hV8Aiy1xnJCaCSh5CR) | [Call Super](https://open.spotify.com/artist/1FVo44KTXqxo3JxXADWTd9) | [Eulo Cramps](https://open.spotify.com/album/08Y3QjcmVihRgFFtppaQNO) | 6:02 |
 | 75 | [A Garden by the Sea](https://open.spotify.com/track/1Nzdc7gAPufUvqXulMHsWu) | [Beautify Junkyards](https://open.spotify.com/artist/2Rrf9CkzPdPihESHDo5KZl) | [Cosmorama](https://open.spotify.com/album/51huDw05lsbbpDcR1MuIfq) | 4:42 |
 
-Snapshot ID: `MCxhNDcyNDVjYjRjYmM3NzUyMzUyMmJmMzVmZDlhOWM2NDA4OWJkM2Q1`
+Snapshot ID: `MCwwOTBlZTZiODhkOTNiZDVjZTI4OTQ0MmFlZTJiMWZlNGI5MzhkYmI3`

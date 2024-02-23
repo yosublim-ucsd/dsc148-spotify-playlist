@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19FiqS4SYCP.md) - [plain]
 
 > Tejano's new wave! La nueva ola de música tejana\. Cover: Gary Hobbs
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,890 likes - 80 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,902 likes - 80 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19FiqS4SYCP.md) - [plain]
 | 79 | [Ilusiones](https://open.spotify.com/track/2ppb8UJGd46K2s3amo3Tdf) | [Inspirazion](https://open.spotify.com/artist/0VsDIktkT2MwCO9U48QBvZ) | [Ilusiones](https://open.spotify.com/album/3RuGEPSv2fjAkSAZ3zi06i) | 3:17 |
 | 80 | [Los Laureles](https://open.spotify.com/track/4X934GVbVTB738dLh2fsDG) | [Grupo Rumores](https://open.spotify.com/artist/7yTayx79xvmK2D61aPGprO) | [La Faldita](https://open.spotify.com/album/3PloZ7lDWnocn5J8b8qIYd) | 3:12 |
 
-Snapshot ID: `MCw2M2NlYzY1NGY3YjMyZGVmYzc0MTNiM2U2YjAzNTMyMGIwYzlkY2Ew`
+Snapshot ID: `MCxhMDdlOWYzYWYzZjI0NjQ1NjY5NDc0ZDZlYmQzYjc1NWZlNTYxYzM5`

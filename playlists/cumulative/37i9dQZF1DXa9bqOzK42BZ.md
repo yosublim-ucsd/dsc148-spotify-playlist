@@ -4,7 +4,7 @@
 
 > Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here\. Cover: <a href="https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL?si=QOxAEPw5SfeFdIYUaljgEA">Christina Shusho</a>
 
-141 songs - 13 hr 17 min
+144 songs - 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Conduis mes pas](https://open.spotify.com/track/1zGlgkEa3sONbUQISvtGtO) | [LORD LOMBO](https://open.spotify.com/artist/7LYWtUyWFb2GIE5sjigMvX), [Princesse Betu](https://open.spotify.com/artist/6BbWSslst8GBiQQHtDiMST), [BEN MAVINGA](https://open.spotify.com/artist/3QekiUqMIPwFSYGcoOJWCQ) | [Conduis mes pas](https://open.spotify.com/album/3TxaM33oOiLSwIwS7JC15h) | 4:58 | 2023-04-21 |  |
 | [Daima Milele](https://open.spotify.com/track/2cw73wKNCMZ0mYWhR8dnvb) | [Beda Andrew](https://open.spotify.com/artist/11VA7kqmrvG4yAs57K1h8Z) | [Daima Milele](https://open.spotify.com/album/17miwO9oyLABYvNNJ53ofy) | 4:55 | 2023-12-01 |  |
 | [Dawa Yangu \(feat\. Bony Mwaitege\)](https://open.spotify.com/track/2Tk34qaKsggZJNRzBnoBlR) | [Bahati Bukuku](https://open.spotify.com/artist/3T46Acf655h1bG3Zb8kcsF), [Bony Mwaitege](https://open.spotify.com/artist/1vh543t6ipbRMe1shJp0j1) | [Dawa Yangu](https://open.spotify.com/album/4qXfLDC8acsrrp82x3nXY2) | 5:40 | 2023-07-21 |  |
+| [Design](https://open.spotify.com/track/2sRh4c16w9ouLKDsxST41G) | [Kenani](https://open.spotify.com/artist/5k3oBkYy3nm3hHoUreIJ3O), [Dj Penny](https://open.spotify.com/artist/0m8Pugts84dRwQV3sYSJuY) | [Design](https://open.spotify.com/album/6dqPT2VdkhAmRL0BITqIFJ) | 2:34 | 2024-02-23 |  |
 | [Ebenezer](https://open.spotify.com/track/0FMRioTf40f4KVHSeVvqLh) | [Angela Chibalonza](https://open.spotify.com/artist/6o1Crwek2BEtkfAsI204iR) | [Nimekutana Na Yesu](https://open.spotify.com/album/7uG3igTPfTvad0ePaGCWM2) | 4:55 | 2022-06-24 |  |
 | [Ebenezer \- Live](https://open.spotify.com/track/0LrmJpJOK9k3Ob0oueMxEv) | [Noel Nderitu](https://open.spotify.com/artist/7vND5ZBem26nCv1lRHx4xT) | [Ebenezer \(Live\)](https://open.spotify.com/album/5Ijn49UMMcX4QETIQEQz1T) | 5:02 | 2024-01-26 |  |
 | [Egemeo](https://open.spotify.com/track/03k9zseKZJ8mu2nTWHuoHQ) | [Godwill Babette](https://open.spotify.com/artist/787HVRJFIkDBhj7HeHCVsG) | [Umenibeba](https://open.spotify.com/album/7lKfLz5d1olqce9qgqK1jB) | 5:34 | 2022-06-24 | 2023-04-07 |
@@ -74,6 +75,7 @@
 | [Narudisha](https://open.spotify.com/track/3x95KiKvcpqSBuGLPHkDkY) | [Gloria Muliro](https://open.spotify.com/artist/22EUP7xdGe9A2jzD7zdSxV) | [Narudisha](https://open.spotify.com/album/3sFqgqQH7abGlGF1U0WG6T) | 4:29 | 2022-06-24 |  |
 | [Nasema Asante](https://open.spotify.com/track/7qNQyLCGokzNJvntxK9bSs) | [Sarah K](https://open.spotify.com/artist/3FHjTaYYx0pFSyPUMnbjyv) | [Nasema Asante](https://open.spotify.com/album/6kjOtcXq1MuBrCDsKqSyKI) | 7:24 | 2022-06-24 | 2023-03-11 |
 | [Natamani Wamebarikiwa](https://open.spotify.com/track/2xJA3Bbn20xQYiWh1Cjj6E) | [Pastor Anthony Musembi J.C.C\. Mombasa](https://open.spotify.com/artist/12UXrRdVxNm2TbYBeF0vl1) | [Pacato Worship](https://open.spotify.com/album/0rtr6F0F2LnjZKSFQXInWg) | 7:00 | 2022-06-24 |  |
+| [Neema Yako](https://open.spotify.com/track/48KauDiCxIpvjOXd0Cg99L) | [Rehema Simfukwe](https://open.spotify.com/artist/6LL0XXSfIWHDxuDf9HmnjL) | [Neema Yako](https://open.spotify.com/album/0XBXZ6z5qXz5f6ZsVD4UqD) | 12:48 | 2024-02-23 |  |
 | [Neno Lako](https://open.spotify.com/track/5A06x01Ev8EL2FdJK5Fp8d) | [Godwill Babette](https://open.spotify.com/artist/787HVRJFIkDBhj7HeHCVsG) | [Umenibeba](https://open.spotify.com/album/7lKfLz5d1olqce9qgqK1jB) | 5:47 | 2022-06-24 |  |
 | [Ni Nani Kama Weuwe](https://open.spotify.com/track/26VzXnAUdVTAAoLVyHeM2b) | [Fanuel Sedekia](https://open.spotify.com/artist/4aIO5gn78ZNovl19OdpbGG) | [Jina La Yesu](https://open.spotify.com/album/7h1suDcb3w0runnyrV1Wfq) | 4:46 | 2022-06-24 |  |
 | [NI Wewe](https://open.spotify.com/track/3PcSE2kEXuQDIUGdzsMpF2) | [Mathias Walichupa](https://open.spotify.com/artist/5aHMqmtdMTb2ssh94G6lVU), [Godfrey Steven](https://open.spotify.com/artist/2LU5L9nuJ5CWKqIrlDxRnd) | [NI Wewe](https://open.spotify.com/album/2E5HlG9a0PNNZ1w6twRgxz) | 4:32 | 2022-06-24 | 2023-05-05 |
@@ -145,6 +147,7 @@
 | [Wewe Ni Mungu](https://open.spotify.com/track/5v9uesjBjZzLtyo14Fv9Md) | [Zabron Singers](https://open.spotify.com/artist/6G8DN0hxjRUmIfOh6GHhpP) | [Niko Sawa](https://open.spotify.com/album/7fF9FXSYiaJlDgbendwTSB) | 3:35 | 2023-03-10 |  |
 | [Wewe Ni Zaidi](https://open.spotify.com/track/6tbeRA24xQkjvqB7nmqcfo) | [Erick Smith](https://open.spotify.com/artist/2DyY70tIr0laRzbYBA7bLg) | [Wewe Ni Zaidi](https://open.spotify.com/album/6twPp6yBQOTyAevVPbUZj1) | 5:20 | 2022-06-24 |  |
 | [Wewe Pekee](https://open.spotify.com/track/28IQhL2pviXFkWXMz4sxn3) | [Alice Kamande](https://open.spotify.com/artist/4jmGHeX5bemV98UWtA3nuJ) | [Wewe Pekee](https://open.spotify.com/album/1eP2tdKCLnJbBPuXiMiL2j) | 4:57 | 2022-06-24 | 2023-04-21 |
+| [Who You Are](https://open.spotify.com/track/7wGFgjK6ExstaxgaxMkUbq) | [Dj Penny](https://open.spotify.com/artist/0m8Pugts84dRwQV3sYSJuY), [Guardian Angel](https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ) | [Who You Are](https://open.spotify.com/album/2rJn9soQ8jyta1maaJSQGM) | 2:21 | 2024-02-23 |  |
 | [Yatupasa Kushukuru](https://open.spotify.com/track/1Rjd4KCqOmUnrHtuorPgxD) | [Ambassadors Of Christ Choir](https://open.spotify.com/artist/2yrDcZOG852sQedI47WMQi) | [Yatupasa Kushukuru](https://open.spotify.com/album/3FTy3A7du71Pa12uK0mJZd) | 4:43 | 2022-06-24 | 2023-06-16 |
 | [Yesu Karibu Kwangu](https://open.spotify.com/track/5km2sSfnNyYkAqo4QaGjdk) | [Rose Muhando](https://open.spotify.com/artist/43KbcDih4fGBiHXsdI5X87) | [Yesu Karibu Kwangu](https://open.spotify.com/album/4RF4aF0SMIIFhzBJeMEGcE) | 6:54 | 2022-06-24 | 2022-08-29 |
 | [Yesu Karibu Kwangu](https://open.spotify.com/track/7h8lc1Hzhw4i1KGhWbgEGP) | [Rose Muhando](https://open.spotify.com/artist/4yJ8cEYvhv5blAUqfUkkdB) | [Miamba Imepasuka](https://open.spotify.com/album/3VocSMSSIm7jEXiWLn54W6) | 6:54 | 2022-06-24 |  |

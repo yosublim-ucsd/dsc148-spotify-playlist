@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 
 > A little alt, folk, and indie rock sprinkled into this delicious melting pot\. Cover: Hozier
 
-[Spotify](https://open.spotify.com/user/spotify) - 467,905 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 467,904 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 | 99 | [Miami](https://open.spotify.com/track/2FQ3g2BkBcJiuR9jHxZLWC) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [The Art of Forgetting](https://open.spotify.com/album/0OrRGd0zYRxBcIntqXqw3N) | 4:44 |
 | 100 | [High And Lonesome](https://open.spotify.com/track/1fy10qCN9rlsfRKRJxxfrA) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Raise The Roof](https://open.spotify.com/album/5CQ3SOj1ZgudhbsTLcTTI2) | 4:33 |
 
-Snapshot ID: `MCwzNGRkZjQ2MmY2NDYyOWMxMzQ0Mzk0ZjhjYTk1YmNmNmU4MmFlNmJm`
+Snapshot ID: `MCw3OGNmNDViYTI5NzkyY2UyYjM4ZTlhNDg3OTM5Zjg3Mzk2ZjY4ODA3`

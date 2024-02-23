@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7clFvfOCA8KimyV26jLALB">Alicia Keys</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-221 songs - 14 hr 22 min
+222 songs - 14 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [The Gospel](https://open.spotify.com/track/4ZmZpbcmJUVBgETosOn0sK) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [HERE](https://open.spotify.com/album/5M31iLPzYuYxkpSO5tBOMN) | 3:01 | 2023-03-09 |  |
 | [The Life](https://open.spotify.com/track/1AmMOm1zogvO40BahFoml0) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor](https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ) | 5:25 | 2023-03-09 |  |
 | [The Thing About Love](https://open.spotify.com/track/0dS5vi71dgXFID7jlyjKsr) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [As I Am \(Expanded Edition\)](https://open.spotify.com/album/6KlxyxhXEDo1LdheFulN7h) | 3:49 | 2023-03-09 |  |
+| [Therapy Session](https://open.spotify.com/track/7sc6s7JYr53wn2zBF2Fg1R) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Almost Healed](https://open.spotify.com/album/6ciIG1XKTlVIn0Yl8rvsce) | 1:27 | 2024-02-22 |  |
 | [This Bed](https://open.spotify.com/track/1EwZUh0VdTJp12EcBwez6O) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Element Of Freedom](https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN) | 3:45 | 2023-03-09 |  |
 | [Time Machine](https://open.spotify.com/track/3hBxzzWEIHFpVWuU0s2YQD) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Time Machine \(Official Video\)](https://open.spotify.com/album/11pCfMFJ4ctD4pRGB1qcvt) | 4:02 | 2024-01-07 | 2024-02-02 |
 | [Time Machine](https://open.spotify.com/track/5mK9w8MYTh3SpmycLZ561K) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 4:26 | 2023-03-09 |  |

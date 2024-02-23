@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7XSlwvR1ar.md) - [plain]
 
 > Stay relaxed with these easy, laid\-back songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,074,446 likes - 125 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,074,574 likes - 125 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7XSlwvR1ar.md) - [plain]
 | 124 | [Go In Light \(feat\. Monica Martin\)](https://open.spotify.com/track/4gWSTEBZxAvH1cKq2u8jfQ) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB), [Monica Martin](https://open.spotify.com/artist/2Oq3sgFa2HSvRY0vL6bDxN) | [\(self\-titled\)](https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE) | 3:01 |
 | 125 | [All Is Well \[Feat\. Joy Williams\]](https://open.spotify.com/track/0z1SYbSEYNLoZuxzHMTS6h) | [Avi Kaplan](https://open.spotify.com/artist/179MtpbgyNgeNnwNVqnn4p), [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Floating On A Dream](https://open.spotify.com/album/7FpXmkq40ZUE5bm6IEyksa) | 2:57 |
 
-Snapshot ID: `MCw1Y2I2YTA1NDdjYWFlZmQwN2JmZDczMDVhZThjNTQyOWE4ZTNlM2Y1`
+Snapshot ID: `MCxiMTVjY2IyMjA3MjVkNmM4ZDUzMGFmNzgxYWZjNGY2OWNmOGNhMmRj`

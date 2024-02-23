@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFaNIqhJxmrd.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2tl6tGvyHMK5cyDc38ZF7I">Fanny Hultman</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66 likes - 89 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 67 likes - 89 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFaNIqhJxmrd.md) - [plain]
 | 37 | [Nowhere](https://open.spotify.com/track/1EfSY6vpLYxpB0Yvzb3kUR) | [Steerner](https://open.spotify.com/artist/1TMa2M8BSbJP1rqX83wALz) | [Nowhere](https://open.spotify.com/album/3wqkLsMBNhwECtY6YWXsIN) | 3:08 |
 | 38 | [Jealous \(feat\. Harper\)](https://open.spotify.com/track/077qQHjUTzQVDbhWjDzSoz) | [TRXD](https://open.spotify.com/artist/29JlvmcJaB2Iv1dQZ8Jd8F), [Harper](https://open.spotify.com/artist/0nLSQ7A3JaZfFTH0D4381m) | [Jealous \(feat\. Harper\)](https://open.spotify.com/album/7ABu6SQQwNvzOTSE6gRUEu) | 3:11 |
 | 39 | [Som ingenting](https://open.spotify.com/track/2oPPmVyjDeZhPLQG6yywyn) | [Titiyo](https://open.spotify.com/artist/2s5enJCtVBAAdWD94jOIbM) | [Som ingenting](https://open.spotify.com/album/7Eus0A4YWW0EutXbZUdYu1) | 4:09 |
-| 40 | [Kids On The Run](https://open.spotify.com/track/1KlMVhdZocTOtVd8YEQ1IO) | [Ehrling](https://open.spotify.com/artist/5wo7dlNLNdFmaaU7NTtdoT) | [Kids On The Run](https://open.spotify.com/album/433AXIDMBatkEVdvSJ39ut) | 3:29 |
-| 41 | [Du & jag](https://open.spotify.com/track/5lD4PboLvP3yWc3MCULsRb) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Till dig](https://open.spotify.com/album/56XTMdFRw5XKTHJUsEqdT1) | 3:31 |
+| 40 | [Du & jag](https://open.spotify.com/track/5lD4PboLvP3yWc3MCULsRb) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Till dig](https://open.spotify.com/album/56XTMdFRw5XKTHJUsEqdT1) | 3:31 |
+| 41 | [Kids On The Run](https://open.spotify.com/track/1KlMVhdZocTOtVd8YEQ1IO) | [Ehrling](https://open.spotify.com/artist/5wo7dlNLNdFmaaU7NTtdoT) | [Kids On The Run](https://open.spotify.com/album/433AXIDMBatkEVdvSJ39ut) | 3:29 |
 | 42 | [Commitment](https://open.spotify.com/track/78QAv4DENpmj3dP5Qg01eS) | [Molly Rainford](https://open.spotify.com/artist/3tYGIUJfYvYgbq3qKpjOlY) | [Commitment](https://open.spotify.com/album/1o0hDMlVFGfVmbeIPaQ1V5) | 3:39 |
 | 43 | [Shy Love](https://open.spotify.com/track/7yDcZXs4Qy4IbaFkaGpWCv) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [Shy Love](https://open.spotify.com/album/7IP4kvEtuYdpASEFsXHDr4) | 3:49 |
 | 44 | [I'll Be There](https://open.spotify.com/track/7n1hMxVl2T8dXLZ1giLg14) | [HUTS](https://open.spotify.com/artist/6d4AePmkVnbu2qIbT6vsem), [HOLT](https://open.spotify.com/artist/7w2d2YiQBG8CPh1lk1qYis) | [I'll Be There](https://open.spotify.com/album/6UiAUq5QdDMgJNezvXTnbc) | 2:35 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFaNIqhJxmrd.md) - [plain]
 | 57 | [Like You](https://open.spotify.com/track/60B6GgDJmbHH9OCEb4Ltdq) | [Future Chess Club](https://open.spotify.com/artist/3qhz6nnUi7DZZAEwcGKtGW) | [Like You](https://open.spotify.com/album/4VQuG8kX3s0Oo1VSGdtXQs) | 3:24 |
 | 58 | [Lägenheten \(Säg till han\)](https://open.spotify.com/track/3VJMWOIZZ3dmsExKbGi7DP) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Till dig](https://open.spotify.com/album/56XTMdFRw5XKTHJUsEqdT1) | 2:55 |
 | 59 | [För bra för att va sant](https://open.spotify.com/track/520XKC8d8bAet1txRq1xop) | [Julia Lov](https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq) | [För bra för att va sant](https://open.spotify.com/album/1SGDAuJ6p6689iDBaluvKB) | 2:49 |
-| 60 | [Frank Ocean](https://open.spotify.com/track/29fcce3Nr3mrYcfdWFEln8) | [Julia Lov](https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq) | [Frank Ocean](https://open.spotify.com/album/0oR9YdgNzj4o3GcWzK1xCr) | 2:36 |
-| 61 | [VA?!](https://open.spotify.com/track/6Lvbm39dOUSuSBsPieuYMq) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Till dig](https://open.spotify.com/album/56XTMdFRw5XKTHJUsEqdT1) | 1:51 |
+| 60 | [VA?!](https://open.spotify.com/track/6Lvbm39dOUSuSBsPieuYMq) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Till dig](https://open.spotify.com/album/56XTMdFRw5XKTHJUsEqdT1) | 1:51 |
+| 61 | [Frank Ocean](https://open.spotify.com/track/29fcce3Nr3mrYcfdWFEln8) | [Julia Lov](https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq) | [Frank Ocean](https://open.spotify.com/album/0oR9YdgNzj4o3GcWzK1xCr) | 2:36 |
 | 62 | [Våran första sommar](https://open.spotify.com/track/0uHdKs2SAfPhrTKRqIRCJD) | [Junior Brielle](https://open.spotify.com/artist/4wp7fk3zvD1Nr688kd4VSc) | [TAMPA](https://open.spotify.com/album/1RJj36DweXkCPIJQNCwpQh) | 4:34 |
 | 63 | [Rathana](https://open.spotify.com/track/4sdQxjTvfxY9KkvQDAcDYt) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Halva vägen fri](https://open.spotify.com/album/1dHZzTTbt6vpGRej48y8BL) | 3:40 |
 | 64 | [Death of Me](https://open.spotify.com/track/1AgjsphQSNEEMj3DokN5wX) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [TRANSPARENT](https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK) | 3:13 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFaNIqhJxmrd.md) - [plain]
 | 67 | [Follow Your Heart](https://open.spotify.com/track/2LvmiyPIdtW6T3pybKwcSc) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [Mad Woman](https://open.spotify.com/album/1jG11sbwvgBovDtIvWMQlq) | 2:21 |
 | 68 | [Pretty](https://open.spotify.com/track/6j8JQJB1rFUNIZbpYQLbpp) | [LonelyTwin](https://open.spotify.com/artist/2Nf6fS8HByhmGlwDPPZhHM) | [This End Had No Beginning](https://open.spotify.com/album/3JxvP66tU4dBgNr9qUg8zB) | 3:10 |
 | 69 | [Ett steg fram](https://open.spotify.com/track/1ClnzQ78hPICTZuzBNm9VY) | [F.N.Y](https://open.spotify.com/artist/04yNJEB7tEAEie8UWjzTAI) | [4april till 3juni](https://open.spotify.com/album/39MYpfkSuziHM3XsUPbzZh) | 2:52 |
-| 70 | [Lost](https://open.spotify.com/track/3XizVxUCAMusJkCcQ0FMGp) | [Iselin](https://open.spotify.com/artist/3rjHIPFed2qITXAWvArRtp) | [Lost](https://open.spotify.com/album/2ESYew5AXPQddiwnC5SuXf) | 2:56 |
-| 71 | [Mad Woman](https://open.spotify.com/track/6SScgnks6GJUzSDx8BgCEB) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [Mad Woman](https://open.spotify.com/album/1jG11sbwvgBovDtIvWMQlq) | 2:47 |
+| 70 | [Mad Woman](https://open.spotify.com/track/6SScgnks6GJUzSDx8BgCEB) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [Mad Woman](https://open.spotify.com/album/1jG11sbwvgBovDtIvWMQlq) | 2:47 |
+| 71 | [Lost](https://open.spotify.com/track/3XizVxUCAMusJkCcQ0FMGp) | [Iselin](https://open.spotify.com/artist/3rjHIPFed2qITXAWvArRtp) | [Lost](https://open.spotify.com/album/2ESYew5AXPQddiwnC5SuXf) | 2:56 |
 | 72 | [dö för mig](https://open.spotify.com/track/5nazg0445VGj83DneXAGNC) | [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [dö\(d\) för mig](https://open.spotify.com/album/0h7YW4GgLTQRIof8sxseMU) | 2:03 |
 | 73 | [Emptied Out](https://open.spotify.com/track/2h4siYnPJwZHN8BksTmaE1) | [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150) | [Atlas](https://open.spotify.com/album/4e2RuY40WYjCMkFATNZRgm) | 2:59 |
 | 74 | [Ingenting har gjort så ont](https://open.spotify.com/track/4aNxEqnVKKjbkwx3TdvJX7) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Till dig](https://open.spotify.com/album/56XTMdFRw5XKTHJUsEqdT1) | 3:26 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFaNIqhJxmrd.md) - [plain]
 | 88 | [Forever Yours](https://open.spotify.com/track/6O7cIKJCZc3qHcbdyQ7tRp) | [Tvilling](https://open.spotify.com/artist/2AX5R5SIikV7NGMOZupAGm), [Jon](https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI) | [EiGHTYF!VE](https://open.spotify.com/album/6oClhRDiDoUEfrmVfYCIMr) | 2:52 |
 | 89 | [Kollektivtrafikens Julnatt \(Midnatt Råder\)](https://open.spotify.com/track/47bzV0ETyGsu3srq4OllwQ) | [Tomtekollektivet](https://open.spotify.com/artist/5azVZddL5SFQ9lZn3zx7ih) | [Kollektivtrafikens julnatt \(Midnatt råder\)](https://open.spotify.com/album/4jvFXKwbay8D5ti6D0yTgQ) | 1:24 |
 
-Snapshot ID: `Mjg0NzYxMjAsMDAwMDAwMDAxMjIzODQ0ZmJlNWEzZTY5YjZjOTYyZWE1Njc0OGY2Yg==`
+Snapshot ID: `Mjg0Nzc1NjAsMDAwMDAwMDA1ZjZlNmM2NDY1YTc2ZmZmOGY4MTNlN2JkNWUzYWVmMA==`

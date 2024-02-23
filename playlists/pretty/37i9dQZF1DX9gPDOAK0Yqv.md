@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gPDOAK0Yqv.md) - [plain]
 
 > A hypnotic journey through Melodic Techno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,646 likes - 100 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,938 likes - 100 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gPDOAK0Yqv.md) - [plain]
 | 99 | [Under Your Spine](https://open.spotify.com/track/2qZEyjmUrMdrAfF5gbsHid) | [Like Mike](https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi), [Khainz](https://open.spotify.com/artist/71yD5VENn9Wy1IECnpYWvX), [HEREON](https://open.spotify.com/artist/7mFinREzAQwsneN5JaboIr), [Elodie Gervaise](https://open.spotify.com/artist/6unop8bfA1nenk8F2DpWZB) | [Under Your Spine](https://open.spotify.com/album/6njDdUYRQNZKArxJiVlr6F) | 3:21 |
 | 100 | [Ringo \- Miss Monique Remix](https://open.spotify.com/track/0fRLU02X1H2RqWPWKKaJ5c) | [Lufthaus](https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU), [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [Ringo \(Miss Monique Remix\)](https://open.spotify.com/album/0DweN2CtrxoKqvz0w2hcPC) | 3:42 |
 
-Snapshot ID: `MCxhZGYxMmZkYzgxMDhkNDBmM2Y5NTUwOTc4OGUyMjk0ZTljOGY2OThi`
+Snapshot ID: `MCxmZDdmZjJhZGRkMWY4MDIyZGM3ZGQ2NzA4YTk2NTM2N2IzMzU3NWEz`

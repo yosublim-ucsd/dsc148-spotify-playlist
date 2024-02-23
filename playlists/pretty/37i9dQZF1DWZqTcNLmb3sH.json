@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmY2Y2M2RhYTc4OWNiNWMwMzA0YWRkY2JmNzg3NjI3YzIzZmVkZGZi",
+  "snapshot_id": "MCxiMGNhM2ZmMzc3NDBhNGNhNDk1NWJhNjRiNWU5ZDg4Y2ExYWE1ZThl",
   "tracks": [
     {
       "added_at": "2024-02-16 09:14:10",
@@ -61,10 +61,10 @@
       "url": "https://open.spotify.com/track/4QCj8gMq1fH5Pg06bpik3x"
     },
     {
-      "added_at": "2024-02-13 12:56:20",
+      "added_at": "2024-02-22 10:15:57",
       "album": {
-        "name": "Nenapirali (From \"Bachelor Party\")",
-        "url": "https://open.spotify.com/album/0zrwq9wD9h4635jdK6BCIX"
+        "name": "Paapa Santhosha (From \"Bachelor Party\")",
+        "url": "https://open.spotify.com/album/0P9YMXbrfPfCbw9EYb5BUR"
       },
       "artists": [
         {
@@ -72,17 +72,37 @@
           "url": "https://open.spotify.com/artist/2WMT3p2Mgvnap7bkfQ1J9A"
         },
         {
-          "name": "Chandrajith Belliappa",
-          "url": "https://open.spotify.com/artist/3vfIXwJAxZWk8Copg77ByO"
+          "name": "Veeresh Shivamurthy",
+          "url": "https://open.spotify.com/artist/6lfRftP5Id63j85WRHjhTX"
         },
         {
-          "name": "Akshath Acharya",
-          "url": "https://open.spotify.com/artist/7nfu70hQQZaL8zQ5XVlndi"
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
         }
       ],
-      "duration_ms": 227701,
-      "name": "Nenapirali (From \"Bachelor Party\")",
-      "url": "https://open.spotify.com/track/2LPAUe9OyNcBhp1ExQrBJC"
+      "duration_ms": 179253,
+      "name": "Paapa Santhosha (From \"Bachelor Party\")",
+      "url": "https://open.spotify.com/track/1nrSPuvDqrA947Cm2DPKNO"
+    },
+    {
+      "added_at": "2024-02-22 10:18:09",
+      "album": {
+        "name": "Kuthoohala (From \"Bisi-Bisi Ice-Cream\")",
+        "url": "https://open.spotify.com/album/4SRI7R6rRIOvCDFrgHzqs3"
+      },
+      "artists": [
+        {
+          "name": "Nakul Abhyankar",
+          "url": "https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD"
+        },
+        {
+          "name": "Jayant Kaikini",
+          "url": "https://open.spotify.com/artist/5p4VpAZm4FEyAeNDELFAMB"
+        }
+      ],
+      "duration_ms": 202723,
+      "name": "Kuthoohala (From \"Bisi-Bisi Ice-Cream\")",
+      "url": "https://open.spotify.com/track/3RaujlV7zWLRwlxuZHtX4r"
     },
     {
       "added_at": "2024-02-20 10:33:17",
@@ -147,6 +167,30 @@
       "duration_ms": 262725,
       "name": "Karataka Damanaka Title Track (from \"Karataka Damanaka\")",
       "url": "https://open.spotify.com/track/1mj1drdsDFDhMrSYHOP6nW"
+    },
+    {
+      "added_at": "2024-02-13 12:56:20",
+      "album": {
+        "name": "Nenapirali (From \"Bachelor Party\")",
+        "url": "https://open.spotify.com/album/0zrwq9wD9h4635jdK6BCIX"
+      },
+      "artists": [
+        {
+          "name": "Arjun Ramu",
+          "url": "https://open.spotify.com/artist/2WMT3p2Mgvnap7bkfQ1J9A"
+        },
+        {
+          "name": "Chandrajith Belliappa",
+          "url": "https://open.spotify.com/artist/3vfIXwJAxZWk8Copg77ByO"
+        },
+        {
+          "name": "Akshath Acharya",
+          "url": "https://open.spotify.com/artist/7nfu70hQQZaL8zQ5XVlndi"
+        }
+      ],
+      "duration_ms": 227701,
+      "name": "Nenapirali (From \"Bachelor Party\")",
+      "url": "https://open.spotify.com/track/2LPAUe9OyNcBhp1ExQrBJC"
     },
     {
       "added_at": "2024-02-20 10:34:38",
@@ -1429,26 +1473,6 @@
       "url": "https://open.spotify.com/track/1q9J80snLlKn7Vx3fH2fSk"
     },
     {
-      "added_at": "2024-01-08 12:26:21",
-      "album": {
-        "name": "Haaruthidhe (From \"Cicada\")",
-        "url": "https://open.spotify.com/album/6fnxCJ8pDcFh5EIj6Axgnq"
-      },
-      "artists": [
-        {
-          "name": "Praveen Raveendran",
-          "url": "https://open.spotify.com/artist/5ATQFS0ejLfL3tKquLU0oX"
-        },
-        {
-          "name": "Sreejith Edavana",
-          "url": "https://open.spotify.com/artist/1m9rpvDVv7rftegCQDIESg"
-        }
-      ],
-      "duration_ms": 161048,
-      "name": "Haaruthidhe (From \"Cicada\")",
-      "url": "https://open.spotify.com/track/7d1juAocG4g5cugWGWUfnL"
-    },
-    {
       "added_at": "2024-01-10 12:23:02",
       "album": {
         "name": "World of UI Teaser Theme (From \"Ui\")",
@@ -1663,26 +1687,6 @@
       "duration_ms": 204000,
       "name": "Bhoomi Runa (from \"Yaava Mohana Murali Kareithu\")",
       "url": "https://open.spotify.com/track/6NcPqD2dMeDQXvsO5OvwwF"
-    },
-    {
-      "added_at": "2023-12-05 06:44:55",
-      "album": {
-        "name": "Pasandaagavne ( from\"Kaatera\")",
-        "url": "https://open.spotify.com/album/40WrIkUrjtryaA1mpmagga"
-      },
-      "artists": [
-        {
-          "name": "Mangli",
-          "url": "https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo"
-        },
-        {
-          "name": "V. Harikrishna",
-          "url": "https://open.spotify.com/artist/2zPbgeprcP9vP4hbb0xQUX"
-        }
-      ],
-      "duration_ms": 211155,
-      "name": "Pasandaagavne - (from \"Kaatera\")",
-      "url": "https://open.spotify.com/track/1wPHTQyG7dUvmQ0DWahRMm"
     },
     {
       "added_at": "2023-12-13 13:03:56",

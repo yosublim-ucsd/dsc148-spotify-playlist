@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4UZCW3u80le.md) - [plain]
 
 > Back when we had Kelly Clarkson, Usher, Lady Gaga and \*NSYNC on repeat! Cover: \*NSYNC
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,329 likes - 150 songs - 9 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,536 likes - 150 songs - 9 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4UZCW3u80le.md) - [plain]
 | 149 | [Don't Cha](https://open.spotify.com/track/1gZ7i4qxXkHZb1r6eioaAP) | [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [PCD](https://open.spotify.com/album/5x8e8UcCeOgrOzSnDGuPye) | 4:32 |
 | 150 | [My Life Would Suck Without You](https://open.spotify.com/track/4Dm32oO01YpIubCHaAtKkN) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [All I Ever Wanted](https://open.spotify.com/album/4h8seeFAi6iYhslcWIxTSG) | 3:31 |
 
-Snapshot ID: `MCxjZGQxMTZjNjhmMTFhZjM4NzUwNDk1NDc3YTE0NmNjYjU1ZTFhMTAz`
+Snapshot ID: `MCwxMzllNjg1OTAwOTVlOGU0YjUxYTM1OWU1ZDU1N2U4YThhZGZiMTgz`

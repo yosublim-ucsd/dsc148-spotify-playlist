@@ -1,29 +1,13 @@
 {
-  "description": "The best from Britain's vibrant scene. Cover: Sophie Faith",
-  "num_followers": 306822,
+  "description": "The best from Britain's vibrant scene. Cover: Jasmine Myra",
+  "num_followers": 306859,
   "original_name": "Jazz UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOTM3Y2U2NDBlMjE3OTBjYjkxZDcxMzQxZTNiYTVlMGRlMjM3ZWUx",
+  "snapshot_id": "MCw4ZDRlYWM4ZTE5YzkwN2Y0YjhjMTMwMDJjMzdlYTc3NGFhMTlhMWQ4",
   "tracks": [
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/6kUnzF4bqYq6Whq5c91NbI"
-      },
-      "artists": [
-        {
-          "name": "Sophie Faith",
-          "url": "https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh"
-        }
-      ],
-      "duration_ms": 175635,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/4fcGgxx1moBvJZDgRU0hTk"
-    },
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 199615,
       "name": "Self",
       "url": "https://open.spotify.com/track/0J9uaeOd7GZi9MTybtqAD4"
+    },
+    {
+      "added_at": "2024-02-23 00:00:00",
+      "album": {
+        "name": "Rising",
+        "url": "https://open.spotify.com/album/6TdOE1Wti5pSRxOW6Y9xT0"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Myra",
+          "url": "https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK"
+        }
+      ],
+      "duration_ms": 431293,
+      "name": "Rising",
+      "url": "https://open.spotify.com/track/7wf5JNpQcrsPTwN4h1lKCU"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -243,6 +243,22 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/6kUnzF4bqYq6Whq5c91NbI"
+      },
+      "artists": [
+        {
+          "name": "Sophie Faith",
+          "url": "https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh"
+        }
+      ],
+      "duration_ms": 175635,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/4fcGgxx1moBvJZDgRU0hTk"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
         "name": "Variables",
         "url": "https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6"
       },
@@ -279,22 +295,6 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
-        "name": "Never Doubt",
-        "url": "https://open.spotify.com/album/7JBHfFH8n8HNHvwZTgMmr3"
-      },
-      "artists": [
-        {
-          "name": "Blue Lab Beats",
-          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
-        }
-      ],
-      "duration_ms": 250399,
-      "name": "Never Doubt",
-      "url": "https://open.spotify.com/track/2n3IsOUF3qp6tHHozmEKGy"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
         "name": "Marching Band (feat. Masego)",
         "url": "https://open.spotify.com/album/7MTqfU7Opx2Z85w4HrFESt"
       },
@@ -327,6 +327,22 @@
       "duration_ms": 263160,
       "name": "So Mi Stay",
       "url": "https://open.spotify.com/track/11u619J5WmRcm5ByntmjWQ"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
+        "name": "Never Doubt",
+        "url": "https://open.spotify.com/album/7JBHfFH8n8HNHvwZTgMmr3"
+      },
+      "artists": [
+        {
+          "name": "Blue Lab Beats",
+          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
+        }
+      ],
+      "duration_ms": 250399,
+      "name": "Never Doubt",
+      "url": "https://open.spotify.com/track/2n3IsOUF3qp6tHHozmEKGy"
     },
     {
       "added_at": "2024-02-02 13:50:02",
@@ -387,22 +403,6 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
-        "name": "Fukswityu",
-        "url": "https://open.spotify.com/album/1ERr7OlfiNNJWtKUQqyhdg"
-      },
-      "artists": [
-        {
-          "name": "Jitwam",
-          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Fukswityu",
-      "url": "https://open.spotify.com/track/7DqF3OvXVr9zMqG72a6hdX"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
         "name": "Black Classical Music",
         "url": "https://open.spotify.com/album/5uw3ZBsmxonVJGmocj8EET"
       },
@@ -419,6 +419,22 @@
       "duration_ms": 238786,
       "name": "Rust (feat. Tom Misch)",
       "url": "https://open.spotify.com/track/1nsaIli1TgKxLjHmWqDRmE"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
+        "name": "Fukswityu",
+        "url": "https://open.spotify.com/album/1ERr7OlfiNNJWtKUQqyhdg"
+      },
+      "artists": [
+        {
+          "name": "Jitwam",
+          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Fukswityu",
+      "url": "https://open.spotify.com/track/7DqF3OvXVr9zMqG72a6hdX"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -487,26 +503,6 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
-        "name": "Lady (Ezra Collective Version)",
-        "url": "https://open.spotify.com/album/3OuYAZDQ1dxL3GQcYbzc0Q"
-      },
-      "artists": [
-        {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
-        },
-        {
-          "name": "Fela Kuti",
-          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
-        }
-      ],
-      "duration_ms": 347266,
-      "name": "Lady - Ezra Collective Version",
-      "url": "https://open.spotify.com/track/3pOT3YM1WPFsCyQIRgSBNP"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
         "name": "The Yussef Dayes Experience Live at Joshua Tree (Presented by Soulection)",
         "url": "https://open.spotify.com/album/2LrvbyF11d4ZlI1UAnLbEC"
       },
@@ -539,6 +535,26 @@
       "duration_ms": 287992,
       "name": "Everything Is Going to Be OK",
       "url": "https://open.spotify.com/track/4JPj5HzPn5sRfwzqH9HMgX"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
+        "name": "Lady (Ezra Collective Version)",
+        "url": "https://open.spotify.com/album/3OuYAZDQ1dxL3GQcYbzc0Q"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Fela Kuti",
+          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
+        }
+      ],
+      "duration_ms": 347266,
+      "name": "Lady - Ezra Collective Version",
+      "url": "https://open.spotify.com/track/3pOT3YM1WPFsCyQIRgSBNP"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -599,22 +615,6 @@
       "duration_ms": 172732,
       "name": "Too Much",
       "url": "https://open.spotify.com/track/74lXEOR1jwNlqIRGXdcIn7"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
-        "name": "Horizons",
-        "url": "https://open.spotify.com/album/0f3k4tF3PXSsRKnklbiKKe"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Myra",
-          "url": "https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK"
-        }
-      ],
-      "duration_ms": 400800,
-      "name": "Words Left Unspoken",
-      "url": "https://open.spotify.com/track/2b7mhgBdpvDCLYGK8nRfMX"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -695,26 +695,6 @@
       "duration_ms": 204120,
       "name": "It's All Good",
       "url": "https://open.spotify.com/track/01oUxAHgeE334OxvH21D5W"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
-        "name": "Lonely",
-        "url": "https://open.spotify.com/album/2iJ77SyZvqXvNPdf71QGp3"
-      },
-      "artists": [
-        {
-          "name": "David Mrakpor",
-          "url": "https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr"
-        },
-        {
-          "name": "Blue Lab Beats",
-          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
-        }
-      ],
-      "duration_ms": 302822,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/4R8UmyApZzuYNSiEoKWYt3"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -847,6 +827,22 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
+        "name": "Friday Film Special",
+        "url": "https://open.spotify.com/album/1y2j8nfXPs2J440mCouYIv"
+      },
+      "artists": [
+        {
+          "name": "GoGo Penguin",
+          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
+        }
+      ],
+      "duration_ms": 249675,
+      "name": "Friday Film Special",
+      "url": "https://open.spotify.com/track/0lqR8aeTHqvcZwVDBH3kaJ"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
         "name": "Next Spring",
         "url": "https://open.spotify.com/album/0gFX9wGUcQBYXDqJ5URIRC"
       },
@@ -875,22 +871,6 @@
       "duration_ms": 450240,
       "name": "BC",
       "url": "https://open.spotify.com/track/28dZT1QGQRoK7HnO0pk8yd"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
-        "name": "Friday Film Special",
-        "url": "https://open.spotify.com/album/1y2j8nfXPs2J440mCouYIv"
-      },
-      "artists": [
-        {
-          "name": "GoGo Penguin",
-          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
-        }
-      ],
-      "duration_ms": 249675,
-      "name": "Friday Film Special",
-      "url": "https://open.spotify.com/track/0lqR8aeTHqvcZwVDBH3kaJ"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -951,6 +931,22 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
+        "name": "HIZUKI // PERFECT DIVIDE",
+        "url": "https://open.spotify.com/album/0BnsthsVZEANYerIJxfGnF"
+      },
+      "artists": [
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        }
+      ],
+      "duration_ms": 250480,
+      "name": "Hizuki",
+      "url": "https://open.spotify.com/track/6zfqWviNnpoLbB7lO3Yzwj"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
         "name": "Variables",
         "url": "https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6"
       },
@@ -967,22 +963,6 @@
       "duration_ms": 178173,
       "name": "Apho",
       "url": "https://open.spotify.com/track/6EMP27Iax2P3LrfFggIt1c"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
-        "name": "HIZUKI // PERFECT DIVIDE",
-        "url": "https://open.spotify.com/album/0BnsthsVZEANYerIJxfGnF"
-      },
-      "artists": [
-        {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        }
-      ],
-      "duration_ms": 250480,
-      "name": "Hizuki",
-      "url": "https://open.spotify.com/track/6zfqWviNnpoLbB7lO3Yzwj"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -1211,6 +1191,42 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
+        "name": "Knocked Down",
+        "url": "https://open.spotify.com/album/7Aaay06Qqs7PTimOjKuIFC"
+      },
+      "artists": [
+        {
+          "name": "The Silhouettes Project",
+          "url": "https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw"
+        },
+        {
+          "name": "Asher Kosher",
+          "url": "https://open.spotify.com/artist/7nTnkuOevyqxZXyWkzNDz6"
+        },
+        {
+          "name": "Nix Northwest",
+          "url": "https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt"
+        },
+        {
+          "name": "Turt",
+          "url": "https://open.spotify.com/artist/0VkwWpbd5pxXBYZu3ns9N0"
+        },
+        {
+          "name": "Paya",
+          "url": "https://open.spotify.com/artist/4f7XN0Gqff52MXO79EFvJO"
+        },
+        {
+          "name": "Joe Beard",
+          "url": "https://open.spotify.com/artist/4USph0kDFD7IlpU1SfIMfP"
+        }
+      ],
+      "duration_ms": 215800,
+      "name": "Knocked Down",
+      "url": "https://open.spotify.com/track/6eqB9nHqFg5lXl0R4KJOfn"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
         "name": "Mother Tongue",
         "url": "https://open.spotify.com/album/2E94ztb8o0S5aHE8kEbS1c"
       },
@@ -1247,38 +1263,18 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
-        "name": "Knocked Down",
-        "url": "https://open.spotify.com/album/7Aaay06Qqs7PTimOjKuIFC"
+        "name": "Sample The Sky",
+        "url": "https://open.spotify.com/album/0p0lwsjdhGotcvunazwuRB"
       },
       "artists": [
         {
-          "name": "The Silhouettes Project",
-          "url": "https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw"
-        },
-        {
-          "name": "Asher Kosher",
-          "url": "https://open.spotify.com/artist/7nTnkuOevyqxZXyWkzNDz6"
-        },
-        {
-          "name": "Nix Northwest",
-          "url": "https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt"
-        },
-        {
-          "name": "Turt",
-          "url": "https://open.spotify.com/artist/0VkwWpbd5pxXBYZu3ns9N0"
-        },
-        {
-          "name": "Paya",
-          "url": "https://open.spotify.com/artist/4f7XN0Gqff52MXO79EFvJO"
-        },
-        {
-          "name": "Joe Beard",
-          "url": "https://open.spotify.com/artist/4USph0kDFD7IlpU1SfIMfP"
+          "name": "Laura Misch",
+          "url": "https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe"
         }
       ],
-      "duration_ms": 215800,
-      "name": "Knocked Down",
-      "url": "https://open.spotify.com/track/6eqB9nHqFg5lXl0R4KJOfn"
+      "duration_ms": 247102,
+      "name": "Light Years",
+      "url": "https://open.spotify.com/track/0cLYQtBl5nWFVoTuqapSiB"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -1363,22 +1359,6 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
-        "name": "Sample The Sky",
-        "url": "https://open.spotify.com/album/0p0lwsjdhGotcvunazwuRB"
-      },
-      "artists": [
-        {
-          "name": "Laura Misch",
-          "url": "https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe"
-        }
-      ],
-      "duration_ms": 247102,
-      "name": "Light Years",
-      "url": "https://open.spotify.com/track/0cLYQtBl5nWFVoTuqapSiB"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
         "name": "Late Night People",
         "url": "https://open.spotify.com/album/5pN3T9hCW6y9OKAgJnEYYo"
       },
@@ -1439,6 +1419,22 @@
       "duration_ms": 161283,
       "name": "Jupiter",
       "url": "https://open.spotify.com/track/1cDgeJEQvI5PDmWU16R1n5"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
+        "name": "angel numbers",
+        "url": "https://open.spotify.com/album/3aZYhkmL0GXMeA3mVIGhkK"
+      },
+      "artists": [
+        {
+          "name": "MaZz",
+          "url": "https://open.spotify.com/artist/107O5LIqkinsrUzpFr9gu7"
+        }
+      ],
+      "duration_ms": 149968,
+      "name": "angel numbers",
+      "url": "https://open.spotify.com/track/2m20gc2fNcai0gI1uU5YLV"
     }
   ],
   "unique_name": "Jazz UK",

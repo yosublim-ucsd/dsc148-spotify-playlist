@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: Omar Courtz
 
-[Spotify](https://open.spotify.com/user/spotify) - 508,741 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 508,763 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 99 | [SHIRAKAWA\-GO](https://open.spotify.com/track/16tfnFPsRG8vgbaAG3kpET) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ) | [Shirakawa\-Go](https://open.spotify.com/album/7q0GwugGY44jX0rgcbDq9C) | 2:51 |
 | 100 | [Ferragamo](https://open.spotify.com/track/3RJaztDLw7567mRUbyB42t) | [Gotay "El Autentiko"](https://open.spotify.com/artist/6ieK9Ddas29reReO60on3o) | [Ferragamo](https://open.spotify.com/album/4VKYL4ctG5KPIhzPW2a3Ls) | 3:19 |
 
-Snapshot ID: `MCxhYzA3NGU4YWIxZGZjOGE3N2E5ZDgzNmVkNDAyMGQ5MWMwZWM0NTNk`
+Snapshot ID: `MCwzZmNkZWNiMGJhN2EzMDQ2YzM4YjY4ZTM4Nzg4MDViOTgwYTE2Y2E4`

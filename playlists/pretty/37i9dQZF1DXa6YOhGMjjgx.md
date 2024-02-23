@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6YOhGMjjgx.md) - [plain]
 | 99 | [Burning Down a Denny's](https://open.spotify.com/track/6ekiSQMJqi8bEyZmMvpC2R) | [Suntitle](https://open.spotify.com/artist/7zx6ErpT1biAkFwPqGJJXS) | [In A Dream](https://open.spotify.com/album/2GiheTjdh8zSxAWkt28qcT) | 2:58 |
 | 100 | [Eye For An Eye](https://open.spotify.com/track/7HWbp4lGZ3vsG4n0BRWiUt) | [Loose Lips](https://open.spotify.com/artist/0n5RkUf3LWm4kBn5i1OeND) | [Eye For An Eye](https://open.spotify.com/album/3REjMVpoGBmy5bh0cs8bKY) | 3:04 |
 
-Snapshot ID: `MCxjNDBiNzFjNWE0ODVkYTAwZDg3YzgzYmEyM2Q5ZmI5NDFlYWM2YmM3`
+Snapshot ID: `MCwxOTM2YjcwZWEwODhlZTlkNWEwMTJlNDM2Njk0ZDhjMDhhOGIzOGMw`

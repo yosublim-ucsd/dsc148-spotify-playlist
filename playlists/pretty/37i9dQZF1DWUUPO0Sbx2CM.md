@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUPO0Sbx2CM.md) - [plain]
 
 > A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,366 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,499 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUPO0Sbx2CM.md) - [plain]
 | 99 | [Turn This Ship Around \- Gregatron Remix](https://open.spotify.com/track/3UrFh7gpx5UFPpH4Kdr0Sl) | [Hannah Schaefer](https://open.spotify.com/artist/2WsOOOpIzs8GLKjH05jG6s) | [Crown \(Deluxe\)](https://open.spotify.com/album/6rUPUSBIpgtxaP8MkILbxC) | 3:17 |
 | 100 | [ECHO](https://open.spotify.com/track/5dlME4r4Bt7RqHDDyT0kdY) | [Damaris Guerra](https://open.spotify.com/artist/6KOEJIpphgdK2z7wXfWYvj), [CRYS](https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI) | [ECHO](https://open.spotify.com/album/2TounfDp8FG5wdmzSCc0fT) | 3:15 |
 
-Snapshot ID: `MCxiOTEzMDIwZDA5ZjllZDllODdjMGU3NzBjYzMyNzBiYzk4ZjZiNGY3`
+Snapshot ID: `MCw5OTY5OTE0ZDBlODNhY2RmY2U1Nzg1NDM0ODc2Njc3NDIyOWQ5Y2M0`

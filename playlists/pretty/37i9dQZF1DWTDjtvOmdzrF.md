@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDjtvOmdzrF.md) - [plain]
 
 > Racikan akustik dalam secangkir kopi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 563,442 likes - 75 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 563,496 likes - 75 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDjtvOmdzrF.md) - [plain]
 | 74 | [April](https://open.spotify.com/track/7acA8bnDcifMEolySXKOz8) | [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [Tempat Aku Pulang](https://open.spotify.com/album/2jZflSCJ8hq8bp7bBzioOx) | 4:21 |
 | 75 | [Kusut](https://open.spotify.com/track/3diD8b3u6oEn74BezQpujj) | [Fourtwnty](https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj) | [Ego & Fungsi Otak](https://open.spotify.com/album/01PCAiyhBHXTj9KfSigcQz) | 4:20 |
 
-Snapshot ID: `MCxiNWRmZTk2ZGI2NjNmMzc5MjM0MWQ3MWIwY2RhNzQzNTIxNWUxODVh`
+Snapshot ID: `MCwzNTI0ZjVhYWZlMGI0NmNmMGUwZGNhMjhjNzI4ZjI2NGMxN2U4NDE4`

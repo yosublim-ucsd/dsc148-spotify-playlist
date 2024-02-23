@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 
 > Silky sounds for the sheets.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,046,145 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,046,085 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 | 74 | [Best Ever \(feat\. Maeta\)](https://open.spotify.com/track/3bBJwS2VX6G0L4wnOtrYUS) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [11:11](https://open.spotify.com/album/0CvhgTLytPcvNQ8IpMHRwL) | 2:32 |
 | 75 | [Between Us \(feat\. Snoh Aalegra\)](https://open.spotify.com/track/759KqKQyDmTWJape4odo21) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl), [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [A Muse In Her Feelings](https://open.spotify.com/album/1Rz09ebNJFh3ZNrvLRSfIa) | 3:03 |
 
-Snapshot ID: `MCw4NjQ3MzczMjkxY2JhNzcwZTdmZDc1N2U4NGNiZmZiMzU2MTIwZmQ2`
+Snapshot ID: `MCwyODRlNmU4OTZiZWY4OGIxN2ZkNTg2YjRlYjg5YmJlZDdmOTQ1NjVl`

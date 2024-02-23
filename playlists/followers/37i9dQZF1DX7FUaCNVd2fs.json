@@ -1,5 +1,5 @@
 {
-  "2024-02-22": 3119,
+  "2024-02-23": 3160,
   "date_first_scraped": "2023-10-28",
   "description": "Sleepy, cosy piano music to help you relax and recharge. ",
   "name": "Afternoon Nap",
@@ -35,7 +35,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 136259,
       "name": "3 A.M.",
       "url": "https://open.spotify.com/track/2Ns0FbBGsOVhnr6hnJckbU"
@@ -53,7 +53,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 176000,
       "name": "A Bad Dream That Will Pass Away",
       "url": "https://open.spotify.com/track/6XTKYGyydndSUV3OHHDwZU"
@@ -255,6 +255,24 @@
       "duration_ms": 130190,
       "name": "am ersten Tag",
       "url": "https://open.spotify.com/track/2gwhISMkdlhEqEP60P93Z1"
+    },
+    {
+      "album": {
+        "name": "Approaching View",
+        "url": "https://open.spotify.com/album/4LemwZw7HfUQQ63MqzVuHz"
+      },
+      "artists": [
+        {
+          "name": "Keith Foster",
+          "url": "https://open.spotify.com/artist/5e1yO1Z9BVf2csEYLGqQ2j"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145454,
+      "name": "Approaching View",
+      "url": "https://open.spotify.com/track/0mF6mYZxi3HLMfKJpXT6JT"
     },
     {
       "album": {
@@ -503,7 +521,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 134466,
       "name": "Chuchotement",
       "url": "https://open.spotify.com/track/2NWOoi4HoSZFX0sySYIqVi"
@@ -1505,7 +1523,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 143624,
       "name": "Libre",
       "url": "https://open.spotify.com/track/4v1nkqzbzajcLBxEnJ1AP3"
@@ -1941,7 +1959,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 150242,
       "name": "Ordinary Day",
       "url": "https://open.spotify.com/track/7rBPXnAOCwblAleRuYD79u"
@@ -2035,7 +2053,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 163166,
       "name": "Patience",
       "url": "https://open.spotify.com/track/4v5iSQlLPWdakoO0Z2ZrAF"
@@ -2287,7 +2305,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 209250,
       "name": "R\u00eavasser",
       "url": "https://open.spotify.com/track/2rBLJwsNjWvSx0yVAQLc3B"

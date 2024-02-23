@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 
 > Focus with melodic techno and tech house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 487,643 likes - 80 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 487,711 likes - 80 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 | 79 | [The Duty](https://open.spotify.com/track/6VGCWLkUxy4OrK4Lb5YwUI) | [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724) | [The Duty](https://open.spotify.com/album/5wkFYvOqJVrdW92n31wFwS) | 3:14 |
 | 80 | [Proper Time](https://open.spotify.com/track/2AtRS5SrPg2I2qGKD8zEps) | [Vakabular](https://open.spotify.com/artist/4nuR5cGAyxV1jlRROlerJt) | [Proper Time](https://open.spotify.com/album/4mVA6SPABNeIMk6ViEFNX9) | 5:01 |
 
-Snapshot ID: `MCw3MWYyN2VmM2UyZWY5N2JjNTE1NTM4OWMzZmE2ZmYxOTM5NDdjODdm`
+Snapshot ID: `MCxjZjAyNDU5YmRjZTgyMWFmOGZmNGU5MWFmZmYwZjNlNmE4NGY4NDRi`

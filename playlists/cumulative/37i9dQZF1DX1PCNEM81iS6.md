@@ -4,7 +4,7 @@
 
 > Music from "That Time I Got Reincarnated as a Slime"! /アニメ「転生したらスライムだった件」の世界を彩る楽曲をプレイリストで。©川上泰樹・伏瀬・講談社／転スラ製作委員会
 
-61 songs - 2 hr 52 min
+62 songs - 2 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Nameless Story](https://open.spotify.com/track/0DR2YxEHLwmb3ZLcqHbjN2) | [寺島拓篤](https://open.spotify.com/artist/5ZKiRPYd2p2N9vs4FY6AjF) | [Nameless Story \(アーティスト盤\)](https://open.spotify.com/album/5ALYVB2B7UAkaeYrukIXGt) | 4:02 | 2022-11-25 |  |
 | [Reincarnate](https://open.spotify.com/track/0xjYJAWptZsu023I70OhKj) | [寺島拓篤](https://open.spotify.com/artist/5ZKiRPYd2p2N9vs4FY6AjF) | [LAYERING](https://open.spotify.com/album/0zkDqUmXN5wclz5CtXr3ey) | 4:03 | 2022-11-25 |  |
 | [SPARKLES](https://open.spotify.com/track/3heytsqAvwcOmpvJvKop80) | [STEREO DIVE FOUNDATION](https://open.spotify.com/artist/6yLTrq59HxfE6aTq8r4gVP) | [SPARKLES](https://open.spotify.com/album/7DLjM7lmuv7rlhVShdIBXN) | 4:36 | 2022-11-25 |  |
-| [STORYSEEKER](https://open.spotify.com/track/45B2iVHSz2b0dDgZ6nvPL4) | [STEREO DIVE FOUNDATION](https://open.spotify.com/artist/6yLTrq59HxfE6aTq8r4gVP) | [STORYSEEKER](https://open.spotify.com/album/4lmMC3XbvbonVeXJf4q8Cw) | 3:55 | 2022-11-25 |  |
+| [STORYSEEKER](https://open.spotify.com/track/0dXj3rXuRlKTb61hqt3Dbb) | [STEREO DIVE FOUNDATION](https://open.spotify.com/artist/6yLTrq59HxfE6aTq8r4gVP) | [STEREO DIVE 02](https://open.spotify.com/album/5FW8M5cMPA24iL0TNT2Ojg) | 3:53 | 2023-11-22 |  |
+| [STORYSEEKER](https://open.spotify.com/track/45B2iVHSz2b0dDgZ6nvPL4) | [STEREO DIVE FOUNDATION](https://open.spotify.com/artist/6yLTrq59HxfE6aTq8r4gVP) | [STORYSEEKER](https://open.spotify.com/album/4lmMC3XbvbonVeXJf4q8Cw) | 3:55 | 2022-11-25 | 2024-02-23 |
 | [Storyteller](https://open.spotify.com/track/1bylyPZfjMgMEi92lW8nEt) | [TRUE](https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te) | [Storyteller](https://open.spotify.com/album/1FBcRbgIIl21R7VemvQPon) | 4:34 | 2022-11-25 |  |
 | [VISIONS \(feat\. 寺島拓篤\)](https://open.spotify.com/track/3x3A39JV2eNNqyOrYvWCg1) | [熊田茜音](https://open.spotify.com/artist/6atbj1ekQT3aHVY551wxqb), [寺島拓篤](https://open.spotify.com/artist/5ZKiRPYd2p2N9vs4FY6AjF) | [VISIONS \(feat\. 寺島拓篤\)](https://open.spotify.com/album/0hYzLWKc546vSOTimwWMyY) | 3:35 | 2022-11-25 |  |
 | [おやすみオレンジ](https://open.spotify.com/track/27moDRtTrQ7TV7ePsIDxhp) | [リムル \(CV.岡咲美保\)](https://open.spotify.com/artist/5YJkxVkHk22vOzHY2qDnOa) | [カモナ・テンペスト！／おやすみオレンジ](https://open.spotify.com/album/3WqqIxRHTGcAPg9TlFUWUP) | 4:13 | 2022-11-25 |  |

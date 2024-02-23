@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXq6zX9dQEzo.md) - [plain]
 
 > Faith without work\[out\]s is dead!  Get your beast mode on!
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,974 likes - 90 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,222 likes - 90 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXq6zX9dQEzo.md) - [plain]
 | 89 | [Temple In LA](https://open.spotify.com/track/0cjPzxsVr1L5NP8psCvVBv) | [Leon Anderson](https://open.spotify.com/artist/4qcDnO6xIuo3cY8oUmmBSV) | [Temple In LA](https://open.spotify.com/album/5ok3X7Rm2AZlIOBTdaWWfc) | 3:23 |
 | 90 | [We Will](https://open.spotify.com/track/2mul5GIgorXFegPm4lenfL) | [Emcee N.I.C.E.](https://open.spotify.com/artist/3rXjIyIuREQmEh7hurB52u), [Alonda Rich](https://open.spotify.com/artist/7jRa28pxwziRbZYA63V0Mf) | [We Will](https://open.spotify.com/album/7KjWvvQJMOG8JPwQ0jVxbd) | 3:39 |
 
-Snapshot ID: `MCwyZGM3MTg2ZmFiY2E2NGY3NGQ1MGViODExY2YxZmZiZmUyZjMzYmMx`
+Snapshot ID: `MCwyMzhiYTAzY2Y3OGE5NWU4MWE3ZDkyNTdkOGY5ZTUwMWUyOGU5NTM2`

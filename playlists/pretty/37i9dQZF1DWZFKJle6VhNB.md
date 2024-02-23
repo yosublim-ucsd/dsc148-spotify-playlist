@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFKJle6VhNB.md) - [plain]
 
 > Grandes hits pra enfrentar toda louça suja que insiste em brotar na pia!
 
-[Spotify](https://open.spotify.com/user/spotify) - 442,659 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 442,700 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFKJle6VhNB.md) - [plain]
 | 99 | [Crush Blogueirinha](https://open.spotify.com/track/2eyW06Y1JXCJypNibu8wNA) | [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Crush Blogueirinha](https://open.spotify.com/album/6tSX9lQYB353KrNm08eGeA) | 3:13 |
 | 100 | [Olha O Que O Amor Me Faz / Citação: All By Myself \- Medley](https://open.spotify.com/track/1rMcQF59UMomlc0HJy9j5W) | [Sandy e Junior](https://open.spotify.com/artist/05mFGgWzooDQMWGNcNsM05) | [As Quatro Estações](https://open.spotify.com/album/5Rbgk96ZERiqT0L9ypqgdS) | 3:28 |
 
-Snapshot ID: `MCxlMWRiNWFlNmUxNDU2NTAyZTljOTBlNzIxOWJlYmRlODU5MzliM2Jm`
+Snapshot ID: `MCw2NzM1N2Y0MDliNGU3MmZhNTg2ZWQ5NWFkMzI3OGY2YTBlYmM5MTgy`

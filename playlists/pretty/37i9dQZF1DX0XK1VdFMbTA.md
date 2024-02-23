@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XK1VdFMbTA.md) - [plain]
 
 > Any songs you forgot existed? Let's go deep into 70s rock! Cover: Pink Floyd
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,587 likes - 500 songs - 1 day 10 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,664 likes - 500 songs - 1 day 10 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -509,4 +509,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XK1VdFMbTA.md) - [plain]
 | 499 | [Mississippi Kid](https://open.spotify.com/track/3xdwGhgjAVDJqkJhsVe91z) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Pronounced 'Leh\-'Nérd 'Skin\-'Nérd \(Expanded Edition\)](https://open.spotify.com/album/3THuBNp86ScbTXwpTmAbdw) | 3:56 |
 | 500 | [Am I Losin'](https://open.spotify.com/track/3Kf5L7zIhbrj1S5BPCodX8) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Nuthin' Fancy](https://open.spotify.com/album/6SIQDipZD7xtkwnlS5FvQx) | 4:35 |
 
-Snapshot ID: `MCwwNmQ4NzhhYjJhMDZhYjEzMWYwYmNlMTQ0YjVlYzA3MjJlN2ZhMzNi`
+Snapshot ID: `MCw1ZmFkNmQwMmJlNjIwZDYwYmJiNGM4YmNjMTg5YmFlZTA5ZTRhMDMy`

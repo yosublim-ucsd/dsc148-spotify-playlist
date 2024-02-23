@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpZt0hgkZZM.md) - [plain]
 
 > ¡Pasadía y sabrosura!
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,654 likes - 100 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,677 likes - 100 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpZt0hgkZZM.md) - [plain]
 | 99 | [Todo el Mundo Necesita un Beso](https://open.spotify.com/track/1mO9On0xaCs0SPPgjmq5v6) | [Los Tupamaros](https://open.spotify.com/artist/54gCRV0IGOEsK5iZFjdKXo) | [20 Años](https://open.spotify.com/album/2RuHV8qf5TiCqx6bg4itTj) | 3:11 |
 | 100 | [Asi empezaron papa y mama](https://open.spotify.com/track/7MvJSxFokYigdTshWdoOPW) | [Los Graduados](https://open.spotify.com/artist/1JldSq8x5MHlqxHVMDEnlF), [Gustavo Quintero](https://open.spotify.com/artist/7d1I3nQKYsBnj0uDShHrYn) | [Juanito Preguntón](https://open.spotify.com/album/0ChvjVVzLBOam8NDs9nL5p) | 2:26 |
 
-Snapshot ID: `MCwyZGU3YWZjMjgwYTJhOWRjZmNmODc2NmQ2ZDRkMzRmYWI3ZWUzZjVl`
+Snapshot ID: `MCw5ZDIxMzIzNWM1NGYxZTg2MDA5YWZkNGQzZmQ4MzYxY2YyM2E0Yzg3`

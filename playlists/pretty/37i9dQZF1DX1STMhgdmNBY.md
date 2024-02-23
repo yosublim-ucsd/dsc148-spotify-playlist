@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1STMhgdmNBY.md) - [plain]
 
 > For body and mind, blues straight from the soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,935 likes - 70 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,974 likes - 70 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1STMhgdmNBY.md) - [plain]
 | 69 | [Change is Inevitable \(feat\. AJ Fullerton\)](https://open.spotify.com/track/1ch8BB3SZgCvJN1qWft4Et) | [Tony Holiday](https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv), [AJ Fullerton](https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp) | [Porch Sessions, Vol\. 2](https://open.spotify.com/album/62fmTuO2waPpKrOGXk67AI) | 2:50 |
 | 70 | [Anyhow](https://open.spotify.com/track/13SV6q70zRxTJR3yEAqh2C) | [Connor Selby](https://open.spotify.com/artist/4UDgyOm8Xpbxqid8l427Mc) | [Connor Selby \(Deluxe Edition\)](https://open.spotify.com/album/3MzRJbbq5PsBnmPqV9JzkU) | 6:54 |
 
-Snapshot ID: `MCxkNDRkYTNmOGI3NmJkM2ZhMjg0NDRlOGFhYmY0Mzc2NjEwYmRiZWRk`
+Snapshot ID: `MCwxNDBkYWZlMWU4NmUyOTJiZWM3NmQxMzRkMTQ1NzYyMzEzMmNhOTZl`

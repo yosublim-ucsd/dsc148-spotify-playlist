@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5bb9hy3CdA7TjjHrHawvwl">Ryan Tedder</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-460 songs - 1 day 2 hr 47 min
+461 songs - 1 day 2 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,6 +284,7 @@
 | [Nights With You](https://open.spotify.com/track/1m1IL33LEp61DGGqXL3wBr) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Nights With You \(Official Video\)](https://open.spotify.com/album/4Y5E4KsI3fq9JkPnNIsnb6) | 3:17 | 2024-01-29 | 2024-02-02 |
 | [No Vacancy](https://open.spotify.com/track/4QeoDcR16IHpmmgFGQDrCp) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [No Vacancy](https://open.spotify.com/album/1UAt4G020TgW3lb2CkXr2N) | 3:43 | 2024-01-29 |  |
 | [Not Alone \- from Devotion](https://open.spotify.com/track/6h6TV778sDIHTmx6iaZvZu) | [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Not Alone \(from Devotion\)](https://open.spotify.com/album/0Wzpt98v7378EqKu3NlONg) | 4:11 | 2024-01-29 |  |
+| [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/track/18dlAFKaajLjRgBNZZ4ThU) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Mean Girls \(Music From The Motion Picture\)](https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74) | 2:50 | 2024-02-22 |  |
 | [Not Over](https://open.spotify.com/track/13LYNIhbnVvcq1fnhBzNCg) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Ryan Tedder](https://open.spotify.com/artist/4we5S2VLjgY9KzIzApL1KI) | [A Lively Mind](https://open.spotify.com/album/0qKDq3Ca3Hn08Qa5uz6dcx) | 8:49 | 2024-01-29 |  |
 | [Not Over You](https://open.spotify.com/track/6j7hih15xG2cdYwIJnQXsq) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Sweeter](https://open.spotify.com/album/2zVRgW8bXd7ukXRZSWw81j) | 3:38 | 2024-01-29 |  |
 | [Nothing For Free](https://open.spotify.com/track/2EDR9jb2Qn7E4eGZu8WGRD) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Egypt Station \(Explorer's Edition\)](https://open.spotify.com/album/3UdA4CPd2ktoIbzo1UREWc) | 3:15 | 2024-01-29 |  |

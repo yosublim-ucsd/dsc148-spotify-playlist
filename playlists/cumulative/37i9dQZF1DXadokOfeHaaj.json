@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "Are you ready for the floor? Cover: Jessica Winter",
+  "description": "Are you ready for the floor? Cover: F3miii",
   "name": "Indie Dancefloor",
   "tracks": [
     {
@@ -326,7 +326,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 201950,
       "name": "Ascension",
       "url": "https://open.spotify.com/track/7yKodgnMF6dF737ahs1BHh"
@@ -573,6 +573,24 @@
     },
     {
       "album": {
+        "name": "Electric Cutz",
+        "url": "https://open.spotify.com/album/0tsWEz8VVlBdKypM4IlKAk"
+      },
+      "artists": [
+        {
+          "name": "Ros T",
+          "url": "https://open.spotify.com/artist/4sG0aI4xrubRmrdWBIn4RO"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289315,
+      "name": "Electric Cutz",
+      "url": "https://open.spotify.com/track/398h6HYx7uGMbRXLycgBF9"
+    },
+    {
+      "album": {
         "name": "Non Binary Place",
         "url": "https://open.spotify.com/album/2ZH8IpoBY4rSq3QB6Oez9u"
       },
@@ -588,6 +606,28 @@
       "duration_ms": 229238,
       "name": "Fear",
       "url": "https://open.spotify.com/track/5yIK62xhc1PwxG83kObxZe"
+    },
+    {
+      "album": {
+        "name": "Fire Of Mercy (yun\u00e8 pinku remix)",
+        "url": "https://open.spotify.com/album/5ZmBR9NMbuBycE92C5b0Wy"
+      },
+      "artists": [
+        {
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+        },
+        {
+          "name": "yun\u00e8 pinku",
+          "url": "https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254400,
+      "name": "Fire Of Mercy - yun\u00e8 pinku remix",
+      "url": "https://open.spotify.com/track/6ITWROA9slWos6GjdlryE5"
     },
     {
       "album": {
@@ -780,7 +820,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 419074,
       "name": "Lifetime - Planningtorock 'Let It Happen' Remix",
       "url": "https://open.spotify.com/track/6U9opnMMouhZdQaseeVQTq"
@@ -798,7 +838,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 192000,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/3hzazse5o4NZA13isN8eMp"
@@ -852,7 +892,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 293093,
       "name": "Limbo",
       "url": "https://open.spotify.com/track/5nUrlBwZiaPcCKpBM7iT1W"
@@ -874,6 +914,24 @@
       "duration_ms": 207034,
       "name": "Limousine Lies",
       "url": "https://open.spotify.com/track/6knXoLZCEFx4i9yAIScw56"
+    },
+    {
+      "album": {
+        "name": "LOSTWITHOUTMARIA",
+        "url": "https://open.spotify.com/album/19JU2xfgLz08uhItsL9mrT"
+      },
+      "artists": [
+        {
+          "name": "F3miii",
+          "url": "https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154104,
+      "name": "LOSTWITHOUTMARIA",
+      "url": "https://open.spotify.com/track/5vHRQOgc2tQb4h7KrBQUmS"
     },
     {
       "album": {
@@ -964,7 +1022,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 223829,
       "name": "No Forever",
       "url": "https://open.spotify.com/track/2VcKkrj7UKpUfep0RG9ZQV"
@@ -1229,6 +1287,28 @@
     },
     {
       "album": {
+        "name": "Regret The Morning",
+        "url": "https://open.spotify.com/album/6tU5eRh9yr1IOBr5vUdx4D"
+      },
+      "artists": [
+        {
+          "name": "SILK",
+          "url": "https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a"
+        },
+        {
+          "name": "Mali-Koa",
+          "url": "https://open.spotify.com/artist/45Dc572GdbJ6Guc8X3UW24"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166386,
+      "name": "Regret The Morning",
+      "url": "https://open.spotify.com/track/4Sj4ZeOPAcdAhYplVbezI0"
+    },
+    {
+      "album": {
         "name": "+/-",
         "url": "https://open.spotify.com/album/76360gDUYhTAsphjiXM9gA"
       },
@@ -1277,6 +1357,50 @@
     },
     {
       "album": {
+        "name": "Set Me Free",
+        "url": "https://open.spotify.com/album/0AlLXyc7bWVwCoDAZFu6p7"
+      },
+      "artists": [
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        },
+        {
+          "name": "COSBY",
+          "url": "https://open.spotify.com/artist/7lNukQP9I2H6JmLcXrfmEv"
+        },
+        {
+          "name": "sebo",
+          "url": "https://open.spotify.com/artist/3CW9E4zbWJaS4xVUb0KPeW"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131041,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/4QaTmat7UUkWqWPafw59pn"
+    },
+    {
+      "album": {
+        "name": "Mid Air",
+        "url": "https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181240,
+      "name": "She's On My Mind",
+      "url": "https://open.spotify.com/track/4heve4ydl1u6V3AD4moZq9"
+    },
+    {
+      "album": {
         "name": "Shut My Mouth",
         "url": "https://open.spotify.com/album/0mTMooSBjeE2INrKU8AVqf"
       },
@@ -1306,7 +1430,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 199680,
       "name": "Sister Infinity - Edit",
       "url": "https://open.spotify.com/track/2FmxpCtAKpL2VT7abM5Jeq"
@@ -1440,7 +1564,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 215979,
       "name": "The Last Time I Saw You",
       "url": "https://open.spotify.com/track/6gHcbKtydW4jO5scP8J0qn"
@@ -1606,6 +1730,32 @@
       "duration_ms": 285821,
       "name": "Unfold",
       "url": "https://open.spotify.com/track/36kCSJg8ZBwiSCUECFKGUy"
+    },
+    {
+      "album": {
+        "name": "Warm (Feeling)",
+        "url": "https://open.spotify.com/album/35iBUBrdFfd8eNXllzB3L4"
+      },
+      "artists": [
+        {
+          "name": "Alan Dixon",
+          "url": "https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x"
+        },
+        {
+          "name": "Speakman",
+          "url": "https://open.spotify.com/artist/1iGuChqxLqc0WZSCTfS45a"
+        },
+        {
+          "name": "Misty",
+          "url": "https://open.spotify.com/artist/4IrIBE884z1Tjx7A6jRGd6"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200330,
+      "name": "Warm (Feeling)",
+      "url": "https://open.spotify.com/track/3t6YRAebaWeWHitQ05ZQZj"
     },
     {
       "album": {

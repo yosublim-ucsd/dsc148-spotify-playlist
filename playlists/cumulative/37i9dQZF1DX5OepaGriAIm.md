@@ -4,7 +4,7 @@
 
 > Trace the history of Jazz from timeless classics to boundary\-breaking contemporary favorites from the women of Jazz\. Cover: Diana Krall
 
-196 songs - 14 hr 8 min
+197 songs - 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [Weak](https://open.spotify.com/track/5G90jbJFSuo2BIoyvIDMm7) | [Gretchen Parlato](https://open.spotify.com/artist/76Gi1qoWLrIerL5FcL0TZb) | [In A Dream \(Japan bonus track edition\)](https://open.spotify.com/album/4mzWnRHrgRMcUKtvqNW6eB) | 5:11 | 2022-03-08 |  |
 | [What Seems to Be](https://open.spotify.com/track/6nFj1w0i80WtD7tRWt3Upk) | [Yumi Ito](https://open.spotify.com/artist/3uWJmmVbMN5fhVLhaDRcBY) | [Stardust Crystals](https://open.spotify.com/album/4kCfpL1lN7now0bDfBIaW4) | 4:38 | 2021-12-02 |  |
 | [When Sunny Gets Blue](https://open.spotify.com/track/2ttCdSWedaPtOltZLPZVAT) | [Stína Ágústsdóttir](https://open.spotify.com/artist/7tn2NxdUjOm9WuvEXQNhLi), [Carl Bagge](https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF) | [When Sunny Gets Blue](https://open.spotify.com/album/2tcBjPtxrfZLep0WKsdVAR) | 4:24 | 2023-10-13 |  |
+| [Where Do You Go?](https://open.spotify.com/track/3eTUgNA4GrFu3mo1wy79ni) | [Cornelia Nilsson](https://open.spotify.com/artist/6qrHaoFbMB1BvPLVlKaY5c), [Daniel Franck](https://open.spotify.com/artist/72xSyvnAe9Hb1vgtQblTTt), [Aaron Parks](https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv) | [Where Do You Go?](https://open.spotify.com/album/637CSjIkYI1pALV0yrFcfc) | 6:58 | 2024-02-23 |  |
 | [Willow Weep For Me](https://open.spotify.com/track/2LHaIw3mxrbKbiZnEnGpvJ) | [Dakota Staton](https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx) | [Time To Swing](https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko) | 2:30 | 2021-12-02 |  |
 | [Without That Gal!](https://open.spotify.com/track/4HwJCIYAVBciTWHZBOJuTE) | [Blanche Calloway](https://open.spotify.com/artist/4Pb1I6ZTK7XnAfk7bJtvjh) | [Blanche Calloway \(Doxy Collection\)](https://open.spotify.com/album/7joIm6xZU01pPtT2ZVsA1O) | 3:36 | 2022-03-08 |  |
 | [Without That Gal! \(06\-11\-31\)](https://open.spotify.com/track/6RsdHCcaWpatuOxqsIbBh6) | [Blanche Calloway](https://open.spotify.com/artist/4Pb1I6ZTK7XnAfk7bJtvjh) | [Complete Jazz Series 1925 \- 1935](https://open.spotify.com/album/4u6xGQVPpDu50k8nORV2f5) | 3:36 | 2021-12-02 | 2022-07-29 |

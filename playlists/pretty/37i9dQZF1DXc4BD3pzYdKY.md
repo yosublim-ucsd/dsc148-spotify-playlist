@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 
 > The best of Christian Hip Hop today\.  Cover:  <a href="spotify:artist:1CFCsEqKrCyvAFKOATQHiW">Lecrae</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,109 likes - 100 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,209 likes - 100 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 | 99 | [My God pt\. 2](https://open.spotify.com/track/7p0xK9YIsN0kQ7DboU0P77) | [Ruslan](https://open.spotify.com/artist/2GEXrCflKZ5S5ZHBM4LNcV) | [My God](https://open.spotify.com/album/2Uu6O1wkoGo9XJIoHCVXLp) | 2:43 |
 | 100 | [Make It Out \(From "Bad Things Happen In Philadelphia"\)](https://open.spotify.com/track/6jE9tkuIHU1Ggo2GAAure5) | [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq) | [Make It Out \(From "Bad Things Happen In Philadelphia"\)](https://open.spotify.com/album/6lRoiB35gfnd3zOyxO9x4X) | 2:39 |
 
-Snapshot ID: `MCw4ZGMwOTIxNGIxMDg4ZDQ0OTVmMGQ3NTEwM2VmNzU5ZmViMjg4OGE2`
+Snapshot ID: `MCwzYTEyYTJiNjJiYzI4ZmJkZmE2YmY2OTM4OWE4Zjk5MDAzNTc1Yzk3`

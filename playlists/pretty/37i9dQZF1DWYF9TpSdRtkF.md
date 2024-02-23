@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYF9TpSdRtkF.md) - [plain]
 
 > Music from "THE IDOLM@STER MILLION LIVE!"\. アイドルマスター ミリオンライブ！の楽曲を1つのプレイリストで。<br/>THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,498 likes - 75 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,506 likes - 75 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYF9TpSdRtkF.md) - [plain]
 | 74 | [Manatsu no Dia](https://open.spotify.com/track/4AM1SklPReruWR9A7uNmhd) | [Rio Momose \(CV: Rikako Yamaguchi\)](https://open.spotify.com/artist/4nMZGzn6WqI033nRyHoZvV), [Yukiho Hagiwara \(CV: Azumi Asakura\)](https://open.spotify.com/artist/2QWak9cblhbyzAqz1zmueR), [Kotoha Tanaka \(CV: Risa Taneda\)](https://open.spotify.com/artist/7vOsyxqAygo6QgUJ5AIeyr), [Mami Futami \(CV: Asami Shimoda\)](https://open.spotify.com/artist/0IfJ1EaeosifZkfLgVtae5) | [THE IDOLM@STER MILLION THE@TER SEASON BRIGHT DIAMOND](https://open.spotify.com/album/0OECGehOOIyFrZceit0Z1S) | 3:51 |
 | 75 | [Princess Be Ambitious!!](https://open.spotify.com/track/3p9OnWeVVM5QWxBvsGqdFQ) | [PRINCESS STARS](https://open.spotify.com/artist/4OVCY7JiucZACb4XhcuYbK), [Mirai Kasuga \(CV: Haruka Yamazaki\)](https://open.spotify.com/artist/3JuayHx0kZxDWrUzCslgvn), [Matsuri Tokugawa \(CV: Ayaka Suwa\)](https://open.spotify.com/artist/3oi4yaQskHaDkubVyDPX7O), [Yuriko Nanao \(CV: Miku Ito\)](https://open.spotify.com/artist/6QaH6xMAiRcPLwngGK4aI8), [Kana Yabuki \(CV: Ibuki Kido\)](https://open.spotify.com/artist/3x67a8whel5V68sXtDbNC9), [Emily Stewart \(CV: Yu Kahara\)](https://open.spotify.com/artist/3jvOFNGI0dXp8e9Htp1T1r) | [THE IDOLM@STER MILLION THE@TER GENERATION 04 PRINCESS STARS](https://open.spotify.com/album/1dlsJFFLT7LFRUbeIJH1xs) | 5:00 |
 
-Snapshot ID: `MCwzMWJiMjkxYWMzYzZiNGE0OWQyMTY1NmIzY2I2MTE0N2VmNzk4OGQ0`
+Snapshot ID: `MCxkNGQ4NjllNGYwNzJmOWNlZTFhMzM3MDdjZjJlNTNkMjBhOGJjZTUy`

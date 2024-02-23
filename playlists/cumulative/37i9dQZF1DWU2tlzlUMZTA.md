@@ -4,7 +4,7 @@
 
 > Where Bollywood meets the hood\. Cover: Badshah
 
-61 songs - 2 hr 19 min
+62 songs - 2 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Ishq Nachaawe \- From "Kho Gaye Hum Kahan"](https://open.spotify.com/track/4lQzrLcNfjm1fqBpQmbHG6) | [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs), [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J), [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST) | [Kho Gaye Hum Kahan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3S4aagneprm7Dlvzf4Nu0O) | 3:41 | 2024-01-03 |  |
 | [Issa Vibe \(From "Bloody Daddy"\)](https://open.spotify.com/track/5hhBvvpp7zyZiS2fuQgEa4) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Payal Dev](https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7) | [Issa Vibe \(From "Bloody Daddy"\)](https://open.spotify.com/album/7DGKbA1EoSICnyUhorwxDF) | 2:27 | 2023-05-30 |  |
 | [Kar Gayi Chull \(From "Kapoor & Sons \(Since 1921\)"\)](https://open.spotify.com/track/3Q8yDujnXxwRiZ4p6VqY7b) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Amaal Mallik](https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6), [Fazilpuria](https://open.spotify.com/artist/4oaJL0V5asQDh4sqplTVhX), [Sukriti Kakar](https://open.spotify.com/artist/3FgHkfb3IqG4WKuVe1xCXM), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI) | [Kar Gayi Chull \(From "Kapoor & Sons \(Since 1921\)"\)](https://open.spotify.com/album/6GbJgAWazNCzOxobNoDeIv) | 3:07 | 2023-02-15 |  |
+| [Khel](https://open.spotify.com/track/6mv8YGvDRwdYiLc5zVdFjO) | [Vikram Montrose](https://open.spotify.com/artist/0aXLGxJ65wok0y1bVG6flg), [Abhinav Shekhar](https://open.spotify.com/artist/7bBqAz65fp8BVnuHQTFgSQ), [Shekhar Astitwa](https://open.spotify.com/artist/1o4gJ2P9CYruGrCXoMv36l) | [Crakk \- Jeetegaa Toh Jiyegaa](https://open.spotify.com/album/6GYYjfTgjkKDoZMVaTSVKX) | 2:24 | 2024-02-22 |  |
 | [Let's Nacho](https://open.spotify.com/track/4mQpBIJKBpd8lcrtZ73SP8) | [Nucleya](https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Kapoor & Sons \(Since 1921\) \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1teNu8WgSFQyNncvswvbAL) | 3:35 | 2023-02-15 |  |
 | [Mast Mein Rehne Ka Title Track \(Feat\. Jackie Shroff\)](https://open.spotify.com/track/0BXR32oDbjYIjOVKcs30qy) | [Kaam Bhaari](https://open.spotify.com/artist/5bTYVMQ6vmt4Bm12hM59N3), [Jackie Shroff](https://open.spotify.com/artist/46SMOVWQ7uye43ncijUu98) | [Mast Mein Rehne Ka](https://open.spotify.com/album/57Mp5CEnRAXsuDHeltvyKf) | 2:16 | 2023-12-15 |  |
 | [Nyaay Yuddh Dharm Yuddh](https://open.spotify.com/track/2OlLzyE9YtysMoOjA8KkHK) | [Nishant Singh](https://open.spotify.com/artist/07Pnq6qTXLN3hG449JAstv), [Jay Rajesh Arya](https://open.spotify.com/artist/6ylnONsh24bLFXi3HZA2Pr) | [Nyaay Yuddh Dharm Yuddh](https://open.spotify.com/album/1HAIYajWGoWi2syh7owPqg) | 2:22 | 2023-02-15 |  |

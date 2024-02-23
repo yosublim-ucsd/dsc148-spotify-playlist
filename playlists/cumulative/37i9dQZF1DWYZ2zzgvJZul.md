@@ -4,7 +4,7 @@
 
 > Éxitos del momento y lo último de artistas nuevos y consagrados\. En portada: Isla Mujeres
 
-266 songs - 16 hr 19 min
+267 songs - 16 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,7 +219,8 @@
 | [Ricos](https://open.spotify.com/track/1EnZ3INXgu2fnfQhqGWHDt) | [Axel Catalán](https://open.spotify.com/artist/3RyQCdkn4bCRxZ3kOgUPxH) | [Ricos](https://open.spotify.com/album/2tg6afES7ci3iXpktgcmKi) | 2:54 | 2022-09-05 | 2023-08-27 |
 | [Ricos](https://open.spotify.com/track/65VkSH6MsDUgSTyBm5gtwO) | [Axel Catalán](https://open.spotify.com/artist/3RyQCdkn4bCRxZ3kOgUPxH) | [Vespa 97](https://open.spotify.com/album/7gOUBoBRu5noC8toWgHzUJ) | 2:54 | 2023-08-25 | 2023-11-22 |
 | [Rocal](https://open.spotify.com/track/2lYG5r6ahoFOknygopkjMr) | [Los Niños Telepaticos](https://open.spotify.com/artist/2XrYe0zAKNrysuK1IuatTU) | [Rocal](https://open.spotify.com/album/4ihD17BMxTDcCfwcC2TlfC) | 3:50 | 2021-12-07 | 2022-03-21 |
-| [ROCK BARRIAL TIPO COUNTRY](https://open.spotify.com/track/3fA6H7qXllsOiSi7n445Dk) | [Terapia](https://open.spotify.com/artist/5sIea266s3izLKCqmH1SRk) | [ROCK BARRIAL TIPO COUNTRY](https://open.spotify.com/album/336pbkOxV2KKUif8DKWF2o) | 2:49 | 2024-02-02 |  |
+| [ROCK BARRIAL TIPO COUNTRY](https://open.spotify.com/track/3fA6H7qXllsOiSi7n445Dk) | [Terapia](https://open.spotify.com/artist/5sIea266s3izLKCqmH1SRk) | [ROCK BARRIAL TIPO COUNTRY](https://open.spotify.com/album/336pbkOxV2KKUif8DKWF2o) | 2:49 | 2024-02-02 | 2024-02-23 |
+| [ROCK BARRIAL TIPO COUNTRY](https://open.spotify.com/track/6YpJwech17LNB280HUnaWr) | [Terapia](https://open.spotify.com/artist/5sIea266s3izLKCqmH1SRk) | [PRENSADO](https://open.spotify.com/album/2tkeaVfODlKqe0lLqgARYd) | 2:49 | 2024-02-02 |  |
 | [Rumbapop](https://open.spotify.com/track/1sLotMFghANlkVzI4ln2uW) | [Pole.](https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F), [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai) | [Rumbapop](https://open.spotify.com/album/4I0VNxfe8qdt1SnvEiqREu) | 2:38 | 2022-09-05 |  |
 | [Sagitario \(Mi Madre Me Va A Matar\)](https://open.spotify.com/track/2FUvrVJvsDB4GsNnXc8h3A) | [Hens](https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK) | [Sagitario \(Mi Madre Me Va A Matar\)](https://open.spotify.com/album/23hiaBj0Cq3b8FTsqfcyNg) | 2:51 | 2022-03-19 | 2022-09-06 |
 | [Sasha, Sissi y el Círculo de Baba \- EADDA9223](https://open.spotify.com/track/0HdRf23VtIRpUdHH3mZc3L) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [EADDA9223](https://open.spotify.com/album/4VdWh8m5cYm3XI6dhayGIg) | 3:58 | 2023-06-09 | 2023-09-30 |

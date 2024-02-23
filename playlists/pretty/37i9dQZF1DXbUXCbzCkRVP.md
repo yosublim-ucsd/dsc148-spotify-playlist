@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUXCbzCkRVP.md) - [plain]
 
 > Iconic instrumentals from the history of Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,863 likes - 80 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,910 likes - 80 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUXCbzCkRVP.md) - [plain]
 | 79 | [Ode to Lynn Taitt](https://open.spotify.com/track/2IkeeV6KxreS3OJu2r4r8b) | [Funkwrench Blues](https://open.spotify.com/artist/1HefbPVFSMuXvPsE9EL1fs), [Cindy Cashdollar](https://open.spotify.com/artist/1Geygkl2ueTUPSA6EkUaj4) | [Ode to Lynn Taitt](https://open.spotify.com/album/43TTJfYeftVYRqyi6kXw6h) | 3:01 |
 | 80 | [Blind Willie](https://open.spotify.com/track/7Dc0GqiXeIqiQaTngeBcod) | [Ruth Wyand](https://open.spotify.com/artist/6DeVlBIJsrUt0kvPFkUYBh) | [Blind Willie](https://open.spotify.com/album/4lDz2uL6kTVYjSQKwGQVd3) | 2:55 |
 
-Snapshot ID: `MCxhODEyZWE0MzgzNDQyYzc5NjJjODZkOTZiMjA0MmY4MTUyZjBhOGFh`
+Snapshot ID: `MCw3MDBlYjYxODhlYmVjZWI3YjI0MDRhMWZkNmJkNWZiZGMwMzI3ODg1`

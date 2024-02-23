@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 
 > Fantastiske viser fra noen av våre aller beste artister.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,278 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,284 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 | 49 | [Mitt lille land](https://open.spotify.com/track/24bYCEcem3tzo3raOOwh01) | [Ole Paus](https://open.spotify.com/artist/1ekYDgldjpqKSEzJftWKQB) | [Paus synger Paus](https://open.spotify.com/album/1DjWqnJPoObQzAbb8dPwts) | 3:22 |
 | 50 | [Vår Beste Dag](https://open.spotify.com/track/4EtXjwdVdnv4v2glKQBloT) | [Erik Bye](https://open.spotify.com/artist/1qqBCY3Scz9Ea1mjkCDgaZ) | [Støv Og Stjerner](https://open.spotify.com/album/0NpGhivBGHLf1nnoLSCZ1X) | 3:01 |
 
-Snapshot ID: `MCxhMzQ2MzNhNDQ0M2MzYmYwMWM1YzFjMzA5ZmNhNmNkMGVhZmYyMjRh`
+Snapshot ID: `MCwyMzM3NzExOWQ3YzJiZGZmMDlhMGE1OGVkZGE0YmQ3NTVlMDYyN2Ey`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMXPT7ghdqO.md) - [plain]
 
 > 祝・結成5周年！6人組エンタメユニット、すとぷりの音楽をプレイリストで！ Music from Japanese entertainment group, Strawberry prince! ©STPR Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,544 likes - 75 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,546 likes - 75 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMXPT7ghdqO.md) - [plain]
 | 74 | [パンピじゃないのよッ!!](https://open.spotify.com/track/1nPeAlvdtQz2JcoRC1alaE) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [アスター](https://open.spotify.com/album/4bVrKqe9KlUdqnolJb5f82) | 3:47 |
 | 75 | [ストロベリー・レボリューション](https://open.spotify.com/track/3E4MUYqI1GR2IDFtqA4f3z) | [すとぷり](https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24) | [Strawberry Prince](https://open.spotify.com/album/1GzvzuViPqRHELbMtkY9JM) | 3:52 |
 
-Snapshot ID: `MCwxYWYwYjdjODAwZDdkNzBiZDBjNWUyNmU2OTc4ODFjNGJmYzgxOGNl`
+Snapshot ID: `MCxhNGQ0NDkxODk2NDQ3NWFmYmE2NThlNzFhNTFjOTFhNzFkNTA5OGYz`

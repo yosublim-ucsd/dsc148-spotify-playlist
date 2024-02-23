@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUIDYTCle9M9.md) - [plain]
 
 > Hits e clássicos para jogar sua energia lá em cima!
 
-[Spotify](https://open.spotify.com/user/spotify) - 735,638 likes - 60 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 735,814 likes - 60 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUIDYTCle9M9.md) - [plain]
 | 59 | [Troublemaker \(feat\. Flo Rida\)](https://open.spotify.com/track/6s8nHXTJVqFjXE4yVZPDHR) | [Olly Murs](https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW), [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [Right Place Right Time \(Expanded Edition\)](https://open.spotify.com/album/5kU9rWhYr4MmPmaGYP5z4v) | 3:05 |
 | 60 | [Dynamite](https://open.spotify.com/track/2CEgGE6aESpnmtfiZwYlbV) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [The Rokstarr Hits Collection](https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k) | 3:22 |
 
-Snapshot ID: `MCw5Yzc2NGYzNjUwOGYyZDJjNGFiNDAzYjY5NmYwNjFhZWFkYzczMzI0`
+Snapshot ID: `MCxhNzdiYzVkYTYzN2E3ZTc1NGQ4NDAzZDdhYmIxMmU3MjBmYmExYTI3`

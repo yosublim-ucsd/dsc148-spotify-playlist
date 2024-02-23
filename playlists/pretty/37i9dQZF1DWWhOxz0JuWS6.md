@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhOxz0JuWS6.md) - [plain]
 
 > Any songs you forgot existed? Let's go deep into 80s rock! Cover: Def Leppard.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,917 likes - 200 songs - 14 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,981 likes - 200 songs - 14 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhOxz0JuWS6.md) - [plain]
 | 199 | [Such a Shame \- 1997 Remaster](https://open.spotify.com/track/35JhxrwW2bBAiMcnrmuLEN) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf) | [It's My Life](https://open.spotify.com/album/152Hw6E0tNz3EQNq9c1CDf) | 5:35 |
 | 200 | [Far From Over](https://open.spotify.com/track/0mbImplrU76kIvd52GlNbt) | [Frank Stallone](https://open.spotify.com/artist/3BucZwouCkpiGi2UxqfWn9) | [Frank Stallone](https://open.spotify.com/album/4khMOHn89Aq1yHqWgkVzxm) | 3:15 |
 
-Snapshot ID: `MCw2NjI5YzQxNWFkMjdmYWYxYWRiYmE0OGMyNzM5Y2VkMWVmODM0NGZk`
+Snapshot ID: `MCxkOWY0YmZhMjA0OTMzZDYxMWM3OTVkYzkwOTViOWE4OGE4NTYyMWZj`

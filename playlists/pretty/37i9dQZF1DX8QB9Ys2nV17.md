@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QB9Ys2nV17.md) - [plain]
 
 > The greatest female voices in blues today\. Cover: Amythyst Kiah
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,835 likes - 55 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,840 likes - 55 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QB9Ys2nV17.md) - [plain]
 | 54 | [It Hurts Me Too](https://open.spotify.com/track/7EFUJYLscAMh62ZkSUhZyc) | [Erja Lyytinen](https://open.spotify.com/artist/73i095FtGSlyCoudRYl6MD) | [The Sky Is Crying](https://open.spotify.com/album/3mQMXVI0HCbJ6yamBHpcBU) | 5:06 |
 | 55 | [Masters of War](https://open.spotify.com/track/4uEyWg6xjJ9uYoJYTuWg8U) | [Dani Wilde](https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB) | [Masters of War](https://open.spotify.com/album/7lAF2ragTBGGpRfa8m1AzZ) | 4:56 |
 
-Snapshot ID: `MCw1OWNkNDdmNjI2OGIwNmU3ZTE5ZTM1ODEyZTEyMjQ2MTI1ZDNkNGI0`
+Snapshot ID: `MCw2NGZkNjA2NWZjZmU2ZWIxZTQ3ZDAxNWMwZWI3NzhhNmRjZGVlMzUx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcbzTgVpNRm.md) - [plain]
 
 > Your favorite Latin anthems to get the party started!<br/>Cover: Daddy Yankee, Marc Anthony
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,080,613 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,080,661 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcbzTgVpNRm.md) - [plain]
 | 99 | [Sin Pijama](https://open.spotify.com/track/2ijef6ni2amuunRoKTlgww) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Sin Pijama](https://open.spotify.com/album/6hAxqfWO3xDGzjs8yad1pB) | 3:08 |
 | 100 | [Oye Mi Canto](https://open.spotify.com/track/3J6vrRMz6EfwH2sgYiyNhc) | [N.O.R.E.](https://open.spotify.com/artist/4GMgdB3vwbBOc42hbXEi9p), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Nina Sky](https://open.spotify.com/artist/6eBYLQONaYZhZNAVK061t6), [Gemstar](https://open.spotify.com/artist/5WooWF4HvIcgW0BDA2VBPN), [Big Mato](https://open.spotify.com/artist/0tG3OtnzCjdbL1ZVkDprlS) | [N.O.R.E\. Y La Familia](https://open.spotify.com/album/0RLMAxS9mhy149lu93u7GA) | 4:00 |
 
-Snapshot ID: `MCw5YjE4MzMxOTU0NmIzZmFmMmQwODc4MDMyOTc0ZTA4ZWUxNDM1MWNm`
+Snapshot ID: `MCw2YmY1YjYzMGZiOGExMmExY2Y1YWZmODg1NjU0MWFhM2VhOTVkMDQ4`

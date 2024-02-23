@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 
 > No tags, no labels \- just free form\. Cover: BXKS
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,232 likes - 60 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,311 likes - 60 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 59 | [Bon Appétit](https://open.spotify.com/track/0K56woQKVkZSgqxom9aNqO) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [Bon Appétit](https://open.spotify.com/album/5Tax49IzkZVlDraQdobhEk) | 3:17 |
 | 60 | [Celine](https://open.spotify.com/track/2FAubZAGaGl5k2Be1n1nrG) | [Youngn Lipz](https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV), [Ay Huncho](https://open.spotify.com/artist/3HKD4MjCgkSrWjhebSa1Np), [wewantwraiths](https://open.spotify.com/artist/3LYyk2fBTwdAw3aN6hrrY2) | [Celine](https://open.spotify.com/album/2osmYzbFYfQEbIeq5QB6Hc) | 3:13 |
 
-Snapshot ID: `MCw2MDMwM2IxNWIwYTVjMjVkYTIxOGFiNzQ0ZjdjNThmODNlMDQwOGE4`
+Snapshot ID: `MCwyYWNlMDViMmM3YzRhZjYzMTMzNjIyMTYyM2ZmZWE5MjcxNmMzYmQ5`

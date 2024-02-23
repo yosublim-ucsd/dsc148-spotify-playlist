@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3P9CWt.md) - [plain]
 
 > This is Pabllo Vittar\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,957 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,964 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3P9CWt.md) - [plain]
 | 49 | [Noitada INTRO](https://open.spotify.com/track/2hXH0lq9mfxS8EVFsWOwmW) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Noitada](https://open.spotify.com/album/6FwzHdmi1hoOUSnirEqGRO) | 0:39 |
 | 50 | [I Got It \(feat\. Brooke Candy, CupcakKe and Pabllo Vittar\)](https://open.spotify.com/track/7tjQl5EC72HBJRAKxP3Bvm) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [cupcakKe](https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m) | [Pop 2](https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC) | 3:51 |
 
-Snapshot ID: `Mjg0NzUyOTAsMDAwMDAwMDAzZDg0YzNiOGY3MWM4OTA3NWM0ODA2ZWJiMjNkZjY5ZQ==`
+Snapshot ID: `Mjg0NzcwNzUsMDAwMDAwMDA3ZmZiYzZiNjY3NDkxYTkwYmMzYmI1N2IyZjQyZjA5MQ==`

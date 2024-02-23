@@ -4,7 +4,7 @@
 
 > Beautiful, uplifting Ambient for being in the moment.
 
-135 songs - 6 hr 37 min
+138 songs - 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Buscando](https://open.spotify.com/track/57MvDY3DeE9Iz7MtW7CI8n) | [Lidia Peralta](https://open.spotify.com/artist/7uzvpSnBNJJABrXvCNKy80) | [Buscando](https://open.spotify.com/album/5nDBzOcYoN9cvUvjsqMmCn) | 2:25 | 2022-08-05 |  |
 | [Chapters](https://open.spotify.com/track/0vXj9LXojFSwXXKkSjzuNB) | [Zen Wuan](https://open.spotify.com/artist/214ZCbh6xfCOu7LunRBdBY) | [Yoga Meditation](https://open.spotify.com/album/3Ef1x3Iy3qS8fAXFTGBDdo) | 2:43 | 2022-08-05 |  |
 | [Circle Of Everything](https://open.spotify.com/track/3rydBdAYaK1gslIS8JSm5D) | [Dance Of Centuries](https://open.spotify.com/artist/5y6jYkmnAqeXseHx3earZD) | [Circle Of Everything](https://open.spotify.com/album/0wHGczI6bIhfsYgCB0niAL) | 2:42 | 2022-08-05 |  |
+| [Clear Aspect](https://open.spotify.com/track/3wMVNeCFtG1Ei2dZc56g3R) | [Castorum](https://open.spotify.com/artist/04RsbMw3XjQupVwFm8i18f) | [Clear Aspect](https://open.spotify.com/album/0BJE2lNt3RSQR62qvUHuIS) | 3:21 | 2024-02-22 |  |
 | [Clear Path](https://open.spotify.com/track/2tCmr9BYhSjQilIomSM8EI) | [William Francisco](https://open.spotify.com/artist/2jQwLGGaI5zOgqc5SiMp7V) | [Clear Path](https://open.spotify.com/album/10tajn5McEnxj6z3B5KOqN) | 3:02 | 2022-08-05 |  |
 | [Clear Vista](https://open.spotify.com/track/44ztxC2QwDByUgrB5TTpxt) | [Alice Torrence](https://open.spotify.com/artist/5c14a0TXRif4CrCsHgYh3E) | [Clear Vista](https://open.spotify.com/album/1KJfyjN6iDu1s6Ax9sYC41) | 2:13 | 2022-08-05 |  |
 | [Consapevolezza](https://open.spotify.com/track/63kxLIjDG9maJO1T1oxVoP) | [Dormiente](https://open.spotify.com/artist/5CsUyEbyQ9JoZLTaP9HJhu) | [Consapevolezza](https://open.spotify.com/album/5miTWb698z08O6V5pxTc8X) | 2:34 | 2022-09-02 |  |
@@ -46,6 +47,7 @@
 | [Equilibrium \- Loopable with No Fade](https://open.spotify.com/track/0xyrEAILLZmrkF2mHU1itT) | [Sweet Dreamer](https://open.spotify.com/artist/3zKs9aLmCunDoHMi4y2ld7) | [Atmospheres For Yoga And Meditation](https://open.spotify.com/album/0UzCrJH14dmIujSR2uynv8) | 2:54 | 2022-08-05 | 2023-01-21 |
 | [Erinnerungen](https://open.spotify.com/track/3oSnjjDlGybELlBa9by38Y) | [Phillipp Vogler](https://open.spotify.com/artist/2ocNI6hLYU6rqq6TT4YzNY) | [Erinnerungen](https://open.spotify.com/album/64Cah8smmxb3ypiPR1MtQl) | 3:12 | 2024-01-26 |  |
 | [Eternal Spaces](https://open.spotify.com/track/6MGM4k4KUGLvDy8Xeieoxq) | [Mystisse](https://open.spotify.com/artist/6IpbJpzWfnVDsdJG9fJHWp) | [Eternal Spaces](https://open.spotify.com/album/7MBLePUpu4R5Nd2KURuPi8) | 2:48 | 2022-12-20 |  |
+| [Ethereal Reverie](https://open.spotify.com/track/1H0XcscTDkJM6ScRnvLp9d) | [Soundscapes Syndicate](https://open.spotify.com/artist/2fTdgIKmpCVxDFSQOriiHp) | [Ethereal Reverie](https://open.spotify.com/album/3c3hn6REyBVwFO4KUN885o) | 2:48 | 2024-02-22 |  |
 | [Exhale](https://open.spotify.com/track/4hf0kDIz99TEAhNSRDJoWo) | [Max Benton](https://open.spotify.com/artist/6rEyWC1pryYSBm1xFVH5A1) | [Exhale](https://open.spotify.com/album/3M9fvySvpsmnWrCfpVLWr8) | 3:00 | 2023-02-03 |  |
 | [Falling Autumn Leaves](https://open.spotify.com/track/5dXGR9SCZjX1a82NG87QKF) | [Roy Holtz](https://open.spotify.com/artist/7bmRaidlj0sx7EKFWBLnl2) | [Falling Autumn Leaves](https://open.spotify.com/album/2l8OjMwlL7qklDoJLhAT4S) | 2:14 | 2022-08-05 |  |
 | [Fèath](https://open.spotify.com/track/52dScVRoybs6acPSkmK6jc) | [Andy Kamman](https://open.spotify.com/artist/2bI9xKlbtS0cPS3rQ8x87y) | [Fèath](https://open.spotify.com/album/1uPNzg4SM9YYcclHGewiyC) | 3:26 | 2022-08-05 | 2022-10-15 |
@@ -137,6 +139,7 @@
 | [Vivid Imagination](https://open.spotify.com/track/4wV6irpJa9f21iaadadfrG) | [Heaven on Earth Instrumental Universe](https://open.spotify.com/artist/7aLueB60C95UX3TOvWgbAt) | [Psybient \(Psychedelic Ambient Music\)](https://open.spotify.com/album/0hXQHpXhx1EupvlaZC7tvM) | 3:16 | 2022-09-20 | 2023-01-10 |
 | [Water Shapes](https://open.spotify.com/track/2BXn2oEXL6XD2iXzuSzd0g) | [Calil](https://open.spotify.com/artist/0wZ9TiIXE76xXjZUUbVmN7) | [Water Shapes](https://open.spotify.com/album/4gRZeAvNFnIQZvhUEPbf2H) | 3:20 | 2022-08-05 |  |
 | [Weather The Storm](https://open.spotify.com/track/36uWwpFlhgjgCdefgC1Irp) | [Xiliah Roth](https://open.spotify.com/artist/47PP7w0Qi4HaeIQgWPEW25) | [Beyond The Dark Clouds](https://open.spotify.com/album/50riLI8PCz7iLWKgHFlOK7) | 2:49 | 2023-05-19 |  |
+| [Whispering Forest](https://open.spotify.com/track/6lONoyyQseJfXbQTDnaQ1a) | [Najia](https://open.spotify.com/artist/4qgxof0FH2zmybTkwjzuw1) | [Whispering Forest](https://open.spotify.com/album/6J30Ae03JtCaKfpjft4Mto) | 2:42 | 2024-02-22 |  |
 | [Worry Not](https://open.spotify.com/track/7hS2ckejZtpQIompCdbczv) | [María Mojca](https://open.spotify.com/artist/39ZWSqegQ0BRppztA35wXU) | [Worry Not](https://open.spotify.com/album/79VOF59svdNCrRXatvtxNm) | 2:45 | 2022-11-11 |  |
 | [Y](https://open.spotify.com/track/2aO1Kx044UxkdUn9HMjsnY) | [Clip Aloe](https://open.spotify.com/artist/6CxgcvEFmR83qRXJmgZj67) | [Y](https://open.spotify.com/album/6HFV1kH4B3WPJWfhxF8CAF) | 3:29 | 2022-08-05 | 2023-03-31 |
 | [Yalmi](https://open.spotify.com/track/4vbpZqfVsIz1lPEsMT0IkE) | [Merc La](https://open.spotify.com/artist/0bSzN4RWd1T5I0ICYR2LJS) | [Yalmi](https://open.spotify.com/album/5O6cASUJg7un5RD7kqO0UT) | 2:23 | 2022-08-05 |  |

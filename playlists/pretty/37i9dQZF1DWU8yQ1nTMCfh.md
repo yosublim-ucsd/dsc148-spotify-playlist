@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 
 > Las nuevas vibras del rock en español\. Cover: Viniloversus
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,126 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,154 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 | 74 | [Toda Mi Fe](https://open.spotify.com/track/4xv8YtHeOHydpg3Y6OYkUQ) | [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [Ocho](https://open.spotify.com/album/4jie4ait51UVZs4khjF1CP) | 3:19 |
 | 75 | [Me da igual](https://open.spotify.com/track/1MB8FjCsHDfLn3EjPO3ehp) | [Hens](https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK) | [No Me Odio Tanto](https://open.spotify.com/album/59HyW3yFk1tQsRJYK85BuB) | 2:58 |
 
-Snapshot ID: `MCxkMGI1ZTgwM2NmMTcxYTY3YjdiY2ZmMzhmNDM0YmYwZjY1M2JmM2Nh`
+Snapshot ID: `MCw1NzU2ODJhNGFjMjk3NGE5YTViMmYzMjkwMGMzNDdiODYyZjJjYjE4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 
 > It's a main pop girl emergency 🆘  Cover: Kim Petras
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,524 likes - 100 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,600 likes - 100 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 | 75 | [Red Flag](https://open.spotify.com/track/0fNzU26XiTKY2lhmOpokgR) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Red Flag](https://open.spotify.com/album/1Hefm7MGT5MeV0bvdDjZHc) | 2:28 |
 | 76 | [SUCKER 4 GREEN](https://open.spotify.com/track/4C7qGYJ9vMAzX95o2xTdhA) | [LIL TAY](https://open.spotify.com/artist/5dsEqJbJ3ZC5A77Yaqwnu3) | [SUCKER 4 GREEN](https://open.spotify.com/album/5hDOPaghJtj3fUPrpE28uE) | 3:34 |
 | 77 | [KITTY](https://open.spotify.com/track/07V9IpmgI7kaKwoMyaldiH) | [REYSHA RAMI](https://open.spotify.com/artist/3V3EAJjX9EmvSsjm79J32j) | [KITTY](https://open.spotify.com/album/5elwfe8kBov1FNLAZmIZfl) | 1:45 |
-| 78 | [FΛSHION](https://open.spotify.com/track/4YQgOgIElFtEvwJQ9ArWL7) | [Britney Manson](https://open.spotify.com/artist/7GtPtPbDC5CLNzSNxVpqaf) | [FΛSHION](https://open.spotify.com/album/7umRaDZ9FqTaL2EWZvGMEX) | 2:26 |
+| 78 | [FΛSHION](https://open.spotify.com/track/70jiETKdlLEram2zJSHdHH) | [Britney Manson](https://open.spotify.com/artist/7GtPtPbDC5CLNzSNxVpqaf) | [FΛSHION](https://open.spotify.com/album/6cKTeK2UQ55jCrJcTsDm1h) | 2:26 |
 | 79 | [Hold On To Now](https://open.spotify.com/track/2DNHzFyCUHNLl5IH1NSM8h) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g) | 3:57 |
 | 80 | [On My Love](https://open.spotify.com/track/0dxp7DyPJEo6JhtnjUtBnN) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [On My Love](https://open.spotify.com/album/1NoYjCb7ReBR4kfmjntHTi) | 3:42 |
 | 81 | [Tell It To My Heart](https://open.spotify.com/track/5tkVC8EcUXEZNwmD45e7tq) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF), [Taylor Dayne](https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68) | [Tell It To My Heart](https://open.spotify.com/album/1KxlM9HIGOgM7SOMko1W9m) | 2:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 | 99 | [Hypnotized](https://open.spotify.com/track/5Ika1wiAaVETLx29jvWTTb) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE), [Wuh Oh](https://open.spotify.com/artist/48AHKCezlxWjPfE4FLf0b8) | [Hypnotized](https://open.spotify.com/album/2XQSL4TRLtFvJhEKoLnY5U) | 3:02 |
 | 100 | [lay all your love on me](https://open.spotify.com/track/3wrWJ4cpGWSL2JZieVXhdR) | [Bentley Robles](https://open.spotify.com/artist/2LOSfMfEVu8XgmHqwuixWT) | [lay all your love on me](https://open.spotify.com/album/1yP0udrcDvWX6xizCtWgJH) | 2:58 |
 
-Snapshot ID: `MCw4ZDdlN2RjNjE3YTUwYzBiOTg2NDNmOGY2ZTQ3ZGEyNjg0ZjBiYmYz`
+Snapshot ID: `MCxkNjI4MTc2MTI2ZTAyZGJhOWQwNmZiNTU5YWFiNTI1ZDliM2MzYWZj`

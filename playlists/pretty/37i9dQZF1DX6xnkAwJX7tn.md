@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xnkAwJX7tn.md) - [plain]
 
 > The biggest party hits of the 1980s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 707,067 likes - 150 songs - 10 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 707,878 likes - 150 songs - 10 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xnkAwJX7tn.md) - [plain]
 | 149 | [I Drove All Night](https://open.spotify.com/track/3J0AoQhAufniMrznCRJASD) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [A Night To Remember](https://open.spotify.com/album/3wegC2LXYCQknfUuOYBwmz) | 4:11 |
 | 150 | [My Prerogative](https://open.spotify.com/track/0v9kGNjkKdQUdDoBIuiph4) | [Bobby Brown](https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE) | [Don't Be Cruel](https://open.spotify.com/album/44w4sVYJVQzhH2dN3IwyIK) | 4:51 |
 
-Snapshot ID: `MCxiNzhmNjg3NjNiNDExZmVlMWYzN2FjOTUwNDU5ODkzMjQ0MjA0YWNi`
+Snapshot ID: `MCw1MzA0YTJlYTZmY2UwYjcyMWRjMTJmNmYyNjAxNTczZjVkMjBkNWQ3`

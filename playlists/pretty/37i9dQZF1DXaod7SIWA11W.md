@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 
 > Get lifted by the waves of faith\-infused music\.  Cover: <a href="spotify:artist:7z7byOJ4AJnMY2NHE66ZpW">DOE</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,275 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,319 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 | 99 | [Faith > Fear](https://open.spotify.com/track/4urpo7LLiNUtyOvhXTezM5) | [Mia Pearl](https://open.spotify.com/artist/6oDZzh1uMkMpsLsAEcKomm) | [Faith > Fear](https://open.spotify.com/album/6LxqTYmOc27BCEsV6DVNJ6) | 2:31 |
 | 100 | [Bless Him Some More \(feat\. John Dreher\)](https://open.spotify.com/track/4oXjuBmnWiXM9dGUbpyzon) | [Free Worship](https://open.spotify.com/artist/1isLgyF8G4bJdJzTrQPxV9), [John Dreher](https://open.spotify.com/artist/2xPTT6nveKcSqdSdHLsDtM) | [Bless Him Some More \(feat\. John Dreher\)](https://open.spotify.com/album/5mEoo6c6XTboSBq9p9abJB) | 8:42 |
 
-Snapshot ID: `MCw2YzlkMDEyYTFmNDM0MTlkMTExMWRhNTM4MTYzZjdlMjdhOTVjYjcz`
+Snapshot ID: `MCw1NTA2ZDQzNzVmMzQ4ZjQwYzQ0YzFjZmE3YzAwY2IyZDNmYWUzZmM2`

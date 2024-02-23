@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wCc28V2cVW.md) - [plain]
 
 > Be the first to hear the FINAL FANTASY XVI soundtrack and stay tuned for the  upcoming theme song\. 最新作『FFXVI』をはじめとするファイナルファンタジーの珠玉の名曲集。テーマソング、サウンドトラックの追加をお待ちください。©2019 SQUARE ENIX CO., LTD\. All Rights Reserved.
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,170 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,226 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wCc28V2cVW.md) - [plain]
 | 74 | [FFVII REMAKE: グロウガイスト \(Ghoul\)](https://open.spotify.com/track/5cV4tTVdcgnqfQc19m612K) | [西木康智](https://open.spotify.com/artist/6wOVIjB5RIWsJ2z3FXyPIt) | [FINAL FANTASY VII REMAKE Original Soundtrack](https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3) | 7:22 |
 | 75 | [Serah's Theme \- Memories \-](https://open.spotify.com/track/3qHXeYe8zOcogPoEjuK073) | [frances maya](https://open.spotify.com/artist/3vjb2VixFQA4dzL83dYgOT) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 2:47 |
 
-Snapshot ID: `MCw1OTk3NWNkZTdlM2FiMTVmZmQwYmY4MDBkMWYyY2RhZTI0YmQ0YmUw`
+Snapshot ID: `MCxhZTNjNDBjYjFkZTU1ZmNmOWMwMTM3MzM4NjE4YjZhMWFkMDI5MzRh`

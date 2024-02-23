@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33zOH1eHKGE.md) - [plain]
 
 > Move your way through the day with the dance tracks you love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,712 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,725 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33zOH1eHKGE.md) - [plain]
 | 99 | [Run](https://open.spotify.com/track/6oYXbji1rn7U6bFuNYekpQ) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Run](https://open.spotify.com/album/7JCAQ1ISjY2Le5hcXUmU0L) | 3:08 |
 | 100 | [Tell Me Something Good](https://open.spotify.com/track/5krhFNgUcYHwXlNPJJYzFM) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Tell Me Something Good](https://open.spotify.com/album/4tyukGQ3uDTgjLHxHZocH4) | 4:09 |
 
-Snapshot ID: `MCwxZWU4ZjNmMGU5NjZmOWVmNjYyNTNhY2YyOTEzYWVmOGVkZGMzNWQ4`
+Snapshot ID: `MCxkNGRkZmNhNzgzNDQwMjg2MjUxYjM2YzNiZTZmYjQyYjg2NjhiYTVj`

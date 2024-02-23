@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The very best new alternative tracks\. Cover: Mother Mother
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,112,479 likes - 126 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,112,579 likes - 126 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 125 | [Believe Me \(Even If I'm Lying\)](https://open.spotify.com/track/5D4mRZsNbuJHUD4IyPWiTs) | [late night drive home](https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB) | [Believe Me \(Even If I'm Lying\)](https://open.spotify.com/album/2J6zYvoCvBeZzBrA1WGybw) | 2:45 |
 | 126 | [Absolute Bloom](https://open.spotify.com/track/2J2NIgMvtnIStg1ZfCiEjm) | [Higher Power](https://open.spotify.com/artist/6yv0Vd63iiAaW4665Cs9vT) | [Absolute Bloom](https://open.spotify.com/album/5b6msyAHAio8tzWXOaYQsW) | 3:25 |
 
-Snapshot ID: `MCxiOGMyMDU4NjA1ZjhlMDVlZjZhNmMzZTBhZDA1ODBjY2Q0NWI4MTNm`
+Snapshot ID: `MCw3OTY1ZmEzM2U2ZDZkNzcyNDc5YWRmY2NmYTU1OGQ1YWI3MDYwNTdm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1nTCV2.md) - [plain]
 
 > This is Ryan Adams\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,624 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,633 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,19 +44,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1nTCV2.md) - [plain]
 | 34 | [Never Run](https://open.spotify.com/track/5yBCZUGiLBa1juMts6aLPW) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Sword & Stone](https://open.spotify.com/album/2wg4Zk8xRMeL5dlAe3wFOQ) | 2:52 |
 | 35 | [Prisoner](https://open.spotify.com/track/3namvPHEYY9nstuEAivJuE) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Prisoner](https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH) | 3:11 |
 | 36 | [Damn Sam \(I Love a Woman That Rains\)](https://open.spotify.com/track/07A4I35sBKxJ43iPZmWMqZ) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heartbreaker](https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn) | 2:08 |
-| 37 | [Wildest Dreams](https://open.spotify.com/track/6cX3XiNsgTUAqzdworhRUt) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/0MVK1j7wrUkBZ09ZuMURJA) | 5:21 |
+| 37 | [To Be With You \(Live\)](https://open.spotify.com/track/7G0mtQvZD2kIRV2kI3mD3p) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Prisoners \(Live\)](https://open.spotify.com/album/1EoOe8LmjUh7PB4M885Oqx) | 3:17 |
 | 38 | [Blizzard in the Room](https://open.spotify.com/track/6KRklFhhniHx1FOSqGl3lZ) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Sword & Stone](https://open.spotify.com/album/2wg4Zk8xRMeL5dlAe3wFOQ) | 3:25 |
 | 39 | [Do You Still Love Me?](https://open.spotify.com/track/0iHR4R5G3eMY595B4IvXfA) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Prisoner](https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH) | 3:59 |
 | 40 | [Amy](https://open.spotify.com/track/7qzqcfLHBAUherRXgW4Ul7) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heartbreaker](https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn) | 3:46 |
-| 41 | [To Be With You \(Live\)](https://open.spotify.com/track/7G0mtQvZD2kIRV2kI3mD3p) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Prisoners \(Live\)](https://open.spotify.com/album/1EoOe8LmjUh7PB4M885Oqx) | 3:17 |
+| 41 | [Wildest Dreams](https://open.spotify.com/track/6cX3XiNsgTUAqzdworhRUt) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/0MVK1j7wrUkBZ09ZuMURJA) | 5:21 |
 | 42 | [So Alive](https://open.spotify.com/track/1VczhujvY0bkcf7jE2RbFE) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Rock N Roll](https://open.spotify.com/album/3wPNe9aWZjMVr1UULcPuSX) | 3:58 |
-| 43 | [Out of the Woods](https://open.spotify.com/track/1WALf3LQsgkXda1jjsBsSV) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup) | 6:07 |
-| 44 | [Why](https://open.spotify.com/track/7A2Nu23pMnODXpUgjgnS58) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heatwave](https://open.spotify.com/album/7rHobpFFOUBekYAMIxbfsg) | 2:17 |
-| 45 | [Anything I Say to You Now \(Live\)](https://open.spotify.com/track/55UIfce4XNbIQzsRUCD17N) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Prisoners \(Live\)](https://open.spotify.com/album/1EoOe8LmjUh7PB4M885Oqx) | 4:28 |
-| 46 | [Firecracker](https://open.spotify.com/track/27FB2JgWXsWWwU5FKHaS4m) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Gold](https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc) | 2:51 |
+| 43 | [Why](https://open.spotify.com/track/7A2Nu23pMnODXpUgjgnS58) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heatwave](https://open.spotify.com/album/7rHobpFFOUBekYAMIxbfsg) | 2:17 |
+| 44 | [Firecracker](https://open.spotify.com/track/27FB2JgWXsWWwU5FKHaS4m) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Gold](https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc) | 2:51 |
+| 45 | [Welcome to New York](https://open.spotify.com/track/3fxcUfVbzcKssPNrqsvspm) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup) | 3:18 |
+| 46 | [Anything I Say to You Now \(Live\)](https://open.spotify.com/track/55UIfce4XNbIQzsRUCD17N) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Prisoners \(Live\)](https://open.spotify.com/album/1EoOe8LmjUh7PB4M885Oqx) | 4:28 |
 | 47 | [I See Monsters](https://open.spotify.com/track/7yo0FaDvZ7hx6F8UK324hH) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Love Is Hell](https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2) | 3:54 |
 | 48 | [Haunted House](https://open.spotify.com/track/60gqIHYxfFNfAF2ljsx2xq) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Prisoner](https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH) | 2:42 |
-| 49 | [Broken Anyway \(Live\)](https://open.spotify.com/track/70dHBmG5GLYvPyZVtIKmpH) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Prisoners \(Live\)](https://open.spotify.com/album/1EoOe8LmjUh7PB4M885Oqx) | 2:49 |
-| 50 | [How Much Light](https://open.spotify.com/track/3QAM7H3PK833IO3fT1kS7Q) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [I Do Not Feel Like Being Good](https://open.spotify.com/album/0h8KSpVRjZMGy3FiNGRvlD) | 3:15 |
+| 49 | [How Much Light](https://open.spotify.com/track/3QAM7H3PK833IO3fT1kS7Q) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [I Do Not Feel Like Being Good](https://open.spotify.com/album/0h8KSpVRjZMGy3FiNGRvlD) | 3:15 |
+| 50 | [Broken Anyway \(Live\)](https://open.spotify.com/track/70dHBmG5GLYvPyZVtIKmpH) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Prisoners \(Live\)](https://open.spotify.com/album/1EoOe8LmjUh7PB4M885Oqx) | 2:49 |
 
-Snapshot ID: `Mjg0NzUyOTEsMDAwMDAwMDAyMGEzZTY1ZGQ2NmUxOGE1MjAwMjcxODliODAyYzEyZA==`
+Snapshot ID: `Mjg0NzcwNzUsMDAwMDAwMDA2Y2U3NjUzOTQ5ODA0ZDUyMmFiNjJlYTI5YjlhMjU2Mg==`

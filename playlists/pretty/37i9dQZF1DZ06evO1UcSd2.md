@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UcSd2.md) - [plain]
 
 > This is Lenin Ramírez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,150 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,153 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UcSd2.md) - [plain]
 | 44 | [El Mentado](https://open.spotify.com/track/2K5oFDtsSM0Wf6rzOmVEMT) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Ariel Camacho Para Siempre](https://open.spotify.com/album/4M57SO3tOI7AhXqUc4ujde) | 2:36 |
 | 45 | [Ay Amigo \(En Vivo\)](https://open.spotify.com/track/3KeK6yOzzaJS9Mi0Bj9hxw) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Diego Herrera](https://open.spotify.com/artist/2Gl3Sy0B1rtWvBURrOf6Gi) | [Yakifest, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/5HzuEx7noOD6D71uw7WoBk) | 2:17 |
 | 46 | [El Blontezon](https://open.spotify.com/track/2YW8EvFnUFF1ff6mIQGv3v) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Del Barrio Hasta Aquí, Vol\. 2](https://open.spotify.com/album/1UtMaTZl4kau9NSFqc8wHp) | 2:43 |
-| 47 | [En La Capi Esta El Respaldo](https://open.spotify.com/track/2ItzTIdBXGbJ5SpCbOXvQq) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Bien Positivo](https://open.spotify.com/album/30BSsKftPkHrOGfso3pvcv) | 3:26 |
+| 47 | [Los Panteras Del 08](https://open.spotify.com/track/1EAfSKTIVlFOLHpbXIq5pt) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Chicho Castro y Sus Alia2](https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC) | [Bien Positivo](https://open.spotify.com/album/30BSsKftPkHrOGfso3pvcv) | 2:51 |
 | 48 | [DEL Rojo](https://open.spotify.com/track/4M4xMmMS8pMrffCzUHz5IG) | [Oscar Cortez](https://open.spotify.com/artist/6sCLeqbuK4nOWjcMRb10Gp), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV), [Los Del Arroyo](https://open.spotify.com/artist/43mTldLHocYpIrVrGuY4e4) | [Gente del Este](https://open.spotify.com/album/671aHdlbJoWJyDhTzIXz0B) | 3:06 |
 | 49 | [Las Hazañas de Mi Vida](https://open.spotify.com/track/7gUcVowWzzVpgemedRbJLI) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Golpe De Guerra](https://open.spotify.com/artist/0QPszxtOMuPoAcAU4yyt2V) | [Con Los Pies en La Tierra](https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r) | 2:47 |
 | 50 | [El Tigre](https://open.spotify.com/track/3vRgtOCXF9pTeVQFjwOf67) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [El Tigre](https://open.spotify.com/album/3qHFfrawqIxQZ4nWLfo41w) | 2:54 |
 
-Snapshot ID: `Mjg0NzUyOTAsMDAwMDAwMDBlZmQ5NDIxNmQzZTEwZmJmNmMzNDk0YmVkNmY3Y2YzMg==`
+Snapshot ID: `Mjg0NzcwNzUsMDAwMDAwMDBmNWQ5NmU1Njk1ZGZhMjMyNmY3YmFkMmIyYzU5NWRlMA==`

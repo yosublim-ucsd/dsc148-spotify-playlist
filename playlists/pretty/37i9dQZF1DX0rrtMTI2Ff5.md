@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rrtMTI2Ff5.md) - [plain]
 
 > Éxitos internacionales que no pasan de moda.<br/>Para novedades, escucha <a href="spotify:playlist:37i9dQZF1DX6aTaZa0K6VA">Pop Up</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,744 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,831 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rrtMTI2Ff5.md) - [plain]
 | 99 | [Sex on Fire](https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Only By The Night](https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp) | 3:23 |
 | 100 | [Cake By The Ocean](https://open.spotify.com/track/76hfruVvmfQbw0eYn1nmeC) | [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [DNCE](https://open.spotify.com/album/3Wv4X8OA65pGpFzBkuUgAh) | 3:39 |
 
-Snapshot ID: `MCw3ZTFlZWQwN2E5MTFmYTVhOGUwNGQ5ZjkzYmZlNmZkZTQ5ZjM4N2Q2`
+Snapshot ID: `MCwxMmE2YzhjMTIxNmJlYWQwZmU2YzIwYjM5MzFhYjcxYTZjYmEwNTM2`

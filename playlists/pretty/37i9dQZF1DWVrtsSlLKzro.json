@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">electronic</a> melancholy < / 3",
-  "num_followers": 626547,
+  "num_followers": 626631,
   "original_name": "Sad Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMGZhNjNmY2IxYjdmMTFkNTY3MDc4ZTZhNjA2YzljNzkyNGRjOTQ1",
+  "snapshot_id": "MCw0MTdjZWJlMWM1YTVjNTg2MDA4NjU5ZWQxZjc5OTE2YmFjZWZhYzcy",
   "tracks": [
     {
       "added_at": "2024-02-09 19:42:59",
@@ -830,6 +830,10 @@
         {
           "name": "BKAYE",
           "url": "https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9"
+        },
+        {
+          "name": "Aria Ohlsson",
+          "url": "https://open.spotify.com/artist/4hFc1FC8qA7XFF1XrTwlsJ"
         }
       ],
       "duration_ms": 153750,

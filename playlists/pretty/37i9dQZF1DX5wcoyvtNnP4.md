@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wcoyvtNnP4.md) - [plain]
 
 > Entspannung pur oder viel los? Hier findest du die passenden Beats für deine Pläne!
 
-[Spotify](https://open.spotify.com/user/spotify) - 492,411 likes - 70 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 492,387 likes - 70 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wcoyvtNnP4.md) - [plain]
 | 69 | [Angel Eyes](https://open.spotify.com/track/5NId2tRxupzFAOPsRDfCxY) | [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Angel Eyes](https://open.spotify.com/album/0vHQE5yaLhJZmGc8lUnxCd) | 2:50 |
 | 70 | [AEIOU](https://open.spotify.com/track/5I8YyKG5iIdOiuTFnX9YVC) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [AEIOU](https://open.spotify.com/album/2F00Hw4CHbhTPMeUllX8Oc) | 3:15 |
 
-Snapshot ID: `MCxiMDkwYTcyNDdlNWYwMzYwYzg0NWIzZGEzNmUwNWEyYmYzNzNkMjcw`
+Snapshot ID: `MCxlZDRjYWNkNTUxY2VkN2IwODJiNDBjYjE0ZDViZTU2Yjg2NWUwM2Mx`

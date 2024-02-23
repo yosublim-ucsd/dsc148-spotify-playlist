@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 
 > Most exciting artists from the Indian Indie scene\. Cover: Hansika Pareek
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,175 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,298 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,14 +12,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 | 2 | [Jadoo](https://open.spotify.com/track/5MQLDkiEagOTLKpfa59a06) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Jadoo](https://open.spotify.com/album/4rgE2Rxo1YshL8GlEJNNL1) | 3:10 |
 | 3 | [Aasmaan Jaley](https://open.spotify.com/track/2dEvh4AAZvD8qwq0VGTAe6) | [Abhay Jodhpurkar](https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5), [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C) | [Aasmaan Jaley](https://open.spotify.com/album/5XydWzMA9SpDyHVi7Z2H6u) | 2:46 |
 | 4 | [Bye](https://open.spotify.com/track/0PGU5mcLncBYE8yuVpSwqA) | [Aditya Bhardwaj](https://open.spotify.com/artist/4LZrB16vINsCHc28cE6oQo) | [Bye](https://open.spotify.com/album/48bWV4aSOwyLBhgmoxQCF8) | 2:54 |
-| 5 | [Arz e Dil](https://open.spotify.com/track/5xm5sFLCrI7uNgk7nHYLpo) | [Nikhil Iyer](https://open.spotify.com/artist/0CqiR40fzUCsCK5Llk6Bek), [Nirmal Roy](https://open.spotify.com/artist/29Nyne5MB3F1sTTPq0TQEs) | [Arz e Dil](https://open.spotify.com/album/3CSAcvKVgNVR3rneunfvt9) | 3:35 |
-| 6 | [Girls Night](https://open.spotify.com/track/5X5FVp16eymvPgpozLX5Vt) | [Dot.](https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4) | [Girls Night](https://open.spotify.com/album/5SQMqplTnx2JC1SgNbdPT4) | 3:17 |
-| 7 | [Tu Aazma](https://open.spotify.com/track/38CMq8hlI8zIzGbENBBG1P) | [Garvit \- Priyansh](https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4), [JUNO](https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj), [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH) | [Tu Aazma](https://open.spotify.com/album/5ME4ICYbKFTTYDqclbINw6) | 3:18 |
-| 8 | [Ye Zindagi](https://open.spotify.com/track/76WGQlitFCuX9m4IsChzsq) | [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Ye Zindagi](https://open.spotify.com/album/1Tib7ORYuc7K9nEMADj6ME) | 2:47 |
-| 9 | [Khoya](https://open.spotify.com/track/1PTX1futeTG5wTrMNPrSRH) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo), [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [Khoya](https://open.spotify.com/album/6iVv6eBhwiX9qBJMkWbNtG) | 3:01 |
-| 10 | [Saajanwa](https://open.spotify.com/track/6NWgIuDeOr1Xeb4MZ1Bl6L) | [Aanchal Tyagi](https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off) | [Saajanwa](https://open.spotify.com/album/66XAPpqu9pt3V1OZhRZBLZ) | 2:42 |
-| 11 | [Mere Ranjhana](https://open.spotify.com/track/04Oswb5okIbIzMyKVBSbMH) | [Garvit \- Priyansh](https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH), [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU) | [Mere Ranjhana](https://open.spotify.com/album/2F8arPSNA94kkSPTyShIoj) | 3:42 |
-| 12 | [Chor](https://open.spotify.com/track/0FCe2NhPWKiSTAipf0lOAT) | [Justh](https://open.spotify.com/artist/6gxRXj2KUJ02vfIgkNUq5b) | [Chor](https://open.spotify.com/album/41cYr6R4rPiKExcTvQTnmR) | 3:28 |
+| 5 | [Chor](https://open.spotify.com/track/0FCe2NhPWKiSTAipf0lOAT) | [Justh](https://open.spotify.com/artist/6gxRXj2KUJ02vfIgkNUq5b) | [Chor](https://open.spotify.com/album/41cYr6R4rPiKExcTvQTnmR) | 3:28 |
+| 6 | [Arz e Dil](https://open.spotify.com/track/5xm5sFLCrI7uNgk7nHYLpo) | [Nikhil Iyer](https://open.spotify.com/artist/0CqiR40fzUCsCK5Llk6Bek), [Nirmal Roy](https://open.spotify.com/artist/29Nyne5MB3F1sTTPq0TQEs) | [Arz e Dil](https://open.spotify.com/album/3CSAcvKVgNVR3rneunfvt9) | 3:35 |
+| 7 | [Girls Night](https://open.spotify.com/track/5X5FVp16eymvPgpozLX5Vt) | [Dot.](https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4) | [Girls Night](https://open.spotify.com/album/5SQMqplTnx2JC1SgNbdPT4) | 3:17 |
+| 8 | [Tu Aazma](https://open.spotify.com/track/38CMq8hlI8zIzGbENBBG1P) | [Garvit \- Priyansh](https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4), [JUNO](https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj), [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH) | [Tu Aazma](https://open.spotify.com/album/5ME4ICYbKFTTYDqclbINw6) | 3:18 |
+| 9 | [Ye Zindagi](https://open.spotify.com/track/76WGQlitFCuX9m4IsChzsq) | [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Ye Zindagi](https://open.spotify.com/album/1Tib7ORYuc7K9nEMADj6ME) | 2:47 |
+| 10 | [Khoya](https://open.spotify.com/track/1PTX1futeTG5wTrMNPrSRH) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo), [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [Khoya](https://open.spotify.com/album/6iVv6eBhwiX9qBJMkWbNtG) | 3:01 |
+| 11 | [Saajanwa](https://open.spotify.com/track/6NWgIuDeOr1Xeb4MZ1Bl6L) | [Aanchal Tyagi](https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off) | [Saajanwa](https://open.spotify.com/album/66XAPpqu9pt3V1OZhRZBLZ) | 2:42 |
+| 12 | [Mere Ranjhana](https://open.spotify.com/track/04Oswb5okIbIzMyKVBSbMH) | [Garvit \- Priyansh](https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH), [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU) | [Mere Ranjhana](https://open.spotify.com/album/2F8arPSNA94kkSPTyShIoj) | 3:42 |
 | 13 | [Heera Ranjha](https://open.spotify.com/track/4X6IOxtvss2IVzLRz0zxeA) | [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI), [Shefali Alvares](https://open.spotify.com/artist/1Jt7JB3WIWaANzwHoybsVn) | [Heera Ranjha](https://open.spotify.com/album/5ib7pTJDafkQ9zAjjhe6Wp) | 2:16 |
 | 14 | [Suljhi Si Zindagi](https://open.spotify.com/track/19z1RfL6uKQwrieVnKWJcM) | [Vasuda Sharma](https://open.spotify.com/artist/2ED6kjY3EyIRkxM2HAbrCL), [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16) | [Suljhi Si Zindagi](https://open.spotify.com/album/5ITehEOWyRmfU2HhmluwAF) | 3:38 |
 | 15 | [Khamakhaa](https://open.spotify.com/track/2xRUa9kABue4LnGZplUtaq) | [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Khamakhaa](https://open.spotify.com/album/45hQlqraN1cORIW26NwPBs) | 2:59 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 | 74 | [Aaina](https://open.spotify.com/track/4qCfgOX1ggMp6D0rGWFUfQ) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Arjit Shrivastava](https://open.spotify.com/artist/7EBfv067H7dViRbeOVQqFv), [Aviral Kumar](https://open.spotify.com/artist/4VWA00yIUYAA3b0jsjdx1z) | [Aaina](https://open.spotify.com/album/6Ujs8343i3KHRv91qvUdAY) | 3:44 |
 | 75 | [Pukaroge](https://open.spotify.com/track/2fLoGliNPrkYu3538MEXAr) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Pukaroge](https://open.spotify.com/album/6oT1IdHJahyT5GLigdFYyq) | 3:57 |
 
-Snapshot ID: `MCw3YTVjMGMzMjVhOWFjOGEzNWU1ZGJkYmQ1ZWZkYjM1NDQ1NWZkNTk1`
+Snapshot ID: `MCw5ZDYyZjU0MjJmYTdjYjRlYzRiYTE3MTlhYjJhYjFkNzU2YTJjMDcz`

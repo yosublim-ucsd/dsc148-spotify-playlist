@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 
 > The ultimate seasonal \(indie\) playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,608 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,578 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 | 74 | [We Should Be Together](https://open.spotify.com/track/3g1IxL6vroDetpftnWWHwZ) | [Rosie Thomas](https://open.spotify.com/artist/5Tw6OSRLoU7IHTO8kHGRQr), [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [We Should Be Together](https://open.spotify.com/album/2Gs5dXDWwUC8MayKa0gYQ2) | 3:31 |
 | 75 | [A Change at Christmas \(Say It Isn't So\)](https://open.spotify.com/track/38pNnyQFOzCpLN9gsKAqGj) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [Ego Tripping at the Gates of Hell](https://open.spotify.com/album/602kxdvR8Ful5nYe57Vxzb) | 5:21 |
 
-Snapshot ID: `MCw0YjI4NWY2ZWU2ZDE1MzRjMDZhYjVjMmY3NmY0MTZmNDFhYzQzNjM2`
+Snapshot ID: `MCw5MGIyMzU1MjhlZTU0NDI5YTMzYzI2OTU1MWRhMzVmODk5M2ZkMzUz`

@@ -4,7 +4,7 @@
 
 > Grind day motivation
 
-427 songs - 20 hr 46 min
+430 songs - 20 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Game Changer \(Dike\)](https://open.spotify.com/track/5GxeZ0u1qDX95nZwV055JS) | [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [Game Changer \(Dike\)](https://open.spotify.com/album/3CauGu6er8mkDoWdotpfJm) | 2:42 | 2022-12-02 | 2023-01-20 |
 | [Geh Monie](https://open.spotify.com/track/7BhDwkOIZ7E9HlmpNQDCUc) | [Lyta](https://open.spotify.com/artist/5Vok15YfAjyyCbUg5YBRGE) | [Geh Monie](https://open.spotify.com/album/1NWf1fGjMxACc8xgi2fqQE) | 2:44 | 2023-03-24 | 2023-03-31 |
 | [Get My Money Right](https://open.spotify.com/track/1ivWkOzOy7pmTYk7coyCvl) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Get My Money Right](https://open.spotify.com/album/0qcfLCEkFZqXz6yOwLPy5Z) | 2:57 | 2022-06-30 | 2022-10-14 |
+| [Ghetto Boy](https://open.spotify.com/track/6CwHDTafcWyYD26W6H8V3Z) | [Lemon Adisa](https://open.spotify.com/artist/12rRvGu4TetZ3pcPLBZQz3) | [YEEBO](https://open.spotify.com/album/2qeaO3fagOUndhz27vNyaF) | 2:31 | 2024-02-23 |  |
 | [GIDIGBA \(FIRM & STRONG\)](https://open.spotify.com/track/3UH3DZZNIuUZ78VE2jDsO7) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [GIDIGBA \(FIRM & STRONG\)](https://open.spotify.com/album/0S6gW0pMAIxyt7yRvw6Qnw) | 2:53 | 2022-09-09 | 2022-10-14 |
 | [Gimme Love](https://open.spotify.com/track/7JWHJ6QRppXwwVpKs2iTYD) | [David Walters](https://open.spotify.com/artist/2ewpXb8jCBlsBscjDCcAG7), [K.O.G](https://open.spotify.com/artist/6n5BdjorrfFAe3OVqHHfUi) | [Gimme Love](https://open.spotify.com/album/1cylbIhsALcS2cPOzCDvSb) | 3:52 | 2023-01-19 | 2023-01-28 |
 | [Go Hard](https://open.spotify.com/track/0MQ5OfIujoBV1D6MmQkTUp) | [Mo'Gunz](https://open.spotify.com/artist/51uO29xURTztKkoKSG1fA7), [IDVH](https://open.spotify.com/artist/2qcqlQCkD2OXhCIKEGQRja) | [Go Hard](https://open.spotify.com/album/0qtfszOOxWhtQlfXR7jESB) | 3:28 | 2022-08-12 | 2022-09-24 |
@@ -225,6 +226,7 @@
 | [Kuacha](https://open.spotify.com/track/2gQ4Z9XBBzDDi1EqhOj0K7) | [Samsney](https://open.spotify.com/artist/1RaVe8wzZ1DnL6fcAf1x2g), [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Kuacha](https://open.spotify.com/album/3ZCBdU2KFy6VmvqAiS3bln) | 3:10 | 2022-06-23 | 2022-07-23 |
 | [Kwaku Ananse \- Remix](https://open.spotify.com/track/12XqD9NVwBiIYoKs6fDi2Y) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew), [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Kwaku Ananse \(Remix\)](https://open.spotify.com/album/264PQN5SiI2VGU4Bas6jSE) | 3:23 | 2023-11-10 | 2023-12-08 |
 | [Kwaku the Traveller](https://open.spotify.com/track/7pXNFEzqeZB8rIbcFtYTop) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Kwaku the Traveller](https://open.spotify.com/album/4ftrG1ro4ObsbNDKkYaZBR) | 3:05 | 2022-03-31 | 2023-11-17 |
+| [Kwechiri](https://open.spotify.com/track/5bESpRe1X0g6j5MdrLUhIf) | [Dj Rhyzo](https://open.spotify.com/artist/2sEWT2zCbqV7aCvijfyr14) | [Kwechiri](https://open.spotify.com/album/6yk12r5uBg6MG92REoFBA5) | 2:25 | 2024-02-23 |  |
 | [L'Eko](https://open.spotify.com/track/58fWPJ1REJ13XULjMhTZI9) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [Trench to Triumph](https://open.spotify.com/album/60dzSRKqWPNVTunBR1aHal) | 2:20 | 2023-07-20 | 2023-08-04 |
 | [Lagos](https://open.spotify.com/track/4qhQij4PxJJ6N5IsLm6Xd3) | [Julysingsong](https://open.spotify.com/artist/0q0r6CIPBKY38aV7CdFz8w) | [Lagos](https://open.spotify.com/album/3sT1qq0ZkO6vdYIkAAs55Y) | 3:16 | 2022-07-14 | 2022-07-23 |
 | [Lagos 101](https://open.spotify.com/track/7b0dJi7JyafNH4ueg479Qw) | [Bella Alubo](https://open.spotify.com/artist/4QorJVeBcR8p3rOveZtpSk), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Lagos 101](https://open.spotify.com/album/6cHp1TJC51U5R6EAhDnaKw) | 2:31 | 2023-08-17 | 2023-09-22 |
@@ -386,6 +388,7 @@
 | [Testimony](https://open.spotify.com/track/7DBsF4GY4DHAIesHAXGGiE) | [Leczy](https://open.spotify.com/artist/58mxed076t8Hn7mAdxtLzT), [Peeray](https://open.spotify.com/artist/0jhGRljC573bV86q5a16oF), [C bryan](https://open.spotify.com/artist/24sdkHclQeYElyb9d2onhx) | [THE GENESIS](https://open.spotify.com/album/17yWmoY733ymMQm4zhmicN) | 3:18 | 2023-11-17 | 2023-11-28 |
 | [THANKFUL](https://open.spotify.com/track/2ZM4LqUOY7N4CTwzZ5I8Do) | [Will TOA](https://open.spotify.com/artist/69xjIFoFKUn23lDQAYoDqM) | [AFRO SOUL](https://open.spotify.com/album/5mMO0ADJFRnhlmPVjuPZHx) | 2:46 | 2022-11-18 | 2022-12-03 |
 | [The Best \(feat\. Mayorkun\)](https://open.spotify.com/track/0b4OhI29MieZpxusw0HGEJ) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [A Better Time](https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD) | 2:51 | 2021-07-05 | 2024-01-19 |
+| [The Life I Chose](https://open.spotify.com/track/48kCxQOtSAeyB3YucB8Ccs) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [The Life I Chose](https://open.spotify.com/album/7swEKu1GceYFZl5ZMPtCDS) | 2:24 | 2024-02-23 |  |
 | [Time](https://open.spotify.com/track/5KwDovDFkhSaBuRlcVke0x) | [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Time](https://open.spotify.com/album/5cJW97FT5Uo34WKxkkuOJk) | 2:45 | 2022-11-04 | 2022-11-19 |
 | [Time No Dey](https://open.spotify.com/track/49I4qCmzTtk4Wp0DH5pEDC) | [May D](https://open.spotify.com/artist/7ahfCquNK3ReYc2UHhugs5), [Rudeboy](https://open.spotify.com/artist/583D4MicNImtI9URI0fIFT) | [Time No Dey](https://open.spotify.com/album/2IaU9spZ5AhbFCnyQXQxKo) | 3:10 | 2023-12-15 | 2024-01-05 |
 | [Timoti](https://open.spotify.com/track/1HG9yS1bhOSsrUoHdUEnbW) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Playboy](https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ) | 2:19 | 2022-08-05 | 2023-04-28 |

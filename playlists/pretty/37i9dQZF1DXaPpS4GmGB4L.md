@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPpS4GmGB4L.md) - [plain]
 
 > Grab your dancing shoes and strut your stuff with these upbeat blues numbers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,642 likes - 150 songs - 8 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,671 likes - 150 songs - 8 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPpS4GmGB4L.md) - [plain]
 | 149 | [Syracuse Boots](https://open.spotify.com/track/60wLkHNSDcXE3iCtNxmWmr) | [Greyhounds](https://open.spotify.com/artist/1FcTd89N9ESEOsIDD883Kp), [T Bird and the Breaks](https://open.spotify.com/artist/7BfKzWvOnw7aAUU4NLLRD0) | [Greybird](https://open.spotify.com/album/25NxKFjwbaZclwi4WizmrD) | 3:46 |
 | 150 | [Short Dressed Woman](https://open.spotify.com/track/65GenukKzAktEWBMDRhxkD) | [Mud Morganfield](https://open.spotify.com/artist/1MkszvLJgUVCskrRqCLbmn) | [Portrait](https://open.spotify.com/album/1UiKbtoGljMrS1yxGbeVhV) | 3:30 |
 
-Snapshot ID: `MCxjMjk3Y2ZjMGFlMjVhOTUzODI0MTNmM2UwMWQ5MGQyZGI1YzgwZjI0`
+Snapshot ID: `MCxmNjM3MGM4NDI1MTNjM2NkYzYyY2Y1YzkxNDc5MTM3MDY3YTY2ZTA1`

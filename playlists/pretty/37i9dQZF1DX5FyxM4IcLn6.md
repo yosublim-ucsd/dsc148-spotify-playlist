@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 
 > The official playlist for the 64th GRAMMY Awards.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,558 likes - 143 songs - 9 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,598 likes - 143 songs - 9 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -152,4 +152,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 | 142 | [Vulnerable](https://open.spotify.com/track/3A1sYYDisSoPuXZe1ss3in) | [Adam Blackstone](https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs), [The Baylor Project](https://open.spotify.com/artist/3sNeruDf1WltSjJ7Jtmucp) | [Legacy](https://open.spotify.com/album/3nHbEmj9rc6mvJSAm1RXDm) | 6:21 |
 | 143 | [Abundance in Millets](https://open.spotify.com/track/1GgKK2siV6qwZ6dyifH8lY) | [PM Narendra Modi](https://open.spotify.com/artist/1CIor6lMp9tPfy6kWA3H0y), [Falu](https://open.spotify.com/artist/3jk7OJ4HfTtHvmwh0DkAl1), [Gaurav Shah](https://open.spotify.com/artist/4HCC1SB5JtN8BnLTVFfHpG) | [Abundance in Millets](https://open.spotify.com/album/64Q543xillJ1neC5efMMmf) | 4:31 |
 
-Snapshot ID: `MCw4ZjJiYmYzNzJiOWVlNmE3MDkxZWYxMDk5OTgwY2FhYTZmMGUxNzY0`
+Snapshot ID: `MCwyNmM2ZjRmODQ1ODkxNmZiZjc2ZDE2NDg0YjE1YzNmNTZkOTBkODFh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK & Ireland\. Cover: Chloe Slater\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,029 likes - 80 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,041 likes - 80 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 79 | [Live It Up](https://open.spotify.com/track/7wMaj44M4ZCHBJeJ4KEzYs) | [Danny Sanchez](https://open.spotify.com/artist/73Urm8TgtoYR7Iavs8UTRL) | [Live It Up](https://open.spotify.com/album/7AcjMPsbRbGlSFJYhrydPj) | 2:22 |
 | 80 | [closer](https://open.spotify.com/track/7Jw0gxgX2PD8Vc8tkNz1sk) | [pecq](https://open.spotify.com/artist/7dtoq4U0UlyvMomL00qPDf) | [closer](https://open.spotify.com/album/2e12I4bXlv7aNGTBkXzCH9) | 3:07 |
 
-Snapshot ID: `MCxkNmY3N2U5MzA2MzBlNzcwOTMxZWY3MTVjYWQ2NDc1N2ZiODlhNjUz`
+Snapshot ID: `MCxhY2VhOGRhOWE3YTdjZWE0ZjczOTBjYWMyZWI4ZjkzZTc5YzBjMTNl`

@@ -4,7 +4,7 @@
 
 > The best soundtrack to relax and stretch your body before or after training!
 
-136 songs - 7 hr 15 min
+138 songs - 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [New Rules](https://open.spotify.com/track/2xugNZzWFJVQB54PS5XnG2) | [Becca Adams](https://open.spotify.com/artist/40ip5fLaAm6psgM7bUiSGb) | [New Rules](https://open.spotify.com/album/6jBrihWQmJCl81kuNQS3pE) | 3:47 | 2023-01-13 |  |
 | [Nobody Gets Me](https://open.spotify.com/track/2eWYem39jbaXKQ38BCtQDV) | [Demi Femme](https://open.spotify.com/artist/2d09AaNvj1TRW0GociCEDY) | [Nobody Gets Me](https://open.spotify.com/album/19EdbTQdsbueDPCF4Xod6Q) | 2:38 | 2024-01-12 |  |
 | [Ocean Eyes](https://open.spotify.com/track/1xzOCZA9ZR2bK0aq5mJj8N) | [Jameson David](https://open.spotify.com/artist/66pRpCCxdVALakZpifVDwq) | [Ocean Eyes](https://open.spotify.com/album/4wbKBzvjGYMMlJIdzBW7Wb) | 2:58 | 2023-01-13 | 2023-09-08 |
+| [Only Girl In The World](https://open.spotify.com/track/0KOLKV454e5cN98pyHGMjL) | [Norah Davis](https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G) | [Only Girl In The World](https://open.spotify.com/album/3AjamrNkp98f9m0QEDXCDG) | 3:46 | 2024-02-23 |  |
 | [Only Wanna Be With You](https://open.spotify.com/track/6fsm1K4sCxPSp1YqQWKAQe) | [Nicole Morenno](https://open.spotify.com/artist/20qzlrLcHxylJGZUCH0M9T) | [Only Wanna Be With You](https://open.spotify.com/album/3vqYbaz02htSWXaRqNWvBQ) | 2:52 | 2023-01-13 | 2023-10-27 |
 | [Paradise \- Acoustic](https://open.spotify.com/track/1uKavGXL05NzhPHSOUIg91) | [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Paradise \(Acoustic\)](https://open.spotify.com/album/1Ad968gPukAt86YXpyEWIy) | 2:33 | 2023-01-13 |  |
 | [Pillowtalk](https://open.spotify.com/track/4bIHIz5ywe7IsmRTWygU02) | [Simon Sage](https://open.spotify.com/artist/1C2Plo9IW9Caj5uZnwLrIz) | [Pillowtalk](https://open.spotify.com/album/5Q4v3WlXy542KhJUVIs9oz) | 2:33 | 2023-01-13 |  |
@@ -141,6 +142,7 @@
 | [With or Without You](https://open.spotify.com/track/1iQ1BpOGF1Umd3lpTV4OPO) | [Roses & Frey](https://open.spotify.com/artist/2FyfsZmatt8gWR3LKnQIwE) | [With or Without You](https://open.spotify.com/album/5sz0mBDcUAj1TAqlHEfZQ0) | 2:46 | 2023-01-13 |  |
 | [Without Me](https://open.spotify.com/track/7zsC3MRs9FgcloMoctORr9) | [Postcards & Polaroids](https://open.spotify.com/artist/5ccCHLpAxCdSMFHeeLUPrw) | [Without Me](https://open.spotify.com/album/46TA2IQDWrJWKRrcGYgMim) | 2:10 | 2023-01-13 |  |
 | [You Get What You Give](https://open.spotify.com/track/7BoCnys48XsoCiJwE6g491) | [Jenny Thorn](https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9) | [You Get What You Give](https://open.spotify.com/album/7eAjW0akqpFZc14QeBj4Gd) | 2:53 | 2023-01-13 |  |
+| [You Raise Me Up](https://open.spotify.com/track/4mGiTmzkCS8Y1EFnQT4010) | [Shelby Park](https://open.spotify.com/artist/5k2EXCexl2KBdpfyyNEpet) | [You Raise Me Up](https://open.spotify.com/album/6lsClakGKncbzUfvydr0vd) | 2:20 | 2024-02-23 |  |
 | [You're Losing Me](https://open.spotify.com/track/5ScpcdugUeOQTbVxYCBiuy) | [Kody Ternes](https://open.spotify.com/artist/3kcZRvJW10HzHleumOMgTc) | [You're Losing Me](https://open.spotify.com/album/4jFe1w3b0ovGoiXjJ3lL7i) | 3:20 | 2024-02-02 |  |
 | [You're Still the One](https://open.spotify.com/track/5wmH8ZJa8UD5rOqOA1kTzl) | [Mathew V](https://open.spotify.com/artist/5XG2NyvMVgff8ZAeKWX8yS) | [You're Still the One](https://open.spotify.com/album/7rPmbqM4rV7TSsAiOOQkaE) | 3:16 | 2023-01-13 |  |
 | [Your Song \- Acoustic](https://open.spotify.com/track/19TkHF0HPSjDtCIFJzE6qF) | [Halloran & Kate](https://open.spotify.com/artist/26GKAYYuyr424SdSkr8xlQ), [Q.Z.B](https://open.spotify.com/artist/0mvjBc6RdiCT1ME14CbECz) | [Your Song \(Acoustic\)](https://open.spotify.com/album/3BfAAuW2nmVgQi1MOb85h3) | 3:20 | 2023-01-13 |  |

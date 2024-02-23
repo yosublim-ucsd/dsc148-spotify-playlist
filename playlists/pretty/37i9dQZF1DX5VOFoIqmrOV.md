@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 
 > The finest set of Telugu music from the past 10 years\. <br/>Cover : Hi Nanna
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,776 likes - 75 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,936 likes - 75 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 | 74 | [Nee Kannu Neeli Samudram](https://open.spotify.com/track/4kEWOqFxFAihLq2dtQPwCI) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7) | [Uppena](https://open.spotify.com/album/4ug7KdJJ2CVG5fANdZbzHM) | 5:12 |
 | 75 | [Andamaina Lokam](https://open.spotify.com/track/2333RV2lqw4JGTd2TSgIQ5) | [Sagar, Haripriya](https://open.spotify.com/artist/0HIYtXGgCe7j2yWwnCvILY) | [Shivam](https://open.spotify.com/album/3CQ3r8XcSelGurOV4lNWc7) | 3:59 |
 
-Snapshot ID: `MCw4OTIxZDBkNjM4N2QwNzIwYmI3NzU0MmFmNTg1YjAwMGVhNjZhNDZh`
+Snapshot ID: `MCw5MjM3ZjlkZDI0N2FkM2YxOGUwY2VhN2NjZWY2OTVjZjBlODE1Mjdm`

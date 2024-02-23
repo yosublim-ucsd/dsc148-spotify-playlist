@@ -4,7 +4,7 @@
 
 > Instrumental beats to chill to.
 
-708 songs - 1 day 3 hr 42 min
+715 songs - 1 day 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [bublee](https://open.spotify.com/track/68PhAtE0qKcoi2ZeQsfXsH) | [soulful beats](https://open.spotify.com/artist/0x6QoENXYTjAkBQzijkHvk) | [bublee](https://open.spotify.com/album/6xr1sPMwIVBzjP1rTbfHjN) | 2:34 | 2023-07-19 |  |
 | [Building Castles](https://open.spotify.com/track/6XRtSSqhBLX8ooT50BvgWM) | [ENRA](https://open.spotify.com/artist/1jDbZQQs4VNtiC4AerpIg4), [Some Place Else](https://open.spotify.com/artist/1SC2zBKG1R2xvtxpCO7W11) | [Building Castles](https://open.spotify.com/album/6FRrNn04Rtn2YScAU8D0mw) | 2:26 | 2023-01-13 | 2023-09-16 |
 | [bulb](https://open.spotify.com/track/5Atzb2RbMN2l8YKUElBiyM) | [niff\_](https://open.spotify.com/artist/2vpm14X9dM28wOrLAOUlto) | [bulb](https://open.spotify.com/album/6oBfJtYLWBE3f3fY8dK7Pl) | 2:05 | 2023-01-13 |  |
+| [burgundy](https://open.spotify.com/track/6S1YJasKYbX3sR8J5jltjY) | [Zatsuma](https://open.spotify.com/artist/5JqlGSeCW5ifXQriLDHTwe) | [burgundy](https://open.spotify.com/album/6NZoyh9sgrsnBezKv0rF5J) | 2:31 | 2024-02-23 |  |
 | [Buttersweet](https://open.spotify.com/track/1d5pAGQRJ9ROCOuxK52uED) | [Moox](https://open.spotify.com/artist/0ujZnGAenOcihPvgnnY2qq) | [Buttersweet](https://open.spotify.com/album/6GuzaGSiWBXbyRcOMAgsBJ) | 2:57 | 2023-09-08 |  |
 | [button press](https://open.spotify.com/track/1W5oSgHcgFqLZkUGSb5mgi) | [QUARTEER](https://open.spotify.com/artist/3Al6VUDbDL5JSWXLebLDYX) | [button press](https://open.spotify.com/album/0gzqGvz8CA2SIhVaErYEyk) | 2:05 | 2023-01-13 | 2023-10-20 |
 | [by the book](https://open.spotify.com/track/2HO4rPSFnE2FCggOcZUDtq) | [slowerful](https://open.spotify.com/artist/6dDjZKFRB1MhmnxZiKegdq) | [by the book](https://open.spotify.com/album/6lYaUUZThMYNybUokR9IAJ) | 2:33 | 2023-01-13 |  |
@@ -104,6 +105,7 @@
 | [charm me](https://open.spotify.com/track/6wnYzqq1yJIPLjO2JcXxup) | [flax flame](https://open.spotify.com/artist/2UZjBwBEki9gEeOYinkKMs) | [charm me](https://open.spotify.com/album/2Z13blqHM97m9zeBjxjfxz) | 2:31 | 2023-01-13 | 2023-07-20 |
 | [Cheese cake express](https://open.spotify.com/track/4lYciP0rbVDIwXaqIYZTUk) | [RainDear](https://open.spotify.com/artist/0cPgIB1XyF4E0wZbDUqQ33) | [Cheese cake express](https://open.spotify.com/album/5j3BiFxAlTUJqrwDbsdZ1N) | 2:01 | 2023-01-13 |  |
 | [Cherry](https://open.spotify.com/track/1iLPXYTRKLtax4VzRdacYc) | [Saltyyyy V](https://open.spotify.com/artist/4EDHI70lFl3T53KI0uEqUG) | [Cherry](https://open.spotify.com/album/62bhvA7tO1UjPhiohaC5AQ) | 1:50 | 2023-01-13 | 2023-09-22 |
+| [Chess Flow](https://open.spotify.com/track/3HtEAL9JC5o1aaS0drr4fk) | [Slowmo Friends](https://open.spotify.com/artist/1GPDa2aInN4QlYRrD6qnLH) | [Chess Flow](https://open.spotify.com/album/0EsTiQtGZxSovqo6Y5EhP2) | 2:20 | 2024-02-23 |  |
 | [Cinema Breeze](https://open.spotify.com/track/2M3QHocFbQqwc6HyP5iRGK) | [Flat Ruy](https://open.spotify.com/artist/2nNNlvce8hkNy7Qc8marke) | [Cinema Breeze](https://open.spotify.com/album/2LRmPgyX8SUWppYRs3Uzxr) | 2:26 | 2023-01-13 | 2023-09-29 |
 | [Circle of Ours](https://open.spotify.com/track/57sd7qRHflTjWvcbTL9NnW) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs) | [Circle Of Ours](https://open.spotify.com/album/6DEf9pLBRcDGDCMBrcrTyh) | 2:17 | 2023-01-13 |  |
 | [city lights](https://open.spotify.com/track/5wbf6h3eYS2tiR0fCDDva5) | [Embassay](https://open.spotify.com/artist/7inQZsZhHZBxBN9CGZ3YXt) | [city lights](https://open.spotify.com/album/4oPlp5R6PaB7udvrdfalKP) | 2:20 | 2023-01-13 |  |
@@ -184,6 +186,7 @@
 | [Dusk's Delight](https://open.spotify.com/track/6GpE61U0CCL7k01WyF3DiN) | [Wezley Wiz](https://open.spotify.com/artist/6oGyihO2387JNURS8U5Olg) | [Dusk's Delight](https://open.spotify.com/album/3da8NaCjNEuTJiVOUlDR3O) | 2:00 | 2023-09-22 |  |
 | [early one day](https://open.spotify.com/track/7vtAeEq9ICIBVjkFGpXeqN) | [Harry G's Beats](https://open.spotify.com/artist/59fTGxMpUBkID2RojOnA8V) | [early one day](https://open.spotify.com/album/0XAznNmMD2hT3rgM7Tf1y2) | 2:06 | 2023-12-22 |  |
 | [eat eat eat](https://open.spotify.com/track/56o0OhNBhXDml3Ex9xdo42) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [eat eat eat](https://open.spotify.com/album/7LvxY4swqaVWV8iN4XyyDp) | 1:38 | 2023-01-13 |  |
+| [Echovision](https://open.spotify.com/track/1kPlZE0QL6gzMkykmEz0Zv) | [FreakBeats](https://open.spotify.com/artist/0pyekPSB9eriDdKgK71n2V) | [Echovision](https://open.spotify.com/album/2bfn7CAh6ULbmpDOOazf3W) | 2:19 | 2024-02-23 |  |
 | [Eclipse](https://open.spotify.com/track/5H1tKPVBdaVyt9dkmBlSDV) | [Lenny Loops](https://open.spotify.com/artist/6MvnyPinXRQbUCMsPoymhR), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [Eclipse](https://open.spotify.com/album/4Clb3sOSCzx7LvSmm52jeB) | 2:27 | 2023-01-13 |  |
 | [Eggin](https://open.spotify.com/track/3X1ESRtZOrGiB5r3gobKZA) | [Masuyu](https://open.spotify.com/artist/6m6GTttiO1qLImlyNeXoz0) | [Eggin](https://open.spotify.com/album/7yHrYH37amcjPBuu2NxHwN) | 1:58 | 2023-01-13 |  |
 | [Egusi](https://open.spotify.com/track/5pLhfDZJuX0FLbpAuzJfno) | [lowclowds](https://open.spotify.com/artist/25oJa6BWwoxxrNa299VMh1) | [Egusi](https://open.spotify.com/album/1Jib1kpAPTS4Su0AH9qzg2) | 3:45 | 2023-01-13 |  |
@@ -481,8 +484,10 @@
 | [Quiet Corner](https://open.spotify.com/track/697BOJNWcOWTMv8fPkrabW) | [joorla](https://open.spotify.com/artist/6Dfu0b3T2H62yDNsMwfj2q) | [Quiet Corner](https://open.spotify.com/album/29GiHtsG2oENz8dEKsmiyt) | 2:10 | 2023-12-22 |  |
 | [Rainbow Guava](https://open.spotify.com/track/1scv1M7a8HPLhHoacyhlb8) | [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN), [okwow](https://open.spotify.com/artist/1Gx2S5p5nWuMKhPq3k2kCq) | [Rainbow Guava](https://open.spotify.com/album/1A2LsWvOO9hsjr7gBnuNZg) | 1:58 | 2023-07-19 | 2023-09-29 |
 | [Raincoat](https://open.spotify.com/track/5T41z0Wg9mPbPGXvquzaiK) | [Ensidya](https://open.spotify.com/artist/2lenoWzSFNMSFJU05uqIrj) | [Raincoat](https://open.spotify.com/album/4M2OJAbq1PJLe732DTkxv3) | 2:04 | 2023-01-13 | 2023-10-20 |
+| [Raindrop City](https://open.spotify.com/track/2QoJN8vhVHL47q0MvXaVl0) | [Analog Bow](https://open.spotify.com/artist/7kQ9kQ588r6INRWFlU1k1T) | [Raindrop City](https://open.spotify.com/album/2dvLcQvZyheV6DQ4CDbo5k) | 2:36 | 2024-02-23 |  |
 | [Raindrops](https://open.spotify.com/track/0YOAGIXidZMIIlul2TTpUw) | [Loxbeats](https://open.spotify.com/artist/2yTDt06lsG7dGqJuCbR88I), [Neoplasma](https://open.spotify.com/artist/1UUfEEstgd64AnExToS403) | [Raindrops](https://open.spotify.com/album/7kYGSSFywyzsc4c1dZgIOS) | 2:34 | 2023-01-13 | 2023-09-29 |
 | [Rainy Days](https://open.spotify.com/track/1vQu2jxZ6Blc1nisozbPyl) | [thebombaypanic](https://open.spotify.com/artist/6EjKzk1a3EbiXT2TwPYGVo) | [Rainy Days](https://open.spotify.com/album/15B6spW7ItmHLtUq20jv5p) | 2:00 | 2023-01-13 | 2023-09-22 |
+| [reaching](https://open.spotify.com/track/2HbDUPOSjGfxSEnSqM42P2) | [BTZ cult](https://open.spotify.com/artist/5tiJzztsDP2iMsotmtModp) | [reaching](https://open.spotify.com/album/59KiuYzZGNv0AAkoHl5rLe) | 2:07 | 2024-02-23 |  |
 | [Real Careful](https://open.spotify.com/track/6fYXVvxC9nqgHaOKog1UDD) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [Myríad](https://open.spotify.com/artist/5TGFw78FIV0hLV90O8A7an) | [Real Careful](https://open.spotify.com/album/4S66X358g9lP7cHLhRwpve) | 2:18 | 2023-09-04 | 2023-11-17 |
 | [Recordar](https://open.spotify.com/track/36ismlZjS82Hnlu0sDxRA3) | [Senoidal](https://open.spotify.com/artist/6r9s2iVXnrwENfSRUUtxpa) | [Recordar](https://open.spotify.com/album/175n68FKT3phBamXATIpuX) | 1:54 | 2023-01-13 |  |
 | [Recycle](https://open.spotify.com/track/12IiT0rZC12d6KxwfzdoDL) | [Rooftop Shenanigans](https://open.spotify.com/artist/6vbJBmz0ItqFtpo6OhNIl8) | [Recycle](https://open.spotify.com/album/7briPpRhxJQOGe3JGBzU2H) | 2:03 | 2023-01-20 |  |
@@ -531,6 +536,7 @@
 | [Shapes](https://open.spotify.com/track/21MsNjTGZ0b2tbVa0m7nNi) | [Floating Anarchy](https://open.spotify.com/artist/1NZghQLpDZ1eIeOl0Esd7d), [Kairoh](https://open.spotify.com/artist/1Frlf4JDGlf6OrwQvSR7I2) | [Shapes](https://open.spotify.com/album/1YLn7DOkqIlDBbszOhPgA3) | 2:20 | 2023-04-11 |  |
 | [shelter](https://open.spotify.com/track/2RyZjcwgW7X3eMm38hZ0zo) | [Kolorama](https://open.spotify.com/artist/7KYVAGDhdO4DJ4qyeTWpcC) | [shelter](https://open.spotify.com/album/2luq40AQDoOiR5hkbogFIc) | 2:05 | 2023-09-08 |  |
 | [shifting](https://open.spotify.com/track/4RBH0Bm2Sd9iePcIkCFu7D) | [n o r m a l](https://open.spotify.com/artist/299YwUx9tIS10VkkAujnMt) | [shifting](https://open.spotify.com/album/3CpXfzkNuboRdCctyRsjKo) | 2:11 | 2023-07-19 | 2023-09-29 |
+| [Shine Again](https://open.spotify.com/track/7kqy1v6tydmrfwrnJLMuaa) | [Low Lions](https://open.spotify.com/artist/2mUm5cFEahwt8CtctiwIor) | [Shine Again](https://open.spotify.com/album/5pOhVfE6GwH6HwnTU8WZTs) | 2:26 | 2024-02-23 |  |
 | [shoe polish](https://open.spotify.com/track/4x66yQYbtaw7Gh7zh8mL2q) | [Redmoo](https://open.spotify.com/artist/59tLQ8AXKT9z2gziMX8HWu) | [shoe polish](https://open.spotify.com/album/4ewlF631QtLWD250zgUWrg) | 2:08 | 2023-01-13 |  |
 | [Shoreditch](https://open.spotify.com/track/0CQq9NEFcGNi3FMxpMKwj4) | [Clint Is Quinn](https://open.spotify.com/artist/1utD3S9jRGZPWdNeLuoaOx) | [Shoreditch](https://open.spotify.com/album/0swV7ZNwhh78Q6bqHVKJRc) | 2:33 | 2023-01-13 |  |
 | [Sidewalk Pizza](https://open.spotify.com/track/25SJ2Yobd7M7JRCpOe5UNv) | [Rooftop Shenanigans](https://open.spotify.com/artist/6vbJBmz0ItqFtpo6OhNIl8) | [Sidewalk Pizza](https://open.spotify.com/album/5WVxXW5VjWK1StHUCDD1rl) | 2:29 | 2023-01-13 |  |
@@ -598,6 +604,7 @@
 | [supajam](https://open.spotify.com/track/0EJPiTVZZJ4LIrfQcQpDlI) | [Camden Clown](https://open.spotify.com/artist/56yn1U5TaMjH6ENhDdlWfM) | [supajam](https://open.spotify.com/album/2qoWl3DKNFoKvMQSv79tl0) | 2:00 | 2023-12-08 |  |
 | [Supercolor](https://open.spotify.com/track/2LzPtYMEj4S44yoBVU7ccu) | [Gold School](https://open.spotify.com/artist/0ARPS52ahhI1jndIYVtsnH) | [Supercolor](https://open.spotify.com/album/1d54tv1raeAGShTBVKmxNu) | 1:48 | 2023-01-13 |  |
 | [Surf Tiger](https://open.spotify.com/track/0jwpEqWMwo5fR1XQXic4lg) | [ohlos](https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC) | [Surf Tiger](https://open.spotify.com/album/4jTtUszaxX0G32HP7nG2SE) | 3:02 | 2023-10-20 |  |
+| [Surroundings](https://open.spotify.com/track/5YmU5VNKazzBih5dXGIhBf) | [Beats Me, Innit?](https://open.spotify.com/artist/5szil3lhFSrW575RVEyPle) | [Surroundings](https://open.spotify.com/album/2IPez7qLA9jrHocjh7qckN) | 2:38 | 2024-02-23 |  |
 | [Sushi Brain](https://open.spotify.com/track/6qsaBLpqxkxCkS2pUYDslr) | [Ramsey Road](https://open.spotify.com/artist/6GdTXXdGQ99ZVTnTPkSwLm) | [Sushi Brain](https://open.spotify.com/album/3zwdMxlU8Ups7n2ZyJwL9B) | 2:14 | 2023-10-13 |  |
 | [Sweet Hugs](https://open.spotify.com/track/5VWJ8g4KW5gUovq9JcJQQS) | [Sora](https://open.spotify.com/artist/00JdEIGleCDoyrrKiFu8Vk), [alhivi](https://open.spotify.com/artist/7ulf45VD9Q3ZazcIG3v79P) | [Sweet Hugs](https://open.spotify.com/album/4LYGfW7qycf3sQFPQRBjdm) | 2:06 | 2023-01-13 | 2023-09-16 |
 | [Synchronicity](https://open.spotify.com/track/6cxcooVFJM3iwRR5ZGR5AP) | [Rebecca Mardal](https://open.spotify.com/artist/56PuDgywHPrbEFyujgPc9V) | [Synchronicity](https://open.spotify.com/album/4FJPiRM0vWHfPUDvXiNOuD) | 3:17 | 2023-01-13 | 2023-09-29 |

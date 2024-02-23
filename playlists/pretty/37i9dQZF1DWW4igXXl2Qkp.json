@@ -1,13 +1,33 @@
 {
   "description": "The best new hip-hop music by independent artists and labels. Cover: Cash Cobain\n",
-  "num_followers": 233026,
+  "num_followers": 233110,
   "original_name": "Fresh Finds Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzODQ4NmJiNjY0YzFlODM1YWM2YTc2YmE1YjJjMDQzZjlhOTI3NDM1",
+  "snapshot_id": "MCxjMjJjODdhOWYzZTg4ZGE3OGRmNjVkNWUxZDVjNGZiZGNiOTQwNDBj",
   "tracks": [
+    {
+      "added_at": "2024-02-21 21:14:48",
+      "album": {
+        "name": "Slideshow",
+        "url": "https://open.spotify.com/album/6OL2rc5XTgw2yPcT91vdz3"
+      },
+      "artists": [
+        {
+          "name": "Levi Bloom",
+          "url": "https://open.spotify.com/artist/4ruYOMH6odMGzBr19loIMg"
+        },
+        {
+          "name": "408 Darwin",
+          "url": "https://open.spotify.com/artist/7GmjP8u0uwwAwBt3e3tmdS"
+        }
+      ],
+      "duration_ms": 163561,
+      "name": "Slideshow",
+      "url": "https://open.spotify.com/track/5RZAEcZ8G4fLkR11MbB8P0"
+    },
     {
       "added_at": "2024-02-21 17:00:00",
       "album": {

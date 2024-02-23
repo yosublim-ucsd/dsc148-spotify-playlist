@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5SzTPIoCKiv.md) - [plain]
 
 > Recent smashes from your favorite Christian Contemporary artists\.  Cover: Mac Powell
 
-[Spotify](https://open.spotify.com/user/spotify) - 605,684 likes - 100 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 605,782 likes - 100 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5SzTPIoCKiv.md) - [plain]
 | 99 | [It's Always Been You](https://open.spotify.com/track/5Tc2hNyood20vuKm89NeCf) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Hymn Of Heaven](https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep) | 4:01 |
 | 100 | [Promised Land](https://open.spotify.com/track/2VXNUklng1AswoKNgjiKJy) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Promised Land](https://open.spotify.com/album/1oSlXZXXKv4yHkaLDvgFij) | 3:29 |
 
-Snapshot ID: `MCxjNTZiNTMwNWE4N2I4MjYwMTc4YmJmYjg3NDZkNDVkZjUyYzQ4ZjZj`
+Snapshot ID: `MCwyOGM1ZmJhZDEzN2VlODNjZjEzYjJkNjRlYjY5OGE1NmFiZmUwNWJi`

@@ -4,7 +4,7 @@
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one!
 
-305 songs - 1 day 8 hr 50 min
+306 songs - 1 day 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Broken \(Live\)](https://open.spotify.com/track/5iISN230UakPWUWgZSPkVH) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Broken \(Live\)](https://open.spotify.com/album/2KEY3q6BpkOtm8Aa3r5w5T) | 9:31 | 2024-01-19 | 2024-02-09 |
 | [Calvary](https://open.spotify.com/track/6VZNytD5nlpuLRV2btnA0w) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe), [Jo Deep](https://open.spotify.com/artist/6JmdRYb0w7KXprNnxUOj8o) | [Revival Is In The Air \(RIITA\)](https://open.spotify.com/album/0orflQml5JM4Qj6C1OttFB) | 4:32 | 2022-06-09 | 2023-06-01 |
 | [Carry me like Baby](https://open.spotify.com/track/2g5uy0nM9DW0JJJLefJFgJ) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Blessed](https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk) | 3:12 | 2023-12-01 |  |
-| [Come](https://open.spotify.com/track/0sqdvdLBjsP1T28PnNVkTb) | [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [Come](https://open.spotify.com/album/7zoGeEprSXQEAIrHxuMuJo) | 2:44 | 2023-09-01 |  |
+| [Come](https://open.spotify.com/track/0sqdvdLBjsP1T28PnNVkTb) | [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [Come](https://open.spotify.com/album/7zoGeEprSXQEAIrHxuMuJo) | 2:44 | 2023-09-01 | 2024-02-23 |
 | [Come & See](https://open.spotify.com/track/3Mvw1n1cbjNvyH4QRvaj09) | [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT) | [Come & See](https://open.spotify.com/album/2jt2SWpIkCZ8ECPo2Y9f6k) | 7:27 | 2022-10-14 | 2022-11-05 |
 | [Commando](https://open.spotify.com/track/72cRQRzXJLUM3Rbf1vyxtz) | [Ko'rale](https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Commando](https://open.spotify.com/album/20pJmzUPNbycWcja0hdpmr) | 3:31 | 2023-12-05 | 2023-12-11 |
 | [Commando](https://open.spotify.com/track/7xXuJDOPMq2oIWryexZQ5A) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Oyije](https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Commando](https://open.spotify.com/album/2pyYdLMR85a4xogAD5ikcn) | 2:33 | 2023-08-25 | 2023-09-06 |
@@ -289,6 +289,7 @@
 | [Won't Let Go](https://open.spotify.com/track/2AOk4SEj1TYDbdTwewUQgq) | [Brian Courtney Wilson](https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx), [The Soul Seekers](https://open.spotify.com/artist/5c2B3jO7ovPd0YuSD3x1ig) | [A Great Work](https://open.spotify.com/album/6WL4I0vQ7siPfkjtHbABhp) | 4:11 | 2022-06-09 | 2023-01-20 |
 | [Wonder \(feat\. Le'Andria Johnson\)](https://open.spotify.com/track/48NBwJuiWaieFw8R5W3odZ) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [Le'Andria Johnson](https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh) | [Oil + Water](https://open.spotify.com/album/35XjZJwNLZj6RbTVXakIbX) | 4:03 | 2022-06-09 | 2023-12-09 |
 | [Won’t Settle](https://open.spotify.com/track/4IJoNuDNZlCJTCWHqm627s) | [Chidiya Ohiagu](https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp), [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD), [CARISSA M.](https://open.spotify.com/artist/3mTDpdfDaxZb4fCRKhFNp6) | [Won’t Settle](https://open.spotify.com/album/0aN04XDOdQaanGUnvE9jrJ) | 4:23 | 2023-03-30 | 2023-06-09 |
+| [Working for My Good](https://open.spotify.com/track/7IwhWWrugXAMbbcyUrj2jg) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Holy Impact](https://open.spotify.com/album/04s7WRi21IjxJtt7dCjiQ5) | 2:19 | 2024-02-23 |  |
 | [Working In Me](https://open.spotify.com/track/4NrPDnJAh7oM2dQ1qcFYkJ) | [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9), [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta) | [Working In Me](https://open.spotify.com/album/7FJ8xTlTt5uLkZMLrIc7ZK) | 2:09 | 2023-10-13 | 2024-02-09 |
 | [Worry About Nothing](https://open.spotify.com/track/4gEkiIg4XatM4x10HcAdMy) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Worry About Nothing](https://open.spotify.com/album/1VKHWGZru3AKfEzA9zn15s) | 3:24 | 2024-01-12 | 2024-01-19 |
 | [Worship Medley](https://open.spotify.com/track/33uzJMAazub75TIKdsEQIV) | [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4) | [Worship Medley](https://open.spotify.com/album/4Lc6LKskIMuD18YhiImsbt) | 31:25 | 2022-09-01 | 2023-10-23 |

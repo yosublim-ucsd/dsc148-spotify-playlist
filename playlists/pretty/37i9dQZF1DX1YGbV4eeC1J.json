@@ -1,15 +1,15 @@
 {
   "description": "Exceptionally vivid Swahili love stories for you and yours. Cover: Phina",
-  "num_followers": 20566,
+  "num_followers": 20585,
   "original_name": "Swahili Love ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYWVmYTg3MjhmNzEyYzdkYmI3M2QxMTUxYjAxMTY2Y2U3NmE0ZWMz",
+  "snapshot_id": "MCwxNDRlOWY0NmJlMWI5M2I3NzRmYjlhMDQ4NDViZDdmNWVmM2MzMDA2",
   "tracks": [
     {
-      "added_at": "2024-02-15 23:59:00",
+      "added_at": "2024-02-22 23:59:00",
       "album": {
         "name": "Mahaba",
         "url": "https://open.spotify.com/album/2CChdeShxi3qGFwGY9Xo2x"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/2Q5V16Cnv5yXoXoQKeJ9GT"
     },
     {
-      "added_at": "2024-02-15 23:59:00",
+      "added_at": "2024-02-22 23:59:00",
       "album": {
         "name": "Utaniua",
         "url": "https://open.spotify.com/album/5TyVLtfv0jEnQ1Y7D0lcSb"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/7DuHELJeETVPQsRfjHHJoh"
     },
     {
-      "added_at": "2024-02-15 23:59:00",
+      "added_at": "2024-02-22 23:59:00",
       "album": {
         "name": "Mapoz (feat. Mr. Blue & Jay Melody)",
         "url": "https://open.spotify.com/album/52cracIwbALowujVVS3onE"
@@ -65,7 +65,27 @@
       "url": "https://open.spotify.com/track/7kJujeE4Zi8e22ohmHFqEF"
     },
     {
-      "added_at": "2024-02-15 23:59:00",
+      "added_at": "2024-02-22 23:59:00",
+      "album": {
+        "name": "Number one",
+        "url": "https://open.spotify.com/album/3m0drqdeqvXvyIZ84aiNq5"
+      },
+      "artists": [
+        {
+          "name": "Billnass",
+          "url": "https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4"
+        },
+        {
+          "name": "Mbosso",
+          "url": "https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa"
+        }
+      ],
+      "duration_ms": 227878,
+      "name": "Number one",
+      "url": "https://open.spotify.com/track/4CfUByjF9bo7GGx0HAdVJG"
+    },
+    {
+      "added_at": "2024-02-22 23:59:00",
       "album": {
         "name": "Wapambe",
         "url": "https://open.spotify.com/album/1Gj7pdyvDIyM2GYzbN4fJ5"
@@ -85,7 +105,7 @@
       "url": "https://open.spotify.com/track/6FnpY2o7B3Je5EuvizjdDx"
     },
     {
-      "added_at": "2024-02-15 23:59:00",
+      "added_at": "2024-02-22 23:59:00",
       "album": {
         "name": "Wawili",
         "url": "https://open.spotify.com/album/1vYxPvOHWpK4pFxRyFafcb"
@@ -101,7 +121,23 @@
       "url": "https://open.spotify.com/track/0tZlISnKWa6Z0rjvOn8SBx"
     },
     {
-      "added_at": "2024-02-15 23:59:00",
+      "added_at": "2024-02-22 23:59:00",
+      "album": {
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/5SkSitVZlbjhckkWzEyvzj"
+      },
+      "artists": [
+        {
+          "name": "Otile Brown",
+          "url": "https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj"
+        }
+      ],
+      "duration_ms": 227500,
+      "name": "Dear X",
+      "url": "https://open.spotify.com/track/6mDZAjYfa5VG7hFoqF9mb2"
+    },
+    {
+      "added_at": "2024-02-22 23:59:00",
       "album": {
         "name": "Butterfly (feat. Phina)",
         "url": "https://open.spotify.com/album/7uAArCR4SL1PZZnCVSpRvu"
@@ -121,27 +157,43 @@
       "url": "https://open.spotify.com/track/3XHus2H79mt1LjHTqu1jN2"
     },
     {
-      "added_at": "2024-02-15 23:59:00",
+      "added_at": "2024-02-22 23:59:00",
       "album": {
-        "name": "Asante",
-        "url": "https://open.spotify.com/album/5ddcMxbS1XXkRgt5ds6BLi"
+        "name": "Dharau",
+        "url": "https://open.spotify.com/album/4fAfuvu9kF55EA8uqlhwcy"
       },
       "artists": [
         {
-          "name": "Otile Brown",
-          "url": "https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj"
+          "name": "Ibraah",
+          "url": "https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe"
         },
         {
-          "name": "Rayvanny",
-          "url": "https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J"
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
         }
       ],
-      "duration_ms": 204631,
-      "name": "Asante",
-      "url": "https://open.spotify.com/track/5neSB7IERvhjSIDlIBjNbd"
+      "duration_ms": 212155,
+      "name": "Dharau",
+      "url": "https://open.spotify.com/track/2UiH7lUXyxtccytHCixKQX"
     },
     {
-      "added_at": "2024-02-15 23:59:00",
+      "added_at": "2024-02-22 23:59:00",
+      "album": {
+        "name": "Baridi",
+        "url": "https://open.spotify.com/album/2w05Yz5dVlP41KH81ZGkDX"
+      },
+      "artists": [
+        {
+          "name": "Jay Melody",
+          "url": "https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70"
+        }
+      ],
+      "duration_ms": 195419,
+      "name": "Baridi",
+      "url": "https://open.spotify.com/track/72xGE8uQLhCEtL0EujBlMY"
+    },
+    {
+      "added_at": "2024-02-22 23:59:00",
       "album": {
         "name": "Away",
         "url": "https://open.spotify.com/album/6yhc9dAFjeeyL5RLXDjQVW"
@@ -161,23 +213,7 @@
       "url": "https://open.spotify.com/track/6l8LEBdIrPF57T4VZkQs3i"
     },
     {
-      "added_at": "2024-02-15 23:59:00",
-      "album": {
-        "name": "Baridi",
-        "url": "https://open.spotify.com/album/2w05Yz5dVlP41KH81ZGkDX"
-      },
-      "artists": [
-        {
-          "name": "Jay Melody",
-          "url": "https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70"
-        }
-      ],
-      "duration_ms": 195419,
-      "name": "Baridi",
-      "url": "https://open.spotify.com/track/72xGE8uQLhCEtL0EujBlMY"
-    },
-    {
-      "added_at": "2024-02-15 23:59:00",
+      "added_at": "2024-02-22 23:59:00",
       "album": {
         "name": "This Love",
         "url": "https://open.spotify.com/album/5QBvP8LsJEAVTp4dohusx2"
@@ -193,7 +229,7 @@
       "url": "https://open.spotify.com/track/2qMwrsE1QFVCHlKGgs49Y0"
     },
     {
-      "added_at": "2024-02-15 23:59:00",
+      "added_at": "2024-02-22 23:59:00",
       "album": {
         "name": "Hello",
         "url": "https://open.spotify.com/album/6gOMG3WCRF3mZIum5TwMft"
@@ -209,7 +245,7 @@
       "url": "https://open.spotify.com/track/7umhIhajaZPJumJCR6u5Nt"
     },
     {
-      "added_at": "2024-02-15 23:59:00",
+      "added_at": "2024-02-22 23:59:00",
       "album": {
         "name": "Bado",
         "url": "https://open.spotify.com/album/2L9Ap65owutg0v7TKoOhIV"
@@ -225,7 +261,23 @@
       "url": "https://open.spotify.com/track/74buPdQW7Xy39ryorpOaWC"
     },
     {
-      "added_at": "2024-02-15 23:59:00",
+      "added_at": "2024-02-22 23:59:00",
+      "album": {
+        "name": "Cuffed in Love",
+        "url": "https://open.spotify.com/album/2VTrwsi53HGL2yYsEYTMgH"
+      },
+      "artists": [
+        {
+          "name": "Okello Max",
+          "url": "https://open.spotify.com/artist/4AIr4Ly0nJMjtcRg46naSp"
+        }
+      ],
+      "duration_ms": 203636,
+      "name": "Sunset",
+      "url": "https://open.spotify.com/track/54EH4aks1rG4WL8HiG3szm"
+    },
+    {
+      "added_at": "2024-02-22 23:59:00",
       "album": {
         "name": "No Body (feat. Bien)",
         "url": "https://open.spotify.com/album/1Ak0wGHeJQaTQJKoVrid6d"
@@ -245,10 +297,10 @@
       "url": "https://open.spotify.com/track/3h8WG1R3M5bWYiRkCB1xYQ"
     },
     {
-      "added_at": "2024-02-15 23:59:00",
+      "added_at": "2024-02-22 23:59:00",
       "album": {
-        "name": "Jeraha",
-        "url": "https://open.spotify.com/album/27ylTtbQEnXWmslV0pP70O"
+        "name": "Asante",
+        "url": "https://open.spotify.com/album/5ddcMxbS1XXkRgt5ds6BLi"
       },
       "artists": [
         {
@@ -256,19 +308,19 @@
           "url": "https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj"
         },
         {
-          "name": "Jovial",
-          "url": "https://open.spotify.com/artist/0byBbjjMnPnPDMosIzKHO4"
+          "name": "Rayvanny",
+          "url": "https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J"
         }
       ],
-      "duration_ms": 181978,
-      "name": "Jeraha",
-      "url": "https://open.spotify.com/track/69NbI959pNXGGh5T7WYQHN"
+      "duration_ms": 204631,
+      "name": "Asante",
+      "url": "https://open.spotify.com/track/5neSB7IERvhjSIDlIBjNbd"
     },
     {
-      "added_at": "2024-02-15 23:59:00",
+      "added_at": "2024-02-22 23:59:00",
       "album": {
-        "name": "Ananipenda",
-        "url": "https://open.spotify.com/album/4ubtaCtnqlodlNKIXhjijl"
+        "name": "Ananipenda (feat. Soge Culebra, Marioo) [Remix]",
+        "url": "https://open.spotify.com/album/12rtLcPE9RQYL8e8WqaWY0"
       },
       "artists": [
         {
@@ -276,16 +328,28 @@
           "url": "https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md"
         },
         {
+          "name": "Peipper",
+          "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
+        },
+        {
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        },
+        {
           "name": "Marioo",
           "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
+        },
+        {
+          "name": "Soge Culebra",
+          "url": "https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5"
         }
       ],
-      "duration_ms": 215604,
-      "name": "Ananipenda",
-      "url": "https://open.spotify.com/track/4R6vTxggpyMGuSjfwOkPEB"
+      "duration_ms": 289539,
+      "name": "Ananipenda (feat. Soge Culebra, Marioo) - Remix",
+      "url": "https://open.spotify.com/track/2SCK9dHI52spNQDwUCedD0"
     },
     {
-      "added_at": "2024-02-15 23:59:00",
+      "added_at": "2024-02-22 23:59:00",
       "album": {
         "name": "Nakupenda",
         "url": "https://open.spotify.com/album/1qQYwu5T9b3Vpfb9vwCnnf"
@@ -301,7 +365,7 @@
       "url": "https://open.spotify.com/track/4nqbJTJRxLQQnh5TxqFiaM"
     },
     {
-      "added_at": "2024-02-15 23:59:00",
+      "added_at": "2024-02-22 23:59:00",
       "album": {
         "name": "Zawadi (feat. Dadiposlim)",
         "url": "https://open.spotify.com/album/1M1g4TDVEcEgzeqJpkhCou"
@@ -321,7 +385,7 @@
       "url": "https://open.spotify.com/track/7vkI4zFAPUBmWHuUAfXDdU"
     },
     {
-      "added_at": "2024-02-15 23:59:00",
+      "added_at": "2024-02-22 23:59:00",
       "album": {
         "name": "My Baby",
         "url": "https://open.spotify.com/album/3hMzqCdDnvkt4yPpqzZ4NW"
@@ -337,7 +401,7 @@
       "url": "https://open.spotify.com/track/3m9WNPWRYShDu975I5dYtH"
     },
     {
-      "added_at": "2024-02-15 23:59:00",
+      "added_at": "2024-02-22 23:59:00",
       "album": {
         "name": "Nakupenda",
         "url": "https://open.spotify.com/album/0rupjiEp0TDMmvIx5nmTzN"
@@ -353,7 +417,7 @@
       "url": "https://open.spotify.com/track/3TlutO6C5h7LgLcH0X8GMc"
     },
     {
-      "added_at": "2024-02-15 23:59:00",
+      "added_at": "2024-02-22 23:59:00",
       "album": {
         "name": "Love Song",
         "url": "https://open.spotify.com/album/3AJ5ucxVHyDDjYRf7fAeHE"
@@ -373,7 +437,7 @@
       "url": "https://open.spotify.com/track/57dxObrS7BrzycOrKK9Z3k"
     },
     {
-      "added_at": "2024-02-15 23:59:00",
+      "added_at": "2024-02-22 23:59:00",
       "album": {
         "name": "Nitaubeba",
         "url": "https://open.spotify.com/album/4hEN4eOrVdc2TbBR85zePI"
@@ -389,7 +453,7 @@
       "url": "https://open.spotify.com/track/4GU6tIn7Ic1kGiHYLP2r18"
     },
     {
-      "added_at": "2024-02-15 23:59:00",
+      "added_at": "2024-02-22 23:59:00",
       "album": {
         "name": "Inauma",
         "url": "https://open.spotify.com/album/2XucwpZyoKaEjM8lJyZCX5"
@@ -405,7 +469,7 @@
       "url": "https://open.spotify.com/track/3HlLqEWLhoKV9GVVOFerQb"
     },
     {
-      "added_at": "2024-02-15 23:59:00",
+      "added_at": "2024-02-22 23:59:00",
       "album": {
         "name": "African Girl",
         "url": "https://open.spotify.com/album/2NvEWfNVQnbq3eX3td3z1k"
@@ -425,7 +489,7 @@
       "url": "https://open.spotify.com/track/43jov3soAgRlQtC8mfKM58"
     },
     {
-      "added_at": "2024-02-15 23:59:00",
+      "added_at": "2024-02-22 23:59:00",
       "album": {
         "name": "Mawenge",
         "url": "https://open.spotify.com/album/4P4Y78uV52GBdtOYhuv1un"
@@ -445,7 +509,7 @@
       "url": "https://open.spotify.com/track/4NF3tGNQ7Gi9A0sHnFxPCE"
     },
     {
-      "added_at": "2024-02-15 23:59:00",
+      "added_at": "2024-02-22 23:59:00",
       "album": {
         "name": "Kama",
         "url": "https://open.spotify.com/album/4vqoy2PNlAqmQpcTKjCKui"
@@ -461,7 +525,27 @@
       "url": "https://open.spotify.com/track/4ulwSWSNoXFhuZZ9bWqGPD"
     },
     {
-      "added_at": "2024-02-15 23:59:00",
+      "added_at": "2024-02-22 23:59:00",
+      "album": {
+        "name": "Jeraha",
+        "url": "https://open.spotify.com/album/27ylTtbQEnXWmslV0pP70O"
+      },
+      "artists": [
+        {
+          "name": "Otile Brown",
+          "url": "https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj"
+        },
+        {
+          "name": "Jovial",
+          "url": "https://open.spotify.com/artist/0byBbjjMnPnPDMosIzKHO4"
+        }
+      ],
+      "duration_ms": 181978,
+      "name": "Jeraha",
+      "url": "https://open.spotify.com/track/69NbI959pNXGGh5T7WYQHN"
+    },
+    {
+      "added_at": "2024-02-22 23:59:00",
       "album": {
         "name": "Al\u00f3",
         "url": "https://open.spotify.com/album/0556miRSxmC7vGyTZuZ5Ex"
@@ -477,7 +561,7 @@
       "url": "https://open.spotify.com/track/1PCqgmYwQQfZtDXSYvcAXy"
     },
     {
-      "added_at": "2024-02-15 23:59:00",
+      "added_at": "2024-02-22 23:59:00",
       "album": {
         "name": "Abee",
         "url": "https://open.spotify.com/album/18OAT8jNZdz7nSru10QwSn"
@@ -493,7 +577,7 @@
       "url": "https://open.spotify.com/track/3Io6cTgNdEkXF4PFo8VqxP"
     },
     {
-      "added_at": "2024-02-15 23:59:00",
+      "added_at": "2024-02-22 23:59:00",
       "album": {
         "name": "Dear Dingi",
         "url": "https://open.spotify.com/album/5cnOSewDZ7XLUtNpqSOSQr"
@@ -509,7 +593,7 @@
       "url": "https://open.spotify.com/track/0DkW4lgpl26aY0ScNy5vX2"
     },
     {
-      "added_at": "2024-02-15 23:59:00",
+      "added_at": "2024-02-22 23:59:00",
       "album": {
         "name": "Lazizi - Spotify Singles (Cover)",
         "url": "https://open.spotify.com/album/3sKcmVnqk37Sgsdg9GBfce"
@@ -525,23 +609,7 @@
       "url": "https://open.spotify.com/track/4rutxh0KdzzxPNR75CCgJR"
     },
     {
-      "added_at": "2024-02-15 23:59:00",
-      "album": {
-        "name": "I Belong To You",
-        "url": "https://open.spotify.com/album/6zaNQD4IJL48zCkGTEF2b1"
-      },
-      "artists": [
-        {
-          "name": "Barnaba",
-          "url": "https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks"
-        }
-      ],
-      "duration_ms": 172035,
-      "name": "I Belong To You",
-      "url": "https://open.spotify.com/track/2PJhzxSrHqNTfhNuFtybCQ"
-    },
-    {
-      "added_at": "2024-02-15 23:59:00",
+      "added_at": "2024-02-22 23:59:00",
       "album": {
         "name": "Khan",
         "url": "https://open.spotify.com/album/3U9b6VslZuWzVmpxMLcPYO"
@@ -557,7 +625,7 @@
       "url": "https://open.spotify.com/track/20eKkFZ3C7N7saVxn7BfDR"
     },
     {
-      "added_at": "2024-02-15 23:59:00",
+      "added_at": "2024-02-22 23:59:00",
       "album": {
         "name": "Angel & Demon",
         "url": "https://open.spotify.com/album/2lP03gWGjSZvi5QqADbDY3"
@@ -577,7 +645,7 @@
       "url": "https://open.spotify.com/track/1qc2kAS8FbSUpA6p9Iqy3G"
     },
     {
-      "added_at": "2024-02-15 23:59:00",
+      "added_at": "2024-02-22 23:59:00",
       "album": {
         "name": "Why",
         "url": "https://open.spotify.com/album/4qdyzWegDBzlnPfl0FmBaB"
@@ -597,7 +665,7 @@
       "url": "https://open.spotify.com/track/6TlZkvGTKWJXtYUx4XGCyv"
     },
     {
-      "added_at": "2024-02-15 23:59:00",
+      "added_at": "2024-02-22 23:59:00",
       "album": {
         "name": "Katerina",
         "url": "https://open.spotify.com/album/205OcJThFPWLVFc19sGU3U"
@@ -613,23 +681,7 @@
       "url": "https://open.spotify.com/track/0TPkhwb04r1IwigUlmnN8K"
     },
     {
-      "added_at": "2024-02-15 23:59:00",
-      "album": {
-        "name": "All I Need",
-        "url": "https://open.spotify.com/album/0FkKqxcA1miGb9IkW2Vbgp"
-      },
-      "artists": [
-        {
-          "name": "Barnaba",
-          "url": "https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks"
-        }
-      ],
-      "duration_ms": 187155,
-      "name": "All I Need",
-      "url": "https://open.spotify.com/track/7wsTFtax8COrbO5BYRD3Dh"
-    },
-    {
-      "added_at": "2024-02-15 23:59:00",
+      "added_at": "2024-02-22 23:59:00",
       "album": {
         "name": "Mi Nawe",
         "url": "https://open.spotify.com/album/0jvLmR2XD7mM8zXNfuvPJ2"
@@ -645,7 +697,7 @@
       "url": "https://open.spotify.com/track/6pWRJyR4x0undU6dIR2mpP"
     },
     {
-      "added_at": "2024-02-15 23:59:00",
+      "added_at": "2024-02-22 23:59:00",
       "album": {
         "name": "Amelowa",
         "url": "https://open.spotify.com/album/0cb7S8oT18YIVZDoiqlytV"
@@ -661,7 +713,7 @@
       "url": "https://open.spotify.com/track/2EiGkSOY6o01g9gDm1lrzk"
     },
     {
-      "added_at": "2024-02-15 23:59:00",
+      "added_at": "2024-02-22 23:59:00",
       "album": {
         "name": "My Vow",
         "url": "https://open.spotify.com/album/77d7j2x9rppA6mBZIgPALC"
@@ -677,7 +729,7 @@
       "url": "https://open.spotify.com/track/35AJw5elg1VkzJ5DlPN37T"
     },
     {
-      "added_at": "2024-02-15 23:59:00",
+      "added_at": "2024-02-22 23:59:00",
       "album": {
         "name": "Wa Sasa",
         "url": "https://open.spotify.com/album/3oxmKTtd1oBP7WACgKrh4m"
@@ -693,7 +745,7 @@
       "url": "https://open.spotify.com/track/1FVz0hH9kEafMYlQjIkBTf"
     },
     {
-      "added_at": "2024-02-15 23:59:00",
+      "added_at": "2024-02-22 23:59:00",
       "album": {
         "name": "Show Off",
         "url": "https://open.spotify.com/album/6wOvhJKWIxM7jDFmCbWaDZ"
@@ -713,7 +765,7 @@
       "url": "https://open.spotify.com/track/4U65tGpFAoyaXecy00yACB"
     },
     {
-      "added_at": "2024-02-15 23:59:00",
+      "added_at": "2024-02-22 23:59:00",
       "album": {
         "name": "Napendwa",
         "url": "https://open.spotify.com/album/7uSvaZCFzAnZTxSuLcUu4O"
@@ -729,7 +781,7 @@
       "url": "https://open.spotify.com/track/6ThP7PzsOKFqMdJze74nxh"
     },
     {
-      "added_at": "2024-02-15 23:59:00",
+      "added_at": "2024-02-22 23:59:00",
       "album": {
         "name": "Hawataweza",
         "url": "https://open.spotify.com/album/5DS0VEV7sltoi329nDx1I0"
@@ -745,7 +797,7 @@
       "url": "https://open.spotify.com/track/4P94MmzUvIwY3Jc6X4mzN0"
     },
     {
-      "added_at": "2024-02-15 23:59:00",
+      "added_at": "2024-02-22 23:59:00",
       "album": {
         "name": "Umeme",
         "url": "https://open.spotify.com/album/6Jo1JePWZCM5YsSLFH9ppI"
@@ -761,7 +813,7 @@
       "url": "https://open.spotify.com/track/3CxpOg8kGPAJRFG3S0j1kr"
     },
     {
-      "added_at": "2024-02-15 23:59:00",
+      "added_at": "2024-02-22 23:59:00",
       "album": {
         "name": "Inauma",
         "url": "https://open.spotify.com/album/6q5kvkKogPAOrzjYy3Y8mD"
@@ -777,7 +829,7 @@
       "url": "https://open.spotify.com/track/5o9Lrsb1ONwnFUoXs6yOav"
     },
     {
-      "added_at": "2024-02-15 23:59:00",
+      "added_at": "2024-02-22 23:59:00",
       "album": {
         "name": "Morning Call",
         "url": "https://open.spotify.com/album/0wwoKITOHIs013FQaMmwro"
@@ -793,7 +845,7 @@
       "url": "https://open.spotify.com/track/6EGQ8LxufhYEkN4btEJ1Vu"
     },
     {
-      "added_at": "2024-02-15 23:59:00",
+      "added_at": "2024-02-22 23:59:00",
       "album": {
         "name": "The Love Album",
         "url": "https://open.spotify.com/album/6oGApINTocokzfDCkgVfkT"
@@ -813,23 +865,7 @@
       "url": "https://open.spotify.com/track/6gGmfPBMuAYZsm78uaW9Cg"
     },
     {
-      "added_at": "2024-02-15 23:59:00",
-      "album": {
-        "name": "Waambie",
-        "url": "https://open.spotify.com/album/0DycumTtXTohHbRkLhFmI3"
-      },
-      "artists": [
-        {
-          "name": "killy",
-          "url": "https://open.spotify.com/artist/6YXrbHy6Fah1970m8C8BXK"
-        }
-      ],
-      "duration_ms": 157548,
-      "name": "Waambie",
-      "url": "https://open.spotify.com/track/2akpNLeJS1LfrlK9KKCAek"
-    },
-    {
-      "added_at": "2024-02-15 23:59:00",
+      "added_at": "2024-02-22 23:59:00",
       "album": {
         "name": "Nakufa",
         "url": "https://open.spotify.com/album/2CWz097A1H3bExt8pHnaiH"
@@ -853,7 +889,7 @@
       "url": "https://open.spotify.com/track/2RzH7ZbIwhGWLy8H07HAB3"
     },
     {
-      "added_at": "2024-02-15 23:59:00",
+      "added_at": "2024-02-22 23:59:00",
       "album": {
         "name": "Hapa",
         "url": "https://open.spotify.com/album/1Q88BNMCpqlFBh46WRR7pn"
@@ -867,22 +903,6 @@
       "duration_ms": 197648,
       "name": "Hapa",
       "url": "https://open.spotify.com/track/3o2XGqeVS2V6zQWjCtSBPd"
-    },
-    {
-      "added_at": "2024-02-15 23:59:00",
-      "album": {
-        "name": "Nampenda",
-        "url": "https://open.spotify.com/album/0xhgXtc2IbEFcG7K12Olkb"
-      },
-      "artists": [
-        {
-          "name": "Barnaba",
-          "url": "https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks"
-        }
-      ],
-      "duration_ms": 217500,
-      "name": "Nampenda",
-      "url": "https://open.spotify.com/track/6bY6Rrr3enYLfJK7djbgZQ"
     }
   ],
   "unique_name": "Swahili Love ",

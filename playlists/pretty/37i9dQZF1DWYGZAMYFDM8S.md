@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYGZAMYFDM8S.md) - [plain]
 
 > Keep calm with this mix of laidback, acoustic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,376 likes - 125 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,442 likes - 125 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYGZAMYFDM8S.md) - [plain]
 | 124 | [Shiver](https://open.spotify.com/track/1ODA4mZMaoBzT1TbPBW8B1) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Like I Used To \(Deluxe Edition\)](https://open.spotify.com/album/6ZKC2f7C1xnBYJAoRLBha3) | 3:53 |
 | 125 | [Angela \(Single Version\)](https://open.spotify.com/track/5kGBSOrKYmhRfdPBw4xD8D) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Angela \(Single Version\)](https://open.spotify.com/album/5WQjTqCdzCAFQFVsMoUXm0) | 2:58 |
 
-Snapshot ID: `MCw0YjVkZDgzNGM5MWQ1MGZmNzY1MDU0MzBjNDdhM2NmMTYxZGJlMjQw`
+Snapshot ID: `MCwwYmZjYjc1ZGUzNTMwYTEwYzI3ZGJmOWJjMzZlODgyYzA3MGVmMzVm`

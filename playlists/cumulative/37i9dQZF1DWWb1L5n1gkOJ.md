@@ -4,7 +4,7 @@
 
 > Gentle, soft Ambient music for focus and concentration.
 
-148 songs - 7 hr 0 min
+151 songs - 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Jane 2](https://open.spotify.com/track/5ninNGGy8iR9tv3USENLKb) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Jane 1\-11](https://open.spotify.com/album/1WWcacsiLhViXL44OCdtft) | 4:56 | 2022-10-12 | 2023-09-30 |
 | [Jane 9](https://open.spotify.com/track/4Qp5A3JbBBtMhW9WYGKlHA) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Jane 1\-11](https://open.spotify.com/album/1WWcacsiLhViXL44OCdtft) | 2:27 | 2022-10-12 | 2022-11-23 |
 | [La Rivière](https://open.spotify.com/track/3Hogl67zIDB7K6bEcrICw1) | [William Keats](https://open.spotify.com/artist/17LlecIqr0KpoiUMya3KEO) | [La Rivière](https://open.spotify.com/album/11xUB3vwqMUv0frZJ8tXhQ) | 2:12 | 2022-10-12 | 2023-06-17 |
+| [Lage](https://open.spotify.com/track/3CqiVCGBvST27IugG68rRc) | [Griff Beynon](https://open.spotify.com/artist/4xdU9qb6mDz0punEhwwi72) | [Lage](https://open.spotify.com/album/32nYyoyqI2idlGFfmqzxo4) | 2:53 | 2024-02-22 |  |
 | [Lana](https://open.spotify.com/track/3MGCNZbekjphNk5SKVCdme) | [Julian Nema](https://open.spotify.com/artist/1Q6EETJLIdmRFA2OVj97HS) | [Nova](https://open.spotify.com/album/1rvBfxWsbgqQKg0UHdTTeT) | 2:35 | 2022-11-22 |  |
 | [Laten gaan](https://open.spotify.com/track/1O9Y8T03JiS7yPGcj8IBk0) | [Niel Hupkes](https://open.spotify.com/artist/6PcwDVyKXjNm4SIFamEg30) | [Laten gaan](https://open.spotify.com/album/54x0xtunfNKKWCpJHKEhE6) | 3:28 | 2023-01-20 |  |
 | [Leende](https://open.spotify.com/track/1pgRARnMLlL5Chg1y4L6Uo) | [Juni Ros](https://open.spotify.com/artist/0lYxaLB1G0DginH83Meiw9) | [Leende](https://open.spotify.com/album/06PAyNBCVYjMafAold1L3j) | 3:07 | 2022-10-12 |  |
@@ -95,6 +96,7 @@
 | [Moving Towns](https://open.spotify.com/track/2JiKbDaZcMTyzhEoDq2CUy) | [Cognitivity](https://open.spotify.com/artist/1M1SmUUUHhrSn1k8SEvBTV) | [Vision Dreamscape](https://open.spotify.com/album/0fQ9nrYb4OjJt2MJ5PKnga) | 2:59 | 2023-06-30 |  |
 | [Muna](https://open.spotify.com/track/1thTEQDLz5G6hr2Cp3pA4g) | [Arnkatla](https://open.spotify.com/artist/66neAkEGsYZ4onMSMHMSbC) | [Muna](https://open.spotify.com/album/3okHfzFp1PVS3A57JF4D3S) | 3:08 | 2022-10-12 |  |
 | [Night Traveller](https://open.spotify.com/track/0VwLK1YNGY2UDzv5GeiJWB) | [Ami Sanou](https://open.spotify.com/artist/5Xqwv6jmmqS1Vx9vYJtAzY) | [Night Traveller](https://open.spotify.com/album/4Y6e0OS0PQTbUm6BPaxPly) | 2:37 | 2022-10-12 |  |
+| [Nightblooom](https://open.spotify.com/track/0Lc0SeMSM2Ao7hcCcr6kmB) | [The Lay\-Backs](https://open.spotify.com/artist/3hcHU2Pwf2YPgQXqdEi83C) | [Nightblooom](https://open.spotify.com/album/1bTVVlALCmMtFarxxZFqyo) | 2:18 | 2024-02-22 |  |
 | [Nightsong](https://open.spotify.com/track/2C9K86QpeEP3d6eXIgkdEe) | [Hwerna](https://open.spotify.com/artist/3UC102aeEAt0cbnucl3qjT) | [Nightsong](https://open.spotify.com/album/1CATANReaF9hPVAhmdjr2A) | 3:09 | 2022-10-12 |  |
 | [Noche Brilliante](https://open.spotify.com/track/2kVsD3DNreqNJ0CdM2ix2U) | [Santiago Penitente](https://open.spotify.com/artist/5GhwUrUTHxWEwJRQSXqNl9) | [Noche Brilliante](https://open.spotify.com/album/2HGRxLG4zOXpVAYQcRbE6e) | 2:21 | 2022-10-12 |  |
 | [Nothing else mattered](https://open.spotify.com/track/1LRjbCFrOBUQ9L1Ot4xuIO) | [Maddox JR](https://open.spotify.com/artist/4IOVtDNRfRnXC3xvPHWTyr) | [Placidity](https://open.spotify.com/album/75ivkKwsC8iTZMcvbI7BeS) | 2:42 | 2023-03-16 |  |
@@ -116,6 +118,7 @@
 | [Rehabilitation](https://open.spotify.com/track/5T6UXsOFn7pUeMRZcd9cXQ) | [Sweet Dreamer](https://open.spotify.com/artist/3zKs9aLmCunDoHMi4y2ld7) | [Atmospheres for Healing and Recovery](https://open.spotify.com/album/0iwssHNT8AmPqrBK1adac8) | 2:52 | 2022-10-12 | 2023-02-09 |
 | [Release](https://open.spotify.com/track/3WvLmahT84IZwXfK5S8cIb) | [Danoa](https://open.spotify.com/artist/2VD5PP13OpMEyul7NfnLa2) | [Release](https://open.spotify.com/album/4jBVlTEpIx48NPGSxfBAKr) | 2:17 | 2022-10-12 |  |
 | [Relief](https://open.spotify.com/track/22gnsfDtF6cna6pou9Tg1M) | [Sounds of Ellinia](https://open.spotify.com/artist/0o4rbXNv8YoDHK2nSnlJxr) | [Equilibrium](https://open.spotify.com/album/7G9ST3KjPK9S1AJu2xgfqR) | 2:49 | 2022-10-12 | 2023-11-17 |
+| [Resistance](https://open.spotify.com/track/18LOoaeiTDvW8kLSmA6yED) | [Ephemeral Odyssey](https://open.spotify.com/artist/5If4W5LdMaQuxNjbWXqgif) | [Resistance](https://open.spotify.com/album/01CwS7Yh1yvkY45ewLjUBo) | 2:52 | 2024-02-22 |  |
 | [Resolution](https://open.spotify.com/track/2GJBxeFfnDyILm4XHC2ZkA) | [Vishal Casey](https://open.spotify.com/artist/4gaEPQ8r7KJfK9QE9nV0Wa) | [Resolution](https://open.spotify.com/album/0B3ssOI69AzMrRRG72Wn2C) | 2:23 | 2024-01-24 |  |
 | [Rosētum](https://open.spotify.com/track/0Q8YbkwiUQTvxTYvofeAJB) | [Szigeti Aliz](https://open.spotify.com/artist/5MYqSmIAMjoiBp8suHqGaA) | [Rosētum](https://open.spotify.com/album/3nug1l3A0hWw3xNS7zhflP) | 3:20 | 2022-10-12 |  |
 | [Safety](https://open.spotify.com/track/3EcvMo6Td4Kuv05GMNXZrs) | [Gabriel Verci](https://open.spotify.com/artist/5fwefxhrUGOhSbrg5GfIF1) | [Mindful](https://open.spotify.com/album/3feONECTQLJQie9tsNFuX5) | 2:48 | 2022-10-12 |  |

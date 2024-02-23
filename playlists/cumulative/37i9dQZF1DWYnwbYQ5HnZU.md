@@ -2,7 +2,7 @@
 
 ### [Country Gold](https://open.spotify.com/playlist/37i9dQZF1DWYnwbYQ5HnZU)
 
-> Spotify country fan favorites\. Cover: Darius Rucker
+> We're celebrating 10 years of Dierks Bentley's hit album "Riser" here on Country Gold!
 
 221 songs - 12 hr 38 min
 
@@ -81,7 +81,7 @@
 | [Gone](https://open.spotify.com/track/7IhfjcaXuXCq20ZiAA7igK) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Gone](https://open.spotify.com/album/7zEA1JpBgLz8Zj6cGcIvIV) | 3:25 | 2021-12-03 | 2022-10-02 |
 | [Gone Too Soon](https://open.spotify.com/track/7mDZ2NdYOeKFcz2zGnKBwU) | [Andrew Jannakos](https://open.spotify.com/artist/6DAX5iORnv8nsZYYeZqket) | [Gone Too Soon](https://open.spotify.com/album/2LvNipYQBCwjSngM65Q1sm) | 2:49 | 2021-12-03 | 2022-03-02 |
 | [Good Directions](https://open.spotify.com/track/7GQjJEwqlp6m5HNWVQd6OR) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [Doin' Somethin' Right](https://open.spotify.com/album/01XmoBPJ8VwC6IyOEvGhy5) | 3:35 | 2022-10-01 |  |
-| [Good Vibes](https://open.spotify.com/track/1XVqh0dC0PIl72f2mQhsVt) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [Real Friends](https://open.spotify.com/album/2rEH3VUXei9WuwsitItfcv) | 2:45 | 2022-04-29 |  |
+| [Good Vibes](https://open.spotify.com/track/1XVqh0dC0PIl72f2mQhsVt) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [Real Friends](https://open.spotify.com/album/2rEH3VUXei9WuwsitItfcv) | 2:45 | 2022-04-29 | 2024-02-23 |
 | [Gunpowder & Lead](https://open.spotify.com/track/3z1PqYwMtct2Dm4R9lhWnT) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Crazy Ex\-Girlfriend](https://open.spotify.com/album/4y5aIMkIOdo6z1c8qsI6xb) | 3:11 | 2022-10-01 |  |
 | [half of my hometown \(feat\. Kenny Chesney\)](https://open.spotify.com/track/1yRke3PmsyFrYlFZOAkABk) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [kelsea](https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ) | 3:51 | 2022-01-01 |  |
 | [Happens Like That](https://open.spotify.com/track/11fWR3u9wjDMW4oVDbUbyT) | [Granger Smith](https://open.spotify.com/artist/4sTFGCigAQIUiEy8wSSQNF) | [When The Good Guys Win](https://open.spotify.com/album/4R6CBTblAXNOexIDEK4yNu) | 2:51 | 2022-07-21 | 2022-10-02 |
@@ -102,7 +102,7 @@
 | [Humble And Kind](https://open.spotify.com/track/4Pn0JlCUusD2QHjADuOzuV) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Damn Country Music](https://open.spotify.com/album/4js8lX2b3DBIfixMCPABC4) | 4:19 | 2022-10-01 |  |
 | [I Could Use a Love Song](https://open.spotify.com/track/09iyGiljLWRYXdRazFkdtJ) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [HERO \(Deluxe Edition\)](https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK) | 3:16 | 2021-12-03 |  |
 | [I Go Back](https://open.spotify.com/track/57I7CUbXo4XlWuTVB8pXW6) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [When The Sun Goes Down](https://open.spotify.com/album/052CF6cpp0nAH67yuUrIp7) | 4:03 | 2022-10-01 | 2024-01-04 |
-| [I Hold On](https://open.spotify.com/track/01e8dGbulrphX8j3fZDQYk) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [RISER](https://open.spotify.com/album/5FoxaIGIRuXsbhZhwdfknU) | 4:39 | 2022-10-01 | 2023-09-02 |
+| [I Hold On](https://open.spotify.com/track/01e8dGbulrphX8j3fZDQYk) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [RISER](https://open.spotify.com/album/5FoxaIGIRuXsbhZhwdfknU) | 4:39 | 2022-10-01 |  |
 | [I Hope](https://open.spotify.com/track/2Hc4t9N2nt37oO4sF9BynI) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [I Hope](https://open.spotify.com/album/35SOQhniusum2ewU72jdBh) | 3:29 | 2021-12-03 | 2022-07-29 |
 | [I Hope](https://open.spotify.com/track/23T0OX7QOiIUFShSzbJ5Uo) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Goldmine](https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY) | 3:30 | 2022-07-21 |  |
 | [I Hope You’re Happy Now](https://open.spotify.com/track/0Al3wN3keprGTSgG8NBwjr) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Carly Pearce](https://open.spotify.com/album/44gX26I9jSjyy1KXAgquPc) | 3:18 | 2022-07-21 |  |

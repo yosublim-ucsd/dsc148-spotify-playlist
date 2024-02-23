@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatFAWyNT5ad.md) - [plain]
 
 > Let's mix it\. Cover: Royal & the Serpent & GAYLE
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,964 likes - 150 songs - 7 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,026 likes - 150 songs - 7 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatFAWyNT5ad.md) - [plain]
 | 149 | [Antidote](https://open.spotify.com/track/6Fz5NTInUwZFcsjUSXiNHG) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [Kailee Morgue](https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0) | [The Witching Hour](https://open.spotify.com/album/28izFr04hNwIUy1XQNwKqE) | 3:11 |
 | 150 | [Big City Thing](https://open.spotify.com/track/3OOAv73AZwwCnAW7VGHbZd) | [The Scarlet Opera](https://open.spotify.com/artist/331esE1oEqzbQQGZPJ4Yix) | [Big City Thing](https://open.spotify.com/album/4qhwIb8uXcg7M7Dz7Kn0Rn) | 3:23 |
 
-Snapshot ID: `MCwyOTQwODA2NzdkNjg2ZWIxN2NhZGNmNjA1NWMwYzQyNDBlMzRmNGFj`
+Snapshot ID: `MCw0NjRlNjEwNzNmMWUwYjYyYTAxMjVjYjQwYWQ0NDEyZDQ4NWQxZjg5`

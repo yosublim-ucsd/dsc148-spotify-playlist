@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 
 > A new take on a classic sound\. Cover: Britti
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,116 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,152 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 | 49 | [Shinin'](https://open.spotify.com/track/7pyLO6s46ahQ7Mgl4krzU5) | [Vintage Trouble](https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0) | [Shinin'](https://open.spotify.com/album/3apdYMNCak4rL88AHYxbP4) | 2:57 |
 | 50 | [I'm Leaving](https://open.spotify.com/track/33mKFTO1V2QNyhuUBneHDZ) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [The Winding Way](https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH) | 4:21 |
 | 51 | [I SEE ME IN YOU](https://open.spotify.com/track/3mH9LRyLT6z2njcC6DuSOz) | [Zoe Kypri](https://open.spotify.com/artist/0FP3GDsv47TrSrV2elyhWX) | [I SEE ME IN YOU](https://open.spotify.com/album/6vzgAjr04x7Ijw19UdXL4h) | 5:14 |
-| 52 | [Trouble](https://open.spotify.com/track/6IZ0AmqxPlnhRjIqoZtrCh) | [Emilia Sisco](https://open.spotify.com/artist/4RE2veIqf9YBlKqVTDKpV4), [Cold Diamond & Mink](https://open.spotify.com/artist/47eOrmm0M2qY5atzSNNt2b) | [Trouble](https://open.spotify.com/album/28sgphniUIB4msFwWLZfgb) | 3:39 |
+| 52 | [Trouble](https://open.spotify.com/track/0QrPA1DZnFzbh2sK2Ru6zL) | [Emilia Sisco](https://open.spotify.com/artist/4RE2veIqf9YBlKqVTDKpV4), [Cold Diamond & Mink](https://open.spotify.com/artist/47eOrmm0M2qY5atzSNNt2b) | [Trouble](https://open.spotify.com/album/1kanCOAOK32Mle4upbv8W0) | 3:39 |
 | 53 | [first, last and always](https://open.spotify.com/track/4yR51vo6LmS17yGoN6Xyre) | [Alex Cherney](https://open.spotify.com/artist/0MnGfy4FclSRUj9NnVKujd), [The Brothers Nylon](https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50) | [first, last and always](https://open.spotify.com/album/3Ez9IEN1H4hxwomUthlwaj) | 3:26 |
 | 54 | [Leave You Alone](https://open.spotify.com/track/266b55L7iAmnNdphZDeZ8p) | [Kelly Finnigan](https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4) | [Leave You Alone](https://open.spotify.com/album/2LwQhwvAWd15eFJfzNDiAU) | 3:10 |
 | 55 | [Deja Vu](https://open.spotify.com/track/6yHZVOMyiHvTJDU700B5d3) | [Jesse Barrera](https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l), [Patrick Hizon](https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X) | [Deja Vu](https://open.spotify.com/album/3aB1d4YjUoxiIAq6jDo9e9) | 2:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 | 99 | [You](https://open.spotify.com/track/7y8xMbDt5a5XlcRUAyov8N) | [Les Imprimés](https://open.spotify.com/artist/6pCq758EGVhfbiUIeuHTcf) | [Rêverie](https://open.spotify.com/album/0BjNFjGQwlPziWfwDzBUWO) | 3:00 |
 | 100 | [My Dirty Desire](https://open.spotify.com/track/6LghA3bvjS9btadUaJt4Io) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM) | [Bewilderment](https://open.spotify.com/album/5uKC6k1EIwQ6mDSDKuQgBu) | 3:26 |
 
-Snapshot ID: `MCw1NWM0ZjNmNzZmYmMxZmEzMGZlMzY3MTAyODQzYmQzNGJkNTAxYTkw`
+Snapshot ID: `MCwwYzg2MzM3YmVjNmExYmJkMjExMjFmMGJiNTRiNTVjZmJmNjA4NzZk`

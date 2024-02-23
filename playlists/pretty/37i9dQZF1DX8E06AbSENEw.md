@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8E06AbSENEw.md) - [plain]
 
 > Le meilleur des années 2010 en 100 titres.
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,897 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,966 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8E06AbSENEw.md) - [plain]
 | 99 | [Human](https://open.spotify.com/track/58zsLZPvfflaiIbNWoA22O) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Human \(Deluxe\)](https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng) | 3:20 |
 | 100 | [Thrift Shop \(feat\. Wanz\)](https://open.spotify.com/track/6CjtS2JZH9RkDz5UVInsa9) | [Macklemore & Ryan Lewis](https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC), [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Ryan Lewis](https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp), [Wanz](https://open.spotify.com/artist/56xTxG4nQMAs1GW9kvn0uA) | [The Heist](https://open.spotify.com/album/5QWHes9ODwn42DHTifGkXd) | 3:55 |
 
-Snapshot ID: `MCwwZDczMmFjYWIwNzYwM2FlNjMzZWQwZTk1N2NiMjg2ODhhODMyOWVh`
+Snapshot ID: `MCxmNGM4ZDVhYjAzZWFkZTg1NmE1ZTdkYTJiNzIwZGU4MGY2NTdiZjdk`

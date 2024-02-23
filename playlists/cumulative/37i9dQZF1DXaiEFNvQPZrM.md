@@ -4,7 +4,7 @@
 
 > Traditional country sounds from artists of yesterday and today.
 
-184 songs - 10 hr 32 min
+185 songs - 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Gone Country](https://open.spotify.com/track/1A0I5aiVZRwecRlbQcweBh) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [16 Biggest Hits](https://open.spotify.com/album/07KOJyGSNCoYVoWZafFt5W) | 4:19 | 2022-02-17 |  |
 | [Good Directions](https://open.spotify.com/track/7GQjJEwqlp6m5HNWVQd6OR) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [Doin' Somethin' Right](https://open.spotify.com/album/01XmoBPJ8VwC6IyOEvGhy5) | 3:35 | 2022-02-17 |  |
 | [Good Ol' Dogs and God](https://open.spotify.com/track/3LorEXrabPYZ8S1Ng8XbWu) | [Pryor & Lee](https://open.spotify.com/artist/0E4gzbZvE8TPQhWaMWj2vZ) | [Good Ol' Dogs and God](https://open.spotify.com/album/7r08W7mSYf3M7pprfTNyqS) | 3:13 | 2022-02-17 | 2022-07-21 |
-| [Grandpa \(Tell Me 'Bout The Good Old Days\)](https://open.spotify.com/track/1KNNTdw7SzJ90p6RXq4kGE) | [The Judds](https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc) | [I Will Stand By You \- The Essential Collection](https://open.spotify.com/album/3bKF0hgQ4aETX7Bb0bFQeM) | 4:16 | 2022-02-17 |  |
+| [Grandpa \(Tell Me 'Bout The Good Old Days\)](https://open.spotify.com/track/1KNNTdw7SzJ90p6RXq4kGE) | [The Judds](https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc) | [I Will Stand By You \- The Essential Collection](https://open.spotify.com/album/3bKF0hgQ4aETX7Bb0bFQeM) | 4:16 | 2022-02-17 | 2024-02-23 |
 | [Guys Do It All the Time](https://open.spotify.com/track/0uZRJmWi1TH3wrAN7hAbyF) | [Mindy McCready](https://open.spotify.com/artist/2uB5sjjJwj4kB6TrRGLYJO) | [Ten Thousand Angels](https://open.spotify.com/album/52a0Dg2pHH0RbwwVFYcl7F) | 3:11 | 2022-02-19 | 2023-12-11 |
 | [He Thinks He'll Keep Her](https://open.spotify.com/track/7zV7ij696h7hsLqFNpXPz2) | [Mary Chapin Carpenter](https://open.spotify.com/artist/0qAmeOULjwn04k6jMMeDyr) | [Come On Come On](https://open.spotify.com/album/1PLDejXS69FJQ19iwzEPvY) | 4:01 | 2022-05-13 | 2022-07-29 |
 | [Head Over Boots](https://open.spotify.com/track/4ly1QBXEwYoDmje9rmEgC4) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [California Sunrise](https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ) | 3:22 | 2022-02-17 |  |
@@ -152,6 +152,7 @@
 | [Sounds Like the Radio](https://open.spotify.com/track/5wCUOa3jSe5ZM3oXEutCdO) | [Zach Top](https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH) | [Sounds Like The Radio](https://open.spotify.com/album/3Ca8JBhNiiE2bsPDwsxOdV) | 3:38 | 2024-01-12 |  |
 | [Sounds So Good](https://open.spotify.com/track/6ONHzocQurXRl6HkQ4th2y) | [Ashton Shepherd](https://open.spotify.com/artist/43eAoOm70bzBUNs4JKP5nE) | [Sounds So Good](https://open.spotify.com/album/6z5A4jV5MDikX4blitvPiO) | 3:27 | 2022-02-17 | 2022-11-13 |
 | [State You Left Me In](https://open.spotify.com/track/4wU7mkrYRl8FJe0zsDhS2W) | [Jake Worthington](https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp) | [State You Left Me In](https://open.spotify.com/album/3FWfYCQli8A63gkKDs0wNd) | 5:25 | 2023-03-17 |  |
+| [Stay in Your Lane](https://open.spotify.com/track/7chJUlntiQSp66oeNSVsid) | [Bronson Diamond](https://open.spotify.com/artist/0mSLLMyw3xf8LMkrIs3ZFW), [Greta Stanley](https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC) | [Stay in Your Lane](https://open.spotify.com/album/7KiVfQ7GVB6kHS4xP1162z) | 3:29 | 2024-02-22 |  |
 | [Stealing Cinderella](https://open.spotify.com/track/6aOdhGqD0xuFM0OauOedNl) | [Chuck Wicks](https://open.spotify.com/artist/696fbyLHSMBSYjDrDU5yiK) | [Starting Now](https://open.spotify.com/album/3WyCVkjnQvHnS29LogStFV) | 4:02 | 2022-02-17 | 2023-04-09 |
 | [Still Gonna Be You](https://open.spotify.com/track/3ihVt9DqGFWgUWSBbzsAbo) | [Jade Eagleson](https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP) | [Jade Eagleson](https://open.spotify.com/album/5RKUuRB0ardN0FfTxNil1w) | 3:21 | 2022-02-17 | 2022-07-10 |
 | [Straight Tequila Night](https://open.spotify.com/track/5SpoN8sCoc05RfVde4raGN) | [John Anderson](https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv) | [Seminole Wind](https://open.spotify.com/album/23LbFVb9MdJCILkhR5yQ6a) | 2:53 | 2022-02-17 |  |

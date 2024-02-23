@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3nNRJvSufrk.md) - [plain]
 
 > Can you keep up? Get moving to the rapid rhythms of Footwork & Juke, originating in 1990s Chicago\. Cover: DJ Manny
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,679 likes - 80 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,691 likes - 80 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3nNRJvSufrk.md) - [plain]
 | 79 | [Pop Drop](https://open.spotify.com/track/1IrZcCsY92EhaqCA2QVSsH) | [DJ Paypal](https://open.spotify.com/artist/4hH4fEXPg3qpTDlmdNOO01), [DJ Taye](https://open.spotify.com/artist/4T1sY4aibm24hxfz9JnI7c) | [Computers Smarter Than People](https://open.spotify.com/album/3Hj551CuSFPhth9J6ffqcG) | 2:37 |
 | 80 | [Do Right](https://open.spotify.com/track/7lMjqRbsChqroWRRkhw3ge) | [Slick Shoota](https://open.spotify.com/artist/2P1OqKNHmAOg9RfAufNNkR) | [Do Right](https://open.spotify.com/album/79oVcdOfST9iLRlqenoJdl) | 3:27 |
 
-Snapshot ID: `MCxiMzA1YjhmZTJjNjBkOTQyOWY3MTdhNDI4OGE4N2FjZjE2M2ZkZmE5`
+Snapshot ID: `MCxkM2U0ODEwODZkYzUwYTY5Y2Q0Mzg3YWNhOWMyM2Q1ZjY2OTdlYzRl`

@@ -1,5 +1,5 @@
 {
-  "2024-02-22": 952958,
+  "2024-02-23": 953458,
   "date_first_scraped": "2022-01-05",
   "description": "The biggest party hits of the 2010s. Cover: Flo Rida.",
   "name": "Party Hits 2010s",
@@ -4557,7 +4557,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 168387,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/7CHi4DtfK4heMlQaudCuHK"
@@ -4987,13 +4987,13 @@
       },
       "artists": [
         {
-          "name": "Usher",
+          "name": "USHER",
           "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
         }
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 219986,
       "name": "More - RedOne Jimmy Joker Remix",
       "url": "https://open.spotify.com/track/0aBKFfdyOD1Ttvgv0cfjjJ"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,193 likes - 1,191 songs - 3 day 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,220 likes - 1,191 songs - 3 day 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -577,7 +577,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 567 | [Dub Azucar](https://open.spotify.com/track/5GDcoQYmNc6o7ng1ergzpd) | [Blundetto](https://open.spotify.com/artist/3bWxjvKUe8YV0VkI5d3I1Y) | [Good Good Dub](https://open.spotify.com/album/3dPw9VuoR3OG864MMhCEND) | 4:06 |
 | 568 | [Tornei a Caminhar](https://open.spotify.com/track/4mIEPRZVUjWxYIFPuYFiLr) | [Sebastiao Tapajós](https://open.spotify.com/artist/2WFZ8Nkgao0Wf9LNztudDW), [Pedro Dos Santos](https://open.spotify.com/artist/601SkZDVYTITNnfx0KP1yh) | [Sebastião Tapajos & Pedro Dos Santos, Vol\. 2](https://open.spotify.com/album/2sV1iyrBhu0wMsm7k8X6Fk) | 2:45 |
 | 569 | [Canto de Ossanha](https://open.spotify.com/track/5TsoUVc1uQDAAPj0AKdbIB) | [Quarteto Em Cy](https://open.spotify.com/artist/177N2fB1WvNBCQ4epjMQ3O) | [Pardon My English \(The Girls From Bahia\)](https://open.spotify.com/album/7oylpt4uLKmdYygs4kF4Ys) | 3:05 |
-| 570 | [Bimbom](https://open.spotify.com/track/74iVBXQX5bZWq8FPVLG5nR) | [El Dragón Criollo](https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G), [El Palmas](https://open.spotify.com/artist/607tUX31sF7QoJVbCx3r6Y), [Tulio Enrique León](https://open.spotify.com/artist/6jbC9Zqj2QSBt8puMpM6nS) | [Color de Trópico \(Compiled By El Dragón Criollo y El Palmas\)](https://open.spotify.com/album/0x29QRFTQuq7LvSwfEDHcz) | 2:37 |
+| 570 | [Bimbom](https://open.spotify.com/track/7a9iDJ3hni3eDcOrzmWTLx) | [El Dragón Criollo](https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G), [El Palmas](https://open.spotify.com/artist/607tUX31sF7QoJVbCx3r6Y), [Tulio Enrique León](https://open.spotify.com/artist/6jbC9Zqj2QSBt8puMpM6nS) | [Color de Trópico \(Compiled By El Dragón Criollo & El Palmas\)](https://open.spotify.com/album/6j4ID9fk5IfuVWPloOiG9h) | 2:37 |
 | 571 | [Cumbia del Monte Fuji](https://open.spotify.com/track/1O9k2KJkdTALaxjkzUoLCT) | [Minyo Crusaders](https://open.spotify.com/artist/1zpJ58qKOgKcWge9iaFxHG), [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6) | [Cumbia del Monte Fuji](https://open.spotify.com/album/6JEkMpOD5jA6py8yAEoYc9) | 4:24 |
 | 572 | [Uptown Top Ranking \- Remastered 2001](https://open.spotify.com/track/34zWZOSpU2V1ab0PiZCcv4) | [Althea And Donna](https://open.spotify.com/artist/5E8FbSTegbOlYAH4b2rZj2) | [Uptown Top Ranking](https://open.spotify.com/album/1FWimRgPFwDVyVlHe9EEnP) | 3:49 |
 | 573 | [Otro Muerde el Polvo \(Another One Bites the Dust\)](https://open.spotify.com/track/6v5qsDOyBIoVELFdppFWfD) | [Los Miticos Del Ritmo](https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu) | [Los Miticos del Ritmo](https://open.spotify.com/album/7sXU6KPeWPglFMZpMydgt6) | 3:32 |
@@ -718,7 +718,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 708 | [A Trip To Brazil](https://open.spotify.com/track/37rki6yJC9UjYR69NsZUwV) | [Luiz Henrique](https://open.spotify.com/artist/2mbbD0cLZxosXdwG7aVals) | [Barra Limpa](https://open.spotify.com/album/39vj4Cqr8ATohv2EMcBMkv) | 3:07 |
 | 709 | [Piya Tu Ab To Aaja](https://open.spotify.com/track/42ZzD15Cukv9MwSuNSAcjn) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U), [R\. D\. Burman](https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g) | [Caravan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7cQLF08KjM9FAxGHKIkxs6) | 5:26 |
 | 710 | [Tsifteteli Pehnidiariko](https://open.spotify.com/track/0TQ76Aw6zpF5pC0xMetzNH) | [Stratos Dionisiou](https://open.spotify.com/artist/0xVhbm22AMG0DhCE2MUQBP) | [Mazi Me Ton Strato](https://open.spotify.com/album/3ub34H5TBB55UjQrBR1LE8) | 2:56 |
-| 711 | [Gaita Universal](https://open.spotify.com/track/5u5319zrHJDBJphTFnDFL4) | [El Dragón Criollo](https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G), [El Palmas](https://open.spotify.com/artist/607tUX31sF7QoJVbCx3r6Y), [Los Capri](https://open.spotify.com/artist/2QxL8r5W656cI5pm7JVsZL) | [Color de Trópico \(Compiled By El Dragón Criollo y El Palmas\)](https://open.spotify.com/album/0x29QRFTQuq7LvSwfEDHcz) | 2:31 |
+| 711 | [Gaita Universal](https://open.spotify.com/track/5fxq7PBJQyhftDhwuqqbUf) | [El Dragón Criollo](https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G), [El Palmas](https://open.spotify.com/artist/607tUX31sF7QoJVbCx3r6Y), [Los Capri](https://open.spotify.com/artist/2QxL8r5W656cI5pm7JVsZL) | [Color de Trópico \(Compiled By El Dragón Criollo & El Palmas\)](https://open.spotify.com/album/6j4ID9fk5IfuVWPloOiG9h) | 2:31 |
 | 712 | [Kiko Medina](https://open.spotify.com/track/6vLtDgaof96Ji8c3zVChAK) | [Le Tropical Jazz](https://open.spotify.com/artist/42WEar0g2JiYuF0mZ0YoFo) | [Senegal 70: Sonic Gems & Previously Unreleased Recordings From the '70s \(Analog Africa No\. 19\)](https://open.spotify.com/album/4qW3wMTPRLH5lMsjtZxnDs) | 4:42 |
 | 713 | [Ponchito de Colores](https://open.spotify.com/track/6INMHk5ysfDW9uWbqP6wKW) | [Afrosound](https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv) | [16 Exitos Bailables](https://open.spotify.com/album/4u7k1pMhfvvSBBjNMMX7x9) | 2:42 |
 | 714 | [Dusk](https://open.spotify.com/track/7IW4UNN8HenlxZAJg3KK3l) | [Flowering Inferno](https://open.spotify.com/artist/2JLqcc3mwS4Xf7xZuYwK0p), [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [1000 Watts](https://open.spotify.com/album/3QACddw0pDDAnuIgZ8ZlUf) | 3:45 |
@@ -1200,4 +1200,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1190 | [Ponta De Lança Africano](https://open.spotify.com/track/3LcGqv91NIBQaUmnNbsKu8) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 3:52 |
 | 1191 | [La burrita mocha](https://open.spotify.com/track/5ZUDABVqjta6rM9CaWw3w9) | [Esther Forero](https://open.spotify.com/artist/5MzgBKlIxqLzznQoRyfvKq) | [La burrita mocha](https://open.spotify.com/album/1aCtz9EtWc1OXFeG8Io9kv) | 2:44 |
 
-Snapshot ID: `MCw3OGJlM2JlZTU0MjUzNjVlMzI1ZDg4YzFmNTZiM2Q3MzU1YTU4MzU1`
+Snapshot ID: `MCw2OWM0ZGY5MGYzMWEwNDFhZmQzZDAzZDVjZjFlNDIwMTcwY2Q3NzQz`

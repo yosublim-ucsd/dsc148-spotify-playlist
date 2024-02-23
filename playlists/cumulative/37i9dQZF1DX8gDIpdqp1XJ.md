@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-946 songs - 2 day 13 hr 51 min
+947 songs - 2 day 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -503,6 +503,7 @@
 | [magic wand](https://open.spotify.com/track/2Ba2Jkam0Fe49fdIwUdmKz) | [url](https://open.spotify.com/artist/7vv006VlvTGA0JD2ybpvN2), [Inadelle](https://open.spotify.com/artist/2oJwuBtgqtIuzTpU27zay8) | [magic wand](https://open.spotify.com/album/5iad3isgt69GOlLzHQtdOM) | 3:24 | 2021-04-02 | 2023-03-07 |
 | [Magician's Success](https://open.spotify.com/track/3vSXiWYvRzOEmo1oVY3aRi) | [Vanishing Twin](https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5) | [Magician's Success](https://open.spotify.com/album/0EayMatCBa2FqZMHSJdqmu) | 3:55 | 2021-04-02 | 2022-04-20 |
 | [Magma](https://open.spotify.com/track/1n9DcN3wx9nSEpCq0snwB3) | [Scrimmage](https://open.spotify.com/artist/6UHfKPCRvV71AwZuCoIYO6) | [Magma](https://open.spotify.com/album/0Ra9Xxb3rfBQjf3qKUvb0Z) | 2:18 | 2022-11-10 | 2023-01-26 |
+| [Mahal](https://open.spotify.com/track/0iiB9CYptXO5Fz728LHHsQ) | [Glass Beams](https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF) | [Mahal](https://open.spotify.com/album/65vbRZn1cqkjyjMtlsbDGT) | 3:21 | 2024-02-22 |  |
 | [MAMA](https://open.spotify.com/track/1aux5x0f4A3D7yFTtMXoAy) | [Sacramento](https://open.spotify.com/artist/0ovT4fn9cuMxfhRNGPUzON) | [MAMA](https://open.spotify.com/album/1Qa8QAD33hHiC9WzDTZD8W) | 4:05 | 2021-06-11 | 2022-04-21 |
 | [Maps](https://open.spotify.com/track/0zWyIZOIBPtSEpAIfNiCb8) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Being No One, Going Nowhere](https://open.spotify.com/album/2Atz9f2tBNGwjQEuOsYayk) | 4:36 | 2022-07-11 | 2022-07-29 |
 | [Maps](https://open.spotify.com/track/1Wd958ULta05i5gENNxY5c) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Being No One, Going Nowhere](https://open.spotify.com/album/1FRsXJ2MoqDQ9yiR967J9z) | 4:36 | 2022-10-24 | 2023-05-06 |
@@ -563,7 +564,7 @@
 | [New Year's Resolution](https://open.spotify.com/track/3X2aIg3mFmJnUeDFRtd0WM) | [Tutankhamun](https://open.spotify.com/artist/6iqqrYdwxJzmxSz9ZJ72CH) | [Tutankhamun](https://open.spotify.com/album/5lk9ArPBJH4jDUdm0DaiTC) | 3:19 | 2023-03-06 | 2023-07-01 |
 | [newdemo](https://open.spotify.com/track/2p0EW6JGHvU5doxEmlnIKG) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [newdemo](https://open.spotify.com/album/2SvGM1v0URvrkHRMHRZywA) | 3:29 | 2022-07-22 | 2022-07-30 |
 | [Night Shift](https://open.spotify.com/track/43nkcJpErKDS857w3AXk9d) | [Meggie Lennon](https://open.spotify.com/artist/1T3MA61vWkReBpYGEUqKoq) | [Night Shift](https://open.spotify.com/album/2e2qtOSdoQS3h3bcuSdQd7) | 3:18 | 2021-07-19 | 2022-04-21 |
-| [Nightmare](https://open.spotify.com/track/1GA1km6y1Zq2ulRA1NV8tr) | [Night Beats](https://open.spotify.com/artist/07dZirN9KFAGIHeBvSDfuO) | [Rajan](https://open.spotify.com/album/0Xpiosb3si75dyOvQ6avF0) | 4:21 | 2023-06-16 |  |
+| [Nightmare](https://open.spotify.com/track/1GA1km6y1Zq2ulRA1NV8tr) | [Night Beats](https://open.spotify.com/artist/07dZirN9KFAGIHeBvSDfuO) | [Rajan](https://open.spotify.com/album/0Xpiosb3si75dyOvQ6avF0) | 4:21 | 2023-06-16 | 2024-02-23 |
 | [Nightmare](https://open.spotify.com/track/2CE5le5OywYFxSdvUnEk97) | [Night Beats](https://open.spotify.com/artist/07dZirN9KFAGIHeBvSDfuO) | [Nightmare](https://open.spotify.com/album/3Ob1IzWFDzFvIBeIm1LoBC) | 4:21 | 2023-06-16 | 2023-07-18 |
 | [Nightsift](https://open.spotify.com/track/2zxT7iTshvhM9K3439Ka7Y) | [of Montreal](https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O) | [Freewave Lucifer f<ck f^ck f>ck](https://open.spotify.com/album/3b98O4yCJhkj5iiGNYLe0p) | 4:40 | 2022-07-29 | 2022-08-30 |
 | [Nina](https://open.spotify.com/track/5eBWesgt493JjABBVdj8pr) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Nina](https://open.spotify.com/album/6LJHaWfBkwMApu8poG0WYc) | 3:20 | 2021-04-02 | 2022-04-20 |

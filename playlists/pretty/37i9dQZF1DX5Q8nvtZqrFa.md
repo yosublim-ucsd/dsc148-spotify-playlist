@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q8nvtZqrFa.md) - [plain]
 
 > 綺麗事は聞きたくない。本音でつづられた唄。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,977 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,980 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q8nvtZqrFa.md) - [plain]
 | 6 | [rendez\-vous](https://open.spotify.com/track/77mI5OSGIIPKxHXBkHOySy) | [shy taupe](https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg) | [Hors d'oeuvre](https://open.spotify.com/album/2xoDg0aFWHgzxMKvTetH4D) | 3:58 |
 | 7 | [正解](https://open.spotify.com/track/0BxLFTINwKifg5szsaON6F) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [正解](https://open.spotify.com/album/7AEGXvatrqwbvTKJh5J7VR) | 5:58 |
 | 8 | [だから僕は音楽を辞めた](https://open.spotify.com/track/5j7ixaLeGTGSv4DzKs0pCM) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [だから僕は音楽を辞めた](https://open.spotify.com/album/4b9nOSXSf1LROzgfYFxdxI) | 4:02 |
-| 9 | [負け犬にアンコールはいらない](https://open.spotify.com/track/1fooGB6yJLKiOk8jW3thn6) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [負け犬にアンコールはいらない](https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy) | 3:54 |
+| 9 | [星めぐる詩](https://open.spotify.com/track/30aPCMAtkH6Cf5ejzY4cE4) | [suis from Yorushika](https://open.spotify.com/artist/4UOdwKkaWHJ5k6UqnfC2w0) | [星めぐる詩](https://open.spotify.com/album/2EfEYAvVUWajLKby2VTeZC) | 3:21 |
 | 10 | [Last Flight](https://open.spotify.com/track/5DgiPHYEL7BrUkFj3JsODs) | [破壊的価値創造](https://open.spotify.com/artist/5xT8wEEdsU6EPFFAC0lJfC) | [Last Flight](https://open.spotify.com/album/2rQHuNu9xAGBZlc7OPIL9W) | 2:24 |
 | 11 | [ですとらくしょん!!](https://open.spotify.com/track/54krDxm0tOxeZy36AKT3Bj) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [Chevon](https://open.spotify.com/album/5zpDo1cOOtnbzrRjKdCqA8) | 4:01 |
 | 12 | [Tsumugu](https://open.spotify.com/track/0vfBB5CXn4CwpmQ2M5EZOe) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [Oidaki](https://open.spotify.com/album/5FGKmIasXlcphIo9Z3ihS5) | 3:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q8nvtZqrFa.md) - [plain]
 | 49 | [クロノスタシス](https://open.spotify.com/track/6Pd73yNBtoVpTRM6xLwOGp) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [クロノスタシス](https://open.spotify.com/album/4upctURy2F1F2rVfltc2P6) | 5:39 |
 | 50 | [分かってないよ](https://open.spotify.com/track/6MrJYU78mz1Vth83LDFRlG) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [ワンス・アポン・ア・リバイバル](https://open.spotify.com/album/3RueJOo83vwTyoKLKL6lT5) | 3:28 |
 
-Snapshot ID: `MCw1MzY4YmIyY2RmMWQyMzgyZmI3MjBiOWQ3NGFiNDUyM2U5ZGMwZmZi`
+Snapshot ID: `MCw1NDBjMGFlYTA0YzA0MGQ0ZDUzODdmYTg5Mzk4MGUyNWU1MWZhNzVj`

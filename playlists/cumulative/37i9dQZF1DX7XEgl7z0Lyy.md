@@ -4,7 +4,7 @@
 
 > music from the underworld
 
-176 songs - 6 hr 4 min
+177 songs - 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [feel the same](https://open.spotify.com/track/0ujM0V6C7c6kaUoblQmPXR) | [cyberia](https://open.spotify.com/artist/0HZkYrBotoNqUyH6B9aDaE) | [feel the same](https://open.spotify.com/album/6nOkaB0oVdfsSSoUI4a4mU) | 2:03 | 2024-01-05 |  |
 | [Fluxxwave](https://open.spotify.com/track/5K2onWVFDevmZ5y9AgiEcr) | [Clovis Reyes](https://open.spotify.com/artist/1rPMCfJhANfBT78l2wf4d6) | [Fluxxwave](https://open.spotify.com/album/5VSZMq4gFIMNympUWJa0AV) | 2:30 | 2023-07-21 |  |
 | [FUNKED UP \- SLOWED](https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp), [isq](https://open.spotify.com/artist/6JjQbtAO09K7qBEW2pdX5s) | [FUNKED UP](https://open.spotify.com/album/4FRxgE6LA2UGJ5yz8diaI9) | 1:55 | 2024-01-25 |  |
-| [FΛSHION \- Speed Up](https://open.spotify.com/track/2G5YPVwlqQxlflCwTdElH3) | [Britney Manson](https://open.spotify.com/artist/7GtPtPbDC5CLNzSNxVpqaf) | [FΛSHION \(Slow + Speed Up Edit\)](https://open.spotify.com/album/35L2KnjTRZIdd91mIXgjFm) | 2:06 | 2023-11-20 |  |
+| [FΛSHION \- Speed Up](https://open.spotify.com/track/2G5YPVwlqQxlflCwTdElH3) | [Britney Manson](https://open.spotify.com/artist/7GtPtPbDC5CLNzSNxVpqaf) | [FΛSHION \(Slow + Speed Up Edit\)](https://open.spotify.com/album/35L2KnjTRZIdd91mIXgjFm) | 2:06 | 2023-11-20 | 2024-02-23 |
+| [FΛSHION \- Speed Up](https://open.spotify.com/track/7hbqhzGV5y3cxtGE1ajbpb) | [Britney Manson](https://open.spotify.com/artist/7GtPtPbDC5CLNzSNxVpqaf) | [FASHION \(Slow + Speed Up Edit\)](https://open.spotify.com/album/37UPqeHscegS52sP1AwRsr) | 2:06 | 2024-01-12 |  |
 | [GAME OVER](https://open.spotify.com/track/3tVzkAo4dmzdYxbnrWIwxM) | [ZØMB](https://open.spotify.com/artist/79NIVAOefeJgwo0QIIZ9t2), [Willix](https://open.spotify.com/artist/6xWCdgEVD3rUXv3AYA4VPj) | [GAME OVER](https://open.spotify.com/album/030Jb57zSFdga6o06m7IDu) | 1:26 | 2023-11-08 |  |
 | [garden +jersey+](https://open.spotify.com/track/6C1zDj14LtTSbkhLOas9ha) | [CactusTeam](https://open.spotify.com/artist/3CWlfAolH0gJigqzPafSbm), [temcandoanything](https://open.spotify.com/artist/4k7v8gQIQQDOKVIZ1nbxvI) | [garden +jersey+](https://open.spotify.com/album/3dfmxvekNvub6fZ2aaVJ7u) | 2:45 | 2023-12-08 | 2024-01-13 |
 | [get krushed!](https://open.spotify.com/track/6WG7HbmYPwUmnIryj5kQyQ) | [Mxng0](https://open.spotify.com/artist/1KoTNs0Ev2KGs7AF5lWlx3), [$hXTGUN!](https://open.spotify.com/artist/3poBLJyorpZVSaAjz6IxjM) | [get krushed!](https://open.spotify.com/album/4SSIkpqbpvk8fb5zvC2Xpz) | 1:28 | 2024-02-13 |  |

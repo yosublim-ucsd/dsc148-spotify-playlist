@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 
 > Lo nuevo y lo mejor en el estilo mariachi\. Cover: Majo Aguilar
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,400 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,405 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 99 | [PALOMA BLANCA](https://open.spotify.com/track/0qTmcxa3HhdKEH0wftscnQ) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Mariachi Divas de Cindy Shea](https://open.spotify.com/artist/3D5AzlMCW0gCYlNvFANoEd) | [Paloma Blanca](https://open.spotify.com/album/7jGwTVjD5GOy8cUQqhJpsI) | 3:53 |
 | 100 | [La Despedida](https://open.spotify.com/track/2eBECLFWzlAHqJtEJhm5Ya) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [La Despedida](https://open.spotify.com/album/1OWsLICCRxbyWTZuE3xDvk) | 2:21 |
 
-Snapshot ID: `MCwzNTU0ODIzNDkxNGE3NDg3OGQ3NThhYTViNTg4YzUyODAxOWIwNjkx`
+Snapshot ID: `MCxjNTQ4YTM3MjYzNjc3ZmZmZWQ0MTk3ZjBiM2JmM2Q5YzhiYWFmODgy`

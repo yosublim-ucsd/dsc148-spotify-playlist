@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcViPZlF2qaM.md) - [plain]
 
 > Abajo y a la izquierda.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,880 likes - 60 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,914 likes - 60 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcViPZlF2qaM.md) - [plain]
 | 59 | [Clandestino](https://open.spotify.com/track/4UlW3vi9SxRbvG8hyrJ3ju) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Clandestino](https://open.spotify.com/album/6w0NI3nCd8tlgsrtF4Vd5u) | 3:01 |
 | 60 | [Quisiera Ser](https://open.spotify.com/track/6itjS7VEETDfGW3G5bHkBA) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [Quisiera Ser](https://open.spotify.com/album/39mgkwe3kkkyIU5rbtFPS9) | 3:57 |
 
-Snapshot ID: `MCwwMjFhYTE2YmM0Y2U4MjBjMGZmZjk2ZDViMTk3ZjJlMmYxNjVkMzc4`
+Snapshot ID: `MCxjNmFiM2IxZWMxNTg4OTc4OGY3ZDc5MmU2MGZiZTIwNjBjZGFmMDI3`

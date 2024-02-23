@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: Eruca Sativa & Marilina Bertoldi
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,767 likes - 100 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,807 likes - 100 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 | 99 | [Envuelto en Llamas \- En Vivo](https://open.spotify.com/track/3RbasQvZGNBKD9UyAS33wH) | [Los Gardelitos](https://open.spotify.com/artist/1WXAndtMSMymA6qMXyvoXV) | [Sortilegio de Arrabal \(En Vivo\)](https://open.spotify.com/album/33Oh3YxKskNQSzgo9KTQtz) | 4:04 |
 | 100 | [Demonio Paraguayo \- En Vivo](https://open.spotify.com/track/66vpazTiBR7b3vIl1E9wnW) | [Los Tabaleros](https://open.spotify.com/artist/6aGMO33ETXuACXj9KfoyQg), [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Demonio Paraguayo \(En Vivo\)](https://open.spotify.com/album/3zGMwV9bHkvf4hcgUvPcdL) | 4:22 |
 
-Snapshot ID: `MCxhYWYwMDA2ZTM2MWM5MDg1M2YwMjJlNDQ4YzBkZTlhY2VjN2I5NWU5`
+Snapshot ID: `MCw2ZmNjYzQwNGE0NmYyOTNiMzMwNjkyYTQ0NWIzOGY3YjQyNTJkY2I1`

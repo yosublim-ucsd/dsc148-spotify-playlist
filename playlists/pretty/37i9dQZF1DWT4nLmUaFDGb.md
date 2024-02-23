@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLmUaFDGb.md) - [plain]
 
 > The easy listening sound of Jazz\. Cover: Norah Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 474,365 likes - 150 songs - 10 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 474,581 likes - 150 songs - 10 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLmUaFDGb.md) - [plain]
 | 149 | [I Try](https://open.spotify.com/track/4LwUtuvie7JhcBFhUKnVv1) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Stripped](https://open.spotify.com/album/4qOu8iLW8LyrX1MVm393P6) | 4:17 |
 | 150 | [Her House \(Single Edit\)](https://open.spotify.com/track/0LjwtixmXQiq2YMAzAx6FZ) | [Anna Gréta](https://open.spotify.com/artist/43v3iVtLSHdfUAYkjB4Geh) | [Her House \(Single Edit\) \[Star of Spring\]](https://open.spotify.com/album/1bWITY11LFXKlLxtf0q8fK) | 3:47 |
 
-Snapshot ID: `MCxhYmVjY2NmMGZjNDBjNGQ4M2VkMTg4ZDYxNWIxNDk1ZDY0MzUzZmJi`
+Snapshot ID: `MCw0NjUxYjMyOGZmZTVjNmY2Yzg5ZDc3OTkzMDRhMDA4YjkxMGFkZGM3`

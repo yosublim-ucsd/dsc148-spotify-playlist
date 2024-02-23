@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5eq3AONkaho.md) - [plain]
 
 > Why so serious? Get through your workday with K\-Pop\. \(내적댄스 유발 노동요와 함께 신나는 업무 & 공부시간을 보내세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,835 likes - 200 songs - 10 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,845 likes - 200 songs - 10 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5eq3AONkaho.md) - [plain]
 | 199 | [200%](https://open.spotify.com/track/6qkx0tenDglbF21CU4wa1k) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [PLAY](https://open.spotify.com/album/1eu07xRE0vQfN5et0Y3DAy) | 3:13 |
 | 200 | [Don't Call Me](https://open.spotify.com/track/462OPOKW0VMbvW9H7HIb0U) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Don't Call Me \- The 7th Album](https://open.spotify.com/album/6bfcHf3khPey88qjiiw8V3) | 3:40 |
 
-Snapshot ID: `MCw3ZGQ0NWExM2ZlNDc4OTQ5YWJlN2RmMjUwYmUyNWZjY2I3ZWNkMjQ0`
+Snapshot ID: `MCw5MDc1MTJjOGE4NTNhMDUwNDVkYTE5NWNlOWRkYTE0YjllYTM0ZDkw`

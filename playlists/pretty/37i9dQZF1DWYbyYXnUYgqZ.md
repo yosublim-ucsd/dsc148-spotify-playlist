@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbyYXnUYgqZ.md) - [plain]
 
 > Enjoy fantastic gameplay with k\-pop music! \(Cover: LE SSERAFIM\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,155 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,216 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbyYXnUYgqZ.md) - [plain]
 | 99 | [CLAP](https://open.spotify.com/track/19t5GSN3XsLB7UOsZD8Fwv) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 2ND ALBUM 'TEEN, AGE' \(2\)](https://open.spotify.com/album/5aHdNainJWMc3n2AqfiOg5) | 2:47 |
 | 100 | [Feel My Rhythm](https://open.spotify.com/track/2oBMZYteeO8DyXV9gDx6Za) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival 2022 \- Feel My Rhythm’](https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46) | 3:30 |
 
-Snapshot ID: `MCw4NGM5NjI1NWE0NTc1NDNlYzcxMGQ1OTY1NTc5MzIxY2QwNzg1NmZi`
+Snapshot ID: `MCwyNWJmZjQwOGVlYmFiYjBjMWJkZThiOTlmNmE4ODhiMGM1MjdjYzVl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9XIFQuFvzM4.md) - [plain]
 
 > Feel good with this positively timeless playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,621,122 likes - 150 songs - 8 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,621,401 likes - 150 songs - 8 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9XIFQuFvzM4.md) - [plain]
 | 149 | [Baby, You’ve Got What It Takes](https://open.spotify.com/track/1kxk1MnNnKBEQZdTrByDic) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa), [Brook Benton](https://open.spotify.com/artist/2ttm3uT0N1RN7vwKv1pQgh) | [The Complete Dinah Washington On Mercury Vol\. 6 \(1958\-1960\)](https://open.spotify.com/album/19tw1MckQmVNrGJYcCva7f) | 2:48 |
 | 150 | [River Deep \- Mountain High](https://open.spotify.com/track/19jo0UT2vqD4pNVfIqTy4R) | [Ike & Tina Turner](https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k) | [Tina!](https://open.spotify.com/album/6FkWiSUX7YAdxOlHPrIzMj) | 4:04 |
 
-Snapshot ID: `MCwzZjBlMjQwNWIxYjkwZjVmODAzMDg0MTFlYTUzNjA4Nzg5NzA2NDY5`
+Snapshot ID: `MCwyMzBiNzRiZWU4N2Y5NjhhNWE0MTQ2YjA4NGE2MGNiMDA3NjQzMjg5`

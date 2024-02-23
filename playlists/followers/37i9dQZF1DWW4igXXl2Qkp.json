@@ -1,7 +1,7 @@
 {
-  "2024-02-22": 233026,
+  "2024-02-23": 233110,
   "date_first_scraped": "2021-12-21",
-  "description": "The best new hip-hop music by independent artists and labels. Cover: tg.blk\n",
+  "description": "The best new hip-hop music by independent artists and labels. Cover: Cash Cobain\n",
   "name": "Fresh Finds Hip-Hop",
   "tracks": [
     {
@@ -75,6 +75,24 @@
       "duration_ms": 182833,
       "name": "14GRAMS",
       "url": "https://open.spotify.com/track/4sbcTN5D20TF4ouF0zPXXY"
+    },
+    {
+      "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/2TyRfC79EB7WaKP9KFMkID"
+      },
+      "artists": [
+        {
+          "name": "Lucas Home",
+          "url": "https://open.spotify.com/artist/1FfDs6OihC3kY6Vfs1p0oa"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183529,
+      "name": "17",
+      "url": "https://open.spotify.com/track/56lQAn0yjOSc4K8bJw9AiX"
     },
     {
       "album": {
@@ -423,7 +441,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 163479,
       "name": "4x4",
       "url": "https://open.spotify.com/track/4imgvYObDsh9p99YKbHhkp"
@@ -1075,7 +1093,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 111074,
       "name": "all the time",
       "url": "https://open.spotify.com/track/2gWQfBIHmiELMy5LAcvHLD"
@@ -1301,7 +1319,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 104687,
       "name": "Another Exciting Adventure",
       "url": "https://open.spotify.com/track/0BgCT9RhDcgIFHk3EhkEwx"
@@ -2515,7 +2533,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 107329,
       "name": "BING BONG",
       "url": "https://open.spotify.com/track/0tqEPec1ZeHm0R2Vvn3AXz"
@@ -3290,6 +3308,24 @@
     },
     {
       "album": {
+        "name": "BUDGET",
+        "url": "https://open.spotify.com/album/3BkEkvqfE4N6zUfXkjI3UN"
+      },
+      "artists": [
+        {
+          "name": "Tony E",
+          "url": "https://open.spotify.com/artist/6HosMylJ8OOPt9UY7uoDzC"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81356,
+      "name": "BUDGET",
+      "url": "https://open.spotify.com/track/4N6ESeX0vjibdTU7vlsjM8"
+    },
+    {
+      "album": {
         "name": "Bum Chick",
         "url": "https://open.spotify.com/album/6BkxAlUwMowAj56vfYdeIx"
       },
@@ -3809,6 +3845,24 @@
       "duration_ms": 181093,
       "name": "Chai Tea",
       "url": "https://open.spotify.com/track/1cHS4it8xBktU41emC2yRk"
+    },
+    {
+      "album": {
+        "name": "SUPER BOSS!",
+        "url": "https://open.spotify.com/album/6XE8fbG2z1OE5uF4OxWLIM"
+      },
+      "artists": [
+        {
+          "name": "Bear1Boss",
+          "url": "https://open.spotify.com/artist/6Cd6nNgWZWZrlfrc4q0qJD"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173847,
+      "name": "chanel adventure",
+      "url": "https://open.spotify.com/track/1RTK2ijClmWK5KACcMQou6"
     },
     {
       "album": {
@@ -6658,6 +6712,24 @@
     },
     {
       "album": {
+        "name": "Lovers & Friends (Deluxe)",
+        "url": "https://open.spotify.com/album/0giPLwNlEMmok6u3QWcjBW"
+      },
+      "artists": [
+        {
+          "name": "Vontee the Singer",
+          "url": "https://open.spotify.com/artist/0f2wqzUtXEyqDUHwLxc57a"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170126,
+      "name": "For Us",
+      "url": "https://open.spotify.com/track/4PZInlAe9norwHBqjZGZTV"
+    },
+    {
+      "album": {
         "name": "Foreigns & Trackhawks",
         "url": "https://open.spotify.com/album/7GgC2L1qY2y3twExhtYYK2"
       },
@@ -6741,7 +6813,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 157847,
       "name": "Free My Mind",
       "url": "https://open.spotify.com/track/00ZSsUUJXQMJSjgTxOHvzr"
@@ -7333,6 +7405,24 @@
       "duration_ms": 149237,
       "name": "Gifted",
       "url": "https://open.spotify.com/track/54Xc1XEgM7PQICYfgQsgt4"
+    },
+    {
+      "album": {
+        "name": "gin and wine (ginuwine)",
+        "url": "https://open.spotify.com/album/3JwhKO0Pw10XKRlgFC9PL0"
+      },
+      "artists": [
+        {
+          "name": "tg.blk",
+          "url": "https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129473,
+      "name": "gin and wine (ginuwine)",
+      "url": "https://open.spotify.com/track/33u4lROskD2GSckbtsjCVI"
     },
     {
       "album": {
@@ -9729,7 +9819,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 139383,
       "name": "lady friends",
       "url": "https://open.spotify.com/track/0T05M1a3xbk075YSktB8lY"
@@ -9921,6 +10011,24 @@
       "duration_ms": 151123,
       "name": "Lesson Learned",
       "url": "https://open.spotify.com/track/3rahkSYrtJdTqUVK9NiHt0"
+    },
+    {
+      "album": {
+        "name": "Let It Spill",
+        "url": "https://open.spotify.com/album/7FhDdG4tAMqSgbHhOMKFJI"
+      },
+      "artists": [
+        {
+          "name": "Al-Doms",
+          "url": "https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166752,
+      "name": "Let It Spill",
+      "url": "https://open.spotify.com/track/24HA9VkORFLt98zdbG6Lvu"
     },
     {
       "album": {
@@ -10997,7 +11105,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 145020,
       "name": "Mannequin",
       "url": "https://open.spotify.com/track/3MPdPrAI2rKY5uY9qbSOtm"
@@ -11197,6 +11305,28 @@
       "duration_ms": 172312,
       "name": "MEMBERS ONLY",
       "url": "https://open.spotify.com/track/42vA9mnbdPzKuIM7FvqlLu"
+    },
+    {
+      "album": {
+        "name": "Mezcal",
+        "url": "https://open.spotify.com/album/4BBm6gvcVGugMTWvEYADAG"
+      },
+      "artists": [
+        {
+          "name": "Wahid",
+          "url": "https://open.spotify.com/artist/1kiX1oBF90ZSWJoXSiFy8x"
+        },
+        {
+          "name": "AYAANA",
+          "url": "https://open.spotify.com/artist/3CrZPG2FQLfFFr2igkLj3x"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193839,
+      "name": "Mezcal",
+      "url": "https://open.spotify.com/track/15XLcTTlCw1CcbLTMWrKD1"
     },
     {
       "album": {
@@ -17499,7 +17629,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 121086,
       "name": "Teardrops",
       "url": "https://open.spotify.com/track/2gwjXncE30Iolz0QW6eO5W"

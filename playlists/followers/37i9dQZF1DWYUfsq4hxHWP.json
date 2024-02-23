@@ -1,5 +1,5 @@
 {
-  "2024-02-22": 82037,
+  "2024-02-23": 82097,
   "date_first_scraped": "2022-01-02",
   "description": "Fresh country music by independent artists every Wednesday. Cover: Mike Parker, Artwork: Fan\u00e9lie Muselier\n",
   "name": "Fresh Finds Country",
@@ -1467,6 +1467,24 @@
       "duration_ms": 177085,
       "name": "All to Yourself",
       "url": "https://open.spotify.com/track/1qHzMKegbX2x2mi9n7mhP1"
+    },
+    {
+      "album": {
+        "name": "Almost Knowing You",
+        "url": "https://open.spotify.com/album/1VqcLHl7cECiJWETxifS1D"
+      },
+      "artists": [
+        {
+          "name": "Drew Taylor",
+          "url": "https://open.spotify.com/artist/1GKwNMj52B71ScmvryXrRH"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216800,
+      "name": "Almost Knowing You",
+      "url": "https://open.spotify.com/track/2SE1tQEFlT7rPHH4xoHDmj"
     },
     {
       "album": {
@@ -4087,6 +4105,24 @@
     {
       "album": {
         "name": "Bless Your Heart",
+        "url": "https://open.spotify.com/album/19zD01caEU9VGY3N6HmP5n"
+      },
+      "artists": [
+        {
+          "name": "Callista Clark",
+          "url": "https://open.spotify.com/artist/5aizOVB0aFinBgezLPkhnm"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196797,
+      "name": "Bless Your Heart",
+      "url": "https://open.spotify.com/track/2yMb4xvIW5r7mji09NikXW"
+    },
+    {
+      "album": {
+        "name": "Bless Your Heart",
         "url": "https://open.spotify.com/album/1w7pBVbAS2EaxDtIrDXeL3"
       },
       "artists": [
@@ -4263,6 +4299,24 @@
       "duration_ms": 175065,
       "name": "Blue Jean Masterpiece",
       "url": "https://open.spotify.com/track/27vFxHgbfyhmyQO0BOEYW4"
+    },
+    {
+      "album": {
+        "name": "Blue Skies Beautiful",
+        "url": "https://open.spotify.com/album/1S8BICiaIjlXUEwpUha668"
+      },
+      "artists": [
+        {
+          "name": "Brian Fuller",
+          "url": "https://open.spotify.com/artist/6ZjMXOSg14nfZFUDJ6mQRo"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216646,
+      "name": "Blue Skies Beautiful",
+      "url": "https://open.spotify.com/track/39j2eJDZPXdi2j4szeT4RA"
     },
     {
       "album": {
@@ -4893,6 +4947,24 @@
       "duration_ms": 165340,
       "name": "Breakin' In This Broken Heart",
       "url": "https://open.spotify.com/track/3QZGYFaDDvR6O27DsOAHAb"
+    },
+    {
+      "album": {
+        "name": "Breaking Down",
+        "url": "https://open.spotify.com/album/30g8ftwYArrz7Y11O741L3"
+      },
+      "artists": [
+        {
+          "name": "Kaylin Roberson",
+          "url": "https://open.spotify.com/artist/0AywuUmKBjTTsU4ZrVf7JS"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204872,
+      "name": "Breaking Down",
+      "url": "https://open.spotify.com/track/3XZUeRSjJQBltBtmNJFOod"
     },
     {
       "album": {
@@ -6665,7 +6737,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 219296,
       "name": "Closure",
       "url": "https://open.spotify.com/track/0UjKHm78zqd802cfMAboFf"
@@ -9929,7 +10001,7 @@
       ],
       "date_added": "2023-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 232121,
       "name": "Drunk Thoughts",
       "url": "https://open.spotify.com/track/36Ce9rY7vQsoToPVXvoJfk"
@@ -13279,7 +13351,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 156081,
       "name": "Good On You",
       "url": "https://open.spotify.com/track/5EY8kdEyyGf9Lx0bBGUGZa"
@@ -14407,7 +14479,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 181588,
       "name": "He Would",
       "url": "https://open.spotify.com/track/7jmY6aLK1LKugWvukQANlS"
@@ -14537,6 +14609,24 @@
       "duration_ms": 158235,
       "name": "Heart Ain't Gonna Break Itself",
       "url": "https://open.spotify.com/track/7eEgQXDglOtRow46n0bcbh"
+    },
+    {
+      "album": {
+        "name": "Heart Don't Break Itself",
+        "url": "https://open.spotify.com/album/261hTUQVbY7FIT45S6qr2I"
+      },
+      "artists": [
+        {
+          "name": "Clayton Mullen",
+          "url": "https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170696,
+      "name": "Heart Don't Break Itself",
+      "url": "https://open.spotify.com/track/4Xp2gukjRTmt3Ww81sdihf"
     },
     {
       "album": {
@@ -14951,7 +15041,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 175904,
       "name": "hell i shouldn't",
       "url": "https://open.spotify.com/track/3xLtGnb1b8986WByonjZd9"
@@ -20946,6 +21036,24 @@
     },
     {
       "album": {
+        "name": "Long Haired Country Boy",
+        "url": "https://open.spotify.com/album/44qMY63UMTsktH2B4NWnpe"
+      },
+      "artists": [
+        {
+          "name": "Reid Haughton",
+          "url": "https://open.spotify.com/artist/3AsWY8Eeph8IIAD8twJL2l"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323315,
+      "name": "Long Haired Country Boy",
+      "url": "https://open.spotify.com/track/1RojBUomor7A7lHEbkAlbR"
+    },
+    {
+      "album": {
         "name": "Game Ball",
         "url": "https://open.spotify.com/album/46Q9U0uXa08J6ZgZmUcIx9"
       },
@@ -25097,7 +25205,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 184786,
       "name": "One More Hangover",
       "url": "https://open.spotify.com/track/1TDBzKLBoJqEpoZLtqwp8f"
@@ -26323,7 +26431,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 220800,
       "name": "prayed harder",
       "url": "https://open.spotify.com/track/0bo2f25d9EiwWJER7oMLrG"
@@ -26683,7 +26791,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 180133,
       "name": "Ran Out of Road",
       "url": "https://open.spotify.com/track/3lRXyRwGTL3FnaYCNGYjAm"
@@ -29734,6 +29842,24 @@
     },
     {
       "album": {
+        "name": "three twenty four",
+        "url": "https://open.spotify.com/album/1KTvTGon7YPfnAAEGnSHBc"
+      },
+      "artists": [
+        {
+          "name": "Ole 60",
+          "url": "https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189048,
+      "name": "smoke & a light",
+      "url": "https://open.spotify.com/track/1QvDl9tBq6PsMVE7Bf2ZOV"
+    },
+    {
+      "album": {
         "name": "Smoke in the Rain",
         "url": "https://open.spotify.com/album/31FqEDZgJZrMXKE2KumzHY"
       },
@@ -30527,7 +30653,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 217746,
       "name": "Sometimes I Forget",
       "url": "https://open.spotify.com/track/7yfpq3klp4u0Dnq050Bqpa"
@@ -30923,7 +31049,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 175671,
       "name": "Stay",
       "url": "https://open.spotify.com/track/41uS75lnqpIfyYA9haYNsc"
@@ -34554,6 +34680,24 @@
     },
     {
       "album": {
+        "name": "Tonight Ain't The Day",
+        "url": "https://open.spotify.com/album/4cdLbs8YQfeMvr1OKQQV0n"
+      },
+      "artists": [
+        {
+          "name": "Steven Champion",
+          "url": "https://open.spotify.com/artist/6q1g9kegyUqBXcoxDBulA6"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191874,
+      "name": "Tonight Ain't The Day",
+      "url": "https://open.spotify.com/track/74QLeZ1c4Obi1uza5kpzUV"
+    },
+    {
+      "album": {
         "name": "Too Fast For This Town",
         "url": "https://open.spotify.com/album/1dWdxtnvezbJlhGbyUGFo6"
       },
@@ -35512,6 +35656,24 @@
     },
     {
       "album": {
+        "name": "Waging War",
+        "url": "https://open.spotify.com/album/74Syb2oEmqiXOuh1u8gRcd"
+      },
+      "artists": [
+        {
+          "name": "Aidan Canfield",
+          "url": "https://open.spotify.com/artist/2ioXm53iT5CaTN1ymEv3Yw"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241534,
+      "name": "Waging War",
+      "url": "https://open.spotify.com/track/2WPzVbrJIM6oOUAvF9q64Q"
+    },
+    {
+      "album": {
         "name": "Wait On You",
         "url": "https://open.spotify.com/album/5os2gq7OO3CJWwTdrczrVm"
       },
@@ -36151,6 +36313,24 @@
       "duration_ms": 187093,
       "name": "What Good Am I",
       "url": "https://open.spotify.com/track/3deBlWezHSXvdYJP3zPYKH"
+    },
+    {
+      "album": {
+        "name": "What Happens Now?",
+        "url": "https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153070,
+      "name": "What Happens Now?",
+      "url": "https://open.spotify.com/track/6Pof690ci3aferHd9VVQwO"
     },
     {
       "album": {
@@ -37339,6 +37519,24 @@
       "duration_ms": 216809,
       "name": "Wild",
       "url": "https://open.spotify.com/track/6l3bRfHOeki9Qvwtto6gvJ"
+    },
+    {
+      "album": {
+        "name": "Wild",
+        "url": "https://open.spotify.com/album/2YzCA39PbS4Ygt1kKgFWzn"
+      },
+      "artists": [
+        {
+          "name": "David Unlayao",
+          "url": "https://open.spotify.com/artist/3OxjY9y8bls3YdSjGk7khk"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186740,
+      "name": "Wild",
+      "url": "https://open.spotify.com/track/1mwAQdUh9kDs56b9LbXBAC"
     },
     {
       "album": {

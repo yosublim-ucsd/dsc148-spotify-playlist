@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 
 > Vintage easy listening from the fifties...
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,814 likes - 80 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,830 likes - 80 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 | 79 | [Rose Marie](https://open.spotify.com/track/0DRw1YzAejMK8Qv2MAPzJl) | [Slim Whitman](https://open.spotify.com/artist/5bO7gAKKIwHwhxdsCR1UN0) | [Country Style](https://open.spotify.com/album/5e0v4FN49fj8gSgqSNMfal) | 2:24 |
 | 80 | [Hey There \- from The "Pajama Game"](https://open.spotify.com/track/6bXBU7A1e6oVoMCYNPzXoN) | [Johnnie Ray](https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq) | [16 Most Requested Songs](https://open.spotify.com/album/1MqnaRP5Mi9yN8mOis4YUM) | 2:52 |
 
-Snapshot ID: `MCwwM2FmZWJmODFmZDFmMjY5MzdlNzQ2ODMzNThmODgyNThkYzEwNTQ3`
+Snapshot ID: `MCxmOGMxODg2MzY1NDliOTRlMTA1MzA0MWY4OTI4OWQwOWNhMGJiOWFh`

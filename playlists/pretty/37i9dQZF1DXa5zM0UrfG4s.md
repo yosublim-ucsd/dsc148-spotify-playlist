@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 
 > bøgdebangers du kan spelle i kjerra!
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,449 likes - 70 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,471 likes - 70 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 69 | [Flammer og Bensin](https://open.spotify.com/track/6OxAgEwnw2mWW2e3HS7Mkz) | [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9) | [Flammer og Bensin](https://open.spotify.com/album/4gv90AccBv0Awh2ARD1WpK) | 3:32 |
 | 70 | [GUTTA \(feat\. Plumbo\)](https://open.spotify.com/track/5DXX1gqh2B9pvK042sb3mE) | [Ole Hartz](https://open.spotify.com/artist/7J8OsnJjGfG1uHd348LZPI), [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9) | [GUTTA \(feat\. Plumbo\)](https://open.spotify.com/album/1yypZTOVKtFi9Lnkb08H9x) | 2:38 |
 
-Snapshot ID: `MCxiN2I2NDJhMjA5OTZmMTA3MzdjOWNmMDFkNzEyYWFhZmQyMDM2Yzc2`
+Snapshot ID: `MCwzOGNiMWE3ZWJiOWE1MjM4YzU0ZTcyYTYxMTNhNmYzZmQ5OTEyY2Iy`

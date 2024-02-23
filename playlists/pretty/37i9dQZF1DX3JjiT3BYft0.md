@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 
 > Music from “BanG Dream! “ series! 次世代ガールズバンドプロジェクト『BanG Dream!（バンドリ！）』公式プレイリスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,066 likes - 75 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,099 likes - 75 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 | 74 | [競宴Red×Violet](https://open.spotify.com/track/2sfhkbecN4x8DkdydVZzOP) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy), [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [劇場版「BanG Dream! FILM LIVE 2nd Stage」Special Songs](https://open.spotify.com/album/2brdfEDkVMfb9UoC4rupxF) | 4:23 |
 | 75 | [Sing Alive](https://open.spotify.com/track/59TG3QLUt4mvnPKY07H5la) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [劇場版「BanG Dream! Episode of Roselia」Theme Songs Collection](https://open.spotify.com/album/5u6E8FwjrbRDYrVh0SVHlS) | 5:15 |
 
-Snapshot ID: `MCxkMDdkOGMwMGJjZGUwNTcwZDEyNmQ5YzNkNDg2Yjk1NGU1OTU4MWIw`
+Snapshot ID: `MCw5ZmIxMjU0ZTRjNTE3N2NiMTNlYzg3MzIxOGI3OGRmNjczMWU0NjE3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 
 > The classic trumpet players in Jazz\. Cover: Miles Davis
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,517 likes - 100 songs - 10 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,565 likes - 100 songs - 10 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 | 99 | [Loneliness](https://open.spotify.com/track/1SUB0RBI6008FD3K8TPXAJ) | [John Carter](https://open.spotify.com/artist/29bSP1G67IixkZAv6VhlaT), [Bobby Bradford](https://open.spotify.com/artist/3iysE3N9e6nZZ6kHUoiOCl) | [Self Determination Music](https://open.spotify.com/album/3CbtFB8aQJZJ1Q1lDxWf8K) | 9:10 |
 | 100 | [Lonely Woman \- Live](https://open.spotify.com/track/12urjp66cJaOm1xfMAFkoC) | [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin), [Don Cherry](https://open.spotify.com/artist/3uPWecBPNXAChysw1uOJwI), [Ed Blackwell](https://open.spotify.com/artist/6OyNnPUKtNrjm5QQkK0Px9) | [The Montreal Tapes \(Live\)](https://open.spotify.com/album/7yrhOwYjYhptIlD2HU6xUe) | 11:41 |
 
-Snapshot ID: `MCw0MmYzYWExYjBhN2UzODczYTQ3ZTBkZTUxNzA1ZTg4ZDRkMmU0ZjAx`
+Snapshot ID: `MCxlMjM0YzhkMTQ3MWVkODM2OWU2MGIzZDI2ODQ0ODIyOWYwZWRjM2M4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NBorsTLJKk.md) - [plain]
 
 > 天空灰灰的、到處溼淋淋的，我們聽歌就好，先不要去感覺那些事。
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,093 likes - 75 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,101 likes - 75 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NBorsTLJKk.md) - [plain]
 | 74 | [冬季到台北來看雨](https://open.spotify.com/track/5wcl9XKeA9JlQ90w1yd3wO) | [孟庭葦](https://open.spotify.com/artist/2Ovp3J8JzCirwcGAgvK9cQ) | [孟庭葦鑽石精選集](https://open.spotify.com/album/17pP3yyViksj87gwX8kICu) | 5:04 |
 | 75 | [雨不停](https://open.spotify.com/track/7ARryPCDXBDHptuCjqaxYf) | [陳思函](https://open.spotify.com/artist/6VOX2zlsFiZDHICYEy3oRD) | [寄居蟹](https://open.spotify.com/album/6Ph7NAFao76ppkg9FpDi6f) | 4:44 |
 
-Snapshot ID: `MCw0MjFjODY2YjQwNTRiODZiODNhYmU0OTI5NWI2OWIyM2Q3NDliMzMy`
+Snapshot ID: `MCw2M2IxNDIzNzQ3NWQ2ZWMxNzIwODQ2ODdjMGE2M2FmMTUzZDJlMWE3`

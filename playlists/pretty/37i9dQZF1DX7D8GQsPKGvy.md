@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7D8GQsPKGvy.md) - [plain]
 
 > Remixed hits from the past.
 
-[Spotify](https://open.spotify.com/user/spotify) - 825,739 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 826,223 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7D8GQsPKGvy.md) - [plain]
 | 99 | [So Am I \- Steve Void Dance Remix](https://open.spotify.com/track/3Hkv6ag5Yr1Z7nbxMPPj4B) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F), [Steve Void](https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt) | [So Am I \(The Remixes\)](https://open.spotify.com/album/6KhCN8NyJwcg0FDSAJF4ja) | 3:07 |
 | 100 | [Giant \(with Rag'n'Bone Man\) \- Robin Schulz Remix](https://open.spotify.com/track/7kLWq3Z9XSs8cHTLB9nl0w) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Giant \(with Rag'n'Bone Man\) \[Remixes\]](https://open.spotify.com/album/1z9yyq4FAPSplsvP7hvwWw) | 3:13 |
 
-Snapshot ID: `MCxmMzMwNGFiODMxNzViZDZmZmY0NThiNjFkNjk5OWEyNWU3YTM2OGRk`
+Snapshot ID: `MCwwOWMzM2ZhNzg5NTAzMDZlN2FhMjUxMzlhY2QyYjRhMWVhNjQzNWE1`

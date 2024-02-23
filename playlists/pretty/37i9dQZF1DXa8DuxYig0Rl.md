@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8DuxYig0Rl.md) - [plain]
 
 > Tropical y refrescante\. Con todo el sabor y tradición de México.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,101 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,629 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8DuxYig0Rl.md) - [plain]
 | 99 | [Botecito de Vela](https://open.spotify.com/track/40Ji4lCHW8hBRjT8VPtzSw) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [Mis 30 Mejores Canciones](https://open.spotify.com/album/2aQzF1ccueoLiIzMpKDyYa) | 3:04 |
 | 100 | [Mambo Universitario](https://open.spotify.com/track/32xH84FLeD1lEuePV242FO) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Lo Mejor De Lo Mejor](https://open.spotify.com/album/0xWIbLx7asBb35NBNNBHed) | 2:27 |
 
-Snapshot ID: `MCxiYmEyYmY1YjgyNDMxNmY3ZDYwYzY3YjU3YjdkNTBhMmU2ZmMyY2Uw`
+Snapshot ID: `MCw0YTQwNDQ2YjE1M2EzMmJiYWYwYWMwZTUzM2ExMGY1NDYyMThmNzZk`

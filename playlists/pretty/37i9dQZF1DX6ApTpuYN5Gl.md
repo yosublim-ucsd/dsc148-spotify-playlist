@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ApTpuYN5Gl.md) - [plain]
 
 > sad beats\. deep vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,530 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,578 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ApTpuYN5Gl.md) - [plain]
 | 45 | [Eyes](https://open.spotify.com/track/5TL0AtDGqqAN5djwMTm7RV) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Eyes](https://open.spotify.com/album/43ZD81KI1vdDZiPoKedtQA) | 4:17 |
 | 46 | [Howl](https://open.spotify.com/track/1PYUkeWwnAckQwOShEOyQy) | [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [Howl](https://open.spotify.com/album/3N8N2qIQa4UhkjW8SrCcoQ) | 3:12 |
 | 47 | [Goodbye](https://open.spotify.com/track/3vzBf1egEjRliBlnIJTW1T) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [Sam Welch](https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K) | [Goodbye](https://open.spotify.com/album/7zA83f7raZgu5ve9msmeLH) | 2:57 |
-| 48 | [All In My Head](https://open.spotify.com/track/0bTcsfvvELwAupgm0DxhjK) | [BKAYE](https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9) | [All In My Head](https://open.spotify.com/album/5XOshXQLbsax7zxKwMYS3F) | 2:33 |
+| 48 | [All In My Head](https://open.spotify.com/track/0bTcsfvvELwAupgm0DxhjK) | [BKAYE](https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9), [Aria Ohlsson](https://open.spotify.com/artist/4hFc1FC8qA7XFF1XrTwlsJ) | [All In My Head](https://open.spotify.com/album/5XOshXQLbsax7zxKwMYS3F) | 2:33 |
 | 49 | [New Fires](https://open.spotify.com/track/6I7nESv5d9zf9DcEA9I25u) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [New Fires](https://open.spotify.com/album/20brpiEt6JIbhmmHqF7Fjj) | 4:11 |
 | 50 | [NO SKIN](https://open.spotify.com/track/0ObzkSnoXbfcJxOjwG09u0) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW), [Frameworks](https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP) | [NO SKIN](https://open.spotify.com/album/1nPrTtEBU85rcPfVwHUOyQ) | 4:38 |
 
-Snapshot ID: `MCw4MjZlYTYxZDI0ZGIwMGUzNGI4NzExMTcwZTZjMzM3Y2IzOTM3NjFl`
+Snapshot ID: `MCw0ZGNlNjRmZWY2MmQ3ZjI3ODdhMDVjY2RmOGE2YTJjNDgyOTViNTQy`

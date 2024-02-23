@@ -6,7 +6,7 @@
     "name": "James Williams",
     "url": "https://open.spotify.com/user/imathieu32"
   },
-  "snapshot_id": "NzI0NSxjZTQ3MGU5OTNlMjlhYTgzMjA2ZGQxYjI2N2E1NzhmMDcxMWJiMjgy",
+  "snapshot_id": "NzI0Nyw1ODM5MGYxOTk5YjQzYjQ2ZGYxY2U1MWNhYmMwMjM1Njg0YmEzMzBm",
   "tracks": [
     {
       "added_at": "2022-09-26 20:53:27",
@@ -3163,6 +3163,46 @@
       "duration_ms": 243664,
       "name": "Tell m\u00eb",
       "url": "https://open.spotify.com/track/1ObrUCFugAMJoXcvpggbOd"
+    },
+    {
+      "added_at": "2024-02-22 02:55:14",
+      "album": {
+        "name": "Dirty Dingy",
+        "url": "https://open.spotify.com/album/2T9pnP03f4v6XMVb1VAJcT"
+      },
+      "artists": [
+        {
+          "name": "Larry League",
+          "url": "https://open.spotify.com/artist/1s2VYzJ4Z4vFnp2yLYaLQe"
+        },
+        {
+          "name": "UnoTheActivist",
+          "url": "https://open.spotify.com/artist/0bZ9jANLkwEFVcSnHnwrpb"
+        },
+        {
+          "name": "RichPoSlim",
+          "url": "https://open.spotify.com/artist/2qY9jco1b25sKtNR3u8K8f"
+        }
+      ],
+      "duration_ms": 216183,
+      "name": "Moneybags",
+      "url": "https://open.spotify.com/track/75wojwz55E8iWfUHreFEg8"
+    },
+    {
+      "added_at": "2024-02-22 05:35:02",
+      "album": {
+        "name": "Watching Movies with the Sound Off (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3T02fCxAjApu18taJLLbyN"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 259143,
+      "name": "Objects in the Mirror",
+      "url": "https://open.spotify.com/track/64gyqTtDDel7B2NoEkOa0A"
     }
   ],
   "unique_name": "main ",

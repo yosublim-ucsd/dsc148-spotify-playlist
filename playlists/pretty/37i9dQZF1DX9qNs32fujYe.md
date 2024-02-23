@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qNs32fujYe.md) - [plain]
 
 > Heavy Metal forever \\m/ classics to brand new tracks, play it loud\. Cover: Metallica
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,211,684 likes - 200 songs - 14 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,212,139 likes - 200 songs - 14 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qNs32fujYe.md) - [plain]
 | 199 | [The Raven Child](https://open.spotify.com/track/76zg1a9DvGpEHVVQh7Yuv1) | [Avantasia](https://open.spotify.com/artist/1Ih0fEQQsy9EeAJbYEeQRa), [Hansi Kursch](https://open.spotify.com/artist/1i2HdFlSkR6lQ1ZdPAaekO), [Jorn Lande](https://open.spotify.com/artist/1hlBhTQtfsVJTgwLNpKof5) | [Moonglow](https://open.spotify.com/album/5YjtryDPR0CWnBNRowJCiC) | 11:14 |
 | 200 | [Hurt](https://open.spotify.com/track/63JMdCqEjV2cxB2DRNLn0y) | [One Desire](https://open.spotify.com/artist/1s25YudYTrIRBOSsj917K7) | [One Desire](https://open.spotify.com/album/2N2uFYwu3oGTuDtQnTi7Lo) | 5:07 |
 
-Snapshot ID: `MCwwYTgyZTZkYzg5YzdjYzQxOTQzODg5ZDY4MzY2ZjdlZmFhNDNmMjY4`
+Snapshot ID: `MCxjN2ZjZjdlZmZhOTNmMTE0Y2I5NjFlYmIyMmJhNTBjM2E4OTA0MWEw`

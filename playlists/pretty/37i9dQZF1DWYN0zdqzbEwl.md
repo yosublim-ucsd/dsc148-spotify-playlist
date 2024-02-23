@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN0zdqzbEwl.md) - [plain]
 
 > Legendarios del rock en español\. Cover: Maná
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,155,731 likes - 100 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,156,080 likes - 100 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN0zdqzbEwl.md) - [plain]
 | 99 | [La pachanga](https://open.spotify.com/track/0bIye27QbOvSrTAmCViX5O) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Lo Mejor de Vilma Palma](https://open.spotify.com/album/04ezQVYrGNcXyrBUl42NZi) | 4:41 |
 | 100 | [Si te vas...](https://open.spotify.com/track/2x59pa3xDf8hHZ4N3f5fGQ) | [Extremoduro](https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK) | [Material defectuoso](https://open.spotify.com/album/3JFryzZ2dByJ7Z2Ik2fVua) | 8:36 |
 
-Snapshot ID: `MCw4Y2U1ZjAzMDExMjliOWJmYjE1NTZiNmU2ZjA4YzY5MTI4OTlhMTYw`
+Snapshot ID: `MCxlMTVmODdhY2UxNjZhZjlmMDc5OTNmMWVjYzNlNzM5Y2VmMjA1Yzlm`

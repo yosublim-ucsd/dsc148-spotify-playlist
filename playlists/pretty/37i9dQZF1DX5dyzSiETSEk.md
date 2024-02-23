@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dyzSiETSEk.md) - [plain]
 
 > The whole family will enjoy popular hits from yesterday and today!
 
-[Spotify](https://open.spotify.com/user/spotify) - 495,868 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 495,913 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dyzSiETSEk.md) - [plain]
 | 74 | [CAN'T STOP THE FEELING! \- Film Version](https://open.spotify.com/track/4sQmCQUZcnBPaVm4dEUKv7) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Anna Kendrick](https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [James Corden](https://open.spotify.com/artist/5E17eRqSfn08FsmvNCds0P), [Zooey Deschanel](https://open.spotify.com/artist/2GEW6nJjHKAFyqnsE3TdWx), [Ron Funches](https://open.spotify.com/artist/5auLWD3XT6p3im19G2cLhP), [Caroline Hjelt](https://open.spotify.com/artist/0XF3yeiKSQF2zl5H05jfME), [Aino Jawo](https://open.spotify.com/artist/6aIcl5XVRwk32v6hc7lDyV), [Christopher Mintz\-Plasse](https://open.spotify.com/artist/32Y2h6dku6Q2wNpZjj0bHj), [Kunal Nayyar](https://open.spotify.com/artist/4po5m4plDQk01gLzTcCMfA) | [TROLLS \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7) | 3:57 |
 | 75 | [NO PROBLEM \(Feat\. Felix of Stray Kids\)](https://open.spotify.com/track/4zHvWi4iFAG45lgiN7smLC) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A), [Felix \(Stray Kids\)](https://open.spotify.com/artist/40zyx4iztMjRbIIoI802r4) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 3:16 |
 
-Snapshot ID: `MCxiN2FmYzZhNWI2MWRiOTM0N2MxMDRlNjJkM2Q2ZjNiYjZiYzE1NGE4`
+Snapshot ID: `MCwwOWY4ODE2YWIwYzFjODY3ODU1MTcyYmQ4NzA0MzU0NTAwYmVjNTg2`

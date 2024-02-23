@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9C4CKFyPkcc.md) - [plain]
 
 > Enjoy the holidays with this fresh mix of new and classic Christmas songs!
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,154 likes - 150 songs - 9 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,143 likes - 150 songs - 9 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9C4CKFyPkcc.md) - [plain]
 | 149 | [Little Drummer Boy](https://open.spotify.com/track/24aU7xjRrQPYiH0GwkUvFa) | [Jordan Hart](https://open.spotify.com/artist/2NuHJNDBd9Vq4k09qrXibo), [Emily Schultz](https://open.spotify.com/artist/1QxBK9B8Dzq72wd4f5Nlba) | [Little Drummer Boy](https://open.spotify.com/album/78azCxU0zgCpkQKSpVX35m) | 3:05 |
 | 150 | [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/1d9d2mvsKvUro1XB7HJ0gt) | [Caleb Collins](https://open.spotify.com/artist/7yJDmdXvSih9XGh8alDSfB) | [Christmas](https://open.spotify.com/album/18vGLMKM03hxzNRxvkuMMY) | 4:05 |
 
-Snapshot ID: `MCwzNjVmNjA1ZDg2YzBmMmE4MTQwOTJkNTc0NzZmYzAzODY5YzAxNTZh`
+Snapshot ID: `MCw1MDM3ZDI4MjIwNzlmNmMxY2Q3NjQ3MWU5ZDAyZDgxMTA2YTNhNWRi`

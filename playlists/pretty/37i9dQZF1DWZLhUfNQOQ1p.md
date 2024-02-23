@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 
 > Musica da ascoltare con un drink in mano\. 🍹
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,776 likes - 100 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,789 likes - 100 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 99 | [Stay With You \- Radio Version](https://open.spotify.com/track/2qESnrso3J1Ac18AnzHsIj) | [Lemon Jelly](https://open.spotify.com/artist/5uh8Bhewltd8j0TLZjNImc) | [Stay With You](https://open.spotify.com/album/3ilTdY5iIS2IF6mSUooZ1G) | 3:12 |
 | 100 | [The Shit Baby](https://open.spotify.com/track/77u4D7eaO0T6zVby7kybyP) | [Omar S](https://open.spotify.com/artist/3BvWiyLcyLMoOIm2U8HepI), [D Taylor](https://open.spotify.com/artist/5T3UHLFXGCs6i2EmnYMo5I) | [Thank You for Letting Me Be Myself](https://open.spotify.com/album/4F2e3QOG2AqIIu8XxTIRGi) | 6:53 |
 
-Snapshot ID: `MCxmNzc5YzllZjNkNzZkY2M2ODliNTYyMmUwNjUyNDJjNzM2NDE0MjY3`
+Snapshot ID: `MCw4ODNhOGQyOTU5NTJhNmYxOTVjZWRjMjY5MGE5ZTM4MTNmYTE2MWQx`

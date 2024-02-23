@@ -1,5 +1,5 @@
 {
-  "2024-02-22": 4204,
+  "2024-02-23": 4206,
   "date_first_scraped": "2023-07-04",
   "description": "bringing you all things house!! follow me on tour <a href=\"http://www.instagram.com/curbi\">here</a> and don't forget to <a href=\"https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT\">follow my artist profile</a>..",
   "name": "ALL THINGS HOUSE - CURBI PRESENTS",
@@ -861,7 +861,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 160000,
       "name": "Get Down",
       "url": "https://open.spotify.com/track/0RNhZ7qXfkzCjxmwDjqP5Q"
@@ -1756,6 +1756,28 @@
     },
     {
       "album": {
+        "name": "More Life",
+        "url": "https://open.spotify.com/album/0rIMrd4kixZrTdielNS0xO"
+      },
+      "artists": [
+        {
+          "name": "DJEAU",
+          "url": "https://open.spotify.com/artist/6lgOrCkQMcx7hEW0FxZ2rA"
+        },
+        {
+          "name": "Alleck",
+          "url": "https://open.spotify.com/artist/78147I8H3BkadozjPsWbu9"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156190,
+      "name": "More Life",
+      "url": "https://open.spotify.com/track/6j3cKIuwYzxWmfADBhIVG1"
+    },
+    {
+      "album": {
         "name": "More Than A Stranger",
         "url": "https://open.spotify.com/album/3CtTMTP1NGNXVf6ZUBDAfa"
       },
@@ -1935,7 +1957,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 194072,
       "name": "Once Again",
       "url": "https://open.spotify.com/track/1xlflYpC5NkXEHkWLUCzor"
@@ -2335,7 +2357,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 163369,
       "name": "RUSH",
       "url": "https://open.spotify.com/track/4BIpVhPALiMEUpSdmIitol"

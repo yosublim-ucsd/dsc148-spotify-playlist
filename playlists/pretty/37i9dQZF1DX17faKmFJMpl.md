@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 
 > 한국 힙합의 뿌리, 올드스쿨 한국 힙합을 만나보세요\. \(커버: Tiger JK\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,466 likes - 100 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,475 likes - 100 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 | 99 | [Dice](https://open.spotify.com/track/5aHQ4PvKTjs5thoKbGGium) | [MP Hip Hop](https://open.spotify.com/artist/0idGZ7ZTiHgiTxQRE9bQUo) | [MP Hip Hop 2000 CHO \(Remastered\)](https://open.spotify.com/album/3wjbQMnYUtj5Dh8Wh7qF4n) | 4:15 |
 | 100 | [I Don't Give a F\*\*k \(With DEADP, DEEPFLOW\)](https://open.spotify.com/track/5JLuYzihQrbSUChde9wCFn) | [DEADP](https://open.spotify.com/artist/3hk800Fb8F8IQe1WfFGT1w), [DEEPFLOW](https://open.spotify.com/artist/4E7PyG6Vo26X1I9qURf45z), [Nastyz](https://open.spotify.com/artist/7i3DzAwRJW84LWLHGjzY6g) | [One Nation](https://open.spotify.com/album/6lspY215eSyzOThJHq0WFq) | 3:48 |
 
-Snapshot ID: `MCwyMTNlMWY2MjM5YmRhZDQ5NGQ1M2Y1ZjJkMTUxOWRlZjA1OTcwYmYw`
+Snapshot ID: `MCxkNzdmM2FjNjNlOTZhOGM1MzJhNDVlMWY4MzM1ZmZjNTJhYWMxZjY2`

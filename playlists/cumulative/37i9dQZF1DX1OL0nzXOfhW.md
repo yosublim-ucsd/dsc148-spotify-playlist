@@ -2,9 +2,9 @@
 
 ### [RADAR HK](https://open.spotify.com/playlist/37i9dQZF1DX1OL0nzXOfhW)
 
-> 持續發掘世一超新聲！
+> 持續發掘世一超新聲！Cover: KALAI 家麗
 
-163 songs - 9 hr 31 min
+164 songs - 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [L\-O\-V\-E](https://open.spotify.com/track/16t8e2uj33zEgLCFMITC8P) | [DEREK DALI](https://open.spotify.com/artist/6ysBnLN6adcJ61Icq0KFk6) | [L\-O\-V\-E](https://open.spotify.com/album/4OCkp5uGvoBYHAegskOy8C) | 3:00 | 2023-09-15 |  |
 | [lately](https://open.spotify.com/track/0xEpNvwICCpdZU6i2h0GUr) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [lately](https://open.spotify.com/album/69k19hsB1YmW23a7Z5fHqf) | 2:50 | 2022-05-26 | 2023-04-14 |
 | [Letter](https://open.spotify.com/track/2lbvrvkQz9KBViH9DqIHh3) | [盧華](https://open.spotify.com/artist/02bKj9c6JChnTRQN6vy6YQ) | [Letter](https://open.spotify.com/album/4FHTXsdIaOURNZksJ5OduD) | 2:52 | 2022-11-10 |  |
+| [Like A Fool](https://open.spotify.com/track/74KUVmTg0RB1lqyfNIRN2Z) | [KALAI 家麗](https://open.spotify.com/artist/1TwAmYMVhBwnBdNVKCHsOT) | [Like A Fool](https://open.spotify.com/album/6aSI7yKwnsDDr6JL0oSZud) | 2:24 | 2024-02-22 |  |
 | [Like a moth to a flame](https://open.spotify.com/track/3cOKFEcuKcOz1DkVqcdLCu) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [Like a moth to a flame](https://open.spotify.com/album/4icgEpwdhmocUOOqL9wtC6) | 3:23 | 2022-05-26 | 2023-03-31 |
 | [Like a Moth to a Flame](https://open.spotify.com/track/48f7hMtjsoO2Wty4dRpVi2) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [Like a Moth to a Flame](https://open.spotify.com/album/44iWUmlmDwVNO8ACGDaCLW) | 3:23 | 2023-03-30 | 2023-04-14 |
 | [LILITH](https://open.spotify.com/track/0dkgpByFaFUSMbr7k8PqXn) | [LilithQueenB](https://open.spotify.com/artist/63omHXed38Mlx1DyIlSP3m) | [LILITH](https://open.spotify.com/album/1E4Hklni81g0ec5DSoR14j) | 3:15 | 2023-04-13 |  |

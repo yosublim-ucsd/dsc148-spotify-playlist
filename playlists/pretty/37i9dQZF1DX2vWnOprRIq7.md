@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vWnOprRIq7.md) - [plain]
 
 > El lado fluorescente del indie latino featuring Juan Baro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,436 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,435 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vWnOprRIq7.md) - [plain]
 | 99 | [fotosíntesis](https://open.spotify.com/track/6Z161cZhRgJLlmdyLoWyBd) | [los romances](https://open.spotify.com/artist/7srAOn17fO00nYRZiJkH0J), [El Chacal & Los Alpes Floreados](https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey) | [fotosíntesis](https://open.spotify.com/album/4hLgPK4dCOyUaE8z6Q9AZB) | 3:07 |
 | 100 | [En Otra](https://open.spotify.com/track/180zgaUXPmRC4e58bfxLLQ) | [El Cofla](https://open.spotify.com/artist/1XavfVRANOemtSWXyUeLgk) | [En Otra](https://open.spotify.com/album/3DBDFatabl3bl9F1wd0HRC) | 2:11 |
 
-Snapshot ID: `MCxiMDM5Y2VjNWZmYWYzNDJiNDU5ZmQ1ZmRjZmE5OTNiZGY2YjY0NDQ2`
+Snapshot ID: `MCwxOGQ0MGE1ODI5OTgwNTA5MDZiN2ZlOWU2MmM3MTMyNDQ1OGFlZGUw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVw7xU7q62kt.md) - [plain]
 
 > Beats with a flavour of Jazz\. Cover: Blue Lab Beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,379 likes - 150 songs - 8 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,472 likes - 150 songs - 8 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -157,6 +157,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVw7xU7q62kt.md) - [plain]
 | 147 | [Dusty](https://open.spotify.com/track/6mNXITyQm2fVWL0zc08YYD) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u) | [Dusty](https://open.spotify.com/album/5AuHEai8Ic7ZjJKCJDYVj9) | 3:11 |
 | 148 | [Futuristic Earth](https://open.spotify.com/track/53crbk8yg8EblYm5WVtp9t) | [The Stance Brothers](https://open.spotify.com/artist/1AEh6OX55KCjPJX0Lzkjy1) | [Futuristic Earth](https://open.spotify.com/album/65B4vUhJSJ8ZqVpszxFJ2h) | 3:29 |
 | 149 | [Watten Koma](https://open.spotify.com/track/7mBrEy4wcd9qgeRxFbeM0l) | [Koma Saxo](https://open.spotify.com/artist/28Ua0GwMz73dcNeUZIXDq8), [Petter Eldh](https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx) | [Watten Koma](https://open.spotify.com/album/27iTKwjCTjPHgWEqBUMGxM) | 2:15 |
-| 150 | [Sista Dansen](https://open.spotify.com/track/16v3ccysk9vpIFZu6qzNWm) | [Koma Saxo](https://open.spotify.com/artist/28Ua0GwMz73dcNeUZIXDq8), [Petter Eldh](https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx) | [Post Koma](https://open.spotify.com/album/0Kg10FOiXQVIsBAoMRhzLh) | 2:17 |
+| 150 | [Oyster Jam](https://open.spotify.com/track/1uUig8GbfDdTSkyKzUnGre) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [Levi Hayes](https://open.spotify.com/artist/1W84rz8zMui22NIJufLweu) | [Oyster Jam](https://open.spotify.com/album/33ck38114QxEyYRCdZuS1b) | 2:37 |
 
-Snapshot ID: `MCw5Yzg0NTBlZDZjOTM0Mjg3OGU2YjQyNmVhYjY2M2Y0NDBmMTk0NDNi`
+Snapshot ID: `MCw3ODk3Y2ViZDYxZDBlMjliNDkwNmU3ODE4M2UxMTA1M2NlMDY2Yzgz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 
 > New takes on old classics!
 
-[Spotify](https://open.spotify.com/user/spotify) - 409,919 likes - 360 songs - 15 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 409,992 likes - 360 songs - 15 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 | 94 | [Where Are You Now](https://open.spotify.com/track/14OuguybiShYioJqwjWbD2) | [OFF TOPIC](https://open.spotify.com/artist/2EkCbvLgEkaVCsie6LIEoF) | [Where Are You Now](https://open.spotify.com/album/1u9FGDj73bD36rQfGgZoO2) | 2:13 |
 | 95 | [Safe and Sound](https://open.spotify.com/track/2y7kOkrZnCWXMal3vQLOcc) | [Twelve](https://open.spotify.com/artist/5WwVhFK3J7CWQn30hZ8GPb) | [Safe and Sound](https://open.spotify.com/album/1aQEawGuJlVii1fTvyfIjN) | 2:25 |
 | 96 | [Princess](https://open.spotify.com/track/74CKJFSNNqnRFtPDzANljK) | [Bodybangers](https://open.spotify.com/artist/7koJQAjVzXoUpH6pXrihXA), [Lotus](https://open.spotify.com/artist/5NgQo5enpKJsf6ohQedD6b), [MAXAM](https://open.spotify.com/artist/3dBS6HZxtKdJwcNyx9kThH) | [Princess](https://open.spotify.com/album/0uL1LBlgAw2bbOOzkSGyFK) | 2:23 |
-| 97 | [Because The Night](https://open.spotify.com/track/3nDEjp2MvXJuqtUsv8GuyQ) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [Because The Night](https://open.spotify.com/album/0Pr4CwdrkRVjEjPxqoyx1G) | 3:21 |
+| 97 | [Because The Night](https://open.spotify.com/track/3nDEjp2MvXJuqtUsv8GuyQ) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO) | [Because The Night](https://open.spotify.com/album/0Pr4CwdrkRVjEjPxqoyx1G) | 3:21 |
 | 98 | [From Paris to Berlin](https://open.spotify.com/track/5Iyd7OK9tNJmglvVUqfc3g) | [Braaheim](https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg) | [From Paris to Berlin](https://open.spotify.com/album/1R1EmM9vtg3zMk2udHeHfa) | 2:35 |
 | 99 | [Counting Stars](https://open.spotify.com/track/3Ibj9W84ge1mFktsH5k5jB) | [JANFRY](https://open.spotify.com/artist/7xPwus0kL5smgbZkwKcvw8), [Strownlex](https://open.spotify.com/artist/5VPm8zCi9khmmWLAD8W0SI) | [Counting Stars](https://open.spotify.com/album/6pP0obntRYDlVM2kUu6q1t) | 2:43 |
 | 100 | [Love Me Like You Do](https://open.spotify.com/track/1eyJ8JgKONxHBybMExqHqL) | [Robbe](https://open.spotify.com/artist/58imfUscPVwuhuHt1MpBDA), [2Hounds](https://open.spotify.com/artist/0qeQAOjEYyeV2opWZdRcU9), [Britt](https://open.spotify.com/artist/6C0GDQqkaIX35GF3rTV1U1) | [Love Me Like You Do](https://open.spotify.com/album/4u28W6V9N665YXGAuutQ0N) | 2:07 |
@@ -369,4 +369,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 | 359 | [Never Gonna Give You Up](https://open.spotify.com/track/4dJYjR2lM6SmYfLw2mnHvb) | [RadioClub](https://open.spotify.com/artist/55VEENeFJiaUCpKJQkHarb) | [Never Gonna Give You Up](https://open.spotify.com/album/5OFnJusx08l3GHN4Y9VgGj) | 2:45 |
 | 360 | [Gimme Gimme Gimme \(a man after midnight\)](https://open.spotify.com/track/0Tp3sIeg6YsqDbRyjYWNUu) | [Syzz](https://open.spotify.com/artist/5qQTwkRWNaZngwkU1CPmYJ) | [Gimme Gimme Gimme \(a man after midnight\)](https://open.spotify.com/album/11ZI2tdT8PX0k93wK434Jb) | 2:32 |
 
-Snapshot ID: `MCw0NDE4YjVmZTU2MWVlNGQzNDQ0YTZlMDAyYTA5NzM1M2MyZGUzZTBh`
+Snapshot ID: `MCxmODJiN2Y1OWY4MGIwY2E0YTg3NWMxNTZlNjc4YjU2NjZlNmNmYTVh`

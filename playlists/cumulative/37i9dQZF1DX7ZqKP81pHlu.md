@@ -4,7 +4,7 @@
 
 > Les hits algériens du moment\. Cover: Lyna Mahyem, Numidia Lezoul
 
-192 songs - 11 hr 44 min
+193 songs - 11 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [Adieu El Ouzoubia](https://open.spotify.com/track/141wlkya3OgLeIgPZNJat1) | [Bilal Sghir](https://open.spotify.com/artist/4iCrZzxACYPYcoS71DgjWW) | [Adieu El Ouzoubia](https://open.spotify.com/album/6TcDR4UqwJcPiXPThtA8pZ) | 4:02 | 2023-04-14 | 2023-05-28 |
 | [Alawah](https://open.spotify.com/track/2JcmtY1DEykgIxGJNSZtTB) | [Ihan](https://open.spotify.com/artist/0RVR0TMGf3tNszGwldUu6O), [Twelve](https://open.spotify.com/artist/5zQrcUTf7m5hTwoOdXuk6E), [Djam](https://open.spotify.com/artist/4MRARYtjkmg8TZRdtpLdPD) | [Alawah](https://open.spotify.com/album/2bkMtsolIrPNjjElDlsHgu) | 2:49 | 2023-08-16 |  |
 | [Allo](https://open.spotify.com/track/3aeCyLTeN6ypImKPtdjYjZ) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E), [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [Allo](https://open.spotify.com/album/1JcEpcqvv3IMdtcupUh0yD) | 3:15 | 2023-10-17 |  |
-| [Allo Oui](https://open.spotify.com/track/0FvnIUp3c3YRawAkprTCp6) | [Cheb Hichem TGV](https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl) | [Allo Oui](https://open.spotify.com/album/0Y98q8LciCVvefjIvkCZlR) | 3:20 | 2023-11-30 |  |
+| [Allo Oui](https://open.spotify.com/track/06r1Ea7fbuDdbNZewcySTy) | [Cheb Hichem TGV](https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl) | [Allo Oui](https://open.spotify.com/album/4VlMF9KxBExY0QXUXbtZwn) | 3:17 | 2024-02-19 |  |
+| [Allo Oui](https://open.spotify.com/track/0FvnIUp3c3YRawAkprTCp6) | [Cheb Hichem TGV](https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl) | [Allo Oui](https://open.spotify.com/album/0Y98q8LciCVvefjIvkCZlR) | 3:20 | 2023-11-30 | 2024-02-23 |
 | [Amazone](https://open.spotify.com/track/2MYKMHhMFIlmYKn05C9cV2) | [Kafon](https://open.spotify.com/artist/1g7CL458gLNv8UY3W2IFBw), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [Amazone](https://open.spotify.com/album/42rj17QXfTKr8YjAhUKZ28) | 3:20 | 2021-12-09 | 2023-02-07 |
 | [Ana & Rasi](https://open.spotify.com/track/5lEg43432gVU8BzwIJULVO) | [Islem\-23](https://open.spotify.com/artist/4fdscmamdruNB8lZ1nWrTd) | [Ana & Rasi](https://open.spotify.com/album/7F94Bil1ZSQviELlNzBtty) | 3:27 | 2021-12-09 | 2022-05-27 |
 | [Anta](https://open.spotify.com/track/3SaJambg6zRQ6MWf2pOAC9) | [Rima Yussef](https://open.spotify.com/artist/44AnhJxSH9AE3b6KpO5rZl), [Eljoee](https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7) | [Anta](https://open.spotify.com/album/4vPYDw5xJNhJwqFDDJXyfY) | 2:43 | 2022-09-01 | 2022-09-09 |

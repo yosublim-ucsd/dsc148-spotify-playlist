@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6ejV2Sv22Q.md) - [plain]
 
 > we ps xd
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,562 likes - 60 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,595 likes - 60 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6ejV2Sv22Q.md) - [plain]
 | 59 | [FATAL FANTASSY](https://open.spotify.com/track/0TZJzQCOkVtyzjOD8wzAHh) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [FATAL FANTASSY](https://open.spotify.com/album/7k4Bir5CEDU14ZzW9FsWqn) | 2:29 |
 | 60 | [Estás en Mí Pasado](https://open.spotify.com/track/6ztAOF9gzTWhF4IHW0Sclj) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Alma Vacía](https://open.spotify.com/album/4DmITPOATTsiWEWtJrPqkk) | 3:57 |
 
-Snapshot ID: `MCwwNTkzYTcwM2FlOGVlMzE5MDJiODkwYmZkMDJhMzMyM2QzMGY0Yzkw`
+Snapshot ID: `MCw3ODBjMGYzZTIyYTE3YzA1OWVlMWI2Y2FjYmQ5MzQzZmZhY2ExYjdm`

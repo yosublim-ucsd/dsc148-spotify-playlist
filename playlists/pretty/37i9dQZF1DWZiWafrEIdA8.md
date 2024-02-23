@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 
 > 한 줄, 한 줄 당신을 위로하는 가사와 따뜻한 비트.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,384 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,389 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 | 49 | [Til I Die](https://open.spotify.com/track/0hAkJkaTMKEK5KEKAm0719) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [HALO](https://open.spotify.com/album/557aGJNY6gixheNKVOs8Mi) | 3:53 |
 | 50 | [Stay Cool](https://open.spotify.com/track/2PTI0f4zBER1Rp87QnfrdS) | [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [Simon Dominic Presents \`SNL LEAGUE BEGINS\`](https://open.spotify.com/album/6MorHjwkN577QPEPBNVUp5) | 4:34 |
 
-Snapshot ID: `MCxjMjg0NzU2NTQ0YWQ5MGE0ZjI1NTA3ZDdiYTczZTZlODM1NWFmMDE5`
+Snapshot ID: `MCwwOWFlZWIzZmZiNTk1YzNjMjI3ODk0ZTA2MzU3ZjA5YWVlOGEzMWRm`

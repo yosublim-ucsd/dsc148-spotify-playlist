@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2GS0ENHpuKP.md) - [plain]
 
 > <a href="spotify:artist:77J3V0V7sEOf5ifCDBSNaJ">Nu Genea</a>'s favorite tracks\. Updated regularly\. Curated by Nu Genea\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,638 likes - 55 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,661 likes - 55 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tienaté](https://open.spotify.com/track/1SIXMGcsAeA6sNxaY1EG3O) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Bar Mediterraneo](https://open.spotify.com/album/2OeKJLLD5jcYMgJAExURqS) | 4:38 |
-| 2 | [Sabato Italiano](https://open.spotify.com/track/6yOSX613mf0t3b6kTiYSIO) | [I Coccodrilli](https://open.spotify.com/artist/5I5o3vDgR1eCtGcyW2IYZR) | [Sabato italiano](https://open.spotify.com/album/7jgBsFqhHEmuDumoqcOZiD) | 4:33 |
+| 2 | [Sabato Italiano](https://open.spotify.com/track/6yOSX613mf0t3b6kTiYSIO) | [I Coccodrilli](https://open.spotify.com/artist/5I5o3vDgR1eCtGcyW2IYZR), [Whodamanny](https://open.spotify.com/artist/2qy5mylsZfOZcHYmzrOUIY), [Milord](https://open.spotify.com/artist/3Vq6kuFglDGxatnDILEHjL) | [Sabato italiano](https://open.spotify.com/album/7jgBsFqhHEmuDumoqcOZiD) | 4:33 |
 | 3 | [Love the Way You Love Me](https://open.spotify.com/track/20pLtbIDmrm5W4bBTLGM7V) | [Marti Caine](https://open.spotify.com/artist/2Asz2q8VeIAWDPvntbntpH) | [Point of View](https://open.spotify.com/album/5GATr8v7oA1JKjBQTG7iy9) | 5:38 |
 | 4 | [Napule Canta E More](https://open.spotify.com/track/3qNtGvCC1tgeZFK9ClBz4k) | [Donatella Viggiano](https://open.spotify.com/artist/4FFwzgDJc7AaKVPYxQzwjk) | [Napoli Segreta](https://open.spotify.com/album/7wG7cketLF1ZzMAPWa2fcl) | 2:54 |
 | 5 | [Lay me down](https://open.spotify.com/track/6eg9DYfZBvIC7mFFG8bFWm) | [Renee](https://open.spotify.com/artist/340HmOr2JbZmH0a385jG52) | [Reaching for the sky](https://open.spotify.com/album/2581zQajuI7xJaQlRZO18y) | 3:53 |
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2GS0ENHpuKP.md) - [plain]
 | 38 | [Luna Lù](https://open.spotify.com/track/0vOSUXD0HooDmX1lZdc4xL) | [Antonio Sorrentino](https://open.spotify.com/artist/3bcYSJSQYuSKp5LoYD4VkM) | [Napoli Segreta Vol.2](https://open.spotify.com/album/4OFycCEd9tvzBSXGc3tVaG) | 4:33 |
 | 39 | [Femmes Pays Douces](https://open.spotify.com/track/7kOyqLYMy9H8nHWrlzYSbI) | [Raphaël Toiné](https://open.spotify.com/artist/2ddBIV2qOCQfX4lVnNZSJh) | [Ce Ta Ou / Sud Africa Révolution](https://open.spotify.com/album/2LVxgI3pFsT9qh0Di2xbx4) | 5:41 |
 | 40 | [Rebels](https://open.spotify.com/track/7KePwNA8puA4BX8unrPygx) | [Wild Fire](https://open.spotify.com/artist/3gzfJi6zhuDoEiDbzuEXEv) | [Dance Hits](https://open.spotify.com/album/4i37zBzxDyFam3nhhFeoPj) | 3:56 |
-| 41 | [Good Feelings \- Vocal](https://open.spotify.com/track/5Z03zli1WkLdm8ugrx2aZo) | [A.C\. Band](https://open.spotify.com/artist/15hKwqh8jb8LmyPIUt85od) | [Good Feelings](https://open.spotify.com/album/1UslQHT2xFWSNKiqQPuMsT) | 3:50 |
+| 41 | [Good Feelings \- Vocal](https://open.spotify.com/track/5Z03zli1WkLdm8ugrx2aZo) | [A.C\. Band](https://open.spotify.com/artist/15hKwqh8jb8LmyPIUt85od), [Mystic Jungle](https://open.spotify.com/artist/0h3E1GEycmeNQ5USViniCF), [Whodamanny](https://open.spotify.com/artist/2qy5mylsZfOZcHYmzrOUIY), [Milord](https://open.spotify.com/artist/3Vq6kuFglDGxatnDILEHjL) | [Good Feelings](https://open.spotify.com/album/1UslQHT2xFWSNKiqQPuMsT) | 3:50 |
 | 42 | [Colourful Environment](https://open.spotify.com/track/3Bmljb02L5xw4pAmzh3F00) | [Gboyega Adelaja](https://open.spotify.com/artist/3jJGeMBACa8l2IQQ2X13A5) | [Colourful Environment](https://open.spotify.com/album/7IW7Y0nWBskOvpwk75MQlV) | 5:19 |
 | 43 | [Highlife](https://open.spotify.com/track/7jAOs2vHIb2b1Qiwy7q3am) | [Gyedu\-Blay Ambolley](https://open.spotify.com/artist/3K7G8Czqv2acbaWlxFfjbj) | [Ambolley](https://open.spotify.com/album/0FNazA8xq1EuyCUTYAdCu3) | 4:59 |
 | 44 | [Yes I Know My Way \- 2021 Remaster](https://open.spotify.com/track/0HVvtZhPgnuR2Nia1x8zUX) | [Pino Daniele](https://open.spotify.com/artist/2eFv7NVs8R6Go7msuqikeg) | [Vai mo' \(2021 Remaster\)](https://open.spotify.com/album/337FIRdreM3p4irs8hrMsX) | 3:36 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2GS0ENHpuKP.md) - [plain]
 | 54 | [Il vecchiaccio](https://open.spotify.com/track/1u0uPBJx7pHVlx9L2Wcydu) | [Bruno Lauzi](https://open.spotify.com/artist/69lP1pS5aRVxgyvi0uOYbg) | [le più belle canzoni](https://open.spotify.com/album/02322HwE6b1hf200vS8dVR) | 3:45 |
 | 55 | [Lotus 72 D \- Fast Version](https://open.spotify.com/track/7rtcBPsHDLeYW9cHDrO0NB) | [Zé Roberto](https://open.spotify.com/artist/18pOC3dikx4dLs5znHrZJZ) | [Lotus 72 D](https://open.spotify.com/album/5WSJRs0TjAxxljSfLQZ2ai) | 3:00 |
 
-Snapshot ID: `MCxmYjRjMWViZWI1MDFhYmE0ZjM3NTZkN2FmYWZjOTNjZjFmOTM1OTA2`
+Snapshot ID: `MCw0ZTA5YTYwOTgxM2Y0ZjI5ZTZiZTA4ZDZlNmQ0ZTA1NWJmYzJlYjYw`

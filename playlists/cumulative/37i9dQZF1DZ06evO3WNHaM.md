@@ -4,7 +4,7 @@
 
 > This is Deftones\. The essential tracks, all in one playlist.
 
-52 songs - 3 hr 45 min
+55 songs - 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Engine No\. 9](https://open.spotify.com/track/5vVKkF3xih38Vcoo4HgAo8) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Adrenaline](https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG) | 3:24 | 2022-05-30 |  |
 | [Entombed](https://open.spotify.com/track/4bLCPfBLKlqiONo6TALTh5) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Koi No Yokan](https://open.spotify.com/album/4PIVdqvL1Rc7T7Vfsr8n8Q) | 4:59 | 2022-05-30 |  |
 | [Error](https://open.spotify.com/track/5XQPlP8yHnXz5qTjIZ10gC) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Ohms](https://open.spotify.com/album/0VEFy5MsBiq0u2lWL0OwOd) | 4:50 | 2022-05-30 |  |
+| [Feiticeira](https://open.spotify.com/track/0FpYnuKYFJXHAmHbS1CycY) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [White Pony](https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC) | 3:09 | 2024-02-22 |  |
 | [Genesis](https://open.spotify.com/track/6FfMQVzOC46ZL5byOQfUhT) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Ohms](https://open.spotify.com/album/0VEFy5MsBiq0u2lWL0OwOd) | 5:17 | 2022-05-30 |  |
 | [Hearts / Wires](https://open.spotify.com/track/1SeMnyEb5dwCBLU3QUC0K2) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Gore](https://open.spotify.com/album/3tsXyEbUQehXPaRFCS8K1n) | 5:20 | 2022-05-30 |  |
 | [Hexagram](https://open.spotify.com/track/2xgvuJvwjnaJHFHb66E3nq) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Deftones](https://open.spotify.com/album/6252G7bGCVijXlqAjtjeDP) | 4:10 | 2022-05-30 |  |
@@ -47,8 +48,10 @@
 | [One Weak](https://open.spotify.com/track/4Bj9dhsxbIwrblcmBs9BpZ) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Adrenaline](https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG) | 4:28 | 2022-05-30 |  |
 | [Passenger](https://open.spotify.com/track/7IoK6jZBxY7NMoQPoPXZCF) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [White Pony](https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC) | 6:08 | 2022-05-30 |  |
 | [Phantom Bride](https://open.spotify.com/track/33qrQEXQJg4uk6k8fZgoOa) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Gore](https://open.spotify.com/album/3tsXyEbUQehXPaRFCS8K1n) | 4:53 | 2022-05-30 |  |
+| [Please Please Please Let Me Get What I Want \- 2005 Remaster](https://open.spotify.com/track/4HpIh5wWfkq5sSuCLLSwYR) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Covers](https://open.spotify.com/album/7rLUzHOq0d0mRGGEIqKfli) | 2:04 | 2024-02-22 |  |
 | [Prayers / Triangles](https://open.spotify.com/track/0B1Iqqq8wVoXM5R5glHQES) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Gore](https://open.spotify.com/album/3tsXyEbUQehXPaRFCS8K1n) | 3:37 | 2022-06-02 | 2022-06-12 |
 | [Radiant City](https://open.spotify.com/track/33Mdiqg5G8TNeaKQHntgyU) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Ohms](https://open.spotify.com/album/0VEFy5MsBiq0u2lWL0OwOd) | 3:35 | 2022-06-05 |  |
+| [Rickets](https://open.spotify.com/track/7Ca5yTC81P0AtRnNKHKzwJ) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Around the Fur](https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu) | 2:42 | 2024-02-22 |  |
 | [Risk](https://open.spotify.com/track/0lqHgjNrXmtFroWDqwV1iQ) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Diamond Eyes](https://open.spotify.com/album/1GjjBpY2iDwSQs5bykQI5e) | 3:38 | 2022-05-30 |  |
 | [Romantic Dreams](https://open.spotify.com/track/23ZfYXdy2deoaf4u1XObHZ) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Koi No Yokan](https://open.spotify.com/album/4PIVdqvL1Rc7T7Vfsr8n8Q) | 4:38 | 2022-05-30 |  |
 | [Root](https://open.spotify.com/track/2jkZB94i573H134wKmsw2y) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Adrenaline](https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG) | 3:40 | 2022-05-30 |  |

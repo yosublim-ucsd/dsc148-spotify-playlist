@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKpHIbfDI1i.md) - [plain]
 
 > La playlist con los más grandes éxitos de nuestrxs artistas mexicanxs\. Banda MS en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 640,256 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 641,408 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKpHIbfDI1i.md) - [plain]
 | 74 | [Sin Llorar](https://open.spotify.com/track/2mZkOJx1Cvfg6cEJJ0biaS) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Sin Llorar](https://open.spotify.com/album/7xmW8wBwAeNvLnZ5IUcFUE) | 3:42 |
 | 75 | [Pudiste Pero No Quisiste](https://open.spotify.com/track/4GW1xy7yINUnuEQHaETaVC) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 3:32 |
 
-Snapshot ID: `MCxkYjc3MTQxZDRkM2I0Yjc1ZTk0NjY5Y2M1NmE3MjNjMTFlZjQ1ZDUx`
+Snapshot ID: `MCw0ODI4OGU0MzZlNGRjNzY2MGZiMzVkYjA2NTM0MjIxNzZjZGNmZjcz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 
 > Grandes vozes da música brasileira de hoje e de ontem reunidas em uma única playlist\. Foto: Gal Costa
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,872 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,886 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 99 | [Pra Te Lembrar \[Trilha da Novela Sete Vidas\]](https://open.spotify.com/track/3OE8rx6lNYxRnjCZ6wMlPs) | [Luiza Possi](https://open.spotify.com/artist/46P1tvf6evAk5wk2Rg3jOq) | [Pra Te Lembrar \[Trilha da Novela Sete Vidas\]](https://open.spotify.com/album/20RxMq4XRBg30WRqjBwTGb) | 3:38 |
 | 100 | [Varanda](https://open.spotify.com/track/6EAcX1cDiVZ1W1DIx60AT6) | [Alessandra Leão](https://open.spotify.com/artist/37m97yyap5ftH0sx3IHqno) | [Dois Cordões](https://open.spotify.com/album/5RugBXVw9vRBDEznCqrweB) | 2:55 |
 
-Snapshot ID: `MCw4ZjBjZDNkNjNiYTQxNDFlYWFmZWI0ZmNkZjVlOTExYzYzZTFmZjA0`
+Snapshot ID: `MCxjZWQxMTgzMzYzZmRkN2IzMTA0ZDBhOTJlNjgyOWM3ZWE1ZDIzZGMz`

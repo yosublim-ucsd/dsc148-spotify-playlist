@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXby9Yl80gEWW.md) - [plain]
 
 > A taste of the very best bluegrass instrumentals, classic and new.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,204 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,223 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXby9Yl80gEWW.md) - [plain]
 | 99 | [Battersea Skillet Liquor](https://open.spotify.com/track/5qHFrx1gHuDt7Mrdzq5f8F) | [Damien O'Kane](https://open.spotify.com/artist/0rDGOgOmsA1itxFEhFfZCK), [Ron Block](https://open.spotify.com/artist/3f8ULbojWlnxQqju3KELZZ) | [Banjophony](https://open.spotify.com/album/2tAEsQxW8IiEhHct29W3RW) | 4:17 |
 | 100 | [Revolution](https://open.spotify.com/track/67lThj6VkuNrRBdw7xy4nL) | [The Infamous Stringdusters](https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW) | [Toward the Fray](https://open.spotify.com/album/0L5uOzFpdnqCTWgGfUQmQ0) | 5:01 |
 
-Snapshot ID: `MCw3NjM4MGI1ZmEwNDRiMjg5YzRlY2I0OGRhMDBjMGUxOGM0ZDI5MDVk`
+Snapshot ID: `MCw4NzlhNjdkZmVkYWYzYWE1YjlmMjRjNzJmOGI5N2UwMDQ5MmU0MjVh`

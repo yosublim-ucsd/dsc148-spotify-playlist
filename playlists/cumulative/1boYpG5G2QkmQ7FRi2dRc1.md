@@ -4,7 +4,7 @@
 
 > A weekly selection of tracks that I love to listen to at home or play out at a party.
 
-1,374 songs - 3 day 15 hr 18 min
+1,376 songs - 3 day 15 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,8 @@
 | [Breach](https://open.spotify.com/track/3vSYtWxpOfhp54VGGxCZrn) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [Breach](https://open.spotify.com/album/5AHBWAHdJuIY5K6nIcHgJE) | 4:09 | 2023-07-07 | 2023-07-16 |
 | [Break Down \- Dennis Cruz Remix](https://open.spotify.com/track/1pCmhqRqwfiugXI1vtY2a5) | [Hector Couto](https://open.spotify.com/artist/4TeakFq7Xbpo0ihpTQrekM), [Rendher](https://open.spotify.com/artist/4Icdw6ZLVk2NkjIjMhJSc6), [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Break Down EP](https://open.spotify.com/album/2cYJheonNoIlqXcS9g2GIK) | 5:42 | 2024-01-21 | 2024-02-11 |
 | [Break It Down](https://open.spotify.com/track/1KY425EZEJPqgeisOplYGJ) | [RetroVision](https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS) | [Break It Down](https://open.spotify.com/album/6kR6ZW6AdWViJksGqmLzEO) | 2:41 | 2023-07-15 | 2023-07-29 |
+| [Breakaway](https://open.spotify.com/track/3g0eHwVjGYZaHooqGtKefQ) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Mesto](https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9), [WILHELM](https://open.spotify.com/artist/7g4gQKWTNj0X8BqpKpZFC0) | [Breakaway](https://open.spotify.com/album/3Qf1lsCco4UBhUZF0ydjmx) | 2:45 | 2024-02-22 |  |
+| [Breakaway \- Instrumental Mix](https://open.spotify.com/track/3NkSWP8Z2OfQaM2Ja5AYwC) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Mesto](https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9), [WILHELM](https://open.spotify.com/artist/7g4gQKWTNj0X8BqpKpZFC0) | [Breakaway](https://open.spotify.com/album/3Qf1lsCco4UBhUZF0ydjmx) | 2:46 | 2024-02-22 |  |
 | [Breathing](https://open.spotify.com/track/4h6qnP94JWzDmXLZFdRnn7) | [Twin Diplomacy](https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq), [it's murph](https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC) | [Breathing](https://open.spotify.com/album/3gFXOUnk1XYZhL3jWAsbfG) | 3:06 | 2023-01-13 | 2023-01-22 |
 | [BRING BACK THE COLOR \(feat\. AURORA\)](https://open.spotify.com/track/575i9kr1iypkCZyfJuoAlZ) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [BRING BACK THE COLOR \(feat\. AURORA\)](https://open.spotify.com/album/5F3hrGQ5xXSg7ZxNvvDUxo) | 2:48 | 2023-06-01 | 2023-06-25 |
 | [Bring The Heat](https://open.spotify.com/track/6jWloOddI8GE5qZXu7sir9) | [Leftwing : Kody](https://open.spotify.com/artist/7eYXtOjJGhrM16cK2hRmnR), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Bring The Heat](https://open.spotify.com/album/48oAYz2T9Iesq20OIMXNBK) | 2:37 | 2023-05-05 | 2023-06-02 |

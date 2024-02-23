@@ -4,7 +4,7 @@
 
 > It's a main pop girl emergency 🆘  Cover: Kim Petras
 
-809 songs - 1 day 16 hr 45 min
+810 songs - 1 day 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,7 +257,8 @@
 | [Fuck Boy](https://open.spotify.com/track/2FqWoR5iRLBgkiNKYWVebd) | [Ariana and the Rose](https://open.spotify.com/artist/5HgPIUp6b7DVdhWK3tkl83) | [Fuck Boy](https://open.spotify.com/album/7fjtP6kHOwQWLTSwBqyF5w) | 3:06 | 2022-05-20 | 2022-07-30 |
 | [Funk Rave](https://open.spotify.com/track/0nVpE03Iv9uioPSomEN5v0) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Funk Rave](https://open.spotify.com/album/0ebWdQJChnUaxvwx7BWsnu) | 2:27 | 2023-06-23 | 2023-09-23 |
 | [Funny Kind of Lonely](https://open.spotify.com/track/1ESEJCdZiNjkJc0phzyRkY) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [Drama Queen](https://open.spotify.com/album/04rxodRiaHUNMgIRitI437) | 4:06 | 2023-08-18 | 2023-09-23 |
-| [FΛSHION](https://open.spotify.com/track/4YQgOgIElFtEvwJQ9ArWL7) | [Britney Manson](https://open.spotify.com/artist/7GtPtPbDC5CLNzSNxVpqaf) | [FΛSHION](https://open.spotify.com/album/7umRaDZ9FqTaL2EWZvGMEX) | 2:26 | 2023-09-22 |  |
+| [FΛSHION](https://open.spotify.com/track/4YQgOgIElFtEvwJQ9ArWL7) | [Britney Manson](https://open.spotify.com/artist/7GtPtPbDC5CLNzSNxVpqaf) | [FΛSHION](https://open.spotify.com/album/7umRaDZ9FqTaL2EWZvGMEX) | 2:26 | 2023-09-22 | 2024-02-23 |
+| [FΛSHION](https://open.spotify.com/track/70jiETKdlLEram2zJSHdHH) | [Britney Manson](https://open.spotify.com/artist/7GtPtPbDC5CLNzSNxVpqaf) | [FΛSHION](https://open.spotify.com/album/6cKTeK2UQ55jCrJcTsDm1h) | 2:26 | 2024-02-16 |  |
 | [Gambler \- 7" Version](https://open.spotify.com/track/5j9vqiVm3Rk9rW5WFGtT27) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Gambler](https://open.spotify.com/album/5TjtrH6PXqeQJ0k67dKv5Y) | 3:51 | 2022-12-09 | 2022-12-24 |
 | [Garden](https://open.spotify.com/track/0tfdhbTzWw4S7MMG3Euw50) | [Ghita](https://open.spotify.com/artist/0oZLmVQhyT6zFb7EjpJRrR) | [Garden](https://open.spotify.com/album/5nF0rJdSzwT2V7iJKFKxtO) | 2:48 | 2023-04-07 | 2023-06-03 |
 | [GASLIGHT](https://open.spotify.com/track/7IybpxLp5E4Hs1jKbPNSKx) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [GASLIGHT](https://open.spotify.com/album/3xhS4dVY0ActRZO8tE0cGh) | 3:17 | 2022-04-15 | 2022-07-30 |

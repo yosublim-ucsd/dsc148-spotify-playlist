@@ -1,12 +1,12 @@
 {
   "description": "Indie soul that's highkey fire ",
-  "num_followers": 931758,
+  "num_followers": 931779,
   "original_name": "Lowkey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MTJjMjExY2ZiMzg3YzU0OTQ1OWQ2Njg3MWY3ZDc1NDMyYWU0MGNh",
+  "snapshot_id": "MCwxNmI0MzBlYjYxYWU4MDg1MDgwYzFkZTViZDVmMjMxNTUzNDZjNTAw",
   "tracks": [
     {
       "added_at": "2023-09-16 15:52:51",
@@ -2545,22 +2545,6 @@
       "url": "https://open.spotify.com/track/3DOYM3dncVBzg3cfTLPG87"
     },
     {
-      "added_at": "2023-02-16 15:18:53",
-      "album": {
-        "name": "LIBBIE 02",
-        "url": "https://open.spotify.com/album/4WLuz6h7LOGyRJybO2DiFD"
-      },
-      "artists": [
-        {
-          "name": "Isaia Huron",
-          "url": "https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6"
-        }
-      ],
-      "duration_ms": 153142,
-      "name": "Honeydew (02)",
-      "url": "https://open.spotify.com/track/1q8Ie915rJrzLTOPT71vUA"
-    },
-    {
       "added_at": "2023-09-16 15:52:51",
       "album": {
         "name": "Midnight Microdose, Vol. 2",
@@ -2683,6 +2667,22 @@
       "duration_ms": 182746,
       "name": "Talk about us",
       "url": "https://open.spotify.com/track/6issJt39BhQbPQK7mM7KxB"
+    },
+    {
+      "added_at": "2023-04-03 16:35:05",
+      "album": {
+        "name": "Cold Showers",
+        "url": "https://open.spotify.com/album/6yKezCicZESF7XUSD4ubrg"
+      },
+      "artists": [
+        {
+          "name": "Tia Gordon",
+          "url": "https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Cold Showers",
+      "url": "https://open.spotify.com/track/0xLIu53VONIKcPKcwtBBkd"
     }
   ],
   "unique_name": "Lowkey",

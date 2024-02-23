@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblmY5UIU3v3.md) - [plain]
 
 > The bass you need for riding low and high.
 
-[Spotify](https://open.spotify.com/user/spotify) - 377,162 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 377,497 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblmY5UIU3v3.md) - [plain]
 | 49 | [Candy Shop](https://open.spotify.com/track/1fNw8Z9NynJC5VABh2u36Z) | [BeeBars](https://open.spotify.com/artist/7b3md5axPpNqk3S71GuV62), [7vvch](https://open.spotify.com/artist/5Bahs19BH1UFW8Q6S2MCxu) | [Candy Shop](https://open.spotify.com/album/58cznlUcyL1SOMM3yC9Q0K) | 2:20 |
 | 50 | [SAMURAI](https://open.spotify.com/track/0o04dCBHGlZwi816oogv6U) | [FanEOne](https://open.spotify.com/artist/6kQPCQf0NTmbj6hwim0vkT) | [SAMURAI](https://open.spotify.com/album/74FCnSJTNgzJYv9vIShlHy) | 2:49 |
 
-Snapshot ID: `MCxjYjgwMTczN2FmNTdmNjZlZGMxMDE5ZTMyY2Q4Y2FjOWY5MGQyZDQ0`
+Snapshot ID: `MCw2NWJlNTQ1ZDk2OGQ4MjhmZmFhYTExNThkNmM2NjU5ODFlN2JmNGY4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 
 > The moody sound of easy listening from the 50's and 60's\. Cover: Percy Faith
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,923 likes - 70 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,979 likes - 70 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 | 69 | [Danke Schoen](https://open.spotify.com/track/6CBGOKLkewXVfQQEiV0xZY) | [Bert Kaempfert](https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX) | [Let's Go Bowling \(Remastered\)](https://open.spotify.com/album/1PMG61oCm4gzNPMYlqPRVq) | 2:42 |
 | 70 | [The Days Of Wine And Roses](https://open.spotify.com/track/4XD9xETG2OuWta7mXyUVVe) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf), [Hugo Winterhalter](https://open.spotify.com/artist/5WVQxyLSWuV7XpjDlgNY53) | [28 Big Ones](https://open.spotify.com/album/5KH8TO4JRHnxhpxSsxDKoQ) | 2:36 |
 
-Snapshot ID: `MCwyZTllMDc4NTU4OTk3MzUwODNlZGIwZDZhNDNmMDQwNjhlYzY2MGQ0`
+Snapshot ID: `MCxkZDQzZGUzMjY1NzU1OThjNDY1NjMwODQ4M2FmOGQ3Y2Y5OWYwOTQ4`

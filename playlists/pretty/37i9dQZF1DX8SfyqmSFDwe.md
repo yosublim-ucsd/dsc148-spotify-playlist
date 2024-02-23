@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SfyqmSFDwe.md) - [plain]
 
 > Classics are forever! Los clásicos no pasan de moda!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,017,883 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,018,313 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SfyqmSFDwe.md) - [plain]
 | 99 | [Un Sueño](https://open.spotify.com/track/4w8XJ8nvhslJS3AvR6uL98) | [Alex Gargolas](https://open.spotify.com/artist/7awyvLSthqOcL5A3hnR1pf), [R.K.M & Ken\-Y](https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg) | [Gargolas 5: The Next Generation](https://open.spotify.com/album/6xJVY6jlX0QRob0ueF9kKJ) | 4:05 |
 | 100 | [Obsesión](https://open.spotify.com/track/4HTzn2qQZ7UqHtw1OsB8wc) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Magia](https://open.spotify.com/album/14YMgKbaj0NVyvOckxX6AZ) | 3:00 |
 
-Snapshot ID: `MCwyNzQwNjY0MThmNjg4MjZhNWFjNzdhNzY1ODRkMzI3NGFkNzM5MzNm`
+Snapshot ID: `MCwzMGQzODc2NDhjZTZlMGFiMzA2NTkzY2QzZDllOTNiMjMwNmY2MTZi`

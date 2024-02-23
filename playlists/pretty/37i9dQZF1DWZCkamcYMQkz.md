@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 
 > Warm and cozy jazz vibes to get you in a positive mood.
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,229 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,472 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 | 99 | [Easy come easy go \- Edit](https://open.spotify.com/track/0TPnEGIdWuqnW85mIVqoie) | [Laurent De Wilde](https://open.spotify.com/artist/7Iupw9PXaMDkdkQ3oqtDOj) | [Easy come easy go \(Edit\)](https://open.spotify.com/album/5uBaxsQ1SZ6LfEqRCUgzZL) | 5:14 |
 | 100 | [The Best Things In Life Are Free](https://open.spotify.com/track/2QPxNZFYWCEtvLRQ8cEVli) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw) | [Autumn In New York](https://open.spotify.com/album/6hM8Vc45AcGKa6XR5yqv14) | 2:24 |
 
-Snapshot ID: `MCw3M2YxZWE5YjRlZjFjYjg2ZmZlYjQ0Y2VmMDA1NjA5MmNjMWI4MWNi`
+Snapshot ID: `MCwwMzNkOTc2ZWEwNzY1MGZjZTEzZjhjMTExN2VkZjQ4MjVjYmZiMmQ0`

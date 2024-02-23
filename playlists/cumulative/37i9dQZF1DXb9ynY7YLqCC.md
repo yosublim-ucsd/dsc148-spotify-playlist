@@ -4,7 +4,7 @@
 
 > Canciones directas y banderas al viento\. Foto: La 25.
 
-183 songs - 12 hr 41 min
+184 songs - 12 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,8 @@
 | [Reflejo](https://open.spotify.com/track/1RaYc8dytOsWlmL2bEuG2I) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Reflejo](https://open.spotify.com/album/6FsAipsUvB2WP4o6ho5u2i) | 4:19 | 2023-05-05 |  |
 | [Resaca de Carnaval](https://open.spotify.com/track/6FPYeXUbLfwmwcknp1f7VZ) | [Los Perez García](https://open.spotify.com/artist/4WEyRDFePTrRVfpV0Vdjs3) | [No Se Lo Cuentes a Nadie](https://open.spotify.com/album/6FZ81NpFnYO5IOGUm8uzGk) | 3:41 | 2022-04-01 | 2022-07-29 |
 | [Reyes de la Noche](https://open.spotify.com/track/3nnDwYz3dEd4p2ESdpS1G0) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [Toro Rojo](https://open.spotify.com/album/5RQqvJeGRUrvVbvKGlMceO) | 4:10 | 2022-04-01 |  |
-| [ROCK BARRIAL TIPO COUNTRY](https://open.spotify.com/track/3fA6H7qXllsOiSi7n445Dk) | [Terapia](https://open.spotify.com/artist/5sIea266s3izLKCqmH1SRk) | [ROCK BARRIAL TIPO COUNTRY](https://open.spotify.com/album/336pbkOxV2KKUif8DKWF2o) | 2:49 | 2024-01-26 |  |
+| [ROCK BARRIAL TIPO COUNTRY](https://open.spotify.com/track/3fA6H7qXllsOiSi7n445Dk) | [Terapia](https://open.spotify.com/artist/5sIea266s3izLKCqmH1SRk) | [ROCK BARRIAL TIPO COUNTRY](https://open.spotify.com/album/336pbkOxV2KKUif8DKWF2o) | 2:49 | 2024-01-26 | 2024-02-23 |
+| [ROCK BARRIAL TIPO COUNTRY](https://open.spotify.com/track/6YpJwech17LNB280HUnaWr) | [Terapia](https://open.spotify.com/artist/5sIea266s3izLKCqmH1SRk) | [PRENSADO](https://open.spotify.com/album/2tkeaVfODlKqe0lLqgARYd) | 2:49 | 2024-01-26 |  |
 | [Rock del Pedazo](https://open.spotify.com/track/5MRelkZAqB0SrxUtZmexQo) | [Ratones Paranoicos](https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c) | [X 16](https://open.spotify.com/album/45UGwtbbmTeqJAoFnhiLx7) | 2:46 | 2022-04-01 |  |
 | [Rotos y Descocidos](https://open.spotify.com/track/03gBHAQqX65jxtnDdfPj5m) | [Don Osvaldo](https://open.spotify.com/artist/09dpFW4ZcLR3GjeG7GOJR8) | [Casi Justicia Social II](https://open.spotify.com/album/2UsSavt2PWkbqaFnTSxHFg) | 3:06 | 2022-07-08 | 2023-10-06 |
 | [Rotos y Descocidos](https://open.spotify.com/track/2u55FMNQoM8W7tHuO4JOgM) | [Don Osvaldo](https://open.spotify.com/artist/09dpFW4ZcLR3GjeG7GOJR8) | [Casi Justicia Social II](https://open.spotify.com/album/5zmuYdSpq60tyeNhGmbouj) | 3:06 | 2022-04-01 | 2022-07-17 |

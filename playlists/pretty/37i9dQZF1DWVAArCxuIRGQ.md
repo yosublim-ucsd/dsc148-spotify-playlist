@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAArCxuIRGQ.md) - [plain]
 
 > A sizzling hot soundtrack for your sunshine social.
 
-[Spotify](https://open.spotify.com/user/spotify) - 632,356 likes - 75 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 632,350 likes - 75 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAArCxuIRGQ.md) - [plain]
 | 74 | [54\-46 Was My Number](https://open.spotify.com/track/1q8gelFgFYUwoWpQV7WNCe) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [In The Dark](https://open.spotify.com/album/6FuHnw9KkeYH6TSJaNOlto) | 3:24 |
 | 75 | [Club Tropicana](https://open.spotify.com/track/6tASfEUyB7lE2r6DLzURji) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [Fantastic](https://open.spotify.com/album/6vihnceXTNegYbpurc6qkR) | 4:25 |
 
-Snapshot ID: `MCxkYTk5NzcwYzdjNWExYjNlNmE3NjFhZmUwZGExNDA0OGJkMGIwNDQ1`
+Snapshot ID: `MCwxNjQzZjQ3ZTc3ZjA4YmM0MWJhZjdkZTk5MzYwNDFmNTUyMTQ5NDhk`

@@ -602,7 +602,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 218392,
       "name": "Bonsoir Paris (Mama No Cry)",
       "url": "https://open.spotify.com/track/6RZ5IuPlCVcXSrnzQ5jsE7"
@@ -903,6 +903,24 @@
     },
     {
       "album": {
+        "name": "Christian Dior",
+        "url": "https://open.spotify.com/album/0zLub8F6Dp4VlswXPg9OTK"
+      },
+      "artists": [
+        {
+          "name": "JKSN",
+          "url": "https://open.spotify.com/artist/7IHsnK4J6QJQTjFNAxwERE"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154200,
+      "name": "Christian Dior",
+      "url": "https://open.spotify.com/track/19xVZr90ICYmatwd3FsKbe"
+    },
+    {
+      "album": {
         "name": "Hiver \u00e0 Paris",
         "url": "https://open.spotify.com/album/6dgmwFp2mMEhTmOJ32vDPA"
       },
@@ -980,7 +998,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 143280,
       "name": "Cod\u00e9ine 19",
       "url": "https://open.spotify.com/track/3Q8qW4OUBQWLZaNLR9TxFr"
@@ -1236,6 +1254,28 @@
       "duration_ms": 175946,
       "name": "DIS-MOI (feat. SDM)",
       "url": "https://open.spotify.com/track/72EzFi8h1H2MImmS2ZoSTr"
+    },
+    {
+      "album": {
+        "name": "AD VITAM \u00c6TERNAM",
+        "url": "https://open.spotify.com/album/5nAPqNlNOBzQjLv3JK5zxM"
+      },
+      "artists": [
+        {
+          "name": "Booba",
+          "url": "https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL"
+        },
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178401,
+      "name": "Dolce Camara",
+      "url": "https://open.spotify.com/track/15vGti1ooNZFlDUdlLukX6"
     },
     {
       "album": {
@@ -2352,7 +2392,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 291280,
       "name": "La faille",
       "url": "https://open.spotify.com/track/4F1fVi7f1h1fN4FrwoyWMa"
@@ -3444,6 +3484,28 @@
       "duration_ms": 151028,
       "name": "ONGBAK 2",
       "url": "https://open.spotify.com/track/1VOn2rRxe7JBweoK4SINHe"
+    },
+    {
+      "album": {
+        "name": "SUR LE CHEMIN",
+        "url": "https://open.spotify.com/album/0sLnQ2wypUWqf1Q15VXGSn"
+      },
+      "artists": [
+        {
+          "name": "UZI",
+          "url": "https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI"
+        },
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169373,
+      "name": "PANAMA",
+      "url": "https://open.spotify.com/track/6czia5imsRfw18FRD8FJ5L"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2l1BM6ggRui.md) - [plain]
 
 > 듣고만 있어도 행복한 노래들과 더더욱 행복하세요 ;\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,464 likes - 60 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,461 likes - 60 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2l1BM6ggRui.md) - [plain]
 | 59 | [My Love \(Duet Ver.\)](https://open.spotify.com/track/0K0HXYXl26keaIiVH8dPI1) | [Lee Seung Chul](https://open.spotify.com/artist/5Ecf8RR2UWFAvyeItabffF), [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Lee Seung Chul 35th Anniversary Album Special 'My Love'](https://open.spotify.com/album/3gAshpQbkBHturbpMAB3YL) | 3:47 |
 | 60 | [Naked](https://open.spotify.com/track/2dFIqSB5r0IrqJFJS367Kx) | [xooos](https://open.spotify.com/artist/0OqnFLmTWiVGm3Ifk6mahQ) | [Naked](https://open.spotify.com/album/2zpxFjdb5JINyMyvTpyGOc) | 2:54 |
 
-Snapshot ID: `MCw2OTcwYWRiN2U5ODAxNmRhNjQwNjBjM2VjNjc0MzUzOWRmMjYxNjlm`
+Snapshot ID: `MCw1OGNlMzYwODk4ZTQ3ZWJkYjUyNGQ5MmUwYTMwNDg3Nzc1YTc0NjE5`

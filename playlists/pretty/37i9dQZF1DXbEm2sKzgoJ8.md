@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbEm2sKzgoJ8.md) - [plain]
 
 > Set the mood just right...
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,892,734 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,893,630 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbEm2sKzgoJ8.md) - [plain]
 | 99 | [Shirt](https://open.spotify.com/track/34ZAzO78a5DAVNrYIGWcPm) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Shirt](https://open.spotify.com/album/6Kqm5aSp69hTaOHTx38hsD) | 3:01 |
 | 100 | [BIRTHDAY DANCE](https://open.spotify.com/track/0WkfQ4SJqsKrixNQNYSMsq) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [DISC TWO \(SCRATCHED UP\)](https://open.spotify.com/album/2Dl2fPxFNqw7d3oFhHqHc3) | 2:24 |
 
-Snapshot ID: `MCw0M2QzZWJkZDRkY2FlZTgyNjAwYzY4ZTAyNDBkODE2NTg0OTcyOTUy`
+Snapshot ID: `MCxiM2RlZGMxOTAzYzE2YTlkMWQ4MzhjNjg1NDY3M2Y2YjgxNmU4NWE3`

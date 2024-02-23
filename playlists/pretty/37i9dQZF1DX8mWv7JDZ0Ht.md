@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 
 > Novidades do pop nacional pra te deixar mais leve! Foto: GUPE, Nairo
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,835 likes - 85 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 433,845 likes - 85 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 84 | [Brincando De Amor](https://open.spotify.com/track/5VZD6ku43wd7ewcdiFnQcQ) | [Sabrina Lopes](https://open.spotify.com/artist/70p8zOZeaAh5bskcL0dCtH), [Black News](https://open.spotify.com/artist/3MzyZkQDfVH0qINfbB9WHb) | [Brincando De Amor](https://open.spotify.com/album/1JjOG6ghi7Bw3xT0Ks99Xf) | 2:35 |
 | 85 | [Tudo Vai Ser Como Deve Ser](https://open.spotify.com/track/6UVvpnthUpkYT7dQu3oJbQ) | [João Mar](https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy) | [Tudo Vai Ser Como Deve Ser](https://open.spotify.com/album/28bYnQhOKBgA6NFngPPqPJ) | 2:54 |
 
-Snapshot ID: `MCw1NGRlYmViNTZjMWM2YTRhNjAzYmNmM2UzNzc3NzRkMjBlYzM5OGYz`
+Snapshot ID: `MCw2OTMzODkzYTljZDJjYmU5NzMxN2EzZmFjNWU1OWQ5ZWU3ZTIxZDU4`

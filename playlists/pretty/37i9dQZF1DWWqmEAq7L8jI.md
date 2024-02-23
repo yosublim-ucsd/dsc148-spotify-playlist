@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqmEAq7L8jI.md) - [plain]
 
 > Dale play y que la música te acompañe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,139 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,172 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqmEAq7L8jI.md) - [plain]
 | 99 | [Las Flores \(feat\. Los Auténticos Decadentes\)](https://open.spotify.com/track/6HOoeolSylzuUcPXLlbPtK) | [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG), [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Quiromancia](https://open.spotify.com/album/1KBZbjexyRuJi8ke07XmyY) | 3:33 |
 | 100 | [Yo Te Diré](https://open.spotify.com/track/2K6QTldAHBRFk3c6BHWYr5) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Yo Te Diré](https://open.spotify.com/album/3SkgP7RqJZs5PdQQPcDK7J) | 3:27 |
 
-Snapshot ID: `MCw3Y2ViMTIxMjNlNjIzMGY3NGY4YjhiMDZhMzFlMzcyMmI2MzFmMzhi`
+Snapshot ID: `MCxmZjI5NTUzNGUwMTliMDk1YTU5ZDhkOTJmMjJjMzRlMDUwNDM5MTk3`

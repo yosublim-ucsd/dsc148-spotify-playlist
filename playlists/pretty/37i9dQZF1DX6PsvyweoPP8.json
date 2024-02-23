@@ -1,12 +1,12 @@
 {
   "description": "Muito trap feito especialmente para os momentos mais sexys e quentes. [Conte\u00fado Expl\u00edcito]",
-  "num_followers": 218368,
+  "num_followers": 218375,
   "original_name": "TRAPando",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYzUyMDI5MWQwMmExZWM2OWJiZjZkMWFlNjVkNDIzNjA5OGUxOWEx",
+  "snapshot_id": "MCwwMDg3NTgyODJlYWU4NTg1MzgwMWQzZGRhYjdkMmRmYmE2ZGJiYjg0",
   "tracks": [
     {
       "added_at": "2024-02-16 03:01:00",
@@ -171,6 +171,30 @@
       "duration_ms": 170000,
       "name": "202",
       "url": "https://open.spotify.com/track/3imzmQM2DPPVBLMiBBexRL"
+    },
+    {
+      "added_at": "2024-02-16 03:01:00",
+      "album": {
+        "name": "123",
+        "url": "https://open.spotify.com/album/3pRZvBWwgcncxMB38qQNou"
+      },
+      "artists": [
+        {
+          "name": "Carla Sol",
+          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
+        },
+        {
+          "name": "Mel",
+          "url": "https://open.spotify.com/artist/5a5NeXda5Km8VQLSJQIa94"
+        },
+        {
+          "name": "Volp",
+          "url": "https://open.spotify.com/artist/6fFgNVTo4bxMf2eswaar7Z"
+        }
+      ],
+      "duration_ms": 165106,
+      "name": "123",
+      "url": "https://open.spotify.com/track/6JfHhsaYmjHaqLd4ykzIKi"
     },
     {
       "added_at": "2024-02-16 03:01:00",

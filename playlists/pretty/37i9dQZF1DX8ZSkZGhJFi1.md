@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZSkZGhJFi1.md) - [plain]
 
 > Beats instrumentais para te ajudar a focar mantendo o ânimo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,488 likes - 450 songs - 17 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,497 likes - 450 songs - 17 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -459,4 +459,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZSkZGhJFi1.md) - [plain]
 | 449 | [zinnia](https://open.spotify.com/track/1DQs099CsJFZhRhY4RLEHM) | [budtender](https://open.spotify.com/artist/2FIAMfNbjwjShlmP2qMmee) | [zinnia](https://open.spotify.com/album/4iEo34YasPvmHlU9wZZx8z) | 1:30 |
 | 450 | [The Truth](https://open.spotify.com/track/5FQippF8g8Nb5n7Gd9e2x3) | [MVR Music](https://open.spotify.com/artist/6JKyNrD4ZdPRFbZIY1TES8) | [The Truth](https://open.spotify.com/album/59p5oWiIgoqKdaJuVrrgap) | 2:20 |
 
-Snapshot ID: `MCw5ZGM0NGQ5YTkwNTM5ZTU3YmZmNzAzNTE3ZGY4OWVhYWM3YWZkNGMy`
+Snapshot ID: `MCw1NzljODZhZWM4ZjczNzlkZjg5ZWM0OWEzNjMzMGVmYmYwNjdhNDc0`

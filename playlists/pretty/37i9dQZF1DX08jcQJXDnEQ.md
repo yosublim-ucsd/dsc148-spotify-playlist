@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08jcQJXDnEQ.md) - [plain]
 
 > The best metal songs of the 90s\. Cover: Metallica
 
-[Spotify](https://open.spotify.com/user/spotify) - 991,706 likes - 100 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 992,364 likes - 100 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08jcQJXDnEQ.md) - [plain]
 | 99 | [Bring Your Daughter...To the Slaughter \(2015 Remaster\)](https://open.spotify.com/track/3kCbJ8yQuj0kAQBP7E4GTB) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [No Prayer for the Dying \(2015 Remaster\)](https://open.spotify.com/album/2uMfzU12ioMp5zqQwhvt8g) | 4:43 |
 | 100 | [War?](https://open.spotify.com/track/0vCzjgcBEujkrqizp2LYdq) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [System Of A Down](https://open.spotify.com/album/7p5mnxLTjbvs4kInkK8za9) | 2:40 |
 
-Snapshot ID: `MCw0MGJiZDFlMWY2NTA5ZWYxNGY5YzFlZmY5M2RlMDkwNDZlMzBhMjgw`
+Snapshot ID: `MCwyZGMzOTdlODNiYTUyOWE5YTI5Y2IyYzM4MTQzMzg3ZjQ1MmVmNzMw`

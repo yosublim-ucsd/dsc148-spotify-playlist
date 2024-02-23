@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZP5oobcNgA.md) - [plain]
 
 > Explore the essential works of Handel, including his Messiah, dozens of operas, oratorios, anthems, and instrumental favourites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,622 likes - 61 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,654 likes - 61 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZP5oobcNgA.md) - [plain]
 | 60 | [Keyboard Suite No\. 3 \(Set I\) in D Minor, HWV 428: VI\. Presto](https://open.spotify.com/track/795t4y1VfUwlUPbGpyMhwH) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Philip Edward Fisher](https://open.spotify.com/artist/3iEF3lnsArDpnKXvg6Zys7) | [Handel: Keyboard Suites, Vol\. 1](https://open.spotify.com/album/5rZNiDIYiqLWoCKrwQ0y23) | 4:07 |
 | 61 | [Music for the Royal Fireworks, HWV 351: III\. La Paix\. Largo alla Siciliana](https://open.spotify.com/track/6leCZq7Sh4KbQC4pEwnwmY) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Pierre Boulez](https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7), [New York Philharmonic](https://open.spotify.com/artist/3gacryguGmpmCvgPGt2CBI) | [Handel: Water Music; Royal Fireworks Music \- Expanded Edition](https://open.spotify.com/album/637JBFzsaEwlw8tD7SYjoH) | 4:34 |
 
-Snapshot ID: `MCwzYTQzZDc3MDMyMzY1Y2Q3MWY2ZDViYjY0ZWVlZGUxYThlZGUyMjE3`
+Snapshot ID: `MCwwZTg3Y2Q3NzgyYzkyM2Y4NWUzNWE1ZGJhMDJjNWU3ZmIyYThlZDBl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1cKZ3eM1zf.md) - [plain]
 
 > Het beste van Pinkpop en een greep uit de line\-up van 2024
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,815 likes - 150 songs - 9 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,813 likes - 150 songs - 9 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1cKZ3eM1zf.md) - [plain]
 | 149 | [Still Got The Blues](https://open.spotify.com/track/0DnGfA1r8pAssJCuq4ojla) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [Still Got The Blues](https://open.spotify.com/album/5yrouz3mmUWSsCufl1tLUJ) | 6:10 |
 | 150 | [How Long Do I Have to Wait for You?](https://open.spotify.com/track/2ffGZTdlRN0lNxA4LOYyTs) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Naturally](https://open.spotify.com/album/5io1OKXglvIexVDrBXxuF4) | 4:03 |
 
-Snapshot ID: `MCxmNzc4NWQwYzYzZDJkODAwODZlZTIyNTFkZGI5NWVlMzg3ODdhMjAy`
+Snapshot ID: `MCxlZTViMzEwMjNlZmU4ZGY2MDA1OGQzYmY3MGNjNmJjYzE0N2Q4OGM1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5R53BjnKBjk.md) - [plain]
 
 > Uma seleção de novos artistas da cena brasileira que você precisa conhecer\.  Foto: dadá Joãozinho / Arte: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,142 likes - 80 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,144 likes - 80 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5R53BjnKBjk.md) - [plain]
 | 79 | [perigo !!!](https://open.spotify.com/track/20I1YGkQ5DSBrPK2Xlgkb1) | [Juliah](https://open.spotify.com/artist/5v7IXNOHut7edaocM0XKSg), [Felipe Phyre](https://open.spotify.com/artist/1WSSOsnMl5OIaxB7xrY9dc) | [facetime](https://open.spotify.com/album/6kZxUbWswaoQjvBevsLaTN) | 3:01 |
 | 80 | [Amigo](https://open.spotify.com/track/100MjqTU5I7U0qPvYbrWFA) | [Junim](https://open.spotify.com/artist/2VSSpNdBUOGmNkrBLATwft) | [Amigo](https://open.spotify.com/album/0G1eZMhQdujsdZ5RSQQBYc) | 2:35 |
 
-Snapshot ID: `MCxkYTJjZjEyN2MwYjAyOTc0ZjA1MDU0MjM0YWVhYjUzMTY1NjRjNDA0`
+Snapshot ID: `MCw1OWQzMDYwNjQ3NjY2OTg1ODYxMWUyMTQxM2I0OGI1OTVmNjc4ZWVm`

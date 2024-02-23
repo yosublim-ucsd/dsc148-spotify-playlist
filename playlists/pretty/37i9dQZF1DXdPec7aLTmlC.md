@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPec7aLTmlC.md) - [plain]
 
 > Hits to boost your mood and fill you with happiness!
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,183,855 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,184,219 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPec7aLTmlC.md) - [plain]
 | 99 | [So Am I](https://open.spotify.com/track/2Xnv3GntqbBH1juvUYSpHG) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 3:03 |
 | 100 | [Jerusalema \(feat\. Nomcebo Zikode\)](https://open.spotify.com/track/2MlOUXmcofMackX3bxfSwi) | [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [Nomcebo Zikode](https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6) | [Jerusalema](https://open.spotify.com/album/0bRAth39i98n7qrxubZ00K) | 5:42 |
 
-Snapshot ID: `MCw3NTQwNDI5YjlkMmVkOTMzZmY4Yjk1OWQ2YjRjNzA1NzEwZGZlOTdj`
+Snapshot ID: `MCw4ZWU4ODY0NTZjMGU4N2EzNTBjNWM4MGMzMDM5OTAyNDc0ZjM1OGZi`

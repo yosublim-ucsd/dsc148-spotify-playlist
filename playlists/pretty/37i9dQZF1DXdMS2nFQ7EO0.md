@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMS2nFQ7EO0.md) - [plain]
 
 > Vegas pool party vibes with a mix of the hottest Latin dance anthems of today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,399 likes - 61 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,427 likes - 61 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMS2nFQ7EO0.md) - [plain]
 | 8 | [Marianela \(Que Pasa\)](https://open.spotify.com/track/5bZjb7xKqLqa58QiUBcVvl) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Merk & Kremont](https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7), [Lirico En La Casa](https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo) | [Marianela \(Que Pasa\)](https://open.spotify.com/album/5As1VmPUMn4HIgYSbFD6l0) | 2:25 |
 | 9 | [Give It To Me \- Full Vocal Mix](https://open.spotify.com/track/5ZduaRci3iNUiDfJbBfAaf) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS) | [Give It To Me \(Full Vocal Mix\)](https://open.spotify.com/album/1jbRY71konakrKvDUiW7Rp) | 1:42 |
 | 10 | [Nieve \- Benny Benassi Remix](https://open.spotify.com/track/2QG6VgmvMV7mYPME1evMeC) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6) | [Nieve \(Remixes\)](https://open.spotify.com/album/4smxiuT4f7lMI4j2TDmhzr) | 2:39 |
-| 11 | [Mexico](https://open.spotify.com/track/6yTaG6eJDi6T0VSawfMTQy) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Mexico](https://open.spotify.com/album/6dn1PltXAnQZB5i5jJoeN6) | 2:33 |
+| 11 | [Mexico](https://open.spotify.com/track/6yTaG6eJDi6T0VSawfMTQy) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO) | [Mexico](https://open.spotify.com/album/6dn1PltXAnQZB5i5jJoeN6) | 2:33 |
 | 12 | [Lay Low](https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Lay Low](https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn) | 2:33 |
 | 13 | [Berlin](https://open.spotify.com/track/2IzV2SPZQLadtA46ni3ICq) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Berlin](https://open.spotify.com/album/3UoZyegj8BdpkwA2iSOwZa) | 4:06 |
 | 14 | [Caliente](https://open.spotify.com/track/2V5I1zNGsMGDAHDEKsexCR) | [Big Syphe](https://open.spotify.com/artist/3K221lSoaTfJLyCmXe7ww5), [Lechero](https://open.spotify.com/artist/2x5oi7GC3XkdgXSC8juDIw) | [Caliente](https://open.spotify.com/album/3NXuWjKu5DiJ5tXL7tREdH) | 1:47 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMS2nFQ7EO0.md) - [plain]
 | 60 | [BLACKOUT](https://open.spotify.com/track/5DKTM173OW6XpokjPqfMae) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [BLACKOUT](https://open.spotify.com/album/4uPjXNAV5ElagRiBsc4JR5) | 3:03 |
 | 61 | [Five More Hours](https://open.spotify.com/track/3MOECVkNshqHYTPt5DZcdN) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Good Evening](https://open.spotify.com/album/1J6b7W1nSHH7BObK8zIoEY) | 3:31 |
 
-Snapshot ID: `MCxkMDQ5NTcwODZjZjBmZDU5NjA3MThhNzQ2NWM3ZDc1Mjg1NjNjYzk5`
+Snapshot ID: `MCw2MzAwOWMwZDE1ODNjYTUyNjcwZDI4OWNmNTkwMjFkMzdjZmYzYjY3`

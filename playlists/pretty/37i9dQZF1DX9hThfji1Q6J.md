@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9hThfji1Q6J.md) - [plain]
 
 > 2023年、海外で最も再生された日本人アーティストの楽曲別ランキング。Check out the top 50 tracks from Japanese artists, streamed globally in 2023!
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,333 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,331 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9hThfji1Q6J.md) - [plain]
 | 41 | [Under the Tree](https://open.spotify.com/track/7qKXSF8MilgyiL52oq1AA0) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [Under the Tree](https://open.spotify.com/album/7wQyvP7maIKn0uTGr66eI3) | 2:01 |
 | 42 | [Kyouran Hey Kids!!](https://open.spotify.com/track/38kcwx5znepLWCIBID0Bwm) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [FIXION](https://open.spotify.com/album/7uy0IV2P1VxmeYcssedEq0) | 4:10 |
 | 43 | [きらり](https://open.spotify.com/track/51oc6MEsXTpnPn6GOw5VuP) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Kirari Remixes \(Asia Edition\)](https://open.spotify.com/album/2OXwORzPU4tm1Skiv6l9KT) | 3:51 |
-| 44 | [Shinzo wo Sasageyo!](https://open.spotify.com/track/5uraJqtCBvLpwt3VeomZdq) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Shingeki no Kiseki](https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4) | 5:41 |
+| 44 | [Shinzo wo Sasageyo !](https://open.spotify.com/track/5uraJqtCBvLpwt3VeomZdq) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Shingeki no Kiseki](https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4) | 5:41 |
 | 45 | [Black Rover](https://open.spotify.com/track/0OGw7V8wAI6OsZIQ12JkTP) | [Vicke Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [wizard](https://open.spotify.com/album/5WiacWoGjt3yMoK8vtQ0tz) | 3:29 |
 | 46 | [LOST IN PARADISE](https://open.spotify.com/track/7ywfu5Bo7wKZW2WMwLpSOg) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb) | [MUSIC WORLD](https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW) | 5:28 |
 | 47 | [Comedy](https://open.spotify.com/track/5SuOikwiRyPMVoIQDJUgSV) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Comedy](https://open.spotify.com/album/41ERrwfzos93Xlf6hFBiDn) | 3:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9hThfji1Q6J.md) - [plain]
 | 49 | [愛して 愛して 愛して](https://open.spotify.com/track/3ty4jnVIJ9My8ZnXFMc0Fg) | [Kikuo](https://open.spotify.com/artist/5FhcqamaRFfpZb4VHV47fu) | [きくおミク3](https://open.spotify.com/album/5eSuy3Rr40DI0qcPOMFgX0) | 4:12 |
 | 50 | [ピースサイン](https://open.spotify.com/track/364JzOajs76bJymjHm3sVY) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [BOOTLEG](https://open.spotify.com/album/1mvoieMR8Dwiy7S052ihoC) | 3:58 |
 
-Snapshot ID: `MCw2NWY5Mjg3MjViYTE4NTRkNmFiNGI0NzE5MWRjNTQ0NDVlYjgzMGMy`
+Snapshot ID: `MCw5ODllYjI1MTUyOWVjMjBmNWEwNWEwODFlMWNkZTRkYjZkNTc3YTJh`

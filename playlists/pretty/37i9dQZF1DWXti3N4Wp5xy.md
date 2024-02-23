@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXti3N4Wp5xy.md) - [plain]
 
 > A perfect little pop party.
 
-[Spotify](https://open.spotify.com/user/spotify) - 512,103 likes - 150 songs - 8 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 512,370 likes - 150 songs - 8 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXti3N4Wp5xy.md) - [plain]
 | 149 | [Roses \- Imanbek Remix](https://open.spotify.com/track/72GVdRHK49beKrC1NqRCqj) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [While The World Was Burning](https://open.spotify.com/album/7w3dPme8pmDgsKWGkcOk5f) | 2:56 |
 | 150 | [HandClap](https://open.spotify.com/track/4qRaZYiaOsSvWC7VgcxrI0) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Fitz and The Tantrums \(Deluxe Edition\)](https://open.spotify.com/album/4eoIRaV8z8v2LaXQSWy2LC) | 3:13 |
 
-Snapshot ID: `MCw0OGNiNTdiY2M2NmEwYTYwMDliNGI0MjQxZDAxMGFiM2JiZDIwODNi`
+Snapshot ID: `MCxmNDNmNWM5NTUxZWQ2MTQ0NGYzNzJjOTAxNDA0NjdhMDgzMWQ4ZjE5`

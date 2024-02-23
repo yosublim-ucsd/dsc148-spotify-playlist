@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nVdf2.md) - [plain]
 
 > This is Ximena Sariñana\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,509 likes - 51 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,525 likes - 51 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nVdf2.md) - [plain]
 | 32 | [fuckhim \(feat\. Ximena Sariñana\)](https://open.spotify.com/track/0D2JmflHSZwCVqle0RqxAz) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Nuevos Aires](https://open.spotify.com/album/1pmuUGKQdl3yIAIMZucjKu) | 3:32 |
 | 33 | [Poquito A Poquito](https://open.spotify.com/track/5cCCk44zy1XwmxIxwHjNAE) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Melodrama](https://open.spotify.com/album/6Q5EvqV3Vj9wKee5N2fK6E) | 4:42 |
 | 34 | [Nada Para Ti](https://open.spotify.com/track/6EKLpV51tSY9SmMgwdb42W) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Nada Para Ti](https://open.spotify.com/album/5G9mAcnZnP9F1WdqiY370t) | 3:56 |
-| 35 | [Lo Que Se Va](https://open.spotify.com/track/4PogjAS9lDLn8L5KmqOrft) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Lo Que Se Va](https://open.spotify.com/album/5D7TVjx5cphnUYDw6FZpbW) | 3:28 |
-| 36 | [La chula \(with Ximena Sariñana\) \- MTV Unplugged](https://open.spotify.com/track/03aNG7WrtBVPh0gEtc8YuH) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [MTV Unplugged](https://open.spotify.com/album/4B0mVzwgm0IihR4Qzg82FO) | 3:51 |
-| 37 | [Te Confieso](https://open.spotify.com/track/1syzaQgUf8zOeLwash8NT5) | [VADHIR](https://open.spotify.com/artist/6JYq1icPMmdJ9jxyXDOieP), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Te Confieso](https://open.spotify.com/album/7xsJj0Y8SGK5PlEhJUyKa5) | 2:49 |
+| 35 | [La chula \(with Ximena Sariñana\) \- MTV Unplugged](https://open.spotify.com/track/03aNG7WrtBVPh0gEtc8YuH) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [MTV Unplugged](https://open.spotify.com/album/4B0mVzwgm0IihR4Qzg82FO) | 3:51 |
+| 36 | [Te Confieso](https://open.spotify.com/track/1syzaQgUf8zOeLwash8NT5) | [VADHIR](https://open.spotify.com/artist/6JYq1icPMmdJ9jxyXDOieP), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Te Confieso](https://open.spotify.com/album/7xsJj0Y8SGK5PlEhJUyKa5) | 2:49 |
+| 37 | [Lo Que Se Va](https://open.spotify.com/track/4PogjAS9lDLn8L5KmqOrft) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Lo Que Se Va](https://open.spotify.com/album/5D7TVjx5cphnUYDw6FZpbW) | 3:28 |
 | 38 | [Lo Bailado](https://open.spotify.com/track/5AQFKEETsXkpLsHHq9kpmO) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [¿Dónde Bailarán Las Niñas?](https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa) | 2:53 |
 | 39 | [Mr\. Carisma](https://open.spotify.com/track/1hdSsODySd5A7IHDStGjBn) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mr\. Carisma](https://open.spotify.com/album/7AjCD9Rg4Pv7Fp5SHv3B5n) | 3:51 |
 | 40 | [No vuelvo más](https://open.spotify.com/track/2rpLnBl2ktVU7ZtjgCXGVZ) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mediocre](https://open.spotify.com/album/268J4Sl3DpX5l7KrxHRv2g) | 4:13 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nVdf2.md) - [plain]
 | 50 | [Monitor](https://open.spotify.com/track/7pEVLSlWDDTnTUOVdwPXrn) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mediocre](https://open.spotify.com/album/268J4Sl3DpX5l7KrxHRv2g) | 4:23 |
 | 51 | [El Amor Más Grande](https://open.spotify.com/track/62K8tEf4hr6MpP31v2wWdf) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1), [Flor de Toloache](https://open.spotify.com/artist/1eEJbNVFQTDmQETQpLMoWD) | [Amor Adolescente](https://open.spotify.com/album/1JSWqKre0vDwPfDohpfyqt) | 3:26 |
 
-Snapshot ID: `Mjg0NzUyOTAsMDAwMDAwMDA4OTE1OWU2ODkzZTlmMGViMDc4YmFhZjZlZjM3NGUwMw==`
+Snapshot ID: `Mjg0NzcwNzUsMDAwMDAwMDBmN2ZjOTRjNjNhMDFlODZlOGNhNjM5YmM0ZTEzZTA3NA==`

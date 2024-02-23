@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbB7yFaZiAQX.md) - [plain]
 
 > '80s New Wave, New Romantic and Post\-punk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,019,536 likes - 150 songs - 10 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,019,763 likes - 150 songs - 10 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbB7yFaZiAQX.md) - [plain]
 | 149 | [Wishing \(If I Had a Photograph of You\)](https://open.spotify.com/track/2mwdSJZlzXOJqTQ37rpIbv) | [A Flock Of Seagulls](https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt) | [Playlist: The Very Best of A Flock of Seagulls](https://open.spotify.com/album/6cphBfn6beKzazlp3xjftb) | 5:30 |
 | 150 | [Sometimes Always](https://open.spotify.com/track/11sxpJrfYJFxkA77PauDj4) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Stoned and Dethroned](https://open.spotify.com/album/24tOMYmmWLNGiLSBaarqyb) | 2:31 |
 
-Snapshot ID: `MCxjNGYxMmIxMTRmNWYxY2UzNGFhNDJiMjMwMDIyOThhMjQ1ZWM3MWQ1`
+Snapshot ID: `MCw0Njg5MWMzNGI4MzViMGE1NTI1MThjNmU1ZGY3MDQxZDY5OWMxNDIz`

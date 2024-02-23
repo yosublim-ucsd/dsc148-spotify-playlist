@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Pqxel6mitp.md) - [plain]
 
 > A cup of Joe and the raw Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,994 likes - 120 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,030 likes - 120 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Pqxel6mitp.md) - [plain]
 | 119 | [Hobo Blues](https://open.spotify.com/track/3dish93LmeKpVtE5DNNi2p) | [The Cash Box Kings](https://open.spotify.com/artist/05eG6kRq0vo8hfQxW2sh8c) | [Holding Court](https://open.spotify.com/album/2lqQLEtZ46XMtWNymL5fCV) | 3:28 |
 | 120 | [Wild Country 2021](https://open.spotify.com/track/4m4dj4kNqbvpgAKap6wJbs) | [Carmel](https://open.spotify.com/artist/3uDjQUKw2WHSYtZcz2xjDo) | [Wild Country](https://open.spotify.com/album/53IDDlOPFfhxS5juY4m8jG) | 5:58 |
 
-Snapshot ID: `MCw0N2E2MmYwYzhlNzA3MzU1YjY2NTg3MTJjZTE1MjJkNzBiZjNkZGY2`
+Snapshot ID: `MCxjZTcwMTM0NWZhY2ZjOTU1ZjcwY2ZhYWI3Y2Y0MmQxNTg5YzhlZGIz`

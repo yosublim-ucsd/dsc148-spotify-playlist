@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMLSZjxlOBA.md) - [plain]
 
 > Dance hits to soundtrack your life
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,837 likes - 80 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,840 likes - 80 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMLSZjxlOBA.md) - [plain]
 | 79 | [Lionheart \(Fearless\)](https://open.spotify.com/track/5vlzH0ps6WDyb158oFTAb3) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Lionheart \(Fearless\)](https://open.spotify.com/album/68U7caniDmdQHifJdnlYFT) | 3:06 |
 | 80 | [Bangarang \(feat\. Sirah\)](https://open.spotify.com/track/6VRhkROS2SZHGlp0pxndbJ) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Sirah](https://open.spotify.com/artist/3oAazIwC0nAYkOKVQPUC38) | [Bangarang EP](https://open.spotify.com/album/5XJ2NeBxZP3HFM8VoBQEUe) | 3:35 |
 
-Snapshot ID: `MCxjNTczYjBjNTA5ZGUwY2ZiYWNlZGQ1NDg4N2I2ODg2NzFiYzZlNWFi`
+Snapshot ID: `MCwzOWEyMTJlZGQwMmVmNjIxZDA4ZThhNTUyOWE1MGNiZmUxY2Q4OWY4`

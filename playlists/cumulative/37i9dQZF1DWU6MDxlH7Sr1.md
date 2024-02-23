@@ -4,7 +4,7 @@
 
 > Soft Jazz in the background of your cocktail party.
 
-324 songs - 20 hr 50 min
+327 songs - 20 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [How Deep Is The Ocean](https://open.spotify.com/track/3Cx9inYYVQw4VEUrwKgPuX) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Explorations \[Original Jazz Classics Remasters\]](https://open.spotify.com/album/3PGsNODk3bl8GYvAtgbBBw) | 3:33 | 2022-04-26 |  |
 | [How High The Moon](https://open.spotify.com/track/0OXt9xqBmwPwDXIbioz38B) | [High North Trio](https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY) | [How High The Moon](https://open.spotify.com/album/20V8WVUaQLHsBpmvkQzIrM) | 3:02 | 2022-11-17 |  |
 | [How I Sing](https://open.spotify.com/track/77eZBHfUgVSPqatPpsdY1m) | [Baker St.](https://open.spotify.com/artist/0k4UL5tOqUHXxJpxM4Wyae) | [How I Sing](https://open.spotify.com/album/3MjBszHfA4TdioPXyDoKR4) | 3:36 | 2022-04-26 | 2023-02-17 |
+| [I Can Always Tell](https://open.spotify.com/track/5PWDSQk8KukXxtUoclRCYf) | [Most Iverson](https://open.spotify.com/artist/7b4IdPtHjtIptOsszfiSy2) | [I Can Always Tell](https://open.spotify.com/album/4yGXyO00Pq6xd8561J8vg8) | 3:23 | 2024-02-23 |  |
 | [I Concentrate On You](https://open.spotify.com/track/2EAg1quHmyj5wGPEONM5KL) | [The Blue Green](https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80) | [I Concentrate On You](https://open.spotify.com/album/5R8IVGtCRIxv5KWwpjTiFL) | 4:40 | 2022-11-24 |  |
 | [I Could Write A Book](https://open.spotify.com/track/0MtzbTs2WXgOVyZl74pQT2) | [Kenny Drew](https://open.spotify.com/artist/65uKPt40QH8dMBLuoJHPVY) | [Pal Joey](https://open.spotify.com/album/7n1TDAd9pEPui46oT4jaFU) | 4:40 | 2022-04-26 | 2022-07-29 |
 | [I Could Write a Book](https://open.spotify.com/track/0ctO93CjDebugz6agCBdlV) | [Kenny Drew](https://open.spotify.com/artist/65uKPt40QH8dMBLuoJHPVY) | [Blues for Nica](https://open.spotify.com/album/1Frp5CHMTM45u0ytFYpnN2) | 4:43 | 2022-06-29 | 2022-12-09 |
@@ -148,6 +149,7 @@
 | [It´s Wonderful](https://open.spotify.com/track/4fIrqRgwWZeHWx1xYzMk0z) | [Tyree](https://open.spotify.com/artist/2iLuAUEEOAfWQr83WzyCof) | [It´s Wonderful](https://open.spotify.com/album/4NCJxvMwHsCIykqMx97Bew) | 3:12 | 2023-09-22 |  |
 | [I´m Glad There Is You](https://open.spotify.com/track/5aSfAExWXaU5P4wuPkBINx) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [I´m Glad There Is You](https://open.spotify.com/album/5S8DO23pBgOdUIIfeup4IT) | 4:29 | 2022-04-26 |  |
 | [I’m on break](https://open.spotify.com/track/0jfJ3aLp2fGnPRMbd4Se26) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [I’m on break](https://open.spotify.com/album/4dbCv4JQcIKYHDQDkaCcjm) | 2:39 | 2023-08-17 |  |
+| [Jazz Junction](https://open.spotify.com/track/1grGYyIWIJ44ApvRXWCvdN) | [James Earle Trio](https://open.spotify.com/artist/5G7z3n4Oy0s4hHwfnqfKU4) | [Jazz Junction](https://open.spotify.com/album/5MjZsGtvLqcNlYpqyaJcL2) | 2:36 | 2024-02-23 |  |
 | [Just A Piece of My Heart](https://open.spotify.com/track/2XYa5MJShUKZ8wjnrVa2z6) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [Romeo's Mood](https://open.spotify.com/album/2KVvscZOAVN4PwSo76HyjI) | 2:53 | 2022-10-06 |  |
 | [Just Ourselves](https://open.spotify.com/track/08G11yzcwoMuJrUy4ucLge) | [Pearl Street Trio](https://open.spotify.com/artist/6vOQ06tNCXPAdGfaNV3L0k) | [Just Ourselves](https://open.spotify.com/album/0Wlpr3FAxEIQFnm9jTMQAB) | 3:48 | 2022-12-01 | 2023-09-08 |
 | [Kathy's Waltz](https://open.spotify.com/track/5d8SK0Qq6S7vxfU85zHnrI) | [D\. Brubeck](https://open.spotify.com/artist/0HQ501eKb3lNaFMNDRbxHd), [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [THE MUSIC OF AMERICA: Inventing Jazz \- Dave Brubeck](https://open.spotify.com/album/0tFNTTbxmknMMpOheMzfTP) | 4:50 | 2022-11-10 | 2022-11-13 |
@@ -298,6 +300,7 @@
 | [These Foolish Things](https://open.spotify.com/track/2GkEZi94MfDIxjp36MAFuj) | [Willowdale](https://open.spotify.com/artist/57UeAcyqrdUXJlNLqXFtIF) | [These Foolish Things](https://open.spotify.com/album/5a7xDAK31J6a7T6ExUTDYn) | 3:32 | 2022-04-26 | 2023-01-13 |
 | [They Didn't Believe Me](https://open.spotify.com/track/2FaUOm50kOFVAn388NGxAe) | [Bobby Timmons Trio](https://open.spotify.com/artist/47jpbb07933jSiHmir7yda) | [In Person](https://open.spotify.com/album/0lKhYEfTneqxxjLqs2jC24) | 6:47 | 2022-04-26 | 2022-06-01 |
 | [They Said](https://open.spotify.com/track/5fxlpxZnDeUP8Gc98bwVs1) | [Wonder Eve](https://open.spotify.com/artist/2UWIuNSfLubqitB2Kf0rAa) | [They Said](https://open.spotify.com/album/4QyebMBRUiYTbyOIrZux8t) | 3:38 | 2023-08-24 |  |
+| [This Lullaby](https://open.spotify.com/track/0XvOa8OJrBwVXG77AMkzN6) | [Grace Carey](https://open.spotify.com/artist/6r8iQcLJAEKpFGN0FSusEd) | [This Lullaby](https://open.spotify.com/album/0qqrXJ63GT7I1PKoVVpQY4) | 2:27 | 2024-02-23 |  |
 | [This sweet pet](https://open.spotify.com/track/2Bv8LgnuZkVg6P6ZPsfuwB) | [Keanan Field Group](https://open.spotify.com/artist/3Nswj36GKhom7iy2bLvJNJ) | [This sweet pet](https://open.spotify.com/album/6VgGGR4IdKoHtxmuDRtTvK) | 3:38 | 2023-06-08 |  |
 | [Till There Was You](https://open.spotify.com/track/3FpMFIImpOZfAXQjsOBmkh) | [Mayfare Trio](https://open.spotify.com/artist/3tUSGipRrxvpmZgUc13rd4) | [Till There Was You](https://open.spotify.com/album/0ab5U3SnyooRTgP2uFXejL) | 2:35 | 2023-08-10 |  |
 | [Time After Time](https://open.spotify.com/track/3GQ6FWgL0Sfr2JH085HAQt) | [Urban Jazz Junction](https://open.spotify.com/artist/1YGmr0ApbYEQW52awe1VSd) | [Time After Time](https://open.spotify.com/album/3PllPoR4LIRfIBqzyKbcv6) | 3:20 | 2024-02-02 |  |

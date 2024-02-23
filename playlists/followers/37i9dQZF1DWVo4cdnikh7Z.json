@@ -1,5 +1,5 @@
 {
-  "2024-02-22": 659668,
+  "2024-02-23": 659760,
   "date_first_scraped": "2022-05-30",
   "description": "New Music from Kollywood.\nCover : Lal Salaam",
   "name": "Latest Tamil",
@@ -9226,6 +9226,36 @@
     },
     {
       "album": {
+        "name": "Nalla Perai Vaanga Vendum Pillaigale (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5yJW1TIXEctDLO1uQH5TB7"
+      },
+      "artists": [
+        {
+          "name": "Pradeep Kumar",
+          "url": "https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6"
+        },
+        {
+          "name": "Bharath Sankar",
+          "url": "https://open.spotify.com/artist/7jFE7CFeIIX7JhA8HwNH54"
+        },
+        {
+          "name": "Sean Roldan",
+          "url": "https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU"
+        },
+        {
+          "name": "Shahid Hameed",
+          "url": "https://open.spotify.com/artist/63mNSpG8Fej5oKIE6yDY4e"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276312,
+      "name": "Kadala",
+      "url": "https://open.spotify.com/track/6bppbxDs63sMQw2AHif008"
+    },
+    {
+      "album": {
         "name": "Kadamaiyai Sei (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4CV37S38PJ5wVDkIF8trjf"
       },
@@ -10560,6 +10590,28 @@
     },
     {
       "album": {
+        "name": "Nalla Perai Vaanga Vendum Pillaigale (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5yJW1TIXEctDLO1uQH5TB7"
+      },
+      "artists": [
+        {
+          "name": "Pradeep Kumar",
+          "url": "https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6"
+        },
+        {
+          "name": "Shreya Sundar Iyer",
+          "url": "https://open.spotify.com/artist/5wL8hCwR03XJkkci6hE0UQ"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237023,
+      "name": "Kasakura Yelaye",
+      "url": "https://open.spotify.com/track/5BQpK55n3gbBx2TlZhzIxV"
+    },
+    {
+      "album": {
         "name": "Katchi Sera (From \"Think Indie\")",
         "url": "https://open.spotify.com/album/1kqsloJJsGKKKiWhinel6F"
       },
@@ -11565,7 +11617,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 205077,
       "name": "Kuttipuli - From \"Mr Zoo Keeper\"",
       "url": "https://open.spotify.com/track/1yaj4UVUni2WxkpUDS2Ynj"
@@ -15569,7 +15621,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 217090,
       "name": "Neela Ravile (From \"Merry Christmas\") [Tamil]",
       "url": "https://open.spotify.com/track/4zSMmm7spbX35OqJBlGDUW"
@@ -26951,6 +27003,36 @@
     {
       "album": {
         "name": "Yaana Mutta (From \"Mangai\")",
+        "url": "https://open.spotify.com/album/1I4wNZgATl3LfEKqpN0Guw"
+      },
+      "artists": [
+        {
+          "name": "Shakshi Harendran",
+          "url": "https://open.spotify.com/artist/3O4NW3dngC9Jf670m4h0V5"
+        },
+        {
+          "name": "Anandhi",
+          "url": "https://open.spotify.com/artist/0lb3PnXAqifPGkiUnRSPAu"
+        },
+        {
+          "name": "Theeson",
+          "url": "https://open.spotify.com/artist/0vmZiK1KvPuLrLgznHL6VC"
+        },
+        {
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223304,
+      "name": "Yaana Mutta (From \"Mangai\")",
+      "url": "https://open.spotify.com/track/71P2QVcKXv9poEsmV9KM8U"
+    },
+    {
+      "album": {
+        "name": "Yaana Mutta (From \"Mangai\")",
         "url": "https://open.spotify.com/album/1CRjpP9ced4V15CK1xqC9W"
       },
       "artists": [
@@ -26969,7 +27051,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 223304,
       "name": "Yaana Mutta (From \"Mangai\")",
       "url": "https://open.spotify.com/track/4jUi7BGeSPgT0aAjncUBUX"

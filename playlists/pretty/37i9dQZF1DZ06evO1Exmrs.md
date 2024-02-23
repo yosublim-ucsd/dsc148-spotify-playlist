@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Exmrs.md) - [plain]
 
 > This is Noah Kahan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,359 likes - 52 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,971 likes - 52 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Exmrs.md) - [plain]
 | 37 | [Caves](https://open.spotify.com/track/1Pcz3lqppUM5OROz81qRAa) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [I Was / I Am](https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG) | 3:21 |
 | 38 | [Cynic](https://open.spotify.com/track/6IW6mD0OrfYXXkTgdLBQ83) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Busyhead](https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd) | 3:28 |
 | 39 | [Close Behind](https://open.spotify.com/track/3TtKAlue2cQRqx1MMnxrba) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Cape Elizabeth](https://open.spotify.com/album/7rAXvbNQSxnAnVl3taoMLj) | 3:33 |
-| 40 | [Halloween](https://open.spotify.com/track/3Vi7JrafGbqd1lwwO1EiOm) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(We'll All Be Here Forever\)](https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC) | 3:55 |
+| 40 | [Crazier Things \(with Noah Kahan\)](https://open.spotify.com/track/3K7vPyMCcecKRotnu08MMP) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Crazier Things](https://open.spotify.com/album/5wlUSJwTW4mVgDoDMPXjU7) | 4:24 |
 | 41 | [Animal](https://open.spotify.com/track/00vhtWzNIISd9I04Cl3K7N) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [I Was / I Am](https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG) | 3:39 |
-| 42 | [Crazier Things \(with Noah Kahan\)](https://open.spotify.com/track/3K7vPyMCcecKRotnu08MMP) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Crazier Things](https://open.spotify.com/album/5wlUSJwTW4mVgDoDMPXjU7) | 4:24 |
+| 42 | [Halloween](https://open.spotify.com/track/3Vi7JrafGbqd1lwwO1EiOm) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(We'll All Be Here Forever\)](https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC) | 3:55 |
 | 43 | [Catastrophize](https://open.spotify.com/track/3JXuMsnzwmqEEqQexK0q8b) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Hurt Somebody](https://open.spotify.com/album/4tpVFjYKSR6ivXVK5YXEc4) | 3:18 |
 | 44 | [Hold It Down](https://open.spotify.com/track/6xNaObGQT8V8OM5OEm6p3G) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Hold It Down](https://open.spotify.com/album/61c9HH26RwgWbUyK6oSMRt) | 3:16 |
 | 45 | [Bad Luck](https://open.spotify.com/track/05CRP83e1AD3kl6rP1r5aB) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [I Was / I Am](https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG) | 3:11 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Exmrs.md) - [plain]
 | 51 | [Tough \(feat\. Noah Kahan\)](https://open.spotify.com/track/3a1Zmq0P1E6W80x8EOcVNP) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [From Michigan With Love](https://open.spotify.com/album/7zGPSFi3LOIC1L5Dj0oEBx) | 2:58 |
 | 52 | [MEAN! \(Remix\) \[with Noah Kahan\]](https://open.spotify.com/track/7vMusXp03B9ydnQl3LGtk7) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [MEAN! \(Remix\) \[with Noah Kahan\]](https://open.spotify.com/album/1pzHmsdosYFjgkV6Xz9Uoz) | 2:23 |
 
-Snapshot ID: `Mjg0NzUyOTEsMDAwMDAwMDAxZmQ3MjMyOTg0MDNhNGExNjQzMjk4YWE1MzdmYzFlYQ==`
+Snapshot ID: `Mjg0NzcwNzYsMDAwMDAwMDBmZTY3ZmM0NjJkMTUzZDViMDU5MGRjNGNkNmEyNjcxMg==`

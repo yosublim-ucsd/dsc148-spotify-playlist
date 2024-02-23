@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlWpJblBvap.md) - [plain]
 
 > Majestic and bold, these new and known worship songs are great for every day\.  Cover artist: <a href="https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz?si=nomEqKq7SM6sx93LoxQChw">Kim Walker\-Smith</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 554,058 likes - 80 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 554,247 likes - 80 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlWpJblBvap.md) - [plain]
 | 79 | [King of My Heart](https://open.spotify.com/track/4HBXdr8LXB22UPBi191b6S) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek), [Sarah McMillan](https://open.spotify.com/artist/1taeI8pm5kXswB7L4603Tz) | [You Are the Avalanche](https://open.spotify.com/album/21t1ObaaRvRIRRrF1bwlhw) | 4:55 |
 | 80 | [Here's My Heart \- Live](https://open.spotify.com/track/4lD6Rr1Z7oNhKh0EtdCNpf) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [A Live Worship Experience](https://open.spotify.com/album/25mkgg56UiC6L5WoVoPteq) | 6:51 |
 
-Snapshot ID: `MCxmZGZlY2UwZTFiZWRmMmRiMjYzYjU2M2JmZTU3YjI0Zjc3OTc2MzVh`
+Snapshot ID: `MCxkODY5ZGVmMDhlOTBlOTI4ODhmYWU2YWJhMjQyMmQ4YTA2ZTFmZDE3`

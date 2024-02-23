@@ -4,7 +4,7 @@
 
 > Solo artistas independientes, actualizada todos los miércoles\. Foto: Chini Tacchini.
 
-3,614 songs - 7 day 20 hr 13 min
+3,615 songs - 7 day 20 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2692,6 +2692,7 @@
 | [Pétalos Rojos](https://open.spotify.com/track/3yvsoImJ3zoygVJEzaoKYQ) | [Martín Mañas](https://open.spotify.com/artist/7bvDLoSwAlwOA0ZmuPrqpq) | [Pétalos Rojos](https://open.spotify.com/album/74ZSKVD7hHBACjEMGnUh8l) | 2:27 | 2023-04-11 | 2023-04-19 |
 | [Q Pasa Conmigo? :\(](https://open.spotify.com/track/6uopO6a07Gll5dC0eW6ijY) | [Pablo Plo](https://open.spotify.com/artist/51gxgzwo4j6ZqogWQQcHXX) | [En Mi Nube](https://open.spotify.com/album/7qKRfnssoakg1SLvqKQp9R) | 2:44 | 2023-11-01 | 2023-11-08 |
 | [QBONITATUCARA](https://open.spotify.com/track/5bpigftBLeYv6JNbs5nbPA) | [FEELFLACO](https://open.spotify.com/artist/58XJOkR9Z11iSbwIv8zPzZ), [Nheva](https://open.spotify.com/artist/3cFjJFlKjV0u7tKEkEfbBQ) | [QBONITATUCARA](https://open.spotify.com/album/2uu2Yrafm107hdLWL4fQ7J) | 3:45 | 2023-08-08 | 2023-08-30 |
+| [QLDATEH](https://open.spotify.com/track/4p6lTYcLUQ2epGt6ITE6BF) | [Vik Faded](https://open.spotify.com/artist/6KIXVSHkjB1KYh3EFeO3ur) | [QLDATEH](https://open.spotify.com/album/5YSsBGubygAnsVo8cy7gIF) | 3:26 | 2024-02-20 |  |
 | [Quan Neix la Primavera](https://open.spotify.com/track/4kSGSEKvC4Xt6TntavbI3R) | [Drug Holiday](https://open.spotify.com/artist/3dVHqf6yAR1Z1EgPpNch3A) | [Quan Neix la Primavera](https://open.spotify.com/album/6sre19E69ulSyA2snqjdsJ) | 3:01 | 2023-06-13 | 2023-06-21 |
 | [Que dirían](https://open.spotify.com/track/4SmpxomGVGy14ZBKEJwhg6) | [SIMUN](https://open.spotify.com/artist/7pblj68X1nrA8nlgTjjLVp) | [Que dirían](https://open.spotify.com/album/2XXUEjgM4ukq7aVjcdhCra) | 3:44 | 2023-09-19 | 2023-09-27 |
 | [Que Haga Sol o Que Llueva](https://open.spotify.com/track/51EZ8Fc5jTlp7a3QwKEvza) | [Tú Ves Ovnis](https://open.spotify.com/artist/0HTh4DYbZHPxPPJEL1qr6K) | [Cambio de Ciclo](https://open.spotify.com/album/37b9zjZTM79tRiJf7uaigm) | 3:20 | 2022-11-15 | 2022-11-23 |

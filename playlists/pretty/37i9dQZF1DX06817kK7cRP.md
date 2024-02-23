@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06817kK7cRP.md) - [plain]
 
 > Soft Jazz beats in the background while you're studying or relaxing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,588 likes - 125 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,624 likes - 125 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06817kK7cRP.md) - [plain]
 | 124 | [Morning Waffles](https://open.spotify.com/track/1XhDC4CcSNpeBKuxER02gt) | [Twiggy Fiz](https://open.spotify.com/artist/5nSlNHeiPo3oBXSOXJfuh8) | [Morning Waffles](https://open.spotify.com/album/0GKyzzLrKS6f61Z6jYCvB7) | 2:24 |
 | 125 | [Amethyst](https://open.spotify.com/track/6XbL87j8HuMLzHfQeyumXK) | [Jonny Tobin](https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO) | [Together](https://open.spotify.com/album/7mlqv5ptQizQ5P8nWQthQr) | 4:20 |
 
-Snapshot ID: `MCw3YTVjZWQ3ZTVmYTMxNzJhMmZlM2ZhMGNmNzA5ZDc2YjgxNzkyZjNj`
+Snapshot ID: `MCxlYWYwYmUyNTBiY2QyOGU4YjY0ZmYzNTc2YzliN2FmYmZkYmJiMmZk`

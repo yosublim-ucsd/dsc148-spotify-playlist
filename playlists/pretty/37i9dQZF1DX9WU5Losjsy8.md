@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WU5Losjsy8.md) - [plain]
 
 > Skifoan und Hüttenabriss.
 
-[Spotify](https://open.spotify.com/user/spotify) - 395,919 likes - 80 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 396,066 likes - 80 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WU5Losjsy8.md) - [plain]
 | 73 | [Ciao 3 Tage Blau](https://open.spotify.com/track/3AZ24YPWIpb82PaduK1FZS) | [David Dichter](https://open.spotify.com/artist/74h8vjazetNDShaoBT7Oxj), [Inki Nici](https://open.spotify.com/artist/6XImI4RFNKNPL82h8eRTxP), [Dj Aaron](https://open.spotify.com/artist/0pVuJqYW9lsToZRBmkFXPJ) | [Ciao 3 Tage Blau](https://open.spotify.com/album/0UspjAHvU9oPeNgoyGK5gw) | 3:08 |
 | 74 | [Marie](https://open.spotify.com/track/1vCEGctxBKGxWeMS46cCoe) | [Die Draufgänger](https://open.spotify.com/artist/6poBa7e0hqMo8tfNjh0TAV) | [Marie](https://open.spotify.com/album/4mcC9YpL3rtRWUDpGPE2XP) | 3:20 |
 | 75 | [Kabinenparty \(feat\. MAKZ 38\) \- Kreisliga Mix](https://open.spotify.com/track/4tL82MSbNxW9aMexbmnXS2) | [Kreisligalegende](https://open.spotify.com/artist/4gH1d6uZiIbhiUUJoHsd8f), [MartinBepunkt](https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc), [Nils\_Gucki](https://open.spotify.com/artist/0IKHmPWMEtjcERBTOo34GF), [MAKZ 38](https://open.spotify.com/artist/3G3KqIib0FNSVpjDl9NhAF) | [Kabinenparty \(feat\. MAKZ 38\) \[Kreisliga Mix\]](https://open.spotify.com/album/20F5fGaxNSc27Fxp3rNO1x) | 2:22 |
-| 76 | [Igel](https://open.spotify.com/track/64r7hoDyAEesRYT1XI0lTl) | [Ikke Hüftgold](https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf), [Vanessa Mai](https://open.spotify.com/artist/3WUe8ADT5d65WeByR3ubl7) | [Nummer Eins](https://open.spotify.com/album/4LsbC8kqRWTfexA75JsX6J) | 2:14 |
+| 76 | [Igel](https://open.spotify.com/track/64r7hoDyAEesRYT1XI0lTl) | [Ikke Hüftgold](https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf), [Vanessa Mai](https://open.spotify.com/artist/3WUe8ADT5d65WeByR3ubl7), [SdZunT](https://open.spotify.com/artist/3PpEgwJhg1pD1FeAEVdqVs) | [Nummer Eins](https://open.spotify.com/album/4LsbC8kqRWTfexA75JsX6J) | 2:14 |
 | 77 | [Nachbarn](https://open.spotify.com/track/1aBi2cwSWOaYz0kC0P27ok) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD) | [Nachbarn](https://open.spotify.com/album/30AvhaHvCvYYwj0o8YlQea) | 3:01 |
 | 78 | [7 Sünden \- Party Mix](https://open.spotify.com/track/4HCaFtRMdrP6iQepyPkfW6) | [DJ Ötzi](https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr), [Marc Pircher](https://open.spotify.com/artist/7pNnbFPWqtDSdSeNydTPbJ) | [Sternstunden](https://open.spotify.com/album/5k9mAJ5lR5sUAuMYzcCmu1) | 3:59 |
 | 79 | [Holterdiepolter](https://open.spotify.com/track/1JLkfGbg0vw9VBTZeuPPNZ) | [Anstandslos & Durchgeknallt](https://open.spotify.com/artist/5R8zS6ofKclznKk3ffudoO), [Georg Stengel](https://open.spotify.com/artist/7jQYzUpPshdP6jZS7lJSDU) | [Holterdiepolter](https://open.spotify.com/album/3LIRqulsOhSVKoOVUMMj4J) | 3:12 |
 | 80 | [Partysau](https://open.spotify.com/track/0tEr9vAe483LIkxQOEk55R) | [Malle Kalle](https://open.spotify.com/artist/18LfR2nMtsEBVRcjOmpUgP), [Danergy](https://open.spotify.com/artist/0lcOO2pXTNgXWPcOgFQnMf) | [Partysau](https://open.spotify.com/album/7os2XcLO5jiSftCstEWzAI) | 1:55 |
 
-Snapshot ID: `MCwwOWY2ZWY4YjZjMzVkYWQ3NjQ1ZmYxYTkyN2ZmODFhOTQ4MmNjNmVk`
+Snapshot ID: `MCwxMDY4N2VmZmFjOGQyYThmN2I2OTEzYjZmZjAyZDY5MTUxOWFkNzlk`

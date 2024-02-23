@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjg0Njc2NjAsMDAwMDAwMDA5MTliYmQ3NDFmM2I2ZTk3MDM3NjgyODU2YzhjODQ4NQ==",
+  "snapshot_id": "Mjg0Njc2NjAsMDAwMDAwMDBmYjViYzJkMDAzYjk2MTY4YmJmNzlkMzYzOWM4ZmI1Mw==",
   "tracks": [
     {
       "added_at": "2024-02-16 05:00:00",
@@ -107,6 +107,42 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "Ottomans",
+        "url": "https://open.spotify.com/album/0GSXfRutHvrM76sOwT6R1y"
+      },
+      "artists": [
+        {
+          "name": "Brother Ali",
+          "url": "https://open.spotify.com/artist/6CsleyOZtyt16saX8WhzDx"
+        },
+        {
+          "name": "unJUST",
+          "url": "https://open.spotify.com/artist/1oBNw3AgFohk2z2BjUka6u"
+        }
+      ],
+      "duration_ms": 172076,
+      "name": "Ottomans",
+      "url": "https://open.spotify.com/track/3crUmnbeVLEhkfjbX2GHLU"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "One, Two, & 3",
+        "url": "https://open.spotify.com/album/1vQWQX4pHIp1c1QSntHZrn"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 206007,
+      "name": "One, Two, & 3",
+      "url": "https://open.spotify.com/track/1Yu1fJCwqEWlacl4ofyeUg"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "Here Comes The BoomBap",
         "url": "https://open.spotify.com/album/3MEXKDUzdVhakokGOluRo1"
       },
@@ -135,26 +171,6 @@
       "duration_ms": 219878,
       "name": "Here Comes The BoomBap",
       "url": "https://open.spotify.com/track/45rBrop3cu4ZPxlzxNqLRd"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Ottomans",
-        "url": "https://open.spotify.com/album/0GSXfRutHvrM76sOwT6R1y"
-      },
-      "artists": [
-        {
-          "name": "Brother Ali",
-          "url": "https://open.spotify.com/artist/6CsleyOZtyt16saX8WhzDx"
-        },
-        {
-          "name": "unJUST",
-          "url": "https://open.spotify.com/artist/1oBNw3AgFohk2z2BjUka6u"
-        }
-      ],
-      "duration_ms": 172076,
-      "name": "Ottomans",
-      "url": "https://open.spotify.com/track/3crUmnbeVLEhkfjbX2GHLU"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -199,24 +215,8 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "One, Two, & 3",
-        "url": "https://open.spotify.com/album/1vQWQX4pHIp1c1QSntHZrn"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 206007,
-      "name": "One, Two, & 3",
-      "url": "https://open.spotify.com/track/1Yu1fJCwqEWlacl4ofyeUg"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Nothing",
-        "url": "https://open.spotify.com/album/5UH47NIEKQbj5oivxQ6pyn"
+        "url": "https://open.spotify.com/album/0ghNsmRvZyOMxrYkDV3jVS"
       },
       "artists": [
         {
@@ -230,7 +230,7 @@
       ],
       "duration_ms": 126142,
       "name": "Nothing",
-      "url": "https://open.spotify.com/track/0tNrKgDkrktMm5QKRbvWWv"
+      "url": "https://open.spotify.com/track/3MGtul8CfDAIEEBV1HrpbV"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -295,8 +295,8 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "VULTURES 1",
-        "url": "https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF"
+        "name": "CARNIVAL PACK",
+        "url": "https://open.spotify.com/album/7pX434FLw0bG1BPKVAyRfk"
       },
       "artists": [
         {
@@ -310,11 +310,19 @@
         {
           "name": "Ty Dolla $ign",
           "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         }
       ],
-      "duration_ms": 111458,
-      "name": "BURN",
-      "url": "https://open.spotify.com/track/04CyMEHliadfQWMUJb1w99"
+      "duration_ms": 264324,
+      "name": "CARNIVAL",
+      "url": "https://open.spotify.com/track/0U1bfnMhuViHvUhDfxp1NX"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -491,22 +499,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "The Equable",
-        "url": "https://open.spotify.com/album/1FJJvfqsXOOZGk1YJxiRYU"
-      },
-      "artists": [
-        {
-          "name": "Persefone",
-          "url": "https://open.spotify.com/artist/4wxyib7wQwVxwKNFBmOhAw"
-        }
-      ],
-      "duration_ms": 388496,
-      "name": "The Equable",
-      "url": "https://open.spotify.com/track/0ZJlWerfrs7GjOo5NdpSYv"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "HHHistory",
         "url": "https://open.spotify.com/album/3PqWqzEL9q9fWUk5tU4jGI"
       },
@@ -519,6 +511,22 @@
       "duration_ms": 190106,
       "name": "Pas possible",
       "url": "https://open.spotify.com/track/7hF9l8mdFuknxwtxwOtLBx"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Lingua Ignota: Part I",
+        "url": "https://open.spotify.com/album/1tQq6Actphb5JBlKC83gKB"
+      },
+      "artists": [
+        {
+          "name": "Persefone",
+          "url": "https://open.spotify.com/artist/4wxyib7wQwVxwKNFBmOhAw"
+        }
+      ],
+      "duration_ms": 388496,
+      "name": "The Equable",
+      "url": "https://open.spotify.com/track/4UxJcns8mhRVaRqfTxmwZA"
     },
     {
       "added_at": "2024-02-16 05:00:00",

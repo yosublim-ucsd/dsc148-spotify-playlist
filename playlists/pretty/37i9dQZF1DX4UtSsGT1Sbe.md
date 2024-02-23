@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4UtSsGT1Sbe.md) - [plain]
 
 > The biggest songs of the 1980s\. Cover: Michael Jackson.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,734,825 likes - 150 songs - 10 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,737,087 likes - 150 songs - 10 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4UtSsGT1Sbe.md) - [plain]
 | 149 | [Arthur's Theme \(Best That You Can Do\)](https://open.spotify.com/track/5fnOrhQ4KgT5irGCjIccGH) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Arthur \- The Album \[Original Soundtrack\]](https://open.spotify.com/album/0QXYfxXpKeLlr3hueenIHB) | 3:54 |
 | 150 | [West End Girls \- 2018 Remaster](https://open.spotify.com/track/2Di0qFNb7ATroCGB3q0Ka7) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Please: Further Listening 1984 \- 1986 \(2018 Remaster\)](https://open.spotify.com/album/47fRf3JwriMUPPzFjdvNS6) | 4:45 |
 
-Snapshot ID: `MCw5NzhjNzA1MWU5MmI3Yjg2ODcxNDFkM2EwNGRjYjA4MTBiYzdkM2E2`
+Snapshot ID: `MCw2ZjBlYmJhMzczNjM2OTY4ODZkMmJhYWNiYTUxMzQ0NTg4NGQxOWE5`

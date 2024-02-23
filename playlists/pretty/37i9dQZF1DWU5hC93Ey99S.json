@@ -1,12 +1,12 @@
 {
   "description": "all the stutter, all the feels.",
-  "num_followers": 49474,
+  "num_followers": 49736,
   "original_name": "Emotional Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMzg3MmFmMmJlNjQ1OTAwMTVjOWY1YzU2YmQyNGJlMGJjYjcxM2M5",
+  "snapshot_id": "MCwwMjg1NjA4NGUyYTYxN2I4ZDI2YTE2YTcwNDhmNzFiNDEyNGJiM2Vi",
   "tracks": [
     {
       "added_at": "2024-02-15 23:00:00",
@@ -23,6 +23,26 @@
       "duration_ms": 158822,
       "name": "Lifetime",
       "url": "https://open.spotify.com/track/1oH6oeK8iKeRL9VTQY5w2r"
+    },
+    {
+      "added_at": "2024-02-22 23:00:00",
+      "album": {
+        "name": "Regret The Morning",
+        "url": "https://open.spotify.com/album/6tU5eRh9yr1IOBr5vUdx4D"
+      },
+      "artists": [
+        {
+          "name": "SILK",
+          "url": "https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a"
+        },
+        {
+          "name": "Mali-Koa",
+          "url": "https://open.spotify.com/artist/45Dc572GdbJ6Guc8X3UW24"
+        }
+      ],
+      "duration_ms": 166386,
+      "name": "Regret The Morning",
+      "url": "https://open.spotify.com/track/4Sj4ZeOPAcdAhYplVbezI0"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -111,6 +131,94 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
+        "name": "Mas Que Nada",
+        "url": "https://open.spotify.com/album/44wLGCkvr83VxYsioCROFf"
+      },
+      "artists": [
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        },
+        {
+          "name": "Ian Asher",
+          "url": "https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km"
+        },
+        {
+          "name": "S\u00e9rgio Mendes",
+          "url": "https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7"
+        }
+      ],
+      "duration_ms": 127016,
+      "name": "Mas Que Nada",
+      "url": "https://open.spotify.com/track/6yW6Q8ZPgDBQA1yHWL4Jmh"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/1xZLqjELRfpo9cJsYFidtX"
+      },
+      "artists": [
+        {
+          "name": "VisionV",
+          "url": "https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf"
+        },
+        {
+          "name": "Kiiwi",
+          "url": "https://open.spotify.com/artist/3Ise3P2bsbX7Fd5N8zc1oD"
+        }
+      ],
+      "duration_ms": 177920,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/3UgUOY2mFLBueoiDuhC4m8"
+    },
+    {
+      "added_at": "2024-02-22 23:00:00",
+      "album": {
+        "name": "Keep Breathing",
+        "url": "https://open.spotify.com/album/0FOMukLvEZjDM6OECfjCp5"
+      },
+      "artists": [
+        {
+          "name": "Lynnic",
+          "url": "https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT"
+        },
+        {
+          "name": "ItsArius",
+          "url": "https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27"
+        },
+        {
+          "name": "Mocean",
+          "url": "https://open.spotify.com/artist/7aKMGvHnwW3UXE2Q2OLQSN"
+        }
+      ],
+      "duration_ms": 172997,
+      "name": "Keep Breathing",
+      "url": "https://open.spotify.com/track/7jwqJC4HVydUmjG7AAhZPG"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Forget You",
+        "url": "https://open.spotify.com/album/2a3254o7a4lhbfuHdRDjTJ"
+      },
+      "artists": [
+        {
+          "name": "All Is Fine",
+          "url": "https://open.spotify.com/artist/4oWonABFu4oZ9gks7oST80"
+        },
+        {
+          "name": "Alexine",
+          "url": "https://open.spotify.com/artist/4aQbwXmSokNi0u4v4U0e1t"
+        }
+      ],
+      "duration_ms": 143283,
+      "name": "Forget You",
+      "url": "https://open.spotify.com/track/1qy9CxuSfcG67k3BwK3hP2"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
         "name": "heart of mine",
         "url": "https://open.spotify.com/album/481YxIHg7ob0L4BNEAbFzm"
       },
@@ -165,6 +273,22 @@
       "url": "https://open.spotify.com/track/2i3nykI6NtCdrp6TyTuTVM"
     },
     {
+      "added_at": "2024-02-22 23:00:00",
+      "album": {
+        "name": "In My Mind",
+        "url": "https://open.spotify.com/album/4eYA7Zv64Zf4TrE9js5VLo"
+      },
+      "artists": [
+        {
+          "name": "Lavern",
+          "url": "https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO"
+        }
+      ],
+      "duration_ms": 120461,
+      "name": "In My Mind",
+      "url": "https://open.spotify.com/track/45c9wiUAAYRgbAnBcfPEsk"
+    },
+    {
       "added_at": "2024-02-15 23:00:00",
       "album": {
         "name": "Moments",
@@ -183,6 +307,30 @@
       "duration_ms": 174573,
       "name": "Moments",
       "url": "https://open.spotify.com/track/6cAFvBPtco4nFUkU6wA2yk"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Stay By My Side",
+        "url": "https://open.spotify.com/album/6zM186jhhhYlW2Mz7J43UE"
+      },
+      "artists": [
+        {
+          "name": "Alvix",
+          "url": "https://open.spotify.com/artist/6kvuWxnfDOejSwLyAliFfY"
+        },
+        {
+          "name": "Mike Emilio",
+          "url": "https://open.spotify.com/artist/0ijmTKTGsjqOXfL5mWgUXC"
+        },
+        {
+          "name": "Mangoo",
+          "url": "https://open.spotify.com/artist/6ObeGN1qTsep95QRNOfNc3"
+        }
+      ],
+      "duration_ms": 124800,
+      "name": "Stay By My Side",
+      "url": "https://open.spotify.com/track/0yMIZRZLBG7rh3xiHAFR9Z"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -245,24 +393,20 @@
       "url": "https://open.spotify.com/track/32aeRhnsILUPSbPiH5x62t"
     },
     {
-      "added_at": "2024-02-15 23:00:00",
+      "added_at": "2024-02-22 23:00:00",
       "album": {
-        "name": "Breathe",
-        "url": "https://open.spotify.com/album/1xZLqjELRfpo9cJsYFidtX"
+        "name": "i have zero care",
+        "url": "https://open.spotify.com/album/45L44NQqwug9hrAQ5nUK0v"
       },
       "artists": [
         {
-          "name": "VisionV",
-          "url": "https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf"
-        },
-        {
-          "name": "Kiiwi",
-          "url": "https://open.spotify.com/artist/3Ise3P2bsbX7Fd5N8zc1oD"
+          "name": "heartaake",
+          "url": "https://open.spotify.com/artist/57vkczkmC48439UWdL7oJa"
         }
       ],
-      "duration_ms": 177920,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/3UgUOY2mFLBueoiDuhC4m8"
+      "duration_ms": 172444,
+      "name": "i have zero care",
+      "url": "https://open.spotify.com/track/7BZP33GGS34GmUZQrPlivk"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -281,48 +425,20 @@
       "url": "https://open.spotify.com/track/199wv1uOJYZ1XyK8FTzwh2"
     },
     {
-      "added_at": "2024-02-15 23:00:00",
+      "added_at": "2024-02-22 23:00:00",
       "album": {
-        "name": "Mas Que Nada",
-        "url": "https://open.spotify.com/album/44wLGCkvr83VxYsioCROFf"
+        "name": "NEVER CHANGE // LET IT GO",
+        "url": "https://open.spotify.com/album/4zeEUFM5hYkzQMN1GVdaet"
       },
       "artists": [
         {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
-        },
-        {
-          "name": "Ian Asher",
-          "url": "https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km"
-        },
-        {
-          "name": "S\u00e9rgio Mendes",
-          "url": "https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7"
+          "name": "Boston Bun",
+          "url": "https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5"
         }
       ],
-      "duration_ms": 127016,
-      "name": "Mas Que Nada",
-      "url": "https://open.spotify.com/track/6yW6Q8ZPgDBQA1yHWL4Jmh"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
-        "name": "Forget You",
-        "url": "https://open.spotify.com/album/2a3254o7a4lhbfuHdRDjTJ"
-      },
-      "artists": [
-        {
-          "name": "All Is Fine",
-          "url": "https://open.spotify.com/artist/4oWonABFu4oZ9gks7oST80"
-        },
-        {
-          "name": "Alexine",
-          "url": "https://open.spotify.com/artist/4aQbwXmSokNi0u4v4U0e1t"
-        }
-      ],
-      "duration_ms": 143283,
-      "name": "Forget You",
-      "url": "https://open.spotify.com/track/1qy9CxuSfcG67k3BwK3hP2"
+      "duration_ms": 211093,
+      "name": "NEVER CHANGE // LET IT GO",
+      "url": "https://open.spotify.com/track/7at4vjSkojonReNjqHepVb"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -339,6 +455,26 @@
       "duration_ms": 201036,
       "name": "Faster",
       "url": "https://open.spotify.com/track/32wWoepx8MRN4zf2rzIZEK"
+    },
+    {
+      "added_at": "2024-02-22 23:00:00",
+      "album": {
+        "name": "The Way",
+        "url": "https://open.spotify.com/album/07Rst2iO3blr3EWD5r6Pjl"
+      },
+      "artists": [
+        {
+          "name": "DWELLO",
+          "url": "https://open.spotify.com/artist/26BzdbXkQr6eenU7j5ZDSR"
+        },
+        {
+          "name": "WESTIN",
+          "url": "https://open.spotify.com/artist/3VQG7sQ6dWCf3biJaBW2wp"
+        }
+      ],
+      "duration_ms": 217337,
+      "name": "The Way",
+      "url": "https://open.spotify.com/track/6xyCrIFJiZXmQgcGRrzXmU"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -381,28 +517,24 @@
       "url": "https://open.spotify.com/track/05VS9ifTEUpV6RiajKLxxW"
     },
     {
-      "added_at": "2024-02-15 23:00:00",
+      "added_at": "2024-02-22 23:00:00",
       "album": {
-        "name": "Stay By My Side",
-        "url": "https://open.spotify.com/album/6zM186jhhhYlW2Mz7J43UE"
+        "name": "Underworld",
+        "url": "https://open.spotify.com/album/16qVIVSeZkDYrbNRLA9zTD"
       },
       "artists": [
         {
-          "name": "Alvix",
-          "url": "https://open.spotify.com/artist/6kvuWxnfDOejSwLyAliFfY"
+          "name": "Cortese",
+          "url": "https://open.spotify.com/artist/60Fn82pTq3Z4vyJPgBjH77"
         },
         {
-          "name": "Mike Emilio",
-          "url": "https://open.spotify.com/artist/0ijmTKTGsjqOXfL5mWgUXC"
-        },
-        {
-          "name": "Mangoo",
-          "url": "https://open.spotify.com/artist/6ObeGN1qTsep95QRNOfNc3"
+          "name": "J Wax",
+          "url": "https://open.spotify.com/artist/32UMn8JWwIcnJp5P7G61UQ"
         }
       ],
-      "duration_ms": 124800,
-      "name": "Stay By My Side",
-      "url": "https://open.spotify.com/track/0yMIZRZLBG7rh3xiHAFR9Z"
+      "duration_ms": 270857,
+      "name": "Underworld",
+      "url": "https://open.spotify.com/track/1CgXur4MKHpzt65SA15EtH"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -551,6 +683,58 @@
     {
       "added_at": "2024-02-15 23:00:00",
       "album": {
+        "name": "Make It Better (Remixes Vol.1)",
+        "url": "https://open.spotify.com/album/0Vgs0dllM7oSR7U1oZPgs3"
+      },
+      "artists": [
+        {
+          "name": "Dashdot",
+          "url": "https://open.spotify.com/artist/0dDnvI6TCQslhEBYCA4DPU"
+        },
+        {
+          "name": "Maxximal",
+          "url": "https://open.spotify.com/artist/5qPkBljA5md7aECwFxSabY"
+        },
+        {
+          "name": "Ashibah",
+          "url": "https://open.spotify.com/artist/5krSTcI0xPGmeloiQTPsYP"
+        },
+        {
+          "name": "ZAC",
+          "url": "https://open.spotify.com/artist/5xUXAwPZ98FzFgjTNOIPyv"
+        },
+        {
+          "name": "BAKKA (BR)",
+          "url": "https://open.spotify.com/artist/5VQhfKlaFyzx7Kz1VEF2u8"
+        }
+      ],
+      "duration_ms": 296129,
+      "name": "Make It Better [ZAC & BAKKA (BR) Remix]",
+      "url": "https://open.spotify.com/track/2SbAoNQVqVkIuFTFV94Bdm"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
+        "name": "Renaissance",
+        "url": "https://open.spotify.com/album/4MT3BeO1DE8PAbsJSgfDtA"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        },
+        {
+          "name": "VisionV",
+          "url": "https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf"
+        }
+      ],
+      "duration_ms": 151688,
+      "name": "Renaissance",
+      "url": "https://open.spotify.com/track/03aBQclFfQ82oEYCYTORfY"
+    },
+    {
+      "added_at": "2024-02-15 23:00:00",
+      "album": {
         "name": "All I Need",
         "url": "https://open.spotify.com/album/0REyCTre7WLmJnVmBDMqgN"
       },
@@ -579,26 +763,6 @@
       "duration_ms": 231176,
       "name": "without ur love",
       "url": "https://open.spotify.com/track/4EZWt3NPTOoY9LBk7GuFmC"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
-        "name": "Renaissance",
-        "url": "https://open.spotify.com/album/4MT3BeO1DE8PAbsJSgfDtA"
-      },
-      "artists": [
-        {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
-        },
-        {
-          "name": "VisionV",
-          "url": "https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf"
-        }
-      ],
-      "duration_ms": 151688,
-      "name": "Renaissance",
-      "url": "https://open.spotify.com/track/03aBQclFfQ82oEYCYTORfY"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -671,38 +835,6 @@
       "duration_ms": 208135,
       "name": "Mwaki",
       "url": "https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc"
-    },
-    {
-      "added_at": "2024-02-15 23:00:00",
-      "album": {
-        "name": "Make It Better (Remixes Vol.1)",
-        "url": "https://open.spotify.com/album/0Vgs0dllM7oSR7U1oZPgs3"
-      },
-      "artists": [
-        {
-          "name": "Dashdot",
-          "url": "https://open.spotify.com/artist/0dDnvI6TCQslhEBYCA4DPU"
-        },
-        {
-          "name": "Maxximal",
-          "url": "https://open.spotify.com/artist/5qPkBljA5md7aECwFxSabY"
-        },
-        {
-          "name": "Ashibah",
-          "url": "https://open.spotify.com/artist/5krSTcI0xPGmeloiQTPsYP"
-        },
-        {
-          "name": "ZAC",
-          "url": "https://open.spotify.com/artist/5xUXAwPZ98FzFgjTNOIPyv"
-        },
-        {
-          "name": "BAKKA (BR)",
-          "url": "https://open.spotify.com/artist/5VQhfKlaFyzx7Kz1VEF2u8"
-        }
-      ],
-      "duration_ms": 296129,
-      "name": "Make It Better [ZAC & BAKKA (BR) Remix]",
-      "url": "https://open.spotify.com/track/2SbAoNQVqVkIuFTFV94Bdm"
     },
     {
       "added_at": "2024-02-15 23:00:00",
@@ -2178,6 +2310,10 @@
         {
           "name": "BKAYE",
           "url": "https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9"
+        },
+        {
+          "name": "Aria Ohlsson",
+          "url": "https://open.spotify.com/artist/4hFc1FC8qA7XFF1XrTwlsJ"
         }
       ],
       "duration_ms": 153750,

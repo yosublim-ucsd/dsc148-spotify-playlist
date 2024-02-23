@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xiztvBdlUf.md) - [plain]
 
 > Deep House in all its shapes and colours.
 
-[Spotify](https://open.spotify.com/user/spotify) - 620,067 likes - 80 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 620,213 likes - 80 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xiztvBdlUf.md) - [plain]
 | 79 | [Howl \- Logic1000 Remix](https://open.spotify.com/track/4ZS3lUdUGn5NFaw5FwWIgB) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6), [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Howl \(Logic1000 Remix\)](https://open.spotify.com/album/6HbMk0eBtEDGFMMlkpV5gq) | 4:49 |
 | 80 | [Roads Of Gold \- Edit](https://open.spotify.com/track/1M1g0SAJavX4mMLqEqKTDn) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [Redward Martin](https://open.spotify.com/artist/2WnWBVe8DzF0qpstAxddn2) | [Roads Of Gold](https://open.spotify.com/album/5j2ZsWodikhixJNHhUCGKq) | 5:10 |
 
-Snapshot ID: `MCxkZjZiZjIyZjU3YTYyNTI4OGVjYTZiODQyZWEzNjYwMjZkMjJkMTRl`
+Snapshot ID: `MCwzY2Y3OGI3ODM3N2ZjZThkZmRmMGY2NTI4MTg5NTYxMTViNmEwZWMz`

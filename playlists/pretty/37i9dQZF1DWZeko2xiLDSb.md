@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeko2xiLDSb.md) - [plain]
 
 > soundtrack those long, dark days with warm indie favourites
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,473 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,500 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeko2xiLDSb.md) - [plain]
 | 99 | [homebody](https://open.spotify.com/track/4By9kkp1R1TSmAMckSM3KO) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [sucks to see you doing better \(extended\)](https://open.spotify.com/album/2W8nO4x2KlHc3z3xxe23PW) | 3:11 |
 | 100 | [Tomb](https://open.spotify.com/track/6EcKanoJrfQ9lWODXQEFrV) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Tomb](https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj) | 4:18 |
 
-Snapshot ID: `MCw4ZDE5NjRiNTZmYjZhMGMzNGNlMTVlOTY2NGRiOTQ2NDVlNGM2MDdj`
+Snapshot ID: `MCwyYjlhN2RlZDY3MjQ2ZDM4NTBlNmYyZTM4ZTYwZWMyYTYzYWY4ZTIw`

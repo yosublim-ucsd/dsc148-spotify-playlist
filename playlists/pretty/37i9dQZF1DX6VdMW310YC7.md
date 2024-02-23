@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VdMW310YC7.md) - [plain]
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,699,392 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,699,623 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VdMW310YC7.md) - [plain]
 | 99 | [Those Days](https://open.spotify.com/track/5AE9gV2YLkcGwbgcObklNi) | [Chris Luno](https://open.spotify.com/artist/2fttFhhXMsCbJgf9KqSGcq), [Exit Coda](https://open.spotify.com/artist/1tWlyIsg08lUcBQ4ckFUH8) | [Those Days](https://open.spotify.com/album/2Vvb4crZUQD03YL5NObxCX) | 3:47 |
 | 100 | [Manzanita](https://open.spotify.com/track/4G0cM5vW6osbKteFqcgexA) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ) | [Manzanita](https://open.spotify.com/album/2Qidx1pVb6bVpooKf9tiUt) | 2:44 |
 
-Snapshot ID: `MCw4NGZhZTRmY2RjZmUzNTA2ZjJkOGYzZDEwMDlhMDM0YjZiMDczOWJi`
+Snapshot ID: `MCxmYWFlNTE5Njc4NTQzMGQxYzY1NDUwYzljYzI4OWNlYjJlOTkyYTdj`

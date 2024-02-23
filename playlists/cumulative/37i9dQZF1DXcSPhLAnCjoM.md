@@ -2,9 +2,9 @@
 
 ### [Grand Hit](https://open.spotify.com/playlist/37i9dQZF1DXcSPhLAnCjoM)
 
-> Pierre Garnier au top des 50 hits de variété française du moment.
+> Joseph Kamel et Julien Doré au top des 50 hits de variété française du moment.
 
-100 songs - 5 hr 17 min
+103 songs - 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [C'est aujourd'hui que ça se passe](https://open.spotify.com/track/4O5MbNZGTYRF1FxbWJ8WIO) | [Grand Corps Malade](https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM) | [REFLETS](https://open.spotify.com/album/2hHVzGgGqYdPTJlZn081u6) | 2:47 | 2023-11-09 |  |
 | [C'est fou comme je t'aime](https://open.spotify.com/track/46KAkT2PJ7aAgYiJAUsrKM) | [Foé](https://open.spotify.com/artist/5KRLYv4JDKx5jvR2EOdw7a) | [C'est fou comme je t'aime](https://open.spotify.com/album/1vXL0FA7JkIjvBbv0J4kdm) | 2:40 | 2023-09-28 |  |
 | [C'est la danse](https://open.spotify.com/track/2T8c2wfGiP6WmrFfvZ1MAn) | [Keen' V](https://open.spotify.com/artist/5iZMWWLoDJH1u6Ru2rOEsd) | [Équilibre](https://open.spotify.com/album/1KAqfN196NXDeuYjaNnv8V) | 2:48 | 2023-09-28 | 2023-10-06 |
+| [Capitaine \(feat\. Styleto\)](https://open.spotify.com/track/084wxZBvCg1vToPvQqqaow) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC), [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [Sentiments Heureux](https://open.spotify.com/album/6GzP3vBN1zC3XhGefey6y5) | 2:33 | 2024-02-22 |  |
 | [Celui qui part](https://open.spotify.com/track/3iJQzmcPnLrTC7WOQ2kYUt) | [Joseph Kamel](https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI) | [Celui qui part](https://open.spotify.com/album/2I7XAd8CHqNXmuIf6jUnMe) | 2:34 | 2023-09-28 |  |
 | [Ceux qu'on était](https://open.spotify.com/track/5Pzh42xn3oAXHh4U7tVHMr) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr) | [Ceux qu'on était](https://open.spotify.com/album/0s4v36LmZVmcutSEXwt3uD) | 2:54 | 2024-02-08 |  |
 | [Chez toi](https://open.spotify.com/track/4RFMijduXiJ13hHuYwPMoG) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz), [Claudio Capéo](https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz) | [Chroniques d’un cupidon](https://open.spotify.com/album/1a6v54PDHcrn6y5iA7wuT1) | 3:19 | 2023-09-28 | 2024-01-19 |
@@ -39,9 +40,9 @@
 | [Ensemble](https://open.spotify.com/track/55JGh2i5BWxm1vLwcyOEaC) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Aliocha Schneider](https://open.spotify.com/album/5wSrUAHl9x25A4w0wXpJLO) | 3:02 | 2023-09-28 |  |
 | [Ensemble](https://open.spotify.com/track/5z2bZJzUTK6s1lbxeR6vsU) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Ensemble](https://open.spotify.com/album/3a5KpqE788Z72Yj2UCdWaU) | 3:02 | 2023-09-28 | 2023-10-02 |
 | [Et un jour une femme](https://open.spotify.com/track/6vB93dZmNfYrNuk2vsmb7f) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9), [Christophe Maé](https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z) | [Et un jour une femme](https://open.spotify.com/album/1Kc8wvRqOBiwtBYpRu2leY) | 5:18 | 2023-09-28 | 2024-02-02 |
-| [Feel Good](https://open.spotify.com/track/6PcVlezWXunO2Bh78iEq0W) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Feel Good](https://open.spotify.com/album/3W7uKLpwgHebqF1kjKbYix) | 2:43 | 2023-11-09 |  |
+| [Feel Good](https://open.spotify.com/track/6PcVlezWXunO2Bh78iEq0W) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Feel Good](https://open.spotify.com/album/3W7uKLpwgHebqF1kjKbYix) | 2:43 | 2023-11-09 | 2024-02-23 |
 | [Flash](https://open.spotify.com/track/3EfttFhRYALpOcWbHBR0fZ) | [Maëlle](https://open.spotify.com/artist/5Ha8JdCWeJ8vdqEhzgiSU5) | [Fil Rouge](https://open.spotify.com/album/657eSseT00fReQMUiSEinS) | 3:13 | 2024-01-11 |  |
-| [fou](https://open.spotify.com/track/1FG0HeNkIK4bmj6W1iBg3B) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [fou](https://open.spotify.com/album/1fYpB6W7Yt1RopNSdVGMk9) | 2:48 | 2024-01-11 |  |
+| [fou](https://open.spotify.com/track/1FG0HeNkIK4bmj6W1iBg3B) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [fou](https://open.spotify.com/album/1fYpB6W7Yt1RopNSdVGMk9) | 2:48 | 2024-01-11 | 2024-02-23 |
 | [Fuguer](https://open.spotify.com/track/14EyAVX55liO55GZUr6LOQ) | [Juliette Armanet](https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa) | [Brûler le Feu 2](https://open.spotify.com/album/4cpqnqV7914MH1bGNqbS0t) | 3:06 | 2023-10-05 | 2023-12-15 |
 | [Hey Bro](https://open.spotify.com/track/3llW2J8Gl8LggqQcQSjyqM) | [Eloïz](https://open.spotify.com/artist/1J7b2Snol73xTmYILnCk1t) | [Hey Bro](https://open.spotify.com/album/2lJNU3gStbWwaudk0qrIXD) | 2:30 | 2023-09-28 |  |
 | [Holidays \- Ofenbach Rework](https://open.spotify.com/track/1tZQQot5H6wxWXiwsclT13) | [Michel Polnareff](https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT), [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw) | [Holidays \(Ofenbach Rework\)](https://open.spotify.com/album/3GoqRd7odk60LOJW8fvftD) | 2:26 | 2023-09-28 | 2024-01-26 |
@@ -52,6 +53,7 @@
 | [J'étais pas fait pour le bonheur](https://open.spotify.com/track/35A7vKNxPv68FrRg6PkFuS) | [Pascal Obispo](https://open.spotify.com/artist/6XPs6CAjfdxIFrVVUFRrAS), [Giordana Angi](https://open.spotify.com/artist/0ZhqSTaEEWN6USw0E30pws) | [J'étais pas fait pour le bonheur](https://open.spotify.com/album/6iuVrMQpc9O6pFIWS9k5d1) | 3:01 | 2023-09-28 | 2023-11-18 |
 | [Je cours \(feat\. Nuit Incolore\)](https://open.spotify.com/track/3SIwPysPwGNDZmNyyf1dwG) | [Kyo](https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok), [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F) | [Le chemin \- 20 ans](https://open.spotify.com/album/1YK3ZdEdUsSgRTwEG9yZVz) | 2:50 | 2023-12-07 |  |
 | [Je m'en fous](https://open.spotify.com/track/74ljmdHbvY25QxR9NyAF4O) | [Lisa Pariente](https://open.spotify.com/artist/2D15WFlWJuCeEGC1LGss6X) | [Je m'en fous](https://open.spotify.com/album/2HiMpX3S30PigSeVi7YH9A) | 2:31 | 2024-02-01 |  |
+| [Je me déteste](https://open.spotify.com/track/1B97v4IiTHiHb3eBWthmcm) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F) | [Je me déteste](https://open.spotify.com/album/4oNr1o2S6TCsJvKM9Um1Ly) | 3:03 | 2024-02-22 |  |
 | [Je n'oublie pas](https://open.spotify.com/track/0hFK73Z6tXs6S5YFPL72eW) | [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht) | [Je n'oublie pas](https://open.spotify.com/album/32ky5za1bDfWF9O8KjcPf7) | 3:23 | 2023-09-28 |  |
 | [Je partirai](https://open.spotify.com/track/3qdffH7BqUr4kOxaenMkiZ) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Cœur parapluie](https://open.spotify.com/album/3kME3h1CTVDYeg6O1F2GVG) | 3:15 | 2023-09-28 | 2023-11-11 |
 | [Je reste calme](https://open.spotify.com/track/3Or4BEBgd0TSlQWqqxFYHR) | [Camélia Jordana](https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7) | [Je reste calme](https://open.spotify.com/album/3nYlOopDy3IUXx1fV3YQQy) | 2:52 | 2023-10-19 | 2023-12-09 |
@@ -80,7 +82,8 @@
 | [Les étoiles](https://open.spotify.com/track/656reMy5BDuXUbNRr7oeg3) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Sentiments Heureux \(nan j'déconne\)](https://open.spotify.com/album/1w0eAL8YxKe9MVvZdNtUqH) | 3:27 | 2023-10-05 |  |
 | [LOVE'n'TENDRESSE](https://open.spotify.com/track/5Dc4S7ECVVY2oCvPQ1951S) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [LOVE'n'TENDRESSE](https://open.spotify.com/album/59dyXvxxaowblmFm3tkFe6) | 3:14 | 2023-09-28 |  |
 | [Mamma Mia](https://open.spotify.com/track/3p26SlvvvwRo3WY9pUTlE0) | [Mentissa](https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS) | [La vingtaine](https://open.spotify.com/album/1xMisloOjQEMQTRte7kkJz) | 2:56 | 2023-09-28 |  |
-| [Mauvais rêve](https://open.spotify.com/track/6IZWTHVNit0ajtXwAWDGO9) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Mauvais rêve](https://open.spotify.com/album/5blMLwINO84ZJntrW0CTNh) | 3:59 | 2023-09-28 |  |
+| [Mauvais rêve](https://open.spotify.com/track/6IZWTHVNit0ajtXwAWDGO9) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Mauvais rêve](https://open.spotify.com/album/5blMLwINO84ZJntrW0CTNh) | 3:59 | 2023-09-28 | 2024-02-23 |
+| [Memento](https://open.spotify.com/track/5Cn6HUjq30KK6UBCryPMhn) | [Esmée](https://open.spotify.com/artist/4ltaLmNRwdD98CtEsot497) | [Memento](https://open.spotify.com/album/3Er5vnJ0cRHfX44Unh4FbQ) | 3:39 | 2024-02-22 |  |
 | [Mercredi](https://open.spotify.com/track/3sro7j7pDMNquQEQHKa2xR) | [Pierre de Maere](https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd) | [Regarde\-moi](https://open.spotify.com/album/0yHJkjaOVLRH5VZajnYHr9) | 2:51 | 2023-11-09 |  |
 | [Mieux comme ça ? \(feat\. Petit K\)](https://open.spotify.com/track/0aKBA3rWo1eBw6I9K1wXvg) | [Stéphane](https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif), [Petit K](https://open.spotify.com/artist/6YfkvtZmlYJ9nct7G37wY6) | [Madame](https://open.spotify.com/album/55Ya1piow9PzoMfpGfswLd) | 3:00 | 2023-09-28 | 2023-12-09 |
 | [Mon amour](https://open.spotify.com/track/5N7IYups0hGrlVcvj0bmHG) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Mon amour](https://open.spotify.com/album/6FguEmDlsEN93BBiEbwsRn) | 3:00 | 2023-11-16 |  |

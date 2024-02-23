@@ -4,7 +4,7 @@
 
 > Sitting in a cozy café studying while the rain is pouring down outside.
 
-118 songs - 6 hr 50 min
+121 songs - 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Elise](https://open.spotify.com/track/2siast7oxxUacDe3OiZuYx) | [Holborns](https://open.spotify.com/artist/2gC8FqAcOqWElBDNVIHbRm) | [Rainy Days Jazz](https://open.spotify.com/album/5rfKCLIjhCsotHx4wbWDIV) | 2:42 | 2023-04-27 |  |
 | [Eternity](https://open.spotify.com/track/5EZQIWcPbstB9bGfZyMVP5) | [Greydon Park Band](https://open.spotify.com/artist/6pZIC4vzuNxdwy8hJSq29S) | [Eternity Rain](https://open.spotify.com/album/3VyBGuqp5a0oBTCbLkpIdr) | 3:40 | 2023-04-27 |  |
 | [Evening Rain](https://open.spotify.com/track/4tfNLlpSHpFvBsVufocJKn) | [Lennie Weston](https://open.spotify.com/artist/2i25BOgCBeXtPKKpj3I0NJ) | [Evening Rain](https://open.spotify.com/album/6dWDQjgAC5tLFm19J2YgFU) | 4:02 | 2023-04-27 |  |
+| [Faber](https://open.spotify.com/track/482CNrlW4YFB0QiKySuxFq) | [Ballroom Jazz Collective](https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL) | [Faber](https://open.spotify.com/album/2at9fFe2ZxNu7MVCetxx4U) | 3:30 | 2024-02-23 |  |
 | [Farmland](https://open.spotify.com/track/1l5zTu0n5D0D1488z9QKvL) | [Sverrir Audland](https://open.spotify.com/artist/62pUUDqEOmiAntBGGKLs6T) | [Farmland](https://open.spotify.com/album/1CknfwJF9oqXYKFwCNYo1C) | 3:36 | 2023-06-22 |  |
 | [Feathers](https://open.spotify.com/track/06NxUSlMIb6JsSC0cW4HhH) | [Novo Stella](https://open.spotify.com/artist/1YrNSfkC8jWJm1rfvOKN32) | [Eternity Rain](https://open.spotify.com/album/3VyBGuqp5a0oBTCbLkpIdr) | 3:23 | 2023-04-27 |  |
 | [Forests Sometimes](https://open.spotify.com/track/3rDVLfUb6s70EdNhrVOycF) | [Jonah Anderson](https://open.spotify.com/artist/5Pb7mQGBSkDqTrQKTKeSZa) | [Forests Sometimes](https://open.spotify.com/album/4c5tCMY258trdUWxqJ4J5j) | 4:03 | 2023-04-27 |  |
@@ -67,6 +68,7 @@
 | [Kites](https://open.spotify.com/track/5GBFC6IMRifrXhGpvntHHj) | [Sverrir Audland](https://open.spotify.com/artist/62pUUDqEOmiAntBGGKLs6T) | [Kites](https://open.spotify.com/album/1xckIXwRecVrXSRxG7sWJR) | 3:26 | 2023-04-27 |  |
 | [Knep \- Rain](https://open.spotify.com/track/2CdvXIuW8jHByY469ph8k4) | [Paddington St\. Group](https://open.spotify.com/artist/2wgAdNr1UerjSdYbhcagSO) | [Knep \- Rain](https://open.spotify.com/album/2VwdRqGWSTuW2flvR9gIym) | 3:54 | 2023-04-27 |  |
 | [Landing](https://open.spotify.com/track/5aWqkwh860xhalXLdDCEpM) | [Red Brick Lane](https://open.spotify.com/artist/2zw8MpGMCASv0YfeAuUUzJ) | [Night Songs](https://open.spotify.com/album/1PUymjohkZif5MR150o773) | 3:04 | 2023-04-27 |  |
+| [Last July](https://open.spotify.com/track/2iSk8f5ORB6lB0nFECBRHW) | [Eduard Landings](https://open.spotify.com/artist/6SF8oe9fw9X65MbLwQfkau) | [Last July](https://open.spotify.com/album/143rj0nzCnMvtM2QwxMS86) | 3:22 | 2024-02-23 |  |
 | [Leaky Roofs](https://open.spotify.com/track/6NynfWuoyXIfUtivo6rIxu) | [Japari Park](https://open.spotify.com/artist/5waLCZV0AzAqjHOln3XZMW) | [Leaky Roofs](https://open.spotify.com/album/2NkWcy7M5v9TR0kmAAryEA) | 4:29 | 2023-06-22 |  |
 | [Lies And Illusions](https://open.spotify.com/track/6EGRzh9ore7oILIWBmUl2K) | [More than Jazz](https://open.spotify.com/artist/6BLANsh44CPzD19TF0X0Et) | [Lies And Illusions](https://open.spotify.com/album/4nzv5Jf3VjNfEw06qvNPzS) | 3:49 | 2023-09-22 |  |
 | [Lilys Dream \- With Rain](https://open.spotify.com/track/3mmqVXFbshhfqNMyqY1xYi) | [Japari Park](https://open.spotify.com/artist/5waLCZV0AzAqjHOln3XZMW) | [Lilys Dream \- With Rain](https://open.spotify.com/album/7gWz9hPVKS6JT1x1o4Q8tn) | 3:32 | 2023-04-27 |  |
@@ -116,6 +118,7 @@
 | [Tell Me \- Rain](https://open.spotify.com/track/6otMukSGKb6tFs0O25xlGl) | [Foster Davies](https://open.spotify.com/artist/78Pm7H24T9om74ZfNs4UF7) | [Tell Me \(Rain\)](https://open.spotify.com/album/2hNl2gh5ok1dz58Srt82gX) | 4:25 | 2023-04-27 |  |
 | [Tenderness](https://open.spotify.com/track/0Ke9kuEjZzRIEDOPT6bcDR) | [Tyree](https://open.spotify.com/artist/2iLuAUEEOAfWQr83WzyCof) | [Tenderness](https://open.spotify.com/album/0N8Tp6t6hgmGYzbc3fbEVu) | 3:32 | 2023-06-15 |  |
 | [Three Views Of A Secret \- Rain version](https://open.spotify.com/track/7agbpfkAH7NrfjSU2lfiUZ) | [Joyce Trio](https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf) | [Three Views Of A Secret \- Rain version](https://open.spotify.com/album/1pJXVnXlKtZt5hxRWHX6fZ) | 4:26 | 2023-04-27 |  |
+| [Tuesdays](https://open.spotify.com/track/0AzGdVC2mlwjIAG6eeBceQ) | [Willowdale](https://open.spotify.com/artist/57UeAcyqrdUXJlNLqXFtIF) | [Tuesdays](https://open.spotify.com/album/2hmGySYY8f7KmXjYD9yn15) | 3:19 | 2024-02-23 |  |
 | [Under My Umbrella](https://open.spotify.com/track/18kKrkIzW4NO0WKRVPtyqT) | [Sverrir Audland](https://open.spotify.com/artist/62pUUDqEOmiAntBGGKLs6T) | [Under My Umbrella](https://open.spotify.com/album/7KAotzp6Y8jn1byQJeo3SC) | 3:59 | 2023-04-27 |  |
 | [Velvet Moon](https://open.spotify.com/track/2jbL9THwH9EQ8MdRgbp7Lx) | [Sive Holmes](https://open.spotify.com/artist/1k2DVXf8G1sKF5n5d6qp5v) | [Velvet Moon](https://open.spotify.com/album/4pcLOa1SDpLc0edJ0wIAop) | 1:52 | 2023-04-27 | 2023-08-26 |
 | [Vesper \- Rainy Jazz](https://open.spotify.com/track/7ehvwDE0lWKvVsYcXQ5CzZ) | [Dries Riesen](https://open.spotify.com/artist/2CBiYt7JDgmt7EYJEVmDdL) | [Vesper \(Rainy Jazz\)](https://open.spotify.com/album/5Pn68JjCb2TRPlLX1VBLls) | 4:15 | 2023-04-27 |  |

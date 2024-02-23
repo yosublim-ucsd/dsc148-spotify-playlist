@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9MDcH3vBMo0.md) - [plain]
 
 > Una bella banda sonora que acompañará tu tiempo de lectura.
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,169 likes - 250 songs - 10 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,368 likes - 250 songs - 10 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9MDcH3vBMo0.md) - [plain]
 | 249 | [Homage](https://open.spotify.com/track/5imJAvlEBQf9OWjogd3VEm) | [Inside Lands](https://open.spotify.com/artist/7fQumDmow1qrPuRXqMHUa7) | [Homage](https://open.spotify.com/album/0U0hTrIvfgJCB59rb8sApb) | 2:43 |
 | 250 | [Looking Back](https://open.spotify.com/track/3GXXTCrbeSnCCeex84gUnX) | [JON](https://open.spotify.com/artist/7717ICSNEMAa0SC9LaXrGP) | [Looking Back](https://open.spotify.com/album/1z7dnB4fPpXGtPC1GON9rY) | 2:50 |
 
-Snapshot ID: `MCwwNWRkYmQ3ZjZjNWZjOGE5ZDViZjdjNjE4NGUwYjFlOTk1ZTU3ODM3`
+Snapshot ID: `MCw0ZDc5YTAzMjBjYWY4NjczN2RhMzdhOTAyYzFjMzQ0NTdhN2ZlMWYz`

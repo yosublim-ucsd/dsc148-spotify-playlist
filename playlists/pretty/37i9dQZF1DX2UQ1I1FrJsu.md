@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UQ1I1FrJsu.md) - [plain]
 
 > natural wine vibes, because wine not? \| Photo: Stir Crazy LA
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,224 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,362 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UQ1I1FrJsu.md) - [plain]
 | 99 | [Sacatela](https://open.spotify.com/track/0ZH2Ve6Ns1kzEMWunJoAek) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Teatro Lúcido](https://open.spotify.com/album/6x8QhgzstEOQZl50dvArzI) | 2:52 |
 | 100 | [Astral Plane](https://open.spotify.com/track/6srWhJKBiuuPXpjUjQeAHc) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Silver](https://open.spotify.com/album/043vgwukOxX7bcL4VuMX10) | 4:41 |
 
-Snapshot ID: `MCxjMWE0YWNlM2Q3Y2YwYTIxYTBiMTYwOGY0MWFjZTgyZTYwZTJmZDM3`
+Snapshot ID: `MCw5YjM0NjZiMDUxN2MyNTA5Y2ZmNDFmMWQwZWY4NzVkZTVhNTQzOWUw`

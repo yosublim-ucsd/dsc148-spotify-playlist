@@ -4,7 +4,7 @@
 
 > 今日1日を、元気に迎えるためのプレイリスト！
 
-516 songs - 1 day 4 hr 39 min
+518 songs - 1 day 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Airplane Tickets](https://open.spotify.com/track/2v1FKs8SR6tYEYREKM6MNN) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Airplane Tickets](https://open.spotify.com/album/6xEpW40GaWcE663h7cA3Ws) | 3:18 | 2024-01-04 | 2024-01-17 |
 | [Akatoki Reload](https://open.spotify.com/track/62EpDxcm0oRG5uxvjtel9r) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Akatoki Reload](https://open.spotify.com/album/5g1qutSXgwGmx5uEMzjfzk) | 4:04 | 2023-01-31 | 2023-02-03 |
 | [All Night](https://open.spotify.com/track/1mHGtXWQSfnzB5CLVnsykO) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [All Night](https://open.spotify.com/album/4GJuAhTBGZUgdAFLU5phPk) | 3:28 | 2023-09-21 | 2023-10-04 |
-| [All Night Long](https://open.spotify.com/track/1vQWFjEC34DHNXrRTFjDxe) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [All Night Long](https://open.spotify.com/album/4JMnG7K7XcaDlqOHS106i7) | 2:58 | 2024-01-18 |  |
+| [All Night Long](https://open.spotify.com/track/1vQWFjEC34DHNXrRTFjDxe) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [All Night Long](https://open.spotify.com/album/4JMnG7K7XcaDlqOHS106i7) | 2:58 | 2024-01-18 | 2024-02-23 |
 | [ALOS](https://open.spotify.com/track/6RDPV5PjbVSy4EtyI6dUI3) | [Daichi Miura](https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ) | [ALOS](https://open.spotify.com/album/29y5aBN0K1xZx5u6jroZ2U) | 3:30 | 2023-01-31 | 2023-02-15 |
 | [Alright](https://open.spotify.com/track/0zhtsgZpLGeBNQ4MvBV5c5) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Alright](https://open.spotify.com/album/2GJCsJ8mn64XEQbss1WRMJ) | 2:52 | 2023-06-01 | 2023-06-21 |
 | [Amazing](https://open.spotify.com/track/4fUMgL19kixzHhrttFZXsD) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg) | 4:05 | 2023-09-28 | 2023-12-20 |
@@ -392,6 +392,7 @@
 | [Until I Found You](https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Until I Found You](https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i) | 2:57 | 2023-01-31 | 2023-12-13 |
 | [Use Me \(Brutal Hearts\) \(feat\. Sturgill Simpson, Dove Cameron & Johnny Blue Skies\)](https://open.spotify.com/track/6tRzd5IvfCywkLX8OdTDiB) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB), [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE), [Johnny Blue Skies](https://open.spotify.com/artist/5R55ruC73ANyzDSOzIZjNc) | [Diplo Presents Thomas Wesley: Chapter 2 \- Swamp Savant](https://open.spotify.com/album/7ELhUQl1bjPyYHtRt7S5vg) | 3:22 | 2023-07-27 | 2023-08-02 |
 | [Used To Be Young](https://open.spotify.com/track/41WQUSINanQHfhfKpFDsms) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:11 | 2023-09-06 |  |
+| [Value](https://open.spotify.com/track/6BEnpVB7g2j8mzWs3MC2kh) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Value](https://open.spotify.com/album/63xNXfql8mdsOd1fZjodbf) | 3:05 | 2024-02-22 |  |
 | [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 | 2023-09-11 |  |
 | [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 | 2023-06-29 | 2023-09-11 |
 | [Victoria's Secret](https://open.spotify.com/track/4svaKoxMMP7ImmKrD5hfQu) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew) | [Victoria’s Secret](https://open.spotify.com/album/47eeG5ewIbO53gXZOkvHhg) | 2:56 | 2023-02-02 | 2023-02-05 |
@@ -466,6 +467,7 @@
 | [マイナーなキス \(川谷絵音より\)](https://open.spotify.com/track/5aK41yNkJmkwa7vBroG2Vn) | [Ai Otsuka](https://open.spotify.com/artist/0q7KOr99MYmwKxivChxpSd) | [marble](https://open.spotify.com/album/1LHccueAFTr89QOcxSmvKe) | 3:05 | 2023-09-05 | 2023-09-10 |
 | [マシロ](https://open.spotify.com/track/07px1DXwJ5VXyHA8396ySP) | [sumika](https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb) | [マシロ](https://open.spotify.com/album/6pJMwyufoIy2yaGhDfjc9P) | 3:10 | 2023-12-21 | 2024-01-10 |
 | [マーメイド](https://open.spotify.com/track/2E0zCVEO5yKPlWPSY7Rk5e) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [マーメイド](https://open.spotify.com/album/4E6w5h2440vYWD9xgub8Gq) | 3:55 | 2023-07-05 | 2023-07-14 |
+| [メイデン](https://open.spotify.com/track/5n4hfQXhSc1nXYoKTAS2xb) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [僕だけの愛](https://open.spotify.com/album/1rUF9QA4jMdL55gIgL0vxZ) | 2:55 | 2024-02-22 |  |
 | [ユートピア](https://open.spotify.com/track/2ALfxGK9zPIkTvJbCjkSeI) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [ユートピア](https://open.spotify.com/album/5sHVrMHdMBPBTkQtq3ka4V) | 4:32 | 2023-07-06 | 2023-12-08 |
 | [ラブじゃん](https://open.spotify.com/track/2vnWduAon47Ra9Th9dCAuY) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [ラブじゃん](https://open.spotify.com/album/6pTeKfeTsyxknsyH4YrpSF) | 3:20 | 2023-01-31 | 2023-02-03 |
 | [リカ](https://open.spotify.com/track/5iPPyvEn7BcWw34aGKGd6W) | [SIX LOUNGE](https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX) | [リカ](https://open.spotify.com/album/5luFrHAHn4fb5r7KhdoYlE) | 3:36 | 2023-08-31 | 2023-10-11 |
@@ -515,7 +517,7 @@
 | [聴かないで、ゼッタイ](https://open.spotify.com/track/5gPp1y1OvtuibckkFGjagK) | [LAGHEADS](https://open.spotify.com/artist/4ByaRqzQAftsd7bdCS3hqN), [マハラージャン](https://open.spotify.com/artist/77m3B5JqIr2YdD71lpezmd) | [聴かないで、ゼッタイ](https://open.spotify.com/album/2dzLZjf387QQdXUt9a81Kp) | 3:42 | 2023-01-31 | 2023-02-03 |
 | [自由](https://open.spotify.com/track/7z0FfMMoJGsL6hgsoR0U6M) | [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT) | [自由](https://open.spotify.com/album/4ncVqlgrw7CKMnRTuRidM1) | 3:56 | 2023-05-19 | 2023-07-12 |
 | [自由とヒステリー](https://open.spotify.com/track/3KislKlpHjR6seRcfu1Eiv) | [My Hair is Bad](https://open.spotify.com/artist/0d4XqzcMpgP6eQZ6TIW2pI) | [自由とヒステリー](https://open.spotify.com/album/3UjEuPcS76f6o97UxyLu3J) | 3:17 | 2024-02-20 |  |
-| [花になって \- Be a flower](https://open.spotify.com/track/2EmkTBTh964LQen4Vz0svg) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [花になって \- Be a flower](https://open.spotify.com/album/2CmupdP2p1BOYVYh2cjtJc) | 3:19 | 2024-01-04 |  |
+| [花になって \- Be a flower](https://open.spotify.com/track/2EmkTBTh964LQen4Vz0svg) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [花になって \- Be a flower](https://open.spotify.com/album/2CmupdP2p1BOYVYh2cjtJc) | 3:19 | 2024-01-04 | 2024-02-23 |
 | [花占い](https://open.spotify.com/track/4ETc1oFREuqQss7VQ1Y4mj) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:27 | 2023-11-14 | 2024-01-10 |
 | [芽吹け](https://open.spotify.com/track/4aeSypCiv2gSs34o7cbTkP) | [Akihito Okano](https://open.spotify.com/artist/1ioDAlx6i5snCxm2z9ZnUD) | [Walkin' with a song](https://open.spotify.com/album/70A8uhhWCJpeKMpxJOwX5d) | 3:41 | 2023-08-22 | 2023-09-01 |
 | [運命の蜜](https://open.spotify.com/track/2AXWWRuHHH6AxvkUoMQdWN) | [ルイ](https://open.spotify.com/artist/11YYwcMwOT9LS7GA4CO4R8) | [運命の蜜](https://open.spotify.com/album/6fArl62Z4JSBV5RVwvvrt2) | 4:01 | 2023-11-21 | 2024-01-05 |

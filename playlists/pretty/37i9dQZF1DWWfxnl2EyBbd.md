@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 
 > The soft sound of a Jazz piano trio to help you relax and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,130 likes - 400 songs - 1 day 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,166 likes - 400 songs - 1 day 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -409,4 +409,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 | 399 | [M Song](https://open.spotify.com/track/0HAgy13OBnW3BPBNIi5AOh) | [Michel Bisceglia](https://open.spotify.com/artist/5wKMe0NPv5nsl5dYRnCkiC), [Marc Lehan](https://open.spotify.com/artist/0QMgOp0gF1fxA5egCXg96G), [Werner Lauscher](https://open.spotify.com/artist/2C1BWNF1DxuGqLifFqyh4U) | [M Song](https://open.spotify.com/album/28K3I7BnyJWCZXk97ASrdy) | 6:10 |
 | 400 | [Reflections](https://open.spotify.com/track/2mQToxHWRJDKQx2KCRVS1C) | [Patrik Boman](https://open.spotify.com/artist/6UJ3XmKfJ3nQmmfbkRRDxw), [Göran Strandberg](https://open.spotify.com/artist/5UvgzmaFmOKd0xaN7iCrgu), [Sebastian Voegler](https://open.spotify.com/artist/3VLS93sGJffMxEEkNt85JB) | [Reflections](https://open.spotify.com/album/020CpEUx5DhqpMKyOOZTJ0) | 5:29 |
 
-Snapshot ID: `MCw5Mjg1NGIxNDc5YmU4ZDM5YTRhODliOWU3YzY0Mjc0ODM4ZmQyZjk2`
+Snapshot ID: `MCxjNWE1NTU1ODBkOWI2YTY3MWY5ZjYzZmFlYjEzN2IzNGRhZDAyZDVk`

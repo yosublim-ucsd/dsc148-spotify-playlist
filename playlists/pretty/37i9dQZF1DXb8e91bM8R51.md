@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb8e91bM8R51.md) - [plain]
 
 > Hip Hop pra fazer os corres da vida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,243 likes - 120 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,257 likes - 120 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb8e91bM8R51.md) - [plain]
 | 119 | [A Roller Skating Jam Named "Saturdays"](https://open.spotify.com/track/1ihXWWbKNIrb7S7ERA6Qcb) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU), [Vinia Mojica](https://open.spotify.com/artist/1vsWTWAvfdqNeFmXq72SlC) | [De La Soul is Dead](https://open.spotify.com/album/5F3GEttPPR58Gg15BKUsTd) | 4:02 |
 | 120 | [Tetris](https://open.spotify.com/track/7tQpKKS4Jis0pCotemeLdz) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Vinyl Days](https://open.spotify.com/album/0RTHMVF27KRMHIGnF7iLru) | 2:04 |
 
-Snapshot ID: `MCxiN2M3ZGIwYWY1ZGVjNjkxOTg3MWM4MGUzNGU4YzdiYTI1ZDg3NjY4`
+Snapshot ID: `MCxhNjM2YzQ2MzE1ZjE3M2EzZDYzNzIzODUxNzkzMWNmOTY3ODA5Y2Iy`

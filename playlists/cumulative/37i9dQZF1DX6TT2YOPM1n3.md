@@ -2,7 +2,7 @@
 
 ### [Pakka Hit Hai](https://open.spotify.com/playlist/37i9dQZF1DX6TT2YOPM1n3)
 
-> Current Pakistani hits under one roof\. Cover: Hasan Raheem
+> Current Pakistani hits under one roof\. Cover: Nehaal Naseem, Aashir Wajahat, NAYEL
 
 127 songs - 8 hr 10 min
 

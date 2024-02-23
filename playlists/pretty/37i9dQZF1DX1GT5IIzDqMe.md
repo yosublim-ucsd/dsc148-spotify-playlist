@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GT5IIzDqMe.md) - [plain]
 
 > Detroit <a href="spotify:genre:techno">Techno</a> Essentials\. Cover: DJ Minx.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,116 likes - 50 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,140 likes - 50 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GT5IIzDqMe.md) - [plain]
 | 49 | [Red Room](https://open.spotify.com/track/1guCg3jJIYTDhfa35oWYV7) | [Dantiez](https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma) | [Red Room](https://open.spotify.com/album/0BNMNVsOTRMmRN43yuPDm4) | 6:40 |
 | 50 | [The Bearer \(feat\. Karina Mia\) \- Brother's Burden Pt1](https://open.spotify.com/track/3INuFzi0KoWmHsvsrboQMX) | [Octave One](https://open.spotify.com/artist/0CRfAs5qmkRgw9x9etNGqH), [Karina Mia](https://open.spotify.com/artist/7mFivvbdZvsw2An3wKB2cu) | [The Bearer \(feat\. Karina Mia\)](https://open.spotify.com/album/3VWYKKPxpelqXTSWCdN2vd) | 6:00 |
 
-Snapshot ID: `MCxiYjQ4ZjI2NGY5OGFkZDAxN2JjYTc3ZmNiZmM4NTE0NmI2MGFkNjJi`
+Snapshot ID: `MCwyYmNhNmZiNjMyNWNkMjlkNGUwMjEyZWRmZTJmNzExNTc5OTVjNzkx`

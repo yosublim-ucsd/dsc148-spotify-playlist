@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 
 > Pass the sticks & press play.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,673,730 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,673,770 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 | 99 | [I'm Geekin \(feat\. NLE Choppa & BIA\) \- Remix](https://open.spotify.com/track/5TGkqW4UfYV1jQVLrhz4Yc) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [I'm Geekin \(feat\. NLE Choppa & BIA\) \[Remix\]](https://open.spotify.com/album/00Lj9HDscsRLpbBG3stE2g) | 3:09 |
 | 100 | [WTF \(feat\. Polo G\) \- Remix](https://open.spotify.com/track/4Y43nu7MxbFOBJnZNfuruc) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [WTF \(feat\. Polo G\) \[Remix\]](https://open.spotify.com/album/6eb8NRWbiyJrn6chLPQokL) | 2:53 |
 
-Snapshot ID: `MCxiOTEyMzA4ZGJmOWNjYmFkYjg2ZDg3OTBlOGZlMmNmYWRiNzU1MjY0`
+Snapshot ID: `MCw2OWYwZDliZjhlZjMxYTk0OWI5ZDhhOTFmMjYzYzAyZjU3Njk4NjZh`

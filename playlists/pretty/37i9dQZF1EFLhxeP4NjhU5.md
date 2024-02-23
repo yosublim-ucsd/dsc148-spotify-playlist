@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLhxeP4NjhU5.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/48szR2kmia8PcpVpxqI2o1">Gaby Music</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,044 likes - 176 songs - 9 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,045 likes - 176 songs - 9 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,8 +115,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLhxeP4NjhU5.md) - [plain]
 | 105 | [Pin](https://open.spotify.com/track/5L1GX9GFIHYm1AMAlNgoHw) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Las Leyendas Nunca Mueren](https://open.spotify.com/album/4MTtBjQEt7i752hISXjKqA) | 3:41 |
 | 106 | [Deja Tus Besos \- Remix](https://open.spotify.com/track/1XGpykJn12N7EQHtyerLKA) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Deja Tus Besos \(Remix\)](https://open.spotify.com/album/73Awf1O2lQwOcjUqfuUEFc) | 3:07 |
 | 107 | [Fin De Semana](https://open.spotify.com/track/2DFn7QiaiaNNWXuWLABatP) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Fin De Semana](https://open.spotify.com/album/5xoULy1zmC7mR6u23LMW6B) | 2:31 |
-| 108 | [Escape](https://open.spotify.com/track/1PPHqTL7IpYToKeIuA5pi9) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Aura](https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR) | 3:10 |
-| 109 | [LOKITA](https://open.spotify.com/track/5FatqfxNFb1Zb1tizky3is) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [NASTY SINGLES](https://open.spotify.com/album/7FLx7IRjwUsg9nqSGpZKg9) | 3:11 |
+| 108 | [LOKITA](https://open.spotify.com/track/5FatqfxNFb1Zb1tizky3is) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [NASTY SINGLES](https://open.spotify.com/album/7FLx7IRjwUsg9nqSGpZKg9) | 3:11 |
+| 109 | [Escape](https://open.spotify.com/track/1PPHqTL7IpYToKeIuA5pi9) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Aura](https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR) | 3:10 |
 | 110 | [Los De Siempre](https://open.spotify.com/track/5IsTVBbwSjU38VqJbZNokS) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm) | [Los De Siempre](https://open.spotify.com/album/4PIRLjzQkVZNsb2ZEeIwPQ) | 3:25 |
 | 111 | [Sin Ropa](https://open.spotify.com/track/09HSL5vRZgxXmoSrDVKMDB) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Sin Ropa](https://open.spotify.com/album/0f18VhfbW22pyrX6l4MIjX) | 2:35 |
 | 112 | [Hola](https://open.spotify.com/track/2taX5z5ZLyCBxkP504Nqmu) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Aura](https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR) | 2:48 |
@@ -153,8 +153,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLhxeP4NjhU5.md) - [plain]
 | 143 | [Todavía](https://open.spotify.com/track/32ACWJVaBtcYbPG4DFQuFy) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Épico](https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT) | 3:38 |
 | 144 | [Devorame](https://open.spotify.com/track/6E9t931KWV83mz31A0TRgL) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Iluminatti](https://open.spotify.com/album/53k64d93T2Pwjy8x71zQVO) | 3:26 |
 | 145 | [Ya Lo Se](https://open.spotify.com/track/2sBFaHiklVzIds5jAkw1WK) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Iluminatti](https://open.spotify.com/album/53k64d93T2Pwjy8x71zQVO) | 3:17 |
-| 146 | [Remate](https://open.spotify.com/track/5CxiDctwwCb40MVA8Lbe17) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Épico](https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT) | 3:26 |
-| 147 | [YA NO TE EXTRAÑO](https://open.spotify.com/track/1gZXkChBq4k1kDxJW32kAg) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [NASTY SINGLES](https://open.spotify.com/album/7FLx7IRjwUsg9nqSGpZKg9) | 3:10 |
+| 146 | [YA NO TE EXTRAÑO](https://open.spotify.com/track/1gZXkChBq4k1kDxJW32kAg) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [NASTY SINGLES](https://open.spotify.com/album/7FLx7IRjwUsg9nqSGpZKg9) | 3:10 |
+| 147 | [Remate](https://open.spotify.com/track/5CxiDctwwCb40MVA8Lbe17) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Épico](https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT) | 3:26 |
 | 148 | [Irma](https://open.spotify.com/track/3BggSspByGIm5dUWz7UceG) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [No More Tears](https://open.spotify.com/album/11NIjsSjylCxpvRUbwiK2J) | 3:27 |
 | 149 | [Por Mi Culpa](https://open.spotify.com/track/2UfFPYeWLimTFRC90At4Jd) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Épico](https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT) | 3:22 |
 | 150 | [Quiero](https://open.spotify.com/track/0mD0bi4kxvKYJh8stjNN8G) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Épico](https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT) | 3:10 |
@@ -185,4 +185,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLhxeP4NjhU5.md) - [plain]
 | 175 | [24 Horas](https://open.spotify.com/track/0r10aAQk6Em9NEYhMXaNDZ) | [Omy de Oro](https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi) | [Códigos](https://open.spotify.com/album/04lH7i7S1sf9xDx2zbIQZd) | 3:00 |
 | 176 | [El Problema](https://open.spotify.com/track/5dXTVrRz1VXQgs51b8Jftf) | [Ralph Armon](https://open.spotify.com/artist/4PygBCAS3Wkmodf5ANSkmB), [Erick Elera](https://open.spotify.com/artist/0W8XvI6GtKZf52COOfXxLW) | [El Problema](https://open.spotify.com/album/3BPunIg44Toi7BxHpllZAy) | 2:57 |
 
-Snapshot ID: `Mjg0NzYxMzAsMDAwMDAwMDA4NWQwMTJiYTI0YWM2MzU1ZGE2ZjY4OWQzOGIyNDdkZg==`
+Snapshot ID: `Mjg0Nzc1NzAsMDAwMDAwMDBhMzljMGFjNDEzMWZlOTE2MTdhNDUwNWQ4ZDc2ZGYyZQ==`

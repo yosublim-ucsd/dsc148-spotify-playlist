@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6gmUBAHLzQz.md) - [plain]
 
 > Music from "Aikatsu!", a story of young girls dreaming of becoming a top idol\. トップアイドルを目指す少女達の物語、<a href="http://www.aikatsu.net/01/">アイカツ！</a>の煌めく世界へ。\(C\)BNP/BANDAI, DENTSU, TV TOKYO
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,811 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,827 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6gmUBAHLzQz.md) - [plain]
 | 49 | [放課後ポニーテール](https://open.spotify.com/track/3xiGIhBilgostXej4XQXdm) | [れみ from STAR☆ANIS](https://open.spotify.com/artist/52g1qfRaPKmk3L4CTEH7Ec) | [TVアニメ/データカードダス『アイカツ!』COMPLETE SONGS7](https://open.spotify.com/album/2Sem3JWBAq2Mj07a7WMQD2) | 4:32 |
 | 50 | [Sweet Sp!ce](https://open.spotify.com/track/7rmJRLhAoH6J10Nont5GBl) | [ふうり・わか from STAR☆ANIS](https://open.spotify.com/artist/2iHXT032sB3RIuxCMdr0d4) | [TVアニメ/データカードダス『アイカツ!』COMPLETE SONGS8](https://open.spotify.com/album/532eAwNEHArrJe9zqLgawh) | 3:45 |
 
-Snapshot ID: `MCxmZTBkYzgwYTk5OGMxZDc4MzE4YmMwOTIyYWNmYTU2MDZhZDc0ZjM4`
+Snapshot ID: `MCxlZTI1ZTVjMmM0N2RkNWNlNzk0MzZmYjM0ZGIwNDdlZDUxMDNmYWEx`

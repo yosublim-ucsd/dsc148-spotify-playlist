@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q7wCXFrkHh.md) - [plain]
 
 > The classic piano recordings in Jazz\. Cover: Oscar Peterson
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,405 likes - 100 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,483 likes - 100 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q7wCXFrkHh.md) - [plain]
 | 99 | [Now He Sings, Now He Sobs](https://open.spotify.com/track/0k1RNOBLz27hIvNaRHqI4D) | [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq) | [Now He Sings, Now He Sobs](https://open.spotify.com/album/7wKVcBB5SgqVX3Cj3LPllE) | 7:03 |
 | 100 | [Speak Low](https://open.spotify.com/track/1zQGO7jITUE8D8w8mry8My) | [McCoy Tyner Trio](https://open.spotify.com/artist/1EpLpC0tbCla8knfhET78p) | [Inception](https://open.spotify.com/album/28mQLO6qcMbaKfQB3qzCQK) | 6:15 |
 
-Snapshot ID: `MCw2YTU3ZjBmZmJlOGMwNWNjYWI0ZGNlNjg4NjJjMTk3MTQ3Yjg4Y2Iz`
+Snapshot ID: `MCwzN2FjNDE0MDgzYmZhZmQ3YWIxZTJhNGQwMTM5NzJmYTNhYjkxZTdl`

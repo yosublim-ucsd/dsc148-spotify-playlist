@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97h7ftpNSYT.md) - [plain]
 
 > Taking it back to the 2010s\. Cover: Migos
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,612 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,659 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97h7ftpNSYT.md) - [plain]
 | 99 | [Hot \(feat\. Gunna\)](https://open.spotify.com/track/5Z8HZM6iQMhhqyPcCGY5g9) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [So Much Fun](https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh) | 3:13 |
 | 100 | [High Fashion \(feat\. Mustard\)](https://open.spotify.com/track/07KXEDMj78x68D884wgVEm) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k) | [Please Excuse Me for Being Antisocial](https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba) | 3:40 |
 
-Snapshot ID: `MCw5Yjk0OTQxMTllMzYxN2VlMTI2YWRlYjIxNDQwNTYzZjViZmI5NWZl`
+Snapshot ID: `MCwzZGFjNjI2NjM2YmQxZTM5MjU1N2IwZmMxOTk3NGQyY2E3YmNkZWM2`

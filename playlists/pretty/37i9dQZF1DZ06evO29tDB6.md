@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29tDB6.md) - [plain]
 
 > This is El Tri\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,635 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,664 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29tDB6.md) - [plain]
 | 28 | [Perro negro \- Live](https://open.spotify.com/track/2ch8w0Hcy8yXMPMIGLaQYQ) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [MTV Unplugged](https://open.spotify.com/album/1fK1XSbmTDH2UDBTXqj5bE) | 4:06 |
 | 29 | [María Sabina](https://open.spotify.com/track/3Jkj0MlvVlggnWnLndsvWb) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Clasicas para Rockear](https://open.spotify.com/album/1udzt4QE3PY1KvUinZ5xiw) | 5:11 |
 | 30 | [Mi chava no me comprende](https://open.spotify.com/track/6f9i7QVcRtypJ49wPRGmRg) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [20 Grandes Exitos](https://open.spotify.com/album/1IAzY9UInupGMgqlkroaPq) | 4:23 |
-| 31 | [Chavo De Onda](https://open.spotify.com/track/6NGS3TwVPixvTbMALDReaN) | [Juan Hernández y Su Banda de Blues](https://open.spotify.com/artist/1i7IEggecEKBWwXqsiQFqQ), [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Chavo De Onda](https://open.spotify.com/album/2TonRm97HlDsH47A2FIlZT) | 3:29 |
-| 32 | [El Blues del Diablo y la Enfermedad](https://open.spotify.com/track/2GJP2ir2DePYIgdJPnKf5d) | [Té de Brujas](https://open.spotify.com/artist/39BvzssARgDTZ1Kf0uqNfj), [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne), [Alex Lora](https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh) | [El Blues del Diablo y la Enfermedad](https://open.spotify.com/album/0OVHD0GuWAKGIlDDp1qVNq) | 4:27 |
+| 31 | [El Blues del Diablo y la Enfermedad](https://open.spotify.com/track/2GJP2ir2DePYIgdJPnKf5d) | [Té de Brujas](https://open.spotify.com/artist/39BvzssARgDTZ1Kf0uqNfj), [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne), [Alex Lora](https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh) | [El Blues del Diablo y la Enfermedad](https://open.spotify.com/album/0OVHD0GuWAKGIlDDp1qVNq) | 4:27 |
+| 32 | [Chavo De Onda](https://open.spotify.com/track/6NGS3TwVPixvTbMALDReaN) | [Juan Hernández y Su Banda de Blues](https://open.spotify.com/artist/1i7IEggecEKBWwXqsiQFqQ), [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Chavo De Onda](https://open.spotify.com/album/2TonRm97HlDsH47A2FIlZT) | 3:29 |
 | 33 | [Dama De Los Callejones](https://open.spotify.com/track/5i3WUNwsGgi7TSVWbWJWUO) | [La Leyenda](https://open.spotify.com/artist/4tV9SQmCZChk5ffIEPLjXn), [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Dama De Los Callejones](https://open.spotify.com/album/1NLiruuJjSRY8SLk0PiG7f) | 3:10 |
 | 34 | [Que viva el rocanrol \- En vivo](https://open.spotify.com/track/21vlXzWrTG8PaMcBgPIIiZ) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [20 Grandes Exitos](https://open.spotify.com/album/1IAzY9UInupGMgqlkroaPq) | 3:14 |
 | 35 | [El hablador](https://open.spotify.com/track/7CmVmboIpe4bgIQJi4hk5v) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [25 años](https://open.spotify.com/album/1nscC8n3kewpA9DAHybQ9L) | 2:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29tDB6.md) - [plain]
 | 49 | [Niño sin amor \- Live](https://open.spotify.com/track/0BiGmkT2G6B1L35BTnnDQc) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [MTV Unplugged](https://open.spotify.com/album/1fK1XSbmTDH2UDBTXqj5bE) | 5:36 |
 | 50 | [Perdedor](https://open.spotify.com/track/6Vuzr2eTcUzHzsynYacaCE) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Una rola para los minusválidos](https://open.spotify.com/album/1gk6tISd64foZA1eWwDnNg) | 3:57 |
 
-Snapshot ID: `Mjg0NzUyOTAsMDAwMDAwMDA3OTMxY2RkZWY4OTA1MjFmY2M0NTg1ZDdiZGExN2QwYg==`
+Snapshot ID: `Mjg0NzcwNzUsMDAwMDAwMDA2OTdkMGI1MTM2YjhkZWVhOTk5ZGVjNTMxMDVkMmYyZQ==`

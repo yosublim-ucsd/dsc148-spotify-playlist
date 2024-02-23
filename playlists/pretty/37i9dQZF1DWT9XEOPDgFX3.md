@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9XEOPDgFX3.md) - [plain]
 
 > Walk the bridge between indie and folk\. Cover: Babehoven
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,759 likes - 125 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,831 likes - 125 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9XEOPDgFX3.md) - [plain]
 | 124 | [Everything Everything](https://open.spotify.com/track/0q0Vlb5g3DV8pysqIllbiR) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [Echo](https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ) | 3:26 |
 | 125 | [Telephone](https://open.spotify.com/track/6kmeI9upOHk6TRSi2StNlr) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Norm](https://open.spotify.com/album/0TaN6TZg6BpT0lQNJAhGrC) | 3:42 |
 
-Snapshot ID: `MCwyNDczZDc4ZDdiNWM2ZWQ0OGZiNjU5OGMwYjUwMmRkNjJlOTY5MTUz`
+Snapshot ID: `MCw0MTI3ZTIxYzViZTQ3MDczZGFkYWNlNGQ4MTI4M2YwZGY5NTYzZmEy`

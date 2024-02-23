@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fTL90LxKyz.md) - [plain]
 
 > Go hard or go home!
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,855 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,873 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fTL90LxKyz.md) - [plain]
 | 49 | [Talk To Me Nice](https://open.spotify.com/track/1JTnvQEXkqf0ZovtKPDh9j) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p) | [Talk To Me Nice](https://open.spotify.com/album/4wt9ueqBx4ngkdrD3Rd41Z) | 2:28 |
 | 50 | [Lagga](https://open.spotify.com/track/4HYAiH7u0Ef4zRzhD7VUJ5) | [M1llionz](https://open.spotify.com/artist/5ZD4VhNTUEnEBTlWQPeyzq) | [Lagga](https://open.spotify.com/album/3ycrGoY6xf0Y2npCyyiEtU) | 3:26 |
 
-Snapshot ID: `MCxlNDRhMWMxMGI1YjJlN2ZmOWU0NzUwM2NmYWQxODE3NzUxODRiYmFl`
+Snapshot ID: `MCw3NmQ2YjUwNTk2ZWIyNTk0YjEzZjVmNTU2OThmYTI4M2I4YTNhMDU2`

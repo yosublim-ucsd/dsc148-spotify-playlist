@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 
 > unwind with these alternative favorites and new discoveries.
 
-[Spotify](https://open.spotify.com/user/spotify) - 457,228 likes - 125 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 457,303 likes - 125 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 | 124 | [Come Follow Me Down](https://open.spotify.com/track/5RPx9i0nwUdzpvJcYFTe1D) | [George Taylor](https://open.spotify.com/artist/0nuq0P5rPEpF6oFM4PTia5) | [Come Follow Me Down](https://open.spotify.com/album/45qH3mYvEOhFYrCVJC8QZn) | 3:12 |
 | 125 | [It's Depression \(feat\. Middle Part\)](https://open.spotify.com/track/6wxdyMsMqUHOeMffm1Gsch) | [Anna Shoemaker](https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4), [Middle Part](https://open.spotify.com/artist/73QtCj6d6vlI7qkLDDJJx8) | [It's Depression \(feat\. Middle Part\)](https://open.spotify.com/album/71tpQtJhXuTp5sYYWasvwW) | 3:13 |
 
-Snapshot ID: `MCw0ODhjODkwZDRhNmYxMjc4MTQ2N2VlODVlM2FmMjEwMTcxOTUwMzQ2`
+Snapshot ID: `MCwyYmE2YmUwYjBjM2I3ZTE2NDRjYjA0OTdkZGEwNzdlYWJhYTcxMDQy`

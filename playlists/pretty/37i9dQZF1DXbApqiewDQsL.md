@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 
 > The songs and collaborations pushing the Mexican sound to a global level\. Cover: Mau y Ricky, Eden Muñoz
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,751 likes - 80 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,770 likes - 80 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 | 79 | [Cambiaste](https://open.spotify.com/track/2ShMj3rcOHAMKuhI7iaJo8) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Cambiaste](https://open.spotify.com/album/0fvaFUHPvCuZnkvspk2Uxj) | 2:54 |
 | 80 | [¿Cuáles Fronteras?](https://open.spotify.com/track/4qgHbVa7Zo8S3bIQvvD99s) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [¿Cuáles Fronteras?](https://open.spotify.com/album/5lQ2Fyn2SW8Qe2FpTpikKn) | 3:00 |
 
-Snapshot ID: `MCxjNWY5MzIwZDViZDA1N2UzNDEwOGE4YmM4YzEwNmNmY2NjYTFlODlk`
+Snapshot ID: `MCwyOTE3MGVjNjg0MDVkYzg4YWFiM2JiMjk1NWFiODBiNGM1ZWU5MDg0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3OV3gs.md) - [plain]
 
 > This is Madonna\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 635,152 likes - 54 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 635,276 likes - 54 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,12 +55,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3OV3gs.md) - [plain]
 | 45 | [Die Another Day](https://open.spotify.com/track/7DUpuAzGUyJaJB3p9BC3Ms) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [American Life](https://open.spotify.com/album/6makHXbA3KBYNlYEPXyFJW) | 4:39 |
 | 46 | [Forbidden Love](https://open.spotify.com/track/2DuaKXVHCHSSTTeOnYSMG9) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Confessions on a Dance Floor](https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr) | 4:22 |
 | 47 | [You'll See](https://open.spotify.com/track/0Fb8sdyNluLawg08N1zs48) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Something to Remember](https://open.spotify.com/album/7kUiJdXqLkMTkpY0PmXUv5) | 4:41 |
-| 48 | [Girl Gone Wild](https://open.spotify.com/track/3ZfMci7n6qk9nRodX8BfIb) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [MDNA](https://open.spotify.com/album/2trAegxlPgPnZHfYrUNvp0) | 3:43 |
-| 49 | [Frozen On Fire](https://open.spotify.com/track/7MfRwjpGwlZpxOvKiMlf1m) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Sickick](https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS) | [Frozen On Fire](https://open.spotify.com/album/1tigrws32UpX26xU9Y3Yac) | 3:12 |
+| 48 | [Frozen On Fire](https://open.spotify.com/track/7MfRwjpGwlZpxOvKiMlf1m) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Sickick](https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS) | [Frozen On Fire](https://open.spotify.com/album/1tigrws32UpX26xU9Y3Yac) | 3:12 |
+| 49 | [Girl Gone Wild](https://open.spotify.com/track/3ZfMci7n6qk9nRodX8BfIb) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [MDNA](https://open.spotify.com/album/2trAegxlPgPnZHfYrUNvp0) | 3:43 |
 | 50 | [Drowned World / Substitute for Love](https://open.spotify.com/track/0beXeFEWUYYY13fYVHTtFk) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Ray of Light](https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI) | 5:08 |
-| 51 | [Medellín \(with Maluma\)](https://open.spotify.com/track/6mfu6jyFgvnXeTPQrYNs8d) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Madame X \(Deluxe\)](https://open.spotify.com/album/1G2YEQPXaOj1JZwa3ZiGe8) | 4:58 |
-| 52 | [Hollywood](https://open.spotify.com/track/4ixxz1GXB57Q6K2nbR4AwL) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [American Life](https://open.spotify.com/album/6makHXbA3KBYNlYEPXyFJW) | 4:22 |
-| 53 | [Hung Up on Tokischa](https://open.spotify.com/track/3oJzE5dSRl51xxzLeih0sy) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Hung Up on Tokischa](https://open.spotify.com/album/0lJ8KgNF2nzGoCv2yfrBxQ) | 3:26 |
-| 54 | [Ghosttown](https://open.spotify.com/track/4yDLW1kpgN7RGa6wCtxlL8) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Rebel Heart \(Deluxe\)](https://open.spotify.com/album/5TAX07toYGN4AFshlKpmZb) | 4:09 |
+| 51 | [Hollywood](https://open.spotify.com/track/4ixxz1GXB57Q6K2nbR4AwL) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [American Life](https://open.spotify.com/album/6makHXbA3KBYNlYEPXyFJW) | 4:22 |
+| 52 | [Hung Up on Tokischa](https://open.spotify.com/track/3oJzE5dSRl51xxzLeih0sy) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Hung Up on Tokischa](https://open.spotify.com/album/0lJ8KgNF2nzGoCv2yfrBxQ) | 3:26 |
+| 53 | [Ghosttown](https://open.spotify.com/track/4yDLW1kpgN7RGa6wCtxlL8) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Rebel Heart \(Deluxe\)](https://open.spotify.com/album/5TAX07toYGN4AFshlKpmZb) | 4:09 |
+| 54 | [Angel](https://open.spotify.com/track/7ov1nZ2QZc3LIuCXXERZP0) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Like a Virgin](https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX) | 3:56 |
 
-Snapshot ID: `Mjg0NzUyOTAsMDAwMDAwMDA0M2JmNGE5MGYzMTUxNTkyNDMyODM4NWQzM2U1ODRmYg==`
+Snapshot ID: `Mjg0NzcwNzUsMDAwMDAwMDBjN2QxNmVlZDhlYjc0MTRlMjA2ZDAzMjBiMmYzNzM3OA==`

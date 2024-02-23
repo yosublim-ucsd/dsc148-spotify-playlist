@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 
 > Top English songs from Asia\. Cover: Dot.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,441 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,446 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 | 74 | [Castle In The Sky](https://open.spotify.com/track/7IXkNPrfMWjigapPfs1BoL) | [Niranjan Menon](https://open.spotify.com/artist/3U14e8ytLENdFrJLKArp7d), [Artemis Fall](https://open.spotify.com/artist/2MTUquJfZa080O7BQoDBgu), [Aromal Chekaver](https://open.spotify.com/artist/730w8BmSWsTCB4sBCnBkFa) | [Castle In The Sky](https://open.spotify.com/album/4JYNyfvDS7So6b0HmnAZ2i) | 4:48 |
 | 75 | [Indigo](https://open.spotify.com/track/7mlGKWXA5ZV6HZibmRruqD) | [Dot.](https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4) | [Indigo](https://open.spotify.com/album/1eGowsUsY6D99t8NsxpRK7) | 3:20 |
 
-Snapshot ID: `MCxkZGZjMDI1MGFlNWMwNmI5NWFlMTcwYzM1YWQ0ZGI0MzljMjU0MGMz`
+Snapshot ID: `MCw4NmQyNzEzNzJhZGZhYmYxMWRiNzBjOGY5NzBjMWUzNjMwZTM2OTg5`

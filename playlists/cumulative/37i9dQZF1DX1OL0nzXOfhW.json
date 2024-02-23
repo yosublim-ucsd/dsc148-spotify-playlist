@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u6301\u7e8c\u767c\u6398\u4e16\u4e00\u8d85\u65b0\u8072\uff01",
+  "description": "\u6301\u7e8c\u767c\u6398\u4e16\u4e00\u8d85\u65b0\u8072\uff01Cover: KALAI \u5bb6\u9e97",
   "name": "RADAR HK",
   "tracks": [
     {
@@ -860,6 +860,24 @@
       "duration_ms": 172999,
       "name": "Letter",
       "url": "https://open.spotify.com/track/2lbvrvkQz9KBViH9DqIHh3"
+    },
+    {
+      "album": {
+        "name": "Like A Fool",
+        "url": "https://open.spotify.com/album/6aSI7yKwnsDDr6JL0oSZud"
+      },
+      "artists": [
+        {
+          "name": "KALAI \u5bb6\u9e97",
+          "url": "https://open.spotify.com/artist/1TwAmYMVhBwnBdNVKCHsOT"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144816,
+      "name": "Like A Fool",
+      "url": "https://open.spotify.com/track/74KUVmTg0RB1lqyfNIRN2Z"
     },
     {
       "album": {

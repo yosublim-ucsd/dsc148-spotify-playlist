@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 
 > ผลงานจากศิลปินรุ่นใหม่ เพลงดีที่น่าลองฟัง อัพเดตทุกสัปดาห์!\. ศิลปิน: vavava\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,074 likes - 85 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,078 likes - 85 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 | 84 | [ต้องพูดกี่ครั้งถึงเข้าใจ \(Enough\)](https://open.spotify.com/track/0wuWRy2PZdxqCr4IQ7wIlX) | [TITI Nichaphat](https://open.spotify.com/artist/5Xj4vMbStZeK3ONLGuug9N) | [ต้องพูดกี่ครั้งถึงเข้าใจ \(Enough\)](https://open.spotify.com/album/5LNdWiaz09uwlSp3P5EosW) | 3:22 |
 | 85 | [ดีขึ้น](https://open.spotify.com/track/1H3zMGRC6Ch5j9XuxpX2hI) | [KNzC](https://open.spotify.com/artist/5gs4wTCMulShnksLEvv2rh), [PA!NX](https://open.spotify.com/artist/4QxOzXBJf1F4xkT4DTuqeU), [DoubleG](https://open.spotify.com/artist/2oJ13JDIMVQgDqWEL7yjZ1) | [ดีขึ้น](https://open.spotify.com/album/6YdvTuxL9HFkolNqLNxzmT) | 3:40 |
 
-Snapshot ID: `MCwyODQ2ZmU5YTJhYWNkYmRjNTVlZjI2NDk5MjhjYWY3ZDQxOTg3OWFj`
+Snapshot ID: `MCxlMDE3ZTg1MmFjZjQzZGJiYzBjM2IyNmVmYTY3OTYwMTI2NjkzZTk1`

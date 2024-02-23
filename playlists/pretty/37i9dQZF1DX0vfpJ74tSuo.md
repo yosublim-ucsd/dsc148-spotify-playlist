@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vfpJ74tSuo.md) - [plain]
 
 > I woke up this morning… to the chilled sound of the Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,444 likes - 150 songs - 9 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,462 likes - 150 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vfpJ74tSuo.md) - [plain]
 | 149 | [The Ballad of John Howard Griffin](https://open.spotify.com/track/483TCXJPMDIKqygdS0gBda) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1), [Russell Malone](https://open.spotify.com/artist/4U5eHAv5qBumRcWEl84ZCb) | [Ridin'](https://open.spotify.com/album/1a6ae4VcrzwUEOCJ1lDZpq) | 5:16 |
 | 150 | [Enemies](https://open.spotify.com/track/0Kood2NdRhznv8q24bzFn7) | [Bai Kamara Jr](https://open.spotify.com/artist/6XaT6lZurc7ceDovVXISOi), [The Voodoo Sniffers](https://open.spotify.com/artist/2BdhGmWY0JPdRMrT6Kfc8C) | [Traveling Medicine Man](https://open.spotify.com/album/6aLYdXRTaEBtmQctYJog8l) | 4:14 |
 
-Snapshot ID: `MCwyNGVjN2IxMjIzZGEwMjUzZmRlYzA4MzQwOWQ5ZGI4MDI4ZTE5ZjBi`
+Snapshot ID: `MCw1MWQ3ODBlZTU0MmRhY2I5OGVjZjIxMzY1YzIyYjhjNWJjZTU0ZjBi`

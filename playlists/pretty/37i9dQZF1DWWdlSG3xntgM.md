@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdlSG3xntgM.md) - [plain]
 
 > Những ca khúc để đời của dòng nhạc vàng\. Ảnh bìa: Lệ Quyên
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,413 likes - 50 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,420 likes - 50 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdlSG3xntgM.md) - [plain]
 | 49 | [Tình em biển rộng sông dài](https://open.spotify.com/track/1gFYZSQ2Vi1QqOzOxWcv7E) | [Giang Tử](https://open.spotify.com/artist/2tvLovBlbaYyzUFeBgXRFW) | [Giang Tử Tuyệt Phẩm](https://open.spotify.com/album/01Z3lEP1pIv1DGkqrzUBff) | 4:17 |
 | 50 | [Chiều Tây Đô](https://open.spotify.com/track/4AI14CynUc9CGne8oRbdCi) | [Hoàng Oanh](https://open.spotify.com/artist/2ztKQFCq6NdVbjWLq33H7o) | [Ai Nhớ Chăng Ai](https://open.spotify.com/album/6ejaYB328yZGYlnvJzdM9B) | 4:55 |
 
-Snapshot ID: `MCwyNzA0ZWU4YWJjZjdlMjdjOGMyNzgzNGQ3ZWQzODA0NjBmZGI2ZGEz`
+Snapshot ID: `MCw0ZmFkYjhhM2ZiOTA5OTU0NzNlNjA3MDQ4Nzg4MTViNTQwMzk4MGZj`

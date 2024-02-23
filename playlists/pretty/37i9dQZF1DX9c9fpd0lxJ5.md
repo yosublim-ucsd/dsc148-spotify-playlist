@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c9fpd0lxJ5.md) - [plain]
 
 > indie tunes to make you shine bby :\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 446,635 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 446,646 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c9fpd0lxJ5.md) - [plain]
 | 99 | [Fugaz](https://open.spotify.com/track/6xyyEGR8dSPYwxFvRzRt3A) | [Marte](https://open.spotify.com/artist/3O2mT8DFtMzB6ptxFXdpHm), [Costa de Ámbar](https://open.spotify.com/artist/4K41ddEQfjQ0XGZPA6ErMg) | [Fugaz](https://open.spotify.com/album/1Ah9gV6yPpVHjq3VdxwLej) | 2:58 |
 | 100 | [Un Animal \(Divina Existencia\)](https://open.spotify.com/track/23ietpawDh7f4PVAGBJ690) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Get Lost In The Music](https://open.spotify.com/album/4r7qQ7yTsRuVghSurlagxs) | 3:01 |
 
-Snapshot ID: `MCxiNmM1ZjNkMzY5YzI5ZGYxNTUxYjUwN2NmYTFkZWZkODIyYWRmNDQ0`
+Snapshot ID: `MCw2ZTA0ZTkzZWNmYzFhMjdmZTIyNjFkMTNlMDVjZGVmZGM0OTA4MzEz`

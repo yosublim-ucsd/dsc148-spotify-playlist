@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,903 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,922 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,9 +95,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 | 85 | [hate to be lame](https://open.spotify.com/track/26MJjeJ0NSOQDKeZzrEFMl) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 2:36 |
 | 86 | [can't live without you](https://open.spotify.com/track/2MAz49rgBhaEEDr9gaGMLN) | [satellite.](https://open.spotify.com/artist/58qX06UZpmeiapyjskI8sn) | [can't live without you](https://open.spotify.com/album/32gnVGc44UuwB6VzKdCdp4) | 3:47 |
 | 87 | [Dying Man](https://open.spotify.com/track/4kvjThnfQIsPOKjxx0aZDu) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time](https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh) | 3:03 |
-| 88 | [New In Town](https://open.spotify.com/track/30d9CfN1PElhNtGWIzlhYR) | [Remo Drive](https://open.spotify.com/artist/5LMPXUMhWXshBPjrqvZOfv) | [New In Town](https://open.spotify.com/album/3efyVqUDcIGkkgrgalIPOL) | 2:45 |
+| 88 | [See You Soon](https://open.spotify.com/track/6J0iDtlXabHqZizUKWUAX8) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [See You Soon](https://open.spotify.com/album/3RnZzFLaoswdse4TKBEmmH) | 3:14 |
 | 89 | [Fresh Eyes](https://open.spotify.com/track/7gm2omqXDTaT4sS17hSu8T) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [The Good Parts](https://open.spotify.com/album/1HxoWQzPqd5JZyBpQ9ZlSf) | 3:18 |
-| 90 | [Party of the Century](https://open.spotify.com/track/2IAEIzMfn4mZoDzkvtSz1G) | [Katy Kirby](https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy) | [Blue Raspberry](https://open.spotify.com/album/3ue5JrkSudbuHwQOEvZwHj) | 2:40 |
+| 90 | [Feel Those Things \- Edit](https://open.spotify.com/track/4cYKgQeEG6b929cRBHTXf2) | [Bryony Jarman\-Pinto](https://open.spotify.com/artist/4qGRPAtF4Dnuy1pZEH8Pgv) | [Feel Those Things / Riverside](https://open.spotify.com/album/6yQOcjm11PEUQF4qANYI2G) | 3:32 |
 | 91 | [Carry On](https://open.spotify.com/track/4ZFhVVawR0xMJ5dJFNxFRl) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Day Breaks](https://open.spotify.com/album/7ampUMuhfCx0briKjYNKRQ) | 2:48 |
 | 92 | [Nothing Matters \- Acoustic](https://open.spotify.com/track/2EgvsPaH1zIQqMXnQiTtqo) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Nothing Matters \(Acoustic\)](https://open.spotify.com/album/6AhAFk2kmCi42LgIND7KHW) | 3:03 |
 | 93 | [Girl Crush \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/4YutJsNwBBInE8vemufpQ8) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Spotify Singles](https://open.spotify.com/album/7neiWgd56IO7vi2cRUP8Tj) | 4:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 | 99 | [愛を知ったんだ](https://open.spotify.com/track/0eumnjplJhN4QCHpPiL88C) | [Kuniyuki Natsu](https://open.spotify.com/artist/7bk618HWzQDdQ5XDp5OoE2) | [Kotae](https://open.spotify.com/album/4noihhGHVTfr6bXB6r7u9i) | 4:43 |
 | 100 | [Lucy In The Sky With Diamonds \- Remastered 2009](https://open.spotify.com/track/25yQPHgC35WNnnOUqFhgVR) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Sgt\. Pepper's Lonely Hearts Club Band \(Remastered\)](https://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW) | 3:28 |
 
-Snapshot ID: `MCw5NThmMjQ2NGUxOGU5NWVhZTkzNjBlYTExZGQ1YmNlZmEzMmMwNjhh`
+Snapshot ID: `MCw4OTU0MTRjYmM1N2MwZjc3MzNlNmMzNzY0Mjc2MDMxNDgzZjJjN2Iw`

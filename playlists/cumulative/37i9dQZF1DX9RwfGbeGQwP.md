@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,381 songs - 2 day 4 hr 2 min
+1,382 songs - 2 day 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -636,6 +636,7 @@
 | [Köln Kalk](https://open.spotify.com/track/1HUDqgmGyCQjv42w6gxEn0) | [Jakspin](https://open.spotify.com/artist/3PLqmSa29zyLdTGINzLqCZ) | [Köln Kalk](https://open.spotify.com/album/2FwnZhdY4UYiy6UQcZK8KB) | 2:28 | 2022-11-11 | 2023-09-29 |
 | [L A P I S L A Z U L I](https://open.spotify.com/track/6dxxq8txtOlSMwZwZPHScG) | [Joel Loopez](https://open.spotify.com/artist/3l7zH3g5Z7QnHAiIYKZu6u) | [舎](https://open.spotify.com/album/2Knj3Ym8f7FWeZSQV8APA9) | 3:05 | 2022-10-15 | 2023-09-22 |
 | [Ladron Lover](https://open.spotify.com/track/3XhzJPeuzAEAaZAVKsmkky) | [Hekiga](https://open.spotify.com/artist/1qbuegBEzi7RW8QEEI2gwe) | [The Alley](https://open.spotify.com/album/3JG3pdBOGURxFubxIjuVPD) | 1:39 | 2022-09-02 |  |
+| [Laid\-Back Skylines](https://open.spotify.com/track/4jeYDsddMI8TShXgmOww8S) | [JAKKARTA](https://open.spotify.com/artist/3eLz5UQ0rdd11nJOXYLQhk) | [Laid\-Back Skylines](https://open.spotify.com/album/6BDP79MYOUZsLmq0Gsjuw6) | 2:34 | 2024-02-23 |  |
 | [Laidback Style](https://open.spotify.com/track/7KPAMOtffV17NiiapCPGnh) | [RejSende](https://open.spotify.com/artist/6VuJTb9pNKiBCcSlqBewpo) | [Laidback Style](https://open.spotify.com/album/04PobR5vGW2Xam5YBOPpDO) | 2:44 | 2023-02-07 | 2023-11-25 |
 | [Last call on what](https://open.spotify.com/track/5de261y9PMBp40oyycVd2h) | [Calm Like Carl](https://open.spotify.com/artist/4yliz9yN6pHtswgNVEjiw0) | [Last call on what](https://open.spotify.com/album/6QSf6cdpkGTAp0YtSK5lFr) | 2:13 | 2023-03-08 |  |
 | [Last Night](https://open.spotify.com/track/4Y7BreihfaHl1W9QU9h6J0) | [Jost Esser](https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8) | [Last Night](https://open.spotify.com/album/7K0IErHOScjU80EtqFbE7A) | 2:02 | 2022-11-25 | 2022-12-14 |
@@ -774,7 +775,7 @@
 | [Moonset](https://open.spotify.com/track/0Ij69EGuFl74yIDGc60i47) | [Ryuu竜](https://open.spotify.com/artist/7IjhfLAkztgdYu463O2bfF), [Sineg](https://open.spotify.com/artist/2dFzMUO0SoMadcJNogEmg9) | [Moonset](https://open.spotify.com/album/0v1USt3t9oN9PhbHn1YgwW) | 1:52 | 2022-09-02 | 2023-09-05 |
 | [moonshake](https://open.spotify.com/track/3kpeEvKALaDFYCT67W1iz7) | [Kaptain Kola](https://open.spotify.com/artist/2WVOlt6L2d41Pu8xhEbFgn) | [moonshake](https://open.spotify.com/album/2FGuznGJ6z59TinF8cQQv7) | 2:10 | 2024-02-02 |  |
 | [Moonshire](https://open.spotify.com/track/3AugGTPQycheCuKlwrCqau) | [Momentology](https://open.spotify.com/artist/3Hg0Oo6hrlDBYcWqQtTTNr) | [Moonshire](https://open.spotify.com/album/7ztxKAg1GfGHSEYXEOuVVF) | 2:01 | 2023-03-24 |  |
-| [More Is More](https://open.spotify.com/track/2GR2SZFtsGCrWlWoyXh1Xg) | [Peter Kind](https://open.spotify.com/artist/1xMxQQ71TIGQgzH4NY0ECM) | [More Is More](https://open.spotify.com/album/7txjvgRcH7fIUlmkCbbFgO) | 2:02 | 2023-05-19 |  |
+| [More Is More](https://open.spotify.com/track/2GR2SZFtsGCrWlWoyXh1Xg) | [Peter Kind](https://open.spotify.com/artist/1xMxQQ71TIGQgzH4NY0ECM) | [More Is More](https://open.spotify.com/album/7txjvgRcH7fIUlmkCbbFgO) | 2:02 | 2023-05-19 | 2024-02-23 |
 | [More Love](https://open.spotify.com/track/5OQn5iK9axhAhxx4tDkChX) | [Mamoosh](https://open.spotify.com/artist/4Crh0nifXFdUqmIsxFUfen) | [Letters From The Heart](https://open.spotify.com/album/2wGJNm55yZvms7WUGDaOzG) | 2:18 | 2023-04-20 |  |
 | [Morning Brew](https://open.spotify.com/track/4wwf4YZgSm1d3LCj79Glvr) | [Silk Mhake](https://open.spotify.com/artist/6TMEF8gGAMgtb4tRfGQGyD) | [Morning Brew](https://open.spotify.com/album/7rgI4CRcibrwNkxnzOO1fI) | 1:42 | 2022-01-27 | 2022-10-29 |
 | [morning coffe](https://open.spotify.com/track/1H86TtgCH7wlztTQjIJCXo) | [Mathis](https://open.spotify.com/artist/19MFUmiYwTLD77ECnzbVWa) | [morning coffe](https://open.spotify.com/album/1RajhsnKrQOlMAZkJkItg2) | 2:09 | 2023-09-22 |  |

@@ -2,9 +2,9 @@
 
 ### [Pop Latin Hits](https://open.spotify.com/playlist/3vWayw42WNrZX1NdMZBSgZ)
 
-> The perfect mix of the latest pop hits! Follow this playlist and play Polimá Westcoast &quot;MARGIELA&quot;,Oscar Maydon, Enrique Iglesias &amp; Yotuel &quot;Fría&quot;, Christian Nodal &amp; Peso Pluma &quot;La Intención&quot; Prince Royce &amp; Gabito Ballesteros &quot;Cosas de la Peda&quot;, Shakira &amp; Fuerza Regida &quot;El Jefe&quot;
+> The perfect mix of the latest pop hits! Follow this playlist and play Enrique Iglesias &amp; Miranda Lambert &quot;Space in My Heart&quot;,Oscar Maydon, Enrique Iglesias &amp; Yotuel &quot;Fría&quot;, Christian Nodal &amp; Peso Pluma &quot;La Intención&quot; Prince Royce &amp; Gabito Ballesteros &quot;Cosas de la Peda&quot;.
 
-714 songs - 1 day 14 hr 25 min
+715 songs - 1 day 14 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -593,6 +593,7 @@
 | [Somos Iguales](https://open.spotify.com/track/3uZgr5fHIzOAc3sjX5zHc1) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Louchie Lou](https://open.spotify.com/artist/4DxlG8gbthzgDeDZiywaoQ), [Michie One](https://open.spotify.com/artist/1otleRGxIU5q64yzCNUHsi) | [Somos Iguales](https://open.spotify.com/album/3Q9cZSRC2at6mZjfdOlVJ3) | 2:52 | 2022-08-10 | 2023-05-26 |
 | [Somos Nada](https://open.spotify.com/track/1kqpo5oFmTYTuHyofHToQ3) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Somos Nada](https://open.spotify.com/album/32pblDS1zwL5VxhQRlEzsO) | 3:01 | 2022-02-02 | 2023-05-26 |
 | [Soñarte](https://open.spotify.com/track/1UJbPo4QxQPrteYZdNY00H) | [Mariangela](https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf) | [Soñarte](https://open.spotify.com/album/7DvbHY38S9h6wUfQftT2E6) | 3:05 | 2022-07-01 | 2023-05-26 |
+| [Space in My Heart](https://open.spotify.com/track/4vMI6s3uwWcxcAqVoXkATn) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Space in My Heart](https://open.spotify.com/album/7CATUcNzHCmx3vsOETqKM9) | 2:58 | 2024-02-23 |  |
 | [Suegra](https://open.spotify.com/track/3DGvNJcyicD4gHoVEvH86P) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Fórmula, Vol\. 3](https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF) | 3:44 | 2023-02-24 | 2023-06-02 |
 | [Suerte \(Whenever, Wherever\)](https://open.spotify.com/track/3TY1PFZXmYeiLcXygB74My) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Laundry Service](https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV) | 3:14 | 2022-02-02 | 2023-05-26 |
 | [SUPERMODEL](https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [SUPERMODEL](https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn) | 2:28 | 2022-05-13 | 2023-05-26 |

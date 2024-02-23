@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B14ULPIeoA.md) - [plain]
 
 > Con mucha dulzura y sabor para un momento de relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,834 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,573 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B14ULPIeoA.md) - [plain]
 | 99 | [Irresistible \(arr\. R\. Jonas\)](https://open.spotify.com/track/3OQxAS0IKJCJJCLmMnVaCr) | [De Norte A Sur](https://open.spotify.com/artist/7bvhkGrKvpwFoxxhu2pW15) | [The Best of Mexico](https://open.spotify.com/album/53ovjfvOTKp9wfeI0J35TM) | 2:49 |
 | 100 | [Volver, Volver](https://open.spotify.com/track/3f8BsxS5vySEQzocBF2CMQ) | [Mariachi Premier](https://open.spotify.com/artist/3zUi6YMPFd66AglMtvVoea) | [Recuerdos De Mi Tierra](https://open.spotify.com/album/7qrXv6WJLfQF6msl1m4ZBe) | 3:01 |
 
-Snapshot ID: `MCxkYmIyZjAxZWZkOGIxZmNlZGU3Y2M4YTUxMTgyZGY1MGQ5MjQyNjJi`
+Snapshot ID: `MCw0MTllYmU1MTk2Y2E0NjAwMDE0ZDMyMTg4YTU4MjBjYjJkYzU2OWEx`

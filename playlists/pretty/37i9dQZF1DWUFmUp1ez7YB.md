@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFmUp1ez7YB.md) - [plain]
 
 > Los éxitos de la salsa de ayer y hoy en un sólo lugar\. Foto: Marc Anthony
 
-[Spotify](https://open.spotify.com/user/spotify) - 675,390 likes - 90 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 675,980 likes - 90 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFmUp1ez7YB.md) - [plain]
 | 89 | [Conciencia](https://open.spotify.com/track/5kwJWQgBaJWm1QZtWeC3uj) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Mis Favoritas](https://open.spotify.com/album/2olA7NVTMFYdWOp14n8YLK) | 5:31 |
 | 90 | [Lady Laura](https://open.spotify.com/track/2kzquEERgcPf5uO55ARVRR) | [Raulin Rosendo](https://open.spotify.com/artist/4pYTSh5LpqCVVSejQ4v6AF) | [El Sonero Quel El Pueblo Prefiere](https://open.spotify.com/album/4UCOrGLB3LoRAeHPWA4O3G) | 5:00 |
 
-Snapshot ID: `MCw4NmZiMWQ5MDYyNzgwMmUyMjIxOWIxYjNlMDIwY2ZjZDA1ZmI1MmJl`
+Snapshot ID: `MCxhNjQ4ODNlNzgyMGM3NDBjMzNmYmQ0NWIzMmY1OGU1ZGQ1NWUxMzNm`

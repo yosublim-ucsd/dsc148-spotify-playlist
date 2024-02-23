@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 
 > The best of Latin Trap\. Cover: Brytiago, Noriel, Juhn, Baby Rasta, Anonimus
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,494,521 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,494,545 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 | 99 | [Hoodie](https://open.spotify.com/track/0tDLDI57XWC0ZTrfxKJVmB) | [Omy de Oro](https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi) | [Hoodie](https://open.spotify.com/album/7khVi5TFgnk7RkKP7e9ttP) | 2:54 |
 | 100 | [Guarida](https://open.spotify.com/track/19FjaZwowlzROovPliZty2) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [Guarida](https://open.spotify.com/album/5BvgHK8tmdBlIjxdSnyI0K) | 3:32 |
 
-Snapshot ID: `MCwyNDBmZmJlYmVmOTY0ZGMzYWZmZDNmMmI5OTAxNmQ3YWU0OTA2MzIw`
+Snapshot ID: `MCwxZGQ1Zjc4Mzg3MTM0MWEwOTllNTM1ZjAzNDg2ZjY3NThhMjMzMWI5`

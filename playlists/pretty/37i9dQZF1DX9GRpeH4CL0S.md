@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GRpeH4CL0S.md) - [plain]
 
 > The greatest Alternative Rock songs through the decades\. Cover: Gorillaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 709,489 likes - 225 songs - 14 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 709,732 likes - 225 songs - 14 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -234,4 +234,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GRpeH4CL0S.md) - [plain]
 | 224 | [One Day Like This](https://open.spotify.com/track/6H3S7yQjHn3ErG9o6v7qBs) | [Elbow](https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk) | [The Seldom Seen Kid \(Bonus Tracks Version\)](https://open.spotify.com/album/44w1MmIi5i05Y0UVBHaWRt) | 6:34 |
 | 225 | [I Disappear](https://open.spotify.com/track/7AMGMiTQPTzDnQO7oHXggs) | [The Faint](https://open.spotify.com/artist/4A1yfFuBmBOgzv4Oe3fFHk) | [Wet From Birth](https://open.spotify.com/album/41ZdJIZqQvwlcf939RDQlP) | 4:07 |
 
-Snapshot ID: `MCwzNTU0NmNjY2I3ZjNhNGUwYzc1OTliYmY1OGViYmNkMDY3ZjY1ZjNh`
+Snapshot ID: `MCxiNGFkZjRkNDhjYmFiZWNkNTU3ZDRhZjY2MTYyMTRjOTA4MjA1MTc0`

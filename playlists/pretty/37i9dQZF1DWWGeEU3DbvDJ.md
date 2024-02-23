@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGeEU3DbvDJ.md) - [plain]
 
 > The BBMAs return with a fresh award show format and performances from the artists who dominated the year in music\. Watch the 2023 Billboard Music Awards on November 19! Cover: KAROL G
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,867 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,947 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGeEU3DbvDJ.md) - [plain]
 | 49 | [Rich Men North of Richmond](https://open.spotify.com/track/78Du4CMFgnhdlG33gblkiP) | [Oliver Anthony Music](https://open.spotify.com/artist/6IkfE2JyVoKwBZXvuytKX3) | [Rich Men North of Richmond](https://open.spotify.com/album/02X1cQOUcwYPxgFfqHeitI) | 3:07 |
 | 50 | [Sun to Me](https://open.spotify.com/track/1SjsVdSXpwm1kTdYEHoPIT) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [American Heartbreak](https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef) | 2:43 |
 
-Snapshot ID: `MCwyZTZlYzA3NDc4ODExM2JkMzI5N2MzYTc0Y2RmNmY2ZGZiOTMyYTM2`
+Snapshot ID: `MCw5OTNmMzU4MDA0Yjc3OTNmYzEyM2EzZjhiYmQxNmMxNTE3MjAwNmQy`

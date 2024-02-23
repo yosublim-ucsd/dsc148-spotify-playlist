@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVt7Sb7a9kCb.md) - [plain]
 
 > Llévatela tranqui con los hits más relajados del urbano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,349 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,391 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVt7Sb7a9kCb.md) - [plain]
 | 99 | [Fue Lindo](https://open.spotify.com/track/7bMJX92st9uXhc4OuHDRG5) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Canciones Pa Mi Ex Vol.1](https://open.spotify.com/album/7iBIAxWWW0WhKnFnhHBfNh) | 2:28 |
 | 100 | [Pa Casa](https://open.spotify.com/track/6GBIsXkI1ketoQpY7GBuj6) | [ICON](https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Pa Casa](https://open.spotify.com/album/2TcClZORswUT3AReMz3AR4) | 3:28 |
 
-Snapshot ID: `MCw2MDQ1YTE1M2Y3YmUyYmY3YjI4ODYxMWQyZjA1OWI1OGNlNTZhMDIz`
+Snapshot ID: `MCwyMjk4MDBmZjU3ZGIyMzYwMzg5NmNhYmVhNzMzMGFjZjczMjgwZGZm`

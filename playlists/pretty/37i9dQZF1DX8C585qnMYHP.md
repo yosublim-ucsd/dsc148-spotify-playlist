@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 
 > The best new music by Experimental independent artists and labels\. Nathalie Joachim on cover\. Artwork by Thami Nabil
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,023 likes - 100 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,062 likes - 100 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 99 | [Breath and Synth Experiment](https://open.spotify.com/track/5ewo7wEAO7K9DCFfo8CAow) | [Thandi Ntuli](https://open.spotify.com/artist/1g7pneoNO9Thq5oYQyR5Dy), [Carlos Niño](https://open.spotify.com/artist/55Ox89YvyME4t8bYTIJsRu) | [Rainbow Revisited](https://open.spotify.com/album/63wLAGAGfVOEoDHM2kO8TA) | 3:38 |
 | 100 | [humanus](https://open.spotify.com/track/019NusGqCRxlJ8NSwILgyt) | [uh](https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu) | [humanus](https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN) | 5:03 |
 
-Snapshot ID: `MCw4YjJhMTIwOGFlMjgzNzZhN2ZmZWI3MmYyZDg3MzUxYTAwM2IzNjVj`
+Snapshot ID: `MCxkYmIwYWUxYjE4Y2NiODIxMmU0ZTQwODhiNDY4ODg1NWMyNjE2YTlj`

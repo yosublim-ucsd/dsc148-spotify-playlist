@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHRfd4xP9nx.md) - [plain]
 
 > Uma chuva calma e tranquila para te fazer companhia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,683 likes - 250 songs - 11 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,721 likes - 250 songs - 11 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHRfd4xP9nx.md) - [plain]
 | 249 | [Morning Rain](https://open.spotify.com/track/70LJyAuEGlgXrsEuaWmCkP) | [JBE Nature Sounds](https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o) | [Rain Sounds Vol\. 3](https://open.spotify.com/album/2abBIAGnbK4LEppbtAB3KL) | 3:03 |
 | 250 | [Pastures \(Rain\)](https://open.spotify.com/track/5nydxQakoXHdU0sDSpA2IZ) | [Natsound](https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw) | [Lightrise \(Rain\)](https://open.spotify.com/album/7JosAVi4UAQ2LT0Bjoyex6) | 3:00 |
 
-Snapshot ID: `MCw2NDlmZTdjYmE0ZTkxODEwM2EyZjdiNDg0NDAzYzk0NjY0MjE3Yzdh`
+Snapshot ID: `MCw2NWM0ZWExZjk3MmM2ZTliOWZiZmQ2OTkyZmM3MDczMWUyZWQ5Yjg5`

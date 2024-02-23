@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbxvVclJxhEJ.md) - [plain]
 
 > Iconic women from the history of the Blues\. Cover: Bessie Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,072 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,107 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbxvVclJxhEJ.md) - [plain]
 | 74 | [Country Boy Blues](https://open.spotify.com/track/3aidj13SWwc9o63JMdFyva) | [Lilgreen](https://open.spotify.com/artist/6vchx2WteYQ1SnTTHE0ib7) | [Lil's Big Hits](https://open.spotify.com/album/2bqHbihz5UMPJE5gdPHN08) | 2:56 |
 | 75 | [Trouble In Mind](https://open.spotify.com/track/0uFpxl1SdIGWzPenILTMar) | [Jay McShann](https://open.spotify.com/artist/1qZnWtvzKVV0lJQZBapchU) | [Bar Fly Blues](https://open.spotify.com/album/37BjakiUYWxa4zVHpCwxcw) | 2:54 |
 
-Snapshot ID: `MCwzMDA1Njk0Njc2ZDFkNzNkZDJiZTI4NDU2MGM5YTJmNjQyMTMwOTdh`
+Snapshot ID: `MCw0MWU3ZWEwMWY5YzUyYTExM2M5NzRlYjg2NDZkMjVkN2I0NDFiZjJk`

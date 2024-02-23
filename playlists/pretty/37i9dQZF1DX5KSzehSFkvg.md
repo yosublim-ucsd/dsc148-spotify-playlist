@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KSzehSFkvg.md) - [plain]
 
 > Les meilleurs hits Pop du Maghreb sont ici\. Cover: Zouhair Bahaoui
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,949 likes - 60 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,004 likes - 60 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Rouhi](https://open.spotify.com/track/2qxPBeL2Q8jRnDv6EPK18A) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [Rouhi](https://open.spotify.com/album/7yfYEHSOufXZcpYcBfD0VS) | 3:01 |
 | 2 | [Mimti](https://open.spotify.com/track/6MZ3lIqUARBkZEDERr6tlF) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r) | [Mimti](https://open.spotify.com/album/0YVkrsk7cyE1xhrKDhpqWv) | 3:18 |
-| 3 | [TIMSAH](https://open.spotify.com/track/2K0u1U552dwiOotsAjes78) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [TIMSAH](https://open.spotify.com/album/6nRL0m3xVakYIHPgcYbyjC) | 4:42 |
-| 4 | [Layli](https://open.spotify.com/track/3LzvUSHvZpufB80QIiso36) | [Aezaddy](https://open.spotify.com/artist/2EKF1Ek1qKKDzYfeBq9Y3i) | [Layli](https://open.spotify.com/album/1rUlM8Jod4PEcNizNjQccO) | 2:43 |
-| 5 | [LEHMAM \- الحمام](https://open.spotify.com/track/2t3xxs1AIrW9qKDte5JAVk) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [LEHMAM](https://open.spotify.com/album/1504ohugyt7GcqH1yz9dOn) | 2:41 |
-| 6 | [Mashi Hob](https://open.spotify.com/track/3zjsN1FxzEeBh4dNj52Pu9) | [Mohamed Rifai](https://open.spotify.com/artist/4wc2KdcoFnLiGN9dJgu89W) | [Mashi Hob](https://open.spotify.com/album/0TT4JKqUXjsW45qc95cl7n) | 2:41 |
-| 7 | [Follow](https://open.spotify.com/track/09VlHQlBTWASlJMibldUFl) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6), [Hind Ziadi](https://open.spotify.com/artist/0jGwvpxtkFVxvk9XGunXuK) | [Follow](https://open.spotify.com/album/1tfaS0PrCsIVRMx0bhL5iP) | 3:25 |
-| 8 | [Toxicomane](https://open.spotify.com/track/53eN6aHCxs11R0ISFz7bGl) | [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Toxicomane](https://open.spotify.com/album/55x44gzlyeA1koXcMlncxS) | 3:36 |
-| 9 | [Mriyech](https://open.spotify.com/track/7735rwGeak348luaiQVRNE) | [Mehdi Fadili](https://open.spotify.com/artist/3fRwXTuOQctGeBiWD456cG) | [Mriyech](https://open.spotify.com/album/4eLxm3sq1QQ8y22wZi7n2H) | 3:28 |
-| 10 | [Annani](https://open.spotify.com/track/0twBNB57gTFcFai9fbclTl) | [Plylist](https://open.spotify.com/artist/3s2IJ6our3HssoUtzDd4QW), [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [Annani](https://open.spotify.com/album/3p49TlN2ALFc9CRiTvU6T0) | 3:53 |
-| 11 | [Ghanili](https://open.spotify.com/track/0sobdrww1wYUfqhrCAzwz0) | [Kawtar](https://open.spotify.com/artist/4B9s73FXhLx5FXLabyWa2m) | [Ghanili](https://open.spotify.com/album/5l7tQsPjmtqu7IkyDREAjI) | 2:57 |
+| 3 | [Ghanili](https://open.spotify.com/track/0sobdrww1wYUfqhrCAzwz0) | [Kawtar](https://open.spotify.com/artist/4B9s73FXhLx5FXLabyWa2m) | [Ghanili](https://open.spotify.com/album/5l7tQsPjmtqu7IkyDREAjI) | 2:57 |
+| 4 | [TIMSAH](https://open.spotify.com/track/2K0u1U552dwiOotsAjes78) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [TIMSAH](https://open.spotify.com/album/6nRL0m3xVakYIHPgcYbyjC) | 4:42 |
+| 5 | [Layli](https://open.spotify.com/track/3LzvUSHvZpufB80QIiso36) | [Aezaddy](https://open.spotify.com/artist/2EKF1Ek1qKKDzYfeBq9Y3i) | [Layli](https://open.spotify.com/album/1rUlM8Jod4PEcNizNjQccO) | 2:43 |
+| 6 | [LEHMAM \- الحمام](https://open.spotify.com/track/2t3xxs1AIrW9qKDte5JAVk) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [LEHMAM](https://open.spotify.com/album/1504ohugyt7GcqH1yz9dOn) | 2:41 |
+| 7 | [Mashi Hob](https://open.spotify.com/track/3zjsN1FxzEeBh4dNj52Pu9) | [Mohamed Rifai](https://open.spotify.com/artist/4wc2KdcoFnLiGN9dJgu89W) | [Mashi Hob](https://open.spotify.com/album/0TT4JKqUXjsW45qc95cl7n) | 2:41 |
+| 8 | [Follow](https://open.spotify.com/track/09VlHQlBTWASlJMibldUFl) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6), [Hind Ziadi](https://open.spotify.com/artist/0jGwvpxtkFVxvk9XGunXuK) | [Follow](https://open.spotify.com/album/1tfaS0PrCsIVRMx0bhL5iP) | 3:25 |
+| 9 | [Toxicomane](https://open.spotify.com/track/53eN6aHCxs11R0ISFz7bGl) | [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Toxicomane](https://open.spotify.com/album/55x44gzlyeA1koXcMlncxS) | 3:36 |
+| 10 | [Mriyech](https://open.spotify.com/track/7735rwGeak348luaiQVRNE) | [Mehdi Fadili](https://open.spotify.com/artist/3fRwXTuOQctGeBiWD456cG) | [Mriyech](https://open.spotify.com/album/4eLxm3sq1QQ8y22wZi7n2H) | 3:28 |
+| 11 | [Annani](https://open.spotify.com/track/0twBNB57gTFcFai9fbclTl) | [Plylist](https://open.spotify.com/artist/3s2IJ6our3HssoUtzDd4QW), [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [Annani](https://open.spotify.com/album/3p49TlN2ALFc9CRiTvU6T0) | 3:53 |
 | 12 | [MA DENBI](https://open.spotify.com/track/447567rKGG5x3ZGHcIp2Cm) | [L7or](https://open.spotify.com/artist/5NIanI5i7BSxYhc7DKpGZr) | [MA DENBI](https://open.spotify.com/album/5JrL5ugsY0fkGmjeMlFnfh) | 3:11 |
 | 13 | [Kan Kis7abli](https://open.spotify.com/track/28YTJGOAnyrdmAAkorOie5) | [Ayoub Anbaoui](https://open.spotify.com/artist/2XgBaGUId4RuYzvXYEKikZ) | [Kan Kis7abli](https://open.spotify.com/album/1EAhT7MKSd0kVGJZKUD20V) | 3:22 |
 | 14 | [YA DENYA](https://open.spotify.com/track/0UuhQnPxN9oBrR5uLSMNEV) | [Douzi](https://open.spotify.com/artist/2elOTj4JyFOFPiZOcn4RNG) | [YA DENYA](https://open.spotify.com/album/0QghQFx3bWDWFMhnTb9iZu) | 3:45 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KSzehSFkvg.md) - [plain]
 | 59 | [SBABO NTI](https://open.spotify.com/track/1SxcIBOelPOILwkCRw42Zi) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv) | [SBABO NTI](https://open.spotify.com/album/7GwYS8AurmMvmGKrh0j7ZG) | 4:13 |
 | 60 | [Calma](https://open.spotify.com/track/3eLOJpdgRwiLjYSq5AV8iS) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Calma](https://open.spotify.com/album/71QAMPU0A2r9fVPFIXBjbu) | 4:14 |
 
-Snapshot ID: `MCw5OWJlMjk2ODQ2Yjg3YjBlYTIxYjFjZWZiNWQ4N2IyZGIxNWQ3MDNj`
+Snapshot ID: `MCw5YWVhNmZiOTc5OTlhNDE0YTJhZDExZmIwZWI0MTcxYjFiMzdiMTM5`

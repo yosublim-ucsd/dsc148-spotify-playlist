@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYuZvbpQVftE.md) - [plain]
 
 > The cool sound of West coast Jazz\. Cover: Gerry Mulligan
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,595 likes - 50 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,612 likes - 50 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYuZvbpQVftE.md) - [plain]
 | 49 | [Walkin' With Wally \- live](https://open.spotify.com/track/2jrutFIbGBJqT8FdSRisuJ) | [Cal Tjader](https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO) | [Monterey Concerts](https://open.spotify.com/album/1nIZG4Rb0iAzzqo5UgcF2t) | 10:05 |
 | 50 | [Nap's Dream](https://open.spotify.com/track/4ZReWbUS6w3Uk7FeFP5cQu) | [Dave Pell](https://open.spotify.com/artist/4e6A5UdYEgQGwQNaLLFYVN) | [Presenting Dave Pell](https://open.spotify.com/album/6V6C6ZTyq7a3gYKsOjRT3J) | 5:13 |
 
-Snapshot ID: `MCw0YmJkNTRiNGZkMGEwMjMzZmQ0ODVlMmYzNTYyYjVhYmFiNzNmZjE2`
+Snapshot ID: `MCw4N2M5YmQ0OWQ2ZGU1ZWNhYjQxMzMzYmUxOTMxNzUwNDRmODI1MWNk`

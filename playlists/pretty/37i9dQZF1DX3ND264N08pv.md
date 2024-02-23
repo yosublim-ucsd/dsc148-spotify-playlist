@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,547 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,580 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 99 | [TH3 FL0W](https://open.spotify.com/track/67pe3dZk02n1cXjtPbXuHh) | [Mind Compressor](https://open.spotify.com/artist/04K4XkeDWVLIilcHHAAJ9n) | [TH3 FL0W](https://open.spotify.com/album/11ykfjfk1g4ZJjsx7tEM9J) | 2:34 |
 | 100 | [Made it to Thunderdome](https://open.spotify.com/track/0Cxe1F9JEK4iFjX54aauZe) | [Nightshift](https://open.spotify.com/artist/1fzWsgu7ndnyTBtBYOmzxe), [Da Mouth of Madness](https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv) | [Made it to Thunderdome](https://open.spotify.com/album/51RFeHthhnta86KQO92uyY) | 3:47 |
 
-Snapshot ID: `MCw3NjRmYmVhYjQ0ODg4OTdjYTBlOTU4ZTUyZTUxZWE4MWNkZTBkMmVl`
+Snapshot ID: `MCw1NzIyNTg5YzlmZDRlNTBhMGQwMzFhMGQ4ZjhmN2RkYzI1ZWZiZDE5`

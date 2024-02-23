@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 
 > Die schönsten deutschsprachigen Liebeslieder in einer Playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,523 likes - 60 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,626 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 | 59 | [2012](https://open.spotify.com/track/6bM4daGlfZHtKMQp8tEqVz) | [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV), [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [2012](https://open.spotify.com/album/4JgV7DMC1wFGGdgttRtETz) | 2:50 |
 | 60 | [1,40m](https://open.spotify.com/track/01yt4H9UXzGG61c4sxrNLB) | [Prinz Pi](https://open.spotify.com/artist/3OYM3jjPVR60kOqmamRRgk), [Philipp Dittberner](https://open.spotify.com/artist/7oaSITFPadI3fnIxbv7hTa) | [Im Westen nix Neues](https://open.spotify.com/album/3zxPw0NHbyX5xzQ4jJ1Qf3) | 4:19 |
 
-Snapshot ID: `MCxmM2Q4MjY1OGE2ZGQ5ZTA2OTE4YzBjMDZmMWExNGFhODlhOTc4NzVi`
+Snapshot ID: `MCxjNzE2YTRkNzI1NDEwYWZhYzM1ODAyOWE3OWQ4ZjgxNWZkNjQ0Mzc5`

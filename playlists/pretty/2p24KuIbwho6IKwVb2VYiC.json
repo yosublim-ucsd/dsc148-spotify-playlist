@@ -1,13 +1,33 @@
 {
   "description": "The best Dance and EDM tracks right now! Cover: The Banker Boys",
-  "num_followers": 20246,
+  "num_followers": 20249,
   "original_name": "New Dance Hits 2024",
   "owner": {
     "name": "Digster Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "NzUwNixkY2ZlN2VmYTc4ZTBlY2UzMmI0ZWY3ZWM2OGE1ODQ1ODIxMGI0Njc0",
+  "snapshot_id": "NzUwOSwwYjQ0NDI1OGExNjJjOTJhODM5M2I1YmFiNzEyNzlhY2I1MmE2NTY5",
   "tracks": [
+    {
+      "added_at": "2024-02-22 04:19:50",
+      "album": {
+        "name": "yes, and? (remixes)",
+        "url": "https://open.spotify.com/album/7vvPJ2BSUaS8C4dhl3aiYP"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        }
+      ],
+      "duration_ms": 212903,
+      "name": "yes, and? - Jonas Blue Remix",
+      "url": "https://open.spotify.com/track/4h2fgDf2gpwx5s4IwEr58I"
+    },
     {
       "added_at": "2024-02-16 13:13:08",
       "album": {

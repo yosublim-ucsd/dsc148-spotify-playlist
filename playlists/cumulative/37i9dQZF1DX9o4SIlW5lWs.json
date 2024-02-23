@@ -2061,6 +2061,28 @@
     },
     {
       "album": {
+        "name": "Elegante",
+        "url": "https://open.spotify.com/album/2PMenTNiWlWdZzv8LVqrB7"
+      },
+      "artists": [
+        {
+          "name": "j mena",
+          "url": "https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj"
+        },
+        {
+          "name": "Los Palmeras",
+          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205052,
+      "name": "Elegante",
+      "url": "https://open.spotify.com/track/5jedzAay4LJepkpoJoZ5Gz"
+    },
+    {
+      "album": {
         "name": "Solo Para Entendidos",
         "url": "https://open.spotify.com/album/6v4EOAJlhIqTgl7vbRbUga"
       },

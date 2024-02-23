@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8IND7NkP2W.md) - [plain]
 
 > The ultimate instrumental soundtrack for a long\-haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-[Spotify](https://open.spotify.com/user/spotify) - 430,023 likes - 100 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 430,028 likes - 100 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8IND7NkP2W.md) - [plain]
 | 99 | [Late Summer](https://open.spotify.com/track/3FYBkzhbNcdU6IpZ1sMhfK) | [Dinis](https://open.spotify.com/artist/6jlKK6jwCQOcdsNlNfKlMq), [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ) | [Late Summer](https://open.spotify.com/album/26Zz5dohLyPMVX7xVCEMkF) | 2:34 |
 | 100 | [Tokyo Mornings](https://open.spotify.com/track/0vNjMAfi6DB5HahsQjo4D7) | [Akimitsu](https://open.spotify.com/artist/3Clf0gHl3UQ2r5rFlTrfku) | [Memories From Tokyo](https://open.spotify.com/album/2xDTXfIQ5s6693qNEdwohZ) | 1:32 |
 
-Snapshot ID: `MCw1NzZjN2NmNjRkNDI2MTRiYjRiNmI2NTJmODk4NTYyOThkYzEyYzU1`
+Snapshot ID: `MCwzNmFiOWJmOWJhYWUxOWI2ZWZkYmEzMDMyZWU2MTgwNmIwYzMwMTFh`

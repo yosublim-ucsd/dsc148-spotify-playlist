@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 
 > The world series of Ska\. Cover: Mad Caddies
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,529 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,566 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 99 | [Sometimes](https://open.spotify.com/track/3eSIZFcNGhA4bPJ9CMmjdF) | [Oxo86](https://open.spotify.com/artist/0HsB2g2AEmb44yfaKKUtF5), [Ole \- Brutal Bravo](https://open.spotify.com/artist/1UUxklAL8KBU8eiQPwtMXx) | [...and the usual suspects](https://open.spotify.com/album/4RBq321rOdaU2pwSIIS5zJ) | 3:59 |
 | 100 | [Sally Brown](https://open.spotify.com/track/73wJGxCSk85BfOri5XfKv8) | [Laurel Aitken](https://open.spotify.com/artist/30vvi2orcocejP6c3nKcEA) | [The Story So Far...](https://open.spotify.com/album/2zFiJYNXXIZy73w60kNmEg) | 4:29 |
 
-Snapshot ID: `MCw4M2I3MmJiMGJkNjgxZTA3NWRhYzdjZDZhZTQzZGQwYzczOGNhYjVh`
+Snapshot ID: `MCwyY2JkYjJmYmNiNTc2MDhkMmNjZmE2YzdjNTYyNWRlOWRmNTA2ZGUx`

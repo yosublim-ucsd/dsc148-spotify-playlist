@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 
 > Soak up these laid\-back jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,059,110 likes - 125 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,059,151 likes - 125 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 | 124 | [Create Something](https://open.spotify.com/track/4QF1vqGrBrvmH6X4RNenfD) | [Joe Samba](https://open.spotify.com/artist/4edOA7e3jDgmddqyrb93DJ) | [Far From Forever](https://open.spotify.com/album/5Jbc8jkGvLRaCLoHERLh1n) | 3:29 |
 | 125 | [Free Your Mind \(with Surfer Girl\)](https://open.spotify.com/track/1kqDm9FgV3DHWVYPxJ2J4c) | [Tropidelic](https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl), [Surfer Girl](https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS) | [All The Colors](https://open.spotify.com/album/7jlmd4s5qcqzC197INOPgG) | 3:09 |
 
-Snapshot ID: `MCwzNmY3NjE2NThlMDRmMjA3NzIwMWEyNDQ1OWJlM2Q5OGYwYTRiM2I5`
+Snapshot ID: `MCwxYTE4NWJlMzYzMzlhYjViNDFmN2QyODhjMTJmZTZmZTRhY2RlNDg0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vu1ck1olx9.md) - [plain]
 
 > Cool down with these chill beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,666 likes - 150 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,728 likes - 150 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vu1ck1olx9.md) - [plain]
 | 149 | [Soul Sista](https://open.spotify.com/track/6tun0i4mdf8qgNXVYxRZRe) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH), [Epektase](https://open.spotify.com/artist/31jYTsfmnHqcK7ahdqlqmo) | [Chasing Sunsets](https://open.spotify.com/album/6dcJQL3ZyE6ODjsaibp6fi) | 2:00 |
 | 150 | [Swoon](https://open.spotify.com/track/44js4MOnD3UwxXchgek0C9) | [Lungfulls](https://open.spotify.com/artist/4abFxakbctOvcH4kwan0ET), [Lumes](https://open.spotify.com/artist/3MM7j6PhHGJND2pcmlZChD) | [Swoon](https://open.spotify.com/album/4Ucs8ewijxhXKGhfPSqSLJ) | 3:35 |
 
-Snapshot ID: `MCw3YTk3M2Y3N2JhMWQ2MGE5M2Y3ZTQ4YmU4ZmVmZmUyNGIzOWZiMzUx`
+Snapshot ID: `MCxlMWJlYjBmOTIxMjAwZmNkYzdhYjRkOGE1MDA2MTAwZTFlMWU3NTUx`

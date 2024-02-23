@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3mvx0imueXo.md) - [plain]
 
 > Let the music lift your soul\. Vibes from the different islands in the Caribbean
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,623 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,676 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3mvx0imueXo.md) - [plain]
 | 49 | [Chosen People](https://open.spotify.com/track/6syjfmKZUlo6IAPJqGDvR2) | [Capleton](https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf), [Yami Bolo](https://open.spotify.com/artist/6K4qT7qjaR6q5SqwQ1oA3o) | [Set up Shop, Vol\. 4](https://open.spotify.com/album/5HRCRgKHqMjnnWmE3VisB0) | 3:12 |
 | 50 | [Country For Sale](https://open.spotify.com/track/68oDnG7v4aBLMuv1eai4Wz) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Country For Sale](https://open.spotify.com/album/3XuNfGRXqZu5Io2clP5RUd) | 4:00 |
 
-Snapshot ID: `MCxlNzJiNTNkYTU4YTY5YWZlYWQ0YjUzZTgzMGZkOGE0MGY5NjI4OGI1`
+Snapshot ID: `MCxhODIzM2NkMzI1YmMxNTQ0N2U5MTBlZjk5NzU5NjYzZjFiY2QxMGQ0`

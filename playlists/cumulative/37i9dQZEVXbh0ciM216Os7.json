@@ -3256,7 +3256,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 111458,
       "name": "BURN",
       "url": "https://open.spotify.com/track/04CyMEHliadfQWMUJb1w99"
@@ -3466,6 +3466,40 @@
       "duration_ms": 262702,
       "name": "CARNIVAL",
       "url": "https://open.spotify.com/track/0Av2pG9dSVDFYxe4Vg3mNw"
+    },
+    {
+      "album": {
+        "name": "CARNIVAL PACK",
+        "url": "https://open.spotify.com/album/7pX434FLw0bG1BPKVAyRfk"
+      },
+      "artists": [
+        {
+          "name": "\u00a5$",
+          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264324,
+      "name": "CARNIVAL",
+      "url": "https://open.spotify.com/track/0U1bfnMhuViHvUhDfxp1NX"
     },
     {
       "album": {
@@ -15006,10 +15040,32 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 126142,
       "name": "Nothing",
       "url": "https://open.spotify.com/track/0tNrKgDkrktMm5QKRbvWWv"
+    },
+    {
+      "album": {
+        "name": "Nothing",
+        "url": "https://open.spotify.com/album/0ghNsmRvZyOMxrYkDV3jVS"
+      },
+      "artists": [
+        {
+          "name": "Aristoteles",
+          "url": "https://open.spotify.com/artist/6jZRXGOQiOFPCHcvDHvhYy"
+        },
+        {
+          "name": "Hopsin",
+          "url": "https://open.spotify.com/artist/7EWU4FhUJM1sZQgQKdENeT"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126142,
+      "name": "Nothing",
+      "url": "https://open.spotify.com/track/3MGtul8CfDAIEEBV1HrpbV"
     },
     {
       "album": {
@@ -20926,10 +20982,28 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 388496,
       "name": "The Equable",
       "url": "https://open.spotify.com/track/0ZJlWerfrs7GjOo5NdpSYv"
+    },
+    {
+      "album": {
+        "name": "Lingua Ignota: Part I",
+        "url": "https://open.spotify.com/album/1tQq6Actphb5JBlKC83gKB"
+      },
+      "artists": [
+        {
+          "name": "Persefone",
+          "url": "https://open.spotify.com/artist/4wxyib7wQwVxwKNFBmOhAw"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388496,
+      "name": "The Equable",
+      "url": "https://open.spotify.com/track/4UxJcns8mhRVaRqfTxmwZA"
     },
     {
       "album": {

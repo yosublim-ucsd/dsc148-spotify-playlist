@@ -1,12 +1,12 @@
 {
   "description": "Mellow vibrations for green leaves, green thumbs and green ears.",
-  "num_followers": 212840,
+  "num_followers": 213069,
   "original_name": "Music for Plants",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNmM1OWNhOTI1Y2RhMTM1NDZhYjAzMGQ0MjkxYTE3Nzk5ZDU5Zjdi",
+  "snapshot_id": "MCw3NTlkMzQ1NmE3NDdmM2UxMzlhZWYzMWI2NjBkZDBlZTg4MGQxNzFj",
   "tracks": [
     {
       "added_at": "2021-10-20 17:59:21",
@@ -1461,26 +1461,6 @@
       "url": "https://open.spotify.com/track/47VFticYkP3UYOroGPjjD6"
     },
     {
-      "added_at": "2023-01-06 21:07:36",
-      "album": {
-        "name": "sol",
-        "url": "https://open.spotify.com/album/6dOkPpcZ3elxSPmyZbvCIg"
-      },
-      "artists": [
-        {
-          "name": "Ruth de las Plantas",
-          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
-        },
-        {
-          "name": "Grethel Ross",
-          "url": "https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg"
-        }
-      ],
-      "duration_ms": 119649,
-      "name": "sol",
-      "url": "https://open.spotify.com/track/77hF3X4YebUOpYoqY7s9xj"
-    },
-    {
       "added_at": "2021-10-20 17:59:21",
       "album": {
         "name": "blue moon",
@@ -1679,6 +1659,30 @@
       "duration_ms": 164583,
       "name": "wading through the wetlands",
       "url": "https://open.spotify.com/track/41DB59gjQcplKWlQPI89lt"
+    },
+    {
+      "added_at": "2022-01-07 01:22:00",
+      "album": {
+        "name": "OFFAIR: The Power of your Subconscious Mind Vol 1: SPACE",
+        "url": "https://open.spotify.com/album/1gUxFwmsNfsAmyrirHs3hG"
+      },
+      "artists": [
+        {
+          "name": "Pauli The PSM",
+          "url": "https://open.spotify.com/artist/0REk2fMEqOBQKenqZv4sgp"
+        },
+        {
+          "name": "OFFAIR",
+          "url": "https://open.spotify.com/artist/7Ma4FYYpM6vqvTeXHAMKkp"
+        },
+        {
+          "name": "Liz Vice",
+          "url": "https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx"
+        }
+      ],
+      "duration_ms": 222212,
+      "name": "CAPRICORN",
+      "url": "https://open.spotify.com/track/4WkEVhfzvQYr0GqOyuRthu"
     }
   ],
   "unique_name": "Music for Plants",

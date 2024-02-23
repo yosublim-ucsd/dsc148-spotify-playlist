@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 
 > All the classic songs you love—covered\. Cover: Brandi Carlile
 
-[Spotify](https://open.spotify.com/user/spotify) - 683,117 likes - 110 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 683,182 likes - 110 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 | 109 | [Twelve\-Thirty \(Young Girls Are Coming To The Canyon\) \(feat\. Susanna Hoffs, Chris Stills & Sheryl Crow\)](https://open.spotify.com/track/19Hwwg9WvG4jQaMtpOUkRI) | [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8), [Susanna Hoffs](https://open.spotify.com/artist/2Sc4ukCRllIu02LZfHF0RL), [Chris Stills](https://open.spotify.com/artist/73BKaGq96QFgdnRXU3v0t7), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Folkocracy](https://open.spotify.com/album/4FYVErCjwVvkO3XpDFtOQ2) | 3:42 |
 | 110 | [Home](https://open.spotify.com/track/0xi6e2yX8GxvygU2g4noDc) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Home](https://open.spotify.com/album/7HJujLCjpNW735tY2vhgmc) | 3:32 |
 
-Snapshot ID: `MCxmZmNlMTE2ODY4YTcxODZkZTA5OGQ2ZTBiZjU5ZDEyNTM0NDMwZWMy`
+Snapshot ID: `MCw5MTRiNTJjZDQyNmJlOGM3N2ZjZjhkZGUzYzExOGI1YWRhZTE2YzJk`

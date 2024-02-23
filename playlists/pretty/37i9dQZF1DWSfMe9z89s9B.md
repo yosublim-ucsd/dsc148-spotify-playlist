@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSfMe9z89s9B.md) - [plain]
 
 > Leaders of the new school...Alternative R&B\. Cover: serpentwithfeet
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,381,259 likes - 150 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,381,207 likes - 150 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -150,13 +150,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSfMe9z89s9B.md) - [plain]
 | 140 | [Pretty Like You](https://open.spotify.com/track/6IksI018PglNFPUL40pxit) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [The Private Room](https://open.spotify.com/album/4tiRp1HukUk0ZN8OfF30Zw) | 2:34 |
 | 141 | [Celestial](https://open.spotify.com/track/5NPOyiXE1gn147zLE2XvPu) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Another Life](https://open.spotify.com/album/5CiIjIsYsYSpqPCUbfLYgo) | 2:53 |
 | 142 | [Decisions](https://open.spotify.com/track/4BXSRihMONgWl0Df6fHQhE) | [Pino](https://open.spotify.com/artist/58DUKFTIbamsxqTHfoofpu) | [Decisions](https://open.spotify.com/album/0ORJdgrpJczH1Etg8OhOP8) | 3:21 |
-| 143 | [Honeydew \(02\)](https://open.spotify.com/track/1q8Ie915rJrzLTOPT71vUA) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [LIBBIE 02](https://open.spotify.com/album/4WLuz6h7LOGyRJybO2DiFD) | 2:33 |
-| 144 | [Bubblehouse Bounce \(move as one\)](https://open.spotify.com/track/0u4sSY6ERnQszMWx7k3NbC) | [Ruti](https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE) | [Bubblehouse Bounce \(move as one\)](https://open.spotify.com/album/0pwEW8znvZOKfVcL26k6o8) | 3:43 |
-| 145 | [kerosene](https://open.spotify.com/track/6dn8A7K3ZfYbDfCRKWFs6P) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI), [Sie](https://open.spotify.com/artist/4hs7Io6w7BHOxlbtOIjGH1) | [kerosene](https://open.spotify.com/album/2dPwrPd5fUcz3Lgn22KJut) | 2:48 |
-| 146 | [Pray](https://open.spotify.com/track/4xXADPkERks2COmdLe8yd0) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [GAWD](https://open.spotify.com/artist/23BIYcWDJsaIqWoNSmljS6) | [Chrome Bull](https://open.spotify.com/album/3IJE33ruLyvq3yCiJubw4g) | 2:55 |
-| 147 | [Gave U My Love](https://open.spotify.com/track/3Q4Pa5EybvFw8O5P3eVrMW) | [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG) | [MOVIES! WORLDWIDE: PART I](https://open.spotify.com/album/7hXTfD7rkqM78jsnBMT0md) | 1:38 |
-| 148 | [FWT](https://open.spotify.com/track/1SYt4DjJdoSs7W4fB6aLKd) | [Icee Red](https://open.spotify.com/artist/6G98zoiC4js8JiF1uNOwQC), [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT), [Flozigg](https://open.spotify.com/artist/0pTI6gG0UHQjylvV6mPuHv) | [FWT](https://open.spotify.com/album/66Ad6aw80r6f7DO2eoCzc1) | 2:57 |
-| 149 | [Young & Reckless](https://open.spotify.com/track/6V4PJjy37MgVSZELGsia5P) | [Rhyan Douglas](https://open.spotify.com/artist/7axjaaukpvCevGVNWKpYL2) | [Young & Reckless](https://open.spotify.com/album/1PLct2MneZeXJOi335GQfD) | 2:16 |
-| 150 | [best thing for me](https://open.spotify.com/track/77NzDYJZyAqIGnk6LvfsB9) | [Samaria](https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku) | [Even Paradise Rains](https://open.spotify.com/album/71R3oT6BBvaGQwxOwr8Rx8) | 2:26 |
+| 143 | [Bubblehouse Bounce \(move as one\)](https://open.spotify.com/track/0u4sSY6ERnQszMWx7k3NbC) | [Ruti](https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE) | [Bubblehouse Bounce \(move as one\)](https://open.spotify.com/album/0pwEW8znvZOKfVcL26k6o8) | 3:43 |
+| 144 | [kerosene](https://open.spotify.com/track/6dn8A7K3ZfYbDfCRKWFs6P) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI), [Sie](https://open.spotify.com/artist/4hs7Io6w7BHOxlbtOIjGH1) | [kerosene](https://open.spotify.com/album/2dPwrPd5fUcz3Lgn22KJut) | 2:48 |
+| 145 | [Pray](https://open.spotify.com/track/4xXADPkERks2COmdLe8yd0) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [GAWD](https://open.spotify.com/artist/23BIYcWDJsaIqWoNSmljS6) | [Chrome Bull](https://open.spotify.com/album/3IJE33ruLyvq3yCiJubw4g) | 2:55 |
+| 146 | [Gave U My Love](https://open.spotify.com/track/3Q4Pa5EybvFw8O5P3eVrMW) | [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG) | [MOVIES! WORLDWIDE: PART I](https://open.spotify.com/album/7hXTfD7rkqM78jsnBMT0md) | 1:38 |
+| 147 | [FWT](https://open.spotify.com/track/1SYt4DjJdoSs7W4fB6aLKd) | [Icee Red](https://open.spotify.com/artist/6G98zoiC4js8JiF1uNOwQC), [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT), [Flozigg](https://open.spotify.com/artist/0pTI6gG0UHQjylvV6mPuHv) | [FWT](https://open.spotify.com/album/66Ad6aw80r6f7DO2eoCzc1) | 2:57 |
+| 148 | [Young & Reckless](https://open.spotify.com/track/6V4PJjy37MgVSZELGsia5P) | [Rhyan Douglas](https://open.spotify.com/artist/7axjaaukpvCevGVNWKpYL2) | [Young & Reckless](https://open.spotify.com/album/1PLct2MneZeXJOi335GQfD) | 2:16 |
+| 149 | [best thing for me](https://open.spotify.com/track/77NzDYJZyAqIGnk6LvfsB9) | [Samaria](https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku) | [Even Paradise Rains](https://open.spotify.com/album/71R3oT6BBvaGQwxOwr8Rx8) | 2:26 |
+| 150 | [Off the Wall](https://open.spotify.com/track/2pkDvFyDw9J0GxAta8spSb) | [Chenayder](https://open.spotify.com/artist/0BXnfQpsxFevtKePq6eX4y) | [Off the Wall](https://open.spotify.com/album/3RO3fuqDbCEGdVY8DsttaB) | 3:32 |
 
-Snapshot ID: `MCxlN2Y1MDE5NjdlMzJkZWQwNDFjYWRhYjcxMTE4ZmZkMDNkM2Y2MGIx`
+Snapshot ID: `MCw0YzkxMmQxNmIzNjVmNWVmODYxODFlZjU3YWZlMTNiNGJkMjg5M2Zh`

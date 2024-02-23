@@ -4,7 +4,7 @@
 
 > Keeping it lowkey with the best chill pop\. Cover: Sasha Alex Sloan
 
-1,590 songs - 3 day 13 hr 33 min
+1,591 songs - 3 day 13 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1225,7 +1225,8 @@
 | [sleepwalking](https://open.spotify.com/track/4MUvToqpjVcQVcVD5snNnp) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE), [Mike Kinsella](https://open.spotify.com/artist/65MqFenJZqxNAPxnEATV8U), [Owen](https://open.spotify.com/artist/4PJbP0dXALttfo1PFPY1Pt) | [sleepwalking](https://open.spotify.com/album/1JYZ7VEh3i5TKTSQnA2zKa) | 3:35 | 2020-11-13 | 2021-01-15 |
 | [Sleepy](https://open.spotify.com/track/1uw7DIRDt68BtoYhavfRca) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Sleepy](https://open.spotify.com/album/1UtBW3nzfD7d7Qt4Hsm1YQ) | 3:08 | 2022-09-09 | 2022-10-29 |
 | [Sleepy](https://open.spotify.com/track/7nptwLaDkBczF70AjSaVmc) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Survive My Own Mind](https://open.spotify.com/album/1ywqaWYRgovlH12fhAFdpN) | 3:08 | 2023-02-17 | 2023-02-25 |
-| [Sleepyhead](https://open.spotify.com/track/2Nf1xezlclOKIUiAIvkjVU) | [david hugo](https://open.spotify.com/artist/0IErJSgNHRD1DAH0X7yHvn) | [Sleepyhead](https://open.spotify.com/album/7vtEGgaefryUMRilWJ8zGD) | 3:14 | 2024-02-09 |  |
+| [Sleepyhead](https://open.spotify.com/track/0swLKGvJZnbROxhHggpVBa) | [david hugo](https://open.spotify.com/artist/0IErJSgNHRD1DAH0X7yHvn) | [Sleepyhead](https://open.spotify.com/album/10nDX7ZVSymEXVDQxtemR8) | 3:14 | 2024-02-20 |  |
+| [Sleepyhead](https://open.spotify.com/track/2Nf1xezlclOKIUiAIvkjVU) | [david hugo](https://open.spotify.com/artist/0IErJSgNHRD1DAH0X7yHvn) | [Sleepyhead](https://open.spotify.com/album/7vtEGgaefryUMRilWJ8zGD) | 3:14 | 2024-02-09 | 2024-02-23 |
 | [Slow Dancing](https://open.spotify.com/track/11wR9PrHL8cW9fdQOjX15L) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Slow Dancing](https://open.spotify.com/album/2bspvMUoispCtccpCLWTlq) | 4:27 | 2020-12-04 | 2021-03-19 |
 | [Slow Motion](https://open.spotify.com/track/09svEvkmTi9vw4kWRyBC6X) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Slow Motion](https://open.spotify.com/album/0uu8cPSov9nCPWlfWs8c6d) | 3:03 | 2021-03-06 | 2021-06-26 |
 | [Slow Song \(with Dragonette\)](https://open.spotify.com/track/7HDcd1vyDdNWq897wSILCZ) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n) | [Slow Song \(with Dragonette\)](https://open.spotify.com/album/43HtqLPR1ZIXU8c81c2Vj6) | 4:13 | 2022-02-18 | 2022-04-23 |

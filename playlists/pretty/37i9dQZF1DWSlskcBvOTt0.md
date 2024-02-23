@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlskcBvOTt0.md) - [plain]
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-[Spotify](https://open.spotify.com/user/spotify) - 446,407 likes - 125 songs - 9 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 446,566 likes - 125 songs - 9 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlskcBvOTt0.md) - [plain]
 | 124 | [Overnight](https://open.spotify.com/track/2ckYzNOvjKVQX5ARttEhlo) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Overnight](https://open.spotify.com/album/6Bx2GZ9URhZitfByTc5eCS) | 3:58 |
 | 125 | [I Know You](https://open.spotify.com/track/5f7gdXvYTZqCRl4ieL4xvl) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco) | [I Know You](https://open.spotify.com/album/2CXL7xliVASXyKWYoJfu3Q) | 3:52 |
 
-Snapshot ID: `MCwwYjNlOTdkMjRkZGNhNzk3NTBiMGY4OWFlNGY4ZmNhNjVkZGM0ODli`
+Snapshot ID: `MCw5ZmI0MDA0MTEwZjFjZWRhMTM4NGQxOWYxM2JmMzIwNDQ4YjYyYzNk`

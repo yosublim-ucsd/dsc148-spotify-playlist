@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcsT4WKI8W8r.md) - [plain]
 
 > A playlist to get you through your whole workday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,600 likes - 145 songs - 8 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,724 likes - 145 songs - 8 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcsT4WKI8W8r.md) - [plain]
 | 144 | [\(Love Is Like A\) Heat Wave](https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Heat Wave](https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK) | 2:43 |
 | 145 | [TOOTIMETOOTIMETOOTIME](https://open.spotify.com/track/33DzKnwuBE6lfOiADwzd5E) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 3:27 |
 
-Snapshot ID: `MCxjZTZmMTFmMmFkOTUwYTc1ZGUyZTNiNDQ4YTQ5ZDdiMTRlNzgwMmEy`
+Snapshot ID: `MCw3MzEzZDNhYzFlOTY2OGYwMDBkNjhhY2ZjMTk1N2QzNmFhZjNkYzcx`

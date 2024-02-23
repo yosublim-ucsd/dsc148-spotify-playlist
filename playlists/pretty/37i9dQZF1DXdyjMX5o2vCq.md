@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdyjMX5o2vCq.md) - [plain]
 
 > Get to know the shape\-shifting, forward thinking, the one and only, Frank Ocean.
 
-[Spotify](https://open.spotify.com/user/spotify) - 679,988 likes - 48 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 680,182 likes - 48 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdyjMX5o2vCq.md) - [plain]
 | 47 | [Futura Free](https://open.spotify.com/track/5k8LB57xOq8UUNVaKWSqrf) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 9:24 |
 | 48 | [End](https://open.spotify.com/track/05tFLPSXJ1BbqIXy4Jeqfh) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 2:14 |
 
-Snapshot ID: `MCw3NzI0MGMzM2MzYTU4M2E2NjEyNzllMjM4MWM0YWRjZTM0YjIzMWFj`
+Snapshot ID: `MCw5ZmY4YjI5NzQyMDY3ZWVlM2YzZGE3MmE3ZTc0ZWNlNmQ4MjVkZjY5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Natalia Lafourcade y Kevin Johansen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,357 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,381 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 | 99 | [Migas](https://open.spotify.com/track/3LzLD8MNdZ2IpLO2aKiQj6) | [TéCanela](https://open.spotify.com/artist/7DqUxnbDJwdpFRS8rIgVy0) | [Migas](https://open.spotify.com/album/0z8Py2L5re037O71sy22q9) | 5:33 |
 | 100 | [Oye mi Voz](https://open.spotify.com/track/5EALaMd6QUNhtRJINXrlqM) | [María Ruiz](https://open.spotify.com/artist/0AFj9y8WKAlLA0s0om6NaI), [Chambao](https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R) | [Deshielo](https://open.spotify.com/album/3xIhTaVpGZhjlo7SGeTeyJ) | 3:41 |
 
-Snapshot ID: `MCxkOWRjOWQ3OGVmZWRlZGZiNTFhMjZjZTFmNmY5MGEwMjJiNzlmOThl`
+Snapshot ID: `MCxkNmFiNDM0YmI2NmI3ZmI2ZDZiYTY1MTg4OWZlOGMzNjk2MTAyNGE5`

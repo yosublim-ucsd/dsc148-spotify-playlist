@@ -4,7 +4,7 @@
 
 > The official playlist for Valeria\. Watch on Netflix.
 
-80 songs - 4 hr 39 min
+81 songs - 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,8 @@
 | [Mas Raro \- Prod\. Cadenza](https://open.spotify.com/track/0DbGnMSAX2URJFhRVi8Sng) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Cadenza](https://open.spotify.com/artist/2pSxft78wxISNLTbjFThTk) | [Mas Raro \(Prod\. Cadenza\)](https://open.spotify.com/album/5djeoo7mVuWKzw8UQITDCl) | 2:45 | 2022-06-29 |  |
 | [Me Acoplo](https://open.spotify.com/track/0MuFAufcq283OanYu5Ku8X) | [Párpados](https://open.spotify.com/artist/1gbutEmKJfSHRgXoTyEQO7) | [Párpados](https://open.spotify.com/album/3FMot3T0ERF8jjJZ1Guoov) | 4:00 | 2022-06-29 |  |
 | [Mi Mi Mi](https://open.spotify.com/track/0pqCMHN3IVkBDlWAg0kiVa) | [SEREBRO](https://open.spotify.com/artist/1Ulwacsns9Me7dz4OVwkiQ) | [Mi Mi Mi](https://open.spotify.com/album/2FhODV9NIjFwFOAsehA5UO) | 3:12 | 2022-06-29 |  |
-| [Middle Of My Mind](https://open.spotify.com/track/5RSQUFoAIg75ZQKP5zyT8i) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [The Pleasant Trees \(Volume 2\)](https://open.spotify.com/album/7njexd4MXzmW0tXn0GK5EW) | 2:44 | 2022-06-29 |  |
+| [Middle Of My Mind](https://open.spotify.com/track/5RSQUFoAIg75ZQKP5zyT8i) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [The Pleasant Trees \(Volume 2\)](https://open.spotify.com/album/7njexd4MXzmW0tXn0GK5EW) | 2:44 | 2022-06-29 | 2024-02-23 |
+| [Middle Of My Mind](https://open.spotify.com/track/6bhR3uY6YJEJhpC3Z05nde) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [The Pleasant Trees \(Volume 2\)](https://open.spotify.com/album/5TFHTDAe9WTaiZFHhDhnJd) | 2:44 | 2022-06-29 |  |
 | [Mira a la Gente](https://open.spotify.com/track/3uRKePHo7dmlgXGZwAxgOE) | [Second](https://open.spotify.com/artist/3Ju3bW8OaeUmfQKqMtATKr) | [Anillos y RaÍces](https://open.spotify.com/album/2JFOVAHDhTGJ26UMUEsazX) | 4:17 | 2022-06-29 |  |
 | [Música para Adultos](https://open.spotify.com/track/5NnYVMrVntnDfwaleC0Cb6) | [Joe Crepúsculo](https://open.spotify.com/artist/34SgyDEDqVlahIQRDttgCn) | [Disco Duro](https://open.spotify.com/album/2omZ9OgaOoekCHsXWc69AX) | 4:04 | 2022-06-29 |  |
 | [nana triste](https://open.spotify.com/track/721Lxh9pNJJhNERON4Zjmw) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP), [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Otras Alas](https://open.spotify.com/album/0FIpAJ1ypjj4nzIHq6XLF4) | 3:07 | 2022-06-29 |  |

@@ -4,7 +4,7 @@
 
 > Sad and gloomy Jazz for a rainy day.
 
-334 songs - 21 hr 34 min
+335 songs - 21 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [April's Fooling No One](https://open.spotify.com/track/0RmvBXTuE3jjfeybhXu4cx) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [April's Fooling No One](https://open.spotify.com/album/3mkfgXUXFQdu1hdFXyEwGS) | 4:15 | 2022-12-08 | 2023-04-28 |
 | [Ascent](https://open.spotify.com/track/4d2YgepBRyYjr1EXM6slZq) | [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib), [Joe Martin](https://open.spotify.com/artist/5o11IsGu9crJBiLe37pNWW), [Rudy Royston](https://open.spotify.com/artist/0ILg6S11FRLlqKHKOfTJyY) | [Balance Point](https://open.spotify.com/album/3mNi1VupZNPWagYvTgLYuQ) | 4:10 | 2021-12-14 | 2023-04-14 |
 | [At Dusk](https://open.spotify.com/track/0XVdTFUuT5GpxURuICaFKK) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [At Dusk](https://open.spotify.com/album/5uRwkihneepvVSGokwLDNO) | 3:24 | 2022-08-10 |  |
-| [Autumn Serenade](https://open.spotify.com/track/76bxYaBhzR5YOIrgmNUUJ5) | [Tim Franks Trio](https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok) | [Autumn Serenade](https://open.spotify.com/album/4u4FvHG40exv5slmz0Bg7l) | 3:56 | 2022-05-24 |  |
+| [Autumn Serenade](https://open.spotify.com/track/76bxYaBhzR5YOIrgmNUUJ5) | [Tim Franks Trio](https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok) | [Autumn Serenade](https://open.spotify.com/album/4u4FvHG40exv5slmz0Bg7l) | 3:56 | 2022-05-24 | 2024-02-23 |
 | [Ballad Of The Sad Young Men \- Live](https://open.spotify.com/track/7KUTZdBEWzHjdf9Hwr5FHT) | [Keith Jarrett Trio](https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj) | [Tribute](https://open.spotify.com/album/2AUplxqaiqTaDpY9QsCgPx) | 7:02 | 2021-12-14 | 2022-09-15 |
 | [Ballade for the Very Sad and Very Tired Lotus Eaters](https://open.spotify.com/track/4JZPaFrRUNSYjvLfvQNaGQ) | [Owen Broder](https://open.spotify.com/artist/6IPqNkZOxgZ3lAubAiVtWy) | [Hodges: Front and Center, Vol\. 1](https://open.spotify.com/album/28dVtoSWcKtalEahjQqnxv) | 4:13 | 2024-01-12 |  |
 | [Bandängen](https://open.spotify.com/track/7HX0DryEZ4qOYEzVCF942E) | [Jazz Tonality](https://open.spotify.com/artist/7bUmkNAZbilFTnmG2lmU5t) | [Bandängen](https://open.spotify.com/album/7akZUKwJixzT2ey60dcaPR) | 2:30 | 2021-12-14 |  |
@@ -144,6 +144,7 @@
 | [In This Wonderful World](https://open.spotify.com/track/7cxOaLcFhKEH4IaBOd0F46) | [Rainy Days Trio](https://open.spotify.com/artist/0ZiJ1fWX1eDMn7PA74GdLN) | [In This Wonderful World](https://open.spotify.com/album/6DgGOcAfVYCHu7xX3ChE85) | 4:04 | 2022-05-17 |  |
 | [Inertia](https://open.spotify.com/track/6Yvey5k1efTUHNp0nbyszi) | [Devon Crouch](https://open.spotify.com/artist/02zs7OtXn8UAl8HAc6hfYZ) | [Inertia](https://open.spotify.com/album/4d07ATDHib2JftzZKeQiM4) | 2:43 | 2021-12-14 | 2022-04-12 |
 | [Infant Eyes](https://open.spotify.com/track/0Cgg4UFV8Du0Kg0wLHUa1k) | [Yorkville](https://open.spotify.com/artist/6VR3RgGN43zxy9ckRugsXn) | [Infant Eyes](https://open.spotify.com/album/6O9lAPhLztpO0LNKzFbOXO) | 3:52 | 2022-01-19 | 2022-05-04 |
+| [Into Your Arms](https://open.spotify.com/track/4j1WoGCsyNS1Ja1JE9Zcuk) | [Trois Amis](https://open.spotify.com/artist/19hT5DHNATnRhmkR5LevK7) | [Into Your Arms](https://open.spotify.com/album/1Em9KboxpeR2GXE5tBueVh) | 2:51 | 2024-02-23 |  |
 | [Irridescent Mountains](https://open.spotify.com/track/6W2hNKNp5Brv1igihBn5zw) | [Felix McCoy Quartet](https://open.spotify.com/artist/2UIgtE5XCEu7BYtjaY8wsh) | [Irridescent Mountains](https://open.spotify.com/album/2Qkk2GO6d72FNEdGZloHwq) | 3:19 | 2023-04-13 |  |
 | [It Rained All Night](https://open.spotify.com/track/4I1VoLbdbu3YKrjoXeQONf) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [Summer Love](https://open.spotify.com/album/51LEUb1ZFtzAhyS4nFkKbC) | 3:17 | 2023-09-22 |  |
 | [It's Beginning To Rain Again](https://open.spotify.com/track/1hHnQUrgFC0ezzo27SkZeS) | [Little North](https://open.spotify.com/artist/0LPOA9noh1qUUtZ2N2YX0J) | [Familiar Places](https://open.spotify.com/album/4PYeBFxWLxLaqfOmkcbjyS) | 4:47 | 2024-01-19 |  |
@@ -282,7 +283,7 @@
 | [The Good Life \- Remastered 2000/Rudy Van Gelder Edition](https://open.spotify.com/track/4ZNx7AMUbhIo7DFkhWlrdy) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [The Turnaround](https://open.spotify.com/album/2FR2NZXhXDbCTCeUUdHEJr) | 5:08 | 2021-12-14 | 2022-03-04 |
 | [The Imager](https://open.spotify.com/track/1mfuqzs480Ey1ia2Y7q7MH) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [The Imager](https://open.spotify.com/album/7y7VoIAYjag9EsvZpz4Dno) | 3:25 | 2022-08-10 | 2023-05-12 |
 | [The Last Goodbye](https://open.spotify.com/track/5AuLuhe6LXvVod82HxJtXO) | [Nicholas Payton](https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4) | [Payton's Place](https://open.spotify.com/album/0lohKc2RubArv0PbjXJYNB) | 5:25 | 2024-01-19 |  |
-| [The Masquerade Is Over](https://open.spotify.com/track/0dVNnHZ3v5rkmNW16XyUos) | [Long Island Quartet](https://open.spotify.com/artist/2fmPgnUqExSLjXIwIyigPR) | [The Masquerade Is Over](https://open.spotify.com/album/16eMeIsGCIiC1FXUaDjNh3) | 4:31 | 2022-11-10 |  |
+| [The Masquerade Is Over](https://open.spotify.com/track/0dVNnHZ3v5rkmNW16XyUos) | [Long Island Quartet](https://open.spotify.com/artist/2fmPgnUqExSLjXIwIyigPR) | [The Masquerade Is Over](https://open.spotify.com/album/16eMeIsGCIiC1FXUaDjNh3) | 4:31 | 2022-11-10 | 2024-02-23 |
 | [the point above](https://open.spotify.com/track/27j2QBudHBt7AYWjCpcnEa) | [Brandon's Three](https://open.spotify.com/artist/2YPncTc0Vj6Ofh2DDooAbM) | [the point above](https://open.spotify.com/album/7EeqlvrMoFYDZjWh1jDyuu) | 2:48 | 2021-12-14 |  |
 | [The Reasons That I Love You](https://open.spotify.com/track/1CLQ0p6nLmLQFCiUUkpBxW) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [The Reasons That I Love You](https://open.spotify.com/album/5GM3f2GT3BwzfKtKdjE0O8) | 4:40 | 2022-08-10 | 2023-05-05 |
 | [The Shadow of Your Smile](https://open.spotify.com/track/1I7OMSoMhToGtA1QCTyTBw) | [Dominick Farinacci](https://open.spotify.com/artist/39ZSWKyCTg2tduAFxo74sB) | [The Shadow of Your Smile](https://open.spotify.com/album/5qz2663lHFjJC9QYTu4JRC) | 2:35 | 2024-01-12 |  |

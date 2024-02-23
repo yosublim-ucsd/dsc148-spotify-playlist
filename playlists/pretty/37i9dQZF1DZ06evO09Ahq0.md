@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09Ahq0.md) - [plain]
 
 > This is Avenged Sevenfold\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 451,103 likes - 49 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 451,339 likes - 49 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09Ahq0.md) - [plain]
 | 20 | [Until the End](https://open.spotify.com/track/5NJTJElk0ArSxQtYjA0rYR) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Diamonds in the Rough](https://open.spotify.com/album/6VcCunBnnw4BVkCit5rk7d) | 4:45 |
 | 21 | [Buried Alive](https://open.spotify.com/track/4veeNpXDK1YRHMTJ1Cppsg) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Nightmare](https://open.spotify.com/album/7vfuTRXIAYJz5Uc8SddnTr) | 6:44 |
 | 22 | [Critical Acclaim](https://open.spotify.com/track/4VymMhILk4DSwghPkLUPVS) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Avenged Sevenfold](https://open.spotify.com/album/3Id3VUk9jSKBD1guNo1buF) | 5:15 |
-| 23 | [Warmness On The Soul](https://open.spotify.com/track/018zT8xThRbMH2QeUoMlKQ) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Sounding The Seventh Trumpet](https://open.spotify.com/album/3Pi6o8NqDPlEBilGeMKi8q) | 4:19 |
-| 24 | [Heretic](https://open.spotify.com/track/31sv85yD7zbD6X9B2FHpxy) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Hail to the King](https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA) | 4:55 |
+| 23 | [Heretic](https://open.spotify.com/track/31sv85yD7zbD6X9B2FHpxy) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Hail to the King](https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA) | 4:55 |
+| 24 | [Warmness On The Soul](https://open.spotify.com/track/018zT8xThRbMH2QeUoMlKQ) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Sounding The Seventh Trumpet](https://open.spotify.com/album/3Pi6o8NqDPlEBilGeMKi8q) | 4:19 |
 | 25 | [Natural Born Killer](https://open.spotify.com/track/5o8OdhjVZSF2wCj7M8UpMN) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Nightmare](https://open.spotify.com/album/7vfuTRXIAYJz5Uc8SddnTr) | 5:15 |
 | 26 | [Mattel](https://open.spotify.com/track/4KyghCEewQOSZ4OdvQwFN3) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Life Is But a Dream…](https://open.spotify.com/album/50YNY0xy9uJ0U9eFQBdLJa) | 5:30 |
 | 27 | [Blinded in Chains](https://open.spotify.com/track/39ZiU2QVBvDQzeepJjg8tp) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [City of Evil](https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA) | 6:34 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09Ahq0.md) - [plain]
 | 48 | [Crossroads](https://open.spotify.com/track/4Oq241mV2LEcQsfXQPOfZe) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Diamonds in the Rough](https://open.spotify.com/album/6VcCunBnnw4BVkCit5rk7d) | 4:30 |
 | 49 | [St\. James](https://open.spotify.com/track/2n8rY6H6u2AnUe6Fi8M6P6) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Diamonds in the Rough](https://open.spotify.com/album/6VcCunBnnw4BVkCit5rk7d) | 5:02 |
 
-Snapshot ID: `Mjg0NzUyOTAsMDAwMDAwMDA4ZWQzYjY5NTJlMmU1MTlkMjg5ZWM2ZWRiNTRlMTZkOA==`
+Snapshot ID: `Mjg0NzcwNzUsMDAwMDAwMDBlNTRmOWVjODdmMjYzY2JhZThkNjJhM2FmMjY4ZGQ1OA==`

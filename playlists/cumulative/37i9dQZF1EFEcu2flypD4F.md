@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0nWt7RisY0ovBXztrbCyiV">Sia</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-336 songs - 21 hr 33 min
+337 songs - 21 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Crying in the Club](https://open.spotify.com/track/1SJtlNRJDeYHioymcvsqev) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Crying in the Club](https://open.spotify.com/album/7s5gKFHMzzMHyLE2KFXNkR) | 3:36 | 2023-12-31 |  |
 | [Crying in the Club](https://open.spotify.com/track/0Xb98kwHXee194Q9dzqsCB) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Crying in the Club](https://open.spotify.com/album/0EWUUKPjDD0wzMXcZfqBym) | 5:20 | 2023-12-30 | 2024-01-31 |
 | [Cut To The Chase](https://open.spotify.com/track/5Ci2h6Xg4Z6WULbttzd6VB) | [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2aBT9pL5XZXmGB5gR9QQUo) | 2:52 | 2023-12-30 |  |
+| [Dance Alone](https://open.spotify.com/track/1XZy2eprbATl4AnL9Fpsw1) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Dance Alone](https://open.spotify.com/album/6VFvESDvhvsBjCSlIXpIXw) | 2:52 | 2024-02-22 |  |
 | [Day Too Soon](https://open.spotify.com/track/1Dxd6jRWv2Nmpof3ehBThs) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Some People Have REAL Problems](https://open.spotify.com/album/6jwrliQ4758qVYMtdgQtZt) | 4:23 | 2023-12-30 |  |
 | [Death By Chocolate](https://open.spotify.com/track/3bcGux71KANXSsGPODKz5A) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Some People Have REAL Problems](https://open.spotify.com/album/6jwrliQ4758qVYMtdgQtZt) | 5:02 | 2023-12-30 |  |
 | [Deer In Headlights](https://open.spotify.com/track/0YGu5VbKdxYOB9FSfbweX3) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Fifty Shades Freed \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4w0N1CaZwQ5RPIuawqlYyy) | 4:25 | 2023-12-30 |  |

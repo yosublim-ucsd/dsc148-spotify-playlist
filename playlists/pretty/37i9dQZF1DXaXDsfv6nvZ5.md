@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXDsfv6nvZ5.md) - [plain]
 
 > The soulful tunes to ease you into your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 758,411 likes - 150 songs - 8 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 758,477 likes - 150 songs - 8 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXDsfv6nvZ5.md) - [plain]
 | 149 | [Witchcraft \(feat\. Robert Glasper\)](https://open.spotify.com/track/4Itbv26vt7dWj8cdGcxvq4) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [Nova](https://open.spotify.com/album/4mAaeqc5N8tso7xNVbQjHF) | 4:53 |
 | 150 | [Eve Gene](https://open.spotify.com/track/6eKpk5wa0sP4YgjoI1psFX) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU), [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5) | [Eve Gene](https://open.spotify.com/album/6ZiVCsS6PHMDOIAHZ0JXUl) | 3:18 |
 
-Snapshot ID: `MCwzZDA0OTRhMTY5ODFiODc4NDJjODYxZGJmNzJkNGNjY2RiMDMzODM4`
+Snapshot ID: `MCw5YWZmMGQ3NDI5ZjcxYjk2YzlmM2RjMGQyZTM0YzBlZWE2ZDRiNTBm`

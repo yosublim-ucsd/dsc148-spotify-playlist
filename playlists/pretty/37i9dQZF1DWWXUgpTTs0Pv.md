@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXUgpTTs0Pv.md) - [plain]
 
 > Family friendly country songs to listen to together.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,919 likes - 75 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,003 likes - 75 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXUgpTTs0Pv.md) - [plain]
 | 74 | [Tim McGraw](https://open.spotify.com/track/0Om9WAB5RS09L80DyOfTNa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Taylor Swift](https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3) | 3:52 |
 | 75 | [Are You Gonna Kiss Me Or Not](https://open.spotify.com/track/2oyJMZrw1DGvvkT2NbCZ0Y) | [Thompson Square](https://open.spotify.com/artist/0Bvs8yPjrQSbmVIRqSg1Sp) | [Thompson Square](https://open.spotify.com/album/1yf8bz1b5QKWWyCEJb32S8) | 3:04 |
 
-Snapshot ID: `MCxjNDAxMzcyMjNiODQxNjczNTMxNmJmZDU1NDAxN2QwMGYzOTgyZWYy`
+Snapshot ID: `MCwxYzZlOTM0ZjBlYzVkZmNkMzZlOGFlNDE4YzdmYjQzNzgzMjY2Y2Fl`

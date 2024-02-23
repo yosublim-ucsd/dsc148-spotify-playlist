@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVcYTitfRUu.md) - [plain]
 
 > 감성 가득한 노래와 함께 부드럽게 핸들을 돌려보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,238 likes - 80 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,260 likes - 80 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVcYTitfRUu.md) - [plain]
 | 79 | [Last Scene](https://open.spotify.com/track/72b8XXM0GEo1TtJ2aPe79R) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [Last Scene \- The 3rd Mini Album](https://open.spotify.com/album/1qEyXADkIHSmaCZuHnQPb7) | 4:22 |
 | 80 | [Alarm](https://open.spotify.com/track/0bWaehT6suvoyAVP0RwpNd) | [HWANG MIN HYUN](https://open.spotify.com/artist/7BwZlhJRHC1oVJr8lTxSLf) | [My Lovely Liar, Pt\. 6 \(Original Television Soundtrack\)](https://open.spotify.com/album/7qnNNyNveamlqSXk8AhrQT) | 3:19 |
 
-Snapshot ID: `MCwxYmJhMzlmMWM2NTQwNGVmNDBhMGVlZGZkZmU3NzNkMTgxZDlmNzMz`
+Snapshot ID: `MCwyNGM5YTE2MjVhODI5YWRhMjQ4NzYwYTQyMTUyNjFmMWI3MjJjOWQ3`

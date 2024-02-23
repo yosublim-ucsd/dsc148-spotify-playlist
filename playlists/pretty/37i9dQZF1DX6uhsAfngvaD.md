@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 
 > Blissful indie for dreamers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,721 likes - 80 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,774 likes - 80 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 | 79 | [Detox](https://open.spotify.com/track/3noiIjMMoDd5mrjMrdcFUu) | [Bored at My Grandmas House](https://open.spotify.com/artist/0hQ6Js0CTBu337vggHinhk) | [Detox](https://open.spotify.com/album/35GawsI3gsZ0VzMxGzUaFI) | 4:33 |
 | 80 | [Picnic In The Rain](https://open.spotify.com/track/3tjTAQymCotMfHeoYqWjZh) | [atmos bloom](https://open.spotify.com/artist/5F6pjXWILFr4XnOngaKyo3) | [Flora](https://open.spotify.com/album/5MOsdLQs3Rx5ed7cnrH5Ku) | 3:15 |
 
-Snapshot ID: `MCxmYzg5YjYzNDUyMjYwOWIxZmM1ZTg1MGY3NTBlMWI3NTI1NWYxOGRi`
+Snapshot ID: `MCxiNTRlOGQxOGI1NWIyZmZiMTA5OTA5M2I3ZmZkOTAyOWFiOTFjZGQx`

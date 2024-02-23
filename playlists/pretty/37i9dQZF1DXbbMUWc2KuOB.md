@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbMUWc2KuOB.md) - [plain]
 
 > Enjoy your favourite K\-drama's OST instrumentals\. \(Cover: Forecasting Love and Weather\(기상청 사람들\) \(한국 OST 반주곡과 함께 여유로운 시간을 즐겨보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,757 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,783 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbMUWc2KuOB.md) - [plain]
 | 49 | [If you're with me \- Instrumental](https://open.spotify.com/track/6GBgCbLWz03xdW5RjQniLv) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [Snowdrop \(Original Television Soundtrack, Pt\. 1\)](https://open.spotify.com/album/1mp8PisOMZvtAZWfwv9vlS) | 3:51 |
 | 50 | [Moonchild Ballad \- Instrumental](https://open.spotify.com/track/0huNakYFuJW9ovnvdv6nOY) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [TALE OF THE NINE TAILED \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/7yHvBfT4IADI9iNN2DGsLQ) | 4:22 |
 
-Snapshot ID: `MCxmMzMxZWYzODM5NDY3ODc3ODI0NWZiNjNmYWYyYmRhZWU3ZmY4Mzli`
+Snapshot ID: `MCxkMTdlNTZiNDgxNTU0MTlmM2FiODYyYjdkMTBiNDZkY2QwYzBmNTE5`

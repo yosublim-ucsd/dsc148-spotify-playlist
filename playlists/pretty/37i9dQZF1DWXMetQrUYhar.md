@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMetQrUYhar.md) - [plain]
 
 > Your favorite indie & alternative jams, reimagined and recorded exclusively for Spotify Singles\. Cover: Ezra Koenig
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,820 likes - 125 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,838 likes - 125 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMetQrUYhar.md) - [plain]
 | 124 | [Nothing Scares Me \- Spotify Singles](https://open.spotify.com/track/1s2MMnIR3TYcujFBpNwVQ6) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Nothing Scares Me \- Spotify Singles](https://open.spotify.com/album/7Ehs7TrzgoVYYPaVMa7ZTH) | 2:38 |
 | 125 | [Telepatía \- Spotify Singles](https://open.spotify.com/track/5btOvqOWxTVq33xL3ugEtb) | [Twin Shadow](https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb) | [Spotify Singles](https://open.spotify.com/album/2Wfg6b6tD069N2cxqRlQ0e) | 2:53 |
 
-Snapshot ID: `MCwwZGE5YjYyMTFlYjc4ODk4ZDRiZjg0ODgxNDU2ZmVjYmQxMDQ0ZGZm`
+Snapshot ID: `MCxlOTRmNTUxNWViMjE1Mzg1YzhhZjlmOTY1OGMzODgxNDk2MWJhNjg2`

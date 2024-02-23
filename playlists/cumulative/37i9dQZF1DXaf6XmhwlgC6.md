@@ -4,7 +4,7 @@
 
 > Music from the ether to focus and study to.
 
-262 songs - 13 hr 42 min
+266 songs - 13 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Create Light](https://open.spotify.com/track/1XXNDjnr5iwz5YAZeuS8rg) | [Sundance Darling](https://open.spotify.com/artist/7MRQbUPfaklI0EgLzZSEYP) | [Create Light](https://open.spotify.com/album/2LN3NAxmy8xwhoNBnZXrvw) | 2:35 | 2023-05-05 |  |
 | [Dakota](https://open.spotify.com/track/7pR7yPgbYcipmTUHT5g68p) | [Sheltered Solitude](https://open.spotify.com/artist/2DsYHbz0OEIGzYynekPLlB) | [Dakota](https://open.spotify.com/album/5bbSb8KsPnMFKrdbDIz6dL) | 2:10 | 2022-03-30 |  |
 | [danced](https://open.spotify.com/track/6GYOJV8uOJJZ1t80KNN7mY) | [Golden Horses](https://open.spotify.com/artist/5MXNb6vuHgdZalR71LkKgd) | [danced](https://open.spotify.com/album/4kyAbdyIWP6fkpGzVvgA21) | 2:20 | 2023-05-05 |  |
+| [Day One](https://open.spotify.com/track/2c3R5cRQXCpJTLyanScIxH) | [Skyrios](https://open.spotify.com/artist/55uEL0DabWyI3Yv8dt1Y0Q) | [Day One](https://open.spotify.com/album/5PoIhseACEH1smxIVLYGeD) | 2:08 | 2024-02-22 |  |
 | [Diaphanous](https://open.spotify.com/track/7b343d6fzVQEfyWDZATJ0M) | [Doug Saint](https://open.spotify.com/artist/1apeSNQqrw18v2Z9U6hxmh) | [Into Oblivion](https://open.spotify.com/album/0oO89cVZdGhilcsQVpMt5x) | 4:41 | 2022-12-30 |  |
 | [distance](https://open.spotify.com/track/5GvhKw3OO1gH39gYNHWygd) | [Be Still the Earth](https://open.spotify.com/artist/7FedGrros77uFxBy4PT8k6) | [distance](https://open.spotify.com/album/6f1ZNQmdYglq7uHRBkie3H) | 3:27 | 2023-02-24 |  |
 | [Distance](https://open.spotify.com/track/01PU5WIqYi1ub9gZ4ZnBag) | [Sundance Darling](https://open.spotify.com/artist/7MRQbUPfaklI0EgLzZSEYP) | [Distance](https://open.spotify.com/album/6VnROBOaibXtXYqqpV1REk) | 2:43 | 2023-04-14 |  |
@@ -58,6 +59,7 @@
 | [Encountering the Mirror](https://open.spotify.com/track/7BGhuGxeESE5MZAsjJFSOt) | [Aguto Rising](https://open.spotify.com/artist/3L7kF3nc7Xv5oFW6T4sZfG) | [Encountering the Mirror](https://open.spotify.com/album/5HPomLOslu5ytTESWhQP3d) | 2:51 | 2023-08-11 |  |
 | [Energy](https://open.spotify.com/track/1yDJriJA9uT8p9LyCzGnXm) | [Bon Vie](https://open.spotify.com/artist/5HNWBc46bpwk0Aa5klthkQ) | [Energy](https://open.spotify.com/album/0dUkQHYxrUMZxoab1dDcDw) | 2:37 | 2023-03-10 |  |
 | [Entering Orbit](https://open.spotify.com/track/3RnuKGjbUw9VZpakg1jzhs) | [Starlight Passage](https://open.spotify.com/artist/5tPdr8cTxT89zPEENTLWoh) | [Entering Orbit](https://open.spotify.com/album/1SuwNAVBZdmY0uB1mUHIwZ) | 2:49 | 2022-09-14 |  |
+| [Epiphany](https://open.spotify.com/track/2JCRMMJHw8miYdipCimJLh) | [Dreams Ahead](https://open.spotify.com/artist/6JHr6WrfMhJNTpJ1smiQXy) | [Epiphany](https://open.spotify.com/album/7siWjOTKEkXUyTQCycRSPj) | 3:05 | 2024-02-22 |  |
 | [Epoque](https://open.spotify.com/track/0WUmEgNPYXDCe8zwecTlYk) | [ARCADIA](https://open.spotify.com/artist/2892cyfN2JOBuTQGkPl62T) | [Epoque](https://open.spotify.com/album/6BXVSh9Izt5gRFUUeaF2iw) | 2:05 | 2023-04-14 |  |
 | [Estuarium](https://open.spotify.com/track/2ukibgP8lmxgYTHEqcdikz) | [The Eventide](https://open.spotify.com/artist/6jbL9UQUCzae8Vn3NcwQJ6) | [Estuarium](https://open.spotify.com/album/13M0hOUhKMTnKYH0AYFZiv) | 3:10 | 2022-03-30 |  |
 | [Eternal Life](https://open.spotify.com/track/0qVl1dXbbdqb7HfjAqYjNK) | [Jonny Nash](https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde) | [Point Of Entry](https://open.spotify.com/album/7aDfAxYIvKK1VSbSwhgFpe) | 4:08 | 2023-07-21 |  |
@@ -119,6 +121,7 @@
 | [Klarälven](https://open.spotify.com/track/6wnqcyatMNMyK2mQSVjMfv) | [Stillheten](https://open.spotify.com/artist/2G0WSKy6gi5KNPbVVpze0W) | [Klarälven](https://open.spotify.com/album/5wwzf8mRgo4yhc0uS3ETuP) | 2:09 | 2023-03-03 |  |
 | [Knowledge](https://open.spotify.com/track/32jPQvbPz02F2jhlDdM3SU) | [Endless Voyager](https://open.spotify.com/artist/15TXDkpu2tSyiy77G5ckRa) | [Knowledge](https://open.spotify.com/album/1Fl3JnASxezylSjI0YZgVt) | 2:37 | 2023-06-30 |  |
 | [koime](https://open.spotify.com/track/2yJ8wsGlt6CGMH05mPecu9) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Syukujitu](https://open.spotify.com/album/0UrFBt7UW7R9J7CG2L481e) | 3:02 | 2023-03-23 |  |
+| [Ledges](https://open.spotify.com/track/58XQ5QMrzsppJC1j95ZE6N) | [Kal Koren](https://open.spotify.com/artist/48ZAcUtJjaZZ0OZstH5X4v) | [Ledges](https://open.spotify.com/album/2LweYJjFBluLUEYVdVTCcs) | 2:32 | 2024-02-22 |  |
 | [Left Out In the Open](https://open.spotify.com/track/0vNaU0ExADulW8U7RXAP3T) | [Plaice Commes](https://open.spotify.com/artist/103iNifaFqCDUVVglaXb7D) | [Left Out In the Open](https://open.spotify.com/album/5akedcqnnolrF3uoK9jrxT) | 2:24 | 2023-09-08 |  |
 | [Les Paul Sanitarium](https://open.spotify.com/track/3HZOYhBlwuAVKO9wxT66B1) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Void XXI](https://open.spotify.com/album/2mIu9oDUCuMCdowK2ocHYt) | 1:57 | 2022-03-30 | 2023-08-25 |
 | [lessly](https://open.spotify.com/track/2U62UKX9kl7lHsLn5ANsZp) | [Leo Lind](https://open.spotify.com/artist/5msHhK18amqcRvl1iznOWr) | [Neighborly Nod](https://open.spotify.com/album/1C7RHVtYees2YEL00XSsbs) | 2:23 | 2023-03-31 |  |
@@ -130,6 +133,7 @@
 | [Lose The Distraction](https://open.spotify.com/track/27BvJqf3phlbQGYTyXBSu3) | [Distant Waves](https://open.spotify.com/artist/7GEwtxqekjKY0au4q89hHG) | [Lose The Distraction](https://open.spotify.com/album/3os1dyXtbVtpUO7kTvxWqD) | 3:55 | 2024-01-24 |  |
 | [Lost in Dreamland](https://open.spotify.com/track/5Ld0nTNShgRHfMC7iDyeTb) | [Christos Konstantinidis](https://open.spotify.com/artist/1r6SmaBSJVyCN1gT5mMODO) | [Lost in Dreamland](https://open.spotify.com/album/7hUBfDIeGg5CRAQ0SdXtX1) | 3:09 | 2022-03-30 |  |
 | [lost in motions](https://open.spotify.com/track/5L1hTJQSQJcrMTtJpt2fvP) | [Astronaut In The Desert](https://open.spotify.com/artist/2BUKygVaHZcOw8UI2wEPJ2) | [lost in motions EP](https://open.spotify.com/album/6U4W3dHjwfEzX7XeSgnHLT) | 2:33 | 2023-01-13 |  |
+| [Lost Together](https://open.spotify.com/track/4L4oUWv9dBjgGScuHpDXDG) | [Imber Sun](https://open.spotify.com/artist/2HyEvRdpjC6Ek9cLlLof0X) | [Lost Together](https://open.spotify.com/album/3Y30tca34Ey15PhjZlnq3V) | 2:30 | 2024-02-22 |  |
 | [Make We Here Our Camp of Winter](https://open.spotify.com/track/6qxpNhGriflFhRzat7tAC5) | [The Gentleman Losers](https://open.spotify.com/artist/7e8rT9wPUmfu9ZPC8Mym17) | [Make We Here Our Camp of Winter](https://open.spotify.com/album/3kFeiTzNEZG1w6Yy25K2xR) | 5:42 | 2022-10-07 | 2023-02-04 |
 | [Make We Here Our Camp of Winter](https://open.spotify.com/track/6r4AmkZbvhorcU7gxpev3z) | [The Gentleman Losers](https://open.spotify.com/artist/7e8rT9wPUmfu9ZPC8Mym17) | [Make We Here Our Camp of Winter](https://open.spotify.com/album/3OrrYv7sHlX3Azpvak9w6w) | 5:42 | 2022-03-30 | 2022-10-19 |
 | [Malibu Breeze](https://open.spotify.com/track/6MfGgThfFD2ryXzQSuCZAl) | [Aura Onda](https://open.spotify.com/artist/04O0lEQuqzTzjlhJ9Rfhgx) | [Malibu Breeze](https://open.spotify.com/album/1qo5KKvrpqByTon4bFGohz) | 2:24 | 2023-02-24 |  |

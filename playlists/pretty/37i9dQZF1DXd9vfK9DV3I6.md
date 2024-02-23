@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9vfK9DV3I6.md) - [plain]
 
 > Electronic music with Mediterranean and Eastern influences.
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,173 likes - 100 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,333 likes - 100 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9vfK9DV3I6.md) - [plain]
 | 99 | [Viraha](https://open.spotify.com/track/6ecbcjg67nbaXzPU4dvac7) | [Amorf](https://open.spotify.com/artist/235rIOpga6eYnAP03JD444) | [Viraha](https://open.spotify.com/album/1FWAZzzfsj8Xpyt7NY5URT) | 2:51 |
 | 100 | [El Hawa](https://open.spotify.com/track/6T7WDZFKTZVGxZyRMBZ4AR) | [Obeidmusic](https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks), [Ahmad Sleiman](https://open.spotify.com/artist/2apfH39lJSec2ItcHaIvzr), [Hayam Mansour](https://open.spotify.com/artist/0bJAPM1kJipyhjcDcth6D6) | [El Hawa](https://open.spotify.com/album/5AflaEuukgyI5tzO8ciA9T) | 5:47 |
 
-Snapshot ID: `MCwzOTA2YzNjOTUwYjA5OGZiNTI4ODJhNDIzODNkZmRiMTViMjNlMDM1`
+Snapshot ID: `MCwxYjYwNTNlMmFiZjdlZGY0YzI5ZTgyN2E5ZTUxMWNmYWNhZDY0MTE1`

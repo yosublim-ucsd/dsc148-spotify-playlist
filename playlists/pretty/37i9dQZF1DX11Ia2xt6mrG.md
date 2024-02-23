@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 
 > Descubre lo más fresco de la electrónica mexicana\. Lex en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,031 likes - 90 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,042 likes - 90 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 | 89 | [Ra Ta Ta \- LNY TNZ Remix](https://open.spotify.com/track/6vWmJH7KvTMT9YKWnsocZl) | [Le Twins](https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb), [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa) | [Ra Ta Ta \(LNY TNZ Remix\)](https://open.spotify.com/album/4Enuiub0K5xwy99vI3N7uy) | 2:54 |
 | 90 | [Baby 'O](https://open.spotify.com/track/6GA3AQKqCvdzfsqNFGfbrL) | [Titán](https://open.spotify.com/artist/4pznqIbj3YFnwvG44k1GIu) | [Baby 'O](https://open.spotify.com/album/4hwb8VxXw7wek68HBzxEYk) | 4:15 |
 
-Snapshot ID: `MCxjMDI1NGIzZmM4ZWVkZWFiYjkwZmNlNmVlMTVkM2E2NWJkN2E0NzNk`
+Snapshot ID: `MCw4ZmFhOWEwNDJjNzdmY2VkY2U1OGZmNTViMGY0MGI0OTk4NGRhYTky`

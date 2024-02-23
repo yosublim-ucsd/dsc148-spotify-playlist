@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0ndulfVsG7.md) - [plain]
 
 > Koleksi lagu tersayang dari para artis negeri jiran\. Cover: Geisha
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,778 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,831 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0ndulfVsG7.md) - [plain]
 | 49 | [Tercipta Untukku](https://open.spotify.com/track/4CGpzrPjP0xaJfN9g9FN9A) | [Ungu](https://open.spotify.com/artist/4HHdjvdn30koo54zQ6QeF5) | [Melayang](https://open.spotify.com/album/6PxHRLYt5tTsX8xSoeRVAt) | 4:25 |
 | 50 | [Cinta Sejati \- From "Habibie & Ainun"](https://open.spotify.com/track/7zPiwqd1uxBkiHuk2OoBWJ) | [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9) | [Cinta Sejati \(From "Habibie & Ainun"\)](https://open.spotify.com/album/3cMuELN6TQ1pF5fkOcdhpv) | 5:00 |
 
-Snapshot ID: `MCw2YzM4NjNhODQ0NTdlYzhiMWE2ZmQ2YzM0ZTE5YjlmN2Q5ZGY5NTQx`
+Snapshot ID: `MCxlNmIwZmRkM2MxNjYwYzAyY2ZhNGVkMThjMDkxZTI1Y2UxMzlhMDI3`

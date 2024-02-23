@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 
 > Lose yourself in the cosmic spheres of Psytrance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 535,511 likes - 75 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 535,602 likes - 75 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 | 74 | [Elsewhere \- Original mix](https://open.spotify.com/track/6rr9fNtCD6NJISKD3X6Q2u) | [Liquid Soul](https://open.spotify.com/artist/64nL3MP8zmuLqUq8DDaIKS), [Emok](https://open.spotify.com/artist/0n7N0GtNzbN6xgx7J14pWg), [Martin Vice](https://open.spotify.com/artist/3U9kaA6XFr26x70Va6y3Jv) | [Elsewhere](https://open.spotify.com/album/3XpUhJ5qINVQxYS5OqnIUE) | 6:57 |
 | 75 | [Lose My Cool](https://open.spotify.com/track/7lvS3mihQS16M9mK3gMCoz) | [Johnny Carrera](https://open.spotify.com/artist/57QPPgwDvwwZb5WWYCbQrX), [Umali](https://open.spotify.com/artist/2ffuroI8ThHZxbC3G8Gs1D), [Djapatox](https://open.spotify.com/artist/2EiIyLrf5Cqayp3uuH2hvS) | [Lose My Cool](https://open.spotify.com/album/6mXqLL6fexVxQanfBiVAwv) | 3:56 |
 
-Snapshot ID: `MCxmZDBmODU1NWY2MmNhNDQ0MGM2MjliYTFlMmVjMjQ2MGFiZTQyZmNj`
+Snapshot ID: `MCxiMzYwYzI5ZmY1NWQ1NWE2NmUyNjVhMTIzMTY0ZGMyYmI1YTIxZWE1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,652 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,687 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 11 | [鬼ノ宴](https://open.spotify.com/track/096KHkONhQm4MQNH35mU22) | [友成空](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [鬼ノ宴](https://open.spotify.com/album/4hHgHqD2J1D4bvlzmzzCeT) | 2:55 |
 | 12 | [雷櫻](https://open.spotify.com/track/321Act4cJD2NncZYONJlZ6) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [9Lana](https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ), [SAKURAmoti](https://open.spotify.com/artist/2raQe3AjMykp6K4Y890owO) | [雷櫻](https://open.spotify.com/album/4PMYkY5UkCQuLSPWnyNIdP) | 3:38 |
 | 13 | [Saint](https://open.spotify.com/track/4nRphJ8cxGio2Ygloo5nMl) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u) | [Saint](https://open.spotify.com/album/27QzrPPWPQ4E0Fthf03rx6) | 2:19 |
-| 14 | [ただ君に晴れ](https://open.spotify.com/track/3wJHCry960drNlAUGrJLmz) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [負け犬にアンコールはいらない](https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy) | 3:18 |
+| 14 | [Value](https://open.spotify.com/track/6BEnpVB7g2j8mzWs3MC2kh) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Value](https://open.spotify.com/album/63xNXfql8mdsOd1fZjodbf) | 3:05 |
 | 15 | [サブカルチャー・ドール](https://open.spotify.com/track/4Rxsuz5E9CO6OjcU0Yfnry) | [アザミ](https://open.spotify.com/artist/7hvp5ittRpuSvksfusEkmv), [ぼっちぼろまる](https://open.spotify.com/artist/62DFXFLKdUqfpvVmJbXAyo) | [サブカルチャー・ドール](https://open.spotify.com/album/3HqcBlwCoaLboQZTLBQHi5) | 3:26 |
 | 16 | [Pray](https://open.spotify.com/track/2qHW7U1LRU9F9HPUnJ6ffk) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Pray](https://open.spotify.com/album/0oxb7UtZLAmpBjHZ0mM1PD) | 3:04 |
 | 17 | [有象無象](https://open.spotify.com/track/2PqafwLuRumuEedFw5en3T) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [有象無象](https://open.spotify.com/album/1TcnlwPALhNvklfk5430zq) | 2:40 |
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 20 | [センチメンタルヒーロー](https://open.spotify.com/track/33h7sAZf1g4WP1RpJzptEf) | [五十嵐ハル](https://open.spotify.com/artist/28a4P2rmW853MTC4pOlCv0) | [センチメンタルヒーロー](https://open.spotify.com/album/5ymC7oRE3PDPObIsVbicpx) | 2:59 |
 | 21 | [Overdose](https://open.spotify.com/track/2Dzzhb1oV5ckgOjWZLraIB) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Overdose](https://open.spotify.com/album/1ieXthJ9zXRWqTU8ROAeJa) | 3:17 |
 | 22 | [マンネリウィークエンド](https://open.spotify.com/track/34qr8Cp46RRSzDAPYpHf1u) | [FAKE TYPE.](https://open.spotify.com/artist/3wvCMqwyJachksGLF0kjMJ), [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4) | [FAKE SWING 2](https://open.spotify.com/album/08agBb2R2sUIaqPGpzNI25) | 3:13 |
-| 23 | [アイドル](https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アイドル](https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a) | 3:33 |
+| 23 | [星めぐる詩](https://open.spotify.com/track/30aPCMAtkH6Cf5ejzY4cE4) | [suis from Yorushika](https://open.spotify.com/artist/4UOdwKkaWHJ5k6UqnfC2w0) | [星めぐる詩](https://open.spotify.com/album/2EfEYAvVUWajLKby2VTeZC) | 3:21 |
 | 24 | [tsuijuku](https://open.spotify.com/track/7dX6LTJkMZo65x1gURALEa) | [Rene Ryugasaki](https://open.spotify.com/artist/7iwHh2Rf3Sm4hiC4Ds8g6I), [azami](https://open.spotify.com/artist/6kmpJx7mGUinlMlN9O0ROz) | [tsuijuku](https://open.spotify.com/album/5SUUcgxWq0gFDI9kFgaWWV) | 3:48 |
 | 25 | [Surges](https://open.spotify.com/track/66a0Ib85gRjtZmac4HFsvw) | [Orangestar](https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS), [夏背](https://open.spotify.com/artist/3xRckHz0CRl2Z328bNeVpC), [ルワン](https://open.spotify.com/artist/0UOSYwTdo7kX41HWeuykKm) | [Surges](https://open.spotify.com/album/3Ub59gYPmtgwd0FUDeptaH) | 2:00 |
 | 26 | [孤独の遺伝子](https://open.spotify.com/track/4QT361EGFfzfg0BitMUO1S) | [神谷志龍](https://open.spotify.com/artist/6r2FGDlvtbwwRAnxLhzoaX) | [孤独の遺伝子](https://open.spotify.com/album/1L6IijzRE33OMSOFpyd16M) | 1:58 |
@@ -39,24 +39,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 29 | [野兎と海亀](https://open.spotify.com/track/16mlYCO7jkL36mYQMArhNd) | [DAZBEE](https://open.spotify.com/artist/1m0fLOy3wFNcSpwKn75qJz) | [野兎と海亀](https://open.spotify.com/album/7JlF02VE3mHDeiVf8jz8iZ) | 2:50 |
 | 30 | [I LOVE MEでいられるように](https://open.spotify.com/track/4pXbAglLeVpxeCsg1bVYcj) | [NANAOAKARI](https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn), [湊あくあ](https://open.spotify.com/artist/6GHr4rGFHGRUuzuCuxJA0f) | [DOPING!!!!!!](https://open.spotify.com/album/665mRkLCt1DhBhj6IXl4dk) | 3:00 |
 | 31 | [素的](https://open.spotify.com/track/5QITPzKmdpy9sYabtaBVH8) | [理芽](https://open.spotify.com/artist/1rFELoNfdLOYWPwtrBN6zS), [幸祜](https://open.spotify.com/artist/1oM8EdalXNF4uSK5k2dzLh), [V.W.P](https://open.spotify.com/artist/2WEdpSG62DEFsMhN4iw5P1) | [素的](https://open.spotify.com/album/23X1FWXcw6J8UBhcjhgJAz) | 3:47 |
-| 32 | [勇者](https://open.spotify.com/track/4LjIQmt1t6NjpM0tpttzjo) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [勇者](https://open.spotify.com/album/6L7pjBfP49dh1WYDmHngOO) | 3:14 |
+| 32 | [アイドル](https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アイドル](https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a) | 3:33 |
 | 33 | [Cropping](https://open.spotify.com/track/7aAuchtgMb9X5P8cQjlE6X) | [Quw](https://open.spotify.com/artist/17ryZCE9CTpuNkJMYTwB5M) | [Cropping](https://open.spotify.com/album/1vVhayWOCyooUqJSG5uboX) | 3:01 |
-| 34 | [ヒッチコック](https://open.spotify.com/track/153lRbNmhQZVi69kbhmjY8) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [負け犬にアンコールはいらない](https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy) | 3:42 |
+| 34 | [ただ君に晴れ](https://open.spotify.com/track/3wJHCry960drNlAUGrJLmz) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [負け犬にアンコールはいらない](https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy) | 3:18 |
 | 35 | [まほろば](https://open.spotify.com/track/4DJBVFuW7TZ5aa7uy2wTmE) | [アーリオ・オーリオ・エ・ペペロンチーノ](https://open.spotify.com/artist/2Dkaqg1r0QSXn526uMA09p) | [まほろば](https://open.spotify.com/album/2U6eex6mlqen3LOgKjeeWy) | 3:49 |
 | 36 | [色彩](https://open.spotify.com/track/1uveEvgKX4irLcp1BUTIFD) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [色彩](https://open.spotify.com/album/3gQJWupAma6DdzcHVBQ9Bn) | 3:12 |
 | 37 | [トウキョウ・シャンディ・ランデヴ](https://open.spotify.com/track/2MmgGuQzr0kkiA04lMdPXW) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [ツミキ](https://open.spotify.com/artist/7ctyyNnO9O2dDD8bHjkCAh) | [トウキョウ・シャンディ・ランデヴ](https://open.spotify.com/album/4PVGSr28Y12iTfD6QnzAkQ) | 3:04 |
 | 38 | [Sleepwalk](https://open.spotify.com/track/5WHq3vcWRRb9xeQKgv7lAi) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Sleepwalk](https://open.spotify.com/album/44MMBtUPt8JVNAZMdfPecJ) | 2:27 |
 | 39 | [BALALAIKA](https://open.spotify.com/track/76yRxh0mlCbU8eQPZTstfZ) | [9Lana](https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ) | [BALALAIKA](https://open.spotify.com/album/4pfYQKmuDfjNOJ05rhAzXz) | 3:10 |
-| 40 | [Biri\-Biri](https://open.spotify.com/track/3X9N36jB8FtTkzTCkIFi4u) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [Biri\-Biri](https://open.spotify.com/album/1hxB0L2PCz5d5jQl2s39Sz) | 3:07 |
+| 40 | [勇者](https://open.spotify.com/track/4LjIQmt1t6NjpM0tpttzjo) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [勇者](https://open.spotify.com/album/6L7pjBfP49dh1WYDmHngOO) | 3:14 |
 | 41 | [Complex Image](https://open.spotify.com/track/6Bx8HRNNU5nLzifzuYImYS) | [ときのそら](https://open.spotify.com/artist/2g9gjJayRURjomDGRLNaZR) | [Complex Image](https://open.spotify.com/album/12AUZ2d8Stz84nuQ7SJQQ1) | 5:03 |
-| 42 | [斜陽](https://open.spotify.com/track/2U6mFmBDjaAu6oCCDRpRet) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [斜陽](https://open.spotify.com/album/4FGNOtaosV0RFQZohUbGHj) | 3:20 |
-| 43 | [FightSong](https://open.spotify.com/track/37vujUbX37xoBmwoddMYck) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [FightSong](https://open.spotify.com/album/6rpUs50OKVNUGDDusbHvET) | 3:28 |
-| 44 | [Rendezvous](https://open.spotify.com/track/7gspVQa13prQbNABCRacwE) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [Rendezvous](https://open.spotify.com/album/089xXTATtiHlkm0VCM0w8q) | 2:12 |
-| 45 | [偽顔](https://open.spotify.com/track/5g6gzyGYUD6RPGsIpj7S1O) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [偽顔](https://open.spotify.com/album/6vp7Fy3X466rpv4Gv8UciQ) | 2:30 |
+| 42 | [ヒッチコック](https://open.spotify.com/track/153lRbNmhQZVi69kbhmjY8) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [負け犬にアンコールはいらない](https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy) | 3:42 |
+| 43 | [箱庭の果実【始】](https://open.spotify.com/track/1oRjPNSjr6eV7On5dEtYTP) | [他人事](https://open.spotify.com/artist/3mHK8wA7RNm2B7TebMBBXj), [ねね](https://open.spotify.com/artist/0S1GRfE1kpYSsOi08WkEet) | [箱庭の果実【始】](https://open.spotify.com/album/3OgmI1kcrGb7zYOnp4HAC0) | 3:57 |
+| 44 | [FightSong](https://open.spotify.com/track/37vujUbX37xoBmwoddMYck) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [FightSong](https://open.spotify.com/album/6rpUs50OKVNUGDDusbHvET) | 3:28 |
+| 45 | [Rendezvous](https://open.spotify.com/track/7gspVQa13prQbNABCRacwE) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [Rendezvous](https://open.spotify.com/album/089xXTATtiHlkm0VCM0w8q) | 2:12 |
 | 46 | [フライデー・ナイト](https://open.spotify.com/track/6MXlv5l2I2BRa9pO38dE1a) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [フライデー・ナイト](https://open.spotify.com/album/6gSQqLEZ8GyWUOytxHUpJQ) | 2:55 |
-| 47 | [unravel](https://open.spotify.com/track/0Cez33GqDU7Pw5rqOVUPpU) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado's Utattemita Album](https://open.spotify.com/album/2tGokYNjX87AAodtbLBYuf) | 3:58 |
-| 48 | [残機](https://open.spotify.com/track/1XeOqgzh2fZhmgxnmyiIJ8) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [残機](https://open.spotify.com/album/3wGoYoTJhdbkvn7WZpTqz3) | 3:50 |
-| 49 | [アイワナムチュー](https://open.spotify.com/track/21zl36W7QoaVy5MMxAvfcv) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza), [すりぃ](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa) | [アイワナムチュー](https://open.spotify.com/album/1JNzKXrtkaXgn5y96johqC) | 3:25 |
-| 50 | [Adventure](https://open.spotify.com/track/69O0RdcJkH7eimOTXw41L7) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [Adventure](https://open.spotify.com/album/4h9tiuZQB6hXz68dzZED6g) | 3:20 |
+| 47 | [Biri\-Biri](https://open.spotify.com/track/3X9N36jB8FtTkzTCkIFi4u) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [Biri\-Biri](https://open.spotify.com/album/1hxB0L2PCz5d5jQl2s39Sz) | 3:07 |
+| 48 | [偽顔](https://open.spotify.com/track/5g6gzyGYUD6RPGsIpj7S1O) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [偽顔](https://open.spotify.com/album/6vp7Fy3X466rpv4Gv8UciQ) | 2:30 |
+| 49 | [unravel](https://open.spotify.com/track/0Cez33GqDU7Pw5rqOVUPpU) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado's Utattemita Album](https://open.spotify.com/album/2tGokYNjX87AAodtbLBYuf) | 3:58 |
+| 50 | [残機](https://open.spotify.com/track/1XeOqgzh2fZhmgxnmyiIJ8) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [残機](https://open.spotify.com/album/3wGoYoTJhdbkvn7WZpTqz3) | 3:50 |
 
-Snapshot ID: `MCwxNGRkYTBhYjE3NmRkNWY0NDg0M2EwMTA2ZGU3ZTJjOTkxNWI4NDA0`
+Snapshot ID: `MCw5NWJhY2IwMmVlMjdlMTEyNTIxYmNlNjVkNDhkMzA5NzMzMWM4YjNh`

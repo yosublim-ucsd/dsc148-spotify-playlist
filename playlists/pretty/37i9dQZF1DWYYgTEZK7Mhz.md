@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYgTEZK7Mhz.md) - [plain]
 
 > Un'estate al mare, stile balenare..\. 🏝️ Hit dell'estate italiana anni 60, 70 e 80!
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,774 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,787 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYgTEZK7Mhz.md) - [plain]
 | 49 | [Il ballo del mattone](https://open.spotify.com/track/3E41PlrWGcfROQIH5scjXd) | [Rita Pavone](https://open.spotify.com/artist/3xc8CD41vwsoBNkGXL3pS7) | [Rita Pavone \(Gli Indimenticabili\)](https://open.spotify.com/album/6yHABRmP5ITAONhmzIJ2vt) | 2:17 |
 | 50 | [Con Te Sulla Spiaggia](https://open.spotify.com/track/1pN4eiEz2QqVMq34ltToWI) | [Nico Fidenco](https://open.spotify.com/artist/52d9m6IXscaaj65IyVecXP) | [RCA 100 Años De Musica \- Segunda Parte \- Lo Mejor De Italia](https://open.spotify.com/album/4c3klMERkQR9RXro9ETDcH) | 2:36 |
 
-Snapshot ID: `MCxhMDM5YzIzMzRhMWMxNmQ4ZjQ2ZmQ3ZmEzM2RlNzUxYzE1MDM1Yjk2`
+Snapshot ID: `MCwwMWNiMGUxNjRiOGRhNjE4YTgyNjE0ZmQwMTU1MGRjYjJlZDE4ZTJj`

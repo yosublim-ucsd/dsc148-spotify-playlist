@@ -4,7 +4,7 @@
 
 > 
 
-751 songs - 2 day 10 hr 22 min
+752 songs - 2 day 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -558,6 +558,7 @@
 | [Que tal America](https://open.spotify.com/track/4PKeXkiWmitCiiBzvO3Tfa) | [Two Man Sound](https://open.spotify.com/artist/1fVkoaWNbsSwb7KAG2fboU) | [Samba Megamix](https://open.spotify.com/album/1lEvq3ewf4pHTgk4aqe7Nl) | 4:48 | 2020-10-02 |  |
 | [Que viene el maní](https://open.spotify.com/track/3stLqZRsfSpxqpmnzR9TrQ) | [Sergent Garcia](https://open.spotify.com/artist/6FaSJ1FXpb5QxKu77LPiZr) | [Un Poquito Quema'o](https://open.spotify.com/album/5lKRqbA399Txwzk1IBVx3W) | 4:48 | 2023-12-04 |  |
 | [Queixa](https://open.spotify.com/track/1NIAQbzrcpqoaZd3sNFFKJ) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Cores, Nomes](https://open.spotify.com/album/1xAQ6kW7DQZxTghyepHtzm) | 4:23 | 2022-09-14 |  |
+| [Queztal](https://open.spotify.com/track/3BLtz1XMadNpiil28XLUyU) | [Los Hermanos](https://open.spotify.com/artist/5gmYIZpH1l8t94NoRZRB5x) | [On Another Level](https://open.spotify.com/album/3AftCQAH0WzS0sEcni5ToS) | 6:13 | 2024-02-22 |  |
 | [Qui sait qui sait qui sait](https://open.spotify.com/track/1AjMHNg3bKZYl733Zv9ZAC) | [Henri Salvador](https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6) | [Faut rigoler](https://open.spotify.com/album/7eQ6aBe1LPCLkt6vkYPuZ4) | 3:11 | 2023-10-08 |  |
 | [Quitate La Máscara](https://open.spotify.com/track/7AhoOwG8qWE5RK7GS1XA6w) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Barretto Power](https://open.spotify.com/album/5RxIBMJ5ZrQo1YmD1bk9k7) | 4:30 | 2021-03-18 |  |
 | [Quizás, Quizás, Quizás](https://open.spotify.com/track/0qTzAQUZCtaRAXAOQw8fQJ) | [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Postales](https://open.spotify.com/album/7dyAMfOtDFmmjGCOMNJGQL) | 3:49 | 2023-07-20 |  |

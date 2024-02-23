@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWf8ZIHreXF.md) - [plain]
 
 > The biggest dance floor bangers of the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,068 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,120 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWf8ZIHreXF.md) - [plain]
 | 99 | [Stay The Night \- Featuring Hayley Williams Of Paramore](https://open.spotify.com/track/2QtJA4gbwe1AcanB2p21aP) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Clarity \(Deluxe\)](https://open.spotify.com/album/4xak0izXQHOMV9Wu1mDAAy) | 3:37 |
 | 100 | [Post Malone \(feat\. RANI\)](https://open.spotify.com/track/0qc4QlcCxVTGyShurEv1UU) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Magnets EP](https://open.spotify.com/album/41S9bfzXTSGK4HU2mp5qXH) | 2:54 |
 
-Snapshot ID: `MCwxOTE1NzMwZDBmNGZhZmZmMjhjNmIxYmZmOGNlNmE1MmUwODNhYmFh`
+Snapshot ID: `MCwwZjNhNTgxZjk3ODBlNGUwYTY5NDY0YzM4ODc2ZDM1ZGIxZDQyMzgz`

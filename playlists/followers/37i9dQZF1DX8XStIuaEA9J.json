@@ -1,5 +1,5 @@
 {
-  "2024-02-22": 173011,
+  "2024-02-23": 173055,
   "date_first_scraped": "2023-11-25",
   "description": "\u4eca\u3001\u65e5\u672c\u306e\u30c6\u30a3\u30fc\u30f3\u30a8\u30a4\u30b8\u30e3\u30fc\u306b\u8074\u304b\u308c\u3066\u3044\u308b\u8a71\u984c\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Cover: syudou",
   "name": "Teen Culture",
@@ -1101,6 +1101,24 @@
       "duration_ms": 173240,
       "name": "I GOT YOU (Original)",
       "url": "https://open.spotify.com/track/4RXsi1oTj3uaqoRC9UrwGA"
+    },
+    {
+      "album": {
+        "name": "Inochizuna",
+        "url": "https://open.spotify.com/album/1L6Q6ImUTkfuYi4jRLtnRf"
+      },
+      "artists": [
+        {
+          "name": "syudou",
+          "url": "https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201366,
+      "name": "Inochizuna",
+      "url": "https://open.spotify.com/track/5RDlCRPbMIgVzNS3677eKo"
     },
     {
       "album": {
@@ -2457,7 +2475,7 @@
     {
       "album": {
         "name": "Transpose",
-        "url": "https://open.spotify.com/album/0CpmKvgc6E22A9gD5GTxin"
+        "url": "https://open.spotify.com/album/6txrWZ14wMs7sh93JtWFUU"
       },
       "artists": [
         {
@@ -2468,6 +2486,24 @@
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 239000,
+      "name": "Transpose",
+      "url": "https://open.spotify.com/track/0n2q9kCBG5QSgZx2sj4H1P"
+    },
+    {
+      "album": {
+        "name": "Transpose",
+        "url": "https://open.spotify.com/album/0CpmKvgc6E22A9gD5GTxin"
+      },
+      "artists": [
+        {
+          "name": "Tota",
+          "url": "https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": "2024-02-22",
       "duration_ms": 239000,
       "name": "Transpose",
       "url": "https://open.spotify.com/track/1pXgfCnwQwziwKHULqVIXo"
@@ -4111,7 +4147,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 201366,
       "name": "\u547d\u7db1",
       "url": "https://open.spotify.com/track/15HRektCNAGiAVBrQ2bjCb"

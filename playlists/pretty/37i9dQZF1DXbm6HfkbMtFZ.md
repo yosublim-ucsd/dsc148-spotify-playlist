@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 709,469 likes - 115 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 709,588 likes - 115 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 | 114 | [Mambo Sun \- 2003 Remaster](https://open.spotify.com/track/79dQwpXjJ4t3pILysdqFyB) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Electric Warrior \[Expanded & Remastered\]](https://open.spotify.com/album/6k1iylSzWOs7SgavxlJ8kt) | 3:40 |
 | 115 | [Walk the Streets of Love](https://open.spotify.com/track/3pwe1XZL72gTCoeA3SI1eO) | [Charlie Bereal](https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa) | [Walk the Streets of Love](https://open.spotify.com/album/3CncPOGYwgAd1OW26HSUYD) | 3:29 |
 
-Snapshot ID: `MCxiMTQ4YzViYWI2NjFhZDUwMDlkMTE2OWFlMmQ5NGNmNDE0ZTE3NzRk`
+Snapshot ID: `MCxmNDRiM2JlYjU0MDIzZDM4MzhiYjUxNzBmZmVhMTVmNzAxNzg2NGFk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Lawrence Fields Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,107 likes - 45 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,177 likes - 45 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 44 | [TRIP](https://open.spotify.com/track/3pM64kvoySAPp9m6MyyuNa) | [Indira May](https://open.spotify.com/artist/4PStVha6j7ZX2DNtWwIR24), [Saffron](https://open.spotify.com/artist/6LyCVkX66F8DdgZBkwxYEl) | [TRIP](https://open.spotify.com/album/4lSWHrokA8Dns4QENfvKdm) | 3:26 |
 | 45 | [strider](https://open.spotify.com/track/2RL1rKwbnmRCYc7HHAEXwE) | [DREAMSCAPES](https://open.spotify.com/artist/3MasxTtJV1RA8nnX53K3Bx) | [strider](https://open.spotify.com/album/5NoDLQ5QSJ4duUHcQVRXFs) | 4:27 |
 
-Snapshot ID: `MCxhZjcwMzkxOThiMGY4MGUyYmE1YjU5MmUwNWQzMWM5ZWJjMDI5ZTQ0`
+Snapshot ID: `MCxiYzc4MjMxMjFlZGNjMzk0Y2MzZmJhZDVhOWFjMTNiZWU1ZTk5ZDFh`

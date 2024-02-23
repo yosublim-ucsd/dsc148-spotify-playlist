@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 
 > When the dance floor calls your name, that's amore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,937 likes - 75 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,133 likes - 75 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 | 74 | [Dirty Talk](https://open.spotify.com/track/4CMKgb0qrIsVu202dmop15) | [Klein & M.B.O.](https://open.spotify.com/artist/5MZdKmi0C80e3eu53Vzr6f) | [Dirty Talk](https://open.spotify.com/album/5z5xqfOezhRYRFhGvcj8TP) | 5:35 |
 | 75 | [Body to Body](https://open.spotify.com/track/75nh9TRQMQubdiK82BYdwL) | [Gepy & Gepy](https://open.spotify.com/artist/09FocFgY6iQKkQB91QPK5o) | [Italian Dance](https://open.spotify.com/album/64cl4El2FwAO60rDuUxg33) | 3:12 |
 
-Snapshot ID: `MCwzMjUyYWM2ODMyZDdlNjIzM2JkOTRjMzVlZmEyZDg1OTU0MjFhMjdl`
+Snapshot ID: `MCxjNzE0MjIwODI0ZWY1MmEwMmFmM2JjNmRlN2U0OWI5ODA4MTk4YzM3`

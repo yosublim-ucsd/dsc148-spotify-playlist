@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdo6A3mWpdWx.md) - [plain]
 
 > The biggest party hits of the 1990s\. Cover: Jennifer Lopez.
 
-[Spotify](https://open.spotify.com/user/spotify) - 792,067 likes - 150 songs - 10 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 792,731 likes - 150 songs - 10 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdo6A3mWpdWx.md) - [plain]
 | 149 | [Poison](https://open.spotify.com/track/50DAHcCqneoupFyh96P2GP) | [Bell Biv DeVoe](https://open.spotify.com/artist/2zFZiWQJFFshzojycnXoTL) | [Poison \(Expanded Edition\)](https://open.spotify.com/album/3Fa7c5eB1TiAhoyhS4ReNi) | 4:21 |
 | 150 | [Don't Turn Around](https://open.spotify.com/track/4SYMibQ93bfzOk6uzkF0dO) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm) | [The Sign](https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB) | 3:50 |
 
-Snapshot ID: `MCwzMDlhZTMxNjdlZWZkMDliNmRiN2U3YzAzMzk3OTY4MWEzODIzMmFh`
+Snapshot ID: `MCw4N2QwYzExMDczNGZkZGY0YTMyZTU2MzBmM2ZkOTIwN2MxNGJhM2I3`

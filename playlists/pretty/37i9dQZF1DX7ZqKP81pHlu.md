@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZqKP81pHlu.md) - [plain]
 
 > Les hits algériens du moment\. Cover: Lyna Mahyem, Numidia Lezoul
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,670 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,741 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZqKP81pHlu.md) - [plain]
 | 4 | [Fatou Liyam](https://open.spotify.com/track/6yElpSxAmGJ5w4UFtHyS6c) | [Cheb Hichem TGV](https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl) | [Fatou Liyam](https://open.spotify.com/album/3xzS4W6DgBeu0NEIkSWAg5) | 5:24 |
 | 5 | [Allo](https://open.spotify.com/track/3aeCyLTeN6ypImKPtdjYjZ) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E), [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [Allo](https://open.spotify.com/album/1JcEpcqvv3IMdtcupUh0yD) | 3:15 |
 | 6 | [Nsel Fik](https://open.spotify.com/track/4Eijnd1EdtWNuWHLOxYolj) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX), [Cheb Momo](https://open.spotify.com/artist/2WGoTbMj2VO7bv45UG1WfM) | [Nsel Fik](https://open.spotify.com/album/1Ju1trvRQQcY2VLU0GdSMg) | 4:10 |
-| 7 | [Allo Oui](https://open.spotify.com/track/0FvnIUp3c3YRawAkprTCp6) | [Cheb Hichem TGV](https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl) | [Allo Oui](https://open.spotify.com/album/0Y98q8LciCVvefjIvkCZlR) | 3:20 |
+| 7 | [Allo Oui](https://open.spotify.com/track/06r1Ea7fbuDdbNZewcySTy) | [Cheb Hichem TGV](https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl) | [Allo Oui](https://open.spotify.com/album/4VlMF9KxBExY0QXUXbtZwn) | 3:17 |
 | 8 | [Mademoiselle](https://open.spotify.com/track/32C8CgqPSjt92WU8ngGDMX) | [Amoune Talens](https://open.spotify.com/artist/43mogRFYKNNGyFY4ZHUZ5v) | [Mademoiselle](https://open.spotify.com/album/0hqUvpyWBY0cdRZ0TxdzZk) | 3:55 |
 | 9 | [Y Dor](https://open.spotify.com/track/4m4MwgqsswdG67P8SsQEii) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Unleaded](https://open.spotify.com/artist/3zWMcT8MOIAnQMbGFmMFun), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Y Dor](https://open.spotify.com/album/5qfEAZy6hAgoH7uexHM8vR) | 2:25 |
 | 10 | [شوفو لامور مادار فيا](https://open.spotify.com/track/0yvcSDx1WMdxnUHhqG7PEh) | [Bilel Tacchini](https://open.spotify.com/artist/2QtIVRuCdO2a4RWyoF4ayb) | [شوفو لامور مادار فيا](https://open.spotify.com/album/6DAw2PoGBVo2lggm87EgG6) | 3:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZqKP81pHlu.md) - [plain]
 | 49 | [Ça dépend](https://open.spotify.com/track/5IQgqdOpizKkUmiwAcyCuu) | [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L), [Syc](https://open.spotify.com/artist/6IayXElM5gfjgyWj9Ipbiu) | [Ça dépend](https://open.spotify.com/album/0nowTxq2NVPtVxJBLeDdwp) | 2:50 |
 | 50 | [Toi & moi \(feat\. Mok Saib\) \- version acoustique](https://open.spotify.com/track/0W4h9LlrLvqE6B9u7KWdBz) | [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o), [Mok Saib](https://open.spotify.com/artist/6jcvupTBm6vk5SMEEVpvSW) | [Résilience](https://open.spotify.com/album/7pv5ansWsFSWQbN7uTJvQ2) | 3:19 |
 
-Snapshot ID: `MCw2NDU3YzgxMDBhMjU3MDA5ZTYwOTM5YmMzZTJhOTQxMDEzYmFmZDUx`
+Snapshot ID: `MCwwOTNkZGI2YmFhNzhkZDQyMTNiOGMzZThjYzFiMjA0ZDM5YjkyZmZk`

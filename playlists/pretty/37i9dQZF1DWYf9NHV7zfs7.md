@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYf9NHV7zfs7.md) - [plain]
 
 > y nada más que pop ✨✨✨<br/>📷 Zoe Gotusso
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,852 likes - 85 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,883 likes - 85 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYf9NHV7zfs7.md) - [plain]
 | 84 | [Hablo Con Vos \(feat\. Nahuel Barbero\)](https://open.spotify.com/track/54HUyDF7rL85evFE2PLYKu) | [Rosario Ortega](https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB), [Nahuel Barbero](https://open.spotify.com/artist/2QQM8K8Eqkysh2Dn5Myv6I) | [Otro Lado](https://open.spotify.com/album/2PFUqGpxYAEZZqHjjXQZdN) | 3:51 |
 | 85 | [La Lune XVIII](https://open.spotify.com/track/6sPEHT3coWNOJ8ZFamf9uS) | [Yesan 雪山](https://open.spotify.com/artist/6pJPxDgaE0H343SrASnY9J) | [La Lune XVIII](https://open.spotify.com/album/0FiZSLKYFf7SyqBAh4tHHJ) | 2:55 |
 
-Snapshot ID: `MCwzMmMzZjBkNjFlMGEzOGFmYmUxZjQxM2E4M2ZkZDkyOWFhNzUxMzAw`
+Snapshot ID: `MCxiZmM5YWFkOWY0YmVhODE2NzI1OTRkMTM5OWQ0MGU1MGRmNjBhODcw`

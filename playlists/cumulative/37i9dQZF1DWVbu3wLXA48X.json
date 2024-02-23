@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Current indie tunes from Asia and around the world. Cover: Vampire Weekend",
+  "description": "Current indie tunes from Asia and around the world. Cover: MGMT",
   "name": "Indie Shuffle",
   "tracks": [
     {
@@ -2315,6 +2315,28 @@
     },
     {
       "album": {
+        "name": "Fantasies",
+        "url": "https://open.spotify.com/album/7jI0uMNouj0i2i0Kw0NpSR"
+      },
+      "artists": [
+        {
+          "name": "Bombay Bicycle Club",
+          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+        },
+        {
+          "name": "Rae Morris",
+          "url": "https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226546,
+      "name": "Better Now (feat. Rae Morris)",
+      "url": "https://open.spotify.com/track/0Zu5Nb2llf36AMjYd1as45"
+    },
+    {
+      "album": {
         "name": "Better Than Life",
         "url": "https://open.spotify.com/album/23ja9hIqOtQ70oJCOPFEow"
       },
@@ -2622,7 +2644,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 141390,
       "name": "Black Hole",
       "url": "https://open.spotify.com/track/07gbjddL6AZ4PYKaviVMOQ"
@@ -3302,7 +3324,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 261760,
       "name": "Bubblegum Dog",
       "url": "https://open.spotify.com/track/5MHNVfob6U5PBe8y15A4MG"
@@ -4198,7 +4220,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 245253,
       "name": "Ch\u00e9rie",
       "url": "https://open.spotify.com/track/543porKxyhy643TaLca8PQ"
@@ -4912,6 +4934,28 @@
       "duration_ms": 194550,
       "name": "Dancing Cus It's Raining",
       "url": "https://open.spotify.com/track/4yQT0SptGrIAfZbqtyWE9o"
+    },
+    {
+      "album": {
+        "name": "Dancing In Babylon (feat. Christine and the Queens)",
+        "url": "https://open.spotify.com/album/3QUPigEo0MoAsxxRDe3JOk"
+      },
+      "artists": [
+        {
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+        },
+        {
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292093,
+      "name": "Dancing In Babylon (feat. Christine and the Queens)",
+      "url": "https://open.spotify.com/track/6QybVJMtaDCJjl2vPR2DcA"
     },
     {
       "album": {
@@ -6262,7 +6306,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 272630,
       "name": "Emi",
       "url": "https://open.spotify.com/track/2LmAkK4Q8ICC4Zjwi88Lfv"
@@ -6406,7 +6450,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 234753,
       "name": "End Of The World",
       "url": "https://open.spotify.com/track/5RXjt2s4HBJw3TcaAzwSrD"
@@ -7605,6 +7649,24 @@
     },
     {
       "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/76wvinNBPaNDxuJ5XZziuk"
+      },
+      "artists": [
+        {
+          "name": "Real Estate",
+          "url": "https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168173,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/7sU1jiSkAST9dR1KnRoiJx"
+    },
+    {
+      "album": {
         "name": "Flowers & Chocolate",
         "url": "https://open.spotify.com/album/3Ir7nA3B734XS42NL5HfCW"
       },
@@ -8002,7 +8064,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 202193,
       "name": "Frog Rinse",
       "url": "https://open.spotify.com/track/3wiantdFsCOGIFOPoLwWBA"
@@ -8208,6 +8270,28 @@
       "duration_ms": 145308,
       "name": "Garment Bag",
       "url": "https://open.spotify.com/track/7ah4PtjaIDkRdY0Eb3Sxgq"
+    },
+    {
+      "album": {
+        "name": "Getaway (feat. Phum Viphurit)",
+        "url": "https://open.spotify.com/album/3Bm2iB1HH5jHglICVBIbH7"
+      },
+      "artists": [
+        {
+          "name": "PREP",
+          "url": "https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42"
+        },
+        {
+          "name": "Phum Viphurit",
+          "url": "https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247745,
+      "name": "Getaway (feat. Phum Viphurit)",
+      "url": "https://open.spotify.com/track/5JfLK7hYOhU3fj2xCxEKQ5"
     },
     {
       "album": {
@@ -8838,7 +8922,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 233320,
       "name": "Grace",
       "url": "https://open.spotify.com/track/0j6oelnoCs8StrR26Fm04P"
@@ -9026,7 +9110,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 294835,
       "name": "Hadsel",
       "url": "https://open.spotify.com/track/0qYdqIxjSTK9Wu7wuPZ2i4"
@@ -9298,6 +9382,24 @@
       "duration_ms": 186642,
       "name": "Heartbreak",
       "url": "https://open.spotify.com/track/1ERMgnNgM2oWcmG2ZVuLx5"
+    },
+    {
+      "album": {
+        "name": "Heartless Man",
+        "url": "https://open.spotify.com/album/3ckyt87YZBksANQhtJGeyU"
+      },
+      "artists": [
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/5vxULw4cTsiMYOvH0jrbfj"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110750,
+      "name": "Heartless Man",
+      "url": "https://open.spotify.com/track/7dRxFgqHCL0q3BlA9Er4J5"
     },
     {
       "album": {
@@ -10562,6 +10664,28 @@
       "duration_ms": 214200,
       "name": "I Want To Be Your Only Pet",
       "url": "https://open.spotify.com/track/1J5JzMOAuxoiGYI3Irn2St"
+    },
+    {
+      "album": {
+        "name": "I'll Be Mine",
+        "url": "https://open.spotify.com/album/4inuQ9tn1ve7GOAsvPD2QC"
+      },
+      "artists": [
+        {
+          "name": "flu",
+          "url": "https://open.spotify.com/artist/6saBjzFSNu2pvTcfWWE04R"
+        },
+        {
+          "name": "Numcha",
+          "url": "https://open.spotify.com/artist/6bguntfj9ZnX1lFvSYl72d"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210584,
+      "name": "I'll Be Mine",
+      "url": "https://open.spotify.com/track/6oNqOzzH5P3X8m7qE7GgbO"
     },
     {
       "album": {
@@ -12204,7 +12328,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 204969,
       "name": "linger on",
       "url": "https://open.spotify.com/track/2lhsjZvatWKISlxvOTXQiz"
@@ -13229,6 +13353,24 @@
     },
     {
       "album": {
+        "name": "May Ninth",
+        "url": "https://open.spotify.com/album/0XTJuQSKa1LtnG7r5MO43L"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192144,
+      "name": "May Ninth",
+      "url": "https://open.spotify.com/track/2145px2VY14o2Pgr0OIttX"
+    },
+    {
+      "album": {
         "name": "Cinnamon Daydream",
         "url": "https://open.spotify.com/album/3Qxr4efodw5RfxlnyYoLbg"
       },
@@ -13306,6 +13448,24 @@
       "duration_ms": 147596,
       "name": "Me & Me",
       "url": "https://open.spotify.com/track/3VJqv26NK9cCRXsjDKJOGY"
+    },
+    {
+      "album": {
+        "name": "Me Before You",
+        "url": "https://open.spotify.com/album/5Vu8Hm0i46IcPP6JNvT0jE"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203519,
+      "name": "Me Before You",
+      "url": "https://open.spotify.com/track/0ap1L5LS0igd0zs4erqmT3"
     },
     {
       "album": {
@@ -13986,6 +14146,24 @@
       "duration_ms": 242507,
       "name": "Music All We Have",
       "url": "https://open.spotify.com/track/5BtEJ0u8sxno9kymiloA0S"
+    },
+    {
+      "album": {
+        "name": "Mustang",
+        "url": "https://open.spotify.com/album/00aKd415VlHgSv5uzQotNW"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194731,
+      "name": "Mustang",
+      "url": "https://open.spotify.com/track/5y1kheWw8d3DHl8bv5aEE8"
     },
     {
       "album": {
@@ -22003,6 +22181,24 @@
     },
     {
       "album": {
+        "name": "Apophenia",
+        "url": "https://open.spotify.com/album/7Hk0apxk6HGCsWilqNyJvm"
+      },
+      "artists": [
+        {
+          "name": "Sunwich",
+          "url": "https://open.spotify.com/artist/45KFMEB3QETjFvFME86vYO"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186894,
+      "name": "The Reason Why",
+      "url": "https://open.spotify.com/track/7pI7fujsmn0lauSjuiKoTw"
+    },
+    {
+      "album": {
         "name": "Multitudes",
         "url": "https://open.spotify.com/album/1p4Q0pUvvURdCwC842Abjn"
       },
@@ -25132,7 +25328,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 213386,
       "name": "You Don't Know Me",
       "url": "https://open.spotify.com/track/3ug0tEZJZR3a4bstvyQapc"

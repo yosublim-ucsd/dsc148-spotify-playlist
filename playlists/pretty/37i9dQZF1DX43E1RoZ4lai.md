@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43E1RoZ4lai.md) - [plain]
 
 > The best jazz pianists today\. Cover: Aaron Diehl
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,894 likes - 200 songs - 17 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,912 likes - 200 songs - 17 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43E1RoZ4lai.md) - [plain]
 | 199 | [My Old Kentucky Home](https://open.spotify.com/track/3XHgj5ZFufq2tsDqSdVxND) | [Mason Embry Trio](https://open.spotify.com/artist/3CAwTtzAtzwR6grP0UR2H5) | [My Old Kentucky Home](https://open.spotify.com/album/6PQpjF4PM3uj5JS0JjLOCa) | 3:48 |
 | 200 | [Walking Home](https://open.spotify.com/track/2aPpyPZcJ7GW632Pc9cF0B) | [Kevin Hays](https://open.spotify.com/artist/2uOemiMYq8Lh6yzwELpb3J), [Bill Stewart](https://open.spotify.com/artist/6g23EYtQQXDz44soLZMS39) | [American Ballad](https://open.spotify.com/album/6IMyFCMfT7Gqh7UioxMRfC) | 5:08 |
 
-Snapshot ID: `MCw3YTY1NzIxM2FiOWQ1M2M3ZDlmNGZlMGVjZDA2ZGMyOGY1ZGJkMWJi`
+Snapshot ID: `MCwxZDNjZGM5NzVlNDFiYTRhNjY5NzJjMjAyZmM5YzI0ZjY3ZmZkOGI3`

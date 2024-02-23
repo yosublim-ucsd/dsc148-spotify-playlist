@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 
 > Relax with deep house and electronica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,978 likes - 70 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,000 likes - 70 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,10 +37,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 27 | [Killing Time](https://open.spotify.com/track/77kPYUHSjGVr71TNQrbvvj) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS), [Boy Wolf](https://open.spotify.com/artist/3MK7IThlo651w6Wt687NlM) | [Killing Time](https://open.spotify.com/album/6xNjdHhhNVSjGWciTy1BxH) | 5:32 |
 | 28 | [Tears](https://open.spotify.com/track/5KYdRygDWQcWoFeo6dOBRY) | [Tim Green](https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB) | [Eastbound Silhouette](https://open.spotify.com/album/3BwTQp1wRmL4B7WkXkwvzd) | 8:47 |
 | 29 | [Healing](https://open.spotify.com/track/6BFgRgJWIuIba0K5IKupnT) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Healing](https://open.spotify.com/album/0A8OvnT0h2rXSqZjdSdwQF) | 4:11 |
-| 30 | [Envy](https://open.spotify.com/track/25NOsBha9pzXG6fqGQ79W9) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c) | [Envy](https://open.spotify.com/album/60K91BZTnabLByBJejwqVS) | 4:02 |
-| 31 | [This Version Of You \- Joseph Ray Remix](https://open.spotify.com/track/1oWf71EPQVlawCcygiCbMy) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Joseph Ray](https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX), [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [The Last Goodbye Remixes N°.2](https://open.spotify.com/album/6DKA6hXo5KPvSBGLUL1kky) | 4:11 |
-| 32 | [Three Drums](https://open.spotify.com/track/2FRIWWs5xxPoQrk5pMmsQN) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Three Drums](https://open.spotify.com/album/6zPGFGI2VVFGbiGTlsI237) | 8:15 |
-| 33 | [Jump High](https://open.spotify.com/track/0MPSOPq0yWBr4jV5mCldWU) | [Holly North](https://open.spotify.com/artist/19NPr9xQ0jUnX9PpFmtl8p) | [Jump High](https://open.spotify.com/album/1DF1nmoCA1QPLfAd9klXjD) | 3:16 |
+| 30 | [Halt Plea](https://open.spotify.com/track/4RDbet8bxl0MPQMG9BLEDJ) | [Entele](https://open.spotify.com/artist/5S4KGrV1TY9Dqi8dS5LbPo) | [Halt Plea](https://open.spotify.com/album/2etuLjhlcEMvpjIKm76wSm) | 2:29 |
+| 31 | [Envy](https://open.spotify.com/track/25NOsBha9pzXG6fqGQ79W9) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c) | [Envy](https://open.spotify.com/album/60K91BZTnabLByBJejwqVS) | 4:02 |
+| 32 | [This Version Of You \- Joseph Ray Remix](https://open.spotify.com/track/1oWf71EPQVlawCcygiCbMy) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Joseph Ray](https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX), [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [The Last Goodbye Remixes N°.2](https://open.spotify.com/album/6DKA6hXo5KPvSBGLUL1kky) | 4:11 |
+| 33 | [Three Drums](https://open.spotify.com/track/2FRIWWs5xxPoQrk5pMmsQN) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Three Drums](https://open.spotify.com/album/6zPGFGI2VVFGbiGTlsI237) | 8:15 |
 | 34 | [Graf Zahl](https://open.spotify.com/track/33R7eq2Yqrhjz7eP6XhCsy) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R) | [Graf Zahl](https://open.spotify.com/album/4q2KNOVojE0HcBNrjdk8RW) | 5:32 |
 | 35 | [Carry On \- EarthLife Remix](https://open.spotify.com/track/5u0cZgMKrameRM0UsT1IxF) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [EarthLife](https://open.spotify.com/artist/5xaGKkAq8iQ3R3FfIL3DMG) | [Carry On \(EarthLife Remix\)](https://open.spotify.com/album/5jgBumNN6nizRLyRDEqDh4) | 3:38 |
 | 36 | [Movement](https://open.spotify.com/track/2eqjFIb55WVN7iYx8ixUZY) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Movement](https://open.spotify.com/album/5PgQAA0U4L0NuLLslJ9hqq) | 6:11 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 69 | [Blissda](https://open.spotify.com/track/5trIxTDiFfTeqnRiRjW0A8) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Blissda](https://open.spotify.com/album/1ZHRTJ5kAhqFbfm3MFCxZ9) | 5:43 |
 | 70 | [Need To Feel Loved \- Nils Hoffmann Remix](https://open.spotify.com/track/20ctMnCm00vFtUUUQYSskZ) | [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz), [LVNDSCAPE](https://open.spotify.com/artist/2QlwnS23KrBeshXFyK5U6M), [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb) | [Need To Feel Loved \(Nils Hoffmann Remix\)](https://open.spotify.com/album/3tGTJ20bG5us1bj4cC9AhH) | 3:44 |
 
-Snapshot ID: `MCxmNDYzNzU5NmFjNjAwMGVjZTA5ZGRiZjFhYzIxMGRmYTk2N2Y3M2I5`
+Snapshot ID: `MCxiMTQ4NmM4Mzg1NWEwODFmNzFjMDMxYzExNGFjMWM1ZjllYjVmYWY3`

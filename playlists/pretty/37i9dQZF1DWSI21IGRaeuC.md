@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > Dive into the deep end of the tech house spectrum.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,035 likes - 100 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,076 likes - 100 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 99 | [Where Ya At](https://open.spotify.com/track/5ly24DpozyrKv1FFDivUHx) | [TOBEHONEST](https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo) | [Where Ya At](https://open.spotify.com/album/1IdxL4BAGoA9Cf5Vi2UfQ4) | 3:48 |
 | 100 | [Strung Up](https://open.spotify.com/track/6vOr19HgqGzzCMv040ePVq) | [Sorley](https://open.spotify.com/artist/3apneou0OdagGBkXZxmpaj) | [Strung Up](https://open.spotify.com/album/66FblVKMFIsHhvIB6mRt5p) | 3:20 |
 
-Snapshot ID: `MCxiMGJmNzA4MTNiMDQyZjIwMjU4Zjk3MjBhOTQ2YjllNDEyYzA3NTM0`
+Snapshot ID: `MCxiYjdiM2MwODE5NTQ2M2VkOGRjNWJiYzlhOTAwYjk3NWM0MzU2YjY3`

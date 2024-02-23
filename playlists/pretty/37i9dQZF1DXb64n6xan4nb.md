@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb64n6xan4nb.md) - [plain]
 
 > Enjoy the popular Korean Cyworld bgm that embroidered the 2000s and 2010s\. \(한 시절 감성을 대표했던 싸이월드 BGM을 감상해보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,017 likes - 100 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,031 likes - 100 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb64n6xan4nb.md) - [plain]
 | 99 | [아무리 생각해도 난 너를](https://open.spotify.com/track/4yTuqkCAUwPuW0cHqEKdcm) | [SWEET SORROW](https://open.spotify.com/artist/1rwig4pRfLrj3scq9as1Mb) | [나는가수다 시즌3 1회 \`자신의 대표곡\`](https://open.spotify.com/album/0tdCd8Z8RkV03UcM6p7xQK) | 4:33 |
 | 100 | [청혼](https://open.spotify.com/track/6j4hRezlKpLX3CtRy5V4OC) | [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [These Are The Times](https://open.spotify.com/album/1d8wq1eY5iDOcqZ2kza4PK) | 4:27 |
 
-Snapshot ID: `MCwxODhhNmVmZTc1NThmMGM5MWViZDM2NzlhMTc2YWU4ZjZhOTIyZmM5`
+Snapshot ID: `MCw5ZWQ2NTIyMTgwZDUyMWI1NzMzYTY2ZWY2NDRhMmZiOTNhMzA2ODc1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 
 > All the best new songs from the pop punk scene\. Cover: Neck Deep
 
-[Spotify](https://open.spotify.com/user/spotify) - 566,339 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 566,399 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 79 | [theme song](https://open.spotify.com/track/4pKW3eDE5EonKFYboxagYB) | [BESTIES](https://open.spotify.com/artist/7muEjzf4QdKgX7XB3OHRsj), [Headstrong](https://open.spotify.com/artist/1QUtz3pwcGiuwnVtLJ5JCF) | [flare guns in the living room](https://open.spotify.com/album/3vEfN8kVdAhbCSXdvuLgr1) | 3:00 |
 | 80 | [Who You Used to Be](https://open.spotify.com/track/7L2E7qweIBVY1bjrXjeCwx) | [Headstrong](https://open.spotify.com/artist/1QUtz3pwcGiuwnVtLJ5JCF) | [Space to Heal](https://open.spotify.com/album/0ho4YbLdytrRcaUDKoft1Y) | 3:17 |
 
-Snapshot ID: `MCw4ODE5NDZjZTE2OWRmMjdmYjMxMDY1MmY1MmIzZTA0ZTRkNjE5MDky`
+Snapshot ID: `MCw2MjM1NDQzNjBhNzU5Y2U3N2IwYzg4ZWQxMWEwNGRhMzY1Mzk3Yzli`

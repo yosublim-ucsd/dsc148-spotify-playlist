@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 
 > A mix of electric roots rock and folk\-infused alternative\. Cover: Nathaniel Rateliff & the Night Sweats
 
-[Spotify](https://open.spotify.com/user/spotify) - 490,645 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 490,646 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 | 99 | [My Entire Life](https://open.spotify.com/track/5k3DxjK0pyumrqWiRbSUL0) | [Susto](https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt) | [My Entire Life](https://open.spotify.com/album/0RlHHNuhYu4OAUMmo3gHzO) | 2:46 |
 | 100 | [Hear It Again](https://open.spotify.com/track/2wQqHmiR1LXjwLICvRQUPG) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Juniors](https://open.spotify.com/album/3nzqLuP7d24XYuBnbiaiop) | 3:53 |
 
-Snapshot ID: `MCw0ZjZjNmUwMDRlNTJiM2IxMTViMDUxNmM5ODg5NTEzOWVkNzM4ZjI0`
+Snapshot ID: `MCw0MTIzZGYwNTE0YTA5MDQ0MjI1YjUxNmRmZDJmNGRmNDkyOGY1ZDIy`

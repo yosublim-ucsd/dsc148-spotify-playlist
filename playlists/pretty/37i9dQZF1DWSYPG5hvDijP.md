@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 
 > New Hip Hop from India.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,947 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,014 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 | 4 | [Laapata](https://open.spotify.com/track/5B9c2td4fRTEg6tzTu7W1D) | [Gravity](https://open.spotify.com/artist/7ti25GJHIRWZ5f1WN0T2zO), [Maanuni](https://open.spotify.com/artist/0RAKDApsLaVDbTPbtlLReP), [Outfly](https://open.spotify.com/artist/3lpYJAdDhRGm9mFyPxEKBi) | [Laapata](https://open.spotify.com/album/14pOiTMpRkwSbTbGrMUjj9) | 4:14 |
 | 5 | [Only You](https://open.spotify.com/track/4PSvazj8Yc6zgtmc4RUoIx) | [AR Paisley](https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd) | [Only You](https://open.spotify.com/album/6peg85oEmyTYzm8wxik2wd) | 2:22 |
 | 6 | [Mastikhor](https://open.spotify.com/track/05s9rHSjYuhM5jWL7OWMro) | [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [Jai](https://open.spotify.com/artist/0mNpRIxJZqQmcB0UCTU59S) | [Midtown Madness](https://open.spotify.com/album/1HNeKGeOzyTWpLVxZJexRL) | 3:10 |
-| 7 | [Bana Hi Nahi Tha](https://open.spotify.com/track/6hEDk4meQkfuUB4MVMCsMP) | [Dino James](https://open.spotify.com/artist/45PG2L6Fh2XvYL4ONzpdoW), [Bluish Music](https://open.spotify.com/artist/3KlLo4hL4Qq2mhSIGMfas6) | [Bana Hi Nahi Tha](https://open.spotify.com/album/47tdU90RtfE3Kmz8Ocqvd9) | 3:14 |
-| 8 | [Capital](https://open.spotify.com/track/2rWXHzfYluOCWfEch3D9YH) | [Nanku](https://open.spotify.com/artist/1ZBspcSxfWh6GuxjGr5u0p), [Karun](https://open.spotify.com/artist/7FvX2e6CgYllzgZ9uempWF) | [Capital](https://open.spotify.com/album/3TljnADIAMqIhChYqZacge) | 2:32 |
-| 9 | [Here to Rule](https://open.spotify.com/track/59UjVsciK1MazaY2r8jDfK) | [Madhakaala Brar](https://open.spotify.com/artist/795ZMlNN8jjVfrv32qm6Iv), [Kunwxrr](https://open.spotify.com/artist/2ln8u0bAiqCrbEeskIGOpL) | [Here to Rule](https://open.spotify.com/album/22Nj90V18JkQiezrpBhWFa) | 3:57 |
+| 7 | [AAT](https://open.spotify.com/track/4RXRgE3ShaYBrFxy2q0OkK) | [Simba Sing](https://open.spotify.com/artist/7Dn0LHcvgOdA2lcsHwmWcj) | [AAT](https://open.spotify.com/album/3urwKaj9Rps57JJppOQIzx) | 2:01 |
+| 8 | [Bana Hi Nahi Tha](https://open.spotify.com/track/6hEDk4meQkfuUB4MVMCsMP) | [Dino James](https://open.spotify.com/artist/45PG2L6Fh2XvYL4ONzpdoW), [Bluish Music](https://open.spotify.com/artist/3KlLo4hL4Qq2mhSIGMfas6) | [Bana Hi Nahi Tha](https://open.spotify.com/album/47tdU90RtfE3Kmz8Ocqvd9) | 3:14 |
+| 9 | [Capital](https://open.spotify.com/track/2rWXHzfYluOCWfEch3D9YH) | [Nanku](https://open.spotify.com/artist/1ZBspcSxfWh6GuxjGr5u0p), [Karun](https://open.spotify.com/artist/7FvX2e6CgYllzgZ9uempWF) | [Capital](https://open.spotify.com/album/3TljnADIAMqIhChYqZacge) | 2:32 |
 | 10 | [Bolna Tu Bantai \- From "Whole Heartedly"](https://open.spotify.com/track/0Glg2gUCE9QydbTm0zjEkN) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Bolna Tu Bantai \(From "Whole Heartedly"\)](https://open.spotify.com/album/5O2fxXZT0fLfOVU6vG1eyf) | 2:30 |
 | 11 | [Kheench Maari](https://open.spotify.com/track/2W45HI9Tfj1YdhMHJE0Lnd) | [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [Nitin Randhawa](https://open.spotify.com/artist/0WIMfLnFgEZkwlzCaemJkS) | [Kheench Maari](https://open.spotify.com/album/1Vp9PMPUHVdITIdbtzlQmH) | 2:48 |
 | 12 | [Ishqa Da Jahaan](https://open.spotify.com/track/1emj3nd3qSQ6eqTi2ggBMU) | [Frappe Ash](https://open.spotify.com/artist/2dWPVvGGO8qRREfIwdXHZH), [Encore ABJ](https://open.spotify.com/artist/1GNRmzBPWT8hh6CYxkNiRy), [Aman Sagar](https://open.spotify.com/artist/44RHVQwXmrmkfsOnSuURmF), [Amey](https://open.spotify.com/artist/1MmWTSRBC2BsKJdtyhwYCH) | [Ishqa Da Jahaan](https://open.spotify.com/album/38YeUuns5QNU5USQwYt5Gv) | 3:42 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 | 74 | [NGL](https://open.spotify.com/track/58h9f4lWnyLPIwqucWydxj) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [Time Will Tell](https://open.spotify.com/album/2KeoHVqxTVYsOz5ThUyQ6y) | 4:00 |
 | 75 | [BADNAAM](https://open.spotify.com/track/3KDD0ynijMr5VaJGxxUk92) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC) | [PRAA](https://open.spotify.com/album/4OsOipytcFs0SwulwIAtis) | 2:52 |
 
-Snapshot ID: `MCw0YWIxMTc2ZTgyNDNiMjFjNjRkMWY0YzZlOGFmMzMwZTZkY2JhOTM3`
+Snapshot ID: `MCw3NzEwOWJlMGEyY2QxZDFkNGFmNzNjZDRmMjYyZjA4ZDM5ZWI2YWM3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1L7I2Y.md) - [plain]
 
 > This is N.I.N.A\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,443 likes - 31 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,445 likes - 31 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1L7I2Y.md) - [plain]
 | 8 | [Malícia](https://open.spotify.com/track/492ipmTVC3GIoGJJ4s3ddd) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Derxan](https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW), [Kash](https://open.spotify.com/artist/4QQfMoY4iQmKwz7Ni1QVpt) | [PELE](https://open.spotify.com/album/57LANvZ85BtVlj31EAY7EK) | 2:56 |
 | 9 | [Metáfora](https://open.spotify.com/track/4TnLiCiAgtobVussVvGmW5) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET) | [Bom Mesmo é Estar Debaixo D'Água Deluxe](https://open.spotify.com/album/0jO0rVqH4aJkfl3bA6l3yk) | 5:01 |
 | 10 | [Despedidas](https://open.spotify.com/track/6N8ivSFir4QlSkp8ixqH9w) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89) | [Para Todos os Garotos que já Mamei](https://open.spotify.com/album/74Ib1RgIXLeq1P3kkKxiBK) | 3:12 |
-| 11 | [Mo Parada](https://open.spotify.com/track/2slnZo9tCJUEnIi5Db8f63) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET) | [Baby Chefe](https://open.spotify.com/album/4KW7mmQ6zVpqvPisTYE9jJ) | 2:20 |
+| 11 | [Stephen King](https://open.spotify.com/track/54Lt2Ge2OBZoFInMDJmU92) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET) | [Stephen King](https://open.spotify.com/album/2SixEfADecvtERCCUXwQej) | 2:44 |
 | 12 | [Oi, Sumido](https://open.spotify.com/track/0tw3r4VPs3DqhoRvqUUw4k) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Zarashi](https://open.spotify.com/artist/3lCUTSwNW2iz8tFRnKLsYE), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW) | [PELE](https://open.spotify.com/album/57LANvZ85BtVlj31EAY7EK) | 4:06 |
-| 13 | [Stephen King](https://open.spotify.com/track/54Lt2Ge2OBZoFInMDJmU92) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET) | [Stephen King](https://open.spotify.com/album/2SixEfADecvtERCCUXwQej) | 2:44 |
+| 13 | [Mo Parada](https://open.spotify.com/track/2slnZo9tCJUEnIi5Db8f63) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET) | [Baby Chefe](https://open.spotify.com/album/4KW7mmQ6zVpqvPisTYE9jJ) | 2:20 |
 | 14 | [Faz Assim](https://open.spotify.com/track/0rgd774qnpXd6Gurk0dMoT) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW) | [Para Todos os Garotos que já Mamei](https://open.spotify.com/album/74Ib1RgIXLeq1P3kkKxiBK) | 3:37 |
 | 15 | [Irreal](https://open.spotify.com/track/0VotVMtQ7gMA7cMlGBfEcc) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [LUCA](https://open.spotify.com/artist/1DRzLtTsFTbnPTYgkTDRIi), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW), [Kash](https://open.spotify.com/artist/4QQfMoY4iQmKwz7Ni1QVpt) | [Irreal](https://open.spotify.com/album/7wnQ2bHyKp92zJuGNepuGE) | 3:10 |
 | 16 | [10X Melhor \(Interlúdio\)](https://open.spotify.com/track/4PvytjXAIl8Ttdfwj1ZV5m) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW) | [PELE](https://open.spotify.com/album/57LANvZ85BtVlj31EAY7EK) | 1:21 |
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1L7I2Y.md) - [plain]
 | 30 | [Rock Danger Brasil Grime Show \- Big Bllakk X N.I.N.A](https://open.spotify.com/track/0otaj8BW7Jjr7pNt38tAjq) | [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [KIB7](https://open.spotify.com/artist/7lSYO6wq6ueSYYIEUbF92u), [diniBoy](https://open.spotify.com/artist/1hXHVRZlpm93rvPRb7d7HU), [Brasil Grime Show](https://open.spotify.com/artist/1MHo7H67rgMeXzF7UTqbjT), [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET) | [Rock Danger Brasil Grime Show \- Big Bllakk X N.I.N.A](https://open.spotify.com/album/63B0JgFYO5FgQml993TnS5) | 5:52 |
 | 31 | [Too Street 4 T.V.](https://open.spotify.com/track/3D9nPliI0cgYTdyUMb9KxL) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET) | [Dysfunktional Family \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0iBGpWpeiX2GPcIVCF5yEV) | 4:15 |
 
-Snapshot ID: `Mjg0NzUyOTAsMDAwMDAwMDAwZjk0NDBjMzFiMjQ4Yzc4ZGExOWVkZjg5ZDcxMDk2Yg==`
+Snapshot ID: `Mjg0NzcwNzUsMDAwMDAwMDBhMTgzODBmMjI3ZmM3NzY0MjQ0YTBmMzVkOWIxYWY1NQ==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 
 > Remixed pop and <a href="spotify:genre:edm\_dance">dance</a> collabs\. Cover: Tyla
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,404,794 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,404,980 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 | 74 | [MOONLIGHT SUNRISE \(Jonas Blue Remix\)](https://open.spotify.com/track/0H8vXZHYrbMfYJlojEjiS3) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [THE REMIXES](https://open.spotify.com/album/37WsLE5Eny9CTmF9CPzWIq) | 2:47 |
 | 75 | [Padam Padam \(Jax Jones Remix\)](https://open.spotify.com/track/6Ow5yGcdb7YhjRmZJ2cViv) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Padam Padam \(Jax Jones Remix\)](https://open.spotify.com/album/6eg4SmA5q6IwAfRJ3r140S) | 3:24 |
 
-Snapshot ID: `MCxkNGJlOGEwYmRhMTEyYjcyMzBlYWZmMWZmYmJlZGRlNTlhNzAzNzEx`
+Snapshot ID: `MCw5MmIyNGQyNTVjZWYwYTU0NjY3MmY3OWUwZjc1ZTU5MWY3ZTY0MDhl`

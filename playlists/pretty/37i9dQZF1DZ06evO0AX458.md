@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AX458.md) - [plain]
 
 > This is Touché Amoré\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,274 likes - 37 songs - 1 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,276 likes - 37 songs - 1 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,13 +37,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AX458.md) - [plain]
 | 27 | [Hard to Explain](https://open.spotify.com/track/4Ptjci84oTDIh4iSkygdNC) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Covers Vol\. 1](https://open.spotify.com/album/7Mb0ExnQg3xbgj9OIdhelq) | 3:30 |
 | 28 | [Negotiating the Charade](https://open.spotify.com/track/7Hvl5UF5AKkQiyHL2UC5ku) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Touché Amoré](https://open.spotify.com/album/5K6eWqesCPkdNr7iiK2fnf) | 1:15 |
 | 29 | [I'll Get My Just Deserve](https://open.spotify.com/track/5qpT7CVS0r3yfGsMvI7MwS) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Searching For A Pulse/The Worth Of The World](https://open.spotify.com/album/6tZip1UYmRLpKlI6wIfWQI) | 1:34 |
-| 30 | [History Reshits Itself](https://open.spotify.com/track/68bm9z3WOGCnnqmOrm6PeT) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [...To the Beat of a Dead Horse](https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1) | 1:32 |
+| 30 | [Swimming with Sharks](https://open.spotify.com/track/4BjDJV6gg3dCVwoXyQkf8q) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [...To the Beat of a Dead Horse](https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1) | 1:03 |
 | 31 | [Cadence \(Anniversary Version\)](https://open.spotify.com/track/5wzEnAa997Py5C7jACiYr9) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Dead Horse X](https://open.spotify.com/album/18mkStcF82XtIJT9ENw9pa) | 1:39 |
 | 32 | [Crescent\-Shaped Depression](https://open.spotify.com/track/1Ly3zw0kDRbWPwv9P9f6aq) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Crescent\-Shaped Depression](https://open.spotify.com/album/0yReIcLlaod3FUytt1cN5o) | 2:24 |
 | 33 | [I'll Deserve Just That](https://open.spotify.com/track/31Aw4lTh5VI3lnlifsIP4G) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Searching For A Pulse/The Worth Of The World](https://open.spotify.com/album/6tZip1UYmRLpKlI6wIfWQI) | 1:43 |
 | 34 | [Suckerfish](https://open.spotify.com/track/24GkGstdibYrnnhfZWsFE4) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [...To the Beat of a Dead Horse](https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1) | 1:38 |
-| 35 | [Swimming with Sharks](https://open.spotify.com/track/4BjDJV6gg3dCVwoXyQkf8q) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [...To the Beat of a Dead Horse](https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1) | 1:03 |
+| 35 | [History Reshits Itself](https://open.spotify.com/track/68bm9z3WOGCnnqmOrm6PeT) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [...To the Beat of a Dead Horse](https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1) | 1:32 |
 | 36 | [And Now It's Happening in Mine](https://open.spotify.com/track/4i2ZnG3km6mvQ3zqcsEAio) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [...To the Beat of a Dead Horse](https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1) | 1:37 |
 | 37 | [Adieux](https://open.spotify.com/track/5w1kK7BBfB9BPL0kM4MiGu) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [...To the Beat of a Dead Horse](https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1) | 1:25 |
 
-Snapshot ID: `Mjg0NzUyOTAsMDAwMDAwMDBjY2UxMjQ2ODVjMjRmY2UyZTJjZTY3ODRjMjcwOTE3ZA==`
+Snapshot ID: `Mjg0NzcwNzUsMDAwMDAwMDA0M2Q0MjI1N2FlYWZmZjc3MGI3NGY5MTE4NjlkNjM3YQ==`

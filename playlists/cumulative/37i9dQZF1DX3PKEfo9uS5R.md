@@ -4,7 +4,7 @@
 
 > Chill house tracks to power your pilates session.
 
-209 songs - 10 hr 41 min
+212 songs - 10 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Breeze](https://open.spotify.com/track/0whoBMh85W6OGcp9SXvpeH) | [Teide Garcia](https://open.spotify.com/artist/451rSCehp88cqkjv6QQLha) | [Breeze](https://open.spotify.com/album/15NQ6RxghzQVEOrms9xl5S) | 2:54 | 2023-05-05 |  |
 | [Bubbly Vibes](https://open.spotify.com/track/1cvX6BDM6QiuPfOFeXXRuM) | [Pool\-Man John](https://open.spotify.com/artist/5tQdY6sUlCJwkUmfJK4rbe) | [Bubbly Vibes](https://open.spotify.com/album/6e2RkxY6bYkhuT0tmsGKod) | 3:03 | 2023-03-10 |  |
 | [Campion](https://open.spotify.com/track/5gIlVzuuMjv95PSZ9lnXTi) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [Campion / Geimfar](https://open.spotify.com/album/552e1oUOvaktE907WmfQPR) | 3:29 | 2021-11-11 | 2023-03-10 |
+| [candy colored life](https://open.spotify.com/track/25E2rEL9cHcEeiTz7cD9pe) | [Sunset\-buff](https://open.spotify.com/artist/4vwwK0iaZVthftLEr8As6W) | [candy colored life](https://open.spotify.com/album/3ql9iK1tUbJrpEy4cRo6ja) | 3:08 | 2024-02-22 |  |
 | [Cannonball](https://open.spotify.com/track/7f1ZpHuGeGQOzD5qumBg5F) | [Dove Tales](https://open.spotify.com/artist/70Tk6S5pkOGDREV86Mn8Qf) | [Monty Hall](https://open.spotify.com/album/4MPyqq00qt7THWrpiHwRa7) | 3:41 | 2021-11-11 | 2022-04-06 |
 | [Castles in The Air](https://open.spotify.com/track/3XSr3AQ6smXdcDGlkslcER) | [Luke Lavelle](https://open.spotify.com/artist/4MbsAtsT8KlRa27ATT0YQ3) | [Castles in the Air](https://open.spotify.com/album/443uJl497U7M7fYWhw1Lpg) | 3:49 | 2021-11-11 |  |
 | [Channels](https://open.spotify.com/track/7f7VEawSbmKCkDpWpxcd7N) | [Hazel Calm](https://open.spotify.com/artist/19AnR1ST7DAT5Coo66OKLl) | [Channels](https://open.spotify.com/album/236zd3ADvrLVkUqSzJzzNf) | 2:06 | 2022-07-01 |  |
@@ -97,6 +98,7 @@
 | [in deep](https://open.spotify.com/track/7rqQxJViCFUr8wcR834xtX) | [genelion](https://open.spotify.com/artist/2TMzn3AIEg6b4Nd28MjUNA) | [in deep](https://open.spotify.com/album/7zqrnHXPFDs3fpqpYRmbih) | 2:37 | 2022-07-08 |  |
 | [Inside](https://open.spotify.com/track/266AcipKTXIgXJxre9q96l) | [Karl Spark](https://open.spotify.com/artist/1fT4bjnaK1NRVL2Kt62clf) | [Eternity](https://open.spotify.com/album/1hao8mc9TnqAnw0CxneHYN) | 2:38 | 2023-08-11 |  |
 | [joy love](https://open.spotify.com/track/6k7j89mjONxCj8FioP1cii) | [Goose Groovy](https://open.spotify.com/artist/5g7RMNd1zbiT8yisqse8dA) | [joy love](https://open.spotify.com/album/6G4Hf6evzUuupK4RQjGPQy) | 2:33 | 2023-06-19 |  |
+| [Jubilant](https://open.spotify.com/track/4dOnXu1V4izJqcB7D8qF9B) | [Rubiii Sky](https://open.spotify.com/artist/4TlmlpgwSdQJmElNxWh8Gz) | [Jubilant](https://open.spotify.com/album/0oo1OT0z6GVMKPXSq7yPJG) | 2:28 | 2024-02-22 |  |
 | [Jungle](https://open.spotify.com/track/1bYYkgs2MnDgmKstwHmTCN) | [Sleap Year](https://open.spotify.com/artist/3rHbl02YzcYLfkNurILXKH) | [Jungle](https://open.spotify.com/album/3gydl4PaR5RDJIirW4eARZ) | 2:08 | 2023-03-17 |  |
 | [Kayser](https://open.spotify.com/track/1Sd7pRxyFcUNO9Gv6GCjFo) | [Milous](https://open.spotify.com/artist/4Cv0OlUpDvWetGf4ZpI5Zj) | [Deep House Lounge \(Flawless Vibes\)](https://open.spotify.com/album/0Hupwday0HovdNoTf4HEEQ) | 2:51 | 2022-09-09 |  |
 | [Kayser](https://open.spotify.com/track/2RIrQ7XZPKUwa9AprTsWQu) | [Milous](https://open.spotify.com/artist/4Cv0OlUpDvWetGf4ZpI5Zj) | [Kayser](https://open.spotify.com/album/6yjyiL2nfApxt05r3oRSw2) | 2:51 | 2022-05-20 | 2022-09-28 |
@@ -179,7 +181,7 @@
 | [Sputnik](https://open.spotify.com/track/6omVgaiW9qCv4vhUIuJiXO) | [Isla Cruz](https://open.spotify.com/artist/0b4aT0b93OhjSIIsYkW6s1) | [Sputnik](https://open.spotify.com/album/2XjgPhcQIIWCGsDMPhJp9c) | 3:38 | 2021-11-11 |  |
 | [Star Reflections](https://open.spotify.com/track/7xpr7wA84h55F4t2noWCd0) | [Lostlow](https://open.spotify.com/artist/2ZB3DKgzAjv2VY88jaH9jn) | [Star Reflections](https://open.spotify.com/album/2lXS0eCpWHuVwFBJbtNhEV) | 3:12 | 2021-11-11 | 2023-06-03 |
 | [Storm Trap](https://open.spotify.com/track/5R6je2hMSX75YAKP5t4CvE) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [Storm Trap](https://open.spotify.com/album/55fwoBizWuDHDLeKYGOk4n) | 3:52 | 2022-06-17 | 2022-09-09 |
-| [Strawberry](https://open.spotify.com/track/0lzRekCeR36TcwwtDYNnMw) | [Edward The Eagle](https://open.spotify.com/artist/2Un95yxT6GCP6qwydEfQ4d) | [Strawberry](https://open.spotify.com/album/40jbMwX71uTzhMKgCtxVyD) | 1:52 | 2024-01-19 |  |
+| [Strawberry](https://open.spotify.com/track/0lzRekCeR36TcwwtDYNnMw) | [Edward The Eagle](https://open.spotify.com/artist/2Un95yxT6GCP6qwydEfQ4d) | [Strawberry](https://open.spotify.com/album/40jbMwX71uTzhMKgCtxVyD) | 1:52 | 2024-01-19 | 2024-02-23 |
 | [Sumatra](https://open.spotify.com/track/2SvDldertcHX0y6kGDhtU3) | [Bonsaye](https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG) | [Sumatra](https://open.spotify.com/album/0Md5pzmo4V44Qdep0yXlT2) | 3:17 | 2022-08-19 | 2023-02-25 |
 | [Summer Like Before](https://open.spotify.com/track/4QHsDrQJ4IPH5DG9Y9A61B) | [Vee Jay](https://open.spotify.com/artist/7GC4nMn8SQcBeF5c66SmQl) | [Summer Like Before](https://open.spotify.com/album/1B6DLJW9CVPPGXysmpVrA2) | 2:38 | 2023-09-08 |  |
 | [Summer Youth](https://open.spotify.com/track/2nj2H3Eq1BhxBkJIomPlIZ) | [Deeter K](https://open.spotify.com/artist/2NbPC2YJm6tBoFU3BJyXEo) | [Summer Youth](https://open.spotify.com/album/4HpLAXUjv7qQiDkYRb0LFH) | 2:37 | 2023-06-23 |  |
@@ -206,6 +208,7 @@
 | [Washed Away](https://open.spotify.com/track/1e0Q9veokrlQKVTiKv3jLx) | [Leon Meier](https://open.spotify.com/artist/0DTofPSC4MRF3w1Z6G0Nca) | [Washed Away](https://open.spotify.com/album/3ZRqvvAjiVDWms9WPCebXq) | 3:35 | 2021-11-11 | 2022-05-11 |
 | [Watchtower](https://open.spotify.com/track/5cwjq1HlJEwOMOxFr8bPpT) | [Werlie](https://open.spotify.com/artist/6KQ7zOmEoEm2tgJsoYq55x) | [Watchtower](https://open.spotify.com/album/1l95gSxvw9QjvHnl6z0C6C) | 2:38 | 2021-11-11 | 2023-06-03 |
 | [Waves](https://open.spotify.com/track/1A2pH62d1USSUsxuoiRD8l) | [Navagio](https://open.spotify.com/artist/4IZVQx6ZkiGS5yIhLQvhf8) | [Waves](https://open.spotify.com/album/4bSGU58KwhgotZ3SETiZso) | 2:38 | 2021-11-11 | 2022-05-11 |
+| [We Shall Be Free](https://open.spotify.com/track/7ukdXMeyezREsJaSl7mnpA) | [bombergirl](https://open.spotify.com/artist/79pr8Jy2Fxo9u6EaOxbCAQ) | [We Shall Be Free](https://open.spotify.com/album/7wMIZOm3ZuZKBaufcbxy0W) | 2:48 | 2024-02-22 |  |
 | [What You Want](https://open.spotify.com/track/5EFUY2TbeUYah7R4esc1Y8) | [Sleap Year](https://open.spotify.com/artist/3rHbl02YzcYLfkNurILXKH) | [What You Want](https://open.spotify.com/album/34G54lkKLI877X7GYJXy12) | 2:24 | 2023-12-01 |  |
 | [White Dust](https://open.spotify.com/track/2zlmxxH4eHn2rmBZRQRwEY) | [Sun Mirage](https://open.spotify.com/artist/3wqjOyUcOsV0wSLgCsGwf4) | [It's all clear now](https://open.spotify.com/album/4nZ4IAl00PTqsNs0AmC0GA) | 4:02 | 2021-11-11 | 2022-05-11 |
 | [White Sand](https://open.spotify.com/track/5bJpgpe64yhSWpwtELoBh3) | [Maurea](https://open.spotify.com/artist/6GqXPQOxk9y94VmCzjZMEj) | [White Sand](https://open.spotify.com/album/1YEoHrS4r659ncmDAGU3rD) | 2:39 | 2022-10-07 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDqZiB24ZM.md) - [plain]
 
 > Les essentiels du hip\-hop québécois des dernières années\. Photo: Dead Obies
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,918 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,922 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDqZiB24ZM.md) - [plain]
 | 99 | [Ça fait mal](https://open.spotify.com/track/1sAB7fCrQ4YUIdoP24qlO1) | [KNLO](https://open.spotify.com/artist/56zW5cgHbn3F88lDBF6wAV), [Micro](https://open.spotify.com/artist/0QAE7vtf7znl9nN6822bM5) | [Sainte\-Foy](https://open.spotify.com/album/7BEPwXmSWLXN8iaNP3683g) | 4:12 |
 | 100 | [Cest la vie](https://open.spotify.com/track/1nDzpmP87QECplOn8I0L3E) | [Soubillz](https://open.spotify.com/artist/6MtBOm6B7RFEIkQ6SxFdVp), [YH](https://open.spotify.com/artist/3js5jvTuoFgetWV7s8EVT5) | [Cest la vie](https://open.spotify.com/album/6ZFQ1NRQ68TWF7xHIQJ4nV) | 3:02 |
 
-Snapshot ID: `MCxlYzU0MzNmZjM0N2VlMDY2ZDJlM2I1ZmFhNmY3ZTJkYzg0OTZjMjgz`
+Snapshot ID: `MCxhNGU4NzI1NWZiMWEzNDJhYjUyN2QxNThhNWFiNmNmOWYyZjhkODEx`

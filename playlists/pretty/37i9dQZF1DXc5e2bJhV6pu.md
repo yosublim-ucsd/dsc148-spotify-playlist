@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5e2bJhV6pu.md) - [plain]
 
 > Shake up your wake up with a selection of feel good songs that will get you bouncing out the door.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,243,267 likes - 80 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,243,339 likes - 80 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5e2bJhV6pu.md) - [plain]
 | 79 | [Got Me Started](https://open.spotify.com/track/31MNHKE86sEXzIglbGQ6mu) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:18 |
 | 80 | [Walking On Sunshine](https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0) | [Katrina & The Waves](https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3) | [Katrina & The Waves](https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7) | 3:58 |
 
-Snapshot ID: `MCxkZmU5YWNhMWUyYjY0MWNhMTg0ZmVhODc4MGRlMjBmMDg1NWZjNzRh`
+Snapshot ID: `MCxmODE4NmUwY2RlYzYwNzZiYmRlZjhmMjM0ZDI0YTU0ZGYyMzJlMGYy`

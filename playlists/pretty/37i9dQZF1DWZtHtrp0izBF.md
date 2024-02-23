@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZtHtrp0izBF.md) - [plain]
 
 > 1\-2\-3, 5\-6\-7, now you're dancing salsa!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,236 likes - 50 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,333 likes - 50 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZtHtrp0izBF.md) - [plain]
 | 49 | [Un Montón de Estrellas](https://open.spotify.com/track/2Xg030uYjEA9FNiSKbD3R8) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Viceversa](https://open.spotify.com/album/6PWySeDAcKZihnTJBlf8hX) | 4:33 |
 | 50 | [Ojos Chinos](https://open.spotify.com/track/4zOZQdgs7nSjMkqB7keSM5) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [20th Anniversary](https://open.spotify.com/album/3pYgBhT551TztQNYbXqB26) | 4:21 |
 
-Snapshot ID: `MCwzMGIzNjU5MDMwZjBkOTg0MTllNmFhNjM1MjM5NjE0MzI0MjViYTU4`
+Snapshot ID: `MCw5NGE3YjVmMTA5N2JkYTgyOTViNDBkNTkyZGIyZjY5OTJiMGY5MGYw`

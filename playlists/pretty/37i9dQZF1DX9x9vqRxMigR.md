@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9x9vqRxMigR.md) - [plain]
 
 > Learn more at <a href="https://folk.org/programs/conference/">folk.org</a>\.  Cover: Rainbow Girls
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,643 likes - 140 songs - 9 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,658 likes - 140 songs - 9 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9x9vqRxMigR.md) - [plain]
 | 139 | [Kopanitsa](https://open.spotify.com/track/59QyO26yXFn58nXyLWbpvX) | [Polky](https://open.spotify.com/artist/4Y7Hjp3Yft1NplrshNVAHV) | [Songs from Home](https://open.spotify.com/album/1MTtVcR6x4KrYq0bBa26tw) | 4:00 |
 | 140 | [Drinking alone in the moonlight](https://open.spotify.com/track/6CBk3UPdXMpo5snlZJGP4n) | [Patrick stefan](https://open.spotify.com/artist/6QWpVEO0TxukQyObXQndsX) | [Wayfare](https://open.spotify.com/album/3F0JLVYkAAYfEixe4YYQV4) | 4:10 |
 
-Snapshot ID: `MCw1YmNiNjVjYzY2NjNiYzAzMmY1YmUwOWFmMDA3NTI3ZGRjNTUzNWVi`
+Snapshot ID: `MCxjNjBmY2M2NTI1NTA3Y2NiM2NjYjMxNTFjNDQwMTA0YWQzZDZiYzRm`

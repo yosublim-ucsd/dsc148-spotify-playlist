@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2I5NIp.md) - [plain]
 
 > This is Shemekia Copeland\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,591 likes - 46 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,593 likes - 46 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2I5NIp.md) - [plain]
 | 45 | [Jesus Just Left Chicago](https://open.spotify.com/track/1n7uAd2wldanWyRfBTPam0) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Outskirts of Love](https://open.spotify.com/album/2Bl6FKUOQbzuFfvR1qfT9e) | 4:35 |
 | 46 | [The Fool You're Looking For](https://open.spotify.com/track/6OSTcwMHZyPJ8S62nXajYw) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Wicked](https://open.spotify.com/album/2kv1nahejxNevwCYdgZ8AQ) | 5:08 |
 
-Snapshot ID: `Mjg0NzUyOTAsMDAwMDAwMDAzM2JiY2Q0NWRkYjdmZDhjM2U2NTk3MmVlZjFmN2E5MA==`
+Snapshot ID: `Mjg0NzcwNzUsMDAwMDAwMDAxNTI1OGVhMDE4YzFhMmZiNjJhNzkwYjg0ZDBkODg1ZQ==`

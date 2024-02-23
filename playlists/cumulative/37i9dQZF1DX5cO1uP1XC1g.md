@@ -4,7 +4,7 @@
 
 > The biggest Arabic hits all in one place\. Cover:  Tamer Ashour
 
-359 songs - 21 hr 38 min
+360 songs - 21 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Ashan Al Eshrah \(6\)](https://open.spotify.com/track/0Qw2eL45SZkglxhnb1R0m9) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Kol El Khata](https://open.spotify.com/album/4nKtbyAZFU6hu8lZAztO7c) | 4:37 | 2022-10-04 | 2023-06-02 |
 | [Asheq Majnoon](https://open.spotify.com/track/5orvt7dTDRMeAnP0xw5GEV) | [Mahmoud Al Turky](https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7) | [Asheq Majnoon](https://open.spotify.com/album/0NZnWtguxnWFzjx3GTJadc) | 3:41 | 2023-05-24 |  |
 | [Ba'ad Gheyabo](https://open.spotify.com/track/2pO1mQeV6Sd9Y20HYVJYYr) | [Ahmed Batshan](https://open.spotify.com/artist/3mw4hDoLzTBOieeN9XZBIz) | [Ba'ad Gheyabo](https://open.spotify.com/album/0OpsjTdA2truxxmYDDWR24) | 4:02 | 2022-01-24 | 2022-12-27 |
-| [Ba3tzrlek](https://open.spotify.com/track/4pnApCJBljUP7YQdCxGEbI) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Ba3tzrlek](https://open.spotify.com/album/4JDSRQMIQdhad4iatxB5bU) | 4:09 | 2024-01-27 |  |
+| [Ba3tzrlek](https://open.spotify.com/track/4pnApCJBljUP7YQdCxGEbI) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Ba3tzrlek](https://open.spotify.com/album/4JDSRQMIQdhad4iatxB5bU) | 4:09 | 2024-01-27 | 2024-02-23 |
 | [Baad El Kalam](https://open.spotify.com/track/0Oz1kaka4qeWhjntOZTRFv) | [Ahmed Kamel](https://open.spotify.com/artist/41g2nSmocqVLuYnmndxefu) | [Baad Montasaf Al Leil](https://open.spotify.com/album/1Ssez3FFutWFtAvENJ3WDH) | 3:52 | 2023-02-21 | 2023-08-02 |
 | [Baad Shu](https://open.spotify.com/track/051Ijb9ebRNDpKEDBakTyU) | [A5rass \- الاخرس](https://open.spotify.com/artist/5xnWZW2Jslqu07aO3gTZA4) | [Baad Shu](https://open.spotify.com/album/5ydfkQUK4cyeGDJ77oO5sH) | 3:21 | 2022-02-07 | 2022-11-02 |
 | [Baby Baby](https://open.spotify.com/track/0xgP0lR6VpAl4ruqu6bE45) | [Mok Saib](https://open.spotify.com/artist/6jcvupTBm6vk5SMEEVpvSW) | [Baby Baby](https://open.spotify.com/album/59ilTq126YceY3mWtoTcbg) | 3:30 | 2021-12-12 | 2022-07-29 |
@@ -237,6 +237,7 @@
 | [Reyah El Hayah](https://open.spotify.com/track/1ZuHXbFUhAb3SHOn4TzQbW) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Reyah El Hayah](https://open.spotify.com/album/0pyY1M7TsYkpXll7BpjI4i) | 3:49 | 2023-08-16 |  |
 | [Sabok Fel Beit](https://open.spotify.com/track/31VMiaHcvuaO3Hz2bWb0Qw) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Sabok Fel Beit](https://open.spotify.com/album/3EroB4W63EzsReYPUq3W5r) | 5:10 | 2023-05-11 | 2023-06-15 |
 | [Sabra](https://open.spotify.com/track/0iqRTNFvfLZUjdkIBaJkVS) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Sabra](https://open.spotify.com/album/7DTt8yVftsh8Gi0opaE74z) | 3:43 | 2022-02-07 | 2022-12-27 |
+| [Sabran](https://open.spotify.com/track/682Rtn75JGXSwDR8h0Fqae) | [AL SHAMI](https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k) | [Sabran](https://open.spotify.com/album/17b30vKiI4h0MzAokaF83X) | 3:22 | 2024-02-22 |  |
 | [Sac](https://open.spotify.com/track/63DDC3J4z88hNMvcDFzQnH) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Colors](https://open.spotify.com/album/0laELllYHrj2Zbw4It01B9) | 3:16 | 2022-02-07 | 2022-11-02 |
 | [Safe Salina \(Moroccan Remix\)](https://open.spotify.com/track/2nf1owFJaeOw5YubEW52ga) | [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h), [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Safe Salina: The Remixes](https://open.spotify.com/album/3Q5t6TeQS8sHB2Y7ySHRVx) | 3:02 | 2021-12-12 | 2022-07-29 |
 | [Sah Sah](https://open.spotify.com/track/2O6kwqT9Hb38PhHwbCNfOh) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Sah Sah](https://open.spotify.com/album/1vMwkK7I0UWAyTHngnXvuU) | 2:51 | 2022-07-07 | 2023-06-02 |

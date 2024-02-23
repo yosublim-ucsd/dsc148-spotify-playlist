@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 
 > music to get fly to ft Zendaya
 
-[Spotify](https://open.spotify.com/user/spotify) - 525,885 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 525,881 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 | 99 | [Crystalfilm](https://open.spotify.com/track/5bBrbeCtAntjU0SOUXnIC8) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Ritual Union](https://open.spotify.com/album/1BQVdofe7ROnSoaiC9418p) | 4:49 |
 | 100 | [nice](https://open.spotify.com/track/37EATWuDC8BUrJ2Kt2JE5Q) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [nice](https://open.spotify.com/album/6AOKgHrEw5Z37EFrhRHVYV) | 1:30 |
 
-Snapshot ID: `MCw4YmNmYWYzMDA5ZmYzYTlkNmYyNWE5ZDMwYzhhYjgyNmRhYzYzNWE1`
+Snapshot ID: `MCw0MmJkODUxODJlYWVjYWFkMzFmMTA3NDQxM2I4NWRkYzgzZGZlY2U5`

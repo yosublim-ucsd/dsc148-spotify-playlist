@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 
 > Um pouco de reggae pra acompanhar a brisa do mar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,718 likes - 60 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,845 likes - 60 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 | 59 | [Se Joga](https://open.spotify.com/track/5lWp2PF9f1GDtkjVNqF8XS) | [Noel Ferrari](https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux) | [Se Joga](https://open.spotify.com/album/38I1Q4e9SGC3n5jEKvpVzG) | 2:53 |
 | 60 | [O Amor Venceu](https://open.spotify.com/track/1OJs9U8EpYxyTtawy8mRRg) | [Luc DubWise](https://open.spotify.com/artist/0NXMeMdtkYLVWlvL9mPIGU) | [O Amor Venceu](https://open.spotify.com/album/3x1JYZZhhtiGBt0knJ0mfl) | 3:07 |
 
-Snapshot ID: `MCxhMWRlMmU5MGZiNzkyYTVlNDA5ZjE1Y2ViNjY4YzE3MGZlOWMyZWVi`
+Snapshot ID: `MCw1MTcxOGU4OWQ4MWQ0YjNkNmNjYTc3YThkZDZhMDQ1Nzc3NmYwMjJi`

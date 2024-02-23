@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 
 > Tuyo es el reino, Tuyo el poder y la gloria por siempre, Señor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,571 likes - 100 songs - 9 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,675 likes - 100 songs - 9 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 | 99 | [Hasta el Final](https://open.spotify.com/track/3ey3xjwqJ39M1foKnz4pbN) | [Estación Cero](https://open.spotify.com/artist/0ICDrTxXsdPG2nopFWSRyI) | [Nunca para de Llover](https://open.spotify.com/album/6lkqhYy0U9U53vpPhjvpKk) | 3:42 |
 | 100 | [El Dios Que Cambia Nombre](https://open.spotify.com/track/6jxF4JXJ2hK8GEkRHqcj8b) | [Héctor Delgado](https://open.spotify.com/artist/1cH1z49SP3Ul0DxaRLWYVy), [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF) | [El Dios Que Cambia Nombre](https://open.spotify.com/album/5NUIrHDIDuMr6Xsob6L5UO) | 3:39 |
 
-Snapshot ID: `MCxlNzk2MjM5NWIwNjZiMmJjYjMxNmVmYjQyYzZhZDFjNTUxNjZkMDI3`
+Snapshot ID: `MCwyMDZmYTE3MDQxMWE5ZmE1NDMzZjQyNmM3YTNmMTg1YmViNzc3ZWE5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX949uWWpmTjT.md) - [plain]
 
 > A soft and slow soundtrack to play in the background to all your activities.
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,723 likes - 800 songs - 2 day 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,877 likes - 800 songs - 2 day 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -809,4 +809,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX949uWWpmTjT.md) - [plain]
 | 799 | [Background Is Wanting](https://open.spotify.com/track/76gvBI9sE1EgEK3s2ayQY5) | [Astoria Three](https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri) | [Background Is Wanting](https://open.spotify.com/album/1y8Q0XVkz11wfOUifSJynK) | 3:12 |
 | 800 | [Through the Fog](https://open.spotify.com/track/6IpDhWlat8ugH1ApRcrgq1) | [Matt Marantz Quartet](https://open.spotify.com/artist/0UaQ3qnMEuBWsPnbKWJo8V) | [In the Distance](https://open.spotify.com/album/7jWHmfsFMsxlvkgtS1WxNs) | 3:49 |
 
-Snapshot ID: `MCxhMTFkOTk5NWNlODA0NTgyYWVlMTgzM2FlMTAyZmQzNWFiZjg4YzZj`
+Snapshot ID: `MCxjMmExZjU5NmJkNmI2NmE0OTcwYmVlOGU1ZDgwYzg4ZjI5NDE4ZDRl`

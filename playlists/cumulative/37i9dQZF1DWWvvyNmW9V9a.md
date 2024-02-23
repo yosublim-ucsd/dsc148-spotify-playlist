@@ -4,7 +4,7 @@
 
 > tfw only one of you reads the dress code // cover: Timothée Chalamet and Zendaya
 
-1,298 songs - 2 day 20 hr 0 min
+1,299 songs - 2 day 20 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [All For Us](https://open.spotify.com/track/76YSWx6L6FNsuaP6GWBb8P) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Imagination & the Misfit Kid](https://open.spotify.com/album/0zjbNtfnMLmt2q50E3wDx8) | 3:11 | 2024-02-16 |  |
 | [All For Us \- from the HBO Original Series Euphoria](https://open.spotify.com/track/10hMM5nsZQf66ldBlgWBfG) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [All For Us \(from the HBO Original Series Euphoria\)](https://open.spotify.com/album/6x4UQQ7TVOja89iXV047Zo) | 3:12 | 2022-01-11 | 2023-04-29 |
 | [All I Want](https://open.spotify.com/track/1v6svH1Fyx9C1nIt1mA2DT) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [High School Musical: The Musical: The Series \(Original Soundtrack\)](https://open.spotify.com/album/4GgojLZOPRu8MdUVmjNRSI) | 2:57 | 2022-07-29 | 2022-10-29 |
+| [All In My Head \(Flex\) \(feat\. Fetty Wap\)](https://open.spotify.com/track/7nD9nN3jord9wWcfW3Gkcm) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt), [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [7/27 \(Deluxe\)](https://open.spotify.com/album/0pF0oyuPNdOObniB1Ng0kW) | 3:30 | 2024-02-22 |  |
 | [All My Life \(Stray Kids Remix\)](https://open.spotify.com/track/5OHNBi6tsE0acRA9Kt4ybC) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [All My Life \(Remixes\) \(feat\. Burna Boy\)](https://open.spotify.com/album/11OlFW8YpwZTlhAdc0NCV7) | 3:37 | 2023-10-16 | 2023-12-02 |
 | [All Night \(feat\. Saweetie\)](https://open.spotify.com/track/1hkeifGMiDQjXlvAsIoDaa) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [All Night \(feat\. Saweetie\)](https://open.spotify.com/album/3m4sanPtJZrKkYMxSbjRRP) | 3:17 | 2024-01-24 | 2024-02-10 |
 | [All Of The Girls You Loved Before](https://open.spotify.com/track/4P9Q0GojKVXpRTJCaL3kyy) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [All Of The Girls You Loved Before](https://open.spotify.com/album/1Uauz6ql2dIPvIOH4JiuhD) | 3:41 | 2023-03-17 | 2023-05-27 |

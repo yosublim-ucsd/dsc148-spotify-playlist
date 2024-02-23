@@ -4,7 +4,7 @@
 
 > ¡Trópico y vanguardia! Deja que la brisa impulse tu espíritu.
 
-89 songs - 5 hr 25 min
+90 songs - 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,8 @@
 | [Respiro](https://open.spotify.com/track/42op2wd3o7SZ1MUImRkbkh) | [Paraísos](https://open.spotify.com/artist/4UWT6RWeTPk7hN7OihScMM), [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0) | [Respiro](https://open.spotify.com/album/0obtRY4p00WwIHafC8MTlF) | 3:15 | 2023-04-28 |  |
 | [Salvación](https://open.spotify.com/track/7gzQzrH2ClI6WZaHLD5emF) | [Los Miticos Del Ritmo](https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu), [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Salvación](https://open.spotify.com/album/3fWUpz7YriP4W7l38z0pXE) | 2:47 | 2023-04-28 |  |
 | [Se Acabó](https://open.spotify.com/track/5VCpCHyZO5LzLGgN4399D4) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Aire](https://open.spotify.com/album/3ubY132O5YHYoxn65Vh72T) | 3:41 | 2023-04-28 |  |
-| [Soy la Fuerza](https://open.spotify.com/track/1Tt53jSkqWtGzmn0qJBwjf) | [Acid Coco](https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW) | [Camino al Mar](https://open.spotify.com/album/1glNAkJudlAf1dNQUsr18G) | 3:35 | 2023-04-28 |  |
+| [Soy la Fuerza](https://open.spotify.com/track/1Tt53jSkqWtGzmn0qJBwjf) | [Acid Coco](https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW) | [Camino al Mar](https://open.spotify.com/album/1glNAkJudlAf1dNQUsr18G) | 3:35 | 2023-04-28 | 2024-02-23 |
+| [Soy la Fuerza](https://open.spotify.com/track/1dLUGmTp8Fy9Sl0p2Tn7T1) | [Acid Coco](https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW) | [Camino al Mar](https://open.spotify.com/album/20jmEAKKemowX8dH6dRNXt) | 3:35 | 2023-09-22 |  |
 | [Sun a Shine](https://open.spotify.com/track/5pj9GnIvHNfoTevSH8z8Uv) | [Elkin Robinson](https://open.spotify.com/artist/1MS4MMgPaQ0WyM0u0Uj3EO) | [Sun a Shine](https://open.spotify.com/album/1ZAfskHXkdsJUDS2qYG0X3) | 2:52 | 2023-04-28 |  |
 | [Sí](https://open.spotify.com/track/4hgcGCJZPv0SPrbidGwpfI) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Sí](https://open.spotify.com/album/7knVEKrQWPs7BIHXJwJDsJ) | 2:38 | 2023-04-28 |  |
 | [Te Quiero Olvidar](https://open.spotify.com/track/2u1UkcNp5l0NgTGjfl7fmZ) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [CARISMA](https://open.spotify.com/album/360aJ4E4087KXU6ESyvjL3) | 3:22 | 2023-09-22 |  |

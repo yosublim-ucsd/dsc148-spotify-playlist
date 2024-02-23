@@ -1,12 +1,12 @@
 {
   "description": "sonidos en constante mutaci\u00f3n \ud83e\udd8b\ud83c\udf44\u2728 feat. LUNA KI",
-  "num_followers": 124852,
+  "num_followers": 124864,
   "original_name": "helium",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYmQ4MTdmZTI3NmE3NDdmYzk2MDJlOWFmMmFmZWRjYWIxYzdhYTlm",
+  "snapshot_id": "MCw5ZTBhY2M3MTFlYWJhZjhlZGZiY2EzYjVkYTQzYWJkMDY5ODk1ZTBi",
   "tracks": [
     {
       "added_at": "2024-02-15 23:01:00",
@@ -47,6 +47,22 @@
     {
       "added_at": "2024-02-15 23:01:00",
       "album": {
+        "name": "Enero",
+        "url": "https://open.spotify.com/album/5oROxnichPJCzMSnYIVU0P"
+      },
+      "artists": [
+        {
+          "name": "LUNA KI",
+          "url": "https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M"
+        }
+      ],
+      "duration_ms": 150096,
+      "name": "Enero",
+      "url": "https://open.spotify.com/track/6OX7tZGASte4ZrPQXNqqJk"
+    },
+    {
+      "added_at": "2024-02-15 23:01:00",
+      "album": {
         "name": "Cuatro Bodas",
         "url": "https://open.spotify.com/album/0CghLUe2fYF7okP7u7wjhi"
       },
@@ -59,6 +75,22 @@
       "duration_ms": 166431,
       "name": "Cuatro Bodas",
       "url": "https://open.spotify.com/track/5CLsVEGnKJA23w5x7CQIP1"
+    },
+    {
+      "added_at": "2024-02-15 23:01:00",
+      "album": {
+        "name": "Que La Detengan",
+        "url": "https://open.spotify.com/album/4Ojro0SE46qoa50JqvpOj8"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Mart\u00edn",
+          "url": "https://open.spotify.com/artist/7oWRB45H5Usj3JVKeCwsus"
+        }
+      ],
+      "duration_ms": 143265,
+      "name": "Que La Detengan",
+      "url": "https://open.spotify.com/track/26SAg6zRb3JpoyEXmcXxe0"
     },
     {
       "added_at": "2024-02-15 23:01:00",
@@ -79,18 +111,46 @@
     {
       "added_at": "2024-02-15 23:01:00",
       "album": {
-        "name": "Que La Detengan",
-        "url": "https://open.spotify.com/album/4Ojro0SE46qoa50JqvpOj8"
+        "name": "xq tan wapa t\u00fa?",
+        "url": "https://open.spotify.com/album/53pV095WjNMFVkKhAzrx10"
       },
       "artists": [
         {
-          "name": "Sof\u00eda Mart\u00edn",
-          "url": "https://open.spotify.com/artist/7oWRB45H5Usj3JVKeCwsus"
+          "name": "Delgao",
+          "url": "https://open.spotify.com/artist/2V10Oq2sAheIVDSeW9QyFN"
+        },
+        {
+          "name": "Mar\u00eda Escarmiento",
+          "url": "https://open.spotify.com/artist/7sRtI3bMrrgSFkNs2jFHrl"
+        },
+        {
+          "name": "KICKBOMBO",
+          "url": "https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh"
         }
       ],
-      "duration_ms": 143265,
-      "name": "Que La Detengan",
-      "url": "https://open.spotify.com/track/26SAg6zRb3JpoyEXmcXxe0"
+      "duration_ms": 182400,
+      "name": "xq tan wapa t\u00fa?",
+      "url": "https://open.spotify.com/track/7co3tea8D44Fg7SShf1JXN"
+    },
+    {
+      "added_at": "2024-02-15 23:01:00",
+      "album": {
+        "name": "MI F\u00c1BRICA DE BAILE",
+        "url": "https://open.spotify.com/album/3C5jaDLetXDjrsTrqu9Uvt"
+      },
+      "artists": [
+        {
+          "name": "Espineli",
+          "url": "https://open.spotify.com/artist/74l577inT1nnMPPMajMv2f"
+        },
+        {
+          "name": "Joe Crep\u00fasculo",
+          "url": "https://open.spotify.com/artist/34SgyDEDqVlahIQRDttgCn"
+        }
+      ],
+      "duration_ms": 234500,
+      "name": "MI F\u00c1BRICA DE BAILE",
+      "url": "https://open.spotify.com/track/7mQEDQr41wWu3S4TErWfgm"
     },
     {
       "added_at": "2024-02-15 23:01:00",
@@ -123,50 +183,6 @@
     {
       "added_at": "2024-02-15 23:01:00",
       "album": {
-        "name": "MI F\u00c1BRICA DE BAILE",
-        "url": "https://open.spotify.com/album/3C5jaDLetXDjrsTrqu9Uvt"
-      },
-      "artists": [
-        {
-          "name": "Espineli",
-          "url": "https://open.spotify.com/artist/74l577inT1nnMPPMajMv2f"
-        },
-        {
-          "name": "Joe Crep\u00fasculo",
-          "url": "https://open.spotify.com/artist/34SgyDEDqVlahIQRDttgCn"
-        }
-      ],
-      "duration_ms": 234500,
-      "name": "MI F\u00c1BRICA DE BAILE",
-      "url": "https://open.spotify.com/track/7mQEDQr41wWu3S4TErWfgm"
-    },
-    {
-      "added_at": "2024-02-15 23:01:00",
-      "album": {
-        "name": "xq tan wapa t\u00fa?",
-        "url": "https://open.spotify.com/album/53pV095WjNMFVkKhAzrx10"
-      },
-      "artists": [
-        {
-          "name": "Delgao",
-          "url": "https://open.spotify.com/artist/2V10Oq2sAheIVDSeW9QyFN"
-        },
-        {
-          "name": "Mar\u00eda Escarmiento",
-          "url": "https://open.spotify.com/artist/7sRtI3bMrrgSFkNs2jFHrl"
-        },
-        {
-          "name": "KICKBOMBO",
-          "url": "https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "xq tan wapa t\u00fa?",
-      "url": "https://open.spotify.com/track/7co3tea8D44Fg7SShf1JXN"
-    },
-    {
-      "added_at": "2024-02-15 23:01:00",
-      "album": {
         "name": "Pray for Poshlaya Molly",
         "url": "https://open.spotify.com/album/28qFsc75c91092ew2udx8I"
       },
@@ -179,6 +195,90 @@
       "duration_ms": 152753,
       "name": "Pray for Poshlaya Molly",
       "url": "https://open.spotify.com/track/2hiVTcHbcpPgOPOvoAJ5qB"
+    },
+    {
+      "added_at": "2024-02-15 23:01:00",
+      "album": {
+        "name": "Cucaracha Sexy",
+        "url": "https://open.spotify.com/album/60W53j5U7KReeDiqcIBWfn"
+      },
+      "artists": [
+        {
+          "name": "LA \u00c9LITE",
+          "url": "https://open.spotify.com/artist/0sISeGVb8SMEQGbI9DBfov"
+        },
+        {
+          "name": "Mda",
+          "url": "https://open.spotify.com/artist/6goQbtqjPhPns8RVRXTyp7"
+        }
+      ],
+      "duration_ms": 135464,
+      "name": "Cucaracha Sexy",
+      "url": "https://open.spotify.com/track/1Qxyhnu7WxyhtgLjbzvc5t"
+    },
+    {
+      "added_at": "2024-02-15 23:01:00",
+      "album": {
+        "name": "Traketera",
+        "url": "https://open.spotify.com/album/7bh0rEJbextPzbTMFDSHmL"
+      },
+      "artists": [
+        {
+          "name": "Pau By Chance",
+          "url": "https://open.spotify.com/artist/3Hd7UpP0eSOCpT4FW52n9I"
+        },
+        {
+          "name": "Octopvs To The Party",
+          "url": "https://open.spotify.com/artist/2KhAknita2n0dejlwfhkd8"
+        }
+      ],
+      "duration_ms": 184864,
+      "name": "Traketera",
+      "url": "https://open.spotify.com/track/66Du2AJyRfGk6DUquh65xU"
+    },
+    {
+      "added_at": "2024-02-15 23:01:00",
+      "album": {
+        "name": "Lindo M \"EL INDOMABLE\"",
+        "url": "https://open.spotify.com/album/03hQk44wWpuROY57wybIDY"
+      },
+      "artists": [
+        {
+          "name": "Mda",
+          "url": "https://open.spotify.com/artist/6goQbtqjPhPns8RVRXTyp7"
+        },
+        {
+          "name": "Iagh0st",
+          "url": "https://open.spotify.com/artist/1p1CC4qyRNYCzwp1GIdjWp"
+        }
+      ],
+      "duration_ms": 170531,
+      "name": "Libre Robot",
+      "url": "https://open.spotify.com/track/0wT2f17tmznhOEPNjeiViX"
+    },
+    {
+      "added_at": "2024-02-15 23:01:00",
+      "album": {
+        "name": "Remixxxtape",
+        "url": "https://open.spotify.com/album/4gtdjlNpjhMzxQBi1qybcQ"
+      },
+      "artists": [
+        {
+          "name": "Soto Asa",
+          "url": "https://open.spotify.com/artist/6gyhsZUy2fzzWZBRVPmOw4"
+        },
+        {
+          "name": "rjmussic",
+          "url": "https://open.spotify.com/artist/3U29U4vS0c2LtFLMufpJ9j"
+        },
+        {
+          "name": "La Zowi",
+          "url": "https://open.spotify.com/artist/1jB62pOe5WpGiHOBDtKBBG"
+        }
+      ],
+      "duration_ms": 145560,
+      "name": "Smartphone (Remix)",
+      "url": "https://open.spotify.com/track/2VY3mhlpizxl8lceX6WPjp"
     },
     {
       "added_at": "2024-02-15 23:01:00",
@@ -223,134 +323,18 @@
     {
       "added_at": "2024-02-15 23:01:00",
       "album": {
-        "name": "Traketera",
-        "url": "https://open.spotify.com/album/7bh0rEJbextPzbTMFDSHmL"
+        "name": "N\u00e1ufrago",
+        "url": "https://open.spotify.com/album/2wiPT1JDPm4HiyvB9XImdd"
       },
       "artists": [
         {
-          "name": "Pau By Chance",
-          "url": "https://open.spotify.com/artist/3Hd7UpP0eSOCpT4FW52n9I"
-        },
-        {
-          "name": "Octopvs To The Party",
-          "url": "https://open.spotify.com/artist/2KhAknita2n0dejlwfhkd8"
+          "name": "Ambik",
+          "url": "https://open.spotify.com/artist/4QIM495B5wWD9B24Fsi4aR"
         }
       ],
-      "duration_ms": 184864,
-      "name": "Traketera",
-      "url": "https://open.spotify.com/track/66Du2AJyRfGk6DUquh65xU"
-    },
-    {
-      "added_at": "2024-02-15 23:01:00",
-      "album": {
-        "name": "Enero",
-        "url": "https://open.spotify.com/album/5oROxnichPJCzMSnYIVU0P"
-      },
-      "artists": [
-        {
-          "name": "LUNA KI",
-          "url": "https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M"
-        }
-      ],
-      "duration_ms": 150096,
-      "name": "Enero",
-      "url": "https://open.spotify.com/track/6OX7tZGASte4ZrPQXNqqJk"
-    },
-    {
-      "added_at": "2024-02-15 23:01:00",
-      "album": {
-        "name": "Cucaracha Sexy",
-        "url": "https://open.spotify.com/album/60W53j5U7KReeDiqcIBWfn"
-      },
-      "artists": [
-        {
-          "name": "LA \u00c9LITE",
-          "url": "https://open.spotify.com/artist/0sISeGVb8SMEQGbI9DBfov"
-        },
-        {
-          "name": "Mda",
-          "url": "https://open.spotify.com/artist/6goQbtqjPhPns8RVRXTyp7"
-        }
-      ],
-      "duration_ms": 135464,
-      "name": "Cucaracha Sexy",
-      "url": "https://open.spotify.com/track/1Qxyhnu7WxyhtgLjbzvc5t"
-    },
-    {
-      "added_at": "2024-02-15 23:01:00",
-      "album": {
-        "name": "Checkpoint",
-        "url": "https://open.spotify.com/album/6Zwy3c6bbocheA4AZMtQId"
-      },
-      "artists": [
-        {
-          "name": "Traw",
-          "url": "https://open.spotify.com/artist/0p2hyflfP93qeIOd7Rx1gj"
-        }
-      ],
-      "duration_ms": 107168,
-      "name": "Checkpoint",
-      "url": "https://open.spotify.com/track/4iSfkr4D8N2TiDWfIrehEK"
-    },
-    {
-      "added_at": "2024-02-15 23:01:00",
-      "album": {
-        "name": "Lindo M \"EL INDOMABLE\"",
-        "url": "https://open.spotify.com/album/03hQk44wWpuROY57wybIDY"
-      },
-      "artists": [
-        {
-          "name": "Mda",
-          "url": "https://open.spotify.com/artist/6goQbtqjPhPns8RVRXTyp7"
-        },
-        {
-          "name": "Iagh0st",
-          "url": "https://open.spotify.com/artist/1p1CC4qyRNYCzwp1GIdjWp"
-        }
-      ],
-      "duration_ms": 170531,
-      "name": "Libre Robot",
-      "url": "https://open.spotify.com/track/0wT2f17tmznhOEPNjeiViX"
-    },
-    {
-      "added_at": "2024-02-15 23:01:00",
-      "album": {
-        "name": "hannah montana",
-        "url": "https://open.spotify.com/album/3D0cC6o8loxckFJOX9ytkv"
-      },
-      "artists": [
-        {
-          "name": "keko",
-          "url": "https://open.spotify.com/artist/096WT4GVoi1my7nHuZVei5"
-        }
-      ],
-      "duration_ms": 132672,
-      "name": "hannah montana",
-      "url": "https://open.spotify.com/track/0qYvzxghGnQjaLmo64zxrR"
-    },
-    {
-      "added_at": "2024-02-15 23:01:00",
-      "album": {
-        "name": "Remixxxtape",
-        "url": "https://open.spotify.com/album/4gtdjlNpjhMzxQBi1qybcQ"
-      },
-      "artists": [
-        {
-          "name": "Soto Asa",
-          "url": "https://open.spotify.com/artist/6gyhsZUy2fzzWZBRVPmOw4"
-        },
-        {
-          "name": "rjmussic",
-          "url": "https://open.spotify.com/artist/3U29U4vS0c2LtFLMufpJ9j"
-        },
-        {
-          "name": "La Zowi",
-          "url": "https://open.spotify.com/artist/1jB62pOe5WpGiHOBDtKBBG"
-        }
-      ],
-      "duration_ms": 145560,
-      "name": "Smartphone (Remix)",
-      "url": "https://open.spotify.com/track/2VY3mhlpizxl8lceX6WPjp"
+      "duration_ms": 170000,
+      "name": "N\u00e1ufrago",
+      "url": "https://open.spotify.com/track/7LFFbMqQwU87wo0bseY1zd"
     },
     {
       "added_at": "2024-02-15 23:01:00",
@@ -375,22 +359,6 @@
       "duration_ms": 153673,
       "name": "Al Gimnasio en Tacones",
       "url": "https://open.spotify.com/track/0iuELyy8xVOcTrkjOik3J3"
-    },
-    {
-      "added_at": "2024-02-15 23:01:00",
-      "album": {
-        "name": "N\u00e1ufrago",
-        "url": "https://open.spotify.com/album/2wiPT1JDPm4HiyvB9XImdd"
-      },
-      "artists": [
-        {
-          "name": "Ambik",
-          "url": "https://open.spotify.com/artist/4QIM495B5wWD9B24Fsi4aR"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "N\u00e1ufrago",
-      "url": "https://open.spotify.com/track/7LFFbMqQwU87wo0bseY1zd"
     },
     {
       "added_at": "2024-02-15 23:01:00",
@@ -571,6 +539,22 @@
     {
       "added_at": "2024-02-15 23:01:00",
       "album": {
+        "name": "Chupetones",
+        "url": "https://open.spotify.com/album/7qOzDSLLeR5imM68K69hTw"
+      },
+      "artists": [
+        {
+          "name": "Meth Math",
+          "url": "https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T"
+        }
+      ],
+      "duration_ms": 161500,
+      "name": "Cyberia",
+      "url": "https://open.spotify.com/track/0dP30l5UIOLDaHiIpVm9mM"
+    },
+    {
+      "added_at": "2024-02-15 23:01:00",
+      "album": {
         "name": "q*",
         "url": "https://open.spotify.com/album/3CC1TrFsBYU7aqEx0KmwkP"
       },
@@ -631,22 +615,6 @@
       "duration_ms": 106666,
       "name": "guardian angel",
       "url": "https://open.spotify.com/track/7FvUAQmTuhOOYaDjuL0jdy"
-    },
-    {
-      "added_at": "2024-02-15 23:01:00",
-      "album": {
-        "name": "Chupetones",
-        "url": "https://open.spotify.com/album/7qOzDSLLeR5imM68K69hTw"
-      },
-      "artists": [
-        {
-          "name": "Meth Math",
-          "url": "https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T"
-        }
-      ],
-      "duration_ms": 161500,
-      "name": "Cyberia",
-      "url": "https://open.spotify.com/track/0dP30l5UIOLDaHiIpVm9mM"
     },
     {
       "added_at": "2024-02-15 23:01:00",
@@ -759,6 +727,22 @@
     {
       "added_at": "2024-02-15 23:01:00",
       "album": {
+        "name": "Chupetones",
+        "url": "https://open.spotify.com/album/7qOzDSLLeR5imM68K69hTw"
+      },
+      "artists": [
+        {
+          "name": "Meth Math",
+          "url": "https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T"
+        }
+      ],
+      "duration_ms": 151000,
+      "name": "Mantis",
+      "url": "https://open.spotify.com/track/7hWuZeWZjSclI6TO6tcQmN"
+    },
+    {
+      "added_at": "2024-02-15 23:01:00",
+      "album": {
         "name": "gaZzZzZ",
         "url": "https://open.spotify.com/album/6S4A3uQtVBp6JCJ3Jqv0AI"
       },
@@ -843,22 +827,6 @@
       "duration_ms": 167552,
       "name": "TU NOVIO ES SUBNORMAL\u22c6\u2b52\u02da\uff61\u22c6",
       "url": "https://open.spotify.com/track/5HOp1e4VHTbzU017ze1xUX"
-    },
-    {
-      "added_at": "2024-02-15 23:01:00",
-      "album": {
-        "name": "Chupetones",
-        "url": "https://open.spotify.com/album/7qOzDSLLeR5imM68K69hTw"
-      },
-      "artists": [
-        {
-          "name": "Meth Math",
-          "url": "https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T"
-        }
-      ],
-      "duration_ms": 151000,
-      "name": "Mantis",
-      "url": "https://open.spotify.com/track/7hWuZeWZjSclI6TO6tcQmN"
     },
     {
       "added_at": "2024-02-15 23:01:00",
@@ -951,6 +919,22 @@
       "duration_ms": 150857,
       "name": "Cuervo",
       "url": "https://open.spotify.com/track/6WMkvjCMSdAGT0IDotkiTm"
+    },
+    {
+      "added_at": "2024-02-15 23:01:00",
+      "album": {
+        "name": "Checkpoint",
+        "url": "https://open.spotify.com/album/6Zwy3c6bbocheA4AZMtQId"
+      },
+      "artists": [
+        {
+          "name": "Traw",
+          "url": "https://open.spotify.com/artist/0p2hyflfP93qeIOd7Rx1gj"
+        }
+      ],
+      "duration_ms": 107168,
+      "name": "Checkpoint",
+      "url": "https://open.spotify.com/track/4iSfkr4D8N2TiDWfIrehEK"
     },
     {
       "added_at": "2024-02-15 23:01:00",
@@ -1983,6 +1967,22 @@
       "duration_ms": 105100,
       "name": "tamagotchi",
       "url": "https://open.spotify.com/track/72QyKS10NvfMYszzFMYWzj"
+    },
+    {
+      "added_at": "2024-02-15 23:01:00",
+      "album": {
+        "name": "AnKur",
+        "url": "https://open.spotify.com/album/40SX8MUqAxrVtI6XpsgnsW"
+      },
+      "artists": [
+        {
+          "name": "Jaunx",
+          "url": "https://open.spotify.com/artist/4vipzfP6wRvnEAvVaeIt1h"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "AnKur",
+      "url": "https://open.spotify.com/track/7JOarBKVSJ72L5y3hlbi9R"
     }
   ],
   "unique_name": "helium",

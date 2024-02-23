@@ -2,9 +2,9 @@
 
 ### [Douceur Pop](https://open.spotify.com/playlist/37i9dQZF1DX9LNmKG8TiZU)
 
-> Des titres pop, tout en douceur\. Photo : Zaho de Sagazan
+> Des titres pop, tout en douceur\. Photo : Lana Del Rey
 
-140 songs - 7 hr 52 min
+142 songs - 7 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [birthday cake](https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [birthday cake](https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT) | 3:25 | 2022-12-21 | 2023-05-23 |
 | [Black Friday](https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday](https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp) | 3:41 | 2023-09-22 |  |
 | [BLEED](https://open.spotify.com/track/3CJrKExvAP6RCtUR8Cf99P) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [BLEED](https://open.spotify.com/album/783jliO1kkc5vXTrxHqNKk) | 2:51 | 2023-11-09 | 2024-01-19 |
+| [Blue](https://open.spotify.com/track/0UND5lxWicNEyFo0eNbCJ3) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [Blue](https://open.spotify.com/album/0IHMJOuhVv3YyFScmeX6RM) | 3:40 | 2024-02-22 |  |
 | [Borderline](https://open.spotify.com/track/54SmecWdCNXBjAXBuVrSV6) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Borderline](https://open.spotify.com/album/2vFRIrn95QJ37C8E31aAcz) | 3:34 | 2023-01-09 | 2023-12-02 |
 | [Boyfriends](https://open.spotify.com/track/6qj02zSeEJGWZ4c0dn5QzJ) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:14 | 2022-12-21 | 2024-01-26 |
 | [Butterflies \(feat\. AURORA\)](https://open.spotify.com/track/1dWUBCoztAMZcqec1CAE6z) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Butterflies \(feat\. AURORA\)](https://open.spotify.com/album/3399XMtHgSm7F0DClLiSsU) | 2:10 | 2023-03-02 | 2023-11-10 |
@@ -51,7 +52,7 @@
 | [drivers license](https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 4:02 | 2022-12-21 | 2023-07-01 |
 | [Due Vite](https://open.spotify.com/track/5htUUUBlgHZ9fztWTTDEFm) | [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5) | [Due Vite](https://open.spotify.com/album/5rLrnpQAVeBYEw6tH6PUKj) | 3:45 | 2023-04-27 | 2023-11-06 |
 | [Elliot's Song \- From "Euphoria" An HBO Original Series](https://open.spotify.com/track/7JIIY2oDPFkURYMCLJuzhe) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Elliot's Song \(From "Euphoria" An HBO Original Series\)](https://open.spotify.com/album/67WBZwhfjfOQ5gnH8iXsQ8) | 2:30 | 2022-12-21 | 2023-06-03 |
-| [Enough](https://open.spotify.com/track/2TwdK6m9dTg2L8oKhZC7ZD) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Enough](https://open.spotify.com/album/5oa7QL92n6HXfKY1dlz5qu) | 3:00 | 2024-02-15 |  |
+| [Enough](https://open.spotify.com/track/2TwdK6m9dTg2L8oKhZC7ZD) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Enough](https://open.spotify.com/album/5oa7QL92n6HXfKY1dlz5qu) | 3:00 | 2024-02-15 | 2024-02-23 |
 | [Faults](https://open.spotify.com/track/432StTtnmOSsPsoD4asdVo) | [Keenan Te](https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor) | [Faults](https://open.spotify.com/album/5Sd5dlgkHYCTbZ0HTCe1do) | 2:42 | 2024-02-08 |  |
 | [Fingers Crossed](https://open.spotify.com/track/3yMC1KsTwh0ceXdIe4QQAQ) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Fingers Crossed](https://open.spotify.com/album/7i5dqey54xo8F2flVer0yY) | 2:55 | 2022-12-21 | 2023-03-03 |
 | [For My Hand \(feat\. Ed Sheeran\)](https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:39 | 2022-12-21 | 2023-06-03 |
@@ -69,6 +70,7 @@
 | [I don't need you anymore](https://open.spotify.com/track/4jvO2qMj9z3CN1lyyQNnTz) | [Waffle](https://open.spotify.com/artist/5f56SSkVvKsOzkHNSim6u4), [emalyne](https://open.spotify.com/artist/5NFi7q6RW7JXhCS05mQ5h1) | [I don't need you anymore](https://open.spotify.com/album/0IhOGuhSVrtnotXLsXdjuT) | 3:15 | 2023-12-01 | 2024-02-16 |
 | [I Don't Wanna Lose Myself](https://open.spotify.com/track/5qnkypfRNlDzQB9tZgsw8E) | [ANIKK](https://open.spotify.com/artist/2wvznrRx5MZ2qwqRJPYNmN) | [I Don't Wanna Lose Myself](https://open.spotify.com/album/5UqNEcubHPHBYSRC3ZvbL4) | 3:02 | 2024-01-25 |  |
 | [I Hope You Know](https://open.spotify.com/track/7gHVneUdwNT64NMOmoQPbj) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [I Hope You Know](https://open.spotify.com/album/7jWSCcIR5PEUKCIrkePSmo) | 3:19 | 2024-02-02 |  |
+| [I Will Let You Go](https://open.spotify.com/track/1ZKh4L8rWHcKPcUEy00mmm) | [evi](https://open.spotify.com/artist/4ghErCwnofIBeuzwJSCgpH) | [I Will Let You Go](https://open.spotify.com/album/4miWNRekzttUKYDzlxV0cV) | 2:53 | 2024-02-22 |  |
 | [I'm Sorry](https://open.spotify.com/track/4MxVVKHpLRaIAnOqT1pNSV) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [I'm Sorry](https://open.spotify.com/album/69rwGy6j7etGpJUQ2OMH9f) | 3:23 | 2024-01-04 |  |
 | [If That's Alright](https://open.spotify.com/track/1sOHsqg3EeaimEJM72CZa5) | [Dylan Dunlap](https://open.spotify.com/artist/7CanUos0itnFLMrCiT839W) | [If That's Alright](https://open.spotify.com/album/3ZxgIRFBsbYYxcKOIVaXPx) | 3:55 | 2022-12-21 | 2023-11-25 |
 | [If you love me](https://open.spotify.com/track/1u2PALe54ded9KMIhb9chD) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [If you love me](https://open.spotify.com/album/60nVtffyFBqZuhUiHiGPUe) | 3:36 | 2024-01-11 |  |
@@ -127,7 +129,7 @@
 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 | 2023-11-24 |  |
 | [Sunflower](https://open.spotify.com/track/32uXuJF75lxy2gRY85aO9h) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH), [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Sahar](https://open.spotify.com/album/6SkLEvDvr8cHuuKWTQSgj9) | 4:23 | 2022-12-21 | 2024-01-05 |
 | [Take Me Home, Country Roads](https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Take Me Home, Country Roads](https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT) | 2:46 | 2023-12-01 |  |
-| [The Day The World Blows Up](https://open.spotify.com/track/77Udo57rOy0NMI6mpHY54p) | [Lauren Jauregui](https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU) | [The Day The World Blows Up](https://open.spotify.com/album/1dzMVPZCoyJcbzjVJUI11y) | 4:01 | 2024-02-08 |  |
+| [The Day The World Blows Up](https://open.spotify.com/track/77Udo57rOy0NMI6mpHY54p) | [Lauren Jauregui](https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU) | [The Day The World Blows Up](https://open.spotify.com/album/1dzMVPZCoyJcbzjVJUI11y) | 4:01 | 2024-02-08 | 2024-02-23 |
 | [The End](https://open.spotify.com/track/3e4QnOQmNqJaBjpmjGYZK0) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [The End](https://open.spotify.com/album/5yQSR4I6kIx4a7Siq2Q6vZ) | 3:25 | 2023-12-21 |  |
 | [The Girl Who Cried Love](https://open.spotify.com/track/68zmVEhY9iI1WumxzVqAoi) | [Alex Sampson](https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf) | [Blurry Vision](https://open.spotify.com/album/442bxdGV3makrW5UlF1Ws4) | 2:57 | 2024-01-18 |  |
 | [the grudge](https://open.spotify.com/track/3Nl5OkkmS5DaBZvuYofpAt) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:09 | 2023-09-07 | 2023-11-25 |

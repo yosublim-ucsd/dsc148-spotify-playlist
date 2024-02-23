@@ -4,7 +4,7 @@
 
 > Uplifting instrumental beats to brighten your day.
 
-480 songs - 18 hr 41 min
+481 songs - 18 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -374,6 +374,7 @@
 | [Sorbets](https://open.spotify.com/track/0myyZ5la6POCla0TiQAlJI) | [Robertson](https://open.spotify.com/artist/2EzlZPJxXWKsLlQBJUEw28) | [Reach Out](https://open.spotify.com/album/75Scz9V5C2kpPIWAQyJT26) | 2:00 | 2021-11-11 | 2023-09-08 |
 | [special](https://open.spotify.com/track/5YqgLosDBFzjeXUvNwCnQC) | [bird](https://open.spotify.com/artist/4UYTq2L0l4zfsUKe8BqeNs) | [special](https://open.spotify.com/album/5GfEDnVTeachHBtWYl4YTr) | 2:26 | 2021-11-11 | 2022-11-26 |
 | [spice age](https://open.spotify.com/track/12Wq2oMs3cC5X4kLib48AX) | [JoJo Mojo](https://open.spotify.com/artist/3rk7Py7nULekgVHb7BjVH0) | [spice age](https://open.spotify.com/album/6H4pKjbmFUb0tvbvaTSJHr) | 1:59 | 2023-05-01 |  |
+| [Spring Cold](https://open.spotify.com/track/3lCZxVYjOpUmFKEjsKsnTU) | [eun](https://open.spotify.com/artist/0L8slSjSjkpmY2vCCuXZ2r) | [Spring Cold](https://open.spotify.com/album/0XL40uz5cMkTAlN25kyIm3) | 2:40 | 2024-02-23 |  |
 | [Springboard Fun](https://open.spotify.com/track/2diMv8vVlQRyP9CA5PFI5s) | [Re\-Lax & Re\-Why'nd](https://open.spotify.com/artist/1rMywJQt6BtOpjN9E1qKxt) | [Springboard Fun](https://open.spotify.com/album/7cZ1x7VKrugvimRelrbfnZ) | 2:24 | 2021-11-11 | 2022-10-15 |
 | [Staying Inside Tonight](https://open.spotify.com/track/5Wkh4tytIpCave04bDIr58) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Lagom](https://open.spotify.com/album/4k7Eh3WH907ikJlxC5B0C4) | 2:09 | 2021-11-11 |  |
 | [Step](https://open.spotify.com/track/51pGm8SzomGrEjBKzGQnYQ) | [Stereo Pack](https://open.spotify.com/artist/7En99WrIYmOSMXYJK3A16w) | [Sunrise Citi](https://open.spotify.com/album/3ZV8TP7HHfTQN5JnpRrTUM) | 2:00 | 2021-11-11 |  |

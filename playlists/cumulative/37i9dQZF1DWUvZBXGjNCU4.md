@@ -4,7 +4,7 @@
 
 > Warm and cozy acoustic instrumentals.
 
-304 songs - 13 hr 50 min
+305 songs - 13 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,6 +194,7 @@
 | [Neverland](https://open.spotify.com/track/5dBfxNan60Il2DqEFYIcMQ) | [Tristan Wilson](https://open.spotify.com/artist/0Whtro6LqFditoj7nzIOMH) | [Neverland](https://open.spotify.com/album/6jJjT7skytiWDi4reLn9Gk) | 2:30 | 2022-05-13 | 2023-06-23 |
 | [New Horizon](https://open.spotify.com/track/0KhYa12Tp63ShTjYRg5BKO) | [Johannes Grill](https://open.spotify.com/artist/2BjCVkZGxXlhLIYRoQTgA7) | [New Horizon](https://open.spotify.com/album/63IzCevH0NXpuyWn1hVRJW) | 1:59 | 2022-11-18 | 2023-09-16 |
 | [Northern Lights](https://open.spotify.com/track/5aK6HIcjYoAeI4v1o7vQ1X) | [Charles Avnik](https://open.spotify.com/artist/2PeMqgLlOHgfvVfk63Txpp) | [Northern Lights](https://open.spotify.com/album/1mH8PD21X3j431DnydlQ2F) | 2:10 | 2022-05-13 | 2022-06-10 |
+| [Now I Am Older](https://open.spotify.com/track/7r5C8q2c1bEr13EQFlLfhR) | [Jim Nash](https://open.spotify.com/artist/5Q8X9eQtzN2M4kpgxOMp2m) | [Now I Am Older](https://open.spotify.com/album/3aO4aeFXjiX8YmJTmjIvod) | 2:00 | 2024-02-23 |  |
 | [Ocean View](https://open.spotify.com/track/5pBeteeE2OuxTCkPbykuhb) | [Fredrik Johansson](https://open.spotify.com/artist/7wKJfbyQ8YETfxRRjZv80m) | [Ocean View](https://open.spotify.com/album/1IWqrzNu8FNPasLEbQgojS) | 2:43 | 2023-01-20 | 2023-04-28 |
 | [Old Harbor Road](https://open.spotify.com/track/194ujg6jw02wiPs6GLqPl5) | [Lexi Silver](https://open.spotify.com/artist/1xs4hNvOlaVhbnA6OeCp9B) | [Andorra](https://open.spotify.com/album/2Qo97FlkMgmjeaoaCjqQ8e) | 3:05 | 2022-05-13 | 2022-06-10 |
 | [on this journey together](https://open.spotify.com/track/2pamcBZCeXARtQIpEpKIHj) | [Roberto Cabello Jr.](https://open.spotify.com/artist/3wCRv2qzTQDamiPfSc2zPp) | [on this journey together](https://open.spotify.com/album/5A0LT6wdjPKktyFxGKIp46) | 2:49 | 2022-05-13 | 2023-06-23 |
@@ -235,7 +236,7 @@
 | [Sky](https://open.spotify.com/track/3TemtSpYdgJcDU6SotuNXV) | [a sound for you](https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI) | [Sky](https://open.spotify.com/album/3B4PBBGRzwgC7rEvljwBZ0) | 1:53 | 2022-10-28 | 2023-05-05 |
 | [Sky](https://open.spotify.com/track/4gYayVU0GTqHEIqbLXu3N7) | [a sound for you](https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI) | [Sky](https://open.spotify.com/album/6fFjqvw0ZkLTOihz2voCU0) | 1:53 | 2022-07-01 | 2022-11-05 |
 | [Skyline](https://open.spotify.com/track/285lEr4h595zVTecy0u7Nf) | [Owen Larssen](https://open.spotify.com/artist/5KC38oAHkvoeZvx2k9Pwlo) | [Skyline](https://open.spotify.com/album/7fcgX0jd8ZbfyuPDUKWabu) | 1:44 | 2023-06-09 | 2023-09-16 |
-| [Sleeping In](https://open.spotify.com/track/5VLRRFirz43glb8VaLi0u5) | [Damien Adams](https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg) | [Sleeping In](https://open.spotify.com/album/74gHriyoqihLtwbA9LdyTG) | 3:00 | 2023-03-10 |  |
+| [Sleeping In](https://open.spotify.com/track/5VLRRFirz43glb8VaLi0u5) | [Damien Adams](https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg) | [Sleeping In](https://open.spotify.com/album/74gHriyoqihLtwbA9LdyTG) | 3:00 | 2023-03-10 | 2024-02-23 |
 | [Soft Echoes](https://open.spotify.com/track/3pZt1uUb7bgSADqm3smoMo) | [Colin Weary](https://open.spotify.com/artist/5z9QoWPwVN58RPnYjpPgEO) | [Soft Echoes](https://open.spotify.com/album/0FcwvBp2L2pKv1pdgXbvyV) | 3:27 | 2023-01-20 |  |
 | [Something Special](https://open.spotify.com/track/48KSYU3Ek5PBtRKNgcGoLS) | [Leo Krepper](https://open.spotify.com/artist/67l42DKf27egbfdp0XLpY0) | [Something Special](https://open.spotify.com/album/45ClUpyAnFBixVMmY9hcUm) | 2:48 | 2022-05-13 | 2022-06-10 |
 | [Sommersby](https://open.spotify.com/track/01n9zpPrEWCKsH6o27WwWR) | [Joseph Cline](https://open.spotify.com/artist/4I9DN3aBJSdzI26IuzVl0h) | [Sommersby](https://open.spotify.com/album/5q7aaYPfvt8uOpaLJudHjH) | 1:48 | 2023-04-28 | 2023-09-16 |

@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Lee go do\(이고도\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-566 songs - 1 day 10 hr 48 min
+568 songs - 1 day 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,7 +254,7 @@
 | [Let's go home](https://open.spotify.com/track/7J00hW1bd6Zp3wykjQCP8M) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) | [I'm](https://open.spotify.com/album/085XU5PQYl7eUA97BkkE8Z) | 3:45 | 2022-04-12 | 2022-07-21 |
 | [Let's stay away \(Feat\. AQUINAS\) \(Prod\. Lilkey\)](https://open.spotify.com/track/6k0ApE2WFw3nV1xQrtIZp1) | [seizetheday](https://open.spotify.com/artist/4QOj43HDq0domGAuo3naZB), [Lilkey](https://open.spotify.com/artist/7p4j1maf48LtHY0NnAKBj4), [AQUINAS](https://open.spotify.com/artist/6icWxBzgVFQXsLJN8uIzCR) | [Let's stay away \(Feat\. AQUINAS\) \(Prod\. Lilkey\)](https://open.spotify.com/album/5Ixd8BpltXP3GiVjwu45KV) | 3:07 | 2023-01-14 | 2023-01-26 |
 | [Letter](https://open.spotify.com/track/5eQpbcCvsnvmp58ph8mOa1) | [Purple Rain](https://open.spotify.com/artist/4Myaw7YiDO14r4JhxeXIiL) | [Letter](https://open.spotify.com/album/3JnckYCOtlr4EmxYoXA7um) | 3:51 | 2022-06-09 | 2022-06-14 |
-| [Let’s Love](https://open.spotify.com/track/0wk4GYAryLcXEMvfhzU1bv) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [Self\-Portrait \- The 1st Mini Album](https://open.spotify.com/album/0f4L2zNLtQtFk08M1YGoE1) | 3:49 | 2022-04-22 |  |
+| [Let’s Love](https://open.spotify.com/track/0wk4GYAryLcXEMvfhzU1bv) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [Self\-Portrait \- The 1st Mini Album](https://open.spotify.com/album/0f4L2zNLtQtFk08M1YGoE1) | 3:49 | 2022-04-22 | 2024-02-23 |
 | [Let′s Get it](https://open.spotify.com/track/2w1jsbgkgR6aeg56H2AHSW) | [sEODo](https://open.spotify.com/artist/2NgaFTtIGRRkcXHjXBwGpX) | [Royal Secret Inspector and Joy, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/4UXcY00wGw2ZHMHHXzmyRN) | 3:14 | 2022-04-21 | 2022-04-23 |
 | [Life](https://open.spotify.com/track/2oxxGEfr7uciElfiDo135t) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [CEREMONIA \(Complete Edition\)](https://open.spotify.com/album/2itIZTzeIXjJn7sqReMvQE) | 3:53 | 2022-04-22 | 2022-05-13 |
 | [Life Dancing](https://open.spotify.com/track/1Na51A7s9Fm1ullr4aVG5l) | [Nerd Connection](https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK) | [Life Dancing](https://open.spotify.com/album/5Hw3PFHxV4GGfMJHZfnVyA) | 3:15 | 2022-04-22 | 2022-07-01 |
@@ -398,6 +398,7 @@
 | [Scream](https://open.spotify.com/track/3vPHCKu5UhbGLe9rs8dBGr) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [1st Album \[Dystopia : The Tree of Language\]](https://open.spotify.com/album/7no7EZnKgoRWBbGMjZo9gB) | 3:24 | 2022-04-12 | 2023-08-04 |
 | [Scream](https://open.spotify.com/track/7FxshQAsTWmogWU959hz3T) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [1st Album \[Dystopia : The Tree of Language\]](https://open.spotify.com/album/6m5pDOafdvIKxNRxx5hVbr) | 3:24 | 2023-07-31 |  |
 | [Screen](https://open.spotify.com/track/1wLv73icHBnWJ8LgxMx5WN) | [Goat](https://open.spotify.com/artist/1f8OrSiIMAkvBfrStI8bRd) | [Fade out](https://open.spotify.com/album/08bVdRiFhfs9yzaNZwOYax) | 3:47 | 2022-04-22 | 2022-07-27 |
+| [Secret Diary](https://open.spotify.com/track/495QLv4XTKlMgcfKXmyuwZ) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [1st Single Album 'Harmony from Discord'](https://open.spotify.com/album/0AmeepTU81c9ghVpJpacNc) | 2:41 | 2024-02-22 |  |
 | [sensitive flower](https://open.spotify.com/track/5mAir6o7gS8l66Bojwnxkx) | [DICKPUNKS](https://open.spotify.com/artist/2g1DmQlx7A9z1ctK0dNlen) | [sensitive flower](https://open.spotify.com/album/7jIBfI4yc5Lk86pnARbF2J) | 3:52 | 2022-04-22 | 2022-04-29 |
 | [Shame On You](https://open.spotify.com/track/48bL0ze0DotIcUS2rQuEyS) | [DOCHI](https://open.spotify.com/artist/71fBNalGQfpvEttt414EIV) | [Shame On You](https://open.spotify.com/album/2SGMfisblO95lG7rMywqz0) | 3:09 | 2022-08-12 | 2022-08-19 |
 | [She](https://open.spotify.com/track/57rt6Jj7woE21ae3Ml2vw8) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [She](https://open.spotify.com/album/3LwTiul097ARDdI02bgKO9) | 3:14 | 2022-04-22 | 2023-12-05 |
@@ -439,6 +440,7 @@
 | [STARLIGHT](https://open.spotify.com/track/5Sze0gwqDqO2BEEIQpxkDa) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [STARLIGHT](https://open.spotify.com/album/4N390LmaD2YwNebjT1Zmoa) | 3:24 | 2022-04-22 | 2022-07-27 |
 | [Starlight](https://open.spotify.com/track/24dSyqfPW6WNzdegehvuBw) | [Xydo](https://open.spotify.com/artist/0vcbn6MqAvgM8Gh6wh8d6X) | [Poong, the Joseon Psychiatrist OST Part.5](https://open.spotify.com/album/50DAxrpePNE16yJnYS7QT2) | 3:21 | 2022-09-05 | 2022-09-21 |
 | [Starry Night](https://open.spotify.com/track/4vSQmGcgOhsoK5lqmNOEz2) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [Self\-Portrait \- The 1st Mini Album](https://open.spotify.com/album/0f4L2zNLtQtFk08M1YGoE1) | 4:38 | 2022-04-12 | 2022-07-18 |
+| [STAY](https://open.spotify.com/track/1dR5StkkOjZEXEgrC7AlVY) | [Cha Eun\-Woo](https://open.spotify.com/artist/76ea6HHCvHlTqhF9I0jtHU) | [ENTITY](https://open.spotify.com/album/0aEUnGgi7O8zqqrH8ADg7E) | 2:53 | 2024-02-22 |  |
 | [Still](https://open.spotify.com/track/2behhE9zykC6hWmBffdYP9) | [루아멜 \(LUAMEL\)](https://open.spotify.com/artist/0GP1FM3P7XrmSNz1Nr29Yy) | [Still](https://open.spotify.com/album/38b0mzFmSaM5JozS7Lfte4) | 3:17 | 2022-06-20 | 2022-07-10 |
 | [Still Here](https://open.spotify.com/track/7nVhKlC4JktgjoUXLdhly2) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [Still Here](https://open.spotify.com/album/1vhPhbQYVSAuDI8ZKsG0VU) | 3:39 | 2022-10-05 | 2022-11-13 |
 | [Still Life](https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Still Life](https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC) | 3:08 | 2022-04-12 |  |
@@ -554,7 +556,7 @@
 | [Zinnia](https://open.spotify.com/track/0ll9zCUAVr3qmpGPfenFvI) | [9001](https://open.spotify.com/artist/0ucJPeq0vaU8dbHu0Tie6E) | [Zinnia](https://open.spotify.com/album/5MQ5dlRGUTSmWeKAYw9Ckh) | 3:47 | 2022-04-12 | 2022-07-27 |
 | [Zombie](https://open.spotify.com/track/0vPLEyGAlxDAMxFvnwHgUB) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : The Demon](https://open.spotify.com/album/6nLZ4KhjJSdxag9cDIFHhJ) | 3:29 | 2023-06-19 |  |
 | [Zombie](https://open.spotify.com/track/4s0dJmVknlUl7V6oK3puzZ) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : The Demon](https://open.spotify.com/album/3JX0hnu8b55RtbtEdUSYor) | 3:29 | 2022-04-12 | 2022-07-27 |
-| [나무](https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [나무](https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur) | 3:52 | 2022-04-21 |  |
+| [나무](https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [나무](https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur) | 3:52 | 2022-04-21 | 2024-02-23 |
 | [날 버리지 마요](https://open.spotify.com/track/5NZLKa0BTaxTtIkmeK2Jjs) | [JUROKEY](https://open.spotify.com/artist/59TnLHZJYHwrk51oo4bbVC) | [날 버리지 마요](https://open.spotify.com/album/3l25IElZW7jIlbTD7obUAr) | 4:01 | 2022-04-12 | 2022-04-29 |
 | [낡은 괴담 Cumulus](https://open.spotify.com/track/6SGISb2p5ebnvpRUtIaXlr) | [JUNGWOO](https://open.spotify.com/artist/3tvnuk98r2VOv9ygTK8cjs) | [클라우드 쿠쿠 랜드 Cloud Cuckoo Land](https://open.spotify.com/album/1JsmKt5IsgxgqkIVNsjuuz) | 4:02 | 2023-11-10 | 2023-11-24 |
 | [내 인생은 영화가 아니니깐 Even if it's not a movie](https://open.spotify.com/track/3iNKeoWEHeOiggDyDUoQ1Z) | [SAGA](https://open.spotify.com/artist/2ZRfFuLggOblc7VecpyL7l) | [내 인생은 영화가 아니니깐 Even if it's not a movie](https://open.spotify.com/album/7HVbI46GN8Aka3KJbJwhVj) | 3:45 | 2022-04-12 | 2022-07-01 |

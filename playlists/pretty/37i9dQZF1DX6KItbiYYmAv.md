@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KItbiYYmAv.md) - [plain]
 
 > Hol dir dein Lieblingscafé nach Hause.
 
-[Spotify](https://open.spotify.com/user/spotify) - 731,208 likes - 150 songs - 9 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 731,279 likes - 150 songs - 9 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KItbiYYmAv.md) - [plain]
 | 149 | [Old Soul](https://open.spotify.com/track/3ThbiGsMJGSLOUHVxyFQQk) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz) | 3:06 |
 | 150 | [Fortune \- Acoustic](https://open.spotify.com/track/2M1bgJpUPjfKhHLIIfzGtX) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Acoustic Sessions](https://open.spotify.com/album/7ISQ9CXK8dZBLzZgfQp8si) | 3:48 |
 
-Snapshot ID: `MCxkMWU1NzAzYmQ2MzIwMTU3NzNhMGExNzRkNjRkOGVhYjUyMWY0YmI5`
+Snapshot ID: `MCw5ODVkMWEwMGQ1ZmFkNzljZjdiNjQ1MDgxZDA1YTJlZGEyODMzMDgy`

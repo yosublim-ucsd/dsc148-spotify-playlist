@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 
 > Behagelig musik.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,590 likes - 114 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,603 likes - 114 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 | 113 | [Mirage](https://open.spotify.com/track/1emAqEEKHGpdFx6H2YJTiG) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Mirage](https://open.spotify.com/album/2ZkqACn45Z6cSf1xy0ll2D) | 2:44 |
 | 114 | [Silence](https://open.spotify.com/track/0Q1QQ3R3s6VbX7ZB8shmvp) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [Why Her Not Me \- EP](https://open.spotify.com/album/5f0eFn8Iv1PU8b4ylLxRJY) | 3:39 |
 
-Snapshot ID: `MCw1Zjc2OWU2NWVhMjU4ZjM0OGQ4MWJmYjc3MjAzMmE3YzQ2MTBhNjc4`
+Snapshot ID: `MCwwNjcxOWUxNTE1OGRkN2RiYzVmMGFhNTU0ZDhlNzM2YTFiNDAzN2Mw`

@@ -587,6 +587,28 @@
     },
     {
       "album": {
+        "name": "All The Same (Mandy, Indiana Remix)",
+        "url": "https://open.spotify.com/album/4Zrv5qWt0Ux02mynONQSyy"
+      },
+      "artists": [
+        {
+          "name": "Fat Dog",
+          "url": "https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe"
+        },
+        {
+          "name": "Mandy, Indiana",
+          "url": "https://open.spotify.com/artist/2nDJxXJ7PtW7eLpFXcGH3u"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271034,
+      "name": "All The Same - Mandy, Indiana Remix",
+      "url": "https://open.spotify.com/track/29pmTqAgwWmOPnvfu1J918"
+    },
+    {
+      "album": {
         "name": "All These Things",
         "url": "https://open.spotify.com/album/54CU9jHxWLV6hca9h81eAe"
       },

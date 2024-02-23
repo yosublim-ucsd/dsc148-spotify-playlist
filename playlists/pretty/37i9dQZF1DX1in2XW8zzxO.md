@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 
 > Amapiano tracks to fuel your beast mode!
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,750 likes - 50 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,835 likes - 50 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 | 49 | [Party Mode](https://open.spotify.com/track/2Y4WDb59HdxKezH8Ulo5OQ) | [Ordio O2](https://open.spotify.com/artist/5VO8WGUErBn2uI7zVcgWok), [Kukzer wadi piano\_012](https://open.spotify.com/artist/3gRYJiGDHEWuZCjKlOZsLh), [Ross](https://open.spotify.com/artist/3qR0ivGnEprE5Y8oxCly4Y) | [Party Mode](https://open.spotify.com/album/0B4jdzLxjRL1HEm9qYxn08) | 6:01 |
 | 50 | [JAGERMEISTER](https://open.spotify.com/track/67iNlrjPKMiqrpY5mTne2u) | [Ice Beats Slide](https://open.spotify.com/artist/6ynMrlCLJfmijr0XFdtvH5), [Sbuda Maleather](https://open.spotify.com/artist/0vOrz3mJAqpGuC53lbEOeq), [2woBunnies](https://open.spotify.com/artist/45c90J0Hvj1PMIFtm0b1ML) | [Hakuna Mathata](https://open.spotify.com/album/5WsgpaaHCVDm0Mn1Dllm2Q) | 5:27 |
 
-Snapshot ID: `MCxlMTZlOGY2MGZmYmM0MzdlZDJmM2IwYzZhZmI3YzgwMjdmNTA4OWQy`
+Snapshot ID: `MCxkODNmNmFiYWRkNTljY2RjNDc1MGQ2NDg0ZjJmMjM3NjRhZjMxZTcz`

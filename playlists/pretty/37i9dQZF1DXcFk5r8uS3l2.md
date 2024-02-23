@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFk5r8uS3l2.md) - [plain]
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Lizz Wright
 
-[Spotify](https://open.spotify.com/user/spotify) - 442,458 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 442,486 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFk5r8uS3l2.md) - [plain]
 | 30 | [Goodbye’s Kickin’ In](https://open.spotify.com/track/3KcBTqKjbo8CG9eXdFzXoA) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Goodbye's Kickin' In](https://open.spotify.com/album/0aoHbXtMcuzHSOaukOaT9G) | 3:21 |
 | 31 | [Baby What You Do](https://open.spotify.com/track/4TXGCfMrLa40VigIgJOywg) | [Vintage Trouble](https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0) | [Heavy Hymnal](https://open.spotify.com/album/4R6uI1hHGcUTKrOWdXrg4t) | 3:52 |
 | 32 | [Too Late](https://open.spotify.com/track/0bt4QO4xZOj3MwVqTc78AU) | [Jesse Ray and the Carolina Catfish](https://open.spotify.com/artist/4Qafc3GarByfVBFGCi81zy) | [Too Late](https://open.spotify.com/album/1TR3lXR7Mwf1MRpXnZVcCY) | 3:25 |
-| 33 | [Nothing's Gonna Stop Me Feeling Good](https://open.spotify.com/track/3578ilBVTJbZFgJH8z8lxn) | [The Gulls](https://open.spotify.com/artist/2n0FlGHc3OxI0x2WI39BEc) | [Nothing's Gonna Stop Me Feeling Good](https://open.spotify.com/album/3vgjJRc8CkEp5LbCwYdfVf) | 3:00 |
+| 33 | [Nothing's Gonna Stop Me Feeling Good](https://open.spotify.com/track/4rmOzQCwbGIiukTKmpRHlC) | [The Gulls](https://open.spotify.com/artist/2n0FlGHc3OxI0x2WI39BEc) | [Nothing's Gonna Stop Me Feeling Good](https://open.spotify.com/album/1JHZ601aiZH8AexrDLnxbp) | 3:00 |
 | 34 | [Ain't No Harmin' Me](https://open.spotify.com/track/1LnTC50m1LHC36jtKo0UJk) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Ain't No Harmin' Me](https://open.spotify.com/album/0tk6hm3xKUefjBLDt4xkS9) | 3:50 |
 | 35 | [San Quentin Infirmary Blues \- Stripped Back](https://open.spotify.com/track/6A8JDsJSjQsrBwfXl2UTKk) | [Liam St\. John](https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx) | [All The Bad Things \(Stripped Back\)](https://open.spotify.com/album/3iJ2lF1mIHOEGSTl5HSZy4) | 3:12 |
 | 36 | [Freedom Is A Constant Struggle](https://open.spotify.com/track/7pazEod5kIZKCpppre6kvx) | [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y), [Joy Clark](https://open.spotify.com/artist/7BTIW6ksfRBJ50xe6EtXjJ), [Lilli Lewis](https://open.spotify.com/artist/2dh2iaRf6yHgqVmEJok53L), [Sabine McCalla](https://open.spotify.com/artist/7Eo1K9fCpeF4lnvbpVcrWR), [Sula Spirit](https://open.spotify.com/artist/7qXJE0O3NsmQssEePihY2L), [Cassie Watson Francillon](https://open.spotify.com/artist/6LuBYCozHo0lrFf7CnkgMX) | [Freedom Is A Constant Struggle](https://open.spotify.com/album/2mGTeZBnyXP7CTapaW1p9S) | 3:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFk5r8uS3l2.md) - [plain]
 | 99 | [Roll With Me](https://open.spotify.com/track/5e8EPbTXBC9nnXctV4CWB3) | [Davie](https://open.spotify.com/artist/3LtkIxt8EHLpuXMOpFYZ06) | [Roll With Me](https://open.spotify.com/album/4kh6j2obPW8dd5SxkCWjf7) | 4:20 |
 | 100 | [Rock & Roll](https://open.spotify.com/track/5xfYZuMVGuyh9L0LcVWjzE) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Rock & Roll](https://open.spotify.com/album/74udasJvPvH9iaGBIBbcPm) | 4:50 |
 
-Snapshot ID: `MCwyNzBjMGFmZGFlZTFlY2QzZTQ4NWM0OWJiN2Q1NzRjYTczMTc2N2Qz`
+Snapshot ID: `MCw1YmY1ZjQzNGMyOWEzZTliNmU4YzJhMjRiY2Q2MTdhNjM5ZDg4YjFk`

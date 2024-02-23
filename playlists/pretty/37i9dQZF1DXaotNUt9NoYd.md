@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaotNUt9NoYd.md) - [plain]
 
 > Its time to travel inwards & feel the bliss!
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,665 likes - 75 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,676 likes - 75 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaotNUt9NoYd.md) - [plain]
 | 74 | [Om Zone 2.0 \- XIV](https://open.spotify.com/track/3tOpCsBzhi5I2ZyZpk1Ven) | [Steven Halpern](https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k) | [In the Om Zone 2.0](https://open.spotify.com/album/5GHnyBPAznBKbWccswmDKb) | 4:07 |
 | 75 | [Mindstiller](https://open.spotify.com/track/2IA4wO7fwVunvFQuWeksm8) | [Intentional Vibes](https://open.spotify.com/artist/5gtNVNylJUg6NfvM0LjLtr) | [Sleeper](https://open.spotify.com/album/6IoRGJxNt4XSc7DbpSnMvm) | 3:36 |
 
-Snapshot ID: `MCwyNTRjYzkwOTdlZmY2NjM4ZWQwZjdhZmZjMWI0NDJlZGQwZmI2OTM4`
+Snapshot ID: `MCw0YWZiNTY1YjFmYzExMDNkYzM0NjU0ZDIwMjBmODczOWJkOTNiNTFj`

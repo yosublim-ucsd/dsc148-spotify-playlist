@@ -4,7 +4,7 @@
 
 > Relax and sleep to the soft, melodic, and rhythmic rumbling of the night train
 
-123 songs - 6 hr 20 min
+124 songs - 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Calming Trains Passing](https://open.spotify.com/track/3ECW5iX2Ec99jRqysjTjLG) | [Transportation Geek](https://open.spotify.com/artist/1WyV3XMcKRnrFsZt8KEWWI) | [Pure Train Sounds](https://open.spotify.com/album/50aCr83mi5PzJWDz6OFfti) | 3:42 | 2022-07-29 |  |
 | [Cart Noise](https://open.spotify.com/track/7e4oU48H5NtPiUFTUNPtsW) | [Track Circuit](https://open.spotify.com/artist/7i2c7GB766bUWAiBN6yHuZ) | [The Sound Of Trains](https://open.spotify.com/album/33poigFw5SFmd6JjPh3kkA) | 3:07 | 2022-07-29 |  |
 | [Chugging Along](https://open.spotify.com/track/4Sh4rAcd1srCg9XgR5biFx) | [The Right Noises](https://open.spotify.com/artist/68HmrxxSwi1z5OvNg7ufJQ) | [Chugging Along](https://open.spotify.com/album/7wLzNNftrq5XshqKXjHPIe) | 2:32 | 2023-09-11 |  |
+| [Chugging Kauai Train](https://open.spotify.com/track/7gj0w6mlvgsiTpJ5RTbXcO) | [Train Travlz](https://open.spotify.com/artist/1XCfyWOdIZPEFbFsUSGGtC) | [Chugging Kauai Train](https://open.spotify.com/album/2VWyNoxFJQQnyq2phuL1by) | 6:21 | 2024-02-22 |  |
 | [Commuting](https://open.spotify.com/track/12zMnav0pnKWuN0vjmSS2k) | [Zound Effectz](https://open.spotify.com/artist/1gXnErhxU6okboLE4hXzfE) | [Trains](https://open.spotify.com/album/3ERFNp6zkwTixHX0wUy7Y3) | 3:26 | 2022-07-29 |  |
 | [Cover Your Tracks](https://open.spotify.com/track/5MLwmFhHgseCZmssTddT98) | [Flying Scotsman](https://open.spotify.com/artist/5qkluBrPqnaUHdhcrdvLUL) | [Cover Your Tracks](https://open.spotify.com/album/7hMKYqDhWQv6Bl3jy2jHAw) | 2:18 | 2023-02-14 |  |
 | [Dark Windy Train Ride](https://open.spotify.com/track/7xeKsRRrf2iK1KsCUjidg6) | [Transportation Geek](https://open.spotify.com/artist/1WyV3XMcKRnrFsZt8KEWWI) | [Pure Train Sounds](https://open.spotify.com/album/50aCr83mi5PzJWDz6OFfti) | 3:26 | 2022-07-29 | 2023-10-20 |

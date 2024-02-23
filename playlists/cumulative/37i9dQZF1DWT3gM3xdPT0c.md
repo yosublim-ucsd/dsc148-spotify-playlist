@@ -4,7 +4,7 @@
 
 > Warm instrumental guitar for a gentle start.
 
-319 songs - 13 hr 45 min
+321 songs - 13 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,6 +209,7 @@
 | [Noche Oscura](https://open.spotify.com/track/7pBTuE1FyL9c384Qn7VjSi) | [Juan Pedro Camoro](https://open.spotify.com/artist/0RU0eLI9MsXfF40bMd6Wh1) | [Noche Oscura](https://open.spotify.com/album/4VsF4lug4BUD3eU6cAd1zv) | 2:30 | 2022-03-04 | 2022-05-27 |
 | [Nostálgica](https://open.spotify.com/track/4KirUMRCdO6e9dzltUqHoN) | [Manuel Limbucca](https://open.spotify.com/artist/5mTxvOsY3hfZ4DWE6qMSpT) | [Granada](https://open.spotify.com/album/4hSlCERBN8RHcmwYugUOUK) | 2:52 | 2022-03-04 | 2022-05-27 |
 | [Notes From You](https://open.spotify.com/track/1jy9gxys6Lf7eE07bt6Wdb) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [Notes From You](https://open.spotify.com/album/766uQUBNRxBQ6vV3Ci7nd5) | 2:54 | 2023-01-13 | 2023-10-13 |
+| [Now I Am Older](https://open.spotify.com/track/7r5C8q2c1bEr13EQFlLfhR) | [Jim Nash](https://open.spotify.com/artist/5Q8X9eQtzN2M4kpgxOMp2m) | [Now I Am Older](https://open.spotify.com/album/3aO4aeFXjiX8YmJTmjIvod) | 2:00 | 2024-02-23 |  |
 | [Ocean View](https://open.spotify.com/track/5pBeteeE2OuxTCkPbykuhb) | [Fredrik Johansson](https://open.spotify.com/artist/7wKJfbyQ8YETfxRRjZv80m) | [Ocean View](https://open.spotify.com/album/1IWqrzNu8FNPasLEbQgojS) | 2:43 | 2023-01-13 |  |
 | [on this journey together](https://open.spotify.com/track/2pamcBZCeXARtQIpEpKIHj) | [Roberto Cabello Jr.](https://open.spotify.com/artist/3wCRv2qzTQDamiPfSc2zPp) | [on this journey together](https://open.spotify.com/album/5A0LT6wdjPKktyFxGKIp46) | 2:49 | 2022-03-04 | 2023-02-25 |
 | [Open Fields](https://open.spotify.com/track/2FsGdBUGGU2gE7myOODMOv) | [Byron Wolfe](https://open.spotify.com/artist/5FnRSMJOiTQUGkNRfOaJYm) | [Graceful Moment & Open Fields](https://open.spotify.com/album/4ozWLRqVgvL3CJivu2Idzf) | 2:13 | 2022-03-04 |  |
@@ -277,6 +278,7 @@
 | [The Discovery](https://open.spotify.com/track/2SBzLIgiQ7NOrfsdYvudwN) | [Max & Evelyn Levin](https://open.spotify.com/artist/1NfTYfe4S4R5doamPIfxlw) | [The Discovery](https://open.spotify.com/album/08gWXUilwiSrBuiStV7KfG) | 1:43 | 2022-03-04 | 2022-07-22 |
 | [The Dust Settles](https://open.spotify.com/track/0EVXNRFGjdC9xap72VhV7C) | [Andrei Smirnova](https://open.spotify.com/artist/6wLqG3xZFWS0M5pFimbbyr) | [The Dust Settles](https://open.spotify.com/album/06u42yAuNFUuzO2CLrJWCh) | 2:27 | 2023-04-21 |  |
 | [The Golden Hour](https://open.spotify.com/track/7gz1YABH7YyQdfizV66Te3) | [Karlijn Langendijk](https://open.spotify.com/artist/5f2W3O5gSmbpShR6upVzJb) | [The Golden Hour](https://open.spotify.com/album/02jWyD3cYpzVPCVCEBYRb4) | 4:23 | 2024-02-02 |  |
+| [The Green isle](https://open.spotify.com/track/1BZoIJDJgTSJJdtIH6sh5t) | [DeLand](https://open.spotify.com/artist/1Aop9zFg2iGOHdCIIbCWZ0) | [The Green isle](https://open.spotify.com/album/5qrqkAAhSGc5SFMvBasqyH) | 2:06 | 2024-02-23 |  |
 | [The Harvest's Hand](https://open.spotify.com/track/3Jty4TPeUMF2WJLJ8SzpSx) | [Precious Find](https://open.spotify.com/artist/17eY4Ztp9ZRvgPFF2js9e8) | [The Harvest's Hand](https://open.spotify.com/album/1PwCFJVwcFBXCoYch69X5V) | 2:35 | 2022-12-09 | 2023-08-10 |
 | [The Journey With You](https://open.spotify.com/track/0ZEsPuSsslffsQiTB9UoTA) | [The Cabin Tapes](https://open.spotify.com/artist/7iWDCqhLWP7tGRvYpOzj4J) | [The Journey With You](https://open.spotify.com/album/1N9XguMS6vl9LbbRkeLnBZ) | 2:22 | 2022-11-18 | 2023-03-25 |
 | [The Lights](https://open.spotify.com/track/2CIpfBZeHsuouUwJWUEsod) | [Remy Simon](https://open.spotify.com/artist/0ExT57wmZSDy4h6wT1AGqs) | [The Lights](https://open.spotify.com/album/7pnNgMZyKEPjGbJlQJ6LI1) | 1:46 | 2023-04-21 | 2023-08-26 |

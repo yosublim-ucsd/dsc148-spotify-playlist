@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > The best French indie tracks right now\. Cover : Emma Hoet
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,438 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,444 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 2 | [Day & Night](https://open.spotify.com/track/7B2RswVcMbBs70dFyxVGak) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [Opening Soon](https://open.spotify.com/album/5YX88yWrZXIXhyPTpNQhHb) | 4:03 |
 | 3 | [Creep \- Reprise](https://open.spotify.com/track/44X6oJ7rCioDz5dhtC4Fjn) | [Jeanne Bonjour](https://open.spotify.com/artist/69RTXNHpm2vfbE6xBVuC4u) | [Nouvelle Ère](https://open.spotify.com/album/5fDeHvOOrCb7iOw7V90OQm) | 2:51 |
 | 4 | [C'est mon truc](https://open.spotify.com/track/0VW89sbCVJaGb4iGeNrOEv) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [Zélie c'est quoi ?](https://open.spotify.com/album/51UJNhfVEsYfjukIag27Y2) | 3:05 |
-| 5 | [Lost and found](https://open.spotify.com/track/3o5inGcKklTC2NwrCSUhQl) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG) | [Lost and found](https://open.spotify.com/album/3AVDhfJj8lyxdhLgSia94h) | 4:02 |
+| 5 | [Lost and found](https://open.spotify.com/track/6MMEa398lg04laP9v8Q1YM) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG) | [Lost and found](https://open.spotify.com/album/4V5EXwlVZyDgqx5RHLik1z) | 4:02 |
 | 6 | [Turn Away](https://open.spotify.com/track/3iYfXX61UYS2fZPA16amzL) | [Later.](https://open.spotify.com/artist/1f5I47xuO3sDZm0hQ8y0nq) | [Walking On the Line \(Extended\)](https://open.spotify.com/album/58MszPAmQJIbDklhdMCv7I) | 3:46 |
 | 7 | [Juste toi et moi](https://open.spotify.com/track/2LsigtUd0PhjrtVIibZOQB) | [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [Juste toi et moi](https://open.spotify.com/album/4UzT23o7A0FSi1rwsplBkW) | 2:55 |
 | 8 | [Many Lives](https://open.spotify.com/track/3RGO73FmSCNy4ttRjuRZIJ) | [Courrier Sud](https://open.spotify.com/artist/2qR0Z9tF5eXGAyZFWQWtOm), [Kazy Lambist](https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH) | [Many Lives](https://open.spotify.com/album/59bHilulRFxXPtzqocpXoX) | 3:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 49 | [Xany](https://open.spotify.com/track/6yIwlWxRNRIZJU9BocEwzn) | [Mr GISCARD](https://open.spotify.com/artist/4IEu5JcADp9QoG7qji7tZj) | [Xany](https://open.spotify.com/album/76YpBmmt5imdfMH7d6ITCn) | 2:08 |
 | 50 | [Won't Come Back](https://open.spotify.com/track/2hVlC00xvotAc43P4fbfJq) | [YAOUNDÉBOXINGCLUB](https://open.spotify.com/artist/0DhFlKC8BmJcADqBXFEYZP) | [Won't Come Back](https://open.spotify.com/album/3B6aCf22aZ9nwJWIIBVhjX) | 3:54 |
 
-Snapshot ID: `MCwyZGU1NjE3MzlhYmJmMWNkMWMxMTI0MzE3ZmQ1NDQzNDA1NGYzYTM3`
+Snapshot ID: `MCw3ZmQ1MGZkMDNjYWNlNzY2NTQ4MTYzZWFjYjM1MDQwYzc4MjM0OWU3`

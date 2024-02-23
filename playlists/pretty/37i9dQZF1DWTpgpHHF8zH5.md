@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpgpHHF8zH5.md) - [plain]
 
 > Musica per sorridere, darti la carica e affrontare la giornata!
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,449 likes - 95 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,471 likes - 95 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpgpHHF8zH5.md) - [plain]
 | 94 | [It Is What It Is](https://open.spotify.com/track/2kHcMUgIqU3t87wjoGhrd6) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Broken Memories](https://open.spotify.com/album/7Exl3hREAY4tg3m06nkbys) | 2:05 |
 | 95 | [Living In A Haze](https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Living In A Haze](https://open.spotify.com/album/2Ffexjpw1Q1qdwLWEVThEJ) | 2:53 |
 
-Snapshot ID: `MCwyY2M3YjU3MDczNmM4YmQ4NGQ4MjE0YzQ3NmQ4MjE5M2VjYjdkNzg0`
+Snapshot ID: `MCw0M2Q4OGUyOGI4N2JhM2U1ZDJhNDU5ZTBlZTQ3NjgxMWU1MWRiYWNj`

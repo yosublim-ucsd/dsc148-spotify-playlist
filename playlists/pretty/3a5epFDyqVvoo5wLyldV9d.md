@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 
 > 
 
-[Ryan Gards](https://open.spotify.com/user/1230953186) - 39 likes - 756 songs - 2 day 10 hr 44 min
+[Ryan Gards](https://open.spotify.com/user/1230953186) - 39 likes - 757 songs - 2 day 10 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -764,5 +764,6 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 | 754 | [Heaven](https://open.spotify.com/track/6V8mQGMlteOnomLViyIRwU) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Ebo Taylor](https://open.spotify.com/album/5FOShBCFRekNYPZwzKWLB2) | 6:05 |
 | 755 | [Ansumana](https://open.spotify.com/track/7HYUvtCD0BklQbtf6hoRjk) | [Susso](https://open.spotify.com/artist/6eSUQltc7DkN4OiPgOl4VP) | [Keira](https://open.spotify.com/album/2MCLTuwWCBLuWaI91DRpVP) | 5:25 |
 | 756 | [Ai Du \(with Ry Cooder\)](https://open.spotify.com/track/5ksSzUpY892Gga1BlDN9ey) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Talking Timbuktu](https://open.spotify.com/album/0pOL9eM3BPolgD5jjQInAk) | 7:09 |
+| 757 | [Queztal](https://open.spotify.com/track/3BLtz1XMadNpiil28XLUyU) | [Los Hermanos](https://open.spotify.com/artist/5gmYIZpH1l8t94NoRZRB5x) | [On Another Level](https://open.spotify.com/album/3AftCQAH0WzS0sEcni5ToS) | 6:13 |
 
-Snapshot ID: `ODQ4LDA2ZGQ5ZGE3MjgwMmRhNDdiYTA5ZDNjNGZjZmY3YjYzYjFiOTljYjg=`
+Snapshot ID: `ODQ5LDE0NmI0ZDFiMGI5MzYzMjdlNzQyYzc3N2ZlMTMxOGI4YWI4MTI2MGE=`

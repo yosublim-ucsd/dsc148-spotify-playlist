@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1VHgGvdVgaZ.md) - [plain]
 
 > Instrumental selections from the South Indian school of music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,942 likes - 75 songs - 11 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,963 likes - 75 songs - 11 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1VHgGvdVgaZ.md) - [plain]
 | 74 | [Vathapi Ganapathim Bhajeham](https://open.spotify.com/track/4w6p6n3uIVfRa6QGznDNQw) | [Phani Narayana](https://open.spotify.com/artist/5xbjAQJmDH4MyNh68NJ4U0) | [Mood Music \- Cool Carnatic Instrumentals](https://open.spotify.com/album/628oH97rIWa4Zgvuft7aGD) | 6:49 |
 | 75 | [Bho Shambho \- Instrumental](https://open.spotify.com/track/1sRAThKJTFHB5YOKdvzUtC) | [Phani Narayana](https://open.spotify.com/artist/5xbjAQJmDH4MyNh68NJ4U0) | [Soul of South India 2 \- Instrumentals of the Greatest Traditional Melodies](https://open.spotify.com/album/3bhZ3lkcwIyl51rnXq6oHy) | 6:02 |
 
-Snapshot ID: `MCwyNDgxOGEzMWIzMDEyN2JjOGIxMGNhYWUyNjgzNTUzNGNjMGYwZWU5`
+Snapshot ID: `MCw2YWMwZDA3ZDU0ZGRkNjcxOTExNzY3YzYxNDBkMjVhNmU2ODEyNzkw`

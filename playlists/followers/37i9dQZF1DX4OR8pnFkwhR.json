@@ -1,5 +1,5 @@
 {
-  "2024-02-22": 67529,
+  "2024-02-23": 67544,
   "date_first_scraped": "2022-02-21",
   "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover: Chevon",
   "name": "RADAR: Early Noise ",
@@ -1393,10 +1393,28 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 213090,
       "name": "beg",
       "url": "https://open.spotify.com/track/1M5AO8Ce8CApKSEwFZtktR"
+    },
+    {
+      "album": {
+        "name": "The Sky Scary",
+        "url": "https://open.spotify.com/album/17PNLcHfqmDHmSqiOh2d5A"
+      },
+      "artists": [
+        {
+          "name": "BURNABLE/UNBURNABLE",
+          "url": "https://open.spotify.com/artist/18gC8b8KN9bId452Xdbl3p"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213090,
+      "name": "Beg",
+      "url": "https://open.spotify.com/track/2ipYQi0Poh0kb0r8VZ8wNu"
     },
     {
       "album": {
@@ -1697,6 +1715,24 @@
       "duration_ms": 175500,
       "name": "BORDER",
       "url": "https://open.spotify.com/track/4vRqGi0BbbecchqNA5PJMK"
+    },
+    {
+      "album": {
+        "name": "Bouquet",
+        "url": "https://open.spotify.com/album/6U8sNsAGPjgAJnBlupCq7P"
+      },
+      "artists": [
+        {
+          "name": "TRACK15",
+          "url": "https://open.spotify.com/artist/2yBeBpGsS9sgRa4rlJldIT"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238860,
+      "name": "Bouquet",
+      "url": "https://open.spotify.com/track/2nmKXcHdicY328zAPkcSJB"
     },
     {
       "album": {
@@ -6037,7 +6073,7 @@
     {
       "album": {
         "name": "i don't know (that",
-        "url": "https://open.spotify.com/album/1Jx7Rwgjp7tXuFSllcBuCW"
+        "url": "https://open.spotify.com/album/1RMj4durFQoxp5Ni6M1RNF"
       },
       "artists": [
         {
@@ -6052,6 +6088,28 @@
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 131600,
+      "name": "i don't know (that",
+      "url": "https://open.spotify.com/track/2Jo94X97s79fE6prjgNTBk"
+    },
+    {
+      "album": {
+        "name": "i don't know (that",
+        "url": "https://open.spotify.com/album/1Jx7Rwgjp7tXuFSllcBuCW"
+      },
+      "artists": [
+        {
+          "name": "AOTO",
+          "url": "https://open.spotify.com/artist/3hcgrXE2f4dTzHc1WS4JGs"
+        },
+        {
+          "name": "M-3",
+          "url": "https://open.spotify.com/artist/1ksrAJFSS3cQ2axS9fcMcU"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": "2024-02-22",
       "duration_ms": 131600,
       "name": "i don't know (that",
       "url": "https://open.spotify.com/track/6xP8c14PqOvebGsnS2oZqg"
@@ -7523,7 +7581,7 @@
     {
       "album": {
         "name": "Light(n)ing",
-        "url": "https://open.spotify.com/album/3weisOmHMVWetDBg79mlzx"
+        "url": "https://open.spotify.com/album/2d9QtkSDbgZLy8p4EThXFL"
       },
       "artists": [
         {
@@ -7534,6 +7592,24 @@
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 213435,
+      "name": "Light(n)ing",
+      "url": "https://open.spotify.com/track/4AolTQz0nbPeFKLrWP3OAR"
+    },
+    {
+      "album": {
+        "name": "Light(n)ing",
+        "url": "https://open.spotify.com/album/3weisOmHMVWetDBg79mlzx"
+      },
+      "artists": [
+        {
+          "name": "STAP Sigh Boys",
+          "url": "https://open.spotify.com/artist/0CaylYCVMWiEhpoZxxdDeu"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": "2024-02-22",
       "duration_ms": 213435,
       "name": "Light(n)ing",
       "url": "https://open.spotify.com/track/6KBkIxXzV6cv3ANyq4KFBS"
@@ -14159,7 +14235,7 @@
     {
       "album": {
         "name": "Transpose",
-        "url": "https://open.spotify.com/album/0CpmKvgc6E22A9gD5GTxin"
+        "url": "https://open.spotify.com/album/6txrWZ14wMs7sh93JtWFUU"
       },
       "artists": [
         {
@@ -14170,6 +14246,24 @@
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 239000,
+      "name": "Transpose",
+      "url": "https://open.spotify.com/track/0n2q9kCBG5QSgZx2sj4H1P"
+    },
+    {
+      "album": {
+        "name": "Transpose",
+        "url": "https://open.spotify.com/album/0CpmKvgc6E22A9gD5GTxin"
+      },
+      "artists": [
+        {
+          "name": "Tota",
+          "url": "https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": "2024-02-22",
       "duration_ms": 239000,
       "name": "Transpose",
       "url": "https://open.spotify.com/track/1pXgfCnwQwziwKHULqVIXo"
@@ -19701,7 +19795,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 238860,
       "name": "\u30d6\u30fc\u30b1",
       "url": "https://open.spotify.com/track/7H2QpQ7AWXuFT8cHv4u0ap"

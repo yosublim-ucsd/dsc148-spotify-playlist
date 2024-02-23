@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lkAsA4QOXG.md) - [plain]
 
 > Covers of classic songs with a touch of Jazz\. Cover: Joey Alexander
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,206 likes - 125 songs - 9 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,264 likes - 125 songs - 9 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lkAsA4QOXG.md) - [plain]
 | 124 | [Julia](https://open.spotify.com/track/1RTmc5oW1VmWUaUh80IZzo) | [The David Liebman Trio](https://open.spotify.com/artist/7ntUblw92fCVpMIjkM1TXh), [Dave Liebman](https://open.spotify.com/artist/429bUEZe2Hq5QJvO2CmhLn), [John Ruocco](https://open.spotify.com/artist/6tyFjAhvbV2tt8urz1THok), [Eric Ineke](https://open.spotify.com/artist/5rBQKpKypyVegQLtS7APtx), [Marius Beets](https://open.spotify.com/artist/5OdTxtGUOXe9h3UhPti9pK) | [Lieb Plays the Beatles](https://open.spotify.com/album/2jSCnq7vrAR0DO3qLdKjEr) | 4:21 |
 | 125 | [Bullet With Butterfly Wings](https://open.spotify.com/track/0z38GGHZCfVbbXloSW7p1B) | [Will Bonness](https://open.spotify.com/artist/2XicePOelCV9UVv6Ir1Xgo) | [Change of Plans](https://open.spotify.com/album/71b64FExhGoCgtbDzWPTc3) | 4:42 |
 
-Snapshot ID: `MCxhMmYyMjA4MGNjYjU0OGMyZTViNTA5MjU2MWE5Yjc4ZDUxNDdjNjU2`
+Snapshot ID: `MCxmMDhhMDRjZTVhNWM4NmZlOTVmZDgyODYxYzEzZjJhNTI2NWQyMDk4`

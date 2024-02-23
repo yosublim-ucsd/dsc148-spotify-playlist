@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "The perfect mix of the latest pop hits! Follow this playlist and play Polim\u00e1 Westcoast &quot;MARGIELA&quot;,Oscar Maydon, Enrique Iglesias &amp; Yotuel &quot;Fr\u00eda&quot;, Christian Nodal &amp; Peso Pluma &quot;La Intenci\u00f3n&quot; Prince Royce &amp; Gabito Ballesteros &quot;Cosas de la Peda&quot;, Shakira &amp; Fuerza Regida &quot;El Jefe&quot;",
+  "description": "The perfect mix of the latest pop hits! Follow this playlist and play Enrique Iglesias &amp; Miranda Lambert &quot;Space in My Heart&quot;,Oscar Maydon, Enrique Iglesias &amp; Yotuel &quot;Fr\u00eda&quot;, Christian Nodal &amp; Peso Pluma &quot;La Intenci\u00f3n&quot; Prince Royce &amp; Gabito Ballesteros &quot;Cosas de la Peda&quot;.",
   "name": "Pop Latin Hits",
   "tracks": [
     {
@@ -12172,6 +12172,28 @@
       "duration_ms": 185253,
       "name": "So\u00f1arte",
       "url": "https://open.spotify.com/track/1UJbPo4QxQPrteYZdNY00H"
+    },
+    {
+      "album": {
+        "name": "Space in My Heart",
+        "url": "https://open.spotify.com/album/7CATUcNzHCmx3vsOETqKM9"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178849,
+      "name": "Space in My Heart",
+      "url": "https://open.spotify.com/track/4vMI6s3uwWcxcAqVoXkATn"
     },
     {
       "album": {

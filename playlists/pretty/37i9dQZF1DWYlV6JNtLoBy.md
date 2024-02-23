@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlV6JNtLoBy.md) - [plain]
 
 > Gospel music from across East Africa
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,613 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,618 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlV6JNtLoBy.md) - [plain]
 | 49 | [Sing Hallelujah \(with Natalie Grant\) \- Live](https://open.spotify.com/track/0LPrib5LGVzGhnrM6J8kl9) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Cover The Earth \(Live In New York\)](https://open.spotify.com/album/0n1rSUSza9mlKU1g6xD9l9) | 8:24 |
 | 50 | [All My Worst Ideas](https://open.spotify.com/track/3vFUf6MhUxiy1YtjvxUaV3) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [All My Worst Ideas](https://open.spotify.com/album/4mKxxoVswgNNEp3pCOyiZ2) | 4:33 |
 
-Snapshot ID: `MCw1ODAzYjJhMzdiMDYzZDNmN2E2MTk2MTM2ODMwNjRmZGIzOGM1ZGFj`
+Snapshot ID: `MCw2NDM1YmEzNDBlM2U3ZDNhMjMzNDNhNDRkMTgzNDI5MjA5NjZiZTg2`

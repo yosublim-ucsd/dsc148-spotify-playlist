@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 126484,
+  "num_followers": 126488,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDU3NSxjNzNhOGYyOTM2ZTg3NzVjNTMwMzNmMDNiODcyYjM3YmVjMjA2MDQ4",
+  "snapshot_id": "NDU3OCxjNTg3ZjYzMjk3ZGEwNTg2MTMwMDJmMzQ3NjY3ZTBlMWU4ZDk1ODVk",
   "tracks": [
+    {
+      "added_at": "2024-02-22 18:05:04",
+      "album": {
+        "name": "Don't Wanna Know",
+        "url": "https://open.spotify.com/album/5iAqHK3ZuBqgcXaIDNCEjl"
+      },
+      "artists": [
+        {
+          "name": "Ryan Case",
+          "url": "https://open.spotify.com/artist/2MCUmcEXeY80S0aSucQsXn"
+        },
+        {
+          "name": "Jake Neumar",
+          "url": "https://open.spotify.com/artist/69weKTfYYEBofMntV36KPG"
+        }
+      ],
+      "duration_ms": 165714,
+      "name": "Don't Wanna Know",
+      "url": "https://open.spotify.com/track/1OSrkd1JuVQXQJaGE5joFY"
+    },
     {
       "added_at": "2024-02-21 17:54:01",
       "album": {
@@ -1139,22 +1159,6 @@
       "duration_ms": 228800,
       "name": "Fall Apart - GHENGAR Remix",
       "url": "https://open.spotify.com/track/5iL0iMVwZVVfi3VxlVzf1A"
-    },
-    {
-      "added_at": "2023-11-10 15:01:10",
-      "album": {
-        "name": "MACHINE",
-        "url": "https://open.spotify.com/album/34ZXvS2vUviORekLOh9qPA"
-      },
-      "artists": [
-        {
-          "name": "F.O.O.L",
-          "url": "https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Machine",
-      "url": "https://open.spotify.com/track/4yDWW2wokaaPrFBAE1qUAx"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

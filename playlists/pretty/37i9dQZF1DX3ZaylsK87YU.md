@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 
 > Discover this set of songs that define modern hymns for and beyond the church\.  Cover artist: Phil Wickham
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,988 likes - 100 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,009 likes - 100 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 | 99 | [Doxology \(feat\. Selah\)](https://open.spotify.com/track/7L5YVihzHRC89rIBknxRDP) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ), [Selah](https://open.spotify.com/artist/4vIAVzn13AlgdefGyXxlrI) | [Hymns](https://open.spotify.com/album/5BjcLlthKNZxElwEFd7sjc) | 2:04 |
 | 100 | [Be Still My Soul](https://open.spotify.com/track/6pnT1MuK6JLYW9HY5fKxVw) | [Jadon Lavik](https://open.spotify.com/artist/4LIG4IMVuzGJjAhMxXtll1) | [Roots Run Deeper](https://open.spotify.com/album/6Pcu1C4dXMinzA7AoQa83v) | 4:42 |
 
-Snapshot ID: `MCwyOTMzMDNlMTUwOTUwOTg3YmViYzBmNDQ2MmFiNTU0MzAwYWFiODAw`
+Snapshot ID: `MCwyNzM4OTk0NGE4Y2Q0ODBkN2VmMmRmY2RmODVhOTI4OWQ3NTEzZTU1`

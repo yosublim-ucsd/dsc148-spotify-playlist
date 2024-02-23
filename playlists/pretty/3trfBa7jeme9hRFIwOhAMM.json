@@ -1,13 +1,29 @@
 {
   "description": "bringing you all things house!! follow me on tour <a href=\"http://www.instagram.com/curbi\">here</a> and don't forget to <a href=\"https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT\">follow my artist profile</a>..",
-  "num_followers": 4204,
+  "num_followers": 4206,
   "original_name": "ALL THINGS HOUSE - CURBI PRESENTS",
   "owner": {
     "name": "Curbi",
     "url": "https://open.spotify.com/user/curbimusic"
   },
-  "snapshot_id": "MTU3NSw4NWIzYTkzMmIxNmNkZjEyMWQ1ODhmODVjODAzNGE0MDRjMzQwZDE3",
+  "snapshot_id": "MTU3Nyw4NzUxNTNkZmRjYzAzYWEzOTExMDViM2FlN2U3NWU5NTU0ZmExNDBi",
   "tracks": [
+    {
+      "added_at": "2024-02-22 23:08:05",
+      "album": {
+        "name": "East Bounce",
+        "url": "https://open.spotify.com/album/5Hwfv9dfENIQ1RJ7PzB5cL"
+      },
+      "artists": [
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        }
+      ],
+      "duration_ms": 229438,
+      "name": "East Bounce",
+      "url": "https://open.spotify.com/track/6RwZ2HhlgX1MDo3l5ek0a4"
+    },
     {
       "added_at": "2024-02-16 19:31:42",
       "album": {

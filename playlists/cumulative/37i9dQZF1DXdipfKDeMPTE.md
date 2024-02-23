@@ -4,7 +4,7 @@
 
 > Smooth beats for sleepless nights.
 
-582 songs - 22 hr 3 min
+585 songs - 22 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Cloud Forest](https://open.spotify.com/track/706cJyM8Qzk9nSBWqdgsTg) | [Nitta' Gritta'](https://open.spotify.com/artist/55psXqpj00WvVubriLCEet) | [Cloud Forest](https://open.spotify.com/album/2XC5mBmoAx2ts6V62NsmCp) | 2:40 | 2022-05-20 | 2022-07-08 |
 | [Cloud Surfing](https://open.spotify.com/track/6iTEM8WzzFkRkmgO7r5JUL) | [Kid Kio](https://open.spotify.com/artist/5Y2wHchGaDlDsk9FPC0YSE), [Azido 88](https://open.spotify.com/artist/36Hfqd2C0x7oulFJTAuIt0) | [Cloud Surfing](https://open.spotify.com/album/5KyFDwjz3hxtoJDBnjsBb0) | 1:41 | 2022-05-20 | 2022-07-28 |
 | [Cloudy Daze](https://open.spotify.com/track/2fNcvNQROEwslviciOWQ6G) | [Blackburri](https://open.spotify.com/artist/5FcsuAQwO56qMIZTFei6x1) | [Cloudy Daze](https://open.spotify.com/album/0MfuxNdYR6sVbgdoB4Bz4m) | 3:35 | 2022-05-20 | 2023-01-18 |
+| [coconut](https://open.spotify.com/track/4VLf2JAtJmzHaKvA8mOlmu) | [Ali Kaj](https://open.spotify.com/artist/06VNBq9wJN4eEo6ZRM7HGI) | [coconut](https://open.spotify.com/album/1uqMqtvFq5jns7j9kZPvKd) | 2:50 | 2024-02-23 |  |
 | [Coffee Break](https://open.spotify.com/track/23UKeemGHRBC176rqCdXFf) | [gsky.](https://open.spotify.com/artist/2eOqRtl9EiC51P6KiUtIV3) | [Coffee Break](https://open.spotify.com/album/1sSjxVFT7qGDpAXtvsIwzc) | 2:25 | 2022-06-24 | 2022-08-12 |
 | [Coffee Shop](https://open.spotify.com/track/43IS06oECXtadEuFCuqDiX) | [ax am](https://open.spotify.com/artist/1aYBi1snyye9aYO5Vs3OTO) | [Coffee Shop](https://open.spotify.com/album/7iK96zBOzUB8ROy0qcMSvy) | 2:15 | 2023-11-17 |  |
 | [Cold Pillows](https://open.spotify.com/track/6a3UWWhZheDHZMi8hBLKgn) | [Tailwinds](https://open.spotify.com/artist/6W50Jtaz33gA5opvEA0q0g) | [Softer](https://open.spotify.com/album/1WvWdv5jyAbPHwEgT7nfbf) | 3:20 | 2022-05-20 | 2022-07-28 |
@@ -472,6 +473,7 @@
 | [Slack\-jawed](https://open.spotify.com/track/3FXTVPlMP7FfGOafCOk3Cc) | [Lowely](https://open.spotify.com/artist/1E7U9zav6CjfcRuD5UEG8e) | [Slack\-jawed](https://open.spotify.com/album/6TxO2cqvIqROVKsBX6OxrK) | 2:09 | 2023-09-22 |  |
 | [Sleep Under My Eyes](https://open.spotify.com/track/0L6QuUvDYVgsfOcYj8lxoV) | [Harvest Emotions](https://open.spotify.com/artist/53JNLKdwnvLY8F2tA6T22K) | [Sleep Under My Eyes](https://open.spotify.com/album/0sByeL0c5ykkHDdQNVj6wz) | 2:18 | 2024-01-12 |  |
 | [Sleeping City](https://open.spotify.com/track/2sdtHbNOJLXgOXpE77UzSq) | [Joe Lee Noire](https://open.spotify.com/artist/5c9fBAFhEu0crejR4zKumg) | [Sleeping City](https://open.spotify.com/album/6Uz5giO3HlABh2J37WQEoW) | 2:59 | 2022-05-20 | 2022-10-14 |
+| [sleeping in blue](https://open.spotify.com/track/0srSSGUqTQ3ZA6iwQ0WD2a) | [blank maxxymus](https://open.spotify.com/artist/0h8hl2SvfzyyxBQEkuu99K) | [sleeping in blue](https://open.spotify.com/album/2wCwYWAyDVMqAJGskFMEJL) | 2:27 | 2024-02-23 |  |
 | [sleepy hat](https://open.spotify.com/track/6weHje3zmObTuMqPaTBxD7) | [Blue Bag](https://open.spotify.com/artist/4rtwUGOQwVUZGAlQYh02ar) | [sleepy hat](https://open.spotify.com/album/4aDtOBTxMRwi40T8b4IHUZ) | 2:48 | 2023-09-08 |  |
 | [Sloane](https://open.spotify.com/track/1fbANcHGIX2fCXtKev0pMA) | [Julia Groves](https://open.spotify.com/artist/2kobiVcFE5QbsUbkxkrFq3) | [Sloane](https://open.spotify.com/album/6MFvfBN3PKYApyt3Te04tv) | 2:13 | 2022-05-20 | 2023-01-18 |
 | [Slowly](https://open.spotify.com/track/43ehM7IHlff5bePm8hhoe5) | [Codewav](https://open.spotify.com/artist/1Mbu0fBSAzxejpvhss6A5B) | [Slowly](https://open.spotify.com/album/4UG7u3Cw7Kc98D27Mhb4T4) | 2:14 | 2022-08-12 | 2023-09-26 |
@@ -492,6 +494,7 @@
 | [spinal chords](https://open.spotify.com/track/0SPakj2sm0Q3oJ4rEj9Jhi) | [fontatron](https://open.spotify.com/artist/5rwl3ry7Yx0YuONcyezg4d) | [spinal chords](https://open.spotify.com/album/2I5Tv05AQHsYQc8EAuD48x) | 2:15 | 2023-09-08 |  |
 | [Spirit](https://open.spotify.com/track/66BQmLa9Q9pRHtmclk4Zs7) | [Joi Casette](https://open.spotify.com/artist/00HEKt0f42LmgnoabKX3Ok) | [Spirit](https://open.spotify.com/album/0wufxbr8xixVOlniDC2XSl) | 2:01 | 2022-05-20 | 2023-01-18 |
 | [Spoon fed](https://open.spotify.com/track/6T8akIF5ID2SaLx1P4TMFK) | [the origame](https://open.spotify.com/artist/5bwZ4wl2VdB4nTzIvbVtgh) | [Spoon fed](https://open.spotify.com/album/0CmQYCP33z0RT9EV19z7dS) | 2:13 | 2022-05-20 | 2022-09-17 |
+| [spread out](https://open.spotify.com/track/2Wr3VVcV6WmB3JdGFMmqIr) | [Tween City](https://open.spotify.com/artist/0tVWLGanEa906nosw2Uu9p) | [spread out](https://open.spotify.com/album/5W5P2b2DhGyr68xz44jqFu) | 1:29 | 2024-02-23 |  |
 | [Spring](https://open.spotify.com/track/6cJfHtuwlYUWGjTOX043nO) | [Kid Tarô](https://open.spotify.com/artist/5XD1vyL8naPVq2dvjetpiT) | [Spring](https://open.spotify.com/album/7kFlSTK73VozCSMqFrgViG) | 2:04 | 2023-03-27 | 2023-09-26 |
 | [STAY](https://open.spotify.com/track/4AkYE76Uj7dKOxMIwhAvzM) | [Orihusay](https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm) | [STAY](https://open.spotify.com/album/59JQndLzvvgsUofRCI9AFz) | 2:28 | 2022-09-30 |  |
 | [Stay On the Couch](https://open.spotify.com/track/4GbNa88PqcIrsAfKcxV2SF) | [Govii](https://open.spotify.com/artist/2rVT5Vmfp9tvqtvAQU0r4f) | [Get A Grip](https://open.spotify.com/album/0PJtdZKqdrQXJmhjZmrVk6) | 2:22 | 2022-06-10 | 2022-09-09 |

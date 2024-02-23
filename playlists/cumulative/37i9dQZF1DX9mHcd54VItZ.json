@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best classic and new sounds from South African Rock. Cover: <a href=\"https://open.spotify.com/artist/4FvIuLbPat5vSttuzmM7VE?si=JGUrPgDPS06jZsY-1v2IvQ\">VOLK</a>",
+  "description": "The best classic and new sounds from South African Rock. Cover: <a href=\"https://open.spotify.com/artist/45Ahb3Z1t6yHM2F2gFrAtx?si=5n4wUgkkQWSISsvTzBbXRg\">Wonderboom</a>",
   "name": "SA Rock ",
   "tracks": [
     {
@@ -906,7 +906,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 289000,
       "name": "Blues Truth",
       "url": "https://open.spotify.com/track/3oNXo7kZWYKaPHZrw1mQtQ"
@@ -3100,7 +3100,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 195000,
       "name": "Hard As A Rock",
       "url": "https://open.spotify.com/track/2WC1YAcc7PW6N9pT8Z286K"
@@ -4855,6 +4855,24 @@
     },
     {
       "album": {
+        "name": "My Name Is Freedom",
+        "url": "https://open.spotify.com/album/1JG8bied0mmLZIxrhNYrk4"
+      },
+      "artists": [
+        {
+          "name": "Wonderboom",
+          "url": "https://open.spotify.com/artist/45Ahb3Z1t6yHM2F2gFrAtx"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222957,
+      "name": "My Name Is Freedom",
+      "url": "https://open.spotify.com/track/6WvHk5ZGK8p945lHPjRpWt"
+    },
+    {
+      "album": {
         "name": "My Obsession",
         "url": "https://open.spotify.com/album/2k9v4WSCMwJZH2bmawDQZE"
       },
@@ -5277,6 +5295,24 @@
     },
     {
       "album": {
+        "name": "Friendly Neighbourhood Conspiracies",
+        "url": "https://open.spotify.com/album/092gJ1XwRQ1NgJXouE7h2j"
+      },
+      "artists": [
+        {
+          "name": "The Govt.",
+          "url": "https://open.spotify.com/artist/2UJWWvf4gRNfPzfrvO1VU9"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Out In The Open",
+      "url": "https://open.spotify.com/track/0zG0Pb5Iqk4k85w1gCTKpl"
+    },
+    {
+      "album": {
         "name": "Outcasts",
         "url": "https://open.spotify.com/album/1WJEMPcD7KGqkJrSzmgTdD"
       },
@@ -5426,6 +5462,24 @@
       "duration_ms": 219640,
       "name": "Partners in Crime",
       "url": "https://open.spotify.com/track/0nwyYEJoZAhx1lkj0C95Qs"
+    },
+    {
+      "album": {
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/7aLOnvf1S2TJ3Zr9R0QWeN"
+      },
+      "artists": [
+        {
+          "name": "We Kill Cowboys",
+          "url": "https://open.spotify.com/artist/2M7xonKOedqLEmBlxm1U8k"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333382,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/4WhPLGHy7mVIFDx3saaYvf"
     },
     {
       "album": {

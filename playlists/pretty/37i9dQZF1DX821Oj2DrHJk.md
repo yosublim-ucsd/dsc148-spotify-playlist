@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX821Oj2DrHJk.md) - [plain]
 
 > Rock that was on repeat during the summers of the 1970s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,925 likes - 100 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,928 likes - 100 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX821Oj2DrHJk.md) - [plain]
 | 99 | [Down the Dustpipe](https://open.spotify.com/track/0FG6V5ufEXCJSC1WwiX4Fh) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [Down the Dustpipe](https://open.spotify.com/album/6uZDQxyMSEQ9kWFVjAaHl3) | 2:03 |
 | 100 | [Get Down and Get With It](https://open.spotify.com/track/695BFlNXbcnMGV9w0o59Wy) | [Slade](https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw) | [Beginnings / Play It Loud](https://open.spotify.com/album/7MuWc0HJjW0KLE6EpxgPJM) | 3:50 |
 
-Snapshot ID: `MCw2MDhiYmVmYmY4YzE4ODE0MGI4NGY0MTljMDE2ZWIyOGY4NmVmMDRh`
+Snapshot ID: `MCw1MTI3YzU3MTdjYmU4YzIwMjhkNWRjNTRmY2I2ZTMwZTRjMWZiMmQx`

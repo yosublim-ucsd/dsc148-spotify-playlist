@@ -2,9 +2,9 @@
 
 ### [Biso Na Biso](https://open.spotify.com/playlist/37i9dQZF1DX8d57cbyhqPM)
 
-> Du Congo, au monde\. 🌍 Photo: Jungeli
+> Du Congo, au monde\. 🌍 Photo: Gazo et Tiakola
 
-343 songs - 21 hr 14 min
+344 songs - 21 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [Malele](https://open.spotify.com/track/0huJouuP2ufEmxbTulhdXF) | [Montparnasse Musique](https://open.spotify.com/artist/3BWH21B4XctwdGhDsmNlKG), [Menga Waku](https://open.spotify.com/artist/2wuuIEeoqLCf3WqKJw2TO3) | [Archeology](https://open.spotify.com/album/6MGRxSMhxXYkB1yEqb6Z3h) | 3:56 | 2023-02-24 | 2023-03-18 |
 | [Malele](https://open.spotify.com/track/4SiRdXcs6gAfWaaGJwXvnq) | [Montparnasse Musique](https://open.spotify.com/artist/3BWH21B4XctwdGhDsmNlKG), [Menga Waku](https://open.spotify.com/artist/2wuuIEeoqLCf3WqKJw2TO3) | [Malele](https://open.spotify.com/album/0YgwuVtiEGQVpf4V8gJR2G) | 3:56 | 2022-09-23 | 2023-02-25 |
 | [Malembe](https://open.spotify.com/track/3vbx5h7ewP0FC342PIp1vV) | [Kapeta](https://open.spotify.com/artist/2lYw10lFvqp0OfB4Myn93D) | [Malembe](https://open.spotify.com/album/4snIDrzUugLqPucrFOHy9j) | 2:33 | 2023-11-17 | 2023-12-16 |
+| [MAMI WATA](https://open.spotify.com/track/6yqwxY8qifBBhyryjZutxk) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [LA MELO EST GANGX](https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1) | 3:53 | 2024-02-22 |  |
 | [Mapessa \(feat\. Tiakola\)](https://open.spotify.com/track/4QAv7uyOwIgqOVgzczomOo) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [17%](https://open.spotify.com/album/0opPqJa8MofqpFXI7Eti8z) | 2:48 | 2023-03-17 |  |
 | [Matete](https://open.spotify.com/track/5wp41PrAJyoA6PYfraw98Z) | [Pesa Bazz](https://open.spotify.com/artist/7sfM6kdJfYgKZg9L8TTdpp) | [Matete](https://open.spotify.com/album/2AIFNlOYysG3HqYjHnxaMd) | 3:53 | 2022-08-19 | 2022-11-12 |
 | [Maziwa](https://open.spotify.com/track/09IfxlKqPL33hhPTfO6wfO) | [Dj Matoss](https://open.spotify.com/artist/5V7OH7SY4AhOaJ0zywxqls), [Dj Seven](https://open.spotify.com/artist/06XWI4mzXrPtvdLmzfIAtN), [Agressivo Nyandoro](https://open.spotify.com/artist/0k7lo30w58OXmYZGVbjCyx), [The Tozobar](https://open.spotify.com/artist/1agHGqi4DsPAGzDHQUOvKg) | [Maziwa](https://open.spotify.com/album/7wqLvH7cLXKw0YnVUoNyfz) | 3:13 | 2023-08-25 |  |
@@ -304,7 +305,7 @@
 | [Temps Eza Te](https://open.spotify.com/track/2I4MIsNTZQQP8tQuVx4RWJ) | [Mc\-cool Anguzo](https://open.spotify.com/artist/70mPeHdPgAIeOYhjL8xtBr) | [Temps Eza Te](https://open.spotify.com/album/6KKWHY1r95yu3VQYrsjVwI) | 3:31 | 2023-02-10 | 2023-03-18 |
 | [Terminator](https://open.spotify.com/track/7fzjepyW5Hdsk3MUqoNNs0) | [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W), [Koffi Olomide](https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb) | [Terminator](https://open.spotify.com/album/4rlPB2WMMA6uSGOVtr7DA8) | 3:02 | 2023-09-29 | 2023-12-02 |
 | [Tibo Tisipa](https://open.spotify.com/track/74M1wN8Zv3mVZehAARrsU2) | [Moonshine](https://open.spotify.com/artist/6uZcG9ex8hJKEo3XUyMxEX), [MC RedBul](https://open.spotify.com/artist/64QR3VB1Lc0fkVR9FSc6q7) | [SMS for Location, Vol\. 4](https://open.spotify.com/album/6wTdl91po1VgHgLsFa6YJk) | 3:02 | 2022-06-30 | 2022-12-03 |
-| [TIELA NGA NA SE](https://open.spotify.com/track/0DCp7DhfRd5Mh3uD7yuyHz) | [Ferre Gola](https://open.spotify.com/artist/0is7KJiz3t87LiJWUO1tNI) | [TIELA NGA NA SE](https://open.spotify.com/album/35uWhaNeF8PnMTOb3eg9wU) | 4:28 | 2023-10-20 |  |
+| [TIELA NGA NA SE](https://open.spotify.com/track/0DCp7DhfRd5Mh3uD7yuyHz) | [Ferre Gola](https://open.spotify.com/artist/0is7KJiz3t87LiJWUO1tNI) | [TIELA NGA NA SE](https://open.spotify.com/album/35uWhaNeF8PnMTOb3eg9wU) | 4:28 | 2023-10-20 | 2024-02-23 |
 | [Tikanga](https://open.spotify.com/track/6zZeCUzW9Aa6Gh1ogxSByj) | [Lady Aicha & Pisko Cranes Original Fulu Mziki of Kinsasha](https://open.spotify.com/artist/5oxIilD2a6k8dOoKEetWnt) | [N'Djila Wa Mudjimu](https://open.spotify.com/album/3h9hONYG9Ahpw10nqgp21y) | 6:28 | 2022-10-21 | 2022-11-19 |
 | [Tingama](https://open.spotify.com/track/4cz3p3yWjKNOrYTTXaTizs) | [Jeyyyh](https://open.spotify.com/artist/2KBhvUkyuomSbcfkUwozOP) | [Tingama](https://open.spotify.com/album/7wCs42r00RvLckfr6wx652) | 2:32 | 2022-12-16 | 2023-02-11 |
 | [Tlb](https://open.spotify.com/track/5MbgvVfSVON5bRng2iuboW) | [JDL](https://open.spotify.com/artist/3aSOqB03AcdniBDFyhaQBq) | [Tlb](https://open.spotify.com/album/4xKh0zkc1agvKgK3bIgLyT) | 2:41 | 2022-08-12 | 2023-01-28 |

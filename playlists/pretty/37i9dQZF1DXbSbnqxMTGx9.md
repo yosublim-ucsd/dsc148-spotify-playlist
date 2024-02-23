@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 
 > The ultimate reggae playlist\. Cover: Bob Marley
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,848,900 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,849,621 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 99 | [Artibella](https://open.spotify.com/track/0vnzp4WlA4giLm9anau8VS) | [Ken Boothe](https://open.spotify.com/artist/6jg1EbpTL27toPdfzveorJ) | [Who Gets Your Love](https://open.spotify.com/album/0fSvh9zLAMyooFqcqXLdXB) | 2:20 |
 | 100 | [Revolution](https://open.spotify.com/track/1nsEptcDye2MUjMJQ1N5Rh) | [Dennis Brown](https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F) | [Reggae Anthology: Dennis Brown \- Crown Prince of Reggae \- Singles \(1972\-1985\)](https://open.spotify.com/album/1ZckZ1ISksO8vqrbQn3cic) | 4:19 |
 
-Snapshot ID: `MCw1ZjFiY2EwYTA2NzAzMmE3M2VmYjljMmUyZjJiNzZiY2M2NDlmNjMx`
+Snapshot ID: `MCwxZmFlODA1ZGU0MDFjZDA1NzI5Yjc3NzdkNTQ0OWJiZDdhMDhhNjI0`

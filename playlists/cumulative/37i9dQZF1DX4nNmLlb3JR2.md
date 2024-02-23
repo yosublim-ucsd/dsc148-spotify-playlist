@@ -4,7 +4,7 @@
 
 > A fresh lofi spin on your favourite tunes and old songs you love.
 
-227 songs - 9 hr 7 min
+230 songs - 9 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Over the Rainbow](https://open.spotify.com/track/2IUPDUYvCheRPFysucHbly) | [Gal Dahan](https://open.spotify.com/artist/21x9QjLzTIpMonjnMzVvQB), [Ezraz](https://open.spotify.com/artist/63DrGLldYLdFyqmDsy1m2S) | [Over the Rainbow](https://open.spotify.com/album/235KsaDxGDS2kDLYak6Ihu) | 1:33 | 2022-09-02 |  |
 | [Passionfruit](https://open.spotify.com/track/0lGVhF1yGIMzOYYanlfSQo) | [DJ Garlik](https://open.spotify.com/artist/0N2on1pgu8mv01ch9Cs9XF), [Noomz](https://open.spotify.com/artist/2W85Y3jKObrtjjsa2o7dg6) | [Passionfruit](https://open.spotify.com/album/0ro0b0rRbVi7FwtURUcT9Y) | 2:35 | 2022-09-30 |  |
 | [Peaches](https://open.spotify.com/track/2qNufl6qhnYfzWxLmMaCNy) | [connectEcut](https://open.spotify.com/artist/2TQBOHcwPCSpMwkwIBTcgs) | [Peaches](https://open.spotify.com/album/6ere9gKBqXlOjP8kUvAFGc) | 2:21 | 2022-10-28 |  |
+| [People](https://open.spotify.com/track/72pbzbidr1Myqlrlljbc0P) | [YorBeatz](https://open.spotify.com/artist/7IOCjf2dqm6jzhCAUAX4uR) | [People](https://open.spotify.com/album/5RzZtpQnvVerJZPs9OBpzG) | 2:40 | 2024-02-23 |  |
 | [Pieces Of U](https://open.spotify.com/track/464gT9Omrj2KAnQvchtVoS) | [J\. Lorenzo](https://open.spotify.com/artist/1znEpSLL4247fcHcMICTgN) | [Pieces Of U](https://open.spotify.com/album/2SJC9QOnplYH3L416wPkf8) | 2:01 | 2023-06-09 | 2023-09-08 |
 | [Pink + White](https://open.spotify.com/track/5Sg2yJFvLWaUoBoxSNUSlE) | [LAV8](https://open.spotify.com/artist/0n0N8rkm96ulhvOxNu6zK5) | [Covers Collection \(Vol\. 4\)](https://open.spotify.com/album/2VJHjsmXACarvKY0qhP404) | 3:19 | 2022-09-16 |  |
 | [Pink Venom \(lofi edit\)](https://open.spotify.com/track/16ihKUs4sLMPRShfWUJRFN) | [The Remix Station](https://open.spotify.com/artist/4JAIvx8vd1sMssmNTcwnPX), [로피 뮤직](https://open.spotify.com/artist/61vcj63GgHNdPDliis1tB6) | [Pink Venom \(lofi edit\)](https://open.spotify.com/album/4lua14MzXUzXQUJ9fuAkdT) | 1:45 | 2022-10-28 | 2023-12-14 |
@@ -170,6 +171,7 @@
 | [Save Your Tears](https://open.spotify.com/track/2yoNY32JruGk2kCx04GZo3) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Save Your Tears](https://open.spotify.com/album/6tPYTNx6QpdWg8ytSlDEe0) | 5:20 | 2023-08-21 |  |
 | [Say You Won't Let Go](https://open.spotify.com/track/4fB0z2PbEvhlElpRnJhPLn) | [Pacific](https://open.spotify.com/artist/5WLsGgfxV206tL7KD41Ft1) | [Say You Won't Let Go](https://open.spotify.com/album/5a9FR1GRQ9AkNDVxafIOIq) | 2:08 | 2022-10-14 |  |
 | [See You Again](https://open.spotify.com/track/11c2RqFZfpq8Z6vxBfMDzk) | [T.R.I.C.K](https://open.spotify.com/artist/4h6veOIcgL56r2sY3razZa) | [See You Again](https://open.spotify.com/album/5poY8hpoc3zoqMaQcVZnkg) | 2:09 | 2022-10-28 |  |
+| [September Song](https://open.spotify.com/track/3fIL4EOwPzq5CLNK77KxPu) | [YorBeatz](https://open.spotify.com/artist/7IOCjf2dqm6jzhCAUAX4uR) | [September Song](https://open.spotify.com/album/2F9MuBULDQPTS2FmRkDC3E) | 2:52 | 2024-02-23 |  |
 | [Señorita](https://open.spotify.com/track/2OM7Asq8WtmCuWLDuaUphc) | [ohlos](https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC) | [Intentions](https://open.spotify.com/album/3rThcXs5nBUVBeA3yiAg2x) | 2:46 | 2022-11-11 | 2024-01-19 |
 | [Señorita \- Lofi Version](https://open.spotify.com/track/7I5XnynJdATTg8Uh0m3FB7) | [Covers Unplugged](https://open.spotify.com/artist/7nh5TZodhwFh0CkAIFDDxl) | [Lo\-Fi Jams, Vol\. 1](https://open.spotify.com/album/3Oj5XMU3IIbjJiDbteFAEp) | 1:30 | 2022-09-02 | 2022-09-30 |
 | [Shake It Off](https://open.spotify.com/track/5mpaiD7zJyfeWOhEvLoJms) | [Chill With Lofi](https://open.spotify.com/artist/7CHCHpUzDDPRElNiZYmcbI), [Cidus](https://open.spotify.com/artist/4hHO8tDVAyaTdDKl3R12WH), [Emil Lonam](https://open.spotify.com/artist/0eJbpPFhB19EvgEmYBIwLG) | [Shake It Off](https://open.spotify.com/album/4ot3lr24HZ3DmCwnnCvshY) | 1:15 | 2022-09-02 | 2023-10-19 |
@@ -225,6 +227,7 @@
 | [Wish You Were Here](https://open.spotify.com/track/5kr227jZLwUeZCDMU4JT1d) | [Fletcher Reed](https://open.spotify.com/artist/2sQKM93VxtEcafQ1f1ukgl) | [Wish You Were Here](https://open.spotify.com/album/18SIXuoraTIBZdMy4jPVPD) | 2:57 | 2022-09-02 | 2023-10-05 |
 | [Wonderwall](https://open.spotify.com/track/6GtjKPUoHi5CronjJabgNx) | [Aurora 10](https://open.spotify.com/artist/7ztuxOIQFdrMJ8pCpopMeK) | [Wonderwall](https://open.spotify.com/album/0lWMhwtR0GBhMopl6Acixa) | 3:03 | 2023-11-17 |  |
 | [wrecking ball](https://open.spotify.com/track/36jFRBBQIUbLxc7LRmGfir) | [Reggie Lume](https://open.spotify.com/artist/6wQTCO5DGk8vkOA0p514km) | [wrecking ball](https://open.spotify.com/album/2bByu5g7BkxtCO69Qpnsib) | 1:58 | 2023-02-07 |  |
+| [Yellow \- Lo\-Fi](https://open.spotify.com/track/1YN98svRQo1ghA4WVuzPUi) | [yoshi the brilliant](https://open.spotify.com/artist/6k8AnK3Kuk6fv1AQu0IGBJ) | [Yellow & The Scientist \(Lo\-Fi\)](https://open.spotify.com/album/7CiuiRXNH5oVv3gUThOHuY) | 4:18 | 2024-02-23 |  |
 | [you can't hurry love](https://open.spotify.com/track/48BI0SejPrf5XPKJQZFUuR) | [Miller Jones](https://open.spotify.com/artist/510OvGYbABEpEGZBCnL8Yd) | [you can't hurry love](https://open.spotify.com/album/6orhcxTbRoX9GUUXh855d2) | 2:11 | 2023-08-28 |  |
 | [You Oughta Know](https://open.spotify.com/track/1wy11OtTLB78IcBoDrPP9W) | [Yoga Beats](https://open.spotify.com/artist/0YgFSc6eJJRhhgDnTdifyt), [Cameron Ford](https://open.spotify.com/artist/2Epdw19iNTn6Wv4YV29h9y) | [Jagged Little Chill](https://open.spotify.com/album/4WcB9SSwOI0DgKp2OJ6oFz) | 3:33 | 2022-10-07 |  |
 | [You Remind Me](https://open.spotify.com/track/1fPdjrtSgTZKZnRgLWoZv9) | [Cove\-Red](https://open.spotify.com/artist/5hA7qIuiBOCQ00KHKrIhEX) | [You Remind Me](https://open.spotify.com/album/5qZFI54oVdsH0fJhfI29e3) | 2:20 | 2023-12-08 |  |

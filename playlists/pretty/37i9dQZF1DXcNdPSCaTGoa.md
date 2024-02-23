@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 
 > Mzansi's musical wealth and heritage in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,296 likes - 60 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,353 likes - 60 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 | 59 | [Y\-Tjukuja](https://open.spotify.com/track/2V63tXAalMiOveSc3pRLJp) | [Uhuru](https://open.spotify.com/artist/55Q9iFoAZojfxnIvg6lDb2), [Professor](https://open.spotify.com/artist/3d1I45VCwwwQ6Qi53vKAHt), [OSKIDO](https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R), [DJ Bucks](https://open.spotify.com/artist/541TdTVsd11rQV6CLPiB4J) | [Our Father](https://open.spotify.com/album/1dI9dADANjMtU5qfwkjbzc) | 5:10 |
 | 60 | [Palafala \(feat\. S'bu\)](https://open.spotify.com/track/3tAVyo7TeXRoSEDkl2qT1k) | [TKZEE](https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi), [S'bu](https://open.spotify.com/artist/2ewhd7uWaZplwMtqKpevwd) | [Guz Hits](https://open.spotify.com/album/305izURXDMmcRRwR8INvWY) | 5:15 |
 
-Snapshot ID: `MCw1ODY2Mzk3YjVjODI0YTQzZjc1MTJlZGZmZDAwZDA1Y2FkYzExZTg4`
+Snapshot ID: `MCw4NDE0OTg0MWZmM2RkZDZlYTQ1YWIxNDdhMzhmMDE0NGZhNTFiOTRh`

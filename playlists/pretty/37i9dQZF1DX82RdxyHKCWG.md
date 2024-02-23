@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82RdxyHKCWG.md) - [plain]
 
 > Tudo de novo que tá rolando no pop! Atualizada toda semana ✨ Foto: Lil Nas X
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,218 likes - 80 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,220 likes - 80 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82RdxyHKCWG.md) - [plain]
 | 79 | [Enough](https://open.spotify.com/track/2TwdK6m9dTg2L8oKhZC7ZD) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Enough](https://open.spotify.com/album/5oa7QL92n6HXfKY1dlz5qu) | 3:00 |
 | 80 | [The Glass](https://open.spotify.com/track/1Wm507fKIw4Un8x11ucO1W) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Glass](https://open.spotify.com/album/1ytv4k4Yiz5XupOA1Tbgjm) | 3:31 |
 
-Snapshot ID: `MCw1NTE0MGIwZmYzNmMyNTlmMWYyZjA5YTE3NTA4YWJkMWFjN2VjMzE0`
+Snapshot ID: `MCxjMTM2MjYwMmUzZDkxYzQ1NTE1ZWI2M2MzZTcwN2FjN2E1ZmZlM2Zm`

@@ -4,7 +4,7 @@
 
 > Listen to the women of Au & NZ at full volume! Cover: Jessica Mauboy
 
-559 songs - 1 day 6 hr 0 min
+560 songs - 1 day 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,8 @@
 | [Changes](https://open.spotify.com/track/13CoTwU7uuvbnCfejIhH7n) | [Amila](https://open.spotify.com/artist/1aov4dgX0qVZVjIseA9LCh), [Rhys Rich](https://open.spotify.com/artist/5NUjwOnA599cEmrIpSSw7d) | [Changes](https://open.spotify.com/album/29MhV870Wmh41zik9fFSZK) | 3:07 | 2023-06-30 |  |
 | [Changes](https://open.spotify.com/track/6VwmVpxjMhyNf8gosbY5fd) | [Jem Cassar\-Daley](https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j) | [Changes](https://open.spotify.com/album/5SJsyve81sqsW5NeGOWtyK) | 3:23 | 2022-02-03 | 2022-05-28 |
 | [Cheating on Myself](https://open.spotify.com/track/4pR70cMgLgsH2Y4WjWhbIH) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Cheating on Myself](https://open.spotify.com/album/2BBJcoBveE93eqIOXLt7qc) | 2:53 | 2023-02-28 | 2024-01-18 |
-| [Chloe Enough!](https://open.spotify.com/track/0so9O4kW2iUyDjflqDxA18) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Chloe Enough!](https://open.spotify.com/album/0xaOEgweHb5N05ZtJTxUsj) | 2:30 | 2024-02-14 |  |
+| [Chloe Enough!](https://open.spotify.com/track/0so9O4kW2iUyDjflqDxA18) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Chloe Enough!](https://open.spotify.com/album/0xaOEgweHb5N05ZtJTxUsj) | 2:30 | 2024-02-14 | 2024-02-23 |
+| [Chloe Enough!](https://open.spotify.com/track/39rW3vGtDSCM889izxIkiu) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Chloe Enough!](https://open.spotify.com/album/1YUeCffXlEbbVzSWzGzpaP) | 2:30 | 2024-02-14 |  |
 | [Clique](https://open.spotify.com/track/4NbG4RBZ3MBPznYgftjiOp) | [KYE](https://open.spotify.com/artist/7aD0vAhYP5JsPQPgrd76bp) | [Clique](https://open.spotify.com/album/3C9IYfLDrQVe54E1TMbYSv) | 3:13 | 2022-11-30 | 2024-01-18 |
 | [Close](https://open.spotify.com/track/1C4hIio6r6bU54vBWv04qy) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Close](https://open.spotify.com/album/0l2Dg2ppp3ikWkOwd9xAR1) | 3:17 | 2022-02-03 | 2022-05-28 |
 | [Close Call](https://open.spotify.com/track/0wBsoyKPkxFeKbOujlRyyu) | [Greta Stanley](https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC) | [Close Call](https://open.spotify.com/album/6UyRIkeKgIehaBSoLbLx8n) | 3:24 | 2022-02-03 | 2022-04-06 |

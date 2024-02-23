@@ -4,7 +4,7 @@
 
 > The best new hip\-hop music by independent artists and labels\. Cover: Cash Cobain
 
-1,065 songs - 1 day 22 hr 16 min
+1,066 songs - 1 day 22 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -855,6 +855,7 @@
 | [Sleazy Flow](https://open.spotify.com/track/16KXRgVBoNeumVdBrWOFYf) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF) | [Sleazy Flow](https://open.spotify.com/album/4uvp5CsSTU6AMkvpFe0FyP) | 1:52 | 2022-03-16 | 2022-04-07 |
 | [Sleep It Off](https://open.spotify.com/track/6PZ3Ylsj9D8Jy85hxduUI6) | [Domani](https://open.spotify.com/artist/0uFa64czAQ5cVJa3V0PfRq) | [Sleep It Off](https://open.spotify.com/album/5p8BzYpUnJ8OMVmzJIsSn5) | 3:22 | 2023-07-12 | 2024-01-11 |
 | [Slide \(with KiDi\)](https://open.spotify.com/track/4lbXuTWvKI6Xnfnla0QRar) | [Paris Bryant](https://open.spotify.com/artist/4Ng21p92TPTkeAcXJlSB2u), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [A Trip To Paris](https://open.spotify.com/album/3Iz17W8WgENVednqfGnBSv) | 3:16 | 2022-05-18 | 2023-01-12 |
+| [Slideshow](https://open.spotify.com/track/5RZAEcZ8G4fLkR11MbB8P0) | [Levi Bloom](https://open.spotify.com/artist/4ruYOMH6odMGzBr19loIMg), [408 Darwin](https://open.spotify.com/artist/7GmjP8u0uwwAwBt3e3tmdS) | [Slideshow](https://open.spotify.com/album/6OL2rc5XTgw2yPcT91vdz3) | 2:43 | 2024-02-21 |  |
 | [Slizzard & Geekin](https://open.spotify.com/track/7IKzgb2jU2PB5MCxNt9OxA) | [Calvary Kylan](https://open.spotify.com/artist/3GJruOCHZYChqnOxMcGipy) | [Slizzard & Geekin](https://open.spotify.com/album/4akuE86sMxCbYwvSwlfaM5) | 3:24 | 2022-05-25 | 2022-07-28 |
 | [Slizzy Gods](https://open.spotify.com/track/4wVoXhYiMIZ00PSijjOma5) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Slizzy Gods](https://open.spotify.com/album/2Vp0nwE7grcgIsgbLG3ytT) | 1:34 | 2023-06-21 | 2023-07-20 |
 | [Small Town Hero](https://open.spotify.com/track/4SlGKw0aicsh5fmVKsVEU2) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn) | [Small Town Hero](https://open.spotify.com/album/7JMaVgvy39sZ61TbSwSXQg) | 2:57 | 2022-07-20 | 2022-08-11 |

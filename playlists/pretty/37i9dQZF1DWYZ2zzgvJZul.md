@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ2zzgvJZul.md) - [plain]
 
 > Éxitos del momento y lo último de artistas nuevos y consagrados\. En portada: Isla Mujeres
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,398 likes - 80 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,425 likes - 80 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ2zzgvJZul.md) - [plain]
 | 18 | [Por Un Amor](https://open.spotify.com/track/30V5WvVaHmvbKnpPm31hjr) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY), [Calexico](https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ) | [Por Un Amor / Melodrama](https://open.spotify.com/album/37hmlwEAzNfuy2KScrXA4W) | 2:49 |
 | 19 | [Decime](https://open.spotify.com/track/4GrktFU9YJBgZwDbtp45dO) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [Cocoliche Life](https://open.spotify.com/album/4gv3OhieyZEVI0bjW7tIJc) | 3:39 |
 | 20 | [Invisible](https://open.spotify.com/track/4KH1jzECxhbmwF60qh2un7) | [Mujer Cebra](https://open.spotify.com/artist/6UZQzfJ09W8Dqmr0UoU5HL) | [CLASE B](https://open.spotify.com/album/1jI8Ey2uycaiqlDy71xysm) | 3:12 |
-| 21 | [ROCK BARRIAL TIPO COUNTRY](https://open.spotify.com/track/3fA6H7qXllsOiSi7n445Dk) | [Terapia](https://open.spotify.com/artist/5sIea266s3izLKCqmH1SRk) | [ROCK BARRIAL TIPO COUNTRY](https://open.spotify.com/album/336pbkOxV2KKUif8DKWF2o) | 2:49 |
+| 21 | [ROCK BARRIAL TIPO COUNTRY](https://open.spotify.com/track/6YpJwech17LNB280HUnaWr) | [Terapia](https://open.spotify.com/artist/5sIea266s3izLKCqmH1SRk) | [PRENSADO](https://open.spotify.com/album/2tkeaVfODlKqe0lLqgARYd) | 2:49 |
 | 22 | [Cuidado](https://open.spotify.com/track/4FWInLlki1xvIHcRAbbY5c) | [Mora y los Metegoles](https://open.spotify.com/artist/3bE6MHB83GAQf8NsvmcpCX), [Dum Chica](https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX) | [Cuidado](https://open.spotify.com/album/7IyGt8wniTS7XlDf5I3yRZ) | 2:14 |
 | 23 | [Nenu](https://open.spotify.com/track/3gZeUWq9SsPO090ti2As1A) | [Higuita en Chanclas](https://open.spotify.com/artist/6KxEb5gHvWvxrplWIe6rcO) | [Nenu](https://open.spotify.com/album/2QOL5sA8SUCrzLVuTZbYgK) | 4:13 |
 | 24 | [LA WEÁ](https://open.spotify.com/track/4hy5vm3FW1Mk6S58vq6MVk) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg), [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J), [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [LA WEÁ](https://open.spotify.com/album/5JYpBK9MW7ia6Nn95jy0Nv) | 2:50 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ2zzgvJZul.md) - [plain]
 | 79 | [Justo Cuando El Mundo Apriete](https://open.spotify.com/track/6eKxlS1SsRYyzeN2Dbdek4) | [Viva Suecia](https://open.spotify.com/artist/57s0ep3eNSg81D7ZxiuHbC), [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Justo Cuando El Mundo Apriete](https://open.spotify.com/album/3YwUgJYJ1mRiWWWgzlNoII) | 4:02 |
 | 80 | [Airplane](https://open.spotify.com/track/6BVcHhEzkuVDU97bbNlJDF) | [TAPPAN](https://open.spotify.com/artist/23DnlRuTAuHrgdtWH8PU4x) | [Airplane](https://open.spotify.com/album/7CgZMHYBN6cuHilMgnaFur) | 7:24 |
 
-Snapshot ID: `MCxjZGM0NjliYWM4MDA0NjM1NjM0NTlmMjhjN2NjODQ5NjQwMjAwYzJm`
+Snapshot ID: `MCwzNjA3ZTIxODVlYjY4Y2QyMThjMGNmNWZhNzYyMTFiOGU4ZTc4MWNh`

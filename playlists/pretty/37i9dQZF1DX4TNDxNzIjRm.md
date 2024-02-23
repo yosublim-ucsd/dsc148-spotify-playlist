@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TNDxNzIjRm.md) - [plain]
 
 > Cuando el jangueo está mejor que la fiesta\. Hanging out jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,408,280 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,408,261 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TNDxNzIjRm.md) - [plain]
 | 99 | [París](https://open.spotify.com/track/3ehHqgYRzmeUi345MfHS2N) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [París](https://open.spotify.com/album/2dhk2kLdjVxWps1PW9WSTj) | 3:02 |
 | 100 | [Mi Niña](https://open.spotify.com/track/2bgcUk2A3jjKbCJ7KPquTi) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Los Legendarios](https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke) | [Mi Niña](https://open.spotify.com/album/5F7rUv9XZPAnNfeKCYkqZS) | 3:33 |
 
-Snapshot ID: `MCw3OWZiZDE3NGZmOTkzZjE5ODhkMDk3ZmU1YzRiYTFjNWNlNmZjZTI1`
+Snapshot ID: `MCxiYTNkODQ5NDBkMzhkNGI1ZmUwNTFkMTk1MDNlOWY4ZGFmN2JmYzEx`

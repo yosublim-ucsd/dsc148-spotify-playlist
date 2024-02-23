@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1eByu0.md) - [plain]
 
 > This is Aline Barros\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,176 likes - 51 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,182 likes - 51 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1eByu0.md) - [plain]
 | 17 | [Recomeçar \- Ao Vivo](https://open.spotify.com/track/0Thc7almZ2P5sHtx2AeImo) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros 20 Anos Ao Vivo](https://open.spotify.com/album/5QXDVXCZoUPslgqQ9O2JI7) | 4:12 |
 | 18 | [Deus do Impossível \(Ao Vivo em Mojave Desert\)](https://open.spotify.com/track/0hD0KWK4te47pXBRJXVbY4) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Deus do Impossível \(Ao Vivo em Mojave Desert\)](https://open.spotify.com/album/3VRNnp5f7vPHZXQ81rVj1m) | 3:29 |
 | 19 | [Ao Único](https://open.spotify.com/track/4ILBvXzE1hHidS46q6i7zO) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [O Poder do Teu Amor](https://open.spotify.com/album/2L2bJBB02c1Lfe18VLwGsL) | 4:10 |
-| 20 | [Yo Sé Quien Soy](https://open.spotify.com/track/34Ie7cr6R8Np8MighWg37q) | [Emir Sensini](https://open.spotify.com/artist/0PymX5SwKjel2b1lXRvU20), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Yo Sé Quien Soy](https://open.spotify.com/album/5M9E9nX5CYId00OAWa5pPd) | 3:59 |
-| 21 | [Jesus Cristo Basta \(Jesucristo Basta\) \- Ao Vivo](https://open.spotify.com/track/5ftGbElbGveJXoB8tgqHDH) | [Mari Borges](https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Jesus Cristo Basta \(Jesucristo Basta\) \[Ao Vivo\]](https://open.spotify.com/album/2YCQ0X6FLsq1F9B1dFV2xw) | 4:47 |
+| 20 | [Jesus Cristo Basta \(Jesucristo Basta\) \- Ao Vivo](https://open.spotify.com/track/5ftGbElbGveJXoB8tgqHDH) | [Mari Borges](https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Jesus Cristo Basta \(Jesucristo Basta\) \[Ao Vivo\]](https://open.spotify.com/album/2YCQ0X6FLsq1F9B1dFV2xw) | 4:47 |
+| 21 | [Yo Sé Quien Soy](https://open.spotify.com/track/34Ie7cr6R8Np8MighWg37q) | [Emir Sensini](https://open.spotify.com/artist/0PymX5SwKjel2b1lXRvU20), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Yo Sé Quien Soy](https://open.spotify.com/album/5M9E9nX5CYId00OAWa5pPd) | 3:59 |
 | 22 | [Autor da Vida](https://open.spotify.com/track/0G59rX2uOta2lX83SfB8Rk) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Reino](https://open.spotify.com/album/16vOvThGZLTiQf2t4m5Igi) | 4:55 |
 | 23 | [Bem Mais Que Tudo](https://open.spotify.com/track/0LR9dbA72J4eYW8UZSrujK) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Deus do Impossível](https://open.spotify.com/album/2GApIH2ulfM7LM4L8byYuM) | 4:46 |
 | 24 | [Primeira Essência \(Jardim Particular\)](https://open.spotify.com/track/4jWePuDwi4Mho9u5kpoYrj) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Extraordinário Amor de Deus](https://open.spotify.com/album/56MthXvN6LcBPwd7zbEgt6) | 4:16 |
@@ -58,6 +58,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1eByu0.md) - [plain]
 | 48 | [Cantarei Desse Amor](https://open.spotify.com/track/3eqExbH8UG4iRmoXcPWLHS) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM) | [Deus do Impossível](https://open.spotify.com/album/2GApIH2ulfM7LM4L8byYuM) | 4:00 |
 | 49 | [Sem Limites](https://open.spotify.com/track/4UJbcK8Zm2glSVpmFvt2a9) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Consagração](https://open.spotify.com/album/6awgw5EcFtkcvDXC5RnwtM) | 4:00 |
 | 50 | [Sol da Justiça](https://open.spotify.com/track/0lQ4GwEPOT2mS4ClVpiLJ3) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Minha Oração](https://open.spotify.com/album/389BcZL9PPZK0m4sSkIDH5) | 5:41 |
-| 51 | [A Dança do Quaquito](https://open.spotify.com/track/3o7vf9FujS4DkcDOMVMTug) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia 2](https://open.spotify.com/album/58dham8BeNuWKBJJTbzenr) | 2:58 |
+| 51 | [Criança de Jesus](https://open.spotify.com/track/6FsX4uGYBj8gjqH245iUWD) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia 2](https://open.spotify.com/album/58dham8BeNuWKBJJTbzenr) | 2:33 |
 
-Snapshot ID: `Mjg0NzUyOTAsMDAwMDAwMDA1YjBmOTg2MmRkYThmNTkyM2Q5OTA5NGMzYWQ2N2RmYw==`
+Snapshot ID: `Mjg0NzcwNzUsMDAwMDAwMDA1N2Y1MDZhNmY4ODc2YWI3YWRlYzhmOTEwYWUyOTFhYw==`

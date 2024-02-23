@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSHg3zCMrBDf.md) - [plain]
 
 > The hottest tracks in Ghana\. Cover: King Promise
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,545 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,587 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,11 +16,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSHg3zCMrBDf.md) - [plain]
 | 6 | [Fallen Angel](https://open.spotify.com/track/3XFc1Q32ssmKglaZKI5iTI) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Fallen Angel](https://open.spotify.com/album/3O8VIa31ZtEh5DKRhMzp2m) | 3:20 |
 | 7 | [Rent Free](https://open.spotify.com/track/320cXn7htYGuAzNyxLDs3M) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Rent Free](https://open.spotify.com/album/6cryLTyBj54kNA59giEvbA) | 2:16 |
 | 8 | [Tested, Approved & Trusted](https://open.spotify.com/track/05A6mr7C2bP7uPrEQrj9qk) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [I Told Them...](https://open.spotify.com/album/51r39Gm18d7yIS3PC1QD8B) | 3:40 |
-| 9 | [Otan](https://open.spotify.com/track/3r256b0OBDc0Shy4rhmbX5) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Otan](https://open.spotify.com/album/3sLJsL9MU1JdAjS0A43jh1) | 3:16 |
-| 10 | [Broken Heart \(feat\. Kuami Eugene\)](https://open.spotify.com/track/3CTLElO2jgzX3pUU571Nfk) | [DJ Vyrusky](https://open.spotify.com/artist/20uZPZ6EXItffkdLevoEdV), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Broken Heart \(feat\. Kuami Eugene\)](https://open.spotify.com/album/2wP11FwHQj4zg9x9XBo1r4) | 2:58 |
-| 11 | [Akokoa](https://open.spotify.com/track/6u8RmxbRi5u1hSoF9XcBVR) | [Safo Newman](https://open.spotify.com/artist/1XygOZOkRxWKr0vEKgZxFl) | [Akokoa](https://open.spotify.com/album/1WVgSHOlo68eFdXWe3eVwD) | 3:22 |
-| 12 | [Mnike \(feat\. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee\)](https://open.spotify.com/track/5tpft20jhQvRlG3O7XfwWy) | [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4), [Tumelo\_za](https://open.spotify.com/artist/56vXCqK2n9zs0IjuNoBrJD), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Nandipha808](https://open.spotify.com/artist/3hw14sG4z2GSidk66In1eW), [Ceeka RSA](https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY), [Tyrondee](https://open.spotify.com/artist/4aNokzWeBL32vR7leBpUat) | [Mnike \(feat\. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee\)](https://open.spotify.com/album/1nhw91pN6LpY6MriDZqVDC) | 6:31 |
-| 13 | [FEEL](https://open.spotify.com/track/1mk8ZC9OeTZMr8Wy31LqRj) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:34 |
+| 9 | [Ting Ting](https://open.spotify.com/track/4pPjtltszSbjBFzM0KCEqs) | [Oseikrom Sikanii](https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN) | [Ting Ting](https://open.spotify.com/album/5SovjJsCQZwm4zGoVCq2TK) | 3:02 |
+| 10 | [Otan](https://open.spotify.com/track/3r256b0OBDc0Shy4rhmbX5) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Otan](https://open.spotify.com/album/3sLJsL9MU1JdAjS0A43jh1) | 3:16 |
+| 11 | [Broken Heart \(feat\. Kuami Eugene\)](https://open.spotify.com/track/3CTLElO2jgzX3pUU571Nfk) | [DJ Vyrusky](https://open.spotify.com/artist/20uZPZ6EXItffkdLevoEdV), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Broken Heart \(feat\. Kuami Eugene\)](https://open.spotify.com/album/2wP11FwHQj4zg9x9XBo1r4) | 2:58 |
+| 12 | [Akokoa](https://open.spotify.com/track/6u8RmxbRi5u1hSoF9XcBVR) | [Safo Newman](https://open.spotify.com/artist/1XygOZOkRxWKr0vEKgZxFl) | [Akokoa](https://open.spotify.com/album/1WVgSHOlo68eFdXWe3eVwD) | 3:22 |
+| 13 | [Mnike \(feat\. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee\)](https://open.spotify.com/track/5tpft20jhQvRlG3O7XfwWy) | [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4), [Tumelo\_za](https://open.spotify.com/artist/56vXCqK2n9zs0IjuNoBrJD), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Nandipha808](https://open.spotify.com/artist/3hw14sG4z2GSidk66In1eW), [Ceeka RSA](https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY), [Tyrondee](https://open.spotify.com/artist/4aNokzWeBL32vR7leBpUat) | [Mnike \(feat\. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee\)](https://open.spotify.com/album/1nhw91pN6LpY6MriDZqVDC) | 6:31 |
 | 14 | [LONELY ROAD](https://open.spotify.com/track/5P7d1cYRk786etl1Jbwpk5) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [XlimKid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c) | [PAIN IN GLORY](https://open.spotify.com/album/5mQyfbXSujRUaxTaQBZw4T) | 3:00 |
 | 15 | [January 9th](https://open.spotify.com/track/5JL5FbKStegRpZc7OCeRnc) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [January 9th](https://open.spotify.com/album/3luZFzOLzCaNC4bNPb5r28) | 3:42 |
 | 16 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSHg3zCMrBDf.md) - [plain]
 | 49 | [4LYFE](https://open.spotify.com/track/2TSyn5AUP4XKlx2DULEPvs) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [4LYFE](https://open.spotify.com/album/3UEA2UkF8k5Nf3o6X3UK4m) | 2:47 |
 | 50 | [Kusuu](https://open.spotify.com/track/0BXG6kR9D7ZjXtjBwvPiKy) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Kweku Flick](https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF), [Young Lunya](https://open.spotify.com/artist/0xfpc94rTYCThCWDR5h3Ni) | [Fallen Angel](https://open.spotify.com/album/3O8VIa31ZtEh5DKRhMzp2m) | 3:25 |
 
-Snapshot ID: `MCxkMzNkMjU1NmVkNjRiMjFhZmM3YzhkNGMyNTk3ZGY2ZTg0YTU5ZTc3`
+Snapshot ID: `MCxkOTAzNDEyZDg2ODJhYWEzNGIxYzlkOGMwODc3NmNmZDJjYzdmMGQy`

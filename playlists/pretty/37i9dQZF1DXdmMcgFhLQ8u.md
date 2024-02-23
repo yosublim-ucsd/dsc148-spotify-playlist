@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmMcgFhLQ8u.md) - [plain]
 
 > These country songs know exactly how you feel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,748 likes - 75 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,760 likes - 75 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmMcgFhLQ8u.md) - [plain]
 | 74 | [Memory I Don't Mess With](https://open.spotify.com/track/7BQE1P0NUalHSvFtrxasx9) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Memory I Don't Mess With](https://open.spotify.com/album/2HDp9JJaUtB2xU02QGlUif) | 3:00 |
 | 75 | [Giving You Up \- Acoustic](https://open.spotify.com/track/5NIGKX5at9iO87OyOHmoiV) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Giving You Up \(Acoustic\)](https://open.spotify.com/album/7MQzvFfSyYioQwB6r98dwD) | 3:52 |
 
-Snapshot ID: `MCw3NTRlNzdjYWNlOGJmZTVlZmY5ODVhOGFiMjQwNjE4NzBjODg1ZmYy`
+Snapshot ID: `MCw1ZTk4YWJiNGIxOGY0ZDk0NzM2MDc3NDdkMzZjMzI0NWMwZjliM2Ni`

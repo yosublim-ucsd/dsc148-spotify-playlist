@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0RTTLdL3NCtCsfLjytOimU">Timbaland</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-395 songs - 1 day 1 hr 43 min
+396 songs - 1 day 1 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -308,7 +308,8 @@
 | [Smile](https://open.spotify.com/track/0ceDtbea08qo2QQGL9vfUg) | [V\. Bozeman](https://open.spotify.com/artist/4Nc3svccPWQ7nSBSu39rBI), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Smile](https://open.spotify.com/album/1V2thzjMQhqM5KSZb3iqPc) | 4:11 | 2024-01-29 |  |
 | [Smile \(feat\. Timbaland\)](https://open.spotify.com/track/5Spjpne6Of1zxBpqcZHZIf) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [The Art of Hustle \(Deluxe\)](https://open.spotify.com/album/0s9cSoniuN0HfXpwlCpGUF) | 3:52 | 2024-01-29 |  |
 | [Solar Power Girl \(feat\. Timbaland\)](https://open.spotify.com/track/1Z7nHssPTuRWftebSCtoXF) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Love and War](https://open.spotify.com/album/43xH1kPS7aNKc2WJtUHRAs) | 3:44 | 2024-01-29 |  |
-| [Something 'Bout You](https://open.spotify.com/track/2VdKelTyQHxQKyeTbimoHS) | [Sir Rosevelt](https://open.spotify.com/artist/36jGtr6jwJ2D7RVJBTRpsc) | [Sir Rosevelt](https://open.spotify.com/album/04qg9UzQONJod7bGdOIPOj) | 2:40 | 2024-01-29 |  |
+| [Something 'Bout You](https://open.spotify.com/track/2VdKelTyQHxQKyeTbimoHS) | [Sir Rosevelt](https://open.spotify.com/artist/36jGtr6jwJ2D7RVJBTRpsc) | [Sir Rosevelt](https://open.spotify.com/album/04qg9UzQONJod7bGdOIPOj) | 2:40 | 2024-01-29 | 2024-02-23 |
+| [Something 'Bout You](https://open.spotify.com/track/4cIkRVdcGm65d2lS9pt8uH) | [Sir Rosevelt](https://open.spotify.com/artist/36jGtr6jwJ2D7RVJBTRpsc) | [Sir Rosevelt](https://open.spotify.com/album/3SuLoymMqbgvxvF3nDQJ4N) | 2:40 | 2024-02-22 |  |
 | [Sorry Not Sorry](https://open.spotify.com/track/16bHRxM89ue0TiCKARYbRp) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [T R A P S O U L](https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl) | 3:20 | 2024-01-30 |  |
 | [Sorry Not Sorry](https://open.spotify.com/track/5wt4nJVT3TVrVRoYGfhttK) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Sorry Not Sorry](https://open.spotify.com/album/7Mm9x2C5WySSWqrqL9xFZm) | 3:31 | 2024-01-29 | 2024-01-31 |
 | [Spaceship Coupe](https://open.spotify.com/track/7xxEK0MQvkME1LSS2cIW7R) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [The 20/20 Experience \(Deluxe Version\)](https://open.spotify.com/album/0O82niJ0NpcptYRxogeEZu) | 7:17 | 2024-01-29 |  |

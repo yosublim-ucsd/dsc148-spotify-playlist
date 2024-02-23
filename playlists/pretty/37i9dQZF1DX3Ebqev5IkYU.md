@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ebqev5IkYU.md) - [plain]
 
 > Schlechte Laune? Drück den Play Button!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,970,037 likes - 80 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,970,106 likes - 80 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ebqev5IkYU.md) - [plain]
 | 79 | [Auf & Ab](https://open.spotify.com/track/2sFsvaMRe8PKo5AFdBE9qC) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [HERZINFUCKED](https://open.spotify.com/album/4wJVpq8vt31kB9wySZY0WB) | 2:45 |
 | 80 | [I Believe](https://open.spotify.com/track/2CewvqbfMOcnvYE3yayAJV) | [KAMRAD](https://open.spotify.com/artist/6zcWVbyNT0z94MBffsTJGP) | [I Believe](https://open.spotify.com/album/0x89tPjR3KUl3KsG4Rlztv) | 2:27 |
 
-Snapshot ID: `MCwyNjFmOGUzN2YxY2VjYzM4MTkwNDFlY2I2ZTY5YjhhNTU5NTE5ZGFm`
+Snapshot ID: `MCxiMTFkMDY4MDQ2MDcwZjY0YzI3OTQzMmJjZmQ2MTYzMWIxZmU1NjBk`

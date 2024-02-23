@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: Dehd
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,538 likes - 125 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,591 likes - 125 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 22 | [Religion for One](https://open.spotify.com/track/54Zik7AdvtDDZksQm015Z7) | [Fat White Family](https://open.spotify.com/artist/5ztBFCBEL7OtjdAt98RnD4) | [Religion for One](https://open.spotify.com/album/3Sz2ldxbLynqngGDSrj8Dl) | 3:19 |
 | 23 | [I Thought You'd Change](https://open.spotify.com/track/3ePFWIRZNratB2vjSrSKoP) | [Hotline TNT](https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe) | [Cartwheel](https://open.spotify.com/album/6LrhvefGM7zcJpIdMC9otz) | 2:51 |
 | 24 | [Moonstruck](https://open.spotify.com/track/1kM0YPEPUmZfV7WAl6HH0i) | [Sheer Mag](https://open.spotify.com/artist/58ehndX799ZV9Jcv6IefJ1) | [Moonstruck](https://open.spotify.com/album/03TpK5HO3kLKg7jSTsKjoD) | 3:05 |
-| 25 | [Plastic Pyramid](https://open.spotify.com/track/06SgGRLn7xmwCz8wIxIx8U) | [Omni](https://open.spotify.com/artist/4wBhllC5Nto10UefzXVMt9), [Izzy Glaudini](https://open.spotify.com/artist/1VqGiwhaU2Djzx8UYFKr2x) | [Plastic Pyramid](https://open.spotify.com/album/6EwBOdpvB0ElEPN3Sbpgbv) | 3:25 |
+| 25 | [Plastic Pyramid](https://open.spotify.com/track/1nxVYkAMpRqLaNLJdggYWa) | [Omni](https://open.spotify.com/artist/4wBhllC5Nto10UefzXVMt9), [Izzy Glaudini](https://open.spotify.com/artist/1VqGiwhaU2Djzx8UYFKr2x) | [Souvenir](https://open.spotify.com/album/703bpbJhzptTx5GTGNQoS4) | 3:25 |
 | 26 | [Worship The Whip](https://open.spotify.com/track/1Lt1SJdkdFOHqwxkEIGJan) | [Be Your Own Pet](https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x) | [Mommy](https://open.spotify.com/album/4eibRhcgxtRIytvG87I8Ay) | 3:01 |
 | 27 | [You Can Be Mean](https://open.spotify.com/track/5HlHycHNeXIjYhY4AJRErt) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [You Can Be Mean](https://open.spotify.com/album/55AeOkUW28sgptXC5DCzn9) | 2:25 |
 | 28 | [Moving On](https://open.spotify.com/track/1aXEjtwxeBKGHHc0H1Mbjx) | [Pissed Jeans](https://open.spotify.com/artist/6FTONkEJQsCSpoDHqaAP1V) | [Moving On](https://open.spotify.com/album/4DmrNmbr4xIFarAQhWeoQ6) | 4:28 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 124 | [Cows](https://open.spotify.com/track/5MudCy3oMWOFMrq1QoMUBu) | [Silicone Prairie](https://open.spotify.com/artist/41Cb0AUOB1YtrPLiDffzb0) | [Cows](https://open.spotify.com/album/2feSGjusLrnBAxWTO67Cio) | 3:41 |
 | 125 | [Rosita](https://open.spotify.com/track/7tCrArweMQhmc2s8ad0d53) | [The Manikins](https://open.spotify.com/artist/7GW07MfbJzyhaXH4q8rJsu) | [Rosita](https://open.spotify.com/album/4ub7wQzeA0WWwstboakvmg) | 3:10 |
 
-Snapshot ID: `MCxmZGY2MWZlNjdmZDU5MzgxZDkxODkyMjhlMTUzNDdmNDhkZDVlYTFj`
+Snapshot ID: `MCw4ZmY2ZDFkZmY1ZWM1MGQxMGQ2ODU0MTY5NTMxYzA5MmQwZWEwYjMy`

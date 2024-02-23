@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Rymz
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,693 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,695 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 49 | [JUNGLE](https://open.spotify.com/track/1AZLauYJZgld6QahY0gcIV) | [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [JUNGLE](https://open.spotify.com/album/5CgC5dMHUU6mKHWxdqjMVi) | 3:00 |
 | 50 | [Terminer](https://open.spotify.com/track/4bpOS8QJ4tT0eeOnKOAOPU) | [Wejdene](https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk) | [Terminer](https://open.spotify.com/album/22XjIC4uwawUAK0m6lcmh2) | 3:03 |
 
-Snapshot ID: `MCxkYWU0NjUwNTEwYWFiM2E4Nzk3MzU2MDE3NTViZGQxZWNiNmUwNzlj`
+Snapshot ID: `MCw5ODgzZDgxNjAwMzIwOTAyZjllMDFhYWU4ZGZmOTMxNjAyYWNmNWE2`

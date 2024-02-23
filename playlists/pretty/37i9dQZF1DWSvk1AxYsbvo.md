@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 
 > 이불 안 속처럼 포근하고 편안한 음악들과 함께 폭신한 기분을 만끽하세요\. \(Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,372 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,390 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 | 49 | [moon river \(2021\)](https://open.spotify.com/track/3PdER8czrfvUUjtEbvynjp) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [A story that will turn into a poem](https://open.spotify.com/album/4pwFaLkL7sfjhD1O6IZPqF) | 3:13 |
 | 50 | [Lost Stars](https://open.spotify.com/track/7DljYOk60TzF33yBL9fdnn) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Lonely night](https://open.spotify.com/album/1PPYjHO08pHBbIKvWrx5jA) | 3:07 |
 
-Snapshot ID: `MCxlZTA0OGExNTc3MDhjOGNlZWZlOTk3MGQ3NDFkNmZmZTljNzQ4NzA1`
+Snapshot ID: `MCw2MjYzOTU2YWRmYzExMTliMmIxNTNjNTg5OGM3NTJkMmIxZTdhMWRm`

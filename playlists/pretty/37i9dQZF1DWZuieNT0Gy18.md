@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuieNT0Gy18.md) - [plain]
 
 > Una selección de éxitos para ponerle ritmo a las tareas del hogar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,107 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,187 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuieNT0Gy18.md) - [plain]
 | 99 | [Pasos de cero](https://open.spotify.com/track/18mmN3VrFWRi6SsSBJf6WJ) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Terral](https://open.spotify.com/album/1cWvezm4YsxlvvOSRUXLmS) | 3:54 |
 | 100 | [Eres Mi Religión](https://open.spotify.com/track/2A1izwuHiZjoxyH6y6W0U4) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Joy](https://open.spotify.com/artist/6iH6aIbOCOdO3Ja6JeyOm1) | [Eres Mi Religión](https://open.spotify.com/album/0mw9JCjWu3hzUTru1yt2mc) | 4:27 |
 
-Snapshot ID: `MCw5YTBiOGNjY2Y4ZDg0NDRmMDlhNWNmMjQwMDVjMzYzMzZlZjU0NGVi`
+Snapshot ID: `MCwzNjhlNDlmNzdjMTk0MTQzNmQwZTk5YjJhZTM5OTAxNTljZWVjOTE1`

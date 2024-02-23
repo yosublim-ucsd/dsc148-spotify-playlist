@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 
 > el amor es <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,332 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,353 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 | 74 | [Postre](https://open.spotify.com/track/1L4i0cetFrhBUaAvBLjRle) | [Pastrana](https://open.spotify.com/artist/1enRTUJ9Oj9TzWSMPAYuJY) | [Postre](https://open.spotify.com/album/5aI3QrUUCGDXYwCsvHuWpK) | 3:00 |
 | 75 | [Lo Nuestro](https://open.spotify.com/track/1601gp2nMyNTbuIgZN0QCk) | [Sofía Trenti](https://open.spotify.com/artist/6Y8PZwCUg8vFUSO9AICzhU) | [Lo Nuestro](https://open.spotify.com/album/3BtYsIyQezsBNFanF9CeOW) | 4:27 |
 
-Snapshot ID: `MCw3ZTcxNjhkNzM2NzNiOTUzZWRiZTcxOGNmMTMxOTg1YjBiYzQzNmQw`
+Snapshot ID: `MCxjNjQ3NzE2MDU4MDYzZjI2ODFjMzI5ZmYyZGNhMjdmZmQzZTg5OTFh`

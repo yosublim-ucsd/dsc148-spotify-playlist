@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 
 > la nueva ola de artistas con Nicole Horts en portada\. 🌊✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,184 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,205 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 74 | [lalalala](https://open.spotify.com/track/4dMVCg7imGhzLHazEskCBQ) | [Masta Roi](https://open.spotify.com/artist/1uEU1I3gUtxUv4tlcpsInS), [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN) | [lalalala](https://open.spotify.com/album/3z4vVK3Og3nwyup77oC2ex) | 4:04 |
 | 75 | [nunca me dejes </3](https://open.spotify.com/track/1Fo6FrFsz0QygL1Ti103Aj) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [nunca me dejes </3](https://open.spotify.com/album/1DjcS2GNrwG9nkt6J1rcR0) | 3:26 |
 
-Snapshot ID: `MCw1NzNjOTgxOGQ3ZWFhNmVlMjYwM2Q0YzY3YjkxZWQ3Njg2ZmZiYTZl`
+Snapshot ID: `MCwyYjVhNmFhNDhhZjgwNjgwODQ3NzBjNzY3MzBhY2UyYTMzMjQyM2Zk`

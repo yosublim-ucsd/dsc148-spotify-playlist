@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiY3QffFUdg.md) - [plain]
 
 > <a href="spotify:genre:techno">techno</a> starter pack
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,453 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,659 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiY3QffFUdg.md) - [plain]
 | 74 | [Komodo](https://open.spotify.com/track/7xkKZ9TjRm5zE6hJf5CaGC) | [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio), [DJs From Mars](https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD), [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp) | [Komodo](https://open.spotify.com/album/0kvwytv9p1qqdGdlDzLN0c) | 2:35 |
 | 75 | [Rapture](https://open.spotify.com/track/4z6ygaxvCR8osXCgT2IZa7) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif), [The Bossline](https://open.spotify.com/artist/2mqLyztNOo3DF8seytuHzE) | [Rapture](https://open.spotify.com/album/0KppS35Sn3pnHM0Sap5bBs) | 2:26 |
 
-Snapshot ID: `MCxiYjlhNzdkYTczYjYxOWNlYzZkZWQyY2ZiZmRkODUyZWIwOWQwMjhi`
+Snapshot ID: `MCxlYWExODQ4MWNiNDI3MDlkMTMzYWI0ZjM4YjQzZTlkOTM5NmYwODli`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rXtgePifMs.md) - [plain]
 
 > The official EA SPORTS FC 24 Soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,208 likes - 109 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,316 likes - 109 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rXtgePifMs.md) - [plain]
 | 108 | [MMM](https://open.spotify.com/track/5ubj4AhuTnQ5qzuhv4CP3P) | [Skinny Local](https://open.spotify.com/artist/2Qqm503Ng7iC2dMxEobQa1), [Cartel Madras](https://open.spotify.com/artist/3nwKi37CnuKq5BcPr267h3) | [MMM](https://open.spotify.com/album/0Fbc2gf82fyBWrpDQqxnco) | 2:24 |
 | 109 | [Follow the Cyborg](https://open.spotify.com/track/29Tr5faNVWpHHaN2JytX98) | [Miss Grit](https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD) | [Follow the Cyborg](https://open.spotify.com/album/1FzCOEjfRrJvwMWqEUCsNO) | 4:45 |
 
-Snapshot ID: `MCw3OTk3NGJkNjMwZjUyNmI2ZTgwNTY1YjM5N2Y1NWI1NTBhYTQ4ZjVm`
+Snapshot ID: `MCxjOThhMjhmYmM4MTdmYWE2OGJjNjdhMzc4MmE2M2E0MTE4OGUzMDQ2`

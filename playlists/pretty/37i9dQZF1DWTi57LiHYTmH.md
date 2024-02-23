@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTi57LiHYTmH.md) - [plain]
 
 > A calm and cosy classical soundtrack to all activities.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,598 likes - 120 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,743 likes - 120 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTi57LiHYTmH.md) - [plain]
 | 119 | [Chaconne in sol maggiore : Variazione 9](https://open.spotify.com/track/4NSH5KlrNzdH9OBtgsBFpL) | [Lazar Berman](https://open.spotify.com/artist/2XKXuLdjmigGQx286z07ZZ) | [Inedito \(Unpublished\)](https://open.spotify.com/album/74Q0uOTdCZMZ07P5Im7582) | 1:03 |
 | 120 | [Song Book: The Man I Love\. Slow and in singing style](https://open.spotify.com/track/4BlM6AO7TOtqxcY9qMHIuc) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Frank Braley](https://open.spotify.com/artist/1hpAr3xZg2NpGFR59MO0Yl) | [Gershwin: Piano Works](https://open.spotify.com/album/4MkPnDnWYJvpJZDo2HhlKU) | 2:25 |
 
-Snapshot ID: `MCxmYjY3MjJlMGMwNDJlN2I2N2MyMDc4MzdhOGJmMDRlOWNmYmE5MzY3`
+Snapshot ID: `MCw1NTYxMTk4OWI0YjY2Yzc5Nzc3Y2VlZWIyYjhlYjQ2NWVhMDIwMzE3`

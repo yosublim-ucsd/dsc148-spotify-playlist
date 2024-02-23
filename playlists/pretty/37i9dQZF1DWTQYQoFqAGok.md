@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 
 > Descubre la escena del jazz en México en la curaduría de los expertos Mariana Pérez,  Juan Carlos Reyes, Erik Montenegro y José Enrique Fernández.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,195 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,200 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 | 49 | [Tipitipitín](https://open.spotify.com/track/17QiAjaQ2uGVY7aLEfPmoj) | [Chucho Zarzosa Y Su Conjunto](https://open.spotify.com/artist/5rX3FXPe4kE1fJNCQhlJ3E) | [Jazz](https://open.spotify.com/album/5UlTOip0x8FRlBjf3hSNtv) | 2:37 |
 | 50 | [Dana \(Cha\-Cha\-Shag\)](https://open.spotify.com/track/4i6O1sKOUvzHl8qPPbe5io) | [Gigio Romero](https://open.spotify.com/artist/6MRKA97PCXQyjehXTNJmbn) | [Electratoaster \- EP](https://open.spotify.com/album/74DdAeaEAK7ruREcSAeFdS) | 4:17 |
 
-Snapshot ID: `MCw4OWQxZmY1YzE2NTY4NmY0OGEwMjMzM2Q0Mjg0M2FiZjFmYjdhMmJk`
+Snapshot ID: `MCxlYzFjMWMyNDAyNWIzMWY5NDYzOWQ3OTE2OWQ4MzNkYzliMGY2YmU2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 
 > The wave of Latinos representing Hip\-Hop in the U.S\. Cover: That Mexican OT
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,513 likes - 45 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,552 likes - 45 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,11 +47,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 37 | [Grave Digger \(with Southside\)](https://open.spotify.com/track/6aXGt8YQ0zcfagTeWLLTen) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN) | [WLGS](https://open.spotify.com/album/5JWyYQTyvhEeUj0xvHrPxh) | 3:02 |
 | 38 | [Ragged Up](https://open.spotify.com/track/6EaGKTokH8l5WF8oPu2arr) | [Lil Grifo](https://open.spotify.com/artist/6RRNtl4tqMCz2vXm33vdIk), [YeloHill](https://open.spotify.com/artist/0IgLirgKCxQb13uM8FuQpR) | [Ragged Up](https://open.spotify.com/album/6xIVyUugvvuqlv4Gc7ENu5) | 1:56 |
 | 39 | [Stop Cry'n](https://open.spotify.com/track/0yf28sQY66U44MITXsz6Fm) | [Young Drummer Boy](https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng) | [Stop Cry'n](https://open.spotify.com/album/6BxbrYbOSW2YbccOMCuX5q) | 2:20 |
-| 40 | [Pray](https://open.spotify.com/track/3k7ZFo1rctoR96HVMPPwjd) | [Cypress Moreno](https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk), [Bravo the Bagchaser](https://open.spotify.com/artist/31t9hT68QYCDPWkkUVrQjY) | [Pray](https://open.spotify.com/album/7zhl0a3SVapomKIFA6XnKC) | 2:12 |
+| 40 | [Pray](https://open.spotify.com/track/1tLrpjQVeeO9nsvv9tV0RI) | [Cypress Moreno](https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk), [Bravo the Bagchaser](https://open.spotify.com/artist/31t9hT68QYCDPWkkUVrQjY) | [Pray](https://open.spotify.com/album/3ouSeQBrmIonvY03o9bYRU) | 2:12 |
 | 41 | [Bag Shit](https://open.spotify.com/track/7lcxEhRo4U7tbpI3H86F4X) | [Peysoh](https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC) | [Bag Shit](https://open.spotify.com/album/3xw3koYUfnfJVKECVSsZM4) | 3:31 |
 | 42 | [go time](https://open.spotify.com/track/5TCdPqLX9gP52n59u3b3rF) | [Conejo](https://open.spotify.com/artist/3mndTMiP2EOug7cIjq177j) | [go time](https://open.spotify.com/album/7hhHfyRY8ml4VdarPpitiY) | 3:58 |
 | 43 | [High Stakes](https://open.spotify.com/track/6DK4YwXkmJovNIJbLrbSvx) | [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4) | [High Stakes](https://open.spotify.com/album/2Mg50CHp8AF18jNeRaWaD3) | 2:03 |
 | 44 | [bigger thën everything](https://open.spotify.com/track/11B7WTuoInwUvuP1BnnGWW) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [bigger thën everything](https://open.spotify.com/album/5bVIz2j5nOioetMjM0T4F9) | 3:38 |
 | 45 | [This Is What I Need](https://open.spotify.com/track/174sKBWy1cMVxUapeaD1SC) | [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7), [Krystall Poppin](https://open.spotify.com/artist/3DIquQWs6ZlFAKdahiPCwC), [Muriel](https://open.spotify.com/artist/5mbYm79icxiW01SUp5G5Ov) | [This Is What I Need](https://open.spotify.com/album/5xlnkITJKmXqDETUJB9qQw) | 2:14 |
 
-Snapshot ID: `MCw5NTQyNDRhMzdhNjcwMTk4ODZhMDQ4MjZlMmFiMjNmNWY2MzBmMGNk`
+Snapshot ID: `MCw2ZmVjY2JlODgwNjQ0ZjM0MTMzMWRkMGI5YmYxMDM0ZTNlYjE3NjYw`

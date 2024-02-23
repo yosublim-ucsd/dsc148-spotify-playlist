@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 
 > We outside\. Cover: Valiant
 
-[Spotify](https://open.spotify.com/user/spotify) - 430,068 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 430,147 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 | 99 | [Crawsis](https://open.spotify.com/track/5CdbxsfDbD8Xy8SSVLyvrA) | [450](https://open.spotify.com/artist/2v6V75NbousiJwy2HV44VL), [Shaneil Muir](https://open.spotify.com/artist/6ilIhmo2Ijzq3BnKuxf2KQ) | [Crawsis](https://open.spotify.com/album/5mZcGBQSVljkJYJLUUUC8D) | 2:53 |
 | 100 | [Throat](https://open.spotify.com/track/4LGDRn6E199hReOZGF5Exw) | [Gage](https://open.spotify.com/artist/5ENdfpGHYMwemMEe0uJG8w) | [Throat \- Single](https://open.spotify.com/album/21pDh5Ze2VGN8g94uQj5J5) | 2:52 |
 
-Snapshot ID: `MCwwNzA1MGY1Zjg0NDE0MWNjMzUyY2QwMjM5ZGY1ODhjNDhhMWM0ZWU4`
+Snapshot ID: `MCxjNjNhZTdiNDk3ZmRjYmE3NTBiYTE2YWNlNzU0OTdjZWVjOThhOWI3`

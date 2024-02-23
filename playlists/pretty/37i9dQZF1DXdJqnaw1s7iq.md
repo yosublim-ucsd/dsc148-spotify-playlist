@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJqnaw1s7iq.md) - [plain]
 
 > electronic nostalgia ⚡️ Cover: The xx
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,614 likes - 100 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,683 likes - 100 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJqnaw1s7iq.md) - [plain]
 | 99 | [Psylla](https://open.spotify.com/track/4XCpDE4pLTkkQ0kudqBLdS) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Glass Animals](https://open.spotify.com/album/4M7zRurOW6q7pQxjMcPqwU) | 3:31 |
 | 100 | [Archangel](https://open.spotify.com/track/55gnBQAhU5rGzLsXTAx2MM) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Untrue](https://open.spotify.com/album/1iRPiEYHIX2zpF8lkW54SK) | 3:58 |
 
-Snapshot ID: `MCxiNjY2ZmNiYjA5NTVlMWYwOTI1ZmVjNjdkMDhlMWY1OTU5YjhiNGU2`
+Snapshot ID: `MCwzYmMxZDQ2MWVkOTk5NTcyODgxNjBiYWU1ZGJjMjhhNGI1MGU5YWJl`

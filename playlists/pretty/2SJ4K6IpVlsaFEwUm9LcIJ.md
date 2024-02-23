@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: jan\-feb 2024 \(previous playlists archived on my profile\) \(image credit: @afffirmations on IG\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 18,113 likes - 54 songs - 2 hr 48 min
+[margeaux](https://open.spotify.com/user/1220511975) - 18,120 likes - 54 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

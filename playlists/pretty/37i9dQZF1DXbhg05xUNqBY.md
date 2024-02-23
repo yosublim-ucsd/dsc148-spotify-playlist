@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhg05xUNqBY.md) - [plain]
 
 > Breathe deep, and relax with the softer side of Christian music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,920 likes - 70 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,969 likes - 70 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhg05xUNqBY.md) - [plain]
 | 69 | [Keep On Hoping \- Piano Choir Version](https://open.spotify.com/track/49z6pEQAihKOYZ3NZRfI8d) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Keep On Hoping](https://open.spotify.com/album/0tuOmgWScGIS1kjzutqYHo) | 3:27 |
 | 70 | [Learning to Let You Go](https://open.spotify.com/track/1cAaPTC1aCFsOUFVmfZri3) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Learning to Let You Go](https://open.spotify.com/album/4M7526VytrMjd32RxtGJXy) | 3:31 |
 
-Snapshot ID: `MCw5N2JhYzkxYWRlMDg0NGE0ZDBmNzFlYmIxM2YxZjcyN2RjZDIzNTgw`
+Snapshot ID: `MCxlNTI2NmIzZTY5NjI1Zjc0OTYxMTYzMjk3MDI2OTcxYmE4NTQ2ZTU0`

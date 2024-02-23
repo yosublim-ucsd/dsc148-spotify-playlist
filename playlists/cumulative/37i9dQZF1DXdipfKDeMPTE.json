@@ -2023,6 +2023,24 @@
     },
     {
       "album": {
+        "name": "coconut",
+        "url": "https://open.spotify.com/album/1uqMqtvFq5jns7j9kZPvKd"
+      },
+      "artists": [
+        {
+          "name": "Ali Kaj",
+          "url": "https://open.spotify.com/artist/06VNBq9wJN4eEo6ZRM7HGI"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170730,
+      "name": "coconut",
+      "url": "https://open.spotify.com/track/4VLf2JAtJmzHaKvA8mOlmu"
+    },
+    {
+      "album": {
         "name": "Coffee Break",
         "url": "https://open.spotify.com/album/1sSjxVFT7qGDpAXtvsIwzc"
       },
@@ -8689,6 +8707,24 @@
     },
     {
       "album": {
+        "name": "sleeping in blue",
+        "url": "https://open.spotify.com/album/2wCwYWAyDVMqAJGskFMEJL"
+      },
+      "artists": [
+        {
+          "name": "blank maxxymus",
+          "url": "https://open.spotify.com/artist/0h8hl2SvfzyyxBQEkuu99K"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "sleeping in blue",
+      "url": "https://open.spotify.com/track/0srSSGUqTQ3ZA6iwQ0WD2a"
+    },
+    {
+      "album": {
         "name": "sleepy hat",
         "url": "https://open.spotify.com/album/4aDtOBTxMRwi40T8b4IHUZ"
       },
@@ -9054,6 +9090,24 @@
       "duration_ms": 133291,
       "name": "Spoon fed",
       "url": "https://open.spotify.com/track/6T8akIF5ID2SaLx1P4TMFK"
+    },
+    {
+      "album": {
+        "name": "spread out",
+        "url": "https://open.spotify.com/album/5W5P2b2DhGyr68xz44jqFu"
+      },
+      "artists": [
+        {
+          "name": "Tween City",
+          "url": "https://open.spotify.com/artist/0tVWLGanEa906nosw2Uu9p"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89454,
+      "name": "spread out",
+      "url": "https://open.spotify.com/track/2Wr3VVcV6WmB3JdGFMmqIr"
     },
     {
       "album": {

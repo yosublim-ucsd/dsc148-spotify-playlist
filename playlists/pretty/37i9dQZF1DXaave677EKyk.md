@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaave677EKyk.md) - [plain]
 
 > Undisputed Anthems from professional party starters\. Cover: Joel Corry
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,881 likes - 80 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,549 likes - 80 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaave677EKyk.md) - [plain]
 | 79 | [Gold](https://open.spotify.com/track/4y7P4oG7MNei0CmcuwdfZe) | [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Gold](https://open.spotify.com/album/2M3YBCxafpX8VyGxGcc3Nq) | 2:03 |
 | 80 | [Memories \(Burning in Time\)](https://open.spotify.com/track/5vwcuTK4QMBIY14CulbeKo) | [Adelphi Music Factory](https://open.spotify.com/artist/27cAR2QA0zM5v0KL9JNWwe) | [Memories \(Burning in Time\)](https://open.spotify.com/album/2Lt2eRqMeVMr0ayksEh7mD) | 2:33 |
 
-Snapshot ID: `MCwzN2JkZGE5YjkwOTI5ZjE0ZGQxNGVjNzk2ODc5ODliMDk1OGY2MGU0`
+Snapshot ID: `MCwzOTQ4MWRjYzBkNTI2YTVmODYzNjEwMWIwZWE4NGVjZGQ0NDY1MDMy`

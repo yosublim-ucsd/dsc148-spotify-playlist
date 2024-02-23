@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUMEWUyV9JB.md) - [plain]
 
 > ¡Muévete al ritmo de las Cumbias! De todas, Norteñas, Sonideras, con Banda y mas! Cover: Grupo Frontera & Bad Bunny
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,300 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,336 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUMEWUyV9JB.md) - [plain]
 | 99 | [Te Vas Con El O Te Vas Conmigo](https://open.spotify.com/track/1dPss1wm3YbdRMuYinPrqq) | [Los Tepoz](https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW) | [El Angel Del Amor](https://open.spotify.com/album/2Seyfb2z21MPHZs4As75ba) | 4:41 |
 | 100 | [El Pavido Navido \- En Vivo Desde Delfos, Guadalajara/2002](https://open.spotify.com/track/6HH26pfSrXhOvF7Tvy75R5) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Valentin Elizalde En Vivo](https://open.spotify.com/album/59xpl8GLkPx7p6cuEVrZ8L) | 3:59 |
 
-Snapshot ID: `MCw5NmJmMTAzYjRhNTJmMjIyNzQwOGYxODk5NzBmNmRkYzAzYjViYzcy`
+Snapshot ID: `MCw1YmQzNDk0MzcwZTdkYjQ2ZmEzMTZlY2Y5MTM1OGNiZjQxNDViOTU5`

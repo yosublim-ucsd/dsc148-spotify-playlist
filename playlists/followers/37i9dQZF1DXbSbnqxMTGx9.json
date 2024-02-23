@@ -1,5 +1,5 @@
 {
-  "2024-02-22": 2848900,
+  "2024-02-23": 2849621,
   "date_first_scraped": "2021-12-21",
   "description": "The ultimate reggae playlist. Cover: Bob Marley",
   "name": "Reggae Classics",
@@ -1021,7 +1021,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 188414,
       "name": "Blood and Fire",
       "url": "https://open.spotify.com/track/5HiTmpnvgLnofi31wuG0EA"
@@ -4733,6 +4733,24 @@
     {
       "album": {
         "name": "Exodus",
+        "url": "https://open.spotify.com/album/655KljKIXl42fiNDMKivbY"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "Jamming",
+      "url": "https://open.spotify.com/track/3GIChxHmuLmBm5PTNZGDtj"
+    },
+    {
+      "album": {
+        "name": "Exodus",
         "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
       },
       "artists": [
@@ -5575,8 +5593,8 @@
       },
       "artists": [
         {
-          "name": "Pressure Busspipre",
-          "url": "https://open.spotify.com/artist/3ptWB2WLHDeI7QQQDDGGfw"
+          "name": "Pressure Busspipe",
+          "url": "https://open.spotify.com/artist/61meTZVdfRrHMotU1AJipD"
         }
       ],
       "date_added": "2021-03-02",
@@ -7853,7 +7871,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 233560,
       "name": "Redemption Song",
       "url": "https://open.spotify.com/track/26PwuMotZqcczKLHi4Htz3"
@@ -8019,7 +8037,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 259399,
       "name": "Revolution",
       "url": "https://open.spotify.com/track/1nsEptcDye2MUjMJQ1N5Rh"

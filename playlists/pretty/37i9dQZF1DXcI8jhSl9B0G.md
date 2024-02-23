@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 
 > Tunes for sun drenched days and balmy nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,148 likes - 60 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,166 likes - 60 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 | 59 | [Kick](https://open.spotify.com/track/7eVIOpeiasbMMUY4xw43YZ) | [Greta Stanley](https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC) | [Kick](https://open.spotify.com/album/1erxAMlRaukA3PV0tEapma) | 3:27 |
 | 60 | [I BELIEVE](https://open.spotify.com/track/3qyl06mFyrDJ3fdeklnsvV) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [DANCING IN THE DARK](https://open.spotify.com/album/08AjlivRrk28r7U8j5eI8p) | 3:26 |
 
-Snapshot ID: `MCxmOWMwZmZiYTFiNGNhOGFhMzc1ZTk1YmUxY2MzZmYzNDM3MGRlN2Zl`
+Snapshot ID: `MCw0NTY4Y2VjNTUzMjJmMzc3MDc4YTFiZGZkN2ViNjg4YTA0YmYwYTNm`

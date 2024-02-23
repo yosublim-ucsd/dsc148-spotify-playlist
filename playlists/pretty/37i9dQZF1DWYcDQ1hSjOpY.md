@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 
 > Soothing, minimalist ambient for deep sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,889,175 likes - 353 songs - 17 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,889,327 likes - 353 songs - 17 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -362,4 +362,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 | 352 | [Delta Sinus Noise Pad](https://open.spotify.com/track/7sKPbqAPAP4llKXGEXqCaH) | [Wiser Noise](https://open.spotify.com/artist/0AVjqSe7ExlC8YpGYMXVfn) | [Delta Sinus Noise Pad](https://open.spotify.com/album/4tpiv36su2Y9b9BPAJgPNH) | 2:04 |
 | 353 | [Open Fields](https://open.spotify.com/track/4bCf42P2k4fg2bARV81dqt) | [Timothy Byrne](https://open.spotify.com/artist/2DGtEENrN5vjB1DXzRaL58) | [Open Fields](https://open.spotify.com/album/6snbZP5VYpnecxN5TZqtSk) | 2:29 |
 
-Snapshot ID: `MCxjNGI1MzIzMGQ4ZTRjM2NkNTQ1YmFjMzE4YzgwZDFlM2I2ZmVjZTEz`
+Snapshot ID: `MCxjMGQzNWYyYzhkMDA2MjFjZmEyNmIzOWU1OTkzZTE1ZTA5ZjNhOTg1`

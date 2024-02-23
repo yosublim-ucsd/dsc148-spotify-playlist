@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 
 > Get your Sunday sound right with this collection of current Gospel essentials.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,623 likes - 60 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,685 likes - 60 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 | 59 | [I'm Good](https://open.spotify.com/track/06PTBb12MxQdtgyFIawUOK) | [Tim Bowman Jr.](https://open.spotify.com/artist/5A8ZfGPAh4EUTmOJ0Fck3l) | [I'm Good](https://open.spotify.com/album/4L1qVMFTElNgKI8TdRyn77) | 3:45 |
 | 60 | [All of My Help](https://open.spotify.com/track/29RRapHwQNANgAdwc6HuPE) | [Geoffrey Golden](https://open.spotify.com/artist/6f6vvDOOCgPmArVZcmVS2p) | [Kingdom...LIVE!](https://open.spotify.com/album/6s3BIqDGjArQt2Pv26qB6a) | 5:06 |
 
-Snapshot ID: `MCwxNWYzZDJlNmE5OGVmNDRiNjE0NTUwMjZlZWIxNjRlNWY0NTg3MGE5`
+Snapshot ID: `MCw5NjBlNjM5NGU2MjcxZGNhZGU4NmRjOTY2NGExMjc3MWVlNzgxMzg2`

@@ -1,7 +1,7 @@
 {
-  "2024-02-22": 205858,
+  "2024-02-23": 205928,
   "date_first_scraped": "2020-10-13",
-  "description": "The best new pop music by independent artists and labels. Cover: Carver Jones. Artwork by Paola Saliby",
+  "description": "The best new pop music by independent artists and labels. Cover: Gabi Sklar. Artwork by Paola Saliby",
   "name": "Fresh Finds Pop",
   "tracks": [
     {
@@ -1059,7 +1059,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 146715,
       "name": "9 to 5",
       "url": "https://open.spotify.com/track/64H1lz2hGCAJv4rVNJmDCs"
@@ -1139,6 +1139,24 @@
       "duration_ms": 172134,
       "name": "A & L",
       "url": "https://open.spotify.com/track/16l4wfaJ69sUghew8JcEVh"
+    },
+    {
+      "album": {
+        "name": "A Cool Car And A Good Smile",
+        "url": "https://open.spotify.com/album/1oi244o3aL9rZoXi06mNDr"
+      },
+      "artists": [
+        {
+          "name": "Aurora D'Amico",
+          "url": "https://open.spotify.com/artist/0RK60fxGsIiPdTJiToyEFA"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195914,
+      "name": "A Cool Car And A Good Smile",
+      "url": "https://open.spotify.com/track/1kbwRwjFRyAHfrHV82hCDF"
     },
     {
       "album": {
@@ -5671,7 +5689,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 161809,
       "name": "BIG BABY!",
       "url": "https://open.spotify.com/track/0uH5zsgP6V5uDYMFGpg8zs"
@@ -10092,6 +10110,24 @@
     },
     {
       "album": {
+        "name": "clocks",
+        "url": "https://open.spotify.com/album/2uUEmLQbqZMtgTdN6AkQ60"
+      },
+      "artists": [
+        {
+          "name": "Alayna Grace",
+          "url": "https://open.spotify.com/artist/3Y6fsLnLUTNGc2BpscCdL1"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190500,
+      "name": "clocks",
+      "url": "https://open.spotify.com/track/4QpM0qoxJ9JxpggqXrDjIt"
+    },
+    {
+      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/6kYFj9Qebapq8yW5JDmG97"
       },
@@ -10976,6 +11012,28 @@
     },
     {
       "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/0ZD1iNiEoNbj0Yw63TvGrq"
+      },
+      "artists": [
+        {
+          "name": "TATYANA",
+          "url": "https://open.spotify.com/artist/40SwTLJmxQgWXTFi4YUKyP"
+        },
+        {
+          "name": "Dave Okumu",
+          "url": "https://open.spotify.com/artist/3a34v9rZzoFZ7K19NszX9F"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243762,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/10okvnC1neFd2vqHvbPS6R"
+    },
+    {
+      "album": {
         "name": "Control!",
         "url": "https://open.spotify.com/album/7nWOs3fs0FfIPKfqq8kTMP"
       },
@@ -11683,7 +11741,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 151036,
       "name": "CRUSH",
       "url": "https://open.spotify.com/track/5gPKKLIHcsJ4sxzfgiBlGr"
@@ -13385,7 +13443,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 245571,
       "name": "Different",
       "url": "https://open.spotify.com/track/1KfXuX55mKi7dJmNhDlaW3"
@@ -14439,7 +14497,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 178540,
       "name": "Down Bad",
       "url": "https://open.spotify.com/track/54Y9wy1xU15thURSq12kHl"
@@ -16611,6 +16669,24 @@
       "duration_ms": 202500,
       "name": "Face",
       "url": "https://open.spotify.com/track/4adUFO0GaeoZfdhdtj9RNZ"
+    },
+    {
+      "album": {
+        "name": "Face Card",
+        "url": "https://open.spotify.com/album/2DDzCw6ZK7qos7nueMfrJE"
+      },
+      "artists": [
+        {
+          "name": "Emerson Azarian",
+          "url": "https://open.spotify.com/artist/1jyynbj6tIl5gwyqIjAp1j"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167767,
+      "name": "Face Card",
+      "url": "https://open.spotify.com/track/61GVPKAnqFecUWee4ulZuS"
     },
     {
       "album": {
@@ -20357,6 +20433,24 @@
       "duration_ms": 209288,
       "name": "GLACIER WORLD",
       "url": "https://open.spotify.com/track/7Kg50kU2fY4pltauuGRPoE"
+    },
+    {
+      "album": {
+        "name": "Glad You Hate Me",
+        "url": "https://open.spotify.com/album/7ikfCplRVnTcrbYvZlLiAd"
+      },
+      "artists": [
+        {
+          "name": "Casey Conroy",
+          "url": "https://open.spotify.com/artist/7elB9Pjvsisg4hKILUjaUr"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167760,
+      "name": "Glad You Hate Me",
+      "url": "https://open.spotify.com/track/4ddCcM5A7G0p8dxs7mWo0k"
     },
     {
       "album": {
@@ -24342,6 +24436,24 @@
     },
     {
       "album": {
+        "name": "Hostile",
+        "url": "https://open.spotify.com/album/5Say74X6vOcKRdnKB6hVY2"
+      },
+      "artists": [
+        {
+          "name": "Maya Kuriel",
+          "url": "https://open.spotify.com/artist/0QdMbXjSLBS2LfjQ3lvJvP"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153110,
+      "name": "Hostile",
+      "url": "https://open.spotify.com/track/0GeIW97TvjqE2TA4P6a7gB"
+    },
+    {
+      "album": {
         "name": "Hot in Miami",
         "url": "https://open.spotify.com/album/5maKxLdX4nf3NoC7aZmBGm"
       },
@@ -24375,6 +24487,24 @@
       "duration_ms": 163111,
       "name": "Hot In The Valley",
       "url": "https://open.spotify.com/track/7LWEJeL3lCweJUsXCufqcX"
+    },
+    {
+      "album": {
+        "name": "Hot Mess",
+        "url": "https://open.spotify.com/album/3F5Y3MJeZyHUEORFQHpB9q"
+      },
+      "artists": [
+        {
+          "name": "Anacy",
+          "url": "https://open.spotify.com/artist/2oXqSYj1115os7ZUoEAEd0"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211283,
+      "name": "Hot Mess",
+      "url": "https://open.spotify.com/track/5tewOYXM6gHZ1Lux0JkIjm"
     },
     {
       "album": {
@@ -27295,7 +27425,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 114561,
       "name": "If It's Alright",
       "url": "https://open.spotify.com/track/4Gad4v9Cfv6HtU7xwk6b4F"
@@ -27407,6 +27537,24 @@
       "duration_ms": 179715,
       "name": "IKEA",
       "url": "https://open.spotify.com/track/1pwjJhu3zwoWNsD7oXUTXo"
+    },
+    {
+      "album": {
+        "name": "Willow Knox",
+        "url": "https://open.spotify.com/album/2wfWspz78YuTNKBZcsmqpL"
+      },
+      "artists": [
+        {
+          "name": "Willow Knox",
+          "url": "https://open.spotify.com/artist/2NOyeZEU5Kx1lB9xEOOftB"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219370,
+      "name": "Illuminate",
+      "url": "https://open.spotify.com/track/2aN738vVrFyKjwy8ypg1US"
     },
     {
       "album": {
@@ -28389,6 +28537,24 @@
       "duration_ms": 193000,
       "name": "It's Depression (feat. Middle Part)",
       "url": "https://open.spotify.com/track/6wxdyMsMqUHOeMffm1Gsch"
+    },
+    {
+      "album": {
+        "name": "It's Giving...",
+        "url": "https://open.spotify.com/album/3wsRwVsFWBq7cpPcSQPa60"
+      },
+      "artists": [
+        {
+          "name": "ili",
+          "url": "https://open.spotify.com/artist/4Yn7SW1ERvmPwQHPMiv8t4"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189199,
+      "name": "It's Giving...",
+      "url": "https://open.spotify.com/track/14sy9bz023LO93gUiyf5Mz"
     },
     {
       "album": {
@@ -29686,6 +29852,24 @@
     },
     {
       "album": {
+        "name": "Last Impression",
+        "url": "https://open.spotify.com/album/4g8K0OE7R8aTWhoItCw61v"
+      },
+      "artists": [
+        {
+          "name": "Eiza Murphy",
+          "url": "https://open.spotify.com/artist/0A7bgQaXKKxFsvurGyFMn9"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124000,
+      "name": "Last Impression",
+      "url": "https://open.spotify.com/track/2Csuu6a5cp3UBjS3JD6WQR"
+    },
+    {
+      "album": {
         "name": "Last Night",
         "url": "https://open.spotify.com/album/0IRiqOzIrVVeAvX2qJ0lsX"
       },
@@ -30029,6 +30213,24 @@
       "duration_ms": 215013,
       "name": "Laura",
       "url": "https://open.spotify.com/track/6UHwNSXBUajmZJhPDJwWUi"
+    },
+    {
+      "album": {
+        "name": "Lavender",
+        "url": "https://open.spotify.com/album/45ZJzB6Cxl4liNOyfcejQ5"
+      },
+      "artists": [
+        {
+          "name": "HYRA",
+          "url": "https://open.spotify.com/artist/2FuelQeDO3E7kIrTfkySKS"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183230,
+      "name": "Lavender",
+      "url": "https://open.spotify.com/track/3Sa7PJ7ohCAEnAzLccmmfj"
     },
     {
       "album": {
@@ -31871,7 +32073,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 162519,
       "name": "Lonely Times",
       "url": "https://open.spotify.com/track/2RS2WXaaZ1CVZE0mLjxoG5"
@@ -34872,6 +35074,24 @@
     },
     {
       "album": {
+        "name": "middle child",
+        "url": "https://open.spotify.com/album/4dvmArexmtj9ZkeswotNk5"
+      },
+      "artists": [
+        {
+          "name": "Madeleine Mayi",
+          "url": "https://open.spotify.com/artist/2SYmvaU9yUWwbsMdrsd4LX"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "middle child",
+      "url": "https://open.spotify.com/track/6gGxkaI0FRgEAxjOPEd9ow"
+    },
+    {
+      "album": {
         "name": "Middle Class",
         "url": "https://open.spotify.com/album/0vJOTkiG7hpRSxjAO9rS2b"
       },
@@ -35623,7 +35843,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 162128,
       "name": "Monster",
       "url": "https://open.spotify.com/track/267gC1Dt6Yp4qmq8pJS5Qx"
@@ -35677,7 +35897,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 135267,
       "name": "Mood Ring",
       "url": "https://open.spotify.com/track/5cdQej7yMAVg8lTZieqweB"
@@ -36661,6 +36881,24 @@
       "duration_ms": 180173,
       "name": "nature song",
       "url": "https://open.spotify.com/track/2XZ4QZuNkjkfUdrOG3JsVG"
+    },
+    {
+      "album": {
+        "name": "Nature Song",
+        "url": "https://open.spotify.com/album/2EiH4Rpf1OIxnvbZXOjkHe"
+      },
+      "artists": [
+        {
+          "name": "TogetherEffect",
+          "url": "https://open.spotify.com/artist/43O9PYwjSqOaAgz8BQxswm"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186254,
+      "name": "Nature Song",
+      "url": "https://open.spotify.com/track/05VJciw9yX9yDVTyBEWWqv"
     },
     {
       "album": {
@@ -39384,6 +39622,24 @@
     },
     {
       "album": {
+        "name": "Opera",
+        "url": "https://open.spotify.com/album/4gcOmkhkrG8Ewtq1H0Ss1c"
+      },
+      "artists": [
+        {
+          "name": "Valencia Grace",
+          "url": "https://open.spotify.com/artist/5cb5ljWIIrvUxokdf2vl6A"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173893,
+      "name": "Opera",
+      "url": "https://open.spotify.com/track/25qioGPeNaC1X9FiVPIoJ0"
+    },
+    {
+      "album": {
         "name": "Optimistic",
         "url": "https://open.spotify.com/album/2vUEXrwUmhGB76UsAPb9rO"
       },
@@ -41681,7 +41937,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 154285,
       "name": "Porn Star",
       "url": "https://open.spotify.com/track/3gb6mXrHtMgHV6XDgFXb60"
@@ -44281,6 +44537,24 @@
       "duration_ms": 217795,
       "name": "Roster",
       "url": "https://open.spotify.com/track/1UfZWmGkJuNQVlhXMPs9P8"
+    },
+    {
+      "album": {
+        "name": "Rough Patch",
+        "url": "https://open.spotify.com/album/4FaFDRGq7xviGcqAC48XBZ"
+      },
+      "artists": [
+        {
+          "name": "EVALINA",
+          "url": "https://open.spotify.com/artist/2EOdORJgTiT4w2eLQk1IWE"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179482,
+      "name": "Rough Patch",
+      "url": "https://open.spotify.com/track/0TNDy8OHQZkiZn9W5EObNr"
     },
     {
       "album": {
@@ -55553,7 +55827,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 141880,
       "name": "Twisted",
       "url": "https://open.spotify.com/track/1m1DJcA1MNiadetY9tFZzD"
@@ -57057,7 +57331,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 233025,
       "name": "Wall St",
       "url": "https://open.spotify.com/track/1H39jAnukCwKGyYe1Azy9Y"
@@ -58958,6 +59232,24 @@
     },
     {
       "album": {
+        "name": "White Lies",
+        "url": "https://open.spotify.com/album/2E1WfryrNzCwCgn9QOXeZA"
+      },
+      "artists": [
+        {
+          "name": "Flo Gallop",
+          "url": "https://open.spotify.com/artist/3hpT13ziNDOLWo3HzuS2IN"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136918,
+      "name": "White Lies",
+      "url": "https://open.spotify.com/track/6pQLLR4LMT3vszYOeukEQY"
+    },
+    {
+      "album": {
         "name": "White Mazda Truck",
         "url": "https://open.spotify.com/album/4pvREzEo5DrdmfHffBZQFG"
       },
@@ -60815,6 +61107,24 @@
       "duration_ms": 212571,
       "name": "Younger",
       "url": "https://open.spotify.com/track/3YF3WkYkHyiEk8sqhyE2VQ"
+    },
+    {
+      "album": {
+        "name": "Youniverse",
+        "url": "https://open.spotify.com/album/0S5HUfsYHiWndYT4uGY4pz"
+      },
+      "artists": [
+        {
+          "name": "Gabi Sklar",
+          "url": "https://open.spotify.com/artist/72K82D7yyKc8TZ45IZvPrj"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160500,
+      "name": "Youniverse",
+      "url": "https://open.spotify.com/track/7leBNpRPcy10AxJCG8UesN"
     },
     {
       "album": {

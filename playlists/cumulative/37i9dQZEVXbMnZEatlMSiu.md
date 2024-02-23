@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Taiwan.
 
-818 songs - 2 day 0 hr 49 min
+820 songs - 2 day 0 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [Cupid \- Twin Ver.](https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 | 2023-04-17 | 2023-06-08 |
 | [Dance The Night \- From Barbie The Album](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 | 2023-07-27 | 2023-09-17 |
 | [Darl+ing](https://open.spotify.com/track/6vo0dV9t7PCQZKsLFwVwZ5) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Darl+ing](https://open.spotify.com/album/0Dl7e3uv3UrVDdZ6saplzH) | 2:56 | 2022-04-16 | 2022-04-27 |
-| [DASH](https://open.spotify.com/track/2RoYgkPzUY0vY7lhUuyus1) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: BREAK](https://open.spotify.com/album/5CCxLQgcI7cVwmgFDlicbP) | 2:46 | 2024-01-17 |  |
+| [DASH](https://open.spotify.com/track/2RoYgkPzUY0vY7lhUuyus1) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: BREAK](https://open.spotify.com/album/5CCxLQgcI7cVwmgFDlicbP) | 2:46 | 2024-01-17 | 2024-02-23 |
 | [DDU\-DU DDU\-DU](https://open.spotify.com/track/4lQsB3ERTWSNaAN1IkuNRl) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE UP](https://open.spotify.com/album/0wOiWrujRbxlKEGWRQpKYc) | 3:31 | 2023-03-20 | 2023-03-25 |
 | [Dear Life](https://open.spotify.com/track/6YF5V9C2tXqaGfW4wLAIqK) | [Yisa Yu](https://open.spotify.com/artist/75CM5fojYdKYD0xYSFh22Z) | [Dear Life](https://open.spotify.com/album/1AqoB2vAQIWsnd51q058Lb) | 3:38 | 2021-06-19 | 2021-06-22 |
 | [DEATH TRIP](https://open.spotify.com/track/77nvm4SGjSDyAjdBpBCxuO) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD), [Soft Lipa](https://open.spotify.com/artist/3Xp3DA50zRP4TYOtNR7k1T) | [DEATH TRIP](https://open.spotify.com/album/3n4hIndd4ApUv0FUG2KbLO) | 3:42 | 2021-12-29 | 2022-01-11 |
@@ -196,6 +196,7 @@
 | [Hold My Hand](https://open.spotify.com/track/1c2hJSwcCfoPEw1su83Sw0) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Top Gun: Maverick \(Music From The Motion Picture\)](https://open.spotify.com/album/3tjIKRAPBy5Qu4z8F5HmBz) | 3:45 | 2022-05-30 | 2022-08-07 |
 | [Hold On](https://open.spotify.com/track/1nahzW3kfMuwReTka28tH5) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:50 | 2021-03-27\* | 2021-06-25 |
 | [Holly Jolly Christmas](https://open.spotify.com/track/6tjituizSxwSmBB5vtgHZE) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas](https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un) | 1:59 | 2021-12-26 | 2022-12-28 |
+| [Holssi](https://open.spotify.com/track/0UTtK6hregIBOsefavRI26) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [The Winning](https://open.spotify.com/album/08CvAj58nVMpq1Nw7T6maj) | 3:10 | 2024-02-22 |  |
 | [Honest \(feat\. Don Toliver\)](https://open.spotify.com/track/2KdKh9vHbKW0tZLqtpxxI0) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Honest](https://open.spotify.com/album/2luYA3MBCKI7SfK3K0U3xf) | 3:13 | 2022-05-01 | 2022-05-08 |
 | [HOT](https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Album 'Face the Sun'](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) | 3:17 | 2022-05-28 | 2022-06-20 |
 | [Houdini](https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Houdini](https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb) | 3:05 | 2023-11-15 | 2023-12-01 |
@@ -363,6 +364,7 @@
 | [Seven \(feat\. Latto\) \(Explicit Ver.\)](https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 3:03 | 2023-11-04 |  |
 | [Seven \(feat\. Latto\) \(Explicit Ver.\)](https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Seven \(feat\. Latto\)](https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX) | 3:04 | 2023-07-15 | 2023-11-05 |
 | [Shape of You](https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 3:53 | 2024-02-05 | 2024-02-07 |
+| [Shh.\. \(Feat\. HYEIN, WONSUN JOE & Special Narr\. Patti Kim\)](https://open.spotify.com/track/20uUaRkfRJZG15mXfn7LaU) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [HYEIN](https://open.spotify.com/artist/01BBFQPvi8ywBqHPzWzoyU), [Joe Won Sun](https://open.spotify.com/artist/2rbcCyEKbnxdEukZHHGnby), [Patti Kim](https://open.spotify.com/artist/3YLoKDj5EXsg3AorXDgLlz) | [The Winning](https://open.spotify.com/album/08CvAj58nVMpq1Nw7T6maj) | 3:46 | 2024-02-22 |  |
 | [Shivers](https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:27 | 2021-10-31 | 2024-02-09 |
 | [Shivers](https://open.spotify.com/track/6bQfNiqyCX7UaQSvVVGo4I) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Shivers](https://open.spotify.com/album/5kFCfioZraFsRWpoitQjmx) | 3:27 | 2021-09-12 | 2021-09-17 |
 | [Shivers](https://open.spotify.com/track/75MNhvTCCKsST3YqqUiU9r) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Shivers](https://open.spotify.com/album/531c37GGv5IvddCvBv3sWT) | 3:27 | 2021-09-17 | 2021-10-31 |
@@ -457,7 +459,7 @@
 | [water color](https://open.spotify.com/track/2pNJ0TsgiRc4mGdYHazD5w) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [Redd](https://open.spotify.com/album/32pXXle0zoKIFG03iefH2c) | 3:09 | 2021-04-18 | 2021-04-26 |
 | [Way Up](https://open.spotify.com/track/3lHNwFYDhFVsbIXhQ1qnre) | [瘦子E.SO](https://open.spotify.com/artist/2qXGNIlmY3JrYkxOWyXZsd) | [EARTHBOUND](https://open.spotify.com/album/5rdRFD0eRjjRFoHUfnwJh0) | 3:23 | 2022-02-17 | 2022-02-22 |
 | [Way Up](https://open.spotify.com/track/41xYqsuvsCcmCHDTdqPfHY) | [瘦子E.SO](https://open.spotify.com/artist/2qXGNIlmY3JrYkxOWyXZsd) | [Way Up](https://open.spotify.com/album/2005Z9ovSc1wa3GzcrZWko) | 3:23 | 2021-12-24 | 2022-01-20 |
-| [We got so much](https://open.spotify.com/track/5fCKBIJ7BwaCpxxwZCbS5X) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY](https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C) | 2:45 | 2024-02-21 |  |
+| [We got so much](https://open.spotify.com/track/5fCKBIJ7BwaCpxxwZCbS5X) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY](https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C) | 2:45 | 2024-02-21 | 2024-02-23 |
 | [We're Good](https://open.spotify.com/track/1diS6nkxMQc3wwC4G1j0bh) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia \(The Moonlight Edition\)](https://open.spotify.com/album/0JeyP8r2hBxYIoxXv11XiX) | 2:45 | 2021-03-27\* | 2021-04-06 |
 | [Weekend](https://open.spotify.com/track/6cqH1q7g5GeRVQVMK1Vc7f) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Weekend](https://open.spotify.com/album/4tJsXd2onpa4P9lFmkJIKy) | 3:53 | 2021-07-09 | 2021-07-29 |
 | [Welcome To MY World \(feat\. nævis\)](https://open.spotify.com/track/6qVqWJxIpsabUKBILG7d6N) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [nævis](https://open.spotify.com/artist/2067CjQ2nC56cRZX8goeHg) | [Welcome To MY World \(feat\. nævis\)](https://open.spotify.com/album/2o35lokKrBVG73xWFDEVsX) | 3:26 | 2023-05-09 | 2023-05-13 |

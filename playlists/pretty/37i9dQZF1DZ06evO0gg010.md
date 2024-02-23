@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gg010.md) - [plain]
 
 > This is Fuerza Regida\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 392,070 likes - 51 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 392,778 likes - 51 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gg010.md) - [plain]
 | 50 | [¿Qué Se Te Quitó?](https://open.spotify.com/track/2VaHYCxdN3xpNAQdPzIqkG) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [¿Qué Se Te Quitó?](https://open.spotify.com/album/0IHTlF1XZDLBtiGKiULBuW) | 1:27 |
 | 51 | [Que Esta Pasando](https://open.spotify.com/track/26xQbFpVg8JCT5NKQFJXg8) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Que Esta Pasando](https://open.spotify.com/album/6Oe0sKJyLnwFwfKwcbSRZS) | 2:42 |
 
-Snapshot ID: `Mjg0NzUyOTAsMDAwMDAwMDA0NTE1MmRkNTIwZDllODUyMjJjYzA0NzVhZjllNDExOA==`
+Snapshot ID: `Mjg0NzcwNzYsMDAwMDAwMDA1NGJkOThkNGNlOGZiZDRhNzVhODA2MjAwYjcxOGM3NQ==`

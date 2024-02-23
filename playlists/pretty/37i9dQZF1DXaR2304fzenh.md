@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaR2304fzenh.md) - [plain]
 
 > El título says it all, a whole mood!
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,341 likes - 86 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,467 likes - 86 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaR2304fzenh.md) - [plain]
 | 85 | [Chalineras](https://open.spotify.com/track/6y9kwY2Z6zOUmVymmj9P06) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W), [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy) | [Chalineras](https://open.spotify.com/album/06AC0m6945Q1SLAv6sSvp2) | 3:37 |
 | 86 | [Vete Ya](https://open.spotify.com/track/0UkIrDmZ19PFFi6SXx9RBd) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Lo Mejor De Homenaje A Una Vida](https://open.spotify.com/album/4IMIycfVRmQVdtKYeoWqqr) | 2:35 |
 
-Snapshot ID: `MCxhZWRlODAxNzQwZTQxMWU2OTg4OWE3MDcwZDYxMmNmODZiODMwODc4`
+Snapshot ID: `MCw4Mzg4MzczNzY5MzUxOTZmZWJmNTlmMmFhOTMyMGZhOWQ0YzljZGIy`

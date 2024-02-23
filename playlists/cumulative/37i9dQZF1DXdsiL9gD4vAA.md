@@ -4,7 +4,7 @@
 
 > Let these contemplative couplets take you away.
 
-142 songs - 13 hr 21 min
+143 songs - 13 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Dil Jalaane Ki Baat](https://open.spotify.com/track/7y8nfUqN3m56KiisCjYk7s) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [The Reluctant Fundamentalist Soundtrack](https://open.spotify.com/album/0DY2lIwaHNbR7aoLKWZit5) | 1:42 | 2021-12-01 | 2023-09-22 |
 | [Dil Lagta Hi Nahi](https://open.spotify.com/track/5TyvTWaL4SPH3jkCnBAIcL) | [AASHI TITORIA](https://open.spotify.com/artist/0ZgI3wn1xsCsYxVLofMu5q) | [Dil Lagta Hi Nahi](https://open.spotify.com/album/3zW2rhHAI9vwmL8VPQaIv3) | 3:22 | 2023-06-30 | 2023-07-26 |
 | [Dil Todne Wale](https://open.spotify.com/track/6xO3SmNmVtaygvN66l0tAT) | [Sudeep Banerji](https://open.spotify.com/artist/7FdTsGrbJB8uVpWbTrKR2H), [Vishal Bhardwaj](https://open.spotify.com/artist/1JdHoZwkwOmX2Pl2iTwnzc) | [Charlie Chopra and the Mystery of Solang Valley \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2iosAMmpoI7hP5N6ArzvR8) | 3:58 | 2023-10-09 |  |
+| [Dil\-E\-Naadaan Tujhe Hua Kya Hai](https://open.spotify.com/track/3sV3XBN8XZaJpsYgZwzfD5) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU), [Chitra Singh](https://open.spotify.com/artist/6pDga1iElP4dCa4S5bYvoo) | [Main Ghalib](https://open.spotify.com/album/0sjTmXIHy3WFkGz841v9Yc) | 1:00 | 2024-02-22 |  |
 | [Dilkash](https://open.spotify.com/track/4RBzmqblZsEuNypCAHdWYf) | [Talat Aziz](https://open.spotify.com/artist/6a0qIxqTaL1BgqUfby0JLc) | [Gulmohar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/79Xlo73WJ5gL2TnbAFWw87) | 4:29 | 2023-02-27 | 2023-03-21 |
 | [Dilse Teri Nigah](https://open.spotify.com/track/1JqabevonrwVWIEzzuaMDM) | [Mithilesh Patankar](https://open.spotify.com/artist/144JYTsFjgpswjlsqQqpKa) | [Dilse Teri Nigah](https://open.spotify.com/album/57BHkfYeoCMGnCUREonodV) | 5:23 | 2024-02-15 |  |
 | [Duniya Kisi Ke Pyar Mein](https://open.spotify.com/track/4UDsOiaMP4pLawOzlmeGKk) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Golden Greats Of Mehdi Hassan](https://open.spotify.com/album/5kZPQXY1qFWCZrlGLApOKq) | 5:40 | 2021-12-01 |  |

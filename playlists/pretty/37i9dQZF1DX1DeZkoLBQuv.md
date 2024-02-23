@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DeZkoLBQuv.md) - [plain]
 
 > Celebre o nascimento de Jesus com louvores natalinos!
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,229 likes - 50 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,228 likes - 50 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DeZkoLBQuv.md) - [plain]
 | 49 | [Surgem Anjos Proclamando](https://open.spotify.com/track/5pNlqLCLOabYZ4loPeomBL) | [Os Meireles](https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1) | [Folk Christmas](https://open.spotify.com/album/0FzqPCxiw93GwXTou4IvZX) | 2:51 |
 | 50 | [No Humilde Presépio \(Away In a Manger\)](https://open.spotify.com/track/6FW7SRtspdfCTaTv4GM5j3) | [Trio Nascimento](https://open.spotify.com/artist/0nmfUUkYqGngUmVhJfGAFw) | [O Natal de Todos Nós](https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB) | 3:31 |
 
-Snapshot ID: `MCwxNjFiMjY3NjUxODRkNzMwMTcyNTdlNmQ1ODliODA0NGVkMjkwNjY0`
+Snapshot ID: `MCxmYTAwMjYxYzQ1NTA1NTViNDcxN2E3NjBmNzQ1ZDVjNjc4MWY5MDEw`

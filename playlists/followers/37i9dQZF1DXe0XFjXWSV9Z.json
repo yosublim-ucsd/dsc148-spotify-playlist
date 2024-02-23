@@ -1,9 +1,27 @@
 {
-  "2024-02-22": 42230,
+  "2024-02-23": 42240,
   "date_first_scraped": "2023-08-09",
   "description": "La psicodelia tropical latinoamericana y sus alucinantes ritmos.",
   "name": "TROPILOCO",
   "tracks": [
+    {
+      "album": {
+        "name": "Entre Bacaner\u00eda y Barbarie",
+        "url": "https://open.spotify.com/album/4l94tB5FUn0iUYDNIgmypU"
+      },
+      "artists": [
+        {
+          "name": "Masilva",
+          "url": "https://open.spotify.com/artist/4FOrNtZ9q20zjb8O9pY8WK"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255198,
+      "name": "Aguaepanela Fant\u00e1stica",
+      "url": "https://open.spotify.com/track/3gTZmynwI06fQJHhvr0P2E"
+    },
     {
       "album": {
         "name": "Aguaepanela Fant\u00e1stica",
@@ -1561,7 +1579,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 175906,
       "name": "Mi Gran Noche",
       "url": "https://open.spotify.com/track/7Ce3RwQrxYwih27gpRjJhE"
@@ -1767,7 +1785,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-21",
+      "date_removed": null,
       "duration_ms": 226000,
       "name": "OVNI Cumbia",
       "url": "https://open.spotify.com/track/4HaTOY6NHoWNr80QXs5sEm"
@@ -2207,7 +2225,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 155013,
       "name": "Un Silbido Amoroso",
       "url": "https://open.spotify.com/track/548qXG0DVSXKPuQ51EuvcK"

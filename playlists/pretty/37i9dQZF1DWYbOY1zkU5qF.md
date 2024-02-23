@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbOY1zkU5qF.md) - [plain]
 
 > Versiones acústicas de tus canciones favoritas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,580 likes - 80 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,655 likes - 80 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbOY1zkU5qF.md) - [plain]
 | 79 | [Enamórate de Alguien Más](https://open.spotify.com/track/3i2C6htxWCFRNhGK7d8ZvS) | [Melanie Espinosa](https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6) | [Enamórate de Alguien Más](https://open.spotify.com/album/2ikNJTLWpYfUerZClTyIS0) | 2:46 |
 | 80 | [Soñe](https://open.spotify.com/track/35tKDCAmNFueq5KmvGkzRr) | [Aline Terrein](https://open.spotify.com/artist/1KHhTDB0lBCXqm54Fseodx) | [Soñé](https://open.spotify.com/album/3zGPOSwv1krOcKkv8QgpBs) | 2:29 |
 
-Snapshot ID: `MCw4ZTcxMTRmYWRkYmM0ZTUxYzNjMmRiYjc5MjAyMTliNWE2MjBlNjRi`
+Snapshot ID: `MCwyMWIzZGEzN2NmZWIzNTdlZjBhMWY0MTcxNGNjZjFkZGNjY2I5NTA5`

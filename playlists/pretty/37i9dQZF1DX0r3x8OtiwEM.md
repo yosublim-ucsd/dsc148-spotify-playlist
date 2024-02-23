@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 
 > Chill techno, melodic house and tech house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 928,459 likes - 60 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 928,617 likes - 60 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 | 59 | [Plastic \(Scheinizzl Remix\)](https://open.spotify.com/track/69xVp5nLMHBlD7KWdm3YEP) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [Scheinizzl](https://open.spotify.com/artist/1V7BhnZpY3khae9xpS1LfV) | [Plastic \(Scheinizzl Remix\)](https://open.spotify.com/album/56x2n57k26tNK4x2RdeiNq) | 6:47 |
 | 60 | [The Future](https://open.spotify.com/track/1e806Bcl0zWAr4Q3YhaMJD) | [Tube & Berger](https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h), [Goatchy](https://open.spotify.com/artist/2MOGeYMRvzFxWLgdwZpeQh), [Frank Sonic](https://open.spotify.com/artist/3VyBzVPO0uq9bqgVeDyPmR) | [The Future](https://open.spotify.com/album/0j9b4LarSNfTyScEtGwyAF) | 3:31 |
 
-Snapshot ID: `MCxlY2VkNGNkNWJkMDQwMDMzNjIzYzhiOTAxZGFkMGU3MTI5NDQ3YWFi`
+Snapshot ID: `MCxhOTZlN2E0OTBjNmUwMjEwMzg5MDU0NDRkMWU2MTVmMjVmNzAyODJj`

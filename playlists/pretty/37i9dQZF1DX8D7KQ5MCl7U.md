@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D7KQ5MCl7U.md) - [plain]
 
 > All Coke Studio Pakistan tracks in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,289 likes - 150 songs - 16 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,346 likes - 150 songs - 16 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D7KQ5MCl7U.md) - [plain]
 | 149 | [Kamlee](https://open.spotify.com/track/4MvywlWl1pdPGFFFfTnghm) | [Hadiqa Kiani](https://open.spotify.com/artist/24X1z32aFn59XU4P9Vh9gP), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions : Season 5](https://open.spotify.com/album/2Nvdh0qGvH4nufpFi0DmeK) | 7:52 |
 | 150 | [Hans Dhuni](https://open.spotify.com/track/0PxuNctTRp08Bemc9CFL7T) | [Ustad Raees Khan](https://open.spotify.com/artist/5Obutzzc5UZP1l6t6jmjwh) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 3:59 |
 
-Snapshot ID: `MCwwNmU1OTI5YWIzNzhjZmMyMWJkYWQ0ZGI1OWE2YTJkY2VkMTc2OTk1`
+Snapshot ID: `MCwxODg5MDNiNzhmMzQxYzE5NjI1OWQ0YWI3YWNhN2E4NmJiNTJlNGMw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 
 > Hand\-curated cuts from the vault, no record player required.
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,565 likes - 75 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,619 likes - 75 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 | 74 | [The Sweetest Pain](https://open.spotify.com/track/0Qlbpljv5ZRlxRaYYnsvih) | [Dexter Wansel](https://open.spotify.com/artist/7azp9wRyXcxIq5vZnJgYvt) | [Time Is Slipping Away](https://open.spotify.com/album/636NtK3yPJ395a6nyXJ1ft) | 5:45 |
 | 75 | [Crawshay](https://open.spotify.com/track/2O0D6AbuaGHag0QrPGAJhV) | [Cymande](https://open.spotify.com/artist/4hfcSstwnyuBoek1dQwLkG) | [Second Time Round](https://open.spotify.com/album/3OE1HvJztiyEn6p3dTmStC) | 4:20 |
 
-Snapshot ID: `MCxmNTNkN2I3ZTIxOTg4OWIwNTNkMWNkMDM1YTliOWFlZTJjZDE1NWNh`
+Snapshot ID: `MCxhODY4NzAzNDMzMTc3MGRkYThiM2FiODU1MjEzMGE3ZDQ1ZGE5ODRm`

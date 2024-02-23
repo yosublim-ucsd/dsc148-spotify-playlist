@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl9rMxGEmRC.md) - [plain]
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Immortal
 
-[Spotify](https://open.spotify.com/user/spotify) - 465,795 likes - 150 songs - 12 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 465,809 likes - 150 songs - 12 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl9rMxGEmRC.md) - [plain]
 | 149 | [The Common Breed](https://open.spotify.com/track/229FIG47MznxJy6077DAIM) | [Creeping Death](https://open.spotify.com/artist/0m8C12hSt640ovLaxlsd5u) | [Boundless Domain](https://open.spotify.com/album/3SJSmyMIUDmSjpHGeZKxDG) | 4:32 |
 | 150 | [Insides Out](https://open.spotify.com/track/2HozqHMcda35hKU7nefbZP) | [Wednesday 13](https://open.spotify.com/artist/6Cvzf33JDzCIw2eJU8npQo) | [Insides Out](https://open.spotify.com/album/3S7FS6FPMQkV1WjZHONnsK) | 3:32 |
 
-Snapshot ID: `MCw0NWZjNDFhMDY4NTgwOWRiN2FjYjAxM2U4ZWYwZjIzZTBlMGM4ZGQ3`
+Snapshot ID: `MCxiYzg0ZmRlMDEzMGE3ODEyZWQ1ODFhY2M5NTM4YmYyODQwMTBiYjNl`

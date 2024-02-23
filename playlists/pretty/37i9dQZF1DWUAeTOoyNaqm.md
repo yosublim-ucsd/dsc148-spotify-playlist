@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAeTOoyNaqm.md) - [plain]
 
 > Relax and fall asleep to ASMR trigger sounds \(no talking\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,960 likes - 82 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,952 likes - 82 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAeTOoyNaqm.md) - [plain]
 | 81 | [Tapping ASMR aerosol](https://open.spotify.com/track/0ybRKHesiU6m6Ut5cBowrC) | [Ezequiel Calvo](https://open.spotify.com/artist/5WBRIgdYpUWKbQ1Hr4e07K) | [Tapping ASMR](https://open.spotify.com/album/6NFYxi0HDPL3PmdkZ5cEFm) | 2:24 |
 | 82 | [Đốt Cháy Đôi Tai Của Bạn](https://open.spotify.com/track/6cm8JHAOCWlcx6jctM0NWU) | [Thiệu Rino](https://open.spotify.com/artist/6f2tNSxNSFty7kAaxhlFCf) | [24](https://open.spotify.com/album/5TEtxllWeaWoanaDQlTXSv) | 10:35 |
 
-Snapshot ID: `MCw3YjY0YzQ1MjZmZTMwNzY3MTMwMzJhN2Y2YjgxNTFkYTc2MWQ3MThh`
+Snapshot ID: `MCxhNDE0YzcxN2FmODkzYzhjNDY5YjE2NzdjODdkYWU1MzRmOGVlNjBh`

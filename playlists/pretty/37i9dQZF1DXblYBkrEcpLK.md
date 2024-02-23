@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 
 > アニメシーンを彩る女性アーティスト達を特集！ Celebrate the great female artists from anime culture\. Cover: ReoNa
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,469 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,550 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 49 | [魔法](https://open.spotify.com/track/0LL0hFBywgFHO89WSp00xW) | [Myuk](https://open.spotify.com/artist/7oVNI7cJUA5f1Qvu8vQlq9) | [魔法](https://open.spotify.com/album/1KNgIgtKAK4kSwp7si23Mw) | 3:51 |
 | 50 | [Gotoubun no Hanayome \~Arigatou no Hana\~](https://open.spotify.com/track/75DS9CHM2XEzxYrnsguHls) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [Gotoubun no Hanayome \~Arigatou no Hana\~](https://open.spotify.com/album/3i7OhLd7xxZrOq16Cpg4zI) | 3:31 |
 
-Snapshot ID: `MCxjNmZjMWMzYTNiOTEyYTllN2ZkNmNhMzk0OWMxNmUwMjY3MTgzMTVm`
+Snapshot ID: `MCwwZTQ1NjY5ZDUxODFmODM2NWU1MDFmYTNiMWVhMTliZjQxY2UyZmZl`

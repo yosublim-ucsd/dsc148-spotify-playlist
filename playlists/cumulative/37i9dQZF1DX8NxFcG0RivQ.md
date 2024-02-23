@@ -4,7 +4,7 @@
 
 > El soundtrack ideal para tu sesión matutina.
 
-258 songs - 12 hr 29 min
+261 songs - 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Lindo](https://open.spotify.com/track/5mQiIVDbSB9kps6DDU9wZN) | [Nicoló Lorenzo](https://open.spotify.com/artist/01xttXNtYB50iJNkglJgXt) | [Pluma](https://open.spotify.com/album/6kHqqHaFNvBO40HUSyVyba) | 2:53 | 2023-08-29 |  |
 | [Liquid Rainbow](https://open.spotify.com/track/3ex8tsDC5KYifvmmoxc3il) | [Santana Ruiz](https://open.spotify.com/artist/3OswQADkQvdWSqFtNH2YqQ) | [Liquid Rainbow](https://open.spotify.com/album/0w6ObU4TyxzkVQNEHWd1JK) | 3:28 | 2023-08-29 |  |
 | [Lithe](https://open.spotify.com/track/5V9qmxeatZwO8wctLXiZIR) | [Siona Swim](https://open.spotify.com/artist/666qwMCdAuZ7PEov9XXGTs) | [Lithe](https://open.spotify.com/album/70L8PU7byfp8KTSkYKNi6U) | 2:42 | 2023-08-29 |  |
+| [Litibú](https://open.spotify.com/track/1GPlRmWCG6sKvOQEux2jld) | [Sayulita](https://open.spotify.com/artist/1TZG0boEXBMRfxjj1nH6TM) | [Litibú](https://open.spotify.com/album/6cAguDFxRSBEHF6lsC17je) | 2:18 | 2024-02-22 |  |
 | [Lliw](https://open.spotify.com/track/3dCdGk4tP6pqWOlfjuzeEE) | [Carwyn](https://open.spotify.com/artist/07xmi3luGn1Zgl4LbQs9i3) | [Lliw](https://open.spotify.com/album/0GTv1Y6grHgTgFcqKiOWDS) | 2:39 | 2023-08-29 |  |
 | [Logi Calm](https://open.spotify.com/track/1USmlL8Lc4jSClVdvmxQsk) | [Sara Kisha](https://open.spotify.com/artist/77qANxC0CCaFtLxLCJfCEM) | [Forever](https://open.spotify.com/album/7dER2Jv0qJM5GRaDbabCl4) | 3:14 | 2023-08-29 |  |
 | [Lucens](https://open.spotify.com/track/2A2PrM5rdbQPHQIaDZnxCu) | [Tristan Motuo](https://open.spotify.com/artist/3dmTIkKXnIpN7hUc46cyFi) | [Lucens](https://open.spotify.com/album/0zUwEUIDjzDsBGleRn90EY) | 2:18 | 2023-08-29 |  |
@@ -159,6 +160,7 @@
 | [Nieve](https://open.spotify.com/track/6VXtIz60EI6GUYQRsFWxNe) | [Jademaia](https://open.spotify.com/artist/3uwKWfXJqlKUArdZKjx0uo) | [Invierno](https://open.spotify.com/album/3UKA0KYjJIv0LlfgpXuhrD) | 2:34 | 2023-08-29 |  |
 | [Night Mind](https://open.spotify.com/track/6jD6Rk6mDkYM44raG3m9jA) | [Brisbois](https://open.spotify.com/artist/3kp0L0gzhW88FsfpD4H0kH) | [Night Mind](https://open.spotify.com/album/0MWCo1sR8DN8cL7Ptf9qkd) | 2:24 | 2023-08-29 |  |
 | [Night Traveller](https://open.spotify.com/track/0VwLK1YNGY2UDzv5GeiJWB) | [Ami Sanou](https://open.spotify.com/artist/5Xqwv6jmmqS1Vx9vYJtAzY) | [Night Traveller](https://open.spotify.com/album/4Y6e0OS0PQTbUm6BPaxPly) | 2:37 | 2023-08-29 |  |
+| [Nightblooom](https://open.spotify.com/track/0Lc0SeMSM2Ao7hcCcr6kmB) | [The Lay\-Backs](https://open.spotify.com/artist/3hcHU2Pwf2YPgQXqdEi83C) | [Nightblooom](https://open.spotify.com/album/1bTVVlALCmMtFarxxZFqyo) | 2:18 | 2024-02-22 |  |
 | [Nights and days](https://open.spotify.com/track/17ZevRUkVXijuNzOAgFuRF) | [Kumatra](https://open.spotify.com/artist/5I6mjLaJjYhtmDJY2nsF5H) | [Nights and days](https://open.spotify.com/album/6yOQqeCvRke4pduA6D9q3X) | 2:33 | 2023-08-29 |  |
 | [Niwl](https://open.spotify.com/track/0kHzJwMC6i7kDi0dCYfmLA) | [Conah Bouvet](https://open.spotify.com/artist/5KfatZQz2qU0zfnk3rU8mE) | [Niwl](https://open.spotify.com/album/7KOjOYyBhYDlKuT2k5t6v4) | 2:37 | 2023-08-29 |  |
 | [Noche Brilliante](https://open.spotify.com/track/2kVsD3DNreqNJ0CdM2ix2U) | [Santiago Penitente](https://open.spotify.com/artist/5GhwUrUTHxWEwJRQSXqNl9) | [Noche Brilliante](https://open.spotify.com/album/2HGRxLG4zOXpVAYQcRbE6e) | 2:21 | 2023-08-29 |  |
@@ -194,6 +196,7 @@
 | [Relation](https://open.spotify.com/track/5iqBmtdacMA04rzUGrPAcS) | [Hatchlings Calm](https://open.spotify.com/artist/2ADOcw9Ra8kN4CVAMhOqgw) | [Zooz Dream](https://open.spotify.com/album/2IXS0dHhY4EFQVUAG2SuLf) | 3:24 | 2023-08-29 |  |
 | [Relieve](https://open.spotify.com/track/5KzZLb3KFjGrQZW6WH8Cyc) | [Juliana Stipe](https://open.spotify.com/artist/6PXpkuuJT837QGtcdXSMo3) | [Relieve](https://open.spotify.com/album/3tVeSv36k61jehxXt3xuPn) | 3:13 | 2023-08-29 |  |
 | [Reminiscence](https://open.spotify.com/track/1eUdYgWAsWxbv4CphVBkHp) | [Docia Cappa](https://open.spotify.com/artist/0Bg5U4Xpj3NFpY028wjhsP) | [Reminiscence](https://open.spotify.com/album/07HWjtqad8ah6r2q2tViN2) | 3:10 | 2023-08-29 |  |
+| [Resistance](https://open.spotify.com/track/18LOoaeiTDvW8kLSmA6yED) | [Ephemeral Odyssey](https://open.spotify.com/artist/5If4W5LdMaQuxNjbWXqgif) | [Resistance](https://open.spotify.com/album/01CwS7Yh1yvkY45ewLjUBo) | 2:52 | 2024-02-22 |  |
 | [Rosetta](https://open.spotify.com/track/4Qx7uyGiw9CwgVGNkmeq1e) | [Pascal Dirac](https://open.spotify.com/artist/55UOeJ9KXXCNAQ0b4REsiR) | [Rosetta](https://open.spotify.com/album/3mecHxhqR8MHgYiyUdPrV5) | 2:42 | 2023-08-29 |  |
 | [Rumah](https://open.spotify.com/track/2gS80LnIT9M3pAUzswBcmk) | [Clunieux](https://open.spotify.com/artist/7xBhOeyWNHk7r0Fl3I9d1k) | [Rumah](https://open.spotify.com/album/7LK9FKD7CWlAKHo5A9hOPT) | 2:45 | 2023-08-29 |  |
 | [Rêver](https://open.spotify.com/track/75UEjnA7EJ4ztlMANBW1dX) | [Phiala](https://open.spotify.com/artist/6Ix7ocKRGZU8XnVX9FiXuL) | [Rêver](https://open.spotify.com/album/2NZgY14tBMc1cLMRCYMBn3) | 2:33 | 2023-08-29 |  |

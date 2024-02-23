@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 
 > Clásicos del folklore argentino de la mano de sus más grandes intérpretes\. Foto: Chaqueño Palavecino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,732 likes - 90 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,776 likes - 90 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 | 89 | [Serenata Otoñal](https://open.spotify.com/track/39YzTZ5TP1zjtNQOiD3x5B) | [Los Cantores del Alba](https://open.spotify.com/artist/2kRyLphTQyz7eaHhfLpMVl) | [Confitería Europea 100 Años](https://open.spotify.com/album/3wcwbHnuDa07nEFmK3qmua) | 2:28 |
 | 90 | [Dios a la Una](https://open.spotify.com/track/4yioHSOUbNFggQSlFCg6HE) | [Daniel Altamirano](https://open.spotify.com/artist/1aI3fe7Zgy101dUMankLRx) | [Mi Ultima Canción](https://open.spotify.com/album/3TC7aNPSbpymAXQmWlM5hz) | 6:04 |
 
-Snapshot ID: `MCxhYjg0NWFmYzFlMWNlMzRiN2UyNjI3MzdjNzQ0MTI0NGQ0MjFlMzEw`
+Snapshot ID: `MCw0MzY2YjNmNTg5NWJlM2QzYTk4OGM4NDcxYzkwMjI3N2E5OWIxNWVj`

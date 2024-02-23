@@ -4,7 +4,7 @@
 
 > afrobeats: best served chill
 
-377 songs - 18 hr 41 min
+378 songs - 18 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,6 +251,7 @@
 | [Peperomia](https://open.spotify.com/track/5VvTAowsgsx2pbN1nIpH0D) | [JCOOLVIBES](https://open.spotify.com/artist/2P6gg6q6eTQl5XlcaD20kg) | [Peperomia](https://open.spotify.com/album/1swA84rymPgftRUsZeGbCR) | 2:40 | 2023-11-17 | 2023-11-24 |
 | [Perfect Combi](https://open.spotify.com/track/1rHPk2p3MQTh2wloo3P9zE) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [Perfect Combi & Naana](https://open.spotify.com/album/6nFn6Yq8eq2UYaU0Lkteiv) | 3:01 | 2023-11-03 |  |
 | [Permission \- A COLORS SHOW](https://open.spotify.com/track/2aCSffIsSsS0e7y4CVLPiS) | [Theecember](https://open.spotify.com/artist/0rzJVsg2Vmtvh9yBrPB2fs) | [Permission \- A COLORS SHOW](https://open.spotify.com/album/1hUr66rPGJ5efTaN4qWLWC) | 3:19 | 2023-12-15 | 2024-02-19 |
+| [Piano](https://open.spotify.com/track/2R6eV26pSgLz2yV5dfgzLL) | [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62), [Lekaa Beats](https://open.spotify.com/artist/3HzmmNkD0FRr2pBSwyUBBY) | [Piano](https://open.spotify.com/album/6hM1d9cytmykFu0qpQ7JpV) | 2:36 | 2024-02-23 |  |
 | [Poison](https://open.spotify.com/track/0334KVZTMvvQiRNIWKbVFh) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Poison](https://open.spotify.com/album/7mpxiz4HeVmH48bs2XIRsf) | 2:51 | 2023-08-17 | 2023-09-29 |
 | [Popo](https://open.spotify.com/track/4nahrEpWaPAwKfbzvGvpTv) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [TEARS OF THE SUN](https://open.spotify.com/album/4yspRWwXpYeeQ2EoOmpLPJ) | 2:50 | 2023-11-17 | 2024-01-30 |
 | [PRACTICE](https://open.spotify.com/track/0P1T4HQzeG598FX3UVFtxs) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN), [BillyDray](https://open.spotify.com/artist/059ZQRZt9SXMbrzJcyxM5k) | [PRACTICE](https://open.spotify.com/album/4X9lqbIDMJ2AQB9kF2rlYY) | 2:22 | 2023-12-01 | 2023-12-08 |
@@ -290,7 +291,7 @@
 | [SLOW WINE](https://open.spotify.com/track/1JhH6S1GDhxbLMitQ9K5oM) | [KLY](https://open.spotify.com/artist/0B6F56wObkhER2AmTNfcl3), [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4) | [SLOW WINE](https://open.spotify.com/album/49TepG6PsqWFNIfs7fDcjT) | 3:43 | 2022-09-01 | 2023-03-18 |
 | [Smoke and Chill](https://open.spotify.com/track/2WNOKpzXTlT1tEGZmzZWYY) | [Ninety](https://open.spotify.com/artist/221i8CC98rJBZAaMM9sGLK) | [Smoke and Chill](https://open.spotify.com/album/1bLSbLzbJyNMYTF5L5lkXS) | 2:53 | 2022-10-13 | 2023-03-18 |
 | [Smooth Criminal](https://open.spotify.com/track/4hVnFwqGpRQJexdLoNwCFn) | [Yimeeka](https://open.spotify.com/artist/0yGRgPiwbWQcQsMf7H7DmK), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Smooth Criminal](https://open.spotify.com/album/6xe7n9n6eqrZprj2d8QGNE) | 2:31 | 2022-10-13 | 2023-03-31 |
-| [SNAPCHAT](https://open.spotify.com/track/5kp1hRoHrNokFflgzjzrGl) | [Chrystel](https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [SNAPCHAT](https://open.spotify.com/album/2u3ssIBPv4Gii5gpfNm0Wd) | 3:05 | 2023-11-24 |  |
+| [SNAPCHAT](https://open.spotify.com/track/5kp1hRoHrNokFflgzjzrGl) | [Chrystel](https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [SNAPCHAT](https://open.spotify.com/album/2u3ssIBPv4Gii5gpfNm0Wd) | 3:05 | 2023-11-24 | 2024-02-23 |
 | [Snapchat](https://open.spotify.com/track/10m1yYuud3w7bb43srjbWi) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [The Second Wave](https://open.spotify.com/album/2X0RCBDJankvvvaJgMUUHD) | 3:26 | 2022-06-09 | 2023-11-03 |
 | [Soak Garri](https://open.spotify.com/track/3Rs0WjvcDSIbk5mx353yiQ) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Soak Garri](https://open.spotify.com/album/4cDi3B2orh2LGvxnCIgSjK) | 3:31 | 2023-06-02 | 2023-09-29 |
 | [Somali Rose](https://open.spotify.com/track/51ZoO8zHtauv6VJvszPdM0) | [Ria Boss](https://open.spotify.com/artist/4RVL6ckos0QWCCz9dTFb5q) | [Somali Rose](https://open.spotify.com/album/5oveeChuYpFJLYUCpHK4Lu) | 4:19 | 2022-06-09 | 2023-03-18 |

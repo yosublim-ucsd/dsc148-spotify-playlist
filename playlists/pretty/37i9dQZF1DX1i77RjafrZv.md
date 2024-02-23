@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1i77RjafrZv.md) - [plain]
 
 > Les plus belles chansons d'amour de la variété française.
 
-[Spotify](https://open.spotify.com/user/spotify) - 317,141 likes - 75 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 317,170 likes - 75 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1i77RjafrZv.md) - [plain]
 | 74 | [Que serais\-je sans toi](https://open.spotify.com/track/2GnJ1XGXv7emJvtuOrM7lQ) | [Jean Ferrat](https://open.spotify.com/artist/4GAdDePOvBsOl3n3nVHWpt) | [La montagne 1964](https://open.spotify.com/album/6uZiAcFO8d758nOs687gfg) | 3:03 |
 | 75 | [Toi mon amour](https://open.spotify.com/track/1moFtJmSZHc8CwSkvGJ7kg) | [Marc Lavoine](https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf), [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Best Of \- Morceaux d’amour](https://open.spotify.com/album/7BauVijZ5bgc9J5qqbShce) | 3:40 |
 
-Snapshot ID: `MCxjZGE3MTU2ZTFkOWQ0NmZmMDllY2JjZjk0YTU4ZWI1YzYzNzk3MmIy`
+Snapshot ID: `MCxhZDNjMWIzMzRlZTY0ZjNiNGViYzhkYjlmYzBmMzc5ZDhiYTM5ZjNj`

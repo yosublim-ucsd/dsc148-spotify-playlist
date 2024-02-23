@@ -4,7 +4,7 @@
 
 > Uplifting, slow House music to work or relax to.
 
-349 songs - 17 hr 25 min
+352 songs - 17 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Café Rio](https://open.spotify.com/track/28WEdMqtZ0EW43L0yTRQk5) | [Edoardo Más](https://open.spotify.com/artist/3vDywqMAcuHdMgK30nSSLW) | [Café Rio](https://open.spotify.com/album/6yL9GXFei3SZJUorDCJZMU) | 3:36 | 2022-02-11 |  |
 | [call me baby](https://open.spotify.com/track/0hMigou1Jhjczm0Hr1Ocqw) | [Max Kellen](https://open.spotify.com/artist/01DXCHumnPqMICVTYhOdUU) | [call me baby](https://open.spotify.com/album/1ugcW2hjwXTxDkpZ6gn4ez) | 3:51 | 2022-09-02 |  |
 | [calm down](https://open.spotify.com/track/5SgKvrdnB9t3uxvfyQ54Mo) | [Penga Scain](https://open.spotify.com/artist/5A7ldCfxlH3KQLsqAFzhF2) | [calm down](https://open.spotify.com/album/2bMxPgd0LHaQiXulRb1gFC) | 2:08 | 2023-01-13 | 2023-05-06 |
+| [candy colored life](https://open.spotify.com/track/25E2rEL9cHcEeiTz7cD9pe) | [Sunset\-buff](https://open.spotify.com/artist/4vwwK0iaZVthftLEr8As6W) | [candy colored life](https://open.spotify.com/album/3ql9iK1tUbJrpEy4cRo6ja) | 3:08 | 2024-02-22 |  |
 | [Captive](https://open.spotify.com/track/4XvGvqSRNM6eemk17RdHuL) | [Tracy Kelli](https://open.spotify.com/artist/2IfgKThwT8TgHMatgOze2v) | [Captive](https://open.spotify.com/album/581ZGUHLRkzzGH03MOnxVs) | 2:40 | 2021-10-12 |  |
 | [Changli](https://open.spotify.com/track/1aTzMg4fhBUCG0UEqr7DED) | [Ooyy](https://open.spotify.com/artist/0xe3AMjZeR6z3g4O6Vppjq) | [Changli](https://open.spotify.com/album/6bNHulXpJY2F8OMbO9NZgc) | 2:45 | 2019-10-04 | 2022-02-12 |
 | [Chill](https://open.spotify.com/track/1VfRjbEeCviSrNH2fqFi7c) | [LiQWYD](https://open.spotify.com/artist/7vZTLO4iDAVrmOtpRiyP3N) | [Chill](https://open.spotify.com/album/2uoAdcg5qM474JnnlIPuI6) | 2:54 | 2019-10-04 | 2022-02-12 |
@@ -156,6 +157,7 @@
 | [intertwine](https://open.spotify.com/track/3tZtuh4sTH5yoaEPdyqSSk) | [stil de grain](https://open.spotify.com/artist/7MtqDjgMm4TTIYrsEVLeqZ) | [intertwine](https://open.spotify.com/album/6nh3Lq6ME4c869PrwutX2q) | 2:21 | 2022-10-07 |  |
 | [It's Alright](https://open.spotify.com/track/1L1vWlBmczGdw74eQOtrtD) | [Majik](https://open.spotify.com/artist/7cY6Wh3h8rcLp62AhYKhy9) | [It's Alright / Save Me](https://open.spotify.com/album/17p4MoyfCn8VcNiPktFNmJ) | 5:06 | 2019-10-04 | 2022-02-12 |
 | [I’dunno](https://open.spotify.com/track/1CmiuAI065tIRwXuCfVRAD) | [SCRP](https://open.spotify.com/artist/6mRmujco5e9ge5KHau1mV1) | [I’dunno](https://open.spotify.com/album/0zoi0vSek6fePt8iuYi6Vv) | 2:24 | 2024-01-19 |  |
+| [Jubilant](https://open.spotify.com/track/4dOnXu1V4izJqcB7D8qF9B) | [Rubiii Sky](https://open.spotify.com/artist/4TlmlpgwSdQJmElNxWh8Gz) | [Jubilant](https://open.spotify.com/album/0oo1OT0z6GVMKPXSq7yPJG) | 2:28 | 2024-02-22 |  |
 | [Just Lights](https://open.spotify.com/track/6kGU03FoALwcpGPGbsv0GY) | [Mechagnome](https://open.spotify.com/artist/13PdnMKcJONs4BQg3b0U5q) | [Just Lights](https://open.spotify.com/album/3jB7KhxH1CY0cAcVbCCmVV) | 3:07 | 2022-12-16 | 2023-07-15 |
 | [Kantan](https://open.spotify.com/track/3UuV3xQsLn8FdAzEa0foPr) | [Yasumaru](https://open.spotify.com/artist/0d8Lf2UsOCP5Wuy3n9dOzT) | [Kantan](https://open.spotify.com/album/0EsACGm8MKS86WzhvWUV2K) | 3:17 | 2022-02-11 | 2022-10-14 |
 | [Kenaya](https://open.spotify.com/track/4hz8WgdHr8HmrYu8AKAF7c) | [Saint Haux](https://open.spotify.com/artist/6U0eV4Y0Uyfa9UadndH7hg) | [Kenaya](https://open.spotify.com/album/0CHML6ldbqxQ1icEclH3yb) | 2:38 | 2022-09-02 |  |
@@ -334,6 +336,7 @@
 | [Voyager](https://open.spotify.com/track/0msUZN9MVtQfT0Mjq02u4o) | [Mayden Blue](https://open.spotify.com/artist/75UHJrQHVWVIi1fM8TlRpf) | [Voyager](https://open.spotify.com/album/5AzdlqZP2nq2ugxzsuu26D) | 3:44 | 2021-07-20 | 2022-02-12 |
 | [Wake Up](https://open.spotify.com/track/01JTcstOM0Q4saQHZiDQLT) | [Mason Bon](https://open.spotify.com/artist/0m0jbn7XtZtpvNgE8f2jtL) | [Wake Up](https://open.spotify.com/album/0V7Da3DXIM3au7u79PYxvP) | 2:26 | 2024-01-19 |  |
 | [Wanderer \- Chill Mix](https://open.spotify.com/track/1QoZXDJVp516a9QCNvnmZL) | [Piece Wise](https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk), [Eloi El](https://open.spotify.com/artist/3fN5sNv6BOuzPD6r95XVNJ) | [Wanderer](https://open.spotify.com/album/1dX5KiQVkYcayFZFFSbq82) | 2:21 | 2022-02-11 | 2022-07-15 |
+| [We Shall Be Free](https://open.spotify.com/track/7ukdXMeyezREsJaSl7mnpA) | [bombergirl](https://open.spotify.com/artist/79pr8Jy2Fxo9u6EaOxbCAQ) | [We Shall Be Free](https://open.spotify.com/album/7wMIZOm3ZuZKBaufcbxy0W) | 2:48 | 2024-02-22 |  |
 | [Weekend](https://open.spotify.com/track/4gO2vV1kosaVP06CYnkQN6) | [Nina Young](https://open.spotify.com/artist/5kfKDSksVMsl63kpMZ8m2x), [Pureblue](https://open.spotify.com/artist/0ytRHtQMhO8Sts30vPTcON) | [Weekend](https://open.spotify.com/album/2vNXWpcWiD8BWpb3AOKY0A) | 1:52 | 2022-02-11 | 2022-07-08 |
 | [Where the sand is](https://open.spotify.com/track/3VffpZvEnQsxLZ1ZgNb4Rn) | [Nino The Dino](https://open.spotify.com/artist/6Zf359QwgLxZM7Q2Fjkwhi) | [Sunset Paradise](https://open.spotify.com/album/5JzMUwp6FKlJPfgrS2eE6T) | 3:03 | 2022-06-24 |  |
 | [Winter Keys](https://open.spotify.com/track/6NT3drJc597TCEIK8LMFka) | [Brief & Breezy](https://open.spotify.com/artist/5GHbufBgAO1POi50gQq1B7) | [Winter Keys](https://open.spotify.com/album/1PFHDWjFCyXHVI867KFcoy) | 2:36 | 2021-10-12 | 2022-02-12 |

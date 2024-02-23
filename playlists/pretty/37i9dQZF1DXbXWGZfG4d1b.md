@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXWGZfG4d1b.md) - [plain]
 
 > Rock independiente, pop alternativo y golden hour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,722 likes - 90 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,725 likes - 90 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXWGZfG4d1b.md) - [plain]
 | 89 | [Julia](https://open.spotify.com/track/1zXOxmI9xMXguad03drdiy) | [Salvador García](https://open.spotify.com/artist/2b3MB5Eq02nH2iCvNU88wT) | [atrás de los árboles](https://open.spotify.com/album/0fE54ymBPPEsazXo81Q6Hh) | 2:26 |
 | 90 | [Espía del Arte](https://open.spotify.com/track/6gPUedPLsF7taEAWvgJEal) | [La Vida en Familia](https://open.spotify.com/artist/7DEnD46VUEAYgm9Bftv8oL) | [Espía del Arte](https://open.spotify.com/album/1QeQK6Vtgd9OIdZS1hEATg) | 4:50 |
 
-Snapshot ID: `MCxkZGE1ZjgxYTdkZGIzNGNjMTliNDRhODc1MjNkYWIwMzcyNTQ4Y2Qw`
+Snapshot ID: `MCxlZDJkZWU4NjIxOWUxOWMyNTQxMGY0ZGNmYjQ2MWIwN2EwZWM5OTFj`

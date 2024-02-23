@@ -4,13 +4,14 @@
 
 > beautiful beats for beautiful moments.
 
-480 songs - 18 hr 43 min
+483 songs - 18 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [.Like a fool](https://open.spotify.com/track/14xSzbGnD9bQWOiPJyuInc) | [совы не спят](https://open.spotify.com/artist/7mq1U4epG2wotVKowYPsTZ) | [.She](https://open.spotify.com/album/5BSLboqIdvj34O7GmyO7Dj) | 1:43 | 2022-05-27 | 2022-09-10 |
 | [.Like a fool](https://open.spotify.com/track/7n87Oi2j5Us4eWhHu8zmpp) | [совы не спят](https://open.spotify.com/artist/7mq1U4epG2wotVKowYPsTZ) | [.She](https://open.spotify.com/album/6VOj1qdMD9IwgeSnyhM54l) | 1:43 | 2022-09-09 | 2023-09-22 |
 | [180 Gram](https://open.spotify.com/track/3mpF3RIt6EfMnQPuFqcTwI) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [180 Gram](https://open.spotify.com/album/2ejjB1ZMhxYv88ydHXYdxE) | 2:28 | 2022-05-27 | 2024-01-12 |
+| [3 pm](https://open.spotify.com/track/0HoWhKBcNCjomwXVCg5Mcz) | [Trish Lupin](https://open.spotify.com/artist/2tUWdnMothLxACGOxca5Nz) | [3 pm](https://open.spotify.com/album/4ATHCe9ZEngQ0GNxJToKQ6) | 1:57 | 2024-02-23 |  |
 | [\_ f e e l s](https://open.spotify.com/track/5pVfZNtDtJeXMLn7uWCWut) | [MP3vius](https://open.spotify.com/artist/5iUQH6x3hiVg6Le2KLWBZQ), [ZARG](https://open.spotify.com/artist/40PThXuHI1P1mrSb6MPD3z) | [\_ f e e l s](https://open.spotify.com/album/1eCTC0NcCZRvRTpIHoOEul) | 2:09 | 2022-09-23 | 2023-08-04 |
 | [A Life of Joy](https://open.spotify.com/track/1dYGpcPwL6p2wrkq3mxDPm) | [Djsneverendingstory](https://open.spotify.com/artist/5H53Vq7VfrqjdEMX3mx5Xp) | [A Life of Joy](https://open.spotify.com/album/5DnA5FG3EQKFuVIcqqxtO9) | 3:15 | 2022-10-14 | 2023-08-04 |
 | [A Life of Joy](https://open.spotify.com/track/7J7t21e5SpLxm1yYJZeeZF) | [Djsneverendingstory](https://open.spotify.com/artist/5H53Vq7VfrqjdEMX3mx5Xp) | [A Life of Joy](https://open.spotify.com/album/3ub5GRV9cYvsOhsSC3c3dS) | 3:15 | 2022-07-15 | 2022-10-20 |
@@ -59,8 +60,9 @@
 | [Bossa K](https://open.spotify.com/track/6pun0yN2Xn51ulPrKktIPp) | [Juliette](https://open.spotify.com/artist/2A9ozO2R5liuK6dMrhJwnQ) | [Bossa K](https://open.spotify.com/album/43CC06AmUAFah0RgVFLCSP) | 2:12 | 2023-03-01 |  |
 | [Bravado](https://open.spotify.com/track/7sBADAbyjri5eDaU8qtCOK) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs) | [Feeling Something](https://open.spotify.com/album/4NQa8HcFQvWCheoZlMzMAc) | 2:07 | 2022-05-27 |  |
 | [Break Of Dawn](https://open.spotify.com/track/412vyUC3xYk6NtHvscmgXl) | [Katashi Kaitō](https://open.spotify.com/artist/7BDqewjn6oL3ryvHv78Wkx), [Kim Kozy](https://open.spotify.com/artist/6gVhnvdJQi2cjFRDSlysqe) | [Break Of Dawn](https://open.spotify.com/album/3Ywf3SRxZZaNoxHY1Hxtuc) | 2:32 | 2022-05-27 | 2022-07-01 |
-| [Breath Out](https://open.spotify.com/track/5Kq8SScLc5QiEiSYOstFiP) | [Alrik Lagom](https://open.spotify.com/artist/3hre26wvV7Cy00fDfbJBbn) | [Breath Out](https://open.spotify.com/album/55cGilCCqvhzWpaFevwDhj) | 2:44 | 2023-04-03 |  |
+| [Breath Out](https://open.spotify.com/track/5Kq8SScLc5QiEiSYOstFiP) | [Alrik Lagom](https://open.spotify.com/artist/3hre26wvV7Cy00fDfbJBbn) | [Breath Out](https://open.spotify.com/album/55cGilCCqvhzWpaFevwDhj) | 2:44 | 2023-04-03 | 2024-02-23 |
 | [breathtaking](https://open.spotify.com/track/6NqnGKb8x3PMCWqn2oJizA) | [mello joints](https://open.spotify.com/artist/3SvvTbg5Gj3UDGNxtqTsfd) | [breathtaking](https://open.spotify.com/album/7A4dRVpZAS3T4Az0Xus2sT) | 2:10 | 2024-02-09 |  |
+| [Broken Spell](https://open.spotify.com/track/3UsdTrOGIRmlOQ1lbR8e2v) | [Byz Playground](https://open.spotify.com/artist/0BMwJwRVDIJwATictkQzky) | [Broken Spell](https://open.spotify.com/album/6vxFdErywR0cq92jYbaS1w) | 2:20 | 2024-02-23 |  |
 | [Bukkla](https://open.spotify.com/track/5QM0fXFIyTIztACe2YNkk1) | [All High Fives](https://open.spotify.com/artist/4YG7rA1dxiUyeQvpNgKds2) | [Bukkla](https://open.spotify.com/album/2XTTbTvSYaVn8FYUeb3rqC) | 3:25 | 2022-05-27 |  |
 | [bumblebee](https://open.spotify.com/track/0414qFBnnYgVdeAvPHzy9a) | [Cmd q](https://open.spotify.com/artist/6XiXz5Vit02rmpr0M9SzMG) | [Mr Pastel](https://open.spotify.com/album/3eJ9plo4KC2KpaCBdoIq6d) | 2:19 | 2022-09-02 | 2023-08-04 |
 | [By The Sea](https://open.spotify.com/track/1CMd0KfJCTs92JyHS68wOS) | [Phonedown](https://open.spotify.com/artist/6mAZPYwuELJQtdrxvnPg1Q), [Charlee Nguyen](https://open.spotify.com/artist/5ffORofXMmNRRtwIeQsyW3), [Pointy Features](https://open.spotify.com/artist/2juH2VRAmfRlPlu1oaGsuH) | [By The Sea](https://open.spotify.com/album/5pavzX2gjNmw3ZM1J13blP) | 2:44 | 2022-06-24 | 2022-07-08 |
@@ -91,6 +93,7 @@
 | [Cloudy Haze](https://open.spotify.com/track/6tcHiMVFJ2mSL8S0xFZafh) | [Rein Dayz](https://open.spotify.com/artist/7wiw28FhChBCUr3VYQ68HI) | [Cloudy Haze](https://open.spotify.com/album/5fzU8llBFqIRTGbVweNrQl) | 2:16 | 2023-12-15 |  |
 | [cloudyhead](https://open.spotify.com/track/34Ypo4hhKwo8IQRGJHGWr9) | [betahost](https://open.spotify.com/artist/1vGlmIKLKgaYfgAcSKhd4W) | [cloudyhead](https://open.spotify.com/album/2MbXVSmzStW4mUMFiUEHdJ) | 2:29 | 2022-08-12 | 2023-09-16 |
 | [Cockpit Country](https://open.spotify.com/track/2C1NJiTMTVsLzpEn2BYw6e) | [Joe Sunrise](https://open.spotify.com/artist/4mvWLbsizI6uxbelCP9LRy), [Elijah the Alchemist](https://open.spotify.com/artist/3KUUj9cTyiuixKmbn96baH) | [Cockpit Country](https://open.spotify.com/album/1GKmHhrSTwZnN2HnBwslqr) | 1:39 | 2022-06-17 | 2023-10-20 |
+| [coconut](https://open.spotify.com/track/4VLf2JAtJmzHaKvA8mOlmu) | [Ali Kaj](https://open.spotify.com/artist/06VNBq9wJN4eEo6ZRM7HGI) | [coconut](https://open.spotify.com/album/1uqMqtvFq5jns7j9kZPvKd) | 2:50 | 2024-02-23 |  |
 | [Coconut Crab](https://open.spotify.com/track/4qtD8XG4cpzW8nLSAVhA78) | [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv) | [Coconut Crab](https://open.spotify.com/album/4pWZhL6HlW8FQLtEbtC0Rx) | 1:47 | 2023-04-03 | 2023-10-27 |
 | [Coffee Wave](https://open.spotify.com/track/0ptmO1SUF54yDzbZA1U3hb) | [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [Coffee Wave](https://open.spotify.com/album/3YM7gWij3jM4I9uSIxykXS) | 2:32 | 2023-04-03 | 2023-09-29 |
 | [cold green tea](https://open.spotify.com/track/0w0UHCWlEoeCP9iXRuJwB9) | [Hiroyuki Kondo](https://open.spotify.com/artist/7cUBFtmjMngEMCBM2i52GS), [Lifted LoFi](https://open.spotify.com/artist/0rgw0PdrFhmiayr1srwKkH) | [cold green tea](https://open.spotify.com/album/31lyYka2W7Gy4N0CnH0KeK) | 2:33 | 2022-07-29 | 2022-10-14 |

@@ -4,13 +4,14 @@
 
 > This is Yuki Hayashi\. The essential tracks, all in one playlist.
 
-87 songs - 4 hr 2 min
+88 songs - 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2 Heros](https://open.spotify.com/track/5OvaF7T4vGcbKnE9rRaTFQ) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [『僕のヒーローアカデミア』2018 オリジナルサウンドトラック](https://open.spotify.com/album/09rMYCfyxxknNP9NmrqmNw) | 3:26 | 2022-12-23 |  |
 | [All might with U.A\. Students](https://open.spotify.com/track/59h3i22MBicerNR1llNXqv) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [『僕のヒーローアカデミア』2018 オリジナルサウンドトラック](https://open.spotify.com/album/09rMYCfyxxknNP9NmrqmNw) | 2:29 | 2022-12-23 |  |
 | [Always and Forever](https://open.spotify.com/track/3nsHsWeiDGO0U1FtLsZ1ak) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [Insomniacs After School Original Soundtrack](https://open.spotify.com/album/2Z4gLsWMcTQhdnx1Wa4n5o) | 1:50 | 2023-05-24 | 2023-06-28 |
+| [cocoon](https://open.spotify.com/track/0zJ3BCfoyRysii4g5lC7Bc) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [「トライアングル」オリジナル・サウンドトラック](https://open.spotify.com/album/4hSFFTl3tmnMNu1ptHQVNE) | 4:43 | 2024-02-22 |  |
 | [Deku Vigilante \(My Hero Academia\)](https://open.spotify.com/track/2uKvB7z8Iv1Qspw8wHfLCy) | [Bakrou](https://open.spotify.com/artist/1bwDpUYOmTBa0ddptcaRZh), [Anzar](https://open.spotify.com/artist/5m1ntKpYHZpOVf8KjHudQI), [Yuki Hayashi](https://open.spotify.com/artist/6WREWcPKElbqTJ9UHevdbf) | [Deku Vigilante \(My Hero Academia\)](https://open.spotify.com/album/3d5nMhabrfLblSINhyiQ5D) | 2:11 | 2023-03-24 | 2023-04-19 |
 | [From Me to You](https://open.spotify.com/track/34OP5ugxs1t3RaiJlyqJRb) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [『僕のヒーローアカデミア』2018 オリジナルサウンドトラック](https://open.spotify.com/album/09rMYCfyxxknNP9NmrqmNw) | 1:21 | 2022-12-23 |  |
 | [Go Straight!](https://open.spotify.com/track/6FB9Fhfjx5NJETCcCyzRgb) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: World Heroes' Mission \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25LhTa5jwYofUu9qMLrijW) | 1:53 | 2022-12-23 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sJGkrvCPgm.md) - [plain]
 
 > A mix of new songs and beloved classics from your favorite Contemporary Christian artists!
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,824 likes - 150 songs - 9 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,809 likes - 150 songs - 9 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sJGkrvCPgm.md) - [plain]
 | 149 | [Angels We Have Heard on High \(We Won't Be Silent\)](https://open.spotify.com/track/4oS4cWE5d50Uj1kOjhvf9W) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Cade Thompson Christmas](https://open.spotify.com/album/5UZMSWBi7ppVTQeHm4SlTR) | 3:01 |
 | 150 | [Mary Had A Little Lamb](https://open.spotify.com/track/7mdaecge9hB8VZyrqQMDBM) | [Rod + Rose](https://open.spotify.com/artist/6xWrMsqTNDV7Pi10GWUhuZ), [Rodney Atkins](https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2), [Rose Falcon](https://open.spotify.com/artist/3M2ei8oRgZ3TwTo6F6votj) | [Mary Had A Little Lamb](https://open.spotify.com/album/7hSSwV7RWL4slYauUvt3BW) | 2:48 |
 
-Snapshot ID: `MCw5YzU3ODdkOTkzZTdjOTA2MTBhZmZlMDQ1NzRiODU5ZDI2ZDBmOTY4`
+Snapshot ID: `MCw0NTE0YjNhYTA4YWJlMmQxYTI4MTZjNWE5NGM0ZjUxYzRkZDE5Yjcx`

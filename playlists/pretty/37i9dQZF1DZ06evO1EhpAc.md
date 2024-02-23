@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EhpAc.md) - [plain]
 
 > This is Yaeji\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,089 likes - 31 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,090 likes - 31 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EhpAc.md) - [plain]
 | 9 | [One More](https://open.spotify.com/track/6KngJ7ZEPy9o4zlg6fyh5N) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [One More](https://open.spotify.com/album/0UDppr3BotMNXgIGmXddGt) | 3:22 |
 | 10 | [Guap](https://open.spotify.com/track/5ZieiUIwDcPyUy8CIq0bGf) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Yaeji](https://open.spotify.com/album/50gVMffcuo28DBd6GCSlZk) | 5:40 |
 | 11 | [Drink I’m Sippin On](https://open.spotify.com/track/7pCirXrdJ4xN1Dqmm0DuAz) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [EP2](https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ) | 3:21 |
-| 12 | [Done \(Let’s Get It\)](https://open.spotify.com/track/6kmrQVMDgQGKU7zW460x3I) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [With A Hammer](https://open.spotify.com/album/2VYo0PSqdxVTMI0ydKUtoL) | 2:52 |
+| 12 | [Done \(Let's Get It\)](https://open.spotify.com/track/6kmrQVMDgQGKU7zW460x3I) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [With A Hammer](https://open.spotify.com/album/2VYo0PSqdxVTMI0ydKUtoL) | 2:52 |
 | 13 | [Feel It Out](https://open.spotify.com/track/1tn1ATtQZRowNVBNIXolxJ) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Feel It Out](https://open.spotify.com/album/3Dd6Cu0NpDYjXiZILk66z9) | 3:16 |
 | 14 | [29](https://open.spotify.com/track/0JeokLKCya7SZGpGjqNcAQ) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [OHHYUK](https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0) | [Year to Year / 29](https://open.spotify.com/album/4MFBV5hzpMFFTLkv78Jxan) | 3:48 |
 | 15 | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/track/3UQFh2pOHS3h2ivIm7Zcyf) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP) | 3:49 |
@@ -33,11 +33,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EhpAc.md) - [plain]
 | 23 | [When in Summer, I Forget About the Winter \- Bonus Track](https://open.spotify.com/track/23Vl5xmLj3Z4pc1zRtjUe2) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/album/2WCnWcLzQj6nXIdJNeVUjM) | 3:17 |
 | 24 | [With A Hammer](https://open.spotify.com/track/2RgQKoWxEB6KGu8h4a7R46) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [With A Hammer](https://open.spotify.com/album/2VYo0PSqdxVTMI0ydKUtoL) | 3:45 |
 | 25 | [PAC\-TIVE](https://open.spotify.com/track/7zJHgKgb9Lk9Qq2KNqSQ4Q) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [DiAN](https://open.spotify.com/artist/0w3fC1dS2TUZPS2xEKl3VJ) | [PAC\-TIVE](https://open.spotify.com/album/5dpJX0GUJSNwLqrp3XIobW) | 2:02 |
-| 26 | [Therapy](https://open.spotify.com/track/5agra2lmQHwABCYO8LULz7) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Therapy](https://open.spotify.com/album/1ko2yfNSFmSLnxfYwtWtKU) | 3:16 |
+| 26 | [Noonside](https://open.spotify.com/track/6fMipfFtGlw86Bzf5EMGPB) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Yaeji](https://open.spotify.com/album/50gVMffcuo28DBd6GCSlZk) | 3:25 |
 | 27 | [MY IMAGINATION 상상](https://open.spotify.com/track/2WWtQEsjxl7cVKx352Z40D) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/album/2WCnWcLzQj6nXIdJNeVUjM) | 2:20 |
-| 28 | [Noonside](https://open.spotify.com/track/6fMipfFtGlw86Bzf5EMGPB) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Yaeji](https://open.spotify.com/album/50gVMffcuo28DBd6GCSlZk) | 3:25 |
+| 28 | [Therapy](https://open.spotify.com/track/5agra2lmQHwABCYO8LULz7) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Therapy](https://open.spotify.com/album/1ko2yfNSFmSLnxfYwtWtKU) | 3:16 |
 | 29 | [Drink Redux](https://open.spotify.com/track/4sX1Kyk2p8tS7PffqH6qjw) | [DJ OG Uncle Skip](https://open.spotify.com/artist/3BbyKFr0ezUecGOTFkaEUL), [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [EAST Vs\. WEST](https://open.spotify.com/album/68wu3CBa3CvLooOkAahxbV) | 3:46 |
-| 30 | [WHEN I GROW UP](https://open.spotify.com/track/3ROrNVOrcH68Hh2EbLffxs) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP) | 2:42 |
-| 31 | [Full of It](https://open.spotify.com/track/7DMoMt5E67FmZPO6uDceQF) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Yaeji](https://open.spotify.com/album/50gVMffcuo28DBd6GCSlZk) | 3:29 |
+| 30 | [Full of It](https://open.spotify.com/track/7DMoMt5E67FmZPO6uDceQF) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Yaeji](https://open.spotify.com/album/50gVMffcuo28DBd6GCSlZk) | 3:29 |
+| 31 | [WHEN I GROW UP](https://open.spotify.com/track/3ROrNVOrcH68Hh2EbLffxs) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP) | 2:42 |
 
-Snapshot ID: `Mjg0NzUyOTAsMDAwMDAwMDAxYjY0YmU2NDRjZTcyMDQ3MGQ1Y2IzZGJhYjJkOTE1YQ==`
+Snapshot ID: `Mjg0NzcwNzUsMDAwMDAwMDA3YTEwMmRmYzg0ZDBlMzM1ZGY1Y2U4NmY4NzAxMDg5OA==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvABJXBIyiY.md) - [plain]
 
 > Wrap yourself up and revel in a gray day with these dusky, dreamy tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 415,332 likes - 60 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 415,337 likes - 60 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvABJXBIyiY.md) - [plain]
 | 59 | [Caught in the Strange](https://open.spotify.com/track/67SFgwRk1tnYDIIB10j78g) | [Racing Glaciers](https://open.spotify.com/artist/11iuJcoaqtToPVCJ3DeBev) | [Caught in the Strange \(Deluxe\)](https://open.spotify.com/album/74vkVl8dlwKGSv9Unn6JKf) | 3:25 |
 | 60 | [The Lily](https://open.spotify.com/track/783Oiskd1R67HbuKD0nimy) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [The Wind Rose \- EP](https://open.spotify.com/album/18WIUFEZRfWSRDhfnmO9NB) | 4:14 |
 
-Snapshot ID: `MCwxNmYwNDRkMWMwMmM5MGQzODJhMjk3YzA2M2RkZDI2ZmRhODVlMzll`
+Snapshot ID: `MCw0NGM0MzY5Y2M5YzEyYTgzNDBiZmNhOWJmNTcxNDY3Y2MxMzg5MDVi`

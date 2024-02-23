@@ -4,7 +4,7 @@
 
 > 
 
-269 songs - 12 hr 50 min
+270 songs - 12 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Amelia](https://open.spotify.com/track/4u3SRmpI2DEbuOZuejog83) | [Barbaras Grannar](https://open.spotify.com/artist/35ySzAXjdrvkFBPKNUBu1u) | [Amelia](https://open.spotify.com/album/4WR5DkdrAaD5okww70B1xY) | 4:11 | 2021-12-14 |  |
 | [Amelia](https://open.spotify.com/track/68XM4VDEjPlRwGveY3XRxd) | [Barbaras Grannar](https://open.spotify.com/artist/35ySzAXjdrvkFBPKNUBu1u) | [Amelia](https://open.spotify.com/album/41P1L8IxaiFsvfwCbVJTbY) | 4:11 | 2021-12-14 | 2022-07-29 |
 | [Anarki](https://open.spotify.com/track/53xCrPCHE7Rzree333H8UY) | [Klart Sämst](https://open.spotify.com/artist/0QiURAGUO0t3lg7H61VEcS) | [Sveriges sämsta dansband, kanske](https://open.spotify.com/album/2IGuo4VqaBNesfvBtYYkR4) | 2:20 | 2023-10-20 | 2023-11-13 |
+| [Andra platsen](https://open.spotify.com/track/4B4pTAFGAKoVRnPmhoZBFb) | [Charta 77](https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq) | [Andra platsen](https://open.spotify.com/album/3nzplr9marTkqVih8v7yR7) | 2:48 | 2024-02-22 |  |
 | [Andrahandssorteringen](https://open.spotify.com/track/5UwgoIA4wVNZSO1Cs3dYCB) | [Kardinal Synd](https://open.spotify.com/artist/32KVyD0F48q3QNpSET788O) | [Andrahandssorteringen](https://open.spotify.com/album/4d7oAZlPz2hhqb7tDszFhO) | 3:18 | 2021-12-14 | 2022-07-27 |
 | [Apornas planet](https://open.spotify.com/track/6aljPke2KUxTQa8NgPHQI1) | [Mimikry](https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv) | [Visar vägen](https://open.spotify.com/album/3uf8YWyGgdJRJXh5olLWO1) | 3:26 | 2021-12-14 | 2022-07-17 |
 | [Arbetslös](https://open.spotify.com/track/4FCcmoFT4MuVX2HKLEx97U) | [VÄNSTERNÄVEN](https://open.spotify.com/artist/4cOYuFklSQ8HBFFpP7UPMl) | [Välkommen hit](https://open.spotify.com/album/7nZz1v6015OUHDxXK7CrAu) | 1:30 | 2021-12-14 | 2022-07-29 |
@@ -118,7 +119,7 @@
 | [Jag Vill Ha En Slav](https://open.spotify.com/track/4xO1DQ3opSAtufO7oNP0C4) | [Krymplings](https://open.spotify.com/artist/4kLL8wxwaGFZNFzfS0mPuZ) | [Krymplings](https://open.spotify.com/album/6lHYeeAQXLPGqEM4wSXlKj) | 2:32 | 2023-05-04 |  |
 | [Jag Vill Ha En Slav](https://open.spotify.com/track/6kviUfqwA8C6rbwP3fod1b) | [Krymplings](https://open.spotify.com/artist/4kLL8wxwaGFZNFzfS0mPuZ) | [Krymplings](https://open.spotify.com/album/6GvLNIV56ZJgbxU1E5THiH) | 2:32 | 2021-12-14 | 2023-04-30 |
 | [Jag Vill Ha En Slav](https://open.spotify.com/track/0P6UhoZknVBvw7jKzLuwtP) | [Krymplings](https://open.spotify.com/artist/4kLL8wxwaGFZNFzfS0mPuZ), [Ulke](https://open.spotify.com/artist/6KjoityQl9NkVhPZ8isDlw), [Per Granberg](https://open.spotify.com/artist/0TAfL2lQzxByP4TUCEhgVw), [Mongo](https://open.spotify.com/artist/2S2M3JoiDwZRKqD592x3oy), [Curre Sandgren](https://open.spotify.com/artist/48OCQMmwurPMuSxrS8eqBP), [Mart Hällgren](https://open.spotify.com/artist/3j9Yn1hzjWZThZ0Ohjvzjc) | [Krymplings](https://open.spotify.com/album/2l3gu0JPCyey6ztaXsdwvc) | 2:32 | 2021-12-14 | 2022-07-29 |
-| [Jane Doe, Östersund](https://open.spotify.com/track/4tzLVTf3Cw3hi2C6oINeQS) | [En Svensk Tiger](https://open.spotify.com/artist/3iW69eoN123eG0fXEdER0q) | [Jane Doe, Östersund](https://open.spotify.com/album/3Se4PLem67i9Do45OPzWu0) | 3:09 | 2023-10-12 |  |
+| [Jane Doe, Östersund](https://open.spotify.com/track/4tzLVTf3Cw3hi2C6oINeQS) | [En Svensk Tiger](https://open.spotify.com/artist/3iW69eoN123eG0fXEdER0q) | [Jane Doe, Östersund](https://open.spotify.com/album/3Se4PLem67i9Do45OPzWu0) | 3:09 | 2023-10-12 | 2024-02-23 |
 | [Johanna](https://open.spotify.com/track/2ekTSYW68ShERRzsPBbRaF) | [De Lyckliga Kompisarna](https://open.spotify.com/artist/5ZFPmKZWWyfhwTLTDwqZgd) | [Pengar Har Inga Ögon](https://open.spotify.com/album/1ueBZ7RDpKS1kv4VYTaZRY) | 2:34 | 2021-12-14 |  |
 | [Kaos](https://open.spotify.com/track/1JgMOH0eqEeFZLTdOrNUd9) | [Norra Hospitalet](https://open.spotify.com/artist/45GsgqL3hY5YIJ0FTq7DDM) | [Bakom ljuset](https://open.spotify.com/album/4yARa8B7DKUanmMtw1HrKM) | 2:16 | 2023-10-26 |  |
 | [Kaos](https://open.spotify.com/track/3fuHnBzzEgUgNYlwt5FPuv) | [Norra Hospitalet](https://open.spotify.com/artist/45GsgqL3hY5YIJ0FTq7DDM) | [Bakom ljuset](https://open.spotify.com/album/0oD3URB9nBxNSI6p79HE5m) | 2:16 | 2021-12-14 | 2022-07-25 |

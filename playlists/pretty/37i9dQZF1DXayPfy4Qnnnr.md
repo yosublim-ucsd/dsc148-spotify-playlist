@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayPfy4Qnnnr.md) - [plain]
 
 > Chanson alterno, rock festif, ska ou reggae, peu importe le genre : crie\-le bien fort, use tes cordes vocales !
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,336 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,374 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayPfy4Qnnnr.md) - [plain]
 | 49 | [L'odyssée du réel](https://open.spotify.com/track/6T8JxxGowkAfXH6YfwL2II) | [La Ruda Salska](https://open.spotify.com/artist/5wLQgAe9uO150K07T2MYvl) | [Passager du réel](https://open.spotify.com/album/2CtHL2zu55v3Xu1K1PUCvZ) | 4:55 |
 | 50 | [La gueule du patrimoine](https://open.spotify.com/track/1W1fQ84xvzfdMuFLBPy6Jh) | [Z.E.P](https://open.spotify.com/artist/4XAzJCyr0H69x6RkEnb2Go) | [Zone d'expression populaire](https://open.spotify.com/album/4RJzRt68IPvg9BZc53mpiN) | 4:45 |
 
-Snapshot ID: `MCw3ZTQ1ZTkyMmE1OGYyODVhMWY0YzViMzU2MmU4ZjEzYzZiZmMzMzM1`
+Snapshot ID: `MCxhNzViYjUzOTJkMWM1NGRiY2Q5ZGMwMTNkZTY5YzJiYmUzYmZjOTY4`

@@ -4,7 +4,7 @@
 
 > it's a real\-life boogie and a real\-life hoedown 🐎
 
-1,381 songs - 3 day 0 hr 38 min
+1,382 songs - 3 day 0 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -411,7 +411,8 @@
 | [Fuck You](https://open.spotify.com/track/1lPohXCBkC8g1bx53PCYMp) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Have a Good Day!](https://open.spotify.com/album/5GoHVqF4DVq8OY6KTym3uJ) | 3:39 | 2022-11-10 | 2022-11-14 |
 | [Fuck You](https://open.spotify.com/track/1GCbc1vpkZA2zhjsSFhmHT) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [It's Not Me, It's You](https://open.spotify.com/album/39zjAZD6nlscx5DafH8GI8) | 3:39 | 2022-06-28 |  |
 | [Fuck You](https://open.spotify.com/track/5st5644IlBmKiiRE73UsoZ) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [It's Not Me, It's You](https://open.spotify.com/album/2OUL7ZpAvUaWyylZ1lXpe0) | 3:39 | 2022-06-28 | 2022-07-29 |
-| [FΛSHION](https://open.spotify.com/track/4YQgOgIElFtEvwJQ9ArWL7) | [Britney Manson](https://open.spotify.com/artist/7GtPtPbDC5CLNzSNxVpqaf) | [FΛSHION](https://open.spotify.com/album/7umRaDZ9FqTaL2EWZvGMEX) | 2:26 | 2023-09-28 |  |
+| [FΛSHION](https://open.spotify.com/track/4YQgOgIElFtEvwJQ9ArWL7) | [Britney Manson](https://open.spotify.com/artist/7GtPtPbDC5CLNzSNxVpqaf) | [FΛSHION](https://open.spotify.com/album/7umRaDZ9FqTaL2EWZvGMEX) | 2:26 | 2023-09-28 | 2024-02-23 |
+| [FΛSHION](https://open.spotify.com/track/70jiETKdlLEram2zJSHdHH) | [Britney Manson](https://open.spotify.com/artist/7GtPtPbDC5CLNzSNxVpqaf) | [FΛSHION](https://open.spotify.com/album/6cKTeK2UQ55jCrJcTsDm1h) | 2:26 | 2024-02-14 |  |
 | [Gangnam Style \(강남스타일\)](https://open.spotify.com/track/03UrZgTINDqvnUMbbIMhql) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) | [Gangnam Style \(강남스타일\)](https://open.spotify.com/album/0ZjxizLeMyFEjR27JIvD99) | 3:39 | 2022-05-19 |  |
 | [Gemstone](https://open.spotify.com/track/5ykAlgMXCygcUsfyBl5IZZ) | [Quinton Griggs](https://open.spotify.com/artist/0ZdLS8EfYknjiTEBHbJt9n) | [Gemstone](https://open.spotify.com/album/34CJZ8FiPTMS6ISQ1OYV1b) | 2:45 | 2022-07-28 |  |
 | [get him back!](https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:31 | 2023-10-04 |  |
@@ -1280,7 +1281,7 @@
 | [Unwritten](https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Unwritten](https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL) | 4:19 | 2024-01-09 |  |
 | [ur not delilah](https://open.spotify.com/track/2npGF2T4MHbn2YEDlOaPQg) | [dempsey hope](https://open.spotify.com/artist/6ZzYOQMKYTj2lJeAitjSl7) | [of note](https://open.spotify.com/album/3WOdAvguXdCeZE0P1G2UlV) | 2:27 | 2022-05-19 |  |
 | [ur so pretty](https://open.spotify.com/track/1Jt24MPLz6fGXSCTlXTjzF) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [how can i pretend?](https://open.spotify.com/album/5utykEfgIIgl1Nt5ld60y0) | 2:12 | 2023-08-08 |  |
-| [Vai Com Bundão](https://open.spotify.com/track/6geZSlNRfUr8donymP7ksV) | [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK) | [Vai Com Bundão](https://open.spotify.com/album/3uOfCDjobNbPqIOBxnc7ou) | 2:05 | 2022-05-19 |  |
+| [Vai Com Bundão](https://open.spotify.com/track/6geZSlNRfUr8donymP7ksV) | [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [Ricky Ribeiro](https://open.spotify.com/artist/0OJan6sabxPrcFtfpu9Xt3) | [Vai Com Bundão](https://open.spotify.com/album/3uOfCDjobNbPqIOBxnc7ou) | 2:05 | 2022-05-19 |  |
 | [Valentine](https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:48 | 2024-02-13 |  |
 | [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 | 2023-09-08 |  |
 | [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 | 2023-06-30 | 2023-09-11 |

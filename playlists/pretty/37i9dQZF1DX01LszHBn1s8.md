@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > it's a real\-life boogie and a real\-life hoedown 🐎
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,598 likes - 900 songs - 1 day 23 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,578 likes - 900 songs - 1 day 23 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,7 +130,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 | 120 | [Hurts Me](https://open.spotify.com/track/0RBw4ODUQPO4cuAOZtBGga) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Yoko Gold](https://open.spotify.com/artist/24WdRSLiIlFrqK2FqxGLVm) | [Hurts Me](https://open.spotify.com/album/5fMG2nwVGN3fBofLm9CB0x) | 2:20 |
 | 121 | [Always Forever \- Slowed and Reverbed](https://open.spotify.com/track/4G1M6QuYrnhZEvKG5Z4yDi) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Always Forever \- EP](https://open.spotify.com/album/5dIrrGNvYuz6RtqJeqONvZ) | 4:18 |
 | 122 | [Amour plastique](https://open.spotify.com/track/269XSeQhDrWEotMALJaACW) | [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1), [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Mattyeux](https://open.spotify.com/artist/3bFokK6zCab3bPwSjktEVF) | [Euphories](https://open.spotify.com/album/1WfIjwnJ0aHiWCSkeSSeuV) | 3:45 |
-| 123 | [FΛSHION](https://open.spotify.com/track/4YQgOgIElFtEvwJQ9ArWL7) | [Britney Manson](https://open.spotify.com/artist/7GtPtPbDC5CLNzSNxVpqaf) | [FΛSHION](https://open.spotify.com/album/7umRaDZ9FqTaL2EWZvGMEX) | 2:26 |
+| 123 | [FΛSHION](https://open.spotify.com/track/70jiETKdlLEram2zJSHdHH) | [Britney Manson](https://open.spotify.com/artist/7GtPtPbDC5CLNzSNxVpqaf) | [FΛSHION](https://open.spotify.com/album/6cKTeK2UQ55jCrJcTsDm1h) | 2:26 |
 | 124 | [Ick](https://open.spotify.com/track/7nn4MXs89QymmNzRreTywe) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Now You See Me](https://open.spotify.com/album/6WFa2y2gaNb7561mFsYG7T) | 1:55 |
 | 125 | [right where you left me](https://open.spotify.com/track/3IxAFD3NO9vUqJpL0xH3kc) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [the "ladies lunching" chapter](https://open.spotify.com/album/29TDKlVwdu8TqifC3WN86l) | 4:05 |
 | 126 | [Mama's Boy](https://open.spotify.com/track/0b6xZk9f96N77BfmYWnQNC) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Sunburn](https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH) | 2:35 |
@@ -734,7 +734,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 | 724 | [Still D.R.E.](https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [2001](https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N) | 4:30 |
 | 725 | [Never Go Wrong](https://open.spotify.com/track/60LAae4EzXrJ2BLwvfMfJH) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [david hugo](https://open.spotify.com/artist/0IErJSgNHRD1DAH0X7yHvn) | [Good Times Go](https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV) | 2:35 |
 | 726 | [We'll Never Have Sex](https://open.spotify.com/track/4zXuYQNDmw3dlauyc8q3Kd) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [We'll Never Have Sex](https://open.spotify.com/album/7ji2CX2KOzJgYY1Du1aaS3) | 1:39 |
-| 727 | [Vai Com Bundão](https://open.spotify.com/track/6geZSlNRfUr8donymP7ksV) | [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK) | [Vai Com Bundão](https://open.spotify.com/album/3uOfCDjobNbPqIOBxnc7ou) | 2:05 |
+| 727 | [Vai Com Bundão](https://open.spotify.com/track/6geZSlNRfUr8donymP7ksV) | [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [Ricky Ribeiro](https://open.spotify.com/artist/0OJan6sabxPrcFtfpu9Xt3) | [Vai Com Bundão](https://open.spotify.com/album/3uOfCDjobNbPqIOBxnc7ou) | 2:05 |
 | 728 | [HANDSOMER \(Remix\) \(Feat\. Ktlyn\)](https://open.spotify.com/track/0vp1sk3FzuDBeLMLcRhQdL) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS), [Ktlyn](https://open.spotify.com/artist/6FaLegXtqjGZBH5VFrOlwG) | [HANDSOMER \(Remix\) \(Feat\. Ktlyn\)](https://open.spotify.com/album/5EMb5JomVavgkhB6ce0xfS) | 2:23 |
 | 729 | [Fourth of July](https://open.spotify.com/track/5Qnrgqy1pAm9GyNQOgyVFz) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS) | 4:39 |
 | 730 | [birthday cake](https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [birthday cake](https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT) | 3:25 |
@@ -909,4 +909,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 | 899 | [Cupid's Chokehold / Breakfast in America](https://open.spotify.com/track/2Lhdl74nwwVGOE2Gv35QuK) | [Gym Class Heroes](https://open.spotify.com/artist/4IJczjB0fJ04gs4uvP0Fli) | [The Papercut Chronicles](https://open.spotify.com/album/4Ug3M4a8wAEebndVIF65fX) | 4:03 |
 | 900 | [Promiscuous](https://open.spotify.com/track/2gam98EZKrF9XuOkU13ApN) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Loose](https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT) | 4:02 |
 
-Snapshot ID: `MCw2NzNmM2U3ZmZiZWZkNDYwNWFlOTdkMjc2NTE1ZGFmNjgzMjAwZDc1`
+Snapshot ID: `MCw1MjJmZTVhMmVmN2M2MTBkOTllMzg4YmU0Mjg3Zjc1MTRjODVkMThk`

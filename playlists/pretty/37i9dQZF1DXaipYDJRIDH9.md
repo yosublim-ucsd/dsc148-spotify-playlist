@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaipYDJRIDH9.md) - [plain]
 
 > Piano instrumental para ajudar sua concentração na hora de ler e estudar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,352 likes - 100 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,383 likes - 100 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaipYDJRIDH9.md) - [plain]
 | 99 | [Secrets of the Earth](https://open.spotify.com/track/2ebLKk0oGuiVzJz9JCXnVs) | [Lama House](https://open.spotify.com/artist/3We2SFbH59mXg6D42TPhWJ) | [Secrets of the Earth](https://open.spotify.com/album/181sKloKYO9iKWM50ldXbK) | 2:24 |
 | 100 | [Secret Language \(Solo Piano Version\)](https://open.spotify.com/track/1PZaY3NrqUG03f3QworoZL) | [Sonny Santos](https://open.spotify.com/artist/61rw2tGmDJZcFrMO638UXS), [Sarah Watson](https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0) | [Secret Language \(Solo Piano Version\)](https://open.spotify.com/album/1FDrPTALSqfWClwFePUBkJ) | 2:37 |
 
-Snapshot ID: `MCxlMWRhY2UwMmMyZTViMTI3MDU4MmJmMjg5OWQ5M2VmNDI4YzY1MzQw`
+Snapshot ID: `MCw1M2QyZDI0MjYxN2U0ZWQ4YmQ2MGNhMjA5NTNiMmVjZDhiNzRhOWFm`

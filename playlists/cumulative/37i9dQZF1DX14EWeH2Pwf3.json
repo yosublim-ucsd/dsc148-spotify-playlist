@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La playlist urban pi\u00f9 grande d'Italia \ud83d\udd25 Cover: Geolier",
+  "description": "La playlist urban pi\u00f9 grande d'Italia \ud83d\udd25 Cover: Ghali",
   "name": "Plus Ultra",
   "tracks": [
     {
@@ -894,7 +894,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 223360,
       "name": "Baby U Want Me (feat. Geolier & Michelangelo)",
       "url": "https://open.spotify.com/track/1VzaOchDWZJ5PliyvO24h7"
@@ -2703,6 +2703,24 @@
     },
     {
       "album": {
+        "name": "Dentro di me",
+        "url": "https://open.spotify.com/album/4G7K8YMU8vCtPr9SiOZ0if"
+      },
+      "artists": [
+        {
+          "name": "Beba",
+          "url": "https://open.spotify.com/artist/6ZpOQK1OKdCybuOgMkdbUh"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157050,
+      "name": "Dentro di me",
+      "url": "https://open.spotify.com/track/7yLuwRipesZLX1xAqY3cjz"
+    },
+    {
+      "album": {
         "name": "Umile (Deluxe)",
         "url": "https://open.spotify.com/album/4asGsNx59kGDbKWXwnd89t"
       },
@@ -3250,10 +3268,28 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 193725,
       "name": "Face to face 2",
       "url": "https://open.spotify.com/track/3Y9w1o3DIroJsJN3WG5RMy"
+    },
+    {
+      "album": {
+        "name": "FACTS",
+        "url": "https://open.spotify.com/album/3bETgmv7jeiL9ztdKumkUf"
+      },
+      "artists": [
+        {
+          "name": "Vegas Jones",
+          "url": "https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123222,
+      "name": "FACTS",
+      "url": "https://open.spotify.com/track/4ZqFq28LRJTj8Z82EoLibg"
     },
     {
       "album": {
@@ -4180,7 +4216,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 142434,
       "name": "I GOT IT",
       "url": "https://open.spotify.com/track/1Dvl9M7pTzjsceCqAzChx2"
@@ -4463,6 +4499,32 @@
     },
     {
       "album": {
+        "name": "In Italia 2024 (feat. Emma & Baby Gang)",
+        "url": "https://open.spotify.com/album/312tEWGsN8ssJGl3aHZWuU"
+      },
+      "artists": [
+        {
+          "name": "Fabri Fibra",
+          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
+        },
+        {
+          "name": "Emma",
+          "url": "https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX"
+        },
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245292,
+      "name": "In Italia 2024 (feat. Emma & Baby Gang)",
+      "url": "https://open.spotify.com/track/6nxQV4fJgfvyfZRPPJm1mO"
+    },
+    {
+      "album": {
         "name": "In Mezzo ai Guai (feat. Neima Ezza)",
         "url": "https://open.spotify.com/album/0xO0SQjczFWJFUk2wSSQh9"
       },
@@ -4658,6 +4720,24 @@
       "duration_ms": 226863,
       "name": "Karma (feat. Rondodasosa)",
       "url": "https://open.spotify.com/track/5O3JxKrBqIQais5ZgMx1Qp"
+    },
+    {
+      "album": {
+        "name": "NOSTALGIA (export)",
+        "url": "https://open.spotify.com/album/7nrBxtq6TJ5xs3D9G0R7ue"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139902,
+      "name": "Kid",
+      "url": "https://open.spotify.com/track/3cJ3KCdbNTSs5NGhETU9kt"
     },
     {
       "album": {
@@ -5094,7 +5174,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 196799,
       "name": "LE BAMBINE FANNO OH (feat. Nerissima Serpe, ANNA, Papa V, Artie 5ive)",
       "url": "https://open.spotify.com/track/0bB8hmswtN9WvOQXV159CC"
@@ -5877,6 +5957,28 @@
     },
     {
       "album": {
+        "name": "Milkshake (feat. Slings)",
+        "url": "https://open.spotify.com/album/6hVkaUOaMJKbCJfINMG8jB"
+      },
+      "artists": [
+        {
+          "name": "Pyrex",
+          "url": "https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg"
+        },
+        {
+          "name": "Slings",
+          "url": "https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Milkshake (feat. Slings)",
+      "url": "https://open.spotify.com/track/4cXeddjuV6IugeXXl6jlGG"
+    },
+    {
+      "album": {
         "name": "MILLIONAIRE (feat. MV Killa, Yung Snapp, Lele Blade, Vale Lambo)",
         "url": "https://open.spotify.com/album/0AFuYaehOV5NKGPvmxc4t2"
       },
@@ -6577,6 +6679,62 @@
     },
     {
       "album": {
+        "name": "NON MI RICONOSCO \u2260 (con centomilacarie & Salmo)",
+        "url": "https://open.spotify.com/album/5PutBua8NzMGpeATIMIohf"
+      },
+      "artists": [
+        {
+          "name": "MACE",
+          "url": "https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1"
+        },
+        {
+          "name": "centomilacarie",
+          "url": "https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa"
+        },
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216389,
+      "name": "NON MI RICONOSCO \u2260 (con centomilacarie & Salmo)",
+      "url": "https://open.spotify.com/track/1RXPbmcMA0cijWf1trj8HJ"
+    },
+    {
+      "album": {
+        "name": "non odiare mai (feat. Coez, Gemitaiz, Noyz Narcos)",
+        "url": "https://open.spotify.com/album/7dHqdHoa2ienIkaXYYeEuj"
+      },
+      "artists": [
+        {
+          "name": "STABBER",
+          "url": "https://open.spotify.com/artist/1eKwVaINKkLrCkOQFRVM6g"
+        },
+        {
+          "name": "Coez",
+          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
+        },
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        },
+        {
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186250,
+      "name": "non odiare mai (feat. Coez, Gemitaiz, Noyz Narcos)",
+      "url": "https://open.spotify.com/track/1eHMjCvVlGX4ou46rCpsTb"
+    },
+    {
+      "album": {
         "name": "Dove Volano Le Aquile Vol. 2",
         "url": "https://open.spotify.com/album/5533SD7HXknP7vKdshypG1"
       },
@@ -6930,7 +7088,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 174893,
       "name": "Paganini",
       "url": "https://open.spotify.com/track/34XnlHqQzVeqXTMXc7SVo0"
@@ -6974,7 +7132,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 185454,
       "name": "PANINARO (feat. Tony Boy, Artie 5ive)",
       "url": "https://open.spotify.com/track/0VVYNEXsZB3x9XyMEZQjk1"
@@ -9138,7 +9296,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 176343,
       "name": "Straniero (feat. Tedua)",
       "url": "https://open.spotify.com/track/4nKyIs9RnHzRJSyM5x7BEU"

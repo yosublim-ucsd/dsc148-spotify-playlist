@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VULZP.md) - [plain]
 
 > This is Descendents\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,300 likes - 42 songs - 1 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,311 likes - 42 songs - 1 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VULZP.md) - [plain]
 | 41 | [Crepe Suzette](https://open.spotify.com/track/0ylpeLmX7i15s6IpMpBB8M) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [9th & Walnut](https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs) | 1:05 |
 | 42 | [Sailor's Choice](https://open.spotify.com/track/0HfSlRenXUSBpouR8DNQ8V) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [9th & Walnut](https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs) | 1:14 |
 
-Snapshot ID: `Mjg0NzUyOTAsMDAwMDAwMDBmNzcwYmM5ZTlmMzY3NDhjMTNhNjY4NDAzYTEyNzgzNA==`
+Snapshot ID: `Mjg0NzcwNzUsMDAwMDAwMDAzY2M4MTQ4ZmQ1ZDU4M2IwODFkMTNkNzIxNzBlZTE0MA==`

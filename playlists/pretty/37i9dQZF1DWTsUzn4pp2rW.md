@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 
 > Get into the mood with beautiful collections of Jazz Pop tunes\. Cover: Michael Bublé
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,990 likes - 140 songs - 8 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,046 likes - 140 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 | 139 | [Softer Than You Know](https://open.spotify.com/track/24zUpGZ4tPI7gdkHiiv2xS) | [Frans Bak](https://open.spotify.com/artist/4KyULSYP9ZU6WBnUfvudjG), [Sinne Eeg](https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw) | [Softer Than You Know](https://open.spotify.com/album/7gIixEPeXj189Kzw4PHCXu) | 3:28 |
 | 140 | [Christmas Time Is Here](https://open.spotify.com/track/6lLbk4fLDbI5WYf4dLLKQt) | [U3](https://open.spotify.com/artist/5ovgMXlBdlYdEZ2mQDqOU9), [Cynthia Lin](https://open.spotify.com/artist/4daaUucayZ59b8C4Hea47M), [Ukulenny](https://open.spotify.com/artist/5ZFFIbdDrRvXXgGeRnOANp), [Abe Lagrimas, Jr.](https://open.spotify.com/artist/2YrcT6uG6wP88zpSZd7gwt) | [Christmas Time Is Here](https://open.spotify.com/album/5Vcb7yL3C7yujqgA36S5Pr) | 3:29 |
 
-Snapshot ID: `MCxhM2E0Y2QzNWYzNzU3MGU4MDA1MGZjYzUyZGQxMDk1YTgzNGJjNGU1`
+Snapshot ID: `MCw5ZWU2M2Q2MGRhOGIyNGZiNzJmNWY5N2NiMjdhOWNmYWY0NDI5ZDNm`

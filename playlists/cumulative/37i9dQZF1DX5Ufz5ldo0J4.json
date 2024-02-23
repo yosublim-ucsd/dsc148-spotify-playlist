@@ -347,6 +347,24 @@
     },
     {
       "album": {
+        "name": "Astral Meadows",
+        "url": "https://open.spotify.com/album/0Eg3lP4oW76UoGBWx61OLF"
+      },
+      "artists": [
+        {
+          "name": "Delta Shores",
+          "url": "https://open.spotify.com/artist/3tXdeFwRiTfum3oQBQbLmP"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168766,
+      "name": "Astral Meadows",
+      "url": "https://open.spotify.com/track/6C10cyDvoNgPzoykMMgucx"
+    },
+    {
+      "album": {
         "name": "Fragment",
         "url": "https://open.spotify.com/album/4hDrHeKxgRFP07lI6RAkoE"
       },
@@ -4376,6 +4394,24 @@
       "duration_ms": 183333,
       "name": "Stillness",
       "url": "https://open.spotify.com/track/1BQxGhCmtTfvpkNcZ3Lp8G"
+    },
+    {
+      "album": {
+        "name": "Sublime Worlds",
+        "url": "https://open.spotify.com/album/4VsUbjQBypb4C6XF1iq73o"
+      },
+      "artists": [
+        {
+          "name": "Lofty Escape",
+          "url": "https://open.spotify.com/artist/3VlqOVcIiqnACv20YHvqZe"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146250,
+      "name": "Sublime Worlds",
+      "url": "https://open.spotify.com/track/4STFgLLAdhMBPeDv3FlnQA"
     },
     {
       "album": {

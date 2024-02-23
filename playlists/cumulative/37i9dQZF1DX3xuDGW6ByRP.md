@@ -4,13 +4,13 @@
 
 > as novas de pop rock br / Foto: TINN
 
-147 songs - 7 hr 31 min
+148 songs - 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [144](https://open.spotify.com/track/2UrTBYA7g5uQDeE1refIs6) | [Raça](https://open.spotify.com/artist/7LC3Unc4kVkoX7yLCZbyg5) | [144](https://open.spotify.com/album/6EGMD8lu6cqhdbd0UcnKoo) | 2:19 | 2023-11-10 | 2023-12-16 |
 | [31](https://open.spotify.com/track/5mJbLqzvoRio2PeuuPcUuU) | [Manu Gavassi](https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8) | [31](https://open.spotify.com/album/1zdl2g07b86asvSAFwVY6C) | 4:11 | 2024-01-05 |  |
-| [A Cura](https://open.spotify.com/track/4xawu6VJn17igipPIGayeU) | [Mayra](https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt) | [A Cura](https://open.spotify.com/album/2kpzLThPuJZYuZSLTX6w6c) | 3:27 | 2023-07-21 |  |
+| [A Cura](https://open.spotify.com/track/4xawu6VJn17igipPIGayeU) | [Mayra](https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt) | [A Cura](https://open.spotify.com/album/2kpzLThPuJZYuZSLTX6w6c) | 3:27 | 2023-07-21 | 2024-02-23 |
 | [Alive and Unwell](https://open.spotify.com/track/4XFwLmozZe73WYcryOwhoh) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Alive and Unwell](https://open.spotify.com/album/6s1pB9DnJEgdQVEXDzHsgB) | 2:01 | 2023-11-10 |  |
 | [Alive and Unwell](https://open.spotify.com/track/7ffThXwGKRO4KRM1rVyXGJ) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Alive and Unwell](https://open.spotify.com/album/3LiuUi849agq0ZVwLBIup8) | 2:01 | 2023-07-21 | 2023-10-21 |
 | [Amigo de Ninguém](https://open.spotify.com/track/7pbz1Rwzbb4nG7ljbMMn9u) | [Number Teddie](https://open.spotify.com/artist/18TympJ9X4CQ45GYy7sORT) | [PODERIA SER \(bem\) PIOR](https://open.spotify.com/album/6q0gUaY6hsZIvOlatWotu0) | 2:51 | 2023-07-21 |  |
@@ -53,6 +53,7 @@
 | [EDGING](https://open.spotify.com/track/2wVWGFVkL5I3JGsoWBx2AZ) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [EDGING](https://open.spotify.com/album/0EspGdWdoWAxa5mBdQ5z55) | 2:31 | 2023-07-21 | 2023-11-18 |
 | [Emocionado](https://open.spotify.com/track/0cSQ6uPHR8IHL3QfYe7n8j) | [Ana Laura Lopes](https://open.spotify.com/artist/0uGD30yANzeWbNUAQoiJF2) | [Emocionado](https://open.spotify.com/album/4EsncwoboDBXFxpFKG8Khj) | 2:47 | 2024-01-26 |  |
 | [Eu Nunca Fui Embora](https://open.spotify.com/track/14CmAgvaO309e1erSWnRsJ) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [Eu Nunca Fui Embora](https://open.spotify.com/album/3waAqG5OQMuzBRZgGYG82h) | 3:05 | 2023-11-24 |  |
+| [Eu Não Sei](https://open.spotify.com/track/7eeJgq9MhDnycYbd0oM2EZ) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5), [Supercombo](https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1) | [Eu Não Sei](https://open.spotify.com/album/5rfuaPrFL0zxgLawlcHI94) | 3:34 | 2024-02-22 |  |
 | [Exagerado](https://open.spotify.com/track/4KiAjV7djHETTGUDogKz6l) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN), [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF), [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU), [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Exagerados](https://open.spotify.com/album/68sIZYDlwj9xRy06ENDGuF) | 2:43 | 2023-07-21 |  |
 | [Fake As Hell \(with Avril Lavigne\)](https://open.spotify.com/track/7bbhu051CI6krV0M6lv7tl) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Fake As Hell \(with Avril Lavigne\)](https://open.spotify.com/album/39fNnKFUvJIyEyItTOoc9Z) | 2:59 | 2023-09-15 |  |
 | [FELL IN LOVE](https://open.spotify.com/track/0rc6gtN1L7i0TacdfxhiND) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [FELL IN LOVE](https://open.spotify.com/album/3inphIxOlFnDL3CD3wkMe6) | 2:18 | 2023-10-13 |  |

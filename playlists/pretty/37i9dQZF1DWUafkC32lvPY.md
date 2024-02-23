@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUafkC32lvPY.md) - [plain]
 
 > lofi beats by Latinxs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,107 likes - 80 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,149 likes - 80 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUafkC32lvPY.md) - [plain]
 | 79 | [Ipanema Sunset](https://open.spotify.com/track/5ZShelOhRxEpV21NiTYQsK) | [Praia Sur](https://open.spotify.com/artist/1rAf2WavxUwfhaeBHUreyf), [LaidSisters](https://open.spotify.com/artist/5Cn511T4oZ0eQO3IddTPRj), [Müx](https://open.spotify.com/artist/7IGyY5whYR8PVM72XO07yo) | [Ipanema Sunset](https://open.spotify.com/album/2fq3PU3vTiKdUyDsRKc8L7) | 2:02 |
 | 80 | [lucky monkey](https://open.spotify.com/track/4aSlHwyeGcDztZJCmt9QEU) | [archipelago beats](https://open.spotify.com/artist/7kv4vSxfaAfdzaq6Ogd272) | [lucky monkey](https://open.spotify.com/album/3elKgTM8xtD6DrNFP7Pb9I) | 2:13 |
 
-Snapshot ID: `MCxjMjlmNTVkNzE5Mjg3ODFhYzI4MWQ2MWYwMTczNjA1MTg0YWM3Y2I3`
+Snapshot ID: `MCw0YTRhMDMwM2IxZDE4ZGUyNmQwMjU0M2Y5NmQ2OTZjMmE1OTg1YjA1`

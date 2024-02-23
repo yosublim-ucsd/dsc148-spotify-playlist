@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 
 > all gains
 
-[Spotify](https://open.spotify.com/user/spotify) - 375,133 likes - 40 songs - 1 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 375,765 likes - 40 songs - 1 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 | 18 | [BRODYAGA FUNK](https://open.spotify.com/track/2V3hsJU3bTOATih0Fm4aDp) | [Eternxlkz](https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF) | [BRODYAGA FUNK](https://open.spotify.com/album/7EWDvEG6vKIjTBk3rGMtP0) | 2:14 |
 | 19 | [DEMONS IN MY SOUL](https://open.spotify.com/track/72iyEnh9p6PoyJoEnAJDjO) | [SCXR SOUL](https://open.spotify.com/artist/6yxKWJK7XtaOMK2j9FXqSC), [Sx1nxwy](https://open.spotify.com/artist/0vX16aPLB5IGeyzFDHBm6T) | [DEMONS IN MY SOUL](https://open.spotify.com/album/5EDnWffEsv2TTRyMPMufl7) | 2:00 |
 | 20 | [NEON BLADE](https://open.spotify.com/track/0iUrxveyNUBfj0cqjYEijt) | [MoonDeity](https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY) | [NEON BLADE](https://open.spotify.com/album/4zRjyCx4wMu480J7tac2Gm) | 4:25 |
-| 21 | [YUMMI](https://open.spotify.com/track/3RlfkOE0lXMec08I6CaakR) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK), [YOUK3IV](https://open.spotify.com/artist/4ftc3UZdpRIPlQVWZRnEg4) | [YUMMI](https://open.spotify.com/album/4J0FEQtbjPH1DA60p6bKe9) | 1:35 |
+| 21 | [YUMMI](https://open.spotify.com/track/3RlfkOE0lXMec08I6CaakR) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK), [YOUK3IV](https://open.spotify.com/artist/4ftc3UZdpRIPlQVWZRnEg4) | [YUMMI](https://open.spotify.com/album/4J0FEQtbjPH1DA60p6bKe9) | 1:36 |
 | 22 | [Live Another Day](https://open.spotify.com/track/34lfu3S4fIcKZRNXzbdbo7) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Phonkageddon](https://open.spotify.com/album/3mBLmOCKHY1MAOD8fYmffg) | 2:13 |
 | 23 | [RITMO DE TREINO](https://open.spotify.com/track/2pIC8fTfWwGjbo31YyNtzT) | [YOUTHISENDING](https://open.spotify.com/artist/1m8N1IE2yCPD2SCNpshEwe), [MC PR](https://open.spotify.com/artist/0Vxqvpm9tpZcz6d4egDtjX), [MC Pequeno Diamante](https://open.spotify.com/artist/7jqVVRFgBPvHWLnUwfRF6C) | [RITMO DE TREINO](https://open.spotify.com/album/7kV5GsdeIupIcevrNDfFUz) | 1:42 |
 | 24 | [WORTH NOTHING \(feat\. Oliver Tree\) \- Fast & Furious: Drift Tape/Phonk Vol 1](https://open.spotify.com/track/3PjbA0O5olhampPMdaB0V1) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs) | [WORTH NOTHING \(feat\. Oliver Tree\) \[Fast & Furious: Drift Tape/Phonk Vol 1\]](https://open.spotify.com/album/1nyfZlIOe109tZTrpR3z8h) | 2:44 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 | 39 | [AVOID ME](https://open.spotify.com/track/5FX30idriKlEIRYTxpNf65) | [KUTE](https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX) | [AVOID ME](https://open.spotify.com/album/1LwLabogNr1KwEHU1EnSRZ) | 1:45 |
 | 40 | [LIE DOWN!](https://open.spotify.com/track/2RPe3OsUu4E4fDtmAlqh20) | [NUEKI](https://open.spotify.com/artist/1nccv1GNVkBdvsYi2FB5FB), [TOLCHONOV](https://open.spotify.com/artist/23P2mSsBpPkfR9fTrOc1a4) | [LIE DOWN!](https://open.spotify.com/album/3ENTKZGQ72k4Pyp4sSQ2fj) | 1:00 |
 
-Snapshot ID: `MCxlOTJkYzdhY2JjODhhMzYwNDhmOGVhOWQ0ODJiN2FiYTJiYjMzYjA5`
+Snapshot ID: `MCwxMTQyZjMxM2ZlN2Y5NzAxYzhiYzcxOWZiYjA2NjFhNDE3ZGVlMGM3`

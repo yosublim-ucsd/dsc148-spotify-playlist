@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 
 > make it pop! cover: Nicky Youre
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,654 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,650 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 18 | [Different Lives](https://open.spotify.com/track/7e7JVMegy4WBMnzuZE9Srq) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ), [Rachel Grae](https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn) | [Different Lives](https://open.spotify.com/album/2jnVMgIk877jRCQqJMuNfS) | 3:17 |
 | 19 | [What Do You Do for a Living? I Do My Best](https://open.spotify.com/track/6s2NbDQhKWMS3BauT5Nr3d) | [iamnotshane](https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as), [EMME](https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs) | [Chasing the Wind](https://open.spotify.com/album/37YccldXcBrMJ728lWYcQT) | 3:21 |
 | 20 | [Clarity](https://open.spotify.com/track/54fIT6FB4H6z3BJXQai1hm) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Clarity](https://open.spotify.com/album/49WXECyPBx84Kw0E33sjCY) | 2:17 |
-| 21 | [Sleepyhead](https://open.spotify.com/track/2Nf1xezlclOKIUiAIvkjVU) | [david hugo](https://open.spotify.com/artist/0IErJSgNHRD1DAH0X7yHvn) | [Sleepyhead](https://open.spotify.com/album/7vtEGgaefryUMRilWJ8zGD) | 3:14 |
+| 21 | [Sleepyhead](https://open.spotify.com/track/0swLKGvJZnbROxhHggpVBa) | [david hugo](https://open.spotify.com/artist/0IErJSgNHRD1DAH0X7yHvn) | [Sleepyhead](https://open.spotify.com/album/10nDX7ZVSymEXVDQxtemR8) | 3:14 |
 | 22 | [One More Night](https://open.spotify.com/track/25U7mv53Dbe3JzzDcSrTPB) | [Only The Poets](https://open.spotify.com/artist/3Z40kLBFU7C8532e2YLE9t) | [One More Night](https://open.spotify.com/album/1Rveuvo2p2tNinGgfSEW3w) | 3:10 |
 | 23 | [VICIOUS](https://open.spotify.com/track/4zO08ix7nulvQHfKm1bwC7) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [VICIOUS](https://open.spotify.com/album/76dCPKcj2NCRFaLQ9AlLtv) | 2:12 |
 | 24 | [Here’s To Us](https://open.spotify.com/track/2zpYiHY3ecQFn8V7jEd5u1) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Here’s To Us](https://open.spotify.com/album/4tSC3VDDSQetWw8s4GcreS) | 3:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 49 | [Blame Brett](https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame Brett](https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN) | 2:56 |
 | 50 | [I'm Not Crazy](https://open.spotify.com/track/3fiMmMyvoBGjfU9BWkTNWM) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [I’m Not Crazy](https://open.spotify.com/album/193T8nOZCynXr5GHbC5UzO) | 2:41 |
 
-Snapshot ID: `MCxiYzA1NjNkNDNiOTAzZWJiOGQ2ZDcyYTYyNGI3OTdlYzUyZjA3M2Nh`
+Snapshot ID: `MCw2MmExN2Q0NGI5YzU4ZmVlNTM0ZWI4Y2ZjZTUwN2U4MjMwMGZhYmYw`

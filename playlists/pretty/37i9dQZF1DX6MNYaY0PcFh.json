@@ -1,12 +1,12 @@
 {
   "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound.",
-  "num_followers": 74651,
+  "num_followers": 74678,
   "original_name": "New UK Garage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OTkyOGFjNTE5YWYyNThiYjZjYWU5M2YxNThjODZjMDNlOGQzMjg0",
+  "snapshot_id": "MCxiZjViNGI5NWMwZTVkMTg1MGExNGI2NGNiMmM0NGMyMWRiNGFkNGE3",
   "tracks": [
     {
       "added_at": "2024-01-26 00:01:00",
@@ -93,24 +93,28 @@
       "url": "https://open.spotify.com/track/6mTaiZPlOEop2t4FLUEMUc"
     },
     {
-      "added_at": "2024-02-16 00:01:00",
+      "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "Abracadabra (feat. Craig David)",
-        "url": "https://open.spotify.com/album/25HU17CmFd3aQkRHEU4Ek5"
+        "name": "The Way Things Were (Joe Hertz Remix)",
+        "url": "https://open.spotify.com/album/5DLG0cVM3E83yWDsGFkzmf"
       },
       "artists": [
         {
-          "name": "Wes Nelson",
-          "url": "https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq"
+          "name": "edbl",
+          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
         },
         {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+          "name": "Isaac Waddington",
+          "url": "https://open.spotify.com/artist/4ebKlOJFmoNuBQLKSEGDuH"
+        },
+        {
+          "name": "Joe Hertz",
+          "url": "https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman"
         }
       ],
-      "duration_ms": 155076,
-      "name": "Abracadabra (Feat. Craig David)",
-      "url": "https://open.spotify.com/track/19quyzgfIQzGM8K71UgMhp"
+      "duration_ms": 200106,
+      "name": "The Way Things Were - Joe Hertz Remix",
+      "url": "https://open.spotify.com/track/4F53yuj2CawwIGo0D2gDj8"
     },
     {
       "added_at": "2024-01-03 12:46:04",
@@ -201,36 +205,44 @@
       "url": "https://open.spotify.com/track/4KPTu8qSxATFXL3e5sJipW"
     },
     {
-      "added_at": "2024-01-03 12:46:04",
+      "added_at": "2024-02-16 00:01:00",
       "album": {
-        "name": "Little Things",
-        "url": "https://open.spotify.com/album/4YBGGd7KYurLSbc6XKDnSO"
+        "name": "Body Moving (Riordan Remix)",
+        "url": "https://open.spotify.com/album/6VN62DL9qSYG53VGXfohOn"
       },
       "artists": [
         {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+          "name": "Eliza Rose",
+          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
+        },
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
         }
       ],
-      "duration_ms": 204600,
-      "name": "Little Things",
-      "url": "https://open.spotify.com/track/1javLzBHyEKJJrG3s6FHaM"
+      "duration_ms": 186250,
+      "name": "Body Moving - Riordan Remix",
+      "url": "https://open.spotify.com/track/1j1gU6llk8Nqv3Kga9WBi7"
     },
     {
-      "added_at": "2024-01-03 12:46:04",
+      "added_at": "2024-02-09 00:01:00",
       "album": {
-        "name": "Mosquito",
-        "url": "https://open.spotify.com/album/4D4XpwlWhUNp8dOdYmuNIB"
+        "name": "2AM",
+        "url": "https://open.spotify.com/album/0EGtk8cOVn7UhFClnpvDzf"
       },
       "artists": [
         {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+          "name": "Pep\u00e9",
+          "url": "https://open.spotify.com/artist/5Z4OIeXWXn0UMTPe8JL0Cx"
         }
       ],
-      "duration_ms": 146240,
-      "name": "Mosquito",
-      "url": "https://open.spotify.com/track/0LzidBf7cUsnZnG34OUPSF"
+      "duration_ms": 186666,
+      "name": "2AM",
+      "url": "https://open.spotify.com/track/0UnfBaTe7SjstnF5pZ488T"
     },
     {
       "added_at": "2024-01-03 12:46:04",
@@ -271,42 +283,38 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
-        "name": "Body Moving (Riordan Remix)",
-        "url": "https://open.spotify.com/album/6VN62DL9qSYG53VGXfohOn"
+        "name": "Abracadabra (feat. Craig David)",
+        "url": "https://open.spotify.com/album/25HU17CmFd3aQkRHEU4Ek5"
       },
       "artists": [
         {
-          "name": "Eliza Rose",
-          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
+          "name": "Wes Nelson",
+          "url": "https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq"
         },
         {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Riordan",
-          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
         }
       ],
-      "duration_ms": 186250,
-      "name": "Body Moving - Riordan Remix",
-      "url": "https://open.spotify.com/track/1j1gU6llk8Nqv3Kga9WBi7"
+      "duration_ms": 155076,
+      "name": "Abracadabra (Feat. Craig David)",
+      "url": "https://open.spotify.com/track/19quyzgfIQzGM8K71UgMhp"
     },
     {
-      "added_at": "2024-01-26 00:01:00",
+      "added_at": "2024-01-03 12:46:04",
       "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/4UPgkPHybekr5XezWaG8fE"
+        "name": "Little Things",
+        "url": "https://open.spotify.com/album/4YBGGd7KYurLSbc6XKDnSO"
       },
       "artists": [
         {
-          "name": "Sammy Virji",
-          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
         }
       ],
-      "duration_ms": 346030,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/3gVks4tc3TzqQYdDCPj7f2"
+      "duration_ms": 204600,
+      "name": "Little Things",
+      "url": "https://open.spotify.com/track/1javLzBHyEKJJrG3s6FHaM"
     },
     {
       "added_at": "2024-01-03 12:46:04",
@@ -345,20 +353,20 @@
       "url": "https://open.spotify.com/track/6yx9SdXE5O69efsGQqNiLp"
     },
     {
-      "added_at": "2024-01-26 00:01:00",
+      "added_at": "2024-01-03 12:46:04",
       "album": {
-        "name": "Mr. Sandman",
-        "url": "https://open.spotify.com/album/5DGMidRNgao4B4iJNW6gAb"
+        "name": "Mosquito",
+        "url": "https://open.spotify.com/album/4D4XpwlWhUNp8dOdYmuNIB"
       },
       "artists": [
         {
-          "name": "Oppidan",
-          "url": "https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK"
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
         }
       ],
-      "duration_ms": 145454,
-      "name": "Mr. Sandman",
-      "url": "https://open.spotify.com/track/1Y2eoRAhwsjCKcdNnrZOzV"
+      "duration_ms": 146240,
+      "name": "Mosquito",
+      "url": "https://open.spotify.com/track/0LzidBf7cUsnZnG34OUPSF"
     },
     {
       "added_at": "2024-01-03 12:46:04",
@@ -375,6 +383,54 @@
       "duration_ms": 208000,
       "name": "Show Me",
       "url": "https://open.spotify.com/track/0fOYe1mfPRzQ64zvMcqA59"
+    },
+    {
+      "added_at": "2024-01-26 00:01:00",
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/4UPgkPHybekr5XezWaG8fE"
+      },
+      "artists": [
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        }
+      ],
+      "duration_ms": 346030,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/3gVks4tc3TzqQYdDCPj7f2"
+    },
+    {
+      "added_at": "2024-01-26 00:01:00",
+      "album": {
+        "name": "Mr. Sandman",
+        "url": "https://open.spotify.com/album/5DGMidRNgao4B4iJNW6gAb"
+      },
+      "artists": [
+        {
+          "name": "Oppidan",
+          "url": "https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK"
+        }
+      ],
+      "duration_ms": 145454,
+      "name": "Mr. Sandman",
+      "url": "https://open.spotify.com/track/1Y2eoRAhwsjCKcdNnrZOzV"
+    },
+    {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
+        "name": "Nothing Without Your Love",
+        "url": "https://open.spotify.com/album/421tY7OWB0RLpSCLe5Xdaq"
+      },
+      "artists": [
+        {
+          "name": "Sempra",
+          "url": "https://open.spotify.com/artist/76YrQ1DtiiJ5MFbIIWLOSq"
+        }
+      ],
+      "duration_ms": 244680,
+      "name": "Lean On U",
+      "url": "https://open.spotify.com/track/26L3AY8of95gl70zbMS47C"
     },
     {
       "added_at": "2024-01-03 12:46:04",
@@ -501,6 +557,22 @@
       "url": "https://open.spotify.com/track/5NUCLEAAQKkP3OoCt19jrK"
     },
     {
+      "added_at": "2024-01-03 12:46:04",
+      "album": {
+        "name": "You & I",
+        "url": "https://open.spotify.com/album/2bPXp4FEWCcN6WB68tY3xm"
+      },
+      "artists": [
+        {
+          "name": "Oppidan",
+          "url": "https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "You & I",
+      "url": "https://open.spotify.com/track/0EeArvKhN89pVWhVvWZmBv"
+    },
+    {
       "added_at": "2024-02-16 00:01:00",
       "album": {
         "name": "One Sixty",
@@ -539,22 +611,6 @@
       "duration_ms": 192000,
       "name": "Feel It",
       "url": "https://open.spotify.com/track/00B3cITDbSBY9GeKZvxw9M"
-    },
-    {
-      "added_at": "2024-01-03 12:46:04",
-      "album": {
-        "name": "You & I",
-        "url": "https://open.spotify.com/album/2bPXp4FEWCcN6WB68tY3xm"
-      },
-      "artists": [
-        {
-          "name": "Oppidan",
-          "url": "https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "You & I",
-      "url": "https://open.spotify.com/track/0EeArvKhN89pVWhVvWZmBv"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -1055,66 +1111,6 @@
       "duration_ms": 214545,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/7EtMCF0mdAksJoPalQxhE8"
-    },
-    {
-      "added_at": "2024-01-03 12:46:04",
-      "album": {
-        "name": "Show Me",
-        "url": "https://open.spotify.com/album/61AStQYO30jVau93JxRtXP"
-      },
-      "artists": [
-        {
-          "name": "Douvelle19",
-          "url": "https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH"
-        }
-      ],
-      "duration_ms": 269000,
-      "name": "Show Me",
-      "url": "https://open.spotify.com/track/5S8igEQLgDY0lMScgbyeHW"
-    },
-    {
-      "added_at": "2024-01-03 12:46:04",
-      "album": {
-        "name": "Closer (Higgo Remix)",
-        "url": "https://open.spotify.com/album/5RlEEIkT3FV1DcpR9iV9nb"
-      },
-      "artists": [
-        {
-          "name": "Jaden Thompson",
-          "url": "https://open.spotify.com/artist/0mdzsyApmam6OqNr4Z3vKQ"
-        },
-        {
-          "name": "Higgo",
-          "url": "https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64"
-        }
-      ],
-      "duration_ms": 135409,
-      "name": "Closer (Higgo Remix)",
-      "url": "https://open.spotify.com/track/46JCxxgxODSbbMvz8eR8sF"
-    },
-    {
-      "added_at": "2024-01-03 12:46:04",
-      "album": {
-        "name": "Cesco & Chums",
-        "url": "https://open.spotify.com/album/0j2KirysBHVgamExBrmjKL"
-      },
-      "artists": [
-        {
-          "name": "Cesco",
-          "url": "https://open.spotify.com/artist/7Gg3X2b5ljrhVGXDAwcrq3"
-        },
-        {
-          "name": "BAKEY",
-          "url": "https://open.spotify.com/artist/49du30vgnQZT13tyjnrspT"
-        },
-        {
-          "name": "Sam Binga",
-          "url": "https://open.spotify.com/artist/2oyU4eToyQkxAFjkB3blsi"
-        }
-      ],
-      "duration_ms": 214269,
-      "name": "Lights In The Crowd",
-      "url": "https://open.spotify.com/track/4CycOEzwvbrYnNq44aGBrc"
     }
   ],
   "unique_name": "New UK Garage",

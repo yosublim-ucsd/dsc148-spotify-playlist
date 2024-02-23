@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 
 > The best hardstyle remixes of songs you know!
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,780 likes - 70 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,935 likes - 70 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 | 69 | [Bitter Sweet Symphony \(Hardstyle Mix\)](https://open.spotify.com/track/675uQstqHDJVNwUpMHMY4S) | [Jay Reeve](https://open.spotify.com/artist/5AVdeI8lS5HS9VGV8AUyS4), [Elyn](https://open.spotify.com/artist/1Ii4I4a8WGgYqMxEOLoMAl) | [Bitter Sweet Symphony \(Hardstyle Mix\)](https://open.spotify.com/album/7D51Z16qsQhOVhfEWubBqF) | 3:00 |
 | 70 | [Lay Low \(Radical Redemption Remix\)](https://open.spotify.com/track/2hY7CobV1syoLH1T4jp10O) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Radical Redemption](https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC) | [Lay Low \(Radical Redemption Remix\)](https://open.spotify.com/album/6towXPOqUs32hg4Aosmhvp) | 2:56 |
 
-Snapshot ID: `MCxhNmJhM2E1ZWE1NWI3Y2VkYTRmMDBmYzhjMDdkOGMyNjhhOTMzY2Rk`
+Snapshot ID: `MCwyYTNiZDcwMDdkMzkxMjIzYjE3ZjNkMTM4YzRlNWMzM2I0Zjg4OWYz`

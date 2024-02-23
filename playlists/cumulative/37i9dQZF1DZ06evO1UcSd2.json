@@ -958,7 +958,7 @@
       ],
       "date_added": "2024-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 206026,
       "name": "En La Capi Esta El Respaldo",
       "url": "https://open.spotify.com/track/2ItzTIdBXGbJ5SpCbOXvQq"
@@ -1396,6 +1396,28 @@
       "duration_ms": 175997,
       "name": "Lo Paseado Qui\u00e9n Me Lo Quita",
       "url": "https://open.spotify.com/track/1XRkSe7d9DGIABTi4gpna9"
+    },
+    {
+      "album": {
+        "name": "Bien Positivo",
+        "url": "https://open.spotify.com/album/30BSsKftPkHrOGfso3pvcv"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Chicho Castro y Sus Alia2",
+          "url": "https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171385,
+      "name": "Los Panteras Del 08",
+      "url": "https://open.spotify.com/track/1EAfSKTIVlFOLHpbXIq5pt"
     },
     {
       "album": {

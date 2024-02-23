@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 
 > Bringing you the hottest collaborations between Afro & Latin artists\. Cover: Rawayana, Mr Eazi & Micro TDH
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,638 likes - 70 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,643 likes - 70 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 69 | [Se Fue](https://open.spotify.com/track/00FmMXnkYZ0ymlNcacdB6O) | [Alejandro Santamaria](https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf) | [Se Fue](https://open.spotify.com/album/4j2DaQTBXSER398hI49Fkj) | 3:35 |
 | 70 | [Cheza Kama Wewe](https://open.spotify.com/track/4NAhcKp6YtMDRAMH4UeUE5) | [Trio Mio](https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX), [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u), [Exray](https://open.spotify.com/artist/0jEAvweUh4N7mXYMDkRTQo), [Nellythegoon](https://open.spotify.com/artist/33ypECIxCzdSYfzysHmrH7) | [Son of the City](https://open.spotify.com/album/7sQ6TFEEb8N88lvV6NE8OS) | 5:34 |
 
-Snapshot ID: `MCw1NjA1YWM5YjU1ZjBhZWViOTk1ZjUyNGRiM2ZmMWI2ZWU5MTNjZDQ0`
+Snapshot ID: `MCwwMjBkMmQzMDUwNGFlZmNjMmZhYmY2M2JkMjEyYTU2NTQ0NWI4YTE4`

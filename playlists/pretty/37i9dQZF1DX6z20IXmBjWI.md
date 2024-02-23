@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6z20IXmBjWI.md) - [plain]
 
 > Acoustic and roots music gems\. Cover: Trousdale
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,058,634 likes - 160 songs - 10 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,058,594 likes - 160 songs - 10 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6z20IXmBjWI.md) - [plain]
 | 159 | [Right Down The Line](https://open.spotify.com/track/2QkrXvBAfhE4QAr9Y5kOvh) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [NUDES](https://open.spotify.com/album/3y4k3cJW83i3KDSDJnPOX8) | 3:55 |
 | 160 | [The Solitude](https://open.spotify.com/track/4PHkFP1O9ukoB7RMudN4PM) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [Waysides](https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri) | 3:46 |
 
-Snapshot ID: `MCw4Mjg5NjFhYTE5ODMwZWU0MmVkYWVkYjA0MjYyNTdjZWViZDQ2YzI0`
+Snapshot ID: `MCw0YzYxY2NiN2M3YzI1NWQwOGY0YzM4MzllZmIwOTgzMGM0OWMyZDJj`

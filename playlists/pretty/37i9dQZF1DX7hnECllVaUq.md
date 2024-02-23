@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hnECllVaUq.md) - [plain]
 
 > The biggest hits from country artists around the globe\. Cover: Riaan Benadé
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,333 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,449 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hnECllVaUq.md) - [plain]
 | 99 | [Outta Yours](https://open.spotify.com/track/5jS6YjfCQVeu6vFtWoWiaU) | [Steven Lee Olsen](https://open.spotify.com/artist/5MW08rvyz59mdceF4urxXO) | [Outta Yours](https://open.spotify.com/album/3Vqv2NAL8cwafr0YvVLdqI) | 2:58 |
 | 100 | [I Hate This](https://open.spotify.com/track/6c90n39x5VKMsxOSTEeNRv) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Love,Heartbreak, & Everything in Between](https://open.spotify.com/album/478FbS6cYoaEYreO0H4YOx) | 3:08 |
 
-Snapshot ID: `MCw0ZDE1ZTIzNzE3NzNhMDQzYTZmYTEwYWY4MGQwYTRkNDBiZjk5OTYx`
+Snapshot ID: `MCw4M2RkN2MxMWM4MGY5OTMyZjkwNGFhM2M0ZGZiNWExODQxZDE1ZTkz`

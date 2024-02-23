@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FdIcKzUp2r.md) - [plain]
 
 > Work or rest with these gems from the 80s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,868 likes - 80 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,393 likes - 80 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FdIcKzUp2r.md) - [plain]
 | 79 | [Requiem Again](https://open.spotify.com/track/673do07xdvVTt65SIwRtc3) | [The Durutti Column](https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe) | [Vini Reilly](https://open.spotify.com/album/4nKBqIL9jq9TCTRYoZAykx) | 4:01 |
 | 80 | [Almost Blue](https://open.spotify.com/track/4xRnzruHzWObdNdjAOW4vL) | [Elvis Costello & The Attractions](https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH) | [Imperial Bedroom](https://open.spotify.com/album/1pK8MLyjgvt8pNVkQCBnSg) | 2:47 |
 
-Snapshot ID: `MCw0NWFlMDUwYTljYmU0YjY3ZmYxNWNhMThkYWEzOTAyZmRkMzlhM2Iw`
+Snapshot ID: `MCwzYzRlNTZmOTEwNjczZmY1NjliNGYxN2U0ZmE0ODE0NDM5M2QzYmJj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkHEX2YHpDV.md) - [plain]
 
 > pop punk, emo, post\-hardcore, alt, & more\. Cover: Belmont
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,568 likes - 150 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,607 likes - 150 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkHEX2YHpDV.md) - [plain]
 | 149 | [Permanent Rebellion](https://open.spotify.com/track/2Ot85xcajHDvU7cD2BdR2M) | [L.S\. Dunes](https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG) | [Permanent Rebellion](https://open.spotify.com/album/2LbVe89xE3nidK1eYLwrfH) | 3:13 |
 | 150 | [Thank You, New Jersey](https://open.spotify.com/track/3dl2M4CJENgzI6IG2dNxLL) | [Origami Angel](https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY) | [Thank You, New Jersey](https://open.spotify.com/album/197wjUARH2gam9EIaPnyfC) | 2:39 |
 
-Snapshot ID: `MCw3ZTdkMjIxYWIzMDdmMGE1N2JkYmE0OGRiYjNmNTg1OGIzNWNiNjBl`
+Snapshot ID: `MCwyZmFiYzM4ZTgwM2ZhNjEwOGVjNTMwYTJjZDM2Njg0MmI5OTk3YTJj`

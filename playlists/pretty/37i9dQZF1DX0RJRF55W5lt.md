@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 
 > Classic anthems from a classic era\. Cover: Wookie
 
-[Spotify](https://open.spotify.com/user/spotify) - 518,709 likes - 75 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 518,841 likes - 75 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 | 74 | [Masquerade \- MJ Cole Vocal](https://open.spotify.com/track/6Y0rukXFNvg7b0EqlxEpSZ) | [Gerideau](https://open.spotify.com/artist/3R2svMuMZlY9RBETwlkuEJ), [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl) | [Masquerade](https://open.spotify.com/album/69AdLMny9By0erdS3ZJBbI) | 6:29 |
 | 75 | [Space Rider \- MJ Cole Vocal Mix](https://open.spotify.com/track/17FKIehIe3xjlwOxlC1kWW) | [Shaun Escoffery](https://open.spotify.com/artist/4QQV60vtp1G3XReD6dWgNz), [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl) | [Oyster Music \- The MJ Cole Mixes](https://open.spotify.com/album/0l8mKOWMYe3r0vV5bQo9IY) | 5:15 |
 
-Snapshot ID: `MCxhMzYwZjJiYWE1MjhjOTgzMzZkMmZjOWUyNDFhMzc4ZGY4Y2IzNWEy`
+Snapshot ID: `MCw2ZGJhOWE2NjljN2JhNTUxYTQyNjA5N2MzYTM1OGZjMDEzNmZkMzRl`

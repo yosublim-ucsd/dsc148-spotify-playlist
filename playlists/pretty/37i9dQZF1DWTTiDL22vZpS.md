@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTiDL22vZpS.md) - [plain]
 
 > Funk\-inspired beats by latinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,127 likes - 65 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,157 likes - 65 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTiDL22vZpS.md) - [plain]
 | 64 | [Fugaz](https://open.spotify.com/track/6xyyEGR8dSPYwxFvRzRt3A) | [Marte](https://open.spotify.com/artist/3O2mT8DFtMzB6ptxFXdpHm), [Costa de Ámbar](https://open.spotify.com/artist/4K41ddEQfjQ0XGZPA6ErMg) | [Fugaz](https://open.spotify.com/album/1Ah9gV6yPpVHjq3VdxwLej) | 2:58 |
 | 65 | [Debut](https://open.spotify.com/track/34xR0p88Tn0osfkWtLC6zi) | [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [Debut](https://open.spotify.com/album/5pSvRHQJbnH4keSrZ3PuZe) | 2:29 |
 
-Snapshot ID: `MCxkN2JhOGRiZjhlMmMxYTY1MDgxNWVjOGIwNzk4MTFlNjQwMjkzNDQ3`
+Snapshot ID: `MCw5YWJkYmNjZjU4NTMxMzZlMDcxOGViOTY5NjljMzYyYjhlN2U3ZmM3`

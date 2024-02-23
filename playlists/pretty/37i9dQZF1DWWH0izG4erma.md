@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 
 > Country Music that rocks\. Cover: Warren Zeiders
 
-[Spotify](https://open.spotify.com/user/spotify) - 583,873 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 584,082 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 | 99 | [I Only Date Cowboys](https://open.spotify.com/track/0Jq7igSKyTZxkvLoqr0bsX) | [Kylie Morgan](https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV) | [I Only Date Cowboys](https://open.spotify.com/album/6haivFChfJxUDTm0DytCpI) | 2:56 |
 | 100 | [Looking Back Now](https://open.spotify.com/track/37imLguIvWwDJNT6RGO2Qi) | [Cody Hibbard](https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5) | [Looking Back Now](https://open.spotify.com/album/47MPMs9cQemgI2ek85Rbqd) | 3:29 |
 
-Snapshot ID: `MCxiNzFkYzE0OTlkMTBmYTJkMDM0OWYxMTBjODFhYjdlYjZhOTZkZGUw`
+Snapshot ID: `MCxlMTlkOTc0MTFiNmFiYzg3MjBiNmJiMGZhZDgyODI0Y2I1Y2EwNGI5`

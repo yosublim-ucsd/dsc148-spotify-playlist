@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9gC038Looy.md) - [plain]
 
 > Para la esterilla o el sofá, no te juzgaremos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,134 likes - 85 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,207 likes - 85 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9gC038Looy.md) - [plain]
 | 84 | [Goosebumps \- Remix](https://open.spotify.com/track/5uEYRdEIh9Bo4fpjDd4Na9) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [HVME](https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9) | [Goosebumps \(Remix\)](https://open.spotify.com/album/3SdFuYwyWoq7kuaHdTDcyD) | 2:42 |
 | 85 | [DESPECHÁ](https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [DESPECHÁ](https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv) | 2:37 |
 
-Snapshot ID: `MCw2MTI1OTJlNDU5N2FhYmFjMTAwZGQwZjRmMmE1NWFhYThiN2NiY2Qx`
+Snapshot ID: `MCw4NjhkYzg1MGQwNmZmODdkNTBmZDdjODRkN2E4ZDVmNmFmZWY3NzYx`

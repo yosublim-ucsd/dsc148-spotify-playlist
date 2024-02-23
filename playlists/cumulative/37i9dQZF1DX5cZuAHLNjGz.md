@@ -4,7 +4,7 @@
 
 > Ultimate 101 Punjabi Hits with Shubh
 
-310 songs - 16 hr 3 min
+311 songs - 16 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Ayee](https://open.spotify.com/track/3s6bB02odIXvM3OpnqgzNN) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS), [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Ilam](https://open.spotify.com/artist/3BmI2nuXJ2sCiVa3miR7PT) | [Ayee](https://open.spotify.com/album/0kk2Nm0O28gQLXVhaznomg) | 2:26 | 2023-09-20 |  |
 | [Baapu](https://open.spotify.com/track/5fGH7wUp2unAd9UxbA4eGq) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Snitches Get Stitches](https://open.spotify.com/album/4lGKsta6BzDVgzKfcSCC7E) | 6:06 | 2022-06-20 | 2022-08-18 |
 | [Back of Car](https://open.spotify.com/track/12VUzFFZktld3iDJjjD8ao) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [San\-B](https://open.spotify.com/artist/5F5Gjm7dSLUY66aTEUR1pD) | [Limitless](https://open.spotify.com/album/3pf6uLZdrxvd7W75J443Dw) | 2:48 | 2023-10-25 | 2023-12-13 |
-| [Bakamaal](https://open.spotify.com/track/0dcwP39qbjJu3eBKb0pTcm) | [Jassie Gill](https://open.spotify.com/artist/3xZnxcyeC0vVaJvEA9VqrA), [Geet](https://open.spotify.com/artist/3jWuXbAR2GuuGrY0WgDA7W), [Gill Machhrai](https://open.spotify.com/artist/4r4r2gGaA74pul0n6FiRsE) | [Jadugarriya](https://open.spotify.com/album/5b09lfsnRBglWbzFFHVwuO) | 2:27 | 2024-02-06 |  |
+| [Bakamaal](https://open.spotify.com/track/0dcwP39qbjJu3eBKb0pTcm) | [Jassie Gill](https://open.spotify.com/artist/3xZnxcyeC0vVaJvEA9VqrA), [Geet](https://open.spotify.com/artist/3jWuXbAR2GuuGrY0WgDA7W), [Gill Machhrai](https://open.spotify.com/artist/4r4r2gGaA74pul0n6FiRsE) | [Jadugarriya](https://open.spotify.com/album/5b09lfsnRBglWbzFFHVwuO) | 2:27 | 2024-02-06 | 2024-02-23 |
 | [Baller](https://open.spotify.com/track/42TMa2hgBNjte4uV7jNCnQ) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Baller](https://open.spotify.com/album/44aCFqUbG06fL58kqpMp8p) | 2:28 | 2022-09-16 |  |
 | [Barood Wargi](https://open.spotify.com/track/5BWIrdXMuMewFbyXBntyjA) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9) | [Barood Wargi](https://open.spotify.com/album/3mELIQNKJF2jSZmPL086Jm) | 3:51 | 2022-05-29 | 2022-08-20 |
 | [Bewafa](https://open.spotify.com/track/4FcknXDJ8yW2QYUl0cm6uJ) | [Imran Khan](https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js) | [Bewafa](https://open.spotify.com/album/31EKix5WSmQMNWLj1Je8dg) | 3:44 | 2022-12-10 | 2024-02-20 |
@@ -200,6 +200,7 @@
 | [Note](https://open.spotify.com/track/0uwbqLpDeFQLnBTvDsMl8C) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m) | [Let's Go](https://open.spotify.com/album/53ljSpMqlS6b8p5dZfL9Pf) | 3:07 | 2023-11-14 | 2024-01-26 |
 | [Note](https://open.spotify.com/track/1QwnrBy9aC3Ur2HsVrxI0g) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Mandeep Maavi](https://open.spotify.com/artist/0nMjrfJdkdeEdNHDU72Rn1) | [Note](https://open.spotify.com/album/2in50Sfhg7xA6ZnARBnr9E) | 3:07 | 2023-10-25 | 2023-11-17 |
 | [Obsessed](https://open.spotify.com/track/6Z4rRhYZVQsYKmrxD40tru) | [Riar Saab](https://open.spotify.com/artist/34gAaWeYZoRER7MY3KBy1Q), [Abhijay Sharma](https://open.spotify.com/artist/3x1jBMHHrDUQbtRrvV78h2) | [Obsessed](https://open.spotify.com/album/3LyafXRRJVEfcjTMr1N8Mu) | 3:10 | 2023-04-30 |  |
+| [Off Roading](https://open.spotify.com/track/7ACiSZtIVMpPMNeyQcxm5Y) | [Khan Bhaini](https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N) | [Off Roading](https://open.spotify.com/album/3kAljOyKsULOr7PUTRcBVv) | 3:21 | 2024-02-22 |  |
 | [OG](https://open.spotify.com/track/0ZJOEx7Sb2mzBiZHPhlDy6) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [No Lookin' Back](https://open.spotify.com/album/2z1B8rt2WK0K92x9XbCV24) | 2:53 | 2023-06-23 | 2023-09-30 |
 | [OG](https://open.spotify.com/track/3dPlLOjFnKpGpakkhPEIgF) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [No Lookin' Back](https://open.spotify.com/album/3TvDVoxi5iIi1oqCPMt4zp) | 2:53 | 2022-08-19 | 2023-07-06 |
 | [Old Skool](https://open.spotify.com/track/4V9rQZOGILc4YfBnCDXgTz) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Old Skool](https://open.spotify.com/album/357wf3qJ5AukE3IfN4e1Am) | 4:13 | 2022-05-29 | 2023-08-25 |

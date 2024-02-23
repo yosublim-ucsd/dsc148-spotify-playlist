@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 
 > Listen to the recent hits of Christian Rock\.  Cover:  <a href="spotify:artist:09LCTrVGnMsGbxexUFJoap">Lacey Sturm</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,203 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,259 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 | 99 | [The Antihero](https://open.spotify.com/track/2hNr3v1ldMAt0iUqSTpXUw) | [Nathan Wagner](https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV) | [The Antihero](https://open.spotify.com/album/0EANG8Al2ITe4WUKdA76aW) | 4:08 |
 | 100 | [In Defiance](https://open.spotify.com/track/17VvT0RZ6HcRkpMbw1xgn3) | [Matt Sassano](https://open.spotify.com/artist/57qdENESO67xX6tvTXTLtk) | [In Defiance](https://open.spotify.com/album/10V2CzomOo7tBR27HsKon5) | 3:26 |
 
-Snapshot ID: `MCw5NWI2MjU1ZDVhYjcyMTM5ZTNkYTIxZjgxNDRhNTM5OGMxNzVhNGM1`
+Snapshot ID: `MCwyZWM3NjBiYmFmMDUxM2EwZDU3ZTAwZDMxMjA1NjFjNzFhOTgxZGJl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcHG4x5MYzpJ.md) - [plain]
 
 > Mientras no dejes de cantar, la playlist no deja de sonar\. Peso Pluma y Christian Nodal en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,993 likes - 125 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,037 likes - 125 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcHG4x5MYzpJ.md) - [plain]
 | 124 | [Se Acabo \- En Vivo](https://open.spotify.com/track/0lyZyn18awzOJuVM7qzCmd) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Se Acabo \(En Vivo\)](https://open.spotify.com/album/24fixrB7tstEtjF9NlbnIR) | 3:50 |
 | 125 | [Tan Bella y Tan Presumida \- En Vivo](https://open.spotify.com/track/0wSPEEU9RvF3VZZlpgdGoE) | [Secretto](https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ) | [Tan Bella y Tan Presumida \(En Vivo\)](https://open.spotify.com/album/0oLNMVzG71nzpxPzDVhnkn) | 3:01 |
 
-Snapshot ID: `MCwwODYwYzkwMGZiNjQ3M2U4YmQ3MGVhMWU1ZmExZWFlMjEzZmE4N2Zi`
+Snapshot ID: `MCwzZjcwODQ3YzFiMzYxYThjODRhNTYwYTE1NWFjMmJjMGYzODhlMTZi`

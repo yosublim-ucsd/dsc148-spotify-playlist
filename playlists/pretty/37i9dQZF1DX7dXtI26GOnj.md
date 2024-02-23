@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dXtI26GOnj.md) - [plain]
 
 > Todo o calor latino está aqui! 🔥  foto: Kali Uchis, Peso Pluma
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,972 likes - 90 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,076 likes - 90 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dXtI26GOnj.md) - [plain]
 | 89 | [El Que Espera](https://open.spotify.com/track/2oNSHvGBGZIrZouRAA1eaX) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [El Que Espera](https://open.spotify.com/album/1iouSXg5RihFIXRvZFJyTa) | 2:50 |
 | 90 | [La Romana](https://open.spotify.com/track/6SwuM3zEorFitaGONgDFbb) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [La Romana](https://open.spotify.com/album/2zn0zFvTLqWtrFM4qIZhBd) | 2:35 |
 
-Snapshot ID: `MCw4Y2RkN2Y5NjE1ZWI4ZmNkYmM1NzZlZmE3MzE5NzJmNmMzMzVlNGQz`
+Snapshot ID: `MCwwMDY3ZmQwMTZhMjZlZDRlNjhlOTYxZWE1ZjEyYzc4MzJkNDE4NzY4`

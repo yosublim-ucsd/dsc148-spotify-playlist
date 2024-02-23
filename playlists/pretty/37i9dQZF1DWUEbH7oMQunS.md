@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 
 > Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,660 likes - 100 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,697 likes - 100 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 | 99 | [Even Here Love Comes \- Acoustic](https://open.spotify.com/track/6BIVOCaJMcS4okKENbf7pL) | [Todd McVicker](https://open.spotify.com/artist/1fkiYD0YKDH1DgISsuh1Bo), [Teresa Bitoy](https://open.spotify.com/artist/7gFgT2PK2y409Y3Im8B8g2) | [Even Here Love Comes](https://open.spotify.com/album/2MVNO7ts5MUQGz3eYjNXUc) | 4:27 |
 | 100 | [How To Love](https://open.spotify.com/track/1IC9zHtLv9Kmsqnsj4RLsB) | [Levi Mitchell](https://open.spotify.com/artist/2lm3ISdfvGLIqhp9roRcdr) | [How To Love](https://open.spotify.com/album/5GimHqufYnL4RwURn1kiMB) | 2:00 |
 
-Snapshot ID: `MCxlZTI3NjA3NTAwMjM1NDZkN2Y2YTA5Y2FkNTc5ZjVjOWY3NTAyNzUx`
+Snapshot ID: `MCwzYTcwZDk0NTdiNmRkMDNhZTcwMDNjZjRhMmY0Nzk0YzNmN2IwNWY4`

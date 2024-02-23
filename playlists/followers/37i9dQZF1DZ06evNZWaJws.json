@@ -1,5 +1,5 @@
 {
-  "2024-02-22": 292458,
+  "2024-02-23": 292541,
   "date_first_scraped": "2024-01-30",
   "description": "This is Los Tucanes De Tijuana. The essential tracks, all in one playlist.",
   "name": "This Is Los Tucanes De Tijuana",
@@ -313,6 +313,24 @@
       "duration_ms": 218733,
       "name": "El Jefe De La Sierra",
       "url": "https://open.spotify.com/track/6UuXzEW2GBwcJefoXTYztu"
+    },
+    {
+      "album": {
+        "name": "14 Tucanazos Bien Pesados",
+        "url": "https://open.spotify.com/album/5poff6oDNapTa60LAq46O0"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141871,
+      "name": "El Jefe X",
+      "url": "https://open.spotify.com/track/3Hz5spi5hUGARyqggjkz2L"
     },
     {
       "album": {
@@ -829,7 +847,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 207893,
       "name": "Se Desgran\u00f3 La Mazorca",
       "url": "https://open.spotify.com/track/0sjpjZQYvnssMQ34lUpfpY"

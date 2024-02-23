@@ -2,9 +2,9 @@
 
 ### [Top Hits NL](https://open.spotify.com/playlist/37i9dQZF1DWSBi5svWQ9Nk)
 
-> De 50 populairste hits van Nederland\. Cover: Jonna Fraser
+> De 50 populairste hits van Nederland\. Cover: Beyoncé
 
-237 songs - 11 hr 40 min
+240 songs - 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [Is It Love](https://open.spotify.com/track/5JEzgajKcC4eIQfRu3cZk7) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Is It Love](https://open.spotify.com/album/6fYOQSJpXKdVBkD09Kg2lf) | 2:23 | 2023-11-16 |  |
 | [Jungle](https://open.spotify.com/track/0OvO2X2Q3i98dc5RcgEN3x) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [Jungle](https://open.spotify.com/album/6YFH6hee6fTJjlRddtl8gN) | 2:55 | 2023-10-05 |  |
 | [Karma](https://open.spotify.com/track/7KokYm8cMIXCsGVmUvKtqf) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:24 | 2023-07-13 | 2023-09-08 |
-| [Kwijt](https://open.spotify.com/track/6P3cbZ06AN6B5vcF1cyOz1) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Noodzakelijk Verdriet](https://open.spotify.com/album/2K7gv2r8UMcEbp88ytO12o) | 2:51 | 2024-01-18 |  |
+| [Kwijt](https://open.spotify.com/track/6P3cbZ06AN6B5vcF1cyOz1) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Noodzakelijk Verdriet](https://open.spotify.com/album/2K7gv2r8UMcEbp88ytO12o) | 2:51 | 2024-01-18 | 2024-02-23 |
 | [Ladada \(Mon Dernier Mot\)](https://open.spotify.com/track/0LVjBdjZvJykxed42ExTLf) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Ladada \(Mon Dernier Mot\)](https://open.spotify.com/album/0MNpgjf367wpgf742ZkHGr) | 2:44 | 2023-02-23 | 2023-05-19 |
 | [Lay Low](https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Lay Low](https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn) | 2:33 | 2023-02-23 | 2023-09-08 |
 | [Layla](https://open.spotify.com/track/18tV3JqwwB5Acsa8vP12lp) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Layla](https://open.spotify.com/album/1ba0iVHm6wU4hfVfb8fKhl) | 2:43 | 2023-04-06 | 2023-10-20 |
@@ -144,7 +144,7 @@
 | [Monster](https://open.spotify.com/track/6w67kek3AnRI83HMnDWxpB) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Monster](https://open.spotify.com/album/3m9wXZj0Je2axtnF0fXNYy) | 2:54 | 2023-11-16 | 2024-02-02 |
 | [Morgen Wordt Fantastisch](https://open.spotify.com/track/2UI9rmmINuXVWeOrprjWBy) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [Morgen Wordt Fantastisch](https://open.spotify.com/album/2gwvQ8E4bcZbua78zLrj61) | 2:38 | 2023-03-30 | 2023-05-19 |
 | [Murder On The Dancefloor](https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Read My Lips](https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG) | 3:50 | 2024-01-25 |  |
-| [Nickel For Goodbye](https://open.spotify.com/track/0mozpacigd082TTRqi5IZc) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [Nickel For Goodbye](https://open.spotify.com/album/4xROG3RcoNOVF8A7IycHEI) | 3:51 | 2023-10-05 |  |
+| [Nickel For Goodbye](https://open.spotify.com/track/0mozpacigd082TTRqi5IZc) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [Nickel For Goodbye](https://open.spotify.com/album/4xROG3RcoNOVF8A7IycHEI) | 3:51 | 2023-10-05 | 2024-02-23 |
 | [Niet Genoeg \(feat\. Idaly\)](https://open.spotify.com/track/5NNcU38EVLajKZbYydu6tR) | [CHO](https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R), [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM) | [Knock Knock 4](https://open.spotify.com/album/3apJGrdwV3LmHRoLvXSn0f) | 2:27 | 2023-11-16 |  |
 | [Noodgeval](https://open.spotify.com/track/2LcmbuYX7tyR4DWy3b273L) | [Goldband](https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p) | [Betaalbare Romantiek](https://open.spotify.com/album/2z44b4hwadRlEaNm2SutKO) | 3:34 | 2023-02-23 | 2023-04-14 |
 | [Nooit Meer Regen](https://open.spotify.com/track/5vj6nqh3LGX4lrpGOkHFU3) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Nooit Meer Regen](https://open.spotify.com/album/3XcPhaReL0pIPbdgGdL7gj) | 3:20 | 2023-05-25 | 2023-09-08 |
@@ -194,7 +194,9 @@
 | [Stemgeluid](https://open.spotify.com/track/1HFFfvXM13DA5hYt6SjhZj) | [Vlins](https://open.spotify.com/artist/3qV1LDx1ZWWJVdnLuVXAB5), [Laura Yasmin](https://open.spotify.com/artist/2ifdw2Mu8P2fCey9VLhuu2) | [Stemgeluid](https://open.spotify.com/album/31q5PSjc9lvGbg6glT3dsk) | 2:55 | 2023-02-23 | 2023-05-26 |
 | [Stick Season](https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:02 | 2023-11-09 |  |
 | [Stiekem](https://open.spotify.com/track/1ulgMAx95xb3N33SMklfG3) | [Maan](https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU), [Goldband](https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p) | [Stiekem ft\. Goldband](https://open.spotify.com/album/1ZzRJDpsGzs8wkkI0w6F8G) | 3:23 | 2023-02-23 | 2023-06-16 |
-| [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 | 2023-09-14 |  |
+| [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 | 2023-09-14 | 2024-02-23 |
+| [Stukje Van Mij](https://open.spotify.com/track/3k9LdosLHcyy4kE5J6pV2p) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Stukje Van Mij](https://open.spotify.com/album/0WuTTSyph8iJopqrYySkOL) | 3:25 | 2024-02-22 |  |
+| [Stumblin' In](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [Stumblin' In](https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc) | 3:33 | 2024-02-22 |  |
 | [Substitution \(feat\. Julian Perretta\)](https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Julian Perretta](https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG) | [Substitution \(feat\. Julian Perretta\)](https://open.spotify.com/album/4yZMAPI2NazKbPbystE6D7) | 3:01 | 2023-04-27 | 2023-10-27 |
 | [Tattoo](https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Tattoo](https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp) | 3:03 | 2023-03-24 | 2023-11-03 |
 | [Tell Me More](https://open.spotify.com/track/1jBN9OHMe8Fi39mazoXHvS) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [Tell Me More](https://open.spotify.com/album/2l7I3NR8pYbyDaTdwjYkMU) | 3:23 | 2023-05-25 | 2023-08-04 |
@@ -210,6 +212,7 @@
 | [THIS YEAR \(Blessings\)](https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [THIS YEAR \(Blessings\)](https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi) | 2:06 | 2023-05-04 | 2023-11-03 |
 | [Tonight](https://open.spotify.com/track/3v2dHPoXhfVVZ6HQBfjQOh) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [Tonight](https://open.spotify.com/album/6z8SVwxBPHJMEI6jv95m8X) | 4:32 | 2023-10-26 |  |
 | [Toute La Night](https://open.spotify.com/track/6BCYTbYrUoOMcPVHwtM8gY) | [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [Toute La Night](https://open.spotify.com/album/0SABD3TM0FJTEZ8qls4OzU) | 2:34 | 2023-05-11 | 2023-07-28 |
+| [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 | 2024-02-22 |  |
 | [Transmission \- Joris Voorn Remix](https://open.spotify.com/track/6ziqWx82jgkQYhyIALoraH) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey), [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Transmission \(Joris Voorn Remix\)](https://open.spotify.com/album/0140Vqwx9gWCGWQKTsQ8Cx) | 3:44 | 2023-03-02 | 2023-04-14 |
 | [Trust](https://open.spotify.com/track/309wfX4hjhywRlyknsgm8N) | [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1), [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [Trust](https://open.spotify.com/album/6tsNIdt0wilaoDitknpvC7) | 2:52 | 2023-05-04 | 2023-07-01 |
 | [Trust Me Mate](https://open.spotify.com/track/2wWX4sZGZNc7lA594ZOhP7) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Trust Me Mate](https://open.spotify.com/album/3EL23ULlG8ejjORjNZ4KXp) | 2:58 | 2023-12-26 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0UXHUfHinR.md) - [plain]
 
 > The most popular Jazz tracks in one playlist\. Cover: Herbie Hancock
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,861 likes - 500 songs - 1 day 15 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,943 likes - 500 songs - 1 day 15 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -509,4 +509,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0UXHUfHinR.md) - [plain]
 | 499 | [Tenor Madness \- Rudy Van Gelder Remaster](https://open.spotify.com/track/7f4svguucdFTOv6gOjOvhO) | [Sonny Rollins Quartet](https://open.spotify.com/artist/2mlKlEmxOO3vb6DqopDh4H), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Tenor Madness](https://open.spotify.com/album/7Jpvy75Z6twnPyADNBzeII) | 12:13 |
 | 500 | [Senor Mouse](https://open.spotify.com/track/6linlPbVWEecMEMfNcul1e) | [Gary Burton](https://open.spotify.com/artist/4iovNkf44dsELmo3E7XSKX), [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq) | [Crystal Silence](https://open.spotify.com/album/1bvhjpp45aO2i1d7kjbsjh) | 6:17 |
 
-Snapshot ID: `MCwyMDdmOTQxNDk4YzFhYjI3NThhZmZjMWMxMjIzYWQxNDg1YTMyYjdi`
+Snapshot ID: `MCxiMDI0NzMzMWFiZTZmOTM3MjM5ZDBiZDg4YWI2NmVhMGUyNjVhNjUz`

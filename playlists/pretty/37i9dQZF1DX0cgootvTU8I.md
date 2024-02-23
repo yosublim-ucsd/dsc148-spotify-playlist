@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cgootvTU8I.md) - [plain]
 
 > Jungle is still massive!
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,172 likes - 50 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,196 likes - 50 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cgootvTU8I.md) - [plain]
 | 49 | [1 Million Breaks](https://open.spotify.com/track/11CNiCDrhdElGjJB53Pxuv) | [AceMoMa](https://open.spotify.com/artist/5igyz9vWH6ban6NMfKeCir), [AceMo](https://open.spotify.com/artist/2NArTWfXN317Ok1Ale3xkX), [MoMa Ready](https://open.spotify.com/artist/5X6LaznpXYDwhSt5eirvRV) | [A Future](https://open.spotify.com/album/0DJkcrqqnMlkHt2ybbz7Qn) | 6:55 |
 | 50 | [Memories](https://open.spotify.com/track/4ODFIOLukNMkAP2SQTnuBj) | [Lugovskiy](https://open.spotify.com/artist/6wozPdzuBdOnDCoesMPIkT) | [Memories](https://open.spotify.com/album/3BwiqqO6tBI5j4LoqiHJy6) | 3:15 |
 
-Snapshot ID: `MCw2MGY2MDdlMmNiNmJiNzZkMWNmZmViNDBlNzBhYjg1ZmQwNTNlNzZl`
+Snapshot ID: `MCwwNzBkM2UxYWMzNGQwZDBjY2Y0ZTkxZTJhZjUxMzNhNjJmYTgwNDE1`

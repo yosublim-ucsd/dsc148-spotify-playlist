@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62MXOs1I1Al.md) - [plain]
 
 > A bit of then, a bit of now and everything in\-between\. Pop you can rely on\. Cover: Amy Shark
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,062 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,070 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62MXOs1I1Al.md) - [plain]
 | 99 | [Party In The U.S.A.](https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [The Time Of Our Lives](https://open.spotify.com/album/64aKkqxc3Ur2LYIKeS5osS) | 3:22 |
 | 100 | [Fantasy](https://open.spotify.com/track/6xkryXuiZU360Lngd4sx13) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:03 |
 
-Snapshot ID: `MCw4N2JmNmFlOTg0YTRmODUwMTdkODZiMTMwYjExZTVkNDljNzMyYzhm`
+Snapshot ID: `MCwyMmIxNTljMzBkMzRiYjJjNDUyMGMxOGFmNDJkMmEwODM0ZjI0NTMz`

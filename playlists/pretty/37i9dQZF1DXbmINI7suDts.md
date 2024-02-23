@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmINI7suDts.md) - [plain]
 
 > Get your spirits up and manage your mood any time of the day
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,520 likes - 60 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,531 likes - 60 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmINI7suDts.md) - [plain]
 | 59 | [High](https://open.spotify.com/track/6UUmEHfkUtMOskNYjlf9kx) | [Artin Pro](https://open.spotify.com/artist/2LMyimxq7nl4YIHsPd6Vou), [Ronie On Dis One](https://open.spotify.com/artist/1ffsHhD3TNYdqWhT0gZeZk) | [High](https://open.spotify.com/album/32JQNDjBDuMHbAQWNPUZRE) | 3:10 |
 | 60 | [4 U](https://open.spotify.com/track/1sZFtAyyx16gmGz2wnp7ve) | [Ceee](https://open.spotify.com/artist/2lLAmI8Hqtx7lvD9tDSFgT) | [4 U](https://open.spotify.com/album/1MgRMCqug76YT5f3dMp4vk) | 2:15 |
 
-Snapshot ID: `MCw4YmJjNWQ1ZGQzYmQ3MWM2NTNjOGM2MTU3YTU5MjgwNjFiYzgyMTE1`
+Snapshot ID: `MCwxY2JlYjgxNjhlYWM2ZTEyMGE0MmQ0NWMyOWZmZTIwNDRhYzExNTYy`

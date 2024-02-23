@@ -4,7 +4,7 @@
 
 > The brazilian disco funk classics! Cover: Robson Jorge, Lincoln Olivetti
 
-59 songs - 3 hr 41 min
+60 songs - 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,12 +33,13 @@
 | [Fale De Mim \- Mendel Edit](https://open.spotify.com/track/2ryRIpcDBPwWLoSO9ftOd5) | [Germannu](https://open.spotify.com/artist/4QyGx9SzqAy8khFKVgW9e2), [Mendel](https://open.spotify.com/artist/49yqlsZAJePjlhRcPUcNn6) | [Fale De Mim \(Mendel Edit\)](https://open.spotify.com/album/1ia2wFMYdfvxtMFFlXshnA) | 3:52 | 2023-01-20 |  |
 | [Funk\-se quem puder](https://open.spotify.com/track/0VOTHJFg4WNqO08vyu7usH) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Extra](https://open.spotify.com/album/0VNaBMs07ff7XSeSGATUgD) | 3:11 | 2023-01-20 |  |
 | [Funky Tamborim](https://open.spotify.com/track/4pcOMeLJhj0k8EhowA1K0d) | [Tania Maria](https://open.spotify.com/artist/26DN8VRVU1IRg0AFgUfMZO) | [The Colors Of Latin Jazz: Soul Sauce!](https://open.spotify.com/album/5cBIcSfpcGNMSRMdggfTMl) | 3:16 | 2023-01-20 |  |
-| [Galo\-Galã](https://open.spotify.com/track/2VKOQs0nCyUJye7HTjn1lY) | [Wilson Simonal](https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya) | [Galo\-Galã](https://open.spotify.com/album/73LqcG5XBBmqn5bHaOu7KY) | 3:00 | 2023-08-25 |  |
+| [Galo\-Galã](https://open.spotify.com/track/2VKOQs0nCyUJye7HTjn1lY) | [Wilson Simonal](https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya) | [Galo\-Galã](https://open.spotify.com/album/73LqcG5XBBmqn5bHaOu7KY) | 3:00 | 2023-08-25 | 2024-02-23 |
 | [Ginga](https://open.spotify.com/track/2KDF5lrsQNBN0a89SwkwDg) | [Robson Jorge](https://open.spotify.com/artist/59giNkLqQNTZs8MnlrkUhM), [Lincoln Olivetti](https://open.spotify.com/artist/2Pky4QuIXrFq6ZERGi4m1E) | [Robson Jorge e Lincoln Olivetti](https://open.spotify.com/album/23YsJH4l99KmP9OLXIwsaM) | 3:01 | 2023-01-20 | 2023-09-02 |
 | [Guarde Minha Voz](https://open.spotify.com/track/4KOQk1FhOOIfuHMZahP5Wa) | [Sandra De Sá](https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv) | [Vale Tudo](https://open.spotify.com/album/2tHPCtLKccEl3VYmQxq6Cp) | 3:11 | 2023-01-20 |  |
 | [Hora De União](https://open.spotify.com/track/5ruF1Y5naexriqC9dBxrtS) | [Lady Zu](https://open.spotify.com/artist/7lzdAzDICLFGLq6rFFy7ji), [Toto Mugabe](https://open.spotify.com/artist/0mV7Zy0WEGQyTSnfgxWI3H) | [Fêmea Brasileira](https://open.spotify.com/album/2qdXb0ZST1ewcz7ChAdTF6) | 3:31 | 2023-01-20 |  |
 | [I Love You](https://open.spotify.com/track/7BtHSp6LBcnwB1kZItzxv0) | [Sandro Becker](https://open.spotify.com/artist/1w1OvUZS64uxOfV8yBZQJR) | [Sandro Becker](https://open.spotify.com/album/4CSbRoBJMyLc49gBelKvFB) | 2:55 | 2023-01-20 |  |
 | [Jóia rara](https://open.spotify.com/track/0OimeRm0wZjmRuoo7EVVjk) | [Brylho](https://open.spotify.com/artist/7nf2NtawdimyqcLZkCrvHb) | [Brylho](https://open.spotify.com/album/20CZdrYcOB20e4gt16OpNY) | 3:24 | 2023-01-20 |  |
+| [Lotus 72 D \- Fast Version](https://open.spotify.com/track/7rtcBPsHDLeYW9cHDrO0NB) | [Zé Roberto](https://open.spotify.com/artist/18pOC3dikx4dLs5znHrZJZ) | [Lotus 72 D](https://open.spotify.com/album/5WSJRs0TjAxxljSfLQZ2ai) | 3:00 | 2024-02-22 |  |
 | [Macho](https://open.spotify.com/track/4BTW4OJRGcPmHq9ZicXyG0) | [Frenéticas](https://open.spotify.com/artist/0fvtTgGadhxwdCTQx82HUu) | [Caia na gandaia](https://open.spotify.com/album/4gfRQX7xT5RinTEfgMIiAR) | 3:09 | 2023-01-20 |  |
 | [Maracatu Atômico](https://open.spotify.com/track/2kZDs0Cuo9utZEAdwvmzNf) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Nightingale](https://open.spotify.com/album/1VsheN04RbBbGTdjESl6w4) | 4:24 | 2023-01-20 |  |
 | [Mistério da raça](https://open.spotify.com/track/3GDM3x918Z9o9COKIdf4jc) | [Luiz Melodia](https://open.spotify.com/artist/1zZjt7cDeeJSLWZYK34r7W) | [Nós](https://open.spotify.com/album/4mYtE1kbSHLDqqhzUjSY2b) | 3:07 | 2023-01-20 |  |

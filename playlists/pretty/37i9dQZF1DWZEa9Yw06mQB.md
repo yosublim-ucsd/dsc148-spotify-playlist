@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEa9Yw06mQB.md) - [plain]
 
 > Los clásicos de hoy y siempre.
 
-[Spotify](https://open.spotify.com/user/spotify) - 378,403 likes - 150 songs - 10 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 378,533 likes - 150 songs - 10 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEa9Yw06mQB.md) - [plain]
 | 149 | [White Wedding \- Pt\. 1](https://open.spotify.com/track/1gzIbdFnGJ226LTl0Cn2SX) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Billy Idol](https://open.spotify.com/album/5ebh0MxkqELmk50xHj2b4k) | 4:12 |
 | 150 | [My Sharona](https://open.spotify.com/track/1HOMkjp0nHMaTnfAkslCQj) | [The Knack](https://open.spotify.com/artist/0Nn9YwJzcaeuU1jJL06e3r) | [Get The Knack](https://open.spotify.com/album/6H0wsYDvFlATzXHn0IqVpi) | 4:55 |
 
-Snapshot ID: `MCwzOTg2MTdlYTE5ODViZDMxOWZhMTk2NDcwYzIxNmEyOTQ4OGY4OTA1`
+Snapshot ID: `MCxmNDUzMDZkMmQwYjdkZDEzMWEzZmFkNzE5NjUxOWUzNzhiM2NjNmRi`

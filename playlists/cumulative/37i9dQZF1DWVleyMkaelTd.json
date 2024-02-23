@@ -1791,6 +1791,24 @@
     },
     {
       "album": {
+        "name": "Maneiro",
+        "url": "https://open.spotify.com/album/2sYgZHT6yCVpbu9omNzrEt"
+      },
+      "artists": [
+        {
+          "name": "Eric Merlino",
+          "url": "https://open.spotify.com/artist/1vL7K80AJZnr8Y10olI96q"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243751,
+      "name": "Maneiro",
+      "url": "https://open.spotify.com/track/5Ibs7bA78QLwMylLggsZpi"
+    },
+    {
+      "album": {
         "name": "Mestre Sala",
         "url": "https://open.spotify.com/album/64XduSoe5Uw39MbiGOhs1p"
       },

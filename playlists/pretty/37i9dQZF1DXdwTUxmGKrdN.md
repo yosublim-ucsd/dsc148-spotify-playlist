@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwTUxmGKrdN.md) - [plain]
 
 > Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...
 
-[Spotify](https://open.spotify.com/user/spotify) - 422,231 likes - 150 songs - 10 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 422,303 likes - 150 songs - 10 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwTUxmGKrdN.md) - [plain]
 | 149 | [Round And Round](https://open.spotify.com/track/4KtQuilZOf6EhdcmqMSLVP) | [Paul Brown](https://open.spotify.com/artist/4Hisv12GBxgMUsB2eBW5jy) | [Promised Land](https://open.spotify.com/album/7ctpJMlFR5SQamyhoAyeEM) | 3:35 |
 | 150 | [Only You](https://open.spotify.com/track/7t6q9hCtvEY9it0G5pj7Mm) | [Nils](https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB) | [Ready to Play](https://open.spotify.com/album/2ezdxx2baHQ7qTEUgXR4F5) | 4:41 |
 
-Snapshot ID: `MCxkYWVmMDhkZjA0NWI4ZmVmZTcwOTIzY2ExOThmMWUxNmFhMzBmYTBk`
+Snapshot ID: `MCw5MGNmMTBkZDc4MzIzZWMzMzIwOTE3MzNjOTczMjk2YjU1YmNjNTgz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PvUpywmrr.md) - [plain]
 
 > A mix of the biggest pop, dance, and hip hop party songs\. Cover: Sophie Ellis\-Bextor
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,260,443 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,260,582 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PvUpywmrr.md) - [plain]
 | 99 | [Body](https://open.spotify.com/track/21RzyxY3EFaxVy6K4RqaU9) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [Body](https://open.spotify.com/album/3HwBA7xp3XTbFiNzU7gjwp) | 2:43 |
 | 100 | [The Middle](https://open.spotify.com/track/09IStsImFySgyp0pIQdqAc) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl) | [The Middle](https://open.spotify.com/album/7nEiwcUSwycvC77kZ9ub7c) | 3:04 |
 
-Snapshot ID: `MCw5YzZkMmUwNjEyNTMzNWZhMWNmODBjOTc3N2RjMTY5NTViZDBhYmEx`
+Snapshot ID: `MCw1NThkMDFhOGExNmIzNmRlMDIzMjRmMTAyYzdkMDQ1YjcxNmYxNGNl`

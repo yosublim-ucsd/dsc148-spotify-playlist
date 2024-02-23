@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEcRhUVtL8n.md) - [plain]
 
 > New and approved indie pop\. Cover: Wallows
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,689,148 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,689,252 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEcRhUVtL8n.md) - [plain]
 | 95 | [Paint My Bedroom Black](https://open.spotify.com/track/3gA9Y5RsXBUKkr1IP6v4g3) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Paint My Bedroom Black](https://open.spotify.com/album/7xpV6gsna8TzskCRjmSxLE) | 3:49 |
 | 96 | [James Dean](https://open.spotify.com/track/2MVt6GD9AVbmniOIng0rVz) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [James Dean](https://open.spotify.com/album/61YMV5YCWzd4FmQAeBmraP) | 4:26 |
 | 97 | [Un Deux Trois](https://open.spotify.com/track/3B9rkj19z4Hno7NdkN6cNe) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Jardin](https://open.spotify.com/album/3gLXNVaVPGv7TCmyRnVgky) | 3:30 |
-| 98 | [All day](https://open.spotify.com/track/5X0K7EYfLnoztd4oSwucJv) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG), [Olivia Merilahti](https://open.spotify.com/artist/6i2umdD3q6XxXmqR8fRJuR) | [All day](https://open.spotify.com/album/6uJZYYLIdh24fxnIGe9Vbn) | 3:14 |
-| 99 | [Taste of Metal](https://open.spotify.com/track/6ac7zxx5odBoNp7MoElL1F) | [Henry Morris](https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq) | [Taste of Metal](https://open.spotify.com/album/1dd9cr2W3kYyV7YyTv5s5N) | 2:54 |
-| 100 | [we don't move](https://open.spotify.com/track/4waAiItUduog4VPo0BAQEx) | [BADMIND](https://open.spotify.com/artist/4qTKTDRcMPtnohoWWR1oX9) | [we don't move](https://open.spotify.com/album/0XDaAj0BLRxre1JAmIu1Vn) | 2:40 |
+| 98 | [Taste of Metal](https://open.spotify.com/track/6ac7zxx5odBoNp7MoElL1F) | [Henry Morris](https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq) | [Taste of Metal](https://open.spotify.com/album/1dd9cr2W3kYyV7YyTv5s5N) | 2:54 |
+| 99 | [we don't move](https://open.spotify.com/track/4waAiItUduog4VPo0BAQEx) | [BADMIND](https://open.spotify.com/artist/4qTKTDRcMPtnohoWWR1oX9) | [we don't move](https://open.spotify.com/album/0XDaAj0BLRxre1JAmIu1Vn) | 2:40 |
+| 100 | [All Night](https://open.spotify.com/track/1fKlRxTs1NSCVLsh7rWu77) | [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex) | [All Night](https://open.spotify.com/album/5p2IPRuFGABDDrNhVqVQJc) | 2:50 |
 
-Snapshot ID: `MCwyMzg1MmMwMzZhZmU4M2Q1NDQ4NGU2NTgxNWU2MmVhYjFiZDhhMjY3`
+Snapshot ID: `MCwzNTBkN2NkOWMzYjlmNmM1ZTNlMmE0YjcwOTMwNTUzZWYyMjIxMmVh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 
 > Crusin' is not a crime, it's a lifestyle!
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,506 likes - 150 songs - 8 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,619 likes - 150 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -157,6 +157,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 | 147 | [Honey Dove \(OG Version\)](https://open.spotify.com/track/4sqdUr8Jc9soAIcMNE7DEW) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K), [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Truth & Soul presents Lee Fields \(The 45 Mixes\)](https://open.spotify.com/album/2h3yXwznsQpZjcT8nTXtZg) | 3:20 |
 | 148 | [Going Out of My Head \- Remastered](https://open.spotify.com/track/4KNR8w9Y16CoJh7ZEbiMAh) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [The Essential Delfonics](https://open.spotify.com/album/0yBRZK5b6TmZGJ7sCm23jQ) | 2:05 |
 | 149 | [Reaper of Love](https://open.spotify.com/track/05x6NUnAj83IGdYpM9rvRM) | [Rocky Padilla](https://open.spotify.com/artist/1Kfned5OWID7n6bue7YKb0) | [Reaper of Love](https://open.spotify.com/album/0CSoQsnzqCpPFRC41k9xRR) | 3:31 |
-| 150 | [Tell Me That You Love Me](https://open.spotify.com/track/57ffRh0Tc4pGL1JGGhvanb) | [Jonny Benavidez](https://open.spotify.com/artist/7M7dZApoFDjFxwIfGGNvRa), [Cold Diamond & Mink](https://open.spotify.com/artist/47eOrmm0M2qY5atzSNNt2b) | [My Echo, Shadow and Me](https://open.spotify.com/album/2f70selQPrtTaUvHyn4dbo) | 3:42 |
+| 150 | [Young Love](https://open.spotify.com/track/0gGGMJtavPCoD5Ydobp6JV) | [Teena Marie](https://open.spotify.com/artist/61UT1Zj9dFgPAjZfwnsqsb) | [Irons In The Fire](https://open.spotify.com/album/5xkX5ZagTMNm1xEYNHht5a) | 5:29 |
 
-Snapshot ID: `MCwwY2UyMzQ0NmZlOWE1MTUxNzM0MzFlODY3Yjk0ZjE0Zjc2YTVhZmFm`
+Snapshot ID: `MCxmZGQyZGFkZmY5N2RhMDJhZGIwNWMzNGExZTBlMmM2Zjk0NDcyYTY2`

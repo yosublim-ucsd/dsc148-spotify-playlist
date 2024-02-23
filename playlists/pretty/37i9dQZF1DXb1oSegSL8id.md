@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1oSegSL8id.md) - [plain]
 
 > Tem Sertanejo! Tem Funk! Tem Pagode! A melhor trilha pra embalar o seu churrasco.
 
-[Spotify](https://open.spotify.com/user/spotify) - 825,552 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 825,601 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1oSegSL8id.md) - [plain]
 | 99 | [Atrasadinha \- Live](https://open.spotify.com/track/1aPl8QT8gtcPmOwpMH2Fyj) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB), [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [Atrasadinha \(Ao Vivo\)](https://open.spotify.com/album/64LfkmEoS9FMwXuSUAWCR3) | 2:52 |
 | 100 | [Mil Anos \- Recorded At Mosh Studios, São Paulo](https://open.spotify.com/track/4UUtssVRs2aQTLQCAAtZg1) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Spotify Singles](https://open.spotify.com/album/3UV3FcOPCo0vCHnKLIfN2V) | 3:09 |
 
-Snapshot ID: `MCw5YTAzNGZlMWRkMzQ1MjYwZWU1MDhkNzZmYzZkMjUzNGFiYWQ2NWQ4`
+Snapshot ID: `MCw0Y2UzMmQxZTRlYmQ5MmFhOGZlY2ZjNTJhM2Y1NTNjMjhiYmVlM2I1`

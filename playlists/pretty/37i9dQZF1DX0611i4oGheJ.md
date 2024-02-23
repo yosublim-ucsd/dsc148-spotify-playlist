@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0611i4oGheJ.md) - [plain]
 
 > Sweet gems to help you slow down and savor your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 439,390 likes - 125 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,580 likes - 125 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0611i4oGheJ.md) - [plain]
 | 124 | [Millennial](https://open.spotify.com/track/0UVjJZjlZiOB9pVd9wWABs) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Transcendence](https://open.spotify.com/album/4pJ1cAVfgvAIJLWLO0zpuQ) | 2:53 |
 | 125 | [Belly of the Beast](https://open.spotify.com/track/288CVb86JcfAiuk9ZL6IDW) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Belly of the Beast / Paper Mountain](https://open.spotify.com/album/6GTreUmTaYdDIkWzS6F3GI) | 3:15 |
 
-Snapshot ID: `MCxhM2QxYTlkODhhZDE3ZjFmMWU0ZTc2Y2M5OGM1OWNiY2QzNWY2NTQ4`
+Snapshot ID: `MCwwMmIyMGFlODY5MGRmNDllNjM1ZmEzMGNhMWIwNDQ0YzUyYTNkZjkw`

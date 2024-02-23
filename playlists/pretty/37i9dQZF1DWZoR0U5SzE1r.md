@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 
 > Breathe in deep with arms wide open in worship\. This is going to be epic!
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,335 likes - 100 songs - 9 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,550 likes - 100 songs - 9 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 | 99 | [Covered \- Live](https://open.spotify.com/track/4MeW3rzdC1uAUTfb7E5Z51) | [Grace City](https://open.spotify.com/artist/0nthudnBUjSpYoUnNawp6J), [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [Covered \(Live\)](https://open.spotify.com/album/3wgV3Cs5k7UQKEshAJN8BT) | 7:13 |
 | 100 | [Fill This Place \(Studio Version\)](https://open.spotify.com/track/6tjlnYnGQRq7YgGBnEBv7K) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr) | [Fill This Place \(Studio Version\)](https://open.spotify.com/album/0TOI6K9V6PcAGj3cqs1wLS) | 3:45 |
 
-Snapshot ID: `MCxiMzdkZjdjZDY3YTk2YTEzM2JhNTgxMjViZTNkYjA4YTNlM2EyMDE2`
+Snapshot ID: `MCxhMjE4MjZlMGMxYjZkZWExOTJiMjA3ZmRkMTU3YTIyM2FmOGY3OWFh`

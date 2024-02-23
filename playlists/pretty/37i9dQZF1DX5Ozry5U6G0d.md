@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ozry5U6G0d.md) - [plain]
 
 > That summer sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,706,143 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,706,197 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ozry5U6G0d.md) - [plain]
 | 99 | [Replay](https://open.spotify.com/track/5vlEg2fT4cFWAqU5QptIpQ) | [Iyaz](https://open.spotify.com/artist/5tKXB9uuebKE34yowVaU3C) | [Replay](https://open.spotify.com/album/698AdfGuOthKXXvvHla9bf) | 3:02 |
 | 100 | [Mami Chula](https://open.spotify.com/track/4aJzxp3gimtAdgJn3DL776) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Mami Chula](https://open.spotify.com/album/7weNe4OIBROOCcMEOMeNlS) | 3:40 |
 
-Snapshot ID: `MCw0OTVlZmZhYjRkYThlYTU3YThiZDJjMzZiOTc2Y2Y3NGI0NmRiZTBm`
+Snapshot ID: `MCwyOWMxMThhYWM3MzhkZjAxZmU1NmRlZDM3ZTFjNTU4MzNiOGU1ODk5`

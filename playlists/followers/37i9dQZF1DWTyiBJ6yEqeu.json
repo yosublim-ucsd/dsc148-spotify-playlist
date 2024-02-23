@@ -1,5 +1,5 @@
 {
-  "2024-02-22": 5301101,
+  "2024-02-23": 5301872,
   "date_first_scraped": "2021-12-21",
   "description": "Press play, press start.",
   "name": "Top Gaming Tracks",
@@ -1085,6 +1085,32 @@
       "duration_ms": 210410,
       "name": "Baby Sasuke",
       "url": "https://open.spotify.com/track/4Y4Xmm8OLUJSdR9OkaxV97"
+    },
+    {
+      "album": {
+        "name": "VULTURES 1",
+        "url": "https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF"
+      },
+      "artists": [
+        {
+          "name": "\u00a5$",
+          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295471,
+      "name": "BACK TO ME",
+      "url": "https://open.spotify.com/track/1icgLGTpX2fQXKRe4D7w2b"
     },
     {
       "album": {
@@ -14325,7 +14351,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 91288,
       "name": "The Grinch",
       "url": "https://open.spotify.com/track/2VKHWIONh47ntN7wyoSxEQ"

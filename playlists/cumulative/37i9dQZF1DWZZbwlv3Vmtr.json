@@ -2017,6 +2017,24 @@
     },
     {
       "album": {
+        "name": "Chess Flow",
+        "url": "https://open.spotify.com/album/0EsTiQtGZxSovqo6Y5EhP2"
+      },
+      "artists": [
+        {
+          "name": "Slowmo Friends",
+          "url": "https://open.spotify.com/artist/1GPDa2aInN4QlYRrD6qnLH"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140651,
+      "name": "Chess Flow",
+      "url": "https://open.spotify.com/track/3HtEAL9JC5o1aaS0drr4fk"
+    },
+    {
+      "album": {
         "name": "cheydinhal",
         "url": "https://open.spotify.com/album/5qkawH5rfKsYEwTXWMRDeP"
       },
@@ -3309,6 +3327,24 @@
     },
     {
       "album": {
+        "name": "DREAMY",
+        "url": "https://open.spotify.com/album/6qf8fAFYxG6H6gPC8ybPcp"
+      },
+      "artists": [
+        {
+          "name": "7th Indigo",
+          "url": "https://open.spotify.com/artist/75RGXEBlI9OL7jBSMlf12W"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176370,
+      "name": "DREAMY",
+      "url": "https://open.spotify.com/track/5BpqczsIDRdI8Sjg3muSeB"
+    },
+    {
+      "album": {
         "name": "Dreamz",
         "url": "https://open.spotify.com/album/0nsR1tVzZZ1uFOKgXqswau"
       },
@@ -4332,6 +4368,24 @@
       "duration_ms": 135697,
       "name": "Foemeo",
       "url": "https://open.spotify.com/track/6yRz4gpq370pGg5hKTp91X"
+    },
+    {
+      "album": {
+        "name": "Forest For Rest",
+        "url": "https://open.spotify.com/album/62FAt5TMcVFgsj6mFP4RzC"
+      },
+      "artists": [
+        {
+          "name": "Yoga at the Disco",
+          "url": "https://open.spotify.com/artist/4jQBn4Pe1tFPxVo3p6W7uq"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164097,
+      "name": "Forest For Rest",
+      "url": "https://open.spotify.com/track/6eQmbEMHQYPkRj44AWf04J"
     },
     {
       "album": {
@@ -11131,6 +11185,24 @@
     },
     {
       "album": {
+        "name": "Raindrop City",
+        "url": "https://open.spotify.com/album/2dvLcQvZyheV6DQ4CDbo5k"
+      },
+      "artists": [
+        {
+          "name": "Analog Bow",
+          "url": "https://open.spotify.com/artist/7kQ9kQ588r6INRWFlU1k1T"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156848,
+      "name": "Raindrop City",
+      "url": "https://open.spotify.com/track/2QoJN8vhVHL47q0MvXaVl0"
+    },
+    {
+      "album": {
         "name": "Rainy Nights",
         "url": "https://open.spotify.com/album/5bB4JZSe15XaR8XkbKSipH"
       },
@@ -12014,7 +12086,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 143415,
       "name": "searching",
       "url": "https://open.spotify.com/track/5dxj79aIERpUFnd13G1GfY"
@@ -14454,7 +14526,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 144000,
       "name": "The Ending",
       "url": "https://open.spotify.com/track/7DSlwSvhgotaSIOhtOcVOm"
@@ -15284,7 +15356,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 119500,
       "name": "Twenty Five",
       "url": "https://open.spotify.com/track/7oPJZwkiW8zL14iKafLKu4"
@@ -15742,7 +15814,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 111428,
       "name": "Voicemail",
       "url": "https://open.spotify.com/track/5Fsf112EoSCtWLyyJQ6dMz"

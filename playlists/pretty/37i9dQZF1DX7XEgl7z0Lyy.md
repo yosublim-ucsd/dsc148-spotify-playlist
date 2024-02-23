@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XEgl7z0Lyy.md) - [plain]
 
 > music from the underworld
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,355 likes - 101 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,731 likes - 101 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XEgl7z0Lyy.md) - [plain]
 | 10 | [LET ME SEE YA MOVE!](https://open.spotify.com/track/5z6IuFSIc3OrZGDC2Q9icP) | [Lumi Athena](https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm), [cade clair](https://open.spotify.com/artist/0647ep4AirMtU3Iq9YcBXm) | [LET ME SEE YA MOVE!](https://open.spotify.com/album/3264fH7RgsN1aubvVgT0ny) | 2:01 |
 | 11 | [PROTECTION CHARM \- SLOW & HARD VERSION](https://open.spotify.com/track/3rcw75i7dkInJWy12aR3dO) | [Miguel Angeles](https://open.spotify.com/artist/14xRX3JR8H4RWh8R7V3fvZ) | [EMBRACE CHAOS I](https://open.spotify.com/album/3s5ZPci0kkPtuab6ChSjde) | 3:30 |
 | 12 | [I'm so crazy for youuu </3](https://open.spotify.com/track/3uKqnQ0dGBcpovf9lV2nqg) | [Rebzyyx](https://open.spotify.com/artist/7GcVOOrldYLwxGrCkELOno) | [I'm so crazy for youuu </3](https://open.spotify.com/album/3uW306euM0l6tAJpae90LS) | 1:50 |
-| 13 | [FΛSHION \- Speed Up](https://open.spotify.com/track/2G5YPVwlqQxlflCwTdElH3) | [Britney Manson](https://open.spotify.com/artist/7GtPtPbDC5CLNzSNxVpqaf) | [FΛSHION \(Slow + Speed Up Edit\)](https://open.spotify.com/album/35L2KnjTRZIdd91mIXgjFm) | 2:06 |
+| 13 | [FΛSHION \- Speed Up](https://open.spotify.com/track/7hbqhzGV5y3cxtGE1ajbpb) | [Britney Manson](https://open.spotify.com/artist/7GtPtPbDC5CLNzSNxVpqaf) | [FASHION \(Slow + Speed Up Edit\)](https://open.spotify.com/album/37UPqeHscegS52sP1AwRsr) | 2:06 |
 | 14 | [HYPNOTIC DATA](https://open.spotify.com/track/26wxtmoH4uPUF1n5VlPxMc) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [XIII SORROWS](https://open.spotify.com/album/7dfODAnexuCQljq6ewTjtB) | 2:08 |
 | 15 | [LOOKIN FOR YA](https://open.spotify.com/track/2dcdT5V0ZdxMABFjlWRnuJ) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp) | [KRUSHFUNK](https://open.spotify.com/album/3lrR3UwDlWftcazfxRrBS7) | 1:22 |
 | 16 | [GMFU \(w/ 6arelyhuman\)](https://open.spotify.com/track/4D1k6x4MXTaSnljSvAXhaf) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [GMFU \(w/ 6arelyhuman\)](https://open.spotify.com/album/0BkF8h20ihtHhQrvhg7b4E) | 2:07 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XEgl7z0Lyy.md) - [plain]
 | 100 | [Cycle mix \(crea x creon\)](https://open.spotify.com/track/0Be7vipfSZvIaV8fuF68yc) | [Nuvfr](https://open.spotify.com/artist/2fWukyNksCO4foi0KYnRJy) | [Cycle mix \(crea x creon\)](https://open.spotify.com/album/5SdCyzEI6C6oCazIClXQTo) | 3:39 |
 | 101 | [Continue](https://open.spotify.com/track/5OkBQPz8j5yndKOKkTzKJT) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND) | [Continue](https://open.spotify.com/album/1eMlU0dSndWo2uS6j3MPpB) | 3:25 |
 
-Snapshot ID: `MCwwYmJjNWE0NTY4NGNjZWRkYWFhOWU1NTI3NWUzOGYzOTcxM2YxZTJm`
+Snapshot ID: `MCxjYzIzMDk3MjYxY2U4MDRiYjc2N2I0ZjBkNjlkMjU5NTIwMjQyN2Ux`

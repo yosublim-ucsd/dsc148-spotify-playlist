@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFNjGW0o442.md) - [plain]
 
 > Guerreras del rock latinoamericano\. Foto: Barbi Recanati
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,966 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,974 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFNjGW0o442.md) - [plain]
 | 99 | [Confusion](https://open.spotify.com/track/3YouVy36Vqg0uO2ChhJjCj) | [Actitud María Marta](https://open.spotify.com/artist/0GQzO6YWsPqvMLMa92Epea) | [Acorralar a la Bestia](https://open.spotify.com/album/1TU6tcrZKKWovyAF5XehDe) | 5:31 |
 | 100 | [Todo Se Está Cayendo](https://open.spotify.com/track/2on6Uws8Ku8izt4Kb1PYG8) | [Elis Paprika](https://open.spotify.com/artist/7LVz7xRg5YcXb6bD5JZRtk) | [Todo Se Está Cayendo](https://open.spotify.com/album/1B60TuVtUl7PPsrWbuOAn6) | 4:15 |
 
-Snapshot ID: `MCxkYTE4ZjQ3NDY3YzYyZjJmNTMzYjM3MzNkYzM2MmFkODFjNjVhZDQ2`
+Snapshot ID: `MCw2ODFlMTI2NzZhMmVkNjljZjdkMzFjZDllMjczNjYxNmI3ZWRlM2Zl`

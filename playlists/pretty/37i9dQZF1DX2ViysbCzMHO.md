@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,918 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,982 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 | 99 | [You Didn’t \- Acoustic](https://open.spotify.com/track/27cNKdragPxvklYZNT8QIs) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Weekends Look A Little Acoustic These Days](https://open.spotify.com/album/4kVKg4LdknIwFgktCrYMy0) | 4:14 |
 | 100 | [Creek Will Rise \- Acoustic](https://open.spotify.com/track/5ItavV1pcc92aYo56k0i6o) | [Conner Smith](https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk) | [Creek Will Rise \(Acoustic\)](https://open.spotify.com/album/1rTDhlSTMh1DCQtOqU119z) | 2:51 |
 
-Snapshot ID: `MCxjNjQzZDNkZDhkNTQ3Mzg5MGE2OGNmMWI1MThjM2JhNGEzNzIxOGZj`
+Snapshot ID: `MCw3YzRkNGE5YmI4NjU4NWQ2MTZkZDQ4MGU5YmUzMjg3MzM4N2VlOTQ5`

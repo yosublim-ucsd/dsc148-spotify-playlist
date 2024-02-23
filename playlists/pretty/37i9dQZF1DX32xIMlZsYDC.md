@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32xIMlZsYDC.md) - [plain]
 
 > Despierta poco a poco con la tranquilidad de las notas del piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,585 likes - 100 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,583 likes - 100 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32xIMlZsYDC.md) - [plain]
 | 99 | [Trust](https://open.spotify.com/track/6MV97AqFAH2PLEzfuX5qzS) | [Loris Murray](https://open.spotify.com/artist/0wIQaTVToNDimdZU9Kj2gk) | [Trust](https://open.spotify.com/album/4ppzXvFRl1WF5nnjUq0Vjk) | 2:15 |
 | 100 | [On Your Side](https://open.spotify.com/track/12Ha6FmHZqlgVgIJU2kn3o) | [Ragnar Seaholm](https://open.spotify.com/artist/6GETMwt7rbOZRXFnivRObG) | [On Your Side](https://open.spotify.com/album/6sJJQ0VIYMW3lQLv6zdhPV) | 3:26 |
 
-Snapshot ID: `MCw5Y2EyZTQ1YmExYThjZDNjNzgyNTZhOTc3NTZmZjQ5MjhkZWEyMTM2`
+Snapshot ID: `MCxkMDc1ODViMTk3YWE1NGQ2NDdjNDIwYzc4MTA3YjM3NjgzNjZmMTll`

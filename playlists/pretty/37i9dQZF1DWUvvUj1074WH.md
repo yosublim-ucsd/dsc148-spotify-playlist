@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvvUj1074WH.md) - [plain]
 
 > ¡Qué traigan más cheve que nos sobran copas!
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,376 likes - 150 songs - 10 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,439 likes - 150 songs - 10 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvvUj1074WH.md) - [plain]
 | 149 | [Fools Gold \- Remastered](https://open.spotify.com/track/2mv6GY70UsHiTCGQZ4JfgC) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [The Stone Roses](https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw) | 9:54 |
 | 150 | [Jump \- 2015 Remaster](https://open.spotify.com/track/5FqYA8KfiwsQvyBI4IamnY) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [The Collection](https://open.spotify.com/album/2c965LEDRNrXXCeBOAAwns) | 4:01 |
 
-Snapshot ID: `MCxlMGRmY2EzYmI2NmU4ZmZlMzhkOTljNjhlMDRlMTEwNDk5NTY4YTE5`
+Snapshot ID: `MCxiZmJiMTg5NzMzOTQ1YTMzOTljMGIwOGY4NTVhYmYwOWRiMTE5MmUy`

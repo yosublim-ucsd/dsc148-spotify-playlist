@@ -1,5 +1,5 @@
 {
-  "2024-02-22": 62277,
+  "2024-02-23": 62355,
   "date_first_scraped": "2022-10-01",
   "description": "Gospel songs to get you in the spirit. Whether you are happy or need company to feel better, this is the right one!",
   "name": "Be Lifted ",
@@ -2021,7 +2021,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 626000,
       "name": "Great Are You Lord - Live in Concert",
       "url": "https://open.spotify.com/track/5KPbQ8ZihfroeSeBsk4i9v"
@@ -3075,6 +3075,28 @@
       "duration_ms": 260064,
       "name": "Kumama Papa",
       "url": "https://open.spotify.com/track/5LwT1tPiIUszQ7C51DuEL2"
+    },
+    {
+      "album": {
+        "name": "Kumama Papa",
+        "url": "https://open.spotify.com/album/20GdacZdfLiQbve9FF8Xqu"
+      },
+      "artists": [
+        {
+          "name": "The Kiffness",
+          "url": "https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG"
+        },
+        {
+          "name": "Grace Lokwa",
+          "url": "https://open.spotify.com/artist/1ShPOU9aA4b68tOHBSz7sW"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157161,
+      "name": "Kumama Papa",
+      "url": "https://open.spotify.com/track/2uHY9QxXldmXdbhvvEOf6J"
     },
     {
       "album": {

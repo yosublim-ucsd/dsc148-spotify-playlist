@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,622 likes - 271 songs - 14 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,625 likes - 271 songs - 14 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 56 | [See Them A Come](https://open.spotify.com/track/1UDd9KiROrar9stu4qSXqo) | [Culture](https://open.spotify.com/artist/4DbtUTi2WsBNdruAZL2pNz) | [Two Sevens Clash](https://open.spotify.com/album/2xP6fksOqdajg0gha4TeqH) | 3:20 |
 | 57 | [Lush Life](https://open.spotify.com/track/7ls9IFeCDuAdOcBKosMxyK) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 3:46 |
 | 58 | [The Locomotion](https://open.spotify.com/track/6gAbcFfwCQZzEYlbmJdjNQ) | [Ashley Blanchet](https://open.spotify.com/artist/1b8cQfCNThrHkG97I4ZED9), [Beautiful Ensemble](https://open.spotify.com/artist/2L5cwN0hfqdtGmxl61RgbV) | [Beautiful: The Carole King Musical \(Original Broadway Cast Recording\)](https://open.spotify.com/album/7I3jBPoNAjuHVquCTeq9dA) | 2:11 |
-| 59 | [Brother, Brother](https://open.spotify.com/track/1TsajzaE7CbCxT3BmYJ5lk) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Music](https://open.spotify.com/album/6RWKpU7niokSEFMrrtAgBj) | 2:58 |
-| 60 | [Let Me Get Close To You](https://open.spotify.com/track/5ujmTMn6J5vrt9ppLlxtaQ) | [Roberta Loki](https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB) | [Let Me Get Close To You](https://open.spotify.com/album/4CT8wnGqcV82n4fNaAwiPC) | 3:31 |
+| 59 | [Let Me Get Close To You](https://open.spotify.com/track/5ujmTMn6J5vrt9ppLlxtaQ) | [Roberta Loki](https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB) | [Let Me Get Close To You](https://open.spotify.com/album/4CT8wnGqcV82n4fNaAwiPC) | 3:31 |
+| 60 | [Brother, Brother](https://open.spotify.com/track/1TsajzaE7CbCxT3BmYJ5lk) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Music](https://open.spotify.com/album/6RWKpU7niokSEFMrrtAgBj) | 2:58 |
 | 61 | [The Best Is Yet to Come \(feat\. Clay Finnesand\)](https://open.spotify.com/track/3cPFQk1FXSpSF40VQlvR5R) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Clay Finnesand](https://open.spotify.com/artist/1nfsteEnDvYQUoFNJtsiM4) | [Abundantly More](https://open.spotify.com/album/6N1WHRaubJg2kCsNJ2hAke) | 3:05 |
 | 62 | [Mexican Divorce \- Single Version](https://open.spotify.com/track/11riJrU1R8Mx2okH11JRxd) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [Save the Last Dance for Me](https://open.spotify.com/album/6sWL3HHXGkqlST0rfWXvBU) | 2:35 |
 | 63 | [I Can't Hear You No More](https://open.spotify.com/track/0eDpq3XyvGUyrf01jfUSCy) | [Russ Ballard](https://open.spotify.com/artist/1TOvAjOdz0YBx2wVRlBvFA) | [Russ Ballard](https://open.spotify.com/album/1hGYJPEaXCWmspAjcQQfEC) | 5:52 |
@@ -148,8 +148,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 138 | [Raspberry Jam](https://open.spotify.com/track/4MeARHhXvNJ2hhbkTSj7O3) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Writer](https://open.spotify.com/album/6sy9uYbSfuhH1HCv2e6269) | 4:34 |
 | 139 | [Like Little Children \- Demo](https://open.spotify.com/track/6lnEZVZbgjIF2ZZ3bsSGak) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [The Legendary Demos](https://open.spotify.com/album/2DitJu0CqkrvARSR02RmqX) | 3:12 |
 | 140 | [He's a Bad Boy](https://open.spotify.com/track/16rPqhuTKqG41N4tHUGzZN) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Breaking up Is Hard to Do](https://open.spotify.com/album/2Ea6BUGbGQL8tmPmhNN1gY) | 2:22 |
-| 141 | [Eventually \- Live](https://open.spotify.com/track/49PUEUPk6GqeTYHyslrRhx) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Carole King The Carnegie Hall Concert June 18, 1971](https://open.spotify.com/album/1zpek5hOaIualxw0Gmev0z) | 4:38 |
-| 142 | [To Love](https://open.spotify.com/track/15c2qpqoagc2GxNvCaYlte) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Writer](https://open.spotify.com/album/6sy9uYbSfuhH1HCv2e6269) | 3:36 |
+| 141 | [To Love](https://open.spotify.com/track/15c2qpqoagc2GxNvCaYlte) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Writer](https://open.spotify.com/album/6sy9uYbSfuhH1HCv2e6269) | 3:36 |
+| 142 | [Eventually \- Live](https://open.spotify.com/track/49PUEUPk6GqeTYHyslrRhx) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Carole King The Carnegie Hall Concert June 18, 1971](https://open.spotify.com/album/1zpek5hOaIualxw0Gmev0z) | 4:38 |
 | 143 | [I've Known You All My Life](https://open.spotify.com/track/2x3CU4zpyGG5F8QFaUAKlR) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Dolly](https://open.spotify.com/album/3QmIn4Ilj5fV1eRbYzt21P) | 1:58 |
 | 144 | [Wrap Around Joy](https://open.spotify.com/track/3L3ZUhdMlW2qWVZEJRW7Ri) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Wrap Around Joy](https://open.spotify.com/album/0u0ehiEE6XSZcWScJ9hVtz) | 2:56 |
 | 145 | [Avenue P](https://open.spotify.com/track/1IRGY1rljyGOyuZoTsdc1k) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Really Rosie](https://open.spotify.com/album/7oJAFBGUEddEbeAJFlA90Y) | 3:03 |
@@ -280,4 +280,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 270 | [He Who Laughs Last](https://open.spotify.com/track/0CHCBayT9d8c5VJFY8Rfhn) | [Freda Payne](https://open.spotify.com/artist/0701Axu6yvUIoctaKMbDIZ) | [That's a Pretty Good Love](https://open.spotify.com/album/1rYVaZD5cDiOyQhpDD7mjV) | 2:06 |
 | 271 | [So This Is How It Feels](https://open.spotify.com/track/67wjnFeLF2bsZbhDAf85wg) | [The Countrymen](https://open.spotify.com/artist/0C62w20FpxpOHiWM9UCObQ) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:49 |
 
-Snapshot ID: `Mjg0NzYxMzAsMDAwMDAwMDA4NTVjMTg2NTZiYjZiMDhmNGQzYjg3Y2UyNDZjZTgxNQ==`
+Snapshot ID: `Mjg0Nzc1NzAsMDAwMDAwMDBjOGQwODQ4OWI2OTc2MGEzNzIzZWQ4NzlkNWFiOGVhZg==`

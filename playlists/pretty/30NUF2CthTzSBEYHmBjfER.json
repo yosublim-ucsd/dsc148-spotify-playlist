@@ -1,13 +1,29 @@
 {
   "description": "The best Hip-Hop and R&amp;B, includes Eminem, Dr. Dre, Jay-Z, Lil Wayne, Snoop, Mary J Blige, and more! Join our mailing list   <a href=\"https://umusic.lnk.to/Spotify_2000HipHopRB_SignUp\">here</a>   to hear first about exclusive vinyl drops &amp; all the best new music.",
-  "num_followers": 53706,
+  "num_followers": 53790,
   "original_name": "2000s Hip-Hop/R&B",
   "owner": {
     "name": "Digster Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "NTA3LDlhY2Y1MWNhZGQ0ODFjOGQwMmFlNzg4ZGQxZWIzODVjZmRmMjE0ZjM=",
+  "snapshot_id": "NTExLDUzNDJiNzI1NDFjM2RmNWE0Y2JlYmU2ZjI4M2M4ZGQxNWY5Njc4OGE=",
   "tracks": [
+    {
+      "added_at": "2024-02-21 18:53:37",
+      "album": {
+        "name": "The Eminem Show",
+        "url": "https://open.spotify.com/album/1ftvBBcu7jYIvXyt3JWB8S"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 290226,
+      "name": "Without Me",
+      "url": "https://open.spotify.com/track/06wOQGz4bGB7HETrIjpIep"
+    },
     {
       "added_at": "2024-02-21 18:53:37",
       "album": {
@@ -27,46 +43,6 @@
       "duration_ms": 270586,
       "name": "Still D.R.E.",
       "url": "https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep"
-    },
-    {
-      "added_at": "2024-02-21 18:53:37",
-      "album": {
-        "name": "R&G (Rhythm & Gangsta): The Masterpiece",
-        "url": "https://open.spotify.com/album/797fkvAtk0iZvP1HHPCWbp"
-      },
-      "artists": [
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        }
-      ],
-      "duration_ms": 266066,
-      "name": "Drop It Like It's Hot",
-      "url": "https://open.spotify.com/track/2NBQmPrOEEjA8VbeWOQGxO"
-    },
-    {
-      "added_at": "2024-02-21 18:53:37",
-      "album": {
-        "name": "good kid, m.A.A.d city (Deluxe)",
-        "url": "https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "Jay Rock",
-          "url": "https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3"
-        }
-      ],
-      "duration_ms": 386906,
-      "name": "Money Trees",
-      "url": "https://open.spotify.com/track/0AOvNRgl0SMfOibWA5bP8o"
     },
     {
       "added_at": "2024-02-21 18:53:37",
@@ -111,22 +87,58 @@
     {
       "added_at": "2024-02-21 18:53:37",
       "album": {
-        "name": "The Eminem Show",
-        "url": "https://open.spotify.com/album/1ftvBBcu7jYIvXyt3JWB8S"
+        "name": "Get Rich Or Die Tryin'",
+        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
       },
       "artists": [
         {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "Nate Dogg",
-          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
         }
       ],
-      "duration_ms": 297893,
-      "name": "'Till I Collapse",
-      "url": "https://open.spotify.com/track/6yr8GiTHWvFfi4o6Q5ebdT"
+      "duration_ms": 193466,
+      "name": "In Da Club",
+      "url": "https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8"
+    },
+    {
+      "added_at": "2024-02-21 18:53:37",
+      "album": {
+        "name": "R&G (Rhythm & Gangsta): The Masterpiece",
+        "url": "https://open.spotify.com/album/797fkvAtk0iZvP1HHPCWbp"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "duration_ms": 266066,
+      "name": "Drop It Like It's Hot",
+      "url": "https://open.spotify.com/track/2NBQmPrOEEjA8VbeWOQGxO"
+    },
+    {
+      "added_at": "2024-02-21 18:53:37",
+      "album": {
+        "name": "good kid, m.A.A.d city (Deluxe)",
+        "url": "https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Jay Rock",
+          "url": "https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3"
+        }
+      ],
+      "duration_ms": 386906,
+      "name": "Money Trees",
+      "url": "https://open.spotify.com/track/0AOvNRgl0SMfOibWA5bP8o"
     },
     {
       "added_at": "2024-02-21 18:53:37",
@@ -1143,22 +1155,6 @@
     {
       "added_at": "2024-02-21 18:53:37",
       "album": {
-        "name": "Get Rich Or Die Tryin'",
-        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
-      },
-      "artists": [
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        }
-      ],
-      "duration_ms": 193466,
-      "name": "In Da Club",
-      "url": "https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8"
-    },
-    {
-      "added_at": "2024-02-21 18:53:37",
-      "album": {
         "name": "Tha Carter III",
         "url": "https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP"
       },
@@ -1175,22 +1171,6 @@
       "duration_ms": 299333,
       "name": "Lollipop",
       "url": "https://open.spotify.com/track/4P7VFiaZb3xrXoqGwZXC3J"
-    },
-    {
-      "added_at": "2024-02-21 18:53:37",
-      "album": {
-        "name": "The Eminem Show",
-        "url": "https://open.spotify.com/album/1ftvBBcu7jYIvXyt3JWB8S"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 290226,
-      "name": "Without Me",
-      "url": "https://open.spotify.com/track/06wOQGz4bGB7HETrIjpIep"
     },
     {
       "added_at": "2024-02-21 18:53:37",

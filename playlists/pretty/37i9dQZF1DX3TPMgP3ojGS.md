@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,314 likes - 100 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,454 likes - 100 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 | 99 | [Tomorrow](https://open.spotify.com/track/2QvgJkZmnXdozvMMgfohJp) | [Nate LaFleur](https://open.spotify.com/artist/7uCSp3FWJEgez6UBDnQb4c) | [Tomorrow](https://open.spotify.com/album/2KXDHx3NuRF80LGECFVwAy) | 2:34 |
 | 100 | [Before You](https://open.spotify.com/track/5vC5C7G92VJ4s9lXqtOXKY) | [Andrea Prine](https://open.spotify.com/artist/3tzbuAF9yZZHThB1ykHj0A) | [Before You](https://open.spotify.com/album/4437EHGAGBNz2lJzZaWogn) | 2:22 |
 
-Snapshot ID: `MCw4MDA0N2RjOWU3YzIxNzRlYmYxMTQwY2M3N2Y0MjIwOTM5MDAxY2U2`
+Snapshot ID: `MCxhNjUwMmJlZTM0OGVlMDdlNWExNzlmZWIyMjhlZDQzNWExNzc5NDhj`

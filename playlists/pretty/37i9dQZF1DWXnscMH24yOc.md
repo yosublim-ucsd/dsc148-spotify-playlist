@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 
 > Kick back and relax with a collection of eclectic and unexpected reimaginings\. Cover:  Joy Oladokun
 
-[Spotify](https://open.spotify.com/user/spotify) - 447,265 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 447,333 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 | 99 | [Say You'll Be There](https://open.spotify.com/track/6OwDUCgzQOIVcjHA5PBb15) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Say You'll Be There](https://open.spotify.com/album/5AyQKsPpZ0WK6shtBDZGOw) | 3:53 |
 | 100 | [Avant Gardener](https://open.spotify.com/track/6JZH57Qi4g0DgdB8wTeDGS) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Avant Gardener](https://open.spotify.com/album/6pGyMnVTSLITj39L7zDqj4) | 4:19 |
 
-Snapshot ID: `MCwyZWEwZTA3ZjAzNjAyMTY5NWI0YjAyYjkzOTFkOGFhMDUzMjkyOTE1`
+Snapshot ID: `MCxjZGZmOWMzODFjMmI5M2Q5YzI4YjBhZjljNDJmNmJiZGMzMGJmYWI1`

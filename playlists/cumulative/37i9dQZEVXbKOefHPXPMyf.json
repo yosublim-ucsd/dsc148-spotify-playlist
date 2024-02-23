@@ -939,6 +939,24 @@
     },
     {
       "album": {
+        "name": "Las Ligas Menores",
+        "url": "https://open.spotify.com/album/3uo5La74eGmsUeXJdRRO3g"
+      },
+      "artists": [
+        {
+          "name": "Las Ligas Menores",
+          "url": "https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145239,
+      "name": "Accidente",
+      "url": "https://open.spotify.com/track/55xFPGknQ0zQluwBmf2nVm"
+    },
+    {
+      "album": {
         "name": "Aces",
         "url": "https://open.spotify.com/album/7e0f5k0iqJVH5OdUEP9vOf"
       },
@@ -3180,7 +3198,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 302425,
       "name": "Babel",
       "url": "https://open.spotify.com/track/2JS2IF2YLPe4oLSIXpzZOK"
@@ -4086,7 +4104,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 132160,
       "name": "Beanie",
       "url": "https://open.spotify.com/track/2NlxHzUzAHhNcZdaOEuLzq"
@@ -8976,7 +8994,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-22",
+      "date_removed": null,
       "duration_ms": 158643,
       "name": "Dejame Saber",
       "url": "https://open.spotify.com/track/7Djet6Q24R8EtzzBdPcmiA"
@@ -9006,6 +9024,24 @@
       "duration_ms": 226490,
       "name": "Delincuente",
       "url": "https://open.spotify.com/track/2ROQe6QkIXODJRx0y8UjzV"
+    },
+    {
+      "album": {
+        "name": "DELIRIO",
+        "url": "https://open.spotify.com/album/0rkjPXEAaZpOGqfJXm5D6m"
+      },
+      "artists": [
+        {
+          "name": "Fabio Capri",
+          "url": "https://open.spotify.com/artist/1SvS3C2cttLfpWzIIQiPAq"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190457,
+      "name": "DELIRIO",
+      "url": "https://open.spotify.com/track/3WxuX8C3ZV3xwO6AAoE0Sh"
     },
     {
       "album": {
@@ -12260,7 +12296,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-03",
+      "date_removed": null,
       "duration_ms": 183157,
       "name": "Extra\u00f1\u00e1ndote",
       "url": "https://open.spotify.com/track/6pTKWN96v1dpEaBMzDYlww"
@@ -15160,7 +15196,7 @@
       ],
       "date_added": "2024-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 166536,
       "name": "HOLA PERDIDA",
       "url": "https://open.spotify.com/track/7JKptWv4YXmievid0HajID"
@@ -15732,7 +15768,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 173240,
       "name": "I GOT YOU (Original)",
       "url": "https://open.spotify.com/track/4RXsi1oTj3uaqoRC9UrwGA"
@@ -19476,7 +19512,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-21",
+      "date_removed": null,
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
@@ -22706,7 +22742,7 @@
       ],
       "date_added": "2024-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 193235,
       "name": "More Than Anything",
       "url": "https://open.spotify.com/track/64bs8pCgpueh0mFEKZWGXS"
@@ -29768,7 +29804,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 230360,
       "name": "San Valentont\u00edn",
       "url": "https://open.spotify.com/track/6ENUnIGZD3PLWtfligVj0f"
@@ -29884,7 +29920,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-11",
+      "date_removed": null,
       "duration_ms": 159636,
       "name": "Scared To Start",
       "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
@@ -38720,10 +38756,32 @@
       ],
       "date_added": "2024-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 126867,
       "name": "WTF 2",
       "url": "https://open.spotify.com/track/2gzIb9rrsQKz1AGBE2WmKF"
+    },
+    {
+      "album": {
+        "name": "WTF 2",
+        "url": "https://open.spotify.com/album/4cFGu2A51oQ1lezuK6O9Dn"
+      },
+      "artists": [
+        {
+          "name": "Ugovhb",
+          "url": "https://open.spotify.com/artist/4chyvKr2WRnrzw5oHcOZLG"
+        },
+        {
+          "name": "EF",
+          "url": "https://open.spotify.com/artist/31zD0TKiTJ0OlcW3I6JI27"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127008,
+      "name": "WTF 2",
+      "url": "https://open.spotify.com/track/52Az0C2Qemjn1SP14PhTIW"
     },
     {
       "album": {
@@ -38764,7 +38822,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-21",
+      "date_removed": null,
       "duration_ms": 196363,
       "name": "WYA",
       "url": "https://open.spotify.com/track/5lCMDnVpGTuFC7YejgpTIF"
@@ -39548,7 +39606,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 183577,
       "name": "ZORRA",
       "url": "https://open.spotify.com/track/4ypCNolz6aRYZPO3UOGp8Z"

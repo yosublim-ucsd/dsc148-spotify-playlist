@@ -4,7 +4,7 @@
 
 > Relax with deep house and electronica.
 
-313 songs - 1 day 3 hr 6 min
+314 songs - 1 day 3 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Goodbye](https://open.spotify.com/track/6bM8DrDD0hOuU0e06LKehN) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Love Will Set U Free](https://open.spotify.com/album/2q1yFtPevPCNlp06WDzfFc) | 6:03 | 2022-11-16 |  |
 | [Graf Zahl](https://open.spotify.com/track/33R7eq2Yqrhjz7eP6XhCsy) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R) | [Graf Zahl](https://open.spotify.com/album/4q2KNOVojE0HcBNrjdk8RW) | 5:32 | 2021-12-23 |  |
 | [Gypsy Woman \(She's Homeless\) \- Atmos Blaq Remix](https://open.spotify.com/track/0OIkGLJOrJtrQ9pm805I5m) | [beatsbyhand](https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ), [Kali Mija](https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP), [Atmos Blaq](https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM) | [Gypsy Woman \(She's Homeless\) \[Atmos Blaq & Chymamusique Remixes\]](https://open.spotify.com/album/1iML6kYmw5LThCd4ONdgtZ) | 6:25 | 2023-03-23 |  |
+| [Halt Plea](https://open.spotify.com/track/4RDbet8bxl0MPQMG9BLEDJ) | [Entele](https://open.spotify.com/artist/5S4KGrV1TY9Dqi8dS5LbPo) | [Halt Plea](https://open.spotify.com/album/2etuLjhlcEMvpjIKm76wSm) | 2:29 | 2024-02-23 |  |
 | [Harlem River](https://open.spotify.com/track/4xv8NEU2gJ0Ud3PZZJgh59) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Under Darkening Skies](https://open.spotify.com/album/3YCZyxDxBnFt4x3eYGYHFv) | 4:37 | 2024-02-16 |  |
 | [Harlem River](https://open.spotify.com/track/6fWwLxUoiAZpZtqOFwG1KL) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Harlem River / Falling](https://open.spotify.com/album/2McNZimRxQr0n7tpOVQYu7) | 4:37 | 2021-12-23 | 2022-07-29 |
 | [Harlem River](https://open.spotify.com/track/6gAM5yFXa4V54zUMR03QSp) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Under Darkening Skies](https://open.spotify.com/album/7fDsHkCbzW928mVa9irayU) | 4:37 | 2022-10-07 | 2023-10-23 |
@@ -141,7 +142,7 @@
 | [Into the Glow](https://open.spotify.com/track/1rDQBpJqJtFQWbltL7OPkM) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Under Darkening Skies](https://open.spotify.com/album/6JWmlV1xU3ihX9D4dmadHJ) | 4:02 | 2021-12-23 | 2022-07-29 |
 | [Into The Night](https://open.spotify.com/track/7LMsAia3rSvaNrHjgfuJzB) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv) | [Into The Night](https://open.spotify.com/album/4uncxf7qT7yP8ar3O0HPHr) | 7:03 | 2023-08-03 |  |
 | [Invaders](https://open.spotify.com/track/56kVJjFw0Q0RKX3PTu1zyD) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m) | [On The Quiet \(Expanded Edition\)](https://open.spotify.com/album/1iZO6b5CspEeHmSBV0gPac) | 6:22 | 2021-12-23 | 2022-05-30 |
-| [Jump High](https://open.spotify.com/track/0MPSOPq0yWBr4jV5mCldWU) | [Holly North](https://open.spotify.com/artist/19NPr9xQ0jUnX9PpFmtl8p) | [Jump High](https://open.spotify.com/album/1DF1nmoCA1QPLfAd9klXjD) | 3:16 | 2023-11-14 |  |
+| [Jump High](https://open.spotify.com/track/0MPSOPq0yWBr4jV5mCldWU) | [Holly North](https://open.spotify.com/artist/19NPr9xQ0jUnX9PpFmtl8p) | [Jump High](https://open.spotify.com/album/1DF1nmoCA1QPLfAd9klXjD) | 3:16 | 2023-11-14 | 2024-02-23 |
 | [Juntos](https://open.spotify.com/track/72O4Zk916HBRyxrfS5RjEV) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Fresia Magdalena](https://open.spotify.com/album/4GyOH7hvecm5MHQhPgMArn) | 4:43 | 2022-04-04 | 2022-04-17 |
 | [Just A Ghost \- Jan Blomqvist Remix](https://open.spotify.com/track/2J3BnK1mKxAktjkEk42hDU) | [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry), [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv), [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83) | [Just A Ghost \(Jan Blomqvist & Black V Neck Remixes\)](https://open.spotify.com/album/6Mq4CZNiKCptSZEBQ5JOHv) | 3:39 | 2021-12-23 | 2022-07-29 |
 | [Just Breathe](https://open.spotify.com/track/4bg2cMVdrlI4y4ZXjnReSm) | [Niconé](https://open.spotify.com/artist/70s3JhU9Ai0cIowagibjNI), [Enda Gallery](https://open.spotify.com/artist/1quMAp2YAz3SDEs0OmTIET) | [Just Breathe](https://open.spotify.com/album/5jLJSvxYN0MF0T7ObeMtjs) | 3:56 | 2021-12-23 | 2023-11-16 |

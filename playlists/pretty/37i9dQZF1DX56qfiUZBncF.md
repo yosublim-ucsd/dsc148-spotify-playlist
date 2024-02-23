@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 
 > Let these innovative tracks spark your creativity and inspiration.
 
-[Spotify](https://open.spotify.com/user/spotify) - 376,186 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 376,219 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 | 99 | [Interstellar Love \(feat\. Leon Bridges\)](https://open.spotify.com/track/59lpmLRHEkHxufzKdOFRRA) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Interstellar Love \(feat\. Leon Bridges\)](https://open.spotify.com/album/4SLthaJgVwyX4yZDwLq6bS) | 3:38 |
 | 100 | [Bonfire](https://open.spotify.com/track/7eN3OqvoVyILThTEWQfbW1) | [Woodes](https://open.spotify.com/artist/0lgc1ljuLwkY1VRtDkFSLK) | [Bonfire](https://open.spotify.com/album/6xNNsoSK34afFAmROzjUGA) | 3:23 |
 
-Snapshot ID: `MCxjZDA0N2M2NDE3ZmNhMTkxY2UyMDg2ZGFmMTdlYTM2OGFhNmJiYTY4`
+Snapshot ID: `MCw5NDg4YmQ4NTY1N2FiOTFkMDYxMmM2ZGIyMzExNjY5OWE0YTlkZTQ3`

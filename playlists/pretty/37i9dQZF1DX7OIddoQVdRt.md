@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 
 > Experience the powerful messages and sounds of the current hits and classic Gospel songs\.  Cover: <a href="spotify:artist:5YxebzzreNswbtYC1td4cx">Tasha Cobbs Leonard</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 625,067 likes - 88 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 625,148 likes - 88 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 | 87 | [Dance](https://open.spotify.com/track/3bJGae8rklq4LMAjXtBE1u) | [Marcus Jordan](https://open.spotify.com/artist/27Xu3PU0agWqCrDuhHtQva) | [Dance](https://open.spotify.com/album/7bUmJWiuHOpRVRdhl6tSPZ) | 3:07 |
 | 88 | [Able](https://open.spotify.com/track/0ICGreKEIidNiyIGMVwS1E) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9), [Marvin Winans](https://open.spotify.com/artist/2QuleHm5yBUYv3vjqWTM79) | [My Truth](https://open.spotify.com/album/07zEDWrPhqROuygaSwVTHm) | 5:02 |
 
-Snapshot ID: `MCw3MThiNTU0ODcwODYxMjNjOTdkMWMzMDMzZDc2MTE4OTIzY2M1MGVm`
+Snapshot ID: `MCwwNzY0N2IzZjU0NDQ0OGEyZTcyYjdjZTlhMzZlYmNmYzlmMGM2MDg1`

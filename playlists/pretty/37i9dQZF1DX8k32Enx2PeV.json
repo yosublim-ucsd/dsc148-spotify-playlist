@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 9504,
+  "num_followers": 9512,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NTBiMjkxODc3ZjI2NGQ5OWJhZjIzODFmYTAxMDM2ZjVhZGRiYmI5",
+  "snapshot_id": "MCw5NGZlMzNjYTBlYzQ5Njk1MzI1NGFkNmRmNzcxYWQwYTc1ODAwNDE0",
   "tracks": [
     {
       "added_at": "2023-09-22 05:25:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-09-22 05:25:00",
       "album": {
-        "name": "Camino al Mar",
-        "url": "https://open.spotify.com/album/1glNAkJudlAf1dNQUsr18G"
-      },
-      "artists": [
-        {
-          "name": "Acid Coco",
-          "url": "https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW"
-        }
-      ],
-      "duration_ms": 215280,
-      "name": "Soy la Fuerza",
-      "url": "https://open.spotify.com/track/1Tt53jSkqWtGzmn0qJBwjf"
-    },
-    {
-      "added_at": "2023-09-22 05:25:00",
-      "album": {
         "name": "Adi\u00f3s Batata (Cerrero Dub Mix)",
         "url": "https://open.spotify.com/album/7o7iFlxztqfLv1FbaSg8Zo"
       },
@@ -1055,22 +1039,6 @@
     {
       "added_at": "2023-09-22 05:25:00",
       "album": {
-        "name": "En el Caribe Tambi\u00e9n Pasa Esto",
-        "url": "https://open.spotify.com/album/5nasMHFwjeW93OHvHwDWCp"
-      },
-      "artists": [
-        {
-          "name": "Buendia",
-          "url": "https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH"
-        }
-      ],
-      "duration_ms": 233613,
-      "name": "Goz\u00e1 Goz\u00e1",
-      "url": "https://open.spotify.com/track/1Mi4KFAuHfJKRORYYNEQ9B"
-    },
-    {
-      "added_at": "2023-09-22 05:25:00",
-      "album": {
         "name": "All Inclusive",
         "url": "https://open.spotify.com/album/2Ujz4uZO4sCTOthqc2HGAI"
       },
@@ -1083,6 +1051,22 @@
       "duration_ms": 155613,
       "name": "All Inclusive",
       "url": "https://open.spotify.com/track/3RRVyOLUHTqPfCKr03Gdhm"
+    },
+    {
+      "added_at": "2023-09-22 05:25:00",
+      "album": {
+        "name": "En el Caribe Tambi\u00e9n Pasa Esto",
+        "url": "https://open.spotify.com/album/5nasMHFwjeW93OHvHwDWCp"
+      },
+      "artists": [
+        {
+          "name": "Buendia",
+          "url": "https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH"
+        }
+      ],
+      "duration_ms": 233613,
+      "name": "Goz\u00e1 Goz\u00e1",
+      "url": "https://open.spotify.com/track/1Mi4KFAuHfJKRORYYNEQ9B"
     },
     {
       "added_at": "2023-09-22 05:25:00",
@@ -1351,6 +1335,22 @@
       "duration_ms": 202344,
       "name": "Pasatiempo",
       "url": "https://open.spotify.com/track/0zTrBn533RlwK9EpQToLRV"
+    },
+    {
+      "added_at": "2023-09-22 05:25:00",
+      "album": {
+        "name": "Camino al Mar",
+        "url": "https://open.spotify.com/album/20jmEAKKemowX8dH6dRNXt"
+      },
+      "artists": [
+        {
+          "name": "Acid Coco",
+          "url": "https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW"
+        }
+      ],
+      "duration_ms": 215280,
+      "name": "Soy la Fuerza",
+      "url": "https://open.spotify.com/track/1dLUGmTp8Fy9Sl0p2Tn7T1"
     }
   ],
   "unique_name": "Palmera",

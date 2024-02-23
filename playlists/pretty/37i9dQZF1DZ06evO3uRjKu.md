@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3uRjKu.md) - [plain]
 
 > This is Vilma Palma e Vampiros\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,945 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,996 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3uRjKu.md) - [plain]
 | 27 | [Todo Por un Sueño \- En Vivo](https://open.spotify.com/track/1bRzDCtPEodKoVaqaOmDMR) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Vivo Grandes Exitos en Buenos Aires \(En Vivo\)](https://open.spotify.com/album/6q8m6YNaaxufhr012VZ4bi) | 4:11 |
 | 28 | [Flaca](https://open.spotify.com/track/4nrnvLDI4Gi1vr7y9kGARa) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Flaca](https://open.spotify.com/album/7mVLJqjHL76zbPnk8a0DXd) | 3:47 |
 | 29 | [Nada Mas](https://open.spotify.com/track/5JthbTqrtjNapSS7L8Xep9) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Boomerang](https://open.spotify.com/album/7ceZgHQI7VWGueZkhjY8BD) | 3:30 |
-| 30 | [Un Minuto Con Vos](https://open.spotify.com/track/1HvNrcnunJrJwHTLRFxqbo) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Un Minuto Con Vos](https://open.spotify.com/album/24ZRYjOa4RXJax493clPnH) | 4:05 |
-| 31 | [Bailalo](https://open.spotify.com/track/79gJbOIC4eUBfvWPiUPQcz) | [Agus Cassano](https://open.spotify.com/artist/5Jmui4kpdCfcyz8KFSpHRY), [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Bailalo](https://open.spotify.com/album/6xgu82r1BESKZptFU9E0cv) | 2:42 |
+| 30 | [Bailalo](https://open.spotify.com/track/79gJbOIC4eUBfvWPiUPQcz) | [Agus Cassano](https://open.spotify.com/artist/5Jmui4kpdCfcyz8KFSpHRY), [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Bailalo](https://open.spotify.com/album/6xgu82r1BESKZptFU9E0cv) | 2:42 |
+| 31 | [Un Minuto Con Vos](https://open.spotify.com/track/1HvNrcnunJrJwHTLRFxqbo) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Un Minuto Con Vos](https://open.spotify.com/album/24ZRYjOa4RXJax493clPnH) | 4:05 |
 | 32 | [Reina del Club](https://open.spotify.com/track/0MlWFjOxbBAHg9JuQNHZoH) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Agarrate Fuerte](https://open.spotify.com/album/7z4q6L1G8IFwyavj5aKQr7) | 4:38 |
 | 33 | [Hechicera Crayon](https://open.spotify.com/track/0HE9ttmrZ1Ir01F82oBKh7) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Boomerang](https://open.spotify.com/album/7ceZgHQI7VWGueZkhjY8BD) | 5:00 |
 | 34 | [Son tus ojos](https://open.spotify.com/track/4I8H3JhKwTFTG8I3vzVkUy) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Lo Mejor de Vilma Palma](https://open.spotify.com/album/04ezQVYrGNcXyrBUl42NZi) | 4:06 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3uRjKu.md) - [plain]
 | 40 | [Toque de Queda](https://open.spotify.com/track/2k3SYulMPRrbKIMy1RQAZW) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Fondo Profundo](https://open.spotify.com/album/5pWGHHRgwAoZqBL2zsm7OT) | 6:02 |
 | 41 | [Carcaman](https://open.spotify.com/track/6T8pTk5m8wdoilKIIyDAyU) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Boomerang](https://open.spotify.com/album/7ceZgHQI7VWGueZkhjY8BD) | 3:12 |
 | 42 | [Demasiado Tarde](https://open.spotify.com/track/5Oa1k1gOxhP018PPRw1Sys) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [La Pachanga](https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr) | 5:50 |
-| 43 | [Animales Sueltos](https://open.spotify.com/track/65uSLDV4MyXnumIlLGSauj) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Agarrate Fuerte](https://open.spotify.com/album/7z4q6L1G8IFwyavj5aKQr7) | 3:00 |
+| 43 | [La Carta](https://open.spotify.com/track/7fWsCyuE2j5qAcBqcqaeZp) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Vuelve a Comenzar](https://open.spotify.com/album/3PB32BKUbvyyQ2WmhrAzad) | 4:16 |
 | 44 | [Si Eso Te Pone Mejor](https://open.spotify.com/track/1qVTpnGqccuRquqfGyvvBo) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Fondo Profundo](https://open.spotify.com/album/5pWGHHRgwAoZqBL2zsm7OT) | 4:17 |
 | 45 | [Centurion](https://open.spotify.com/track/4CGt19vmFmyEKmWTnTXDcs) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Boomerang](https://open.spotify.com/album/7ceZgHQI7VWGueZkhjY8BD) | 3:18 |
-| 46 | [La Carta](https://open.spotify.com/track/7fWsCyuE2j5qAcBqcqaeZp) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Vuelve a Comenzar](https://open.spotify.com/album/3PB32BKUbvyyQ2WmhrAzad) | 4:16 |
+| 46 | [Animales Sueltos](https://open.spotify.com/track/65uSLDV4MyXnumIlLGSauj) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Agarrate Fuerte](https://open.spotify.com/album/7z4q6L1G8IFwyavj5aKQr7) | 3:00 |
 | 47 | [Besos en el Ascensor](https://open.spotify.com/track/6VKNpxs7kYpDuynDozMj2a) | [Manu Piró](https://open.spotify.com/artist/1RfOn1jpPuM4THF3zHKrJA), [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Besos en el Ascensor](https://open.spotify.com/album/1YEs3YvLSfcVPXAaf7oo03) | 3:10 |
-| 48 | [Ella lo Hace Mejor](https://open.spotify.com/track/4BcslhiC50eygxnmF5Dq2d) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Agarrate Fuerte](https://open.spotify.com/album/7z4q6L1G8IFwyavj5aKQr7) | 3:56 |
-| 49 | [Te Puedo Enamorar](https://open.spotify.com/track/4rUAnvTxSGwqDuj9SYBQIZ) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [7](https://open.spotify.com/album/6lJ7uJF8ILH5zqMx3NuPFA) | 4:30 |
-| 50 | [Solo Es Otro Sabado](https://open.spotify.com/track/6ihRQHClQC49RuYNiTTbFH) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [La Pachanga](https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr) | 2:42 |
+| 48 | [Te Puedo Enamorar](https://open.spotify.com/track/4rUAnvTxSGwqDuj9SYBQIZ) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [7](https://open.spotify.com/album/6lJ7uJF8ILH5zqMx3NuPFA) | 4:30 |
+| 49 | [Solo Es Otro Sabado](https://open.spotify.com/track/6ihRQHClQC49RuYNiTTbFH) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [La Pachanga](https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr) | 2:42 |
+| 50 | [Ella lo Hace Mejor](https://open.spotify.com/track/4BcslhiC50eygxnmF5Dq2d) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Agarrate Fuerte](https://open.spotify.com/album/7z4q6L1G8IFwyavj5aKQr7) | 3:56 |
 
-Snapshot ID: `Mjg0NzUyOTAsMDAwMDAwMDBjOGI1M2VhMjJiYWIwZTgzODRkOTc5YzMxOGQ0YmY1ZQ==`
+Snapshot ID: `Mjg0NzcwNzUsMDAwMDAwMDA2MGM4YjI5MjkyZTM3MmU4ZjBhMWM0NjA0NzIxYWY4OQ==`

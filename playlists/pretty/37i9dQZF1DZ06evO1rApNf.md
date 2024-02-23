@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rApNf.md) - [plain]
 
 > This is Mau y Ricky\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,862 likes - 51 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,882 likes - 51 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,6 +58,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rApNf.md) - [plain]
 | 48 | [Mal de la Cabeza](https://open.spotify.com/track/62mmVqtsiY2dob1EMxC5W2) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Para Aventuras y Curiosidades](https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff) | 4:02 |
 | 49 | [Empiezo a Caer](https://open.spotify.com/track/15P95UWBRfUDrB9Ok8AKtu) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Arte](https://open.spotify.com/album/37YOrd3yOJva0INlJrNyxf) | 3:41 |
 | 50 | [OUCH](https://open.spotify.com/track/0mfBEZtTbXZY1o7zolRRun) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [rifresh](https://open.spotify.com/album/7nGv8O2aompJCOD5N4DO24) | 2:17 |
-| 51 | [Vivir Sin Ti \(con CNCO\)](https://open.spotify.com/track/5MVwgz47Vk7xknqySz0376) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Vivir Sin Ti \(con CNCO\)](https://open.spotify.com/album/5ABQADzHNwWS2DoftWlvIS) | 3:24 |
+| 51 | [Amigos \(con Andry Kiddos\)](https://open.spotify.com/track/5w7KnO18gZntBOxIiubPOa) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Andry Kiddos](https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2) | [DESGENERADOS MIXTAPE](https://open.spotify.com/album/0YcR2HiDBoW60Alu3CZu2R) | 2:27 |
 
-Snapshot ID: `Mjg0NzUyOTAsMDAwMDAwMDAyZjEwM2ZkYjk5NzM1MzBjNzMwODEwYzExMjIyODA5Mw==`
+Snapshot ID: `Mjg0NzcwNzUsMDAwMDAwMDA1YTQ5Yzk3OTJmMjdlNmEwZTE3NjZmMTllNTJmZDI0MA==`

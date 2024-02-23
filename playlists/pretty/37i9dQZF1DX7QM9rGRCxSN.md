@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 
 > Belleza y distorsión imaginada por bandas iberoamericanas\. Estrella del Sol en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,679 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,693 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 49 | [Como Rei Ayanami](https://open.spotify.com/track/0tYNvkWztbz331kXOHXf8n) | [Dan Dan Dero](https://open.spotify.com/artist/2auDyHZC2XT2E5kV6dyBPR) | [Como Rei Ayanami](https://open.spotify.com/album/30LJvOyd3yd4Otb6LLuQCW) | 2:57 |
 | 50 | [Estática](https://open.spotify.com/track/1tJy7CJuv33Tre4DmrZgx3) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Estática](https://open.spotify.com/album/4epHlWTKUURK4kDlRcKASZ) | 3:53 |
 
-Snapshot ID: `MCw2ZGFkZmUyNGIxMmRlY2E0NGY5ODQxMDc5OTdhYzhiNzdiODkzMWQ3`
+Snapshot ID: `MCw1OTI0MGJmYzNiOWQ0ZmMyOTAzOThkZjg1ZjM3MmIyMDVlNTkyZGY4`

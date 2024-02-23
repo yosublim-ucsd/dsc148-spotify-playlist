@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgccrbg3zbJ.md) - [plain]
 
 > The classic recordings from Bossa Nova\. Cover: João Gilberto
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,662 likes - 65 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,085 likes - 65 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgccrbg3zbJ.md) - [plain]
 | 64 | [Rosa Morena](https://open.spotify.com/track/2lUwmS0xS6X1JelcbzWNFI) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto Apresenta Chega de Saudade](https://open.spotify.com/album/6eEhHeu8VTc5WemfyfgLY8) | 2:06 |
 | 65 | [Meditação \- Ultimate Mix](https://open.spotify.com/track/0mdesrM7UZZuDAu8RjBkMy) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [O Amor, O Sorriso e a Flor \(Ultimate Mix\)](https://open.spotify.com/album/31wFbkHhgPP1c8S3wYx7it) | 1:46 |
 
-Snapshot ID: `MCxkYmQ1ZGMzNjY0ZDFkOGU4ZjIzODgxZmI2N2VkYmFhZjAzNDY0NjIw`
+Snapshot ID: `MCw0N2IwMjlhODQ1ZWVmNzEzYmM3NGUzYzM1Yjg3YTVjMGI1ZGMyZWJj`

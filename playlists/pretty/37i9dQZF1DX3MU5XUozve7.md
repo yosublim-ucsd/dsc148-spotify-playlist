@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 
 > A mix of new and classic melodic punk songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 905,323 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 905,626 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 | 99 | [Not the Same](https://open.spotify.com/track/0q6Qyd2QaHMHp7APKyQsyi) | [Bodyjar](https://open.spotify.com/artist/2LyXoG111QdqfI0HLYQgvS) | [How It Works](https://open.spotify.com/album/3OXgyKFsDVI8PzYY0mspqD) | 3:08 |
 | 100 | [All My Friends Are Dead](https://open.spotify.com/track/6fEztciYVlIyWTBe66clVj) | [Turbonegro](https://open.spotify.com/artist/191rVxQbbZ05wcICUSvLkz) | [Party Animals](https://open.spotify.com/album/3AZ1nJRyRQag2qI5Bb2WF5) | 2:38 |
 
-Snapshot ID: `MCxmN2E5ZTE4MzRiNWEwNWZmYjIyZmZjNGY1YWI3NTFmOGEzOGE4OGE5`
+Snapshot ID: `MCxlYjA0ZDFkNDBlN2EzZjlhOTgzYjdhNGE1NTA0ZGE1MGEwODYyYzYy`

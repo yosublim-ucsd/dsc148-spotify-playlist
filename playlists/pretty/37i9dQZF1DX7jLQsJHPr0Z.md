@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7jLQsJHPr0Z.md) - [plain]
 
 > The aux for every college party.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,798 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,115 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7jLQsJHPr0Z.md) - [plain]
 | 99 | [I Love It \(feat\. Charli XCX\)](https://open.spotify.com/track/6HZ9VeI5IRFCNQLXhpF4bq) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [THIS IS..\. ICONA POP](https://open.spotify.com/album/59ZxtwIOD1wowkNvVHXqtP) | 2:37 |
 | 100 | [Bottoms Up \(feat\. Nicki Minaj\)](https://open.spotify.com/track/4AYX69oFP3UOS1CFmV9UfO) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Passion, Pain & Pleasure \(Deluxe Version\)](https://open.spotify.com/album/3sDoSYf2AKB2IegZmkISGD) | 4:02 |
 
-Snapshot ID: `MCwxMTI4Y2RlZjE4YmY1OWRkNDMyZTNhMTRiZGNlYWQyYzgxNDFkMjIy`
+Snapshot ID: `MCw3NWIyMTY2ZmE3Yzk0YjdhNWYyYzgwYTZhNGQ5YTI5ODAyZDBiNzVl`

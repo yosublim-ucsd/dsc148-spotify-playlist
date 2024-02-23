@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 
 > Os hits já consagrados e os novos nomes pop dividindo o mesmo palco!  / Foto: DUDA BEAT
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,479 likes - 85 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,495 likes - 85 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 | 84 | [Por Uma Noite Só](https://open.spotify.com/track/7fzCFGhCDzvn15HZWMDW3F) | [Marianna](https://open.spotify.com/artist/4cB54ned9TBsah6DMU8ALL) | [Por Uma Noite Só](https://open.spotify.com/album/6QkXH21EkvWLGFR67UlEqj) | 2:18 |
 | 85 | [Afropaty](https://open.spotify.com/track/3MtyP815SMmI3bMeLnxDWB) | [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX), [Rob](https://open.spotify.com/artist/2erZl4yKXwwHO92guRhDPw) | [Afropaty](https://open.spotify.com/album/5fOaa75x89O1eBzazgjGu7) | 2:22 |
 
-Snapshot ID: `MCw5MTBiNmU5N2JjYmM2NjgyZjZjNzRiZGFlYjAzZGI3YTViYTI1OGNh`
+Snapshot ID: `MCw2ZjlhNjk3Y2RlZTBjYzc2NmNlMWE2YTRjNGVhY2E3YmVkOGIwZWJk`

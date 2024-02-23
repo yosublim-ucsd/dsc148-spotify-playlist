@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NhlMhDst2O.md) - [plain]
 
 > Porque el romance nunca pasará de moda.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,021 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,131 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NhlMhDst2O.md) - [plain]
 | 99 | [Apróntate a Vivir](https://open.spotify.com/track/6AV4j0mfkuG8ugLGZToS4I) | [Los Iracundos](https://open.spotify.com/artist/0xpMy6DeMBWX8zTURxB4h5) | [Discografía Completa Vol\. 14](https://open.spotify.com/album/5yQSPKGmlTssV2xP9NHqgs) | 4:01 |
 | 100 | [Frío de Ausencia](https://open.spotify.com/track/4LvVnIfsV2A6pbc8HDgbkc) | [Los Chicanos](https://open.spotify.com/artist/4CtmyXgladHink6882NHrX) | [Éxitos..](https://open.spotify.com/album/1ukRNJ1deHMIlBkquZ71i4) | 3:53 |
 
-Snapshot ID: `MCwzMjMyMjI1MGYxNTg3NGU1MzMzNTljOWQwZDJmMzMxMmY4OWJmMzUz`
+Snapshot ID: `MCwzNjc2MzkzNmFiNmNhYTBjMzM4ZWRhNGU3ZmM5N2M5YTk1NjJiZjNl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vHZ8elq0UK.md) - [plain]
 
 > Need to get your energy level up?
 
-[Spotify](https://open.spotify.com/user/spotify) - 874,795 likes - 150 songs - 8 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 875,300 likes - 150 songs - 8 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vHZ8elq0UK.md) - [plain]
 | 149 | [Born This Way](https://open.spotify.com/track/6r2BECwMgEoRb5yLfp0Hca) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(Special Edition\)](https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O) | 4:20 |
 | 150 | [Sing](https://open.spotify.com/track/6K8qKeWo5MsFED7wCR6Kop) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 3:55 |
 
-Snapshot ID: `MCwxZjcyMjE0OTdlZGZkYmE4YzAzZjBiOTYzZTQ4NWUyYWYyNjJkZmM1`
+Snapshot ID: `MCw1ODdiMjk0ZTQ4NDQ1ZjNlNDMzYzU3YmUxN2I2NTYzNGE1N2E5NDAz`

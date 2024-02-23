@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 
 > Listen to the women of Au & NZ at full volume! Cover: Jessica Mauboy
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,854 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,848 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 | 2 | [Dreaming](https://open.spotify.com/track/3TBNXtO8ukvpbgvkMuttsb) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dreaming](https://open.spotify.com/album/0WK5sLNYIynhTomJpn1bqs) | 3:28 |
 | 3 | [Forget You](https://open.spotify.com/track/2S3wdZxAuixiNbXbknlIUN) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673) | [Forget You](https://open.spotify.com/album/2IZUTQgdCkWtazXjExCJ09) | 3:01 |
 | 4 | [Life Is Tough \(But So Am I\)](https://open.spotify.com/track/53zYH64CbS2SxcNDFJxlC5) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj), [Navvy](https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24) | [Life Is Tough \(But So Am I\)](https://open.spotify.com/album/4IWrXa3u5YCQ1tVdGn7epT) | 3:19 |
-| 5 | [Chloe Enough!](https://open.spotify.com/track/0so9O4kW2iUyDjflqDxA18) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Chloe Enough!](https://open.spotify.com/album/0xaOEgweHb5N05ZtJTxUsj) | 2:30 |
+| 5 | [Chloe Enough!](https://open.spotify.com/track/39rW3vGtDSCM889izxIkiu) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Chloe Enough!](https://open.spotify.com/album/1YUeCffXlEbbVzSWzGzpaP) | 2:30 |
 | 6 | [Promises](https://open.spotify.com/track/6J1J0mAEKODPz10Tthdhwv) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Promises](https://open.spotify.com/album/1ccKMe1V4ixAhUZSQmWwqF) | 3:28 |
 | 7 | [outside](https://open.spotify.com/track/0c3cnN3CR2yQYawWScKezO) | [Shanae](https://open.spotify.com/artist/6DThBRy7oFjMSWQyQoKY9p) | [outside](https://open.spotify.com/album/4MB8Dxl3eGZ3ohTO86xEEV) | 2:05 |
 | 8 | [Carelessly Doomed \(feat\. Kota the Friend\)](https://open.spotify.com/track/6Ey8YJdrWxTFaD66Krb9Pu) | [Chanel Loren](https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK), [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [Carelessly Doomed \(feat\. Kota the Friend\)](https://open.spotify.com/album/1wMeUoSh49hCsM0ayZDjTO) | 3:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 | 99 | [On the Rocks](https://open.spotify.com/track/68qevxiwR8ypuZz05Pes9h) | [Foley](https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE) | [Crowd Pleaser](https://open.spotify.com/album/60vWUnWhnEsAyJfcEp8C1u) | 2:50 |
 | 100 | [Baby Mama](https://open.spotify.com/track/6Tw2kvzyRYMQLq0kNhX83w) | [Bailey Wiley](https://open.spotify.com/artist/48mqgfPfJ8cyxGNNJ2jpSO) | [Baby Mama](https://open.spotify.com/album/7cDGoweZdUcioBZTTWbAOs) | 3:34 |
 
-Snapshot ID: `MCwzMzM0NzQ1MWEzYjA0YWZmN2QwNjcxZjRiMzg1N2YwZjYyNTYyZTU0`
+Snapshot ID: `MCw5YTMyZjM5NmNlOWM2N2Q4M2EwMGNkYzU1ZGYxMWE1NTc2YmI0MDI0`

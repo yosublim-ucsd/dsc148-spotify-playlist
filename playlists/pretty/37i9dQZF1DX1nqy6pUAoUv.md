@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nqy6pUAoUv.md) - [plain]
 
 > New music and recent favorites from rising and iconic songsmiths and storytellers\. Cover: Rhiannon Giddens
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,704 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,718 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nqy6pUAoUv.md) - [plain]
 | 99 | [BAD DESIRE](https://open.spotify.com/track/61LLFpdZSENbZZIUQhXPcr) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [WHITE NOISE](https://open.spotify.com/album/5WaysJDadbTMvfJLBbuw8b) | 4:13 |
 | 100 | [Stuck In The South](https://open.spotify.com/track/7gCQxWpBtMg2tpEdqGUQa8) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Beyond The Bloodhounds](https://open.spotify.com/album/3N5acrSXdpjx4GBwvvHQv8) | 3:07 |
 
-Snapshot ID: `MCw0Yzc1NTU0YmZlOTUxZmMwNTViZmY2MDAxZTQ3Yzc1YWQ3MWJiMmMw`
+Snapshot ID: `MCxkNjA2YjM2NGM4YWM0OWRkYTVjNTdjYWFjZGY0NTE4NDJmY2ZmM2Ey`

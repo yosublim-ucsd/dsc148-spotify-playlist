@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Qo2zphj7u3.md) - [plain]
 
 > Las románticas de hoy y de siempre\. Foto: Luis Fonsi
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,001,533 likes - 250 songs - 16 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,001,580 likes - 250 songs - 16 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Qo2zphj7u3.md) - [plain]
 | 249 | [Pero Te Extraño](https://open.spotify.com/track/4vcOgk42RP8ViC22ZKGLlt) | [Vikki Carr](https://open.spotify.com/artist/3tM3DTmG7ahfACzwqtazLD) | [Canciones De Amor](https://open.spotify.com/album/2Dm2IPZzeLrOXJEZjGTBM8) | 3:12 |
 | 250 | [Grande, Grande, Grande](https://open.spotify.com/track/7pXvyL99ZXNj4tUfJ8eJqU) | [Vikki Carr](https://open.spotify.com/artist/3tM3DTmG7ahfACzwqtazLD) | [Canciones De Amor](https://open.spotify.com/album/2Dm2IPZzeLrOXJEZjGTBM8) | 4:09 |
 
-Snapshot ID: `MCwxMTk4YTAyZjBkN2Q2ZmMyM2YwN2FlYTIxN2YzZTFhY2RhZmJlZGZj`
+Snapshot ID: `MCw2ZmJlYWM3MTk1NmUyNmQ0YWM3MTZmNDFiZjY5YzVhMWMyM2Y1ZmE2`

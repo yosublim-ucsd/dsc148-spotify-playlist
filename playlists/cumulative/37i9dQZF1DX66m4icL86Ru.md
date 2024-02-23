@@ -4,7 +4,7 @@
 
 > Bad b\*\*\*\* energy\. Be blessed, be spicy\. Cover: Flo Milli
 
-486 songs - 23 hr 37 min
+487 songs - 23 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,7 +184,8 @@
 | [FTCU \(feat\. GloRilla & Gangsta Boo\)](https://open.spotify.com/track/4lxTmHPgoRWwM9QisWobJL) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Gangsta Boo](https://open.spotify.com/artist/3ppZNqihWOzuH4A0f4KmeP) | [FTCU \(feat\. GloRilla & Gangsta Boo\)](https://open.spotify.com/album/5MnLj1SQmw3nr7oTbJgtuB) | 2:25 | 2022-12-02 | 2022-12-17 |
 | [fue mejor \(feat\. SZA\)](https://open.spotify.com/track/4AIiCP2scA6jt6jAKfkvTX) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Sin Miedo \(del Amor y Otros Demonios\) ∞ \[Deluxe Version\]](https://open.spotify.com/album/64SrjXrYNfYvQcccFmYEHu) | 3:50 | 2021-12-17 | 2022-02-26 |
 | [Funk Rave](https://open.spotify.com/track/0nVpE03Iv9uioPSomEN5v0) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Funk Rave](https://open.spotify.com/album/0ebWdQJChnUaxvwx7BWsnu) | 2:27 | 2023-06-23 | 2023-07-13 |
-| [FΛSHION](https://open.spotify.com/track/4YQgOgIElFtEvwJQ9ArWL7) | [Britney Manson](https://open.spotify.com/artist/7GtPtPbDC5CLNzSNxVpqaf) | [FΛSHION](https://open.spotify.com/album/7umRaDZ9FqTaL2EWZvGMEX) | 2:26 | 2023-09-19 |  |
+| [FΛSHION](https://open.spotify.com/track/4YQgOgIElFtEvwJQ9ArWL7) | [Britney Manson](https://open.spotify.com/artist/7GtPtPbDC5CLNzSNxVpqaf) | [FΛSHION](https://open.spotify.com/album/7umRaDZ9FqTaL2EWZvGMEX) | 2:26 | 2023-09-19 | 2024-02-23 |
+| [FΛSHION](https://open.spotify.com/track/70jiETKdlLEram2zJSHdHH) | [Britney Manson](https://open.spotify.com/artist/7GtPtPbDC5CLNzSNxVpqaf) | [FΛSHION](https://open.spotify.com/album/6cKTeK2UQ55jCrJcTsDm1h) | 2:26 | 2023-11-24 |  |
 | [Gangsta Boo \(with Lil Tjay\)](https://open.spotify.com/track/2g5q0UpOOFMNOcHGaMG4b0) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Like..?](https://open.spotify.com/album/53cTBnSWosJkQCDPHzumvg) | 2:39 | 2023-04-22 | 2023-07-24 |
 | [Gangsta Boo \(with Lil Tjay\)](https://open.spotify.com/track/3lE8TCA1FKNQthjj73Sjrv) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Like..?](https://open.spotify.com/album/3fZZ4lUejEiCoyLUpqZIi1) | 2:39 | 2023-01-20 | 2023-02-03 |
 | [Gangsta Boo \(with Lil Tjay\)](https://open.spotify.com/track/6Ntj4LvgVgjlprxD2JyhZS) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Like..?](https://open.spotify.com/album/2rfLvysxiPTuk7var3Ugp3) | 2:39 | 2023-01-27 | 2023-04-23 |

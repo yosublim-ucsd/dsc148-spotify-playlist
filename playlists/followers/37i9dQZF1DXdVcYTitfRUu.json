@@ -1,9 +1,27 @@
 {
-  "2024-02-22": 9238,
+  "2024-02-23": 9260,
   "date_first_scraped": "2023-11-11",
   "description": "\uac10\uc131 \uac00\ub4dd\ud55c \ub178\ub798\uc640 \ud568\uaed8 \ubd80\ub4dc\ub7fd\uac8c \ud578\ub4e4\uc744 \ub3cc\ub824\ubcf4\uc138\uc694.",
   "name": "\ub4dc\ub77c\uc774\ube59 \uac10\uc131+ (K-Pop Emotional Driving)",
   "tracks": [
+    {
+      "album": {
+        "name": "25 - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/5qi1T2mLicHngZ0rHxeNsC"
+      },
+      "artists": [
+        {
+          "name": "oceanfromtheblue",
+          "url": "https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166974,
+      "name": "25 - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/1szML6Onangw2A3ppLq1ac"
+    },
     {
       "album": {
         "name": "A Letter",
@@ -158,6 +176,24 @@
     },
     {
       "album": {
+        "name": "Bam Yang Gang",
+        "url": "https://open.spotify.com/album/4QJZzFdGz2YlPZEHAlAJ6O"
+      },
+      "artists": [
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146197,
+      "name": "Bam Yang Gang",
+      "url": "https://open.spotify.com/track/5juCu4WFTFRZ2XilopAMTy"
+    },
+    {
+      "album": {
         "name": "Because I am a woman",
         "url": "https://open.spotify.com/album/6hf7ETkQLEIW5rKkCks9Bl"
       },
@@ -169,7 +205,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 240773,
       "name": "Because I am a woman",
       "url": "https://open.spotify.com/track/0lsnhrK331ObO8FyyvN2iU"
@@ -328,6 +364,24 @@
     },
     {
       "album": {
+        "name": "Closer Than This",
+        "url": "https://open.spotify.com/album/3auDI7RSdoJr99qMNXimP4"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223302,
+      "name": "Closer Than This",
+      "url": "https://open.spotify.com/track/3k6q0O9JnO2GhvD6C8fs20"
+    },
+    {
+      "album": {
         "name": "COVID-19",
         "url": "https://open.spotify.com/album/1RKCttAVNGpm1pTar0drh5"
       },
@@ -343,7 +397,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 196793,
       "name": "COVID-19 (feat. SUPERBEE)",
       "url": "https://open.spotify.com/track/32qLwcEpoKeutWxwrJM4FX"
@@ -423,6 +477,24 @@
       "duration_ms": 177666,
       "name": "Deeper",
       "url": "https://open.spotify.com/track/6LyZwzZAu3DP7RSMJcsy6D"
+    },
+    {
+      "album": {
+        "name": "DIE 4 YOU",
+        "url": "https://open.spotify.com/album/0FMkdX3YNx7Ez7pv3XRGzr"
+      },
+      "artists": [
+        {
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194045,
+      "name": "DIE 4 YOU",
+      "url": "https://open.spotify.com/track/7yZD4AVfQtAZD4cG8eRnPk"
     },
     {
       "album": {
@@ -517,7 +589,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 228426,
       "name": "Floral Sense",
       "url": "https://open.spotify.com/track/7kqCeZ0OmIWDXoo6h9GMpw"
@@ -571,7 +643,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 241586,
       "name": "Fox Rain (The Moon during the Day)",
       "url": "https://open.spotify.com/track/1uNH9a0QFOFZsPUU7B2oxz"
@@ -1253,7 +1325,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 225826,
       "name": "Love..What is it",
       "url": "https://open.spotify.com/track/1q9TLiBIGcjEchuhPSIz8c"
@@ -1426,6 +1498,24 @@
     },
     {
       "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/1g68tNYMO5iS3P2y74vqZ6"
+      },
+      "artists": [
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175866,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/79cmYpry5DEPtK4KbmAUqj"
+    },
+    {
+      "album": {
         "name": "Layover",
         "url": "https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m"
       },
@@ -1539,6 +1629,28 @@
       "duration_ms": 259829,
       "name": "Scented Things",
       "url": "https://open.spotify.com/track/7KonyfgLisLz8TsolKewx4"
+    },
+    {
+      "album": {
+        "name": "Seven (feat. Latto)",
+        "url": "https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184400,
+      "name": "Seven (feat. Latto)",
+      "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"
     },
     {
       "album": {
@@ -1661,7 +1773,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 231759,
       "name": "That's You",
       "url": "https://open.spotify.com/track/2UysjEVKnL55ywc6TuvcQI"
@@ -1705,6 +1817,42 @@
       "duration_ms": 162365,
       "name": "The Moon (Feat. TAEIL of NCT)",
       "url": "https://open.spotify.com/track/6Qfhu8fcLSY8Tw7syG8hdK"
+    },
+    {
+      "album": {
+        "name": "H1-KEYnote #1 [Thinkin' About You]",
+        "url": "https://open.spotify.com/album/4KBc3OzIr0HAqZPlaTBRye"
+      },
+      "artists": [
+        {
+          "name": "H1-KEY",
+          "url": "https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187226,
+      "name": "Thinkin' About You",
+      "url": "https://open.spotify.com/track/3GF5L6dW04zWSP9SYAtp5L"
+    },
+    {
+      "album": {
+        "name": "To. X - The 5th Mini Album",
+        "url": "https://open.spotify.com/album/0VciVDVU6NoqtQ0WAIlTmD"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170386,
+      "name": "To. X",
+      "url": "https://open.spotify.com/track/2gyCwrOcC6JBoaJ8JGJ7T8"
     },
     {
       "album": {
@@ -1759,7 +1907,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 226680,
       "name": "We Love Each Other",
       "url": "https://open.spotify.com/track/5rs94R9T7hFEziBB4sQj2G"
@@ -1821,7 +1969,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 194739,
       "name": "Wicked",
       "url": "https://open.spotify.com/track/3B4u3uZGm7PCfhc18oTi1J"

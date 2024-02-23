@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 
 > Warm indie dance vibes, the music you need at golden hour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 511,083 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 511,199 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 | 99 | [Sunlight \(feat\. Years and Years\) \- Darius Remix](https://open.spotify.com/track/2FsGvAxjBVUCaFrm3uDmHV) | [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM), [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc), [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK) | [Sunlight \(feat\. Years & Years\) \[Remixes\]](https://open.spotify.com/album/08jeLY28AzZc8yEQ9jcUBO) | 4:04 |
 | 100 | [Kyle \(i found you\)](https://open.spotify.com/track/0v1g5U1OAb0XBjKyA8R36i) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Kyle \(i found you\)](https://open.spotify.com/album/2myK0q2FH45JQRUxepp4en) | 3:16 |
 
-Snapshot ID: `MCwxYjQyYjlkOThhMWQxMTI2ZWQ2ZTU3NTdlNWM3ZDU2NTM0NTc5ZTY3`
+Snapshot ID: `MCw3ODQyMzk1MmM3MmI3ZDU4Mjg1NTEwYmY4YTllOTk2OTJlYWVjYmYx`

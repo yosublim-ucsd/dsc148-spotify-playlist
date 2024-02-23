@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 
 > Illuminating Asian artists everywhere\. Cover: Emei.
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,688 likes - 150 songs - 7 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,714 likes - 150 songs - 7 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 | 149 | [ADHD](https://open.spotify.com/track/61B4mVUvs1m3WvtIbOzHzp) | [Lucy Tun](https://open.spotify.com/artist/6OtMoXdFTNYbPwyx1M6Yk6) | [Unreal](https://open.spotify.com/album/2IjTLiLnqonRQxxCqiO0pR) | 2:43 |
 | 150 | [Grateful](https://open.spotify.com/track/65G1IOmG8zB627cyYUOyHJ) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Justin Kawika Young](https://open.spotify.com/artist/12V3c5AeHKmadjjklZACbR) | [Grateful](https://open.spotify.com/album/46y9A8jOZER0IDa3Q8wJDc) | 3:40 |
 
-Snapshot ID: `MCwwOWMxMjg3ZTMzZDA5NDE3YWIyNDY2MmQ0MzIxZmRiOTBmNmJjMzQ2`
+Snapshot ID: `MCwwZGQ0MzExYWMzY2QzZTcxNGRiNTU2NWYwY2UxZDVkNWQ2MTY5MjBj`

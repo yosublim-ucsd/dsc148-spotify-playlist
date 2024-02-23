@@ -1,12 +1,12 @@
 {
   "description": "The ultimate line-up of Summer anthems, strap in !!!",
-  "num_followers": 7166,
+  "num_followers": 1580,
   "original_name": "Summer: The Greatest Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZTU1ZTgxYzczN2UyMGM3YjdjY2ZlZDY3ZjNiOTZhMzdlYWQ1OGEw",
+  "snapshot_id": "MCxlMzcxNjVkYTE0NmFjMmM1ZGY1NGM1YWY0ZmRhMjRiODFkYzdjNDJj",
   "tracks": [
     {
       "added_at": "2023-02-28 16:56:35",
@@ -1055,6 +1055,26 @@
     {
       "added_at": "2023-02-28 16:56:35",
       "album": {
+        "name": "Stereo Love",
+        "url": "https://open.spotify.com/album/1g9MChpxVdgoyA7kMbcnfj"
+      },
+      "artists": [
+        {
+          "name": "Edward Maya",
+          "url": "https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq"
+        },
+        {
+          "name": "Vika Jigulina",
+          "url": "https://open.spotify.com/artist/34dZRjYum6vVBGslgYaBtB"
+        }
+      ],
+      "duration_ms": 155755,
+      "name": "Stereo Love - UK Radio Edit",
+      "url": "https://open.spotify.com/track/6TyXieyAu2z51H6VMPKRI4"
+    },
+    {
+      "added_at": "2023-02-28 16:56:35",
+      "album": {
         "name": "Do You Really Like It? (Remixes)",
         "url": "https://open.spotify.com/album/6Q29k7cHbnjX8ErN6B32GV"
       },
@@ -1391,30 +1411,6 @@
       "duration_ms": 210360,
       "name": "Black & Gold - Radio Edit",
       "url": "https://open.spotify.com/track/1r9G1B0OJzb2O8NBPo4vLL"
-    },
-    {
-      "added_at": "2023-02-28 16:56:35",
-      "album": {
-        "name": "Stereo Love",
-        "url": "https://open.spotify.com/album/2EOw23rlpH4xu9LikN3Oaq"
-      },
-      "artists": [
-        {
-          "name": "lorche",
-          "url": "https://open.spotify.com/artist/644qnZiBHVcjcMCHsiV0PL"
-        },
-        {
-          "name": "Elianex",
-          "url": "https://open.spotify.com/artist/2XIEM9f7J5MN9fTsdNthAM"
-        },
-        {
-          "name": "ZETH INC.",
-          "url": "https://open.spotify.com/artist/6CH6yCwls8JUmh0J4tKdxj"
-        }
-      ],
-      "duration_ms": 155921,
-      "name": "Stereo Love",
-      "url": "https://open.spotify.com/track/2ZNbSbLeXhFEwLvbV6tJjK"
     },
     {
       "added_at": "2023-02-28 16:56:35",

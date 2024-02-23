@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-12",
+      "date_removed": null,
       "duration_ms": 113684,
       "name": "act ii: date @ 8",
       "url": "https://open.spotify.com/track/4HMop4Re0iucehmF7mgV27"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 133333,
       "name": "ARABA",
       "url": "https://open.spotify.com/track/5tjWDHOCqsbKPuiivil0BM"
@@ -106,7 +106,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 132160,
       "name": "Beanie",
       "url": "https://open.spotify.com/track/2NlxHzUzAHhNcZdaOEuLzq"
@@ -688,7 +688,7 @@
       ],
       "date_added": "2024-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-21",
+      "date_removed": null,
       "duration_ms": 128205,
       "name": "if u think i'm pretty",
       "url": "https://open.spotify.com/track/1ACA277B6f46DYCgZW8di3"
@@ -1720,7 +1720,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-22",
+      "date_removed": null,
       "duration_ms": 159636,
       "name": "Scared To Start",
       "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
@@ -1775,6 +1775,32 @@
     },
     {
       "album": {
+        "name": "LES DERNI\u00c8RES VOLONT\u00c9S DE MOZART (SYMPHONY)",
+        "url": "https://open.spotify.com/album/3kODAAfimujT9QY8PaNgDn"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        },
+        {
+          "name": "SativaMusic",
+          "url": "https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188484,
+      "name": "SEYA",
+      "url": "https://open.spotify.com/track/3bdJXs70t2ybhfrDH6zyv4"
+    },
+    {
+      "album": {
         "name": "She Likes a Boy",
         "url": "https://open.spotify.com/album/79GumpEw4n1qXIahUOrdNv"
       },
@@ -1822,7 +1848,7 @@
       ],
       "date_added": "2024-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-21",
+      "date_removed": null,
       "duration_ms": 333506,
       "name": "Shik Shak Shok - Remastered",
       "url": "https://open.spotify.com/track/7iT3T5K9J8MfxjigwzpRkK"
@@ -1848,7 +1874,7 @@
       ],
       "date_added": "2024-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 254068,
       "name": "SHMENTI KAPELI",
       "url": "https://open.spotify.com/track/17BXmo1cICBExGOhfJUhHB"
@@ -2602,7 +2628,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 225166,
       "name": "\u041c\u0430\u0439\u043d\u0430\u0442\u0430 \u0442\u0438 \u0421\u0432. \u0412\u0430\u043b\u0435\u043d\u0442\u0438\u043d (feat. Medi)",
       "url": "https://open.spotify.com/track/2dKJ9C81tTxEb9VvztEpah"
@@ -2710,7 +2736,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 177777,
       "name": "\u0422\u0432\u043e\u0438\u0442\u0435 \u0434\u0443\u043c\u0438",
       "url": "https://open.spotify.com/track/1mcdglNrPXMRMUoCCBYg2Z"

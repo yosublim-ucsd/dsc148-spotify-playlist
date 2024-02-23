@@ -3555,6 +3555,28 @@
     },
     {
       "album": {
+        "name": "Almost Healed",
+        "url": "https://open.spotify.com/album/6ciIG1XKTlVIn0Yl8rvsce"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87751,
+      "name": "Therapy Session",
+      "url": "https://open.spotify.com/track/7sc6s7JYr53wn2zBF2Fg1R"
+    },
+    {
+      "album": {
         "name": "The Element Of Freedom",
         "url": "https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN"
       },

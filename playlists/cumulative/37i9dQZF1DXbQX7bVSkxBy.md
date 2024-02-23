@@ -2,7 +2,7 @@
 
 ### [Testify](https://open.spotify.com/playlist/37i9dQZF1DXbQX7bVSkxBy)
 
-> Raise a voice and testify the goodness of God\.  Cover:  <a href=https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn?si=ufvviwyFRdmPwgIEioNVWA>Neon Adejo</a>
+> Raise a voice and testify the goodness of God\.  Cover:  <a href=https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp?si=6mutUARsSHKhKJdS7KpqAw>Chidiya Ohiagu</a>
 
 217 songs - 17 hr 11 min
 

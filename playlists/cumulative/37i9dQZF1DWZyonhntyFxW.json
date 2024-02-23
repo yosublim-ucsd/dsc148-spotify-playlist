@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "\u0627\u0633\u0645\u0643 \u0641\u0627\u0634\u0644 \u0628\u064a\u0646 \u0627\u0644\u0628\u0631\u0627\u0643\u062a\u0633\u0633\u0633\u060c \u0628\u0644\u0639\u0628 \u0628\u064a\u0647\u0645 \u064a\u0633\u0637\u0649 \u0631\u0643\u062a\u0633\u0633\u0633\u060c \u0628\u0643\u062a\u0641\u0647\u0645 \u0632\u064a \u062c\u0643\u062a\u0633\u0633\u0633 \u063a\u0644\u0627\u0641: \u0623\u0628\u064a\u0648\u0633\u0641 ",
+  "description": "\u0643\u0644\u0648 \u0639\u0644\u0649 \u0627\u0644\u0627\u0646\u062a\u0627\u062c \u0648 \u0628\u0632\u0646\u0633 \u0648 \u0643\u062f\u0629. \u063a\u0644\u0627\u0641: \u0643\u0631\u064a\u0645 \u0627\u0633\u0627\u0645\u0629 ",
   "name": "\u0645\u0644\u0648\u0643 \u0627\u0644\u0633\u064a\u0646",
   "tracks": [
     {
@@ -398,7 +398,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 151603,
       "name": "Ahmed Santa",
       "url": "https://open.spotify.com/track/6GJQiSob1lScp9tnlTvMfp"
@@ -634,7 +634,7 @@
       ],
       "date_added": "2024-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 186880,
       "name": "Baby",
       "url": "https://open.spotify.com/track/4TwTditvJMYwrziGh8lie2"
@@ -1654,7 +1654,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 113208,
       "name": "FOKAK MENI",
       "url": "https://open.spotify.com/track/56ohyUS0aLJpk10OQhleUD"
@@ -2488,6 +2488,28 @@
       "duration_ms": 126857,
       "name": "LOGAN",
       "url": "https://open.spotify.com/track/3TFIDBWstsKUbXBGedJAWO"
+    },
+    {
+      "album": {
+        "name": "OK.",
+        "url": "https://open.spotify.com/album/5MGO9Vex1LqakMmpJoANzZ"
+      },
+      "artists": [
+        {
+          "name": "Karim Osama",
+          "url": "https://open.spotify.com/artist/4bQtsYtDirwKccFyRXzwUW"
+        },
+        {
+          "name": "Riff",
+          "url": "https://open.spotify.com/artist/3uMm7CPUx2akjaBXYIveP7"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150508,
+      "name": "Lojy",
+      "url": "https://open.spotify.com/track/3dAhErSXqu7WxM5wJp48By"
     },
     {
       "album": {
@@ -4357,6 +4379,24 @@
     },
     {
       "album": {
+        "name": "OK.",
+        "url": "https://open.spotify.com/album/5MGO9Vex1LqakMmpJoANzZ"
+      },
+      "artists": [
+        {
+          "name": "Karim Osama",
+          "url": "https://open.spotify.com/artist/4bQtsYtDirwKccFyRXzwUW"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208135,
+      "name": "Taw3ya",
+      "url": "https://open.spotify.com/track/6wMQp7F7B09atuwvrqR9gC"
+    },
+    {
+      "album": {
         "name": "TEENA",
         "url": "https://open.spotify.com/album/7I91H8tRd87f94rpb8cdcr"
       },
@@ -4390,6 +4430,24 @@
       "duration_ms": 196363,
       "name": "Tege Goal",
       "url": "https://open.spotify.com/track/5ptN0LBbIyZrxP9RLAwq5N"
+    },
+    {
+      "album": {
+        "name": "TESH SHABAB",
+        "url": "https://open.spotify.com/album/72kwga9yphmifAq4pErvlr"
+      },
+      "artists": [
+        {
+          "name": "TUL8TE",
+          "url": "https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146742,
+      "name": "TESH SHABAB",
+      "url": "https://open.spotify.com/track/1aC1NuZAVnh7e1n2w9UzGD"
     },
     {
       "album": {

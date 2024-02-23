@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadasIcsfbqh.md) - [plain]
 
 > Pop country hits of today and tomorrow\. Cover: BRELAND
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,588 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,681 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadasIcsfbqh.md) - [plain]
 | 99 | [Pickup](https://open.spotify.com/track/2kEhQe0BVtY8IIaFE5ALA0) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Pickup](https://open.spotify.com/album/75yTVtHRGlobA0IvgGG59X) | 2:48 |
 | 100 | [Rocket Science](https://open.spotify.com/track/6mbeLmisQkm2lyAbinPunm) | [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [Rocket Science / You Don’t Love Me](https://open.spotify.com/album/23BaWTGCVFzPqnJ6BGVDcZ) | 3:27 |
 
-Snapshot ID: `MCw1Yzk1NTBmZjUzZGY5OTY2ODM4ZjAyOGNkMWNlMjk5ZjI5MmMzMWZj`
+Snapshot ID: `MCw2Yzk5Y2Q1ZGMyZmU5ZGJhNzYzODI4YTFjMWE4Nzk0NzIzYjU0MmE5`

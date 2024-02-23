@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 
 > A playlist of some of our favorite new songs, updated weekly\. See our archived playlists for songs from previous weeks.
 
-[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 10,274 likes - 34 songs - 2 hr 8 min
+[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 10,279 likes - 34 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 | 18 | [The Rain That Falls](https://open.spotify.com/track/11dc5j25DJ6583HH49UY0X) | [Cast](https://open.spotify.com/artist/0vBDEQ1aLZpe4zgn2fPH6Z) | [Love Is The Call](https://open.spotify.com/album/3vXbvosjdqZUsHLuh531wZ) | 4:29 |
 | 19 | [Black Air Force](https://open.spotify.com/track/3p40Dn8L2BUvaufeRBBLgm) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [GRIP](https://open.spotify.com/album/6yQiAySk0ELR4cjDCgSqtY) | 2:48 |
 | 20 | [Dark Options](https://open.spotify.com/track/7oePttFWNJV7k4uX0GQhvm) | [Prize Horse](https://open.spotify.com/artist/4pIntP5eVpHl5B8jHXUDtD) | [Under Sound](https://open.spotify.com/album/0TP4Dcx8E8VLkNTkZe90pU) | 4:59 |
-| 21 | [I’m A Man](https://open.spotify.com/track/4RdqVrjTnuEms5pgKNG95q) | [Kim Gordon](https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx) | [I'm A Man](https://open.spotify.com/album/1GDSTZ2T6bOGQdFtjXTZn4) | 4:31 |
+| 21 | [I'm A Man](https://open.spotify.com/track/4RdqVrjTnuEms5pgKNG95q) | [Kim Gordon](https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx) | [I'm A Man](https://open.spotify.com/album/1GDSTZ2T6bOGQdFtjXTZn4) | 4:31 |
 | 22 | [I Could Drive You Crazy](https://open.spotify.com/track/41FgxEQPfzOWhyzb3vSmKi) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [I Could Drive You Crazy](https://open.spotify.com/album/3io77WHK4cVk4JKKcFS4Kq) | 3:36 |
 | 23 | [Yeern 101](https://open.spotify.com/track/3K5yjMCFHN4TRWKj1zdKIQ) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Yeern 101](https://open.spotify.com/album/1G1kvp5sKVBposBjP4xUy2) | 2:26 |
 | 24 | [Trepanation](https://open.spotify.com/track/2qohTQsfJbWHdXDsj2SaY8) | [Wristmeetrazor](https://open.spotify.com/artist/2d75DTub8rPPrm6veUsyf6) | [Trepanation](https://open.spotify.com/album/7C9jZu04hoVqLeUMlHJbE3) | 2:28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRAOlygQnpT.md) - [plain]
 
 > ¡Ahi viene la plaga..\. por eso, aviéntense todos a bailar!
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,039 likes - 100 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,094 likes - 100 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRAOlygQnpT.md) - [plain]
 | 99 | [Twist del Perro](https://open.spotify.com/track/2ywie6JDekOY3roCbQWxG0) | [Los Rogers](https://open.spotify.com/artist/2m7zyOAASO7A8ipy4XkDcC) | [15 Exitos del Rock & Roll](https://open.spotify.com/album/2dPVpmxzzFtycLo8C8U1Uh) | 2:19 |
 | 100 | [La Respuesta Está En El Viento](https://open.spotify.com/track/50NUNjnzD6sXh54NpMLujS) | [Vianey Valdez](https://open.spotify.com/artist/1y6MyiByAJqCEhl0VNg8qs) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 3:16 |
 
-Snapshot ID: `MCw5ZTNhY2RiN2Q0M2E4YTM4ZjlhMzVmNzJiYzdkM2JkZDUzNjk5ZmI2`
+Snapshot ID: `MCw0MDRhMWU4NWZjOTMyYTA3ZThjODVhZmZkNGE2ODcwOWU2OWNjNjVk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 
 > Artistas LGBTQIA+ que brillan e inspiran.<br/>Cover: Adrian Bello
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,325 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,336 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 99 | [El Gran Varón](https://open.spotify.com/track/0vxgL9ele9vzJbWrVDrL6Y) | [Ana Macho](https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu), [La Brega](https://open.spotify.com/artist/7n3zQKm0K6MOVshW2qjBsp) | [El Gran Varón](https://open.spotify.com/album/0MQR3TIJWypZjcadiyFcbV) | 4:50 |
 | 100 | [Buena Suerte Muchacha](https://open.spotify.com/track/2YY77lkRQXm4B4fdTHkrbO) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Índigo](https://open.spotify.com/album/1JUFR4Qgot2SmMssrlsYNz) | 3:13 |
 
-Snapshot ID: `MCw2MjUyY2IyMzE3ZWY5Zjg2MzIwNjM0MjVjNjRkNTZiMDE5ZTkwYzk0`
+Snapshot ID: `MCxkZTQxMjJkNzVhOTMxOTg0N2UxYTdkMmI5MDM5NGVhZjg1NTUwODM4`

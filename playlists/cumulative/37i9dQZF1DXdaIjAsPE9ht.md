@@ -4,7 +4,7 @@
 
 > sad lofi to keep your thoughts company when u r down\. remember this too shall pass
 
-93 songs - 3 hr 33 min
+96 songs - 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Evelyn Walk](https://open.spotify.com/track/2pWEy7ChzrcnPYJHATnXq3) | [Clint Is Quinn](https://open.spotify.com/artist/1utD3S9jRGZPWdNeLuoaOx) | [Evelyn Walk](https://open.spotify.com/album/0ichHI0kN9SDEbqJtGxxVq) | 2:37 | 2023-10-27 |  |
 | [fingerlock](https://open.spotify.com/track/3oRubNxLgB33gbB7OqfhNg) | [Arthur Wu](https://open.spotify.com/artist/3FvtuXFdOgdAl7Gsi91GFV) | [fingerlock](https://open.spotify.com/album/30gzL3AApuVLB10SZXooW2) | 2:06 | 2023-10-27 |  |
 | [Fonnes](https://open.spotify.com/track/65UIzaDJ2rx4pITfzsBCp6) | [J Mariou](https://open.spotify.com/artist/0EtOuwnEN1iBz6miiq5NfW) | [Fonnes](https://open.spotify.com/album/04ImQ4X8Cf4mrs9jK4KOLB) | 2:14 | 2023-10-27 |  |
+| [four star restaurant](https://open.spotify.com/track/5OGxjOExU6JWucuin2XAUs) | [the tofu paradigm](https://open.spotify.com/artist/3Ux7jaAusHBJAKgdzZ1RCe) | [four star restaurant](https://open.spotify.com/album/3my19QS6hdNjkwc6WrBulN) | 2:51 | 2024-02-23 |  |
 | [Free Trees](https://open.spotify.com/track/23xwWliB2C9ebh21I7kD0U) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [Free Trees](https://open.spotify.com/album/377keRBbyFcp49RdaFw90Z) | 2:30 | 2023-10-27 |  |
 | [frost](https://open.spotify.com/track/4bmuGIHRJYMjL02yXZeoCd) | [Griffin' Groove](https://open.spotify.com/artist/24NgW9lCc4H75rz6nrfpzD) | [frost](https://open.spotify.com/album/09z9j5sgQR4FjntLAgjqV0) | 2:40 | 2023-10-27 |  |
 | [frosty haze](https://open.spotify.com/track/5C7f7HJ1RhwU9ou9JjvznH) | [Harry G's Beats](https://open.spotify.com/artist/59fTGxMpUBkID2RojOnA8V) | [frosty haze](https://open.spotify.com/album/5gLdHeQNfBmKrncIl6o76L) | 2:10 | 2024-01-05 |  |
@@ -63,6 +64,7 @@
 | [Memories & Notes](https://open.spotify.com/track/0LJeA9BFfwRfsOTxzhWzCF) | [Juliette](https://open.spotify.com/artist/2A9ozO2R5liuK6dMrhJwnQ) | [Memories & Notes](https://open.spotify.com/album/3EeK9doDTJjMcpLw7gDQbt) | 1:53 | 2023-10-27 |  |
 | [Memories Fade](https://open.spotify.com/track/40rSlnWWx2p4r9lLOwNn96) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [Memories](https://open.spotify.com/album/5xIENE9mYM9cIqbqs4MuF7) | 2:27 | 2023-10-27 | 2023-11-18 |
 | [memory](https://open.spotify.com/track/3kp7TJruKzJUlr3entkFZ2) | [Tatami Construct](https://open.spotify.com/artist/3DS80e9pCgy5RyTztgncuC) | [soul](https://open.spotify.com/album/4uQ6ul2x84hfo75G4hl7EW) | 3:35 | 2023-10-27 |  |
+| [Metropolis Moods](https://open.spotify.com/track/4v2AVfVsqsnYdGVkUUdKag) | [LOFI FRAN](https://open.spotify.com/artist/79lYlTTaSsCLvanVBtYWf6) | [Metropolis Moods](https://open.spotify.com/album/5GNIh6i7uaucdL1Go5fuF8) | 2:03 | 2024-02-23 |  |
 | [Mirror](https://open.spotify.com/track/6wa6akH9SHPLIePf1Hl4Bs) | [Blue Bag](https://open.spotify.com/artist/4rtwUGOQwVUZGAlQYh02ar) | [Mirror](https://open.spotify.com/album/5hDzkcdJRdVxdfwZDUiRta) | 2:04 | 2024-01-05 |  |
 | [No Awake Zone](https://open.spotify.com/track/1CjQkzy5U9tfFioVFXBqvp) | [Pat Laine](https://open.spotify.com/artist/4ayEtUqC4VtbghdfnMjW9g) | [No Awake Zone](https://open.spotify.com/album/3Le5RTJqJ8uPcK3XEdOYC3) | 2:18 | 2023-10-27 |  |
 | [No I'm Not](https://open.spotify.com/track/2QE6nuYctAHddZOupghtms) | [Imfinenow](https://open.spotify.com/artist/4VegDdugwCSdbyoHdObFEy) | [No I'm Not](https://open.spotify.com/album/2Zya2z365pr9vclFnyZ0jh) | 1:57 | 2023-10-27 |  |
@@ -71,6 +73,7 @@
 | [open palms](https://open.spotify.com/track/5UFBTG0Q1OQI3RoBrExjum) | [Meliona](https://open.spotify.com/artist/7GvCcfowrxriTXXoNaiHle) | [open palms](https://open.spotify.com/album/5af6mHMof1QXV0Yq4g4TJU) | 2:07 | 2023-10-27 |  |
 | [perspective](https://open.spotify.com/track/3aLdjPCbmgvfAo3K0zDgRh) | [bax iv](https://open.spotify.com/artist/0JZZhhFnYFY5c4mDXTgj42) | [perspective](https://open.spotify.com/album/3q7cd1dOCKHaIsrovofGGk) | 1:57 | 2023-10-27 |  |
 | [promised you](https://open.spotify.com/track/3X3nG3p7bb4XtGCh0ITsLv) | [Gibun](https://open.spotify.com/artist/2UjKSDLr7jx5VWshKXQ0bT) | [promised you](https://open.spotify.com/album/4y1qZp2i3lKxfWxrMlMeHb) | 2:06 | 2023-10-27 |  |
+| [rainclouds](https://open.spotify.com/track/13vQBrsVfdgkRwoPJ1Kniq) | [xOHARA](https://open.spotify.com/artist/2Sebo5izi3H67nS858uHoK) | [rainclouds](https://open.spotify.com/album/6T0tFcQXo5JXbmLtfXpcef) | 2:03 | 2024-02-23 |  |
 | [rainforest echo](https://open.spotify.com/track/6XGIuWgTPuarzwUtLRaBCe) | [miura x miura](https://open.spotify.com/artist/24JB4ExVYytyA9AN9tBgMc) | [rainforest echo](https://open.spotify.com/album/6cW8eS7qg8QIlfAoqaBFel) | 2:05 | 2024-01-19 |  |
 | [rainy days](https://open.spotify.com/track/4dYfEHMUW9TxpYg8B5Iv5y) | [Kaptain Kola](https://open.spotify.com/artist/2WVOlt6L2d41Pu8xhEbFgn) | [rainy days](https://open.spotify.com/album/65inz801tjfzT0VvCCoj7N) | 2:05 | 2024-01-12 |  |
 | [reflections in water](https://open.spotify.com/track/5ZPeC07wnQMCVJ4FU6tee9) | [sample mode](https://open.spotify.com/artist/2DGAFB9eNsTcy6LSlvbNft), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [reflections in water](https://open.spotify.com/album/2HxJ1HI1Anen7ey9SJWIWI) | 2:20 | 2023-10-27 |  |

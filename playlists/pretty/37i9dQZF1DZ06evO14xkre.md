@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO14xkre.md) - [plain]
 
 > This is Kali Uchis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,423 likes - 48 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,595 likes - 48 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO14xkre.md) - [plain]
 | 47 | [Are You Feeling Sad?](https://open.spotify.com/track/60v8m0VhlTqw7GgIQDxNbq) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [New Me, Same Us](https://open.spotify.com/album/3PuofR78j1BFBGBrNCCYUF) | 2:38 |
 | 48 | [i want war \(BUT I NEED PEACE\)](https://open.spotify.com/track/5Dx8iEsMuNrf7aF9TMV0Xe) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [TO FEEL ALIVE EP](https://open.spotify.com/album/2qn5Z50z9x2qAIyWV5lt9E) | 2:39 |
 
-Snapshot ID: `Mjg0NzUyOTAsMDAwMDAwMDA2ZWY3YjA3YjVjZDZhMWJlMDA3YjJhMTNkYWZkMmE1Nw==`
+Snapshot ID: `Mjg0NzcwNzUsMDAwMDAwMDBkZjkwMGYxY2ZjNDBjNmZkMmUzODI1MDVmYThlZDgzYw==`

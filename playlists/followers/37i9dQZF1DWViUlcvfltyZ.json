@@ -1,5 +1,5 @@
 {
-  "2024-02-22": 84086,
+  "2024-02-23": 84087,
   "date_first_scraped": "2022-05-11",
   "description": "La playlist che \u00e8 come andare ai concerti! Novit\u00e0 rock, indie e punk dall'Italia. Cover: COMRAD, WISM",
   "name": "Rock Italia",
@@ -3749,24 +3749,6 @@
       "duration_ms": 168000,
       "name": "E tu sei la volpe",
       "url": "https://open.spotify.com/track/4A3F2MYd1lh8h0WGJz5Jik"
-    },
-    {
-      "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/668NDGomX3g2cXYwOsAjcm"
-      },
-      "artists": [
-        {
-          "name": "Tiger! Shit! Tiger! Tiger!",
-          "url": "https://open.spotify.com/artist/4bDMgWpIKWkL8HIVGzx6ed"
-        }
-      ],
-      "date_added": "2024-02-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 347000,
-      "name": "Echoes",
-      "url": "https://open.spotify.com/track/0HH0MNrEF5hzFjEWmbEHaP"
     },
     {
       "album": {
@@ -7599,6 +7581,24 @@
       "duration_ms": 223293,
       "name": "Memories of Another Life",
       "url": "https://open.spotify.com/track/5OSZz2DRRgpBbKGpfsdiKA"
+    },
+    {
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/668NDGomX3g2cXYwOsAjcm"
+      },
+      "artists": [
+        {
+          "name": "Tiger! Shit! Tiger! Tiger!",
+          "url": "https://open.spotify.com/artist/4bDMgWpIKWkL8HIVGzx6ed"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347000,
+      "name": "Memory",
+      "url": "https://open.spotify.com/track/0HH0MNrEF5hzFjEWmbEHaP"
     },
     {
       "album": {

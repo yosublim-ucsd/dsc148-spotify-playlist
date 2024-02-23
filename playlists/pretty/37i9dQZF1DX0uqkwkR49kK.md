@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uqkwkR49kK.md) - [plain]
 
 > A collection of insane progressive rock creations, from classic acts to recent gems\. Cover: Rush
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,094 likes - 50 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,193 likes - 50 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uqkwkR49kK.md) - [plain]
 | 13 | [Fear of a Blank Planet](https://open.spotify.com/track/5TnIBKE4G3OEqOnRG7gnNb) | [Porcupine Tree](https://open.spotify.com/artist/5NXHXK6hOCotCF8lvGM1I0) | [Fear of a Blank Planet](https://open.spotify.com/album/59J51uy6r6QcYe7cX0Fzz6) | 7:30 |
 | 14 | [Thick as a Brick \(Pt\. I\) \- 1997 Remaster](https://open.spotify.com/track/0eufeeCADKlpxLA7HATWBW) | [Jethro Tull](https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R) | [Thick as a Brick](https://open.spotify.com/album/1ZxChDw03SUFGUz0RC8A8M) | 22:40 |
 | 15 | [Bloody Well Right](https://open.spotify.com/track/2SmlWvdYG6FsagxN3FkHMI) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Crime Of The Century \(Remastered\)](https://open.spotify.com/album/2wrHaulTgqqkVKx0k7Kq4r) | 4:32 |
-| 16 | [On the Loose \- Remastered](https://open.spotify.com/track/1gRqRvIyDWIkEuczfC4krI) | [Saga](https://open.spotify.com/artist/09u8U2kk11NOZFLcNJEdJF) | [Worlds Apart \(Remastered 2021\)](https://open.spotify.com/album/4hlUznCGhZql7AKlitaPbj) | 4:12 |
+| 16 | [On the Loose](https://open.spotify.com/track/2WJvcoVqoj5j6ciImA9orj) | [Saga](https://open.spotify.com/artist/09u8U2kk11NOZFLcNJEdJF) | [Worlds Apart](https://open.spotify.com/album/2vrkrjQsrXnie0Eel1M2a5) | 4:12 |
 | 17 | [Karn Evil 9 1st Impression, Pt\. 2 \(2014 \- Remaster\)](https://open.spotify.com/track/6WfjV745TiUcD8KdUKp241) | [Emerson, Lake & Palmer](https://open.spotify.com/artist/0nCiidE5GgDrc5kWN3NZgZ) | [Brain Salad Surgery](https://open.spotify.com/album/4j4WEcCFjM5uotti6JG2fk) | 4:45 |
 | 18 | [La Villa Strangiato](https://open.spotify.com/track/4CyElmiM9EF9aURGWlPZLi) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Hemispheres](https://open.spotify.com/album/2vrM9ltjKIvNg3nkwXoJuc) | 9:34 |
 | 19 | [The King Will Come](https://open.spotify.com/track/2Lathi1zVEUYJtnyp8BkUW) | [Wishbone Ash](https://open.spotify.com/artist/77zwstbi3x1IxnbDFg6uns) | [Argus \(Expanded Edition\)](https://open.spotify.com/album/7xEluvnbmFtRB5g66CJ2ND) | 7:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uqkwkR49kK.md) - [plain]
 | 49 | [Drunkship Of Lanterns](https://open.spotify.com/track/1hWw1UGI5GuowixFmunO9y) | [The Mars Volta](https://open.spotify.com/artist/75U40yZLLPglFgXbDVnmVs) | [Deloused in the Comatorium](https://open.spotify.com/album/0CA2EVHhRPR5VPV78KZw89) | 7:05 |
 | 50 | [The Crowing](https://open.spotify.com/track/7fT97iUO2mul3BIAAut70b) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [In Keeping Secrets Of Silent Earth: 3](https://open.spotify.com/album/2oWXmi9uLRKn60yRmY22MB) | 6:35 |
 
-Snapshot ID: `MCw5NTM5NTdmYTlmOWFjNGNmNzM5ZWQ1MDEyM2RhYTZjNmUwNTg2YjBh`
+Snapshot ID: `MCw3NWNlNjAxMmE2M2U3OWM5ZDMxNmZlYmI1MGJhOGRjZjM2YzRlMmIz`

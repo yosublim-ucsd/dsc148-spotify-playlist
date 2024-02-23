@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 
 > The best new songs from modern singer\-songwriters\. Cover: Adrianne Lenker
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,684 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,730 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 | 99 | [Bed I Made \- ft\. Alessia Cara](https://open.spotify.com/track/370wRdlSnMviWrX6Emc0D2) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa), [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [APART](https://open.spotify.com/album/7i97vd4smLer2gGBSvfjK6) | 3:00 |
 | 100 | [Witness \- feat\. Rajiv Dhall](https://open.spotify.com/track/3zC3W1qHKdfPIjRbjnn56W) | [Rosie Darling](https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI), [Rajiv Dhall](https://open.spotify.com/artist/5vZ5k7ySgoaLpLdZB98nfo) | [Witness \(feat\. Rajiv Dhall\)](https://open.spotify.com/album/1JE0utQ8jkvsB77SJ3gXbt) | 3:33 |
 
-Snapshot ID: `MCxjMDMwYzYxNDIzYTg4ZjZiZDljYjJjNTA1NzE5OGE5Y2YzZTJmNWE0`
+Snapshot ID: `MCwwZTI2ODgwMDk4MzhlOWNkNWFlNGFhMzc5NTNiZTJhMGU4NTE1OWRm`

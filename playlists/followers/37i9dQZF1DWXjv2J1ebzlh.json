@@ -1,5 +1,5 @@
 {
-  "2024-02-22": 107193,
+  "2024-02-23": 107220,
   "date_first_scraped": "2022-06-10",
   "description": "The magical world map! Play it in shuffle \u2600\ufe0f",
   "name": "Bon Voyage",
@@ -5145,7 +5145,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 77346,
       "name": "Bim Bom",
       "url": "https://open.spotify.com/track/1xBNJg2dvZsmUM4yoBag9N"
@@ -5163,7 +5163,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-20",
+      "date_removed": null,
       "duration_ms": 77466,
       "name": "Bim Bom",
       "url": "https://open.spotify.com/track/3seuCZizOQmfyUwhbT2KXc"
@@ -34743,7 +34743,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 199000,
       "name": "Sue\u00f1o hippie",
       "url": "https://open.spotify.com/track/5WfYFmRD9hdeMmCyf0Mm4J"
@@ -34761,7 +34761,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-21",
+      "date_removed": null,
       "duration_ms": 199368,
       "name": "Sue\u00f1o Hippie",
       "url": "https://open.spotify.com/track/1mo44xz8L6dAjKlGul3kCc"
@@ -38169,7 +38169,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 155013,
       "name": "Un Silbido Amoroso",
       "url": "https://open.spotify.com/track/548qXG0DVSXKPuQ51EuvcK"
@@ -38187,7 +38187,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-21",
+      "date_removed": null,
       "duration_ms": 156600,
       "name": "Un Silbido Amoroso",
       "url": "https://open.spotify.com/track/0QOWZ2Iqb36FFecUmLdUTy"
@@ -38659,10 +38659,28 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-22",
       "duration_ms": 222453,
       "name": "Viento",
       "url": "https://open.spotify.com/track/3Mbp68w7qRpkbPX9cdkJAZ"
+    },
+    {
+      "album": {
+        "name": "...El Fabuloso!",
+        "url": "https://open.spotify.com/album/4G1IedTXpiFxfgc8YcIRyC"
+      },
+      "artists": [
+        {
+          "name": "Grupo Celeste",
+          "url": "https://open.spotify.com/artist/34UKlYNjRGEZF8Xzbga81s"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229120,
+      "name": "Viento",
+      "url": "https://open.spotify.com/track/7zL4CNqsvUfRaQhf7umIpR"
     },
     {
       "album": {

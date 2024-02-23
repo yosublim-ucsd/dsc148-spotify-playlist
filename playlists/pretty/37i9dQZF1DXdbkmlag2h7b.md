@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbkmlag2h7b.md) - [plain]
 
 > Drift away with enthralling instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 632,006 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 632,051 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbkmlag2h7b.md) - [plain]
 | 99 | [Affinity](https://open.spotify.com/track/0N0nIMZDHHv9vCbo1XfN5a) | [FANAR](https://open.spotify.com/artist/2cmv3GP75BReBnDT1kWyOE) | [Affinity](https://open.spotify.com/album/6uD6JL6Uw4zWYUc0aRUUvt) | 2:52 |
 | 100 | [Aragorn](https://open.spotify.com/track/2b5orbKm9tbggBIMQu9quT) | [Primer Dia](https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ) | [Tenebris](https://open.spotify.com/album/1fTSx4utQoMMsOizIynWza) | 3:53 |
 
-Snapshot ID: `MCxiZjZmY2I1ODk5ZjM2NmJlMzE1OTgxMDEzZGU1Zjc0Y2MyNDhmZmQ3`
+Snapshot ID: `MCw1NGY5OWFhNzYzNTM0OGM5M2E1YmE0NWQxNGU1YTNiZmVhOWZiYjE1`

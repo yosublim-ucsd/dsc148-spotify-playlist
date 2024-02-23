@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con st\. Pedro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 751,802 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 751,779 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 74 | [Atardeceres](https://open.spotify.com/track/2RCtEkbuEmcyft4OhKTxnA) | [Kevis & Maykyy](https://open.spotify.com/artist/0q32VhVNSEcCRpQaYE1VGH), [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh) | [No me siento vivo](https://open.spotify.com/album/1oUFkdvSYY3IJfoPS18Fpo) | 3:07 |
 | 75 | [Me Gusta Ese Lokito](https://open.spotify.com/track/0nArt1Dx0sI8WnBmXuh8FR) | [Aleesha](https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi) | [Me Gusta Ese Lokito](https://open.spotify.com/album/7lmbsT7oWscPE7qr4fwOXU) | 2:47 |
 
-Snapshot ID: `MCxhN2NiNTNjZTUyNjM3YTIwZjAxMjg3ZmY1ODI2NzVmNzUwOTllNmZk`
+Snapshot ID: `MCxlMzYxNTdiZTY0NjI2N2YwNWE1YzE2MjQzYzllMWNlNWVkYTI3YWYw`

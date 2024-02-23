@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUkWvWISwtjS.md) - [plain]
 
 > Coloque a bota e o chápeu que hoje o trabalho vai render!
 
-[Spotify](https://open.spotify.com/user/spotify) - 451,815 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 451,816 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUkWvWISwtjS.md) - [plain]
 | 99 | [Short Jeans \- Ao Vivo](https://open.spotify.com/track/78G6jgpMdzSEiBPkBLWi9S) | [Hugo Henrique](https://open.spotify.com/artist/5Z05MLMVXu2Vmj1WWwO97E), [Jorge](https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ) | [Short Jeans \(Ao Vivo\)](https://open.spotify.com/album/5LFwQQi2Ay3oYY3NZ6bZ7x) | 3:00 |
 | 100 | [Amoreco](https://open.spotify.com/track/15Dl8e6gdR0I1IQn0M4SGi) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Amoreco](https://open.spotify.com/album/4FZWUHtF6PqWcf4R0bxzwG) | 2:31 |
 
-Snapshot ID: `MCwwM2JjMWRjZTlmYTMxZGZkM2NmMThjODVlNjRhMjJlMWI1MmY0MjJj`
+Snapshot ID: `MCxlYzI2YmRmZGYyYzFlY2Q4MTEwZWQ0N2FkZmU0ODExNmUwYTA1MWI1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PgM80.md) - [plain]
 
 > This is Julia Vitória\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,317 likes - 44 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,331 likes - 44 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PgM80.md) - [plain]
 | 27 | [Se Tenho Cristo / O Bondoso Amigo \- Ao Vivo](https://open.spotify.com/track/4MMvcx9TKSsdmOWujKBLSV) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Se Tenho Cristo / O Bondoso Amigo \(Ao Vivo\)](https://open.spotify.com/album/4su45A07KGlOLYM5Z1cFGz) | 7:18 |
 | 28 | [Perto Eu Quero Estar \- Ao Vivo](https://open.spotify.com/track/0qcVbrMV3FW3BnKOadt3Xw) | [Thaiane Seghetto](https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Perto Eu Quero Estar \(Ao Vivo\)](https://open.spotify.com/album/4YJCr4MpR5LE6WBMMcBT4x) | 4:12 |
 | 29 | [Vem](https://open.spotify.com/track/3Yop3QUpr2wfe2MObnpZ2b) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Vem](https://open.spotify.com/album/4w9Ym45CNTgnyTNaMXsJ1w) | 6:22 |
-| 30 | [Alfa e Ômega \- Ao Vivo](https://open.spotify.com/track/351wtqG1ya5eCEtW1jPJfn) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [One Service Project](https://open.spotify.com/artist/6fUKkqN2PLedcYs1AQAwg7) | [Alfa e Ômega \(Ao Vivo\)](https://open.spotify.com/album/4OLP7B5cichGSIii0rvyri) | 6:57 |
-| 31 | [Your Waters](https://open.spotify.com/track/1dDDrI8BsmRBPzR6LtiK6h) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Your Waters](https://open.spotify.com/album/2qmDIbM3kSjJ0h6kmuwvoz) | 5:08 |
+| 30 | [Your Waters](https://open.spotify.com/track/1dDDrI8BsmRBPzR6LtiK6h) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Your Waters](https://open.spotify.com/album/2qmDIbM3kSjJ0h6kmuwvoz) | 5:08 |
+| 31 | [Alfa e Ômega \- Ao Vivo](https://open.spotify.com/track/351wtqG1ya5eCEtW1jPJfn) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [One Service Project](https://open.spotify.com/artist/6fUKkqN2PLedcYs1AQAwg7) | [Alfa e Ômega \(Ao Vivo\)](https://open.spotify.com/album/4OLP7B5cichGSIii0rvyri) | 6:57 |
 | 32 | [Pai de Amor \(Heavenly Father I Appreciate You\) \- Ao Vivo](https://open.spotify.com/track/4y0lpqcs5nauOwJdP5Is9N) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Pai de Amor \(Heavenly Father I Appreciate You\) \[Ao Vivo\]](https://open.spotify.com/album/1xHsDUSESGzPXKsxYOQUe4) | 4:05 |
 | 33 | [Tu És Rei](https://open.spotify.com/track/1ZRqhv2xiJWVrSOaD5VLpm) | [Arthur Callazans](https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Tu És Rei](https://open.spotify.com/album/0cZcSReFhsKGSKx2XT19W7) | 7:01 |
 | 34 | [Sou Humano \(Ao Vivo\)](https://open.spotify.com/track/3Nncb8DnbdvGvfHoT6FejH) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Bruna Karla \- Louvorzão 2022 \(Ao Vivo\)](https://open.spotify.com/album/165BlFcLxau1hJTHHxHc1S) | 5:30 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PgM80.md) - [plain]
 | 43 | [Eu Canto \- Ao Vivo](https://open.spotify.com/track/2QGJc65uyopuapz5z6uiOm) | [Christ For The Nations Worship](https://open.spotify.com/artist/4FGuhMc7yWmxgyIZNGSKN7), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Para as Nações \(Ao Vivo\)](https://open.spotify.com/album/45xFTnGfO5v7JcivCxUS9v) | 8:19 |
 | 44 | [Manto de Cristo](https://open.spotify.com/track/2bMHtSO06SG7qiyDJXfQPC) | [Lagoinha Music](https://open.spotify.com/artist/2zU9KvRIyqKppyGRam4lhG), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Luz da Luz](https://open.spotify.com/album/45v1bM63jvlyprxBdnsMMf) | 10:37 |
 
-Snapshot ID: `Mjg0NzUyOTAsMDAwMDAwMDBjNTVkMzk5OGJjNDIzZGEzYTE4NjZmMjAxMmYzZDQ3MQ==`
+Snapshot ID: `Mjg0NzcwNzUsMDAwMDAwMDAzMGI1N2NiY2Q4NTIzOWFhOWIxZDgyYjUxODE1MTM3Ng==`

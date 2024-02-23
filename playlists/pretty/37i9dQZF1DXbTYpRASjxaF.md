@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 
 > Pega o gelo de coco, chama o bonde e vem pra festa\. Foto: Menor MC
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,482 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,502 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 | 49 | [Platinado](https://open.spotify.com/track/2zZWxrqEjaEBJwUzyEX01S) | [Abbot](https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ), [VHOOR](https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH) | [Platinado](https://open.spotify.com/album/4E62XM9QVdCFVUuTcVFMPa) | 2:23 |
 | 50 | [Naipe Vagabundo](https://open.spotify.com/track/0gUYr9h0KIYEDW3yZpKDm9) | [Oklin](https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A), [Prod\. 2t'](https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN) | [Naipe Vagabundo](https://open.spotify.com/album/2EBo00f8mLpLWtZHdlaATT) | 2:16 |
 
-Snapshot ID: `MCxiNWI1Y2ExZGFhZjQ0MTE3MTkzNzhiYmQ2NWUzY2UyYTE0NWY3MGFj`
+Snapshot ID: `MCw3Yjk3NTQ3ZjFkZmI5OTUyMzdkZGZhNTY4ZjI1MzVmZjM5M2RjZmEy`

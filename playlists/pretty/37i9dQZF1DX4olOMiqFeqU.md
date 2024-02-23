@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 
 > 100% Pinoy hits from your favorite artists! Cover: Yeng Constantino
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,399,546 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,400,044 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 | 49 | [Before I Let You Go](https://open.spotify.com/track/220IyLzKO1Y0Gxt4pTU5eZ) | [Freestyle](https://open.spotify.com/artist/0jarApAsbmiCkYhz0590mE) | [Freestyle](https://open.spotify.com/album/23urE9jm4wugYqmxANnDut) | 4:49 |
 | 50 | [Demonyo](https://open.spotify.com/track/1WXs4O7mBxXglHJPwYweHq) | [juan karlos](https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ) | [JKL](https://open.spotify.com/album/67vvDiZLNyjNQ1gU6El7GC) | 3:38 |
 
-Snapshot ID: `MCxkNmJhMDA0NTQxNTY3ODFlMjIzYjdjOWUzNmI5MzdmZjQ4NGYwMjdl`
+Snapshot ID: `MCxhOGY0OWYyN2UzODAzZmE3ZTI0NDBlNDZhNmZkYmE4ZmEwOTBmZGYw`

@@ -2,9 +2,9 @@
 
 ### [Jazz UK](https://open.spotify.com/playlist/37i9dQZF1DXbHcQpOiXk1D)
 
-> The best from Britain's vibrant scene\. Cover: Sophie Faith
+> The best from Britain's vibrant scene\. Cover: Jasmine Myra
 
-520 songs - 1 day 13 hr 7 min
+521 songs - 1 day 13 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Amore](https://open.spotify.com/track/79XalTrDNhOxCWnWvG8uDj) | [Sonia Elisheva](https://open.spotify.com/artist/6xEZnusCKQZ2egFqej09i7) | [Amore](https://open.spotify.com/album/2MXAi2kBaTl2rs0u7AvRCO) | 3:08 | 2023-03-08 | 2023-03-09 |
 | [An Ever Changing View](https://open.spotify.com/track/7oOdeQyktbC4mCnuSYTFDk) | [Matthew Halsall](https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46) | [An Ever Changing View](https://open.spotify.com/album/2mDAsYdtmCGxxcYRFkTit0) | 6:32 | 2023-09-08 |  |
 | [Angel Feed](https://open.spotify.com/track/4B8oaNZug7kvei1MAYDtNO) | [Yard Nule](https://open.spotify.com/artist/10Q2LdV5T7zeV27daL70yq) | [Angel Feed](https://open.spotify.com/album/06cl6nFp0yYgTH0n4UHNoP) | 4:20 | 2021-12-17 | 2022-11-14 |
-| [angel numbers](https://open.spotify.com/track/2m20gc2fNcai0gI1uU5YLV) | [MaZz](https://open.spotify.com/artist/107O5LIqkinsrUzpFr9gu7) | [angel numbers](https://open.spotify.com/album/3aZYhkmL0GXMeA3mVIGhkK) | 2:29 | 2023-10-05 | 2024-01-31 |
+| [angel numbers](https://open.spotify.com/track/2m20gc2fNcai0gI1uU5YLV) | [MaZz](https://open.spotify.com/artist/107O5LIqkinsrUzpFr9gu7) | [angel numbers](https://open.spotify.com/album/3aZYhkmL0GXMeA3mVIGhkK) | 2:29 | 2023-10-05 |  |
 | [Annie's Tune](https://open.spotify.com/track/1n6eQozvR8PbW2opBdmtLg) | [DARGZ](https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN), [Charlie Stacey](https://open.spotify.com/artist/3Uw7i8bbD7k8eOD5SIqn9g) | [Annie's Tune](https://open.spotify.com/album/3g9x7MAnIZuGQwjp2TquRP) | 4:23 | 2023-05-18 |  |
 | [Another Love Song](https://open.spotify.com/track/17fNMrl9NpHdq7eBjuq9Nc) | [Flo Blue](https://open.spotify.com/artist/26xMgiYGCqdjCitorf1MoF) | [Another Love Song](https://open.spotify.com/album/4BzLQEIxJKophHU4YdmCph) | 4:29 | 2023-03-08 | 2023-03-09 |
 | [Another Love Song](https://open.spotify.com/track/25qXmoaR6xNoWYGmKjZd1H) | [Flo Blue](https://open.spotify.com/artist/26xMgiYGCqdjCitorf1MoF) | [Another Love Song](https://open.spotify.com/album/6biBK0Z7HzSRCVLvSeCaBG) | 4:29 | 2022-07-07 | 2022-07-11 |
@@ -265,7 +265,7 @@
 | [Lilac](https://open.spotify.com/track/210QQ9PIeYxjcHaMNNdzbJ) | [Natty Reeves](https://open.spotify.com/artist/1fsSvgFWoQcgRDGyG6ZY64), [Charlie Allen](https://open.spotify.com/artist/4gMjamIE0ABwn5vsEzfn09), [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx) | [Lilac](https://open.spotify.com/album/5l7E2prXULDHzCptRAwoUR) | 3:13 | 2021-12-17 | 2022-07-29 |
 | [Listen To The Sky](https://open.spotify.com/track/19OYmVAI2mdkbAj1dW0DYd) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Listen To The Sky](https://open.spotify.com/album/00bIOJIJU7WyTxdPIaglZl) | 2:52 | 2023-11-10 |  |
 | [Listen To The Sky](https://open.spotify.com/track/1SBnGYwfPHo89L5iVt6yNT) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Listen To The Sky](https://open.spotify.com/album/3G9hrfPSpBsvBwcgLT4i7u) | 2:52 | 2023-09-21 | 2023-10-06 |
-| [Lonely](https://open.spotify.com/track/4R8UmyApZzuYNSiEoKWYt3) | [David Mrakpor](https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [Lonely](https://open.spotify.com/album/2iJ77SyZvqXvNPdf71QGp3) | 5:02 | 2022-06-23 |  |
+| [Lonely](https://open.spotify.com/track/4R8UmyApZzuYNSiEoKWYt3) | [David Mrakpor](https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [Lonely](https://open.spotify.com/album/2iJ77SyZvqXvNPdf71QGp3) | 5:02 | 2022-06-23 | 2024-02-23 |
 | [Long Term Memory](https://open.spotify.com/track/0wTLhxqwM8hLGDfHJIPFdQ) | [Jamie Leeming](https://open.spotify.com/artist/1aIoXz1gXoYjpExn1YISkD), [Laura Groves](https://open.spotify.com/artist/680a4iDO5tGb0Mb3IIcrVz) | [Long Term Memory](https://open.spotify.com/album/1E6SfG3SRiPxcYsaAFDCNl) | 3:25 | 2022-04-21 | 2022-07-27 |
 | [looking out](https://open.spotify.com/track/2IUTis1rj33tVvTYtsVdEx) | [Peru Eizagirre](https://open.spotify.com/artist/2jPW0sgVtqS4np7tNze6ZG) | [looking out](https://open.spotify.com/album/1uiGqENIfsmcFRFMBlwqe5) | 7:31 | 2022-03-24 | 2022-03-30 |
 | [Lost in Thought](https://open.spotify.com/track/1UVjC46kICqTceu7wCi8zK) | [GoGo Penguin](https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L) | [Between Two Waves](https://open.spotify.com/album/3K20Qp773ImY8pBQ1vUt93) | 3:12 | 2022-07-28 | 2023-02-17 |
@@ -362,6 +362,7 @@
 | [Reasons](https://open.spotify.com/track/0afUusMZLIOvAJNdAoDRQm) | [Ishmael Ensemble](https://open.spotify.com/artist/6LiMIy9kwdQAfMrBInyUvY), [Rider Shafique](https://open.spotify.com/artist/3Q0LSoV64A2FTwAFCzyDyq) | [Reasons](https://open.spotify.com/album/3krG8OERqEnDXqZec3pU09) | 4:52 | 2023-01-13 | 2023-07-19 |
 | [Red and Green \- Blue Lab Beats Remix](https://open.spotify.com/track/50wdgAA4XTOMPD4DZFwv5Y) | [Eda Eren](https://open.spotify.com/artist/0Dcf25hADP87VNkGkSMRQ4), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [Red and Green \(Blue Lab Beats Remix\)](https://open.spotify.com/album/1ifUgR4IwQyFNhMI3FZzM6) | 4:11 | 2022-05-19 | 2023-06-09 |
 | [Relaxing at the Underbelly](https://open.spotify.com/track/2LE0NkEYXutnOK7nHRyNUR) | [Emily Jane Roberts](https://open.spotify.com/artist/0oU7rg56Cbw8yGVfFToXbu) | [The Persistence of Memory EP](https://open.spotify.com/album/3RnKzIhgEAuoDYkpBE27eM) | 4:30 | 2022-11-04 | 2023-03-09 |
+| [Rising](https://open.spotify.com/track/7wf5JNpQcrsPTwN4h1lKCU) | [Jasmine Myra](https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK) | [Rising](https://open.spotify.com/album/6TdOE1Wti5pSRxOW6Y9xT0) | 7:11 | 2024-02-23 |  |
 | [Roamin'](https://open.spotify.com/track/2aBsjssbSIoPPNxLTwKxWs) | [Danny Keane](https://open.spotify.com/artist/69p51Y6qgS5HiaR7UNghuR) | [Roamin'](https://open.spotify.com/album/5F217Hk27hn2M97Akn3GE3) | 6:11 | 2021-12-17 | 2022-05-13 |
 | [Rose Rouge](https://open.spotify.com/track/36apwMphkcaS63LY3JJMPh) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Rose Rouge](https://open.spotify.com/album/22cvF1LVMD3IUQeKE42r1s) | 5:57 | 2021-12-17 | 2022-07-08 |
 | [Ruby Smiles](https://open.spotify.com/track/2UU8k7GriFSixuYbgO3axz) | [Reuben James](https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH), [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M), [Soweto Kinch](https://open.spotify.com/artist/6Z37ofcWV3ZDEMbevEtoSk) | [Tunnel Vision](https://open.spotify.com/album/5a5AWTfvxSSezaBEHng2ms) | 1:09 | 2023-03-17 | 2023-04-28 |
@@ -516,7 +517,7 @@
 | [With Ease](https://open.spotify.com/track/0q9CGFcMY0mqmZToslS3tV) | [Sunday Lendis](https://open.spotify.com/artist/7urvUQ50Hql64B4lffu48S) | [With Ease](https://open.spotify.com/album/5wnOSO7tjZZgzYTUZ6Ijkw) | 3:56 | 2023-03-08 | 2023-03-09 |
 | [Withered](https://open.spotify.com/track/1QDpEhAMGzBtFq5uYyKCk4) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [Withered](https://open.spotify.com/album/6qkntCbKpkzXc4JdwZb8J0) | 4:05 | 2021-12-17 | 2022-04-16 |
 | [Woe Is Me](https://open.spotify.com/track/6vtf3U3toO8stSeLInVJtL) | [Kay Young](https://open.spotify.com/artist/1U7TfUcph2eoBUzG3XnaXK), [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [Woe Is Me](https://open.spotify.com/album/5CQPeYHDgr8d2ikkZwIERX) | 3:40 | 2023-03-17 |  |
-| [Words Left Unspoken](https://open.spotify.com/track/2b7mhgBdpvDCLYGK8nRfMX) | [Jasmine Myra](https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK) | [Horizons](https://open.spotify.com/album/0f3k4tF3PXSsRKnklbiKKe) | 6:40 | 2022-07-14 |  |
+| [Words Left Unspoken](https://open.spotify.com/track/2b7mhgBdpvDCLYGK8nRfMX) | [Jasmine Myra](https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK) | [Horizons](https://open.spotify.com/album/0f3k4tF3PXSsRKnklbiKKe) | 6:40 | 2022-07-14 | 2024-02-23 |
 | [Wrong Tree](https://open.spotify.com/track/4UGMSoA1nHKpdpMeWLF20w) | [Ellie Harris](https://open.spotify.com/artist/6BeXJVRF7Qv5KWuzlu77rU), [Sam Ellwood](https://open.spotify.com/artist/4wUAogYCoypUYMcLI4Q7yC) | [Wrong Tree](https://open.spotify.com/album/4gPrpWUTDbIoIqIDmKjOAD) | 2:29 | 2022-03-08 | 2022-04-21 |
 | [Wrong Tree](https://open.spotify.com/track/6iOk705HhdjM3TbififXPh) | [Ellie Harris](https://open.spotify.com/artist/6BeXJVRF7Qv5KWuzlu77rU), [Sam Ellwood](https://open.spotify.com/artist/4wUAogYCoypUYMcLI4Q7yC) | [Wrong Tree](https://open.spotify.com/album/7LxgHjwdmuvJhoVDscVx9v) | 2:29 | 2023-03-08 | 2023-03-09 |
 | [Y Gwydd](https://open.spotify.com/track/4jH14vQY3MDSWyU5EFQuPY) | [Huw Marc Bennett](https://open.spotify.com/artist/6uYq0k8pis5LPGzdFRM5FJ) | [Y Gwydd \(Radio Edit\)](https://open.spotify.com/album/4W0NOkttgn5fjLfOoyMdcT) | 5:38 | 2023-05-05 | 2023-08-30 |

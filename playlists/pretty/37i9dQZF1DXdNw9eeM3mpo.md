@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 
 > 100% ska en español\. Las Víctimas del Dr\. Caligaris/El Gábinete del Dr\. Cerebro en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 447,815 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 447,889 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 | 99 | [Invierno, Ayni II](https://open.spotify.com/track/29plloxh2pA8h9D4RlkOfb) | [Skaldik](https://open.spotify.com/artist/1FxkMcxmouciAx4Fb4x3n7) | [Invierno, Ayni II](https://open.spotify.com/album/69TZfUN1aX7nI2ZmsB2Fl6) | 3:18 |
 | 100 | [Escápate conmigo](https://open.spotify.com/track/03o4ypJBzm4LS5Fv6Zc5Gt) | [Melodycans](https://open.spotify.com/artist/1kjHfeJNTbCFiDwz0xJbNF), [Percance](https://open.spotify.com/artist/4Q8gIPN30yQkI8cs2xwqmY) | [El ataque de la nueva ola](https://open.spotify.com/album/3MQaTzbx6u7KwbAmqEMGdy) | 3:40 |
 
-Snapshot ID: `MCw5MTkyYjhiYzZhMzM0MDc5Mjg2NDZkYWJiYTk0ZTRjZWRkMDI1N2My`
+Snapshot ID: `MCxkN2NlNTg1NWU3ZWI2ZWUxZmI4MjBhNTU5ZTZiZjNhMjg2YWI5MmJh`

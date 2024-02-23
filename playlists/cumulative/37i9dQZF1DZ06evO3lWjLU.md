@@ -4,7 +4,7 @@
 
 > This is Danny Ocean\. The essential tracks, all in one playlist.
 
-49 songs - 2 hr 35 min
+50 songs - 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [CARACAS EN EL 2000](https://open.spotify.com/track/4CUWxHauVJriW776t5lyCJ) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT) | [CARACAS EN EL 2000](https://open.spotify.com/album/3Sn2sIMx8CvcWSoDPvt0IV) | 3:47 | 2023-11-10 |  |
 | [Chimbo](https://open.spotify.com/track/2MRbBjUXWrouk36b55vipO) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Chimbo](https://open.spotify.com/album/5XRQrTcMUREddc69cWGtzn) | 3:02 | 2023-11-10 |  |
 | [Correcaminos](https://open.spotify.com/track/3aCLD0IqnpnG09ZhfyUqIC) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Correcaminos](https://open.spotify.com/album/5URH83B2vJrrZ47uTOb3zQ) | 3:02 | 2023-11-10 |  |
+| [cosquillas](https://open.spotify.com/track/5wX7RyoYLhUdTccRqyay42) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [FOMO](https://open.spotify.com/album/2wj8AHax9qryX210NBwu5Q) | 2:49 | 2024-02-22 |  |
 | [Cuando Amanezca \(feat\. Danny Ocean, Justin Quiles, Feid\)](https://open.spotify.com/track/0yx82WHSiVRekLwqfxQkvJ) | [Nibal](https://open.spotify.com/artist/6SgDJ5tNao1Wa1qWroxqz0), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Cuando Amanezca \(feat\. Danny Ocean, Justin Quiles, Feid\)](https://open.spotify.com/album/6WjiLNVEpAtgN4XTwxRvnA) | 3:07 | 2023-11-10 |  |
 | [Cuando Me Acerco A Ti](https://open.spotify.com/track/1Q4DK5GLldkubj5GtCzbs7) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [54+1](https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N) | 3:13 | 2023-11-10 |  |
 | [Cuántas veces](https://open.spotify.com/track/0Vd3oU8EfWdZZO1J0W3dBN) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Cuántas veces](https://open.spotify.com/album/1SkjS616tH0mUti7wGYUGB) | 2:37 | 2023-11-10 |  |

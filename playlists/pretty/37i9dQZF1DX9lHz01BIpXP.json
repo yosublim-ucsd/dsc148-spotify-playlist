@@ -1,13 +1,29 @@
 {
   "description": "Die beste in Afrikaanse Hip Hop. Cover: <a href=\"https://open.spotify.com/artist/0a3BxAGzEMacCsDSriIuz0?si=tQN8O9JPSyCXmbNbUMMs_Q\">Umlungu The Rapper</a> & <a href=\"https://open.spotify.com/artist/7BPZ6o23eC19ZB4TktaCMy?si=U-cG6Z0_TNu6lsKpLiOXHw\">Big Xhosa</a>",
-  "num_followers": 1408,
+  "num_followers": 1407,
   "original_name": "Afrikaanse Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYzE5YmQ1YWY3ZmNkMmFlZTIzNGRhMDE4NmIzYTNmOGU3ODFmYTAw",
+  "snapshot_id": "MCxlOGU0Y2QzNGQ1YWY0NGFlNTIwNjIwZjA0Yjc0NzQ3YWI5OWJkYTI5",
   "tracks": [
+    {
+      "added_at": "2024-02-22 22:00:00",
+      "album": {
+        "name": "Dinge",
+        "url": "https://open.spotify.com/album/5GmWaRMBy8nC2kG99OXUiB"
+      },
+      "artists": [
+        {
+          "name": "C.M.T",
+          "url": "https://open.spotify.com/artist/7dp7rXGLihg118ZUN8tp1P"
+        }
+      ],
+      "duration_ms": 132478,
+      "name": "Dinge",
+      "url": "https://open.spotify.com/track/34ckABm6hzgGBB1WjImioh"
+    },
     {
       "added_at": "2024-02-15 22:00:00",
       "album": {
@@ -105,10 +121,10 @@
       "url": "https://open.spotify.com/track/0GXELsQ5B5qmBBmNUpy1NM"
     },
     {
-      "added_at": "2024-02-15 22:00:00",
+      "added_at": "2024-02-22 22:00:00",
       "album": {
-        "name": "Praat Baie",
-        "url": "https://open.spotify.com/album/5DdXO6DBZMwhF1u0cAAI3g"
+        "name": "Wat Ek Moet Doen",
+        "url": "https://open.spotify.com/album/3N574squ1VAtisezwlbE8s"
       },
       "artists": [
         {
@@ -116,9 +132,9 @@
           "url": "https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7"
         }
       ],
-      "duration_ms": 113763,
-      "name": "Praat Baie",
-      "url": "https://open.spotify.com/track/7AEeHK0QAJXPqg3Xe9JHk0"
+      "duration_ms": 142863,
+      "name": "Wat Ek Moet Doen",
+      "url": "https://open.spotify.com/track/0xiM7s7YsjtNNjVLYiBVti"
     },
     {
       "added_at": "2024-02-15 22:00:00",
@@ -891,26 +907,6 @@
       "duration_ms": 181480,
       "name": "Wiggy",
       "url": "https://open.spotify.com/track/7E5tXCKOc0gwFOHoaCuPgU"
-    },
-    {
-      "added_at": "2024-02-15 22:00:00",
-      "album": {
-        "name": "T. D. K. S",
-        "url": "https://open.spotify.com/album/6fdkcLJyX2csmHE6byABjX"
-      },
-      "artists": [
-        {
-          "name": "MJoyner",
-          "url": "https://open.spotify.com/artist/5SvCMCMj7dkqVnylp7xEdv"
-        },
-        {
-          "name": "TY Mxjor",
-          "url": "https://open.spotify.com/artist/6jRREpnzwzBkDjT6QPtlLv"
-        }
-      ],
-      "duration_ms": 210573,
-      "name": "T. D. K. S",
-      "url": "https://open.spotify.com/track/7qbLm0IBfu31Tpq6W45XfH"
     }
   ],
   "unique_name": "Afrikaanse Hip Hop",

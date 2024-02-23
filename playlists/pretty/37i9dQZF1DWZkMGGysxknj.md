@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkMGGysxknj.md) - [plain]
 
 > Café caliente, sillón blandito y la mejor lectura o compañía.
 
-[Spotify](https://open.spotify.com/user/spotify) - 824,574 likes - 150 songs - 8 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 824,594 likes - 150 songs - 8 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkMGGysxknj.md) - [plain]
 | 149 | [Clocks](https://open.spotify.com/track/6erAapz0pGmUY5koXSnhqT) | [Praia Grande](https://open.spotify.com/artist/3jenbdOP2dkX9QKDODbi1v) | [Covers](https://open.spotify.com/album/3Zm85V97fhnqWGUNxblt5E) | 3:45 |
 | 150 | [Intentions](https://open.spotify.com/track/7vLdOWuzXqsT3B85TsQSow) | [Jean Cruiz](https://open.spotify.com/artist/4xS5okCP5UkUKVM1uZh9uD) | [Intentions](https://open.spotify.com/album/0mNjwCVc6HHQM2PgAaXdH4) | 3:02 |
 
-Snapshot ID: `MCw0YzQ4MzNhM2QxZmRkZDQ2NWU2MTg3MDU4OTVkZjE4MTlkOTkzZDM0`
+Snapshot ID: `MCw3ODk5MzFlZTkwYWE3MzYyOWFhNTM4YzE4MzdjOWFmNjM0ZGI3ZDU3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q27plkaOQ3.md) - [plain]
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: SVDDEN DEATH
 
-[Spotify](https://open.spotify.com/user/spotify) - 982,373 likes - 125 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 982,396 likes - 125 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q27plkaOQ3.md) - [plain]
 | 124 | [Ruin U](https://open.spotify.com/track/6fvdPHXZnUl9UX2OgoT7Cq) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n), [LEVEL UP](https://open.spotify.com/artist/1ZpDxqXS6HAvoZyCzQfKRb) | [Ruin U](https://open.spotify.com/album/0p7pEsAnu9yH75AnwlkMPg) | 3:15 |
 | 125 | [A Brief Tutorial On Dubstep Production \- Kayzo Remix](https://open.spotify.com/track/2mHY0y8Gw7dtsTYHX7fjvy) | [Dubba Jonny](https://open.spotify.com/artist/4rv9ymvcXOcbHrjkMkoA32), [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv) | [A Brief Tutorial On Dubstep Production \(Kayzo Remix\)](https://open.spotify.com/album/5XtE33BRDYkaXo80TS9Yr0) | 2:13 |
 
-Snapshot ID: `MCxkOTE2ZDU3NmEzMTBlMzFlYTJiMTFjOTBkYjljNjNhNzZjMTc4ZTA3`
+Snapshot ID: `MCwwNTdlZDI0ZDMzNzE1OTk5MTA5YjllYjk5NzNiODYxMzk3MDAwZGZh`

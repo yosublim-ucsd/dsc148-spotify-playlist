@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO32Ff9v.md) - [plain]
 
 > This is Los Farmerz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,553 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,583 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO32Ff9v.md) - [plain]
 | 30 | [La Elegancia Se Miro](https://open.spotify.com/track/6XJ4CQ5E9c71cTkPHhivAN) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [La Elegancia Se Miró](https://open.spotify.com/album/40uIryLOvhReoMWynEq2GD) | 3:28 |
 | 31 | [El Chepis](https://open.spotify.com/track/443kLF00XD6aHnaoHMesHm) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [El Chepis](https://open.spotify.com/album/6YMnVFAOkAg7dMJytIcG7v) | 3:13 |
 | 32 | [El Tinguaraque](https://open.spotify.com/track/1vElaVQ3B3USb3eWf69jrH) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Ni Modo Que Sea Mentira](https://open.spotify.com/album/56o0E4R3HoKcAZ9cuOmcuh) | 2:45 |
-| 33 | [El Sobrino](https://open.spotify.com/track/22LdqMvbsQnnpO264LlaOf) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [El Sobrino](https://open.spotify.com/album/1mTlBDsYsV7oPkca862gSk) | 2:40 |
-| 34 | [De Que Puedo Puedo](https://open.spotify.com/track/3qnCn9WImrTRRaqIxC6WIN) | [Los Inquietos Del Norte](https://open.spotify.com/artist/0pgvlX0BkfmeirXTDiNmya), [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [De Que Puedo Puedo](https://open.spotify.com/album/6is3m2C4CjKBQzjm36VPR0) | 2:53 |
+| 33 | [De Que Puedo Puedo](https://open.spotify.com/track/3qnCn9WImrTRRaqIxC6WIN) | [Los Inquietos Del Norte](https://open.spotify.com/artist/0pgvlX0BkfmeirXTDiNmya), [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [De Que Puedo Puedo](https://open.spotify.com/album/6is3m2C4CjKBQzjm36VPR0) | 2:53 |
+| 34 | [El Sobrino](https://open.spotify.com/track/22LdqMvbsQnnpO264LlaOf) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [El Sobrino](https://open.spotify.com/album/1mTlBDsYsV7oPkca862gSk) | 2:40 |
 | 35 | [Estratega de Guerra](https://open.spotify.com/track/3npSHShqRhlhMSK1NuL3xm) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Puros de Encargo, Vol\. 1](https://open.spotify.com/album/7m6fUnC58u09gvmaaaAZTr) | 4:07 |
 | 36 | [Mi Pawer](https://open.spotify.com/track/4DQ4ywyE1pWht05dewOC8v) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Mi Pawer](https://open.spotify.com/album/4i4tlzbFgKIC60ElIvPjFT) | 3:49 |
 | 37 | [Que Suerte La Mia](https://open.spotify.com/track/5dSTAjTVA3UUWoJEHC9PWa) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Pistiando y Cantando](https://open.spotify.com/album/0wMUKIvlpMpn6pHUBo7371) | 3:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO32Ff9v.md) - [plain]
 | 49 | [Dos Gotas De Agua](https://open.spotify.com/track/1pe7wAnofprofQKmeJsWDJ) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Pistiando y Cantando](https://open.spotify.com/album/0wMUKIvlpMpn6pHUBo7371) | 3:24 |
 | 50 | [Borracho y De Perro](https://open.spotify.com/track/37wZuY6x3ucmg8aeubIs5R) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Borracho y De Perro](https://open.spotify.com/album/6q7UBtdNN9uJU1Dm89gzOO) | 3:55 |
 
-Snapshot ID: `Mjg0NzUyOTAsMDAwMDAwMDBlYjg0MTVkYjllMzJiNTBkZDhhN2ZmNmI3ZjViMWQwYg==`
+Snapshot ID: `Mjg0NzcwNzUsMDAwMDAwMDBmYjAwODE4M2Q2YzY5MGY4MDM2MjE4YThlODdkZDViMw==`

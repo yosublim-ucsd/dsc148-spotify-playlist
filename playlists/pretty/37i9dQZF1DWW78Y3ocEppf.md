@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW78Y3ocEppf.md) - [plain]
 
 > Let the songs speak\. Cover: VEDO
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,230 likes - 100 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,233 likes - 100 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW78Y3ocEppf.md) - [plain]
 | 99 | [Opps](https://open.spotify.com/track/2b2WMIC8YCeCAjxSi4IEPg) | [Nelccia](https://open.spotify.com/artist/0j6UADwVrUZ6SDdpl2uyfk) | [From Me, To Me](https://open.spotify.com/album/4IQMv39CumpjHwaqr9yvhI) | 3:16 |
 | 100 | [Go Get Her](https://open.spotify.com/track/2N3vxwIxjMKYCFJfGwucnf) | [SHRETA](https://open.spotify.com/artist/3JIPXppV2oYMltqGqBCo9n), [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Go Get Her](https://open.spotify.com/album/7zTr0d1lb0Wak529YFKBCm) | 2:43 |
 
-Snapshot ID: `MCw5NzRjZGQ0YWU0NDc2MjE4ZDc4YzRlMjA5ZDM2ZWM0YzE4NjBhZDYz`
+Snapshot ID: `MCw3MjA4ODhmZjA2ZmU0YjA0YWI0M2UzYjM1YjcyZjFkYzNjYzhhYjYz`

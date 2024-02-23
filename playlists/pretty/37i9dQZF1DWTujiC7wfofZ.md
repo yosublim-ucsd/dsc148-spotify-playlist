@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTujiC7wfofZ.md) - [plain]
 
 > All the indie disco platters that matter.
 
-[Spotify](https://open.spotify.com/user/spotify) - 434,461 likes - 250 songs - 16 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 434,482 likes - 250 songs - 16 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTujiC7wfofZ.md) - [plain]
 | 249 | [Shuggie](https://open.spotify.com/track/6RgrpOgbTI3M2qvA8XIvTb) | [Foxygen](https://open.spotify.com/artist/55LHFEtIplWhsfyWZUwkf4) | [We Are the 21st Century Ambassadors of Peace & Magic](https://open.spotify.com/album/7FfiN9ztbjLNPWhuhFHaWf) | 3:21 |
 | 250 | [Gronlandic Edit](https://open.spotify.com/track/5boY1VZLXBJojafFINgnJF) | [of Montreal](https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O) | [Hissing Fauna, Are You The Destroyer?](https://open.spotify.com/album/15Fb7HPHdy42No0l9KnXAZ) | 3:24 |
 
-Snapshot ID: `MCw0MTliOTA5YmQ0MmZlY2E4YTExNzY1NDkyNjJhNzJhNzAyOTU3MjEw`
+Snapshot ID: `MCw1MTc3MWQyOWEyMzI5NmUxYzUxMzVjYWNlODYyZDM1YzMzMjE1MDVi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1fcDuOYLYU.md) - [plain]
 
 > Celebrating the powerful voices of Latin music\. Cover: Belinda
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,732 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,766 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1fcDuOYLYU.md) - [plain]
 | 99 | [Canción Para Olvidarte](https://open.spotify.com/track/5NHqqzA8PRI5qbslHYJirQ) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Canción Para Olvidarte](https://open.spotify.com/album/6ASkiClgHpsUdT0msxIeNm) | 2:44 |
 | 100 | [La Ducha Remix \(con Becky G, Tini\)](https://open.spotify.com/track/0044ljTRPPQdAkCUXK6s7A) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [La Ducha Remix \(con Becky G, Tini\)](https://open.spotify.com/album/0YsMUawHhH0VNOpVLi85UI) | 4:34 |
 
-Snapshot ID: `MCw2MWE1M2MwMDhmODJiOGNkOTg5ZTc4ODBhYzIzNWQ1OGRhZWE3NTBk`
+Snapshot ID: `MCxhNDRkOTBlZDZhYjllYmJiZGU5ZmJjNjkwODhlYTIyYTFmNTdlYmRj`

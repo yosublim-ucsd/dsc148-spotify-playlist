@@ -16319,6 +16319,28 @@
     },
     {
       "album": {
+        "name": "Slideshow",
+        "url": "https://open.spotify.com/album/6OL2rc5XTgw2yPcT91vdz3"
+      },
+      "artists": [
+        {
+          "name": "Levi Bloom",
+          "url": "https://open.spotify.com/artist/4ruYOMH6odMGzBr19loIMg"
+        },
+        {
+          "name": "408 Darwin",
+          "url": "https://open.spotify.com/artist/7GmjP8u0uwwAwBt3e3tmdS"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163561,
+      "name": "Slideshow",
+      "url": "https://open.spotify.com/track/5RZAEcZ8G4fLkR11MbB8P0"
+    },
+    {
+      "album": {
         "name": "Slizzard & Geekin",
         "url": "https://open.spotify.com/album/4akuE86sMxCbYwvSwlfaM5"
       },

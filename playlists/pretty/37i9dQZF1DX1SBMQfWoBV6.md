@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SBMQfWoBV6.md) - [plain]
 
 > Light electronic movements for study, focus and flow.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,728 likes - 76 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,780 likes - 76 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,14 +20,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SBMQfWoBV6.md) - [plain]
 | 10 | [Electric Pulses](https://open.spotify.com/track/5EPNlsmQpNiE3AQZMsMaDs) | [Lonely Roads](https://open.spotify.com/artist/4nQMRc0j45XcB0g0SioPw5) | [Electric Pulses](https://open.spotify.com/album/74SSquwi9PTn3HJ52LkHKM) | 2:58 |
 | 11 | [Just Sine Waves](https://open.spotify.com/track/7J8NbJZXIbR3JLOUk5BITV) | [Martin Roth](https://open.spotify.com/artist/4LoSbPey3kklzX5f2KEks1) | [Mono No Aware](https://open.spotify.com/album/70hyp5k7zuvuI52UZvWBKx) | 2:46 |
 | 12 | [Polyrhythmic Focus and Studying Part 3](https://open.spotify.com/track/4vtqAaig1XbUIZbCmZXp1A) | [Greecho](https://open.spotify.com/artist/13x3oBzOHHvA23aEPvrLLx) | [Polyrhythmic Focus And Studying](https://open.spotify.com/album/3eVENAC5Fr5WphpkTIEQz0) | 3:58 |
-| 13 | [reflections\_](https://open.spotify.com/track/4ILaye6zO7KQ4jdfcsyZfp) | [DARK](https://open.spotify.com/artist/4mJeYvJH1WW0jLjbUh6VxM) | [dark\_2](https://open.spotify.com/album/5RaaBAphojbpJusuLNsOY9) | 4:07 |
-| 14 | [Focus On](https://open.spotify.com/track/1ZPFtHW2s6uQc3KajMCP7l) | [Recov](https://open.spotify.com/artist/58xXf7mLuff18t0yV3TK47) | [Focus On](https://open.spotify.com/album/0BZPrdDFhpgCD1mLYBhIan) | 3:13 |
-| 15 | [Static Mind](https://open.spotify.com/track/11wGs0bSwN3km6whYMZCiu) | [Hyperix](https://open.spotify.com/artist/2vlHxzMM3LDROyxBioXC2Q) | [Static Mind](https://open.spotify.com/album/71hhZ7on21C40GUYV1CQQ5) | 2:24 |
-| 16 | [Thyone](https://open.spotify.com/track/19GN5lWipW5bg1aa8SCLTE) | [Ben Elson](https://open.spotify.com/artist/1OuL8Cuw5Ed403k0dUnloa) | [Orthosie](https://open.spotify.com/album/4NzbetkU7aw0ccC5pV7LIy) | 3:03 |
-| 17 | [Achievement Unlocked](https://open.spotify.com/track/1qlpsQZTzBJ3C9Padf3dCp) | [Endel](https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4) | [Focus: Work Smart Sounds](https://open.spotify.com/album/5sVSZ4CGxYznBbbO2DTPvV) | 2:16 |
-| 18 | [Beluga’s Song](https://open.spotify.com/track/1BHu8dmQWiwoh7p1vgJZKN) | [Jonny Nash](https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde), [Suzanne Kraft](https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m) | [Passive Aggressive](https://open.spotify.com/album/06CnAHZC6NtWc1f0vuKi9l) | 5:28 |
-| 19 | [The Wing](https://open.spotify.com/track/4nIdUgjJwddAnfZhggwFpa) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Erased Dreams](https://open.spotify.com/album/6Q67qjhJcBsMPWS3PXF8kv) | 3:24 |
-| 20 | [Welcoming of the Colts](https://open.spotify.com/track/0Htf6VECFgxlVKmS4dHrR0) | [The Goldlight](https://open.spotify.com/artist/35zOaLSrpQwL9mSBQjbK7f) | [Lustre and Mist](https://open.spotify.com/album/1cqYxODeCDRlnOqERNtXn5) | 3:49 |
+| 13 | [Focus On](https://open.spotify.com/track/1ZPFtHW2s6uQc3KajMCP7l) | [Recov](https://open.spotify.com/artist/58xXf7mLuff18t0yV3TK47) | [Focus On](https://open.spotify.com/album/0BZPrdDFhpgCD1mLYBhIan) | 3:13 |
+| 14 | [Static Mind](https://open.spotify.com/track/11wGs0bSwN3km6whYMZCiu) | [Hyperix](https://open.spotify.com/artist/2vlHxzMM3LDROyxBioXC2Q) | [Static Mind](https://open.spotify.com/album/71hhZ7on21C40GUYV1CQQ5) | 2:24 |
+| 15 | [Thyone](https://open.spotify.com/track/19GN5lWipW5bg1aa8SCLTE) | [Ben Elson](https://open.spotify.com/artist/1OuL8Cuw5Ed403k0dUnloa) | [Orthosie](https://open.spotify.com/album/4NzbetkU7aw0ccC5pV7LIy) | 3:03 |
+| 16 | [Achievement Unlocked](https://open.spotify.com/track/1qlpsQZTzBJ3C9Padf3dCp) | [Endel](https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4) | [Focus: Work Smart Sounds](https://open.spotify.com/album/5sVSZ4CGxYznBbbO2DTPvV) | 2:16 |
+| 17 | [reflections\_](https://open.spotify.com/track/4ILaye6zO7KQ4jdfcsyZfp) | [DARK](https://open.spotify.com/artist/4mJeYvJH1WW0jLjbUh6VxM) | [dark\_2](https://open.spotify.com/album/5RaaBAphojbpJusuLNsOY9) | 4:07 |
+| 18 | [The Wing](https://open.spotify.com/track/4nIdUgjJwddAnfZhggwFpa) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Erased Dreams](https://open.spotify.com/album/6Q67qjhJcBsMPWS3PXF8kv) | 3:24 |
+| 19 | [Welcoming of the Colts](https://open.spotify.com/track/0Htf6VECFgxlVKmS4dHrR0) | [The Goldlight](https://open.spotify.com/artist/35zOaLSrpQwL9mSBQjbK7f) | [Lustre and Mist](https://open.spotify.com/album/1cqYxODeCDRlnOqERNtXn5) | 3:49 |
+| 20 | [Beluga’s Song](https://open.spotify.com/track/1BHu8dmQWiwoh7p1vgJZKN) | [Jonny Nash](https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde), [Suzanne Kraft](https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m) | [Passive Aggressive](https://open.spotify.com/album/06CnAHZC6NtWc1f0vuKi9l) | 5:28 |
 | 21 | [Caved Out](https://open.spotify.com/track/3lzBhoMOytPl2SJb76MKHS) | [Machabara](https://open.spotify.com/artist/5OQe8EsRkxUlaeJ8sESTyK) | [Journey To Neptune](https://open.spotify.com/album/1nNwWW5To3Hxqx9UakBNlf) | 4:09 |
 | 22 | [Prima Luce](https://open.spotify.com/track/6hOMR6CFQICXK8NXpjiBh2) | [RA\-UL](https://open.spotify.com/artist/2JeqxmyESYTBLsPY9Xvdjt) | [Prima Luce](https://open.spotify.com/album/5ETvDJJqpujShOF6sUYaYc) | 4:40 |
 | 23 | [Conversion](https://open.spotify.com/track/2GSbqrO1pSvi46KnEV8t7Q) | [Finleigh](https://open.spotify.com/artist/1KcMYDu3nBxDYlcYwrsEAA) | [Conversion \- Dream House Mix](https://open.spotify.com/album/1YAQjuaR4OMMFq7Mk1QI5X) | 2:31 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SBMQfWoBV6.md) - [plain]
 | 75 | [Vicinities](https://open.spotify.com/track/0GbG6xZEk5vvGGkXyqaAHI) | [Steve Hauschildt](https://open.spotify.com/artist/2L00vHmYcwC9OlsEv6M5UO) | [Where All Is Fled](https://open.spotify.com/album/0DSX1JfPpFz03OmBHJBRsG) | 5:01 |
 | 76 | [In Gleam](https://open.spotify.com/track/65n315tA59gt8sAUdG4Bcc) | [Nadia Khan](https://open.spotify.com/artist/0loiPes37ZaRogGkUvPRNQ) | [In Gleam](https://open.spotify.com/album/2IJI1sCPaJvqx9yInRORd0) | 5:31 |
 
-Snapshot ID: `MCw5MzcwYWUyYmY2NjQxMmJjMGYxYjk0Y2EyYWI4NDY0Yjg0MWM3YTcy`
+Snapshot ID: `MCwwZGYzYzg1ZWE3YzExMDVkNDc5ZDdlMDQ3NmIxYzdkOTVkZTBkMmRk`

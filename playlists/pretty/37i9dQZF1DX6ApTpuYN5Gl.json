@@ -1,12 +1,12 @@
 {
   "description": "sad beats. deep vibes. ",
-  "num_followers": 69530,
+  "num_followers": 69578,
   "original_name": "melancholia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MjZlYTYxZDI0ZGIwMGUzNGI4NzExMTcwZTZjMzM3Y2IzOTM3NjFl",
+  "snapshot_id": "MCw0ZGNlNjRmZWY2MmQ3ZjI3ODdhMDVjY2RmOGE2YTJjNDgyOTViNTQy",
   "tracks": [
     {
       "added_at": "2023-12-22 16:30:00",
@@ -966,6 +966,10 @@
         {
           "name": "BKAYE",
           "url": "https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9"
+        },
+        {
+          "name": "Aria Ohlsson",
+          "url": "https://open.spotify.com/artist/4hFc1FC8qA7XFF1XrTwlsJ"
         }
       ],
       "duration_ms": 153750,

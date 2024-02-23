@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Skandinavisk hiphop som holder det 100! \ud83d\udea8 feat. Marstein",
+  "description": "Skandinavisk hiphop som holder det 100! \ud83d\udea8 ",
   "name": "100 (2)",
   "tracks": [
     {
@@ -1280,7 +1280,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 194599,
       "name": "Inga \u00e4nglar (Na na na)",
       "url": "https://open.spotify.com/track/6Z81UrPb8kWlzO4bP0ETzo"
@@ -2228,7 +2228,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 156774,
       "name": "Seri\u00f8s (feat. Amara)",
       "url": "https://open.spotify.com/track/1sEYjmfPxDMS0tRxEqbWTy"
@@ -2569,6 +2569,32 @@
     },
     {
       "album": {
+        "name": "Til Toppen",
+        "url": "https://open.spotify.com/album/0yDrCi3oVTSrrQCgkQH3eo"
+      },
+      "artists": [
+        {
+          "name": "Rambow",
+          "url": "https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9"
+        },
+        {
+          "name": "Voksen Mann Uten Slips",
+          "url": "https://open.spotify.com/artist/5FGyG1MDfNSzpijXguKZAF"
+        },
+        {
+          "name": "Blizzy",
+          "url": "https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156269,
+      "name": "Til Toppen",
+      "url": "https://open.spotify.com/track/3IdMka9dVfYIKZmpGf6Heo"
+    },
+    {
+      "album": {
         "name": "Top Notch",
         "url": "https://open.spotify.com/album/4bc8UZIOPt9TIw4D9mnhki"
       },
@@ -2606,6 +2632,32 @@
       "duration_ms": 162017,
       "name": "TRILLE",
       "url": "https://open.spotify.com/track/3DEpiDGy8aebrTZrZB5CYY"
+    },
+    {
+      "album": {
+        "name": "Bed\u00f8velse Gj\u00f8r Mester",
+        "url": "https://open.spotify.com/album/1MEQ3H8iYw0q4npG8Bht2t"
+      },
+      "artists": [
+        {
+          "name": "Tyr",
+          "url": "https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE"
+        },
+        {
+          "name": "Arif Murakami",
+          "url": "https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q"
+        },
+        {
+          "name": "Siyab\u00e5ng",
+          "url": "https://open.spotify.com/artist/6Ry0CvCsPRp7Z9qewvxYBK"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221276,
+      "name": "Tyrs Vals (feat. Arif Murakami & Siyab\u00e5ng)",
+      "url": "https://open.spotify.com/track/0V0qOWYd1Oz1jGaVFii95s"
     },
     {
       "album": {

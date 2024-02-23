@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0H1xtM.md) - [plain]
 
 > This is Grupo Marca Registrada\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,440 likes - 51 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,698 likes - 51 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0H1xtM.md) - [plain]
 | 41 | [Sin Rencores](https://open.spotify.com/track/3zteaSRVNGnb64nYdNESgw) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Sin Rencores](https://open.spotify.com/album/3t9mSoc9znrVKsUBUyMCW5) | 2:28 |
 | 42 | [El Niño](https://open.spotify.com/track/3gEolrSD883RXFsgiruxEm) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [El Niño](https://open.spotify.com/album/752bhrEwJA4s5o39zAACNy) | 3:10 |
 | 43 | [Qué Guapo Estoy](https://open.spotify.com/track/3shsSGDlpSsll8rna0hSjt) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Qué Guapo Estoy](https://open.spotify.com/album/74bZsilu1tQq5V5VaoyqVl) | 2:41 |
-| 44 | [Duele Tu Abandono \(En Vivo\)](https://open.spotify.com/track/3MbN9WUYkiJZAGfqb3Gofk) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Duele Tu Abandono \(En Vivo\)](https://open.spotify.com/album/5sJmNPcKXGfSgeaxkX0lgT) | 4:04 |
-| 45 | [El Capitán](https://open.spotify.com/track/3QNXzlNbOSv3yM5NU69Kgo) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [Haciendo Magia](https://open.spotify.com/album/4rwLalJchv9A2bdClzPncy) | 3:54 |
+| 44 | [El Capitán](https://open.spotify.com/track/3QNXzlNbOSv3yM5NU69Kgo) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [Haciendo Magia](https://open.spotify.com/album/4rwLalJchv9A2bdClzPncy) | 3:54 |
+| 45 | [Duele Tu Abandono \(En Vivo\)](https://open.spotify.com/track/3MbN9WUYkiJZAGfqb3Gofk) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Duele Tu Abandono \(En Vivo\)](https://open.spotify.com/album/5sJmNPcKXGfSgeaxkX0lgT) | 4:04 |
 | 46 | [El Paisa](https://open.spotify.com/track/5bihD1yhbA9NsIQRBxgcl1) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Corleone](https://open.spotify.com/album/5kFm2qP6M186qWYI9wY0ji) | 2:53 |
 | 47 | [El Trébol de la Suerte](https://open.spotify.com/track/5O8ldmYB4pDLtEGwttnS6V) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [El Trébol de la Suerte](https://open.spotify.com/album/4tTABLflOnratxanByfHFA) | 3:56 |
 | 48 | [Chingón sin chingar](https://open.spotify.com/track/5UHKqatK8TCqiL1ycgaccM) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Mágico El Sueño](https://open.spotify.com/album/6qkENPFwil1ObSPNM112Uw) | 3:07 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0H1xtM.md) - [plain]
 | 50 | [El Apache \(En Vivo\)](https://open.spotify.com/track/7htXI3zf9dS7UAWkoYVMqQ) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [El Apache \(En Vivo\)](https://open.spotify.com/album/5TOmF3KlyehmdJRbkhAsTh) | 2:48 |
 | 51 | [Parrandero \(Remix\)](https://open.spotify.com/track/62W6epdy8GM2uthWuelzFV) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC), [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4), [Los Nuevos Ilegales](https://open.spotify.com/artist/0dAcy3ayJIW98jdHTacqac), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U), [Banda Los Coyulitos](https://open.spotify.com/artist/0CVlSXCgXIMQgojZ2irFYT) | [Parrandero \(Remix\)](https://open.spotify.com/album/6fQZ0ykhEyv1f6miucC5Ey) | 2:48 |
 
-Snapshot ID: `Mjg0NzUyOTAsMDAwMDAwMDAzNTQwYzAwYmJjOGFjYjBkMzRiY2QwZTIzYWEyOTYzZA==`
+Snapshot ID: `Mjg0NzcwNzUsMDAwMDAwMDAyNzIzYjRmODgyMjVkYzNlNjgxNThlMDhlODM3OWQ2NA==`

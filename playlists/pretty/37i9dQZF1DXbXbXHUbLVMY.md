@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXbXHUbLVMY.md) - [plain]
 
 ### [100 \(2\)](https://open.spotify.com/playlist/37i9dQZF1DXbXbXHUbLVMY)
 
-> Skandinavisk hiphop som holder det 100! 🚨 feat\. Marstein
+> Skandinavisk hiphop som holder det 100! 🚨
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,471 likes - 80 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,476 likes - 80 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Du datt av](https://open.spotify.com/track/4md8Ntsur3ptmuu2cAQybK) | [Jonas Benyoub](https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU) | [Du datt av](https://open.spotify.com/album/74xaWKyYl1928U9QxB8NgV) | 2:27 |
+| 1 | [Tyrs Vals \(feat\. Arif Murakami & Siyabång\)](https://open.spotify.com/track/0V0qOWYd1Oz1jGaVFii95s) | [Tyr](https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE), [Arif Murakami](https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q), [Siyabång](https://open.spotify.com/artist/6Ry0CvCsPRp7Z9qewvxYBK) | [Bedøvelse Gjør Mester](https://open.spotify.com/album/1MEQ3H8iYw0q4npG8Bht2t) | 3:41 |
 | 2 | [Matrisen](https://open.spotify.com/track/7BZ3S5F0IRzzrC7ecSqYO2) | [Marstein](https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi) | [Matrisen](https://open.spotify.com/album/3dk3EKB9BAgMnIoI8lEDYj) | 3:15 |
 | 3 | [Svar](https://open.spotify.com/track/2ZWsuZ6No9BImF61NI1ITw) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [In Memory Of Some Stand Up Guys](https://open.spotify.com/album/77Od9wwcLw10IjhX2D7srV) | 2:41 |
-| 4 | [Inga änglar \(Na na na\)](https://open.spotify.com/track/6Z81UrPb8kWlzO4bP0ETzo) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Nya Hits](https://open.spotify.com/album/3IAEBiMpkBwgSzMYQUjojd) | 3:14 |
+| 4 | [Til Toppen](https://open.spotify.com/track/3IdMka9dVfYIKZmpGf6Heo) | [Rambow](https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9), [Voksen Mann Uten Slips](https://open.spotify.com/artist/5FGyG1MDfNSzpijXguKZAF), [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp) | [Til Toppen](https://open.spotify.com/album/0yDrCi3oVTSrrQCgkQH3eo) | 2:36 |
 | 5 | [Lean & $prite](https://open.spotify.com/track/1iW01MpA3PwLW97dq1hHEH) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl), [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Lean & $prite](https://open.spotify.com/album/7eEKWJ2EWUqDTHNQnyDwCW) | 2:34 |
 | 6 | [HÅLL KÄFTEN](https://open.spotify.com/track/748Ay0C89PjJfa3iEelLmH) | [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8) | [HÅLL KÄFTEN](https://open.spotify.com/album/1rwCQvCnCIzEkCVSECmJPe) | 2:07 |
 | 7 | [SOVA](https://open.spotify.com/track/3p0WsdmgVU2ZNIufdYFBDt) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [FOR THOSE WHO BELIEVED](https://open.spotify.com/album/2AkCxCyJMIoMe07c3dUnkv) | 3:23 |
@@ -75,9 +75,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXbXHUbLVMY.md) - [plain]
 | 65 | [Løsningsorienterte](https://open.spotify.com/track/60vClM4MsGoWmEKO1soSlV) | [Ari Bajgora](https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD) | [Løsningsorienterte](https://open.spotify.com/album/5m7GdnuEejte2vkXqoconf) | 2:53 |
 | 66 | [Sprite](https://open.spotify.com/track/2wmUMn0pawCGlWdonLkWQS) | [Marstein](https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi) | [Sprite](https://open.spotify.com/album/3dM7Puknln54aDQmGa17KQ) | 2:45 |
 | 67 | [Benzin](https://open.spotify.com/track/2QUULEWNV7RG4cvW3bjrNN) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61) | [Benzin](https://open.spotify.com/album/0h9pTxa0Ww6bA98GjK1O2R) | 1:56 |
-| 68 | [Seriøs \(feat\. Amara\)](https://open.spotify.com/track/1sEYjmfPxDMS0tRxEqbWTy) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa), [Amara](https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j) | [Seriøs \(feat\. Amara\)](https://open.spotify.com/album/680vIkkksZ7C7MOoLMNbwS) | 2:36 |
-| 69 | [Mariachi](https://open.spotify.com/track/4NDYDxNhfR5eJRDXB1P6OV) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6), [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF) | [Mariachi](https://open.spotify.com/album/5VEJg4FgkfQXOJygPhgqzL) | 2:42 |
-| 70 | [Whina](https://open.spotify.com/track/06fihyXcPX2ztSWtHR2JmB) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Whina](https://open.spotify.com/album/6q9s0LplqLvb0cPCBFoILP) | 2:36 |
+| 68 | [Mariachi](https://open.spotify.com/track/4NDYDxNhfR5eJRDXB1P6OV) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6), [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF) | [Mariachi](https://open.spotify.com/album/5VEJg4FgkfQXOJygPhgqzL) | 2:42 |
+| 69 | [Whina](https://open.spotify.com/track/06fihyXcPX2ztSWtHR2JmB) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Whina](https://open.spotify.com/album/6q9s0LplqLvb0cPCBFoILP) | 2:36 |
+| 70 | [Du datt av](https://open.spotify.com/track/4md8Ntsur3ptmuu2cAQybK) | [Jonas Benyoub](https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU) | [Du datt av](https://open.spotify.com/album/74xaWKyYl1928U9QxB8NgV) | 2:27 |
 | 71 | [Nånting i Luften](https://open.spotify.com/track/0gLXS6YP75FZnZllPNdEvy) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Nånting i Luften](https://open.spotify.com/album/7pjH1T9HVPsyDsVmZybh5Y) | 2:31 |
 | 72 | [Vidunderbarn](https://open.spotify.com/track/4tF8PXK6pa5GkDUONmhVqN) | [Tyr](https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE) | [Vidunderbarn](https://open.spotify.com/album/1CKWqVN71ZYjeJLQfjUUT3) | 3:07 |
 | 73 | [Distrikt 4](https://open.spotify.com/track/3B25I4fYZ8ARelPX6tCYmV) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5), [Adam Aden](https://open.spotify.com/artist/3tEZ6bzTrFzApPwyyUlADz) | [Distrikt 4](https://open.spotify.com/album/0YyPqDxwT8jeZYequlNmsJ) | 2:06 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXbXHUbLVMY.md) - [plain]
 | 79 | [BAD GIRL](https://open.spotify.com/track/4VfxJjUTMst0kYsQkN3S54) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU), [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK) | [BAD GIRL](https://open.spotify.com/album/0YdiMAeMZJf5edz35afIQ1) | 2:28 |
 | 80 | [Ryktet sier \(ft\. Arif Murakami\)](https://open.spotify.com/track/4bONrMmoqGMrrDzrPERrqv) | [Chris Abolade](https://open.spotify.com/artist/4wqjUmydj8rX3foHUjNOtB), [Arif Murakami](https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q) | [Ryktet sier \(ft\. Arif Murakami\)](https://open.spotify.com/album/10yyOXjdgOq66TXdVF3Z03) | 2:36 |
 
-Snapshot ID: `MCwzMjlmMjQ5MTg1ZmJiZmE4YzI5MmFkZTk2MzgyNDgzN2VlZWQ1YTRi`
+Snapshot ID: `MCw1MDY4OTEwNmQzM2QyZWY4N2E0NWY2Nzk0ZTViZjk1MDIyY2NlNDNi`

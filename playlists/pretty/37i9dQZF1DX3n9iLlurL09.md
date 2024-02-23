@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3n9iLlurL09.md) - [plain]
 
 > 2012 highlights from the home of indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,580 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,624 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3n9iLlurL09.md) - [plain]
 | 99 | [It's Only Life](https://open.spotify.com/track/4UXSYJDEgOlMX3MXVkaiyH) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Port Of Morrow](https://open.spotify.com/album/4ZTcGoOrNro2aCAStXEjZi) | 4:01 |
 | 100 | [Sleepless feat\. Jezzabell Doran](https://open.spotify.com/track/18ruQREwkjMJAcxbt2L4wR) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Jezzabell Doran](https://open.spotify.com/artist/20RKwJZc7LXujAbOJuwDEZ) | [Flume](https://open.spotify.com/album/4DEGPavMvbzhSTFN8gDgPR) | 3:29 |
 
-Snapshot ID: `MCw4OTdlMTQ1ODY5YmRjZTU4ZWRiNzQ3MDk3NDhjYzYyODhjNjY3OTg2`
+Snapshot ID: `MCwxYzVhYWRmOWFhODI1ZjcxMjk0ZWYyNWQxOGQ2YzkxZjRmNDNlZDNj`

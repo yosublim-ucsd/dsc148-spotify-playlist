@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cPo2t5Hqf.md) - [plain]
 
 > Enjoy 10 years of music from HATSUNE MIKU "Project DIVA" series/ 初音ミク"Project DIVA"シリーズをひとつのプレイリストに。 © SEGA / © Crypton Future Media, INC\. <a href="https://piapro.net/">www.piapro.net</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,922 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,046 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cPo2t5Hqf.md) - [plain]
 | 99 | [いろは唄](https://open.spotify.com/track/4ZYp6mlFg37la87zyI7PvY) | [Ginsaku](https://open.spotify.com/artist/4qK0qz2xdkIubLelIVOjsz) | [Kagaminext feat\. 鏡音リン、鏡音レン ―10th ANNIVERSARY BEST―](https://open.spotify.com/album/2HbzIEq99Mqb0VgGN1g3if) | 4:05 |
 | 100 | [1/6 \-out of the gravity\- \-MIKUNOPOLIS in LOS ANGELES Live\-](https://open.spotify.com/track/7aO5JsjJXsmVbmCqrrPZgS) | [vocaliod\-P\(noa\)](https://open.spotify.com/artist/7sSRpSgATx1LST4S5zy7Ca) | [MIKUNOPOLIS in LOS ANGELES “はじめまして、初音ミクです”](https://open.spotify.com/album/5orTbWsJiKdiKYivCwZz2Y) | 2:20 |
 
-Snapshot ID: `MCxlZTFhM2Y5YmY0YTRiMTUxYzBjMTM3NWY4ODRkY2QwNWJmMTU1NGQ5`
+Snapshot ID: `MCwwN2ViZWFmZjJmNDViNWU3YzU4NTk4ZWE5ZTkxYWVjMWNmMTU3NTJk`

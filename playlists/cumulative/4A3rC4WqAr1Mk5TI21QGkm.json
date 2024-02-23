@@ -1713,6 +1713,24 @@
     },
     {
       "album": {
+        "name": "to hell with it",
+        "url": "https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108373,
+      "name": "I Must Apologise",
+      "url": "https://open.spotify.com/track/2rrq3SGYxk90xLx5fMmPhZ"
+    },
+    {
+      "album": {
         "name": "I Think I'm Normal",
         "url": "https://open.spotify.com/album/4dJ4cJBhffQiZ8XkJ4Decg"
       },

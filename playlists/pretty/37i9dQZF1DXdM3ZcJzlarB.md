@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 
 > Lo nuevo y lo más destacado de la electrónica nacional\. Portada: Peces Raros
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,692 likes - 69 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,695 likes - 69 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 | 68 | [Rival](https://open.spotify.com/track/7nTusO2SiV0C2elBhQuN0H) | [Paula OS](https://open.spotify.com/artist/117lqPm8EvEeZq1B33I6Nl) | [Rival](https://open.spotify.com/album/58HvylSzHi8JKkbX520wNc) | 6:55 |
 | 69 | [Undertones 2 \- Remix](https://open.spotify.com/track/3NCaewb7OXm9eXmW3ECd0b) | [Lujo Asiático](https://open.spotify.com/artist/2csUTFyZd2E2Zxk1v2RJFI), [Rumanians](https://open.spotify.com/artist/5Hu2cTdWpxnck5aaCeirWv) | [Undertones 2 \(Remix\)](https://open.spotify.com/album/4uLKTeYiEOsqZDLg9m2hCl) | 7:12 |
 
-Snapshot ID: `MCwzZTUwOWEzN2U5MzJkMzRjMGZkMGEzNzFmZDRmOGY2YWZiZmEyYzhj`
+Snapshot ID: `MCw5ZWE5YmI3Mjg1NTllYTQ0MDg3MTY1Nzg5MjM3MjUwYTY4ZjNkNTlm`

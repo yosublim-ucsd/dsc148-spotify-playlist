@@ -1,12 +1,12 @@
 {
   "description": "El soundtrack del verano 2024 \ud83c\udfdd\ufe0f Cover: KAROL G",
-  "num_followers": 3721294,
+  "num_followers": 3721336,
   "original_name": "Verano Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZmQ0OTA1Zjk1M2I5MTNjZTM1ODQ4NzRkZDZkNmU2NmI0YWNlOWFi",
+  "snapshot_id": "MCxmNjM5NGE5ZThjNDZlNWM4M2MxNTRkNTBjMTQ0Yjg1YzRhMDg4OGVm",
   "tracks": [
     {
       "added_at": "2024-01-25 23:19:11",
@@ -1449,6 +1449,46 @@
       "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
     },
     {
+      "added_at": "2024-02-22 22:50:35",
+      "album": {
+        "name": "Fr\u00eda",
+        "url": "https://open.spotify.com/album/77OtfyQRt7k1nPFa9FqqlJ"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "Yotuel",
+          "url": "https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8"
+        }
+      ],
+      "duration_ms": 176606,
+      "name": "Fr\u00eda",
+      "url": "https://open.spotify.com/track/5IL8eu4W9JD38Jtr5YcPAL"
+    },
+    {
+      "added_at": "2024-01-25 23:19:11",
+      "album": {
+        "name": "MAMIII",
+        "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 226088,
+      "name": "MAMIII",
+      "url": "https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs"
+    },
+    {
       "added_at": "2024-01-25 23:19:11",
       "album": {
         "name": "Mu\u00f1ekita (with El Alfa & JT)",
@@ -1471,26 +1511,6 @@
       "duration_ms": 219642,
       "name": "Mu\u00f1ekita (with El Alfa & JT)",
       "url": "https://open.spotify.com/track/4PzxlHzDM3bDafkHjg1XCX"
-    },
-    {
-      "added_at": "2024-01-25 23:19:11",
-      "album": {
-        "name": "MAMIII",
-        "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 226088,
-      "name": "MAMIII",
-      "url": "https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs"
     },
     {
       "added_at": "2024-01-25 23:19:11",
@@ -1555,26 +1575,6 @@
     {
       "added_at": "2024-01-25 23:19:11",
       "album": {
-        "name": "Cracker Island",
-        "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 193463,
-      "name": "Tormenta (feat. Bad Bunny)",
-      "url": "https://open.spotify.com/track/38UYeBLfvpnDSG9GznZdnL"
-    },
-    {
-      "added_at": "2024-01-25 23:19:11",
-      "album": {
         "name": "Pareja Del A\u00f1o",
         "url": "https://open.spotify.com/album/202FLmfHxcvLHPiqmAjWyJ"
       },
@@ -1591,6 +1591,26 @@
       "duration_ms": 195053,
       "name": "Pareja Del A\u00f1o",
       "url": "https://open.spotify.com/track/2rCbl9naJYhaxjLsfx88uM"
+    },
+    {
+      "added_at": "2024-01-25 23:19:11",
+      "album": {
+        "name": "Cracker Island",
+        "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 193463,
+      "name": "Tormenta (feat. Bad Bunny)",
+      "url": "https://open.spotify.com/track/38UYeBLfvpnDSG9GznZdnL"
     },
     {
       "added_at": "2024-01-25 23:19:11",
@@ -1651,6 +1671,26 @@
     {
       "added_at": "2024-01-25 23:19:11",
       "album": {
+        "name": "Esta Vida",
+        "url": "https://open.spotify.com/album/5C82uAeAwABjDB7lsLL9iL"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 209135,
+      "name": "Esta Vida",
+      "url": "https://open.spotify.com/track/5OSGdSxtulzlzdPdK2MQJC"
+    },
+    {
+      "added_at": "2024-01-25 23:19:11",
+      "album": {
         "name": "Relaci\u00f3n (Remix)",
         "url": "https://open.spotify.com/album/2O985DZAb4i6M6iu4HWqSX"
       },
@@ -1679,26 +1719,6 @@
       "duration_ms": 247308,
       "name": "Relaci\u00f3n - Remix",
       "url": "https://open.spotify.com/track/35UUpTmrcFXNIVIN26ujXl"
-    },
-    {
-      "added_at": "2024-01-25 23:19:11",
-      "album": {
-        "name": "Esta Vida",
-        "url": "https://open.spotify.com/album/5C82uAeAwABjDB7lsLL9iL"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 209135,
-      "name": "Esta Vida",
-      "url": "https://open.spotify.com/track/5OSGdSxtulzlzdPdK2MQJC"
     },
     {
       "added_at": "2024-01-25 23:19:11",
@@ -1903,30 +1923,6 @@
       "duration_ms": 166739,
       "name": "CUANDO BAJE EL SOL",
       "url": "https://open.spotify.com/track/4OVHxReloGwGriqVFF2M79"
-    },
-    {
-      "added_at": "2024-01-25 23:19:11",
-      "album": {
-        "name": "Loco",
-        "url": "https://open.spotify.com/album/0Aq33KpcbXrHkuyfMhEORI"
-      },
-      "artists": [
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
-          "name": "Chimbala",
-          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
-        },
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        }
-      ],
-      "duration_ms": 231603,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/6PDlkWmrq2ZKiUuFt2aQsH"
     }
   ],
   "unique_name": "Verano Forever",

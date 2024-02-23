@@ -4,7 +4,7 @@
 
 > A collection of insane progressive rock creations, from classic acts to recent gems\. Cover: Rush
 
-213 songs - 1 day 6 hr 4 min
+214 songs - 1 day 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,8 @@
 | [Nine Feet Underground \- Medley](https://open.spotify.com/track/0Y4Qokp46GcqB9aXX2nFNZ) | [Richard Sinclair](https://open.spotify.com/artist/2hPlbSdQUzyuyVFxv43oRM), [David Sinclair](https://open.spotify.com/artist/4uH8njAb6KcUfLEBioTQQk), [Pye Hastings](https://open.spotify.com/artist/0LEzVHjmwrlmI7XN8YB4T4), [Richard Coughlan](https://open.spotify.com/artist/2fyJ8bKcKbrFVyimhREiKj), [Caravan](https://open.spotify.com/artist/5kwbFaRKf9HCFGrJPacZ7s) | [In The Land Of Grey And Pink](https://open.spotify.com/album/6TWjon4uYsV2wu7QJTuKjd) | 22:44 | 2018-09-28 |  |
 | [Nuclear Burn](https://open.spotify.com/track/0aVwclUm2FsksllwpJRlaX) | [Brand X](https://open.spotify.com/artist/4DngluvBNHm2Q0rLW1yEqy) | [Unorthodox Behaviour](https://open.spotify.com/album/269fg0y6CZLjYoWgTiIad0) | 6:23 | 2023-03-22 |  |
 | [On the Backs of Angels](https://open.spotify.com/track/1LEl9029bRIrHhssrf0Td6) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [A Dramatic Turn of Events](https://open.spotify.com/album/6nTSYgih82tTwdWvmbtPHW) | 8:42 | 2018-09-28 | 2023-03-23 |
-| [On the Loose \- Remastered](https://open.spotify.com/track/1gRqRvIyDWIkEuczfC4krI) | [Saga](https://open.spotify.com/artist/09u8U2kk11NOZFLcNJEdJF) | [Worlds Apart \(Remastered 2021\)](https://open.spotify.com/album/4hlUznCGhZql7AKlitaPbj) | 4:12 | 2023-03-22 |  |
+| [On the Loose](https://open.spotify.com/track/2WJvcoVqoj5j6ciImA9orj) | [Saga](https://open.spotify.com/artist/09u8U2kk11NOZFLcNJEdJF) | [Worlds Apart](https://open.spotify.com/album/2vrkrjQsrXnie0Eel1M2a5) | 4:12 | 2023-03-22 |  |
+| [On the Loose \- Remastered](https://open.spotify.com/track/1gRqRvIyDWIkEuczfC4krI) | [Saga](https://open.spotify.com/artist/09u8U2kk11NOZFLcNJEdJF) | [Worlds Apart \(Remastered 2021\)](https://open.spotify.com/album/4hlUznCGhZql7AKlitaPbj) | 4:12 | 2023-03-22 | 2024-02-23 |
 | [Openings](https://open.spotify.com/track/5QWOJW2k46ZIe61xzR6NpF) | [Sebastian Hardie](https://open.spotify.com/artist/6hKIp7IMPsRhA5GUK6LUTS) | [Four Moments](https://open.spotify.com/album/18pVMj6TfxkBO9xMmqJx1J) | 13:07 | 2018-09-28 | 2023-03-23 |
 | [Pantagruel's Nativity](https://open.spotify.com/track/0hY38Uc5H5j4BgxEf0guhA) | [Gentle Giant](https://open.spotify.com/artist/1hrQ50kU6hMQBVLatqUqnO) | [Acquiring The Taste](https://open.spotify.com/album/0qekoQ8uVQptRVxg6UNNlF) | 6:50 | 2018-09-28 | 2022-07-29 |
 | [Pantagruel's Nativity](https://open.spotify.com/track/5ygfRsuvxriEa1e8FPLxlx) | [Gentle Giant](https://open.spotify.com/artist/1hrQ50kU6hMQBVLatqUqnO) | [Acquiring The Taste](https://open.spotify.com/album/7sMpdqLgCDDGMx7NE3rf3o) | 6:50 | 2018-09-28 | 2023-03-23 |

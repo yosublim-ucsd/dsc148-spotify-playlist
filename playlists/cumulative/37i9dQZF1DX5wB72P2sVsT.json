@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "David Guetta au top des bangers dance/electro du moment !",
+  "description": "TR3NACRIA au top des bangers dance/electro du moment !",
   "name": "Banger",
   "tracks": [
     {
@@ -510,7 +510,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 164914,
       "name": "Disconnect",
       "url": "https://open.spotify.com/track/602d2gJewoiF1FivuOMMwE"
@@ -1242,7 +1242,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 145766,
       "name": "Marianela (Que Pasa)",
       "url": "https://open.spotify.com/track/5bZjb7xKqLqa58QiUBcVvl"
@@ -1320,6 +1320,28 @@
       "duration_ms": 182307,
       "name": "Miracle (with Ellie Goulding) - David Guetta Remix",
       "url": "https://open.spotify.com/track/4RFlvg9BmFnvlIBIZGg1Dt"
+    },
+    {
+      "album": {
+        "name": "MONEY ON THE DASH",
+        "url": "https://open.spotify.com/album/1nlaLDMPSzXL8G5LPBDhwd"
+      },
+      "artists": [
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        },
+        {
+          "name": "Whethan",
+          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145666,
+      "name": "MONEY ON THE DASH",
+      "url": "https://open.spotify.com/track/1p0jBDjxORjYNJyAphBRpE"
     },
     {
       "album": {
@@ -2448,6 +2470,28 @@
       "duration_ms": 154620,
       "name": "Wrong or Right (The Riddle)",
       "url": "https://open.spotify.com/track/78VSoe3vn4gR4pYSTBiAXA"
+    },
+    {
+      "album": {
+        "name": "WTF R U!?",
+        "url": "https://open.spotify.com/album/1qNBQh6STwsh2iP8bFecSg"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        },
+        {
+          "name": "Lucky Luke",
+          "url": "https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152813,
+      "name": "WTF R U!?",
+      "url": "https://open.spotify.com/track/7IrBKNBMGIDv8od1EEaQPk"
     },
     {
       "album": {

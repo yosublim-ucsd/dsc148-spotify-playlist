@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2tUcRG.md) - [plain]
 
 > This is Gabriela Rocha\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,227 likes - 51 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,247 likes - 51 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2tUcRG.md) - [plain]
 | 37 | [Teu Santo Nome \- Ao Vivo](https://open.spotify.com/track/0CP4vevAzKaN0M5SXEGMXh) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Até Transbordar \(Ao Vivo\)](https://open.spotify.com/album/3HjpM1erx8nlbEgmNKpIj0) | 7:16 |
 | 38 | [Não Há Nome Maior](https://open.spotify.com/track/4WkdRazRRMtnsvdyiiC7FB) | [REVERE](https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb), [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Não Há Nome Maior](https://open.spotify.com/album/6vuoxQ1WYRV4xAKBm7f9ok) | 5:09 |
 | 39 | [Acts 2](https://open.spotify.com/track/2SMCSikXj3CYsghcaUVscv) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Acts 2](https://open.spotify.com/album/1dMORalDL5wqJ4xEIN61U1) | 6:15 |
-| 40 | [Hosana \- Ao Vivo](https://open.spotify.com/track/4O7Ln8etrGytw9GzXTcwZX) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O) | [Hosana \(Ao Vivo\)](https://open.spotify.com/album/3cplcet0CoHxlsAfh9O1UA) | 5:26 |
-| 41 | [Senhor Formoso És / Ele é Exaltado](https://open.spotify.com/track/4qs5rB4poxnuCBb5k5Ix5T) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Senhor Formoso És / Ele é Exaltado](https://open.spotify.com/album/68FpY5H3qrTqpRFY5QQdYW) | 5:09 |
+| 40 | [Senhor Formoso És / Ele é Exaltado](https://open.spotify.com/track/4qs5rB4poxnuCBb5k5Ix5T) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Senhor Formoso És / Ele é Exaltado](https://open.spotify.com/album/68FpY5H3qrTqpRFY5QQdYW) | 5:09 |
+| 41 | [Hosana \- Ao Vivo](https://open.spotify.com/track/4O7Ln8etrGytw9GzXTcwZX) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O) | [Hosana \(Ao Vivo\)](https://open.spotify.com/album/3cplcet0CoHxlsAfh9O1UA) | 5:26 |
 | 42 | [Santo Espírito Vem](https://open.spotify.com/track/3MtZ1l5loncthielYUMhAB) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Céu](https://open.spotify.com/album/5MNtZvAvFWwc6eFbrFLbg9) | 6:56 |
 | 43 | [Me Lembro \(feat\. Gabriela Rocha\) \- Ao Vivo](https://open.spotify.com/track/2no4Dq2nbKKTjpraKC8Hq1) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Me Lembro \(feat\. Gabriela Rocha\) \[Ao Vivo\]](https://open.spotify.com/album/466xz1jfDwRSeHZxxLXpsw) | 8:55 |
 | 44 | [Believe For It](https://open.spotify.com/track/4kDXqQjTLK3DJyKVh069PB) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Believe For It](https://open.spotify.com/album/3RB7a3IhazOJUJHPccIpQz) | 5:38 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2tUcRG.md) - [plain]
 | 50 | [Estás Comigo](https://open.spotify.com/track/1ZzqP7qxiVAjmScE9AlE3n) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Jesus](https://open.spotify.com/album/2PDO2DqKmVPbHIIoHvoaBd) | 4:39 |
 | 51 | [Vem \- Ao Vivo](https://open.spotify.com/track/5IW9WRaLxJblCkVXhC1vye) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Vem \(Ao Vivo\)](https://open.spotify.com/album/2Issr9syuEqaUOfFRFXBms) | 9:31 |
 
-Snapshot ID: `Mjg0NzUyOTAsMDAwMDAwMDBmN2MyZDU0NzdkN2RhMzU1ZjRhNjQwZDQwMjAwMjI4Yg==`
+Snapshot ID: `Mjg0NzcwNzUsMDAwMDAwMDA1NmZkZTFiNGY0OTNmNDJjM2M3NTJhM2ZkZGFlNmMxMg==`

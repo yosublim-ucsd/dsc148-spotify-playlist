@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 
 > ¡Lo más fresco del hip\-hop en español! Gera MX y EMJAY en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,090 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,098 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 | 8 | [Feria en el Sobre](https://open.spotify.com/track/5npAbr2v6wRL75IHWp2Noi) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Feria en el Sobre](https://open.spotify.com/album/23Mm9RJhQPOToWrGdcAmRc) | 3:14 |
 | 9 | [Tantas Veces](https://open.spotify.com/track/2qwioaV8uut5qa1R09Bjrj) | [Sike Damodar](https://open.spotify.com/artist/3w8j14IiejZYTYSHyMwemO), [Oblivion's Mighty Trash](https://open.spotify.com/artist/3UKTWNfZH3dyR2hI1rNtUH), [Dj Peche](https://open.spotify.com/artist/2A8QxDqnIx1tyMtCvfgm0s), [Barbatos Beats](https://open.spotify.com/artist/7y3eSJimYcBJfVdySzewCh), [Diavlitx](https://open.spotify.com/artist/2U1jqnxlnyZcVlezYQBb5g) | [Tantas Veces](https://open.spotify.com/album/0CYK2EbQOcDwGopjlqcPRM) | 2:29 |
 | 10 | [Cypher MND \#16 v.1 : Duki](https://open.spotify.com/track/2AxzQded8FgpiikNxP2dDc) | [Mundialista Crew](https://open.spotify.com/artist/6EcQO0oH1Bk27HMRlRNwYv), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Shigant\-G](https://open.spotify.com/artist/16zBWpyiDMtWDpGIueLZbC) | [Cypher MND \#16: DUKI](https://open.spotify.com/album/3iHcY5LYKnGIdNqA9kXH3C) | 2:57 |
-| 11 | [Da Capo](https://open.spotify.com/track/37rJxaVXeP1tO0hoMqYrxN) | [ha$lopablito](https://open.spotify.com/artist/2oWYJFQ324bj4y4Km5eNeX), [Willie DeVille](https://open.spotify.com/artist/18vnqu7XJRHPmua3tsejG5), [Hi\-Kymon](https://open.spotify.com/artist/16WCvOujBHZJ3jKoLRpWKb), [Pezcatore](https://open.spotify.com/artist/5T7FQGGs5vVldFp9Z7xCao) | [Da Capo](https://open.spotify.com/album/1DY9wxWoohEiCxBw9tzhS7) | 3:06 |
+| 11 | [Da Capo](https://open.spotify.com/track/37rJxaVXeP1tO0hoMqYrxN) | [Hi\-Kymon](https://open.spotify.com/artist/16WCvOujBHZJ3jKoLRpWKb), [Willie DeVille](https://open.spotify.com/artist/18vnqu7XJRHPmua3tsejG5), [ha$lopablito](https://open.spotify.com/artist/2oWYJFQ324bj4y4Km5eNeX), [Pezcatore](https://open.spotify.com/artist/5T7FQGGs5vVldFp9Z7xCao) | [Da Capo](https://open.spotify.com/album/1DY9wxWoohEiCxBw9tzhS7) | 3:06 |
 | 12 | [Por La Familia](https://open.spotify.com/track/03uEJDEIXtm3FAV4iXcs68) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [BorderKid](https://open.spotify.com/artist/7ygIMSIwRfGk8Ro6AOEuu3) | [Por La Familia](https://open.spotify.com/album/7D7a4qJmKNXAdDnHvHNJ2T) | 2:33 |
 | 13 | [LÁSER](https://open.spotify.com/track/0qyxjdZPV2wnt4XfCfANhC) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ) | [LÁSER](https://open.spotify.com/album/2KMJnYhKlI5c5sOrt8voRC) | 2:39 |
 | 14 | [HOMENAJE](https://open.spotify.com/track/02qsYZznhFSX0psInKC7st) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Anubiis](https://open.spotify.com/artist/5X8Uu9qHN3KXLH2Fws87LB), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [HOMENAJE](https://open.spotify.com/album/0ztt17XG00kFS3YcCauWts) | 3:35 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 | 99 | [Furyosa](https://open.spotify.com/track/5AXYkwNrS0SyXYSJZAWVBw) | [Kei Linch](https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf) | [Furyosa](https://open.spotify.com/album/1RxwnAQQhI86ZxxtzRGynx) | 2:37 |
 | 100 | [Lounge](https://open.spotify.com/track/0JKhjlnxU2YFkwBW3YSWSv) | [Fntxy](https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx) | [Easy To Hate](https://open.spotify.com/album/0ZF33hMiwMqDHu8IadpggZ) | 3:16 |
 
-Snapshot ID: `MCxmMWExMDcxNDljNGZjYWJhOGMxYzA3MmUxMmYzZmFkMWExNDVjZWY2`
+Snapshot ID: `MCw0NTFiNzc5YWRmNWFhNThkZTMxZjdiMDk4ODU0N2U4MDZhYTlkYmFm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0RRszxFFrw.md) - [plain]
 
 > Dulces rasgueos de cuerdas para acompañar tu velada
 
-[Spotify](https://open.spotify.com/user/spotify) - 413 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 432 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0RRszxFFrw.md) - [plain]
 | 74 | [Porgy and Bess: Summertime \- The Sound of Music: My Favorite Things \- Autumn Leaves \(arr\. J\. Carter\)](https://open.spotify.com/track/6XhpnareRxv7kVHE4nVpXt) | [Jason Carter](https://open.spotify.com/artist/3i8UqBUlpr6tMmD71XPjS1) | [Contemporary Spanish Guitar: Kindred Spirits](https://open.spotify.com/album/61scRHtRDhLo89WfuniFJV) | 6:42 |
 | 75 | [Dan\-Son](https://open.spotify.com/track/7IqSzzollrdq3DeKmx9FE2) | [Enrico Chapela](https://open.spotify.com/artist/2nJVCarJHG5EjOGTitbA4K), [Cuarteto de Guitarras de la Ciudad de México](https://open.spotify.com/artist/2QL42RATuYg1tMBhGDFwBV) | [Sones y Danzones de Buena Madera](https://open.spotify.com/album/4qIABg8vLwPR3LO4pqFx00) | 6:10 |
 
-Snapshot ID: `MCw5OGNhZGMxZGIwMmUwMzVhMTYyMTFiMjhhOGNlOWUyMzJlYzYzMzk2`
+Snapshot ID: `MCw0ZTg0MDczN2M5Y2JjNzhlZWRjN2Q2ODg1OTcwMzFjOTc4MDY2MzYw`

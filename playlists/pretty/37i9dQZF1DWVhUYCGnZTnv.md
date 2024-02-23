@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhUYCGnZTnv.md) - [plain]
 
 > Your very own time capsule: a nostalgic look back on the past four years.
 
-[Spotify](https://open.spotify.com/user/spotify) - 525 likes - 150 songs - 8 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 528 likes - 150 songs - 8 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhUYCGnZTnv.md) - [plain]
 | 149 | [Say So](https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 3:57 |
 | 150 | [Crew \(feat\. Brent Faiyaz & Shy Glizzy\)](https://open.spotify.com/track/15EPc80XuFrb2LmOzGjuRg) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Shy Glizzy](https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs) | [At What Cost](https://open.spotify.com/album/18JrBX1QkpnUSJF3oxX6RX) | 2:56 |
 
-Snapshot ID: `MCw1MDIxZGY4OTViYWI4M2NlYjY0NjNlNWUwOTAzYzgzYjJkNjg4NGVj`
+Snapshot ID: `MCw1N2QxZjViY2YwMGNjYTM5ZDAzNTE2ZTE1MmEwOTU1ZDIwYWU3MDAx`

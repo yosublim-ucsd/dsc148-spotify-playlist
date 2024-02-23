@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 
 > A dazzling but very sad feeling\. Enjoy the city pop music of Korean singers\. \(Cover: Mitty\(미티\)\) \(찬란하고도 아련한 느낌을 간직한 한국 시티팝을 즐겨보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,565 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,585 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 | 99 | [Come With Me](https://open.spotify.com/track/6QGgZu5a3oDPO2NMrlesCd) | [KozyPop](https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi), [Aden](https://open.spotify.com/artist/4UDCQ7Ef3OTa8jd1SzXIsv), [H!](https://open.spotify.com/artist/3gVpUJcNNDu43pV4xlzmyJ) | [Seoul Vibes, Oceanic](https://open.spotify.com/album/2gQ2s0q9UDJRYhpAdVCjSs) | 3:11 |
 | 100 | [Afterlife \(Feat\. OOHYO\)](https://open.spotify.com/track/3uIZ7nuzrccIBlLQB45p2a) | [Space Cowboy](https://open.spotify.com/artist/6zVZaYShKYDoZRXKTEDIk7), [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Afterlife \(Feat\. OOHYO\)](https://open.spotify.com/album/3yAwMfJl4iH3zmq2HC4d3C) | 4:30 |
 
-Snapshot ID: `MCw3MWRjMzIzNjc0ZWZlMjM5ZjY0MWExNGQxMGExNGU3ZGFlZDcyMDlj`
+Snapshot ID: `MCxjNmI2M2YzOTFhN2I1YzE2ZmRjNGIzYjQ4NDJhMmZhMWZjNTQzYmZm`
