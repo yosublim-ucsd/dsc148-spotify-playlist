@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The most essential R&B songs from the 90s. Cover: Ms. Lauryn Hill",
+  "description": "Celebrating the 25th anniversary of \"Fanmail\". Cover: TLC",
   "name": "I Love My '90s R&B",
   "tracks": [
     {
@@ -1656,10 +1656,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 214400,
       "name": "No Scrubs",
       "url": "https://open.spotify.com/track/1KGi9sZVMeszgZOWivFpxs"
+    },
+    {
+      "album": {
+        "name": "Fanmail",
+        "url": "https://open.spotify.com/album/04LFXnEBkVE6mZfxGeCLbM"
+      },
+      "artists": [
+        {
+          "name": "TLC",
+          "url": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214440,
+      "name": "No Scrubs",
+      "url": "https://open.spotify.com/track/3NpsJc5SOINskuK3z08Q9C"
     },
     {
       "album": {

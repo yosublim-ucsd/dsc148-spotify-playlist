@@ -1,12 +1,12 @@
 {
   "description": "Relaxe com grandes hits da m\u00fasica nacional em vers\u00f5es ac\u00fasticas. ",
-  "num_followers": 1520338,
+  "num_followers": 1520530,
   "original_name": "Desplugado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDA3MDkzNDkzYjVlZTg1NjhiNWE4YWMyMDZmZWYxNjQzNjA1NTI5",
+  "snapshot_id": "MCw2OWE4ODVhMWQxNmQyM2I2MTA0MWM4OTA3ZDFmNDRiYTllOTc4Y2M2",
   "tracks": [
     {
       "added_at": "2023-10-13 03:00:00",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3UV3FcOPCo0vCHnKLIfN2V"
-      },
-      "artists": [
-        {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
-        }
-      ],
-      "duration_ms": 194440,
-      "name": "Quase Sem Querer - Recorded At Mosh Studios, S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/7x2PPGgAptvKQI2Aw8XIY0"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "Promete",
         "url": "https://open.spotify.com/album/6DXshRqI83BTRfeWtspvyQ"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 198377,
       "name": "Promete",
       "url": "https://open.spotify.com/track/7iB72vyGDEcc232lctJdgL"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3UV3FcOPCo0vCHnKLIfN2V"
+      },
+      "artists": [
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "duration_ms": 194440,
+      "name": "Quase Sem Querer - Recorded At Mosh Studios, S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/7x2PPGgAptvKQI2Aw8XIY0"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -903,6 +903,22 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
+        "name": "Andarilho",
+        "url": "https://open.spotify.com/album/4Q380wGkwoZ8ScnWrBoRC0"
+      },
+      "artists": [
+        {
+          "name": "Majur",
+          "url": "https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7"
+        }
+      ],
+      "duration_ms": 230160,
+      "name": "Andarilho",
+      "url": "https://open.spotify.com/track/4hZhNXdmGAQf3mHO1ZLf60"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
         "name": "Um Anjo do C\u00e9u (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/6dV3mqwoIdACcrzyD8BdIi"
       },
@@ -919,18 +935,18 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Andarilho",
-        "url": "https://open.spotify.com/album/4Q380wGkwoZ8ScnWrBoRC0"
+        "name": "In\u00edcio, Meio e Fim",
+        "url": "https://open.spotify.com/album/5TahEqfBGN6qUwRCNYk7xW"
       },
       "artists": [
         {
-          "name": "Majur",
-          "url": "https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7"
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
         }
       ],
-      "duration_ms": 230160,
-      "name": "Andarilho",
-      "url": "https://open.spotify.com/track/4hZhNXdmGAQf3mHO1ZLf60"
+      "duration_ms": 195138,
+      "name": "Sorte",
+      "url": "https://open.spotify.com/track/2xuG9kIWSOUKxYYjCzmuSq"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -951,22 +967,6 @@
       "duration_ms": 257282,
       "name": "Outra Vez - Ao Vivo",
       "url": "https://open.spotify.com/track/1fC4ixhfi1eiurXafXQ4UL"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "In\u00edcio, Meio e Fim",
-        "url": "https://open.spotify.com/album/5TahEqfBGN6qUwRCNYk7xW"
-      },
-      "artists": [
-        {
-          "name": "Hotelo",
-          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
-        }
-      ],
-      "duration_ms": 195138,
-      "name": "Sorte",
-      "url": "https://open.spotify.com/track/2xuG9kIWSOUKxYYjCzmuSq"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1071,38 +1071,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Terra do Nunca (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/5srHRGI7y6NKTPzvhkKfgj"
-      },
-      "artists": [
-        {
-          "name": "Dilsinho",
-          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
-        }
-      ],
-      "duration_ms": 205408,
-      "name": "P\u00e9ssimo Neg\u00f3cio (Ao Vivo) - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/7wBTOYiJy9Fa1JeTtrZIBQ"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "Saideira Ac\u00fastico Sessions",
-        "url": "https://open.spotify.com/album/25dOkXZ3uEjF6lamqU3qRC"
-      },
-      "artists": [
-        {
-          "name": "Jota Quest",
-          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
-        }
-      ],
-      "duration_ms": 267333,
-      "name": "Todas as Janelas",
-      "url": "https://open.spotify.com/track/6BO1F7s14ZehAecywx99G6"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "S\u00f3 Penso Nela (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/2wtiPI88rTbmrbB1zPndhY"
       },
@@ -1131,6 +1099,38 @@
       "duration_ms": 138750,
       "name": "Eu N\u00e3o Falo Te Amo - Ac\u00fastico",
       "url": "https://open.spotify.com/track/2WxFY1YD1WWCdAmefTM2xd"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Terra do Nunca (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/5srHRGI7y6NKTPzvhkKfgj"
+      },
+      "artists": [
+        {
+          "name": "Dilsinho",
+          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+        }
+      ],
+      "duration_ms": 205408,
+      "name": "P\u00e9ssimo Neg\u00f3cio (Ao Vivo) - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/7wBTOYiJy9Fa1JeTtrZIBQ"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Saideira Ac\u00fastico Sessions",
+        "url": "https://open.spotify.com/album/25dOkXZ3uEjF6lamqU3qRC"
+      },
+      "artists": [
+        {
+          "name": "Jota Quest",
+          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
+        }
+      ],
+      "duration_ms": 267333,
+      "name": "Todas as Janelas",
+      "url": "https://open.spotify.com/track/6BO1F7s14ZehAecywx99G6"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
+        "name": "Faz Assim",
+        "url": "https://open.spotify.com/album/4fxqCty5vTVBInKcsPbxUn"
+      },
+      "artists": [
+        {
+          "name": "Thiago Brava",
+          "url": "https://open.spotify.com/artist/1LGh5vyaoQP9bgTwLSMTyW"
+        }
+      ],
+      "duration_ms": 221717,
+      "name": "Faz Assim",
+      "url": "https://open.spotify.com/track/1Fqqsix8vpczfyOvbGq079"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
         "name": "B\u00e9di Beat (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/7rWDPF2Treuwp15lppTtdo"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 275750,
       "name": "B\u00e9di Beat (Ac\u00fastico)",
       "url": "https://open.spotify.com/track/2T8p68OOvJJ5IL0zaHKF9P"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "Faz Assim",
-        "url": "https://open.spotify.com/album/4fxqCty5vTVBInKcsPbxUn"
-      },
-      "artists": [
-        {
-          "name": "Thiago Brava",
-          "url": "https://open.spotify.com/artist/1LGh5vyaoQP9bgTwLSMTyW"
-        }
-      ],
-      "duration_ms": 221717,
-      "name": "Faz Assim",
-      "url": "https://open.spotify.com/track/1Fqqsix8vpczfyOvbGq079"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1307,26 +1307,6 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Capim-Cidreira (Infus\u00e3o)",
-        "url": "https://open.spotify.com/album/0SxtvIuXfAQ4odtxNReDV5"
-      },
-      "artists": [
-        {
-          "name": "Rael",
-          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
-        },
-        {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
-        }
-      ],
-      "duration_ms": 174706,
-      "name": "Rei do Luau - Infus\u00e3o",
-      "url": "https://open.spotify.com/track/3AX8SrWe9k85uV3ZGTrRdS"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
         "name": "O Seu Grande Amor",
         "url": "https://open.spotify.com/album/4Vxv79QNhSASp4hodVNKJS"
       },
@@ -1343,6 +1323,26 @@
       "duration_ms": 211896,
       "name": "O Seu Grande Amor",
       "url": "https://open.spotify.com/track/5dCHsx2BfXrBUrByaLeBqq"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Capim-Cidreira (Infus\u00e3o)",
+        "url": "https://open.spotify.com/album/0SxtvIuXfAQ4odtxNReDV5"
+      },
+      "artists": [
+        {
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+        },
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        }
+      ],
+      "duration_ms": 174706,
+      "name": "Rei do Luau - Infus\u00e3o",
+      "url": "https://open.spotify.com/track/3AX8SrWe9k85uV3ZGTrRdS"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1575,18 +1575,18 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Turn\u00ea Planeta Borboleta - Ao Vivo",
-        "url": "https://open.spotify.com/album/5URVNSoPTvs4iwsJOtAces"
+        "name": "Me Diz",
+        "url": "https://open.spotify.com/album/0mkif5b8SW3koODDQbwN9l"
       },
       "artists": [
         {
-          "name": "Mariana Nolasco",
-          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
+          "name": "Ariane Villa Lobos",
+          "url": "https://open.spotify.com/artist/4qBpmZnoissevo5OnTp5Uz"
         }
       ],
-      "duration_ms": 191839,
-      "name": "Certeza - Ao Vivo",
-      "url": "https://open.spotify.com/track/1j1jFRnapbAfyF4pmzFNv0"
+      "duration_ms": 206375,
+      "name": "Me Diz",
+      "url": "https://open.spotify.com/track/10lmdxhXzNHFUPL3spPCvf"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1607,38 +1607,18 @@
     {
       "added_at": "2023-10-13 03:00:00",
       "album": {
-        "name": "Me Diz",
-        "url": "https://open.spotify.com/album/0mkif5b8SW3koODDQbwN9l"
+        "name": "Turn\u00ea Planeta Borboleta - Ao Vivo",
+        "url": "https://open.spotify.com/album/5URVNSoPTvs4iwsJOtAces"
       },
       "artists": [
         {
-          "name": "Ariane Villa Lobos",
-          "url": "https://open.spotify.com/artist/4qBpmZnoissevo5OnTp5Uz"
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
         }
       ],
-      "duration_ms": 206375,
-      "name": "Me Diz",
-      "url": "https://open.spotify.com/track/10lmdxhXzNHFUPL3spPCvf"
-    },
-    {
-      "added_at": "2023-10-13 03:00:00",
-      "album": {
-        "name": "Dif\u00edcil Acreditar (Vers\u00e3o Ac\u00fastica)",
-        "url": "https://open.spotify.com/album/4hUmGaTlOGFhmxFWuMGUYd"
-      },
-      "artists": [
-        {
-          "name": "Os Bartira",
-          "url": "https://open.spotify.com/artist/3xXG7d3Coe0jSFY5GNSm9w"
-        },
-        {
-          "name": "Tatila Krau",
-          "url": "https://open.spotify.com/artist/1qZrF4DpSsuFhXHH8Vp6Rv"
-        }
-      ],
-      "duration_ms": 221865,
-      "name": "Dif\u00edcil Acreditar - Vers\u00e3o Ac\u00fastica",
-      "url": "https://open.spotify.com/track/1J6SRchSkxDhA5gaQIwyaZ"
+      "duration_ms": 191839,
+      "name": "Certeza - Ao Vivo",
+      "url": "https://open.spotify.com/track/1j1jFRnapbAfyF4pmzFNv0"
     },
     {
       "added_at": "2023-10-13 03:00:00",
@@ -1675,6 +1655,26 @@
       "duration_ms": 226714,
       "name": "Interestelar",
       "url": "https://open.spotify.com/track/227AKgtjtFJNDTY9TJwQ4x"
+    },
+    {
+      "added_at": "2023-10-13 03:00:00",
+      "album": {
+        "name": "Dif\u00edcil Acreditar (Vers\u00e3o Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/4hUmGaTlOGFhmxFWuMGUYd"
+      },
+      "artists": [
+        {
+          "name": "Os Bartira",
+          "url": "https://open.spotify.com/artist/3xXG7d3Coe0jSFY5GNSm9w"
+        },
+        {
+          "name": "Tatila Krau",
+          "url": "https://open.spotify.com/artist/1qZrF4DpSsuFhXHH8Vp6Rv"
+        }
+      ],
+      "duration_ms": 221865,
+      "name": "Dif\u00edcil Acreditar - Vers\u00e3o Ac\u00fastica",
+      "url": "https://open.spotify.com/track/1J6SRchSkxDhA5gaQIwyaZ"
     },
     {
       "added_at": "2023-10-13 03:00:00",

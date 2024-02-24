@@ -1,5 +1,5 @@
 {
-  "2024-02-23": 125258,
+  "2024-02-24": 125272,
   "date_first_scraped": "2022-05-15",
   "description": "Warm and cozy acoustic instrumentals.",
   "name": "Sweater Weather Instrumentals",
@@ -3362,6 +3362,24 @@
     },
     {
       "album": {
+        "name": "Now I Am Older",
+        "url": "https://open.spotify.com/album/3aO4aeFXjiX8YmJTmjIvod"
+      },
+      "artists": [
+        {
+          "name": "Jim Nash",
+          "url": "https://open.spotify.com/artist/5Q8X9eQtzN2M4kpgxOMp2m"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120190,
+      "name": "Now I Am Older",
+      "url": "https://open.spotify.com/track/7r5C8q2c1bEr13EQFlLfhR"
+    },
+    {
+      "album": {
         "name": "Ocean View",
         "url": "https://open.spotify.com/album/1IWqrzNu8FNPasLEbQgojS"
       },
@@ -4111,7 +4129,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 180543,
       "name": "Sleeping In",
       "url": "https://open.spotify.com/track/5VLRRFirz43glb8VaLi0u5"

@@ -1,5 +1,5 @@
 {
-  "2024-02-23": 220982,
+  "2024-02-24": 221277,
   "date_first_scraped": "2023-03-14",
   "description": "love peace techno",
   "name": "rave",
@@ -225,7 +225,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 164327,
       "name": "All The Things She Said - Teaboy Flip",
       "url": "https://open.spotify.com/track/4r8vtv55ZqVxRAXdcLGS8J"
@@ -299,6 +299,24 @@
       "duration_ms": 310323,
       "name": "AZADI - Calling Marian Remix",
       "url": "https://open.spotify.com/track/3wFG8hklVZctDRJRqjiCMd"
+    },
+    {
+      "album": {
+        "name": "Bad Girls",
+        "url": "https://open.spotify.com/album/54wKqhFUN5V8lh4tfPTmHH"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Julian",
+          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121771,
+      "name": "Bad Girls",
+      "url": "https://open.spotify.com/track/2h4zp76tI5Sbl3BNspNBuG"
     },
     {
       "album": {
@@ -469,10 +487,36 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-16",
+      "date_removed": null,
       "duration_ms": 194558,
       "name": "Buurman Uit Berlijn - Radio Edit",
       "url": "https://open.spotify.com/track/22OehECsOcoKPjcLkLzBBr"
+    },
+    {
+      "album": {
+        "name": "C*nt (DJ_Ge5und#eit Edit)",
+        "url": "https://open.spotify.com/album/0DVoU4K3tMhheP0R31fwQa"
+      },
+      "artists": [
+        {
+          "name": "FILLY",
+          "url": "https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f"
+        },
+        {
+          "name": "DJ LUVHUNTAH",
+          "url": "https://open.spotify.com/artist/0Qhg5ChZBQuCVGFZt2T1zd"
+        },
+        {
+          "name": "DJ_Ge5Und#Eit",
+          "url": "https://open.spotify.com/artist/36M0kH4mvj6gsakQo7jMa6"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210254,
+      "name": "C*nt - DJ_Ge5und#eit Edit",
+      "url": "https://open.spotify.com/track/4crXKKdCDUYW3fW1UbPpIA"
     },
     {
       "album": {
@@ -788,6 +832,24 @@
     },
     {
       "album": {
+        "name": "Daddy's Issue",
+        "url": "https://open.spotify.com/album/33OZ6sGO6ahdHOjr0KDls3"
+      },
+      "artists": [
+        {
+          "name": "L.zwo",
+          "url": "https://open.spotify.com/artist/2DDqcRRVt2xLxMYHD7FQk1"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277563,
+      "name": "Daddy's Issue",
+      "url": "https://open.spotify.com/track/6vzN8Hr9rJ8Bk5OnHAxei0"
+    },
+    {
+      "album": {
         "name": "Dance All Night",
         "url": "https://open.spotify.com/album/2wgeOQ6OX7pmrX1quVlO3h"
       },
@@ -799,7 +861,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 208979,
       "name": "Dance All Night",
       "url": "https://open.spotify.com/track/3L8eDRWkchHU0AGv91cTQE"
@@ -1043,7 +1105,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 132500,
       "name": "Drop It Down",
       "url": "https://open.spotify.com/track/7oHdGobTs66dcu7lA4TEWd"
@@ -1829,7 +1891,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 269137,
       "name": "I Miss U",
       "url": "https://open.spotify.com/track/3cVortvmdAWxXSnCNeaZ1B"
@@ -2851,7 +2913,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-20",
+      "date_removed": null,
       "duration_ms": 201400,
       "name": "No Air",
       "url": "https://open.spotify.com/track/2gs6SQlgCap3dW1nLm8WNb"
@@ -2876,6 +2938,32 @@
     },
     {
       "album": {
+        "name": "No Regrets",
+        "url": "https://open.spotify.com/album/2Cn8UBI1tyhLsuGLsAXK3I"
+      },
+      "artists": [
+        {
+          "name": "HARD CANDY",
+          "url": "https://open.spotify.com/artist/1I1LcKWdBImFCt4DOW2s5O"
+        },
+        {
+          "name": "DJ Cringey",
+          "url": "https://open.spotify.com/artist/01Pcb79vo3Ei5lLdpM3E7q"
+        },
+        {
+          "name": "TOXIMAMI",
+          "url": "https://open.spotify.com/artist/27S2557qJiAXvFenQvXT85"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174253,
+      "name": "No Regrets",
+      "url": "https://open.spotify.com/track/2PcIrMvSc1GwokYR7EHDxY"
+    },
+    {
+      "album": {
         "name": "No Summer Hit 2024",
         "url": "https://open.spotify.com/album/68nfzGY6zUGOeRtdcTq1eU"
       },
@@ -2891,7 +2979,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 278333,
       "name": "No Summer Hit 2024",
       "url": "https://open.spotify.com/track/3v27Jcdn1D3FqGyprnSVg7"
@@ -3161,7 +3249,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 221791,
       "name": "Playin'",
       "url": "https://open.spotify.com/track/2lUjIpt1Z9mtWwMON3XplJ"
@@ -3519,7 +3607,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 281875,
       "name": "Rock Your Life",
       "url": "https://open.spotify.com/track/4P7vWzrD05xyvDzWMlI7TN"
@@ -3770,6 +3858,24 @@
     },
     {
       "album": {
+        "name": "In Your Arms",
+        "url": "https://open.spotify.com/album/5u6OdIduUpROG052H662kO"
+      },
+      "artists": [
+        {
+          "name": "DJ HEARTSTRING",
+          "url": "https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198098,
+      "name": "Still Need U",
+      "url": "https://open.spotify.com/track/2z0aTFF696oXVdN1sfzKi7"
+    },
+    {
+      "album": {
         "name": "Fluid Meditations",
         "url": "https://open.spotify.com/album/3Tb3OLF2gtWesqXDqFvEEM"
       },
@@ -3913,7 +4019,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-16",
+      "date_removed": null,
       "duration_ms": 169329,
       "name": "Tell Me Daddy",
       "url": "https://open.spotify.com/track/09p7aiG886Vev83CeQyjPh"
@@ -4321,7 +4427,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 244054,
       "name": "Who is Batman?",
       "url": "https://open.spotify.com/track/6a9x9suzLuuv6UcdU7f5g7"

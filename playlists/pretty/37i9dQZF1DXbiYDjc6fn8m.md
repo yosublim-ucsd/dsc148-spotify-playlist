@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiYDjc6fn8m.md) - [plain]
 
 > Hora de dançar com os grandes hits da música eletrônica/dance! Foto: Calvin Harris
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,228 likes - 70 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,243 likes - 70 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiYDjc6fn8m.md) - [plain]
 | 53 | [Bad \(feat\. Vassy\) \- Radio Edit](https://open.spotify.com/track/06dT0EYXrhRQV1MsvWhNGv) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF) | [Listen \(Deluxe\)](https://open.spotify.com/album/3UEEPh5wsdhP7SKC31yvhu) | 2:50 |
 | 54 | [Stereo Love \- Radio Edit](https://open.spotify.com/track/1AguHaKOuggrVTebp7cZEI) | [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq), [Vika Jigulina](https://open.spotify.com/artist/34dZRjYum6vVBGslgYaBtB) | [Stereo Love](https://open.spotify.com/album/0tGht9KBhk71vOJCHZzhVk) | 3:04 |
 | 55 | [I Don't Know What to Do \- Radio Edit](https://open.spotify.com/track/0nabAPNBb94D30NFf5EZrv) | [Tiko's Groove](https://open.spotify.com/artist/4o7EawHk705NgTWtLIQtxE), [Gosha](https://open.spotify.com/artist/4Jf1PKoGgtUPcqLgCc1k0O) | [I Don't Know What to Do](https://open.spotify.com/album/1AT8rN7hnsuIWxcTQCieQV) | 3:44 |
-| 56 | [What Is Love \- 7" Mix](https://open.spotify.com/track/2ahnofp2LbBWDXcJbMaSTu) | [Haddaway](https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma) | [What Is Love \(Remixes\)](https://open.spotify.com/album/0qTVjeVP70YvQG4GctetOf) | 4:30 |
+| 56 | [What Is Love \(7" Mix\)](https://open.spotify.com/track/2bNFbu5KHnK1qCl0iNQMfP) | [Haddaway](https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma) | [The Album](https://open.spotify.com/album/36TbZt4tWOO8eSNcefOXp6) | 4:30 |
 | 57 | [Party Rock Anthem](https://open.spotify.com/track/0IkKz2J93C94Ei4BvDop7P) | [LMFAO](https://open.spotify.com/artist/3sgFRtyBnxXD5ESfmbK4dl), [Lauren Bennett](https://open.spotify.com/artist/2jLE4BoXHriQ96JagEtiDP), [GoonRock](https://open.spotify.com/artist/53sIBaVjXQhfH89Vu6nEGh) | [Sorry For Party Rocking](https://open.spotify.com/album/1MbBSfcqLg2OjkeZ1RMSIq) | 4:22 |
 | 58 | [One Love \(feat\. Estelle\)](https://open.spotify.com/track/5uoNPeaYIKxOolXqVjzz0G) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn) | [One Love](https://open.spotify.com/album/3nhLswvAYWwg4wOXBltMbI) | 3:59 |
 | 59 | [The Sun Is Coming out \(Chanson Du Soleil\)](https://open.spotify.com/track/2MotSRq6KaVulLIZzxaF7H) | [DJ Meme](https://open.spotify.com/artist/4dXyuP5DZURgEyaBEas4H9), [Gavin Bradley](https://open.spotify.com/artist/32ZOdfgJaA3VI9YeQK5I5H) | [The Sun Is Coming out \(Chanson Du Soleil\)](https://open.spotify.com/album/011UzLpw33J2xUbAXpSLaW) | 3:44 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiYDjc6fn8m.md) - [plain]
 | 69 | [Play Hard \(feat\. Ne\-Yo & Akon\)](https://open.spotify.com/track/2QD4C6RRHgRNRAyrfnoeAo) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Nothing but the Beat 2.0](https://open.spotify.com/album/5aprcHwM1KJhaY9Kbxkfkn) | 3:21 |
 | 70 | [Harder, Better, Faster, Stronger](https://open.spotify.com/track/2cJz1loJp5EZM6shmQpLZN) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Harder, Better, Faster, Stronger](https://open.spotify.com/album/0A88p2r8PWnWGvWjzAnUrV) | 3:46 |
 
-Snapshot ID: `MCw0NTI4OWY4ZDFjNDUwNjhlYTIyMDE0ZDZiYjIyODk5Mzk2ZGE1NjM5`
+Snapshot ID: `MCxkZDU4MmZlNTllNDdmYWQ3MDcyOTIxYjBiOWIxZTQ5NTdlM2Y5MzA2`

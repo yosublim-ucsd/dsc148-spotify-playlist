@@ -659,6 +659,24 @@
     },
     {
       "album": {
+        "name": "EASY (English ver.)",
+        "url": "https://open.spotify.com/album/5jdhMhfZ5gdaQnLsrFgcw4"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164546,
+      "name": "EASY (English ver.)",
+      "url": "https://open.spotify.com/track/3y5nzCgwQPoaYWTdoKxWTo"
+    },
+    {
+      "album": {
         "name": "Effort",
         "url": "https://open.spotify.com/album/19WN3R2e1vksJnVObrFzQl"
       },
@@ -1704,6 +1722,24 @@
       "duration_ms": 187826,
       "name": "ONE MORE TIME",
       "url": "https://open.spotify.com/track/2HGAKzcfEtMfbM2ssgiKez"
+    },
+    {
+      "album": {
+        "name": "With YOU-th",
+        "url": "https://open.spotify.com/album/575TQDOQqc0MAheeEeKWUR"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183559,
+      "name": "ONE SPARK",
+      "url": "https://open.spotify.com/track/7cIn67LEvk16v6komC8znS"
     },
     {
       "album": {

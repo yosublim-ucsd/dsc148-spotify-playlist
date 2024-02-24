@@ -4,7 +4,7 @@
 
 > Music from the winners and nominees from the 81st Golden Globe Awards.
 
-70 songs - 3 hr 19 min
+71 songs - 3 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Main Title](https://open.spotify.com/track/2AobUjHMASFpNQxnfuHEod) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [All the Light We Cannot See \(Soundtrack from the Netflix Limited Series\)](https://open.spotify.com/album/3PK26tH7l16bgUQ3KDgciR) | 1:23 | 2023-12-19 |  |
 | [Main Title \(The Flight Attendant\)](https://open.spotify.com/track/2RyCnbRAwgxNi8D4MexzkF) | [Blake Neely](https://open.spotify.com/artist/4UOzqO0jZUrTiTunfBw4tp) | [The Flight Attendant: Season 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/4eGTAHIWB70mIf3gwknjow) | 1:29 | 2022-12-21 | 2023-12-20 |
 | [Mrs\. Harris](https://open.spotify.com/track/4Chlib7xjLWRsCU4A2uGCo) | [Rael Jones](https://open.spotify.com/artist/6gmWKEK7HKvYBas0CWXdlW) | [Mrs\. Harris Goes to Paris \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5vjxJ2lyiNrKuV00JL5HRx) | 1:59 | 2022-12-21 | 2023-12-20 |
+| [My Pafology \- From "American Fiction" Soundtrack](https://open.spotify.com/track/0m9PfZjzAtpjE6kvNMMZQe) | [Laura Karpman](https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD) | [American Fiction \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2pRlRr8tWybfbSKcrMPMF0) | 3:16 | 2023-12-19 |  |
 | [Naacho Naacho \(From "Rrr"\)](https://open.spotify.com/track/23lZ18elMHEVBMeSm2xxAC) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn) | [Diwali Special Party Songs](https://open.spotify.com/album/6kI3uUHVh0rBi2faNqddnz) | 3:34 | 2022-12-21 | 2023-12-20 |
 | [Naatu Naatu \(From "Rrr"\)](https://open.spotify.com/track/4iKGu3xtvm90eBw0EIPWJP) | [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn), [Kala Bhairava](https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14), [M\. M\. Keeravani](https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR) | [Naatu Naatu \(From "Rrr"\)](https://open.spotify.com/album/78zqKU9guNUoZFs7mn7TUG) | 3:34 | 2022-12-21 | 2023-11-10 |
 | [Nothing Is Lost \(You Give Me Strength\)](https://open.spotify.com/track/1DzJbVkBELu6jDu6q0T0tk) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Avatar: The Way of Water \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4M2Mf4pmARKGVT9MLCe3HA) | 4:27 | 2022-12-21 | 2023-12-20 |
@@ -56,7 +57,7 @@
 | [Reverie](https://open.spotify.com/track/4ih3wEKgswM0P1gT4Xq5XI) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [The Fabelmans \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3dWmhh9KGeDVbOdVSGLgHC) | 1:44 | 2022-12-21 | 2023-12-20 |
 | [Road to Freedom \(from the Netflix Film "Rustin"\)](https://open.spotify.com/track/1UavIKO5QdLEW5qMQLBmmk) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Road to Freedom \(from the Netflix Film "Rustin"\)](https://open.spotify.com/album/5pUwSUomYfyu78kyRIlfmN) | 3:40 | 2023-12-19 |  |
 | [Science](https://open.spotify.com/track/7DE8YqQ2MdnLHjhtR3MnLu) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Lessons In Chemistry: Season 1 \(Apple Original Series Soundtrack\)](https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP) | 1:00 | 2023-12-19 |  |
-| [See Ya / Into the Unknown](https://open.spotify.com/track/7hHnI0ZUuBHxjZa0uM6hNP) | [Mark Orton](https://open.spotify.com/artist/1Z8O4oak7dssF0X1ybKE2A) | [The Holdovers \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2Aer0bh7IVHrrwxIpcju4D) | 4:39 | 2023-12-19 |  |
+| [See Ya / Into the Unknown](https://open.spotify.com/track/7hHnI0ZUuBHxjZa0uM6hNP) | [Mark Orton](https://open.spotify.com/artist/1Z8O4oak7dssF0X1ybKE2A) | [The Holdovers \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2Aer0bh7IVHrrwxIpcju4D) | 4:39 | 2023-12-19 | 2024-02-24 |
 | [Spider\-Man 2099 \(Miguel O'Hara\)](https://open.spotify.com/track/6iD9kcWB4h25t7OX8Xk6wT) | [Daniel Pemberton](https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR) | [Spider\-Man: Across the Spider\-Verse \(Original Score\)](https://open.spotify.com/album/6nlUFeFAPjaDTA7A0VVwnO) | 1:02 | 2023-12-19 |  |
 | [Stand By Your Man](https://open.spotify.com/track/7vwKEYNGO94DzmkRc5Oqwp) | [Jessica Chastain](https://open.spotify.com/artist/4NTQfilj8qEZ14xqtpF8KF), [Michael Shannon](https://open.spotify.com/artist/2OlqaV8zhR61Koqs94cC89) | [George & Tammy \(Original Series Soundtrack\)](https://open.spotify.com/album/3vGFVncIwTikRP8iloLpwT) | 2:45 | 2022-12-21 | 2023-12-20 |
 | [Strange Game](https://open.spotify.com/track/05TrrXoqoI17WhDCP2mX19) | [Mick Jagger](https://open.spotify.com/artist/3d2pb1dHTm8b61zAGVUVvO) | [Slow Horses: Season 1 \(ATV+ Original Series Soundtrack\)](https://open.spotify.com/album/2AjxTLIWa6qnYhylH9xCZV) | 3:32 | 2023-12-19 |  |

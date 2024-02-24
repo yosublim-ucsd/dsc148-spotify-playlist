@@ -4,7 +4,7 @@
 
 > 100 Suomi 💯 Kannessa Costi.
 
-357 songs - 17 hr 7 min
+358 songs - 17 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -294,6 +294,7 @@
 | [Smash Baby \(feat\. JVG\)](https://open.spotify.com/track/43aRo9Yxlj97ZlEOwCGJXk) | [TIPPA](https://open.spotify.com/artist/0kWknKjD7r2hNh8KntEx59), [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Smash Baby \(feat\. JVG\)](https://open.spotify.com/album/70f1d91RA2xKzbbHStUhsF) | 2:21 | 2023-09-21 | 2023-11-03 |
 | [Sori](https://open.spotify.com/track/7tSbasJQ6SYeDwEhyeUYUa) | [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Sori](https://open.spotify.com/album/59JKgG2HfalOrIOYYLyXdH) | 2:16 | 2023-09-21 | 2023-11-03 |
 | [Sotku \(feat\. Lauri Haav\)](https://open.spotify.com/track/5MqxviceOm4UfwjcYsgLqZ) | [Chede](https://open.spotify.com/artist/1dn8NIyCz1o0BwEcYl9QWG), [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Sotku \(feat\. Lauri Haav\)](https://open.spotify.com/album/1sqwhGwcOPYycPA8KtqtdD) | 3:23 | 2023-09-21 | 2023-10-28 |
+| [Soul Survivor](https://open.spotify.com/track/0yg0Ef5N7LE5SWXXHgFnQL) | [YB026](https://open.spotify.com/artist/4Qe6IKIsL2B1CeJ8q9a6Om), [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr) | [Soul Survivor](https://open.spotify.com/album/1d5WrBaGS5u7Vnu0vkZ2xW) | 3:08 | 2024-02-23 |  |
 | [Spottivalo \(feat\. Obikeys\)](https://open.spotify.com/track/3AmytSAgErcs3OUU9s3xYq) | [LEWI](https://open.spotify.com/artist/3Rw9RAezi1FGQrglVYoU4J), [Obikeys](https://open.spotify.com/artist/4mf3Sn43IJCrtdmkSMcrka) | [Spottivalo \(feat\. Obikeys\)](https://open.spotify.com/album/2xwJ8Zz8N2qdGZpFZDoXNq) | 2:53 | 2024-01-18 | 2024-02-02 |
 | [STARTED](https://open.spotify.com/track/3mzR4sjEsW3dgIzFR8EbbA) | [Nick\-E Maggz](https://open.spotify.com/artist/4THoP0ZeHikbfshug7w8RG) | [STARTED](https://open.spotify.com/album/5zLrcqHBJNI0ciAdhj60YP) | 2:46 | 2023-10-05 | 2023-10-20 |
 | [Starttaa](https://open.spotify.com/track/0rWf0xkyuKaIqqd8zA2Aqt) | [Krissemane](https://open.spotify.com/artist/4iECab0POmzwLrf28xg7cb) | [Starttaa](https://open.spotify.com/album/0v09NIc0OvPEKNveP5E3TC) | 2:34 | 2023-09-21 | 2023-11-17 |

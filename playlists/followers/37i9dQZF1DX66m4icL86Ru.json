@@ -1,5 +1,5 @@
 {
-  "2024-02-23": 883999,
+  "2024-02-24": 884169,
   "date_first_scraped": "2021-12-30",
   "description": "Bad b**** energy. Be blessed, be spicy. Cover: Flo Milli",
   "name": "BBE",
@@ -3449,10 +3449,28 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 146531,
       "name": "F\u039bSHION",
       "url": "https://open.spotify.com/track/4YQgOgIElFtEvwJQ9ArWL7"
+    },
+    {
+      "album": {
+        "name": "F\u039bSHION",
+        "url": "https://open.spotify.com/album/6cKTeK2UQ55jCrJcTsDm1h"
+      },
+      "artists": [
+        {
+          "name": "Britney Manson",
+          "url": "https://open.spotify.com/artist/7GtPtPbDC5CLNzSNxVpqaf"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146531,
+      "name": "F\u039bSHION",
+      "url": "https://open.spotify.com/track/70jiETKdlLEram2zJSHdHH"
     },
     {
       "album": {

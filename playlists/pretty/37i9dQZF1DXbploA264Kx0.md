@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbploA264Kx0.md) - [plain]
 
 > Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Mong Tong
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,108 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,111 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbploA264Kx0.md) - [plain]
 | 49 | [One More](https://open.spotify.com/track/1POXmbYNyr8cWmXHMNOnOh) | [LEO37](https://open.spotify.com/artist/1K4p8nRSSUoO6e3Npn77U6), [Robot Swing](https://open.spotify.com/artist/75MsybpGuMiLCp76Ou0LTV), [DCIV](https://open.spotify.com/artist/1ek0Tv8frXGgW6GCCE2jit), [Dac](https://open.spotify.com/artist/0nWX29koulPYFLJoMxIpJx), [Lazy Habits](https://open.spotify.com/artist/3Bwm7GVj1bGNj6fxf80OKP), [Star Wu](https://open.spotify.com/artist/41imUY7LVjxTpJwTDgDR6v), [Minyen Hsieh](https://open.spotify.com/artist/6AcI6agoeBhaaVo0GbjSFp) | [One More](https://open.spotify.com/album/23ricY0LkT2mI0A1Txt2dl) | 3:48 |
 | 50 | [Feel It](https://open.spotify.com/track/04LKP5NozL90CGOfjwxASX) | [Sikdope](https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG), [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [Feel It](https://open.spotify.com/album/5kGOAASVomzriytdsAT08e) | 2:53 |
 
-Snapshot ID: `MCw3OTkzYjBiMjgyZTBlYjkzOGQ5YzIzNzQ2NjBlYjk2ZWJiMWIxMjk0`
+Snapshot ID: `MCxmOTkzNjk5ZWRiNDNkNTk5OTZlODM3YjE2MTBmNDQzZmJhZmIzNzAx`

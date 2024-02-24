@@ -1379,6 +1379,28 @@
     },
     {
       "album": {
+        "name": "Doorie",
+        "url": "https://open.spotify.com/album/28pI0qUgSonCHteYEsLyJ2"
+      },
+      "artists": [
+        {
+          "name": "Kshitij Vishwakarma",
+          "url": "https://open.spotify.com/artist/7qV0MH8s4k7iDMuYVQzGvi"
+        },
+        {
+          "name": "U K D",
+          "url": "https://open.spotify.com/artist/2Nmoa6Hzb6eF1egjM76rjK"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219151,
+      "name": "Doorie",
+      "url": "https://open.spotify.com/track/3CkXsLQbfU0dDPp10a7FVJ"
+    },
+    {
+      "album": {
         "name": "Duniya Meri",
         "url": "https://open.spotify.com/album/5n5400vwsPBlI9ZZuA6prg"
       },
@@ -2170,7 +2192,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 155706,
       "name": "Janeman",
       "url": "https://open.spotify.com/track/1nUZkGuF1JPLdnoyj5yTrP"
@@ -2276,6 +2298,24 @@
       "duration_ms": 295022,
       "name": "Kabhi Kabhi Zindagi",
       "url": "https://open.spotify.com/track/68SwtkJRPhtlZBzXaV4jrZ"
+    },
+    {
+      "album": {
+        "name": "Kabool",
+        "url": "https://open.spotify.com/album/5oDBQrHneBQksa226QWfeS"
+      },
+      "artists": [
+        {
+          "name": "Jazz Thind",
+          "url": "https://open.spotify.com/artist/7xkj57i87hLRoWTYqDiZap"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216254,
+      "name": "Kabool",
+      "url": "https://open.spotify.com/track/1nCYcGugNhfWztL1MTqelr"
     },
     {
       "album": {
@@ -2684,7 +2724,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 296250,
       "name": "Kho Jaana Hai",
       "url": "https://open.spotify.com/track/2U3GWKLkfKjWbeWmLXr7q3"

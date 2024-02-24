@@ -1,5 +1,5 @@
 {
-  "2024-02-23": 48896,
+  "2024-02-24": 48905,
   "date_first_scraped": "2022-05-30",
   "description": "\u56fd\u5185\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u305f\u3061\u3092\u7279\u96c6\u3002Japanese women rock icons. Cover: \u30ea\u30fc\u30ac\u30eb\u30ea\u30ea\u30fc (Regallily)",
   "name": "She Rocks",
@@ -2689,7 +2689,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 228626,
       "name": "Don!!",
       "url": "https://open.spotify.com/track/1NmeWXhB73LNP1y9PtTEbk"
@@ -6171,7 +6171,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 242426,
       "name": "Kokoro no Naka",
       "url": "https://open.spotify.com/track/6J5Y0T35JVtOpQLVcOvvCa"
@@ -12192,6 +12192,24 @@
     },
     {
       "album": {
+        "name": "TYPHOOON!!!",
+        "url": "https://open.spotify.com/album/2Cl3hgi7NPBr4JOS278cAt"
+      },
+      "artists": [
+        {
+          "name": "Heap",
+          "url": "https://open.spotify.com/artist/5IMBG2QP7e3xxCPyr9HvH8"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241208,
+      "name": "TYPHOOON!!!",
+      "url": "https://open.spotify.com/track/5SLPGVN3QSbfEOpLWKF5cm"
+    },
+    {
+      "album": {
         "name": "Superb",
         "url": "https://open.spotify.com/album/2vr09zUb5DHDBY6tDr1dTV"
       },
@@ -12391,6 +12409,24 @@
       "duration_ms": 202986,
       "name": "utouto",
       "url": "https://open.spotify.com/track/49RH7RyhJnF83In6yelKJO"
+    },
+    {
+      "album": {
+        "name": "Value",
+        "url": "https://open.spotify.com/album/63xNXfql8mdsOd1fZjodbf"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Value",
+      "url": "https://open.spotify.com/track/6BEnpVB7g2j8mzWs3MC2kh"
     },
     {
       "album": {
@@ -19334,6 +19370,24 @@
     },
     {
       "album": {
+        "name": "\u50d5\u3060\u3051\u306e\u611b",
+        "url": "https://open.spotify.com/album/1rUF9QA4jMdL55gIgL0vxZ"
+      },
+      "artists": [
+        {
+          "name": "Toaka",
+          "url": "https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175369,
+      "name": "\u30e1\u30a4\u30c7\u30f3",
+      "url": "https://open.spotify.com/track/5n4hfQXhSc1nXYoKTAS2xb"
+    },
+    {
+      "album": {
         "name": "\u30e1\u30a4\u30d3\u30fc",
         "url": "https://open.spotify.com/album/3ntkuv9OK6DkRsVkmjRmSK"
       },
@@ -21611,7 +21665,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 289901,
       "name": "\u590f\u604b\u6ce8\u610f\u5831",
       "url": "https://open.spotify.com/track/1AB5STSw5kjkOSmie1dkYb"

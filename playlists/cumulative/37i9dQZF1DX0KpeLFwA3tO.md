@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: Gen & The Degenerates
 
-1,623 songs - 3 day 9 hr 0 min
+1,624 songs - 3 day 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1164,6 +1164,7 @@
 | [Rob the Supermarket](https://open.spotify.com/track/2fNNsux1O634IqSVMVzoMJ) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [Rob the Supermarket](https://open.spotify.com/album/5v6y4D4NWc0j7teG6ZJO9h) | 2:14 | 2022-06-17 | 2022-07-29 |
 | [Robot Writes A Love Song](https://open.spotify.com/track/2IL6235nJxKiKsBQykUk2M) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [Robot Writes A Love Song](https://open.spotify.com/album/3eKWW3j4U5H4XiR1JDH351) | 3:36 | 2022-01-21 | 2022-03-18 |
 | [Rogue Wave](https://open.spotify.com/track/2v93OakWj5hwvB1Go3IHTL) | [Crime In Stereo](https://open.spotify.com/artist/4ijffQAqzpGyaWDXuIZZI7) | [Rogue Wave](https://open.spotify.com/album/5G3ghfUGiTSY5Rrus9WPHj) | 4:06 | 2023-09-22 | 2023-11-10 |
+| [Roll Back](https://open.spotify.com/track/5eiJreehQGQYmO96WKfqD3) | [Druidess](https://open.spotify.com/artist/6N29twfYpFP41MiqaJuCDW) | [Roll Back](https://open.spotify.com/album/6yB8p39X1raiLSwdo0rd0f) | 2:54 | 2024-02-23 |  |
 | [Roll With It](https://open.spotify.com/track/3xHgszDlff5N2EOZWWWcAy) | [Cold Years](https://open.spotify.com/artist/5zJB2KYIylCM6uPtl9R9yp) | [Roll With It](https://open.spotify.com/album/4CpQRht0zS8BLLNk78dr0W) | 3:35 | 2024-02-09 |  |
 | [Ronaldo](https://open.spotify.com/track/5zOTYtift5RWyArMm2Nwd8) | [Leatherette](https://open.spotify.com/artist/4nAQf14Uz5C0uSACkrNwIW) | [Ronaldo](https://open.spotify.com/album/5Qav1GCe2ZOKcobjrQvDDG) | 2:49 | 2023-09-01 | 2023-10-13 |
 | [Room 156](https://open.spotify.com/track/31U2luPkRz8a8rMOp9n9aU) | [Crows](https://open.spotify.com/artist/5LFuHlM7fW3xnIyBsDrGfn) | [Room 156](https://open.spotify.com/album/1V4Jy2vEzGQwwJ9D34kJsr) | 4:00 | 2022-02-11 | 2022-03-04 |

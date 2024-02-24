@@ -1,9 +1,27 @@
 {
-  "2024-02-23": 49556,
+  "2024-02-24": 49569,
   "date_first_scraped": "2022-05-30",
-  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: ONLEE)",
+  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: Jiselle(\uc9c0\uc140))",
   "name": "K-R&B Now",
   "tracks": [
+    {
+      "album": {
+        "name": "TRUST ME",
+        "url": "https://open.spotify.com/album/70gdmYJboeL0tXQmYOpWVL"
+      },
+      "artists": [
+        {
+          "name": "YUGYEOM",
+          "url": "https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166714,
+      "name": "1 MINUTE",
+      "url": "https://open.spotify.com/track/7ipFjqnvmBz8t6NBJwWiTS"
+    },
     {
       "album": {
         "name": "100th",
@@ -487,6 +505,24 @@
       "duration_ms": 156560,
       "name": "ANYWHERE ANYTIME",
       "url": "https://open.spotify.com/track/70l9WbRhCmYrnT02psPSMv"
+    },
+    {
+      "album": {
+        "name": "Arms Around Me",
+        "url": "https://open.spotify.com/album/3HIjqS5a1SzgKmFza29iJm"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Brown",
+          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198787,
+      "name": "Arms Around Me",
+      "url": "https://open.spotify.com/track/7vC4gn4BrdLPQDjNYMBMTO"
     },
     {
       "album": {
@@ -1419,6 +1455,32 @@
       "duration_ms": 177666,
       "name": "Deeper",
       "url": "https://open.spotify.com/track/6LyZwzZAu3DP7RSMJcsy6D"
+    },
+    {
+      "album": {
+        "name": "Attitude #9",
+        "url": "https://open.spotify.com/album/18tlQUqxvDN51zGcesMFgs"
+      },
+      "artists": [
+        {
+          "name": "Airman",
+          "url": "https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E"
+        },
+        {
+          "name": "1ho",
+          "url": "https://open.spotify.com/artist/6H9BOh1aFTuoa6xFMV3z8g"
+        },
+        {
+          "name": "Mabinc",
+          "url": "https://open.spotify.com/artist/7gOu3iix5zisrsJCPvWu8Z"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208946,
+      "name": "Delicate dawn (feat. 1ho & mabinc)",
+      "url": "https://open.spotify.com/track/3y1rYTVWOOVS5HD12LG09x"
     },
     {
       "album": {
@@ -2963,7 +3025,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 86933,
       "name": "LAGUNA",
       "url": "https://open.spotify.com/track/22owQfiAnHK01fMQ6LoIxg"
@@ -3077,10 +3139,32 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 229097,
       "name": "Light (Feat. Junguk)",
       "url": "https://open.spotify.com/track/77SWtlPS2Y4ijijx4Ucgbp"
+    },
+    {
+      "album": {
+        "name": "Like A Movie (feat. Yoon Da Hye)",
+        "url": "https://open.spotify.com/album/2I8Vo8kBkHsvEv09BBuTKd"
+      },
+      "artists": [
+        {
+          "name": "Jiselle",
+          "url": "https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt"
+        },
+        {
+          "name": "Yoon Da Hye",
+          "url": "https://open.spotify.com/artist/1MMvp9AK4S9WKByz3xt83F"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Like A Movie (feat. Yoon Da Hye)",
+      "url": "https://open.spotify.com/track/0mFnFLBINP6wZCdloosrTF"
     },
     {
       "album": {
@@ -3197,7 +3281,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 187773,
       "name": "lonely",
       "url": "https://open.spotify.com/track/4vSVu22ZUSMxVPdWnemTWo"
@@ -3385,7 +3469,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 207773,
       "name": "Mean",
       "url": "https://open.spotify.com/track/0aY6RRY09db64dX7KXvF1S"
@@ -4486,6 +4570,24 @@
     },
     {
       "album": {
+        "name": "ENTITY",
+        "url": "https://open.spotify.com/album/0aEUnGgi7O8zqqrH8ADg7E"
+      },
+      "artists": [
+        {
+          "name": "Cha Eun-Woo",
+          "url": "https://open.spotify.com/artist/76ea6HHCvHlTqhF9I0jtHU"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173986,
+      "name": "STAY",
+      "url": "https://open.spotify.com/track/1dR5StkkOjZEXEgrC7AlVY"
+    },
+    {
+      "album": {
         "name": "Strike",
         "url": "https://open.spotify.com/album/1z1oGlLPH3tg6F2plDuF6t"
       },
@@ -4827,7 +4929,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 187586,
       "name": "This song is about you",
       "url": "https://open.spotify.com/track/33RENj1uecpLxh3p25aTj0"
@@ -5413,7 +5515,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 183000,
       "name": "Winded",
       "url": "https://open.spotify.com/track/71zJMsNpZIJGnN8fibrPxg"

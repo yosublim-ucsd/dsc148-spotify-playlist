@@ -1,5 +1,5 @@
 {
-  "2024-02-23": 571145,
+  "2024-02-24": 571231,
   "date_first_scraped": "2022-05-26",
   "description": "Lo mejor del rock de aqu\u00ed, como Estopa con Fito.",
   "name": "Rock Espa\u00f1ol",
@@ -713,7 +713,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-13",
+      "date_removed": null,
       "duration_ms": 211173,
       "name": "Ay Que Gustito Pa' Mis Orejas",
       "url": "https://open.spotify.com/track/6olopCEGYHL8U7jMRWBnJJ"
@@ -2351,7 +2351,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 381000,
       "name": "El hombre p\u00e1jaro",
       "url": "https://open.spotify.com/track/08mTUZxZ95GSrAnGi7sYuK"
@@ -2781,6 +2781,24 @@
       "duration_ms": 185053,
       "name": "Este Viernes",
       "url": "https://open.spotify.com/track/50XtCbA4TAKelPUrjU5GTD"
+    },
+    {
+      "album": {
+        "name": "Ester Exp\u00f3sito",
+        "url": "https://open.spotify.com/album/0iVOSSLoiNqlqnaMAqe4Co"
+      },
+      "artists": [
+        {
+          "name": "Dani Mart\u00edn",
+          "url": "https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213205,
+      "name": "Ester Exp\u00f3sito",
+      "url": "https://open.spotify.com/track/4GKjSwmowWO082NGn11wNj"
     },
     {
       "album": {
@@ -4366,6 +4384,28 @@
     },
     {
       "album": {
+        "name": "Mi Cruz",
+        "url": "https://open.spotify.com/album/4vAUgKiNyhkalraCly1wDt"
+      },
+      "artists": [
+        {
+          "name": "Alejo",
+          "url": "https://open.spotify.com/artist/4pNlsYEjhnTIVPNZRlRx1h"
+        },
+        {
+          "name": "Javi Robles",
+          "url": "https://open.spotify.com/artist/2uqV8YA6CmhS3Wz41S4rP4"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202197,
+      "name": "Mi Cruz",
+      "url": "https://open.spotify.com/track/4tD9upjNs7yCtmraQ6zQXe"
+    },
+    {
+      "album": {
         "name": "Mi Madre Me Lo Dijo",
         "url": "https://open.spotify.com/album/6TPyijdrFvnVi2Y3c2YoMT"
       },
@@ -4565,7 +4605,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 217052,
       "name": "Nada podr\u00e1 salvarte",
       "url": "https://open.spotify.com/track/2YE3RPCJ94TdJAHsrnbwXc"
@@ -6779,7 +6819,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 415000,
       "name": "Viajando por el interior",
       "url": "https://open.spotify.com/track/26vkdWyOHx3rBY2zTb7f8I"

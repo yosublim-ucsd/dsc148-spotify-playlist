@@ -1,5 +1,5 @@
 {
-  "2024-02-23": 107220,
+  "2024-02-24": 107231,
   "date_first_scraped": "2022-06-10",
   "description": "The magical world map! Play it in shuffle \u2600\ufe0f",
   "name": "Bon Voyage",
@@ -5189,10 +5189,36 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 157103,
       "name": "Bimbom",
       "url": "https://open.spotify.com/track/74iVBXQX5bZWq8FPVLG5nR"
+    },
+    {
+      "album": {
+        "name": "Color de Tr\u00f3pico (Compiled By El Drag\u00f3n Criollo & El Palmas)",
+        "url": "https://open.spotify.com/album/6j4ID9fk5IfuVWPloOiG9h"
+      },
+      "artists": [
+        {
+          "name": "El Drag\u00f3n Criollo",
+          "url": "https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G"
+        },
+        {
+          "name": "El Palmas",
+          "url": "https://open.spotify.com/artist/607tUX31sF7QoJVbCx3r6Y"
+        },
+        {
+          "name": "Tulio Enrique Le\u00f3n",
+          "url": "https://open.spotify.com/artist/6jbC9Zqj2QSBt8puMpM6nS"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157103,
+      "name": "Bimbom",
+      "url": "https://open.spotify.com/track/7a9iDJ3hni3eDcOrzmWTLx"
     },
     {
       "album": {
@@ -15396,6 +15422,32 @@
     },
     {
       "album": {
+        "name": "Color de Tr\u00f3pico (Compiled By El Drag\u00f3n Criollo & El Palmas)",
+        "url": "https://open.spotify.com/album/6j4ID9fk5IfuVWPloOiG9h"
+      },
+      "artists": [
+        {
+          "name": "El Drag\u00f3n Criollo",
+          "url": "https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G"
+        },
+        {
+          "name": "El Palmas",
+          "url": "https://open.spotify.com/artist/607tUX31sF7QoJVbCx3r6Y"
+        },
+        {
+          "name": "Los Capri",
+          "url": "https://open.spotify.com/artist/2QxL8r5W656cI5pm7JVsZL"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151898,
+      "name": "Gaita Universal",
+      "url": "https://open.spotify.com/track/5fxq7PBJQyhftDhwuqqbUf"
+    },
+    {
+      "album": {
         "name": "Color de Tr\u00f3pico (Compiled By El Drag\u00f3n Criollo y El Palmas)",
         "url": "https://open.spotify.com/album/0x29QRFTQuq7LvSwfEDHcz"
       },
@@ -15415,7 +15467,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 151898,
       "name": "Gaita Universal",
       "url": "https://open.spotify.com/track/5u5319zrHJDBJphTFnDFL4"

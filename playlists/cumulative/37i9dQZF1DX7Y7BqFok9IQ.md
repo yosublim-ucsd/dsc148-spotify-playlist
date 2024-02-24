@@ -2,9 +2,9 @@
 
 ### [Modern Blues Rock](https://open.spotify.com/playlist/37i9dQZF1DX7Y7BqFok9IQ)
 
-> The best of modern blues rock\. Cover: Rival Sons
+> The best of modern blues rock\. Cover: JJ Grey
 
-268 songs - 16 hr 56 min
+270 songs - 17 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Baby Blue](https://open.spotify.com/track/4BsPswOqGrJhsUzdCVTPN0) | [Gyasi](https://open.spotify.com/artist/58hf5laRpsJcrGFitleHuj) | [Baby Blue](https://open.spotify.com/album/72LtE1jP5PNPVBGmoXUnXo) | 3:23 | 2023-03-03 |  |
 | [Baby Blue](https://open.spotify.com/track/7syfhu9aBNf1pm0X3PPnkp) | [Gyasi](https://open.spotify.com/artist/58hf5laRpsJcrGFitleHuj) | [Baby Blue](https://open.spotify.com/album/4voq4iXsadEaw7fAq6JRAV) | 3:23 | 2023-02-17 | 2023-04-30 |
 | [Back to the Good](https://open.spotify.com/track/5lJeApjTsFOmSb0Q3iCmQs) | [Chris Antonik](https://open.spotify.com/artist/55m5gPmPkNV7Ztg6vBDcvD) | [Morningstar](https://open.spotify.com/album/5ON1Hg65ctPjcsaoFfm52F) | 4:13 | 2022-08-12 |  |
-| [Backstabber](https://open.spotify.com/track/6fvRlIuF0E1C05vILdR9oC) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Backstabber](https://open.spotify.com/album/4F7MDZ9vZyu91UNsp5HxgZ) | 3:54 | 2024-01-12 |  |
+| [Backstabber](https://open.spotify.com/track/6fvRlIuF0E1C05vILdR9oC) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Backstabber](https://open.spotify.com/album/4F7MDZ9vZyu91UNsp5HxgZ) | 3:54 | 2024-01-12 | 2024-02-24 |
 | [Bad Luck & The Blues](https://open.spotify.com/track/3qzBFSuSn5znP9VoejSbVs) | [Laurence Jones](https://open.spotify.com/artist/2vX8hKHgReZ15YguZe3Zxj) | [Bad Luck & The Blues](https://open.spotify.com/album/6VrFipxIHUZiZfGjiisw6p) | 4:09 | 2023-06-23 | 2023-08-26 |
 | [Bad News](https://open.spotify.com/track/1E79K11SaKfzGPpzPKBvAp) | [Ace Monroe](https://open.spotify.com/artist/7Lcyr9TK4WHr4ojZiYhbYV) | [Ace Monroe](https://open.spotify.com/album/2cJSZ0UN4WeZpD2yXwEuCd) | 3:05 | 2023-11-17 |  |
 | [Bad Spell](https://open.spotify.com/track/5ixdi1J5GIRKmmwqJiyINe) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe) | 3:15 | 2023-04-25 |  |
@@ -34,6 +34,7 @@
 | [Black Gold](https://open.spotify.com/track/0lUehQtxsjaamm3yaOn2cs) | [These Wicked Rivers](https://open.spotify.com/artist/0GqHJdaaT0S1kjk3zhEVKu) | [Black Gold](https://open.spotify.com/album/5aUO6j1F2xdIbBsVWNW94j) | 3:36 | 2023-09-15 |  |
 | [Black Magic](https://open.spotify.com/track/2Fka5bMBcXzrrUHaJjpqGq) | [Band Of Skulls](https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG) | [By Default](https://open.spotify.com/album/3CH5Y6IJPn5yXsOFjCn4wn) | 2:48 | 2020-10-16 | 2023-11-04 |
 | [Black Magic](https://open.spotify.com/track/6qWbdBTcF2u7zvSXLxKRZx) | [Band Of Skulls](https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG) | [By Default](https://open.spotify.com/album/7uIZLgnTNZEJ1d0iO0qvEo) | 2:48 | 2020-10-16 |  |
+| [Black Moon](https://open.spotify.com/track/13F76PKJYIWbG986buVo66) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [The Wolves Are Coming](https://open.spotify.com/album/2juRTUdOZBV0g3Oi5uSJkK) | 2:40 | 2024-02-23 |  |
 | [Black Roses](https://open.spotify.com/track/5uiW9HcD9edXu2Gk65v9pj) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Road To Redemption](https://open.spotify.com/album/4gj1UOa3iiULaU85YcdYTJ) | 5:01 | 2022-10-21 |  |
 | [Black Speakers](https://open.spotify.com/track/1nsSAObs1qdg5cRtzS9qCm) | [Datura4](https://open.spotify.com/artist/3mA3sO1zseVtFQ56oqlJYk) | [Neanderthal Jam](https://open.spotify.com/album/11ILTtRztjMJLorRziNAkI) | 4:24 | 2022-08-26 |  |
 | [Black Speakers](https://open.spotify.com/track/33ybiYIMl7PwGLZz0bETGy) | [Datura4](https://open.spotify.com/artist/3mA3sO1zseVtFQ56oqlJYk) | [Black Speakers](https://open.spotify.com/album/3qFMig0PZVFxzrh9z6M8hm) | 4:24 | 2022-08-26 | 2023-04-30 |
@@ -166,8 +167,9 @@
 | [Off the Shelf](https://open.spotify.com/track/7KGqf7g0G2tY67oczknrUN) | [little hurricane](https://open.spotify.com/artist/5VLQQzAkJrzG7QggE4DVg2) | [Love Luck](https://open.spotify.com/album/2Rohycq7EGBbuJbYp3Z0G5) | 3:28 | 2020-10-16 |  |
 | [Oh! That Bitches Brew](https://open.spotify.com/track/15VyA0PQUtjVEZFYKPdrqK) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Oh! That Bitches Brew](https://open.spotify.com/album/0Er9Y6SwV1F4hM1FernVJC) | 3:29 | 2023-09-29 | 2024-01-13 |
 | [Oh! That Bitches Brew](https://open.spotify.com/track/61IrEhpwtItIV48ieuEOlN) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Oh! That Bitches Brew](https://open.spotify.com/album/1y3oh4duwhS5ZuWqc9hh6g) | 3:29 | 2023-09-29 | 2023-10-13 |
+| [Olustee](https://open.spotify.com/track/6VjD0MJwrKQjaJesWAy6hd) | [JJ Grey & Mofro](https://open.spotify.com/artist/1Jl8u1U1GtBlwocZK5LWZv) | [Olustee](https://open.spotify.com/album/1TK4IGwafhUenf6NTJsVPH) | 5:09 | 2024-02-23 |  |
 | [On My Hands](https://open.spotify.com/track/5In3Mo6cEy9gCVzpcCTolv) | [King Vaudeville](https://open.spotify.com/artist/1oZXZvudWk8Iej1P0VWzwS) | [On My Hands](https://open.spotify.com/album/2nWs7LzcrLUwSnjoX2bvdK) | 3:25 | 2023-09-15 |  |
-| [One More Time](https://open.spotify.com/track/4xJ65J4IJYtxV7A9Uz9BX4) | [Ben Miller Band](https://open.spotify.com/artist/692LYMl7s0bV6X3iduX5rG) | [Choke Cherry Tree](https://open.spotify.com/album/2H6mfUMvRacDoPtgbcbqkR) | 3:24 | 2020-10-16 |  |
+| [One More Time](https://open.spotify.com/track/4xJ65J4IJYtxV7A9Uz9BX4) | [Ben Miller Band](https://open.spotify.com/artist/692LYMl7s0bV6X3iduX5rG) | [Choke Cherry Tree](https://open.spotify.com/album/2H6mfUMvRacDoPtgbcbqkR) | 3:24 | 2020-10-16 | 2024-02-24 |
 | [One Of A Kind](https://open.spotify.com/track/58EZbAbfLjnsfS5gBFVgnF) | [Robert Jon & the Wreck](https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC) | [One Of A Kind](https://open.spotify.com/album/28VUOeKPDCNxr4I1vxDz2h) | 3:13 | 2023-03-10 | 2023-10-21 |
 | [One Thing I Feared](https://open.spotify.com/track/1KK0CRO47v2pYmKfct9GbD) | [Clockwork Wolf & Co.](https://open.spotify.com/artist/3N1cCECrhToZ1M6fMpKGBo) | [One Thing I Feared](https://open.spotify.com/album/1yxopMV9t0m7g1W5fdpA7s) | 4:02 | 2021-04-30 |  |
 | [One Way Out](https://open.spotify.com/track/19rYgN2ghhCLtXg8Uf1FwS) | [Melissa Etheridge](https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA) | [One Way Out](https://open.spotify.com/album/1jR11CwDOnsQi1z56zcIDe) | 4:03 | 2021-05-28 | 2023-11-04 |

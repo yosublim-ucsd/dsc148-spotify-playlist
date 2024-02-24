@@ -4,7 +4,7 @@
 
 > Afro, Caribbean & Latin sounds for that summer vibe
 
-448 songs - 23 hr 42 min
+449 songs - 23 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [BESO](https://open.spotify.com/track/609E1JCInJncactoMmkDon) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [RR](https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW) | 3:14 | 2023-06-15 |  |
 | [Best/Blessed](https://open.spotify.com/track/4WLYj516jLlTD6Uhs7MSgy) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Best/Blessed \- Single](https://open.spotify.com/album/4b9Z0fELATDNZu9D8cPPv7) | 2:58 | 2021-12-16 | 2022-01-26 |
 | [Big Chune](https://open.spotify.com/track/1IjPlLjheWe899ounTjCby) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57), [IamNuhRush](https://open.spotify.com/artist/6wU5HisymxJxU6ucvCwfOE) | [Big Chune](https://open.spotify.com/album/5ioIjN8A0qVhfKvTUtWwOs) | 2:43 | 2023-03-02 | 2023-09-02 |
-| [Big Thug Boys \(Dj Yo! Remix\)](https://open.spotify.com/track/50OUQ4zH8PfuQzuDyZw2Of) | [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX), [Dj Yo!](https://open.spotify.com/artist/7iTLGcddv1bOPirdYJjKVy) | [Big Thug Boys \(Dj Yo! Remix\)](https://open.spotify.com/album/325V7bs8JbRVesHY65GwjK) | 2:54 | 2022-10-13 |  |
+| [Big Thug Boys \(Dj Yo! Remix\)](https://open.spotify.com/track/50OUQ4zH8PfuQzuDyZw2Of) | [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX), [Dj Yo!](https://open.spotify.com/artist/7iTLGcddv1bOPirdYJjKVy) | [Big Thug Boys \(Dj Yo! Remix\)](https://open.spotify.com/album/325V7bs8JbRVesHY65GwjK) | 2:54 | 2022-10-13 | 2024-02-24 |
 | [Black Magic Woman](https://open.spotify.com/track/6Y1szSzgBTj39XorUpxGXV) | [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Kaylan Arnold](https://open.spotify.com/artist/30Umdbc6mDkhyrfyPw2quC) | [Black Magic Woman](https://open.spotify.com/album/4tWsyDsJaSDp0Z0PTa0vLP) | 3:38 | 2024-02-15 |  |
 | [Blaze Away](https://open.spotify.com/track/3JBcOPPiLz7mQYSm6wMHpF) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Blaze Away](https://open.spotify.com/album/2VI5sZ40Lewd51hhtF58cc) | 3:09 | 2021-12-16 | 2023-09-08 |
 | [Blem](https://open.spotify.com/track/2XlHu0HcujBCkWMdIAvrqt) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [More Life](https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK) | 3:36 | 2021-12-16 | 2022-01-26 |
@@ -174,6 +174,7 @@
 | [Good Place](https://open.spotify.com/track/0xdSZzzOf3e15T4QgfBEI2) | [DJ Moiz](https://open.spotify.com/artist/5cjU6BX3PuLO7f510Fa65P), [Its Natascha](https://open.spotify.com/artist/6r5nslEUXZRMW9qpxKvxV6) | [Good Place](https://open.spotify.com/album/7xLtXYJK4oYUoSsa4a7BSe) | 1:59 | 2021-12-16 | 2022-07-29 |
 | [Gum Body \(feat\. Jorja Smith\)](https://open.spotify.com/track/5nUiz96J8ZSmwoSuL4sGvh) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [African Giant](https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF) | 3:15 | 2021-12-16 | 2022-01-26 |
 | [Handle It](https://open.spotify.com/track/53MCnnU5XI7Xr1IbaF6KN8) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Handle It](https://open.spotify.com/album/3sROPPitey2yWNNdeQNQEK) | 3:23 | 2021-12-16 | 2024-01-31 |
+| [Happy Birthday](https://open.spotify.com/track/0nlERwr8m4Ks1RYYuTVm0C) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Happy Birthday](https://open.spotify.com/album/18kwUyynFKyNEJYZe2d4xg) | 3:04 | 2024-02-23 |  |
 | [Hawái](https://open.spotify.com/track/4uoR6qeWeuL4Qeu2qJzkuG) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Hawái](https://open.spotify.com/album/3GrNH56DyfyEvBAZ3Otptm) | 3:20 | 2022-03-25 | 2022-10-03 |
 | [Hecha Pa' Mi](https://open.spotify.com/track/3VvA1wSxukMLsvXoXtlwWx) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Más Negro Que Rojo](https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU) | 3:06 | 2022-03-25 | 2023-03-25 |
 | [Hello](https://open.spotify.com/track/3Hc5FvTzjtxF7DmOK6MaXV) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Folklore Riddim](https://open.spotify.com/album/6eRhLfRy1CbGTD0fkSrJob) | 3:18 | 2021-12-16 | 2022-10-05 |

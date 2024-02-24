@@ -1,5 +1,5 @@
 {
-  "2024-02-23": 12782,
+  "2024-02-24": 12782,
   "date_first_scraped": "2024-01-30",
   "description": "Your daily update of the most viral tracks right now - Bolivia.",
   "name": "Viral 50 - Bolivia",
@@ -97,7 +97,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-22",
+      "date_removed": null,
       "duration_ms": 197114,
       "name": "Alucin",
       "url": "https://open.spotify.com/track/6ED7qim1NAX1HjNU8039WS"
@@ -369,7 +369,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-22",
+      "date_removed": null,
       "duration_ms": 183381,
       "name": "Cactus",
       "url": "https://open.spotify.com/track/213Q7w8RMi5qbj18kvWasy"
@@ -459,7 +459,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 224725,
       "name": "COSAS QUE NO TE DIJE",
       "url": "https://open.spotify.com/track/5xSt1wxZobFcLzHrFakv6z"
@@ -793,7 +793,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 115348,
       "name": "FUNKED UP - SLOWED",
       "url": "https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro"
@@ -1169,7 +1169,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 260370,
       "name": "Igual Que Un \u00c1ngel (with Peso Pluma)",
       "url": "https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI"
@@ -1303,7 +1303,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-21",
+      "date_removed": null,
       "duration_ms": 249464,
       "name": "La Intenci\u00f3n",
       "url": "https://open.spotify.com/track/05tGmdz9dVZ4yGqz4YJdPK"
@@ -2006,6 +2006,28 @@
     },
     {
       "album": {
+        "name": "Oi Eu Sou o Pablo, Backyardigans Vs Perfume Exalando",
+        "url": "https://open.spotify.com/album/7aXcS9ZUhe3ojqTgSc5cWL"
+      },
+      "artists": [
+        {
+          "name": "KS SHEIK",
+          "url": "https://open.spotify.com/artist/6IE7pHbGetkmzx0kzUoGPH"
+        },
+        {
+          "name": "MC RF",
+          "url": "https://open.spotify.com/artist/4GRjvpc1WOarBqQy3sMMXO"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93687,
+      "name": "Oi Eu Sou o Pablo, Backyardigans Vs Perfume Exalando",
+      "url": "https://open.spotify.com/track/0ldgZql3yslj1oH5T2zVQB"
+    },
+    {
+      "album": {
         "name": "The Idol Episode 4 (Music from the HBO Original Series)",
         "url": "https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU"
       },
@@ -2253,7 +2275,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 145961,
       "name": "Si Nos Dejan",
       "url": "https://open.spotify.com/track/5YwQ5kPESJLOqr8AxKDlsN"
@@ -2361,7 +2383,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 180475,
       "name": "Stayed Gone",
       "url": "https://open.spotify.com/track/4Po97bPnn3ISdEkuJBMt2f"
@@ -2423,7 +2445,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-16",
+      "date_removed": null,
       "duration_ms": 189282,
       "name": "Tengo Un Plan",
       "url": "https://open.spotify.com/track/1MlJHeW3eT18jUIFOUjMwR"
@@ -2915,10 +2937,32 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 126867,
       "name": "WTF 2",
       "url": "https://open.spotify.com/track/2gzIb9rrsQKz1AGBE2WmKF"
+    },
+    {
+      "album": {
+        "name": "WTF 2",
+        "url": "https://open.spotify.com/album/4cFGu2A51oQ1lezuK6O9Dn"
+      },
+      "artists": [
+        {
+          "name": "Ugovhb",
+          "url": "https://open.spotify.com/artist/4chyvKr2WRnrzw5oHcOZLG"
+        },
+        {
+          "name": "EF",
+          "url": "https://open.spotify.com/artist/31zD0TKiTJ0OlcW3I6JI27"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127008,
+      "name": "WTF 2",
+      "url": "https://open.spotify.com/track/52Az0C2Qemjn1SP14PhTIW"
     },
     {
       "album": {

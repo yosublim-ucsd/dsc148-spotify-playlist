@@ -4,7 +4,7 @@
 
 > O melhor do trance feito na América Latina / Lo mejor del trance latino\. Foto: Delta Species, Middle\-D
 
-93 songs - 9 hr 2 min
+95 songs - 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Diethylamide Remix](https://open.spotify.com/track/3SiGpFJ0MEMJdseyUCrEJf) | [Capital Monkey](https://open.spotify.com/artist/2iCpXbyRRpN1IMRUkuSyGA), [Konaefiz](https://open.spotify.com/artist/7d2PyJyMVaEv9R4Uq3bzOr) | [Diethylamide Remix](https://open.spotify.com/album/2DDtDhk2ONqt28cUwqzNxg) | 4:18 | 2023-12-01 | 2024-01-27 |
 | [DMT](https://open.spotify.com/track/6NHRWtAQTtCELvv3h0pGYq) | [Becker](https://open.spotify.com/artist/3WTaU5om1axaFsKlKchl2U), [Labirinto](https://open.spotify.com/artist/4ISuKZJYpsbU6JPD3vq0p1) | [DMT](https://open.spotify.com/album/2mIZCsIe92lDHxDC7BCxo5) | 7:30 | 2022-03-04 |  |
 | [DOSES](https://open.spotify.com/track/4YNjor6FShrCmTiEjKySoL) | [Delta Species](https://open.spotify.com/artist/6XHNTLKZijuqf1N7Frab5Y), [Alicid](https://open.spotify.com/artist/6Nx8CLrTjryyqmvrQeOMGx), [Bella Kahun](https://open.spotify.com/artist/6HBV7RzsoXsLeNMvkh1raa) | [DOSES](https://open.spotify.com/album/7qAYQE64nGfLuHiL8OuIag) | 7:20 | 2022-03-04 |  |
+| [Eternal Journey](https://open.spotify.com/track/0XHhJTb7gJY59PB4Hae04T) | [Adalamoon](https://open.spotify.com/artist/5UWvbKaUYy38G6HyKQXhpu) | [Eternal Journey](https://open.spotify.com/album/7pkiEpehSYaJ5u85O9R4e0) | 4:01 | 2024-02-23 |  |
 | [Feel Good](https://open.spotify.com/track/1ufkg9viQxXiEIok76Fgrt) | [Chemical Noise](https://open.spotify.com/artist/1oSTK4wfPbzq1BnwY7OoZR), [Dang3r](https://open.spotify.com/artist/1w3bZrV4XveeRTaCJAtkGr), [4weekend](https://open.spotify.com/artist/2X11BJbi9xHuQV3J6hJOIy) | [Feel Good](https://open.spotify.com/album/14NuMpUK7CZbe3nsN7rJfV) | 4:56 | 2022-03-04 |  |
 | [Flame](https://open.spotify.com/track/5y8drYVT8SGRPxEQEEjSts) | [Sighter](https://open.spotify.com/artist/3CfrCyWR2mGwc2ADmr30RM), [Vegas \(Brazil\)](https://open.spotify.com/artist/5xk7F7RlG0tk0rsGmjFB7z) | [Flame](https://open.spotify.com/album/5BRloFEHPzJozlMlwV6HhB) | 5:49 | 2023-11-10 |  |
 | [Focus](https://open.spotify.com/track/7gNgqRZaXarUWWirped72i) | [Telepatic](https://open.spotify.com/artist/5sEhJmaZzJgVskCBaOTgIa) | [Focus](https://open.spotify.com/album/4Bv7WZLfpA7pv11QaMBUnN) | 7:08 | 2022-03-04 |  |
@@ -47,6 +48,7 @@
 | [Hypnosis](https://open.spotify.com/track/16Ip719XhIh8UcEYYzfzPD) | [MoRsei](https://open.spotify.com/artist/2HtfoBU1XqW7HHcLpuV3nY) | [Hypnosis](https://open.spotify.com/album/17CJAfC2RvB4BEOQofU4LX) | 7:39 | 2022-03-04 |  |
 | [Indiana](https://open.spotify.com/track/1Wh8Jns8gltjaf964MkGqV) | [Chapeleiro](https://open.spotify.com/artist/5M5NrRoOEBa49sW1hzKkuH), [Henrique Camacho](https://open.spotify.com/artist/2NTtIgPZyELENThAeqfvR6) | [Indiana](https://open.spotify.com/album/6U9Et34Cp9IJNN6PXUfca5) | 4:11 | 2023-03-03 | 2023-05-27 |
 | [Interlude \- Shapeless Remix](https://open.spotify.com/track/3HfUAWHIjzfNzlbfdvIyx4) | [Blazy](https://open.spotify.com/artist/0ASqieRgSFzYlNmf1VkBVC), [Aura Vortex](https://open.spotify.com/artist/5T6ATRUoiqVQpcQTK94ies), [Shapeless](https://open.spotify.com/artist/01056gItT5lFJEvQnFOByX) | [Interlude](https://open.spotify.com/album/6teK4qQcl42SrpiSPrntEs) | 2:37 | 2022-03-04 |  |
+| [Invasão](https://open.spotify.com/track/3aM0X4mIjJpv1ksvhL8s0k) | [Chapeleiro](https://open.spotify.com/artist/5M5NrRoOEBa49sW1hzKkuH), [Henrique Camacho](https://open.spotify.com/artist/2NTtIgPZyELENThAeqfvR6), [Dudiish](https://open.spotify.com/artist/4w1x0xqhvGO85K7JrW30Cd) | [Invasão](https://open.spotify.com/album/3GrLbOjidmPC5k445eUAm4) | 6:10 | 2024-02-23 |  |
 | [Issues](https://open.spotify.com/track/4AE5YnXiGC6Hh5Tfk7HgtR) | [Pribe](https://open.spotify.com/artist/5J41o0l7Wy6ZBc14nts5T4), [Kurtt](https://open.spotify.com/artist/7JHmRze9V18uFjvrCktqxK) | [Issues](https://open.spotify.com/album/2JSkRQLNecYwolOHk24Y4A) | 4:45 | 2022-03-04 |  |
 | [Karma](https://open.spotify.com/track/3nLBqiDoxZYk0M8cI1lBhc) | [Interactive Noise](https://open.spotify.com/artist/4lA68EVFzoodItMp7RH2cv) | [Karma](https://open.spotify.com/album/3FNMvlWkcvXiwH9bV2Kct4) | 5:53 | 2022-03-04 | 2024-01-27 |
 | [Kazahi](https://open.spotify.com/track/5djymDPX9E9k6kHzEukIeS) | [Vermont \(BR\)](https://open.spotify.com/artist/7aS93G9e7XG0GCUATQjqv0), [Bandi](https://open.spotify.com/artist/66Vf4RDefmPzXlAyDRb998) | [Kazahi](https://open.spotify.com/album/3kSLdwL7gY5hr4RcNdXElT) | 6:25 | 2022-03-04 |  |

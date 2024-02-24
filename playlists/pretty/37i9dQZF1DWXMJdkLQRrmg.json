@@ -1,12 +1,12 @@
 {
   "description": "Rock unplugged. ",
-  "num_followers": 330582,
+  "num_followers": 330626,
   "original_name": "Stripped Down",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjI4ZDM1ODkzMGJjZGRmOWE3MmNiYmNkZWYyNTYzNTkyNjc1ZTIz",
+  "snapshot_id": "MCw3MjAxYWEwMTc3ZGEzNGNiYzQ4OGFmMzI3NWUyNjBjNDQ1NWUxNWE3",
   "tracks": [
     {
       "added_at": "2024-01-16 15:01:27",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-01-16 15:01:27",
       "album": {
-        "name": "Simulation Theory (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 226333,
-      "name": "Something Human (Acoustic)",
-      "url": "https://open.spotify.com/track/1D2ISRyHAs9QBHIWVQIbgM"
-    },
-    {
-      "added_at": "2024-01-16 15:01:27",
-      "album": {
         "name": "Garage, Inc.",
         "url": "https://open.spotify.com/album/5b7HQ04lPT7eGJQ7fmVsjC"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 545733,
       "name": "Tuesday's Gone",
       "url": "https://open.spotify.com/track/3kjrWJMt1j9nl3favBZQIH"
+    },
+    {
+      "added_at": "2024-01-16 15:01:27",
+      "album": {
+        "name": "Simulation Theory (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 226333,
+      "name": "Something Human (Acoustic)",
+      "url": "https://open.spotify.com/track/1D2ISRyHAs9QBHIWVQIbgM"
     },
     {
       "added_at": "2024-01-16 15:01:27",

@@ -1,12 +1,12 @@
 {
   "description": "Go hard or go home. Cover: K Motionz",
-  "num_followers": 55981,
+  "num_followers": 56030,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MTlmYmI1NzQ1OWU2NzQ0ZmVhZWM2OGIyZTdjZTdiZDlhMWNiZDIy",
+  "snapshot_id": "MCxlYzY0ZTVlMWFkMzRkOTM2OGZjOWRjZGJhYWMwYmJkYjE4MTA5MjI3",
   "tracks": [
     {
       "added_at": "2023-11-17 16:57:48",
@@ -545,6 +545,22 @@
       "url": "https://open.spotify.com/track/3jrToiaGyx4o553AfgoofP"
     },
     {
+      "added_at": "2024-01-12 00:01:00",
+      "album": {
+        "name": "Bass",
+        "url": "https://open.spotify.com/album/3hVol43tkxVVOUc2yafClu"
+      },
+      "artists": [
+        {
+          "name": "CJDJ",
+          "url": "https://open.spotify.com/artist/3yxPOdZ3ybZQETzvr7AcXS"
+        }
+      ],
+      "duration_ms": 125567,
+      "name": "Bass",
+      "url": "https://open.spotify.com/track/2UUqOLcktNsBYCwwgo47K5"
+    },
+    {
       "added_at": "2023-11-17 16:57:48",
       "album": {
         "name": "No Excuses (Hedex Remix)",
@@ -563,22 +579,6 @@
       "duration_ms": 163907,
       "name": "No Excuses - Hedex Remix",
       "url": "https://open.spotify.com/track/0asLTNDnmEXN6h8VMZmY21"
-    },
-    {
-      "added_at": "2024-01-12 00:01:00",
-      "album": {
-        "name": "Bass",
-        "url": "https://open.spotify.com/album/3hVol43tkxVVOUc2yafClu"
-      },
-      "artists": [
-        {
-          "name": "CJDJ",
-          "url": "https://open.spotify.com/artist/3yxPOdZ3ybZQETzvr7AcXS"
-        }
-      ],
-      "duration_ms": 125567,
-      "name": "Bass",
-      "url": "https://open.spotify.com/track/2UUqOLcktNsBYCwwgo47K5"
     },
     {
       "added_at": "2023-11-17 16:57:48",
@@ -625,6 +625,22 @@
       "url": "https://open.spotify.com/track/3C7cOylp1OQNr6Bud2TKlC"
     },
     {
+      "added_at": "2024-02-23 00:00:00",
+      "album": {
+        "name": "Pray For Me",
+        "url": "https://open.spotify.com/album/0F4aNngvvZbIX25XmojJEQ"
+      },
+      "artists": [
+        {
+          "name": "SOTA",
+          "url": "https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP"
+        }
+      ],
+      "duration_ms": 183448,
+      "name": "Pray For Me",
+      "url": "https://open.spotify.com/track/1bDyUuOtKXNAF4WQV6ZH9k"
+    },
+    {
       "added_at": "2023-11-17 16:57:48",
       "album": {
         "name": "Come Around",
@@ -643,22 +659,6 @@
       "duration_ms": 228706,
       "name": "Come Around",
       "url": "https://open.spotify.com/track/2EK2hR0X1XYrPnfLCgCIXl"
-    },
-    {
-      "added_at": "2024-02-23 00:00:00",
-      "album": {
-        "name": "Pray For Me",
-        "url": "https://open.spotify.com/album/0F4aNngvvZbIX25XmojJEQ"
-      },
-      "artists": [
-        {
-          "name": "SOTA",
-          "url": "https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP"
-        }
-      ],
-      "duration_ms": 183448,
-      "name": "Pray For Me",
-      "url": "https://open.spotify.com/track/1bDyUuOtKXNAF4WQV6ZH9k"
     },
     {
       "added_at": "2024-02-23 00:00:00",
@@ -885,26 +885,6 @@
       "url": "https://open.spotify.com/track/2T3fASr8VAc8sCs9A31VUz"
     },
     {
-      "added_at": "2024-01-19 00:01:00",
-      "album": {
-        "name": "Morals",
-        "url": "https://open.spotify.com/album/2zXhiQTvhYyiyzQNJarWfR"
-      },
-      "artists": [
-        {
-          "name": "Mr Traumatik",
-          "url": "https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z"
-        },
-        {
-          "name": "Temple",
-          "url": "https://open.spotify.com/artist/7lnnNugthRP3ItkeINs6DH"
-        }
-      ],
-      "duration_ms": 204171,
-      "name": "Morals",
-      "url": "https://open.spotify.com/track/3CsJ8e4GrSVIEP0iRbg1CI"
-    },
-    {
       "added_at": "2023-11-17 16:57:48",
       "album": {
         "name": "Freak (Used Remix)",
@@ -927,6 +907,26 @@
       "duration_ms": 252342,
       "name": "Freak - Used Remix",
       "url": "https://open.spotify.com/track/48261IylfaueSdk1XKX0nh"
+    },
+    {
+      "added_at": "2024-01-19 00:01:00",
+      "album": {
+        "name": "Morals",
+        "url": "https://open.spotify.com/album/2zXhiQTvhYyiyzQNJarWfR"
+      },
+      "artists": [
+        {
+          "name": "Mr Traumatik",
+          "url": "https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z"
+        },
+        {
+          "name": "Temple",
+          "url": "https://open.spotify.com/artist/7lnnNugthRP3ItkeINs6DH"
+        }
+      ],
+      "duration_ms": 204171,
+      "name": "Morals",
+      "url": "https://open.spotify.com/track/3CsJ8e4GrSVIEP0iRbg1CI"
     },
     {
       "added_at": "2023-11-17 16:57:48",
@@ -971,6 +971,22 @@
     {
       "added_at": "2023-11-17 16:57:48",
       "album": {
+        "name": "Lady Petrol",
+        "url": "https://open.spotify.com/album/24e3IAndixmqYlExyKTldi"
+      },
+      "artists": [
+        {
+          "name": "Mozey",
+          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
+        }
+      ],
+      "duration_ms": 309986,
+      "name": "Lady Petrol",
+      "url": "https://open.spotify.com/track/0tpOXOSVJZl20YgoS5DOYa"
+    },
+    {
+      "added_at": "2023-11-17 16:57:48",
+      "album": {
         "name": "Confliction",
         "url": "https://open.spotify.com/album/1WS53YDSSfOFyJPUQ1SR1E"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 200228,
       "name": "Confliction",
       "url": "https://open.spotify.com/track/1ExW4pjV1zROf5QveEk64S"
-    },
-    {
-      "added_at": "2023-11-17 16:57:48",
-      "album": {
-        "name": "Lady Petrol",
-        "url": "https://open.spotify.com/album/24e3IAndixmqYlExyKTldi"
-      },
-      "artists": [
-        {
-          "name": "Mozey",
-          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
-        }
-      ],
-      "duration_ms": 309986,
-      "name": "Lady Petrol",
-      "url": "https://open.spotify.com/track/0tpOXOSVJZl20YgoS5DOYa"
     },
     {
       "added_at": "2023-12-01 00:01:00",

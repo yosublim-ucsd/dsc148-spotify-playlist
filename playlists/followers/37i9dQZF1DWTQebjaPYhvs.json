@@ -1,5 +1,5 @@
 {
-  "2024-02-23": 417344,
+  "2024-02-24": 418245,
   "date_first_scraped": "2022-11-25",
   "description": "The official playlist for <a href=\"spotify:user:0ouhj3nctpqgo8bgamzte2o6o\">Paramount Network</a>'s Yellowstone.",
   "name": "Yellowstone Official Playlist",
@@ -3301,7 +3301,7 @@
     {
       "album": {
         "name": "Start Right Here",
-        "url": "https://open.spotify.com/album/78RCzBIDEJymGU98erPOzG"
+        "url": "https://open.spotify.com/album/7zvb4BCGx3MKhKISxEJlhF"
       },
       "artists": [
         {
@@ -3316,6 +3316,28 @@
       "date_added": "2019-08-23",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 202714,
+      "name": "That Would Be Alright",
+      "url": "https://open.spotify.com/track/4Db3Z93uKXBgGCoRYLzKC1"
+    },
+    {
+      "album": {
+        "name": "Start Right Here",
+        "url": "https://open.spotify.com/album/78RCzBIDEJymGU98erPOzG"
+      },
+      "artists": [
+        {
+          "name": "Lincoln Grounds",
+          "url": "https://open.spotify.com/artist/3IvMomEciLsUnn0Kd6jtDJ"
+        },
+        {
+          "name": "Thomm Jutz",
+          "url": "https://open.spotify.com/artist/1ebv4m89CN6v5nKtG0yu2D"
+        }
+      ],
+      "date_added": "2019-08-23",
+      "date_added_asterisk": false,
+      "date_removed": "2024-02-23",
       "duration_ms": 202714,
       "name": "That Would Be Alright",
       "url": "https://open.spotify.com/track/6Jee1gQ5P42GHckmnGleL2"

@@ -4223,6 +4223,24 @@
     },
     {
       "album": {
+        "name": "Tie That Binds",
+        "url": "https://open.spotify.com/album/7l7SzAr6xjCKJiwszUMXuQ"
+      },
+      "artists": [
+        {
+          "name": "Ty Myers",
+          "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256441,
+      "name": "Tie That Binds",
+      "url": "https://open.spotify.com/track/549G8wfEY1W629M7wIqLod"
+    },
+    {
+      "album": {
         "name": "Million Eyes",
         "url": "https://open.spotify.com/album/5jrPhnzA00KBWc3bJJUqTY"
       },

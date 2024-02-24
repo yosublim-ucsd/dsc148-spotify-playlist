@@ -1,5 +1,5 @@
 {
-  "2024-02-23": 13574,
+  "2024-02-24": 13579,
   "date_first_scraped": "2022-08-06",
   "description": "mate- Bus stop!",
   "name": "Troski Rhythms",
@@ -561,6 +561,28 @@
       "duration_ms": 176283,
       "name": "Automatic",
       "url": "https://open.spotify.com/track/1yz6NJ6hXpVvaRbllgXQpI"
+    },
+    {
+      "album": {
+        "name": "Awoyo Sofo",
+        "url": "https://open.spotify.com/album/0GvruFtY50oHOTlsixNnah"
+      },
+      "artists": [
+        {
+          "name": "Kwaw Kese",
+          "url": "https://open.spotify.com/artist/5orboL2SUTJGDKfMVgCCBt"
+        },
+        {
+          "name": "Kofi Mole",
+          "url": "https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195093,
+      "name": "Awoyo Sofo",
+      "url": "https://open.spotify.com/track/0AYl4k8cN3YXxVb88azE9K"
     },
     {
       "album": {
@@ -1621,7 +1643,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 221767,
       "name": "Chemistry",
       "url": "https://open.spotify.com/track/1odYuNwkJ51VtGyfR8DiVl"
@@ -2307,7 +2329,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 160564,
       "name": "Falling Again",
       "url": "https://open.spotify.com/track/6d6v4qRPqlf3C6yTWLPOCj"
@@ -2685,6 +2707,24 @@
       "duration_ms": 162991,
       "name": "Gbese",
       "url": "https://open.spotify.com/track/41DLxR8Dt5Fh6LpqBjAnnJ"
+    },
+    {
+      "album": {
+        "name": "Getaway",
+        "url": "https://open.spotify.com/album/4K9LHHHW7DOrW0FS9kz6Cr"
+      },
+      "artists": [
+        {
+          "name": "Chayuta",
+          "url": "https://open.spotify.com/artist/4nXhFLBJ3zVZ9MAyUMbV6r"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146938,
+      "name": "Getaway",
+      "url": "https://open.spotify.com/track/1rygCbBVSKhfwTLvEWAEsF"
     },
     {
       "album": {
@@ -3106,6 +3146,28 @@
     },
     {
       "album": {
+        "name": "Holy Father",
+        "url": "https://open.spotify.com/album/1AYw6sAIeqlefgpeNqjVjo"
+      },
+      "artists": [
+        {
+          "name": "Wendy Shay",
+          "url": "https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S"
+        },
+        {
+          "name": "Ras Kuuku",
+          "url": "https://open.spotify.com/artist/24Lo1cdnRz69FYSaX7m44S"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230655,
+      "name": "Holy Father",
+      "url": "https://open.spotify.com/track/2wSk1MHN01QkgGEundIT0y"
+    },
+    {
+      "album": {
         "name": "Holy Gee",
         "url": "https://open.spotify.com/album/6G5EqRXFllg0YGv6sXk5IP"
       },
@@ -3157,7 +3219,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 189027,
       "name": "Hot Topic",
       "url": "https://open.spotify.com/track/3MpNAvXaU9awyBXnVTJi5O"
@@ -3779,7 +3841,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 152659,
       "name": "Kasapa",
       "url": "https://open.spotify.com/track/25LQCtFin5sJl6AERRvLD8"
@@ -3853,7 +3915,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-16",
+      "date_removed": null,
       "duration_ms": 147326,
       "name": "Knee Down",
       "url": "https://open.spotify.com/track/3ovSaVUTDOtxfDw5xh9qJ4"
@@ -4357,7 +4419,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 186666,
       "name": "Lockdown 2.0 (feat. Camidoh)",
       "url": "https://open.spotify.com/track/1yp4jq7tC4Cbn95nqD8BDW"
@@ -5007,7 +5069,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-16",
+      "date_removed": null,
       "duration_ms": 156479,
       "name": "Mood",
       "url": "https://open.spotify.com/track/6MxDZfKKNsiYwescOFGyY0"
@@ -6385,7 +6447,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-22",
+      "date_removed": null,
       "duration_ms": 141505,
       "name": "Ready",
       "url": "https://open.spotify.com/track/3DT98kqCAgabEvAbRJm5XE"
@@ -6897,7 +6959,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 138959,
       "name": "Shame",
       "url": "https://open.spotify.com/track/4iHFJCBANWahRAsY6i6DLP"
@@ -7799,10 +7861,28 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 155106,
       "name": "Time To Love Again",
       "url": "https://open.spotify.com/track/0LaCgmzJqzWymrvuXrimkd"
+    },
+    {
+      "album": {
+        "name": "Ting Ting",
+        "url": "https://open.spotify.com/album/5SovjJsCQZwm4zGoVCq2TK"
+      },
+      "artists": [
+        {
+          "name": "Oseikrom Sikanii",
+          "url": "https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182047,
+      "name": "Ting Ting",
+      "url": "https://open.spotify.com/track/4pPjtltszSbjBFzM0KCEqs"
     },
     {
       "album": {

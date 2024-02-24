@@ -724,7 +724,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 278080,
       "name": "Dancing On My Own - Radio Edit",
       "url": "https://open.spotify.com/track/7g13jf3zqlP5S68Voo5v9m"
@@ -1208,7 +1208,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 215146,
       "name": "Fluye",
       "url": "https://open.spotify.com/track/20SMxLSrSzsjE0xr7FEsQu"
@@ -1818,7 +1818,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 245964,
       "name": "Matilda",
       "url": "https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O"
@@ -2258,6 +2258,24 @@
       "duration_ms": 181964,
       "name": "Pale",
       "url": "https://open.spotify.com/track/0DG6jgOEXd7cOy2gI7lRDv"
+    },
+    {
+      "album": {
+        "name": "Yin",
+        "url": "https://open.spotify.com/album/53H9AYzn3j647Tr3JnGI71"
+      },
+      "artists": [
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236440,
+      "name": "Pel\u00edcula",
+      "url": "https://open.spotify.com/track/4TCppHFDaH00Sc4Vf9QnDj"
     },
     {
       "album": {
@@ -3161,6 +3179,24 @@
     },
     {
       "album": {
+        "name": "Viceversa",
+        "url": "https://open.spotify.com/album/4k7CS3g3K0aXrPhInSX5QD"
+      },
+      "artists": [
+        {
+          "name": "Bu Cuaron",
+          "url": "https://open.spotify.com/artist/436VIztZC1jpD8Pzo5rvUj"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219911,
+      "name": "Viceversa",
+      "url": "https://open.spotify.com/track/1utrxBHmUPgNhE8hWkDjXL"
+    },
+    {
+      "album": {
         "name": "Memo Rex Commander y el Coraz\u00f3n At\u00f3mico de la V\u00eda L\u00e1ctea",
         "url": "https://open.spotify.com/album/1aHxOwnGJWLSB2KfiUPoZG"
       },
@@ -3324,6 +3360,24 @@
       "duration_ms": 216038,
       "name": "Yam Yam",
       "url": "https://open.spotify.com/track/26iu1k7U1NT2i8Sz7mDPGa"
+    },
+    {
+      "album": {
+        "name": "\u00bfC\u00f3mo Pas\u00f3?",
+        "url": "https://open.spotify.com/album/60ljXbrvvWXfuvPen2K319"
+      },
+      "artists": [
+        {
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174546,
+      "name": "\u00bfC\u00f3mo Pas\u00f3?",
+      "url": "https://open.spotify.com/track/7slBlaUuSCgADZBuTQDYBB"
     },
     {
       "album": {

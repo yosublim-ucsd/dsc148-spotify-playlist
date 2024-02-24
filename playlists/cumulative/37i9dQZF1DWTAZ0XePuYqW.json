@@ -1,8 +1,34 @@
 {
   "date_first_scraped": "2023-08-19",
-  "description": "That's that big energy. Discover more Black artists and their contributions <a href=\"spotify:genre:0JQ5DAqbMKFF9bY76LXmfI\">here</a>. Cover: <a href=\"spotify:artist:6eXZu6O7nAUA5z6vLV8NKI\">Little Simz</a>",
+  "description": "That's that big energy. Discover more Black artists and their contributions <a href=\"spotify:genre:0JQ5DAqbMKFF9bY76LXmfI\">here</a>. Cover: <a href=\"spotify:artist:6MoQZOH2KnQrJhVtO9VoXC\">Cakes da Killa</a>",
   "name": "Bounce",
   "tracks": [
+    {
+      "album": {
+        "name": "TORONTO HARDCORE, Vol. 1",
+        "url": "https://open.spotify.com/album/579T9wk51jOqtvCK54I9OB"
+      },
+      "artists": [
+        {
+          "name": "TORONTO HARDCORE",
+          "url": "https://open.spotify.com/artist/3gW4V2L3PDfXcAvbFJMjdK"
+        },
+        {
+          "name": "TyriqueOrDie",
+          "url": "https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE"
+        },
+        {
+          "name": "Crushenhaus",
+          "url": "https://open.spotify.com/artist/2v6JjaySVQKdGHdVm9JmKD"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126768,
+      "name": "#MODELCHALLENGE",
+      "url": "https://open.spotify.com/track/0CFygE83T37jyHdG5NefDU"
+    },
     {
       "album": {
         "name": "Chrome Bull DLX",
@@ -77,6 +103,28 @@
     },
     {
       "album": {
+        "name": "3/4 to Finish Line",
+        "url": "https://open.spotify.com/album/5mtiI0bFfz87b7CWAfiBeR"
+      },
+      "artists": [
+        {
+          "name": "Kwame Adu",
+          "url": "https://open.spotify.com/artist/2KBmdjkaTCYqcluadZndpV"
+        },
+        {
+          "name": "DREE",
+          "url": "https://open.spotify.com/artist/7069NsIQwT8SEfQibIr0Ay"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146007,
+      "name": "3/4 to Finish Line",
+      "url": "https://open.spotify.com/track/4M1GIUpDNMG1R2bizEKixS"
+    },
+    {
+      "album": {
         "name": "4eva",
         "url": "https://open.spotify.com/album/1qH35yuPAM1IfRJBsKyCo8"
       },
@@ -100,6 +148,32 @@
       "duration_ms": 140933,
       "name": "4eva",
       "url": "https://open.spotify.com/track/36cJT1XQw11vx8QIAHsj2Z"
+    },
+    {
+      "album": {
+        "name": "ALPHA (GLAMHOUSE REMIX)",
+        "url": "https://open.spotify.com/album/6DMVd7pM2ZhRN0H9YeaAGN"
+      },
+      "artists": [
+        {
+          "name": "GLAMHOUSE",
+          "url": "https://open.spotify.com/artist/33lQfkAm6jLcuWDQcrWnRj"
+        },
+        {
+          "name": "Yung Titties",
+          "url": "https://open.spotify.com/artist/2PQPBZUsdiz2pUewFnp8eY"
+        },
+        {
+          "name": "more of may",
+          "url": "https://open.spotify.com/artist/7Mv15rYbVyS1mzWgEJWb3u"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211242,
+      "name": "ALPHA (GLAMHOUSE REMIX)",
+      "url": "https://open.spotify.com/track/6eGJO5V4B9eL9Li9hKfTzU"
     },
     {
       "album": {
@@ -520,7 +594,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 175099,
       "name": "Bongos (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/4YQImHflXSiIMXntcwPkx8"
@@ -752,7 +826,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 226000,
       "name": "Club Nasty",
       "url": "https://open.spotify.com/track/6tJUthWO8ajNTWt5icshy1"
@@ -1065,6 +1139,28 @@
     },
     {
       "album": {
+        "name": "Do Dat Baby",
+        "url": "https://open.spotify.com/album/2qvRboRK59jvKqYS0MMyi0"
+      },
+      "artists": [
+        {
+          "name": "Cakes da Killa",
+          "url": "https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC"
+        },
+        {
+          "name": "Dawn Richard",
+          "url": "https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187956,
+      "name": "Do Dat Baby",
+      "url": "https://open.spotify.com/track/75DcS0cmvDFFWni1ah7UGE"
+    },
+    {
+      "album": {
         "name": "VULTURES 1",
         "url": "https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF"
       },
@@ -1278,6 +1374,32 @@
       "duration_ms": 182272,
       "name": "Eastside Girl ft. Ty Dolla $ign",
       "url": "https://open.spotify.com/track/2yMqblpcRSEOpiBQpKFo9N"
+    },
+    {
+      "album": {
+        "name": "Ebelebe",
+        "url": "https://open.spotify.com/album/2EViC0HI5jyqtpa6kpqhpY"
+      },
+      "artists": [
+        {
+          "name": "KCee",
+          "url": "https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG"
+        },
+        {
+          "name": "Skiibii",
+          "url": "https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE"
+        },
+        {
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172631,
+      "name": "Ebelebe",
+      "url": "https://open.spotify.com/track/7mDVlwNJ0pY6xOmDn7D7u3"
     },
     {
       "album": {
@@ -1586,6 +1708,24 @@
       "duration_ms": 172137,
       "name": "FTCU",
       "url": "https://open.spotify.com/track/1a73gcEg6h6Re6hHXoVltJ"
+    },
+    {
+      "album": {
+        "name": "Gag",
+        "url": "https://open.spotify.com/album/7Iq01QrhVdHMVuEDXRxmxk"
+      },
+      "artists": [
+        {
+          "name": "Maleigh Zan",
+          "url": "https://open.spotify.com/artist/5RsL9iCp9pZFA6Kw7qqYAG"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194951,
+      "name": "Gag",
+      "url": "https://open.spotify.com/track/5weADp7HHlgE2RGl0L4kBF"
     },
     {
       "album": {
@@ -2215,6 +2355,28 @@
     },
     {
       "album": {
+        "name": "It's A No From Me",
+        "url": "https://open.spotify.com/album/0H0ZGtrZT81cG5x0lMf9sw"
+      },
+      "artists": [
+        {
+          "name": "DETO BLACK",
+          "url": "https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT"
+        },
+        {
+          "name": "chi",
+          "url": "https://open.spotify.com/artist/0ObIepMcBwVZRtJUniGKiW"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127868,
+      "name": "It's A No From Me",
+      "url": "https://open.spotify.com/track/6xRevLNVt6fBDEueLFQAM4"
+    },
+    {
+      "album": {
         "name": "Jersey",
         "url": "https://open.spotify.com/album/38S4qMNg1di0obDNZaq8Ma"
       },
@@ -2330,6 +2492,28 @@
       "duration_ms": 202468,
       "name": "Keep Dat Nigga (Part 2) (feat. GloRilla, Kali & Big Boss Vette)",
       "url": "https://open.spotify.com/track/4pgeI9ohPGzSDeKE1D4dYf"
+    },
+    {
+      "album": {
+        "name": "Kill For This Shit (feat. Young Dolph)",
+        "url": "https://open.spotify.com/album/0WEHkvTwLphaOKZMM1kpok"
+      },
+      "artists": [
+        {
+          "name": "Gordo",
+          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+        },
+        {
+          "name": "Young Dolph",
+          "url": "https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197343,
+      "name": "Kill For This Shit (feat. Young Dolph)",
+      "url": "https://open.spotify.com/track/5ScpTvVlLoTG9pEJiO1LZF"
     },
     {
       "album": {

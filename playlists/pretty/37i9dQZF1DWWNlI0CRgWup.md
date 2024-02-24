@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 
 ### [RADAR FRANCE](https://open.spotify.com/playlist/37i9dQZF1DWWNlI0CRgWup)
 
-> Découvrez les nouveautés des artistes RADAR France\. Photo : Solann
+> Découvrez les nouveautés des artistes RADAR France\. Photo : Yvnnis
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,101 likes - 46 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,103 likes - 46 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 | 5 | [Bécane](https://open.spotify.com/track/424utU9OlUcB7j2LRU9l6f) | [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl) | [ELOWI](https://open.spotify.com/album/49TUnWv5swURA9osAyLHI2) | 3:03 |
 | 6 | [J'aimerais danser avec toi](https://open.spotify.com/track/1fWvBuZBG7AomF8Qk27vMM) | [ANAÏS MVA](https://open.spotify.com/artist/2MBvn4Y3ugNmUlWp1W65QL) | [J'aimerais danser avec toi](https://open.spotify.com/album/5V5TGyamn7lRkTfnoYM8vO) | 2:39 |
 | 7 | [HINATA](https://open.spotify.com/track/1TJyY6XPwaprBSFT2owEG6) | [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH) | [1.6](https://open.spotify.com/album/69fpQmOdzFUjoEuGlk3HPf) | 2:55 |
-| 8 | [I Don't Remember](https://open.spotify.com/track/14ZOrTzkLV7rfTsdFiBqXj) | [Astral Bakers](https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D) | [I Don't Remember](https://open.spotify.com/album/1CPbjSbGXKqOzIgj3BBj62) | 3:57 |
+| 8 | [I Don't Remember](https://open.spotify.com/track/3Xw9XBQVBES1NW649X9FbI) | [Astral Bakers](https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D) | [The Whole Story](https://open.spotify.com/album/4GlTxg5zKftVRrKIAlsWal) | 3:57 |
 | 9 | [Attitude](https://open.spotify.com/track/7x5V1JR3yO7QwpwuXOYQLC) | [Johnny Jane](https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr) | [Attitude](https://open.spotify.com/album/7qYCBUiH3uVK3gNpusRZiF) | 2:29 |
 | 10 | [MÉDICALE](https://open.spotify.com/track/0deOyyvJxyvTTJudDyIFqp) | [HOUDI](https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6) | [SUN7](https://open.spotify.com/album/07IfuWJbMzAw6cTie8Wyu0) | 2:26 |
 | 11 | [Tell Me Who](https://open.spotify.com/track/3uCh2PMx17GZKf9kWaFMkY) | [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD), [Niko](https://open.spotify.com/artist/7DidhnHZXjvLywJgaNbl9Q) | [Tell Me Who](https://open.spotify.com/album/3xSW1meBZp2Fiq4xZwQB5T) | 2:43 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 | 45 | [Docteur](https://open.spotify.com/track/0WoXJsM5EKwhYURKx3p1p2) | [Yuzmv](https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm) | [La fin de la nuit](https://open.spotify.com/album/61B9Jgp1u9U46CUNIFOJfb) | 2:57 |
 | 46 | [Alcool Alcool](https://open.spotify.com/track/6wriPlx1qGGI7yOrtSGNvY) | [Gargäntua](https://open.spotify.com/artist/1ScFJG5ccOnTPPUin8cPFu) | [Immoral & Illégal](https://open.spotify.com/album/0KKgZIUwkhKV82olpr3QIU) | 3:53 |
 
-Snapshot ID: `MCxmNTJmZGFmNDA2ZTdhYTMxNDMzYjQ1NjdiMzU2NmQzMDlmYmEyOWUy`
+Snapshot ID: `MCw2MjhkMmU4YjE5MGI3MzY2M2ExMDcwMWJiYjdjMDFiZWQ1ZjEwMjgz`

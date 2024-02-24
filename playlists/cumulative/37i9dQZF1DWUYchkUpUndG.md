@@ -4,7 +4,7 @@
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=hhttps://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV?si=HvrytxWdS3SWqKWnL86SIw>Reblah</a>
 
-2,013 songs - 6 day 4 hr 36 min
+2,015 songs - 6 day 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,6 +254,7 @@
 | [Can't Leave](https://open.spotify.com/track/5ks4k5opWCz5pT3WxcjQLQ) | [Rush The High Priest](https://open.spotify.com/artist/60XHmaDa6fx5EVOImhc7n2), [Cru Alxndr](https://open.spotify.com/artist/1nExCVqTaxTCoGW4aJ4ZI2), [Slyvia Joy](https://open.spotify.com/artist/0ILsSKIA5ygKsQ5je5F13W) | [Can't Leave](https://open.spotify.com/album/7yfGkVfZOKetZWAAY5TrGN) | 3:34 | 2023-11-24 | 2023-12-08 |
 | [Captured My Heart](https://open.spotify.com/track/3vBvqUP03J70SnR8olFtvR) | [Dambassador](https://open.spotify.com/artist/0YFiexKRVtVG6tFQHQnLUl) | [Captured My Heart](https://open.spotify.com/album/3hq0NNrav8UNMzEMKlu0UD) | 3:39 | 2024-01-12 | 2024-01-26 |
 | [Carry Me](https://open.spotify.com/track/4HeHd1zsIXaGqCQ0Fl3gYR) | [Endy Musik](https://open.spotify.com/artist/1KXnYCLr7qSyM4ErfokXNp) | [Carry Me](https://open.spotify.com/album/45VBL0yKFEzrhO0nZLWty3) | 2:26 | 2024-01-19 | 2024-02-02 |
+| [Carry Me](https://open.spotify.com/track/2kW2LAlMohQNsroYSIXncM) | [Stephen Willo](https://open.spotify.com/artist/34uEJg0k0siI2NxKK2TeHa), [Cassidy Godwin](https://open.spotify.com/artist/2fCuEFatpJymbazPkYYVi8) | [Carry Me](https://open.spotify.com/album/46wDOIMnP62uR9tjmndXy2) | 2:24 | 2024-02-23 |  |
 | [Carry me like Baby](https://open.spotify.com/track/2g5uy0nM9DW0JJJLefJFgJ) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Blessed](https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk) | 3:12 | 2023-12-01 | 2023-12-15 |
 | [Carry You](https://open.spotify.com/track/7evtIT3xJiAbxgPXjIS9X8) | [Hills Music](https://open.spotify.com/artist/7zG8lYti0IvGed5TIPXATE), [Pe.te](https://open.spotify.com/artist/6JBEJPPMT7XhJII7ZMhPCi), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Carry You](https://open.spotify.com/album/5l3HA0RBIsrOhZY87bykJH) | 3:40 | 2023-06-16 | 2023-06-30 |
 | [Carry You](https://open.spotify.com/track/3GUd6UGAkR3L0zcVIVSPFZ) | [Onyibest](https://open.spotify.com/artist/0Sblzh41Ow6Aa8kFgW5ivF) | [Pass Papa](https://open.spotify.com/album/4JhaMXTcKfATEh5DdbLjKL) | 2:57 | 2023-07-21 | 2023-08-04 |
@@ -383,6 +384,7 @@
 | [Do to Me What You Want](https://open.spotify.com/track/4DubS31RXrubsxE486uBPi) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Do to Me What You Want](https://open.spotify.com/album/5HHnscBoj1SIt7FIDtSi6c) | 11:54 | 2024-02-16 |  |
 | [Do you care](https://open.spotify.com/track/1iTEbNKBUypPNeDeWwIyjw) | [Ayo King](https://open.spotify.com/artist/4FIzcnSD2oCZT6Hsf54Wky), [Favblings](https://open.spotify.com/artist/0nUqiVKvYLkuqgYWLVTZSI) | [Do You Care](https://open.spotify.com/album/0aFXwbvl63gdm6f7p9DVX2) | 2:12 | 2023-09-22 | 2023-10-06 |
 | [Do You Know Jesus?](https://open.spotify.com/track/2cZuuJ61c7qSct57or0h9Y) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Pillar YRR](https://open.spotify.com/artist/62jRIwQ6eUifptPOGRBHqd), [Lekan Salamii](https://open.spotify.com/artist/2S8pBLSlvmEiRPl2SMPfPB) | [Do You Know Jesus?](https://open.spotify.com/album/7hhYpFCgnlJaSsbuVPHxQq) | 2:35 | 2023-11-24 | 2023-12-08 |
+| [Do You Know Me?](https://open.spotify.com/track/6lvAghNqgmvplTSVvWjf9H) | [Leroy Sparkz](https://open.spotify.com/artist/1Q9yC9Oh6KdtaPDPu2c8eU), [Irvin Suave](https://open.spotify.com/artist/3CVnvplfTqFcvh69gAWEnK) | [Do You Know Me?](https://open.spotify.com/album/3YHuLAHQTMi6x7x5YkLwxV) | 3:06 | 2024-02-23 |  |
 | [Doh Doh Doh](https://open.spotify.com/track/2lMZGnSWKU9LxUjO5EThrw) | [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [Ife](https://open.spotify.com/artist/3n5NBohiciKgl7Y8i4AeyK) | [Doh Doh Doh](https://open.spotify.com/album/5rH09ZUv3nstdF2LtbPvvN) | 2:33 | 2023-07-21 | 2023-08-04 |
 | [Don't Be Afraid](https://open.spotify.com/track/7HpD8y3UjsIQM5XCsE6ylE) | [Kushim](https://open.spotify.com/artist/7ySTyvAPMU1SaCLo7fRvHX) | [Don't Be Afraid](https://open.spotify.com/album/7fBloET51NLD6axYcG2BRl) | 1:49 | 2023-10-06 | 2023-10-20 |
 | [Don't Change](https://open.spotify.com/track/6g57bI2Wa4QzjAUhqhXLed) | [Genirol](https://open.spotify.com/artist/2NaarOIQIasgOFuv1vCCX5) | [Don't Change](https://open.spotify.com/album/49lYTzFGcvO456x4iOfirK) | 3:11 | 2024-02-16 | 2024-02-23 |

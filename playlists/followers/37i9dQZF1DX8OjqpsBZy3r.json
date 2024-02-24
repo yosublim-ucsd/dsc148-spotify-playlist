@@ -1,5 +1,5 @@
 {
-  "2024-02-23": 6098,
+  "2024-02-24": 6102,
   "date_first_scraped": "2022-01-02",
   "description": "The trending country songs and viral hits you need to know. Cover: Hailey Whitters",
   "name": "Viral Country",
@@ -309,6 +309,24 @@
       "duration_ms": 170266,
       "name": "Bridesmaids",
       "url": "https://open.spotify.com/track/6qrJ2kxNvGey8ZEWii5teB"
+    },
+    {
+      "album": {
+        "name": "BUCKLE BUNNY",
+        "url": "https://open.spotify.com/album/0s3PLrYRp1PojvP8W9g1qS"
+      },
+      "artists": [
+        {
+          "name": "Tanner Adell",
+          "url": "https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192444,
+      "name": "Buckle Bunny",
+      "url": "https://open.spotify.com/track/17KfodDyg0yKQYmjGGGnlA"
     },
     {
       "album": {

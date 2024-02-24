@@ -4,7 +4,7 @@
 
 > Meet the future\.  Cover: Annural Khalid
 
-78 songs - 4 hr 15 min
+80 songs - 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Andaaz\-E\-Karam](https://open.spotify.com/track/7iI9CyxhmRqqk6u8odtvAq) | [Zain Zohaib](https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP) | [Andaaz\-E\-Karam](https://open.spotify.com/album/4mccCSngQlhDBLMROPx5Ip) | 3:06 | 2023-10-05 | 2024-02-17 |
 | [Andheri Raat](https://open.spotify.com/track/2ojtfOXp5BR9Jxh3GIdZ6h) | [Taha G](https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5) | [Andheri Raat](https://open.spotify.com/album/6CksTNpieRuo6cwoDBU5nI) | 3:06 | 2023-10-27 |  |
 | [Bandhan](https://open.spotify.com/track/3akoaFxqxnPQWl376rbVCt) | [Hassan & Roshaan](https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7), [Quratulain Balouch](https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q) | [Bandhan](https://open.spotify.com/album/65cIprQKiOBRh1fuKHM2B3) | 4:50 | 2023-07-31 |  |
+| [BETTER DAYS](https://open.spotify.com/track/7ysTYZIjZjI2aRGIZV4h24) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY) | [BETTER DAYS](https://open.spotify.com/album/0Px9Hx8lsZAK42xU2Tx3qw) | 3:01 | 2024-02-23 |  |
 | [Bhaagoon](https://open.spotify.com/track/0XZNiP6VU0e9Orm1Lzc7cr) | [Natasha Baig](https://open.spotify.com/artist/2R8t8JuhekewFBqE8OhBq8), [Bilal Ali](https://open.spotify.com/artist/1qJck1RgMGzqJyzvIJuOuX), [Sinnan Fazwani](https://open.spotify.com/artist/3gAgVxm4l9CwpWtTI0NF52) | [Bhaagoon](https://open.spotify.com/album/3vPIQjEt5lDTSgS6vRTFuV) | 3:06 | 2024-01-17 |  |
 | [Cham Cham](https://open.spotify.com/track/17FEA6kt7Xyjhat3Lv7LAw) | [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [Kumail Abbas](https://open.spotify.com/artist/5DqU9TQ8QwgZBIkTU8nd2R) | [Cham Cham](https://open.spotify.com/album/5Cn9Qx5mPJjY0PKa756LCx) | 3:46 | 2024-01-17 |  |
 | [CHAMKEELA](https://open.spotify.com/track/7BRB830qcAMXktLRnH9Lle) | [Natasha Noorani](https://open.spotify.com/artist/1nGL9DljVpkRcayU8Wi285) | [Chamkeela](https://open.spotify.com/album/0UBowUDsgsONLykfLOV824) | 3:08 | 2023-07-31 |  |
@@ -35,6 +36,7 @@
 | [Iraaday](https://open.spotify.com/track/6qrifdo7QINdPQr80IelGi) | [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C), [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1) | [Iraaday](https://open.spotify.com/album/5rrokeOdlkdlyLaGfiixYy) | 2:13 | 2023-07-31 |  |
 | [JADU](https://open.spotify.com/track/5BFDwitXIlpGKPcLCZVcpA) | [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS), [Towers](https://open.spotify.com/artist/3RtQy4G1wwfnhyegf4czBO) | [JADU](https://open.spotify.com/album/1YsuVDWON04EsjwPloOWZS) | 3:10 | 2023-07-31 |  |
 | [Jia](https://open.spotify.com/track/1OldtKIXBu5lzLtW37UkqR) | [Omar Mukhtar](https://open.spotify.com/artist/6FR7jutAadVl9LMNooryDl) | [Ram Pam Para](https://open.spotify.com/album/6DiiOftBUslEpML79kbVNW) | 4:04 | 2023-07-31 |  |
+| [JOGI](https://open.spotify.com/track/6KO2ptwXLvr8JiGxk2rFHl) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY), [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS) | [JOGI](https://open.spotify.com/album/42ul4c3YVf87TWk7u2d2oG) | 2:07 | 2024-02-23 |  |
 | [Joona](https://open.spotify.com/track/18twglRl0wFIIMtFOy2CHs) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR) | [Joona](https://open.spotify.com/album/3ziCoUwiVpBO2DHkMh3UH5) | 3:09 | 2023-07-31 |  |
 | [Jurmana](https://open.spotify.com/track/76pWGIqdI2d7X4MmoUT4L5) | [Kaifi Khalil](https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9) | [Jurmana](https://open.spotify.com/album/1LaWqK7YRtxm9ecqEne6Fj) | 2:53 | 2024-01-17 |  |
 | [kaash](https://open.spotify.com/track/2FO9i1iQw067Kxn6WDhd6t) | [RAAMIS](https://open.spotify.com/artist/004cRPgBOiWUUsu3mXXd1W), [Samar Jafri](https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq) | [her](https://open.spotify.com/album/0pye3GvMuudhjVYIvtq16Y) | 2:55 | 2024-02-06 |  |

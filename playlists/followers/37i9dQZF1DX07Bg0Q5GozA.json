@@ -1,7 +1,7 @@
 {
-  "2024-02-23": 440090,
+  "2024-02-24": 440079,
   "date_first_scraped": "2022-12-29",
-  "description": "New music off the beaten track. Cover: Cosmo's Midnight",
+  "description": "New music off the beaten track. Cover: Einmusik, Zoot Woman",
   "name": "OFF POP",
   "tracks": [
     {
@@ -2513,7 +2513,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 232258,
       "name": "Discoproof",
       "url": "https://open.spotify.com/track/0CQcUsyDEfKsHWDDF3h2C1"
@@ -5204,6 +5204,28 @@
     },
     {
       "album": {
+        "name": "I Feel Magic",
+        "url": "https://open.spotify.com/album/7qEdibaOWrfB71c8tRG6kb"
+      },
+      "artists": [
+        {
+          "name": "Einmusik",
+          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
+        },
+        {
+          "name": "Zoot Woman",
+          "url": "https://open.spotify.com/artist/25w2vpqq7dYleBAqMx7Ijx"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211090,
+      "name": "I Feel Magic - Edit",
+      "url": "https://open.spotify.com/track/7tlK5RtlQ89NBmSJcZLtQ2"
+    },
+    {
+      "album": {
         "name": "I Forget",
         "url": "https://open.spotify.com/album/03KIBaIUPddEWUj5Rzq8Vj"
       },
@@ -5291,6 +5313,24 @@
       "duration_ms": 149345,
       "name": "I Watch the Moon",
       "url": "https://open.spotify.com/track/3QbKP9TBLsQ70q10D8y5N4"
+    },
+    {
+      "album": {
+        "name": "I Wonder Why",
+        "url": "https://open.spotify.com/album/4skYEx8qCD86uIPwjpJnBG"
+      },
+      "artists": [
+        {
+          "name": "Glimmer of Blooms",
+          "url": "https://open.spotify.com/artist/5Ha7OvvalK4moJei0zEKg6"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158086,
+      "name": "I Wonder Why",
+      "url": "https://open.spotify.com/track/5SlXy3CFqdz8zGiJYB8Zni"
     },
     {
       "album": {
@@ -5411,7 +5451,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 187584,
       "name": "iinsects",
       "url": "https://open.spotify.com/track/5xO5Tkm7A12LDYab6PmIM8"
@@ -5887,6 +5927,24 @@
       "duration_ms": 175923,
       "name": "Jaguar",
       "url": "https://open.spotify.com/track/1EbPebzZXIn4QmYsL31Ahy"
+    },
+    {
+      "album": {
+        "name": "Jigglypuff",
+        "url": "https://open.spotify.com/album/3rGfbxXyerFW08qbO6Ihay"
+      },
+      "artists": [
+        {
+          "name": "Tora",
+          "url": "https://open.spotify.com/artist/7KGI0OwY8iAL5rI5p47YyK"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230806,
+      "name": "Jigglypuff",
+      "url": "https://open.spotify.com/track/2XvHPenTKEkwAwT3T1q1aW"
     },
     {
       "album": {
@@ -7119,6 +7177,28 @@
       "duration_ms": 444761,
       "name": "Mangabeira Manifesto feat. Dudu Bongo",
       "url": "https://open.spotify.com/track/1Do4gpmN5YBlHkvkBaQxPU"
+    },
+    {
+      "album": {
+        "name": "Manifest (Just Kiddin Remix)",
+        "url": "https://open.spotify.com/album/0QbxgsV8Tfi3TQ37bNV3qH"
+      },
+      "artists": [
+        {
+          "name": "Crystal Fighters",
+          "url": "https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC"
+        },
+        {
+          "name": "Just Kiddin",
+          "url": "https://open.spotify.com/artist/4bazJLWIv8CuqmgxJRiGqo"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194648,
+      "name": "Manifest - Just Kiddin Remix",
+      "url": "https://open.spotify.com/track/1U5A4QjzyazGlANRPOWoK4"
     },
     {
       "album": {
@@ -8965,7 +9045,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 206802,
       "name": "Rent Free",
       "url": "https://open.spotify.com/track/5WgMPYPb1Cpc6wMxqK4Mfx"
@@ -10705,7 +10785,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 181390,
       "name": "Swept Up - Shakedown Remix",
       "url": "https://open.spotify.com/track/7GQskDnCN4IeyiM6bcav68"

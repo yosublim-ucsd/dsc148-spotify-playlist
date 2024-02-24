@@ -4,7 +4,7 @@
 
 > Electronic tunes brought to life by South Asian samples\. Updated regularly.
 
-113 songs - 7 hr 34 min
+114 songs - 7 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Gangster Disco](https://open.spotify.com/track/79seu23FNymmrr6YCWg75p) | [Tech Panda](https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X), [Kenzani](https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM) | [Gangster Disco](https://open.spotify.com/album/6C0sEFSyuNWk03faNZZJ7J) | 3:40 | 2023-08-18 |  |
 | [Guddi Riddim](https://open.spotify.com/track/5yN3wXc6fvM5SPTFjL6c4G) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR), [Nooran Sisters](https://open.spotify.com/artist/2gFFvbbdzYzzWltI2HkZEV) | [Guddi Riddim](https://open.spotify.com/album/5LzVNj3OCqcPbYV9eV9CaN) | 3:30 | 2023-08-18 |  |
 | [Hai Hai \(Original Mix\)](https://open.spotify.com/track/4g8bzs2j3D72vm0wcguZ2q) | [Panjabi Hit Squad](https://open.spotify.com/artist/3IlSLDQTwlMSGiWDRoJ0Gj), [Ms Scandalous](https://open.spotify.com/artist/28BHtfPgUuB1w2hGu3j0mZ) | [Essential Desi](https://open.spotify.com/album/1xSOkSOQZcrwGFYYib8Bri) | 4:33 | 2023-08-18 |  |
+| [Heer](https://open.spotify.com/track/1jREKnMWRUAxZiISw5nyDB) | [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN), [Tech Panda](https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X), [Kenzani](https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM) | [Heer](https://open.spotify.com/album/3pNYtX26xOEfZr0zi3vO4e) | 3:36 | 2024-02-23 |  |
 | [Heera Ranjha](https://open.spotify.com/track/4X6IOxtvss2IVzLRz0zxeA) | [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI), [Shefali Alvares](https://open.spotify.com/artist/1Jt7JB3WIWaANzwHoybsVn) | [Heera Ranjha](https://open.spotify.com/album/5ib7pTJDafkQ9zAjjhe6Wp) | 2:16 | 2023-11-21 |  |
 | [Husn Walo Se](https://open.spotify.com/track/71EgEPhb8EqMpuq2BAbIJs) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl), [Gurbax](https://open.spotify.com/artist/52nO5w2jFAlYYsq6h9YjQG), [Ravator](https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs), [Kutle Khan](https://open.spotify.com/artist/6RBH1sfqF19q05ODygFOZE) | [Husn Walo Se](https://open.spotify.com/album/4Tw7DA7tvyjBsVq5KwEGWt) | 2:44 | 2023-11-21 |  |
 | [Huzur \(Reprise\)](https://open.spotify.com/track/2zRKJr7WxH6wzWxZRAmpxb) | [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI) | [Bazaar](https://open.spotify.com/album/1diwJts8QHs0Jv8SReZjN3) | 4:56 | 2023-08-18 |  |

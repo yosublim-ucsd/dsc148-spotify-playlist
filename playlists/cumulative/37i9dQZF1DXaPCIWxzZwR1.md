@@ -2,9 +2,9 @@
 
 ### [Pop Sauce](https://open.spotify.com/playlist/37i9dQZF1DXaPCIWxzZwR1)
 
-> next gen pop Cover: Kali Uchis
+> next gen pop Cover: Madison Beer
 
-1,863 songs - 3 day 18 hr 39 min
+1,865 songs - 3 day 18 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1038,6 +1038,7 @@
 | [Love Me For Me](https://open.spotify.com/track/4kKhmIdFALmwCYrt90oWUW) | [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE) | [Love Me For Me](https://open.spotify.com/album/3uEv1aG9Akxj7cyFm4I0ub) | 2:51 | 2022-04-08 | 2022-06-11 |
 | [Love Me Not](https://open.spotify.com/track/6UumSbVp1ae6IfcOWDo1oL) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Love Me Not](https://open.spotify.com/album/7xUn31DxHbMMH8oNTeI4uh) | 2:20 | 2024-02-09 |  |
 | [love nwantiti \(ah ah ah\)](https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The First](https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih) | 2:25 | 2021-10-07 | 2021-12-20 |
+| [Love On](https://open.spotify.com/track/2fB5YRuD88drKpCXQOAk03) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Love On](https://open.spotify.com/album/7I7rbWQoLZ7PrTMsRfocpL) | 3:01 | 2024-02-23 |  |
 | [love on you.](https://open.spotify.com/track/1CdihC3UElHj1Ul7XvC2Tu) | [Olivia Holt](https://open.spotify.com/artist/188VINPQh5dyNfLUkevKqf) | [love on you.](https://open.spotify.com/album/1QLv2TwaGKN8UyitMglE9c) | 2:31 | 2021-04-03 | 2021-05-29 |
 | [Love U For Fun](https://open.spotify.com/track/7r2rcwnsJE3qoHDrL0OsZt) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Love U For Fun](https://open.spotify.com/album/22spZNhqMRcAR50WmzeO8V) | 2:57 | 2023-06-16 | 2023-08-12 |
 | [Love Under The Influence](https://open.spotify.com/track/7zU7vNJiit9Ep9AtPyuKBl) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Love Under The Influence](https://open.spotify.com/album/11x2KmXabLf3gs30g7Wa5d) | 3:08 | 2023-03-31 | 2023-04-22 |
@@ -1300,6 +1301,7 @@
 | [Pink Venom](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Pink Venom](https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1) | 3:06 | 2022-08-19 | 2022-11-12 |
 | [Place In Me](https://open.spotify.com/track/5uRv6CmkhdNoirnHEhqLPU) | [Luke Hemmings](https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ) | [Place In Me](https://open.spotify.com/album/4nscHAsqchZ2XqV4YWbFBG) | 3:07 | 2021-08-07 | 2021-08-21 |
 | [Placebo Effect](https://open.spotify.com/track/6m3T4RHAMaSIKUDsxko43y) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Placebo Effect](https://open.spotify.com/album/3dFr6Li35Nik82qwIMrSYa) | 3:11 | 2023-02-10 | 2023-03-11 |
+| [Planet](https://open.spotify.com/track/2t6drKARdGJAAEzx9PTlo3) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Supernova \(Extended\)](https://open.spotify.com/album/7cdmvQ2BpZNtxcsClyFgIu) | 3:06 | 2024-02-23 |  |
 | [Plastic Purse](https://open.spotify.com/track/51XzyvRLe38bouIZCv5itX) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [SUCKERPUNCH](https://open.spotify.com/album/04fys4zcFF3rawoRTl1Lgw) | 2:23 | 2022-10-07 | 2022-10-22 |
 | [play the part](https://open.spotify.com/track/6UUd0iPgTOYdHmsiSVJ6QK) | [bella amor](https://open.spotify.com/artist/0YHLS3lTpmblVqI74qAz6M) | [play the part](https://open.spotify.com/album/0PbhofmA0DC6qfT8igsqF2) | 3:19 | 2023-09-08 | 2023-10-14 |
 | [Playin' Me Back](https://open.spotify.com/track/0xlsgO2emLkMCn43RmAL4w) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Playin' Me Back](https://open.spotify.com/album/7FGYJNAwHm33pUIl7vOwPo) | 1:49 | 2022-03-18 | 2022-04-16 |
@@ -1351,7 +1353,7 @@
 | [Relapse](https://open.spotify.com/track/0Ky7dNE5kiSBgqNiwwl1jx) | [Boys World](https://open.spotify.com/artist/0YgZTREOQz8oOGVABXEoXi) | [While You Were Out](https://open.spotify.com/album/6lYGdrU9Qg9qLLUAEoFcqi) | 2:52 | 2021-04-10 | 2021-04-24 |
 | [RELAX AFTER WORK WITH A DRINK](https://open.spotify.com/track/6pCesx8BBK7A6wevRbTVfk) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [POP MUSIC](https://open.spotify.com/album/6jyKlst4HrUaxqjVwysHLK) | 1:57 | 2023-12-11 | 2024-01-13 |
 | [Remember Me](https://open.spotify.com/track/7CVTNEG1FGx2wZogFdPOB5) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [Remember Me](https://open.spotify.com/album/0Kanc7q4tp6A5kY4zoeTPs) | 2:59 | 2021-03-19 | 2021-04-10 |
-| [Remember When](https://open.spotify.com/track/1KyLAl3R61UiXK9o14SUJm) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Remember When](https://open.spotify.com/album/4s84jh2NBDv4HF7iRysA3U) | 3:12 | 2023-11-17 |  |
+| [Remember When](https://open.spotify.com/track/1KyLAl3R61UiXK9o14SUJm) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Remember When](https://open.spotify.com/album/4s84jh2NBDv4HF7iRysA3U) | 3:12 | 2023-11-17 | 2024-02-24 |
 | [Remember you were the one](https://open.spotify.com/track/5a8cdHhMQ6zaQTjiUMFC4N) | [SHY Martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Remember you were the one](https://open.spotify.com/album/4SHKRGzRpaasZb5vaR6cFi) | 2:52 | 2021-04-10 | 2021-04-30 |
 | [rent free](https://open.spotify.com/track/6G9bbTeoVpPPt02fraZhnZ) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [rent free](https://open.spotify.com/album/4KmBjqHwSv3k07FwzX8Ju0) | 2:25 | 2022-11-11 | 2023-02-11 |
 | [Revolve Around You](https://open.spotify.com/track/49t1fiNQJvSfeMLOJosjvm) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Revolve Around You](https://open.spotify.com/album/1qqRC1EH1jPDPuSogMQT61) | 3:12 | 2023-05-26 | 2023-06-17 |
@@ -1448,7 +1450,7 @@
 | [Sinatra](https://open.spotify.com/track/1USo158Kncaxfyq9q306dn) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [Sinatra](https://open.spotify.com/album/42SZ5XHrfhsZXlto73OZQ0) | 2:36 | 2021-03-06 | 2021-04-08 |
 | [Single Soon](https://open.spotify.com/track/6iF4RgIjDvDqyW13PezSj3) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Single Soon](https://open.spotify.com/album/6EejduBuRYb7rzJaD2YCqO) | 2:51 | 2023-08-25 |  |
 | [Sinners \(feat\. Thomas LaRosa\)](https://open.spotify.com/track/0VOyLRYrUBufrXQibWBipR) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U), [Thomas LaRosa](https://open.spotify.com/artist/1ZyUaNx0nDAzkGlAIXqXZR) | [Sinners \(feat\. Thomas LaRosa\)](https://open.spotify.com/album/2g9hsnkWRbKARuVIiRwjBl) | 3:33 | 2022-09-09 | 2022-10-15 |
-| [Siren](https://open.spotify.com/track/5psxNqlcbQhHuMLY7NT5Hr) | [Ashley Sienna](https://open.spotify.com/artist/2dfNhCW7cElnUBvmDvKGGi) | [I AM](https://open.spotify.com/album/386kgx8oUr4TFpLXuEMzBh) | 2:36 | 2023-11-17 |  |
+| [Siren](https://open.spotify.com/track/5psxNqlcbQhHuMLY7NT5Hr) | [Ashley Sienna](https://open.spotify.com/artist/2dfNhCW7cElnUBvmDvKGGi) | [I AM](https://open.spotify.com/album/386kgx8oUr4TFpLXuEMzBh) | 2:36 | 2023-11-17 | 2024-02-24 |
 | [Skeletons \(Lexi Needed a Break\)](https://open.spotify.com/track/2E8PpcxzMRAv2YdqRxg0jR) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [EUPHORIA SEASON 2 OFFICIAL SCORE \(FROM THE HBO ORIGINAL SERIES\)](https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1) | 2:22 | 2022-04-22 | 2022-05-20 |
 | [Skin](https://open.spotify.com/track/03B2SfXuvDh1m9F4tqrX07) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Skin](https://open.spotify.com/album/6JISV6SiJtQnIsNC6OVpUf) | 2:57 | 2021-02-16\* | 2021-04-24 |
 | [Skinny Dipping](https://open.spotify.com/track/7u6HtmuMeuiVdwwFul5xHi) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Skinny Dipping](https://open.spotify.com/album/2NbUBAN5Mv7KAacJHOtC49) | 2:57 | 2021-09-11 | 2021-10-09 |

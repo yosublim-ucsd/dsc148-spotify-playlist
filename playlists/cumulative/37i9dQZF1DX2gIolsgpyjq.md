@@ -4,7 +4,7 @@
 
 > The best new music by independent artists in the Nordics\. Cover: Kissimjau
 
-132 songs - 6 hr 43 min
+133 songs - 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,8 @@
 | [Let Go](https://open.spotify.com/track/6sxBh5RVUA3IP5i93WLIDn) | [Louien](https://open.spotify.com/artist/3ZwQaquUgrZdqoWDtVUUMY) | [Let Go](https://open.spotify.com/album/3qnowTLuRg2RxHRztC22DG) | 2:41 | 2024-02-08 |  |
 | [Lights Go Out](https://open.spotify.com/track/6fUOkiiQTO2nVazyl5VrU1) | [Skotte](https://open.spotify.com/artist/5GDfELQRat65DAU2FvjTPb) | [Lights Go Out](https://open.spotify.com/album/0N0cgQ6fxcZMULBkBeck91) | 2:04 | 2024-02-08 | 2024-02-23 |
 | [lil bird](https://open.spotify.com/track/3g1PNnZ27ejNNvd4D9hE4q) | [fyoum](https://open.spotify.com/artist/4GUYZi2qvx5zrugU0yAEHM) | [lil bird](https://open.spotify.com/album/7h0sjiXi1GF87KbWGMHNIN) | 4:27 | 2024-02-08 |  |
-| [Look The Other Way](https://open.spotify.com/track/5x9tTch2LsMNPReORReT7I) | [LUMI](https://open.spotify.com/artist/2GhZq7k05EWdvb4cS2RQG5) | [Look The Other Way](https://open.spotify.com/album/3gqQjbbgkdbKUeBYtXeHdI) | 3:33 | 2024-02-08 |  |
+| [Look The Other Way](https://open.spotify.com/track/5oEJg0qBp6gdAxQdplBZqL) | [LUMI](https://open.spotify.com/artist/2GhZq7k05EWdvb4cS2RQG5) | [Look The Other Way](https://open.spotify.com/album/0zPcVDVk6uPmGPOFWHtLAW) | 3:33 | 2024-02-22 |  |
+| [Look The Other Way](https://open.spotify.com/track/5x9tTch2LsMNPReORReT7I) | [LUMI](https://open.spotify.com/artist/2GhZq7k05EWdvb4cS2RQG5) | [Look The Other Way](https://open.spotify.com/album/3gqQjbbgkdbKUeBYtXeHdI) | 3:33 | 2024-02-08 | 2024-02-24 |
 | [Losing My Mind](https://open.spotify.com/track/68DeBTdmA7CnwS9Tz4tJBw) | [Louien](https://open.spotify.com/artist/3ZwQaquUgrZdqoWDtVUUMY) | [Losing My Mind](https://open.spotify.com/album/5MEQv9MCRhOYmDaQ9SvmZe) | 3:54 | 2024-02-08 |  |
 | [Love Me One More Time](https://open.spotify.com/track/4bXsNJgYxshTRZHevGj18v) | [Jonas Wallin](https://open.spotify.com/artist/1nj8AqytomxmHbAtYweL0w) | [Love Me One More Time](https://open.spotify.com/album/2PY0w8l8TivHXSR6qc8LWA) | 3:09 | 2024-02-08 | 2024-02-16 |
 | [Loved By You](https://open.spotify.com/track/60kMTxFUxC7jbbBE3OQ8bK) | [Sofie Fjellvang](https://open.spotify.com/artist/5eVGdFYlPXJw7xjTCziQt5) | [Loved By You](https://open.spotify.com/album/2pEM7hbJOkpvMMRZMk2YMU) | 2:55 | 2024-02-08 | 2024-02-23 |

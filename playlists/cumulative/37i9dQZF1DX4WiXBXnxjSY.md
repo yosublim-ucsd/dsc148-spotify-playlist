@@ -2,7 +2,7 @@
 
 ### [Green Noise for Sleep](https://open.spotify.com/playlist/37i9dQZF1DX4WiXBXnxjSY)
 
-> Dream away with sleep sounds of nature \- water, ocean sounds and breaking waves.
+> Dream away with sleep sounds of nature and green noise frequencies \- water, ocean sounds and breaking waves.
 
 140 songs - 6 hr 27 min
 

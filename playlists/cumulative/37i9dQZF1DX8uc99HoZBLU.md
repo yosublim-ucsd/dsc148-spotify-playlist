@@ -4,7 +4,7 @@
 
 > for those who appreciate a curated mood 🪩
 
-313 songs - 15 hr 58 min
+314 songs - 16 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Coffee Breath](https://open.spotify.com/track/0CBjkW0sm2CjxjMaisEDPF) | [Sofia Mills](https://open.spotify.com/artist/7H0Xu8hdP0tjpZ6z4dHquW) | [Coffee Breath](https://open.spotify.com/album/4xSZ20XQHahEsCKUydqZoX) | 2:43 | 2023-08-17 | 2023-09-30 |
 | [Coffee Breath](https://open.spotify.com/track/2h7j0zJ2eJ1qLfyjaqQP6n) | [Sofia Mills](https://open.spotify.com/artist/7H0Xu8hdP0tjpZ6z4dHquW) | [Coffee Breath](https://open.spotify.com/album/5KOp9Y5L4icsdSUw7nwMyG) | 2:43 | 2023-08-11 | 2023-08-25 |
 | [Coffee Stained Smile](https://open.spotify.com/track/3VmuRlPx5dLJEmZcIiY6LQ) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Coffee Stained Smile](https://open.spotify.com/album/3VsVKGZW2klawfXy08IsZm) | 3:00 | 2021-12-10 | 2022-07-28 |
+| [Comfort Chain](https://open.spotify.com/track/0Db8f7uikjXxH3qHe0UKoW) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [Comfort Chain](https://open.spotify.com/album/01qVg4PWWaeremZOHDVRS1) | 3:04 | 2023-08-17 |  |
 | [Comfort Chain](https://open.spotify.com/track/5BAXlRDW3YaPr3rfqV51TA) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [Comfort Chain](https://open.spotify.com/album/7wkMsvkTZ6pq5GgSqDu9jK) | 3:04 | 2021-12-23 | 2022-07-29 |
 | [Comfort Crowd](https://open.spotify.com/track/6uaBrivDHCaV0uBTiwHTUi) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 2:54 | 2021-06-08 | 2022-10-25 |
 | [controlla](https://open.spotify.com/track/7woCxOw0jmj65ohlQ3x0tH) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [rainy evening](https://open.spotify.com/album/5tfqUZ5RcSWcYn5mWYQ4PK) | 1:48 | 2021-06-08 | 2022-04-16 |
@@ -163,7 +164,7 @@
 | [Let Go](https://open.spotify.com/track/3kdlVcMVsSkbsUy8eQcBjI) | [Ark Patrol](https://open.spotify.com/artist/3zaxUd86U92CdZkNa6NUo9), [Veronika Redd](https://open.spotify.com/artist/6kuFWCCvd7bWB1PV0tJMN2) | [Let Go](https://open.spotify.com/album/1MGkdnByMIGI1ZXcAf4Wze) | 4:08 | 2021-06-08 | 2023-04-29 |
 | [Let's Hold Hands \(feat\. Melanie Faye\)](https://open.spotify.com/track/2Gi5XHbTxLbzwjQQHky749) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D), [Melanie Faye](https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp) | [Let's Hold Hands \(feat\. Melanie Faye\)](https://open.spotify.com/album/2xzmYeAFAzzru2hFUbgiBg) | 2:59 | 2021-06-08 | 2022-07-29 |
 | [lie to me](https://open.spotify.com/track/4x2e3S53WtvEi8jzl1g0Mt) | [Alex Kehm](https://open.spotify.com/artist/13B2InTOzB64KSklQRZRmU) | [lie to me](https://open.spotify.com/album/1ASYc873YDpvSuTdsSple5) | 3:35 | 2021-08-13 | 2022-04-18 |
-| [like i need u](https://open.spotify.com/track/7ivYWXqrPLs66YwakDuSim) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [THE REAPER](https://open.spotify.com/album/1hM5xkleU8wr2yOaY2gCMB) | 3:02 | 2021-06-08 |  |
+| [like i need u](https://open.spotify.com/track/7ivYWXqrPLs66YwakDuSim) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [THE REAPER](https://open.spotify.com/album/1hM5xkleU8wr2yOaY2gCMB) | 3:02 | 2021-06-08 | 2024-02-24 |
 | [Like the Movies](https://open.spotify.com/track/1hUXDEqjNIIbfjTcaz3jzb) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Typical of Me EP](https://open.spotify.com/album/7pooeoqY4uJkTaW70qxm3z) | 2:42 | 2023-08-11 |  |
 | [Like the Movies](https://open.spotify.com/track/6jh16zx3qgGeLA5J3iihS0) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Typical of Me](https://open.spotify.com/album/1ZSqGiN0icYQ9AjMRCAiRo) | 2:42 | 2021-08-19 | 2022-07-29 |
 | [like we're an indie movie](https://open.spotify.com/track/22FgiWoUpBS1gdSikE7TLa) | [MKSTN](https://open.spotify.com/artist/43sodApl7acNHbFLOrgZuD), [tiger del flor](https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7) | [like we're an indie movie](https://open.spotify.com/album/3LQV5S9PwcnBKe8veDhCbP) | 3:37 | 2021-11-12 | 2022-04-16 |

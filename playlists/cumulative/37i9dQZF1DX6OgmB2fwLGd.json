@@ -2941,6 +2941,24 @@
     },
     {
       "album": {
+        "name": "cake / don't be dishonest",
+        "url": "https://open.spotify.com/album/2VFC37FS3TqHDUlRoqzoAJ"
+      },
+      "artists": [
+        {
+          "name": "wolfacejoeyy",
+          "url": "https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177084,
+      "name": "cake",
+      "url": "https://open.spotify.com/track/7eWKbchJXbuMc3SoLsLWa4"
+    },
+    {
+      "album": {
         "name": "HABITS",
         "url": "https://open.spotify.com/album/1Id0Mj1E6NyiwBmRjFskD9"
       },
@@ -7127,6 +7145,24 @@
     },
     {
       "album": {
+        "name": "HATE ME",
+        "url": "https://open.spotify.com/album/2COd1Ghgd8JN4q69fpf6OO"
+      },
+      "artists": [
+        {
+          "name": "CLIP",
+          "url": "https://open.spotify.com/artist/3gkLLAZaxTaJhHnUaxQzCl"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122972,
+      "name": "HATE ME",
+      "url": "https://open.spotify.com/track/4VGqcmT6DYi4kFFWmzFvRp"
+    },
+    {
+      "album": {
         "name": "NO ONE'S NICE TO ME",
         "url": "https://open.spotify.com/album/5YvgvpgACOjrJHe7LFqJhc"
       },
@@ -7588,7 +7624,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 144691,
       "name": "Hop Out",
       "url": "https://open.spotify.com/track/2JhvQHlmRya9wmhPRmBb2A"
@@ -9888,6 +9924,24 @@
       "duration_ms": 128004,
       "name": "Let U Go",
       "url": "https://open.spotify.com/track/40TZnaw4eDPChJNHw2Swf3"
+    },
+    {
+      "album": {
+        "name": "Glockoma 2 (Deluxe)",
+        "url": "https://open.spotify.com/album/49vCWZ0yKkRvfetjsYVLnx"
+      },
+      "artists": [
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140106,
+      "name": "Let's Go",
+      "url": "https://open.spotify.com/track/5GCU2LJWPzoP8Q6nexs61z"
     },
     {
       "album": {
@@ -14048,7 +14102,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 144147,
       "name": "RICK DENIMS",
       "url": "https://open.spotify.com/track/6uqcUT0cuNiMrZb480CpTA"
@@ -14684,6 +14738,28 @@
       "duration_ms": 156792,
       "name": "Shake",
       "url": "https://open.spotify.com/track/18pZAkoz9eNXd6gpy48RQL"
+    },
+    {
+      "album": {
+        "name": "shake",
+        "url": "https://open.spotify.com/album/46ocNapng2exRLthBCsk29"
+      },
+      "artists": [
+        {
+          "name": "\u0444\u0440\u043e\u0437\u0438",
+          "url": "https://open.spotify.com/artist/3IIpbS5XHnLSdXTP4c1YN2"
+        },
+        {
+          "name": "joyful",
+          "url": "https://open.spotify.com/artist/1tE2eVlHSwplXAtuYtlBeZ"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105230,
+      "name": "shake",
+      "url": "https://open.spotify.com/track/75wgmmlBL3YDXQAnDhPNQD"
     },
     {
       "album": {
@@ -15585,6 +15661,32 @@
     },
     {
       "album": {
+        "name": "Standin' on Bihness",
+        "url": "https://open.spotify.com/album/0fPZjdq6aXTikRcNGRglPF"
+      },
+      "artists": [
+        {
+          "name": "Druski",
+          "url": "https://open.spotify.com/artist/4QXUDhKn7oIyfnaNEBkrkY"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155409,
+      "name": "Standin' on Bihness",
+      "url": "https://open.spotify.com/track/7jwcHg8xGlX1xoDvWuo3AX"
+    },
+    {
+      "album": {
         "name": "DIE FOR MY BITCH",
         "url": "https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI"
       },
@@ -16154,7 +16256,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 119000,
       "name": "TANGO",
       "url": "https://open.spotify.com/track/05Q6BW1kQSEIwFLuLd5IUd"
@@ -18286,7 +18388,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 138344,
       "name": "wya",
       "url": "https://open.spotify.com/track/7LwVsVM2uy9BIxAj5u15Zu"
@@ -18358,7 +18460,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 244225,
       "name": "Xanax / Burnt Memories",
       "url": "https://open.spotify.com/track/27z0n0bxgN8GGaWd32wVfw"

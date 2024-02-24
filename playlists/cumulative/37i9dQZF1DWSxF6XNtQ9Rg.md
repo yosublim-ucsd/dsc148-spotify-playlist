@@ -2,9 +2,9 @@
 
 ### [Hit Rap Italiane](https://open.spotify.com/playlist/37i9dQZF1DWSxF6XNtQ9Rg)
 
-> Solo hit rap da ascoltare in loop\. Cover: Sfera Ebbasta
+> Solo hit rap da ascoltare in loop\. Cover: Salmo
 
-226 songs - 12 hr 26 min
+227 songs - 12 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Centro \(feat\. Coez\)](https://open.spotify.com/track/6DGl9TtxYTpMFrmZa1mwEz) | [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Back Home](https://open.spotify.com/album/5b64UDoCcx1v1MSeAAz5We) | 3:04 | 2022-04-28 | 2023-11-21 |
 | [Certi Giorni \(feat\. Nitro\)](https://open.spotify.com/track/4nvsA575k8HrEjdQ78Ymvi) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Nitro](https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP) | [68 \(Till The End\)](https://open.spotify.com/album/1F6aVwr0raeSt5YT02hARW) | 3:14 | 2022-04-28 | 2023-06-10 |
 | [ch1 5ei te](https://open.spotify.com/track/0tRj4m46GRFrBS7IsbS0Gk) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA) | [23 6451](https://open.spotify.com/album/42wflBbrb9OchJfd3qiGRO) | 3:03 | 2022-08-10 | 2024-02-17 |
-| [Che Dio Mi Benedica](https://open.spotify.com/track/7ohj51SSBsOPh2phOZkn9d) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Malammore](https://open.spotify.com/album/4A9xE2QAA6dgTcqMrnjpqP) | 3:38 | 2022-04-28 |  |
+| [Che Dio Mi Benedica](https://open.spotify.com/track/7ohj51SSBsOPh2phOZkn9d) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Malammore](https://open.spotify.com/album/4A9xE2QAA6dgTcqMrnjpqP) | 3:38 | 2022-04-28 | 2024-02-24 |
 | [CHIAGNE \(feat\. Lazza & Takagi & Ketra\)](https://open.spotify.com/track/4midGjEpVz0mYkIdQMFX3l) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Takagi & Ketra](https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx) | [IL CORAGGIO DEI BAMBINI](https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K) | 2:59 | 2023-11-17 |  |
 | [Chic](https://open.spotify.com/track/7jUJ2RmT4PFHHq4goMWqm3) | [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F) | [Fenice](https://open.spotify.com/album/4Ff34a4maeLObapIe4K89I) | 3:32 | 2022-04-28 |  |
 | [Chico \(feat\. Rose Villain & Luchè\)](https://open.spotify.com/track/3Xhl7OqWAFgVxQKrWhyVVO) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Mr\. Fini](https://open.spotify.com/album/7C9m0DdXdl0Z92bmv45BpX) | 3:21 | 2022-04-28 | 2023-03-18 |
@@ -151,6 +151,7 @@
 | [Note killer](https://open.spotify.com/track/0QTPU4o8visZ7pz55n8Mco) | [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv) | [Mi fist \(Remastered version\)](https://open.spotify.com/album/5v0hrtP9nDnlfx2rbAiAd8) | 4:24 | 2024-01-05 |  |
 | [Nulla Accade](https://open.spotify.com/track/6uqeN1m6DXG0yOQ4WMNndB) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Santeria](https://open.spotify.com/album/2LLWEWdoQPndFp7cqwQYhV) | 3:52 | 2022-04-28 |  |
 | [NUOVO RANGE \(con SFERA EBBASTA\)](https://open.spotify.com/track/5YSR0sWUZk7NuIbkycxndu) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Junior K](https://open.spotify.com/artist/63pCdEiziMCDjGOdM1XCrJ) | [TAXI DRIVER](https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh) | 2:56 | 2022-08-10 |  |
+| [O' Primmo Ammore](https://open.spotify.com/track/449Ari1xgxZs7y0xlpAzRr) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Malammore](https://open.spotify.com/album/4A9xE2QAA6dgTcqMrnjpqP) | 3:34 | 2024-02-22 |  |
 | [oh 9od \- feat\. Nayt](https://open.spotify.com/track/5Qy9jtZdxUnFXmgPp3u5VZ) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD) | [23 6451](https://open.spotify.com/album/42wflBbrb9OchJfd3qiGRO) | 3:24 | 2022-05-31 | 2022-07-06 |
 | [On Gang](https://open.spotify.com/track/4NR1cjgeRzp0KSTwqiJfWj) | [Thelonious B.](https://open.spotify.com/artist/7rccKwEbDm4PjYBEZFEm3A), [THB Kirua](https://open.spotify.com/artist/6Hfy8idNYqB0iujetabAGj), [Beak On The Night](https://open.spotify.com/artist/3nW7Xw52V74rD3XkfTKC56) | [On Gang](https://open.spotify.com/album/4ahEyuk0XCJ3tdQZLWKZsD) | 2:34 | 2022-04-28 | 2022-05-24 |
 | [ONLYFANS \(feat\. MamboLosco\)](https://open.spotify.com/track/2RrldylvtjefqddhIONP7x) | [Slings](https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj), [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41) | [ONLYFANS \(feat\. MamboLosco\)](https://open.spotify.com/album/1h3tfAsHDKUIWnEb4Cedn6) | 2:23 | 2022-04-28 | 2022-08-02 |

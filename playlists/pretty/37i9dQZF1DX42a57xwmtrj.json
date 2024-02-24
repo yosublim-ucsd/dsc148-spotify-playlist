@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo naco es chido, y que viva el rocanroool! Botellita de Jerez en portada.",
-  "num_followers": 159057,
+  "num_followers": 159120,
   "original_name": "Rock Urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZWE2YTdmNGI5N2RlZWQ2YzAzZjU3ODAyMTE0YmYwMmUyNGIwNDZi",
+  "snapshot_id": "MCw1OTY5ZmZmZjZiZTA2NzY0ZDgxNjM1ZTM3OGE2OTA0MjIyYjkyYmEz",
   "tracks": [
     {
       "added_at": "2023-10-23 20:26:24",
@@ -207,22 +207,6 @@
     {
       "added_at": "2023-10-23 20:26:24",
       "album": {
-        "name": "Mar\u00eda (Remastered)",
-        "url": "https://open.spotify.com/album/0hIFRE4KyYl4RZHASuJYgF"
-      },
-      "artists": [
-        {
-          "name": "Liran' Roll",
-          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
-        }
-      ],
-      "duration_ms": 230713,
-      "name": "Cuarto para las Dos",
-      "url": "https://open.spotify.com/track/2wOMnyjpDSU20v9fwLFITn"
-    },
-    {
-      "added_at": "2023-10-23 20:26:24",
-      "album": {
         "name": "Lo M\u00e1s Prendido de Rockdrigo Gonz\u00e1lez",
         "url": "https://open.spotify.com/album/37yYMb961LIiE7NTmAASHZ"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 265589,
       "name": "No Tengo Tiempo",
       "url": "https://open.spotify.com/track/5xOW6mtZzHEtnLfekkg5fO"
+    },
+    {
+      "added_at": "2023-10-23 20:26:24",
+      "album": {
+        "name": "Mar\u00eda (Remastered)",
+        "url": "https://open.spotify.com/album/0hIFRE4KyYl4RZHASuJYgF"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "duration_ms": 230713,
+      "name": "Cuarto para las Dos",
+      "url": "https://open.spotify.com/track/2wOMnyjpDSU20v9fwLFITn"
     },
     {
       "added_at": "2023-10-23 20:26:24",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-10-23 20:26:24",
       "album": {
-        "name": "15 Rolitas de Amor, Vol. 7",
-        "url": "https://open.spotify.com/album/2Y46Nv8WCalJxXUVIR8Pnt"
-      },
-      "artists": [
-        {
-          "name": "Perro Callejero",
-          "url": "https://open.spotify.com/artist/4Y8TTjTn6nOmrSvmpb6ISX"
-        }
-      ],
-      "duration_ms": 285080,
-      "name": "Yo Quiero Ser",
-      "url": "https://open.spotify.com/track/1dU383l2TLND7OfsFzSbrE"
-    },
-    {
-      "added_at": "2023-10-23 20:26:24",
-      "album": {
         "name": "Mar\u00eda (Remastered)",
         "url": "https://open.spotify.com/album/0hIFRE4KyYl4RZHASuJYgF"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 264289,
       "name": "Mar\u00eda",
       "url": "https://open.spotify.com/track/0GMNzFmH1JTNBbA09az4Vw"
+    },
+    {
+      "added_at": "2023-10-23 20:26:24",
+      "album": {
+        "name": "15 Rolitas de Amor, Vol. 7",
+        "url": "https://open.spotify.com/album/2Y46Nv8WCalJxXUVIR8Pnt"
+      },
+      "artists": [
+        {
+          "name": "Perro Callejero",
+          "url": "https://open.spotify.com/artist/4Y8TTjTn6nOmrSvmpb6ISX"
+        }
+      ],
+      "duration_ms": 285080,
+      "name": "Yo Quiero Ser",
+      "url": "https://open.spotify.com/track/1dU383l2TLND7OfsFzSbrE"
     },
     {
       "added_at": "2023-10-23 20:26:24",
@@ -479,38 +479,6 @@
     {
       "added_at": "2023-10-23 20:26:24",
       "album": {
-        "name": "Suicida (Remastered)",
-        "url": "https://open.spotify.com/album/3IT3HKS1d8nRgQyMmwH9dX"
-      },
-      "artists": [
-        {
-          "name": "Vago",
-          "url": "https://open.spotify.com/artist/0jwtqRTkBlt2gzRwK3IrD7"
-        }
-      ],
-      "duration_ms": 243670,
-      "name": "Tu Mam\u00e1 No Me Quiere - Remastered",
-      "url": "https://open.spotify.com/track/0vGzODOKTWE2jJQgBbYF3v"
-    },
-    {
-      "added_at": "2023-10-23 20:26:24",
-      "album": {
-        "name": "La Ciudad",
-        "url": "https://open.spotify.com/album/1cFOUdbvsmvi5WtQTJErEa"
-      },
-      "artists": [
-        {
-          "name": "Blues Boys",
-          "url": "https://open.spotify.com/artist/2fsmmyD3SsJL2suRoZwI6z"
-        }
-      ],
-      "duration_ms": 214366,
-      "name": "El Perdedor",
-      "url": "https://open.spotify.com/track/4mjRBGJ2HKf9cvL8ymKnlg"
-    },
-    {
-      "added_at": "2023-10-23 20:26:24",
-      "album": {
         "name": "Quiero Cambiar (Remastered)",
         "url": "https://open.spotify.com/album/4Bl52OEsKDB2zcYIrakJVy"
       },
@@ -527,6 +495,22 @@
     {
       "added_at": "2023-10-23 20:26:24",
       "album": {
+        "name": "Suicida (Remastered)",
+        "url": "https://open.spotify.com/album/3IT3HKS1d8nRgQyMmwH9dX"
+      },
+      "artists": [
+        {
+          "name": "Vago",
+          "url": "https://open.spotify.com/artist/0jwtqRTkBlt2gzRwK3IrD7"
+        }
+      ],
+      "duration_ms": 243670,
+      "name": "Tu Mam\u00e1 No Me Quiere - Remastered",
+      "url": "https://open.spotify.com/track/0vGzODOKTWE2jJQgBbYF3v"
+    },
+    {
+      "added_at": "2023-10-23 20:26:24",
+      "album": {
         "name": "Rock Sin Visa, Vol. 2",
         "url": "https://open.spotify.com/album/6i7PrFosUXchqHxPez1IpL"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 187640,
       "name": "Historia de un Minuto",
       "url": "https://open.spotify.com/track/1dJQRFpIkASsM7Xmf8MhAP"
+    },
+    {
+      "added_at": "2023-10-23 20:26:24",
+      "album": {
+        "name": "La Ciudad",
+        "url": "https://open.spotify.com/album/1cFOUdbvsmvi5WtQTJErEa"
+      },
+      "artists": [
+        {
+          "name": "Blues Boys",
+          "url": "https://open.spotify.com/artist/2fsmmyD3SsJL2suRoZwI6z"
+        }
+      ],
+      "duration_ms": 214366,
+      "name": "El Perdedor",
+      "url": "https://open.spotify.com/track/4mjRBGJ2HKf9cvL8ymKnlg"
     },
     {
       "added_at": "2023-10-23 20:26:24",
@@ -611,38 +611,6 @@
     {
       "added_at": "2023-10-23 20:26:24",
       "album": {
-        "name": "Momentos",
-        "url": "https://open.spotify.com/album/0Mot1VW7pPX7lBl02XjoCN"
-      },
-      "artists": [
-        {
-          "name": "Liran' Roll",
-          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
-        }
-      ],
-      "duration_ms": 319613,
-      "name": "El Pianista",
-      "url": "https://open.spotify.com/track/3SRD0rSAbzkaJf4PKlnrcX"
-    },
-    {
-      "added_at": "2023-10-23 20:26:24",
-      "album": {
-        "name": "Los Nopales Tienen la Fuerza",
-        "url": "https://open.spotify.com/album/6k073KSG69UAlzi10TbWnv"
-      },
-      "artists": [
-        {
-          "name": "Heavy Nopal",
-          "url": "https://open.spotify.com/artist/7oFDTCTqOMHss3q89srhul"
-        }
-      ],
-      "duration_ms": 168948,
-      "name": "Fue en un Caf\u00e9",
-      "url": "https://open.spotify.com/track/7siXhQaEJkIIJQmznXWfCa"
-    },
-    {
-      "added_at": "2023-10-23 20:26:24",
-      "album": {
         "name": "En Guerra de Amor",
         "url": "https://open.spotify.com/album/7ypKLsIHFHBVnAEdlotmxe"
       },
@@ -655,6 +623,22 @@
       "duration_ms": 224351,
       "name": "Una Rola de Amor",
       "url": "https://open.spotify.com/track/4oc6fWlPQfoERkPs9TOZGj"
+    },
+    {
+      "added_at": "2023-10-23 20:26:24",
+      "album": {
+        "name": "Momentos",
+        "url": "https://open.spotify.com/album/0Mot1VW7pPX7lBl02XjoCN"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "duration_ms": 319613,
+      "name": "El Pianista",
+      "url": "https://open.spotify.com/track/3SRD0rSAbzkaJf4PKlnrcX"
     },
     {
       "added_at": "2023-10-23 20:26:24",
@@ -691,6 +675,22 @@
       "duration_ms": 254275,
       "name": "Un Toque M\u00e1gico",
       "url": "https://open.spotify.com/track/39bxZQn6wJ4TmO6ZoY9AhJ"
+    },
+    {
+      "added_at": "2023-10-23 20:26:24",
+      "album": {
+        "name": "Los Nopales Tienen la Fuerza",
+        "url": "https://open.spotify.com/album/6k073KSG69UAlzi10TbWnv"
+      },
+      "artists": [
+        {
+          "name": "Heavy Nopal",
+          "url": "https://open.spotify.com/artist/7oFDTCTqOMHss3q89srhul"
+        }
+      ],
+      "duration_ms": 168948,
+      "name": "Fue en un Caf\u00e9",
+      "url": "https://open.spotify.com/track/7siXhQaEJkIIJQmznXWfCa"
     },
     {
       "added_at": "2023-10-23 20:26:24",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Lan\u00e7amentos e novos nomes do trap nacional. Foto: Danzo",
+  "description": "Lan\u00e7amentos e novos nomes do trap nacional. Foto: Japa, Borges",
   "name": "Dose Trap",
   "tracks": [
     {
@@ -100,7 +100,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 96000,
       "name": "077",
       "url": "https://open.spotify.com/track/2y6iIcIF0CBWaJakMX5WmY"
@@ -152,7 +152,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 110342,
       "name": "100%",
       "url": "https://open.spotify.com/track/2uq2P6QAf6puiWBZITyLFe"
@@ -330,6 +330,28 @@
       "duration_ms": 141885,
       "name": "23 tropa do mano",
       "url": "https://open.spotify.com/track/6MYMpWviaGGXaSEQtlmb69"
+    },
+    {
+      "album": {
+        "name": "3beck em 1min",
+        "url": "https://open.spotify.com/album/2LE6sMgqEhkEA5KWeKfh54"
+      },
+      "artists": [
+        {
+          "name": "sickobabyxo",
+          "url": "https://open.spotify.com/artist/5QFWsfryRsbn8O2ryBFsqL"
+        },
+        {
+          "name": "1-800WRLD",
+          "url": "https://open.spotify.com/artist/279jm5uJdkabH3QdQu4eF7"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99428,
+      "name": "3beck em 1min",
+      "url": "https://open.spotify.com/track/14L3EgbISdlJFd5ep4rgGw"
     },
     {
       "album": {
@@ -1046,6 +1068,36 @@
       "duration_ms": 166956,
       "name": "Afronta III",
       "url": "https://open.spotify.com/track/5gszkrQOeUTPRDNfuQdx8a"
+    },
+    {
+      "album": {
+        "name": "After Party",
+        "url": "https://open.spotify.com/album/5OnEFLCrBXHykrmCWgMPTt"
+      },
+      "artists": [
+        {
+          "name": "Japa",
+          "url": "https://open.spotify.com/artist/3455RNeKZ9giouA4pde2qA"
+        },
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "JD On Tha Track",
+          "url": "https://open.spotify.com/artist/399fRDjZglRcNLNEDobdt4"
+        },
+        {
+          "name": "Gabriel Lucchini",
+          "url": "https://open.spotify.com/artist/4wm6Of8OD4MeU9AYpQ9Ocs"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187480,
+      "name": "After Party",
+      "url": "https://open.spotify.com/track/39O5jUbXuRmtSLtW0t46yk"
     },
     {
       "album": {
@@ -2936,7 +2988,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 146072,
       "name": "Barril",
       "url": "https://open.spotify.com/track/0CqjUcx94dcpnuSgubbOiL"
@@ -5742,6 +5794,32 @@
       "duration_ms": 111015,
       "name": "Cora\u00e7\u00e3o Gelado",
       "url": "https://open.spotify.com/track/1CEJvpfICqTqynkNkvQZn1"
+    },
+    {
+      "album": {
+        "name": "CORINGA",
+        "url": "https://open.spotify.com/album/2rppbjotEwieyMw0antTrV"
+      },
+      "artists": [
+        {
+          "name": "S7lermo",
+          "url": "https://open.spotify.com/artist/5yu0eLdIxLm3LvTxqewqhm"
+        },
+        {
+          "name": "biggie diehl",
+          "url": "https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy"
+        },
+        {
+          "name": "IssoQue\u00c9SomDeRap",
+          "url": "https://open.spotify.com/artist/43DrL9cHm49HEwg85idE2c"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166454,
+      "name": "CORINGA",
+      "url": "https://open.spotify.com/track/4FXoOAiq3TIOpBj2ekzcZU"
     },
     {
       "album": {
@@ -11105,6 +11183,54 @@
     },
     {
       "album": {
+        "name": "Subterf\u00fagio",
+        "url": "https://open.spotify.com/album/63eWuDJVVOOk76F2eRKJYs"
+      },
+      "artists": [
+        {
+          "name": "MC Du Red",
+          "url": "https://open.spotify.com/artist/7KSmBoFVVDxBl5ZqwI4zjo"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217043,
+      "name": "Guerreiro de F\u00e9",
+      "url": "https://open.spotify.com/track/5bjUthJEzE7mCwHHDBsqFn"
+    },
+    {
+      "album": {
+        "name": "HARD ROCK",
+        "url": "https://open.spotify.com/album/1joRB65inPwhP5kS3XbcZ6"
+      },
+      "artists": [
+        {
+          "name": "LH CHUCRO",
+          "url": "https://open.spotify.com/artist/3Im4m6K9QvxFBUJIOttSuH"
+        },
+        {
+          "name": "The Boy",
+          "url": "https://open.spotify.com/artist/2RDrgRouTQ289ET075WYuC"
+        },
+        {
+          "name": "N.A.N.A.",
+          "url": "https://open.spotify.com/artist/4W7msxIdip7RH18eBaToND"
+        },
+        {
+          "name": "BLOCKKSTAR",
+          "url": "https://open.spotify.com/artist/5D0bLmj9HZnmryBo2SMtvB"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226909,
+      "name": "HARD ROCK",
+      "url": "https://open.spotify.com/track/6yoNYLJ7enbygKXF50Af72"
+    },
+    {
+      "album": {
         "name": "Hermetista",
         "url": "https://open.spotify.com/album/3XMRH3DYK8gLIA9GW2nBmF"
       },
@@ -12745,6 +12871,24 @@
     },
     {
       "album": {
+        "name": "Nova Wave, Pt. 5",
+        "url": "https://open.spotify.com/album/5m5pKRDR0a14V3B9RCLM7H"
+      },
+      "artists": [
+        {
+          "name": "Shaodree",
+          "url": "https://open.spotify.com/artist/4NOi6526Zq6dqCMXaEN0EW"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164557,
+      "name": "Link Up",
+      "url": "https://open.spotify.com/track/1krvcuzTunqkJNAsgA061I"
+    },
+    {
+      "album": {
         "name": "Listerine",
         "url": "https://open.spotify.com/album/78TGa3iJu3XcBwgZp4hn3H"
       },
@@ -13380,7 +13524,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 132203,
       "name": "Mais Grana",
       "url": "https://open.spotify.com/track/2rfsmGNkEDXpEGK5pV3QYb"
@@ -14034,7 +14178,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 144036,
       "name": "ME SINTO YUNG VEGAN",
       "url": "https://open.spotify.com/track/4OB5R0SlD7L5dRY7PBTFrh"
@@ -14426,7 +14570,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 150091,
       "name": "Merla Men",
       "url": "https://open.spotify.com/track/3A245b073ymtcu9fPwoNfH"
@@ -15249,6 +15393,32 @@
     },
     {
       "album": {
+        "name": "M\u00cdDIA",
+        "url": "https://open.spotify.com/album/2UX0mWZIM4I258iEoefXjq"
+      },
+      "artists": [
+        {
+          "name": "Druhh e Drehh",
+          "url": "https://open.spotify.com/artist/5ubDYnubwiewGEI6JPrmMf"
+        },
+        {
+          "name": "GDM",
+          "url": "https://open.spotify.com/artist/1aZEF5IIFQAA2Z4bGFGihH"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116869,
+      "name": "M\u00cdDIA",
+      "url": "https://open.spotify.com/track/5hMMfJWPMuGfOKiFpuOorM"
+    },
+    {
+      "album": {
         "name": "Nada Abala",
         "url": "https://open.spotify.com/album/67vR4b6y6IIyshR3cO1a4W"
       },
@@ -15316,7 +15486,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 136383,
       "name": "Naipe Vagabundo",
       "url": "https://open.spotify.com/track/0gUYr9h0KIYEDW3yZpKDm9"
@@ -17993,6 +18163,36 @@
     },
     {
       "album": {
+        "name": "Plant\u00e3o",
+        "url": "https://open.spotify.com/album/7d673G8jt2JjO4ltR2aCSF"
+      },
+      "artists": [
+        {
+          "name": "Corleone",
+          "url": "https://open.spotify.com/artist/6KC5SbVwchsIji35J7wGBb"
+        },
+        {
+          "name": "LEGO",
+          "url": "https://open.spotify.com/artist/5zVTZX70Tsu7hDbxdRmmbR"
+        },
+        {
+          "name": "Maipo Beats",
+          "url": "https://open.spotify.com/artist/63BTHXg5UTtmmAiAGc0fQx"
+        },
+        {
+          "name": "Fella Rap",
+          "url": "https://open.spotify.com/artist/0qdqMdbxiKiRrQ84Z8RRhB"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124800,
+      "name": "Plant\u00e3o",
+      "url": "https://open.spotify.com/track/5Syzq2Y6fG9SXEWCcqDhiO"
+    },
+    {
+      "album": {
         "name": "Playboy",
         "url": "https://open.spotify.com/album/72BEI7isjE7dZV6hxUUpB7"
       },
@@ -19641,6 +19841,28 @@
     },
     {
       "album": {
+        "name": "Regras",
+        "url": "https://open.spotify.com/album/3smXtSQhzu7tmjAK71guLH"
+      },
+      "artists": [
+        {
+          "name": "Nivy",
+          "url": "https://open.spotify.com/artist/70cJFTHKCTRuBdNNn741Xh"
+        },
+        {
+          "name": "Plvco",
+          "url": "https://open.spotify.com/artist/2ktvR9Lv2QE9sJuzRSPpiV"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122500,
+      "name": "Regras",
+      "url": "https://open.spotify.com/track/4XNJTkox9jlzi7CGkj1rCl"
+    },
+    {
+      "album": {
         "name": "Rei da Madrugada",
         "url": "https://open.spotify.com/album/6hNcLenB8iMRbOGcIMWMrH"
       },
@@ -19814,7 +20036,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 133877,
       "name": "Reprise",
       "url": "https://open.spotify.com/track/5V3IAWGvs51H3gJNHddD8I"
@@ -20762,7 +20984,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 147692,
       "name": "Sem Sentimento",
       "url": "https://open.spotify.com/track/3oEkGJOJBH52fLFfiW59b8"
@@ -21204,6 +21426,36 @@
       "duration_ms": 129000,
       "name": "Shawty",
       "url": "https://open.spotify.com/track/6ymQHqkdFdbXm8B8a0Zq0s"
+    },
+    {
+      "album": {
+        "name": "Sheik",
+        "url": "https://open.spotify.com/album/627S5FPSXJIpSVMBFQFpXy"
+      },
+      "artists": [
+        {
+          "name": "Aklipe44",
+          "url": "https://open.spotify.com/artist/3Sdc0xD6vTtMz4j6z5tFtz"
+        },
+        {
+          "name": "Vict44",
+          "url": "https://open.spotify.com/artist/6yfGQa1eKsWCAgKwHLEzKy"
+        },
+        {
+          "name": "Jeall",
+          "url": "https://open.spotify.com/artist/4dL3Sc02sRexL3jylcoGNt"
+        },
+        {
+          "name": "GG",
+          "url": "https://open.spotify.com/artist/4XX1N3ZVgiaubtX30g0YCE"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "Sheik",
+      "url": "https://open.spotify.com/track/70bkR2CMwu5wzZ2jOR2v9c"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Tech house technicians, featuring James Hype and Tita Lau <3",
+  "description": "Tech house technicians, featuring Walker & Royce. 50% techno, 50% house",
   "name": "Tech House Operator",
   "tracks": [
     {
@@ -1462,6 +1462,24 @@
       "duration_ms": 197365,
       "name": "Around Me",
       "url": "https://open.spotify.com/track/3vqCl5emqR14MHKxqQAsXH"
+    },
+    {
+      "album": {
+        "name": "Asap",
+        "url": "https://open.spotify.com/album/0zoLQ93QxZPF5LiNYw6vFi"
+      },
+      "artists": [
+        {
+          "name": "Facu Baez",
+          "url": "https://open.spotify.com/artist/22HYVpPiieQRJsUxZslfBN"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199069,
+      "name": "Asap",
+      "url": "https://open.spotify.com/track/0cOySCeNqmK9mimIAzSkzv"
     },
     {
       "album": {
@@ -5022,7 +5040,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 184596,
       "name": "Come Come",
       "url": "https://open.spotify.com/track/2vGpCrWU9nAvs2CFhw5TsA"
@@ -5954,7 +5972,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 169523,
       "name": "Deeper Love",
       "url": "https://open.spotify.com/track/4GHn5psPeMauQ7DFqZQFRJ"
@@ -6276,7 +6294,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 171968,
       "name": "Dive In (feat. Notelle)",
       "url": "https://open.spotify.com/track/27sxAuxRyXYwhwjPA5L0af"
@@ -8116,7 +8134,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 255000,
       "name": "Express Yourself - Mochakk Remix",
       "url": "https://open.spotify.com/track/2WNj9pcYFpYuG4jxQ5vrwT"
@@ -11034,6 +11052,24 @@
       "duration_ms": 177204,
       "name": "Hendrix Flow",
       "url": "https://open.spotify.com/track/2JK7amLLxtXYavB4DJeF0Y"
+    },
+    {
+      "album": {
+        "name": "Her",
+        "url": "https://open.spotify.com/album/2XibTFDr73jMIeM7CWTDeR"
+      },
+      "artists": [
+        {
+          "name": "AMPRS&ND",
+          "url": "https://open.spotify.com/artist/7Av5m3tbfqa4yzpvPPBNCK"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185987,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/16Vvd690cYoxmMvqaiTBwz"
     },
     {
       "album": {
@@ -14070,7 +14106,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 169635,
       "name": "LALALA",
       "url": "https://open.spotify.com/track/0vMAY6AodrM6yXH8Gi9Xzq"
@@ -14580,7 +14616,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 182325,
       "name": "Let's Live It Up",
       "url": "https://open.spotify.com/track/24n7rjOS6a9j6fcD5UHGuq"
@@ -16595,6 +16631,28 @@
     },
     {
       "album": {
+        "name": "Might Just",
+        "url": "https://open.spotify.com/album/3QkQmQFGIw9p2QAO0XQVXg"
+      },
+      "artists": [
+        {
+          "name": "Walker & Royce",
+          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
+        },
+        {
+          "name": "James Patterson",
+          "url": "https://open.spotify.com/artist/154uf79BQbw6Q4C5dPzWdW"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182535,
+      "name": "Might Just",
+      "url": "https://open.spotify.com/track/0rDs5KmugTtfchE7ho2iHH"
+    },
+    {
+      "album": {
         "name": "Milkshake",
         "url": "https://open.spotify.com/album/6sG0Y81AQVbRgDN3fGyfVL"
       },
@@ -16632,7 +16690,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 150447,
       "name": "Mind Awake, Body Asleep",
       "url": "https://open.spotify.com/track/6iGDeaY8vCTqxfGz6B8gTk"
@@ -17890,7 +17948,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 176692,
       "name": "My Mind",
       "url": "https://open.spotify.com/track/4ZNuShYJjCqhDq83ZtYGgr"
@@ -18638,6 +18696,24 @@
       "duration_ms": 299534,
       "name": "No Standing",
       "url": "https://open.spotify.com/track/1Sjav5dn1J3e5kCnggX3BR"
+    },
+    {
+      "album": {
+        "name": "Nobody Else",
+        "url": "https://open.spotify.com/album/2dAboPtSUPEeEiKqHmRdIm"
+      },
+      "artists": [
+        {
+          "name": "Jack Orley",
+          "url": "https://open.spotify.com/artist/0pT6RTEfYjBYhx3poFov1j"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186299,
+      "name": "Nobody Else",
+      "url": "https://open.spotify.com/track/6pe6oe5SPqbROOTKBcHazL"
     },
     {
       "album": {
@@ -23709,6 +23785,28 @@
     },
     {
       "album": {
+        "name": "Skip",
+        "url": "https://open.spotify.com/album/6FGPOgL60G0VhYki83WFCE"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Ingrosso",
+          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
+        },
+        {
+          "name": "Steve Angello",
+          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151520,
+      "name": "Skip",
+      "url": "https://open.spotify.com/track/0OHyE7d3EfGT6jIDVRN4Qn"
+    },
+    {
+      "album": {
         "name": "Skydance",
         "url": "https://open.spotify.com/album/2GvVkZNVBxtFYj4yoNt4YL"
       },
@@ -23884,6 +23982,28 @@
       "duration_ms": 177162,
       "name": "Smoke",
       "url": "https://open.spotify.com/track/5oAdBATu5QbXvBrtpCe0Mk"
+    },
+    {
+      "album": {
+        "name": "Snare Thing",
+        "url": "https://open.spotify.com/album/1H7iXcc0qwvM6T9Lo1ogLV"
+      },
+      "artists": [
+        {
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
+        },
+        {
+          "name": "Tony Romera",
+          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180952,
+      "name": "Snare Thing",
+      "url": "https://open.spotify.com/track/6uIY9dQQQQmuxZheorszyW"
     },
     {
       "album": {
@@ -24616,6 +24736,24 @@
       "duration_ms": 160685,
       "name": "Step-Grandma",
       "url": "https://open.spotify.com/track/2VCZrkZkplD4wG8AFozNoh"
+    },
+    {
+      "album": {
+        "name": "Stolen Dub",
+        "url": "https://open.spotify.com/album/5DR1do7dE2JjlVQ5q1qOfM"
+      },
+      "artists": [
+        {
+          "name": "TWENTY SIX",
+          "url": "https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136615,
+      "name": "Stolen Dub",
+      "url": "https://open.spotify.com/track/3JquhjcmUnvfik03uMQRES"
     },
     {
       "album": {
@@ -29638,6 +29776,28 @@
       "duration_ms": 201908,
       "name": "Where I Want 2 B",
       "url": "https://open.spotify.com/track/0YEgVqBmj14YWgv7w32Qm4"
+    },
+    {
+      "album": {
+        "name": "Where My Girls At?",
+        "url": "https://open.spotify.com/album/0V67ejz6Vt8Ucjkh6ZMcVY"
+      },
+      "artists": [
+        {
+          "name": "ESSEL",
+          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
+        },
+        {
+          "name": "Samira",
+          "url": "https://open.spotify.com/artist/0QmyeiU8zjcckReXT6sjuT"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148200,
+      "name": "Where My Girls At?",
+      "url": "https://open.spotify.com/track/4cWja9OGm0MPB5B6sd2SHz"
     },
     {
       "album": {

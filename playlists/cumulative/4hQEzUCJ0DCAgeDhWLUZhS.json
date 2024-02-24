@@ -2223,6 +2223,24 @@
     },
     {
       "album": {
+        "name": "Friendly Fire",
+        "url": "https://open.spotify.com/album/601IEigQO3enlyrbn4SpNM"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176901,
+      "name": "Friendly Fire",
+      "url": "https://open.spotify.com/track/1rAzOr3zpUDRtN2zsqGHiG"
+    },
+    {
+      "album": {
         "name": "FUCK ABOUT IT",
         "url": "https://open.spotify.com/album/2U9uohrVqMVGb1pBqPFTXX"
       },
@@ -6346,6 +6364,24 @@
       "duration_ms": 241595,
       "name": "Tear Down Those Names",
       "url": "https://open.spotify.com/track/4Lv7rmfqali1QauyCqBPUa"
+    },
+    {
+      "album": {
+        "name": "Tear \u2018Em To Bits",
+        "url": "https://open.spotify.com/album/3Udid4PrQi7emb5CDhoEpR"
+      },
+      "artists": [
+        {
+          "name": "AWOL",
+          "url": "https://open.spotify.com/artist/7GmixEjYEfCEw0Kxr1TM6U"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129146,
+      "name": "Tear \u2018Em To Bits",
+      "url": "https://open.spotify.com/track/7pjndVP2FlhYmfapiUkDJQ"
     },
     {
       "album": {

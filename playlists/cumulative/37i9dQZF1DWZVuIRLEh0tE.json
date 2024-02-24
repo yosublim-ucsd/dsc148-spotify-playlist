@@ -56,7 +56,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 146030,
       "name": "3 AM",
       "url": "https://open.spotify.com/track/6kYOidmsPP4xrgoL31f64x"
@@ -352,7 +352,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 122849,
       "name": "ADAM Y EVA",
       "url": "https://open.spotify.com/track/3TzYN19Z0kd2G7k0OKze4K"
@@ -518,6 +518,32 @@
       "duration_ms": 167068,
       "name": "Baddu",
       "url": "https://open.spotify.com/track/1R5eXm20wsrLP9jDtPipy8"
+    },
+    {
+      "album": {
+        "name": "Bailando Reggaeton",
+        "url": "https://open.spotify.com/album/1XW7yh0W0YSUu4bN3BQqHI"
+      },
+      "artists": [
+        {
+          "name": "Mike Moonnight",
+          "url": "https://open.spotify.com/artist/6T8Ols663KRRS4UdzGPbFf"
+        },
+        {
+          "name": "Christian Lopez RD",
+          "url": "https://open.spotify.com/artist/3XS0NFXQjOGmQnwwIhco70"
+        },
+        {
+          "name": "Jay Ocas",
+          "url": "https://open.spotify.com/artist/0JF1KwarnlrDobMMJsfr6o"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207164,
+      "name": "Bailando Reggaeton",
+      "url": "https://open.spotify.com/track/6KjuG9Kkfw25nEO8hjEpbG"
     },
     {
       "album": {
@@ -747,6 +773,24 @@
     },
     {
       "album": {
+        "name": "BPL",
+        "url": "https://open.spotify.com/album/347ObkGFpJwohuXCfdzTx3"
+      },
+      "artists": [
+        {
+          "name": "El Experimento (Macgyver)",
+          "url": "https://open.spotify.com/artist/2061nJAmY52Z8zAVjGFkTv"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164701,
+      "name": "BPL",
+      "url": "https://open.spotify.com/track/63qrZdrypAm5HKsyvGQYeB"
+    },
+    {
+      "album": {
         "name": "Bu BaBa: La Esencia Del G\u00e9nero",
         "url": "https://open.spotify.com/album/7uDg7P81VTaDvSDDg9QZvm"
       },
@@ -920,7 +964,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 122415,
       "name": "Capotillo, Los Mina, Los Frailes",
       "url": "https://open.spotify.com/track/4krGc8TbcjK4VsEO0rzX60"
@@ -2106,7 +2150,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 147706,
       "name": "Ellos Se Viran",
       "url": "https://open.spotify.com/track/1unBgEDqCMYXs8fjEcmYu0"
@@ -2432,7 +2476,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 137586,
       "name": "Gass Pure",
       "url": "https://open.spotify.com/track/5BaCZw0v3csyxDvs7ogXfK"
@@ -2853,6 +2897,40 @@
     },
     {
       "album": {
+        "name": "La Jungla, Vol. 2",
+        "url": "https://open.spotify.com/album/3jBTHaFk06js68URbKWnRU"
+      },
+      "artists": [
+        {
+          "name": "BooBassKing",
+          "url": "https://open.spotify.com/artist/2WuQfqks1V0QGsx7VIHnaF"
+        },
+        {
+          "name": "Mestizo Is Back",
+          "url": "https://open.spotify.com/artist/5DbHAUWNEMwhEUSC4UwcKH"
+        },
+        {
+          "name": "El Fother",
+          "url": "https://open.spotify.com/artist/0pm4ijsngxgyYEZl0UeXug"
+        },
+        {
+          "name": "Lolo en el Microfono",
+          "url": "https://open.spotify.com/artist/1AIUALoPoS7GHXrj7irphB"
+        },
+        {
+          "name": "Karol Woss",
+          "url": "https://open.spotify.com/artist/2BWcJHcs8r4889tz5ZgC3T"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161739,
+      "name": "La Jungla, Vol. 2",
+      "url": "https://open.spotify.com/track/0fi690SS8bYeY1G5IbjhBx"
+    },
+    {
+      "album": {
         "name": "La Lealtad",
         "url": "https://open.spotify.com/album/5PLmLC4kuilc7Hb13R4XPW"
       },
@@ -2952,7 +3030,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 162400,
       "name": "La M\u00e1s Linda",
       "url": "https://open.spotify.com/track/19ImEdyUwLNz3NIxtUA0tk"
@@ -3460,6 +3538,24 @@
       "duration_ms": 199304,
       "name": "LOS POBRES Y LOS RICOS",
       "url": "https://open.spotify.com/track/7yR9JlVYTOvYPjycQpl4PW"
+    },
+    {
+      "album": {
+        "name": "Lowkey",
+        "url": "https://open.spotify.com/album/5BoNGKexWqJhfhzvGBwXfG"
+      },
+      "artists": [
+        {
+          "name": "Ghetto Flow",
+          "url": "https://open.spotify.com/artist/0ScfiVR0ZTtu9428PJS3LP"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155781,
+      "name": "Lowkey",
+      "url": "https://open.spotify.com/track/2UmQeSgJ3JbugAwCjlnUnk"
     },
     {
       "album": {
@@ -4082,6 +4178,28 @@
       "duration_ms": 145561,
       "name": "Muchas Veces",
       "url": "https://open.spotify.com/track/2Xlms0AGBAU6zsTJg5zdCl"
+    },
+    {
+      "album": {
+        "name": "Muera",
+        "url": "https://open.spotify.com/album/2SRhqLSLxxBN3ULXT0nsVH"
+      },
+      "artists": [
+        {
+          "name": "Rochy RD",
+          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
+        },
+        {
+          "name": "Ian Ramirez",
+          "url": "https://open.spotify.com/artist/6I6bCyai514KhrLZpgrqmR"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182415,
+      "name": "Muera",
+      "url": "https://open.spotify.com/track/0sPSwnhJYN52IZjZ76zw1P"
     },
     {
       "album": {
@@ -5096,10 +5214,32 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 161684,
       "name": "Senta",
       "url": "https://open.spotify.com/track/1DQsoStBT8k3nrhPIme9gZ"
+    },
+    {
+      "album": {
+        "name": "Si Tu Quieres",
+        "url": "https://open.spotify.com/album/5B24tq54Yl9gCYrqHW0Idz"
+      },
+      "artists": [
+        {
+          "name": "La Perversa",
+          "url": "https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo"
+        },
+        {
+          "name": "NTG",
+          "url": "https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150288,
+      "name": "Si Tu Quieres",
+      "url": "https://open.spotify.com/track/4h3XCMbwm3rR1PTYcT336q"
     },
     {
       "album": {
@@ -5782,10 +5922,32 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 134040,
       "name": "Tuky Tuky",
       "url": "https://open.spotify.com/track/5paSUPI37gBuTvz7H7Dty0"
+    },
+    {
+      "album": {
+        "name": "Tyler Perry",
+        "url": "https://open.spotify.com/album/1OTV39Ou4u3bDJ90I1dqK4"
+      },
+      "artists": [
+        {
+          "name": "Lito Kirino",
+          "url": "https://open.spotify.com/artist/68w2t0wbrGnxSIUHzWs5bt"
+        },
+        {
+          "name": "JC Reyes",
+          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Tyler Perry",
+      "url": "https://open.spotify.com/track/2UuQkWdTcMDok263P3q5eA"
     },
     {
       "album": {
@@ -5804,6 +5966,24 @@
       "duration_ms": 145646,
       "name": "Un Chin",
       "url": "https://open.spotify.com/track/0QFoUwvgLa81F9yFZh6ZWI"
+    },
+    {
+      "album": {
+        "name": "Un Da\u00f1ao",
+        "url": "https://open.spotify.com/album/4Zy3Jv16sEBgt0kYtzuJ0I"
+      },
+      "artists": [
+        {
+          "name": "Donaty",
+          "url": "https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210359,
+      "name": "Un Da\u00f1ao",
+      "url": "https://open.spotify.com/track/7rqcbCQBQkGOPqNc8lgYmx"
     },
     {
       "album": {
@@ -6063,6 +6243,28 @@
     },
     {
       "album": {
+        "name": "Y Qu\u00e9",
+        "url": "https://open.spotify.com/album/2ZkVwLuSNV8589HxndjDgZ"
+      },
+      "artists": [
+        {
+          "name": "Martox",
+          "url": "https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r"
+        },
+        {
+          "name": "Lena Dardelet",
+          "url": "https://open.spotify.com/artist/37orxD8Q5PDm53FazTRpP7"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168979,
+      "name": "Y Qu\u00e9",
+      "url": "https://open.spotify.com/track/1Dd6CuCiuoTj0eiBnGnx4X"
+    },
+    {
+      "album": {
         "name": "Yo Me Rebele",
         "url": "https://open.spotify.com/album/47HhdTlzjRoifs3gLgqqg9"
       },
@@ -6152,7 +6354,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 148345,
       "name": "Yo te espero",
       "url": "https://open.spotify.com/track/4nwKvEVZPfIFVlkSYVDjyj"

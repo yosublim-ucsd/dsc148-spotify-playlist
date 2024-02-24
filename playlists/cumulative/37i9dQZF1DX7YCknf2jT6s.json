@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Christian McBride",
+  "description": "New jazz for open minds. Cover: Jahari Massamba Unit",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -490,7 +490,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 412951,
       "name": "A Lord Without Jewels",
       "url": "https://open.spotify.com/track/3zbbEmBPEDqoLJDNtpbkkk"
@@ -3783,6 +3783,24 @@
     },
     {
       "album": {
+        "name": "Booker's Garden",
+        "url": "https://open.spotify.com/album/0cJ8IMyGyizRDEusWjakk6"
+      },
+      "artists": [
+        {
+          "name": "Charles Lloyd",
+          "url": "https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 487105,
+      "name": "Booker\u2019s Garden",
+      "url": "https://open.spotify.com/track/4FWAOYCuP7lRL5Mji0DBxX"
+    },
+    {
+      "album": {
         "name": "Brand New Life",
         "url": "https://open.spotify.com/album/6Vwe5sledpijPPJGg8HyGE"
       },
@@ -4718,7 +4736,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 425239,
       "name": "Cloud Message",
       "url": "https://open.spotify.com/track/7FiSFsAWu6sm9ojpzPs4Sz"
@@ -4744,6 +4762,36 @@
       "duration_ms": 396256,
       "name": "Cobham",
       "url": "https://open.spotify.com/track/6p46VYGOLxUbhPJB3pGxEt"
+    },
+    {
+      "album": {
+        "name": "Cocoa Dust",
+        "url": "https://open.spotify.com/album/50w57xbAi9g515Wz2M5aYE"
+      },
+      "artists": [
+        {
+          "name": "Greg Spero",
+          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
+        },
+        {
+          "name": "Jough Cleveland",
+          "url": "https://open.spotify.com/artist/5WFQUb4qmSzX5syH6iQr5n"
+        },
+        {
+          "name": "Stixx Taylor",
+          "url": "https://open.spotify.com/artist/2eMTWZLa7eqnNsp71eM6Tg"
+        },
+        {
+          "name": "Dominique Xavier",
+          "url": "https://open.spotify.com/artist/47nOBw65Dx7k6FQyzQ5Dnp"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227540,
+      "name": "Cocoa Dust",
+      "url": "https://open.spotify.com/track/500lP9fUi5DY2Ma8xkVYIy"
     },
     {
       "album": {
@@ -6650,7 +6698,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 129571,
       "name": "Drum Solo",
       "url": "https://open.spotify.com/track/08zJkuSoh1K1xqseMaJZQR"
@@ -6804,6 +6852,36 @@
       "duration_ms": 190773,
       "name": "E Basta - Vincent Peirani",
       "url": "https://open.spotify.com/track/5TJfACNTfIZGwX36a5gONX"
+    },
+    {
+      "album": {
+        "name": "Eagle's Point",
+        "url": "https://open.spotify.com/album/7mXAox1GEs9UWIydmhZ3JW"
+      },
+      "artists": [
+        {
+          "name": "Chris Potter",
+          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
+        },
+        {
+          "name": "John Patitucci",
+          "url": "https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH"
+        },
+        {
+          "name": "Brian Blade",
+          "url": "https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu"
+        },
+        {
+          "name": "Brad Mehldau",
+          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 455959,
+      "name": "Eagle's Point",
+      "url": "https://open.spotify.com/track/4kFkOrYHCljDpsjhhwh40U"
     },
     {
       "album": {
@@ -8324,6 +8402,24 @@
       "duration_ms": 349008,
       "name": "Fortify",
       "url": "https://open.spotify.com/track/0oD4SYLAvCK5PI38bUK2jc"
+    },
+    {
+      "album": {
+        "name": "Free Mechanical",
+        "url": "https://open.spotify.com/album/6F3glFMyrzh0y0nM159Tac"
+      },
+      "artists": [
+        {
+          "name": "Josh Johnson",
+          "url": "https://open.spotify.com/artist/6E2QUbsHDVzmrf1TVfGdwf"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155935,
+      "name": "Free Mechanical",
+      "url": "https://open.spotify.com/track/2RB7KpPkG1Z67wtqkTu7Nm"
     },
     {
       "album": {
@@ -13938,7 +14034,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 182267,
       "name": "Massamba Afundance",
       "url": "https://open.spotify.com/track/3NRY5U5HwXk1xP43Hd5cJj"
@@ -14184,7 +14280,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 373533,
       "name": "Mellow Kisses",
       "url": "https://open.spotify.com/track/2aCGvsI9wPrmFGUGt3VEXW"
@@ -14652,7 +14748,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 409991,
       "name": "Monk\u2019s Dance",
       "url": "https://open.spotify.com/track/0HVl277oAQFQbVJHnsIKRb"
@@ -16713,6 +16809,32 @@
     },
     {
       "album": {
+        "name": "Otis' Tambourine",
+        "url": "https://open.spotify.com/album/36B43pWAEPvpxLHPIETjvh"
+      },
+      "artists": [
+        {
+          "name": "Jahari Massamba Unit",
+          "url": "https://open.spotify.com/artist/0wQu6RGpwgoD20qNxb4vwj"
+        },
+        {
+          "name": "Karriem Riggins",
+          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
+        },
+        {
+          "name": "Madlib",
+          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269970,
+      "name": "Otis' Tambourine",
+      "url": "https://open.spotify.com/track/0RVMkPFCaLiTivv3eJJgcY"
+    },
+    {
+      "album": {
         "name": "Oumuamua",
         "url": "https://open.spotify.com/album/6dcPVoKO70IIa5cSnjCtVx"
       },
@@ -17550,7 +17672,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 251562,
       "name": "Plum Blossoms",
       "url": "https://open.spotify.com/track/1mDLMzb6eE8IilF7ZD2P01"
@@ -19814,7 +19936,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 203157,
       "name": "Shades",
       "url": "https://open.spotify.com/track/1xzGiE3wqALgQCyLJoaT1W"
@@ -21771,6 +21893,40 @@
     },
     {
       "album": {
+        "name": "Sun Streak",
+        "url": "https://open.spotify.com/album/0xe3vp3OjTfSdfJvqp3Lc4"
+      },
+      "artists": [
+        {
+          "name": "Adam Ratner",
+          "url": "https://open.spotify.com/artist/4TqrWqGb9OUbR3ZGx23W4K"
+        },
+        {
+          "name": "David Binney",
+          "url": "https://open.spotify.com/artist/35fZivtiaWTLzphTDaWnrf"
+        },
+        {
+          "name": "Logan Kane",
+          "url": "https://open.spotify.com/artist/1sKdqE5PRHkzmEa8wb47EQ"
+        },
+        {
+          "name": "Luca Mendoza",
+          "url": "https://open.spotify.com/artist/0MlFh2Z71UaY9oeWx2peKq"
+        },
+        {
+          "name": "Benjamin Ring",
+          "url": "https://open.spotify.com/artist/3p7Y0v6WeIkL3wO2xn2Dv8"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 435280,
+      "name": "Sun Streak",
+      "url": "https://open.spotify.com/track/0g82AK31NDtvkFpsE50hY8"
+    },
+    {
+      "album": {
         "name": "Sun Wall",
         "url": "https://open.spotify.com/album/0ZcSdU4QXdFZNHJojFk4Cw"
       },
@@ -22978,6 +23134,24 @@
       "duration_ms": 380386,
       "name": "The Eleventh Hour",
       "url": "https://open.spotify.com/track/0BIoyx6pZfI4ctUSDMISBI"
+    },
+    {
+      "album": {
+        "name": "The End Of Air",
+        "url": "https://open.spotify.com/album/267h0pIHDcryw2e5s2Gfo7"
+      },
+      "artists": [
+        {
+          "name": "Prefuse 73",
+          "url": "https://open.spotify.com/artist/0ZsnKPvBsvvycnET2GZMrG"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289702,
+      "name": "The End Of Air",
+      "url": "https://open.spotify.com/track/13WDwb7YmS4ZRsUoDs2Hmu"
     },
     {
       "album": {
@@ -24372,6 +24546,40 @@
       "duration_ms": 408546,
       "name": "Throughout (feat. Bill Frisell)",
       "url": "https://open.spotify.com/track/3yE0EZjqwDJzOEvoiOXVjA"
+    },
+    {
+      "album": {
+        "name": "Throughout (Live/Brussels Philharmonic)",
+        "url": "https://open.spotify.com/album/4DTLvBK52W40q1YiMYNTPk"
+      },
+      "artists": [
+        {
+          "name": "Bill Frisell",
+          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+        },
+        {
+          "name": "Alexander Hanson",
+          "url": "https://open.spotify.com/artist/498OLUGBV0hSPmRHokzvaA"
+        },
+        {
+          "name": "Brussels Philharmonic",
+          "url": "https://open.spotify.com/artist/5Rg1unDkJrxrTV08BKoFrP"
+        },
+        {
+          "name": "Rudy Royston",
+          "url": "https://open.spotify.com/artist/0ILg6S11FRLlqKHKOfTJyY"
+        },
+        {
+          "name": "Thomas Morgan",
+          "url": "https://open.spotify.com/artist/6txzCcsy6ZKKKQLHmE3Y9L"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361293,
+      "name": "Throughout - Live/Brussels Philharmonic",
+      "url": "https://open.spotify.com/track/30l0UW1WS1zXnfKJwkX8rZ"
     },
     {
       "album": {

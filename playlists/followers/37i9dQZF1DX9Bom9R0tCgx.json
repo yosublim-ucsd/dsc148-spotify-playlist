@@ -1,5 +1,5 @@
 {
-  "2024-02-23": 364781,
+  "2024-02-24": 364971,
   "date_first_scraped": "2023-09-07",
   "description": "All the stuff that will blow your speakers!",
   "name": "Bass Explosion",
@@ -599,7 +599,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 81948,
       "name": "Berghain - Sven's Techno Mix",
       "url": "https://open.spotify.com/track/2PEMKBOFwqW1q4YATjwK7z"
@@ -1322,6 +1322,28 @@
     },
     {
       "album": {
+        "name": "Donkers",
+        "url": "https://open.spotify.com/album/7wutgb6i8vQgYXA0uVX95i"
+      },
+      "artists": [
+        {
+          "name": "Gonzi",
+          "url": "https://open.spotify.com/artist/5QahAoa4CrRbxmriKGacoe"
+        },
+        {
+          "name": "Creeds",
+          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120374,
+      "name": "Donkers - Main Edit",
+      "url": "https://open.spotify.com/track/3cLTFV1kUf46D8c8qKBasz"
+    },
+    {
+      "album": {
         "name": "Down Low",
         "url": "https://open.spotify.com/album/6GDJIxBWbymdumQGeSZ6Dn"
       },
@@ -1542,6 +1564,32 @@
     },
     {
       "album": {
+        "name": "Est-ce que tu m'aimes ?",
+        "url": "https://open.spotify.com/album/0N1QJxB4j1y846Zz7g5Wtq"
+      },
+      "artists": [
+        {
+          "name": "Fyex",
+          "url": "https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM"
+        },
+        {
+          "name": "Kevin Krissen",
+          "url": "https://open.spotify.com/artist/136IMKXG5a8xUSYuTkCBMI"
+        },
+        {
+          "name": "Hyper Hamster",
+          "url": "https://open.spotify.com/artist/2zEmE2fUy3FPemLS0WI5fM"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174620,
+      "name": "Est-ce que tu m'aimes ?",
+      "url": "https://open.spotify.com/track/3alxL5Z2ld9jGeacOJBWBb"
+    },
+    {
+      "album": {
         "name": "Eternal Rave",
         "url": "https://open.spotify.com/album/5nIGJ0xAgOpX6q4IpOVLiv"
       },
@@ -1617,6 +1665,24 @@
       "duration_ms": 159483,
       "name": "Explode",
       "url": "https://open.spotify.com/track/04ErJiS734u76JgX5JQayC"
+    },
+    {
+      "album": {
+        "name": "Eyes Don't Lie",
+        "url": "https://open.spotify.com/album/7CuBxfJmr2It6EzaBfCxPq"
+      },
+      "artists": [
+        {
+          "name": "Crystal Rock",
+          "url": "https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115257,
+      "name": "Eyes Don't Lie",
+      "url": "https://open.spotify.com/track/0MrSQNNYfK7LuBlP8uqizl"
     },
     {
       "album": {
@@ -1767,7 +1833,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 131754,
       "name": "Flow - Techno",
       "url": "https://open.spotify.com/track/5EleE3RB1U7cOopEvFAkBO"
@@ -2054,6 +2120,28 @@
     },
     {
       "album": {
+        "name": "Hit The Road Jack",
+        "url": "https://open.spotify.com/album/4fD0XHv8zNDpLZWt8lPNtu"
+      },
+      "artists": [
+        {
+          "name": "Bisken",
+          "url": "https://open.spotify.com/artist/1g78KNbyP5nmgmrLnWIOYf"
+        },
+        {
+          "name": "Millows",
+          "url": "https://open.spotify.com/artist/5GQeYhFPfFWauYWJXMJ1BG"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126428,
+      "name": "Hit The Road Jack",
+      "url": "https://open.spotify.com/track/5r6SF3GZpuEagE9JcXPVuV"
+    },
+    {
+      "album": {
         "name": "House",
         "url": "https://open.spotify.com/album/39NURP3oUUmnloXw0en8TZ"
       },
@@ -2161,7 +2249,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 190599,
       "name": "Hyperdrive - D-Charged Remix",
       "url": "https://open.spotify.com/track/6P5cS2e24lihrM7qV9KAh1"
@@ -2341,7 +2429,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 165000,
       "name": "Infinity 2023 - Thoby Edit",
       "url": "https://open.spotify.com/track/6RvKLVlg5hJjC8lUamODdX"
@@ -2495,6 +2583,32 @@
       "duration_ms": 189878,
       "name": "Jiggy",
       "url": "https://open.spotify.com/track/2jmPySIVtU4AG8oNrrng2M"
+    },
+    {
+      "album": {
+        "name": "Join The Madness",
+        "url": "https://open.spotify.com/album/0qLIqozcMvbeKO8GqVvleL"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Coone",
+          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193875,
+      "name": "Join The Madness",
+      "url": "https://open.spotify.com/track/5dvcdoVygPhEgtyy0rPhdk"
     },
     {
       "album": {
@@ -3061,7 +3175,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 213327,
       "name": "Make It Count",
       "url": "https://open.spotify.com/track/6qroXN9iyKNG6mP0Ddvh1b"
@@ -3385,7 +3499,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 226075,
       "name": "Numb - Aftershock Remix",
       "url": "https://open.spotify.com/track/3npJiA8jl1eBs0nwxKlnVs"
@@ -3415,6 +3529,32 @@
       "duration_ms": 156086,
       "name": "O Fortuna",
       "url": "https://open.spotify.com/track/6opBFQzVEGQPxaQFqGfjWI"
+    },
+    {
+      "album": {
+        "name": "Oblivion",
+        "url": "https://open.spotify.com/album/0WOXfzinWC4ACoMv7L8KJa"
+      },
+      "artists": [
+        {
+          "name": "Neptunica",
+          "url": "https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL"
+        },
+        {
+          "name": "Besomorph",
+          "url": "https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko"
+        },
+        {
+          "name": "Hedara",
+          "url": "https://open.spotify.com/artist/6lUauNyvHBjAp0tBFDiBNm"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121384,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/050mcqcICeaJ4h2yXdwCHT"
     },
     {
       "album": {
@@ -5112,6 +5252,28 @@
     },
     {
       "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/6CFfmrqFNdXzSE4HPPbsRL"
+      },
+      "artists": [
+        {
+          "name": "KYANU",
+          "url": "https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ"
+        },
+        {
+          "name": "Felix Harrer",
+          "url": "https://open.spotify.com/artist/7DDyntOmWbEgkGoIUaTxEp"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124867,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/3FxIVbSCCOvWjHSCtEmIR7"
+    },
+    {
+      "album": {
         "name": "Tell Me Secrets",
         "url": "https://open.spotify.com/album/3HWre2IiyyqUclVbnd6PlW"
       },
@@ -5233,7 +5395,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 171006,
       "name": "The Chant",
       "url": "https://open.spotify.com/track/16NC74ajzZCjs4RbA1Zxwn"

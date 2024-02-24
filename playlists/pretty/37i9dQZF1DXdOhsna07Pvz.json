@@ -1,12 +1,12 @@
 {
   "description": "O balan\u00e7o \u00e9 certo: a sua festa de brasilidades t\u00e1 aqui!",
-  "num_followers": 69448,
+  "num_followers": 69522,
   "original_name": "Baile Maravilha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNGZkZTBhOWFkMzdhMjMxMTk3MjY4YTFkYjhhNDBkMTM5OWI3MjAx",
+  "snapshot_id": "MCxiZDYzYjNkZDEzMDhkNzUwNDEwN2VjMzUxYWRjZTBjOGQ2ZWQ4ODQx",
   "tracks": [
     {
       "added_at": "2022-09-22 18:13:04",
@@ -163,18 +163,18 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Bom Demais",
-        "url": "https://open.spotify.com/album/1LGy5dn6nMFpiqG3mJlfoz"
+        "name": "Duas Cidades",
+        "url": "https://open.spotify.com/album/6ArV7cwxuSK0B6Gh1Hn5EI"
       },
       "artists": [
         {
-          "name": "Ara Ketu",
-          "url": "https://open.spotify.com/artist/6NqIUh0cpaygBWUUAjBaog"
+          "name": "BaianaSystem",
+          "url": "https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5"
         }
       ],
-      "duration_ms": 239026,
-      "name": "Ara Ketu Bom Demais",
-      "url": "https://open.spotify.com/track/2pgP6IT08m0Uw9cEMZM7A6"
+      "duration_ms": 246280,
+      "name": "Lucro (Descomprimindo)",
+      "url": "https://open.spotify.com/track/0ME0VSbe5nYsXf9V5IFZsd"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -195,18 +195,18 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Duas Cidades",
-        "url": "https://open.spotify.com/album/6ArV7cwxuSK0B6Gh1Hn5EI"
+        "name": "Bom Demais",
+        "url": "https://open.spotify.com/album/1LGy5dn6nMFpiqG3mJlfoz"
       },
       "artists": [
         {
-          "name": "BaianaSystem",
-          "url": "https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5"
+          "name": "Ara Ketu",
+          "url": "https://open.spotify.com/artist/6NqIUh0cpaygBWUUAjBaog"
         }
       ],
-      "duration_ms": 246280,
-      "name": "Lucro (Descomprimindo)",
-      "url": "https://open.spotify.com/track/0ME0VSbe5nYsXf9V5IFZsd"
+      "duration_ms": 239026,
+      "name": "Ara Ketu Bom Demais",
+      "url": "https://open.spotify.com/track/2pgP6IT08m0Uw9cEMZM7A6"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "2 \u00e9 Demais",
-        "url": "https://open.spotify.com/album/7tgo3DT9js4ycqryQWJ7dG"
-      },
-      "artists": [
-        {
-          "name": "Kid Abelha",
-          "url": "https://open.spotify.com/artist/4bOZtegYNmYOe3gMgPtt0H"
-        }
-      ],
-      "duration_ms": 267960,
-      "name": "Pintura \u00edntima - Compacto",
-      "url": "https://open.spotify.com/track/0kocdEM8L4eBJFmfhrGoru"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
         "name": "Gal Canta Caetano",
         "url": "https://open.spotify.com/album/2881CXCKtljZRNdKMerwYV"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 284160,
       "name": "Vaca Profana",
       "url": "https://open.spotify.com/track/1viMg0yGmgWy1EeR7CNeyF"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
+        "name": "2 \u00e9 Demais",
+        "url": "https://open.spotify.com/album/7tgo3DT9js4ycqryQWJ7dG"
+      },
+      "artists": [
+        {
+          "name": "Kid Abelha",
+          "url": "https://open.spotify.com/artist/4bOZtegYNmYOe3gMgPtt0H"
+        }
+      ],
+      "duration_ms": 267960,
+      "name": "Pintura \u00edntima - Compacto",
+      "url": "https://open.spotify.com/track/0kocdEM8L4eBJFmfhrGoru"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Brasilian Fiesta",
-        "url": "https://open.spotify.com/album/2YVjdkQrpF8tCDA69jql8t"
-      },
-      "artists": [
-        {
-          "name": "Tim Maia",
-          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
-        }
-      ],
-      "duration_ms": 222600,
-      "name": "Sossego",
-      "url": "https://open.spotify.com/track/08XDypkeVbvjZkVBEkORmT"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
         "name": "Brazilian Compilation Series, Vol. 2",
         "url": "https://open.spotify.com/album/4XBYRpTCJiwgBPbtjMFP1o"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 300000,
       "name": "Esperar Pra Ver",
       "url": "https://open.spotify.com/track/7baNYnxas4NlQXcoj6kSmp"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
+        "name": "Brasilian Fiesta",
+        "url": "https://open.spotify.com/album/2YVjdkQrpF8tCDA69jql8t"
+      },
+      "artists": [
+        {
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
+        }
+      ],
+      "duration_ms": 222600,
+      "name": "Sossego",
+      "url": "https://open.spotify.com/track/08XDypkeVbvjZkVBEkORmT"
     },
     {
       "added_at": "2022-09-22 18:13:04",

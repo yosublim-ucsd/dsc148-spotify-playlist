@@ -1,5 +1,5 @@
 {
-  "2024-02-23": 31525,
+  "2024-02-24": 31540,
   "date_first_scraped": "2023-09-19",
   "description": "This is Black Alien. The essential tracks, all in one playlist.",
   "name": "This Is Black Alien",
@@ -583,12 +583,12 @@
       },
       "artists": [
         {
-          "name": "Hot e Oreia",
-          "url": "https://open.spotify.com/artist/2sxBXOW6WrpuO6rXZ3kHtE"
-        },
-        {
           "name": "Black Alien",
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        },
+        {
+          "name": "Hot e Oreia",
+          "url": "https://open.spotify.com/artist/2sxBXOW6WrpuO6rXZ3kHtE"
         },
         {
           "name": "Coyote Beatz",

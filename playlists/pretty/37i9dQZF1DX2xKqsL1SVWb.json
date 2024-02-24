@@ -1,12 +1,12 @@
 {
   "description": "Folk tan dulce como la miel. Sebasti\u00e1n Romero en portada.",
-  "num_followers": 98209,
+  "num_followers": 98214,
   "original_name": "madera y miel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MjUxYzM0MDhiMmY2ZjdhNDNkOWUxZjk2ZjE1N2ExZWQ4ZWNiMTNm",
+  "snapshot_id": "MCxjYzdhYzZiNDRmZDBlZmY0ZGMwNGIyZDQzOTE0M2M4OTU3ZDdjYTk0",
   "tracks": [
     {
       "added_at": "2023-12-08 20:40:26",
@@ -535,6 +535,22 @@
     {
       "added_at": "2023-12-08 20:40:26",
       "album": {
+        "name": "\u00bfC\u00f3mo decir adi\u00f3s?",
+        "url": "https://open.spotify.com/album/4moI6Cg4KkngLNaPJNQv0T"
+      },
+      "artists": [
+        {
+          "name": "El David",
+          "url": "https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b"
+        }
+      ],
+      "duration_ms": 156610,
+      "name": "Atardeci\u00f3 sin vos",
+      "url": "https://open.spotify.com/track/1S588EBvuLIOFffQSar9uF"
+    },
+    {
+      "added_at": "2023-12-08 20:40:26",
+      "album": {
         "name": "Algo Mejor",
         "url": "https://open.spotify.com/album/0HYUyOcBGQhtdhC1woSkCt"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 153746,
       "name": "Algo Mejor",
       "url": "https://open.spotify.com/track/57OmmVVcjJVBuWSMOI42Pn"
-    },
-    {
-      "added_at": "2023-12-08 20:40:26",
-      "album": {
-        "name": "\u00bfC\u00f3mo decir adi\u00f3s?",
-        "url": "https://open.spotify.com/album/4moI6Cg4KkngLNaPJNQv0T"
-      },
-      "artists": [
-        {
-          "name": "El David",
-          "url": "https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b"
-        }
-      ],
-      "duration_ms": 156610,
-      "name": "Atardeci\u00f3 sin vos",
-      "url": "https://open.spotify.com/track/1S588EBvuLIOFffQSar9uF"
     },
     {
       "added_at": "2023-12-08 20:40:26",
@@ -735,22 +735,18 @@
     {
       "added_at": "2023-12-08 20:40:26",
       "album": {
-        "name": "Alta Joya",
-        "url": "https://open.spotify.com/album/2WH2HCRoqqL7Vag4wRsSva"
+        "name": "Mi Sue\u00f1o",
+        "url": "https://open.spotify.com/album/0E94vI4EfOVH9HVnmhyafU"
       },
       "artists": [
         {
-          "name": "George Rhoads",
-          "url": "https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y"
-        },
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+          "name": "Valeria Jasso",
+          "url": "https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh"
         }
       ],
-      "duration_ms": 201200,
-      "name": "Alta Joya",
-      "url": "https://open.spotify.com/track/1mcW8W3MAKP1daibEnOlRv"
+      "duration_ms": 162415,
+      "name": "Mi Sue\u00f1o",
+      "url": "https://open.spotify.com/track/5KEVe54PKR5Imu2ovBm1CY"
     },
     {
       "added_at": "2023-12-08 20:40:26",
@@ -771,18 +767,70 @@
     {
       "added_at": "2023-12-08 20:40:26",
       "album": {
-        "name": "Mi Sue\u00f1o",
-        "url": "https://open.spotify.com/album/0E94vI4EfOVH9HVnmhyafU"
+        "name": "Alta Joya",
+        "url": "https://open.spotify.com/album/2WH2HCRoqqL7Vag4wRsSva"
       },
       "artists": [
         {
-          "name": "Valeria Jasso",
-          "url": "https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh"
+          "name": "George Rhoads",
+          "url": "https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 162415,
-      "name": "Mi Sue\u00f1o",
-      "url": "https://open.spotify.com/track/5KEVe54PKR5Imu2ovBm1CY"
+      "duration_ms": 201200,
+      "name": "Alta Joya",
+      "url": "https://open.spotify.com/track/1mcW8W3MAKP1daibEnOlRv"
+    },
+    {
+      "added_at": "2023-12-08 20:40:26",
+      "album": {
+        "name": "ojal\u00e1 </3",
+        "url": "https://open.spotify.com/album/0dZbJuwWFwFqXSq6BC1xes"
+      },
+      "artists": [
+        {
+          "name": "Josue Alaniz",
+          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
+        }
+      ],
+      "duration_ms": 171290,
+      "name": "ojal\u00e1 </3",
+      "url": "https://open.spotify.com/track/2Gf3SCoQqgRbxUdjsP3IP4"
+    },
+    {
+      "added_at": "2023-12-08 20:40:26",
+      "album": {
+        "name": "Tengo Que Hacer Esto Por M\u00ed",
+        "url": "https://open.spotify.com/album/6IKEQRgjgX2bgNa8eeCDUg"
+      },
+      "artists": [
+        {
+          "name": "Pau Laggies",
+          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+        }
+      ],
+      "duration_ms": 150347,
+      "name": "Tengo Que Hacer Esto Por Mi",
+      "url": "https://open.spotify.com/track/02OUZnvRW1EChAL8EyPHWj"
+    },
+    {
+      "added_at": "2023-12-08 20:40:26",
+      "album": {
+        "name": "Marchita",
+        "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 211680,
+      "name": "La Corriente",
+      "url": "https://open.spotify.com/track/0nw9LTQoeiFoDFpZUkyW43"
     },
     {
       "added_at": "2023-12-08 20:40:26",
@@ -811,50 +859,18 @@
     {
       "added_at": "2023-12-08 20:40:26",
       "album": {
-        "name": "ojal\u00e1 </3",
-        "url": "https://open.spotify.com/album/0dZbJuwWFwFqXSq6BC1xes"
+        "name": "HSN",
+        "url": "https://open.spotify.com/album/6mZZOWFnjModwsij9EDDam"
       },
       "artists": [
         {
-          "name": "Josue Alaniz",
-          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
+          "name": "Erich",
+          "url": "https://open.spotify.com/artist/3l9fWRfml0xOFriezXXwhU"
         }
       ],
-      "duration_ms": 171290,
-      "name": "ojal\u00e1 </3",
-      "url": "https://open.spotify.com/track/2Gf3SCoQqgRbxUdjsP3IP4"
-    },
-    {
-      "added_at": "2023-12-08 20:40:26",
-      "album": {
-        "name": "Marchita",
-        "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 211680,
-      "name": "La Corriente",
-      "url": "https://open.spotify.com/track/0nw9LTQoeiFoDFpZUkyW43"
-    },
-    {
-      "added_at": "2023-12-08 20:40:26",
-      "album": {
-        "name": "Tengo Que Hacer Esto Por M\u00ed",
-        "url": "https://open.spotify.com/album/6IKEQRgjgX2bgNa8eeCDUg"
-      },
-      "artists": [
-        {
-          "name": "Pau Laggies",
-          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
-        }
-      ],
-      "duration_ms": 150347,
-      "name": "Tengo Que Hacer Esto Por Mi",
-      "url": "https://open.spotify.com/track/02OUZnvRW1EChAL8EyPHWj"
+      "duration_ms": 178000,
+      "name": "Cu\u00e1nto Tiempo sin Verte",
+      "url": "https://open.spotify.com/track/0mGQOqZlkZg5gYvIe1oAW2"
     },
     {
       "added_at": "2023-12-08 20:40:26",
@@ -891,22 +907,6 @@
     {
       "added_at": "2023-12-08 20:40:26",
       "album": {
-        "name": "HSN",
-        "url": "https://open.spotify.com/album/6mZZOWFnjModwsij9EDDam"
-      },
-      "artists": [
-        {
-          "name": "Erich",
-          "url": "https://open.spotify.com/artist/3l9fWRfml0xOFriezXXwhU"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Cu\u00e1nto Tiempo sin Verte",
-      "url": "https://open.spotify.com/track/0mGQOqZlkZg5gYvIe1oAW2"
-    },
-    {
-      "added_at": "2023-12-08 20:40:26",
-      "album": {
         "name": "Bonita",
         "url": "https://open.spotify.com/album/4ZDmqaDuuRIRKG8e05LzuT"
       },
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-12-08 20:40:26",
       "album": {
-        "name": "contigo va a estar bien",
-        "url": "https://open.spotify.com/album/50fd7WdvrpQbSqiUqndCr9"
-      },
-      "artists": [
-        {
-          "name": "Arroba Nat",
-          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
-        }
-      ],
-      "duration_ms": 185889,
-      "name": "Contigo Va a Estar Bien",
-      "url": "https://open.spotify.com/track/7DiCHaaxbePL2uUa5pNoX1"
-    },
-    {
-      "added_at": "2023-12-08 20:40:26",
-      "album": {
         "name": "Marchita",
         "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 181093,
       "name": "Tristeza",
       "url": "https://open.spotify.com/track/1MulQvxfRRNds6QE3rgaHT"
+    },
+    {
+      "added_at": "2023-12-08 20:40:26",
+      "album": {
+        "name": "contigo va a estar bien",
+        "url": "https://open.spotify.com/album/50fd7WdvrpQbSqiUqndCr9"
+      },
+      "artists": [
+        {
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+        }
+      ],
+      "duration_ms": 185889,
+      "name": "Contigo Va a Estar Bien",
+      "url": "https://open.spotify.com/track/7DiCHaaxbePL2uUa5pNoX1"
     },
     {
       "added_at": "2023-12-08 20:40:26",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-12-08 20:40:26",
       "album": {
-        "name": "Perla Rosa",
-        "url": "https://open.spotify.com/album/4DonK7uIiQdNGQBMYf1JKf"
-      },
-      "artists": [
-        {
-          "name": "SNENiE",
-          "url": "https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb"
-        }
-      ],
-      "duration_ms": 186748,
-      "name": "Que no me encuentre",
-      "url": "https://open.spotify.com/track/6K5woMnQZkC4TuMbkH3Lzc"
-    },
-    {
-      "added_at": "2023-12-08 20:40:26",
-      "album": {
         "name": "Te Rendiste en Mi",
         "url": "https://open.spotify.com/album/4KnN1SFJS4nOuyJrq76IAK"
       },
@@ -1067,18 +1051,34 @@
     {
       "added_at": "2023-12-08 20:40:26",
       "album": {
-        "name": "Bolero Surrealista",
-        "url": "https://open.spotify.com/album/6kZcXw3tT2Kbj9rqZsh83a"
+        "name": "Perla Rosa",
+        "url": "https://open.spotify.com/album/4DonK7uIiQdNGQBMYf1JKf"
       },
       "artists": [
         {
-          "name": "Dali Mata",
-          "url": "https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL"
+          "name": "SNENiE",
+          "url": "https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb"
         }
       ],
-      "duration_ms": 234500,
-      "name": "Bolero Surrealista",
-      "url": "https://open.spotify.com/track/0axqkZNASfnYOI3abp06dT"
+      "duration_ms": 186748,
+      "name": "Que no me encuentre",
+      "url": "https://open.spotify.com/track/6K5woMnQZkC4TuMbkH3Lzc"
+    },
+    {
+      "added_at": "2023-12-08 20:40:26",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1KFVMgFxBDhf1fprYdbxHl"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 209746,
+      "name": "Clandestina - Spotify Singles",
+      "url": "https://open.spotify.com/track/1Oie9uASbo83OrEkZ2whEM"
     },
     {
       "added_at": "2023-12-08 20:40:26",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2023-12-08 20:40:26",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1KFVMgFxBDhf1fprYdbxHl"
+        "name": "Bolero Surrealista",
+        "url": "https://open.spotify.com/album/6kZcXw3tT2Kbj9rqZsh83a"
       },
       "artists": [
         {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+          "name": "Dali Mata",
+          "url": "https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL"
         }
       ],
-      "duration_ms": 209746,
-      "name": "Clandestina - Spotify Singles",
-      "url": "https://open.spotify.com/track/1Oie9uASbo83OrEkZ2whEM"
+      "duration_ms": 234500,
+      "name": "Bolero Surrealista",
+      "url": "https://open.spotify.com/track/0axqkZNASfnYOI3abp06dT"
     },
     {
       "added_at": "2023-12-08 20:40:26",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-12-08 20:40:26",
       "album": {
-        "name": "Boleros que me dict\u00f3 el gallo",
-        "url": "https://open.spotify.com/album/5ecBNG2qHClZ2YdfbBfisX"
-      },
-      "artists": [
-        {
-          "name": "Dali Mata",
-          "url": "https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL"
-        }
-      ],
-      "duration_ms": 255542,
-      "name": "La Lista",
-      "url": "https://open.spotify.com/track/1cZPSSzSWzdwBv6ZuvCcVi"
-    },
-    {
-      "added_at": "2023-12-08 20:40:26",
-      "album": {
         "name": "HSN",
         "url": "https://open.spotify.com/album/6mZZOWFnjModwsij9EDDam"
       },
@@ -1287,6 +1271,22 @@
     {
       "added_at": "2023-12-08 20:40:26",
       "album": {
+        "name": "Boleros que me dict\u00f3 el gallo",
+        "url": "https://open.spotify.com/album/5ecBNG2qHClZ2YdfbBfisX"
+      },
+      "artists": [
+        {
+          "name": "Dali Mata",
+          "url": "https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL"
+        }
+      ],
+      "duration_ms": 255542,
+      "name": "La Lista",
+      "url": "https://open.spotify.com/track/1cZPSSzSWzdwBv6ZuvCcVi"
+    },
+    {
+      "added_at": "2023-12-08 20:40:26",
+      "album": {
         "name": "Tu Despedida",
         "url": "https://open.spotify.com/album/3SANjRAaEFJ9WEXxRc8yGX"
       },
@@ -1299,22 +1299,6 @@
       "duration_ms": 234466,
       "name": "Tu Despedida",
       "url": "https://open.spotify.com/track/27lGrJOO7EwUuInWZGqCMz"
-    },
-    {
-      "added_at": "2023-12-08 20:40:26",
-      "album": {
-        "name": "D\u00e9jame de Matar",
-        "url": "https://open.spotify.com/album/7q70Mz0YbW2oxJZVqSUEXK"
-      },
-      "artists": [
-        {
-          "name": "Valeria Jasso",
-          "url": "https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh"
-        }
-      ],
-      "duration_ms": 190169,
-      "name": "D\u00e9jame de Matar",
-      "url": "https://open.spotify.com/track/2fAGXnJeAgNXRzdHbEArIS"
     },
     {
       "added_at": "2023-12-08 20:40:26",
@@ -1335,18 +1319,18 @@
     {
       "added_at": "2023-12-08 20:40:26",
       "album": {
-        "name": "P\u00e1ramo M\u00edstico",
-        "url": "https://open.spotify.com/album/3w6sKad6TBHZgZGE3oU4tL"
+        "name": "D\u00e9jame de Matar",
+        "url": "https://open.spotify.com/album/7q70Mz0YbW2oxJZVqSUEXK"
       },
       "artists": [
         {
-          "name": "Dali Mata",
-          "url": "https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL"
+          "name": "Valeria Jasso",
+          "url": "https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh"
         }
       ],
-      "duration_ms": 203532,
-      "name": "Arena Blanca",
-      "url": "https://open.spotify.com/track/5j0P1xvPEFC3aLloV70sAF"
+      "duration_ms": 190169,
+      "name": "D\u00e9jame de Matar",
+      "url": "https://open.spotify.com/track/2fAGXnJeAgNXRzdHbEArIS"
     },
     {
       "added_at": "2023-12-08 20:40:26",
@@ -1363,6 +1347,22 @@
       "duration_ms": 208177,
       "name": "Dime",
       "url": "https://open.spotify.com/track/4nVXw2k8sRREEK4w4akSXd"
+    },
+    {
+      "added_at": "2023-12-08 20:40:26",
+      "album": {
+        "name": "Nos Dijimos Adi\u00f3s",
+        "url": "https://open.spotify.com/album/2AQqArbCTwT5LEAD01IXHe"
+      },
+      "artists": [
+        {
+          "name": "Paola Decanini",
+          "url": "https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE"
+        }
+      ],
+      "duration_ms": 222438,
+      "name": "Nos Dijimos Adi\u00f3s",
+      "url": "https://open.spotify.com/track/4DEa05v9flZt5Q009QucTU"
     }
   ],
   "unique_name": "madera y miel",

@@ -1,5 +1,5 @@
 {
-  "2024-02-23": 50525,
+  "2024-02-24": 50521,
   "date_first_scraped": "2023-04-07",
   "description": "The official playlist for Valeria. Watch on Netflix.",
   "name": "Valeria Official Playlist",
@@ -917,10 +917,28 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 164721,
       "name": "Middle Of My Mind",
       "url": "https://open.spotify.com/track/5RSQUFoAIg75ZQKP5zyT8i"
+    },
+    {
+      "album": {
+        "name": "The Pleasant Trees (Volume 2)",
+        "url": "https://open.spotify.com/album/5TFHTDAe9WTaiZFHhDhnJd"
+      },
+      "artists": [
+        {
+          "name": "Tom Rosenthal",
+          "url": "https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164721,
+      "name": "Middle Of My Mind",
+      "url": "https://open.spotify.com/track/6bhR3uY6YJEJhpC3Z05nde"
     },
     {
       "album": {

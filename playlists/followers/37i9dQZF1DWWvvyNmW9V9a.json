@@ -1,5 +1,5 @@
 {
-  "2024-02-23": 2167524,
+  "2024-02-24": 2167308,
   "date_first_scraped": "2022-02-06",
   "description": "tfw only one of you reads the dress code // cover: Timoth\u00e9e Chalamet and Zendaya",
   "name": "teen beats",
@@ -1039,6 +1039,28 @@
       "duration_ms": 177322,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/1v6svH1Fyx9C1nIt1mA2DT"
+    },
+    {
+      "album": {
+        "name": "7/27 (Deluxe)",
+        "url": "https://open.spotify.com/album/0pF0oyuPNdOObniB1Ng0kW"
+      },
+      "artists": [
+        {
+          "name": "Fifth Harmony",
+          "url": "https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt"
+        },
+        {
+          "name": "Fetty Wap",
+          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210573,
+      "name": "All In My Head (Flex) (feat. Fetty Wap)",
+      "url": "https://open.spotify.com/track/7nD9nN3jord9wWcfW3Gkcm"
     },
     {
       "album": {

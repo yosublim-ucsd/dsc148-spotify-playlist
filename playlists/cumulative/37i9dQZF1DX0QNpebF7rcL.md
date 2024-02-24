@@ -4,7 +4,7 @@
 
 > The best in blues right now\. Cover: Robert Finley
 
-350 songs - 23 hr 34 min
+351 songs - 23 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Fly Away](https://open.spotify.com/track/34bh0YiU4EwtgtGnEoLjko) | [Popa Chubby](https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD) | [Fly Away](https://open.spotify.com/album/70RF8bGlKiXs5pzBfaeHDT) | 5:58 | 2022-02-25 | 2022-03-18 |
 | [Follow The Money \(feat\. James Taylor\)](https://open.spotify.com/track/4ikAAkBStMneLsxfjcoG4E) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Follow The Money \(feat\. James Taylor\)](https://open.spotify.com/album/7iC5jkTp3GqdFGjx2wBBYk) | 3:42 | 2022-09-30 |  |
 | [For the Love of Money](https://open.spotify.com/track/5jH6P7e6RUGZnFGTeq3pUe) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Dropout Boogie](https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk) | 3:31 | 2022-05-13 |  |
-| [Forever My Love](https://open.spotify.com/track/5ZhwW7XtyPMAmtGdvCa905) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Forever My Love](https://open.spotify.com/album/5LnXyWnbFPJWDIIvkb9rlD) | 6:19 | 2024-02-09 |  |
+| [Forever My Love](https://open.spotify.com/track/5ZhwW7XtyPMAmtGdvCa905) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Forever My Love](https://open.spotify.com/album/5LnXyWnbFPJWDIIvkb9rlD) | 6:19 | 2024-02-09 | 2024-02-24 |
 | [Four Day Creep](https://open.spotify.com/track/2r46l03PjLiW5Xy6BLMfbj) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Peter Frampton](https://open.spotify.com/artist/0543y7yrvny4KymoaneT4W) | [Four Day Creep](https://open.spotify.com/album/5NlKdlWeryULQL6rGI5bzW) | 3:52 | 2024-01-26 |  |
 | [Fragile Peace And Certain War](https://open.spotify.com/track/3h3v9Nf0vU8bNr2FGtpYQM) | [Carolyn Wonderland](https://open.spotify.com/artist/0XhsEmCqMW2k9yMl4o8t4n) | [Tempting Fate](https://open.spotify.com/album/5SOM73TJ4GOm9mFzmhaKUv) | 3:59 | 2021-10-08 | 2023-03-04 |
 | [Friendship](https://open.spotify.com/track/5tzYjX0mtDHks2utIpNWIF) | [The Blind Boys Of Alabama](https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH) | [Friendship](https://open.spotify.com/album/0LqOdFRh3OrbyAEcpVVN0V) | 4:10 | 2023-06-16 | 2023-07-22 |
@@ -302,6 +302,7 @@
 | [The Squirrel Juice Blues](https://open.spotify.com/track/221lZ6bk3a8w3JyAztN0KW) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Soft Spot \(Deluxe\)](https://open.spotify.com/album/2smg61fQVg6eoY05xZLDu5) | 3:38 | 2023-06-16 |  |
 | [The Weight of the World](https://open.spotify.com/track/19WctrvueGYOWMe6eBFmBi) | [Joe Louis Walker](https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD) | [The Weight of the World](https://open.spotify.com/album/3RQaoFuQJJNevZPJHOG0I9) | 4:25 | 2022-10-21 | 2023-02-11 |
 | [The Well](https://open.spotify.com/track/6PPKEOG6TwpExLXDnj1QKH) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [The Well](https://open.spotify.com/album/3rADwGRxW5AF7lya4QMFgA) | 2:57 | 2020-12-14 | 2022-02-26 |
+| [These Eyes](https://open.spotify.com/track/0OmQOtewFFJX5Mmnu3siNk) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Life Is Hard](https://open.spotify.com/album/3fmvPlosqu7RMW0GkVx3KO) | 5:09 | 2024-02-23 |  |
 | [These Things](https://open.spotify.com/track/3JOgtCIX1mBxwPe4rNPHCD) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Buffalo Nichols](https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc) | 2:59 | 2021-10-15 | 2023-07-22 |
 | [Thinking 'Bout Myself](https://open.spotify.com/track/2JF0vG0CsoDEjLZdd9QMm1) | [Josh Teskey](https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd), [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Thinking 'Bout Myself](https://open.spotify.com/album/7syVmnY6K5xSSeeeRcx9yX) | 3:41 | 2020-12-14 | 2022-02-26 |
 | [This Man](https://open.spotify.com/track/06s7QRpHfeiKL3YCIRTKxg) | [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj) | [That's What I Heard](https://open.spotify.com/album/5MHALMDVXq4S7Ad6pNVl8I) | 5:06 | 2020-12-14 | 2022-02-26 |

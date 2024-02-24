@@ -4,7 +4,7 @@
 
 > All new, all blues\. Cover: Gary Clark Jr.
 
-266 songs - 15 hr 31 min
+267 songs - 15 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Fancy Drones \(Fracture Me\) \- Live at Studio 615 / May 2021](https://open.spotify.com/track/7mSlf5NUKd5UAVe3eI2VBL) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Fancy Drones \(Fracture Me\) \[Live at Studio 615 / May 2021\]](https://open.spotify.com/album/24EGgm4XrVEEoHIvEAhm5r) | 3:17 | 2021-10-01 | 2022-06-19 |
 | [Find Somebody New](https://open.spotify.com/track/29PfxQh5YAZ0d1dT4ufRxY) | [Jason Weaver](https://open.spotify.com/artist/6n0cnqQD5b9L0dpqQ3wOOq) | [Find Somebody New](https://open.spotify.com/album/7yia02IejFb97Uv85hLddH) | 2:50 | 2022-09-02 |  |
 | [Fire with Fire](https://open.spotify.com/track/31u0ZyzyYRKM4Efocv3EvH) | [Laura Evans](https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS) | [Fire with Fire](https://open.spotify.com/album/0gq8osOs3xs4bvQ57rw1sr) | 2:57 | 2022-05-20 | 2022-07-02 |
+| [First Time Blues](https://open.spotify.com/track/0BA9QD9iMfPVlfsgRAvMna) | [Orianthi](https://open.spotify.com/artist/0yNy8fi1yBBq526E6mx4Zs), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [First Time Blues](https://open.spotify.com/album/3xc1iFmzlD2aadxs5gBG4l) | 3:47 | 2024-02-23 |  |
 | [Flame](https://open.spotify.com/track/1rVioJqDKEf1ZQHOu4IepF) | [Judith Hill](https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t) | [Flame](https://open.spotify.com/album/5tDWharfBCeJX2ncXwdMKJ) | 3:47 | 2024-01-26 |  |
 | [FLorida Man](https://open.spotify.com/track/2oN86MTxnHp1ST30tDL4h0) | [Selwyn Birchwood](https://open.spotify.com/artist/47HxYwXgJsfyQN08FpXfxD) | [FLorida Man](https://open.spotify.com/album/4CsAr4hOUgzB4IOKtnbJxn) | 3:39 | 2023-05-12 |  |
 | [Flying \#evolution](https://open.spotify.com/track/6TeYhYbvXXVarx5XXD4l1G) | [Jackie Venson](https://open.spotify.com/artist/2HlgRiOR33BVVE9hdEftxg) | [Evolution of Joy](https://open.spotify.com/album/3ZbnbSZwJooq41MPNH3iEC) | 4:17 | 2023-01-27 |  |
@@ -261,7 +262,7 @@
 | [Without You](https://open.spotify.com/track/0P3d2XgHvQraoTdcCql217) | [Greyhounds](https://open.spotify.com/artist/1FcTd89N9ESEOsIDD883Kp), [Sir Woman](https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL) | [Without You](https://open.spotify.com/album/7I4v2j4ueGOtCgCKzuRjPp) | 3:20 | 2023-03-10 |  |
 | [Wolves All Around Me](https://open.spotify.com/track/5yX5XWU1JaOq3tYeuqGfVE) | [Hebron Shane](https://open.spotify.com/artist/3wVOcyphZAxmjMtasFzsJ2) | [Wolves All Around Me](https://open.spotify.com/album/4K7QDZ8Fldny1DYn9C5nbN) | 3:27 | 2021-03-19 | 2022-03-26 |
 | [Won't Be Fooled Again](https://open.spotify.com/track/21upjYqZ5PlQa7fcEiQe5Z) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Nobody's Fool](https://open.spotify.com/album/2TVQmqbf3TmucBYkl9pfg6) | 4:54 | 2022-12-06 |  |
-| [Workin' Man](https://open.spotify.com/track/1sRNucj4RJMbUFkyFbau4T) | [Ryan Innes](https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79) | [Workin' Man](https://open.spotify.com/album/1KIOIt2x4BzI18dVfvNcIB) | 3:52 | 2022-03-25 |  |
+| [Workin' Man](https://open.spotify.com/track/1sRNucj4RJMbUFkyFbau4T) | [Ryan Innes](https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79) | [Workin' Man](https://open.spotify.com/album/1KIOIt2x4BzI18dVfvNcIB) | 3:52 | 2022-03-25 | 2024-02-24 |
 | [Workin' Man](https://open.spotify.com/track/2n0RCFuqdqkrVIJqajqysX) | [Ryan Innes](https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79) | [Closure](https://open.spotify.com/album/4ePGSAKLrV7EyA2WIZUd8J) | 3:52 | 2022-03-25 | 2022-12-03 |
 | [Workin' Man](https://open.spotify.com/track/3vlialdlumHyXrZq6Em5Tq) | [Ryan Innes](https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79) | [Workin' Man](https://open.spotify.com/album/3awKF4xhQXpiPCGNten5ts) | 3:52 | 2022-03-25 | 2022-10-13 |
 | [Workin' Man](https://open.spotify.com/track/4VQNKAaoBo8yHt7GwpJS7H) | [Ryan Innes](https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79) | [Workin' Man](https://open.spotify.com/album/14cTydPBoD3SnypzbSpkRA) | 3:52 | 2022-03-25 | 2024-01-22 |

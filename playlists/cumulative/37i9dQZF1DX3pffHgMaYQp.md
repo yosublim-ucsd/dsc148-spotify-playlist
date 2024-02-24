@@ -4,7 +4,7 @@
 
 > Música para insubordinados\. Idles en portada.
 
-148 songs - 7 hr 57 min
+151 songs - 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [ANTHEM PART 3](https://open.spotify.com/track/2kjH4Q6WxvlpGnlgwmv4eG) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME...](https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd) | 3:33 | 2023-10-23 |  |
 | [Anthem Part Two](https://open.spotify.com/track/24CRDgNOgA72JLL7PHFjgB) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Take Off Your Pants And Jacket](https://open.spotify.com/album/3nHpBmW5wJXGeC3ojBkpey) | 3:47 | 2023-09-23 |  |
 | [Ardiendo Lento](https://open.spotify.com/track/7G3WYQW7DrFjmm8a4wPleH) | [Delux](https://open.spotify.com/artist/4VIdUXSfXMQpNulb1L0FUz), [Blegh! Label](https://open.spotify.com/artist/7igNgb0c4WUYyGZm84aaOl) | [Ardiendo Lento](https://open.spotify.com/album/6rYACTUC0TXKlu3pc3dbID) | 2:56 | 2023-10-13 |  |
+| [Arranque](https://open.spotify.com/track/0a4L1LjsBV3Xqxu93LYTtr) | [Here Comes The Kraken](https://open.spotify.com/artist/52Zn2uHVzdUXzLWl8D0uZa), [Pablo Holman](https://open.spotify.com/artist/4HYxULhjEDiN5hgUBi44L1) | [Arranque](https://open.spotify.com/album/1xoq2icxKxxwTm2V7rESFm) | 3:38 | 2024-02-23 |  |
 | [Atari \(Todo Mi Mundo a Color\) \- Original](https://open.spotify.com/track/3v6oyDCU5rB9ze5XdIAmK8) | [Niña ](https://open.spotify.com/artist/0misO3JFnF87rfRJ5UuJpc) | [R.o.c.k.](https://open.spotify.com/album/3FFaVqWKX7AJLoKiSL0v5M) | 3:33 | 2023-09-23 |  |
 | [Año de Mierda](https://open.spotify.com/track/52Gh9CvRUV2BdFo7ywL8IC) | [Artistas Fifí](https://open.spotify.com/artist/7JlaLRHjy1CAcVvIaYFRro) | [Elesplit](https://open.spotify.com/album/1OHKTDWW6BOpRKuKX8ehVB) | 2:51 | 2022-03-25 | 2022-07-29 |
 | [Año de Mierda](https://open.spotify.com/track/7q1ugxgWb8J7kOeDIRbXdd) | [Confío en tus amigos](https://open.spotify.com/artist/6eeMg2f1msRTEqwKKC1KZ4), [Artistas Fifí](https://open.spotify.com/artist/7JlaLRHjy1CAcVvIaYFRro) | [Elesplit](https://open.spotify.com/album/0VwxKnWVX5fKLp2CQN3Yyc) | 2:51 | 2022-03-25 | 2024-02-03 |
@@ -38,6 +39,7 @@
 | [Danza de Sol](https://open.spotify.com/track/2IHswTTnpUppvV8jn7PHqH) | [Los Cogelones](https://open.spotify.com/artist/0E6wzL7Jdd5XiLjadvcpKS) | [Hijos del Sol](https://open.spotify.com/album/0syY8WEuVTi39vVHfrCbjq) | 3:10 | 2022-03-25 | 2023-04-29 |
 | [Danza de Sol](https://open.spotify.com/track/52pIvwmblgM5ZC34WQsmVW) | [Los Cogelones](https://open.spotify.com/artist/0E6wzL7Jdd5XiLjadvcpKS) | [Hijos del Sol](https://open.spotify.com/album/2eWUzFnTmSu12e9N88TJ9y) | 3:10 | 2022-03-25 |  |
 | [Desde Afuera](https://open.spotify.com/track/2S40OvSsD1hEK1tsuFz4CS) | [El Shirota](https://open.spotify.com/artist/2rxqnbRXqBvxVHqArr6fGk) | [Ni siquiera estamos listos para hablar](https://open.spotify.com/album/2g0CeaYZjdCRcRyG6dxCJH) | 2:16 | 2023-05-19 |  |
+| [Desidia](https://open.spotify.com/track/2O0zsjezl4swNCAsDlYoLW) | [Los Miserables](https://open.spotify.com/artist/7EP6QHjz7FSJZBVjDuAmas) | [Rarezas](https://open.spotify.com/album/4lpXH5UdNhaHipQzq4bBGn) | 3:01 | 2024-02-23 |  |
 | [Donde Está el Placer](https://open.spotify.com/track/4Y40q8tySl0cDdphb3aiYG) | [The Americojones Experience](https://open.spotify.com/artist/5nxmzG12WW5he5vDgnyQLf) | [Animal del Demonio](https://open.spotify.com/album/5JtQUYDabva1wB8OrNOmbs) | 3:52 | 2022-03-25 | 2023-06-23 |
 | [Drama Club Romance](https://open.spotify.com/track/6UMz6z1yx5QRTQBxwRVS6V) | [Audio Karate](https://open.spotify.com/artist/0ElZSmC6H83GFXBUgTOOB1) | [Punk Rock Is Your Friend: Kung Fu Records Sampler, No\. 4](https://open.spotify.com/album/2QKEXCH66P9RKBTvA6SAec) | 2:54 | 2023-09-23 |  |
 | [Dron](https://open.spotify.com/track/4OVH5QRHEtL2j4bo0ATrjM) | [San Pedro el Cortez](https://open.spotify.com/artist/4qMybSJtpFeNmHYfJ1rXkl) | [Un Poco Más de Luz](https://open.spotify.com/album/1W2MjZPeWiwn5AZw3OPyKL) | 4:33 | 2022-03-25 |  |
@@ -52,7 +54,7 @@
 | [Extrarradio](https://open.spotify.com/track/39KrdTbxCVcTcXNPaEhMWS) | [Sei Still](https://open.spotify.com/artist/2ifm8buuA5vEmxaSgAlt74) | [Extrarradio](https://open.spotify.com/album/2vIVKy10eQXCwBu7B61ZvM) | 4:53 | 2022-03-25 | 2023-09-24 |
 | [Fake I.D.](https://open.spotify.com/track/0OPBtPKlMV5Bmamgv9Z3Hj) | [Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN) | [Cody](https://open.spotify.com/album/3ZxDkGPmvyDQhxchmlNXA1) | 2:20 | 2023-09-23 |  |
 | [Filosa](https://open.spotify.com/track/4It3yolMmTWgrhQx4S0a4x) | [Margaritas Podridas](https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7) | [Filosa](https://open.spotify.com/album/2P2nyPyDLuIjt2ED3WBIMP) | 4:19 | 2023-04-07 |  |
-| [Fracasado](https://open.spotify.com/track/5cOTbepCsUrbyB78JDoFMc) | [Jesus Guerrero](https://open.spotify.com/artist/6H5E8TXmeWbQfuhjL1fQVJ) | [Fracasado](https://open.spotify.com/album/6j7ndHK9SKOlS319Lh3200) | 3:33 | 2022-03-25 |  |
+| [Fracasado](https://open.spotify.com/track/5cOTbepCsUrbyB78JDoFMc) | [Jesus Guerrero](https://open.spotify.com/artist/6H5E8TXmeWbQfuhjL1fQVJ) | [Fracasado](https://open.spotify.com/album/6j7ndHK9SKOlS319Lh3200) | 3:33 | 2022-03-25 | 2024-02-24 |
 | [Gasolina en las Bocinas \- Molas Mazo](https://open.spotify.com/track/5fBesiOx4Nmqvl8ea0J9qY) | [Chingadazo de Kung Fu](https://open.spotify.com/artist/6xT6c42KpjrOlEhZK12rBL), [Los Fresones Rebeldes](https://open.spotify.com/artist/7jnDSK1hbbcZdjapo2bHzY) | [Gasolina en las Bocinas \(Molas Mazo\)](https://open.spotify.com/album/4AQ1jslxEgd8qUEK7rCr6L) | 3:51 | 2023-04-07 | 2023-09-24 |
 | [Gift Horse](https://open.spotify.com/track/1OSRQMJKlpIjpy3UvP9KMu) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Gift Horse](https://open.spotify.com/album/2w0nLJDVilZhqTctLLem4j) | 4:09 | 2024-02-02 |  |
 | [Guilt Trip](https://open.spotify.com/track/6pWwP8xGvZ4HTUbVGgzGMy) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [PUP](https://open.spotify.com/album/2i0sTsyZZGEGcakLqHFcyw) | 3:20 | 2023-09-23 |  |
@@ -97,7 +99,7 @@
 | [Mother](https://open.spotify.com/track/7klLTLP8zff6I83OK0AMgO) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Brutalism](https://open.spotify.com/album/5qag6esZLv5ySuCpzh7CE6) | 3:27 | 2023-09-23 |  |
 | [Muñeca](https://open.spotify.com/track/0oiz4s31QXy6Mremkst4Ux) | [Margaritas Podridas](https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7) | [Corazón de Muñeca](https://open.spotify.com/album/0U53bWMxR0v2DpWpfEzTEP) | 3:25 | 2023-05-19 | 2023-11-23 |
 | [My Soft & Deep](https://open.spotify.com/track/6KAqjFORrViH1wzYiNnAFL) | [The Matches](https://open.spotify.com/artist/5abLT4tuAZuFx5dKHaYSGo) | [Decomposer](https://open.spotify.com/album/0LXVAVZRffzFZ1hIREC0kY) | 3:36 | 2023-09-23 |  |
-| [México Querétaro](https://open.spotify.com/track/0RwfQdF2pt8tfRyLxDpSs7) | [ACTY](https://open.spotify.com/artist/1w7oXNijoleZ4GIo7nij8b) | [México Querétaro](https://open.spotify.com/album/5vHR8RyrWgWdKkfXPhd6Rs) | 6:21 | 2022-03-25 |  |
+| [México Querétaro](https://open.spotify.com/track/0RwfQdF2pt8tfRyLxDpSs7) | [ACTY](https://open.spotify.com/artist/1w7oXNijoleZ4GIo7nij8b) | [México Querétaro](https://open.spotify.com/album/5vHR8RyrWgWdKkfXPhd6Rs) | 6:21 | 2022-03-25 | 2024-02-24 |
 | [Niebla](https://open.spotify.com/track/5Nfs9PIPYo7nQTg08Li4iS) | [El Shirota](https://open.spotify.com/artist/2rxqnbRXqBvxVHqArr6fGk) | [Niebla](https://open.spotify.com/album/0hszGU5mN2Qj7EnOVZQJ8Z) | 2:43 | 2022-03-25 | 2022-12-13 |
 | [Niebla](https://open.spotify.com/track/6yWpmaYnTJYeRfnrwb0OCQ) | [El Shirota](https://open.spotify.com/artist/2rxqnbRXqBvxVHqArr6fGk) | [Niebla](https://open.spotify.com/album/0zh9o0s4qA7kfE7O2AEmMr) | 2:43 | 2022-03-25 |  |
 | [NO ESTOY](https://open.spotify.com/track/1kP5YGbeWnYLVlWbuX6rLG) | [Kinder Malo](https://open.spotify.com/artist/1Aoj8qX6kPfLTagb7qbKg0) | [NO ESTOY](https://open.spotify.com/album/1O776s0DpVKXrEvv2k5MVg) | 2:33 | 2023-05-19 |  |
@@ -141,7 +143,7 @@
 | [Tornillo](https://open.spotify.com/track/1mj4y7NHlTq6YfTZOeNqOx) | [Margaritas Podridas](https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7) | [Tornillo](https://open.spotify.com/album/6MSMis63C7wWLVSSmSl92b) | 1:33 | 2023-11-22 |  |
 | [Tourette's \- 2013 Mix](https://open.spotify.com/track/0Bpqzp7gP3WU0e7ruEY3Ja) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero \(Deluxe Edition\)](https://open.spotify.com/album/6ohX7moZZnF1FwYrli1OJ6) | 1:36 | 2023-09-23 |  |
 | [Unos Besos](https://open.spotify.com/track/0BLRl7yVw2mmj6q8s3kgGH) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai) | [Unos Besos](https://open.spotify.com/album/4QHLKICzhPz1sxgWFxTJ1n) | 1:55 | 2024-02-02 |  |
-| [Vademécum](https://open.spotify.com/track/1t6ce3FryKUksIyCYZMNyQ) | [Chaqueta de Chándal](https://open.spotify.com/artist/5RMGElrEO6UepEfrrn0Qg4) | [Vademécum](https://open.spotify.com/album/5YQBK3VLDzJ8VeSWtvSl5H) | 2:24 | 2022-03-25 |  |
+| [Vademécum](https://open.spotify.com/track/1t6ce3FryKUksIyCYZMNyQ) | [Chaqueta de Chándal](https://open.spotify.com/artist/5RMGElrEO6UepEfrrn0Qg4) | [Vademécum](https://open.spotify.com/album/5YQBK3VLDzJ8VeSWtvSl5H) | 2:24 | 2022-03-25 | 2024-02-24 |
 | [Verde Pastel](https://open.spotify.com/track/1CWFgWVLWJEJ8JM0hBaGd7) | [Señor Kino](https://open.spotify.com/artist/2W0kFBz6nHARNF7A5KlWYG) | [Limonada Rosa](https://open.spotify.com/album/3Gb7PPDBOwE7fXZqKhSVXI) | 2:13 | 2022-03-25 |  |
 | [Vicente Amor](https://open.spotify.com/track/6cT3lvZsX1QOqo5LPgQSHJ) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [Vicente Amor](https://open.spotify.com/album/4kDXE9CEGdB3CcoroleDP4) | 1:52 | 2022-03-25 |  |
 | [videoclub](https://open.spotify.com/track/3zjxH68heuJi9YGAlHuOG4) | [mitimitis](https://open.spotify.com/artist/3iEWpEqmO2yLUPIiu7Dv9F) | [videoclub](https://open.spotify.com/album/6F8kAxB0RbrQud6iceMMl2) | 3:14 | 2022-03-25 |  |
@@ -149,6 +151,7 @@
 | [Viernes](https://open.spotify.com/track/6PyM3fAtL74EHBNMwbaGSH) | [Diamante Negro](https://open.spotify.com/artist/51WUBWxuW4MAoBwuYraA4v) | [Deseo Querer](https://open.spotify.com/album/15xRUHTZm2vIDwZzqFEpEe) | 1:18 | 2022-03-25 | 2023-10-11 |
 | [Viva la Muerte](https://open.spotify.com/track/3diPeeR8fI20qsVoUM3RuM) | [The Americojones Experience](https://open.spotify.com/artist/5nxmzG12WW5he5vDgnyQLf) | [Viva la Muerte \(Viva 2021\)](https://open.spotify.com/album/2sV9w7wqsnQ49uI43EnSc4) | 3:18 | 2022-03-25 | 2023-09-02 |
 | [Viva la Muerte](https://open.spotify.com/track/2TDIBx2Za2zvHO0pEpXD4g) | [The Americojones Experience](https://open.spotify.com/artist/5nxmzG12WW5he5vDgnyQLf) | [Animal del Demonio](https://open.spotify.com/album/5KNxhqnCYNxQGYTMZcPeM7) | 3:19 | 2023-07-28 |  |
+| [Waiting On A Twist Of Fate](https://open.spotify.com/track/5PCMU8scAoT4sz4Fn2Umua) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Waiting On A Twist Of Fate](https://open.spotify.com/album/5oK4d9R1CpF1jVdLaL4fj8) | 2:46 | 2024-02-23 |  |
 | [Waiting Room](https://open.spotify.com/track/2DBlfjL5chsdeULzhTp5K8) | [Fugazi](https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G) | [13 Songs](https://open.spotify.com/album/1FcRwT7uoNdO8L9wbYsfAY) | 2:53 | 2023-09-23 |  |
 | [Winona Ryder](https://open.spotify.com/track/3Ss1NP5PLQmRakgtYwUS0o) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb) | 4:14 | 2023-09-23 |  |
 | [Ya Levántate](https://open.spotify.com/track/1Ltr1S8VdeB5f8elHvgWgC) | [Sgt\. Papers](https://open.spotify.com/artist/76aFiLtqQ3kqvPxLe3D8ri) | [SGTP](https://open.spotify.com/album/6pkBLRfLIgSEtaq9BSb5Vm) | 4:05 | 2022-03-25 |  |

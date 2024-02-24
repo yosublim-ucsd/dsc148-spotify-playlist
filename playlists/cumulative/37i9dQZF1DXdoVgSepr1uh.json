@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Perreo hecho en Argentina. Foto: Angela Torres.",
+  "description": "Perreo hecho en Argentina. Foto: COSMIC KID & Bhavi.",
   "name": "Reggaet\u00f3n Argentino",
   "tracks": [
     {
@@ -636,7 +636,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 218390,
       "name": "CONEXXXI\u00d3N",
       "url": "https://open.spotify.com/track/72ICF2K74z1e0z8KIRP7HJ"
@@ -932,7 +932,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 140408,
       "name": "Demoniaca",
       "url": "https://open.spotify.com/track/6gy9Yq41AuEnRO6xGWg08M"
@@ -1596,6 +1596,28 @@
       "duration_ms": 171881,
       "name": "GABBANA",
       "url": "https://open.spotify.com/track/2wxduF3ZwN5adsNjqfcysB"
+    },
+    {
+      "album": {
+        "name": "GABO EL CHAMAQUITO | TURBULENCIA 5 | UN VIAJE",
+        "url": "https://open.spotify.com/album/6iVB9OKZB5otCVrgoaJick"
+      },
+      "artists": [
+        {
+          "name": "Mateo Ribak",
+          "url": "https://open.spotify.com/artist/0fBXgmsLCNrvrNbVgtuokv"
+        },
+        {
+          "name": "Gabo El Chamaquito",
+          "url": "https://open.spotify.com/artist/6Fz1LTRJ7RAuUf1CRSN3dU"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158750,
+      "name": "GABO EL CHAMAQUITO | TURBULENCIA 5 | UN VIAJE",
+      "url": "https://open.spotify.com/track/3xTLLPiK9glyehWMs3IA2V"
     },
     {
       "album": {
@@ -2810,6 +2832,28 @@
       "duration_ms": 178168,
       "name": "M\u00f3ntate",
       "url": "https://open.spotify.com/track/19vWrX2vCODKV5cPK8DpAN"
+    },
+    {
+      "album": {
+        "name": "NAMORE",
+        "url": "https://open.spotify.com/album/2JNOFTWXIFcEm5q0onRTGt"
+      },
+      "artists": [
+        {
+          "name": "COSMIC KID",
+          "url": "https://open.spotify.com/artist/4JuwA35M2yrQkpOSokiH9h"
+        },
+        {
+          "name": "Bhavi",
+          "url": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159190,
+      "name": "NAMORE",
+      "url": "https://open.spotify.com/track/64SYEHUUlSpAxQtRuMlmDy"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Immerse yourself in the brilliant sounds of Latin composers.
 
-237 songs - 22 hr 45 min
+238 songs - 22 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,7 +187,8 @@
 | [Sensemayá \- Live At Centro de Acción Social por la Música, Sala Simón Bolivar, Caracas / 2008](https://open.spotify.com/track/27bzfxpyjNsaoNSxN1RBQe) | [Silvestre Revueltas](https://open.spotify.com/artist/5CAWUxlD1liCEp8V5gt5wn), [Simón Bolívar Youth Orchestra of Venezuela](https://open.spotify.com/artist/2U5rLdZ4ARUFcaSYw0shXn), [Gustavo Dudamel](https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY) | [Fiesta](https://open.spotify.com/album/16fJ94vjUFbTrtIZ4WgtMP) | 6:37 | 2022-08-31 |  |
 | [Sensemayá \- Live At Centro de Acción Social por la Música, Sala Simón Bolivar, Caracas / 2008](https://open.spotify.com/track/4jbRomCJd6g411vGxmc10Z) | [Silvestre Revueltas](https://open.spotify.com/artist/5CAWUxlD1liCEp8V5gt5wn), [Simón Bolívar Youth Orchestra of Venezuela](https://open.spotify.com/artist/2U5rLdZ4ARUFcaSYw0shXn), [Gustavo Dudamel](https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY) | [Fiesta](https://open.spotify.com/album/3zmMKlNwdrOXmHVzSkslOo) | 6:37 | 2021-12-21 | 2022-07-29 |
 | [Si No Te Hubieras Ido](https://open.spotify.com/track/16OJaSoHprYI0EDgnNl3Dj) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Más De Marco Antonio Solís](https://open.spotify.com/album/3SmxMoLAhe29pR4LNsVkcA) | 4:44 | 2021-12-21 | 2022-07-29 |
-| [Si No Te Hubieras Ido](https://open.spotify.com/track/3l1ZanpJ3jFQZMqATizqfE) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [La Historia Continúa...Parte IV](https://open.spotify.com/album/6ziRoYI3rWu4TOAUeIJuNO) | 4:46 | 2022-01-01 |  |
+| [Si No Te Hubieras Ido](https://open.spotify.com/track/1fhusBTFmHeB6BxVsvj2lN) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [e5](https://open.spotify.com/album/3gsFcX5tOaiy7dsSjtnTFp) | 4:46 | 2023-02-24 |  |
+| [Si No Te Hubieras Ido](https://open.spotify.com/track/3l1ZanpJ3jFQZMqATizqfE) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [La Historia Continúa...Parte IV](https://open.spotify.com/album/6ziRoYI3rWu4TOAUeIJuNO) | 4:46 | 2022-01-01 | 2024-02-24 |
 | [Si No Te Hubieras Ido](https://open.spotify.com/track/7BDTgXVdWYyAiW76xrdeAm) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Momento Retro vol\. I](https://open.spotify.com/album/4URCrtMbYzClIt2f6VpstT) | 4:49 | 2022-08-31 | 2022-11-13 |
 | [Sinfonia Argentina: I\. Arrabal: Allegro marcato](https://open.spotify.com/track/4gGZ6RIhcRYgnCwqaxiBAJ) | [Juan José Castro](https://open.spotify.com/artist/4KCKdpRgRq7yB8xY8TqJQf), [Württembergische Philharmonie Reutlingen](https://open.spotify.com/artist/3aSDuAvPFkSnli24u0aZDp), [Gabriel Castagna](https://open.spotify.com/artist/0lF53kr1siie3JEuHkzLJZ) | [Fiesta Criolla: Latin American Orchestral Works](https://open.spotify.com/album/1u1nRSj56eWQ4hhAlkJl0O) | 9:33 | 2022-01-01 | 2022-07-25 |
 | [Sinfonia India \(Live\)](https://open.spotify.com/track/2wOgj3KH0a9mIoYuBAhz9N) | [Carlos Chávez](https://open.spotify.com/artist/5gspFvrY66nnLgn1mt3wgN), [American Symphony Orchestra](https://open.spotify.com/artist/189I14HgoKkmB02CoEN2po), [Leon Botstein](https://open.spotify.com/artist/7gqK96YJclypbnbReTm2xR) | [Chávez: Sinfonia India](https://open.spotify.com/album/1nV7HUbptD2tjg1BN3uSl7) | 12:01 | 2021-12-21 | 2022-09-27 |

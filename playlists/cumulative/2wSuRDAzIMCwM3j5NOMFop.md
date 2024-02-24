@@ -4,7 +4,7 @@
 
 > Fucked up and evil\. What an absolute bop.
 
-33 songs - 1 hr 41 min
+34 songs - 1 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Mx\. Sinister](https://open.spotify.com/track/1hYXuCb1EMgwfl3QHUeTfM) | [I DONT KNOW HOW BUT THEY FOUND ME](https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR) | [Mx\. Sinister](https://open.spotify.com/album/3qUrbZrRvcbfMsHyE0qkeC) | 2:59 | 2023-01-07 |  |
 | [Never Let You Go](https://open.spotify.com/track/5GszXOtSSTq55cuyQTMNQ2) | [The Blake Robinson Synthetic Orchestra](https://open.spotify.com/artist/4rChEc17dTzO2ep7yajKfy), [Gloom Darkheart](https://open.spotify.com/artist/2vIH8aDm7FlN5d1raMzfPt) | [Never Let You Go](https://open.spotify.com/album/4A3MZv5WLDVLzd6HWJtrOo) | 3:14 | 2023-03-23 |  |
 | [Rejoice](https://open.spotify.com/track/3oIQfBgaruqihkCHokRQZ0) | [AJJ](https://open.spotify.com/artist/4IDpDJIDfK96HMLD4Tphyl) | [People Who Can Eat People Are the Luckiest People in the World](https://open.spotify.com/album/2jRdTNGZzb3drtFRYaUpFE) | 3:15 | 2023-12-05 |  |
+| [SIXFT](https://open.spotify.com/track/1voNv7mqbcQnreBth7A6ng) | [I DONT KNOW HOW BUT THEY FOUND ME](https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR) | [GLOOM DIVISION](https://open.spotify.com/album/0uJRPvtoXw3k9377EVqShK) | 3:24 | 2024-02-23 |  |
 | [Small Cuts](https://open.spotify.com/track/2vd4ULh4EXAeIyOoe9JZ30) | [The Brobecks](https://open.spotify.com/artist/29TCgxO6qzQx4O3pjUIMzn) | [Violent Things](https://open.spotify.com/album/1KLBdhphdiK82hYpAiw8DR) | 4:02 | 2023-01-07 |  |
 | [Starkiller](https://open.spotify.com/track/7azVZvIvANuD4sLlwqs2g2) | [Bear Ghost](https://open.spotify.com/artist/1N1JZ3SRv6PSzAsOEW2aZp) | [Blasterpiece](https://open.spotify.com/album/1QGh29u6gecFcSXOVloWEX) | 3:49 | 2023-08-10 |  |
 | [Steady, As She Goes](https://open.spotify.com/track/4xlEKYv7HmC8zXoJIbpZKM) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Broken Boy Soldiers](https://open.spotify.com/album/4Z1sCXBHHKWCsScOLAfuig) | 3:35 | 2023-06-03 |  |

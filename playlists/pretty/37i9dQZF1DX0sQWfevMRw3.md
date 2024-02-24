@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > I NORRLAND ÄR DET FEST!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,120 likes - 101 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,278 likes - 101 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 100 | [Farväl](https://open.spotify.com/track/15vhsww4sVuzPOqN04DdBc) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Farväl](https://open.spotify.com/album/3OBYM95WFMy24ZiWK5vPHQ) | 2:38 |
 | 101 | [Rulla \- JulleMeck Remix](https://open.spotify.com/track/7ylBp2FdcIlkrJSlg1IuJX) | [JulleMeck](https://open.spotify.com/artist/5gBVgnVRYya7YzZSvHqy32), [Erik Meduza](https://open.spotify.com/artist/4zZY1aZuZugxyhDzZlMphr) | [Rulla \(JulleMeck Remix\)](https://open.spotify.com/album/39E2muCHB9RcIJu3atUy4C) | 2:06 |
 
-Snapshot ID: `MCw3OWZlMzRiMmRjN2ExODk1NzQ0YjA5NDAyMjcwODA0NzBmZGVjNTc1`
+Snapshot ID: `MCxlYWZjOGRiMWZhNTAzNDUzYjk2NjQ2YmQ4YTMwY2Y5Y2RjMWFlMzA2`

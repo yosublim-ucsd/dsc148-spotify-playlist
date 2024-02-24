@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Os hits j\u00e1 consagrados e os novos nomes pop dividindo o mesmo palco!  / Foto: DUDA BEAT",
+  "description": "Os hits e novos nomes do pop dividindo o mesmo palco!  / Foto: Lourena",
   "name": "Palco POP",
   "tracks": [
     {
@@ -2012,7 +2012,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 206000,
       "name": "Blayblayde",
       "url": "https://open.spotify.com/track/5LWf6aSIrK4Bj7exlmnDRB"
@@ -2202,7 +2202,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 209693,
       "name": "Bota Ni\u00f1a",
       "url": "https://open.spotify.com/track/2EbRFerXy6IPM3EfAOqZkB"
@@ -9329,6 +9329,32 @@
     },
     {
       "album": {
+        "name": "Olhar HD",
+        "url": "https://open.spotify.com/album/5eAdKrXdGOxJEMmL1gucTv"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167741,
+      "name": "OLHAR HD",
+      "url": "https://open.spotify.com/track/0MKn146xdKs9Gnwtkfl0fB"
+    },
+    {
+      "album": {
         "name": "Ato 2: TODAMANH\u00c3",
         "url": "https://open.spotify.com/album/1ro3qMEE6QLtwTqTS3c2A2"
       },
@@ -9688,6 +9714,32 @@
       "duration_ms": 127118,
       "name": "pantera",
       "url": "https://open.spotify.com/track/6SgwJ1u5mkWWCG3Cvw11x8"
+    },
+    {
+      "album": {
+        "name": "Para De Dizer Que N\u00e3o Me Ama (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0dn2jZVWmrGtYfNOQPSvyC"
+      },
+      "artists": [
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        },
+        {
+          "name": "GIULIA BE",
+          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
+        },
+        {
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290902,
+      "name": "Para De Dizer Que N\u00e3o Me Ama - Ao Vivo",
+      "url": "https://open.spotify.com/track/3s0RLXyjavjaiZdAhqUHIx"
     },
     {
       "album": {
@@ -10572,7 +10624,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 138378,
       "name": "Por Uma Noite S\u00f3",
       "url": "https://open.spotify.com/track/7fzCFGhCDzvn15HZWMDW3F"
@@ -11481,6 +11533,28 @@
     },
     {
       "album": {
+        "name": "Numanice #3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180009,
+      "name": "Raio X - Ao Vivo",
+      "url": "https://open.spotify.com/track/3iGwvlMJT1GAH9WcRKHwMi"
+    },
+    {
+      "album": {
         "name": "We Love You Tecca",
         "url": "https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB"
       },
@@ -11758,7 +11832,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 207640,
       "name": "Revoada",
       "url": "https://open.spotify.com/track/50CnsLVWEypahw6Wze00qL"
@@ -13118,6 +13192,24 @@
       "duration_ms": 189549,
       "name": "Tattoo",
       "url": "https://open.spotify.com/track/65WbRpNqHIlyJ7V8U4yspX"
+    },
+    {
+      "album": {
+        "name": "Tbt",
+        "url": "https://open.spotify.com/album/0gne4ChhTLG9gUvLSssiyr"
+      },
+      "artists": [
+        {
+          "name": "Ya Malb",
+          "url": "https://open.spotify.com/artist/4TQQfni0Ql808AhLVD7Tdo"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195115,
+      "name": "Tbt",
+      "url": "https://open.spotify.com/track/39ykOzUNFjg3lFNzDIOcVL"
     },
     {
       "album": {

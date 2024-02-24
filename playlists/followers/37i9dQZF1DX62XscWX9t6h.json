@@ -1,5 +1,5 @@
 {
-  "2024-02-23": 173125,
+  "2024-02-24": 173214,
   "date_first_scraped": "2023-08-09",
   "description": "21st Century nomadic expressions interwoven into a very unexpected patchwork.",
   "name": "Folk Fabrique",
@@ -1469,7 +1469,7 @@
     {
       "album": {
         "name": "Mirage",
-        "url": "https://open.spotify.com/album/45yGFEPm310zjAc1psZzEv"
+        "url": "https://open.spotify.com/album/2QBoYsuINGsfFvp4BGk0SK"
       },
       "artists": [
         {
@@ -1480,6 +1480,24 @@
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 290448,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/2oSurc3FKyPDaoVpdbb1N9"
+    },
+    {
+      "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/45yGFEPm310zjAc1psZzEv"
+      },
+      "artists": [
+        {
+          "name": "Glass Beams",
+          "url": "https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": "2024-02-23",
       "duration_ms": 290448,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/3pTtkt58Xi4VfAgZJVH3cU"

@@ -1,5 +1,5 @@
 {
-  "2024-02-23": 141787,
+  "2024-02-24": 141905,
   "date_first_scraped": "2022-04-20",
   "description": "Music from the ether to focus and study to.",
   "name": "Atmospheric Focus",
@@ -702,6 +702,24 @@
     },
     {
       "album": {
+        "name": "Day One",
+        "url": "https://open.spotify.com/album/5PoIhseACEH1smxIVLYGeD"
+      },
+      "artists": [
+        {
+          "name": "Skyrios",
+          "url": "https://open.spotify.com/artist/55uEL0DabWyI3Yv8dt1Y0Q"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128571,
+      "name": "Day One",
+      "url": "https://open.spotify.com/track/2c3R5cRQXCpJTLyanScIxH"
+    },
+    {
+      "album": {
         "name": "Into Oblivion",
         "url": "https://open.spotify.com/album/0oO89cVZdGhilcsQVpMt5x"
       },
@@ -915,6 +933,24 @@
       "duration_ms": 169411,
       "name": "Entering Orbit",
       "url": "https://open.spotify.com/track/3RnuKGjbUw9VZpakg1jzhs"
+    },
+    {
+      "album": {
+        "name": "Epiphany",
+        "url": "https://open.spotify.com/album/7siWjOTKEkXUyTQCycRSPj"
+      },
+      "artists": [
+        {
+          "name": "Dreams Ahead",
+          "url": "https://open.spotify.com/artist/6JHr6WrfMhJNTpJ1smiQXy"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185908,
+      "name": "Epiphany",
+      "url": "https://open.spotify.com/track/2JCRMMJHw8miYdipCimJLh"
     },
     {
       "album": {
@@ -2020,6 +2056,24 @@
     },
     {
       "album": {
+        "name": "Ledges",
+        "url": "https://open.spotify.com/album/2LweYJjFBluLUEYVdVTCcs"
+      },
+      "artists": [
+        {
+          "name": "Kal Koren",
+          "url": "https://open.spotify.com/artist/48ZAcUtJjaZZ0OZstH5X4v"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152205,
+      "name": "Ledges",
+      "url": "https://open.spotify.com/track/58XQ5QMrzsppJC1j95ZE6N"
+    },
+    {
+      "album": {
         "name": "Left Out In the Open",
         "url": "https://open.spotify.com/album/5akedcqnnolrF3uoK9jrxT"
       },
@@ -2215,6 +2269,24 @@
       "duration_ms": 153230,
       "name": "lost in motions",
       "url": "https://open.spotify.com/track/5L1hTJQSQJcrMTtJpt2fvP"
+    },
+    {
+      "album": {
+        "name": "Lost Together",
+        "url": "https://open.spotify.com/album/3Y30tca34Ey15PhjZlnq3V"
+      },
+      "artists": [
+        {
+          "name": "Imber Sun",
+          "url": "https://open.spotify.com/artist/2HyEvRdpjC6Ek9cLlLof0X"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150305,
+      "name": "Lost Together",
+      "url": "https://open.spotify.com/track/4L4oUWv9dBjgGScuHpDXDG"
     },
     {
       "album": {

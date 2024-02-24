@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62HvDmsP7Md.md) - [plain]
 
 > Party like it's the early 2000s\. ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,775 likes - 65 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,032 likes - 65 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62HvDmsP7Md.md) - [plain]
 | 64 | [Money Ain't a Thang \(feat\. Jay\-Z\)](https://open.spotify.com/track/12LjNmRrdzhTn1vMcxN81m) | [Jermaine Dupri](https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Life In 1472 \(The Original Soundtrack\)](https://open.spotify.com/album/4gBlh3imgWjnD275XauGwt) | 4:14 |
 | 65 | [Breathe, Stretch, Shake \(feat\. P\. Diddy\)](https://open.spotify.com/track/5qjESLw4uzDNvG2V5QIoaS) | [Mase](https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA) | [Welcome Back](https://open.spotify.com/album/3Mb97a181fWxWHlGQGHTPO) | 3:17 |
 
-Snapshot ID: `MCwxNjUwMjhiZDMzMmY4MmEyOTg5ZTFlMzA5MzFkZjc3OGVmZDM3ODQ5`
+Snapshot ID: `MCxlYTAyMTBmN2Y0NjAwNjRlYmM4ODNhODliY2UzZTkwZTUxNDYxZTRi`

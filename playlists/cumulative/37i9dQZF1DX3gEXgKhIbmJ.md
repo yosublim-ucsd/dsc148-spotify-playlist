@@ -4,7 +4,7 @@
 
 > pra entrar e ficar na onda
 
-136 songs - 5 hr 27 min
+137 songs - 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Plano](https://open.spotify.com/track/0MClYaY8PdPAU3g3SSzlde) | [Decassio](https://open.spotify.com/artist/2vHP3Q9dYBvTVdOrlEUfRg) | [Plano](https://open.spotify.com/album/48s7OgHFYUI0fLRhoAgIli) | 3:06 | 2023-09-15 | 2023-11-18 |
 | [Postura de Braba](https://open.spotify.com/track/5HfQbACsPDEKVkjhJYqYKe) | [Kloe](https://open.spotify.com/artist/3R3X9yrhI3pNjKqCyxiUz5), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [Postura de Braba](https://open.spotify.com/album/3HzyX6tFFie2A0U0vYKb0z) | 2:08 | 2023-09-15 | 2023-11-11 |
 | [PUFFER](https://open.spotify.com/track/7KhdkN22ZBdIPcjqad9jnz) | [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td) | [Trap The Fato Deluxe](https://open.spotify.com/album/0un91YASLvkBJCWKdCPj4t) | 2:36 | 2023-10-13 |  |
+| [Quebra](https://open.spotify.com/track/6vUdkL5RJnozINC7JBl8M3) | [ruadois](https://open.spotify.com/artist/1T5hg3seEG39VKTHICTft5) | [Proibido Estacionar, Vol\. 2 \- Live Set](https://open.spotify.com/album/3dNyEVY0LHKpG6voegof2I) | 2:37 | 2024-02-23 |  |
 | [Rebelde](https://open.spotify.com/track/712kgMn3i9XMH5lGffOQNq) | [Wander$](https://open.spotify.com/artist/0INAug9yOHJOrxfxZx5Dv7), [8gutta](https://open.spotify.com/artist/00FppYW0qruQRmMpy21jAJ) | [Rebelde](https://open.spotify.com/album/5SnpYxtGkA3ncUGQACtY9b) | 2:08 | 2023-12-22 | 2024-02-03 |
 | [RIO](https://open.spotify.com/track/31fgfrINtE64CB5rRUTxH6) | [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR), [Clara Dalua](https://open.spotify.com/artist/3hiOjOhhsHCbXK9Fv3EmF1), [2050](https://open.spotify.com/artist/5VwzkQP7ZcksbrUUzh3gji) | [RIO](https://open.spotify.com/album/4cwwqwxjP1VbCDbxAuGWpC) | 2:13 | 2023-09-15 | 2023-09-23 |
 | [ROBŌ](https://open.spotify.com/track/42F2ExO6I18XWoBo16zqLE) | [Afrodroid](https://open.spotify.com/artist/6wEIAd4O786YohpQalFVcc), [Rossato](https://open.spotify.com/artist/1iGxbhwpgFmsxVLvPsDefp) | [ROBŌ](https://open.spotify.com/album/0d5FSPwldYAwwn88nq2YkN) | 2:01 | 2023-09-29 | 2023-10-07 |

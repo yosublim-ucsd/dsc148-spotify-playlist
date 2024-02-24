@@ -4,7 +4,7 @@
 
 > Today's Bluegrass and old time favorites\. Cover: Missy Raines
 
-526 songs - 1 day 7 hr 27 min
+527 songs - 1 day 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Amarillo Blue](https://open.spotify.com/track/01o9hUQTcGKOSd6i3qa5Ld) | [Songs From The Road Band](https://open.spotify.com/artist/5moOZhZ7mnRmBMqCZft93N) | [Amarillo Blue](https://open.spotify.com/album/5bT9ZtzDf424d7U7BPYHRS) | 3:03 | 2021-12-17 | 2022-02-28 |
 | [And the Rain Came Down](https://open.spotify.com/track/0tzt9h2RzV245KqT94mDlJ) | [Fireside Collective](https://open.spotify.com/artist/5pTVgcphr57bYahGLO4bSC) | [And the Rain Came Down](https://open.spotify.com/album/04Onp1WH86DyNy1lfVxYss) | 3:56 | 2021-12-17 | 2022-07-28 |
 | [And Then, And Then, And Then](https://open.spotify.com/track/4EmclhN9TTg1r2dRNCpGtk) | [Ethan Sherman](https://open.spotify.com/artist/4A9CvXWfWvRnIoLhOMRxse), [Thomas Cassell](https://open.spotify.com/artist/7g2xzGFWspvuNWyd7Raepa), [Matthew Davis](https://open.spotify.com/artist/1GM51GqX3LgTP0uHq6Od26), [Avery Merritt](https://open.spotify.com/artist/4VQPvJjZ1eeFtIXSDNb4Ku), [Tim McNalley](https://open.spotify.com/artist/4Ia7vccNwNdMBDyBNAajLD) | [Indoor Vistas](https://open.spotify.com/album/5fOYNNqYU23pUMlPMfuJU6) | 3:57 | 2022-03-04 | 2022-07-04 |
-| [Anna Marie \(feat\. Sierra Hull\)](https://open.spotify.com/track/2kVc7E1wVU7hnpPZPmWcoh) | [Mike Barnett](https://open.spotify.com/artist/3MUpz7uOj1I6iUuVkim4JA), [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB) | [+ 1](https://open.spotify.com/album/0WerA63tJFged7ZimsZGxZ) | 4:13 | 2021-12-17 |  |
+| [Anna Marie \(feat\. Sierra Hull\)](https://open.spotify.com/track/2kVc7E1wVU7hnpPZPmWcoh) | [Mike Barnett](https://open.spotify.com/artist/3MUpz7uOj1I6iUuVkim4JA), [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB) | [+ 1](https://open.spotify.com/album/0WerA63tJFged7ZimsZGxZ) | 4:13 | 2021-12-17 | 2024-02-24 |
 | [Another Day](https://open.spotify.com/track/1uHFTt7HcnjLsgZXHYwhzm) | [Ordinary Elephant](https://open.spotify.com/artist/4KDRZ2NwxT9UZ0RyG8gHFs) | [Before I Go](https://open.spotify.com/album/1lLVbM1SXPFR4WeVcQ0KQP) | 4:55 | 2021-12-17 | 2022-04-20 |
 | [Any Old Time](https://open.spotify.com/track/3Fv6JcNgvTOipsgbb0dFbb) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [Any Old Time](https://open.spotify.com/album/48aWkol0vDAAznw8Q2ZtXi) | 2:58 | 2021-12-17 | 2022-07-29 |
 | [Any Old Time](https://open.spotify.com/track/5u5OHbWaCxcvIoi04HGLy6) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [Hell on Church Street](https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA) | 2:58 | 2022-07-22 |  |
@@ -57,6 +57,7 @@
 | [Bluebird](https://open.spotify.com/track/2wxRicLmcsDth8tjvTI807) | [The Bad Oats](https://open.spotify.com/artist/3qod4QYLHKxmo007ymm6Gz) | [Bluebird](https://open.spotify.com/album/1bI2aIqHcwNjFm7IxZIzFX) | 4:43 | 2022-02-18 | 2022-07-16 |
 | [Blues and Reds](https://open.spotify.com/track/41iibtduo67boebKh4qeTf) | [Birds of Play](https://open.spotify.com/artist/3GXu0jfY6YTUeqElGLv5kC) | [Blues and Reds](https://open.spotify.com/album/0SBCpzytrudGWqycPFMo3Y) | 4:12 | 2022-02-18 | 2022-07-12 |
 | [Blues Are Close at Hand](https://open.spotify.com/track/16KCAFsjJn79OA3sh9iedu) | [The Po' Ramblin' Boys](https://open.spotify.com/artist/65XZgRZMfuSawjuSFrnz0o) | [Blues Are Close at Hand](https://open.spotify.com/album/2ZfEgw1Jsfhw34G7cwtmkM) | 2:39 | 2022-02-04 |  |
+| [Blues of the Night](https://open.spotify.com/track/6kIPJSV6Z6Pixo7RQRjwYP) | [Lonesome River Band](https://open.spotify.com/artist/0wcvmmlzeqzW318K6lsynU) | [Blues of the Night](https://open.spotify.com/album/7xZO2VJHf9KJkB5OkbP8qf) | 2:43 | 2024-02-23 |  |
 | [Born Again](https://open.spotify.com/track/21QB49rcqQ4822kjUxaXJu) | [Wolfpen Branch](https://open.spotify.com/artist/3TlAfB34CmKnF78DPTkDCR) | [Born Again](https://open.spotify.com/album/7fx23zKc0UBHLEKdIeXLdR) | 2:59 | 2022-04-15 | 2022-06-23 |
 | [Born To Be With You](https://open.spotify.com/track/6Q20ozWxYzouSPyCOpKCL0) | [Mike Barnett](https://open.spotify.com/artist/3MUpz7uOj1I6iUuVkim4JA), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Chris Eldridge](https://open.spotify.com/artist/1jRZEQrI5lbt5SoBtMHmiW), [Noam Pikelny](https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C), [Paul Kowert](https://open.spotify.com/artist/0qHFEHWL35eEDUNnLiLkrB) | [3+ \(EP\)](https://open.spotify.com/album/1YtOxEHSYw9paGyn4yU2gY) | 2:51 | 2023-11-17 |  |
 | [Bottom Of The Barrel](https://open.spotify.com/track/6rs3NpGtXxKRoUpJsvGUtR) | [Forlorn Strangers](https://open.spotify.com/artist/7rlb4ZH6RO0juVpvZXWqif) | [Forlorn Strangers](https://open.spotify.com/album/5V4SGNKV8NKpHY96uCCFSe) | 3:40 | 2021-12-17 | 2023-02-24 |

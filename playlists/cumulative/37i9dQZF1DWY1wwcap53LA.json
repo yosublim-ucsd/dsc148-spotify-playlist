@@ -309,6 +309,24 @@
     },
     {
       "album": {
+        "name": "Beg Your Parton",
+        "url": "https://open.spotify.com/album/3EyqjIkpqdUjw0hkf5Smfr"
+      },
+      "artists": [
+        {
+          "name": "The Kentucky Gentlemen",
+          "url": "https://open.spotify.com/artist/5Jyxuj6Ho7xmNPrDub1U86"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147957,
+      "name": "Beg Your Parton",
+      "url": "https://open.spotify.com/track/6eFEaO0x8HPi9AqFR9wdoL"
+    },
+    {
+      "album": {
         "name": "Best Revenge",
         "url": "https://open.spotify.com/album/3Lg3SLFfC4iNyOBnPL2XAV"
       },

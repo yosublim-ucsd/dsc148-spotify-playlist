@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0N3eAirRjZ.md) - [plain]
 
 > Please consider donating to Hawai'i Community Foundation's <a href="https://www.hawaiicommunityfoundation.org/maui\-strong?fbclid=IwAR13k\_bWcOzvA0EM6bF6CSmkSktK8G\[%E2%80%A6\]EzD6jXm7wvU2z18gYZVchaFYOyGe2pBhhcts&mibextid=Zxz2cZ">Maui Strong Fund</a> to provide financial resources quickly to those that have been impacted by the devastating wildfires on Maui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,063 likes - 65 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,109 likes - 65 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0N3eAirRjZ.md) - [plain]
 | 64 | [Whee Ha Swing](https://open.spotify.com/track/2yfmFza2MM6TV3QBvC138Z) | [Ledward Kaapana](https://open.spotify.com/artist/4rbuIw9Fa3U8yCZuK2Ig1K) | [Hawaiian Slack Key Guitar Masters: Instrumental Collection, Vol\. 1](https://open.spotify.com/album/6BpspuHJBMZxI7Cc3Y9Tjr) | 2:31 |
 | 65 | [Honolulu City Lights](https://open.spotify.com/track/7p7wUyiSlKhbBj6a4W5JQJ) | [Keola & Kapono Beamer](https://open.spotify.com/artist/3EzISrY4SedvUU2QWGaH4f) | [Honolulu City Lights](https://open.spotify.com/album/30Gr4mOBobnQqhMAVVmhS3) | 3:23 |
 
-Snapshot ID: `MCxmOTJjMWNlMjFjZWVmNDEwYzA5OWEyMDA2NGZjNjE4Mjk2ZDkzNDU1`
+Snapshot ID: `MCw3M2MxMzk4ODMxZGFlMDczYWVjOWJiNDFlNmQ5NTJmMTAyYjc4Y2Jk`

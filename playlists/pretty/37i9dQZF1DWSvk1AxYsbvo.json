@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubd88 \uc548 \uc18d\ucc98\ub7fc \ud3ec\uadfc\ud558\uace0 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3ed\uc2e0\ud55c \uae30\ubd84\uc744 \ub9cc\ub07d\ud558\uc138\uc694. (Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable.)",
-  "num_followers": 13390,
+  "num_followers": 13392,
   "original_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0 (Cozy K-Pop)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MjYzOTU2YWRmYzExMTliMmIxNTNjNTg5OGM3NTJkMmIxZTdhMWRm",
+  "snapshot_id": "MCxlZTA0OGExNTc3MDhjOGNlZWZlOTk3MGQ3NDFkNmZmZTljNzQ4NzA1",
   "tracks": [
     {
       "added_at": "2023-11-04 06:04:29",
@@ -155,22 +155,6 @@
     {
       "added_at": "2023-11-04 06:04:29",
       "album": {
-        "name": "Wednesday",
-        "url": "https://open.spotify.com/album/1cbfO7COigEmv5igX2A0FX"
-      },
-      "artists": [
-        {
-          "name": "Dailog",
-          "url": "https://open.spotify.com/artist/61NOuvWbdbCndC4Z8XvypF"
-        }
-      ],
-      "duration_ms": 167733,
-      "name": "Wednesday",
-      "url": "https://open.spotify.com/track/3PPFza9c9iXZgBWb4KF0Bq"
-    },
-    {
-      "added_at": "2023-11-04 06:04:29",
-      "album": {
         "name": "Winded",
         "url": "https://open.spotify.com/album/6KYXpHhFNyXL3L4JgGsD1p"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 183000,
       "name": "Winded",
       "url": "https://open.spotify.com/track/71zJMsNpZIJGnN8fibrPxg"
+    },
+    {
+      "added_at": "2023-11-04 06:04:29",
+      "album": {
+        "name": "Wednesday",
+        "url": "https://open.spotify.com/album/1cbfO7COigEmv5igX2A0FX"
+      },
+      "artists": [
+        {
+          "name": "Dailog",
+          "url": "https://open.spotify.com/artist/61NOuvWbdbCndC4Z8XvypF"
+        }
+      ],
+      "duration_ms": 167733,
+      "name": "Wednesday",
+      "url": "https://open.spotify.com/track/3PPFza9c9iXZgBWb4KF0Bq"
     },
     {
       "added_at": "2023-11-04 06:04:29",
@@ -235,22 +235,22 @@
     {
       "added_at": "2023-11-04 06:04:29",
       "album": {
-        "name": "CAKE",
-        "url": "https://open.spotify.com/album/1kh0R6MwB7zY10hWurPwX8"
+        "name": "Sweet Kiss Like Coffee (Feat. LEE SUNG KYOUNG)",
+        "url": "https://open.spotify.com/album/17WOhbcXnYRHLHUmWfLBG4"
       },
       "artists": [
         {
-          "name": "SORAN",
-          "url": "https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R"
+          "name": "Eddy Kim",
+          "url": "https://open.spotify.com/artist/1sVSMPPNMMSZ7cQNfbvMOe"
         },
         {
-          "name": "10CM",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+          "name": "LEE SUNG KYOUNG",
+          "url": "https://open.spotify.com/artist/7mZpOLn7va0Muu20bI8bsP"
         }
       ],
-      "duration_ms": 208920,
-      "name": "Falling In Love (feat. 10cm)",
-      "url": "https://open.spotify.com/track/5dPYuKs7KoMjR1DQU2mpOX"
+      "duration_ms": 234705,
+      "name": "Sweet Kiss Like Coffee (Feat. LEE SUNG KYOUNG)",
+      "url": "https://open.spotify.com/track/4Ute9sqbRdX61EkTKXAXl6"
     },
     {
       "added_at": "2023-11-04 06:04:29",
@@ -271,18 +271,22 @@
     {
       "added_at": "2023-11-04 06:04:29",
       "album": {
-        "name": "All My Love",
-        "url": "https://open.spotify.com/album/0i4ymIcTfqV6virrQYNAat"
+        "name": "CAKE",
+        "url": "https://open.spotify.com/album/1kh0R6MwB7zY10hWurPwX8"
       },
       "artists": [
         {
-          "name": "PARK BO GUM",
-          "url": "https://open.spotify.com/artist/3wkl0GrYTJjWoTmGAJRosv"
+          "name": "SORAN",
+          "url": "https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R"
+        },
+        {
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
         }
       ],
-      "duration_ms": 203866,
-      "name": "All My Love - Korean Ver.",
-      "url": "https://open.spotify.com/track/7tBopxC7AwomZnU7KuKF9u"
+      "duration_ms": 208920,
+      "name": "Falling In Love (feat. 10cm)",
+      "url": "https://open.spotify.com/track/5dPYuKs7KoMjR1DQU2mpOX"
     },
     {
       "added_at": "2023-11-04 06:04:29",
@@ -303,22 +307,18 @@
     {
       "added_at": "2023-11-04 06:04:29",
       "album": {
-        "name": "Sweet Kiss Like Coffee (Feat. LEE SUNG KYOUNG)",
-        "url": "https://open.spotify.com/album/17WOhbcXnYRHLHUmWfLBG4"
+        "name": "All My Love",
+        "url": "https://open.spotify.com/album/0i4ymIcTfqV6virrQYNAat"
       },
       "artists": [
         {
-          "name": "Eddy Kim",
-          "url": "https://open.spotify.com/artist/1sVSMPPNMMSZ7cQNfbvMOe"
-        },
-        {
-          "name": "LEE SUNG KYOUNG",
-          "url": "https://open.spotify.com/artist/7mZpOLn7va0Muu20bI8bsP"
+          "name": "PARK BO GUM",
+          "url": "https://open.spotify.com/artist/3wkl0GrYTJjWoTmGAJRosv"
         }
       ],
-      "duration_ms": 234705,
-      "name": "Sweet Kiss Like Coffee (Feat. LEE SUNG KYOUNG)",
-      "url": "https://open.spotify.com/track/4Ute9sqbRdX61EkTKXAXl6"
+      "duration_ms": 203866,
+      "name": "All My Love - Korean Ver.",
+      "url": "https://open.spotify.com/track/7tBopxC7AwomZnU7KuKF9u"
     },
     {
       "added_at": "2023-11-04 06:04:29",
@@ -443,6 +443,22 @@
     {
       "added_at": "2023-11-04 06:04:29",
       "album": {
+        "name": "Reminiscence",
+        "url": "https://open.spotify.com/album/1pFBI4pUiXq7Li4Y5uK6gn"
+      },
+      "artists": [
+        {
+          "name": "Kim MinSeok",
+          "url": "https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA"
+        }
+      ],
+      "duration_ms": 253000,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/5hG9erX5epfASjh5ZNJZV1"
+    },
+    {
+      "added_at": "2023-11-04 06:04:29",
+      "album": {
         "name": "SHE",
         "url": "https://open.spotify.com/album/6mMVN3CgIq54BGZPgjU9IQ"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 198040,
       "name": "SHE",
       "url": "https://open.spotify.com/track/36ty55F3OvW2lXtzTqLXQH"
-    },
-    {
-      "added_at": "2023-11-04 06:04:29",
-      "album": {
-        "name": "Reminiscence",
-        "url": "https://open.spotify.com/album/1pFBI4pUiXq7Li4Y5uK6gn"
-      },
-      "artists": [
-        {
-          "name": "Kim MinSeok",
-          "url": "https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA"
-        }
-      ],
-      "duration_ms": 253000,
-      "name": "Goodbye",
-      "url": "https://open.spotify.com/track/5hG9erX5epfASjh5ZNJZV1"
     },
     {
       "added_at": "2023-11-04 06:04:29",
@@ -527,18 +527,22 @@
     {
       "added_at": "2023-11-04 06:04:29",
       "album": {
-        "name": "Shadow",
-        "url": "https://open.spotify.com/album/3ilZqI8FLVaCnKtdjNB24q"
+        "name": "Stay (Feat. Youlakk)",
+        "url": "https://open.spotify.com/album/5Htbkxi0DYn6ovXPOiRTdd"
       },
       "artists": [
         {
-          "name": "Jo eunsae",
-          "url": "https://open.spotify.com/artist/3uUEE8V8efV6AAD3F5oZtj"
+          "name": "Grass",
+          "url": "https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi"
+        },
+        {
+          "name": "\uc5ec\ub77d\uc774\ub4e4",
+          "url": "https://open.spotify.com/artist/2dhRTTYuLyLZUsexxAMwkU"
         }
       ],
-      "duration_ms": 207998,
-      "name": "Shadow",
-      "url": "https://open.spotify.com/track/4eiB70BZrnHWf1YehBPjGg"
+      "duration_ms": 208771,
+      "name": "Stay (Feat. Youlakk)",
+      "url": "https://open.spotify.com/track/1YYAvzoS8YUOL6w1zG4WON"
     },
     {
       "added_at": "2023-11-04 06:04:29",
@@ -559,22 +563,18 @@
     {
       "added_at": "2023-11-04 06:04:29",
       "album": {
-        "name": "Stay (Feat. Youlakk)",
-        "url": "https://open.spotify.com/album/5Htbkxi0DYn6ovXPOiRTdd"
+        "name": "Shadow",
+        "url": "https://open.spotify.com/album/3ilZqI8FLVaCnKtdjNB24q"
       },
       "artists": [
         {
-          "name": "Grass",
-          "url": "https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi"
-        },
-        {
-          "name": "\uc5ec\ub77d\uc774\ub4e4",
-          "url": "https://open.spotify.com/artist/2dhRTTYuLyLZUsexxAMwkU"
+          "name": "Jo eunsae",
+          "url": "https://open.spotify.com/artist/3uUEE8V8efV6AAD3F5oZtj"
         }
       ],
-      "duration_ms": 208771,
-      "name": "Stay (Feat. Youlakk)",
-      "url": "https://open.spotify.com/track/1YYAvzoS8YUOL6w1zG4WON"
+      "duration_ms": 207998,
+      "name": "Shadow",
+      "url": "https://open.spotify.com/track/4eiB70BZrnHWf1YehBPjGg"
     },
     {
       "added_at": "2023-11-04 06:04:29",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-11-04 06:04:29",
       "album": {
-        "name": "i and i",
-        "url": "https://open.spotify.com/album/6DnaYS5enLDhJwz5KbQwrU"
-      },
-      "artists": [
-        {
-          "name": "NavyQuokka",
-          "url": "https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW"
-        }
-      ],
-      "duration_ms": 178493,
-      "name": "i and i",
-      "url": "https://open.spotify.com/track/33PhGGthxOh1gmUCW28gMB"
-    },
-    {
-      "added_at": "2023-11-04 06:04:29",
-      "album": {
         "name": "Beautiful Now (Original Television Soundtrack) Pt. 9",
         "url": "https://open.spotify.com/album/2X9zquczSyputp24lpjLkr"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 219939,
       "name": "beautiful inside",
       "url": "https://open.spotify.com/track/1bxzxAOlqll6JIAeEZEINR"
+    },
+    {
+      "added_at": "2023-11-04 06:04:29",
+      "album": {
+        "name": "i and i",
+        "url": "https://open.spotify.com/album/6DnaYS5enLDhJwz5KbQwrU"
+      },
+      "artists": [
+        {
+          "name": "NavyQuokka",
+          "url": "https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW"
+        }
+      ],
+      "duration_ms": 178493,
+      "name": "i and i",
+      "url": "https://open.spotify.com/track/33PhGGthxOh1gmUCW28gMB"
     },
     {
       "added_at": "2023-11-04 06:04:29",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-11-04 06:04:29",
       "album": {
-        "name": "When It's Cold",
-        "url": "https://open.spotify.com/album/0yd7TX2398Ii7AiZAMp2ey"
-      },
-      "artists": [
-        {
-          "name": "Bily Acoustie",
-          "url": "https://open.spotify.com/artist/5r7uTezbOPCO32i7RljvaA"
-        }
-      ],
-      "duration_ms": 183824,
-      "name": "When It\u2019s Cold",
-      "url": "https://open.spotify.com/track/1d4rYg3JcSOSnVYa2IPDSr"
-    },
-    {
-      "added_at": "2023-11-04 06:04:29",
-      "album": {
         "name": "PLAYLIST (Original Soundtrack), Pt.1",
         "url": "https://open.spotify.com/album/1jXIHAXoA7oz18tsTh4jw4"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 281000,
       "name": "Like a Bird",
       "url": "https://open.spotify.com/track/7qNGHALgM8RPLQDGVt6rok"
+    },
+    {
+      "added_at": "2023-11-04 06:04:29",
+      "album": {
+        "name": "When It's Cold",
+        "url": "https://open.spotify.com/album/0yd7TX2398Ii7AiZAMp2ey"
+      },
+      "artists": [
+        {
+          "name": "Bily Acoustie",
+          "url": "https://open.spotify.com/artist/5r7uTezbOPCO32i7RljvaA"
+        }
+      ],
+      "duration_ms": 183824,
+      "name": "When It\u2019s Cold",
+      "url": "https://open.spotify.com/track/1d4rYg3JcSOSnVYa2IPDSr"
     },
     {
       "added_at": "2023-11-04 06:04:29",
@@ -755,6 +755,26 @@
     {
       "added_at": "2023-11-04 06:04:29",
       "album": {
+        "name": "\uc6b0\ub9ac\uc5d0\uac8c \uc3df\uc544\uc9c0\ub294 \ubcc4\ub4e4\uc744 Starry Night (feat. Ku One Chan)",
+        "url": "https://open.spotify.com/album/0qBs5065OHejWFDLs9Rd87"
+      },
+      "artists": [
+        {
+          "name": "WISUE",
+          "url": "https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry"
+        },
+        {
+          "name": "Ku One Chan",
+          "url": "https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5"
+        }
+      ],
+      "duration_ms": 220496,
+      "name": "\uc6b0\ub9ac\uc5d0\uac8c \uc3df\uc544\uc9c0\ub294 \ubcc4\ub4e4\uc744 Starry Night (feat. Ku One Chan)",
+      "url": "https://open.spotify.com/track/5AYbwrmi3OmNXSNoEtCgZi"
+    },
+    {
+      "added_at": "2023-11-04 06:04:29",
+      "album": {
         "name": "You don't have to say anything (I already know)",
         "url": "https://open.spotify.com/album/6EloN2Ba66hvq5yLrueBrC"
       },
@@ -791,26 +811,6 @@
     {
       "added_at": "2023-11-04 06:04:29",
       "album": {
-        "name": "\uc6b0\ub9ac\uc5d0\uac8c \uc3df\uc544\uc9c0\ub294 \ubcc4\ub4e4\uc744 Starry Night (feat. Ku One Chan)",
-        "url": "https://open.spotify.com/album/0qBs5065OHejWFDLs9Rd87"
-      },
-      "artists": [
-        {
-          "name": "WISUE",
-          "url": "https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry"
-        },
-        {
-          "name": "Ku One Chan",
-          "url": "https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5"
-        }
-      ],
-      "duration_ms": 220496,
-      "name": "\uc6b0\ub9ac\uc5d0\uac8c \uc3df\uc544\uc9c0\ub294 \ubcc4\ub4e4\uc744 Starry Night (feat. Ku One Chan)",
-      "url": "https://open.spotify.com/track/5AYbwrmi3OmNXSNoEtCgZi"
-    },
-    {
-      "added_at": "2023-11-04 06:04:29",
-      "album": {
         "name": "A story that will turn into a poem",
         "url": "https://open.spotify.com/album/4pwFaLkL7sfjhD1O6IZPqF"
       },
@@ -827,18 +827,18 @@
     {
       "added_at": "2023-11-04 06:04:29",
       "album": {
-        "name": "Lonely night",
-        "url": "https://open.spotify.com/album/1PPYjHO08pHBbIKvWrx5jA"
+        "name": "Hi, I am Deulre Jang",
+        "url": "https://open.spotify.com/album/7kSPx9x0TpAhYrt3Tuomt9"
       },
       "artists": [
         {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+          "name": "deulrejang",
+          "url": "https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM"
         }
       ],
-      "duration_ms": 187186,
-      "name": "Lost Stars",
-      "url": "https://open.spotify.com/track/7DljYOk60TzF33yBL9fdnn"
+      "duration_ms": 205756,
+      "name": "People",
+      "url": "https://open.spotify.com/track/0onFXxwLDxFtnnLRI5T1xc"
     }
   ],
   "unique_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0 (Cozy K-Pop)",

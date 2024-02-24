@@ -1,5 +1,5 @@
 {
-  "2024-02-23": 1353671,
+  "2024-02-24": 1354193,
   "date_first_scraped": "2022-04-20",
   "description": "The perfect study beats. Find your focus, crush your productivity. ",
   "name": "chill lofi study beats",
@@ -5607,7 +5607,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 168000,
       "name": "Chimes",
       "url": "https://open.spotify.com/track/3rtl8o4opvXJnYUtk1CgUq"
@@ -7749,7 +7749,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 150000,
       "name": "dice",
       "url": "https://open.spotify.com/track/5s2QLYYGX8sNyxPfEaqOZ5"
@@ -13485,6 +13485,24 @@
       "duration_ms": 175000,
       "name": "Here and now",
       "url": "https://open.spotify.com/track/31hcMWLC7fDMWgBZwuHpyp"
+    },
+    {
+      "album": {
+        "name": "Heroes Retreat",
+        "url": "https://open.spotify.com/album/3zkjaXc1ojZQnC61ZhDgTP"
+      },
+      "artists": [
+        {
+          "name": "Conjure kid",
+          "url": "https://open.spotify.com/artist/3mFXDnOibfFGvbYkqAt2XU"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123162,
+      "name": "Heroes Retreat",
+      "url": "https://open.spotify.com/track/1iD0vEZSvlpsDRSN6y3o0J"
     },
     {
       "album": {
@@ -24092,6 +24110,24 @@
     },
     {
       "album": {
+        "name": "poppy",
+        "url": "https://open.spotify.com/album/2KhU3J9GYoqTjmAnBQcMwg"
+      },
+      "artists": [
+        {
+          "name": "knock on wood",
+          "url": "https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153291,
+      "name": "poppy",
+      "url": "https://open.spotify.com/track/2n4AwQls3F6atW1Av1sLIM"
+    },
+    {
+      "album": {
         "name": "Porcelain",
         "url": "https://open.spotify.com/album/1v6Zf1hclq06Y1IF9rqaxO"
       },
@@ -28134,6 +28170,24 @@
     },
     {
       "album": {
+        "name": "Sparkle",
+        "url": "https://open.spotify.com/album/6pwc042jl4PQ5RQfSMUGOP"
+      },
+      "artists": [
+        {
+          "name": "Tune in with Chewie",
+          "url": "https://open.spotify.com/artist/4M4gexhCyv12RmbowD8xjS"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150809,
+      "name": "Sparkle",
+      "url": "https://open.spotify.com/track/6E3Ks7ElkgvfhF93unPTXj"
+    },
+    {
+      "album": {
         "name": "Sultry Soiree",
         "url": "https://open.spotify.com/album/5I3k7IoRagNyQUasfiNhCB"
       },
@@ -29213,7 +29267,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 144093,
       "name": "Sunday (Nichiyoubi)",
       "url": "https://open.spotify.com/track/5LUlMNS5g88rz2SfAvG4ht"

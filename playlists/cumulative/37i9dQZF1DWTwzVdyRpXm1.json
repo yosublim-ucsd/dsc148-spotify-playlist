@@ -1375,6 +1375,32 @@
     },
     {
       "album": {
+        "name": "Daaku",
+        "url": "https://open.spotify.com/album/2tpXdOI6g9KNdQIXFWB1kW"
+      },
+      "artists": [
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Sharvi Yadav",
+          "url": "https://open.spotify.com/artist/30DC0uyycct5LGcqhzE6a3"
+        },
+        {
+          "name": "Hiten",
+          "url": "https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160396,
+      "name": "Daaku",
+      "url": "https://open.spotify.com/track/1uCBFWAcZOJGAj1CFQHZDj"
+    },
+    {
+      "album": {
         "name": "Daku",
         "url": "https://open.spotify.com/album/3RaIXDlIRvziryGLXm8lBR"
       },

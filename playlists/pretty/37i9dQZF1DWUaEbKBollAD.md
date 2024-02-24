@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUaEbKBollAD.md) - [plain]
 
 > <a href="spotify:artist:4iHnLagnnmgiIwMSm1wuTq">Giorgia Angiuli</a>'s favorite tracks\. Updated regularly\. Curated by Giorgia Angiuli\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,992 likes - 55 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,014 likes - 55 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUaEbKBollAD.md) - [plain]
 | 24 | [No One Takes Me Down \- Original Mix](https://open.spotify.com/track/1z1fjczM3nuXLBdJHt3WVp) | [Bentech](https://open.spotify.com/artist/4tMLkoMpWu60qPkLybmNxu), [SIS](https://open.spotify.com/artist/6SsmtVchggKSXCMt6UZjlj) | [No One Takes Me Down](https://open.spotify.com/album/1nvVBiIJJEp2fvfx78kdEK) | 8:04 |
 | 25 | [VLetrmx](https://open.spotify.com/track/56p0LzMVbPMQU4Gf5rsK8e) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Garbage](https://open.spotify.com/album/7d7WtcAp4qNtfwOqzAPQMJ) | 8:27 |
 | 26 | [Sancturary](https://open.spotify.com/track/1qB3FEc372Xpgdh6pP71z3) | [Jane Winther](https://open.spotify.com/artist/0PO9NIghm5IGR1uIqCRJ1s) | [A New Beginning](https://open.spotify.com/album/3gYqA8Jt9Yi2xK76eDRiXa) | 2:32 |
-| 27 | [Kua \- Original Mix](https://open.spotify.com/track/7hUZJ8lupDInaXfbNLsdC8) | [Fatima Hajji](https://open.spotify.com/artist/6jZSXmTCxZhFfYELtp78Ci) | [Kua](https://open.spotify.com/album/0SsNWOTQmf6rUjoa6w9waM) | 6:25 |
+| 27 | [Kua](https://open.spotify.com/track/5CtcJyXITa9G8Qgs7QSI5B) | [Fatima Hajji](https://open.spotify.com/artist/6jZSXmTCxZhFfYELtp78Ci) | [Kua](https://open.spotify.com/album/6X1H2qXP2wpSWA54xzzxqG) | 6:25 |
 | 28 | [Outside World \- Bart Skils & Weska Remix](https://open.spotify.com/track/1hNuuUPJWU7c7gZCrNiMYs) | [Sunbeam](https://open.spotify.com/artist/1ZXarwne5gA98pXsbC7vph), [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT), [Weska](https://open.spotify.com/artist/0tE5uhIK2tSierQTyLi9ci) | [Outside World \(Bart Skils & Weska Remix\)](https://open.spotify.com/album/4rogCzyAHLJp4hYu6W4TKl) | 4:00 |
 | 29 | [Dusk](https://open.spotify.com/track/6RAH1GzmFzMgEsNYxHwSyr) | [Nicky Elisabeth](https://open.spotify.com/artist/7nt1M2NuH98Fr9c69lscEE) | [Dusk](https://open.spotify.com/album/4AlP7d5GNEl7h00l6XvkAo) | 3:54 |
 | 30 | [Tomorrow](https://open.spotify.com/track/7cgc7LsayrPtYm732w24Nb) | [Bapper Berny](https://open.spotify.com/artist/2BnQfcyNz4DoZdZZ1OiDqP) | [Psytrance Illusions](https://open.spotify.com/album/39D8OJEixStOiwQAKolaSe) | 2:24 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUaEbKBollAD.md) - [plain]
 | 54 | [Bam Bam Bam](https://open.spotify.com/track/6eqETh5hUY97kVWmX9LQuU) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [Bam Bam Bam](https://open.spotify.com/album/309YqMFysiuxHcOJppcCme) | 5:25 |
 | 55 | [Shiva Manas Puja](https://open.spotify.com/track/7spGN3NecAk8fm5CARxL0X) | [Singers of the Art of Living](https://open.spotify.com/artist/0yl2Dss8OxbolyTnWFqKbi) | [Sacred Chants of Shiva](https://open.spotify.com/album/1YIp5NKAM9vdbt2uB4uai3) | 5:58 |
 
-Snapshot ID: `MCwzNDQxZWYyMDNiOWQzNjhmYjEzYzY3YjBhNTk5MmVjNmZmYjAzYTgw`
+Snapshot ID: `MCwxZDJiZmUzNzhkOWExN2M2YTIwYTNjYTQ1Mzg4MzM1MWUwMDFjZGYy`

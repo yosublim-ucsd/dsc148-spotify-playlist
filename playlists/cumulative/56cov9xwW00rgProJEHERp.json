@@ -413,6 +413,24 @@
     },
     {
       "album": {
+        "name": "Fall Into Me",
+        "url": "https://open.spotify.com/album/6gbZnN5YXnkfHd0oljftk0"
+      },
+      "artists": [
+        {
+          "name": "Sylo",
+          "url": "https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156942,
+      "name": "Fall Into Me",
+      "url": "https://open.spotify.com/track/3Kq2U1xsE3YOOfjqH8j4l7"
+    },
+    {
+      "album": {
         "name": "Float On Now",
         "url": "https://open.spotify.com/album/1nGrvEoFsho3KsDtk4FYzd"
       },
@@ -446,6 +464,24 @@
       "duration_ms": 210826,
       "name": "Flowers (Demo)",
       "url": "https://open.spotify.com/track/0436pabrDTOgxH02ugHGBA"
+    },
+    {
+      "album": {
+        "name": "For The Living",
+        "url": "https://open.spotify.com/album/61Yso4pxiob9KFC4Mmomus"
+      },
+      "artists": [
+        {
+          "name": "Elliot Maginot",
+          "url": "https://open.spotify.com/artist/0dX5TveSmyFKxWlYtnWS2X"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179346,
+      "name": "For The Living",
+      "url": "https://open.spotify.com/track/1ubDKiPd70vAcckgoyA4Ot"
     },
     {
       "album": {
@@ -496,7 +532,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 296563,
       "name": "God and a Good Man",
       "url": "https://open.spotify.com/track/791WLUSDeAH9Ozg4ESAtgc"
@@ -699,6 +735,24 @@
     },
     {
       "album": {
+        "name": "Kindergarten Heart",
+        "url": "https://open.spotify.com/album/7HJS2A7JWTfHu4arcFcvmC"
+      },
+      "artists": [
+        {
+          "name": "Shaina Hayes",
+          "url": "https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177843,
+      "name": "Kindergarten Heart",
+      "url": "https://open.spotify.com/track/2GH4jJMwqftLSj09POboHO"
+    },
+    {
+      "album": {
         "name": "know that you're not alone (acoustic)",
         "url": "https://open.spotify.com/album/7oGx6iHwpEPmppKh04Qqk8"
       },
@@ -794,7 +848,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 321840,
       "name": "Leave This Home",
       "url": "https://open.spotify.com/track/3N48xSRpwfwBytTBOYxh79"
@@ -1054,7 +1108,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 224428,
       "name": "On My Love - Live Acoustic",
       "url": "https://open.spotify.com/track/0CZ0NcS4jXLR4I2zM3FKGq"
@@ -1134,6 +1188,24 @@
       "duration_ms": 192079,
       "name": "Remember When",
       "url": "https://open.spotify.com/track/1KyLAl3R61UiXK9o14SUJm"
+    },
+    {
+      "album": {
+        "name": "rotted out with flies",
+        "url": "https://open.spotify.com/album/52tlFFs7KNpFypEpjNgPvK"
+      },
+      "artists": [
+        {
+          "name": "Kevin Atwater",
+          "url": "https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180460,
+      "name": "rotted out with flies",
+      "url": "https://open.spotify.com/track/0u7184d6EPWJxkezc4eUI0"
     },
     {
       "album": {
@@ -1282,7 +1354,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 265787,
       "name": "Tell Me How",
       "url": "https://open.spotify.com/track/00RDBupKs9RP0YQEBrKn1i"

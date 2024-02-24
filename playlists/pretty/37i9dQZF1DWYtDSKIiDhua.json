@@ -1,12 +1,12 @@
 {
   "description": "The R&B and good vibe tracks for your current mood. Cover: Justin Timberlake",
-  "num_followers": 124514,
+  "num_followers": 124560,
   "original_name": "mood.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NDgxNDE1NzQwNjAyZTU0ZDAxNzBlNDBlOWJmYTRmNjc0OWVjNGY1",
+  "snapshot_id": "MCxkZDdhMmUzZTU3YzQ2YjU2Njg2NDMwOGFmOWY2MDhiOTI5MmZlZDkz",
   "tracks": [
     {
       "added_at": "2024-02-22 16:00:00",
@@ -175,6 +175,22 @@
       "duration_ms": 174293,
       "name": "3 new words",
       "url": "https://open.spotify.com/track/5M1OsXPtMfVM6hbrwIiZnr"
+    },
+    {
+      "added_at": "2024-02-22 16:00:00",
+      "album": {
+        "name": "Please Be Good",
+        "url": "https://open.spotify.com/album/2FTYhBqao8Jg6fp1huyZar"
+      },
+      "artists": [
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        }
+      ],
+      "duration_ms": 158019,
+      "name": "Please Be Good",
+      "url": "https://open.spotify.com/track/0oSpphTmHAisyEtcslZcg3"
     },
     {
       "added_at": "2024-02-22 16:00:00",

@@ -1,5 +1,5 @@
 {
-  "2024-02-23": 404444,
+  "2024-02-24": 404432,
   "date_first_scraped": "2021-12-28",
   "description": "The best French indie tracks right now. Cover : Emma Hoet",
   "name": "Made in France",
@@ -4659,6 +4659,24 @@
     {
       "album": {
         "name": "Lost and found",
+        "url": "https://open.spotify.com/album/4V5EXwlVZyDgqx5RHLik1z"
+      },
+      "artists": [
+        {
+          "name": "Isaac Delusion",
+          "url": "https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242973,
+      "name": "Lost and found",
+      "url": "https://open.spotify.com/track/6MMEa398lg04laP9v8Q1YM"
+    },
+    {
+      "album": {
+        "name": "Lost and found",
         "url": "https://open.spotify.com/album/3AVDhfJj8lyxdhLgSia94h"
       },
       "artists": [
@@ -4669,7 +4687,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 242979,
       "name": "Lost and found",
       "url": "https://open.spotify.com/track/3o5inGcKklTC2NwrCSUhQl"

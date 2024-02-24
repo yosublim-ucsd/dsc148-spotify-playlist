@@ -6,50 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjY2ZjN2MxOWI0NWY0NjRmZTNlYWQzODI5Yzg5YTViNmU1MmIzNzJi",
+  "snapshot_id": "MCwyMTBkOTllZGJhMTRmMDQwOWY0NzJkNzJhNTU4OWI4ZDJkNGM5ZjM3",
   "tracks": [
     {
-      "added_at": "2024-02-16 07:41:12",
-      "album": {
-        "name": "Direction Zero",
-        "url": "https://open.spotify.com/album/4Q83wSUAGVKmkX5Jvy7Zrn"
-      },
-      "artists": [
-        {
-          "name": "New 4",
-          "url": "https://open.spotify.com/artist/0ZHzxJeMzblX3jpkIthHSx"
-        },
-        {
-          "name": "Tomi Nikku",
-          "url": "https://open.spotify.com/artist/4PePBixKLlpOaotcULtg7o"
-        }
-      ],
-      "duration_ms": 441333,
-      "name": "Arms Arms",
-      "url": "https://open.spotify.com/track/3TINEvafFDtmsnqIvhewLa"
-    },
-    {
-      "added_at": "2024-02-16 07:41:12",
-      "album": {
-        "name": "The Duke of Bayou",
-        "url": "https://open.spotify.com/album/5eb2GnP63LvtYiC8MIh42g"
-      },
-      "artists": [
-        {
-          "name": "Timo Lassy",
-          "url": "https://open.spotify.com/artist/12DkoR4cqoY6osVYHmsrAq"
-        },
-        {
-          "name": "Jukka Eskola",
-          "url": "https://open.spotify.com/artist/1XkMHQpWReEHMCLatUl0St"
-        }
-      ],
-      "duration_ms": 229520,
-      "name": "The Duke of Bayou",
-      "url": "https://open.spotify.com/track/3TbvOOIibIxHFJY3yOAC7b"
-    },
-    {
-      "added_at": "2024-02-16 07:41:12",
+      "added_at": "2024-02-23 11:03:43",
       "album": {
         "name": "Beatrice",
         "url": "https://open.spotify.com/album/10vAsdPkBTCuDQ0dYPUBaf"
@@ -81,7 +41,43 @@
       "url": "https://open.spotify.com/track/4gWVLCKWXrVoTFj8pB2PS0"
     },
     {
-      "added_at": "2024-02-16 07:41:12",
+      "added_at": "2024-02-23 11:03:43",
+      "album": {
+        "name": "Nordic Stew",
+        "url": "https://open.spotify.com/album/7x9SRDVdvEk4RhPynFkKyY"
+      },
+      "artists": [
+        {
+          "name": "Timo Lassy",
+          "url": "https://open.spotify.com/artist/12DkoR4cqoY6osVYHmsrAq"
+        },
+        {
+          "name": "Jukka Eskola",
+          "url": "https://open.spotify.com/artist/1XkMHQpWReEHMCLatUl0St"
+        }
+      ],
+      "duration_ms": 301893,
+      "name": "At Leroy's",
+      "url": "https://open.spotify.com/track/5P9AzOae0KiwY4mF2424XR"
+    },
+    {
+      "added_at": "2024-02-23 11:03:43",
+      "album": {
+        "name": "Spooky Twist",
+        "url": "https://open.spotify.com/album/7q2yvYuP89VpxzLjfqoVKC"
+      },
+      "artists": [
+        {
+          "name": "Dalind\u00e9o",
+          "url": "https://open.spotify.com/artist/7wL8J7vW907NA5aRTAJmbp"
+        }
+      ],
+      "duration_ms": 254000,
+      "name": "Spooky Twist",
+      "url": "https://open.spotify.com/track/7gqlx5FDb7QZorZfXFlX5j"
+    },
+    {
+      "added_at": "2024-02-23 11:03:43",
       "album": {
         "name": "Bem-Te-Vi",
         "url": "https://open.spotify.com/album/08W5Lh7O9MPbi9HA7wLOS2"
@@ -97,7 +93,71 @@
       "url": "https://open.spotify.com/track/6kENuGyvjRVUoFtNUVox5F"
     },
     {
-      "added_at": "2024-02-16 07:41:12",
+      "added_at": "2024-02-23 11:03:43",
+      "album": {
+        "name": "Round Midnight",
+        "url": "https://open.spotify.com/album/4NepFUlHASISmO4P7KVAj9"
+      },
+      "artists": [
+        {
+          "name": "Simon Zion",
+          "url": "https://open.spotify.com/artist/3qrNawSjdfCiAaTHmo5UOb"
+        },
+        {
+          "name": "Ville Luukkonen Trio",
+          "url": "https://open.spotify.com/artist/1GEqXst78kpxeGlfaWAJZr"
+        }
+      ],
+      "duration_ms": 342586,
+      "name": "Round Midnight",
+      "url": "https://open.spotify.com/track/0gyHPSc26NDtQejC4Q2ynm"
+    },
+    {
+      "added_at": "2024-02-23 11:03:43",
+      "album": {
+        "name": "Immediate Music III",
+        "url": "https://open.spotify.com/album/3PbWOybkoW961JGiiAQ2dL"
+      },
+      "artists": [
+        {
+          "name": "Olavi Louhivuori",
+          "url": "https://open.spotify.com/artist/7MsLyr0nCXGN6OGoZgZqrT"
+        },
+        {
+          "name": "Glenn Kotche",
+          "url": "https://open.spotify.com/artist/6upBn4tokWBDF9diqbYJZs"
+        },
+        {
+          "name": "Tony Buck",
+          "url": "https://open.spotify.com/artist/0WtwD9JqeJuof5S3K3FacF"
+        }
+      ],
+      "duration_ms": 903640,
+      "name": "Immediate Music III, Pt. 1",
+      "url": "https://open.spotify.com/track/3Colc6EQG6wIDpCxUlXmZY"
+    },
+    {
+      "added_at": "2024-02-23 11:03:43",
+      "album": {
+        "name": "Direction Zero",
+        "url": "https://open.spotify.com/album/4Q83wSUAGVKmkX5Jvy7Zrn"
+      },
+      "artists": [
+        {
+          "name": "New 4",
+          "url": "https://open.spotify.com/artist/0ZHzxJeMzblX3jpkIthHSx"
+        },
+        {
+          "name": "Tomi Nikku",
+          "url": "https://open.spotify.com/artist/4PePBixKLlpOaotcULtg7o"
+        }
+      ],
+      "duration_ms": 441333,
+      "name": "Arms Arms",
+      "url": "https://open.spotify.com/track/3TINEvafFDtmsnqIvhewLa"
+    },
+    {
+      "added_at": "2024-02-23 11:03:43",
       "album": {
         "name": "Dahill Road",
         "url": "https://open.spotify.com/album/1J3Um9qVAVl0xQd1LBYNwZ"
@@ -125,31 +185,7 @@
       "url": "https://open.spotify.com/track/4UMscCyJiimMbU2DAQTPxP"
     },
     {
-      "added_at": "2024-02-16 07:41:12",
-      "album": {
-        "name": "Immediate Music III",
-        "url": "https://open.spotify.com/album/3PbWOybkoW961JGiiAQ2dL"
-      },
-      "artists": [
-        {
-          "name": "Olavi Louhivuori",
-          "url": "https://open.spotify.com/artist/7MsLyr0nCXGN6OGoZgZqrT"
-        },
-        {
-          "name": "Glenn Kotche",
-          "url": "https://open.spotify.com/artist/6upBn4tokWBDF9diqbYJZs"
-        },
-        {
-          "name": "Tony Buck",
-          "url": "https://open.spotify.com/artist/0WtwD9JqeJuof5S3K3FacF"
-        }
-      ],
-      "duration_ms": 903640,
-      "name": "Immediate Music III, Pt. 1",
-      "url": "https://open.spotify.com/track/3Colc6EQG6wIDpCxUlXmZY"
-    },
-    {
-      "added_at": "2024-02-16 07:41:12",
+      "added_at": "2024-02-23 11:03:43",
       "album": {
         "name": "Post Koma",
         "url": "https://open.spotify.com/album/0Kg10FOiXQVIsBAoMRhzLh"
@@ -169,7 +205,23 @@
       "url": "https://open.spotify.com/track/6fpFP1SiA0gkMA2GoBI6lL"
     },
     {
-      "added_at": "2024-02-16 07:41:12",
+      "added_at": "2024-02-23 11:03:43",
+      "album": {
+        "name": "tiet\u00e4isit vaan",
+        "url": "https://open.spotify.com/album/4879ibzCLZ2gC87CwfKKCB"
+      },
+      "artists": [
+        {
+          "name": "touko",
+          "url": "https://open.spotify.com/artist/2COU1tbZyozjUeGWBc1zn9"
+        }
+      ],
+      "duration_ms": 252826,
+      "name": "tiet\u00e4isit vaan",
+      "url": "https://open.spotify.com/track/5X9L245qdalFinGKzfIb1C"
+    },
+    {
+      "added_at": "2024-02-23 11:03:43",
       "album": {
         "name": "Sarastus",
         "url": "https://open.spotify.com/album/6hbjTPbV4MnKb6sEGSUslh"
@@ -189,7 +241,39 @@
       "url": "https://open.spotify.com/track/2uccLjy3HwrWgRiUSIclLB"
     },
     {
-      "added_at": "2024-02-16 07:41:12",
+      "added_at": "2024-02-23 11:03:43",
+      "album": {
+        "name": "Next Morning",
+        "url": "https://open.spotify.com/album/6SYu2Unf3DNAS8AVhqETcG"
+      },
+      "artists": [
+        {
+          "name": "Pasilians",
+          "url": "https://open.spotify.com/artist/7zSpcpgQ6nuYkUprUyKPuF"
+        },
+        {
+          "name": "Sami Leponiemi",
+          "url": "https://open.spotify.com/artist/5B0mj0AddmNVtt03xhfNJa"
+        },
+        {
+          "name": "Peter Gyarfas",
+          "url": "https://open.spotify.com/artist/71JSIhDvAIyoDOIRjffcZq"
+        },
+        {
+          "name": "Nathan Francis",
+          "url": "https://open.spotify.com/artist/4dB51YWbPAWssQkEe9DiUc"
+        },
+        {
+          "name": "Aleksi Heinola",
+          "url": "https://open.spotify.com/artist/5YghcykRpkLlLQYJgIQHh2"
+        }
+      ],
+      "duration_ms": 329474,
+      "name": "Next Morning",
+      "url": "https://open.spotify.com/track/3QKLMZS4ILTPeYYOe9RuUH"
+    },
+    {
+      "added_at": "2024-02-23 11:03:43",
       "album": {
         "name": "Cold Springs",
         "url": "https://open.spotify.com/album/1TVpqDyN81M4VZTZZDC2cY"
@@ -209,7 +293,27 @@
       "url": "https://open.spotify.com/track/7c3tADXsEF2hHNLMQ9bWAs"
     },
     {
-      "added_at": "2024-02-16 07:41:12",
+      "added_at": "2024-02-23 11:03:43",
+      "album": {
+        "name": "Runoja rauhalle (Poems for Peace)",
+        "url": "https://open.spotify.com/album/1xxwZokHP27IAA1y0EbvnK"
+      },
+      "artists": [
+        {
+          "name": "Joakim Bergh\u00e4ll",
+          "url": "https://open.spotify.com/artist/6WflLUp4wE1JvcKmIdmg9O"
+        },
+        {
+          "name": "Adele Sauros",
+          "url": "https://open.spotify.com/artist/58tRYc5aVpaZl6PmnRusI3"
+        }
+      ],
+      "duration_ms": 229867,
+      "name": "Two Kids A Day",
+      "url": "https://open.spotify.com/track/0Y6ydDHos0BlEofX7AX93O"
+    },
+    {
+      "added_at": "2024-02-23 11:03:43",
       "album": {
         "name": "Eir",
         "url": "https://open.spotify.com/album/0eNjznsErSmBEn2Iq8Q9Fu"
@@ -225,7 +329,7 @@
       "url": "https://open.spotify.com/track/0sUahCQC99u2oydAwo1OtW"
     },
     {
-      "added_at": "2024-02-16 07:41:12",
+      "added_at": "2024-02-23 11:03:43",
       "album": {
         "name": "Stolen Dreams & Loves at Night",
         "url": "https://open.spotify.com/album/1ZbihIzqPXkSaaCilopZZE"
@@ -241,7 +345,7 @@
       "url": "https://open.spotify.com/track/6R5v6ai4LwMHzlBFXG7zwb"
     },
     {
-      "added_at": "2024-02-16 07:41:12",
+      "added_at": "2024-02-23 11:03:43",
       "album": {
         "name": "Pious Monk",
         "url": "https://open.spotify.com/album/0xBExVX6he0vuS73oSdqRd"
@@ -273,7 +377,7 @@
       "url": "https://open.spotify.com/track/3Hgl3ED7hqHxgJMMSvPxXl"
     },
     {
-      "added_at": "2024-02-16 07:41:12",
+      "added_at": "2024-02-23 11:03:43",
       "album": {
         "name": "Two Shadows of You",
         "url": "https://open.spotify.com/album/4zUjsY7rKNOMdqcQKt2e7W"
@@ -289,7 +393,7 @@
       "url": "https://open.spotify.com/track/2zobyQH3iCld0ZOVpibSXt"
     },
     {
-      "added_at": "2024-02-16 07:41:12",
+      "added_at": "2024-02-23 11:03:43",
       "album": {
         "name": "Earthbeat",
         "url": "https://open.spotify.com/album/1fowrT0sKZSEHUALZZU7PO"
@@ -305,7 +409,7 @@
       "url": "https://open.spotify.com/track/74ZDuZ6IzMjxJz7Gq72WC4"
     },
     {
-      "added_at": "2024-02-16 07:41:12",
+      "added_at": "2024-02-23 11:03:43",
       "album": {
         "name": "Cross The Line",
         "url": "https://open.spotify.com/album/4niGj2NO2LC8DGOB7c33L4"
@@ -321,7 +425,27 @@
       "url": "https://open.spotify.com/track/2LCbdDcsz1sZExRYD4uQof"
     },
     {
-      "added_at": "2024-02-16 07:41:12",
+      "added_at": "2024-02-23 11:03:43",
+      "album": {
+        "name": "The Duke of Bayou",
+        "url": "https://open.spotify.com/album/5eb2GnP63LvtYiC8MIh42g"
+      },
+      "artists": [
+        {
+          "name": "Timo Lassy",
+          "url": "https://open.spotify.com/artist/12DkoR4cqoY6osVYHmsrAq"
+        },
+        {
+          "name": "Jukka Eskola",
+          "url": "https://open.spotify.com/artist/1XkMHQpWReEHMCLatUl0St"
+        }
+      ],
+      "duration_ms": 229520,
+      "name": "The Duke of Bayou",
+      "url": "https://open.spotify.com/track/3TbvOOIibIxHFJY3yOAC7b"
+    },
+    {
+      "added_at": "2024-02-23 11:03:43",
       "album": {
         "name": "Welcome Our Future",
         "url": "https://open.spotify.com/album/6bSvq46jgueYOXbrjjggs2"
@@ -341,27 +465,7 @@
       "url": "https://open.spotify.com/track/2Km22hqTP1oCagWeUhKSVr"
     },
     {
-      "added_at": "2024-02-16 07:41:12",
-      "album": {
-        "name": "Cross-Atlantic Connection",
-        "url": "https://open.spotify.com/album/3Drx9aUm2Oerolurx12WBr"
-      },
-      "artists": [
-        {
-          "name": "Timo Lassy",
-          "url": "https://open.spotify.com/artist/12DkoR4cqoY6osVYHmsrAq"
-        },
-        {
-          "name": "Jukka Eskola",
-          "url": "https://open.spotify.com/artist/1XkMHQpWReEHMCLatUl0St"
-        }
-      ],
-      "duration_ms": 358946,
-      "name": "Cross-Atlantic Connection",
-      "url": "https://open.spotify.com/track/7jkmwQVtug8tB9RzPMY6pH"
-    },
-    {
-      "added_at": "2024-02-16 07:41:12",
+      "added_at": "2024-02-23 11:03:43",
       "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/7gLj2PGSv6VvhiqCTug202"
@@ -377,7 +481,7 @@
       "url": "https://open.spotify.com/track/7CCG8gLLLCkbbafhsAPRes"
     },
     {
-      "added_at": "2024-02-16 07:41:12",
+      "added_at": "2024-02-23 11:03:43",
       "album": {
         "name": "Jazz Cats",
         "url": "https://open.spotify.com/album/4Hk6zrdl6KikUjtvusKenR"
@@ -393,7 +497,7 @@
       "url": "https://open.spotify.com/track/5hsjBC5Br4GTfCyvEuwTw9"
     },
     {
-      "added_at": "2024-02-16 07:41:12",
+      "added_at": "2024-02-23 11:03:43",
       "album": {
         "name": "Y\u00f6 Kaivopuistossa",
         "url": "https://open.spotify.com/album/02g76ffVx121FMO2PQjZ7h"
@@ -409,7 +513,7 @@
       "url": "https://open.spotify.com/track/1XvrA1Eg7ysuFDoSG4gdwI"
     },
     {
-      "added_at": "2024-02-16 07:41:12",
+      "added_at": "2024-02-23 11:03:43",
       "album": {
         "name": "Try Again",
         "url": "https://open.spotify.com/album/7Js6Q1TX5YB7PTvhgnPtKC"
@@ -425,7 +529,7 @@
       "url": "https://open.spotify.com/track/3mRP9loGOgziATfqC21ipN"
     },
     {
-      "added_at": "2024-02-16 07:41:12",
+      "added_at": "2024-02-23 11:03:43",
       "album": {
         "name": "Flores",
         "url": "https://open.spotify.com/album/0YaGa6g2ntjSlBqfYb580T"
@@ -461,7 +565,7 @@
       "url": "https://open.spotify.com/track/11og6Mc6Zrz6mDULVTYppk"
     },
     {
-      "added_at": "2024-02-16 07:41:12",
+      "added_at": "2024-02-23 11:03:43",
       "album": {
         "name": "Waiting That Life",
         "url": "https://open.spotify.com/album/1bZ6a3FMyCqgaQ9PiqlHbg"
@@ -489,7 +593,7 @@
       "url": "https://open.spotify.com/track/0n4a21KErDwuqOPHCanu6u"
     },
     {
-      "added_at": "2024-02-16 07:41:12",
+      "added_at": "2024-02-23 11:03:43",
       "album": {
         "name": "Viile\u00e4ss\u00e4 virrassa",
         "url": "https://open.spotify.com/album/4XVYgJbW4PstuNlOw9cH6k"
@@ -509,7 +613,7 @@
       "url": "https://open.spotify.com/track/6x7mh47gjmjznDKPzlcPcM"
     },
     {
-      "added_at": "2024-02-16 07:41:12",
+      "added_at": "2024-02-23 11:03:43",
       "album": {
         "name": "Collective Awareness",
         "url": "https://open.spotify.com/album/5s95lm3vSea3jSw2tRQGIf"
@@ -525,27 +629,7 @@
       "url": "https://open.spotify.com/track/4tmUIDjEgDYpeJdB64shy8"
     },
     {
-      "added_at": "2024-02-16 07:41:12",
-      "album": {
-        "name": "E and Two M's",
-        "url": "https://open.spotify.com/album/5iJfpGT3i1R8QmZy8RoUDc"
-      },
-      "artists": [
-        {
-          "name": "Timo Lassy",
-          "url": "https://open.spotify.com/artist/12DkoR4cqoY6osVYHmsrAq"
-        },
-        {
-          "name": "Jukka Eskola",
-          "url": "https://open.spotify.com/artist/1XkMHQpWReEHMCLatUl0St"
-        }
-      ],
-      "duration_ms": 341600,
-      "name": "E and Two M's",
-      "url": "https://open.spotify.com/track/3ZF0G9dITv2X9JxiAqkgbE"
-    },
-    {
-      "added_at": "2024-02-16 07:41:12",
+      "added_at": "2024-02-23 11:03:43",
       "album": {
         "name": "New Trio",
         "url": "https://open.spotify.com/album/59puCqIkLQKOoIch2vUwTB"
@@ -569,7 +653,7 @@
       "url": "https://open.spotify.com/track/1hsPPlUwPFJEsSiaUwv6uz"
     },
     {
-      "added_at": "2024-02-16 07:41:12",
+      "added_at": "2024-02-23 11:03:43",
       "album": {
         "name": "Wilson",
         "url": "https://open.spotify.com/album/6Y0TefAiE6FaPNlWifCPLG"
@@ -593,7 +677,7 @@
       "url": "https://open.spotify.com/track/4ETnbB4bCsQPymb7g6ATdg"
     },
     {
-      "added_at": "2024-02-16 07:41:12",
+      "added_at": "2024-02-23 11:03:43",
       "album": {
         "name": "Mosaic",
         "url": "https://open.spotify.com/album/4qPs6JHFEaltnYSsvMO5qI"
@@ -609,27 +693,7 @@
       "url": "https://open.spotify.com/track/6toNcJv5LE65OGYbE4pwUz"
     },
     {
-      "added_at": "2024-02-16 07:41:12",
-      "album": {
-        "name": "Long Walk",
-        "url": "https://open.spotify.com/album/2Ho846LuSN0tiZagCKmBGS"
-      },
-      "artists": [
-        {
-          "name": "Timo Lassy",
-          "url": "https://open.spotify.com/artist/12DkoR4cqoY6osVYHmsrAq"
-        },
-        {
-          "name": "Jukka Eskola",
-          "url": "https://open.spotify.com/artist/1XkMHQpWReEHMCLatUl0St"
-        }
-      ],
-      "duration_ms": 271840,
-      "name": "Long Walk",
-      "url": "https://open.spotify.com/track/0a2FbI03OXqueoEoVI5vdJ"
-    },
-    {
-      "added_at": "2024-02-16 07:41:12",
+      "added_at": "2024-02-23 11:03:43",
       "album": {
         "name": "Maa",
         "url": "https://open.spotify.com/album/7DkhE0ZX2WlFfJjUK4WDrA"
@@ -645,7 +709,7 @@
       "url": "https://open.spotify.com/track/3d9EeEFR1nMnzjZZpLKiwH"
     },
     {
-      "added_at": "2024-02-16 07:41:12",
+      "added_at": "2024-02-23 11:03:43",
       "album": {
         "name": "When Leaving It",
         "url": "https://open.spotify.com/album/2WvuAD6yfMXKwZ7W4dKqA9"
@@ -669,7 +733,7 @@
       "url": "https://open.spotify.com/track/0br6wYAgcRZZ09gpWAVo2k"
     },
     {
-      "added_at": "2024-02-16 07:41:12",
+      "added_at": "2024-02-23 11:03:43",
       "album": {
         "name": "Circus/Citadel",
         "url": "https://open.spotify.com/album/7KRl0DZ6VvxGisL4x2qJEF"
@@ -701,7 +765,7 @@
       "url": "https://open.spotify.com/track/35zjnluB33xZytg09SnG2I"
     },
     {
-      "added_at": "2024-02-16 07:41:12",
+      "added_at": "2024-02-23 11:03:43",
       "album": {
         "name": "Matka",
         "url": "https://open.spotify.com/album/3SQeJqqtmhPYfd3OCB6mUY"
@@ -717,7 +781,7 @@
       "url": "https://open.spotify.com/track/1oQGPJopKpQ8amfXDfE37W"
     },
     {
-      "added_at": "2024-02-16 07:41:12",
+      "added_at": "2024-02-23 11:03:43",
       "album": {
         "name": "Duktus",
         "url": "https://open.spotify.com/album/1KbvXsQv1uWMF0eZyRhHA8"
@@ -733,7 +797,7 @@
       "url": "https://open.spotify.com/track/2bLLd8tlZVAhMqko7pdq0D"
     },
     {
-      "added_at": "2024-02-16 07:41:12",
+      "added_at": "2024-02-23 11:03:43",
       "album": {
         "name": "The Complete Loft Sessions",
         "url": "https://open.spotify.com/album/76OAO96nHjX9b2zSwYa0pE"
@@ -749,7 +813,7 @@
       "url": "https://open.spotify.com/track/6szbDS2fOgav2PnB9fizou"
     },
     {
-      "added_at": "2024-02-16 07:41:12",
+      "added_at": "2024-02-23 11:03:43",
       "album": {
         "name": "Kalkstrand",
         "url": "https://open.spotify.com/album/1BT07FuAnU1jwz5hKRmCET"
@@ -769,7 +833,7 @@
       "url": "https://open.spotify.com/track/2iQEWvAGEddRmFKl4y8UsJ"
     },
     {
-      "added_at": "2024-02-16 07:41:12",
+      "added_at": "2024-02-23 11:03:43",
       "album": {
         "name": "El Morisco Y La Bruja De Nagu",
         "url": "https://open.spotify.com/album/3dNeieN0u6HyKRqHgrlfKZ"
@@ -789,7 +853,7 @@
       "url": "https://open.spotify.com/track/1VLMDCuL82INgb6EnS7wVf"
     },
     {
-      "added_at": "2024-02-16 07:41:12",
+      "added_at": "2024-02-23 11:03:43",
       "album": {
         "name": "Pilkun paikka",
         "url": "https://open.spotify.com/album/0iGEN3CCuIRI3G5aosO1YO"
@@ -805,7 +869,7 @@
       "url": "https://open.spotify.com/track/0rlKeYldBS2IqO3oulrcdK"
     },
     {
-      "added_at": "2024-02-16 07:41:12",
+      "added_at": "2024-02-23 11:03:43",
       "album": {
         "name": "For Toninho",
         "url": "https://open.spotify.com/album/55bZqTk45ivqPKEb0chRgH"
@@ -829,7 +893,7 @@
       "url": "https://open.spotify.com/track/2Km571vTelCM5vTl5e51Ef"
     },
     {
-      "added_at": "2024-02-16 07:41:12",
+      "added_at": "2024-02-23 11:03:43",
       "album": {
         "name": "Lester the Jester",
         "url": "https://open.spotify.com/album/236Ar5nslcai0M3psMBCQr"
@@ -845,7 +909,7 @@
       "url": "https://open.spotify.com/track/2XxZiXSdjToe4op5r6Kmce"
     },
     {
-      "added_at": "2024-02-16 07:41:12",
+      "added_at": "2024-02-23 11:03:43",
       "album": {
         "name": "Turn Again Hourglass",
         "url": "https://open.spotify.com/album/5TNB6VrYqAFwWcIuez679C"
@@ -861,7 +925,7 @@
       "url": "https://open.spotify.com/track/56DziRNCM7W4oerJ0uuAG6"
     },
     {
-      "added_at": "2024-02-16 07:41:12",
+      "added_at": "2024-02-23 11:03:43",
       "album": {
         "name": "L\u00fana",
         "url": "https://open.spotify.com/album/7v01TkwxSOPqD4luG6HehL"
@@ -889,7 +953,7 @@
       "url": "https://open.spotify.com/track/52zmgBTqsl1riy73iSrGag"
     },
     {
-      "added_at": "2024-02-16 07:41:12",
+      "added_at": "2024-02-23 11:03:43",
       "album": {
         "name": "The Mortal Lease",
         "url": "https://open.spotify.com/album/0UkwuNUpeHUoqoYVuUHvkS"
@@ -921,7 +985,7 @@
       "url": "https://open.spotify.com/track/0wTpJvzSYYdDMLmTF4AN9W"
     },
     {
-      "added_at": "2024-02-16 07:41:12",
+      "added_at": "2024-02-23 11:03:43",
       "album": {
         "name": "Monkey Mind",
         "url": "https://open.spotify.com/album/3rwh0JR9Y8UYoEJi8U7ulO"
@@ -937,7 +1001,7 @@
       "url": "https://open.spotify.com/track/0U8dPLAIsUIWK5Aty2jByw"
     },
     {
-      "added_at": "2024-02-16 07:41:12",
+      "added_at": "2024-02-23 11:03:43",
       "album": {
         "name": "Big Push",
         "url": "https://open.spotify.com/album/0trbA2SbGyvjpGim97zxfe"
@@ -953,7 +1017,7 @@
       "url": "https://open.spotify.com/track/4igcQEY87rKolBPqiWZKvs"
     },
     {
-      "added_at": "2024-02-16 07:41:12",
+      "added_at": "2024-02-23 11:03:43",
       "album": {
         "name": "Horros",
         "url": "https://open.spotify.com/album/7KUmdgjZxB8wvZKwAgKePs"
@@ -969,7 +1033,7 @@
       "url": "https://open.spotify.com/track/61rFTzOs4B62gXv9HCK8x8"
     },
     {
-      "added_at": "2024-02-16 07:41:12",
+      "added_at": "2024-02-23 11:03:43",
       "album": {
         "name": "Valkoinen hevonen",
         "url": "https://open.spotify.com/album/3QYbmO7p0T1eIIHo2n6ZLP"
@@ -989,7 +1053,7 @@
       "url": "https://open.spotify.com/track/7xkSKRKEjSBo306GBzhO8Y"
     },
     {
-      "added_at": "2024-02-16 07:41:12",
+      "added_at": "2024-02-23 11:03:43",
       "album": {
         "name": "Kullankaivaja",
         "url": "https://open.spotify.com/album/512ObtUfgxYWN5pAqgK572"
@@ -1005,7 +1069,7 @@
       "url": "https://open.spotify.com/track/0SW6Bq46YRsVDzn3MtXc1u"
     },
     {
-      "added_at": "2024-02-16 07:41:12",
+      "added_at": "2024-02-23 11:03:43",
       "album": {
         "name": "Hustoi",
         "url": "https://open.spotify.com/album/3cKJHD8OgLeYnQJpW355SO"
@@ -1021,7 +1085,7 @@
       "url": "https://open.spotify.com/track/5DIox0mCNo1bzbCWrOwZ8f"
     },
     {
-      "added_at": "2024-02-16 07:41:12",
+      "added_at": "2024-02-23 11:03:43",
       "album": {
         "name": "Cold War 3.0",
         "url": "https://open.spotify.com/album/16sTWBr07KUeJl1kooiP6t"
@@ -1041,7 +1105,7 @@
       "url": "https://open.spotify.com/track/2GYAwQ6AAod12gYOEmgme4"
     },
     {
-      "added_at": "2024-02-16 07:41:12",
+      "added_at": "2024-02-23 11:03:43",
       "album": {
         "name": "Three Dots And A Dash",
         "url": "https://open.spotify.com/album/12ESJsQWfDMtkPak2o5b5z"
@@ -1061,7 +1125,7 @@
       "url": "https://open.spotify.com/track/28eRQiRTyHjVBatDBx5HTN"
     },
     {
-      "added_at": "2024-02-16 07:41:12",
+      "added_at": "2024-02-23 11:03:43",
       "album": {
         "name": "Avanto",
         "url": "https://open.spotify.com/album/7mlcm953YiLSKkF39a0V6n"
@@ -1077,7 +1141,7 @@
       "url": "https://open.spotify.com/track/5LyLPzWnFNxv42Hwi3ARph"
     },
     {
-      "added_at": "2024-02-16 07:41:12",
+      "added_at": "2024-02-23 11:03:43",
       "album": {
         "name": "Horror Vacui",
         "url": "https://open.spotify.com/album/4NvSV7hcWuNEVKLjrsLZjC"
@@ -1093,7 +1157,7 @@
       "url": "https://open.spotify.com/track/10hgrMwVYsuM7WzoeZFhU7"
     },
     {
-      "added_at": "2024-02-16 07:41:12",
+      "added_at": "2024-02-23 11:03:43",
       "album": {
         "name": "Siskolle",
         "url": "https://open.spotify.com/album/6R9scIfEiM51YThGUw1zue"
@@ -1121,7 +1185,7 @@
       "url": "https://open.spotify.com/track/1MZFxoyX9Ya7Dp2gduP61z"
     },
     {
-      "added_at": "2024-02-16 07:41:12",
+      "added_at": "2024-02-23 11:03:43",
       "album": {
         "name": "Something About Us",
         "url": "https://open.spotify.com/album/1TboFMYUz8WDPJYIbMpRsW"
@@ -1137,7 +1201,7 @@
       "url": "https://open.spotify.com/track/4LFzdxh0KGkjfZlFeRSsoG"
     },
     {
-      "added_at": "2024-02-16 07:41:12",
+      "added_at": "2024-02-23 11:03:43",
       "album": {
         "name": "Ultralum",
         "url": "https://open.spotify.com/album/6rF08IvdvgQymJVPQ8f9Cb"
@@ -1165,7 +1229,7 @@
       "url": "https://open.spotify.com/track/21fpqfJHEbFfndoFzCBAz0"
     },
     {
-      "added_at": "2024-02-16 07:41:12",
+      "added_at": "2024-02-23 11:03:43",
       "album": {
         "name": "Duke",
         "url": "https://open.spotify.com/album/5Ypwfjq7GbjGHXYiKeLxeN"
@@ -1181,7 +1245,7 @@
       "url": "https://open.spotify.com/track/412Ze3X4P5Bndx4XnWAJwG"
     },
     {
-      "added_at": "2024-02-16 07:41:12",
+      "added_at": "2024-02-23 11:03:43",
       "album": {
         "name": "James Joyce",
         "url": "https://open.spotify.com/album/7ysu4h0ASdqVhNl7GlLmxP"
@@ -1197,7 +1261,7 @@
       "url": "https://open.spotify.com/track/3dKu05TTOPTIynjKJPPGHd"
     },
     {
-      "added_at": "2024-02-16 07:41:12",
+      "added_at": "2024-02-23 11:03:43",
       "album": {
         "name": "Flame",
         "url": "https://open.spotify.com/album/0nut26etVcSuXsuHhMYHqc"
@@ -1213,7 +1277,7 @@
       "url": "https://open.spotify.com/track/4r0L6EqxsSsVAYU0vZmGcx"
     },
     {
-      "added_at": "2024-02-16 07:41:12",
+      "added_at": "2024-02-23 11:03:43",
       "album": {
         "name": "Kev\u00e4t",
         "url": "https://open.spotify.com/album/1Us0cdS58DFuVqItyz2LpM"
@@ -1229,7 +1293,7 @@
       "url": "https://open.spotify.com/track/3rWFDscuVW07OAnF2prqeR"
     },
     {
-      "added_at": "2024-02-16 07:41:12",
+      "added_at": "2024-02-23 11:03:43",
       "album": {
         "name": "Songs From Suspended Times",
         "url": "https://open.spotify.com/album/1yrS6PV6y0ke5h1hqjbg7D"
@@ -1245,7 +1309,7 @@
       "url": "https://open.spotify.com/track/22JUahfpObguJJ71Pool8M"
     },
     {
-      "added_at": "2024-02-16 07:41:12",
+      "added_at": "2024-02-23 11:03:43",
       "album": {
         "name": "Time's Up",
         "url": "https://open.spotify.com/album/1YWqNNUthr7skfCHUpHv4P"
@@ -1265,7 +1329,7 @@
       "url": "https://open.spotify.com/track/4bgK6O1AkJFTzYHntUnidF"
     },
     {
-      "added_at": "2024-02-16 07:41:12",
+      "added_at": "2024-02-23 11:03:43",
       "album": {
         "name": "Pedro's Dream",
         "url": "https://open.spotify.com/album/5f0bPe67qzTpt5wDTIx9Ld"
@@ -1293,7 +1357,7 @@
       "url": "https://open.spotify.com/track/7aEFckazRHgF1NkdWlXn4N"
     },
     {
-      "added_at": "2024-02-16 07:41:12",
+      "added_at": "2024-02-23 11:03:43",
       "album": {
         "name": "Made in Finland",
         "url": "https://open.spotify.com/album/49Fi3MgqfxOr16AnpIa9M7"
@@ -1313,7 +1377,7 @@
       "url": "https://open.spotify.com/track/3tshGD2GGqWYPPnB5L9DL7"
     },
     {
-      "added_at": "2024-02-16 07:41:12",
+      "added_at": "2024-02-23 11:03:43",
       "album": {
         "name": "Constellations",
         "url": "https://open.spotify.com/album/3PWjcHNKxKXs2uGGOCRVqO"
@@ -1329,7 +1393,7 @@
       "url": "https://open.spotify.com/track/4mPtjZ3GTE6vrjo20YcQ2b"
     },
     {
-      "added_at": "2024-02-16 07:41:12",
+      "added_at": "2024-02-23 11:03:43",
       "album": {
         "name": "Diversity",
         "url": "https://open.spotify.com/album/2Z8qjhaLu9SYLtt7YuKNgD"
@@ -1345,7 +1409,7 @@
       "url": "https://open.spotify.com/track/5MaNwKdorJTKEMzKr4cL3i"
     },
     {
-      "added_at": "2024-02-16 07:41:12",
+      "added_at": "2024-02-23 11:03:43",
       "album": {
         "name": "My Finnish Soul",
         "url": "https://open.spotify.com/album/6qiOxwnfwtnuVBgwU9NR9l"
@@ -1361,7 +1425,7 @@
       "url": "https://open.spotify.com/track/40YB7af2XRxHzO8AYThAnQ"
     },
     {
-      "added_at": "2024-02-16 07:41:12",
+      "added_at": "2024-02-23 11:03:43",
       "album": {
         "name": "Agatha 2",
         "url": "https://open.spotify.com/album/08nktqg0coNXQJK1xjBiuj"
@@ -1385,7 +1449,7 @@
       "url": "https://open.spotify.com/track/3NI3SPBGKE1rOzIm28ory0"
     },
     {
-      "added_at": "2024-02-16 07:41:12",
+      "added_at": "2024-02-23 11:03:43",
       "album": {
         "name": "Trial by Fire",
         "url": "https://open.spotify.com/album/4cF52bdDIreABU7AeK41yK"
@@ -1401,7 +1465,7 @@
       "url": "https://open.spotify.com/track/37aSF6UCYfvPEXdCjHLvKY"
     },
     {
-      "added_at": "2024-02-16 07:41:12",
+      "added_at": "2024-02-23 11:03:43",
       "album": {
         "name": "Ask Me Now",
         "url": "https://open.spotify.com/album/0DBEAQOu9OhVK4BUE3tiJf"
@@ -1417,7 +1481,7 @@
       "url": "https://open.spotify.com/track/1JRBmuvgDW9rcoJst2oJre"
     },
     {
-      "added_at": "2024-02-16 07:41:12",
+      "added_at": "2024-02-23 11:03:43",
       "album": {
         "name": "In Belgium 1967",
         "url": "https://open.spotify.com/album/4aakvcLyo3hy75L2R2w5jp"
@@ -1433,7 +1497,7 @@
       "url": "https://open.spotify.com/track/1LFUykhSDCqcmpDzs0WpvH"
     },
     {
-      "added_at": "2024-02-16 07:41:12",
+      "added_at": "2024-02-23 11:03:43",
       "album": {
         "name": "Rag",
         "url": "https://open.spotify.com/album/7mgH9Xu4xGvMaizxeTUeSf"

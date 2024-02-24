@@ -4,7 +4,7 @@
 
 > The future of African Indie and Alternative\. Cover: Muzi
 
-127 songs - 6 hr 28 min
+128 songs - 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [GO WITH GUT](https://open.spotify.com/track/7mRFGJZ5TUuNbOALh3tDwV) | [KABEAUSHÉ](https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj) | [GO WITH GUT](https://open.spotify.com/album/01Xj382BlVU0Jlcd46b4ra) | 3:20 | 2023-09-21 |  |
 | [Goddess](https://open.spotify.com/track/0HfF5OJzi9b2wOkRefDCzr) | [Espacio Dios](https://open.spotify.com/artist/030q9tYMZs82CHR8DV9Fid) | [Goddess](https://open.spotify.com/album/4l3Pg8zLXgDcAy9Wg6KSFM) | 3:30 | 2024-02-15 |  |
 | [Heartbeat](https://open.spotify.com/track/2CgftIycIHQ1fp5QGUD3NM) | [Kileza](https://open.spotify.com/artist/12ypK1yfRvOPCvB8qpCIAg) | [Heartbeat](https://open.spotify.com/album/2MLMkg33gAHRjwHDRvw2Cn) | 3:06 | 2023-03-31 | 2023-04-28 |
+| [Heleru](https://open.spotify.com/track/4gQYDOOcZwQgH1pSxaYQS6) | [Morena Leraba](https://open.spotify.com/artist/2aUErDeR4aoZDvy9ZYMhzO), [Vox Portent](https://open.spotify.com/artist/1aliUUkYhdgF8MF7o516tC) | [Heleru \(Vox Portent Remix\)](https://open.spotify.com/album/4qA6LlsvSQHmImEa9DCKBL) | 4:15 | 2024-02-23 |  |
 | [Hello Lady](https://open.spotify.com/track/4zqe6jCp2UmN8OVOgSt9U2) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [Hello Lady](https://open.spotify.com/album/2IJt9NcgSGvdj37aQ9XsCD) | 3:25 | 2023-03-30 | 2023-05-06 |
 | [Hey! \- A COLORS SHOW](https://open.spotify.com/track/7LDMiQocR2DFVu12nG2TKP) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd), [Tera Kòrá](https://open.spotify.com/artist/29oWM4DINZdTGRS0xKihHR) | [Hey! \- A COLORS SHOW](https://open.spotify.com/album/6ChwUKdWh13psgCZEY3NCN) | 2:37 | 2023-03-30 | 2023-04-21 |
 | [HURTING](https://open.spotify.com/track/3V2qkG0MbPwwMHUJNsxcuR) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [HURTING](https://open.spotify.com/album/4xpvcoxHFtD7JjRs0FyJ42) | 2:38 | 2023-05-25 |  |

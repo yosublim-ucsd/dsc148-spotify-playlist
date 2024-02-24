@@ -1,7 +1,7 @@
 {
-  "2024-02-23": 27634,
+  "2024-02-24": 27977,
   "date_first_scraped": "2023-02-04",
-  "description": "Music for when you've got your Jesus on and your swag up . \nCover: <a href=\"https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j?si=l5qQ01tYSp6wjgyiKBUVGA\">Holy Drill</a> ",
+  "description": "Music for when you've got your Jesus on and your swag up . \nCover: <a href=\"https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9?si=J20_p-gDR-OCHiFo6xO8Fw\">Marizu</a> ",
   "name": "Youth Service",
   "tracks": [
     {
@@ -103,6 +103,32 @@
       "duration_ms": 189026,
       "name": "247",
       "url": "https://open.spotify.com/track/0Q7bUZezJYEf74LfJ391w8"
+    },
+    {
+      "album": {
+        "name": "A Good Night",
+        "url": "https://open.spotify.com/album/72duXRZWMjSSTWeegomX6m"
+      },
+      "artists": [
+        {
+          "name": "Peter Bishut",
+          "url": "https://open.spotify.com/artist/10NHAEuLyuKOOETSgDfEVu"
+        },
+        {
+          "name": "Ur Flames",
+          "url": "https://open.spotify.com/artist/47DUzSmetavSyS5Ukxt9lR"
+        },
+        {
+          "name": "ELI-J",
+          "url": "https://open.spotify.com/artist/6iwUw4yXwoW4ULEb2izFqV"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196744,
+      "name": "A Good Night",
+      "url": "https://open.spotify.com/track/5CsaayPJ1IXb6hMvU4aQhJ"
     },
     {
       "album": {
@@ -1283,7 +1309,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 214872,
       "name": "Blessings (feat. Tasha Cobbs Leonard)",
       "url": "https://open.spotify.com/track/0USJzZsIiPDbr6ZXgXik7B"
@@ -1313,6 +1339,50 @@
       "duration_ms": 196725,
       "name": "Blessings (feat. Wizkid & Gimba)",
       "url": "https://open.spotify.com/track/1ALcYeD6JELUFLL3obyUDt"
+    },
+    {
+      "album": {
+        "name": "Blow My Mind",
+        "url": "https://open.spotify.com/album/54Kx9glG1kj3iH8mmqgDFl"
+      },
+      "artists": [
+        {
+          "name": "Amichael Genre",
+          "url": "https://open.spotify.com/artist/7H7H3UJWKu4ZG4skm9R8MW"
+        },
+        {
+          "name": "Dj Horphuray",
+          "url": "https://open.spotify.com/artist/0VQxKhG5uvT0gIDqAuyl4L"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152520,
+      "name": "Blow My Mind",
+      "url": "https://open.spotify.com/track/10RuroVXArDIANiXftdakT"
+    },
+    {
+      "album": {
+        "name": "Bo Ta Joor",
+        "url": "https://open.spotify.com/album/4VWI6nIzR2K7kNktuaybxJ"
+      },
+      "artists": [
+        {
+          "name": "Prinx Emmanuel",
+          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
+        },
+        {
+          "name": "Pastor Emmanuel Iren",
+          "url": "https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160463,
+      "name": "Bo Ta Joor",
+      "url": "https://open.spotify.com/track/3RztRSbwhcy0LwgR6xcGNu"
     },
     {
       "album": {
@@ -1458,6 +1528,28 @@
     },
     {
       "album": {
+        "name": "By Design (Special Version)",
+        "url": "https://open.spotify.com/album/1UnPCa8col9OvdoAK0X2UX"
+      },
+      "artists": [
+        {
+          "name": "Echow Clay",
+          "url": "https://open.spotify.com/artist/6L3FtVc42qiH1J9PUtdUDu"
+        },
+        {
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "By Design - Special Version",
+      "url": "https://open.spotify.com/track/6TM4mOFIb7aWShC3teaDlr"
+    },
+    {
+      "album": {
         "name": "Call Me Blessed",
         "url": "https://open.spotify.com/album/7KCjQA1lve605tpDbqzSud"
       },
@@ -1545,7 +1637,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 192029,
       "name": "Carry me like Baby",
       "url": "https://open.spotify.com/track/2g5uy0nM9DW0JJJLefJFgJ"
@@ -1811,7 +1903,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 129802,
       "name": "Chosen",
       "url": "https://open.spotify.com/track/0yxtQVuKDXqpZRhsQCS6sV"
@@ -1927,7 +2019,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 162638,
       "name": "Comforter",
       "url": "https://open.spotify.com/track/5Ammc0BznxFdYJ9VXioZUz"
@@ -2173,7 +2265,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 122033,
       "name": "Cover Me",
       "url": "https://open.spotify.com/track/6I4UKQeC4RZtiegyiXqVxk"
@@ -2537,7 +2629,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 216352,
       "name": "Deliver Me",
       "url": "https://open.spotify.com/track/5frHrrS1f3fLccLtJNw7Xv"
@@ -3059,7 +3151,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 173262,
       "name": "Elijah Level (with Limoblaze)",
       "url": "https://open.spotify.com/track/1yEuEyMs30kbMfyEWlEk8h"
@@ -3249,7 +3341,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 124897,
       "name": "Ese - Remix",
       "url": "https://open.spotify.com/track/4d8HInsGGwM0rDAuicQeAB"
@@ -3788,6 +3880,36 @@
     },
     {
       "album": {
+        "name": "Flex",
+        "url": "https://open.spotify.com/album/3OQykJKmy4qjR684ZtP8FO"
+      },
+      "artists": [
+        {
+          "name": "Protek Illasheva",
+          "url": "https://open.spotify.com/artist/5E8DCdcnM0P7tHQP9CjXcP"
+        },
+        {
+          "name": "Winter Amadin",
+          "url": "https://open.spotify.com/artist/0Lg4taC1hwg9FMfyPiwuBH"
+        },
+        {
+          "name": "G-Clan",
+          "url": "https://open.spotify.com/artist/3HUVzSzGtrWgvkMMh0znY8"
+        },
+        {
+          "name": "Sam Jamz",
+          "url": "https://open.spotify.com/artist/0WVbwaQHSJrgNuAOfxmwJd"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240531,
+      "name": "Flex",
+      "url": "https://open.spotify.com/track/5TTGr68AUXXDW4oKm29oj9"
+    },
+    {
+      "album": {
         "name": "FOCUS",
         "url": "https://open.spotify.com/album/0GzUWbbrW1mpSpb2iSNhzr"
       },
@@ -3943,7 +4065,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 142733,
       "name": "For Days",
       "url": "https://open.spotify.com/track/1eAnuw6ZvT4PpI93kwZImV"
@@ -4749,7 +4871,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 100573,
       "name": "Goodmorning",
       "url": "https://open.spotify.com/track/3EXwLpshVaUyEEb4n3H9mD"
@@ -5147,7 +5269,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 162690,
       "name": "Happiness - Remix",
       "url": "https://open.spotify.com/track/7naQn2htZKNOG0pBdwxzXh"
@@ -5371,6 +5493,28 @@
       "duration_ms": 172113,
       "name": "Hold On Me",
       "url": "https://open.spotify.com/track/0iYrbOzpIwEnKeRBHlB5tH"
+    },
+    {
+      "album": {
+        "name": "Holy",
+        "url": "https://open.spotify.com/album/4bv5H8WcvwIWZCtavE9ylr"
+      },
+      "artists": [
+        {
+          "name": "Chris Heaven",
+          "url": "https://open.spotify.com/artist/0wWIHR4oX0miVq88XpVoYZ"
+        },
+        {
+          "name": "Imani",
+          "url": "https://open.spotify.com/artist/4nxuTuvnkmY0EYLe39Ycsf"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210599,
+      "name": "Holy",
+      "url": "https://open.spotify.com/track/4edGYsHaOG3PjJpyrbFdKz"
     },
     {
       "album": {
@@ -6025,7 +6169,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 164830,
       "name": "In My Heart",
       "url": "https://open.spotify.com/track/29QgRF9T4wIRYZrSRECu6e"
@@ -6083,6 +6227,32 @@
       "duration_ms": 190054,
       "name": "It Is Working",
       "url": "https://open.spotify.com/track/2McKGgsdXAjEUStKiAAG35"
+    },
+    {
+      "album": {
+        "name": "It's Gonna Be Alright",
+        "url": "https://open.spotify.com/album/3zFd56C1aejOVJ2A9zDrFM"
+      },
+      "artists": [
+        {
+          "name": "Mama Tee",
+          "url": "https://open.spotify.com/artist/3QwvzS5dtXvN4JH33k6ImA"
+        },
+        {
+          "name": "Emmanuel Awipi",
+          "url": "https://open.spotify.com/artist/6tHph8pZeu1epTkGGbShkV"
+        },
+        {
+          "name": "Emmanuel Dickson",
+          "url": "https://open.spotify.com/artist/4Eb6kUwMBySeNRQFb4kGNT"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216585,
+      "name": "It's Gonna Be Alright",
+      "url": "https://open.spotify.com/track/2x20sI1LFKcHswD03h9oJ4"
     },
     {
       "album": {
@@ -7033,7 +7203,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 195186,
       "name": "Master",
       "url": "https://open.spotify.com/track/51EDzkQIzcnJCjSlWvRIvD"
@@ -7113,7 +7283,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 237669,
       "name": "Melody",
       "url": "https://open.spotify.com/track/0QDzvCDTphXN4P0waDbWRS"
@@ -8011,7 +8181,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 189918,
       "name": "No Be Small Thing (NBST)",
       "url": "https://open.spotify.com/track/2BUTKXCwPMKgnA750CEsbK"
@@ -8421,7 +8591,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 165000,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/3vBlMC9hOso3fEEx6a7ehM"
@@ -8951,6 +9121,32 @@
       "duration_ms": 370792,
       "name": "Owo Oluwa",
       "url": "https://open.spotify.com/track/2JKJWJyX3BbavWJ9mGCk6s"
+    },
+    {
+      "album": {
+        "name": "Oxygen",
+        "url": "https://open.spotify.com/album/6rxN1MEOw89MH0maJjeBs7"
+      },
+      "artists": [
+        {
+          "name": "Quiz Tha Great",
+          "url": "https://open.spotify.com/artist/7nFhhSgJh6V2fvLGByut8v"
+        },
+        {
+          "name": "Spillz Ochai",
+          "url": "https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q"
+        },
+        {
+          "name": "Tobi Toun",
+          "url": "https://open.spotify.com/artist/6hZdbBNTnqujBRgVzROQ22"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181053,
+      "name": "Oxygen",
+      "url": "https://open.spotify.com/track/5z03AJFP8wWeEeo5NFKeZX"
     },
     {
       "album": {
@@ -9517,7 +9713,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 119516,
       "name": "Refine Me",
       "url": "https://open.spotify.com/track/4WUliKC5cjJCFBxryBovip"
@@ -9605,7 +9801,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 170109,
       "name": "Rely",
       "url": "https://open.spotify.com/track/3A2hV47GuevKVSJy8sY1ux"
@@ -9793,7 +9989,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 187768,
       "name": "Salama",
       "url": "https://open.spotify.com/track/3Ue9FEj4cAJjv2Gq7hOZ0g"
@@ -10356,6 +10552,32 @@
     },
     {
       "album": {
+        "name": "Supa",
+        "url": "https://open.spotify.com/album/76zIo6TOf1HBewJ9Ua9hjS"
+      },
+      "artists": [
+        {
+          "name": "Sammy Sas",
+          "url": "https://open.spotify.com/artist/6Kz5VJW0MekzAD8lHckzEv"
+        },
+        {
+          "name": "Pastor Courage",
+          "url": "https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf"
+        },
+        {
+          "name": "Sydneyondabeat",
+          "url": "https://open.spotify.com/artist/60sxmdPUcrWe3VtiSx3rGo"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152450,
+      "name": "Supa",
+      "url": "https://open.spotify.com/track/0GZkn1i4yKLegfPXAjxmQw"
+    },
+    {
+      "album": {
         "name": "Grace and Glory",
         "url": "https://open.spotify.com/album/61Bj5pIRBY7vQmqAo9DQwY"
       },
@@ -10611,7 +10833,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 177011,
       "name": "Take Over",
       "url": "https://open.spotify.com/track/17M2ibLo2cqF1Mh8NWxPez"
@@ -10633,7 +10855,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 165254,
       "name": "Talk & Do",
       "url": "https://open.spotify.com/track/2PXulTyeJgq6204kpwpzVM"
@@ -10771,7 +10993,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-11",
+      "date_removed": null,
       "duration_ms": 133053,
       "name": "Thank You Lord",
       "url": "https://open.spotify.com/track/3lZqJ8lyCWUobZLJ0vIr0w"
@@ -11133,7 +11355,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 184636,
       "name": "Trusted",
       "url": "https://open.spotify.com/track/2PRebsAfb6LBVYLr5mKMlt"
@@ -11750,6 +11972,28 @@
     },
     {
       "album": {
+        "name": "Holy Impact",
+        "url": "https://open.spotify.com/album/04s7WRi21IjxJtt7dCjiQ5"
+      },
+      "artists": [
+        {
+          "name": "Reblah",
+          "url": "https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV"
+        },
+        {
+          "name": "Marizu",
+          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139897,
+      "name": "Working for My Good",
+      "url": "https://open.spotify.com/track/7IwhWWrugXAMbbcyUrj2jg"
+    },
+    {
+      "album": {
         "name": "Working In Me",
         "url": "https://open.spotify.com/album/7FJ8xTlTt5uLkZMLrIc7ZK"
       },
@@ -11791,7 +12035,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 204975,
       "name": "Worry About Nothing",
       "url": "https://open.spotify.com/track/4gEkiIg4XatM4x10HcAdMy"
@@ -12125,7 +12369,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 151640,
       "name": "You Know",
       "url": "https://open.spotify.com/track/6US0rhvD5zq5U9EZE7tvmW"

@@ -1,5 +1,5 @@
 {
-  "2024-02-23": 6129,
+  "2024-02-24": 6128,
   "date_first_scraped": "2022-05-30",
   "description": "Nh\u1eefng kh\u00fac nh\u1ea1c qu\u00ea h\u01b0\u01a1ng ng\u1ee3i ca v\u1ebb \u0111\u1eb9p Vi\u1ec7t Nam. \u1ea2nh b\u00eca: NSND B\u1ea1ch Tuy\u1ebft, Nal",
   "name": "V\u1ec1 Qu\u00ea",
@@ -1288,6 +1288,24 @@
     },
     {
       "album": {
+        "name": "Kh\u00fac T\u00ecnh Ca X\u1ee9 Hu\u1ebf",
+        "url": "https://open.spotify.com/album/4wj6B8tQp830e7ht9rVXY8"
+      },
+      "artists": [
+        {
+          "name": "B\u1ea3o Y\u1ebfn",
+          "url": "https://open.spotify.com/artist/0pOtP6jMG4IXacNYJIGTAe"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318240,
+      "name": "Ng\u01b0\u1eddi em V\u1ef9 D\u1ea1",
+      "url": "https://open.spotify.com/track/0UAbxS3lfQ1lnrq4nCI9tu"
+    },
+    {
+      "album": {
         "name": "T\u00ecnh \u0110\u1eb9p H\u1eadu Giang",
         "url": "https://open.spotify.com/album/1akqLcjS1PEOJU5mseD8lQ"
       },
@@ -1299,7 +1317,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 272579,
       "name": "Ng\u01b0\u1eddi Em V\u1ef9 D\u1ea1",
       "url": "https://open.spotify.com/track/2PEx4noRPrnRTRNjwYg7Er"
@@ -1414,6 +1432,24 @@
     },
     {
       "album": {
+        "name": "The Best Of Thanh Tuy\u1ec1n (Ng\u01b0\u1eddi M\u1eb9 B\u00e1n N\u00f3n)",
+        "url": "https://open.spotify.com/album/1l9TAIhugInsg1Mjzg3xiJ"
+      },
+      "artists": [
+        {
+          "name": "Thanh Tuy\u1ec1n",
+          "url": "https://open.spotify.com/artist/6nZLN4BFDgyIVX2xAUruED"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279727,
+      "name": "N\u1eafng \u0111\u1eb9p mi\u1ec1n nam",
+      "url": "https://open.spotify.com/track/53SCp6msi4IJt6etFhnudX"
+    },
+    {
+      "album": {
         "name": "Ph\u00fat Cu\u1ed1i - T\u00ecnh Kh\u00fac Lam Ph\u01b0\u01a1ng",
         "url": "https://open.spotify.com/album/1mGCc2IS8UvzRwhP6Fv1Y7"
       },
@@ -1429,7 +1465,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 325120,
       "name": "N\u1eafng \u0110\u1eb9p Mi\u1ec1n Nam & Kh\u00fac Ca Ng\u00e0y M\u00f9a",
       "url": "https://open.spotify.com/track/6qNtUwwISUIMjIXxP2IhvC"
@@ -1749,6 +1785,24 @@
       "duration_ms": 216206,
       "name": "Th\u01b0\u01a1ng Em G\u00e1i Mi\u1ec1n T\u00e2y",
       "url": "https://open.spotify.com/track/5GApRAjimorzbjWhhZ1Rg0"
+    },
+    {
+      "album": {
+        "name": "Th\u01b0\u01a1ng Em G\u00e1i Mi\u1ec1n T\u00e2y",
+        "url": "https://open.spotify.com/album/5mvAZpxbikP170o1snW42C"
+      },
+      "artists": [
+        {
+          "name": "H\u1ed3ng Ph\u01b0\u1ee3ng",
+          "url": "https://open.spotify.com/artist/2O3Lk4JflwHBupaHWUYDKJ"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314499,
+      "name": "Th\u01b0\u01a1ng Em G\u00e1i Mi\u1ec1n T\u00e2y",
+      "url": "https://open.spotify.com/track/4I8fZ7Olp4CtFkEaIJXF6l"
     },
     {
       "album": {
@@ -2080,6 +2134,28 @@
     },
     {
       "album": {
+        "name": "Tuy\u1ec3n T\u1eadp B\u00e0i H\u00e1t Hit C\u1ee7a \u0110o\u00e0n Minh",
+        "url": "https://open.spotify.com/album/0byvX8eQnGICDmn4sLZhWD"
+      },
+      "artists": [
+        {
+          "name": "\u0110o\u00e0n Minh",
+          "url": "https://open.spotify.com/artist/0H8DQXB1lKU8QExRbpOndQ"
+        },
+        {
+          "name": "L\u01b0u \u00c1nh Loan",
+          "url": "https://open.spotify.com/artist/4doYTYrpvNr6P7JjgTqN0V"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382857,
+      "name": "T\u00ecnh \u0110\u1eb9p H\u1eadu Giang (feat. L\u01b0u \u00c1nh Loan)",
+      "url": "https://open.spotify.com/track/6A7wX0El7vBggFvYVxac9u"
+    },
+    {
+      "album": {
         "name": "T\u1ebft H\u1ebft Ga",
         "url": "https://open.spotify.com/album/0itVyG6JYyo1G9ml5yOwk6"
       },
@@ -2345,7 +2421,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 203265,
       "name": "Xu\u00e2n \u0110\u1ebfn N\u01a1i",
       "url": "https://open.spotify.com/track/3o7LvC1zYQSSsFdSCRoiHp"

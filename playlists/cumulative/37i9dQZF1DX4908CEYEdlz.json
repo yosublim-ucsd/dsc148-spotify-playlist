@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Aumente o volume e ou\u00e7a as bandas que est\u00e3o com tudo no rock! Foto: The Killers",
+  "description": "Aumente o volume e ou\u00e7a as bandas que est\u00e3o com tudo no rock! Foto: Kings of Leon",
   "name": "Volume M\u00e1ximo",
   "tracks": [
     {
@@ -1650,7 +1650,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 637653,
       "name": "Eldorado",
       "url": "https://open.spotify.com/track/0tBIEhBNgEAbk5H7orYmi8"
@@ -1954,6 +1954,24 @@
       "duration_ms": 157216,
       "name": "Eyes Wide Shut (feat. Travis Barker) - Sickick Remix",
       "url": "https://open.spotify.com/track/05aOehHcLLV6iFKhE0KQsf"
+    },
+    {
+      "album": {
+        "name": "Fade Away",
+        "url": "https://open.spotify.com/album/2c3I2PZ07EIbtqlxUFTz0f"
+      },
+      "artists": [
+        {
+          "name": "Axty",
+          "url": "https://open.spotify.com/artist/4zVeGdifjxGkC3eCSmCo0H"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190384,
+      "name": "Fade Away",
+      "url": "https://open.spotify.com/track/3sOfcud8C4YSVOiCGWynYM"
     },
     {
       "album": {
@@ -3373,6 +3391,24 @@
     },
     {
       "album": {
+        "name": "Mustang",
+        "url": "https://open.spotify.com/album/00aKd415VlHgSv5uzQotNW"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194731,
+      "name": "Mustang",
+      "url": "https://open.spotify.com/track/5y1kheWw8d3DHl8bv5aEE8"
+    },
+    {
+      "album": {
         "name": "My Condition",
         "url": "https://open.spotify.com/album/6HCfBgib3AXge1a1gDwcLH"
       },
@@ -4320,7 +4356,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 256397,
       "name": "Six Feet Under",
       "url": "https://open.spotify.com/track/21AGI7qmZgPRn21Fl9dUqZ"

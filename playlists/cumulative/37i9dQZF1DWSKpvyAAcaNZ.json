@@ -3369,6 +3369,24 @@
     },
     {
       "album": {
+        "name": "Olustee",
+        "url": "https://open.spotify.com/album/1TK4IGwafhUenf6NTJsVPH"
+      },
+      "artists": [
+        {
+          "name": "JJ Grey & Mofro",
+          "url": "https://open.spotify.com/artist/1Jl8u1U1GtBlwocZK5LWZv"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309546,
+      "name": "Olustee",
+      "url": "https://open.spotify.com/track/6VjD0MJwrKQjaJesWAy6hd"
+    },
+    {
+      "album": {
         "name": "Dying Star",
         "url": "https://open.spotify.com/album/1abyWpDnNUtNT5kVg9LBcg"
       },
@@ -3506,7 +3524,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 298760,
       "name": "Pretty Pimpin",
       "url": "https://open.spotify.com/track/47cNDW1xyM03mT2kseO41a"

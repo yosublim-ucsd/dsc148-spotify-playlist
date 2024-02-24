@@ -4,7 +4,7 @@
 
 > Festival Music 2024 \- Tomorrowland 2024 \- Festival Songs \- EDM Music \- Electronic Music \- Rave Music \- EDM Songs \- best festival music \- best festival songs
 
-293 songs - 15 hr 4 min
+295 songs - 15 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Hold On](https://open.spotify.com/track/5gSsEgOMT5yb7EkcK3szup) | [Sixth Sense](https://open.spotify.com/artist/1lxVdgguznSRDNVFl8c5up), [Jukx](https://open.spotify.com/artist/4Fr5kWGPuCG7vrupWGAayw), [Jetason](https://open.spotify.com/artist/26XBgogPEkkbkDLQLocwGe) | [Hold On](https://open.spotify.com/album/4RaukH9AWEZgYPpNNMFeRc) | 2:54 | 2023-04-21 | 2023-08-11 |
 | [Holding On To You](https://open.spotify.com/track/4ZX9REWz5sjCHK9otu21gU) | [NAEMS](https://open.spotify.com/artist/5IGKglmmj5FyV0aJ53sEkO), [Rəind Səid](https://open.spotify.com/artist/3FWUEo0wsA53baxRi0T5lU), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Holding On To You](https://open.spotify.com/album/2ZWVWJYYasW9kVy0WglsYp) | 3:11 | 2022-07-29 | 2023-07-15 |
 | [Holding On To You](https://open.spotify.com/track/5NjtrDlHNyRULEE1MmRiEW) | [Voster & Gallardo](https://open.spotify.com/artist/6an7Tt4XKUfDucWZUXflvl), [Severman](https://open.spotify.com/artist/4kiGFkkVQVz9a8XIw8lX7u) | [Holding On To You](https://open.spotify.com/album/7ATTFOMK9mO95jvZ3mcFnu) | 2:45 | 2023-10-02 | 2023-11-11 |
+| [Home](https://open.spotify.com/track/11iHqdwr3Z23TbOEhEWjdi) | [Chemikkal](https://open.spotify.com/artist/108HQw3bi3vuj7RReiRbwi) | [Home](https://open.spotify.com/album/5UlsaXdkQHv1fRnCqA0Htf) | 2:48 | 2024-02-23 |  |
 | [Hot Summer Nights](https://open.spotify.com/track/5pNXsc6Vu9pY33RN5FoMGc) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4) | [Hot Summer Nights](https://open.spotify.com/album/33tjn6gH8k3IbAFzCqGrRQ) | 2:38 | 2022-09-13 | 2023-04-22 |
 | [How Will I Know](https://open.spotify.com/track/5ZCZmL42ETXg6BaPWe1emp) | [b1rdie](https://open.spotify.com/artist/6szDx9nHHT3fQnV3sMMY3x), [MANTZA](https://open.spotify.com/artist/1twt2fHhKKQLn9S8GUb83I) | [How Will I Know](https://open.spotify.com/album/56ONp8iQb6AT9hdd9uvaCs) | 3:03 | 2023-08-17 |  |
 | [Human](https://open.spotify.com/track/5i9khhoOkeogB49q54KOIz) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Machine Made](https://open.spotify.com/artist/56J7OPV77W9hMJQIRtvaBB) | [Human](https://open.spotify.com/album/7brW7G3kHHkhr3eu838HhH) | 4:05 | 2023-08-31 | 2024-01-10 |
@@ -205,6 +206,7 @@
 | [Promise You This](https://open.spotify.com/track/1Bhmriwl00coZVRqlnpl5z) | [NGHTIME!](https://open.spotify.com/artist/6rvAIasGNPgou3SL7ycYPA), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Promise You This](https://open.spotify.com/album/5ptuqlPeX3dxwA9GG5Qfhp) | 2:59 | 2023-07-14 | 2023-08-11 |
 | [Pull Me Through](https://open.spotify.com/track/2T1aCo4H9ojFkUxDU758oZ) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [Pull Me Through](https://open.spotify.com/album/4PwQiZ7eS8n5LcOuLDofYL) | 3:02 | 2022-07-29 | 2023-09-09 |
 | [Pump It Up](https://open.spotify.com/track/3UxjH53AszyqcyZnROMyU6) | [3 Are Legend](https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II), [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [Jaxx & Vega](https://open.spotify.com/artist/7bdZVVcdyFjxVRj6vCVk9w), [The Black & White Brothers](https://open.spotify.com/artist/6xaKognesdbX04PEXszfcv) | [Pump It Up](https://open.spotify.com/album/6uUEvN5cqKOX0cgfqlNg9P) | 2:47 | 2023-08-10 | 2023-11-11 |
+| [Push Up \(My Funky Beat\)](https://open.spotify.com/track/75hrEPrYVYSpTClJvzC2l4) | [D'Angello & Francis](https://open.spotify.com/artist/63YpQAD9YjknZPfMVYqyIK) | [Push Up \(My Funky Beat\)](https://open.spotify.com/album/1KhMoedoYFrm4SngWepxH2) | 2:52 | 2024-02-23 |  |
 | [Push Up \- Main Edit](https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j) | [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Push Up \(Main Edit\)](https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0) | 2:19 | 2023-11-21 |  |
 | [Reality](https://open.spotify.com/track/3zelZrqVfNqt2YQU0bGrNk) | [Linka](https://open.spotify.com/artist/4wiFBUvu3Vqn8gZpY81szc), [Gregor Potter](https://open.spotify.com/artist/3QgGgYrGPyaHh4n1d65Ukd) | [Reality](https://open.spotify.com/album/3waoqzcmu9L04AUQa3koe2) | 3:20 | 2024-02-15 |  |
 | [Reality](https://open.spotify.com/track/1SOK81MZs2M0WzvIzTFaqD) | [Retrika](https://open.spotify.com/artist/6SLVPua1BJCUt85y4bug2Z), [Alvi](https://open.spotify.com/artist/5NiZEpj3XzblvgCLwxurbg) | [Reality](https://open.spotify.com/album/4LGbWAhmObQWhqCMRPoOon) | 2:34 | 2023-11-16 |  |

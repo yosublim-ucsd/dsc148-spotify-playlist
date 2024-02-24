@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Las favoritas de los patrones. Beto Vega, Edgardo Nu\u00f1ez, Antonin Padilla en portada.",
+  "description": "Las favoritas de los patrones. La Ventaja en portada.",
   "name": "Corridos Chakalosos",
   "tracks": [
     {
@@ -263,6 +263,24 @@
     },
     {
       "album": {
+        "name": "Chivo Tatemado",
+        "url": "https://open.spotify.com/album/5hZtPpa5tRnXFo7vo7cx0C"
+      },
+      "artists": [
+        {
+          "name": "Los Austeros De Durango",
+          "url": "https://open.spotify.com/artist/3R6Kbe18UcjsGkBGWElC51"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124222,
+      "name": "Chivo Tatemado",
+      "url": "https://open.spotify.com/track/5y1Ziu2vAjcjD3Sqg4iqnB"
+    },
+    {
+      "album": {
         "name": "Chorumbo",
         "url": "https://open.spotify.com/album/6RPOQC6rd85F9Nuxp5W2Fh"
       },
@@ -402,7 +420,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 177485,
       "name": "Don Cheyo Imperial",
       "url": "https://open.spotify.com/track/6bUi10rGDo5g2FKSPUUBmY"
@@ -428,6 +446,28 @@
       "duration_ms": 158938,
       "name": "Don Ismael",
       "url": "https://open.spotify.com/track/2UsQPVCNmSrbt9MY0vtTsb"
+    },
+    {
+      "album": {
+        "name": "El 7 Tito Beltr\u00e1n",
+        "url": "https://open.spotify.com/album/0prEM4d9iiHcvYLZwStnJg"
+      },
+      "artists": [
+        {
+          "name": "Novillos de la Sierra",
+          "url": "https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro"
+        },
+        {
+          "name": "El Rabbanito",
+          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247944,
+      "name": "El 7 Tito Beltr\u00e1n",
+      "url": "https://open.spotify.com/track/3ja3iKYBSQmwa20EYJym8D"
     },
     {
       "album": {
@@ -468,6 +508,24 @@
       "duration_ms": 219264,
       "name": "El Baleado",
       "url": "https://open.spotify.com/track/75Rim2x8dZP6BDjAaSbfhp"
+    },
+    {
+      "album": {
+        "name": "El Blue",
+        "url": "https://open.spotify.com/album/6SigYKAQEFmXhnlc9aSy4c"
+      },
+      "artists": [
+        {
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169812,
+      "name": "El Blue",
+      "url": "https://open.spotify.com/track/3fJ35WKG3nxSWIoCTXI6Tf"
     },
     {
       "album": {
@@ -569,6 +627,24 @@
     },
     {
       "album": {
+        "name": "El Cocho de Tierra Caliente",
+        "url": "https://open.spotify.com/album/0crE4CDRFQyTnFpotT7UHP"
+      },
+      "artists": [
+        {
+          "name": "GERARDO DIAZ Y SU GERARQUIA",
+          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182181,
+      "name": "El Cocho de Tierra Caliente",
+      "url": "https://open.spotify.com/track/2FHkVuiBkGAU4Sp9YR1koU"
+    },
+    {
+      "album": {
         "name": "El Corrido Del MC",
         "url": "https://open.spotify.com/album/2zhxO2yyAg7TPDZJkyvpXo"
       },
@@ -580,7 +656,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 157090,
       "name": "El Corrido Del MC",
       "url": "https://open.spotify.com/track/4yV80LJGxo6LxrTRglFyLJ"
@@ -598,7 +674,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 182266,
       "name": "El De La Defender Blanca",
       "url": "https://open.spotify.com/track/1hWwQlh8IX6RroVqPpZmbc"
@@ -634,7 +710,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 226944,
       "name": "El Doble R",
       "url": "https://open.spotify.com/track/78ZDV7gNfRTDQaVdgzs8PN"
@@ -1145,6 +1221,42 @@
     },
     {
       "album": {
+        "name": "Jardines Del Humaya",
+        "url": "https://open.spotify.com/album/2dGIIbRg2yOR6rShg9a6v9"
+      },
+      "artists": [
+        {
+          "name": "La Ventaja",
+          "url": "https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214777,
+      "name": "Jardines Del Humaya",
+      "url": "https://open.spotify.com/track/6Y2YCIxmUuzuDTScVJF2WK"
+    },
+    {
+      "album": {
+        "name": "Jefe Fresa",
+        "url": "https://open.spotify.com/album/19v2pWaZC9EN3H4xdmAl8P"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Garcia",
+          "url": "https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193882,
+      "name": "Jefe Fresa",
+      "url": "https://open.spotify.com/track/622wRHgPbt3AxTlFkWqJKw"
+    },
+    {
+      "album": {
         "name": "Chica La Bola",
         "url": "https://open.spotify.com/album/6pz7JlLWATx66x7CXqrHzQ"
       },
@@ -1272,7 +1384,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 283500,
       "name": "La Letra Muda",
       "url": "https://open.spotify.com/track/21SjBArMTAwBFUtWmFlpAO"
@@ -1605,6 +1717,46 @@
     },
     {
       "album": {
+        "name": "Porte de Scarface",
+        "url": "https://open.spotify.com/album/5bircs6AOMJQprSwCyAhnp"
+      },
+      "artists": [
+        {
+          "name": "Chuy Montana",
+          "url": "https://open.spotify.com/artist/12KipYva9312KrSBekytFE"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172560,
+      "name": "Porte de Scarface",
+      "url": "https://open.spotify.com/track/5KX5GVCWkqAhGOaPGaLIBK"
+    },
+    {
+      "album": {
+        "name": "Que Empiece El Juego",
+        "url": "https://open.spotify.com/album/4b1B9h0jg1yaWQHkO9fdcf"
+      },
+      "artists": [
+        {
+          "name": "Chicho Castro y Sus Alia2",
+          "url": "https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC"
+        },
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149697,
+      "name": "Que Empiece El Juego",
+      "url": "https://open.spotify.com/track/6d4we28oTHN8qrkJXkZwrS"
+    },
+    {
+      "album": {
         "name": "Punto Y Aparte",
         "url": "https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF"
       },
@@ -1682,7 +1834,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 203504,
       "name": "Somos Gente Del Sombrero - En Vivo",
       "url": "https://open.spotify.com/track/5cJUpAtZBY253aPOo0QmId"
@@ -1748,7 +1900,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 268434,
       "name": "Vida Recia (En Vivo)",
       "url": "https://open.spotify.com/track/1N6SIgC4ewG3FneF13z20a"
@@ -1810,7 +1962,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 208405,
       "name": "Zutano (En Vivo)",
       "url": "https://open.spotify.com/track/4aI8jecrUY2zEbwNHIKmj9"

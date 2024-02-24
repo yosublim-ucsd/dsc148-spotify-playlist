@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-450 songs - 1 day 8 hr 14 min
+451 songs - 1 day 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Blur](https://open.spotify.com/track/73iwLiAtgpNMu5DeRD7Jph) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5), [Marlo Rex](https://open.spotify.com/artist/3honvvPh3jtS2fTJEYKexS) | [Blur](https://open.spotify.com/album/4t4GnmNhwlpHCDWshyg1Xr) | 2:58 | 2023-10-06 |  |
 | [Breakfast In Vegas](https://open.spotify.com/track/2o6RuGihlwJhA7vT41lz5A) | [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz) | [Breakfast In Vegas](https://open.spotify.com/album/3vAAypb5bNznpu4gml1xCI) | 3:40 | 2022-02-25 | 2022-07-29 |
 | [Breathe Me In](https://open.spotify.com/track/0eiLudweyosA5c7EUJ6y0c) | [Harrison](https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94) | [Breathe Me In](https://open.spotify.com/album/0Ez7Txv5ziazJVEVZq41Rc) | 2:58 | 2021-12-10 |  |
+| [Bridges In The Sky \(feat\. Maurits Colijn\)](https://open.spotify.com/track/2r9YISB3SpXkEsNF1iceu6) | [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh), [Maurits Colijn](https://open.spotify.com/artist/3flMOgDUT0vdbSZwkl4by3) | [Bridges In The Sky](https://open.spotify.com/album/0lDf8RYmqDgyZRYEGxggYV) | 5:45 | 2024-02-23 |  |
 | [Bridges In The Sky \(feat\. Maurits Colijn\)](https://open.spotify.com/track/7qmj6GXCoataBL3kBYBrII) | [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh), [Maurits Colijn](https://open.spotify.com/artist/3flMOgDUT0vdbSZwkl4by3) | [Bridges In The Sky](https://open.spotify.com/album/1aPCc1XkP3hSE21HfdAVWD) | 5:45 | 2021-05-07 | 2023-05-27 |
 | [Brighter \- Dave Summer Remix](https://open.spotify.com/track/6TDdOZxGNvva3l36Me8XLc) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6), [Dave Summer](https://open.spotify.com/artist/24qTxxQWmyOY28ZtW5z7O5) | [Brighter \(Dave Summer Remix\)](https://open.spotify.com/album/7AfDLIKksawCSHZXVoi3nl) | 3:30 | 2023-12-15 | 2024-01-28 |
 | [Bumblebee](https://open.spotify.com/track/10twrq4TUN6ThYX8fHTlab) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Club Vibes Part 02](https://open.spotify.com/album/2wdfP8ZepuYBjNC3mDBb73) | 7:50 | 2022-09-02 | 2023-06-03 |
@@ -417,7 +418,7 @@
 | [U&ME](https://open.spotify.com/track/7Lqb5crtS7JaNynQ0mszWh) | [Dezko](https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [U&ME](https://open.spotify.com/album/1ENNuqHU0L7gI0Cc8HaqOq) | 3:15 | 2023-08-18 |  |
 | [Ultraviolet \(2022\)](https://open.spotify.com/track/46iNTZ0LIKZEBOqzXHA9sE) | [Paul Thomas](https://open.spotify.com/artist/32IkwkKb3BkxUGAzSjaBI8) | [Ultraviolet \(2022\)](https://open.spotify.com/album/4346HSVfG9ZOESnoWDYWfH) | 3:42 | 2022-02-04 | 2022-07-27 |
 | [Umbra](https://open.spotify.com/track/6WJll3eZF7ok5LAKouTj61) | [Layer J](https://open.spotify.com/artist/48KALXBf9Ookq2j30lSKBf), [Sebek](https://open.spotify.com/artist/070GpDQjNHzkY6j2OrFcrA) | [Umbra](https://open.spotify.com/album/5n8XJ70T3OkIFOGOsL8YvA) | 8:19 | 2021-05-07 | 2022-04-21 |
-| [Under My Skin](https://open.spotify.com/track/0Qsm4e0tjof17GOrxoRhLO) | [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx), [Richard Judge](https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3) | [Under My Skin](https://open.spotify.com/album/1fqzT3Bwp9puo8c7kl0j3i) | 3:42 | 2023-07-21 |  |
+| [Under My Skin](https://open.spotify.com/track/0Qsm4e0tjof17GOrxoRhLO) | [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx), [Richard Judge](https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3) | [Under My Skin](https://open.spotify.com/album/1fqzT3Bwp9puo8c7kl0j3i) | 3:42 | 2023-07-21 | 2024-02-24 |
 | [Underwater](https://open.spotify.com/track/3SXRZuCEGbbxsPiHyqwWuG) | [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [Underwater](https://open.spotify.com/album/66rcyq2d4MQDcWe6iVoUyc) | 2:57 | 2021-05-07 | 2022-08-26 |
 | [Unfolding](https://open.spotify.com/track/6YMaVo9FZy0aDrntxEwA72) | [GRAZZE](https://open.spotify.com/artist/4NyGWI0UeGa6jOyRDLawjt), [Dan Soleil](https://open.spotify.com/artist/2z0mmxKTw0KpO7Qnb6aB2r), [Deeparture](https://open.spotify.com/artist/77jpUdhY3sur4mrNURonho) | [Unfolding](https://open.spotify.com/album/6cg3skxeiab9T4p7B0XpZm) | 4:20 | 2021-05-07 | 2022-07-25 |
 | [Unity \- Radio Edit](https://open.spotify.com/track/6IRX8HIpiNuUF3F5cat8su) | [CYA](https://open.spotify.com/artist/2HFWySRmIs8TiKMMfcLN1g) | [Regrets \(Radio Edits\)](https://open.spotify.com/album/5VzOEPqJTYOSl1zr9FOx2T) | 3:14 | 2021-05-07 | 2022-04-20 |

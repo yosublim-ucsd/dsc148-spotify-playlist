@@ -1,5 +1,5 @@
 {
-  "2024-02-23": 243695,
+  "2024-02-24": 243764,
   "date_first_scraped": "2021-12-30",
   "description": "Uplifting instrumental beats to brighten your day.",
   "name": "Feel Good Beats",
@@ -6951,6 +6951,24 @@
       "duration_ms": 119300,
       "name": "spice age",
       "url": "https://open.spotify.com/track/12Wq2oMs3cC5X4kLib48AX"
+    },
+    {
+      "album": {
+        "name": "Spring Cold",
+        "url": "https://open.spotify.com/album/0XL40uz5cMkTAlN25kyIm3"
+      },
+      "artists": [
+        {
+          "name": "eun",
+          "url": "https://open.spotify.com/artist/0L8slSjSjkpmY2vCCuXZ2r"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Spring Cold",
+      "url": "https://open.spotify.com/track/3lCZxVYjOpUmFKEjsKsnTU"
     },
     {
       "album": {

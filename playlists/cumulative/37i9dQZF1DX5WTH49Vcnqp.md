@@ -4,7 +4,7 @@
 
 > Music that's hard to define but easy to love\. Cover: Royel Otis
 
-1,287 songs - 3 day 0 hr 54 min
+1,288 songs - 3 day 0 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -384,7 +384,8 @@
 | [Flood Into](https://open.spotify.com/track/27UUdY6JdDKmPyaKSVNGQz) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Flood Into](https://open.spotify.com/album/6LWjlR90SPGk9H3798q0qE) | 3:01 | 2023-03-17 | 2023-04-21 |
 | [flounder](https://open.spotify.com/track/4rnh0Ndgv9ZAnnE5rCmnFh) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [flounder](https://open.spotify.com/album/3AmWQhIXHawKYgthdEJSLJ) | 3:39 | 2023-03-02 | 2023-03-25 |
 | [flounder](https://open.spotify.com/track/54DRaiiudcUoUARrKYg12p) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [flounder](https://open.spotify.com/album/7MzdCXOPsppZO7fkaQQvKf) | 3:39 | 2023-01-26 | 2023-03-03 |
-| [Flowers](https://open.spotify.com/track/7sU1jiSkAST9dR1KnRoiJx) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT) | [Flowers](https://open.spotify.com/album/76wvinNBPaNDxuJ5XZziuk) | 2:48 | 2024-02-22 |  |
+| [Flowers](https://open.spotify.com/track/4fqNoM2d2URotMit7GlmlI) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT) | [Daniel](https://open.spotify.com/album/6hklBSOyHrnC42LQksxrzd) | 2:48 | 2024-02-22 |  |
+| [Flowers](https://open.spotify.com/track/7sU1jiSkAST9dR1KnRoiJx) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT) | [Flowers](https://open.spotify.com/album/76wvinNBPaNDxuJ5XZziuk) | 2:48 | 2024-02-22 | 2024-02-24 |
 | [Flush with Love](https://open.spotify.com/track/5pbpePKq40EPcbfQSlFHD3) | [Hermitude](https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u) | [Mirror Mountain](https://open.spotify.com/album/3hcYCXbWFUV5eP4wZPQn8K) | 4:55 | 2022-05-09 | 2022-07-15 |
 | [Fly To You \(feat\. Grimes and Dido\)](https://open.spotify.com/track/0RVn3A5FHQ8OgiIxuRkepW) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab), [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [Desire, I Want To Turn Into You](https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q) | 4:05 | 2023-02-16 | 2023-04-18 |
 | [Foam](https://open.spotify.com/track/4h6AjmvszVvlSLg0vwJJ46) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Foam](https://open.spotify.com/album/4Rmw7d4SsYHn1U5SosFCOI) | 3:05 | 2024-02-15 | 2024-02-17 |

@@ -1,7 +1,7 @@
 {
-  "2024-02-23": 1352542,
+  "2024-02-24": 1352762,
   "date_first_scraped": "2020-05-22",
-  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Clavish",
+  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Ghetts",
   "name": "Rap UK",
   "tracks": [
     {
@@ -5025,7 +5025,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 197924,
       "name": "Bon App\u00e9tit",
       "url": "https://open.spotify.com/track/0K56woQKVkZSgqxom9aNqO"
@@ -6281,7 +6281,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 152773,
       "name": "Can\u2019t Dun (feat. M24)",
       "url": "https://open.spotify.com/track/1TonfBDVXhfCNjeXQxnlod"
@@ -7433,7 +7433,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 170566,
       "name": "Come From",
       "url": "https://open.spotify.com/track/52AEhL8n3671030l7eH0o0"
@@ -11056,6 +11056,28 @@
     },
     {
       "album": {
+        "name": "Estelle",
+        "url": "https://open.spotify.com/album/43AccPi6GkAdbPJ5EXSbG9"
+      },
+      "artists": [
+        {
+          "name": "Rushy",
+          "url": "https://open.spotify.com/artist/0Mf9AMLaP102sdJQ3Xqm6J"
+        },
+        {
+          "name": "AntsLive",
+          "url": "https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193985,
+      "name": "Estelle",
+      "url": "https://open.spotify.com/track/4pBMyDlaR7QvpgiY8i2pwg"
+    },
+    {
+      "album": {
         "name": "NI",
         "url": "https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad"
       },
@@ -13327,7 +13349,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 147951,
       "name": "Grandma's Kitchen",
       "url": "https://open.spotify.com/track/2BU9FTy2ctWdTjiPiXLZZr"
@@ -15220,6 +15242,24 @@
     },
     {
       "album": {
+        "name": "I Will",
+        "url": "https://open.spotify.com/album/17YWNPXw7xDsLqC6ES3Ysj"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149500,
+      "name": "I Will",
+      "url": "https://open.spotify.com/track/27sKtH0PZpASkN8H3ZJOQf"
+    },
+    {
+      "album": {
         "name": "I've Got You",
         "url": "https://open.spotify.com/album/12GfIhg16YrFut2e9hI4sq"
       },
@@ -15451,6 +15491,24 @@
       "duration_ms": 128450,
       "name": "In Da Function",
       "url": "https://open.spotify.com/track/3N4OkYNX9kSjkRIp1k33XF"
+    },
+    {
+      "album": {
+        "name": "In N Out",
+        "url": "https://open.spotify.com/album/4i1okipyWctnhqQ1MVuxQV"
+      },
+      "artists": [
+        {
+          "name": "Jimmy",
+          "url": "https://open.spotify.com/artist/06w8gYYjCLGIK8Cp4ltMJo"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187885,
+      "name": "In N Out",
+      "url": "https://open.spotify.com/track/1a7hvZrOt2Xl1aSixcKh0C"
     },
     {
       "album": {
@@ -15697,7 +15755,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 146400,
       "name": "it's a real life",
       "url": "https://open.spotify.com/track/2VxTa7BolLHeiKQgayvjBU"
@@ -15807,6 +15865,24 @@
       "duration_ms": 148456,
       "name": "IT'S ONLY YOU",
       "url": "https://open.spotify.com/track/066JufxuaAPBsT6raHbMEc"
+    },
+    {
+      "album": {
+        "name": "IT'S THAT REAL",
+        "url": "https://open.spotify.com/album/4Xgm72a1q4DJLepVWIG8vj"
+      },
+      "artists": [
+        {
+          "name": "Kwengface",
+          "url": "https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141818,
+      "name": "IT'S THAT REAL",
+      "url": "https://open.spotify.com/track/2mp0MixDsimQHsEtUZERLG"
     },
     {
       "album": {
@@ -16710,6 +16786,24 @@
     },
     {
       "album": {
+        "name": "Kitchen Stove",
+        "url": "https://open.spotify.com/album/132f6mj4FFCdfh5DnZUy7o"
+      },
+      "artists": [
+        {
+          "name": "Pozer",
+          "url": "https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163383,
+      "name": "Kitchen Stove",
+      "url": "https://open.spotify.com/track/7diD1MucbcRUVjS6AA9ehm"
+    },
+    {
+      "album": {
         "name": "More Life",
         "url": "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
       },
@@ -16863,6 +16957,24 @@
       "duration_ms": 209542,
       "name": "La vie est belle",
       "url": "https://open.spotify.com/track/4ZysoMgf9OXFxRabF3XQzF"
+    },
+    {
+      "album": {
+        "name": "Ladies",
+        "url": "https://open.spotify.com/album/6QRXtSl9pBcViOYFaojO4j"
+      },
+      "artists": [
+        {
+          "name": "Bugzy Malone",
+          "url": "https://open.spotify.com/artist/4Dokdwa3WB7ilQ2c2qvIBL"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191865,
+      "name": "Ladies",
+      "url": "https://open.spotify.com/track/2P33N4Bb9wD3kyzi5f64PM"
     },
     {
       "album": {
@@ -17237,7 +17349,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 154285,
       "name": "LEANIN",
       "url": "https://open.spotify.com/track/7rhkyaxaAheX4usxCAECcw"
@@ -19444,6 +19556,28 @@
     },
     {
       "album": {
+        "name": "Midas Touch",
+        "url": "https://open.spotify.com/album/6pot9ikG8APyn1dErbdkAf"
+      },
+      "artists": [
+        {
+          "name": "Potter Payper",
+          "url": "https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z"
+        },
+        {
+          "name": "ADMT",
+          "url": "https://open.spotify.com/artist/6ksk9LbK2gyhtXOFNNJYXi"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199521,
+      "name": "Midas Touch",
+      "url": "https://open.spotify.com/track/6UF0IMJyAYyoLxOhYnOO0q"
+    },
+    {
+      "album": {
         "name": "Drop 6",
         "url": "https://open.spotify.com/album/6QrGmXbUtjyekuW83gXBBb"
       },
@@ -20305,6 +20439,32 @@
       "duration_ms": 194000,
       "name": "Most Hated",
       "url": "https://open.spotify.com/track/7nfkD873HVyPi9gg4dE5kc"
+    },
+    {
+      "album": {
+        "name": "Mount Rushmore (feat. Kano & Wretch 32)",
+        "url": "https://open.spotify.com/album/0dOUZUZsTQin7GO8Xzr0JZ"
+      },
+      "artists": [
+        {
+          "name": "Ghetts",
+          "url": "https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6"
+        },
+        {
+          "name": "Kano",
+          "url": "https://open.spotify.com/artist/50nN8IFD4xA67fI4jYbLV4"
+        },
+        {
+          "name": "Wretch 32",
+          "url": "https://open.spotify.com/artist/0T2sGLJKge2eaFmZJxX7sq"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305253,
+      "name": "Mount Rushmore (feat. Kano & Wretch 32)",
+      "url": "https://open.spotify.com/track/00qIL8uavO32InG5YjLBs5"
     },
     {
       "album": {
@@ -24835,6 +24995,24 @@
       "duration_ms": 160226,
       "name": "Psalm 35",
       "url": "https://open.spotify.com/track/5ONz4LpwwGK2FRGmhjW11l"
+    },
+    {
+      "album": {
+        "name": "PTSD",
+        "url": "https://open.spotify.com/album/6VUAEJ53jti8LKTEKGydaS"
+      },
+      "artists": [
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129200,
+      "name": "PTSD",
+      "url": "https://open.spotify.com/track/50NJA7Ds65risvAXLspiWK"
     },
     {
       "album": {
@@ -30229,7 +30407,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 154500,
       "name": "Tea Over Henny",
       "url": "https://open.spotify.com/track/0HlvdfwfrZjL6KAkrIGKI4"
@@ -30981,7 +31159,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 128332,
       "name": "Therapy",
       "url": "https://open.spotify.com/track/70lkOeQI0L3bSgj183ZPm5"
@@ -31233,6 +31411,28 @@
       "duration_ms": 203218,
       "name": "Thug Affection",
       "url": "https://open.spotify.com/track/5f6t2fFJqHeFvrA5eIiGEj"
+    },
+    {
+      "album": {
+        "name": "Thug With Me (feat. Mozzy)",
+        "url": "https://open.spotify.com/album/07RvxP2fujZX30ogCsHPel"
+      },
+      "artists": [
+        {
+          "name": "Tunde",
+          "url": "https://open.spotify.com/artist/0sOjyMhtDzH1DSvcPjVXsi"
+        },
+        {
+          "name": "Mozzy",
+          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173645,
+      "name": "Thug With Me (feat. Mozzy)",
+      "url": "https://open.spotify.com/track/6FwxOkqxFE4jfdlhwZHQee"
     },
     {
       "album": {
@@ -32089,7 +32289,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 166880,
       "name": "Tumbi",
       "url": "https://open.spotify.com/track/4BeDb8ZEawOvJ3sYdoKgPu"
@@ -33481,7 +33681,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 120000,
       "name": "Welcome to E9",
       "url": "https://open.spotify.com/track/2ro147cSsJeFgdjBjOGGLZ"

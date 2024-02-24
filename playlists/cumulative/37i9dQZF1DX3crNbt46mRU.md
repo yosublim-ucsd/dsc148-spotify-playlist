@@ -4,7 +4,7 @@
 
 > This week's top new releases\. Cover: Luca Hänni, Chiara Castelli
 
-10,901 songs - 22 day 17 hr 58 min
+10,904 songs - 22 day 18 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -6292,7 +6292,8 @@
 | [Millions](https://open.spotify.com/track/7dCgtx2utAH7sUjg6cq9Zi) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Millions](https://open.spotify.com/album/6hY94NCMaitMsAUPaph5cL) | 3:47 | 2022-11-17 | 2022-11-25 |
 | [Millionär](https://open.spotify.com/track/6UU88rM7Deah45o6WHIJH7) | [Luca Hänni](https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ) | [Millionär](https://open.spotify.com/album/26W6QtSPXKmBBEqDe4F6IS) | 2:41 | 2022-02-11 | 2022-02-18 |
 | [Millionär](https://open.spotify.com/track/0QltWldlWMsdcxCgmJss3k) | [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN), [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp) | [Millionär](https://open.spotify.com/album/3C0Z7ww2Fhw1FENZy8yRGZ) | 2:58 | 2022-10-27 | 2022-11-04 |
-| [MIND ON MY $$$](https://open.spotify.com/track/3Rnb4onH0qL7wRozuKPHgY) | [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg) | [MIND ON MY $$$](https://open.spotify.com/album/2JMVf7xirowhBj7zKPuCsf) | 1:58 | 2024-02-22 |  |
+| [MIND ON MY $$$](https://open.spotify.com/track/3Rnb4onH0qL7wRozuKPHgY) | [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg) | [MIND ON MY $$$](https://open.spotify.com/album/2JMVf7xirowhBj7zKPuCsf) | 1:58 | 2024-02-22 | 2024-02-24 |
+| [MIND ON MY $$$](https://open.spotify.com/track/6t6h50gxCMDttl2k2UwyAt) | [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg) | [MIND ON MY $$$](https://open.spotify.com/album/1O6c10MdJ5sPUdPmbWURYt) | 1:58 | 2024-02-22 |  |
 | [Mind Over Matter \(feat\. N.I.C.\)](https://open.spotify.com/track/5W3uiAc3MevVbFFuTKT80d) | [Rapture Boy](https://open.spotify.com/artist/43Edxwc4O5syVCcKP9biaN), [N.I.C.](https://open.spotify.com/artist/2o0Mm9IAAaOQEP2A7h604G) | [Mind Over Matter \(feat\. N.I.C.\)](https://open.spotify.com/album/3hX5axiT7VTGW6Dj7WQcPX) | 2:26 | 2022-11-25 | 2022-12-02 |
 | [Mind Talking](https://open.spotify.com/track/0lJ0a3noMVleqsUHRmIr94) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [Nazzereene](https://open.spotify.com/artist/3juwo4sTF5okJNvCfQpArZ) | [Stimulate \(Deluxe\)](https://open.spotify.com/album/1n3V1SMu8hLeccUhgTunwx) | 2:34 | 2023-08-03 | 2023-08-11 |
 | [MIND YOUR BUSINESS](https://open.spotify.com/track/6SihMpwoVMy75GwvBXFxJ4) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [MIND YOUR BUSINESS](https://open.spotify.com/album/3ecBg8wGhu2TrZxFmEFA7h) | 3:15 | 2023-07-20 | 2023-07-28 |
@@ -7186,6 +7187,7 @@
 | [One Of Your Girls](https://open.spotify.com/track/1Fav4xZn60uGM3XmiHJmvT) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5PsQkSZdGgr9jnuSKzSi5s) | 3:01 | 2023-10-12 | 2023-10-20 |
 | [One On One](https://open.spotify.com/track/2xmlpRPQUA3lR6HYaeYv7g) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [One On One](https://open.spotify.com/album/2yYylDKJUY5NCfv4YsZpZW) | 3:32 | 2023-12-08 | 2023-12-15 |
 | [one second less to live](https://open.spotify.com/track/1sUPZ2lWO8JV7fMESzwZ0O) | [BEACHPEOPLE](https://open.spotify.com/artist/3OXpCq0ndnIgWu13LKBEba) | [one second less to live](https://open.spotify.com/album/0Qjzxx3rVkQrWPT1ffIV4D) | 2:48 | 2022-08-12 | 2022-08-19 |
+| [ONE SPARK](https://open.spotify.com/track/7cIn67LEvk16v6komC8znS) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [With YOU\-th](https://open.spotify.com/album/575TQDOQqc0MAheeEeKWUR) | 3:03 | 2024-02-22 |  |
 | [One Step Ahead](https://open.spotify.com/track/0MbqHR99kNqNrW3vCmSBRo) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [One Step Ahead](https://open.spotify.com/album/1CnJ8xFUzWfQUS6MhAkZNt) | 3:11 | 2022-04-07 | 2022-04-15 |
 | [ONE TIME](https://open.spotify.com/track/6lOk5fSKVJvI9qRrQZTNFW) | [L Loko](https://open.spotify.com/artist/6iI54kPtuDGxFe6T3eIR53), [Drini](https://open.spotify.com/artist/5tRlhg6J2lBxI7Qb4IfL00) | [ONE TIME](https://open.spotify.com/album/5jeJ4ZAoxzjb4Ou9g1lYFO) | 2:55 | 2022-05-05 | 2022-05-13 |
 | [One Time \(with Don Toliver feat\. Future\)](https://open.spotify.com/track/0WA4APfzK7Y1pdzhvyhSwD) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Demons Protected By Angels](https://open.spotify.com/album/29NWnawJBetVB3lOM9Sbp6) | 3:09 | 2022-09-09 | 2022-09-16 |
@@ -7939,6 +7941,7 @@
 | [Rich Kids](https://open.spotify.com/track/0lDhNhjFM0Tgzeunj0N0Td) | [Lemaitre](https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764), [thea wang](https://open.spotify.com/artist/1Rlj58KRo8BwuksKHsoZCo) | [Rich Kids](https://open.spotify.com/album/1bND4DBBNi4XzIAIsAmuqf) | 3:20 | 2022-05-26 | 2022-06-03 |
 | [Rich Minion](https://open.spotify.com/track/1JIgFmCP5OCTEGV866WP3b) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Rich Minion](https://open.spotify.com/album/2JDTUHzxf0mkHdKxIw8Aje) | 2:45 | 2022-06-30 | 2022-07-08 |
 | [Richtig scheisse](https://open.spotify.com/track/0oyDOgIZctdbbvofsFNm7J) | [PANTHA](https://open.spotify.com/artist/40TyBBFIw2Nw3psoWIkNI8) | [Richtig scheisse](https://open.spotify.com/album/5eZaeqOz2uL7Mm6jNEj0KB) | 2:21 | 2022-03-10 | 2022-03-18 |
+| [Richtivities](https://open.spotify.com/track/78VmtCRovWdLIz3p0Tj7nb) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Richtivities](https://open.spotify.com/album/6YtEsHXxWjQLdNYIkRjFgB) | 2:56 | 2024-02-22 |  |
 | [Richtung Mars](https://open.spotify.com/track/5eC2s3KFhxnsM7JYnea6EN) | [error](https://open.spotify.com/artist/3CiuMe6mZlqH8TnuzA3AYp) | [Richtung Mars](https://open.spotify.com/album/3tpBhoJe0XBSwDE5mNjskj) | 2:43 | 2024-01-25 | 2024-02-02 |
 | [RICK OWENS \(feat\. Ken Carson\)](https://open.spotify.com/track/6VASMtJitNcGLlsWhPb9BC) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl), [lucidbeatz](https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [SONY](https://open.spotify.com/album/0zz2XwgWhbqgaFLVflgQHp) | 2:10 | 2024-01-04 | 2024-01-12 |
 | [Ricordati di vivere \(il primo battito\)](https://open.spotify.com/track/1mbt7PHyr4bDc6DboC8Qwj) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi) | [Il Disco Del Sole](https://open.spotify.com/album/0miIc3BQ2BNZh78S5FDhaH) | 3:43 | 2022-12-08 | 2022-12-16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > La playlist che è come andare ai concerti! Novità rock, indie e punk dall'Italia\. Cover: Arianna Pasini
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,087 likes - 77 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,091 likes - 77 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 76 | [Tre volte](https://open.spotify.com/track/3a0S913LX7Nv95jPWN8nhn) | [Adelasia](https://open.spotify.com/artist/7AGxQIsvUzqpdMl1aW1usw) | [Tre volte](https://open.spotify.com/album/3JZCZRslejDrvPAfcBolDu) | 2:21 |
 | 77 | [THE DRIVER](https://open.spotify.com/track/0sZHxhoBaK0YEvvMV8blr6) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH! \(ARE U COMING?\)](https://open.spotify.com/album/2kcJ3TxBhSwmki0QWFXUz8) | 3:08 |
 
-Snapshot ID: `MCw4OGI1NmNjMmUyMmYzMDA0ZGFhNTM0MjQzMjhlODdmMzM1NjI0MjEx`
+Snapshot ID: `MCxkMzBmNWE0YTIxYTQyOTBlNDQwZGUwNGIxMTNlNDA1NjQzMGY3NzA3`

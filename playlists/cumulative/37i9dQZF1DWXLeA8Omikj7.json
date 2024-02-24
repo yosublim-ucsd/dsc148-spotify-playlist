@@ -1482,7 +1482,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 250542,
       "name": "Bergschrund",
       "url": "https://open.spotify.com/track/4XAGu6WFwsbGl5zRPmPgkg"
@@ -2890,7 +2890,7 @@
       ],
       "date_added": "2021-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 198000,
       "name": "CTG",
       "url": "https://open.spotify.com/track/5JlEWsqXWnIT4rPTJF3bny"
@@ -7536,6 +7536,24 @@
       "duration_ms": 83986,
       "name": "Interlude",
       "url": "https://open.spotify.com/track/0AV6NavKfgyIe7z8tU4sdy"
+    },
+    {
+      "album": {
+        "name": "Weather",
+        "url": "https://open.spotify.com/album/1mRyfDR7Dc55GbC8V3kVis"
+      },
+      "artists": [
+        {
+          "name": "Tycho",
+          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242610,
+      "name": "Into The Woods",
+      "url": "https://open.spotify.com/track/3p0FMD7f0kh4IcuucbB2My"
     },
     {
       "album": {
@@ -16038,7 +16056,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-14",
+      "date_removed": null,
       "duration_ms": 200751,
       "name": "Universal Intimacy",
       "url": "https://open.spotify.com/track/54yAYWaPxtoashe2VHADMh"

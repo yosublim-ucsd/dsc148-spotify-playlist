@@ -1,12 +1,12 @@
 {
   "description": "Chill Korean tunes that's perfect with your latte or americano. (\uce74\ud398\uc640 \uc5b4\uc6b8\ub9ac\ub294 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uc744 \uac10\uc0c1\ud558\uc138\uc694.)",
-  "num_followers": 483166,
+  "num_followers": 483188,
   "original_name": "Dalkom Cafe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNjI3NWQyOTFmMzJmNDJkMGQ0OTc4N2YwZTgyNWRkNzhmY2ZhYjc4",
+  "snapshot_id": "MCxlNTgzNTI0ODM3MmFkNTdjYzFjZmI0MTJjNDFiNTBlOTVjOTllZTAw",
   "tracks": [
     {
       "added_at": "2024-01-23 13:54:03",
@@ -175,30 +175,6 @@
     {
       "added_at": "2024-01-23 13:54:03",
       "album": {
-        "name": "Dingo X BIG Naughty",
-        "url": "https://open.spotify.com/album/1bksL87asiBGZYwVyGR3kp"
-      },
-      "artists": [
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        },
-        {
-          "name": "B.I",
-          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
-        },
-        {
-          "name": "BANG YEDAM",
-          "url": "https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X"
-        }
-      ],
-      "duration_ms": 209386,
-      "name": "INFJ (Feat. B.I, BANG YEDAM)",
-      "url": "https://open.spotify.com/track/77GfQKz4WzULTEoLL286cT"
-    },
-    {
-      "added_at": "2024-01-23 13:54:03",
-      "album": {
         "name": "whenever it rains",
         "url": "https://open.spotify.com/album/7wq0JJCwDr7PlyPHv7Qgvq"
       },
@@ -219,6 +195,30 @@
       "duration_ms": 185737,
       "name": "Whenever it rains (feat. Nason & amin)",
       "url": "https://open.spotify.com/track/6eQtDU7frMlvQp3jSUqInu"
+    },
+    {
+      "added_at": "2024-01-23 13:54:03",
+      "album": {
+        "name": "Dingo X BIG Naughty",
+        "url": "https://open.spotify.com/album/1bksL87asiBGZYwVyGR3kp"
+      },
+      "artists": [
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        },
+        {
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+        },
+        {
+          "name": "BANG YEDAM",
+          "url": "https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X"
+        }
+      ],
+      "duration_ms": 209386,
+      "name": "INFJ (Feat. B.I, BANG YEDAM)",
+      "url": "https://open.spotify.com/track/77GfQKz4WzULTEoLL286cT"
     },
     {
       "added_at": "2024-01-23 13:54:03",

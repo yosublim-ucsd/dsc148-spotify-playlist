@@ -1,12 +1,12 @@
 {
   "description": "The very best of the alternative rock scene. Cover: Teenage Wrist",
-  "num_followers": 471990,
+  "num_followers": 471995,
   "original_name": "New  Alt-Rock Mixtape",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOTM2YjcwZWEwODhlZTlkNWEwMTJlNDM2Njk0ZDhjMDhhOGIzOGMw",
+  "snapshot_id": "MCxjNDBiNzFjNWE0ODVkYTAwZDg3YzgzYmEyM2Q5ZmI5NDFlYWM2YmM3",
   "tracks": [
     {
       "added_at": "2023-09-08 20:23:35",
@@ -531,18 +531,18 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "Blondshell",
-        "url": "https://open.spotify.com/album/7rG4h8pLLcr6kW30cbSWD8"
+        "name": "Myopic",
+        "url": "https://open.spotify.com/album/3eOLdLhghHk4EUNxrTzt8i"
       },
       "artists": [
         {
-          "name": "Blondshell",
-          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+          "name": "Drug Church",
+          "url": "https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ"
         }
       ],
-      "duration_ms": 239675,
-      "name": "Joiner",
-      "url": "https://open.spotify.com/track/27q2n59NonHyzNMKXzmaFX"
+      "duration_ms": 178000,
+      "name": "Myopic",
+      "url": "https://open.spotify.com/track/02PbIkn24emrkP1LDBymUp"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -563,18 +563,18 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "Myopic",
-        "url": "https://open.spotify.com/album/3eOLdLhghHk4EUNxrTzt8i"
+        "name": "Blondshell",
+        "url": "https://open.spotify.com/album/7rG4h8pLLcr6kW30cbSWD8"
       },
       "artists": [
         {
-          "name": "Drug Church",
-          "url": "https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ"
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
         }
       ],
-      "duration_ms": 178000,
-      "name": "Myopic",
-      "url": "https://open.spotify.com/track/02PbIkn24emrkP1LDBymUp"
+      "duration_ms": 239675,
+      "name": "Joiner",
+      "url": "https://open.spotify.com/track/27q2n59NonHyzNMKXzmaFX"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "Centipede",
-        "url": "https://open.spotify.com/album/5JeWduRYfv1Sj4Y2Vf9hQj"
-      },
-      "artists": [
-        {
-          "name": "FIDLAR",
-          "url": "https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud"
-        }
-      ],
-      "duration_ms": 157704,
-      "name": "Centipede",
-      "url": "https://open.spotify.com/track/49xISBZpODXRwd7vVxGL93"
-    },
-    {
-      "added_at": "2023-09-08 20:23:35",
-      "album": {
         "name": "Preacher",
         "url": "https://open.spotify.com/album/2meQ9Z51tvss87oWAbj5h3"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 105000,
       "name": "Preacher",
       "url": "https://open.spotify.com/track/7E4WyTUxVkEnaBwtD3CSK4"
+    },
+    {
+      "added_at": "2023-09-08 20:23:35",
+      "album": {
+        "name": "Centipede",
+        "url": "https://open.spotify.com/album/5JeWduRYfv1Sj4Y2Vf9hQj"
+      },
+      "artists": [
+        {
+          "name": "FIDLAR",
+          "url": "https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud"
+        }
+      ],
+      "duration_ms": 157704,
+      "name": "Centipede",
+      "url": "https://open.spotify.com/track/49xISBZpODXRwd7vVxGL93"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "Daydreaming",
-        "url": "https://open.spotify.com/album/1Q8BDjqStLsJa9fhlp5yjv"
-      },
-      "artists": [
-        {
-          "name": "P\u00c6RISH",
-          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
-        }
-      ],
-      "duration_ms": 215986,
-      "name": "Daydreaming",
-      "url": "https://open.spotify.com/track/1m4ZGzVWW9Z6J96THHBJMj"
-    },
-    {
-      "added_at": "2023-09-08 20:23:35",
-      "album": {
         "name": "SAY IT",
         "url": "https://open.spotify.com/album/7xfievnMGV3hqp1lW7I4wH"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 204560,
       "name": "Hung Up",
       "url": "https://open.spotify.com/track/6BvbBevaIuLHffC5Q09ueO"
+    },
+    {
+      "added_at": "2023-09-08 20:23:35",
+      "album": {
+        "name": "Daydreaming",
+        "url": "https://open.spotify.com/album/1Q8BDjqStLsJa9fhlp5yjv"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "duration_ms": 215986,
+      "name": "Daydreaming",
+      "url": "https://open.spotify.com/track/1m4ZGzVWW9Z6J96THHBJMj"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
+        "name": "Teenage Lines",
+        "url": "https://open.spotify.com/album/5Yrk53HYq1jeZbWE06FFXv"
+      },
+      "artists": [
+        {
+          "name": "alltheprettythings",
+          "url": "https://open.spotify.com/artist/1SbUXI8T8XPfiKewzGUCML"
+        }
+      ],
+      "duration_ms": 224602,
+      "name": "Teenage Lines",
+      "url": "https://open.spotify.com/track/2VLQao16kkYBiqmoMzNmJA"
+    },
+    {
+      "added_at": "2023-09-08 20:23:35",
+      "album": {
         "name": "She Said",
         "url": "https://open.spotify.com/album/6CCzu7oKzxpJ9pH3aKdAhk"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 241334,
       "name": "Stranded",
       "url": "https://open.spotify.com/track/02VlDdPkrqytJL6s130GSu"
-    },
-    {
-      "added_at": "2023-09-08 20:23:35",
-      "album": {
-        "name": "Distant Populations",
-        "url": "https://open.spotify.com/album/616nwZda5YwqxLfX8rZciA"
-      },
-      "artists": [
-        {
-          "name": "Quicksand",
-          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
-        }
-      ],
-      "duration_ms": 204453,
-      "name": "Missile Command",
-      "url": "https://open.spotify.com/track/2krrGxaYhLQwRu3QPkPnmB"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
+        "name": "Distant Populations",
+        "url": "https://open.spotify.com/album/616nwZda5YwqxLfX8rZciA"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "duration_ms": 204453,
+      "name": "Missile Command",
+      "url": "https://open.spotify.com/track/2krrGxaYhLQwRu3QPkPnmB"
+    },
+    {
+      "added_at": "2023-09-08 20:23:35",
+      "album": {
         "name": "Bye Bye Big Bear",
         "url": "https://open.spotify.com/album/79PfNXhYhRSo8mLST2gSti"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 176902,
       "name": "Bye Bye Big Bear",
       "url": "https://open.spotify.com/track/6nSd7gG3KWFqG7Za17Jna2"
-    },
-    {
-      "added_at": "2023-09-08 20:23:35",
-      "album": {
-        "name": "Teenage Lines",
-        "url": "https://open.spotify.com/album/5Yrk53HYq1jeZbWE06FFXv"
-      },
-      "artists": [
-        {
-          "name": "alltheprettythings",
-          "url": "https://open.spotify.com/artist/1SbUXI8T8XPfiKewzGUCML"
-        }
-      ],
-      "duration_ms": 224602,
-      "name": "Teenage Lines",
-      "url": "https://open.spotify.com/track/2VLQao16kkYBiqmoMzNmJA"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "Pay the Price",
-        "url": "https://open.spotify.com/album/3Fm8Xv3BLPJ9OgCTwX3kT4"
+        "name": "A New Breed",
+        "url": "https://open.spotify.com/album/5wvYWow2IFdXSdXQty500e"
       },
       "artists": [
         {
-          "name": "Glowing",
-          "url": "https://open.spotify.com/artist/0bqQxnj2ZL4M2dZahKDZFm"
+          "name": "The Pale White",
+          "url": "https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0"
         }
       ],
-      "duration_ms": 216108,
-      "name": "Pay the Price",
-      "url": "https://open.spotify.com/track/2nHMLYKRSpRlVPR75PNZUc"
+      "duration_ms": 243947,
+      "name": "How Far Can You Push A Man?",
+      "url": "https://open.spotify.com/track/0hwI2AEiMQV4M9oy99cvFa"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -1415,22 +1415,6 @@
       "duration_ms": 170080,
       "name": "I WANNA DIE BUT I CAN\u2019T (CUZ I GOTTA KEEP LIVING)",
       "url": "https://open.spotify.com/track/0OnbiHsuKbbczmvr6p9dHv"
-    },
-    {
-      "added_at": "2023-09-08 20:23:35",
-      "album": {
-        "name": "A New Breed",
-        "url": "https://open.spotify.com/album/5wvYWow2IFdXSdXQty500e"
-      },
-      "artists": [
-        {
-          "name": "The Pale White",
-          "url": "https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0"
-        }
-      ],
-      "duration_ms": 243947,
-      "name": "How Far Can You Push A Man?",
-      "url": "https://open.spotify.com/track/0hwI2AEiMQV4M9oy99cvFa"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -1471,6 +1455,22 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
+        "name": "Pay the Price",
+        "url": "https://open.spotify.com/album/3Fm8Xv3BLPJ9OgCTwX3kT4"
+      },
+      "artists": [
+        {
+          "name": "Glowing",
+          "url": "https://open.spotify.com/artist/0bqQxnj2ZL4M2dZahKDZFm"
+        }
+      ],
+      "duration_ms": 216108,
+      "name": "Pay the Price",
+      "url": "https://open.spotify.com/track/2nHMLYKRSpRlVPR75PNZUc"
+    },
+    {
+      "added_at": "2023-09-08 20:23:35",
+      "album": {
         "name": "Get Out Of My Life",
         "url": "https://open.spotify.com/album/7CkQnUSUR4eS1lfwJCa18o"
       },
@@ -1483,6 +1483,22 @@
       "duration_ms": 187431,
       "name": "Get Out Of My Life",
       "url": "https://open.spotify.com/track/44uVPmfFf3tWyOtekieLci"
+    },
+    {
+      "added_at": "2023-09-08 20:23:35",
+      "album": {
+        "name": "Never Enough",
+        "url": "https://open.spotify.com/album/3R3ALCiU33uYjXqandhEtV"
+      },
+      "artists": [
+        {
+          "name": "The Pale White",
+          "url": "https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0"
+        }
+      ],
+      "duration_ms": 172495,
+      "name": "Never Enough",
+      "url": "https://open.spotify.com/track/06fffo52aqA0mtecLvyE3I"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -1535,38 +1551,6 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "Boy",
-        "url": "https://open.spotify.com/album/0QbdLXY2Y1uROAxsautWnI"
-      },
-      "artists": [
-        {
-          "name": "P\u00c6RISH",
-          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
-        }
-      ],
-      "duration_ms": 201534,
-      "name": "Boy",
-      "url": "https://open.spotify.com/track/2hshvAEGDQESVol0zrHPQU"
-    },
-    {
-      "added_at": "2023-09-08 20:23:35",
-      "album": {
-        "name": "Never Enough",
-        "url": "https://open.spotify.com/album/3R3ALCiU33uYjXqandhEtV"
-      },
-      "artists": [
-        {
-          "name": "The Pale White",
-          "url": "https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0"
-        }
-      ],
-      "duration_ms": 172495,
-      "name": "Never Enough",
-      "url": "https://open.spotify.com/track/06fffo52aqA0mtecLvyE3I"
-    },
-    {
-      "added_at": "2023-09-08 20:23:35",
-      "album": {
         "name": "Where Do We Go From Here?",
         "url": "https://open.spotify.com/album/4mugwf4oHm7gG12MrLJsJV"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 188549,
       "name": "Where Do We Go From Here?",
       "url": "https://open.spotify.com/track/4IXi93psmDt4xcqRb52CT5"
+    },
+    {
+      "added_at": "2023-09-08 20:23:35",
+      "album": {
+        "name": "Boy",
+        "url": "https://open.spotify.com/album/0QbdLXY2Y1uROAxsautWnI"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "duration_ms": 201534,
+      "name": "Boy",
+      "url": "https://open.spotify.com/track/2hshvAEGDQESVol0zrHPQU"
     },
     {
       "added_at": "2023-09-08 20:23:35",

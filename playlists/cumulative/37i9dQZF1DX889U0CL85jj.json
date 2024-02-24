@@ -235,6 +235,24 @@
     },
     {
       "album": {
+        "name": "A Promise",
+        "url": "https://open.spotify.com/album/5FexbBBHbhjhsyBC6k0vp8"
+      },
+      "artists": [
+        {
+          "name": "Meernaa",
+          "url": "https://open.spotify.com/artist/6x8L59xNfuXIM7UfzoSe7g"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177822,
+      "name": "A Promise",
+      "url": "https://open.spotify.com/track/1sibZ12UhxsG33aQgcXYCp"
+    },
+    {
+      "album": {
         "name": "About You",
         "url": "https://open.spotify.com/album/71gKjKg1GfdCM7rtEWc48o"
       },
@@ -1724,7 +1742,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 185816,
       "name": "Charlie",
       "url": "https://open.spotify.com/track/3EbPZ8puT1QdOVDfnREDrn"
@@ -3430,7 +3448,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 169573,
       "name": "From The Start",
       "url": "https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ"
@@ -5032,7 +5050,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 208192,
       "name": "in ur motion",
       "url": "https://open.spotify.com/track/0Bh3BVPLMGyeeEKS8LW2ob"
@@ -5697,6 +5715,24 @@
     },
     {
       "album": {
+        "name": "Life Is",
+        "url": "https://open.spotify.com/album/54eLc8KKiIJcWmrkQV3A2b"
+      },
+      "artists": [
+        {
+          "name": "Jessica Pratt",
+          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188293,
+      "name": "Life Is",
+      "url": "https://open.spotify.com/track/3aJrUfPxOANdzY1weAqrgH"
+    },
+    {
+      "album": {
         "name": "Light (with BENEE)",
         "url": "https://open.spotify.com/album/5BwsHPXhIgCCpQsa52CBPR"
       },
@@ -5842,6 +5878,28 @@
       "duration_ms": 286000,
       "name": "Little Bit",
       "url": "https://open.spotify.com/track/10b4AEecewD0ns6uXImPEt"
+    },
+    {
+      "album": {
+        "name": "Little Monk (feat. Karriem Riggins)",
+        "url": "https://open.spotify.com/album/6InhfvTOSyqsMZbdRoeR8c"
+      },
+      "artists": [
+        {
+          "name": "The South Hill Experiment",
+          "url": "https://open.spotify.com/artist/6PmrG14lGhCeDfxf40nbZX"
+        },
+        {
+          "name": "Karriem Riggins",
+          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134616,
+      "name": "Little Monk (feat. Karriem Riggins)",
+      "url": "https://open.spotify.com/track/58G48t6eicC81u3W2OHFeq"
     },
     {
       "album": {
@@ -6230,6 +6288,24 @@
       "duration_ms": 292048,
       "name": "Make You Feel",
       "url": "https://open.spotify.com/track/2aufjq2wqMFwGBunVLaxiE"
+    },
+    {
+      "album": {
+        "name": "May Ninth",
+        "url": "https://open.spotify.com/album/0XTJuQSKa1LtnG7r5MO43L"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192144,
+      "name": "May Ninth",
+      "url": "https://open.spotify.com/track/2145px2VY14o2Pgr0OIttX"
     },
     {
       "album": {
@@ -8024,7 +8100,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 198373,
       "name": "Scarlet",
       "url": "https://open.spotify.com/track/3nUjs7y1fhZYSmPNQ0YfqO"
@@ -8751,6 +8827,24 @@
     },
     {
       "album": {
+        "name": "Sonido C\u00f3smico",
+        "url": "https://open.spotify.com/album/2P8acwzPaluqWw2qvnmIN0"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223427,
+      "name": "Sonido C\u00f3smico",
+      "url": "https://open.spotify.com/track/55BCpfZp7sVgGBzBlGW5f0"
+    },
+    {
+      "album": {
         "name": "Depression Cherry",
         "url": "https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr"
       },
@@ -8762,7 +8856,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 320466,
       "name": "Space Song",
       "url": "https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow"
@@ -8860,7 +8954,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 126283,
       "name": "Stanley",
       "url": "https://open.spotify.com/track/3oEygw3VoOhoqPn6EoCw9n"
@@ -9136,6 +9230,24 @@
       "duration_ms": 166692,
       "name": "Sugar",
       "url": "https://open.spotify.com/track/26NuFmVxFkx2ay9WGm2aHO"
+    },
+    {
+      "album": {
+        "name": "Summer Rain",
+        "url": "https://open.spotify.com/album/3OYtcP4ZW7XxlrkTsh9z62"
+      },
+      "artists": [
+        {
+          "name": "Olive Jones",
+          "url": "https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259005,
+      "name": "Summer Rain",
+      "url": "https://open.spotify.com/track/4AxMrysTzBOsFg94g3H7Mh"
     },
     {
       "album": {
@@ -9756,6 +9868,24 @@
       "duration_ms": 177727,
       "name": "Tetris People",
       "url": "https://open.spotify.com/track/51sZWHGW1PXyATnMsHxE78"
+    },
+    {
+      "album": {
+        "name": "Thanks",
+        "url": "https://open.spotify.com/album/3gPRFJbo622cLv9Tx2pdYS"
+      },
+      "artists": [
+        {
+          "name": "Teethe",
+          "url": "https://open.spotify.com/artist/3K2gErmF9xLdo6dqOj1VbI"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68000,
+      "name": "Thanks",
+      "url": "https://open.spotify.com/track/02bspNI1gmunfBI8u0xP95"
     },
     {
       "album": {
@@ -10418,7 +10548,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 379346,
       "name": "Visions - Flanger Version",
       "url": "https://open.spotify.com/track/1EWnX4sXfV9uQTek7xA6UR"

@@ -1,12 +1,12 @@
 {
   "description": "Faith without work[out]s is dead!  Get your beast mode on!",
-  "num_followers": 214222,
+  "num_followers": 214448,
   "original_name": "Beast Mode Christian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzhiYTAzY2Y3OGE5NWU4MWE3ZDkyNTdkOGY5ZTUwMWUyOGU5NTM2",
+  "snapshot_id": "MCwyZGM3MTg2ZmFiY2E2NGY3NGQ1MGViODExY2YxZmZiZmUyZjMzYmMx",
   "tracks": [
     {
       "added_at": "2024-02-02 06:01:21",
@@ -331,6 +331,26 @@
     {
       "added_at": "2024-02-02 06:01:21",
       "album": {
+        "name": "Amazing Grace",
+        "url": "https://open.spotify.com/album/0rqRhC288otR9wnmgHz6Bb"
+      },
+      "artists": [
+        {
+          "name": "A Mose",
+          "url": "https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X"
+        },
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        }
+      ],
+      "duration_ms": 176822,
+      "name": "Amazing Grace",
+      "url": "https://open.spotify.com/track/2SEEL3BHJyJFesm5X5OotI"
+    },
+    {
+      "added_at": "2024-02-02 06:01:21",
+      "album": {
         "name": "NO WEAPON (feat. Lecrae & Fred Hammond) [REMIX]",
         "url": "https://open.spotify.com/album/0xpcpeJfjzs0r8CzZkRGHK"
       },
@@ -355,26 +375,6 @@
     {
       "added_at": "2024-02-02 06:01:21",
       "album": {
-        "name": "Amazing Grace",
-        "url": "https://open.spotify.com/album/0rqRhC288otR9wnmgHz6Bb"
-      },
-      "artists": [
-        {
-          "name": "A Mose",
-          "url": "https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X"
-        },
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        }
-      ],
-      "duration_ms": 176822,
-      "name": "Amazing Grace",
-      "url": "https://open.spotify.com/track/2SEEL3BHJyJFesm5X5OotI"
-    },
-    {
-      "added_at": "2024-02-02 06:01:21",
-      "album": {
         "name": "Every Step",
         "url": "https://open.spotify.com/album/6dOZLDXel55K6Td1cbs1PG"
       },
@@ -391,26 +391,6 @@
       "duration_ms": 166191,
       "name": "Every Step",
       "url": "https://open.spotify.com/track/6lvJQigKOiGa8uAC4Ek6qd"
-    },
-    {
-      "added_at": "2024-02-02 06:01:21",
-      "album": {
-        "name": "Never Fold",
-        "url": "https://open.spotify.com/album/6lp34X38buB3Rl6u2zh5g1"
-      },
-      "artists": [
-        {
-          "name": "Tedashii",
-          "url": "https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1"
-        },
-        {
-          "name": "Trip Lee",
-          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
-        }
-      ],
-      "duration_ms": 209311,
-      "name": "God Flex",
-      "url": "https://open.spotify.com/track/7KC13bS7eUYeXcRXvfYhAy"
     },
     {
       "added_at": "2024-02-02 06:01:21",
@@ -435,6 +415,26 @@
       "duration_ms": 217750,
       "name": "Good, Pt. 2",
       "url": "https://open.spotify.com/track/2w5UQS0tj6nmLSX3lNduze"
+    },
+    {
+      "added_at": "2024-02-02 06:01:21",
+      "album": {
+        "name": "Never Fold",
+        "url": "https://open.spotify.com/album/6lp34X38buB3Rl6u2zh5g1"
+      },
+      "artists": [
+        {
+          "name": "Tedashii",
+          "url": "https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1"
+        },
+        {
+          "name": "Trip Lee",
+          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
+        }
+      ],
+      "duration_ms": 209311,
+      "name": "God Flex",
+      "url": "https://open.spotify.com/track/7KC13bS7eUYeXcRXvfYhAy"
     },
     {
       "added_at": "2024-02-02 06:01:21",
@@ -811,26 +811,6 @@
     {
       "added_at": "2024-02-02 06:01:21",
       "album": {
-        "name": "DONT TOUCH ME",
-        "url": "https://open.spotify.com/album/5SBMPUnW26mVlJNBJhubCU"
-      },
-      "artists": [
-        {
-          "name": "BigBreeze",
-          "url": "https://open.spotify.com/artist/7wrWSJHfACjw7s7gYXOXTt"
-        },
-        {
-          "name": "I Project",
-          "url": "https://open.spotify.com/artist/2vopeXLtll2qbLRkitd3Me"
-        }
-      ],
-      "duration_ms": 97425,
-      "name": "DONT TOUCH ME",
-      "url": "https://open.spotify.com/track/6Wowg4HDcSzcfQokFxzGnv"
-    },
-    {
-      "added_at": "2024-02-02 06:01:21",
-      "album": {
         "name": "Real Talk",
         "url": "https://open.spotify.com/album/2HdQI8ne0nJsuHZKfyiWh9"
       },
@@ -851,18 +831,22 @@
     {
       "added_at": "2024-02-02 06:01:21",
       "album": {
-        "name": "Life and Death",
-        "url": "https://open.spotify.com/album/3Ptyj0m3OHHb74ErQGvjfj"
+        "name": "DONT TOUCH ME",
+        "url": "https://open.spotify.com/album/5SBMPUnW26mVlJNBJhubCU"
       },
       "artists": [
         {
-          "name": "Torey D'Shaun",
-          "url": "https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD"
+          "name": "BigBreeze",
+          "url": "https://open.spotify.com/artist/7wrWSJHfACjw7s7gYXOXTt"
+        },
+        {
+          "name": "I Project",
+          "url": "https://open.spotify.com/artist/2vopeXLtll2qbLRkitd3Me"
         }
       ],
-      "duration_ms": 178357,
-      "name": "Her Song",
-      "url": "https://open.spotify.com/track/6ffgPcFHGLuccB1yKcCmMV"
+      "duration_ms": 97425,
+      "name": "DONT TOUCH ME",
+      "url": "https://open.spotify.com/track/6Wowg4HDcSzcfQokFxzGnv"
     },
     {
       "added_at": "2024-02-02 06:01:21",
@@ -883,18 +867,18 @@
     {
       "added_at": "2024-02-02 06:01:21",
       "album": {
-        "name": "Wavy",
-        "url": "https://open.spotify.com/album/6eqCJGPpG3ShFA5WSXQlKg"
+        "name": "Life and Death",
+        "url": "https://open.spotify.com/album/3Ptyj0m3OHHb74ErQGvjfj"
       },
       "artists": [
         {
-          "name": "Reblah",
-          "url": "https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV"
+          "name": "Torey D'Shaun",
+          "url": "https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD"
         }
       ],
-      "duration_ms": 164210,
-      "name": "Wavy",
-      "url": "https://open.spotify.com/track/61hTCLVKXkvxQKRiTFOwd1"
+      "duration_ms": 178357,
+      "name": "Her Song",
+      "url": "https://open.spotify.com/track/6ffgPcFHGLuccB1yKcCmMV"
     },
     {
       "added_at": "2024-02-02 06:01:21",
@@ -915,6 +899,22 @@
       "duration_ms": 116730,
       "name": "WORKOUT",
       "url": "https://open.spotify.com/track/0wapads1fnPZcykH4lHyFU"
+    },
+    {
+      "added_at": "2024-02-02 06:01:21",
+      "album": {
+        "name": "Wavy",
+        "url": "https://open.spotify.com/album/6eqCJGPpG3ShFA5WSXQlKg"
+      },
+      "artists": [
+        {
+          "name": "Reblah",
+          "url": "https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV"
+        }
+      ],
+      "duration_ms": 164210,
+      "name": "Wavy",
+      "url": "https://open.spotify.com/track/61hTCLVKXkvxQKRiTFOwd1"
     },
     {
       "added_at": "2024-02-02 06:01:21",
@@ -1015,6 +1015,26 @@
     {
       "added_at": "2024-02-02 06:01:21",
       "album": {
+        "name": "Blessing",
+        "url": "https://open.spotify.com/album/0cw1NOPTQ8R6bNjl394M5Z"
+      },
+      "artists": [
+        {
+          "name": "Jered Sanders",
+          "url": "https://open.spotify.com/artist/4kjg5xFLFVfWJFus3mwV5e"
+        },
+        {
+          "name": "Mission",
+          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
+        }
+      ],
+      "duration_ms": 184238,
+      "name": "Blessing",
+      "url": "https://open.spotify.com/track/1e2AcRwaevTcFrNqWzlmOy"
+    },
+    {
+      "added_at": "2024-02-02 06:01:21",
+      "album": {
         "name": "PLAN PLAN",
         "url": "https://open.spotify.com/album/2xNO3xacBP2uF3qH5OSacX"
       },
@@ -1039,26 +1059,6 @@
     {
       "added_at": "2024-02-02 06:01:21",
       "album": {
-        "name": "Blessing",
-        "url": "https://open.spotify.com/album/0cw1NOPTQ8R6bNjl394M5Z"
-      },
-      "artists": [
-        {
-          "name": "Jered Sanders",
-          "url": "https://open.spotify.com/artist/4kjg5xFLFVfWJFus3mwV5e"
-        },
-        {
-          "name": "Mission",
-          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
-        }
-      ],
-      "duration_ms": 184238,
-      "name": "Blessing",
-      "url": "https://open.spotify.com/track/1e2AcRwaevTcFrNqWzlmOy"
-    },
-    {
-      "added_at": "2024-02-02 06:01:21",
-      "album": {
         "name": "What?",
         "url": "https://open.spotify.com/album/4hpOq5jJwDOm3ziv3XTzzw"
       },
@@ -1071,6 +1071,26 @@
       "duration_ms": 132472,
       "name": "What?",
       "url": "https://open.spotify.com/track/6QF4hXZyp6QCrwakTtVO1v"
+    },
+    {
+      "added_at": "2024-02-02 06:01:21",
+      "album": {
+        "name": "Full Metal",
+        "url": "https://open.spotify.com/album/0sa6oqWexI0P9S2Y26R1wp"
+      },
+      "artists": [
+        {
+          "name": "Nu Tone",
+          "url": "https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA"
+        },
+        {
+          "name": "Kay Sade",
+          "url": "https://open.spotify.com/artist/4PkhCFbcHgGFYHEspjPkq3"
+        }
+      ],
+      "duration_ms": 200314,
+      "name": "Full Metal",
+      "url": "https://open.spotify.com/track/1sM1V8sfSKIt1vg5JBm8WY"
     },
     {
       "added_at": "2024-02-02 06:01:21",
@@ -1111,26 +1131,18 @@
     {
       "added_at": "2024-02-02 06:01:21",
       "album": {
-        "name": "STRONGER",
-        "url": "https://open.spotify.com/album/3h1Cw8Eitj3GNp1VMENmCj"
+        "name": "Nowhere to Hide",
+        "url": "https://open.spotify.com/album/1AIkSFCj18sczlY4PxcSKX"
       },
       "artists": [
         {
-          "name": "Shepherd",
-          "url": "https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU"
-        },
-        {
-          "name": "Toyalove",
-          "url": "https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6"
-        },
-        {
-          "name": "Childlike CiCi",
-          "url": "https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1"
+          "name": "Deraj",
+          "url": "https://open.spotify.com/artist/1iYLxzjCinlEJENGThVxjD"
         }
       ],
-      "duration_ms": 132053,
-      "name": "STRONGER",
-      "url": "https://open.spotify.com/track/3Bnxe7UFZaFDrjDTcYgidL"
+      "duration_ms": 158400,
+      "name": "Nowhere to Hide",
+      "url": "https://open.spotify.com/track/5yRZwS9WHwVnWiOkemOMrw"
     },
     {
       "added_at": "2024-02-02 06:01:21",
@@ -1159,38 +1171,42 @@
     {
       "added_at": "2024-02-02 06:01:21",
       "album": {
-        "name": "Nowhere to Hide",
-        "url": "https://open.spotify.com/album/1AIkSFCj18sczlY4PxcSKX"
+        "name": "I REMEMBER",
+        "url": "https://open.spotify.com/album/0Iy7mzJgjUgLxR5kRnc8KA"
       },
       "artists": [
         {
-          "name": "Deraj",
-          "url": "https://open.spotify.com/artist/1iYLxzjCinlEJENGThVxjD"
+          "name": "Christopher Syncere",
+          "url": "https://open.spotify.com/artist/6oTjD6G08PuR7EjE0AjL5u"
         }
       ],
-      "duration_ms": 158400,
-      "name": "Nowhere to Hide",
-      "url": "https://open.spotify.com/track/5yRZwS9WHwVnWiOkemOMrw"
+      "duration_ms": 109730,
+      "name": "I REMEMBER",
+      "url": "https://open.spotify.com/track/7y0EHJhDC5ZOxA6Nx6the1"
     },
     {
       "added_at": "2024-02-02 06:01:21",
       "album": {
-        "name": "Full Metal",
-        "url": "https://open.spotify.com/album/0sa6oqWexI0P9S2Y26R1wp"
+        "name": "STRONGER",
+        "url": "https://open.spotify.com/album/3h1Cw8Eitj3GNp1VMENmCj"
       },
       "artists": [
         {
-          "name": "Nu Tone",
-          "url": "https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA"
+          "name": "Shepherd",
+          "url": "https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU"
         },
         {
-          "name": "Kay Sade",
-          "url": "https://open.spotify.com/artist/4PkhCFbcHgGFYHEspjPkq3"
+          "name": "Toyalove",
+          "url": "https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6"
+        },
+        {
+          "name": "Childlike CiCi",
+          "url": "https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1"
         }
       ],
-      "duration_ms": 200314,
-      "name": "Full Metal",
-      "url": "https://open.spotify.com/track/1sM1V8sfSKIt1vg5JBm8WY"
+      "duration_ms": 132053,
+      "name": "STRONGER",
+      "url": "https://open.spotify.com/track/3Bnxe7UFZaFDrjDTcYgidL"
     },
     {
       "added_at": "2024-02-02 06:01:21",
@@ -1231,22 +1247,6 @@
       "duration_ms": 193653,
       "name": "Let's Go",
       "url": "https://open.spotify.com/track/5kYJsf5JPK5Iyqcv92FsmS"
-    },
-    {
-      "added_at": "2024-02-02 06:01:21",
-      "album": {
-        "name": "I REMEMBER",
-        "url": "https://open.spotify.com/album/0Iy7mzJgjUgLxR5kRnc8KA"
-      },
-      "artists": [
-        {
-          "name": "Christopher Syncere",
-          "url": "https://open.spotify.com/artist/6oTjD6G08PuR7EjE0AjL5u"
-        }
-      ],
-      "duration_ms": 109730,
-      "name": "I REMEMBER",
-      "url": "https://open.spotify.com/track/7y0EHJhDC5ZOxA6Nx6the1"
     },
     {
       "added_at": "2024-02-02 06:01:21",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2024-02-02 06:01:21",
       "album": {
+        "name": "Nicely",
+        "url": "https://open.spotify.com/album/56KdLLhVf6YC3YyMz6ArmC"
+      },
+      "artists": [
+        {
+          "name": "Vic Lucas",
+          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
+        }
+      ],
+      "duration_ms": 170859,
+      "name": "Nicely",
+      "url": "https://open.spotify.com/track/4cBCYWUCQ6DKyfWINpQuOz"
+    },
+    {
+      "added_at": "2024-02-02 06:01:21",
+      "album": {
         "name": "Loud",
         "url": "https://open.spotify.com/album/61YS4yGbyJ4nIYW2xah08l"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 178285,
       "name": "Loud",
       "url": "https://open.spotify.com/track/6WO3KK8I7ym148Lsh8KHPG"
-    },
-    {
-      "added_at": "2024-02-02 06:01:21",
-      "album": {
-        "name": "Nicely",
-        "url": "https://open.spotify.com/album/56KdLLhVf6YC3YyMz6ArmC"
-      },
-      "artists": [
-        {
-          "name": "Vic Lucas",
-          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
-        }
-      ],
-      "duration_ms": 170859,
-      "name": "Nicely",
-      "url": "https://open.spotify.com/track/4cBCYWUCQ6DKyfWINpQuOz"
     },
     {
       "added_at": "2024-02-02 06:01:21",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2024-02-02 06:01:21",
       "album": {
-        "name": "Lay Up",
-        "url": "https://open.spotify.com/album/2mClPnaQSQmux4OMZyO8mg"
-      },
-      "artists": [
-        {
-          "name": "Canon",
-          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
-        }
-      ],
-      "duration_ms": 142582,
-      "name": "Lay Up",
-      "url": "https://open.spotify.com/track/424DYlPB1cJCWiGKjFK5pU"
-    },
-    {
-      "added_at": "2024-02-02 06:01:21",
-      "album": {
         "name": "LIGHTHOUSE",
         "url": "https://open.spotify.com/album/28K5FbI0YB10Ur7Yu5IXlR"
       },
@@ -1439,18 +1423,18 @@
     {
       "added_at": "2024-02-02 06:01:21",
       "album": {
-        "name": "ONE OF THE FEW",
-        "url": "https://open.spotify.com/album/3ZQR5JU6dLNAvYdG3dO4N9"
+        "name": "Lay Up",
+        "url": "https://open.spotify.com/album/2mClPnaQSQmux4OMZyO8mg"
       },
       "artists": [
         {
-          "name": "Linga TheBoss",
-          "url": "https://open.spotify.com/artist/5jCTpUeZQ61zaoSYgYV2cY"
+          "name": "Canon",
+          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
         }
       ],
-      "duration_ms": 132000,
-      "name": "STRAPPED",
-      "url": "https://open.spotify.com/track/5DznFcDLV51dLDVaMnn52j"
+      "duration_ms": 142582,
+      "name": "Lay Up",
+      "url": "https://open.spotify.com/track/424DYlPB1cJCWiGKjFK5pU"
     },
     {
       "added_at": "2024-02-02 06:01:21",
@@ -1471,22 +1455,18 @@
     {
       "added_at": "2024-02-02 06:01:21",
       "album": {
-        "name": "Affirmations",
-        "url": "https://open.spotify.com/album/7nsuo2vcsPXDQdCQBY6SYv"
+        "name": "ONE OF THE FEW",
+        "url": "https://open.spotify.com/album/3ZQR5JU6dLNAvYdG3dO4N9"
       },
       "artists": [
         {
-          "name": "Anthony Brown & group therAPy",
-          "url": "https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w"
-        },
-        {
-          "name": "Zach Savage",
-          "url": "https://open.spotify.com/artist/6qboll02kzM1CJ3uuJr9JJ"
+          "name": "Linga TheBoss",
+          "url": "https://open.spotify.com/artist/5jCTpUeZQ61zaoSYgYV2cY"
         }
       ],
-      "duration_ms": 239266,
-      "name": "Up Up Up (Introducing Zach Savage)",
-      "url": "https://open.spotify.com/track/72PsXICuJgpSYYvjhJARa7"
+      "duration_ms": 132000,
+      "name": "STRAPPED",
+      "url": "https://open.spotify.com/track/5DznFcDLV51dLDVaMnn52j"
     },
     {
       "added_at": "2024-02-02 06:01:21",
@@ -1515,6 +1495,26 @@
     {
       "added_at": "2024-02-02 06:01:21",
       "album": {
+        "name": "Affirmations",
+        "url": "https://open.spotify.com/album/7nsuo2vcsPXDQdCQBY6SYv"
+      },
+      "artists": [
+        {
+          "name": "Anthony Brown & group therAPy",
+          "url": "https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w"
+        },
+        {
+          "name": "Zach Savage",
+          "url": "https://open.spotify.com/artist/6qboll02kzM1CJ3uuJr9JJ"
+        }
+      ],
+      "duration_ms": 239266,
+      "name": "Up Up Up (Introducing Zach Savage)",
+      "url": "https://open.spotify.com/track/72PsXICuJgpSYYvjhJARa7"
+    },
+    {
+      "added_at": "2024-02-02 06:01:21",
+      "album": {
         "name": "Durag Tech",
         "url": "https://open.spotify.com/album/3t8yOw7akcDVXMa5LCRQaY"
       },
@@ -1527,6 +1527,58 @@
       "duration_ms": 140122,
       "name": "Tough Love",
       "url": "https://open.spotify.com/track/63N6oeVUu4RehqpPutwwcC"
+    },
+    {
+      "added_at": "2024-02-02 06:01:21",
+      "album": {
+        "name": "STOP WHAT YOU DIDNT START (SWYDS)",
+        "url": "https://open.spotify.com/album/1Mgaje2RAFEIv4USFrid6J"
+      },
+      "artists": [
+        {
+          "name": "Childlike CiCi",
+          "url": "https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1"
+        }
+      ],
+      "duration_ms": 102857,
+      "name": "STOP WHAT YOU DIDNT START (SWYDS)",
+      "url": "https://open.spotify.com/track/6T3FKJKjSsiisj3Hc6zr8v"
+    },
+    {
+      "added_at": "2024-02-02 06:01:21",
+      "album": {
+        "name": "KEEPER",
+        "url": "https://open.spotify.com/album/6zNdGUzCMIPdyrPozkUxDV"
+      },
+      "artists": [
+        {
+          "name": "Amar",
+          "url": "https://open.spotify.com/artist/6EzcG2756Gcv7qEmZmnjl2"
+        },
+        {
+          "name": "Vianca \"The Grace\"",
+          "url": "https://open.spotify.com/artist/3Xekr22iZIFUAb6eMOPNxP"
+        }
+      ],
+      "duration_ms": 238285,
+      "name": "KEEPER",
+      "url": "https://open.spotify.com/track/0Nki8E9SuPPACfXghDz3q8"
+    },
+    {
+      "added_at": "2024-02-02 06:01:21",
+      "album": {
+        "name": "Problematic",
+        "url": "https://open.spotify.com/album/30OUjNnqVA6L3Gx9AbkRi4"
+      },
+      "artists": [
+        {
+          "name": "Larell",
+          "url": "https://open.spotify.com/artist/46GtWnG0MVdRyU86tvB2zw"
+        }
+      ],
+      "duration_ms": 174421,
+      "name": "Problematic",
+      "url": "https://open.spotify.com/track/3hR8annMZySBYsETZ54FJ5"
     },
     {
       "added_at": "2024-02-02 06:01:21",
@@ -1551,38 +1603,6 @@
     {
       "added_at": "2024-02-02 06:01:21",
       "album": {
-        "name": "Problematic",
-        "url": "https://open.spotify.com/album/30OUjNnqVA6L3Gx9AbkRi4"
-      },
-      "artists": [
-        {
-          "name": "Larell",
-          "url": "https://open.spotify.com/artist/46GtWnG0MVdRyU86tvB2zw"
-        }
-      ],
-      "duration_ms": 174421,
-      "name": "Problematic",
-      "url": "https://open.spotify.com/track/3hR8annMZySBYsETZ54FJ5"
-    },
-    {
-      "added_at": "2024-02-02 06:01:21",
-      "album": {
-        "name": "STOP WHAT YOU DIDNT START (SWYDS)",
-        "url": "https://open.spotify.com/album/1Mgaje2RAFEIv4USFrid6J"
-      },
-      "artists": [
-        {
-          "name": "Childlike CiCi",
-          "url": "https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1"
-        }
-      ],
-      "duration_ms": 102857,
-      "name": "STOP WHAT YOU DIDNT START (SWYDS)",
-      "url": "https://open.spotify.com/track/6T3FKJKjSsiisj3Hc6zr8v"
-    },
-    {
-      "added_at": "2024-02-02 06:01:21",
-      "album": {
         "name": "Count Me Out",
         "url": "https://open.spotify.com/album/2vTqJHgX7ymPgrvDH8e61l"
       },
@@ -1599,26 +1619,6 @@
       "duration_ms": 170434,
       "name": "Count Me Out",
       "url": "https://open.spotify.com/track/05uNEmsmsLaMxOOZQxtkGP"
-    },
-    {
-      "added_at": "2024-02-02 06:01:21",
-      "album": {
-        "name": "KEEPER",
-        "url": "https://open.spotify.com/album/6zNdGUzCMIPdyrPozkUxDV"
-      },
-      "artists": [
-        {
-          "name": "Amar",
-          "url": "https://open.spotify.com/artist/6EzcG2756Gcv7qEmZmnjl2"
-        },
-        {
-          "name": "Vianca \"The Grace\"",
-          "url": "https://open.spotify.com/artist/3Xekr22iZIFUAb6eMOPNxP"
-        }
-      ],
-      "duration_ms": 238285,
-      "name": "KEEPER",
-      "url": "https://open.spotify.com/track/0Nki8E9SuPPACfXghDz3q8"
     },
     {
       "added_at": "2024-02-02 06:01:21",

@@ -1,12 +1,12 @@
 {
   "description": "sunny days, happy people ",
-  "num_followers": 83289,
+  "num_followers": 83285,
   "original_name": "summer songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMTY5MmE5MzliMjQ5NWVkM2M1NWE1Zjg4OTJkY2E4YmQxNjY4MjQ1",
+  "snapshot_id": "MCwyNjA0MzJmZWVjYzc0YTY5MTRkNzc5YjJlM2NmYjQyZmRlZWMyMWE3",
   "tracks": [
     {
       "added_at": "2023-05-30 15:20:26",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2023-05-30 15:20:26",
       "album": {
+        "name": "American Teen",
+        "url": "https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 228600,
+      "name": "8TEEN",
+      "url": "https://open.spotify.com/track/5bgwqaRSS3M8WHWruHgSL5"
+    },
+    {
+      "added_at": "2023-05-30 15:20:26",
+      "album": {
         "name": "Ibiza 2019",
         "url": "https://open.spotify.com/album/1EFQdXVbYzfSP1KQQoIOzj"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 256000,
       "name": "Dancin - Krono Remix",
       "url": "https://open.spotify.com/track/4IlqQhaxrGPxmg35YcXXuS"
-    },
-    {
-      "added_at": "2023-05-30 15:20:26",
-      "album": {
-        "name": "American Teen",
-        "url": "https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 228600,
-      "name": "8TEEN",
-      "url": "https://open.spotify.com/track/5bgwqaRSS3M8WHWruHgSL5"
     },
     {
       "added_at": "2023-05-30 15:20:26",

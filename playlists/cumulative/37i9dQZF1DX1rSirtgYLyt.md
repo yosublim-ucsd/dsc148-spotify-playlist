@@ -4,7 +4,7 @@
 
 > The best cover versions from the world of Blues\. Taj Mahal on cover.
 
-143 songs - 10 hr 35 min
+144 songs - 10 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,8 @@
 | [See See Baby](https://open.spotify.com/track/6eT9mU2QtYtHFNt2qTSQiL) | [Aynsley Dunbar Retaliation](https://open.spotify.com/artist/5PwOYsK8fRoIJcMxXBwdhX) | [Aynsley Dunbar Retaliation](https://open.spotify.com/album/5x2oNDLg8c4wWHObs8fGYB) | 2:20 | 2023-03-03 |  |
 | [She Loves You](https://open.spotify.com/track/4HnmJHeEWRhyVETGfBiGIX) | [Stan Webb](https://open.spotify.com/artist/5q92HD24UWdGpV7pUU0ZlF), [Chicken Shack](https://open.spotify.com/artist/7aUVQRiWaOqZU0JwOlGfWi) | [Strange Situations: The Stan Webb & Chicken Shack Indigo Sessions](https://open.spotify.com/album/4TnvcqbCj5pncCpXtBnNgH) | 4:16 | 2023-01-12 | 2023-11-05 |
 | [She Loves You](https://open.spotify.com/track/7JltGnKRzDG5QMy9UrYM9t) | [Stan Webb](https://open.spotify.com/artist/5q92HD24UWdGpV7pUU0ZlF), [Chicken Shack](https://open.spotify.com/artist/7aUVQRiWaOqZU0JwOlGfWi) | [Strange Situations: The Stan Webb & Chicken Shack Indigo Sessions](https://open.spotify.com/album/4W13R6FBiOSmRqOL8KHFEJ) | 4:16 | 2023-10-13 |  |
-| [Smokestack Lightning](https://open.spotify.com/track/2ltKgfElKBcNHh2ZIq0TRv) | [Marty O'Reilly & the Old Soul Orchestra](https://open.spotify.com/artist/0oFKnXK9fgRpWNyKoJeSOy) | [Pray for Rain](https://open.spotify.com/album/4ZLAsjVWkF6YjKJbfa4fhA) | 6:51 | 2023-01-12 |  |
+| [Smokestack Lightning](https://open.spotify.com/track/5ejer9JccgqM0XDMEvaDML) | [Marty O'Reilly & the Old Soul Orchestra](https://open.spotify.com/artist/0oFKnXK9fgRpWNyKoJeSOy) | [Pray for Rain](https://open.spotify.com/album/5UDdEvMwk2mSrepToHeEXs) | 6:47 | 2023-11-17 |  |
+| [Smokestack Lightning](https://open.spotify.com/track/2ltKgfElKBcNHh2ZIq0TRv) | [Marty O'Reilly & the Old Soul Orchestra](https://open.spotify.com/artist/0oFKnXK9fgRpWNyKoJeSOy) | [Pray for Rain](https://open.spotify.com/album/4ZLAsjVWkF6YjKJbfa4fhA) | 6:51 | 2023-01-12 | 2024-02-24 |
 | [Statesboro Blues](https://open.spotify.com/track/3UsbGR71AjcBYOWoUlfTdm) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [The 1971 Fillmore East Recordings](https://open.spotify.com/album/4RbjXWZ3uTRGP3DRT6nvKz) | 4:44 | 2022-06-24 |  |
 | [Steamroller Blues \- Live at The Honolulu International Center, Hawaii January 14, 1973](https://open.spotify.com/track/1O04SZEcUXf8Y4uRedwt75) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Aloha From Hawaii Via Satellite \(Deluxe Edition\)](https://open.spotify.com/album/5X3C75j0EXwudyUS6UiEVD) | 3:13 | 2023-08-11 |  |
 | [Steamroller Blues \- Live at The Honolulu International Center, Hawaii January 14, 1973](https://open.spotify.com/track/3uidPerAr5q3o0b3OBu0rb) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Steamroller Blues \(Live at The Honolulu International Center, Hawaii January 14, 1973\)](https://open.spotify.com/album/0QTDdv8kqsYqV11eYutEgs) | 3:13 | 2023-06-09 | 2023-08-13 |

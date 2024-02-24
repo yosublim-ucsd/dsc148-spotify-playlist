@@ -1,5 +1,5 @@
 {
-  "2024-02-23": 30934,
+  "2024-02-24": 30932,
   "date_first_scraped": "2020-11-03",
   "description": "Kickstart your morning workout with these upbeat workout tracks, updated weekly! Featuring Dom Dolla, Kygo, cass\u00f6, Calvin Harris and more.",
   "name": "Morning Workout",
@@ -10896,6 +10896,24 @@
     },
     {
       "album": {
+        "name": "NOW COME ON NOW",
+        "url": "https://open.spotify.com/album/6ncJdlq3oqhAxRxrgRkWxi"
+      },
+      "artists": [
+        {
+          "name": "KYE",
+          "url": "https://open.spotify.com/artist/7aD0vAhYP5JsPQPgrd76bp"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155638,
+      "name": "NOW COME ON NOW",
+      "url": "https://open.spotify.com/track/7c6oQ0XE7ajiShh26GC299"
+    },
+    {
+      "album": {
         "name": "Nowhere",
         "url": "https://open.spotify.com/album/28dAUA6OF4hpjtLqS3EFEQ"
       },
@@ -15373,7 +15391,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 170616,
       "name": "Think Of Us",
       "url": "https://open.spotify.com/track/4jpNmNXMzO3aVgJhy8sdxL"

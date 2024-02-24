@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new hip\-hop music by independent artists and labels\. Cover: Cash Cobain
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,110 likes - 75 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,190 likes - 75 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 74 | [Trimmer](https://open.spotify.com/track/3T4OrIZRLpeL4krav8XM8z) | [Trigga500k](https://open.spotify.com/artist/3sKEcXiXfFmjp7qOo44qfx) | [Trimmer](https://open.spotify.com/album/4eQc50f3xZYKoO2QXZwZvK) | 2:30 |
 | 75 | [Let It Spill](https://open.spotify.com/track/24HA9VkORFLt98zdbG6Lvu) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb) | [Let It Spill](https://open.spotify.com/album/7FhDdG4tAMqSgbHhOMKFJI) | 2:46 |
 
-Snapshot ID: `MCxjMjJjODdhOWYzZTg4ZGE3OGRmNjVkNWUxZDVjNGZiZGNiOTQwNDBj`
+Snapshot ID: `MCwzODQ4NmJiNjY0YzFlODM1YWM2YTc2YmE1YjJjMDQzZjlhOTI3NDM1`

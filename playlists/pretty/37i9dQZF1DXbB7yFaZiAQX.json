@@ -1,12 +1,12 @@
 {
   "description": "'80s New Wave, New Romantic and Post-punk.",
-  "num_followers": 1019763,
+  "num_followers": 1019991,
   "original_name": "'80s All Lined Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Njg5MWMzNGI4MzViMGE1NTI1MThjNmU1ZGY3MDQxZDY5OWMxNDIz",
+  "snapshot_id": "MCxjNGYxMmIxMTRmNWYxY2UzNGFhNDJiMjMwMDIyOThhMjQ1ZWM3MWQ1",
   "tracks": [
     {
       "added_at": "2023-05-03 07:47:14",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Love",
-        "url": "https://open.spotify.com/album/2hallpchkYldMa5lGGf1Ko"
-      },
-      "artists": [
-        {
-          "name": "The Cult",
-          "url": "https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS"
-        }
-      ],
-      "duration_ms": 252533,
-      "name": "She Sells Sanctuary",
-      "url": "https://open.spotify.com/track/3qLZ866ZfaK0B0R5FIqXLG"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "The Hurting",
         "url": "https://open.spotify.com/album/3sIFpEctox1XOs3FEkqrgr"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 215400,
       "name": "Mad World",
       "url": "https://open.spotify.com/track/0Qv7xi6uPSqH2k82tOkGSt"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Organisation",
+        "url": "https://open.spotify.com/album/3bouQtY9H1DP39yxqHuFf8"
+      },
+      "artists": [
+        {
+          "name": "Orchestral Manoeuvres In The Dark",
+          "url": "https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk"
+        }
+      ],
+      "duration_ms": 213693,
+      "name": "Enola Gay - Remastered 2003",
+      "url": "https://open.spotify.com/track/3NYCaxkggl0Hh8vQptSUvV"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -363,18 +363,18 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Organisation",
-        "url": "https://open.spotify.com/album/3bouQtY9H1DP39yxqHuFf8"
+        "name": "Love",
+        "url": "https://open.spotify.com/album/2hallpchkYldMa5lGGf1Ko"
       },
       "artists": [
         {
-          "name": "Orchestral Manoeuvres In The Dark",
-          "url": "https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk"
+          "name": "The Cult",
+          "url": "https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS"
         }
       ],
-      "duration_ms": 213693,
-      "name": "Enola Gay - Remastered 2003",
-      "url": "https://open.spotify.com/track/3NYCaxkggl0Hh8vQptSUvV"
+      "duration_ms": 252533,
+      "name": "She Sells Sanctuary",
+      "url": "https://open.spotify.com/track/3qLZ866ZfaK0B0R5FIqXLG"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Orchestral Manoeuvres In The Dark (Remastered 2003)",
-        "url": "https://open.spotify.com/album/5AN8aqTrcuMZO7rpD9U2yF"
-      },
-      "artists": [
-        {
-          "name": "Orchestral Manoeuvres In The Dark",
-          "url": "https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk"
-        }
-      ],
-      "duration_ms": 219066,
-      "name": "Electricity - Remastered 2003",
-      "url": "https://open.spotify.com/track/60TmG8cFPMBo7kTTFOLiAB"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Off The Bone",
         "url": "https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi"
       },
@@ -987,18 +971,18 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Love",
-        "url": "https://open.spotify.com/album/2hallpchkYldMa5lGGf1Ko"
+        "name": "Orchestral Manoeuvres In The Dark (Remastered 2003)",
+        "url": "https://open.spotify.com/album/5AN8aqTrcuMZO7rpD9U2yF"
       },
       "artists": [
         {
-          "name": "The Cult",
-          "url": "https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS"
+          "name": "Orchestral Manoeuvres In The Dark",
+          "url": "https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk"
         }
       ],
-      "duration_ms": 236466,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/3Od5XBElZqm5N6rr86LS5r"
+      "duration_ms": 219066,
+      "name": "Electricity - Remastered 2003",
+      "url": "https://open.spotify.com/track/60TmG8cFPMBo7kTTFOLiAB"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1015,6 +999,22 @@
       "duration_ms": 228200,
       "name": "Dear Prudence",
       "url": "https://open.spotify.com/track/34tFidHrETMAjsiK87WVVW"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Love",
+        "url": "https://open.spotify.com/album/2hallpchkYldMa5lGGf1Ko"
+      },
+      "artists": [
+        {
+          "name": "The Cult",
+          "url": "https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS"
+        }
+      ],
+      "duration_ms": 236466,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/3Od5XBElZqm5N6rr86LS5r"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
+        "name": "London Town 1983-1993",
+        "url": "https://open.spotify.com/album/5K5vUTocXxi9OTkSDQEbx8"
+      },
+      "artists": [
+        {
+          "name": "The The",
+          "url": "https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce"
+        }
+      ],
+      "duration_ms": 297066,
+      "name": "This Is the Day",
+      "url": "https://open.spotify.com/track/5O7RVmqK3AYoFfyeafxOqH"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
         "name": "Diary: A Collection",
         "url": "https://open.spotify.com/album/1mWJIJbT09FgNhOr4xiPoL"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 251973,
       "name": "Blue Monday '88 - 2015 Remaster",
       "url": "https://open.spotify.com/track/3PQEaRs2JEwtk79IqbQYt1"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
-        "name": "London Town 1983-1993",
-        "url": "https://open.spotify.com/album/5K5vUTocXxi9OTkSDQEbx8"
-      },
-      "artists": [
-        {
-          "name": "The The",
-          "url": "https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce"
-        }
-      ],
-      "duration_ms": 297066,
-      "name": "This Is the Day",
-      "url": "https://open.spotify.com/track/5O7RVmqK3AYoFfyeafxOqH"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
+        "name": "Skylarking",
+        "url": "https://open.spotify.com/album/3FVsJiQMI7dp0RfTBdWtMW"
+      },
+      "artists": [
+        {
+          "name": "XTC",
+          "url": "https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz"
+        }
+      ],
+      "duration_ms": 219506,
+      "name": "Dear God - Remastered 2001",
+      "url": "https://open.spotify.com/track/6nFdjV1Ko66O111x74K2kn"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
         "name": "The Crossing",
         "url": "https://open.spotify.com/album/1E4YQWCiaIuRG7ih78thrE"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 503109,
       "name": "More",
       "url": "https://open.spotify.com/track/2UV9ahm7JUWHN1zQAoocEq"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
-        "name": "Skylarking",
-        "url": "https://open.spotify.com/album/3FVsJiQMI7dp0RfTBdWtMW"
-      },
-      "artists": [
-        {
-          "name": "XTC",
-          "url": "https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz"
-        }
-      ],
-      "duration_ms": 219506,
-      "name": "Dear God - Remastered 2001",
-      "url": "https://open.spotify.com/track/6nFdjV1Ko66O111x74K2kn"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1707,18 +1707,18 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Pelican West Plus",
-        "url": "https://open.spotify.com/album/6VIiHu2RCwWo4151YCG7ND"
+        "name": "Argybargy",
+        "url": "https://open.spotify.com/album/7Me29nlWdDxCGAAwupHfSV"
       },
       "artists": [
         {
-          "name": "Haircut 100",
-          "url": "https://open.spotify.com/artist/6imyM8T1Xbe8v2iZe41dR7"
+          "name": "Squeeze",
+          "url": "https://open.spotify.com/artist/6Jrj26oAY96EEC2lqC6fua"
         }
       ],
-      "duration_ms": 212573,
-      "name": "Love Plus One",
-      "url": "https://open.spotify.com/track/4vwLjB2NRtl9b34jRe6cWd"
+      "duration_ms": 238133,
+      "name": "Pulling Mussels (From The Shell)",
+      "url": "https://open.spotify.com/track/2TjXzbUt5zQ4PpHG0dEaT1"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1739,18 +1739,18 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Argybargy",
-        "url": "https://open.spotify.com/album/7Me29nlWdDxCGAAwupHfSV"
+        "name": "Pelican West Plus",
+        "url": "https://open.spotify.com/album/6VIiHu2RCwWo4151YCG7ND"
       },
       "artists": [
         {
-          "name": "Squeeze",
-          "url": "https://open.spotify.com/artist/6Jrj26oAY96EEC2lqC6fua"
+          "name": "Haircut 100",
+          "url": "https://open.spotify.com/artist/6imyM8T1Xbe8v2iZe41dR7"
         }
       ],
-      "duration_ms": 238133,
-      "name": "Pulling Mussels (From The Shell)",
-      "url": "https://open.spotify.com/track/2TjXzbUt5zQ4PpHG0dEaT1"
+      "duration_ms": 212573,
+      "name": "Love Plus One",
+      "url": "https://open.spotify.com/track/4vwLjB2NRtl9b34jRe6cWd"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1963,22 +1963,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Lifes Rich Pageant (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1G95bEVJwyXeqzLdbzkREi"
-      },
-      "artists": [
-        {
-          "name": "R.E.M.",
-          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
-        }
-      ],
-      "duration_ms": 169920,
-      "name": "Fall On Me - 2011 Remaster",
-      "url": "https://open.spotify.com/track/3xPKSMgZl4N3rfTyIgSPfa"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Easy Pieces (Remastered)",
         "url": "https://open.spotify.com/album/4YkBqJhCk12n0Vd6HPQGw8"
       },
@@ -1995,18 +1979,18 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Singles (2016 Remaster)",
-        "url": "https://open.spotify.com/album/2ODAEaYlqS88SU4ZZu1bI6"
+        "name": "Lifes Rich Pageant (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1G95bEVJwyXeqzLdbzkREi"
       },
       "artists": [
         {
-          "name": "New Order",
-          "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
         }
       ],
-      "duration_ms": 252053,
-      "name": "True Faith - 2015 Remaster",
-      "url": "https://open.spotify.com/track/5uyJ7fbjk6xZzt5UL5jcQg"
+      "duration_ms": 169920,
+      "name": "Fall On Me - 2011 Remaster",
+      "url": "https://open.spotify.com/track/3xPKSMgZl4N3rfTyIgSPfa"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -2023,6 +2007,22 @@
       "duration_ms": 289920,
       "name": "Waterfront - Remastered 2002",
       "url": "https://open.spotify.com/track/3Mw3lZoplwJrVE5Qz7XRUx"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Singles (2016 Remaster)",
+        "url": "https://open.spotify.com/album/2ODAEaYlqS88SU4ZZu1bI6"
+      },
+      "artists": [
+        {
+          "name": "New Order",
+          "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
+        }
+      ],
+      "duration_ms": 252053,
+      "name": "True Faith - 2015 Remaster",
+      "url": "https://open.spotify.com/track/5uyJ7fbjk6xZzt5UL5jcQg"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -2079,22 +2079,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Eisb\u00e4r",
-        "url": "https://open.spotify.com/album/6T7XaTroien9MaoWJZiUdE"
-      },
-      "artists": [
-        {
-          "name": "Grauzone",
-          "url": "https://open.spotify.com/artist/2oNZUW4sR0AGXRyPExtFnW"
-        }
-      ],
-      "duration_ms": 288305,
-      "name": "Eisb\u00e4r",
-      "url": "https://open.spotify.com/track/6dO3t1e3pb7sxyDQbDyVNX"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Be Yourself Tonight",
         "url": "https://open.spotify.com/album/2tbXCl8en5ZDVnHIk1OZGI"
       },
@@ -2115,6 +2099,22 @@
       "duration_ms": 268240,
       "name": "Would I Lie to You? - Remastered Version",
       "url": "https://open.spotify.com/track/1lJZSsMoWEbrgaY6CxPMf8"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Eisb\u00e4r",
+        "url": "https://open.spotify.com/album/6T7XaTroien9MaoWJZiUdE"
+      },
+      "artists": [
+        {
+          "name": "Grauzone",
+          "url": "https://open.spotify.com/artist/2oNZUW4sR0AGXRyPExtFnW"
+        }
+      ],
+      "duration_ms": 288305,
+      "name": "Eisb\u00e4r",
+      "url": "https://open.spotify.com/track/6dO3t1e3pb7sxyDQbDyVNX"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -2147,6 +2147,22 @@
       "duration_ms": 189506,
       "name": "Veronica",
       "url": "https://open.spotify.com/track/5zHgT1ibsBrSOEnQwZapto"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "A Way of Life (35th Anniversary Edition; 2023 Remaster)",
+        "url": "https://open.spotify.com/album/7B7zUoZNVdYgqzrGpxTJ0t"
+      },
+      "artists": [
+        {
+          "name": "Suicide",
+          "url": "https://open.spotify.com/artist/6uVeWolwyRDrT84lLsaZyW"
+        }
+      ],
+      "duration_ms": 227240,
+      "name": "Surrender ('88 Version) (2023 Remaster)",
+      "url": "https://open.spotify.com/track/784ypNcE0CXkfUxUiu0U9n"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -2199,38 +2215,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Joined Up Writing/The Sitting Room",
-        "url": "https://open.spotify.com/album/15eoAwjHark9zAPE5z2GKJ"
-      },
-      "artists": [
-        {
-          "name": "Anne Clark",
-          "url": "https://open.spotify.com/artist/0RSRLPv7ZmcrlyboVGR0hL"
-        }
-      ],
-      "duration_ms": 324600,
-      "name": "Our Darkness",
-      "url": "https://open.spotify.com/track/09QcX1GC5LylW50EaLBAT5"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
-        "name": "A Way of Life (35th Anniversary Edition; 2023 Remaster)",
-        "url": "https://open.spotify.com/album/7B7zUoZNVdYgqzrGpxTJ0t"
-      },
-      "artists": [
-        {
-          "name": "Suicide",
-          "url": "https://open.spotify.com/artist/6uVeWolwyRDrT84lLsaZyW"
-        }
-      ],
-      "duration_ms": 227240,
-      "name": "Surrender ('88 Version) (2023 Remaster)",
-      "url": "https://open.spotify.com/track/784ypNcE0CXkfUxUiu0U9n"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Today",
         "url": "https://open.spotify.com/album/5vNKHuz5SeL0bOLtha1xQJ"
       },
@@ -2243,6 +2227,22 @@
       "duration_ms": 236933,
       "name": "Tugboat",
       "url": "https://open.spotify.com/track/2wSmwBjoS5skbNYAMBi5qG"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Joined Up Writing/The Sitting Room",
+        "url": "https://open.spotify.com/album/15eoAwjHark9zAPE5z2GKJ"
+      },
+      "artists": [
+        {
+          "name": "Anne Clark",
+          "url": "https://open.spotify.com/artist/0RSRLPv7ZmcrlyboVGR0hL"
+        }
+      ],
+      "duration_ms": 324600,
+      "name": "Our Darkness",
+      "url": "https://open.spotify.com/track/09QcX1GC5LylW50EaLBAT5"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -2299,22 +2299,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Murmur",
-        "url": "https://open.spotify.com/album/4Mw9Gcu1LT7JaipXdwrq1Q"
-      },
-      "artists": [
-        {
-          "name": "R.E.M.",
-          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
-        }
-      ],
-      "duration_ms": 245200,
-      "name": "Radio Free Europe",
-      "url": "https://open.spotify.com/track/46dGFTD918NMz1IP1rPJXO"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Some Great Reward (2006 Remaster)",
         "url": "https://open.spotify.com/album/7DbpWj9i5uZ1UggeGRo1LZ"
       },
@@ -2327,6 +2311,22 @@
       "duration_ms": 381560,
       "name": "Blasphemous Rumours - 2006 Remaster",
       "url": "https://open.spotify.com/track/5KjueTOwREhwpEcYrzD0Fz"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Murmur",
+        "url": "https://open.spotify.com/album/4Mw9Gcu1LT7JaipXdwrq1Q"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "duration_ms": 245200,
+      "name": "Radio Free Europe",
+      "url": "https://open.spotify.com/track/46dGFTD918NMz1IP1rPJXO"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -2363,22 +2363,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Quiet Life",
-        "url": "https://open.spotify.com/album/5KUNMuwPrKcWkiELM80qKT"
-      },
-      "artists": [
-        {
-          "name": "Japan",
-          "url": "https://open.spotify.com/artist/7vPXrGlSGukcwpaPxUfKKR"
-        }
-      ],
-      "duration_ms": 289080,
-      "name": "Quiet Life",
-      "url": "https://open.spotify.com/track/7GTcfdzY73zsDINXbBzV7B"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Throw the Warped Wheel Out",
         "url": "https://open.spotify.com/album/345hZBqG7vIgLMHJcMZSZM"
       },
@@ -2391,6 +2375,22 @@
       "duration_ms": 214047,
       "name": "(Feels Like) Heaven",
       "url": "https://open.spotify.com/track/3bkcq1VrFlcoqa04VBs4J8"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Quiet Life",
+        "url": "https://open.spotify.com/album/5KUNMuwPrKcWkiELM80qKT"
+      },
+      "artists": [
+        {
+          "name": "Japan",
+          "url": "https://open.spotify.com/artist/7vPXrGlSGukcwpaPxUfKKR"
+        }
+      ],
+      "duration_ms": 289080,
+      "name": "Quiet Life",
+      "url": "https://open.spotify.com/track/7GTcfdzY73zsDINXbBzV7B"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -2411,22 +2411,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Playlist: The Very Best of A Flock of Seagulls",
-        "url": "https://open.spotify.com/album/6cphBfn6beKzazlp3xjftb"
-      },
-      "artists": [
-        {
-          "name": "A Flock Of Seagulls",
-          "url": "https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt"
-        }
-      ],
-      "duration_ms": 330426,
-      "name": "Wishing (If I Had a Photograph of You)",
-      "url": "https://open.spotify.com/track/2mwdSJZlzXOJqTQ37rpIbv"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Stoned and Dethroned",
         "url": "https://open.spotify.com/album/24tOMYmmWLNGiLSBaarqyb"
       },
@@ -2439,6 +2423,22 @@
       "duration_ms": 151960,
       "name": "Sometimes Always",
       "url": "https://open.spotify.com/track/11sxpJrfYJFxkA77PauDj4"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Playlist: The Very Best of A Flock of Seagulls",
+        "url": "https://open.spotify.com/album/6cphBfn6beKzazlp3xjftb"
+      },
+      "artists": [
+        {
+          "name": "A Flock Of Seagulls",
+          "url": "https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt"
+        }
+      ],
+      "duration_ms": 330426,
+      "name": "Wishing (If I Had a Photograph of You)",
+      "url": "https://open.spotify.com/track/2mwdSJZlzXOJqTQ37rpIbv"
     }
   ],
   "unique_name": "'80s All Lined Up",

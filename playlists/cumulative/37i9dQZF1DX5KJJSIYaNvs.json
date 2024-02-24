@@ -1739,6 +1739,28 @@
     },
     {
       "album": {
+        "name": "Song Craft Season 1",
+        "url": "https://open.spotify.com/album/6cyCyVWsO3y369yadNqbmA"
+      },
+      "artists": [
+        {
+          "name": "Imran Khan Sitar",
+          "url": "https://open.spotify.com/artist/1UrxT8kr1FXLymiN3SWpEP"
+        },
+        {
+          "name": "Rekha Bhardwaj",
+          "url": "https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381071,
+      "name": "Gori Tharo",
+      "url": "https://open.spotify.com/track/7LBhKgLXTiUBc37fiqOlzk"
+    },
+    {
+      "album": {
         "name": "Gumsum",
         "url": "https://open.spotify.com/album/21daR74kGnsJmxjfvKIE2r"
       },
@@ -2464,7 +2486,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 218478,
       "name": "Kabhii Tumhhe - Female Version",
       "url": "https://open.spotify.com/track/330joCgJHJGHFLOgJCvNEM"
@@ -4397,6 +4419,32 @@
     },
     {
       "album": {
+        "name": "Phir Sochna Kya",
+        "url": "https://open.spotify.com/album/4h0ZRfWo6bjtLnR8cvVZBa"
+      },
+      "artists": [
+        {
+          "name": "Shekhar Ravjiani",
+          "url": "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
+        },
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        },
+        {
+          "name": "Rashmi Virag",
+          "url": "https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128695,
+      "name": "Phir Sochna Kya",
+      "url": "https://open.spotify.com/track/3fVrmEtotXkQDmbANApL2W"
+    },
+    {
+      "album": {
         "name": "Bajirao Mastani (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4IDvzBMT5s2yJIMg6kqkhD"
       },
@@ -4940,7 +4988,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 234713,
       "name": "Saanware Aijaiyo",
       "url": "https://open.spotify.com/track/2uDeh0ImYtWkYSPjrX77gb"

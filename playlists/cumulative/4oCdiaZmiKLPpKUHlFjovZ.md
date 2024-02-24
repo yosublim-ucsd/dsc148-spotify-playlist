@@ -4,7 +4,7 @@
 
 > Turn this playlist all the way up! Babyface Ray, Money Man &amp; Young Dolph x Key Glock.
 
-69 songs - 2 hr 58 min
+70 songs - 2 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [2 Million Up](https://open.spotify.com/track/5JS1gz9zP4GTy0LZYvSeUK) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs) | [ONLY BUILT 4 DIAMOND LINKS](https://open.spotify.com/album/3s4uzffoGode9dbtELaVEp) | 2:39 | 2023-05-05 |  |
 | [2021 Vibes](https://open.spotify.com/track/6TJaoJX8VhptZ0DkcsjWaR) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [s\*x m\*ney dr\*gs](https://open.spotify.com/album/6vKVBLTsQW5wXOzmOIkPVZ) | 2:04 | 2023-12-08 |  |
 | [2:30](https://open.spotify.com/track/1n3JvneU8FhfldfTQ8BdZs) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Work Of Art](https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU) | 2:18 | 2023-12-08 |  |
+| [310degrees](https://open.spotify.com/track/1f1R24tV7tx0464MCz4U9C) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [nights and weekends](https://open.spotify.com/album/39jNh5MndiuFTNjDjuWnDQ) | 1:05 | 2024-02-24 |  |
 | [4Lifers](https://open.spotify.com/track/3FYPMqQbbOZ1WzCztLeLBp) | [Yatta Bandz](https://open.spotify.com/artist/3n8GvDXY1OgG57akv31SHK) | [4Lifers](https://open.spotify.com/album/3JPfULI1qFfTfdTA3R5GCV) | 2:15 | 2023-08-07 |  |
 | [Access Granted](https://open.spotify.com/track/3DG8BACcLZTelczHn3W8Hf) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7) | [Catch Me If You Can](https://open.spotify.com/album/4l2DlHC3hnZlhpu7SxGYUR) | 2:01 | 2023-09-28 |  |
 | [All Star Team](https://open.spotify.com/track/1XymOhvY6pThNXJWYzP5h0) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [All Star Team](https://open.spotify.com/album/3cAqYBlosbQg5TmcKu6qjf) | 1:47 | 2023-06-16 |  |

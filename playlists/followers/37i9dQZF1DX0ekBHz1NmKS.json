@@ -1,5 +1,5 @@
 {
-  "2024-02-23": 195702,
+  "2024-02-24": 195701,
   "date_first_scraped": "2021-12-21",
   "description": "En samling av de b\u00e4sta svenska l\u00e5tarna just nu.",
   "name": "Made in Sweden",
@@ -446,6 +446,24 @@
     },
     {
       "album": {
+        "name": "Ahumma",
+        "url": "https://open.spotify.com/album/14NOxOFVGIJaZWXBS5zpTe"
+      },
+      "artists": [
+        {
+          "name": "C-Joe",
+          "url": "https://open.spotify.com/artist/2relalSIlRWsTuc6YMXG7l"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176315,
+      "name": "Ahumma",
+      "url": "https://open.spotify.com/track/3FekVM62XSKijk621AAaP3"
+    },
+    {
+      "album": {
         "name": "Airforce blue",
         "url": "https://open.spotify.com/album/2CC2rdoAQAdtgF1PHvfxjn"
       },
@@ -479,6 +497,24 @@
       "duration_ms": 189020,
       "name": "Aldrig haft n\u00e5got annat val",
       "url": "https://open.spotify.com/track/2aTbJ9yyMrseRuHq9c9jY2"
+    },
+    {
+      "album": {
+        "name": "Aldrig mer",
+        "url": "https://open.spotify.com/album/0rAp2vklRXsBHENrw4kmjB"
+      },
+      "artists": [
+        {
+          "name": "Clara Klingenstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3tl4Gc5RItD9lE6MJZGhLg"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184276,
+      "name": "Aldrig mer",
+      "url": "https://open.spotify.com/track/6g03qX85qYtyvEsTvEmfqb"
     },
     {
       "album": {
@@ -1229,7 +1265,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-18",
+      "date_removed": null,
       "duration_ms": 332210,
       "name": "Barnatiden",
       "url": "https://open.spotify.com/track/6CMBrR2AJ15aOOpPnIPaZm"
@@ -1391,7 +1427,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-18",
+      "date_removed": null,
       "duration_ms": 235620,
       "name": "Bergtagen",
       "url": "https://open.spotify.com/track/2cDVHPlEJggkzq9Juzxul0"
@@ -1525,6 +1561,24 @@
       "duration_ms": 194223,
       "name": "Birthday",
       "url": "https://open.spotify.com/track/5IZJ31eeQqEmP4itTVadGt"
+    },
+    {
+      "album": {
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/1cjbcSfJhhciRgS6coYuTi"
+      },
+      "artists": [
+        {
+          "name": "Alex J\u00e4rvi",
+          "url": "https://open.spotify.com/artist/1J0C99LuAwjCC6IQOmJEDE"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Blackout",
+      "url": "https://open.spotify.com/track/4FoXMMTPRYvQqwOADCO25s"
     },
     {
       "album": {
@@ -1947,6 +2001,24 @@
       "duration_ms": 188440,
       "name": "Br\u00e4nner",
       "url": "https://open.spotify.com/track/7M5QepCsK6kYex4EWWsmhd"
+    },
+    {
+      "album": {
+        "name": "Br\u00e4nns",
+        "url": "https://open.spotify.com/album/6mxQuINwV9RloSPtZCS1eF"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Breiner",
+          "url": "https://open.spotify.com/artist/0y26ra5Vcsg59Pc11xhWhI"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160734,
+      "name": "Br\u00e4nns",
+      "url": "https://open.spotify.com/track/2JBiGgukfZ4tOzn1mPH7Cb"
     },
     {
       "album": {
@@ -2679,7 +2751,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 165483,
       "name": "come so far",
       "url": "https://open.spotify.com/track/728wLnW4NkotVLTQyGxVyA"
@@ -2697,7 +2769,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 192775,
       "name": "Confession",
       "url": "https://open.spotify.com/track/6x5NfhXW4N83aGsWGlnH2k"
@@ -2715,7 +2787,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 216000,
       "name": "CONVERSATIONS",
       "url": "https://open.spotify.com/track/1pVK5e5Ho07k8qYsyyF9sA"
@@ -3511,7 +3583,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-20",
+      "date_removed": null,
       "duration_ms": 204461,
       "name": "Do I Make Sense",
       "url": "https://open.spotify.com/track/3C4a9QSUcFnPv92pejg3wf"
@@ -4475,7 +4547,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 141811,
       "name": "Ensam kvar",
       "url": "https://open.spotify.com/track/2XNG3Hi08UTJzh9AnkiNqV"
@@ -5327,7 +5399,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-19",
+      "date_removed": null,
       "duration_ms": 231724,
       "name": "Forget about her",
       "url": "https://open.spotify.com/track/1rG5cppCcbTtzLfnSq7QFt"
@@ -5775,7 +5847,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 159120,
       "name": "GAMMAL I GEMET",
       "url": "https://open.spotify.com/track/2EbK8nlyOYm6MHvkALytMW"
@@ -5847,7 +5919,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 186449,
       "name": "Genom Eld & Vatten - Spotify Singles",
       "url": "https://open.spotify.com/track/6TQOA3Fo2vpiEJB41PokcA"
@@ -7266,6 +7338,24 @@
     },
     {
       "album": {
+        "name": "Hopeless Guy",
+        "url": "https://open.spotify.com/album/1cw7txjn6mYZeY0LqZN8M4"
+      },
+      "artists": [
+        {
+          "name": "JUNG",
+          "url": "https://open.spotify.com/artist/1OHba9a2SK2KcJmJgkGQZO"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243646,
+      "name": "Hopeless Guy",
+      "url": "https://open.spotify.com/track/310HpOa9DdOfpOTpD3idYL"
+    },
+    {
+      "album": {
         "name": "Superlativ 97",
         "url": "https://open.spotify.com/album/3bgfgOYm533nhDX9Dbp1Bu"
       },
@@ -7295,7 +7385,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-18",
+      "date_removed": null,
       "duration_ms": 177669,
       "name": "Hora Madonna",
       "url": "https://open.spotify.com/track/47L8MluywBkWDA0HdgoeYC"
@@ -7567,7 +7657,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 214666,
       "name": "H\u00e5lla tillbaks (feat. Hurula)",
       "url": "https://open.spotify.com/track/213I7nc8IcgnDS5GyVKxO7"
@@ -8459,7 +8549,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 159360,
       "name": "I\u2019m His, He\u2019s Mine",
       "url": "https://open.spotify.com/track/4ssi26oVcUXWLooc1Ac0Ni"
@@ -8853,7 +8943,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-18",
+      "date_removed": null,
       "duration_ms": 176439,
       "name": "Kanske borde dra",
       "url": "https://open.spotify.com/track/1346kMKphlGAWfvdDd0fk6"
@@ -9233,7 +9323,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 130707,
       "name": "K\u00e4rleksv\u00e4rk",
       "url": "https://open.spotify.com/track/6jUynpgWKtsv1HC1S37wOI"
@@ -9924,6 +10014,24 @@
     },
     {
       "album": {
+        "name": "Lost Romance",
+        "url": "https://open.spotify.com/album/3rq0E9j8ExDqjRph3yCUq0"
+      },
+      "artists": [
+        {
+          "name": "Tage",
+          "url": "https://open.spotify.com/artist/7wXeuEsgZnjihGQLKkaPSr"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141800,
+      "name": "Lost Romance",
+      "url": "https://open.spotify.com/track/1xjbPvo3qQvnKKLtrjKOIY"
+    },
+    {
+      "album": {
         "name": "PART TWO",
         "url": "https://open.spotify.com/album/50r1BRsfeBhwmlCH2l4N1j"
       },
@@ -10127,7 +10235,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 192631,
       "name": "L\u00e5nga V\u00e4gen Hem",
       "url": "https://open.spotify.com/track/5LGG9YM4YPhmVvuom6T5QY"
@@ -10376,6 +10484,28 @@
     },
     {
       "album": {
+        "name": "Mammas port",
+        "url": "https://open.spotify.com/album/3WDpJ9WWsC40VD2jFjs5QS"
+      },
+      "artists": [
+        {
+          "name": "Movits!",
+          "url": "https://open.spotify.com/artist/3Rjud126EhtcSDte9lORR7"
+        },
+        {
+          "name": "Linnea Henriksson",
+          "url": "https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237253,
+      "name": "Mammas port",
+      "url": "https://open.spotify.com/track/2KWcnMekI5CCnNYkX2cAxh"
+    },
+    {
+      "album": {
         "name": "Juju Pt.3 Postum",
         "url": "https://open.spotify.com/album/56TkWM7N012kerAgMwz2Ut"
       },
@@ -10489,7 +10619,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 333874,
       "name": "Maria Magdalena",
       "url": "https://open.spotify.com/track/3SzkjtUKRbFwtCW6Hv1IWH"
@@ -10676,6 +10806,24 @@
     },
     {
       "album": {
+        "name": "MIN MARIE",
+        "url": "https://open.spotify.com/album/1R0rgizcdTQsGbWTMokGa0"
+      },
+      "artists": [
+        {
+          "name": "Jeano",
+          "url": "https://open.spotify.com/artist/3qzw8zce3NwedmWnD1vx8V"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153612,
+      "name": "MIN MARIE",
+      "url": "https://open.spotify.com/track/5ZyZnWoQiMk2qoNt2HyDdN"
+    },
+    {
+      "album": {
         "name": "Minimum",
         "url": "https://open.spotify.com/album/7ntbKzzrRi4jgxNoPCKMjb"
       },
@@ -10687,7 +10835,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 133980,
       "name": "Minimum",
       "url": "https://open.spotify.com/track/4JkY9nv1oRlj9OYfOlOVna"
@@ -11585,7 +11733,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 145766,
       "name": "N\u00e4ra",
       "url": "https://open.spotify.com/track/2TG32mRqjRyu3m6HV7mYwk"
@@ -12045,7 +12193,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 148812,
       "name": "One Of Us",
       "url": "https://open.spotify.com/track/3c0uWc9wFRPeHjDKkYy4zz"
@@ -13685,7 +13833,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-21",
+      "date_removed": null,
       "duration_ms": 218040,
       "name": "See Me Happy",
       "url": "https://open.spotify.com/track/2EaRH0SnLQVb4bmpNrGI4j"
@@ -14003,7 +14151,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 197473,
       "name": "Ska du l\u00e4mna mig d\u00e5?",
       "url": "https://open.spotify.com/track/26iVzcvsJyJ15KKNRfDlu0"
@@ -14169,7 +14317,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 152941,
       "name": "SL\u00c5R",
       "url": "https://open.spotify.com/track/7E3w18uY1JjvJGBowcz4bU"
@@ -15078,6 +15226,24 @@
     },
     {
       "album": {
+        "name": "Strange",
+        "url": "https://open.spotify.com/album/3RhriCLuQ0fLMLDi6GXctb"
+      },
+      "artists": [
+        {
+          "name": "Sarah Klang",
+          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254213,
+      "name": "Strange",
+      "url": "https://open.spotify.com/track/1qEmaP9KM5kWQ1JgNlCX4a"
+    },
+    {
+      "album": {
         "name": "Stupid Little Party Girl",
         "url": "https://open.spotify.com/album/7LSQrt8YHDL0ol57u1eqGw"
       },
@@ -15804,6 +15970,24 @@
     },
     {
       "album": {
+        "name": "S\u00e5na som oss kommer alltid f\u00f6rlora",
+        "url": "https://open.spotify.com/album/5smvvidfaOzYP0cuDCswAM"
+      },
+      "artists": [
+        {
+          "name": "Dalmatin",
+          "url": "https://open.spotify.com/artist/6Fydl2UeADvnfloGHWW4uJ"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220374,
+      "name": "S\u00e5na som oss kommer alltid f\u00f6rlora",
+      "url": "https://open.spotify.com/track/4k9MIwDgRTwkF8xVblnAFt"
+    },
+    {
+      "album": {
         "name": "Ta p\u00e5 mig",
         "url": "https://open.spotify.com/album/79TfkDuxlL9r42jGcj2AL4"
       },
@@ -15895,6 +16079,24 @@
       "duration_ms": 264208,
       "name": "Take A Chance On Me",
       "url": "https://open.spotify.com/track/6KJBwR1yrqviwL31XRpu3n"
+    },
+    {
+      "album": {
+        "name": "Take My Breath Away",
+        "url": "https://open.spotify.com/album/08W5cB0Uv3QNij1Lqqo8mk"
+      },
+      "artists": [
+        {
+          "name": "Kim Cesarion",
+          "url": "https://open.spotify.com/artist/1FbsmLXvj5CccZj6JLk46Z"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180127,
+      "name": "Take My Breath Away",
+      "url": "https://open.spotify.com/track/3mSYbKu15KIVRR7NsnagjF"
     },
     {
       "album": {
@@ -16107,7 +16309,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-18",
+      "date_removed": null,
       "duration_ms": 175595,
       "name": "Tell Me Now Honestly",
       "url": "https://open.spotify.com/track/5zJVtravUVXiPynWGClzml"
@@ -16345,7 +16547,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 197485,
       "name": "The only thing",
       "url": "https://open.spotify.com/track/3tIO6LF3bh2pRBAm4zSWE4"
@@ -16667,7 +16869,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 201600,
       "name": "Tillsammans",
       "url": "https://open.spotify.com/track/77l26wJl8mAWROEuZvMBIl"
@@ -16883,7 +17085,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 193777,
       "name": "TRENCH",
       "url": "https://open.spotify.com/track/5btPCzSpdxxnxuGuHhcD35"
@@ -17013,7 +17215,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 160000,
       "name": "Tusen & en natt",
       "url": "https://open.spotify.com/track/5PXSHIjTloXZr7Aw6BM0zC"
@@ -17267,7 +17469,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 167139,
       "name": "Unnskyld, f\u00f6rl\u00e5t",
       "url": "https://open.spotify.com/track/6ebiZ791hh3KPSw8TcCPK7"
@@ -17441,6 +17643,24 @@
       "duration_ms": 194595,
       "name": "Var \u00e4r du?",
       "url": "https://open.spotify.com/track/3qCIvPMbVj6zPjDwVu0EXW"
+    },
+    {
+      "album": {
+        "name": "Varf\u00f6r vill du ha mig?",
+        "url": "https://open.spotify.com/album/1vzabkKzWG69LQEUPJG3GA"
+      },
+      "artists": [
+        {
+          "name": "SIV",
+          "url": "https://open.spotify.com/artist/7g1jXjtNKxyfZ2grW439rY"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176356,
+      "name": "Varf\u00f6r vill du ha mig?",
+      "url": "https://open.spotify.com/track/19K0YAML7BKdfF7IL4c2Ry"
     },
     {
       "album": {
@@ -18171,7 +18391,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-16",
+      "date_removed": null,
       "duration_ms": 179200,
       "name": "Water over wine",
       "url": "https://open.spotify.com/track/51W8HW4bkAWqc1MDfQpydS"

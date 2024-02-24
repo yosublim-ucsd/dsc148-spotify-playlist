@@ -3800,7 +3800,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 236998,
       "name": "City Lights",
       "url": "https://open.spotify.com/track/53RtHfvyr0f6yj1uLy5bxY"
@@ -4606,7 +4606,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 202105,
       "name": "Deep Down",
       "url": "https://open.spotify.com/track/545yB924QumhJ43PN4ufyF"
@@ -5320,7 +5320,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 146666,
       "name": "Door Dash",
       "url": "https://open.spotify.com/track/14NjvajwODFtcJXpkylDlK"
@@ -8385,6 +8385,24 @@
     },
     {
       "album": {
+        "name": "Himothy",
+        "url": "https://open.spotify.com/album/0cumUqYme4Am4PnlsHbBUl"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159749,
+      "name": "Himothy",
+      "url": "https://open.spotify.com/track/00p23Uw776hxaIGNWL9S1Y"
+    },
+    {
+      "album": {
         "name": "HISS",
         "url": "https://open.spotify.com/album/2QfxtFVJK1qh8pj2DEFHlA"
       },
@@ -9152,7 +9170,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 144750,
       "name": "I Luv U",
       "url": "https://open.spotify.com/track/35mfelo1FvkLRLmo0VstNE"
@@ -11478,7 +11496,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 151431,
       "name": "LOVE",
       "url": "https://open.spotify.com/track/5YDlwTwOXisQwaKbeZLXxT"
@@ -12227,6 +12245,24 @@
     },
     {
       "album": {
+        "name": "Mister Misfit but Aint Missed a Fit in Months",
+        "url": "https://open.spotify.com/album/2vV4XBHoshk4djb6z7ZNc1"
+      },
+      "artists": [
+        {
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154074,
+      "name": "Mister Misfit but Aint Missed a Fit in Months",
+      "url": "https://open.spotify.com/track/3LpIKVn5vVhuZZpPCx8Poi"
+    },
+    {
+      "album": {
         "name": "Jupiter's Diary: 7 Day Theory",
         "url": "https://open.spotify.com/album/0vJxYXyni4Qhi1o3jO8HwH"
       },
@@ -12488,6 +12524,24 @@
       "duration_ms": 171840,
       "name": "MR MEMPHIS MASSACRE",
       "url": "https://open.spotify.com/track/0D6uigxXyrqHiFh6lTN7q5"
+    },
+    {
+      "album": {
+        "name": "Mr Pot Scraper",
+        "url": "https://open.spotify.com/album/4yhIfYT0AYm9hGHZxvttaZ"
+      },
+      "artists": [
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145028,
+      "name": "Mr Pot Scraper",
+      "url": "https://open.spotify.com/track/6PmqCt2fO80OojY5eGS2X3"
     },
     {
       "album": {
@@ -15457,6 +15511,28 @@
     },
     {
       "album": {
+        "name": "american dream",
+        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207585,
+      "name": "prove it",
+      "url": "https://open.spotify.com/track/5wttBUDyaHAR5q9fYnN3YF"
+    },
+    {
+      "album": {
         "name": "I NEVER LIKED YOU",
         "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
       },
@@ -15936,6 +16012,24 @@
       "duration_ms": 207306,
       "name": "Red Flag",
       "url": "https://open.spotify.com/track/6djtjrpnWcuOaozVb8xKXS"
+    },
+    {
+      "album": {
+        "name": "4EVER",
+        "url": "https://open.spotify.com/album/4AeQSYs5rAyQvdwP0GXzRi"
+      },
+      "artists": [
+        {
+          "name": "Stunna 4 Vegas",
+          "url": "https://open.spotify.com/artist/44IvvHRk2XF243QLA2VOa8"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112175,
+      "name": "Red Rum",
+      "url": "https://open.spotify.com/track/3PPCTaXueBFQazb0m5YLQV"
     },
     {
       "album": {
@@ -16889,6 +16983,24 @@
     },
     {
       "album": {
+        "name": "Shampoo",
+        "url": "https://open.spotify.com/album/6kvguegn7g69twj0Cg0OQ7"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131213,
+      "name": "Shampoo",
+      "url": "https://open.spotify.com/track/2yrEBYkFqRcT65jRXnIICU"
+    },
+    {
+      "album": {
         "name": "SHAQ & KOBE",
         "url": "https://open.spotify.com/album/4oekX6V7nkvYhjnbNSO7uA"
       },
@@ -17128,6 +17240,28 @@
       "duration_ms": 165433,
       "name": "Shotta Flow 7",
       "url": "https://open.spotify.com/track/1WrxYBGmFK19BMRn3wLYMa"
+    },
+    {
+      "album": {
+        "name": "american dream",
+        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186770,
+      "name": "should've wore a bonnet",
+      "url": "https://open.spotify.com/track/4Xzq2WibDHR5Eufi21HlEZ"
     },
     {
       "album": {
@@ -17620,6 +17754,24 @@
       "duration_ms": 149245,
       "name": "Somethin' (feat. Sexyy Red)",
       "url": "https://open.spotify.com/track/3LdP8uDwQ1NVwNCrb8I32K"
+    },
+    {
+      "album": {
+        "name": "Something Ether",
+        "url": "https://open.spotify.com/album/47SrODHFtmaQitdsmonVie"
+      },
+      "artists": [
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131947,
+      "name": "Something Ether",
+      "url": "https://open.spotify.com/track/6t5LP8XVNaAXjVJIBxHpZz"
     },
     {
       "album": {
@@ -21239,6 +21391,32 @@
     },
     {
       "album": {
+        "name": "REDRUM Wizard (Gangsta Grillz)",
+        "url": "https://open.spotify.com/album/2kcWf4LiavA3V6quKqSXAB"
+      },
+      "artists": [
+        {
+          "name": "Big Boogie",
+          "url": "https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs"
+        },
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+        },
+        {
+          "name": "Yo Gotti",
+          "url": "https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174548,
+      "name": "Whatever (feat. Yo Gotti)",
+      "url": "https://open.spotify.com/track/0r9IVjIe3Zii7vAHHJM33X"
+    },
+    {
+      "album": {
         "name": "Whatever She Wants",
         "url": "https://open.spotify.com/album/60s0PMYFJhe34io9HuyUXf"
       },
@@ -22244,10 +22422,32 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 139919,
       "name": "Your Friends",
       "url": "https://open.spotify.com/track/6ZOCnU7MLtcZeRKAxgsqTT"
+    },
+    {
+      "album": {
+        "name": "Your Friends (feat. Summer Walker)",
+        "url": "https://open.spotify.com/album/6XJjYBR0cHPDJsIskQX9mM"
+      },
+      "artists": [
+        {
+          "name": "Hunxho",
+          "url": "https://open.spotify.com/artist/508weSx4HBumrGggFmc7br"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214038,
+      "name": "Your Friends (feat. Summer Walker)",
+      "url": "https://open.spotify.com/track/0u4jOsRESGP1irJNTJQlGX"
     },
     {
       "album": {
@@ -22314,6 +22514,24 @@
       "duration_ms": 210430,
       "name": "Zatoichi [Feat. slowthai]",
       "url": "https://open.spotify.com/track/5s9d3JiqxsuAkuDTDStBh6"
+    },
+    {
+      "album": {
+        "name": "\ufeffBlood Splatter",
+        "url": "https://open.spotify.com/album/2Eshb0J0Fqojqu8msgOE6x"
+      },
+      "artists": [
+        {
+          "name": "Yungeen Ace",
+          "url": "https://open.spotify.com/artist/7hj7ffJe6UkF1gsMpuweSI"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151906,
+      "name": "\ufeffBlood Splatter",
+      "url": "https://open.spotify.com/track/6hLhe1Q8kZQw5pfAK1SGY7"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX0Tkc6ltcBfU"

@@ -2,9 +2,9 @@
 
 ### [Hip\-Hop & R&B for Kids](https://open.spotify.com/playlist/37i9dQZF1DWX16Q183eyvd)
 
-> Push play on the coolest playlist around, and get ready to jump around\. Cover: Mega Ran
+> Push play on the coolest playlist around, and get ready to jump around\. Cover: Gracie's Corner
 
-125 songs - 6 hr 5 min
+127 songs - 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Chicken Noodle Soup](https://open.spotify.com/track/749wOMJv0SwOcBcvVUwPdv) | [Kids Rap'n The Hits](https://open.spotify.com/artist/2BrDz1Swv1kqola1AYzjGI) | [Kids Rap'n The Hits Vol\. 3](https://open.spotify.com/album/64WmCTDYlflVG7D1HOpSWx) | 3:02 | 2021-11-19 | 2023-04-09 |
 | [Clap Your Hands](https://open.spotify.com/track/17rsWinx1UqahD9ntGdkyA) | [The Magic Jones](https://open.spotify.com/artist/68k1fAn7fhJnsujFNEscyA) | [Adventures Of The Music Box](https://open.spotify.com/album/1GwhMxPANknpYACqJCQU6C) | 2:19 | 2024-01-30 |  |
 | [CONFIDENT](https://open.spotify.com/track/4Q2ellywUb76X5n08rn8TE) | [Zindzi & The Zillionaires](https://open.spotify.com/artist/3riGtCwTMATcx6oiLkIdxB) | [CONFIDENT](https://open.spotify.com/album/45pqzyFPMnLw0KN9Qe2Ous) | 1:52 | 2023-10-10 | 2024-01-31 |
+| [Cookie Jar](https://open.spotify.com/track/01rRqiFCeG17apx187OJjo) | [Jools TV](https://open.spotify.com/artist/7ssReBmPT2Ls9U8lAHTSJN) | [Cookie Jar](https://open.spotify.com/album/65HIKw74shHz5R6zAQqqIL) | 2:52 | 2024-02-23 |  |
 | [Create Your World](https://open.spotify.com/track/5LxAmqmVkKAvtJruLIbCJX) | [Rise Up, Sing Out \- Cast](https://open.spotify.com/artist/5kOWaYDn4KXG6HntLwTGEx), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: Rise Up, Sing Out](https://open.spotify.com/album/0wqVMWhboaCzHYYm2sJG5U) | 1:41 | 2024-01-30 |  |
 | [Dance Full Out](https://open.spotify.com/track/3bV1JJ6ItRaTRdaDmlmm8x) | [Karma's World](https://open.spotify.com/artist/2d9kWGh7cYV72fwJkePAVS) | [We Dance Full Out](https://open.spotify.com/album/4KfRi7zVFxgR5GO33iLbTC) | 2:21 | 2024-01-30 |  |
 | [Dance in the Playroom](https://open.spotify.com/track/2TfF7L9W79OdDaxdp2pKMo) | [Desmond Dennis](https://open.spotify.com/artist/1W14E5ExskpUoE8H9n8fPn) | [Kids Dance Jams](https://open.spotify.com/album/4QuhMdlQcRvXTe0zV7NTh1) | 2:34 | 2024-01-30 |  |
@@ -94,6 +95,7 @@
 | [One Love / People Get Ready \- Medley](https://open.spotify.com/track/6SR0dDuXH2vtgBfMLrivKV) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 2:52 | 2022-02-04 | 2024-01-31 |
 | [Panini](https://open.spotify.com/track/6fTt0CH2t0mdeB2N9XFG5r) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [7 EP](https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO) | 1:54 | 2021-11-19 | 2024-01-31 |
 | [Pick It Up](https://open.spotify.com/track/6lY2AdInMhdWlio2rS8yph) | [FYÜTCH](https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw) | [Family Tree](https://open.spotify.com/album/2ipWREGW50eHJTjXVVWiCj) | 2:50 | 2024-01-30 |  |
+| [Play Outside](https://open.spotify.com/track/3t4STKA849plfaghVfM57x) | [Gracie's Corner](https://open.spotify.com/artist/7liE451ZyJBxZ4pLKgIeEH) | [Play Outside](https://open.spotify.com/album/0JWaUhGdMrPXGu1DdUq424) | 2:31 | 2024-02-23 |  |
 | [Please & Thank You](https://open.spotify.com/track/6PTkVli8zGBzffeZGZnWDm) | [Doggyland](https://open.spotify.com/artist/34ZLdDJVv5clP7Ask1zjoP), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Kids Hits, Vol\. 1](https://open.spotify.com/album/6PE793g3TdbQL1nj51wCRm) | 1:35 | 2024-01-30 |  |
 | [Reading is Amazing \(World Book Day 2022\)](https://open.spotify.com/track/1V2Ck7XdziVOmHBbXDujQy) | [MC Grammar](https://open.spotify.com/artist/5jP7y718a7xnKUylSWPANN) | [Reading is Amazing \(World Book Day 2022\)](https://open.spotify.com/album/529nXtwRpnni4MtGtKrEJy) | 2:59 | 2024-01-30 |  |
 | [Recess](https://open.spotify.com/track/4cTLSLjhkKCtGdkwmBPdK6) | [Mega Ran](https://open.spotify.com/artist/2mCmDragybleJXqTqsOk5I), [JER](https://open.spotify.com/artist/7xJaPX4LwOT3i6XB7WFskK), [Stacked Like Pancakes](https://open.spotify.com/artist/7Fk8bbugoEFZWgUvVoTBBp) | [Buddy's Magic Toy Box](https://open.spotify.com/album/0t89W84YBh8m1CsqBrR5Ip) | 2:48 | 2024-01-30 |  |

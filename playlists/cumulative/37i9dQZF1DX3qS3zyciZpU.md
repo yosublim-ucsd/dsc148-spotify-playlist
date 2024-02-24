@@ -4,7 +4,7 @@
 
 > The perfect songs for the perfect day.
 
-180 songs - 10 hr 33 min
+181 songs - 10 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Beautiful Crazy](https://open.spotify.com/track/6TB4X1DED01TFKoRm6PScw) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Melhores Músicas Internacionais 2022](https://open.spotify.com/album/44mM4AULWBACBm7CQnFi3R) | 3:13 | 2022-10-21 | 2022-11-13 |
 | [Beauty in the Struggle](https://open.spotify.com/track/55bN4rlBZGJJPPt6I9MDsw) | [Bryan Martin](https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U) | [Self Inflicted Scars](https://open.spotify.com/album/2MiSaUtCnkqNRK2BZx2TZt) | 2:32 | 2023-05-12 |  |
 | [Beauty in the Struggle](https://open.spotify.com/track/6BoxSb788sdA54JFfIjKuh) | [Bryan Martin](https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U) | [Beauty in the Struggle](https://open.spotify.com/album/6e0TQuKQWNnq7SKxC0JpWx) | 2:32 | 2022-02-04 | 2023-05-18 |
+| [Best Friend for Life](https://open.spotify.com/track/6qOJ3VMKZVSsioNgiLWvrE) | [Grace Leer](https://open.spotify.com/artist/2zaXxMpZKyNK075LXZ3wDG) | [Best Friend for Life](https://open.spotify.com/album/3bLbbIIyxFNU9jaX9NyV8H) | 3:12 | 2024-02-23 |  |
 | [Best of Me](https://open.spotify.com/track/72EwYaLa5WwxOS0gAoNp94) | [David Nail](https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6) | [Best Of Me](https://open.spotify.com/album/3Gv4KvbFA8aU0Y88fbfa1T) | 2:53 | 2023-04-28 |  |
 | [Best Shot](https://open.spotify.com/track/3VamXAvVMczcS2PTYtPfBQ) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Mercury Lane](https://open.spotify.com/album/7EpN0TPMSMqGKVjIEzc0Ts) | 3:15 | 2021-09-17 | 2023-11-04 |
 | [Best Shot](https://open.spotify.com/track/3eDNb3ZG3gKgjAAgJBcOL8) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Mercury Lane](https://open.spotify.com/album/0GM0DnvOD2WOztAB2WBwzo) | 3:15 | 2023-10-27 |  |

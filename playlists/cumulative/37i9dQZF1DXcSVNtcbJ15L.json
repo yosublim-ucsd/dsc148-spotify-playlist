@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-27",
-  "description": "vem de dm \ud83d\udd25  \u2764\ufe0f",
+  "description": "vamo sa\u00ed qqer dia?",
   "name": "oiii",
   "tracks": [
     {
@@ -28,6 +28,28 @@
       "duration_ms": 165571,
       "name": "A Garota Mais Linda de Oz",
       "url": "https://open.spotify.com/track/6blFfIKfjek2zgrcNjWcnU"
+    },
+    {
+      "album": {
+        "name": "Ah!",
+        "url": "https://open.spotify.com/album/3uFUzL4mWd4rnupuVBYRKr"
+      },
+      "artists": [
+        {
+          "name": "Kaleb Mesmo",
+          "url": "https://open.spotify.com/artist/1GNaNLlTRaULwJfzSyAiBK"
+        },
+        {
+          "name": "Pedro Alex",
+          "url": "https://open.spotify.com/artist/32WvUPGa7IwVNVnPQ0grXN"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188048,
+      "name": "Ah!",
+      "url": "https://open.spotify.com/track/1rEnzsO63AM5zQCcKqAsJM"
     },
     {
       "album": {
@@ -550,7 +572,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 210076,
       "name": "Hoje Eu To Bem",
       "url": "https://open.spotify.com/track/22CjgU71oAk6kIY8HDYxWL"

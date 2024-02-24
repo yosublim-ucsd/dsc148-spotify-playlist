@@ -4,7 +4,7 @@
 
 > the pearls of an oyster\. Cover: Erika de Casier
 
-1,107 songs - 2 day 13 hr 3 min
+1,108 songs - 2 day 13 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -381,6 +381,7 @@
 | [FUCK\. IT.](https://open.spotify.com/track/18wQ1oES9OK2gYu7oUqrp2) | [Limandi](https://open.spotify.com/artist/1KqH2GQTqQOeJZI75Zv8uS) | [FUCK\. IT.](https://open.spotify.com/album/2B1CeZMwglOzjvdhvPh3BD) | 2:45 | 2024-01-18 |  |
 | [fumble \(feat\. piri\)](https://open.spotify.com/track/1vyzpZ8td4h4QNpuATl3ZX) | [Sudley](https://open.spotify.com/artist/56BZYfbCbGZfo1EZt3XYqn), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s) | [fumble \(feat\. piri\)](https://open.spotify.com/album/5hscifRFV9IXLm2mZ27fSH) | 2:54 | 2023-04-27 | 2023-06-02 |
 | [Gang'Nem](https://open.spotify.com/track/3F90JbxXm1yA7CB557b6w2) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW), [Fre$H](https://open.spotify.com/artist/5wUzuAKoHT2ItLdgAfa8sG) | [Gang'Nem](https://open.spotify.com/album/1dKHC8AlHi7s7XpHUazrKk) | 4:10 | 2022-12-15 | 2023-02-03 |
+| [Gangsta](https://open.spotify.com/track/49oKnEjgRSs3DMXScEU2G1) | [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Gangsta](https://open.spotify.com/album/1qz3r9Ys5UXaE0XToUU71b) | 3:14 | 2024-02-22 |  |
 | [Get It](https://open.spotify.com/track/5ekpdwSkLgEIpvmjWqUjWa) | [Karma Fields](https://open.spotify.com/artist/1tRsdSvjwp34PDvcmix6SJ), [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [Alida](https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0) | [Get It](https://open.spotify.com/album/1LXX0DLWq1UZ15n3u3fC3L) | 3:24 | 2023-08-24 | 2023-11-10 |
 | [Get Lost](https://open.spotify.com/track/4JYXvbs6SHpnvC26f9bzpC) | [Lover's Skit](https://open.spotify.com/artist/6NacK2pS3t12iQPaNzsadu) | [Get Lost](https://open.spotify.com/album/3xQmh4qhYjNn29kKt1X3bI) | 2:16 | 2023-04-27 | 2023-05-19 |
 | [Get Up \- Radio Edit](https://open.spotify.com/track/6D6O2c0STvLDn4IjZD6aSS) | [Odin](https://open.spotify.com/artist/2mahtxdlhgnZfENR1k7l6Z), [Bjørn Berge](https://open.spotify.com/artist/7LwAizR0FcWKzkr3NVKog3) | [Get Up](https://open.spotify.com/album/0ExkjkPI4kporeZqtE2apP) | 3:18 | 2022-10-28 | 2022-12-16 |

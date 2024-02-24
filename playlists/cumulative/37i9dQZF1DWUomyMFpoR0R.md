@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3TXQ1ddouwQAI78hV4hXDjj">Maceo Plex</a> shares his favorite tracks and new ones from his 3rd album this week\. "My newest album, ’93, is a fusion of diverse influences throughout my musical career—from techno to drum and bass, rap to pop, and beyond\. Dive into it"\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-35 songs - 3 hr 20 min
+36 songs - 3 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Hooligan Plex](https://open.spotify.com/track/3OelSBsfqVkSozDF5i3s4L) | [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj) | ['93](https://open.spotify.com/album/3UJOuk02GRRQoskeaCFwbG) | 6:31 | 2023-12-14 |  |
 | [I Lov U](https://open.spotify.com/track/6dNlY6O5rkfhCFWi6ML5wt) | [AVNU \(UK\)](https://open.spotify.com/artist/5CIy5Kjk43j5IWOF7jiuzr) | [Tough to Love but Worth the Effort](https://open.spotify.com/album/29vMlKzKeQ0YncueKXNujx) | 5:54 | 2023-12-14 |  |
 | [I See You](https://open.spotify.com/track/5T8VVBCIj97dje87qw56a2) | [Third Culture \(USA\)](https://open.spotify.com/artist/6sJJfdZkhHzBYzBWu0my9p) | [U Move EP](https://open.spotify.com/album/4pjlD450AKpthI6G45O1Ow) | 4:49 | 2023-12-14 |  |
-| [In The Dark \- Original Mix](https://open.spotify.com/track/4ATyGC5RIUkOS1MtXX6Yja) | [Sian](https://open.spotify.com/artist/4JkX37Ibpb0cJq2IItah0y), [Sacha Robotti](https://open.spotify.com/artist/5zheoDzRTIhWzE1j1DttZf), [Third Culture \(USA\)](https://open.spotify.com/artist/6sJJfdZkhHzBYzBWu0my9p) | [In The Dark](https://open.spotify.com/album/3fu0dvi8F9JoT3S1KG1VKG) | 6:13 | 2023-12-14 |  |
+| [In The Dark](https://open.spotify.com/track/6ZBLQ9beCgU9FFieAcbeOO) | [Sian](https://open.spotify.com/artist/4JkX37Ibpb0cJq2IItah0y), [Sacha Robotti](https://open.spotify.com/artist/5zheoDzRTIhWzE1j1DttZf), [Third Culture \(USA\)](https://open.spotify.com/artist/6sJJfdZkhHzBYzBWu0my9p) | [In The Dark](https://open.spotify.com/album/5NqC1h7NQZMFwF1jsTMMah) | 6:13 | 2023-12-14 |  |
+| [In The Dark \- Original Mix](https://open.spotify.com/track/4ATyGC5RIUkOS1MtXX6Yja) | [Sian](https://open.spotify.com/artist/4JkX37Ibpb0cJq2IItah0y), [Sacha Robotti](https://open.spotify.com/artist/5zheoDzRTIhWzE1j1DttZf), [Third Culture \(USA\)](https://open.spotify.com/artist/6sJJfdZkhHzBYzBWu0my9p) | [In The Dark](https://open.spotify.com/album/3fu0dvi8F9JoT3S1KG1VKG) | 6:13 | 2023-12-14 | 2024-02-24 |
 | [Infrared](https://open.spotify.com/track/3aTHTbrPuTBnxo1HRRHRAh) | [AVNU \(UK\)](https://open.spotify.com/artist/5CIy5Kjk43j5IWOF7jiuzr) | [Ultraviolet EP](https://open.spotify.com/album/2lHt97eJTknujw3A2bfKh4) | 6:17 | 2023-12-14 |  |
 | [Insomnia 2021 \- Epic Edit](https://open.spotify.com/track/6E1VvKBTi0FtLhE8b6GxbE) | [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj), [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [Insomnia 2021](https://open.spotify.com/album/04zGytx3eRCDR7JEQB9GSX) | 4:48 | 2023-12-14 |  |
 | [Just You And I](https://open.spotify.com/track/1I3ozv6FqPeu4blAeMiKkw) | [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj) | ['93](https://open.spotify.com/album/3UJOuk02GRRQoskeaCFwbG) | 6:08 | 2023-12-14 |  |

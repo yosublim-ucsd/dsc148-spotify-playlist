@@ -345,6 +345,24 @@
     },
     {
       "album": {
+        "name": "ALMA</3",
+        "url": "https://open.spotify.com/album/68bcjscUFhKvunT391ALub"
+      },
+      "artists": [
+        {
+          "name": "legallyrxx",
+          "url": "https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144260,
+      "name": "ALMA</3",
+      "url": "https://open.spotify.com/track/1Mq86WnX64KKQoCuIaXT1t"
+    },
+    {
+      "album": {
         "name": "AMANTES",
         "url": "https://open.spotify.com/album/5LiIi2zLqoMtmBXHJGnQ5v"
       },
@@ -1752,7 +1770,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 193865,
       "name": "Conexi\u00f3n",
       "url": "https://open.spotify.com/track/0ywkyEeueEa24o3IQoKPg2"
@@ -3480,7 +3498,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 135529,
       "name": "GATA",
       "url": "https://open.spotify.com/track/2i9B7FCQubP7pOvTrYs9OQ"
@@ -3520,6 +3538,32 @@
       "duration_ms": 180000,
       "name": "Gmii2",
       "url": "https://open.spotify.com/track/1hVw1uZWRMl39Fud2uU18Q"
+    },
+    {
+      "album": {
+        "name": "Gpi Al Perreo",
+        "url": "https://open.spotify.com/album/6mS75CeSpGeiNFypriAXim"
+      },
+      "artists": [
+        {
+          "name": "Pablito Mix",
+          "url": "https://open.spotify.com/artist/6YnCbY5kHjyJcMEUjoeyX3"
+        },
+        {
+          "name": "Ana Simg",
+          "url": "https://open.spotify.com/artist/7nXdrq8t22HH3fouDSBBla"
+        },
+        {
+          "name": "Kapostik",
+          "url": "https://open.spotify.com/artist/7abYZTZ9ewdRuVUSJbowO3"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152171,
+      "name": "Gpi Al Perreo",
+      "url": "https://open.spotify.com/track/0bH8otgZfS8Jymjpx8AL5g"
     },
     {
       "album": {
@@ -5739,6 +5783,24 @@
     },
     {
       "album": {
+        "name": "Mi Troquita",
+        "url": "https://open.spotify.com/album/0ZtGRd1D46NXPDueZKZGbI"
+      },
+      "artists": [
+        {
+          "name": "Deack Lopez",
+          "url": "https://open.spotify.com/artist/191vrwSKDKBZRG1u7NcMpo"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122323,
+      "name": "Mi Troquita",
+      "url": "https://open.spotify.com/track/4TGum13t2UMYk0y9qxgANk"
+    },
+    {
+      "album": {
         "name": "Miami",
         "url": "https://open.spotify.com/album/3DCWtpUlHvcJUXW4pniHgv"
       },
@@ -6366,7 +6428,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 176016,
       "name": "Nos Entendemos",
       "url": "https://open.spotify.com/track/6MnSiGUMRf2UYnKez1zeqG"
@@ -7566,7 +7628,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 228981,
       "name": "Putazo",
       "url": "https://open.spotify.com/track/4Ms3gJz40k4bikKwJklZNu"
@@ -8508,6 +8570,24 @@
       "duration_ms": 146511,
       "name": "Si Supieras",
       "url": "https://open.spotify.com/track/4jLmZzlR6qJy6V9CBEHE5D"
+    },
+    {
+      "album": {
+        "name": "SIGO AL PENDIENTE",
+        "url": "https://open.spotify.com/album/5zL11LOIVjodw1Xan5jKRc"
+      },
+      "artists": [
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195333,
+      "name": "SIGO AL PENDIENTE",
+      "url": "https://open.spotify.com/track/5mD2dZLizhARH7HeWjNFm6"
     },
     {
       "album": {
@@ -9794,7 +9874,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 203265,
       "name": "Vamos A Cachondear",
       "url": "https://open.spotify.com/track/2TCNp7wRj91Ho1IUnrslr3"
@@ -10168,6 +10248,28 @@
       "duration_ms": 177962,
       "name": "ZIPLOCK",
       "url": "https://open.spotify.com/track/76ImqIwLnBXGFj721jf5tF"
+    },
+    {
+      "album": {
+        "name": "Zoom",
+        "url": "https://open.spotify.com/album/3ho0FF1z5evkm7FwjFMFAi"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Nando Produce",
+          "url": "https://open.spotify.com/artist/1w4C4n43HhI5bgubu3iIsI"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153240,
+      "name": "Zoom",
+      "url": "https://open.spotify.com/track/4jLY6QoTutUWWpxCdPTszG"
     },
     {
       "album": {

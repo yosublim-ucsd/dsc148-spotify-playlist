@@ -1,12 +1,12 @@
 {
   "description": "Recuerda la d\u00e9cada de los acampanados, patillas y cuellos picudos",
-  "num_followers": 273584,
+  "num_followers": 273641,
   "original_name": "Los 70 M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZGY1YjcyMDczYThiODRkZDI0NDAzMzJjOTg2NTNkZjcwNWExNzJj",
+  "snapshot_id": "MCwyYjIxMjc3NDZmYjFkOGNjNjk2OWIyZDFiYjdmNjc4NzQyYzI5OGUy",
   "tracks": [
     {
       "added_at": "2019-09-04 23:38:38",
@@ -713,22 +713,6 @@
       "url": "https://open.spotify.com/track/4ig3SdzkxcUK7VU4cuMGu0"
     },
     {
-      "added_at": "2023-03-25 17:43:32",
-      "album": {
-        "name": "Para los Peques",
-        "url": "https://open.spotify.com/album/2G7iskbrJp8fEzGIRrf06o"
-      },
-      "artists": [
-        {
-          "name": "Chabelo",
-          "url": "https://open.spotify.com/artist/1TOnulloO1kwAhFmH1QVJM"
-        }
-      ],
-      "duration_ms": 131693,
-      "name": "Si los Ni\u00f1os Gobernaran al Mundo",
-      "url": "https://open.spotify.com/track/0wtGpgsKB13jYY3QMYvt77"
-    },
-    {
       "added_at": "2019-09-04 23:38:38",
       "album": {
         "name": "16 Exitos De Oro",
@@ -743,6 +727,22 @@
       "duration_ms": 231493,
       "name": "Veronica",
       "url": "https://open.spotify.com/track/4rEybMVb5H7glCSbezlEAL"
+    },
+    {
+      "added_at": "2023-03-25 17:43:32",
+      "album": {
+        "name": "Para los Peques",
+        "url": "https://open.spotify.com/album/2G7iskbrJp8fEzGIRrf06o"
+      },
+      "artists": [
+        {
+          "name": "Chabelo",
+          "url": "https://open.spotify.com/artist/1TOnulloO1kwAhFmH1QVJM"
+        }
+      ],
+      "duration_ms": 131693,
+      "name": "Si los Ni\u00f1os Gobernaran al Mundo",
+      "url": "https://open.spotify.com/track/0wtGpgsKB13jYY3QMYvt77"
     },
     {
       "added_at": "2019-09-04 23:38:38",

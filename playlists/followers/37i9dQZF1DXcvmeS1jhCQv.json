@@ -1,5 +1,5 @@
 {
-  "2024-02-23": 73324,
+  "2024-02-24": 73339,
   "date_first_scraped": "2024-02-03",
   "description": "New tunes from Ireland for your discovery. Cover: F3miii",
   "name": "A Breath of Fresh \u00c9ire",
@@ -537,7 +537,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 243000,
       "name": "Funeka",
       "url": "https://open.spotify.com/track/3eNfjouyFU9bTAeBB4eirf"
@@ -613,6 +613,24 @@
       "duration_ms": 186379,
       "name": "i shouldn\u2019t be here",
       "url": "https://open.spotify.com/track/20GibSptxBlsWlJRwWOsrB"
+    },
+    {
+      "album": {
+        "name": "If The Shoe Fits",
+        "url": "https://open.spotify.com/album/2pDiTlS5ujC2LDsWOefnNS"
+      },
+      "artists": [
+        {
+          "name": "The Cliffords",
+          "url": "https://open.spotify.com/artist/2JIXE3g9E0kfeFWhpKPIja"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211706,
+      "name": "If The Shoe Fits",
+      "url": "https://open.spotify.com/track/4IkaBc35ZYwa1CKUwyUhum"
     },
     {
       "album": {
@@ -757,6 +775,24 @@
       "duration_ms": 238613,
       "name": "Lonely Island",
       "url": "https://open.spotify.com/track/5csv5CTvlDnhEoXMsg7Wld"
+    },
+    {
+      "album": {
+        "name": "Lost and Found",
+        "url": "https://open.spotify.com/album/4wr0lfbZEZunDHgP99Ev82"
+      },
+      "artists": [
+        {
+          "name": "Saibh Skelly",
+          "url": "https://open.spotify.com/artist/5W6LDY0Fa5qK8fbDTe58Kq"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199171,
+      "name": "Lost and Found",
+      "url": "https://open.spotify.com/track/5NwOMleiL1o2QFxoDx8Vib"
     },
     {
       "album": {
@@ -1016,6 +1052,24 @@
     },
     {
       "album": {
+        "name": "OFTEN",
+        "url": "https://open.spotify.com/album/4go3STJFOGSWcwPoty7qfG"
+      },
+      "artists": [
+        {
+          "name": "Monjola",
+          "url": "https://open.spotify.com/artist/1hwy1qY69O1tCOAm7MYeq6"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167330,
+      "name": "OFTEN",
+      "url": "https://open.spotify.com/track/1VdwrdjGYknOMvEsGvHjrP"
+    },
+    {
+      "album": {
         "name": "Only Human",
         "url": "https://open.spotify.com/album/0qvFjAc5SvaBExJ65LeWMr"
       },
@@ -1045,10 +1099,28 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 204453,
       "name": "Open Ended",
       "url": "https://open.spotify.com/track/5SlEyBuGTGWvCCY7igLmny"
+    },
+    {
+      "album": {
+        "name": "Our Time",
+        "url": "https://open.spotify.com/album/7uNkcvXJxHH3roLYAjBixB"
+      },
+      "artists": [
+        {
+          "name": "Luke Dunleavy",
+          "url": "https://open.spotify.com/artist/2hrlyfscnm84Inpkn8hpga"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150638,
+      "name": "Our Time",
+      "url": "https://open.spotify.com/track/0m3rJzSC3u0DAgRp8V5y0b"
     },
     {
       "album": {
@@ -1139,7 +1211,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 178909,
       "name": "Reject Loser Daydream",
       "url": "https://open.spotify.com/track/7oo31yFxiG3IEu90guW8Aq"
@@ -1179,6 +1251,24 @@
       "duration_ms": 309040,
       "name": "See You In a Year and a Half",
       "url": "https://open.spotify.com/track/53JxyMqGibF07pBJ7aA2HJ"
+    },
+    {
+      "album": {
+        "name": "Sentences",
+        "url": "https://open.spotify.com/album/4vduPHyboJB0uaGjft8I8b"
+      },
+      "artists": [
+        {
+          "name": "Annika Kilkenny",
+          "url": "https://open.spotify.com/artist/6BPf3YvvXG87cFZPT9WQgx"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133253,
+      "name": "Sentences",
+      "url": "https://open.spotify.com/track/2MI97Z7aN6BsMUpKjGs6MJ"
     },
     {
       "album": {
@@ -1417,7 +1507,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 166875,
       "name": "The Moment",
       "url": "https://open.spotify.com/track/0Cm3GLhnwLN7C5p3gvoF0F"
@@ -1435,7 +1525,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 210725,
       "name": "Travel Size",
       "url": "https://open.spotify.com/track/3Z3wrUVY4ct2PozNaPB5hv"

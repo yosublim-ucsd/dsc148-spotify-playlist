@@ -1,12 +1,12 @@
 {
   "description": "Sit back and relax to our favorite local indie and R&B sounds.",
-  "num_followers": 582450,
+  "num_followers": 582477,
   "original_name": "Relax Tayo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNmVmMWJkMmNmZjQ2ZmYzMGM1OTBiOTQ2YzRhODBiMjQ0NGM0Mzk1",
+  "snapshot_id": "MCw5MDc5YTZmY2U1NmVjMzUxZmQyMGMwNjZhNjg1NTFjYWRiZTBkNzY1",
   "tracks": [
     {
       "added_at": "2024-02-07 07:48:59",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-02-07 07:48:59",
       "album": {
-        "name": "o ninanais",
-        "url": "https://open.spotify.com/album/1X5tEgzP3ie9ViLe68LJNA"
-      },
-      "artists": [
-        {
-          "name": "Arthur Nery",
-          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
-        }
-      ],
-      "duration_ms": 252214,
-      "name": "o ninanais",
-      "url": "https://open.spotify.com/track/0wu1deoRFwktnfD6dTt9KE"
-    },
-    {
-      "added_at": "2024-02-07 07:48:59",
-      "album": {
         "name": "Byahe",
         "url": "https://open.spotify.com/album/6GkdhbqD0GxO1YMan6eK2b"
       },
@@ -511,6 +495,22 @@
     {
       "added_at": "2024-02-07 07:48:59",
       "album": {
+        "name": "o ninanais",
+        "url": "https://open.spotify.com/album/1X5tEgzP3ie9ViLe68LJNA"
+      },
+      "artists": [
+        {
+          "name": "Arthur Nery",
+          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
+        }
+      ],
+      "duration_ms": 252214,
+      "name": "o ninanais",
+      "url": "https://open.spotify.com/track/0wu1deoRFwktnfD6dTt9KE"
+    },
+    {
+      "added_at": "2024-02-07 07:48:59",
+      "album": {
         "name": "Michael Pangilinan",
         "url": "https://open.spotify.com/album/5smhvbie90IDjoJoQTI7lk"
       },
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-02-07 07:48:59",
       "album": {
-        "name": "Langit Mong Bughaw",
-        "url": "https://open.spotify.com/album/7eXlJM2M5i3iDd8xgd0qwr"
-      },
-      "artists": [
-        {
-          "name": "December Avenue",
-          "url": "https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m"
-        }
-      ],
-      "duration_ms": 282094,
-      "name": "Kahit Di Mo Alam",
-      "url": "https://open.spotify.com/track/7Ej7MKkFmuDApmawGwSA3S"
-    },
-    {
-      "added_at": "2024-02-07 07:48:59",
-      "album": {
         "name": "Pulso",
         "url": "https://open.spotify.com/album/5RhDcf3sUb46WGHaFy1uDz"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 269250,
       "name": "Pulso",
       "url": "https://open.spotify.com/track/1lFymAs0a5XGjFVBmkxjQZ"
+    },
+    {
+      "added_at": "2024-02-07 07:48:59",
+      "album": {
+        "name": "Langit Mong Bughaw",
+        "url": "https://open.spotify.com/album/7eXlJM2M5i3iDd8xgd0qwr"
+      },
+      "artists": [
+        {
+          "name": "December Avenue",
+          "url": "https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m"
+        }
+      ],
+      "duration_ms": 282094,
+      "name": "Kahit Di Mo Alam",
+      "url": "https://open.spotify.com/track/7Ej7MKkFmuDApmawGwSA3S"
     },
     {
       "added_at": "2024-02-07 07:48:59",
@@ -591,26 +591,6 @@
     {
       "added_at": "2024-02-07 07:48:59",
       "album": {
-        "name": "Aking Pahinga",
-        "url": "https://open.spotify.com/album/5dO0Qwl40jXrQ4NCmRRuvb"
-      },
-      "artists": [
-        {
-          "name": "Dro Perez",
-          "url": "https://open.spotify.com/artist/1Qwm4EmOYuY34nAFfeEUOa"
-        },
-        {
-          "name": "I-Ghie",
-          "url": "https://open.spotify.com/artist/0nR2iHBD1IJVJhRpzA5nFf"
-        }
-      ],
-      "duration_ms": 274285,
-      "name": "Aking Pahinga",
-      "url": "https://open.spotify.com/track/6zcjOnMaymoEbG32dWekXi"
-    },
-    {
-      "added_at": "2024-02-07 07:48:59",
-      "album": {
         "name": "Mikasa",
         "url": "https://open.spotify.com/album/4xhKTo8zhVUzDDwsNb9Cdq"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 253333,
       "name": "Mikasa",
       "url": "https://open.spotify.com/track/12TuXwmfjap9XnPVtBHS8B"
+    },
+    {
+      "added_at": "2024-02-07 07:48:59",
+      "album": {
+        "name": "Aking Pahinga",
+        "url": "https://open.spotify.com/album/5dO0Qwl40jXrQ4NCmRRuvb"
+      },
+      "artists": [
+        {
+          "name": "Dro Perez",
+          "url": "https://open.spotify.com/artist/1Qwm4EmOYuY34nAFfeEUOa"
+        },
+        {
+          "name": "I-Ghie",
+          "url": "https://open.spotify.com/artist/0nR2iHBD1IJVJhRpzA5nFf"
+        }
+      ],
+      "duration_ms": 274285,
+      "name": "Aking Pahinga",
+      "url": "https://open.spotify.com/track/6zcjOnMaymoEbG32dWekXi"
     },
     {
       "added_at": "2024-02-07 07:48:59",
@@ -759,6 +759,22 @@
     {
       "added_at": "2024-02-07 07:48:59",
       "album": {
+        "name": "Ex",
+        "url": "https://open.spotify.com/album/0qny2u4DXtiOu7ENsopaaA"
+      },
+      "artists": [
+        {
+          "name": "Callalily",
+          "url": "https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01"
+        }
+      ],
+      "duration_ms": 279259,
+      "name": "Ex",
+      "url": "https://open.spotify.com/track/0GHwNr0lqf8jpc9wesmnHo"
+    },
+    {
+      "added_at": "2024-02-07 07:48:59",
+      "album": {
         "name": "Ultraelectromagnetic Jam",
         "url": "https://open.spotify.com/album/7tfDmiKEApFiZmT5MzIN1o"
       },
@@ -779,22 +795,6 @@
     {
       "added_at": "2024-02-07 07:48:59",
       "album": {
-        "name": "Ex",
-        "url": "https://open.spotify.com/album/0qny2u4DXtiOu7ENsopaaA"
-      },
-      "artists": [
-        {
-          "name": "Callalily",
-          "url": "https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01"
-        }
-      ],
-      "duration_ms": 279259,
-      "name": "Ex",
-      "url": "https://open.spotify.com/track/0GHwNr0lqf8jpc9wesmnHo"
-    },
-    {
-      "added_at": "2024-02-07 07:48:59",
-      "album": {
         "name": "Dramachine",
         "url": "https://open.spotify.com/album/6eQSE3asJwkxro63orNwjk"
       },
@@ -807,6 +807,22 @@
       "duration_ms": 240320,
       "name": "Tulog Na",
       "url": "https://open.spotify.com/track/5ZPlhCh8KnB0bEnElxm1Et"
+    },
+    {
+      "added_at": "2024-02-07 07:48:59",
+      "album": {
+        "name": "Closer You and I",
+        "url": "https://open.spotify.com/album/3oiv09ehNwGqaLWk3TDBgA"
+      },
+      "artists": [
+        {
+          "name": "Adie",
+          "url": "https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Closer You and I",
+      "url": "https://open.spotify.com/track/4yefFdkOF4T8rN6OAO7RIP"
     },
     {
       "added_at": "2024-02-07 07:48:59",
@@ -843,22 +859,6 @@
       "duration_ms": 202764,
       "name": "Nagbabakasakali",
       "url": "https://open.spotify.com/track/4fE0gWRGGRTxMCiJ51As3w"
-    },
-    {
-      "added_at": "2024-02-07 07:48:59",
-      "album": {
-        "name": "Closer You and I",
-        "url": "https://open.spotify.com/album/3oiv09ehNwGqaLWk3TDBgA"
-      },
-      "artists": [
-        {
-          "name": "Adie",
-          "url": "https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Closer You and I",
-      "url": "https://open.spotify.com/track/4yefFdkOF4T8rN6OAO7RIP"
     }
   ],
   "unique_name": "Relax Tayo",

@@ -1,12 +1,12 @@
 {
   "description": "The hottest new pop with all the drops. Cover: Rita Ora & Gryffin",
-  "num_followers": 145362,
+  "num_followers": 145450,
   "original_name": "New Dance Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYjM3NWFmODcxNzcwYTVmYzZmOTMzMzJkMDE2ODBmNDcwZTAxODFl",
+  "snapshot_id": "MCxkMzYxNWRkNjcxYjdjZDcyNmU1MTQzMTZhMTI5ZDUxNWE5MDU0ZTk1",
   "tracks": [
     {
       "added_at": "2024-02-16 05:00:00",
@@ -29,6 +29,26 @@
       "url": "https://open.spotify.com/track/2Mwmp4qVCe8CJcalsT4xm1"
     },
     {
+      "added_at": "2024-02-23 05:01:00",
+      "album": {
+        "name": "Midnight Lover",
+        "url": "https://open.spotify.com/album/2idGqa3Qj3PMa1thq4lYZQ"
+      },
+      "artists": [
+        {
+          "name": "YouNotUs",
+          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
+        },
+        {
+          "name": "Zak Abel",
+          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
+        }
+      ],
+      "duration_ms": 123423,
+      "name": "Midnight Lover",
+      "url": "https://open.spotify.com/track/0waC54U6IPRJws5gPW5LgW"
+    },
+    {
       "added_at": "2024-02-16 05:00:00",
       "album": {
         "name": "Lovers In A Past Life (with Rag'n'Bone Man)",
@@ -49,6 +69,22 @@
       "url": "https://open.spotify.com/track/6v4ABPB255HDSWyIj3S9Wn"
     },
     {
+      "added_at": "2024-02-23 05:01:00",
+      "album": {
+        "name": "Kiss Me Better",
+        "url": "https://open.spotify.com/album/5tBvkoPa587mib4j4SuUFy"
+      },
+      "artists": [
+        {
+          "name": "Julie Bergan",
+          "url": "https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv"
+        }
+      ],
+      "duration_ms": 160609,
+      "name": "Kiss Me Better",
+      "url": "https://open.spotify.com/track/2ihC2xsLpIMpd4JDEGUovU"
+    },
+    {
       "added_at": "2024-02-16 05:00:00",
       "album": {
         "name": "Shiver",
@@ -67,6 +103,142 @@
       "duration_ms": 234330,
       "name": "Shiver",
       "url": "https://open.spotify.com/track/1ls2PNiOHOxmSfHRyslgAl"
+    },
+    {
+      "added_at": "2024-02-23 05:01:00",
+      "album": {
+        "name": "SLEEP TONIGHT (THIS IS THE LIFE) [with R3HAB and Sam Feldt]",
+        "url": "https://open.spotify.com/album/7CsXgmeC033GlMrmETGDru"
+      },
+      "artists": [
+        {
+          "name": "Switch Disco",
+          "url": "https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        }
+      ],
+      "duration_ms": 136312,
+      "name": "SLEEP TONIGHT (THIS IS THE LIFE) - with R3HAB and Sam Feldt",
+      "url": "https://open.spotify.com/track/3pt8FTbqdnMyh3r9noAYsQ"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "i wish you cheated (Frank Walker Remix)",
+        "url": "https://open.spotify.com/album/3uAhzxv1CblM1UuaHDUfzz"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        },
+        {
+          "name": "Frank Walker",
+          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
+        }
+      ],
+      "duration_ms": 210612,
+      "name": "i wish you cheated (Frank Walker Remix)",
+      "url": "https://open.spotify.com/track/17CUvkkdv6B1sRM99Mx1nN"
+    },
+    {
+      "added_at": "2024-02-23 05:01:00",
+      "album": {
+        "name": "Dancing and Crying",
+        "url": "https://open.spotify.com/album/3oMxQY4fUv2Y39BeE2qQXd"
+      },
+      "artists": [
+        {
+          "name": "Kiesza",
+          "url": "https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo"
+        }
+      ],
+      "duration_ms": 197549,
+      "name": "Dancing and Crying",
+      "url": "https://open.spotify.com/track/6PclnzE0BUZCBfgWqWZpXz"
+    },
+    {
+      "added_at": "2024-02-23 05:01:00",
+      "album": {
+        "name": "One, Two, & 3",
+        "url": "https://open.spotify.com/album/1vQWQX4pHIp1c1QSntHZrn"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 206007,
+      "name": "One, Two, & 3",
+      "url": "https://open.spotify.com/track/1Yu1fJCwqEWlacl4ofyeUg"
+    },
+    {
+      "added_at": "2024-02-23 05:01:00",
+      "album": {
+        "name": "Where My Girls At?",
+        "url": "https://open.spotify.com/album/0V67ejz6Vt8Ucjkh6ZMcVY"
+      },
+      "artists": [
+        {
+          "name": "ESSEL",
+          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
+        },
+        {
+          "name": "Samira",
+          "url": "https://open.spotify.com/artist/0QmyeiU8zjcckReXT6sjuT"
+        }
+      ],
+      "duration_ms": 148200,
+      "name": "Where My Girls At?",
+      "url": "https://open.spotify.com/track/4cWja9OGm0MPB5B6sd2SHz"
+    },
+    {
+      "added_at": "2024-02-23 05:01:00",
+      "album": {
+        "name": "The Way It Is",
+        "url": "https://open.spotify.com/album/2nrh9MzGMJVt705Q3G47V7"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Two Friends",
+          "url": "https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh"
+        }
+      ],
+      "duration_ms": 150962,
+      "name": "The Way It Is",
+      "url": "https://open.spotify.com/track/22sFNLCbk7LJ2gWKANf6Ue"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Feels Right (I Love It)",
+        "url": "https://open.spotify.com/album/1hpgI1WL2mSpV5CX6ppOIH"
+      },
+      "artists": [
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        },
+        {
+          "name": "Brian Kelley",
+          "url": "https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ"
+        }
+      ],
+      "duration_ms": 147189,
+      "name": "Feels Right (I Love It)",
+      "url": "https://open.spotify.com/track/64RZNkFqMF44Ql8dOfesgr"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -183,46 +355,6 @@
       "duration_ms": 208553,
       "name": "Good II Me",
       "url": "https://open.spotify.com/track/6q0wI1UiE9s03kH6bnY6VA"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "i wish you cheated (Frank Walker Remix)",
-        "url": "https://open.spotify.com/album/3uAhzxv1CblM1UuaHDUfzz"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        },
-        {
-          "name": "Frank Walker",
-          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
-        }
-      ],
-      "duration_ms": 210612,
-      "name": "i wish you cheated (Frank Walker Remix)",
-      "url": "https://open.spotify.com/track/17CUvkkdv6B1sRM99Mx1nN"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Feels Right (I Love It)",
-        "url": "https://open.spotify.com/album/1hpgI1WL2mSpV5CX6ppOIH"
-      },
-      "artists": [
-        {
-          "name": "Flo Rida",
-          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
-        },
-        {
-          "name": "Brian Kelley",
-          "url": "https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ"
-        }
-      ],
-      "duration_ms": 147189,
-      "name": "Feels Right (I Love It)",
-      "url": "https://open.spotify.com/track/64RZNkFqMF44Ql8dOfesgr"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1059,26 +1191,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Heaven Ain't Calling",
-        "url": "https://open.spotify.com/album/2ljTtssMM05i6E3zg6jgw3"
-      },
-      "artists": [
-        {
-          "name": "Kiesza",
-          "url": "https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo"
-        },
-        {
-          "name": "Sugar Jesus",
-          "url": "https://open.spotify.com/artist/1cdXZUfRhXZ8DnwMV4CcS5"
-        }
-      ],
-      "duration_ms": 177338,
-      "name": "Heaven Ain't Calling",
-      "url": "https://open.spotify.com/track/7dQ8raH1V6AArFqJ419fZ7"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Head Down",
         "url": "https://open.spotify.com/album/4FUeHNijvgnMa27510RDC2"
       },
@@ -1299,30 +1411,6 @@
       "duration_ms": 141369,
       "name": "The Love",
       "url": "https://open.spotify.com/track/3XijPEn57kQXslTicIpy5J"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "good to me",
-        "url": "https://open.spotify.com/album/23eWdkcVDVzgkE1rqBjuAI"
-      },
-      "artists": [
-        {
-          "name": "PiCKUPLiNES",
-          "url": "https://open.spotify.com/artist/0Nqow4lyg43fW8ktlTR9Vi"
-        },
-        {
-          "name": "Jakey KRUMM",
-          "url": "https://open.spotify.com/artist/05NjHhge1XpqyNtgpjsHej"
-        },
-        {
-          "name": "North Ave Jax",
-          "url": "https://open.spotify.com/artist/7t3WSgiRVbVsTIbsgcHVrY"
-        }
-      ],
-      "duration_ms": 121967,
-      "name": "good to me",
-      "url": "https://open.spotify.com/track/15YvfDB4xjwOsIVnFE4h4B"
     },
     {
       "added_at": "2024-02-16 05:00:00",

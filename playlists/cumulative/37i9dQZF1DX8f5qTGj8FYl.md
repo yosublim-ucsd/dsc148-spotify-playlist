@@ -4,7 +4,7 @@
 
 > When the funk is just too funky for words to keep up.
 
-263 songs - 18 hr 6 min
+264 songs - 18 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,6 +209,7 @@
 | [Sir Somebody](https://open.spotify.com/track/7aHHRCZdz4ZW9tCN3nX5uv) | [Family Company](https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0) | [Sir Somebody](https://open.spotify.com/album/4SQDM8myIkEa4MDA5hz5fH) | 4:02 | 2021-11-26 |  |
 | [Sleep Depraved](https://open.spotify.com/track/4VDIqajjzfienIbv3zuu6o) | [Robert Walter](https://open.spotify.com/artist/4vqJywDSqxaNITMBlTRGER), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI), [Adam Deitch](https://open.spotify.com/artist/1robtEQJL2Fh639r3ksMfw) | [Sleep Depraved](https://open.spotify.com/album/5lZJfhuQGHwDcRJfktfRQK) | 4:17 | 2020-11-27 | 2023-11-04 |
 | [Sleep Depraved](https://open.spotify.com/track/4KGPk8tcnfjwCGkyDDaVvp) | [WRD Trio](https://open.spotify.com/artist/3X7BXKZNdJxqDhkIxgwzCM), [Adam Deitch](https://open.spotify.com/artist/1robtEQJL2Fh639r3ksMfw), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI), [Robert Walter](https://open.spotify.com/artist/4vqJywDSqxaNITMBlTRGER) | [The Hit](https://open.spotify.com/album/1dzSCG6nov0zLtT0Bckdl1) | 4:17 | 2023-08-04 |  |
+| [Smoked Poke Salad](https://open.spotify.com/track/502a3Ugy8CfT8fJHU0lgre) | [Magic In Threes](https://open.spotify.com/artist/3OucMu53bbF9yGBcqI34ay) | [Incidental Music](https://open.spotify.com/album/7wJQURyBRRRKwUecXxbI5K) | 2:55 | 2024-02-23 |  |
 | [Smokeshow](https://open.spotify.com/track/0XLakrxjjKxuKzgCiSiggV) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [Smokeshow](https://open.spotify.com/album/41lISa0NJIZ5ftQ36VmZs3) | 4:02 | 2021-12-10 | 2023-06-16 |
 | [Smooth Move](https://open.spotify.com/track/6WFwC46XQapcmnToEcromu) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [Smooth Move](https://open.spotify.com/album/6o9IZz9yXexSURHtYenXSa) | 5:16 | 2020-11-13 | 2024-02-03 |
 | [Soliloquy](https://open.spotify.com/track/1tfq45tFyHgq2ImK88yopM) | [Krispy & the Pooch](https://open.spotify.com/artist/2Aibp4rRO4mHmvBRkfK33Z) | [Soliloquy](https://open.spotify.com/album/5o1gURd5wKaniLghxjeyKd) | 2:50 | 2023-08-04 |  |
@@ -269,7 +270,7 @@
 | [Wishbone \- Deluxe Edition Bonus Track](https://open.spotify.com/track/4XSI6vXCaovfgVboUrQNpA) | [The Bamboos](https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K) | [Hard Up \(Deluxe Version\)](https://open.spotify.com/album/3C5Dlf8RweGoTH4p2M0ISo) | 3:21 | 2023-08-04 | 2023-11-18 |
 | [Wishbone \- Deluxe Edition Bonus Track](https://open.spotify.com/track/6kElTefmRx2J8nYe84vWRj) | [The Bamboos](https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K) | [Hard Up \(Deluxe Version\)](https://open.spotify.com/album/0SGSbCsHJrgkaUe2FiR8Tp) | 3:21 | 2021-12-03 | 2022-07-16 |
 | [Work Tapes](https://open.spotify.com/track/5hVL3iwV00R4K10kPmfM5W) | [Magic In Threes](https://open.spotify.com/artist/3OucMu53bbF9yGBcqI34ay) | [3 \(Remastered\)](https://open.spotify.com/album/16E6N3NF4JmckFOIDuvRwp) | 2:18 | 2020-11-13 | 2022-07-29 |
-| [Work Tapes](https://open.spotify.com/track/6IlJLEMA4tkDBFM4joXEzM) | [Magic In Threes](https://open.spotify.com/artist/3OucMu53bbF9yGBcqI34ay) | [3 \(Remastered\)](https://open.spotify.com/album/38p16DnIi2n5sxiZBat3ML) | 2:18 | 2020-11-13 |  |
+| [Work Tapes](https://open.spotify.com/track/6IlJLEMA4tkDBFM4joXEzM) | [Magic In Threes](https://open.spotify.com/artist/3OucMu53bbF9yGBcqI34ay) | [3 \(Remastered\)](https://open.spotify.com/album/38p16DnIi2n5sxiZBat3ML) | 2:18 | 2020-11-13 | 2024-02-24 |
 | [Yes](https://open.spotify.com/track/5YytOCWoccBVzsETaXIqLU) | [Brothers Of My Uncle](https://open.spotify.com/artist/4bVktS3aLOw3TDNe320GxO), [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ), [Myles Jasnowski](https://open.spotify.com/artist/4l5Tb3tgzJlGTA6VC4aDV3), [Jordan Rose](https://open.spotify.com/artist/1EKM9MppWyNxJBWDxBqIra), [Itamar Gov Ari](https://open.spotify.com/artist/5mW7XJt3kIWZKBGSwkmeak), [Tane](https://open.spotify.com/artist/5mrQPFvQLVkRwBVyob0OY3) | [Yes](https://open.spotify.com/album/2Gb6cb2tLhlhKcoaK7mvbC) | 2:06 | 2021-11-12 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

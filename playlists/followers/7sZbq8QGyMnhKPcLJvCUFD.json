@@ -1,5 +1,5 @@
 {
-  "2024-02-23": 741988,
+  "2024-02-24": 741996,
   "date_first_scraped": "2022-10-06",
   "description": "The best NCS songs that are copyright free and safe music for gaming, live streaming, studying. Official playlist from NoCopyrightSounds. Cover: Don Diablo",
   "name": "NCS Releases",
@@ -2303,7 +2303,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 149523,
       "name": "Down For Anything",
       "url": "https://open.spotify.com/track/22PGa3sM5Hb8B21u0iymi2"
@@ -7775,6 +7775,28 @@
       "duration_ms": 206979,
       "name": "Rift",
       "url": "https://open.spotify.com/track/2GjmMAFA3EFMThAfDmtB7u"
+    },
+    {
+      "album": {
+        "name": "Romeo and Juliet",
+        "url": "https://open.spotify.com/album/1plkjTkXuOTRBX3tIiL5TW"
+      },
+      "artists": [
+        {
+          "name": "SadBois",
+          "url": "https://open.spotify.com/artist/2ZH041yMjGFX7QwMxkFGZJ"
+        },
+        {
+          "name": "Manno",
+          "url": "https://open.spotify.com/artist/2SxgKTZK8e3ZREG1OuzIf2"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Romeo and Juliet",
+      "url": "https://open.spotify.com/track/2W9h6WvwD97C2DR8gbgwtu"
     },
     {
       "album": {

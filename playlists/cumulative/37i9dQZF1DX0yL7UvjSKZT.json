@@ -438,7 +438,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 209400,
       "name": "At Last You Find",
       "url": "https://open.spotify.com/track/3a7aIpdjyj9LspRUTwZGY7"
@@ -564,7 +564,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 356522,
       "name": "Better Way",
       "url": "https://open.spotify.com/track/7puCiBLOOXgMVPSCrtSQ6C"
@@ -993,6 +993,24 @@
     },
     {
       "album": {
+        "name": "Carolina Ghost",
+        "url": "https://open.spotify.com/album/1aNX0FOdlzShowyEoFP23U"
+      },
+      "artists": [
+        {
+          "name": "Caleb Caudle",
+          "url": "https://open.spotify.com/artist/2FZLOlw11Ta6hcSK6a7FPU"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218026,
+      "name": "Carolina Ghost",
+      "url": "https://open.spotify.com/track/1CxIbi3BRjTmbpmBpc14Wg"
+    },
+    {
+      "album": {
         "name": "Crooked Tree",
         "url": "https://open.spotify.com/album/1lIZUzexPXR4Q7exPmNqCc"
       },
@@ -1230,7 +1248,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 232827,
       "name": "Crooked Tree",
       "url": "https://open.spotify.com/track/1NlwiyN4GGn3gVgyZ8T5AW"
@@ -1784,7 +1802,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 194786,
       "name": "Edges Run",
       "url": "https://open.spotify.com/track/3LTKKY3qb8MmG3ZfJcfR0x"
@@ -1878,7 +1896,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 245864,
       "name": "Everything Changed",
       "url": "https://open.spotify.com/track/2a69GIAmyBciRjmCquCDPZ"
@@ -2118,7 +2136,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 364600,
       "name": "Folk Bloodbath",
       "url": "https://open.spotify.com/track/3n61p4bD8YnksjhVuONs7a"
@@ -2302,7 +2320,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 372746,
       "name": "Golden",
       "url": "https://open.spotify.com/track/4UvzGgR2uGRwqq6QDGQzl8"
@@ -2338,7 +2356,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 185553,
       "name": "Good Intentions",
       "url": "https://open.spotify.com/track/6586Yb57Ussd4h1A7brBsU"
@@ -2630,7 +2648,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 235600,
       "name": "Hope",
       "url": "https://open.spotify.com/track/1PgzV8KUx8fwktpyiNsl1N"
@@ -2702,7 +2720,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 199840,
       "name": "How It Ends",
       "url": "https://open.spotify.com/track/0kqUylCZDfyQqiSxtaCFdf"
@@ -2817,6 +2835,24 @@
     },
     {
       "album": {
+        "name": "I Could Drive You Crazy",
+        "url": "https://open.spotify.com/album/3io77WHK4cVk4JKKcFS4Kq"
+      },
+      "artists": [
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216128,
+      "name": "I Could Drive You Crazy",
+      "url": "https://open.spotify.com/track/41FgxEQPfzOWhyzb3vSmKi"
+    },
+    {
+      "album": {
         "name": "I Don't Know",
         "url": "https://open.spotify.com/album/7CBdNw7qntXyqBNLWJ4Gll"
       },
@@ -2882,7 +2918,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 139030,
       "name": "Idalou",
       "url": "https://open.spotify.com/track/2b7p4fj53Y16XSBcwMKXkQ"
@@ -2900,7 +2936,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 208000,
       "name": "If You See Me Riding By",
       "url": "https://open.spotify.com/track/2i17QDSujp8F9KI1VL0oAW"
@@ -3048,7 +3084,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 120609,
       "name": "Jenny Put the Kettle On",
       "url": "https://open.spotify.com/track/0hDZD5WuVY0Xs0MV0MzRgS"
@@ -3556,7 +3592,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 199477,
       "name": "Marianne",
       "url": "https://open.spotify.com/track/54e9O9Y8iG3CCjCEdeQ7yy"
@@ -3600,7 +3636,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 264813,
       "name": "Meeting Is Over",
       "url": "https://open.spotify.com/track/0Jyru2R52NaBR6wiEGMQUp"
@@ -4132,7 +4168,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 177414,
       "name": "Ohio",
       "url": "https://open.spotify.com/track/1ZhO5DrMflZS3gD8ihnnmu"
@@ -4190,7 +4226,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 154760,
       "name": "Old Songs Never Die",
       "url": "https://open.spotify.com/track/1IQWXHm4JHL3xpHYrlawtR"
@@ -4422,7 +4458,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 186106,
       "name": "Part of Life",
       "url": "https://open.spotify.com/track/0BAVO0LRCe7CZzodzCFmal"
@@ -4440,7 +4476,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 213951,
       "name": "Past My Prime",
       "url": "https://open.spotify.com/track/7ejAeKSETTe2vQCiS4Ad9e"
@@ -4600,6 +4636,42 @@
       "duration_ms": 242153,
       "name": "Pull the Moon",
       "url": "https://open.spotify.com/track/0fhybVaiwileWneFHOBhhd"
+    },
+    {
+      "album": {
+        "name": "Queen Of The Coast",
+        "url": "https://open.spotify.com/album/3LpWDjfTgKJ3lGKykjtwuz"
+      },
+      "artists": [
+        {
+          "name": "Jake Soffer",
+          "url": "https://open.spotify.com/artist/7JV0AfdtfA325ka6q3pRsX"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Queen Of The Coast",
+      "url": "https://open.spotify.com/track/5js8Ue4WdDisyNmsYTJ9p0"
+    },
+    {
+      "album": {
+        "name": "Raised in the Ashes",
+        "url": "https://open.spotify.com/album/2NSRnB6f42iigJE9KPWrHP"
+      },
+      "artists": [
+        {
+          "name": "J.M. Clifford",
+          "url": "https://open.spotify.com/artist/7nvJAcPF5V0cZ5GfYTIGCY"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190634,
+      "name": "Raised in the Ashes",
+      "url": "https://open.spotify.com/track/7zpsJRw40MUk9bGm5MqmjN"
     },
     {
       "album": {
@@ -5012,7 +5084,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 236386,
       "name": "Shenandoah",
       "url": "https://open.spotify.com/track/6Kg4vLRFXHc9sEqc6vqVnY"
@@ -5142,7 +5214,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 222960,
       "name": "Sing to the Mountain",
       "url": "https://open.spotify.com/track/5kgMPM2m2sGGuVL4KpHwiO"
@@ -5294,7 +5366,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 377258,
       "name": "Sometimes I",
       "url": "https://open.spotify.com/track/4lS9Ni8jEjk5ffXDTSYkSp"
@@ -5644,7 +5716,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 234013,
       "name": "Take Me as I Am",
       "url": "https://open.spotify.com/track/3Q7MbMK0z9Sn7konorvnsZ"
@@ -5662,7 +5734,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 270013,
       "name": "Tea Kettle Tea",
       "url": "https://open.spotify.com/track/7u0fkaLBo5ikZdWfQO04Ht"
@@ -5716,7 +5788,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 196946,
       "name": "Tennessee Dust",
       "url": "https://open.spotify.com/track/2dyhHSqHRZbLZrwTPAcr4g"
@@ -6022,7 +6094,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 202110,
       "name": "The Hunt",
       "url": "https://open.spotify.com/track/1WPDc6h6igXcZMZn5zjjfq"
@@ -6148,7 +6220,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 146949,
       "name": "The Sea - Alternative Version",
       "url": "https://open.spotify.com/track/6FftizetgbURg5ung5zcLP"
@@ -6278,7 +6350,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 230306,
       "name": "Three By Three",
       "url": "https://open.spotify.com/track/7xEQvXKOQepPgVbw9UV57M"
@@ -6480,7 +6552,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 239590,
       "name": "Unhurried",
       "url": "https://open.spotify.com/track/0uGY93shNywFnDavxcuj53"
@@ -6570,7 +6642,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 356561,
       "name": "Updraft",
       "url": "https://open.spotify.com/track/1HKT1t2qsl8Z76suZOGBRD"
@@ -6824,7 +6896,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 204618,
       "name": "Where the Long Line Leads",
       "url": "https://open.spotify.com/track/2nl7VPKy1XQ2NiUrdI5AeY"
@@ -6864,6 +6936,24 @@
       "duration_ms": 241013,
       "name": "Whiskey",
       "url": "https://open.spotify.com/track/304pRAROhKx7jQdNYztux2"
+    },
+    {
+      "album": {
+        "name": "Back to P.A.",
+        "url": "https://open.spotify.com/album/2fEGPaDPozvo1hiprAhTNS"
+      },
+      "artists": [
+        {
+          "name": "Daniel Sherrill",
+          "url": "https://open.spotify.com/artist/1yYalMAy93p4bEcgJWVgRR"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185626,
+      "name": "Whiskey Before Breakfast",
+      "url": "https://open.spotify.com/track/7DtdNPbORdQjruViZLZ993"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Nadhira Suri
 
-3,127 songs - 8 day 0 hr 8 min
+3,130 songs - 8 day 0 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [As Much As I Do](https://open.spotify.com/track/1Rn7HB52SqdVvKnXHpLWfH) | [Aruna Dawn](https://open.spotify.com/artist/0IR68oTOmMzCDoidJ7FICS) | [As Much As I Do](https://open.spotify.com/album/5MLB92otyxZgMdKXOIRraz) | 3:09 | 2023-07-27 | 2023-08-12 |
 | [As We Talk](https://open.spotify.com/track/1xNoiDKbPQnPZknnOxLT6m) | [Azimah Fada](https://open.spotify.com/artist/7xVCVjiZvaQ2zjAKS5Jkt9), [Leca Percussion](https://open.spotify.com/artist/3w7VheCMgx50I3vsFlmL2q), [Rhesa Siregar](https://open.spotify.com/artist/3QhzGBK0sLrqAnHMOI2YVS) | [Scars Souvenir](https://open.spotify.com/album/1qvid202eOiUz6vI8xFca0) | 2:59 | 2023-03-02 | 2023-03-18 |
 | [Asal Bayar Tepat Waktu](https://open.spotify.com/track/68eBpCI2lEeB8WovzV3W0Q) | [Candra Kim](https://open.spotify.com/artist/2RttFVmXSNaVg82J9y8LlF) | [Asal Bayar Tepat Waktu](https://open.spotify.com/album/1HWbwfVGBfQ5DVQyCGElIq) | 3:01 | 2023-05-18 | 2023-06-02 |
+| [Asik sik sik](https://open.spotify.com/track/2oeh8IA1qaxYx8A4UsNLoM) | [PORIS](https://open.spotify.com/artist/6oW4eaSyUiBItGKBghBSTe), [Wicigo Shawty](https://open.spotify.com/artist/11YdJ9365MP5iprTsq8plx), [Sexy Goath](https://open.spotify.com/artist/3W5jBEPEo6sAcvVOyL9RnY) | [Asik sik sik](https://open.spotify.com/album/6XOKVRvgZNkG9jjDzmQBEF) | 2:22 | 2024-02-23 |  |
 | [Asing](https://open.spotify.com/track/0YHT4HPPwhnzJmQ2DkhkFM) | [Gari](https://open.spotify.com/artist/1RAKEz87qYb69IYv5zPh4j) | [Asing](https://open.spotify.com/album/2nN8TcNZRiepeGXbk31ye3) | 4:54 | 2022-03-24 | 2022-04-08 |
 | [Asmaradhana](https://open.spotify.com/track/6Hm2YnJh9jvBlL5RA3NhK8) | [Kamar Jiwa](https://open.spotify.com/artist/7BVQRjp57Jzuojq1du6qG6) | [Asmaradhana](https://open.spotify.com/album/1pVWqEsZWOMHx3CVTC5Qrs) | 3:59 | 2022-05-05 | 2022-05-20 |
 | [ASTRO](https://open.spotify.com/track/6PGQPVw3pNete16F957kQK) | [cellosux](https://open.spotify.com/artist/2rkmXRyKp3HRmGOgP968Kj) | [ASTRO](https://open.spotify.com/album/0wBsWCGhPJXB6yPeGpY2xS) | 3:23 | 2023-06-29 | 2023-07-15 |
@@ -1289,6 +1290,7 @@
 | [Jalan Yang Berbeda](https://open.spotify.com/track/0m4fottdKyM0HIqzeFRU3a) | [Allan Andersn](https://open.spotify.com/artist/4zcXAnIxQ6UDXSu8qDZbsk) | [Jalan Yang Berbeda](https://open.spotify.com/album/4UZnLt6ojfslpOdJ4gM9qz) | 4:06 | 2023-01-27 | 2023-02-10 |
 | [Jalur Alternatif](https://open.spotify.com/track/2he1wBFPJitLcoZMZbR3ve) | [Manusia Aksara](https://open.spotify.com/artist/4KhMbVClEsKsmlfT5yO8St) | [Jalur Alternatif](https://open.spotify.com/album/4eawVVD97kivrqrSGdXH5I) | 3:10 | 2023-05-18 | 2023-06-02 |
 | [Jalur Alternatif \(Lofi Version\)](https://open.spotify.com/track/2FjhrSeX5IAx6gPBNB81Tv) | [Manusia Aksara](https://open.spotify.com/artist/4KhMbVClEsKsmlfT5yO8St) | [Jalur Alternatif \(Lofi Version\)](https://open.spotify.com/album/187eTBzydkzXFXsEfu9BXO) | 3:53 | 2023-06-29 | 2023-07-15 |
+| [Jalur Sederhana](https://open.spotify.com/track/51E3gEbBKHzXNKNePh2OxL) | [Fanirahmansyah](https://open.spotify.com/artist/2yfoFECTnaFjyHrHNjJm7x) | [Jalur Sederhana](https://open.spotify.com/album/6nDD5YC6D13gJ1SSalUiJC) | 3:34 | 2024-02-23 |  |
 | [Jangan Ada Kata Pisah](https://open.spotify.com/track/7DaCGEtryNWN3ARuCh8SZp) | [Restu](https://open.spotify.com/artist/2gMmi7vPvdivhlvnNb4dGz) | [Jangan Ada Kata Pisah](https://open.spotify.com/album/2w5nNjHCqLVfb6rboEPKsj) | 4:28 | 2023-01-12 | 2023-01-27 |
 | [Jangan Bertengkar](https://open.spotify.com/track/0DZ7gM61Q6C3MbEv80FvLy) | [Benny Ciko](https://open.spotify.com/artist/1HhDSDNcf9DDfZIlE8hH3L) | [Jangan Bertengkar](https://open.spotify.com/album/7pqH2I9oyVcmW0YHMKclVO) | 4:32 | 2024-02-02 | 2024-02-23 |
 | [Jangan Lagi](https://open.spotify.com/track/2xXhI8FaR54xZxetgfdISQ) | [Nadila](https://open.spotify.com/artist/64cAxir4E6CdENT9Y2u0am) | [Jangan Lagi](https://open.spotify.com/album/1oznmAj4bV6xh0Ujv9AF6k) | 3:47 | 2022-02-03 | 2022-02-18 |
@@ -1926,6 +1928,7 @@
 | [nobodybutu \- Feels Session](https://open.spotify.com/track/7Lh5bVmiG2Dy2XlKH90EFx) | [Moneva](https://open.spotify.com/artist/1wLYFml7YYO2uEcNwAZE0J), [Shoemaker](https://open.spotify.com/artist/51HB3L9TveHiqJkU9dNs6L) | [nobodybutu \(Feels Session\)](https://open.spotify.com/album/5LwYbbbNsTn3m1kwVoIgHt) | 4:32 | 2023-02-16 | 2023-03-03 |
 | [Nokturnal di Udara](https://open.spotify.com/track/0rFlFOsadRJ0pnkBbFON5K) | [Badai Sampai Sore](https://open.spotify.com/artist/2BWcUTRbjQY1lT4DSKFlnZ) | [Nokturnal di Udara](https://open.spotify.com/album/35Nx3J6gpHhROlaqcikje4) | 3:40 | 2022-10-13 | 2022-11-12 |
 | [Nokturnal Di Udara](https://open.spotify.com/track/40P6ZPoaAmYROM4Xjdjwy8) | [Badai Sampai Sore](https://open.spotify.com/artist/2BWcUTRbjQY1lT4DSKFlnZ) | [Nokturnal Di Udara](https://open.spotify.com/album/6c9zwUQI6TSyX3mjH7gIYT) | 3:41 | 2022-11-03 | 2022-12-01 |
+| [Nona](https://open.spotify.com/track/4d1pgeH8997B5NDTcjG1zB) | [Dillan Zamaita](https://open.spotify.com/artist/5z4KkZrLFr5bk4gNJXfqop), [Mentari Novel](https://open.spotify.com/artist/5DsdNBqFCoD43aPV8XhxmQ) | [Nona](https://open.spotify.com/album/01PKLRfTTpKg5RgO5bTLYY) | 2:53 | 2024-02-23 |  |
 | [Nona](https://open.spotify.com/track/2V7OsmgU1cQHf0Py2P3NHl) | [Skandaliken](https://open.spotify.com/artist/4SS8p6k20oc3HDlVf06p0c) | [Nona](https://open.spotify.com/album/5juL4QSEhNwej1WPYNvTmZ) | 3:46 | 2022-01-13 | 2022-01-28 |
 | [NORTH$IDEKINGZ](https://open.spotify.com/track/6ZVaI6eQGEh54rO2w7f9ir) | [Kardo Arghost](https://open.spotify.com/artist/3a1ukwjBc1a3RjPoW4l9lH), [Kid JD](https://open.spotify.com/artist/0Ax8zT8qDMtFidjrEGUYld), [El Six](https://open.spotify.com/artist/0mszflxsQbT6tB6MBWx09D), [Bintang Gemilau](https://open.spotify.com/artist/13bylBwokgQpNNKdgaOZhP), [Diego Xoxa](https://open.spotify.com/artist/2TKPJd286sTK900oy5j19d) | [NORTH$IDEKINGZ](https://open.spotify.com/album/7KCjkBFQq577jfzIBgJ96Y) | 5:05 | 2023-03-16 | 2023-03-31 |
 | [Nostalgia](https://open.spotify.com/track/5CxwGmCp3MbWhRhSmoVphA) | [Hilman Darmawan](https://open.spotify.com/artist/2DcXdxzSfLAbeUGPqYtCLb), [Eky Paratama](https://open.spotify.com/artist/1b05l619XmRpqo7WOYkusy) | [Nostalgia](https://open.spotify.com/album/0F0KVjh9GLYtVh7U8A3uOA) | 3:01 | 2023-05-11 | 2023-05-26 |

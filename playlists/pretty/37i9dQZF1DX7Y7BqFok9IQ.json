@@ -1,13 +1,45 @@
 {
-  "description": "The best of modern blues rock. Cover: Rival Sons",
-  "num_followers": 195865,
+  "description": "The best of modern blues rock. Cover: JJ Grey",
+  "num_followers": 195902,
   "original_name": "Modern Blues Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YjBlZmYxYWU4NDBlNjMzYjU5YTU2MjliNmRiMTE3YmQ3YTdhN2Iz",
+  "snapshot_id": "MCw5MDNlOWFlNjUwYzcwMTA1NWE4OTJhNjNiMDdlNDIyOWQxODU0NDFk",
   "tracks": [
+    {
+      "added_at": "2024-02-23 05:01:00",
+      "album": {
+        "name": "Olustee",
+        "url": "https://open.spotify.com/album/1TK4IGwafhUenf6NTJsVPH"
+      },
+      "artists": [
+        {
+          "name": "JJ Grey & Mofro",
+          "url": "https://open.spotify.com/artist/1Jl8u1U1GtBlwocZK5LWZv"
+        }
+      ],
+      "duration_ms": 309546,
+      "name": "Olustee",
+      "url": "https://open.spotify.com/track/6VjD0MJwrKQjaJesWAy6hd"
+    },
+    {
+      "added_at": "2024-02-23 05:01:00",
+      "album": {
+        "name": "The Wolves Are Coming",
+        "url": "https://open.spotify.com/album/2juRTUdOZBV0g3Oi5uSJkK"
+      },
+      "artists": [
+        {
+          "name": "Philip Sayce",
+          "url": "https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h"
+        }
+      ],
+      "duration_ms": 160815,
+      "name": "Black Moon",
+      "url": "https://open.spotify.com/track/13F76PKJYIWbG986buVo66"
+    },
     {
       "added_at": "2024-02-02 05:01:00",
       "album": {
@@ -39,22 +71,6 @@
       "duration_ms": 304360,
       "name": "With You I Go",
       "url": "https://open.spotify.com/track/7AcxvtAFKqcXeWbr7UVbvU"
-    },
-    {
-      "added_at": "2024-01-12 05:01:00",
-      "album": {
-        "name": "Backstabber",
-        "url": "https://open.spotify.com/album/4F7MDZ9vZyu91UNsp5HxgZ"
-      },
-      "artists": [
-        {
-          "name": "Philip Sayce",
-          "url": "https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h"
-        }
-      ],
-      "duration_ms": 234478,
-      "name": "Backstabber",
-      "url": "https://open.spotify.com/track/6fvRlIuF0E1C05vILdR9oC"
     },
     {
       "added_at": "2024-01-12 05:01:00",
@@ -1771,22 +1787,6 @@
       "duration_ms": 204400,
       "name": "Nothing Left To Lose",
       "url": "https://open.spotify.com/track/20jcu0GEUol1uArAwIZDvX"
-    },
-    {
-      "added_at": "2020-10-16 04:02:00",
-      "album": {
-        "name": "Choke Cherry Tree",
-        "url": "https://open.spotify.com/album/2H6mfUMvRacDoPtgbcbqkR"
-      },
-      "artists": [
-        {
-          "name": "Ben Miller Band",
-          "url": "https://open.spotify.com/artist/692LYMl7s0bV6X3iduX5rG"
-        }
-      ],
-      "duration_ms": 204906,
-      "name": "One More Time",
-      "url": "https://open.spotify.com/track/4xJ65J4IJYtxV7A9Uz9BX4"
     },
     {
       "added_at": "2022-04-29 04:02:00",

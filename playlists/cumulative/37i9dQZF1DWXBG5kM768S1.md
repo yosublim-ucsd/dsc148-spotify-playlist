@@ -4,7 +4,7 @@
 
 > Fantastiske viser fra noen av våre aller beste artister.
 
-233 songs - 14 hr 58 min
+234 songs - 15 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Evig Eies \(Kun Et Dårlig Rykte\)](https://open.spotify.com/track/6SlE2MU3PsOO7NrPIIFRHm) | [Henning Kvitnes](https://open.spotify.com/artist/2OCfkmVQCpJdqe4GfhXpF6) | [Evig Eies \(Kun Et Dårlig Rykte\)](https://open.spotify.com/album/3dZvVLGKN6rDgnZGnbNVyW) | 4:13 | 2021-12-16 | 2022-07-29 |
 | [Evig kvile](https://open.spotify.com/track/10mUGsqnNGEUf1pt4ke1pB) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Evig kvile](https://open.spotify.com/album/3FXRGtIbIadCBWasFSyOaq) | 3:09 | 2023-01-02 |  |
 | [Falle til ro \(From the Original Netflix Series "Home For Christmas"\)](https://open.spotify.com/track/6oJLgaS6Py1tSKAJTKSe5K) | [Eva Weel Skram](https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3) | [Falle til ro \(From the Original Netflix Series "Home For Christmas"\)](https://open.spotify.com/album/6lsJTzNFipM2N8zNf9lXmP) | 4:26 | 2021-12-16 |  |
+| [Far](https://open.spotify.com/track/6MsgqzG4ZGc0Lugfwuze0s) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz) | [Far](https://open.spotify.com/album/5XekrSBdi4Qpz3WkwqUZDa) | 3:14 | 2024-02-15 |  |
 | [Fingeravtrykk](https://open.spotify.com/track/7176c184pups4Q02ZPhTAl) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Fingeravtrykk](https://open.spotify.com/album/4LQ9X3yVtTvsR7zx0GyRyW) | 7:01 | 2022-07-14 | 2022-10-03 |
 | [Finn Veien Engel \- New version](https://open.spotify.com/track/57okbLO40Q3aH4SgcAfmSS) | [Kari Bremnes](https://open.spotify.com/artist/1vHopQ5qWJVDXXPc2VxjUd) | [Finn Veien Engel \(New Version\)](https://open.spotify.com/album/7wcbrQi9tIPwNN5R9g87vE) | 3:04 | 2021-12-16 | 2022-07-28 |
 | [For vår jord](https://open.spotify.com/track/1J6GFv4CtXFuG0Ip7e0OZt) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [For vår jord](https://open.spotify.com/album/7asbXo2omni85X3WgOMbIO) | 2:36 | 2023-02-02 | 2023-08-28 |
@@ -136,7 +137,7 @@
 | [Julinetter](https://open.spotify.com/track/3i6Rpq73XBlzSwFtltygLm) | [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv) | [Julinetter](https://open.spotify.com/album/3TnJRJMmG55xg5iuTzS4sZ) | 5:39 | 2021-12-16 | 2022-07-29 |
 | [Jupiter](https://open.spotify.com/track/4o76TSM5Oks01fAwgBBSG4) | [Ingrid Olava](https://open.spotify.com/artist/31QXbjGMTpXUWhhAFtIkmQ) | [Jupiter](https://open.spotify.com/album/3InLXFrUYYE9mAQEdUPXRe) | 4:39 | 2022-03-23 | 2022-04-21 |
 | [Ka Du Håpa På](https://open.spotify.com/track/21lhhyD37K61NGo36a6QKX) | [Inge Bremnes](https://open.spotify.com/artist/4lgiQEUzN7K9IsXDXpHkVB) | [Ka Du Håpa På](https://open.spotify.com/album/70x1xmznD1DRiH3ArPVEI9) | 3:29 | 2022-01-06 | 2022-06-18 |
-| [Ka e du redd for](https://open.spotify.com/track/0MIahGJxmpFDfjdTJGFqDs) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz), [Sigvart Dagsland](https://open.spotify.com/artist/29L5k8hE8bAaRJpj13SmyA), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Siste sang](https://open.spotify.com/album/1sAGxcIDIvcWVfHgq2UD6S) | 4:04 | 2024-01-18 |  |
+| [Ka e du redd for](https://open.spotify.com/track/0MIahGJxmpFDfjdTJGFqDs) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz), [Sigvart Dagsland](https://open.spotify.com/artist/29L5k8hE8bAaRJpj13SmyA), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Siste sang](https://open.spotify.com/album/1sAGxcIDIvcWVfHgq2UD6S) | 4:04 | 2024-01-18 | 2024-02-24 |
 | [Ka e du redd for](https://open.spotify.com/track/2MAqhN1nrRbg1JnCLYfELW) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz), [Sigvart Dagsland](https://open.spotify.com/artist/29L5k8hE8bAaRJpj13SmyA), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Ka e du redd for](https://open.spotify.com/album/5rmJQdmrA9PL6w6JHwiAfB) | 4:04 | 2023-02-02 | 2023-11-21 |
 | [Ka e du redd for](https://open.spotify.com/track/4QkGXxYBifaayHWGkQyLPp) | [Sigvart Dagsland](https://open.spotify.com/artist/29L5k8hE8bAaRJpj13SmyA), [Karoline Krüger](https://open.spotify.com/artist/2Y2lJvGNGi4b2Bnikx4Onm) | [Underlig Frihet](https://open.spotify.com/album/78WsjmRDxs2VAEapfy6zxx) | 4:25 | 2021-12-16 |  |
 | [Kamilla Og Tyven](https://open.spotify.com/track/5S3iampR4PvPov7fvN2Mt7) | [Morten Harket](https://open.spotify.com/artist/08t5VdmH6cpxHXUmb9bFeP) | [Kamilla Og Tyven](https://open.spotify.com/album/31yk847bN0MUuhwNQbfsNC) | 3:34 | 2021-12-16 |  |
@@ -237,8 +238,8 @@
 | [Vise i mai](https://open.spotify.com/track/3U8IQozhvijdKg7JBFXqCm) | [Helene Bøksle](https://open.spotify.com/artist/78gOgvMoKp4Zz3gnnEyLYT) | [Morild](https://open.spotify.com/album/1h9JILdyYsamDDHVbehYfG) | 3:12 | 2022-01-27 | 2022-06-06 |
 | [Vit at det går øve](https://open.spotify.com/track/3eCQqf58kxhCSvTr3XCZFC) | [Sigvart Dagsland](https://open.spotify.com/artist/29L5k8hE8bAaRJpj13SmyA) | [Vit at det går øve](https://open.spotify.com/album/4WvZPJICxM0vvhjvMvbZBf) | 3:14 | 2021-12-16 | 2022-07-29 |
 | [Vuggesang](https://open.spotify.com/track/44mUxIp2hjL0gQBVM5gx5a) | [Steinar Albrigtsen](https://open.spotify.com/artist/2qRjrCuBQJqlU8Nwb92kao) | [Vuggesang](https://open.spotify.com/album/6lOe5E94s5NIpzkgwF1Tnf) | 3:18 | 2021-12-16 | 2022-07-01 |
-| [Vår Beste Dag](https://open.spotify.com/track/4EtXjwdVdnv4v2glKQBloT) | [Erik Bye](https://open.spotify.com/artist/1qqBCY3Scz9Ea1mjkCDgaZ) | [Støv Og Stjerner](https://open.spotify.com/album/0NpGhivBGHLf1nnoLSCZ1X) | 3:01 | 2021-12-16 |  |
-| [Vår beste dag](https://open.spotify.com/track/2RssYUkYzmEtvxmUX0C19A) | [Marit Larsen](https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg) | [Vår beste dag](https://open.spotify.com/album/72dAuYKSanaCXmsLzS7eUN) | 3:22 | 2021-12-16 | 2023-12-03 |
+| [Vår Beste Dag](https://open.spotify.com/track/4EtXjwdVdnv4v2glKQBloT) | [Erik Bye](https://open.spotify.com/artist/1qqBCY3Scz9Ea1mjkCDgaZ) | [Støv Og Stjerner](https://open.spotify.com/album/0NpGhivBGHLf1nnoLSCZ1X) | 3:01 | 2021-12-16 | 2024-02-24 |
+| [Vår beste dag](https://open.spotify.com/track/2RssYUkYzmEtvxmUX0C19A) | [Marit Larsen](https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg) | [Vår beste dag](https://open.spotify.com/album/72dAuYKSanaCXmsLzS7eUN) | 3:22 | 2021-12-16 |  |
 | [Vårløysing](https://open.spotify.com/track/3NLVaTDstdmhc6rcE81flT) | [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv) | [Vårløysing](https://open.spotify.com/album/6hl5r09iun87zAk0fuvHxb) | 3:20 | 2022-04-28 | 2022-07-22 |
 | [Å Kunne Æ Skrive](https://open.spotify.com/track/3Q5UYAQJ4l3crdc3YjnqbK) | [Kari Bremnes](https://open.spotify.com/artist/1vHopQ5qWJVDXXPc2VxjUd), [Ola Bremnes](https://open.spotify.com/artist/2YUcEURAjhrNV7wxBBfq7E), [Lars Bremnes](https://open.spotify.com/artist/1L7U4qOZlB5M0GaAICnxc4) | [Soløye](https://open.spotify.com/album/5G5WRvcAMhNFEEBa57INLW) | 3:23 | 2021-12-16 |  |
 

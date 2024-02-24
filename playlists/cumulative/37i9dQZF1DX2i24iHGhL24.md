@@ -4,7 +4,7 @@
 
 > Reimagined pop covers of your favorite songs\.  Cover: Ed Sheeran
 
-418 songs - 23 hr 58 min
+419 songs - 1 day 0 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Boom Clap](https://open.spotify.com/track/3j0oJtPonSYt9f5jHVLb91) | [Lennon & Maisy](https://open.spotify.com/artist/720fJ5sGqAOhvU2IUypqIr) | [Boom Clap](https://open.spotify.com/album/2R7c2w7VihO8ouuNAjjOKj) | 2:55 | 2021-12-17 | 2022-12-30 |
 | [Both Sides Now](https://open.spotify.com/track/0guXAYPSEiOgyYf4AUjrDa) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [Both Sides Now](https://open.spotify.com/album/05Ye3Or5i0I36wM13lEzyt) | 4:44 | 2021-12-17 | 2023-10-17 |
 | [Boyfriends](https://open.spotify.com/track/7jZTyWuQaTMpjO5SjF3RtS) | [Wilson Phillips](https://open.spotify.com/artist/1yMYjh77WgOVafRkI50mim) | [Boyfriends](https://open.spotify.com/album/0M2bXUTiOZYYcFJNDEbDWh) | 2:54 | 2022-12-02 | 2023-10-17 |
+| [Bridge Over Troubled Water \(feat\. John Legend & Tori Kelly\)](https://open.spotify.com/track/4FG5dNlurEtZ84kCTg5YLA) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Bridge Over Troubled Water \(feat\. John Legend & Tori Kelly\)](https://open.spotify.com/album/1Zo8V5bfUxTiLPQRO99FK5) | 5:52 | 2024-02-23 |  |
 | [By Your Side](https://open.spotify.com/track/2DWteQehd27R6qkJdHFggd) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [LEGEND \(Solo Piano Version\)](https://open.spotify.com/album/5WgC0rNbr8aC5vEqL9U8Zo) | 4:38 | 2023-02-17 |  |
 | [Bye Bye Bye \- From the Original Motion Picture "Red Rocket"](https://open.spotify.com/track/44ZhV7lxFuEdQaGEW31T8I) | [Suzanna Son](https://open.spotify.com/artist/0KVIja3XDIh9zXkKO2FI2A) | [Bye Bye Bye \(From the Original Motion Picture "Red Rocket"\)](https://open.spotify.com/album/65K0DheoPi4EpcvGEY6Zrd) | 2:07 | 2021-12-24 | 2023-10-17 |
 | [California](https://open.spotify.com/track/0x7dQOmBLZYkmlfl2rRLPP) | [Lisa Mitchell](https://open.spotify.com/artist/53f2OKMfVLTsHFkGyA5dnz) | [California](https://open.spotify.com/album/2EaRR124i84vMnjDK12XoI) | 2:47 | 2022-07-08 | 2023-10-17 |
@@ -326,7 +327,7 @@
 | [Soak up the Sun \- Unplugged](https://open.spotify.com/track/19EQenvo8RhidHzEbblHT1) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Judah & The Lion \(Unplugged\)](https://open.spotify.com/album/5wyJZFkxAJEshBtXnsUZi7) | 4:11 | 2022-09-23 | 2022-12-30 |
 | [Soak Up The Sun \- Unplugged](https://open.spotify.com/track/7xfz6i5AvB1GwccEcIrb7k) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Judah & the Lion \(Unplugged\)](https://open.spotify.com/album/0ftg0MdGcyRwB8Zzt624BS) | 4:11 | 2021-12-17 | 2022-10-16 |
 | [Solar Power \- Spotify Singles](https://open.spotify.com/track/2JrkrX1MMmqpwfve5El6Re) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Spotify Singles](https://open.spotify.com/album/4HpaTUThM0f9DhH7XJRXzZ) | 2:53 | 2022-04-01 | 2022-05-02 |
-| [Solar Power \- Spotify Singles](https://open.spotify.com/track/05hodCU2ySd17l2NrkkELB) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Spotify Singles](https://open.spotify.com/album/2o41TN6KOgLy4RI716wWpB) | 2:29 | 2021-12-17 |  |
+| [Solar Power \- Spotify Singles](https://open.spotify.com/track/05hodCU2ySd17l2NrkkELB) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Spotify Singles](https://open.spotify.com/album/2o41TN6KOgLy4RI716wWpB) | 2:29 | 2021-12-17 | 2024-02-24 |
 | [Someone to You](https://open.spotify.com/track/53km2jWeL1CUj6K0hiPuxq) | [Roses & Revolutions](https://open.spotify.com/artist/1EQiPk32D03HxHmExyCg9l) | [Someone to You](https://open.spotify.com/album/25HPaXZNYdKhMlKa52j4Cd) | 3:49 | 2021-12-17 | 2022-05-02 |
 | [Someone You Loved](https://open.spotify.com/track/0VF4TY3HJBHRmaKSY1bxpF) | [Lain Roy](https://open.spotify.com/artist/76Xhl3MVWLX8m6XtWkdbfI) | [Someone You Loved](https://open.spotify.com/album/25GWC11DEuw5a6ADXWUrbi) | 3:03 | 2021-12-17 | 2022-12-30 |
 | [Someone You Loved](https://open.spotify.com/track/0voD3AU9IVGAyCXeV8GeSz) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Someone You Loved](https://open.spotify.com/album/2e5jps2AoZA1q89RCCocHR) | 2:59 | 2021-12-17 | 2022-04-29 |

@@ -1,13 +1,45 @@
 {
-  "description": "Featuring that new vintage. Cover: Norah Jones",
-  "num_followers": 413659,
+  "description": "Featuring that new vintage. Cover: Emmy Meli",
+  "num_followers": 413683,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZDFmYTVmNTNiMTEwNTkwMjk4ZmY5YmYzYjJjZjUxMGJhM2RiMzc0",
+  "snapshot_id": "MCw1NmI2MmQzY2ZlNGU5OTM4MGUwNjE5YTBmZjk2MzJlOTA4ZmQ3YzZh",
   "tracks": [
+    {
+      "added_at": "2024-02-23 05:01:00",
+      "album": {
+        "name": "Breakthrough",
+        "url": "https://open.spotify.com/album/0ZQ9F867lpLrMArteZet0J"
+      },
+      "artists": [
+        {
+          "name": "Emmy Meli",
+          "url": "https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k"
+        }
+      ],
+      "duration_ms": 156850,
+      "name": "Breakthrough",
+      "url": "https://open.spotify.com/track/3CbTqAhSMl1p41PEx9Tc4E"
+    },
+    {
+      "added_at": "2024-02-23 05:01:00",
+      "album": {
+        "name": "Staring at the Wall",
+        "url": "https://open.spotify.com/album/5tknEZvydcc1zkg5CWOcym"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 271257,
+      "name": "Staring at the Wall",
+      "url": "https://open.spotify.com/track/1vaE2g2ECAPiSDve8ApSGm"
+    },
     {
       "added_at": "2024-02-16 05:01:00",
       "album": {
@@ -39,6 +71,22 @@
       "duration_ms": 187324,
       "name": "Sweet Tooth",
       "url": "https://open.spotify.com/track/2q3WnVVXT4xh4GA4O7cHF3"
+    },
+    {
+      "added_at": "2024-02-23 05:01:00",
+      "album": {
+        "name": "Lane Brothers",
+        "url": "https://open.spotify.com/album/7tjQsjnKGHN9g84C0xrwZ9"
+      },
+      "artists": [
+        {
+          "name": "Lane Brothers",
+          "url": "https://open.spotify.com/artist/5SzuidUf9uEZLC6E62BszN"
+        }
+      ],
+      "duration_ms": 205438,
+      "name": "Infinite Love",
+      "url": "https://open.spotify.com/track/4vbhm12kpJwFP9frdIlD1u"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -75,22 +123,6 @@
       "duration_ms": 191666,
       "name": "Going Down",
       "url": "https://open.spotify.com/track/5sSTJF2a8Ew2wxIW1mCBG5"
-    },
-    {
-      "added_at": "2024-01-19 05:01:00",
-      "album": {
-        "name": "Running",
-        "url": "https://open.spotify.com/album/3O5wnk4n2Zxw7DxkJdldi7"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 208517,
-      "name": "Running",
-      "url": "https://open.spotify.com/track/1TX83ZAjBcPPch8iy0aNve"
     },
     {
       "added_at": "2024-02-16 05:01:00",
@@ -1331,26 +1363,6 @@
       "duration_ms": 187460,
       "name": "Dark Thoughts About A Pretty Flower",
       "url": "https://open.spotify.com/track/3Xeu9u21qYeI0vlqzdHLSV"
-    },
-    {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "Sacred Place",
-        "url": "https://open.spotify.com/album/4BlDropl0rs0ZyGOLdb9pc"
-      },
-      "artists": [
-        {
-          "name": "Jonah Kest",
-          "url": "https://open.spotify.com/artist/7fRYOt13ebct7IUSm36irk"
-        },
-        {
-          "name": "Satsang",
-          "url": "https://open.spotify.com/artist/5q73QGeZGnA3ChVIPxIvyc"
-        }
-      ],
-      "duration_ms": 166363,
-      "name": "Sacred Place",
-      "url": "https://open.spotify.com/track/0Sjjh3xJUGdXqM4jXHUDal"
     },
     {
       "added_at": "2022-10-14 04:01:00",

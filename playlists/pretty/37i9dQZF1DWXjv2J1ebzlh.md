@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,220 likes - 1,191 songs - 3 day 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,231 likes - 1,191 songs - 3 day 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1029,7 +1029,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1019 | [Truth and Rights](https://open.spotify.com/track/6GlqJG2mnJIL9dhVHku4JV) | [Johnny Osbourne](https://open.spotify.com/artist/5TUTGRG0FlRoYTZ4GEdOVO) | [Studio One Rockers](https://open.spotify.com/album/10x1NblWRhzz5QgZ2kth5X) | 3:01 |
 | 1020 | [Bang! Bang!](https://open.spotify.com/track/0gbeHMR4ESdykYOwWQ3PBw) | [Joe Cuba Sextet](https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj) | [Wanted Dead Or Alive \(Bang Bang Push Push Push\)](https://open.spotify.com/album/4W0zbRYPZqZgxzjQDVA63H) | 4:06 |
 | 1021 | [Cantemos](https://open.spotify.com/track/3RAT32M6FzXAk4MmnKtp9B) | [Los Yetis](https://open.spotify.com/artist/7vIO2LfB0BhbA8ltndHpFA) | [Nadaísmo a Go\-Go](https://open.spotify.com/album/7FOps2N0OEG8TWtSHH1JbI) | 1:46 |
-| 1022 | [El Despertar](https://open.spotify.com/track/7cg3eUDMETxFBlxI65FJaH) | [El Dragón Criollo](https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G), [El Palmas](https://open.spotify.com/artist/607tUX31sF7QoJVbCx3r6Y), [Los Darts](https://open.spotify.com/artist/2e57Rvt0jZWYdbJJZgXScn) | [Color de Trópico \(Compiled By El Dragón Criollo y El Palmas\)](https://open.spotify.com/album/0x29QRFTQuq7LvSwfEDHcz) | 4:28 |
+| 1022 | [El Despertar](https://open.spotify.com/track/12WZSb1mmMQa8kFy2ZfyLK) | [El Dragón Criollo](https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G), [El Palmas](https://open.spotify.com/artist/607tUX31sF7QoJVbCx3r6Y), [Los Darts](https://open.spotify.com/artist/2e57Rvt0jZWYdbJJZgXScn) | [Color de Trópico \(Compiled By El Dragón Criollo & El Palmas\)](https://open.spotify.com/album/6j4ID9fk5IfuVWPloOiG9h) | 4:28 |
 | 1023 | [Piel Canela](https://open.spotify.com/track/5NYQS0JkqRRfhlliy0P3Dv) | [Eydie Gormé](https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z), [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Canta En Español Con Los Panchos](https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w) | 2:17 |
 | 1024 | [Chorou, Chorou](https://open.spotify.com/track/2anRLubLcp5PZoIGP0VHf9) | [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi) | [Quem É Quem](https://open.spotify.com/album/6GEO5pSp3ojwIm9vZqTtRd) | 2:40 |
 | 1025 | [Tamanco No Samba](https://open.spotify.com/track/6VxFiOtjHLDiXpLMZD7vc6) | [Orlandivo](https://open.spotify.com/artist/2vFK2xckKvQQfitvHxRvk0) | [Orlandivo](https://open.spotify.com/album/44dMqEMPnQsjirLsPHaNeq) | 3:36 |
@@ -1086,7 +1086,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1076 | [Faça Como Eu](https://open.spotify.com/track/2Aiu78NQYGcgrQW5Nesrmw) | [Miltinho](https://open.spotify.com/artist/2aRdU5K1LA2G4BCzSbMcDp) | [Bossa & Balanço](https://open.spotify.com/album/4O5QyxoDIAgLa2fgOGovhu) | 2:29 |
 | 1077 | [Da Garrafa Uma Pinga](https://open.spotify.com/track/1Mx1dnpKsecZqpkv2uzsKp) | [Verequete & Grupo Uirapuru](https://open.spotify.com/artist/443ze6k50blSLjebUWckw4) | [Jambú e Os Míticos Sons Da Amazônia \(Analog Africa No\. 28\)](https://open.spotify.com/album/4ErWK0ZDfBPCJLCY9pby9h) | 3:13 |
 | 1078 | [Se Na Min](https://open.spotify.com/track/2SMZzlrIkw17qPvvF3P0JJ) | [El Rego](https://open.spotify.com/artist/01621nzFzHPae66HU5dTRT) | [African Scream Contest: Raw & Psychedelic Afro Sounds From Benin & Togo '70s \(Analog Africa No\. 3\)](https://open.spotify.com/album/4iXpJxsgrcCM4m1getyjiX) | 3:21 |
-| 1079 | [Zambo](https://open.spotify.com/track/1Lqd4PwsnCdqWM2sPUNNj5) | [El Dragón Criollo](https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G), [El Palmas](https://open.spotify.com/artist/607tUX31sF7QoJVbCx3r6Y), [La Retreta Mayor](https://open.spotify.com/artist/1BXE8Bsv9QWu1vrgyocOTF) | [Color de Trópico \(Compiled By El Dragón Criollo y El Palmas\)](https://open.spotify.com/album/0x29QRFTQuq7LvSwfEDHcz) | 2:42 |
+| 1079 | [Zambo](https://open.spotify.com/track/7xj9jqQKgZQyqLgDRHsqvl) | [El Dragón Criollo](https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G), [El Palmas](https://open.spotify.com/artist/607tUX31sF7QoJVbCx3r6Y), [La Retreta Mayor](https://open.spotify.com/artist/1BXE8Bsv9QWu1vrgyocOTF) | [Color de Trópico \(Compiled By El Dragón Criollo & El Palmas\)](https://open.spotify.com/album/6j4ID9fk5IfuVWPloOiG9h) | 2:42 |
 | 1080 | [Calabar\-O \- Remastered](https://open.spotify.com/track/1YXYwW9Ammzrh3WZTbbAEI) | [West African Rhythm Brothers](https://open.spotify.com/artist/6eHx0IIRZoz1ja4upKwXNj) | [Calabar\-O / Emi Wa Wa Lowo Re](https://open.spotify.com/album/6fz6vgXZxTnXAOi5CtT8zR) | 2:55 |
 | 1081 | [Ahora Sé Que Me Quieres](https://open.spotify.com/track/7plFvy4S8BmnrtqQ6jlMfI) | [Formula V](https://open.spotify.com/artist/71Hp04UVv3eXJAn3BGsKJe) | [Todo Formula V](https://open.spotify.com/album/1IBMqAfVnnwW66n9Z5xA0y) | 2:38 |
 | 1082 | [Patria Querida](https://open.spotify.com/track/6hGfBBs2yvBcMbfTMsARGx) | [Los Guaracheros De Oriente](https://open.spotify.com/artist/0BzFtDQ64uQV9fjIu1XVom) | [Linda Guajira](https://open.spotify.com/album/4vF1RjBN15TIuUJqibuU80) | 3:09 |
@@ -1191,7 +1191,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1181 | [Crying Time](https://open.spotify.com/track/6Jp7navCluJ6vWlw7xiLST) | [Monguito Santamaria](https://open.spotify.com/artist/4F7OD66JSrIoPu0f0vJnBT) | [Blackout](https://open.spotify.com/album/6koDrvFY9DRuVhbZgq79LV) | 2:52 |
 | 1182 | [Girls of Iskandariah](https://open.spotify.com/track/6qjTzuLeVrXNusAt2KZBsC) | [Ihsan Al Munzer](https://open.spotify.com/artist/1tWWAIfn3YM1b952Uk0kCh) | [Belly Dance Disco](https://open.spotify.com/album/0Do7K9YnjkUIRLIVqXMmYA) | 2:36 |
 | 1183 | [Lluvia](https://open.spotify.com/track/2lnV7FeCi3UtS4pxVtZwQc) | [Sonora Tropical](https://open.spotify.com/artist/0OiG1SFAU2Upx6AcMh3Dnf) | [Tequila](https://open.spotify.com/album/6Hmy47Z7QAHf1JELfUe4yF) | 2:27 |
-| 1184 | [Baila Flaquita Baila](https://open.spotify.com/track/3x6BU8acfrXEugxBaVrzjx) | [Los Ecos](https://open.spotify.com/artist/3HFLs2Kw7HWE3UZUtLzIeS) | [Cumbia Beat Volume 2](https://open.spotify.com/album/4UIuJQ36OT1uT7SUDwc7II) | 3:06 |
+| 1184 | [Baila Flaquita Baila](https://open.spotify.com/track/2EoRUusNgGxdlbh6VZFhVZ) | [Los Ecos](https://open.spotify.com/artist/3HFLs2Kw7HWE3UZUtLzIeS) | [Cumbia Beat, Vol\. 2](https://open.spotify.com/album/6EazZKjqIG491OpVKCgCbG) | 3:06 |
 | 1185 | [Artasu Nartasu](https://open.spotify.com/track/0XJytLWrCZ8z8dFEpewihC) | [Ali Hassan Kuban](https://open.spotify.com/artist/4dVQ9H8M0hxoRqAsnCGnMm) | [Walk like a Nubian](https://open.spotify.com/album/3ALfXPb23DQsEPoQL66vSO) | 5:43 |
 | 1186 | [El Diablo](https://open.spotify.com/track/5JXTjnYJd1STK0BWh3FIBS) | [Compay Quinto](https://open.spotify.com/artist/3ZjBjzEP0zWUcwUOsyKAoQ) | [El Diablo](https://open.spotify.com/album/5Z4w9G3XAfA3zw0LOq7SEY) | 2:47 |
 | 1187 | [Curious Story](https://open.spotify.com/track/6AWUPF6tmhik3ik3cxxGFN) | [Ry\-Co Jazz](https://open.spotify.com/artist/3umj1fcfDdwdTiv6YvAsO9) | [Dansons Avec …](https://open.spotify.com/album/0pWNqj6Q955BdihM13ita3) | 3:23 |
@@ -1200,4 +1200,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1190 | [Ponta De Lança Africano](https://open.spotify.com/track/3LcGqv91NIBQaUmnNbsKu8) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 3:52 |
 | 1191 | [La burrita mocha](https://open.spotify.com/track/5ZUDABVqjta6rM9CaWw3w9) | [Esther Forero](https://open.spotify.com/artist/5MzgBKlIxqLzznQoRyfvKq) | [La burrita mocha](https://open.spotify.com/album/1aCtz9EtWc1OXFeG8Io9kv) | 2:44 |
 
-Snapshot ID: `MCw2OWM0ZGY5MGYzMWEwNDFhZmQzZDAzZDVjZjFlNDIwMTcwY2Q3NzQz`
+Snapshot ID: `MCw3OGJlM2JlZTU0MjUzNjVlMzI1ZDg4YzFmNTZiM2Q3MzU1YTU4MzU1`

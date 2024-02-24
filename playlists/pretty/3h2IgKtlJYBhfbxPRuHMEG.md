@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3h2IgKtlJYBhfbxPRuHMEG.md) - [plain]
 
 > The best EDM, Trap, Electronic, Drum&amp;Bass\. Cover: Nia Archives
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 486 likes - 100 songs - 5 hr 39 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 486 likes - 102 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,5 +108,7 @@ pretty - [cumulative](/playlists/cumulative/3h2IgKtlJYBhfbxPRuHMEG.md) - [plain]
 | 98 | [Dirty Talk](https://open.spotify.com/track/1b4WGUgsfdiJYStI6W1mo4) | [LOthief](https://open.spotify.com/artist/3thMwq9J3a0UeLnPGhA4Qn) | [Dirty Talk](https://open.spotify.com/album/4OQBeRy1QK8N9HdVI657lm) | 2:55 |
 | 99 | [SABER TOOTH](https://open.spotify.com/track/4bKqAcgrla5I0xYiAuYSBC) | [TIGER DROOL](https://open.spotify.com/artist/0rSRhW3EmJTsqAM3hTefwA), [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [Vincent](https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB) | [SABER TOOTH](https://open.spotify.com/album/6vFjfQyWHawj5cplov6tR9) | 2:45 |
 | 100 | [i think you're cool](https://open.spotify.com/track/6tkHWTety7Wd4Fv4oyGAcz) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Jenna Pemkowski](https://open.spotify.com/artist/29eVvwQJ6dwSiykc8RtlpG) | [Catching Z's](https://open.spotify.com/album/2Tkn1vJF1Fb5fdw2pm4Fz1) | 3:33 |
+| 101 | [Smoak & Sip](https://open.spotify.com/track/48abYOiPEloRHZ4XsMmVDA) | [Smoakland](https://open.spotify.com/artist/6409kgOB4tZEkNZci6BiUs), [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S), [ProbCause](https://open.spotify.com/artist/1ZcfGrGrm9aHnUNVQz3sCY) | [Smoak & Sip](https://open.spotify.com/album/7wc12zgtkHjbtZ7EoFgQrb) | 3:42 |
+| 102 | [Rollin' Deep](https://open.spotify.com/track/192PapqBQXyC0vuiWc80Bb) | [EAZYBAKED](https://open.spotify.com/artist/1ZbT8FIqEc0cktnu6mNlvv) | [Rollin' Deep](https://open.spotify.com/album/61oj3yPyofMulvi48JQLZL) | 4:30 |
 
-Snapshot ID: `ODg2LGQ5YzMxY2M5NTYwMjUzZmM0MGZlZDBjYThiNTUzNzE0Y2VmMmI3Y2M=`
+Snapshot ID: `ODg4LGQ0NDM1ZGE4OGY2NDYxNzE4ZDVkY2UyMjRmN2M1NDA5YTU1MWE1N2M=`

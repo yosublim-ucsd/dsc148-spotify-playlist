@@ -4,7 +4,7 @@
 
 > We hear you.
 
-649 songs - 1 day 8 hr 11 min
+650 songs - 1 day 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,7 +300,7 @@
 | [idtwcbf \(friends\)](https://open.spotify.com/track/4FAdGJxiagKwaF2d8ER1dn) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Antisocial](https://open.spotify.com/album/5AYFv9iMMbwWAR5APhNHrp) | 2:31 | 2023-02-24 | 2023-05-06 |
 | [if all the people \. \. .](https://open.spotify.com/track/6vsEeepIYXoNMC7ROPfXoR) | [aesthetic boi](https://open.spotify.com/artist/1W4VMesdXuX2yKVXHeHcLN), [hiraeth.](https://open.spotify.com/artist/5oLTLuHsqyA78zxL9l3Udp) | [if all the people \. \. .](https://open.spotify.com/album/5x20UTRfdLYCL6hsZL3C9X) | 2:33 | 2021-10-26 | 2022-06-09 |
 | [If I Really Love You](https://open.spotify.com/track/3l3lUyNu5zh6H6uByc5Xnr) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [If I Really Love You](https://open.spotify.com/album/0xl7rnqJd8DHmZqZLrgx3u) | 3:14 | 2021-04-02 |  |
-| [If I Showed You](https://open.spotify.com/track/3orIMfSneqeHamYzH5xSjz) | [Henry Verus](https://open.spotify.com/artist/6H79VfD8FjtzQHYdVwZ3I4) | [If I Showed You](https://open.spotify.com/album/4qEq6hmy1zANkNRAEuRRku) | 3:15 | 2023-04-28 |  |
+| [If I Showed You](https://open.spotify.com/track/3orIMfSneqeHamYzH5xSjz) | [Henry Verus](https://open.spotify.com/artist/6H79VfD8FjtzQHYdVwZ3I4) | [If I Showed You](https://open.spotify.com/album/4qEq6hmy1zANkNRAEuRRku) | 3:15 | 2023-04-28 | 2024-02-24 |
 | [If You Leave](https://open.spotify.com/track/6vOasXD4uE6zEPgcXD86Tq) | [Sky McCreery](https://open.spotify.com/artist/1LvKB5b2uYh3adUcl1pRPh) | [If You Leave](https://open.spotify.com/album/0rgdSm4zbzgZEBKXja4xJp) | 2:40 | 2021-04-02 | 2022-07-19 |
 | [im used to it](https://open.spotify.com/track/5PqreNOgHtz0JusSoeitaF) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [im used to it](https://open.spotify.com/album/5hzOPYGJBGqIQ5oluCeT5y) | 2:55 | 2021-04-02 | 2022-04-20 |
 | [in love](https://open.spotify.com/track/0jcDwzxkfzdRHLiVHiRQII) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [in love](https://open.spotify.com/album/09GS5ONXA0R6l8oPCTsyzl) | 2:32 | 2021-08-27 | 2022-07-23 |
@@ -557,6 +557,7 @@
 | [the bottom of the well](https://open.spotify.com/track/0RCVrU017Shdm5o99R0USi) | [amy michelle](https://open.spotify.com/artist/3aHbuUBU52Ht7xdrCH4moR) | [the bottom of the well](https://open.spotify.com/album/5JSEwklzjrjyjl44IsbhHy) | 4:15 | 2022-01-25 | 2022-07-29 |
 | [the dog](https://open.spotify.com/track/0KtSVKfc0uDd7b0dpjIqer) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [the dog](https://open.spotify.com/album/0UEP9M5UNKJNGlqYlybXA0) | 2:46 | 2023-04-26 | 2023-05-19 |
 | [the fire in your eyes keeps me warm](https://open.spotify.com/track/076YCyUBs1GlrzAmOsZkFU) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [sleep.ing](https://open.spotify.com/artist/72qGRng3c6BZNeYJH3C5ct), [Arvnd](https://open.spotify.com/artist/03sj0tUmIbmENyauxKtulx) | [some boring love stories pt 5](https://open.spotify.com/album/26JLBgmg9yNxBcdBhX0f63) | 3:13 | 2021-04-02 | 2022-07-22 |
+| [THE GIRL WILL BE OKAY](https://open.spotify.com/track/0QbzrbAp8Mfu1cdmFRbgBx) | [RC AVENUE](https://open.spotify.com/artist/72l1FxPT1pEy9kuGz2UC1w) | [THE GIRL WILL BE OKAY](https://open.spotify.com/album/5Iv87ZOJiSAfvxYyarcdts) | 1:36 | 2023-09-29 |  |
 | [The Gold \- Phoebe Bridgers Version](https://open.spotify.com/track/7qcXUzPwoxSBFxjTbNrV0B) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [The Gold \(Phoebe Bridgers Version\)](https://open.spotify.com/album/5pCfjopxazLdvmLae6My9w) | 3:53 | 2022-09-27 | 2022-12-24 |
 | [The Knots](https://open.spotify.com/track/6YbSyWJKrwvawpyYtxvAJy) | [LAUNDRY DAY](https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk) | [The Knots](https://open.spotify.com/album/61nyeXkmqRtCa1VRn0uDNx) | 4:12 | 2022-03-23 | 2022-07-23 |
 | [The Long Breath](https://open.spotify.com/track/2jQWDgZhvkTREAXi7R0Vnf) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [The Long Breath / The Willows](https://open.spotify.com/album/0phsQExgJ5IKweBTgJNdp3) | 4:48 | 2023-11-20 |  |

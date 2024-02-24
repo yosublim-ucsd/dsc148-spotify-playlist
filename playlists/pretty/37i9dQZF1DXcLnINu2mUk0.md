@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Ivandro escolhe as músicas, ele decide!
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,586 likes - 80 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,776 likes - 80 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 79 | [B4U](https://open.spotify.com/track/4htFvo798QAxy9iUBoTJPg) | [St\. James Park](https://open.spotify.com/artist/4WGxfbDkaRQOFN0uriUXDF), [Cálculo](https://open.spotify.com/artist/1MOKHbjTVCqrzy7o3Es8hI), [y.azz](https://open.spotify.com/artist/0wtDy87EsXG4bLUJ6zbD0U), [Birou](https://open.spotify.com/artist/6MZjeFl9psA2ncl3ennNbx) | [B4U](https://open.spotify.com/album/43RReczlsprLlicvPx8xnC) | 3:12 |
 | 80 | [Amar De Cor](https://open.spotify.com/track/7lpqxqXjVuOQz6LAJLsLFw) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [Amar De Cor](https://open.spotify.com/album/5ZPiexjhraYvJ8j1rh11vu) | 2:45 |
 
-Snapshot ID: `MCwxYTk5ZjdiNjQzMmVmYWNiNmFkMGNjNDQxZjcyZTVkNTBjMzM2NGE2`
+Snapshot ID: `MCxmYWFlNzI1ZDUzOWExNDQ2OTAxNTI2YTlmNTUyNWRlN2JlY2M1MTg4`

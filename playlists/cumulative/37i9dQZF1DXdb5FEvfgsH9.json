@@ -1197,6 +1197,24 @@
     },
     {
       "album": {
+        "name": "Forbidden Love",
+        "url": "https://open.spotify.com/album/2Iu5GcX8YQfbVmFcDnfxiJ"
+      },
+      "artists": [
+        {
+          "name": "Donny Ben\u00e9t",
+          "url": "https://open.spotify.com/artist/1EiNEyiSrpB6BVxt58BnNN"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291834,
+      "name": "Forbidden Love",
+      "url": "https://open.spotify.com/track/43iixoO1pWlhd2Qu4WtD6z"
+    },
+    {
+      "album": {
         "name": "Forever Blue",
         "url": "https://open.spotify.com/album/1GzikQt3Pwt8jzx1SO9Wwt"
       },
@@ -1868,7 +1886,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 256562,
       "name": "Multiply",
       "url": "https://open.spotify.com/track/1INYpUDPkutq3NxAXgDlOC"

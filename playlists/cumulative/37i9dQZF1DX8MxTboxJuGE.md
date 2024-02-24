@@ -4,7 +4,7 @@
 
 > Os monstros e as novas caras do Metal nacional e internacional! Foto: ANGRA
 
-97 songs - 7 hr 16 min
+98 songs - 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Dark Delight](https://open.spotify.com/track/78XZJGujLi4F7mn4HB6E2G) | [Final Disaster](https://open.spotify.com/artist/3Deto26wjooiLPQmPGlZ0E) | [Dark Delight](https://open.spotify.com/album/4kKfDKnqHqveHWjT716F8D) | 5:26 | 2023-07-14 |  |
 | [Days Of Future Past](https://open.spotify.com/track/5grapy5yRWQo4MjOb9nNjY) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Senjutsu](https://open.spotify.com/album/4bBIsMKf6EmHRlhBwtC33N) | 4:03 | 2023-07-14 | 2023-11-04 |
 | [Days of Future Past](https://open.spotify.com/track/7abedqPfYaZj2K89xdoipX) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Senjutsu](https://open.spotify.com/album/2eS8TWeAeQcWNffxpOiabt) | 4:03 | 2023-11-03 |  |
-| [Draining Me](https://open.spotify.com/track/3I47pT8Tyg5AyOjxZHEfvP) | [Worst](https://open.spotify.com/artist/50Gz8NDlBXc8bKNUqlQlQp) | [Deserto](https://open.spotify.com/album/267sNJGcmma5Zk4chbP3jl) | 2:39 | 2023-07-14 |  |
+| [Draining Me](https://open.spotify.com/track/3I47pT8Tyg5AyOjxZHEfvP) | [Worst](https://open.spotify.com/artist/50Gz8NDlBXc8bKNUqlQlQp) | [Deserto](https://open.spotify.com/album/267sNJGcmma5Zk4chbP3jl) | 2:39 | 2023-07-14 | 2024-02-24 |
 | [Earth & Sky](https://open.spotify.com/track/2qDLrNb2xpbiNx7kjJVSFl) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [EARTHANDSKY](https://open.spotify.com/album/0EHmXB33t1PfUvZ8dqXg6W) | 4:09 | 2023-11-03 |  |
 | [Earth & Sky](https://open.spotify.com/track/5ZvbwDbhiFMbaywLJo6SmN) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Earth & Sky](https://open.spotify.com/album/6NxMsVkNmPY0bUfyQFhCDm) | 4:09 | 2023-07-14 | 2023-11-04 |
 | [Eye of God](https://open.spotify.com/track/2raaUxcJiWAECJHBym897Y) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [Eye of God](https://open.spotify.com/album/7kod4y0AUTXDTxQKLoDoOf) | 3:32 | 2023-07-14 | 2023-08-12 |
@@ -89,6 +89,7 @@
 | [The River Is Rising \(feat\. Myles Kennedy and The Conspirators\)](https://open.spotify.com/track/0owvkjZL6aB48Uir4tUVQq) | [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [Myles Kennedy And The Conspirators](https://open.spotify.com/artist/1J0FSEQhWSMHcYqaapIjY6) | [4 \(feat\. Myles Kennedy and The Conspirators\)](https://open.spotify.com/album/5hEFdC1iEWOjgQgiRqdtXQ) | 3:42 | 2023-07-14 | 2023-11-03 |
 | [The River Is Rising \(feat\. Myles Kennedy and The Conspirators\)](https://open.spotify.com/track/3LqWKbOdMK4jB3NPcMIvJt) | [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [Myles Kennedy And The Conspirators](https://open.spotify.com/artist/1J0FSEQhWSMHcYqaapIjY6) | [4 \(feat\. Myles Kennedy and The Conspirators\)](https://open.spotify.com/album/078ZH1xDl03nocG21ouCgV) | 3:42 | 2023-10-13 |  |
 | [The Rover](https://open.spotify.com/track/3jUFOx8ZRQUuXHfiVeTscu) | [Vandroya](https://open.spotify.com/artist/0ksiPgsqQQqpNLyS8qGx8N) | [The Rover](https://open.spotify.com/album/5lwYrm10PIrGfuIOoJRuyh) | 5:43 | 2023-07-14 |  |
+| [The Serpent and the King](https://open.spotify.com/track/2n09w41gAdEsJFp6bD0sBT) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [The Serpent and the King](https://open.spotify.com/album/53T5pDi25DmqJiQgHdinBq) | 4:19 | 2024-02-23 |  |
 | [The Spreading Soul Forever](https://open.spotify.com/track/5ktvPDSpNjOr05wT7mUz8G) | [Viper](https://open.spotify.com/artist/6ywWIQgZrAOTcmA3XxGIk7), [Andre Matos](https://open.spotify.com/artist/4FhjNTlKUnMbaeS21fouvd) | [The Spreading Soul Forever](https://open.spotify.com/album/7KQR3SIUAir2OkvPq8upOa) | 4:57 | 2023-07-14 |  |
 | [The Trooper \(Live at Estadio Jorge Magico Gonzalez, San Salvador, El Salvador – Sunday 6th March 2016\)](https://open.spotify.com/track/0dT91rAT0aio3v8RuSYmrT) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [The Book of Souls: Live Chapter](https://open.spotify.com/album/1X98ihhMiREcbM87yPBc8x) | 4:05 | 2023-11-03 |  |
 | [The Trooper \- Live at Estadio Jorge Magico Gonzalez, San Salvador, El Salvador \- 6th March 2016](https://open.spotify.com/track/0CfsFGFh9omOH8qNkxwjUc) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [The Book of Souls: The Live Chapter](https://open.spotify.com/album/0h63qX1zO0DAJLacVY3I7x) | 4:05 | 2023-07-14 | 2023-11-04 |

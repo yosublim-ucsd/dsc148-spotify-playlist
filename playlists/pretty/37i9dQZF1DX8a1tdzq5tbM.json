@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1542618,
+  "num_followers": 1543039,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MWQ3YTlmOGQ4OTI3MmRmMDBhMDBhYWI0ZTcyMGIyYWZlMzZjMDIz",
+  "snapshot_id": "MCw1OWYyYjQ4ZjhmMzBhY2FlOThlYzQ4MDk0Y2M0ZGMyYTE1MjBhZjQy",
   "tracks": [
     {
       "added_at": "2023-03-22 14:00:00",
@@ -539,6 +539,22 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "Let the Music Play",
+        "url": "https://open.spotify.com/album/1HS8Jkoaa1BweXfJ2hwLcL"
+      },
+      "artists": [
+        {
+          "name": "Shannon",
+          "url": "https://open.spotify.com/artist/2O8QAJmRrwkFXq2aWZnHYB"
+        }
+      ],
+      "duration_ms": 214379,
+      "name": "Let the Music Play",
+      "url": "https://open.spotify.com/track/6b9hm8mvZ2KH7Fl7LLA5ct"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "Hypnotica",
         "url": "https://open.spotify.com/album/2467y5gcxljWnMqbYwWxwu"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 285413,
       "name": "Satisfaction",
       "url": "https://open.spotify.com/track/5JZnjM9ijpit0d5zjT8MM7"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Let the Music Play",
-        "url": "https://open.spotify.com/album/1HS8Jkoaa1BweXfJ2hwLcL"
-      },
-      "artists": [
-        {
-          "name": "Shannon",
-          "url": "https://open.spotify.com/artist/2O8QAJmRrwkFXq2aWZnHYB"
-        }
-      ],
-      "duration_ms": 214379,
-      "name": "Let the Music Play",
-      "url": "https://open.spotify.com/track/6b9hm8mvZ2KH7Fl7LLA5ct"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1231,6 +1231,26 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "Just Be",
+        "url": "https://open.spotify.com/album/3E8N6fNnqcOwNwUvALrqZ5"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Kirsty Hawkshaw",
+          "url": "https://open.spotify.com/artist/2tJIQxQM0X4lCYERyANSdT"
+        }
+      ],
+      "duration_ms": 524933,
+      "name": "Just Be",
+      "url": "https://open.spotify.com/track/6SDy0CHEvHB591MeizBrqY"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "The Sound of Goodbye, Pt. 2",
         "url": "https://open.spotify.com/album/5bCAsnDwc633FM025XeWeP"
       },
@@ -1251,26 +1271,6 @@
       "duration_ms": 199133,
       "name": "The Sound of Goodbye - Above & Beyond UK Edit",
       "url": "https://open.spotify.com/track/1GMw17BGY1vDWNJ4xVo9V6"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Just Be",
-        "url": "https://open.spotify.com/album/3E8N6fNnqcOwNwUvALrqZ5"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Kirsty Hawkshaw",
-          "url": "https://open.spotify.com/artist/2tJIQxQM0X4lCYERyANSdT"
-        }
-      ],
-      "duration_ms": 524933,
-      "name": "Just Be",
-      "url": "https://open.spotify.com/track/6SDy0CHEvHB591MeizBrqY"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Heartbreak",
-        "url": "https://open.spotify.com/album/3Q92oQsZcRengOwU7XrKY7"
-      },
-      "artists": [
-        {
-          "name": "M'Black",
-          "url": "https://open.spotify.com/artist/7lP0OS529IoZa7snkuvt1E"
-        }
-      ],
-      "duration_ms": 221493,
-      "name": "Heartbreak - Radio Edit",
-      "url": "https://open.spotify.com/track/2D7KdXI212C2evy5hh1tI5"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Strobelite Seduction",
         "url": "https://open.spotify.com/album/3HmqTzRg3Ccs5vUVIlwh3Y"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 200280,
       "name": "Step One Two",
       "url": "https://open.spotify.com/track/2b81QjZVYfa75vC5niRDac"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Heartbreak",
+        "url": "https://open.spotify.com/album/3Q92oQsZcRengOwU7XrKY7"
+      },
+      "artists": [
+        {
+          "name": "M'Black",
+          "url": "https://open.spotify.com/artist/7lP0OS529IoZa7snkuvt1E"
+        }
+      ],
+      "duration_ms": 221493,
+      "name": "Heartbreak - Radio Edit",
+      "url": "https://open.spotify.com/track/2D7KdXI212C2evy5hh1tI5"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "I Like Your Booty / The Big Fake",
-        "url": "https://open.spotify.com/album/0D0O1lbkzRcXJECh3owHN3"
-      },
-      "artists": [
-        {
-          "name": "Traffic Signs",
-          "url": "https://open.spotify.com/artist/2r0cOBq375zqYS7yu0vg92"
-        }
-      ],
-      "duration_ms": 384733,
-      "name": "The Big Fake",
-      "url": "https://open.spotify.com/track/67nOnSiH1QRUiYihmLBmwI"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Worldwide Dance Hits",
         "url": "https://open.spotify.com/album/6dfX6cEQ7MuTMY0Ldp7qup"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 217500,
       "name": "Another Place",
       "url": "https://open.spotify.com/track/6FrchQ8NDHUI8ucAvz5zha"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "I Like Your Booty / The Big Fake",
+        "url": "https://open.spotify.com/album/0D0O1lbkzRcXJECh3owHN3"
+      },
+      "artists": [
+        {
+          "name": "Traffic Signs",
+          "url": "https://open.spotify.com/artist/2r0cOBq375zqYS7yu0vg92"
+        }
+      ],
+      "duration_ms": 384733,
+      "name": "The Big Fake",
+      "url": "https://open.spotify.com/track/67nOnSiH1QRUiYihmLBmwI"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -2087,22 +2087,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Crush",
-        "url": "https://open.spotify.com/album/6K69QEGsJ0M9KdDaewjDiA"
-      },
-      "artists": [
-        {
-          "name": "M'Black",
-          "url": "https://open.spotify.com/artist/7lP0OS529IoZa7snkuvt1E"
-        }
-      ],
-      "duration_ms": 205200,
-      "name": "Crush (Radio Edit)",
-      "url": "https://open.spotify.com/track/7mafch6fDbXB2on5mxijln"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Put 'Em Up",
         "url": "https://open.spotify.com/album/2N6ztzhfkbbhixrrzYHXgr"
       },
@@ -2115,6 +2099,22 @@
       "duration_ms": 211600,
       "name": "Put `em Up",
       "url": "https://open.spotify.com/track/0XJ2Ng4XAxKjzpst5drVdm"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/6K69QEGsJ0M9KdDaewjDiA"
+      },
+      "artists": [
+        {
+          "name": "M'Black",
+          "url": "https://open.spotify.com/artist/7lP0OS529IoZa7snkuvt1E"
+        }
+      ],
+      "duration_ms": 205200,
+      "name": "Crush (Radio Edit)",
+      "url": "https://open.spotify.com/track/7mafch6fDbXB2on5mxijln"
     },
     {
       "added_at": "2023-03-22 14:00:00",

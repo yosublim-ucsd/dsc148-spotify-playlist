@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUomyMFpoR0R.md) - [plain]
 
 > <a href="spotify:artist:3TXQ1ddouwQAI78hV4hXDjj">Maceo Plex</a> shares his favorite tracks and new ones from his 3rd album this week\. "My newest album, ’93, is a fusion of diverse influences throughout my musical career—from techno to drum and bass, rap to pop, and beyond\. Dive into it"\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,830 likes - 35 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,837 likes - 35 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUomyMFpoR0R.md) - [plain]
 | 21 | [I See You](https://open.spotify.com/track/5T8VVBCIj97dje87qw56a2) | [Third Culture \(USA\)](https://open.spotify.com/artist/6sJJfdZkhHzBYzBWu0my9p) | [U Move EP](https://open.spotify.com/album/4pjlD450AKpthI6G45O1Ow) | 4:49 |
 | 22 | [POGO](https://open.spotify.com/track/1notlEPWSqkxrhirc8pjfo) | [KKoi](https://open.spotify.com/artist/67Op2PSJg4SjmqfWNIaQwC), [Teej](https://open.spotify.com/artist/6Ul7DXJIfPhwGBIP3J96U7) | [POGO](https://open.spotify.com/album/31xpx3Uel2vtuPflA7B1q8) | 4:33 |
 | 23 | [Baddadan \(feat\. IRAH, Flowdan, Trigga & Takura\)](https://open.spotify.com/track/2ZWmmrWUgDBcPSLihBMvhg) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4), [IRAH](https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU), [Trigga](https://open.spotify.com/artist/4LqFJ98PEA7gIrRtviMUmb), [Takura](https://open.spotify.com/artist/4n81jTX3LJ7zxNr6Ss8PkQ) | [Baddadan \(feat\. IRAH, Flowdan, Trigga & Takura\)](https://open.spotify.com/album/2xV74PLdZg5gwA65xGF8cF) | 2:57 |
-| 24 | [In The Dark \- Original Mix](https://open.spotify.com/track/4ATyGC5RIUkOS1MtXX6Yja) | [Sian](https://open.spotify.com/artist/4JkX37Ibpb0cJq2IItah0y), [Sacha Robotti](https://open.spotify.com/artist/5zheoDzRTIhWzE1j1DttZf), [Third Culture \(USA\)](https://open.spotify.com/artist/6sJJfdZkhHzBYzBWu0my9p) | [In The Dark](https://open.spotify.com/album/3fu0dvi8F9JoT3S1KG1VKG) | 6:13 |
+| 24 | [In The Dark](https://open.spotify.com/track/6ZBLQ9beCgU9FFieAcbeOO) | [Sian](https://open.spotify.com/artist/4JkX37Ibpb0cJq2IItah0y), [Sacha Robotti](https://open.spotify.com/artist/5zheoDzRTIhWzE1j1DttZf), [Third Culture \(USA\)](https://open.spotify.com/artist/6sJJfdZkhHzBYzBWu0my9p) | [In The Dark](https://open.spotify.com/album/5NqC1h7NQZMFwF1jsTMMah) | 6:13 |
 | 25 | [Metaverse \- Radio Edit](https://open.spotify.com/track/6FnyAbROppjVPb1pnW7cF5) | [Effin & Blindin](https://open.spotify.com/artist/7MFh3nBnwA0qt8VD0qQoEO) | [Metaverse](https://open.spotify.com/album/5TcMZXuubM6teV7I7HEzGt) | 3:37 |
 | 26 | [Mutant Romance](https://open.spotify.com/track/4MqzD6Kx1JiziGoaoONea8) | [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj) | [Mutant Romance](https://open.spotify.com/album/6KNCQXuOE6dpELCvYOZfyE) | 6:17 |
 | 27 | [Circles \- 7'' Edit](https://open.spotify.com/track/3XM2ormuVHvn3tQvTQoy3J) | [Adam F](https://open.spotify.com/artist/3m38ZSwkLdeBDUhdGnFPrn) | [Rave Classics](https://open.spotify.com/album/5RxPozvp4dooX36BFRIUMT) | 3:47 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUomyMFpoR0R.md) - [plain]
 | 34 | [Conjure Superstar](https://open.spotify.com/track/5pYsZ4LY6LU4wEEDUGmsaB) | [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj) | [Conjure Superstar](https://open.spotify.com/album/4h0c2JJkJAw8spNfQ2XG8P) | 7:40 |
 | 35 | [When the Lights Are Out](https://open.spotify.com/track/2BIe0r0ghtyoeinWcBgQky) | [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj) | [When the Lights Are Out](https://open.spotify.com/album/28eezLT3nxoLghPoLKaduu) | 7:24 |
 
-Snapshot ID: `MCw3YzAxMWYwZDA5NTg4ZThiZjA5MWNkMmQyMDRkYzFhNzRiOWNmYzgz`
+Snapshot ID: `MCw4Yzk5MDI0NzRmZWU2ZjYyYjJiOGZlOGQyMDNjMjJhOTZkNTY2ZjNl`

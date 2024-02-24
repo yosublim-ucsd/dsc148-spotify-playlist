@@ -4,7 +4,7 @@
 
 > Cabin sleep noise and airplane sounds to help you drift away.
 
-212 songs - 9 hr 50 min
+214 songs - 10 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Cabin Noise Melody](https://open.spotify.com/track/4TVbi0QfkzKCvLeIIPfKqb) | [Minorie HD](https://open.spotify.com/artist/4s3zLaJUhGoYhcFHwlnIgw) | [Cabin Noise Melody](https://open.spotify.com/album/11uCdzSWLtGVOjm0Vk4AZh) | 2:01 | 2023-05-26 |  |
 | [Cabination Noise](https://open.spotify.com/track/0BHUIuLE8ZqojV6LqswBgS) | [Noise Project](https://open.spotify.com/artist/7K3z2X4heN5Ce5SGX71Tk0) | [Cabination Noise](https://open.spotify.com/album/2jc10ym0IheRE96y87ndm7) | 2:02 | 2023-05-26 |  |
 | [Calm Cabin Brown Noise](https://open.spotify.com/track/2XEQccrJMjT9fiEs961oQI) | [Noise and Nature](https://open.spotify.com/artist/2hcGTRaH2FXoKel4UTGWJ0) | [Calm Cabin Brown Noise](https://open.spotify.com/album/06ZKtT1IeqO59cGiztagQd) | 4:00 | 2023-09-08 |  |
+| [Calming Aeroplane Cabin](https://open.spotify.com/track/1kfHqlPZRzma8uaTVhCTk1) | [Zen Maestro](https://open.spotify.com/artist/3JyVeZAzOZdJ2dyl5Qd1Wv) | [Calming Aeroplane Cabin](https://open.spotify.com/album/6pFFUeBE9ePo5cyAzT5B0Y) | 5:14 | 2024-02-23 |  |
 | [Celestial Chorus \- White Noise](https://open.spotify.com/track/57aWNPjnLAaIPP1QlCC9xZ) | [Dozy Sounds](https://open.spotify.com/artist/6GjywyZ0Qtsu0f95gL5CDG) | [Celestial Chorus \(White Noise\)](https://open.spotify.com/album/4TapNsGUXjZ1keadXQyRsV) | 3:10 | 2023-09-20 |  |
 | [Centralized Mind \- Seamless](https://open.spotify.com/track/6y7lOUFlzpToykPGWKHcVO) | [Ambient Newton](https://open.spotify.com/artist/6TalusfpNttE4ezxrf9VeF) | [Steady Focus](https://open.spotify.com/album/62aGyNSCbuguUesw4tX5D9) | 2:54 | 2023-09-20 |  |
 | [Chill Turbulence](https://open.spotify.com/track/11H4cW8gODqSw40APel5Jb) | [Dancing Waves](https://open.spotify.com/artist/6I734cgGnMNAYXbDKI6pxm) | [Chill Turbulence](https://open.spotify.com/album/6QztPgGT479eEpzLTXITNB) | 5:45 | 2024-02-09 |  |
@@ -66,6 +67,7 @@
 | [Dozy Noise](https://open.spotify.com/track/27W4LkxptBvhMxYAWMpsOL) | [Dozy FX](https://open.spotify.com/artist/3LErbZP1QobnVRGGCDaRdK) | [Dozy Noise](https://open.spotify.com/album/1Ao4sYFISxtmZaA7jedaJW) | 2:25 | 2023-05-26 |  |
 | [Draggy White Noise](https://open.spotify.com/track/0ohmRdDdzojvYGDLTVxj0a) | [Dancing Waves](https://open.spotify.com/artist/6I734cgGnMNAYXbDKI6pxm) | [Draggy White Noise](https://open.spotify.com/album/6RAfchUJLOleKFhhSgFsmu) | 4:22 | 2023-09-20 |  |
 | [Dreams & Calmness](https://open.spotify.com/track/295uck3ky42Qj4rxbISGG5) | [X.L.T](https://open.spotify.com/artist/5XmANDHn1nUVL3rVyohz9t) | [Dreams & Calmness](https://open.spotify.com/album/2HOETaIk01hB0glxrTVk39) | 2:39 | 2023-05-26 |  |
+| [Earthy Whisper](https://open.spotify.com/track/4f3Jiq0tASlwQg4w7qmy8P) | [High Above The Clouds](https://open.spotify.com/artist/0TGwwqBPOAEsrEQKOT2FVY) | [Earthy Whisper](https://open.spotify.com/album/3WP4BxsV3FiAyPUfuRdM0c) | 5:05 | 2024-02-23 |  |
 | [Elevation Zen, 30,000 Feet](https://open.spotify.com/track/41HWoRFce5JBSGwrvlPfOf) | [Atmospheric Endeavors](https://open.spotify.com/artist/3TNKOriU72JCIKSKVaebNC) | [Cabin Noise](https://open.spotify.com/album/5FiZnf1mTrlZ0S5cvgj1V9) | 2:25 | 2023-10-19 |  |
 | [Endless Cabin Noise](https://open.spotify.com/track/0Gw1XXvd7BOn4QIBVjBnka) | [Thyyphoon](https://open.spotify.com/artist/02tTUqtZibCAHjNa0VR1v5) | [Endless Noises Vol I](https://open.spotify.com/album/6R0QWZi79djGcOPj6iyFKG) | 4:43 | 2023-05-26 |  |
 | [Endless White Noise](https://open.spotify.com/track/3F9zhwwhkj39u0rI07zaic) | [Thyyphoon](https://open.spotify.com/artist/02tTUqtZibCAHjNa0VR1v5) | [Endless Noises Vol II](https://open.spotify.com/album/4MrhA8HUGK31Z5kqa2wr6j) | 2:04 | 2023-09-20 |  |
@@ -192,7 +194,7 @@
 | [White Noise \- 3.5 khz \- Airline](https://open.spotify.com/track/0YFwGTE9970SXeYFXQnAaG) | [Fo Cus](https://open.spotify.com/artist/3NWrEYvAGHF0FT50FE7dDH) | [White Noise Airline](https://open.spotify.com/album/1ASELDUwdK6fFtcntQJ3gj) | 1:47 | 2023-05-26 | 2023-06-17 |
 | [White Noise \- Highway Buzz](https://open.spotify.com/track/1aYbS5oTaPvdx3SFGaNdoK) | [Ziem](https://open.spotify.com/artist/6nIgqoE3AfrXQ9QxnoNWwb) | [Sound Effects](https://open.spotify.com/album/2AGjpEapijVHJEBbL4IqZl) | 2:13 | 2023-05-26 |  |
 | [White Noise \- Slope 500Hz to 3500Hz \- Part 1](https://open.spotify.com/track/12WKmDTEz8TWgqqF2nzVyN) | [Noise Library](https://open.spotify.com/artist/1wFEHvHdcbuWVxo6reRywR) | [White Noise \- Slope 500Hz](https://open.spotify.com/album/3DLXUi42CWfRB0HnaSXKAV) | 1:59 | 2023-05-26 | 2023-06-17 |
-| [White Noise Alpha \- Seamless](https://open.spotify.com/track/6u4odRGSUyvhazjUxuerEq) | [Trambiendo](https://open.spotify.com/artist/6qZ7HA1esDKoWoUeyFtQsV) | [White Noise Alpha](https://open.spotify.com/album/4KpFxB6i4vETfpbsawJVdn) | 2:44 | 2023-09-20 |  |
+| [White Noise Alpha \- Seamless](https://open.spotify.com/track/6u4odRGSUyvhazjUxuerEq) | [Trambiendo](https://open.spotify.com/artist/6qZ7HA1esDKoWoUeyFtQsV) | [White Noise Alpha](https://open.spotify.com/album/4KpFxB6i4vETfpbsawJVdn) | 2:44 | 2023-09-20 | 2024-02-24 |
 | [White Noise Contributions](https://open.spotify.com/track/7y3jJZzeuZ0xluWXjn9nR0) | [Crossing Sounx](https://open.spotify.com/artist/7iEhxuBHbwWAOd4J1zyP5q) | [Dreamy Voices](https://open.spotify.com/album/6lrUCRCpNwtopXOxM24sXI) | 1:53 | 2023-05-26 | 2023-06-17 |
 | [White Noise Eternity](https://open.spotify.com/track/4Vqw8dAFAVITkiALTRo2HA) | [Reality Sound](https://open.spotify.com/artist/34yGVl5CKVdhqRost8UeJ1) | [Founded Noise](https://open.spotify.com/album/5Kxejh6FtCIuvY674BpXvb) | 2:14 | 2023-05-26 |  |
 | [White Noise Forever](https://open.spotify.com/track/2mr452EXiKhNC3u0H76daQ) | [Slumberatronics](https://open.spotify.com/artist/6gY0UbxnBwzDDMrmdQpwXQ) | [White Endless Noise](https://open.spotify.com/album/5qev0q3eksrBbJ80hdWvzy) | 2:56 | 2023-09-20 |  |

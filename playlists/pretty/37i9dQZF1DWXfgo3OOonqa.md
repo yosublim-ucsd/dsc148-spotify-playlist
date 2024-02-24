@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > Håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 325,349 likes - 101 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 325,472 likes - 101 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 100 | [Heartless](https://open.spotify.com/track/79x6bjemiP14D0mYRfrNgr) | [Gaboro](https://open.spotify.com/artist/1sLnQclviHMISG1VaLtKHx) | [Heartless](https://open.spotify.com/album/2hKdmqtrvIYeN6DVSNKCVf) | 2:29 |
 | 101 | [FIRST PICK](https://open.spotify.com/track/0VLAg7TZY2v6Y8GlJx1gdq) | [DR](https://open.spotify.com/artist/6c4sJR389IWJzl4ao1uAiA), [TUTTOLENTE](https://open.spotify.com/artist/3VRrEInrOGVHmPGBP7T3M1) | [FIRST PICK](https://open.spotify.com/album/3iD7enLyHRPGOXEl9ljJv6) | 2:01 |
 
-Snapshot ID: `MCw2ZTUxM2MxODRjNzA5MWE3MmY3MjVkMTFlZDZiZTllYWIzMzQzNGE2`
+Snapshot ID: `MCxkMmVlZjRhZjViMWEyN2YzYWM2ZjgzNjg1YWZkZGYwMDliNDM3MWQz`

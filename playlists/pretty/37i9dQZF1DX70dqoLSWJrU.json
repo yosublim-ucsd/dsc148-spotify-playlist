@@ -1,29 +1,13 @@
 {
   "description": "Heartbreaking and sad instrumental and vocal Jazz.",
-  "num_followers": 74169,
+  "num_followers": 74215,
   "original_name": "Heartbreak Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNzZkMThjNzMyNGJjMjZjMTczMDgwYWViYzlkZDFjN2JkYmE3Y2Rm",
+  "snapshot_id": "MCw5ZjU5MzhmMmEyYTBkOTJmZWM4OTIzYjU2NDU4Zjc4YWRhN2EwNzcz",
   "tracks": [
-    {
-      "added_at": "2024-02-22 09:38:32",
-      "album": {
-        "name": "The Second Time Around",
-        "url": "https://open.spotify.com/album/4NWqIjT0hua7Ezv91t389w"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 146226,
-      "name": "Don't Cry Baby",
-      "url": "https://open.spotify.com/track/52JFZ4D1kYCspWMolxYtTo"
-    },
     {
       "added_at": "2024-02-22 09:38:32",
       "album": {
@@ -43,6 +27,22 @@
       "duration_ms": 258106,
       "name": "The Masquerade Is Over",
       "url": "https://open.spotify.com/track/1jf3wYtynxiPOdhqAp3cUN"
+    },
+    {
+      "added_at": "2024-02-22 09:38:32",
+      "album": {
+        "name": "The Second Time Around",
+        "url": "https://open.spotify.com/album/4NWqIjT0hua7Ezv91t389w"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 146226,
+      "name": "Don't Cry Baby",
+      "url": "https://open.spotify.com/track/52JFZ4D1kYCspWMolxYtTo"
     },
     {
       "added_at": "2024-02-22 09:38:32",
@@ -91,22 +91,6 @@
       "duration_ms": 354666,
       "name": "Young And Foolish",
       "url": "https://open.spotify.com/track/1WygPWqmNs4s2fxtjmtI3O"
-    },
-    {
-      "added_at": "2024-02-22 09:38:32",
-      "album": {
-        "name": "The Second Time Around",
-        "url": "https://open.spotify.com/album/4NWqIjT0hua7Ezv91t389w"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 177200,
-      "name": "Fool That I Am",
-      "url": "https://open.spotify.com/track/5RC6D893kdyFTbbXq9G3qZ"
     },
     {
       "added_at": "2024-02-22 09:38:32",
@@ -179,6 +163,22 @@
       "duration_ms": 164933,
       "name": "In The Wee Small Hours Of The Morning",
       "url": "https://open.spotify.com/track/4wGYHJ2Mcvb2QvHinDVGEC"
+    },
+    {
+      "added_at": "2024-02-22 09:38:32",
+      "album": {
+        "name": "The Second Time Around",
+        "url": "https://open.spotify.com/album/4NWqIjT0hua7Ezv91t389w"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 177200,
+      "name": "Fool That I Am",
+      "url": "https://open.spotify.com/track/5RC6D893kdyFTbbXq9G3qZ"
     },
     {
       "added_at": "2024-02-22 09:38:32",
@@ -267,22 +267,6 @@
     {
       "added_at": "2024-02-22 09:38:32",
       "album": {
-        "name": "Solitude",
-        "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 206760,
-      "name": "You Turned The Tables On Me",
-      "url": "https://open.spotify.com/track/1Aa2phci2wSI0PWyoESUJA"
-    },
-    {
-      "added_at": "2024-02-22 09:38:32",
-      "album": {
         "name": "Nina Simone & Piano (Expanded Edition)",
         "url": "https://open.spotify.com/album/24tZ7QTxEKZ6aZOCP1uBMM"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 289080,
       "name": "I Get Along Without You Very Well (Except Sometimes)",
       "url": "https://open.spotify.com/track/6zYfEsNOhv5hd6CfwPXjIY"
+    },
+    {
+      "added_at": "2024-02-22 09:38:32",
+      "album": {
+        "name": "Solitude",
+        "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 206760,
+      "name": "You Turned The Tables On Me",
+      "url": "https://open.spotify.com/track/1Aa2phci2wSI0PWyoESUJA"
     },
     {
       "added_at": "2024-02-22 09:38:32",
@@ -407,18 +407,18 @@
     {
       "added_at": "2024-02-22 09:38:32",
       "album": {
-        "name": "Billie Holiday",
-        "url": "https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs"
+        "name": "Next Time",
+        "url": "https://open.spotify.com/album/5wKPzPaWDHbyDOHpIGHfAL"
       },
       "artists": [
         {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
         }
       ],
-      "duration_ms": 195786,
-      "name": "Lover, Come Back To Me",
-      "url": "https://open.spotify.com/track/27SVIQdbsAqZkTqpEnNmQ5"
+      "duration_ms": 318077,
+      "name": "Next Time",
+      "url": "https://open.spotify.com/track/2dAikVHuf4fWuiK5i8Hjcg"
     },
     {
       "added_at": "2024-02-22 09:38:32",
@@ -435,22 +435,6 @@
       "duration_ms": 202866,
       "name": "I Miss You So",
       "url": "https://open.spotify.com/track/0G3WxfqXCkCq9AGgqLINg9"
-    },
-    {
-      "added_at": "2024-02-22 09:38:32",
-      "album": {
-        "name": "Next Time",
-        "url": "https://open.spotify.com/album/5wKPzPaWDHbyDOHpIGHfAL"
-      },
-      "artists": [
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        }
-      ],
-      "duration_ms": 318077,
-      "name": "Next Time",
-      "url": "https://open.spotify.com/track/2dAikVHuf4fWuiK5i8Hjcg"
     },
     {
       "added_at": "2024-02-22 09:38:32",
@@ -487,18 +471,18 @@
     {
       "added_at": "2024-02-22 09:38:32",
       "album": {
-        "name": "Songbird",
-        "url": "https://open.spotify.com/album/14vOTJhsfQIlJeHgLajs7r"
+        "name": "Billie Holiday",
+        "url": "https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs"
       },
       "artists": [
         {
-          "name": "Eva Cassidy",
-          "url": "https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew"
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 282866,
-      "name": "Autumn Leaves",
-      "url": "https://open.spotify.com/track/3k42wvwwogIJyZ4HK5YswY"
+      "duration_ms": 195786,
+      "name": "Lover, Come Back To Me",
+      "url": "https://open.spotify.com/track/27SVIQdbsAqZkTqpEnNmQ5"
     },
     {
       "added_at": "2024-02-22 09:38:32",
@@ -515,6 +499,22 @@
       "duration_ms": 257226,
       "name": "You Go To My Head",
       "url": "https://open.spotify.com/track/522fhFdFIhJ2XFQVcBroXg"
+    },
+    {
+      "added_at": "2024-02-22 09:38:32",
+      "album": {
+        "name": "Songbird",
+        "url": "https://open.spotify.com/album/14vOTJhsfQIlJeHgLajs7r"
+      },
+      "artists": [
+        {
+          "name": "Eva Cassidy",
+          "url": "https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew"
+        }
+      ],
+      "duration_ms": 282866,
+      "name": "Autumn Leaves",
+      "url": "https://open.spotify.com/track/3k42wvwwogIJyZ4HK5YswY"
     },
     {
       "added_at": "2024-02-22 09:38:32",
@@ -587,18 +587,18 @@
     {
       "added_at": "2024-02-22 09:38:32",
       "album": {
-        "name": "Lady Sings The Blues",
-        "url": "https://open.spotify.com/album/4Es5UWdUtj8CYn99AqCWPo"
+        "name": "Chet Baker Sings And Plays (Remastered 2004)",
+        "url": "https://open.spotify.com/album/6NVtIIsVMTuphtcAN9FxCc"
       },
       "artists": [
         {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 186560,
-      "name": "Willow Weep For Me",
-      "url": "https://open.spotify.com/track/4W6g5kfwp0LVBFauBSdx08"
+      "duration_ms": 290693,
+      "name": "You Don't Know What Love Is - Remastered 2004",
+      "url": "https://open.spotify.com/track/2SFux1hir5ZaiPqNd7R15D"
     },
     {
       "added_at": "2024-02-22 09:38:32",
@@ -619,18 +619,18 @@
     {
       "added_at": "2024-02-22 09:38:32",
       "album": {
-        "name": "Chet Baker Sings And Plays (Remastered 2004)",
-        "url": "https://open.spotify.com/album/6NVtIIsVMTuphtcAN9FxCc"
+        "name": "Alexandria The Great",
+        "url": "https://open.spotify.com/album/0mr9wOHzf0Pygckr8Mk0Q9"
       },
       "artists": [
         {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+          "name": "Lorez Alexandria",
+          "url": "https://open.spotify.com/artist/5FxVAiCRSETyMMPV8MDaHY"
         }
       ],
-      "duration_ms": 290693,
-      "name": "You Don't Know What Love Is - Remastered 2004",
-      "url": "https://open.spotify.com/track/2SFux1hir5ZaiPqNd7R15D"
+      "duration_ms": 325493,
+      "name": "I'm Through With Love",
+      "url": "https://open.spotify.com/track/53vXsAvHqCO6Q6aFRacLaT"
     },
     {
       "added_at": "2024-02-22 09:38:32",
@@ -651,18 +651,18 @@
     {
       "added_at": "2024-02-22 09:38:32",
       "album": {
-        "name": "Alexandria The Great",
-        "url": "https://open.spotify.com/album/0mr9wOHzf0Pygckr8Mk0Q9"
+        "name": "Lady Sings The Blues",
+        "url": "https://open.spotify.com/album/4Es5UWdUtj8CYn99AqCWPo"
       },
       "artists": [
         {
-          "name": "Lorez Alexandria",
-          "url": "https://open.spotify.com/artist/5FxVAiCRSETyMMPV8MDaHY"
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 325493,
-      "name": "I'm Through With Love",
-      "url": "https://open.spotify.com/track/53vXsAvHqCO6Q6aFRacLaT"
+      "duration_ms": 186560,
+      "name": "Willow Weep For Me",
+      "url": "https://open.spotify.com/track/4W6g5kfwp0LVBFauBSdx08"
     },
     {
       "added_at": "2024-02-22 09:38:32",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-02-22 09:38:32",
       "album": {
-        "name": "Once Upon A Summertime",
-        "url": "https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n"
-      },
-      "artists": [
-        {
-          "name": "Blossom Dearie",
-          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
-        }
-      ],
-      "duration_ms": 167200,
-      "name": "Once Upon A Summertime",
-      "url": "https://open.spotify.com/track/1YlxMqTgJisGd0eH88rfId"
-    },
-    {
-      "added_at": "2024-02-22 09:38:32",
-      "album": {
         "name": "Something Nice",
         "url": "https://open.spotify.com/album/1eudqXesmmxC08VZaNtEaq"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 219000,
       "name": "Maybe You'll Be There",
       "url": "https://open.spotify.com/track/3lzTDiidk78yOW2UUX1r4a"
+    },
+    {
+      "added_at": "2024-02-22 09:38:32",
+      "album": {
+        "name": "Once Upon A Summertime",
+        "url": "https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n"
+      },
+      "artists": [
+        {
+          "name": "Blossom Dearie",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+        }
+      ],
+      "duration_ms": 167200,
+      "name": "Once Upon A Summertime",
+      "url": "https://open.spotify.com/track/1YlxMqTgJisGd0eH88rfId"
     },
     {
       "added_at": "2024-02-22 09:38:32",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-02-22 09:38:32",
       "album": {
-        "name": "When Harry Met Sally... Music From The Motion Picture",
-        "url": "https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv"
-      },
-      "artists": [
-        {
-          "name": "Harry Connick, Jr.",
-          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
-        }
-      ],
-      "duration_ms": 270133,
-      "name": "But Not for Me",
-      "url": "https://open.spotify.com/track/6nem7uYGz6srJVXRB0L93R"
-    },
-    {
-      "added_at": "2024-02-22 09:38:32",
-      "album": {
         "name": "The Voice That Is!",
         "url": "https://open.spotify.com/album/0RkrY8dapTpIRls7tOw1Cw"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 219733,
       "name": "It Never Entered My Mind",
       "url": "https://open.spotify.com/track/2SSK6RiaaoQDCdXbfI5gcc"
+    },
+    {
+      "added_at": "2024-02-22 09:38:32",
+      "album": {
+        "name": "When Harry Met Sally... Music From The Motion Picture",
+        "url": "https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv"
+      },
+      "artists": [
+        {
+          "name": "Harry Connick, Jr.",
+          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
+        }
+      ],
+      "duration_ms": 270133,
+      "name": "But Not for Me",
+      "url": "https://open.spotify.com/track/6nem7uYGz6srJVXRB0L93R"
     },
     {
       "added_at": "2024-02-22 09:38:32",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-02-22 09:38:32",
       "album": {
-        "name": "The Lost Tapes",
-        "url": "https://open.spotify.com/album/47nQ3PCd0XrIHzFIaamtEi"
-      },
-      "artists": [
-        {
-          "name": "Monica Zetterlund",
-          "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "I'm a Fool to Want You",
-      "url": "https://open.spotify.com/track/2VGYeHdyZcnLfcA0Ix6d4Y"
-    },
-    {
-      "added_at": "2024-02-22 09:38:32",
-      "album": {
         "name": "The War Years (1941-1947)",
         "url": "https://open.spotify.com/album/3xseO3iLY7v7dL7VP6jpsH"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 165266,
       "name": "Cry You Out Of My Heart",
       "url": "https://open.spotify.com/track/298PoQoXA91pJuS0AKlXCk"
+    },
+    {
+      "added_at": "2024-02-22 09:38:32",
+      "album": {
+        "name": "The Lost Tapes",
+        "url": "https://open.spotify.com/album/47nQ3PCd0XrIHzFIaamtEi"
+      },
+      "artists": [
+        {
+          "name": "Monica Zetterlund",
+          "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "I'm a Fool to Want You",
+      "url": "https://open.spotify.com/track/2VGYeHdyZcnLfcA0Ix6d4Y"
     },
     {
       "added_at": "2024-02-22 09:38:32",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2024-02-22 09:38:32",
       "album": {
-        "name": "Bing-His Legendary Years 1931-1957",
-        "url": "https://open.spotify.com/album/2KDC9MOVhSPFY3ANMB6aDw"
-      },
-      "artists": [
-        {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
-        }
-      ],
-      "duration_ms": 210333,
-      "name": "Just One More Chance - 1931 Single Version",
-      "url": "https://open.spotify.com/track/1TmJIO8XZkItg9p1p9gFoZ"
-    },
-    {
-      "added_at": "2024-02-22 09:38:32",
-      "album": {
         "name": "Abbey Lincoln's Affair... A Story Of A Girl In Love (Expanded Edition)",
         "url": "https://open.spotify.com/album/75kSQXvLMJh5TsK65zGkOg"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 191000,
       "name": "No More",
       "url": "https://open.spotify.com/track/0OhVyeMWNraRrgGPByQiWc"
+    },
+    {
+      "added_at": "2024-02-22 09:38:32",
+      "album": {
+        "name": "Bing-His Legendary Years 1931-1957",
+        "url": "https://open.spotify.com/album/2KDC9MOVhSPFY3ANMB6aDw"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        }
+      ],
+      "duration_ms": 210333,
+      "name": "Just One More Chance - 1931 Single Version",
+      "url": "https://open.spotify.com/track/1TmJIO8XZkItg9p1p9gFoZ"
     },
     {
       "added_at": "2024-02-22 09:38:32",

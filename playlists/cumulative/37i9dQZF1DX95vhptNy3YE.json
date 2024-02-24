@@ -509,6 +509,24 @@
     },
     {
       "album": {
+        "name": "Numanice #3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163056,
+      "name": "A Preta Venceu - Ao Vivo",
+      "url": "https://open.spotify.com/track/6U3kssAL4oPYbkYFbkFDJp"
+    },
+    {
+      "album": {
         "name": "A Volta Do Astro-Rei",
         "url": "https://open.spotify.com/album/2LjQqmOByHVX2pHDG68w6p"
       },
@@ -1077,6 +1095,24 @@
     },
     {
       "album": {
+        "name": "Numanice #3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150851,
+      "name": "Baile Charme - Ao Vivo",
+      "url": "https://open.spotify.com/track/55nT7v7CtFduUP7A1CEZvA"
+    },
+    {
+      "album": {
         "name": "Baile da Serra",
         "url": "https://open.spotify.com/album/2Bb73208HjjXHHvwZpalGu"
       },
@@ -1530,7 +1566,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 146490,
       "name": "Boa Sorte Mesmo",
       "url": "https://open.spotify.com/track/4qWBGrLVgn1XiUTRzC3fkx"
@@ -7110,7 +7146,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 313845,
       "name": "Mega da Gang 06",
       "url": "https://open.spotify.com/track/5NF0cMnsvWWg3uhF80Aqio"

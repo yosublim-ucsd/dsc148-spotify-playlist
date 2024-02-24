@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTU0YTNlOWUwZTI3YmI0OTVjOTk0YjMyZDM1MjllZWRkNmY2MTg4",
+  "snapshot_id": "MCw0YjU5MDJlYmRmNDFiOWJlNTMzYzZlOTU1MTQ1YjcxYTc4MzI2MGU3",
   "tracks": [
     {
       "added_at": "2022-10-01 17:37:57",
@@ -63,22 +63,6 @@
     {
       "added_at": "2022-10-01 17:37:57",
       "album": {
-        "name": "If You're Reading This It's Too Late",
-        "url": "https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 320400,
-      "name": "Jungle",
-      "url": "https://open.spotify.com/track/7JXZq0JgG2zTrSOAgY8VMC"
-    },
-    {
-      "added_at": "2022-10-01 17:37:57",
-      "album": {
         "name": "DS2 (Deluxe)",
         "url": "https://open.spotify.com/album/0fUy6IdLHDpGNwavIlhEsl"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 148453,
       "name": "The Percocet & Stripper Joint",
       "url": "https://open.spotify.com/track/1yCVsVH2hQ72SxNI8QTDaB"
+    },
+    {
+      "added_at": "2022-10-01 17:37:57",
+      "album": {
+        "name": "If You're Reading This It's Too Late",
+        "url": "https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 320400,
+      "name": "Jungle",
+      "url": "https://open.spotify.com/track/7JXZq0JgG2zTrSOAgY8VMC"
     },
     {
       "added_at": "2022-10-01 17:37:57",
@@ -215,6 +215,22 @@
     {
       "added_at": "2022-10-01 17:37:57",
       "album": {
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 205721,
+      "name": "Pipe Down",
+      "url": "https://open.spotify.com/track/11pEKMLmavDu8fxOB5QjbQ"
+    },
+    {
+      "added_at": "2022-10-01 17:37:57",
+      "album": {
         "name": "Who is Nardo Wick?",
         "url": "https://open.spotify.com/album/338LPt19lJ2GiGmxDSOAtR"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 225533,
       "name": "Me or Sum (feat. Future & Lil Baby)",
       "url": "https://open.spotify.com/track/2HHLfzE7PkljuqyYU4vwmh"
-    },
-    {
-      "added_at": "2022-10-01 17:37:57",
-      "album": {
-        "name": "Certified Lover Boy",
-        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 205721,
-      "name": "Pipe Down",
-      "url": "https://open.spotify.com/track/11pEKMLmavDu8fxOB5QjbQ"
     },
     {
       "added_at": "2022-10-01 17:37:57",
@@ -323,6 +323,22 @@
     {
       "added_at": "2022-10-01 17:37:57",
       "album": {
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 262453,
+      "name": "Jaded",
+      "url": "https://open.spotify.com/track/4c2xt1trwYZpMqPWY35Xi9"
+    },
+    {
+      "added_at": "2022-10-01 17:37:57",
+      "album": {
         "name": "When I Get Home",
         "url": "https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w"
       },
@@ -355,22 +371,6 @@
     {
       "added_at": "2022-10-01 17:37:57",
       "album": {
-        "name": "LIVE.LOVE.A$AP",
-        "url": "https://open.spotify.com/album/4l6EPpP9hjQrLb8qNB9eC5"
-      },
-      "artists": [
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        }
-      ],
-      "duration_ms": 158133,
-      "name": "Wassup",
-      "url": "https://open.spotify.com/track/1bjTEsJdDdbuA5JsdRRxhP"
-    },
-    {
-      "added_at": "2022-10-01 17:37:57",
-      "album": {
         "name": "My Dear Melancholy,",
         "url": "https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO"
       },
@@ -387,6 +387,22 @@
     {
       "added_at": "2022-10-01 17:37:57",
       "album": {
+        "name": "LIVE.LOVE.A$AP",
+        "url": "https://open.spotify.com/album/4l6EPpP9hjQrLb8qNB9eC5"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "duration_ms": 158133,
+      "name": "Wassup",
+      "url": "https://open.spotify.com/track/1bjTEsJdDdbuA5JsdRRxhP"
+    },
+    {
+      "added_at": "2022-10-01 17:37:57",
+      "album": {
         "name": "blue",
         "url": "https://open.spotify.com/album/3GsV8bdcTiMKRlrRlnnHvo"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 184500,
       "name": "blue",
       "url": "https://open.spotify.com/track/7pt64sepCy5QmDrgy9wOJS"
-    },
-    {
-      "added_at": "2022-10-01 17:37:57",
-      "album": {
-        "name": "Scorpion",
-        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 262453,
-      "name": "Jaded",
-      "url": "https://open.spotify.com/track/4c2xt1trwYZpMqPWY35Xi9"
     },
     {
       "added_at": "2022-10-01 17:37:57",
@@ -471,6 +471,22 @@
     {
       "added_at": "2022-10-01 17:37:57",
       "album": {
+        "name": "Honestly, Nevermind",
+        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 173097,
+      "name": "A Keeper",
+      "url": "https://open.spotify.com/track/0nAZGkBGKQCXyaoSJfRhC1"
+    },
+    {
+      "added_at": "2022-10-01 17:37:57",
+      "album": {
         "name": "Beating Down Yo Block",
         "url": "https://open.spotify.com/album/28R3EJ4K1iU8aR0aoRxIzK"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 288013,
       "name": "Brand New Guy (feat. ScHoolboy Q)",
       "url": "https://open.spotify.com/track/6haTrice1PU59Kd7esp3w1"
-    },
-    {
-      "added_at": "2022-10-01 17:37:57",
-      "album": {
-        "name": "Honestly, Nevermind",
-        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 173097,
-      "name": "A Keeper",
-      "url": "https://open.spotify.com/track/0nAZGkBGKQCXyaoSJfRhC1"
     },
     {
       "added_at": "2022-10-01 17:37:57",

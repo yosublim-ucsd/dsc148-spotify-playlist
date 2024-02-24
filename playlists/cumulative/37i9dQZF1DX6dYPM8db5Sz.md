@@ -4,7 +4,7 @@
 
 > The best Indie sounds from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF?si=ZmzXxL73SwmAIvJ4R7zzkA">Jabulile Majola</a> & <a href="https://open.spotify.com/artist/2TUFDVa7aZJ4O9U0qjrSJH?si=2yqSYjpxSjGfhZJspU3vIg">Yoav</a>
 
-665 songs - 1 day 14 hr 13 min
+666 songs - 1 day 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Cannonball](https://open.spotify.com/track/0s2IQcGz5kqLXWYbEylgzf) | [The World of Birds](https://open.spotify.com/artist/5vtUrecygJ2MBoN3EZgmdC) | [Cannonball](https://open.spotify.com/album/1hU5AwtzXvr19RnrHNOWfB) | 5:30 | 2023-08-24 | 2023-11-18 |
 | [Care](https://open.spotify.com/track/6egdXtpyZGrZwsaESnpHAi) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Care](https://open.spotify.com/album/1X3yeKsuB1sSPXQZ9VChgg) | 4:37 | 2024-02-22 |  |
 | [Care For You](https://open.spotify.com/track/7tcp0h2ypx4PKJaw1Sn1je) | [BuDu](https://open.spotify.com/artist/3VVnkjuNmz9Vt2UpAZTCXB) | [Care For You](https://open.spotify.com/album/3hYqlV8cBdFnwy4dSR3elT) | 3:52 | 2023-05-11 | 2023-07-07 |
+| [Carry Me](https://open.spotify.com/track/2kW2LAlMohQNsroYSIXncM) | [Stephen Willo](https://open.spotify.com/artist/34uEJg0k0siI2NxKK2TeHa), [Cassidy Godwin](https://open.spotify.com/artist/2fCuEFatpJymbazPkYYVi8) | [Carry Me](https://open.spotify.com/album/46wDOIMnP62uR9tjmndXy2) | 2:24 | 2024-02-22 |  |
 | [Carry You Home](https://open.spotify.com/track/57jJsS1qNk12kOUHcRpJMm) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Carry You Home](https://open.spotify.com/album/1W7Xuqc9isSe0erfFGZFpR) | 3:19 | 2023-01-12 | 2023-02-24 |
 | [Catch the Fire](https://open.spotify.com/track/26wr3kGBbCUJbru5I7vETT) | [JOPHKO](https://open.spotify.com/artist/6aMw6xZdqXLCqaBlDxivpE), [David John](https://open.spotify.com/artist/1m6au0R3R0GHgUJumI1spC) | [Catch the Fire](https://open.spotify.com/album/3qt54GBdbmi0g1vNZXnPWm) | 4:40 | 2023-05-11 | 2023-07-07 |
 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 | 2024-01-11 | 2024-01-19 |

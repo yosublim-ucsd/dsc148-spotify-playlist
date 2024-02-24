@@ -4,7 +4,7 @@
 
 > So fresh, so smooth\. Cover: Jonathan Butler
 
-417 songs - 1 day 5 hr 32 min
+418 songs - 1 day 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [Drive](https://open.spotify.com/track/5X2j0GGlmibh2OK99qRzGO) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [Drive](https://open.spotify.com/album/2Xx94sKdbpy6vb55fho0QD) | 4:21 | 2022-06-17 | 2023-03-18 |
 | [Driving All Night](https://open.spotify.com/track/46D1DkTFAG8l1LDQgoeKDz) | [Igor Gerzina](https://open.spotify.com/artist/13OiSfq8TINbHcI9X1BLAW) | [Driving All Night](https://open.spotify.com/album/19kgqKAGo9ELEpX9hw3hBz) | 3:30 | 2022-03-04 | 2023-07-01 |
 | [Early Sunrise](https://open.spotify.com/track/4ZNXj5RoCXuczRCth4t0DT) | [Igor Gerzina](https://open.spotify.com/artist/13OiSfq8TINbHcI9X1BLAW) | [Early Sunrise](https://open.spotify.com/album/3pqWeJefX6sZrmjbo3bfCp) | 3:20 | 2021-06-25 | 2022-09-17 |
-| [Easy](https://open.spotify.com/track/1blOUnjI4cSL9IgCEbI2wm) | [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5) | [Easy](https://open.spotify.com/album/0Af5TGXLXkTwAeMlfADgUi) | 4:05 | 2023-04-28 |  |
+| [Easy](https://open.spotify.com/track/1blOUnjI4cSL9IgCEbI2wm) | [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5) | [Easy](https://open.spotify.com/album/0Af5TGXLXkTwAeMlfADgUi) | 4:05 | 2023-04-28 | 2024-02-24 |
 | [Easy](https://open.spotify.com/track/2QMncvsysL74Zs8EHYWaCz) | [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5) | [Easy](https://open.spotify.com/album/7GKX3h5NvbhW93BSoj8rw3) | 4:05 | 2023-04-28 | 2023-12-24 |
 | [Echoes](https://open.spotify.com/track/2IfPxItRt1NwJDeAZOQRck) | [Steve Cole](https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb) | [Without a Doubt](https://open.spotify.com/album/72AWHYj9AguRbu2x7VzxY9) | 4:39 | 2023-10-06 |  |
 | [Echoes of the Heart](https://open.spotify.com/track/5O5Aa0k1p5fjXmBMDkjTVp) | [Vincent Ingala](https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7), [Chris Geith](https://open.spotify.com/artist/3St6VrtnX5WUVFNNcX1DBb) | [Echoes Of The Heart](https://open.spotify.com/album/4PVrOH383N97LMbLNJCTAy) | 3:58 | 2020-10-30 | 2022-03-17 |
@@ -264,6 +264,7 @@
 | [Nostalgia \(feat\. Elan Trotman\)](https://open.spotify.com/track/21wASZZZJYOEpwSzE98PN3) | [Nathan Mitchell](https://open.spotify.com/artist/3MFEZHs5sogmFDMISdJ5BX), [Elan Trotman](https://open.spotify.com/artist/6DyFOggmoAMvrgPB833pww) | [Nostalgia \(feat\. Elan Trotman\)](https://open.spotify.com/album/69ImAA7LLFuS41R9vQDQuV) | 4:36 | 2021-03-19 | 2022-03-17 |
 | [Notorious](https://open.spotify.com/track/2bMbRpkwCTdBnZsawsBzbg) | [Paul Brown](https://open.spotify.com/artist/4Hisv12GBxgMUsB2eBW5jy), [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Notorious](https://open.spotify.com/album/2XaKa4uAoVL09x1LiRW56z) | 5:06 | 2020-10-30 | 2022-03-17 |
 | [Ocean Breeze](https://open.spotify.com/track/1agamZXMvCbzZKN6F7oopr) | [Rick Habana](https://open.spotify.com/artist/1auijsxorLLC20UDzLG7ds) | [The Collective III](https://open.spotify.com/album/3U9Fm8iGWWEbwNlT0o7wqs) | 4:40 | 2022-04-29 | 2023-08-19 |
+| [Ocean Breeze](https://open.spotify.com/track/4Le65jSJtaXIPNDG9RE5wK) | [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5) | [Ocean Breeze](https://open.spotify.com/album/2nE1n1tx0levn1VJmS7VMe) | 4:12 | 2024-02-23 |  |
 | [Ocean Eyes](https://open.spotify.com/track/7uqirrAiIIibEKrFO20YYi) | [Streetwize](https://open.spotify.com/artist/2gYeRpwQQlTWbqBiAxvkej) | [Ocean Eyes](https://open.spotify.com/album/55obs98uEB9ub1E8wE7kGX) | 4:42 | 2021-01-22 | 2022-03-18 |
 | [Ocean Of Love](https://open.spotify.com/track/53i32tmdLAdHRFreWJUfsJ) | [The Groove Project](https://open.spotify.com/artist/0CR2LOBZJI8NrzYZykxQe5), [Adam Holzman](https://open.spotify.com/artist/1Q4wpwTWP02Nxfa4oTJDlO) | [Ocean Of Love](https://open.spotify.com/album/3PAQowcQirHSZhyyrLtyoY) | 4:08 | 2021-05-07 | 2022-03-09 |
 | [Off the Cuff](https://open.spotify.com/track/5Rfe42z4hAZae1jrQaogem) | [Ragan Whiteside](https://open.spotify.com/artist/4cvyvGmavtDowPmJMHMlUq) | [Off the Cuff](https://open.spotify.com/album/52X8pH95UmbAMg9OnVjUMF) | 4:07 | 2021-05-28 | 2022-03-18 |
@@ -350,7 +351,7 @@
 | [Summer Cool](https://open.spotify.com/track/6NNomm02RjhU5I87qcegN1) | [Gary Honor](https://open.spotify.com/artist/3aqXxbZKJl9CRFZABtpXdp) | [Summer Cool](https://open.spotify.com/album/4CEKyxig8BDRyuMz2DOJks) | 4:10 | 2021-08-06 | 2022-07-28 |
 | [Summer Feelin'](https://open.spotify.com/track/7bUb9LZSTFn447srnC1vPA) | [Eric Darius](https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8), [Paul Jackson, Jr.](https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S) | [Summer Feelin'](https://open.spotify.com/album/70m2RHdocFLeIPpzXEUa45) | 3:58 | 2020-10-30 | 2022-03-16 |
 | [Summer Groove](https://open.spotify.com/track/1WeSHCWNKRixmn9tLNmvKH) | [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5) | [The Best of Tim Bowman](https://open.spotify.com/album/5wRMa0KJ8fa7U8TxhEPvVI) | 11:46 | 2023-10-27 | 2023-12-25 |
-| [Summer Groove](https://open.spotify.com/track/4SMExf2UAgf4k3jZDjelHL) | [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5) | [The Best of Tim Bowman](https://open.spotify.com/album/6jSqCcaTNJdKsRD3JJQoyq) | 11:46 | 2023-10-27 |  |
+| [Summer Groove](https://open.spotify.com/track/4SMExf2UAgf4k3jZDjelHL) | [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5) | [The Best of Tim Bowman](https://open.spotify.com/album/6jSqCcaTNJdKsRD3JJQoyq) | 11:46 | 2023-10-27 | 2024-02-24 |
 | [Summer In Blue](https://open.spotify.com/track/1X9xJud9FozGpsPYbkfkG2) | [Michael Broening](https://open.spotify.com/artist/3LSpP85R3Dszki2XgI2ORG) | [Summer in Blue](https://open.spotify.com/album/3GiuAKDTRdfBVHwBEBnVAU) | 4:29 | 2022-03-25 | 2022-07-29 |
 | [Summer In Blue](https://open.spotify.com/track/24qM1vAqWgIv9CzasSy9nn) | [Michael Broening](https://open.spotify.com/artist/3LSpP85R3Dszki2XgI2ORG) | [Summer in Blue](https://open.spotify.com/album/6jEEFwqCOwADpc4CDRsR0o) | 4:29 | 2022-03-25 | 2023-09-09 |
 | [Summer Solstice](https://open.spotify.com/track/2pRAu9T3XHAf9HNR9vb1jY) | [Anthony Island](https://open.spotify.com/artist/16Qk6lelYJUiCbuZQAPm7v), [Pete Dingon](https://open.spotify.com/artist/5lZnAbDvhOcVlcdIV7ajzC) | [Summer Solstice](https://open.spotify.com/album/3RjqIXF2BUrwBrCwd7kZYz) | 3:20 | 2022-04-15 | 2023-08-12 |

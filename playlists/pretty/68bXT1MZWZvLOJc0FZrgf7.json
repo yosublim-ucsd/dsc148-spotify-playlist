@@ -1,13 +1,33 @@
 {
-  "description": "Dance to your favorite electronic hits \ud83e\udea9 2024 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave \ud83d\udd7a Cover: Icona Pop",
-  "num_followers": 104819,
+  "description": "Dance to your favorite electronic hits \ud83e\udea9 2024 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave \ud83d\udd7a Cover: Gordo",
+  "num_followers": 104817,
   "original_name": "Dance For Days \ud83e\udea9\ud83d\udd7a 2024 EDM",
   "owner": {
     "name": "Filtr US",
     "url": "https://open.spotify.com/user/myplay.com"
   },
-  "snapshot_id": "NDA4NSwxZjVjODNlOWZlNWJlMGRiMjgyYmNkYmRmZDQxOTI0OTc4ODg1ZWVm",
+  "snapshot_id": "NDA4OSw0ODUyMjliYmFjYzQyMTAyOWZmNTg3NmU4Mjk3MTRhZjY3NmYxN2Qw",
   "tracks": [
+    {
+      "added_at": "2024-02-23 14:35:37",
+      "album": {
+        "name": "Kill For This Shit (feat. Young Dolph)",
+        "url": "https://open.spotify.com/album/0WEHkvTwLphaOKZMM1kpok"
+      },
+      "artists": [
+        {
+          "name": "Gordo",
+          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+        },
+        {
+          "name": "Young Dolph",
+          "url": "https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g"
+        }
+      ],
+      "duration_ms": 197343,
+      "name": "Kill For This Shit (feat. Young Dolph)",
+      "url": "https://open.spotify.com/track/5ScpTvVlLoTG9pEJiO1LZF"
+    },
     {
       "added_at": "2024-02-16 14:36:51",
       "album": {
@@ -59,6 +79,22 @@
       "duration_ms": 165120,
       "name": "Karma Is A Bitch Like You - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/0aTVZx2UxqpK81Zqjguf2N"
+    },
+    {
+      "added_at": "2024-02-23 14:35:37",
+      "album": {
+        "name": "Complicated",
+        "url": "https://open.spotify.com/album/2ZK7b7XyfADafiQjJVRwYB"
+      },
+      "artists": [
+        {
+          "name": "Luca Schreiner",
+          "url": "https://open.spotify.com/artist/5fiYAV2DWASxAUKDq7Gbe9"
+        }
+      ],
+      "duration_ms": 128571,
+      "name": "Complicated",
+      "url": "https://open.spotify.com/track/5rBT156U8E2vVCSh5RKIMr"
     },
     {
       "added_at": "2024-02-16 14:36:51",

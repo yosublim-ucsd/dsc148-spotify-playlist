@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "See also <a href=\"spotify:playlist:2z6FM4scrQ5lpsKId0jeki\">Intro</a>, <a href=\"spotify:playlist:1Z5SNtd1IWRRw3ESZfJZKe\">Pulse</a>, <a href=\"spotify:playlist:2xfCdpmPmRtGgNyuk1zawd\">Edge</a>, <a href=\"spotify:playlist:4pVcfz3aYYdCTMdwGHwJJs\">\u2640Filter</a> or <a href=\"spotify:playlist:18NVIhicUeOGx6Ag3x491U\">2023</a>; or the Sounds of <a href=\"spotify:playlist:0evPZ6WIgSKYY2gnlfXIdA\">Renaissance</a>, <a href=\"spotify:playlist:5WjxMg3QfWAmDH7I2MpMoT\">Troubadour</a>, <a href=\"spotify:playlist:0K86fmE0c0SFgz9GpwhwLm\">Early Music</a>, <a href=\"spotify:playlist:0nqJegaRD3nkCjyIwg7mry\">Trouv\u00e8re</a>, <a href=\"spotify:playlist:0AVJ1UKXMQf244cvu4np0k\">Minnesang</a>, <a href=\"spotify:playlist:6zc2HFPnDWeqqsBHhYEQER\">Trecento</a>, <a href=\"spotify:playlist:2uc2oq6wQ8ZLSPmPr4qtte\">Early Music Ensemble</a>, <a href=\"spotify:playlist:511MabrP35Zp3tqYh2G4iJ\">Medieval Ensemble</a>, <a href=\"spotify:playlist:2UKjnmVx8ROXrNxIAeaE7M\">Ars subtilior</a> or <a href=\"spotify:playlist:5uQQu2RC80Ku5AjSpCtrJF\">Madrigal</a>; or much more at <a href=\"http://everynoise.com\">everynoise.com</a>.",
+  "description": "See also <a href=\"spotify:playlist:2z6FM4scrQ5lpsKId0jeki\">Intro</a>, <a href=\"spotify:playlist:1Z5SNtd1IWRRw3ESZfJZKe\">Pulse</a>, <a href=\"spotify:playlist:2xfCdpmPmRtGgNyuk1zawd\">Edge</a>, <a href=\"spotify:playlist:4pVcfz3aYYdCTMdwGHwJJs\">\u2640Filter</a> or <a href=\"spotify:playlist:18NVIhicUeOGx6Ag3x491U\">2023</a>; or the Sounds of <a href=\"spotify:playlist:0evPZ6WIgSKYY2gnlfXIdA\">Renaissance</a>, <a href=\"spotify:playlist:5WjxMg3QfWAmDH7I2MpMoT\">Troubadour</a>, <a href=\"spotify:playlist:0K86fmE0c0SFgz9GpwhwLm\">Early Music</a>, <a href=\"spotify:playlist:0nqJegaRD3nkCjyIwg7mry\">Trouv\u00e8re</a>, <a href=\"spotify:playlist:0AVJ1UKXMQf244cvu4np0k\">Minnesang</a>, <a href=\"spotify:playlist:2uc2oq6wQ8ZLSPmPr4qtte\">Early Music Ensemble</a>, <a href=\"spotify:playlist:6zc2HFPnDWeqqsBHhYEQER\">Trecento</a>, <a href=\"spotify:playlist:511MabrP35Zp3tqYh2G4iJ\">Medieval Ensemble</a>, <a href=\"spotify:playlist:2UKjnmVx8ROXrNxIAeaE7M\">Ars subtilior</a> or <a href=\"spotify:playlist:4FlcRYTkhAqOWkQi9C4dss\">Early Music Choir</a>; or much more at <a href=\"http://everynoise.com\">everynoise.com</a>.",
   "name": "The Sound of Medieval",
   "tracks": [
     {
@@ -76,7 +76,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 876013,
       "name": "A Chantar",
       "url": "https://open.spotify.com/track/53IDumFHPm0UcQbT1uSc0B"
@@ -1248,7 +1248,7 @@
       ],
       "date_added": "2020-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-15",
+      "date_removed": null,
       "duration_ms": 190718,
       "name": "Amours dont sui espris",
       "url": "https://open.spotify.com/track/5f6wbwcXmNlyEmpwFekXhu"
@@ -1406,7 +1406,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-17",
+      "date_removed": null,
       "duration_ms": 281866,
       "name": "Anc no mori per amor ni per al",
       "url": "https://open.spotify.com/track/4tvTC4nt8LK0GHFtzGOGeV"
@@ -1968,7 +1968,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 191693,
       "name": "Ay je rien fet",
       "url": "https://open.spotify.com/track/3Fgq6qs9J5v7UQgtxRGkE3"
@@ -3144,7 +3144,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 484626,
       "name": "Can vei la lauzeta",
       "url": "https://open.spotify.com/track/79h6bCt3IETWeiBVZfqbDC"
@@ -3214,7 +3214,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 411280,
       "name": "Can Vei La Lauzeta Mover",
       "url": "https://open.spotify.com/track/7hcAAAhhCOua4a8Y4TQxEW"
@@ -5530,7 +5530,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 265333,
       "name": "Cuers desirous apaie",
       "url": "https://open.spotify.com/track/3W2yk7rO2OtTH1fJTnxo37"
@@ -6134,7 +6134,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 295773,
       "name": "De poni amor a me",
       "url": "https://open.spotify.com/track/3aUQDKvlBmBwoYvPCK2PNg"
@@ -6794,7 +6794,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 198200,
       "name": "Douce dame (instrumental)",
       "url": "https://open.spotify.com/track/7pH88r1rY7myyo7FM2jbQS"
@@ -8658,7 +8658,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-17",
+      "date_removed": null,
       "duration_ms": 208595,
       "name": "Gloria in excelsis",
       "url": "https://open.spotify.com/track/2PvGnjMLeIz2EX8xX62Hbf"
@@ -10178,7 +10178,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-03",
+      "date_removed": null,
       "duration_ms": 274400,
       "name": "Istampita instrumentale \"Cosa non \u00e8\"",
       "url": "https://open.spotify.com/track/0ET9SvzlUP31o2Oq5FTjqa"
@@ -10336,6 +10336,36 @@
       "duration_ms": 201760,
       "name": "I\u2019 Vivo Amando (Ballata)",
       "url": "https://open.spotify.com/track/3r9lphnhDFkSV0uUZt6Cl2"
+    },
+    {
+      "album": {
+        "name": "Music in Golden-Age Florence 1250-1750",
+        "url": "https://open.spotify.com/album/0DMMXeqjcWwClaWdZjoVNQ"
+      },
+      "artists": [
+        {
+          "name": "Gherardello da Firenze",
+          "url": "https://open.spotify.com/artist/3Ei7qcsfsLzQ5B3rG9CSPu"
+        },
+        {
+          "name": "La Morra",
+          "url": "https://open.spotify.com/artist/6DiL4QelSbjVZ72KE8GK4F"
+        },
+        {
+          "name": "Corina Marti",
+          "url": "https://open.spotify.com/artist/7DEzNvsxPavmmhJ4P6ZPoI"
+        },
+        {
+          "name": "Micha\u0142 Gondko",
+          "url": "https://open.spotify.com/artist/4YRlo2wicp0cqYA2ZLJa7j"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219789,
+      "name": "I\u2019 vo\u2019 bene",
+      "url": "https://open.spotify.com/track/6REl4baVfhrkVpebkA3Zhi"
     },
     {
       "album": {
@@ -10534,7 +10564,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 289970,
       "name": "Ja pour yver",
       "url": "https://open.spotify.com/track/6QGiEx4q4ltuI6ICdKWjDG"
@@ -12848,7 +12878,7 @@
       ],
       "date_added": "2019-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 212466,
       "name": "Ma viele",
       "url": "https://open.spotify.com/track/6ztHGV1LgK2WjncaXPFEWi"
@@ -13410,7 +13440,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-20",
+      "date_removed": null,
       "duration_ms": 724173,
       "name": "Mevlana",
       "url": "https://open.spotify.com/track/6UakGxhmXoj7mjMGF8LgBg"
@@ -13510,7 +13540,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 327133,
       "name": "Mir ist ummaten leyde (I am grieved beyond all measure) (arr. M. Lewon)",
       "url": "https://open.spotify.com/track/5g1ijJ1HYZd0o7s2FqMpE5"
@@ -13610,7 +13640,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-17",
+      "date_removed": null,
       "duration_ms": 498600,
       "name": "Missa de septem doloribus: Credo",
       "url": "https://open.spotify.com/track/6nQ45EgZbpXSDbCSlQMi1S"
@@ -14200,7 +14230,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 330973,
       "name": "Musique profane: I. Una panthera in compagnia di marte",
       "url": "https://open.spotify.com/track/6WG5bLKCHkQQv8LjHDJYO3"
@@ -16666,7 +16696,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 375466,
       "name": "Pois tornatz sui em Proensa",
       "url": "https://open.spotify.com/track/336s8OMAyyK05qOukA4rZ5"
@@ -17024,7 +17054,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-17",
+      "date_removed": null,
       "duration_ms": 284000,
       "name": "Pues Que T\u00fa, Reina del \u00c7ielo",
       "url": "https://open.spotify.com/track/4ya1bXtEcsiaPMW70hRUU3"
@@ -18304,7 +18334,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 354666,
       "name": "S'amour dont sui espris",
       "url": "https://open.spotify.com/track/44dbUYnM9RN2gOT0CAQCjE"
@@ -18968,7 +18998,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 220047,
       "name": "Soleil troubadour",
       "url": "https://open.spotify.com/track/0dVxxgujnBmRLblolM2EbB"
@@ -19754,7 +19784,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2024-02-17",
+      "date_removed": null,
       "duration_ms": 182000,
       "name": "Todos los bienes del mundo",
       "url": "https://open.spotify.com/track/1JjZ3pD2CzUDrqHA7ODPJe"
@@ -20418,7 +20448,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 222973,
       "name": "Venecie mundi splendor / Michael qui Stena domus",
       "url": "https://open.spotify.com/track/07vSZ8HZGKJzZAaPk7bfxZ"

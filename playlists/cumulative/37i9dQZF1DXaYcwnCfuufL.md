@@ -4,14 +4,14 @@
 
 > 우리의 얼과 소리가 담긴 국악음악을 즐겨보세요\. \(커버: 엄유정\(Eom Yu Jeong\)\) \(Enjoy Korean national music with our spirit and sound.\)
 
-55 songs - 8 hr 15 min
+56 songs - 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A girl's prayer](https://open.spotify.com/track/7vCDvQuBoM8Qt6pIoPOfue) | [Gyeong\-cheol, Choi](https://open.spotify.com/artist/4yxVcte5SNz61MDM9AqYzM) | [A girl's prayer](https://open.spotify.com/album/2DjuRMKXFFf57QKCAN3uLf) | 6:20 | 2023-09-15 |  |
 | [A rose garden](https://open.spotify.com/track/0O6St0YXykRwf3FYdW7eqH) | [Gyeong\-cheol, Choi](https://open.spotify.com/artist/4yxVcte5SNz61MDM9AqYzM) | [A rose garden](https://open.spotify.com/album/3VOa0grTjDOFvkbOCCUjZY) | 5:30 | 2023-09-15 |  |
 | [Ajaeng sanjo](https://open.spotify.com/track/4dWROnSUfDpo5JvSaoimWf) | [Min Jiwon](https://open.spotify.com/artist/7qICwgY9vWsu7ECOEjMQ4d) | [Ajaeng sanjo](https://open.spotify.com/album/5WaSZJrYTF3RX5Jtz2lQll) | 11:16 | 2023-09-15 |  |
-| [Baek\-ro Arirang](https://open.spotify.com/track/2zdRTqlNd0Ctp76LaNgbI3) | [DOWONNABI](https://open.spotify.com/artist/7qPofkOV06BLtbK2zq2ALq) | [Baek\-ro Arirang](https://open.spotify.com/album/3X3kevcpAMb8jDR7LFfgfz) | 4:24 | 2023-09-15 |  |
+| [Baek\-ro Arirang](https://open.spotify.com/track/2zdRTqlNd0Ctp76LaNgbI3) | [DOWONNABI](https://open.spotify.com/artist/7qPofkOV06BLtbK2zq2ALq) | [Baek\-ro Arirang](https://open.spotify.com/album/3X3kevcpAMb8jDR7LFfgfz) | 4:24 | 2023-09-15 | 2024-02-24 |
 | [Banyeop](https://open.spotify.com/track/4GqoSJzjyJ4x7PpCybinEH) | [Won Haejung](https://open.spotify.com/artist/5YVk5OOo06qpef0b4NvVE8) | [Banyeop](https://open.spotify.com/album/2SOnkbB5318KMkQrrGWjeD) | 6:47 | 2023-09-15 |  |
 | [Choonhyang engraved in my heart](https://open.spotify.com/track/3zowTqOgrrsPXGF2KR8iZe) | [Lee Eunhee](https://open.spotify.com/artist/65wHmnE7tVi8eLNHHrbqnk) | [Choonhyang engraved in my heart](https://open.spotify.com/album/6GEbUBnMzxjz7hfEie8zbT) | 4:39 | 2023-09-15 |  |
 | [Daegeum sanjo](https://open.spotify.com/track/408P8lHImveOQtSsgQwtvG) | [Park Subin](https://open.spotify.com/artist/2zUsOpznZVJQjmyZgpmTa6) | [Daegeum sanjo](https://open.spotify.com/album/33FWA1Gi7NIa7H4QIWukVD) | 12:53 | 2023-09-15 |  |
@@ -42,6 +42,7 @@
 | [대취타](https://open.spotify.com/track/7pSasaBazpqMNk3Gv9KgOf) | [Chung Chae Kook](https://open.spotify.com/artist/1Uxmf3CMCIztjzyv2tL41g) | [정재국 피리, 태평소 작품집1 \(정악편\)](https://open.spotify.com/album/5OGvPMoDGKBLV8rrl0gBs6) | 11:36 | 2023-09-15 |  |
 | [도화 널그리며](https://open.spotify.com/track/2eSVFZlaW6ucU25a6aSDSo) | [최윤영](https://open.spotify.com/artist/1CAtucnD01c0cW4rUjWq8t) | [도화! 널그리며](https://open.spotify.com/album/76zjgQlv3RcvQsJXReTuGP) | 3:49 | 2023-09-15 |  |
 | [물레의 노래](https://open.spotify.com/track/0aNhE38QupUdLIHouzAOAK) | [Kwon Mihui](https://open.spotify.com/artist/6W4AMK5iL5oZPCfD49PMLc) | [물레의 노래](https://open.spotify.com/album/1kxuJAqukDCtBeBOxFYVnA) | 4:27 | 2023-09-15 |  |
+| [백로 아리랑](https://open.spotify.com/track/1t9gYEHUPxl2ujIR4OTIy5) | [도원나비](https://open.spotify.com/artist/4OONWXz2Rk6yeH27X9ry4v) | [백로 아리랑](https://open.spotify.com/album/36CKd2gzRt3kmk0uW6Oqg5) | 4:19 | 2023-09-15 |  |
 | [백일홍](https://open.spotify.com/track/2b16rfDzZvK1Ji9b0J0Io7) | [솜리가야금연주단](https://open.spotify.com/artist/1eP3QGqfFgEFvdLaQAZOl6) | [Three Story](https://open.spotify.com/album/6VjtdUBLToj02KldH4gL93) | 5:14 | 2023-09-15 |  |
 | [봄서리 Spring Longing](https://open.spotify.com/track/1Rx0Ws4WLHYCvk5gZ8p6sD) | [EveryMood](https://open.spotify.com/artist/3Uvt6itOg5z43fHHUczIve) | [봄서리 Spring Longing \(퓨전 국악 BGM\)](https://open.spotify.com/album/5gn1n1ekvV0C9wJM9pb1zw) | 2:36 | 2023-09-15 |  |
 | [불청객 \(Gate Crasher\)](https://open.spotify.com/track/4f2sWageHQsHbNIEWPudGB) | [신수동 3평 \(SinsuDong 3㎡\)](https://open.spotify.com/artist/3m9ZvDS7jZ7bAZlV6kzv0Z) | [2021 국악창작곡개발\-제15회 21c한국음악프로젝트\(2021 The 15th Annual 21st Century Korean Music Project\)](https://open.spotify.com/album/50oDdTePsN30DruxyyXx6R) | 5:09 | 2023-09-15 |  |

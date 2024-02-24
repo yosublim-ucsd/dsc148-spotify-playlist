@@ -975,6 +975,24 @@
     },
     {
       "album": {
+        "name": "One Bedroom Apartment",
+        "url": "https://open.spotify.com/album/5lcxvlwmGlB8J7k8W269im"
+      },
+      "artists": [
+        {
+          "name": "MAXN",
+          "url": "https://open.spotify.com/artist/2I726pqN0Qn83YXOTnIozL"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216281,
+      "name": "One Bedroom Apartment",
+      "url": "https://open.spotify.com/track/6XEuXtDnH3s42tXRYdowaA"
+    },
+    {
+      "album": {
         "name": "One Way Out",
         "url": "https://open.spotify.com/album/7GowjRTiHy1OtF0AQuqXVS"
       },
@@ -1542,7 +1560,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 219884,
       "name": "The Dandelion",
       "url": "https://open.spotify.com/track/37nRhMFqggMLfWOpTL2vgZ"

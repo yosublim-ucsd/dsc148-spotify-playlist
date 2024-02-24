@@ -1,13 +1,29 @@
 {
   "description": "When the funk is just too funky for words to keep up.",
-  "num_followers": 360326,
+  "num_followers": 360379,
   "original_name": "Instrumental Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Nzk5NmIwOTc4ODAxZmVmYzE0OTdkZTkxMGFkYTVjYTllMDU4NDA2",
+  "snapshot_id": "MCw0NDMwMjE0MDI0MDZhMjYzYmY2MmIyN2NiNDJmM2JkYmExNWJiM2Q4",
   "tracks": [
+    {
+      "added_at": "2024-02-23 05:01:00",
+      "album": {
+        "name": "Incidental Music",
+        "url": "https://open.spotify.com/album/7wJQURyBRRRKwUecXxbI5K"
+      },
+      "artists": [
+        {
+          "name": "Magic In Threes",
+          "url": "https://open.spotify.com/artist/3OucMu53bbF9yGBcqI34ay"
+        }
+      ],
+      "duration_ms": 175024,
+      "name": "Smoked Poke Salad",
+      "url": "https://open.spotify.com/track/502a3Ugy8CfT8fJHU0lgre"
+    },
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
@@ -1527,22 +1543,6 @@
       "duration_ms": 470371,
       "name": "Bambu",
       "url": "https://open.spotify.com/track/2zMTauBe9guPMWLTbG1pAH"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "3 (Remastered)",
-        "url": "https://open.spotify.com/album/38p16DnIi2n5sxiZBat3ML"
-      },
-      "artists": [
-        {
-          "name": "Magic In Threes",
-          "url": "https://open.spotify.com/artist/3OucMu53bbF9yGBcqI34ay"
-        }
-      ],
-      "duration_ms": 138533,
-      "name": "Work Tapes",
-      "url": "https://open.spotify.com/track/6IlJLEMA4tkDBFM4joXEzM"
     },
     {
       "added_at": "2023-08-04 04:01:00",

@@ -4,7 +4,7 @@
 
 > Skandinavisk hiphop som holder det 100! 🚨
 
-144 songs - 6 hr 14 min
+145 songs - 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Dans från dig](https://open.spotify.com/track/2u85ptzhLjdL4iHV5pNUtb) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ), [Sara Kurt](https://open.spotify.com/artist/0ap6IhwNQwrARwuwzTjKIh), [Le Winter](https://open.spotify.com/artist/3dtPDEZGp9vvPpe8reKHUR) | [Dans från dig](https://open.spotify.com/album/0cVVi5pOnxXno0Krda4f8g) | 2:16 | 2023-09-21 |  |
 | [DAY ONE](https://open.spotify.com/track/3zLBP4HtaSYRA4NcAqS3Jo) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [DAY ONE](https://open.spotify.com/album/38IlhNRha2DeYsQ22nwWxj) | 2:28 | 2023-09-21 | 2023-09-29 |
 | [DEJA VU](https://open.spotify.com/track/1lIAdiuji8iJXGHOdAGCj7) | [Hiwá](https://open.spotify.com/artist/6dxaJO4moD1NB2YpmTRg4a) | [ALT DET HER FOR HVA?](https://open.spotify.com/album/6QxpsJgAPM242CqMshoHW3) | 2:19 | 2023-10-19 | 2023-11-11 |
+| [Det Regner Penger \(Allez Allez\)](https://open.spotify.com/track/1CfikWPsR1ao5NFuHnp567) | [AVGVSTVS](https://open.spotify.com/artist/1DegXvs6WLntmyIMrPhaFr) | [Det Regner Penger \(Allez Allez\)](https://open.spotify.com/album/0BDINejKpj8cD0DX3D0L8k) | 1:33 | 2024-02-22 |  |
 | [Distrikt 4](https://open.spotify.com/track/3B25I4fYZ8ARelPX6tCYmV) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5), [Adam Aden](https://open.spotify.com/artist/3tEZ6bzTrFzApPwyyUlADz) | [Distrikt 4](https://open.spotify.com/album/0YyPqDxwT8jeZYequlNmsJ) | 2:06 | 2024-02-09 |  |
 | [Dreams](https://open.spotify.com/track/2e9JCw6tagF1APPHXWy6ff) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [M.O.B](https://open.spotify.com/album/3OayJHDFHtATwvDVJ8ccuT) | 2:08 | 2023-09-21 |  |
 | [Du & Jag](https://open.spotify.com/track/1fOZciVVoZ1RqpuO5i2hbU) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [Du & Jag](https://open.spotify.com/album/0UJ1RyPtQ9EMQmbBL8ZnUK) | 2:12 | 2023-09-21 |  |
@@ -115,7 +116,7 @@
 | [Psykopat](https://open.spotify.com/track/4ImKE5dAPoZoDxKKwIimhn) | [Steph K](https://open.spotify.com/artist/4vmK9BYZz3j7jEWiHQJU6G) | [Psykopat](https://open.spotify.com/album/04b3i3XY9YuRuP8dIKxh9d) | 2:09 | 2023-10-05 | 2024-01-23 |
 | [ROCKARE](https://open.spotify.com/track/3vVdmgwmY5xbKQ3Oh074Lc) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [TRAPEN TILL RADION](https://open.spotify.com/album/7iAffbVeIbgvwwz04XOt5k) | 2:14 | 2023-09-21 | 2024-02-11 |
 | [Roser](https://open.spotify.com/track/0Bf8Kte0qL9GXQszfqbRLM) | [Tyr](https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE) | [Roser](https://open.spotify.com/album/1PX57v6vo13dlBDyJnPzUf) | 2:39 | 2023-11-16 | 2024-01-12 |
-| [Ryktet sier \(ft\. Arif Murakami\)](https://open.spotify.com/track/4bONrMmoqGMrrDzrPERrqv) | [Chris Abolade](https://open.spotify.com/artist/4wqjUmydj8rX3foHUjNOtB), [Arif Murakami](https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q) | [Ryktet sier \(ft\. Arif Murakami\)](https://open.spotify.com/album/10yyOXjdgOq66TXdVF3Z03) | 2:36 | 2024-01-11 |  |
+| [Ryktet sier \(ft\. Arif Murakami\)](https://open.spotify.com/track/4bONrMmoqGMrrDzrPERrqv) | [Chris Abolade](https://open.spotify.com/artist/4wqjUmydj8rX3foHUjNOtB), [Arif Murakami](https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q) | [Ryktet sier \(ft\. Arif Murakami\)](https://open.spotify.com/album/10yyOXjdgOq66TXdVF3Z03) | 2:36 | 2024-01-11 | 2024-02-24 |
 | [Rädda mig](https://open.spotify.com/track/412YYGmYAYGhQUycB3GPoc) | [Mohelá](https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ), [Den svenska björnstammen](https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G) | [Rädda mig](https://open.spotify.com/album/6NyE3oHY83RrfypKR1FFbu) | 2:23 | 2023-09-21 |  |
 | [Saint Laurent](https://open.spotify.com/track/1MFHhIk4t2w4K6amxMYV9Y) | [Robin Kadir](https://open.spotify.com/artist/4juMqlCDk4p6TrM7JXfSw2), [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [Saint Laurent](https://open.spotify.com/album/5lKomx0E7DTWYVCrK4nBDC) | 2:48 | 2023-09-21 |  |
 | [Salam](https://open.spotify.com/track/2mHppKj9X1ixv9miy2cdoz) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Salam](https://open.spotify.com/album/56xgHK320guDeJaXou4VQu) | 2:17 | 2023-09-21 |  |

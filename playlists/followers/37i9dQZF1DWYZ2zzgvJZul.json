@@ -1,5 +1,5 @@
 {
-  "2024-02-23": 133425,
+  "2024-02-24": 133464,
   "date_first_scraped": "2022-01-02",
   "description": "\u00c9xitos del momento y lo \u00faltimo de artistas nuevos y consagrados. En portada: Isla Mujeres",
   "name": "Nuevo Rock Latino",
@@ -3995,10 +3995,28 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 169677,
       "name": "ROCK BARRIAL TIPO COUNTRY",
       "url": "https://open.spotify.com/track/3fA6H7qXllsOiSi7n445Dk"
+    },
+    {
+      "album": {
+        "name": "PRENSADO",
+        "url": "https://open.spotify.com/album/2tkeaVfODlKqe0lLqgARYd"
+      },
+      "artists": [
+        {
+          "name": "Terapia",
+          "url": "https://open.spotify.com/artist/5sIea266s3izLKCqmH1SRk"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169677,
+      "name": "ROCK BARRIAL TIPO COUNTRY",
+      "url": "https://open.spotify.com/track/6YpJwech17LNB280HUnaWr"
     },
     {
       "album": {

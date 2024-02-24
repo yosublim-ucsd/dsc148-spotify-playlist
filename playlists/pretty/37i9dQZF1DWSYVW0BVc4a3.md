@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 
 > The stomping ground.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,689 likes - 129 songs - 8 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,910 likes - 129 songs - 8 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 | 12 | [Perception](https://open.spotify.com/track/1ekuYNPiJXmXqb92TORiPX) | [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U) | [Perception](https://open.spotify.com/album/2VAQkslaimMoY3kAIBwash) | 4:42 |
 | 13 | [Pictures Of You](https://open.spotify.com/track/1D5ifTPFnQWDnSxSAfc1hc) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Pictures Of You](https://open.spotify.com/album/0D73jRe3U7onYOiX6jpYJO) | 2:55 |
 | 14 | [Shelter](https://open.spotify.com/track/2scX5RdL0wByroF3sCBzDX) | [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e), [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [The Belonging](https://open.spotify.com/album/3HOoATRaFgwq2VsAaWvmbh) | 4:14 |
-| 15 | [Look The Other Way](https://open.spotify.com/track/5x9tTch2LsMNPReORReT7I) | [LUMI](https://open.spotify.com/artist/2GhZq7k05EWdvb4cS2RQG5) | [Look The Other Way](https://open.spotify.com/album/3gqQjbbgkdbKUeBYtXeHdI) | 3:33 |
+| 15 | [Look The Other Way](https://open.spotify.com/track/5oEJg0qBp6gdAxQdplBZqL) | [LUMI](https://open.spotify.com/artist/2GhZq7k05EWdvb4cS2RQG5) | [Look The Other Way](https://open.spotify.com/album/0zPcVDVk6uPmGPOFWHtLAW) | 3:33 |
 | 16 | [Mwaki \- Duke Dumont & Kiko Franco Remix](https://open.spotify.com/track/7f3b3OIY81qiZUpsmGMSpZ) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [Kiko Franco](https://open.spotify.com/artist/3SNKZ8uTQoSyMsUNqNBOD2), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Mwaki \(Duke Dumont & Kiko Franco Remix\)](https://open.spotify.com/album/0zUkbyk7txpE5wkLjbeup5) | 2:33 |
 | 17 | [Rhythm Machine](https://open.spotify.com/track/7qhYyXBbL12mPyj93PyUBb) | [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu), [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [Rhythm Machine](https://open.spotify.com/album/0K0ttvuvuaeNPKF9bQ8GmV) | 3:07 |
 | 18 | [444](https://open.spotify.com/track/7gjxXndvML1DoJeB6izQPa) | [Malóne](https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM) | [444](https://open.spotify.com/album/1kBqRa2e2terLD72aVHvsk) | 3:16 |
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 | 128 | [Hot Night](https://open.spotify.com/track/5xcmBLG9VO1ILZtUjNP4q8) | [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [HANA](https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o) | [Hot Night](https://open.spotify.com/album/1TsV2l0AtV32o8nQCjsnlv) | 3:58 |
 | 129 | [Only You](https://open.spotify.com/track/6xAGaIRVA3rddnDzzjsb5u) | [Max Kaluza](https://open.spotify.com/artist/6lNLgymfWudNsbC0Vio7Qi) | [Picture Perfect EP](https://open.spotify.com/album/0C6LlsjVraJSPkdLZAsMhf) | 2:40 |
 
-Snapshot ID: `MCxiNGNiYmM3YzYyMWU0MzQ2YTIxMTBlNjQwNTFjYmFiNjg1ZDE2ZWI4`
+Snapshot ID: `MCw2NmJjMDFhYzk1NTJkYmE1M2Y3YTNmODViZDRhNjVkZjU3NzAxM2Jm`

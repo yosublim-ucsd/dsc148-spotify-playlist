@@ -2295,6 +2295,28 @@
     },
     {
       "album": {
+        "name": "Kalitha Hudugi 3.0",
+        "url": "https://open.spotify.com/album/2bTu7wXCFCy5DnCFBIIAkO"
+      },
+      "artists": [
+        {
+          "name": "Dheemusix",
+          "url": "https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo"
+        },
+        {
+          "name": "Karthik N B",
+          "url": "https://open.spotify.com/artist/3r82HAo6mMhQwgsa2Bj9RC"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205662,
+      "name": "Kalitha Hudugi 3.0",
+      "url": "https://open.spotify.com/track/4Ck7u07WKdzIVq8DpOToQM"
+    },
+    {
+      "album": {
         "name": "Kanasella",
         "url": "https://open.spotify.com/album/4VyGp00IzrXHFCp4FXWx0B"
       },

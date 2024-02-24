@@ -357,6 +357,24 @@
     },
     {
       "album": {
+        "name": "Humo y Tequila",
+        "url": "https://open.spotify.com/album/0VMJ1Z2uByksrNmrcsVCS0"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269038,
+      "name": "Humo y Tequila",
+      "url": "https://open.spotify.com/track/0MXSsoo0t2UDuqpISvdU3A"
+    },
+    {
+      "album": {
         "name": "Ilegal",
         "url": "https://open.spotify.com/album/7zyXMZhsIIts324w7hEGBC"
       },
@@ -764,7 +782,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 218932,
       "name": "No Vale La Pena",
       "url": "https://open.spotify.com/track/6L2vmngcyjUFuwRBCJCNqA"

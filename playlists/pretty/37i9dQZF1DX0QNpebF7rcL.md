@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 
 > The best in blues right now\. Cover: Robert Finley
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,714 likes - 100 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,753 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Brand New Bone](https://open.spotify.com/track/3xFZLwKxEBFAssWUKcvju9) | [Altered Five Blues Band](https://open.spotify.com/artist/7idP7O5Y5lvJw4XFeAJxzg) | [Brand New Bone](https://open.spotify.com/album/6ufWHuaTQfwuR8r5eX8kTE) | 3:18 |
-| 2 | [Heavy Soul](https://open.spotify.com/track/3aZtRvQ7PvcquxVGjNYJDZ) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Heavy Soul](https://open.spotify.com/album/3ErX87cvZzUDipGiJsoepu) | 5:08 |
-| 3 | [Backbone Slip](https://open.spotify.com/track/0SeprpfgKltu37wRFpsDif) | [Seasick Steve](https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv) | [Backbone Slip](https://open.spotify.com/album/1V7Sy4Jpilm8EGjpyGrM5f) | 4:19 |
-| 4 | [Emmylou](https://open.spotify.com/track/2cljs0ErJpveRVB383KVWE) | [Albert Cummings](https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg) | [Strong](https://open.spotify.com/album/4mqWvIxFw14JnBriQgJ8Oy) | 3:26 |
-| 5 | [Death Letter Blues](https://open.spotify.com/track/4puWQaJshTiBkNMVmp9Aqa) | [Tinsley Ellis](https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on) | [Naked Truth](https://open.spotify.com/album/456DsBFuWSDf02fYcPqp1i) | 4:27 |
-| 6 | [Forever My Love](https://open.spotify.com/track/5ZhwW7XtyPMAmtGdvCa905) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Forever My Love](https://open.spotify.com/album/5LnXyWnbFPJWDIIvkb9rlD) | 6:19 |
+| 1 | [These Eyes](https://open.spotify.com/track/0OmQOtewFFJX5Mmnu3siNk) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Life Is Hard](https://open.spotify.com/album/3fmvPlosqu7RMW0GkVx3KO) | 5:09 |
+| 2 | [Brand New Bone](https://open.spotify.com/track/3xFZLwKxEBFAssWUKcvju9) | [Altered Five Blues Band](https://open.spotify.com/artist/7idP7O5Y5lvJw4XFeAJxzg) | [Brand New Bone](https://open.spotify.com/album/6ufWHuaTQfwuR8r5eX8kTE) | 3:18 |
+| 3 | [Heavy Soul](https://open.spotify.com/track/3aZtRvQ7PvcquxVGjNYJDZ) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Heavy Soul](https://open.spotify.com/album/3ErX87cvZzUDipGiJsoepu) | 5:08 |
+| 4 | [Backbone Slip](https://open.spotify.com/track/0SeprpfgKltu37wRFpsDif) | [Seasick Steve](https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv) | [Backbone Slip](https://open.spotify.com/album/1V7Sy4Jpilm8EGjpyGrM5f) | 4:19 |
+| 5 | [Emmylou](https://open.spotify.com/track/2cljs0ErJpveRVB383KVWE) | [Albert Cummings](https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg) | [Strong](https://open.spotify.com/album/4mqWvIxFw14JnBriQgJ8Oy) | 3:26 |
+| 6 | [Death Letter Blues](https://open.spotify.com/track/4puWQaJshTiBkNMVmp9Aqa) | [Tinsley Ellis](https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on) | [Naked Truth](https://open.spotify.com/album/456DsBFuWSDf02fYcPqp1i) | 4:27 |
 | 7 | [Broken](https://open.spotify.com/track/3dhamjUEZo7psHbg8w4pRJ) | [Walter Trout](https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq), [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Broken](https://open.spotify.com/album/2wPwMww3vLuD5vh5a0krZw) | 4:50 |
 | 8 | [I Aim To Please](https://open.spotify.com/track/4cJfBE0o71c03ofhWrUg3s) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W), [Danielle Nicole](https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn) | [I Aim To Please](https://open.spotify.com/album/3elonJfOnK47NEW06nVnfh) | 4:23 |
 | 9 | [Four Day Creep](https://open.spotify.com/track/2r46l03PjLiW5Xy6BLMfbj) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Peter Frampton](https://open.spotify.com/artist/0543y7yrvny4KymoaneT4W) | [Four Day Creep](https://open.spotify.com/album/5NlKdlWeryULQL6rGI5bzW) | 3:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 | 99 | [Bonnie](https://open.spotify.com/track/1PNPixI2jwff1KZDJtStTz) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Scoundrel](https://open.spotify.com/album/4vphCYhZVlxcbIste3zR3O) | 4:37 |
 | 100 | [She Calls Me Kingfish](https://open.spotify.com/track/7txQNFAmmzHJezbLSVCclc) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [662](https://open.spotify.com/album/3oHvQF3GcnbPRsnp2pieAZ) | 3:12 |
 
-Snapshot ID: `MCxlYWM2MWNjYTY1N2NmN2FmM2E0MmJkN2IyY2E5YmYwNGNlMzE5MGE4`
+Snapshot ID: `MCw2NTkzMWU5NWYxNTc1NjFlZDMyMTgxNjcwMWYzNWI2MTk2MWUyOGI1`

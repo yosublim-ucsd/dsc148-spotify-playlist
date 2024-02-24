@@ -2,9 +2,9 @@
 
 ### [IndiEnglish](https://open.spotify.com/playlist/37i9dQZF1DX6sDj4CL6UK6)
 
-> Top English songs from Asia\. Cover: Dot.
+> Top English songs from Asia\. Cover: Kamakshi Khanna
 
-277 songs - 16 hr 3 min
+278 songs - 16 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@
 | [Imposter](https://open.spotify.com/track/5FNT87UIyz9TehAbTpAdUW) | [The Coconut Milk Project](https://open.spotify.com/artist/7ME0Ae7qHNi4yPx7362ZF2) | [Imposter](https://open.spotify.com/album/3SIczDLy4INHEsorycPJD1) | 3:28 | 2022-03-25 | 2023-01-13 |
 | [In Denial](https://open.spotify.com/track/5edvBrslsD6xcBK3fWnQ75) | [Shourya Malhotra](https://open.spotify.com/artist/7D5PI5MuJaKxuAtVOxwzxS), [Varun Rajput](https://open.spotify.com/artist/5XoXIVEIaJcT3UUzhpzIlG), [roradoll](https://open.spotify.com/artist/3C56MZWRI4I9xzg2wp4Zn1), [Ishita Singh](https://open.spotify.com/artist/1hdsXhKriey9WLVnh4iNDO) | [In Denial](https://open.spotify.com/album/7AxIG2v1FOuaZX0L08D3H4) | 3:09 | 2022-06-29 | 2023-01-13 |
 | [In My Zone](https://open.spotify.com/track/51JtkaZ5scmC6VH4PIZNQ1) | [Mary Ann Alexander](https://open.spotify.com/artist/5Nd0pl530GmwyCK1lRGQqd), [Pranay Parti](https://open.spotify.com/artist/0PZmx7d0zgDWcm7HTvngcy) | [In My Zone](https://open.spotify.com/album/5u5UQEwrlo0XtEYYO93bEP) | 2:45 | 2023-01-10 | 2023-01-18 |
-| [Indigo](https://open.spotify.com/track/7mlGKWXA5ZV6HZibmRruqD) | [Dot.](https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4) | [Indigo](https://open.spotify.com/album/1eGowsUsY6D99t8NsxpRK7) | 3:20 | 2023-03-18 |  |
+| [Indigo](https://open.spotify.com/track/7mlGKWXA5ZV6HZibmRruqD) | [Dot.](https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4) | [Indigo](https://open.spotify.com/album/1eGowsUsY6D99t8NsxpRK7) | 3:20 | 2023-03-18 | 2024-02-24 |
 | [Inside Out](https://open.spotify.com/track/7LIAu8r9Zv92LF8ZpKq5Zn) | [Thermal And A Quarter](https://open.spotify.com/artist/6lF7uyAQEbDrnFNAXyyQQ6) | [Inside Out](https://open.spotify.com/album/414ncNsZZbp83LU3VtH8n2) | 5:46 | 2022-03-25 | 2023-01-13 |
 | [Into the Woods](https://open.spotify.com/track/6tS5yFBtVzDEAsbgk4DONu) | [Prashanth Techno](https://open.spotify.com/artist/4JFVZaGeqeKsZTec9xdUwc), [Aashaaa](https://open.spotify.com/artist/5JSviKyDNcTH0oLphFrpVx) | [Into the Woods](https://open.spotify.com/album/3jwR7GNB7jLzHO18nVAzdu) | 3:59 | 2022-03-25 | 2023-01-13 |
 | [I’m On Your Side](https://open.spotify.com/track/5NUFanXmuh51dgRQ18xRAQ) | [Trance Effect](https://open.spotify.com/artist/21P08lfKfkMN14Fs25E93A) | [I’m On Your Side](https://open.spotify.com/album/0rW3Lx8FykpGzsp2d3AZkE) | 2:43 | 2022-03-25 | 2023-06-08 |
@@ -152,6 +152,7 @@
 | [love is growing](https://open.spotify.com/track/1xzKJE6Q1fOhXLzYOCXXQg) | [Plastic Plastic](https://open.spotify.com/artist/0YjEWrRKD9nBJfeF5eLdBd) | [love is growing](https://open.spotify.com/album/422FUc3Fc4UG1Cn9CeeOAQ) | 2:58 | 2023-05-19 |  |
 | [Love Is Love](https://open.spotify.com/track/4QOhdspHbF735AWRRGJ7Zn) | [Anoushka Maskey](https://open.spotify.com/artist/2nDgCBr8jDMiGFjTkwR6ph), [Cosmic Grooves](https://open.spotify.com/artist/3dhy3RnTmsYSl0kZwIPOpn), [Mismatched](https://open.spotify.com/artist/3TR3Ehl4idJ38cJo2K3PlF) | [Mismatched: Season 2 \(Music from the Netflix Series\)](https://open.spotify.com/album/2bJRbj971pXenefii5i3mY) | 2:52 | 2022-09-30 | 2022-11-17 |
 | [Love Is Love](https://open.spotify.com/track/6WOsXP6xYpm6KI1oHGiFo0) | [Mismatched \- Cast](https://open.spotify.com/artist/0NbgKDsEHiPzZBZkqZGkXm), [Anoushka Maskey](https://open.spotify.com/artist/2nDgCBr8jDMiGFjTkwR6ph), [Cosmic Grooves](https://open.spotify.com/artist/3dhy3RnTmsYSl0kZwIPOpn) | [Mismatched: Season 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0bPV8j4jfsKeoW5P3YQInX) | 2:52 | 2022-10-20 |  |
+| [Love Is Not A Fucking Game](https://open.spotify.com/track/0cj465OG5QJUhPJfF9Oxjg) | [Kamakshi Khanna](https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq) | [Love Is Not A Fucking Game](https://open.spotify.com/album/1aa2y3XAePhsxfvaiPl83v) | 3:30 | 2024-02-23 |  |
 | [Lovesong for an Apocalypse](https://open.spotify.com/track/7HzqVQQ8ZB8EmhQoWIhlBH) | [Long Distances](https://open.spotify.com/artist/6MiMbMXBsR73FeQhJc1Ya4) | [Lovesong for an Apocalypse](https://open.spotify.com/album/0kB2Om6RFqS6xnVApcz1SM) | 5:20 | 2023-02-22 | 2023-03-04 |
 | [Loving And Letting Go](https://open.spotify.com/track/3Zv4HZiyM8TeAbYGdWysXw) | [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [The Greng Jai Piece](https://open.spotify.com/album/1I9TAJhnJucoNfu2KX8Hcg) | 3:48 | 2023-05-19 |  |
 | [Lt Dwn](https://open.spotify.com/track/4f1spv2bssB5VP9VGgzH1i) | [Moondrip](https://open.spotify.com/artist/4nDtB3eC5cOCiA27wYqDTh) | [Lt Dwn](https://open.spotify.com/album/5ldsw3j4SYLuTmtc4jLWGm) | 4:07 | 2022-03-25 | 2023-05-24 |

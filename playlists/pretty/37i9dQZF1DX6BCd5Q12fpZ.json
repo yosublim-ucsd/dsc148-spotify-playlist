@@ -1,12 +1,12 @@
 {
   "description": "Floor fillers from the long, illustrious history of the show. Cover: Verka Serduchka",
-  "num_followers": 65430,
+  "num_followers": 65437,
   "original_name": "Eurovision Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNTU5OGFmODFkNmYwMTUxN2YyNzI4MTViM2JmNDMzYmQxNTU1ODYz",
+  "snapshot_id": "MCxlZDc3ZDU4YjkwMDIxNTg0ZDllNThhNmZmMmE2NWYzODllMWE5ODRh",
   "tracks": [
     {
       "added_at": "2023-05-05 17:20:54",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "The New Seekers",
-        "url": "https://open.spotify.com/album/0439cWYJRibTFks4Re28ES"
-      },
-      "artists": [
-        {
-          "name": "The New Seekers",
-          "url": "https://open.spotify.com/artist/4jrTNltJtTMUfXybDdsHDn"
-        }
-      ],
-      "duration_ms": 167333,
-      "name": "Beg, Steal Or Borrow",
-      "url": "https://open.spotify.com/track/5qyE3nSkh3KRfLzISfXYDc"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "If Love Was a Crime (Eurovision 2016 - Bulgaria)",
         "url": "https://open.spotify.com/album/1CeeOXzTsGhGGvjIaDiocW"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 179481,
       "name": "If Love Was a Crime - Eurovision 2016 - Bulgaria",
       "url": "https://open.spotify.com/track/1G5qDCiqei7ozj5ku43TuR"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "The New Seekers",
+        "url": "https://open.spotify.com/album/0439cWYJRibTFks4Re28ES"
+      },
+      "artists": [
+        {
+          "name": "The New Seekers",
+          "url": "https://open.spotify.com/artist/4jrTNltJtTMUfXybDdsHDn"
+        }
+      ],
+      "duration_ms": 167333,
+      "name": "Beg, Steal Or Borrow",
+      "url": "https://open.spotify.com/track/5qyE3nSkh3KRfLzISfXYDc"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -927,6 +927,22 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
+        "name": "OKTA",
+        "url": "https://open.spotify.com/album/2gNZBa0K1b0MzWN0FBSWpT"
+      },
+      "artists": [
+        {
+          "name": "KEiiNO",
+          "url": "https://open.spotify.com/artist/0chh7dlaUzEreDTulHiOlm"
+        }
+      ],
+      "duration_ms": 185157,
+      "name": "Spirit In The Sky",
+      "url": "https://open.spotify.com/track/2C2BmWM90rql9SJjPZwAuy"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
         "name": "Vive la vie (Edition sp\u00e9ciale)",
         "url": "https://open.spotify.com/album/64TJ7px9P7xSUXHB3604uf"
       },
@@ -1007,22 +1023,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Occidentali's Karma (Eurovision Version)",
-        "url": "https://open.spotify.com/album/50fjsJpz6QKCGUUo9GlD6E"
-      },
-      "artists": [
-        {
-          "name": "Francesco Gabbani",
-          "url": "https://open.spotify.com/artist/5lzqFxifzjxYHGJxuwQqtR"
-        }
-      ],
-      "duration_ms": 183163,
-      "name": "Occidentali's Karma (Eurovision Version)",
-      "url": "https://open.spotify.com/track/7nBGd4jSPgvdJn97sdrFK5"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "This Gig Almost Got Me Killed",
         "url": "https://open.spotify.com/album/2iOWFL3Nvw6HEhXfSxFe2K"
       },
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "OKTA",
-        "url": "https://open.spotify.com/album/2gNZBa0K1b0MzWN0FBSWpT"
+        "name": "Occidentali's Karma (Eurovision Version)",
+        "url": "https://open.spotify.com/album/50fjsJpz6QKCGUUo9GlD6E"
       },
       "artists": [
         {
-          "name": "KEiiNO",
-          "url": "https://open.spotify.com/artist/0chh7dlaUzEreDTulHiOlm"
+          "name": "Francesco Gabbani",
+          "url": "https://open.spotify.com/artist/5lzqFxifzjxYHGJxuwQqtR"
         }
       ],
-      "duration_ms": 185157,
-      "name": "Spirit In The Sky",
-      "url": "https://open.spotify.com/track/2C2BmWM90rql9SJjPZwAuy"
+      "duration_ms": 183163,
+      "name": "Occidentali's Karma (Eurovision Version)",
+      "url": "https://open.spotify.com/track/7nBGd4jSPgvdJn97sdrFK5"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -1219,18 +1219,22 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Young Love",
-        "url": "https://open.spotify.com/album/25yASEbY2Pz60pCnx7l3kx"
+        "name": "Rise Up",
+        "url": "https://open.spotify.com/album/2oEUzpZoU88zdrioGuiAGR"
       },
       "artists": [
         {
-          "name": "Jedward",
-          "url": "https://open.spotify.com/artist/3WmFNCPmnVuZbVMeExH8hT"
+          "name": "Freaky Fortune",
+          "url": "https://open.spotify.com/artist/5cRocmkAjNUol2bK9v2Ce0"
+        },
+        {
+          "name": "Riskykidd",
+          "url": "https://open.spotify.com/artist/3lDfsS6EuLofMXRdKpypb2"
         }
       ],
-      "duration_ms": 183093,
-      "name": "Waterline",
-      "url": "https://open.spotify.com/track/0xCMGAf80y3dUevG2qXpvS"
+      "duration_ms": 182133,
+      "name": "Rise Up - Eurovision Version",
+      "url": "https://open.spotify.com/track/0HmQrQ3whzQgMTshgDR2F5"
     }
   ],
   "unique_name": "Eurovision Party",

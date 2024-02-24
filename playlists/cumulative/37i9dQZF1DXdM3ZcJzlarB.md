@@ -2,9 +2,9 @@
 
 ### [mint argentina](https://open.spotify.com/playlist/37i9dQZF1DXdM3ZcJzlarB)
 
-> Lo nuevo y lo más destacado de la electrónica nacional\. Portada: Peces Raros
+> Lo nuevo y lo más destacado de la electrónica nacional\. Portada: Taiu
 
-137 songs - 14 hr 45 min
+138 songs - 14 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Vectoria \- Original Mix](https://open.spotify.com/track/0Ww28y8TkdNMhijhYgNbe7) | [John Cosani](https://open.spotify.com/artist/2LRGIZMAT8HDCNQvMqgcFg) | [Vectoria](https://open.spotify.com/album/4Vs7EUAgcGDxfZ7SFpauhH) | 8:00 | 2020-09-04 | 2023-11-18 |
 | [Voltaire](https://open.spotify.com/track/2qNyupNqF0BTrEXAu8DWwy) | [Analog Jungs](https://open.spotify.com/artist/7xsRDdsB4gzJqlbMiuowa1) | [Voltaire EP](https://open.spotify.com/album/1XPSLd8egeo4SE72lE2yjn) | 10:41 | 2020-09-04 | 2023-11-18 |
 | [Voltaire](https://open.spotify.com/track/6RhZ3wEOHmJpZGuXhfl2HJ) | [Analog Jungs](https://open.spotify.com/artist/7xsRDdsB4gzJqlbMiuowa1) | [Voltaire](https://open.spotify.com/album/1fLFRG742JTDx3eilXsbnM) | 10:41 | 2020-09-04 | 2022-07-29 |
+| [Welcome To My Garden](https://open.spotify.com/track/52NpNpegyHrbnPkJRLtB7k) | [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic) | [Transcendental Shifts](https://open.spotify.com/album/5z3ghHDoycJIpSD3meyPj7) | 4:36 | 2024-02-23 |  |
 | [You](https://open.spotify.com/track/4y7vFdToiMWc39r50bDAD6) | [Ezequiel Arias](https://open.spotify.com/artist/6GyqhF3pwKcbo3U3Ncm8TJ), [Folgar](https://open.spotify.com/artist/4VUsFXk67zxZVz1UJxBNV6) | [You](https://open.spotify.com/album/0AesViTH39o6tWSWcei7oV) | 3:50 | 2024-01-12 |  |
 | [Yourself](https://open.spotify.com/track/0gqRo4CEhOelcTli6HrzN5) | [Agus Zack](https://open.spotify.com/artist/5lgGTdDt54gaRQqbbOsnwK), [Toni Costanzi](https://open.spotify.com/artist/4aBVngE7ykpEkvJaHJbywT), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Yourself](https://open.spotify.com/album/6e016qtkfE5gDDEPD7SzN5) | 2:07 | 2024-01-05 |  |
 | [¿De Qué Sirve?](https://open.spotify.com/track/0nj6RDxpCQOBawgxFzYLEm) | [Amelia](https://open.spotify.com/artist/54DOvUaX10WtpRddMhbI4P), [Lnt\. Noire](https://open.spotify.com/artist/6iQaNTW8QA5orel0VJRkGt) | [ONÍRIKA](https://open.spotify.com/album/6QLEJbuQAJnC8u62fMpr0b) | 4:40 | 2023-11-17 |  |

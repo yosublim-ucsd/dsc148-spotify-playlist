@@ -1,12 +1,12 @@
 {
   "description": "The moody sound of easy listening from the 50's and 60's. Cover: Percy Faith",
-  "num_followers": 83979,
+  "num_followers": 84026,
   "original_name": "Classic Easy Listening",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZDQzZGUzMjY1NzU1OThjNDY1NjMwODQ4M2FmOGQ3Y2Y5OWYwOTQ4",
+  "snapshot_id": "MCxkNTA0YTE5MTVhY2M4ODcwMzkzNzQxNmFkNjNmNjFjMTgzMWE2NjUy",
   "tracks": [
     {
       "added_at": "2024-02-22 08:48:31",
@@ -291,18 +291,18 @@
     {
       "added_at": "2024-02-22 08:48:31",
       "album": {
-        "name": "Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/2NGgziFUMP8Hs3S7WysJi1"
+        "name": "The Best Of Nelson Riddle",
+        "url": "https://open.spotify.com/album/1ZBWBWcN8IQFYRgC0jwLOl"
       },
       "artists": [
         {
-          "name": "Percy Faith",
-          "url": "https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE"
+          "name": "Nelson Riddle",
+          "url": "https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb"
         }
       ],
-      "duration_ms": 148106,
-      "name": "Our Love",
-      "url": "https://open.spotify.com/track/1GWSHN7cCSTdX1kULdoVPh"
+      "duration_ms": 144666,
+      "name": "The Green Leaves Of Summer",
+      "url": "https://open.spotify.com/track/3IM5KByL9vEigcg7WqORhv"
     },
     {
       "added_at": "2024-02-22 08:48:31",
@@ -351,18 +351,18 @@
     {
       "added_at": "2024-02-22 08:48:31",
       "album": {
-        "name": "The Best Of Nelson Riddle",
-        "url": "https://open.spotify.com/album/1ZBWBWcN8IQFYRgC0jwLOl"
+        "name": "Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2NGgziFUMP8Hs3S7WysJi1"
       },
       "artists": [
         {
-          "name": "Nelson Riddle",
-          "url": "https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb"
+          "name": "Percy Faith",
+          "url": "https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE"
         }
       ],
-      "duration_ms": 144666,
-      "name": "The Green Leaves Of Summer",
-      "url": "https://open.spotify.com/track/3IM5KByL9vEigcg7WqORhv"
+      "duration_ms": 148106,
+      "name": "Our Love",
+      "url": "https://open.spotify.com/track/1GWSHN7cCSTdX1kULdoVPh"
     },
     {
       "added_at": "2024-02-22 08:48:31",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-02-22 08:48:31",
       "album": {
-        "name": "American Serenade",
-        "url": "https://open.spotify.com/album/19pCSMgiHqMCSrpgiGTTE0"
-      },
-      "artists": [
-        {
-          "name": "Percy Faith",
-          "url": "https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE"
-        }
-      ],
-      "duration_ms": 216960,
-      "name": "Autumn in New York",
-      "url": "https://open.spotify.com/track/5smT2oBOeVSaoXKEP8rr1H"
-    },
-    {
-      "added_at": "2024-02-22 08:48:31",
-      "album": {
         "name": "Two Pianos Today",
         "url": "https://open.spotify.com/album/5furh3F91CSI9ELQIZpoCY"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 188880,
       "name": "Georgy Girl",
       "url": "https://open.spotify.com/track/09WMsGVawZQr61lzFrLcMz"
+    },
+    {
+      "added_at": "2024-02-22 08:48:31",
+      "album": {
+        "name": "Music For Romancing",
+        "url": "https://open.spotify.com/album/6uvtXa9roNJj96YTGJkhV4"
+      },
+      "artists": [
+        {
+          "name": "Paul Weston",
+          "url": "https://open.spotify.com/artist/5ctnTue97AB5QdivrymEaK"
+        }
+      ],
+      "duration_ms": 197453,
+      "name": "Gone With The Wind",
+      "url": "https://open.spotify.com/track/7tzYfZQV2WHTtRbMYoowPy"
     },
     {
       "added_at": "2024-02-22 08:48:31",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-02-22 08:48:31",
       "album": {
-        "name": "Music For Romancing",
-        "url": "https://open.spotify.com/album/6uvtXa9roNJj96YTGJkhV4"
-      },
-      "artists": [
-        {
-          "name": "Paul Weston",
-          "url": "https://open.spotify.com/artist/5ctnTue97AB5QdivrymEaK"
-        }
-      ],
-      "duration_ms": 197453,
-      "name": "Gone With The Wind",
-      "url": "https://open.spotify.com/track/7tzYfZQV2WHTtRbMYoowPy"
-    },
-    {
-      "added_at": "2024-02-22 08:48:31",
-      "album": {
         "name": "American Serenade",
         "url": "https://open.spotify.com/album/19pCSMgiHqMCSrpgiGTTE0"
       },
@@ -528,9 +512,9 @@
           "url": "https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE"
         }
       ],
-      "duration_ms": 244826,
-      "name": "Moon over Miami",
-      "url": "https://open.spotify.com/track/6hIrh8XKgx6VLUJd29lsdN"
+      "duration_ms": 216960,
+      "name": "Autumn in New York",
+      "url": "https://open.spotify.com/track/5smT2oBOeVSaoXKEP8rr1H"
     },
     {
       "added_at": "2024-02-22 08:48:31",
@@ -547,6 +531,22 @@
       "duration_ms": 203973,
       "name": "Theme from Picnic - Remastered",
       "url": "https://open.spotify.com/track/7C2cDPLUfDxfxq5u7vIWF0"
+    },
+    {
+      "added_at": "2024-02-22 08:48:31",
+      "album": {
+        "name": "Concert In Rhythm",
+        "url": "https://open.spotify.com/album/4eBac1T2uZzeAQIU8DbBk1"
+      },
+      "artists": [
+        {
+          "name": "Ray Conniff",
+          "url": "https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv"
+        }
+      ],
+      "duration_ms": 150666,
+      "name": "Early Evening",
+      "url": "https://open.spotify.com/track/5JHgfrc1OgnfOBasDLf4rD"
     },
     {
       "added_at": "2024-02-22 08:48:31",
@@ -591,18 +591,18 @@
     {
       "added_at": "2024-02-22 08:48:31",
       "album": {
-        "name": "Concert In Rhythm",
-        "url": "https://open.spotify.com/album/4eBac1T2uZzeAQIU8DbBk1"
+        "name": "The Many Moods Of Murry Wilson",
+        "url": "https://open.spotify.com/album/59m9uyvWX25CEt1zteEuAq"
       },
       "artists": [
         {
-          "name": "Ray Conniff",
-          "url": "https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv"
+          "name": "Murry Wilson",
+          "url": "https://open.spotify.com/artist/4s9gajPsUP6QfemqiFom82"
         }
       ],
-      "duration_ms": 150666,
-      "name": "Early Evening",
-      "url": "https://open.spotify.com/track/5JHgfrc1OgnfOBasDLf4rD"
+      "duration_ms": 168573,
+      "name": "The Warmth Of The Sun",
+      "url": "https://open.spotify.com/track/6c0M03HMyxST5H0qUhdfCH"
     },
     {
       "added_at": "2024-02-22 08:48:31",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-02-22 08:48:31",
       "album": {
-        "name": "The Many Moods Of Murry Wilson",
-        "url": "https://open.spotify.com/album/59m9uyvWX25CEt1zteEuAq"
-      },
-      "artists": [
-        {
-          "name": "Murry Wilson",
-          "url": "https://open.spotify.com/artist/4s9gajPsUP6QfemqiFom82"
-        }
-      ],
-      "duration_ms": 168573,
-      "name": "The Warmth Of The Sun",
-      "url": "https://open.spotify.com/track/6c0M03HMyxST5H0qUhdfCH"
-    },
-    {
-      "added_at": "2024-02-22 08:48:31",
-      "album": {
         "name": "Opiate d'Amour",
         "url": "https://open.spotify.com/album/5RURrxHzWj67htnWpYY1jT"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 142066,
       "name": "When Your Lover Has Gone",
       "url": "https://open.spotify.com/track/2Rcv5YxzQkPokABVJeuQoy"
+    },
+    {
+      "added_at": "2024-02-22 08:48:31",
+      "album": {
+        "name": "American Serenade",
+        "url": "https://open.spotify.com/album/19pCSMgiHqMCSrpgiGTTE0"
+      },
+      "artists": [
+        {
+          "name": "Percy Faith",
+          "url": "https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE"
+        }
+      ],
+      "duration_ms": 244826,
+      "name": "Moon over Miami",
+      "url": "https://open.spotify.com/track/6hIrh8XKgx6VLUJd29lsdN"
     },
     {
       "added_at": "2024-02-22 08:48:31",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-02-22 08:48:31",
       "album": {
-        "name": "Plays Latin Themes For Young Lovers",
-        "url": "https://open.spotify.com/album/2ybHNlJ6rpRTCVrrQs56Qa"
-      },
-      "artists": [
-        {
-          "name": "Percy Faith",
-          "url": "https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE"
-        }
-      ],
-      "duration_ms": 158373,
-      "name": "How Insensitive",
-      "url": "https://open.spotify.com/track/0Hm8nvg2mibkKlJJJ0SFOB"
-    },
-    {
-      "added_at": "2024-02-22 08:48:31",
-      "album": {
         "name": "A Band Is Born",
         "url": "https://open.spotify.com/album/2JxztvhZeOftDGyJWEsFjU"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 179066,
       "name": "Megeve",
       "url": "https://open.spotify.com/track/5BIkK1aQYDSoKz6J9AuNPj"
+    },
+    {
+      "added_at": "2024-02-22 08:48:31",
+      "album": {
+        "name": "Plays Latin Themes For Young Lovers",
+        "url": "https://open.spotify.com/album/2ybHNlJ6rpRTCVrrQs56Qa"
+      },
+      "artists": [
+        {
+          "name": "Percy Faith",
+          "url": "https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE"
+        }
+      ],
+      "duration_ms": 158373,
+      "name": "How Insensitive",
+      "url": "https://open.spotify.com/track/0Hm8nvg2mibkKlJJJ0SFOB"
     },
     {
       "added_at": "2024-02-22 08:48:31",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-02-22 08:48:31",
       "album": {
-        "name": "Hatari!",
-        "url": "https://open.spotify.com/album/1LszH7Tu8af3uWzi2VhQcQ"
-      },
-      "artists": [
-        {
-          "name": "Henry Mancini",
-          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
-        }
-      ],
-      "duration_ms": 203493,
-      "name": "Night Side",
-      "url": "https://open.spotify.com/track/4hs1t5oe0lJ2wzgMCmf5cu"
-    },
-    {
-      "added_at": "2024-02-22 08:48:31",
-      "album": {
         "name": "Big Band Bash!",
         "url": "https://open.spotify.com/album/0ryTYwTgma4jd8vLMfk2yK"
       },
@@ -903,18 +887,18 @@
     {
       "added_at": "2024-02-22 08:48:31",
       "album": {
-        "name": "Music For Her (Expanded Edition)",
-        "url": "https://open.spotify.com/album/704P5eHFQFzTh6K0aS0FYH"
+        "name": "Hatari!",
+        "url": "https://open.spotify.com/album/1LszH7Tu8af3uWzi2VhQcQ"
       },
       "artists": [
         {
-          "name": "Percy Faith & His Orchestra",
-          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
+          "name": "Henry Mancini",
+          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
         }
       ],
-      "duration_ms": 225226,
-      "name": "You're My Everything",
-      "url": "https://open.spotify.com/track/3M5hwmGftW1vIgEW7to0N3"
+      "duration_ms": 203493,
+      "name": "Night Side",
+      "url": "https://open.spotify.com/track/4hs1t5oe0lJ2wzgMCmf5cu"
     },
     {
       "added_at": "2024-02-22 08:48:31",
@@ -931,6 +915,22 @@
       "duration_ms": 176240,
       "name": "Islands In The Sky",
       "url": "https://open.spotify.com/track/3IgWVlQcPQEUafiWZgXJrS"
+    },
+    {
+      "added_at": "2024-02-22 08:48:31",
+      "album": {
+        "name": "Music For Her (Expanded Edition)",
+        "url": "https://open.spotify.com/album/704P5eHFQFzTh6K0aS0FYH"
+      },
+      "artists": [
+        {
+          "name": "Percy Faith & His Orchestra",
+          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
+        }
+      ],
+      "duration_ms": 225226,
+      "name": "You're My Everything",
+      "url": "https://open.spotify.com/track/3M5hwmGftW1vIgEW7to0N3"
     },
     {
       "added_at": "2024-02-22 08:48:31",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-02-22 08:48:31",
       "album": {
-        "name": "Around the World, Vol. 2",
-        "url": "https://open.spotify.com/album/6NIUBR0tGunCCzgtGg6i8e"
-      },
-      "artists": [
-        {
-          "name": "Frank Chacksfield Orchestra",
-          "url": "https://open.spotify.com/artist/4p9uMiH2i6QPYGXx3WmpVi"
-        }
-      ],
-      "duration_ms": 148053,
-      "name": "Majorcan Holiday",
-      "url": "https://open.spotify.com/track/4Tf26KSoemitC17Ik00ViE"
-    },
-    {
-      "added_at": "2024-02-22 08:48:31",
-      "album": {
         "name": "Hollywood Love Themes",
         "url": "https://open.spotify.com/album/5EQpdNemXkTVnyV47OAEsZ"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 224470,
       "name": "Love Is a Many Splendoured Thing",
       "url": "https://open.spotify.com/track/5KnNVLAEkIRbNC9FeURva8"
+    },
+    {
+      "added_at": "2024-02-22 08:48:31",
+      "album": {
+        "name": "Around the World, Vol. 2",
+        "url": "https://open.spotify.com/album/6NIUBR0tGunCCzgtGg6i8e"
+      },
+      "artists": [
+        {
+          "name": "Frank Chacksfield Orchestra",
+          "url": "https://open.spotify.com/artist/4p9uMiH2i6QPYGXx3WmpVi"
+        }
+      ],
+      "duration_ms": 148053,
+      "name": "Majorcan Holiday",
+      "url": "https://open.spotify.com/track/4Tf26KSoemitC17Ik00ViE"
     },
     {
       "added_at": "2024-02-22 08:48:31",

@@ -1,5 +1,5 @@
 {
-  "2024-02-23": 283989,
+  "2024-02-24": 284017,
   "date_first_scraped": "2023-09-29",
   "description": "La playlist qui fait du bien \u2600\ufe0f",
   "name": "Feel Good",
@@ -361,6 +361,24 @@
       "duration_ms": 261773,
       "name": "California",
       "url": "https://open.spotify.com/track/35QAUfIbfIXT3p3cWhaKxZ"
+    },
+    {
+      "album": {
+        "name": "World Music Radio",
+        "url": "https://open.spotify.com/album/0cX1ODY38Nd2LuijmfuSjF"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116976,
+      "name": "Calling Your Name",
+      "url": "https://open.spotify.com/track/2Ga4ATsihCKFz3ge6UGeBl"
     },
     {
       "album": {
@@ -841,7 +859,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 201240,
       "name": "Fantasneeze (feat. Matilda Mann)",
       "url": "https://open.spotify.com/track/4dsyiGRnIpw8Y1C5IXhKJi"
@@ -921,6 +939,24 @@
       "duration_ms": 247800,
       "name": "Frisco Blues",
       "url": "https://open.spotify.com/track/1lZOlQheMnvyuw9BGzALiV"
+    },
+    {
+      "album": {
+        "name": "L.A.B VI",
+        "url": "https://open.spotify.com/album/2GgCCAXEdgHQOTlVvyQpfE"
+      },
+      "artists": [
+        {
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254920,
+      "name": "Give Me That Feeling",
+      "url": "https://open.spotify.com/track/77uJm6AgWF6Esf60O9LAU1"
     },
     {
       "album": {
@@ -1171,7 +1207,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 183195,
       "name": "Jim Carrey",
       "url": "https://open.spotify.com/track/6nTTiI03SJDXC9252gWGrN"
@@ -1305,7 +1341,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 274520,
       "name": "Love for yourself",
       "url": "https://open.spotify.com/track/1lTKsqeDQWoPhekp6kbg9e"
@@ -2667,6 +2703,24 @@
       "duration_ms": 201818,
       "name": "Worth It. - Radio Edit",
       "url": "https://open.spotify.com/track/1YUaivcnFWMMCF0to9Hm7z"
+    },
+    {
+      "album": {
+        "name": "Hopeless",
+        "url": "https://open.spotify.com/album/2DFJ1iYORvghZgjpGW3E88"
+      },
+      "artists": [
+        {
+          "name": "Joe Yorke",
+          "url": "https://open.spotify.com/artist/5txKJQwlX202UqnBPII2PK"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184381,
+      "name": "Zara",
+      "url": "https://open.spotify.com/track/5STvEVLXDc62Dg772z4sWF"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWYRdd9noPgqB"

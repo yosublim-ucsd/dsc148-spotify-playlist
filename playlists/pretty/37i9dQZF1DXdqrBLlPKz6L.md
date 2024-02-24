@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqrBLlPKz6L.md) - [plain]
 
 > Los temas más prendidos del trap desde Venezuela, Colombia, Perú y Ecuador\. Foto: El Clooy
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,949 likes - 60 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,961 likes - 60 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqrBLlPKz6L.md) - [plain]
 | 21 | [Ko](https://open.spotify.com/track/0MtnjoP0LbTNncaOqmtV7t) | [Tezzel](https://open.spotify.com/artist/25wbr3tsglSoeDK40ockmT), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Kapla](https://open.spotify.com/artist/11kWakFrrHou9H4TCt16yD), [Lil Dripavelli](https://open.spotify.com/artist/3p0i4P61vcbJpf3V8dcs1f) | [Ko](https://open.spotify.com/album/7HufcKIHl9VuzhTO8TeInt) | 4:09 |
 | 22 | [EL INCA](https://open.spotify.com/track/3dbSd2j3p9XWqI1VqfOyh7) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [EL INCA](https://open.spotify.com/album/0NVqJU1egg3BuAtRyxUvz0) | 3:32 |
 | 23 | [La Movie](https://open.spotify.com/track/5vXtCT27kRaDJASx4HNlGO) | [Dani Torres](https://open.spotify.com/artist/3FCbl6b1JHLfVADjqG7iP5), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Blunted Vato](https://open.spotify.com/artist/15RLdM61VHtknTIYIuNviR) | [La Movie](https://open.spotify.com/album/3uSH8eA5bgrPCHLCBTRGss) | 4:24 |
-| 24 | [Flor de Loto](https://open.spotify.com/track/2z2er73rnxiOZFXNFifeCg) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Flor de Loto](https://open.spotify.com/album/2FhnnIxgFTzyGeKX3OhVSz) | 2:06 |
+| 24 | [Flor de Loto](https://open.spotify.com/track/6o0FYA5icN4PImQFrfaBFL) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Flor de Loto](https://open.spotify.com/album/1XlOKFZuqfljW19y6JsAEw) | 2:06 |
 | 25 | [Que Fue](https://open.spotify.com/track/7FXuCVl6Wf5LuqkagnafUQ) | [Nero Lvigi](https://open.spotify.com/artist/0qzSMS5kmApxk4mB8k1UBx) | [Que Fue](https://open.spotify.com/album/1XzNceSB41vVsinihbYfpz) | 3:52 |
 | 26 | [A Prueba de Balas](https://open.spotify.com/track/0dcDUBTNlZnjtEwl9X6R0A) | [Dayme y El High](https://open.spotify.com/artist/4JreHVYyb6GqE2BU03Kx96), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Jeeiph](https://open.spotify.com/artist/6ZtLRqHEkAXPWVw0eRbDac), [Ele A El Dominio](https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS) | [A Prueba de Balas](https://open.spotify.com/album/4BXDLkHddvcWPuYRj3i2ah) | 3:06 |
 | 27 | [De Todo](https://open.spotify.com/track/5LR4MmbgcV9cPXXocaM4Fw) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [De Todo](https://open.spotify.com/album/6GkuzEN1kTF2XwtIlwLVEP) | 3:24 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqrBLlPKz6L.md) - [plain]
 | 59 | [Double Cup \(feat\. Trainer & Big Soto\)](https://open.spotify.com/track/0wwOTjKyrGTp1bJCUy7mPj) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Trainer](https://open.spotify.com/artist/6MB0O7jOsJ1OrkPAIlK3l2), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [Double Cup \(feat\. Trainer & Big Soto\)](https://open.spotify.com/album/4x4ubWTKOJQ1k0daiz0Kfd) | 3:41 |
 | 60 | [Negro](https://open.spotify.com/track/3QS73YxMlbbqHvZQhp1WNH) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Negro](https://open.spotify.com/album/2jRVG4AZf6eFLc9Y1ELdgq) | 3:17 |
 
-Snapshot ID: `MCxmYTFiYzVlYTdmNzU1ODFlNDMzYmQ4ZDk4ZTE1MTdlZmY1NWU1Njdi`
+Snapshot ID: `MCw1ZTk4YzM1MDNhZjI2ODNlMjEyZTFkMTc1Nzk5Nzc4YjNiZDBjMDhm`

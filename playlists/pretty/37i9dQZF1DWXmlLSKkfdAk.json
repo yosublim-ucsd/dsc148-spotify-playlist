@@ -1,12 +1,12 @@
 {
   "description": "Sit back with this fun and diverse mix of acoustic covers.",
-  "num_followers": 3702964,
+  "num_followers": 3702861,
   "original_name": "Acoustic Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3M2FmZjg3NDkwOGQyMjlmYTgwNzJjNmViOWVhMzVhZjNiZmNkZDI4",
+  "snapshot_id": "MCxkZWJkNThkYzk5Y2FlYzM4MGMxMmUzNmZjMDczZTYyYmI1NWJmYTY3",
   "tracks": [
     {
       "added_at": "2024-01-09 15:47:43",
@@ -283,6 +283,26 @@
       "duration_ms": 272000,
       "name": "Mr. Brightside",
       "url": "https://open.spotify.com/track/6Bcsu35LlV2YyUSa1X7Cpf"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "No Surprises (feat. Gregory Alan Isakov)",
+        "url": "https://open.spotify.com/album/3pNABFA4mXkk49OmRG7Ku7"
+      },
+      "artists": [
+        {
+          "name": "Jeremiah Fraites",
+          "url": "https://open.spotify.com/artist/3g2R76efKeTTrhOMz1oJly"
+        },
+        {
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        }
+      ],
+      "duration_ms": 257290,
+      "name": "No Surprises (feat. Gregory Alan Isakov)",
+      "url": "https://open.spotify.com/track/0G0f65AP53H6JUGRXrBRln"
     },
     {
       "added_at": "2024-01-09 15:47:43",

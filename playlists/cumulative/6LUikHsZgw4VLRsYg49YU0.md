@@ -4,7 +4,7 @@
 
 > New and classic sounds from the world of Anime featuring the latest tracks from Solo Leveling, Chainsaw Man, Cyberpunk, BLEACH &amp; more!
 
-185 songs - 10 hr 56 min
+186 songs - 10 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Ballin](https://open.spotify.com/track/17N5FdRwJuv3UXQ7MHnbhF) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Uncle Drew \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4tedCRHFkPOlzi6HR54tqd) | 2:46 | 2022-02-18 | 2022-12-10 |
 | [Become the Wind](https://open.spotify.com/track/1a5iQILKS8Ke0Yhaqu3Sgd) | [Ray](https://open.spotify.com/artist/5DjK0HQaczIK7lWWcsGnVG), [YAIBA](https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4) | [BORUTO \-ボルト\- NARUTO NEXT GENERATIONS オリジナルサウンドトラック Ⅱ](https://open.spotify.com/album/0jLLvfDBeu4tQOwuyniBom) | 4:54 | 2022-12-09 | 2024-02-03 |
 | [Before my body is dry](https://open.spotify.com/track/1FvZeK3MgmGldxeYDvzanR) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [キルラキル コンプリートサウンドトラック](https://open.spotify.com/album/7hhI5DK0xtKjkBmmHUlTg6) | 4:08 | 2022-12-09 |  |
+| [Blaze of Clear Sky \(from "The Apothecary Diaries" Soundtrack\)](https://open.spotify.com/track/04xIuk7yE5S3ucvzd7VNi2) | [Daichi Takenaka](https://open.spotify.com/artist/40kOocaMWxJX2dIYzDAUmB), [Mashiro Uchida](https://open.spotify.com/artist/3kFbGXxreI0op7aD2SInoo), [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [Blaze of Clear Sky \(from "The Apothecary Diaries" Soundtrack\)](https://open.spotify.com/album/23GffvhwgaUE3p6K3ZCDFT) | 1:58 | 2024-02-23 |  |
 | [BLIZZARD](https://open.spotify.com/track/1ttNpiMd8WDfXAjITCfDZD) | [BURNOUT SYNDROMES](https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT) | [BLIZZARD](https://open.spotify.com/album/4cv7mTcRI2qKuUUu0K8THt) | 3:46 | 2023-01-13 | 2023-12-14 |
 | [bloom](https://open.spotify.com/track/1f37xjUqPlrDvA6MdQoAis) | [ネクライトーキー](https://open.spotify.com/artist/45ew0KWgCA7evVgCydrZws) | [bloom](https://open.spotify.com/album/3M1wHslRzr0CVK4oYyCV0K) | 3:17 | 2023-12-08 |  |
 | [bloom \-Anime size\-](https://open.spotify.com/track/6YGk5gQJov2qONEGQP2UV6) | [ネクライトーキー](https://open.spotify.com/artist/45ew0KWgCA7evVgCydrZws) | [bloom \-Anime size\-](https://open.spotify.com/album/3zGoxjqPDJwcUqG55FoWNC) | 1:29 | 2023-12-08 |  |

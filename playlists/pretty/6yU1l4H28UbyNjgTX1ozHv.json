@@ -6,7 +6,7 @@
     "name": "Matt Johnson",
     "url": "https://open.spotify.com/user/117687144"
   },
-  "snapshot_id": "MTEyOCxlOGI0MWJiZDQ4MzVlMWY3ZDUyNWY2MGQ4MTExNTA2OTRlNTBiNzhi",
+  "snapshot_id": "MTEzMiw5M2MxOTY4MWVjYWI5YjAyMThiOTM0NjUyNWIxNWFkNWExMjUyYjg5",
   "tracks": [
     {
       "added_at": "2023-01-27 06:28:42",
@@ -325,10 +325,10 @@
       "url": "https://open.spotify.com/track/2ppKBymgYtlGBzWjRTkrKQ"
     },
     {
-      "added_at": "2023-09-24 07:00:38",
+      "added_at": "2024-02-23 19:47:33",
       "album": {
-        "name": "Happy Together (Acoustic)",
-        "url": "https://open.spotify.com/album/5HRc5KePa9umV625Gosec8"
+        "name": "Sweet Home Alabama (Acoustic)",
+        "url": "https://open.spotify.com/album/70AdvQHtuUhoLtbIZyCUDL"
       },
       "artists": [
         {
@@ -336,9 +336,9 @@
           "url": "https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN"
         }
       ],
-      "duration_ms": 174231,
-      "name": "Happy Together - Acoustic",
-      "url": "https://open.spotify.com/track/40JDOzCppZu1LhPPwtqz82"
+      "duration_ms": 152516,
+      "name": "Sweet Home Alabama - Acoustic",
+      "url": "https://open.spotify.com/track/3erRmhqtHch5MPmHYAlsUC"
     },
     {
       "added_at": "2019-10-13 06:38:53",
@@ -471,22 +471,6 @@
       "duration_ms": 243093,
       "name": "Say Something - Live from Spotify NYC",
       "url": "https://open.spotify.com/track/43cKoF3PLrsJSqGKgeqagV"
-    },
-    {
-      "added_at": "2023-12-01 12:19:27",
-      "album": {
-        "name": "Believe (Acoustic)",
-        "url": "https://open.spotify.com/album/6f8znb9G5J0MlLe895IzJt"
-      },
-      "artists": [
-        {
-          "name": "Adam Christopher",
-          "url": "https://open.spotify.com/artist/22QkuOmdRnasuuVgUjhrVw"
-        }
-      ],
-      "duration_ms": 228151,
-      "name": "Believe - Acoustic",
-      "url": "https://open.spotify.com/track/52VvzULC47oauMWtVdAejU"
     },
     {
       "added_at": "2024-02-09 13:07:31",
@@ -759,6 +743,26 @@
       "duration_ms": 287693,
       "name": "Jealous",
       "url": "https://open.spotify.com/track/4L2K7JKseFCBoHMZEAszW0"
+    },
+    {
+      "added_at": "2024-02-23 19:37:30",
+      "album": {
+        "name": "Never Gonna Give You Up (Acoustic Live Session)",
+        "url": "https://open.spotify.com/album/6Ol46XddMOINuLH5liivU0"
+      },
+      "artists": [
+        {
+          "name": "Bottlemoth",
+          "url": "https://open.spotify.com/artist/08Ed5qtdJSM4RqlqhPbgeq"
+        },
+        {
+          "name": "STABAL",
+          "url": "https://open.spotify.com/artist/14Fy429gXhC1L1LJ7Etyyf"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Never Gonna Give You Up - Acoustic Live Session",
+      "url": "https://open.spotify.com/track/0YotL4I236UOrsXNab0Twe"
     },
     {
       "added_at": "2024-02-02 12:51:22",

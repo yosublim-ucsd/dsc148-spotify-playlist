@@ -4,7 +4,7 @@
 
 > Mantras for meditation
 
-110 songs - 1 day 6 hr 36 min
+111 songs - 1 day 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Hari Om Tat Sat](https://open.spotify.com/track/0xGwFiCoeGKds8btsxwWXs) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Mantras & Chants](https://open.spotify.com/album/0Yr36b0evAmbg8VQVrdSnN) | 14:19 | 2022-01-24 |  |
 | [Hari Om Tat Sat \- 108 Times](https://open.spotify.com/track/3eiRqZHxIzfKdorBTT9Hl0) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [9 Golden Mantras](https://open.spotify.com/album/13IRm41CPRStJifiLLyIw1) | 14:16 | 2022-01-24 | 2022-08-06 |
 | [Hari Om Tat Sat \- 108 Times](https://open.spotify.com/track/63iw2oXKHiwczTBAbZMxB7) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [9 Golden Mantras](https://open.spotify.com/album/5nQV0wq77XlLeRHXCregdk) | 14:16 | 2022-01-24 | 2022-07-29 |
+| [Jap Le Mannva](https://open.spotify.com/track/7sNeybpyjW2Pp2P0xe6pib) | [Imran Khan Sitar](https://open.spotify.com/artist/1UrxT8kr1FXLymiN3SWpEP), [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39) | [Song Craft Season 1](https://open.spotify.com/album/6cyCyVWsO3y369yadNqbmA) | 4:00 | 2024-02-23 |  |
 | [Kar Darshanam](https://open.spotify.com/track/2kavzWD9eedpa1ueYu79pW) | [Ravindra Sathe](https://open.spotify.com/artist/4I5QgST39jQbLzuWTgUKcX), [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek), [Harish Bhimani](https://open.spotify.com/artist/4Ue0breeduMNArt1jlqe7d), [Chorus](https://open.spotify.com/artist/2Bu3DMTHHdXW4jnhoWHhPa) | [Morning Mantras](https://open.spotify.com/album/08xbsX0guYMVjMe7oThBlp) | 1:01 | 2022-01-24 | 2022-07-29 |
 | [Kar Darshanam](https://open.spotify.com/track/46Uvk0oU8R4iQSM8OMCdVv) | [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek) | [Morning Mantras](https://open.spotify.com/album/7rZWkCmz3Eli2Q9WkOXV0W) | 1:01 | 2022-01-24 | 2023-08-11 |
 | [Kar Darshanam](https://open.spotify.com/track/4fY8FE3Pd1VgIyMvrBcr61) | [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek) | [Sunrise to Sunset, Vol\. 1](https://open.spotify.com/album/4FDIr0MnhY9R9YKaqOwdBa) | 1:01 | 2022-08-05 | 2022-11-13 |
@@ -99,7 +100,7 @@
 | [Shanti Mantra \(For Inner and Outer Peace\)](https://open.spotify.com/track/2k0UyMqa4FbwMZiHgYJzfA) | [Manish Vyas](https://open.spotify.com/artist/4eZcz3z9PEo5TMzkjHlzrK) | [Sahaj Atma](https://open.spotify.com/album/1301F9iFu666bf4IqviXar) | 6:58 | 2023-05-23 | 2024-02-23 |
 | [Shiv Tandav Stotra \(Hindi Adaptation\)](https://open.spotify.com/track/77EGwUvKLSsinbBoPtsIPn) | [Om Voices](https://open.spotify.com/artist/35Dv4r2eP3iqNKQTSwaBVK) | [Shiv Tandav Stotra \(Hindi Adaptation\)](https://open.spotify.com/album/7FWuNtoURNJenQNf9j2wwF) | 6:20 | 2023-08-10 |  |
 | [Shiv Tandav Strotram](https://open.spotify.com/track/4Vp6ajyPyG5onrrzMOql6p) | [akashworldwide](https://open.spotify.com/artist/7aDBhDrZS0RXtMDmQQNwDE) | [Shiv Tandav Strotram](https://open.spotify.com/album/23gj0ztuhpH7H2l2d4hT3J) | 3:18 | 2023-12-26 | 2024-02-16 |
-| [Shiv Tandav Strotram](https://open.spotify.com/track/6EuRDQtfLoapVGesvko8sS) | [akashworldwide](https://open.spotify.com/artist/7aDBhDrZS0RXtMDmQQNwDE) | [Shiv Tandav Strotram](https://open.spotify.com/album/6fI7Z1YcFQoS4mq3JZYLT6) | 3:18 | 2023-11-05 |  |
+| [Shiv Tandav Strotram](https://open.spotify.com/track/6EuRDQtfLoapVGesvko8sS) | [akashworldwide](https://open.spotify.com/artist/7aDBhDrZS0RXtMDmQQNwDE) | [Shiv Tandav Strotram](https://open.spotify.com/album/6fI7Z1YcFQoS4mq3JZYLT6) | 3:18 | 2023-11-05 | 2024-02-24 |
 | [Shiva Chants](https://open.spotify.com/track/4HFFzYAPgabpJI9IiKNDxS) | [Rajshree Agarwal](https://open.spotify.com/artist/1xplyUBGhB2VU3bkIWI05C), [Vibhuti Vaity](https://open.spotify.com/artist/2ou5DGQBNMTiks8rkMtowx), [Abhinay Jain](https://open.spotify.com/artist/76VyCCJKWRtgRk7JSC32bW) | [Shiva Chants](https://open.spotify.com/album/6oVqipIJuVUOx6yUYcLvFh) | 5:03 | 2023-07-28 | 2023-12-12 |
 | [Shiva Raksha Stotram](https://open.spotify.com/track/462pUNRwifkgfTq4Z36jEc) | [Malola Kannan](https://open.spotify.com/artist/1Wi5YCCmYwr9AYRniY68po), [J Bhakthavatsalam](https://open.spotify.com/artist/4HX4R2UVRv6y3z9BtaVWxk) | [Indrakshi Shiva Kavacham](https://open.spotify.com/album/5ht7pBFQd84uH0spR7kheq) | 3:06 | 2023-05-23 | 2023-07-29 |
 | [Shree Ganapati Atharvashirsha](https://open.spotify.com/track/28PQnEmoE39ZfjgQqttPDR) | [Ajay\-Atul](https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM) | [Ganesha Symphonic Chants Experience](https://open.spotify.com/album/7pBI5ObmHmMbFi537wORHH) | 6:28 | 2023-05-23 |  |

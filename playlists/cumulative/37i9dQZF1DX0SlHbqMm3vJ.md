@@ -4,7 +4,7 @@
 
 > A collection R&B and Afropop cuts from West Africa’s finest artists\. Cover: Boy Spyce
 
-517 songs - 1 day 1 hr 54 min
+518 songs - 1 day 1 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [Everyday Love](https://open.spotify.com/track/6wXRsCSsGwY1bfXK3BaZ7L) | [Rebecca Garton](https://open.spotify.com/artist/10SSWFHswODW4VG1y56JbL), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Everyday Love](https://open.spotify.com/album/5YuQhH8F5KA5xqSZYbgZzp) | 3:53 | 2023-05-26 | 2023-06-03 |
 | [Everything](https://open.spotify.com/track/6iPyqbLdI5aXk4GftBma2B) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Don't Tell Anyone](https://open.spotify.com/album/7DWtbxvd2vX3mNwVAO44iY) | 2:57 | 2023-05-26 |  |
 | [EX BOYFRIEND](https://open.spotify.com/track/3pcITc6cPAvj5JtOnXiB1X) | [Raybekah](https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW) | [EX BOYFRIEND](https://open.spotify.com/album/1OVZQ2AGHb6fQM0CFAviQq) | 2:14 | 2022-06-30 | 2022-12-19 |
+| [EYE FOR AN EYE](https://open.spotify.com/track/1NKVlhpgU8dTgnb9uwyNYJ) | [Davolee](https://open.spotify.com/artist/5sw96lcKm8tdmqudO4AJ8a) | [EYE FOR AN EYE](https://open.spotify.com/album/22OwkHsnPUZeHoP6dCCVk8) | 3:11 | 2024-02-23 |  |
 | [Eye to Eye](https://open.spotify.com/track/6la2yQPbuFKD6I1vEaS2bz) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Eye to Eye](https://open.spotify.com/album/2lqCLCQj0prUEwqEDxRKIy) | 2:36 | 2022-09-01 | 2022-09-24 |
 | [Eyes on You](https://open.spotify.com/track/2NnqSG568w506fvH0pSTzI) | [JZyNo](https://open.spotify.com/artist/3gYUwwn7FiiBMKHe36OUaQ), [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [Eyes on You](https://open.spotify.com/album/5YzJpnr4nVbCBwCvcY4Flr) | 3:02 | 2023-10-12 |  |
 | [Fall](https://open.spotify.com/track/1z9QlqiV7MsrU4WBZAxsOA) | [Olakira](https://open.spotify.com/artist/0rMCvFPIvdoBmgdcVADKQE) | [Fall](https://open.spotify.com/album/4gLz3s4Zg3BduGWKk2aNPO) | 3:06 | 2022-02-17 | 2022-02-22 |
@@ -216,7 +217,7 @@
 | [I Promise](https://open.spotify.com/track/1HkVdfq2nfRMHXkYHsmHma) | [Waje](https://open.spotify.com/artist/6RaKdMfhnMdLFXvsWSZaa0), [SESS](https://open.spotify.com/artist/339HZyD96hGNtsXM93tRip) | [I Promise](https://open.spotify.com/album/4nF47BcYm6MOhMbwhyi9EN) | 2:41 | 2023-10-27 | 2023-12-02 |
 | [I Want You Back](https://open.spotify.com/track/05vvj3SjXQd3eseXNgOAU7) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Original](https://open.spotify.com/album/4yFA6Gmc7juhuJzPCTgeIS) | 2:11 | 2023-01-12 | 2023-02-17 |
 | [I Wish \(feat\. Libianca\)](https://open.spotify.com/track/6Y22KIQd0RSREshosQvN2B) | [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [I Wish \(feat\. Libianca\)](https://open.spotify.com/album/1UMJ7lsAe3c4PhvaB3BA2o) | 2:43 | 2023-06-02 |  |
-| [I Wish \(feat\. Libianca\) \- Acoustic](https://open.spotify.com/track/4PFWe1UG9f3RFbjVH9644c) | [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [I Wish \(feat\. Libianca\) \[Acoustic\]](https://open.spotify.com/album/3b8hJAjZ4RJpyqFf3F8ls5) | 3:44 | 2023-09-08 |  |
+| [I Wish \(feat\. Libianca\) \- Acoustic](https://open.spotify.com/track/4PFWe1UG9f3RFbjVH9644c) | [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [I Wish \(feat\. Libianca\) \[Acoustic\]](https://open.spotify.com/album/3b8hJAjZ4RJpyqFf3F8ls5) | 3:44 | 2023-09-08 | 2024-02-24 |
 | [I Won't](https://open.spotify.com/track/6ohlE4CmBQitfRvvB5aBuy) | [FELICIA](https://open.spotify.com/artist/7zHrarw8FTc8ikzPKnXIzw) | [I Won't](https://open.spotify.com/album/4pOMgLprmTbfz94bkv42bu) | 2:52 | 2021-10-14 | 2022-03-22 |
 | [i'm a mess](https://open.spotify.com/track/65v99AWZyNz3aRmfrT2I7N) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 2:33 | 2022-07-14 | 2023-10-27 |
 | [Icon](https://open.spotify.com/track/7F1PAapg2rEEHl5SOkOxVZ) | [Salle](https://open.spotify.com/artist/3grHvNkL8268yY1aAIxiLf) | [Icon](https://open.spotify.com/album/4FK2UosgBV0LytX5ZPNbEp) | 2:20 | 2023-12-08 |  |

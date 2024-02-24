@@ -1,12 +1,12 @@
 {
   "description": "Para los enamorados y despechados.",
-  "num_followers": 5300,
+  "num_followers": 1670,
   "original_name": "Merengue De Amor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZWUwNmY4NDk0ZTdmMGEyNjQwMDExOGM4ZGYyODkzNGQyNmViMjcy",
+  "snapshot_id": "MCwyY2VhNmRhODlkODliNDlhZjM1M2I0YzkwOTY4MWM3MGY3YmUyMmRh",
   "tracks": [
     {
       "added_at": "2021-10-19 17:28:22",
@@ -491,22 +491,6 @@
     {
       "added_at": "2021-10-19 17:28:22",
       "album": {
-        "name": "Resistire",
-        "url": "https://open.spotify.com/album/7pjcMXlN1lxfgBu0Z3ODFy"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1o Rosario",
-          "url": "https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy"
-        }
-      ],
-      "duration_ms": 310226,
-      "name": "Resistire",
-      "url": "https://open.spotify.com/track/7FsESZMkzIJYQAekB2BsIb"
-    },
-    {
-      "added_at": "2021-10-19 17:28:22",
-      "album": {
         "name": "Por un Poco de Tu Amor",
         "url": "https://open.spotify.com/album/3j56jEfANtsYlTJ9mzCaq3"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 218000,
       "name": "Que Pasara",
       "url": "https://open.spotify.com/track/3t8PVrZMstgAeWuIzUZSHU"
+    },
+    {
+      "added_at": "2021-10-19 17:28:22",
+      "album": {
+        "name": "Resistire",
+        "url": "https://open.spotify.com/album/7pjcMXlN1lxfgBu0Z3ODFy"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1o Rosario",
+          "url": "https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy"
+        }
+      ],
+      "duration_ms": 310226,
+      "name": "Resistire",
+      "url": "https://open.spotify.com/track/7FsESZMkzIJYQAekB2BsIb"
     },
     {
       "added_at": "2021-10-19 17:28:22",
@@ -603,22 +603,6 @@
     {
       "added_at": "2021-10-19 17:28:22",
       "album": {
-        "name": "Rey De Corazones",
-        "url": "https://open.spotify.com/album/0TcHNfk42IZKbx9ysCdrBF"
-      },
-      "artists": [
-        {
-          "name": "Manny Manuel",
-          "url": "https://open.spotify.com/artist/7gSCtDiDLABfTqTc1OYjKd"
-        }
-      ],
-      "duration_ms": 288280,
-      "name": "Si Una Vez",
-      "url": "https://open.spotify.com/track/4pDORttLOuVRInjTSZ3hlf"
-    },
-    {
-      "added_at": "2021-10-19 17:28:22",
-      "album": {
         "name": "Lo Mejor De...To\u00f1o Rosario",
         "url": "https://open.spotify.com/album/475agtJk3uN4dSg38QKx5t"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 281760,
       "name": "Desnudate Mujer",
       "url": "https://open.spotify.com/track/33cVlyik4hIaS4gwiLCNcY"
+    },
+    {
+      "added_at": "2021-10-19 17:28:22",
+      "album": {
+        "name": "Rey De Corazones",
+        "url": "https://open.spotify.com/album/0TcHNfk42IZKbx9ysCdrBF"
+      },
+      "artists": [
+        {
+          "name": "Manny Manuel",
+          "url": "https://open.spotify.com/artist/7gSCtDiDLABfTqTc1OYjKd"
+        }
+      ],
+      "duration_ms": 288280,
+      "name": "Si Una Vez",
+      "url": "https://open.spotify.com/track/4pDORttLOuVRInjTSZ3hlf"
     },
     {
       "added_at": "2021-10-19 17:28:22",

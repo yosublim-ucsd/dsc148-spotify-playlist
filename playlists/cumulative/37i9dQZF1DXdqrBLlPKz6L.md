@@ -4,7 +4,7 @@
 
 > Los temas más prendidos del trap desde Venezuela, Colombia, Perú y Ecuador\. Foto: El Clooy
 
-102 songs - 5 hr 34 min
+103 songs - 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Fendi & Valentino](https://open.spotify.com/track/6zfmaPzczHb0NiXglOxamn) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Sahir](https://open.spotify.com/artist/0dqT9B1Xej71qvAo8uE4Uh) | [Fendi & Valentino](https://open.spotify.com/album/2aXzhaV9TkNFsmUnkOUBy9) | 4:02 | 2023-03-24 |  |
 | [Flight Away](https://open.spotify.com/track/5nggToLBtfPFNjIRQjHc58) | [Trainer](https://open.spotify.com/artist/6MB0O7jOsJ1OrkPAIlK3l2), [YK](https://open.spotify.com/artist/0fml592mEs3xp2zhVLjxre), [Hiro Angeles](https://open.spotify.com/artist/3UYyyQSTk9ytiF55vUXO6G) | [Flight Away](https://open.spotify.com/album/5TWKnCddueE4CqT0lEJ8Pj) | 4:03 | 2021-10-15 | 2023-02-10 |
 | [Flor de Loto](https://open.spotify.com/track/4lS5OOqQzyQDDR0g1EmcdK) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Flor de Loto](https://open.spotify.com/album/1zdtga77ItleW98WqnrX0m) | 2:06 | 2022-08-19 | 2023-04-13 |
-| [Flor de Loto](https://open.spotify.com/track/2z2er73rnxiOZFXNFifeCg) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Flor de Loto](https://open.spotify.com/album/2FhnnIxgFTzyGeKX3OhVSz) | 2:06 | 2023-03-24 |  |
+| [Flor de Loto](https://open.spotify.com/track/2z2er73rnxiOZFXNFifeCg) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Flor de Loto](https://open.spotify.com/album/2FhnnIxgFTzyGeKX3OhVSz) | 2:06 | 2023-03-24 | 2024-02-24 |
+| [Flor de Loto](https://open.spotify.com/track/6o0FYA5icN4PImQFrfaBFL) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Flor de Loto](https://open.spotify.com/album/1XlOKFZuqfljW19y6JsAEw) | 2:06 | 2024-01-26 |  |
 | [Fuck Love](https://open.spotify.com/track/0DWxjkUdTVvlC5EpPqQfiH) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Fuck Love](https://open.spotify.com/album/3bBbAqa1aH2yj4cFUmQEUH) | 3:45 | 2021-10-15 | 2022-07-29 |
 | [Fuck Love](https://open.spotify.com/track/4c715EQQZjly3eabqovsi4) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Hay Vida en Venus](https://open.spotify.com/album/0sWnir8GiTLpROsfBuMHRF) | 3:45 | 2022-04-08 |  |
 | [Funky Fresco](https://open.spotify.com/track/0qRbGq8cogiDalq9E8IGJh) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Lil Supa](https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K) | [Funky Fresco](https://open.spotify.com/album/3AGTkAEOaQgFixOs4rLCix) | 2:23 | 2021-10-15 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best French indie tracks right now. Cover : Emma Hoet",
+  "description": "The best French indie tracks right now. Cover : Alice et Moi",
   "name": "Made in France",
   "tracks": [
     {
@@ -2146,6 +2146,28 @@
       "duration_ms": 186000,
       "name": "en plein vol",
       "url": "https://open.spotify.com/track/0qE2TLnemJVGb93aPB4BU4"
+    },
+    {
+      "album": {
+        "name": "Encore",
+        "url": "https://open.spotify.com/album/5YIj0XNQpAzJTYlXBXgd2M"
+      },
+      "artists": [
+        {
+          "name": "DOPAMOON",
+          "url": "https://open.spotify.com/artist/5vNhYUKZMEv2QMJXY7IPTK"
+        },
+        {
+          "name": "Napkey",
+          "url": "https://open.spotify.com/artist/4MismZLKqMb2Qb2HjK4sdE"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199936,
+      "name": "Encore",
+      "url": "https://open.spotify.com/track/2rD2lLV55Pr6xvzI67MY8L"
     },
     {
       "album": {
@@ -6687,6 +6709,32 @@
     },
     {
       "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/55nrtrhYbidS1MWC7bchos"
+      },
+      "artists": [
+        {
+          "name": "Gurth",
+          "url": "https://open.spotify.com/artist/3Jp2CVbWo0yJs60rPyIlTb"
+        },
+        {
+          "name": "Diane Sagnier",
+          "url": "https://open.spotify.com/artist/7grNqGVCIRH4ZM3UR1QAay"
+        },
+        {
+          "name": "Pangol",
+          "url": "https://open.spotify.com/artist/24GK68qM53IIPkK3NEYHd4"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209525,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/6mcP1kDZE3Iqn9ps7wtYbf"
+    },
+    {
+      "album": {
         "name": "SAN FRANCISCO (BABY!)",
         "url": "https://open.spotify.com/album/4QdUQ164R3oomzrOz72IIg"
       },
@@ -7624,7 +7672,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 189973,
       "name": "The Best Part of Me",
       "url": "https://open.spotify.com/track/0ZsXNkIWD2wx6OX3dVDu4l"
@@ -8442,7 +8490,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 188726,
       "name": "Wasting Time",
       "url": "https://open.spotify.com/track/3WpHDeAOuLc8J2vnnnwvey"

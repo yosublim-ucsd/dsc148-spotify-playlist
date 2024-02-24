@@ -1165,6 +1165,24 @@
     },
     {
       "album": {
+        "name": "Glasses",
+        "url": "https://open.spotify.com/album/4TMQIfnMUrK6kaNzwuNqrh"
+      },
+      "artists": [
+        {
+          "name": "Northwest Stories",
+          "url": "https://open.spotify.com/artist/5w1g5MrRpY3zWraNx9HMXS"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222043,
+      "name": "Glasses",
+      "url": "https://open.spotify.com/track/5g5Uz9utBGrEsJeBrBWfgt"
+    },
+    {
+      "album": {
         "name": "North Georgia Rounder",
         "url": "https://open.spotify.com/album/5WD3kJqvqnnEGl3B2pVh2U"
       },
@@ -3536,7 +3554,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 207880,
       "name": "Your Needs, My Needs",
       "url": "https://open.spotify.com/track/43lHewwomOqpJ4ZVwLRfgr"

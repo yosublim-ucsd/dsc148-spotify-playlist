@@ -32,9 +32,27 @@
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "date_added": "2024-02-01",
+      "date_added": "2024-02-23",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 192680,
+      "name": "Ambush In The Night",
+      "url": "https://open.spotify.com/track/6kAye2WmX9RVnheY3QmF54"
+    },
+    {
+      "album": {
+        "name": "Survival",
+        "url": "https://open.spotify.com/album/09Df7mUZBQwbDYgvE0t30r"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-02-24",
       "duration_ms": 261839,
       "name": "Babylon System",
       "url": "https://open.spotify.com/track/6xbtDXk8utIS8rOWD0X9XA"
@@ -600,7 +618,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 327133,
       "name": "Rastaman Live Up",
       "url": "https://open.spotify.com/track/2wFw6mZzzABL9gktquq7I5"
@@ -856,6 +874,24 @@
       "duration_ms": 332400,
       "name": "Stir It Up",
       "url": "https://open.spotify.com/track/3sqZDdEO5viqNqMCNem5m5"
+    },
+    {
+      "album": {
+        "name": "Catch A Fire",
+        "url": "https://open.spotify.com/album/39kLAVdcgW7jbMcTEaY2qy"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217800,
+      "name": "Stir It Up - Jamaican Version",
+      "url": "https://open.spotify.com/track/1XjUvJv6w3aTu8o6XszTHS"
     },
     {
       "album": {

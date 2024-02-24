@@ -4,7 +4,7 @@
 
 > R&Bの最新話題曲をまとめてお届けします。cover: Bryson Tiller
 
-351 songs - 18 hr 57 min
+352 songs - 19 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,6 +234,7 @@
 | [Perception](https://open.spotify.com/track/3GRcOZw7VBpTA9iReVjmYF) | [Delasi](https://open.spotify.com/artist/6qeWbpcQrSt9tQRWACjfQ0) | [Perception](https://open.spotify.com/album/791Swwkb7vtPTTR7wjUjeE) | 5:45 | 2023-11-16 | 2023-12-01 |
 | [Pick it Up](https://open.spotify.com/track/10rJH6BggTxh7esR2Hvpbd) | [Jermaine Dupri](https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6), [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [Pick it Up](https://open.spotify.com/album/6hVfd2o9FBBrzSVkZ3wHdO) | 2:41 | 2023-09-21 | 2023-12-08 |
 | [Pink Hair](https://open.spotify.com/track/62ZXOrUNBpa5DAiP3tE19s) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh) | [Pink Hair](https://open.spotify.com/album/2M6ubuh4ne6Vjvrx8MUs2t) | 2:57 | 2023-03-16 | 2024-02-02 |
+| [Please Be Good](https://open.spotify.com/track/0oSpphTmHAisyEtcslZcg3) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Please Be Good](https://open.spotify.com/album/2FTYhBqao8Jg6fp1huyZar) | 2:38 | 2024-02-22 |  |
 | [Poison](https://open.spotify.com/track/0334KVZTMvvQiRNIWKbVFh) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Poison](https://open.spotify.com/album/7mpxiz4HeVmH48bs2XIRsf) | 2:51 | 2023-08-17 | 2023-11-17 |
 | [poison \- demo](https://open.spotify.com/track/76y9rYVLGK4Ob2qaruXmhC) | [CLAY](https://open.spotify.com/artist/20aPu5vizjmoX2A7f7AOWL) | [poison \(demo\)](https://open.spotify.com/album/4qIShsDt5DHqK9WxMwWx8Q) | 2:43 | 2023-04-20 | 2023-05-05 |
 | [Popular \(with Playboi Carti & Madonna\)](https://open.spotify.com/track/7GUhiAHLoVy1V8ucQuZ3CB) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [The Highlights \(Deluxe\)](https://open.spotify.com/album/18sR8zHx4zsVJUI4bHWuPC) | 3:35 | 2024-02-08 |  |

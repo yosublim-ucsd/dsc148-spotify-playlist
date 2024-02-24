@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-07",
-  "description": "J\u00f3venes y renovadas expresiones de la bella tradici\u00f3n mexicana. Adri\u00e1n Barraza en portada. ",
+  "description": "J\u00f3venes y renovadas expresiones de la bella tradici\u00f3n mexicana. Irene Del Rosario en portada. ",
   "name": "Mariachi Joven",
   "tracks": [
     {
@@ -42,6 +42,24 @@
       "duration_ms": 185074,
       "name": "100 A\u00f1os",
       "url": "https://open.spotify.com/track/4XKC4nfeXgyd4KQDu8arKL"
+    },
+    {
+      "album": {
+        "name": "3 Consejos",
+        "url": "https://open.spotify.com/album/0n3NogLDNZRwsU22lD7Q0c"
+      },
+      "artists": [
+        {
+          "name": "Irene del Rosario",
+          "url": "https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222937,
+      "name": "3 Consejos",
+      "url": "https://open.spotify.com/track/5Vbg1vjwEUpXe81Rs50Ste"
     },
     {
       "album": {
@@ -1396,7 +1414,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 217567,
       "name": "La Cantina - Remix",
       "url": "https://open.spotify.com/track/1BLceHxSV6Wx1MRC4gkt3f"

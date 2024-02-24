@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FQWBuUOlXj.md) - [plain]
 
 > The official playlist for After Life, curated by Ricky Gervais\. Watch on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,670 likes - 50 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,704 likes - 50 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FQWBuUOlXj.md) - [plain]
 | 27 | [So Amazing](https://open.spotify.com/track/2BABTeUx608FA8b47bDuLK) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Give Me The Reason](https://open.spotify.com/album/3uWgCaZ1ixRuMvBZniwxJj) | 3:42 |
 | 28 | [Can You Hear Me \- 2016 Remaster](https://open.spotify.com/track/0iWHMJwpVl46UJ2KZ2IEKt) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Young Americans \(2016 Remaster\)](https://open.spotify.com/album/0lITGovWgaQGi42EfqcE5P) | 5:08 |
 | 29 | [Threnody](https://open.spotify.com/track/7hyAAjHZaDWSPDzlUYNUIa) | [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw) | [The Malady Of Elegance](https://open.spotify.com/album/1vF5y6BC66nKozxg0Dsvvo) | 4:41 |
-| 30 | [Little Piece of Nothing](https://open.spotify.com/track/5Kdg1xQa6pQACBTxRa2faR) | [Dave Thomas Junior](https://open.spotify.com/artist/0mUIey7n1U90IScto35rX7) | [Echo](https://open.spotify.com/album/2EPjdx6A66QkuM2UQYYIcK) | 4:55 |
+| 30 | [Little Piece Of Nothing](https://open.spotify.com/track/2yFoCaBIaZyKJ8IpiBsEpg) | [Dave Thomas Junior](https://open.spotify.com/artist/0mUIey7n1U90IScto35rX7) | [Echo](https://open.spotify.com/album/7FIE3K3e4BL0iMUxwwarXC) | 4:55 |
 | 31 | [Send in the Clowns](https://open.spotify.com/track/3evTbfCtMxbUwTQIn7QOcG) | [Judy Collins](https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn) | [Judith](https://open.spotify.com/album/2P9EqaNiGfiYweANVtt0Ry) | 4:00 |
 | 32 | [And So It Goes](https://open.spotify.com/track/1u7kQUb3lQcpHaYRfia13A) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Storm Front](https://open.spotify.com/album/1Vw2uoVkLAJFVViJ1QyK1D) | 3:37 |
 | 33 | [Three Times A Lady](https://open.spotify.com/track/2uTGX4wxnRGS3i0FSOMGCQ) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Natural High](https://open.spotify.com/album/01xiIydpf1MyOg7DWDRF2N) | 6:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FQWBuUOlXj.md) - [plain]
 | 49 | [Mandolin Wind](https://open.spotify.com/track/4sWZwY8RQfK6Fc2pYC7tN1) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Every Picture Tells A Story](https://open.spotify.com/album/4VykjLwkyfKMZVLrJJVrYh) | 5:36 |
 | 50 | [From Both Sides Now](https://open.spotify.com/track/4e6Y85KHKWhn9EdguhfB6l) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve), [David Jaggs](https://open.spotify.com/artist/2M6D03CV5HO5J5lqOnNQRJ) | [Solo](https://open.spotify.com/album/6TKewkXqDeg8q2lqzNXTmZ) | 3:09 |
 
-Snapshot ID: `MCxmNWRmYWJjMzQxNjg1OGRkODFjNjQ1ODZmOGQ3N2I5OTgxMjdjODhj`
+Snapshot ID: `MCxjMzZlOGQ2ZGFjOWNiMTdmMTNhYmQ4OWZiNTk2MmFiNzExYjNkZWNi`

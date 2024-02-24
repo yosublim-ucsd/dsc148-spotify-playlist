@@ -1,12 +1,12 @@
 {
   "description": "Hora de aumentar o som e cair na \u00e1gua!",
-  "num_followers": 188011,
+  "num_followers": 188017,
   "original_name": "Free Surf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzY2NkNmNmMzhlYjg3ZmY0NmZiNzllNDU1ODhjOGU2ZTRmY2VlZjVi",
+  "snapshot_id": "MCwzNGEyMDAzMjkzZDQ4M2ExZjYxNzQ1MDQ1ZTU3ZTI2ZDQ3NDU1ZWUz",
   "tracks": [
     {
       "added_at": "2023-07-28 03:01:00",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
-        "name": "Casinha",
-        "url": "https://open.spotify.com/album/4LEeNDHmnXsM04yoJARCYu"
-      },
-      "artists": [
-        {
-          "name": "Armandinho",
-          "url": "https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH"
-        }
-      ],
-      "duration_ms": 179466,
-      "name": "Pescador",
-      "url": "https://open.spotify.com/track/5yQW46XPWdGqkX2PyMegLD"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
         "name": "Donavon Frankenreiter",
         "url": "https://open.spotify.com/album/7HPDZ1Gu4pWyDn9o6DiToG"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 148600,
       "name": "Free",
       "url": "https://open.spotify.com/track/2BJy5YrRMhVCqaLNY5cbv2"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
+        "name": "Casinha",
+        "url": "https://open.spotify.com/album/4LEeNDHmnXsM04yoJARCYu"
+      },
+      "artists": [
+        {
+          "name": "Armandinho",
+          "url": "https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH"
+        }
+      ],
+      "duration_ms": 179466,
+      "name": "Pescador",
+      "url": "https://open.spotify.com/track/5yQW46XPWdGqkX2PyMegLD"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
-        "name": "Sawdust",
-        "url": "https://open.spotify.com/album/4NtamseeVOGesCm8W9oHSz"
-      },
-      "artists": [
-        {
-          "name": "The Killers",
-          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
-        }
-      ],
-      "duration_ms": 327866,
-      "name": "Romeo And Juliet",
-      "url": "https://open.spotify.com/track/1kfrnPViuzKdNwmH21ehLg"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
         "name": "Runtastic - Power Workout (Vol. 1)",
         "url": "https://open.spotify.com/album/7kcbYCvOoFZs9FRPDWVrey"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 253813,
       "name": "No One Knows",
       "url": "https://open.spotify.com/track/6qS04no9s93xryizOrZ4ru"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
+        "name": "Sawdust",
+        "url": "https://open.spotify.com/album/4NtamseeVOGesCm8W9oHSz"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "duration_ms": 327866,
+      "name": "Romeo And Juliet",
+      "url": "https://open.spotify.com/track/1kfrnPViuzKdNwmH21ehLg"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
-        "name": "Natiruts Ac\u00fastico no Rio de Janeiro (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1x2y04H5qSXOU9tzDZVT9i"
-      },
-      "artists": [
-        {
-          "name": "Natiruts",
-          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
-        }
-      ],
-      "duration_ms": 207706,
-      "name": "No Mar - Ao Vivo",
-      "url": "https://open.spotify.com/track/5TyvU4ZeVbcnwTzzbfv5qi"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
         "name": "Welcome to Jamrock",
         "url": "https://open.spotify.com/album/4Y0PrDckfFKxKaVXsscDLB"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 210293,
       "name": "All Night",
       "url": "https://open.spotify.com/track/5V3fw7a3vubB9PzMNhGoPL"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
+        "name": "Natiruts Ac\u00fastico no Rio de Janeiro (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1x2y04H5qSXOU9tzDZVT9i"
+      },
+      "artists": [
+        {
+          "name": "Natiruts",
+          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
+        }
+      ],
+      "duration_ms": 207706,
+      "name": "No Mar - Ao Vivo",
+      "url": "https://open.spotify.com/track/5TyvU4ZeVbcnwTzzbfv5qi"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
-        "name": "Real Gold",
-        "url": "https://open.spotify.com/album/5PRS6zL5id8VsFjesEsaw3"
-      },
-      "artists": [
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        }
-      ],
-      "duration_ms": 197840,
-      "name": "Real Gold",
-      "url": "https://open.spotify.com/track/4qQm3DuFEVsqp2GWjkNFli"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
         "name": "Mechanical Bull (Expanded Edition)",
         "url": "https://open.spotify.com/album/0cRJKK0y1sfZEqWub4dK9v"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 230706,
       "name": "Family Tree",
       "url": "https://open.spotify.com/track/7FB4AMETSW8jALAPNRKw7Y"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
+        "name": "Real Gold",
+        "url": "https://open.spotify.com/album/5PRS6zL5id8VsFjesEsaw3"
+      },
+      "artists": [
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "duration_ms": 197840,
+      "name": "Real Gold",
+      "url": "https://open.spotify.com/track/4qQm3DuFEVsqp2GWjkNFli"
     },
     {
       "added_at": "2023-07-28 03:01:00",

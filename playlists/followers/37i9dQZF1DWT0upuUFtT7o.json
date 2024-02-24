@@ -1,5 +1,5 @@
 {
-  "2024-02-23": 207226,
+  "2024-02-24": 207299,
   "date_first_scraped": "2022-01-09",
   "description": "The best new indie tracks from independent artists & labels. Updates every Wednesday. Cover: Chezile",
   "name": "Fresh Finds Indie",
@@ -34721,7 +34721,7 @@
     {
       "album": {
         "name": "Terminal Woes",
-        "url": "https://open.spotify.com/album/1XNz75lfWi16KjzQB063De"
+        "url": "https://open.spotify.com/album/4VtmKAVSqGS4Eb2dlwuwMw"
       },
       "artists": [
         {
@@ -34732,6 +34732,24 @@
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 199820,
+      "name": "Terminal Woes",
+      "url": "https://open.spotify.com/track/3Gp7XRhtbdoC8nFGrD6aT6"
+    },
+    {
+      "album": {
+        "name": "Terminal Woes",
+        "url": "https://open.spotify.com/album/1XNz75lfWi16KjzQB063De"
+      },
+      "artists": [
+        {
+          "name": "Salt Cathedral",
+          "url": "https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": "2024-02-23",
       "duration_ms": 199820,
       "name": "Terminal Woes",
       "url": "https://open.spotify.com/track/6KrfQye9oJaJ7ieCF1Dez2"

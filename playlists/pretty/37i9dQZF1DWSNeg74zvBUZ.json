@@ -1,12 +1,12 @@
 {
   "description": "Morning's silent dew, ambient whispers unfold,\nzen echoes on play.",
-  "num_followers": 54,
+  "num_followers": 55,
   "original_name": "dew",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNDRhY2E3NjgyNzU2OTQ1Mzk3OWQxODEzZDc4Mzg5YTI2NDM1MGMy",
+  "snapshot_id": "MCw3YTI3NjM5Y2Q2YmY4N2RmNzhhNzY3MzgwMzkxM2U4YzliNzkwOTZk",
   "tracks": [
     {
       "added_at": "2021-09-10 04:35:25",
@@ -435,6 +435,22 @@
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
+        "name": "Reminisce",
+        "url": "https://open.spotify.com/album/3b5iksRC1DTnQhY9Mgmv5l"
+      },
+      "artists": [
+        {
+          "name": "WMD",
+          "url": "https://open.spotify.com/artist/4huXijLHlm8VMzeob86QvD"
+        }
+      ],
+      "duration_ms": 273117,
+      "name": "It Was 9:30 and You Were Beautiful",
+      "url": "https://open.spotify.com/track/2juufw7FlVjhDb3vtRwJNS"
+    },
+    {
+      "added_at": "2021-09-10 04:35:25",
+      "album": {
         "name": "Der Bote",
         "url": "https://open.spotify.com/album/2FCodoLjwxOlCuK7KbUOMq"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 531826,
       "name": "In a Landscape",
       "url": "https://open.spotify.com/track/1qbrS9PKOzsack0g7LiBhh"
-    },
-    {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
-        "name": "Reminisce",
-        "url": "https://open.spotify.com/album/3b5iksRC1DTnQhY9Mgmv5l"
-      },
-      "artists": [
-        {
-          "name": "WMD",
-          "url": "https://open.spotify.com/artist/4huXijLHlm8VMzeob86QvD"
-        }
-      ],
-      "duration_ms": 273117,
-      "name": "It Was 9:30 and You Were Beautiful",
-      "url": "https://open.spotify.com/track/2juufw7FlVjhDb3vtRwJNS"
     },
     {
       "added_at": "2021-09-10 04:35:25",
@@ -733,26 +733,6 @@
       "url": "https://open.spotify.com/track/7zf1xFJp2PuqM00hhsC3ax"
     },
     {
-      "added_at": "2023-04-15 00:11:35",
-      "album": {
-        "name": "sunrise mtn",
-        "url": "https://open.spotify.com/album/0I0Wpet0SNMfo0hgcwzsQB"
-      },
-      "artists": [
-        {
-          "name": "Jenny Owen Youngs",
-          "url": "https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H"
-        },
-        {
-          "name": "John Mark Nelson",
-          "url": "https://open.spotify.com/artist/7JhOzFlNJjcRrFan1wlwYB"
-        }
-      ],
-      "duration_ms": 151714,
-      "name": "sunrise mtn",
-      "url": "https://open.spotify.com/track/39fB9kG8siVbe6cOOtVliL"
-    },
-    {
       "added_at": "2022-04-23 02:33:42",
       "album": {
         "name": "Rest Proof Clockwork",
@@ -771,6 +751,26 @@
       "duration_ms": 269240,
       "name": "Ralome",
       "url": "https://open.spotify.com/track/5CBtcSv8jmVWI9j37qCzZz"
+    },
+    {
+      "added_at": "2023-04-15 00:11:35",
+      "album": {
+        "name": "sunrise mtn",
+        "url": "https://open.spotify.com/album/0I0Wpet0SNMfo0hgcwzsQB"
+      },
+      "artists": [
+        {
+          "name": "Jenny Owen Youngs",
+          "url": "https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H"
+        },
+        {
+          "name": "John Mark Nelson",
+          "url": "https://open.spotify.com/artist/7JhOzFlNJjcRrFan1wlwYB"
+        }
+      ],
+      "duration_ms": 151714,
+      "name": "sunrise mtn",
+      "url": "https://open.spotify.com/track/39fB9kG8siVbe6cOOtVliL"
     },
     {
       "added_at": "2022-01-07 02:01:58",

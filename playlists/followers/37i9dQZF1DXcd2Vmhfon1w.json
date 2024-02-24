@@ -1,7 +1,7 @@
 {
-  "2024-02-23": 518769,
+  "2024-02-24": 518957,
   "date_first_scraped": "2022-01-24",
-  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Natos y Waor.",
+  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Reality, Hard GZ",
   "name": "Rap Espa\u00f1ol",
   "tracks": [
     {
@@ -656,6 +656,24 @@
     },
     {
       "album": {
+        "name": "BANANA SPLIT",
+        "url": "https://open.spotify.com/album/6FT4j1bydCQVRepk5JqdeO"
+      },
+      "artists": [
+        {
+          "name": "Foyone",
+          "url": "https://open.spotify.com/artist/1F2erLLqRHbaFvEYHeVIHJ"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270226,
+      "name": "BANANA SPLIT",
+      "url": "https://open.spotify.com/track/5nIyhEmcGWZwGijOtc4bGB"
+    },
+    {
+      "album": {
         "name": "Cardioempat\u00eda",
         "url": "https://open.spotify.com/album/6lYfsP9XS3c7ayYg4Xg3fs"
       },
@@ -1036,6 +1054,28 @@
     },
     {
       "album": {
+        "name": "Cero Negativo",
+        "url": "https://open.spotify.com/album/5liO9uFnwv3WhlsHysVuHe"
+      },
+      "artists": [
+        {
+          "name": "K1ZA",
+          "url": "https://open.spotify.com/artist/4Om3ZoQAy1yw4caBOvMT2F"
+        },
+        {
+          "name": "Geckodelarue",
+          "url": "https://open.spotify.com/artist/7pN6gysuGSvvdMpWPyDoN4"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126545,
+      "name": "Cero Negativo",
+      "url": "https://open.spotify.com/track/10tZvAsXkD6yLyztNzVIQ4"
+    },
+    {
+      "album": {
         "name": "Chatarra",
         "url": "https://open.spotify.com/album/1dZrdu4MxyX2gBuN4CWCC1"
       },
@@ -1232,6 +1272,32 @@
     },
     {
       "album": {
+        "name": "Condenados al Desastre",
+        "url": "https://open.spotify.com/album/2K3p2NM7ywB1xXxWKB8kOH"
+      },
+      "artists": [
+        {
+          "name": "Reality",
+          "url": "https://open.spotify.com/artist/0FvRr7kKHIwQJxpRwf5OCw"
+        },
+        {
+          "name": "Hard GZ",
+          "url": "https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB"
+        },
+        {
+          "name": "Bigla",
+          "url": "https://open.spotify.com/artist/3Nvs2Xf1dhQgjWLJ6Mvd68"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232500,
+      "name": "Condenados al Desastre",
+      "url": "https://open.spotify.com/track/5yBKImga5NyJYpm2L9jfXY"
+    },
+    {
+      "album": {
         "name": "Free Delivery",
         "url": "https://open.spotify.com/album/16a8H0Io8HZQQkkuMC0G1N"
       },
@@ -1251,7 +1317,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 152137,
       "name": "Corte Fino",
       "url": "https://open.spotify.com/track/2inLdw5PgbjRTzNFFdBYND"
@@ -1435,7 +1501,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 115218,
       "name": "Despierta",
       "url": "https://open.spotify.com/track/67ZcggjJBQTxQwK5QNxb9p"
@@ -2044,6 +2110,24 @@
     },
     {
       "album": {
+        "name": "Funky Tears",
+        "url": "https://open.spotify.com/album/4reagwmx7RB3YxGU7aspnj"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Gabanna",
+          "url": "https://open.spotify.com/artist/7oOAUwR8fKK27pEAKdt0mm"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146033,
+      "name": "Funky Tears",
+      "url": "https://open.spotify.com/track/4tebfp9UYuuS9C8JUH6XY0"
+    },
+    {
+      "album": {
         "name": "S.U.V",
         "url": "https://open.spotify.com/album/3tsN3lg9ie9rtTQBp50tDR"
       },
@@ -2059,7 +2143,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 151218,
       "name": "Ghetto Confetti",
       "url": "https://open.spotify.com/track/38SX0CwOnzQ9a03gpnNCrG"
@@ -2446,6 +2530,36 @@
     },
     {
       "album": {
+        "name": "Kids",
+        "url": "https://open.spotify.com/album/15eOxilb6S1lta2uSo4vBu"
+      },
+      "artists": [
+        {
+          "name": "Las Ninyas del Corro",
+          "url": "https://open.spotify.com/artist/3Iv34TRi6TpQqxSctG7PKh"
+        },
+        {
+          "name": "Ill Peke\u00f1o",
+          "url": "https://open.spotify.com/artist/3T4KspU3H8Ya6sgxexg9F8"
+        },
+        {
+          "name": "Ergo Pro",
+          "url": "https://open.spotify.com/artist/6RGXMZ5gUtYKHpG3RQ9fM4"
+        },
+        {
+          "name": "Esse Delgado",
+          "url": "https://open.spotify.com/artist/0EbyCaJGcegI7KdTTWKuW0"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251034,
+      "name": "Kids",
+      "url": "https://open.spotify.com/track/1DJUtgPIvbvmi6tQ904m5c"
+    },
+    {
+      "album": {
         "name": "KILOMETROZERO",
         "url": "https://open.spotify.com/album/7ua7tLsGckZ4ABttyGTA5K"
       },
@@ -2457,7 +2571,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 202971,
       "name": "KILOMETROZERO",
       "url": "https://open.spotify.com/track/0OYbYJLgZoeRMhMPqjT4ka"
@@ -2741,7 +2855,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 170322,
       "name": "LA \u00daLTIMA",
       "url": "https://open.spotify.com/track/2qHvD3r5qu4wuPpvq3CQKb"
@@ -3415,6 +3529,28 @@
       "duration_ms": 136280,
       "name": "Me Piden Que Cante",
       "url": "https://open.spotify.com/track/07zHQ6Gg5f1sUeeN3PlsDv"
+    },
+    {
+      "album": {
+        "name": "Me rindo por hoy",
+        "url": "https://open.spotify.com/album/49pt7Tmi9x1L9KU3wfhsWn"
+      },
+      "artists": [
+        {
+          "name": "AMBKOR",
+          "url": "https://open.spotify.com/artist/5iQNy7hQGe1suvNOQz19Jz"
+        },
+        {
+          "name": "El Chojin",
+          "url": "https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204705,
+      "name": "Me rindo por hoy",
+      "url": "https://open.spotify.com/track/224BnTtRO2rh1VvYxDbtCZ"
     },
     {
       "album": {
@@ -4305,7 +4441,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 136000,
       "name": "Palomas",
       "url": "https://open.spotify.com/track/6ICEts8QOSnN2DUdq2Z9h4"
@@ -4981,6 +5117,28 @@
       "duration_ms": 186537,
       "name": "Silencio",
       "url": "https://open.spotify.com/track/4Huf56u4fIIcQwZb9RSe4A"
+    },
+    {
+      "album": {
+        "name": "SIN CULPA",
+        "url": "https://open.spotify.com/album/4DF8dnCP0fYxRHbRjrpFKn"
+      },
+      "artists": [
+        {
+          "name": "Aissa",
+          "url": "https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374"
+        },
+        {
+          "name": "grauu",
+          "url": "https://open.spotify.com/artist/6pVpIXqlFUCl0DjA5WOIvH"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158634,
+      "name": "SIN CULPA",
+      "url": "https://open.spotify.com/track/0yzHr53qnPQKbX6mFt7xhR"
     },
     {
       "album": {
@@ -5889,7 +6047,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 178800,
       "name": "\u00c9ramos",
       "url": "https://open.spotify.com/track/2vnQtmiDHgT6yOoxZbT7FS"
@@ -5911,7 +6069,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 102519,
       "name": "\u00daltimo Beso",
       "url": "https://open.spotify.com/track/6bSFopROp4EBmzsSuQlWlK"

@@ -4,7 +4,7 @@
 
 > Are you ready for the floor? Cover: F3miii
 
-91 songs - 6 hr 10 min
+92 songs - 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Day We Met \- Betonkust Remix](https://open.spotify.com/track/1VdeCgpIm4qRcSDvtIK5Jv) | [Fatima Yamaha](https://open.spotify.com/artist/7eZRt08LoDy0nfIS6OwyMP), [Betonkust](https://open.spotify.com/artist/0wtoN4C5b7fBp8GLT8DYXo) | [Day We Met \(Remixes\)](https://open.spotify.com/album/3tKegcGPlaRUk9bbaP7X75) | 5:05 | 2021-10-28 |  |
 | [Doctor Doctor \- The English Gentlemen Remix](https://open.spotify.com/track/0ksagd1vULVKoXgpw9rPiL) | [Just Jack](https://open.spotify.com/artist/2KT0mSAPvd9PreXYCiVfVO), [The English Gentlemen](https://open.spotify.com/artist/1qhOgkoJKicmrmGa33mauL) | [Doctor Doctor \(The English Gentlemen Remix\)](https://open.spotify.com/album/26KMLMWDj5aX1WCNRm3ipz) | 6:16 | 2021-10-28 |  |
 | [Dopamine Detox](https://open.spotify.com/track/1L1EKS4V4fXLuXfOduyZ9t) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [This Is A Reminder That You Are Not Behind Your Face](https://open.spotify.com/album/3VcbVj4rqE1ICcd14Hp3La) | 3:06 | 2024-02-02 |  |
-| [Electric Cutz](https://open.spotify.com/track/398h6HYx7uGMbRXLycgBF9) | [Ros T](https://open.spotify.com/artist/4sG0aI4xrubRmrdWBIn4RO) | [Electric Cutz](https://open.spotify.com/album/0tsWEz8VVlBdKypM4IlKAk) | 4:49 | 2024-02-23 |  |
+| [Electric Cutz](https://open.spotify.com/track/398h6HYx7uGMbRXLycgBF9) | [Ros T](https://open.spotify.com/artist/4sG0aI4xrubRmrdWBIn4RO) | [Electric Cutz](https://open.spotify.com/album/0tsWEz8VVlBdKypM4IlKAk) | 4:49 | 2024-02-23 | 2024-02-24 |
+| [Electric Cutz](https://open.spotify.com/track/3z8EQNPQwj5VZ7hTimCqZQ) | [Ros T](https://open.spotify.com/artist/4sG0aI4xrubRmrdWBIn4RO) | [Electric Cutz](https://open.spotify.com/album/61skTfvokQQ3sSQHKVl0K5) | 4:49 | 2024-02-23 |  |
 | [Fear](https://open.spotify.com/track/5yIK62xhc1PwxG83kObxZe) | [Godford](https://open.spotify.com/artist/4pUwtnbS6FdBniLp410AOu) | [Non Binary Place](https://open.spotify.com/album/2ZH8IpoBY4rSq3QB6Oez9u) | 3:49 | 2021-10-28 | 2024-02-02 |
 | [Fire Of Mercy \- yunè pinku remix](https://open.spotify.com/track/6ITWROA9slWos6GjdlryE5) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5), [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Fire Of Mercy \(yunè pinku remix\)](https://open.spotify.com/album/5ZmBR9NMbuBycE92C5b0Wy) | 4:14 | 2024-02-23 |  |
 | [getforward](https://open.spotify.com/track/1FT8VzkSDfH90Dc9XxjbEL) | [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS) | [getforward](https://open.spotify.com/album/5j2DVBoeO3YeAPtz9Nyqlg) | 10:00 | 2021-10-28 |  |

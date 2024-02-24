@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: jan-feb 2024 (previous playlists archived on my profile) (image credit: @afffirmations on IG)",
-  "num_followers": 18120,
+  "num_followers": 18122,
   "original_name": "here i go again on my own",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "MjU2MyxjNjQwNTVkYWQ4MzgxZGEwNDM4MTI1NWQ5YzUyMjA0MDhlYWRmMTA4",
+  "snapshot_id": "MjU2NCw4YTFiZjg4ZDBlODE1NjJmMmRjN2ZkOGQwZDhmZmMyODVjY2JkYmJi",
   "tracks": [
     {
       "added_at": "2024-01-05 02:29:38",
@@ -883,6 +883,26 @@
       "duration_ms": 142103,
       "name": "Dream Alone",
       "url": "https://open.spotify.com/track/53ApaDXhRYAfB9St8Uqg2n"
+    },
+    {
+      "added_at": "2024-02-23 17:35:09",
+      "album": {
+        "name": "Target",
+        "url": "https://open.spotify.com/album/3ZbLs2qH6lDnDbEnNmsYYv"
+      },
+      "artists": [
+        {
+          "name": "Rui Gabriel",
+          "url": "https://open.spotify.com/artist/1LhAwMWCGYmplvmnZmvoDz"
+        },
+        {
+          "name": "Kate Teague",
+          "url": "https://open.spotify.com/artist/5yNcIZz69fYkSRhiGoFx8T"
+        }
+      ],
+      "duration_ms": 299766,
+      "name": "Target",
+      "url": "https://open.spotify.com/track/0pC0qIpSTvptjrCSg0p9Gq"
     }
   ],
   "unique_name": "here i go again on my own",

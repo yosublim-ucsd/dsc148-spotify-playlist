@@ -1,13 +1,53 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 44283,
+  "num_followers": 44282,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "NjQ1NyxjYWIzOTM1M2ZhMGQxZTA2ZjQ2MTk2NDk4ZTI3MTcyZmQyMzgwNjQ4",
+  "snapshot_id": "NjQ1OSw2NjA4ZmJmNGMzZmIwZjFlNGIzNGU5OWRkZmY5MDUzOWIzODkzNmIy",
   "tracks": [
+    {
+      "added_at": "2024-02-23 19:44:50",
+      "album": {
+        "name": "We Are One (feat. Bryn Christopher)",
+        "url": "https://open.spotify.com/album/3rrJdd0PtwPwsweuuNUJaJ"
+      },
+      "artists": [
+        {
+          "name": "3 Are Legend",
+          "url": "https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II"
+        },
+        {
+          "name": "Bryn Christopher",
+          "url": "https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv"
+        }
+      ],
+      "duration_ms": 202916,
+      "name": "We Are One (feat. Bryn Christopher)",
+      "url": "https://open.spotify.com/track/2yy8PDe1d2TnWQYjjhvMke"
+    },
+    {
+      "added_at": "2024-02-23 19:45:03",
+      "album": {
+        "name": "Erase Me (feat. Bella Renee)",
+        "url": "https://open.spotify.com/album/1KQtXINgtNG4Nk6fv30SS2"
+      },
+      "artists": [
+        {
+          "name": "shnd\u014d",
+          "url": "https://open.spotify.com/artist/2AGKq9TDZ4m5cuSvFEShjH"
+        },
+        {
+          "name": "Bella Renee",
+          "url": "https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa"
+        }
+      ],
+      "duration_ms": 151384,
+      "name": "Erase Me (feat. Bella Renee)",
+      "url": "https://open.spotify.com/track/0ptLBdLmejS79Sza6NQeAb"
+    },
     {
       "added_at": "2024-02-16 17:35:21",
       "album": {

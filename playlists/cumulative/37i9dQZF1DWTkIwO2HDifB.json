@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Baby Eu Tava Na Rua da Agua e os funks mais \ud83d\udd11 do Brasil. Foto: TR, Menor RV, Tropa da W&S",
+  "description": "Rol\u00ea na Favela de Nave e os funks mais \ud83d\udd11 do Brasil. Foto: Oruam, Didi",
   "name": "Funk Hits",
   "tracks": [
+    {
+      "album": {
+        "name": "Ningu\u00e9m T\u00e1 Puro!",
+        "url": "https://open.spotify.com/album/0JDZhfDT24lh3OYX0NKU9I"
+      },
+      "artists": [
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "DJ Jorgin",
+          "url": "https://open.spotify.com/artist/5bZh8YQDUYXGHrkWwjakNF"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163500,
+      "name": "400K",
+      "url": "https://open.spotify.com/track/1i2kguziI3ZbUZnZMKNhQ2"
+    },
     {
       "album": {
         "name": "A Semana Inteira",
@@ -233,7 +255,7 @@
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 210168,
+      "duration_ms": 210512,
       "name": "Amor \u00c9 Mentira",
       "url": "https://open.spotify.com/track/3syxcxgRLd25yPYfG8qsot"
     },
@@ -358,6 +380,52 @@
       "duration_ms": 171428,
       "name": "Aqui Na Parma Tu Vem Pra Fuder",
       "url": "https://open.spotify.com/track/3euydCfGHLFjuwHA7G7AUJ"
+    },
+    {
+      "album": {
+        "name": "Areia Branquinha 2",
+        "url": "https://open.spotify.com/album/5mz3mEsgla23m8lp4kiKsy"
+      },
+      "artists": [
+        {
+          "name": "Mc PP da VS",
+          "url": "https://open.spotify.com/artist/2z8FuS3crq9QwDVKlR31hP"
+        },
+        {
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Mc Kanhoto",
+          "url": "https://open.spotify.com/artist/3bpbNht7qJCmPo8sjVF3tA"
+        },
+        {
+          "name": "Mc Kadu",
+          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
+        },
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        },
+        {
+          "name": "Dj Yuri Pedrada",
+          "url": "https://open.spotify.com/artist/3EYuWIltJb3kzoKyRzcTsi"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 570352,
+      "name": "Areia Branquinha 2",
+      "url": "https://open.spotify.com/track/4gY1DaPZjAiIv8AwSLWLkL"
     },
     {
       "album": {
@@ -1128,7 +1196,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 157500,
       "name": "Casei Com a Putaria",
       "url": "https://open.spotify.com/track/1OZ4uv7OAP24Ix6j3vojLt"
@@ -3688,7 +3756,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 160975,
       "name": "Noite Fria",
       "url": "https://open.spotify.com/track/3lT2haeJ7ype7nCJrV96nI"

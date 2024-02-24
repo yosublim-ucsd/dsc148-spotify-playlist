@@ -1,49 +1,13 @@
 {
   "description": "Still yachting. Cover: Young Gun Silver Fox",
-  "num_followers": 12669,
+  "num_followers": 12674,
   "original_name": "Yacht Rock Revival",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZmIzZTI1ZTg3NzJlYTlhNGUwZDdlNTA4ZjEyMWZmMjcwMTQ2M2Vk",
+  "snapshot_id": "MCw3ZjQ1ODFiYWRiOWJkZDc5Y2JhZjIyOGQ1Y2Y3NDVkOWM1ZTFlOWI1",
   "tracks": [
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Yesterday",
-        "url": "https://open.spotify.com/album/2umjOrzZyH5le3dh87eJSt"
-      },
-      "artists": [
-        {
-          "name": "Michael Carreon",
-          "url": "https://open.spotify.com/artist/5rYJsXiNw3NxHJfOxtmDuC"
-        },
-        {
-          "name": "Patrick Hizon",
-          "url": "https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X"
-        }
-      ],
-      "duration_ms": 157867,
-      "name": "Yesterday",
-      "url": "https://open.spotify.com/track/2VYp1f2qoMWUuUKnt0O2Gy"
-    },
-    {
-      "added_at": "2024-02-02 05:01:00",
-      "album": {
-        "name": "Sleeptalking",
-        "url": "https://open.spotify.com/album/0XRYj8uyEJMzUKM60gZjAP"
-      },
-      "artists": [
-        {
-          "name": "Brother Zulu",
-          "url": "https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw"
-        }
-      ],
-      "duration_ms": 180335,
-      "name": "Sleeptalking",
-      "url": "https://open.spotify.com/track/0e5GmXWvSKnngHSD8X7jir"
-    },
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
@@ -65,6 +29,54 @@
       "url": "https://open.spotify.com/track/5L3KNSPWZmL9DLyP1pdXBT"
     },
     {
+      "added_at": "2024-02-02 05:01:00",
+      "album": {
+        "name": "Sleeptalking",
+        "url": "https://open.spotify.com/album/0XRYj8uyEJMzUKM60gZjAP"
+      },
+      "artists": [
+        {
+          "name": "Brother Zulu",
+          "url": "https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw"
+        }
+      ],
+      "duration_ms": 180335,
+      "name": "Sleeptalking",
+      "url": "https://open.spotify.com/track/0e5GmXWvSKnngHSD8X7jir"
+    },
+    {
+      "added_at": "2024-02-23 05:01:00",
+      "album": {
+        "name": "One Bedroom Apartment",
+        "url": "https://open.spotify.com/album/5lcxvlwmGlB8J7k8W269im"
+      },
+      "artists": [
+        {
+          "name": "MAXN",
+          "url": "https://open.spotify.com/artist/2I726pqN0Qn83YXOTnIozL"
+        }
+      ],
+      "duration_ms": 216281,
+      "name": "One Bedroom Apartment",
+      "url": "https://open.spotify.com/track/6XEuXtDnH3s42tXRYdowaA"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Pocket Music",
+        "url": "https://open.spotify.com/album/5Y7du83uUhCUXobupkRCjN"
+      },
+      "artists": [
+        {
+          "name": "Sun Rai",
+          "url": "https://open.spotify.com/artist/6UOV42aOSJ5YrbYzLIfLwr"
+        }
+      ],
+      "duration_ms": 266704,
+      "name": "San Francisco Street",
+      "url": "https://open.spotify.com/track/5pjWzUc1tVcewUTdDJd6Ce"
+    },
+    {
       "added_at": "2024-01-26 05:01:00",
       "album": {
         "name": "On The Line",
@@ -83,6 +95,26 @@
       "duration_ms": 240194,
       "name": "On The Line",
       "url": "https://open.spotify.com/track/7l25I7cYjeUZVKXDOaDPQP"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Yesterday",
+        "url": "https://open.spotify.com/album/2umjOrzZyH5le3dh87eJSt"
+      },
+      "artists": [
+        {
+          "name": "Michael Carreon",
+          "url": "https://open.spotify.com/artist/5rYJsXiNw3NxHJfOxtmDuC"
+        },
+        {
+          "name": "Patrick Hizon",
+          "url": "https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X"
+        }
+      ],
+      "duration_ms": 157867,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/2VYp1f2qoMWUuUKnt0O2Gy"
     },
     {
       "added_at": "2023-12-08 05:01:00",
@@ -835,38 +867,6 @@
       "duration_ms": 242134,
       "name": "Clear",
       "url": "https://open.spotify.com/track/6OyjHEusfnpjMxewx4msTA"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Pocket Music",
-        "url": "https://open.spotify.com/album/5Y7du83uUhCUXobupkRCjN"
-      },
-      "artists": [
-        {
-          "name": "Sun Rai",
-          "url": "https://open.spotify.com/artist/6UOV42aOSJ5YrbYzLIfLwr"
-        }
-      ],
-      "duration_ms": 266704,
-      "name": "San Francisco Street",
-      "url": "https://open.spotify.com/track/5pjWzUc1tVcewUTdDJd6Ce"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "The Dandelion",
-        "url": "https://open.spotify.com/album/3fk6hBtA6FfDK79t0oWmqG"
-      },
-      "artists": [
-        {
-          "name": "Oracle Sisters",
-          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
-        }
-      ],
-      "duration_ms": 219884,
-      "name": "The Dandelion",
-      "url": "https://open.spotify.com/track/37nRhMFqggMLfWOpTL2vgZ"
     }
   ],
   "unique_name": "Yacht Rock Revival",

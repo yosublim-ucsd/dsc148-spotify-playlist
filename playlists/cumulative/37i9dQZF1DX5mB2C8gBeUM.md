@@ -4,7 +4,7 @@
 
 > Country gone wild! You never know what you're gonna get\. Cover: Shaboozey
 
-434 songs - 21 hr 42 min
+436 songs - 21 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Better On Me](https://open.spotify.com/track/3Gk75ziLzHNskYTW2MIG4p) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Better On Me](https://open.spotify.com/album/5iCiDUEYtamxT2KOTT22Gf) | 2:29 | 2021-12-10 | 2023-02-02 |
 | [BETTER WITH YOU](https://open.spotify.com/track/0cSRjbZWKzH1ggvN17XwBc) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU) | [BETTER WITH YOU](https://open.spotify.com/album/3JfRcR72m6SWfP4gB6REYF) | 2:39 | 2023-06-23 |  |
 | [Birthday Girl \(feat\. Chris Lane\)](https://open.spotify.com/track/1gIEdcLqIuIcG8k44bCnal) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Birthday Girl \(feat\. Chris Lane\)](https://open.spotify.com/album/5uEGkigab9CMYeTFE5dCjc) | 2:42 | 2022-11-04 |  |
-| [Black Silverado](https://open.spotify.com/track/4kZlcEXnP90soPZLc85aBK) | [Vwillz](https://open.spotify.com/artist/0S7eN9KAsbAaIZtFyCn1q1) | [Black Silverado](https://open.spotify.com/album/6ZWY7ZhBmrB8c9E8suLgJb) | 2:42 | 2023-01-20 |  |
+| [Black Silverado](https://open.spotify.com/track/4kZlcEXnP90soPZLc85aBK) | [Vwillz](https://open.spotify.com/artist/0S7eN9KAsbAaIZtFyCn1q1) | [Black Silverado](https://open.spotify.com/album/6ZWY7ZhBmrB8c9E8suLgJb) | 2:42 | 2023-01-20 | 2024-02-24 |
 | [Blacked Out](https://open.spotify.com/track/5ImqyYZ3zgraskdflX6Cdc) | [Katie Noel](https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt) | [Blacked Out](https://open.spotify.com/album/3Hi7EH9ZBJCzH8dLll20A6) | 3:28 | 2022-02-18 |  |
 | [Blame You](https://open.spotify.com/track/5xRJ65tVYd4z3sq2SyBP6f) | [Little L3GENDS](https://open.spotify.com/artist/2RuiYRe7BKd5bMgIKZAvWh), [Ty March.](https://open.spotify.com/artist/0h7b5szTqHKm5sJNkAGqfw) | [Blame You](https://open.spotify.com/album/1ozrT18U9FDHKKgIAC3hAN) | 2:45 | 2021-12-10 | 2022-01-08 |
 | [Blessed & Free](https://open.spotify.com/track/0HCFZGK3c1TQorbyPHcj1l) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Blessed & Free](https://open.spotify.com/album/055uuuPMs7soYjnONo02QV) | 3:18 | 2021-12-10 | 2022-02-26 |
@@ -127,6 +127,7 @@
 | [DOIN' MY BEST](https://open.spotify.com/track/2XZ2iNsKb70iobqOYqcnpw) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 2:37 | 2022-09-23 | 2023-08-02 |
 | [Don’t You Wanna Know](https://open.spotify.com/track/4kkFmjTq8hl2nVSEjNxh83) | [Noah Schnacky](https://open.spotify.com/artist/1qDDkysTxJvFandHwP9CMx), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Don't You Wanna Know](https://open.spotify.com/album/3Q5iInpjJCZQQVf20UkD2z) | 2:24 | 2021-12-10 | 2023-01-04 |
 | [Down by the Riverside](https://open.spotify.com/track/1p5VeCCFyeafMMDaXak10E) | [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM) | [Down by the Riverside](https://open.spotify.com/album/5XeC1lvfqfIs80BoY3qzpC) | 2:59 | 2021-12-10 | 2022-06-04 |
+| [Down Here](https://open.spotify.com/track/1rit7R4jihrRlOBsXnSTri) | [Jay Webb](https://open.spotify.com/artist/74a1KhMBkw4iweAtpbjuHk) | [Down Here](https://open.spotify.com/album/7nlknl85Ot1h5XVCYzoDfI) | 2:04 | 2024-02-23 |  |
 | [Drink Had Me](https://open.spotify.com/track/4KOEQ1VPa1Ri5PWT1h84jt) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Buy Dirt](https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO) | 2:36 | 2021-12-10 | 2023-01-21 |
 | [Drinkin' Drinks](https://open.spotify.com/track/7DjNEHu28F1cObsPQOUFDH) | [Urban Outlaws](https://open.spotify.com/artist/0OIe9J3WmpoAQsISHsj26F), [Kurt Stevens](https://open.spotify.com/artist/3hxWaqOFMEKfbdxs3O9Iwj) | [Drinkin' Drinks](https://open.spotify.com/album/0eMUBRcNkWpMUjqpNTOeQh) | 2:40 | 2022-04-29 | 2023-01-04 |
 | [Dutton Ranch Freestyle](https://open.spotify.com/track/0uWopULW6vBRuPoi7EjKMR) | [David Morris](https://open.spotify.com/artist/23Pb3oXBOQj9WEziS6laUW) | [Dutton Ranch Freestyle](https://open.spotify.com/album/7IWe39vVoSxisDY6jRmqmA) | 2:23 | 2022-08-12 | 2023-03-09 |
@@ -244,6 +245,7 @@
 | [Knock Yourself Out](https://open.spotify.com/track/6EYP9xedLZbzYh5TBEaVe1) | [Sophia Scott](https://open.spotify.com/artist/3lNLsfeVJSiSyjk2tXnPAp), [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL), [Renee Blair](https://open.spotify.com/artist/6sv0SHO2ZhBe1i0xkk7uM1) | [Knock Yourself Out](https://open.spotify.com/album/1KWDJUAB0w0oxqF3KdmAH9) | 2:52 | 2021-12-10 |  |
 | [Know My Way Around](https://open.spotify.com/track/5CtXnj47Mr0ZXGjTbnd7Aj) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [Know My Way Around](https://open.spotify.com/album/3R61ViOGcEiAk1mkBQMhy4) | 2:54 | 2021-12-10 |  |
 | [Kuntry](https://open.spotify.com/track/4MHXNEOprnHC0H4qnzvMfq) | [Austin Mahone](https://open.spotify.com/artist/04abdnqPQe2N4fjztDea6z) | [Kuntry](https://open.spotify.com/album/2pGdZXCiOXQKVgJKyH9ZKb) | 2:30 | 2023-05-26 |  |
+| [LEAD A HORSE](https://open.spotify.com/track/6eiNnBQ0UB4BJhZzENJg7L) | [Vwillz](https://open.spotify.com/artist/0S7eN9KAsbAaIZtFyCn1q1) | [TENNESSEE TAPES](https://open.spotify.com/album/0YP4T1vKiRb4PKWa8f53mY) | 2:04 | 2024-02-23 |  |
 | [Leave You Alone](https://open.spotify.com/track/5J8AKBaUq1WHrzrm9YWlP3) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Leave You Alone](https://open.spotify.com/album/1GeeQwpCveYVHBSumI6dFx) | 3:34 | 2022-03-04 | 2022-09-10 |
 | [Left Me \(with YNW BSlime\)](https://open.spotify.com/track/2I3seK4Q5bLPtaTb9uGcxz) | [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM), [YNW BSlime](https://open.spotify.com/artist/2KCRLxlHd2OgZG6YAOAcSu) | [Left Me \(with YNW BSlime\)](https://open.spotify.com/album/4VP3UPCUDxDrD71ZJOQ03Q) | 2:41 | 2022-01-21 | 2022-07-23 |
 | [LEGENDS](https://open.spotify.com/track/15x3Tsc72Wjspe8DlsIRp2) | [YA'BOYZ](https://open.spotify.com/artist/7vMHsgM6Rlv8loZc594Z9I) | [LEGENDS](https://open.spotify.com/album/2NEROO6mBjK1Xcv1Sr6vXU) | 2:24 | 2021-12-10 | 2022-05-20 |

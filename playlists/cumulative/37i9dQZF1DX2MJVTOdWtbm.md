@@ -4,14 +4,14 @@
 
 > The home of Latin R&B\. La casa del R&B Latino\. Cover: Junior Zamora
 
-356 songs - 18 hr 44 min
+358 songs - 18 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1vezmas](https://open.spotify.com/track/4fyF5S5cnABhKpjycdxGFr) | [Svarez](https://open.spotify.com/artist/1CtE7kcqimHMARnwm2Hb23), [Choclock](https://open.spotify.com/artist/1Ixof0imwzqpuV21Ug9pKn) | [1vezmas](https://open.spotify.com/album/2kHJ8qdYkgRdMJ2uXeQMk1) | 2:30 | 2024-01-26 |  |
 | [2 almas](https://open.spotify.com/track/3x8wse8y39pB0hhu4MeEql) | [Greta Ela](https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8), [Nana Mendoza](https://open.spotify.com/artist/0f5pXcaEX3mou3QLNTdVaA) | [2 almas](https://open.spotify.com/album/3yxy66R5JTr8IjKUxlZn7T) | 3:21 | 2022-02-11 | 2022-09-07 |
 | [203](https://open.spotify.com/track/5hpcJ7KpnnjIkUH5Dg2xKo) | [Wampi](https://open.spotify.com/artist/31BgFzpxI5OFoq7R5xjtwf), [Wow Popy](https://open.spotify.com/artist/6DwZmisccKHHGmMGnCn4yv) | [203](https://open.spotify.com/album/7LinW4D3KgiYvCs7W3fxxm) | 2:50 | 2023-05-05 | 2023-06-20 |
-| [5 A.M.](https://open.spotify.com/track/1rsKdke2NJBGNDzqe4wVTz) | [eydrey](https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4) | [5 A.M.](https://open.spotify.com/album/2qd0uOP9veFhIFUKbuW2ks) | 3:02 | 2022-09-13 |  |
+| [5 A.M.](https://open.spotify.com/track/1rsKdke2NJBGNDzqe4wVTz) | [eydrey](https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4) | [5 A.M.](https://open.spotify.com/album/2qd0uOP9veFhIFUKbuW2ks) | 3:02 | 2022-09-13 | 2024-02-24 |
 | [9:15](https://open.spotify.com/track/505e4QYrsvZHOuojWxpOLK) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [9:15](https://open.spotify.com/album/0aHNuxs4GlcjYkoENqm6en) | 2:04 | 2023-05-12 |  |
 | [A la Carta](https://open.spotify.com/track/22a4UCHSOGzypj67zyOVEH) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ), [Jossman](https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH) | [A la Carta](https://open.spotify.com/album/7MOj5xWZV82U7TvBTW5kqH) | 2:53 | 2023-05-05 |  |
 | [A la Mitad \(Suceso 1\)](https://open.spotify.com/track/6nrLzFpL4xUclXvJfTaVgN) | [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK) | [Roxanne](https://open.spotify.com/album/0FG7jxl8cTYpORVr4d5MVo) | 3:33 | 2022-02-11 | 2023-05-13 |
@@ -38,6 +38,7 @@
 | [Aparato](https://open.spotify.com/track/0n35rbkfEiQMKHHOgUcvdV) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [Aparato](https://open.spotify.com/album/1zg2V4L2zBkzcHniquB0FP) | 3:32 | 2022-02-11 | 2022-05-20 |
 | [Aquel Nap ZzZz](https://open.spotify.com/track/5bQLsyTrUaMQRfr6whwGe5) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh) | 4:55 | 2022-09-06 |  |
 | [Aquí Sigo](https://open.spotify.com/track/03SfiKlwlCXmYRVHdXSA4C) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Aquí Sigo](https://open.spotify.com/album/1StQn8B5i4LVkAR0gJdRm9) | 2:38 | 2023-06-09 | 2023-07-20 |
+| [Aquí Sigo](https://open.spotify.com/track/44JxzOYUpQU5KvvjQvdU90) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Satus](https://open.spotify.com/album/47aH1PiabZA5UfZ5frshXe) | 2:38 | 2024-02-23 |  |
 | [Aquí Sigo](https://open.spotify.com/track/4NBbnTNp6oFMUlIDjOtXsB) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Aquí Sigo](https://open.spotify.com/album/3hr6FTGLuXCFvYnHuBpPaX) | 2:38 | 2023-07-14 | 2024-02-22 |
 | [Arrocito Frito](https://open.spotify.com/track/68BjkLhM0Sb0wGDd6w5jKU) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT) | [Arrocito Frito](https://open.spotify.com/album/5gAB1Cq1VVlQ7TzztBCG3T) | 3:01 | 2022-02-11 | 2022-09-07 |
 | [ASMR](https://open.spotify.com/track/3d6GBK3VlzhluJrFUNlrEi) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [ASMR](https://open.spotify.com/album/1tc2XAQZqkW9wvUTe6H6En) | 3:01 | 2023-05-12 | 2024-02-12 |
@@ -68,6 +69,7 @@
 | [CANDY](https://open.spotify.com/track/70AYiGbc4mWZGEqiipBBDb) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 3:13 | 2023-05-12 |  |
 | [CARACOL](https://open.spotify.com/track/4OE47kOc5ugkSGFn5tyuFo) | [Priscila Félix](https://open.spotify.com/artist/4c5q2DE9662sfdf6DNTNbI) | [CARACOL](https://open.spotify.com/album/681fae6BbavlsSjLEW0096) | 3:24 | 2022-09-06 | 2022-12-07 |
 | [Carmesí](https://open.spotify.com/track/0gb9JwHmyqfpMDMt1kCcZF) | [Panther](https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ) | [Carmesí](https://open.spotify.com/album/3gsuLWyOFkUwYRE9ykLEU9) | 2:45 | 2023-05-12 |  |
+| [Carro Caro](https://open.spotify.com/track/1VJI9IOEPGGs4BX8lFrdgX) | [JC Karo](https://open.spotify.com/artist/2MNRfUsu9bA4gzehlJc8hl) | [Carro Caro](https://open.spotify.com/album/3YVNR6B4eVBtBdC8dWGVse) | 2:21 | 2024-02-23 |  |
 | [Cerezos II](https://open.spotify.com/track/2yw2lAqQveFFWzr8Bu6uHG) | [Sara Ontaneda](https://open.spotify.com/artist/3gNLzb7aAJ0ZfUkyEvomsC) | [Experimento](https://open.spotify.com/album/74gTwPmW6qHE5TpKh5kPud) | 4:01 | 2022-02-11 | 2022-09-15 |
 | [Cerquita del Mar](https://open.spotify.com/track/5l6VAepfKDFDa2sR0fAELo) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Cerquita del Mar](https://open.spotify.com/album/5GouiabFEFinoSTOy0DqQM) | 3:21 | 2022-08-05 | 2023-05-13 |
 | [Chimbita](https://open.spotify.com/track/1s8LnjztT2IIxezpn0JP7H) | [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf) | [Chimbita](https://open.spotify.com/album/4q0baF6ACF19h9lFRz3Dit) | 2:45 | 2022-08-05 |  |
@@ -190,7 +192,7 @@
 | [Libre](https://open.spotify.com/track/6c0uR67qHuaEm4m7gGlUmw) | [Liana Malva](https://open.spotify.com/artist/56plP53XqguNv08lDJUeTt), [Letra Emece](https://open.spotify.com/artist/7LdWyUXrUSqKCS1CkX6KqM), [Kei Linch](https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf) | [Libre](https://open.spotify.com/album/4y1JivHvgNKyLD7Zx7RlHZ) | 3:53 | 2023-07-28 | 2023-11-10 |
 | [Like A Dream](https://open.spotify.com/track/0ekElz0t65b4rA69t1BDJp) | [Taylor DeBlock](https://open.spotify.com/artist/3LGMSoiXzbb7rX5ctDXFrD) | [Like A Dream](https://open.spotify.com/album/182SAZPVTQsNxKoNSWh1Ca) | 2:59 | 2022-02-11 | 2022-07-26 |
 | [Limbo](https://open.spotify.com/track/2nFZ9SYYlYgOW1OVDQfQoG) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [Limbo](https://open.spotify.com/album/1Kq5G4147jgvVqkTRjsi4J) | 2:58 | 2022-09-06 |  |
-| [Limo](https://open.spotify.com/track/31V2GmqlWRcbaY3Up9bLYf) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Limo](https://open.spotify.com/album/7EnuItH74MB3aNwab4WTni) | 2:54 | 2022-05-20 |  |
+| [Limo](https://open.spotify.com/track/31V2GmqlWRcbaY3Up9bLYf) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Limo](https://open.spotify.com/album/7EnuItH74MB3aNwab4WTni) | 2:54 | 2022-05-20 | 2024-02-24 |
 | [Llamando A Tu Fon](https://open.spotify.com/track/07lwUBDazPEFw2qvl9pERT) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Llamando A Tu Fon](https://open.spotify.com/album/2oXsW0YViUeRi38nZ41sl7) | 3:27 | 2023-05-12 |  |
 | [Lluvia de Verano](https://open.spotify.com/track/2mQMfGmg6hiCYKyhUVj2t0) | [Kira Brown](https://open.spotify.com/artist/3pa5M2Ewzy6L18H0PtrcD8), [AMEX](https://open.spotify.com/artist/22yjgBso2UylN40c0ZVdFY) | [Lluvia de Verano](https://open.spotify.com/album/0XmxvGBUc7KYEuhXBmv83R) | 2:37 | 2022-07-26 | 2022-09-07 |
 | [Lluvia de Verano](https://open.spotify.com/track/3cz8p8UYy3YfalZWeRQ5Zx) | [Kira Brown](https://open.spotify.com/artist/3pa5M2Ewzy6L18H0PtrcD8), [AMEX](https://open.spotify.com/artist/22yjgBso2UylN40c0ZVdFY) | [Lluvia de Verano](https://open.spotify.com/album/0r160EkID4SoGVLe6lUYqg) | 2:37 | 2022-02-11 | 2022-07-29 |

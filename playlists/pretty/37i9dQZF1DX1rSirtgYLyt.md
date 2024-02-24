@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rSirtgYLyt.md) - [plain]
 
 > The best cover versions from the world of Blues\. Taj Mahal on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,007 likes - 100 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,062 likes - 100 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rSirtgYLyt.md) - [plain]
 | 32 | [Summertime](https://open.spotify.com/track/22YV6hhUNMjv6Nf65NFSHg) | [Eilen Jewell](https://open.spotify.com/artist/7caMdiwqwg1WefL7Jjm23M) | [Green River](https://open.spotify.com/album/5EpWgT2sHg4I96ZIlJdDNd) | 5:05 |
 | 33 | [Need Your Love So Bad](https://open.spotify.com/track/7hTT6Wfwni319nUkp5fmO7) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Messing With The Blues](https://open.spotify.com/album/05uzQLgp14mnUm3QO4Hmlp) | 3:27 |
 | 34 | [Crow Jane](https://open.spotify.com/track/2b0ObO7Xk3qzJdMOhJc5c3) | [The Derek Trucks Band](https://open.spotify.com/artist/1YwfENKEZrowcmtR1nALZn) | [Songlines](https://open.spotify.com/album/1T6rgbl3cemngWpcLC99MH) | 3:53 |
-| 35 | [Smokestack Lightning](https://open.spotify.com/track/2ltKgfElKBcNHh2ZIq0TRv) | [Marty O'Reilly & the Old Soul Orchestra](https://open.spotify.com/artist/0oFKnXK9fgRpWNyKoJeSOy) | [Pray for Rain](https://open.spotify.com/album/4ZLAsjVWkF6YjKJbfa4fhA) | 6:51 |
+| 35 | [Smokestack Lightning](https://open.spotify.com/track/5ejer9JccgqM0XDMEvaDML) | [Marty O'Reilly & the Old Soul Orchestra](https://open.spotify.com/artist/0oFKnXK9fgRpWNyKoJeSOy) | [Pray for Rain](https://open.spotify.com/album/5UDdEvMwk2mSrepToHeEXs) | 6:47 |
 | 36 | [Ain't No Way](https://open.spotify.com/track/3XpmFvsO8U4kMlVmxcc0AH) | [Beth Hart, Joe Bonamassa](https://open.spotify.com/artist/5n1XQGBfQhNsALjJs0APL5) | [Don't Explain](https://open.spotify.com/album/2uyORQ080sXcPN0oO5lXvT) | 6:47 |
 | 37 | [She Loves You](https://open.spotify.com/track/7JltGnKRzDG5QMy9UrYM9t) | [Stan Webb](https://open.spotify.com/artist/5q92HD24UWdGpV7pUU0ZlF), [Chicken Shack](https://open.spotify.com/artist/7aUVQRiWaOqZU0JwOlGfWi) | [Strange Situations: The Stan Webb & Chicken Shack Indigo Sessions](https://open.spotify.com/album/4W13R6FBiOSmRqOL8KHFEJ) | 4:16 |
 | 38 | [Statesboro Blues](https://open.spotify.com/track/3UsbGR71AjcBYOWoUlfTdm) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [The 1971 Fillmore East Recordings](https://open.spotify.com/album/4RbjXWZ3uTRGP3DRT6nvKz) | 4:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rSirtgYLyt.md) - [plain]
 | 99 | [Taxman](https://open.spotify.com/track/3kT1cthH4KOLPJRpmdHQrI) | [Teresa James](https://open.spotify.com/artist/4Ovys1AMeXFomDQvnc4f0C) | [Taxman](https://open.spotify.com/album/147vvnC0aJ0Ttrtbgmv6ee) | 3:26 |
 | 100 | [Hound Dog](https://open.spotify.com/track/64Ny7djQ6rNJspquof2KoX) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Golden Records](https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek) | 2:16 |
 
-Snapshot ID: `MCxhNzk0ZTExYTM4ZmZkZGMzMGY5MGQwYWNlZmI5OWUwMjU0MzZhZWMx`
+Snapshot ID: `MCxjZWIwOGI1OGY2MzJjZjY0ZDMxNzZiNmU0MDJlNTdkZjQxN2YyZjVl`

@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-545 songs - 1 day 8 hr 46 min
+546 songs - 1 day 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -304,7 +304,7 @@
 | [Make You](https://open.spotify.com/track/1SPUmDMhbzHOsizroAypLi) | [Famous Yesterday](https://open.spotify.com/artist/6SQu8AZw8mjUFT6GFxBJ7h) | [Make You](https://open.spotify.com/album/71K55CCV4inStm0uoLJZF8) | 2:50 | 2021-12-16 | 2022-07-29 |
 | [Make You](https://open.spotify.com/track/7DXQPLHpsoSkDCOmw6jdyf) | [Famous Yesterday](https://open.spotify.com/artist/6SQu8AZw8mjUFT6GFxBJ7h) | [Make You](https://open.spotify.com/album/2R3BPuzo1srqdas4Y60gL7) | 2:50 | 2022-09-08 | 2023-03-25 |
 | [Malibu Man](https://open.spotify.com/track/5fp7TUlIjOMdhNMkJJIvgx) | [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Waiting on a Song](https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F) | 3:36 | 2022-03-30 | 2023-12-09 |
-| [Mambo Sun \- 2003 Remaster](https://open.spotify.com/track/79dQwpXjJ4t3pILysdqFyB) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Electric Warrior \[Expanded & Remastered\]](https://open.spotify.com/album/6k1iylSzWOs7SgavxlJ8kt) | 3:40 | 2022-03-30 |  |
+| [Mambo Sun \- 2003 Remaster](https://open.spotify.com/track/79dQwpXjJ4t3pILysdqFyB) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Electric Warrior \[Expanded & Remastered\]](https://open.spotify.com/album/6k1iylSzWOs7SgavxlJ8kt) | 3:40 | 2022-03-30 | 2024-02-24 |
 | [Marcy Son What](https://open.spotify.com/track/4Sp1D2xf63Y1QR572hW0He) | [Shakarchi & Stranéus](https://open.spotify.com/artist/6j7oCqripDrP3x226wAF5H) | [Steal Chickens From Men And the Future From God](https://open.spotify.com/album/51sbT6gvFD5BnGU8kGpBVw) | 4:55 | 2021-12-16 | 2022-07-27 |
 | [Maybe](https://open.spotify.com/track/5Am6lXmZTztC7YE0VA4p1l) | [Woman Believer](https://open.spotify.com/artist/4Hk4enNrVcLeSMuJahX0Nk) | [Dunzo](https://open.spotify.com/album/3gAkn7srP6kWFHgnApjDxx) | 3:24 | 2021-12-16 | 2022-07-29 |
 | [Melt](https://open.spotify.com/track/3CY9kIRQFXfUqlBrzUgU6T) | [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv) | [New Skin](https://open.spotify.com/album/3NX6AZtgTNY92MmspNQLiu) | 3:34 | 2021-12-16 | 2022-07-14 |
@@ -331,6 +331,7 @@
 | [No Better](https://open.spotify.com/track/0DXlHWi8pqB5R2gfzlZx2i) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Shanti](https://open.spotify.com/album/0u5GdeMzPuGFMbkJgt2RHz) | 4:02 | 2022-03-30 | 2022-04-20 |
 | [No Ending](https://open.spotify.com/track/1wId84Uc14XIEIKfcSYAE0) | [Delv!s](https://open.spotify.com/artist/4cHYNNA4fiedY4Wpd0iVo2) | [No Ending](https://open.spotify.com/album/0XoSMRAH1gvIb0c3n5jLET) | 3:53 | 2021-12-16 | 2022-07-28 |
 | [No Ending](https://open.spotify.com/track/6oqu8k5xFlEO9d0epyyHGC) | [Delv!s](https://open.spotify.com/artist/4cHYNNA4fiedY4Wpd0iVo2) | [No Ending](https://open.spotify.com/album/6KXuLqANULTBsHJIzadNBk) | 3:53 | 2022-07-26 | 2022-10-04 |
+| [No Going Back](https://open.spotify.com/track/356aM3w6i5v1cltIzOnVTP) | [Yuno](https://open.spotify.com/artist/36BjLtXEXIifbRrfc1Rtqa) | [Moodie](https://open.spotify.com/album/4XMQDHZSKpEg1UReRiMuJC) | 3:28 | 2024-02-23 |  |
 | [Northern Lights](https://open.spotify.com/track/3VT2WolplCglmbxCdiFy5A) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [David Harks](https://open.spotify.com/artist/6j8GXOmXESx4CKWRdIYtCB) | [Northern Lights](https://open.spotify.com/album/0RvAK6H7VXlTrgoUJ6HlSI) | 4:15 | 2022-03-30 | 2022-04-20 |
 | [Nothing I'd Rather Be \(Than Your Weakness\)](https://open.spotify.com/track/3owHLzUSmcAhtCFT8WZfZb) | [Marva Whitney](https://open.spotify.com/artist/691nF1fI0SKCfsIypzFr7h) | [Eccentric Soul: The Forte Label](https://open.spotify.com/album/2odsUYbi8bSi0jkjeAQ4mC) | 3:11 | 2022-03-30 | 2022-04-21 |
 | [Now That Everything's Been Said](https://open.spotify.com/track/2QJKcw2rUb6RUM8uDBPSJq) | [The City](https://open.spotify.com/artist/7sGn2EJElyIPoxp6aWVg5O) | [Now That Everything's Been Said](https://open.spotify.com/album/1dhhTa6Pe8q3zd9zuuK5op) | 2:21 | 2021-12-16 | 2022-07-29 |

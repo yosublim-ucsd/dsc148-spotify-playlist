@@ -1,12 +1,12 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Thalles Roberto",
-  "num_followers": 135004,
+  "num_followers": 135051,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNjUwYjg3NWNlM2MxNzRhNWEzMzUwNTIwMmVkYmFjNzQzOWVmZTMx",
+  "snapshot_id": "MCw1ZjU1MGE1ZDdjNmJlMGU1NDUxMjg3ZGZkNmEzMmRiZThkZmI5YTlj",
   "tracks": [
     {
       "added_at": "2023-12-22 03:00:00",
@@ -175,6 +175,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "De Malas Prontas",
+        "url": "https://open.spotify.com/album/0FYt1B473sCYjKI7cm1Dng"
+      },
+      "artists": [
+        {
+          "name": "Rodolfo Abrantes",
+          "url": "https://open.spotify.com/artist/0M8rmgpYMtvYbHvXD3cHkN"
+        }
+      ],
+      "duration_ms": 394353,
+      "name": "De Malas Prontas",
+      "url": "https://open.spotify.com/track/2C8aTCVZAiPad7Tb9CsVjD"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "1000 Graus",
         "url": "https://open.spotify.com/album/1YNEyzlJYU2QCcYbkQNXIB"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 168866,
       "name": "1000 Graus",
       "url": "https://open.spotify.com/track/0eAq2bA89nCxLTDBt9T1b0"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "De Malas Prontas",
-        "url": "https://open.spotify.com/album/0FYt1B473sCYjKI7cm1Dng"
-      },
-      "artists": [
-        {
-          "name": "Rodolfo Abrantes",
-          "url": "https://open.spotify.com/artist/0M8rmgpYMtvYbHvXD3cHkN"
-        }
-      ],
-      "duration_ms": 394353,
-      "name": "De Malas Prontas",
-      "url": "https://open.spotify.com/track/2C8aTCVZAiPad7Tb9CsVjD"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -319,26 +319,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Daniel (feat. Fernandinho)",
-        "url": "https://open.spotify.com/album/1SL5nfE14eLFlOd6wL79qT"
-      },
-      "artists": [
-        {
-          "name": "Thalles Roberto",
-          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
-        },
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        }
-      ],
-      "duration_ms": 252348,
-      "name": "Daniel (feat. Fernandinho)",
-      "url": "https://open.spotify.com/track/5KyiPrg9MOVz8fd6MGvKa2"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Tudo Fica Bem",
         "url": "https://open.spotify.com/album/74KhNQQ0J28XUQB5dC3JTE"
       },
@@ -359,18 +339,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Castelo Forte (Ao Vivo)",
-        "url": "https://open.spotify.com/album/56P5YZIPLleJ4Go7mMS91q"
+        "name": "Daniel (feat. Fernandinho)",
+        "url": "https://open.spotify.com/album/1SL5nfE14eLFlOd6wL79qT"
       },
       "artists": [
         {
-          "name": "AtituD",
-          "url": "https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p"
+          "name": "Thalles Roberto",
+          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
+        },
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
         }
       ],
-      "duration_ms": 223440,
-      "name": "Castelo Forte - Ao Vivo",
-      "url": "https://open.spotify.com/track/5ZEYjMZz5grx0I0EWJjOO1"
+      "duration_ms": 252348,
+      "name": "Daniel (feat. Fernandinho)",
+      "url": "https://open.spotify.com/track/5KyiPrg9MOVz8fd6MGvKa2"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -387,6 +371,22 @@
       "duration_ms": 370520,
       "name": "Jardim Dos Inocentes",
       "url": "https://open.spotify.com/track/6Jxs0BSse305oGyLW6aDKF"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Castelo Forte (Ao Vivo)",
+        "url": "https://open.spotify.com/album/56P5YZIPLleJ4Go7mMS91q"
+      },
+      "artists": [
+        {
+          "name": "AtituD",
+          "url": "https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p"
+        }
+      ],
+      "duration_ms": 223440,
+      "name": "Castelo Forte - Ao Vivo",
+      "url": "https://open.spotify.com/track/5ZEYjMZz5grx0I0EWJjOO1"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Cantem os Anjos",
-        "url": "https://open.spotify.com/album/3M0uJ7cTPCDAyaz6DXxviB"
-      },
-      "artists": [
-        {
-          "name": "Minist\u00e9rio M3",
-          "url": "https://open.spotify.com/artist/7AsSQROc0YPjmh4cVPP8S6"
-        }
-      ],
-      "duration_ms": 194533,
-      "name": "Cantem os Anjos",
-      "url": "https://open.spotify.com/track/6inrfYpzde4Izw9ZVzVcqs"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Sou Teu",
         "url": "https://open.spotify.com/album/47i2kk0tnCyY6VdjE3ZPZC"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 350664,
       "name": "Sou Teu",
       "url": "https://open.spotify.com/track/73Ut3bFGmzXZbaf5LvEPlJ"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Cantem os Anjos",
+        "url": "https://open.spotify.com/album/3M0uJ7cTPCDAyaz6DXxviB"
+      },
+      "artists": [
+        {
+          "name": "Minist\u00e9rio M3",
+          "url": "https://open.spotify.com/artist/7AsSQROc0YPjmh4cVPP8S6"
+        }
+      ],
+      "duration_ms": 194533,
+      "name": "Cantem os Anjos",
+      "url": "https://open.spotify.com/track/6inrfYpzde4Izw9ZVzVcqs"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -695,26 +695,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Na Terra Parte 2/3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2REZbS8CQZnhrBdEhmTZ1d"
-      },
-      "artists": [
-        {
-          "name": "Palankin",
-          "url": "https://open.spotify.com/artist/796gkD2e78sHPMakFcnqUJ"
-        },
-        {
-          "name": "Ana Rock",
-          "url": "https://open.spotify.com/artist/7hh91Pi4y3ey6t0m8I0P5U"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "As Sepulturas Se Abrir\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/2RE0vtoTP7U55ore8UUeTy"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Estrangeiro",
         "url": "https://open.spotify.com/album/3kI4PndJ7hoyt13PWIICpI"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 226911,
       "name": "Estrangeiro",
       "url": "https://open.spotify.com/track/2HdkGrK8kgT65oTqI2IyWU"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Na Terra Parte 2/3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2REZbS8CQZnhrBdEhmTZ1d"
+      },
+      "artists": [
+        {
+          "name": "Palankin",
+          "url": "https://open.spotify.com/artist/796gkD2e78sHPMakFcnqUJ"
+        },
+        {
+          "name": "Ana Rock",
+          "url": "https://open.spotify.com/artist/7hh91Pi4y3ey6t0m8I0P5U"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "As Sepulturas Se Abrir\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/2RE0vtoTP7U55ore8UUeTy"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -883,46 +883,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Columb\u00e1rio",
-        "url": "https://open.spotify.com/album/4o6BATvOsC4vbHJySc5avV"
-      },
-      "artists": [
-        {
-          "name": "Catarina Von Bora",
-          "url": "https://open.spotify.com/artist/3DxQewmz2PoRvVVpWEv5iH"
-        },
-        {
-          "name": "Coletivo Candiero",
-          "url": "https://open.spotify.com/artist/2WoLRZ8lSMvx4BWJGNblqV"
-        },
-        {
-          "name": "Daniel Alves",
-          "url": "https://open.spotify.com/artist/3eW6cEr5fLxtSXZDBTJNSK"
-        }
-      ],
-      "duration_ms": 215836,
-      "name": "Vestido Azul",
-      "url": "https://open.spotify.com/track/5hLjEIr4NmAsGarqTwm0mA"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "\u00c9 Tempo de Abrir o Cora\u00e7\u00e3o / Santo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/42NjnTNuaIEGBsX3XACxGX"
-      },
-      "artists": [
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        }
-      ],
-      "duration_ms": 274005,
-      "name": "\u00c9 Tempo de Abrir o Cora\u00e7\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/5UtV3TOSr21gcvSxKA0mhf"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Dia De Milagres",
         "url": "https://open.spotify.com/album/5HAEqBs5oAlXReyhPPYYsQ"
       },
@@ -947,6 +907,46 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "\u00c9 Tempo de Abrir o Cora\u00e7\u00e3o / Santo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/42NjnTNuaIEGBsX3XACxGX"
+      },
+      "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        }
+      ],
+      "duration_ms": 274005,
+      "name": "\u00c9 Tempo de Abrir o Cora\u00e7\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/5UtV3TOSr21gcvSxKA0mhf"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Columb\u00e1rio",
+        "url": "https://open.spotify.com/album/4o6BATvOsC4vbHJySc5avV"
+      },
+      "artists": [
+        {
+          "name": "Catarina Von Bora",
+          "url": "https://open.spotify.com/artist/3DxQewmz2PoRvVVpWEv5iH"
+        },
+        {
+          "name": "Coletivo Candiero",
+          "url": "https://open.spotify.com/artist/2WoLRZ8lSMvx4BWJGNblqV"
+        },
+        {
+          "name": "Daniel Alves",
+          "url": "https://open.spotify.com/artist/3eW6cEr5fLxtSXZDBTJNSK"
+        }
+      ],
+      "duration_ms": 215836,
+      "name": "Vestido Azul",
+      "url": "https://open.spotify.com/track/5hLjEIr4NmAsGarqTwm0mA"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Louco (feat. PG)",
         "url": "https://open.spotify.com/album/4yc5e16AJYtTFxCv4J0VTg"
       },
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "O que o c\u00e9u come\u00e7a o c\u00e9u termina (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3zfUPNwzbXglzAEsaOdQl9"
-      },
-      "artists": [
-        {
-          "name": "Marcus Salles",
-          "url": "https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI"
-        }
-      ],
-      "duration_ms": 251707,
-      "name": "O que o c\u00e9u come\u00e7a o c\u00e9u termina - Ao Vivo",
-      "url": "https://open.spotify.com/track/2G8YIlCvrzyoTUxODWWWBw"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Peregrino",
         "url": "https://open.spotify.com/album/4dR7tsqUtupAePL6ySYmJG"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 258000,
       "name": "Peregrino",
       "url": "https://open.spotify.com/track/0FvYGlP6nmNr1SJAABbhEQ"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "O que o c\u00e9u come\u00e7a o c\u00e9u termina (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3zfUPNwzbXglzAEsaOdQl9"
+      },
+      "artists": [
+        {
+          "name": "Marcus Salles",
+          "url": "https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI"
+        }
+      ],
+      "duration_ms": 251707,
+      "name": "O que o c\u00e9u come\u00e7a o c\u00e9u termina - Ao Vivo",
+      "url": "https://open.spotify.com/track/2G8YIlCvrzyoTUxODWWWBw"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Me Ensina a Seguir",
-        "url": "https://open.spotify.com/album/661NUWpdZwuHVZcyg9yXuq"
-      },
-      "artists": [
-        {
-          "name": "Al\u00e9m do Mar",
-          "url": "https://open.spotify.com/artist/7jRI5VDkIu2JU3zpyiF1b3"
-        }
-      ],
-      "duration_ms": 246333,
-      "name": "Me Ensina a Seguir",
-      "url": "https://open.spotify.com/track/53m9pJdNLAbNefsoA590sr"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Agora Eu Vivo Teu Amor",
         "url": "https://open.spotify.com/album/32ZRNqlaLU1i87f73nuEvO"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 190519,
       "name": "Agora Eu Vivo Teu Amor",
       "url": "https://open.spotify.com/track/7xZmvwdTsv3Yn8iCTsaVl0"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Me Ensina a Seguir",
+        "url": "https://open.spotify.com/album/661NUWpdZwuHVZcyg9yXuq"
+      },
+      "artists": [
+        {
+          "name": "Al\u00e9m do Mar",
+          "url": "https://open.spotify.com/artist/7jRI5VDkIu2JU3zpyiF1b3"
+        }
+      ],
+      "duration_ms": 246333,
+      "name": "Me Ensina a Seguir",
+      "url": "https://open.spotify.com/track/53m9pJdNLAbNefsoA590sr"
     },
     {
       "added_at": "2023-12-22 03:00:00",

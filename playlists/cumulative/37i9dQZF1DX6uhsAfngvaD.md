@@ -4,7 +4,7 @@
 
 > Blissful indie for dreamers.
 
-387 songs - 1 day 0 hr 27 min
+388 songs - 1 day 0 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Defeat](https://open.spotify.com/track/1Vh0KfWMQV2U8e7PHISLXB) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Defeat](https://open.spotify.com/album/2zRMEsfxrnfSHYdRwbrnGd) | 21:58 | 2023-09-29 | 2023-10-10 |
 | [Delicadeza](https://open.spotify.com/track/2Yskv1YwRJfu6L7auWA34g) | [Mint Field](https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz) | [Sentimiento Mundial](https://open.spotify.com/album/5l42UGler5fwv207TkXYtI) | 2:58 | 2022-07-06 | 2023-10-26 |
 | [Delicadeza](https://open.spotify.com/track/67RdRmkIRxl3iShk1hknwo) | [Mint Field](https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz) | [Delicadeza](https://open.spotify.com/album/6irEnIp0EJnBsUE97CFa2u) | 2:58 | 2020-09-19 | 2022-07-03 |
-| [Detox](https://open.spotify.com/track/3noiIjMMoDd5mrjMrdcFUu) | [Bored at My Grandmas House](https://open.spotify.com/artist/0hQ6Js0CTBu337vggHinhk) | [Detox](https://open.spotify.com/album/35GawsI3gsZ0VzMxGzUaFI) | 4:33 | 2022-02-24 |  |
+| [Detox](https://open.spotify.com/track/3noiIjMMoDd5mrjMrdcFUu) | [Bored at My Grandmas House](https://open.spotify.com/artist/0hQ6Js0CTBu337vggHinhk) | [Detox](https://open.spotify.com/album/35GawsI3gsZ0VzMxGzUaFI) | 4:33 | 2022-02-24 | 2024-02-24 |
 | [Devil's Rain](https://open.spotify.com/track/18XFAgtkhDxKv1cpnr2C3w) | [Maria BC](https://open.spotify.com/artist/1GRdVyqsikMsJrvHskjwry) | [Devil's Rain](https://open.spotify.com/album/1BpmnOSr7soKNqnN3XQJqy) | 4:07 | 2021-02-26 | 2022-07-28 |
 | [Diamond Brand](https://open.spotify.com/track/5tOH5FgEC8CS2ukdSwwy93) | [Terry vs\. Tori](https://open.spotify.com/artist/1UAyQNs2HANU7mGGqtXzJv), [David Alonso](https://open.spotify.com/artist/4UsGLneQCLnB5pdD9SgU8H) | [Diamond Brand](https://open.spotify.com/album/7DKw9lpME0EYfvuyW2gfST) | 3:02 | 2021-03-06 | 2022-07-26 |
 | [Digital Parallax](https://open.spotify.com/track/50G0Mc9N7C93qohJgraZbI) | [Michl](https://open.spotify.com/artist/0qG3lxHmrUeKzL1BJJ7IBN) | [Digital Parallax](https://open.spotify.com/album/1NavqWb4CWBpAkrEv99AFM) | 3:08 | 2022-02-24 | 2022-09-03 |
@@ -116,6 +116,7 @@
 | [Ether \(Sick at Heart\)](https://open.spotify.com/track/4bMXxqBnfgHec86gvIJSb1) | [field trip](https://open.spotify.com/artist/7H3w7t2sruDR7y7RSHClNI) | [Ether \(Sick at Heart\)](https://open.spotify.com/album/5QRfS8bCyp3BNyyJWNpeVl) | 3:04 | 2019-11-19\* | 2020-11-06 |
 | [Even True Love](https://open.spotify.com/track/47v05paasX7rOW6U7kZmvV) | [Widowspeak](https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP) | [Plum](https://open.spotify.com/album/3pFbQCFNSwQgcmU4RzTgLA) | 4:46 | 2022-07-06 | 2023-09-02 |
 | [Even True Love](https://open.spotify.com/track/79PaJyGdIi8XN6d9tp2YlT) | [Widowspeak](https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP) | [Even True Love](https://open.spotify.com/album/4cMrZSmZziTfor1wqUZgGV) | 4:46 | 2020-08-09 | 2022-07-28 |
+| [everything to die for](https://open.spotify.com/track/05x8IQafuKgd3icfkyprxh) | [mui zyu](https://open.spotify.com/artist/4ZE2UrQP3ATxcgwVTbnd7w) | [everything to die for](https://open.spotify.com/album/2wP6cJwvwsHdwLmnvR0Pr2) | 3:11 | 2024-02-21 |  |
 | [Faces](https://open.spotify.com/track/1bnzho2GEO8gOg1j0a8Tnq) | [No Swoon](https://open.spotify.com/artist/3th2nHK122HxCbpATSNXfp) | [Faces](https://open.spotify.com/album/4nDoP0Dtjv9HGiPpsjb2z6) | 4:55 | 2019-11-19\* | 2021-03-06 |
 | [Falling Apart Without You](https://open.spotify.com/track/10ANYWmxWwURWwjPqCUGo8) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Falling Apart Without You](https://open.spotify.com/album/2ab1JYYysapgQgPeBPHoJr) | 3:23 | 2023-05-10 |  |
 | [Famous Enough to Die](https://open.spotify.com/track/0hsKYjt75TyaB0QXTFE2Fd) | [Oscar Scheller](https://open.spotify.com/artist/6BToM88XrzNI6VL5GxazUq) | [Famous Enough to Die](https://open.spotify.com/album/00ed3pj0roOngfB8vGp0Ls) | 2:46 | 2020-08-09 | 2020-12-22 |

@@ -4,7 +4,7 @@
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Ananda, Supercombo
 
-430 songs - 1 day 0 hr 5 min
+433 songs - 1 day 0 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [Eu te amo você \(Live Sala de Estar\)](https://open.spotify.com/track/6W0lFjQTyYyHkszNlUWtrd) | [Karen Jonz](https://open.spotify.com/artist/2Pq5MMGyujBoU9C9Ax9n5C) | [Eu te amo você \(Live Sala de Estar\)](https://open.spotify.com/album/3gIYxv8J959nvOH0MtCQeM) | 2:50 | 2023-11-03 | 2024-02-03 |
 | [Eu te amo você \- Live Sala de Estar](https://open.spotify.com/track/4fCuJF71M3gcecekJPODWO) | [Karen Jonz](https://open.spotify.com/artist/2Pq5MMGyujBoU9C9Ax9n5C) | [Eu te amo você \(Live Sala de Estar\)](https://open.spotify.com/album/6hrkcSV4mybnW4dbJd04hd) | 2:50 | 2023-09-15 | 2023-11-04 |
 | [Eu Tive Uma Visão \- Versão Grunge](https://open.spotify.com/track/0DhoQiPl1nw5IcMolkengo) | [Autoramas](https://open.spotify.com/artist/6IwPtS5L4cV9yCB66mhheZ) | [Eu Tive Uma Visão \(Versão Grunge\)](https://open.spotify.com/album/2n1pE8HLpzG8ySHt19WBXU) | 2:39 | 2022-03-11 | 2022-03-18 |
+| [Fade Away](https://open.spotify.com/track/3sOfcud8C4YSVOiCGWynYM) | [Axty](https://open.spotify.com/artist/4zVeGdifjxGkC3eCSmCo0H) | [Fade Away](https://open.spotify.com/album/2c3I2PZ07EIbtqlxUFTz0f) | 3:10 | 2024-02-23 |  |
 | [Fala na Cara](https://open.spotify.com/track/0aPH5FHJaLkbHftmYyeWHj) | [Giovanna Moraes](https://open.spotify.com/artist/1NYYWX3yvMjUMkXRkgVKxb) | [Fala na Cara](https://open.spotify.com/album/14qtdt0FYJWQX00R2hBlun) | 3:46 | 2023-04-14 | 2024-02-17 |
 | [Farofada Rock 'N Roll](https://open.spotify.com/track/4dVpdccbklkJ6lC1hffbJN) | [Maria do Relento](https://open.spotify.com/artist/2ZJAUr36IZp6pSiegYWRJP) | [Farofada Rock 'N Roll](https://open.spotify.com/album/34oikwHIkR0WhLmuPALBhx) | 3:34 | 2022-02-04 | 2022-04-09 |
 | [Fascista](https://open.spotify.com/track/5Fv2X9NcDca6NMTRHLEIma) | [Escambau](https://open.spotify.com/artist/5A9wuZoMAlH0P2eFN7Fd7u) | [Leite de Pedra](https://open.spotify.com/album/1rygfNkdmlHaTmk40kL49E) | 3:02 | 2022-09-23 | 2022-10-15 |
@@ -220,6 +221,7 @@
 | [Luzia](https://open.spotify.com/track/0R1xhETyCm9SD5zcUkw3sI) | [Mukeka di Rato](https://open.spotify.com/artist/2WEABapGGzYET6Dq5tmIDi) | [Boiada Suicida](https://open.spotify.com/album/6Pe6o0LB5UKPSJGCRRwa5b) | 1:34 | 2022-08-05 | 2022-09-03 |
 | [Lúmen](https://open.spotify.com/track/59zeW3tMD4uoyfnX9Vqwtg) | [menores atos](https://open.spotify.com/artist/6KNc5HwsgpYNBCPaPrg4dv) | [Lúmen](https://open.spotify.com/album/2cLYS9JiviSsS0Pu7wQtwD) | 4:16 | 2022-05-20 | 2022-06-18 |
 | [Madri](https://open.spotify.com/track/5TZB7FD8GDhzd9qS8BK4B3) | [Malta](https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG) | [Madri](https://open.spotify.com/album/01Kqulu74DLpLs7NVW8L80) | 2:58 | 2022-03-25 | 2022-12-03 |
+| [Mais Pesado Que o Mundo](https://open.spotify.com/track/3fjHKrKyjq7r53Nr46txRT) | [No Gabiru](https://open.spotify.com/artist/7ohOiUqAS7HaDCUxK01Oty) | [Mais Pesado Que o Mundo](https://open.spotify.com/album/5hcISjcTrE5SV0s7Cr1Kfn) | 2:43 | 2024-02-23 |  |
 | [Mais Que Folclore \(Ao Vivo no Sonastério\)](https://open.spotify.com/track/1qxD9mhGGoyUYZXh6u7sGh) | [BRAZA](https://open.spotify.com/artist/5F0iFhw7bZE7a8INjualJn), [Sonastério](https://open.spotify.com/artist/0NTc2g91fsvvAoAgUXMUmW) | [BRAZA ilumina Sonastério](https://open.spotify.com/album/0bwFN5W3VUinPfnFNdRfQy) | 3:33 | 2022-07-01 | 2022-07-30 |
 | [Mais um Podcast](https://open.spotify.com/track/6H3aGsBZRZcrhruCIVndV7) | [Sid](https://open.spotify.com/artist/05BrFNfdik79RdmOG1Ux1Q), [Ugo Ludovico](https://open.spotify.com/artist/2TIQW6pADcKJb2rbgJqGKQ) | [Mais um Podcast](https://open.spotify.com/album/5aMGEksFkMsVeEJjkR3P3N) | 2:39 | 2023-05-05 | 2023-05-13 |
 | [Mais um Sábado Perdido](https://open.spotify.com/track/0aTRGWsVtazREkGaIR9EdW) | [No Gabiru](https://open.spotify.com/artist/7ohOiUqAS7HaDCUxK01Oty) | [Mais um Sábado Perdido](https://open.spotify.com/album/2RnAXXsGewXhBgdqeiFf99) | 2:03 | 2022-02-18 | 2022-03-18 |
@@ -337,6 +339,7 @@
 | [Queima!](https://open.spotify.com/track/0pF769SkaUcmdqoZysvcAY) | [Inocentes](https://open.spotify.com/artist/5PFAm9rM4jrm1X2jPX95E2) | [Queima!](https://open.spotify.com/album/0y1eK5Qgz9md8R9SambB6h) | 2:30 | 2022-07-29 | 2022-08-02 |
 | [QUEM NUNCA??](https://open.spotify.com/track/3LhSiMorC6IntBm252H00W) | [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt), [Egypcio](https://open.spotify.com/artist/6RvFkY3SiqssdttuI7bpH6) | [QUEM NUNCA??](https://open.spotify.com/album/5jOmOMFV9BbNxKHvmrddtV) | 3:36 | 2023-11-10 |  |
 | [Quero Ser Eu Mesmo](https://open.spotify.com/track/4KRdoq2lJw8dKg9QvJkx07) | [The Kira Justice](https://open.spotify.com/artist/0h00Bh6AN0E9SOnMVInpcN), [Samurai Ghile](https://open.spotify.com/artist/3kSm6WL86cVmLKLTFS3G6N) | [Quero Ser Eu Mesmo](https://open.spotify.com/album/04YbltMjXDT4Kmv07nbxXO) | 3:26 | 2022-01-14 | 2022-04-16 |
+| [Quintal de Ilusões](https://open.spotify.com/track/1rtbQCSZnoqekCaYzFrgFT) | [kamposcomk](https://open.spotify.com/artist/5v7FspAp61fDlTWCdbdWmE) | [Quintal de Ilusões](https://open.spotify.com/album/6SItZTMqdkxqoUWIbNnxAt) | 3:06 | 2024-02-23 |  |
 | [raiva](https://open.spotify.com/track/5ohmUHZRVYckbotO3zP30w) | [Duda In The Sky](https://open.spotify.com/artist/7JMMxGGAQVHUU3KAGHVUFu) | [raiva](https://open.spotify.com/album/3ahG4lLXnrvZjc9Sb89BP1) | 3:15 | 2022-05-20 | 2022-09-24 |
 | [Real grandeza](https://open.spotify.com/track/4iYxIpgcAIUAGUaQLG9guW) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [12 de Janeiro \(Edição Comemorativa 2023\)](https://open.spotify.com/album/5mC2qIZAOOVrmq8EwTvoa3) | 3:47 | 2023-01-13 | 2023-03-25 |
 | [Recomeço](https://open.spotify.com/track/4aviofk0mZZn81yLNHYY15) | [Tukum](https://open.spotify.com/artist/69aatX6EpsWfK0b4rsFsly) | [Recomeço](https://open.spotify.com/album/6J1JucU1ItGgQ9BobRei8y) | 3:00 | 2023-01-27 | 2023-07-15 |

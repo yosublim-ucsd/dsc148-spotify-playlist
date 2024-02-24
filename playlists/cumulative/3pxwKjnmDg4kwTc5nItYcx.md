@@ -4,7 +4,7 @@
 
 > Down\-tempo and easy listening music\. Cover: Budjerah
 
-758 songs - 1 day 16 hr 47 min
+759 songs - 1 day 16 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -294,6 +294,7 @@
 | [Hold On](https://open.spotify.com/track/73kCnQ0CKS81v2UVFEu5Vp) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN) | [Hold On](https://open.spotify.com/album/2iaxtQfXx5WqypwT23lcj9) | 4:06 | 2019-08-27\* | 2019-11-11 |
 | [Hold On To Me](https://open.spotify.com/track/5tnRnYnQIm9iJCraZGpOJp) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Hold On To Me](https://open.spotify.com/album/3nG6F5yVPJubWNP5dp24b2) | 3:05 | 2021-02-26 |  |
 | [Holding The Gun](https://open.spotify.com/track/3tPyNRszpXjFhbJXgZIFT7) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Holding The Gun](https://open.spotify.com/album/2qu4bnIxDzOt9iaWF2kkQO) | 3:08 | 2019-08-27\* | 2020-02-12 |
+| [Holy Smokes](https://open.spotify.com/track/1kMWJ16W3Yk3hyNmaM7jfQ) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Holy Smokes](https://open.spotify.com/album/389w7hzxpiOmpGEWFCNEoP) | 3:15 | 2024-02-23 |  |
 | [Home With Me](https://open.spotify.com/track/4L5k6CJOltwqapOYT7OvkH) | [RIIKI REID](https://open.spotify.com/artist/5E9EpWliOZr1yTJ8A7XSqC) | [Home With Me](https://open.spotify.com/album/4YuGF62IsiSP9PzRu3YERe) | 2:47 | 2023-08-18 |  |
 | [Homecoming Queen](https://open.spotify.com/track/28grzRrS5csyaI4uK98IX0) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [Better in Blak](https://open.spotify.com/album/0QuumkXPKBWR7wOKUfqQ34) | 3:51 | 2019-12-10 | 2021-05-12 |
 | [Honesty \(Remix\) \[feat\. Jessie Reyez\]](https://open.spotify.com/track/47r6MeqPoeQgCsa5vOQxoo) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Honesty \(Remix\) \[feat\. Jessie Reyez\]](https://open.spotify.com/album/44PYSauexmFDmMYYW0mB7r) | 3:07 | 2019-11-08 | 2020-02-12 |

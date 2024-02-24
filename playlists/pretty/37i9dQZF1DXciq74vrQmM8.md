@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. Jazmin Bean
 
-[Spotify](https://open.spotify.com/user/spotify) - 696,716 likes - 79 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 696,697 likes - 79 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 23 | [ACHOO!](https://open.spotify.com/track/5RuUuBtaiPVnACY5nTohue) | [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [CRITTERS](https://open.spotify.com/album/7jycItY9gSsb0WJKLXFuOL) | 1:39 |
 | 24 | [Nothing Lasts Forever \(with Grimes\)](https://open.spotify.com/track/3g2JWlyUpLgwiLRsIKHM8h) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Nothing Lasts Forever \(with Grimes\)](https://open.spotify.com/album/4QBQzfxBfxVpLnAl91LB74) | 3:19 |
 | 25 | [DArkSide](https://open.spotify.com/track/19vHgVS1aukRiQWhTqfKnE) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [DArkSide](https://open.spotify.com/album/3E21iYJYv6lSkBkHBv3SKq) | 2:44 |
-| 26 | [Sh\*t Show](https://open.spotify.com/track/090hszohQB1ibgEYfY2KVJ) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Traumatic Livelihood](https://open.spotify.com/album/2bJSnPuFrikBDE4F6SxNC4) | 3:26 |
+| 26 | [Shit Show](https://open.spotify.com/track/090hszohQB1ibgEYfY2KVJ) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Traumatic Livelihood](https://open.spotify.com/album/2bJSnPuFrikBDE4F6SxNC4) | 3:26 |
 | 27 | [When We Die \(Can We Still Get High?\) \(feat\. Lil Yachty\)](https://open.spotify.com/track/08uWHOhYijA1DXxhHSDBDH) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [When We Die \(Can We Still Get High?\) \(feat\. Lil Yachty\)](https://open.spotify.com/album/3pgq59bj7H3zljjzgXvs6A) | 5:00 |
 | 28 | [Gaunt](https://open.spotify.com/track/07WXShmsAvKUVK3QYUubJ9) | [Deijuvhs](https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C) | [Gaunt](https://open.spotify.com/album/3hj2N8CIJ67hejzX5XcMRs) | 3:29 |
 | 29 | [Zig](https://open.spotify.com/track/58SM6Pb7Bi9WY7SO83bjQx) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Zig](https://open.spotify.com/album/3J353DwtMfUV3V6t9vRPCk) | 2:28 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 78 | [UNLOVED](https://open.spotify.com/track/16Kev1zgczcoaHfHpVVrFR) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [UNLOVED](https://open.spotify.com/album/3A4btnbfBBlRzBUbpvbRyQ) | 3:16 |
 | 79 | [Mitsuko](https://open.spotify.com/track/1oIEBoljXDbbaEciwMVzfx) | [Lake Malice](https://open.spotify.com/artist/4zoN3D2RviWzWeHvkT3wWO) | [Mitsuko](https://open.spotify.com/album/4FRKJAQ4jL39BOV1ju8GKO) | 2:09 |
 
-Snapshot ID: `MCwxNmQ5ODhmNGM2ODE3ZjI3ZDAyN2FiYjg5ODYyMTFkNTY5MDVkZDkz`
+Snapshot ID: `MCwxMzU3M2Q5NjBjOTkwNzlmZWUwZmUwMmNhY2E4NzRiODE1NjE0NTgx`

@@ -4,7 +4,7 @@
 
 > Country rap songs, made to be cranked up\. Cover: Brantley Gilbert and Jelly Roll
 
-169 songs - 9 hr 41 min
+170 songs - 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Dirt Road Anthem \(Revisited\)](https://open.spotify.com/track/13KyJdVV5uKFdwwkJiK7Vc) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx) | [Halfway To Heaven \(Deluxe Edition\)](https://open.spotify.com/album/3yWeEEaC5xs7FgzwRgjm1p) | 4:38 | 2021-05-21 | 2023-12-19 |
 | [Dirt Road Code](https://open.spotify.com/track/1GTj920e9eMA0NPgGQePjZ) | [SMO](https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9) | [Dirt Road Code](https://open.spotify.com/album/4RAtJqafw9mdDfyXva6Ghl) | 3:49 | 2021-08-27 | 2023-05-20 |
 | [Down by the Riverside](https://open.spotify.com/track/1p5VeCCFyeafMMDaXak10E) | [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM) | [Down by the Riverside](https://open.spotify.com/album/5XeC1lvfqfIs80BoY3qzpC) | 2:59 | 2021-05-21 |  |
+| [Down Here](https://open.spotify.com/track/1rit7R4jihrRlOBsXnSTri) | [Jay Webb](https://open.spotify.com/artist/74a1KhMBkw4iweAtpbjuHk) | [Down Here](https://open.spotify.com/album/7nlknl85Ot1h5XVCYzoDfI) | 2:04 | 2024-02-23 |  |
 | [Down the Road \(feat\. Colt Ford\) \- Remix](https://open.spotify.com/track/4CmYl83JZSKuMMjssiALgs) | [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM), [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx) | [Down the Road \(feat\. Colt Ford\) \[Remix\]](https://open.spotify.com/album/5yc1gjIdUXeSY6U6Qa1jwb) | 2:45 | 2021-05-21 |  |
 | [Drivin’ Around Song \(feat\. Jason Aldean\)](https://open.spotify.com/track/5BzDjeCZYxDd35rYSWY0yk) | [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx), [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Declaration of Independence \(Deluxe Edition\)](https://open.spotify.com/album/7inpRB8IXFTzcsYEhgAGLA) | 3:40 | 2021-05-21 | 2022-02-05 |
 | [Duramax \(feat\. Young Gunner\)](https://open.spotify.com/track/5nWcMMEUUY7QeNHCrQoiKe) | [Lenny Cooper](https://open.spotify.com/artist/4GhUchfx0YFPsDaXZRJp8v), [Young Gunner](https://open.spotify.com/artist/5U4zQH57FFSIBvYigOk7G1) | [The Grind](https://open.spotify.com/album/4r9uwGEGbssusA5DTt3SwE) | 3:06 | 2021-05-21 |  |
@@ -140,7 +141,7 @@
 | [Southern Boy](https://open.spotify.com/track/3fdSYv0zOMlcKe2jkybFBJ) | [Charlie Farley](https://open.spotify.com/artist/7c9KnWYDsZgK8k5QiCi9wk) | [Dirt Road Revival](https://open.spotify.com/album/4pWCmw4I5E9tBFbJ6noURB) | 3:14 | 2023-05-19 | 2023-08-24 |
 | [Standard American](https://open.spotify.com/track/0pjDpLLR4716mecRz06ikh) | [Gunnar & The Grizzly Boys](https://open.spotify.com/artist/1MaT8tk94UkY3k2thWudot) | [Mud Digger 5](https://open.spotify.com/album/0BqGica9dtGm0fAhLWsfsl) | 3:29 | 2021-05-21 |  |
 | [STICKS](https://open.spotify.com/track/1cuYOdYKx2tWkOdLzqnboR) | [Jamie Ray](https://open.spotify.com/artist/08sIoHx2vZUsqaWtoVHHo2) | [STICKS](https://open.spotify.com/album/08aU8OfWq8Qq3rXQc7NH2S) | 2:37 | 2022-04-15 |  |
-| [Stomp Them Boots](https://open.spotify.com/track/1x3kToYa48N2Zb0MOc7iiG) | [Young Gunner](https://open.spotify.com/artist/5U4zQH57FFSIBvYigOk7G1), [Twang and Round](https://open.spotify.com/artist/6K01VDVF9BORq58XTAR1aM) | [Stomp Them Boots](https://open.spotify.com/album/2k5eUp67yseXCF3pe4FjMJ) | 3:55 | 2023-05-19 |  |
+| [Stomp Them Boots](https://open.spotify.com/track/1x3kToYa48N2Zb0MOc7iiG) | [Young Gunner](https://open.spotify.com/artist/5U4zQH57FFSIBvYigOk7G1), [Twang and Round](https://open.spotify.com/artist/6K01VDVF9BORq58XTAR1aM) | [Stomp Them Boots](https://open.spotify.com/album/2k5eUp67yseXCF3pe4FjMJ) | 3:55 | 2023-05-19 | 2024-02-24 |
 | [Stomp Them Boots](https://open.spotify.com/track/5JGPBq7QfcAq19MviRkbpf) | [Young Gunner](https://open.spotify.com/artist/5U4zQH57FFSIBvYigOk7G1), [Twang and Round](https://open.spotify.com/artist/6K01VDVF9BORq58XTAR1aM) | [Stomp Them Boots](https://open.spotify.com/album/2WsT4YurJw25uWF3ESj6Oy) | 3:55 | 2022-07-22 | 2023-05-13 |
 | [Stomp Them Boots](https://open.spotify.com/track/5Nwyg9vefS3tLj8AnId4PD) | [Young Gunner](https://open.spotify.com/artist/5U4zQH57FFSIBvYigOk7G1), [Twang and Round](https://open.spotify.com/artist/6K01VDVF9BORq58XTAR1aM) | [Mud Digger 9](https://open.spotify.com/album/5RBysFw9eejDJw9jdQYQrD) | 3:55 | 2021-05-21 | 2022-07-29 |
 | [STOMP YOUR BOOTS](https://open.spotify.com/track/2di1pqbuFLM3tLsBVPHqdf) | [YA'BOYZ](https://open.spotify.com/artist/7vMHsgM6Rlv8loZc594Z9I) | [STOMP YOUR BOOTS](https://open.spotify.com/album/6Eu2ZNWz1pL800FFjxyxEZ) | 2:31 | 2021-11-05 |  |

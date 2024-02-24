@@ -4,7 +4,7 @@
 
 > Celebrating the extraordinary women breaking boundaries and keeping tradition alive\. Cover: Rhonda Vincent
 
-112 songs - 6 hr 23 min
+113 songs - 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Ride Away](https://open.spotify.com/track/7mbTpKeiHkrxWYQM9pmFWE) | [Della Mae](https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh) | [Family Reunion](https://open.spotify.com/album/2rAOtJeqLd0RvfqmHoaYZv) | 3:08 | 2023-06-30 |  |
 | [Roses](https://open.spotify.com/track/3FFu0uOEWYckhG3x84G2Tw) | [Jackson Hollow](https://open.spotify.com/artist/2WCHpMBjtoxlCWKb8gedHW) | [Roses](https://open.spotify.com/album/2EfieuernrZzBlyGRh0Vsj) | 4:29 | 2023-04-14 |  |
 | [Ruby, Are You Mad at Your Man?](https://open.spotify.com/track/3g7DfvDfXZ6MffPb9Q6ams) | [Carolina Chocolate Drops](https://open.spotify.com/artist/6H8Sj9gFyDYJ3T63LA3DKz) | [Leaving Eden](https://open.spotify.com/album/1RGG9MCrdqsaBqvvxiM2Hf) | 3:46 | 2023-04-14 |  |
+| [Saint Anthony](https://open.spotify.com/track/3eFYwua5oDXpONK6PXUc6r) | [Brit Taylor](https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC) | [Saint Anthony](https://open.spotify.com/album/7CSeXBSuRmHP4esFKvEl1A) | 2:43 | 2024-02-23 |  |
 | [Saint Elizabeth](https://open.spotify.com/track/0AXVGjlzkolKVm7ZnD6pqB) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Nine Pin](https://open.spotify.com/album/4an7nc1bshv75YnXbyp8bs) | 3:59 | 2023-04-14 |  |
 | [Salt Creek](https://open.spotify.com/track/6svk7gsndjE4PnZB7MGD4n) | [Murphy Henry](https://open.spotify.com/artist/16IzVSn0eZSPErN7JMU3Q2) | [M & M Blues](https://open.spotify.com/album/5jbWXwWBCC3dLS6rFn9byj) | 3:06 | 2023-04-14 |  |
 | [Save This Heart](https://open.spotify.com/track/5B1KYVaGIsI7v7LZYbXWI8) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Rise](https://open.spotify.com/album/3rUBCaC8gHZH4yrGWsYZRb) | 3:01 | 2023-04-14 |  |

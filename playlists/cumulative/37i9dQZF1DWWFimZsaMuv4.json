@@ -757,6 +757,24 @@
     },
     {
       "album": {
+        "name": "Calming Aeroplane Cabin",
+        "url": "https://open.spotify.com/album/6pFFUeBE9ePo5cyAzT5B0Y"
+      },
+      "artists": [
+        {
+          "name": "Zen Maestro",
+          "url": "https://open.spotify.com/artist/3JyVeZAzOZdJ2dyl5Qd1Wv"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314305,
+      "name": "Calming Aeroplane Cabin",
+      "url": "https://open.spotify.com/track/1kfHqlPZRzma8uaTVhCTk1"
+    },
+    {
+      "album": {
         "name": "Celestial Chorus (White Noise)",
         "url": "https://open.spotify.com/album/4TapNsGUXjZ1keadXQyRsV"
       },
@@ -1078,6 +1096,24 @@
       "duration_ms": 159027,
       "name": "Dreams & Calmness",
       "url": "https://open.spotify.com/track/295uck3ky42Qj4rxbISGG5"
+    },
+    {
+      "album": {
+        "name": "Earthy Whisper",
+        "url": "https://open.spotify.com/album/3WP4BxsV3FiAyPUfuRdM0c"
+      },
+      "artists": [
+        {
+          "name": "High Above The Clouds",
+          "url": "https://open.spotify.com/artist/0TGwwqBPOAEsrEQKOT2FVY"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305609,
+      "name": "Earthy Whisper",
+      "url": "https://open.spotify.com/track/4f3Jiq0tASlwQg4w7qmy8P"
     },
     {
       "album": {
@@ -3364,7 +3400,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 164500,
       "name": "White Noise Alpha - Seamless",
       "url": "https://open.spotify.com/track/6u4odRGSUyvhazjUxuerEq"

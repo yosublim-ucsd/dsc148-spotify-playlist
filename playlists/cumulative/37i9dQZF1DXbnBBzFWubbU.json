@@ -745,6 +745,32 @@
     },
     {
       "album": {
+        "name": "Heer",
+        "url": "https://open.spotify.com/album/3pNYtX26xOEfZr0zi3vO4e"
+      },
+      "artists": [
+        {
+          "name": "Talwiinder",
+          "url": "https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN"
+        },
+        {
+          "name": "Tech Panda",
+          "url": "https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X"
+        },
+        {
+          "name": "Kenzani",
+          "url": "https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Heer",
+      "url": "https://open.spotify.com/track/1jREKnMWRUAxZiISw5nyDB"
+    },
+    {
+      "album": {
         "name": "Heera Ranjha",
         "url": "https://open.spotify.com/album/5ib7pTJDafkQ9zAjjhe6Wp"
       },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "A new wave of rock music. Cover: Sick Love",
+  "description": "A new wave of rock music. Cover: Queen Cult",
   "name": "shockwave",
   "tracks": [
     {
@@ -286,7 +286,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 195800,
       "name": "Animo",
       "url": "https://open.spotify.com/track/3JDUSXqeaecr0d1mCFTSMh"
@@ -437,6 +437,24 @@
     },
     {
       "album": {
+        "name": "Be Better",
+        "url": "https://open.spotify.com/album/06DjLKHL3vU2hmwkgQavK2"
+      },
+      "artists": [
+        {
+          "name": "Queen Cult",
+          "url": "https://open.spotify.com/artist/3UAgcbjWTEC0xcEZEYNrQt"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144259,
+      "name": "Be Better",
+      "url": "https://open.spotify.com/track/5vSXV3dlts6javSJCZH2iT"
+    },
+    {
+      "album": {
         "name": "Beautiful",
         "url": "https://open.spotify.com/album/5W2JHRThe51PIkIHSC8WxW"
       },
@@ -520,7 +538,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 214680,
       "name": "Better Than Me",
       "url": "https://open.spotify.com/track/3Ef2bhdiJBgz8sX9Kd1tCE"
@@ -794,6 +812,24 @@
       "duration_ms": 139411,
       "name": "Chew",
       "url": "https://open.spotify.com/track/0r58u0CoqZbuttdmcWB5qm"
+    },
+    {
+      "album": {
+        "name": "City Streets",
+        "url": "https://open.spotify.com/album/3ewmrFdukMuucc1geA1IRk"
+      },
+      "artists": [
+        {
+          "name": "George Barnett",
+          "url": "https://open.spotify.com/artist/40OV4nFVZqdXDjPumwcywN"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206557,
+      "name": "City Streets",
+      "url": "https://open.spotify.com/track/6zcW5iHtkhBEuzpTLEit16"
     },
     {
       "album": {
@@ -2124,7 +2160,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 222330,
       "name": "HMPB",
       "url": "https://open.spotify.com/track/1IYznxYT32bMWMMM2ehliT"
@@ -2470,6 +2506,24 @@
       "duration_ms": 173500,
       "name": "if only",
       "url": "https://open.spotify.com/track/2rkjj7XDdX3uJv9oBYbab4"
+    },
+    {
+      "album": {
+        "name": "If The Shoe Fits",
+        "url": "https://open.spotify.com/album/2pDiTlS5ujC2LDsWOefnNS"
+      },
+      "artists": [
+        {
+          "name": "The Cliffords",
+          "url": "https://open.spotify.com/artist/2JIXE3g9E0kfeFWhpKPIja"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211706,
+      "name": "If The Shoe Fits",
+      "url": "https://open.spotify.com/track/4IkaBc35ZYwa1CKUwyUhum"
     },
     {
       "album": {
@@ -3651,6 +3705,24 @@
     },
     {
       "album": {
+        "name": "Night-bound Eyes Are Blind To The Day",
+        "url": "https://open.spotify.com/album/4ygfNjZCyPGrVcfuZ8WHx7"
+      },
+      "artists": [
+        {
+          "name": "Whitelands",
+          "url": "https://open.spotify.com/artist/4B9oWJTIts1eOPLGKy4mro"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253013,
+      "name": "Now Here\u2019s The Weather",
+      "url": "https://open.spotify.com/track/35xhpjvv0SakWLpe05Jwkq"
+    },
+    {
+      "album": {
         "name": "Our Love Is Growing",
         "url": "https://open.spotify.com/album/00TPwByRL8JEFa9aykOuW5"
       },
@@ -4588,7 +4660,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 174623,
       "name": "Stalemate",
       "url": "https://open.spotify.com/track/6syl59MOZK7K5fEG7GzCuD"
@@ -5150,7 +5222,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 209875,
       "name": "UFO",
       "url": "https://open.spotify.com/track/5wodknNeTlUk8E0EzKPQ3r"
@@ -5550,6 +5622,24 @@
       "duration_ms": 203605,
       "name": "Wish I Was You",
       "url": "https://open.spotify.com/track/1hZ78pAQTniUNnxIes68Jd"
+    },
+    {
+      "album": {
+        "name": "Wishing Well",
+        "url": "https://open.spotify.com/album/65q5IJ29u559Lwbo9NUQ5u"
+      },
+      "artists": [
+        {
+          "name": "Love For The Peaches",
+          "url": "https://open.spotify.com/artist/5cNXmgwjCuMCUtbob0aMrh"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192107,
+      "name": "Wishing Well",
+      "url": "https://open.spotify.com/track/4Q9iqf0cw04PfSqfszILdh"
     },
     {
       "album": {

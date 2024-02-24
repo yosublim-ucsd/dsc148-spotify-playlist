@@ -2472,7 +2472,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 209026,
       "name": "Celestial",
       "url": "https://open.spotify.com/track/4zrKN5Sv8JS5mqnbVcsul7"
@@ -2730,7 +2730,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 132346,
       "name": "Close Eyes",
       "url": "https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh"
@@ -4710,7 +4710,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 183328,
       "name": "Feed the Machine",
       "url": "https://open.spotify.com/track/40wmXUgVB0N5eLK8CuOhm3"
@@ -6902,7 +6902,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 190848,
       "name": "I See a Dreamer",
       "url": "https://open.spotify.com/track/4yZEX3NsnXfobmZ0m8ZO4Y"
@@ -7114,7 +7114,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 212352,
       "name": "INDUSTRY BABY (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
@@ -8366,7 +8366,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 242086,
       "name": "Lost It All",
       "url": "https://open.spotify.com/track/2ByeohqpWsZdXQlZ1mOTtA"
@@ -10450,7 +10450,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 95440,
       "name": "Peaches",
       "url": "https://open.spotify.com/track/4w9soAM7IrmYDhSXLp14p6"
@@ -10694,7 +10694,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 159000,
       "name": "Pomegranate Lips",
       "url": "https://open.spotify.com/track/1mKuKTxekhyhbW1axz6lb2"
@@ -11246,6 +11246,28 @@
       "duration_ms": 435866,
       "name": "Rise",
       "url": "https://open.spotify.com/track/3VdzKymHyCA7OQdUiDREKF"
+    },
+    {
+      "album": {
+        "name": "Rise (Redux)",
+        "url": "https://open.spotify.com/album/0TtYq1Ni9PBoyxCAkqxuVC"
+      },
+      "artists": [
+        {
+          "name": "The Word Alive",
+          "url": "https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194919,
+      "name": "Rise (Redux)",
+      "url": "https://open.spotify.com/track/069KZZROmbuGFuZ0B0Qc7A"
     },
     {
       "album": {
@@ -12764,7 +12786,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 181068,
       "name": "Stay Calm (feat. Jeff Burgess)",
       "url": "https://open.spotify.com/track/1uEirYIgTtCnojbufoer37"
@@ -13204,7 +13226,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 184346,
       "name": "Swing - From \"Marvel's Spider-Man 2\"",
       "url": "https://open.spotify.com/track/3VaUx4drij8PSdSoz1JLz3"
@@ -14470,7 +14492,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 293400,
       "name": "To the Bone",
       "url": "https://open.spotify.com/track/6A1otOgRcNpIs0eta8D4tb"
@@ -15072,7 +15094,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 261601,
       "name": "Venom - Remix",
       "url": "https://open.spotify.com/track/6kUaRtXf19fu5IQWjmwsEJ"
@@ -16066,7 +16088,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 252340,
       "name": "\u6708\u3092\u898b\u3066\u3044\u305f",
       "url": "https://open.spotify.com/track/5xoar7MhzRUVqJvGpAtxfP"

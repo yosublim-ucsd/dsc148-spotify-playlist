@@ -324,7 +324,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 108049,
       "name": "alive",
       "url": "https://open.spotify.com/track/2XqX1e0lH7O83AaDzbsD8s"
@@ -364,7 +364,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 143484,
       "name": "apathy sine",
       "url": "https://open.spotify.com/track/4lVi2FvVQUAHfbi6PrjI8V"
@@ -818,7 +818,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 125085,
       "name": "erased",
       "url": "https://open.spotify.com/track/6G9BrX4DAlIcVj61VSJgFS"
@@ -1270,7 +1270,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 115077,
       "name": "i don't belong",
       "url": "https://open.spotify.com/track/1R04fecdMdVyKvWSp74Cmg"
@@ -3184,10 +3184,28 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 99146,
       "name": "watching the stars",
       "url": "https://open.spotify.com/track/321PCApeQiLLrf03k83cCb"
+    },
+    {
+      "album": {
+        "name": "tapeloops",
+        "url": "https://open.spotify.com/album/4Ps8Tdi3ICxktaGWLwSrzC"
+      },
+      "artists": [
+        {
+          "name": "\u00d8neheart",
+          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87803,
+      "name": "way back home",
+      "url": "https://open.spotify.com/track/0QGpST1D0oiPulGIQqV7pD"
     },
     {
       "album": {

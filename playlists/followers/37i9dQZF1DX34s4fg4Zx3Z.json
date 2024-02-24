@@ -1,5 +1,5 @@
 {
-  "2024-02-23": 21640,
+  "2024-02-24": 21651,
   "date_first_scraped": "2022-01-09",
   "description": "Nh\u01b0 thanh long trong m\u00ec t\u00f4m, \u0111\u00e2y l\u00e0 nh\u1eefng \ud83c\udfb6 c\u00f3 th\u1ec3 l\u1ea7n \u0111\u1ea7u nghe \u0111\u1ebfn. \u1ea2nh b\u00eca: Em Ellata",
   "name": "Fresh Finds Vietnam",
@@ -1099,7 +1099,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 153435,
       "name": "anh ch\u1ec9 mu\u1ed1n \u0111\u01b0\u1ee3c c\u00f9ng em b\u0103ng qua nh\u1eefng th\u00e1ng n\u0103m d\u00e0i nh\u01b0ng n\u00e0ng \u0111\u00e2u c\u00f3 bi\u1ebft \u0111\u00e2u?",
       "url": "https://open.spotify.com/track/1Px79Nms9MaloebNg97ZPV"
@@ -18254,7 +18254,7 @@
     },
     {
       "album": {
-        "name": "Nh\u00ecn Theo B\u00f3ng Em (feat. \u0110\u1ee9c Duy & \u0110\u1ecf)",
+        "name": "Nh\u00ecn Theo B\u00f3ng Em",
         "url": "https://open.spotify.com/album/5xWMJ9Ab4MfSI7xg5YoPgK"
       },
       "artists": [
@@ -18275,7 +18275,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 210000,
-      "name": "Nh\u00ecn Theo B\u00f3ng Em (feat. \u0110\u1ee9c Duy & \u0110\u1ecf)",
+      "name": "Nh\u00ecn Theo B\u00f3ng Em",
       "url": "https://open.spotify.com/track/40VSxpF8g5sToquWQPkaue"
     },
     {
@@ -21484,6 +21484,24 @@
     },
     {
       "album": {
+        "name": "Sao ta kh\u00f4ng",
+        "url": "https://open.spotify.com/album/0LrSOuHTtm03sV4n00MqZg"
+      },
+      "artists": [
+        {
+          "name": "L\u1eeda",
+          "url": "https://open.spotify.com/artist/4HOm37irsRwVEddNx6d0lq"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156507,
+      "name": "Sao ta kh\u00f4ng",
+      "url": "https://open.spotify.com/track/41goNcLAjfV2ZP7pCJslcS"
+    },
+    {
+      "album": {
         "name": "Sao*",
         "url": "https://open.spotify.com/album/6YNth2gdvyQqLqwylvE0Ry"
       },
@@ -21659,7 +21677,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 211081,
       "name": "Save Mah Life",
       "url": "https://open.spotify.com/track/5JIpRjlHLPVpP13zwQbJuO"
@@ -27440,6 +27458,28 @@
     },
     {
       "album": {
+        "name": "V\u1ebd Em Trong \u0110\u1ea7u",
+        "url": "https://open.spotify.com/album/5KVPXca8zgqIIqTfcHOdtu"
+      },
+      "artists": [
+        {
+          "name": "Clow",
+          "url": "https://open.spotify.com/artist/340QB5yIg8bZoi4uJyTB30"
+        },
+        {
+          "name": "Karrot",
+          "url": "https://open.spotify.com/artist/0Ok2WXF4QmV02a0k6nijST"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158869,
+      "name": "V\u1ebd Em Trong \u0110\u1ea7u",
+      "url": "https://open.spotify.com/track/3IPeNRdoJ0eLjeGbWkjyab"
+    },
+    {
+      "album": {
         "name": "v\u1ebft th\u01b0\u01a1ng",
         "url": "https://open.spotify.com/album/3bsr3IV4aD34ADHC1qSrEF"
       },
@@ -29051,6 +29091,24 @@
       "duration_ms": 224118,
       "name": "\u00e1nh m\u1eaft b\u1ed3 c\u00e2u",
       "url": "https://open.spotify.com/track/5Ch31gQvKMx8yadFXpTbKo"
+    },
+    {
+      "album": {
+        "name": "\u00c1nh Tr\u0103ng M\u1eb7t N\u01b0\u1edbc",
+        "url": "https://open.spotify.com/album/572GXbAZVnvZTEAGNqgf8c"
+      },
+      "artists": [
+        {
+          "name": "NHA",
+          "url": "https://open.spotify.com/artist/0y8J897IGMESNbBqCpHXH9"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200181,
+      "name": "\u00c1nh Tr\u0103ng M\u1eb7t N\u01b0\u1edbc",
+      "url": "https://open.spotify.com/track/5iQQMW73ukYF73wbdBsfo2"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39SNiObet41EA7ooyHRZRo">Vinicius Poeta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177 likes - 340 songs - 16 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 177 likes - 340 songs - 16 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,8 +126,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 116 | [Resenha Muito Louca \- Ao Vivo](https://open.spotify.com/track/2rKtRI3PNvQIkfWa0pULy9) | [Cleber & Cauan](https://open.spotify.com/artist/6Y8pfJkEdw4EAST4g9C026) | [Resenha 2 \(ao Vivo\)](https://open.spotify.com/album/4X5noS3F54xiitCfQ3hgHt) | 3:29 |
 | 117 | [Se Você Quer Saber \- Ao Vivo](https://open.spotify.com/track/5L19TD5q5rQPvzScbRgexq) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K) | [Day Off \(Ao Vivo em Aracaju\)](https://open.spotify.com/album/6ivOIYe02m1mnaJhBcLith) | 2:54 |
 | 118 | [Simplesmente Dois Loucos \- Ao Vivo](https://open.spotify.com/track/4N08WEg7BdFvIYBcych3dP) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr) | [Hipnose Ao Vivo](https://open.spotify.com/album/52rIL56BICJZfbDlDZBCci) | 3:13 |
-| 119 | [Chame O Juiz \- Ao Vivo](https://open.spotify.com/track/3nKF1j3PqbOYChqwhFkLvF) | [Fernanda Costa](https://open.spotify.com/artist/7F1wmhduwv6fIEJBJb9SSm) | [Tempo Contado \(Ao Vivo\)](https://open.spotify.com/album/6SqZNGdhuGOaJzw6rZAMwD) | 2:45 |
-| 120 | [Coração Apertadin \- Ao Vivo](https://open.spotify.com/track/1dRhBZm3Lr5Lvn0BL35l7M) | [Di Propósito](https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Encontrin 2 \(Ao Vivo\)](https://open.spotify.com/album/4oZHsyeGM0RGSJlfGZWeo9) | 3:04 |
+| 119 | [Coração Apertadin \- Ao Vivo](https://open.spotify.com/track/1dRhBZm3Lr5Lvn0BL35l7M) | [Di Propósito](https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Encontrin 2 \(Ao Vivo\)](https://open.spotify.com/album/4oZHsyeGM0RGSJlfGZWeo9) | 3:04 |
+| 120 | [Chame O Juiz \- Ao Vivo](https://open.spotify.com/track/3nKF1j3PqbOYChqwhFkLvF) | [Fernanda Costa](https://open.spotify.com/artist/7F1wmhduwv6fIEJBJb9SSm) | [Tempo Contado \(Ao Vivo\)](https://open.spotify.com/album/6SqZNGdhuGOaJzw6rZAMwD) | 2:45 |
 | 121 | [Porra Loka \- Ao Vivo](https://open.spotify.com/track/0W20DJYFBaL6UlttxM2U6e) | [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [GG Astral \(Ao Vivo\)](https://open.spotify.com/album/1ldJ0FBMF8yZpbRqlno8kL) | 2:40 |
 | 122 | [Garrafa na Mão](https://open.spotify.com/track/7LeMxn6sPXtqqRAehgBOxg) | [Kevi Jonny](https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg) | [Até o Último Gole](https://open.spotify.com/album/3XdTvRSiOvB6xSNkmHvJf2) | 2:28 |
 | 123 | [Relógio](https://open.spotify.com/track/45khULP8E3Ow2tXITNKuSP) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr), [Jorge](https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ) | [Hipnose](https://open.spotify.com/album/3eB3h2dbEKoFpaRNp480B2) | 2:53 |
@@ -260,8 +260,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 250 | [Vingativa](https://open.spotify.com/track/3FTh7gH5UVcMeyYVRBxCYK) | [DJ Yuri Martins](https://open.spotify.com/artist/0xA8Rmfl9di0sVaPl9AyR9), [MC's Jhowzinho & Kadinho](https://open.spotify.com/artist/2Q4r4Epfaaho06ONTHx7OS) | [Vingativa](https://open.spotify.com/album/30JdLyBkxuWujhxWBLNpDp) | 2:44 |
 | 251 | [20 Despedidas \- Ao Vivo Em São Paulo / 2019](https://open.spotify.com/track/5ysdbQHTlEtlElmr5Kc4iy) | [Júlia & Rafaela](https://open.spotify.com/artist/7JJBuq3tgc4y2NO0TqAm02) | [Despertar \- Ensaio \(Ao Vivo Em São Paulo / 2019\)](https://open.spotify.com/album/76oY7Q3fIgkT9wFCXAyH1y) | 2:59 |
 | 252 | [Só pra me Machucar](https://open.spotify.com/track/1ev2QXGGjssMJBGOf87x3T) | [Renno](https://open.spotify.com/artist/3yWtLbJMXNarBl4CQRA1go) | [Pra Sofrer e Beber](https://open.spotify.com/album/6ZnYghiecDCWg9kJBJQpYz) | 2:34 |
-| 253 | [Coração Mordeu a Língua](https://open.spotify.com/track/5wqA7z4YuDnaRkL4XzbnHi) | [Henrique & Diego](https://open.spotify.com/artist/1D6vAeVUcgMbSx80IA3Zun) | [EP 2](https://open.spotify.com/album/5PVuoVq02RhJ6TUyQryZGV) | 3:02 |
-| 254 | [CPF Cancelado \- Ao Vivo](https://open.spotify.com/track/4a69tuDX6ZwGtVzHBoQiby) | [Sudario](https://open.spotify.com/artist/6lzcI2dGSaJ7NbEFNooqXu) | [Pagodera Do Sudário \(Ao Vivo\)](https://open.spotify.com/album/5o88KOGvxrQx96PpzkTdmR) | 3:09 |
+| 253 | [CPF Cancelado \- Ao Vivo](https://open.spotify.com/track/4a69tuDX6ZwGtVzHBoQiby) | [Sudario](https://open.spotify.com/artist/6lzcI2dGSaJ7NbEFNooqXu) | [Pagodera Do Sudário \(Ao Vivo\)](https://open.spotify.com/album/5o88KOGvxrQx96PpzkTdmR) | 3:09 |
+| 254 | [Coração Mordeu a Língua](https://open.spotify.com/track/5wqA7z4YuDnaRkL4XzbnHi) | [Henrique & Diego](https://open.spotify.com/artist/1D6vAeVUcgMbSx80IA3Zun) | [EP 2](https://open.spotify.com/album/5PVuoVq02RhJ6TUyQryZGV) | 3:02 |
 | 255 | [Recompensa](https://open.spotify.com/track/7FtyTz9YLFgfJjN4gYWGjB) | [Acácio](https://open.spotify.com/artist/1WIBi4F6CHYW5BSSY0Yn92) | [O Ferinha da Bahia \(Ao Vivo no Embu, SP\)](https://open.spotify.com/album/2UVyNkfIS2F8WTC7N5iB0K) | 3:15 |
 | 256 | [Por Baixo dos Panos](https://open.spotify.com/track/5L9Y610Shi3MpcOgNDIpuq) | [Katia Cilene](https://open.spotify.com/artist/73Tzk23OwTSl6b3cUwWQrZ), [Simone e Simaria](https://open.spotify.com/artist/0wO1j9BcD3SWfSJ14ySbvy) | [Por Baixo dos Panos](https://open.spotify.com/album/70QKTMz79m4CaS83oxsBAn) | 3:20 |
 | 257 | [Se Depender do Meu Orgulho \- Ao Vivo](https://open.spotify.com/track/340wrc3KsDBkcT5hCSnPt0) | [Mariana & Mateus](https://open.spotify.com/artist/2YCkwNYGevLmmLsbad5lsl) | [Quem Sabe Faz ao Vivo](https://open.spotify.com/album/6JinqrxXHOFHFz0U8mprqp) | 2:42 |
@@ -345,8 +345,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 335 | [Atiradinha \- Ao Vivo](https://open.spotify.com/track/1tAyd99jKjRkXWyNxZyF3a) | [Roniel & Rafael](https://open.spotify.com/artist/4z1aUeMY7RekXdGPu41qZf) | [Arrastão \(Ao Vivo\)](https://open.spotify.com/album/1U40IXgYkRS2g2npfi8lAC) | 2:19 |
 | 336 | [Erro Consciente](https://open.spotify.com/track/69t8CfIP2pLEQeLNTvhABF) | [Fabrício Rodrigues](https://open.spotify.com/artist/0ionm2jgpodXYcKXeJaSfI) | [Erro Consciente](https://open.spotify.com/album/1ttOux7y2bIHDuAXeLoWFS) | 2:32 |
 | 337 | [A Mala](https://open.spotify.com/track/63c83YDpAv9lNMki7WxpvD) | [Banda Os3](https://open.spotify.com/artist/11h78bXFcmu3cQrNsRSulG) | [A Mala](https://open.spotify.com/album/4g6F3WuVRHQVHQSKaDxVmK) | 2:44 |
-| 338 | [Pra Mim Já Deu](https://open.spotify.com/track/5pqxxqrimhw4MvWt2VpF5N) | [Marcos Junior](https://open.spotify.com/artist/21qtIXMQloy90K1297vwAx) | [Terceiro Disco](https://open.spotify.com/album/0gL5IspFhmEyN44gjTvHfs) | 2:43 |
+| 338 | [Ciúme Doido](https://open.spotify.com/track/02ci6a7onTK8CT6NEn6XoY) | [Caúzzo](https://open.spotify.com/artist/7ITxrki6AXPCK5mnUSTs1O) | [Ciúme Doido](https://open.spotify.com/album/3fA6Nv5mzfzGc9hcESbkh6) | 2:57 |
 | 339 | [Me Perdoa](https://open.spotify.com/track/35Q9lkIZ41LgBvhw9YcZhV) | [Henzo & Vinicius](https://open.spotify.com/artist/1ccw4Eimn9DDkATmxZTXfj) | [Ele Te Ama](https://open.spotify.com/album/3Fm72AxQOKmxOOKos5iB6u) | 2:37 |
 | 340 | [Até Nunca Mais](https://open.spotify.com/track/1KpJLFtyb5vILOtDHPHTYC) | [Luis Morall](https://open.spotify.com/artist/4znAbxlWOo5iilmf7yVh2X), [Vinícius o Baixinho](https://open.spotify.com/artist/6abOe7bMUkJaJNNdUkFRVq) | [Antes Só do Que Mal Acompanhado](https://open.spotify.com/album/3pZSgI8oEeP7Xa6937gqug) | 3:15 |
 
-Snapshot ID: `Mjg0Nzc1MzAsMDAwMDAwMDA0ZWE4OTg1NjhjNDc2YzdjYTI1ZWJkMjkxMDQ3MGJmOA==`
+Snapshot ID: `Mjg0NzkwNDAsMDAwMDAwMDBiYWEwZTdlZjAwZjJjYzIwMDRmOWVmYjljNzE4N2VkMg==`

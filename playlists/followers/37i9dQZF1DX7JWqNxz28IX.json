@@ -1,7 +1,7 @@
 {
-  "2024-02-23": 44260,
+  "2024-02-24": 44300,
   "date_first_scraped": "2022-05-09",
-  "description": "canzoni tristi per chi ha un cuore cos\u00ec \ud83d\udc94  (in cover, kid vice)",
+  "description": "canzoni tristi per chi ha un cuore cos\u00ec \ud83d\udc94  (in cover, nashley)",
   "name": "ragazzo triste",
   "tracks": [
     {
@@ -1824,7 +1824,7 @@
     },
     {
       "album": {
-        "name": "HURT SO BAD",
+        "name": "Hurt So Bad",
         "url": "https://open.spotify.com/album/7lJSH2Ex6k51cNarafJkBQ"
       },
       "artists": [
@@ -1837,7 +1837,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 154982,
-      "name": "HURT SO BAD",
+      "name": "Hurt So Bad",
       "url": "https://open.spotify.com/track/61UW1ahvPB6hxLPxjM2VoK"
     },
     {
@@ -1857,7 +1857,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 139773,
       "name": "I CAN FLY",
       "url": "https://open.spotify.com/track/2w16qcnjwjfBUvZRpGEC4b"
@@ -2025,6 +2025,24 @@
       "duration_ms": 174250,
       "name": "L'effetto che mi fai",
       "url": "https://open.spotify.com/track/3lxnYJ4tMPPYXL7vONxGRi"
+    },
+    {
+      "album": {
+        "name": "L'ultima mezz'ora",
+        "url": "https://open.spotify.com/album/37H1a1CLMD2QSnj5L4A9sb"
+      },
+      "artists": [
+        {
+          "name": "ANSIAH",
+          "url": "https://open.spotify.com/artist/0TxLShiUYY5YzcUI6t5QdB"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176372,
+      "name": "L'ultima mezz'ora",
+      "url": "https://open.spotify.com/track/6ATipis5X5ZhJtQFtA5Moe"
     },
     {
       "album": {

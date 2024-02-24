@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4wmgHQAAzg3gbnQWSyoMZp">Pharrell Williams</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-451 songs - 1 day 5 hr 35 min
+452 songs - 1 day 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Dream Bigger](https://open.spotify.com/track/76BFt6hGCrZhGHrGh0N3uC) | [Axwell /\\ Ingrosso](https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz) | [More Than You Know](https://open.spotify.com/album/6Ei5WWek37m1x9AjpSXTcJ) | 3:16 | 2024-01-29 |  |
 | [Drop It Like It's Hot](https://open.spotify.com/track/6KGK1lHWnQdOIep0R73XZf) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Drop It Like It's Hot](https://open.spotify.com/album/3gt1sMw4q43ZjGULHNGi12) | 4:23 | 2024-01-30 | 2024-02-01 |
 | [Drop It Like It's Hot](https://open.spotify.com/track/2NBQmPrOEEjA8VbeWOQGxO) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [R&G \(Rhythm & Gangsta\): The Masterpiece](https://open.spotify.com/album/797fkvAtk0iZvP1HHPCWbp) | 4:26 | 2024-01-29 |  |
+| [Drums \(Feat\. Kim Petras\)](https://open.spotify.com/track/4AFlChQQJbB1MOCgOiiyYc) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Drums \(Feat\. Kim Petras\)](https://open.spotify.com/album/5Xs1g4UOOm6NBk4cSxyl2M) | 2:32 | 2024-02-23 |  |
 | [E\-Lo \(feat\. Jozzy\)](https://open.spotify.com/track/3eydp9rHJAskzOevEBK267) | [Los Unidades](https://open.spotify.com/artist/6VoRokuki5Bj7BEB2gZ3BF), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [E\-Lo \(feat\. Jozzy\)](https://open.spotify.com/album/3rq0C0keP4oYI33YBXB9uk) | 3:34 | 2024-01-29 |  |
 | [Ego](https://open.spotify.com/track/3mDB1D92HySxK5NrI7vGqf) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Ego \(Video Edit\)](https://open.spotify.com/album/5f7K9SRd9EhfBjt7zCqavV) | 3:50 | 2024-01-29 | 2024-02-02 |
 | [Ego](https://open.spotify.com/track/5iaVupGhrGVtwBvmGxxYih) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE \- Platinum Edition](https://open.spotify.com/album/3ROfBX6lJLnCmaw1NrP5K9) | 3:55 | 2024-01-30 |  |

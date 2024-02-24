@@ -4,7 +4,7 @@
 
 > This is Timaya\. The essential tracks, all in one playlist.
 
-96 songs - 5 hr 24 min
+97 songs - 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Bow Down](https://open.spotify.com/track/4qa7gYSpbGV4UKYuq20qB3) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Best Of Timaya](https://open.spotify.com/album/5N5mhuYQmUztgNdBgz1YZh) | 3:24 | 2021-12-28 | 2023-08-09 |
 | [Bum Bum](https://open.spotify.com/track/2khTwf0sIaNkodJRHRgk6s) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Best Of Timaya](https://open.spotify.com/album/5N5mhuYQmUztgNdBgz1YZh) | 3:38 | 2021-12-28 | 2023-08-20 |
 | [Bum Bum](https://open.spotify.com/track/4XMGNnGcv1dcTqBPCDnvgz) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Best Of Timaya](https://open.spotify.com/album/6TqxXp18xYFYqwxXR6qCOE) | 3:38 | 2023-08-19 | 2023-12-14 |
-| [Bum Bum \(Remix\)](https://open.spotify.com/track/3popcfrtGgytx4Urp2OTUQ) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Essential Afrobeats](https://open.spotify.com/album/1WaOIzLO6mNNTO23vNlMOz) | 3:36 | 2023-12-13 |  |
+| [Bum Bum \(Remix\)](https://open.spotify.com/track/3popcfrtGgytx4Urp2OTUQ) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Essential Afrobeats](https://open.spotify.com/album/1WaOIzLO6mNNTO23vNlMOz) | 3:36 | 2023-12-13 | 2024-02-24 |
 | [Buru](https://open.spotify.com/track/5UMeJsvUGhBPKaRQehLWd5) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Gratitude](https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj) | 2:38 | 2022-10-27 |  |
 | [Charger](https://open.spotify.com/track/5IMX7sh5kGdVX7iWqN5Url) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Charger](https://open.spotify.com/album/5jvsWsFqZzym9fMhBtDKZ8) | 3:26 | 2022-03-20 | 2023-07-02 |
 | [Chop Life](https://open.spotify.com/track/1HJpHUpDF2G8RBp2AKN5kD) | [D'banj](https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Chop Life](https://open.spotify.com/album/6CIyLA00C8T0imbV5HjHpM) | 2:25 | 2023-03-25 |  |
@@ -97,6 +97,7 @@
 | [Telli Person](https://open.spotify.com/track/2yiZjiwZq3pdfCdrbp87b4) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Telli Person](https://open.spotify.com/album/2S8IqygjfGKH7jMAac2vhS) | 3:44 | 2021-12-28 |  |
 | [The Mood](https://open.spotify.com/track/6gHUiXF4BiJ9d7biTNmdKR) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Chulo Vibes](https://open.spotify.com/album/1JlzIGbFMWsyL5WBEADj6Q) | 2:41 | 2021-12-28 |  |
 | [Timaya](https://open.spotify.com/track/7JP7ibFI7Sk70ahn5ZOzBy) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [True Story](https://open.spotify.com/album/2Vh7JwV6BJFBONAIGll2nB) | 3:58 | 2021-12-28 | 2022-10-13 |
+| [Tip Pon Yuh Toe](https://open.spotify.com/track/1gEJ6lm4bI31DC4k1J3udi) | [Motto](https://open.spotify.com/artist/2yK06HIkW6eitM49lypo0O), [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Tip Pon Yuh Toe](https://open.spotify.com/album/13AxH3s2RYPHACaClq7hei) | 2:30 | 2024-02-23 |  |
 | [To U](https://open.spotify.com/track/5maDUHK9DBDs9m7Bkkzedr) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [To U](https://open.spotify.com/album/6tkSO3PtZ5RixzZCym2Kj9) | 3:44 | 2021-12-28 | 2023-09-22 |
 | [Tomato](https://open.spotify.com/track/7rOIsrQoYyFJErSu1k0JdV) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Tomato](https://open.spotify.com/album/2IYwJByBrftAl7iTZpQtB0) | 2:42 | 2023-08-31 |  |
 | [True Story](https://open.spotify.com/track/154wqt2t7LYUHFEjjjgfhI) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [True Story](https://open.spotify.com/album/2Vh7JwV6BJFBONAIGll2nB) | 4:25 | 2021-12-28 |  |

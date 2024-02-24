@@ -1,12 +1,12 @@
 {
   "description": "make the whole place shimmer \u2728",
-  "num_followers": 210023,
+  "num_followers": 210216,
   "original_name": "neon cowgirl",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNmM3NTc2MWRmZjAyMjZkMzRiM2IxMTc2NjQxMmRmYmU0MTlhMTAz",
+  "snapshot_id": "MCw1ZDhjMWUwOWZiYjQ5M2ExMWU3YmFkYjRmYzdmZGQwMThiNjY5YTc0",
   "tracks": [
     {
       "added_at": "2024-02-12 20:59:25",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-02-12 20:59:25",
       "album": {
-        "name": "Tornado",
-        "url": "https://open.spotify.com/album/5IIYlM5tjDtW3fIgOIA5TB"
-      },
-      "artists": [
-        {
-          "name": "Little Big Town",
-          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
-        }
-      ],
-      "duration_ms": 212320,
-      "name": "Pontoon",
-      "url": "https://open.spotify.com/track/2Gy3XMLbBxACZ4tXdFRGr7"
-    },
-    {
-      "added_at": "2024-02-12 20:59:25",
-      "album": {
         "name": "747",
         "url": "https://open.spotify.com/album/1JHNRou038CfCC0RZztDz8"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 198266,
       "name": "Bartender",
       "url": "https://open.spotify.com/track/6olKv2HP3XgBpvVxAswowe"
+    },
+    {
+      "added_at": "2024-02-12 20:59:25",
+      "album": {
+        "name": "Tornado",
+        "url": "https://open.spotify.com/album/5IIYlM5tjDtW3fIgOIA5TB"
+      },
+      "artists": [
+        {
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        }
+      ],
+      "duration_ms": 212320,
+      "name": "Pontoon",
+      "url": "https://open.spotify.com/track/2Gy3XMLbBxACZ4tXdFRGr7"
     },
     {
       "added_at": "2024-02-12 20:59:25",
@@ -683,22 +683,18 @@
     {
       "added_at": "2024-02-12 20:59:25",
       "album": {
-        "name": "Rainbow",
-        "url": "https://open.spotify.com/album/1IYVB8NfiRqhdZlTxjspNh"
+        "name": "Thinkin' About You",
+        "url": "https://open.spotify.com/album/5JqF92VDewHtYXqueUHuyx"
       },
       "artists": [
         {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
-        },
-        {
-          "name": "The Dap-Kings Horns",
-          "url": "https://open.spotify.com/artist/4LFgxG38Y0l4Fo1gdQelay"
+          "name": "Trisha Yearwood",
+          "url": "https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j"
         }
       ],
-      "duration_ms": 196360,
-      "name": "Woman (feat. The Dap-Kings Horns)",
-      "url": "https://open.spotify.com/track/1kJtfldK9F7XmsSiSNlbth"
+      "duration_ms": 167906,
+      "name": "XXX's And OOO's (An American Girl)",
+      "url": "https://open.spotify.com/track/08c3wmdjKSjxTJY9cHSts7"
     },
     {
       "added_at": "2024-02-12 20:59:25",
@@ -723,18 +719,22 @@
     {
       "added_at": "2024-02-12 20:59:25",
       "album": {
-        "name": "Thinkin' About You",
-        "url": "https://open.spotify.com/album/5JqF92VDewHtYXqueUHuyx"
+        "name": "Rainbow",
+        "url": "https://open.spotify.com/album/1IYVB8NfiRqhdZlTxjspNh"
       },
       "artists": [
         {
-          "name": "Trisha Yearwood",
-          "url": "https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j"
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        },
+        {
+          "name": "The Dap-Kings Horns",
+          "url": "https://open.spotify.com/artist/4LFgxG38Y0l4Fo1gdQelay"
         }
       ],
-      "duration_ms": 167906,
-      "name": "XXX's And OOO's (An American Girl)",
-      "url": "https://open.spotify.com/track/08c3wmdjKSjxTJY9cHSts7"
+      "duration_ms": 196360,
+      "name": "Woman (feat. The Dap-Kings Horns)",
+      "url": "https://open.spotify.com/track/1kJtfldK9F7XmsSiSNlbth"
     },
     {
       "added_at": "2024-02-12 20:59:25",

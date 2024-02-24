@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2023-06-23",
-  "description": "Estas son las grandes voces del Hip Hop. Foto: Tres Coronas",
+  "description": "Estas son las grandes voces del Hip Hop. Foto: Mc Kno & Nanpa B\u00e1sico",
   "name": "Los Gallos",
   "tracks": [
+    {
+      "album": {
+        "name": "A Solas",
+        "url": "https://open.spotify.com/album/3jGg8lgUeNP74f9kyULRKr"
+      },
+      "artists": [
+        {
+          "name": "Juan Sinatra",
+          "url": "https://open.spotify.com/artist/7k1jHUZ4OqRGJcOjCQu28Y"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176170,
+      "name": "A Solas",
+      "url": "https://open.spotify.com/track/6UQrzoN3uVRmS1kXpkcjtI"
+    },
     {
       "album": {
         "name": "Agradezco",
@@ -46,7 +64,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 167135,
       "name": "Aguardiente",
       "url": "https://open.spotify.com/track/3ZAeqSO5szb2IDsAHqnYk6"
@@ -68,6 +86,24 @@
       "duration_ms": 167686,
       "name": "Ahora Qu\u00e9",
       "url": "https://open.spotify.com/track/5EFkC2D8cFCTyPPaCMJk6B"
+    },
+    {
+      "album": {
+        "name": "AIR",
+        "url": "https://open.spotify.com/album/6YHgqcY5yrndFe4N1zaSJr"
+      },
+      "artists": [
+        {
+          "name": "N. Hardem",
+          "url": "https://open.spotify.com/artist/6oqagavQDMpR3KKeX4eqjL"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "AIR",
+      "url": "https://open.spotify.com/track/7b2KA967TDuGlZX3hL6Xs0"
     },
     {
       "album": {
@@ -635,6 +671,32 @@
     },
     {
       "album": {
+        "name": "Dual",
+        "url": "https://open.spotify.com/album/1R1W9HadK0whSF7tO01ER3"
+      },
+      "artists": [
+        {
+          "name": "Mc Kno",
+          "url": "https://open.spotify.com/artist/0t0wGSeL96MtZyjZiNHPCk"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Alka Produce",
+          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195206,
+      "name": "Dual",
+      "url": "https://open.spotify.com/track/2OTZ7ESYp6oFojCUPJXOmu"
+    },
+    {
+      "album": {
         "name": "El Amar",
         "url": "https://open.spotify.com/album/58LsSodkuhqaIV4Q2DlEr2"
       },
@@ -692,7 +754,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 232375,
       "name": "El Emblema",
       "url": "https://open.spotify.com/track/4txhf5l1bEOkJX83rV0IbA"
@@ -810,7 +872,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 116102,
       "name": "Freud",
       "url": "https://open.spotify.com/track/7xFvOja9qVdmXU84rH9sX3"
@@ -1084,6 +1146,24 @@
       "duration_ms": 160085,
       "name": "Las Calles Son Clases",
       "url": "https://open.spotify.com/track/0Ptr4kYE9yVxrYWjaYw8D7"
+    },
+    {
+      "album": {
+        "name": "Old Tom Parr",
+        "url": "https://open.spotify.com/album/52PbTWa5YvD8XZp3ulGB5K"
+      },
+      "artists": [
+        {
+          "name": "Thomas Parr",
+          "url": "https://open.spotify.com/artist/4RdDhaLXcAbihjh7haTXbB"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130173,
+      "name": "Lejos",
+      "url": "https://open.spotify.com/track/3NzRG8I0nAEW6L9m7fccSX"
     },
     {
       "album": {
@@ -1664,7 +1744,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 182608,
       "name": "Parpadeos",
       "url": "https://open.spotify.com/track/7jeTgr89idzEp8uv111bPN"
@@ -1712,7 +1792,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 154000,
       "name": "Plan A",
       "url": "https://open.spotify.com/track/0MlRfim8Rt55CvDyZ7Cdou"
@@ -1742,6 +1822,24 @@
       "duration_ms": 229927,
       "name": "QUI$IERA NO $ER A$I",
       "url": "https://open.spotify.com/track/5M1XCJIt5QANojn09f30Gv"
+    },
+    {
+      "album": {
+        "name": "Quiero Decirte",
+        "url": "https://open.spotify.com/album/5V2OiQSXdXVv7NrGJvtJ2a"
+      },
+      "artists": [
+        {
+          "name": "Yoky Barrios",
+          "url": "https://open.spotify.com/artist/1ltK3b65ZE7WKb7fGtufsj"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190755,
+      "name": "Quiero Decirte",
+      "url": "https://open.spotify.com/track/1AtYJLvtq1yg1SJ7YHGgy7"
     },
     {
       "album": {
@@ -1914,7 +2012,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 177859,
       "name": "Serio",
       "url": "https://open.spotify.com/track/4yVbrHSbzkPPPpvjpJFaj7"
@@ -1940,6 +2038,50 @@
       "duration_ms": 120570,
       "name": "sin afinar mucho",
       "url": "https://open.spotify.com/track/7God0mEVammBaAoIKrfTGc"
+    },
+    {
+      "album": {
+        "name": "Solito",
+        "url": "https://open.spotify.com/album/4UtHfLNMicKbFyJ9SDWgCr"
+      },
+      "artists": [
+        {
+          "name": "Frank Takuma",
+          "url": "https://open.spotify.com/artist/30IozP2GkHKFl6U59F86lF"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181379,
+      "name": "Solito",
+      "url": "https://open.spotify.com/track/3XwqbCIwHKFqTO5uSDdlRd"
+    },
+    {
+      "album": {
+        "name": "Sudaca en el Rooftop",
+        "url": "https://open.spotify.com/album/6MBPWZl4xbYrrgbQcnKQhv"
+      },
+      "artists": [
+        {
+          "name": "Tsh Sudaca",
+          "url": "https://open.spotify.com/artist/6kfPkheKpxesJXLqA4h7jO"
+        },
+        {
+          "name": "Brina Quoya",
+          "url": "https://open.spotify.com/artist/632hn2DX5vh2nnytdhrDfY"
+        },
+        {
+          "name": "Dr Bizarro",
+          "url": "https://open.spotify.com/artist/61IKvGm6q6Bf8kArlFb0vn"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193043,
+      "name": "Sudaca en el Rooftop",
+      "url": "https://open.spotify.com/track/3S7C1d8Y3zkL2VUxjDdWhO"
     },
     {
       "album": {
@@ -1990,7 +2132,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 200810,
       "name": "Tequiero",
       "url": "https://open.spotify.com/track/0zcgpXvaSjavpFKEf97nRp"

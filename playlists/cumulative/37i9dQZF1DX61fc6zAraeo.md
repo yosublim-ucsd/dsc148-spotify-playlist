@@ -4,7 +4,7 @@
 
 > Dance tracks for your power moves
 
-101 songs - 4 hr 35 min
+102 songs - 4 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Careful What You Wish For \(feat\. Alida\)](https://open.spotify.com/track/6F5CRnO0SbW5FxAyRB6Vp0) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Alida](https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0) | [Careful What You Wish For \(feat\. Alida\)](https://open.spotify.com/album/5AyE7tjRTu5Qgzupx5UYMb) | 2:56 | 2024-02-07 |  |
 | [Chances](https://open.spotify.com/track/0mVLuJBvxToIMCU0CrpO08) | [DJ YUKI](https://open.spotify.com/artist/4FMFA5iNrEH3pJGnolicsB), [Kate Wild](https://open.spotify.com/artist/3GaPIF26mniFIX3T3Pv66l) | [Chances](https://open.spotify.com/album/6QwpK5fPO5mHyFRt1bBzZV) | 2:50 | 2024-02-07 |  |
 | [Combo](https://open.spotify.com/track/6nAWXxK1jWkYWzExetkboS) | [Karma Child](https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7) | [Combo](https://open.spotify.com/album/6stJfQJm5ooEJJoufO41Mn) | 2:41 | 2024-02-07 |  |
+| [Could You Be The One](https://open.spotify.com/track/3akNbKGTCFPUeB7xEaDQ5j) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Katy Alex](https://open.spotify.com/artist/63wpGjuYtKMliedy9FjHMB) | [Could You Be The One](https://open.spotify.com/album/56VRXsZ7MUAz421NkITjmK) | 2:01 | 2024-02-15 |  |
 | [Cumbia Buena](https://open.spotify.com/track/2i6VTVzBnl3mMKnLi8hDEB) | [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Cumbia Buena](https://open.spotify.com/album/59VYHr4qf3xQbc8giaxAoM) | 2:29 | 2024-02-07 |  |
 | [Dance Alone](https://open.spotify.com/track/5G8pdZq3HL2sEVi5yGsq0Z) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [The Victor](https://open.spotify.com/artist/6Hvq9w688rwXhVoAKZk5wk) | [Dance Alone](https://open.spotify.com/album/7nGM3tRAjPEMjDaLhL5Ys4) | 2:54 | 2024-02-07 |  |
 | [Dancing All Alone](https://open.spotify.com/track/6ggwvlAw6i9FSD4b7CumON) | [Morgan Page](https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b), [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz) | [Dancing All Alone](https://open.spotify.com/album/0pxNMYEz2FyiyQNjNLotIF) | 3:06 | 2024-02-07 |  |
@@ -37,7 +38,7 @@
 | [Fantasy](https://open.spotify.com/track/7gTz5MRjppI1Pdid7VX6Xy) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif), [Sary](https://open.spotify.com/artist/64IRUxTrpRi86hkZqJEreW) | [Fantasy](https://open.spotify.com/album/54Dzt1WneTLVnfwWCKxoik) | 2:42 | 2024-02-07 |  |
 | [Feel The Same](https://open.spotify.com/track/77S8daUg3BQLdaAmH6c8EQ) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1), [The Melody Men](https://open.spotify.com/artist/6PSmjKj0zyXGZ4TXoq4dSG) | [Feel The Same](https://open.spotify.com/album/0tHzJkyjlBPT8hzSFXdsU2) | 3:03 | 2024-02-07 |  |
 | [Fine Day](https://open.spotify.com/track/7l0EE7nSalFQrV4Nf60xhQ) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX) | [Fine Day](https://open.spotify.com/album/0f75aP4uE3xyqL3DMIBTZg) | 3:02 | 2024-02-07 |  |
-| [Fitness](https://open.spotify.com/track/6tlTBmaJCBJ238Gl5eFZ2z) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw), [Bad Amie](https://open.spotify.com/artist/3tTqCfscGTg5hnbaKce3lE) | [Fitness](https://open.spotify.com/album/20L2EPQGvZV2WsgLJ1WdMz) | 3:00 | 2024-02-07 |  |
+| [Fitness](https://open.spotify.com/track/6tlTBmaJCBJ238Gl5eFZ2z) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw), [Bad Amie](https://open.spotify.com/artist/3tTqCfscGTg5hnbaKce3lE) | [Fitness](https://open.spotify.com/album/20L2EPQGvZV2WsgLJ1WdMz) | 3:00 | 2024-02-07 | 2024-02-24 |
 | [For The People](https://open.spotify.com/track/1LvXRLxZ8s2ofB0X5zONou) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [For The People](https://open.spotify.com/album/6kIgGVhhww5H5SNwg2Dsoo) | 2:17 | 2024-02-07 |  |
 | [Freedom](https://open.spotify.com/track/2v0d2zo4bgHkge4B1O6e3c) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo) | [Freedom](https://open.spotify.com/album/7C6Oa0Myixsesf55mp5yO1) | 2:38 | 2024-02-07 |  |
 | [Good Life](https://open.spotify.com/track/09rcsC6M15EZPbCVmrqUYK) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Good Life](https://open.spotify.com/album/4L7JQYnj8oGhI4OfdQjFjv) | 3:16 | 2024-02-07 |  |

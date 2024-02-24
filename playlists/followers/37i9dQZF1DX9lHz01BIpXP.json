@@ -1,5 +1,5 @@
 {
-  "2024-02-23": 1407,
+  "2024-02-24": 1407,
   "date_first_scraped": "2022-10-01",
   "description": "Die beste in Afrikaanse Hip Hop. Cover: <a href=\"https://open.spotify.com/artist/0a3BxAGzEMacCsDSriIuz0?si=tQN8O9JPSyCXmbNbUMMs_Q\">Umlungu The Rapper</a> & <a href=\"https://open.spotify.com/artist/7BPZ6o23eC19ZB4TktaCMy?si=U-cG6Z0_TNu6lsKpLiOXHw\">Big Xhosa</a>",
   "name": "Afrikaanse Hip Hop",
@@ -581,6 +581,24 @@
       "duration_ms": 158400,
       "name": "Die Way Sy",
       "url": "https://open.spotify.com/track/7DTDGP6pimtwH0vNBFXuw1"
+    },
+    {
+      "album": {
+        "name": "Dinge",
+        "url": "https://open.spotify.com/album/5GmWaRMBy8nC2kG99OXUiB"
+      },
+      "artists": [
+        {
+          "name": "C.M.T",
+          "url": "https://open.spotify.com/artist/7dp7rXGLihg118ZUN8tp1P"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132478,
+      "name": "Dinge",
+      "url": "https://open.spotify.com/track/34ckABm6hzgGBB1WjImioh"
     },
     {
       "album": {
@@ -1889,7 +1907,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 113763,
       "name": "Praat Baie",
       "url": "https://open.spotify.com/track/7AEeHK0QAJXPqg3Xe9JHk0"
@@ -2273,7 +2291,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 210573,
       "name": "T. D. K. S",
       "url": "https://open.spotify.com/track/7qbLm0IBfu31Tpq6W45XfH"
@@ -2397,6 +2415,24 @@
       "duration_ms": 219730,
       "name": "Ware Meddies",
       "url": "https://open.spotify.com/track/6XuX7LKxTxncK1YfQyL3YJ"
+    },
+    {
+      "album": {
+        "name": "Wat Ek Moet Doen",
+        "url": "https://open.spotify.com/album/3N574squ1VAtisezwlbE8s"
+      },
+      "artists": [
+        {
+          "name": "KYLEO FROM THE WEST",
+          "url": "https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142863,
+      "name": "Wat Ek Moet Doen",
+      "url": "https://open.spotify.com/track/0xiM7s7YsjtNNjVLYiBVti"
     },
     {
       "album": {

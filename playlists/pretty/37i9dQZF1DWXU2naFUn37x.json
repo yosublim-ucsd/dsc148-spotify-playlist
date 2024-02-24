@@ -1,12 +1,12 @@
 {
   "description": "Solo il meglio dello street rap italiano. Cover: Villabanks",
-  "num_followers": 882437,
+  "num_followers": 882609,
   "original_name": "Street Culto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhN2RjZDE2OWFiYzkyOTc0NTY5NGM5OTQ0YTcxZGM4ODI3MTI3YmEz",
+  "snapshot_id": "MCwyYzJkNGU3YTkxYmUwZmQyZmY5ZTEyODIzYWU1YWU1MjY3OGVkY2Vh",
   "tracks": [
     {
       "added_at": "2024-02-22 23:01:00",
@@ -131,6 +131,34 @@
     {
       "added_at": "2024-02-22 23:01:00",
       "album": {
+        "name": "Mattone",
+        "url": "https://open.spotify.com/album/3xOrZWX1VzcemFpMZ9z132"
+      },
+      "artists": [
+        {
+          "name": "Papa V",
+          "url": "https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU"
+        },
+        {
+          "name": "Kuremino",
+          "url": "https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n"
+        },
+        {
+          "name": "Nerissima Serpe",
+          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
+        },
+        {
+          "name": "Fritu",
+          "url": "https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "Mattone (feat. Kuremino, Nerissima Serpe)",
+      "url": "https://open.spotify.com/track/4qb7IDiPEuWPOkCFAPhlfg"
+    },
+    {
+      "added_at": "2024-02-22 23:01:00",
+      "album": {
         "name": "Milkshake (feat. Slings)",
         "url": "https://open.spotify.com/album/6hVkaUOaMJKbCJfINMG8jB"
       },
@@ -147,46 +175,6 @@
       "duration_ms": 144000,
       "name": "Milkshake (feat. Slings)",
       "url": "https://open.spotify.com/track/4cXeddjuV6IugeXXl6jlGG"
-    },
-    {
-      "added_at": "2024-02-22 23:01:00",
-      "album": {
-        "name": "Karma",
-        "url": "https://open.spotify.com/album/0NcXP3d0JW89VHWoKxw74y"
-      },
-      "artists": [
-        {
-          "name": "Baby Gang",
-          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
-        },
-        {
-          "name": "Higashi",
-          "url": "https://open.spotify.com/artist/1eBPcZCSWh1EAv0aOXusye"
-        }
-      ],
-      "duration_ms": 157173,
-      "name": "Karma",
-      "url": "https://open.spotify.com/track/1pFiInun4nqXH1mXm2rIWX"
-    },
-    {
-      "added_at": "2024-02-22 23:01:00",
-      "album": {
-        "name": "MOTIVATION 4 THE STREETZ",
-        "url": "https://open.spotify.com/album/4kzJg7hnr56yGMMsvV23rL"
-      },
-      "artists": [
-        {
-          "name": "Artie 5ive",
-          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
-        },
-        {
-          "name": "Rondodasosa",
-          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
-        }
-      ],
-      "duration_ms": 160258,
-      "name": "BOULEVARD",
-      "url": "https://open.spotify.com/track/6SSv0mVOX54GMKtIOrKpI1"
     },
     {
       "added_at": "2024-02-22 23:01:00",
@@ -219,22 +207,42 @@
     {
       "added_at": "2024-02-22 23:01:00",
       "album": {
-        "name": "TUNNEL",
-        "url": "https://open.spotify.com/album/31OPmDCnbwH8HgYrosnzxo"
+        "name": "MOTIVATION 4 THE STREETZ",
+        "url": "https://open.spotify.com/album/4kzJg7hnr56yGMMsvV23rL"
       },
       "artists": [
         {
-          "name": "Simba La Rue",
-          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
         },
         {
-          "name": "FT Kings",
-          "url": "https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq"
+          "name": "Rondodasosa",
+          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
         }
       ],
-      "duration_ms": 144864,
-      "name": "TUNNEL",
-      "url": "https://open.spotify.com/track/1M7CwtrWZ24mopNdDPB3DM"
+      "duration_ms": 160258,
+      "name": "BOULEVARD",
+      "url": "https://open.spotify.com/track/6SSv0mVOX54GMKtIOrKpI1"
+    },
+    {
+      "added_at": "2024-02-22 23:01:00",
+      "album": {
+        "name": "TEKKEN (feat. Simba La Rue)",
+        "url": "https://open.spotify.com/album/2Wrze5hALL55nNzoyag7EO"
+      },
+      "artists": [
+        {
+          "name": "Niky Savage",
+          "url": "https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg"
+        },
+        {
+          "name": "Simba La Rue",
+          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
+        }
+      ],
+      "duration_ms": 174461,
+      "name": "TEKKEN (feat. Simba La Rue)",
+      "url": "https://open.spotify.com/track/0gkjSa9UaRWioYJn9vbX8U"
     },
     {
       "added_at": "2024-02-22 23:01:00",
@@ -259,30 +267,42 @@
     {
       "added_at": "2024-02-22 23:01:00",
       "album": {
-        "name": "Mattone",
-        "url": "https://open.spotify.com/album/3xOrZWX1VzcemFpMZ9z132"
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/0NcXP3d0JW89VHWoKxw74y"
       },
       "artists": [
         {
-          "name": "Papa V",
-          "url": "https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU"
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
         },
         {
-          "name": "Kuremino",
-          "url": "https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n"
-        },
-        {
-          "name": "Nerissima Serpe",
-          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
-        },
-        {
-          "name": "Fritu",
-          "url": "https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF"
+          "name": "Higashi",
+          "url": "https://open.spotify.com/artist/1eBPcZCSWh1EAv0aOXusye"
         }
       ],
-      "duration_ms": 142000,
-      "name": "Mattone (feat. Kuremino, Nerissima Serpe)",
-      "url": "https://open.spotify.com/track/4qb7IDiPEuWPOkCFAPhlfg"
+      "duration_ms": 157173,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/1pFiInun4nqXH1mXm2rIWX"
+    },
+    {
+      "added_at": "2024-02-22 23:01:00",
+      "album": {
+        "name": "TUNNEL",
+        "url": "https://open.spotify.com/album/31OPmDCnbwH8HgYrosnzxo"
+      },
+      "artists": [
+        {
+          "name": "Simba La Rue",
+          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
+        },
+        {
+          "name": "FT Kings",
+          "url": "https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq"
+        }
+      ],
+      "duration_ms": 144864,
+      "name": "TUNNEL",
+      "url": "https://open.spotify.com/track/1M7CwtrWZ24mopNdDPB3DM"
     },
     {
       "added_at": "2024-02-22 23:01:00",
@@ -343,26 +363,6 @@
     {
       "added_at": "2024-02-22 23:01:00",
       "album": {
-        "name": "TEKKEN (feat. Simba La Rue)",
-        "url": "https://open.spotify.com/album/2Wrze5hALL55nNzoyag7EO"
-      },
-      "artists": [
-        {
-          "name": "Niky Savage",
-          "url": "https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg"
-        },
-        {
-          "name": "Simba La Rue",
-          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
-        }
-      ],
-      "duration_ms": 174461,
-      "name": "TEKKEN (feat. Simba La Rue)",
-      "url": "https://open.spotify.com/track/0gkjSa9UaRWioYJn9vbX8U"
-    },
-    {
-      "added_at": "2024-02-22 23:01:00",
-      "album": {
         "name": "Face to face 2",
         "url": "https://open.spotify.com/album/4bQKXlrKLDgBuKFTGK3nO7"
       },
@@ -403,6 +403,26 @@
       "duration_ms": 133874,
       "name": "CLAP CLAP (feat. Artie 5ive, Niky Savage)",
       "url": "https://open.spotify.com/track/4qFrGuly7KCl3WMmGuECFC"
+    },
+    {
+      "added_at": "2024-02-22 23:01:00",
+      "album": {
+        "name": "Petit Fou Fou (feat. ANNA)",
+        "url": "https://open.spotify.com/album/5GNS5KbQRhO2uvyM7HKCZ6"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "duration_ms": 113737,
+      "name": "Petit Fou Fou (feat. ANNA)",
+      "url": "https://open.spotify.com/track/2CHUSuvnHXjLTGdX6Bz6fv"
     },
     {
       "added_at": "2024-02-22 23:01:00",
@@ -451,46 +471,6 @@
     {
       "added_at": "2024-02-22 23:01:00",
       "album": {
-        "name": "SANTI QUA (feat. Ddusi)",
-        "url": "https://open.spotify.com/album/0WpqSfnWekbpI85035PCYa"
-      },
-      "artists": [
-        {
-          "name": "Artie 5ive",
-          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
-        },
-        {
-          "name": "Ddusi",
-          "url": "https://open.spotify.com/artist/5VTNrKBvvSe0NdWMW8qTwa"
-        }
-      ],
-      "duration_ms": 162758,
-      "name": "SANTI QUA (feat. Ddusi)",
-      "url": "https://open.spotify.com/track/3plovXEUjBSuwxEjcx3EYz"
-    },
-    {
-      "added_at": "2024-02-22 23:01:00",
-      "album": {
-        "name": "Petit Fou Fou (feat. ANNA)",
-        "url": "https://open.spotify.com/album/5GNS5KbQRhO2uvyM7HKCZ6"
-      },
-      "artists": [
-        {
-          "name": "Rhove",
-          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
-        },
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        }
-      ],
-      "duration_ms": 113737,
-      "name": "Petit Fou Fou (feat. ANNA)",
-      "url": "https://open.spotify.com/track/2CHUSuvnHXjLTGdX6Bz6fv"
-    },
-    {
-      "added_at": "2024-02-22 23:01:00",
-      "album": {
         "name": "X2VR",
         "url": "https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29"
       },
@@ -531,6 +511,54 @@
       "duration_ms": 171789,
       "name": "Hebs",
       "url": "https://open.spotify.com/track/3EyDmcEetdHSOdY2V1xsXj"
+    },
+    {
+      "added_at": "2024-02-22 23:01:00",
+      "album": {
+        "name": "MOTIVATION 4 THE STREETZ",
+        "url": "https://open.spotify.com/album/4kzJg7hnr56yGMMsvV23rL"
+      },
+      "artists": [
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        },
+        {
+          "name": "Rondodasosa",
+          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
+        }
+      ],
+      "duration_ms": 156447,
+      "name": "HOODRICH",
+      "url": "https://open.spotify.com/track/2TMF4ZxPrOncQiJ9KVXD3f"
+    },
+    {
+      "added_at": "2024-02-22 23:01:00",
+      "album": {
+        "name": "Piccolo principe",
+        "url": "https://open.spotify.com/album/10HFJ1fuiGUMpAa7Ylh7VU"
+      },
+      "artists": [
+        {
+          "name": "Neima Ezza",
+          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
+        },
+        {
+          "name": "Dystopic",
+          "url": "https://open.spotify.com/artist/0bHol2ItTHAlLsW89chAQj"
+        },
+        {
+          "name": "2nd Roof",
+          "url": "https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "duration_ms": 118787,
+      "name": "Ghetto love (feat. Gu\u00e8)",
+      "url": "https://open.spotify.com/track/6fG0TZQMCCUjTlWwB5WyGP"
     },
     {
       "added_at": "2024-02-22 23:01:00",
@@ -579,8 +607,8 @@
     {
       "added_at": "2024-02-22 23:01:00",
       "album": {
-        "name": "MOTIVATION 4 THE STREETZ",
-        "url": "https://open.spotify.com/album/4kzJg7hnr56yGMMsvV23rL"
+        "name": "SANTI QUA (feat. Ddusi)",
+        "url": "https://open.spotify.com/album/0WpqSfnWekbpI85035PCYa"
       },
       "artists": [
         {
@@ -588,13 +616,13 @@
           "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
         },
         {
-          "name": "Rondodasosa",
-          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
+          "name": "Ddusi",
+          "url": "https://open.spotify.com/artist/5VTNrKBvvSe0NdWMW8qTwa"
         }
       ],
-      "duration_ms": 156447,
-      "name": "HOODRICH",
-      "url": "https://open.spotify.com/track/2TMF4ZxPrOncQiJ9KVXD3f"
+      "duration_ms": 162758,
+      "name": "SANTI QUA (feat. Ddusi)",
+      "url": "https://open.spotify.com/track/3plovXEUjBSuwxEjcx3EYz"
     },
     {
       "added_at": "2024-02-22 23:01:00",
@@ -643,34 +671,6 @@
       "duration_ms": 185454,
       "name": "PANINARO (feat. Tony Boy, Artie 5ive)",
       "url": "https://open.spotify.com/track/0VVYNEXsZB3x9XyMEZQjk1"
-    },
-    {
-      "added_at": "2024-02-22 23:01:00",
-      "album": {
-        "name": "Piccolo principe",
-        "url": "https://open.spotify.com/album/10HFJ1fuiGUMpAa7Ylh7VU"
-      },
-      "artists": [
-        {
-          "name": "Neima Ezza",
-          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
-        },
-        {
-          "name": "Dystopic",
-          "url": "https://open.spotify.com/artist/0bHol2ItTHAlLsW89chAQj"
-        },
-        {
-          "name": "2nd Roof",
-          "url": "https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx"
-        },
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        }
-      ],
-      "duration_ms": 118787,
-      "name": "Ghetto love (feat. Gu\u00e8)",
-      "url": "https://open.spotify.com/track/6fG0TZQMCCUjTlWwB5WyGP"
     },
     {
       "added_at": "2024-02-22 23:01:00",

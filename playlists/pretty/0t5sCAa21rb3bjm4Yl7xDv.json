@@ -1,13 +1,29 @@
 {
-  "description": "The hottest tracks you want to hear all in one playlist! Cover: Ariana Grande",
-  "num_followers": 80460,
+  "description": "The hottest tracks you want to hear all in one playlist! Cover: Selena Gomez",
+  "num_followers": 80455,
   "original_name": "New Pop Hits",
   "owner": {
     "name": "Digster Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "MTQyMjksMDYwYzhkYjg2ZGJkMGIzZDMxZjg1OGQ2N2IxMTUxYTU0NTBmMTQ0OA==",
+  "snapshot_id": "MTQyMzIsZWJjN2UwNjNlYTNhMzQxNDIyNzllMDQxYWMzNTY0OGY5MTM4YTAxZA==",
   "tracks": [
+    {
+      "added_at": "2024-02-23 13:17:14",
+      "album": {
+        "name": "Love On",
+        "url": "https://open.spotify.com/album/7I7rbWQoLZ7PrTMsRfocpL"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 181650,
+      "name": "Love On",
+      "url": "https://open.spotify.com/track/2fB5YRuD88drKpCXQOAk03"
+    },
     {
       "added_at": "2024-02-16 13:06:23",
       "album": {

@@ -3091,6 +3091,28 @@
     },
     {
       "album": {
+        "name": "Want To Go Higher",
+        "url": "https://open.spotify.com/album/44ASoFEKHD2SnUl5bPVdHO"
+      },
+      "artists": [
+        {
+          "name": "Eddy Black",
+          "url": "https://open.spotify.com/artist/5XCoXE7RaDvuyMCghkdmxK"
+        },
+        {
+          "name": "Norah B.",
+          "url": "https://open.spotify.com/artist/2oc7HOF4je0QOUpYZ3Drio"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159069,
+      "name": "Want To Go Higher",
+      "url": "https://open.spotify.com/track/21145DXQcPT6tiSUC111yx"
+    },
+    {
+      "album": {
         "name": "Wataqui",
         "url": "https://open.spotify.com/album/338oBgeuDJHByptkUWZpbS"
       },

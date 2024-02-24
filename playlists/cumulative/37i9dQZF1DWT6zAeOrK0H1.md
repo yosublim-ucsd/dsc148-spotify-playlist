@@ -4,7 +4,7 @@
 
 > Home of the best bands orbiting the universe right now\. Cover: Royel Otis
 
-259 songs - 15 hr 40 min
+260 songs - 15 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,8 @@
 | [Good Girls](https://open.spotify.com/track/1QLt4G7tMstvj6IVcQSwg9) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Screen Violence](https://open.spotify.com/album/0QVGIcTbPFeiArrgwRKKtG) | 3:19 | 2022-03-15 | 2022-10-03 |
 | [Good Girls](https://open.spotify.com/track/5vrqIOmzON7eO9Fp5iQANm) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Screen Violence](https://open.spotify.com/album/0Q6KFth9qxni5rsmqtcTKO) | 3:19 | 2022-09-01 | 2022-10-14 |
 | [Good Girls](https://open.spotify.com/track/77fcXpPaKiAlySEqwNLE4i) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Screen Violence](https://open.spotify.com/album/0KuAi49HdkjHiuL7TjKsud) | 3:19 | 2022-07-08 | 2022-09-15 |
-| [Grace](https://open.spotify.com/track/0j6oelnoCs8StrR26Fm04P) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Grace](https://open.spotify.com/album/46x33FiHk7u4QRrf2H6pfY) | 3:53 | 2024-02-02 |  |
+| [Grace](https://open.spotify.com/track/0UWLqOtqAd0JRUYgoJBb9w) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [TANGK](https://open.spotify.com/album/6U11VNHZAfYY3E9V4oFB2p) | 3:53 | 2024-02-16 |  |
+| [Grace](https://open.spotify.com/track/0j6oelnoCs8StrR26Fm04P) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Grace](https://open.spotify.com/album/46x33FiHk7u4QRrf2H6pfY) | 3:53 | 2024-02-02 | 2024-02-24 |
 | [Grounds](https://open.spotify.com/track/6jYxxjpNcjglJbAyoxdNQO) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Ultra Mono](https://open.spotify.com/album/20O6GKv8VfyvL4Gy0TAJs7) | 3:08 | 2022-03-15 | 2022-06-17 |
 | [Guided By Angels](https://open.spotify.com/track/4JDMKZCbeto7G8RhqVIaYs) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Guided By Angels](https://open.spotify.com/album/1Rv5DVHUuzxxqSn9CvF0ZY) | 2:59 | 2022-03-15 | 2022-06-03 |
 | [Happiness \(Dance Floor Edit\)](https://open.spotify.com/track/34Tmk8gwlRRegVVZDRxXxk) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Happiness](https://open.spotify.com/album/4KfzkkK3Gt2Ux5A2AVoTK8) | 3:55 | 2022-08-11 | 2022-09-02 |

@@ -4,7 +4,7 @@
 
 > Fresh releases from your future favorite artists\. Cover: Patricia Heart Artwork: Isu Kim
 
-2,100 songs - 5 day 4 hr 19 min
+2,102 songs - 5 day 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -423,6 +423,7 @@
 | [Dance With Me](https://open.spotify.com/track/7uj2Ylzg8wy2SV1440jmpb) | [Childlike Wonder](https://open.spotify.com/artist/0DWpyJrc1Vn7rLct905fPA) | [Dance With Me](https://open.spotify.com/album/4tGGBcxlyRhwgF3QO1uUYm) | 4:27 | 2023-08-17 | 2023-09-08 |
 | [Dancing Like We're Twentysomething](https://open.spotify.com/track/62L9FO5Ni5iEnQQHCbl0H2) | [Monolog](https://open.spotify.com/artist/1lFZVpc8Zg0D2JXr11BVrk) | [Dancing Like We're Twentysomething](https://open.spotify.com/album/5HAgAwFddsTLM7rKlUWbEP) | 4:10 | 2022-08-26 | 2022-12-01 |
 | [Danny Phantom](https://open.spotify.com/track/6uzhq5erUmXKIoERKLZHPy) | [Young Chi](https://open.spotify.com/artist/4LFz06jvPietsRpxXOcw5t), [Nomi](https://open.spotify.com/artist/7DauDCF6xlL3FuvbCFx6M5) | [Danny Phantom](https://open.spotify.com/album/5G3zSL78UgOh303n8QKfoK) | 1:55 | 2023-11-16 | 2024-01-26 |
+| [Dapit\-Hapon](https://open.spotify.com/track/1xNmzASp4818Xf7nsrGna8) | [Ant$](https://open.spotify.com/artist/5Q071iT6WeDNP937gQF2FT) | [Dapit\-Hapon](https://open.spotify.com/album/3wYNvocBlUHHyUXA1tihUw) | 3:20 | 2024-02-22 |  |
 | [Dapithapon](https://open.spotify.com/track/522eJkh5Stf6JsIWzfCDwz) | [Paper Satellites](https://open.spotify.com/artist/45eAWMbvTmm7HbyFlxMKub), [BABYBLUE](https://open.spotify.com/artist/0x42YctsSCMOPcgTgtKGKy) | [Dapithapon](https://open.spotify.com/album/2mGgdBR9juh5ZqChP75cYo) | 3:31 | 2024-02-15 |  |
 | [Darating](https://open.spotify.com/track/4ML8MfJwjyk0R9z3EAIfnM) | [Yolab](https://open.spotify.com/artist/4h2caOGMM4rdHeomptq6ai) | [Darating](https://open.spotify.com/album/58hb8zoNCGoTQhhEMebwH2) | 2:30 | 2023-08-17 | 2023-09-08 |
 | [DARLIN](https://open.spotify.com/track/2SZxgoYcsRTlRVI6XQGZxt) | [Th1rt3en Yuzora](https://open.spotify.com/artist/0ZsV5LjbQKkSE6zkQbGQgc) | [DARLIN](https://open.spotify.com/album/0FvHXhlscsvsPWGBuDrqVY) | 2:32 | 2023-06-22 | 2023-07-07 |
@@ -1874,6 +1875,7 @@
 | [The Beast](https://open.spotify.com/track/40e9mNIqd4wLE3EiwPC3UL) | [VXON](https://open.spotify.com/artist/03jMNKZ7bfBuHdZUqeJyv7) | [The Beast](https://open.spotify.com/album/3flkYNv2VM7Mls9M9ww8HX) | 3:25 | 2022-01-07 | 2022-01-21 |
 | [The Bible Song](https://open.spotify.com/track/0qBUmDHR0UxAm9bZS68KDA) | [Saint Klutch](https://open.spotify.com/artist/4O5M5erNF5cqbhGJmsuDDj) | [The Bible Song](https://open.spotify.com/album/4MgD6jUUTreQ7obKKkni6Z) | 5:05 | 2023-09-21 | 2023-10-13 |
 | [The City Doesn't Look Good On You](https://open.spotify.com/track/6SjEafDqEkmJH6vZxzRKc9) | [Adela\-Mae](https://open.spotify.com/artist/1r0MUTXYp6zMp4aoK1nhTq) | [The City Doesn't Look Good On You](https://open.spotify.com/album/0dDJ3YyIaRT1ry1KImz8Pj) | 3:24 | 2022-03-17 | 2022-05-06 |
+| [the guggenheim](https://open.spotify.com/track/5lmrta7Vve55sUE39nPAMG) | [palagi.](https://open.spotify.com/artist/7CaN0416jaWruOGjD1os6S) | [the guggenheim](https://open.spotify.com/album/6TQcSvsqCQaNTBg13KM0iW) | 3:40 | 2024-02-22 |  |
 | [The Long Way \(feat\. Sin Santos\)](https://open.spotify.com/track/67UZAWaykbnkqVwobhQYdy) | [Boy Graduate](https://open.spotify.com/artist/439SsPuTNabVbIb3eDAV0v), [Sin Santos](https://open.spotify.com/artist/6ObY07YC4aESI52KJ16vQ5) | [The Long Way \(feat\. Sin Santos\)](https://open.spotify.com/album/5lCiMBKhmzyiJYwPjnvjQb) | 3:19 | 2022-01-27 | 2022-02-11 |
 | [The Meadow](https://open.spotify.com/track/5j6fSDMlY0t2skSC7CY6Ze) | [Kai Buizon](https://open.spotify.com/artist/5E0ONvPoq9Y6C6BI0uz430) | [The Meadow](https://open.spotify.com/album/7LMpgC0J9hjYE66vsG7G8u) | 4:16 | 2023-01-26 | 2023-02-10 |
 | [The Orchard Tree \(Voice Memo\)](https://open.spotify.com/track/0tsa13Pm3HhXhiWgnspGVH) | [VENTT.](https://open.spotify.com/artist/3hj3jyvxEW3Xd8c3iTUNZP) | [The Orchard Tree \(Voice Memo\)](https://open.spotify.com/album/5w8Hj7xf4J3kdsIwuDbQLB) | 4:06 | 2022-01-27 | 2022-04-08 |

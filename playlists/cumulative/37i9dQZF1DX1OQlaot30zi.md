@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Beba, Fabri Fibra, Mace, Niky Savage e tanti altri.
 
-3,119 songs - 5 day 21 hr 16 min
+3,120 songs - 5 day 21 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1831,7 +1831,8 @@
 | [Mood](https://open.spotify.com/track/1OpRSagCpHTm4i8l8DWwJF) | [YOUNGGUCCI](https://open.spotify.com/artist/7H20paGoAca5bp3V3K3svi) | [Mood](https://open.spotify.com/album/7DZjUltdRb2F38DYmLykjd) | 3:17 | 2022-05-19 | 2022-06-10 |
 | [MOON \(feat\. Capo Plaza & Tony Boy\)](https://open.spotify.com/track/2QieMRkH51KbJw4ZauGJfY) | [AVA](https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [MOON \(feat\. Capo Plaza & Tony Boy\)](https://open.spotify.com/album/257g998F1JZB1zxKp0CPNd) | 3:06 | 2024-01-25 |  |
 | [Moonwalking](https://open.spotify.com/track/639T7wdrTdOwhXwXIHU2MI) | [Miller](https://open.spotify.com/artist/5Zac830Rf5D42X4G5lIzqs) | [Moonwalking](https://open.spotify.com/album/62HDRAHx09HwPTrJDCsmWH) | 2:38 | 2022-10-20 | 2022-11-04 |
-| [Moove \(feat\. Axell & Swan\)](https://open.spotify.com/track/1lSK6KCfBdZY5A4UF30QRF) | [Real Talk](https://open.spotify.com/artist/7MeFbKQT6w9iBMLuHmzVVW), [Axell](https://open.spotify.com/artist/28MwCJQFjF6qOkpsiDh2yT), [Swan](https://open.spotify.com/artist/5vjkHRMoB3hWGn3BvNqGcj) | [EP 5/8 \(feat\. Axell\)](https://open.spotify.com/album/0rMEQ6w3iZgeJHgNlIwYOK) | 2:04 | 2024-02-15 |  |
+| [Moove \(feat\. Axell & Swan\)](https://open.spotify.com/track/1lSK6KCfBdZY5A4UF30QRF) | [Real Talk](https://open.spotify.com/artist/7MeFbKQT6w9iBMLuHmzVVW), [Axell](https://open.spotify.com/artist/28MwCJQFjF6qOkpsiDh2yT), [Swan](https://open.spotify.com/artist/5vjkHRMoB3hWGn3BvNqGcj) | [EP 5/8 \(feat\. Axell\)](https://open.spotify.com/album/0rMEQ6w3iZgeJHgNlIwYOK) | 2:04 | 2024-02-15 | 2024-02-24 |
+| [Moove \(feat\. Axell & Swan\)](https://open.spotify.com/track/4iSoJU6Yn6Wt7LienXuWtl) | [Real Talk](https://open.spotify.com/artist/7MeFbKQT6w9iBMLuHmzVVW), [Axell](https://open.spotify.com/artist/28MwCJQFjF6qOkpsiDh2yT), [Swan](https://open.spotify.com/artist/5vjkHRMoB3hWGn3BvNqGcj) | [Real talk \- 5/8 feat Axell](https://open.spotify.com/album/56fVdGqCHRyXSSAmr8gfeP) | 2:04 | 2024-02-22 |  |
 | [Moped](https://open.spotify.com/track/6P7sMzrgLb3JGOLHUCPsUh) | [2Rari](https://open.spotify.com/artist/70WMQrrPQeYY9JaPVx1nWf) | [Moped](https://open.spotify.com/album/2aPFHvvfAtAfDXtQ5jHNxS) | 2:14 | 2023-04-27 | 2023-05-19 |
 | [Morire](https://open.spotify.com/track/4qwSAlQf1ekfpvDA76WqDr) | [Blocage](https://open.spotify.com/artist/44oncuQSlFMMh7PRslRKUk) | [Morire](https://open.spotify.com/album/4dSRjaXGU5uh7E2i8rppWI) | 2:32 | 2023-12-07 | 2023-12-30 |
 | [Moshpit](https://open.spotify.com/track/1Ymh2mboYz0jzwnsQc6xAB) | [Knowpmw](https://open.spotify.com/artist/17krypRYPb6x6ojBgFuhLx) | [Moshpit](https://open.spotify.com/album/7IWedGLJrqHF1g4tUyiATN) | 2:07 | 2023-01-12 | 2023-01-20 |

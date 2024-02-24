@@ -4,7 +4,7 @@
 
 > New folk & americana driving the current, every week\. Cover: Kara Jackson
 
-133 songs - 7 hr 56 min
+134 songs - 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Struggle](https://open.spotify.com/track/6SAeWIxjMvNkzElv4cz43s) | [Leon Timbo](https://open.spotify.com/artist/5sh0bpSEIvnWiJxZKFhJ8S) | [Lovers And Fools, Vol\. 2](https://open.spotify.com/album/514CYU9q0GHkgm481oj3U6) | 4:40 | 2022-06-17 | 2023-12-24 |
 | [Sweet Misery](https://open.spotify.com/track/7bg9GsxzCq4pj0wjmCz4Ke) | [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc) | [Sweet Misery](https://open.spotify.com/album/3yLtCH6hQhQ2Q58FMW7JYT) | 3:09 | 2021-10-22 |  |
 | [Take Me In](https://open.spotify.com/track/7j3hoTIsDslReqVcQNVUF6) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Hearts Town](https://open.spotify.com/album/7JpS1MkDWu1bRS4b9VWeoY) | 3:47 | 2021-10-22 |  |
+| [The Ballad of Sally Anne](https://open.spotify.com/track/2kozuAaT0clm71FtU5bThw) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [The Ballad of Sally Anne](https://open.spotify.com/album/3uc7lb3lx1Ww2XRPBnAJkh) | 3:58 | 2024-02-23 |  |
 | [The Capitalist Blues](https://open.spotify.com/track/7LPxn9YKOA8K1U6wMzhfc6) | [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y) | [The Capitalist Blues](https://open.spotify.com/album/24ZcXwoLdmjsrXTYWPsaXJ) | 3:55 | 2021-10-22 | 2022-02-05 |
 | [The Man Was Burning](https://open.spotify.com/track/074GZIq3xxoDd8fH9IGAth) | [Jake Blount](https://open.spotify.com/artist/63yfJDmaBbifNzvWUUdpv1) | [The Man Was Burning](https://open.spotify.com/album/6Y0pRUL22pIwgZMLRF8PNP) | 2:35 | 2023-06-23 |  |
 | [The Man Was Burning](https://open.spotify.com/track/5X8hjt33EdQ8KUaUzcTNQv) | [Jake Blount](https://open.spotify.com/artist/63yfJDmaBbifNzvWUUdpv1) | [The Man Was Burning](https://open.spotify.com/album/0OhzvTKOvapdOk4KY5Zjly) | 2:35 | 2022-06-03 | 2023-12-24 |

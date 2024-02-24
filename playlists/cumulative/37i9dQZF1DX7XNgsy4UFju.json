@@ -178,7 +178,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 198520,
       "name": "27",
       "url": "https://open.spotify.com/track/6sx5BR9JRCw9pI1lRUiOeG"
@@ -5483,6 +5483,28 @@
     },
     {
       "album": {
+        "name": "Dancing In Babylon (feat. Christine and the Queens)",
+        "url": "https://open.spotify.com/album/3QUPigEo0MoAsxxRDe3JOk"
+      },
+      "artists": [
+        {
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+        },
+        {
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292093,
+      "name": "Dancing In Babylon (feat. Christine and the Queens)",
+      "url": "https://open.spotify.com/track/6QybVJMtaDCJjl2vPR2DcA"
+    },
+    {
+      "album": {
         "name": "Dancing In The Courthouse",
         "url": "https://open.spotify.com/album/6y1x1MUnhsqTIRkp6KpYkq"
       },
@@ -8383,6 +8405,24 @@
     },
     {
       "album": {
+        "name": "Fool",
+        "url": "https://open.spotify.com/album/7w9GLsCdyuS7uwdixV90vb"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174539,
+      "name": "Fool",
+      "url": "https://open.spotify.com/track/2T0NGoXh9FT1kCjQA5Phto"
+    },
+    {
+      "album": {
         "name": "Songs That Don't Belong",
         "url": "https://open.spotify.com/album/78G4G2UaOnJm2PZxWUqIna"
       },
@@ -8434,6 +8474,24 @@
       "duration_ms": 242533,
       "name": "For Real",
       "url": "https://open.spotify.com/track/6sYC0737gy4Fwhjsv0Jjr2"
+    },
+    {
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/3aiBsLE0pQDTtZLO21UqZ8"
+      },
+      "artists": [
+        {
+          "name": "Jaguar Sun",
+          "url": "https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217513,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/5YBqVqm8LmaIkrRSSfTMQk"
     },
     {
       "album": {
@@ -10170,6 +10228,24 @@
       "duration_ms": 247615,
       "name": "Hard to Let Go",
       "url": "https://open.spotify.com/track/7lKN7pik3CelVWHWGp6DfB"
+    },
+    {
+      "album": {
+        "name": "harry houdini",
+        "url": "https://open.spotify.com/album/42L1S5YuqINChXquOm1gKn"
+      },
+      "artists": [
+        {
+          "name": "maxime.",
+          "url": "https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154029,
+      "name": "harry houdini",
+      "url": "https://open.spotify.com/track/4fMhbVCe2OXuDrlgZoZAos"
     },
     {
       "album": {
@@ -15285,6 +15361,24 @@
     },
     {
       "album": {
+        "name": "May Ninth",
+        "url": "https://open.spotify.com/album/0XTJuQSKa1LtnG7r5MO43L"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192144,
+      "name": "May Ninth",
+      "url": "https://open.spotify.com/track/2145px2VY14o2Pgr0OIttX"
+    },
+    {
+      "album": {
         "name": "Maybe",
         "url": "https://open.spotify.com/album/6Tb0V8pptNIf83kJcSXMpY"
       },
@@ -15336,6 +15430,24 @@
       "duration_ms": 202900,
       "name": "Me And You, Anywhere",
       "url": "https://open.spotify.com/track/2YyvOCmxDpyTkovTmA86XY"
+    },
+    {
+      "album": {
+        "name": "Me Before You",
+        "url": "https://open.spotify.com/album/5Vu8Hm0i46IcPP6JNvT0jE"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203519,
+      "name": "Me Before You",
+      "url": "https://open.spotify.com/track/0ap1L5LS0igd0zs4erqmT3"
     },
     {
       "album": {
@@ -17083,6 +17195,24 @@
     },
     {
       "album": {
+        "name": "No Safe + Sound",
+        "url": "https://open.spotify.com/album/28rRLzHAYfno4Df7p69Nun"
+      },
+      "artists": [
+        {
+          "name": "July Talk",
+          "url": "https://open.spotify.com/artist/3EaMbsBlExxNxLvTJcZvDq"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257273,
+      "name": "No Safe + Sound",
+      "url": "https://open.spotify.com/track/4CKlQAZjUxKH6qvfun7oMK"
+    },
+    {
+      "album": {
         "name": "No Time to Explain",
         "url": "https://open.spotify.com/album/5wqULj0mJVw6VDfpOXRMPS"
       },
@@ -17470,7 +17600,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 233201,
       "name": "obliterate me",
       "url": "https://open.spotify.com/track/7qRMiZxKOdihhkdlJthqxP"
@@ -18528,7 +18658,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 275277,
       "name": "Penthouse in The Sky",
       "url": "https://open.spotify.com/track/5UC5kPr4qlY0PDrGwE31zA"
@@ -20084,7 +20214,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 135343,
       "name": "Roadkill",
       "url": "https://open.spotify.com/track/409Wu3XqnCwqgXV3JM175Y"
@@ -22080,7 +22210,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 192426,
       "name": "Song For Franz",
       "url": "https://open.spotify.com/track/5K9nvLz7Y3mgxLNPJuWcjR"
@@ -22668,7 +22798,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 211533,
       "name": "Stranger in Your Living Room - Demo",
       "url": "https://open.spotify.com/track/3Ax6AtWNQxbqi7QlZ32W7q"
@@ -23386,6 +23516,28 @@
       "duration_ms": 158293,
       "name": "Talk",
       "url": "https://open.spotify.com/track/1upVvXlWQUwAPuLN3oh8lk"
+    },
+    {
+      "album": {
+        "name": "Tall Boy",
+        "url": "https://open.spotify.com/album/5A3jNX3ZP3DepmTViId4qj"
+      },
+      "artists": [
+        {
+          "name": "Close Talker",
+          "url": "https://open.spotify.com/artist/4xyP3FGvSmDPFy9rsOifMh"
+        },
+        {
+          "name": "Wyatt C. Louis",
+          "url": "https://open.spotify.com/artist/0U2aokEQQSzyTcQdpC6DsB"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314827,
+      "name": "Tall Boy",
+      "url": "https://open.spotify.com/track/7qcJoUaUpoE01mJjWi4U1k"
     },
     {
       "album": {
@@ -24942,7 +25094,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 228381,
       "name": "Tiny Moves",
       "url": "https://open.spotify.com/track/6pP7muebYMLT46IOZOLvyN"
@@ -27164,7 +27316,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 298897,
       "name": "While You Wait",
       "url": "https://open.spotify.com/track/6VNsdDlsgWEhGfpeoc1UZW"

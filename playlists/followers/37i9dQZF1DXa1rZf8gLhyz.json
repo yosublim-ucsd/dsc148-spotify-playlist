@@ -1,5 +1,5 @@
 {
-  "2024-02-23": 1208444,
+  "2024-02-24": 1208596,
   "date_first_scraped": "2021-12-21",
   "description": "Let these calm Jazz tracks lull you to sleep.",
   "name": "Jazz for Sleep",
@@ -1839,6 +1839,24 @@
       "duration_ms": 173279,
       "name": "Early Autumn",
       "url": "https://open.spotify.com/track/3VztHPAF4NNh2QXdQ5M6XP"
+    },
+    {
+      "album": {
+        "name": "Easy Goin'",
+        "url": "https://open.spotify.com/album/07YKwMac0MwqKsvOf7ugKx"
+      },
+      "artists": [
+        {
+          "name": "Franck Byrne",
+          "url": "https://open.spotify.com/artist/7aRioiKpZ6nRpUIy5QgiDq"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164108,
+      "name": "Easy Goin'",
+      "url": "https://open.spotify.com/track/23v7yXkwzDcmC8b6nIJ9HK"
     },
     {
       "album": {
@@ -3858,6 +3876,24 @@
     },
     {
       "album": {
+        "name": "It's Always You",
+        "url": "https://open.spotify.com/album/1AyGDjBqXKqitkKu9znlV3"
+      },
+      "artists": [
+        {
+          "name": "Noah Francis",
+          "url": "https://open.spotify.com/artist/4eb1snZh2HniBNVrM6lnrT"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146145,
+      "name": "It's Always You",
+      "url": "https://open.spotify.com/track/0cp6chOz2cL9WPRmkXgMJh"
+    },
+    {
+      "album": {
         "name": "I Keep Clinging To Close",
         "url": "https://open.spotify.com/album/4rCMPGvTEERHD29NspCuC7"
       },
@@ -3963,6 +3999,24 @@
       "duration_ms": 136041,
       "name": "Jupiter",
       "url": "https://open.spotify.com/track/4hjTtZqxYQpCkSKuVqLooh"
+    },
+    {
+      "album": {
+        "name": "Just A Little Thought",
+        "url": "https://open.spotify.com/album/3ZRG84XNodq7Km8JTbzeov"
+      },
+      "artists": [
+        {
+          "name": "Seth Liane",
+          "url": "https://open.spotify.com/artist/4JLTxlTLrEwcYFc2g0anOT"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199875,
+      "name": "Just A Little Thought",
+      "url": "https://open.spotify.com/track/5wU4KJSvgbfxHPdXj5Sp6b"
     },
     {
       "album": {
@@ -4884,6 +4938,24 @@
     },
     {
       "album": {
+        "name": "Moonlit Nights",
+        "url": "https://open.spotify.com/album/1pfrSOAxX3tKAIYCRthcg8"
+      },
+      "artists": [
+        {
+          "name": "Millie Blue",
+          "url": "https://open.spotify.com/artist/3Z6Jby1DnvCKJMkHjrwg5P"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118236,
+      "name": "Moonlit Nights",
+      "url": "https://open.spotify.com/track/4wf3q64jS9wZu0pfFlNSGq"
+    },
+    {
+      "album": {
         "name": "Moonsteps",
         "url": "https://open.spotify.com/album/3cIasriXmdPnRk9r9QSGq9"
       },
@@ -4949,7 +5021,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 173647,
       "name": "My Favorite Things",
       "url": "https://open.spotify.com/track/29Z43s5cYYulFEkGJYMLkb"
@@ -5133,6 +5205,24 @@
       "duration_ms": 131120,
       "name": "My Roses",
       "url": "https://open.spotify.com/track/3vje2r6o6xnUnPTsoAwxju"
+    },
+    {
+      "album": {
+        "name": "My Writing Time",
+        "url": "https://open.spotify.com/album/13bS4DuoftGDo0Gfun7V7K"
+      },
+      "artists": [
+        {
+          "name": "Logan Jameison",
+          "url": "https://open.spotify.com/artist/1qGVG7uUHFWBfuUXIon1gt"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213420,
+      "name": "My Writing Time",
+      "url": "https://open.spotify.com/track/4YReZY9ljzF8jbIn9wRmUg"
     },
     {
       "album": {
@@ -5511,6 +5601,24 @@
       "duration_ms": 177153,
       "name": "Once In A Serenade",
       "url": "https://open.spotify.com/track/6Ia3eru04MZCaWHSjXuf42"
+    },
+    {
+      "album": {
+        "name": "Only Trust Your Heart",
+        "url": "https://open.spotify.com/album/5cd46VvhE6ChnEOOZZ1qta"
+      },
+      "artists": [
+        {
+          "name": "Valentine Summers",
+          "url": "https://open.spotify.com/artist/20rl2utHmZk0IPSLeyB7Fs"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142162,
+      "name": "Only Trust Your Heart",
+      "url": "https://open.spotify.com/track/2hmtAFBGrjZLCYBWQd3IB8"
     },
     {
       "album": {
@@ -6742,6 +6850,24 @@
     },
     {
       "album": {
+        "name": "Spring in Chicago",
+        "url": "https://open.spotify.com/album/6IRKUu24Xf86iDWVlf6rJx"
+      },
+      "artists": [
+        {
+          "name": "Myles Dale",
+          "url": "https://open.spotify.com/artist/3Q7czp0WDDlH4Z1Zt8yWKG"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180594,
+      "name": "Spring in Chicago",
+      "url": "https://open.spotify.com/track/3GZtZDAbxKusD1QjrwCMDH"
+    },
+    {
+      "album": {
         "name": "Square One",
         "url": "https://open.spotify.com/album/6rdTWVLWJekeRcmeQ50BbG"
       },
@@ -7966,6 +8092,24 @@
     },
     {
       "album": {
+        "name": "Tired",
+        "url": "https://open.spotify.com/album/7K6kTK2SnRfJegPTFUojsf"
+      },
+      "artists": [
+        {
+          "name": "Jacob Schr\u00f6der",
+          "url": "https://open.spotify.com/artist/4VOTRfoGtDDp0Fl9ar28XN"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170756,
+      "name": "Tired",
+      "url": "https://open.spotify.com/track/7eTSFAOVW9mKWHO2dpYIcX"
+    },
+    {
+      "album": {
         "name": "Too Young To Go Steady",
         "url": "https://open.spotify.com/album/656H32hHkOEd6tMClG0FQe"
       },
@@ -8625,7 +8769,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 157144,
       "name": "You Know It's Me",
       "url": "https://open.spotify.com/track/1EzsGVXnTmukpzQ8u8F5gg"

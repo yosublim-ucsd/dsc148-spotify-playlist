@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,568 songs - 4 day 11 hr 55 min
+1,569 songs - 4 day 12 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -873,7 +873,7 @@
 | [Mala](https://open.spotify.com/track/5Fv4EVQN6GEYYnMZ3L6NOl) | [Classic Unknwn](https://open.spotify.com/artist/1dZll1W7w0FMBahKsYi7F0) | [Arkade Destinations Tulum](https://open.spotify.com/album/3wIq5okaszSGMxYv4zlzyR) | 5:01 | 2020-03-19 | 2022-06-30 |
 | [Mana](https://open.spotify.com/track/6BO5kq5A7XCntn2SoQws0v) | [Fakear](https://open.spotify.com/artist/4eFImh8D3F15dtZk0JQlpT) | [Mana](https://open.spotify.com/album/16rmHSa9CPjFFrWH3zFG74) | 3:32 | 2020-03-21 | 2022-08-25 |
 | [Manila Palm](https://open.spotify.com/track/4AoQ3IvQqXjFhvtVyrGfGn) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Juno](https://open.spotify.com/album/1eQxkBCBAwikauTxmYDjB9) | 4:33 | 2021-07-16 | 2023-09-09 |
-| [Manzanita](https://open.spotify.com/track/4G0cM5vW6osbKteFqcgexA) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ) | [Manzanita](https://open.spotify.com/album/2Qidx1pVb6bVpooKf9tiUt) | 2:44 | 2023-07-21 |  |
+| [Manzanita](https://open.spotify.com/track/4G0cM5vW6osbKteFqcgexA) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ) | [Manzanita](https://open.spotify.com/album/2Qidx1pVb6bVpooKf9tiUt) | 2:44 | 2023-07-21 | 2024-02-24 |
 | [Maradona](https://open.spotify.com/track/0y7JsPpdF6D75aHOZK998j) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [This Is Me](https://open.spotify.com/album/4OWqEzeZzgCPf40QoCIWMY) | 3:11 | 2020-05-22 | 2020-07-03 |
 | [Maradona Riddim](https://open.spotify.com/track/6QsMORizT7A2vwfOwU8xAM) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Maradona Riddim](https://open.spotify.com/album/2tWgNOU6kAGkJMh1eSR18D) | 3:17 | 2020-05-18 | 2020-07-03 |
 | [Marea \(we’ve lost dancing\)](https://open.spotify.com/track/5Z8Dj3LtbyCMiwE86rhg2f) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Actual Life \(April 14 \- December 17 2020\)](https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC) | 4:45 | 2022-02-18 | 2023-02-18 |
@@ -1320,6 +1320,7 @@
 | [Sunday Song](https://open.spotify.com/track/2P4wRFA7ftewX1JdN3On2K) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Sunday Song](https://open.spotify.com/album/74R8jlQqkBESah1EvRHjPy) | 4:29 | 2020-02-29\* | 2022-01-21 |
 | [Sunny Days \- Michael Brun Remix](https://open.spotify.com/track/0tviGXcsCYz79MUyrXgn8x) | [Janelle Kroll](https://open.spotify.com/artist/50bLYJ4e3ZR2chodK8oMW9), [Michael Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV) | [Sunny Days \(Michael Brun Remix\)](https://open.spotify.com/album/1YyqdaeHMionFgZnttKz6P) | 3:29 | 2020-03-20 | 2020-08-20 |
 | [Sunrays](https://open.spotify.com/track/2V2SVDQIt2QgUENzNdVCjI) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [Sunrays](https://open.spotify.com/album/2KZMHq7JT5R7h4rGN3NvKr) | 3:51 | 2021-09-17 | 2022-12-29 |
+| [Sunrise \(feat\. Madeline Megery\)](https://open.spotify.com/track/4z1r9dfqoUNCa0vA4n9ymL) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc), [OCULA](https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij), [Madeline Megery](https://open.spotify.com/artist/100CRSnhxRou1w0lao9HmD) | [Moonlight](https://open.spotify.com/album/1sF7sruZ4NXlCi4YKRZAka) | 5:13 | 2024-02-23 |  |
 | [Sunset](https://open.spotify.com/track/5jUgFofZJCuSQjcYao0VMv) | [A\-SHO](https://open.spotify.com/artist/1nMwu5ui0X2XYTRKGmCFJz), [Lucky Rose](https://open.spotify.com/artist/5ShkaitLUorYdZgJMqTF5E) | [Sunset](https://open.spotify.com/album/7BbXUY8gAHmyZJsVSXfhWR) | 3:19 | 2020-05-18 | 2020-07-03 |
 | [Sunset Lover](https://open.spotify.com/track/3WRQUvzRvBDr4AxMWhXc5E) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2) | [Presence](https://open.spotify.com/album/6se6q5nk4VCVbWWnZcguCc) | 3:58 | 2020-05-18 | 2020-07-03 |
 | [surface](https://open.spotify.com/track/7GTtEE6EgRb7yI0BEGKZfS) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Caspian](https://open.spotify.com/artist/4SXj7TVoA3bgfR8AVssACa) | [album1](https://open.spotify.com/album/09lJhufJEYwygdKq3vUa8t) | 6:02 | 2020-05-18 | 2020-07-03 |

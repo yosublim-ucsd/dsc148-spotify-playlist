@@ -509,6 +509,24 @@
     },
     {
       "album": {
+        "name": "ALMA</3",
+        "url": "https://open.spotify.com/album/68bcjscUFhKvunT391ALub"
+      },
+      "artists": [
+        {
+          "name": "legallyrxx",
+          "url": "https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144260,
+      "name": "ALMA</3",
+      "url": "https://open.spotify.com/track/1Mq86WnX64KKQoCuIaXT1t"
+    },
+    {
+      "album": {
         "name": "Amantes y Amigos",
         "url": "https://open.spotify.com/album/1ymAOPs0Z1p78Me8UbddOK"
       },
@@ -6666,7 +6684,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 183529,
       "name": "Por Ti",
       "url": "https://open.spotify.com/track/3BgDDnVALASShFNeZw4RJ0"

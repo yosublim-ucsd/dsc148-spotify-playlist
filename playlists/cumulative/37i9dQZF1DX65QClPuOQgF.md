@@ -4,7 +4,7 @@
 
 > Find your study focus with high pitched azure noise \- perfect for masking disruptive noises.
 
-198 songs - 12 hr 7 min
+199 songs - 12 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [Soothing Waterfall Sound](https://open.spotify.com/track/6pgcEyzxF17mxQ6PYflb29) | [Noise and Nature](https://open.spotify.com/artist/2hcGTRaH2FXoKel4UTGWJ0) | [Waterfall Sleep Noises](https://open.spotify.com/album/6cyRxitvNynnQFZqkZLNuE) | 3:19 | 2023-05-16 | 2023-07-07 |
 | [Soulful Blue](https://open.spotify.com/track/544wvifWdpnVQEhmsGgd0N) | [Mentatranque](https://open.spotify.com/artist/3bw6drBJri5MxagDKwjRr7) | [Azure Crystalé](https://open.spotify.com/album/2nNadh7a53SrnMo0KJQvWJ) | 2:45 | 2023-05-16 |  |
 | [Steady Waterfall](https://open.spotify.com/track/1w4LsiXcSP9JyEeHPNS9Fk) | [Waterfalling](https://open.spotify.com/artist/3e0rJbfOEVSWe77JRZWGXd) | [Waterfalling](https://open.spotify.com/album/7qA6Aqaktt9X2qw9wbohuI) | 4:15 | 2023-05-16 | 2023-07-07 |
+| [Study Blue\(s\)](https://open.spotify.com/track/4DVfUDYDteI89fZM2LTcIk) | [GLXO](https://open.spotify.com/artist/727d2Rcbyo1h1tmAfg9BuK) | [Study Blue\(s\)](https://open.spotify.com/album/75dI7Q5u4QIrmYLVZGS8Hj) | 4:43 | 2024-02-23 |  |
 | [Super Deep Blue Noise](https://open.spotify.com/track/3g4yv94HbQDE7O8DBMv5ih) | [Binaural Beats Radiance](https://open.spotify.com/artist/7qNc1iaKYwKECfn3MdoJdE), [Binaural Beats](https://open.spotify.com/artist/5syda4ik2slStG8YZkaC9c), [Deep Sleep Relaxation](https://open.spotify.com/artist/2MFHjZApmAbHQxL2oWr8Tl) | [Blue Noise](https://open.spotify.com/album/3JIrA3v6v7qpjNpfzc9Dd2) | 1:35 | 2023-05-16 | 2023-06-20 |
 | [Super Light Blue Noise Loop \(No Fade\)](https://open.spotify.com/track/4dZvkOdXXcpbdnLyJBcmZN) | [Blue Noise Therapy](https://open.spotify.com/artist/4T1DWhxZKiJsuAXiCtmckL) | [Blue Noise Loops](https://open.spotify.com/album/6M1YKgautMbuVgPbXh4OcZ) | 3:00 | 2023-05-16 | 2023-09-21 |
 | [Swimming In Blue Noise](https://open.spotify.com/track/6MohG3gOvYbwcnyDznkfTq) | [Ocean Roar](https://open.spotify.com/artist/0o0rFNhdMAzctv0rVhzDlP) | [Swimming In Blue Noise](https://open.spotify.com/album/0DTX87dhusTrqNK6D6R03k) | 2:14 | 2023-05-16 |  |

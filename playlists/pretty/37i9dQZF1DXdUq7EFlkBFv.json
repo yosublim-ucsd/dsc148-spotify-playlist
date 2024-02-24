@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/akademiks/\">DJ Akademiks</a>",
-  "num_followers": 16169,
+  "num_followers": 16206,
   "original_name": "DJ Akademiks' Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOTRiNDcyMjA1ZjlkYWZiNGZmMWQ2MGE3NzY1MjdmMWJkNmZjZTUw",
+  "snapshot_id": "MCxjZjJlNWE4MTM0MzM1NmY2OTI5MjFjZTc4YzUxZTNhZWFkMTM3OGQz",
   "tracks": [
     {
       "added_at": "2022-10-01 16:17:17",
@@ -267,26 +267,6 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
-        "name": "Clash (feat. Stormzy)",
-        "url": "https://open.spotify.com/album/58GjA2xPMQ8PjNKyddHIqP"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
-        }
-      ],
-      "duration_ms": 251733,
-      "name": "Clash (feat. Stormzy)",
-      "url": "https://open.spotify.com/track/2oUwMN5VfdGX10XeQJLBBi"
-    },
-    {
-      "added_at": "2022-10-01 16:17:17",
-      "album": {
         "name": "Free Dem Boyz",
         "url": "https://open.spotify.com/album/4zJiUubJvgUJNq0BVD9Mvs"
       },
@@ -303,6 +283,26 @@
       "duration_ms": 199093,
       "name": "Maybach (feat. Future)",
       "url": "https://open.spotify.com/track/2Qt8qG9SWPdtRiaWcPNJRm"
+    },
+    {
+      "added_at": "2022-10-01 16:17:17",
+      "album": {
+        "name": "Clash (feat. Stormzy)",
+        "url": "https://open.spotify.com/album/58GjA2xPMQ8PjNKyddHIqP"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "duration_ms": 251733,
+      "name": "Clash (feat. Stormzy)",
+      "url": "https://open.spotify.com/track/2oUwMN5VfdGX10XeQJLBBi"
     },
     {
       "added_at": "2022-10-01 16:17:17",
@@ -715,6 +715,22 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
+        "name": "Steppers",
+        "url": "https://open.spotify.com/album/1cmIixELcilPw7uQzS8UVD"
+      },
+      "artists": [
+        {
+          "name": "22Gz",
+          "url": "https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz"
+        }
+      ],
+      "duration_ms": 150720,
+      "name": "Steppers",
+      "url": "https://open.spotify.com/track/7vNUd8wv8Fo6L1CBxduXxF"
+    },
+    {
+      "added_at": "2022-10-01 16:17:17",
+      "album": {
         "name": "Just A Matter of Slime",
         "url": "https://open.spotify.com/album/0fvmq3jIMJpjHFDTZtjWtx"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 186894,
       "name": "Thugged Out (feat. Kodak Black)",
       "url": "https://open.spotify.com/track/0uRsQ1Q3ZPuXTEkEeUXNNf"
-    },
-    {
-      "added_at": "2022-10-01 16:17:17",
-      "album": {
-        "name": "Steppers",
-        "url": "https://open.spotify.com/album/1cmIixELcilPw7uQzS8UVD"
-      },
-      "artists": [
-        {
-          "name": "22Gz",
-          "url": "https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz"
-        }
-      ],
-      "duration_ms": 150720,
-      "name": "Steppers",
-      "url": "https://open.spotify.com/track/7vNUd8wv8Fo6L1CBxduXxF"
     },
     {
       "added_at": "2022-10-01 16:17:17",

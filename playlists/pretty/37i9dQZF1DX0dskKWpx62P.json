@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Con todo el sentimiento andino! Foto: William Luna",
-  "num_followers": 41466,
+  "num_followers": 41510,
   "original_name": "Huaynos Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNmU4NmRkNzAyNDY4NjJiYmYxMjc2OWIwODUwNDgxZGFjMGEyMjg4",
+  "snapshot_id": "MCw5Mzg0ZDc5ZGNlZjVkMzJlMmI5Y2FkMDBiODQ2ODA5NTA1YmVjNDBh",
   "tracks": [
     {
       "added_at": "2022-02-04 14:45:56",
@@ -803,22 +803,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Mis \u00c9xitos Eternos Vol. 2",
-        "url": "https://open.spotify.com/album/06vV1HQ2BaOUSqK70fYMi2"
-      },
-      "artists": [
-        {
-          "name": "Edwin Montoya",
-          "url": "https://open.spotify.com/artist/3owb5B5H82e72R5GJYSnwb"
-        }
-      ],
-      "duration_ms": 222973,
-      "name": "Amigo",
-      "url": "https://open.spotify.com/track/1hX2Kv3f6X1fUJpMzuihgi"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "T\u00fa Puedes Volar",
         "url": "https://open.spotify.com/album/6Mfa1vsbXf1sIRg4GMtpXw"
       },
@@ -839,6 +823,22 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
+        "name": "Conjunto Condemayta de Acomayo",
+        "url": "https://open.spotify.com/album/5eKzkcckQddTWQ4T14kckx"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Condemayta de Acomayo",
+          "url": "https://open.spotify.com/artist/7fNXiMybRyHV5Wr8itLWKD"
+        }
+      ],
+      "duration_ms": 173066,
+      "name": "Serenata Condemayta",
+      "url": "https://open.spotify.com/track/7rPxPZBc4FD4SwdA6rYjus"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
         "name": "Soy Provinciano",
         "url": "https://open.spotify.com/album/1Ry5eqjZbUnnqgsEsUCQjt"
       },
@@ -855,18 +855,18 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Conjunto Condemayta de Acomayo",
-        "url": "https://open.spotify.com/album/5eKzkcckQddTWQ4T14kckx"
+        "name": "Mis \u00c9xitos Eternos Vol. 2",
+        "url": "https://open.spotify.com/album/06vV1HQ2BaOUSqK70fYMi2"
       },
       "artists": [
         {
-          "name": "Conjunto Condemayta de Acomayo",
-          "url": "https://open.spotify.com/artist/7fNXiMybRyHV5Wr8itLWKD"
+          "name": "Edwin Montoya",
+          "url": "https://open.spotify.com/artist/3owb5B5H82e72R5GJYSnwb"
         }
       ],
-      "duration_ms": 173066,
-      "name": "Serenata Condemayta",
-      "url": "https://open.spotify.com/track/7rPxPZBc4FD4SwdA6rYjus"
+      "duration_ms": 222973,
+      "name": "Amigo",
+      "url": "https://open.spotify.com/track/1hX2Kv3f6X1fUJpMzuihgi"
     },
     {
       "added_at": "2022-02-04 14:45:56",

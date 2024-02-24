@@ -1,5 +1,5 @@
 {
-  "2024-02-23": 212442,
+  "2024-02-24": 212591,
   "date_first_scraped": "2021-12-28",
   "description": "beats + birds = <3\u2028",
   "name": "lofi garden",
@@ -723,7 +723,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 103374,
       "name": "birdies",
       "url": "https://open.spotify.com/track/4kYC7liqGKYiPtBIkcUcHO"
@@ -1463,6 +1463,24 @@
       "duration_ms": 150982,
       "name": "City Park",
       "url": "https://open.spotify.com/track/4lqEtgytnO3H4tDwLV3Tj3"
+    },
+    {
+      "album": {
+        "name": "City Serenade",
+        "url": "https://open.spotify.com/album/5OrOV5CkSPMeishCpPWuAr"
+      },
+      "artists": [
+        {
+          "name": "Flying Demond",
+          "url": "https://open.spotify.com/artist/6RBGmg9yokIH4mEaoPABJd"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "City Serenade",
+      "url": "https://open.spotify.com/track/2DCrYodQKFVT9kKAXA4KZi"
     },
     {
       "album": {
@@ -2781,7 +2799,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 138969,
       "name": "flow",
       "url": "https://open.spotify.com/track/4NpahYQIVFPwbREi4Iq406"
@@ -2947,6 +2965,24 @@
       "duration_ms": 121771,
       "name": "fotka",
       "url": "https://open.spotify.com/track/6Xtcf7QFYmF4ye41fkpOh9"
+    },
+    {
+      "album": {
+        "name": "fountains",
+        "url": "https://open.spotify.com/album/78FRv7QbicT2tx0kMEztYu"
+      },
+      "artists": [
+        {
+          "name": "May-Flowa",
+          "url": "https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110958,
+      "name": "fountains",
+      "url": "https://open.spotify.com/track/46ereS3wNR84tLaCJUnjJF"
     },
     {
       "album": {
@@ -3855,7 +3891,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 110214,
       "name": "i'm coming too (Zion)",
       "url": "https://open.spotify.com/track/1zSBHs3pALBjOlZHQFOD6S"

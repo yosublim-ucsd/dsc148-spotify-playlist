@@ -294,7 +294,7 @@
       ],
       "date_added": "2021-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 199906,
       "name": "Alone Together",
       "url": "https://open.spotify.com/track/7a7FMaC8Kaayk2xYYlzFHS"
@@ -312,7 +312,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-16",
+      "date_removed": null,
       "duration_ms": 448800,
       "name": "Always",
       "url": "https://open.spotify.com/track/56jH9iqA8f2kwaoK8103hu"
@@ -378,7 +378,7 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-27",
+      "date_removed": null,
       "duration_ms": 285093,
       "name": "Angie (i\u2019ve been lost) [feat. Angie McMahon]",
       "url": "https://open.spotify.com/track/24CoUR3GwPXeWJzGizLzhR"
@@ -502,7 +502,7 @@
       ],
       "date_added": "2021-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 204567,
       "name": "Be Someone",
       "url": "https://open.spotify.com/track/3OCFPScaJuLwmHJkqtVWoL"
@@ -808,7 +808,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-27",
+      "date_removed": null,
       "duration_ms": 203947,
       "name": "Broken Glass",
       "url": "https://open.spotify.com/track/78ldtCaBRJVp2i91B715L0"
@@ -902,7 +902,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 236400,
       "name": "Can't Do Without You",
       "url": "https://open.spotify.com/track/5owacNcWuezb4JHoGdoQSj"
@@ -1257,6 +1257,28 @@
     },
     {
       "album": {
+        "name": "Erase Me (feat. Bella Renee)",
+        "url": "https://open.spotify.com/album/1KQtXINgtNG4Nk6fv30SS2"
+      },
+      "artists": [
+        {
+          "name": "shnd\u014d",
+          "url": "https://open.spotify.com/artist/2AGKq9TDZ4m5cuSvFEShjH"
+        },
+        {
+          "name": "Bella Renee",
+          "url": "https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151384,
+      "name": "Erase Me (feat. Bella Renee)",
+      "url": "https://open.spotify.com/track/0ptLBdLmejS79Sza6NQeAb"
+    },
+    {
+      "album": {
         "name": "Everywhere",
         "url": "https://open.spotify.com/album/37og7S56FzrRuRI8Jvzxjq"
       },
@@ -1444,7 +1466,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 152610,
       "name": "Forever In My Mind",
       "url": "https://open.spotify.com/track/6R0nFHrfq2iCJ1yeWn5IGB"
@@ -2000,7 +2022,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-16",
+      "date_removed": null,
       "duration_ms": 248432,
       "name": "Hopeful",
       "url": "https://open.spotify.com/track/7JXVPV3BIeuDs7JImsuN9P"
@@ -2052,7 +2074,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-16",
+      "date_removed": null,
       "duration_ms": 257430,
       "name": "Howl",
       "url": "https://open.spotify.com/track/3360fzHkXtFCGSnTpyBMRA"
@@ -2070,7 +2092,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-17",
+      "date_removed": null,
       "duration_ms": 249012,
       "name": "I Can Make It",
       "url": "https://open.spotify.com/track/5ciL7TMQsSDLIkrGXuRYbY"
@@ -2110,6 +2132,24 @@
       "duration_ms": 325714,
       "name": "I Don't Want To Feel This Way!",
       "url": "https://open.spotify.com/track/777ytpf2uFPQZFgT1iGc7O"
+    },
+    {
+      "album": {
+        "name": "i have zero care",
+        "url": "https://open.spotify.com/album/45L44NQqwug9hrAQ5nUK0v"
+      },
+      "artists": [
+        {
+          "name": "heartaake",
+          "url": "https://open.spotify.com/artist/57vkczkmC48439UWdL7oJa"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172444,
+      "name": "i have zero care",
+      "url": "https://open.spotify.com/track/7BZP33GGS34GmUZQrPlivk"
     },
     {
       "album": {
@@ -2342,7 +2382,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 158550,
       "name": "Is It Love - goddard. Remix",
       "url": "https://open.spotify.com/track/5kNaiGZicJkD7r1cwbzDcD"
@@ -2360,7 +2400,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 165625,
       "name": "it's bad",
       "url": "https://open.spotify.com/track/2gYaR0Io3gCVFfiNlHsltg"
@@ -2640,7 +2680,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "Little Planets - Remix",
       "url": "https://open.spotify.com/track/0kfNu4qJOo7vgRWDCnMiBa"
@@ -2756,7 +2796,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-05",
+      "date_removed": null,
       "duration_ms": 190243,
       "name": "Lose You",
       "url": "https://open.spotify.com/track/00I5NjPGm836J2MQmYxhs9"
@@ -2862,7 +2902,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-16",
+      "date_removed": null,
       "duration_ms": 283066,
       "name": "Loud Places",
       "url": "https://open.spotify.com/track/7lPgKA5mLFNmGPMdb07OlM"
@@ -2982,10 +3022,32 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-24",
+      "date_removed": null,
       "duration_ms": 183536,
       "name": "Maze",
       "url": "https://open.spotify.com/track/1sFIeryYtYTqcRqZiEuIxh"
+    },
+    {
+      "album": {
+        "name": "Miracles",
+        "url": "https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy"
+      },
+      "artists": [
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        },
+        {
+          "name": "Sophia Bel",
+          "url": "https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/2s5VFHjQkBIipPndpB1sJD"
     },
     {
       "album": {
@@ -3022,7 +3084,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 167111,
       "name": "missing",
       "url": "https://open.spotify.com/track/0LElDSnmlsmF6OYPMy98LN"
@@ -3128,6 +3190,24 @@
       "duration_ms": 238064,
       "name": "Naked Love",
       "url": "https://open.spotify.com/track/0932EnmIYnHGiuH8MZgpIZ"
+    },
+    {
+      "album": {
+        "name": "Never",
+        "url": "https://open.spotify.com/album/1O9rQTdcptzUsQ40xO7C9b"
+      },
+      "artists": [
+        {
+          "name": "SWIM",
+          "url": "https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209674,
+      "name": "Never",
+      "url": "https://open.spotify.com/track/2ToCF3zoUJoiOSVq7Mtaci"
     },
     {
       "album": {
@@ -3762,7 +3842,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 398150,
       "name": "Pick Up",
       "url": "https://open.spotify.com/track/5YzBL3vkQnp3JbeDRRSbSQ"
@@ -3956,7 +4036,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 162985,
       "name": "Rescue Me",
       "url": "https://open.spotify.com/track/6FWFxRT3c4FXWvMrDbp2V1"
@@ -4116,7 +4196,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-12",
+      "date_removed": null,
       "duration_ms": 197169,
       "name": "Save Our Ship (SOS)",
       "url": "https://open.spotify.com/track/0SuFM875msKXWm8E3x34DA"
@@ -4178,6 +4258,28 @@
       "duration_ms": 232959,
       "name": "Say Nothing (feat. MAY-A)",
       "url": "https://open.spotify.com/track/424Uwmm1kNW07Ty1nOhSpl"
+    },
+    {
+      "album": {
+        "name": "Palaces",
+        "url": "https://open.spotify.com/album/6SZtno2XqSmfr5MKsNeXmC"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "MAY-A",
+          "url": "https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232959,
+      "name": "Say Nothing (feat. MAY-A)",
+      "url": "https://open.spotify.com/track/4uBgAIrCRf8ed02XbNKdBQ"
     },
     {
       "album": {
@@ -5313,6 +5415,32 @@
     },
     {
       "album": {
+        "name": "Wasted (Yuto. Remix)",
+        "url": "https://open.spotify.com/album/1YqzhK5sQPLl6OylOC4yyv"
+      },
+      "artists": [
+        {
+          "name": "Cadence",
+          "url": "https://open.spotify.com/artist/2GXTCh27OeQa4ee7fTs1ha"
+        },
+        {
+          "name": "Sidney",
+          "url": "https://open.spotify.com/artist/4nlincxLK6HxbApSH1MCR8"
+        },
+        {
+          "name": "Yuto.",
+          "url": "https://open.spotify.com/artist/6UwoKdavvfpEGn6c4s8zAg"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171360,
+      "name": "Wasted - Yuto. Remix",
+      "url": "https://open.spotify.com/track/5h9FYgx3M1Gn23PeDcMRSb"
+    },
+    {
+      "album": {
         "name": "Waterslides",
         "url": "https://open.spotify.com/album/5U1HyVpo9zeSC8K8LhHx4i"
       },
@@ -5412,7 +5540,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-16",
+      "date_removed": null,
       "duration_ms": 446510,
       "name": "What's a Girl to Do",
       "url": "https://open.spotify.com/track/5N720bYInxSsiUDvBOLM3C"
@@ -5434,7 +5562,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-12",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "Where did you go",
       "url": "https://open.spotify.com/track/0CUR9GVPMJmzz9r887N4UV"
@@ -5482,7 +5610,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 205440,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/4mzrTgfQZK1lSWEXW79MtR"
@@ -5500,7 +5628,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-08",
+      "date_removed": null,
       "duration_ms": 215413,
       "name": "win your love",
       "url": "https://open.spotify.com/track/3sw09qpH0FM5PRKcgJ358h"
@@ -5618,7 +5746,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-27",
+      "date_removed": null,
       "duration_ms": 172129,
       "name": "YourLove",
       "url": "https://open.spotify.com/track/2yQweA8nCYuzFj15LiOb41"

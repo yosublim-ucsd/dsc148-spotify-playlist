@@ -1,5 +1,5 @@
 {
-  "2024-02-23": 23904,
+  "2024-02-24": 23905,
   "date_first_scraped": "2023-10-15",
   "description": "Escucha lo mejor del pop electr\u00f3nico en espa\u00f1ol.",
   "name": "ElectroPop",
@@ -861,7 +861,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 246144,
       "name": "En la Torre - AV Remix",
       "url": "https://open.spotify.com/track/5zW85xW2bXJWP5b2xES8Fc"
@@ -1809,6 +1809,28 @@
       "duration_ms": 198149,
       "name": "Qui\u00e9n Me Escucha",
       "url": "https://open.spotify.com/track/19e0zVRwZdpid0bGdYXxGi"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9 Bueno Que Llegaste",
+        "url": "https://open.spotify.com/album/7Gn1FfMecfsL1T1fOAw6MY"
+      },
+      "artists": [
+        {
+          "name": "Cami",
+          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+        },
+        {
+          "name": "Bronko Yotte",
+          "url": "https://open.spotify.com/artist/6l78ydrIl7eG2kPTwGXaz7"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275522,
+      "name": "Qu\u00e9 Bueno Que Llegaste",
+      "url": "https://open.spotify.com/track/4PNqYBcu4KvFHUD8LOPATS"
     },
     {
       "album": {

@@ -1,256 +1,224 @@
 {
   "description": "Song Of The Week at the top. Standouts go to <a href=\"https://open.spotify.com/playlist/0qZqvnSwqnQJy3DnEuPgCy\">Big Hit Energy</a> and <a href=\"https://open.spotify.com/playlist/5sjfG5VAi8rT3Dj76cUWEv\">2022% Solid Pop Music</a>. More: <a href=\"http://popjustice.com\">Popjustice.com</a>.",
-  "num_followers": 10615,
+  "num_followers": 10618,
   "original_name": "New Music Friday: The Popjustice Edit",
   "owner": {
     "name": "Popjustice",
     "url": "https://open.spotify.com/user/popjustice"
   },
-  "snapshot_id": "MjY3Niw0NTc2NmNjYzM5ZTlhMjFmZTI0MmRjOTUzNDRjZTM5MGUxMGIxODMw",
+  "snapshot_id": "MjY3OCwxZjMwMWQ4MDQyYTVlMDY1ODBjOTEzNTE5NTY4ZTk2ZmYxZGFjOGFm",
   "tracks": [
     {
-      "added_at": "2024-02-16 14:03:54",
+      "added_at": "2024-02-23 14:17:20",
       "album": {
-        "name": "SPIRIT OF THUNDER",
-        "url": "https://open.spotify.com/album/6gqD6cqqgOIEJeYo0I3p5e"
+        "name": "Girl With No Face",
+        "url": "https://open.spotify.com/album/10o3OFqQt0gqemtIcCh72x"
       },
       "artists": [
         {
-          "name": "Yung Lean",
-          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
+          "name": "Allie X",
+          "url": "https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32"
+        }
+      ],
+      "duration_ms": 238563,
+      "name": "Weird World",
+      "url": "https://open.spotify.com/track/116ORJSOi1UltDApfKABzj"
+    },
+    {
+      "added_at": "2024-02-23 14:17:20",
+      "album": {
+        "name": "Kiss Me Better",
+        "url": "https://open.spotify.com/album/5tBvkoPa587mib4j4SuUFy"
+      },
+      "artists": [
+        {
+          "name": "Julie Bergan",
+          "url": "https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv"
+        }
+      ],
+      "duration_ms": 160609,
+      "name": "Kiss Me Better",
+      "url": "https://open.spotify.com/track/2ihC2xsLpIMpd4JDEGUovU"
+    },
+    {
+      "added_at": "2024-02-23 14:17:20",
+      "album": {
+        "name": "Don't Ask",
+        "url": "https://open.spotify.com/album/3845UbclK8HF1EKsgT6Lc4"
+      },
+      "artists": [
+        {
+          "name": "Kaeto",
+          "url": "https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK"
+        }
+      ],
+      "duration_ms": 245985,
+      "name": "Don't Ask",
+      "url": "https://open.spotify.com/track/79bBVxV5lVioQrTtc9Nvgo"
+    },
+    {
+      "added_at": "2024-02-23 14:17:20",
+      "album": {
+        "name": "all or nothing",
+        "url": "https://open.spotify.com/album/5CBc0J5OXcjIlE1TF1RwR9"
+      },
+      "artists": [
+        {
+          "name": "Rebecca & Fiona",
+          "url": "https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75"
+        }
+      ],
+      "duration_ms": 223197,
+      "name": "all or nothing",
+      "url": "https://open.spotify.com/track/0BCdlov5Bel3MfPgCXQFih"
+    },
+    {
+      "added_at": "2024-02-23 14:17:20",
+      "album": {
+        "name": "Traumatic Livelihood",
+        "url": "https://open.spotify.com/album/2bJSnPuFrikBDE4F6SxNC4"
+      },
+      "artists": [
+        {
+          "name": "Jazmin Bean",
+          "url": "https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL"
+        }
+      ],
+      "duration_ms": 206039,
+      "name": "Shit Show",
+      "url": "https://open.spotify.com/track/090hszohQB1ibgEYfY2KVJ"
+    },
+    {
+      "added_at": "2024-02-23 14:17:20",
+      "album": {
+        "name": "It's A No From Me",
+        "url": "https://open.spotify.com/album/0H0ZGtrZT81cG5x0lMf9sw"
+      },
+      "artists": [
+        {
+          "name": "DETO BLACK",
+          "url": "https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT"
         },
         {
-          "name": "DVRST",
-          "url": "https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5"
-        },
-        {
-          "name": "Riff Raff",
-          "url": "https://open.spotify.com/artist/31IZdHrCZ5pRhLz4zBxN3o"
-        },
-        {
-          "name": "Bladee",
-          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
+          "name": "chi",
+          "url": "https://open.spotify.com/artist/0ObIepMcBwVZRtJUniGKiW"
         }
       ],
-      "duration_ms": 195600,
-      "name": "SPIRIT OF THUNDER",
-      "url": "https://open.spotify.com/track/0rdTOhdlIGHn7QaLLv9G44"
+      "duration_ms": 127868,
+      "name": "It's A No From Me",
+      "url": "https://open.spotify.com/track/6xRevLNVt6fBDEueLFQAM4"
     },
     {
-      "added_at": "2024-02-16 14:03:54",
+      "added_at": "2024-02-23 14:17:20",
       "album": {
-        "name": "Desire, I Want To Turn Into You: Everasking Edition",
-        "url": "https://open.spotify.com/album/2LytSeOYiM6yUcEArt9hxn"
+        "name": "First To Go",
+        "url": "https://open.spotify.com/album/3PLVbHQDtLfU70Nji5erZl"
       },
       "artists": [
         {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
         }
       ],
-      "duration_ms": 233416,
-      "name": "Spring Is Coming With A Strawberry In The Mouth",
-      "url": "https://open.spotify.com/track/0BpAmsdYjaf08yE9y2YgoF"
+      "duration_ms": 173066,
+      "name": "First To Go",
+      "url": "https://open.spotify.com/track/3RGTkawjlaqoIsgWSPM47w"
     },
     {
-      "added_at": "2024-02-16 14:03:54",
+      "added_at": "2024-02-23 14:17:20",
       "album": {
-        "name": "Training Season",
-        "url": "https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784"
+        "name": "Saturn",
+        "url": "https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k"
       },
       "artists": [
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 209487,
-      "name": "Training Season",
-      "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"
+      "duration_ms": 186191,
+      "name": "Saturn",
+      "url": "https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ"
     },
     {
-      "added_at": "2024-02-16 14:03:54",
+      "added_at": "2024-02-23 14:17:20",
       "album": {
-        "name": "Look To A Star",
-        "url": "https://open.spotify.com/album/3adnlfMcaXUJHUTzusBjB0"
+        "name": "Love On",
+        "url": "https://open.spotify.com/album/7I7rbWQoLZ7PrTMsRfocpL"
       },
       "artists": [
         {
-          "name": "Metteson",
-          "url": "https://open.spotify.com/artist/6I6dO1Ytvcv32R1uzP5oZD"
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
         }
       ],
-      "duration_ms": 210426,
-      "name": "Look To A Star",
-      "url": "https://open.spotify.com/track/1jDBl4VMEjrOk5rt7TvJpv"
+      "duration_ms": 181650,
+      "name": "Love On",
+      "url": "https://open.spotify.com/track/2fB5YRuD88drKpCXQOAk03"
     },
     {
-      "added_at": "2024-02-16 14:03:54",
+      "added_at": "2024-02-23 14:17:20",
       "album": {
-        "name": "TEXAS HOLD 'EM",
-        "url": "https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx"
+        "name": "Misstag",
+        "url": "https://open.spotify.com/album/1OTudEeQA3fQsuwslytH10"
       },
       "artists": [
         {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+          "name": "Miss Li",
+          "url": "https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7"
         }
       ],
-      "duration_ms": 235636,
-      "name": "TEXAS HOLD 'EM",
-      "url": "https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9"
+      "duration_ms": 191140,
+      "name": "Misstag",
+      "url": "https://open.spotify.com/track/7Gfzl9QQrLcwtKV0G7x5Hf"
     },
     {
-      "added_at": "2024-02-16 14:03:54",
+      "added_at": "2024-02-23 14:17:20",
       "album": {
-        "name": "Music to Get Rich To",
-        "url": "https://open.spotify.com/album/62dxxRfB9oOo9xD1CtfBfa"
+        "name": "6am to Paris",
+        "url": "https://open.spotify.com/album/1DtHbdjnqLild4y0PnlbF1"
       },
       "artists": [
         {
-          "name": "Halon",
-          "url": "https://open.spotify.com/artist/6FsTyMvWygqPWyx4d1MvoT"
+          "name": "SIIGHTS",
+          "url": "https://open.spotify.com/artist/59wzcVw9vvQvKIEHddgF7n"
         }
       ],
-      "duration_ms": 189066,
-      "name": "Carnaby Street",
-      "url": "https://open.spotify.com/track/4kmX13TBvLA3tvYn9XStos"
+      "duration_ms": 170106,
+      "name": "6am to Paris",
+      "url": "https://open.spotify.com/track/1odZs329Z78zeDIUbJ9c28"
     },
     {
-      "added_at": "2024-02-16 14:03:54",
+      "added_at": "2024-02-23 14:17:20",
       "album": {
-        "name": "Too Much Too Little",
-        "url": "https://open.spotify.com/album/3v8ICDGTwpe8Sneh0Pkgdl"
+        "name": "Britpop",
+        "url": "https://open.spotify.com/album/08ZUb3IpVYrHbkWFhMNXO9"
       },
       "artists": [
         {
-          "name": "Georgia",
-          "url": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+          "name": "A. G. Cook",
+          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
         }
       ],
-      "duration_ms": 177675,
-      "name": "Too Much Too Little",
-      "url": "https://open.spotify.com/track/6uB9IlAd8cad9y7yDCeALb"
+      "duration_ms": 202055,
+      "name": "Britpop",
+      "url": "https://open.spotify.com/track/4szX2NPDe0vhoCGwO4g9cw"
     },
     {
-      "added_at": "2024-02-16 14:03:54",
+      "added_at": "2024-02-23 14:17:20",
       "album": {
-        "name": "How It Feels (feat. Lauren L'aimant)",
-        "url": "https://open.spotify.com/album/3j1TIHTviPzFeR2rx57l1Q"
+        "name": "With YOU-th",
+        "url": "https://open.spotify.com/album/575TQDOQqc0MAheeEeKWUR"
       },
       "artists": [
         {
-          "name": "Franky Wah",
-          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
-        },
-        {
-          "name": "Nihil Young",
-          "url": "https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC"
-        },
-        {
-          "name": "Lauren L'aimant",
-          "url": "https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ"
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
         }
       ],
-      "duration_ms": 206580,
-      "name": "How It Feels (feat. Lauren L'aimant)",
-      "url": "https://open.spotify.com/track/76UBVe7ZXMJj8rXwIfFUPZ"
-    },
-    {
-      "added_at": "2024-02-16 14:03:54",
-      "album": {
-        "name": "kinda smacks",
-        "url": "https://open.spotify.com/album/09Aw6tRqufmeBbVjR5kHrm"
-      },
-      "artists": [
-        {
-          "name": "Royal & the Serpent",
-          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
-        },
-        {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
-        }
-      ],
-      "duration_ms": 136601,
-      "name": "kinda smacks",
-      "url": "https://open.spotify.com/track/4cwi0Yd3pq1GfvHj7FLMdn"
-    },
-    {
-      "added_at": "2024-02-16 14:03:54",
-      "album": {
-        "name": "PARADISE",
-        "url": "https://open.spotify.com/album/6lumo11dn8gPbLLdmpe1PZ"
-      },
-      "artists": [
-        {
-          "name": "HI-LO",
-          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
-        },
-        {
-          "name": "DANNY AVILA",
-          "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci"
-        },
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
-        }
-      ],
-      "duration_ms": 163147,
-      "name": "PARADISE",
-      "url": "https://open.spotify.com/track/12p3LJyuWdEh6bWFoc60Bk"
-    },
-    {
-      "added_at": "2024-02-16 14:03:54",
-      "album": {
-        "name": "Jungle Type Love",
-        "url": "https://open.spotify.com/album/5bX5NlS3qoaLcpND4bnqis"
-      },
-      "artists": [
-        {
-          "name": "SKYLAR",
-          "url": "https://open.spotify.com/artist/3JFpiBTgX5C0aIzePDlgXA"
-        }
-      ],
-      "duration_ms": 149021,
-      "name": "Jungle Type Love",
-      "url": "https://open.spotify.com/track/658TvwYU4VDypQz2cjAhag"
-    },
-    {
-      "added_at": "2024-02-16 14:03:54",
-      "album": {
-        "name": "Feels Right (I Love It)",
-        "url": "https://open.spotify.com/album/1hpgI1WL2mSpV5CX6ppOIH"
-      },
-      "artists": [
-        {
-          "name": "Flo Rida",
-          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
-        },
-        {
-          "name": "Brian Kelley",
-          "url": "https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ"
-        }
-      ],
-      "duration_ms": 147189,
-      "name": "Feels Right (I Love It)",
-      "url": "https://open.spotify.com/track/64RZNkFqMF44Ql8dOfesgr"
-    },
-    {
-      "added_at": "2024-02-16 14:03:54",
-      "album": {
-        "name": "Nobody Kills Me Like You Do",
-        "url": "https://open.spotify.com/album/4htOXm5oMVMhFvpHzLvAZQ"
-      },
-      "artists": [
-        {
-          "name": "DAYYANI",
-          "url": "https://open.spotify.com/artist/2mSRaqgZqtWItVBIoyjE0g"
-        }
-      ],
-      "duration_ms": 179062,
-      "name": "Nobody Kills Me Like You Do",
-      "url": "https://open.spotify.com/track/6i7PSIjrE57jbD1ncbvpoc"
+      "duration_ms": 183559,
+      "name": "ONE SPARK",
+      "url": "https://open.spotify.com/track/7cIn67LEvk16v6komC8znS"
     }
   ],
   "unique_name": "New Music Friday: The Popjustice Edit",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 
 > This is League of Legends\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,846 likes - 51 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,934 likes - 51 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 | 33 | [Shine On](https://open.spotify.com/track/4NL6HJer1ViiI2BEWO1d3c) | [Legends of Runeterra](https://open.spotify.com/artist/3rZDp6jeBal6cdTyi50EYb), [Brain Tan](https://open.spotify.com/artist/3K9UVvuVwQZbO35b8uBsdb), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Abigail Osborn](https://open.spotify.com/artist/5gv5fvzy1TWJmDj7jyMiLO) | [Shine On](https://open.spotify.com/album/0TATIDURuDWbpmq54rOzFn) | 3:52 |
 | 34 | [Bring Home The Glory](https://open.spotify.com/track/4VgGx1cQlHB7Ls1Ukt0H7H) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Sara Skinner](https://open.spotify.com/artist/1HQ26IHQ1Nu0Tq7EE7DV6y) | [Bring Home The Glory](https://open.spotify.com/album/01L3l6bMt4wSX8fK3F9yKn) | 2:59 |
 | 35 | [Starts Right Here](https://open.spotify.com/track/0MovQqn6F6M1kyAiBIn5CA) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Foreign Air](https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [Starts Right Here](https://open.spotify.com/album/3zw7Q4NV7QJxFjSY3QnBgX) | 3:05 |
-| 36 | [Aphelios, the Weapon of the Faithful](https://open.spotify.com/track/6xsUmPtqZVrTlnSzq4IaEP) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Aphelios, the Weapon of the Faithful](https://open.spotify.com/album/0ytK0unUhIq7RnkKlu6Nab) | 4:01 |
-| 37 | [Coming Alive](https://open.spotify.com/track/6BeqTTy15ExY8rFFY6aQRk) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Vo Williams](https://open.spotify.com/artist/18KIg6ST1nUjVUvAlEB6ak), [Boslen](https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL) | [Soul Fighter \(Original Soundtrack\)](https://open.spotify.com/album/6WtdFxF33VJGO1gy3Gl1Ga) | 3:27 |
+| 36 | [Coming Alive](https://open.spotify.com/track/6BeqTTy15ExY8rFFY6aQRk) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Vo Williams](https://open.spotify.com/artist/18KIg6ST1nUjVUvAlEB6ak), [Boslen](https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL) | [Soul Fighter \(Original Soundtrack\)](https://open.spotify.com/album/6WtdFxF33VJGO1gy3Gl1Ga) | 3:27 |
+| 37 | [Aphelios, the Weapon of the Faithful](https://open.spotify.com/track/6xsUmPtqZVrTlnSzq4IaEP) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Aphelios, the Weapon of the Faithful](https://open.spotify.com/album/0ytK0unUhIq7RnkKlu6Nab) | 4:01 |
 | 38 | [You & Me Makes Us](https://open.spotify.com/track/3aKtLbH0NTqqJQDKouqM3Q) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [DEEGAN](https://open.spotify.com/artist/70KADh6rh0ljLJZtvH8LYi) | [You & Me Makes Us](https://open.spotify.com/album/2zrvozRqPgBnoP6TQEoAcg) | 2:56 |
 | 39 | [Burning Bright](https://open.spotify.com/track/6d2cQyhS2E4ai0VuNCorFC) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Burning Bright](https://open.spotify.com/album/25DYEijVSAPC4w9R1BxtsS) | 3:07 |
 | 40 | [Run It](https://open.spotify.com/track/3uKNoYPEy588darPCXlZxf) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Thutmose](https://open.spotify.com/artist/1igl9M102nuD96lo3ZoW5d), [Cal Scruby](https://open.spotify.com/artist/2wcrc3fjebDRLVdtRUa3pu) | [Run It](https://open.spotify.com/album/0h4zde0cxK8qD7Zd3f77Nu) | 3:37 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 | 50 | [2023 World Championship Theme](https://open.spotify.com/track/7s9QiG7yUXpr9qNPUlZH3r) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [2023 World Championship Theme](https://open.spotify.com/album/41OWf02MFdHDPMP8439pWP) | 2:59 |
 | 51 | [Smolder, the Fiery Fledgling](https://open.spotify.com/track/1Fbm1bxQ0sXamkpjiXMClp) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Smolder, the Fiery Fledgling](https://open.spotify.com/album/2qebqrLs9esVTMWZRsztPj) | 3:40 |
 
-Snapshot ID: `Mjg0NzcwNzUsMDAwMDAwMDA5OWU4ZjhjMjU0NTgyODlhYTBmYTBhMGM5ZDA3NmQ4Nw==`
+Snapshot ID: `Mjg0NzgxODAsMDAwMDAwMDAzZDk0OGMyZDYzYmFjOTg0YTFmYWY1NjQ3YzVlOTY2MQ==`

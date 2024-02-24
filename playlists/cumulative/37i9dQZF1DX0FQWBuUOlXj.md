@@ -4,7 +4,7 @@
 
 > The official playlist for After Life, curated by Ricky Gervais\. Watch on Netflix.
 
-56 songs - 4 hr 23 min
+57 songs - 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Let Down](https://open.spotify.com/track/2fuYa3Lx06QQJAm0MjztKr) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 4:59 | 2022-01-13 |  |
 | [Like a Valley With No Echo](https://open.spotify.com/track/5aBDtRsFWcEsxEawLh8ksM) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Oblivion Hymns \(Deluxe Edition\)](https://open.spotify.com/album/0ApCBV30bmY7lr9nBLPspz) | 8:10 | 2022-01-13 |  |
 | [Lilywhite](https://open.spotify.com/track/2xua22XyOXFs0y2VziBvQQ) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Mona Bone Jakon \(Remastered 2020\)](https://open.spotify.com/album/2XXF6pODroMYQ3qPmXeMB1) | 3:42 | 2022-01-13 |  |
-| [Little Piece of Nothing](https://open.spotify.com/track/5Kdg1xQa6pQACBTxRa2faR) | [Dave Thomas Junior](https://open.spotify.com/artist/0mUIey7n1U90IScto35rX7) | [Echo](https://open.spotify.com/album/2EPjdx6A66QkuM2UQYYIcK) | 4:55 | 2022-01-13 |  |
+| [Little Piece Of Nothing](https://open.spotify.com/track/2yFoCaBIaZyKJ8IpiBsEpg) | [Dave Thomas Junior](https://open.spotify.com/artist/0mUIey7n1U90IScto35rX7) | [Echo](https://open.spotify.com/album/7FIE3K3e4BL0iMUxwwarXC) | 4:55 | 2022-01-13 |  |
+| [Little Piece of Nothing](https://open.spotify.com/track/5Kdg1xQa6pQACBTxRa2faR) | [Dave Thomas Junior](https://open.spotify.com/artist/0mUIey7n1U90IScto35rX7) | [Echo](https://open.spotify.com/album/2EPjdx6A66QkuM2UQYYIcK) | 4:55 | 2022-01-13 | 2024-02-24 |
 | [Little Piece of Nothing](https://open.spotify.com/track/71hPJJ106daQSnIY34YCg5) | [Dave Thomas Junior](https://open.spotify.com/artist/0mUIey7n1U90IScto35rX7) | [Echo](https://open.spotify.com/album/6KF7nebjXfMqnli4lIg0mH) | 4:55 | 2022-01-13 | 2022-07-29 |
 | [Losing You to You](https://open.spotify.com/track/7vx8gqZX9CCxl7U6634P79) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Raising Your Voice..\. Trying to Stop an Echo \(Deluxe Edition\)](https://open.spotify.com/album/2AbCfihy80zuR1mPwN5yLl) | 6:24 | 2022-01-13 |  |
 | [Love Is the Answer](https://open.spotify.com/track/2jto2mk883akXynLqkdung) | [England Dan & John Ford Coley](https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO) | [Dr\. Heckle & Mr\. Jive](https://open.spotify.com/album/7MJWKg2ENg95w9cD6BXw7h) | 4:44 | 2022-01-13 |  |

@@ -4,7 +4,7 @@
 
 > Muito romance, groove suave e R&B feitos no Brasil.
 
-78 songs - 4 hr 22 min
+79 songs - 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [Eu Tava Em Casa](https://open.spotify.com/track/6XoSJgy9m0TeYNZuCen1xW) | [Bia Ferreira](https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa) | [Faminta](https://open.spotify.com/album/6ekaLRjzflYYAS7qFBgNCj) | 4:09 | 2023-09-15 |  |
 | [Falando Dela 2](https://open.spotify.com/track/1ebphlBWJHENEs1StX3FYP) | [Zero](https://open.spotify.com/artist/1t58HpJzdyzWvRl2mo0ZIR), [Mc Maha](https://open.spotify.com/artist/2tz0dkPlnWB4NcHNIqWPgh), [Jean Tassy](https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU) | [Falando Dela 2](https://open.spotify.com/album/68pf9T0gTuRSDWO9rdCjaF) | 2:02 | 2023-09-15 | 2023-12-16 |
 | [Filho do Soul](https://open.spotify.com/track/0GyYORKftax285LSmzF2oA) | [Augus7o](https://open.spotify.com/artist/78iJtzui4jnlK1KsDnlykz), [Lovro](https://open.spotify.com/artist/7roNMW0hJ2WwFhrXyKZRwF) | [Filho do Soul](https://open.spotify.com/album/11CfMBbIFivVBOerau2ZFI) | 4:00 | 2024-01-26 |  |
-| [Final \- Ao Vivo](https://open.spotify.com/track/55WX9xWKtq43Ee22IE7KPA) | [Joyce Alane](https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG), [Macaco Gordo](https://open.spotify.com/artist/2MeRUZA62b85P4U5DcdzZ9) | [Joyce Alane Ao Vivo na Macaco Gordo](https://open.spotify.com/album/31u9EIWTs32kTxnw4eg6NG) | 3:12 | 2023-12-22 |  |
+| [Final \- Ao Vivo](https://open.spotify.com/track/55WX9xWKtq43Ee22IE7KPA) | [Joyce Alane](https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG), [Macaco Gordo](https://open.spotify.com/artist/2MeRUZA62b85P4U5DcdzZ9) | [Joyce Alane Ao Vivo na Macaco Gordo](https://open.spotify.com/album/31u9EIWTs32kTxnw4eg6NG) | 3:12 | 2023-12-22 | 2024-02-24 |
+| [Idas e Vindas](https://open.spotify.com/track/15xUgFBITJ10UTCQQ05xXp) | [Juyè](https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Idas e Vindas](https://open.spotify.com/album/55kj3mqFgYxwqNC2I69tJ0) | 3:36 | 2024-02-23 |  |
 | [Leve](https://open.spotify.com/track/5FPEUByLcA5J6bXqAW25ja) | [Wesley Camilo](https://open.spotify.com/artist/7zMhTkT27OwM0G9qkZPbZT), [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho) | [Leve](https://open.spotify.com/album/1PkBieopr9ZNx0LCVCFH4h) | 2:53 | 2023-09-15 | 2024-01-27 |
 | [Licor](https://open.spotify.com/track/62LSep7P2d7uPyDdMMuemr) | [Leo Gandelman](https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW), [Machine Series](https://open.spotify.com/artist/1xu1L93nrtesFrEuWRTqJG), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [Hip Hop Machine \#13](https://open.spotify.com/album/6NHVEU2tX4VYNs6t9aFBkP) | 5:30 | 2023-09-15 |  |
 | [Me Chama de Novo](https://open.spotify.com/track/7plqJ0mkyadrFLGHPmmJab) | [Bruna Mendez](https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc), [Tiê](https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7) | [Corpo Possível \(Deluxe\)](https://open.spotify.com/album/5DPQYWvyndISm87e1Clu6e) | 2:57 | 2023-09-15 | 2023-12-23 |

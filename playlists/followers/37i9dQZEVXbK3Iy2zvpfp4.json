@@ -1,5 +1,5 @@
 {
-  "2024-02-23": 4610,
+  "2024-02-24": 4609,
   "date_first_scraped": "2022-06-10",
   "description": "Your daily update of the most viral tracks right now - Slovakia.",
   "name": "Viral 50 - Slovakia",
@@ -3269,7 +3269,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-21",
+      "date_removed": null,
       "duration_ms": 125567,
       "name": "Bass",
       "url": "https://open.spotify.com/track/2UUqOLcktNsBYCwwgo47K5"
@@ -3433,7 +3433,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 132160,
       "name": "Beanie",
       "url": "https://open.spotify.com/track/2NlxHzUzAHhNcZdaOEuLzq"
@@ -6037,7 +6037,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 218031,
       "name": "Cigarette",
       "url": "https://open.spotify.com/track/2ddFi6kHdtkFtO5Z8gNILu"
@@ -10083,7 +10083,7 @@
       ],
       "date_added": "2024-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 328651,
       "name": "Finish The Mission",
       "url": "https://open.spotify.com/track/41MN4RPzOIxqyU4dnQkedX"
@@ -12321,7 +12321,7 @@
       ],
       "date_added": "2023-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 255413,
       "name": "Happy Nation",
       "url": "https://open.spotify.com/track/7yCF65vpc7sUwPjftI0iFb"
@@ -12809,7 +12809,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-22",
+      "date_removed": null,
       "duration_ms": 133717,
       "name": "Hell\u2019s Greatest Dad",
       "url": "https://open.spotify.com/track/2h4MTQZP8quVwuwrtIPErD"
@@ -14445,7 +14445,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 121537,
       "name": "I'm so lucky! - Hardstyle",
       "url": "https://open.spotify.com/track/0b6qwNkDNGL79duIAspPtk"
@@ -17847,7 +17847,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-21",
+      "date_removed": null,
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
@@ -23167,6 +23167,24 @@
       "duration_ms": 115925,
       "name": "Oh Mickey!",
       "url": "https://open.spotify.com/track/4EnlPNg3OWyqRBiEzAl8Kk"
+    },
+    {
+      "album": {
+        "name": "Oh No :: He Said What?",
+        "url": "https://open.spotify.com/album/4kT2KzTC4GE1AEqAQx5BnO"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228138,
+      "name": "Oh No :: He Said What?",
+      "url": "https://open.spotify.com/track/7Gk8icymiW50sDfFbWLoVG"
     },
     {
       "album": {
@@ -28577,6 +28595,24 @@
       "duration_ms": 165428,
       "name": "She's A 10 But...",
       "url": "https://open.spotify.com/track/2DfRgLfkNb8nU1wMcMK0fD"
+    },
+    {
+      "album": {
+        "name": "Shik Shak Shok (Remastered)",
+        "url": "https://open.spotify.com/album/0HExOi4eGlOnV36kY0aqJq"
+      },
+      "artists": [
+        {
+          "name": "Hassan Abou Seoud",
+          "url": "https://open.spotify.com/artist/7g4J1MFlUtDs117ACUxoUu"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333506,
+      "name": "Shik Shak Shok - Remastered",
+      "url": "https://open.spotify.com/track/7iT3T5K9J8MfxjigwzpRkK"
     },
     {
       "album": {

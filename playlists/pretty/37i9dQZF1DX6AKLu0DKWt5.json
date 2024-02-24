@@ -1,12 +1,12 @@
 {
   "description": "Music from the winners and nominees from the 81st Golden Globe Awards. ",
-  "num_followers": 6081,
+  "num_followers": 6094,
   "original_name": "Golden Globes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZmNhZjE1ZWViNThiYjg3N2UzNjc1NDMyMzQ5MGI1Y2NmZGU0ZmQy",
+  "snapshot_id": "MCxiM2Q3ZjlkM2FmYWJlYzJjZWIzOGNiNWJjZmY0MzIyNjg4YWQwZTA1",
   "tracks": [
     {
       "added_at": "2023-12-19 16:37:32",
@@ -551,18 +551,18 @@
     {
       "added_at": "2023-12-19 16:37:32",
       "album": {
-        "name": "The Holdovers (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2Aer0bh7IVHrrwxIpcju4D"
+        "name": "American Fiction (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2pRlRr8tWybfbSKcrMPMF0"
       },
       "artists": [
         {
-          "name": "Mark Orton",
-          "url": "https://open.spotify.com/artist/1Z8O4oak7dssF0X1ybKE2A"
+          "name": "Laura Karpman",
+          "url": "https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD"
         }
       ],
-      "duration_ms": 279457,
-      "name": "See Ya / Into the Unknown",
-      "url": "https://open.spotify.com/track/7hHnI0ZUuBHxjZa0uM6hNP"
+      "duration_ms": 196947,
+      "name": "My Pafology - From \"American Fiction\" Soundtrack",
+      "url": "https://open.spotify.com/track/0m9PfZjzAtpjE6kvNMMZQe"
     }
   ],
   "unique_name": "Golden Globes",

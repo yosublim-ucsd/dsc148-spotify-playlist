@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: Kissimjau
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,368 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,408 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 | 37 | [the man](https://open.spotify.com/track/6OTVvKhi3Wb16TEiQEokrs) | [de clair.](https://open.spotify.com/artist/0XcoKb34hnRUc4u9agLp6o) | [the man](https://open.spotify.com/album/5c4WcxUUeJNjIkGfylXRBI) | 2:39 |
 | 38 | [Please Be Careful](https://open.spotify.com/track/1QCRcAOltXgDMpMIzg6o78) | [Edgar Homeros](https://open.spotify.com/artist/4j8tcurjLu5pZAi0uogaYg) | [Please Be Careful](https://open.spotify.com/album/7ryr4h1oUwQiJfvKSFT4Cl) | 2:23 |
 | 39 | [Reason](https://open.spotify.com/track/6D8hNLZL3lz5Cp392mjrlG) | [Apotech](https://open.spotify.com/artist/2nwGAlGI70BCkpJDfdfHec), [Lucas Nord](https://open.spotify.com/artist/4ZUg3IUvAPAl8coXQAxaXd) | [Reason](https://open.spotify.com/album/0UBMDH6SZpQCvGq42yjRtp) | 2:45 |
-| 40 | [Look The Other Way](https://open.spotify.com/track/5x9tTch2LsMNPReORReT7I) | [LUMI](https://open.spotify.com/artist/2GhZq7k05EWdvb4cS2RQG5) | [Look The Other Way](https://open.spotify.com/album/3gqQjbbgkdbKUeBYtXeHdI) | 3:33 |
+| 40 | [Look The Other Way](https://open.spotify.com/track/5oEJg0qBp6gdAxQdplBZqL) | [LUMI](https://open.spotify.com/artist/2GhZq7k05EWdvb4cS2RQG5) | [Look The Other Way](https://open.spotify.com/album/0zPcVDVk6uPmGPOFWHtLAW) | 3:33 |
 | 41 | [Devotion](https://open.spotify.com/track/54vzUEcuM3CmIVnrBiYABn) | [Caius](https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi) | [Devotion](https://open.spotify.com/album/2qfoZjWQfXkFml3ZgwkID0) | 3:22 |
 | 42 | [Get You Down](https://open.spotify.com/track/67s7dPO6D0ywOSrbUH5ehD) | [GREYSKIES](https://open.spotify.com/artist/5zp72ZM5DdxHbMPIt7EEtX) | [Get You Down](https://open.spotify.com/album/7yssE08RBSbr9mEXoP9kpf) | 2:52 |
 | 43 | [Losing My Mind](https://open.spotify.com/track/68DeBTdmA7CnwS9Tz4tJBw) | [Louien](https://open.spotify.com/artist/3ZwQaquUgrZdqoWDtVUUMY) | [Losing My Mind](https://open.spotify.com/album/5MEQv9MCRhOYmDaQ9SvmZe) | 3:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 | 99 | [Exhale](https://open.spotify.com/track/4nhwDQKDuKfMyfKAihTN5W) | [haugust](https://open.spotify.com/artist/07KhVOf8HbWRfk3rkiyUqT) | [Anger Management](https://open.spotify.com/album/399ke7Bcdg609a5s6ETPu6) | 2:57 |
 | 100 | [VDKDV?](https://open.spotify.com/track/5DKc7J0BxFKwYonJgWyU0v) | [MELVIN](https://open.spotify.com/artist/2eepQKh5byG0hRhmy6U0I4) | [VDKDV?](https://open.spotify.com/album/6vHMn2bJ7DggbtHzKZGiPC) | 2:19 |
 
-Snapshot ID: `MCxjZjQyMzNjMTE4ZWVhYTA4NDA0ZTgwMWY4ZjQ0MTgwODQxYzU4MmJi`
+Snapshot ID: `MCxhOWQ0OGNjNzc5MDk2NDYxN2ZjYjEwNTUyZTM2Mjc0ZDk3YTA2M2Rj`

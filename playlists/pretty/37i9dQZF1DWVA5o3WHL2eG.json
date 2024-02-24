@@ -1,12 +1,12 @@
 {
   "description": "Women at full volume. Cover: ana\u00efs",
-  "num_followers": 33011,
+  "num_followers": 33012,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYjdlZWNjMTcyZWZjZDNlMDk0MjgxNjdiYjVkODcwN2RkNWQyYzI5",
+  "snapshot_id": "MCwyZmM1OWM0OTA5NzgxMmZmZjI1MmJmYmMxY2VmOTFlZmU0YjMzZWRl",
   "tracks": [
     {
       "added_at": "2024-02-14 00:00:00",
@@ -279,6 +279,22 @@
     {
       "added_at": "2024-02-14 00:00:00",
       "album": {
+        "name": "Worst Poisons Taste the Sweetest",
+        "url": "https://open.spotify.com/album/3xx8Sc6Z1ltqS3ws6Of4QW"
+      },
+      "artists": [
+        {
+          "name": "Isabelle Beaucamp",
+          "url": "https://open.spotify.com/artist/4RrxhOmXj9bjyb5kXwt3Pz"
+        }
+      ],
+      "duration_ms": 377806,
+      "name": "Worst Poisons Taste the Sweetest",
+      "url": "https://open.spotify.com/track/2VB9UYFqo0tIEyMPEMJljh"
+    },
+    {
+      "added_at": "2024-02-14 00:00:00",
+      "album": {
         "name": "Kaiserschnitt",
         "url": "https://open.spotify.com/album/2qJEwShgYaABgzEj9djsXH"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 145840,
       "name": "Mit Dir",
       "url": "https://open.spotify.com/track/0mcsqmNDZrdOPUvVnwpo9h"
-    },
-    {
-      "added_at": "2024-02-14 00:00:00",
-      "album": {
-        "name": "Worst Poisons Taste the Sweetest",
-        "url": "https://open.spotify.com/album/3xx8Sc6Z1ltqS3ws6Of4QW"
-      },
-      "artists": [
-        {
-          "name": "Isabelle Beaucamp",
-          "url": "https://open.spotify.com/artist/4RrxhOmXj9bjyb5kXwt3Pz"
-        }
-      ],
-      "duration_ms": 377806,
-      "name": "Worst Poisons Taste the Sweetest",
-      "url": "https://open.spotify.com/track/2VB9UYFqo0tIEyMPEMJljh"
     },
     {
       "added_at": "2024-02-14 00:00:00",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-02-14 00:00:00",
       "album": {
-        "name": "Lovely",
-        "url": "https://open.spotify.com/album/2Ol7eVHaVtcwqr3sBTSmC3"
-      },
-      "artists": [
-        {
-          "name": "Philine Sonny",
-          "url": "https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t"
-        }
-      ],
-      "duration_ms": 187853,
-      "name": "Lovely",
-      "url": "https://open.spotify.com/track/07lVT57m4NGsFvZWMv2vxQ"
-    },
-    {
-      "added_at": "2024-02-14 00:00:00",
-      "album": {
         "name": "stop",
         "url": "https://open.spotify.com/album/2Z9pZ4SzER5upYlOafaVA2"
       },
@@ -451,18 +435,18 @@
     {
       "added_at": "2024-02-14 00:00:00",
       "album": {
-        "name": "boys who go to therapy",
-        "url": "https://open.spotify.com/album/75HEenlcKpG2InZ4s7DZxq"
+        "name": "Lovely",
+        "url": "https://open.spotify.com/album/2Ol7eVHaVtcwqr3sBTSmC3"
       },
       "artists": [
         {
-          "name": "PENNY X",
-          "url": "https://open.spotify.com/artist/1mZDFbH4t9JsKKvbBXf4fi"
+          "name": "Philine Sonny",
+          "url": "https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t"
         }
       ],
-      "duration_ms": 148000,
-      "name": "boys who go to therapy",
-      "url": "https://open.spotify.com/track/75O7pRqTSETi5Ryb2XJ1IG"
+      "duration_ms": 187853,
+      "name": "Lovely",
+      "url": "https://open.spotify.com/track/07lVT57m4NGsFvZWMv2vxQ"
     },
     {
       "added_at": "2024-02-14 00:00:00",
@@ -479,6 +463,22 @@
       "duration_ms": 178806,
       "name": "Green Blue Violet (Love Is Pain)",
       "url": "https://open.spotify.com/track/0bpykpzP4TNPhOkQaGwXo0"
+    },
+    {
+      "added_at": "2024-02-14 00:00:00",
+      "album": {
+        "name": "boys who go to therapy",
+        "url": "https://open.spotify.com/album/75HEenlcKpG2InZ4s7DZxq"
+      },
+      "artists": [
+        {
+          "name": "PENNY X",
+          "url": "https://open.spotify.com/artist/1mZDFbH4t9JsKKvbBXf4fi"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "boys who go to therapy",
+      "url": "https://open.spotify.com/track/75O7pRqTSETi5Ryb2XJ1IG"
     },
     {
       "added_at": "2024-02-14 00:00:00",
@@ -531,18 +531,18 @@
     {
       "added_at": "2024-02-14 00:00:00",
       "album": {
-        "name": "MONEY BAGS",
-        "url": "https://open.spotify.com/album/2okuQSEo20KIwqHafU48vi"
+        "name": "AMY WINEHOUZE",
+        "url": "https://open.spotify.com/album/4cDjx3jrT1FVnnZdilXq9n"
       },
       "artists": [
         {
-          "name": "TRINA",
-          "url": "https://open.spotify.com/artist/7hLQp9nd2WwuSd9urqu3pJ"
+          "name": "LIZ",
+          "url": "https://open.spotify.com/artist/793QToVJnVh8Op8YSqJsSm"
         }
       ],
-      "duration_ms": 150167,
-      "name": "MONEY BAGS",
-      "url": "https://open.spotify.com/track/6cbl94N6hnZ7Opr6GcEeBa"
+      "duration_ms": 156147,
+      "name": "Gangster tanzen nicht",
+      "url": "https://open.spotify.com/track/2yMOo8J6FpUZzfuSi0kTSu"
     },
     {
       "added_at": "2024-02-14 00:00:00",
@@ -559,6 +559,22 @@
       "duration_ms": 200288,
       "name": "Zeit Steht",
       "url": "https://open.spotify.com/track/5FPEVMCJ86BZUvhlZVOGNe"
+    },
+    {
+      "added_at": "2024-02-14 00:00:00",
+      "album": {
+        "name": "MONEY BAGS",
+        "url": "https://open.spotify.com/album/2okuQSEo20KIwqHafU48vi"
+      },
+      "artists": [
+        {
+          "name": "TRINA",
+          "url": "https://open.spotify.com/artist/7hLQp9nd2WwuSd9urqu3pJ"
+        }
+      ],
+      "duration_ms": 150167,
+      "name": "MONEY BAGS",
+      "url": "https://open.spotify.com/track/6cbl94N6hnZ7Opr6GcEeBa"
     },
     {
       "added_at": "2024-02-14 00:00:00",
@@ -595,6 +611,22 @@
     {
       "added_at": "2024-02-14 00:00:00",
       "album": {
+        "name": "Don't Wanna",
+        "url": "https://open.spotify.com/album/2rt8p7jfKZf51IYPjKWC6t"
+      },
+      "artists": [
+        {
+          "name": "Tini Gessler",
+          "url": "https://open.spotify.com/artist/5k1fr2qbGZrk40njMAyv0x"
+        }
+      ],
+      "duration_ms": 185624,
+      "name": "Don't Wanna",
+      "url": "https://open.spotify.com/track/5rGrH9RbXJN2TggEhHPkWW"
+    },
+    {
+      "added_at": "2024-02-14 00:00:00",
+      "album": {
         "name": "Parasol",
         "url": "https://open.spotify.com/album/6SJeS83n9HgC4nmtwHyTjE"
       },
@@ -611,18 +643,18 @@
     {
       "added_at": "2024-02-14 00:00:00",
       "album": {
-        "name": "Don't Wanna",
-        "url": "https://open.spotify.com/album/2rt8p7jfKZf51IYPjKWC6t"
+        "name": "SCHWARZLICHT",
+        "url": "https://open.spotify.com/album/5U5btzd10yQGK1qrx4n3Fo"
       },
       "artists": [
         {
-          "name": "Tini Gessler",
-          "url": "https://open.spotify.com/artist/5k1fr2qbGZrk40njMAyv0x"
+          "name": "IUMA",
+          "url": "https://open.spotify.com/artist/3sQkqWv3GPcfimQ2bobl2a"
         }
       ],
-      "duration_ms": 185624,
-      "name": "Don't Wanna",
-      "url": "https://open.spotify.com/track/5rGrH9RbXJN2TggEhHPkWW"
+      "duration_ms": 142988,
+      "name": "SCHWARZLICHT",
+      "url": "https://open.spotify.com/track/5vnYW09ymKioMNoS0xbKOd"
     },
     {
       "added_at": "2024-02-14 00:00:00",
@@ -659,22 +691,6 @@
     {
       "added_at": "2024-02-14 00:00:00",
       "album": {
-        "name": "AMY WINEHOUZE",
-        "url": "https://open.spotify.com/album/4cDjx3jrT1FVnnZdilXq9n"
-      },
-      "artists": [
-        {
-          "name": "LIZ",
-          "url": "https://open.spotify.com/artist/793QToVJnVh8Op8YSqJsSm"
-        }
-      ],
-      "duration_ms": 156147,
-      "name": "Gangster tanzen nicht",
-      "url": "https://open.spotify.com/track/2yMOo8J6FpUZzfuSi0kTSu"
-    },
-    {
-      "added_at": "2024-02-14 00:00:00",
-      "album": {
         "name": "Boo'd Up",
         "url": "https://open.spotify.com/album/3XwdzmLhKmxRkzfjtwRNSJ"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 161806,
       "name": "Schleudertrauma",
       "url": "https://open.spotify.com/track/6dMkJN3pr9OR1HvOosTNNK"
-    },
-    {
-      "added_at": "2024-02-14 00:00:00",
-      "album": {
-        "name": "SCHWARZLICHT",
-        "url": "https://open.spotify.com/album/5U5btzd10yQGK1qrx4n3Fo"
-      },
-      "artists": [
-        {
-          "name": "IUMA",
-          "url": "https://open.spotify.com/artist/3sQkqWv3GPcfimQ2bobl2a"
-        }
-      ],
-      "duration_ms": 142988,
-      "name": "SCHWARZLICHT",
-      "url": "https://open.spotify.com/track/5vnYW09ymKioMNoS0xbKOd"
     },
     {
       "added_at": "2024-02-14 00:00:00",

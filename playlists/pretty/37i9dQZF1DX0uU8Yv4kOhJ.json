@@ -1,12 +1,12 @@
 {
   "description": "Concentrate con el aire de la cordillera de los Andes.",
-  "num_followers": 127123,
+  "num_followers": 127140,
   "original_name": "Entre los Andes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYWVlNDkzNTNjNmNkYmEyMDkwZTJlNWM4MmU0MDUzNjlmZDlhMTc2",
+  "snapshot_id": "MCwzYzBiYjk3YjAwZTZkMmYwNjE0ODliMTBlMDA3NzdkYjc5ODE3Y2Zh",
   "tracks": [
     {
       "added_at": "2023-09-29 18:58:26",
@@ -723,6 +723,22 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
+        "name": "Musica De Bolivia",
+        "url": "https://open.spotify.com/album/1zQG76RRmnIW2CjZPc8lMC"
+      },
+      "artists": [
+        {
+          "name": "Inti Punchai",
+          "url": "https://open.spotify.com/artist/0bw09OCO0e0MlvXxpbDE7r"
+        }
+      ],
+      "duration_ms": 237960,
+      "name": "Tatalitu (Chuntunqui)",
+      "url": "https://open.spotify.com/track/5aCk29xRgtDIMgE8y5gQqD"
+    },
+    {
+      "added_at": "2023-09-29 18:58:26",
+      "album": {
         "name": "Arriba Quemando el Sol",
         "url": "https://open.spotify.com/album/51ukHKGp7EGzxkZx34B0Dv"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 227252,
       "name": "Cometa de Luz",
       "url": "https://open.spotify.com/track/2CvioY7rOClmpHFC6JXeUb"
-    },
-    {
-      "added_at": "2023-09-29 18:58:26",
-      "album": {
-        "name": "Musica De Bolivia",
-        "url": "https://open.spotify.com/album/1zQG76RRmnIW2CjZPc8lMC"
-      },
-      "artists": [
-        {
-          "name": "Inti Punchai",
-          "url": "https://open.spotify.com/artist/0bw09OCO0e0MlvXxpbDE7r"
-        }
-      ],
-      "duration_ms": 237960,
-      "name": "Tatalitu (Chuntunqui)",
-      "url": "https://open.spotify.com/track/5aCk29xRgtDIMgE8y5gQqD"
     },
     {
       "added_at": "2023-09-29 18:58:26",
@@ -839,6 +839,22 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
+        "name": "Hasta Donde Mande el Cuerpo",
+        "url": "https://open.spotify.com/album/55hScfNCMvg283Cde5iVpF"
+      },
+      "artists": [
+        {
+          "name": "Alejandro y Maria Laura",
+          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
+        }
+      ],
+      "duration_ms": 212172,
+      "name": "Hasta Donde Mande el Cuerpo",
+      "url": "https://open.spotify.com/track/6ma9Cak9JkUiA4uSHnfEm7"
+    },
+    {
+      "added_at": "2023-09-29 18:58:26",
+      "album": {
         "name": "Viaje de Mixturas",
         "url": "https://open.spotify.com/album/5UDyoz7X5WktqJadjWvmVA"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 246000,
       "name": "Viaje Andino",
       "url": "https://open.spotify.com/track/6LFPiralbg4KhoGBCC8V4M"
-    },
-    {
-      "added_at": "2023-09-29 18:58:26",
-      "album": {
-        "name": "Hasta Donde Mande el Cuerpo",
-        "url": "https://open.spotify.com/album/55hScfNCMvg283Cde5iVpF"
-      },
-      "artists": [
-        {
-          "name": "Alejandro y Maria Laura",
-          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
-        }
-      ],
-      "duration_ms": 212172,
-      "name": "Hasta Donde Mande el Cuerpo",
-      "url": "https://open.spotify.com/track/6ma9Cak9JkUiA4uSHnfEm7"
     }
   ],
   "unique_name": "Entre los Andes",

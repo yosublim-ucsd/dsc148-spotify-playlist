@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - Austria.",
-  "num_followers": 12366,
+  "num_followers": 12365,
   "original_name": "Viral 50 - Austria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzYxOTY2NDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzYyMDUyODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2024-02-22 20:03:35",
+      "added_at": "2024-02-23 15:08:19",
       "album": {
         "name": "F\u00fcr immer Fr\u00fchling",
         "url": "https://open.spotify.com/album/5CiWnH7Pwp3re6czR6FLCN"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/3pn5z4CvMz95uEysWBUYCc"
     },
     {
-      "added_at": "2024-02-22 20:03:35",
+      "added_at": "2024-02-23 15:08:19",
       "album": {
         "name": "Praise Jah In The Moonlight",
         "url": "https://open.spotify.com/album/3BicSFhksEP3QHanmBM1Wd"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9"
     },
     {
-      "added_at": "2024-02-22 20:03:35",
+      "added_at": "2024-02-23 15:08:19",
       "album": {
         "name": "DECIDE",
         "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
@@ -57,23 +57,7 @@
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
     },
     {
-      "added_at": "2024-02-22 20:03:35",
-      "album": {
-        "name": "Beautiful Things",
-        "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 180304,
-      "name": "Beautiful Things",
-      "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
-    },
-    {
-      "added_at": "2024-02-22 20:03:35",
+      "added_at": "2024-02-23 15:08:19",
       "album": {
         "name": "Stumblin' In",
         "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
@@ -89,7 +73,23 @@
       "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
     },
     {
-      "added_at": "2024-02-22 20:03:35",
+      "added_at": "2024-02-23 15:08:19",
+      "album": {
+        "name": "Beautiful Things",
+        "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 180304,
+      "name": "Beautiful Things",
+      "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
+    },
+    {
+      "added_at": "2024-02-23 15:08:19",
       "album": {
         "name": "Soaked",
         "url": "https://open.spotify.com/album/6cd80qsoUsGCmHasCswGhW"
@@ -105,7 +105,7 @@
       "url": "https://open.spotify.com/track/65zIby9Z03d1bhGvLNJNrA"
     },
     {
-      "added_at": "2024-02-22 20:03:35",
+      "added_at": "2024-02-23 15:08:19",
       "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl"
@@ -121,7 +121,55 @@
       "url": "https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK"
     },
     {
-      "added_at": "2024-02-22 20:03:35",
+      "added_at": "2024-02-23 15:08:19",
+      "album": {
+        "name": "What Happens Now?",
+        "url": "https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "duration_ms": 171782,
+      "name": "Austin",
+      "url": "https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5"
+    },
+    {
+      "added_at": "2024-02-23 15:08:19",
+      "album": {
+        "name": "Situationship",
+        "url": "https://open.spotify.com/album/74lT3gaRR3Lxmg85KfRJoE"
+      },
+      "artists": [
+        {
+          "name": "Jacob Elias",
+          "url": "https://open.spotify.com/artist/7yFe9di9kWKJyz47OXSFvR"
+        }
+      ],
+      "duration_ms": 189266,
+      "name": "Situationship",
+      "url": "https://open.spotify.com/track/7F5qS2hnmou4xb3IZf4Fmd"
+    },
+    {
+      "added_at": "2024-02-23 15:08:19",
+      "album": {
+        "name": "Bling-Bang-Bang-Born",
+        "url": "https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6"
+      },
+      "artists": [
+        {
+          "name": "Creepy Nuts",
+          "url": "https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE"
+        }
+      ],
+      "duration_ms": 168135,
+      "name": "Bling-Bang-Bang-Born",
+      "url": "https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG"
+    },
+    {
+      "added_at": "2024-02-23 15:08:19",
       "album": {
         "name": "LEveL",
         "url": "https://open.spotify.com/album/4GW8o02gQfeJKEXNivXz9M"
@@ -141,55 +189,23 @@
       "url": "https://open.spotify.com/track/5Mg4ZgUgR6whGObRh6UGn0"
     },
     {
-      "added_at": "2024-02-22 20:03:35",
+      "added_at": "2024-02-23 15:08:19",
       "album": {
-        "name": "What Happens Now?",
-        "url": "https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz"
+        "name": "Verliebt",
+        "url": "https://open.spotify.com/album/6u6IUF74zUEDbyuLV23jn4"
       },
       "artists": [
         {
-          "name": "Dasha",
-          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+          "name": "Arkan45",
+          "url": "https://open.spotify.com/artist/6CinPTkdtHGlOJvP4MzGT9"
         }
       ],
-      "duration_ms": 171782,
-      "name": "Austin",
-      "url": "https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5"
+      "duration_ms": 116426,
+      "name": "Verliebt",
+      "url": "https://open.spotify.com/track/0k0LF4jnMrZKIVdnmduOei"
     },
     {
-      "added_at": "2024-02-22 20:03:35",
-      "album": {
-        "name": "Situationship",
-        "url": "https://open.spotify.com/album/74lT3gaRR3Lxmg85KfRJoE"
-      },
-      "artists": [
-        {
-          "name": "Jacob Elias",
-          "url": "https://open.spotify.com/artist/7yFe9di9kWKJyz47OXSFvR"
-        }
-      ],
-      "duration_ms": 189266,
-      "name": "Situationship",
-      "url": "https://open.spotify.com/track/7F5qS2hnmou4xb3IZf4Fmd"
-    },
-    {
-      "added_at": "2024-02-22 20:03:35",
-      "album": {
-        "name": "Bling-Bang-Bang-Born",
-        "url": "https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6"
-      },
-      "artists": [
-        {
-          "name": "Creepy Nuts",
-          "url": "https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE"
-        }
-      ],
-      "duration_ms": 168135,
-      "name": "Bling-Bang-Bang-Born",
-      "url": "https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG"
-    },
-    {
-      "added_at": "2024-02-22 20:03:35",
+      "added_at": "2024-02-23 15:08:19",
       "album": {
         "name": "I\u2019d Rather Overdose",
         "url": "https://open.spotify.com/album/11ZfrqRpeCnGBAbJ8e50kH"
@@ -209,23 +225,7 @@
       "url": "https://open.spotify.com/track/17UNijHcIMuz5ik2UKeCjK"
     },
     {
-      "added_at": "2024-02-22 20:03:35",
-      "album": {
-        "name": "Verliebt",
-        "url": "https://open.spotify.com/album/6u6IUF74zUEDbyuLV23jn4"
-      },
-      "artists": [
-        {
-          "name": "Arkan45",
-          "url": "https://open.spotify.com/artist/6CinPTkdtHGlOJvP4MzGT9"
-        }
-      ],
-      "duration_ms": 116426,
-      "name": "Verliebt",
-      "url": "https://open.spotify.com/track/0k0LF4jnMrZKIVdnmduOei"
-    },
-    {
-      "added_at": "2024-02-22 20:03:35",
+      "added_at": "2024-02-23 15:08:19",
       "album": {
         "name": "Hazbin Hotel (Original Soundtrack)",
         "url": "https://open.spotify.com/album/2EOqRNsJiNb7IFLktJBZpq"
@@ -253,7 +253,7 @@
       "url": "https://open.spotify.com/track/6zJjw0iXY0aMBEUyCG1NsA"
     },
     {
-      "added_at": "2024-02-22 20:03:35",
+      "added_at": "2024-02-23 15:08:19",
       "album": {
         "name": "Murder on the Dancefloor (triple j Like A Version)",
         "url": "https://open.spotify.com/album/02tTPri1bqHRdIwhz4gceP"
@@ -269,7 +269,23 @@
       "url": "https://open.spotify.com/track/1swz9stsbG1p34SJHJqiww"
     },
     {
-      "added_at": "2024-02-22 20:03:35",
+      "added_at": "2024-02-23 15:08:19",
+      "album": {
+        "name": "Grey",
+        "url": "https://open.spotify.com/album/3sNFF8w1fDHGcqRG6bWzhu"
+      },
+      "artists": [
+        {
+          "name": "Yung Filly",
+          "url": "https://open.spotify.com/artist/3OEJ7D4RwbnNFuG9JczKEa"
+        }
+      ],
+      "duration_ms": 169051,
+      "name": "Grey",
+      "url": "https://open.spotify.com/track/4Fuf1v4kPQ6RIvEGlUfvaq"
+    },
+    {
+      "added_at": "2024-02-23 15:08:19",
       "album": {
         "name": "Poison (Hazbin Hotel Original Soundtrack)",
         "url": "https://open.spotify.com/album/6dB85sDBpcpU4s5kwU7etB"
@@ -293,23 +309,7 @@
       "url": "https://open.spotify.com/track/6ZXL1A1BVshe1JZ1IY734k"
     },
     {
-      "added_at": "2024-02-22 20:03:35",
-      "album": {
-        "name": "GOOD DAY",
-        "url": "https://open.spotify.com/album/3EdKL10Hos74yj7rGqoS2e"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 170521,
-      "name": "GOOD DAY",
-      "url": "https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O"
-    },
-    {
-      "added_at": "2024-02-22 20:03:35",
+      "added_at": "2024-02-23 15:08:19",
       "album": {
         "name": "Unwritten",
         "url": "https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL"
@@ -325,7 +325,23 @@
       "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
     },
     {
-      "added_at": "2024-02-22 20:03:35",
+      "added_at": "2024-02-23 15:08:19",
+      "album": {
+        "name": "GOOD DAY",
+        "url": "https://open.spotify.com/album/3EdKL10Hos74yj7rGqoS2e"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 170521,
+      "name": "GOOD DAY",
+      "url": "https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O"
+    },
+    {
+      "added_at": "2024-02-23 15:08:19",
       "album": {
         "name": "Unterwegs",
         "url": "https://open.spotify.com/album/0YLHd9ODNz4Ym6s0puZhZm"
@@ -345,23 +361,7 @@
       "url": "https://open.spotify.com/track/2IXYCofJeVgh5r2y0JXOMN"
     },
     {
-      "added_at": "2024-02-22 20:03:35",
-      "album": {
-        "name": "Grey",
-        "url": "https://open.spotify.com/album/3sNFF8w1fDHGcqRG6bWzhu"
-      },
-      "artists": [
-        {
-          "name": "Yung Filly",
-          "url": "https://open.spotify.com/artist/3OEJ7D4RwbnNFuG9JczKEa"
-        }
-      ],
-      "duration_ms": 169051,
-      "name": "Grey",
-      "url": "https://open.spotify.com/track/4Fuf1v4kPQ6RIvEGlUfvaq"
-    },
-    {
-      "added_at": "2024-02-22 20:03:35",
+      "added_at": "2024-02-23 15:08:19",
       "album": {
         "name": "Lifetime",
         "url": "https://open.spotify.com/album/0CjVrbnz8839PBl5E6b17H"
@@ -377,7 +377,7 @@
       "url": "https://open.spotify.com/track/1oH6oeK8iKeRL9VTQY5w2r"
     },
     {
-      "added_at": "2024-02-22 20:03:35",
+      "added_at": "2024-02-23 15:08:19",
       "album": {
         "name": "Prelude to Ecstasy",
         "url": "https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn"
@@ -393,7 +393,7 @@
       "url": "https://open.spotify.com/track/5crY7axm3GejOxy5PsnnPk"
     },
     {
-      "added_at": "2024-02-22 20:03:35",
+      "added_at": "2024-02-23 15:08:19",
       "album": {
         "name": "Ghetto Fabulous",
         "url": "https://open.spotify.com/album/2D1j7mjB55lvygjMmYgTYT"
@@ -409,23 +409,23 @@
       "url": "https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C"
     },
     {
-      "added_at": "2024-02-22 20:03:35",
+      "added_at": "2024-02-23 15:08:19",
       "album": {
-        "name": "Auf zum Apr\u00e8s Ski",
-        "url": "https://open.spotify.com/album/477vKzPQAO1fCKl7k1TPto"
+        "name": "Dance You Outta My Head",
+        "url": "https://open.spotify.com/album/1fyTcCoTKXM35bFpEJlAyG"
       },
       "artists": [
         {
-          "name": "Der Partycrasher",
-          "url": "https://open.spotify.com/artist/2tua36Vl1CfaxO9VCEO7Sf"
+          "name": "Cat Janice",
+          "url": "https://open.spotify.com/artist/7kNpF2nj7eVgcVo8k6pWkz"
         }
       ],
-      "duration_ms": 177750,
-      "name": "Auf zum Apr\u00e8s Ski",
-      "url": "https://open.spotify.com/track/0VZwMxEWzsB1cwuZmBOdUj"
+      "duration_ms": 202508,
+      "name": "Dance You Outta My Head",
+      "url": "https://open.spotify.com/track/6NMqeF0Ssmi7d3dSUqnOFf"
     },
     {
-      "added_at": "2024-02-22 20:03:35",
+      "added_at": "2024-02-23 15:08:19",
       "album": {
         "name": "Derni\u00e8re danse (Techno Mix)",
         "url": "https://open.spotify.com/album/3MhGOga5TlR7JfKxDSxv9Q"
@@ -445,23 +445,7 @@
       "url": "https://open.spotify.com/track/5fIZ683j2xPeLAXfHeWKEG"
     },
     {
-      "added_at": "2024-02-22 20:03:35",
-      "album": {
-        "name": "Dance You Outta My Head",
-        "url": "https://open.spotify.com/album/1fyTcCoTKXM35bFpEJlAyG"
-      },
-      "artists": [
-        {
-          "name": "Cat Janice",
-          "url": "https://open.spotify.com/artist/7kNpF2nj7eVgcVo8k6pWkz"
-        }
-      ],
-      "duration_ms": 202508,
-      "name": "Dance You Outta My Head",
-      "url": "https://open.spotify.com/track/6NMqeF0Ssmi7d3dSUqnOFf"
-    },
-    {
-      "added_at": "2024-02-22 20:03:35",
+      "added_at": "2024-02-23 15:08:19",
       "album": {
         "name": "Last Man Standing",
         "url": "https://open.spotify.com/album/2IdgA8BGe4nVSa2PM5uaKP"
@@ -477,7 +461,39 @@
       "url": "https://open.spotify.com/track/2lWdeczQNurRVraTyZFmgp"
     },
     {
-      "added_at": "2024-02-22 20:03:35",
+      "added_at": "2024-02-23 15:08:19",
+      "album": {
+        "name": "Oh No :: He Said What?",
+        "url": "https://open.spotify.com/album/4kT2KzTC4GE1AEqAQx5BnO"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 228138,
+      "name": "Oh No :: He Said What?",
+      "url": "https://open.spotify.com/track/7Gk8icymiW50sDfFbWLoVG"
+    },
+    {
+      "added_at": "2024-02-23 15:08:19",
+      "album": {
+        "name": "Auf zum Apr\u00e8s Ski",
+        "url": "https://open.spotify.com/album/477vKzPQAO1fCKl7k1TPto"
+      },
+      "artists": [
+        {
+          "name": "Der Partycrasher",
+          "url": "https://open.spotify.com/artist/2tua36Vl1CfaxO9VCEO7Sf"
+        }
+      ],
+      "duration_ms": 177750,
+      "name": "Auf zum Apr\u00e8s Ski",
+      "url": "https://open.spotify.com/track/0VZwMxEWzsB1cwuZmBOdUj"
+    },
+    {
+      "added_at": "2024-02-23 15:08:19",
       "album": {
         "name": "Ode an den Bass",
         "url": "https://open.spotify.com/album/1gAnk5qZJAA3T01vufMMDD"
@@ -493,27 +509,7 @@
       "url": "https://open.spotify.com/track/5BfQq5cdMr5f5PVSz6yRpq"
     },
     {
-      "added_at": "2024-02-22 20:03:35",
-      "album": {
-        "name": "ANOTHER DIMENSION",
-        "url": "https://open.spotify.com/album/0qLJC6nODiFrkmjU00g3qO"
-      },
-      "artists": [
-        {
-          "name": "The Dark Horror",
-          "url": "https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa"
-        },
-        {
-          "name": "Guizcore",
-          "url": "https://open.spotify.com/artist/3Qg431RgaQNEOJVJY4vSaL"
-        }
-      ],
-      "duration_ms": 234210,
-      "name": "FENDI ON MY EYES",
-      "url": "https://open.spotify.com/track/4nmjsyzslWD3IHif3f34Wn"
-    },
-    {
-      "added_at": "2024-02-22 20:03:35",
+      "added_at": "2024-02-23 15:08:19",
       "album": {
         "name": "Sugar Pie Honey Bunch",
         "url": "https://open.spotify.com/album/6gA1FTkOKQviWLIa5eie3O"
@@ -533,7 +529,79 @@
       "url": "https://open.spotify.com/track/2chkrQeCVft2c9Lcz9Vf0T"
     },
     {
-      "added_at": "2024-02-22 20:03:35",
+      "added_at": "2024-02-23 15:08:19",
+      "album": {
+        "name": "Buurman Uit Berlijn",
+        "url": "https://open.spotify.com/album/7kzvFxJhbI6deTcwJjSYOE"
+      },
+      "artists": [
+        {
+          "name": "MCR-T",
+          "url": "https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw"
+        },
+        {
+          "name": "Joost",
+          "url": "https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR"
+        }
+      ],
+      "duration_ms": 285176,
+      "name": "Buurman Uit Berlijn",
+      "url": "https://open.spotify.com/track/5lE64uyiHhhSwS01VI4pV6"
+    },
+    {
+      "added_at": "2024-02-23 15:08:19",
+      "album": {
+        "name": "Beanie",
+        "url": "https://open.spotify.com/album/6ZEGxtC2UW02PF0TR4CsKh"
+      },
+      "artists": [
+        {
+          "name": "Chezile",
+          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
+        }
+      ],
+      "duration_ms": 132160,
+      "name": "Beanie",
+      "url": "https://open.spotify.com/track/2NlxHzUzAHhNcZdaOEuLzq"
+    },
+    {
+      "added_at": "2024-02-23 15:08:19",
+      "album": {
+        "name": "I've Tried Everything But Therapy (Part 1)",
+        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 210688,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
+    },
+    {
+      "added_at": "2024-02-23 15:08:19",
+      "album": {
+        "name": "Patadas de Ahogado",
+        "url": "https://open.spotify.com/album/418IgoKv4nyde6c9YCDYDj"
+      },
+      "artists": [
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        },
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "duration_ms": 224835,
+      "name": "Patadas de Ahogado",
+      "url": "https://open.spotify.com/track/4WefXOf8I4gMjdj2kBJgkl"
+    },
+    {
+      "added_at": "2024-02-23 15:08:19",
       "album": {
         "name": "Hazbin Hotel (Original Soundtrack)",
         "url": "https://open.spotify.com/album/2EOqRNsJiNb7IFLktJBZpq"
@@ -561,67 +629,59 @@
       "url": "https://open.spotify.com/track/6Ux7hThoEVu7V0YmmZqunV"
     },
     {
-      "added_at": "2024-02-22 20:03:35",
+      "added_at": "2024-02-23 15:08:19",
       "album": {
-        "name": "Patadas de Ahogado",
-        "url": "https://open.spotify.com/album/418IgoKv4nyde6c9YCDYDj"
+        "name": "Scared To Start",
+        "url": "https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39"
       },
       "artists": [
         {
-          "name": "LATIN MAFIA",
-          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
-        },
-        {
-          "name": "Humbe",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+          "name": "Michael Marcagi",
+          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
         }
       ],
-      "duration_ms": 224835,
-      "name": "Patadas de Ahogado",
-      "url": "https://open.spotify.com/track/4WefXOf8I4gMjdj2kBJgkl"
+      "duration_ms": 159636,
+      "name": "Scared To Start",
+      "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
     },
     {
-      "added_at": "2024-02-22 20:03:35",
+      "added_at": "2024-02-23 15:08:19",
       "album": {
-        "name": "Perfect (Exceeder) [1991 Remix]",
-        "url": "https://open.spotify.com/album/32pP9IByNHcFzL4Hlr6cob"
+        "name": "Keine Homies",
+        "url": "https://open.spotify.com/album/0zrF3gikDWhyetVFGqL8Du"
       },
       "artists": [
         {
-          "name": "Mason",
-          "url": "https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd"
+          "name": "CIVO",
+          "url": "https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8"
         },
         {
-          "name": "Princess Superstar",
-          "url": "https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM"
-        },
-        {
-          "name": "1991",
-          "url": "https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy"
+          "name": "Maxe",
+          "url": "https://open.spotify.com/artist/6YTILOAf9umh7RMEJdigWm"
         }
       ],
-      "duration_ms": 200086,
-      "name": "Perfect (Exceeder) - 1991 Remix",
-      "url": "https://open.spotify.com/track/1VKWQgq0g2uKtgNfL0ceNM"
+      "duration_ms": 122241,
+      "name": "Keine Homies",
+      "url": "https://open.spotify.com/track/1ct7Hx3FQMfym8cHIk4hrd"
     },
     {
-      "added_at": "2024-02-22 20:03:35",
+      "added_at": "2024-02-23 15:08:19",
       "album": {
-        "name": "Oh No :: He Said What?",
-        "url": "https://open.spotify.com/album/4kT2KzTC4GE1AEqAQx5BnO"
+        "name": "Made For Me",
+        "url": "https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv"
       },
       "artists": [
         {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
         }
       ],
-      "duration_ms": 228138,
-      "name": "Oh No :: He Said What?",
-      "url": "https://open.spotify.com/track/7Gk8icymiW50sDfFbWLoVG"
+      "duration_ms": 188000,
+      "name": "Made For Me",
+      "url": "https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC"
     },
     {
-      "added_at": "2024-02-22 20:03:35",
+      "added_at": "2024-02-23 15:08:19",
       "album": {
         "name": "Hazbin Hotel (Original Soundtrack)",
         "url": "https://open.spotify.com/album/2EOqRNsJiNb7IFLktJBZpq"
@@ -657,107 +717,107 @@
       "url": "https://open.spotify.com/track/2h4MTQZP8quVwuwrtIPErD"
     },
     {
-      "added_at": "2024-02-22 20:03:35",
+      "added_at": "2024-02-23 15:08:19",
       "album": {
-        "name": "Keine Homies",
-        "url": "https://open.spotify.com/album/0zrF3gikDWhyetVFGqL8Du"
+        "name": "ANOTHER DIMENSION",
+        "url": "https://open.spotify.com/album/0qLJC6nODiFrkmjU00g3qO"
       },
       "artists": [
         {
-          "name": "CIVO",
-          "url": "https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8"
+          "name": "The Dark Horror",
+          "url": "https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa"
         },
         {
-          "name": "Maxe",
-          "url": "https://open.spotify.com/artist/6YTILOAf9umh7RMEJdigWm"
+          "name": "Guizcore",
+          "url": "https://open.spotify.com/artist/3Qg431RgaQNEOJVJY4vSaL"
         }
       ],
-      "duration_ms": 122241,
-      "name": "Keine Homies",
-      "url": "https://open.spotify.com/track/1ct7Hx3FQMfym8cHIk4hrd"
+      "duration_ms": 234210,
+      "name": "FENDI ON MY EYES",
+      "url": "https://open.spotify.com/track/4nmjsyzslWD3IHif3f34Wn"
     },
     {
-      "added_at": "2024-02-22 20:03:35",
+      "added_at": "2024-02-23 15:08:19",
       "album": {
-        "name": "I've Tried Everything But Therapy (Part 1)",
-        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
+        "name": "Perfect (Exceeder) [1991 Remix]",
+        "url": "https://open.spotify.com/album/32pP9IByNHcFzL4Hlr6cob"
       },
       "artists": [
         {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+          "name": "Mason",
+          "url": "https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd"
+        },
+        {
+          "name": "Princess Superstar",
+          "url": "https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM"
+        },
+        {
+          "name": "1991",
+          "url": "https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy"
         }
       ],
-      "duration_ms": 210688,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
+      "duration_ms": 200086,
+      "name": "Perfect (Exceeder) - 1991 Remix",
+      "url": "https://open.spotify.com/track/1VKWQgq0g2uKtgNfL0ceNM"
     },
     {
-      "added_at": "2024-02-22 20:03:35",
+      "added_at": "2024-02-23 15:08:19",
       "album": {
-        "name": "Scared To Start",
-        "url": "https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39"
+        "name": "Buscando Money",
+        "url": "https://open.spotify.com/album/2kPKfMNrvUMOFVrFVENqrl"
       },
       "artists": [
         {
-          "name": "Michael Marcagi",
-          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
+          "name": "TWENTY SIX",
+          "url": "https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P"
+        },
+        {
+          "name": "Tayson Kryss",
+          "url": "https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7"
         }
       ],
-      "duration_ms": 159636,
-      "name": "Scared To Start",
-      "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
+      "duration_ms": 150000,
+      "name": "Buscando Money",
+      "url": "https://open.spotify.com/track/357iDuZ0IXAAg3Aj7UszqO"
     },
     {
-      "added_at": "2024-02-22 20:03:35",
+      "added_at": "2024-02-23 15:08:19",
       "album": {
-        "name": "Liebe = Schmerz",
-        "url": "https://open.spotify.com/album/34epGENIY7DM2iBHT1LnLK"
+        "name": "Meet The Lilithz",
+        "url": "https://open.spotify.com/album/4zt5xMdHGm4BcNURi2YmW5"
       },
       "artists": [
         {
-          "name": "Paves 16",
-          "url": "https://open.spotify.com/artist/2gAXwURDNLBpiwlrgcl9HM"
+          "name": "Lilithzplug",
+          "url": "https://open.spotify.com/artist/2YVybYBfG1kXdtori5aUMo"
         }
       ],
-      "duration_ms": 157800,
-      "name": "Liebe = Schmerz",
-      "url": "https://open.spotify.com/track/7dG0k6FNKGnrW15bBbvWmF"
+      "duration_ms": 126481,
+      "name": "CLEARED - Remix",
+      "url": "https://open.spotify.com/track/54L7uacUGRkvoLokUlNWfH"
     },
     {
-      "added_at": "2024-02-22 20:03:35",
+      "added_at": "2024-02-23 15:08:19",
       "album": {
-        "name": "Made For Me",
-        "url": "https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv"
+        "name": "Nu King",
+        "url": "https://open.spotify.com/album/5yrqPWuCSAo6beZdIBYAUU"
       },
       "artists": [
         {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Made For Me",
-      "url": "https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC"
-    },
-    {
-      "added_at": "2024-02-22 20:03:35",
-      "album": {
-        "name": "2 days into college",
-        "url": "https://open.spotify.com/album/1RzErf193ngBH4DRAFZvz3"
-      },
-      "artists": [
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        },
         {
-          "name": "Aimee Carty",
-          "url": "https://open.spotify.com/artist/4LkmOQU5KA6vZgvJHnpQDl"
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
         }
       ],
-      "duration_ms": 168113,
-      "name": "2 days into college",
-      "url": "https://open.spotify.com/track/1v4m9GLt7lpFM5iOvwQZrU"
+      "duration_ms": 154376,
+      "name": "Spicy Margarita",
+      "url": "https://open.spotify.com/track/22bZVqJfATps2ETj7017Ms"
     },
     {
-      "added_at": "2024-02-22 20:03:35",
+      "added_at": "2024-02-23 15:08:19",
       "album": {
         "name": "Hazbin Hotel (Original Soundtrack)",
         "url": "https://open.spotify.com/album/2EOqRNsJiNb7IFLktJBZpq"
@@ -797,7 +857,7 @@
       "url": "https://open.spotify.com/track/0nD9zX0pnjOGhwZbCtMSGR"
     },
     {
-      "added_at": "2024-02-22 20:03:35",
+      "added_at": "2024-02-23 15:08:19",
       "album": {
         "name": "Erinner mich",
         "url": "https://open.spotify.com/album/0jpS7XxChqr5DLtQb2FwFl"
@@ -817,107 +877,63 @@
       "url": "https://open.spotify.com/track/4lArhqEySHQwMKkWkPXQEK"
     },
     {
-      "added_at": "2024-02-22 20:03:35",
+      "added_at": "2024-02-23 15:08:19",
       "album": {
-        "name": "Meet The Lilithz",
-        "url": "https://open.spotify.com/album/4zt5xMdHGm4BcNURi2YmW5"
+        "name": "Seni Yazd\u0131m",
+        "url": "https://open.spotify.com/album/6cxZJkdAXDdGVGtLnwRTVg"
       },
       "artists": [
         {
-          "name": "Lilithzplug",
-          "url": "https://open.spotify.com/artist/2YVybYBfG1kXdtori5aUMo"
+          "name": "ElMusto",
+          "url": "https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl"
+        },
+        {
+          "name": "Decrat",
+          "url": "https://open.spotify.com/artist/5ouX1Qz844h25lu0aXUaw5"
         }
       ],
-      "duration_ms": 126481,
-      "name": "CLEARED - Remix",
-      "url": "https://open.spotify.com/track/54L7uacUGRkvoLokUlNWfH"
+      "duration_ms": 151059,
+      "name": "Seni Yazd\u0131m",
+      "url": "https://open.spotify.com/track/1abxpxR02QBwzEWJal3Khb"
     },
     {
-      "added_at": "2024-02-22 20:03:35",
+      "added_at": "2024-02-23 15:08:19",
       "album": {
-        "name": "I wouldn't mind (Techno Version)",
-        "url": "https://open.spotify.com/album/0qReqJwT6nGygFZuGqZFZc"
+        "name": "2 days into college",
+        "url": "https://open.spotify.com/album/1RzErf193ngBH4DRAFZvz3"
       },
       "artists": [
         {
-          "name": "Tekuno",
-          "url": "https://open.spotify.com/artist/6OpUSyeuX009ASARVbVUjK"
-        },
-        {
-          "name": "Sophisticated",
-          "url": "https://open.spotify.com/artist/3qxWr7b7esjQl4w54IHPRJ"
+          "name": "Aimee Carty",
+          "url": "https://open.spotify.com/artist/4LkmOQU5KA6vZgvJHnpQDl"
         }
       ],
-      "duration_ms": 82381,
-      "name": "I wouldn't mind - Techno Version",
-      "url": "https://open.spotify.com/track/46FuVD2YgS2Mdiy8c3pwJv"
+      "duration_ms": 168113,
+      "name": "2 days into college",
+      "url": "https://open.spotify.com/track/1v4m9GLt7lpFM5iOvwQZrU"
     },
     {
-      "added_at": "2024-02-22 20:03:35",
+      "added_at": "2024-02-23 15:08:19",
       "album": {
-        "name": "Nu King",
-        "url": "https://open.spotify.com/album/5yrqPWuCSAo6beZdIBYAUU"
+        "name": "Fantazija",
+        "url": "https://open.spotify.com/album/3YFrHQo29msSQeqUsP1weC"
       },
       "artists": [
         {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+          "name": "Gr\u0161e",
+          "url": "https://open.spotify.com/artist/7tcnxMy5DB0GEOOUnlkKyz"
         },
         {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+          "name": "Miach",
+          "url": "https://open.spotify.com/artist/2JdSKSsIyKoufxXuuuOVUt"
         }
       ],
-      "duration_ms": 154376,
-      "name": "Spicy Margarita",
-      "url": "https://open.spotify.com/track/22bZVqJfATps2ETj7017Ms"
+      "duration_ms": 144335,
+      "name": "Fantazija",
+      "url": "https://open.spotify.com/track/1wRvvl4diSD8ajCDHWnn1c"
     },
     {
-      "added_at": "2024-02-22 20:03:35",
-      "album": {
-        "name": "high, high, high",
-        "url": "https://open.spotify.com/album/00trTBqMdRTwVaw1HmYuT6"
-      },
-      "artists": [
-        {
-          "name": "Camylio",
-          "url": "https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4"
-        }
-      ],
-      "duration_ms": 175447,
-      "name": "high, high, high",
-      "url": "https://open.spotify.com/track/4zezDZW6gxas6tCLcYjaT8"
-    },
-    {
-      "added_at": "2024-02-22 20:03:35",
-      "album": {
-        "name": "Hazbin Hotel (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/2EOqRNsJiNb7IFLktJBZpq"
-      },
-      "artists": [
-        {
-          "name": "Andrew Underberg",
-          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
-        },
-        {
-          "name": "Sam Haft",
-          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
-        },
-        {
-          "name": "Jeremy Jordan",
-          "url": "https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub"
-        },
-        {
-          "name": "Erika Henningsen",
-          "url": "https://open.spotify.com/artist/3hjgA2bJfvsFAbHNM60dvG"
-        }
-      ],
-      "duration_ms": 193235,
-      "name": "More Than Anything",
-      "url": "https://open.spotify.com/track/64bs8pCgpueh0mFEKZWGXS"
-    },
-    {
-      "added_at": "2024-02-22 20:03:35",
+      "added_at": "2024-02-23 15:08:19",
       "album": {
         "name": "Birknbam",
         "url": "https://open.spotify.com/album/70Biibg7TMtxOjIyLvHa0F"
@@ -931,38 +947,6 @@
       "duration_ms": 173226,
       "name": "Birknbam",
       "url": "https://open.spotify.com/track/0GPU2Ho9l6yt9A0iFdW8lQ"
-    },
-    {
-      "added_at": "2024-02-22 20:03:35",
-      "album": {
-        "name": "Hazbin Hotel (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/2EOqRNsJiNb7IFLktJBZpq"
-      },
-      "artists": [
-        {
-          "name": "Andrew Underberg",
-          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
-        },
-        {
-          "name": "Sam Haft",
-          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
-        },
-        {
-          "name": "Christian Borle",
-          "url": "https://open.spotify.com/artist/3mXvO1rdMCgdOYNiWeduWG"
-        },
-        {
-          "name": "Amir Talai",
-          "url": "https://open.spotify.com/artist/1el8TNH6bcVfqnavlh0qZL"
-        },
-        {
-          "name": "Joel Perez",
-          "url": "https://open.spotify.com/artist/2W9W8wwOXJCux8sfyptX2p"
-        }
-      ],
-      "duration_ms": 180475,
-      "name": "Stayed Gone",
-      "url": "https://open.spotify.com/track/4Po97bPnn3ISdEkuJBMt2f"
     }
   ],
   "unique_name": "Viral 50 - Austria",

@@ -770,10 +770,28 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 126552,
       "name": "Flor de Loto",
       "url": "https://open.spotify.com/track/2z2er73rnxiOZFXNFifeCg"
+    },
+    {
+      "album": {
+        "name": "Flor de Loto",
+        "url": "https://open.spotify.com/album/1XlOKFZuqfljW19y6JsAEw"
+      },
+      "artists": [
+        {
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126552,
+      "name": "Flor de Loto",
+      "url": "https://open.spotify.com/track/6o0FYA5icN4PImQFrfaBFL"
     },
     {
       "album": {

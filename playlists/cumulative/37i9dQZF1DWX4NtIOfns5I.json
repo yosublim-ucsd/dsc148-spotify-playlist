@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-07",
-  "description": "where folk flowers bloom.  cover: Lizzy McAlpine",
+  "description": "where folk flowers bloom. cover: Bo Staloch ",
   "name": "juniper",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 168113,
       "name": "2 days into college",
       "url": "https://open.spotify.com/track/1v4m9GLt7lpFM5iOvwQZrU"
@@ -1185,6 +1185,28 @@
     },
     {
       "album": {
+        "name": "glacier meadow",
+        "url": "https://open.spotify.com/album/49dacIWVwfmiXGJ51AaBGD"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        },
+        {
+          "name": "Field Medic",
+          "url": "https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166340,
+      "name": "glacier meadow",
+      "url": "https://open.spotify.com/track/5qFRcVehrKf96Foul25ZV0"
+    },
+    {
+      "album": {
         "name": "Good Morning, Al",
         "url": "https://open.spotify.com/album/66Z431cNHK8eTDjzSZhlR7"
       },
@@ -2328,7 +2350,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 149485,
       "name": "Please Love Me",
       "url": "https://open.spotify.com/track/6jEi6mO39kO1WtOm6ksogj"
@@ -3129,6 +3151,24 @@
     },
     {
       "album": {
+        "name": "The Trek",
+        "url": "https://open.spotify.com/album/71QLGDfkyZqoN8U9LTDmYj"
+      },
+      "artists": [
+        {
+          "name": "Hans Williams",
+          "url": "https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282253,
+      "name": "The Trek",
+      "url": "https://open.spotify.com/track/5P4Uaj4mKQpkZYRyt5ceMC"
+    },
+    {
+      "album": {
         "name": "there they go",
         "url": "https://open.spotify.com/album/6MzGpvC1fI4kZ56DjcmadF"
       },
@@ -3198,7 +3238,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 195000,
       "name": "To The West (with Sophie Holohan)",
       "url": "https://open.spotify.com/track/5gul0HAm9GjcbVcbKzxPNW"
@@ -3506,6 +3546,24 @@
       "duration_ms": 224744,
       "name": "You'd Like Me More",
       "url": "https://open.spotify.com/track/5AoZ4uqkpRvUgBclqxBbxc"
+    },
+    {
+      "album": {
+        "name": "Your Eyes Tell Stories",
+        "url": "https://open.spotify.com/album/1QgZwqU2YobE0pxiD3tzkE"
+      },
+      "artists": [
+        {
+          "name": "Bo Staloch",
+          "url": "https://open.spotify.com/artist/2EtiCherSxAKu7mnbU8Poh"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320200,
+      "name": "Your Eyes Tell Stories",
+      "url": "https://open.spotify.com/track/2L0lffL9iJypY0PDGEg169"
     },
     {
       "album": {

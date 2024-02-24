@@ -1,12 +1,12 @@
 {
   "description": "Life sucks...i need some rock!",
-  "num_followers": 296566,
+  "num_followers": 296594,
   "original_name": "Anger Management",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjFjYmVmYTFmMDM4MGE1NGYzZjRlMjFiODViMzMzYWE3YzNkMWM4",
+  "snapshot_id": "MCw3NmViYTBhZDJjMWViMTc4NjJhNWM0MzQ0NWYwOTU3MmVhMGFkMWJh",
   "tracks": [
     {
       "added_at": "2024-01-23 13:23:45",
@@ -195,22 +195,6 @@
     {
       "added_at": "2024-01-23 13:23:45",
       "album": {
-        "name": "What Separates Me From You",
-        "url": "https://open.spotify.com/album/6I2SUr0MolRUiDEcZAbSWm"
-      },
-      "artists": [
-        {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
-        }
-      ],
-      "duration_ms": 202640,
-      "name": "All I Want",
-      "url": "https://open.spotify.com/track/4JsDHMv5PVO8N07DbDq33r"
-    },
-    {
-      "added_at": "2024-01-23 13:23:45",
-      "album": {
         "name": "Weezer",
         "url": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 186533,
       "name": "Hash Pipe",
       "url": "https://open.spotify.com/track/2mPMFJvQ0v27gVqe5b6nDn"
+    },
+    {
+      "added_at": "2024-01-23 13:23:45",
+      "album": {
+        "name": "What Separates Me From You",
+        "url": "https://open.spotify.com/album/6I2SUr0MolRUiDEcZAbSWm"
+      },
+      "artists": [
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "duration_ms": 202640,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/4JsDHMv5PVO8N07DbDq33r"
     },
     {
       "added_at": "2024-01-23 13:23:45",
@@ -259,22 +259,6 @@
     {
       "added_at": "2024-01-23 13:23:45",
       "album": {
-        "name": "House of Gold & Bones, Part 1",
-        "url": "https://open.spotify.com/album/2nCHgPLLyIgxFKUBYuMKPn"
-      },
-      "artists": [
-        {
-          "name": "Stone Sour",
-          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
-        }
-      ],
-      "duration_ms": 229840,
-      "name": "Absolute Zero",
-      "url": "https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb"
-    },
-    {
-      "added_at": "2024-01-23 13:23:45",
-      "album": {
         "name": "Mer De Noms",
         "url": "https://open.spotify.com/album/0GeWd0yUKXHbCXVag1mJvO"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 247266,
       "name": "Judith",
       "url": "https://open.spotify.com/track/5KDNFlHAdDJ84fhK27c35X"
+    },
+    {
+      "added_at": "2024-01-23 13:23:45",
+      "album": {
+        "name": "House of Gold & Bones, Part 1",
+        "url": "https://open.spotify.com/album/2nCHgPLLyIgxFKUBYuMKPn"
+      },
+      "artists": [
+        {
+          "name": "Stone Sour",
+          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
+        }
+      ],
+      "duration_ms": 229840,
+      "name": "Absolute Zero",
+      "url": "https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb"
     },
     {
       "added_at": "2024-01-23 13:23:45",
@@ -403,22 +403,6 @@
     {
       "added_at": "2024-01-23 13:23:45",
       "album": {
-        "name": "So Much (For) Stardust",
-        "url": "https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 215601,
-      "name": "Hold Me Like a Grudge",
-      "url": "https://open.spotify.com/track/7LJETXmpThAx6IvUzczYNR"
-    },
-    {
-      "added_at": "2024-01-23 13:23:45",
-      "album": {
         "name": "The Battle Of Los Angeles",
         "url": "https://open.spotify.com/album/2eia0myWFgoHuttJytCxgX"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 210133,
       "name": "Testify",
       "url": "https://open.spotify.com/track/7lmeHLHBe4nmXzuXc0HDjk"
+    },
+    {
+      "added_at": "2024-01-23 13:23:45",
+      "album": {
+        "name": "So Much (For) Stardust",
+        "url": "https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 215601,
+      "name": "Hold Me Like a Grudge",
+      "url": "https://open.spotify.com/track/7LJETXmpThAx6IvUzczYNR"
     },
     {
       "added_at": "2024-01-23 13:23:45",
@@ -499,22 +499,6 @@
     {
       "added_at": "2024-01-23 13:23:45",
       "album": {
-        "name": "Folie \u00e0 Deux",
-        "url": "https://open.spotify.com/album/6KOWjVP0mh5rOqmzm4tkPD"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 214493,
-      "name": "I Don't Care - Single Version",
-      "url": "https://open.spotify.com/track/7ewT0nLFkMD8ONbRibePr9"
-    },
-    {
-      "added_at": "2024-01-23 13:23:45",
-      "album": {
         "name": "Ember",
         "url": "https://open.spotify.com/album/2D1s85eD7MLnPd3zjfK4tr"
       },
@@ -563,22 +547,6 @@
     {
       "added_at": "2024-01-23 13:23:45",
       "album": {
-        "name": "Overcome",
-        "url": "https://open.spotify.com/album/24nlaQLa3nx87nBaS9j35W"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 214723,
-      "name": "Overcome",
-      "url": "https://open.spotify.com/track/18q5OmlDTbSm8w9J1i17dT"
-    },
-    {
-      "added_at": "2024-01-23 13:23:45",
-      "album": {
         "name": "Endgame",
         "url": "https://open.spotify.com/album/2Gq0ERke26yxdGuRvrqFTD"
       },
@@ -595,6 +563,22 @@
     {
       "added_at": "2024-01-23 13:23:45",
       "album": {
+        "name": "Folie \u00e0 Deux",
+        "url": "https://open.spotify.com/album/6KOWjVP0mh5rOqmzm4tkPD"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 214493,
+      "name": "I Don't Care - Single Version",
+      "url": "https://open.spotify.com/track/7ewT0nLFkMD8ONbRibePr9"
+    },
+    {
+      "added_at": "2024-01-23 13:23:45",
+      "album": {
         "name": "Meteora (Bonus Edition)",
         "url": "https://open.spotify.com/album/0y13VbGddQ4azdVWakksAL"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 187933,
       "name": "Don't Stay",
       "url": "https://open.spotify.com/track/27gUeiai56GKF6TxvmPJut"
+    },
+    {
+      "added_at": "2024-01-23 13:23:45",
+      "album": {
+        "name": "Overcome",
+        "url": "https://open.spotify.com/album/24nlaQLa3nx87nBaS9j35W"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 214723,
+      "name": "Overcome",
+      "url": "https://open.spotify.com/track/18q5OmlDTbSm8w9J1i17dT"
     },
     {
       "added_at": "2024-01-23 13:23:45",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-01-23 13:23:45",
       "album": {
-        "name": "Revelations",
-        "url": "https://open.spotify.com/album/6Ys6uRTMti54CH8VEo2xEt"
-      },
-      "artists": [
-        {
-          "name": "Audioslave",
-          "url": "https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn"
-        }
-      ],
-      "duration_ms": 252106,
-      "name": "Revelations",
-      "url": "https://open.spotify.com/track/22wnEMAQaNrbot1dwmeucH"
-    },
-    {
-      "added_at": "2024-01-23 13:23:45",
-      "album": {
         "name": "Won\u2019t Stand Down",
         "url": "https://open.spotify.com/album/3bbeAIMaGSW6gUMeGqw5VS"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 209061,
       "name": "Won\u2019t Stand Down",
       "url": "https://open.spotify.com/track/6hIr2IDeBDXfRFk0rYe5Tz"
+    },
+    {
+      "added_at": "2024-01-23 13:23:45",
+      "album": {
+        "name": "Revelations",
+        "url": "https://open.spotify.com/album/6Ys6uRTMti54CH8VEo2xEt"
+      },
+      "artists": [
+        {
+          "name": "Audioslave",
+          "url": "https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn"
+        }
+      ],
+      "duration_ms": 252106,
+      "name": "Revelations",
+      "url": "https://open.spotify.com/track/22wnEMAQaNrbot1dwmeucH"
     },
     {
       "added_at": "2024-01-23 13:23:45",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-01-23 13:23:45",
       "album": {
-        "name": "Cavalier Youth (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/0Jc8iit7R0U4lHflud7pdA"
-      },
-      "artists": [
-        {
-          "name": "You Me At Six",
-          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
-        }
-      ],
-      "duration_ms": 239050,
-      "name": "Room to Breathe",
-      "url": "https://open.spotify.com/track/0wsxTNqJPuw4DaR9vLKif1"
-    },
-    {
-      "added_at": "2024-01-23 13:23:45",
-      "album": {
         "name": "Drunk Enough To Dance",
         "url": "https://open.spotify.com/album/2safYwJ4j0WKLcQUwEBQEi"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 154680,
       "name": "I Ran (So Far Away)",
       "url": "https://open.spotify.com/track/3ey4YvqYyU7a44LCPUgLzx"
+    },
+    {
+      "added_at": "2024-01-23 13:23:45",
+      "album": {
+        "name": "Cavalier Youth (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/0Jc8iit7R0U4lHflud7pdA"
+      },
+      "artists": [
+        {
+          "name": "You Me At Six",
+          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
+        }
+      ],
+      "duration_ms": 239050,
+      "name": "Room to Breathe",
+      "url": "https://open.spotify.com/track/0wsxTNqJPuw4DaR9vLKif1"
     },
     {
       "added_at": "2024-01-23 13:23:45",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2024-01-23 13:23:45",
       "album": {
-        "name": "Someone's Gonna Die Tonight",
-        "url": "https://open.spotify.com/album/16Y8chk55eDwfyLU9j1cpf"
-      },
-      "artists": [
-        {
-          "name": "Gin Wigmore",
-          "url": "https://open.spotify.com/artist/4Gzfk9Lxm67nBs7E9BZjzG"
-        }
-      ],
-      "duration_ms": 202169,
-      "name": "Someone's Gonna Die Tonight",
-      "url": "https://open.spotify.com/track/6ZX57tcBhxGCn773rS5nTl"
-    },
-    {
-      "added_at": "2024-01-23 13:23:45",
-      "album": {
         "name": "The Lonely Position Of Neutral",
         "url": "https://open.spotify.com/album/2fjLRxrWTlE20dPbICrNnh"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 229192,
       "name": "Circling the Drain",
       "url": "https://open.spotify.com/track/5HNNu02Psy9WwWNuNlLlie"
+    },
+    {
+      "added_at": "2024-01-23 13:23:45",
+      "album": {
+        "name": "Someone's Gonna Die Tonight",
+        "url": "https://open.spotify.com/album/16Y8chk55eDwfyLU9j1cpf"
+      },
+      "artists": [
+        {
+          "name": "Gin Wigmore",
+          "url": "https://open.spotify.com/artist/4Gzfk9Lxm67nBs7E9BZjzG"
+        }
+      ],
+      "duration_ms": 202169,
+      "name": "Someone's Gonna Die Tonight",
+      "url": "https://open.spotify.com/track/6ZX57tcBhxGCn773rS5nTl"
     },
     {
       "added_at": "2024-01-23 13:23:45",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2024-01-23 13:23:45",
       "album": {
-        "name": "Hi-Fi Serious",
-        "url": "https://open.spotify.com/album/4A66a0jsW9AJB6Com7AX4U"
+        "name": "Never Ending Moment",
+        "url": "https://open.spotify.com/album/313xyg9CxQWvoeOvih1QOW"
       },
       "artists": [
         {
-          "name": "A",
-          "url": "https://open.spotify.com/artist/3HBxYEtI2i43MzWyTXupVv"
+          "name": "Des Rocs",
+          "url": "https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8"
         }
       ],
-      "duration_ms": 223266,
-      "name": "Nothing",
-      "url": "https://open.spotify.com/track/7yUrBn4yvBBfwXXfHTE2Wd"
+      "duration_ms": 257946,
+      "name": "Never Ending Moment",
+      "url": "https://open.spotify.com/track/4LltjSEOq80cOSFeIM6LOz"
     }
   ],
   "unique_name": "Anger Management",

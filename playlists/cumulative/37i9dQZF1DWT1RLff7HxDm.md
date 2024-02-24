@@ -4,7 +4,7 @@
 
 > All live, all blues\. Cover: Christone "Kingfish" Ingram
 
-154 songs - 15 hr 31 min
+155 songs - 15 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Long Distance Woman \- Live\-Bonus Track](https://open.spotify.com/track/26RmrLz1hYNT6JUY0fsQn5) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Live In London \(Expanded Edition\)](https://open.spotify.com/album/7wyoiuJDpJrBXJJC4ULTe7) | 6:56 | 2024-01-05 |  |
 | [Mad As A Hatter \(Live In Concert\)](https://open.spotify.com/track/0on0Y3tC9iHoPGYPBoJgFY) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm), [Nu Deco Ensemble](https://open.spotify.com/artist/4GYUlFINfLTLni6bN7SbAK) | [Paint The Roses \(Live In Concert\)](https://open.spotify.com/album/2rIe2vSV47OAhOBLNtCWmu) | 5:12 | 2021-09-17 | 2023-03-06 |
 | [Mad As A Hatter \- Live in Concert](https://open.spotify.com/track/3msGgsgqMQXd7nO1S2e59f) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm), [Nu Deco Ensemble](https://open.spotify.com/artist/4GYUlFINfLTLni6bN7SbAK) | [Paint The Roses \(Live in Concert\)](https://open.spotify.com/album/5u6igDbmfkKA1PW3DBItKH) | 5:12 | 2021-09-17 |  |
-| [Mainline Florida \- Live](https://open.spotify.com/track/0NRX4unLHXXFrZtFfSmHu6) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [British Blues Explosion Live](https://open.spotify.com/album/6wQ0Qd9cQZvOYE4Fn1OIZc) | 7:01 | 2020-10-30 |  |
+| [Mainline Florida \- Live](https://open.spotify.com/track/0NRX4unLHXXFrZtFfSmHu6) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [British Blues Explosion Live](https://open.spotify.com/album/6wQ0Qd9cQZvOYE4Fn1OIZc) | 7:01 | 2020-10-30 | 2024-02-24 |
 | [Midnight Heat \- Live](https://open.spotify.com/track/1YLMfZsiVuBVb3yPB9mK0N) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Live In London \(Expanded Edition\)](https://open.spotify.com/album/7wyoiuJDpJrBXJJC4ULTe7) | 5:24 | 2023-09-15 |  |
 | [Midnight Heat \- Live](https://open.spotify.com/track/2HlfyyZwGq6tQYwl2qU0vY) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Live In London](https://open.spotify.com/album/3Lqzd6AFTfeVybMiBbBDse) | 5:24 | 2023-09-15 | 2024-01-10 |
 | [Mind's Eye \(Live\)](https://open.spotify.com/track/6YbmrjAs8vck6xcppmuxU2) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Mind’s Eye \(Live\)](https://open.spotify.com/album/6ccQ4vz1nVEDHdT0vco2nO) | 6:29 | 2023-02-17 | 2023-05-21 |
@@ -146,6 +146,7 @@
 | [Touch My Blues Away \- Live](https://open.spotify.com/track/6UhzXmU7lviIUDmuUJY5sM) | [Jessy Martens and Band](https://open.spotify.com/artist/4kJMG0aB4UYiKfHA9esWDt) | [Touch My Blues Away](https://open.spotify.com/album/2Jh6Ii9Em3lasO8XnubXkR) | 9:04 | 2020-10-30 |  |
 | [True Lies](https://open.spotify.com/track/2KLT80GTeO0klP5VS8aNHB) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [LIVE! In Chicago](https://open.spotify.com/album/5hacXiG8xBevQ7ZWH3KCg2) | 5:54 | 2020-10-30 | 2022-07-29 |
 | [True Lies \- Live](https://open.spotify.com/track/3OHFCFO7Upo0z0gYtWTTDQ) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Live in Chicago](https://open.spotify.com/album/3ljFmredCgsn5o8WsjJBBa) | 5:54 | 2020-10-30 |  |
+| [Twenty\-Four Hour Blues \(Live At The Hollywood Bowl With Orchestra\)](https://open.spotify.com/track/78PzYa2mqx9MJcAvTIxR6N) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Twenty\-Four Hour Blues \(Live At The Hollywood Bowl With Orchestra\)](https://open.spotify.com/album/5uhbe2M4tPRoDb6fH52TaJ) | 5:47 | 2024-02-23 |  |
 | [Underneath The River \- Live 2023](https://open.spotify.com/track/2pgRRXsHtZe5OpHD6FmKgC) | [Jo Harman](https://open.spotify.com/artist/6ydZgJ9WCRguM0ZZRG8thk) | [Underneath The River \(Live 2023\)](https://open.spotify.com/album/19HeG1fcpAL9DoQ9utLxhq) | 6:34 | 2023-12-15 |  |
 | [Up Your Sleeve \- Live](https://open.spotify.com/track/3kEIR6eH1rL9GWQi1bayCG) | [Albert Cummings](https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg) | [Live at the '62 Center](https://open.spotify.com/album/4j4Uu6TIBjVFcGvm57olqw) | 5:24 | 2020-10-30 |  |
 | [Wait On Time \- Live](https://open.spotify.com/track/6idWc3OukhbJmzdILw0KRb) | [King King](https://open.spotify.com/artist/4SXsNXgRundFdewI58vbZT) | [King King Live](https://open.spotify.com/album/05nIedmPU5AOXRPP6uztMv) | 6:23 | 2020-10-30 | 2022-07-29 |

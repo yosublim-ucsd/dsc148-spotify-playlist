@@ -2,9 +2,9 @@
 
 ### [Reggaetón Argentino](https://open.spotify.com/playlist/37i9dQZF1DXdoVgSepr1uh)
 
-> Perreo hecho en Argentina\. Foto: Angela Torres.
+> Perreo hecho en Argentina\. Foto: COSMIC KID & Bhavi.
 
-226 songs - 10 hr 51 min
+228 songs - 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [CHOKA CHOKA](https://open.spotify.com/track/1IqRotJFTJdprbNtm7Ja0j) | [Anto Bosman](https://open.spotify.com/artist/2K9VXOc9XDfKie7ASSCMIa) | [CHOKA CHOKA](https://open.spotify.com/album/3uj4YB1j4R5r4Hkol6pbVI) | 2:24 | 2023-05-02 | 2024-01-20 |
 | [CLASS \#02: DT.Bilardo](https://open.spotify.com/track/4HV2sYJyHhhm3ekf4EEewk) | [JCKC](https://open.spotify.com/artist/6Sf9Y7eQWVeAioiBobktSu), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [CLASS \#02: DT.Bilardo](https://open.spotify.com/album/35Gj65krTFwrrU5ZgNQFZo) | 2:31 | 2023-03-03 |  |
 | [Como Antes](https://open.spotify.com/track/42we2zjPoYkN2S79iRaLG6) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [Géminis](https://open.spotify.com/album/2pBiSMw2ttPMNgqG6m9FFP) | 3:02 | 2022-05-24 | 2023-10-01 |
-| [CONEXXXIÓN](https://open.spotify.com/track/72ICF2K74z1e0z8KIRP7HJ) | [G Sony](https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT), [John C](https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS) | [CONEXXXIÓN](https://open.spotify.com/album/3zqBhwyCJ7a0JBw6R1Sr7q) | 3:38 | 2023-12-08 |  |
+| [CONEXXXIÓN](https://open.spotify.com/track/72ICF2K74z1e0z8KIRP7HJ) | [G Sony](https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT), [John C](https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS) | [CONEXXXIÓN](https://open.spotify.com/album/3zqBhwyCJ7a0JBw6R1Sr7q) | 3:38 | 2023-12-08 | 2024-02-24 |
 | [Copacabana](https://open.spotify.com/track/6TdKDyEmYreudp1NcvorV8) | [Ecko](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Copacabana](https://open.spotify.com/album/0wALAHwLS2U83B4fKSKwFR) | 1:57 | 2022-05-24 | 2022-07-29 |
 | [Cora Partido](https://open.spotify.com/track/287JhhKlTLuTzxp28ySSiO) | [ZHAE](https://open.spotify.com/artist/0RLlNL6R3nAkU6IpGT0gn9), [Ivan Armesto](https://open.spotify.com/artist/2JCTGC05daU0leldfrJg0d) | [Cora Partido](https://open.spotify.com/album/1uNQMBHfg8xOWBEsFxG1iV) | 3:23 | 2023-01-27 | 2023-02-04 |
 | [CORAZÓN VACÍO](https://open.spotify.com/track/3oNnzH6hmqIGIhJ1NcHlrh) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [CORAZÓN VACÍO](https://open.spotify.com/album/3YBQyY0Bj7bpxj0VHAse0P) | 2:40 | 2023-07-28 |  |
@@ -52,7 +52,7 @@
 | [De Pari](https://open.spotify.com/track/2oYbmygoO3gzLychByw297) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [De Pari](https://open.spotify.com/album/0DaXSOZtSBlAEXgUxLr9hj) | 2:54 | 2022-08-26 | 2023-05-13 |
 | [De Vacaciones](https://open.spotify.com/track/0hRKaSIym7bBRZ5oXLUsfx) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [De Vacaciones](https://open.spotify.com/album/3hGXppZGM4VXr1v3m6DVX3) | 2:21 | 2022-06-10 | 2022-11-19 |
 | [DEMASIAO](https://open.spotify.com/track/5QEGGxXA9ZecOBWnl4OjXx) | [Carla Clavijo](https://open.spotify.com/artist/4ljl1dpfeJKgNzhTIo6MEj), [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [DEMASIAO](https://open.spotify.com/album/41lRIKXwYbfJIxkd4Dz0bL) | 2:55 | 2023-08-11 | 2023-09-09 |
-| [Demoniaca](https://open.spotify.com/track/6gy9Yq41AuEnRO6xGWg08M) | [John C](https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS) | [Demoniaca](https://open.spotify.com/album/5NvVz9LHHLlweQN4TX6Dc0) | 2:20 | 2023-12-08 |  |
+| [Demoniaca](https://open.spotify.com/track/6gy9Yq41AuEnRO6xGWg08M) | [John C](https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS) | [Demoniaca](https://open.spotify.com/album/5NvVz9LHHLlweQN4TX6Dc0) | 2:20 | 2023-12-08 | 2024-02-24 |
 | [Deseo](https://open.spotify.com/track/3m5GNXrG2lD855oNa1WiYw) | [Romeo El Santo](https://open.spotify.com/artist/7b2GRLYNoKPanoqh7lzsbT), [Tomm](https://open.spotify.com/artist/6E8xEoc2l0qAsP3uHKD2JP) | [Deseo](https://open.spotify.com/album/3SEImr1IJWKC5ZQC4Bz0OG) | 3:56 | 2023-06-23 |  |
 | [Dime Dónde](https://open.spotify.com/track/4cvNRoECGS2sUiw5Q5RRsb) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Dime Dónde](https://open.spotify.com/album/2dAGcCM4RdkYzQXih5gg7c) | 3:00 | 2022-05-24 |  |
 | [DISCOTEKA](https://open.spotify.com/track/4NkJeL16uUJJJFuZPvR1DC) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [DISCOTEKA](https://open.spotify.com/album/0XJBQZQTh3OZCt5ACMtEAs) | 2:54 | 2022-08-26 | 2023-04-01 |
@@ -85,6 +85,7 @@
 | [Frío](https://open.spotify.com/track/0df1oUN5ta7FSWwjGvhHa5) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Frío](https://open.spotify.com/album/4ya6dMKyTfwrrcdkoROD8O) | 2:35 | 2022-11-25 |  |
 | [FULL TIME](https://open.spotify.com/track/7fJOUPnEllozwkRoKVuddk) | [Broke Carrey](https://open.spotify.com/artist/6FWTqLIVK9jjMGcNJnF7xE) | [FULL TIME](https://open.spotify.com/album/2lbVpm9aZdZiOC5RyenQXR) | 2:27 | 2023-02-17 |  |
 | [GABBANA](https://open.spotify.com/track/2wxduF3ZwN5adsNjqfcysB) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [GABBANA](https://open.spotify.com/album/11CEP18aU8lXxZbQEv3wsF) | 2:51 | 2022-05-24 |  |
+| [GABO EL CHAMAQUITO \| TURBULENCIA 5 \| UN VIAJE](https://open.spotify.com/track/3xTLLPiK9glyehWMs3IA2V) | [Mateo Ribak](https://open.spotify.com/artist/0fBXgmsLCNrvrNbVgtuokv), [Gabo El Chamaquito](https://open.spotify.com/artist/6Fz1LTRJ7RAuUf1CRSN3dU) | [GABO EL CHAMAQUITO \| TURBULENCIA 5 \| UN VIAJE](https://open.spotify.com/album/6iVB9OKZB5otCVrgoaJick) | 2:38 | 2024-02-23 |  |
 | [Ganado](https://open.spotify.com/track/0BeZa24dBOLWkZMLKc5lTz) | [Locura Mix](https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv), [R Jota](https://open.spotify.com/artist/48nBjHQMSKiboD7Z4fjZLi) | [Ganado](https://open.spotify.com/album/6UriVSnfc57grPiDYrSriF) | 2:50 | 2023-12-08 |  |
 | [Gatas](https://open.spotify.com/track/4Z6ucGPXIzZZTN70Q7KQM0) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Gatas](https://open.spotify.com/album/31dhzIDFoaVAwcN3bBwgNA) | 2:12 | 2022-05-24 |  |
 | [Goodbye](https://open.spotify.com/track/3gVnDk9My0gZJfeMsVMH64) | [Lula RKT](https://open.spotify.com/artist/2SeUrRGDqeVT9mFwcmK96g) | [Goodbye](https://open.spotify.com/album/3JjXYcOLYr3TzwWkXpmdcd) | 2:38 | 2022-05-24 | 2022-08-06 |
@@ -144,6 +145,7 @@
 | [Mojate](https://open.spotify.com/track/5fmKs2C2IuvTWv24oxeVmU) | [El Villano](https://open.spotify.com/artist/6nEgkeR03q2qtKZmrVq100), [Santin Lotty](https://open.spotify.com/artist/0Yr1qhvpxZndglpOrbYkXw) | [Mojate](https://open.spotify.com/album/6F7Run8Ltsg0WQ0T7qtsP0) | 3:15 | 2022-08-05 | 2024-01-27 |
 | [MotaMoto](https://open.spotify.com/track/4IuJPZXhwuEVP4F0Xz261V) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [MotaMoto](https://open.spotify.com/album/5yXc9YYgTGVOiUVGJtN6Fl) | 2:28 | 2023-09-29 |  |
 | [Móntate](https://open.spotify.com/track/19vWrX2vCODKV5cPK8DpAN) | [Iacho](https://open.spotify.com/artist/6ybOB74nYTUpM6VGiP1egr), [Hazze](https://open.spotify.com/artist/6I4wcPs18A8lyviDCZsVH6) | [Móntate](https://open.spotify.com/album/3kwz5RqbMhHNqgAnl5avUV) | 2:58 | 2022-05-24 | 2023-02-18 |
+| [NAMORE](https://open.spotify.com/track/64SYEHUUlSpAxQtRuMlmDy) | [COSMIC KID](https://open.spotify.com/artist/4JuwA35M2yrQkpOSokiH9h), [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR) | [NAMORE](https://open.spotify.com/album/2JNOFTWXIFcEm5q0onRTGt) | 2:39 | 2024-02-23 |  |
 | [No Me Conocen \(Remix\) \[con DUKI, Rei & Tiago PZK\]](https://open.spotify.com/track/7COGuXyTr12KvdaYXMqheC) | [BANDIDO](https://open.spotify.com/artist/7CSpCpNGTK9589bTi44SzE), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [No Me Conocen \(Remix\) \(Con Duki, Rei & Tiago Pzk\)](https://open.spotify.com/album/5aPphlcyYDCyKddSFOWJpe) | 4:40 | 2022-05-24 | 2023-05-13 |
 | [No Me Quieren](https://open.spotify.com/track/4rcYqqMOw48muBddStyu2A) | [7Darytra](https://open.spotify.com/artist/0RFfwOPf7zMXv0UqZNXjsp), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [No Me Quieren](https://open.spotify.com/album/4BU0pbp5BjbXqUzfUtMg7a) | 2:33 | 2024-02-16 |  |
 | [No Somos](https://open.spotify.com/track/3Vef314Yps41CxqiHF13sK) | [Eme Sarav](https://open.spotify.com/artist/0QH2EQUeL4yhzlFC9XXjC2), [SARAVIA WESTCOAST](https://open.spotify.com/artist/53hJNfIhVlw4ePTyefMbqV) | [No Somos](https://open.spotify.com/album/15kVL1lRyOxNWCsFuMZ0TI) | 3:08 | 2023-03-31 |  |

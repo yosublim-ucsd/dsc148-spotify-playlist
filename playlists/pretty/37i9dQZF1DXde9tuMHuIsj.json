@@ -1,12 +1,12 @@
 {
   "description": "The best of Latin Trap. Cover: Brytiago, Noriel, Juhn, Baby Rasta, Anonimus",
-  "num_followers": 1494545,
+  "num_followers": 1494533,
   "original_name": "Trap Land",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZGQ1Zjc4Mzg3MTM0MWEwOTllNTM1ZjAzNDg2ZjY3NThhMjMzMWI5",
+  "snapshot_id": "MCw2MmI4MzI3YWNlMjA1MTMzNDFlM2Y1ZjRmOWYzYzMzY2YyMWU2MjA4",
   "tracks": [
     {
       "added_at": "2024-02-09 05:00:00",
@@ -495,22 +495,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Tempo",
-        "url": "https://open.spotify.com/album/5TWuIEEbRxkdyn9HgiV69n"
+        "name": "GIVENCHY",
+        "url": "https://open.spotify.com/album/4yNnIoQh8y1uDB6ScOS2vx"
       },
       "artists": [
         {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
         }
       ],
-      "duration_ms": 107906,
-      "name": "Tempo",
-      "url": "https://open.spotify.com/track/7icIDep1Jr3oJdgJSGsdnM"
+      "duration_ms": 182610,
+      "name": "GIVENCHY",
+      "url": "https://open.spotify.com/track/6bTVP50bbtMtD6RGe2cUoQ"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -547,18 +543,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "GIVENCHY",
-        "url": "https://open.spotify.com/album/4yNnIoQh8y1uDB6ScOS2vx"
+        "name": "Tempo",
+        "url": "https://open.spotify.com/album/5TWuIEEbRxkdyn9HgiV69n"
       },
       "artists": [
         {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
         }
       ],
-      "duration_ms": 182610,
-      "name": "GIVENCHY",
-      "url": "https://open.spotify.com/track/6bTVP50bbtMtD6RGe2cUoQ"
+      "duration_ms": 107906,
+      "name": "Tempo",
+      "url": "https://open.spotify.com/track/7icIDep1Jr3oJdgJSGsdnM"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Manhattan",
+        "url": "https://open.spotify.com/album/1Hg5PSA16edGh2KZXxMpjN"
+      },
+      "artists": [
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        }
+      ],
+      "duration_ms": 130961,
+      "name": "Manhattan",
+      "url": "https://open.spotify.com/track/2YIkop8YguSz17oRABRXIp"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Baja y Sube",
         "url": "https://open.spotify.com/album/1JSmYKbA5QmaerpftwdFe4"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 170422,
       "name": "Baja y Sube",
       "url": "https://open.spotify.com/track/19HdxwjuhFbN3trAA6EHYJ"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Manhattan",
-        "url": "https://open.spotify.com/album/1Hg5PSA16edGh2KZXxMpjN"
-      },
-      "artists": [
-        {
-          "name": "Hades66",
-          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
-        }
-      ],
-      "duration_ms": 130961,
-      "name": "Manhattan",
-      "url": "https://open.spotify.com/track/2YIkop8YguSz17oRABRXIp"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1227,30 +1227,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Al Otro Nivel",
-        "url": "https://open.spotify.com/album/2RS3obBX5SSEQE1e2TEdtZ"
-      },
-      "artists": [
-        {
-          "name": "Ovi",
-          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
-        },
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        },
-        {
-          "name": "Luar La L",
-          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
-        }
-      ],
-      "duration_ms": 286754,
-      "name": "Al Otro Nivel",
-      "url": "https://open.spotify.com/track/2WJXba0CALXqWk8ghw2RiR"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "G Spot",
         "url": "https://open.spotify.com/album/0OGm90v3LUf6pZyeI55yTc"
       },
@@ -1315,18 +1291,26 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "JS4E",
-        "url": "https://open.spotify.com/album/1SKRBnPekNhaxB503BgR8U"
+        "name": "Al Otro Nivel",
+        "url": "https://open.spotify.com/album/2RS3obBX5SSEQE1e2TEdtZ"
       },
       "artists": [
         {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+          "name": "Ovi",
+          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
         }
       ],
-      "duration_ms": 237750,
-      "name": "JS4E",
-      "url": "https://open.spotify.com/track/5iaFGC7XdmWmfwxV9JUPY6"
+      "duration_ms": 286754,
+      "name": "Al Otro Nivel",
+      "url": "https://open.spotify.com/track/2WJXba0CALXqWk8ghw2RiR"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1343,6 +1327,22 @@
       "duration_ms": 147593,
       "name": "Estikei",
       "url": "https://open.spotify.com/track/7LjWg30pfLnp31pXulL8z1"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "JS4E",
+        "url": "https://open.spotify.com/album/1SKRBnPekNhaxB503BgR8U"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 237750,
+      "name": "JS4E",
+      "url": "https://open.spotify.com/track/5iaFGC7XdmWmfwxV9JUPY6"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "La 2blea",
+        "url": "https://open.spotify.com/album/7KfcmAvUwDPc3bUYLFje76"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 325562,
+      "name": "La 2blea",
+      "url": "https://open.spotify.com/track/3gOVQmGQcg8djqU044liT1"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "CC (Remix)",
         "url": "https://open.spotify.com/album/3kHMc3S6pPS9gODoTwhDTH"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 242870,
       "name": "CC - Remix",
       "url": "https://open.spotify.com/track/1sMMcQDlV626GPvzJaGSFx"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "La 2blea",
-        "url": "https://open.spotify.com/album/7KfcmAvUwDPc3bUYLFje76"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 325562,
-      "name": "La 2blea",
-      "url": "https://open.spotify.com/track/3gOVQmGQcg8djqU044liT1"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Nosotros",
-        "url": "https://open.spotify.com/album/1BiWw1GQjHsvqG4SZPYjaV"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 262722,
-      "name": "Nosotros",
-      "url": "https://open.spotify.com/track/4o5kWgO8DVkEXO54fdXR3l"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Anfetamina",
         "url": "https://open.spotify.com/album/7J6peVThlSZeHce1YMyW9n"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 193332,
       "name": "Juanito Alima\u00f1a",
       "url": "https://open.spotify.com/track/0qyBcGtF6GrRwnfRH8ezzK"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Nosotros",
+        "url": "https://open.spotify.com/album/1BiWw1GQjHsvqG4SZPYjaV"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 262722,
+      "name": "Nosotros",
+      "url": "https://open.spotify.com/track/4o5kWgO8DVkEXO54fdXR3l"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1759,6 +1759,26 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Diamantes En Mis Dientes",
+        "url": "https://open.spotify.com/album/6RDNuiTLjCUCcGq1nR1aQT"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        }
+      ],
+      "duration_ms": 344602,
+      "name": "Diamantes en Mis Dientes",
+      "url": "https://open.spotify.com/track/4bJ6YKzyVTnhOrSpccGQeN"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "CODA",
         "url": "https://open.spotify.com/album/4Z3uC2a3xxwnTCeCbAz6t1"
       },
@@ -1779,26 +1799,6 @@
       "duration_ms": 197500,
       "name": "White Socks",
       "url": "https://open.spotify.com/track/2sEBxymOvbJIDHOfnZFzCS"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Diamantes En Mis Dientes",
-        "url": "https://open.spotify.com/album/6RDNuiTLjCUCcGq1nR1aQT"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "YOVNGCHIMI",
-          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
-        }
-      ],
-      "duration_ms": 344602,
-      "name": "Diamantes en Mis Dientes",
-      "url": "https://open.spotify.com/track/4bJ6YKzyVTnhOrSpccGQeN"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1867,26 +1867,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "La Mini",
-        "url": "https://open.spotify.com/album/38j8f4kwWyynEWRnc8zEIc"
-      },
-      "artists": [
-        {
-          "name": "Casper Magico",
-          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 213831,
-      "name": "La Mini",
-      "url": "https://open.spotify.com/track/4xXPv6ic5Zq1vRvxRFxuo8"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Invicta",
         "url": "https://open.spotify.com/album/0TtmDFGPisyjYmdtWfN9DH"
       },
@@ -1903,6 +1883,26 @@
       "duration_ms": 240300,
       "name": "Invicta",
       "url": "https://open.spotify.com/track/7xlnIcw4lE6BMATPQXnqHf"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "La Mini",
+        "url": "https://open.spotify.com/album/38j8f4kwWyynEWRnc8zEIc"
+      },
+      "artists": [
+        {
+          "name": "Casper Magico",
+          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 213831,
+      "name": "La Mini",
+      "url": "https://open.spotify.com/track/4xXPv6ic5Zq1vRvxRFxuo8"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -2027,6 +2027,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Hoodie",
+        "url": "https://open.spotify.com/album/7khVi5TFgnk7RkKP7e9ttP"
+      },
+      "artists": [
+        {
+          "name": "Omy de Oro",
+          "url": "https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi"
+        }
+      ],
+      "duration_ms": 174130,
+      "name": "Hoodie",
+      "url": "https://open.spotify.com/track/0tDLDI57XWC0ZTrfxKJVmB"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Pitcher",
         "url": "https://open.spotify.com/album/2k98cU83ZXIFQpAikP1xyU"
       },
@@ -2059,22 +2075,6 @@
       "duration_ms": 236124,
       "name": "7D",
       "url": "https://open.spotify.com/track/3n9kzmIGnkYf3WCxC2cO1I"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Hoodie",
-        "url": "https://open.spotify.com/album/7khVi5TFgnk7RkKP7e9ttP"
-      },
-      "artists": [
-        {
-          "name": "Omy de Oro",
-          "url": "https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi"
-        }
-      ],
-      "duration_ms": 174130,
-      "name": "Hoodie",
-      "url": "https://open.spotify.com/track/0tDLDI57XWC0ZTrfxKJVmB"
     },
     {
       "added_at": "2024-02-09 05:00:00",

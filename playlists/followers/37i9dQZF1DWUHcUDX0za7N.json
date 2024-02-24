@@ -1,7 +1,7 @@
 {
-  "2024-02-23": 43720,
+  "2024-02-24": 43787,
   "date_first_scraped": "2022-10-01",
-  "description": "Hip hop and rap music from Nigeria. Cover: <a href=\"https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk?si=JvKPycNvTJCSkQ73WwDcDA\"> Jeriq </a> and <a href=\"https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr?si=q5HdY1aKQ0aPWERT9SuRMw\"> PsychoYP</a>",
+  "description": "Hip hop and rap music from Nigeria. Cover: <a href=\"https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW?si=vxymvPdCSwSPLOgqLXMARw\"> King Perryy</a>",
   "name": "Naija Bars ",
   "tracks": [
     {
@@ -1409,7 +1409,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 160610,
       "name": "CLEAR",
       "url": "https://open.spotify.com/track/10UV0GA408i11E6eSloCb4"
@@ -1727,10 +1727,40 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 181786,
       "name": "Demons & Angels",
       "url": "https://open.spotify.com/track/67GWgzQyDPXRSt8PcodrG4"
+    },
+    {
+      "album": {
+        "name": "Denge 3.0",
+        "url": "https://open.spotify.com/album/30oF6LFNkttC3Mtktz9Zb9"
+      },
+      "artists": [
+        {
+          "name": "King Perryy",
+          "url": "https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW"
+        },
+        {
+          "name": "Marioo",
+          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
+        },
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        },
+        {
+          "name": "Savara",
+          "url": "https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209578,
+      "name": "Denge 3.0",
+      "url": "https://open.spotify.com/track/2SXbzZhAJs0vF3h6fQhtT2"
     },
     {
       "album": {
@@ -2118,6 +2148,32 @@
     },
     {
       "album": {
+        "name": "Ebelebe",
+        "url": "https://open.spotify.com/album/2EViC0HI5jyqtpa6kpqhpY"
+      },
+      "artists": [
+        {
+          "name": "KCee",
+          "url": "https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG"
+        },
+        {
+          "name": "Skiibii",
+          "url": "https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE"
+        },
+        {
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172631,
+      "name": "Ebelebe",
+      "url": "https://open.spotify.com/track/7mDVlwNJ0pY6xOmDn7D7u3"
+    },
+    {
+      "album": {
         "name": "Egberi",
         "url": "https://open.spotify.com/album/3sL4tYNg9xEmoL5uX5M1RP"
       },
@@ -2129,7 +2185,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 139714,
       "name": "Egberi",
       "url": "https://open.spotify.com/track/1pt9MqNMJQUHtdTwaswwwR"
@@ -2493,7 +2549,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-20",
+      "date_removed": null,
       "duration_ms": 205211,
       "name": "Fuck That (feat. ODUMODUBLVCK) - Remix",
       "url": "https://open.spotify.com/track/2sKuOOhxWpXOTDcKiTitc9"
@@ -2559,6 +2615,28 @@
       "duration_ms": 189026,
       "name": "Gbedu",
       "url": "https://open.spotify.com/track/1XhTCQFzYcgFeJpkw2x2VV"
+    },
+    {
+      "album": {
+        "name": "BLESSED",
+        "url": "https://open.spotify.com/album/0s2MBUOX5nPs0zjc7eukuZ"
+      },
+      "artists": [
+        {
+          "name": "Berri-Tiga",
+          "url": "https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB"
+        },
+        {
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151578,
+      "name": "German Machine (feat. Jeriq)",
+      "url": "https://open.spotify.com/track/6TEseDlC0o2lkim735xKhU"
     },
     {
       "album": {
@@ -2993,7 +3071,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 145454,
       "name": "I LOOK GOOD",
       "url": "https://open.spotify.com/track/5hSiM6ctEOTsQAMBjidq2r"
@@ -3337,7 +3415,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-20",
+      "date_removed": null,
       "duration_ms": 165929,
       "name": "Joy",
       "url": "https://open.spotify.com/track/1YTNRddcxKyMheo9HkxBJU"
@@ -4175,7 +4253,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 182373,
       "name": "My Way No Be Your Way",
       "url": "https://open.spotify.com/track/6FNFp1ZvhAv5sZm2sMATg9"
@@ -6545,7 +6623,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 161250,
       "name": "Sure For Me",
       "url": "https://open.spotify.com/track/0VjXPkSuALkZYj27uS3wlP"
@@ -7265,7 +7343,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-17",
+      "date_removed": null,
       "duration_ms": 143692,
       "name": "WELCOME 2 MY STRIP (Feat. ODUMODUBLVCK)",
       "url": "https://open.spotify.com/track/58QstEOypB4xIe3ta8Qhya"

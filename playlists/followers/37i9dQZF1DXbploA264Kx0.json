@@ -1,7 +1,7 @@
 {
-  "2024-02-23": 24108,
+  "2024-02-24": 24111,
   "date_first_scraped": "2024-01-30",
-  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: BAER",
+  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Mong Tong",
   "name": "The Sound of Formosa",
   "tracks": [
     {
@@ -75,7 +75,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 188750,
       "name": "All Right",
       "url": "https://open.spotify.com/track/6QisFwVX3ub7juPflH7638"
@@ -296,6 +296,24 @@
     },
     {
       "album": {
+        "name": "Felt",
+        "url": "https://open.spotify.com/album/1BylzdJuG9vR6TLTeRYxg8"
+      },
+      "artists": [
+        {
+          "name": "Mong Tong",
+          "url": "https://open.spotify.com/artist/61QVaGjYK4UNd6uTz7Lzuo"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144500,
+      "name": "Felt",
+      "url": "https://open.spotify.com/track/4xMdEsDUYLBbrVR7cfRc7S"
+    },
+    {
+      "album": {
         "name": "FLAME (feat. MANDARK)",
         "url": "https://open.spotify.com/album/0kzjxi4mX2pWh5WOJU29M7"
       },
@@ -445,6 +463,24 @@
       "duration_ms": 148000,
       "name": "LAST GOODBYE",
       "url": "https://open.spotify.com/track/4sTjUYjIC02RkNa1A8rWjE"
+    },
+    {
+      "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/5NJGsSkcBtzm8qRG4DB7nP"
+      },
+      "artists": [
+        {
+          "name": "Hurshel",
+          "url": "https://open.spotify.com/artist/6z6uBfaMCKFCDIuHNYhRra"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Lover",
+      "url": "https://open.spotify.com/track/5RjRlnM5doKCqBv0ureyJe"
     },
     {
       "album": {
@@ -873,7 +909,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 123000,
       "name": "Terracotta",
       "url": "https://open.spotify.com/track/3yycg2Wzo2Rv3t4nTdQiq8"

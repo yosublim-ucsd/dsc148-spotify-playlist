@@ -1,5 +1,5 @@
 {
-  "2024-02-23": 40107,
+  "2024-02-24": 40119,
   "date_first_scraped": "2022-01-21",
   "description": "M\u00fasicas ac\u00fasticas para acompanhar sua sess\u00e3o de pilates.",
   "name": "Pilates Ac\u00fastico",
@@ -533,6 +533,24 @@
       "duration_ms": 259893,
       "name": "Blackbird - Special Edition",
       "url": "https://open.spotify.com/track/0UHG3Gy4tL87HzRktavNr1"
+    },
+    {
+      "album": {
+        "name": "Blinding Lights",
+        "url": "https://open.spotify.com/album/34fwE3cLPQVlNRA8seANC1"
+      },
+      "artists": [
+        {
+          "name": "Demi Femme",
+          "url": "https://open.spotify.com/artist/2d09AaNvj1TRW0GociCEDY"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206819,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/7q8Tf2APnxcQWKT69nfegF"
     },
     {
       "album": {
@@ -1669,7 +1687,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 163414,
       "name": "Hallelujah I Love Her So",
       "url": "https://open.spotify.com/track/4Fuyarf5fHo2zJ6GoYC48N"
@@ -1803,7 +1821,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 167320,
       "name": "Head & Heart",
       "url": "https://open.spotify.com/track/27myNEFJ7BAeUStyFTHvuB"
@@ -1929,7 +1947,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 167293,
       "name": "here comes the sun",
       "url": "https://open.spotify.com/track/3XTjsOmjzu5fVDCTlLpgIQ"
@@ -2323,7 +2341,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 150066,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6E6OwPVfP85uS119yFg1WZ"
@@ -2941,6 +2959,24 @@
       "duration_ms": 214626,
       "name": "One Great Mystery",
       "url": "https://open.spotify.com/track/1lTcbMQTEIYBsdPRGsWMvp"
+    },
+    {
+      "album": {
+        "name": "Only Girl In The World",
+        "url": "https://open.spotify.com/album/3AjamrNkp98f9m0QEDXCDG"
+      },
+      "artists": [
+        {
+          "name": "Norah Davis",
+          "url": "https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226181,
+      "name": "Only Girl In The World",
+      "url": "https://open.spotify.com/track/0KOLKV454e5cN98pyHGMjL"
     },
     {
       "album": {

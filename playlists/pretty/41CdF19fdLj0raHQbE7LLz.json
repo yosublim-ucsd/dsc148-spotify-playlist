@@ -6,8 +6,228 @@
     "name": "spektrelive",
     "url": "https://open.spotify.com/user/spektrelive"
   },
-  "snapshot_id": "MTgyOSxjYjI5ZDg1NTI5ZWY5NzliNTBjODFjM2JhMmNiOWVlMThkNTQxN2Rh",
+  "snapshot_id": "MTg1MywyZjcyZDExYjlmNDI1ZjA2ZjIyN2NjZTNjNTI0YWI5OWU4MmRiYWQx",
   "tracks": [
+    {
+      "added_at": "2024-02-23 11:40:41",
+      "album": {
+        "name": "Dodgems",
+        "url": "https://open.spotify.com/album/1naBLI1pkepEzgoahwj4Ny"
+      },
+      "artists": [
+        {
+          "name": "Spektre",
+          "url": "https://open.spotify.com/artist/2jop7P9uKGHVtQAv59lDxT"
+        }
+      ],
+      "duration_ms": 222422,
+      "name": "Dodgems",
+      "url": "https://open.spotify.com/track/6BisIQ370CusHlyAAJrPOq"
+    },
+    {
+      "added_at": "2024-02-23 11:49:27",
+      "album": {
+        "name": "Stand",
+        "url": "https://open.spotify.com/album/2dpCqbwxbecA7LUZrdyZxz"
+      },
+      "artists": [
+        {
+          "name": "Victor Ruiz",
+          "url": "https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z"
+        },
+        {
+          "name": "Wehbba",
+          "url": "https://open.spotify.com/artist/2UzAShzs3DO53bSZqvf8Ri"
+        }
+      ],
+      "duration_ms": 382033,
+      "name": "Stand",
+      "url": "https://open.spotify.com/track/2DYGES8871Aqe2mbfGfkcn"
+    },
+    {
+      "added_at": "2024-02-23 11:41:22",
+      "album": {
+        "name": "Strip Silence",
+        "url": "https://open.spotify.com/album/0horKjiWcPV9hbJYvQZctR"
+      },
+      "artists": [
+        {
+          "name": "Thomas Schumacher",
+          "url": "https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD"
+        }
+      ],
+      "duration_ms": 208467,
+      "name": "Strip Silence",
+      "url": "https://open.spotify.com/track/7MtlullydBAfjdespOgTbQ"
+    },
+    {
+      "added_at": "2024-02-23 11:41:42",
+      "album": {
+        "name": "Let's Begin",
+        "url": "https://open.spotify.com/album/3G95YugyYcr8ty6fIM1P5P"
+      },
+      "artists": [
+        {
+          "name": "Adam Beyer",
+          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+        }
+      ],
+      "duration_ms": 250147,
+      "name": "Let's Begin",
+      "url": "https://open.spotify.com/track/008Q1wg8oH594VO9XkolM8"
+    },
+    {
+      "added_at": "2024-02-23 11:42:24",
+      "album": {
+        "name": "Future EP",
+        "url": "https://open.spotify.com/album/1WQk0mUm3kbWw6fp429u8m"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Taboada",
+          "url": "https://open.spotify.com/artist/6dcbo1dJld5wdwLeno5MBE"
+        }
+      ],
+      "duration_ms": 379090,
+      "name": "The Future",
+      "url": "https://open.spotify.com/track/2HdtntYyvwZrZtXDpvjNNj"
+    },
+    {
+      "added_at": "2024-02-23 11:42:41",
+      "album": {
+        "name": "Hydra",
+        "url": "https://open.spotify.com/album/1MvcVnDrefnFTV3swzFAvs"
+      },
+      "artists": [
+        {
+          "name": "Alex Stein",
+          "url": "https://open.spotify.com/artist/0SCFEgshN89tlgOPM7lbSB"
+        }
+      ],
+      "duration_ms": 270447,
+      "name": "Hydra",
+      "url": "https://open.spotify.com/track/24TLhKH7Sa89pSPchSjd7a"
+    },
+    {
+      "added_at": "2024-02-23 11:42:55",
+      "album": {
+        "name": "Disconnect Me",
+        "url": "https://open.spotify.com/album/33gbMrZIToO9ark2S7Ri1S"
+      },
+      "artists": [
+        {
+          "name": "Kai Tracid",
+          "url": "https://open.spotify.com/artist/0frSMmZSEdr8pVRi8PBSwF"
+        },
+        {
+          "name": "Patrik Berg",
+          "url": "https://open.spotify.com/artist/13SB6LyYpsdN2QPEqpYS9l"
+        }
+      ],
+      "duration_ms": 342857,
+      "name": "Disconnect Me",
+      "url": "https://open.spotify.com/track/725gTXSBCLwjb9B73g0ScG"
+    },
+    {
+      "added_at": "2024-02-23 11:43:55",
+      "album": {
+        "name": "Body Control",
+        "url": "https://open.spotify.com/album/1FWQwkUm9Yr11Ul0Y8VxIf"
+      },
+      "artists": [
+        {
+          "name": "Mark Reeve",
+          "url": "https://open.spotify.com/artist/58zZkWGb6qvx0AJ6L3ttlZ"
+        }
+      ],
+      "duration_ms": 274946,
+      "name": "Imagine",
+      "url": "https://open.spotify.com/track/5yXuEHlgicmMMg84wvZn9u"
+    },
+    {
+      "added_at": "2024-02-23 11:44:09",
+      "album": {
+        "name": "Salvation",
+        "url": "https://open.spotify.com/album/2Q2Ht874IgNK0pyxgoU5Wr"
+      },
+      "artists": [
+        {
+          "name": "Ignacio Arfeli",
+          "url": "https://open.spotify.com/artist/53nQsmYO19z1chV4aSVzlp"
+        }
+      ],
+      "duration_ms": 275294,
+      "name": "Cerise",
+      "url": "https://open.spotify.com/track/3ldz19A6jL0WJIHdCSzvI6"
+    },
+    {
+      "added_at": "2024-02-23 11:44:34",
+      "album": {
+        "name": "Universe",
+        "url": "https://open.spotify.com/album/7BFaVhQGBmKujKRWS28ZRd"
+      },
+      "artists": [
+        {
+          "name": "Jay Lumen",
+          "url": "https://open.spotify.com/artist/6rxmj7vNEofe96g84qMWoV"
+        }
+      ],
+      "duration_ms": 368000,
+      "name": "Universe",
+      "url": "https://open.spotify.com/track/6RXiGqIBXjuq5Sd1OiTxQh"
+    },
+    {
+      "added_at": "2024-02-23 11:49:23",
+      "album": {
+        "name": "Stand",
+        "url": "https://open.spotify.com/album/2dpCqbwxbecA7LUZrdyZxz"
+      },
+      "artists": [
+        {
+          "name": "Victor Ruiz",
+          "url": "https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z"
+        },
+        {
+          "name": "Wehbba",
+          "url": "https://open.spotify.com/artist/2UzAShzs3DO53bSZqvf8Ri"
+        }
+      ],
+      "duration_ms": 394681,
+      "name": "Silo",
+      "url": "https://open.spotify.com/track/0IyjF7JOgqSf1joUpAbZWx"
+    },
+    {
+      "added_at": "2024-02-23 11:40:45",
+      "album": {
+        "name": "Dodgems",
+        "url": "https://open.spotify.com/album/1naBLI1pkepEzgoahwj4Ny"
+      },
+      "artists": [
+        {
+          "name": "Spektre",
+          "url": "https://open.spotify.com/artist/2jop7P9uKGHVtQAv59lDxT"
+        }
+      ],
+      "duration_ms": 215370,
+      "name": "Sacrament",
+      "url": "https://open.spotify.com/track/6he9BFgl0Qjl9CqRdDdcUD"
+    },
+    {
+      "added_at": "2024-02-23 11:46:36",
+      "album": {
+        "name": "Gamma",
+        "url": "https://open.spotify.com/album/5DB8zXEH9uUXtUvN9y0ywW"
+      },
+      "artists": [
+        {
+          "name": "Beico",
+          "url": "https://open.spotify.com/artist/4tanconFCPopBgtTduGXTH"
+        }
+      ],
+      "duration_ms": 232727,
+      "name": "Gamma",
+      "url": "https://open.spotify.com/track/0s6r6zDtCvRX7OAgsiBNDk"
+    },
     {
       "added_at": "2024-01-31 18:52:22",
       "album": {
@@ -211,6 +431,22 @@
       "duration_ms": 370858,
       "name": "Dopemine",
       "url": "https://open.spotify.com/track/1DHpTZqedmXOahLu8HFHxT"
+    },
+    {
+      "added_at": "2024-02-23 11:43:17",
+      "album": {
+        "name": "Bell",
+        "url": "https://open.spotify.com/album/0wyKisLhaV7LDJPPkN8U4w"
+      },
+      "artists": [
+        {
+          "name": "Mha Iri",
+          "url": "https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Bell",
+      "url": "https://open.spotify.com/track/42iMxUFc8IoedPBcQySzW9"
     },
     {
       "added_at": "2023-10-16 14:24:07",
@@ -1177,6 +1413,22 @@
       "url": "https://open.spotify.com/track/0JqMQDPOIHFNVTmk8I0H5g"
     },
     {
+      "added_at": "2024-01-31 18:54:18",
+      "album": {
+        "name": "Clairvoyant",
+        "url": "https://open.spotify.com/album/03oox32OCziCwqYqMejYXg"
+      },
+      "artists": [
+        {
+          "name": "Crossbow",
+          "url": "https://open.spotify.com/artist/7w9hUQDypmlktoxpMa12dV"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Clairvoyant",
+      "url": "https://open.spotify.com/track/7sP4lDPMVGVrp5qSVjqXPD"
+    },
+    {
       "added_at": "2023-04-23 16:31:59",
       "album": {
         "name": "Outface (30 Yrs Jubilee Edition)",
@@ -1259,6 +1511,22 @@
       "duration_ms": 231114,
       "name": "Bodysnatcher",
       "url": "https://open.spotify.com/track/2ReU1R4wUEhCnrL8Q6Nf8a"
+    },
+    {
+      "added_at": "2024-01-31 18:54:22",
+      "album": {
+        "name": "Clairvoyant",
+        "url": "https://open.spotify.com/album/03oox32OCziCwqYqMejYXg"
+      },
+      "artists": [
+        {
+          "name": "Crossbow",
+          "url": "https://open.spotify.com/artist/7w9hUQDypmlktoxpMa12dV"
+        }
+      ],
+      "duration_ms": 241777,
+      "name": "Time Slip",
+      "url": "https://open.spotify.com/track/6TdvPhVuRv3wti78X8TRR0"
     },
     {
       "added_at": "2023-03-10 20:53:33",
@@ -1461,704 +1729,20 @@
       "url": "https://open.spotify.com/track/2J1BIrTZbRtDcivhqQIx5S"
     },
     {
-      "added_at": "2023-03-09 15:50:12",
+      "added_at": "2024-02-23 12:07:48",
       "album": {
-        "name": "Solar Deity",
-        "url": "https://open.spotify.com/album/259ZhVkGqI3NqzLKn4W9ZK"
+        "name": "Blood Music",
+        "url": "https://open.spotify.com/album/7G2AvIeq0JPXL3NHNYQrSe"
       },
       "artists": [
         {
-          "name": "Balthazar & JackRock",
-          "url": "https://open.spotify.com/artist/3xsLz1pGRgDfTozxS4RgGA"
+          "name": "Pleasurekraft",
+          "url": "https://open.spotify.com/artist/4ipS3ZbqP46bs124yqp9N4"
         }
       ],
-      "duration_ms": 384705,
-      "name": "Vibrant",
-      "url": "https://open.spotify.com/track/4eP8dsBqUZam0SCFOEtOsJ"
-    },
-    {
-      "added_at": "2023-03-09 15:37:44",
-      "album": {
-        "name": "Claptrap",
-        "url": "https://open.spotify.com/album/1w2LMklzYKEjJYT5yCqvyc"
-      },
-      "artists": [
-        {
-          "name": "Crossbow",
-          "url": "https://open.spotify.com/artist/7w9hUQDypmlktoxpMa12dV"
-        }
-      ],
-      "duration_ms": 276363,
-      "name": "Claptrap",
-      "url": "https://open.spotify.com/track/1wxgrpzFQPePRLW4YKYvJN"
-    },
-    {
-      "added_at": "2023-03-09 15:39:50",
-      "album": {
-        "name": "Just Listen",
-        "url": "https://open.spotify.com/album/2yJfKPEOzGnhf6VfN6Fmlz"
-      },
-      "artists": [
-        {
-          "name": "D-Unity",
-          "url": "https://open.spotify.com/artist/3IpAthjvdkddgfMSsURuMF"
-        }
-      ],
-      "duration_ms": 371470,
-      "name": "Just Listen",
-      "url": "https://open.spotify.com/track/3ZXZ1CHb11IoytIZB6ap1X"
-    },
-    {
-      "added_at": "2023-03-09 15:43:18",
-      "album": {
-        "name": "Emotion",
-        "url": "https://open.spotify.com/album/6DEH1uKcz7I7VJDqlFh0Re"
-      },
-      "artists": [
-        {
-          "name": "Torsten Kanzler",
-          "url": "https://open.spotify.com/artist/6ivd3NhMvn9EIN64Q3lqik"
-        },
-        {
-          "name": "Dok & Martin",
-          "url": "https://open.spotify.com/artist/1rV7LSzJ2ZzL3FicYplmLX"
-        }
-      ],
-      "duration_ms": 453566,
-      "name": "Emotion - Dok & Martin Remix",
-      "url": "https://open.spotify.com/track/4DI1rMTIxpoT5Ctoe3bEwO"
-    },
-    {
-      "added_at": "2023-03-09 15:50:07",
-      "album": {
-        "name": "Solar Deity",
-        "url": "https://open.spotify.com/album/259ZhVkGqI3NqzLKn4W9ZK"
-      },
-      "artists": [
-        {
-          "name": "Balthazar & JackRock",
-          "url": "https://open.spotify.com/artist/3xsLz1pGRgDfTozxS4RgGA"
-        }
-      ],
-      "duration_ms": 384009,
-      "name": "Solar Deity",
-      "url": "https://open.spotify.com/track/1EGRJ6ekCKA3DigfsFTce6"
-    },
-    {
-      "added_at": "2023-03-09 15:52:06",
-      "album": {
-        "name": "Life Moves Fast",
-        "url": "https://open.spotify.com/album/0oNJfZFoypJFKQtOHAvPgW"
-      },
-      "artists": [
-        {
-          "name": "Layton Giordani",
-          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
-        }
-      ],
-      "duration_ms": 233673,
-      "name": "Life Moves Fast",
-      "url": "https://open.spotify.com/track/2qnLd7v8htk8uHQaoUecLs"
-    },
-    {
-      "added_at": "2023-03-09 15:52:20",
-      "album": {
-        "name": "Connection",
-        "url": "https://open.spotify.com/album/7bkflTRV13PDtvSQnQlGE1"
-      },
-      "artists": [
-        {
-          "name": "Alessandro D'Avenia",
-          "url": "https://open.spotify.com/artist/6cgN3FkBzzZnNiHmTXejz5"
-        }
-      ],
-      "duration_ms": 363920,
-      "name": "Catalyst",
-      "url": "https://open.spotify.com/track/0NKy73GIkZmlpPQzTuExnV"
-    },
-    {
-      "added_at": "2023-03-09 15:52:49",
-      "album": {
-        "name": "No Machine",
-        "url": "https://open.spotify.com/album/0RYXDmkTtshAYoSVPMkVZ5"
-      },
-      "artists": [
-        {
-          "name": "Ignacio Arfeli",
-          "url": "https://open.spotify.com/artist/53nQsmYO19z1chV4aSVzlp"
-        }
-      ],
-      "duration_ms": 485535,
-      "name": "No Machine",
-      "url": "https://open.spotify.com/track/0VNPppUqK8QrCvp5wJdRYw"
-    },
-    {
-      "added_at": "2023-03-09 15:54:48",
-      "album": {
-        "name": "Rampage",
-        "url": "https://open.spotify.com/album/7mdj42dRWVQlGymjVO99OE"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/5zFtqMfPtmGuKZEjepbVDW"
-        }
-      ],
-      "duration_ms": 367845,
-      "name": "Indecision",
-      "url": "https://open.spotify.com/track/0Rstpcbxc6EOzMJcp8YWdO"
-    },
-    {
-      "added_at": "2023-03-09 15:56:03",
-      "album": {
-        "name": "Roll",
-        "url": "https://open.spotify.com/album/1vYApAmugZIaBjonjqlSQC"
-      },
-      "artists": [
-        {
-          "name": "Resonances (IT)",
-          "url": "https://open.spotify.com/artist/7qOpekyH75FVKR0T1Z2W0H"
-        }
-      ],
-      "duration_ms": 312766,
-      "name": "Raw",
-      "url": "https://open.spotify.com/track/5AZbACDyMvaoJMTLNNea2c"
-    },
-    {
-      "added_at": "2023-03-09 15:56:33",
-      "album": {
-        "name": "One Of Us",
-        "url": "https://open.spotify.com/album/20hmRGmvMiuPTsxvTcyV0e"
-      },
-      "artists": [
-        {
-          "name": "Gary Burrows",
-          "url": "https://open.spotify.com/artist/7g4gebdPslleCHko2QBpW3"
-        }
-      ],
-      "duration_ms": 361967,
-      "name": "This Trip",
-      "url": "https://open.spotify.com/track/0FzYBZ6Pn6lZe0Sh1F8tES"
-    },
-    {
-      "added_at": "2022-11-02 15:40:52",
-      "album": {
-        "name": "Konfusion",
-        "url": "https://open.spotify.com/album/4pC7lOrVPtRqXaRtmQIcTT"
-      },
-      "artists": [
-        {
-          "name": "Maketech",
-          "url": "https://open.spotify.com/artist/31jG1iSnjTnEoLgbe8uDTb"
-        },
-        {
-          "name": "Thomas Schumacher",
-          "url": "https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD"
-        }
-      ],
-      "duration_ms": 277333,
-      "name": "Konfusion - Thomas Schumacher Rework",
-      "url": "https://open.spotify.com/track/6Lf0najcf6r0gdcgwe0yxb"
-    },
-    {
-      "added_at": "2023-02-05 12:38:08",
-      "album": {
-        "name": "Disintegrate",
-        "url": "https://open.spotify.com/album/1IeOO326Q8ZPprvUoUUhx5"
-      },
-      "artists": [
-        {
-          "name": "Spektre",
-          "url": "https://open.spotify.com/artist/2jop7P9uKGHVtQAv59lDxT"
-        }
-      ],
-      "duration_ms": 421104,
-      "name": "Sirens of Time",
-      "url": "https://open.spotify.com/track/1FXRvs2oEQKT7ofCqbvo9H"
-    },
-    {
-      "added_at": "2022-11-25 09:49:09",
-      "album": {
-        "name": "Bring It On Down",
-        "url": "https://open.spotify.com/album/07zJQUXucc05agVKLqhcNE"
-      },
-      "artists": [
-        {
-          "name": "Ramon Tapia",
-          "url": "https://open.spotify.com/artist/5BFl4h5TXYSSJsCteTX3s1"
-        }
-      ],
-      "duration_ms": 432657,
-      "name": "Bring It On Down",
-      "url": "https://open.spotify.com/track/42BajmF7S541Gl8eUELqKl"
-    },
-    {
-      "added_at": "2023-01-25 20:01:04",
-      "album": {
-        "name": "Hold Me",
-        "url": "https://open.spotify.com/album/6AMeLl62dBE7iqSjBWswGD"
-      },
-      "artists": [
-        {
-          "name": "Jody 6",
-          "url": "https://open.spotify.com/artist/0E8BC8YVaBgXflTlmNnH5Y"
-        }
-      ],
-      "duration_ms": 207985,
-      "name": "Is It...",
-      "url": "https://open.spotify.com/track/4kxx1ZJ9Dk07BzyECFb4uN"
-    },
-    {
-      "added_at": "2022-11-25 09:52:21",
-      "album": {
-        "name": "A-Sides, Vol. 11",
-        "url": "https://open.spotify.com/album/3uDzg42dI0fxJUojkmN1aY"
-      },
-      "artists": [
-        {
-          "name": "A.D.H.S.",
-          "url": "https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl"
-        }
-      ],
-      "duration_ms": 413960,
-      "name": "Razor",
-      "url": "https://open.spotify.com/track/5Y6Gxsv7ZeNqva9Ssj95ZH"
-    },
-    {
-      "added_at": "2022-10-25 06:50:23",
-      "album": {
-        "name": "Love Never Ends EP",
-        "url": "https://open.spotify.com/album/2eHoaL6ZUZreqFB6HmacwF"
-      },
-      "artists": [
-        {
-          "name": "Spektre",
-          "url": "https://open.spotify.com/artist/2jop7P9uKGHVtQAv59lDxT"
-        }
-      ],
-      "duration_ms": 236917,
-      "name": "Love Never Ends",
-      "url": "https://open.spotify.com/track/05BzqQ7OkFUwIcdvisnuAI"
-    },
-    {
-      "added_at": "2022-12-28 19:17:47",
-      "album": {
-        "name": "Respekt Rebels, Vol. 4",
-        "url": "https://open.spotify.com/album/65AIbwBS7j6HSf6uD47Hda"
-      },
-      "artists": [
-        {
-          "name": "Dok & Martin",
-          "url": "https://open.spotify.com/artist/1rV7LSzJ2ZzL3FicYplmLX"
-        },
-        {
-          "name": "Matteo Vitanza",
-          "url": "https://open.spotify.com/artist/5NjFXNobjTKu8ZV2lFiXRa"
-        }
-      ],
-      "duration_ms": 207761,
-      "name": "Constellation",
-      "url": "https://open.spotify.com/track/0KxenwZHOqXRQYV9GSaLxY"
-    },
-    {
-      "added_at": "2022-11-25 09:46:33",
-      "album": {
-        "name": "The Reason",
-        "url": "https://open.spotify.com/album/58D5Bo0B2JnaxFwBfyCA9Y"
-      },
-      "artists": [
-        {
-          "name": "Kos:mo",
-          "url": "https://open.spotify.com/artist/0DlU4o8v7xq5AnJTFb6onr"
-        }
-      ],
-      "duration_ms": 282220,
-      "name": "The Reason",
-      "url": "https://open.spotify.com/track/3ILoKaswj3CFSD9ZlZDwkY"
-    },
-    {
-      "added_at": "2022-11-25 09:55:49",
-      "album": {
-        "name": "Dare I Groove (Thomas Schumacher Remix)",
-        "url": "https://open.spotify.com/album/1abAisKjMEg8uPMmawKPek"
-      },
-      "artists": [
-        {
-          "name": "Lisa May (Aus)",
-          "url": "https://open.spotify.com/artist/7rx8RLqLByWexSLqkGhO4p"
-        },
-        {
-          "name": "Thomas Schumacher",
-          "url": "https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD"
-        }
-      ],
-      "duration_ms": 297313,
-      "name": "Dare I Groove - Thomas Schumacher Remix",
-      "url": "https://open.spotify.com/track/2IQrmwmfNve59siU2X8Qp4"
-    },
-    {
-      "added_at": "2022-11-25 09:56:20",
-      "album": {
-        "name": "I Like It",
-        "url": "https://open.spotify.com/album/3lpFS44HeamiKNxWvMapxw"
-      },
-      "artists": [
-        {
-          "name": "Gary Beck",
-          "url": "https://open.spotify.com/artist/1mUVjZFnDM8mHpi4fR2bPC"
-        }
-      ],
-      "duration_ms": 372891,
-      "name": "I Like It",
-      "url": "https://open.spotify.com/track/7obRdwgCw7AWykXSwh7EvW"
-    },
-    {
-      "added_at": "2022-08-29 18:27:16",
-      "album": {
-        "name": "No Different",
-        "url": "https://open.spotify.com/album/7AnXDOZxD3eMLPgRQ4Ub0o"
-      },
-      "artists": [
-        {
-          "name": "Gary Burrows",
-          "url": "https://open.spotify.com/artist/7g4gebdPslleCHko2QBpW3"
-        },
-        {
-          "name": "Rowetta",
-          "url": "https://open.spotify.com/artist/2SbcWzAeIqhsmdyra9tW3z"
-        }
-      ],
-      "duration_ms": 230731,
-      "name": "No Different",
-      "url": "https://open.spotify.com/track/3rO7sK7DgXpOI5FHnfkqZ8"
-    },
-    {
-      "added_at": "2022-12-28 19:17:52",
-      "album": {
-        "name": "Respekt Rebels, Vol. 4",
-        "url": "https://open.spotify.com/album/65AIbwBS7j6HSf6uD47Hda"
-      },
-      "artists": [
-        {
-          "name": "WNDLL",
-          "url": "https://open.spotify.com/artist/4DTWmgROD04bHdjDu1X2ZV"
-        }
-      ],
-      "duration_ms": 254769,
-      "name": "Manifest",
-      "url": "https://open.spotify.com/track/4b8S2To5btYfb8tVlf2IxB"
-    },
-    {
-      "added_at": "2022-11-25 09:47:21",
-      "album": {
-        "name": "The Reason",
-        "url": "https://open.spotify.com/album/58D5Bo0B2JnaxFwBfyCA9Y"
-      },
-      "artists": [
-        {
-          "name": "Kos:mo",
-          "url": "https://open.spotify.com/artist/0DlU4o8v7xq5AnJTFb6onr"
-        }
-      ],
-      "duration_ms": 274042,
-      "name": "Reload Ride",
-      "url": "https://open.spotify.com/track/7b7RV4w314oGsprMmZJELf"
-    },
-    {
-      "added_at": "2022-11-25 09:54:31",
-      "album": {
-        "name": "A-Sides, Vol. 11",
-        "url": "https://open.spotify.com/album/3uDzg42dI0fxJUojkmN1aY"
-      },
-      "artists": [
-        {
-          "name": "Zimmz",
-          "url": "https://open.spotify.com/artist/1fjyfUlALNaLiP57l5UmGn"
-        }
-      ],
-      "duration_ms": 384000,
-      "name": "Qualia",
-      "url": "https://open.spotify.com/track/3wDP1eCFT3sDCwOzL9l093"
-    },
-    {
-      "added_at": "2022-05-21 19:31:19",
-      "album": {
-        "name": "Endless Days",
-        "url": "https://open.spotify.com/album/7sri2P1clnLmHCOMLpMpwK"
-      },
-      "artists": [
-        {
-          "name": "Spektre",
-          "url": "https://open.spotify.com/artist/2jop7P9uKGHVtQAv59lDxT"
-        }
-      ],
-      "duration_ms": 219154,
-      "name": "Endless Days - Club Mix",
-      "url": "https://open.spotify.com/track/05pZYAuwuPtwYLBg6sIiwF"
-    },
-    {
-      "added_at": "2022-07-01 15:29:34",
-      "album": {
-        "name": "Unconscious Spirit",
-        "url": "https://open.spotify.com/album/3VCX2w8izEMQqMMZTQrc9K"
-      },
-      "artists": [
-        {
-          "name": "Jo Poole",
-          "url": "https://open.spotify.com/artist/3d8oVrrMiYpjm8iHGj7CYF"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Unconscious Spirit",
-      "url": "https://open.spotify.com/track/3o6hkK5B7OUNwEpIbY4Wjm"
-    },
-    {
-      "added_at": "2022-12-28 19:20:00",
-      "album": {
-        "name": "The Hills Devise",
-        "url": "https://open.spotify.com/album/7G9RjwEnWgiJxxbYzbhawU"
-      },
-      "artists": [
-        {
-          "name": "Shay De Castro",
-          "url": "https://open.spotify.com/artist/0v9G2owf4WLwxKH95hc9gQ"
-        }
-      ],
-      "duration_ms": 204634,
-      "name": "The Hills Devise",
-      "url": "https://open.spotify.com/track/3WVdcbCovX5EuvNuBmuPXp"
-    },
-    {
-      "added_at": "2022-11-25 09:54:35",
-      "album": {
-        "name": "A-Sides, Vol. 11",
-        "url": "https://open.spotify.com/album/3uDzg42dI0fxJUojkmN1aY"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Taboada",
-          "url": "https://open.spotify.com/artist/6dcbo1dJld5wdwLeno5MBE"
-        }
-      ],
-      "duration_ms": 383757,
-      "name": "Circles",
-      "url": "https://open.spotify.com/track/2xU4Ejdq5h5EE7YcIbjnZe"
-    },
-    {
-      "added_at": "2022-10-25 06:50:28",
-      "album": {
-        "name": "Love Never Ends EP",
-        "url": "https://open.spotify.com/album/2eHoaL6ZUZreqFB6HmacwF"
-      },
-      "artists": [
-        {
-          "name": "Spektre",
-          "url": "https://open.spotify.com/artist/2jop7P9uKGHVtQAv59lDxT"
-        }
-      ],
-      "duration_ms": 221750,
-      "name": "Leviathan",
-      "url": "https://open.spotify.com/track/5JXHIsTxelaTaWZz9h9lb3"
-    },
-    {
-      "added_at": "2022-12-28 19:18:00",
-      "album": {
-        "name": "Respekt Rebels, Vol. 4",
-        "url": "https://open.spotify.com/album/65AIbwBS7j6HSf6uD47Hda"
-      },
-      "artists": [
-        {
-          "name": "MedMan (UK)",
-          "url": "https://open.spotify.com/artist/7jyAYNZEkd5MgtjOv1JCD4"
-        }
-      ],
-      "duration_ms": 216888,
-      "name": "Endure",
-      "url": "https://open.spotify.com/track/4CnIziHXEXDsRIMhmwSVPp"
-    },
-    {
-      "added_at": "2022-04-18 14:55:47",
-      "album": {
-        "name": "Solarsystem",
-        "url": "https://open.spotify.com/album/7xvPDg4Km0txSWBNWQfh3O"
-      },
-      "artists": [
-        {
-          "name": "Kai Anschau",
-          "url": "https://open.spotify.com/artist/6KRQGhShvA2cnqHDuqk7ZL"
-        },
-        {
-          "name": "Mallory N",
-          "url": "https://open.spotify.com/artist/4coDD6tDLMFFJwVnlMHabX"
-        },
-        {
-          "name": "Tiger Stripes",
-          "url": "https://open.spotify.com/artist/5L56gAwU2WofuHHOpLC0BU"
-        }
-      ],
-      "duration_ms": 347906,
-      "name": "Solarsystem - Tiger Stripes remix",
-      "url": "https://open.spotify.com/track/21pFMJNzZxO0l60WpoBb76"
-    },
-    {
-      "added_at": "2022-07-01 15:30:09",
-      "album": {
-        "name": "Move Your Body",
-        "url": "https://open.spotify.com/album/7eg7XTsJ1kFoWxXn27ETFX"
-      },
-      "artists": [
-        {
-          "name": "Kos:mo",
-          "url": "https://open.spotify.com/artist/0DlU4o8v7xq5AnJTFb6onr"
-        }
-      ],
-      "duration_ms": 230909,
-      "name": "Move Your Body",
-      "url": "https://open.spotify.com/track/1m1gyMUkN5wdDRA3TlB3Pj"
-    },
-    {
-      "added_at": "2022-04-18 14:53:42",
-      "album": {
-        "name": "Hardwired",
-        "url": "https://open.spotify.com/album/4TcaHXEDqkxIZgCHLUS94H"
-      },
-      "artists": [
-        {
-          "name": "Ignacio Arfeli",
-          "url": "https://open.spotify.com/artist/53nQsmYO19z1chV4aSVzlp"
-        }
-      ],
-      "duration_ms": 206616,
-      "name": "Hardwired",
-      "url": "https://open.spotify.com/track/6S1SMFtcc1ejdWEfgnHrtv"
-    },
-    {
-      "added_at": "2022-05-17 19:52:03",
-      "album": {
-        "name": "Tropospheric",
-        "url": "https://open.spotify.com/album/2LamuX3kaZlpWJLRHmpDUP"
-      },
-      "artists": [
-        {
-          "name": "Alex Lentini",
-          "url": "https://open.spotify.com/artist/4p8IldEUZ3hx6mfDuHVzCX"
-        },
-        {
-          "name": "STOMP BOXX",
-          "url": "https://open.spotify.com/artist/2JiR7cmdczSUV1QFwWXhrZ"
-        }
-      ],
-      "duration_ms": 403735,
-      "name": "Tropospheric - Original Mix",
-      "url": "https://open.spotify.com/track/2ONRJbdsHxl2ZdMQs7XxBC"
-    },
-    {
-      "added_at": "2022-05-21 19:31:24",
-      "album": {
-        "name": "Endless Days",
-        "url": "https://open.spotify.com/album/7sri2P1clnLmHCOMLpMpwK"
-      },
-      "artists": [
-        {
-          "name": "Spektre",
-          "url": "https://open.spotify.com/artist/2jop7P9uKGHVtQAv59lDxT"
-        }
-      ],
-      "duration_ms": 251428,
-      "name": "Endless Days - Breaks Mix",
-      "url": "https://open.spotify.com/track/2PwRLopdYEvgZ7w5lLr36i"
-    },
-    {
-      "added_at": "2022-05-17 19:52:41",
-      "album": {
-        "name": "Choir Of Spirits",
-        "url": "https://open.spotify.com/album/7yGPNpwNMQmMb6ufCztgnd"
-      },
-      "artists": [
-        {
-          "name": "Push",
-          "url": "https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR"
-        },
-        {
-          "name": "Joyhauser",
-          "url": "https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y"
-        }
-      ],
-      "duration_ms": 405439,
-      "name": "Choir Of Spirits",
-      "url": "https://open.spotify.com/track/0V6GWgubCBR8955ZWtJ4WR"
-    },
-    {
-      "added_at": "2022-05-17 19:55:04",
-      "album": {
-        "name": "Restore My Soul (Remix)",
-        "url": "https://open.spotify.com/album/7bfdsv9IXDHvBwIYrDDCDs"
-      },
-      "artists": [
-        {
-          "name": "Adam Beyer",
-          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
-        },
-        {
-          "name": "DJ Rush",
-          "url": "https://open.spotify.com/artist/6gBmUpKvNYtnQTSLK5vwS5"
-        },
-        {
-          "name": "HI-LO",
-          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
-        }
-      ],
-      "duration_ms": 272741,
-      "name": "Restore My Soul - Remix",
-      "url": "https://open.spotify.com/track/2Po3vOi0P5KxVmlR1vjzgf"
-    },
-    {
-      "added_at": "2022-05-17 19:53:14",
-      "album": {
-        "name": "Styx",
-        "url": "https://open.spotify.com/album/4dy6VS8wNPwakQJygZaCWA"
-      },
-      "artists": [
-        {
-          "name": "Timmo",
-          "url": "https://open.spotify.com/artist/32LzV8uY2Zf8Nda9Rvjx5U"
-        }
-      ],
-      "duration_ms": 398175,
-      "name": "Styx",
-      "url": "https://open.spotify.com/track/6BGLpHleabwEG5V1xEcuVc"
-    },
-    {
-      "added_at": "2024-01-31 18:54:18",
-      "album": {
-        "name": "Clairvoyant",
-        "url": "https://open.spotify.com/album/03oox32OCziCwqYqMejYXg"
-      },
-      "artists": [
-        {
-          "name": "Crossbow",
-          "url": "https://open.spotify.com/artist/7w9hUQDypmlktoxpMa12dV"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Clairvoyant",
-      "url": "https://open.spotify.com/track/7sP4lDPMVGVrp5qSVjqXPD"
-    },
-    {
-      "added_at": "2024-01-31 18:54:22",
-      "album": {
-        "name": "Clairvoyant",
-        "url": "https://open.spotify.com/album/03oox32OCziCwqYqMejYXg"
-      },
-      "artists": [
-        {
-          "name": "Crossbow",
-          "url": "https://open.spotify.com/artist/7w9hUQDypmlktoxpMa12dV"
-        }
-      ],
-      "duration_ms": 241777,
-      "name": "Time Slip",
-      "url": "https://open.spotify.com/track/6TdvPhVuRv3wti78X8TRR0"
+      "duration_ms": 355543,
+      "name": "Blood Music",
+      "url": "https://open.spotify.com/track/34cygccHj8M2bed5ZHpbdT"
     }
   ],
   "unique_name": "Spektre's Selection",

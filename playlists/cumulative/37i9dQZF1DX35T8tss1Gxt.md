@@ -4,7 +4,7 @@
 
 > Experience music from some of your favorite Gospel artists and those they've influenced\.  Cover:  <a href="spotify:artist:7z7byOJ4AJnMY2NHE66ZpW">DOE</a>
 
-469 songs - 1 day 3 hr 59 min
+470 songs - 1 day 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Constant](https://open.spotify.com/track/32jEcbreglV0b9xlACfiII) | [Natalie Layne](https://open.spotify.com/artist/6N1l2HIYtw3RhoJ2wzLYaB) | [Constant](https://open.spotify.com/album/7kzxtntTQNVZwkl05zZZHh) | 2:52 | 2022-02-27 | 2022-04-04 |
 | [Corner \(O Ti De\)](https://open.spotify.com/track/0fSlJ4Dkaij64XsWU9u2hw) | [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [Corner \(O Ti De\)](https://open.spotify.com/album/3Q3zmVJazOeLCxngPLl2mR) | 2:42 | 2022-02-19 | 2022-06-26 |
 | [Cover Me](https://open.spotify.com/track/0kgaxUdgR0wOgVxnpyllLY) | [Rebecca St\. James](https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9) | [Kingdom Come](https://open.spotify.com/album/22NJqbQbKWrHhi3gyPZeeb) | 4:41 | 2022-04-01 | 2022-09-19 |
+| [Covered](https://open.spotify.com/track/2EBfbLHxIRWg4hwHya4Tby) | [Anthony Hall](https://open.spotify.com/artist/27elv8wzGLeFd2hamGxyfS), [Michael Dixon](https://open.spotify.com/artist/0aXyBedQLbHTZwDOY5QGZF) | [Covered](https://open.spotify.com/album/0W6tOU21Ts3f9Gol7IALRm) | 3:31 | 2024-01-12 |  |
 | [Crazy Kinda Love](https://open.spotify.com/track/3iFbRKq1x2SrPqAUX7QGsp) | [Serayah](https://open.spotify.com/artist/3N3R2mEESjTYM3W6ye2bod), [Ahjah Walls](https://open.spotify.com/artist/6bMYwgJuOOGMEXr9L7UZoM), [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [Kingdom Business: Season 1](https://open.spotify.com/album/3BHQ2gvtr6npNexUhaGKJ1) | 4:08 | 2022-06-25 | 2024-01-13 |
 | [Cut 'Em Off](https://open.spotify.com/track/0EIjQy9ifrBLscYBSVCr1M) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [Koryn Hawthorne Bundle](https://open.spotify.com/album/2WnXB1FLl2M3JwHqNLpy0b) | 2:14 | 2024-01-12 |  |
 | [CVS](https://open.spotify.com/track/0AKErkag7pPMyvkGXnBQbk) | [Mark Barlow](https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl) | [CVS](https://open.spotify.com/album/5VLkFY7Sn2qgrYnrDEswqv) | 6:00 | 2022-03-05 | 2022-06-05 |
@@ -162,7 +163,7 @@
 | [Good Now \(Remix\) \(feat\. Wande\)](https://open.spotify.com/track/7lgSu9ocppDwVDOvr8L4cJ) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW), [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [Good Now \(Remix\) \(feat\. Wande\)](https://open.spotify.com/album/0unGJPuRmYzRbkg43p79Pt) | 3:15 | 2022-02-19 | 2022-06-26 |
 | [GOOD TO ME](https://open.spotify.com/track/7neWN16iIGrzHsL2xa2plW) | [nathan huang](https://open.spotify.com/artist/4dzy2MaxMOZwVTWXXq3JAL), [Darla Baltazar](https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1) | [GOOD TO ME](https://open.spotify.com/album/3Cfnat6JaNYV3ol0qOzzek) | 3:27 | 2023-01-20 |  |
 | [Goodness and Mercy](https://open.spotify.com/track/5lnh7ZU2YS7MqFB8FH2IOB) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Quiet Time](https://open.spotify.com/album/17PlNaHTRnxmYLS4l6lU9G) | 3:08 | 2022-02-27 | 2022-06-16 |
-| [Goodness Gracious](https://open.spotify.com/track/11Mr0wJ9DcX1QyEdMZC8ei) | [Konola](https://open.spotify.com/artist/5OLzjUDB3C9y3LvyNefP8t), [Keelah Chase](https://open.spotify.com/artist/0m9wRtULtrl8kWvHQcupJE) | [Goodness Gracious](https://open.spotify.com/album/6Su3gT1IwNyHu05WxqIjJE) | 3:45 | 2024-01-12 |  |
+| [Goodness Gracious](https://open.spotify.com/track/11Mr0wJ9DcX1QyEdMZC8ei) | [Konola](https://open.spotify.com/artist/5OLzjUDB3C9y3LvyNefP8t), [Keelah Chase](https://open.spotify.com/artist/0m9wRtULtrl8kWvHQcupJE) | [Goodness Gracious](https://open.spotify.com/album/6Su3gT1IwNyHu05WxqIjJE) | 3:45 | 2024-01-12 | 2024-02-24 |
 | [Gotta Be God](https://open.spotify.com/track/66dKe5hsyrNInqBpnxPTPL) | [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ), [Da' T.R.U.T.H.](https://open.spotify.com/artist/2ISIE0MEDMdAF2LDMLrVD4) | [Gotta Be God](https://open.spotify.com/album/5QoG06Wf5RiAb3Vf6i1gkv) | 2:48 | 2022-07-08 | 2024-01-13 |
 | [Grace](https://open.spotify.com/track/73RrO6QxGa9svtiBkzjgPc) | [Jonny Henninger](https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4), [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [Grace](https://open.spotify.com/album/21muhjj4VKsJ3a7Nb6D66v) | 3:15 | 2023-10-31 |  |
 | [GRACE](https://open.spotify.com/track/01ioXCMkGpxuKrdEO3TSob) | [Jor'dan Armstrong](https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8) | [GRACE](https://open.spotify.com/album/6JzWGtTmJ29ZlAA87eW6Ct) | 4:15 | 2022-02-27 | 2023-01-21 |

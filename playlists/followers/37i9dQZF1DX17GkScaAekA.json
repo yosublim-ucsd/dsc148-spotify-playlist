@@ -1,5 +1,5 @@
 {
-  "2024-02-23": 724152,
+  "2024-02-24": 724552,
   "date_first_scraped": "2021-12-28",
   "description": "quiet hallways, dusty sunlight, cosy sweaters, and hot tea",
   "name": "Dark Academia Classical",
@@ -2043,6 +2043,24 @@
       "duration_ms": 365040,
       "name": "Symphony No. 3 in F Major, Op. 90 (version for piano 4 hands): III. Un poco allegretto",
       "url": "https://open.spotify.com/track/1Mk9mrwz6kNeRGOQSRwIVG"
+    },
+    {
+      "album": {
+        "name": "Symphony Number 5, Allegro (Arr. Piano)",
+        "url": "https://open.spotify.com/album/02jkP2S0cXbPC6hnqcNaIk"
+      },
+      "artists": [
+        {
+          "name": "Music Lab Collective",
+          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137212,
+      "name": "Symphony Number 5, Allegro (Arr. Piano)",
+      "url": "https://open.spotify.com/track/2DHdtlFEAIBdzqfGO4O9MI"
     },
     {
       "album": {

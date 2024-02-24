@@ -1,5 +1,5 @@
 {
-  "2024-02-23": 201066,
+  "2024-02-24": 201113,
   "date_first_scraped": "2022-02-25",
   "description": "The smoothest Afro R&B out right now. Cover:  <a href=\"https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ?si=kxBgQcr1Sqasp_6DZCsG1w\"> Black Sherif </a> and <a href=\"https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4?si=4oMj4ZMGQQ2IvBl0mur3QA\"> Mabel </a> ",
   "name": "Tantalizers",
@@ -1592,6 +1592,24 @@
     },
     {
       "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/0FvnSxzhdYUeHwOHCnC5H1"
+      },
+      "artists": [
+        {
+          "name": "Darkua",
+          "url": "https://open.spotify.com/artist/4zDTokzX1QoX7Wh9PKYcgP"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184519,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/0OYjR9VR2c7ZTRdW58nTtl"
+    },
+    {
+      "album": {
         "name": "Echoes (feat. Tony Duardo, Manana & Lusanda)",
         "url": "https://open.spotify.com/album/6GPfETz7e4MYd3kU4CtLIK"
       },
@@ -1745,6 +1763,24 @@
       "duration_ms": 180157,
       "name": "Endless",
       "url": "https://open.spotify.com/track/6Sjfvyk5dEtdGFPCF37mYe"
+    },
+    {
+      "album": {
+        "name": "Body, Soul & Spirit",
+        "url": "https://open.spotify.com/album/1v9uFb7YRRXyex0XnASQOJ"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158264,
+      "name": "Enemy",
+      "url": "https://open.spotify.com/track/2BpPchBu0QUEWESGox0EXq"
     },
     {
       "album": {
@@ -2093,7 +2129,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 204684,
       "name": "For Instance",
       "url": "https://open.spotify.com/track/6XDYFPMwh47JiW3kw2bRPJ"
@@ -2239,6 +2275,28 @@
       "duration_ms": 197419,
       "name": "Further Lighter",
       "url": "https://open.spotify.com/track/4OIlpwFnpccLfdiVLZEV47"
+    },
+    {
+      "album": {
+        "name": "Game Over",
+        "url": "https://open.spotify.com/album/5O0jQrdJ5K8wo1feyiZy88"
+      },
+      "artists": [
+        {
+          "name": "Micha\u00ebl Brun",
+          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
+        },
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142040,
+      "name": "Game Over",
+      "url": "https://open.spotify.com/track/7ERJJ8c4gxANECZgSBAdBm"
     },
     {
       "album": {
@@ -4806,6 +4864,24 @@
     },
     {
       "album": {
+        "name": "PrEttY Like",
+        "url": "https://open.spotify.com/album/0eYfLrBMobCVn4ZCaGV1GA"
+      },
+      "artists": [
+        {
+          "name": "TAR1Q",
+          "url": "https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166950,
+      "name": "PrEttY Like",
+      "url": "https://open.spotify.com/track/2lgeehwv2ThyBEQ8kHKFCn"
+    },
+    {
+      "album": {
         "name": "Ronisia (Version Deluxe)",
         "url": "https://open.spotify.com/album/6n3BM7djoly8rX6AG9dnFW"
       },
@@ -4935,6 +5011,32 @@
       "duration_ms": 220206,
       "name": "Raha",
       "url": "https://open.spotify.com/track/7uLsJ8BMEi78BNMUFJgsZq"
+    },
+    {
+      "album": {
+        "name": "REASON",
+        "url": "https://open.spotify.com/album/3HsFIS5mJMqpisQXuwL0BN"
+      },
+      "artists": [
+        {
+          "name": "Karun",
+          "url": "https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC"
+        },
+        {
+          "name": "Hook",
+          "url": "https://open.spotify.com/artist/0d2cvrJfsN0fBd6WuwwlDQ"
+        },
+        {
+          "name": "GR!",
+          "url": "https://open.spotify.com/artist/3OLtlWxh8Ht9pL5ke6gFkd"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221503,
+      "name": "REASON",
+      "url": "https://open.spotify.com/track/1481IQC8BjqGLTer67cWbC"
     },
     {
       "album": {

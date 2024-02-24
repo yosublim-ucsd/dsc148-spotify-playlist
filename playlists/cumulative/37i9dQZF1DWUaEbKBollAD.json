@@ -898,6 +898,24 @@
     {
       "album": {
         "name": "Kua",
+        "url": "https://open.spotify.com/album/6X1H2qXP2wpSWA54xzzxqG"
+      },
+      "artists": [
+        {
+          "name": "Fatima Hajji",
+          "url": "https://open.spotify.com/artist/6jZSXmTCxZhFfYELtp78Ci"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385454,
+      "name": "Kua",
+      "url": "https://open.spotify.com/track/5CtcJyXITa9G8Qgs7QSI5B"
+    },
+    {
+      "album": {
+        "name": "Kua",
         "url": "https://open.spotify.com/album/0SsNWOTQmf6rUjoa6w9waM"
       },
       "artists": [
@@ -908,7 +926,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 385454,
       "name": "Kua - Original Mix",
       "url": "https://open.spotify.com/track/7hUZJ8lupDInaXfbNLsdC8"

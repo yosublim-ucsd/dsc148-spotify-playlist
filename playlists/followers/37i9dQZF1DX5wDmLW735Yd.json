@@ -1,7 +1,7 @@
 {
-  "2024-02-23": 840075,
+  "2024-02-24": 840298,
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Charlotte Plank\n",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: 1991\n",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -461,7 +461,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 136551,
       "name": "Allstars Mic (feat. DnB Allstars)",
       "url": "https://open.spotify.com/track/5CDSFSwAyL9Ck7sSKjQtdY"
@@ -1939,7 +1939,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 224775,
       "name": "Chant",
       "url": "https://open.spotify.com/track/65SsbtgsqPYv1p4Rq93fC9"
@@ -2261,7 +2261,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 224009,
       "name": "Colourfast",
       "url": "https://open.spotify.com/track/2MoWNYaX0UT7TKbCCx2DsP"
@@ -4644,6 +4644,36 @@
     },
     {
       "album": {
+        "name": "Green & Gold (feat. Charlotte Plank & Riko Dan)",
+        "url": "https://open.spotify.com/album/5USMLXcmyO4BdAeQaOEql2"
+      },
+      "artists": [
+        {
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+        },
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        },
+        {
+          "name": "Charlotte Plank",
+          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
+        },
+        {
+          "name": "Riko Dan",
+          "url": "https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160602,
+      "name": "Green & Gold (feat. Charlotte Plank & Riko Dan)",
+      "url": "https://open.spotify.com/track/0JI8koDoC5crQbIjhSty59"
+    },
+    {
+      "album": {
         "name": "Green Lane",
         "url": "https://open.spotify.com/album/5Qc6IzOIuODuzSgbx1k0Yj"
       },
@@ -5056,6 +5086,24 @@
     },
     {
       "album": {
+        "name": "Anti/Thesis: Vol. 1",
+        "url": "https://open.spotify.com/album/1vsiY6kqGkawvALlipzZqq"
+      },
+      "artists": [
+        {
+          "name": "High Contrast",
+          "url": "https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285689,
+      "name": "High Technology Lifestyle",
+      "url": "https://open.spotify.com/track/04wsImzICZ4aTuVWu6PydJ"
+    },
+    {
+      "album": {
         "name": "High Time",
         "url": "https://open.spotify.com/album/6AVejTEoRqWHNonqliy9R0"
       },
@@ -5435,7 +5483,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 181414,
       "name": "If Love Could Have Saved You",
       "url": "https://open.spotify.com/track/7D5vd0DZ2zR0NoIeaX0stb"
@@ -5703,7 +5751,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 140524,
       "name": "iSpy",
       "url": "https://open.spotify.com/track/23AssmqMJFb8mtQzfW28aC"
@@ -5967,6 +6015,28 @@
       "duration_ms": 290039,
       "name": "Kiss Kiss Bang Bang - Bou Remix",
       "url": "https://open.spotify.com/track/5TrO1BVrsHkdWE4SIvCUvT"
+    },
+    {
+      "album": {
+        "name": "Kites",
+        "url": "https://open.spotify.com/album/6tQleNjbmmM1GxJB9Rka2S"
+      },
+      "artists": [
+        {
+          "name": "Hybrid Minds",
+          "url": "https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR"
+        },
+        {
+          "name": "Grace Grundy",
+          "url": "https://open.spotify.com/artist/3pFPBG84k5bQVbL9apf2PD"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219836,
+      "name": "Kites",
+      "url": "https://open.spotify.com/track/5wngvewYbGMedJ6y86xz0O"
     },
     {
       "album": {
@@ -7174,6 +7244,32 @@
     },
     {
       "album": {
+        "name": "Metronome",
+        "url": "https://open.spotify.com/album/6ERr6pSPfxcFJF1C6fqNsK"
+      },
+      "artists": [
+        {
+          "name": "Fred V",
+          "url": "https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4"
+        },
+        {
+          "name": "Danny Connors",
+          "url": "https://open.spotify.com/artist/5Mi0Yh3xGxMzvU4QFVo7yg"
+        },
+        {
+          "name": "Petra",
+          "url": "https://open.spotify.com/artist/7qcfDkOeHCju7ZCwr0mGz1"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178662,
+      "name": "Metronome",
+      "url": "https://open.spotify.com/track/2TPd61i31Aifaj8P0gRFm7"
+    },
+    {
+      "album": {
         "name": "MHITR (Semi-Automatic) [feat. Eksman]",
         "url": "https://open.spotify.com/album/0mXlKN5XvrL9olOdYSrTio"
       },
@@ -7846,6 +7942,40 @@
     },
     {
       "album": {
+        "name": "No Tomorrow (P Money x Whiney Remix)",
+        "url": "https://open.spotify.com/album/05lBv1T8JVw4LGyxFHGjVg"
+      },
+      "artists": [
+        {
+          "name": "Camo & Krooked",
+          "url": "https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU"
+        },
+        {
+          "name": "P Money",
+          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+        },
+        {
+          "name": "Whiney",
+          "url": "https://open.spotify.com/artist/4YTBo7qadslqj8V8FMRuqK"
+        },
+        {
+          "name": "Sophie Lindinger",
+          "url": "https://open.spotify.com/artist/3b3qQWQgIMIyHcYSMY4P3g"
+        },
+        {
+          "name": "Mefjus",
+          "url": "https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249700,
+      "name": "No Tomorrow - P Money X Whiney Remix",
+      "url": "https://open.spotify.com/track/51uRkSahJICiVwrPe7GgzY"
+    },
+    {
+      "album": {
         "name": "No Warning (feat. Nathan Smoker)",
         "url": "https://open.spotify.com/album/6YTh78z5vISxdh0blsF6WM"
       },
@@ -7865,6 +7995,28 @@
       "duration_ms": 171428,
       "name": "No Warning (feat. Nathan Smoker)",
       "url": "https://open.spotify.com/track/5pDC2piYrsuSIeEqiciB7B"
+    },
+    {
+      "album": {
+        "name": "Nobody Likes The Records That I Play",
+        "url": "https://open.spotify.com/album/2DL0N74UxejnfXoxZL5FDj"
+      },
+      "artists": [
+        {
+          "name": "Netsky",
+          "url": "https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP"
+        },
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193103,
+      "name": "Nobody Like The Records That I Play",
+      "url": "https://open.spotify.com/track/2qpfRinMEix4FG8q45XroG"
     },
     {
       "album": {
@@ -8748,6 +8900,32 @@
     },
     {
       "album": {
+        "name": "Radio Remix",
+        "url": "https://open.spotify.com/album/5t0y40M7XhW0V5PgYsKpXP"
+      },
+      "artists": [
+        {
+          "name": "James Hiraeth",
+          "url": "https://open.spotify.com/artist/13lPKi6IQrIyWyyovYUbtA"
+        },
+        {
+          "name": "Local",
+          "url": "https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2"
+        },
+        {
+          "name": "BSEARL",
+          "url": "https://open.spotify.com/artist/3e3riRnIankd5kcDNvsZFi"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194157,
+      "name": "Radio - Remix",
+      "url": "https://open.spotify.com/track/68kvypOTqfhvq4Se0HUIjN"
+    },
+    {
+      "album": {
         "name": "Rage",
         "url": "https://open.spotify.com/album/3Fm13iU479MJh6ePRdYU35"
       },
@@ -8763,6 +8941,24 @@
       "duration_ms": 158500,
       "name": "Rage",
       "url": "https://open.spotify.com/track/4pDMigVe00CtmHeqSD0Yvy"
+    },
+    {
+      "album": {
+        "name": "Rain Dance",
+        "url": "https://open.spotify.com/album/2vePCjQ076mqwdDTYcNXYi"
+      },
+      "artists": [
+        {
+          "name": "MUZZ",
+          "url": "https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189257,
+      "name": "Rain Dance",
+      "url": "https://open.spotify.com/track/2kjE1Znpvkl5g6BrHAN8KG"
     },
     {
       "album": {
@@ -8909,7 +9105,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 192344,
       "name": "Redline",
       "url": "https://open.spotify.com/track/4n7npue0fQKKmgC1CcHmao"
@@ -9633,7 +9829,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 237133,
       "name": "Say The Word (feat. Clementine Douglas)",
       "url": "https://open.spotify.com/track/1jxGhPyCn9SZR9eqrTduja"
@@ -9811,7 +10007,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 182790,
       "name": "Shake the Foundations",
       "url": "https://open.spotify.com/track/41oMLrpW7SND8rk8GXYMsz"
@@ -10115,6 +10311,28 @@
       "duration_ms": 266337,
       "name": "Slap Suey",
       "url": "https://open.spotify.com/track/7I1XUjtzeNW79MgT28AkDe"
+    },
+    {
+      "album": {
+        "name": "Sleepwalking (feat. Songer)",
+        "url": "https://open.spotify.com/album/0bkRVje5m0kIefrwE4eY7M"
+      },
+      "artists": [
+        {
+          "name": "Issey Cross",
+          "url": "https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U"
+        },
+        {
+          "name": "Songer",
+          "url": "https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178001,
+      "name": "Sleepwalking (feat. Songer)",
+      "url": "https://open.spotify.com/track/160BnJrlHjlswLWBmi8mOz"
     },
     {
       "album": {
@@ -11029,6 +11247,36 @@
     {
       "album": {
         "name": "Tell Me",
+        "url": "https://open.spotify.com/album/4MFBci34hr21ZiVvZNCKKe"
+      },
+      "artists": [
+        {
+          "name": "BCee",
+          "url": "https://open.spotify.com/artist/3wdwWQXJbqpJJbMdp7KfEJ"
+        },
+        {
+          "name": "DJ Marky",
+          "url": "https://open.spotify.com/artist/1rd51IrbtX9DqoU0Zxu4TV"
+        },
+        {
+          "name": "Makoto",
+          "url": "https://open.spotify.com/artist/4CBavfYzjrTvV7xCIq6WQu"
+        },
+        {
+          "name": "SOLAH",
+          "url": "https://open.spotify.com/artist/4jrJBSg0c2qx8SMGa7ququ"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230788,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/5Rsmx8b0fSRbjOE2j6lMZm"
+    },
+    {
+      "album": {
+        "name": "Tell Me",
         "url": "https://open.spotify.com/album/3S6SjOrePX9qDWgcgWxiUc"
       },
       "artists": [
@@ -11433,7 +11681,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 212460,
       "name": "Thunderstorm (feat. Deyaz)",
       "url": "https://open.spotify.com/track/0FM3AeTbUEZETmbbHWSyGK"
@@ -12239,7 +12487,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 193104,
       "name": "Warning",
       "url": "https://open.spotify.com/track/7BmE2mwDV8prI6JQg8Ofv4"
@@ -12261,7 +12509,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 145862,
       "name": "Waste My Time",
       "url": "https://open.spotify.com/track/6Dy8UR9dhacqq6BJlumXN1"
@@ -12819,6 +13067,28 @@
       "duration_ms": 241379,
       "name": "Work It",
       "url": "https://open.spotify.com/track/3k2FxhfLtS42E5WmPgBHru"
+    },
+    {
+      "album": {
+        "name": "Worlds Apart",
+        "url": "https://open.spotify.com/album/4bdgv0ijO9qBA2Ul4YhApJ"
+      },
+      "artists": [
+        {
+          "name": "1991",
+          "url": "https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy"
+        },
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178275,
+      "name": "Worlds Apart",
+      "url": "https://open.spotify.com/track/6M3D3YpYaLdEGWembNcEzj"
     },
     {
       "album": {

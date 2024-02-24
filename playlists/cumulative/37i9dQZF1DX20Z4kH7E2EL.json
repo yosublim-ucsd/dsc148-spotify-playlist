@@ -118,7 +118,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 359024,
       "name": "ADSR - Extended Mix",
       "url": "https://open.spotify.com/track/62sKCTw9PDCX5nr7yWzd8h"
@@ -194,10 +194,32 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 588447,
       "name": "Altair - Guy J Remix",
       "url": "https://open.spotify.com/track/7utlRl7GaCEW9uoyt7mL6d"
+    },
+    {
+      "album": {
+        "name": "AMA",
+        "url": "https://open.spotify.com/album/5YjPVazlA5oBaWvOfUIVfb"
+      },
+      "artists": [
+        {
+          "name": "Super Flu",
+          "url": "https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW"
+        },
+        {
+          "name": "Mar+Mer",
+          "url": "https://open.spotify.com/artist/5RYSSOzPU8mkHGBq0S64xa"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334284,
+      "name": "AMA",
+      "url": "https://open.spotify.com/track/4aJo4L06xodly3Gam3MSoP"
     },
     {
       "album": {
@@ -433,6 +455,24 @@
     },
     {
       "album": {
+        "name": "Beyond Us",
+        "url": "https://open.spotify.com/album/059cyUyqw5RwJJIFSACVLE"
+      },
+      "artists": [
+        {
+          "name": "Eynka",
+          "url": "https://open.spotify.com/artist/0yG65Hobg0EEGfxqfFq4Jg"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304067,
+      "name": "Beyond Us",
+      "url": "https://open.spotify.com/track/0WWcpVbhW4QSCDuOhv4uud"
+    },
+    {
+      "album": {
         "name": "Black Rain (\u00c2me Remix)",
         "url": "https://open.spotify.com/album/3NkwIxvLuql04EXtIa9TfF"
       },
@@ -562,7 +602,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 382857,
       "name": "Brighter Days - Marco Lys Remix",
       "url": "https://open.spotify.com/track/7IJP1vVnqU5mV2hYUbZrlX"
@@ -752,6 +792,32 @@
       "duration_ms": 336716,
       "name": "Cloudy - Kelbin Remix",
       "url": "https://open.spotify.com/track/4OtqragtOuKh41rBNnFXuK"
+    },
+    {
+      "album": {
+        "name": "Coming Home (feat. John Martin) [Vintage Culture Remix]",
+        "url": "https://open.spotify.com/album/7HOrMf3DQGW4vlXqCzJFCM"
+      },
+      "artists": [
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        },
+        {
+          "name": "John Martin",
+          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286904,
+      "name": "Coming Home (feat. John Martin) - Vintage Culture Remix",
+      "url": "https://open.spotify.com/track/4LnZ6LNxX2HfKetwEEpyU3"
     },
     {
       "album": {
@@ -1234,7 +1300,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 202000,
       "name": "Elsa's Scream",
       "url": "https://open.spotify.com/track/5hW6jSqtuAFKVrgsG9u1qQ"
@@ -1348,7 +1414,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 207619,
       "name": "Energy",
       "url": "https://open.spotify.com/track/0oO8senyNdYxs075cnTTL2"
@@ -1535,6 +1601,24 @@
     },
     {
       "album": {
+        "name": "Fading",
+        "url": "https://open.spotify.com/album/04HcvlMjZ3dGBkjvVrbSwf"
+      },
+      "artists": [
+        {
+          "name": "Swimming Paul",
+          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267842,
+      "name": "Fading",
+      "url": "https://open.spotify.com/track/7dGWQLlYtJszgqdSjxRgpL"
+    },
+    {
+      "album": {
         "name": "Fake ID (Coke & Rum Remix)",
         "url": "https://open.spotify.com/album/7pKuRGliZzRAHJaFED7y6Q"
       },
@@ -1651,6 +1735,24 @@
     },
     {
       "album": {
+        "name": "Find U",
+        "url": "https://open.spotify.com/album/5clE9ya21baTT6qhtNEVF9"
+      },
+      "artists": [
+        {
+          "name": "Disfreq",
+          "url": "https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214864,
+      "name": "Find U",
+      "url": "https://open.spotify.com/track/6ZszWxc2N3E1W200tDEAQs"
+    },
+    {
+      "album": {
         "name": "Fire & Rain",
         "url": "https://open.spotify.com/album/7sEj5kw3b1gi3iY5ijqJCJ"
       },
@@ -1702,7 +1804,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 284823,
       "name": "Flashing Lights - Extended Mix",
       "url": "https://open.spotify.com/track/3RJyaa0999jHaage1AgOQp"
@@ -2206,6 +2308,24 @@
       "duration_ms": 403716,
       "name": "Huge Organ",
       "url": "https://open.spotify.com/track/0zP9e41aqAToTcN8Ioh9FS"
+    },
+    {
+      "album": {
+        "name": "Hypnos Nyx",
+        "url": "https://open.spotify.com/album/6XmHYA4bu2srwQxk7FHTLo"
+      },
+      "artists": [
+        {
+          "name": "Patrick Ruprecht",
+          "url": "https://open.spotify.com/artist/7KoxAmAWgIo6I6XEkLhIIT"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302520,
+      "name": "Hypnos Nyx",
+      "url": "https://open.spotify.com/track/1ibMUfep7E41cWpmtjLXFN"
     },
     {
       "album": {
@@ -3304,7 +3424,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 390368,
       "name": "Need You - Extended Mix",
       "url": "https://open.spotify.com/track/39N6Oi7d8qYmBqPAwpSV0h"
@@ -4410,6 +4530,24 @@
       "duration_ms": 207761,
       "name": "So Sweet",
       "url": "https://open.spotify.com/track/4Ehm5IVHbwkOHiS6kWHgbX"
+    },
+    {
+      "album": {
+        "name": "Solas",
+        "url": "https://open.spotify.com/album/1B7GgTrucaQcekQypzornp"
+      },
+      "artists": [
+        {
+          "name": "Froman",
+          "url": "https://open.spotify.com/artist/2XmYUy3NJHRuT3hBb8IS76"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193846,
+      "name": "Solas",
+      "url": "https://open.spotify.com/track/75KWFcSxPOCYy6HYe2rXmY"
     },
     {
       "album": {

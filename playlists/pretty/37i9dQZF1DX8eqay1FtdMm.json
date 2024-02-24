@@ -1,12 +1,12 @@
 {
   "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: Lim Jae Beum(\uc784\uc7ac\ubc94)) (\uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 331613,
+  "num_followers": 331848,
   "original_name": "v o K a l",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NzExNjVjOTE4YWQ2NWRjZmEwYTg0NzQzOThkMjM1ODFkMjE0M2I1",
+  "snapshot_id": "MCwyMTIwNjBkNDJiMjdkMzI4YzZhODY5MjQzN2RkMjE3MWQ4ZjE1OWRh",
   "tracks": [
     {
       "added_at": "2024-02-20 05:46:12",
@@ -383,22 +383,18 @@
     {
       "added_at": "2024-02-20 05:46:12",
       "album": {
-        "name": "Our Blues, Pt. 4 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/3Zu8uym76sjmYEGTFsXnSy"
+        "name": "Older",
+        "url": "https://open.spotify.com/album/5Tz4JnX2qcVxDDLpG8d2LY"
       },
       "artists": [
         {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        },
-        {
-          "name": "HA SUNG WOON",
-          "url": "https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU"
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 201905,
-      "name": "With you",
-      "url": "https://open.spotify.com/track/2gzhQaCTeNgxpeB2TPllyY"
+      "duration_ms": 201303,
+      "name": "Older",
+      "url": "https://open.spotify.com/track/2EBtLxQSV8EHpk4gHoMnl3"
     },
     {
       "added_at": "2024-02-20 05:46:12",
@@ -419,18 +415,22 @@
     {
       "added_at": "2024-02-20 05:46:12",
       "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/5Tz4JnX2qcVxDDLpG8d2LY"
+        "name": "Our Blues, Pt. 4 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/3Zu8uym76sjmYEGTFsXnSy"
       },
       "artists": [
         {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        },
+        {
+          "name": "HA SUNG WOON",
+          "url": "https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU"
         }
       ],
-      "duration_ms": 201303,
-      "name": "Older",
-      "url": "https://open.spotify.com/track/2EBtLxQSV8EHpk4gHoMnl3"
+      "duration_ms": 201905,
+      "name": "With you",
+      "url": "https://open.spotify.com/track/2gzhQaCTeNgxpeB2TPllyY"
     },
     {
       "added_at": "2024-02-20 05:46:12",
@@ -987,18 +987,18 @@
     {
       "added_at": "2024-02-20 05:46:12",
       "album": {
-        "name": "LOVE.",
-        "url": "https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU"
+        "name": "\ucc9c\uad6d\uc758 \uacc4\ub2e8 OST",
+        "url": "https://open.spotify.com/album/5uZtiEhZmVROQk8dsiOrwq"
       },
       "artists": [
         {
-          "name": "Def.",
-          "url": "https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58"
+          "name": "KIM BUMSOO",
+          "url": "https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt"
         }
       ],
-      "duration_ms": 203269,
-      "name": "SUNSET WITH YOU",
-      "url": "https://open.spotify.com/track/7AOtWjLx5SaKVVGzberZ7i"
+      "duration_ms": 244128,
+      "name": "\ubcf4\uace0\uc2f6\ub2e4",
+      "url": "https://open.spotify.com/track/4i39vkBJzBnYvBMua65Rwi"
     },
     {
       "added_at": "2024-02-20 05:46:12",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2024-02-20 05:46:12",
       "album": {
-        "name": "\ucc9c\uad6d\uc758 \uacc4\ub2e8 OST",
-        "url": "https://open.spotify.com/album/5uZtiEhZmVROQk8dsiOrwq"
+        "name": "LOVE.",
+        "url": "https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU"
       },
       "artists": [
         {
-          "name": "KIM BUMSOO",
-          "url": "https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt"
+          "name": "Def.",
+          "url": "https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58"
         }
       ],
-      "duration_ms": 244128,
-      "name": "\ubcf4\uace0\uc2f6\ub2e4",
-      "url": "https://open.spotify.com/track/4i39vkBJzBnYvBMua65Rwi"
+      "duration_ms": 203269,
+      "name": "SUNSET WITH YOU",
+      "url": "https://open.spotify.com/track/7AOtWjLx5SaKVVGzberZ7i"
     },
     {
       "added_at": "2024-02-20 05:46:12",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-02-20 05:46:12",
       "album": {
-        "name": "Stay Here",
-        "url": "https://open.spotify.com/album/7asMIo6qEhr9Gt5rE1Tmvw"
-      },
-      "artists": [
-        {
-          "name": "Gaho",
-          "url": "https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc"
-        }
-      ],
-      "duration_ms": 228615,
-      "name": "Stay Here",
-      "url": "https://open.spotify.com/track/20mZ4O5ztRZltdvLEJbi4z"
-    },
-    {
-      "added_at": "2024-02-20 05:46:12",
-      "album": {
         "name": "Through the Night",
         "url": "https://open.spotify.com/album/1zQnkQc68sQj2Ns5GIuxld"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 253293,
       "name": "Through the Night",
       "url": "https://open.spotify.com/track/1Bb6jVrsg8cXxMCBxIWJUn"
+    },
+    {
+      "added_at": "2024-02-20 05:46:12",
+      "album": {
+        "name": "Stay Here",
+        "url": "https://open.spotify.com/album/7asMIo6qEhr9Gt5rE1Tmvw"
+      },
+      "artists": [
+        {
+          "name": "Gaho",
+          "url": "https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc"
+        }
+      ],
+      "duration_ms": 228615,
+      "name": "Stay Here",
+      "url": "https://open.spotify.com/track/20mZ4O5ztRZltdvLEJbi4z"
     },
     {
       "added_at": "2024-02-20 05:46:12",
@@ -1199,6 +1199,26 @@
     {
       "added_at": "2024-02-20 05:46:12",
       "album": {
+        "name": "Mother Nature (H\u2082O)",
+        "url": "https://open.spotify.com/album/6gdnJ11QQyvpVljTUR3BWw"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        },
+        {
+          "name": "Kang Seungwon",
+          "url": "https://open.spotify.com/artist/48DsjCcpYJQWi5fulzyuBm"
+        }
+      ],
+      "duration_ms": 232586,
+      "name": "Mother Nature (H\u2082O)",
+      "url": "https://open.spotify.com/track/7KZThhMaRjQpB9x6yIJvZ8"
+    },
+    {
+      "added_at": "2024-02-20 05:46:12",
+      "album": {
         "name": "Think About You",
         "url": "https://open.spotify.com/album/7FM73ppcpjWsYMMsyOeptQ"
       },
@@ -1227,26 +1247,6 @@
       "duration_ms": 260668,
       "name": "Nights Into Days (Prod. by Naul)",
       "url": "https://open.spotify.com/track/7yMSnQEier8Kp4iQuIvt0t"
-    },
-    {
-      "added_at": "2024-02-20 05:46:12",
-      "album": {
-        "name": "Mother Nature (H\u2082O)",
-        "url": "https://open.spotify.com/album/6gdnJ11QQyvpVljTUR3BWw"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        },
-        {
-          "name": "Kang Seungwon",
-          "url": "https://open.spotify.com/artist/48DsjCcpYJQWi5fulzyuBm"
-        }
-      ],
-      "duration_ms": 232586,
-      "name": "Mother Nature (H\u2082O)",
-      "url": "https://open.spotify.com/track/7KZThhMaRjQpB9x6yIJvZ8"
     },
     {
       "added_at": "2024-02-20 05:46:12",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-02-20 05:46:12",
       "album": {
-        "name": "5.5 [Dear]",
-        "url": "https://open.spotify.com/album/5Xj2IIbt7LhiFppSWrLB6l"
-      },
-      "artists": [
-        {
-          "name": "10CM",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        }
-      ],
-      "duration_ms": 221946,
-      "name": "Dear",
-      "url": "https://open.spotify.com/track/6fPdsA80GQ6SwfCC1sO7Y9"
-    },
-    {
-      "added_at": "2024-02-20 05:46:12",
-      "album": {
         "name": "haeyo (2022)",
         "url": "https://open.spotify.com/album/2KgYaKN5C3h33TEgCrbfAo"
       },
@@ -1431,34 +1415,18 @@
     {
       "added_at": "2024-02-20 05:46:12",
       "album": {
-        "name": "WOOOF!",
-        "url": "https://open.spotify.com/album/1y4t87ut2gkVbmGfNjaPyV"
+        "name": "5.5 [Dear]",
+        "url": "https://open.spotify.com/album/5Xj2IIbt7LhiFppSWrLB6l"
       },
       "artists": [
         {
-          "name": "THAMA",
-          "url": "https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld"
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
         }
       ],
-      "duration_ms": 267857,
-      "name": "Baby I Know",
-      "url": "https://open.spotify.com/track/6Qrz1XYQHe0yTVZw5r3KCs"
-    },
-    {
-      "added_at": "2024-02-20 05:46:12",
-      "album": {
-        "name": "I'M",
-        "url": "https://open.spotify.com/album/3OnWObhf5pDIx4NLTAqYZa"
-      },
-      "artists": [
-        {
-          "name": "Lim Changjung",
-          "url": "https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5"
-        }
-      ],
-      "duration_ms": 238252,
-      "name": "\ub0b4\uac00 \uc800\uc9c0\ub978 \uc0ac\ub791",
-      "url": "https://open.spotify.com/track/72UARrP1LDMUMuZ7tRAxku"
+      "duration_ms": 221946,
+      "name": "Dear",
+      "url": "https://open.spotify.com/track/6fPdsA80GQ6SwfCC1sO7Y9"
     },
     {
       "added_at": "2024-02-20 05:46:12",
@@ -1475,6 +1443,22 @@
       "duration_ms": 265058,
       "name": "in the bed",
       "url": "https://open.spotify.com/track/3WhLjQxdRYrI4JjmIEFnPe"
+    },
+    {
+      "added_at": "2024-02-20 05:46:12",
+      "album": {
+        "name": "I'M",
+        "url": "https://open.spotify.com/album/3OnWObhf5pDIx4NLTAqYZa"
+      },
+      "artists": [
+        {
+          "name": "Lim Changjung",
+          "url": "https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5"
+        }
+      ],
+      "duration_ms": 238252,
+      "name": "\ub0b4\uac00 \uc800\uc9c0\ub978 \uc0ac\ub791",
+      "url": "https://open.spotify.com/track/72UARrP1LDMUMuZ7tRAxku"
     },
     {
       "added_at": "2024-02-20 05:46:12",
@@ -1511,6 +1495,22 @@
       "duration_ms": 238853,
       "name": "Way",
       "url": "https://open.spotify.com/track/5jQRsJZzu8jicHgC3wgiY5"
+    },
+    {
+      "added_at": "2024-02-20 05:46:12",
+      "album": {
+        "name": "WOOOF!",
+        "url": "https://open.spotify.com/album/1y4t87ut2gkVbmGfNjaPyV"
+      },
+      "artists": [
+        {
+          "name": "THAMA",
+          "url": "https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld"
+        }
+      ],
+      "duration_ms": 267857,
+      "name": "Baby I Know",
+      "url": "https://open.spotify.com/track/6Qrz1XYQHe0yTVZw5r3KCs"
     },
     {
       "added_at": "2024-02-20 05:46:12",

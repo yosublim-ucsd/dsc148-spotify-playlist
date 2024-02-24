@@ -1,13 +1,149 @@
 {
-  "description": "R&B of the moment by the artists of the future. Cover: Sha\u00e9 Universe",
-  "num_followers": 48670,
+  "description": "R&B of the moment by the artists of the future. Cover: Jaz Karis and Tone Stith",
+  "num_followers": 48700,
   "original_name": "R&B Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NThiZWNlYzMxNDNiYjJiN2NkMGI2MzFlNWI3YTdhZmIyN2MzM2Q2",
+  "snapshot_id": "MCw0YzNkMmMzNGRjNDYyZWViNTQ0MmE4ZDlhYmY0NWRmMDM1ODVjMTRj",
   "tracks": [
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "MET YOU AT A BAR",
+        "url": "https://open.spotify.com/album/5XFDNmKIETmCv4YabIQRHP"
+      },
+      "artists": [
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        },
+        {
+          "name": "Tone Stith",
+          "url": "https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44"
+        }
+      ],
+      "duration_ms": 160941,
+      "name": "MET YOU AT A BAR",
+      "url": "https://open.spotify.com/track/1tqDKxcXd2dlni26L3BGQ3"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "IS IT WORTH IT",
+        "url": "https://open.spotify.com/album/07Cy5GDf829nfPbW5hIHKf"
+      },
+      "artists": [
+        {
+          "name": "Rae Khalil",
+          "url": "https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq"
+        }
+      ],
+      "duration_ms": 220839,
+      "name": "IS IT WORTH IT",
+      "url": "https://open.spotify.com/track/4Nh0JxNzagptVbxUUbrcyW"
+    },
+    {
+      "added_at": "2024-02-09 18:38:40",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/7eSHhMZCCvJvubQ3plHlYZ"
+      },
+      "artists": [
+        {
+          "name": "Aqyila",
+          "url": "https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4"
+        }
+      ],
+      "duration_ms": 175057,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/5utUZ5nv6y6dR8irsnOQEj"
+    },
+    {
+      "added_at": "2024-02-09 18:38:40",
+      "album": {
+        "name": "BABY",
+        "url": "https://open.spotify.com/album/7uLBUfy84YyVLBVXAsbleT"
+      },
+      "artists": [
+        {
+          "name": "WanMor",
+          "url": "https://open.spotify.com/artist/5XmuuM2C6t4HSPa3FSuU3h"
+        }
+      ],
+      "duration_ms": 158246,
+      "name": "BABY",
+      "url": "https://open.spotify.com/track/5iLJL1EM7qZ9xzBHrnvFXq"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "For The Streets",
+        "url": "https://open.spotify.com/album/1O17dsUsuI7Rb423Pxj1y2"
+      },
+      "artists": [
+        {
+          "name": "Inayah",
+          "url": "https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ"
+        }
+      ],
+      "duration_ms": 145605,
+      "name": "For The Streets",
+      "url": "https://open.spotify.com/track/5rbCN6PGBWjYt8aMxftGpX"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Just Friends",
+        "url": "https://open.spotify.com/album/14thQ7BVtbG7elqv2OrumA"
+      },
+      "artists": [
+        {
+          "name": "Reggie Becton",
+          "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
+        },
+        {
+          "name": "Mayila",
+          "url": "https://open.spotify.com/artist/0hgXW6IxEjc5qbrvZbiD2O"
+        }
+      ],
+      "duration_ms": 177786,
+      "name": "Just Friends",
+      "url": "https://open.spotify.com/track/4fECQCAJRoonwoGXi898an"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/2jCiuFgbccEXrHwsaJ84QV"
+      },
+      "artists": [
+        {
+          "name": "JON VINYL",
+          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
+        }
+      ],
+      "duration_ms": 235035,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/23DyGq8RBW6iTOhVkMUfXT"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "I Don't Love You",
+        "url": "https://open.spotify.com/album/3YRDP6zsko8EJm9xjgVo4n"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        }
+      ],
+      "duration_ms": 251009,
+      "name": "I Don't Love You",
+      "url": "https://open.spotify.com/track/2okP2LbGxMLQWqmkptMAIX"
+    },
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
@@ -43,106 +179,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "IS IT WORTH IT",
-        "url": "https://open.spotify.com/album/07Cy5GDf829nfPbW5hIHKf"
-      },
-      "artists": [
-        {
-          "name": "Rae Khalil",
-          "url": "https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq"
-        }
-      ],
-      "duration_ms": 220839,
-      "name": "IS IT WORTH IT",
-      "url": "https://open.spotify.com/track/4Nh0JxNzagptVbxUUbrcyW"
-    },
-    {
-      "added_at": "2024-02-09 18:38:40",
-      "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/7eSHhMZCCvJvubQ3plHlYZ"
-      },
-      "artists": [
-        {
-          "name": "Aqyila",
-          "url": "https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4"
-        }
-      ],
-      "duration_ms": 175057,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/5utUZ5nv6y6dR8irsnOQEj"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Just Friends",
-        "url": "https://open.spotify.com/album/14thQ7BVtbG7elqv2OrumA"
-      },
-      "artists": [
-        {
-          "name": "Reggie Becton",
-          "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
-        },
-        {
-          "name": "Mayila",
-          "url": "https://open.spotify.com/artist/0hgXW6IxEjc5qbrvZbiD2O"
-        }
-      ],
-      "duration_ms": 177786,
-      "name": "Just Friends",
-      "url": "https://open.spotify.com/track/4fECQCAJRoonwoGXi898an"
-    },
-    {
-      "added_at": "2024-02-09 18:38:40",
-      "album": {
-        "name": "BABY",
-        "url": "https://open.spotify.com/album/7uLBUfy84YyVLBVXAsbleT"
-      },
-      "artists": [
-        {
-          "name": "WanMor",
-          "url": "https://open.spotify.com/artist/5XmuuM2C6t4HSPa3FSuU3h"
-        }
-      ],
-      "duration_ms": 158246,
-      "name": "BABY",
-      "url": "https://open.spotify.com/track/5iLJL1EM7qZ9xzBHrnvFXq"
-    },
-    {
-      "added_at": "2024-01-19 06:47:03",
-      "album": {
-        "name": "If My Jeans Could Talk",
-        "url": "https://open.spotify.com/album/3Ra38oWsOPAv3x4Bv7jdLT"
-      },
-      "artists": [
-        {
-          "name": "Kyle Dion",
-          "url": "https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3"
-        }
-      ],
-      "duration_ms": 209933,
-      "name": "Put Your Hand in My Pocket",
-      "url": "https://open.spotify.com/track/2fXkEslayKkVNITdQiApt0"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Clouds",
-        "url": "https://open.spotify.com/album/2jCiuFgbccEXrHwsaJ84QV"
-      },
-      "artists": [
-        {
-          "name": "JON VINYL",
-          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
-        }
-      ],
-      "duration_ms": 235035,
-      "name": "Clouds",
-      "url": "https://open.spotify.com/track/23DyGq8RBW6iTOhVkMUfXT"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Episode 1: Lost",
         "url": "https://open.spotify.com/album/7cEWlOUBq4Fj6J8nEy81ip"
       },
@@ -173,20 +209,20 @@
       "url": "https://open.spotify.com/track/1w8XryfrrR7rXSo5GscZ5f"
     },
     {
-      "added_at": "2024-02-16 05:00:00",
+      "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "For The Streets",
-        "url": "https://open.spotify.com/album/1O17dsUsuI7Rb423Pxj1y2"
+        "name": "Delusion",
+        "url": "https://open.spotify.com/album/02Sbm2LatYl69bi0sWv4zc"
       },
       "artists": [
         {
-          "name": "Inayah",
-          "url": "https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ"
+          "name": "Amaeya",
+          "url": "https://open.spotify.com/artist/7LBhTlMPyB6xjAr8muuR56"
         }
       ],
-      "duration_ms": 145605,
-      "name": "For The Streets",
-      "url": "https://open.spotify.com/track/5rbCN6PGBWjYt8aMxftGpX"
+      "duration_ms": 170232,
+      "name": "Delusion",
+      "url": "https://open.spotify.com/track/7atJqz72vCyJyNIiRo33XO"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -203,6 +239,22 @@
       "duration_ms": 162374,
       "name": "You For Me",
       "url": "https://open.spotify.com/track/1vs8g4oyFhRe2a4IvrQRH2"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Heads Up",
+        "url": "https://open.spotify.com/album/2AsA2saG1hWf1saYVkSPAl"
+      },
+      "artists": [
+        {
+          "name": "Trevor Jackson",
+          "url": "https://open.spotify.com/artist/6vZUJpsm4VHjSWpedp05vg"
+        }
+      ],
+      "duration_ms": 153680,
+      "name": "Heads Up",
+      "url": "https://open.spotify.com/track/4uFxhKQAoEowGajQmONHmU"
     },
     {
       "added_at": "2024-02-09 18:38:40",
@@ -239,6 +291,22 @@
       "duration_ms": 192000,
       "name": "Conversations",
       "url": "https://open.spotify.com/track/45h8fd89Ft7vIaGMDWNFOV"
+    },
+    {
+      "added_at": "2024-01-19 06:47:03",
+      "album": {
+        "name": "If My Jeans Could Talk",
+        "url": "https://open.spotify.com/album/3Ra38oWsOPAv3x4Bv7jdLT"
+      },
+      "artists": [
+        {
+          "name": "Kyle Dion",
+          "url": "https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3"
+        }
+      ],
+      "duration_ms": 209933,
+      "name": "Put Your Hand in My Pocket",
+      "url": "https://open.spotify.com/track/2fXkEslayKkVNITdQiApt0"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -835,22 +903,6 @@
     {
       "added_at": "2024-01-10 17:00:00",
       "album": {
-        "name": "Back",
-        "url": "https://open.spotify.com/album/26PeJZE5BuDDc95AM07vX5"
-      },
-      "artists": [
-        {
-          "name": "JayO",
-          "url": "https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD"
-        }
-      ],
-      "duration_ms": 138130,
-      "name": "Back",
-      "url": "https://open.spotify.com/track/0GEX3Viy33NfvCax4GUREd"
-    },
-    {
-      "added_at": "2024-01-10 17:00:00",
-      "album": {
         "name": "Ocean Drive",
         "url": "https://open.spotify.com/album/0UZ64CPmniIULvZDBrM4iI"
       },
@@ -1149,22 +1201,6 @@
       "url": "https://open.spotify.com/track/7ewblRqDhpyWHdZd0taBB1"
     },
     {
-      "added_at": "2024-01-12 06:08:31",
-      "album": {
-        "name": "Sadboy, Vol. 1",
-        "url": "https://open.spotify.com/album/1TTd0iMUtCjzvoQTzMcCLo"
-      },
-      "artists": [
-        {
-          "name": "Reggie Becton",
-          "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
-        }
-      ],
-      "duration_ms": 130021,
-      "name": "Sadboy",
-      "url": "https://open.spotify.com/track/7I3ruC2uRcHSd5IYMkabSJ"
-    },
-    {
       "added_at": "2024-01-10 17:00:00",
       "album": {
         "name": "ARTchives",
@@ -1251,22 +1287,6 @@
     {
       "added_at": "2024-01-10 17:00:00",
       "album": {
-        "name": "Let This Go",
-        "url": "https://open.spotify.com/album/4JtkxBWC37gnLUi1oWid1V"
-      },
-      "artists": [
-        {
-          "name": "JON VINYL",
-          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
-        }
-      ],
-      "duration_ms": 177363,
-      "name": "Let This Go",
-      "url": "https://open.spotify.com/track/5AvT8QuysDMHiqKD9lDulK"
-    },
-    {
-      "added_at": "2024-01-10 17:00:00",
-      "album": {
         "name": "Caught Between 2 Worlds",
         "url": "https://open.spotify.com/album/0fr2yHigw1YG1oAJ2V8whE"
       },
@@ -1339,26 +1359,6 @@
       "duration_ms": 143773,
       "name": "nite",
       "url": "https://open.spotify.com/track/5d2sBOqleqxg8noBOvQEYa"
-    },
-    {
-      "added_at": "2024-01-10 17:00:00",
-      "album": {
-        "name": "Can't Fake What You Feel",
-        "url": "https://open.spotify.com/album/0xHIoMRaY6G1O4HRRNbQMG"
-      },
-      "artists": [
-        {
-          "name": "Jordan Hawkins",
-          "url": "https://open.spotify.com/artist/70XiOMiwBAHHspwHrkxlJY"
-        },
-        {
-          "name": "Duckwrth",
-          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
-        }
-      ],
-      "duration_ms": 171052,
-      "name": "Can't Fake What You Feel",
-      "url": "https://open.spotify.com/track/2LPOh5ANJBPtPpixYxG4qq"
     },
     {
       "added_at": "2024-01-10 17:00:00",

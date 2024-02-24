@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: $OHO BANI, Herbert Grönemeyer
 
-1,697 songs - 3 day 8 hr 19 min
+1,698 songs - 3 day 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1626,7 +1626,7 @@
 | [What Would Pluto Do](https://open.spotify.com/track/1DAibqbopEYULPEtE8WHTE) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 3:02 | 2023-10-06 | 2023-10-13 |
 | [WHAT YOU WANT!](https://open.spotify.com/track/2efqgrEC6lsx3KTy1yhllR) | [asteria](https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9) | [WHAT YOU WANT!](https://open.spotify.com/album/7yt6zGA0dODjvY3Cmwx5cd) | 2:02 | 2024-01-04 | 2024-01-12 |
 | [WHAT'S THE MOVE? \(feat\. Future and BabyDrill\)](https://open.spotify.com/track/0oqnZWNBvobs1t181f45Ck) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [WHAT'S THE MOVE? \(feat\. Future and BabyDrill\)](https://open.spotify.com/album/4GwIahaGnJ2cA4QfAJ74nF) | 3:19 | 2023-11-09 | 2023-11-17 |
-| [When the Beat Drops Out](https://open.spotify.com/track/2IsKaRJ7UvvJWevayDVrcC) | [Marlon Roudette](https://open.spotify.com/artist/2R1QrQqWuw3IjoP5dXRFjt) | [Electric Soul](https://open.spotify.com/album/1jEzasZka5mQAfuIlUuFNN) | 3:24 | 2024-01-11 |  |
+| [When the Beat Drops Out](https://open.spotify.com/track/2IsKaRJ7UvvJWevayDVrcC) | [Marlon Roudette](https://open.spotify.com/artist/2R1QrQqWuw3IjoP5dXRFjt) | [Electric Soul](https://open.spotify.com/album/1jEzasZka5mQAfuIlUuFNN) | 3:24 | 2024-01-11 | 2024-02-24 |
 | [Where Do We Go Now? \(Music from Lil Nas X: Long Live Montero\)](https://open.spotify.com/track/0jeRoIMD1LHhUkQEbjkXQv) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [Where Do We Go Now? \(Music from Lil Nas X: Long Live Montero\)](https://open.spotify.com/album/3xYwyMzauc6ENKu2HhpuiP) | 3:15 | 2024-01-25 | 2024-02-02 |
 | [Where Them Girls At \(feat\. Nicki Minaj & Flo Rida\)](https://open.spotify.com/track/63rbP24OzfaQCJjsHWZXnY) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Nothing but the Beat 2.0](https://open.spotify.com/album/5aprcHwM1KJhaY9Kbxkfkn) | 3:30 | 2023-05-11 | 2023-06-30 |
 | [white tee](https://open.spotify.com/track/4TVsTKQVeC99tCjfRKLeob) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [Lil Tracy](https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi) | [crybaby](https://open.spotify.com/album/4MTh1JiOhgK2BQQjKI5RyI) | 2:12 | 2023-06-22 | 2023-07-28 |
@@ -1661,6 +1661,7 @@
 | [WORTH NOTHING \- Fast & Furious: Drift Tape/Phonk Vol 1](https://open.spotify.com/track/5Zlb01Jcn0Ld49zazzZJSB) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [WORTH NOTHING \(Fast & Furious: Drift Tape/Phonk Vol 1\)](https://open.spotify.com/album/0oozY5vsoDRBVnAaStpBGI) | 2:44 | 2022-12-08 | 2023-04-07 |
 | [WORTHLESS](https://open.spotify.com/track/13b4mk5KeJxL0GllHLvtXQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WORTHLESS](https://open.spotify.com/album/3hNpYeCH7WOUNhXxV7AosH) | 2:43 | 2023-03-09 | 2023-03-31 |
 | [Wünsch dir was](https://open.spotify.com/track/6Quqy3JY071g2d56w5VZEL) | [Jojee](https://open.spotify.com/artist/2azLzTxCm662tbpPwPwQwI), [DIRECTA](https://open.spotify.com/artist/2v4YJINKwkBY3DajPcmWm3) | [Wünsch dir was](https://open.spotify.com/album/6CLYKj7zD3Y9l4bq8NviBM) | 2:26 | 2023-12-21 |  |
+| [Würdest alles für mich tun](https://open.spotify.com/track/2Nf0RYHnBsqCOsd9mZRnIw) | [Yung Yury](https://open.spotify.com/artist/7tzELpzPjTq26pa5FT9ykz), [DUEJA](https://open.spotify.com/artist/1QKx9HbmmkV4FgL2nkFVRl), [Damn Yury](https://open.spotify.com/artist/7oxHYIVHNg4JQdKnUe1HiQ) | [Würdest alles für mich tun](https://open.spotify.com/album/7EZwi6h0U5C51jc5DgtLVX) | 3:01 | 2024-02-23 |  |
 | [Yeah Hoe](https://open.spotify.com/track/6AH6xjU0eeQBD6v7ERqY7V) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [Yeah Hoe](https://open.spotify.com/album/5KZ9tODFrHk8rKKj5sYpCt) | 2:44 | 2023-01-05 | 2023-01-25 |
 | [YEAH RIGHT](https://open.spotify.com/track/1VGzxJnVQND7Cg5H5wGj14) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [BALLADS 1](https://open.spotify.com/album/34GQP3dILpyCN018y2k61L) | 2:54 | 2023-08-29 | 2023-10-06 |
 | [yes, and?](https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [yes, and?](https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb) | 3:34 | 2024-01-18 | 2024-02-02 |

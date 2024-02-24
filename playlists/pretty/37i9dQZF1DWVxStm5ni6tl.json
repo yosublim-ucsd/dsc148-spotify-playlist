@@ -1,12 +1,12 @@
 {
   "description": "Discover the <a href=\"spotify:genre:0JQ5DAqbMKFImHYGo3eTSg\">best new music</a> by independent artists and labels in Canada, updated every Wednesday. Cover: CUBE",
-  "num_followers": 7635,
+  "num_followers": 7676,
   "original_name": "Fresh Finds Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NjhjODQ5YWQwMmQ2NWEyNzMwZGZhYWJlZTA0Mjk0ZTVkMzFjOTg5",
+  "snapshot_id": "MCwxZWM3NjA0NWY4MjMyYjkwMWY1NDNmZjUzOTEwMDBjNTllNDgwMzgx",
   "tracks": [
     {
       "added_at": "2024-02-22 23:13:46",
@@ -71,6 +71,26 @@
       "duration_ms": 241985,
       "name": "Supernatural",
       "url": "https://open.spotify.com/track/5uwlYbJ8xovXnbTL0TaItp"
+    },
+    {
+      "added_at": "2024-02-22 23:13:46",
+      "album": {
+        "name": "Babe Ruth",
+        "url": "https://open.spotify.com/album/0SDt2reTVDvRistsKnYFge"
+      },
+      "artists": [
+        {
+          "name": "CHUNG",
+          "url": "https://open.spotify.com/artist/3JaOZg9OeS0sOnwz9MtvOe"
+        },
+        {
+          "name": "perutheproducer",
+          "url": "https://open.spotify.com/artist/7HZgGgNEM5zlE19qV12YWK"
+        }
+      ],
+      "duration_ms": 109879,
+      "name": "Babe Ruth",
+      "url": "https://open.spotify.com/track/7nIXIgN0lx8YsEx6UbL0ue"
     },
     {
       "added_at": "2024-02-22 23:13:46",

@@ -4,7 +4,7 @@
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/3T7YH8Lq7GMkrYLiWvaXgc?si=sCJpLXugRKKZssTKQEG4ig"> Josef Lamercier </a>\. Updates every Wednesday.
 
-2,055 songs - 4 day 9 hr 40 min
+2,057 songs - 4 day 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -918,7 +918,7 @@
 | [It's Our Love](https://open.spotify.com/track/2ZA4tDZvsxFO6Yw5OENin7) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Will I See You Again?](https://open.spotify.com/album/7yp4ZtP97mPJTdmRjHaiaH) | 3:47 | 2021-12-01 | 2022-01-13 |
 | [IYD](https://open.spotify.com/track/4y6dllKXayYv9qGKWHkSyg) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [GANGSTER ROMANTIC](https://open.spotify.com/album/0qogcdzZgkdwcVGrtHho6G) | 2:55 | 2023-03-03 | 2024-01-11 |
 | [I’m Here With You](https://open.spotify.com/track/6ca3H6RQI54JA11KJRTxWW) | [Matt B](https://open.spotify.com/artist/0LWBqstmNeW3r6kOswfZ1J) | [I’m Here With You](https://open.spotify.com/album/6XqdzvEPGDkEPZWOq0Kryu) | 3:15 | 2022-09-14 | 2022-09-29 |
-| [i’m serious..](https://open.spotify.com/track/6gWHZ5OTI5IZKZHVDsQChw) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [i’m serious..](https://open.spotify.com/album/0zze178eE5CWNl87VKiv5r) | 3:23 | 2024-02-21 |  |
+| [i’m serious..](https://open.spotify.com/track/6gWHZ5OTI5IZKZHVDsQChw) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [i’m serious..](https://open.spotify.com/album/0zze178eE5CWNl87VKiv5r) | 3:23 | 2024-02-21 | 2024-02-24 |
 | [Jackpot](https://open.spotify.com/track/6JyPsLul5RnHrFPxKBX1ch) | [Neisha Neshae](https://open.spotify.com/artist/7IAHqUnycA5bsMGTVxmqJg) | [Jackpot](https://open.spotify.com/album/0s6B9ThwgVUkbEodagE6Y7) | 3:15 | 2023-03-10 | 2023-06-03 |
 | [JACKSON](https://open.spotify.com/track/4crGyHHrBE4tB6x9q01iwH) | [Baby Storme](https://open.spotify.com/artist/7cwYKm54nTTbnm0UnH0xBe) | [JACKSON](https://open.spotify.com/album/0Q2xVIyvAp01gBhLZeEGPV) | 2:19 | 2021-12-01 | 2022-01-13 |
 | [Jaded](https://open.spotify.com/track/7GY7wZIxEMqeF0glLFKC4p) | [BASI VIBE](https://open.spotify.com/artist/3AK9OvKuDIZIYFEgIxVorF) | [Jaded](https://open.spotify.com/album/7IuTU0P8mUTsu3WBsWWztp) | 3:52 | 2023-02-10 | 2023-04-13 |
@@ -1471,6 +1471,7 @@
 | [raindrops](https://open.spotify.com/track/0opAHADyfECeBJIjIHj429) | [gab • brie](https://open.spotify.com/artist/2R9d5jPXwo9Soa0LhWPhVk) | [raindrops](https://open.spotify.com/album/6NgXWw9WPijXal0q72Y0rA) | 2:59 | 2022-02-09 | 2022-03-12 |
 | [Raining Tomorrow](https://open.spotify.com/track/6CBBTbmqTTSCzkSyfpUs8n) | [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [Raining Tomorrow](https://open.spotify.com/album/3bG5fjCjRBLHq0b6p2oGBY) | 3:48 | 2023-08-09 | 2024-01-11 |
 | [RAINON](https://open.spotify.com/track/3DDkmwgK1tvj39qYpZUolo) | [DCMBR](https://open.spotify.com/artist/6sjYoprgk0hVjBA77kIXUr), [Bizness Boi](https://open.spotify.com/artist/6C6Q9qXILDoSIegeGf6gId) | [RAINON](https://open.spotify.com/album/6YDHIeOXmiKBQuLGmfaRAr) | 3:19 | 2023-09-20 | 2023-11-30 |
+| [Rather Be Alone](https://open.spotify.com/track/6qSz7JRxl82ktOqEFkYs5N) | [Christian Paul](https://open.spotify.com/artist/1Bfi1Jw2HGVbOEjOdtApOe) | [Rather Be Alone](https://open.spotify.com/album/4ZV3fFSgd1t8KroYEopSS6) | 2:47 | 2024-02-23 |  |
 | [REACQUAINTED](https://open.spotify.com/track/5RFwpHSu6rSCKLsNLITYqx) | [Nobu Woods](https://open.spotify.com/artist/5ALcXwMBh6MxbInMWmHElC) | [MIDNIGHT MOTIONS](https://open.spotify.com/album/7rbg49mWE6c7vMhi2Ar2qX) | 3:10 | 2023-11-08 | 2023-11-30 |
 | [Ready](https://open.spotify.com/track/2IalGwqepRDUCW3qzSoUU6) | [KAIRO](https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v) | [Return To Sender](https://open.spotify.com/album/3jOzdF8WPsqwUp9OznStfw) | 2:38 | 2022-10-19 | 2022-12-01 |
 | [Ready](https://open.spotify.com/track/716LKQHf6kvym6xFHHk3gB) | [KAIRO](https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v) | [Brokenhearted / Ready](https://open.spotify.com/album/2UUiCulADu8RPldHHm6icj) | 2:38 | 2022-10-19 | 2022-11-12 |
@@ -1992,6 +1993,7 @@
 | [WhiskeY](https://open.spotify.com/track/1jT2OJlY4Y4MRzMdEI4Me9) | [Saeku](https://open.spotify.com/artist/1Q6esqI8NxePB4bbW3Cmn8) | [WhiskeY](https://open.spotify.com/album/7DD1Kl38Z8wvEMav79Kn9C) | 1:46 | 2023-09-20 | 2023-11-30 |
 | [Whispers In The Wind](https://open.spotify.com/track/2ER0GjqhDrizhVMPgfyxCy) | [Latir](https://open.spotify.com/artist/44oMko09F9g8RQTkh39GSr) | [Whispers In The Wind](https://open.spotify.com/album/0GgGGU3khL4gPSycv1uBby) | 3:36 | 2023-10-25 | 2023-11-30 |
 | [Who Am I](https://open.spotify.com/track/3JkZIQ0ZfWqLCqVy7eSprF) | [BARii](https://open.spotify.com/artist/4jE5cWGKx0v4EibgRbhZYJ), [Twigg Martin](https://open.spotify.com/artist/5F2DtKXZAnKgl5e3BSiI5M) | [Who Am I](https://open.spotify.com/album/0Dqt8s4WGzjqUnQz97mklE) | 2:02 | 2023-07-05 | 2023-09-09 |
+| [Who Can Blame Her](https://open.spotify.com/track/0eSTu4biq1whc8u8SaS3F3) | [Zeke Pujols](https://open.spotify.com/artist/6DkjuCr4iY5W4ej8gO3MAG) | [Who Can Blame Her](https://open.spotify.com/album/5Jy7binbpM27qw7YK10LEh) | 3:05 | 2024-02-23 |  |
 | [Who I Am](https://open.spotify.com/track/1UBRExDo8VoRSMchX9C0xm) | [Muwosi](https://open.spotify.com/artist/0O0LFxVzzKXHPl4YkxW6y2) | [Who I Am](https://open.spotify.com/album/1tyWE89nzY3lj2sxYIlGAL) | 2:29 | 2023-01-12 | 2023-01-27 |
 | [Who Raised You?](https://open.spotify.com/track/3YPu9RiQWont2PkBIqhzOz) | [Raghd](https://open.spotify.com/artist/5CIGqUkWQ0OY3U7HGlDlvw) | [Who Raised You?](https://open.spotify.com/album/1sXV7U5PQZJQpI0HQrB9oy) | 3:47 | 2023-03-17 | 2023-04-22 |
 | [whose fault](https://open.spotify.com/track/24bEwSczFXVlFyqfAHQfls) | [Ebhoni](https://open.spotify.com/artist/7bWXoXVgDSWw6lWZD4fCb6) | [whose fault](https://open.spotify.com/album/5XcLFnMT5SBsTVfAwm5Vl0) | 2:06 | 2022-05-26 | 2022-08-27 |

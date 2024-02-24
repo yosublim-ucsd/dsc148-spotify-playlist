@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-1,323 songs - 3 day 9 hr 3 min
+1,324 songs - 3 day 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -385,7 +385,7 @@
 | [How's The Weather?](https://open.spotify.com/track/2fDYeWXk5CZa5fDu55TXVR) | [aimi](https://open.spotify.com/artist/4YejPGH3QAUl4dj1ZZk6e7), [EMI MARIA](https://open.spotify.com/artist/4RXIhUAlNFVdzLCWEWdRD8), [Modesty Beats](https://open.spotify.com/artist/13FbrmsM0RLfPPbiqh7iCQ) | [How's The Weather?](https://open.spotify.com/album/61DqjqYnKIVtoKmw8rujY4) | 3:47 | 2023-05-23 | 2023-05-31 |
 | [HOWL](https://open.spotify.com/track/2eallREIVzmmZHdHhoRWGb) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [HOWL](https://open.spotify.com/album/4zkYI1CfV3vD2r40Cpe4iT) | 4:03 | 2022-11-08 | 2023-02-10 |
 | [Hozue](https://open.spotify.com/track/7p3plksuVPhzw06KskgFFr) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Hozue](https://open.spotify.com/album/0HC1HrnxGZyvss2drq6Ff0) | 3:40 | 2023-04-06 | 2023-07-10 |
-| [hug](https://open.spotify.com/track/3jwaGwOgFyXRl6IThzjrSm) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [hug](https://open.spotify.com/album/0boGoIknbk1cBA76Icgov7) | 3:49 | 2024-01-23 |  |
+| [hug](https://open.spotify.com/track/3jwaGwOgFyXRl6IThzjrSm) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [hug](https://open.spotify.com/album/0boGoIknbk1cBA76Icgov7) | 3:49 | 2024-01-23 | 2024-02-24 |
 | [HUMAN](https://open.spotify.com/track/2HTPQfPf92R09MFSOaE8nD) | [age](https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg) | [HUMAN](https://open.spotify.com/album/2ff6i92pRXmlG5QpKDOeuU) | 4:17 | 2023-02-23 | 2023-03-31 |
 | [Hunger for Blood](https://open.spotify.com/track/4XWtoH8HAjk3IHb86SIPqF) | [Kenta Dedachi](https://open.spotify.com/artist/0kpcv0xdcnCWiCXr3htCwx) | [Hunger for Blood](https://open.spotify.com/album/3mgNcr1KZEYsmQngQW7s9H) | 3:31 | 2023-04-11 | 2023-05-10 |
 | [Hurricanes](https://open.spotify.com/track/2vZJcCFqe455nGhID8zjao) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hurricanes](https://open.spotify.com/album/3app92UwFa2PMnisP0PwCz) | 3:22 | 2022-09-13 | 2022-10-05 |
@@ -817,6 +817,7 @@
 | [Sparkling Lemonade](https://open.spotify.com/track/2PiqA2ivGioRKIsbJmMuWp) | [Kenta Dedachi](https://open.spotify.com/artist/0kpcv0xdcnCWiCXr3htCwx) | [Sparkling Lemonade](https://open.spotify.com/album/5Y4FbO6BCKrkOMd2VpID0e) | 3:03 | 2022-07-19 | 2022-08-25 |
 | [Sparks](https://open.spotify.com/track/2z6EbZR9tXxESExgrUjVyP) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [Sparks](https://open.spotify.com/album/3NIn670h7MTBhU1VGfmQF7) | 4:22 | 2023-06-13 | 2023-06-22 |
 | [SPECIALZ](https://open.spotify.com/track/0GWNtMohuYUEHVZ40tcnHF) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [SPECIALZ](https://open.spotify.com/album/16Wxo6FKPXPzU9IApZfdlc) | 3:58 | 2023-08-31 |  |
+| [Speechless \(feat\. 福原みほ\)](https://open.spotify.com/track/1gqziOJa2muzilyW88W1Gb) | [UNI\-Qreatives](https://open.spotify.com/artist/5i5sDbeYvK6eliuUwYgk11), [Miho Fukuhara](https://open.spotify.com/artist/7CM9T52YxOcACiOK2sqHqe) | [Speechless \(feat\. 福原みほ\)](https://open.spotify.com/album/2cHg3Vkw38yFBfMO7jNfIH) | 2:58 | 2024-02-23 |  |
 | [SPEED AGETE \(Prod\. Chaki Zulu\)](https://open.spotify.com/track/7wte64HKNL0keeCHfanAG6) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [Chaki Zulu](https://open.spotify.com/artist/1OZZwe2ji8xjfVC8qjrQup) | [SPEED AGETE \(Prod\. Chaki Zulu\)](https://open.spotify.com/album/0s5YEX9wcWOR6CxNxywvBk) | 2:46 | 2023-02-21 | 2023-05-05 |
 | [Spice](https://open.spotify.com/track/7kDc29DQs132sCsIq7VDKV) | [monje](https://open.spotify.com/artist/5UqQ3L8MFnpqFHW2oUy56Y) | [Spice](https://open.spotify.com/album/2zBMFUd4MG6buGgHXPTtsT) | 3:45 | 2023-01-31 | 2023-02-15 |
 | [Spinning World](https://open.spotify.com/track/0qMWgeZ0noIwad06RmVQpm) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [PLASMA](https://open.spotify.com/album/4gqRmcXiuzlxB9nEnFiK4y) | 4:00 | 2022-07-26 | 2022-07-29 |

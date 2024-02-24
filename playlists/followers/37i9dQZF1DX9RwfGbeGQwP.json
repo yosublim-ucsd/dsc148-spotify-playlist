@@ -1,5 +1,5 @@
 {
-  "2024-02-23": 441339,
+  "2024-02-24": 441393,
   "date_first_scraped": "2022-02-05",
   "description": "chill beats for cool coffeehouse vibes.",
   "name": "lofi cafe",
@@ -12050,6 +12050,24 @@
     },
     {
       "album": {
+        "name": "Laid-Back Skylines",
+        "url": "https://open.spotify.com/album/6BDP79MYOUZsLmq0Gsjuw6"
+      },
+      "artists": [
+        {
+          "name": "JAKKARTA",
+          "url": "https://open.spotify.com/artist/3eLz5UQ0rdd11nJOXYLQhk"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154729,
+      "name": "Laid-Back Skylines",
+      "url": "https://open.spotify.com/track/4jeYDsddMI8TShXgmOww8S"
+    },
+    {
+      "album": {
         "name": "Laidback Style",
         "url": "https://open.spotify.com/album/04PobR5vGW2Xam5YBOPpDO"
       },
@@ -14749,7 +14767,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 122359,
       "name": "More Is More",
       "url": "https://open.spotify.com/track/2GR2SZFtsGCrWlWoyXh1Xg"

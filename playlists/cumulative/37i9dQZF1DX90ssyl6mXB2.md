@@ -4,7 +4,7 @@
 
 > late night vibes – notifications off.
 
-57 songs - 2 hr 43 min
+60 songs - 2 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Trust](https://open.spotify.com/track/0oufSLnKQDoBFX5mgkDCgR) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Lost](https://open.spotify.com/album/03nFfkhtHqQZZqprep3G6r) | 2:38 | 2024-02-02 |  |
 | [ttuctmd](https://open.spotify.com/track/7bsqStKmTP9TgMESunVxLX) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [ttuctmd](https://open.spotify.com/album/1ErqwoGil01Xr66CiUxU3u) | 2:00 | 2024-02-02 |  |
 | [TWENTY NIGHTS](https://open.spotify.com/track/2luxd3WEcEACrORUnXvITr) | [Nobu Woods](https://open.spotify.com/artist/5ALcXwMBh6MxbInMWmHElC) | [MIDNIGHT MOTIONS](https://open.spotify.com/album/7rbg49mWE6c7vMhi2Ar2qX) | 3:16 | 2024-02-02 |  |
+| [Unsettling \(feat\. Vory\)](https://open.spotify.com/track/2OpZBsCyLn9jTulj8vURFh) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [Mixed Emotions](https://open.spotify.com/album/4UADm8zx1jjPisT4Gnn0NJ) | 2:44 | 2024-02-23 |  |
 | [W.Y.D? \(What Is We Doing\)](https://open.spotify.com/track/18wrfLnOLM1u0jKKIthBoa) | [Ryan Witherspoon](https://open.spotify.com/artist/2BxSXiQvxcpjCLZBUz9mMn) | [W.Y.D? \(What Is We Doing\)](https://open.spotify.com/album/6rAGpO22MTJToHUj0qcsgj) | 2:41 | 2024-02-02 |  |
 | [WATER](https://open.spotify.com/track/1vqRkUzvD2o0OIEVAN3cIg) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [PAIN PACK 14](https://open.spotify.com/album/0fxdR12lPB58RctVdjT01z) | 1:56 | 2024-02-16 |  |
 | [WE IN LUV](https://open.spotify.com/track/5gg3MMTeKLv6NRcwJEbwrU) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [PAIN PACK 14](https://open.spotify.com/album/0fxdR12lPB58RctVdjT01z) | 2:00 | 2024-02-16 |  |
@@ -65,5 +66,7 @@
 | [Why Lie](https://open.spotify.com/track/37LKILFccnzABdLtAOrglY) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [Why Lie](https://open.spotify.com/album/32a37XMqaUjYwzcroBmHie) | 2:40 | 2024-02-16 |  |
 | [WY@](https://open.spotify.com/track/3ria9Axw5mheRAOoP9bnof) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Larger Than Life](https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV) | 3:27 | 2024-02-02 |  |
 | [You \(feat\. Travis Scott\)](https://open.spotify.com/track/4qS2KPWvsQzLvRa9oCHw41) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Life of a DON](https://open.spotify.com/album/2WmJ5wp5wKBlIJE6FDAIBJ) | 3:33 | 2024-02-02 |  |
+| [You For Me](https://open.spotify.com/track/1vs8g4oyFhRe2a4IvrQRH2) | [TheARTI$t](https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a) | [You For Me](https://open.spotify.com/album/270lJPdEpBbZO1xB8akya0) | 2:42 | 2024-02-23 |  |
+| [Zendaya](https://open.spotify.com/track/75IzEakZalALdkyNQLZbrk) | [Tailz.](https://open.spotify.com/artist/49ckNZa4dIW3UluuEW2EC1) | [Zendaya](https://open.spotify.com/album/4eewLAyGRqhvhSLqxjOw6k) | 3:05 | 2024-02-23 |  |
 
 \*This playlist was first scraped on 2024-02-08. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-6,602 songs - 10 day 10 hr 13 min
+6,603 songs - 10 day 10 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4932,7 +4932,7 @@
 | [Sepia](https://open.spotify.com/track/3j5h3naYislAW6l3wA7Kp7) | [Civin](https://open.spotify.com/artist/05PE7U7GPUq687RB2ZJdFW) | [Sepia](https://open.spotify.com/album/0I4X1KJPvVFnp4DecelDLW) | 1:45 | 2022-12-16 | 2023-02-11 |
 | [September](https://open.spotify.com/track/7uu7u0v9IOOvDFpab8Yf6t) | [Sakloma24](https://open.spotify.com/artist/6PkzYxQ7Bae6IJyyhkPhmf) | [Boss Hogg](https://open.spotify.com/album/59CYVZphliSm8ekQ6z1jP5) | 1:46 | 2023-09-29 |  |
 | [Sequoia](https://open.spotify.com/track/0l0qFPzOUeW7wFu8OI5egZ) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [ornaut](https://open.spotify.com/artist/0RNomvzbv3GepTSlgM26sv) | [Sequoia](https://open.spotify.com/album/5Ey1VyDMAJTJwa0gssy3pm) | 2:20 | 2023-09-15 | 2024-01-05 |
-| [Serenade](https://open.spotify.com/track/0QZQqs0ieyCslR6IAJD4cc) | [Fourtinz](https://open.spotify.com/artist/6XrTlvliUXeN2VYaWk0euI) | [Serenade](https://open.spotify.com/album/7Lzuxfynj7PdgieomyNdQg) | 1:33 | 2024-02-23 |  |
+| [Serenade](https://open.spotify.com/track/0QZQqs0ieyCslR6IAJD4cc) | [Fourtinz](https://open.spotify.com/artist/6XrTlvliUXeN2VYaWk0euI) | [Serenade](https://open.spotify.com/album/7Lzuxfynj7PdgieomyNdQg) | 1:33 | 2024-02-23 | 2024-02-24 |
 | [Serendipity](https://open.spotify.com/track/7wv5ybUzYXGhig5gVBxpXS) | [Funcc.](https://open.spotify.com/artist/3vAvHFXAMYvfj5AO2CoYyX), [Epifania](https://open.spotify.com/artist/47OYz3d3DvnXpfaJ7i0z6b) | [Serendipity](https://open.spotify.com/album/45U8AOR9TUfvNOGri91LnS) | 2:25 | 2021-07-04 | 2022-03-12 |
 | [Serenity](https://open.spotify.com/track/3eAdR9jtvFHQE6qvhrzEXr) | [analogwave](https://open.spotify.com/artist/68kAl0PEp87MJch9snWct0), [Odd Panda](https://open.spotify.com/artist/0Sd0BsazzL4j7U88C3v2iB) | [Rainy Nights](https://open.spotify.com/album/2pq83TfJ9u6H4PgaXRoEcK) | 2:02 | 2022-09-30 | 2023-01-13 |
 | [Serenity](https://open.spotify.com/track/6mhtXeCxycdmzJYbf1rm7x) | [eevee](https://open.spotify.com/artist/4pwqNyMSvuv7VOhQBdjB6Q) | [Serenity](https://open.spotify.com/album/0BqyuXdZ7YgveyRbS2xkVt) | 2:09 | 2020-08-23 | 2021-10-02 |
@@ -5595,6 +5595,7 @@
 | [Swaype](https://open.spotify.com/track/0YRWFGr8QkH3GhmcLYOUTv) | [Wavy Naps](https://open.spotify.com/artist/0kFUFC571jik6K7viLxtPX) | [Swaype](https://open.spotify.com/album/14psBo6XTptrqiGfRHGRow) | 2:25 | 2023-10-13 |  |
 | [Sweet](https://open.spotify.com/track/2rnJ2zSgnr31V1lkQRRkCQ) | [Kasimir](https://open.spotify.com/artist/0LCKyVSAzqhNLP4yTpnE5Z) | [Sweet](https://open.spotify.com/album/3MnzRhGNGegP8tk63rOQTY) | 1:58 | 2022-08-26 | 2022-12-03 |
 | [sweet](https://open.spotify.com/track/5T8oPvfngivxzqgp7XAkBy) | [Lunar Lullaby & yorukaze](https://open.spotify.com/artist/1QmonBwobeYEIi48xYr8AD) | [sweet](https://open.spotify.com/album/3G8xpiRLTaNfQSczY0R14l) | 2:08 | 2023-12-22 |  |
+| [Sweet Apollo](https://open.spotify.com/track/387Et4ZBM5n4NEmpkvN3RR) | [SoFo](https://open.spotify.com/artist/2hsvv4SulxVhnoLWtuMxo1) | [Sweet Apollo](https://open.spotify.com/album/0iStaKoeXbhVN6C75N1wm3) | 2:18 | 2024-02-23 |  |
 | [Sweet Bay](https://open.spotify.com/track/1BjTRIgM3wiF0AsZIW85Wv) | [Tis L](https://open.spotify.com/artist/2xzQuLX2sA8sLYMTxvAoxL), [CL5K](https://open.spotify.com/artist/2LLzw9sAUyp56Yknm8mTwp) | [Sweet Bay](https://open.spotify.com/album/69wCY1KaQlL4f82vqBrYpj) | 2:39 | 2022-02-14 | 2022-07-22 |
 | [Sweet Dreams](https://open.spotify.com/track/6YNC9oMyuxkmP84UfOfH4x) | [Brxvs](https://open.spotify.com/artist/3LoO7TNHi4wqe78tsBMMv5), [Mondo Loops](https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK) | [Sweet Dreams](https://open.spotify.com/album/57XSssbhediGW5EYNcKhuL) | 2:08 | 2022-11-25 | 2024-01-19 |
 | [Sweet Dávila](https://open.spotify.com/track/6HYZFarA9kGCDQx41OJLBA) | [Demouche](https://open.spotify.com/artist/3lJbPCM1JuPcQA72e7BouG) | [Hip Dozer, Vol\. 1](https://open.spotify.com/album/3RcP0vpHB7sIeszjJUhFgs) | 3:55 | 2021-12-03 | 2022-05-27 |

@@ -1,12 +1,12 @@
 {
   "description": "The best new songs of the week! Cover: SZA",
-  "num_followers": 370592,
+  "num_followers": 370686,
   "original_name": "New Music Friday AU & NZ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNWEzNmY4ZDRkNWFjMDVlMzEyYjkwMGQ0M2Q0MDdjMDE1ZmNhNGVl",
+  "snapshot_id": "MCw3M2EwZTI1NWM0ZDQzMTkzZGUxN2VhZjczOTRiMTg4NzQxN2I4ZjM2",
   "tracks": [
     {
       "added_at": "2024-02-22 23:00:00",
@@ -92,7 +92,7 @@
       "added_at": "2024-02-22 23:00:00",
       "album": {
         "name": "L.A.B VI",
-        "url": "https://open.spotify.com/album/2GgCCAXEdgHQOTlVvyQpfE"
+        "url": "https://open.spotify.com/album/671hZnMHapwrrMIjousq6l"
       },
       "artists": [
         {
@@ -102,7 +102,31 @@
       ],
       "duration_ms": 254920,
       "name": "Give Me That Feeling",
-      "url": "https://open.spotify.com/track/77uJm6AgWF6Esf60O9LAU1"
+      "url": "https://open.spotify.com/track/5nqcyjp4fFX7MTsxzXlMdm"
+    },
+    {
+      "added_at": "2024-02-22 23:00:00",
+      "album": {
+        "name": "Gangsta",
+        "url": "https://open.spotify.com/album/1qz3r9Ys5UXaE0XToUU71b"
+      },
+      "artists": [
+        {
+          "name": "Free Nationals",
+          "url": "https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 194520,
+      "name": "Gangsta",
+      "url": "https://open.spotify.com/track/49oKnEjgRSs3DMXScEU2G1"
     },
     {
       "added_at": "2024-02-22 23:00:00",
@@ -307,6 +331,22 @@
       "duration_ms": 153642,
       "name": "Type Of Feeling",
       "url": "https://open.spotify.com/track/5bL0rb1YPIqhSqgh5jcvS2"
+    },
+    {
+      "added_at": "2024-02-22 23:00:00",
+      "album": {
+        "name": "Richtivities",
+        "url": "https://open.spotify.com/album/6YtEsHXxWjQLdNYIkRjFgB"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 176401,
+      "name": "Richtivities",
+      "url": "https://open.spotify.com/track/78VmtCRovWdLIz3p0Tj7nb"
     },
     {
       "added_at": "2024-02-22 23:00:00",
@@ -583,8 +623,8 @@
     {
       "added_at": "2024-02-22 23:00:00",
       "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/76wvinNBPaNDxuJ5XZziuk"
+        "name": "Daniel",
+        "url": "https://open.spotify.com/album/6hklBSOyHrnC42LQksxrzd"
       },
       "artists": [
         {
@@ -594,7 +634,7 @@
       ],
       "duration_ms": 168173,
       "name": "Flowers",
-      "url": "https://open.spotify.com/track/7sU1jiSkAST9dR1KnRoiJx"
+      "url": "https://open.spotify.com/track/4fqNoM2d2URotMit7GlmlI"
     },
     {
       "added_at": "2024-02-22 23:00:00",

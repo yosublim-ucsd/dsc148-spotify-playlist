@@ -2,14 +2,15 @@
 
 ### [Mariachi Joven](https://open.spotify.com/playlist/37i9dQZF1DXcF3YtBdCala)
 
-> Jóvenes y renovadas expresiones de la bella tradición mexicana\. Adrián Barraza en portada.
+> Jóvenes y renovadas expresiones de la bella tradición mexicana\. Irene Del Rosario en portada.
 
-194 songs - 10 hr 23 min
+195 songs - 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10 PM \- Popular](https://open.spotify.com/track/5Wa3cRSjVUeQm5zhwAFUao) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [10 PM \(Popular\)](https://open.spotify.com/album/0UKMqy1QBgwAgfwIsWmOsR) | 3:33 | 2022-05-20 | 2022-09-24 |
 | [100 Años](https://open.spotify.com/track/4XKC4nfeXgyd4KQDu8arKL) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [100 Años](https://open.spotify.com/album/1LmIj33OFO9d1XMh9jRecz) | 3:05 | 2022-03-03 | 2022-09-10 |
+| [3 Consejos](https://open.spotify.com/track/5Vbg1vjwEUpXe81Rs50Ste) | [Irene del Rosario](https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN) | [3 Consejos](https://open.spotify.com/album/0n3NogLDNZRwsU22lD7Q0c) | 3:42 | 2024-02-23 |  |
 | [A Mi Manera](https://open.spotify.com/track/5PeaVtXNXfu8EWDZfpSEgb) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g) | [A Mi Manera](https://open.spotify.com/album/6jXRZyYOZsFtUsT8ckn42J) | 5:17 | 2022-03-03 | 2022-10-15 |
 | [A Mi Me Respetas](https://open.spotify.com/track/3bHdMr1QxQrTHhPilZzjMM) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo), [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [A Mi Me Respetas](https://open.spotify.com/album/3SJzUYtPV1J5CZxkwfJnzS) | 2:30 | 2023-11-10 |  |
 | [Acaríciame](https://open.spotify.com/track/4drGRFC2Y197G9ZUty4wgW) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mudanzas](https://open.spotify.com/album/5rvG8IAlVaJRtUHLzaGtyv) | 4:27 | 2022-03-03 | 2022-09-24 |
@@ -80,7 +81,7 @@
 | [Hoy Dame el Gusto](https://open.spotify.com/track/5bYDZac40Gh7u7MdOm2RlI) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Hoy Dame el Gusto](https://open.spotify.com/album/3kRufiPZq2VFnS6EhFqUwF) | 3:12 | 2022-03-03 | 2022-10-15 |
 | [Imborrable](https://open.spotify.com/track/3jNjhaqd0hDPHW8DFoufce) | [Chelo Ramírez](https://open.spotify.com/artist/5CrdWDm3mQfNI5vlPWyw3z) | [Imborrable](https://open.spotify.com/album/3A5prmtlMcT7DlMjAjTkCY) | 3:12 | 2022-10-14 | 2023-01-19 |
 | [Ingrato Amor](https://open.spotify.com/track/4zbDfTl8QfmMR1wfPdCmE9) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Ingrato Amor](https://open.spotify.com/album/7tpjidgce03vk1qwyMxj1K) | 3:21 | 2023-06-23 |  |
-| [La Cantina \- Remix](https://open.spotify.com/track/1BLceHxSV6Wx1MRC4gkt3f) | [Hernan Gómez](https://open.spotify.com/artist/0l7EOx40o81pCVpGwizH9I), [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [La Cantina \(Remix\)](https://open.spotify.com/album/5b6smqZoLVbL7loTzYddRp) | 3:37 | 2023-09-08 |  |
+| [La Cantina \- Remix](https://open.spotify.com/track/1BLceHxSV6Wx1MRC4gkt3f) | [Hernan Gómez](https://open.spotify.com/artist/0l7EOx40o81pCVpGwizH9I), [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [La Cantina \(Remix\)](https://open.spotify.com/album/5b6smqZoLVbL7loTzYddRp) | 3:37 | 2023-09-08 | 2024-02-24 |
 | [La Despedida](https://open.spotify.com/track/2eBECLFWzlAHqJtEJhm5Ya) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [La Despedida](https://open.spotify.com/album/1OWsLICCRxbyWTZuE3xDvk) | 2:21 | 2023-01-20 | 2023-11-11 |
 | [La Llorona](https://open.spotify.com/track/5AOEudcsj9BbSfDbRjxkpO) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [La Llorona](https://open.spotify.com/album/0vx6yN3peiZnWGIK3yxgZX) | 3:46 | 2022-10-28 | 2023-06-03 |
 | [La Lotería](https://open.spotify.com/track/749UHtYWSdzlLqE9TTrjSs) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [La Lotería](https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY) | 3:06 | 2022-10-14 |  |

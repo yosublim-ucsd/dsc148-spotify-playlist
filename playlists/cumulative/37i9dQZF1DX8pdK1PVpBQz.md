@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. Cover: Velvet Trip\. Artwork: Isu Kim
 
-3,103 songs - 7 day 2 hr 21 min
+3,104 songs - 7 day 2 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -576,7 +576,8 @@
 | [Country Kid](https://open.spotify.com/track/21XrmX71EDTUgkEkwbsjAz) | [Kirby](https://open.spotify.com/artist/6RFziU3Y7r8kP3PZm8MH4p) | [Country Kid](https://open.spotify.com/album/5qBYUy7V3TSI4Ma35WXTBE) | 2:25 | 2022-07-27 | 2022-08-11 |
 | [Country Song](https://open.spotify.com/track/31Q5aGNNTvpblb6uEUyc5a) | [Baby Cool](https://open.spotify.com/artist/6tChZB9BU0fHdHrrwU5vgb) | [Earthling on the Road to Self Love](https://open.spotify.com/album/4sRPrF3Ev4HPurzyxcbpdr) | 2:47 | 2023-02-15 | 2023-03-02 |
 | [Coup De Grâce](https://open.spotify.com/track/49taD9wqpnNwqy3dNab8m7) | [Dugong Jr](https://open.spotify.com/artist/5CJyoIE9kMfWbFbdVk721i), [IJALE](https://open.spotify.com/artist/0z2CwWat2P7ABje9hBHfoo) | [Coup De Grâce](https://open.spotify.com/album/4GvPcGCszmbP3xzIx0ENcx) | 3:43 | 2023-08-16 | 2023-08-31 |
-| [courtship](https://open.spotify.com/track/6GtBqLC5MeZhhLgQK8oVRp) | [yergurl](https://open.spotify.com/artist/256Y9onrKClLcW4xSDtbwo) | [courtship](https://open.spotify.com/album/1pAFRzASIOEGSYbVx2N3CZ) | 3:08 | 2024-01-25 |  |
+| [courtship](https://open.spotify.com/track/6GtBqLC5MeZhhLgQK8oVRp) | [yergurl](https://open.spotify.com/artist/256Y9onrKClLcW4xSDtbwo) | [courtship](https://open.spotify.com/album/1pAFRzASIOEGSYbVx2N3CZ) | 3:08 | 2024-01-25 | 2024-02-24 |
+| [courtship](https://open.spotify.com/track/6KKayDYuGD9hZmAAzguWhi) | [yergurl](https://open.spotify.com/artist/256Y9onrKClLcW4xSDtbwo) | [courtship ❦](https://open.spotify.com/album/4sai0QfV76IOKdXhj6qHrO) | 3:08 | 2024-02-22 |  |
 | [cousins](https://open.spotify.com/track/4QtwXlHaDtrTtdSRPz7EwT) | [wongii](https://open.spotify.com/artist/20Dv10fNbZMfKMX5N12P99), [Max Henley](https://open.spotify.com/artist/0kDyN8taWBDSLwg3qyFBDx) | [cousins](https://open.spotify.com/album/2IKVtUsEEjuMFreKebMM4H) | 2:52 | 2022-01-12 | 2022-02-10 |
 | [CPU](https://open.spotify.com/track/7Ms26T0fqmSPPKl3Qpr7sj) | [Blake](https://open.spotify.com/artist/6l1UuAf2YW3fTHB5TyBXVa) | [CPU](https://open.spotify.com/album/3YMnkY1T5Ba0BToUSDgv95) | 2:49 | 2022-09-07 | 2022-09-29 |
 | [crash](https://open.spotify.com/track/37UnfqQlMk4KP1u8JvU3F5) | [Bluey](https://open.spotify.com/artist/37cCRAGhoSGepKjv5j7MmI) | [crash](https://open.spotify.com/album/4pwvfSYOgwEX28BcTGYDDh) | 3:02 | 2023-04-26 | 2023-05-24 |

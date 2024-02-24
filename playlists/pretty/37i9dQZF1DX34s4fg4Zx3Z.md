@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Như thanh long trong mì tôm, đây là những 🎶 có thể lần đầu nghe đến\. Ảnh bìa: Em Ellata
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,640 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,651 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,12 +17,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 7 | [THÊM MỘT NGÀY NỮA](https://open.spotify.com/track/2tyfl0O2nZEbug72WPg227) | [16 BrT](https://open.spotify.com/artist/4jIoCS5bJr2TQ2SIbSPnwR), [Gxxfy](https://open.spotify.com/artist/1i9boYyWPAZZLSrDcIov6U) | [THÊM MỘT NGÀY NỮA](https://open.spotify.com/album/5ajuDudlnOhe0wqjRByl0k) | 2:27 |
 | 8 | [Chuyện Chúng Ta Sau Này](https://open.spotify.com/track/0QIBqBajZLLcWfL6mpVsN3) | [Hải Đăng Doo](https://open.spotify.com/artist/0F1rSmrNT6sp3LYohgYKsT), [Weeza](https://open.spotify.com/artist/3KCwCM9okdx5d2iDbIxQ9l) | [Chuyện Chúng Ta Sau Này](https://open.spotify.com/album/3TMBghuTr3KMoyJObBMi63) | 4:05 |
 | 9 | [Wrong Times](https://open.spotify.com/track/3uT8QfoX0BE8ZJa4h98LDW) | [Puppy](https://open.spotify.com/artist/2dC1IBU9NOD9xsQJ5RE7j7), [Dangrangto](https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI) | [Wrong Times](https://open.spotify.com/album/3jQb4fnTYtHAP90TNLaj3y) | 3:31 |
-| 10 | [Sao ta không](https://open.spotify.com/track/41goNcLAjfV2ZP7pCJslcS) | [Lửa](https://open.spotify.com/artist/4HOm37irsRwVEddNx6d0lq) | [Sao ta không](https://open.spotify.com/album/0LrSOuHTtm03sV4n00MqZg) | 2:36 |
-| 11 | [Vẽ Em Trong Đầu](https://open.spotify.com/track/3IPeNRdoJ0eLjeGbWkjyab) | [Clow](https://open.spotify.com/artist/340QB5yIg8bZoi4uJyTB30), [Karrot](https://open.spotify.com/artist/0Ok2WXF4QmV02a0k6nijST) | [Vẽ Em Trong Đầu](https://open.spotify.com/album/5KVPXca8zgqIIqTfcHOdtu) | 2:38 |
-| 12 | [Ánh Trăng Mặt Nước](https://open.spotify.com/track/5iQQMW73ukYF73wbdBsfo2) | [NHA](https://open.spotify.com/artist/0y8J897IGMESNbBqCpHXH9) | [Ánh Trăng Mặt Nước](https://open.spotify.com/album/572GXbAZVnvZTEAGNqgf8c) | 3:20 |
-| 13 | [Không Biết Phải Làm Sao](https://open.spotify.com/track/3xiIUgBeuVW0akmFZkHyTW) | [Dương Lan Nhi](https://open.spotify.com/artist/0ojl2y5MZgL2p7Ey1tST5S), [ViAM](https://open.spotify.com/artist/6uD33IUwz8hLdIjz6Afcrm) | [Không Biết Phải Làm Sao](https://open.spotify.com/album/6dLbnEFt8Fe55xHBaMMqAl) | 4:15 |
-| 14 | [Ổn Thôi Mà \(Gwenchana\)](https://open.spotify.com/track/4Z0pQVOggxLvK1qbSDNDMj) | [Alex TKN](https://open.spotify.com/artist/2mF5v2VRxRAgRAuBb1LYL9) | [Ổn Thôi Mà \(Gwenchana\)](https://open.spotify.com/album/6NXNgfbcUqAGJMyLmWISnO) | 4:57 |
-| 15 | [SECOND](https://open.spotify.com/track/18jDoe7DVuR4pWEa2Df8Bz) | [Nguyên Newin](https://open.spotify.com/artist/3etJVaUy2ifwOSySSxTrZt) | [SECOND](https://open.spotify.com/album/5uJiGzxrxRbRJJOo9VNwAc) | 3:25 |
+| 10 | [Alive](https://open.spotify.com/track/6g91HFAgMhOJiVqXHySOM2) | [Raven x Rabbit](https://open.spotify.com/artist/3EbhwySdn2EFUhSF55GM2v) | [Alive](https://open.spotify.com/album/56a7K9PjWWPWTxGKt4ijPX) | 3:38 |
+| 11 | [Sao ta không](https://open.spotify.com/track/41goNcLAjfV2ZP7pCJslcS) | [Lửa](https://open.spotify.com/artist/4HOm37irsRwVEddNx6d0lq) | [Sao ta không](https://open.spotify.com/album/0LrSOuHTtm03sV4n00MqZg) | 2:36 |
+| 12 | [Vẽ Em Trong Đầu](https://open.spotify.com/track/3IPeNRdoJ0eLjeGbWkjyab) | [Clow](https://open.spotify.com/artist/340QB5yIg8bZoi4uJyTB30), [Karrot](https://open.spotify.com/artist/0Ok2WXF4QmV02a0k6nijST) | [Vẽ Em Trong Đầu](https://open.spotify.com/album/5KVPXca8zgqIIqTfcHOdtu) | 2:38 |
+| 13 | [Ánh Trăng Mặt Nước](https://open.spotify.com/track/5iQQMW73ukYF73wbdBsfo2) | [NHA](https://open.spotify.com/artist/0y8J897IGMESNbBqCpHXH9) | [Ánh Trăng Mặt Nước](https://open.spotify.com/album/572GXbAZVnvZTEAGNqgf8c) | 3:20 |
+| 14 | [Không Biết Phải Làm Sao](https://open.spotify.com/track/3xiIUgBeuVW0akmFZkHyTW) | [Dương Lan Nhi](https://open.spotify.com/artist/0ojl2y5MZgL2p7Ey1tST5S), [ViAM](https://open.spotify.com/artist/6uD33IUwz8hLdIjz6Afcrm) | [Không Biết Phải Làm Sao](https://open.spotify.com/album/6dLbnEFt8Fe55xHBaMMqAl) | 4:15 |
+| 15 | [Ổn Thôi Mà \(Gwenchana\)](https://open.spotify.com/track/4Z0pQVOggxLvK1qbSDNDMj) | [Alex TKN](https://open.spotify.com/artist/2mF5v2VRxRAgRAuBb1LYL9) | [Ổn Thôi Mà \(Gwenchana\)](https://open.spotify.com/album/6NXNgfbcUqAGJMyLmWISnO) | 4:57 |
 | 16 | [ngắm sao mà chẳng có nhau](https://open.spotify.com/track/1Z9IxjUiWlQnBECEKAfgni) | [iMAZE](https://open.spotify.com/artist/17QbIxGorCQnxk26pvqESU), [qt.](https://open.spotify.com/artist/2PZrzgPEzozv50Ccu7f3ld), [thảo choách](https://open.spotify.com/artist/1iozK4kH3GN8D5VNoajVjx) | [ngắm sao mà chẳng có nhau](https://open.spotify.com/album/4RgrhMnJRYKVpky9Vfn7Q6) | 3:41 |
 | 17 | [Forget Me Now](https://open.spotify.com/track/12DNdwLD9oZOPADqM10oyE) | [Fishy](https://open.spotify.com/artist/7kSmS2G15QIw8rllwGex9r), [Trí Dũng](https://open.spotify.com/artist/3vrLtReLclPLq5VvCAxCik) | [Forget Me Now](https://open.spotify.com/album/4v4Gusg7qH9mjehEXjbdlk) | 3:17 |
 | 18 | [Nhìn Theo Bóng Em](https://open.spotify.com/track/40VSxpF8g5sToquWQPkaue) | [Tony Hoàng Anh](https://open.spotify.com/artist/055tKHSCudU5z9QjDbxUox), [Đức Duy](https://open.spotify.com/artist/3MZmokiIjkEBQ6uAb0NRDo), [Đỏ](https://open.spotify.com/artist/4JtTYZGwlaDGXKlAHPVDGk) | [Nhìn Theo Bóng Em](https://open.spotify.com/album/5xWMJ9Ab4MfSI7xg5YoPgK) | 3:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 99 | [Tình Đầu Bỏ Lỡ](https://open.spotify.com/track/5tV7vaCQXcl7TISuEmmPph) | [VAnh](https://open.spotify.com/artist/4QC9UUJeYEo4wnbTvuOHLo), [BMZ](https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m) | [Tình Đầu Bỏ Lỡ](https://open.spotify.com/album/6ytVH2yuODlnpatPDyzQrd) | 4:00 |
 | 100 | [mind](https://open.spotify.com/track/2NmkzIXT5YfMh0zXhy2D3g) | [giabao](https://open.spotify.com/artist/3cowtwoHuAizkSqqTFyWus) | [mind](https://open.spotify.com/album/2A7TqNuIMtBbpfvlWzgttJ) | 3:17 |
 
-Snapshot ID: `MCxjMDg5ZTA3ZDJiMDZmMDcyM2Y0OGIwODEyMGJlMjE1NWJhM2ZlZWQ1`
+Snapshot ID: `MCxjMjEwOTBmODViMGFmOGFiOTI3ODYyNGQwYWYxMWZhMTFlMWRhYWNk`

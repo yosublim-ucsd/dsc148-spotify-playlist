@@ -1,7 +1,7 @@
 {
-  "2024-02-23": 155987,
+  "2024-02-24": 156067,
   "date_first_scraped": "2022-05-30",
-  "description": "\u0e40\u0e1e\u0e25\u0e07 T-Pop \u0e42\u0e14\u0e19\u0e43\u0e08 \u0e2d\u0e31\u0e1b\u0e40\u0e14\u0e15\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: BUS",
+  "description": "\u0e40\u0e1e\u0e25\u0e07 T-Pop \u0e42\u0e14\u0e19\u0e43\u0e08 \u0e2d\u0e31\u0e1b\u0e40\u0e14\u0e15\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: 4EVE",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -325,6 +325,24 @@
       "duration_ms": 256484,
       "name": "Believers",
       "url": "https://open.spotify.com/track/4rBFjW1hkzp9ttWG34HUXJ"
+    },
+    {
+      "album": {
+        "name": "Blah Blah Blah",
+        "url": "https://open.spotify.com/album/2SrMt23u6CgRh51fU4pmEv"
+      },
+      "artists": [
+        {
+          "name": "EMPRESS",
+          "url": "https://open.spotify.com/artist/7f57J64jShBdEI6EB1dmRu"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210519,
+      "name": "Blah Blah Blah",
+      "url": "https://open.spotify.com/track/4tO3hXwy46uaCo9eQQ9PW0"
     },
     {
       "album": {
@@ -796,6 +814,24 @@
     },
     {
       "album": {
+        "name": "hot2hot",
+        "url": "https://open.spotify.com/album/6qjuFWN9s0z4gho6PWQXQH"
+      },
+      "artists": [
+        {
+          "name": "4EVE",
+          "url": "https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253575,
+      "name": "hot2hot",
+      "url": "https://open.spotify.com/track/3eUgJRHtoCxg9T0wV49gKo"
+    },
+    {
+      "album": {
         "name": "I DON'T KNOW",
         "url": "https://open.spotify.com/album/4iL1Ec3VImGfbjOWih4IRd"
       },
@@ -983,6 +1019,24 @@
       "duration_ms": 212343,
       "name": "JUST DANCE",
       "url": "https://open.spotify.com/track/0yk8huYYGt1SHHxlI8hnGc"
+    },
+    {
+      "album": {
+        "name": "Kiss Me!",
+        "url": "https://open.spotify.com/album/6buRGA4CO45tJZJpMmbJOx"
+      },
+      "artists": [
+        {
+          "name": "BNK48",
+          "url": "https://open.spotify.com/artist/0A7q0U0IEdNOHWnQpMRQdD"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184259,
+      "name": "Kiss Me!",
+      "url": "https://open.spotify.com/track/2OJ4pcZ6TntuT0pk052jzW"
     },
     {
       "album": {
@@ -1876,6 +1930,24 @@
     },
     {
       "album": {
+        "name": "WIZ YOU (\u0e2d\u0e22\u0e32\u0e01\u0e21\u0e2d\u0e07\u0e40\u0e18\u0e2d\u0e43\u0e2b\u0e49\u0e43\u0e01\u0e25\u0e49\u0e01\u0e27\u0e48\u0e32\u0e19\u0e35\u0e49)",
+        "url": "https://open.spotify.com/album/1aIKEteG74pCnOWUGWmnIl"
+      },
+      "artists": [
+        {
+          "name": "4EVE",
+          "url": "https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84000,
+      "name": "WIZ YOU (\u0e2d\u0e22\u0e32\u0e01\u0e21\u0e2d\u0e07\u0e40\u0e18\u0e2d\u0e43\u0e2b\u0e49\u0e43\u0e01\u0e25\u0e49\u0e01\u0e27\u0e48\u0e32\u0e19\u0e35\u0e49)",
+      "url": "https://open.spotify.com/track/43YPcXdj8jlE3aRSD7sZNN"
+    },
+    {
+      "album": {
         "name": "Space Shuttle No.8",
         "url": "https://open.spotify.com/album/7hnvRVtat4FvqC8HjHI14Y"
       },
@@ -1909,6 +1981,24 @@
       "duration_ms": 154965,
       "name": "ZiGZaG",
       "url": "https://open.spotify.com/track/2yE00Onz1GMJZ4h5lYs2u0"
+    },
+    {
+      "album": {
+        "name": "\u0e01\u0e14\u0e43\u0e08\u0e44\u0e27\u0e49\u0e2b\u0e19\u0e48\u0e2d\u0e22 (Double Tap)",
+        "url": "https://open.spotify.com/album/39fOwDsBKcA9dbXLOLX8m6"
+      },
+      "artists": [
+        {
+          "name": "Slow Sundae",
+          "url": "https://open.spotify.com/artist/4jA3LPzvGQcPImWTjpDlma"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192558,
+      "name": "\u0e01\u0e14\u0e43\u0e08\u0e44\u0e27\u0e49\u0e2b\u0e19\u0e48\u0e2d\u0e22 (Double Tap)",
+      "url": "https://open.spotify.com/track/4Y7ht4X11mjnoXrp5r8O2w"
     },
     {
       "album": {
@@ -2125,6 +2215,24 @@
       "duration_ms": 256759,
       "name": "\u0e01\u0e48\u0e2d\u0e19\u0e17\u0e35\u0e48\u0e40\u0e18\u0e2d\u0e08\u0e30\u0e25\u0e37\u0e21\u0e1d\u0e31\u0e19",
       "url": "https://open.spotify.com/track/7434PIB7QneUWJSKjHhNXH"
+    },
+    {
+      "album": {
+        "name": "\u0e01\u0e49\u0e32\u0e27\u0e01\u0e48\u0e32\u0e22",
+        "url": "https://open.spotify.com/album/4BFAsh0aHyHFlRexQe5NRx"
+      },
+      "artists": [
+        {
+          "name": "Billkin",
+          "url": "https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212343,
+      "name": "\u0e01\u0e49\u0e32\u0e27\u0e01\u0e48\u0e32\u0e22",
+      "url": "https://open.spotify.com/track/62HLOpfjoG6E0JTtUEfplQ"
     },
     {
       "album": {
@@ -2401,7 +2509,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 207300,
       "name": "\u0e04\u0e19\u0e2b\u0e23\u0e37\u0e2d\u0e44\u0e21\u0e42\u0e04\u0e23\u0e40\u0e27\u0e1f (microwave)",
       "url": "https://open.spotify.com/track/21KoXyILr1IdLA0tak64Uw"
@@ -4845,7 +4953,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 230500,
       "name": "\u0e21\u0e35\u0e41\u0e04\u0e48\u0e40\u0e18\u0e2d\u0e01\u0e47\u0e1e\u0e2d (365 Days) - Magic Ver.",
       "url": "https://open.spotify.com/track/4sCLtvADVVmNkBw9epqKVa"
@@ -8201,6 +8309,24 @@
       "duration_ms": 221686,
       "name": "\u0e44\u0e21\u0e48\u0e40\u0e1b\u0e47\u0e19\u0e44\u0e23\u0e21\u0e31\u0e49\u0e07 - Original Soundtrack From \"\u0e27\u0e38\u0e48\u0e19\u0e23\u0e31\u0e01\u0e19\u0e31\u0e01\u0e08\u0e34\u0e49\u0e19 Why You Y Me?",
       "url": "https://open.spotify.com/track/1pxrSbfXB51N5WRoSHZAX5"
+    },
+    {
+      "album": {
+        "name": "\u0e44\u0e21\u0e48\u0e40\u0e25\u0e48\u0e19\u0e14\u0e34 (No Cap)",
+        "url": "https://open.spotify.com/album/3yxHdXtr6c7GHIY9GJkLiB"
+      },
+      "artists": [
+        {
+          "name": "Proo Thunwa",
+          "url": "https://open.spotify.com/artist/1P15t4uFsvUZCgkTvQqsaj"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166914,
+      "name": "\u0e44\u0e21\u0e48\u0e40\u0e25\u0e48\u0e19\u0e14\u0e34 (No Cap)",
+      "url": "https://open.spotify.com/track/2kZN6KlhK2S9AP0I1312yg"
     },
     {
       "album": {

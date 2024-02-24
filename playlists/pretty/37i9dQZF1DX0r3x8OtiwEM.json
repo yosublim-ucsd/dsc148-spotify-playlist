@@ -1,12 +1,12 @@
 {
   "description": "Chill techno, melodic house and tech house.",
-  "num_followers": 928617,
+  "num_followers": 928764,
   "original_name": "Lowkey Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOTZlN2E0OTBjNmUwMjEwMzg5MDU0NDRkMWU2MTVmMjVmNzAyODJj",
+  "snapshot_id": "MCxlY2VkNGNkNWJkMDQwMDMzNjIzYzhiOTAxZGFkMGU3MTI5NDQ3YWFi",
   "tracks": [
     {
       "added_at": "2023-11-27 18:33:25",
@@ -463,22 +463,18 @@
     {
       "added_at": "2023-11-27 18:33:25",
       "album": {
-        "name": "Youth Is Wasted on the Young",
-        "url": "https://open.spotify.com/album/1xyLsl3uoCDONSqfrr3RPT"
+        "name": "The Mirage EP",
+        "url": "https://open.spotify.com/album/6hPX9nAuWK16Venmzr6dNV"
       },
       "artists": [
         {
-          "name": "Anden",
-          "url": "https://open.spotify.com/artist/7CO6M2cT1lbumazmOjKnxF"
-        },
-        {
-          "name": "Yotto",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+          "name": "Agents Of Time",
+          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
         }
       ],
-      "duration_ms": 193623,
-      "name": "Grouplove",
-      "url": "https://open.spotify.com/track/4eDptQXtxI2beJWkxNV4jo"
+      "duration_ms": 371903,
+      "name": "The Mirage",
+      "url": "https://open.spotify.com/track/4YwiPW0Blppb278a96Spt5"
     },
     {
       "added_at": "2023-11-27 18:33:25",
@@ -499,18 +495,22 @@
     {
       "added_at": "2023-11-27 18:33:25",
       "album": {
-        "name": "The Mirage EP",
-        "url": "https://open.spotify.com/album/6hPX9nAuWK16Venmzr6dNV"
+        "name": "Youth Is Wasted on the Young",
+        "url": "https://open.spotify.com/album/1xyLsl3uoCDONSqfrr3RPT"
       },
       "artists": [
         {
-          "name": "Agents Of Time",
-          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
+          "name": "Anden",
+          "url": "https://open.spotify.com/artist/7CO6M2cT1lbumazmOjKnxF"
+        },
+        {
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
         }
       ],
-      "duration_ms": 371903,
-      "name": "The Mirage",
-      "url": "https://open.spotify.com/track/4YwiPW0Blppb278a96Spt5"
+      "duration_ms": 193623,
+      "name": "Grouplove",
+      "url": "https://open.spotify.com/track/4eDptQXtxI2beJWkxNV4jo"
     },
     {
       "added_at": "2023-11-27 18:33:25",

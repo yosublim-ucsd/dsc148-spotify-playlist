@@ -586,7 +586,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 182854,
       "name": "Brutas Tamb\u00e9m Choram",
       "url": "https://open.spotify.com/track/7gTStq2OMkjtHyH09GGKkO"
@@ -904,7 +904,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 180004,
       "name": "CUSSY",
       "url": "https://open.spotify.com/track/7m11QHa9VLJ4aY019j1yAc"
@@ -3061,6 +3061,32 @@
     },
     {
       "album": {
+        "name": "Olhar HD",
+        "url": "https://open.spotify.com/album/5eAdKrXdGOxJEMmL1gucTv"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167741,
+      "name": "OLHAR HD",
+      "url": "https://open.spotify.com/track/0MKn146xdKs9Gnwtkfl0fB"
+    },
+    {
+      "album": {
         "name": "Iza Sabino no Est\u00fadio Showlivre (Ao Vivo)",
         "url": "https://open.spotify.com/album/4F8B54XflmJca5xuhyy2Nc"
       },
@@ -3444,7 +3470,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 153020,
       "name": "Pretchuka",
       "url": "https://open.spotify.com/track/2L8yK9YF7NtVJ4DiCn92wf"
@@ -3652,6 +3678,28 @@
       "duration_ms": 206651,
       "name": "Ref\u00e9m",
       "url": "https://open.spotify.com/track/1SYjTbInhgWNGjUHpLjRwe"
+    },
+    {
+      "album": {
+        "name": "Regras",
+        "url": "https://open.spotify.com/album/3smXtSQhzu7tmjAK71guLH"
+      },
+      "artists": [
+        {
+          "name": "Nivy",
+          "url": "https://open.spotify.com/artist/70cJFTHKCTRuBdNNn741Xh"
+        },
+        {
+          "name": "Plvco",
+          "url": "https://open.spotify.com/artist/2ktvR9Lv2QE9sJuzRSPpiV"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122500,
+      "name": "Regras",
+      "url": "https://open.spotify.com/track/4XNJTkox9jlzi7CGkj1rCl"
     },
     {
       "album": {
@@ -3924,6 +3972,40 @@
       "duration_ms": 175448,
       "name": "Sempre Vigiando",
       "url": "https://open.spotify.com/track/3fpp2ctX7J8w2irjjtbDWg"
+    },
+    {
+      "album": {
+        "name": "Set Ajc 2",
+        "url": "https://open.spotify.com/album/2VRQVQ9NcCHudz62D5a2Lm"
+      },
+      "artists": [
+        {
+          "name": "Ajuliacosta",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "iamlope$$",
+          "url": "https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ"
+        },
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        },
+        {
+          "name": "LAI$ROSA",
+          "url": "https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265234,
+      "name": "Set Ajc 2",
+      "url": "https://open.spotify.com/track/2QidZpzobGL0Mhmq25oKdK"
     },
     {
       "album": {

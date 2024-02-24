@@ -4,7 +4,7 @@
 
 > Songs so beautiful, they'll stop you in your tracks.
 
-225 songs - 13 hr 28 min
+229 songs - 13 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,11 +26,11 @@
 | [Becoming](https://open.spotify.com/track/5B5Zjcrl4IOb2RwnUx0Qt2) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [Becoming](https://open.spotify.com/album/1QipggjYx6zUGKciuPT8FF) | 3:34 | 2022-11-25 | 2022-12-04 |
 | [Becoming](https://open.spotify.com/track/0G7TIPBaYi0pgCsfRE5gFf) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [Becoming](https://open.spotify.com/album/0hKim7XEJ4yPC65smJjVkM) | 3:34 | 2022-11-25 | 2023-03-04 |
 | [Becoming](https://open.spotify.com/track/28XUeiaQ7l7VbZvLtuQN3g) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [Becoming](https://open.spotify.com/album/1p8UJzaavk1HL2Xjr0hok8) | 3:34 | 2023-02-17 | 2023-05-11 |
-| [Becoming](https://open.spotify.com/track/3JV5W3aXSfNGOSHIHndnX0) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [Becoming](https://open.spotify.com/album/6InGSsBvvFqX6fo3fEwFFW) | 3:34 | 2023-03-31 |  |
+| [Becoming](https://open.spotify.com/track/3JV5W3aXSfNGOSHIHndnX0) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [Becoming](https://open.spotify.com/album/6InGSsBvvFqX6fo3fEwFFW) | 3:34 | 2023-03-31 | 2024-02-24 |
 | [big brother](https://open.spotify.com/track/0pcNE2VKwl6LQCShBS7tRL) | [ST LUNA](https://open.spotify.com/artist/4zahKdp1kPNHEVGrJ2gZdw) | [big brother](https://open.spotify.com/album/4OjUugcUcIX1XosSeeZEHG) | 2:58 | 2021-12-10 | 2022-08-20 |
 | [Blame The Moon](https://open.spotify.com/track/5Fg3lWZoVA0XOgLZpjNWW4) | [Alice Shone](https://open.spotify.com/artist/38DN9grOW9tijIsqD7ifGQ) | [Blame The Moon](https://open.spotify.com/album/4Efec8NPLJPMIDGZohypx2) | 2:43 | 2024-01-19 |  |
-| [Brother](https://open.spotify.com/track/0FvVaTrZMaXm7qsQQh8HXe) | [Fran Lusty](https://open.spotify.com/artist/6idlNQLvsjYJwQG4ojsmKK) | [Brother](https://open.spotify.com/album/58GJ648X070rfl1apkW3MT) | 3:47 | 2023-09-01 |  |
-| [Builder Boy](https://open.spotify.com/track/2PMlo1IRwGderZF9wPOiSm) | [The Slow Show](https://open.spotify.com/artist/696uMzB97pg2uqfzmK3MvO) | [Subtle Love](https://open.spotify.com/album/4WtvNPYzwfFt04HIu4ZMyv) | 3:09 | 2023-09-01 |  |
+| [Brother](https://open.spotify.com/track/0FvVaTrZMaXm7qsQQh8HXe) | [Fran Lusty](https://open.spotify.com/artist/6idlNQLvsjYJwQG4ojsmKK) | [Brother](https://open.spotify.com/album/58GJ648X070rfl1apkW3MT) | 3:47 | 2023-09-01 | 2024-02-24 |
+| [Builder Boy](https://open.spotify.com/track/2PMlo1IRwGderZF9wPOiSm) | [The Slow Show](https://open.spotify.com/artist/696uMzB97pg2uqfzmK3MvO) | [Subtle Love](https://open.spotify.com/album/4WtvNPYzwfFt04HIu4ZMyv) | 3:09 | 2023-09-01 | 2024-02-24 |
 | [Builder Boy](https://open.spotify.com/track/3gxmx971GXRYyQlygxj5rs) | [The Slow Show](https://open.spotify.com/artist/696uMzB97pg2uqfzmK3MvO) | [Builder Boy](https://open.spotify.com/album/6vSdbAoBBwvffyjs4w1jts) | 3:09 | 2023-07-21 | 2023-09-25 |
 | [Bumblebees and Blue Skies](https://open.spotify.com/track/0Bczbw2k63cjhOS078dXaF) | [Lucy McWilliams](https://open.spotify.com/artist/41AscmNq0sWTYo4gRCp21k) | [Bumblebees and Blue Skies](https://open.spotify.com/album/0OhZ0ZfAmshKSHDrxHALYW) | 5:16 | 2022-11-25 | 2023-02-18 |
 | [Bygone](https://open.spotify.com/track/3HIKGBx8u4F8o5kLyPmnez) | [Jolé](https://open.spotify.com/artist/293DzAwiQQs4mkeOzQ6lOu), [Christof van der Ven](https://open.spotify.com/artist/4OmL1NFB2mS4Ipv9TAWC1F) | [Bygone](https://open.spotify.com/album/4VQ6zTBdeimyD77EmvnsrM) | 2:51 | 2021-12-10 | 2023-09-02 |
@@ -96,6 +96,7 @@
 | [Hostages \- Alternate](https://open.spotify.com/track/2nb3ZHHRzwa1bq0UpTWSoY) | [The Howl & The Hum](https://open.spotify.com/artist/3EQ310YOzcS1pJqiaoDs32) | [Hostages \(Alternate\)](https://open.spotify.com/album/0Xd9rEkK9lzqauqoMDx1s7) | 4:21 | 2022-08-19 |  |
 | [Hostages \- Alternate](https://open.spotify.com/track/7xFYoEpqDy5yxyCJLe3pUO) | [The Howl & The Hum](https://open.spotify.com/artist/3EQ310YOzcS1pJqiaoDs32) | [Hostages \(Alternate\)](https://open.spotify.com/album/4dTR9TJBCMHFArn4z6TrH8) | 4:21 | 2021-12-10 | 2022-10-13 |
 | [House Song](https://open.spotify.com/track/1kr0XkYcWe2HTuCFN3BuGA) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [House Song](https://open.spotify.com/album/7oOTLwRSrfnGY1yFjBZYL2) | 4:54 | 2023-07-21 |  |
+| [How Many Love Songs Have Died In Vegas?](https://open.spotify.com/track/6ldiSdfgx96IQvUm2XOobi) | [Swim Deep](https://open.spotify.com/artist/2XddLUPFBmTonCFy8uB3uc) | [How Many Love Songs Have Died In Vegas?](https://open.spotify.com/album/3ctaMoubphJD5IVfNfsb1V) | 3:53 | 2024-02-23 |  |
 | [I Can See New Zealand From Here](https://open.spotify.com/track/27V4KpRC7Y5oYWdXssEUMU) | [Cooza](https://open.spotify.com/artist/1P6s8Y6fBmd7KMcthpxi2V) | [Our Day](https://open.spotify.com/album/5EpS9xRiHoo93AsV1Y6ShI) | 2:03 | 2021-12-10 | 2022-12-05 |
 | [I Can See New Zealand From Here](https://open.spotify.com/track/3Sj8sORRaM4exIA4oJzdhh) | [Cooza](https://open.spotify.com/artist/1P6s8Y6fBmd7KMcthpxi2V) | [Our Day](https://open.spotify.com/album/2KB5Knafh3nJvxA1aQZ8vp) | 2:03 | 2022-11-25 | 2023-07-22 |
 | [I Don't Know Why](https://open.spotify.com/track/4QbhVyTI7X8tXUjt1De4fa) | [Sunflower Thieves](https://open.spotify.com/artist/6UwPoe3ZqpC4OUuKgIinVW) | [Lichtenberg Figures](https://open.spotify.com/album/0uR6QYGmCHT2l0osmTyLrS) | 3:24 | 2022-10-14 | 2022-11-13 |
@@ -151,6 +152,8 @@
 | [Old Flame](https://open.spotify.com/track/23KrgrkSQN9rY3DWbklgMc) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [Old Flame](https://open.spotify.com/album/7dyZsFX4g5jcHpSnMkKoHZ) | 2:47 | 2021-12-10 | 2023-02-18 |
 | [Old Friend Night](https://open.spotify.com/track/4XQ0jF6YJ1BF7y3kC6okq5) | [Maja Lena](https://open.spotify.com/artist/5kpYXOF43Px1wc9wECKmL0) | [The Keeper](https://open.spotify.com/album/6TVrNauoPcbsT5wYGE7YrW) | 3:40 | 2021-12-10 | 2022-02-19 |
 | [Old Times](https://open.spotify.com/track/2LpnnVITgcXV3vaQysj37V) | [Tamu Massif](https://open.spotify.com/artist/2kU7oX1Uxv4xalarIEjMpm) | [Old Times](https://open.spotify.com/album/6Ub6Ympxgyntxct4EgrpKw) | 4:34 | 2022-04-01 | 2023-04-01 |
+| [Older](https://open.spotify.com/track/2EBtLxQSV8EHpk4gHoMnl3) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/5Tz4JnX2qcVxDDLpG8d2LY) | 3:21 | 2024-02-23 |  |
+| [One Last Song](https://open.spotify.com/track/3Rviv1akOeg6RhUNvy1RBR) | [Laura Alden](https://open.spotify.com/artist/19DUsD728zdjGRvEtRXy6J) | [One Last Song](https://open.spotify.com/album/2Ax8c96I3uP49OmJVcgSBl) | 3:29 | 2024-02-23 |  |
 | [Opaline](https://open.spotify.com/track/7qPGnjxHQNIv4zlnk6LxZW) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Opaline](https://open.spotify.com/album/5BxuUnw6ZVs7zgBQ2QKG79) | 3:12 | 2021-12-10 | 2022-10-15 |
 | [Our Time](https://open.spotify.com/track/0TNQTCtjB0tIXbdzbJPgiL) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [The Summer Isles](https://open.spotify.com/album/05HEBowDsH1MMkERUsn6Tl) | 3:24 | 2023-03-31 |  |
 | [Pale Damp Cheeks](https://open.spotify.com/track/2toOLLWUzPPGXYjv3sZlN0) | [Etaoin](https://open.spotify.com/artist/5V9BcFYORnSqjFtBgrpx01) | [Pale Damp Cheeks](https://open.spotify.com/album/2pN3kmD7RLWl0axrlU7OuE) | 3:33 | 2021-12-10 | 2022-07-29 |
@@ -177,6 +180,7 @@
 | [Sad Song](https://open.spotify.com/track/7jehpZchGhVt4u65HPSTdm) | [Benedict Benjamin](https://open.spotify.com/artist/1U1l0zn1Ks7bwNrYtx1DGI) | [Sad Song](https://open.spotify.com/album/2rmP3SiGPJb7yyZMKX5O5a) | 2:43 | 2023-07-21 | 2023-11-25 |
 | [Scared To Start](https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Scared To Start](https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39) | 2:39 | 2024-01-19 |  |
 | [Seastroke](https://open.spotify.com/track/5D1LlqWG0VUMMvfqRBch2S) | [Wyldest](https://open.spotify.com/artist/1H5bZEYikISQmR2qY2SASI) | [Seastroke](https://open.spotify.com/album/3P6RFTx68WRi9KQmdiTVgt) | 4:35 | 2021-12-10 |  |
+| [Sentences](https://open.spotify.com/track/2MI97Z7aN6BsMUpKjGs6MJ) | [Annika Kilkenny](https://open.spotify.com/artist/6BPf3YvvXG87cFZPT9WQgx) | [Sentences](https://open.spotify.com/album/4vduPHyboJB0uaGjft8I8b) | 2:13 | 2024-02-23 |  |
 | [Short Sighted](https://open.spotify.com/track/25hKDHLSeH6M4J47pMXu9T) | [Lewis Ross](https://open.spotify.com/artist/7H1Mw1I4p9sTGTtbGCj8E3) | [Short Sighted](https://open.spotify.com/album/1DWjS1BFUwomgoJErC02Bu) | 3:40 | 2021-12-10 | 2023-02-18 |
 | [Signal](https://open.spotify.com/track/3zu8faDUjfjpgdC7orgszA) | [tinyumbrellas](https://open.spotify.com/artist/2yKKGbXo5KtCrTPq4VVCZb) | [Signal](https://open.spotify.com/album/3N9okJZ9efu5Y7425rlLQ7) | 3:41 | 2021-12-10 | 2022-07-29 |
 | [Signal](https://open.spotify.com/track/6rikEM69mB0exCyb5JRbNE) | [tinyumbrellas](https://open.spotify.com/artist/2yKKGbXo5KtCrTPq4VVCZb) | [Signal](https://open.spotify.com/album/38mx2nObIpoL2FQhw1vbce) | 3:41 | 2022-06-10 | 2023-09-02 |
@@ -188,7 +192,7 @@
 | [Song of Carmen](https://open.spotify.com/track/4y7j2tXAiFNcttga2kqm87) | [Luca Wilding](https://open.spotify.com/artist/3IMal2orfDZIifVZjFOLLL) | [Book of Fate](https://open.spotify.com/album/0W9u5uM8EuVciM7bZPhf3h) | 4:20 | 2021-12-10 | 2023-02-18 |
 | [Songs in the Kitchen](https://open.spotify.com/track/190G1tt4vK1kMexFTuA1ob) | [Seánie Bermingham](https://open.spotify.com/artist/11SKACGCH6dgAW0RxQPMxK) | [Songs in the Kitchen](https://open.spotify.com/album/7lajSVr58lAZI6I15HNGNZ) | 3:10 | 2022-11-25 |  |
 | [Still](https://open.spotify.com/track/6rwgKVSwUY64AveImuknun) | [Jolé](https://open.spotify.com/artist/293DzAwiQQs4mkeOzQ6lOu), [Marie Gallo](https://open.spotify.com/artist/6wk4N3pB7kAqPG8gqd79cc) | [Silver Lake](https://open.spotify.com/album/7CwbiDng73fEwI8vIs3ZvL) | 3:47 | 2021-12-10 | 2022-04-02 |
-| [Stray Dog](https://open.spotify.com/track/53wF0QyUtZZPr0ICH2YbDE) | [R.D\. Thomas](https://open.spotify.com/artist/1Gm0PlcJyn8iJmip82nnwq) | [What Circus Is This?](https://open.spotify.com/album/7v5ysOTgTm5Oe7VmIFxwNM) | 2:59 | 2023-01-06 |  |
+| [Stray Dog](https://open.spotify.com/track/53wF0QyUtZZPr0ICH2YbDE) | [R.D\. Thomas](https://open.spotify.com/artist/1Gm0PlcJyn8iJmip82nnwq) | [What Circus Is This?](https://open.spotify.com/album/7v5ysOTgTm5Oe7VmIFxwNM) | 2:59 | 2023-01-06 | 2024-02-24 |
 | [Studio 54](https://open.spotify.com/track/3mxvUliPDlHWk9kCVRjwNJ) | [TTSSFU](https://open.spotify.com/artist/4u0g598Mtg9ch4HgEP2DFG) | [Studio 54](https://open.spotify.com/album/0eP9LS0GwxgVtSuJBkEf67) | 3:14 | 2024-02-09 |  |
 | [Suckers](https://open.spotify.com/track/2kzTSLMhU3lF6C0Hhmixmf) | [Tom Joshua](https://open.spotify.com/artist/1Bj310qWCdWOMTCubqgaPj) | [Undergrowth Vol\. 2 \- EP](https://open.spotify.com/album/26cKtEqxlTxvKEsCl2mYpU) | 5:14 | 2021-12-10 | 2022-08-20 |
 | [Talking With Your Ghost](https://open.spotify.com/track/6PvvoauxBamBF1FKrdltw3) | [Charlie Oriain](https://open.spotify.com/artist/0rNWn0b2f8PiL8VAdDR152) | [Homesick](https://open.spotify.com/album/4hplF2EEAb1hxkAItGT4af) | 3:00 | 2023-01-06 |  |

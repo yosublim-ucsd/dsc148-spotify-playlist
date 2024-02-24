@@ -4,7 +4,7 @@
 
 > The R&B and good vibe tracks for your current mood\. Cover: Justin Timberlake
 
-643 songs - 1 day 10 hr 40 min
+644 songs - 1 day 10 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -427,6 +427,7 @@
 | [playing tricks](https://open.spotify.com/track/6bqdzSnOYEhGkcaNXwxzA9) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [girls like me don't cry](https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE) | 3:04 | 2023-11-29 | 2024-01-05 |
 | [playing tricks](https://open.spotify.com/track/6zaayoVlfFp5YmQArKWkRG) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [playing tricks](https://open.spotify.com/album/2qHP34bvPUluFtdG8QRywz) | 3:04 | 2022-08-18 |  |
 | [Please](https://open.spotify.com/track/4fDIsYUUzdq6riqwmsqzxN) | [qt.](https://open.spotify.com/artist/2PZrzgPEzozv50Ccu7f3ld) | [Please](https://open.spotify.com/album/5JV6pGJIZ1UFuZrQvtyZQ7) | 2:14 | 2023-08-03 | 2023-11-17 |
+| [Please Be Good](https://open.spotify.com/track/0oSpphTmHAisyEtcslZcg3) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Please Be Good](https://open.spotify.com/album/2FTYhBqao8Jg6fp1huyZar) | 2:38 | 2024-02-22 |  |
 | [Please Do Not Lean \(feat\. BADBADNOTGOOD\)](https://open.spotify.com/track/5uXO1sjZ7VbNKexKaFRna3) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Please Do Not Lean](https://open.spotify.com/album/2kdNEYAPZlAoMaIzYQWM8U) | 4:00 | 2022-06-08 | 2022-09-09 |
 | [Please Don't Find Closure \(feat\. Monica Karina\)](https://open.spotify.com/track/5FVwHDG5z1BTsHg73HGtWk) | [Kara Chenoa](https://open.spotify.com/artist/04V7QZJcbAQtBdSUgT6hPO), [Monica Karina](https://open.spotify.com/artist/4uz19Fx4VF6BHhzmTuSCOR) | [Please Don't Find Closure \(feat\. Monica Karina\)](https://open.spotify.com/album/2UiemvjhDoY894zfAmMzD2) | 4:00 | 2023-03-16 | 2023-05-05 |
 | [Plot Twist](https://open.spotify.com/track/17hfTG2AmDsmt2KmBVhV6d) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 2:32 | 2022-09-22 | 2023-03-25 |

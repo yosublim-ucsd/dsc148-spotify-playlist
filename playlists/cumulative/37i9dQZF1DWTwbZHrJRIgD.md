@@ -4,7 +4,7 @@
 
 > Bright, sunny, catchy tunes put a smile on your face\. Cover \- Tu Jhoothi Main Makkaar
 
-195 songs - 11 hr 51 min
+196 songs - 11 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Roobaroo](https://open.spotify.com/track/3vqJY3pVELLIxqXXyI08yr) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Naresh Iyer](https://open.spotify.com/artist/7FaGCZiP3s6X7jQTB8EhfI) | [Rang De Basanti \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0NKNDn80mhKn4Xi6nHrsqQ) | 4:42 | 2022-03-09 | 2022-12-20 |
 | [Roz Roz](https://open.spotify.com/track/6E6BCsQHXDAdXsrL7zV71N) | [The Yellow Diary](https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [Roz Roz](https://open.spotify.com/album/1XRn1HkOk0Nc3fLKcfkNu2) | 3:38 | 2022-03-09 | 2023-02-11 |
 | [Saara Jahaan](https://open.spotify.com/track/6PCFM6hZ5CZb6MZhNXvX92) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Saara Jahaan](https://open.spotify.com/album/16kYRDEJT3bwQ5StFGCGPV) | 2:37 | 2023-04-08 | 2023-04-29 |
+| [Sadqay](https://open.spotify.com/track/2lX53kXvYnvpV8Vqfe4S7s) | [Aashir Wajahat](https://open.spotify.com/artist/4Kd6rJWBl4KpwRYct9PFMo), [NAYEL](https://open.spotify.com/artist/7B0H8l9inK2UBRm5Xsc9zO), [Nehaal Naseem](https://open.spotify.com/artist/6YSVUxXGsQQD2cWSJhN8re) | [Sadqay](https://open.spotify.com/album/6DCDw6OlKLmVlVrp9J6YWD) | 2:34 | 2024-02-23 |  |
 | [Sage](https://open.spotify.com/track/43mHckutQvJr49nT0UvRxy) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Ved](https://open.spotify.com/album/7LPx9F9ZQWWvQlKgIQi1OZ) | 3:50 | 2022-07-17 | 2023-03-16 |
 | [Sage](https://open.spotify.com/track/64RkEV5b7bG697vhIPMlrl) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Sage](https://open.spotify.com/album/7sDecy4TUrJpkPnOmAiVKn) | 3:50 | 2022-03-09 | 2022-07-29 |
 | [Saibo](https://open.spotify.com/track/6udC4b4jOSnHb9ItnXgKLR) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Tochi Raina](https://open.spotify.com/artist/6k6dimE4a6OFnD0HWmkIUW) | [Shor in the City \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2HZl13JCi3PIaqVlIkp4q6) | 3:15 | 2023-03-17 |  |
@@ -177,7 +178,7 @@
 | [Time Traveller 2](https://open.spotify.com/track/1A773NO838tc7W7vF3f07u) | [Rahul Sharma](https://open.spotify.com/artist/3BAOzRjHe8qlURUC3fDSTf) | [Time Traveller 2 \- Single](https://open.spotify.com/album/0WoIT0tcDkvW7rqW1ZQuYJ) | 4:44 | 2023-03-03 | 2023-03-16 |
 | [Time Traveller 2](https://open.spotify.com/track/2zfpEisDJgUkJeIIBRQNqV) | [Rahul Sharma](https://open.spotify.com/artist/3BAOzRjHe8qlURUC3fDSTf) | [Time Traveller 2](https://open.spotify.com/album/7CRdG6TtmTLYN4bTcszvCX) | 4:44 | 2023-03-03 | 2023-03-05 |
 | [Tu Hi Hai Sahara](https://open.spotify.com/track/77QBG4tCgN0IzdnB6Ph1fb) | [Siddiq Ansari](https://open.spotify.com/artist/5P0itn2JRIjugxZgkORwmu), [Marcus\. M](https://open.spotify.com/artist/25v0JsJOdkuou4Cuxg2eKP) | [Tu Hi Hai Sahara](https://open.spotify.com/album/0RCOmVaAojoRAATxMrPZ9z) | 3:26 | 2023-03-17 | 2023-03-30 |
-| [Tu Meri Hai](https://open.spotify.com/track/0oVSs2wz74lm9YPwHbcdZl) | [Jigar Saraiya](https://open.spotify.com/artist/48RCl7AbbfhC60EN8a80Op), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO) | [Tu Meri Hai](https://open.spotify.com/album/4Xqjk0emJHJCWaX0g9NqqC) | 3:55 | 2024-01-19 |  |
+| [Tu Meri Hai](https://open.spotify.com/track/0oVSs2wz74lm9YPwHbcdZl) | [Jigar Saraiya](https://open.spotify.com/artist/48RCl7AbbfhC60EN8a80Op), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO) | [Tu Meri Hai](https://open.spotify.com/album/4Xqjk0emJHJCWaX0g9NqqC) | 3:55 | 2024-01-19 | 2024-02-24 |
 | [Tu Mileya](https://open.spotify.com/track/7glqjOAauUoPmOXp2Ovpcf) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Tu Mileya](https://open.spotify.com/album/21wYDuEQeG7jvdeMe7S73r) | 3:13 | 2023-05-17 | 2023-08-31 |
 | [Tum Hi Ho Bandhu](https://open.spotify.com/track/1IOk1Cz69BasUkFgsyVxp3) | [Beatrice](https://open.spotify.com/artist/1dpqTYhm668HHTWSvE9jyM), [yusha571](https://open.spotify.com/artist/4USN2fYVJnUWvtNu9dRaIa), [xSyborg](https://open.spotify.com/artist/1WAbp7edewKZGadOCmhlJg), [Ayparia](https://open.spotify.com/artist/2p95ymqzTS36FNCRY9uM3r) | [Tum Hi Ho Bandhu](https://open.spotify.com/album/6DLy76kjeCrKoXJUeUy4AI) | 4:42 | 2023-07-25 | 2023-08-18 |
 | [Tum Hi Ho Bandhu](https://open.spotify.com/track/0F7SLEIzDQFAMYrC3hDrQg) | [Neeraj Shridhar](https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv) | [Cocktail](https://open.spotify.com/album/5iLKGxWb2JqrgJqbcVkroS) | 4:43 | 2023-08-08 | 2023-10-28 |

@@ -293,6 +293,24 @@
     },
     {
       "album": {
+        "name": "As You Are",
+        "url": "https://open.spotify.com/album/0LCxYgE6QltpzkxhVXOPez"
+      },
+      "artists": [
+        {
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246398,
+      "name": "As You Are",
+      "url": "https://open.spotify.com/track/4DXs4CjeQ91Abx1xReQ3cC"
+    },
+    {
+      "album": {
         "name": "As You Leave (undone)",
         "url": "https://open.spotify.com/album/2qbYexAOjAjIg9eySC5jNO"
       },
@@ -2012,7 +2030,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 188651,
       "name": "I Can't Love You Anymore - In Rare Form",
       "url": "https://open.spotify.com/track/3dipAWHU0fH4hRWxq5P3Cc"

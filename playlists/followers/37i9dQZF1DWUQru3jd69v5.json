@@ -1,7 +1,7 @@
 {
-  "2024-02-23": 224660,
+  "2024-02-24": 224951,
   "date_first_scraped": "2022-05-12",
-  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Cover: Kuremino",
+  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Cover: Tony Boy",
   "name": "Raptopia",
   "tracks": [
     {
@@ -772,6 +772,24 @@
     },
     {
       "album": {
+        "name": "ABUBAKAR",
+        "url": "https://open.spotify.com/album/2Ktl0YNuLWN5nxsetgWZhg"
+      },
+      "artists": [
+        {
+          "name": "MA7DI",
+          "url": "https://open.spotify.com/artist/4qHOnCnQ7cKuAIstfD7ATj"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181565,
+      "name": "ABUBAKAR",
+      "url": "https://open.spotify.com/track/3XXRBZMiNrDpEewxmirGHJ"
+    },
+    {
+      "album": {
         "name": "Acciughe Salate",
         "url": "https://open.spotify.com/album/0QFaV3Pddc7Mk7uSiFoA1N"
       },
@@ -1401,6 +1419,24 @@
       "duration_ms": 158400,
       "name": "ASSISTE 2 (feat. Kilimoney)",
       "url": "https://open.spotify.com/track/6uJCQb6kWhXfWrIXnDP8mx"
+    },
+    {
+      "album": {
+        "name": "Attimi",
+        "url": "https://open.spotify.com/album/6m8vAIVU1BttTt6e09Vrax"
+      },
+      "artists": [
+        {
+          "name": "Westcross",
+          "url": "https://open.spotify.com/artist/6CWIvN7FdCWsZZYcfmYPzk"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117791,
+      "name": "Attimi",
+      "url": "https://open.spotify.com/track/5oZ1UQqXAFsvUgYNQGs2I8"
     },
     {
       "album": {
@@ -2732,6 +2768,24 @@
     },
     {
       "album": {
+        "name": "BOUNCE",
+        "url": "https://open.spotify.com/album/3YFdkeBLZU1X6COJy78Qhl"
+      },
+      "artists": [
+        {
+          "name": "Baronetto",
+          "url": "https://open.spotify.com/artist/0pwPxQ42me7zkEVBthrPf0"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102069,
+      "name": "BOUNCE",
+      "url": "https://open.spotify.com/track/2gEAaRaCZo6MKx3JDed9ob"
+    },
+    {
+      "album": {
         "name": "BOX",
         "url": "https://open.spotify.com/album/22xPf88okQhsx5cA4Fbwji"
       },
@@ -2907,6 +2961,24 @@
       "duration_ms": 152124,
       "name": "BULLS",
       "url": "https://open.spotify.com/track/02ziGICyxDi5VHvKkQBkUB"
+    },
+    {
+      "album": {
+        "name": "BUSINESS",
+        "url": "https://open.spotify.com/album/6YxmvRXi9I2QACYOAhoJdG"
+      },
+      "artists": [
+        {
+          "name": "Delaru\u00e0",
+          "url": "https://open.spotify.com/artist/0inlLzcyWLbJbPZuMzfTPt"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130534,
+      "name": "BUSINESS",
+      "url": "https://open.spotify.com/track/5joQvisRJ4GhNkReA7TUKf"
     },
     {
       "album": {
@@ -4015,7 +4087,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 142153,
       "name": "Closed",
       "url": "https://open.spotify.com/track/2Tjpjyz6I6vFwVl6ZdvTAt"
@@ -6182,6 +6254,28 @@
     },
     {
       "album": {
+        "name": "Favela",
+        "url": "https://open.spotify.com/album/03kK6uzpAQE19p7H1LqwK6"
+      },
+      "artists": [
+        {
+          "name": "8blevrai",
+          "url": "https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D"
+        },
+        {
+          "name": "Bobo",
+          "url": "https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152571,
+      "name": "Favela",
+      "url": "https://open.spotify.com/track/7DeRITpeOYqyYCIiWA178N"
+    },
+    {
+      "album": {
         "name": "Federico",
         "url": "https://open.spotify.com/album/4doOQDtIkkjGr2Hz77cjLT"
       },
@@ -7877,7 +7971,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 133751,
       "name": "HI TECH (feat. Dardan)",
       "url": "https://open.spotify.com/track/4l2ATeURkBNDMaj1s7cU6U"
@@ -8213,7 +8307,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 164042,
       "name": "IMBORGHESI",
       "url": "https://open.spotify.com/track/08sKSGw1ADTFGbPfg8EtTY"
@@ -8355,7 +8449,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 138666,
       "name": "IN QUALCHE MODO",
       "url": "https://open.spotify.com/track/4YmiGHuwmxeTbTchs2iIg8"
@@ -8838,6 +8932,24 @@
     },
     {
       "album": {
+        "name": "NOSTALGIA (export)",
+        "url": "https://open.spotify.com/album/7nrBxtq6TJ5xs3D9G0R7ue"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139902,
+      "name": "Kid",
+      "url": "https://open.spotify.com/track/3cJ3KCdbNTSs5NGhETU9kt"
+    },
+    {
+      "album": {
         "name": "KILI KILI",
         "url": "https://open.spotify.com/album/6CUBYWEmpFpyKa1RXnU2kk"
       },
@@ -9215,7 +9327,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 142666,
       "name": "La Fortuna",
       "url": "https://open.spotify.com/track/72clshXBMKutidadzudGmc"
@@ -9799,7 +9911,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 196799,
       "name": "LE BAMBINE FANNO OH (feat. Nerissima Serpe, ANNA, Papa V, Artie 5ive)",
       "url": "https://open.spotify.com/track/0bB8hmswtN9WvOQXV159CC"
@@ -10128,6 +10240,24 @@
     },
     {
       "album": {
+        "name": "LUCE",
+        "url": "https://open.spotify.com/album/3TdmCUwwSHshmX83TeyKsl"
+      },
+      "artists": [
+        {
+          "name": "Red Roses",
+          "url": "https://open.spotify.com/artist/3dA6K34y5FCgngffHJTjpY"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122790,
+      "name": "LUCE",
+      "url": "https://open.spotify.com/track/7h8114132hLsh0gfAoJCC2"
+    },
+    {
+      "album": {
         "name": "LUNGA VITA AI RE",
         "url": "https://open.spotify.com/album/0SO48murpsipxQx7y0MKY0"
       },
@@ -10139,7 +10269,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 197468,
       "name": "LUNGA VITA AI RE",
       "url": "https://open.spotify.com/track/330qUuctHh9ficSKNwgMnY"
@@ -10705,7 +10835,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 180046,
       "name": "MAR7ABA (feat. Nabi, LaMagieDuTiel)",
       "url": "https://open.spotify.com/track/3WFlIMxM6GteBtgtt5nNFg"
@@ -11685,7 +11815,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 190554,
       "name": "Mogio",
       "url": "https://open.spotify.com/track/2UCw0rBbkmZJIn3oQomFTT"
@@ -12543,7 +12673,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 155138,
       "name": "No Pit Stop (feat. Kid Yugi)",
       "url": "https://open.spotify.com/track/7j5nQHnFsiIn4sGpNMISht"
@@ -12821,7 +12951,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 146440,
       "name": "Normale",
       "url": "https://open.spotify.com/track/0C2qmnrEGUQ8hbcdJcCYUK"
@@ -13535,7 +13665,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 185454,
       "name": "PANINARO (feat. Tony Boy, Artie 5ive)",
       "url": "https://open.spotify.com/track/0VVYNEXsZB3x9XyMEZQjk1"
@@ -14830,6 +14960,24 @@
     },
     {
       "album": {
+        "name": "Push",
+        "url": "https://open.spotify.com/album/6CbQx944aKtHlOrpiHdg8U"
+      },
+      "artists": [
+        {
+          "name": "Ramses Afro",
+          "url": "https://open.spotify.com/artist/0BA9Z5ZuaS6LjEhj9Nkfvg"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115555,
+      "name": "Push",
+      "url": "https://open.spotify.com/track/0c3dkyiXHsl5DvEp33aGzU"
+    },
+    {
+      "album": {
         "name": "QUANTO CASINO",
         "url": "https://open.spotify.com/album/0JzBL0zjYqwzU1edd9DZUk"
       },
@@ -15161,6 +15309,24 @@
       "duration_ms": 147176,
       "name": "READY",
       "url": "https://open.spotify.com/track/59TnLgf4V9ReFxdwVls8Qb"
+    },
+    {
+      "album": {
+        "name": "Realness",
+        "url": "https://open.spotify.com/album/6WvpHmaySTeQGPLhRrVAiq"
+      },
+      "artists": [
+        {
+          "name": "Cecchy",
+          "url": "https://open.spotify.com/artist/2yLVjmzpKCw0B7SKpWeZjN"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138484,
+      "name": "Realness",
+      "url": "https://open.spotify.com/track/7bq0EaS7UDPUQGQTx0jeHn"
     },
     {
       "album": {
@@ -15755,7 +15921,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 176000,
       "name": "S0LI (feat. AUR\u0245)",
       "url": "https://open.spotify.com/track/0x3ObDBzWGkZBMdHeU9XxO"
@@ -16144,6 +16310,24 @@
     },
     {
       "album": {
+        "name": "NOSTALGIA (export)",
+        "url": "https://open.spotify.com/album/7nrBxtq6TJ5xs3D9G0R7ue"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185736,
+      "name": "Sei del Mattino",
+      "url": "https://open.spotify.com/track/0SeoeFL0XM5YpTag15SX9n"
+    },
+    {
+      "album": {
         "name": "Sembra Cap",
         "url": "https://open.spotify.com/album/5ayLm2ALhCbqt3cjNl2NCj"
       },
@@ -16421,6 +16605,28 @@
       "duration_ms": 148630,
       "name": "Sezione 2",
       "url": "https://open.spotify.com/track/3a2n8wuUcI1VgzHPxUFBg5"
+    },
+    {
+      "album": {
+        "name": "SFOGO PERSONALE",
+        "url": "https://open.spotify.com/album/38OiuyEBDtrE0KZdSKYBJw"
+      },
+      "artists": [
+        {
+          "name": "18K",
+          "url": "https://open.spotify.com/artist/5PVCzkHVhVLRLadPdJUdXB"
+        },
+        {
+          "name": "Ed Mars",
+          "url": "https://open.spotify.com/artist/26LV5lhRjmkGpyqoi2hVB3"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157741,
+      "name": "SFOGO PERSONALE",
+      "url": "https://open.spotify.com/track/55S3udnI7SOlQo1dJ2tT48"
     },
     {
       "album": {
@@ -17414,6 +17620,28 @@
     },
     {
       "album": {
+        "name": "Sulle Giostre",
+        "url": "https://open.spotify.com/album/4cVyLWedPFPtGVXWNPcmBW"
+      },
+      "artists": [
+        {
+          "name": "RRARI DAL TACCO",
+          "url": "https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd"
+        },
+        {
+          "name": "Timongothekeys",
+          "url": "https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150004,
+      "name": "Sulle Giostre",
+      "url": "https://open.spotify.com/track/5c8Q9RWWcrg2bIbHO0Ierr"
+    },
+    {
+      "album": {
         "name": "SUPEREROI",
         "url": "https://open.spotify.com/album/2yIXy9X8IkSthoaNU3VwgZ"
       },
@@ -17780,6 +18008,28 @@
     },
     {
       "album": {
+        "name": "TEKKEN (feat. Simba La Rue)",
+        "url": "https://open.spotify.com/album/2Wrze5hALL55nNzoyag7EO"
+      },
+      "artists": [
+        {
+          "name": "Niky Savage",
+          "url": "https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg"
+        },
+        {
+          "name": "Simba La Rue",
+          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174461,
+      "name": "TEKKEN (feat. Simba La Rue)",
+      "url": "https://open.spotify.com/track/0gkjSa9UaRWioYJn9vbX8U"
+    },
+    {
+      "album": {
         "name": "TEMPORALE",
         "url": "https://open.spotify.com/album/2ujTXwXNw8i6CtiER5GztY"
       },
@@ -17945,6 +18195,24 @@
       "duration_ms": 140307,
       "name": "Tiki Taka",
       "url": "https://open.spotify.com/track/50MWpZN2WAcfkeKAaU5fvY"
+    },
+    {
+      "album": {
+        "name": "TILL I DIE",
+        "url": "https://open.spotify.com/album/5kJNEvseGqjnoUM2AVaxzM"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9",
+          "url": "https://open.spotify.com/artist/3sRTjuam7GJ4lA7ewD2sfb"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133953,
+      "name": "TILL I DIE",
+      "url": "https://open.spotify.com/track/0U4z6d3be5PsrMRxIyqLGe"
     },
     {
       "album": {
@@ -18230,6 +18498,28 @@
     },
     {
       "album": {
+        "name": "TR*P (feat. Sgribaz)",
+        "url": "https://open.spotify.com/album/2GNB3C5SBcUYn0ylMX4M5b"
+      },
+      "artists": [
+        {
+          "name": "Sayf",
+          "url": "https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB"
+        },
+        {
+          "name": "Sgribaz",
+          "url": "https://open.spotify.com/artist/1nz1nHrmEwE28EGz4Z2fKi"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152055,
+      "name": "TR*P (feat. Sgribaz)",
+      "url": "https://open.spotify.com/track/2l1OdCo3rv0Zgr7pYqKhD0"
+    },
+    {
+      "album": {
         "name": "Trafficante",
         "url": "https://open.spotify.com/album/2fqjaXJGRG5PuEqb0ftjkB"
       },
@@ -18509,7 +18799,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 184615,
       "name": "TURBO (feat. Digital Astro, Tony Boy)",
       "url": "https://open.spotify.com/track/04VLT3WTmhaNKsNnIMnV2I"
@@ -18873,7 +19163,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 119495,
       "name": "Valentino Rossi",
       "url": "https://open.spotify.com/track/5IjPpqpiQ7C4wOsJFUGhaH"

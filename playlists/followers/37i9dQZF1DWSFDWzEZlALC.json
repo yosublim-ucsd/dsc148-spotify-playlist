@@ -1,7 +1,7 @@
 {
-  "2024-02-23": 417216,
+  "2024-02-24": 417384,
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Paula Hartmann",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Kasi, antonius",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -2032,6 +2032,24 @@
     },
     {
       "album": {
+        "name": "Du tust mir gut",
+        "url": "https://open.spotify.com/album/0v0tkvIaATIYxUq6jhEqq0"
+      },
+      "artists": [
+        {
+          "name": "STRAHLEMANN",
+          "url": "https://open.spotify.com/artist/2PUOx9XPLqt5t2eTFnGUr8"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246784,
+      "name": "Du tust mir gut",
+      "url": "https://open.spotify.com/track/34vO1qCYNPTCIudwFc5IWB"
+    },
+    {
+      "album": {
         "name": "Es ist Abend und wir sitzen bei mir",
         "url": "https://open.spotify.com/album/0GyLgE1cRLcOUfsnhRplXI"
       },
@@ -2558,6 +2576,24 @@
     },
     {
       "album": {
+        "name": "Es bleibt spannend",
+        "url": "https://open.spotify.com/album/13enGCel0CjCAUoo2fvQX4"
+      },
+      "artists": [
+        {
+          "name": "Tigermilch",
+          "url": "https://open.spotify.com/artist/5cFzpoYJedkZeGFUp9pExN"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145113,
+      "name": "Es bleibt spannend",
+      "url": "https://open.spotify.com/track/7lZIoGYClxerbOwUgip8Vd"
+    },
+    {
+      "album": {
         "name": "Von Wind und Anonymit\u00e4t",
         "url": "https://open.spotify.com/album/2Ng9a76XnsKxlwWPUMXHgK"
       },
@@ -2827,6 +2863,28 @@
       "duration_ms": 159272,
       "name": "Fenster auf Kipp",
       "url": "https://open.spotify.com/track/0cfBIQ89cy4gbtSFBAbF9T"
+    },
+    {
+      "album": {
+        "name": "no hook pt.2",
+        "url": "https://open.spotify.com/album/35YzCA785qR1zgmzOgrP9y"
+      },
+      "artists": [
+        {
+          "name": "Kasi",
+          "url": "https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw"
+        },
+        {
+          "name": "antonius",
+          "url": "https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147167,
+      "name": "fensterbank",
+      "url": "https://open.spotify.com/track/4SEMA2hhBUi7PNCDrQGJ51"
     },
     {
       "album": {
@@ -3843,6 +3901,28 @@
       "duration_ms": 211552,
       "name": "Hei\u00dfe Herzen",
       "url": "https://open.spotify.com/track/5nzehPLy1tCQKPPXNuGqEm"
+    },
+    {
+      "album": {
+        "name": "Helium",
+        "url": "https://open.spotify.com/album/5tSFG6YkSHuxZCYQBc8pzG"
+      },
+      "artists": [
+        {
+          "name": "Traumatin",
+          "url": "https://open.spotify.com/artist/7a3E1IT2qaGIq6M4cW2NtV"
+        },
+        {
+          "name": "whosroman",
+          "url": "https://open.spotify.com/artist/7kqS6VG49qXY1Ovq7bV3na"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215858,
+      "name": "Helium",
+      "url": "https://open.spotify.com/track/4Os5yLFtTCv9CYc7xPtcpH"
     },
     {
       "album": {
@@ -6257,7 +6337,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 171706,
       "name": "nie wieder (mundsburg)",
       "url": "https://open.spotify.com/track/1y7KRS1FcDLVC8Y3uqLxJI"
@@ -6633,7 +6713,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 124920,
       "name": "Parf\u00fcm",
       "url": "https://open.spotify.com/track/7eRSNIlv45XoIDKu9WnpNh"
@@ -7219,7 +7299,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 162000,
       "name": "Rosenkohl",
       "url": "https://open.spotify.com/track/2cJYzrox3QphJpiwqAVwis"
@@ -7342,6 +7422,24 @@
     },
     {
       "album": {
+        "name": "Scheissegal",
+        "url": "https://open.spotify.com/album/6WVk6xki2yw6Rm5lkRt9al"
+      },
+      "artists": [
+        {
+          "name": "Katzi",
+          "url": "https://open.spotify.com/artist/7wELxFDgA5UWcQ4LXFq99m"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189293,
+      "name": "Scheissegal",
+      "url": "https://open.spotify.com/track/4nyRfJ4OtNlLWCtp3l9SAz"
+    },
+    {
+      "album": {
         "name": "Schere Stein Papier",
         "url": "https://open.spotify.com/album/2wp0GmMLB4NOjQRLySIDR2"
       },
@@ -7429,7 +7527,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 138963,
       "name": "Schritt f\u00fcr Schritt",
       "url": "https://open.spotify.com/track/3uQFTCi3SuEdBO5MEZLYhz"
@@ -7730,6 +7828,24 @@
     },
     {
       "album": {
+        "name": "Sie sagt",
+        "url": "https://open.spotify.com/album/7Ljv1ueJapDDF22Qx7JEJB"
+      },
+      "artists": [
+        {
+          "name": "Rowli",
+          "url": "https://open.spotify.com/artist/062qvlhIYOrATqRTHet3D3"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134666,
+      "name": "Sie sagt",
+      "url": "https://open.spotify.com/track/2fDx4w2rGgr73T0cwt3GMl"
+    },
+    {
+      "album": {
         "name": "Sie tanzt so gut",
         "url": "https://open.spotify.com/album/2gUVkJk5RzEyIQndV1VUt9"
       },
@@ -7821,7 +7937,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 214506,
       "name": "so k.o. (feat. JEREMIAS)",
       "url": "https://open.spotify.com/track/0B4gBXd4XLXGvaBl7pI2vL"
@@ -9463,7 +9579,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 131833,
       "name": "Wenn die Sonne scheint",
       "url": "https://open.spotify.com/track/147m9a0XMGmDfX8bMAJ6Bg"

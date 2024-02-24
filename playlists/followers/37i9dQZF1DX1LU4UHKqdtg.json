@@ -1,5 +1,5 @@
 {
-  "2024-02-23": 407471,
+  "2024-02-24": 407698,
   "date_first_scraped": "2021-12-28",
   "description": "The freshest K-Pop of today!  //\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01 Cover: ENHYPEN",
   "name": "K-Pop Fresh",
@@ -163,7 +163,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 160942,
       "name": "3D (Justin Timberlake Remix)",
       "url": "https://open.spotify.com/track/2mHw0KoEyDw8Yaw3yPoke6"
@@ -8157,7 +8157,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 180330,
       "name": "LEveL",
       "url": "https://open.spotify.com/track/0Zp9WOkXX8xZS8QOhtdQ5k"
@@ -8871,7 +8871,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 162013,
       "name": "Lovers or Enemies",
       "url": "https://open.spotify.com/track/4A3qnwmF4iRAHrWttbl6pH"
@@ -16835,7 +16835,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 216347,
       "name": "\u30c9\u30ec\u30b9\u30b3\u30fc\u30c9 (Prod. imase)",
       "url": "https://open.spotify.com/track/3o0Nlc7DVVC39pfv4nTi9Y"
@@ -16933,6 +16933,24 @@
       "duration_ms": 200986,
       "name": "\u541b\u306e\u58f0 (Your voice)",
       "url": "https://open.spotify.com/track/1eRlhfcn1xtBeCcayadirV"
+    },
+    {
+      "album": {
+        "name": "\u6016\u3044",
+        "url": "https://open.spotify.com/album/7rQhRFfvujPALiWEsvIaCt"
+      },
+      "artists": [
+        {
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188720,
+      "name": "\u6016\u3044",
+      "url": "https://open.spotify.com/track/7EzYrXOCgKUwFZxv6EUOP0"
     },
     {
       "album": {

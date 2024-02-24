@@ -4,7 +4,7 @@
 
 > Hindi hits, Punjabi bangers, love songs, chart toppers, timeless classics, latest trending tracks and much more under a single playlist featuring best of the artists like Arijit Singh, Pritam, A R Rahman, Badshah, B Praak &amp; AP Dhillon\. Follow now!
 
-275 songs - 16 hr 39 min
+276 songs - 16 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,6 +225,7 @@
 | [Roz Roz](https://open.spotify.com/track/6E6BCsQHXDAdXsrL7zV71N) | [The Yellow Diary](https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [Roz Roz](https://open.spotify.com/album/1XRn1HkOk0Nc3fLKcfkNu2) | 3:38 | 2021-02-05 | 2022-04-19 |
 | [Saari Duniya Jalaa Denge](https://open.spotify.com/track/0YxKKO272sacGBJKjf6FnB) | [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [ANIMAL](https://open.spotify.com/album/0a183xiCHiC1GQd8ou7WXO) | 3:02 | 2023-11-30 |  |
 | [Saawariya \(feat\. Arjun Bijlani\)](https://open.spotify.com/track/3W9EFWiTzexkdlCm2zHBqK) | [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ), [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn), [Arjun Bijlani](https://open.spotify.com/artist/16AdgG9cB8v609ylemhGXz) | [Saawariya \(feat\. Arjun Bijlani\)](https://open.spotify.com/album/6XrfqO7ZEF3XRDNsPfij58) | 3:22 | 2021-10-08 | 2022-08-20 |
+| [Sadqay](https://open.spotify.com/track/2lX53kXvYnvpV8Vqfe4S7s) | [Aashir Wajahat](https://open.spotify.com/artist/4Kd6rJWBl4KpwRYct9PFMo), [NAYEL](https://open.spotify.com/artist/7B0H8l9inK2UBRm5Xsc9zO), [Nehaal Naseem](https://open.spotify.com/artist/6YSVUxXGsQQD2cWSJhN8re) | [Sadqay](https://open.spotify.com/album/6DCDw6OlKLmVlVrp9J6YWD) | 2:34 | 2024-02-23 |  |
 | [Saibo](https://open.spotify.com/track/6udC4b4jOSnHb9ItnXgKLR) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Tochi Raina](https://open.spotify.com/artist/6k6dimE4a6OFnD0HWmkIUW) | [Shor in the City \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2HZl13JCi3PIaqVlIkp4q6) | 3:15 | 2023-02-06 |  |
 | [Saiyaan Ji](https://open.spotify.com/track/39QJ7KkN3L8LLqQqsO85W1) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Nushrratt Bharuccha](https://open.spotify.com/artist/1UhspKnJSXSz6I0pFtZhuy) | [Saiyaan Ji](https://open.spotify.com/album/00GpnM3JCsq6rtfBHptXZa) | 3:25 | 2021-02-16 | 2022-08-20 |
 | [Saiyyan \- Lofi Flip](https://open.spotify.com/track/77IPBSEbMAiH7gOGfLllKz) | [Kailash Kher](https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4), [VIBIE](https://open.spotify.com/artist/1btklM4yoTaKiVjLodLrOh) | [Saiyyan \(Lofi Flip\)](https://open.spotify.com/album/6vGztedlB3X0jouMOYPwmo) | 4:27 | 2021-09-21 | 2023-02-07 |

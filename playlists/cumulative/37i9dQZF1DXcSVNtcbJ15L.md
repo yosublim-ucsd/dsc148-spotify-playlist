@@ -2,13 +2,14 @@
 
 ### [oiii](https://open.spotify.com/playlist/37i9dQZF1DXcSVNtcbJ15L)
 
-> vem de dm 🔥  ❤️
+> vamo saí qqer dia?
 
-88 songs - 4 hr 8 min
+89 songs - 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Garota Mais Linda de Oz](https://open.spotify.com/track/6blFfIKfjek2zgrcNjWcnU) | [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Sadnation](https://open.spotify.com/artist/03eBztaT761cekpkMOZEDY), [L3ozz](https://open.spotify.com/artist/2re8PPjIT5xydo7CAYQb02) | [A Garota Mais Linda de Oz](https://open.spotify.com/album/6EnL3B0Co201xFS185pL0B) | 2:45 | 2022-04-29 |  |
+| [Ah!](https://open.spotify.com/track/1rEnzsO63AM5zQCcKqAsJM) | [Kaleb Mesmo](https://open.spotify.com/artist/1GNaNLlTRaULwJfzSyAiBK), [Pedro Alex](https://open.spotify.com/artist/32WvUPGa7IwVNVnPQ0grXN) | [Ah!](https://open.spotify.com/album/3uFUzL4mWd4rnupuVBYRKr) | 3:08 | 2024-02-23 |  |
 | [Ainda Lembro 2](https://open.spotify.com/track/5zEu047A1dckMMPk2ipsIP) | [Sobral](https://open.spotify.com/artist/1iffB8upqqDnx6UX8P3kz2), [Nanasai](https://open.spotify.com/artist/67PBrqP0nECUumF2AQ8G6S) | [Ainda Lembro 2](https://open.spotify.com/album/7JmNFkUeNhHBgqAHlOucMP) | 3:00 | 2022-04-29 |  |
 | [Amigos Que Se Beijam](https://open.spotify.com/track/5b7LOeiHvIhmj7rxzPSrzm) | [Dody](https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs) | [Amigos Que Se Beijam](https://open.spotify.com/album/0GxaNSeUoWDFYolnWKvGzN) | 2:07 | 2022-04-29 |  |
 | [As Luzes da Lua](https://open.spotify.com/track/26WbIQvHX81NlsgsCJQdyv) | [Pedrosa](https://open.spotify.com/artist/41iSmIaCOZWguy6ZVspcF2) | [O Ciclo da Decepção](https://open.spotify.com/album/0u6ZJA3YRfRIJiE2du5zcz) | 3:03 | 2022-09-23 |  |
@@ -33,7 +34,7 @@
 | [Frio na Barriga](https://open.spotify.com/track/2hZ6Ap7gFkSoGBOFHw89Ql) | [Krawk](https://open.spotify.com/artist/7a99I3BHPvsv4aBVNqb4g4), [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg) | [Frio na Barriga](https://open.spotify.com/album/26JIFAIG2z4jDSVK75vHr3) | 4:13 | 2022-04-29 |  |
 | [Gumball](https://open.spotify.com/track/3CegdOeCCPTW9vP2KLb10w) | [Kunganii](https://open.spotify.com/artist/6Q52y6Y1JkSEMPnFSd5nlv) | [Gumball](https://open.spotify.com/album/3cXNC67o6QAYFzwo86RvVd) | 2:41 | 2022-07-01 | 2023-01-21 |
 | [Hipnotiza](https://open.spotify.com/track/0dkyy1SM9pU1AND0NhaiFc) | [Luis Fortes](https://open.spotify.com/artist/59jhGrdFhrRFKR9AbmcBmg) | [Hipnotiza](https://open.spotify.com/album/78VwZTQlrrIBEruikZrNRJ) | 2:19 | 2022-04-29 |  |
-| [Hoje Eu To Bem](https://open.spotify.com/track/22CjgU71oAk6kIY8HDYxWL) | [Sadstation](https://open.spotify.com/artist/4OFUU6MkPNc2X96UJMlR0h), [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg) | [Hoje Eu To Bem](https://open.spotify.com/album/4kgrFABuHVoPSYgk2TyBMb) | 3:30 | 2022-04-29 |  |
+| [Hoje Eu To Bem](https://open.spotify.com/track/22CjgU71oAk6kIY8HDYxWL) | [Sadstation](https://open.spotify.com/artist/4OFUU6MkPNc2X96UJMlR0h), [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg) | [Hoje Eu To Bem](https://open.spotify.com/album/4kgrFABuHVoPSYgk2TyBMb) | 3:30 | 2022-04-29 | 2024-02-24 |
 | [Impostora](https://open.spotify.com/track/5gQ4e0SkYpXWrFj3X9CIee) | [Zant](https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8) | [Impostora](https://open.spotify.com/album/4mLvt0SqXjrks2XRAWKBPT) | 2:29 | 2023-04-28 |  |
 | [Impostora](https://open.spotify.com/track/6ExrmqIqeqynFQdC65B1gE) | [Zant](https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8) | [Impostora](https://open.spotify.com/album/2uqjImKj6YXjeojVG2zPWG) | 2:29 | 2022-04-29 | 2023-04-30 |
 | [Intriga](https://open.spotify.com/track/0A2js14ZO6nnhK7zzzV1oP) | [Gigio Gama](https://open.spotify.com/artist/6zdrZoZm9ISZeUPGAl5kf5) | [Intriga](https://open.spotify.com/album/47yIhkQZzhA2YsTxQ3DP1j) | 1:52 | 2023-01-13 |  |

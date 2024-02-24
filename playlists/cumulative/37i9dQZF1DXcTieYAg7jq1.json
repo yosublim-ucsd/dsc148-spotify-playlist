@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Featuring that new vintage. Cover: Norah Jones",
+  "description": "Featuring that new vintage. Cover: Emmy Meli",
   "name": "Retro Pop",
   "tracks": [
     {
@@ -772,6 +772,24 @@
       "duration_ms": 174906,
       "name": "Breaking Myself",
       "url": "https://open.spotify.com/track/7jDlsRzKo3tsMsTEjL1Ns2"
+    },
+    {
+      "album": {
+        "name": "Breakthrough",
+        "url": "https://open.spotify.com/album/0ZQ9F867lpLrMArteZet0J"
+      },
+      "artists": [
+        {
+          "name": "Emmy Meli",
+          "url": "https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156850,
+      "name": "Breakthrough",
+      "url": "https://open.spotify.com/track/3CbTqAhSMl1p41PEx9Tc4E"
     },
     {
       "album": {
@@ -3223,6 +3241,24 @@
     },
     {
       "album": {
+        "name": "Lane Brothers",
+        "url": "https://open.spotify.com/album/7tjQsjnKGHN9g84C0xrwZ9"
+      },
+      "artists": [
+        {
+          "name": "Lane Brothers",
+          "url": "https://open.spotify.com/artist/5SzuidUf9uEZLC6E62BszN"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205438,
+      "name": "Infinite Love",
+      "url": "https://open.spotify.com/track/4vbhm12kpJwFP9frdIlD1u"
+    },
+    {
+      "album": {
         "name": "It Don't Matter",
         "url": "https://open.spotify.com/album/5CSe4p4wJpggsELemioCqj"
       },
@@ -5332,7 +5368,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 208517,
       "name": "Running",
       "url": "https://open.spotify.com/track/1TX83ZAjBcPPch8iy0aNve"
@@ -5354,7 +5390,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 166363,
       "name": "Sacred Place",
       "url": "https://open.spotify.com/track/0Sjjh3xJUGdXqM4jXHUDal"
@@ -5812,6 +5848,24 @@
       "duration_ms": 166916,
       "name": "Spinnin",
       "url": "https://open.spotify.com/track/0K2KKyyKoPaNTOUPxubHPN"
+    },
+    {
+      "album": {
+        "name": "Staring at the Wall",
+        "url": "https://open.spotify.com/album/5tknEZvydcc1zkg5CWOcym"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271257,
+      "name": "Staring at the Wall",
+      "url": "https://open.spotify.com/track/1vaE2g2ECAPiSDve8ApSGm"
     },
     {
       "album": {

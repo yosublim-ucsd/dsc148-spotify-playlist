@@ -1,7 +1,7 @@
 {
-  "2024-02-23": 379153,
+  "2024-02-24": 379275,
   "date_first_scraped": "2022-01-02",
-  "description": "The cream of today's Country crop. Cover: Chayce Beckham",
+  "description": "The cream of today's Country crop. Cover: Beyonce",
   "name": "Fresh Country",
   "tracks": [
     {
@@ -1353,7 +1353,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 176426,
       "name": "But I Got A Beer In My Hand",
       "url": "https://open.spotify.com/track/3jhV8I9sIPXsjPs2ZOnSaf"
@@ -2419,7 +2419,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 184466,
       "name": "Drunk and Hungover",
       "url": "https://open.spotify.com/track/6mFw6OhoyHsEdRFCCNY8LP"
@@ -3350,6 +3350,24 @@
     },
     {
       "album": {
+        "name": "Good News Sold",
+        "url": "https://open.spotify.com/album/0z3clvkLiQYa5q6bIcrODQ"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203432,
+      "name": "Good News Sold",
+      "url": "https://open.spotify.com/track/2nK23mwuUUiJTx9efT9Lvb"
+    },
+    {
+      "album": {
         "name": "Good One",
         "url": "https://open.spotify.com/album/5XaWYXtUEkxfbeNxzOU4Fd"
       },
@@ -3653,6 +3671,24 @@
       "duration_ms": 203576,
       "name": "Heartbreak Hotel",
       "url": "https://open.spotify.com/track/37faWfUENSGfU9MxVwMbiM"
+    },
+    {
+      "album": {
+        "name": "Heartbreak King",
+        "url": "https://open.spotify.com/album/1HyRowYp3Pvrt8PYcomgpp"
+      },
+      "artists": [
+        {
+          "name": "Ian Munsick",
+          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213880,
+      "name": "Heartbreak King",
+      "url": "https://open.spotify.com/track/4f7mzXeDSFtgQHDBjrSKYe"
     },
     {
       "album": {
@@ -3975,7 +4011,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 212531,
       "name": "Hold On Hope (with Eric Church)",
       "url": "https://open.spotify.com/track/5wXfwmtAOe8Rv0WiSgFUW0"
@@ -3997,6 +4033,24 @@
       "duration_ms": 191826,
       "name": "Hold On To It",
       "url": "https://open.spotify.com/track/5qteRK6fo4KC2DbJOP5uW6"
+    },
+    {
+      "album": {
+        "name": "Holy Smokes",
+        "url": "https://open.spotify.com/album/389w7hzxpiOmpGEWFCNEoP"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195157,
+      "name": "Holy Smokes",
+      "url": "https://open.spotify.com/track/1kMWJ16W3Yk3hyNmaM7jfQ"
     },
     {
       "album": {
@@ -4155,7 +4209,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 233626,
       "name": "I Got Time",
       "url": "https://open.spotify.com/track/4rfLUhNLsNOwmbFR1iGDu7"
@@ -5773,7 +5827,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 210440,
       "name": "Neon Cowgirl",
       "url": "https://open.spotify.com/track/4ktoN9vInbzJXXaSSlngng"
@@ -5791,7 +5845,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 197466,
       "name": "Never Give Up On A Good Time",
       "url": "https://open.spotify.com/track/5u0gLNySNwgBE9bqWSgJAA"
@@ -6087,7 +6141,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 175862,
       "name": "Now She Ain't",
       "url": "https://open.spotify.com/track/5uWiBMDjI0vnmVOuTFhwFf"
@@ -7381,7 +7435,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 173269,
       "name": "Shot Down NT Town",
       "url": "https://open.spotify.com/track/7KHPzvSg8VPOxNnc3bXnCi"
@@ -7797,6 +7851,24 @@
       "duration_ms": 152660,
       "name": "Somewhere In Mexico",
       "url": "https://open.spotify.com/track/6V1Lz4fHzpeQPkyA1OAVXs"
+    },
+    {
+      "album": {
+        "name": "Son of a Bitch",
+        "url": "https://open.spotify.com/album/4QBpgWspmECfxr201lGim4"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155983,
+      "name": "Son of a Bitch",
+      "url": "https://open.spotify.com/track/5EyxR5yEN3mohQ5EycOpII"
     },
     {
       "album": {
@@ -8751,7 +8823,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 205531,
       "name": "The Tree",
       "url": "https://open.spotify.com/track/2ulmNFm5fVsK5mlOQNdhJI"
@@ -8835,6 +8907,24 @@
       "duration_ms": 170560,
       "name": "Thinking 'Bout You (feat. MacKenzie Porter)",
       "url": "https://open.spotify.com/track/7DhvNzyMM8jJWcfykG3psB"
+    },
+    {
+      "album": {
+        "name": "Thinkin\u2019 Bout",
+        "url": "https://open.spotify.com/album/1Q3ZftgW0WyBH9BdL4yPug"
+      },
+      "artists": [
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214186,
+      "name": "Thinkin\u2019 Bout",
+      "url": "https://open.spotify.com/track/1eB4kJvJIZlFxOBWNon8Zu"
     },
     {
       "album": {
@@ -9714,6 +9804,24 @@
     },
     {
       "album": {
+        "name": "Where Were You",
+        "url": "https://open.spotify.com/album/4BCwmISXINTrYpdAGDUvWF"
+      },
+      "artists": [
+        {
+          "name": "Kaylee Bell",
+          "url": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197687,
+      "name": "Where Were You",
+      "url": "https://open.spotify.com/track/0dzWwMZ1oNrpc0RgeikL24"
+    },
+    {
+      "album": {
         "name": "Whiskey Me Away",
         "url": "https://open.spotify.com/album/1lOiIiSj6MYinTYSMg0yOb"
       },
@@ -10043,7 +10151,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 189986,
       "name": "World on Fire",
       "url": "https://open.spotify.com/track/5ya0TmUQw2wHMkq36rPsnd"
@@ -10061,7 +10169,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 228400,
       "name": "WORTH ITS WEIGHT IN GOLD",
       "url": "https://open.spotify.com/track/2cOZ6OUPWIlM0Iu5XfLE8i"

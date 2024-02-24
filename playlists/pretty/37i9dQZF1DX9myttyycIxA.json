@@ -1,28 +1,76 @@
 {
-  "description": "Underground indie rock gems. Cover: Lime Garden",
-  "num_followers": 294080,
+  "description": "Underground indie rock gems. Cover: Hana Eid",
+  "num_followers": 294082,
   "original_name": "undercurrents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNGRlYTFjNTY0YTBhMjQ0YWUwYTkyMWQxN2YxMmM4Yzg0MDZmMzk0",
+  "snapshot_id": "MCwxYjM2YjFmYTdkZDk4NjlkMDE0ZTk2ZTIxOTdhYjBkMWRmYjU0YzI2",
   "tracks": [
     {
-      "added_at": "2024-02-16 05:00:00",
+      "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Pop Star",
-        "url": "https://open.spotify.com/album/5JMP8vLXhXUL8XZze8YH84"
+        "name": "I Exist Because You Say So",
+        "url": "https://open.spotify.com/album/44G1m9EFvbUtsl571DGzwd"
       },
       "artists": [
         {
-          "name": "Lime Garden",
-          "url": "https://open.spotify.com/artist/5GA6j57yIPCBrWk1lTvF9o"
+          "name": "Hana Eid",
+          "url": "https://open.spotify.com/artist/4F6hNOg84kZIkE5LvLYOsr"
         }
       ],
-      "duration_ms": 174160,
-      "name": "Pop Star",
-      "url": "https://open.spotify.com/track/3MDcELZE4lvnm8LX3jDYfu"
+      "duration_ms": 212426,
+      "name": "Taller Than Me",
+      "url": "https://open.spotify.com/track/7Hz9Rlm3EvkQBro4WGzIhq"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "The Knife",
+        "url": "https://open.spotify.com/album/29rQiqo1hLh668XBKU80sA"
+      },
+      "artists": [
+        {
+          "name": "Dogs on Shady Lane",
+          "url": "https://open.spotify.com/artist/3knt52q5hbmRnHDzllw8qO"
+        }
+      ],
+      "duration_ms": 223575,
+      "name": "Basement",
+      "url": "https://open.spotify.com/track/1LGZzWQexuUXz7n3DJTJOl"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Late",
+        "url": "https://open.spotify.com/album/6dJSqvOrm05gaHlLNFNWeY"
+      },
+      "artists": [
+        {
+          "name": "Soft Loft",
+          "url": "https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t"
+        }
+      ],
+      "duration_ms": 237677,
+      "name": "Late",
+      "url": "https://open.spotify.com/track/3oOLmRfPj0hBbCG6rQn0ok"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Let\u2019s keep it in the family",
+        "url": "https://open.spotify.com/album/0qhbLNl6p4kK3wb1gG6KnZ"
+      },
+      "artists": [
+        {
+          "name": "Fay Wildhagen",
+          "url": "https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P"
+        }
+      ],
+      "duration_ms": 194760,
+      "name": "ohmygod",
+      "url": "https://open.spotify.com/track/3EB4t4qPtUB46Dn9OaUvlk"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -55,6 +103,38 @@
       "duration_ms": 159200,
       "name": "ask nicely",
       "url": "https://open.spotify.com/track/0adKvhR28ImyPl8yKC5oKO"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Always Something",
+        "url": "https://open.spotify.com/album/0pMwpKB8BTFmLJHVW6M94J"
+      },
+      "artists": [
+        {
+          "name": "Jaco Jaco",
+          "url": "https://open.spotify.com/artist/6r8q8GAOrshD9tuwY2rWwL"
+        }
+      ],
+      "duration_ms": 210947,
+      "name": "Always Something",
+      "url": "https://open.spotify.com/track/1bxIDIIuSxGo4AsM4XmFGs"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Pop Star",
+        "url": "https://open.spotify.com/album/5JMP8vLXhXUL8XZze8YH84"
+      },
+      "artists": [
+        {
+          "name": "Lime Garden",
+          "url": "https://open.spotify.com/artist/5GA6j57yIPCBrWk1lTvF9o"
+        }
+      ],
+      "duration_ms": 174160,
+      "name": "Pop Star",
+      "url": "https://open.spotify.com/track/3MDcELZE4lvnm8LX3jDYfu"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1547,38 +1627,6 @@
     {
       "added_at": "2023-12-08 17:28:54",
       "album": {
-        "name": "Truck",
-        "url": "https://open.spotify.com/album/4fxXwdUoB6iJ0x2Ik7eNTu"
-      },
-      "artists": [
-        {
-          "name": "illuminati hotties",
-          "url": "https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O"
-        }
-      ],
-      "duration_ms": 233786,
-      "name": "Truck",
-      "url": "https://open.spotify.com/track/3gpFdIoxvpOPYPbxAcq9VZ"
-    },
-    {
-      "added_at": "2023-12-08 17:28:54",
-      "album": {
-        "name": "fool for you",
-        "url": "https://open.spotify.com/album/2RrAue7Ur84t4Qe6MAJwsP"
-      },
-      "artists": [
-        {
-          "name": "yuronono",
-          "url": "https://open.spotify.com/artist/4cQiVRDyg34QUEs9uFW6Sj"
-        }
-      ],
-      "duration_ms": 199772,
-      "name": "fool for you",
-      "url": "https://open.spotify.com/track/4uhx82pIQtY9S3xmHKbztZ"
-    },
-    {
-      "added_at": "2023-12-08 17:28:54",
-      "album": {
         "name": "light is gone 2",
         "url": "https://open.spotify.com/album/1QBJjgXDWuaTdfQhGzz7PA"
       },
@@ -1607,54 +1655,6 @@
       "duration_ms": 131253,
       "name": "Tin Man",
       "url": "https://open.spotify.com/track/5W6KtuTeceMUqu7zW4JNdi"
-    },
-    {
-      "added_at": "2023-12-08 17:28:54",
-      "album": {
-        "name": "Scene for an Exit",
-        "url": "https://open.spotify.com/album/78yVjuxGNVvAqdFcLvn4GF"
-      },
-      "artists": [
-        {
-          "name": "levitation room",
-          "url": "https://open.spotify.com/artist/0SVxQVCnJn1BNUMY9ZcRO4"
-        }
-      ],
-      "duration_ms": 159552,
-      "name": "Scene for an Exit",
-      "url": "https://open.spotify.com/track/3nVW6mJbZQgCwrAYUTUHm2"
-    },
-    {
-      "added_at": "2023-12-08 17:28:54",
-      "album": {
-        "name": "Lost In A Rush Of Emptiness",
-        "url": "https://open.spotify.com/album/3EvUVXwaGNkeqinGICcGQU"
-      },
-      "artists": [
-        {
-          "name": "Bleach Lab",
-          "url": "https://open.spotify.com/artist/2B70zWgfCAGQ8o2ImS2bH8"
-        }
-      ],
-      "duration_ms": 198767,
-      "name": "Nothing Left To Lose",
-      "url": "https://open.spotify.com/track/00udfYIC2Z9rLaghIxRh3x"
-    },
-    {
-      "added_at": "2023-12-08 17:28:54",
-      "album": {
-        "name": "rainwater on the windowsill",
-        "url": "https://open.spotify.com/album/2w4pzTqX8lAeVLnJ0NGEsw"
-      },
-      "artists": [
-        {
-          "name": "Orchid Mantis",
-          "url": "https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "rainwater on the windowsill",
-      "url": "https://open.spotify.com/track/7bpmQPNf2KYjI0ZbbShENj"
     }
   ],
   "unique_name": "undercurrents",

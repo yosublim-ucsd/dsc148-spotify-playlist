@@ -2,9 +2,9 @@
 
 ### [Made in France](https://open.spotify.com/playlist/37i9dQZF1DWSrj7tqQ9IOu)
 
-> The best French indie tracks right now\. Cover : Emma Hoet
+> The best French indie tracks right now\. Cover : Alice et Moi
 
-466 songs - 1 day 1 hr 31 min
+468 songs - 1 day 1 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [En ce moment](https://open.spotify.com/track/1I3U8flltQgKmyVhcm1oQb) | [Spider ZED](https://open.spotify.com/artist/4kAzmAcboZ0F6bCCb4jj8I) | [En ce moment](https://open.spotify.com/album/15tJJkXFNyovjtZ9nTVu3D) | 2:16 | 2022-09-15 | 2023-01-13 |
 | [En Douce](https://open.spotify.com/track/04EchQ81oKTRmabY8QMLsq) | [Evergreen](https://open.spotify.com/artist/2rdtngq3t4zQwluqyGfZuS) | [Sign In \- EP](https://open.spotify.com/album/7ys3bKgj5o6LiuRANClSlG) | 3:34 | 2021-12-16 | 2022-04-29 |
 | [en plein vol](https://open.spotify.com/track/0qE2TLnemJVGb93aPB4BU4) | [Anna Majidson](https://open.spotify.com/artist/7jfJJuEsycOiEc2n4fCM7z), [Eugénie](https://open.spotify.com/artist/47aUSMdD5Sf0DpeOCyPL5K) | [en plein vol](https://open.spotify.com/album/1ybTjnD1JeEL8iQjcxh4Lt) | 3:06 | 2023-01-12 | 2023-02-03 |
+| [Encore](https://open.spotify.com/track/2rD2lLV55Pr6xvzI67MY8L) | [DOPAMOON](https://open.spotify.com/artist/5vNhYUKZMEv2QMJXY7IPTK), [Napkey](https://open.spotify.com/artist/4MismZLKqMb2Qb2HjK4sdE) | [Encore](https://open.spotify.com/album/5YIj0XNQpAzJTYlXBXgd2M) | 3:19 | 2024-02-23 |  |
 | [Encore \(with Páula from PPJ\)](https://open.spotify.com/track/326FEEW0jNEs2iNTdfAD9B) | [Moodoïd](https://open.spotify.com/artist/3mQgXwcZz2TZgo9a5diomC), [Páula](https://open.spotify.com/artist/6WyiMho6QZd0LEcNqqTZNY) | [PRIMADONNA COLLECTION](https://open.spotify.com/album/79pgJ3q3Q83lsdGrMFn6Y9) | 3:27 | 2023-06-01 | 2023-06-23 |
 | [Enfant star](https://open.spotify.com/track/5q33mH9sEEdZJyK51d66tu) | [Spider ZED](https://open.spotify.com/artist/4kAzmAcboZ0F6bCCb4jj8I) | [Club de cœur](https://open.spotify.com/album/2PSSIPFERBItM5RSZ3EZ62) | 2:31 | 2023-01-12 | 2023-06-09 |
 | [Epoch](https://open.spotify.com/track/75NobUSglm9bEYUd9pee0d) | [Quasi Qui](https://open.spotify.com/artist/6QN9eVzG8N5pKQmkZrPWCB) | [Epoch](https://open.spotify.com/album/37rih338EqfPOdjOC1AZiM) | 3:45 | 2022-05-12 | 2022-09-09 |
@@ -361,6 +362,7 @@
 | [RESONATE](https://open.spotify.com/track/78FD0s97huTKxCw7Q2tM6J) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm) | [RESONATE](https://open.spotify.com/album/6RhSScp7LgXmw9vikoALss) | 2:41 | 2023-08-24 | 2023-09-29 |
 | [Reviens](https://open.spotify.com/track/2lfuJC4pd1zF9op7fL5qdr) | [Mezzanine](https://open.spotify.com/artist/5jzf34Dm3S5hnp9iwPxVBw) | [Reviens](https://open.spotify.com/album/6B0BFESRyFXWGEjjMxGS7Y) | 3:19 | 2022-06-02 | 2022-09-16 |
 | [rien dire](https://open.spotify.com/track/7nAU7YNFqUCb91FkTDVEUD) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [rien dire](https://open.spotify.com/album/2Kl3eV9Yo13AR4mgAXgWQu) | 3:02 | 2022-09-29 | 2022-11-18 |
+| [Run](https://open.spotify.com/track/6mcP1kDZE3Iqn9ps7wtYbf) | [Gurth](https://open.spotify.com/artist/3Jp2CVbWo0yJs60rPyIlTb), [Diane Sagnier](https://open.spotify.com/artist/7grNqGVCIRH4ZM3UR1QAay), [Pangol](https://open.spotify.com/artist/24GK68qM53IIPkK3NEYHd4) | [Run](https://open.spotify.com/album/55nrtrhYbidS1MWC7bchos) | 3:29 | 2024-02-23 |  |
 | [SAN FRANCISCO \(BABY!\)](https://open.spotify.com/track/05QklCPuKAyDce74SWqf6I) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [SAN FRANCISCO \(BABY!\)](https://open.spotify.com/album/4QdUQ164R3oomzrOz72IIg) | 3:15 | 2023-09-07 | 2023-10-06 |
 | [Sans toi](https://open.spotify.com/track/26mUo1w8cTYVEk89JQVNqs) | [Chillpac](https://open.spotify.com/artist/3k8dN7ttBtz3ce20RS6BQl), [Clé](https://open.spotify.com/artist/6ngMTk9g830xvD6sl48tmQ) | [Sans toi](https://open.spotify.com/album/2jqDiAzXCYAdez5EDVnUcR) | 3:15 | 2022-07-28 | 2023-02-03 |
 | [saudade](https://open.spotify.com/track/0kpMUdI4YGhhKOisM6cbJ5) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [postcard from Rio](https://open.spotify.com/album/6eyo1VgU0qGpGBvXP3jEpZ) | 2:46 | 2022-10-27 | 2022-12-09 |
@@ -410,7 +412,7 @@
 | [Tears for Breakfast](https://open.spotify.com/track/2uN5St1CwzuDOasc833jHd) | [Eugénie](https://open.spotify.com/artist/47aUSMdD5Sf0DpeOCyPL5K) | [Tears for Breakfast](https://open.spotify.com/album/2GkLSiLPblsCvB5BpFCRcp) | 2:49 | 2022-05-26 | 2022-06-24 |
 | [Teenage Dreamer](https://open.spotify.com/track/58bVQLGvGhWDzZSsqZtwtA) | [I Me Mine](https://open.spotify.com/artist/49Aanvac9LY0no4ysTsYvw) | [Teenage Dreamer](https://open.spotify.com/album/4ok9kuFEUu0NNpvZZmMabS) | 2:38 | 2023-06-01 | 2023-06-23 |
 | [Teenager](https://open.spotify.com/track/4fuFDRwSnpcU7xfeSrZHrr) | [Silly Boy Blue](https://open.spotify.com/artist/4m9uyzV105Mtdiz7mEco9J) | [Breakup Songs](https://open.spotify.com/album/4IAkKeuLkZWzWQqqFI6uDk) | 3:16 | 2022-01-27 | 2022-02-11 |
-| [The Best Part of Me](https://open.spotify.com/track/0ZsXNkIWD2wx6OX3dVDu4l) | [Napkey](https://open.spotify.com/artist/4MismZLKqMb2Qb2HjK4sdE) | [Andromeda](https://open.spotify.com/album/03fmmEHO36zkMzPOZRyWg2) | 3:09 | 2023-10-12 |  |
+| [The Best Part of Me](https://open.spotify.com/track/0ZsXNkIWD2wx6OX3dVDu4l) | [Napkey](https://open.spotify.com/artist/4MismZLKqMb2Qb2HjK4sdE) | [Andromeda](https://open.spotify.com/album/03fmmEHO36zkMzPOZRyWg2) | 3:09 | 2023-10-12 | 2024-02-24 |
 | [The Crush](https://open.spotify.com/track/5w8PRAWFhg3EPBqd9fwZMn) | [Silly Boy Blue](https://open.spotify.com/artist/4m9uyzV105Mtdiz7mEco9J) | [Breakup Songs \(Extended\)](https://open.spotify.com/album/03LGiK0ZUZx0nkp4fOhkkJ) | 3:20 | 2022-02-10 | 2022-04-08 |
 | [The Devil I Know](https://open.spotify.com/track/2ihQW4P9ZUhjNJLL7DYz1w) | [Peter Dallas](https://open.spotify.com/artist/47Te42t2C14Fo2yXqa6kZh), [éol](https://open.spotify.com/artist/3Qsh8vZLpSAHADVBkGD70N) | [The Devil I Know](https://open.spotify.com/album/0hJR4tbsE32LpjbdD8km3d) | 2:40 | 2023-05-04 |  |
 | [The Eyes](https://open.spotify.com/track/4dm5psUQAIcGdOFICZ2zO3) | [Sandór Waïss](https://open.spotify.com/artist/7CEkLAfSHCRAohsAWypk8z) | [The Eyes](https://open.spotify.com/album/5nSoESAt2L5B0bZuuWshJV) | 4:03 | 2022-04-14 | 2022-06-10 |
@@ -453,7 +455,7 @@
 | [Vitesse](https://open.spotify.com/track/4DhlB9yRUYEyIFluBInAtX) | [Napkey](https://open.spotify.com/artist/4MismZLKqMb2Qb2HjK4sdE) | [Vitesse](https://open.spotify.com/album/1OZCPkSN0TafKv9x5ScGyz) | 2:48 | 2022-05-06 | 2022-11-11 |
 | [Voices In Your Head](https://open.spotify.com/track/4HBWcKtybdLFvFQpE2kQuy) | [Evergreen](https://open.spotify.com/artist/2rdtngq3t4zQwluqyGfZuS) | [Voices In Your Head](https://open.spotify.com/album/06JI1wmYUr0aXc4mI74EnP) | 4:15 | 2022-12-08 | 2023-01-20 |
 | [Walking On the Line](https://open.spotify.com/track/11TRPmEZ4xhgwPpBOb19bu) | [Later.](https://open.spotify.com/artist/1f5I47xuO3sDZm0hQ8y0nq) | [Walking On the Line](https://open.spotify.com/album/0IzRb9JqkitCfJaayIBkf4) | 4:38 | 2023-03-16 | 2023-04-07 |
-| [Wasting Time](https://open.spotify.com/track/3WpHDeAOuLc8J2vnnnwvey) | [Gurth](https://open.spotify.com/artist/3Jp2CVbWo0yJs60rPyIlTb), [Diane Sagnier](https://open.spotify.com/artist/7grNqGVCIRH4ZM3UR1QAay), [Pangol](https://open.spotify.com/artist/24GK68qM53IIPkK3NEYHd4) | [Wasting Time](https://open.spotify.com/album/5ThfqHk4kjrciX3uGZNods) | 3:08 | 2024-01-18 |  |
+| [Wasting Time](https://open.spotify.com/track/3WpHDeAOuLc8J2vnnnwvey) | [Gurth](https://open.spotify.com/artist/3Jp2CVbWo0yJs60rPyIlTb), [Diane Sagnier](https://open.spotify.com/artist/7grNqGVCIRH4ZM3UR1QAay), [Pangol](https://open.spotify.com/artist/24GK68qM53IIPkK3NEYHd4) | [Wasting Time](https://open.spotify.com/album/5ThfqHk4kjrciX3uGZNods) | 3:08 | 2024-01-18 | 2024-02-24 |
 | [Way Home](https://open.spotify.com/track/5vBavF0DZKDeCEM1gZXTgW) | [Victor Marc](https://open.spotify.com/artist/7tiOyhvxRgmYnPfxYgm0kX) | [Way Home](https://open.spotify.com/album/50IewgySvPgiUeVvEJjHJs) | 2:52 | 2023-03-23 | 2023-04-14 |
 | [We Want More](https://open.spotify.com/track/6VmeioPg4ky71dN3gwoIGB) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [We Want More](https://open.spotify.com/album/41E71uI2sH0RKq5HsT6u2s) | 3:11 | 2023-12-08 |  |
 | [What A Life \(j'fais ma life\) \[feat\. Suzane\]](https://open.spotify.com/track/3KkdZgcQxYQQZQXumGO1Cy) | [Scarlet Pleasure](https://open.spotify.com/artist/7wrulS1dfanckBnoxxEuS6), [Suzane](https://open.spotify.com/artist/00CTomLgA78xvwEwL0woWx) | [What A Life \(j'fais ma life\) \[feat\. Suzane\]](https://open.spotify.com/album/5VDE8rAYryH4lTbGDvSMVQ) | 3:05 | 2021-12-16 | 2022-01-14 |

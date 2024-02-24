@@ -4,7 +4,7 @@
 
 > This is P\-Lo\. The essential tracks, all in one playlist.
 
-52 songs - 2 hr 24 min
+53 songs - 2 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Good \(feat\. Larry June\)](https://open.spotify.com/track/5xMGrKAdfo5RDUychxfMYQ) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [STUNNA](https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM) | 2:00 | 2024-01-29 |  |
 | [Hotel Lobby](https://open.spotify.com/track/76CYVdP16HtyHy95iVN0YF) | [Dezzy Hollow](https://open.spotify.com/artist/6YY8kfgPtpc49TxClWFKS0), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Caught In The Funk](https://open.spotify.com/album/6pqpuT6DyMScQZC3TK9Sa8) | 2:00 | 2024-01-29 |  |
 | [House](https://open.spotify.com/track/5nRBPZM5rclpEnvkvwetVx) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Mike Sherm](https://open.spotify.com/artist/3tqosLbNFNekyZyO2KJ6qd) | [SHINE](https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW) | 2:24 | 2024-01-29 |  |
+| [How I Feel \(feat\. P\-Lo & ShooterGang Kony\)](https://open.spotify.com/track/43NkAm070i8T29zIBfzGKa) | [ALLBLACK](https://open.spotify.com/artist/1cutd8e41XvxXnFPOFIxMD), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [ShooterGang Kony](https://open.spotify.com/artist/0dT2U2jUx6OmKlyeQOH8AK) | [TY4FWM](https://open.spotify.com/album/603ExhUHwUaGi4tgJSBxyx) | 2:56 | 2024-02-23 |  |
 | [In That](https://open.spotify.com/track/0qDh2aqqeI5PQtKTPPXbXA) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Before Anything \- EP](https://open.spotify.com/album/1xc5xfZONgiVkT9INiMc18) | 3:21 | 2024-01-29 |  |
 | [inhibitions \(feat\. P\-Lo\)](https://open.spotify.com/track/3uNdcFuXINs0nic38GuXfz) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [i hope u see this \(deluxe\)](https://open.spotify.com/album/0Oe5Gm4E0bJ8shtpMkvo1Y) | 2:49 | 2024-01-29 |  |
 | [Just Gang](https://open.spotify.com/track/5KhphLWMvY7f4OZRI8tL10) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [SHINE](https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW) | 2:01 | 2024-01-29 |  |
@@ -39,7 +40,7 @@
 | [nirvana](https://open.spotify.com/track/0qgDLbVDqWaD95BFMcOBut) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [PRIME](https://open.spotify.com/album/6hXlWzbFJ2JNBi3BWnEEyL) | 3:16 | 2024-01-29 |  |
 | [On One](https://open.spotify.com/track/1Ge1bt4DDLMxEE1hcMh5Ar) | [Kool John](https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Iamsu!](https://open.spotify.com/artist/2ZavqCJe7uqkRpISes0NFi) | [Moovie!](https://open.spotify.com/album/3utWbzZz4YqSW0HGLqyovN) | 3:25 | 2024-01-29 |  |
 | [One Thing](https://open.spotify.com/track/5ZnQor3xvwoHpsOSP3q0uO) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [STUNNA](https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM) | 1:35 | 2024-01-29 |  |
-| [PARTY WITH THE GANG \(feat\. P\-LO & FREDOBAGZ\)](https://open.spotify.com/track/2eWAqyAJWW0gQ5EoXQofLx) | [Tales Of The Town](https://open.spotify.com/artist/1ZgPUEWXZparNifIcZgsKT), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [FREDOBAGZ](https://open.spotify.com/artist/0euYOLFecgeOBTuMewENL0) | [PARTY WITH THE GANG \(feat\. P\-LO & FREDOBAGZ\)](https://open.spotify.com/album/3o5dOgyF7CVccsiOqUk7Ob) | 2:29 | 2024-01-29 |  |
+| [PARTY WITH THE GANG \(feat\. P\-LO & FREDOBAGZ\)](https://open.spotify.com/track/2eWAqyAJWW0gQ5EoXQofLx) | [Tales Of The Town](https://open.spotify.com/artist/1ZgPUEWXZparNifIcZgsKT), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [FREDOBAGZ](https://open.spotify.com/artist/0euYOLFecgeOBTuMewENL0) | [PARTY WITH THE GANG \(feat\. P\-LO & FREDOBAGZ\)](https://open.spotify.com/album/3o5dOgyF7CVccsiOqUk7Ob) | 2:29 | 2024-01-29 | 2024-02-24 |
 | [Power \(feat\. Nef The Pharaoh & P\-Lo\)](https://open.spotify.com/track/7BHEi0cFs6TVNFDvbBrAjz) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Nef The Pharaoh](https://open.spotify.com/artist/3DiSC0nSNNWpPy5ZK3mcrz), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [The Vault](https://open.spotify.com/album/2SWrHEcHbsRIFhnuA7addE) | 3:19 | 2024-01-29 |  |
 | [Put Me on Somethin'](https://open.spotify.com/track/4uuB4d5HBZauH7XV0rtlAs) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [More Than Anything](https://open.spotify.com/album/4mPI9FSkCs1aV7wrf5voFl) | 3:26 | 2024-01-29 |  |
 | [same squad](https://open.spotify.com/track/0YCl0i8CTDqtISiphhLIE8) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [PRIME](https://open.spotify.com/album/6hXlWzbFJ2JNBi3BWnEEyL) | 2:31 | 2024-01-29 |  |

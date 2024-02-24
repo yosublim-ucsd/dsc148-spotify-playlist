@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: Leellamarz, YANGHONGWON\(릴러말즈 & 양홍원\)\) \(가장 핫한 최신 국내 힙합 음악을 만나보세요!\)
 
-1,105 songs - 2 day 12 hr 37 min
+1,106 songs - 2 day 12 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -914,6 +914,7 @@
 | [STONY FREESTYLE](https://open.spotify.com/track/2EZSKCHSEswOWBAHLqPyG3) | [SKULL](https://open.spotify.com/artist/7qKWQnE3S7v8m3rLwMVdGg), [KOONTA](https://open.spotify.com/artist/5T8LKv9A1vEnwMCO4dMo3c) | [REGGAE](https://open.spotify.com/album/67vD5xZZyNd02NXySKlS9W) | 2:19 | 2023-09-13 | 2023-11-04 |
 | [STOP! \(Feat\. Minsu\)](https://open.spotify.com/track/4nswEK7VqSpkGAI4Uhe4bQ) | [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr), [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta) | [STOP! \(Feat\. Minsu\)](https://open.spotify.com/album/4Cn24He1Aj4dSLsYDGgstv) | 3:12 | 2024-01-05 |  |
 | [SUBSCRIBE TO ESQUIRE](https://open.spotify.com/track/38uodvbFCQewhKohMLFMlB) | [Nucksal](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB), [CADEJO](https://open.spotify.com/artist/296ryPygSSpdsrZJk2x5Up) | [SUBSCRIBE TO ESQUIRE](https://open.spotify.com/album/2c6MGgrptlzRPdGj404GyS) | 2:50 | 2023-02-24 | 2023-03-28 |
+| [Sugar Rush](https://open.spotify.com/track/5FJqpWkacWPUrXtJ5waI1j) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Bam Yang Gang](https://open.spotify.com/album/4QJZzFdGz2YlPZEHAlAJ6O) | 2:28 | 2024-02-23 |  |
 | [Summer \(Feat\. BE’O\)](https://open.spotify.com/track/26Iv7VGUF1lqU10rxQXFL8) | [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw), [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [Summer](https://open.spotify.com/album/6Ve5QOb2WKKPLYrO7VaNr8) | 3:19 | 2022-06-18 |  |
 | [Summer \(Feat\. Jay Park\)](https://open.spotify.com/track/1hoSs6QAQkxDkOyKM3OHMW) | [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Summer](https://open.spotify.com/album/6h1iG7zXNitBgYP096Dhcp) | 2:31 | 2022-01-20 | 2022-07-06 |
 | [Summer Hate \(Feat\. Rain\)](https://open.spotify.com/track/0t3Jr6FABrKYLxGgdbco3f) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [Rain](https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz) | [RANDOM BOX](https://open.spotify.com/album/51ea2XXI3WLPs5Vs0ou5a8) | 3:04 | 2022-03-26 | 2022-04-18 |

@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "As You Are",
+        "url": "https://open.spotify.com/album/0LCxYgE6QltpzkxhVXOPez"
+      },
+      "artists": [
+        {
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246398,
+      "name": "As You Are",
+      "url": "https://open.spotify.com/track/4DXs4CjeQ91Abx1xReQ3cC"
+    },
+    {
+      "album": {
         "name": "BETTER WITH YOU",
         "url": "https://open.spotify.com/album/3JfRcR72m6SWfP4gB6REYF"
       },
@@ -178,7 +196,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 179228,
       "name": "Bigger Mistakes",
       "url": "https://open.spotify.com/track/1pmBuw9a3r467tlzVZj0P4"
@@ -250,7 +268,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 208200,
       "name": "Boy Mama",
       "url": "https://open.spotify.com/track/0haq9AWS0LX1v7KhLMtJQm"
@@ -268,7 +286,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 155173,
       "name": "Breakin' in Boots",
       "url": "https://open.spotify.com/track/4usnf7irdy9PrVsmb82BXI"
@@ -438,6 +456,24 @@
       "duration_ms": 168466,
       "name": "Countin Em Up",
       "url": "https://open.spotify.com/track/5jtMOAP2VSQJ2jtqlH9JRj"
+    },
+    {
+      "album": {
+        "name": "Cowboy Songs",
+        "url": "https://open.spotify.com/album/6oYFjTGEuRoK7oeJisREF5"
+      },
+      "artists": [
+        {
+          "name": "George Birge",
+          "url": "https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187186,
+      "name": "Cowboy Songs",
+      "url": "https://open.spotify.com/track/7LV9OX6WfOTndB4BqoXDEE"
     },
     {
       "album": {
@@ -726,7 +762,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 146080,
       "name": "Good With Me",
       "url": "https://open.spotify.com/track/47EkFFYRTlgatkXS0gg5FZ"
@@ -1127,6 +1163,24 @@
     },
     {
       "album": {
+        "name": "Quit You",
+        "url": "https://open.spotify.com/album/6YWcv4aOkqE03MJVMLqkVZ"
+      },
+      "artists": [
+        {
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188813,
+      "name": "Quit You",
+      "url": "https://open.spotify.com/track/6t4VR4r7RbcgpCIrSOhcAv"
+    },
+    {
+      "album": {
         "name": "Rest of Your Life",
         "url": "https://open.spotify.com/album/0RYIEgUnNfz1DaTETsrmVs"
       },
@@ -1250,6 +1304,28 @@
       "duration_ms": 231386,
       "name": "Southeast Oklahoma Pines",
       "url": "https://open.spotify.com/track/3vz0BqYh2UyLd8dOHLc861"
+    },
+    {
+      "album": {
+        "name": "Space in My Heart",
+        "url": "https://open.spotify.com/album/7CATUcNzHCmx3vsOETqKM9"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178849,
+      "name": "Space in My Heart",
+      "url": "https://open.spotify.com/track/4vMI6s3uwWcxcAqVoXkATn"
     },
     {
       "album": {

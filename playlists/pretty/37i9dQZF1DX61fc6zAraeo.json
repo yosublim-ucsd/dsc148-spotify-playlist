@@ -1,12 +1,12 @@
 {
   "description": "Dance tracks for your power moves",
-  "num_followers": 97406,
+  "num_followers": 97421,
   "original_name": "Power Up!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OWQ3OTAxZmQyMTA3N2Y1M2QyOTFkNDc0Nzg2Y2UwYWQyNWRjMjk2",
+  "snapshot_id": "MCxhNTg5MDQzNTQ3MTA3MzAwOTZmMmQ5Nzc3ZGZhZWQ2YTI5OTg0NDJl",
   "tracks": [
     {
       "added_at": "2024-02-15 10:24:03",
@@ -379,26 +379,6 @@
     {
       "added_at": "2024-02-15 10:24:03",
       "album": {
-        "name": "One By One",
-        "url": "https://open.spotify.com/album/58AR5fqutmWyadTfOYoYA5"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "HOSANNA",
-          "url": "https://open.spotify.com/artist/7M9O9v7kmiDSjN4eKFSik7"
-        }
-      ],
-      "duration_ms": 145920,
-      "name": "One By One",
-      "url": "https://open.spotify.com/track/766h5Uf88AzjgUsmb8wWe8"
-    },
-    {
-      "added_at": "2024-02-15 10:24:03",
-      "album": {
         "name": "Location",
         "url": "https://open.spotify.com/album/6s94PA4PE2tymla2Jr8Q3O"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 142123,
       "name": "Location",
       "url": "https://open.spotify.com/track/2FBTSfQJOLt4btsvhbC7NH"
+    },
+    {
+      "added_at": "2024-02-15 10:24:03",
+      "album": {
+        "name": "One By One",
+        "url": "https://open.spotify.com/album/58AR5fqutmWyadTfOYoYA5"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "HOSANNA",
+          "url": "https://open.spotify.com/artist/7M9O9v7kmiDSjN4eKFSik7"
+        }
+      ],
+      "duration_ms": 145920,
+      "name": "One By One",
+      "url": "https://open.spotify.com/track/766h5Uf88AzjgUsmb8wWe8"
     },
     {
       "added_at": "2024-02-15 10:24:03",
@@ -611,26 +611,6 @@
     {
       "added_at": "2024-02-15 10:24:03",
       "album": {
-        "name": "Dizzy",
-        "url": "https://open.spotify.com/album/5PG4dJqM18cKtGl0vE5cJk"
-      },
-      "artists": [
-        {
-          "name": "Sick Individuals",
-          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
-        },
-        {
-          "name": "LOUI LANE",
-          "url": "https://open.spotify.com/artist/0ZmqAO2kf9AFpYbnT7Z9MN"
-        }
-      ],
-      "duration_ms": 147253,
-      "name": "Dizzy",
-      "url": "https://open.spotify.com/track/4bH4PYPmrsKcw2rI5c3QqD"
-    },
-    {
-      "added_at": "2024-02-15 10:24:03",
-      "album": {
         "name": "What a Night",
         "url": "https://open.spotify.com/album/203rSwQJ4j3HSbE0aoXRh0"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 157750,
       "name": "What a Night",
       "url": "https://open.spotify.com/track/5M78sypr7NMw0MMcrWTS0l"
+    },
+    {
+      "added_at": "2024-02-15 10:24:03",
+      "album": {
+        "name": "Dizzy",
+        "url": "https://open.spotify.com/album/5PG4dJqM18cKtGl0vE5cJk"
+      },
+      "artists": [
+        {
+          "name": "Sick Individuals",
+          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+        },
+        {
+          "name": "LOUI LANE",
+          "url": "https://open.spotify.com/artist/0ZmqAO2kf9AFpYbnT7Z9MN"
+        }
+      ],
+      "duration_ms": 147253,
+      "name": "Dizzy",
+      "url": "https://open.spotify.com/track/4bH4PYPmrsKcw2rI5c3QqD"
     },
     {
       "added_at": "2024-02-15 10:24:03",
@@ -855,6 +855,26 @@
     {
       "added_at": "2024-02-15 10:24:03",
       "album": {
+        "name": "What You Need",
+        "url": "https://open.spotify.com/album/36WVqPt4HocsuiPQer82ob"
+      },
+      "artists": [
+        {
+          "name": "Steve Angello",
+          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
+        },
+        {
+          "name": "Wh0",
+          "url": "https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA"
+        }
+      ],
+      "duration_ms": 218040,
+      "name": "What You Need",
+      "url": "https://open.spotify.com/track/2KR32tVW39lfG4tO1yOwdq"
+    },
+    {
+      "added_at": "2024-02-15 10:24:03",
+      "album": {
         "name": "Remedy",
         "url": "https://open.spotify.com/album/3reZq1pI5fbX7h724Bjoz2"
       },
@@ -875,26 +895,6 @@
       "duration_ms": 127734,
       "name": "Remedy",
       "url": "https://open.spotify.com/track/1LoGrm5coC2yXhofVni5Cp"
-    },
-    {
-      "added_at": "2024-02-15 10:24:03",
-      "album": {
-        "name": "What You Need",
-        "url": "https://open.spotify.com/album/36WVqPt4HocsuiPQer82ob"
-      },
-      "artists": [
-        {
-          "name": "Steve Angello",
-          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
-        },
-        {
-          "name": "Wh0",
-          "url": "https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA"
-        }
-      ],
-      "duration_ms": 218040,
-      "name": "What You Need",
-      "url": "https://open.spotify.com/track/2KR32tVW39lfG4tO1yOwdq"
     },
     {
       "added_at": "2024-02-15 10:24:03",
@@ -923,26 +923,6 @@
     {
       "added_at": "2024-02-15 10:24:03",
       "album": {
-        "name": "Worship You",
-        "url": "https://open.spotify.com/album/1hQiBI8EdaW5dR4gja8w7f"
-      },
-      "artists": [
-        {
-          "name": "Martin Jensen",
-          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
-        },
-        {
-          "name": "Karen Harding",
-          "url": "https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b"
-        }
-      ],
-      "duration_ms": 178760,
-      "name": "Worship You",
-      "url": "https://open.spotify.com/track/2rfZyAX6wZxQWMQ9GYyLIu"
-    },
-    {
-      "added_at": "2024-02-15 10:24:03",
-      "album": {
         "name": "Sideways",
         "url": "https://open.spotify.com/album/4v2IWLFOinbG1BADnck31l"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 135005,
       "name": "Sideways",
       "url": "https://open.spotify.com/track/3J5Wcm5gvOl15F79FUy6Zy"
+    },
+    {
+      "added_at": "2024-02-15 10:24:03",
+      "album": {
+        "name": "Worship You",
+        "url": "https://open.spotify.com/album/1hQiBI8EdaW5dR4gja8w7f"
+      },
+      "artists": [
+        {
+          "name": "Martin Jensen",
+          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
+        },
+        {
+          "name": "Karen Harding",
+          "url": "https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b"
+        }
+      ],
+      "duration_ms": 178760,
+      "name": "Worship You",
+      "url": "https://open.spotify.com/track/2rfZyAX6wZxQWMQ9GYyLIu"
     },
     {
       "added_at": "2024-02-15 10:24:03",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2024-02-15 10:24:03",
       "album": {
+        "name": "Waste Your Love",
+        "url": "https://open.spotify.com/album/0xlcbSK3E65O1h493KM0Dd"
+      },
+      "artists": [
+        {
+          "name": "HVME",
+          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
+        }
+      ],
+      "duration_ms": 167630,
+      "name": "Waste Your Love",
+      "url": "https://open.spotify.com/track/6pPQ2P4RzhlmApRxDeaK6g"
+    },
+    {
+      "added_at": "2024-02-15 10:24:03",
+      "album": {
         "name": "Mission Control",
         "url": "https://open.spotify.com/album/0TFqyokddXotEBOWcKYsdo"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 140952,
       "name": "Let's Call It Love",
       "url": "https://open.spotify.com/track/07TKDT070EpnvDSS0yhZdD"
-    },
-    {
-      "added_at": "2024-02-15 10:24:03",
-      "album": {
-        "name": "Waste Your Love",
-        "url": "https://open.spotify.com/album/0xlcbSK3E65O1h493KM0Dd"
-      },
-      "artists": [
-        {
-          "name": "HVME",
-          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
-        }
-      ],
-      "duration_ms": 167630,
-      "name": "Waste Your Love",
-      "url": "https://open.spotify.com/track/6pPQ2P4RzhlmApRxDeaK6g"
     },
     {
       "added_at": "2024-02-15 10:24:03",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2024-02-15 10:24:03",
       "album": {
+        "name": "Pop Some Tags",
+        "url": "https://open.spotify.com/album/227QNgObxVtAGhJeN2OtRe"
+      },
+      "artists": [
+        {
+          "name": "WAVES",
+          "url": "https://open.spotify.com/artist/6p32HfiKpYD3wdKHV7utxQ"
+        }
+      ],
+      "duration_ms": 139183,
+      "name": "Pop Some Tags",
+      "url": "https://open.spotify.com/track/25owlYCoM7EiKwlixXBaB8"
+    },
+    {
+      "added_at": "2024-02-15 10:24:03",
+      "album": {
         "name": "Redemption",
         "url": "https://open.spotify.com/album/0DC1qER7OczaSRCZ75bULZ"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 135000,
       "name": "Redemption",
       "url": "https://open.spotify.com/track/24qGzpKagxg9t1zkzzg03Z"
-    },
-    {
-      "added_at": "2024-02-15 10:24:03",
-      "album": {
-        "name": "Pop Some Tags",
-        "url": "https://open.spotify.com/album/227QNgObxVtAGhJeN2OtRe"
-      },
-      "artists": [
-        {
-          "name": "WAVES",
-          "url": "https://open.spotify.com/artist/6p32HfiKpYD3wdKHV7utxQ"
-        }
-      ],
-      "duration_ms": 139183,
-      "name": "Pop Some Tags",
-      "url": "https://open.spotify.com/track/25owlYCoM7EiKwlixXBaB8"
     },
     {
       "added_at": "2024-02-15 10:24:03",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2024-02-15 10:24:03",
       "album": {
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/5tinrUufdUwPi1eMf6vkRj"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 187920,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/3Pmtj9zlqxesYszjHmQpKu"
+    },
+    {
+      "added_at": "2024-02-15 10:24:03",
+      "album": {
         "name": "Chances",
         "url": "https://open.spotify.com/album/6QwpK5fPO5mHyFRt1bBzZV"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 170039,
       "name": "Chances",
       "url": "https://open.spotify.com/track/0mVLuJBvxToIMCU0CrpO08"
-    },
-    {
-      "added_at": "2024-02-15 10:24:03",
-      "album": {
-        "name": "Deja Vu",
-        "url": "https://open.spotify.com/album/5tinrUufdUwPi1eMf6vkRj"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 187920,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/3Pmtj9zlqxesYszjHmQpKu"
     },
     {
       "added_at": "2024-02-15 10:24:03",
@@ -1779,6 +1779,22 @@
     {
       "added_at": "2024-02-15 10:24:03",
       "album": {
+        "name": "Guiding Light",
+        "url": "https://open.spotify.com/album/08LGWohzZ6wlIiWVMMlOKC"
+      },
+      "artists": [
+        {
+          "name": "John Newman",
+          "url": "https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf"
+        }
+      ],
+      "duration_ms": 163155,
+      "name": "Guiding Light",
+      "url": "https://open.spotify.com/track/5LkYm5EiaNGV5WCQvKokZ7"
+    },
+    {
+      "added_at": "2024-02-15 10:24:03",
+      "album": {
         "name": "Waste My Time",
         "url": "https://open.spotify.com/album/11IxazZzeXvHoxyicCZ7JY"
       },
@@ -1855,38 +1871,6 @@
     {
       "added_at": "2024-02-15 10:24:03",
       "album": {
-        "name": "Guiding Light",
-        "url": "https://open.spotify.com/album/08LGWohzZ6wlIiWVMMlOKC"
-      },
-      "artists": [
-        {
-          "name": "John Newman",
-          "url": "https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf"
-        }
-      ],
-      "duration_ms": 163155,
-      "name": "Guiding Light",
-      "url": "https://open.spotify.com/track/5LkYm5EiaNGV5WCQvKokZ7"
-    },
-    {
-      "added_at": "2024-02-15 10:24:03",
-      "album": {
-        "name": "Needing You",
-        "url": "https://open.spotify.com/album/1SKUtzbpnb3sNj0EWBiUF7"
-      },
-      "artists": [
-        {
-          "name": "Laura van Dam",
-          "url": "https://open.spotify.com/artist/6gmecOfbzCBnKd3OGkCQuz"
-        }
-      ],
-      "duration_ms": 216190,
-      "name": "Needing You",
-      "url": "https://open.spotify.com/track/36TDp73ujhbKnX6qxPqjmb"
-    },
-    {
-      "added_at": "2024-02-15 10:24:03",
-      "album": {
         "name": "Fantasy",
         "url": "https://open.spotify.com/album/54Dzt1WneTLVnfwWCKxoik"
       },
@@ -1903,6 +1887,22 @@
       "duration_ms": 162222,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/7gTz5MRjppI1Pdid7VX6Xy"
+    },
+    {
+      "added_at": "2024-02-15 10:24:03",
+      "album": {
+        "name": "Needing You",
+        "url": "https://open.spotify.com/album/1SKUtzbpnb3sNj0EWBiUF7"
+      },
+      "artists": [
+        {
+          "name": "Laura van Dam",
+          "url": "https://open.spotify.com/artist/6gmecOfbzCBnKd3OGkCQuz"
+        }
+      ],
+      "duration_ms": 216190,
+      "name": "Needing You",
+      "url": "https://open.spotify.com/track/36TDp73ujhbKnX6qxPqjmb"
     },
     {
       "added_at": "2024-02-15 10:24:03",
@@ -1983,22 +1983,22 @@
     {
       "added_at": "2024-02-15 10:24:03",
       "album": {
-        "name": "Fitness",
-        "url": "https://open.spotify.com/album/20L2EPQGvZV2WsgLJ1WdMz"
+        "name": "Could You Be The One",
+        "url": "https://open.spotify.com/album/56VRXsZ7MUAz421NkITjmK"
       },
       "artists": [
         {
-          "name": "Marc Benjamin",
-          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
+          "name": "Laidback Luke",
+          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
         },
         {
-          "name": "Bad Amie",
-          "url": "https://open.spotify.com/artist/3tTqCfscGTg5hnbaKce3lE"
+          "name": "Katy Alex",
+          "url": "https://open.spotify.com/artist/63wpGjuYtKMliedy9FjHMB"
         }
       ],
-      "duration_ms": 180480,
-      "name": "Fitness",
-      "url": "https://open.spotify.com/track/6tlTBmaJCBJ238Gl5eFZ2z"
+      "duration_ms": 121750,
+      "name": "Could You Be The One",
+      "url": "https://open.spotify.com/track/3akNbKGTCFPUeB7xEaDQ5j"
     }
   ],
   "unique_name": "Power Up!",

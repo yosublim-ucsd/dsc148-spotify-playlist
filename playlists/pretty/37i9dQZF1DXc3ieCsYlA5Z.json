@@ -1,12 +1,12 @@
 {
   "description": "Los mejores del Reggaeton de todos los tiempos! \ud83d\udc10 Cover: Don Omar",
-  "num_followers": 26047,
+  "num_followers": 26140,
   "original_name": "Reggaeton GOATs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkM2E5OTA5NGI0ZTE4YWQ4NjI0ZTI0ZWY2ZDBmMDkxMzBkYTY1YWZk",
+  "snapshot_id": "MCxjZTlhNDRiN2U0MjkzZGM0OTE4MjUxZmYxMDMwMTA3OTliYTM1MjA0",
   "tracks": [
     {
       "added_at": "2023-08-02 22:02:49",
@@ -587,6 +587,22 @@
     {
       "added_at": "2023-08-02 22:02:49",
       "album": {
+        "name": "Flow La Discoteca Special Edition",
+        "url": "https://open.spotify.com/album/6Wleak7A98DpzviDaqYrEX"
+      },
+      "artists": [
+        {
+          "name": "DJ Nelson",
+          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
+        }
+      ],
+      "duration_ms": 212739,
+      "name": "Noche de Travesura",
+      "url": "https://open.spotify.com/track/4BLIFDDhS6zByPJrjIK3jR"
+    },
+    {
+      "added_at": "2023-08-02 22:02:49",
+      "album": {
         "name": "Boy Wonder Presents Chosen Few Grandes Exitos",
         "url": "https://open.spotify.com/album/5CckZmLqh8aJ74pGLZPmaN"
       },
@@ -611,22 +627,6 @@
     {
       "added_at": "2023-08-02 22:02:49",
       "album": {
-        "name": "Sentimiento, Elegancia y Maldad",
-        "url": "https://open.spotify.com/album/61bxUN2kedSEPjpvuLtSYe"
-      },
-      "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 171333,
-      "name": "Hace Mucho Tiempo",
-      "url": "https://open.spotify.com/track/5Y0ZwhwMEQ7NIb5PeAp0YI"
-    },
-    {
-      "added_at": "2023-08-02 22:02:49",
-      "album": {
         "name": "La Rompe Corazones",
         "url": "https://open.spotify.com/album/3IFkypuR7Wij9252tKarRw"
       },
@@ -647,18 +647,18 @@
     {
       "added_at": "2023-08-02 22:02:49",
       "album": {
-        "name": "Flow La Discoteca Special Edition",
-        "url": "https://open.spotify.com/album/6Wleak7A98DpzviDaqYrEX"
+        "name": "Sentimiento, Elegancia y Maldad",
+        "url": "https://open.spotify.com/album/61bxUN2kedSEPjpvuLtSYe"
       },
       "artists": [
         {
-          "name": "DJ Nelson",
-          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         }
       ],
-      "duration_ms": 212739,
-      "name": "Noche de Travesura",
-      "url": "https://open.spotify.com/track/4BLIFDDhS6zByPJrjIK3jR"
+      "duration_ms": 171333,
+      "name": "Hace Mucho Tiempo",
+      "url": "https://open.spotify.com/track/5Y0ZwhwMEQ7NIb5PeAp0YI"
     },
     {
       "added_at": "2023-08-02 22:02:49",
@@ -855,18 +855,22 @@
     {
       "added_at": "2023-08-02 22:02:49",
       "album": {
-        "name": "A La Reconquista",
-        "url": "https://open.spotify.com/album/1XVsXN3JiO0pM3CeiYSNTv"
+        "name": "Goldstar Music La Familia Reggaeton Hits",
+        "url": "https://open.spotify.com/album/69cVjPP0763yVDKiD0ZM49"
       },
       "artists": [
         {
-          "name": "Hector & Tito",
-          "url": "https://open.spotify.com/artist/5aB4SpKYteOJ8pAleoKkg7"
+          "name": "H\u00e9ctor \"El Father\"",
+          "url": "https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB"
+        },
+        {
+          "name": "Yomo",
+          "url": "https://open.spotify.com/artist/4myAXQmMuS1lZe8T6Y7eBg"
         }
       ],
-      "duration_ms": 216440,
-      "name": "Felina",
-      "url": "https://open.spotify.com/track/3QLApyuGYQdSQZTmBXFaSt"
+      "duration_ms": 248406,
+      "name": "D\u00e9jale Caer To' El Peso (feat. Yomo)",
+      "url": "https://open.spotify.com/track/6W19gzjtJOUi2lykSByW9a"
     },
     {
       "added_at": "2023-08-02 22:02:49",
@@ -903,6 +907,22 @@
     {
       "added_at": "2023-08-02 22:02:49",
       "album": {
+        "name": "A La Reconquista",
+        "url": "https://open.spotify.com/album/1XVsXN3JiO0pM3CeiYSNTv"
+      },
+      "artists": [
+        {
+          "name": "Hector & Tito",
+          "url": "https://open.spotify.com/artist/5aB4SpKYteOJ8pAleoKkg7"
+        }
+      ],
+      "duration_ms": 216440,
+      "name": "Felina",
+      "url": "https://open.spotify.com/track/3QLApyuGYQdSQZTmBXFaSt"
+    },
+    {
+      "added_at": "2023-08-02 22:02:49",
+      "album": {
         "name": "The Last Don Live",
         "url": "https://open.spotify.com/album/0hFZpkgYSp761ZOM2EOZWQ"
       },
@@ -915,26 +935,6 @@
       "duration_ms": 254480,
       "name": "Pobre Diabla",
       "url": "https://open.spotify.com/track/1xbw6jObdWhPSoN9MflOSA"
-    },
-    {
-      "added_at": "2023-08-02 22:02:49",
-      "album": {
-        "name": "Goldstar Music La Familia Reggaeton Hits",
-        "url": "https://open.spotify.com/album/69cVjPP0763yVDKiD0ZM49"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor \"El Father\"",
-          "url": "https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB"
-        },
-        {
-          "name": "Yomo",
-          "url": "https://open.spotify.com/artist/4myAXQmMuS1lZe8T6Y7eBg"
-        }
-      ],
-      "duration_ms": 248406,
-      "name": "D\u00e9jale Caer To' El Peso (feat. Yomo)",
-      "url": "https://open.spotify.com/track/6W19gzjtJOUi2lykSByW9a"
     },
     {
       "added_at": "2023-08-02 22:02:49",

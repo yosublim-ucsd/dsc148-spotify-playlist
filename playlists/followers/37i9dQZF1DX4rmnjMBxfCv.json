@@ -1,5 +1,5 @@
 {
-  "2024-02-23": 54359,
+  "2024-02-24": 54385,
   "date_first_scraped": "2022-05-13",
   "description": "The best dance and electronic songs in the MENA region. Cover: Zerb, Sofiya Nzau",
   "name": "mint \u0646\u0639\u0646\u0639",
@@ -1033,6 +1033,28 @@
       "duration_ms": 192786,
       "name": "Dana Dana - Radio Edit",
       "url": "https://open.spotify.com/track/2CE7yTFslLMkI0Oqf1vq9u"
+    },
+    {
+      "album": {
+        "name": "Derni\u00e8re danse (Techno Mix)",
+        "url": "https://open.spotify.com/album/3MhGOga5TlR7JfKxDSxv9Q"
+      },
+      "artists": [
+        {
+          "name": "Indila",
+          "url": "https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB"
+        },
+        {
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197142,
+      "name": "Derni\u00e8re danse - Techno Mix",
+      "url": "https://open.spotify.com/track/5fIZ683j2xPeLAXfHeWKEG"
     },
     {
       "album": {
@@ -3275,7 +3297,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 246720,
       "name": "Seret El Hob Remix",
       "url": "https://open.spotify.com/track/2nLsfcz1xMPpRVQbEICa0a"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Wejdene
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,946 likes - 40 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,029 likes - 40 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 39 | [Quelqu'un d'autre](https://open.spotify.com/track/4e4hmNgPXUzfoANBzZbV9h) | [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [Quelqu'un d'autre](https://open.spotify.com/album/4PtfBRspzSbF2D1Wx0dIxh) | 3:01 |
 | 40 | [si j'avais pu](https://open.spotify.com/track/6XLdsbYjkONIN6TAt8s7yS) | [Iliana](https://open.spotify.com/artist/7kjWIGGBS3AigeN2Ppkr83) | [si j'avais pu](https://open.spotify.com/album/5t9FkBCsHX4BSsTDATZD8P) | 2:26 |
 
-Snapshot ID: `MCxjOThlMWVkNjEwMzNiYWNiNmQwOGM1YjhmYjRkMmE5ZmQ1YTM0ZTk1`
+Snapshot ID: `MCwyY2U3ODFlNzMzNGFhYjQ3YmQ5NDk2ODUwYjJkNWRlZTllMDhiNWI5`

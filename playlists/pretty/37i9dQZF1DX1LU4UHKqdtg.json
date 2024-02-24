@@ -1,12 +1,12 @@
 {
   "description": "The freshest K-Pop of today!  //\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01 Cover: ENHYPEN",
-  "num_followers": 407471,
+  "num_followers": 407698,
   "original_name": "K-Pop Fresh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NTBhNDFjZGVhNTg5ODgzMDZlMzdkYjIwZjRkODIzMjE5ZTQ5YmFl",
+  "snapshot_id": "MCwxZTM3NzlmMzg2NGNjYmUxMWJkMmQwMGI3NTE5MWZkYjVjNzczMTgz",
   "tracks": [
     {
       "added_at": "2024-02-22 15:09:46",
@@ -23,6 +23,22 @@
       "duration_ms": 181722,
       "name": "I NEED U - Spotify Singles",
       "url": "https://open.spotify.com/track/3MOa6IKagO2lT9n0sI8fZQ"
+    },
+    {
+      "added_at": "2024-02-22 15:09:46",
+      "album": {
+        "name": "With YOU-th",
+        "url": "https://open.spotify.com/album/575TQDOQqc0MAheeEeKWUR"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 183559,
+      "name": "ONE SPARK",
+      "url": "https://open.spotify.com/track/7cIn67LEvk16v6komC8znS"
     },
     {
       "added_at": "2024-02-22 15:09:46",
@@ -135,6 +151,26 @@
     {
       "added_at": "2024-02-22 15:09:46",
       "album": {
+        "name": "Run Back To You",
+        "url": "https://open.spotify.com/album/1OEWnZJ9NPQ1U5mpWLPLza"
+      },
+      "artists": [
+        {
+          "name": "LAY",
+          "url": "https://open.spotify.com/artist/4o7tWrzQOqarDtTMWD2HV9"
+        },
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "duration_ms": 188750,
+      "name": "Run Back To You",
+      "url": "https://open.spotify.com/track/0W6cB9dPUnsL5iKOpxuSAK"
+    },
+    {
+      "added_at": "2024-02-22 15:09:46",
+      "album": {
         "name": "REBOOT (JP SPECIAL SELECTION)",
         "url": "https://open.spotify.com/album/5mS5Pyn0QRGgYChDMPQGDG"
       },
@@ -211,6 +247,22 @@
       "duration_ms": 121226,
       "name": "Wife",
       "url": "https://open.spotify.com/track/1j8jqwFpFQ8YqsIJAiYFLZ"
+    },
+    {
+      "added_at": "2024-02-22 15:09:46",
+      "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/7eDqR1pdw3m0HUVOWsJy0s"
+      },
+      "artists": [
+        {
+          "name": "ASTRO",
+          "url": "https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8"
+        }
+      ],
+      "duration_ms": 240146,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/6h58TnblIV3OPynBI45r0d"
     },
     {
       "added_at": "2024-02-22 15:09:46",

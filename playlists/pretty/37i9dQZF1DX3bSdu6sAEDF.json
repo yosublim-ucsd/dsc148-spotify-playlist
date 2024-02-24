@@ -1,13 +1,89 @@
 {
   "description": "Let this smooth mix carry you home in style.",
-  "num_followers": 511727,
+  "num_followers": 511816,
   "original_name": "Evening Commute",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNmQ5NjM0N2QyNzQ1MDA0YWM5MDIwYjA2NDAxMDFhY2UzY2YwOTE2",
+  "snapshot_id": "MCxmNWVhYzNjNjI1ZTVlNmJkMjE2MGYyYzE2NTVkMWNkNzM3MDI2NWEy",
   "tracks": [
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Me, Myself & Your Eyes",
+        "url": "https://open.spotify.com/album/3dkh3H211HMotBuF2vMqVk"
+      },
+      "artists": [
+        {
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+        }
+      ],
+      "duration_ms": 162647,
+      "name": "Me, Myself & Your Eyes",
+      "url": "https://open.spotify.com/track/0KbiElEOrLB2Yeo8aHkenq"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Try",
+        "url": "https://open.spotify.com/album/2R40H2ayJTqBjqHWLvYuTp"
+      },
+      "artists": [
+        {
+          "name": "Fly By Midnight",
+          "url": "https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ"
+        }
+      ],
+      "duration_ms": 136941,
+      "name": "Try",
+      "url": "https://open.spotify.com/track/5gqGq4xbGAypDUD6YZVIUG"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Get Off My Phone",
+        "url": "https://open.spotify.com/album/44nxBc1O9Bg5EWRkbX7sXd"
+      },
+      "artists": [
+        {
+          "name": "THE DRIVER ERA",
+          "url": "https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ"
+        },
+        {
+          "name": "Ross Lynch",
+          "url": "https://open.spotify.com/artist/4UxLFBvSr4xMDpHe1lrLrH"
+        },
+        {
+          "name": "Rocky",
+          "url": "https://open.spotify.com/artist/542yUd4rGzUEOLd1diV94f"
+        }
+      ],
+      "duration_ms": 168428,
+      "name": "Get Off My Phone",
+      "url": "https://open.spotify.com/track/3ArhAv6XnxAnGK8s6et1E1"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Run Back To You",
+        "url": "https://open.spotify.com/album/1OEWnZJ9NPQ1U5mpWLPLza"
+      },
+      "artists": [
+        {
+          "name": "LAY",
+          "url": "https://open.spotify.com/artist/4o7tWrzQOqarDtTMWD2HV9"
+        },
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "duration_ms": 188750,
+      "name": "Run Back To You",
+      "url": "https://open.spotify.com/track/0W6cB9dPUnsL5iKOpxuSAK"
+    },
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
@@ -215,26 +291,6 @@
       "duration_ms": 145059,
       "name": "summer after senior year",
       "url": "https://open.spotify.com/track/4xjpWPuhcc42tsSDKaUrOY"
-    },
-    {
-      "added_at": "2023-12-08 05:01:00",
-      "album": {
-        "name": "Different Lives",
-        "url": "https://open.spotify.com/album/2jnVMgIk877jRCQqJMuNfS"
-      },
-      "artists": [
-        {
-          "name": "Fly By Midnight",
-          "url": "https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ"
-        },
-        {
-          "name": "Rachel Grae",
-          "url": "https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn"
-        }
-      ],
-      "duration_ms": 197250,
-      "name": "Different Lives",
-      "url": "https://open.spotify.com/track/7e7JVMegy4WBMnzuZE9Srq"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -567,22 +623,6 @@
     {
       "added_at": "2023-09-04 21:51:37",
       "album": {
-        "name": "Fictional Illustrations",
-        "url": "https://open.spotify.com/album/3xrJrR589weA5sIkdMZuQh"
-      },
-      "artists": [
-        {
-          "name": "Fly By Midnight",
-          "url": "https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ"
-        }
-      ],
-      "duration_ms": 163738,
-      "name": "Infinitely Falling",
-      "url": "https://open.spotify.com/track/7KWf7gZ05NciRE6SXZveds"
-    },
-    {
-      "added_at": "2023-09-04 21:51:37",
-      "album": {
         "name": "maybe i'm the problem now",
         "url": "https://open.spotify.com/album/1nwXyhEXX10bzlqlryz9ZC"
       },
@@ -847,22 +887,6 @@
       "duration_ms": 183014,
       "name": "All 4 Nothing (I'm So In Love)",
       "url": "https://open.spotify.com/track/21AziTMaZwcLflGMAj85o5"
-    },
-    {
-      "added_at": "2023-09-22 04:01:00",
-      "album": {
-        "name": "Hands Up To The Sky",
-        "url": "https://open.spotify.com/album/6zIEU67gUCnGZ9yYQW9tL6"
-      },
-      "artists": [
-        {
-          "name": "Michael Franti & Spearhead",
-          "url": "https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB"
-        }
-      ],
-      "duration_ms": 204159,
-      "name": "Hands Up To The Sky",
-      "url": "https://open.spotify.com/track/0WExP6ei2lDqW6WDPlfYOq"
     },
     {
       "added_at": "2023-09-04 21:51:37",
@@ -1223,22 +1247,6 @@
       "duration_ms": 211266,
       "name": "feel it now (alive)",
       "url": "https://open.spotify.com/track/6gYnclsFwByD1BxL7z44WD"
-    },
-    {
-      "added_at": "2023-09-04 21:51:37",
-      "album": {
-        "name": "Dizzy",
-        "url": "https://open.spotify.com/album/4MFH523922WoxgMJl5E5Qv"
-      },
-      "artists": [
-        {
-          "name": "Blake Rose",
-          "url": "https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe"
-        }
-      ],
-      "duration_ms": 184347,
-      "name": "Dizzy",
-      "url": "https://open.spotify.com/track/1nosxRR4SgRdgqjDdKXYH5"
     },
     {
       "added_at": "2023-09-04 21:51:37",

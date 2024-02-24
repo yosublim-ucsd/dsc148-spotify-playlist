@@ -231,6 +231,28 @@
     },
     {
       "album": {
+        "name": "A City's Never",
+        "url": "https://open.spotify.com/album/5CHhdJ38De58aT5zPutiGo"
+      },
+      "artists": [
+        {
+          "name": "Bullion",
+          "url": "https://open.spotify.com/artist/6vcPgFOkMWBoY6Ks6eMEWj"
+        },
+        {
+          "name": "Panda Bear",
+          "url": "https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162640,
+      "name": "A City\u2019s Never",
+      "url": "https://open.spotify.com/track/73KU886Nys7jzLIc9CZ1f8"
+    },
+    {
+      "album": {
         "name": "Acid Rain (Edit)",
         "url": "https://open.spotify.com/album/0wG2Ose6eAKTyohO1JoPJd"
       },
@@ -1760,7 +1782,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 285714,
       "name": "Downtown",
       "url": "https://open.spotify.com/track/6CS2VZem8trycECb9mEGK0"
@@ -3900,7 +3922,7 @@
       ],
       "date_added": "2020-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 196071,
       "name": "Kyle (i found you)",
       "url": "https://open.spotify.com/track/0v1g5U1OAb0XBjKyA8R36i"
@@ -4732,6 +4754,28 @@
       "duration_ms": 171982,
       "name": "Melt",
       "url": "https://open.spotify.com/track/5tQPvJmC24AdZDYSRRLXxd"
+    },
+    {
+      "album": {
+        "name": "Miracles",
+        "url": "https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy"
+      },
+      "artists": [
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        },
+        {
+          "name": "Sophia Bel",
+          "url": "https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/2s5VFHjQkBIipPndpB1sJD"
     },
     {
       "album": {
@@ -6970,7 +7014,7 @@
       ],
       "date_added": "2020-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 244202,
       "name": "Sunlight (feat. Years and Years) - Darius Remix",
       "url": "https://open.spotify.com/track/2FsGvAxjBVUCaFrm3uDmHV"
@@ -7014,6 +7058,24 @@
       "duration_ms": 214400,
       "name": "Sunshine Baby",
       "url": "https://open.spotify.com/track/2guP5xXQQ9pfEkuZxRhIpc"
+    },
+    {
+      "album": {
+        "name": "Sunshine Blue Skies",
+        "url": "https://open.spotify.com/album/7zCzNO2ORLbCmJBhfMG8RK"
+      },
+      "artists": [
+        {
+          "name": "Bamily",
+          "url": "https://open.spotify.com/artist/6oMh7pGcBIgfpdKKUHmJAy"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227309,
+      "name": "Sunshine Blue Skies",
+      "url": "https://open.spotify.com/track/0TbmhSoWUBpaDMsjiJNWKC"
     },
     {
       "album": {

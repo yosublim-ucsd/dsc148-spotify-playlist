@@ -4,7 +4,7 @@
 
 > Như thanh long trong mì tôm, đây là những 🎶 có thể lần đầu nghe đến\. Ảnh bìa: Em Ellata
 
-1,517 songs - 3 day 16 hr 41 min
+1,518 songs - 3 day 16 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Airport](https://open.spotify.com/track/2ydIVQPt9k6C2XbUCfE0NR) | [VCC Left Hand](https://open.spotify.com/artist/3QjJx8Yp2mXYoHtiPI7VMI) | [Airport](https://open.spotify.com/album/1LFBOwXh6eF5iLrE168MxG) | 2:22 | 2022-01-06 | 2022-01-29 |
 | [AKMTPK](https://open.spotify.com/track/72Pb0WcEXB4dlii3MCXqPP) | [2Hoang](https://open.spotify.com/artist/01WAgDamuRnJyTMnRXbSfB) | [AKMTPK](https://open.spotify.com/album/1XhvUUL8arfrXELRbPeve7) | 2:40 | 2023-05-17 | 2023-07-28 |
 | [Alexander](https://open.spotify.com/track/5dpaDNSgDWOGnVhf9ZhAAJ) | [DopeMan](https://open.spotify.com/artist/1IWqwv4Nmco9yWB4vD9R33), [KiddiG](https://open.spotify.com/artist/4JQxhwRWwrrTDQYTsKFR3z), [Hà Nhi](https://open.spotify.com/artist/3XOuN4VDN4EL0GjKov5mWL) | [Alexander](https://open.spotify.com/album/7ngpNgkZ6BReomEgvcgEzv) | 4:13 | 2023-05-01 | 2023-05-16 |
+| [Alive](https://open.spotify.com/track/6g91HFAgMhOJiVqXHySOM2) | [Raven x Rabbit](https://open.spotify.com/artist/3EbhwySdn2EFUhSF55GM2v) | [Alive](https://open.spotify.com/album/56a7K9PjWWPWTxGKt4ijPX) | 3:38 | 2024-02-23 |  |
 | [All you gotta do \(feat\. Wansentai\)](https://open.spotify.com/track/6pYGoYSJFXQU956kfK1PJ0) | [Jayden](https://open.spotify.com/artist/2pqK5DP6YLy2JOxYME8pHp), [Wansentai](https://open.spotify.com/artist/6mFA5OZanTiNrlG3A2RGsP) | [BEDROOM the EP \(feat\. Wansentai\)](https://open.spotify.com/album/3CJi7QbITFGYmEx76RsyIh) | 2:36 | 2023-09-28 | 2023-10-24 |
 | [am i in love?](https://open.spotify.com/track/4rrlU5omVhZN4RVKg83g8j) | [blackvelvetz](https://open.spotify.com/artist/3LM41UKgiR9khIkg8FS1k3) | [am i in love?](https://open.spotify.com/album/16Y4UUjzli47FkbPqYieXx) | 3:25 | 2023-10-19 | 2023-11-13 |
 | [An Toàn](https://open.spotify.com/track/4HVYdhMsuFGYM85euE2Hw7) | [1nG](https://open.spotify.com/artist/12scI4mEdyEDBi7cdkxkVZ) | [An Toàn](https://open.spotify.com/album/58JJrXXA83sPGLQszLqQKn) | 3:51 | 2023-01-12 | 2024-02-22 |
@@ -1066,7 +1067,7 @@
 | [Say Đắm Trong Lần Đầu](https://open.spotify.com/track/079Fpq9a18TX4ir9znmv84) | [Winno](https://open.spotify.com/artist/23UOCFmQtFKvx2mFufMoJB) | [Say Đắm Trong Lần Đầu](https://open.spotify.com/album/5ZrPgAvdWhTCjEDOonp098) | 3:06 | 2022-01-06 | 2022-07-15 |
 | [Say Đắm Trong Lần Đầu](https://open.spotify.com/track/3nAwC1qVqRQYiRCrp6q1dU) | [Winno](https://open.spotify.com/artist/23UOCFmQtFKvx2mFufMoJB) | [Say Đắm Trong Lần Đầu](https://open.spotify.com/album/7sCpAa5xJOAJ2knGbJRQw1) | 3:06 | 2022-11-30 | 2023-01-06 |
 | [Scarf On My Head](https://open.spotify.com/track/60IDKlLsJGjXQjIOZ2rczU) | [VCC Left Hand](https://open.spotify.com/artist/3QjJx8Yp2mXYoHtiPI7VMI) | [Scarf On My Head](https://open.spotify.com/album/5euSr1uhuQ1rre4PrjWlFo) | 2:11 | 2022-02-23 | 2022-03-09 |
-| [SECOND](https://open.spotify.com/track/18jDoe7DVuR4pWEa2Df8Bz) | [Nguyên Newin](https://open.spotify.com/artist/3etJVaUy2ifwOSySSxTrZt) | [SECOND](https://open.spotify.com/album/5uJiGzxrxRbRJJOo9VNwAc) | 3:25 | 2024-01-25 |  |
+| [SECOND](https://open.spotify.com/track/18jDoe7DVuR4pWEa2Df8Bz) | [Nguyên Newin](https://open.spotify.com/artist/3etJVaUy2ifwOSySSxTrZt) | [SECOND](https://open.spotify.com/album/5uJiGzxrxRbRJJOo9VNwAc) | 3:25 | 2024-01-25 | 2024-02-24 |
 | [See Love](https://open.spotify.com/track/5hdo9I3TPyZUaPX5ZgJhCY) | [VUZ](https://open.spotify.com/artist/6XW9SiJzlHNM78vTlzNGf6), [Heness](https://open.spotify.com/artist/6ZJIw0WmfGPP8Oi4QCZ5bm), [Kart](https://open.spotify.com/artist/4qpeGhUog7p0HHP2ZQEoC3) | [See Love](https://open.spotify.com/album/7ayg13hKPM69geocFyTF6o) | 2:29 | 2023-11-16 | 2023-11-30 |
 | [SEENDERELLA](https://open.spotify.com/track/6SY1ZB8y1ZPvBNVD3QvccV) | [Hank](https://open.spotify.com/artist/3qUc9jd1knrpqhoO6wJCCR), [KADO.](https://open.spotify.com/artist/3yJJKoIlf2LfUPdyv2YzQa) | [LEFTOVER FLOWERS](https://open.spotify.com/album/4PT5lZAhYNUAcC0OZBfrXm) | 3:29 | 2023-06-01 | 2023-07-21 |
 | [Shawty](https://open.spotify.com/track/5gR2JRytrOByeK46j6htig) | [Rsk Barber](https://open.spotify.com/artist/4SSBkQN1VwxTQg0Pfctj0X), [Lil Razy](https://open.spotify.com/artist/3tSmw2hp8eHqLAKZrIV1Kc) | [Shawty](https://open.spotify.com/album/2PCfspJQ8D7pQujbfqiCAq) | 3:30 | 2022-05-11 | 2022-06-03 |

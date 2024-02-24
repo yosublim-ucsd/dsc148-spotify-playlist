@@ -6,7 +6,7 @@
     "name": "Filtr Latino",
     "url": "https://open.spotify.com/user/toplatino"
   },
-  "snapshot_id": "NDM0NyxmMWY5MjAzZmZiMjYyNDk1NzkyNjhkNWRiMTNiYTU5OWZkMjI1Zjc3",
+  "snapshot_id": "NDM1MSwyNzUxMmI4NTcwNjNhNTVjOTUxMjliYzY0ZDE1ZDU4MDgyZjM1ODcw",
   "tracks": [
     {
       "added_at": "2024-02-23 00:19:46",
@@ -27,6 +27,38 @@
       "duration_ms": 178849,
       "name": "Space in My Heart",
       "url": "https://open.spotify.com/track/4vMI6s3uwWcxcAqVoXkATn"
+    },
+    {
+      "added_at": "2024-02-23 13:59:36",
+      "album": {
+        "name": "Besos desechables",
+        "url": "https://open.spotify.com/album/42RVc9Djv1cZHeQfqG4vUP"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Rubio",
+          "url": "https://open.spotify.com/artist/5Nk0ZytxbTmln7pHwEEVYG"
+        }
+      ],
+      "duration_ms": 136600,
+      "name": "Besos desechables",
+      "url": "https://open.spotify.com/track/0wLEiXJdatPOGgmpICmcoO"
+    },
+    {
+      "added_at": "2024-02-23 13:41:32",
+      "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/1eEYZevP2PuMIB3CfbUXLA"
+      },
+      "artists": [
+        {
+          "name": "Goyo",
+          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
+        }
+      ],
+      "duration_ms": 129389,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/2D9sGe5S3nrpYONLZhPTnS"
     },
     {
       "added_at": "2024-02-16 15:19:19",

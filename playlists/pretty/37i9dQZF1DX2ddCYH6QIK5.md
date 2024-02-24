@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: Lisl, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,249 likes - 80 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,251 likes - 80 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 3 | [AB](https://open.spotify.com/track/30PiY6rqpZHysYISCpUAZY) | [NAVU](https://open.spotify.com/artist/0LQ9Gm3mLQe2gpXqzoyZzo) | [AB](https://open.spotify.com/album/7wSfbOX7tKkglTvauSp99P) | 3:02 |
 | 4 | [Brenn Mich Aus](https://open.spotify.com/track/01bV2KkMJZw5MzAP0QDTy5) | [WOHINN](https://open.spotify.com/artist/7BW1zR1tn0viUXcb8hsQk6) | [Brenn Mich Aus](https://open.spotify.com/album/57RzGLeYSgPjHaINGjctlQ) | 3:03 |
 | 5 | [Couples Therapy](https://open.spotify.com/track/3RVzXiXKzu2AkCUnATH5ZQ) | [LuxJury](https://open.spotify.com/artist/2zLTVYCCfZSL5zLfKNTNKw) | [Couples Therapy](https://open.spotify.com/album/5HyLyqrPbhaRkckVuwllsE) | 5:15 |
-| 6 | [Arm](https://open.spotify.com/track/5SEj49J7GiVe26ZV6FEUUW) | [xena](https://open.spotify.com/artist/1Y95RMBfKhdP7ura9dM82W) | [Arm](https://open.spotify.com/album/1DTo5HHJtXd09C1qCkpEd2) | 2:54 |
+| 6 | [ARM](https://open.spotify.com/track/5SEj49J7GiVe26ZV6FEUUW) | [xena](https://open.spotify.com/artist/1Y95RMBfKhdP7ura9dM82W) | [ARM](https://open.spotify.com/album/1DTo5HHJtXd09C1qCkpEd2) | 2:54 |
 | 7 | [Out in the Cold](https://open.spotify.com/track/4vu3HIJyV7LYBelDGAm6xb) | [Guacáyo](https://open.spotify.com/artist/7pf98dDuWm91rz4gkrFjrN) | [Out in the Cold](https://open.spotify.com/album/4JOgCrFZbs9rkoz6pG8i4w) | 2:50 |
 | 8 | [Evergreen](https://open.spotify.com/track/7fNjY0oS8mKPtGQxevOBwz) | [jeanie](https://open.spotify.com/artist/07hMLICYoIKGhV4xeTBApP) | [Evergreen](https://open.spotify.com/album/2PPtJgAWi0uwXGBW5z31E5) | 2:14 |
 | 9 | [RAUS](https://open.spotify.com/track/0LwqO52Dy99EAP9fvPqw1s) | [zwanzignullvier](https://open.spotify.com/artist/7b2YyCNNfUDxyDOb2KGE80) | [RAUS](https://open.spotify.com/album/56PQBozC5ENhFrZxNMmXJd) | 3:16 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 79 | [Traveller](https://open.spotify.com/track/4EW7dVVnUTiC4Xkebko4ko) | [mamari](https://open.spotify.com/artist/6XakLqegVbnu9xeY7vz7NM) | [Traveller](https://open.spotify.com/album/60lNNwEj7Y4vytTNHQsezm) | 4:47 |
 | 80 | [Falling Again](https://open.spotify.com/track/0LqE1XSOeqEAoZSpKqX5bC) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [Falling Again](https://open.spotify.com/album/3KUTpdKpT4zvjSechCnIPL) | 2:50 |
 
-Snapshot ID: `MCwwNDU1ZGY4NTAzMjVhMDNmMDIzNGQ5ZTE2ZmI1ODAxNWRhOTY4YTZi`
+Snapshot ID: `MCwxNTAyMGRhYjZhOWZmMGIyN2JhMDcwOTFlMmYyZjQxYmUyZGUzYTg1`

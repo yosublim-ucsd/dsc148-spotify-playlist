@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "The coldest sounds in hip-hop, coming out of Canada. Cover: <a href=\"spotify:artist:332mFY6yBda91AsIOSKirG\">Planet Giza</a>",
+  "description": "The coldest sounds in hip-hop, coming out of Canada. Cover: Connor Price & Haviah Mighty",
   "name": "Northern Bars",
   "tracks": [
     {
@@ -1334,7 +1334,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 180893,
       "name": "All I Want Is You (feat. NorthsideBenji)",
       "url": "https://open.spotify.com/track/3C9YXCS9aS60nyGqL4X13l"
@@ -1872,6 +1872,28 @@
       "duration_ms": 107598,
       "name": "B.G.A",
       "url": "https://open.spotify.com/track/3d0Q8lgAV5eBdLm6P2Mu4k"
+    },
+    {
+      "album": {
+        "name": "Babe Ruth",
+        "url": "https://open.spotify.com/album/0SDt2reTVDvRistsKnYFge"
+      },
+      "artists": [
+        {
+          "name": "CHUNG",
+          "url": "https://open.spotify.com/artist/3JaOZg9OeS0sOnwz9MtvOe"
+        },
+        {
+          "name": "perutheproducer",
+          "url": "https://open.spotify.com/artist/7HZgGgNEM5zlE19qV12YWK"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109879,
+      "name": "Babe Ruth",
+      "url": "https://open.spotify.com/track/7nIXIgN0lx8YsEx6UbL0ue"
     },
     {
       "album": {
@@ -3386,7 +3408,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 155793,
       "name": "Boogie",
       "url": "https://open.spotify.com/track/5DlbS0FoojvFLQStFTN2aj"
@@ -3968,7 +3990,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 173864,
       "name": "Can't Know My Name",
       "url": "https://open.spotify.com/track/5z4wuSzgKgRgqHBymx6Jqt"
@@ -7687,6 +7709,24 @@
     },
     {
       "album": {
+        "name": "Fight or Flight (Playtime's Over)",
+        "url": "https://open.spotify.com/album/2Tzsn9PvVjWnSB7583IXut"
+      },
+      "artists": [
+        {
+          "name": "Da Crook",
+          "url": "https://open.spotify.com/artist/6KdGtfP7YDHgFdpdo0lc9g"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149250,
+      "name": "Fight or Flight (Playtime's Over)",
+      "url": "https://open.spotify.com/track/0gwPIeDyqsM2nXVQOJeBv2"
+    },
+    {
+      "album": {
         "name": "The Candidate",
         "url": "https://open.spotify.com/album/6b2SU7BJlvf0bAZyb7e9bw"
       },
@@ -9090,6 +9130,24 @@
       "duration_ms": 212673,
       "name": "Gin and Tonic",
       "url": "https://open.spotify.com/track/3qR4YcjjAUzFOTmkghhEPE"
+    },
+    {
+      "album": {
+        "name": "GLEE",
+        "url": "https://open.spotify.com/album/0jHIEkjsFrLmbf444udXio"
+      },
+      "artists": [
+        {
+          "name": "KILLY",
+          "url": "https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125538,
+      "name": "GLEE",
+      "url": "https://open.spotify.com/track/02sSQjG0CFVM829FuGURB0"
     },
     {
       "album": {
@@ -12746,7 +12804,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 223703,
       "name": "Kodak Moment",
       "url": "https://open.spotify.com/track/2QwKdnmCxJY3ybI8wuWGIc"
@@ -16939,6 +16997,24 @@
     },
     {
       "album": {
+        "name": "Now or Never",
+        "url": "https://open.spotify.com/album/5cZndzLvB9i5eN1XfK0yww"
+      },
+      "artists": [
+        {
+          "name": "John River",
+          "url": "https://open.spotify.com/artist/7faTQoEP4N3YYvoCYGXZsg"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167989,
+      "name": "Now or Never",
+      "url": "https://open.spotify.com/track/4hLL7Gq1saeR6cyHCMP9d0"
+    },
+    {
+      "album": {
         "name": "Nuevo Le\u00f3n",
         "url": "https://open.spotify.com/album/0aNaoPz4fQ69iotTy94lOa"
       },
@@ -18876,7 +18952,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 186978,
       "name": "POP 2",
       "url": "https://open.spotify.com/track/5TPd6MAlQhx9mztqGH2JQZ"
@@ -19501,6 +19577,28 @@
     },
     {
       "album": {
+        "name": "Real Eyez",
+        "url": "https://open.spotify.com/album/4xekJg3d4n8iVJvW7ukKxM"
+      },
+      "artists": [
+        {
+          "name": "Dr. Bushman",
+          "url": "https://open.spotify.com/artist/67CMLRzkbiW2rmBS6LzhZ7"
+        },
+        {
+          "name": "Blvd Bizz",
+          "url": "https://open.spotify.com/artist/5iESzq4XdJXus218beNwep"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147051,
+      "name": "Real Eyez",
+      "url": "https://open.spotify.com/track/0fu3o7RS8FYXiFiGLT3XDm"
+    },
+    {
+      "album": {
         "name": "Real Insight",
         "url": "https://open.spotify.com/album/0Ra5GT6Uj5BE4yIPQu9tVP"
       },
@@ -19556,7 +19654,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 156486,
       "name": "Rebound",
       "url": "https://open.spotify.com/track/2vuiULdd4MTthc9TDjUYb4"
@@ -19880,6 +19978,24 @@
       "duration_ms": 143423,
       "name": "Revenge",
       "url": "https://open.spotify.com/track/3GG74MJuohWAtsgAMqH9aX"
+    },
+    {
+      "album": {
+        "name": "Revenge",
+        "url": "https://open.spotify.com/album/1kbQP08RHyPNFyy81b5piL"
+      },
+      "artists": [
+        {
+          "name": "Dom Vallie",
+          "url": "https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111483,
+      "name": "Revenge",
+      "url": "https://open.spotify.com/track/1EsoUjyIZfODyQXmPrA1vE"
     },
     {
       "album": {
@@ -22023,6 +22139,28 @@
     },
     {
       "album": {
+        "name": "STARTING-BLOCKS",
+        "url": "https://open.spotify.com/album/1CIsNfhiWzh8AHS6WmK90p"
+      },
+      "artists": [
+        {
+          "name": "Eesah Yasuke",
+          "url": "https://open.spotify.com/artist/12w3AFOBfSycL4YP2nnEOC"
+        },
+        {
+          "name": "Haviah Mighty",
+          "url": "https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284953,
+      "name": "STARTING-BLOCKS",
+      "url": "https://open.spotify.com/track/17P80LtJ5ijACkSqulnqkY"
+    },
+    {
+      "album": {
         "name": "Stash",
         "url": "https://open.spotify.com/album/6BJF0hLxqyvtLl2exI1dyX"
       },
@@ -23749,6 +23887,36 @@
     },
     {
       "album": {
+        "name": "The Pure",
+        "url": "https://open.spotify.com/album/3BiY0c1t8TMJaWJ1OCa07o"
+      },
+      "artists": [
+        {
+          "name": "Cookin Soul",
+          "url": "https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW"
+        },
+        {
+          "name": "Raz Fresco",
+          "url": "https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC"
+        },
+        {
+          "name": "Lil Supa",
+          "url": "https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K"
+        },
+        {
+          "name": "Dano",
+          "url": "https://open.spotify.com/artist/3lIsPQW0jN6sMpiWuiShF0"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221123,
+      "name": "The Pure",
+      "url": "https://open.spotify.com/track/6ZkH2U1dkFSLaQFBgTEfrn"
+    },
+    {
+      "album": {
         "name": "The Resistance Freestyle",
         "url": "https://open.spotify.com/album/2JUaquZZlIzQiUzjOH4ePx"
       },
@@ -23866,7 +24034,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 161107,
       "name": "The Weekend",
       "url": "https://open.spotify.com/track/055kzYgddnupFsFPd7rmy5"
@@ -24540,7 +24708,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 174327,
       "name": "Trapstar",
       "url": "https://open.spotify.com/track/5lRhFabauMO4fKoNk7wkoW"
@@ -25342,7 +25510,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 268037,
       "name": "VIAUVILLE",
       "url": "https://open.spotify.com/track/30g0IU3gMdc2hF7v09G5pG"
@@ -25518,6 +25686,28 @@
       "duration_ms": 180400,
       "name": "W Hotel (feat. Toosii)",
       "url": "https://open.spotify.com/track/5y0ZkrwaaXuTrW3Sbo4UI3"
+    },
+    {
+      "album": {
+        "name": "Wagwan",
+        "url": "https://open.spotify.com/album/6M8E3XZsbqGtlzlb59qtzW"
+      },
+      "artists": [
+        {
+          "name": "LolaBunz",
+          "url": "https://open.spotify.com/artist/72yhrvuYx4imB6MXUOsjNa"
+        },
+        {
+          "name": "BabaFemi",
+          "url": "https://open.spotify.com/artist/4YHF6TPA5V80G6W6dQ91jG"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139267,
+      "name": "Wagwan",
+      "url": "https://open.spotify.com/track/6Pfq8pHYsT5Va9FxndlIT4"
     },
     {
       "album": {

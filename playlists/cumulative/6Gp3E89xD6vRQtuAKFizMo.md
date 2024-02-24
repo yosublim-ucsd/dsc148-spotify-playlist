@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-273 songs - 13 hr 17 min
+275 songs - 13 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [En Secreto](https://open.spotify.com/track/6lNd1FVwfPPmcXQM3Pr0xU) | [La Favi](https://open.spotify.com/artist/5lnsY88L4HEVxNUMCefego) | [En Secreto](https://open.spotify.com/album/6BKh8ai1vPum2LclW1dGK1) | 2:09 | 2022-12-09 | 2022-12-20 |
 | [End Of The World](https://open.spotify.com/track/25tekS8txsCQov85px1xm2) | [End of the World](https://open.spotify.com/artist/0b59cVa1STVENq3i7wkcHV), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [End Of The World](https://open.spotify.com/album/31mDl63BV0n2ipUk8Mvigs) | 3:45 | 2022-05-06 | 2022-08-18 |
 | [Enter With Caution \(feat\. Alix Robson\)](https://open.spotify.com/track/4sDBG6YWfUcWd6Cev8fWUJ) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [Alix Robson](https://open.spotify.com/artist/79GdQ9zaVZKtAIe5XSItbT) | [Enter With Caution \(feat\. Alix Robson\)](https://open.spotify.com/album/15ShC3FREY48amM8OYEP0E) | 3:43 | 2022-05-06 | 2023-01-28 |
+| [Erase Me \(feat\. Bella Renee\)](https://open.spotify.com/track/0ptLBdLmejS79Sza6NQeAb) | [shndō](https://open.spotify.com/artist/2AGKq9TDZ4m5cuSvFEShjH), [Bella Renee](https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa) | [Erase Me \(feat\. Bella Renee\)](https://open.spotify.com/album/1KQtXINgtNG4Nk6fv30SS2) | 2:31 | 2024-02-23 |  |
 | [Esa Fui Yo](https://open.spotify.com/track/0x50zDF6SsQqas9BzzfL49) | [La Favi](https://open.spotify.com/artist/5lnsY88L4HEVxNUMCefego) | [Esa Fui Yo](https://open.spotify.com/album/4kRO16rJRxAFkSv4WN1bWE) | 2:06 | 2023-03-31 |  |
 | [Eternity](https://open.spotify.com/track/51AFIyM6JX77LM8wT4uxxi) | [P3PPER](https://open.spotify.com/artist/0iq9s28aS7Tzobq9Yznwnj), [Saint Miller](https://open.spotify.com/artist/6wHv49MiC1mnnfQGQ490hr) | [Eternity](https://open.spotify.com/album/3NdO59chWqQb2P1RtKSJ9I) | 2:20 | 2023-08-09 | 2023-12-14 |
 | [Euphoria](https://open.spotify.com/track/7l9iHqc96MliysA243IK2V) | [Odd Language](https://open.spotify.com/artist/6jo39RCQ903pfIWvev74XB) | [Euphoria](https://open.spotify.com/album/41ANCAUNiWvzR9cjxq5iVD) | 2:52 | 2022-05-24 |  |
@@ -268,6 +269,7 @@
 | [Want Me](https://open.spotify.com/track/6pbORmr0B72zU8BkQEaYWx) | [TINYKVT](https://open.spotify.com/artist/0sWZs1jin3oOieFS6lXE5T) | [Want Me](https://open.spotify.com/album/5t9NkBha5xq2vHi4cEwV0y) | 3:06 | 2023-11-22 |  |
 | [Want Me Back \(feat\. Karl Boëthius\)](https://open.spotify.com/track/4T5txIj8NX26C5j6hb3Gi5) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM), [Karl Boëthius](https://open.spotify.com/artist/0hLyLBaXRFkieljmWoYkIh) | [Want Me Back \(feat\. Karl Boëthius\)](https://open.spotify.com/album/1WtgdAm11KzOWkcKAGz46a) | 1:53 | 2024-01-12 |  |
 | [Wat U Want](https://open.spotify.com/track/06mJKi1dNqdCOSz89Z8wNv) | [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V), [Gold Lemonade](https://open.spotify.com/artist/7FRrxvFEPbNCEJt0E7O7UD) | [Wat U Want](https://open.spotify.com/album/6i0zG01d98dJPcq6EuFNoi) | 2:24 | 2023-03-02 | 2023-05-21 |
+| [We Are One \(feat\. Bryn Christopher\)](https://open.spotify.com/track/2yy8PDe1d2TnWQYjjhvMke) | [3 Are Legend](https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II), [Bryn Christopher](https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv) | [We Are One \(feat\. Bryn Christopher\)](https://open.spotify.com/album/3rrJdd0PtwPwsweuuNUJaJ) | 3:22 | 2024-02-23 |  |
 | [Welcome to the Playhouse](https://open.spotify.com/track/1qXTtWP0sNcePb3tT2eHWL) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [Welcome to the Playhouse](https://open.spotify.com/album/6hhEQkw3cuI1HQ61Xma7Cy) | 3:08 | 2022-05-06 | 2023-04-09 |
 | [We’re Falling \(feat\. sapientdream\)](https://open.spotify.com/track/3kaVh7zUaVT87qnHngdnCF) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Hook N Sling](https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D), [sapientdream](https://open.spotify.com/artist/4wOqWyXZiVMLchDC2H9CyP) | [We’re Falling \(feat\. sapientdream\)](https://open.spotify.com/album/1rrrcWXR4L1LPOaDgAg1ks) | 2:54 | 2022-08-19 | 2023-04-09 |
 | [Wild](https://open.spotify.com/track/6HziIqUKIzfSAHOpVtALrL) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy) | [Wild](https://open.spotify.com/album/2nYb1jBuzoEsHYIrh7ueL9) | 2:15 | 2023-03-24 |  |

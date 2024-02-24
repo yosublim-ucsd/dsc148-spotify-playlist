@@ -1935,6 +1935,32 @@
     },
     {
       "album": {
+        "name": "Lua (Boiadeira Internacional EP.4)",
+        "url": "https://open.spotify.com/album/4hy4Wsbl0nWmAWMdp46OHV"
+      },
+      "artists": [
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+        },
+        {
+          "name": "Hungria",
+          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206538,
+      "name": "Lua",
+      "url": "https://open.spotify.com/track/1iilEnhis2SZrqGdcjKOY5"
+    },
+    {
+      "album": {
         "name": "Mal Feito (Ao Vivo)",
         "url": "https://open.spotify.com/album/6wM2qL8ddXGiEMPy44Wt8I"
       },
@@ -2520,7 +2546,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 173698,
       "name": "Nosso Quadro",
       "url": "https://open.spotify.com/track/1bzRhnrWU1l1u4Bby9ZbfQ"
@@ -2720,6 +2746,24 @@
       "duration_ms": 169835,
       "name": "N\u00e3o Vital\u00edcio (Nunca Mais) - Ao Vivo",
       "url": "https://open.spotify.com/track/4sqpSDnTrbS8v7RMNCUyqS"
+    },
+    {
+      "album": {
+        "name": "A culpa \u00e9 do meu SIGNO",
+        "url": "https://open.spotify.com/album/7JjEHekB15sJmSy23SO0Cd"
+      },
+      "artists": [
+        {
+          "name": "Luiza Martins",
+          "url": "https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170599,
+      "name": "O Destino",
+      "url": "https://open.spotify.com/track/0iEaFZq4pD3p5HyJZelAGq"
     },
     {
       "album": {
@@ -3084,7 +3128,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 144298,
       "name": "Quando Apaga A Luz - Ao Vivo",
       "url": "https://open.spotify.com/track/1nf1HJdTWXwf9XHQebGlOd"
@@ -3269,6 +3313,28 @@
     },
     {
       "album": {
+        "name": "Raiz Goi\u00e2nia (Ao Vivo / Deluxe)",
+        "url": "https://open.spotify.com/album/25jNsrO9DHmCnQ6vQ4vVTL"
+      },
+      "artists": [
+        {
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+        },
+        {
+          "name": "Cristinas",
+          "url": "https://open.spotify.com/artist/7DmKgIhj9hUClv6a1iF4Q3"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149429,
+      "name": "Sofrimento L\u00edquido - Ao Vivo",
+      "url": "https://open.spotify.com/track/4lFhk7Z4wzNqjhJ3ln6AbN"
+    },
+    {
+      "album": {
         "name": "Solteiro For\u00e7ado (Boiadeira Internacional)",
         "url": "https://open.spotify.com/album/787d22Rcq1Rndn8D3NXd3i"
       },
@@ -3338,6 +3404,24 @@
       "duration_ms": 186469,
       "name": "Sorte - Ao Vivo",
       "url": "https://open.spotify.com/track/2SwE42tEBphHOejzZ9rKRa"
+    },
+    {
+      "album": {
+        "name": "\u00daltima Noite (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2sI9lVO5PJrw0XgR4ec1vq"
+      },
+      "artists": [
+        {
+          "name": "Felipe Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155873,
+      "name": "Sorte Da Porra - Ao Vivo",
+      "url": "https://open.spotify.com/track/0mAYsM1VLBsYjiHLH3wm8Y"
     },
     {
       "album": {

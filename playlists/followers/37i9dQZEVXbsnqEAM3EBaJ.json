@@ -1,5 +1,5 @@
 {
-  "2024-02-23": 0,
+  "2024-02-24": 0,
   "date_first_scraped": "2023-03-03",
   "description": "Catch all the latest music from artists you follow, plus new singles picked for you. Updates every Friday.",
   "name": "Release Radar (@pipemanuel10)",
@@ -20105,6 +20105,36 @@
           "url": "https://open.spotify.com/artist/1RXtVCK8tYct5L9i9l7n2x"
         },
         {
+          "name": "Alissa White-Gluz",
+          "url": "https://open.spotify.com/artist/0t9i2yNpYr4QGde2gz8YVg"
+        },
+        {
+          "name": "Marc Hudson",
+          "url": "https://open.spotify.com/artist/2m7BvPHT3mu5jau2VzOu1r"
+        },
+        {
+          "name": "Metropole Orkest",
+          "url": "https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327763,
+      "name": "The Muse and The Conductor",
+      "url": "https://open.spotify.com/track/7uUNJfyzDeDVoKzjzATL3D"
+    },
+    {
+      "album": {
+        "name": "Karmaflow The Rock Opera Videogame (Original Videogame Soundtrack)",
+        "url": "https://open.spotify.com/album/3NtVQ8ZcqehqRJgpjV6OS4"
+      },
+      "artists": [
+        {
+          "name": "Ivo van Dijk",
+          "url": "https://open.spotify.com/artist/1RXtVCK8tYct5L9i9l7n2x"
+        },
+        {
           "name": "Marc Hudson",
           "url": "https://open.spotify.com/artist/2m7BvPHT3mu5jau2VzOu1r"
         },
@@ -20119,7 +20149,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 315836,
       "name": "The Muse and The Conductor (Dissonance)",
       "url": "https://open.spotify.com/track/4ePpPebeQxroWuwZSL4ZLv"

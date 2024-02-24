@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDY3MjA5NWUzMTg1ZjJiMDJiN2U0NjExYTM4ZjhlYTBhYTc2NzE5",
+  "snapshot_id": "MCw2NzhkMWNkNzcxM2NhNDhlYzY2MTA3ZjRlM2M0ZmZlNDVkNzJlNTA2",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -487,6 +487,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "That's What I Heard",
+        "url": "https://open.spotify.com/album/5MHALMDVXq4S7Ad6pNVl8I"
+      },
+      "artists": [
+        {
+          "name": "Robert Cray",
+          "url": "https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj"
+        }
+      ],
+      "duration_ms": 224906,
+      "name": "Hot",
+      "url": "https://open.spotify.com/track/13fRchgQiChtVn1vcQ7QTt"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Stompin' Ground",
         "url": "https://open.spotify.com/album/7idEcyqOmmK3iYlr8mmTti"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 239666,
       "name": "Soul Shake",
       "url": "https://open.spotify.com/track/3hKeRXFfnGAN80ZvZCwz01"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "That's What I Heard",
-        "url": "https://open.spotify.com/album/5MHALMDVXq4S7Ad6pNVl8I"
-      },
-      "artists": [
-        {
-          "name": "Robert Cray",
-          "url": "https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj"
-        }
-      ],
-      "duration_ms": 224906,
-      "name": "Hot",
-      "url": "https://open.spotify.com/track/13fRchgQiChtVn1vcQ7QTt"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -771,18 +771,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Show Of Strength",
-        "url": "https://open.spotify.com/album/3ud6I5e1AGFRbBYb0UvZO3"
+        "name": "The Traveler",
+        "url": "https://open.spotify.com/album/2Y84Mm4NzY5TzbdR1ub9Ow"
       },
       "artists": [
         {
-          "name": "Michael Burks",
-          "url": "https://open.spotify.com/artist/19YeucN49a9jRiTyseG6a6"
+          "name": "Kenny Wayne Shepherd",
+          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
         }
       ],
-      "duration_ms": 360146,
-      "name": "Little Juke Joint",
-      "url": "https://open.spotify.com/track/6XgNLPqmKIo9HUwtwngAJc"
+      "duration_ms": 224866,
+      "name": "Mr. Soul",
+      "url": "https://open.spotify.com/track/5tYEt83ElN9b0GtNtlnwau"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -811,18 +811,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "The Traveler",
-        "url": "https://open.spotify.com/album/2Y84Mm4NzY5TzbdR1ub9Ow"
+        "name": "Show Of Strength",
+        "url": "https://open.spotify.com/album/3ud6I5e1AGFRbBYb0UvZO3"
       },
       "artists": [
         {
-          "name": "Kenny Wayne Shepherd",
-          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
+          "name": "Michael Burks",
+          "url": "https://open.spotify.com/artist/19YeucN49a9jRiTyseG6a6"
         }
       ],
-      "duration_ms": 224866,
-      "name": "Mr. Soul",
-      "url": "https://open.spotify.com/track/5tYEt83ElN9b0GtNtlnwau"
+      "duration_ms": 360146,
+      "name": "Little Juke Joint",
+      "url": "https://open.spotify.com/track/6XgNLPqmKIo9HUwtwngAJc"
     },
     {
       "added_at": "2021-03-19 05:01:00",

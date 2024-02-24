@@ -1,13 +1,45 @@
 {
   "description": "A new take on a classic sound. Cover: Britti",
-  "num_followers": 209152,
+  "num_followers": 209203,
   "original_name": "Retro Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYzg2MzM3YmVjNmExYmJkMjExMjFmMGJiNTRiNTVjZmJmNjA4NzZk",
+  "snapshot_id": "MCwxODk1ZDE0MzM4YzM4NWUwNDQ5MTJlN2E0OGQ4N2U1ODU4MmNhYmY4",
   "tracks": [
+    {
+      "added_at": "2024-02-23 05:01:00",
+      "album": {
+        "name": "Illusions",
+        "url": "https://open.spotify.com/album/7G5uHjRAwBYcot5JH79iNz"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "duration_ms": 216573,
+      "name": "Illusions",
+      "url": "https://open.spotify.com/track/0FdvQVBKMN5Vc2SiN7bU0Z"
+    },
+    {
+      "added_at": "2024-02-23 05:01:00",
+      "album": {
+        "name": "MARY - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/4SKYxCEmJBIxTdPQGQGK0C"
+      },
+      "artists": [
+        {
+          "name": "Jordan Mackampa",
+          "url": "https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST"
+        }
+      ],
+      "duration_ms": 204799,
+      "name": "MARY - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/7M2NVfbNrBnrR1eA7HVWTw"
+    },
     {
       "added_at": "2024-02-14 05:00:00",
       "album": {
@@ -61,6 +93,22 @@
       "url": "https://open.spotify.com/track/5I49eXTkm0BUI9l5zvVcfw"
     },
     {
+      "added_at": "2024-02-23 05:01:00",
+      "album": {
+        "name": "Beautiful Mess",
+        "url": "https://open.spotify.com/album/1xXhNPde3HfzOBiNJiqbQy"
+      },
+      "artists": [
+        {
+          "name": "Bette Smith",
+          "url": "https://open.spotify.com/artist/3hFYJXV9rGaHMAPkvP4YZ3"
+        }
+      ],
+      "duration_ms": 179883,
+      "name": "Beautiful Mess",
+      "url": "https://open.spotify.com/track/0uzeU20mt4j3RZrSlipwx3"
+    },
+    {
       "added_at": "2024-02-09 05:01:00",
       "album": {
         "name": "Shades of Yesterday",
@@ -75,6 +123,26 @@
       "duration_ms": 162751,
       "name": "Together",
       "url": "https://open.spotify.com/track/6TkQrtwNlr9BhsovTflSir"
+    },
+    {
+      "added_at": "2023-12-29 05:00:00",
+      "album": {
+        "name": "Pure Intentions",
+        "url": "https://open.spotify.com/album/3rIYdmlRAN8JIvD2B1hvaP"
+      },
+      "artists": [
+        {
+          "name": "Baby Bash",
+          "url": "https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7"
+        },
+        {
+          "name": "Gabriella",
+          "url": "https://open.spotify.com/artist/1WA3tuuJI10x4j7SB1XXf7"
+        }
+      ],
+      "duration_ms": 176879,
+      "name": "Pure Intentions (feat. Gabriella)",
+      "url": "https://open.spotify.com/track/4AnEPPs5a8lmsEY75mikDd"
     },
     {
       "added_at": "2024-02-14 05:00:00",
@@ -109,22 +177,6 @@
       "url": "https://open.spotify.com/track/1BEioZa6o8AVDmOh5Sc86j"
     },
     {
-      "added_at": "2024-02-14 05:00:00",
-      "album": {
-        "name": "Love's Graveyard",
-        "url": "https://open.spotify.com/album/6ZWrOlNorLPFkRtSsyvKUj"
-      },
-      "artists": [
-        {
-          "name": "Aiyana-Lee",
-          "url": "https://open.spotify.com/artist/2IZXxSIGhFtkHJyMh6UTln"
-        }
-      ],
-      "duration_ms": 185049,
-      "name": "Love's Graveyard",
-      "url": "https://open.spotify.com/track/08fxE97WEcGEgPKJFYJuqE"
-    },
-    {
       "added_at": "2024-01-19 05:01:00",
       "album": {
         "name": "Serena (Feat. Samm Henshaw)",
@@ -145,38 +197,6 @@
       "url": "https://open.spotify.com/track/3M7CTl6EiNEeeoFl79GiAG"
     },
     {
-      "added_at": "2024-01-19 05:01:00",
-      "album": {
-        "name": "Secret Place",
-        "url": "https://open.spotify.com/album/0xzaHD5jiLywBetxvYyuOD"
-      },
-      "artists": [
-        {
-          "name": "Tommy Newport",
-          "url": "https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv"
-        }
-      ],
-      "duration_ms": 182886,
-      "name": "Secret Place",
-      "url": "https://open.spotify.com/track/20801Wp091hByDAPyq6pAZ"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "That's All I Wanted From You",
-        "url": "https://open.spotify.com/album/5YMTxJYMulSFqd6kHpn14U"
-      },
-      "artists": [
-        {
-          "name": "Jalen Ngonda",
-          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
-        }
-      ],
-      "duration_ms": 156440,
-      "name": "That's All I Wanted From You",
-      "url": "https://open.spotify.com/track/6KPPfdQTxqmpt4Mr1RU09o"
-    },
-    {
       "added_at": "2024-01-12 05:01:00",
       "album": {
         "name": "Gold Mine",
@@ -193,24 +213,36 @@
       "url": "https://open.spotify.com/track/3eOSNAIQJ8HPNNUZGWJPcf"
     },
     {
-      "added_at": "2023-12-29 05:00:00",
+      "added_at": "2024-02-14 05:00:00",
       "album": {
-        "name": "Pure Intentions",
-        "url": "https://open.spotify.com/album/3rIYdmlRAN8JIvD2B1hvaP"
+        "name": "Love's Graveyard",
+        "url": "https://open.spotify.com/album/6ZWrOlNorLPFkRtSsyvKUj"
       },
       "artists": [
         {
-          "name": "Baby Bash",
-          "url": "https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7"
-        },
-        {
-          "name": "Gabriella",
-          "url": "https://open.spotify.com/artist/1WA3tuuJI10x4j7SB1XXf7"
+          "name": "Aiyana-Lee",
+          "url": "https://open.spotify.com/artist/2IZXxSIGhFtkHJyMh6UTln"
         }
       ],
-      "duration_ms": 176879,
-      "name": "Pure Intentions (feat. Gabriella)",
-      "url": "https://open.spotify.com/track/4AnEPPs5a8lmsEY75mikDd"
+      "duration_ms": 185049,
+      "name": "Love's Graveyard",
+      "url": "https://open.spotify.com/track/08fxE97WEcGEgPKJFYJuqE"
+    },
+    {
+      "added_at": "2024-01-19 05:01:00",
+      "album": {
+        "name": "Secret Place",
+        "url": "https://open.spotify.com/album/0xzaHD5jiLywBetxvYyuOD"
+      },
+      "artists": [
+        {
+          "name": "Tommy Newport",
+          "url": "https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv"
+        }
+      ],
+      "duration_ms": 182886,
+      "name": "Secret Place",
+      "url": "https://open.spotify.com/track/20801Wp091hByDAPyq6pAZ"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -759,22 +791,6 @@
       "duration_ms": 182821,
       "name": "Woman (Single Edit)",
       "url": "https://open.spotify.com/track/3tW5b01kiWfMJKQWddwPNl"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Tomorrow's Gonna Come",
-        "url": "https://open.spotify.com/album/7v8VvueBjcukRvpMU0wxF0"
-      },
-      "artists": [
-        {
-          "name": "Dojo Cuts",
-          "url": "https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL"
-        }
-      ],
-      "duration_ms": 218613,
-      "name": "Rome",
-      "url": "https://open.spotify.com/track/0t34scg6386JnLUEb7jFb1"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1447,22 +1463,6 @@
       "duration_ms": 274391,
       "name": "B-Side",
       "url": "https://open.spotify.com/track/2DccHqTquzubziHAPZRdct"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Move On",
-        "url": "https://open.spotify.com/album/5kK0N3M1FTlqaTM6mCPKyd"
-      },
-      "artists": [
-        {
-          "name": "Kubla",
-          "url": "https://open.spotify.com/artist/7KgcPkeaO1Rpa4MFl2sLOm"
-        }
-      ],
-      "duration_ms": 218027,
-      "name": "Move On",
-      "url": "https://open.spotify.com/track/4FoGNyJaWEY5g4N0AHBM3K"
     },
     {
       "added_at": "2023-09-01 04:00:00",

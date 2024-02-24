@@ -346,7 +346,7 @@
     {
       "album": {
         "name": "In The Dark",
-        "url": "https://open.spotify.com/album/3fu0dvi8F9JoT3S1KG1VKG"
+        "url": "https://open.spotify.com/album/5NqC1h7NQZMFwF1jsTMMah"
       },
       "artists": [
         {
@@ -365,6 +365,32 @@
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 373333,
+      "name": "In The Dark",
+      "url": "https://open.spotify.com/track/6ZBLQ9beCgU9FFieAcbeOO"
+    },
+    {
+      "album": {
+        "name": "In The Dark",
+        "url": "https://open.spotify.com/album/3fu0dvi8F9JoT3S1KG1VKG"
+      },
+      "artists": [
+        {
+          "name": "Sian",
+          "url": "https://open.spotify.com/artist/4JkX37Ibpb0cJq2IItah0y"
+        },
+        {
+          "name": "Sacha Robotti",
+          "url": "https://open.spotify.com/artist/5zheoDzRTIhWzE1j1DttZf"
+        },
+        {
+          "name": "Third Culture (USA)",
+          "url": "https://open.spotify.com/artist/6sJJfdZkhHzBYzBWu0my9p"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": "2024-02-24",
       "duration_ms": 373333,
       "name": "In The Dark - Original Mix",
       "url": "https://open.spotify.com/track/4ATyGC5RIUkOS1MtXX6Yja"

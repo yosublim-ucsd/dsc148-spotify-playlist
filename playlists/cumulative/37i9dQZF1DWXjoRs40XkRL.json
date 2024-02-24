@@ -2087,6 +2087,28 @@
     },
     {
       "album": {
+        "name": "Song Craft Season 1",
+        "url": "https://open.spotify.com/album/6cyCyVWsO3y369yadNqbmA"
+      },
+      "artists": [
+        {
+          "name": "Imran Khan Sitar",
+          "url": "https://open.spotify.com/artist/1UrxT8kr1FXLymiN3SWpEP"
+        },
+        {
+          "name": "Pratibha Singh Baghel",
+          "url": "https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405343,
+      "name": "Kahe Bana Batiya",
+      "url": "https://open.spotify.com/track/2DeFZhd4UcRwLaWAETGoCi"
+    },
+    {
+      "album": {
         "name": "Aarambh",
         "url": "https://open.spotify.com/album/23tB4HqO2xE8DqUkXyhzyc"
       },
@@ -2150,7 +2172,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 231321,
       "name": "Kanha Re",
       "url": "https://open.spotify.com/track/4rve7qQ9hYbpATiu5hJwVj"
@@ -2562,7 +2584,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 175013,
       "name": "Love for Rasiya",
       "url": "https://open.spotify.com/track/4xsrwACNh8i7csjLuBhRzF"
@@ -3020,6 +3042,28 @@
       "duration_ms": 291898,
       "name": "Naina Bawre",
       "url": "https://open.spotify.com/track/2AdjRQ1xp5volT2wj2DfOq"
+    },
+    {
+      "album": {
+        "name": "Song Craft Season 1",
+        "url": "https://open.spotify.com/album/6cyCyVWsO3y369yadNqbmA"
+      },
+      "artists": [
+        {
+          "name": "Imran Khan Sitar",
+          "url": "https://open.spotify.com/artist/1UrxT8kr1FXLymiN3SWpEP"
+        },
+        {
+          "name": "Hariharan",
+          "url": "https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232618,
+      "name": "Naina Kamaal",
+      "url": "https://open.spotify.com/track/37oPANH2478NM6U2K5U2MU"
     },
     {
       "album": {
@@ -4215,6 +4259,24 @@
     },
     {
       "album": {
+        "name": "Song Craft Season 1",
+        "url": "https://open.spotify.com/album/6cyCyVWsO3y369yadNqbmA"
+      },
+      "artists": [
+        {
+          "name": "Imran Khan Sitar",
+          "url": "https://open.spotify.com/artist/1UrxT8kr1FXLymiN3SWpEP"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304094,
+      "name": "Ras Batiya",
+      "url": "https://open.spotify.com/track/2SdZ4JbsMSdOY67T9pIjkf"
+    },
+    {
+      "album": {
         "name": "Ras Ke Bhare",
         "url": "https://open.spotify.com/album/2zFQCsirZmXXl4qNNO55D9"
       },
@@ -5130,7 +5192,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 128541,
       "name": "Tose Naina",
       "url": "https://open.spotify.com/track/0mzRVNdWVjpgJIxY2gR2SD"

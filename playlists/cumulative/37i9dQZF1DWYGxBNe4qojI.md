@@ -2,9 +2,9 @@
 
 ### [I Love My East Coast Classics](https://open.spotify.com/playlist/37i9dQZF1DWYGxBNe4qojI)
 
-> Where it all started\. Cover: Ma$e
+> Where it all started\. Cover: The Roots
 
-191 songs - 13 hr 25 min
+192 songs - 13 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [Lost Ones](https://open.spotify.com/track/71XhXay6rKPZCVAaDtFlSR) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:33 | 2023-09-01 |  |
 | [Loungin \(Who Do Ya Luv\) \- Remix](https://open.spotify.com/track/0UN5OvKlbg06LnZyVk48ll) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC), [Total](https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7) | [Mr\. Smith \(Deluxe Edition\)](https://open.spotify.com/album/6b7NVGKHlwKyQzFKoVTaMA) | 3:49 | 2021-06-25 | 2024-02-20 |
 | [Luchini AKA This Is It](https://open.spotify.com/track/20DcrlNK0NcRknbX4wcEO4) | [Camp Lo](https://open.spotify.com/artist/4oLZx5FplbgfM8DEe9U8LB) | [Uptown Saturday Night](https://open.spotify.com/album/21EglTSwzUorpiXpMBNW2E) | 4:00 | 2022-01-31 | 2022-02-22 |
-| [Magic Stick](https://open.spotify.com/track/0aULRU35N9kTj6O1xMULRR) | [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [La Bella Mafia](https://open.spotify.com/album/6UlNLXBFLqRDiKnyrF4oDE) | 5:59 | 2023-09-28 |  |
+| [Magic Stick](https://open.spotify.com/track/0aULRU35N9kTj6O1xMULRR) | [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [La Bella Mafia](https://open.spotify.com/album/6UlNLXBFLqRDiKnyrF4oDE) | 5:59 | 2023-09-28 | 2024-02-24 |
 | [Many Men \(Wish Death\)](https://open.spotify.com/track/2I9foKseoFQh07p6sD2voE) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P) | 4:16 | 2022-01-31 |  |
 | [Mass Appeal](https://open.spotify.com/track/3lGBvPUgO7MJltUnBlOpe9) | [Gang Starr](https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ) | [Hard To Earn](https://open.spotify.com/album/67kl5m0df6Bn0aSe3g5Ea7) | 3:41 | 2021-06-25 | 2023-05-06 |
 | [Masta I.C.](https://open.spotify.com/track/3XmgQMloJfa6mhCi4D2tBn) | [Mic Geronimo](https://open.spotify.com/artist/3nLE33yBJ82QPWzvvqv7rE), [Royal Flush](https://open.spotify.com/artist/4ihZJgEVoshKe606OAK4xE) | [The Natural](https://open.spotify.com/album/6H6rN4w9PdLZrI9Wql5qUC) | 5:50 | 2022-02-21 | 2022-07-14 |
@@ -124,7 +124,7 @@
 | [Nuttin' But Love](https://open.spotify.com/track/43JSZNyRzLa3nD9W0hfD48) | [Heavy D & The Boyz](https://open.spotify.com/artist/4KHdmkq99PXA6QEJ2lKpA3) | [Nuttin' But Love](https://open.spotify.com/album/3WIm2cGDu6bRWAJDFhbgeK) | 3:33 | 2021-06-25 | 2022-02-22 |
 | [Oh Boy](https://open.spotify.com/track/4X1odWLrLSSahaK6Hi15AA) | [Cam'ron](https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS), [Juelz Santana](https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb) | [Come Home With Me](https://open.spotify.com/album/1lEkQcVvPwNZmkBIEJPSrv) | 3:24 | 2023-05-05 |  |
 | [Oh Boy](https://open.spotify.com/track/4gdQ8QShlC3toP9Mkc8DwB) | [Cam’ron](https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS), [Juelz Santana](https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb) | [Come Home With Me](https://open.spotify.com/album/4wn9wcP2D71SyiB7KbVKMy) | 3:24 | 2022-04-29 | 2023-05-03 |
-| [Oh My God \(feat\. Busta Rhymes\)](https://open.spotify.com/track/6FI3RJ58Ztl0X1VtA6pVs9) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [Midnight Marauders](https://open.spotify.com/album/4v5x3Oo3UjQ9YmF3hRAip5) | 3:28 | 2023-11-03 |  |
+| [Oh My God \(feat\. Busta Rhymes\)](https://open.spotify.com/track/6FI3RJ58Ztl0X1VtA6pVs9) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [Midnight Marauders](https://open.spotify.com/album/4v5x3Oo3UjQ9YmF3hRAip5) | 3:28 | 2023-11-03 | 2024-02-24 |
 | [One Mic](https://open.spotify.com/track/6MMuI4k4Vs5ghtDH5i2hBg) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Stillmatic](https://open.spotify.com/album/0cLzuJG2UDa0axMQkF7JR6) | 4:28 | 2022-01-07 | 2022-02-12 |
 | [Oochie Wally \- Remix](https://open.spotify.com/track/56DPW47j6NZnRye792oACa) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Bravehearts](https://open.spotify.com/artist/16HCiYXoNdjZDdKPaH03b8) | [The Essential Nas](https://open.spotify.com/album/2iCCHHtCaJkMJllROVYDGo) | 4:57 | 2021-06-25 | 2022-02-22 |
 | [P.I.M.P.](https://open.spotify.com/track/2D1hlMwWWXpkc3CZJ5U351) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P) | 4:09 | 2023-02-01 |  |
@@ -168,6 +168,7 @@
 | [Ten Crack Commandments \- 2014 Remaster](https://open.spotify.com/track/1Z7C8ClE8UEaH70jCCeJH2) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Life After Death \(2014 Remastered Edition\)](https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB) | 3:24 | 2022-03-24 | 2022-05-20 |
 | [The Choice Is Yours \(Revisited\)](https://open.spotify.com/track/4k9EkhkFZY8Bk41Qi0Ob7P) | [Black Sheep](https://open.spotify.com/artist/0NnCgUxhtWt1yBtpDyvFQf) | [A Wolf In Sheep's Clothing](https://open.spotify.com/album/4tIQR0m3PPwybQ32P256IO) | 4:03 | 2022-01-31 | 2022-02-10 |
 | [The Most Beautifullest Thing In This World](https://open.spotify.com/track/3tZQaOGFwlqkhxKOeVrH4V) | [Keith Murray](https://open.spotify.com/artist/2bwR166mSJEJrYJqfyust3) | [The Most Beautifullest Thing In This World](https://open.spotify.com/album/5u8aRMmlEApChzDlpm7qph) | 3:46 | 2022-02-21 | 2022-07-28 |
+| [The Next Movement](https://open.spotify.com/track/0NSYVDo4ryxNWln7TfEyex) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu), [DJ Jazzy Jeff](https://open.spotify.com/artist/3nmiIgeri4vEY7y0VpbsCn), [Jazzyfatnastees](https://open.spotify.com/artist/4o6gZFD9CkUCVzYqrDR3wV) | [Things Fall Apart](https://open.spotify.com/album/0qbl8aNaCUOvX8HGsZYLfh) | 4:10 | 2024-02-24 |  |
 | [The Rain \(Supa Dupa Fly\)](https://open.spotify.com/track/2WRzpLD8qDRrxMXc63E5WJ) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Supa Dupa Fly](https://open.spotify.com/album/6UkdyvPElK6JDkyeRClbI2) | 4:11 | 2021-06-25 | 2022-02-16 |
 | [The Roc \(Just Fire\)](https://open.spotify.com/track/0SYGpsMlXdLve9bMNFLnAf) | [Cam’ron](https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS), [Memphis Bleek](https://open.spotify.com/artist/4jWzNq3sdzSpqn7BnzvIKn), [Beanie Sigel](https://open.spotify.com/artist/0tCtGc5vt29zFZp6KXzN50) | [Come Home With Me](https://open.spotify.com/album/4wn9wcP2D71SyiB7KbVKMy) | 4:24 | 2022-04-29 | 2022-07-01 |
 | [The Shit is Real \- DJ Premier Remix](https://open.spotify.com/track/3Z5SGrdiqEBcCWKzPw2sii) | [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6) | [Jealous One's Envy](https://open.spotify.com/album/52wo63yrO3Cl4DPVGvDZVN) | 4:36 | 2022-02-21 | 2022-04-20 |
@@ -197,7 +198,7 @@
 | [Whutcha Want?](https://open.spotify.com/track/1Gr0pZcdhwKQCdOd7SMfK6) | [Nine](https://open.spotify.com/artist/0cnbaGjcH77bWAV1MgVSJh) | [Nine Livez](https://open.spotify.com/album/4KRslWiy03MSl4Ez22YlVb) | 4:34 | 2022-02-21 | 2022-06-28 |
 | [Woo Hah!! Got You All in Check](https://open.spotify.com/track/09WxJCWFMWAxTHBLLelpDS) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [The Coming](https://open.spotify.com/album/2wW0v9XWjEpUjOLpz5kJY8) | 4:31 | 2022-02-21 | 2023-05-08 |
 | [Work](https://open.spotify.com/track/1EiLrPd8JMTcQUr1aLEUKi) | [Gang Starr](https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ) | [Moment Of Truth](https://open.spotify.com/album/5f6Nz2v1DESbpu1NerEql2) | 2:57 | 2023-05-08 |  |
-| [You Got Me](https://open.spotify.com/track/4pdLZsxq0y5oJDb6Cxlokw) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu), [Tariq Trotter](https://open.spotify.com/artist/7i3os1iEWOn5UpaylRiMw5), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX), [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC) | [Things Fall Apart](https://open.spotify.com/album/0qbl8aNaCUOvX8HGsZYLfh) | 4:19 | 2021-06-25 | 2022-01-15 |
+| [You Got Me](https://open.spotify.com/track/4pdLZsxq0y5oJDb6Cxlokw) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu), [Tariq Trotter](https://open.spotify.com/artist/7i3os1iEWOn5UpaylRiMw5), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX), [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC) | [Things Fall Apart](https://open.spotify.com/album/0qbl8aNaCUOvX8HGsZYLfh) | 4:19 | 2021-06-25 |  |
 | [You Know My Steez](https://open.spotify.com/track/2C3QwVE5adFCVsCqayhPW7) | [Gang Starr](https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ) | [Moment Of Truth](https://open.spotify.com/album/5f6Nz2v1DESbpu1NerEql2) | 4:07 | 2023-05-08 | 2023-08-08 |
 
 \*This playlist was first scraped on 2022-01-13. Prior content cannot be recovered.

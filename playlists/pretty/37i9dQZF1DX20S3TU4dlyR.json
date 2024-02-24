@@ -1,12 +1,12 @@
 {
   "description": "Este es el Reggae, al sur del continente americano. Foto: Nonpalidece.",
-  "num_followers": 57975,
+  "num_followers": 57976,
   "original_name": "Reggae al Sur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNGM0ZGJhMGE1ZTY0NWNkMmM5NzIwNTZmODhlNTIwMGY5NDdjODI2",
+  "snapshot_id": "MCxhZjExNmExY2VhYTAyNjEzYWQwYWVjNGZjMWFiYjgyYjQyOTMyMjg5",
   "tracks": [
     {
       "added_at": "2024-02-15 20:30:34",
@@ -515,6 +515,22 @@
     {
       "added_at": "2024-02-15 20:30:34",
       "album": {
+        "name": "International Love",
+        "url": "https://open.spotify.com/album/6TfIPMw7QqgcTEL0sIMW48"
+      },
+      "artists": [
+        {
+          "name": "Fidel Nadal",
+          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
+        }
+      ],
+      "duration_ms": 297426,
+      "name": "Luz y Compa\u00f1\u00eda",
+      "url": "https://open.spotify.com/track/3Q0COFjoS7geL4ZrpmNNfB"
+    },
+    {
+      "added_at": "2024-02-15 20:30:34",
+      "album": {
         "name": "Donde Brilla el Sol",
         "url": "https://open.spotify.com/album/1zJ6d4lkzKbjSKdPW6CP4T"
       },
@@ -527,26 +543,6 @@
       "duration_ms": 248093,
       "name": "En Tus Manos",
       "url": "https://open.spotify.com/track/0IwS12JNt9V2Ur2eI09tpr"
-    },
-    {
-      "added_at": "2024-02-15 20:30:34",
-      "album": {
-        "name": "La Misi\u00f3n",
-        "url": "https://open.spotify.com/album/4IJ91JMRzDdHxIkphWCFko"
-      },
-      "artists": [
-        {
-          "name": "El Natty Combo",
-          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
-        },
-        {
-          "name": "Indio Solari",
-          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
-        }
-      ],
-      "duration_ms": 208212,
-      "name": "Cinco",
-      "url": "https://open.spotify.com/track/4D67AVNdClfZqEiwOsKtKP"
     },
     {
       "added_at": "2024-02-15 20:30:34",
@@ -583,18 +579,22 @@
     {
       "added_at": "2024-02-15 20:30:34",
       "album": {
-        "name": "International Love",
-        "url": "https://open.spotify.com/album/6TfIPMw7QqgcTEL0sIMW48"
+        "name": "La Misi\u00f3n",
+        "url": "https://open.spotify.com/album/4IJ91JMRzDdHxIkphWCFko"
       },
       "artists": [
         {
-          "name": "Fidel Nadal",
-          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
+          "name": "El Natty Combo",
+          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
+        },
+        {
+          "name": "Indio Solari",
+          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
         }
       ],
-      "duration_ms": 297426,
-      "name": "Luz y Compa\u00f1\u00eda",
-      "url": "https://open.spotify.com/track/3Q0COFjoS7geL4ZrpmNNfB"
+      "duration_ms": 208212,
+      "name": "Cinco",
+      "url": "https://open.spotify.com/track/4D67AVNdClfZqEiwOsKtKP"
     },
     {
       "added_at": "2024-02-15 20:30:34",
@@ -647,22 +647,6 @@
       "duration_ms": 247941,
       "name": "Runaway (En Vivo)",
       "url": "https://open.spotify.com/track/2PMSOgAP1A2TYbRqGCS9ak"
-    },
-    {
-      "added_at": "2024-02-15 20:30:34",
-      "album": {
-        "name": "El Sonido Real",
-        "url": "https://open.spotify.com/album/0ny4vJH3LRvW8AjTotkY4A"
-      },
-      "artists": [
-        {
-          "name": "El Natty Combo",
-          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
-        }
-      ],
-      "duration_ms": 385560,
-      "name": "Mi Sol",
-      "url": "https://open.spotify.com/track/6yHfT8zwc1YOJ5FLNOiWzK"
     },
     {
       "added_at": "2024-02-15 20:30:34",
@@ -743,6 +727,22 @@
     {
       "added_at": "2024-02-15 20:30:34",
       "album": {
+        "name": "El Sonido Real",
+        "url": "https://open.spotify.com/album/0ny4vJH3LRvW8AjTotkY4A"
+      },
+      "artists": [
+        {
+          "name": "El Natty Combo",
+          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
+        }
+      ],
+      "duration_ms": 385560,
+      "name": "Mi Sol",
+      "url": "https://open.spotify.com/track/6yHfT8zwc1YOJ5FLNOiWzK"
+    },
+    {
+      "added_at": "2024-02-15 20:30:34",
+      "album": {
         "name": "Ahora Lo S\u00e9",
         "url": "https://open.spotify.com/album/68PtNir6GWJ4H09eIbOSPC"
       },
@@ -759,22 +759,18 @@
     {
       "added_at": "2024-02-15 20:30:34",
       "album": {
-        "name": "Al o\u00edrla cantar",
-        "url": "https://open.spotify.com/album/5fk1Gz6X5cPaFm9Yipm75h"
+        "name": "Bahiano BH+",
+        "url": "https://open.spotify.com/album/395z1bmOgVL9hz71ajyXSj"
       },
       "artists": [
         {
-          "name": "Ezequiel Borra",
-          "url": "https://open.spotify.com/artist/0SzGHC9KInmae0WJoM4aon"
-        },
-        {
-          "name": "Alex Serra",
-          "url": "https://open.spotify.com/artist/3iUmseZo1IoMlJvhjxPy4r"
+          "name": "Bahiano",
+          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
         }
       ],
-      "duration_ms": 336330,
-      "name": "Al o\u00edrla cantar",
-      "url": "https://open.spotify.com/track/1GmzUjLKmccC28IAMFhW1t"
+      "duration_ms": 188933,
+      "name": "Oyelo",
+      "url": "https://open.spotify.com/track/4MI8GKRUQ14JrZuZGW0Uiy"
     },
     {
       "added_at": "2024-02-15 20:30:34",
@@ -811,18 +807,22 @@
     {
       "added_at": "2024-02-15 20:30:34",
       "album": {
-        "name": "Bahiano BH+",
-        "url": "https://open.spotify.com/album/395z1bmOgVL9hz71ajyXSj"
+        "name": "Al o\u00edrla cantar",
+        "url": "https://open.spotify.com/album/5fk1Gz6X5cPaFm9Yipm75h"
       },
       "artists": [
         {
-          "name": "Bahiano",
-          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
+          "name": "Ezequiel Borra",
+          "url": "https://open.spotify.com/artist/0SzGHC9KInmae0WJoM4aon"
+        },
+        {
+          "name": "Alex Serra",
+          "url": "https://open.spotify.com/artist/3iUmseZo1IoMlJvhjxPy4r"
         }
       ],
-      "duration_ms": 188933,
-      "name": "Oyelo",
-      "url": "https://open.spotify.com/track/4MI8GKRUQ14JrZuZGW0Uiy"
+      "duration_ms": 336330,
+      "name": "Al o\u00edrla cantar",
+      "url": "https://open.spotify.com/track/1GmzUjLKmccC28IAMFhW1t"
     },
     {
       "added_at": "2024-02-15 20:30:34",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-02-15 20:30:34",
       "album": {
-        "name": "Normal",
-        "url": "https://open.spotify.com/album/4TDHPkZFHmvX2NM5S6y73c"
-      },
-      "artists": [
-        {
-          "name": "Laguna Pai",
-          "url": "https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS"
-        }
-      ],
-      "duration_ms": 267983,
-      "name": "Normal",
-      "url": "https://open.spotify.com/track/7coiBABUHNhnrtwartgZyV"
-    },
-    {
-      "added_at": "2024-02-15 20:30:34",
-      "album": {
         "name": "Radiante",
         "url": "https://open.spotify.com/album/7yIFVoRj5P8Tkgcebc1KGC"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 189806,
       "name": "Mi Dulce Amor",
       "url": "https://open.spotify.com/track/58c0vA53oFYJVppKfZlYXY"
+    },
+    {
+      "added_at": "2024-02-15 20:30:34",
+      "album": {
+        "name": "Normal",
+        "url": "https://open.spotify.com/album/4TDHPkZFHmvX2NM5S6y73c"
+      },
+      "artists": [
+        {
+          "name": "Laguna Pai",
+          "url": "https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS"
+        }
+      ],
+      "duration_ms": 267983,
+      "name": "Normal",
+      "url": "https://open.spotify.com/track/7coiBABUHNhnrtwartgZyV"
     },
     {
       "added_at": "2024-02-15 20:30:34",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-02-15 20:30:34",
       "album": {
-        "name": "Bahiano BH+",
-        "url": "https://open.spotify.com/album/395z1bmOgVL9hz71ajyXSj"
-      },
-      "artists": [
-        {
-          "name": "Bahiano",
-          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
-        }
-      ],
-      "duration_ms": 260266,
-      "name": "No Mires Atras",
-      "url": "https://open.spotify.com/track/5p1tfHJsagO1inTgmiW7Sk"
-    },
-    {
-      "added_at": "2024-02-15 20:30:34",
-      "album": {
         "name": "La Tierra del Desencanto",
         "url": "https://open.spotify.com/album/76rP6tPR6Jo8gjodM4teJn"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 249542,
       "name": "La Tierra del Desencanto",
       "url": "https://open.spotify.com/track/2ySXNfWahYbD6Y2s33watc"
+    },
+    {
+      "added_at": "2024-02-15 20:30:34",
+      "album": {
+        "name": "Bahiano BH+",
+        "url": "https://open.spotify.com/album/395z1bmOgVL9hz71ajyXSj"
+      },
+      "artists": [
+        {
+          "name": "Bahiano",
+          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
+        }
+      ],
+      "duration_ms": 260266,
+      "name": "No Mires Atras",
+      "url": "https://open.spotify.com/track/5p1tfHJsagO1inTgmiW7Sk"
     },
     {
       "added_at": "2024-02-15 20:30:34",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-02-15 20:30:34",
       "album": {
-        "name": "Amor De Barrio",
-        "url": "https://open.spotify.com/album/2LvjJW52h7wcohlk5hvGCj"
-      },
-      "artists": [
-        {
-          "name": "Leonchalon",
-          "url": "https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0"
-        }
-      ],
-      "duration_ms": 267666,
-      "name": "Lo Que Dicta El Tiempo",
-      "url": "https://open.spotify.com/track/5kSkRMrl8p1w63pybLjg0S"
-    },
-    {
-      "added_at": "2024-02-15 20:30:34",
-      "album": {
         "name": "\u00bfQMH?",
         "url": "https://open.spotify.com/album/0BRoR8Gmw9rtBWE7BhGYT3"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 213000,
       "name": "\u00bfQMH?",
       "url": "https://open.spotify.com/track/1oC1UuwAokzHio2IEFTfRP"
+    },
+    {
+      "added_at": "2024-02-15 20:30:34",
+      "album": {
+        "name": "Amor De Barrio",
+        "url": "https://open.spotify.com/album/2LvjJW52h7wcohlk5hvGCj"
+      },
+      "artists": [
+        {
+          "name": "Leonchalon",
+          "url": "https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0"
+        }
+      ],
+      "duration_ms": 267666,
+      "name": "Lo Que Dicta El Tiempo",
+      "url": "https://open.spotify.com/track/5kSkRMrl8p1w63pybLjg0S"
     },
     {
       "added_at": "2024-02-15 20:30:34",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2024-02-15 20:30:34",
       "album": {
-        "name": "El Gran Poder, Vol. 2",
-        "url": "https://open.spotify.com/album/34ei7ktYVRfNWrjvmqhR7U"
-      },
-      "artists": [
-        {
-          "name": "Karamelo Santo",
-          "url": "https://open.spotify.com/artist/609ifGTYnL9iOfPI5KIzq1"
-        }
-      ],
-      "duration_ms": 215083,
-      "name": "La Ventanita",
-      "url": "https://open.spotify.com/track/5xTJCta6EUo8YsTlxuGPmz"
-    },
-    {
-      "added_at": "2024-02-15 20:30:34",
-      "album": {
         "name": "Tenia Tanto Para Darte",
         "url": "https://open.spotify.com/album/43pSNKPzm4MTPmqbgzc96B"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 263144,
       "name": "Tenia Tanto Para Darte",
       "url": "https://open.spotify.com/track/5qrhqH8hLTSKD7kWBBPLSb"
+    },
+    {
+      "added_at": "2024-02-15 20:30:34",
+      "album": {
+        "name": "El Gran Poder, Vol. 2",
+        "url": "https://open.spotify.com/album/34ei7ktYVRfNWrjvmqhR7U"
+      },
+      "artists": [
+        {
+          "name": "Karamelo Santo",
+          "url": "https://open.spotify.com/artist/609ifGTYnL9iOfPI5KIzq1"
+        }
+      ],
+      "duration_ms": 215083,
+      "name": "La Ventanita",
+      "url": "https://open.spotify.com/track/5xTJCta6EUo8YsTlxuGPmz"
     },
     {
       "added_at": "2024-02-15 20:30:34",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2024-02-15 20:30:34",
       "album": {
-        "name": "En Vivo Teatro Caupolic\u00e1n",
-        "url": "https://open.spotify.com/album/30XuoYBnW180J7KY2y7OKA"
-      },
-      "artists": [
-        {
-          "name": "Gondwana",
-          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
-        }
-      ],
-      "duration_ms": 251567,
-      "name": "Volver a Sentir - En Vivo en el Teatro Caupolic\u00e1n",
-      "url": "https://open.spotify.com/track/5fj6aJG4nlcFpOBLrotZ67"
-    },
-    {
-      "added_at": "2024-02-15 20:30:34",
-      "album": {
         "name": "Liberaci\u00f3n",
         "url": "https://open.spotify.com/album/6f4GpIJ3krZEEVCxGNQLi1"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 171013,
       "name": "Nada Que Me Venga Mal",
       "url": "https://open.spotify.com/track/3mCh5KP0yBG8j3ZKN32HBo"
+    },
+    {
+      "added_at": "2024-02-15 20:30:34",
+      "album": {
+        "name": "En Vivo Teatro Caupolic\u00e1n",
+        "url": "https://open.spotify.com/album/30XuoYBnW180J7KY2y7OKA"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "duration_ms": 251567,
+      "name": "Volver a Sentir - En Vivo en el Teatro Caupolic\u00e1n",
+      "url": "https://open.spotify.com/track/5fj6aJG4nlcFpOBLrotZ67"
     }
   ],
   "unique_name": "Reggae al Sur",

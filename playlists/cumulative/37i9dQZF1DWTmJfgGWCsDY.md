@@ -4,7 +4,7 @@
 
 > This is Singeli\. High energy dance music echoing throughout the streets of Tanzania
 
-93 songs - 6 hr 34 min
+94 songs - 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Nimekuona Wewe](https://open.spotify.com/track/5PBSEww6tZGRO2rw4pxIJI) | [Tamimu](https://open.spotify.com/artist/1tjcmVIRIiOUmnE9Yu4L1k) | [Nimekuona Wewe](https://open.spotify.com/album/5I6OqXRV878FRPHrVcWJho) | 4:46 | 2023-12-08 |  |
 | [Nimempost \- Remix](https://open.spotify.com/track/65bXqAf2Vz6NUK19RkBmZ1) | [Kidene Fighter](https://open.spotify.com/artist/0ZIPH3FhzJYTmCMlZiSrLA), [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md) | [Nimempost \(Remix\)](https://open.spotify.com/album/2V5WxJD56nKXtyZWLwue2T) | 3:59 | 2024-01-11 |  |
 | [NINAASILA](https://open.spotify.com/track/6EyFCSjskAxCdtUartv446) | [Duke](https://open.spotify.com/artist/6DnyyK1TL0Lbfrvwz9zeLc), [Kibo Travella](https://open.spotify.com/artist/0LWlOhbVzbmoHTTi4sot50), [Mczo](https://open.spotify.com/artist/1zJfEzj4ITRmpkkAa208Su) | [Pamoja V Sisso \(Singeli Sound\)](https://open.spotify.com/album/0Owu6KAD2puOplJsCeRoSk) | 3:54 | 2022-11-07 |  |
+| [Nipe Yote](https://open.spotify.com/track/66tSHosgzvekiYWSoeXHQb) | [Navolee](https://open.spotify.com/artist/1W9LBS4eawmmTE7ruqPQqk), [DEELUCK](https://open.spotify.com/artist/5odFUtD7qO3YVNtxxpMuEr) | [Nipe Yote](https://open.spotify.com/album/1Gp6jBoZ1JogtoSSVWUVQt) | 3:26 | 2024-02-23 |  |
 | [Niwataje](https://open.spotify.com/track/6tuzK14AAS6pZO6KsDitIy) | [Mkojani](https://open.spotify.com/artist/7jZAgLdoUU9mA8lQIGDI9U), [Kai Music](https://open.spotify.com/artist/0evTkA4rvITtue34dZbQvl) | [Niwataje](https://open.spotify.com/album/7l3NJQr1fIaCg0vgyDnpCI) | 3:31 | 2024-01-26 |  |
 | [Niwataje](https://open.spotify.com/track/7qPJAWnwWTDp5jIe7OXbBP) | [Mkojani](https://open.spotify.com/artist/7jZAgLdoUU9mA8lQIGDI9U), [Kai Music](https://open.spotify.com/artist/2q1hVslf2JFLRjiqobuHy6) | [Niwataje](https://open.spotify.com/album/5SKtdBUN7j9rFCtC1cv2ed) | 3:31 | 2022-08-05 | 2024-01-31 |
 | [Nyumba Ndogo](https://open.spotify.com/track/1GAmhYpbEPorhkSOecnVqj) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Nyumba Ndogo](https://open.spotify.com/album/3X3LJtY2Y3FVpZfWxTGbGb) | 4:01 | 2022-08-05 |  |
@@ -93,7 +94,7 @@
 | [Umekopwa](https://open.spotify.com/track/2n7tGYrsfxxMTfdUFpaokG) | [MABANTU](https://open.spotify.com/artist/41d5wDbsNkjpFaRI7jUHl8), [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm) | [Umekopwa](https://open.spotify.com/album/2Kp8OjPf5MXnFVwddqNy8X) | 4:43 | 2022-08-05 |  |
 | [Uongo](https://open.spotify.com/track/16JJwqUJhPReA1WRryem9G) | [Man Fongo](https://open.spotify.com/artist/38ropMxF0HdRPvyMDxyJr4) | [Uongo](https://open.spotify.com/album/3zJcPM1wtoVJyoFh5L94vi) | 3:26 | 2023-04-14 |  |
 | [Upwii](https://open.spotify.com/track/5UI00Ic2qjPZLEdJEBLDKH) | [Kadilida](https://open.spotify.com/artist/3IQ6Cq1KB09iPoMzMdWihN), [Mkataba Mc](https://open.spotify.com/artist/4X3L1Yra9ZOdfnMEm7URz3) | [Upwii](https://open.spotify.com/album/7DBI9S96GzWRWBHCgh9LTJ) | 3:07 | 2024-01-26 |  |
-| [Uroda](https://open.spotify.com/track/1Lp86p4MRUMR0DmimDBr7w) | [Kadilida](https://open.spotify.com/artist/3IQ6Cq1KB09iPoMzMdWihN), [Sammy Donnar](https://open.spotify.com/artist/0kIZyUX6qkSPclKox24eMh) | [Uroda](https://open.spotify.com/album/6Li6670qH4HxtF9nzgIc3C) | 3:35 | 2023-06-01 |  |
+| [Uroda](https://open.spotify.com/track/1Lp86p4MRUMR0DmimDBr7w) | [Kadilida](https://open.spotify.com/artist/3IQ6Cq1KB09iPoMzMdWihN), [Sammy Donnar](https://open.spotify.com/artist/0kIZyUX6qkSPclKox24eMh) | [Uroda](https://open.spotify.com/album/6Li6670qH4HxtF9nzgIc3C) | 3:35 | 2023-06-01 | 2024-02-24 |
 | [UTAMUWA BAKHRESA](https://open.spotify.com/track/74HglmIg7y0TUS58psjEiV) | [Dogo Elisha](https://open.spotify.com/artist/5CG6UhfNKkswvBkUwQ5P13) | [UTAMUWA BAKHRESA](https://open.spotify.com/album/3vyVWtIN7RBXVL7ajiDyHc) | 4:37 | 2023-06-30 |  |
 | [Viburi](https://open.spotify.com/track/6k8dSOc6SYlAfkEhdBzhe9) | [Sholo Mwamba](https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T), [Chief Becka](https://open.spotify.com/artist/34OrNiTDCk4SHF4XUAdsv6) | [Viburi](https://open.spotify.com/album/6cCYWRF4Ye9Kva0iVcK3pk) | 3:21 | 2022-08-05 |  |
 | [Wanga](https://open.spotify.com/track/43LURXlVucl8rSjA8zRjuk) | [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku), [Lava Lava](https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd) | [Wanga](https://open.spotify.com/album/4J7iQKFw84STrI3YKSTTpx) | 4:04 | 2022-08-05 |  |

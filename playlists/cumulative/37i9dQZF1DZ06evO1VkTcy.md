@@ -4,7 +4,7 @@
 
 > This is Lourena\. The essential tracks, all in one playlist.
 
-51 songs - 3 hr 32 min
+52 songs - 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [O Agora](https://open.spotify.com/track/2h3rxJbIftSJCyIvae7rCU) | [Morcego](https://open.spotify.com/artist/5CEDufbycfPy95Z6lyZC81), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Dj Codi](https://open.spotify.com/artist/4IIg5uCfev53fphH0r69Qv) | [O Agora](https://open.spotify.com/album/2WWfpmd4ixsB2plCwPRsmC) | 3:14 | 2023-12-30 |  |
 | [O Mundo Parou](https://open.spotify.com/track/6qXQLRHwGMpocPeVvHzG11) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Haga](https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o) | [O Mundo Parou](https://open.spotify.com/album/1WB7QHhc876rkNBgJBo1oU) | 3:43 | 2023-12-30 |  |
 | [O Seu Grande Amor](https://open.spotify.com/track/5dCHsx2BfXrBUrByaLeBqq) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Haga](https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o) | [O Seu Grande Amor](https://open.spotify.com/album/4Vxv79QNhSASp4hodVNKJS) | 3:31 | 2023-12-30 |  |
+| [OLHAR HD](https://open.spotify.com/track/0MKn146xdKs9Gnwtkfl0fB) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm) | [Olhar HD](https://open.spotify.com/album/5eAdKrXdGOxJEMmL1gucTv) | 2:47 | 2024-02-23 |  |
 | [Outro Dia](https://open.spotify.com/track/10cGYECUNpFbVCZUMLGP5r) | [A Banca Records](https://open.spotify.com/artist/0Do6bAo2kcVLp7ekzypskJ), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Mazin](https://open.spotify.com/artist/7HfzPKhDGOQMVTbRrDY8Te), [Black](https://open.spotify.com/artist/2UzbrOSDiSjcLFN8wZ4bz2) | [Outro Dia](https://open.spotify.com/album/4OpLG18GdHYN3FamTxiP5o) | 3:52 | 2023-12-30 |  |
 | [Plano Perfeito](https://open.spotify.com/track/0pihhHbzZ3EhrQj2brZpep) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Haga](https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL) | [Plano Perfeito](https://open.spotify.com/album/3r50qLuSjGVwtSBCAmcRx2) | 3:11 | 2023-12-30 |  |
 | [Poesia Acústica \#9: Melhor Forma](https://open.spotify.com/track/2fmeSswdyVq4wcqhY41UHk) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Cesar Mc](https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0) | [Poesia Acústica \#9: Melhor Forma](https://open.spotify.com/album/6drqaBLJWKqoNlKvOQeBTm) | 10:11 | 2023-12-30 |  |

@@ -4,7 +4,7 @@
 
 > The best new songs from modern singer\-songwriters\. Cover: Adrianne Lenker
 
-450 songs - 1 day 1 hr 48 min
+451 songs - 1 day 1 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -296,7 +296,7 @@
 | [My Poor Heart](https://open.spotify.com/track/35sxY7FLwJtPWgluqf2bed) | [Andrew Belle](https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY) | [My Poor Heart](https://open.spotify.com/album/0da1R9Vs5FczHHXhitvPIC) | 3:34 | 2021-11-19 | 2022-03-11 |
 | [Nelsonwood Lane](https://open.spotify.com/track/1QmQ7HxnIvyMKbBb9yOaJG) | [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn) | [Nelsonwood Lane](https://open.spotify.com/album/4nzDUFrh7kKSbYccTixKdB) | 4:28 | 2021-11-19 | 2022-03-07 |
 | [Never Learned To Dance](https://open.spotify.com/track/6Q91XsqLpcBOK71BsCNl3U) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Never Learned To Dance](https://open.spotify.com/album/15DLC8piIZiAbi5g5tfOHG) | 3:44 | 2023-10-27 |  |
-| [New To This Town](https://open.spotify.com/track/0JdZtf4uTCwBnJ4i7eJ5N8) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [My Stupid Life](https://open.spotify.com/album/3pWiHbMUEcxA0TjNW1Ipb3) | 2:14 | 2024-01-19 |  |
+| [New To This Town](https://open.spotify.com/track/0JdZtf4uTCwBnJ4i7eJ5N8) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [My Stupid Life](https://open.spotify.com/album/3pWiHbMUEcxA0TjNW1Ipb3) | 2:14 | 2024-01-19 | 2024-02-24 |
 | [New Year's Eve](https://open.spotify.com/track/48CsqwyVQ5M3NnSveaPl4E) | [Deni](https://open.spotify.com/artist/7lTLr5dKz80VDRCN1tL3Sx) | [New Year's Eve](https://open.spotify.com/album/7nLTSqXG6ai5A8yPskpHwL) | 2:52 | 2022-01-21 | 2022-02-17 |
 | [New York](https://open.spotify.com/track/235mWaTu830G0ldfqES9dJ) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [New York](https://open.spotify.com/album/5wCzmTcZCedAueCDuH9USU) | 3:19 | 2024-01-12 | 2024-02-03 |
 | [Nights Like This](https://open.spotify.com/track/41UhyBzOfsI1mqBviJq6AN) | [Josh Golden](https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda) | [Nights Like This](https://open.spotify.com/album/5GuZOIH7CAgK0WrPIn5uAi) | 2:22 | 2021-12-13 | 2022-06-29 |
@@ -395,6 +395,7 @@
 | [The Man](https://open.spotify.com/track/5nhEyOUHbPrKfjOGpadH9M) | [gigi](https://open.spotify.com/artist/3FVGHhoCQxw0fmNhRMhmOT) | [The Man](https://open.spotify.com/album/3ezfgB0YGKjCMLn01IO7ae) | 3:47 | 2022-06-08 | 2022-07-29 |
 | [The Man Who Sees Tomorrow](https://open.spotify.com/track/3tML0isKJJ3DJUQKcm3L0e) | [Uwade](https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL) | [The Man Who Sees Tomorrow / Lodarore](https://open.spotify.com/album/6wEU7UQkhZSuLZLdVt2ypQ) | 3:31 | 2021-11-19 | 2023-07-01 |
 | [The Real Thing](https://open.spotify.com/track/3hDIkJvUCJIeDFLaBwfGCX) | [Ron Pope](https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O) | [The Real Thing](https://open.spotify.com/album/7qgdjLl3FZMTnLFm7l8agU) | 3:21 | 2023-04-05 | 2023-05-21 |
+| [The Trek](https://open.spotify.com/track/5P4Uaj4mKQpkZYRyt5ceMC) | [Hans Williams](https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj) | [The Trek](https://open.spotify.com/album/71QLGDfkyZqoN8U9LTDmYj) | 4:42 | 2024-02-23 |  |
 | [The Usual](https://open.spotify.com/track/13GDcQRwrRwMxa9s774D9X) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Homework](https://open.spotify.com/album/0bfTjB1kRloRZt6LWJYj6t) | 3:32 | 2021-11-19 | 2022-05-16 |
 | [The Vase](https://open.spotify.com/track/4EkQb1LbbJhuq0znGXwlXk) | [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj) | [The Vase](https://open.spotify.com/album/21kQ2axzzk4oYTqnEyhPpC) | 3:40 | 2023-09-15 | 2023-09-23 |
 | [The Walls Are Way Too Thin](https://open.spotify.com/track/7b7wO3Je7i2HhyipNhcs1u) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [The Walls Are Way Too Thin](https://open.spotify.com/album/3fnXTtLgkjHv2HmqOODSW8) | 3:41 | 2021-11-19 |  |

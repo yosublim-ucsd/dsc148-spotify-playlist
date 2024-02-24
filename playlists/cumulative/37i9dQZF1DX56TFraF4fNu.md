@@ -4,7 +4,7 @@
 
 > Dosis musical para disfrutar el momento\. Foto: Kei Linch
 
-142 songs - 7 hr 25 min
+143 songs - 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [12x3](https://open.spotify.com/track/0HINQFSerZ6iMfSsaTO3G5) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [12x3](https://open.spotify.com/album/2yTsZhJ86LtD1hvl8wSRPr) | 2:39 | 2023-03-31 | 2023-07-22 |
 | [12x3](https://open.spotify.com/track/1k94CNfVliqDs0qYhkG8iV) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [DEKKOLETERA 333](https://open.spotify.com/album/12gXwHN7MFHNc48utTmuGM) | 2:39 | 2023-09-01 |  |
 | [12x3](https://open.spotify.com/track/5LHY5MPg9gXJwXrClz9aOx) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [12x3](https://open.spotify.com/album/147xADbDjtokOLVyNfg6Pp) | 2:39 | 2023-07-21 | 2023-09-02 |
+| [A Solas](https://open.spotify.com/track/6UQrzoN3uVRmS1kXpkcjtI) | [Juan Sinatra](https://open.spotify.com/artist/7k1jHUZ4OqRGJcOjCQu28Y) | [A Solas](https://open.spotify.com/album/3jGg8lgUeNP74f9kyULRKr) | 2:56 | 2024-02-23 |  |
 | [Afuera Arde](https://open.spotify.com/track/5NMZbDgtEWmxFd70YCV8bj) | [Rap Bang Club](https://open.spotify.com/artist/0cRHRB8jrBv74aDfyXQPrd), [Teddy Coldcuts](https://open.spotify.com/artist/7ojh0jV8kpQ9aGNSVElv1e) | [Afuera Arde](https://open.spotify.com/album/25f1tMgxQVCP5I3DWWiskE) | 3:00 | 2023-06-23 | 2023-09-23 |
 | [Aguacero](https://open.spotify.com/track/2uflssWlCaJ6CbTMOsUpNI) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:30 | 2023-03-31 |  |
 | [Akapellah Hotline: Cobuz & Bustta](https://open.spotify.com/track/2WXPCiwCzoH71JESAImTKE) | [Cobuz & Bustta](https://open.spotify.com/artist/3IpCt5oIfvR2qlkuoCoGYU), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [Akapellah Hotline: Cobuz & Bustta](https://open.spotify.com/album/1B0ue14v9AHXSYloaqeMDM) | 2:49 | 2023-06-23 | 2023-09-30 |
@@ -42,7 +43,7 @@
 | [Carita Linda](https://open.spotify.com/track/4xWJF4R96jAOpKJ1epgb1V) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [Carita Linda](https://open.spotify.com/album/1jUiXH21xkPzuRFI6Cghxu) | 3:19 | 2023-03-31 | 2023-07-22 |
 | [CHOLAO](https://open.spotify.com/track/6xKlwlSZg8QLcB2Rqt7GJe) | [Dawer X Damper](https://open.spotify.com/artist/4OGeO4jU4OMK0kWh69UhtY), [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [CHOLAO](https://open.spotify.com/album/608gBIUYFg215UiVKSd2cY) | 3:04 | 2023-04-14 | 2023-06-24 |
 | [CHÉVERE](https://open.spotify.com/track/6aKTId77qaIrzo82M51eqm) | [Ruzto](https://open.spotify.com/artist/5Ti7e3WlCPPlcsZfxqtzTo), [Soul AM](https://open.spotify.com/artist/6ppLSXJZysRO3LBrlJIVuA) | [CHÉVERE](https://open.spotify.com/album/1UHDzDHdvndCypdFrudyGY) | 2:26 | 2023-12-22 |  |
-| [Ciclorama Sesh Cap.1: VEINTICUATROSIETE](https://open.spotify.com/track/6hGXkEAZG7snVAnCvKXqMC) | [Thyan V](https://open.spotify.com/artist/4flNO0lNvXAJmzZpWTvXzb), [PARDOPARDO](https://open.spotify.com/artist/4jK6qJJ6s34BziEutGFMra) | [Ciclorama Sesh Cap.1: VEINTICUATROSIETE](https://open.spotify.com/album/3NiQrio2pjdQMHWmh9ka5y) | 2:22 | 2024-02-09 |  |
+| [Ciclorama Sesh Cap.1: VEINTICUATROSIETE](https://open.spotify.com/track/6hGXkEAZG7snVAnCvKXqMC) | [Thyan V](https://open.spotify.com/artist/4flNO0lNvXAJmzZpWTvXzb), [PARDOPARDO](https://open.spotify.com/artist/4jK6qJJ6s34BziEutGFMra) | [Ciclorama Sesh Cap.1: VEINTICUATROSIETE](https://open.spotify.com/album/3NiQrio2pjdQMHWmh9ka5y) | 2:22 | 2024-02-09 | 2024-02-24 |
 | [Curvas](https://open.spotify.com/track/6TO05VYYHCkZpy0V1XVOdI) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ), [Claruz](https://open.spotify.com/artist/5NtQw3vT27cspk8K7krlJv), [Floyd](https://open.spotify.com/artist/4yURrK9HEczFPGPya2yBu2) | [Curvas](https://open.spotify.com/album/4epp2PoR2TdOkYN90EG1MT) | 2:48 | 2023-03-31 | 2023-06-24 |
 | [DATO](https://open.spotify.com/track/0ozwTzKygVOJpcaKp33GYW) | [LOS MENOR3S](https://open.spotify.com/artist/4FkBhfL2GQLkwBwV6qNhOQ) | [DATO](https://open.spotify.com/album/25ubBFmFOhFErGphiP72Gy) | 2:53 | 2024-01-26 |  |
 | [De 0 a Siempre](https://open.spotify.com/track/1qxwayGaQN4roLdX5L9pM6) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [De 0 a Siempre](https://open.spotify.com/album/2s8Wgg7X68n41ZGuwTmqjd) | 4:08 | 2023-03-31 | 2023-07-08 |

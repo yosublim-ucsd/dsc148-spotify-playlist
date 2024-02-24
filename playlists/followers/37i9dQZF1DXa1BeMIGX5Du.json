@@ -1,5 +1,5 @@
 {
-  "2024-02-23": 542093,
+  "2024-02-24": 542239,
   "date_first_scraped": "2022-04-14",
   "description": "The perfectly brewed cup, the perfect songs to match. Your happy place is right here.",
   "name": "Coffee + Chill",
@@ -147,6 +147,24 @@
       "duration_ms": 223723,
       "name": "Blame The Moon",
       "url": "https://open.spotify.com/track/3p1kSUxsCux5Zf1CeKxpqh"
+    },
+    {
+      "album": {
+        "name": "Blue Lake",
+        "url": "https://open.spotify.com/album/1lIuk3A9M7YmA8RVNhdXkO"
+      },
+      "artists": [
+        {
+          "name": "Rod Coote",
+          "url": "https://open.spotify.com/artist/5xifoiBHJPatPhtG96G1ck"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177851,
+      "name": "Blue Lake",
+      "url": "https://open.spotify.com/track/7CvKEtfHFgxKxzsfHpxsZc"
     },
     {
       "album": {
@@ -555,7 +573,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 250226,
       "name": "Delusional",
       "url": "https://open.spotify.com/track/1ZuT3WXc8VkSxGTGY9Pm4g"
@@ -1324,6 +1342,24 @@
     },
     {
       "album": {
+        "name": "L.A.B VI",
+        "url": "https://open.spotify.com/album/2GgCCAXEdgHQOTlVvyQpfE"
+      },
+      "artists": [
+        {
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254920,
+      "name": "Give Me That Feeling",
+      "url": "https://open.spotify.com/track/77uJm6AgWF6Esf60O9LAU1"
+    },
+    {
+      "album": {
         "name": "Good Enough",
         "url": "https://open.spotify.com/album/1ThEPBGdF3IYzkZwnTlBW4"
       },
@@ -1468,6 +1504,24 @@
     },
     {
       "album": {
+        "name": "How to Forget",
+        "url": "https://open.spotify.com/album/3MYJWD831kp1HuvlBCE61X"
+      },
+      "artists": [
+        {
+          "name": "Husky",
+          "url": "https://open.spotify.com/artist/47nuMLurQsLP1gLK7gJtis"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234310,
+      "name": "How to Forget",
+      "url": "https://open.spotify.com/track/5E7ShoQeHx2WoEa5uFwRWW"
+    },
+    {
+      "album": {
         "name": "Collected Bedroom Recordings",
         "url": "https://open.spotify.com/album/3yRmxOWxltyq2TovuNjXKB"
       },
@@ -1591,6 +1645,28 @@
       "duration_ms": 184638,
       "name": "IDK You Yet",
       "url": "https://open.spotify.com/track/47EWMOElkkbMp5m9SBkx7d"
+    },
+    {
+      "album": {
+        "name": "Indefinitely",
+        "url": "https://open.spotify.com/album/48EF4G8KMMc2Ed23LgjahS"
+      },
+      "artists": [
+        {
+          "name": "Riley Pearce",
+          "url": "https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg"
+        },
+        {
+          "name": "Liang Lawrence",
+          "url": "https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218805,
+      "name": "Indefinitely",
+      "url": "https://open.spotify.com/track/60qDNmGSb59JgfRKrDZmSg"
     },
     {
       "album": {
@@ -1807,7 +1883,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 231299,
       "name": "Laundromat",
       "url": "https://open.spotify.com/track/2o9DXPraX3X5Z1vZNAL1Q6"
@@ -1949,7 +2025,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 202106,
       "name": "Light Years",
       "url": "https://open.spotify.com/track/37h2XJarKWKsd3lLTTIVW4"
@@ -2321,7 +2397,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 238346,
       "name": "Pictures",
       "url": "https://open.spotify.com/track/4qkgQT5rV2aNAnMw7kTmvW"
@@ -2383,6 +2459,24 @@
       "duration_ms": 272346,
       "name": "San Luis",
       "url": "https://open.spotify.com/track/7gDNQLV9cr8449LFrQbk5J"
+    },
+    {
+      "album": {
+        "name": "See You Soon",
+        "url": "https://open.spotify.com/album/3RnZzFLaoswdse4TKBEmmH"
+      },
+      "artists": [
+        {
+          "name": "Hollow Coves",
+          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194586,
+      "name": "See You Soon",
+      "url": "https://open.spotify.com/track/6J0iDtlXabHqZizUKWUAX8"
     },
     {
       "album": {
@@ -3317,7 +3411,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 233391,
       "name": "White Water",
       "url": "https://open.spotify.com/track/5dmrLolEgTr4TT0AhOxk5x"

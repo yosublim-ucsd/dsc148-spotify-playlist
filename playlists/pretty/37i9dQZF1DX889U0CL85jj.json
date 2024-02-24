@@ -1,13 +1,29 @@
 {
   "description": "Just chill, and potentially disassociate, in 2023. ",
-  "num_followers": 2473235,
+  "num_followers": 2473247,
   "original_name": "Chill Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZWQ5NWI3OWI4YTk1Mjk5MzNkMDM1NzQ3YThjMTFiNDk4NDljY2Y3",
+  "snapshot_id": "MCw0MTVlMzZjNzI3MTQ4ZWY3YjAxZGJiMTYwMzQyZDdjZTEzYzVkMjRi",
   "tracks": [
+    {
+      "added_at": "2024-02-23 02:14:42",
+      "album": {
+        "name": "May Ninth",
+        "url": "https://open.spotify.com/album/0XTJuQSKa1LtnG7r5MO43L"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 192144,
+      "name": "May Ninth",
+      "url": "https://open.spotify.com/track/2145px2VY14o2Pgr0OIttX"
+    },
     {
       "added_at": "2023-09-29 19:55:22",
       "album": {
@@ -109,6 +125,22 @@
       "url": "https://open.spotify.com/track/0Hz3Bf0SjlKlqYvIwH9a70"
     },
     {
+      "added_at": "2024-02-23 02:14:42",
+      "album": {
+        "name": "Life Is",
+        "url": "https://open.spotify.com/album/54eLc8KKiIJcWmrkQV3A2b"
+      },
+      "artists": [
+        {
+          "name": "Jessica Pratt",
+          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
+        }
+      ],
+      "duration_ms": 188293,
+      "name": "Life Is",
+      "url": "https://open.spotify.com/track/3aJrUfPxOANdzY1weAqrgH"
+    },
+    {
       "added_at": "2024-01-12 17:00:46",
       "album": {
         "name": "Chamber Of Reflection (live stream 5/19/23)",
@@ -175,6 +207,22 @@
       "duration_ms": 121440,
       "name": "paralyzed",
       "url": "https://open.spotify.com/track/5mJN7OPMym5RU7iODPV7SL"
+    },
+    {
+      "added_at": "2024-02-23 02:14:42",
+      "album": {
+        "name": "Sonido C\u00f3smico",
+        "url": "https://open.spotify.com/album/2P8acwzPaluqWw2qvnmIN0"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        }
+      ],
+      "duration_ms": 223427,
+      "name": "Sonido C\u00f3smico",
+      "url": "https://open.spotify.com/track/55BCpfZp7sVgGBzBlGW5f0"
     },
     {
       "added_at": "2023-09-29 19:55:22",
@@ -261,6 +309,26 @@
       "url": "https://open.spotify.com/track/5MhMXTuVODDF234VDvSxQx"
     },
     {
+      "added_at": "2024-02-23 02:14:42",
+      "album": {
+        "name": "Little Monk (feat. Karriem Riggins)",
+        "url": "https://open.spotify.com/album/6InhfvTOSyqsMZbdRoeR8c"
+      },
+      "artists": [
+        {
+          "name": "The South Hill Experiment",
+          "url": "https://open.spotify.com/artist/6PmrG14lGhCeDfxf40nbZX"
+        },
+        {
+          "name": "Karriem Riggins",
+          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
+        }
+      ],
+      "duration_ms": 134616,
+      "name": "Little Monk (feat. Karriem Riggins)",
+      "url": "https://open.spotify.com/track/58G48t6eicC81u3W2OHFeq"
+    },
+    {
       "added_at": "2023-09-29 19:55:22",
       "album": {
         "name": "summer flows 0.02",
@@ -293,20 +361,20 @@
       "url": "https://open.spotify.com/track/6r3lH9rMcwCDdx2SgcGRiH"
     },
     {
-      "added_at": "2023-09-29 19:55:22",
+      "added_at": "2024-02-23 02:14:42",
       "album": {
-        "name": "\u30e9\u30f3\u30d7\u5e7b\u60f3",
-        "url": "https://open.spotify.com/album/7b55VfUk2Vpuqnac9NDREc"
+        "name": "Summer Rain",
+        "url": "https://open.spotify.com/album/3OYtcP4ZW7XxlrkTsh9z62"
       },
       "artists": [
         {
-          "name": "Lamp",
-          "url": "https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX"
+          "name": "Olive Jones",
+          "url": "https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn"
         }
       ],
-      "duration_ms": 315640,
-      "name": "\u3086\u3081\u3046\u3064\u3064",
-      "url": "https://open.spotify.com/track/1GTC0DN9LGOdP0NdvoHyX7"
+      "duration_ms": 259005,
+      "name": "Summer Rain",
+      "url": "https://open.spotify.com/track/4AxMrysTzBOsFg94g3H7Mh"
     },
     {
       "added_at": "2023-09-29 19:55:22",
@@ -323,6 +391,22 @@
       "duration_ms": 181508,
       "name": "Jealous",
       "url": "https://open.spotify.com/track/7GahBNine4Ru5Shs1GGpcr"
+    },
+    {
+      "added_at": "2024-02-23 02:14:42",
+      "album": {
+        "name": "Thanks",
+        "url": "https://open.spotify.com/album/3gPRFJbo622cLv9Tx2pdYS"
+      },
+      "artists": [
+        {
+          "name": "Teethe",
+          "url": "https://open.spotify.com/artist/3K2gErmF9xLdo6dqOj1VbI"
+        }
+      ],
+      "duration_ms": 68000,
+      "name": "Thanks",
+      "url": "https://open.spotify.com/track/02bspNI1gmunfBI8u0xP95"
     },
     {
       "added_at": "2023-09-29 19:55:22",
@@ -371,6 +455,22 @@
       "duration_ms": 215869,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/2s5bAoQpITfCJiX5LRBx60"
+    },
+    {
+      "added_at": "2024-02-23 02:14:42",
+      "album": {
+        "name": "A Promise",
+        "url": "https://open.spotify.com/album/5FexbBBHbhjhsyBC6k0vp8"
+      },
+      "artists": [
+        {
+          "name": "Meernaa",
+          "url": "https://open.spotify.com/artist/6x8L59xNfuXIM7UfzoSe7g"
+        }
+      ],
+      "duration_ms": 177822,
+      "name": "A Promise",
+      "url": "https://open.spotify.com/track/1sibZ12UhxsG33aQgcXYCp"
     },
     {
       "added_at": "2023-09-29 19:55:22",
@@ -439,22 +539,6 @@
     {
       "added_at": "2023-09-29 19:55:22",
       "album": {
-        "name": "Going Steady",
-        "url": "https://open.spotify.com/album/26P67Eiu9rHgW52g3vsRrY"
-      },
-      "artists": [
-        {
-          "name": "North Americans",
-          "url": "https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S"
-        }
-      ],
-      "duration_ms": 126283,
-      "name": "Stanley",
-      "url": "https://open.spotify.com/track/3oEygw3VoOhoqPn6EoCw9n"
-    },
-    {
-      "added_at": "2023-09-29 19:55:22",
-      "album": {
         "name": "There\u2019s no Other",
         "url": "https://open.spotify.com/album/6Ldj1EkMiTstPg4RRLAg6b"
       },
@@ -467,6 +551,22 @@
       "duration_ms": 155801,
       "name": "There\u2019s no Other",
       "url": "https://open.spotify.com/track/1HHxnVIKnlNnCPnUxsnsXs"
+    },
+    {
+      "added_at": "2023-10-13 15:51:42",
+      "album": {
+        "name": "Dusk to Dawn",
+        "url": "https://open.spotify.com/album/7rAKQOCXiqYF1PnWBot3Be"
+      },
+      "artists": [
+        {
+          "name": "Lamp",
+          "url": "https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX"
+        }
+      ],
+      "duration_ms": 281481,
+      "name": "Alone in My Room",
+      "url": "https://open.spotify.com/track/1nPXBgflWZSAomAon6i7qw"
     },
     {
       "added_at": "2024-01-12 17:00:46",
@@ -511,102 +611,6 @@
     {
       "added_at": "2023-09-29 19:55:22",
       "album": {
-        "name": "From The Start",
-        "url": "https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 169573,
-      "name": "From The Start",
-      "url": "https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ"
-    },
-    {
-      "added_at": "2023-09-29 19:55:22",
-      "album": {
-        "name": "Depression Cherry",
-        "url": "https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr"
-      },
-      "artists": [
-        {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
-        }
-      ],
-      "duration_ms": 320466,
-      "name": "Space Song",
-      "url": "https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow"
-    },
-    {
-      "added_at": "2023-10-13 15:51:42",
-      "album": {
-        "name": "Dusk to Dawn",
-        "url": "https://open.spotify.com/album/7rAKQOCXiqYF1PnWBot3Be"
-      },
-      "artists": [
-        {
-          "name": "Lamp",
-          "url": "https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX"
-        }
-      ],
-      "duration_ms": 281481,
-      "name": "Alone in My Room",
-      "url": "https://open.spotify.com/track/1nPXBgflWZSAomAon6i7qw"
-    },
-    {
-      "added_at": "2023-09-29 19:55:22",
-      "album": {
-        "name": "House Song",
-        "url": "https://open.spotify.com/album/7oOTLwRSrfnGY1yFjBZYL2"
-      },
-      "artists": [
-        {
-          "name": "Searows",
-          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
-        }
-      ],
-      "duration_ms": 294189,
-      "name": "House Song",
-      "url": "https://open.spotify.com/track/1kr0XkYcWe2HTuCFN3BuGA"
-    },
-    {
-      "added_at": "2023-09-29 19:55:22",
-      "album": {
-        "name": "Spiritual Puberty",
-        "url": "https://open.spotify.com/album/3mkibgkzkk6ewJaVSjpPTx"
-      },
-      "artists": [
-        {
-          "name": "Mindchatter",
-          "url": "https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn"
-        }
-      ],
-      "duration_ms": 164347,
-      "name": "Phlegm",
-      "url": "https://open.spotify.com/track/2iuvXuZBXHjonFFqMWMb0m"
-    },
-    {
-      "added_at": "2023-09-29 19:55:22",
-      "album": {
-        "name": "SANCTUARY",
-        "url": "https://open.spotify.com/album/1yB52fA6GbaGA8p1soKr2L"
-      },
-      "artists": [
-        {
-          "name": "((( O )))",
-          "url": "https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8"
-        }
-      ],
-      "duration_ms": 198095,
-      "name": "SANCTUARY",
-      "url": "https://open.spotify.com/track/5Co74QMPtwQU8LFS0zwRpL"
-    },
-    {
-      "added_at": "2023-09-29 19:55:22",
-      "album": {
         "name": "medicine",
         "url": "https://open.spotify.com/album/1X1hRixkpUEWOnfentJlk0"
       },
@@ -635,6 +639,22 @@
       "duration_ms": 201022,
       "name": "Candlelight - Spotify Singles",
       "url": "https://open.spotify.com/track/326EM9zAMPmr1JkGtzHnH6"
+    },
+    {
+      "added_at": "2023-09-29 19:55:22",
+      "album": {
+        "name": "\u30e9\u30f3\u30d7\u5e7b\u60f3",
+        "url": "https://open.spotify.com/album/7b55VfUk2Vpuqnac9NDREc"
+      },
+      "artists": [
+        {
+          "name": "Lamp",
+          "url": "https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX"
+        }
+      ],
+      "duration_ms": 315640,
+      "name": "\u3086\u3081\u3046\u3064\u3064",
+      "url": "https://open.spotify.com/track/1GTC0DN9LGOdP0NdvoHyX7"
     },
     {
       "added_at": "2023-09-29 19:55:22",
@@ -751,6 +771,54 @@
       "duration_ms": 309000,
       "name": "Answering Machine",
       "url": "https://open.spotify.com/track/3boC2M1D82RuRJhUOkSHtg"
+    },
+    {
+      "added_at": "2023-09-29 19:55:22",
+      "album": {
+        "name": "House Song",
+        "url": "https://open.spotify.com/album/7oOTLwRSrfnGY1yFjBZYL2"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "duration_ms": 294189,
+      "name": "House Song",
+      "url": "https://open.spotify.com/track/1kr0XkYcWe2HTuCFN3BuGA"
+    },
+    {
+      "added_at": "2023-09-29 19:55:22",
+      "album": {
+        "name": "Spiritual Puberty",
+        "url": "https://open.spotify.com/album/3mkibgkzkk6ewJaVSjpPTx"
+      },
+      "artists": [
+        {
+          "name": "Mindchatter",
+          "url": "https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn"
+        }
+      ],
+      "duration_ms": 164347,
+      "name": "Phlegm",
+      "url": "https://open.spotify.com/track/2iuvXuZBXHjonFFqMWMb0m"
+    },
+    {
+      "added_at": "2023-09-29 19:55:22",
+      "album": {
+        "name": "SANCTUARY",
+        "url": "https://open.spotify.com/album/1yB52fA6GbaGA8p1soKr2L"
+      },
+      "artists": [
+        {
+          "name": "((( O )))",
+          "url": "https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8"
+        }
+      ],
+      "duration_ms": 198095,
+      "name": "SANCTUARY",
+      "url": "https://open.spotify.com/track/5Co74QMPtwQU8LFS0zwRpL"
     },
     {
       "added_at": "2023-09-29 19:55:22",
@@ -1907,22 +1975,6 @@
     {
       "added_at": "2023-09-29 19:55:22",
       "album": {
-        "name": "Scarlet",
-        "url": "https://open.spotify.com/album/0uC6KvswSzKrzdvqbfOWZV"
-      },
-      "artists": [
-        {
-          "name": "Telenova",
-          "url": "https://open.spotify.com/artist/5UlJRJmlRLhQJX8lJuerVq"
-        }
-      ],
-      "duration_ms": 198373,
-      "name": "Scarlet",
-      "url": "https://open.spotify.com/track/3nUjs7y1fhZYSmPNQ0YfqO"
-    },
-    {
-      "added_at": "2023-09-29 19:55:22",
-      "album": {
         "name": "Light (with BENEE)",
         "url": "https://open.spotify.com/album/5BwsHPXhIgCCpQsa52CBPR"
       },
@@ -1939,22 +1991,6 @@
       "duration_ms": 164000,
       "name": "Light (with BENEE)",
       "url": "https://open.spotify.com/track/65ZaStHQImXcy15M9pGFwL"
-    },
-    {
-      "added_at": "2023-09-29 19:55:22",
-      "album": {
-        "name": "Courage",
-        "url": "https://open.spotify.com/album/2mf3MxRCIe2AbEDCjXpQLD"
-      },
-      "artists": [
-        {
-          "name": "Alex Siegel",
-          "url": "https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS"
-        }
-      ],
-      "duration_ms": 185816,
-      "name": "Charlie",
-      "url": "https://open.spotify.com/track/3EbPZ8puT1QdOVDfnREDrn"
     },
     {
       "added_at": "2023-09-29 19:55:22",
@@ -2143,22 +2179,6 @@
     {
       "added_at": "2023-09-29 19:55:22",
       "album": {
-        "name": "Go\u00fbter +",
-        "url": "https://open.spotify.com/album/6OHBybRIcusOYfryQxiT6n"
-      },
-      "artists": [
-        {
-          "name": "Lou Val",
-          "url": "https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F"
-        }
-      ],
-      "duration_ms": 208192,
-      "name": "in ur motion",
-      "url": "https://open.spotify.com/track/0Bh3BVPLMGyeeEKS8LW2ob"
-    },
-    {
-      "added_at": "2023-09-29 19:55:22",
-      "album": {
         "name": "Role Model",
         "url": "https://open.spotify.com/album/2mHWAQ08dnXOPh3ddrQqJ6"
       },
@@ -2271,22 +2291,6 @@
       "duration_ms": 159650,
       "name": "Free Again",
       "url": "https://open.spotify.com/track/5waEuhjLJ2B5gZwYNOb8lj"
-    },
-    {
-      "added_at": "2023-09-29 19:55:22",
-      "album": {
-        "name": "Local Valley (Deluxe)",
-        "url": "https://open.spotify.com/album/4diHCkCZbrCxqzy0rg4c2o"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
-        }
-      ],
-      "duration_ms": 379346,
-      "name": "Visions - Flanger Version",
-      "url": "https://open.spotify.com/track/1EWnX4sXfV9uQTek7xA6UR"
     },
     {
       "added_at": "2023-09-29 19:55:22",

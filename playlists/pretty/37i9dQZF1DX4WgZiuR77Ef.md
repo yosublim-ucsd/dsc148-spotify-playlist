@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WgZiuR77Ef.md) - [plain]
 
 > New funky songs with a classic funky sound\. Cover: Lettuce
 
-[Spotify](https://open.spotify.com/user/spotify) - 393,862 likes - 100 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 393,872 likes - 100 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ain't No Stoppin'](https://open.spotify.com/track/36Mz7rP2M344WqPuPvflzk) | [Electro Deluxe](https://open.spotify.com/artist/10eFnQAKDDg8V25LEVvhpH) | [NEXT](https://open.spotify.com/album/0FVriDwwrFhjRGCnETcRxP) | 5:10 |
-| 2 | [Headache \- Frostyboy Mix](https://open.spotify.com/track/1DK8xnWXO9J6stuWHNv6iZ) | [Smudge All Stars](https://open.spotify.com/artist/5MFlcmLtTY9qSoLsrUmbwU), [George Clinton](https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA), [Frostyboy](https://open.spotify.com/artist/3czXEccrgo19wfppvwkhzR), [Niara Scarlett](https://open.spotify.com/artist/5C6vNbPezhechk5GRAo8G3), [Dark Globe](https://open.spotify.com/artist/2oxZ0xso90v1rS2PAb2qpF), [Kevan Frost](https://open.spotify.com/artist/72hK41OzrUSMmFoKOTfCtd), [Fletcher Fathoms](https://open.spotify.com/artist/3dHrg3OGB4pAeXwCQRVFjF), [Bill Burns](https://open.spotify.com/artist/2x7lI5JiBpBQi4N41fgdt2) | [Headache \(Frostyboy Mix\)](https://open.spotify.com/album/6Oa7qyVR0mlgVtRMzK3kbz) | 7:27 |
+| 1 | [Freaky Toe \- Richie Stevens Mix](https://open.spotify.com/track/6eHKzialPRpOgAdI3nv8Vs) | [Smudge All Stars](https://open.spotify.com/artist/5MFlcmLtTY9qSoLsrUmbwU), [Culture Club](https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc), [Richie Stevens](https://open.spotify.com/artist/0EZnKWoAW1x51x8STsHhsl), [Mary Pearce](https://open.spotify.com/artist/0bxWOv7vpuQ6ndnEzFPkhg), [Charlotte Kelly](https://open.spotify.com/artist/2rKAvmLXx1LNSMz5WL38T4), [DJ D\-Zire](https://open.spotify.com/artist/60ODIW6N3aAyqsESw620Qn), [Trey Lewd](https://open.spotify.com/artist/6T1ZLCrTSmLviH2wME84tD) | [Freaky Toe \(Richie Stevens Mix\)](https://open.spotify.com/album/1YWhNV0h1tUX8thhaWWZdQ) | 4:41 |
+| 2 | [Ain't No Stoppin'](https://open.spotify.com/track/36Mz7rP2M344WqPuPvflzk) | [Electro Deluxe](https://open.spotify.com/artist/10eFnQAKDDg8V25LEVvhpH) | [NEXT](https://open.spotify.com/album/0FVriDwwrFhjRGCnETcRxP) | 5:10 |
 | 3 | [We Outta B Funkin’](https://open.spotify.com/track/13bwv0FluqVWXokMD8Wl7w) | [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT), [Soopafly](https://open.spotify.com/artist/1fGNdi2u7XLBVYaq6fJUaT), [Temu Bacot](https://open.spotify.com/artist/7h6PVrpt8H8BTvmL9LBxsU), [Myra Washington](https://open.spotify.com/artist/5nGnyBnrFoaa7jsZvLWUho) | [We Outta B Funkin’](https://open.spotify.com/album/01wrFWt0KcWYNV2CIOslnN) | 4:21 |
 | 4 | [Strip It](https://open.spotify.com/track/7niZ29ThcE6jGHLxWQIVd6) | [The Niceguys](https://open.spotify.com/artist/2BtdDW3N2t1JbNXLFjoXj5), [Bobby Saint](https://open.spotify.com/artist/6L6VjBcf06AK6boIxqIEit), [Prop Dylan](https://open.spotify.com/artist/6oVl1muvHp8VLrJ5lv6lBh) | [Strip It](https://open.spotify.com/album/52ieD7PbYx5fJB4jkOd8a9) | 3:12 |
 | 5 | [Burning Daylight](https://open.spotify.com/track/7sKPmkDw5bK2l0UbSnVZ6x) | [Soultown Revivalists](https://open.spotify.com/artist/4m3XScZchwZiZeiw6CcoQm), [Ryan Innes](https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79) | [Burning Daylight](https://open.spotify.com/album/6kg2Ofz8hZXUXPdlPGdznR) | 3:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WgZiuR77Ef.md) - [plain]
 | 99 | [Checker Wrecker](https://open.spotify.com/track/7CmmRmYeCU9BGU3NVY3z0r) | [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8), [Jungle Boogie](https://open.spotify.com/artist/4uRUX6GQjNbtYK9w0rbO4J), [Big Tony](https://open.spotify.com/artist/2sCagRqrsOocsRmcxSuYks) | [Resonate](https://open.spotify.com/album/32wdlbMm4TWfi75n9qW1rs) | 5:50 |
 | 100 | [Until I Met You](https://open.spotify.com/track/7uil4nygkuyV7Fnv3ujt7f) | [cleaveland jones](https://open.spotify.com/artist/0sCCnNKvvYWRFZqJQRoiqM) | [Heart & Sol](https://open.spotify.com/album/4vMxEkLHiF6ETEtqB85EmD) | 3:20 |
 
-Snapshot ID: `MCwyZDdlNzhmOTdlNGNjNWM3ZDYxZDBmM2VjMWMwNTk4YzE0YzU5Mzg1`
+Snapshot ID: `MCw0ZTMzNThmNjBjMWFlYjViODJmYTgwNTMxMDc1ODQ1OTk5ZmU0OTAx`

@@ -3591,6 +3591,24 @@
     },
     {
       "album": {
+        "name": "Study Blue(s)",
+        "url": "https://open.spotify.com/album/75dI7Q5u4QIrmYLVZGS8Hj"
+      },
+      "artists": [
+        {
+          "name": "GLXO",
+          "url": "https://open.spotify.com/artist/727d2Rcbyo1h1tmAfg9BuK"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283416,
+      "name": "Study Blue(s)",
+      "url": "https://open.spotify.com/track/4DVfUDYDteI89fZM2LTcIk"
+    },
+    {
+      "album": {
         "name": "Blue Noise",
         "url": "https://open.spotify.com/album/3JIrA3v6v7qpjNpfzc9Dd2"
       },

@@ -899,6 +899,28 @@
     },
     {
       "album": {
+        "name": "Target",
+        "url": "https://open.spotify.com/album/3ZbLs2qH6lDnDbEnNmsYYv"
+      },
+      "artists": [
+        {
+          "name": "Rui Gabriel",
+          "url": "https://open.spotify.com/artist/1LhAwMWCGYmplvmnZmvoDz"
+        },
+        {
+          "name": "Kate Teague",
+          "url": "https://open.spotify.com/artist/5yNcIZz69fYkSRhiGoFx8T"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299766,
+      "name": "Target",
+      "url": "https://open.spotify.com/track/0pC0qIpSTvptjrCSg0p9Gq"
+    },
+    {
+      "album": {
         "name": "Everything's Alright Forever",
         "url": "https://open.spotify.com/album/6HyyVAjYEHdjSjFDAU86Gx"
       },

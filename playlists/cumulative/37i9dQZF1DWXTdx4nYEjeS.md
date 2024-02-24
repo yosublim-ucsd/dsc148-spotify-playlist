@@ -4,7 +4,7 @@
 
 > Música para acompañar esas rondas interminables de mate.
 
-988 songs - 2 day 12 hr 11 min
+989 songs - 2 day 12 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -476,7 +476,7 @@
 | [La Memoria \- En Vivo](https://open.spotify.com/track/17f0WbdOUrPKuOT1Pmd1LM) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [La Memoria \(En Vivo\)](https://open.spotify.com/album/4DP9IdpUJxp4BzFx5Q2QSe) | 5:44 | 2022-03-28 | 2022-04-03 |
 | [La Mirada](https://open.spotify.com/track/3fjbG2xC1znbKyeysQCNgb) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [La Mirada](https://open.spotify.com/album/3FZkTuYvjUBlFTzQ3GlNUC) | 3:14 | 2021-12-24 | 2022-07-29 |
 | [La Naturaleza](https://open.spotify.com/track/4tDRsEVf39hky9RJVY6dOY) | [Planta & Canta](https://open.spotify.com/artist/2yW6FW6bMFIEtPJgYK4UQ0), [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [La Naturaleza](https://open.spotify.com/album/0aaqBC6otXqWPh7cZS8lIE) | 4:14 | 2022-03-24 | 2022-03-28 |
-| [La Noche Sin Tí](https://open.spotify.com/track/6dT5W7zuEcUZHnZuVlSIJ5) | [Los Huayra](https://open.spotify.com/artist/796YUyTCTkXZAZg4CLUoWl) | [La Voz Del Viento](https://open.spotify.com/album/0fbAh4EhR85ddKTzO7vS8a) | 4:18 | 2021-12-24 |  |
+| [La Noche Sin Tí](https://open.spotify.com/track/6dT5W7zuEcUZHnZuVlSIJ5) | [Los Huayra](https://open.spotify.com/artist/796YUyTCTkXZAZg4CLUoWl) | [La Voz Del Viento](https://open.spotify.com/album/0fbAh4EhR85ddKTzO7vS8a) | 4:18 | 2021-12-24 | 2024-02-24 |
 | [La Noticia Más Hermosa](https://open.spotify.com/track/0cazYZbzanIOMny6GQYxfG) | [Facundo Galli](https://open.spotify.com/artist/6KvwqzZx49k5K72sgMZL9c) | [La Noticia Más Hermosa](https://open.spotify.com/album/20i10zN5547Kq7XE89HixH) | 3:05 | 2022-04-01 | 2022-04-21 |
 | [La Pastilla](https://open.spotify.com/track/59NjaceY3XuGAQScvB71ze) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL), [Arquero](https://open.spotify.com/artist/7j3rplwFIjrg9Wm1yrHLx6) | [La Pastilla](https://open.spotify.com/album/0BEDzrscnDn5EhLvwsDURi) | 3:06 | 2022-03-28 | 2022-04-15 |
 | [La Poesia Intermitente](https://open.spotify.com/track/5sEEsMp1Q2a0vccFrxSZkD) | [El Chacal & Los Alpes Floreados](https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey), [Goyo Degano](https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf) | [Tranki Town](https://open.spotify.com/album/7EN6Gq75GPfuHvcptkuOsk) | 3:53 | 2022-03-28 | 2022-04-16 |
@@ -572,6 +572,7 @@
 | [Me haces bien](https://open.spotify.com/track/4UKe38tm5NkRpuFCxwewEe) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Sea](https://open.spotify.com/album/5MAlr4sv266fgE8qVQUeuO) | 3:04 | 2021-12-24 |  |
 | [Mecha](https://open.spotify.com/track/5rXJ0E8dz1IGkNf6JPTSIB) | [Chano](https://open.spotify.com/artist/14lvrkdaXxggonwjKZpePM) | [Mecha](https://open.spotify.com/album/4hsANgaZoKuXUY2pAfZHaS) | 3:09 | 2021-12-24 | 2022-07-19 |
 | [Mecha](https://open.spotify.com/track/6xiXTpLR2J7epOmttWW984) | [Chano](https://open.spotify.com/artist/14lvrkdaXxggonwjKZpePM) | [Mecha](https://open.spotify.com/album/1j3VeUuoeNHMpcSPuG5Abe) | 3:09 | 2022-07-25 | 2022-08-18 |
+| [MELANCOLÍA](https://open.spotify.com/track/41N9Co3jknF8m5BH0cNdqb) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [MELANCOLÍA](https://open.spotify.com/album/5H9fjS95ycyEPZOHT2hgM8) | 3:42 | 2024-02-23 |  |
 | [Menos Mierda](https://open.spotify.com/track/6I4RfnGgotxBNN5ucshR0Z) | [Miss Bolivia](https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx), [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Menos Mierda](https://open.spotify.com/album/6R7sheQVYhx0mGCkoSzJLr) | 3:38 | 2022-04-08 | 2022-04-20 |
 | [Mercy](https://open.spotify.com/track/7LEiyxIyeauXaURLRgqzBh) | [The Big Bossa](https://open.spotify.com/artist/40wVf0nTSUmeWTbucENvIq) | [Bossanova Dinner](https://open.spotify.com/album/4rLGydRYO4CVBDIEPaGwFf) | 3:23 | 2022-03-28 | 2022-04-13 |
 | [Mexico](https://open.spotify.com/track/55bd4KmdD0m1o4cmreo5uJ) | [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW) | [Mexico](https://open.spotify.com/album/0hpNndgh1slM2ILQtVwb3M) | 2:41 | 2021-12-24 | 2022-04-21 |

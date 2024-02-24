@@ -1,5 +1,5 @@
 {
-  "2024-02-23": 299548,
+  "2024-02-24": 299755,
   "date_first_scraped": "2022-05-01",
   "description": "A taste of French caf\u00e9 culture; the charming sounds of the Parisian streets.",
   "name": "Caf\u00e9 de Paris",
@@ -417,6 +417,24 @@
       "duration_ms": 174210,
       "name": "bol et rot",
       "url": "https://open.spotify.com/track/0o41kkPhY0if5o8mdXUgKl"
+    },
+    {
+      "album": {
+        "name": "Bol\u00e9ro de Montreuil",
+        "url": "https://open.spotify.com/album/2HLAcaelv4V9MRIUMSzYxl"
+      },
+      "artists": [
+        {
+          "name": "Menilmuche",
+          "url": "https://open.spotify.com/artist/4UokevHf2JYeNlpcpQH7W8"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253865,
+      "name": "Bol\u00e9ro de Montreuil",
+      "url": "https://open.spotify.com/track/3b3QhADYnHzlMBrL2k98XS"
     },
     {
       "album": {

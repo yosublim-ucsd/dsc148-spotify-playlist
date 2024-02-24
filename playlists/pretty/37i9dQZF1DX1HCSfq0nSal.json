@@ -1,31 +1,15 @@
 {
   "description": "Si est\u00e1 pegao, est\u00e1 aqu\u00ed. Feat. Gonzy",
-  "num_followers": 807104,
+  "num_followers": 807355,
   "original_name": "PEGAO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOWFhNzczMDQwZjBlMzg0Y2Y4OTlmNDA1OGFlNjJmZjk2OTg1NjBj",
+  "snapshot_id": "MCw2Nzk1NTRhMDk0OTFiZTY1YmUxMzEwYTc5ZjJiNzBiNzUwZGVhZWZi",
   "tracks": [
     {
-      "added_at": "2024-02-19 19:22:33",
-      "album": {
-        "name": "X'CLUSIVO",
-        "url": "https://open.spotify.com/album/5RmwLVvsb2oS4K97abdqcy"
-      },
-      "artists": [
-        {
-          "name": "Gonzy",
-          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
-        }
-      ],
-      "duration_ms": 175586,
-      "name": "X'CLUSIVO",
-      "url": "https://open.spotify.com/track/0T0Oo2aVRt5a39D3ObeWwm"
-    },
-    {
-      "added_at": "2024-02-19 19:22:33",
+      "added_at": "2024-02-23 10:47:23",
       "album": {
         "name": "FARDOS",
         "url": "https://open.spotify.com/album/060l6oOdSXc1SUJnQDDpI1"
@@ -45,7 +29,7 @@
       "url": "https://open.spotify.com/track/33VIvWmmCUgix6Htm1WdOJ"
     },
     {
-      "added_at": "2024-02-19 19:22:33",
+      "added_at": "2024-02-23 10:47:23",
       "album": {
         "name": "BAD BOY",
         "url": "https://open.spotify.com/album/2lFhyjDXD7EvLkHeV55RKS"
@@ -77,7 +61,43 @@
       "url": "https://open.spotify.com/track/0sFyqFZE8YkkOMA9IFZ3S6"
     },
     {
-      "added_at": "2024-02-19 19:22:33",
+      "added_at": "2024-02-23 10:47:23",
+      "album": {
+        "name": "EMPELOTICA",
+        "url": "https://open.spotify.com/album/1Cf5ZIMxdIYC60Cz7Q4GZg"
+      },
+      "artists": [
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 190322,
+      "name": "EMPELOTICA",
+      "url": "https://open.spotify.com/track/0dKsNKiWmqkoz8YAUzfigC"
+    },
+    {
+      "added_at": "2024-02-23 10:47:23",
+      "album": {
+        "name": "X'CLUSIVO",
+        "url": "https://open.spotify.com/album/5RmwLVvsb2oS4K97abdqcy"
+      },
+      "artists": [
+        {
+          "name": "Gonzy",
+          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
+        }
+      ],
+      "duration_ms": 175586,
+      "name": "X'CLUSIVO",
+      "url": "https://open.spotify.com/track/0T0Oo2aVRt5a39D3ObeWwm"
+    },
+    {
+      "added_at": "2024-02-23 10:47:23",
       "album": {
         "name": "SI SABE",
         "url": "https://open.spotify.com/album/7ot6ebVthlYG3wXzLaZ5NF"
@@ -97,7 +117,27 @@
       "url": "https://open.spotify.com/track/7chTH3GBjjAyagf0SPCZDL"
     },
     {
-      "added_at": "2024-02-19 19:22:33",
+      "added_at": "2024-02-23 10:47:23",
+      "album": {
+        "name": "38",
+        "url": "https://open.spotify.com/album/1JEMQtX0pAFIkO88vQe0Wb"
+      },
+      "artists": [
+        {
+          "name": "JC Reyes",
+          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
+        },
+        {
+          "name": "Biwan La Pauta",
+          "url": "https://open.spotify.com/artist/2gVPhMOFpW3p95EigvSJXI"
+        }
+      ],
+      "duration_ms": 178965,
+      "name": "38",
+      "url": "https://open.spotify.com/track/2LqIOz2Etck4ihJLBRGE0d"
+    },
+    {
+      "added_at": "2024-02-23 10:47:23",
       "album": {
         "name": "CRUSH",
         "url": "https://open.spotify.com/album/7DMu62yuKkrM8IYUUrwkhf"
@@ -117,7 +157,7 @@
       "url": "https://open.spotify.com/track/1mAUVEQWn2PRxWnRhQreBo"
     },
     {
-      "added_at": "2024-02-19 19:22:33",
+      "added_at": "2024-02-23 10:47:23",
       "album": {
         "name": "Colal\u00e9",
         "url": "https://open.spotify.com/album/4OkdaDs8dFKYrZzBCXcH2C"
@@ -141,7 +181,7 @@
       "url": "https://open.spotify.com/track/3Kd881GBz3fqGSlEXDJPML"
     },
     {
-      "added_at": "2024-02-19 19:22:33",
+      "added_at": "2024-02-23 10:47:23",
       "album": {
         "name": "Sol Mar\u00eda",
         "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
@@ -161,7 +201,7 @@
       "url": "https://open.spotify.com/track/5QtB74eCS2YzHvEfSlh8MG"
     },
     {
-      "added_at": "2024-02-19 19:22:33",
+      "added_at": "2024-02-23 10:47:23",
       "album": {
         "name": "MALIANTEO",
         "url": "https://open.spotify.com/album/5u0hfSKS3TjW2NqIZCDHsx"
@@ -185,7 +225,7 @@
       "url": "https://open.spotify.com/track/4HxHuTn5m8mvwstavPF8yE"
     },
     {
-      "added_at": "2024-02-19 19:22:33",
+      "added_at": "2024-02-23 10:47:23",
       "album": {
         "name": "Gata Only",
         "url": "https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM"
@@ -205,7 +245,7 @@
       "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
     },
     {
-      "added_at": "2024-02-19 19:22:33",
+      "added_at": "2024-02-23 10:47:23",
       "album": {
         "name": "Oye BB",
         "url": "https://open.spotify.com/album/3dRkgg45xl85zTpkZvSqPV"
@@ -225,7 +265,7 @@
       "url": "https://open.spotify.com/track/2QftZPguVY5lKNwyXPDywB"
     },
     {
-      "added_at": "2024-02-19 19:22:33",
+      "added_at": "2024-02-23 10:47:23",
       "album": {
         "name": "Sol Mar\u00eda",
         "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
@@ -245,7 +285,7 @@
       "url": "https://open.spotify.com/track/144k7KOL7ZPopw7rTTzzXN"
     },
     {
-      "added_at": "2024-02-19 19:22:33",
+      "added_at": "2024-02-23 10:47:23",
       "album": {
         "name": "LOS MARCIANOS Vol.1: Dei V Version",
         "url": "https://open.spotify.com/album/6G0d1PrCPMXe80Hjyq4D2a"
@@ -269,7 +309,7 @@
       "url": "https://open.spotify.com/track/5WoC5tREb1zyxfmLu3RyQ7"
     },
     {
-      "added_at": "2024-02-19 19:22:33",
+      "added_at": "2024-02-23 10:47:23",
       "album": {
         "name": "No Te Quieren Conmigo",
         "url": "https://open.spotify.com/album/2ScGgvceSV8y2Cx4nPPjYP"
@@ -293,7 +333,7 @@
       "url": "https://open.spotify.com/track/3Cx4BsDd4q0GCVBJ5CAw2K"
     },
     {
-      "added_at": "2024-02-19 19:22:33",
+      "added_at": "2024-02-23 10:47:23",
       "album": {
         "name": "Saliendo del Planeta",
         "url": "https://open.spotify.com/album/4c9baK6KJXLlly01POapWY"
@@ -309,7 +349,7 @@
       "url": "https://open.spotify.com/track/5R4NkcQZB1kQXMoCFhl4OH"
     },
     {
-      "added_at": "2024-02-19 19:22:33",
+      "added_at": "2024-02-23 10:47:23",
       "album": {
         "name": "Bajo El Sol",
         "url": "https://open.spotify.com/album/6ziFA6M7TxdCQ2bxplctdK"
@@ -325,7 +365,7 @@
       "url": "https://open.spotify.com/track/57mxKzlcRGGZKLlVVDpztL"
     },
     {
-      "added_at": "2024-02-19 19:22:33",
+      "added_at": "2024-02-23 10:47:23",
       "album": {
         "name": "Quien Es Dei V?",
         "url": "https://open.spotify.com/album/1crhj8lhrbNVe159yiSWlC"
@@ -341,7 +381,7 @@
       "url": "https://open.spotify.com/track/5nSUskJwcSRFS9dIqrVfrv"
     },
     {
-      "added_at": "2024-02-19 19:22:33",
+      "added_at": "2024-02-23 10:47:23",
       "album": {
         "name": "Una Foto Remix (feat. Emilia)",
         "url": "https://open.spotify.com/album/4f47mbk3DOWJ16DXLnviMw"
@@ -369,23 +409,7 @@
       "url": "https://open.spotify.com/track/1kqH58eGh2ZTOHwqBIB2tM"
     },
     {
-      "added_at": "2024-02-19 19:22:33",
-      "album": {
-        "name": "LA \u00daLTIMA",
-        "url": "https://open.spotify.com/album/2VZ9rmzFLZbsMMrmrJF8ur"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 170322,
-      "name": "LA \u00daLTIMA",
-      "url": "https://open.spotify.com/track/2qHvD3r5qu4wuPpvq3CQKb"
-    },
-    {
-      "added_at": "2024-02-19 19:22:33",
+      "added_at": "2024-02-23 10:47:23",
       "album": {
         "name": "Saliendo del Planeta",
         "url": "https://open.spotify.com/album/0ct1nMrWBi5B93RKXAZJEf"
@@ -405,7 +429,7 @@
       "url": "https://open.spotify.com/track/4XCIp44SX79A7spTo4O40y"
     },
     {
-      "added_at": "2024-02-19 19:22:33",
+      "added_at": "2024-02-23 10:47:23",
       "album": {
         "name": "Sentimiento, Elegancia y M\u00e1s Maldad",
         "url": "https://open.spotify.com/album/21TAcmAXy0OY0U7B9LlwlY"
@@ -425,7 +449,7 @@
       "url": "https://open.spotify.com/track/5wUNXICiryiGhRBVL5FQXh"
     },
     {
-      "added_at": "2024-02-19 19:22:33",
+      "added_at": "2024-02-23 10:47:23",
       "album": {
         "name": "Cosmo",
         "url": "https://open.spotify.com/album/3nEa7WJXcruywRIZXu6qRE"
@@ -449,7 +473,7 @@
       "url": "https://open.spotify.com/track/3j5zNcb0aSk7dx3W3mAKzw"
     },
     {
-      "added_at": "2024-02-19 19:22:33",
+      "added_at": "2024-02-23 10:47:23",
       "album": {
         "name": "Zendaya",
         "url": "https://open.spotify.com/album/6UtvT0ykAvHbGIg940gNKF"
@@ -465,27 +489,7 @@
       "url": "https://open.spotify.com/track/7zZZjSsDfiiMeZHKO0WgiF"
     },
     {
-      "added_at": "2024-02-19 19:22:33",
-      "album": {
-        "name": "La Joia",
-        "url": "https://open.spotify.com/album/14IBdTrbCCeHRZgTATdgRd"
-      },
-      "artists": [
-        {
-          "name": "Bad Gyal",
-          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
-        },
-        {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
-        }
-      ],
-      "duration_ms": 205706,
-      "name": "Bad Boy",
-      "url": "https://open.spotify.com/track/2fgogq2XXlKMm9p6m3akHH"
-    },
-    {
-      "added_at": "2024-02-19 19:22:33",
+      "added_at": "2024-02-23 10:47:23",
       "album": {
         "name": "CARNET",
         "url": "https://open.spotify.com/album/0rmHm455rHhQamdptQjYn3"
@@ -505,7 +509,7 @@
       "url": "https://open.spotify.com/track/1GKEH7oWPx8xDlDrggaEnJ"
     },
     {
-      "added_at": "2024-02-19 19:22:33",
+      "added_at": "2024-02-23 10:47:23",
       "album": {
         "name": "FERXXOCALIPSIS",
         "url": "https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6"
@@ -521,7 +525,7 @@
       "url": "https://open.spotify.com/track/3kAURWHIN3R9qUP0h4FOUw"
     },
     {
-      "added_at": "2024-02-19 19:22:33",
+      "added_at": "2024-02-23 10:47:23",
       "album": {
         "name": "Cafe Malib\u00fa",
         "url": "https://open.spotify.com/album/68Qm7k0mDa6ta4mbVD9d2n"
@@ -545,7 +549,7 @@
       "url": "https://open.spotify.com/track/5uxIvoAHL2QOnRP2olOxzb"
     },
     {
-      "added_at": "2024-02-19 19:22:33",
+      "added_at": "2024-02-23 10:47:23",
       "album": {
         "name": "Manos Rotas",
         "url": "https://open.spotify.com/album/7KKBibFuDeAKYrB79gPcHu"
@@ -565,7 +569,7 @@
       "url": "https://open.spotify.com/track/3BFh8rR6aMexy7ELu2UQy3"
     },
     {
-      "added_at": "2024-02-19 19:22:33",
+      "added_at": "2024-02-23 10:47:23",
       "album": {
         "name": "Saliendo del Planeta",
         "url": "https://open.spotify.com/album/4c9baK6KJXLlly01POapWY"
@@ -581,7 +585,7 @@
       "url": "https://open.spotify.com/track/2lkD7dLodhAM4ctR2g12Qx"
     },
     {
-      "added_at": "2024-02-19 19:22:33",
+      "added_at": "2024-02-23 10:47:23",
       "album": {
         "name": "FERXXO 151",
         "url": "https://open.spotify.com/album/7JsvGZNqsoZlFOl41TKucq"
@@ -601,7 +605,7 @@
       "url": "https://open.spotify.com/track/1LFXWfARjkBkc9Abofmgp8"
     },
     {
-      "added_at": "2024-02-19 19:22:33",
+      "added_at": "2024-02-23 10:47:23",
       "album": {
         "name": "LVEU: VIVE LA TUYA...NO LA MIA",
         "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
@@ -617,7 +621,7 @@
       "url": "https://open.spotify.com/track/139mO3ryLnLwrO5hQMgWqM"
     },
     {
-      "added_at": "2024-02-19 19:22:33",
+      "added_at": "2024-02-23 10:47:23",
       "album": {
         "name": "MOR, No Le Temas a La Oscuridad",
         "url": "https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd"
@@ -633,7 +637,7 @@
       "url": "https://open.spotify.com/track/0goXAEnjWhssHU0y9Zyqyf"
     },
     {
-      "added_at": "2024-02-19 19:22:33",
+      "added_at": "2024-02-23 10:47:23",
       "album": {
         "name": "ESTRELLA",
         "url": "https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3"
@@ -653,7 +657,7 @@
       "url": "https://open.spotify.com/track/3pQr8EhSzvKN3ZZlaL4Pae"
     },
     {
-      "added_at": "2024-02-19 19:22:33",
+      "added_at": "2024-02-23 10:47:23",
       "album": {
         "name": "FERXXOCALIPSIS",
         "url": "https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6"
@@ -673,7 +677,7 @@
       "url": "https://open.spotify.com/track/7bywjHOc0wSjGGbj04XbVi"
     },
     {
-      "added_at": "2024-02-19 19:22:33",
+      "added_at": "2024-02-23 10:47:23",
       "album": {
         "name": "MOR, No Le Temas a La Oscuridad",
         "url": "https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd"
@@ -689,7 +693,7 @@
       "url": "https://open.spotify.com/track/2LWM5Ft0TdX24GeSq1u6PV"
     },
     {
-      "added_at": "2024-02-19 19:22:33",
+      "added_at": "2024-02-23 10:47:23",
       "album": {
         "name": "ESTRELLA",
         "url": "https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3"
@@ -705,7 +709,7 @@
       "url": "https://open.spotify.com/track/1uFAI2C6r3YBQmXCAPGzZv"
     },
     {
-      "added_at": "2024-02-19 19:22:33",
+      "added_at": "2024-02-23 10:47:23",
       "album": {
         "name": "Young Miko: Bzrp Music Sessions, Vol. 58",
         "url": "https://open.spotify.com/album/0HMTQPl6rJmP7sQEaRYHRo"
@@ -725,7 +729,7 @@
       "url": "https://open.spotify.com/track/6VciS3dRMpZhJiDxT8ArFi"
     },
     {
-      "added_at": "2024-02-19 19:22:33",
+      "added_at": "2024-02-23 10:47:23",
       "album": {
         "name": "nadie sabe lo que va a pasar ma\u00f1ana",
         "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
@@ -745,7 +749,7 @@
       "url": "https://open.spotify.com/track/1YnChEM51BVZ5dRhbVFEMl"
     },
     {
-      "added_at": "2024-02-19 19:22:33",
+      "added_at": "2024-02-23 10:47:23",
       "album": {
         "name": "PLAYA SATURNO",
         "url": "https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB"
@@ -761,7 +765,7 @@
       "url": "https://open.spotify.com/track/2kz1YOhJiNubjigR1gB1VX"
     },
     {
-      "added_at": "2024-02-19 19:22:33",
+      "added_at": "2024-02-23 10:47:23",
       "album": {
         "name": "LVEU: VIVE LA TUYA...NO LA MIA",
         "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
@@ -777,7 +781,7 @@
       "url": "https://open.spotify.com/track/7iUtQNMRB8ZkKC4AmEuCJC"
     },
     {
-      "added_at": "2024-02-19 19:22:33",
+      "added_at": "2024-02-23 10:47:23",
       "album": {
         "name": "nadie sabe lo que va a pasar ma\u00f1ana",
         "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"

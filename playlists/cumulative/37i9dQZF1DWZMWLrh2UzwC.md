@@ -4,7 +4,7 @@
 
 > The best newly released songs of the week\. Cover: lullaboy
 
-9,467 songs - 21 day 14 hr 35 min
+9,472 songs - 21 day 14 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -944,6 +944,7 @@
 | [Bloom Again \(다시 봄이 올거야\)](https://open.spotify.com/track/4tnRKtVtNrc0cb7YDxkk7n) | [mersie](https://open.spotify.com/artist/6NiLEHNy66fQkD5PNoQqoH) | [Bloom Again \(다시 봄이 올거야\)](https://open.spotify.com/album/2hOEr1X3NFImMZ8YSVkvCt) | 3:23 | 2023-05-04 | 2023-05-12 |
 | [Blossom](https://open.spotify.com/track/2V5t0ihRJ8WQaLfGVlTvoo) | [Chingay Parade SG](https://open.spotify.com/artist/6r79I3nPCiSnS7QD6AtkRf), [TENGY](https://open.spotify.com/artist/40NI9ZKB9SZhfBD81Yv7pK) | [Blossom](https://open.spotify.com/album/0SCQgWuy3I7T0m8Idj4wZH) | 2:24 | 2024-01-25 | 2024-02-02 |
 | [BLOSSOM](https://open.spotify.com/track/1ITbrYluZnnVIUXE4PAq2s) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BLOSSOM](https://open.spotify.com/album/0mRRG2TuM20kCjhR4h1op4) | 3:56 | 2023-08-03 | 2023-08-11 |
+| [Blow](https://open.spotify.com/track/6oRKTJSDRW5aqg4nE8vETf) | [Amari Teague](https://open.spotify.com/artist/2fu7Ig6d88h9W1gyFoo0vC) | [Blow](https://open.spotify.com/album/5nZqzvIRrgYyWea4LVHiWU) | 2:13 | 2024-02-22 |  |
 | [Blow](https://open.spotify.com/track/0QPPJN3d42PINVAyBPZTC3) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [Blow](https://open.spotify.com/album/2y6aTfBouCa2nRJadWq0WX) | 2:43 | 2022-03-31 | 2022-04-08 |
 | [BLOW](https://open.spotify.com/track/3OSEQtAIxVzQ8iLzxgOXoi) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2), [Safeplanet](https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw) | [BLOW](https://open.spotify.com/album/1jCajyPWXNO04KBS6jDgGC) | 3:33 | 2023-09-21 | 2023-09-29 |
 | [Blue](https://open.spotify.com/track/0DeERXbSE5amnnFx5MSycO) | [Aina Abdul](https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV) | [Blue](https://open.spotify.com/album/2V5sPS4x8LB3H7q3Q00Cjn) | 3:29 | 2023-03-02 | 2023-03-10 |
@@ -1483,6 +1484,7 @@
 | [Cintaku Masih Berdiri](https://open.spotify.com/track/6ABVeyEJ27PgMMWYf8o99X) | [Siti Nordiana](https://open.spotify.com/artist/7tbUHCaiBX4cXHQkII3CVH) | [Cintaku Masih Berdiri](https://open.spotify.com/album/1Gn46P6Rk7ibKv2zH2MU9o) | 3:12 | 2022-11-24 | 2022-12-02 |
 | [Circle](https://open.spotify.com/track/2daQ1ffjbUgZxzrxQSQb71) | [Subsonic Eye](https://open.spotify.com/artist/6nRhwtv2bwuDvPijPCjcie) | [All Around You](https://open.spotify.com/album/0V1dIAje2IVpyBQp6byOwi) | 3:00 | 2023-09-14 | 2023-09-22 |
 | [Circles](https://open.spotify.com/track/7oT74IUwjrHseRdUT2tSYa) | [Adam Turley](https://open.spotify.com/artist/0clfID6QXqVAUhgm7QHpwF), [Obi Ben](https://open.spotify.com/artist/4tggpePtFnIweqywchxhP9) | [Circles](https://open.spotify.com/album/57EvcMmi3j0msVQcDj1Vgp) | 2:35 | 2021-12-23 | 2021-12-31 |
+| [Circles](https://open.spotify.com/track/6h58TnblIV3OPynBI45r0d) | [ASTRO](https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8) | [Circles](https://open.spotify.com/album/7eDqR1pdw3m0HUVOWsJy0s) | 4:00 | 2024-02-22 |  |
 | [Circles](https://open.spotify.com/track/6NzE4VCzkOJqhvu50petzp) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Circles](https://open.spotify.com/album/759nAWr8uZcHeW5klHVE7T) | 3:04 | 2022-03-31 | 2022-04-08 |
 | [Circles](https://open.spotify.com/track/3oRFASmKBxhLj1vlsyCJ3m) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [Circles](https://open.spotify.com/album/7Mrf0iOJdb2suGyWSCq96u) | 3:37 | 2022-03-17 | 2022-03-25 |
 | [Circles Around This Town](https://open.spotify.com/track/13G5xv1wUKvJYbK0wYmioN) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Circles Around This Town](https://open.spotify.com/album/2MeNs8IOs7udC2CuiFKmlZ) | 3:15 | 2022-01-06 | 2022-01-14 |
@@ -4908,6 +4910,7 @@
 | [Maan Meri Jaan \(Afterlife\)](https://open.spotify.com/track/0NapkeC45rszeuSgbvcjx4) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU), [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [Maan Meri Jaan \(Afterlife\)](https://open.spotify.com/album/02K4LsS2gNvzJzdVsrZ6Wc) | 3:06 | 2023-03-09 | 2023-03-18 |
 | [mabataki](https://open.spotify.com/track/1mzn53qwArYj52lIGpXXlD) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [mabataki](https://open.spotify.com/album/5EdGTFSSmYxaGOBTnCHClZ) | 4:03 | 2022-09-15 | 2022-09-23 |
 | [Macarena](https://open.spotify.com/track/2uNUAaUtyzy75qSwiVAa5Q) | [BLITZERS](https://open.spotify.com/artist/3Exoh42YMeqnUvYahAGgUE) | [Macarena](https://open.spotify.com/album/3GwaGRlx2KLrle3F7VxFF3) | 3:09 | 2023-04-27 | 2023-05-05 |
+| [mad](https://open.spotify.com/track/3k5BYX0I1EC2tAPcyFHkmI) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [mad](https://open.spotify.com/album/5NNDRU86FtyCd9UQKI15N0) | 2:57 | 2024-02-22 |  |
 | [Mad About the Boy](https://open.spotify.com/track/6lWGw8WJNowRYY6mTYMrZw) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [Mad About the Boy](https://open.spotify.com/album/3j2L0K6cvEOxQVOROZEoIS) | 2:50 | 2022-10-06 | 2022-10-14 |
 | [Mad At You](https://open.spotify.com/track/6fwRS5rlqJsyNBsZz9A0UV) | [Drax Project](https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8) | [Mad At You](https://open.spotify.com/album/0MzDj5yqGw0OqyvwL9zypO) | 2:45 | 2022-05-26 | 2022-06-03 |
 | [MADE 4 U](https://open.spotify.com/track/5yetn3rXSPBP8fl5d5zExV) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [MADE 4 U](https://open.spotify.com/album/0WlcKSVRN8XsTDN4yXsMWZ) | 4:09 | 2023-12-14 | 2023-12-22 |
@@ -5821,6 +5824,7 @@
 | [One Of Your Girls](https://open.spotify.com/track/5Eh1nj7IjV9lwpcKAkidyY) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:01 | 2023-10-12 | 2023-10-20 |
 | [one of your seasons](https://open.spotify.com/track/5EeMgLk6wSkxCpbHC2Uovk) | [Jeyes](https://open.spotify.com/artist/4KTTsSuEEoNhQLzXH1JH7x) | [one of your seasons](https://open.spotify.com/album/6w8nPbCLHSRa1GgDeXJy2R) | 3:56 | 2022-10-20 | 2022-10-28 |
 | [One Punch Tommy](https://open.spotify.com/track/4SoqwzilzxC6nm5Ag8kG49) | [Dan Fable](https://open.spotify.com/artist/4tfGcCoLFmUtfhgB9sREHq) | [One Punch Tommy](https://open.spotify.com/album/6OcaHnyEDl6sLVvbak8q48) | 3:16 | 2022-11-24 | 2022-12-02 |
+| [ONE SPARK](https://open.spotify.com/track/7cIn67LEvk16v6komC8znS) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [With YOU\-th](https://open.spotify.com/album/575TQDOQqc0MAheeEeKWUR) | 3:03 | 2024-02-22 |  |
 | [One Two Three](https://open.spotify.com/track/2X3mOHH1uGUV7XHl68ii0l) | [Xydo](https://open.spotify.com/artist/0vcbn6MqAvgM8Gh6wh8d6X) | [One Two Three](https://open.spotify.com/album/1cMv6L495aMx4wNrtDQ7qZ) | 3:04 | 2023-04-06 | 2023-04-14 |
 | [One Up](https://open.spotify.com/track/4FAQjmX7e7JJaFE363uj86) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [One Up](https://open.spotify.com/album/51A9bnCs9oq6vjFZIDza97) | 2:40 | 2022-10-13 | 2022-10-15 |
 | [One Up](https://open.spotify.com/track/6R6ZS5HYH4RdXkjEwEJO5R) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [No More Leaks](https://open.spotify.com/album/1HTdVIlFgO8o2Oby5rdXs0) | 2:40 | 2022-10-13 | 2022-10-21 |
@@ -6579,6 +6583,7 @@
 | [Run](https://open.spotify.com/track/7hVd0Hej4nlJiufYwKxhDT) | [TY:DEL](https://open.spotify.com/artist/2hPhnwoTrcoFeuP9pwdClH) | [Run](https://open.spotify.com/album/67VhkG0XlrHJj0JyRQJNR5) | 2:26 | 2023-09-14 | 2023-09-22 |
 | [Run \(Female Ver.\)](https://open.spotify.com/track/6qEXwx6cAeAviG5UCz1iMd) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [The Fabulous, Pt\. 2 \(Original Soundtrack from the Netflix Series\)](https://open.spotify.com/album/5u6a1NR80pzP0HoZNk6v4D) | 3:46 | 2022-12-22 | 2022-12-30 |
 | [run away girl](https://open.spotify.com/track/1uMo2HFIfKc3NJVl73L1zj) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [run away girl](https://open.spotify.com/album/4xQRkjMaZOd86l11TKj1D2) | 3:50 | 2024-01-04 | 2024-01-12 |
+| [Run Back To You](https://open.spotify.com/track/0W6cB9dPUnsL5iKOpxuSAK) | [LAY](https://open.spotify.com/artist/4o7tWrzQOqarDtTMWD2HV9), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Run Back To You](https://open.spotify.com/album/1OEWnZJ9NPQ1U5mpWLPLza) | 3:08 | 2024-02-22 |  |
 | [run for the hills](https://open.spotify.com/track/51hyZpbJlIgZIaX3TtMxmu) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:23 | 2023-12-07 | 2023-12-15 |
 | [run for the hills \(Spotify OUTSIDE Version\) \- Live from Malibu](https://open.spotify.com/track/1gMv5QSRDJ6SwcQGbTtAtB) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Spotify OUTSIDE](https://open.spotify.com/album/6iAheP6Xd45D2CocnMGMmE) | 2:44 | 2024-01-11 | 2024-01-19 |
 | [RUN FOR YOU](https://open.spotify.com/track/2ev4YByQEhb3TbsxqyNF1N) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [RUN FOR YOU](https://open.spotify.com/album/4pyPXipdnMSHxekhwuJNJG) | 2:58 | 2023-09-14 | 2023-09-22 |

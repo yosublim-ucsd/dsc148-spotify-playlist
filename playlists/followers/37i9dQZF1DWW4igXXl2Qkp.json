@@ -1,5 +1,5 @@
 {
-  "2024-02-23": 233110,
+  "2024-02-24": 233190,
   "date_first_scraped": "2021-12-21",
   "description": "The best new hip-hop music by independent artists and labels. Cover: Cash Cobain\n",
   "name": "Fresh Finds Hip-Hop",
@@ -16317,6 +16317,28 @@
       "duration_ms": 196571,
       "name": "Slide (with KiDi)",
       "url": "https://open.spotify.com/track/4lbXuTWvKI6Xnfnla0QRar"
+    },
+    {
+      "album": {
+        "name": "Slideshow",
+        "url": "https://open.spotify.com/album/6OL2rc5XTgw2yPcT91vdz3"
+      },
+      "artists": [
+        {
+          "name": "Levi Bloom",
+          "url": "https://open.spotify.com/artist/4ruYOMH6odMGzBr19loIMg"
+        },
+        {
+          "name": "408 Darwin",
+          "url": "https://open.spotify.com/artist/7GmjP8u0uwwAwBt3e3tmdS"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163561,
+      "name": "Slideshow",
+      "url": "https://open.spotify.com/track/5RZAEcZ8G4fLkR11MbB8P0"
     },
     {
       "album": {

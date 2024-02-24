@@ -7264,7 +7264,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 147180,
       "name": "My Bad",
       "url": "https://open.spotify.com/track/0YQ0N57Whq3vgF7bqUNDHs"
@@ -12526,6 +12526,28 @@
       "duration_ms": 214400,
       "name": "Watch This",
       "url": "https://open.spotify.com/track/2H46j706JVshMJ9ZaAS1fJ"
+    },
+    {
+      "album": {
+        "name": "We Are One (feat. Bryn Christopher)",
+        "url": "https://open.spotify.com/album/3rrJdd0PtwPwsweuuNUJaJ"
+      },
+      "artists": [
+        {
+          "name": "3 Are Legend",
+          "url": "https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II"
+        },
+        {
+          "name": "Bryn Christopher",
+          "url": "https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202916,
+      "name": "We Are One (feat. Bryn Christopher)",
+      "url": "https://open.spotify.com/track/2yy8PDe1d2TnWQYjjhvMke"
     },
     {
       "album": {

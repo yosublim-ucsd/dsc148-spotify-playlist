@@ -1,12 +1,12 @@
 {
   "description": "Celebrated composer of jazz standards, classical masterpieces and some very catchy love songs; this is Gershwin.",
-  "num_followers": 84041,
+  "num_followers": 84054,
   "original_name": "This is Gershwin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3M2YzYjRmZmFjMGJiYjAzY2YzZWU5NmVkN2QyMTYyOWM1OTc4MjY2",
+  "snapshot_id": "MCxiOGU2MzFkOTFlZjU3YTczMzMwMzc2NDE4ODFlNThiNDFiZDA4ZmIx",
   "tracks": [
     {
       "added_at": "2022-08-05 04:02:00",
@@ -924,9 +924,9 @@
           "url": "https://open.spotify.com/artist/4XNYbiwP1fToWVyvNPTMMK"
         }
       ],
-      "duration_ms": 438560,
-      "name": "Piano Concerto in F Major: III. Allegro agitato",
-      "url": "https://open.spotify.com/track/533JRQYBlNy9qEBXGm8LeE"
+      "duration_ms": 762453,
+      "name": "Piano Concerto in F Major: II. Adagio",
+      "url": "https://open.spotify.com/track/24EDNyjGi0wUk6XgNtnYs7"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -952,9 +952,9 @@
           "url": "https://open.spotify.com/artist/4XNYbiwP1fToWVyvNPTMMK"
         }
       ],
-      "duration_ms": 762453,
-      "name": "Piano Concerto in F Major: II. Adagio",
-      "url": "https://open.spotify.com/track/24EDNyjGi0wUk6XgNtnYs7"
+      "duration_ms": 438560,
+      "name": "Piano Concerto in F Major: III. Allegro agitato",
+      "url": "https://open.spotify.com/track/533JRQYBlNy9qEBXGm8LeE"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -1035,26 +1035,6 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Rhapsody In Blue: Saint-S\u00e4ens, Ravel, Gershwin",
-        "url": "https://open.spotify.com/album/4QYd77TXZufEvBsJYlBOgw"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Benjamin Grosvenor",
-          "url": "https://open.spotify.com/artist/4imd50KIbHcyrStbIuZswj"
-        }
-      ],
-      "duration_ms": 239693,
-      "name": "Love Walked In",
-      "url": "https://open.spotify.com/track/06JM3tfixqVhSO48XbDRUJ"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
         "name": "Gershwin: Rhapsody in Blue - Strike Up the Band: Overture - Promenade - Catfish Row",
         "url": "https://open.spotify.com/album/7BGSTg6EXyPHTuaFiJgz1V"
       },
@@ -1079,6 +1059,26 @@
       "duration_ms": 412906,
       "name": "Catfish Row: Suite from Porgy and Bess (arr. S. Bowen for orchestra): I. Catfish Row",
       "url": "https://open.spotify.com/track/6YDyGvuZOX5m3aoTZTS2G7"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Rhapsody In Blue: Saint-S\u00e4ens, Ravel, Gershwin",
+        "url": "https://open.spotify.com/album/4QYd77TXZufEvBsJYlBOgw"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Benjamin Grosvenor",
+          "url": "https://open.spotify.com/artist/4imd50KIbHcyrStbIuZswj"
+        }
+      ],
+      "duration_ms": 239693,
+      "name": "Love Walked In",
+      "url": "https://open.spotify.com/track/06JM3tfixqVhSO48XbDRUJ"
     },
     {
       "added_at": "2022-08-05 04:02:00",

@@ -4990,6 +4990,24 @@
     {
       "album": {
         "name": "Blow",
+        "url": "https://open.spotify.com/album/5nZqzvIRrgYyWea4LVHiWU"
+      },
+      "artists": [
+        {
+          "name": "Amari Teague",
+          "url": "https://open.spotify.com/artist/2fu7Ig6d88h9W1gyFoo0vC"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133067,
+      "name": "Blow",
+      "url": "https://open.spotify.com/track/6oRKTJSDRW5aqg4nE8vETf"
+    },
+    {
+      "album": {
+        "name": "Blow",
         "url": "https://open.spotify.com/album/07AiRVrtrniKqkxHpLLY2g"
       },
       "artists": [
@@ -13032,6 +13050,32 @@
       "duration_ms": 195463,
       "name": "GANANIKA",
       "url": "https://open.spotify.com/track/5VGslDcbunMcITNpdt8VGY"
+    },
+    {
+      "album": {
+        "name": "Gangsta",
+        "url": "https://open.spotify.com/album/1qz3r9Ys5UXaE0XToUU71b"
+      },
+      "artists": [
+        {
+          "name": "Free Nationals",
+          "url": "https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194520,
+      "name": "Gangsta",
+      "url": "https://open.spotify.com/track/49oKnEjgRSs3DMXScEU2G1"
     },
     {
       "album": {
@@ -28339,6 +28383,24 @@
     },
     {
       "album": {
+        "name": "Richtivities",
+        "url": "https://open.spotify.com/album/6YtEsHXxWjQLdNYIkRjFgB"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176401,
+      "name": "Richtivities",
+      "url": "https://open.spotify.com/track/78VmtCRovWdLIz3p0Tj7nb"
+    },
+    {
+      "album": {
         "name": "Hit Different",
         "url": "https://open.spotify.com/album/4H5P7cJyGe0Sw0gSHtjuMm"
       },
@@ -30398,6 +30460,28 @@
       "duration_ms": 158892,
       "name": "SHOT",
       "url": "https://open.spotify.com/track/1SIZ9xibXxrgaAmnBHDQec"
+    },
+    {
+      "album": {
+        "name": "Shotta Flow Series",
+        "url": "https://open.spotify.com/album/6R8l6AT10mY3uuRugnQaLi"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "Lil Mabu",
+          "url": "https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180129,
+      "name": "Shotta Flow 7 (feat. Lil Mabu) - Remix",
+      "url": "https://open.spotify.com/track/5LjwPFTJZB00eSfqI8TIqD"
     },
     {
       "album": {

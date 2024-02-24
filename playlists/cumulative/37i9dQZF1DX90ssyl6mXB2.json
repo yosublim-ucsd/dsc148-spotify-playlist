@@ -911,6 +911,28 @@
     },
     {
       "album": {
+        "name": "Mixed Emotions",
+        "url": "https://open.spotify.com/album/4UADm8zx1jjPisT4Gnn0NJ"
+      },
+      "artists": [
+        {
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        },
+        {
+          "name": "Vory",
+          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164825,
+      "name": "Unsettling (feat. Vory)",
+      "url": "https://open.spotify.com/track/2OpZBsCyLn9jTulj8vURFh"
+    },
+    {
+      "album": {
         "name": "W.Y.D? (What Is We Doing)",
         "url": "https://open.spotify.com/album/6rAGpO22MTJToHUj0qcsgj"
       },
@@ -1060,6 +1082,42 @@
       "duration_ms": 213637,
       "name": "You (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/4qS2KPWvsQzLvRa9oCHw41"
+    },
+    {
+      "album": {
+        "name": "You For Me",
+        "url": "https://open.spotify.com/album/270lJPdEpBbZO1xB8akya0"
+      },
+      "artists": [
+        {
+          "name": "TheARTI$t",
+          "url": "https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162374,
+      "name": "You For Me",
+      "url": "https://open.spotify.com/track/1vs8g4oyFhRe2a4IvrQRH2"
+    },
+    {
+      "album": {
+        "name": "Zendaya",
+        "url": "https://open.spotify.com/album/4eewLAyGRqhvhSLqxjOw6k"
+      },
+      "artists": [
+        {
+          "name": "Tailz.",
+          "url": "https://open.spotify.com/artist/49ckNZa4dIW3UluuEW2EC1"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185155,
+      "name": "Zendaya",
+      "url": "https://open.spotify.com/track/75IzEakZalALdkyNQLZbrk"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX90ssyl6mXB2"

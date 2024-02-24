@@ -4,7 +4,7 @@
 
 > 
 
-477 songs - 1 day 0 hr 44 min
+478 songs - 1 day 0 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -339,7 +339,7 @@
 | [Outta My Head](https://open.spotify.com/track/73HFI78kF6Hr3PjOpdcU2t) | [Charlie Knox](https://open.spotify.com/artist/7pPwVoW9SP3X6AA0mSgXto), [THRDL!FE](https://open.spotify.com/artist/04O00MEN0lHEKWTwRjb1nS) | [Outta My Head](https://open.spotify.com/album/7vl0y5eLEBIdeASytoZOWA) | 2:38 | 2024-01-04 | 2024-02-23 |
 | [Overpass Graffiti \- TCTS Remix](https://open.spotify.com/track/7aJipE69xCCq3Upw8w9JOf) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io) | [Overpass Graffiti \(TCTS Remix\)](https://open.spotify.com/album/1v4uBCAiRxSw9tnujr5oXo) | 4:36 | 2022-04-15 | 2022-07-29 |
 | [Panic Room](https://open.spotify.com/track/3MkuFR7t25mu7Iscp6GGiV) | [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Panic Room](https://open.spotify.com/album/0I1FZLxw8XWEwQMLMAlTkp) | 3:34 | 2024-01-17 |  |
-| [Paradise](https://open.spotify.com/track/6EsnKHa5lVI409LXu3PkR6) | [Kings Of The Rollers](https://open.spotify.com/artist/3OHnTiMsWYjSyj52aKmrBP), [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M) | [Paradise](https://open.spotify.com/album/42Yeib3dBZYZ8tWXqTOYAZ) | 3:02 | 2024-02-23 |  |
+| [Paradise](https://open.spotify.com/track/6EsnKHa5lVI409LXu3PkR6) | [Kings Of The Rollers](https://open.spotify.com/artist/3OHnTiMsWYjSyj52aKmrBP), [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M) | [Paradise](https://open.spotify.com/album/42Yeib3dBZYZ8tWXqTOYAZ) | 3:02 | 2024-02-23 | 2024-02-24 |
 | [Paranoid \(feat\. Izzy Bizu\)](https://open.spotify.com/track/2obJRJaLqTepXxwa2ww8cF) | [Welshy](https://open.spotify.com/artist/2eDmtsJH4pQksx4CNhlSQ6), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Paranoid \(feat\. Izzy Bizu\)](https://open.spotify.com/album/6beavdkWUJx58OA4vKQpLC) | 2:30 | 2022-08-22 | 2024-01-24 |
 | [Party Girl \(Gonna Do\)](https://open.spotify.com/track/1PghLrmrEHyXfyMTyZWz5d) | [Ultra Naté](https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN), [KIMMIC](https://open.spotify.com/artist/203PtVTnerRs5Vey1UyQgN) | [Party Girl \(Gonna Do\)](https://open.spotify.com/album/2DNGRhO281OlxC3tQXC7f7) | 2:23 | 2024-01-26 |  |
 | [Party Like](https://open.spotify.com/track/1ggSoL5AfCW3ObIvt5253T) | [PS1](https://open.spotify.com/artist/7bZGP9ijvv55LOENT634Mj) | [Party Like](https://open.spotify.com/album/4bGR0xn8ux5iIOdAzBXML9) | 2:41 | 2022-06-20 | 2022-07-28 |
@@ -449,6 +449,7 @@
 | [Waking Up](https://open.spotify.com/track/2eYw2v771lwzFUQ9sSBGpK) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Waking Up](https://open.spotify.com/album/1QZ1DFVR4DNchZMURegY1H) | 2:34 | 2024-01-12 |  |
 | [Walk On Water](https://open.spotify.com/track/26OcKTbjJBj5Je0ohI61zu) | [Kokiri](https://open.spotify.com/artist/1owCC0eLSdPUND3qAAFEmv) | [Walk On Water](https://open.spotify.com/album/4OAcdI5bbBBUTN3KomHRzM) | 2:56 | 2022-04-15 | 2022-07-29 |
 | [Wanna Be](https://open.spotify.com/track/7LaY0WEnbY6rTqzSfoU5jj) | [Silky](https://open.spotify.com/artist/3dlippLcdVGBPKVFhnWXaF) | [Wanna Be](https://open.spotify.com/album/3xUpADnjRH0Wsuky9k0ktp) | 3:30 | 2022-04-15 | 2024-01-05 |
+| [Want U](https://open.spotify.com/track/4PIdTFeeNnJ87nKOf1djuG) | [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Want U](https://open.spotify.com/album/336xKil8LL5FWBEHFdDXG4) | 2:30 | 2024-02-23 |  |
 | [Was a Time](https://open.spotify.com/track/4L3oBxjWLPgQkf2FXIWgx8) | [Kinetic Minds](https://open.spotify.com/artist/5SuFUtMmTZFoBmRZrOcdpG) | [Was a Time](https://open.spotify.com/album/5TA3haAJzyzFsdovYNZwNI) | 2:39 | 2022-04-15 | 2022-05-10 |
 | [Waterslides](https://open.spotify.com/track/1SBfaO3swtjh8dV07MExuP) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Waterslides](https://open.spotify.com/album/5U1HyVpo9zeSC8K8LhHx4i) | 2:38 | 2024-01-26 |  |
 | [We Can Come Together](https://open.spotify.com/track/0YG1fyqSZpuIfNlkOeN3eD) | [Love Regenerator](https://open.spotify.com/artist/05KDKIpxshxrB9BMewaCBW), [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [We Can Come Together](https://open.spotify.com/album/2fQHFbvrb4zGAVXTR7DN4q) | 3:36 | 2022-04-15 | 2024-02-23 |

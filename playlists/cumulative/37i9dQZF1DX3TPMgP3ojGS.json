@@ -2187,6 +2187,24 @@
     },
     {
       "album": {
+        "name": "Arbor",
+        "url": "https://open.spotify.com/album/3UqI8H7dI34eg3yTf7aa1C"
+      },
+      "artists": [
+        {
+          "name": "Samuel Kees",
+          "url": "https://open.spotify.com/artist/6KGVoP7dCFZ2FILUCCj4rn"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155500,
+      "name": "Arbor",
+      "url": "https://open.spotify.com/track/0BDaM0EnJiCl6jmWAIERk3"
+    },
+    {
+      "album": {
         "name": "Archipelago",
         "url": "https://open.spotify.com/album/5cvXAkKUZjtimQ19bN6AN9"
       },
@@ -18418,7 +18436,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 90717,
       "name": "My Little Treasure",
       "url": "https://open.spotify.com/track/7A6mWq885WLJUngzwxfQXW"

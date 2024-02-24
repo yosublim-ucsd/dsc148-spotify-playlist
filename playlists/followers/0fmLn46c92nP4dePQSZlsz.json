@@ -1,5 +1,5 @@
 {
-  "2024-02-23": 17104,
+  "2024-02-24": 17104,
   "date_first_scraped": "2023-11-08",
   "description": "Secretly's collection of the best new music from independent artists and labels everywhere. Updates bi-weekly. Cover star: <a href=\"https://open.spotify.com/artist/3LDUvPQ97zYOzFliNk9GmV?si=NrdMWwm6TeOsn9HqNK5q8w\">Loren Kramar</a>",
   "name": "Secretly Indie",
@@ -2016,6 +2016,24 @@
     },
     {
       "album": {
+        "name": "I'm A Man",
+        "url": "https://open.spotify.com/album/1GDSTZ2T6bOGQdFtjXTZn4"
+      },
+      "artists": [
+        {
+          "name": "Kim Gordon",
+          "url": "https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271693,
+      "name": "I'm A Man",
+      "url": "https://open.spotify.com/track/4RdqVrjTnuEms5pgKNG95q"
+    },
+    {
+      "album": {
         "name": "I-90 Bridge",
         "url": "https://open.spotify.com/album/32eLWJP5fC26HGO3awNioD"
       },
@@ -2201,24 +2219,6 @@
       "duration_ms": 278518,
       "name": "It's So Good",
       "url": "https://open.spotify.com/track/1Cc00pWEDEDiA4eEv3npjD"
-    },
-    {
-      "album": {
-        "name": "I'm A Man",
-        "url": "https://open.spotify.com/album/1GDSTZ2T6bOGQdFtjXTZn4"
-      },
-      "artists": [
-        {
-          "name": "Kim Gordon",
-          "url": "https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx"
-        }
-      ],
-      "date_added": "2024-02-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 271693,
-      "name": "I\u2019m A Man",
-      "url": "https://open.spotify.com/track/4RdqVrjTnuEms5pgKNG95q"
     },
     {
       "album": {

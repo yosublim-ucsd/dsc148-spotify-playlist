@@ -1,7 +1,7 @@
 {
-  "2024-02-23": 40679,
+  "2024-02-24": 40760,
   "date_first_scraped": "2021-12-29",
-  "description": "Catching flights and going global. Cover: Luciano and Omah Lay",
+  "description": "Catching flights and going global. Cover: Rotimi, Nasty C, Mayorkun",
   "name": "Gone Abroad ",
   "tracks": [
     {
@@ -103,7 +103,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 169800,
       "name": "5 Star (with Rick Ross)",
       "url": "https://open.spotify.com/track/5shjJZp662loniBOyjqr8h"
@@ -379,6 +379,40 @@
       "duration_ms": 191808,
       "name": "Amplify",
       "url": "https://open.spotify.com/track/3Yst8fBmKcLK7OEPeXB7tm"
+    },
+    {
+      "album": {
+        "name": "Ananipenda (feat. Soge Culebra, Marioo) [Remix]",
+        "url": "https://open.spotify.com/album/12rtLcPE9RQYL8e8WqaWY0"
+      },
+      "artists": [
+        {
+          "name": "Platform",
+          "url": "https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md"
+        },
+        {
+          "name": "Peipper",
+          "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
+        },
+        {
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        },
+        {
+          "name": "Marioo",
+          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
+        },
+        {
+          "name": "Soge Culebra",
+          "url": "https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289539,
+      "name": "Ananipenda (feat. Soge Culebra, Marioo) - Remix",
+      "url": "https://open.spotify.com/track/2SCK9dHI52spNQDwUCedD0"
     },
     {
       "album": {
@@ -5350,6 +5384,28 @@
     },
     {
       "album": {
+        "name": "Lockdown 2.0",
+        "url": "https://open.spotify.com/album/3YMrQUD0NuGtZ6Wrb5jsqy"
+      },
+      "artists": [
+        {
+          "name": "Rose May Alaba",
+          "url": "https://open.spotify.com/artist/2ZMK00G23KPZRXv5uETA5s"
+        },
+        {
+          "name": "Camidoh",
+          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Lockdown 2.0",
+      "url": "https://open.spotify.com/track/3y2MvkCMnjBHDj55Aygezw"
+    },
+    {
+      "album": {
         "name": "Lockdown 2.0 (feat. Camidoh)",
         "url": "https://open.spotify.com/album/6bpLXPcJRimfApziC8WZkv"
       },
@@ -5365,7 +5421,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 186666,
       "name": "Lockdown 2.0 (feat. Camidoh)",
       "url": "https://open.spotify.com/track/1yp4jq7tC4Cbn95nqD8BDW"
@@ -5561,6 +5617,28 @@
       "duration_ms": 202573,
       "name": "Maan Meri Jaan (African Version)",
       "url": "https://open.spotify.com/track/709Eo5HgTz3di5xVkTWr4b"
+    },
+    {
+      "album": {
+        "name": "LA MELO EST GANGX",
+        "url": "https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1"
+      },
+      "artists": [
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233240,
+      "name": "MAMI WATA",
+      "url": "https://open.spotify.com/track/6yqwxY8qifBBhyryjZutxk"
     },
     {
       "album": {
@@ -6915,7 +6993,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 173986,
       "name": "One Dance",
       "url": "https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0"
@@ -7045,7 +7123,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 216706,
       "name": "Own It (feat. Ed Sheeran & Burna Boy)",
       "url": "https://open.spotify.com/track/4QPEwDdOMhY7rNS05mTyMR"
@@ -7766,6 +7844,32 @@
     },
     {
       "album": {
+        "name": "REASON",
+        "url": "https://open.spotify.com/album/3HsFIS5mJMqpisQXuwL0BN"
+      },
+      "artists": [
+        {
+          "name": "Karun",
+          "url": "https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC"
+        },
+        {
+          "name": "Hook",
+          "url": "https://open.spotify.com/artist/0d2cvrJfsN0fBd6WuwwlDQ"
+        },
+        {
+          "name": "GR!",
+          "url": "https://open.spotify.com/artist/3OLtlWxh8Ht9pL5ke6gFkd"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221503,
+      "name": "REASON",
+      "url": "https://open.spotify.com/track/1481IQC8BjqGLTer67cWbC"
+    },
+    {
+      "album": {
         "name": "Mr. Money With The Vibe",
         "url": "https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI"
       },
@@ -8095,6 +8199,32 @@
       "duration_ms": 204763,
       "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
       "url": "https://open.spotify.com/track/15HMh4yxdf4wyxSZSlOgGZ"
+    },
+    {
+      "album": {
+        "name": "Sade (feat. Nasty C)",
+        "url": "https://open.spotify.com/album/0xgY5KFARllShxhQ719GiD"
+      },
+      "artists": [
+        {
+          "name": "Rotimi",
+          "url": "https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf"
+        },
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        },
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223990,
+      "name": "Sade (feat. Nasty C)",
+      "url": "https://open.spotify.com/track/0h09jdyYa1ncmUTcAHiZU1"
     },
     {
       "album": {

@@ -327,6 +327,32 @@
     },
     {
       "album": {
+        "name": "Blaze of Clear Sky (from \"The Apothecary Diaries\" Soundtrack)",
+        "url": "https://open.spotify.com/album/23GffvhwgaUE3p6K3ZCDFT"
+      },
+      "artists": [
+        {
+          "name": "Daichi Takenaka",
+          "url": "https://open.spotify.com/artist/40kOocaMWxJX2dIYzDAUmB"
+        },
+        {
+          "name": "Mashiro Uchida",
+          "url": "https://open.spotify.com/artist/3kFbGXxreI0op7aD2SInoo"
+        },
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118000,
+      "name": "Blaze of Clear Sky (from \"The Apothecary Diaries\" Soundtrack)",
+      "url": "https://open.spotify.com/track/04xIuk7yE5S3ucvzd7VNi2"
+    },
+    {
+      "album": {
         "name": "BLIZZARD",
         "url": "https://open.spotify.com/album/4cv7mTcRI2qKuUUu0K8THt"
       },

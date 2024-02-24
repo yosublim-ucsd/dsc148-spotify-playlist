@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 126488,
+  "num_followers": 126495,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDU3OCxjNTg3ZjYzMjk3ZGEwNTg2MTMwMDJmMzQ3NjY3ZTBlMWU4ZDk1ODVk",
+  "snapshot_id": "NDU4MCxkNmQ5OTJmZGU5ODc4ZjZkOTA4ZTVjNzFhNDc0ZjMzZWY5NjllOGM1",
   "tracks": [
+    {
+      "added_at": "2024-02-23 17:00:10",
+      "album": {
+        "name": "Rain Dance",
+        "url": "https://open.spotify.com/album/2vePCjQ076mqwdDTYcNXYi"
+      },
+      "artists": [
+        {
+          "name": "MUZZ",
+          "url": "https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg"
+        }
+      ],
+      "duration_ms": 189257,
+      "name": "Rain Dance",
+      "url": "https://open.spotify.com/track/2kjE1Znpvkl5g6BrHAN8KG"
+    },
     {
       "added_at": "2024-02-22 18:05:04",
       "album": {
@@ -1135,30 +1151,6 @@
       "duration_ms": 255750,
       "name": "Holding On Is Human",
       "url": "https://open.spotify.com/track/6ws7SG03iSjzEJmG1JroFB"
-    },
-    {
-      "added_at": "2023-11-14 15:06:19",
-      "album": {
-        "name": "Fall Apart (GHENGAR Remix)",
-        "url": "https://open.spotify.com/album/6fIBa7iKh7dbFt9m13o35N"
-      },
-      "artists": [
-        {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
-        },
-        {
-          "name": "Excision",
-          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
-        },
-        {
-          "name": "GHENGAR",
-          "url": "https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf"
-        }
-      ],
-      "duration_ms": 228800,
-      "name": "Fall Apart - GHENGAR Remix",
-      "url": "https://open.spotify.com/track/5iL0iMVwZVVfi3VxlVzf1A"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

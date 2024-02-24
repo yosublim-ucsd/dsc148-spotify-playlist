@@ -4,7 +4,7 @@
 
 > \(\-\) "Connection, Discovery, & Growth"
 
-77 songs - 3 hr 43 min
+79 songs - 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Go Big or Go Home](https://open.spotify.com/track/6IqKFke4ZhKbGYULllEezY) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : DILEMMA](https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI) | 3:21 | 2022-05-12 |  |
 | [Hey Tayo \- Tayo Opening Theme Song](https://open.spotify.com/track/2A7A3KF4NHFjW3ygFSt7In) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [HEY TAYO](https://open.spotify.com/album/2i0irlNjTfYPohsFPIK8J0) | 1:51 | 2022-05-12 |  |
 | [I Need The Light](https://open.spotify.com/track/69mhZKG0nDbSK7NoINWEsE) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [I Need The Light](https://open.spotify.com/album/4RAx28on33NHM5FQiFhyvZ) | 3:05 | 2022-08-19 |  |
+| [I NEED U \- Spotify Singles](https://open.spotify.com/track/3MOa6IKagO2lT9n0sI8fZQ) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [I NEED U \- Spotify Singles](https://open.spotify.com/album/2eUqvZveGueUYsQBRd4NVi) | 3:01 | 2024-02-23 |  |
 | [Interlude : Question](https://open.spotify.com/track/44h1kKvowM2bMxx1X3T1ue) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : ANSWER](https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5) | 1:24 | 2022-05-12 |  |
 | [Interlude : Question](https://open.spotify.com/track/5hmNvW5VqPJ96N6om3tO4g) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : DILEMMA](https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI) | 1:24 | 2022-05-12 |  |
 | [Intro : The Invitation](https://open.spotify.com/track/6gGpF8V8miC4O0GZUqSZ9a) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : CARNIVAL](https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv) | 2:10 | 2022-05-12 |  |
@@ -84,6 +85,7 @@
 | [Upper Side Dreamin’](https://open.spotify.com/track/6oSCR9n71tmwWL3GFb65Ec) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : DILEMMA](https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI) | 3:09 | 2022-05-12 |  |
 | [Upper Side Dreamin’](https://open.spotify.com/track/7vVgN04eLKRBb7MW7pfOT0) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : ANSWER](https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5) | 3:09 | 2022-05-12 |  |
 | [WALK THE LINE](https://open.spotify.com/track/0xDVPc5W2jYqO6p9NisCI4) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [MANIFESTO : DAY 1](https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8) | 2:03 | 2022-07-04 |  |
+| [What Makes You Beautiful](https://open.spotify.com/track/4NxbUHGeXsQgxvR8YKbHjC) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [What Makes You Beautiful \[THE SEASONS: Red Carpet with Lee Hyo Ri\]](https://open.spotify.com/album/3RvguzRz56wqZ9fNldExgn) | 2:18 | 2024-02-23 |  |
 | [ZERO MOMENT \(Sung by HEESEUNG, JAY, JAKE\) \(Prod\. tearliner\)](https://open.spotify.com/track/3I4yBsHErzJp7rUF2ruOzV) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [Summer Strike, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/6kAXwLPooprklH4fTIDu3D) | 2:32 | 2023-10-04 |  |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

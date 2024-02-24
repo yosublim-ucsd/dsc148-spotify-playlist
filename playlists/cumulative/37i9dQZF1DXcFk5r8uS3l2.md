@@ -4,7 +4,7 @@
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Lizz Wright
 
-349 songs - 21 hr 55 min
+350 songs - 22 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,7 +242,7 @@
 | [Racing To A Red Light](https://open.spotify.com/track/171aGpy6zowgTlHROdFKdY) | [Early James](https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY) | [Racing To A Red Light](https://open.spotify.com/album/19gorkDhGxNv1eydTzvZ1a) | 4:24 | 2022-07-15 | 2022-09-05 |
 | [Rail Train Blues](https://open.spotify.com/track/4uGmIxAHzQ7eFUTUTrgcx9) | [Mike Stocksdale](https://open.spotify.com/artist/5hBlYNHQa69ayImuzihy8a) | [Ghosts & Whispers](https://open.spotify.com/album/7fyaXL87ACKqpQjqXTTbtt) | 3:53 | 2023-09-08 |  |
 | [Rebels In The Street](https://open.spotify.com/track/5kGFXbSqDNadDBSsdyO94y) | [The Red Goes Black](https://open.spotify.com/artist/12BYA91BSCxjbk1b638nlR) | [Rebels In The Street](https://open.spotify.com/album/4SPtUiUfHxlWbfLSGIwWmA) | 3:49 | 2023-03-31 | 2023-08-26 |
-| [Remember Me](https://open.spotify.com/track/2KioWFaFI2I2seZe7CJNII) | [Seth Walker](https://open.spotify.com/artist/3Bl4eNAFJkXXi0ewcjgGP9) | [Remember Me](https://open.spotify.com/album/6BIJ51eimU9fVigSw41HXy) | 2:19 | 2022-04-29 |  |
+| [Remember Me](https://open.spotify.com/track/2KioWFaFI2I2seZe7CJNII) | [Seth Walker](https://open.spotify.com/artist/3Bl4eNAFJkXXi0ewcjgGP9) | [Remember Me](https://open.spotify.com/album/6BIJ51eimU9fVigSw41HXy) | 2:19 | 2022-04-29 | 2024-02-24 |
 | [River](https://open.spotify.com/track/0NeJjNlprGfZpeX2LQuN6c) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home](https://open.spotify.com/album/4svLfrPPk2npPVuI4kXPYg) | 3:58 | 2021-12-17 | 2022-07-29 |
 | [River](https://open.spotify.com/track/4B7iMBGmm5woNqs6Oj3GpT) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Mellow Summer](https://open.spotify.com/album/7rdNrR0gVmevOWDO0CO6Xl) | 3:58 | 2022-05-27 | 2022-11-14 |
 | [River](https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home \(Deluxe\)](https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv) | 4:00 | 2022-05-27 | 2023-02-25 |
@@ -337,6 +337,7 @@
 | [Walls](https://open.spotify.com/track/5NWLUYw5Ibr1NpSH0wBuQJ) | [Racoon Racoon](https://open.spotify.com/artist/2xon3zKeNiNsmdRs2bNK04) | [Walls](https://open.spotify.com/album/3o9qOIuCtNF8C9s9p3NT1c) | 2:59 | 2021-12-17 | 2023-03-11 |
 | [Watch Me Change](https://open.spotify.com/track/4t7izd9oN5muhlpi2ViCMm) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [Watch Me Change](https://open.spotify.com/album/4uyEzuS7dmtuwBpLwZM7lO) | 3:36 | 2022-03-18 | 2022-07-29 |
 | [Watch Me Go](https://open.spotify.com/track/4zoCjQ2VnSlgg65FDrTr5a) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [I'm Glad Trouble Don't Last Always](https://open.spotify.com/album/6ctUlHVnZfeKaR1UStIknt) | 4:43 | 2021-12-17 | 2022-06-28 |
+| [Watch Me Gone](https://open.spotify.com/track/00GkFHBAxQe5yr55TtacF8) | [Mark Knopfler](https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug) | [Watch Me Gone](https://open.spotify.com/album/6gefEZB1b5wlbCj9zLYagj) | 5:02 | 2024-02-23 |  |
 | [We Are Here](https://open.spotify.com/track/604TjuOvRI4BTt9rlRrCqs) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [We Are Here](https://open.spotify.com/album/24NMVCQrIlerOiB0o2fjVd) | 3:24 | 2021-12-17 | 2023-04-01 |
 | [We're All the Way](https://open.spotify.com/track/7Liqd8sniZpyjebLC6dpuR) | [Adam Douglas](https://open.spotify.com/artist/2Qwxl6F6JSkr546OaCsgOG), [Christel Alsos](https://open.spotify.com/artist/30wwNbASvE9GkBDsNVCsnn) | [We're All The Way](https://open.spotify.com/album/6uxe99gY0arAqJb6f3TLFq) | 3:09 | 2023-05-19 | 2023-08-12 |
 | [Wednesday Morning Atonement](https://open.spotify.com/track/1jJeYe1XBYid6aiTcHlBC1) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [Face Your Fear](https://open.spotify.com/album/3Can2qB9S1pOcElpkfExB1) | 4:28 | 2021-12-17 | 2023-02-25 |

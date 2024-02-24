@@ -1,5 +1,5 @@
 {
-  "2024-02-23": 10279,
+  "2024-02-24": 10283,
   "date_first_scraped": "2022-08-03",
   "description": "A playlist of some of our favorite new songs, updated weekly. See our archived playlists for songs from previous weeks.",
   "name": "BrooklynVegan Weekly Playlist",
@@ -19654,6 +19654,24 @@
     },
     {
       "album": {
+        "name": "I'm A Man",
+        "url": "https://open.spotify.com/album/1GDSTZ2T6bOGQdFtjXTZn4"
+      },
+      "artists": [
+        {
+          "name": "Kim Gordon",
+          "url": "https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271693,
+      "name": "I'm A Man",
+      "url": "https://open.spotify.com/track/4RdqVrjTnuEms5pgKNG95q"
+    },
+    {
+      "album": {
         "name": "I'm Going To Get Free",
         "url": "https://open.spotify.com/album/6YXvmS7Xe7yQvD9kqF7wE5"
       },
@@ -21147,24 +21165,6 @@
       "duration_ms": 285308,
       "name": "It's You",
       "url": "https://open.spotify.com/track/21sMYVKeuKzBWwSg5uYeVJ"
-    },
-    {
-      "album": {
-        "name": "I'm A Man",
-        "url": "https://open.spotify.com/album/1GDSTZ2T6bOGQdFtjXTZn4"
-      },
-      "artists": [
-        {
-          "name": "Kim Gordon",
-          "url": "https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx"
-        }
-      ],
-      "date_added": "2024-02-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 271693,
-      "name": "I\u2019m A Man",
-      "url": "https://open.spotify.com/track/4RdqVrjTnuEms5pgKNG95q"
     },
     {
       "album": {

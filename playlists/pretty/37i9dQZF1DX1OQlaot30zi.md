@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Beba, Fabri Fibra, Mace, Niky Savage e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,208 likes - 100 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,252 likes - 100 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 82 | [Maschere](https://open.spotify.com/track/4Zj8tPNrU6paFDBpaWO6yk) | [Noemi Coozy](https://open.spotify.com/artist/0PDAJtFlTKotT8i0mu1THx), [Näthaniel](https://open.spotify.com/artist/5W3ZpbTC2fyFGujra4uVTF) | [Maschere](https://open.spotify.com/album/4P3pZAr1lww8HZmVWQX3nY) | 2:07 |
 | 83 | [FOH](https://open.spotify.com/track/48PwjzkjL2WiMdznotidlK) | [Cage.488](https://open.spotify.com/artist/40YEqYNJznSOojw3fxBvgN), [13Joph](https://open.spotify.com/artist/2f0kV6av13bM9DiJOLXWsC) | [FOH](https://open.spotify.com/album/7s8qVbvF4NvMzdfTCJnQ9U) | 1:56 |
 | 84 | [Milkshake](https://open.spotify.com/track/4Xew7ZCUUlEr9K0b33Tt4m) | [Rak](https://open.spotify.com/artist/3tnVct3V6mIWk5FnBGCuVt), [Kamyar](https://open.spotify.com/artist/4cTOxBErR9Of5kMfjVw86j) | [Milkshake](https://open.spotify.com/album/0Jr5DEtwMwoF4UY2PoArzL) | 1:54 |
-| 85 | [Moove \(feat\. Axell & Swan\)](https://open.spotify.com/track/1lSK6KCfBdZY5A4UF30QRF) | [Real Talk](https://open.spotify.com/artist/7MeFbKQT6w9iBMLuHmzVVW), [Axell](https://open.spotify.com/artist/28MwCJQFjF6qOkpsiDh2yT), [Swan](https://open.spotify.com/artist/5vjkHRMoB3hWGn3BvNqGcj) | [EP 5/8 \(feat\. Axell\)](https://open.spotify.com/album/0rMEQ6w3iZgeJHgNlIwYOK) | 2:04 |
+| 85 | [Moove \(feat\. Axell & Swan\)](https://open.spotify.com/track/4iSoJU6Yn6Wt7LienXuWtl) | [Real Talk](https://open.spotify.com/artist/7MeFbKQT6w9iBMLuHmzVVW), [Axell](https://open.spotify.com/artist/28MwCJQFjF6qOkpsiDh2yT), [Swan](https://open.spotify.com/artist/5vjkHRMoB3hWGn3BvNqGcj) | [Real talk \- 5/8 feat Axell](https://open.spotify.com/album/56fVdGqCHRyXSSAmr8gfeP) | 2:04 |
 | 86 | [Habibti](https://open.spotify.com/track/3xlPofwQqXfvCu1cdHo1IH) | [Gips](https://open.spotify.com/artist/59PFMyNd41PhFTlrSQjyZ1), [Voleur pnz](https://open.spotify.com/artist/6BGAhqSN3qEqlZRpMogAFN) | [Passager 59](https://open.spotify.com/album/424M1WB6bIzlTb8TZNVkdt) | 3:28 |
 | 87 | [Fantasma](https://open.spotify.com/track/5DTlezILqdaiyQmTyahTrk) | [Ale](https://open.spotify.com/artist/4H65GddFK5t9XF60MtbVCX) | [Fantasma](https://open.spotify.com/album/4hOe683WF5YBF1S90jWQ5i) | 2:30 |
 | 88 | [Colpa Mia](https://open.spotify.com/track/7qFqO4ytYYQCYRO8j13nIG) | [Nicola Siciliano](https://open.spotify.com/artist/0q0CTttRdwiuDFmDiN7jAt) | [Colpa Mia](https://open.spotify.com/album/0Wp77ioPW3AFkhEEcXKM2P) | 2:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 99 | [LUNGA VITA AI RE](https://open.spotify.com/track/330qUuctHh9ficSKNwgMnY) | [TITE LAVOZ](https://open.spotify.com/artist/7iVCUJA6rWV5yHo9P0b070) | [LUNGA VITA AI RE](https://open.spotify.com/album/0SO48murpsipxQx7y0MKY0) | 3:17 |
 | 100 | [IN NOSTRO NOME \(feat\. 22simba\)](https://open.spotify.com/track/4DqRQiZQbKoCFLfdA2JEc3) | [Y.E.B](https://open.spotify.com/artist/1UX1nNkeNhEl07t7KVGDif), [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7) | [IN NOSTRO NOME \(feat\. 22simba\)](https://open.spotify.com/album/1iw8Z1UFEDm0m2Dmk2dflc) | 3:22 |
 
-Snapshot ID: `MCw4NmY1ZjJiOTk1YzBkNzQ0YTM5NjAwMmFkNzdjZWVmMDM3MjkyMmVm`
+Snapshot ID: `MCw2NDdhMDkyMTBmOTkwYTk2YjZkMDY3Y2NjOGJmZWU1ODU3ZWNjMzk1`

@@ -1,12 +1,12 @@
 {
   "description": "Trending songs from Tollywood! \nCover: Guntur Kaaram",
-  "num_followers": 68625,
+  "num_followers": 68993,
   "original_name": "Trending Now Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNjg3OTA4YTk0ZTkxOTcxMGJhNGRjYmMzZjE4ZjMxNmM3MjNiMTRj",
+  "snapshot_id": "MCxjZDFjYjY0ZGRmODk2Y2FjNjQ4MTFkMmU4OGM0MzY3OGI3NzdhOWRm",
   "tracks": [
     {
       "added_at": "2023-12-30 10:49:01",
@@ -111,6 +111,34 @@
       "duration_ms": 198000,
       "name": "Sooreede (From \"Salaar Cease Fire - Telugu\")",
       "url": "https://open.spotify.com/track/78TQJ6QyHZNRXUNFBpNuhP"
+    },
+    {
+      "added_at": "2024-02-23 05:31:54",
+      "album": {
+        "name": "Raghunandana (From \"HanuMan\") [Telugu]",
+        "url": "https://open.spotify.com/album/5tGdhRTc2jmIBnGQ6c2otS"
+      },
+      "artists": [
+        {
+          "name": "GowraHari",
+          "url": "https://open.spotify.com/artist/1GEwRtJ6snJ0z2hzmXAG80"
+        },
+        {
+          "name": "Saicharan Bhaskaruni",
+          "url": "https://open.spotify.com/artist/32rgf5uvf7GtEPjrHyJ6uU"
+        },
+        {
+          "name": "Lokeshwar Edara",
+          "url": "https://open.spotify.com/artist/7ag0al5P3y3IzzEh0G7YL8"
+        },
+        {
+          "name": "Harshavardhan Chavali",
+          "url": "https://open.spotify.com/artist/4ViFjJxWBVs6VrXj72J05G"
+        }
+      ],
+      "duration_ms": 151250,
+      "name": "Raghunandana (From \"HanuMan\") [Telugu]",
+      "url": "https://open.spotify.com/track/0YhKDLlKJOvQnztL7tXVx0"
     },
     {
       "added_at": "2023-11-06 11:12:57",
@@ -331,30 +359,6 @@
       "duration_ms": 267682,
       "name": "Poolamme Pilla (From \"HanuMan\") [Telugu]",
       "url": "https://open.spotify.com/track/4ooaLueG56Bsq44TUNRgAn"
-    },
-    {
-      "added_at": "2024-02-07 09:53:06",
-      "album": {
-        "name": "Ayyo Paapam Saaru (From \"G.O.A.T\")",
-        "url": "https://open.spotify.com/album/0tSIECdX2r07F9C5KZwYDc"
-      },
-      "artists": [
-        {
-          "name": "Sean Roldan",
-          "url": "https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU"
-        },
-        {
-          "name": "Leon James",
-          "url": "https://open.spotify.com/artist/0wv5i0ds2z040yx7oL6UZy"
-        },
-        {
-          "name": "Suresh Banisetti",
-          "url": "https://open.spotify.com/artist/3gcOBaedkasgxYjFVE81Km"
-        }
-      ],
-      "duration_ms": 304484,
-      "name": "Ayyo Paapam Saaru (From \"G.O.A.T\")",
-      "url": "https://open.spotify.com/track/2g1sN68s0gq9VFjbjTFUeq"
     },
     {
       "added_at": "2024-01-02 11:53:22",

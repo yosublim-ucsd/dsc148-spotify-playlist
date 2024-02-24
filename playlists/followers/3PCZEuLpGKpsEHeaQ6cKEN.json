@@ -1,7 +1,7 @@
 {
-  "2024-02-23": 276649,
+  "2024-02-24": 276654,
   "date_first_scraped": "2022-06-10",
-  "description": "The biggest Armada tracks of the moment! | Including Trance, House, Techno, Dance, Afro-House, Melodic Techno | Tracks from Armin van Buuren, ARTY, D.O.D., Loud Luxury, Brando and more! | Updated weekly on Friday | Cover: CID",
+  "description": "The biggest Armada tracks of the moment! | Including Trance, House, Techno, Dance, Afro-House, Melodic Techno | Tracks from Armin van Buuren, ARTY, D.O.D., Loud Luxury, Brando and more! | Updated weekly on Friday | Cover: Lily Palmer",
   "name": "Armada Today",
   "tracks": [
     {
@@ -3455,7 +3455,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 193790,
       "name": "Destination (A State of Trance 2024 Anthem)",
       "url": "https://open.spotify.com/track/5LoRqa8PUNO3tJJr3hQWm8"
@@ -4702,6 +4702,28 @@
     },
     {
       "album": {
+        "name": "Fall In",
+        "url": "https://open.spotify.com/album/1QJ4kpkTftUmhi9cUB440V"
+      },
+      "artists": [
+        {
+          "name": "Joris Delacroix",
+          "url": "https://open.spotify.com/artist/3HRRzIZNQFus3xlUx2xKy1"
+        },
+        {
+          "name": "Silly Boy Blue",
+          "url": "https://open.spotify.com/artist/4m9uyzV105Mtdiz7mEco9J"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221162,
+      "name": "Fall In",
+      "url": "https://open.spotify.com/track/388GwTH9IvPU4JoBejHnW4"
+    },
+    {
+      "album": {
         "name": "Fallin'",
         "url": "https://open.spotify.com/album/3pzOQmMCnqdDNhvqU1ZqvA"
       },
@@ -5531,6 +5553,32 @@
       "duration_ms": 144000,
       "name": "Free",
       "url": "https://open.spotify.com/track/5uFQ1MJxo94U9DOEQSlpTP"
+    },
+    {
+      "album": {
+        "name": "Free Your Mind",
+        "url": "https://open.spotify.com/album/1FbAfWQnHAYS6FdWkgnqr1"
+      },
+      "artists": [
+        {
+          "name": "Stylo",
+          "url": "https://open.spotify.com/artist/0e8a2RTD02fJ5lmCBOR7DI"
+        },
+        {
+          "name": "Space Motion",
+          "url": "https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY"
+        },
+        {
+          "name": "Ruben de Ronde",
+          "url": "https://open.spotify.com/artist/3q7BRw9D1DupXTONJdr94m"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223548,
+      "name": "Free Your Mind",
+      "url": "https://open.spotify.com/track/6gk0Zohmm4H6wjpzNZNk4X"
     },
     {
       "album": {
@@ -8109,6 +8157,28 @@
       "duration_ms": 188160,
       "name": "I'm Watching You (So Many Times) - Les Bisous Remix",
       "url": "https://open.spotify.com/track/1Ly41RuzzcHlVyjeuM8eAw"
+    },
+    {
+      "album": {
+        "name": "I'm Watching You (So Many Times) [Sean Finn Remix]",
+        "url": "https://open.spotify.com/album/4dvANNzZyvdDfh48xsLAyi"
+      },
+      "artists": [
+        {
+          "name": "Gadjo",
+          "url": "https://open.spotify.com/artist/28ZtvtD63uuc4Lf81lYWmr"
+        },
+        {
+          "name": "Sean Finn",
+          "url": "https://open.spotify.com/artist/5xUacP1mVGfiY7Zr9RskmS"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186300,
+      "name": "I'm Watching You (So Many Times) - Sean Finn Remix",
+      "url": "https://open.spotify.com/track/2ZPQ2SE1XJqP3011ATiLZR"
     },
     {
       "album": {
@@ -19872,6 +19942,32 @@
     },
     {
       "album": {
+        "name": "Without Your Love",
+        "url": "https://open.spotify.com/album/7MX0snymC4VDz5hpGojcIs"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        },
+        {
+          "name": "Catello",
+          "url": "https://open.spotify.com/artist/4cpqUkL78IoYnEvYj440WE"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154513,
+      "name": "Without Your Love",
+      "url": "https://open.spotify.com/track/3cFdgPFBfGZuPisJhyN5az"
+    },
+    {
+      "album": {
         "name": "Wizards Of E",
         "url": "https://open.spotify.com/album/5ihffricTEsqYk4nY7WGcT"
       },
@@ -20275,6 +20371,28 @@
       "duration_ms": 221463,
       "name": "Your Light",
       "url": "https://open.spotify.com/track/4y16eulJFqORdWwRjzwpvA"
+    },
+    {
+      "album": {
+        "name": "Your Touch",
+        "url": "https://open.spotify.com/album/72TkK16JLJYYZQUdB5XR5h"
+      },
+      "artists": [
+        {
+          "name": "Kisch",
+          "url": "https://open.spotify.com/artist/5geAjOsxhftVd39yemf4r8"
+        },
+        {
+          "name": "Oscar Duke",
+          "url": "https://open.spotify.com/artist/5umWPuWy08G1yEugAzTxvh"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163489,
+      "name": "Your Touch",
+      "url": "https://open.spotify.com/track/5SXPKRT7jwhDCiGrdSSWYM"
     },
     {
       "album": {

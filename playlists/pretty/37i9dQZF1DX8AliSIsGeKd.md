@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Booka Shade
 
-[Spotify](https://open.spotify.com/user/spotify) - 630,851 likes - 90 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 630,919 likes - 90 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 27 | [Eudemonia](https://open.spotify.com/track/1YXBGyaHzdpVvf2QKVOqwG) | [Dominik Saltevski](https://open.spotify.com/artist/5SRcKErsuBLiDZDfFtOBGN) | [Eudemonia](https://open.spotify.com/album/4NZjDmMOcAAVKrcu7DSKge) | 6:06 |
 | 28 | [Talk to Me](https://open.spotify.com/track/5LK8AFkh6KJ2Zb197rGSoS) | [Justus Reim](https://open.spotify.com/artist/4t3ttwD6le53GANbJxvvib) | [Talk to Me](https://open.spotify.com/album/6UtAouvQTi5cBRJMS3QrfG) | 6:54 |
 | 29 | [Olympus](https://open.spotify.com/track/0hfyaFhHkcEdWWckyVRnH6) | [AKKI \(DE\)](https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs) | [Olympus](https://open.spotify.com/album/3lFDbkGVwjx3Dp1Kx4Fqus) | 2:57 |
-| 30 | [泡 \(Abuku\)](https://open.spotify.com/track/0siPj5cESD9OJfd9EImJln) | [Wata Igarashi](https://open.spotify.com/artist/7ug2B8FOnKHqwtVlD9vrQX) | [Flares\|泡 \(Abuku\)](https://open.spotify.com/album/7JgThj37KZbitRCvScaIwS) | 6:14 |
+| 30 | [泡 \(Abuku\)](https://open.spotify.com/track/1z77pvpNqiJoMACcS7YRAg) | [Wata Igarashi](https://open.spotify.com/artist/7ug2B8FOnKHqwtVlD9vrQX) | [Flares \| 泡 \(Abuku\)](https://open.spotify.com/album/73wyb3gGxMXyN77Z031K20) | 6:14 |
 | 31 | [Memories Of The Sun](https://open.spotify.com/track/4TkGZqpPuh4EULBkhtg887) | [Luca Eck](https://open.spotify.com/artist/7FvEqUihbJfx5vpfGd1OLz), [Nur Jaber](https://open.spotify.com/artist/22J1dZodxVK6NzbDnpZCek), [HEISSS Berlin](https://open.spotify.com/artist/4WGG9x0FqlRRkdKixyddHK) | [HEISSS VA001](https://open.spotify.com/album/2W7pUQLJmqETnUnBi7aAFZ) | 4:08 |
 | 32 | [Wont Stop](https://open.spotify.com/track/40XleKAjmwRLd5lJptwywC) | [Sloli](https://open.spotify.com/artist/1He1YLq20m7pXhA1UUVxkd) | [Won't Stop](https://open.spotify.com/album/27EagUSIGRedCkAzlGkIv6) | 6:22 |
 | 33 | [Miracle \- Edit](https://open.spotify.com/track/5ZsK8da1RudtW0zp1YUxTm) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Miracle \(Edit\)](https://open.spotify.com/album/6AKl3wkK0W4h1XYWJb3Ik7) | 3:21 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 89 | [Take Me Back](https://open.spotify.com/track/3vAlTZ5tbE0cP2ppijVkbf) | [Demuja](https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1) | [Take Me Back](https://open.spotify.com/album/55Zy9a9hZKTBnM2tj8YlaL) | 5:34 |
 | 90 | [Slumber Party](https://open.spotify.com/track/52dvoTzRkbAEFdURrRKPQw) | [Tigerhead](https://open.spotify.com/artist/53UMZDKX6Ddh8KV5MYDlcE), [HEISSS Berlin](https://open.spotify.com/artist/4WGG9x0FqlRRkdKixyddHK) | [Slumber Party](https://open.spotify.com/album/1ILkp7RlyLsgFwdBGKyV7N) | 5:54 |
 
-Snapshot ID: `MCxiMWE1NGUwM2U4NTFiYjBjYmFlMWU0Mjc1ZDczOTZmNGRiMWUyZDYy`
+Snapshot ID: `MCwzMTI4OWYyMjdmZmE3YzdlOWU0MGE2ODRlNjBiMGZkY2Y0ZmEyMTI4`

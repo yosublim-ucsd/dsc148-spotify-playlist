@@ -1,12 +1,12 @@
 {
   "description": "An essential list of recent hits of SoGo.  Cover:  <a href=\"https://open.spotify.com/artist/2KqWwLQj9ShX6taqgheFxb?si=t4i4AV79QiSGjnj0F5J2cA\">The Browns</a>",
-  "num_followers": 12962,
+  "num_followers": 12966,
   "original_name": "Streets Of Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYmQxMjcxOGJmMWQxZTljYTAwYzg3ZTZkYjhjOGFlNTkxMDJlYjgy",
+  "snapshot_id": "MCw1ZjFhNDY5NTg0OWFhOTMyNDAwNWFkZmY0NTdhYjNhYWY2N2YyOGZl",
   "tracks": [
     {
       "added_at": "2023-04-14 06:27:38",
@@ -323,6 +323,22 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
+        "name": "Room For More",
+        "url": "https://open.spotify.com/album/10oPZTgvpINdckHN8yHUuD"
+      },
+      "artists": [
+        {
+          "name": "The Booth Brothers",
+          "url": "https://open.spotify.com/artist/01uI1SCsA0pLwWa2ENV6Gv"
+        }
+      ],
+      "duration_ms": 207533,
+      "name": "Welcome To The Family",
+      "url": "https://open.spotify.com/track/4HqLgAbPz9pBuCCJbh5fiR"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
         "name": "A Pioneer Legacy",
         "url": "https://open.spotify.com/album/2qqnHI9X0Wlv5KIBe9HfPQ"
       },
@@ -355,22 +371,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Room For More",
-        "url": "https://open.spotify.com/album/10oPZTgvpINdckHN8yHUuD"
-      },
-      "artists": [
-        {
-          "name": "The Booth Brothers",
-          "url": "https://open.spotify.com/artist/01uI1SCsA0pLwWa2ENV6Gv"
-        }
-      ],
-      "duration_ms": 207533,
-      "name": "Welcome To The Family",
-      "url": "https://open.spotify.com/track/4HqLgAbPz9pBuCCJbh5fiR"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "All Things New",
         "url": "https://open.spotify.com/album/1PcbJ1DL1tFKjAzsBEoEVe"
       },
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "When God Ran",
-        "url": "https://open.spotify.com/album/49A6zoKKgvWWT8HGHPzXR9"
-      },
-      "artists": [
-        {
-          "name": "Kingsmen",
-          "url": "https://open.spotify.com/artist/1KqnnHm6UY5FW6UENrzSVX"
-        }
-      ],
-      "duration_ms": 312746,
-      "name": "When God Ran",
-      "url": "https://open.spotify.com/track/78bkWzaZ616DTt9HdkM0MN"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Brighten The Corner Where You Are (Radio Edit)",
         "url": "https://open.spotify.com/album/7tpVNdsEnSWj30uRodyS4y"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 149545,
       "name": "Brighten The Corner Where You Are - Radio Edit",
       "url": "https://open.spotify.com/track/0rnHhaqD3Rpu7P7sIktSji"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "When God Ran",
+        "url": "https://open.spotify.com/album/49A6zoKKgvWWT8HGHPzXR9"
+      },
+      "artists": [
+        {
+          "name": "Kingsmen",
+          "url": "https://open.spotify.com/artist/1KqnnHm6UY5FW6UENrzSVX"
+        }
+      ],
+      "duration_ms": 312746,
+      "name": "When God Ran",
+      "url": "https://open.spotify.com/track/78bkWzaZ616DTt9HdkM0MN"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -779,6 +779,22 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
+        "name": "Shut Him Up",
+        "url": "https://open.spotify.com/album/5jGJlGqQP8CNZhzx4ddMqU"
+      },
+      "artists": [
+        {
+          "name": "Lauren Talley",
+          "url": "https://open.spotify.com/artist/3jbm4F4B8joagW1U4xiLRg"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Shut Him Up",
+      "url": "https://open.spotify.com/track/0aOUfA7at6UetkDDn75fdz"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
         "name": "He Touched Me",
         "url": "https://open.spotify.com/album/4r9OhwImdx9wOJm2q27XUo"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 270840,
       "name": "Favorite Song of All",
       "url": "https://open.spotify.com/track/1jqCZajfj6hAU1RHixoxbd"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
-        "name": "Shut Him Up",
-        "url": "https://open.spotify.com/album/5jGJlGqQP8CNZhzx4ddMqU"
-      },
-      "artists": [
-        {
-          "name": "Lauren Talley",
-          "url": "https://open.spotify.com/artist/3jbm4F4B8joagW1U4xiLRg"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Shut Him Up",
-      "url": "https://open.spotify.com/track/0aOUfA7at6UetkDDn75fdz"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Heritage, Vol. 3",
-        "url": "https://open.spotify.com/album/4QmFZIOMbWcg6YEUGKjuQy"
-      },
-      "artists": [
-        {
-          "name": "Legacy Five",
-          "url": "https://open.spotify.com/artist/5Lp4dWpZlJJj3dhrgoeZYk"
-        }
-      ],
-      "duration_ms": 154932,
-      "name": "Praise Medley",
-      "url": "https://open.spotify.com/track/01BfVuMUiP1df06GCvRb82"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "I Am Not Alone",
         "url": "https://open.spotify.com/album/79NRt7O1NFN3Qs3AToLPlA"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 178546,
       "name": "King of Kings",
       "url": "https://open.spotify.com/track/5moV2vWD0lThAkubmsRYHU"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Heritage, Vol. 3",
+        "url": "https://open.spotify.com/album/4QmFZIOMbWcg6YEUGKjuQy"
+      },
+      "artists": [
+        {
+          "name": "Legacy Five",
+          "url": "https://open.spotify.com/artist/5Lp4dWpZlJJj3dhrgoeZYk"
+        }
+      ],
+      "duration_ms": 154932,
+      "name": "Praise Medley",
+      "url": "https://open.spotify.com/track/01BfVuMUiP1df06GCvRb82"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Find My Joy",
-        "url": "https://open.spotify.com/album/0dM55Mul4BUtsZ6zDBEhWN"
-      },
-      "artists": [
-        {
-          "name": "John Berry",
-          "url": "https://open.spotify.com/artist/0l5OmkXhNcXtfa1W9dTon6"
-        }
-      ],
-      "duration_ms": 249081,
-      "name": "Something Bigger Than Me",
-      "url": "https://open.spotify.com/track/59G9uFtqPCrqiZ9rfETjM8"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "My Name Is Victory",
         "url": "https://open.spotify.com/album/5mOIV9KyRZNFEHi3Hi4Ftl"
       },
@@ -1007,6 +991,22 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
+        "name": "Find My Joy",
+        "url": "https://open.spotify.com/album/0dM55Mul4BUtsZ6zDBEhWN"
+      },
+      "artists": [
+        {
+          "name": "John Berry",
+          "url": "https://open.spotify.com/artist/0l5OmkXhNcXtfa1W9dTon6"
+        }
+      ],
+      "duration_ms": 249081,
+      "name": "Something Bigger Than Me",
+      "url": "https://open.spotify.com/track/59G9uFtqPCrqiZ9rfETjM8"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
         "name": "Glorious Appearing",
         "url": "https://open.spotify.com/album/3kPtp2JB1FsCW7ntRNt99W"
       },
@@ -1019,22 +1019,6 @@
       "duration_ms": 228997,
       "name": "Glorious Appearing",
       "url": "https://open.spotify.com/track/2CGX7JVKELwjNgs4FppLEU"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
-        "name": "Something New",
-        "url": "https://open.spotify.com/album/60vvK9ecxcFAaHEr0yqI24"
-      },
-      "artists": [
-        {
-          "name": "Legacy Five",
-          "url": "https://open.spotify.com/artist/5Lp4dWpZlJJj3dhrgoeZYk"
-        }
-      ],
-      "duration_ms": 199773,
-      "name": "Welcome to Your Life",
-      "url": "https://open.spotify.com/track/5NiZESfwDHW1gRgrZr1wGY"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1071,6 +1055,22 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
+        "name": "Something New",
+        "url": "https://open.spotify.com/album/60vvK9ecxcFAaHEr0yqI24"
+      },
+      "artists": [
+        {
+          "name": "Legacy Five",
+          "url": "https://open.spotify.com/artist/5Lp4dWpZlJJj3dhrgoeZYk"
+        }
+      ],
+      "duration_ms": 199773,
+      "name": "Welcome to Your Life",
+      "url": "https://open.spotify.com/track/5NiZESfwDHW1gRgrZr1wGY"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
         "name": "Give Me Jesus",
         "url": "https://open.spotify.com/album/4FAKPSnfJM5NuV5MzfyLpB"
       },
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "The Lighthouse (50 Year Celebration)",
-        "url": "https://open.spotify.com/album/7DTKYFvwOP0q9jBz6OtclE"
-      },
-      "artists": [
-        {
-          "name": "Ronny Hinson",
-          "url": "https://open.spotify.com/artist/6b5TbMekdEbb75ItLBOoRs"
-        }
-      ],
-      "duration_ms": 262212,
-      "name": "The Lighthouse - 50 Year Celebration",
-      "url": "https://open.spotify.com/track/2ZGDPgfa0rOiRezBCY56qk"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "These Are The Days",
         "url": "https://open.spotify.com/album/4NLFC87jCshYTUAz3hbhP6"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 198099,
       "name": "These Are The Days",
       "url": "https://open.spotify.com/track/5R8RKqIh4EKQKY5U5Q8K8y"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "The Lighthouse (50 Year Celebration)",
+        "url": "https://open.spotify.com/album/7DTKYFvwOP0q9jBz6OtclE"
+      },
+      "artists": [
+        {
+          "name": "Ronny Hinson",
+          "url": "https://open.spotify.com/artist/6b5TbMekdEbb75ItLBOoRs"
+        }
+      ],
+      "duration_ms": 262212,
+      "name": "The Lighthouse - 50 Year Celebration",
+      "url": "https://open.spotify.com/track/2ZGDPgfa0rOiRezBCY56qk"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Not For Long",
-        "url": "https://open.spotify.com/album/3o2K93AUXYP6ksJabFbM62"
-      },
-      "artists": [
-        {
-          "name": "The Guardians",
-          "url": "https://open.spotify.com/artist/1BQ4qhmBKCLXppZm7LXtYo"
-        }
-      ],
-      "duration_ms": 230013,
-      "name": "Not For Long",
-      "url": "https://open.spotify.com/track/2x5wmviqv1wC7rCd8gL1sQ"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Music To Your Ears",
         "url": "https://open.spotify.com/album/562jKxonJvoxeSRUj8AQfh"
       },
@@ -1203,18 +1187,18 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Lord's Prayer",
-        "url": "https://open.spotify.com/album/1GTIjIET5P7s2oXtT3sBcs"
+        "name": "Not For Long",
+        "url": "https://open.spotify.com/album/3o2K93AUXYP6ksJabFbM62"
       },
       "artists": [
         {
-          "name": "Lauren Talley",
-          "url": "https://open.spotify.com/artist/3jbm4F4B8joagW1U4xiLRg"
+          "name": "The Guardians",
+          "url": "https://open.spotify.com/artist/1BQ4qhmBKCLXppZm7LXtYo"
         }
       ],
-      "duration_ms": 235328,
-      "name": "Lord's Prayer",
-      "url": "https://open.spotify.com/track/3GprG1XzOUavCgzEqyj84v"
+      "duration_ms": 230013,
+      "name": "Not For Long",
+      "url": "https://open.spotify.com/track/2x5wmviqv1wC7rCd8gL1sQ"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1231,6 +1215,22 @@
       "duration_ms": 222064,
       "name": "I Bring You Jesus",
       "url": "https://open.spotify.com/track/6hOlJaU7E3SycdVXQN2taI"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Lord's Prayer",
+        "url": "https://open.spotify.com/album/1GTIjIET5P7s2oXtT3sBcs"
+      },
+      "artists": [
+        {
+          "name": "Lauren Talley",
+          "url": "https://open.spotify.com/artist/3jbm4F4B8joagW1U4xiLRg"
+        }
+      ],
+      "duration_ms": 235328,
+      "name": "Lord's Prayer",
+      "url": "https://open.spotify.com/track/3GprG1XzOUavCgzEqyj84v"
     },
     {
       "added_at": "2023-04-14 06:27:38",

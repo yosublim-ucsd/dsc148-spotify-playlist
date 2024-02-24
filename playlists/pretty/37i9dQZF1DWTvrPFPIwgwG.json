@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as novidades e grandes louvores Pentecostais. Foto: Eurice Diniz",
-  "num_followers": 117596,
+  "num_followers": 117695,
   "original_name": "Louvores Pentecostais",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNzlkMDkzZDE2YmRhZTBlZWZhMGViNTVhMWY5MTEyZjNmNmE0MmY5",
+  "snapshot_id": "MCw2ODdmM2ViNDhlMDJlZDU0NTdkNjY0NmEyMjE4ZmVmMzRkZWU2Y2Y3",
   "tracks": [
     {
       "added_at": "2023-12-22 03:00:00",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Kemilly Santos ao Vivo em S\u00e3o Paulo",
-        "url": "https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        }
-      ],
-      "duration_ms": 234093,
-      "name": "Deus Vai Agir (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2X9mVjsNBmBJmFC0owcKQV"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Sou Deus",
         "url": "https://open.spotify.com/album/349D416lPCZBQUAUC6SnQb"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 255500,
       "name": "Sou Deus",
       "url": "https://open.spotify.com/track/3CeyF9U9g3lkqs7LrE3Ddv"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "O M\u00ednimo de Mim",
+        "url": "https://open.spotify.com/album/6l8livVDvR4Dn434oMfXXe"
+      },
+      "artists": [
+        {
+          "name": "Shirley Carvalhaes",
+          "url": "https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT"
+        }
+      ],
+      "duration_ms": 248571,
+      "name": "O M\u00ednimo de Mim",
+      "url": "https://open.spotify.com/track/6zbMyzItlZIQbSwYbyk0MN"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -467,18 +467,18 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "O M\u00ednimo de Mim",
-        "url": "https://open.spotify.com/album/6l8livVDvR4Dn434oMfXXe"
+        "name": "Kemilly Santos ao Vivo em S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9"
       },
       "artists": [
         {
-          "name": "Shirley Carvalhaes",
-          "url": "https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT"
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
         }
       ],
-      "duration_ms": 248571,
-      "name": "O M\u00ednimo de Mim",
-      "url": "https://open.spotify.com/track/6zbMyzItlZIQbSwYbyk0MN"
+      "duration_ms": 234093,
+      "name": "Deus Vai Agir (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2X9mVjsNBmBJmFC0owcKQV"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Terceiro C\u00e9u",
-        "url": "https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 312287,
-      "name": "Sou Eu",
-      "url": "https://open.spotify.com/track/5HLtqc3vpXvE80swUPHRRn"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Aguente, Guerreiro",
         "url": "https://open.spotify.com/album/0Mw1rrmkJG26yxolCSW7l9"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 307750,
       "name": "Aguente, Guerreiro",
       "url": "https://open.spotify.com/track/41b11ruecN0x1CSaziBxGB"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Terceiro C\u00e9u",
+        "url": "https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 312287,
+      "name": "Sou Eu",
+      "url": "https://open.spotify.com/track/5HLtqc3vpXvE80swUPHRRn"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -835,22 +835,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Minha Presen\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6mUP6dDAa6DeoZ3KKU4Pfq"
+        "name": "Vendavais (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3Ij0TmdXKBzx3iq9pRpSNV"
       },
       "artists": [
         {
-          "name": "Sued Silva",
-          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
+          "name": "Shirley Carvalhaes",
+          "url": "https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT"
         },
         {
-          "name": "Nath\u00e1lia Braga",
-          "url": "https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV"
+          "name": "Anderson Freire",
+          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
         }
       ],
-      "duration_ms": 421992,
-      "name": "Minha Presen\u00e7a - Ao Vivo",
-      "url": "https://open.spotify.com/track/17InIcGBZFZ9WZkGsUWL5l"
+      "duration_ms": 369635,
+      "name": "Vendavais - Ao Vivo",
+      "url": "https://open.spotify.com/track/0qdZ1ORxeOMSFMBhi8MikJ"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -871,22 +871,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Vendavais (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3Ij0TmdXKBzx3iq9pRpSNV"
+        "name": "Minha Presen\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6mUP6dDAa6DeoZ3KKU4Pfq"
       },
       "artists": [
         {
-          "name": "Shirley Carvalhaes",
-          "url": "https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT"
+          "name": "Sued Silva",
+          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
         },
         {
-          "name": "Anderson Freire",
-          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
+          "name": "Nath\u00e1lia Braga",
+          "url": "https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV"
         }
       ],
-      "duration_ms": 369635,
-      "name": "Vendavais - Ao Vivo",
-      "url": "https://open.spotify.com/track/0qdZ1ORxeOMSFMBhi8MikJ"
+      "duration_ms": 421992,
+      "name": "Minha Presen\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/17InIcGBZFZ9WZkGsUWL5l"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -963,18 +963,18 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Fara\u00f3 ou Deus",
-        "url": "https://open.spotify.com/album/5hctfaJa4vZnZtSLaddWkZ"
+        "name": "Minha B\u00ean\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/67XXl8qaJkOLA2UpIx2iHN"
       },
       "artists": [
         {
-          "name": "Shirley Carvalhaes",
-          "url": "https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT"
+          "name": "Sued Silva",
+          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
         }
       ],
-      "duration_ms": 357599,
-      "name": "Fara\u00f3 ou Deus",
-      "url": "https://open.spotify.com/track/1twjJuqTo6G1blS2Eh4699"
+      "duration_ms": 266936,
+      "name": "Minha B\u00ean\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0DhO7IbkaGsz7MbvqA28a3"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -995,18 +995,18 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Minha B\u00ean\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/67XXl8qaJkOLA2UpIx2iHN"
+        "name": "Fara\u00f3 ou Deus",
+        "url": "https://open.spotify.com/album/5hctfaJa4vZnZtSLaddWkZ"
       },
       "artists": [
         {
-          "name": "Sued Silva",
-          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
+          "name": "Shirley Carvalhaes",
+          "url": "https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT"
         }
       ],
-      "duration_ms": 266936,
-      "name": "Minha B\u00ean\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/0DhO7IbkaGsz7MbvqA28a3"
+      "duration_ms": 357599,
+      "name": "Fara\u00f3 ou Deus",
+      "url": "https://open.spotify.com/track/1twjJuqTo6G1blS2Eh4699"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Eu Cuido de Tudo",
+        "url": "https://open.spotify.com/album/1HyBw2GRBlwaudGwFODrpJ"
+      },
+      "artists": [
+        {
+          "name": "Sued Silva",
+          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
+        }
+      ],
+      "duration_ms": 447871,
+      "name": "Eu Cuido de Tudo - Ao vivo",
+      "url": "https://open.spotify.com/track/14vIKDQWvBxxvHBo2FQ4O4"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "A Tenda (Ao Vivo)",
         "url": "https://open.spotify.com/album/0YhDcP0OUvrRiKn8mrUJA9"
       },
@@ -1091,6 +1107,26 @@
       "duration_ms": 470263,
       "name": "A Tenda (Ao Vivo)",
       "url": "https://open.spotify.com/track/57y3IxaTKpfNGDEa4OnjGe"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Fase do Deserto",
+        "url": "https://open.spotify.com/album/1JTaQmuExftTBQT5gqCW1t"
+      },
+      "artists": [
+        {
+          "name": "Suellen Lima",
+          "url": "https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P"
+        },
+        {
+          "name": "Leandro Borges",
+          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
+        }
+      ],
+      "duration_ms": 266020,
+      "name": "Fase do Deserto",
+      "url": "https://open.spotify.com/track/4rXIzSITtup1EaWbPQdLY0"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1115,22 +1151,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Eu Cuido de Tudo",
-        "url": "https://open.spotify.com/album/1HyBw2GRBlwaudGwFODrpJ"
-      },
-      "artists": [
-        {
-          "name": "Sued Silva",
-          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
-        }
-      ],
-      "duration_ms": 447871,
-      "name": "Eu Cuido de Tudo - Ao vivo",
-      "url": "https://open.spotify.com/track/14vIKDQWvBxxvHBo2FQ4O4"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Tempo de Espera",
         "url": "https://open.spotify.com/album/6SNWfXt4SufIHMsaiiLbw6"
       },
@@ -1147,26 +1167,6 @@
       "duration_ms": 263040,
       "name": "Tempo de Espera",
       "url": "https://open.spotify.com/track/4b1yw2UOQbhntnMecTEvE7"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Fase do Deserto",
-        "url": "https://open.spotify.com/album/1JTaQmuExftTBQT5gqCW1t"
-      },
-      "artists": [
-        {
-          "name": "Suellen Lima",
-          "url": "https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P"
-        },
-        {
-          "name": "Leandro Borges",
-          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
-        }
-      ],
-      "duration_ms": 266020,
-      "name": "Fase do Deserto",
-      "url": "https://open.spotify.com/track/4rXIzSITtup1EaWbPQdLY0"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1203,18 +1203,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Tranquiliza (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7acKfdg1t94LPz4wYwxJzJ"
+        "name": "Desapareceu um Povo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1e4nJnPwLL6a7ivAyppNmS"
       },
       "artists": [
         {
-          "name": "Neide Martins",
-          "url": "https://open.spotify.com/artist/18qBREWpIZMKWohtvnOMKq"
+          "name": "Ruthe Dayanne",
+          "url": "https://open.spotify.com/artist/75b4ed2olY9BBhGZoHDjdo"
+        },
+        {
+          "name": "Rodrigo Vinheiro",
+          "url": "https://open.spotify.com/artist/1z5mBQfcYWzBTrBschPZUc"
         }
       ],
-      "duration_ms": 429352,
-      "name": "Tranquiliza - Ao Vivo",
-      "url": "https://open.spotify.com/track/4lgJJ5sgzGdDzX9ZkKSwVl"
+      "duration_ms": 210977,
+      "name": "Desapareceu um Povo (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3CzOSJ3mlQUBuVa85iHlfK"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1235,22 +1239,18 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Desapareceu um Povo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1e4nJnPwLL6a7ivAyppNmS"
+        "name": "Tranquiliza (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7acKfdg1t94LPz4wYwxJzJ"
       },
       "artists": [
         {
-          "name": "Ruthe Dayanne",
-          "url": "https://open.spotify.com/artist/75b4ed2olY9BBhGZoHDjdo"
-        },
-        {
-          "name": "Rodrigo Vinheiro",
-          "url": "https://open.spotify.com/artist/1z5mBQfcYWzBTrBschPZUc"
+          "name": "Neide Martins",
+          "url": "https://open.spotify.com/artist/18qBREWpIZMKWohtvnOMKq"
         }
       ],
-      "duration_ms": 210977,
-      "name": "Desapareceu um Povo (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3CzOSJ3mlQUBuVa85iHlfK"
+      "duration_ms": 429352,
+      "name": "Tranquiliza - Ao Vivo",
+      "url": "https://open.spotify.com/track/4lgJJ5sgzGdDzX9ZkKSwVl"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1335,6 +1335,26 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Chora que a Vit\u00f3ria Vem (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4Gzy29Xj4HenuHeZ9keKKg"
+      },
+      "artists": [
+        {
+          "name": "Ruthe Dayanne",
+          "url": "https://open.spotify.com/artist/75b4ed2olY9BBhGZoHDjdo"
+        },
+        {
+          "name": "L\u00e9a Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/73Ye0Yvwvanmf6bqXAez97"
+        }
+      ],
+      "duration_ms": 293506,
+      "name": "Chora que a Vit\u00f3ria Vem (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4vfKTqehhEovOgZAR6CdkC"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Profetiza",
         "url": "https://open.spotify.com/album/6IgJb5EU0zSGlqlsLfFbzm"
       },
@@ -1391,26 +1411,6 @@
       "duration_ms": 240000,
       "name": "Dependente (Ao Vivo)",
       "url": "https://open.spotify.com/track/2b30Def2AnAOJC5tiJyj7u"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Chora que a Vit\u00f3ria Vem (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4Gzy29Xj4HenuHeZ9keKKg"
-      },
-      "artists": [
-        {
-          "name": "Ruthe Dayanne",
-          "url": "https://open.spotify.com/artist/75b4ed2olY9BBhGZoHDjdo"
-        },
-        {
-          "name": "L\u00e9a Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/73Ye0Yvwvanmf6bqXAez97"
-        }
-      ],
-      "duration_ms": 293506,
-      "name": "Chora que a Vit\u00f3ria Vem (Ao Vivo)",
-      "url": "https://open.spotify.com/track/4vfKTqehhEovOgZAR6CdkC"
     },
     {
       "added_at": "2023-12-22 03:00:00",

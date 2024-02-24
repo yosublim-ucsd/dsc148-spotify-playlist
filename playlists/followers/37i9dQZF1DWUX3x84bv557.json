@@ -1,7 +1,7 @@
 {
-  "2024-02-23": 161369,
+  "2024-02-24": 161392,
   "date_first_scraped": "2023-02-25",
-  "description": "De nieuwste Nederlandse pop! Cover: BENR",
+  "description": "De nieuwste Nederlandse pop! Cover: Sterre Koning",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -1100,6 +1100,24 @@
     },
     {
       "album": {
+        "name": "Backstage",
+        "url": "https://open.spotify.com/album/79GyjK7amWo1kbpAICZDom"
+      },
+      "artists": [
+        {
+          "name": "Janneman",
+          "url": "https://open.spotify.com/artist/7KbCF5fYC33a22gM39YswN"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144390,
+      "name": "Backstage",
+      "url": "https://open.spotify.com/track/6TOPN39UPam4SJBCntOKb6"
+    },
+    {
+      "album": {
         "name": "Sliden EP",
         "url": "https://open.spotify.com/album/4DtdhtDmxanQokbOQmpytY"
       },
@@ -1719,6 +1737,24 @@
       "duration_ms": 170504,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/1CYCk63BLjz4sGA8coNU6u"
+    },
+    {
+      "album": {
+        "name": "Dans Alleen",
+        "url": "https://open.spotify.com/album/5ItDnWqkTGUzyyGHFvpsnm"
+      },
+      "artists": [
+        {
+          "name": "Femme",
+          "url": "https://open.spotify.com/artist/4xHoGYm3KcnoF0xBnUdk3z"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Dans Alleen",
+      "url": "https://open.spotify.com/track/4CKTU5XTIZkte54otjUUHl"
     },
     {
       "album": {
@@ -2358,6 +2394,24 @@
     },
     {
       "album": {
+        "name": "Dezelfde Maan",
+        "url": "https://open.spotify.com/album/1900kIZlwAIYxmGSosvfnR"
+      },
+      "artists": [
+        {
+          "name": "Sterre Koning",
+          "url": "https://open.spotify.com/artist/3vE2dQ30qWbC54d4K93zlB"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185943,
+      "name": "Dezelfde Maan",
+      "url": "https://open.spotify.com/track/2whP8MoeFeJE7olMwdv1rL"
+    },
+    {
+      "album": {
         "name": "Dief In De Nacht",
         "url": "https://open.spotify.com/album/6CKCaxPcC6GDQsNawO1GHZ"
       },
@@ -2851,6 +2905,24 @@
       "duration_ms": 154000,
       "name": "Elke Avond Feest",
       "url": "https://open.spotify.com/track/2w1tIkkgJWKfSensaU0vXd"
+    },
+    {
+      "album": {
+        "name": "ELKE KEER",
+        "url": "https://open.spotify.com/album/0LQUgfDRfaNLVxO7WaxQIk"
+      },
+      "artists": [
+        {
+          "name": "Fokke Simons",
+          "url": "https://open.spotify.com/artist/6bdx9tCkHEg9ff61hu7xkI"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140482,
+      "name": "ELKE KEER",
+      "url": "https://open.spotify.com/track/1HJQ9AiWo6PKbl9gG5JKFo"
     },
     {
       "album": {
@@ -3937,6 +4009,24 @@
       "duration_ms": 190458,
       "name": "Hopeloze Dromenloosheid",
       "url": "https://open.spotify.com/track/2CrfkhNaUXD9BVedDjYylH"
+    },
+    {
+      "album": {
+        "name": "Horizon",
+        "url": "https://open.spotify.com/album/5U0JwQjxRaJQU4eAqLV1qx"
+      },
+      "artists": [
+        {
+          "name": "Ruben Annink",
+          "url": "https://open.spotify.com/artist/0qZWRrQj38rwkxeRQ3HowZ"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154127,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/1zIUkRxrVNmxn4f9358j36"
     },
     {
       "album": {

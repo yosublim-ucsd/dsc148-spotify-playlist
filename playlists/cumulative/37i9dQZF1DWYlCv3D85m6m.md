@@ -4,7 +4,7 @@
 
 > One in a million! TWICE!
 
-209 songs - 11 hr 27 min
+215 songs - 11 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [BETTER](https://open.spotify.com/track/0rSMzlAKNapoat4NdZYmi3) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETTER](https://open.spotify.com/album/2jOvgj6NJc1l5SBApgFaZC) | 3:43 | 2022-03-24 |  |
 | [BETTER](https://open.spotify.com/track/1Wrn6btrungVsBjyViLnuY) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Perfect World](https://open.spotify.com/album/17rk8h2IU4wwSFXw9j2uR6) | 3:43 | 2022-03-24 |  |
 | [BLAME IT ON ME](https://open.spotify.com/track/2hQdmjAhYEuMuqNWZCsz1J) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [READY TO BE](https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ) | 2:40 | 2023-03-10 |  |
+| [BLOOM](https://open.spotify.com/track/4bheT1Drc2vyQgN5VTwr8W) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [With YOU\-th](https://open.spotify.com/album/575TQDOQqc0MAheeEeKWUR) | 3:23 | 2024-02-23 |  |
 | [Bouquet](https://open.spotify.com/track/2dHHrb7PVObPb4YWxGilXZ) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [Bouquet](https://open.spotify.com/album/7lH4TKCD5FrzmMu8CS4rzd) | 4:24 | 2023-01-25 |  |
 | [Brave](https://open.spotify.com/track/2peoFPokM6eYAIwLm9IQ8E) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) | 3:09 | 2022-08-26 |  |
 | [Breakthrough](https://open.spotify.com/track/5COO2JgOmHIJ2jsXFwflz8) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Breakthrough](https://open.spotify.com/album/7LWfEiSeue9BXPbUOH34q6) | 3:37 | 2022-03-24 |  |
@@ -99,7 +100,8 @@
 | [I CAN'T STOP ME \(English Version\)](https://open.spotify.com/track/4viLaKGdHwhW8LkZB3mRFC) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [I CAN'T STOP ME \(English Version\)](https://open.spotify.com/album/2KGNQmq4gpzmdaIcAgJdVe) | 3:25 | 2022-03-24 |  |
 | [I CAN'T STOP ME \- Japanese ver.](https://open.spotify.com/track/1tyCxhxiHQ9DoHIiDMFPzL) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [\#TWICE4 \(Japanese ver.\)](https://open.spotify.com/album/5UMKm3ihuSD9WQDkwQ7btX) | 3:29 | 2022-03-24 |  |
 | [I CAN’T STOP ME \(feat\. BOYS LIKE GIRLS\)](https://open.spotify.com/track/4gKhh8GQfRprLBBPc5um6Q) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [BOYS LIKE GIRLS](https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI) | [THE REMIXES](https://open.spotify.com/album/37WsLE5Eny9CTmF9CPzWIq) | 3:26 | 2023-12-12 |  |
-| [I GOT YOU](https://open.spotify.com/track/35dhwUoJNlxrPyEIJkfDnx) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [I GOT YOU](https://open.spotify.com/album/6RZHj6L3NqrvcKeiBHQbjL) | 2:53 | 2024-02-02 |  |
+| [I GOT YOU](https://open.spotify.com/track/0mgveJEIGjcN51w4JIQtI6) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [With YOU\-th](https://open.spotify.com/album/575TQDOQqc0MAheeEeKWUR) | 2:53 | 2024-02-23 |  |
+| [I GOT YOU](https://open.spotify.com/track/35dhwUoJNlxrPyEIJkfDnx) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [I GOT YOU](https://open.spotify.com/album/6RZHj6L3NqrvcKeiBHQbjL) | 2:53 | 2024-02-02 | 2024-02-24 |
 | [I GOT YOU \(Feat\. Lauv\)](https://open.spotify.com/track/3X8L4DUPjLUE1cr8omydPT) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I GOT YOU \(Voyage ver.\)](https://open.spotify.com/album/5cnrcbdcdt6BJgAig9Tn3P) | 3:04 | 2024-02-09 |  |
 | [I WANT YOU BACK](https://open.spotify.com/track/54w5JUSWCJu64pnw8alImP) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BDZ](https://open.spotify.com/album/3Bi7hl11zYHpw6uE6gAtSs) | 3:23 | 2022-03-24 |  |
 | [ICON](https://open.spotify.com/track/2VdU1ksBKcETBr8BYRHUvB) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 2:56 | 2022-07-19 |  |
@@ -132,10 +134,12 @@
 | [MORE & MORE](https://open.spotify.com/track/2bAAj29XGc4h1G4oEGYCmg) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MORE & MORE](https://open.spotify.com/album/1bUx6TFAyzCdZY9ugEXxRh) | 3:19 | 2022-03-24 | 2022-07-29 |
 | [MORE & MORE](https://open.spotify.com/track/3omvXShuRPM3zbDpWYqf5g) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MORE & MORE](https://open.spotify.com/album/5KsduuDNWzt65TaHzmtciv) | 3:19 | 2022-07-19 |  |
 | [MORE & MORE \(LEE HAE SOL Sped Up Remix\)](https://open.spotify.com/track/3PeqOlET4ZX6CKGwrlAX7u) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [LEE HAE SOL](https://open.spotify.com/artist/5xZzq9Bk8IociNfF0TfHdf) | [THE REMIXES](https://open.spotify.com/album/37WsLE5Eny9CTmF9CPzWIq) | 2:25 | 2023-12-12 |  |
+| [NEW NEW](https://open.spotify.com/track/1z2vNmmIFLSw7zfhr2hxWt) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [With YOU\-th](https://open.spotify.com/album/575TQDOQqc0MAheeEeKWUR) | 3:01 | 2024-02-23 |  |
 | [One In A Million](https://open.spotify.com/track/2YTzBBMPkf2mETq2FyzoUs) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Twicecoaster:lane1](https://open.spotify.com/album/6kDty5vSEGHiTHS8OwXSCj) | 2:55 | 2022-03-24 | 2022-07-29 |
 | [One In A Million](https://open.spotify.com/track/2WWUozUXaj0XY8MKmFHvYp) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Twicecoaster: Lane 2](https://open.spotify.com/album/2Mw8oK3aJKmOa9YGWqpN2W) | 2:55 | 2022-08-26 | 2022-11-13 |
 | [One In A Million](https://open.spotify.com/track/6Nqp4bYrZgdVnAmWc9Ek39) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Twicecoaster: Lane 1](https://open.spotify.com/album/5zQhaDNbiXHRqd8Y51I4vy) | 2:55 | 2022-07-19 |  |
 | [One More Time](https://open.spotify.com/track/4DmS8lnz6VbEMWrUcbm8WZ) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BDZ](https://open.spotify.com/album/3Bi7hl11zYHpw6uE6gAtSs) | 3:03 | 2022-03-24 |  |
+| [ONE SPARK](https://open.spotify.com/track/7cIn67LEvk16v6komC8znS) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [With YOU\-th](https://open.spotify.com/album/575TQDOQqc0MAheeEeKWUR) | 3:03 | 2024-02-23 |  |
 | [OXYGEN](https://open.spotify.com/track/0JeDwT1t3gcrAH29RA0yvm) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MORE & MORE](https://open.spotify.com/album/1bUx6TFAyzCdZY9ugEXxRh) | 3:45 | 2022-03-24 | 2022-07-29 |
 | [OXYGEN](https://open.spotify.com/track/128rj96Z6tTEU3h3awSMdB) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MORE & MORE](https://open.spotify.com/album/5KsduuDNWzt65TaHzmtciv) | 3:45 | 2022-07-19 |  |
 | [Perfect World](https://open.spotify.com/track/0hpYo5x9iNMGz52fRrflbT) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Perfect World](https://open.spotify.com/album/012FDe5q7Af7H9dy47DjVJ) | 3:02 | 2022-03-24 |  |
@@ -154,6 +158,7 @@
 | [REAL YOU](https://open.spotify.com/track/6RE7FVgSlMCHvDRX3lCID2) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/51aC8iSMhWlYY6ymv7P8zi) | 3:07 | 2022-03-24 | 2022-07-29 |
 | [REWIND](https://open.spotify.com/track/48IF5DE7gZHLnv6znEIGAP) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/51aC8iSMhWlYY6ymv7P8zi) | 3:00 | 2022-03-24 | 2022-07-29 |
 | [REWIND](https://open.spotify.com/track/4BBnKqIS2pj2hX0zm0CZZx) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 3:00 | 2022-07-19 |  |
+| [RUSH](https://open.spotify.com/track/366hct4ncFRf5TOvEjMVuf) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [With YOU\-th](https://open.spotify.com/album/575TQDOQqc0MAheeEeKWUR) | 2:36 | 2024-02-23 |  |
 | [SAY SOMETHING](https://open.spotify.com/track/2FD1OIYpzEf9y2Z6S8hgJu) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes wide open](https://open.spotify.com/album/77irgFZWRDU0jkUCYvLiua) | 4:07 | 2022-03-24 | 2022-07-29 |
 | [SAY SOMETHING](https://open.spotify.com/track/2gagYYY4R8QimbnFqd96ST) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes Wide Open](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | 4:07 | 2022-07-19 |  |
 | [SAY YOU LOVE ME](https://open.spotify.com/track/0jDOXqTgGkkccDpsLGRWth) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [The year of "YES"](https://open.spotify.com/album/0pzmyJftuTK7i4HLjnfq1n) | 3:32 | 2022-08-26 | 2022-11-13 |
@@ -216,6 +221,7 @@
 | [YES or YES](https://open.spotify.com/track/26OVhEqFDQH0Ij77QtmGP9) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [YES or YES](https://open.spotify.com/album/25VunQEW0x2W6ALND2Mh4g) | 3:57 | 2022-07-19 |  |
 | [YES or YES](https://open.spotify.com/track/1S6zXoXhfalX2ETKo337Md) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [YES or YES](https://open.spotify.com/album/38QQgShZFuEAJJw1A6hz3x) | 3:57 | 2022-03-24 | 2022-07-29 |
 | [YES or YES](https://open.spotify.com/track/27EUkTy6RrDCCToOoRXiQB) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [The year of "YES"](https://open.spotify.com/album/0pzmyJftuTK7i4HLjnfq1n) | 3:57 | 2022-08-26 | 2022-11-13 |
+| [YOU GET ME](https://open.spotify.com/track/366HAwk1KLvWOwf1tml3jA) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [With YOU\-th](https://open.spotify.com/album/575TQDOQqc0MAheeEeKWUR) | 2:33 | 2024-02-23 |  |
 | [올해 제일 잘한 일 The Best Thing I Ever Did](https://open.spotify.com/track/1LiKPVgIQdR5Rk97o8a1fF) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [The year of "YES"](https://open.spotify.com/album/7fk1Ss3LO6U2LYHb82z9zf) | 3:30 | 2022-03-24 | 2022-07-29 |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

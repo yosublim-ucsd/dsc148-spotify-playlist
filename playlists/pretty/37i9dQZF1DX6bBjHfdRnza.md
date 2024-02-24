@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance & electronic by independent artists and labels\. Cover: Glimji\. Artwork by Rewina Beshue.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,630 likes - 85 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,659 likes - 85 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 39 | [Everyone feels it](https://open.spotify.com/track/3jhAYwiifkJzfiGxCQtq8m) | [VNT3K](https://open.spotify.com/artist/5WngRlcANDO1IVM2wFTjBQ) | [Everyone feels it \(Extended Mix\)](https://open.spotify.com/album/3uksogBnCwuOGL2ztmnkUF) | 3:18 |
 | 40 | [Ghettoblaster](https://open.spotify.com/track/6tXj7rI11SlgXtBmoOeJwX) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [Ghettoblaster](https://open.spotify.com/album/2IKD7c0RuYP3PsivAILs20) | 3:42 |
 | 41 | [somethingsgonnaworkout](https://open.spotify.com/track/130GRQ2WBu5v7xG2hfWNBM) | [Jai Piccone](https://open.spotify.com/artist/3sy4sx9aebyM2AUIJxJICC), [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [somethingsgonnaworkout](https://open.spotify.com/album/212Wc6xZwyy95uzPM91W7b) | 4:04 |
-| 42 | [Don't Hold Your Breath](https://open.spotify.com/track/07CQhHC2KUZ6eiRS48Kuqb) | [Strath](https://open.spotify.com/artist/6iM3BATbxNbAxuQ9YaaWFe) | [Don't Hold Your Breath](https://open.spotify.com/album/1WfqvAWMUHzo0uMHLqdMvF) | 4:17 |
+| 42 | [Don't Hold Your Breath](https://open.spotify.com/track/4iys0HYI3fyp5kkNBHOPt0) | [Strath](https://open.spotify.com/artist/6iM3BATbxNbAxuQ9YaaWFe) | [Don't Hold Your Breath](https://open.spotify.com/album/40u7Dlr3nKXcNQzsv3mGvG) | 4:17 |
 | 43 | [Back 2 Life 2024 \- Original Mix](https://open.spotify.com/track/5qQBfekdhjry5dDRzlNlDQ) | [ANATTA](https://open.spotify.com/artist/5YhPaiXN8biK8is4uCvcJ6) | [Back 2 Life 2024 \(Original Mix\)](https://open.spotify.com/album/6sNsBsiFhUog6oEFToZ5ut) | 5:03 |
 | 44 | [On My Own](https://open.spotify.com/track/7M4gsXulRg122cHm6bEFLh) | [Familiar Faces](https://open.spotify.com/artist/2faJegxkyWRI7AMI9pyWZo) | [On My Own](https://open.spotify.com/album/1BK3abzDYDxoVxByAhQ7pT) | 3:38 |
 | 45 | [Happiness](https://open.spotify.com/track/31SApxAPQqs89HUrz0DVFi) | [KevTheVirgo](https://open.spotify.com/artist/3bQMjTGXTq7898vbwYzG8s) | [Happiness](https://open.spotify.com/album/0C2cGhj3VS3hATJX16ODbl) | 2:56 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 84 | [Do It Like Me](https://open.spotify.com/track/26o843uY3ANMiXKs81ha75) | [VASA](https://open.spotify.com/artist/2AfkC7SKf63FMnxCKGbncN) | [Do It Like Me](https://open.spotify.com/album/3veXCUSQdxDEuNg9ZsjpJ3) | 2:07 |
 | 85 | [Go Through Everything](https://open.spotify.com/track/4OzmkADqSbUFs6gUtcJp8l) | [Lugovskiy](https://open.spotify.com/artist/6wozPdzuBdOnDCoesMPIkT) | [Go Through Everything](https://open.spotify.com/album/4G5JyNCJaem1oORudvs3RZ) | 3:24 |
 
-Snapshot ID: `MCw2ZjBkOGRhNTZmY2JlYTRmNTUyNTFkNTdkM2MwZjhlNmRlODU5NGI5`
+Snapshot ID: `MCxlZDg2NmM4NzY0MzhjZTkxNTc5MWFhMzQ3NjRmMmU5YzI0Yzk0ZmVi`

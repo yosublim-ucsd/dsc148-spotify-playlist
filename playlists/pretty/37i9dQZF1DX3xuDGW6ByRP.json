@@ -1,12 +1,12 @@
 {
   "description": "as novas de pop rock br / Foto: TINN",
-  "num_followers": 47786,
+  "num_followers": 47805,
   "original_name": "rockers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZmYzY2QyYzMyYzQwMzZkMWQ4MmY1YzZhY2U2MTNlNmY1MTBmZjI4",
+  "snapshot_id": "MCw0MTM0MDUzNjlhM2JjZjM1ZjhlZmMxOTc1NTRkYjVlYTgxYzlhZTMy",
   "tracks": [
     {
       "added_at": "2024-02-22 17:25:15",
@@ -171,22 +171,6 @@
     {
       "added_at": "2024-02-22 17:25:15",
       "album": {
-        "name": "Dilemma",
-        "url": "https://open.spotify.com/album/0yYaqnTfyp9wlwJxRw1JFk"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 198324,
-      "name": "Dilemma",
-      "url": "https://open.spotify.com/track/6Gn1Gi5zfCgSiTHikrDjni"
-    },
-    {
-      "added_at": "2024-02-22 17:25:15",
-      "album": {
         "name": "WHAT JUST HAPPENED",
         "url": "https://open.spotify.com/album/5cFhETbBm8L6tybXY4AZSj"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 162191,
       "name": "WHAT JUST HAPPENED",
       "url": "https://open.spotify.com/track/2djNsYsA71cIs4A8YaF59J"
+    },
+    {
+      "added_at": "2024-02-22 17:25:15",
+      "album": {
+        "name": "Dilemma",
+        "url": "https://open.spotify.com/album/0yYaqnTfyp9wlwJxRw1JFk"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 198324,
+      "name": "Dilemma",
+      "url": "https://open.spotify.com/track/6Gn1Gi5zfCgSiTHikrDjni"
     },
     {
       "added_at": "2024-02-22 17:25:15",
@@ -411,22 +411,18 @@
     {
       "added_at": "2024-02-22 17:25:15",
       "album": {
-        "name": "Canoa",
-        "url": "https://open.spotify.com/album/3yVv0gmK4EdJNQBWt6au3D"
+        "name": "Eu Nunca Fui Embora",
+        "url": "https://open.spotify.com/album/3waAqG5OQMuzBRZgGYG82h"
       },
       "artists": [
         {
-          "name": "kamaitachi",
-          "url": "https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm"
-        },
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+          "name": "Fresno",
+          "url": "https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f"
         }
       ],
-      "duration_ms": 177605,
-      "name": "Canoa",
-      "url": "https://open.spotify.com/track/2LneA7MOWuowIRaga0eO3t"
+      "duration_ms": 185337,
+      "name": "Eu Nunca Fui Embora",
+      "url": "https://open.spotify.com/track/14CmAgvaO309e1erSWnRsJ"
     },
     {
       "added_at": "2024-02-22 17:25:15",
@@ -451,18 +447,22 @@
     {
       "added_at": "2024-02-22 17:25:15",
       "album": {
-        "name": "Eu Nunca Fui Embora",
-        "url": "https://open.spotify.com/album/3waAqG5OQMuzBRZgGYG82h"
+        "name": "Canoa",
+        "url": "https://open.spotify.com/album/3yVv0gmK4EdJNQBWt6au3D"
       },
       "artists": [
         {
-          "name": "Fresno",
-          "url": "https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f"
+          "name": "kamaitachi",
+          "url": "https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm"
+        },
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
         }
       ],
-      "duration_ms": 185337,
-      "name": "Eu Nunca Fui Embora",
-      "url": "https://open.spotify.com/track/14CmAgvaO309e1erSWnRsJ"
+      "duration_ms": 177605,
+      "name": "Canoa",
+      "url": "https://open.spotify.com/track/2LneA7MOWuowIRaga0eO3t"
     },
     {
       "added_at": "2024-02-22 17:25:15",
@@ -795,6 +795,22 @@
     {
       "added_at": "2024-02-22 17:25:15",
       "album": {
+        "name": "lentamente",
+        "url": "https://open.spotify.com/album/4zThV7FqLkxpvXMCwd7e2r"
+      },
+      "artists": [
+        {
+          "name": "Jambu",
+          "url": "https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX"
+        }
+      ],
+      "duration_ms": 199611,
+      "name": "lentamente",
+      "url": "https://open.spotify.com/track/4ve8c7k1gugrh7cdY0TNQo"
+    },
+    {
+      "added_at": "2024-02-22 17:25:15",
+      "album": {
         "name": "Hoje eu n\u00e3o vim falar de Amor",
         "url": "https://open.spotify.com/album/4oc0QwQpt6HcT0TAArIwH7"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 156000,
       "name": "NUNCA VOU TE PERDOAR",
       "url": "https://open.spotify.com/track/375FOAahZKZhCvBAGnEb7t"
-    },
-    {
-      "added_at": "2024-02-22 17:25:15",
-      "album": {
-        "name": "lentamente",
-        "url": "https://open.spotify.com/album/4zThV7FqLkxpvXMCwd7e2r"
-      },
-      "artists": [
-        {
-          "name": "Jambu",
-          "url": "https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX"
-        }
-      ],
-      "duration_ms": 199611,
-      "name": "lentamente",
-      "url": "https://open.spotify.com/track/4ve8c7k1gugrh7cdY0TNQo"
     },
     {
       "added_at": "2024-02-22 17:25:15",
@@ -923,6 +923,26 @@
     {
       "added_at": "2024-02-22 17:25:15",
       "album": {
+        "name": "Reviravolta",
+        "url": "https://open.spotify.com/album/3PQvknz7UceslwzMNI8QWo"
+      },
+      "artists": [
+        {
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+        },
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        }
+      ],
+      "duration_ms": 205913,
+      "name": "LSD",
+      "url": "https://open.spotify.com/track/6dKhbncIKTndk6SDT7vCeh"
+    },
+    {
+      "added_at": "2024-02-22 17:25:15",
+      "album": {
         "name": "INTENSAMENTE",
         "url": "https://open.spotify.com/album/1S03QGdOVgnsPM2JmoJkte"
       },
@@ -979,26 +999,6 @@
     {
       "added_at": "2024-02-22 17:25:15",
       "album": {
-        "name": "Reviravolta",
-        "url": "https://open.spotify.com/album/3PQvknz7UceslwzMNI8QWo"
-      },
-      "artists": [
-        {
-          "name": "Hotelo",
-          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
-        },
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
-        }
-      ],
-      "duration_ms": 205913,
-      "name": "LSD",
-      "url": "https://open.spotify.com/track/6dKhbncIKTndk6SDT7vCeh"
-    },
-    {
-      "added_at": "2024-02-22 17:25:15",
-      "album": {
         "name": "MENTIRA FAVORITA",
         "url": "https://open.spotify.com/album/5S0rzOgakJueLdblfzAjwf"
       },
@@ -1011,22 +1011,6 @@
       "duration_ms": 173461,
       "name": "MENTIRA FAVORITA",
       "url": "https://open.spotify.com/track/2tnAEKbdnPds84REPr5S73"
-    },
-    {
-      "added_at": "2024-02-22 17:25:15",
-      "album": {
-        "name": "VERMELHO FAROL",
-        "url": "https://open.spotify.com/album/7Ab6Y2gxEck4TTtFhATBns"
-      },
-      "artists": [
-        {
-          "name": "DAY LIMNS",
-          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
-        }
-      ],
-      "duration_ms": 150884,
-      "name": "VERMELHO FAROL",
-      "url": "https://open.spotify.com/track/2gbLj4m0UZTFGlUvIBecAo"
     },
     {
       "added_at": "2024-02-22 17:25:15",
@@ -1047,18 +1031,18 @@
     {
       "added_at": "2024-02-22 17:25:15",
       "album": {
-        "name": ":( UMA BAD UMA FARRA :) [Deluxe]",
-        "url": "https://open.spotify.com/album/7zuGWCPxpmfgRolrURYfom"
+        "name": "VERMELHO FAROL",
+        "url": "https://open.spotify.com/album/7Ab6Y2gxEck4TTtFhATBns"
       },
       "artists": [
         {
-          "name": "Di Ferrero",
-          "url": "https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB"
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
         }
       ],
-      "duration_ms": 207070,
-      "name": "CORPO FECHADO",
-      "url": "https://open.spotify.com/track/6PUMfBnFioVDJzC2vGCC98"
+      "duration_ms": 150884,
+      "name": "VERMELHO FAROL",
+      "url": "https://open.spotify.com/track/2gbLj4m0UZTFGlUvIBecAo"
     },
     {
       "added_at": "2024-02-22 17:25:15",
@@ -1075,6 +1059,22 @@
       "duration_ms": 156705,
       "name": "Conto de Falhas",
       "url": "https://open.spotify.com/track/4zCTi9gNDEDkgpknH0cfCy"
+    },
+    {
+      "added_at": "2024-02-22 17:25:15",
+      "album": {
+        "name": ":( UMA BAD UMA FARRA :) [Deluxe]",
+        "url": "https://open.spotify.com/album/7zuGWCPxpmfgRolrURYfom"
+      },
+      "artists": [
+        {
+          "name": "Di Ferrero",
+          "url": "https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB"
+        }
+      ],
+      "duration_ms": 207070,
+      "name": "CORPO FECHADO",
+      "url": "https://open.spotify.com/track/6PUMfBnFioVDJzC2vGCC98"
     },
     {
       "added_at": "2024-02-22 17:25:15",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2024-02-22 17:25:15",
       "album": {
+        "name": "Maria",
+        "url": "https://open.spotify.com/album/5w9jRpGEp94tsWJdmolcVF"
+      },
+      "artists": [
+        {
+          "name": "CHADY",
+          "url": "https://open.spotify.com/artist/61cC0qxfveBuryvFL2y1l8"
+        }
+      ],
+      "duration_ms": 161866,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/7yEOFcyCeH9HYxC9EmJsIA"
+    },
+    {
+      "added_at": "2024-02-22 17:25:15",
+      "album": {
         "name": "vc n gosta de garotas",
         "url": "https://open.spotify.com/album/5b806Xi9jTAm6IPllA4tob"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 153000,
       "name": "MINHA RELIGI\u00c3O",
       "url": "https://open.spotify.com/track/4sYeYCVsVIphRn8F1C27s4"
-    },
-    {
-      "added_at": "2024-02-22 17:25:15",
-      "album": {
-        "name": "Maria",
-        "url": "https://open.spotify.com/album/5w9jRpGEp94tsWJdmolcVF"
-      },
-      "artists": [
-        {
-          "name": "CHADY",
-          "url": "https://open.spotify.com/artist/61cC0qxfveBuryvFL2y1l8"
-        }
-      ],
-      "duration_ms": 161866,
-      "name": "Maria",
-      "url": "https://open.spotify.com/track/7yEOFcyCeH9HYxC9EmJsIA"
     },
     {
       "added_at": "2024-02-22 17:25:15",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2024-02-22 17:25:15",
       "album": {
-        "name": "Foi Tudo Aqui",
-        "url": "https://open.spotify.com/album/5W5yMEZNYdK1QUru6RhIkd"
-      },
-      "artists": [
-        {
-          "name": "Fuze",
-          "url": "https://open.spotify.com/artist/07XCF6HHgQfcYd2Gapo3Jq"
-        }
-      ],
-      "duration_ms": 189901,
-      "name": "Deixa Estar",
-      "url": "https://open.spotify.com/track/0WNU9VndgDHwaUylsff1yZ"
-    },
-    {
-      "added_at": "2024-02-22 17:25:15",
-      "album": {
         "name": "EMO NAS BAHAMAS",
         "url": "https://open.spotify.com/album/4bxAIoM4FOEzDDROUyYEX7"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 148880,
       "name": "VOU ALI DORMIR",
       "url": "https://open.spotify.com/track/1Lppb1QwW9QtASjtJqkTZB"
+    },
+    {
+      "added_at": "2024-02-22 17:25:15",
+      "album": {
+        "name": "Foi Tudo Aqui",
+        "url": "https://open.spotify.com/album/5W5yMEZNYdK1QUru6RhIkd"
+      },
+      "artists": [
+        {
+          "name": "Fuze",
+          "url": "https://open.spotify.com/artist/07XCF6HHgQfcYd2Gapo3Jq"
+        }
+      ],
+      "duration_ms": 189901,
+      "name": "Deixa Estar",
+      "url": "https://open.spotify.com/track/0WNU9VndgDHwaUylsff1yZ"
     },
     {
       "added_at": "2024-02-22 17:25:15",

@@ -4,7 +4,7 @@
 
 > The ultimate chilled soundtrack to bring your day to a close.
 
-165 songs - 12 hr 53 min
+166 songs - 12 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Femme Fatale](https://open.spotify.com/track/6NV1oF6zZ5VoVpICTsOLYD) | [Lemongrass](https://open.spotify.com/artist/6T4sT6axXOoIXP4cpaQtNk) | [Femme Fatale](https://open.spotify.com/album/6mvHMvvSzosyx1lI18oIK0) | 4:33 | 2021-10-15 | 2022-07-27 |
 | [Fire To Fire](https://open.spotify.com/track/3hbtSTZLoIeNKImnkWRwQ6) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Found In The Wild](https://open.spotify.com/album/12uYfX0tNuYsyS6BNaoJNS) | 3:25 | 2021-10-15 |  |
 | [Fortress](https://open.spotify.com/track/2wxAWvCqm44W3JH54TLYCJ) | [Kipunji](https://open.spotify.com/artist/4QwUuTuiNYfwdCDOlAq7um) | [Fortress](https://open.spotify.com/album/5rrJPeL31coMGhFgo0bj1B) | 4:46 | 2021-10-15 | 2022-09-26 |
-| [Fortress](https://open.spotify.com/track/7faGA4VMnkaMsu3lFN2gxy) | [Kipunji](https://open.spotify.com/artist/4QwUuTuiNYfwdCDOlAq7um) | [Fortress](https://open.spotify.com/album/0UG9EkpapSwVURP5SM5qIg) | 4:46 | 2023-11-17 |  |
+| [Fortress](https://open.spotify.com/track/7faGA4VMnkaMsu3lFN2gxy) | [Kipunji](https://open.spotify.com/artist/4QwUuTuiNYfwdCDOlAq7um) | [Fortress](https://open.spotify.com/album/0UG9EkpapSwVURP5SM5qIg) | 4:46 | 2023-11-17 | 2024-02-24 |
 | [froth sipping](https://open.spotify.com/track/0SKe7Wfpo8a2QKozSernPR) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg) | [still slipping vol\. 1](https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA) | 3:14 | 2021-10-15 | 2023-11-17 |
 | [GLY](https://open.spotify.com/track/6yGNvSOyCZvNOCtHs3hfrH) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [GLY](https://open.spotify.com/album/3G2e7Ruldtt69hWO9ArJDB) | 3:40 | 2021-10-15 |  |
 | [Go Back](https://open.spotify.com/track/5jvM6v9rRM982kij65puWN) | [Kilig](https://open.spotify.com/artist/6bV9MqjsNFkMwryuBkWvXX) | [Go Back](https://open.spotify.com/album/1V2r86gzqG316SJiBJTt1z) | 4:35 | 2021-10-15 | 2022-07-28 |
@@ -145,6 +145,7 @@
 | [Sundown](https://open.spotify.com/track/1wk4sL0DMj0A46MktCZIW5) | [Duke Boara](https://open.spotify.com/artist/6EL8x2zkCRGzb32jvrSI56) | [Sundown](https://open.spotify.com/album/1gqekghNnOZ3uzJDJOAYba) | 4:34 | 2021-10-15 | 2022-07-29 |
 | [Suzuki](https://open.spotify.com/track/7DBBuzCuZQaWNRix9ys6UB) | [Tosca](https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn) | [Suzuki](https://open.spotify.com/album/3mMCQiZaRbwPhn1I3vdFRP) | 6:04 | 2022-07-20 | 2023-11-17 |
 | [Take Me There](https://open.spotify.com/track/4AjynDSkuGn4EZXjy5YYL4) | [Dejector](https://open.spotify.com/artist/0WwAYiS9iUf3VNUqRniJsi) | [Take Me There](https://open.spotify.com/album/5BBKnHnAIuhup9rSQE3bYW) | 3:15 | 2021-10-15 | 2022-07-29 |
+| [Take Me There](https://open.spotify.com/track/6wppmoqQvk2rUGzKim8K5Y) | [Dejector](https://open.spotify.com/artist/0WwAYiS9iUf3VNUqRniJsi) | [Take Me There](https://open.spotify.com/album/5wNMnvFyKVVNlK0evqu5Xv) | 3:15 | 2023-11-17 |  |
 | [Talking Like That](https://open.spotify.com/track/2mO6cLDxTnT9NVnQ6iVfVF) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [EMME](https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs) | [Talking Like That](https://open.spotify.com/album/6NgQBkhn7gc9tcxdsORlgi) | 3:51 | 2023-09-01 |  |
 | [Talking with Myself '98 \(Canny Remix\)](https://open.spotify.com/track/1mqgumZf8MUmNsy9tIWWI3) | [Electribe 101](https://open.spotify.com/artist/03E0TlGIGYR5G3vzkjGrtv) | [Talking With Myself \- Remixes](https://open.spotify.com/album/16vvi1guYbBkEhfqhbiSdF) | 7:03 | 2021-10-15 | 2022-07-24 |
 | [The Child](https://open.spotify.com/track/43sGFmqBOGGUmCu51nEU6K) | [Alex Gopher](https://open.spotify.com/artist/0ADS8B9CUYtbFLvjT99Ktw) | [You My Baby And I](https://open.spotify.com/album/1OljO7oStiLQ8f1etN8S8U) | 4:34 | 2022-07-20 | 2023-09-02 |

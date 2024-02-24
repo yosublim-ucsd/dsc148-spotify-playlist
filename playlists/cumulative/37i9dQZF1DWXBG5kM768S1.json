@@ -1339,6 +1339,24 @@
     },
     {
       "album": {
+        "name": "Far",
+        "url": "https://open.spotify.com/album/5XekrSBdi4Qpz3WkwqUZDa"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f8rn Eidsv\u00e5g",
+          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194190,
+      "name": "Far",
+      "url": "https://open.spotify.com/track/6MsgqzG4ZGc0Lugfwuze0s"
+    },
+    {
+      "album": {
         "name": "Fingeravtrykk",
         "url": "https://open.spotify.com/album/4LQ9X3yVtTvsR7zx0GyRyW"
       },
@@ -2452,7 +2470,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 244640,
       "name": "Ka e du redd for",
       "url": "https://open.spotify.com/track/0MIahGJxmpFDfjdTJGFqDs"
@@ -4370,7 +4388,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 181200,
       "name": "V\u00e5r Beste Dag",
       "url": "https://open.spotify.com/track/4EtXjwdVdnv4v2glKQBloT"
@@ -4388,7 +4406,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-03",
+      "date_removed": null,
       "duration_ms": 202588,
       "name": "V\u00e5r beste dag",
       "url": "https://open.spotify.com/track/2RssYUkYzmEtvxmUX0C19A"

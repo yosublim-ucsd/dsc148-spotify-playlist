@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, Keep it Real\. Cover: Tarsem Jassar
 
-316 songs - 15 hr 2 min
+317 songs - 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Badberry](https://open.spotify.com/track/5pswO9oQUB8uJtvpmxbeTV) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Rass](https://open.spotify.com/artist/3rDMzoRvRb5XfbZTk2gHCK) | [Limitless](https://open.spotify.com/album/3pf6uLZdrxvd7W75J443Dw) | 3:44 | 2023-10-25 |  |
 | [Badmashi](https://open.spotify.com/track/0CDDcwKKEemSQCZIEtXJDZ) | [Jigar](https://open.spotify.com/artist/4O0mhPUgsrXDOYxCHw3A8T), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Narinder Batth](https://open.spotify.com/artist/74M1wGWIo8rcoavCwsmY3P) | [5 Star](https://open.spotify.com/album/74xZFmbJV28PX8ZzHG4iBn) | 3:02 | 2023-06-27 | 2023-12-21 |
 | [Bai Bai](https://open.spotify.com/track/2Hb0FPA15GxnAhnLIyDeuh) | [Nav Meet](https://open.spotify.com/artist/3B59MsCySivKuN3qRePPOb) | [Bai Bai](https://open.spotify.com/album/7b24LEvxmdWknkkzLN092i) | 2:49 | 2024-01-05 | 2024-01-12 |
-| [Bakrey Bulanda Sara Pind \(From "Blackia 2"\)](https://open.spotify.com/track/5mI9DkGHYEBh2iRP86FBA8) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Gill Raunta](https://open.spotify.com/artist/6kz3taYAGtHb9kDWvzQm9k) | [Bakrey Bulanda Sara Pind \(From "Blackia 2"\)](https://open.spotify.com/album/0D8tlH2jLCIO1nOU2osIq9) | 2:50 | 2024-02-13 |  |
+| [Bakrey Bulanda Sara Pind \(From "Blackia 2"\)](https://open.spotify.com/track/5mI9DkGHYEBh2iRP86FBA8) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Gill Raunta](https://open.spotify.com/artist/6kz3taYAGtHb9kDWvzQm9k) | [Bakrey Bulanda Sara Pind \(From "Blackia 2"\)](https://open.spotify.com/album/0D8tlH2jLCIO1nOU2osIq9) | 2:50 | 2024-02-13 | 2024-02-24 |
 | [Balcony](https://open.spotify.com/track/6qDHgeUBJFKYAGPBj3eVD6) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [FAME](https://open.spotify.com/album/6gTapG6daOo6Y9XhibKBvg) | 2:43 | 2023-03-29 | 2023-07-15 |
 | [Balle Balle](https://open.spotify.com/track/3UcIhXO52F1ZFEf3WmAdTb) | [Mani Longia](https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura) | [Balle Balle](https://open.spotify.com/album/2mfoYzMjrZe8oLeKWT5NJW) | 2:57 | 2024-01-22 |  |
 | [Baller](https://open.spotify.com/track/42TMa2hgBNjte4uV7jNCnQ) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Baller](https://open.spotify.com/album/44aCFqUbG06fL58kqpMp8p) | 2:28 | 2023-03-29 | 2023-11-08 |
@@ -56,6 +56,7 @@
 | [Bne Na Bne](https://open.spotify.com/track/1DOHmhUluD2V8p2NsKTPFl) | [Sunny Randhawa](https://open.spotify.com/artist/3h87sa2W1TI6kn30DMwz15) | [Bne Na Bne](https://open.spotify.com/album/3yHo3bf6vHcr6OtwhwzhJY) | 2:54 | 2023-03-29 |  |
 | [Bold And Brave](https://open.spotify.com/track/2SFzf5hp9itASMzGykdVWZ) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Back To Skool](https://open.spotify.com/album/2nV3fDaXXox4sEs3NFllkG) | 2:30 | 2023-05-12 |  |
 | [Bombay Wale](https://open.spotify.com/track/6jXneeDo8tzVKvb9aCiQ3m) | [Bajwa](https://open.spotify.com/artist/235cIEn6QoaIkUtO2lLQzA) | [Bombay Wale](https://open.spotify.com/album/7l6tVpdLTvnXqw0TlVrikR) | 3:04 | 2023-10-19 | 2023-10-26 |
+| [Brand Deals](https://open.spotify.com/track/2iUY2m9C0mCdYJVvGuhEGm) | [JASKARAN](https://open.spotify.com/artist/4AzMhFHYDgw1CZ9SIg885K), [dox](https://open.spotify.com/artist/7sIGEYfllS5VN2Fj0QCtX4) | [Brand Deals](https://open.spotify.com/album/2bCAAfKSCn5Zmg3FLw0gF1) | 3:05 | 2024-02-23 |  |
 | [Busy Getting Paid](https://open.spotify.com/track/6JQuDtJCyQcfVdtA0K8ivR) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Busy Getting Paid](https://open.spotify.com/album/7cyE3wvdW2DEf6nUBmygBK) | 3:07 | 2023-04-27 |  |
 | [Calaboose](https://open.spotify.com/track/2wHTMZwkLbpM6LNkUBs2Xt) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 4:05 | 2023-03-29 | 2023-07-15 |
 | [Call](https://open.spotify.com/track/4SwNUr2HyPu1HpiIxX3E4R) | [Lopon Sidhu](https://open.spotify.com/artist/6xLk6uOnCRbbyQuS7Qb0uC) | [Lopon Wala Sidhu](https://open.spotify.com/album/6s0jbF0UuD4Dac4J5AjATY) | 2:34 | 2023-12-07 | 2024-01-06 |

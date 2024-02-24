@@ -1,12 +1,12 @@
 {
   "description": "Descubra Abbot e novos talentos brasileiros no horizonte.",
-  "num_followers": 413750,
+  "num_followers": 413731,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMmNjZjg3ZjkwNDU2MTQ0MWI2YjM5OWFhZjUxNjk3ODhkYmU3ZmM2",
+  "snapshot_id": "MCw1NWE5ZGNhOTY4MWZlYzFmYWZkNTE0OTIwZTA1ZjExNjAxZDU4MjM0",
   "tracks": [
     {
       "added_at": "2023-10-05 08:00:00",
@@ -787,6 +787,22 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
+        "name": "Viciado em Voc\u00ea",
+        "url": "https://open.spotify.com/album/0cpzXFyvb1RroJP0sS4VYb"
+      },
+      "artists": [
+        {
+          "name": "Lucas Pretti",
+          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
+        }
+      ],
+      "duration_ms": 147476,
+      "name": "Viciado em Voc\u00ea",
+      "url": "https://open.spotify.com/track/6ysuy7FHJrSMayidz0ni5D"
+    },
+    {
+      "added_at": "2023-10-05 08:00:00",
+      "album": {
         "name": "Hino Delas",
         "url": "https://open.spotify.com/album/7yZ4A2amuedBlNHRC9ESMd"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 139854,
       "name": "Hino Delas",
       "url": "https://open.spotify.com/track/2k7EbkIovGbJJCWy7OoOgb"
-    },
-    {
-      "added_at": "2023-10-05 08:00:00",
-      "album": {
-        "name": "Viciado em Voc\u00ea",
-        "url": "https://open.spotify.com/album/0cpzXFyvb1RroJP0sS4VYb"
-      },
-      "artists": [
-        {
-          "name": "Lucas Pretti",
-          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
-        }
-      ],
-      "duration_ms": 147476,
-      "name": "Viciado em Voc\u00ea",
-      "url": "https://open.spotify.com/track/6ysuy7FHJrSMayidz0ni5D"
     },
     {
       "added_at": "2023-10-05 08:00:00",
@@ -1615,30 +1615,6 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
-        "name": "Se Fecha",
-        "url": "https://open.spotify.com/album/0mt6v6UL8sTN16kwK4sWHB"
-      },
-      "artists": [
-        {
-          "name": "Hate Rct",
-          "url": "https://open.spotify.com/artist/0g36YnLj0KIFfgJhTeM9d7"
-        },
-        {
-          "name": "Noze",
-          "url": "https://open.spotify.com/artist/0D7VE7FoqaknItgitI6Ojc"
-        },
-        {
-          "name": "OG L",
-          "url": "https://open.spotify.com/artist/6usXKXCK5gkyeZ18o3Fmg6"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "Se Fecha",
-      "url": "https://open.spotify.com/track/5iinZw7x6qOVf48tgBGpI5"
-    },
-    {
-      "added_at": "2023-10-05 08:00:00",
-      "album": {
         "name": "Vivara",
         "url": "https://open.spotify.com/album/3BIAmUy9t19xvRg9dQGXDk"
       },
@@ -1659,6 +1635,30 @@
       "duration_ms": 256875,
       "name": "Vivara",
       "url": "https://open.spotify.com/track/6v8l1VlZloOoR83tK8OWKK"
+    },
+    {
+      "added_at": "2023-10-05 08:00:00",
+      "album": {
+        "name": "Se Fecha",
+        "url": "https://open.spotify.com/album/0mt6v6UL8sTN16kwK4sWHB"
+      },
+      "artists": [
+        {
+          "name": "Hate Rct",
+          "url": "https://open.spotify.com/artist/0g36YnLj0KIFfgJhTeM9d7"
+        },
+        {
+          "name": "Noze",
+          "url": "https://open.spotify.com/artist/0D7VE7FoqaknItgitI6Ojc"
+        },
+        {
+          "name": "OG L",
+          "url": "https://open.spotify.com/artist/6usXKXCK5gkyeZ18o3Fmg6"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "Se Fecha",
+      "url": "https://open.spotify.com/track/5iinZw7x6qOVf48tgBGpI5"
     }
   ],
   "unique_name": "RADAR Brasil",

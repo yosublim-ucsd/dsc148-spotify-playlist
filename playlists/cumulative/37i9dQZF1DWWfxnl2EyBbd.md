@@ -4,7 +4,7 @@
 
 > The soft sound of a Jazz piano trio to help you relax and unwind.
 
-545 songs - 1 day 17 hr 57 min
+546 songs - 1 day 18 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -407,7 +407,7 @@
 | [Slow Boat to China](https://open.spotify.com/track/49ZabI6v41balII6X6u3BM) | [Rob Van Bavel](https://open.spotify.com/artist/1hoKG6Fb0T7qUj1yL8MPsN) | [Time For Ballads \- The Studio Sessions](https://open.spotify.com/album/5UunarohrbI9z28uUYyw6q) | 4:08 | 2022-06-30 |  |
 | [Smile](https://open.spotify.com/track/7xLZGhRR2jTUtaPewAmacY) | [Alan Pasqua](https://open.spotify.com/artist/1QDou4hCker2eGblLzIq80) | [My New Old Friend](https://open.spotify.com/album/2jvq28Yfjk0Wal4cH5xUtr) | 5:33 | 2022-02-10 |  |
 | [Smoke Gets In Your Eyes \- Live](https://open.spotify.com/track/3FwzNfCgyYSIafAG9QGvRZ) | [Keith Jarrett Trio](https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj) | [Tribute](https://open.spotify.com/album/2AUplxqaiqTaDpY9QsCgPx) | 8:26 | 2022-02-10 |  |
-| [Snow Ghost](https://open.spotify.com/track/2UBumdntcd5ufINFo9w9ZX) | [Jacob Wutzke](https://open.spotify.com/artist/0gl2Q0OE8JZmq22KORDaJQ) | [Snow Ghost](https://open.spotify.com/album/104OQ6yd9vbKLHCo6XxyZH) | 6:03 | 2023-03-10 |  |
+| [Snow Ghost](https://open.spotify.com/track/2UBumdntcd5ufINFo9w9ZX) | [Jacob Wutzke](https://open.spotify.com/artist/0gl2Q0OE8JZmq22KORDaJQ) | [Snow Ghost](https://open.spotify.com/album/104OQ6yd9vbKLHCo6XxyZH) | 6:03 | 2023-03-10 | 2024-02-24 |
 | [Soliloquy](https://open.spotify.com/track/0te1ho7v4bPASest2eI0q3) | [Jennie Reigen](https://open.spotify.com/artist/4gefXT9y8hdGtxBmkHN2HA) | [Soliloquy](https://open.spotify.com/album/1VFMQG2BAGIE3xBp1ejr34) | 2:23 | 2023-04-27 |  |
 | [Solitude](https://open.spotify.com/track/3UeNIqq0ujRBtJOrqxJcMj) | [The Uptown Players](https://open.spotify.com/artist/1S2Mr3FmzAs8p9Wl0xHEe2) | [Solitude](https://open.spotify.com/album/2Qqdm6Zj9bCLWlkoSqE2bi) | 2:30 | 2022-11-12 |  |
 | [Some Day My Prince Will Come](https://open.spotify.com/track/7MOcps59D9EKIzO6jxivQg) | [The Alan Broadbent Trio](https://open.spotify.com/artist/3Al4iiw6OMtADaBw7NDWIG) | [Pacific Standard Time](https://open.spotify.com/album/3N8ehynLixrhNFbv98YbCV) | 4:42 | 2022-02-10 |  |
@@ -445,6 +445,7 @@
 | [Tender Love](https://open.spotify.com/track/1FePXz2POgqbRHXyvTaatk) | [Ola W Jansson](https://open.spotify.com/artist/4hoFdBmz4b5NykkV0SCEVz), [W JAZZ TRIO](https://open.spotify.com/artist/4nFofMNAntqM5p8Q4ha2YA) | [Tender Love](https://open.spotify.com/album/1yJMv0eQnnqlkXdtP4tc8w) | 2:13 | 2022-04-07 | 2024-01-19 |
 | [Tenderly](https://open.spotify.com/track/5w6hGJhvWy9Fth9eldO0rT) | [Mark Roswell Trio](https://open.spotify.com/artist/5LyofWLANV5qojc0VHqh6i) | [Tenderly](https://open.spotify.com/album/5rEcJC5idMYjO6mq3eJFeC) | 3:23 | 2022-11-12 |  |
 | [Terrassedør](https://open.spotify.com/track/57tJTC6pmYgKWmc4Jo9Mz0) | [Svaneborg Kardyb](https://open.spotify.com/artist/2aGCFk3Mvhs9Am7JHwoyRr) | [Orbit](https://open.spotify.com/album/1rEFeHf8hGrb2YiSPBMr0U) | 2:52 | 2022-05-26 | 2022-09-15 |
+| [That Was Then](https://open.spotify.com/track/4hAzpVLnohaPrgwC4lIOxh) | [Roelofs](https://open.spotify.com/artist/6FMjIGodIpXfHq3X5Mfry4) | [That Was Then](https://open.spotify.com/album/68LKBJ6tGkv0SgrF1yVb42) | 5:34 | 2024-02-23 |  |
 | [The Art of Flying](https://open.spotify.com/track/0g0f3eeqmzgd0yO24yYdng) | [Peter Nordahl Trio](https://open.spotify.com/artist/6Qar0oNt9IZSMyrBxMg7ok) | [A Brand New Silver Dollar](https://open.spotify.com/album/5PenfsMGMK0o9L7kNHqW8G) | 5:23 | 2022-08-30 | 2023-09-14 |
 | [The Art of Flying \- Edit](https://open.spotify.com/track/38j4V8qkda6o4ta0BCJvKJ) | [Peter Nordahl Trio](https://open.spotify.com/artist/6Qar0oNt9IZSMyrBxMg7ok) | [The Art of Flying \(Edit\)](https://open.spotify.com/album/63PWCBZVpIcVFJkH3godc5) | 4:08 | 2022-06-03 | 2023-07-22 |
 | [The Art of Letting Go](https://open.spotify.com/track/5ZlwYoMgai25EVMUPKMBr8) | [Dries Riesen](https://open.spotify.com/artist/2CBiYt7JDgmt7EYJEVmDdL) | [The Art of Letting Go](https://open.spotify.com/album/0FsvqEQCqEHrI7qhkVlULW) | 3:20 | 2023-05-11 |  |

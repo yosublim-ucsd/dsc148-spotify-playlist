@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All the best new songs from the pop punk scene. Cover: Neck Deep",
+  "description": "All the best new songs from the pop punk scene. Cover: Sum 41",
   "name": "Pop Punk's Not Dead",
   "tracks": [
     {
@@ -182,7 +182,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 177209,
       "name": "3 Days Sober",
       "url": "https://open.spotify.com/track/2TAugpQe6ZDChiYNEUzQcA"
@@ -404,7 +404,7 @@
       ],
       "date_added": "2024-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 185450,
       "name": "Alpha Beta Sigma",
       "url": "https://open.spotify.com/track/5XVK6Qn09ECprvV7EFBrvb"
@@ -2102,7 +2102,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 157324,
       "name": "Fallen Short",
       "url": "https://open.spotify.com/track/1mbnRS3a0TgqsrahokSF43"
@@ -3715,6 +3715,24 @@
     },
     {
       "album": {
+        "name": "Life Goes On",
+        "url": "https://open.spotify.com/album/5TDePQoJS7am0pjcsP6DTr"
+      },
+      "artists": [
+        {
+          "name": "408",
+          "url": "https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207705,
+      "name": "Life Goes On",
+      "url": "https://open.spotify.com/track/2VKbnaPkDvOFB2TzfucuC3"
+    },
+    {
+      "album": {
         "name": "Life Goes On!!",
         "url": "https://open.spotify.com/album/17wLO3F6j4PAW07uUVc7Ng"
       },
@@ -4259,6 +4277,24 @@
     },
     {
       "album": {
+        "name": "No News Is Good News",
+        "url": "https://open.spotify.com/album/7sLi0samb6YmLrHzVa94Ei"
+      },
+      "artists": [
+        {
+          "name": "Carpool",
+          "url": "https://open.spotify.com/artist/1GfHrs9bbnqkN3ektKmGit"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209426,
+      "name": "No News Is Good News",
+      "url": "https://open.spotify.com/track/6cZntUHzJ0shH0wq7mEKUg"
+    },
+    {
+      "album": {
         "name": "No one's listening",
         "url": "https://open.spotify.com/album/6Bqwod52xZi6XtSA3dCpDC"
       },
@@ -4530,6 +4566,24 @@
       "duration_ms": 149248,
       "name": "People That I Love Leave",
       "url": "https://open.spotify.com/track/2ZaPyFZBwurF7wCT9DKAVV"
+    },
+    {
+      "album": {
+        "name": "Petty Enemy",
+        "url": "https://open.spotify.com/album/5uHsfC0uBHrCpGCTTH658f"
+      },
+      "artists": [
+        {
+          "name": "Games We Play",
+          "url": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199553,
+      "name": "Petty Enemy",
+      "url": "https://open.spotify.com/track/52H6QAbHUfJf2bMgRE6Ooa"
     },
     {
       "album": {
@@ -4830,7 +4884,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 175234,
       "name": "RECKLESS",
       "url": "https://open.spotify.com/track/2iNb7p7WLZ4fJHZd3kbWst"
@@ -5316,6 +5370,24 @@
       "duration_ms": 156785,
       "name": "Shotgun Wedding",
       "url": "https://open.spotify.com/track/0giHgzxiziVnf8vyWpJYR0"
+    },
+    {
+      "album": {
+        "name": "shut up & kiss me",
+        "url": "https://open.spotify.com/album/535qi3HMdlkibT9bHtoRxD"
+      },
+      "artists": [
+        {
+          "name": "girlfriends",
+          "url": "https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "shut up & kiss me",
+      "url": "https://open.spotify.com/track/6l1OfxVR2o8Hed0qV1xdE3"
     },
     {
       "album": {
@@ -5812,7 +5884,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 204360,
       "name": "Superglue",
       "url": "https://open.spotify.com/track/6shhkpASLVaTUs5Gnuf5mX"
@@ -6093,6 +6165,24 @@
     },
     {
       "album": {
+        "name": "The Best Part",
+        "url": "https://open.spotify.com/album/73iyohYCbdK5PhPfq4hgSS"
+      },
+      "artists": [
+        {
+          "name": "We The Kings",
+          "url": "https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176213,
+      "name": "The Best Part",
+      "url": "https://open.spotify.com/track/0MRxHFczABU1lQmu5aZFFw"
+    },
+    {
+      "album": {
         "name": "Head in The Clouds",
         "url": "https://open.spotify.com/album/7w0jejpTAtTzkl4IDUcqPH"
       },
@@ -6206,7 +6296,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 180970,
       "name": "theme song",
       "url": "https://open.spotify.com/track/4pKW3eDE5EonKFYboxagYB"
@@ -6617,6 +6707,24 @@
     },
     {
       "album": {
+        "name": "Waiting On A Twist Of Fate",
+        "url": "https://open.spotify.com/album/5oK4d9R1CpF1jVdLaL4fj8"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166844,
+      "name": "Waiting On A Twist Of Fate",
+      "url": "https://open.spotify.com/track/5PCMU8scAoT4sz4Fn2Umua"
+    },
+    {
+      "album": {
         "name": "Wake Up",
         "url": "https://open.spotify.com/album/7jc2djmbyBkslfXec7H6yv"
       },
@@ -6776,7 +6884,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 197973,
       "name": "Who You Used to Be",
       "url": "https://open.spotify.com/track/7L2E7qweIBVY1bjrXjeCwx"
@@ -6852,6 +6960,24 @@
       "duration_ms": 120149,
       "name": "YOU NEEDED A HIT//",
       "url": "https://open.spotify.com/track/5DbBHcdkzRe1HnA132Dp0z"
+    },
+    {
+      "album": {
+        "name": "You're My Medicine",
+        "url": "https://open.spotify.com/album/3DuCbWlWRyCwqctRcICOiZ"
+      },
+      "artists": [
+        {
+          "name": "Greywind",
+          "url": "https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192682,
+      "name": "You're My Medicine",
+      "url": "https://open.spotify.com/track/1gXk7JzeRTPJn9ugLErbNb"
     },
     {
       "album": {

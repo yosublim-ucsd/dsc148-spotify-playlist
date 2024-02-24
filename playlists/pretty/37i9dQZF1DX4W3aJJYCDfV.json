@@ -1,12 +1,12 @@
 {
   "description": "Brand new music from Catfish and the Bottlemen, Central Cee, SZA and more!",
-  "num_followers": 846147,
+  "num_followers": 846554,
   "original_name": "New Music Friday UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMGQ3YTA2NmU0OGE2MTFkNGMxNGUzMjhiOWZhNDgyMWE0MGY4Y2I0",
+  "snapshot_id": "MCw0ZGQ1MjBkYTVjZGQ3MzA5Zjc2MTU5ZDQ4ZmY3ZmQ4MDNjYzdmNzk5",
   "tracks": [
     {
       "added_at": "2024-02-23 00:00:00",
@@ -103,8 +103,8 @@
     {
       "added_at": "2024-02-23 00:00:00",
       "album": {
-        "name": "Mount Rushmore (feat. Kano & Wretch 32)",
-        "url": "https://open.spotify.com/album/0dOUZUZsTQin7GO8Xzr0JZ"
+        "name": "On Purpose, With Purpose",
+        "url": "https://open.spotify.com/album/5hJdThiWNAo9kIURyWRKwd"
       },
       "artists": [
         {
@@ -122,7 +122,7 @@
       ],
       "duration_ms": 305253,
       "name": "Mount Rushmore (feat. Kano & Wretch 32)",
-      "url": "https://open.spotify.com/track/00qIL8uavO32InG5YjLBs5"
+      "url": "https://open.spotify.com/track/39aFGcwsZSn4zjKepcBXE0"
     },
     {
       "added_at": "2024-02-23 00:00:00",
@@ -233,8 +233,24 @@
         }
       ],
       "duration_ms": 206039,
-      "name": "Sh*t Show",
+      "name": "Shit Show",
       "url": "https://open.spotify.com/track/090hszohQB1ibgEYfY2KVJ"
+    },
+    {
+      "added_at": "2024-02-23 00:00:00",
+      "album": {
+        "name": "With YOU-th",
+        "url": "https://open.spotify.com/album/575TQDOQqc0MAheeEeKWUR"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 183559,
+      "name": "ONE SPARK",
+      "url": "https://open.spotify.com/track/7cIn67LEvk16v6komC8znS"
     },
     {
       "added_at": "2024-02-23 00:00:00",
@@ -275,8 +291,8 @@
     {
       "added_at": "2024-02-23 00:00:00",
       "album": {
-        "name": "Midas Touch",
-        "url": "https://open.spotify.com/album/6pot9ikG8APyn1dErbdkAf"
+        "name": "Thanks For Hating",
+        "url": "https://open.spotify.com/album/5s9JCGTwH7cWs8Kt1tANZ7"
       },
       "artists": [
         {
@@ -284,13 +300,13 @@
           "url": "https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z"
         },
         {
-          "name": "ADMT",
-          "url": "https://open.spotify.com/artist/6ksk9LbK2gyhtXOFNNJYXi"
+          "name": "adm:t",
+          "url": "https://open.spotify.com/artist/2twME3jNUXdJCcaJ7dqHsJ"
         }
       ],
       "duration_ms": 199521,
       "name": "Midas Touch",
-      "url": "https://open.spotify.com/track/6UF0IMJyAYyoLxOhYnOO0q"
+      "url": "https://open.spotify.com/track/0ZcGPQYJbFXOZ5zd4xfoSb"
     },
     {
       "added_at": "2024-02-23 00:00:00",
@@ -521,6 +537,22 @@
       "url": "https://open.spotify.com/track/3pt8FTbqdnMyh3r9noAYsQ"
     },
     {
+      "added_at": "2024-02-23 10:46:02",
+      "album": {
+        "name": "Let Me Go/Protagonist",
+        "url": "https://open.spotify.com/album/1Kuus9GLAdsUA1THw8WyLn"
+      },
+      "artists": [
+        {
+          "name": "Blanco",
+          "url": "https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y"
+        }
+      ],
+      "duration_ms": 142146,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/4JSIdY48x13cug0R6QDjCH"
+    },
+    {
       "added_at": "2024-02-23 00:00:00",
       "album": {
         "name": "Without Words",
@@ -629,6 +661,22 @@
       "url": "https://open.spotify.com/track/6M3D3YpYaLdEGWembNcEzj"
     },
     {
+      "added_at": "2024-02-23 10:46:02",
+      "album": {
+        "name": "Britpop",
+        "url": "https://open.spotify.com/album/08ZUb3IpVYrHbkWFhMNXO9"
+      },
+      "artists": [
+        {
+          "name": "A. G. Cook",
+          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
+        }
+      ],
+      "duration_ms": 202055,
+      "name": "Britpop",
+      "url": "https://open.spotify.com/track/4szX2NPDe0vhoCGwO4g9cw"
+    },
+    {
       "added_at": "2024-02-23 00:00:00",
       "album": {
         "name": "All I've Got",
@@ -675,6 +723,22 @@
       "duration_ms": 220552,
       "name": "Whatever You Want",
       "url": "https://open.spotify.com/track/1RrxcexvncFGK8gniFrvty"
+    },
+    {
+      "added_at": "2024-02-23 10:46:02",
+      "album": {
+        "name": "dont let me go",
+        "url": "https://open.spotify.com/album/2Sn6jvX2QNfeE0mW1gmhCS"
+      },
+      "artists": [
+        {
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "duration_ms": 173858,
+      "name": "dont let me go",
+      "url": "https://open.spotify.com/track/7uVwJHgkpOI8mCCa0T23Vr"
     },
     {
       "added_at": "2024-02-23 00:00:00",
@@ -883,6 +947,22 @@
       "duration_ms": 202884,
       "name": "You Make Me Sick! - Dora Jar Remix",
       "url": "https://open.spotify.com/track/2jIYa43fTPZsLCGX2D7zL2"
+    },
+    {
+      "added_at": "2024-02-23 10:46:02",
+      "album": {
+        "name": "Like A Ribbon",
+        "url": "https://open.spotify.com/album/7zEIMfEjyBreLK9TfrkwBC"
+      },
+      "artists": [
+        {
+          "name": "John Glacier",
+          "url": "https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d"
+        }
+      ],
+      "duration_ms": 204916,
+      "name": "Emotions",
+      "url": "https://open.spotify.com/track/0uMd9pp22GoCf6i1r60lxA"
     },
     {
       "added_at": "2024-02-23 00:00:00",
@@ -1557,7 +1637,7 @@
         }
       ],
       "duration_ms": 193103,
-      "name": "Nobody Like The Records That I Play",
+      "name": "Nobody Likes The Records That I Play",
       "url": "https://open.spotify.com/track/2qpfRinMEix4FG8q45XroG"
     },
     {

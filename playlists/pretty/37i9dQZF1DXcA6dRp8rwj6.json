@@ -1,12 +1,12 @@
 {
   "description": "The hottest Hip-Hop of today all over the world. (Cover: CYBER RUI, Ash-B)",
-  "num_followers": 438284,
+  "num_followers": 438636,
   "original_name": "Beats & Rhymes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzY2QzMjdkYWI2NjY1NzU4Njk0NjkzMmFmNGJjMmFkNjVhYjcxZjk4",
+  "snapshot_id": "MCxmMTM5ZDk4MTkwMzBkYzhiODIwODQ5ODQ2Mzk2MDY5OTgxYjBkNWE2",
   "tracks": [
     {
       "added_at": "2024-02-22 16:47:36",
@@ -79,6 +79,46 @@
     {
       "added_at": "2024-02-22 16:47:36",
       "album": {
+        "name": "Gangsta",
+        "url": "https://open.spotify.com/album/1qz3r9Ys5UXaE0XToUU71b"
+      },
+      "artists": [
+        {
+          "name": "Free Nationals",
+          "url": "https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 194520,
+      "name": "Gangsta",
+      "url": "https://open.spotify.com/track/49oKnEjgRSs3DMXScEU2G1"
+    },
+    {
+      "added_at": "2024-02-22 16:47:36",
+      "album": {
+        "name": "Richtivities",
+        "url": "https://open.spotify.com/album/6YtEsHXxWjQLdNYIkRjFgB"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 176401,
+      "name": "Richtivities",
+      "url": "https://open.spotify.com/track/78VmtCRovWdLIz3p0Tj7nb"
+    },
+    {
+      "added_at": "2024-02-22 16:47:36",
+      "album": {
         "name": "Mac & Cheese 5 (Versions)",
         "url": "https://open.spotify.com/album/4X7trxVVObj1mdGvdl08Fs"
       },
@@ -131,6 +171,22 @@
       "duration_ms": 177454,
       "name": "TELL ME",
       "url": "https://open.spotify.com/track/3opSNhBVlMOext9iYjD0m9"
+    },
+    {
+      "added_at": "2024-02-22 16:47:36",
+      "album": {
+        "name": "Blow",
+        "url": "https://open.spotify.com/album/5nZqzvIRrgYyWea4LVHiWU"
+      },
+      "artists": [
+        {
+          "name": "Amari Teague",
+          "url": "https://open.spotify.com/artist/2fu7Ig6d88h9W1gyFoo0vC"
+        }
+      ],
+      "duration_ms": 133067,
+      "name": "Blow",
+      "url": "https://open.spotify.com/track/6oRKTJSDRW5aqg4nE8vETf"
     },
     {
       "added_at": "2024-02-22 16:47:36",
@@ -399,6 +455,26 @@
       "duration_ms": 163124,
       "name": "In The Dirt",
       "url": "https://open.spotify.com/track/0w8xLwXp9WDrlPxyWofCUS"
+    },
+    {
+      "added_at": "2024-02-22 16:47:36",
+      "album": {
+        "name": "Shotta Flow Series",
+        "url": "https://open.spotify.com/album/6R8l6AT10mY3uuRugnQaLi"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "Lil Mabu",
+          "url": "https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN"
+        }
+      ],
+      "duration_ms": 180129,
+      "name": "Shotta Flow 7 (feat. Lil Mabu) - Remix",
+      "url": "https://open.spotify.com/track/5LjwPFTJZB00eSfqI8TIqD"
     },
     {
       "added_at": "2024-02-22 16:47:36",

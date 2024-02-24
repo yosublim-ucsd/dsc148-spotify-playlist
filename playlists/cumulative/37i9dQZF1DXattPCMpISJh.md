@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Idina Menzel
 
-247 songs - 15 hr 26 min
+248 songs - 15 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Feel The Groove](https://open.spotify.com/track/0wjJfVH7DCVSeOXxkpFNNE) | [Seb Skalski](https://open.spotify.com/artist/1TMuRToXVLIjYsYYg3jmp1), [Rona Ray](https://open.spotify.com/artist/3kirHdB9pQSMLSgLCgVp1P) | [Feel The Groove](https://open.spotify.com/album/7bOqJYBRGtDpx0NV5yuizR) | 4:43 | 2023-05-19 |  |
 | [Feel This](https://open.spotify.com/track/34gwWYhg66Zw6hcQlfvDPp) | [Martin Eigenberg](https://open.spotify.com/artist/23J5hZ2N7m0UpmdziiYAc2), [Ryan Shade](https://open.spotify.com/artist/73lC9QGob3QCyXallwiSWl) | [Feel This](https://open.spotify.com/album/3eBDDlG2zu5llGGPBJ0JYG) | 3:26 | 2023-07-21 |  |
 | [Feel This](https://open.spotify.com/track/6Dca0REtMaazrwoI5YS0ib) | [Martin Eigenberg](https://open.spotify.com/artist/23J5hZ2N7m0UpmdziiYAc2), [Ryan Shade](https://open.spotify.com/artist/73lC9QGob3QCyXallwiSWl) | [Feel This](https://open.spotify.com/album/16mrraWea47jlXf8nPwNyu) | 3:26 | 2023-07-21 | 2024-02-08 |
+| [Fever](https://open.spotify.com/track/5s9TUVHNEN9BT74EeXFdb6) | [Nothing But Funk](https://open.spotify.com/artist/32RSzgTDqApMWHr6tLNLBF), [French Horn Rebellion](https://open.spotify.com/artist/6G5wDM1Vmsscql7qRtcLH0) | [Fever](https://open.spotify.com/album/2y3qxF7fBARVhGixG5XsVC) | 2:56 | 2024-02-23 |  |
 | [Fight My Demons](https://open.spotify.com/track/6qmuDfuovbFjz6kMgiSokm) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Barney Bones](https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B), [Diamond Pistols](https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5) | [Groove Continental: Side B](https://open.spotify.com/album/6DJVP3L3EJcbOVYMHbAZyr) | 3:40 | 2023-10-06 |  |
 | [Fired Up](https://open.spotify.com/track/48zryrs6OiRWxFdwCItDG0) | [Archie Versace](https://open.spotify.com/artist/6S3CbwXLm1waxap3VZW24x), [Supermini](https://open.spotify.com/artist/0BLL6WY53tPnnVmCIy49uB) | [Fired Up](https://open.spotify.com/album/0AVxyhn8k58OuIK8xz4bsT) | 2:58 | 2023-01-13 |  |
 | [First Thing](https://open.spotify.com/track/6W3s4OcqdCN49QDzIVItzR) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Tailor](https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH) | [First Thing](https://open.spotify.com/album/1qrXPJPrjcri9XEocz9rQO) | 3:59 | 2022-08-12 | 2023-04-09 |
@@ -246,7 +247,7 @@
 | [Wake Up! \(feat\. Kaleta\)](https://open.spotify.com/track/7sMYJtxTHZKCDr48rAoA4J) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U), [Kaleta](https://open.spotify.com/artist/1nvtmWdce9bvVkKAZ5g46m) | [Wake Up! \(feat\. Kaleta\)](https://open.spotify.com/album/3tTRLML0NouWERt09k2Whv) | 3:52 | 2022-06-03 | 2023-04-01 |
 | [We Hold the Future](https://open.spotify.com/track/0PAugWAYPor3vV3cB8euA3) | [Me & My Toothbrush](https://open.spotify.com/artist/5X83BYTRaFGSoKLknnIpWz) | [We Hold the Future](https://open.spotify.com/album/4wZLlIABrvzjycmnHN339Y) | 3:11 | 2021-10-15 | 2022-10-22 |
 | [When Someone Loves You](https://open.spotify.com/track/6Z0OTy3hVXDPxskcc262JH) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [When Someone Loves You](https://open.spotify.com/album/24WbV4OTp6wQ0BLA9BD8DP) | 4:15 | 2022-09-02 |  |
-| [why don't you come on over?](https://open.spotify.com/track/6t5uDwqa7AalPzQY1fDivT) | [Sita](https://open.spotify.com/artist/3xaMeif5BSoyYAqHneI2T2) | [why don't you come on over?](https://open.spotify.com/album/2slwiCDPuD1wFhsqmA5hKX) | 2:36 | 2022-02-25 |  |
+| [why don't you come on over?](https://open.spotify.com/track/6t5uDwqa7AalPzQY1fDivT) | [Sita](https://open.spotify.com/artist/3xaMeif5BSoyYAqHneI2T2) | [why don't you come on over?](https://open.spotify.com/album/2slwiCDPuD1wFhsqmA5hKX) | 2:36 | 2022-02-25 | 2024-02-24 |
 | [Wishing Well](https://open.spotify.com/track/161KhiTvj9JwoO7uzorjGo) | [Rodney Hunter](https://open.spotify.com/artist/3TD8t9L7Mpi6S72O9MOxm3), [IVAR](https://open.spotify.com/artist/78Nkh6ogSZKHX0s3WLU0dk) | [Wishing Well](https://open.spotify.com/album/75bgX4B8rcP8FseJ7YVoho) | 4:30 | 2022-02-25 | 2023-01-14 |
 | [You Keep Saying](https://open.spotify.com/track/7ebT6YZGAkTCRyCbfGX0I4) | [Ollie Olivia](https://open.spotify.com/artist/2VTVGDfP4tK769da9YbgHu) | [You Keep Saying](https://open.spotify.com/album/4nboI3WcxLnsbGtACuKaJA) | 3:31 | 2021-11-19 | 2022-09-17 |
 | [You Make Me Feel So Good](https://open.spotify.com/track/6Km4fDR4J8KGxygCowUdfs) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [You Make Me Feel So Good](https://open.spotify.com/album/4Gz6ZJpblwIcONuElYTlPq) | 3:37 | 2023-03-24 |  |

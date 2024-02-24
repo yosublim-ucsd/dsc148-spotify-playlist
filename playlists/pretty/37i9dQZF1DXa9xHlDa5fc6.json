@@ -1,12 +1,12 @@
 {
   "description": "unwind with these alternative favorites and new discoveries.",
-  "num_followers": 457303,
+  "num_followers": 457375,
   "original_name": "License To Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYmE2YmUwYjBjM2I3ZTE2NDRjYjA0OTdkZGEwNzdlYWJhYTcxMDQy",
+  "snapshot_id": "MCw0ODhjODkwZDRhNmYxMjc4MTQ2N2VlODVlM2FmMjEwMTcxOTUwMzQ2",
   "tracks": [
     {
       "added_at": "2024-02-13 23:11:41",
@@ -367,22 +367,18 @@
     {
       "added_at": "2024-02-13 23:11:41",
       "album": {
-        "name": "No More Lies",
-        "url": "https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt"
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw"
       },
       "artists": [
         {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        },
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+          "name": "B\u00d8RNS",
+          "url": "https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo"
         }
       ],
-      "duration_ms": 327217,
-      "name": "No More Lies",
-      "url": "https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj"
+      "duration_ms": 260986,
+      "name": "American Money",
+      "url": "https://open.spotify.com/track/4AewKenHXKBt643p473xCk"
     },
     {
       "added_at": "2024-02-13 23:11:41",
@@ -403,18 +399,22 @@
     {
       "added_at": "2024-02-13 23:11:41",
       "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw"
+        "name": "No More Lies",
+        "url": "https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt"
       },
       "artists": [
         {
-          "name": "B\u00d8RNS",
-          "url": "https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo"
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
         }
       ],
-      "duration_ms": 260986,
-      "name": "American Money",
-      "url": "https://open.spotify.com/track/4AewKenHXKBt643p473xCk"
+      "duration_ms": 327217,
+      "name": "No More Lies",
+      "url": "https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj"
     },
     {
       "added_at": "2024-02-13 23:11:41",
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-02-13 23:11:41",
       "album": {
-        "name": "No Strings",
-        "url": "https://open.spotify.com/album/4LDOFx1Km6O5vYbN5Z3iFb"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 213080,
-      "name": "No Strings",
-      "url": "https://open.spotify.com/track/2EVPJwUDXYldA6gAv00Tj6"
-    },
-    {
-      "added_at": "2024-02-13 23:11:41",
-      "album": {
         "name": "Drop Stop Roll",
         "url": "https://open.spotify.com/album/7C45E727Jyq6UrMyLYD2Ab"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 170788,
       "name": "Drop Stop Roll",
       "url": "https://open.spotify.com/track/1y3NV3N99VoSP4crdkbog7"
+    },
+    {
+      "added_at": "2024-02-13 23:11:41",
+      "album": {
+        "name": "No Strings",
+        "url": "https://open.spotify.com/album/4LDOFx1Km6O5vYbN5Z3iFb"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 213080,
+      "name": "No Strings",
+      "url": "https://open.spotify.com/track/2EVPJwUDXYldA6gAv00Tj6"
     },
     {
       "added_at": "2024-02-13 23:11:41",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-02-13 23:11:41",
       "album": {
-        "name": "Colorado",
-        "url": "https://open.spotify.com/album/0zOIu4cDkUdJPq1c5uQusO"
-      },
-      "artists": [
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        }
-      ],
-      "duration_ms": 174347,
-      "name": "Colorado",
-      "url": "https://open.spotify.com/track/0eZmBWVC1HYayrP2fqQ7nu"
-    },
-    {
-      "added_at": "2024-02-13 23:11:41",
-      "album": {
         "name": "Language & Perspective",
         "url": "https://open.spotify.com/album/4TPjqLZkA2ekWLEQ8GvMr9"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 182467,
       "name": "Cardiac Arrest",
       "url": "https://open.spotify.com/track/5aejtAMTPonqopEygQgOkq"
+    },
+    {
+      "added_at": "2024-02-13 23:11:41",
+      "album": {
+        "name": "Colorado",
+        "url": "https://open.spotify.com/album/0zOIu4cDkUdJPq1c5uQusO"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "duration_ms": 174347,
+      "name": "Colorado",
+      "url": "https://open.spotify.com/track/0eZmBWVC1HYayrP2fqQ7nu"
     },
     {
       "added_at": "2024-02-13 23:11:41",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-02-13 23:11:41",
       "album": {
-        "name": "Blossom (Deluxe)",
-        "url": "https://open.spotify.com/album/72xhsdVmVWFXJuSjABjqtC"
-      },
-      "artists": [
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        }
-      ],
-      "duration_ms": 255160,
-      "name": "Cocoon",
-      "url": "https://open.spotify.com/track/6acDlNeA06MCVCzsTVGr9V"
-    },
-    {
-      "added_at": "2024-02-13 23:11:41",
-      "album": {
         "name": "Nine Types of Light",
         "url": "https://open.spotify.com/album/0FvrvaVsWQ7kTdGzipW6HV"
       },
@@ -759,6 +743,22 @@
     {
       "added_at": "2024-02-13 23:11:41",
       "album": {
+        "name": "Black Bear",
+        "url": "https://open.spotify.com/album/2Objy4bpKyIT4JsUsBr8ka"
+      },
+      "artists": [
+        {
+          "name": "Andrew Belle",
+          "url": "https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY"
+        }
+      ],
+      "duration_ms": 241119,
+      "name": "Pieces",
+      "url": "https://open.spotify.com/track/2DHDuADAHoUW6n0z80RLQF"
+    },
+    {
+      "added_at": "2024-02-13 23:11:41",
+      "album": {
         "name": "Crying Over U",
         "url": "https://open.spotify.com/album/5YCO5fV52dmvfcfYVzLjcj"
       },
@@ -775,18 +775,34 @@
     {
       "added_at": "2024-02-13 23:11:41",
       "album": {
-        "name": "Black Bear",
-        "url": "https://open.spotify.com/album/2Objy4bpKyIT4JsUsBr8ka"
+        "name": "Blossom (Deluxe)",
+        "url": "https://open.spotify.com/album/72xhsdVmVWFXJuSjABjqtC"
       },
       "artists": [
         {
-          "name": "Andrew Belle",
-          "url": "https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY"
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
         }
       ],
-      "duration_ms": 241119,
-      "name": "Pieces",
-      "url": "https://open.spotify.com/track/2DHDuADAHoUW6n0z80RLQF"
+      "duration_ms": 255160,
+      "name": "Cocoon",
+      "url": "https://open.spotify.com/track/6acDlNeA06MCVCzsTVGr9V"
+    },
+    {
+      "added_at": "2024-02-13 23:11:41",
+      "album": {
+        "name": "Blue Rev",
+        "url": "https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz"
+      },
+      "artists": [
+        {
+          "name": "Alvvays",
+          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
+        }
+      ],
+      "duration_ms": 185276,
+      "name": "After The Earthquake",
+      "url": "https://open.spotify.com/track/0O5q2h0kfQD6PixL7rCHuL"
     },
     {
       "added_at": "2024-02-13 23:11:41",
@@ -823,22 +839,6 @@
     {
       "added_at": "2024-02-13 23:11:41",
       "album": {
-        "name": "Blue Rev",
-        "url": "https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz"
-      },
-      "artists": [
-        {
-          "name": "Alvvays",
-          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
-        }
-      ],
-      "duration_ms": 185276,
-      "name": "After The Earthquake",
-      "url": "https://open.spotify.com/track/0O5q2h0kfQD6PixL7rCHuL"
-    },
-    {
-      "added_at": "2024-02-13 23:11:41",
-      "album": {
         "name": "We\u2019re All Gonna Die",
         "url": "https://open.spotify.com/album/1uiwlKORLzoDvBsDiLdkm4"
       },
@@ -871,6 +871,22 @@
       "duration_ms": 223520,
       "name": "Electric Indigo",
       "url": "https://open.spotify.com/track/1erXDiGCnmUQvG6DZRqpuM"
+    },
+    {
+      "added_at": "2024-02-13 23:11:41",
+      "album": {
+        "name": "What Now",
+        "url": "https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2"
+      },
+      "artists": [
+        {
+          "name": "Brittany Howard",
+          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+        }
+      ],
+      "duration_ms": 226680,
+      "name": "What Now",
+      "url": "https://open.spotify.com/track/1WAjkljaKkFILaxlsGlSfh"
     },
     {
       "added_at": "2024-02-13 23:11:41",
@@ -923,22 +939,6 @@
     {
       "added_at": "2024-02-13 23:11:41",
       "album": {
-        "name": "What Now",
-        "url": "https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2"
-      },
-      "artists": [
-        {
-          "name": "Brittany Howard",
-          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
-        }
-      ],
-      "duration_ms": 226680,
-      "name": "What Now",
-      "url": "https://open.spotify.com/track/1WAjkljaKkFILaxlsGlSfh"
-    },
-    {
-      "added_at": "2024-02-13 23:11:41",
-      "album": {
         "name": "Cub",
         "url": "https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7"
       },
@@ -951,6 +951,22 @@
       "duration_ms": 202653,
       "name": "Purple",
       "url": "https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz"
+    },
+    {
+      "added_at": "2024-02-13 23:11:41",
+      "album": {
+        "name": "White Noise (Deluxe Version)",
+        "url": "https://open.spotify.com/album/68kO84eoAPgWxQB1mJ2P1w"
+      },
+      "artists": [
+        {
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/6mIHP19RfAUXTPdxxUqtfn"
     },
     {
       "added_at": "2024-02-13 23:11:41",
@@ -975,22 +991,6 @@
     {
       "added_at": "2024-02-13 23:11:41",
       "album": {
-        "name": "White Noise (Deluxe Version)",
-        "url": "https://open.spotify.com/album/68kO84eoAPgWxQB1mJ2P1w"
-      },
-      "artists": [
-        {
-          "name": "PVRIS",
-          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "You and I",
-      "url": "https://open.spotify.com/track/6mIHP19RfAUXTPdxxUqtfn"
-    },
-    {
-      "added_at": "2024-02-13 23:11:41",
-      "album": {
         "name": "A Celebration Of Endings",
         "url": "https://open.spotify.com/album/5yAXUpsKaby5IcXgzrNFAw"
       },
@@ -1003,22 +1003,6 @@
       "duration_ms": 235946,
       "name": "Space",
       "url": "https://open.spotify.com/track/20wnO4hGXbWvIPDEmED8gM"
-    },
-    {
-      "added_at": "2024-02-13 23:11:41",
-      "album": {
-        "name": "Alone in the Mountains",
-        "url": "https://open.spotify.com/album/7oGOnYxXUMTH8BGooDqsC4"
-      },
-      "artists": [
-        {
-          "name": "Goth Babe",
-          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
-        }
-      ],
-      "duration_ms": 196707,
-      "name": "Alone in the Mountains",
-      "url": "https://open.spotify.com/track/2Ug0yCvg19wxkpwALYWzHi"
     },
     {
       "added_at": "2024-02-13 23:11:41",
@@ -1051,6 +1035,22 @@
       "duration_ms": 172280,
       "name": "Rescue Me",
       "url": "https://open.spotify.com/track/7j4xf3LLFtAupXBAxgIde2"
+    },
+    {
+      "added_at": "2024-02-13 23:11:41",
+      "album": {
+        "name": "Alone in the Mountains",
+        "url": "https://open.spotify.com/album/7oGOnYxXUMTH8BGooDqsC4"
+      },
+      "artists": [
+        {
+          "name": "Goth Babe",
+          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+        }
+      ],
+      "duration_ms": 196707,
+      "name": "Alone in the Mountains",
+      "url": "https://open.spotify.com/track/2Ug0yCvg19wxkpwALYWzHi"
     },
     {
       "added_at": "2024-02-13 23:11:41",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-02-13 23:11:41",
       "album": {
-        "name": "Psychos",
-        "url": "https://open.spotify.com/album/0siRBdRYz6ECU6EZArzbx1"
-      },
-      "artists": [
-        {
-          "name": "Jenny Lewis",
-          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
-        }
-      ],
-      "duration_ms": 185120,
-      "name": "Psychos",
-      "url": "https://open.spotify.com/track/4CaM2lWgvmWLIBDOkJCD7p"
-    },
-    {
-      "added_at": "2024-02-13 23:11:41",
-      "album": {
         "name": "I'll Keep You In Mind, From Time to Time",
         "url": "https://open.spotify.com/album/7aMvv0lYIhPyudfM1TmItV"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 159711,
       "name": "Cherry",
       "url": "https://open.spotify.com/track/2HQY0sXTrBJCuxqJxbeMWB"
+    },
+    {
+      "added_at": "2024-02-13 23:11:41",
+      "album": {
+        "name": "Psychos",
+        "url": "https://open.spotify.com/album/0siRBdRYz6ECU6EZArzbx1"
+      },
+      "artists": [
+        {
+          "name": "Jenny Lewis",
+          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
+        }
+      ],
+      "duration_ms": 185120,
+      "name": "Psychos",
+      "url": "https://open.spotify.com/track/4CaM2lWgvmWLIBDOkJCD7p"
     },
     {
       "added_at": "2024-02-13 23:11:41",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2024-02-13 23:11:41",
       "album": {
-        "name": "Candy Eyes",
-        "url": "https://open.spotify.com/album/5fvuhLcnFzgiLKAvVUVazX"
-      },
-      "artists": [
-        {
-          "name": "HOKO",
-          "url": "https://open.spotify.com/artist/7DBibsUWd2RMKmXbple4xZ"
-        }
-      ],
-      "duration_ms": 170600,
-      "name": "Candy Eyes",
-      "url": "https://open.spotify.com/track/3wsFy2qbDtWRuAqzfu86hd"
-    },
-    {
-      "added_at": "2024-02-13 23:11:41",
-      "album": {
         "name": "Shadowboxer",
         "url": "https://open.spotify.com/album/1lozs5nIWjppJZWFEnfGlV"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 213515,
       "name": "Violet City",
       "url": "https://open.spotify.com/track/3EMovq7Gu8VH9Z86wEVVHn"
+    },
+    {
+      "added_at": "2024-02-13 23:11:41",
+      "album": {
+        "name": "Candy Eyes",
+        "url": "https://open.spotify.com/album/5fvuhLcnFzgiLKAvVUVazX"
+      },
+      "artists": [
+        {
+          "name": "HOKO",
+          "url": "https://open.spotify.com/artist/7DBibsUWd2RMKmXbple4xZ"
+        }
+      ],
+      "duration_ms": 170600,
+      "name": "Candy Eyes",
+      "url": "https://open.spotify.com/track/3wsFy2qbDtWRuAqzfu86hd"
     },
     {
       "added_at": "2024-02-13 23:11:41",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2024-02-13 23:11:41",
       "album": {
+        "name": "The Days We Had",
+        "url": "https://open.spotify.com/album/3zRcLPFlbstom1vCWT3y9r"
+      },
+      "artists": [
+        {
+          "name": "Day Wave",
+          "url": "https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK"
+        }
+      ],
+      "duration_ms": 245386,
+      "name": "Something Here",
+      "url": "https://open.spotify.com/track/4d2jmClFslZKu3lbDFKgez"
+    },
+    {
+      "added_at": "2024-02-13 23:11:41",
+      "album": {
         "name": "Puffer",
         "url": "https://open.spotify.com/album/0YmzktvGgOcjZCYjSdcG6n"
       },
@@ -1587,34 +1603,18 @@
     {
       "added_at": "2024-02-13 23:11:41",
       "album": {
-        "name": "Stars Are on Your Side",
-        "url": "https://open.spotify.com/album/5hzwL3gTvGugF4qOXUCQar"
+        "name": "Holding On, Holding Out",
+        "url": "https://open.spotify.com/album/0BmHDh5DQcdfUUGzvQ3pPR"
       },
       "artists": [
         {
-          "name": "Ross Copperman",
-          "url": "https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C"
+          "name": "Tall Heights",
+          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
         }
       ],
-      "duration_ms": 218004,
-      "name": "Stars Are on Your Side",
-      "url": "https://open.spotify.com/track/5dH4xnErpUOIDrGySWGkfJ"
-    },
-    {
-      "added_at": "2024-02-13 23:11:41",
-      "album": {
-        "name": "The Days We Had",
-        "url": "https://open.spotify.com/album/3zRcLPFlbstom1vCWT3y9r"
-      },
-      "artists": [
-        {
-          "name": "Day Wave",
-          "url": "https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK"
-        }
-      ],
-      "duration_ms": 245386,
-      "name": "Something Here",
-      "url": "https://open.spotify.com/track/4d2jmClFslZKu3lbDFKgez"
+      "duration_ms": 218760,
+      "name": "Spirit Cold",
+      "url": "https://open.spotify.com/track/5HVHYpNllysLkUEduWKqlg"
     },
     {
       "added_at": "2024-02-13 23:11:41",
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2024-02-13 23:11:41",
       "album": {
-        "name": "Holding On, Holding Out",
-        "url": "https://open.spotify.com/album/0BmHDh5DQcdfUUGzvQ3pPR"
+        "name": "Stars Are on Your Side",
+        "url": "https://open.spotify.com/album/5hzwL3gTvGugF4qOXUCQar"
       },
       "artists": [
         {
-          "name": "Tall Heights",
-          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
+          "name": "Ross Copperman",
+          "url": "https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C"
         }
       ],
-      "duration_ms": 218760,
-      "name": "Spirit Cold",
-      "url": "https://open.spotify.com/track/5HVHYpNllysLkUEduWKqlg"
+      "duration_ms": 218004,
+      "name": "Stars Are on Your Side",
+      "url": "https://open.spotify.com/track/5dH4xnErpUOIDrGySWGkfJ"
     },
     {
       "added_at": "2024-02-13 23:11:41",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2024-02-13 23:11:41",
       "album": {
-        "name": "Ocean by Ocean",
-        "url": "https://open.spotify.com/album/71JvFFLbdANicbU2Ys3s55"
-      },
-      "artists": [
-        {
-          "name": "The Boxer Rebellion",
-          "url": "https://open.spotify.com/artist/7DEseTqRODmSu3C7jxCHl5"
-        }
-      ],
-      "duration_ms": 266906,
-      "name": "Big Ideas",
-      "url": "https://open.spotify.com/track/4xXJhn3Z0HXzA1OfH20mwP"
-    },
-    {
-      "added_at": "2024-02-13 23:11:41",
-      "album": {
         "name": "Dead Boys",
         "url": "https://open.spotify.com/album/45vySJkc2UuDd6DWYnJeAL"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 205045,
       "name": "Dead Boys",
       "url": "https://open.spotify.com/track/0dApI39mMqaXSbSsq4J7kI"
+    },
+    {
+      "added_at": "2024-02-13 23:11:41",
+      "album": {
+        "name": "Ocean by Ocean",
+        "url": "https://open.spotify.com/album/71JvFFLbdANicbU2Ys3s55"
+      },
+      "artists": [
+        {
+          "name": "The Boxer Rebellion",
+          "url": "https://open.spotify.com/artist/7DEseTqRODmSu3C7jxCHl5"
+        }
+      ],
+      "duration_ms": 266906,
+      "name": "Big Ideas",
+      "url": "https://open.spotify.com/track/4xXJhn3Z0HXzA1OfH20mwP"
     },
     {
       "added_at": "2024-02-13 23:11:41",
@@ -1959,22 +1959,6 @@
     {
       "added_at": "2024-02-13 23:11:41",
       "album": {
-        "name": "What's It Like Over There?",
-        "url": "https://open.spotify.com/album/5pQd4CjocXnv5aLizqHCMu"
-      },
-      "artists": [
-        {
-          "name": "Circa Waves",
-          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
-        }
-      ],
-      "duration_ms": 243532,
-      "name": "The Way We Say Goodbye",
-      "url": "https://open.spotify.com/track/7sZG4nOCgGfXE00SCuyngO"
-    },
-    {
-      "added_at": "2024-02-13 23:11:41",
-      "album": {
         "name": "Nearer My God",
         "url": "https://open.spotify.com/album/6l3mTuQHtjeqoyYWkTxld8"
       },
@@ -1987,6 +1971,22 @@
       "duration_ms": 215693,
       "name": "Nearer My God",
       "url": "https://open.spotify.com/track/1tSVf4MEdh8kVwKCmZw6uc"
+    },
+    {
+      "added_at": "2024-02-13 23:11:41",
+      "album": {
+        "name": "What's It Like Over There?",
+        "url": "https://open.spotify.com/album/5pQd4CjocXnv5aLizqHCMu"
+      },
+      "artists": [
+        {
+          "name": "Circa Waves",
+          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
+        }
+      ],
+      "duration_ms": 243532,
+      "name": "The Way We Say Goodbye",
+      "url": "https://open.spotify.com/track/7sZG4nOCgGfXE00SCuyngO"
     },
     {
       "added_at": "2024-02-13 23:11:41",

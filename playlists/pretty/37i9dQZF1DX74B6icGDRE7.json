@@ -1,13 +1,29 @@
 {
   "description": "my intrusive thoughts \ud83e\udd1d this playlist. para esas horas nost\u00e1lgicas & melanc\u00f3licas de la noche.",
-  "num_followers": 9341,
+  "num_followers": 9354,
   "original_name": "de madrugada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OTJjYzdiYzc3MGIyZjU2OWU2NzhjYzIxMTc1YWUyZjg5ODlkNTkz",
+  "snapshot_id": "MCxiOGU2YmY2YjkyYzMwM2IwNjgzZDBiMTkxNzFmNjFiYWZkNzRlYmQ3",
   "tracks": [
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Red Moon In Venus",
+        "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 187723,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/0JmnkIqdlnUzPaf8sqBRs3"
+    },
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
@@ -27,22 +43,6 @@
       "duration_ms": 224835,
       "name": "Patadas de Ahogado",
       "url": "https://open.spotify.com/track/4WefXOf8I4gMjdj2kBJgkl"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Red Moon In Venus",
-        "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 187723,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/0JmnkIqdlnUzPaf8sqBRs3"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -95,22 +95,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Julieta",
-        "url": "https://open.spotify.com/album/7aVTkuM4X00Q3fyWynNYxE"
-      },
-      "artists": [
-        {
-          "name": "LATIN MAFIA",
-          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
-        }
-      ],
-      "duration_ms": 210413,
-      "name": "Julieta",
-      "url": "https://open.spotify.com/track/1QgY3dbddC41h8cBm9lxKd"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Aztl\u00e1n",
         "url": "https://open.spotify.com/album/0yFFH0eR0XJSoF0S5d5peT"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 194226,
       "name": "Azul",
       "url": "https://open.spotify.com/track/7ffkdwy4EvMSeUnPVSyqqw"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Superclean, Vol. II",
+        "url": "https://open.spotify.com/album/1Iu5sceGmML4CeQ2f5Q6aO"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 182900,
+      "name": "Over the Moon",
+      "url": "https://open.spotify.com/track/02wNtFxlr9dLmZXKT5TIF5"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -159,18 +159,18 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Superclean, Vol. II",
-        "url": "https://open.spotify.com/album/1Iu5sceGmML4CeQ2f5Q6aO"
+        "name": "Julieta",
+        "url": "https://open.spotify.com/album/7aVTkuM4X00Q3fyWynNYxE"
       },
       "artists": [
         {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
         }
       ],
-      "duration_ms": 182900,
-      "name": "Over the Moon",
-      "url": "https://open.spotify.com/track/02wNtFxlr9dLmZXKT5TIF5"
+      "duration_ms": 210413,
+      "name": "Julieta",
+      "url": "https://open.spotify.com/track/1QgY3dbddC41h8cBm9lxKd"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -523,18 +523,18 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Tanto",
-        "url": "https://open.spotify.com/album/1EcuhRjExVXfWXcYz2AtTj"
+        "name": "Paris Texas",
+        "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
       },
       "artists": [
         {
-          "name": "AQUIHAYAQUIHAY",
-          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
         }
       ],
-      "duration_ms": 253150,
-      "name": "Tanto",
-      "url": "https://open.spotify.com/track/5ZqbJRd75CSRoqSBK5gsrn"
+      "duration_ms": 244800,
+      "name": "siempre lo hago y te extra\u00f1o",
+      "url": "https://open.spotify.com/track/2wzh1Yr9j7TLmJLGo317u0"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -559,18 +559,18 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Paris Texas",
-        "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
+        "name": "Tanto",
+        "url": "https://open.spotify.com/album/1EcuhRjExVXfWXcYz2AtTj"
       },
       "artists": [
         {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+          "name": "AQUIHAYAQUIHAY",
+          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
         }
       ],
-      "duration_ms": 244800,
-      "name": "siempre lo hago y te extra\u00f1o",
-      "url": "https://open.spotify.com/track/2wzh1Yr9j7TLmJLGo317u0"
+      "duration_ms": 253150,
+      "name": "Tanto",
+      "url": "https://open.spotify.com/track/5ZqbJRd75CSRoqSBK5gsrn"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -827,6 +827,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "No Me Dejes As\u00ed",
+        "url": "https://open.spotify.com/album/5IDQ5SebTTV9zL32FEsjxB"
+      },
+      "artists": [
+        {
+          "name": "Blnko",
+          "url": "https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d"
+        }
+      ],
+      "duration_ms": 184826,
+      "name": "No Me Dejes As\u00ed",
+      "url": "https://open.spotify.com/track/6W05VQuFPVdU07SFmAQML3"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "Ma\u00f1ana",
         "url": "https://open.spotify.com/album/1Bjt5bUlj6nPzsHulKTWpL"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 172108,
       "name": "Ma\u00f1ana",
       "url": "https://open.spotify.com/track/6Rzk7iqpQRMZALiC9yr9Zr"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "No Me Dejes As\u00ed",
-        "url": "https://open.spotify.com/album/5IDQ5SebTTV9zL32FEsjxB"
-      },
-      "artists": [
-        {
-          "name": "Blnko",
-          "url": "https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d"
-        }
-      ],
-      "duration_ms": 184826,
-      "name": "No Me Dejes As\u00ed",
-      "url": "https://open.spotify.com/track/6W05VQuFPVdU07SFmAQML3"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Cardenal Cisneros",
-        "url": "https://open.spotify.com/album/6RBKGZxneqj8Ygzpn7POMc"
-      },
-      "artists": [
-        {
-          "name": "Gus",
-          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
-        }
-      ],
-      "duration_ms": 252973,
-      "name": "Cardenal Cisneros",
-      "url": "https://open.spotify.com/track/5O4mnBvus90sZA1g5IMFXE"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Nubes",
         "url": "https://open.spotify.com/album/3woQ2AxMJRfEJaEV9BIDR1"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 230386,
       "name": "tuviste",
       "url": "https://open.spotify.com/track/5vfEvCdf2sjlf8ZWtZdfp7"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Cardenal Cisneros",
+        "url": "https://open.spotify.com/album/6RBKGZxneqj8Ygzpn7POMc"
+      },
+      "artists": [
+        {
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+        }
+      ],
+      "duration_ms": 252973,
+      "name": "Cardenal Cisneros",
+      "url": "https://open.spotify.com/track/5O4mnBvus90sZA1g5IMFXE"
     },
     {
       "added_at": "2024-02-16 05:00:00",

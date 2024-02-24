@@ -1,5 +1,5 @@
 {
-  "2024-02-23": 78020,
+  "2024-02-24": 78073,
   "date_first_scraped": "2021-12-28",
   "description": "Ambient music backed by the atmospheric sounds and elements of nature. ",
   "name": "Wild Ambience",
@@ -42,6 +42,24 @@
     },
     {
       "album": {
+        "name": "Above It All",
+        "url": "https://open.spotify.com/album/3dAYVLzUOScOJqdqK8EL0W"
+      },
+      "artists": [
+        {
+          "name": "Massimu",
+          "url": "https://open.spotify.com/artist/6HRgy5lTTh6w2SpMq2cCcP"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Above It All",
+      "url": "https://open.spotify.com/track/15uNCnNbAsjLx7oJPw4bIy"
+    },
+    {
+      "album": {
         "name": "Fragmentary",
         "url": "https://open.spotify.com/album/77dDhKqacxTQBz9womkmbY"
       },
@@ -75,6 +93,24 @@
       "duration_ms": 192000,
       "name": "Animal",
       "url": "https://open.spotify.com/track/1v09ATzQfzToQrBgu0mkD6"
+    },
+    {
+      "album": {
+        "name": "Arms Reach",
+        "url": "https://open.spotify.com/album/5bUvUBOI9nB7dzOz3PMIQl"
+      },
+      "artists": [
+        {
+          "name": "Escix V",
+          "url": "https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173250,
+      "name": "Arms Reach",
+      "url": "https://open.spotify.com/track/4HbSh61MlKqwfp089lUqx1"
     },
     {
       "album": {
@@ -259,6 +295,24 @@
       "duration_ms": 386186,
       "name": "Behind the Concrete Factory",
       "url": "https://open.spotify.com/track/2JiHVCcOnNXPybtPnuZ6QC"
+    },
+    {
+      "album": {
+        "name": "Believing",
+        "url": "https://open.spotify.com/album/3F6RkCB2kWEG06VtBwLrlT"
+      },
+      "artists": [
+        {
+          "name": "Allowe",
+          "url": "https://open.spotify.com/artist/5Ny0uNpaaAVZb4ciJUuwH0"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167500,
+      "name": "Believing",
+      "url": "https://open.spotify.com/track/2rmqKL7fMADJlqoysQ42xj"
     },
     {
       "album": {

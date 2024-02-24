@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: Velvet Trip\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,147 likes - 85 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,153 likes - 85 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 62 | [haunted](https://open.spotify.com/track/7d0O6PqeZl23hZiTtzCABx) | [SAFETY CLUB](https://open.spotify.com/artist/52OF5mGGrAg9kdlq9Qkkd4) | [haunted](https://open.spotify.com/album/17hLIsszgHNK7R1ZoqN0zv) | 2:21 |
 | 63 | [Ape Shit](https://open.spotify.com/track/0n0gpo87pFPzXMbQ4l3laH) | [1300](https://open.spotify.com/artist/34dKvFZNwGaM0NMDtZaJ0P), [sokodomo](https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ) | [Ape Shit](https://open.spotify.com/album/2XIvEKG4tudF3cQKreQr7d) | 3:08 |
 | 64 | [HOLLER](https://open.spotify.com/track/3orvFPnojxfKoERuNyvdke) | [CLYPSO](https://open.spotify.com/artist/0PLRwyoWBDRiK3QnflnDbd) | [HOLLER](https://open.spotify.com/album/7CiNp8IdfmHoOhNNSl3oOB) | 2:46 |
-| 65 | [courtship](https://open.spotify.com/track/6GtBqLC5MeZhhLgQK8oVRp) | [yergurl](https://open.spotify.com/artist/256Y9onrKClLcW4xSDtbwo) | [courtship](https://open.spotify.com/album/1pAFRzASIOEGSYbVx2N3CZ) | 3:08 |
+| 65 | [courtship](https://open.spotify.com/track/6KKayDYuGD9hZmAAzguWhi) | [yergurl](https://open.spotify.com/artist/256Y9onrKClLcW4xSDtbwo) | [courtship ❦](https://open.spotify.com/album/4sai0QfV76IOKdXhj6qHrO) | 3:08 |
 | 66 | [Cleo](https://open.spotify.com/track/4GoyFC5pPMyuP8jAm4MZBD) | [Yasmin Hass](https://open.spotify.com/artist/1ngeTsUw6Wo2W4TTgTSCcC) | [Cleo](https://open.spotify.com/album/4FAxvxyEV5QwhAkXK3doU0) | 3:36 |
 | 67 | [Magic Woman Dancing](https://open.spotify.com/track/7AM5N923iLDBuj409nHgKR) | [Emily Wurramara](https://open.spotify.com/artist/0OKjEr4iSUvgGSebJakjNF) | [Magic Woman Dancing](https://open.spotify.com/album/7Aw4qEWEuMOewzfS49P0CZ) | 4:31 |
 | 68 | [Pull Me In](https://open.spotify.com/track/5JtuOJXFe3YhcgVwbz1z6c) | [Where's Jai](https://open.spotify.com/artist/55olYRcMzqdvCfqrATjiTf) | [Pull Me In](https://open.spotify.com/album/07FP1XMdfLdzcu0ribK4qF) | 3:37 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 84 | [Movies](https://open.spotify.com/track/6MVpC6ETNiNj6CNtpO4BCz) | [Logan](https://open.spotify.com/artist/7w8LS5pR81tvDOskUj8x1j) | [Movies](https://open.spotify.com/album/4KnDMKPK9lA84JHcRR5uR0) | 2:54 |
 | 85 | [Awake](https://open.spotify.com/track/38Y0NFSYYePTXeuZcgIron) | [Julia Wallace](https://open.spotify.com/artist/2bFY7vDLp0o5Kt6FHiwkAp) | [Awake](https://open.spotify.com/album/6Nr1qfwLB8jxRN2pTwNXb5) | 4:22 |
 
-Snapshot ID: `MCwyN2FiMDUwNDYyMzJlMDE1ODFkYzM4NzRlNjYwNGY0OGQ5NTQ2NDI1`
+Snapshot ID: `MCxjODY0ZmQxMmNjY2Q0YzZhNTM3YTZkMGNkMTZjMTk5NDMxMWI3YWE4`

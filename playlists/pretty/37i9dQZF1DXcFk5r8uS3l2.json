@@ -1,13 +1,29 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Lizz Wright",
-  "num_followers": 442486,
+  "num_followers": 442516,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YmY1ZjQzNGMyOWEzZTliNmU4YzJhMjRiY2Q2MTdhNjM5ZDg4YjFk",
+  "snapshot_id": "MCxhMjAwYjgwNGJkNWJmZjAwY2NhNmIxNjRlMzg4MjEwMDMxM2NlZTM2",
   "tracks": [
+    {
+      "added_at": "2024-02-23 05:01:00",
+      "album": {
+        "name": "Watch Me Gone",
+        "url": "https://open.spotify.com/album/6gefEZB1b5wlbCj9zLYagj"
+      },
+      "artists": [
+        {
+          "name": "Mark Knopfler",
+          "url": "https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug"
+        }
+      ],
+      "duration_ms": 302346,
+      "name": "Watch Me Gone",
+      "url": "https://open.spotify.com/track/00GkFHBAxQe5yr55TtacF8"
+    },
     {
       "added_at": "2024-02-16 15:23:32",
       "album": {
@@ -1315,22 +1331,6 @@
       "duration_ms": 204629,
       "name": "Unchange",
       "url": "https://open.spotify.com/track/6jiK5cO3rWtPsEGTO1117A"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Remember Me",
-        "url": "https://open.spotify.com/album/6BIJ51eimU9fVigSw41HXy"
-      },
-      "artists": [
-        {
-          "name": "Seth Walker",
-          "url": "https://open.spotify.com/artist/3Bl4eNAFJkXXi0ewcjgGP9"
-        }
-      ],
-      "duration_ms": 139399,
-      "name": "Remember Me",
-      "url": "https://open.spotify.com/track/2KioWFaFI2I2seZe7CJNII"
     },
     {
       "added_at": "2023-10-06 04:00:00",

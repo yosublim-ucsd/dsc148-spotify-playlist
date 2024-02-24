@@ -4,11 +4,11 @@
 
 > Quand l'indie et l'electro ne font qu'un.
 
-73 songs - 5 hr 5 min
+76 songs - 5 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [10%](https://open.spotify.com/track/41SwdQIX8Hy2u6fuEDgvWr) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 3:06 | 2023-02-07 |  |
+| [10%](https://open.spotify.com/track/41SwdQIX8Hy2u6fuEDgvWr) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 3:06 | 2023-02-07 | 2024-02-24 |
 | [6 De La Mañana](https://open.spotify.com/track/6u2uAR3w98nDi2KBuH4oBo) | [Jimmy Whoo](https://open.spotify.com/artist/526SiOeohcxxzAqB1JCuQb), [A.CHAL](https://open.spotify.com/artist/0pkwrPVI8UyXtPkavyJoZ4) | [6 De La Mañana](https://open.spotify.com/album/1giPJnE8jnkO7qwNmhX01Y) | 2:51 | 2024-02-16 |  |
 | [Agenda Suicide](https://open.spotify.com/track/1eX0GWObMA2EAnkv5vuWw2) | [The Faint](https://open.spotify.com/artist/4A1yfFuBmBOgzv4Oe3fFHk) | [Danse Macabre](https://open.spotify.com/album/4avCxtm2y5e8so2aipSIfV) | 3:58 | 2023-02-07 |  |
 | [Always On the Run](https://open.spotify.com/track/1WuqCvOaCVDgbu12AROnCr) | [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf) | [Living On The Edge Of Time](https://open.spotify.com/album/3BBzKiwVV4TI94yWwL8ICg) | 3:43 | 2023-10-16 |  |
@@ -18,7 +18,7 @@
 | [Boy From School](https://open.spotify.com/track/1L8H6AuK4TaMmolSL0N0mR) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [The Warning](https://open.spotify.com/album/25wuY7cXE8zjFnJRiU1ehS) | 5:19 | 2023-02-07 |  |
 | [Boys Latin](https://open.spotify.com/track/178yi3jvbIHwnaxeAVUCD9) | [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ) | [Panda Bear Meets The Grim Reaper](https://open.spotify.com/album/4iRqf2zoGhh7yO5evg1NYj) | 4:12 | 2023-02-07 |  |
 | [Bulletproof](https://open.spotify.com/track/3kMrazSvILsgcwtidZd1Qd) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA) | [La Roux](https://open.spotify.com/album/3CcCqXsbyjCDDSA3omcGoy) | 3:25 | 2023-02-07 | 2023-11-30 |
-| [Celestia](https://open.spotify.com/track/6I6PNGL4RLUMI0pfTC8gqP) | [Clovis Reyes](https://open.spotify.com/artist/1rPMCfJhANfBT78l2wf4d6) | [Celestia](https://open.spotify.com/album/36awCHquAZcSqExCImIUjT) | 2:07 | 2024-02-16 |  |
+| [Celestia](https://open.spotify.com/track/6I6PNGL4RLUMI0pfTC8gqP) | [Clovis Reyes](https://open.spotify.com/artist/1rPMCfJhANfBT78l2wf4d6) | [Celestia](https://open.spotify.com/album/36awCHquAZcSqExCImIUjT) | 2:07 | 2024-02-16 | 2024-02-24 |
 | [Circles](https://open.spotify.com/track/7BpRe7He8r2MV6MZPqAKmj) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [I Love You, Dude](https://open.spotify.com/album/40FCwDLlSKNZZ8tT3jWH5r) | 3:47 | 2023-02-07 |  |
 | [Complete Me \(feat\. Self Esteem\)](https://open.spotify.com/track/4PLpEoutbbBKXQX4Ymkgvq) | [Django Django](https://open.spotify.com/artist/2ARO60gI5do88ho6azmzab), [Self Esteem](https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe) | [Complete Me \(feat\. Self Esteem\)](https://open.spotify.com/album/6YQ5IjxTphaqI365Y8CNiO) | 4:46 | 2023-02-10 |  |
 | [Danser seul \(Ne suffit pas\)](https://open.spotify.com/track/1Dy89Uwb65YjAp5CC1sUzN) | [Bagarre](https://open.spotify.com/artist/3oDsNnVKW3T4MflgJlLysJ) | [CLUB 12345](https://open.spotify.com/album/0QbPKsLZqu9OhiotHNINhr) | 3:54 | 2023-02-07 | 2023-11-16 |
@@ -26,6 +26,7 @@
 | [Deer Teeth](https://open.spotify.com/track/5kw1a9O11qBlFkLAQnwb5U) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [Deer Teeth](https://open.spotify.com/album/4VVZS87dI8rFiePJzsjQAm) | 3:51 | 2024-02-16 |  |
 | [Discipline](https://open.spotify.com/track/3NLRsJ6mXjxsu8CvysDeUE) | [Club cheval](https://open.spotify.com/artist/3sFn8HRnBP6g4twNNy9Tzz) | [Discipline](https://open.spotify.com/album/2ZGWMH5dkJMGxRT5gM8lmZ) | 4:52 | 2023-02-07 | 2024-02-17 |
 | [Don't Turn the Lights On](https://open.spotify.com/track/2cC48Dvkkw5YK9rLIr83OG) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Business Casual](https://open.spotify.com/album/7iZU6KMPD0iT7QqtMkTmL1) | 4:32 | 2023-02-07 | 2023-11-16 |
+| [Don't You](https://open.spotify.com/track/18354LBwPIgO5DJ8vzOsGg) | [Jerry Folk](https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv), [Izza Gara](https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov) | [Don't You](https://open.spotify.com/album/7HFGc7fbzZOuE2TFyYN8Ra) | 2:35 | 2024-02-23 |  |
 | [Feel It All Around](https://open.spotify.com/track/4V0x90QcMh4ZxwHzEWOdtK) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Life of Leisure](https://open.spotify.com/album/1jMTPWTHJhsZev04IbmyCC) | 3:12 | 2023-10-16 |  |
 | [Flux](https://open.spotify.com/track/3V4LTMmu764I724y0ToD2d) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [A Weekend in the City](https://open.spotify.com/album/5qGqM14bpZCa1qQ7jt5W7R) | 3:35 | 2023-02-07 |  |
 | [FRANK](https://open.spotify.com/track/5zHa6tYdr1k1pOBJPIv7Fw) | [Jimmy Whoo](https://open.spotify.com/artist/526SiOeohcxxzAqB1JCuQb) | [FRANK](https://open.spotify.com/album/5i8wOElEy6wOo1pyb4kb29) | 2:45 | 2024-02-16 |  |
@@ -52,7 +53,7 @@
 | [Loud Places](https://open.spotify.com/track/7lPgKA5mLFNmGPMdb07OlM) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [In Colour](https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ) | 4:43 | 2023-02-07 |  |
 | [Midnight City](https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Hurry Up, We're Dreaming](https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR) | 4:01 | 2023-11-29 |  |
 | [Midnight City](https://open.spotify.com/track/5tMY5DJvFr9f8UGTta6KEj) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Before the Dawn Heals Us](https://open.spotify.com/album/772BNzeP2P72saAQGiDPyX) | 4:03 | 2023-11-15 | 2024-01-19 |
-| [Mirror](https://open.spotify.com/track/0AXay1TwLmrkdWpVnHbmpl) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Mirror](https://open.spotify.com/album/2WqbgScsOiTs0ps64zytjZ) | 5:44 | 2023-10-19 |  |
+| [Mirror](https://open.spotify.com/track/0AXay1TwLmrkdWpVnHbmpl) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Mirror](https://open.spotify.com/album/2WqbgScsOiTs0ps64zytjZ) | 5:44 | 2023-10-19 | 2024-02-24 |
 | [My Delirium](https://open.spotify.com/track/3vqSWOEMO4OOxa2QJHuitI) | [Ladyhawke](https://open.spotify.com/artist/5TfnQ0Ai1cEbKY5katFK14) | [Ladyhawke](https://open.spotify.com/album/0AvEEMu6w6U9neLNaHu4G8) | 4:15 | 2023-02-07 |  |
 | [My Girls](https://open.spotify.com/track/7jZBPuJmkOsfPkwFD30dAA) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Merriweather Post Pavilion](https://open.spotify.com/album/6BRq5g6CWiFgN3NrjLGAYq) | 5:40 | 2023-02-07 |  |
 | [N.E.M.](https://open.spotify.com/track/1evi0s1rOH5ZFJkrCWbStm) | [Las Aves](https://open.spotify.com/artist/0bbL6moYLUu792U2ZdWgXU) | [Die In Shanghai](https://open.spotify.com/album/3X0fVmPjhrn1tjsz8ALmdC) | 3:20 | 2023-11-15 |  |
@@ -69,6 +70,7 @@
 | [Second Life](https://open.spotify.com/track/06OEFGpAn2Y2ZEACTiXruB) | [Kiko](https://open.spotify.com/artist/4vQwRCAEjGlq5szn3MyG2N), [Agoria](https://open.spotify.com/artist/4lu50np3LdTkRL09T7x8UP) | [Second Life](https://open.spotify.com/album/73UKqssJXWES4fRrF6R19r) | 2:47 | 2024-02-16 |  |
 | [Skeleton Boy](https://open.spotify.com/track/0O2UcLBP75ugJ8DxskP8gz) | [Friendly Fires](https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p) | [Friendly Fires](https://open.spotify.com/album/3sGsbbZGQqc3npPtdlAgnU) | 3:33 | 2023-02-07 | 2024-02-17 |
 | [Slyd](https://open.spotify.com/track/46lfv99D2euxzpZeSDZZUv) | [!!!](https://open.spotify.com/artist/1mmehjf7eHA10uHMisZGJg) | [Thr!!!er](https://open.spotify.com/album/1J2PN5tgc2Z5wz4Vb0xHkn) | 4:14 | 2023-02-07 | 2024-02-17 |
+| [Sourire](https://open.spotify.com/track/41qv3QU0O4zM2KLtkO5x28) | [Amelie Martinez](https://open.spotify.com/artist/2ZUmKzZUZPBuvBrdTM6Rw1), [Vendredi](https://open.spotify.com/artist/728y8xDi9WMeYqKeuYgDF0) | [Sourire](https://open.spotify.com/album/3PxbtialTHwR0r70FpgBtm) | 2:34 | 2024-02-23 |  |
 | [Space and the Woods \- Cenzo Townshend Mix](https://open.spotify.com/track/1ShnAaEZXE9Px2chAVLZUk) | [Late of the Pier](https://open.spotify.com/artist/5ZBQea34QfBgEDkcGEKK2b) | [Fantasy Black Channel](https://open.spotify.com/album/08MTKoAy7sggTqeQNcvDdi) | 3:43 | 2023-02-07 | 2023-11-16 |
 | [Splitting The Atom](https://open.spotify.com/track/1r9mGafUiSgumJoRqyLrSt) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X) | [Heligoland](https://open.spotify.com/album/1F8y2bg9V9nRoy8zuxo3Jt) | 5:16 | 2023-02-07 | 2023-11-16 |
 | [Tear You Apart](https://open.spotify.com/track/3urJUvRhgMrwydaTQFVEg9) | [She Wants Revenge](https://open.spotify.com/artist/2zRt0sfxNnqI8gLR7d8gWt) | [She Wants Revenge](https://open.spotify.com/album/0ikcvM61CScaAOSKHOralR) | 4:44 | 2023-02-07 |  |
@@ -80,6 +82,7 @@
 | [Vanished](https://open.spotify.com/track/0Q2YGyMeeZMAvzebtxoQ5f) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles](https://open.spotify.com/album/7HJSVyFzG1sM02weSAqhdH) | 4:02 | 2023-02-07 | 2023-12-23 |
 | [Vanished](https://open.spotify.com/track/4bQ7mjty0UVlKRalhizpGT) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles](https://open.spotify.com/album/6rTfUUv8Kefr6Uo3AaecXi) | 4:02 | 2023-11-29 |  |
 | [Windowlicker](https://open.spotify.com/track/409z4jUHpq7eIkg3N3FzZh) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Windowlicker](https://open.spotify.com/album/59wyQv8zUfLulyPYefI8vh) | 6:05 | 2023-02-07 | 2024-02-17 |
+| [You & Me](https://open.spotify.com/track/4mwYnQIIIQMZ2fv1bA1v9E) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq) | [You & Me](https://open.spotify.com/album/1nbX5SpbInsusz0qYRcrr2) | 2:50 | 2024-02-23 |  |
 | [You've Got The Love \- Jamie xx Rework](https://open.spotify.com/track/59Y2GLn55BVjX3UTMUDtTP) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG), [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy), [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [You've Got The Love \(Jamie xx Rework\)](https://open.spotify.com/album/6ehMwGARrrgvrOpyHAV1LA) | 5:42 | 2023-11-15 |  |
 
 \*This playlist was first scraped on 2023-09-29. Prior content cannot be recovered.

@@ -1,12 +1,12 @@
 {
   "description": "Na m\u00fasica eletr\u00f4nica underground brasileira, nos vemos no front.",
-  "num_followers": 11047,
+  "num_followers": 11052,
   "original_name": "Front BR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNDJhMDNiMjM3N2QzOWJmMjM4ODZiYmJmODA2NTZlNGRmOWVjOGFl",
+  "snapshot_id": "MCw3ZDcxNTU2YmE3ZjNiMGQ3YjllMTIyMGE3ZDE5ZWI5YWI3M2YwNmYx",
   "tracks": [
     {
       "added_at": "2023-11-10 03:03:00",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Geleia de Morango",
-        "url": "https://open.spotify.com/album/2ELCWydR1EfR4GkBJmpFjD"
-      },
-      "artists": [
-        {
-          "name": "Noporn",
-          "url": "https://open.spotify.com/artist/7h8xz8JZYUH9d2rDBnlyPQ"
-        }
-      ],
-      "duration_ms": 349250,
-      "name": "Geleia de Morango",
-      "url": "https://open.spotify.com/track/7IwOA3TwfKMahyCvYGAujI"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
         "name": "ALGO",
         "url": "https://open.spotify.com/album/4lYlRgyH0HzIhB5WBiCYxw"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 352099,
       "name": "Algo 2",
       "url": "https://open.spotify.com/track/7JukUaZAH26NHybv468QmK"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
+        "name": "Geleia de Morango",
+        "url": "https://open.spotify.com/album/2ELCWydR1EfR4GkBJmpFjD"
+      },
+      "artists": [
+        {
+          "name": "Noporn",
+          "url": "https://open.spotify.com/artist/7h8xz8JZYUH9d2rDBnlyPQ"
+        }
+      ],
+      "duration_ms": 349250,
+      "name": "Geleia de Morango",
+      "url": "https://open.spotify.com/track/7IwOA3TwfKMahyCvYGAujI"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -515,6 +515,22 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
+        "name": "Ideologia Chinesa",
+        "url": "https://open.spotify.com/album/59gOFfVWRfngojfpLIqabt"
+      },
+      "artists": [
+        {
+          "name": "Pessoas Que Eu Conhe\u00e7o",
+          "url": "https://open.spotify.com/artist/4nSIg6TVVkOBCeWXBBrEFD"
+        }
+      ],
+      "duration_ms": 323629,
+      "name": "House Aprovado Pelo Governo",
+      "url": "https://open.spotify.com/track/6M5Qw2cglL7PGAq3VS9uaI"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
         "name": "P\u00f3 de Guaran\u00e1 (Caiporas e Armadilhas)",
         "url": "https://open.spotify.com/album/3PFFktM3VF29A9n0pPBBDJ"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 188320,
       "name": "P\u00f3 de Guaran\u00e1 (Caiporas e Armadilhas)",
       "url": "https://open.spotify.com/track/2cYWtypetLoFznZbirS1dX"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
-        "name": "Ideologia Chinesa",
-        "url": "https://open.spotify.com/album/59gOFfVWRfngojfpLIqabt"
-      },
-      "artists": [
-        {
-          "name": "Pessoas Que Eu Conhe\u00e7o",
-          "url": "https://open.spotify.com/artist/4nSIg6TVVkOBCeWXBBrEFD"
-        }
-      ],
-      "duration_ms": 323629,
-      "name": "House Aprovado Pelo Governo",
-      "url": "https://open.spotify.com/track/6M5Qw2cglL7PGAq3VS9uaI"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -615,18 +615,26 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Nocturnal Fear",
-        "url": "https://open.spotify.com/album/5SKJOj2pql5vvHUz2TYtmP"
+        "name": "Laiarai\u00e1 (Remixes)",
+        "url": "https://open.spotify.com/album/7nnfxrjhpD6t0lyuW7JYix"
       },
       "artists": [
         {
-          "name": "RHR",
-          "url": "https://open.spotify.com/artist/2Q01XKiycTMJqmeGbGcxX6"
+          "name": "Henrique Portugal",
+          "url": "https://open.spotify.com/artist/3vI8Ld2y1zCY8vvkZ8VFq5"
+        },
+        {
+          "name": "Marcos Valle",
+          "url": "https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk"
+        },
+        {
+          "name": "LOV.ini",
+          "url": "https://open.spotify.com/artist/5E4ep2me7vGYs9nOZvlT6z"
         }
       ],
-      "duration_ms": 336400,
-      "name": "Colapso",
-      "url": "https://open.spotify.com/track/0GnU3VwY3jlVvOIm8mSwPb"
+      "duration_ms": 308000,
+      "name": "Laiarai\u00e1 (LOV.ini Remix)",
+      "url": "https://open.spotify.com/track/1t1AznXhR5rr9IKBqhMOl5"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -659,26 +667,18 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Laiarai\u00e1 (Remixes)",
-        "url": "https://open.spotify.com/album/7nnfxrjhpD6t0lyuW7JYix"
+        "name": "Nocturnal Fear",
+        "url": "https://open.spotify.com/album/5SKJOj2pql5vvHUz2TYtmP"
       },
       "artists": [
         {
-          "name": "Henrique Portugal",
-          "url": "https://open.spotify.com/artist/3vI8Ld2y1zCY8vvkZ8VFq5"
-        },
-        {
-          "name": "Marcos Valle",
-          "url": "https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk"
-        },
-        {
-          "name": "LOV.ini",
-          "url": "https://open.spotify.com/artist/5E4ep2me7vGYs9nOZvlT6z"
+          "name": "RHR",
+          "url": "https://open.spotify.com/artist/2Q01XKiycTMJqmeGbGcxX6"
         }
       ],
-      "duration_ms": 308000,
-      "name": "Laiarai\u00e1 (LOV.ini Remix)",
-      "url": "https://open.spotify.com/track/1t1AznXhR5rr9IKBqhMOl5"
+      "duration_ms": 336400,
+      "name": "Colapso",
+      "url": "https://open.spotify.com/track/0GnU3VwY3jlVvOIm8mSwPb"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Feel Me",
-        "url": "https://open.spotify.com/album/28dybAb1bHM81bMOIPM9QW"
-      },
-      "artists": [
-        {
-          "name": "Aninha",
-          "url": "https://open.spotify.com/artist/6dCjFLvBI3cNlTIUWSXRrf"
-        }
-      ],
-      "duration_ms": 351451,
-      "name": "Feel Me - Original mix",
-      "url": "https://open.spotify.com/track/2UKEv5MMX7TYHcc92TJHP5"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
         "name": "N\u00f3dulo",
         "url": "https://open.spotify.com/album/43JSvwecrejD1GqA0KGiWb"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 453333,
       "name": "Sobre Tum Tum Ta",
       "url": "https://open.spotify.com/track/52zdd6JFOv7k95Zrk1Eb46"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
+        "name": "Feel Me",
+        "url": "https://open.spotify.com/album/28dybAb1bHM81bMOIPM9QW"
+      },
+      "artists": [
+        {
+          "name": "Aninha",
+          "url": "https://open.spotify.com/artist/6dCjFLvBI3cNlTIUWSXRrf"
+        }
+      ],
+      "duration_ms": 351451,
+      "name": "Feel Me - Original mix",
+      "url": "https://open.spotify.com/track/2UKEv5MMX7TYHcc92TJHP5"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -787,38 +787,6 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Kengaral Eletrohits, Vol. 2",
-        "url": "https://open.spotify.com/album/3mZE3yhkIMY9dwZdJBWAPC"
-      },
-      "artists": [
-        {
-          "name": "Diaz",
-          "url": "https://open.spotify.com/artist/0iT0OQnrYcfJ5nCee7jbGX"
-        }
-      ],
-      "duration_ms": 247083,
-      "name": "Passa a Lata de L\u00f3lo",
-      "url": "https://open.spotify.com/track/3j3Qy9Xc8Lpy5xxZ0nwgRq"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
-        "name": "Sem Sono",
-        "url": "https://open.spotify.com/album/1nHAqV2yyqPui5o8v13T5t"
-      },
-      "artists": [
-        {
-          "name": "Martinelli",
-          "url": "https://open.spotify.com/artist/3iSJjv1yv9EwpaTIfiuJ4L"
-        }
-      ],
-      "duration_ms": 337643,
-      "name": "Sem Sono",
-      "url": "https://open.spotify.com/track/0tnTG94G8PnaWUUkX79zqx"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
         "name": "Maelstro\u0308m",
         "url": "https://open.spotify.com/album/7qAo2jVa8XixAGpGVkhLDT"
       },
@@ -831,6 +799,22 @@
       "duration_ms": 487073,
       "name": "Maelstro\u0308m",
       "url": "https://open.spotify.com/track/7MwBYwSqHHawXItyk1gRpC"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
+        "name": "Kengaral Eletrohits, Vol. 2",
+        "url": "https://open.spotify.com/album/3mZE3yhkIMY9dwZdJBWAPC"
+      },
+      "artists": [
+        {
+          "name": "Diaz",
+          "url": "https://open.spotify.com/artist/0iT0OQnrYcfJ5nCee7jbGX"
+        }
+      ],
+      "duration_ms": 247083,
+      "name": "Passa a Lata de L\u00f3lo",
+      "url": "https://open.spotify.com/track/3j3Qy9Xc8Lpy5xxZ0nwgRq"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -851,6 +835,22 @@
       "duration_ms": 304098,
       "name": "Baile do Tai Tai",
       "url": "https://open.spotify.com/track/2NdwBjodJX5zHUdSQWfPyh"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
+        "name": "Sem Sono",
+        "url": "https://open.spotify.com/album/1nHAqV2yyqPui5o8v13T5t"
+      },
+      "artists": [
+        {
+          "name": "Martinelli",
+          "url": "https://open.spotify.com/artist/3iSJjv1yv9EwpaTIfiuJ4L"
+        }
+      ],
+      "duration_ms": 337643,
+      "name": "Sem Sono",
+      "url": "https://open.spotify.com/track/0tnTG94G8PnaWUUkX79zqx"
     },
     {
       "added_at": "2023-11-10 03:03:00",

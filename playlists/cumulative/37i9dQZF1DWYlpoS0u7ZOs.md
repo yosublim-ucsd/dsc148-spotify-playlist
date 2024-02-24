@@ -2,9 +2,9 @@
 
 ### [shockwave](https://open.spotify.com/playlist/37i9dQZF1DWYlpoS0u7ZOs)
 
-> A new wave of rock music\. Cover: Sick Love
+> A new wave of rock music\. Cover: Queen Cult
 
-314 songs - 16 hr 58 min
+319 songs - 17 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Always](https://open.spotify.com/track/7fuzX8L06JinfbGT5Jm3gY) | [The Blinders](https://open.spotify.com/artist/3Z8Y3Ek99rukRa1Hdo14GE) | [Always](https://open.spotify.com/album/2Qxe83nN1Y8aBXIoUaxjBd) | 3:55 | 2023-12-20 |  |
 | [AMERICA'S NEXT TOP MODEL](https://open.spotify.com/track/2bZeCw3SEcY0uMq2bdhFGc) | [SPIDER](https://open.spotify.com/artist/4SKFiKjEPLdlpXSOQZhlsi) | [AMERICA'S NEXT TOP MODEL](https://open.spotify.com/album/5ikznb8ESMJCEskirCSFGl) | 2:55 | 2023-03-03 | 2023-06-09 |
 | [Amor](https://open.spotify.com/track/6ykD5g5JQ4n5iQKstly8M2) | [Passionflower](https://open.spotify.com/artist/2JDENMXTGFUFtq5sE3Pohr) | [Amor](https://open.spotify.com/album/5xAMwGNFraXPC04VF3PtRX) | 4:02 | 2023-02-10 | 2023-04-22 |
-| [Animo](https://open.spotify.com/track/3JDUSXqeaecr0d1mCFTSMh) | [Profiler](https://open.spotify.com/artist/3rIfGORYIxh2aBVnThX8Lo) | [Animo](https://open.spotify.com/album/5z7fDpyjFEYF4XrnUQ8BEd) | 3:15 | 2023-12-20 |  |
+| [Animo](https://open.spotify.com/track/3JDUSXqeaecr0d1mCFTSMh) | [Profiler](https://open.spotify.com/artist/3rIfGORYIxh2aBVnThX8Lo) | [Animo](https://open.spotify.com/album/5z7fDpyjFEYF4XrnUQ8BEd) | 3:15 | 2023-12-20 | 2024-02-24 |
 | [Anne\-Marie](https://open.spotify.com/track/11YJcHoDWyNQHifnp4DPXs) | [Unstuck](https://open.spotify.com/artist/7MX0YZHCtTNZ72F5z2tbnP) | [Anne\-Marie](https://open.spotify.com/album/3uq658Scb5P1dZnWWbM500) | 1:57 | 2023-01-13 | 2023-03-03 |
 | [anymore](https://open.spotify.com/track/3jWx8u8LTC4X0oB9tXGEdk) | [OC Saint](https://open.spotify.com/artist/1W80xMiJWGfGsymfrjCCLa) | [anymore](https://open.spotify.com/album/2MqtjWSDMmd1f2zQSdVk68) | 4:38 | 2023-07-14 | 2023-08-25 |
 | [Are You Diagnosed?](https://open.spotify.com/track/1ZLRZUQQ3yGnSQAg9V3NTm) | [Eaves Wilder](https://open.spotify.com/artist/41NfVLegTOApdhejdXt4jQ) | [Hookey](https://open.spotify.com/album/7KknC9RikxSrgFy83Kv6Dj) | 3:34 | 2023-03-24 | 2023-07-07 |
@@ -32,11 +32,12 @@
 | [Babyface](https://open.spotify.com/track/3S7Go0zMpO1WQpx6oZQd2y) | [Artio](https://open.spotify.com/artist/0l2QxnR8KJQT4m2Ax8rhh5) | [Babyface](https://open.spotify.com/album/4L9qo6vo2gLQZIwmNNSiG2) | 3:26 | 2024-01-26 |  |
 | [Back and Forth](https://open.spotify.com/track/5dn10JRAyRJQ4CwChvH36u) | [Bronnie](https://open.spotify.com/artist/6xAfmpNG113QC08DHcQgv6) | [Back and Forth](https://open.spotify.com/album/2JZWI0ofeqQi0JNaLIGaW5) | 3:01 | 2023-01-13 | 2023-03-03 |
 | [Bad Blood](https://open.spotify.com/track/64h9HfXAxJf5qxr98nhILO) | [gürl](https://open.spotify.com/artist/7AYAOzmAp9u45wGPVfi3DL) | [Bad Blood](https://open.spotify.com/album/1gvFbWzO2tmYWtP1d9DRBc) | 3:58 | 2023-08-10 | 2023-11-18 |
+| [Be Better](https://open.spotify.com/track/5vSXV3dlts6javSJCZH2iT) | [Queen Cult](https://open.spotify.com/artist/3UAgcbjWTEC0xcEZEYNrQt) | [Be Better](https://open.spotify.com/album/06DjLKHL3vU2hmwkgQavK2) | 2:24 | 2024-02-23 |  |
 | [Beautiful](https://open.spotify.com/track/5ffdNfKHJqtFQofaL8fLCa) | [overpass](https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8) | [Beautiful](https://open.spotify.com/album/5W2JHRThe51PIkIHSC8WxW) | 3:29 | 2023-11-18 | 2024-02-09 |
 | [Believe](https://open.spotify.com/track/0zlDjqpYoDUEahQNREV4r5) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [Reflections](https://open.spotify.com/album/3HmGULnPeH7ZhDkQlDibh3) | 4:11 | 2023-08-24 | 2024-02-09 |
 | [Believe](https://open.spotify.com/track/1XckAV94cXSzpKSRjFc6eY) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [Believe](https://open.spotify.com/album/53NMyyTEnOAWWaFoZ9t9HE) | 4:11 | 2023-07-14 | 2023-08-27 |
 | [Better Now You're Gone](https://open.spotify.com/track/1VuYDtXZsEPVnAQ9JVt5Lk) | [Hannah Grae](https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV) | [Better Now You're Gone](https://open.spotify.com/album/27x5ydoA9E4xDyUc6Xvgu9) | 3:01 | 2024-02-09 |  |
-| [Better Than Me](https://open.spotify.com/track/3Ef2bhdiJBgz8sX9Kd1tCE) | [SOAP](https://open.spotify.com/artist/5o5dFyK0UODK3sYQp5ao8V) | [Better Than Me](https://open.spotify.com/album/5AaWgbAWhFz72r9Lp5yHsw) | 3:34 | 2024-02-09 |  |
+| [Better Than Me](https://open.spotify.com/track/3Ef2bhdiJBgz8sX9Kd1tCE) | [SOAP](https://open.spotify.com/artist/5o5dFyK0UODK3sYQp5ao8V) | [Better Than Me](https://open.spotify.com/album/5AaWgbAWhFz72r9Lp5yHsw) | 3:34 | 2024-02-09 | 2024-02-24 |
 | [BIG HIT SINGLE](https://open.spotify.com/track/3reN0NjIAde5yu4xhCo6fD) | [Gen and the Degenerates](https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E) | [BIG HIT SINGLE](https://open.spotify.com/album/63heAOtxjx6cQtNnRPKR5D) | 3:09 | 2023-08-10 | 2024-02-09 |
 | [Bigger Than Anything Ever](https://open.spotify.com/track/7uXUsR8O6RFjPnjehfNyYO) | [South Arcade](https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF) | [Bigger Than Anything Ever](https://open.spotify.com/album/588h8kBL4MeG3M0vanSbAm) | 3:00 | 2023-03-24 | 2023-08-11 |
 | [Bite](https://open.spotify.com/track/7L0QRXk8Yr1QUHruF10TWJ) | [Shelf Lives](https://open.spotify.com/artist/2RgHe4GuLjWoJmgdAOVubr) | [Bite](https://open.spotify.com/album/4CTR4308FLv0J234RjREIl) | 3:10 | 2023-02-17 | 2023-06-09 |
@@ -52,6 +53,7 @@
 | [Catch Myself](https://open.spotify.com/track/0zWZ48DAJDEisU3Nhnil8g) | [Izzy T](https://open.spotify.com/artist/2YoA6qpLPKl5KkGbxlxDMg) | [Catch Myself](https://open.spotify.com/album/3TDbkmi5wlY2eZeWw9xduR) | 3:01 | 2023-04-21 | 2023-07-29 |
 | [chain](https://open.spotify.com/track/73m5RI0Mx2SNo5P6fu148x) | [Aziya](https://open.spotify.com/artist/5GlFG0lCadjEBnY1w1FwwW) | [chain](https://open.spotify.com/album/1pD3mUqv8jSN4Jv08dMKmJ) | 2:48 | 2023-07-21 | 2024-02-09 |
 | [Chew](https://open.spotify.com/track/0r58u0CoqZbuttdmcWB5qm) | [Buzzard Buzzard Buzzard](https://open.spotify.com/artist/69ilUSFj31FA2iLHtegRwi) | [Chew](https://open.spotify.com/album/7vSeanXi9dHntVCVQmQioq) | 2:19 | 2023-03-24 | 2023-08-11 |
+| [City Streets](https://open.spotify.com/track/6zcW5iHtkhBEuzpTLEit16) | [George Barnett](https://open.spotify.com/artist/40OV4nFVZqdXDjPumwcywN) | [City Streets](https://open.spotify.com/album/3ewmrFdukMuucc1geA1IRk) | 3:26 | 2024-02-23 |  |
 | [claws](https://open.spotify.com/track/2HgmmSd1lZesLJU1koxI8T) | [Kurtis](https://open.spotify.com/artist/1ZV5RU7ViRwlv7vqWuOHRf), [wishlane](https://open.spotify.com/artist/15eJnht8wSa1rUGRQpYU6l) | [claws](https://open.spotify.com/album/2ZPsWmEP1LUW9fxuM1bVAV) | 3:24 | 2023-03-17 | 2023-07-22 |
 | [COLD BEER](https://open.spotify.com/track/5pYO1LrXa4dbO2SxSliUhs) | [LESANE](https://open.spotify.com/artist/57N1gBU2XPgJH1f8UPBW7L) | [GENRELESS](https://open.spotify.com/album/7kTqaUsZea6CxLpvgzRA3E) | 1:41 | 2023-01-13 | 2023-03-11 |
 | [Concrete](https://open.spotify.com/track/3dFZkn6TmBxv1AyuMdKZ3Y) | [SNAYX](https://open.spotify.com/artist/4kQgsrHUSc9IjuwWP30gf0) | [Better Days](https://open.spotify.com/album/6hfaHD2ncymALJD3g1df2c) | 2:22 | 2024-02-09 |  |
@@ -124,7 +126,7 @@
 | [Heart](https://open.spotify.com/track/377QrI3QW7BLKSPDrum5pk) | [Last Hounds](https://open.spotify.com/artist/61yrtlfW7trRIP8H3i9gr7) | [Heart](https://open.spotify.com/album/1LrwyJ5KRhWc5lf7u1QPTM) | 3:23 | 2024-02-09 |  |
 | [Hello Alien](https://open.spotify.com/track/4apqIevNZl1POiQccrGWls) | [Nathan Day](https://open.spotify.com/artist/3kEC0PwfYf8pGHiKFQk8OX) | [Hello Alien](https://open.spotify.com/album/0dZ0p4707siTGOUEvr98D5) | 3:25 | 2023-01-13 | 2023-03-25 |
 | [Hex](https://open.spotify.com/track/6yopQomQqrwmXTAUwQrp30) | [VENUS GRRRLS](https://open.spotify.com/artist/3ZmtxfuEtTsKgKEiM42jQ9) | [Hex](https://open.spotify.com/album/6oE1ZAoKvEzA8LK43TWv81) | 2:37 | 2023-11-18 |  |
-| [HMPB](https://open.spotify.com/track/1IYznxYT32bMWMMM2ehliT) | [The Amniotics](https://open.spotify.com/artist/3ciQDvjdla7QzI1N2dhD2C) | [HMPB](https://open.spotify.com/album/3ce7X8NKiBXO8Ci9yQg4D5) | 3:42 | 2023-12-20 |  |
+| [HMPB](https://open.spotify.com/track/1IYznxYT32bMWMMM2ehliT) | [The Amniotics](https://open.spotify.com/artist/3ciQDvjdla7QzI1N2dhD2C) | [HMPB](https://open.spotify.com/album/3ce7X8NKiBXO8Ci9yQg4D5) | 3:42 | 2023-12-20 | 2024-02-24 |
 | [Hold On](https://open.spotify.com/track/4szyuz8OAhkgX4cdO90kAZ) | [Acres](https://open.spotify.com/artist/3y43zXffnLmhyQD1K4QCmD) | [Burning Throne](https://open.spotify.com/album/4SvwujGdVPbHhAR3DIQCc4) | 3:45 | 2023-03-03 | 2023-03-25 |
 | [Hold On](https://open.spotify.com/track/6iGRB390nCX5QKcu3QQVI4) | [Acres](https://open.spotify.com/artist/3y43zXffnLmhyQD1K4QCmD) | [Hold On](https://open.spotify.com/album/6oPA6UqARi3sZqg8ysQ73c) | 3:45 | 2023-01-13 | 2023-03-07 |
 | [hollowing out](https://open.spotify.com/track/2BrvLdykCTpQEbye26T6MZ) | [joey maxwell](https://open.spotify.com/artist/24HpqK3rYuuJgdh2WkNtTq) | [hollowing out](https://open.spotify.com/album/7qnzGX5mIsJrRsiuqzAVcX) | 2:52 | 2023-08-10 | 2024-02-09 |
@@ -144,6 +146,7 @@
 | [I'm Deranged](https://open.spotify.com/track/1lCS3D0iuE4nLXhXHT2iuq) | [SNAYX](https://open.spotify.com/artist/4kQgsrHUSc9IjuwWP30gf0) | [I'm Deranged](https://open.spotify.com/album/1BUW63sCkPSEKNadYTAAsH) | 2:14 | 2023-01-13 | 2023-02-10 |
 | [I'm Normally Like This](https://open.spotify.com/track/7bm0WfGG6HRiuac1IdHBaL) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [I'm Normally Like This](https://open.spotify.com/album/0QOtYZy8AIqWx4khwFx3Nn) | 2:54 | 2023-06-02 | 2024-02-09 |
 | [if only](https://open.spotify.com/track/2rkjj7XDdX3uJv9oBYbab4) | [cryoutloud](https://open.spotify.com/artist/234qEkYJSyKYY2HJShfc6S) | [if only](https://open.spotify.com/album/42YnoCcOOaZbGbvRgbOe7k) | 2:53 | 2023-10-13 | 2024-02-09 |
+| [If The Shoe Fits](https://open.spotify.com/track/4IkaBc35ZYwa1CKUwyUhum) | [The Cliffords](https://open.spotify.com/artist/2JIXE3g9E0kfeFWhpKPIja) | [If The Shoe Fits](https://open.spotify.com/album/2pDiTlS5ujC2LDsWOefnNS) | 3:31 | 2024-02-23 |  |
 | [If You Wanna](https://open.spotify.com/track/600a14WIlxMRKPn5DlSC6m) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [If You Wanna](https://open.spotify.com/album/3qq71MqRsuDFptNY9VeEAB) | 2:48 | 2023-09-21 | 2024-02-09 |
 | [Impossible + Strange](https://open.spotify.com/track/3bYpAjZAzD1GWc9ucXKI92) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [Impossible + Strange](https://open.spotify.com/album/7t0dcCAHAITzLv3BthyXdh) | 2:58 | 2024-01-26 |  |
 | [in my ways](https://open.spotify.com/track/5RpIFvmg1HYGF7VKLCQdSZ) | [King Isis](https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw) | [in my ways](https://open.spotify.com/album/4jHrhCm1rbkI6xNMTCkFMU) | 2:23 | 2023-02-03 | 2023-09-22 |
@@ -209,6 +212,7 @@
 | [Norwegian Wood](https://open.spotify.com/track/50Wusuhe7GBuOr5xGZlyGe) | [Picture Parlour](https://open.spotify.com/artist/0lGEUAqbgX8yeEGIWjY9eV) | [Norwegian Wood](https://open.spotify.com/album/4vXzCKpcnI930OU3QNCOLW) | 3:34 | 2023-07-28 | 2024-02-09 |
 | [Nostalgia \(ft\. Patty Walters\)](https://open.spotify.com/track/7urqfz7paOyKHayDEa7uGC) | [Bleak Soul](https://open.spotify.com/artist/2iMxVnS6Ovd7R0C5kHdo6p), [AS IT IS](https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y) | [Nostalgia](https://open.spotify.com/album/6K6oiAZS3oOlH9VEAIbL2U) | 3:18 | 2023-03-17 | 2023-04-22 |
 | [Notre Dame Made Out of Flesh](https://open.spotify.com/track/3qiftvGuJKJhHB5Pjy1u9p) | [UNIVERSITY](https://open.spotify.com/artist/2TDMep1IfMAASZxbC5FAo5) | [Notre Dame Made Out of Flesh](https://open.spotify.com/album/0UFabPWPdCbnptLEJnu5LZ) | 5:05 | 2023-10-13 | 2023-11-18 |
+| [Now Here’s The Weather](https://open.spotify.com/track/35xhpjvv0SakWLpe05Jwkq) | [Whitelands](https://open.spotify.com/artist/4B9oWJTIts1eOPLGKy4mro) | [Night\-bound Eyes Are Blind To The Day](https://open.spotify.com/album/4ygfNjZCyPGrVcfuZ8WHx7) | 4:13 | 2024-02-23 |  |
 | [Our Love Is Growing \- Single Mix](https://open.spotify.com/track/1UpFjzn7zBmwtrZgyXL63p) | [LIFE](https://open.spotify.com/artist/2NWimAynlyqVUWD4YnJHlC) | [Our Love Is Growing](https://open.spotify.com/album/00TPwByRL8JEFa9aykOuW5) | 3:01 | 2023-01-13 | 2023-02-03 |
 | [Overdrive](https://open.spotify.com/track/707tiOrq4dd0Ytno2G8rBx) | [Superlove](https://open.spotify.com/artist/33esp5UFKcRpxcR4Xo0Sne) | [follow: noise](https://open.spotify.com/album/4qEoK6TngEPWbVIezdE2JN) | 2:57 | 2023-06-08 | 2024-02-09 |
 | [Parasite](https://open.spotify.com/track/3PjR8wGGGUjxdKFCtoScZP) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [Parasite](https://open.spotify.com/album/7jGfpPmNuDC9ggP7rxCIne) | 1:37 | 2023-08-10 | 2024-02-09 |
@@ -260,7 +264,7 @@
 | [SNAKES](https://open.spotify.com/track/4oF4avlVY1oxZKp7DFBOCY) | [YAOUNDÉBOXINGCLUB](https://open.spotify.com/artist/0DhFlKC8BmJcADqBXFEYZP) | [SNAKES](https://open.spotify.com/album/2rJqYCcDxFn1xvHIlfuQAk) | 3:11 | 2023-07-06 | 2024-02-09 |
 | [Some Things Never Change](https://open.spotify.com/track/4clBv8sHZ7gqyH7xhlmCCC) | [Priestgate](https://open.spotify.com/artist/0mhU2f9YqeYcnEW6ynit0i) | [Some Things Never Change](https://open.spotify.com/album/1UQqxMCjWrWBm5oIk79sV4) | 3:37 | 2023-01-13 | 2023-03-25 |
 | [Something Good](https://open.spotify.com/track/5t1MLxm9vWYxK3m13QoHts) | [Superlove](https://open.spotify.com/artist/33esp5UFKcRpxcR4Xo0Sne) | [Something Good](https://open.spotify.com/album/5TXmQygkvgmQyWOZbAaZuq) | 3:45 | 2023-03-24 | 2023-06-09 |
-| [Stalemate](https://open.spotify.com/track/6syl59MOZK7K5fEG7GzCuD) | [Hexmaze](https://open.spotify.com/artist/2RaLhh25Ct5KABbL3J332E) | [Stalemate](https://open.spotify.com/album/3aGN8JqD0N0IvPp7NFtdLM) | 2:54 | 2024-02-09 |  |
+| [Stalemate](https://open.spotify.com/track/6syl59MOZK7K5fEG7GzCuD) | [Hexmaze](https://open.spotify.com/artist/2RaLhh25Ct5KABbL3J332E) | [Stalemate](https://open.spotify.com/album/3aGN8JqD0N0IvPp7NFtdLM) | 2:54 | 2024-02-09 | 2024-02-24 |
 | [Stick Dat](https://open.spotify.com/track/7qcif4D117Sy0S4HvT6FPp) | [Frozemode](https://open.spotify.com/artist/2BhOQjsvbHRatFkBLkjmu5) | [Stick Dat](https://open.spotify.com/album/5LKYJ3Eu0kLz5511Ie4sBh) | 1:57 | 2023-05-18 | 2023-09-22 |
 | [stockholme syndrome](https://open.spotify.com/track/3vBgnkGxNvflZGsNSE2d57) | [Hayden J Barlow](https://open.spotify.com/artist/54QKgqIuwIximWz6A6ZQG2) | [CAUSTIC](https://open.spotify.com/album/6d305ez1t5HUZjXsNUWQRf) | 2:38 | 2023-01-13 | 2023-06-09 |
 | [Stones](https://open.spotify.com/track/6JfTPst2t6yiGpn65UxPG8) | [Anolah](https://open.spotify.com/artist/1DxdPWT4AD81ET3HtqPZOK) | [Stones](https://open.spotify.com/album/5d3mW19I4ltX082FItNAYu) | 2:06 | 2023-05-18 | 2023-07-29 |
@@ -291,7 +295,7 @@
 | [Trust No One](https://open.spotify.com/track/5JWvuCZ6yOJJ4GlbAVjl1v) | [BEX](https://open.spotify.com/artist/3uqAKGSytLJJuLy4BPlY38) | [Trust No One](https://open.spotify.com/album/7DhBu788ygCSGB9xnoNBVE) | 3:03 | 2023-07-28 | 2024-02-09 |
 | [Truth☆Truth](https://open.spotify.com/track/6vfJ8MiERPMLsI0g0LQfUt) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [Truth☆Truth](https://open.spotify.com/album/1jntHHi1HpBdfSPuwUtmwN) | 3:44 | 2024-02-09 |  |
 | [Tsunami \(11:11\)](https://open.spotify.com/track/0u4SRuld2zPAnyImNdfMAo) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC) | [Tsunami \(11:11\)](https://open.spotify.com/album/1mQwEcEkEfQ5EFW9Q4PpsE) | 3:08 | 2023-01-13 | 2023-04-22 |
-| [UFO](https://open.spotify.com/track/5wodknNeTlUk8E0EzKPQ3r) | [BXRRELL](https://open.spotify.com/artist/4SKd7AKPxA8hdTymIiAPzM) | [UFO](https://open.spotify.com/album/4o5MUwfEzEmsePS6lN8hHO) | 3:29 | 2023-11-18 |  |
+| [UFO](https://open.spotify.com/track/5wodknNeTlUk8E0EzKPQ3r) | [BXRRELL](https://open.spotify.com/artist/4SKd7AKPxA8hdTymIiAPzM) | [UFO](https://open.spotify.com/album/4o5MUwfEzEmsePS6lN8hHO) | 3:29 | 2023-11-18 | 2024-02-24 |
 | [Unchained](https://open.spotify.com/track/2CBvjn9Nqxb2zjhKFz6cEV) | [whenyoung](https://open.spotify.com/artist/6IcfYALmhjyW2kJwRNXHJp) | [Unchained](https://open.spotify.com/album/0BelpsRp8VUFESM1zUbq6c) | 3:29 | 2023-01-13 | 2023-02-17 |
 | [Universal Credit](https://open.spotify.com/track/272KzgZU381dedN18b7qzT) | [Shambolics](https://open.spotify.com/artist/5Zxk4WkmkKRjPyjmmCRAUR) | [Universal Credit](https://open.spotify.com/album/5GBhIOSB3AQRXWfjkNJcXa) | 3:18 | 2024-02-09 |  |
 | [Voice in Your Head](https://open.spotify.com/track/7z60kiKN6OTVTCXinnnXUD) | [Shit Present](https://open.spotify.com/artist/29HZSUDm7U6n2QNMKQY73k) | [Voice in Your Head](https://open.spotify.com/album/0vnaNn4Yw8gTH8nwhUOreU) | 3:33 | 2023-03-03 | 2023-08-11 |
@@ -314,6 +318,7 @@
 | [Who Dunnit?](https://open.spotify.com/track/2rcKuc6LBiOQFSzYIa5CsW) | [Hannah Grae](https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV) | [Who Dunnit?](https://open.spotify.com/album/65zcWNbHC9PzhkrBw3Mtcx) | 2:59 | 2023-11-18 | 2024-02-09 |
 | [Willow Tree](https://open.spotify.com/track/5erHAJLOI0IVgix6U2QPfL) | [DARLAH](https://open.spotify.com/artist/3mPFxrzHrRcZrFFFoMwXCG) | [Human Nature](https://open.spotify.com/album/7tN9HGssvTd1CiOMWL7k72) | 3:19 | 2023-11-18 |  |
 | [Wish I Was You](https://open.spotify.com/track/1hZ78pAQTniUNnxIes68Jd) | [Gina Birch](https://open.spotify.com/artist/6Uf8GS97rZbMv6vUFKhWft) | [Wish I Was You](https://open.spotify.com/album/3ovvIDsSYjs0Op2SExhzWF) | 3:23 | 2023-01-13 | 2023-07-22 |
+| [Wishing Well](https://open.spotify.com/track/4Q9iqf0cw04PfSqfszILdh) | [Love For The Peaches](https://open.spotify.com/artist/5cNXmgwjCuMCUtbob0aMrh) | [Wishing Well](https://open.spotify.com/album/65q5IJ29u559Lwbo9NUQ5u) | 3:12 | 2024-02-23 |  |
 | [Wonderview Avenue](https://open.spotify.com/track/4gatVa46M1UTnwTdKaqJRu) | [Psyence](https://open.spotify.com/artist/7chWLK2BeJ5tEH5VMc5l5b) | [L.I.F.E \(Lessons in Forgetting Everything\)](https://open.spotify.com/album/3KLYGJrlF8iRREMfq5Rf7I) | 4:17 | 2023-01-13 | 2023-02-17 |
 | [Worthless](https://open.spotify.com/track/7krNN0KhqMixmg6WtW7bJq) | [Artio](https://open.spotify.com/artist/0l2QxnR8KJQT4m2Ax8rhh5) | [Worthless](https://open.spotify.com/album/7xk6a6J8D1lAkbLkPg3WBQ) | 3:11 | 2023-01-27 | 2023-03-03 |
 | [Worthy](https://open.spotify.com/track/2WtIhJpUy1p0t1dg6Tq8bZ) | [KIDS](https://open.spotify.com/artist/1KuaHyOmy7OyS3BO6u055P) | [Worthy](https://open.spotify.com/album/3YNhAijuyRViQoHGFNVDyC) | 2:39 | 2023-01-27 | 2023-06-09 |

@@ -117,6 +117,24 @@
     },
     {
       "album": {
+        "name": "nights and weekends",
+        "url": "https://open.spotify.com/album/39jNh5MndiuFTNjDjuWnDQ"
+      },
+      "artists": [
+        {
+          "name": "310babii",
+          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
+        }
+      ],
+      "date_added": "2024-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65606,
+      "name": "310degrees",
+      "url": "https://open.spotify.com/track/1f1R24tV7tx0464MCz4U9C"
+    },
+    {
+      "album": {
         "name": "4Lifers",
         "url": "https://open.spotify.com/album/3JPfULI1qFfTfdTA3R5GCV"
       },

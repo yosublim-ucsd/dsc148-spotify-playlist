@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:4iHnLagnnmgiIwMSm1wuTq">Giorgia Angiuli</a>'s favorite tracks\. Updated regularly\. Curated by Giorgia Angiuli\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-85 songs - 9 hr 21 min
+86 songs - 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [Joy](https://open.spotify.com/track/17yYSZdxIfNNlI0Brpfvk0) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Joy](https://open.spotify.com/album/5KgoKcCyd2nI7oraUvbXWv) | 4:21 | 2023-08-10 |  |
 | [Killer Machine](https://open.spotify.com/track/6Y0s43nhtwwjhkbkMFOgE6) | [Indra](https://open.spotify.com/artist/3sH57C4p0KSpzkh5uY0bK6) | [Killer Machine](https://open.spotify.com/album/5tbyLz98nz0uYmfgdSZnwu) | 6:30 | 2023-08-10 |  |
 | [Kreature](https://open.spotify.com/track/3IwWvapDWkJzHr1rfSOP2S) | [Bullzeye](https://open.spotify.com/artist/1UvPQsefYllL0KNxuLyqDB) | [Kreature](https://open.spotify.com/album/5OIj5hMZE8GCZsp6ihZYAu) | 6:35 | 2024-01-26 |  |
-| [Kua \- Original Mix](https://open.spotify.com/track/7hUZJ8lupDInaXfbNLsdC8) | [Fatima Hajji](https://open.spotify.com/artist/6jZSXmTCxZhFfYELtp78Ci) | [Kua](https://open.spotify.com/album/0SsNWOTQmf6rUjoa6w9waM) | 6:25 | 2023-08-10 |  |
+| [Kua](https://open.spotify.com/track/5CtcJyXITa9G8Qgs7QSI5B) | [Fatima Hajji](https://open.spotify.com/artist/6jZSXmTCxZhFfYELtp78Ci) | [Kua](https://open.spotify.com/album/6X1H2qXP2wpSWA54xzzxqG) | 6:25 | 2024-01-26 |  |
+| [Kua \- Original Mix](https://open.spotify.com/track/7hUZJ8lupDInaXfbNLsdC8) | [Fatima Hajji](https://open.spotify.com/artist/6jZSXmTCxZhFfYELtp78Ci) | [Kua](https://open.spotify.com/album/0SsNWOTQmf6rUjoa6w9waM) | 6:25 | 2023-08-10 | 2024-02-24 |
 | [Libertas](https://open.spotify.com/track/1iAa5CqBdlaoexOHjXxLjt) | [8Kays](https://open.spotify.com/artist/6VJ8RuUWKIgm5p5uEvZCfQ) | [Libertas EP](https://open.spotify.com/album/55zffYkCjgLJxzPOLSUhWM) | 7:03 | 2023-08-10 | 2024-01-26 |
 | [Lost Myself](https://open.spotify.com/track/2v8k5hCAoVuBpNWifmaSow) | [Bora Uzer](https://open.spotify.com/artist/71WhzQzCSYszOnrfCEbZge) | [Lost Myself](https://open.spotify.com/album/4B05S6TPky5Qc6GZ1lGLZO) | 7:02 | 2023-08-10 | 2024-01-26 |
 | [Lunar](https://open.spotify.com/track/6cVOVTtncjl1UqhQj1tpd3) | [Public Memory](https://open.spotify.com/artist/1v9FPBHwuI4FjR7ewOifmJ) | [Wuthering Drum](https://open.spotify.com/album/035KrNkVSdgjUkIBIZkeT9) | 3:45 | 2023-08-10 |  |

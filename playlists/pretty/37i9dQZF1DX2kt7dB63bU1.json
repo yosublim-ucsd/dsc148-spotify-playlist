@@ -1,13 +1,49 @@
 {
   "description": "Jazz voices of today. Cover: Samara Joy",
-  "num_followers": 136822,
+  "num_followers": 136850,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZTU1Y2Y5OGZmNWQyNDA5YWQwOTA3MDVjZGY2M2UxMzE1OGU5YWQy",
+  "snapshot_id": "MCxiN2I4NTY5NTE0NDE5OTRkMGU5ZWEyYTNhMDg4OWVlYWVlYzg2MmJm",
   "tracks": [
+    {
+      "added_at": "2024-02-23 05:01:00",
+      "album": {
+        "name": "What Was I Made For?",
+        "url": "https://open.spotify.com/album/5AMPERlVBeDjW4AlhfycDq"
+      },
+      "artists": [
+        {
+          "name": "Kandace Springs",
+          "url": "https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O"
+        }
+      ],
+      "duration_ms": 232642,
+      "name": "What Was I Made For?",
+      "url": "https://open.spotify.com/track/0uL2HIcJPwUARpbbE3nEtL"
+    },
+    {
+      "added_at": "2024-02-23 05:01:00",
+      "album": {
+        "name": "Swing Fever",
+        "url": "https://open.spotify.com/album/22tx1I0M6sElj88FEiBP5u"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        },
+        {
+          "name": "Jools Holland",
+          "url": "https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e"
+        }
+      ],
+      "duration_ms": 144666,
+      "name": "Them There Eyes",
+      "url": "https://open.spotify.com/track/3xE65V7CCWtG368398YXVh"
+    },
     {
       "added_at": "2024-02-16 05:01:00",
       "album": {
@@ -45,24 +81,36 @@
       "url": "https://open.spotify.com/track/4gVz0PNVbWFkWKz2abuAet"
     },
     {
-      "added_at": "2024-02-16 05:01:00",
+      "added_at": "2024-02-23 05:01:00",
       "album": {
-        "name": "Pennies from Heaven",
-        "url": "https://open.spotify.com/album/1i6vhg06WXON1YfBE9gOHj"
+        "name": "Five Senses",
+        "url": "https://open.spotify.com/album/4cl84AfjXk8k6xtBaxqete"
       },
       "artists": [
         {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        },
-        {
-          "name": "Jools Holland",
-          "url": "https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e"
+          "name": "Cassidy Place",
+          "url": "https://open.spotify.com/artist/3FZveyZUO7UrcjpYiqtj54"
         }
       ],
-      "duration_ms": 178773,
-      "name": "Pennies from Heaven",
-      "url": "https://open.spotify.com/track/57tzaQqnUsQMqZGwNkeOKH"
+      "duration_ms": 142238,
+      "name": "Five Senses",
+      "url": "https://open.spotify.com/track/2v5Rvh6gdKE7XaSMykpEJ8"
+    },
+    {
+      "added_at": "2024-02-23 05:01:00",
+      "album": {
+        "name": "The Very Thought Of You",
+        "url": "https://open.spotify.com/album/02i4H5VSXDnuT14P9d89E1"
+      },
+      "artists": [
+        {
+          "name": "Lara Louise",
+          "url": "https://open.spotify.com/artist/0rwgLdQ7uMiqUxEpMLOGyI"
+        }
+      ],
+      "duration_ms": 220885,
+      "name": "The Very Thought Of You",
+      "url": "https://open.spotify.com/track/6yxE2pmrPBQGMH0oQg4RcU"
     },
     {
       "added_at": "2024-02-02 05:01:00",
@@ -81,6 +129,26 @@
       "url": "https://open.spotify.com/track/2dAikVHuf4fWuiK5i8Hjcg"
     },
     {
+      "added_at": "2024-02-23 05:01:00",
+      "album": {
+        "name": "I Left My Heart In San Francisco",
+        "url": "https://open.spotify.com/album/1wHoyZD9q8YWMj5wsUudph"
+      },
+      "artists": [
+        {
+          "name": "Matt Dusk",
+          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
+        },
+        {
+          "name": "Lou Pomanti",
+          "url": "https://open.spotify.com/artist/4dSjbjQP6Si6yNXMCG19UW"
+        }
+      ],
+      "duration_ms": 164802,
+      "name": "I Left My Heart in San Francisco",
+      "url": "https://open.spotify.com/track/0JMKTFFmoCSBv7ofobgYk7"
+    },
+    {
       "added_at": "2023-09-08 04:01:00",
       "album": {
         "name": "Tight",
@@ -95,6 +163,22 @@
       "duration_ms": 115679,
       "name": "Tight",
       "url": "https://open.spotify.com/track/5NPn66iyEdsWoqqgSuMa0K"
+    },
+    {
+      "added_at": "2024-02-23 05:01:00",
+      "album": {
+        "name": "Embraceable",
+        "url": "https://open.spotify.com/album/4WA2EdR41dqzbluBGjIGEt"
+      },
+      "artists": [
+        {
+          "name": "Susie Arioli",
+          "url": "https://open.spotify.com/artist/1RP8z21bodEXHqdJOx2VZ9"
+        }
+      ],
+      "duration_ms": 169703,
+      "name": "Pendulum",
+      "url": "https://open.spotify.com/track/3Y5onKZN1Im4FxoTUMnEzb"
     },
     {
       "added_at": "2024-01-26 05:01:00",
@@ -187,22 +271,6 @@
       "duration_ms": 234986,
       "name": "Mombo",
       "url": "https://open.spotify.com/track/5hYBWheX6KjCSuQZoPrWi4"
-    },
-    {
-      "added_at": "2024-01-19 05:01:00",
-      "album": {
-        "name": "Embraceable You",
-        "url": "https://open.spotify.com/album/0wEQI7wwW5WTh1WaD09fr6"
-      },
-      "artists": [
-        {
-          "name": "Susie Arioli",
-          "url": "https://open.spotify.com/artist/1RP8z21bodEXHqdJOx2VZ9"
-        }
-      ],
-      "duration_ms": 288664,
-      "name": "Embraceable You",
-      "url": "https://open.spotify.com/track/50xfb5jlP00Jv6xMhcpik9"
     },
     {
       "added_at": "2024-01-26 05:01:00",
@@ -511,22 +579,6 @@
       "duration_ms": 216306,
       "name": "California and Me",
       "url": "https://open.spotify.com/track/5VP1yXviUwA0KA0ewit5pe"
-    },
-    {
-      "added_at": "2023-09-29 04:01:00",
-      "album": {
-        "name": "The Way You Look Tonight",
-        "url": "https://open.spotify.com/album/5U4Z63epGFkGDARwGyOR1L"
-      },
-      "artists": [
-        {
-          "name": "Matt Dusk",
-          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
-        }
-      ],
-      "duration_ms": 238386,
-      "name": "The Way You Look Tonight",
-      "url": "https://open.spotify.com/track/08HK8WXdwI5DF6h8DaB1rB"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -961,22 +1013,6 @@
       "url": "https://open.spotify.com/track/6tisjXGvkpnLQua7CO1R6E"
     },
     {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
-        "name": "You've Changed (Big Band)",
-        "url": "https://open.spotify.com/album/41RPmDkYKxvoZCGLd73JnP"
-      },
-      "artists": [
-        {
-          "name": "Eva Cassidy",
-          "url": "https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew"
-        }
-      ],
-      "duration_ms": 236302,
-      "name": "You've Changed - Big Band",
-      "url": "https://open.spotify.com/track/19GyWK5SuwYomTcCjTqAXs"
-    },
-    {
       "added_at": "2023-05-19 04:01:00",
       "album": {
         "name": "Linger Awhile (Deluxe Edition)",
@@ -1125,22 +1161,6 @@
       "url": "https://open.spotify.com/track/4l9mGZ2grEUj4EPsONVKml"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
-        "name": "It Could Happen To You",
-        "url": "https://open.spotify.com/album/7psf3UfROJPn11UayGE4Ao"
-      },
-      "artists": [
-        {
-          "name": "Lara Louise",
-          "url": "https://open.spotify.com/artist/0rwgLdQ7uMiqUxEpMLOGyI"
-        }
-      ],
-      "duration_ms": 157290,
-      "name": "It Could Happen To You",
-      "url": "https://open.spotify.com/track/2mMYNnNFCKoCWih6vELx3E"
-    },
-    {
       "added_at": "2023-02-17 17:00:00",
       "album": {
         "name": "I Want To Talk About You",
@@ -1215,26 +1235,6 @@
       "duration_ms": 155450,
       "name": "Bad Girls",
       "url": "https://open.spotify.com/track/1bYpricJVlO7D6kmjf8Whf"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Don\u2019t Wait Too Long",
-        "url": "https://open.spotify.com/album/34MuhV45usZj0gpyhXCMUL"
-      },
-      "artists": [
-        {
-          "name": "Paul Carrack",
-          "url": "https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz"
-        },
-        {
-          "name": "The SWR Big Band",
-          "url": "https://open.spotify.com/artist/4WnYuKbhxAKXJ8yAvvOsfW"
-        }
-      ],
-      "duration_ms": 231686,
-      "name": "Don't Wait Too Long",
-      "url": "https://open.spotify.com/track/04OP7yV8CcYOhPsqEsetha"
     },
     {
       "added_at": "2023-03-03 05:01:00",

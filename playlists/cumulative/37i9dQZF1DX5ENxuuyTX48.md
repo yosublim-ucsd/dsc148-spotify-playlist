@@ -4,7 +4,7 @@
 
 > wru? OTW! Cover: Bil Musa
 
-824 songs - 2 day 1 hr 32 min
+825 songs - 2 day 1 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -346,6 +346,7 @@
 | [Jalan Pulang](https://open.spotify.com/track/1ado6H8nwj0izGVinobwuP) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Jalan Pulang](https://open.spotify.com/album/0LqqN2YAboL8vcXqJYpEme) | 3:36 | 2023-03-24 | 2024-02-13 |
 | [Jalan Terbaik](https://open.spotify.com/track/2tvAYDXVbOyIQvKTlrqeKX) | [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb) | [Jalan Terbaik](https://open.spotify.com/album/2WrbuH0yPWAAc2oQ59J9Et) | 4:50 | 2023-09-22 | 2023-09-29 |
 | [Jalan Terus](https://open.spotify.com/track/0rgNxtJzKiNNdz4doadYhn) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [SIDES](https://open.spotify.com/album/2maVK3t3NYwcqwp2IKdhyw) | 4:41 | 2023-03-24 | 2023-05-05 |
+| [Jalur Sederhana](https://open.spotify.com/track/51E3gEbBKHzXNKNePh2OxL) | [Fanirahmansyah](https://open.spotify.com/artist/2yfoFECTnaFjyHrHNjJm7x) | [Jalur Sederhana](https://open.spotify.com/album/6nDD5YC6D13gJ1SSalUiJC) | 3:34 | 2024-02-23 |  |
 | [Jam Satu](https://open.spotify.com/track/6EZnOxLN0ccGA7U7YYtQ6F) | [Satine Zaneta](https://open.spotify.com/artist/6knRMh5dYEPnItzvpOJk2j) | [Jam Satu](https://open.spotify.com/album/4xb1xUdR8bSoRIJVIYBTDg) | 3:26 | 2023-11-24 | 2023-12-02 |
 | [Jambangan Cinta](https://open.spotify.com/track/6ksifgXP6DyoagTTVOOIgb) | [Apex Tajudin](https://open.spotify.com/artist/2XJ2ePxUF5CnYf2VRPo6la) | [Jambangan Cinta](https://open.spotify.com/album/186C0zQoA8F8t0EhE0xUQc) | 4:19 | 2023-08-03 | 2023-08-11 |
 | [Jangan Bawa Perasaan \(Bercanda\)](https://open.spotify.com/track/2jCMsksf7vgvkoNSkzaXP9) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Jangan Bawa Perasaan \(Bercanda\)](https://open.spotify.com/album/0qUTLVANNQp3dCIK4rRjgd) | 2:50 | 2023-10-06 | 2023-10-20 |
@@ -760,7 +761,7 @@
 | [Terdiam](https://open.spotify.com/track/59i9WWRPt1SI7i52M9Uiqz) | [Vintonic](https://open.spotify.com/artist/656eL5tEeJqWHwvkJn5TIW), [Teza Sumendra](https://open.spotify.com/artist/2fS9sWFJcWN8wVhYbCfdC7) | [Terdiam](https://open.spotify.com/album/2uFVxEVwvGmEWAnrv6oVgu) | 3:32 | 2023-11-02 | 2023-11-11 |
 | [terima kasih](https://open.spotify.com/track/2m1ozXAKFam3YQXRPDnEfE) | [Hal](https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu) | [terima kasih](https://open.spotify.com/album/0RIVNgA95YzOPDHD4aYbqZ) | 3:24 | 2023-11-17 |  |
 | [terima kasih](https://open.spotify.com/track/0JtEuERxvGfXYcg0ALOwPu) | [Hal](https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu) | [terima kasih](https://open.spotify.com/album/3YfSbSFwpbxxGb1wGl1H20) | 3:24 | 2023-05-04 | 2023-11-05 |
-| [Terima Kasih Cinta](https://open.spotify.com/track/3YNMHA6FqeqWzZyw0JVyIi) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Confession No.1](https://open.spotify.com/album/1ahdxVWtqETWgYIuO4Uv8v) | 4:11 | 2023-05-04 |  |
+| [Terima Kasih Cinta](https://open.spotify.com/track/3YNMHA6FqeqWzZyw0JVyIi) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Confession No.1](https://open.spotify.com/album/1ahdxVWtqETWgYIuO4Uv8v) | 4:11 | 2023-05-04 | 2024-02-24 |
 | [Terlanjur Cinta](https://open.spotify.com/track/423AHVkxvCkVB03V3sPTIz) | [Tilu](https://open.spotify.com/artist/4vS1FUa21E9OP4HIgdAPmP), [Ali Sariah](https://open.spotify.com/artist/1BnksvdDkh4tMrSZvFMsbO) | [Terlanjur Cinta](https://open.spotify.com/album/3VOKtUXtHYK3LionGARD3d) | 3:17 | 2023-10-06 | 2023-10-20 |
 | [Terlintas](https://open.spotify.com/track/22Psd9lrrgVbTERHCGo7i1) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Terlintas](https://open.spotify.com/album/5K8xqV7MCe3UIfedVAlZSe) | 3:55 | 2023-06-22 | 2023-06-30 |
 | [Ternoktah](https://open.spotify.com/track/5TZKS3PVVQE3QSUdGMAPIG) | [Aisha Retno](https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy) | [Ternoktah](https://open.spotify.com/album/035lH9LLmKEzfr6DfinriW) | 3:51 | 2023-09-22 | 2023-09-29 |

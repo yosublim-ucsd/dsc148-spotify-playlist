@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Karataka Damanaka\n",
-  "num_followers": 57090,
+  "num_followers": 57096,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMGNhM2ZmMzc3NDBhNGNhNDk1NWJhNjRiNWU5ZDg4Y2ExYWE1ZThl",
+  "snapshot_id": "MCxiOWU0ZGExMGM4OGM5YjYyOGNkYjRmZWRlMTkxY2MyNjMxODI2YWU3",
   "tracks": [
     {
       "added_at": "2024-02-16 09:14:10",
@@ -105,6 +105,34 @@
       "url": "https://open.spotify.com/track/3RaujlV7zWLRwlxuZHtX4r"
     },
     {
+      "added_at": "2024-02-23 09:41:22",
+      "album": {
+        "name": "Chandasina Chandadalli (From \"Somu Sound Engineer\")",
+        "url": "https://open.spotify.com/album/32ikgTmRVnrIYk5wMdK1Hj"
+      },
+      "artists": [
+        {
+          "name": "Siddhartha Belmannu",
+          "url": "https://open.spotify.com/artist/0M0qOys6eONaDvSRKNwKWc"
+        },
+        {
+          "name": "Meghana Bhat",
+          "url": "https://open.spotify.com/artist/0hjmJwGzgNKERfYBiKPxak"
+        },
+        {
+          "name": "Dhananjay Ranjan",
+          "url": "https://open.spotify.com/artist/3lCmfZPOZc1x3kmphuR96p"
+        },
+        {
+          "name": "Charan Raj",
+          "url": "https://open.spotify.com/artist/1ouBpMzbHI9hMAdqZwIheV"
+        }
+      ],
+      "duration_ms": 239066,
+      "name": "Chandasina Chandadalli - From \"Somu Sound Engineer\"",
+      "url": "https://open.spotify.com/track/72s4B6XhLm7NcrunF7BT08"
+    },
+    {
       "added_at": "2024-02-20 10:33:17",
       "album": {
         "name": "Nam Kathe Shuru (From \"Back Bencherz\")",
@@ -127,6 +155,34 @@
       "duration_ms": 265896,
       "name": "Nam Kathe Shuru (From \"Back Bencherz\")",
       "url": "https://open.spotify.com/track/3C0xLaMFfAU28qtwi4HJ9W"
+    },
+    {
+      "added_at": "2024-02-23 09:38:22",
+      "album": {
+        "name": "Bade Miyan Chote Miyan (Title Track - Kannada) [From \"Bade Miyan Chote Miyan - Kannada\"]",
+        "url": "https://open.spotify.com/album/4hZE9a9gyayBVqnSnViPyn"
+      },
+      "artists": [
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        },
+        {
+          "name": "Aniruddha Sastry",
+          "url": "https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa"
+        },
+        {
+          "name": "Abhishek M R",
+          "url": "https://open.spotify.com/artist/2SXCXOoQxoRfHwtHaRwt97"
+        },
+        {
+          "name": "Hrushikesh B R",
+          "url": "https://open.spotify.com/artist/5tS0PaXtrPdlmNOimjVcy3"
+        }
+      ],
+      "duration_ms": 159093,
+      "name": "Bade Miyan Chote Miyan (Title Track - Kannada) - From \"Bade Miyan Chote Miyan - Kannada\"",
+      "url": "https://open.spotify.com/track/3wKYTh0vVj79m8nfFohotg"
     },
     {
       "added_at": "2024-02-21 08:10:22",

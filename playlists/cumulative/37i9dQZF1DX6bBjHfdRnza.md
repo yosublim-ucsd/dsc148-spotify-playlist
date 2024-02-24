@@ -4,7 +4,7 @@
 
 > The best new dance & electronic by independent artists and labels\. Cover: Glimji\. Artwork by Rewina Beshue.
 
-1,984 songs - 5 day 18 hr 8 min
+1,985 songs - 5 day 18 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -484,7 +484,8 @@
 | [Don't Go](https://open.spotify.com/track/2b7yETTR8mAClwG86QDT1a) | [NOVALU](https://open.spotify.com/artist/6WW932bJ0s12prfQgFyzTG), [Cuepric](https://open.spotify.com/artist/04jQu8XTKEXSawiUDJtMPO) | [Path To Emptiness](https://open.spotify.com/album/4vyZYRuOxYYVUIzi4oq7ds) | 3:03 | 2023-05-03 | 2023-06-01 |
 | [Don't Go \- Edit](https://open.spotify.com/track/16op1pIObrpe67455ckG8d) | [Amy Dabbs](https://open.spotify.com/artist/7MZwR2R0H1VofTGWMziqHl) | [Don't Go \(Edit\)](https://open.spotify.com/album/4uiJCOfsEzb5mkSiQQ2spi) | 4:20 | 2022-08-31 | 2022-10-13 |
 | [Don't Go \- Mixed](https://open.spotify.com/track/2KxQnN8Q2STF5kno097L0W) | [Dewayne 'Powermix' Jensen](https://open.spotify.com/artist/1Oqib2MmTR3XIfDHgBSD6M) | [Running Back Mastermix presents: Wild Pitch Club by Ata & nd\_baumecker \(DJ Mix\)](https://open.spotify.com/album/5VDztyfZsJsIWZXfcMWdKc) | 3:12 | 2023-03-08 | 2023-04-04 |
-| [Don't Hold Your Breath](https://open.spotify.com/track/07CQhHC2KUZ6eiRS48Kuqb) | [Strath](https://open.spotify.com/artist/6iM3BATbxNbAxuQ9YaaWFe) | [Don't Hold Your Breath](https://open.spotify.com/album/1WfqvAWMUHzo0uMHLqdMvF) | 4:17 | 2024-02-21 |  |
+| [Don't Hold Your Breath](https://open.spotify.com/track/07CQhHC2KUZ6eiRS48Kuqb) | [Strath](https://open.spotify.com/artist/6iM3BATbxNbAxuQ9YaaWFe) | [Don't Hold Your Breath](https://open.spotify.com/album/1WfqvAWMUHzo0uMHLqdMvF) | 4:17 | 2024-02-21 | 2024-02-24 |
+| [Don't Hold Your Breath](https://open.spotify.com/track/4iys0HYI3fyp5kkNBHOPt0) | [Strath](https://open.spotify.com/artist/6iM3BATbxNbAxuQ9YaaWFe) | [Don't Hold Your Breath](https://open.spotify.com/album/40u7Dlr3nKXcNQzsv3mGvG) | 4:17 | 2024-02-21 |  |
 | [Don't Leave](https://open.spotify.com/track/3nOooNnW2KRVS7D4OUPJId) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Drinks On Me](https://open.spotify.com/artist/1cIz2h3ERs72r60yw78Deu) | [Don't Leave](https://open.spotify.com/album/1023h6LdMEZq4bN9Iwu8dt) | 3:16 | 2024-02-07 |  |
 | [Don't Let](https://open.spotify.com/track/6YXztvAY2tFco3cQa3Gqc9) | [Daniele Cognata](https://open.spotify.com/artist/3282tyUgTCt96bPWp8fw3X) | [Don't Let](https://open.spotify.com/album/3nuB5wV9BbV87tcAPrzVZ0) | 2:48 | 2022-03-23 | 2022-06-09 |
 | [don't let me](https://open.spotify.com/track/6Sd866rY8gfbzp5ejCMZl6) | [wes mills](https://open.spotify.com/artist/0EuHfcxMPDNkOjGVF4e1KT) | [don't let me](https://open.spotify.com/album/40zVVWp3eSWAwB3YwgUf2E) | 2:11 | 2023-11-08 | 2023-11-30 |

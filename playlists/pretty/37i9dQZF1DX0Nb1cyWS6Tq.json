@@ -1,12 +1,12 @@
 {
   "description": "Come closer and see... into the dark. The Cure on cover.",
-  "num_followers": 744091,
+  "num_followers": 744411,
   "original_name": "Dark & Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MzllMDBlM2MzOTY3MzRlZWNhYzAyODhhZjI3Nzc0M2Q1OGE3Njk2",
+  "snapshot_id": "MCw0YWRjYTRlODE1MThkNzFkNWYwMzcyNDMzNjQ5NGJlMjc0MGZhZThi",
   "tracks": [
     {
       "added_at": "2022-06-03 16:36:24",
@@ -1085,22 +1085,6 @@
       "url": "https://open.spotify.com/track/1ZGGE74Aw6YFBwJbmuiEZH"
     },
     {
-      "added_at": "2023-10-13 03:31:28",
-      "album": {
-        "name": "Bound By Naked Skies",
-        "url": "https://open.spotify.com/album/5lY7DOXHvN5uCBUffyuRY1"
-      },
-      "artists": [
-        {
-          "name": "Lathe of Heaven",
-          "url": "https://open.spotify.com/artist/6sU6B7cuctosL0gOhgeBdr"
-        }
-      ],
-      "duration_ms": 172869,
-      "name": "Ekpyrosis",
-      "url": "https://open.spotify.com/track/5x8eW8WVdSGGNS8hRcLxmB"
-    },
-    {
       "added_at": "2021-10-15 04:04:50",
       "album": {
         "name": "The Singles 1983-1995",
@@ -1149,6 +1133,22 @@
       "url": "https://open.spotify.com/track/7JRWBhgl6KeAuDdoUxkSw4"
     },
     {
+      "added_at": "2023-10-13 03:31:28",
+      "album": {
+        "name": "Bound By Naked Skies",
+        "url": "https://open.spotify.com/album/5lY7DOXHvN5uCBUffyuRY1"
+      },
+      "artists": [
+        {
+          "name": "Lathe of Heaven",
+          "url": "https://open.spotify.com/artist/6sU6B7cuctosL0gOhgeBdr"
+        }
+      ],
+      "duration_ms": 172869,
+      "name": "Ekpyrosis",
+      "url": "https://open.spotify.com/track/5x8eW8WVdSGGNS8hRcLxmB"
+    },
+    {
       "added_at": "2021-10-15 04:04:50",
       "album": {
         "name": "The Nephilim",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Forever (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3nFSPWRHULzYNWGQoDzjKV"
-      },
-      "artists": [
-        {
-          "name": "Cranes",
-          "url": "https://open.spotify.com/artist/5q2ehaRqAFmM6tLl4vaVwP"
-        }
-      ],
-      "duration_ms": 185226,
-      "name": "Jewel",
-      "url": "https://open.spotify.com/track/3Mp4lDIGyCBVWDSF6ALaEd"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "Isn't Anything",
         "url": "https://open.spotify.com/album/3mnv6nzZV5AQhDG7OUsLdo"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 217626,
       "name": "Lose My Breath",
       "url": "https://open.spotify.com/track/1Ma06PrhbT07YFTlM48rAK"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Forever (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3nFSPWRHULzYNWGQoDzjKV"
+      },
+      "artists": [
+        {
+          "name": "Cranes",
+          "url": "https://open.spotify.com/artist/5q2ehaRqAFmM6tLl4vaVwP"
+        }
+      ],
+      "duration_ms": 185226,
+      "name": "Jewel",
+      "url": "https://open.spotify.com/track/3Mp4lDIGyCBVWDSF6ALaEd"
     },
     {
       "added_at": "2021-10-15 04:04:50",

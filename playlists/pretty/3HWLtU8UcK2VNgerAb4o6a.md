@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3HWLtU8UcK2VNgerAb4o6a.md) - [plain]
 
 > 
 
-[x0icl](https://open.spotify.com/user/31ppy6ppmgl3rfpya63t56nt4ye4) - 0 like - 181 songs - 7 hr 4 min
+[x0icl](https://open.spotify.com/user/31ppy6ppmgl3rfpya63t56nt4ye4) - 0 like - 192 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -189,5 +189,16 @@ pretty - [cumulative](/playlists/cumulative/3HWLtU8UcK2VNgerAb4o6a.md) - [plain]
 | 179 | [U Should Know](https://open.spotify.com/track/17vVm6v7GE2tP2KRVbCwqv) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 3:06 |
 | 180 | [Morë](https://open.spotify.com/track/7KdQOqCspznOjPDT0KAnuq) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 2:45 |
 | 181 | [My wrist \(with Young Thug\)](https://open.spotify.com/track/2beD5W9IkefQ04IO39XF7w) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [My wrist \(with Young Thug\)](https://open.spotify.com/album/05zSfoTPUX9IFb4AYbBaBz) | 3:10 |
+| 182 | [Babayaga](https://open.spotify.com/track/6K9aCr6Nwp3RMvOmcQafWZ) | [Sematary](https://open.spotify.com/artist/1GLnyPuL45vOsZPs5iANcC) | [Butcher House](https://open.spotify.com/album/2T1GRKlc7BEVxngyYfUMvT) | 2:45 |
+| 183 | [King Of The Graveyard](https://open.spotify.com/track/3fWadXVogLYS5HU6hhgyG1) | [Sematary](https://open.spotify.com/artist/1GLnyPuL45vOsZPs5iANcC) | [King Of The Graveyard](https://open.spotify.com/album/2GKMtzciFmqalAbbl8fZK4) | 2:56 |
+| 184 | [Headlights](https://open.spotify.com/track/2hHu3HnSdkaU0AQldoClKA) | [Sematary](https://open.spotify.com/artist/1GLnyPuL45vOsZPs5iANcC) | [Headlights](https://open.spotify.com/album/3gFEjZVauOTtoWsu4S38Nr) | 4:01 |
+| 185 | [Haunted Mound Reapers](https://open.spotify.com/track/27Sv3T9nX7Y3KZuewee3lc) | [Sematary](https://open.spotify.com/artist/1GLnyPuL45vOsZPs5iANcC), [Hackle](https://open.spotify.com/artist/0ZB40g9U7OgAs96pn72IqO) | [Butcher House](https://open.spotify.com/album/2T1GRKlc7BEVxngyYfUMvT) | 3:47 |
+| 186 | [Creepin' Thru Da Woods](https://open.spotify.com/track/4QIEsteP8ZRDybShQNuA2J) | [Sematary](https://open.spotify.com/artist/1GLnyPuL45vOsZPs5iANcC) | [Rainbow Bridge 3](https://open.spotify.com/album/5kBxkUFvOgxNHDu0kHEeuS) | 3:24 |
+| 187 | [Bunny Suit](https://open.spotify.com/track/4W2P5X1qz3RJEQWjo74vL2) | [Sematary](https://open.spotify.com/artist/1GLnyPuL45vOsZPs5iANcC), [Ghost Mountain](https://open.spotify.com/artist/5Hxx7FpVvps2OZLl6LUfJi) | [Rainbow Bridge](https://open.spotify.com/album/2KSCZ4B1q3YqOKMBKsjA0a) | 3:01 |
+| 188 | [Wendigo](https://open.spotify.com/track/6twXcof6Q2HB1cKQm6dyWq) | [Sematary](https://open.spotify.com/artist/1GLnyPuL45vOsZPs5iANcC) | [Wendigo](https://open.spotify.com/album/77WnBXLuQTrejRUDfvMYtj) | 3:28 |
+| 189 | [Funeral](https://open.spotify.com/track/2IFU58rrImhCyru96m7dYU) | [Sematary](https://open.spotify.com/artist/1GLnyPuL45vOsZPs5iANcC), [Ghost Mountain](https://open.spotify.com/artist/5Hxx7FpVvps2OZLl6LUfJi) | [Rainbow Bridge 2](https://open.spotify.com/album/0EWPDuyXs8aFYt2sgzH4eT) | 2:55 |
+| 190 | [Slaughter House](https://open.spotify.com/track/1FlOHhlBsJhfv8K4cttbVE) | [Sematary](https://open.spotify.com/artist/1GLnyPuL45vOsZPs5iANcC) | [Rainbow Bridge](https://open.spotify.com/album/2KSCZ4B1q3YqOKMBKsjA0a) | 3:20 |
+| 191 | [Huntin Wabbits](https://open.spotify.com/track/3Y5nzPEsRjFR6tJtVKhDRh) | [Sematary](https://open.spotify.com/artist/1GLnyPuL45vOsZPs5iANcC), [BLP KOSHER](https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI) | [Huntin Wabbits](https://open.spotify.com/album/0fhzGvFKAlMONkSzU1JPTa) | 2:57 |
+| 192 | [Bleed A River](https://open.spotify.com/track/6dnrXqiFXJkfFTSlBdWFhu) | [Sematary](https://open.spotify.com/artist/1GLnyPuL45vOsZPs5iANcC) | [Bleed A River](https://open.spotify.com/album/0c8HJiI4rTpn8aiXWxoLdh) | 3:49 |
 
-Snapshot ID: `NDg3LDNlYmRkOGY4OTE3Zjc5MDIxMGVjNmYxNmRmNWEwZjNlMTA3N2JlMTU=`
+Snapshot ID: `NDg4LGIwZTcyYmE5YTc4YTZlNzdkNDdlOWUzZjUxZmNmZTUyNGJkNmJkMGM=`

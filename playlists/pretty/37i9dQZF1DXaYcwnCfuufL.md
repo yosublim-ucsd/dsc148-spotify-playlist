@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYcwnCfuufL.md) - [plain]
 
 > 우리의 얼과 소리가 담긴 국악음악을 즐겨보세요\. \(커버: 엄유정\(Eom Yu Jeong\)\) \(Enjoy Korean national music with our spirit and sound.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,553 likes - 55 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,570 likes - 55 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYcwnCfuufL.md) - [plain]
 | 3 | [Jeokbyukga](https://open.spotify.com/track/1i5DJWqGXMJlmgG1IC0z3L) | [Lee WooHyeon](https://open.spotify.com/artist/65MKYEeGQVLucnXAjhcbQ8) | [Jeokbyukga](https://open.spotify.com/album/0RzyVYezCvJHZXuRiBseRQ) | 13:36 |
 | 4 | [Daegeum sanjo](https://open.spotify.com/track/408P8lHImveOQtSsgQwtvG) | [Park Subin](https://open.spotify.com/artist/2zUsOpznZVJQjmyZgpmTa6) | [Daegeum sanjo](https://open.spotify.com/album/33FWA1Gi7NIa7H4QIWukVD) | 12:53 |
 | 5 | [Ajaeng sanjo](https://open.spotify.com/track/4dWROnSUfDpo5JvSaoimWf) | [Min Jiwon](https://open.spotify.com/artist/7qICwgY9vWsu7ECOEjMQ4d) | [Ajaeng sanjo](https://open.spotify.com/album/5WaSZJrYTF3RX5Jtz2lQll) | 11:16 |
-| 6 | [Baek\-ro Arirang](https://open.spotify.com/track/2zdRTqlNd0Ctp76LaNgbI3) | [DOWONNABI](https://open.spotify.com/artist/7qPofkOV06BLtbK2zq2ALq) | [Baek\-ro Arirang](https://open.spotify.com/album/3X3kevcpAMb8jDR7LFfgfz) | 4:24 |
+| 6 | [백로 아리랑](https://open.spotify.com/track/1t9gYEHUPxl2ujIR4OTIy5) | [도원나비](https://open.spotify.com/artist/4OONWXz2Rk6yeH27X9ry4v) | [백로 아리랑](https://open.spotify.com/album/36CKd2gzRt3kmk0uW6Oqg5) | 4:19 |
 | 7 | [A rose garden](https://open.spotify.com/track/0O6St0YXykRwf3FYdW7eqH) | [Gyeong\-cheol, Choi](https://open.spotify.com/artist/4yxVcte5SNz61MDM9AqYzM) | [A rose garden](https://open.spotify.com/album/3VOa0grTjDOFvkbOCCUjZY) | 5:30 |
 | 8 | [진양](https://open.spotify.com/track/54Rzm3LOogEWQWqVKZLQ35) | [Hwang Hye Jin](https://open.spotify.com/artist/5kRabfVSwxL0GjPG3RSQ7V) | [해금산조](https://open.spotify.com/album/4F3R8EB2j53w3gAPdkWYcJ) | 3:47 |
 | 9 | [상령산](https://open.spotify.com/track/2vXlpLh7W4Ksxg2fuLTbzA) | [김준희](https://open.spotify.com/artist/4QZdha9mMSpYThXXG6UyKw) | [김준희 대해금 "저공비행 평조회상"](https://open.spotify.com/album/1kiGtlBRJRzASbQDAynBNI) | 18:07 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYcwnCfuufL.md) - [plain]
 | 54 | [The Jangmo taryeong\(mother in law song\)](https://open.spotify.com/track/0sU57ESEg9chbaBShRPbMA) | [namhaesori project](https://open.spotify.com/artist/4cgXvHd6tSQPhYGo99h0O0) | [Namhae Island Folklore](https://open.spotify.com/album/6vRoa0ZzPEfrcXsNzSP1u9) | 4:02 |
 | 55 | [육자배기](https://open.spotify.com/track/0e8pQNSVEjYJ2m8qVmwODm) | [이성현](https://open.spotify.com/artist/10M2AVHfEWbASOLtirmBNX) | [이성현 남도소리](https://open.spotify.com/album/4eWVwA1DoJGlXlYiVrj7dz) | 32:42 |
 
-Snapshot ID: `MCw4NDY1YjM5NzM2M2NlOTZkNzg3NWIwN2VhNmIxNTM5YzcxZGVhMDFk`
+Snapshot ID: `MCw2YjdiYWZlYTYyY2E1NTdmMTc1ZmIwOWEyYzU5M2Y1MmRkNzczYzYy`

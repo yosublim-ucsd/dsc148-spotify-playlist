@@ -4,11 +4,11 @@
 
 > Instrumental guitar shreddery\. Cover: Angel Vivaldi
 
-134 songs - 10 hr 9 min
+135 songs - 10 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Cure Promised](https://open.spotify.com/track/45RTzFWWGXLZHPzxvjvl1H) | [Nick Johnston](https://open.spotify.com/artist/3d5yBCe5SBKkJnWvl9GB7r) | [Wide Eyes in the Dark](https://open.spotify.com/album/6CqwEGC2juPOk98IL2WMUG) | 6:37 | 2021-05-04 |  |
+| [A Cure Promised](https://open.spotify.com/track/45RTzFWWGXLZHPzxvjvl1H) | [Nick Johnston](https://open.spotify.com/artist/3d5yBCe5SBKkJnWvl9GB7r) | [Wide Eyes in the Dark](https://open.spotify.com/album/6CqwEGC2juPOk98IL2WMUG) | 6:37 | 2021-05-04 | 2024-02-24 |
 | [A Dragon's Tail](https://open.spotify.com/track/3xsCEM590oLEq116t1cGqb) | [Robben Ford](https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy) | [A Dragon's Tail](https://open.spotify.com/album/2mWEs1yGYsOc20QL78Pnk3) | 4:53 | 2021-08-06 | 2022-11-14 |
 | [A Dragon's Tail](https://open.spotify.com/track/7MM90UlM1S9HxI4R23gn5Q) | [Robben Ford](https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy) | [Pure](https://open.spotify.com/album/7dVoh9G6j2gPTr3uLUJnFB) | 4:53 | 2021-08-06 |  |
 | [A Dragon's Tail \- Instrumental](https://open.spotify.com/track/7xOdjT5HRqckEXhjWGAOcP) | [Robben Ford](https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy) | [A Dragon's Tail \(Instrumental\)](https://open.spotify.com/album/2JppXP0sF33yMsYcYObwX1) | 4:53 | 2021-08-06 | 2022-07-29 |
@@ -80,6 +80,7 @@
 | [Meteor Shower](https://open.spotify.com/track/7pC3d4gm2YoRqYgG0brbTT) | [The Fusion Syndicate](https://open.spotify.com/artist/3w0iUnjFFyPgi2QW8sXxm1), [Marty Friedman](https://open.spotify.com/artist/5czW6bitDSKbNBNDizRT9p), [Brian Auger](https://open.spotify.com/artist/304senzcXGpWqcpssNpmXJ) | [Meteor Shower](https://open.spotify.com/album/3909cpay4YHvWDe5NCymLk) | 3:36 | 2024-02-07 |  |
 | [Midnight Rain](https://open.spotify.com/track/451BVL5WAcGirIBdOzfRrX) | [Jack Thammarat](https://open.spotify.com/artist/3C8YVJZQ0bIDW3oqZJIq6W) | [Midnight Rain](https://open.spotify.com/album/1bBdAdFpMwYGy3rJcPugpp) | 1:33 | 2021-05-04 |  |
 | [Midnight Sunset](https://open.spotify.com/track/02tkWCsZuGHuvvW0rGTROf) | [Massimo Varini](https://open.spotify.com/artist/7fNVddYBEaAXTKg4lwRJiz) | [Midnight Sunset](https://open.spotify.com/album/0qluTNOPcqmRBZDvVBoHiX) | 3:33 | 2022-07-01 |  |
+| [Moonflower](https://open.spotify.com/track/7bzX29IpQwJFBU1ltxspyl) | [Nick Johnston](https://open.spotify.com/artist/3d5yBCe5SBKkJnWvl9GB7r) | [Moonflower](https://open.spotify.com/album/1picw4zIfxWxD3pM5Ef56i) | 5:33 | 2024-02-23 |  |
 | [My House Is Green](https://open.spotify.com/track/4bSi283Toy50x9UzZYEaz1) | [Thomas Blug](https://open.spotify.com/artist/5u06pLBt7EpsyZRi2BcV44) | [The Best Of](https://open.spotify.com/album/2nxCuE6pLMbVShn4OZwCoD) | 4:02 | 2021-05-04 |  |
 | [nero](https://open.spotify.com/track/5T5RWyueGVOFIGnIRn81z4) | [Covet](https://open.spotify.com/artist/46iJ1VD4HKFnqjISGqlZkV) | [technicolor](https://open.spotify.com/album/3ouZZp6tCRElZLb4Qe0KVR) | 6:37 | 2021-05-04 | 2023-06-24 |
 | [Never 4' Ever](https://open.spotify.com/track/1rEuL0pumpLC69dTOWbYFd) | [Yannis Karalis](https://open.spotify.com/artist/2N95xJrQfxdzzVI0P8rmew), [Michaelangelo Niarchos](https://open.spotify.com/artist/0E2JWV6JOuloRzJB0MWLME) | [Never 4' Ever](https://open.spotify.com/album/2pSUGZhWuX5ZILNGcIwklB) | 4:07 | 2023-04-07 |  |

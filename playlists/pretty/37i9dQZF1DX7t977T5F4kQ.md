@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 
 > The hottest hip\-life and highlife bangers from Ghana right now\.  Cover: Wendy Shay
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,039 likes - 80 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,052 likes - 80 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 | 79 | [An "F"](https://open.spotify.com/track/7BX0NVzdFycBGLMOOpjS2d) | [Keche](https://open.spotify.com/artist/7I8VnUISFUDhcyfzdFk19E) | [An "F"](https://open.spotify.com/album/6Fcp0QWyGXfNRM83xdVe3q) | 3:18 |
 | 80 | [GIDIGBA \(FIRM & STRONG\)](https://open.spotify.com/track/3UH3DZZNIuUZ78VE2jDsO7) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [GIDIGBA \(FIRM & STRONG\)](https://open.spotify.com/album/0S6gW0pMAIxyt7yRvw6Qnw) | 2:53 |
 
-Snapshot ID: `MCwzZmYxOTdhNzNhNDA2ZjIzMmEzMTA5NTVjMDhmYzc5M2QzZWI5ZmVl`
+Snapshot ID: `MCw3ZTI2ZTIyZjgwYTJmN2RlNmQ4NmI1MGUwOGU4ZWJiOGU4MzJlNDA2`

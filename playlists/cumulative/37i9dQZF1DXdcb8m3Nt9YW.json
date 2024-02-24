@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "\u00a1M\u00e1rquele secci\u00f3n! Los corridones tronando en vivo. Gabito Ballesteros, Peso Pluma y Natanael Cano en portada.",
+  "description": "\u00a1M\u00e1rquele secci\u00f3n! Los corridones tronando en vivo. Marca MP en portada.",
   "name": "Corridos en Vivo",
   "tracks": [
     {
@@ -148,6 +148,52 @@
       "duration_ms": 174942,
       "name": "AMG",
       "url": "https://open.spotify.com/track/1lRtH4FszTrwwlK5gTSbXO"
+    },
+    {
+      "album": {
+        "name": "Culiac\u00e1n Deluxe 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/2SHMDC2lIlkSyEKhIBvuFU"
+      },
+      "artists": [
+        {
+          "name": "La Ventaja",
+          "url": "https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD"
+        },
+        {
+          "name": "Los Intocables Del Norte",
+          "url": "https://open.spotify.com/artist/33eHQlFrBesRCBTaieDr7z"
+        },
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        },
+        {
+          "name": "Roberto Tapia",
+          "url": "https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0"
+        },
+        {
+          "name": "Grupo Maximo Grado",
+          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
+        },
+        {
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+        },
+        {
+          "name": "Grupo Cartel",
+          "url": "https://open.spotify.com/artist/5wa3UkofRgI0jl6fKB6q4J"
+        },
+        {
+          "name": "Banda Punto Medio",
+          "url": "https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243174,
+      "name": "Andamos Borrachos Todos (En Vivo)",
+      "url": "https://open.spotify.com/track/26RIz2v42u2m0lsozLMq0p"
     },
     {
       "album": {
@@ -421,6 +467,28 @@
     },
     {
       "album": {
+        "name": "Desde Topo Hasta La Sierra",
+        "url": "https://open.spotify.com/album/25w2zwI5cE8ZcTOE5XMj2F"
+      },
+      "artists": [
+        {
+          "name": "Novillos de la Sierra",
+          "url": "https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro"
+        },
+        {
+          "name": "Los Torrenciales de la Sierra",
+          "url": "https://open.spotify.com/artist/1AR0atiSk7fk8C18cEyYNn"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218534,
+      "name": "Desde Topo Hasta La Sierra",
+      "url": "https://open.spotify.com/track/3S9PY0y2pMioMEIMnmO6dj"
+    },
+    {
+      "album": {
         "name": "Doble Llave",
         "url": "https://open.spotify.com/album/2xp1WOs330wnGBgfXEI7T5"
       },
@@ -480,7 +548,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 164615,
       "name": "El 27 o el Perris (En vivo)",
       "url": "https://open.spotify.com/track/0udgZnph5ZoN80iZjAUz39"
@@ -1240,7 +1308,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 219174,
       "name": "El Pistolero (En Vivo)",
       "url": "https://open.spotify.com/track/1JamSXnQC6Oa17xcIWSEDb"
@@ -1427,6 +1495,32 @@
     },
     {
       "album": {
+        "name": "Culiac\u00e1n Deluxe 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/2SHMDC2lIlkSyEKhIBvuFU"
+      },
+      "artists": [
+        {
+          "name": "La Ventaja",
+          "url": "https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272913,
+      "name": "El Zapata (En Vivo)",
+      "url": "https://open.spotify.com/track/2I6NDO6Y43LseIqBj5v3oC"
+    },
+    {
+      "album": {
         "name": "El Zorro (En Vivo)",
         "url": "https://open.spotify.com/album/3RFWb5SdGLXOodkQV7wddO"
       },
@@ -1588,7 +1682,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 144346,
       "name": "Hablan y Hablan - En Vivo",
       "url": "https://open.spotify.com/track/2G4Ow0bB55cp188IFDUoUh"
@@ -2002,7 +2096,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 210766,
       "name": "La White Gold - En Vivo",
       "url": "https://open.spotify.com/track/7bzHP0TKLmIJtabwWrfqq6"
@@ -2050,6 +2144,24 @@
       "duration_ms": 285570,
       "name": "Las Pisteadas del Vago",
       "url": "https://open.spotify.com/track/5dHdsHTnQuiiUm9lbRpdKy"
+    },
+    {
+      "album": {
+        "name": "LEALTAD",
+        "url": "https://open.spotify.com/album/1JdiEIBdZQWfrZB2uFEGqm"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137750,
+      "name": "Lealtad",
+      "url": "https://open.spotify.com/track/5HG6bnHO89RRqiqxAVr20B"
     },
     {
       "album": {
@@ -2235,6 +2347,32 @@
     },
     {
       "album": {
+        "name": "Culiac\u00e1n Deluxe 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/2SHMDC2lIlkSyEKhIBvuFU"
+      },
+      "artists": [
+        {
+          "name": "La Ventaja",
+          "url": "https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD"
+        },
+        {
+          "name": "Roberto Tapia",
+          "url": "https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0"
+        },
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255022,
+      "name": "Los Sicarios de Joaqu\u00edn (En Vivo)",
+      "url": "https://open.spotify.com/track/0GQuMOVI5kqgcWhy3iOPSJ"
+    },
+    {
+      "album": {
         "name": "Malas Rachas (En Vivo)",
         "url": "https://open.spotify.com/album/0xlaInOYofb0OkPiW9zDuJ"
       },
@@ -2294,7 +2432,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 220202,
       "name": "Me La Seguiran Pelando - En Vivo",
       "url": "https://open.spotify.com/track/02R48GzQFMADKsAQjpfrQL"
@@ -2379,6 +2517,32 @@
     },
     {
       "album": {
+        "name": "No Me Falten Al Respeto (En Vivo)",
+        "url": "https://open.spotify.com/album/6kpfWnsv0yxILzTonbcnWP"
+      },
+      "artists": [
+        {
+          "name": "El Frizian",
+          "url": "https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp"
+        },
+        {
+          "name": "Noel Torres",
+          "url": "https://open.spotify.com/artist/1GUYk7GLP4tALtorFH1OWG"
+        },
+        {
+          "name": "Banda La Experta",
+          "url": "https://open.spotify.com/artist/3fptmCH7rgFpe0Iw6fsor5"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162500,
+      "name": "No Me Falten Al Respeto (En Vivo)",
+      "url": "https://open.spotify.com/track/3emzOQZynRBtP3DVFg8xJA"
+    },
+    {
+      "album": {
         "name": "Belikeando Vol.2 (En Vivo)",
         "url": "https://open.spotify.com/album/0yWnYnbzizqDwk3hF01d6K"
       },
@@ -2390,7 +2554,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 191146,
       "name": "No Ocupa la Banda Pa' Bailar Mi Cuaco - En Vivo",
       "url": "https://open.spotify.com/track/4NsHPkkWr5UgVCctqlZtb9"
@@ -2434,10 +2598,32 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 187725,
       "name": "Plebada Nueva (En Vivo)",
       "url": "https://open.spotify.com/track/4mgxzWfTASzCs8GVxoq7TM"
+    },
+    {
+      "album": {
+        "name": "Polvo Soy",
+        "url": "https://open.spotify.com/album/7D0Kkh6JDZkP2fF3JWJ7rI"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173793,
+      "name": "Polvo Soy",
+      "url": "https://open.spotify.com/track/32j8TGCQDBzKEmYmvCCNG2"
     },
     {
       "album": {
@@ -2671,6 +2857,32 @@
     },
     {
       "album": {
+        "name": "Tambi\u00e9n Me Llamo Ismael (En Vivo)",
+        "url": "https://open.spotify.com/album/762prAk1zCDNgHV03q2Wgt"
+      },
+      "artists": [
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        },
+        {
+          "name": "Legion RG",
+          "url": "https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V"
+        },
+        {
+          "name": "Fraccion EME",
+          "url": "https://open.spotify.com/artist/3HKojEpLsM2TgtDHRfAyKD"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198493,
+      "name": "Tambi\u00e9n Me Llamo Ismael - En Vivo",
+      "url": "https://open.spotify.com/track/4KSaVHKlMWTruKxzUX12uY"
+    },
+    {
+      "album": {
         "name": "Tiempos Buenos Tiempos Malos (En Vivo)",
         "url": "https://open.spotify.com/album/02s1CLbMekn5GqmY0B2JSz"
       },
@@ -2686,7 +2898,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 212753,
       "name": "Tiempos Buenos Tiempos Malos (En Vivo)",
       "url": "https://open.spotify.com/track/23g2dK0cI5JJ2BqmCmtfWc"
@@ -2708,7 +2920,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 182181,
       "name": "Traketeando - En Vivo",
       "url": "https://open.spotify.com/track/6hKJLUCgTWYt989CLMbxOW"

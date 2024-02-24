@@ -1,13 +1,109 @@
 {
-  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Wristmeetrazor",
-  "num_followers": 8380,
+  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Gatecreeper",
+  "num_followers": 8382,
   "original_name": "Best New Songs Right Now",
   "owner": {
     "name": "revolvermagazine",
     "url": "https://open.spotify.com/user/revolvermagazine"
   },
-  "snapshot_id": "Mjk5NixjZWE5NzM3MjYzZGViZTFkODhjZGVkNmQ1Njk1MTY2MmNiYzhmZTQx",
+  "snapshot_id": "MzAwNCw4ZTc5M2Y1MzY0M2M1NWNiZmYwYjljYzEzZGRkZmE5OWE2ZGE5Yjg0",
   "tracks": [
+    {
+      "added_at": "2024-02-23 19:14:31",
+      "album": {
+        "name": "Caught in the Treads",
+        "url": "https://open.spotify.com/album/5ghkYlQALtSaQDvek8IfPO"
+      },
+      "artists": [
+        {
+          "name": "Gatecreeper",
+          "url": "https://open.spotify.com/artist/0eCB2pwtPnLywA4rxe4i4N"
+        }
+      ],
+      "duration_ms": 215169,
+      "name": "Caught in the Treads",
+      "url": "https://open.spotify.com/track/5XDoERRDfIlN16fhWH1vqd"
+    },
+    {
+      "added_at": "2024-02-23 19:14:37",
+      "album": {
+        "name": "Ode To Jimbo",
+        "url": "https://open.spotify.com/album/620sI4XfiLMTpiKcw6l2Zc"
+      },
+      "artists": [
+        {
+          "name": "Couch Slut",
+          "url": "https://open.spotify.com/artist/4fBGtHTw0pGQ9C0vbg7UBp"
+        }
+      ],
+      "duration_ms": 191492,
+      "name": "Ode To Jimbo",
+      "url": "https://open.spotify.com/track/7q6vrn80hhtQNWww0XJ8GX"
+    },
+    {
+      "added_at": "2024-02-23 19:14:44",
+      "album": {
+        "name": "Sisera",
+        "url": "https://open.spotify.com/album/1sbqip68GhwAv1Ci7fs45t"
+      },
+      "artists": [
+        {
+          "name": "Antichrist Siege Machine",
+          "url": "https://open.spotify.com/artist/0g132bsggkLIMT0pW9aa7s"
+        }
+      ],
+      "duration_ms": 113705,
+      "name": "Sisera",
+      "url": "https://open.spotify.com/track/2w81Gu7AFwVJKlc8vwza9u"
+    },
+    {
+      "added_at": "2024-02-23 19:14:54",
+      "album": {
+        "name": "Headlights",
+        "url": "https://open.spotify.com/album/3gFEjZVauOTtoWsu4S38Nr"
+      },
+      "artists": [
+        {
+          "name": "Sematary",
+          "url": "https://open.spotify.com/artist/1GLnyPuL45vOsZPs5iANcC"
+        }
+      ],
+      "duration_ms": 241548,
+      "name": "Headlights",
+      "url": "https://open.spotify.com/track/2hHu3HnSdkaU0AQldoClKA"
+    },
+    {
+      "added_at": "2024-02-23 19:15:13",
+      "album": {
+        "name": "PRELUDE TO EXTINCTION",
+        "url": "https://open.spotify.com/album/3ToqKDwrZ7amfYdgR43q9g"
+      },
+      "artists": [
+        {
+          "name": "FINAL RESTING PLACE",
+          "url": "https://open.spotify.com/artist/6mVcW5mklHKpYC0ziDpOHI"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "CHAOS COLLECTED",
+      "url": "https://open.spotify.com/track/68JtyOM22HdZf46GLxMR9F"
+    },
+    {
+      "added_at": "2024-02-23 19:15:21",
+      "album": {
+        "name": "L'Envol",
+        "url": "https://open.spotify.com/album/0ha4JvwSl9kBT0vCUQn0GI"
+      },
+      "artists": [
+        {
+          "name": "Alcest",
+          "url": "https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7"
+        }
+      ],
+      "duration_ms": 482240,
+      "name": "L'Envol",
+      "url": "https://open.spotify.com/track/30JoA3CWCXqcACZzRtyaJr"
+    },
     {
       "added_at": "2024-02-16 20:12:22",
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "A lo cubano \ud83d\udd25 Con El Chacal en portada.",
-  "num_followers": 6669,
+  "num_followers": 6693,
   "original_name": "Cubat\u00f3n Miami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOTBkMmY5MjJjMDk2M2RiM2ExYjAxYTdjODc0ZGYxMmM3NGJiZWMx",
+  "snapshot_id": "MCxiN2ZhNGQ4NTZiZTc3NmViNTM1NmU5OTg2MmM4YjAwMzQ1M2JjNWNj",
   "tracks": [
     {
       "added_at": "2024-02-09 05:00:00",
@@ -599,14 +599,10 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Agua Noche Remix",
-        "url": "https://open.spotify.com/album/0eohrQWmqahDa30v94E0TM"
+        "name": "Todo Est\u00e1 Ok",
+        "url": "https://open.spotify.com/album/6TcAKjAyDTTYFUehxvfJtK"
       },
       "artists": [
-        {
-          "name": "Yulien Oviedo",
-          "url": "https://open.spotify.com/artist/0AglxiiP1X55pczgFkgdC4"
-        },
         {
           "name": "Fixty Ordara y Ja Rulay",
           "url": "https://open.spotify.com/artist/5NHJiPzOi1EFeCB8WBiVKH"
@@ -620,9 +616,9 @@
           "url": "https://open.spotify.com/artist/7qAgkEaX7gtv2KisuQdp3E"
         }
       ],
-      "duration_ms": 238269,
-      "name": "Agua Noche Remix",
-      "url": "https://open.spotify.com/track/6JC8pg40H9jXRUlt8UGrn9"
+      "duration_ms": 214574,
+      "name": "Todo Est\u00e1 Ok",
+      "url": "https://open.spotify.com/track/2Z8rpsOQ64lVimg0eKMRCm"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -651,10 +647,14 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Todo Est\u00e1 Ok",
-        "url": "https://open.spotify.com/album/6TcAKjAyDTTYFUehxvfJtK"
+        "name": "Agua Noche Remix",
+        "url": "https://open.spotify.com/album/0eohrQWmqahDa30v94E0TM"
       },
       "artists": [
+        {
+          "name": "Yulien Oviedo",
+          "url": "https://open.spotify.com/artist/0AglxiiP1X55pczgFkgdC4"
+        },
         {
           "name": "Fixty Ordara y Ja Rulay",
           "url": "https://open.spotify.com/artist/5NHJiPzOi1EFeCB8WBiVKH"
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/7qAgkEaX7gtv2KisuQdp3E"
         }
       ],
-      "duration_ms": 214574,
-      "name": "Todo Est\u00e1 Ok",
-      "url": "https://open.spotify.com/track/2Z8rpsOQ64lVimg0eKMRCm"
+      "duration_ms": 238269,
+      "name": "Agua Noche Remix",
+      "url": "https://open.spotify.com/track/6JC8pg40H9jXRUlt8UGrn9"
     },
     {
       "added_at": "2024-02-09 05:00:00",

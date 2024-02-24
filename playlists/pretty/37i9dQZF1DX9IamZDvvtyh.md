@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IamZDvvtyh.md) - [plain]
 
 > 80s workout jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,674 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,722 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IamZDvvtyh.md) - [plain]
 | 33 | [The Touch](https://open.spotify.com/track/6xomsXeu2L9h0q4fMOaVhK) | [Stan Bush](https://open.spotify.com/artist/7qT1EPkli4RDJ2KNynkQyQ) | [In This Life](https://open.spotify.com/album/6xK68RkwofX3vdYrqYg3rC) | 4:00 |
 | 34 | [All Fired Up](https://open.spotify.com/track/6XpczhG192lULA9i4JLqKJ) | [Pat Benatar](https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV) | [Wide Awake In Dreamland](https://open.spotify.com/album/1cglcD9iGtfheI7hmVdoUb) | 4:32 |
 | 35 | [Runaway](https://open.spotify.com/track/0k0vxPms694qhT7wm5r7pT) | [Dakota](https://open.spotify.com/artist/3KQaZc35U9X1TPabyhkMpN) | [Runaway](https://open.spotify.com/album/7jdSRjxUXUXPBjChSGTujb) | 4:56 |
-| 36 | [Never Surrender](https://open.spotify.com/track/2dm3UxRHnKk2aN0oZSwULc) | [Lion](https://open.spotify.com/artist/0sHhv7X5f5RsL0yoNKdbmd) | [Dangerous Attraction](https://open.spotify.com/album/7z3Qzyqg7HMJVJpLhwlUte) | 3:32 |
+| 36 | [Never Surrender](https://open.spotify.com/track/2dm3UxRHnKk2aN0oZSwULc) | [Lion](https://open.spotify.com/artist/2AzIaYaTZGfOYaimW2ng5B) | [Dangerous Attraction](https://open.spotify.com/album/7z3Qzyqg7HMJVJpLhwlUte) | 3:32 |
 | 37 | [Fire to Burn](https://open.spotify.com/track/4Ar7Eby1joalj1sFyXg6Jb) | [Saraya](https://open.spotify.com/artist/3ruACf0oMHNYWImFGj10c6) | [Saraya](https://open.spotify.com/album/1KogbTSOYl4u0jZrAoXnko) | 4:38 |
 | 38 | [Down Boys](https://open.spotify.com/track/0dw3dXWx6dgp7Ri3HeDBUq) | [Warrant](https://open.spotify.com/artist/7HLvzuM9p11k9lUQfSM4Rq) | [Dirty Rotten Filthy Stinking Rich](https://open.spotify.com/album/1HWrP6U3m3z23H5FxFsxYS) | 4:03 |
 | 39 | [Slow an' Easy](https://open.spotify.com/track/1NH0Zs7WkQg8h8mm3jS5yn) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [Slide It In](https://open.spotify.com/album/4jFSgsgOGtd96FZtNWF0cp) | 6:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IamZDvvtyh.md) - [plain]
 | 49 | [Heatseeker](https://open.spotify.com/track/0h3A3hdDq762DzIOKUoF21) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Blow Up Your Video](https://open.spotify.com/album/5jfgUmvXCar7Qf5lidVkqI) | 3:50 |
 | 50 | [No Shelter](https://open.spotify.com/track/04rLT4KBoCtGpJSTp1sPjR) | [Broken Edge](https://open.spotify.com/artist/51w118T3tZyeQwAye9iHrq) | [The Karate Kid: The Original Motion Picture Soundtrack](https://open.spotify.com/album/1zNIDZncmWNpb1WkyfRPdH) | 3:58 |
 
-Snapshot ID: `MCwxMjVlYTNhYTM0NmQ5ODlkZTZhMzAwNGExODY4ZDU2YjE0YjhmYjMw`
+Snapshot ID: `MCxiNTE2ZmExYTZlMGJjOWNhMDBlNjhmMzNjMDQzOTVkM2Q3ZDU4MzIy`

@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 80s rock! Cover: Def Leppard.
 
-534 songs - 1 day 14 hr 39 min
+535 songs - 1 day 14 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [Exhuming McCarthy](https://open.spotify.com/track/7MkDvEslqFKLL0NubyaPNj) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Document \(R.E.M\. No\. 5\)](https://open.spotify.com/album/6gMv3MgFlieOM6Uz5GZBzy) | 3:21 | 2020-12-08 | 2022-06-03 |
 | [Fallen Angel \- Remastered 2006](https://open.spotify.com/track/27kMqdX3aoN3gBndVKlTfR) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Open Up And Say...Ahh! \(20th Anniversary Edition\)](https://open.spotify.com/album/2AMWVB3FWknjcMeb6hMZnd) | 3:58 | 2020-12-08 |  |
 | [Falling to Pieces](https://open.spotify.com/track/20nb0Wl1yqoEERbUSILuG1) | [Faith No More](https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5) | [The Real Thing](https://open.spotify.com/album/6LEP3L94jnkqjOxYJWPRP0) | 5:13 | 2020-12-08 |  |
-| [Far From Over](https://open.spotify.com/track/0mbImplrU76kIvd52GlNbt) | [Frank Stallone](https://open.spotify.com/artist/3BucZwouCkpiGi2UxqfWn9) | [Frank Stallone](https://open.spotify.com/album/4khMOHn89Aq1yHqWgkVzxm) | 3:15 | 2020-12-08 |  |
+| [Far From Over](https://open.spotify.com/track/0mbImplrU76kIvd52GlNbt) | [Frank Stallone](https://open.spotify.com/artist/3BucZwouCkpiGi2UxqfWn9) | [Frank Stallone](https://open.spotify.com/album/4khMOHn89Aq1yHqWgkVzxm) | 3:15 | 2020-12-08 | 2024-02-24 |
 | [Fascination Street \- 2010 Remaster](https://open.spotify.com/track/23j7dlNIalftynH6fNllR9) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Deluxe Edition\)](https://open.spotify.com/album/6vQB3ZBxnQPP3jQcGV2qzg) | 5:16 | 2020-12-08 |  |
 | [Fascination Street \- Remastered](https://open.spotify.com/track/2wanmHGKh4DFoOd04Klvuv) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Deluxe Edition\)](https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy) | 5:15 | 2020-12-08 | 2022-07-23 |
 | [Finest Worksong](https://open.spotify.com/track/0O7f4jLccME6ZfYfJ1twsX) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Document \(R.E.M\. No\. 5\)](https://open.spotify.com/album/6gMv3MgFlieOM6Uz5GZBzy) | 3:50 | 2020-12-08 | 2022-07-27 |
@@ -469,6 +469,7 @@
 | [Think I'm In Love](https://open.spotify.com/track/6mJQe0vTIojlxwyMwwy6YR) | [Eddie Money](https://open.spotify.com/artist/4Tw2N3wdvJPGEU7JqMxFfE) | [No Control](https://open.spotify.com/album/7BTbasHaqUidWr9CXoC6RU) | 3:08 | 2020-12-08 |  |
 | [This Is the One \- Remastered](https://open.spotify.com/track/433EQGQOsQjWvD5eImXkHf) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [The Stone Roses](https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw) | 4:59 | 2020-12-08 |  |
 | [This Is Your Land \- Remastered 2002](https://open.spotify.com/track/2Y3DUESfUwyxTLtBWkK0fY) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [Street Fighting Years](https://open.spotify.com/album/17U68dqp73T4E3Kte15ben) | 6:22 | 2020-12-08 | 2022-07-28 |
+| [Tonight, Tonight, Tonight \- 2007 Remaster](https://open.spotify.com/track/3qmYlsTbC9CD9SGoVmaEDa) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [Invisible Touch \(2007 Remaster\)](https://open.spotify.com/album/632b0oXuFpstA4DO2cUKdG) | 8:50 | 2022-11-17 |  |
 | [Tonight, Tonight, Tonight \- Remastered 2007](https://open.spotify.com/track/4MfgoC0s6TZDKj2tkmaAoE) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [Invisible Touch](https://open.spotify.com/album/5BDGtXKMQ6k267KX4PoGhP) | 8:53 | 2020-12-08 | 2022-07-29 |
 | [Too Late For Love](https://open.spotify.com/track/5vHyWEoEyIJT5RhR1fcN7y) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Pyromania](https://open.spotify.com/album/5ab6RIlAGwbVAacV1JIr2d) | 4:26 | 2020-12-08 |  |
 | [Top Gun Anthem \- From "Top Gun" Original Soundtrack](https://open.spotify.com/track/0Eodsilv1jAn83TGezUzaE) | [Harold Faltermeyer](https://open.spotify.com/artist/7Cf73Z3RZQTH4V69GSDxnv), [Steve Stevens](https://open.spotify.com/artist/4ZMaiDLfxDaoG7ULXgcnDb) | [TOP GUN/SOUNDTRACK](https://open.spotify.com/album/0aAtSw6p6dKW33Azdc0Ihq) | 4:10 | 2020-12-08 | 2022-07-28 |

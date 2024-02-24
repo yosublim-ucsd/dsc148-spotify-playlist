@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4O0AdBo80OE.md) - [plain]
 
 > Rimas cremosas, tan necesarias como tu café\. Tino el Pingüino en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,417 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,447 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4O0AdBo80OE.md) - [plain]
 | 99 | [Nuestros Tiempos](https://open.spotify.com/track/51k4iO1owyC47eouXkG8FK) | [Lng Sht](https://open.spotify.com/artist/2q9p1IXueDbcN4de5C9fI2), [Andrés Canalla](https://open.spotify.com/artist/1X0yOvDnVkVi33vLB5tBwB) | [Malos Jóvenes](https://open.spotify.com/album/2IFnfOFke1gsKaHR9QmQ26) | 4:23 |
 | 100 | [Ketamina](https://open.spotify.com/track/10o75EKGhYVNpJ4Zt766Dv) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Ketamina](https://open.spotify.com/album/3hLqUbXDXsVp4lERpmYgD8) | 2:51 |
 
-Snapshot ID: `MCwzZWQzNTVjMTU3MzNjODdjN2IzZTY4Njk0MDU0MDQ2MDE1NGNhYjM2`
+Snapshot ID: `MCw5NjhlYmNmYWZmMTI1NjdiYmQ2ZDg0NmJhMWVhMWJlNDdlOTg3NmRh`

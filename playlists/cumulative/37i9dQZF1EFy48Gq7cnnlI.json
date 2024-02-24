@@ -435,6 +435,24 @@
     },
     {
       "album": {
+        "name": "Everywhere I Go",
+        "url": "https://open.spotify.com/album/0R0LHoYE9Evb7zg94ay6nR"
+      },
+      "artists": [
+        {
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176533,
+      "name": "Everywhere I Go",
+      "url": "https://open.spotify.com/track/0QrzN1zybGPr27X6NAkUH6"
+    },
+    {
+      "album": {
         "name": "i hate rollercoasters",
         "url": "https://open.spotify.com/album/0mOtflw3cAMTvFlAjn94A9"
       },

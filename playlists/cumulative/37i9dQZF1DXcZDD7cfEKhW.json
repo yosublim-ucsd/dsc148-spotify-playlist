@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Tyla",
+  "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Ariana Grande",
   "name": "Pop Remix",
   "tracks": [
     {
@@ -7684,7 +7684,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 204242,
       "name": "Padam Padam (Jax Jones Remix)",
       "url": "https://open.spotify.com/track/6Ow5yGcdb7YhjRmZJ2cViv"
@@ -11392,6 +11392,28 @@
       "duration_ms": 170043,
       "name": "Yellow - Martin Jensen Edit",
       "url": "https://open.spotify.com/track/5haz5HRXMM2ZGSuyAbpOEA"
+    },
+    {
+      "album": {
+        "name": "yes, and? (remixes)",
+        "url": "https://open.spotify.com/album/0kHBlnc69hLOSyXAZn2yeX"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235390,
+      "name": "yes, and? - Felix Jaehn Remix",
+      "url": "https://open.spotify.com/track/6R5licKQW6P3UD64RWtKxb"
     },
     {
       "album": {

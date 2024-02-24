@@ -1,12 +1,12 @@
 {
   "description": "Sabah al khair, start your day with extra cardamom and mellow tunes.",
-  "num_followers": 178304,
+  "num_followers": 178413,
   "original_name": "Arabic Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYzhlNDFjNWE2NjQ5ZTk2NzE0MTI3MmUwOGQwYjhkOWJmNDA5YjMz",
+  "snapshot_id": "MCw1ZGJiMDEyNTg5NWRiYTdhZWI2N2FmNWVhMjdlNjAzZjZhODhkOTNh",
   "tracks": [
     {
       "added_at": "2024-02-17 07:44:08",
@@ -159,6 +159,22 @@
     {
       "added_at": "2024-02-17 07:44:08",
       "album": {
+        "name": "Lama Tkooni",
+        "url": "https://open.spotify.com/album/5UtCKCQtEMEgenYWqYmxIB"
+      },
+      "artists": [
+        {
+          "name": "siilawy",
+          "url": "https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B"
+        }
+      ],
+      "duration_ms": 211071,
+      "name": "Lama Tkooni",
+      "url": "https://open.spotify.com/track/3eFh5hiL65ylUoGAAI3Rl1"
+    },
+    {
+      "added_at": "2024-02-17 07:44:08",
+      "album": {
         "name": "Amygdala",
         "url": "https://open.spotify.com/album/1cOXVnqOJwaUSmVQ6FIM8H"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 201379,
       "name": "3abali",
       "url": "https://open.spotify.com/track/11Eb5dyeLaWfBgo9CuUhCO"
-    },
-    {
-      "added_at": "2024-02-17 07:44:08",
-      "album": {
-        "name": "Lama Tkooni",
-        "url": "https://open.spotify.com/album/5UtCKCQtEMEgenYWqYmxIB"
-      },
-      "artists": [
-        {
-          "name": "siilawy",
-          "url": "https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B"
-        }
-      ],
-      "duration_ms": 211071,
-      "name": "Lama Tkooni",
-      "url": "https://open.spotify.com/track/3eFh5hiL65ylUoGAAI3Rl1"
     },
     {
       "added_at": "2024-02-17 07:44:08",
@@ -395,6 +395,38 @@
     {
       "added_at": "2024-02-17 07:44:08",
       "album": {
+        "name": "Elyanna",
+        "url": "https://open.spotify.com/album/2J4Yz9I4s0FvFw00Cn0trp"
+      },
+      "artists": [
+        {
+          "name": "Elyanna",
+          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
+        }
+      ],
+      "duration_ms": 94289,
+      "name": "Ahwak",
+      "url": "https://open.spotify.com/track/63GzwMGopLBtxiWPZ6IFgo"
+    },
+    {
+      "added_at": "2024-02-17 07:44:08",
+      "album": {
+        "name": "The Tunis Diaries",
+        "url": "https://open.spotify.com/album/4BULdO9TRA4UfgfANxrGJN"
+      },
+      "artists": [
+        {
+          "name": "Emel",
+          "url": "https://open.spotify.com/artist/06MtOym27ALcfdtVOsRcaA"
+        }
+      ],
+      "duration_ms": 286424,
+      "name": "Holm",
+      "url": "https://open.spotify.com/track/18VTWGLJxaRMFdQ6NDIGKk"
+    },
+    {
+      "added_at": "2024-02-17 07:44:08",
+      "album": {
         "name": "Fairouz World, Pt. 1",
         "url": "https://open.spotify.com/album/6Lk9iL4RNQq11Uogjh9SW1"
       },
@@ -439,38 +471,6 @@
       "duration_ms": 297570,
       "name": "Waga'a El Hawa",
       "url": "https://open.spotify.com/track/1YW1dJLhxxlDab19RkeIQz"
-    },
-    {
-      "added_at": "2024-02-17 07:44:08",
-      "album": {
-        "name": "Elyanna",
-        "url": "https://open.spotify.com/album/2J4Yz9I4s0FvFw00Cn0trp"
-      },
-      "artists": [
-        {
-          "name": "Elyanna",
-          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
-        }
-      ],
-      "duration_ms": 94289,
-      "name": "Ahwak",
-      "url": "https://open.spotify.com/track/63GzwMGopLBtxiWPZ6IFgo"
-    },
-    {
-      "added_at": "2024-02-17 07:44:08",
-      "album": {
-        "name": "The Tunis Diaries",
-        "url": "https://open.spotify.com/album/4BULdO9TRA4UfgfANxrGJN"
-      },
-      "artists": [
-        {
-          "name": "Emel",
-          "url": "https://open.spotify.com/artist/06MtOym27ALcfdtVOsRcaA"
-        }
-      ],
-      "duration_ms": 286424,
-      "name": "Holm",
-      "url": "https://open.spotify.com/track/18VTWGLJxaRMFdQ6NDIGKk"
     },
     {
       "added_at": "2024-02-17 07:44:08",
@@ -835,6 +835,22 @@
     {
       "added_at": "2024-02-17 07:44:08",
       "album": {
+        "name": "Kaddabeen",
+        "url": "https://open.spotify.com/album/3K6vwmVKtmeBbnpcBL69zt"
+      },
+      "artists": [
+        {
+          "name": "Abu",
+          "url": "https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML"
+        }
+      ],
+      "duration_ms": 204444,
+      "name": "Kaddabeen",
+      "url": "https://open.spotify.com/track/6RoiEYuRGOr7ZdjzaJtMta"
+    },
+    {
+      "added_at": "2024-02-17 07:44:08",
+      "album": {
         "name": "Tributaries: A Remix Album (El B\u00faho Remixes)",
         "url": "https://open.spotify.com/album/7lwzhzgV4j0WKksieLPrAs"
       },
@@ -871,6 +887,22 @@
     {
       "added_at": "2024-02-17 07:44:08",
       "album": {
+        "name": "HANNET LEKLOUB",
+        "url": "https://open.spotify.com/album/2puCXbeZ2wvKFPa2MGCsql"
+      },
+      "artists": [
+        {
+          "name": "\u0178uma",
+          "url": "https://open.spotify.com/artist/1PRH2VLBHk1kMY2BFI0GQW"
+        }
+      ],
+      "duration_ms": 235026,
+      "name": "Sucre",
+      "url": "https://open.spotify.com/track/6B9scelTq5dAqEQAhScDQq"
+    },
+    {
+      "added_at": "2024-02-17 07:44:08",
+      "album": {
         "name": "Ishraq Reminiscence",
         "url": "https://open.spotify.com/album/6rzYqrYs4bcbxgKAE9ILhs"
       },
@@ -899,38 +931,6 @@
       "duration_ms": 257106,
       "name": "Ya Zaman",
       "url": "https://open.spotify.com/track/5V9UYttxpcWXeHNyZRaZPV"
-    },
-    {
-      "added_at": "2024-02-17 07:44:08",
-      "album": {
-        "name": "Kaddabeen",
-        "url": "https://open.spotify.com/album/3K6vwmVKtmeBbnpcBL69zt"
-      },
-      "artists": [
-        {
-          "name": "Abu",
-          "url": "https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML"
-        }
-      ],
-      "duration_ms": 204444,
-      "name": "Kaddabeen",
-      "url": "https://open.spotify.com/track/6RoiEYuRGOr7ZdjzaJtMta"
-    },
-    {
-      "added_at": "2024-02-17 07:44:08",
-      "album": {
-        "name": "HANNET LEKLOUB",
-        "url": "https://open.spotify.com/album/2puCXbeZ2wvKFPa2MGCsql"
-      },
-      "artists": [
-        {
-          "name": "\u0178uma",
-          "url": "https://open.spotify.com/artist/1PRH2VLBHk1kMY2BFI0GQW"
-        }
-      ],
-      "duration_ms": 235026,
-      "name": "Sucre",
-      "url": "https://open.spotify.com/track/6B9scelTq5dAqEQAhScDQq"
     },
     {
       "added_at": "2024-02-17 07:44:08",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2024-02-17 07:44:08",
       "album": {
+        "name": "Bahebek Lelsama",
+        "url": "https://open.spotify.com/album/2426NrM8n5hNONlavrlbkn"
+      },
+      "artists": [
+        {
+          "name": "Aziz Maraka",
+          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
+        }
+      ],
+      "duration_ms": 200826,
+      "name": "Bahebek Lelsama",
+      "url": "https://open.spotify.com/track/6J4xPcKd2BdyCYdCIspKTg"
+    },
+    {
+      "added_at": "2024-02-17 07:44:08",
+      "album": {
         "name": "Bahwak",
         "url": "https://open.spotify.com/album/4qz2Q8NdUlkKckkRmFDhtl"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 305319,
       "name": "Aatini Al Naya Wa Ghanni",
       "url": "https://open.spotify.com/track/4Lyx3S3OkUrJrJJAGrsh0Q"
-    },
-    {
-      "added_at": "2024-02-17 07:44:08",
-      "album": {
-        "name": "Bahebek Lelsama",
-        "url": "https://open.spotify.com/album/2426NrM8n5hNONlavrlbkn"
-      },
-      "artists": [
-        {
-          "name": "Aziz Maraka",
-          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
-        }
-      ],
-      "duration_ms": 200826,
-      "name": "Bahebek Lelsama",
-      "url": "https://open.spotify.com/track/6J4xPcKd2BdyCYdCIspKTg"
     },
     {
       "added_at": "2024-02-17 07:44:08",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-02-17 07:44:08",
       "album": {
-        "name": "Ya Bay - Live",
-        "url": "https://open.spotify.com/album/2iz4CRdRylXqvWkYRtznqq"
-      },
-      "artists": [
-        {
-          "name": "Aziz Maraka",
-          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
-        }
-      ],
-      "duration_ms": 370000,
-      "name": "Ya Bay - Live",
-      "url": "https://open.spotify.com/track/7f8Hj1nQ0FnLUjswRiITKl"
-    },
-    {
-      "added_at": "2024-02-17 07:44:08",
-      "album": {
         "name": "A Time to Cry - a Lament over Jerusalem",
         "url": "https://open.spotify.com/album/5Q1IFJcO2UoccuVQkIukc8"
       },
@@ -1371,18 +1355,34 @@
     {
       "added_at": "2024-02-17 07:44:08",
       "album": {
-        "name": "\u0632\u0647\u0631\u0629 \u0631\u0645\u0627\u0646",
-        "url": "https://open.spotify.com/album/3suV5ivCydSX1Hl1vPlllf"
+        "name": "Ll Abad",
+        "url": "https://open.spotify.com/album/1a9uW1qEYbl2RWu9Pezxbr"
       },
       "artists": [
         {
-          "name": "Soukayna Jamali",
-          "url": "https://open.spotify.com/artist/6HSYK1Uoe0vnjnAwi9nuap"
+          "name": "Lina Makoul",
+          "url": "https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7"
         }
       ],
-      "duration_ms": 206044,
-      "name": "\u0632\u0647\u0631\u0629 \u0631\u0645\u0627\u0646",
-      "url": "https://open.spotify.com/track/3boWEgROn4eUoNqA4AkKF0"
+      "duration_ms": 212476,
+      "name": "Ll Abad",
+      "url": "https://open.spotify.com/track/062PjBRVYxZAinFwcS8Lyq"
+    },
+    {
+      "added_at": "2024-02-17 07:44:08",
+      "album": {
+        "name": "Ya Bay - Live",
+        "url": "https://open.spotify.com/album/2iz4CRdRylXqvWkYRtznqq"
+      },
+      "artists": [
+        {
+          "name": "Aziz Maraka",
+          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
+        }
+      ],
+      "duration_ms": 370000,
+      "name": "Ya Bay - Live",
+      "url": "https://open.spotify.com/track/7f8Hj1nQ0FnLUjswRiITKl"
     },
     {
       "added_at": "2024-02-17 07:44:08",
@@ -1403,18 +1403,18 @@
     {
       "added_at": "2024-02-17 07:44:08",
       "album": {
-        "name": "Ll Abad",
-        "url": "https://open.spotify.com/album/1a9uW1qEYbl2RWu9Pezxbr"
+        "name": "\u0632\u0647\u0631\u0629 \u0631\u0645\u0627\u0646",
+        "url": "https://open.spotify.com/album/3suV5ivCydSX1Hl1vPlllf"
       },
       "artists": [
         {
-          "name": "Lina Makoul",
-          "url": "https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7"
+          "name": "Soukayna Jamali",
+          "url": "https://open.spotify.com/artist/6HSYK1Uoe0vnjnAwi9nuap"
         }
       ],
-      "duration_ms": 212476,
-      "name": "Ll Abad",
-      "url": "https://open.spotify.com/track/062PjBRVYxZAinFwcS8Lyq"
+      "duration_ms": 206044,
+      "name": "\u0632\u0647\u0631\u0629 \u0631\u0645\u0627\u0646",
+      "url": "https://open.spotify.com/track/3boWEgROn4eUoNqA4AkKF0"
     },
     {
       "added_at": "2024-02-17 07:44:08",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2024-02-17 07:44:08",
       "album": {
-        "name": "Second Verse",
-        "url": "https://open.spotify.com/album/764NsuHgQFNbNEBogZxgY4"
-      },
-      "artists": [
-        {
-          "name": "Faraj Suleiman",
-          "url": "https://open.spotify.com/artist/081FrpTgjmgvEy78DZOcpu"
-        }
-      ],
-      "duration_ms": 171973,
-      "name": "Despite the Flop",
-      "url": "https://open.spotify.com/track/4qAloJqPLVtUoWYiZnEWS3"
-    },
-    {
-      "added_at": "2024-02-17 07:44:08",
-      "album": {
         "name": "El Hob El Kbir",
         "url": "https://open.spotify.com/album/5gwfQSiGcdy5eAJHlS95Pi"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 251101,
       "name": "El Hob El Kbir",
       "url": "https://open.spotify.com/track/7c73VYNSw0nwDdklXa5yfu"
+    },
+    {
+      "added_at": "2024-02-17 07:44:08",
+      "album": {
+        "name": "Second Verse",
+        "url": "https://open.spotify.com/album/764NsuHgQFNbNEBogZxgY4"
+      },
+      "artists": [
+        {
+          "name": "Faraj Suleiman",
+          "url": "https://open.spotify.com/artist/081FrpTgjmgvEy78DZOcpu"
+        }
+      ],
+      "duration_ms": 171973,
+      "name": "Despite the Flop",
+      "url": "https://open.spotify.com/track/4qAloJqPLVtUoWYiZnEWS3"
     },
     {
       "added_at": "2024-02-17 07:44:08",

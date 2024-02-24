@@ -2,9 +2,9 @@
 
 ### [Retro Pop](https://open.spotify.com/playlist/37i9dQZF1DXcTieYAg7jq1)
 
-> Featuring that new vintage\. Cover: Norah Jones
+> Featuring that new vintage\. Cover: Emmy Meli
 
-374 songs - 21 hr 31 min
+377 songs - 21 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Breaking Each Other's Hearts](https://open.spotify.com/track/6FzMIRJ6zBDWjtTW4yx4Zy) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Breaking Each Other's Hearts](https://open.spotify.com/album/3Qs9pz9ZOAr6vQKQquVfJS) | 4:43 | 2021-12-24 | 2022-04-21 |
 | [Breaking Myself](https://open.spotify.com/track/0WoQVuNBdcuEvqeKZowqIK) | [Grace Kinstler](https://open.spotify.com/artist/1tsgfgGTbYHKRfV3GGua3u) | [Breaking Myself](https://open.spotify.com/album/1etjAoMPvUup3w3M95kfNb) | 2:54 | 2022-05-17 | 2023-02-15 |
 | [Breaking Myself](https://open.spotify.com/track/7jDlsRzKo3tsMsTEjL1Ns2) | [Grace Kinstler](https://open.spotify.com/artist/1tsgfgGTbYHKRfV3GGua3u) | [Breaking Myself](https://open.spotify.com/album/2cpfzE4YqxiesLIQaFqMzt) | 2:54 | 2022-05-20 |  |
+| [Breakthrough](https://open.spotify.com/track/3CbTqAhSMl1p41PEx9Tc4E) | [Emmy Meli](https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k) | [Breakthrough](https://open.spotify.com/album/0ZQ9F867lpLrMArteZet0J) | 2:36 | 2024-02-23 |  |
 | [BREATH](https://open.spotify.com/track/0goFsDJnWHwEoVXESYH3cB) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH) | [ALGORHYTHM](https://open.spotify.com/album/15AhB3pd27Jn2XxMCKDgI8) | 3:30 | 2022-05-13 | 2023-08-23 |
 | [BREATH](https://open.spotify.com/track/5WyzABu6GZCC4au3PqPxFC) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH) | [BREATH](https://open.spotify.com/album/4pMqeL0MbG9Zjvr555FpNl) | 3:30 | 2022-05-13 | 2022-08-22 |
 | [BREATH](https://open.spotify.com/track/7nP1S5bBL1WVSegAul8hHD) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH) | [ALGORHYTHM](https://open.spotify.com/album/14K5hifezIvbkbKuQCkY1s) | 3:30 | 2022-05-17 |  |
@@ -179,6 +180,7 @@
 | [If You Need Me, Don't](https://open.spotify.com/track/7KkMAQjDSxPFH9VY4XL6ow) | [Meghan Linsey](https://open.spotify.com/artist/5CoW8VGpf9la64TUDhnkVn) | [If You Need Me, Don't](https://open.spotify.com/album/78h9nHFcTuXx78rRBUJdVA) | 3:26 | 2022-06-03 | 2023-05-06 |
 | [If You Only Knew](https://open.spotify.com/track/2Tv98WrbvTsQfa2xH5OSwO) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Angels & Queens \- Part I](https://open.spotify.com/album/6XT2zsJKZ80o1FJndkQwdx) | 4:12 | 2022-09-30 | 2023-02-16 |
 | [In Water](https://open.spotify.com/track/2z6MgeDtMM8bpy3iJwr7QO) | [Bay Ledges](https://open.spotify.com/artist/7FhRUp59cBzPaxobsRY1Nc) | [In Water](https://open.spotify.com/album/6oADPnUSjOQjUEl4FffwHU) | 3:47 | 2022-04-22 |  |
+| [Infinite Love](https://open.spotify.com/track/4vbhm12kpJwFP9frdIlD1u) | [Lane Brothers](https://open.spotify.com/artist/5SzuidUf9uEZLC6E62BszN) | [Lane Brothers](https://open.spotify.com/album/7tjQsjnKGHN9g84C0xrwZ9) | 3:25 | 2024-02-23 |  |
 | [It Don't Matter](https://open.spotify.com/track/45IX2seKuUtWnQEzAh3JRc) | [Elise Azkoul](https://open.spotify.com/artist/6KCrTdWDzF11PcWt6uygaE) | [It Don't Matter](https://open.spotify.com/album/5CSe4p4wJpggsELemioCqj) | 3:33 | 2022-05-06 |  |
 | [It Will Come In Time](https://open.spotify.com/track/2eqocLN1rW8h10svumB8wd) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [It Will Come In Time](https://open.spotify.com/album/3kUX1L10eOj1lSuwrfk9PM) | 2:53 | 2022-04-29 | 2023-05-13 |
 | [IT'S YOU \(feat\. keshi\)](https://open.spotify.com/track/5SMCxRA6hB2jEhroaYfw6N) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [IT'S YOU \(feat\. keshi\)](https://open.spotify.com/album/1LtaBRxkVaAnoTSQQsWjJF) | 2:53 | 2022-09-09 | 2024-02-17 |
@@ -290,8 +292,8 @@
 | [Rollin'](https://open.spotify.com/track/0tgjvCrVS32K4QzbTSxPVd) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Rollin'](https://open.spotify.com/album/5cWGiHofYU21PbMwcBv2XN) | 3:18 | 2023-01-13 |  |
 | [Rolling Back](https://open.spotify.com/track/0UePeoAMCh1Y8lwN5sC122) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [Rolling Back](https://open.spotify.com/album/53VP4DNgyffY1BtCs42oEK) | 3:43 | 2022-09-23 | 2022-10-25 |
 | [Rolling Back](https://open.spotify.com/track/1irJhcpldknFoEzcqO75qB) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [Ticket To Shangri\-La](https://open.spotify.com/album/1RnES2KkMW6gEwRkhy53Xx) | 3:43 | 2022-09-23 |  |
-| [Running](https://open.spotify.com/track/1TX83ZAjBcPPch8iy0aNve) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Running](https://open.spotify.com/album/3O5wnk4n2Zxw7DxkJdldi7) | 3:28 | 2024-01-19 |  |
-| [Sacred Place](https://open.spotify.com/track/0Sjjh3xJUGdXqM4jXHUDal) | [Jonah Kest](https://open.spotify.com/artist/7fRYOt13ebct7IUSm36irk), [Satsang](https://open.spotify.com/artist/5q73QGeZGnA3ChVIPxIvyc) | [Sacred Place](https://open.spotify.com/album/4BlDropl0rs0ZyGOLdb9pc) | 2:46 | 2022-03-18 |  |
+| [Running](https://open.spotify.com/track/1TX83ZAjBcPPch8iy0aNve) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Running](https://open.spotify.com/album/3O5wnk4n2Zxw7DxkJdldi7) | 3:28 | 2024-01-19 | 2024-02-24 |
+| [Sacred Place](https://open.spotify.com/track/0Sjjh3xJUGdXqM4jXHUDal) | [Jonah Kest](https://open.spotify.com/artist/7fRYOt13ebct7IUSm36irk), [Satsang](https://open.spotify.com/artist/5q73QGeZGnA3ChVIPxIvyc) | [Sacred Place](https://open.spotify.com/album/4BlDropl0rs0ZyGOLdb9pc) | 2:46 | 2022-03-18 | 2024-02-24 |
 | [Saint](https://open.spotify.com/track/6f6FKPRVzfZWVQBarW574H) | [Maggie Rose](https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn) | [Saint](https://open.spotify.com/album/3SVZKcujNG8IIZCPj6T7PO) | 4:41 | 2021-12-03 | 2022-07-24 |
 | [Seasonal Love](https://open.spotify.com/track/4XsIjNzaTd19Kuldexl3RA) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Seasonal Love](https://open.spotify.com/album/2KZ8y2pZtmF6MSUOwWrJoG) | 3:05 | 2023-03-17 | 2023-04-15 |
 | [sheluvme](https://open.spotify.com/track/64Ds8EuwkeGSOeXDzXLRZz) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [sheluvme](https://open.spotify.com/album/4jg0Buspy2uDrSajhm6rnm) | 2:30 | 2022-06-24 |  |
@@ -315,6 +317,7 @@
 | [Songs About You](https://open.spotify.com/track/7qox7CiK5Kf25oBxCA0rY5) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Songs About You](https://open.spotify.com/album/6xTN7k2LmB4rrMLmMQMzWq) | 3:22 | 2022-04-22 | 2023-02-16 |
 | [SOS I'm In Love](https://open.spotify.com/track/3kF70w7IlIRSHll56WSJeH) | [Maddie Poppe](https://open.spotify.com/artist/2Wda8QEZK7twazWzqDvOdk) | [SOS I'm In Love](https://open.spotify.com/album/1TfVvdnyv7VlZ0I2Xz2Zhk) | 2:51 | 2023-09-01 |  |
 | [Spinnin](https://open.spotify.com/track/0K2KKyyKoPaNTOUPxubHPN) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Spinnin](https://open.spotify.com/album/1H231df9UtLpu609triLDa) | 2:46 | 2023-08-18 |  |
+| [Staring at the Wall](https://open.spotify.com/track/1vaE2g2ECAPiSDve8ApSGm) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Staring at the Wall](https://open.spotify.com/album/5tknEZvydcc1zkg5CWOcym) | 4:31 | 2024-02-23 |  |
 | [Stay in Bed and F\*\*\* \(While The World Burns\)](https://open.spotify.com/track/07DAMNunYyHvoG6PC88laF) | [Jonathan Roy](https://open.spotify.com/artist/62ggJuZV87VvP3sAHM0V3K) | [Stay in Bed and F\*\*\* \(While The World Burns\)](https://open.spotify.com/album/35yHgVIXp8hDTDTI3L77CT) | 2:44 | 2022-11-18 | 2023-02-16 |
 | [Steady Love](https://open.spotify.com/track/0ZpcK7pDA45LAVQFTJ2ieb) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [The Joy of Music](https://open.spotify.com/album/6Dy4vBbWht1kb3ITtTfqZA) | 3:44 | 2022-02-11 | 2022-07-31 |
 | [Steady Love](https://open.spotify.com/track/6UOkF086zUgYXnqFxqUvEI) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [The Joy of Music](https://open.spotify.com/album/1l4VD485oDSJM23eWJEWJN) | 3:44 | 2022-02-11 | 2023-06-24 |

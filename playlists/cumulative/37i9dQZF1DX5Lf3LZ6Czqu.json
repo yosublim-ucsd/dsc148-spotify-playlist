@@ -16,7 +16,7 @@
       ],
       "date_added": "2021-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 397236,
       "name": "A Cure Promised",
       "url": "https://open.spotify.com/track/45RTzFWWGXLZHPzxvjvl1H"
@@ -1422,6 +1422,24 @@
       "duration_ms": 213021,
       "name": "Midnight Sunset",
       "url": "https://open.spotify.com/track/02tkWCsZuGHuvvW0rGTROf"
+    },
+    {
+      "album": {
+        "name": "Moonflower",
+        "url": "https://open.spotify.com/album/1picw4zIfxWxD3pM5Ef56i"
+      },
+      "artists": [
+        {
+          "name": "Nick Johnston",
+          "url": "https://open.spotify.com/artist/3d5yBCe5SBKkJnWvl9GB7r"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333002,
+      "name": "Moonflower",
+      "url": "https://open.spotify.com/track/7bzX29IpQwJFBU1ltxspyl"
     },
     {
       "album": {

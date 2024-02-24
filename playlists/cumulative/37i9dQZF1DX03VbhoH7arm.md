@@ -2,7 +2,7 @@
 
 ### [Hot Hits Brasil](https://open.spotify.com/playlist/37i9dQZF1DX03VbhoH7arm)
 
-> a gente só pensa numa coisa....Foto: Luísa Sonza, Kevin O Chris
+> 🐴 / PEDRO SAMPAIO, Gasparzinho
 
 258 songs - 12 hr 21 min
 

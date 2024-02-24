@@ -4,7 +4,7 @@
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: Four Tet
 
-612 songs - 1 day 21 hr 54 min
+613 songs - 1 day 22 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -619,6 +619,7 @@
 | [ZiGGY \(DJ\-Kicks\)](https://open.spotify.com/track/1ustsXRV9SzZMuFnozNE6e) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [ZiGGY \(DJ\-Kicks\)](https://open.spotify.com/album/3sWZKvKbMl5eJcTHzD045K) | 5:41 | 2023-09-21 | 2023-12-09 |
 | [✨ mum is calling ✨](https://open.spotify.com/track/27fusRmYpex94O3REevU1F) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [lil spirits](https://open.spotify.com/album/4rT7zzBMEzrHJ0i7X81Rdv) | 3:18 | 2023-03-30 | 2023-07-14 |
 | [かたっぽshoes](https://open.spotify.com/track/4tb2PgYuehRxm9NPEIproL) | [xiangyu](https://open.spotify.com/artist/4YHFvbGOXo06pcFXOQszkB), [Gimgigam](https://open.spotify.com/artist/1LHF7KKnogex2qYTumsGiY) | [かたっぽshoes](https://open.spotify.com/album/4Tk8NBvkaFv8ga3AvnJPtq) | 3:59 | 2023-03-16 | 2023-07-21 |
-| [泡 \(Abuku\)](https://open.spotify.com/track/0siPj5cESD9OJfd9EImJln) | [Wata Igarashi](https://open.spotify.com/artist/7ug2B8FOnKHqwtVlD9vrQX) | [Flares\|泡 \(Abuku\)](https://open.spotify.com/album/7JgThj37KZbitRCvScaIwS) | 6:14 | 2024-02-22 |  |
+| [泡 \(Abuku\)](https://open.spotify.com/track/0siPj5cESD9OJfd9EImJln) | [Wata Igarashi](https://open.spotify.com/artist/7ug2B8FOnKHqwtVlD9vrQX) | [Flares\|泡 \(Abuku\)](https://open.spotify.com/album/7JgThj37KZbitRCvScaIwS) | 6:14 | 2024-02-22 | 2024-02-24 |
+| [泡 \(Abuku\)](https://open.spotify.com/track/1z77pvpNqiJoMACcS7YRAg) | [Wata Igarashi](https://open.spotify.com/artist/7ug2B8FOnKHqwtVlD9vrQX) | [Flares \| 泡 \(Abuku\)](https://open.spotify.com/album/73wyb3gGxMXyN77Z031K20) | 6:14 | 2024-02-22 |  |
 
 \*This playlist was first scraped on 2023-03-19. Prior content cannot be recovered.

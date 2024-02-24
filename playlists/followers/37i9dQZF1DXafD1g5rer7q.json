@@ -1,5 +1,5 @@
 {
-  "2024-02-23": 389879,
+  "2024-02-24": 390032,
   "date_first_scraped": "2022-04-20",
   "description": "Create the new vibe by mixing in the retro sounds.",
   "name": "EDM Samplings",
@@ -3493,7 +3493,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 134516,
       "name": "Stuck In Limbo",
       "url": "https://open.spotify.com/track/7H5jEUSvLTATbZNsmQJup0"
@@ -3835,6 +3835,28 @@
       "duration_ms": 185807,
       "name": "The Party (This Is How We Do It)",
       "url": "https://open.spotify.com/track/4DEakFTIhXT6JFyCsQUffd"
+    },
+    {
+      "album": {
+        "name": "The Way It Is",
+        "url": "https://open.spotify.com/album/2nrh9MzGMJVt705Q3G47V7"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Two Friends",
+          "url": "https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150962,
+      "name": "The Way It Is",
+      "url": "https://open.spotify.com/track/22sFNLCbk7LJ2gWKANf6Ue"
     },
     {
       "album": {

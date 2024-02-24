@@ -4,7 +4,7 @@
 
 > French scene makes some noise!
 
-295 songs - 18 hr 46 min
+296 songs - 18 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Daddy Issues](https://open.spotify.com/track/2IQq6WSFeAeQIdarYvlGxP) | [Grandma's Ashes](https://open.spotify.com/artist/3njH8IdvpiDn8UIV0BoYoY) | [Daddy Issues](https://open.spotify.com/album/31gjmH07EByb5lpua6I4G8) | 4:49 | 2023-07-23 |  |
 | [Damn Cool](https://open.spotify.com/track/4QjK0ypdnS8svTlDQEbnGy) | [Skip the Use](https://open.spotify.com/artist/6UWiE4V9p2HK4C74A0CGKB) | [Past & Future](https://open.spotify.com/album/49zarwVKLAbwUXnbHtgHxc) | 3:23 | 2021-12-31 | 2022-04-18 |
 | [Daydreaming](https://open.spotify.com/track/1m4ZGzVWW9Z6J96THHBJMj) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Daydreaming](https://open.spotify.com/album/1Q8BDjqStLsJa9fhlp5yjv) | 3:35 | 2023-07-18 | 2023-09-23 |
+| [Dead Doll](https://open.spotify.com/track/6whpHTLlx4Kl4YYgC10jLa) | [SEX SHOP MUSHROOMS](https://open.spotify.com/artist/0rqXIZ2g1twsiHjOdxSD1G) | [Dead Doll](https://open.spotify.com/album/1GKNYKScArEpMVox9BJSXQ) | 4:06 | 2024-01-19 |  |
 | [Death Sound](https://open.spotify.com/track/3jcqQv97hJOLA9CaHyEMBZ) | [Headcharger](https://open.spotify.com/artist/34M4LcAKFb4852Iigq7BNv) | [Rise from the Ashes](https://open.spotify.com/album/1esrQ31gmJpt7c1I4inyFn) | 4:03 | 2023-03-30 | 2023-05-04 |
 | [Death Sound](https://open.spotify.com/track/0BFNt26WzWcIkVyn6yPPD5) | [Headcharger](https://open.spotify.com/artist/34M4LcAKFb4852Iigq7BNv) | [Death Sound](https://open.spotify.com/album/59WBiX12rBMJkVXpStVGWe) | 4:03 | 2021-12-15 | 2022-07-27 |
 | [Despite](https://open.spotify.com/track/129whHjHOOX5AyxEXGwh9N) | [W!ZARD](https://open.spotify.com/artist/3E7Z5zzigflRAScfu3gigd) | [Despite](https://open.spotify.com/album/7CIoj4MTGannSHp7Tp7dCa) | 4:46 | 2022-11-28 | 2023-01-27 |
@@ -122,7 +123,7 @@
 | [Hope](https://open.spotify.com/track/6GpL98Krq2to6uvzaUGmy1) | [Caesaria](https://open.spotify.com/artist/3GWHmhaBl7Lx4hygni7di3), [Storm Orchestra](https://open.spotify.com/artist/5Zl04O5XJOu7kGrAosCPfR) | [Afterparty \- All We Have Is Now](https://open.spotify.com/album/0ldHemZlZBRsIDJ1p6F6LU) | 3:01 | 2023-07-05 |  |
 | [HORIZON](https://open.spotify.com/track/6G6gPGeURYWsCsjiByoedl) | [The Inspector Cluzo](https://open.spotify.com/artist/5yxIIqWx8F0NfkXpyycTxg) | [HORIZON](https://open.spotify.com/album/40qu8vLitjOTHYBKIWGpeU) | 3:48 | 2023-01-26 |  |
 | [Horns](https://open.spotify.com/track/3NAiEdkwZ6tJHteQ1Lbhax) | [Lysistrata](https://open.spotify.com/artist/04bDp8VBNHzbTdujiMUuCb) | [Horns](https://open.spotify.com/album/62JI5wGV34CnvBhAG2xwxf) | 3:26 | 2024-01-19 |  |
-| [Hotline](https://open.spotify.com/track/49H7g5Cg0iitRMgcNpGcp1) | [Birdstone](https://open.spotify.com/artist/10s9vPaMhzDYMqjwmxNr1t) | [Hotline](https://open.spotify.com/album/27eh9C2MMAgFpb6R2iFNOt) | 4:11 | 2023-11-16 |  |
+| [Hotline](https://open.spotify.com/track/49H7g5Cg0iitRMgcNpGcp1) | [Birdstone](https://open.spotify.com/artist/10s9vPaMhzDYMqjwmxNr1t) | [Hotline](https://open.spotify.com/album/27eh9C2MMAgFpb6R2iFNOt) | 4:11 | 2023-11-16 | 2024-02-24 |
 | [Houses of American Style](https://open.spotify.com/track/5Kky5Fr02ofJwTnQCgzBFl) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Houses of American Style](https://open.spotify.com/album/4fVSfJltN2th0XhpMcgx0O) | 4:04 | 2023-05-11 | 2023-06-30 |
 | [Humans](https://open.spotify.com/track/5rcE08QNXMI9CUsbnpWf7n) | [Rank\-O](https://open.spotify.com/artist/7EfIjVAkrlvg6SKlUjsAgF) | [De Novo](https://open.spotify.com/album/4zv3fK4zaoXhRmOxdcqml6) | 3:12 | 2022-04-17 |  |
 | [Hush Hush](https://open.spotify.com/track/3L2r7s8P53jfpoVa1fjtNb) | [No Money Kids](https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF) | [Hush Hush](https://open.spotify.com/album/6RQuIKP2oBM5w9DDbkBUsw) | 2:56 | 2021-12-31 | 2023-10-24 |
@@ -236,12 +237,12 @@
 | [Sentimental Animal](https://open.spotify.com/track/7DwjBCEf4SjGzy8Bgaz3EX) | [Rendez Vous](https://open.spotify.com/artist/4a118edzJsiImCyPCZk6mY) | [Superior State](https://open.spotify.com/album/0GYH4HMvMgmsRCqN224mO8) | 4:35 | 2021-12-15 |  |
 | [Shitshow](https://open.spotify.com/track/5N4Oa7FMWUw8K8xlCSfzlt) | [mirabelle.](https://open.spotify.com/artist/5TMUjYIR8pxt2p1JIJeEl0) | [Shitshow](https://open.spotify.com/album/1Tng3bnbtmmnoYCbafxwdK) | 2:57 | 2021-12-15 | 2022-07-28 |
 | [Siamese Love](https://open.spotify.com/track/5lWRpXUGs9EMHIOGN10CT6) | [Bandit Bandit](https://open.spotify.com/artist/0A1HmlpMHsKQXyXkwoS26h) | [Tachycardie](https://open.spotify.com/album/1gi8Av5p21lkIrzab6ZA0k) | 3:34 | 2021-12-15 | 2023-06-29 |
-| [Sick As A Dog](https://open.spotify.com/track/24NqGm1KJGDTxEFWkktnbM) | [A VOID](https://open.spotify.com/artist/3ha9mtXhb0Ia40lnrU2cOI) | [Dissociation](https://open.spotify.com/album/5mrEOLgzxr60AWu4jCofcG) | 4:17 | 2023-01-26 | 2024-01-06 |
+| [Sick As A Dog](https://open.spotify.com/track/24NqGm1KJGDTxEFWkktnbM) | [A VOID](https://open.spotify.com/artist/3ha9mtXhb0Ia40lnrU2cOI) | [Dissociation](https://open.spotify.com/album/5mrEOLgzxr60AWu4jCofcG) | 4:17 | 2023-01-26 |  |
 | [Sink](https://open.spotify.com/track/0M40TJrYk8d8mdSpEmSIzN) | [PURRS](https://open.spotify.com/artist/0pwgKVwaPpV1hRl4ZSeyCx) | [Rhythm + Ethics](https://open.spotify.com/album/4EM1ezTjVXDTL6p8TaAIRG) | 3:25 | 2021-12-15 | 2022-07-29 |
 | [Skyless](https://open.spotify.com/track/7jh3IHdHMcm9oJBSP9IJJW) | [Affidavit](https://open.spotify.com/artist/2pLCPj16MdarXf0lwPBMN8) | [Skyless](https://open.spotify.com/album/0pSViR11jW0BxCoJBbnkuS) | 4:06 | 2021-12-31 | 2022-07-23 |
 | [SNAKES](https://open.spotify.com/track/4oF4avlVY1oxZKp7DFBOCY) | [YAOUNDÉBOXINGCLUB](https://open.spotify.com/artist/0DhFlKC8BmJcADqBXFEYZP) | [SNAKES](https://open.spotify.com/album/2rJqYCcDxFn1xvHIlfuQAk) | 3:11 | 2023-08-24 |  |
 | [So Quarrelsome](https://open.spotify.com/track/0LQpEbMVphRO59Ag6pjjYE) | [Can't Bear This Party!](https://open.spotify.com/artist/44aEYDMMKlw3aUhxXmRg1f) | [Ain't No Princess](https://open.spotify.com/album/3sDeZ1GrOO8KfK4fYbRnNN) | 3:17 | 2022-03-24 | 2022-04-21 |
-| [So Quarrelsome](https://open.spotify.com/track/5Z9zNP3QnZUZNvakIDKTbP) | [Can't Bear This Party!](https://open.spotify.com/artist/44aEYDMMKlw3aUhxXmRg1f) | [Ain't No Princess](https://open.spotify.com/album/34dXeWYkadymUqJYIWuwYh) | 3:17 | 2022-06-30 |  |
+| [So Quarrelsome](https://open.spotify.com/track/5Z9zNP3QnZUZNvakIDKTbP) | [Can't Bear This Party!](https://open.spotify.com/artist/44aEYDMMKlw3aUhxXmRg1f) | [Ain't No Princess](https://open.spotify.com/album/34dXeWYkadymUqJYIWuwYh) | 3:17 | 2022-06-30 | 2024-02-24 |
 | [So Sorry](https://open.spotify.com/track/1jXuf4JztonnpLw3IO0UB9) | [You Said Strange](https://open.spotify.com/artist/269ucQArovY0uXXKEuf5d2) | [Thousand Shadows Vol.1](https://open.spotify.com/album/6QWuE2Js1brZVSvtzlriH3) | 3:21 | 2022-04-17 | 2023-05-27 |
 | [SO TIRED](https://open.spotify.com/track/7CiD9yJIfJshJEFwvgjPEq) | [lya!](https://open.spotify.com/artist/5DIzsQoiKqAEqckzSIOGDH) | [FRENCH FRIES](https://open.spotify.com/album/5eZzXmpnC4ZpJBkBucUfdm) | 3:35 | 2023-06-29 |  |
 | [Someone Will Come For You](https://open.spotify.com/track/4hzHtrLB8mWhLqDA4WC8ub) | [Ready For Mars](https://open.spotify.com/artist/2YFoFKcC1vQhddH2aCEKD1) | [Someone Will Come For You](https://open.spotify.com/album/4WE7A9E3ed18Z9ZbU3ip8V) | 3:32 | 2023-02-03 | 2023-02-15 |

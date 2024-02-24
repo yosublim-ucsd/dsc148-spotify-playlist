@@ -4,7 +4,7 @@
 
 > Sangre fresca en las escenas del indie y el rock\. Bersuit Vergarabat en Portada.
 
-397 songs - 1 day 0 hr 1 min
+399 songs - 1 day 0 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [AAAAAA](https://open.spotify.com/track/4TicUXZlUkSzDrrATRbi2Q) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [AAAAAA](https://open.spotify.com/album/1oBoWEuVhiOvT5WFljqkRi) | 3:10 | 2023-04-14 | 2023-07-01 |
 | [AAP](https://open.spotify.com/track/5KoFGCIAuX9aFVUXaJawvW) | [Cosmic Brothers](https://open.spotify.com/artist/08tsg7xu6UKkxOjSqvn8ba) | [AAP](https://open.spotify.com/album/0vpfrMyERPmFF1wA7XqOeJ) | 5:41 | 2023-04-21 | 2023-04-29 |
 | [Abismo](https://open.spotify.com/track/0qcp5VoAsGShsuJdXev9hf) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Temor](https://open.spotify.com/album/04x545owsC3bnx17iQdnMj) | 2:53 | 2023-06-09 | 2023-06-24 |
+| [Accidente](https://open.spotify.com/track/55xFPGknQ0zQluwBmf2nVm) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Las Ligas Menores](https://open.spotify.com/album/3uo5La74eGmsUeXJdRRO3g) | 2:25 | 2024-02-23 |  |
 | [Acto de Fe](https://open.spotify.com/track/5SSUE6xoEJPA6rF6izLj2C) | [Prismatic Shapes](https://open.spotify.com/artist/17HimzcvF4HNWP8YqBRu8q) | [Sigilos y Decretos](https://open.spotify.com/album/1bE6uhPvo82VnRTeV7Hd11) | 3:50 | 2022-08-05 | 2022-10-29 |
 | [Aeropuerto](https://open.spotify.com/track/1f6ZoZeirpFWvvkOvKR3ct) | [2 minutos](https://open.spotify.com/artist/5sASmkskUJsvYDSYKRkkYd), [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Aeropuerto](https://open.spotify.com/album/7LOdn5nP05V21rRhA0zndn) | 3:14 | 2023-03-31 | 2023-06-24 |
 | [Agua Bendita](https://open.spotify.com/track/1ypw0w1I3jJNlQfcg6CP0y) | [Pehuenche](https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk) | [Agua Bendita](https://open.spotify.com/album/1uoSSfoTMTOr3TrsrPQXZV) | 4:23 | 2022-04-23 | 2022-07-05 |
@@ -105,7 +106,7 @@
 | [Dos No Enamorados](https://open.spotify.com/track/3f1VHlGQob0026MFVRSOYi) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai) | [Dos No Enamorados](https://open.spotify.com/album/2NBUuJLDtwmX169TRhljhM) | 3:52 | 2022-09-28 | 2022-11-24 |
 | [Dulce Soledad](https://open.spotify.com/track/0BKJNlqLlNvvIunfg2BPCg) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Daltónico](https://open.spotify.com/album/5oWrwOXe12fNZc4r13XODy) | 3:44 | 2021-12-17 |  |
 | [Dulce y Amargo](https://open.spotify.com/track/5D3CxWrRvLCKRq4r7bt27j) | [La Gusana Ciega](https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY) | [Dulce y Amargo](https://open.spotify.com/album/6zA9mGPGpWnoT0jmaf3bbn) | 4:12 | 2021-12-17 | 2022-07-02 |
-| [Días De Fuego](https://open.spotify.com/track/0llXG2KrSGVjW3fVJrrmcE) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Días De Fuego](https://open.spotify.com/album/0DZPvNS2UafM6bBPMm3QEX) | 3:05 | 2021-12-17 |  |
+| [Días De Fuego](https://open.spotify.com/track/0llXG2KrSGVjW3fVJrrmcE) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Días De Fuego](https://open.spotify.com/album/0DZPvNS2UafM6bBPMm3QEX) | 3:05 | 2021-12-17 | 2024-02-24 |
 | [Dínamo](https://open.spotify.com/track/4ilX4HWxfVFE9VRzwuxsGq) | [Lorelle Meets The Obsolete](https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP) | [Dínamo](https://open.spotify.com/album/6IE6bOCP0rgHHAGMaEfDba) | 3:27 | 2023-04-28 | 2023-05-06 |
 | [Efímera](https://open.spotify.com/track/6ghPND4VxckeuSFjOkG4XC) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Efímera](https://open.spotify.com/album/54q8TWCEtwz0eHnPKk5EHB) | 4:58 | 2021-12-17 | 2022-07-02 |
 | [El Accidente](https://open.spotify.com/track/0wchDmvHOahKI191E7X448) | [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [El Accidente](https://open.spotify.com/album/3tBnzfpisn2oyDgD1TPxjB) | 4:05 | 2022-07-01 |  |
@@ -235,6 +236,7 @@
 | [Mejor Que Antes](https://open.spotify.com/track/3gYISdxnffMaR9AYzuJCRf) | [Sanje](https://open.spotify.com/artist/5GpUWwhWjWHqGVbHMF6OPx), [Yöels](https://open.spotify.com/artist/7nS08seSNCpGqZhkQORnZL) | [Mejor Que Antes](https://open.spotify.com/album/6WskIARuYkGOhfHWbmVDiL) | 4:20 | 2023-05-26 | 2023-06-24 |
 | [Mejor Que Nadie](https://open.spotify.com/track/6J1S8dFlnAcNgl7nHPB1XJ) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl) | [Mejor Que Nadie](https://open.spotify.com/album/0I2eLAIopLwwIUlUZx8muE) | 4:40 | 2022-04-20 | 2023-09-23 |
 | [MELANCOLÍA](https://open.spotify.com/track/5spLk611BNLAjZF4YHhn2r) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [MELANCOLÍA](https://open.spotify.com/album/59hsT0IGncAPHWmuhoDetX) | 4:22 | 2023-06-23 | 2023-09-02 |
+| [MELANCOLÍA](https://open.spotify.com/track/41N9Co3jknF8m5BH0cNdqb) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [MELANCOLÍA](https://open.spotify.com/album/5H9fjS95ycyEPZOHT2hgM8) | 3:42 | 2024-02-23 |  |
 | [Melodías Nublados](https://open.spotify.com/track/5ASuoktRXvWLWOjS9YHs6b) | [Build a Vista](https://open.spotify.com/artist/5Rd2pJnoEa82vN30QvIqvX) | [Melodías Nublados](https://open.spotify.com/album/5P10qJonXLknLPrtXbK5qB) | 3:02 | 2022-03-11 | 2022-07-26 |
 | [Mentiroso](https://open.spotify.com/track/25pP7EPQwNjoIA2EFZoPOK) | [Walter Esaú](https://open.spotify.com/artist/2BaF574aVsGeAtcUgrzeV5) | [Mentiroso](https://open.spotify.com/album/67eYO57qEmwcX323pi63kZ) | 3:48 | 2022-03-19 | 2022-08-19 |
 | [Mi Canción](https://open.spotify.com/track/2EeJ3n3I0EZaa3YQUvap72) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj) | [Mi Canción](https://open.spotify.com/album/1YcVrh4wME3hr6ZY7yk3d6) | 3:08 | 2022-04-20 | 2023-01-04 |
@@ -309,7 +311,7 @@
 | [Quería Olvidarte](https://open.spotify.com/track/41nuVhzxlAevKkhjthnpU5) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK), [Fármacos](https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M) | [Quería Olvidarte](https://open.spotify.com/album/1epND6FkZBn8fueQXMX32w) | 2:46 | 2023-03-10 | 2024-02-10 |
 | [Quisiera Saber \(with Natalia Lafourcade\)](https://open.spotify.com/track/7ETuZtnJJ1brMNiPpd2LFg) | [Los Daniels](https://open.spotify.com/artist/6wAdcWMCHvamfged5FsKBD), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [A Casa](https://open.spotify.com/album/1435j1Cd1T8MJLSos4Arll) | 3:29 | 2021-12-17 |  |
 | [Radio](https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Radio](https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR) | 3:08 | 2023-03-24 | 2023-06-24 |
-| [Raindrops Of Poison](https://open.spotify.com/track/5E3XLPrhHu6HbwoqYfFrth) | [Descartes A Kant](https://open.spotify.com/artist/3f5vjwUNkT5TxEnFxwJh8j) | [After Destruction](https://open.spotify.com/album/7jhSHFst3jCbRlxwvWa7AX) | 3:25 | 2023-09-29 |  |
+| [Raindrops Of Poison](https://open.spotify.com/track/5E3XLPrhHu6HbwoqYfFrth) | [Descartes A Kant](https://open.spotify.com/artist/3f5vjwUNkT5TxEnFxwJh8j) | [After Destruction](https://open.spotify.com/album/7jhSHFst3jCbRlxwvWa7AX) | 3:25 | 2023-09-29 | 2024-02-24 |
 | [Realidad Aparente](https://open.spotify.com/track/7JJ8lSAxz7NaVTNiTcYwBc) | [Los Romanticos de Zacatecas](https://open.spotify.com/artist/0xg0tZofneUYpE1HQS4gOg) | [Realidad Aparente](https://open.spotify.com/album/7qgEurNldCzTbsDCy8FxDA) | 1:41 | 2023-03-31 | 2023-07-22 |
 | [Recovered Files](https://open.spotify.com/track/2iheT0GXVpykVzVsPWjaVn) | [Neuman](https://open.spotify.com/artist/2ApGJ6o1AkNPjkFrnJQLKM) | [Recovered Files](https://open.spotify.com/album/4JuXQGRqNVORHmI968HBkv) | 7:12 | 2023-01-27 | 2023-02-18 |
 | [Respiro \(Cap\. 8\)](https://open.spotify.com/track/5O612Iau2nHDR3yv8jAFXs) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [MEMORIA FUTURO](https://open.spotify.com/album/4XFeZO8Do9fdappVKRzbcH) | 3:41 | 2021-12-17 |  |

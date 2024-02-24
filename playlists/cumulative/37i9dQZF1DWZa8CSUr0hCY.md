@@ -4,12 +4,13 @@
 
 > Laissez\-vous porter par la playlist lo\-fi
 
-218 songs - 9 hr 46 min
+219 songs - 9 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [](https://open.spotify.com/track/3i0nDmjTjXDsoMIKUFlhDR) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0KlIEin7WKKRQ0sGHmfFoA) | 0:00 | 2020-10-20\* | 2022-08-31 |
 | [](https://open.spotify.com/track/3okj5Ww1BYh7k5VsBFXUw3) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4MwwELQPwTdgaoz0YfiJoR) | 0:00 | 2020-10-20\* | 2022-08-31 |
+| [1222 Miles](https://open.spotify.com/track/2NM2GmtDfb8LGcjfdKDIJe) | [Thomas Lemmer](https://open.spotify.com/artist/01Ix2zdjR4PQ2eYMpclD9d), [Oine](https://open.spotify.com/artist/3BnZE8V5fUS3QFE5mGSDGr) | [One Vision](https://open.spotify.com/album/0FINe2R7XrhI47PtPP493x) | 2:48 | 2024-02-23 |  |
 | [A Beautiful Eve](https://open.spotify.com/track/54ah8liCv9mF0VLrvisQeI) | [Poldoore](https://open.spotify.com/artist/3ph6BKBPsjP7Vhtd1IXhkc) | [The Day After](https://open.spotify.com/album/2TB0dVyAIenZAbADN8PWcL) | 4:18 | 2020-10-20\* | 2022-01-29 |
 | [A grand love theme](https://open.spotify.com/track/0pg2VKzTsBdbxPzcOkReY2) | [Kid Loco](https://open.spotify.com/artist/1ViF5mdcW7pEn7md71YjOL) | [A Grand Love Story](https://open.spotify.com/album/6R1VyRo1cFv2JDC1diCkPS) | 4:02 | 2020-10-20\* | 2022-08-31 |
 | [A Place I Know](https://open.spotify.com/track/2P2lnaf2K0dNnN5mKcjGzl) | [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA) | [A Place I Know](https://open.spotify.com/album/5GWiZ1O8WsRvc2LN6W1uFH) | 2:07 | 2020-10-20\* | 2022-08-31 |
@@ -104,7 +105,7 @@
 | [Hypnotherapy](https://open.spotify.com/track/1Tsxj8punF8dB99vPTXFLY) | [Gates](https://open.spotify.com/artist/3x0KH9fZDv0z0NvgCp1vUX) | [Hypnotherapy](https://open.spotify.com/album/35GDQlJ4tc92UxVch8Guku) | 2:01 | 2020-10-20\* | 2022-08-31 |
 | [i completely forgot i exist](https://open.spotify.com/track/5GyNl6UzfdozPq0aT194ld) | [colours in the dark](https://open.spotify.com/artist/4lRRwA3JsWrOD8f47gI2iI), [No Spirit](https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX) | [the beginning of everything](https://open.spotify.com/album/5Matz1eedO5orhIpJEuUVO) | 3:05 | 2023-12-01 |  |
 | [Interlace](https://open.spotify.com/track/7LV01OBynmYstauhU7HeTC) | [Funshine](https://open.spotify.com/artist/6yrpDCs3th5WzFNyTaC75r) | [Interlace](https://open.spotify.com/album/770bOOrgLvY5Sn7Crrhh2U) | 2:36 | 2022-08-30 |  |
-| [it rains all day \- Spotify Singles](https://open.spotify.com/track/3ZPPKya0w9TPzejJxRCqEF) | [Bluewerks](https://open.spotify.com/artist/4ELcaEK7UaF0mUoodoVBfn), [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2) | [Spotify Singles](https://open.spotify.com/album/2qTdXY1w3bJXeQ4mI57ye1) | 3:14 | 2022-08-30 |  |
+| [it rains all day \- Spotify Singles](https://open.spotify.com/track/3ZPPKya0w9TPzejJxRCqEF) | [Bluewerks](https://open.spotify.com/artist/4ELcaEK7UaF0mUoodoVBfn), [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2) | [Spotify Singles](https://open.spotify.com/album/2qTdXY1w3bJXeQ4mI57ye1) | 3:14 | 2022-08-30 | 2024-02-24 |
 | [It's Going Well](https://open.spotify.com/track/2iLyRWc3YDv0CBb7vtAL4y) | [Picture Talk](https://open.spotify.com/artist/2ERrGspEfSe1sycxXBU48l), [Lush Lofi](https://open.spotify.com/artist/5JhRPnuIs99MvULl2ZcFiL), [LiGe 力哥](https://open.spotify.com/artist/4XuX7xOI4bK8Rfpwu0WjV9) | [It's Going Well](https://open.spotify.com/album/7h96TNHvp3cUuYDX1oRS2e) | 2:02 | 2023-12-21 |  |
 | [Jammin In Coffee Shop](https://open.spotify.com/track/1vdIAVq96KU0wWoYoWchSk) | [RejSende](https://open.spotify.com/artist/6VuJTb9pNKiBCcSlqBewpo), [Kind Puppy](https://open.spotify.com/artist/6UugiEEysCLia9Ge04UN1j) | [Between Waves](https://open.spotify.com/album/24Pl4Nxe46HJSasA3TPiFP) | 2:20 | 2022-08-30 |  |
 | [Just for a Day \(Sunday\)](https://open.spotify.com/track/4AP4wpMgTDjfn43Jx7W49M) | [TM Juke](https://open.spotify.com/artist/4awnjjqiUnSBA4ucPVbF8R) | [Maps From the Wilderness](https://open.spotify.com/album/6JKO4jIhB1Yt780Z8QAkFp) | 4:32 | 2022-04-28 | 2022-08-31 |

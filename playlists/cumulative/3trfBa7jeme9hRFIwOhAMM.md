@@ -4,7 +4,7 @@
 
 > bringing you all things house!! follow me on tour <a href="http://www.instagram.com/curbi">here</a> and don't forget to <a href="https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT">follow my artist profile</a>..
 
-153 songs - 7 hr 31 min
+154 songs - 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Vertigo](https://open.spotify.com/track/0Cv7pfVZT1KjaqpylUsYQH) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT), [PollyAnna](https://open.spotify.com/artist/3mRSi79NwnlKaOH8vFxBVL) | [Vertigo](https://open.spotify.com/album/4s8l87cU1Z2Sg5iKualNLr) | 2:47 | 2023-06-26 |  |
 | [VIP Business](https://open.spotify.com/track/6vSmzEaYNo36DyoNNq0L8M) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [VIP Business](https://open.spotify.com/album/6AO4umf1xPVZ9TE1VoO4SC) | 3:00 | 2023-06-26 | 2023-07-29 |
 | [Vision](https://open.spotify.com/track/6oKSbAIYE9hQMLWMfSRZja) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [Vision](https://open.spotify.com/album/7FIjCxHSC5N63alQv0LcYV) | 2:55 | 2023-06-26 | 2023-07-15 |
+| [Want To Go Higher](https://open.spotify.com/track/21145DXQcPT6tiSUC111yx) | [Eddy Black](https://open.spotify.com/artist/5XCoXE7RaDvuyMCghkdmxK), [Norah B.](https://open.spotify.com/artist/2oc7HOF4je0QOUpYZ3Drio) | [Want To Go Higher](https://open.spotify.com/album/44ASoFEKHD2SnUl5bPVdHO) | 2:39 | 2024-02-23 |  |
 | [Wataqui](https://open.spotify.com/track/5FdQkUVpFicMpUv6OLy3wh) | [Gian Varela](https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF), [Martina Camargo](https://open.spotify.com/artist/2vGRgVlsY6BB9PyESPm6IH) | [Wataqui](https://open.spotify.com/album/338oBgeuDJHByptkUWZpbS) | 2:34 | 2023-07-11 | 2023-08-06 |
 | [Watch](https://open.spotify.com/track/1L97rUfj3FJuc4qaHZ1rOW) | [Pietro Giacobbi](https://open.spotify.com/artist/2RVumPcu7wWoI8IbjrRMh7), [STRIKE](https://open.spotify.com/artist/3bhyWD5owEvPViJnjYL34g) | [Watch](https://open.spotify.com/album/0ezqrQoFD5jsCxgWLkIAoD) | 2:36 | 2023-07-28 | 2023-09-26 |
 | [Westside](https://open.spotify.com/track/2Rc6ivoghl3HERJ9bbqEWo) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Westside](https://open.spotify.com/album/6uGoTMFwu9mxx5B6NibinR) | 2:56 | 2023-08-27 | 2023-09-26 |

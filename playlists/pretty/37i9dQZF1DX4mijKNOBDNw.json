@@ -1,12 +1,12 @@
 {
   "description": "Si tocan a una respondemos todas.",
-  "num_followers": 55074,
+  "num_followers": 55087,
   "original_name": "Himnos de Sororidad",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMzUzN2QyNGE5MmFiYjg4Mzc4MzQ1ZGQ0NmQ1M2I1ZWYzZjBjNTQ2",
+  "snapshot_id": "MCwyMTJjNjE1Njk2ZjFmNDE3MjQwMGNlZGUyZjczMTljZDBhNjc2YTRm",
   "tracks": [
     {
       "added_at": "2023-12-15 03:00:00",
@@ -455,6 +455,22 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
+        "name": "Brujas",
+        "url": "https://open.spotify.com/album/4fVKCgpWN1lWkMses30NqQ"
+      },
+      "artists": [
+        {
+          "name": "Eli Almic",
+          "url": "https://open.spotify.com/artist/5KXdJKZm2dVPkKmbitndiR"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Brujas",
+      "url": "https://open.spotify.com/track/2QSksPcpxlX6APIppww8Ar"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
         "name": "Alma de Cantaora",
         "url": "https://open.spotify.com/album/4RZtmfEuBbn9QVZguelVmO"
       },
@@ -471,18 +487,18 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Brujas",
-        "url": "https://open.spotify.com/album/4fVKCgpWN1lWkMses30NqQ"
+        "name": "Autogestion y Resistencia",
+        "url": "https://open.spotify.com/album/0io7mCnSgnjzoi3Q57X5gR"
       },
       "artists": [
         {
-          "name": "Eli Almic",
-          "url": "https://open.spotify.com/artist/5KXdJKZm2dVPkKmbitndiR"
+          "name": "Audry Funk",
+          "url": "https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2"
         }
       ],
-      "duration_ms": 174545,
-      "name": "Brujas",
-      "url": "https://open.spotify.com/track/2QSksPcpxlX6APIppww8Ar"
+      "duration_ms": 220000,
+      "name": "Sororidad",
+      "url": "https://open.spotify.com/track/01Wueuzjgm3EWjjmeR7AmB"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -503,22 +519,6 @@
       "duration_ms": 268011,
       "name": "Paracas Cavernas",
       "url": "https://open.spotify.com/track/5iEzYvaLSLUU7pU4miiVE5"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "Autogestion y Resistencia",
-        "url": "https://open.spotify.com/album/0io7mCnSgnjzoi3Q57X5gR"
-      },
-      "artists": [
-        {
-          "name": "Audry Funk",
-          "url": "https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Sororidad",
-      "url": "https://open.spotify.com/track/01Wueuzjgm3EWjjmeR7AmB"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
+        "name": "Femrevoluci\u00f3n",
+        "url": "https://open.spotify.com/album/2jeoUKyTm20LffOarIjLIM"
+      },
+      "artists": [
+        {
+          "name": "Lucrecia Aguirre",
+          "url": "https://open.spotify.com/artist/4ZUaicOmq3Ywk2VvL4ggbD"
+        }
+      ],
+      "duration_ms": 194181,
+      "name": "Femrevoluci\u00f3n",
+      "url": "https://open.spotify.com/track/3UwupHJgHZk39iE50dR5Zt"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
         "name": "Mi Fuerza Es Tuya",
         "url": "https://open.spotify.com/album/5OeRmEiUnbVCOCSBpYrk1W"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 245441,
       "name": "Mi Fuerza Es Tuya",
       "url": "https://open.spotify.com/track/1FktdfIFdccuJlOBIGW6ga"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "La Manada",
-        "url": "https://open.spotify.com/album/39eY6IRUOQufdaCqAzOejK"
-      },
-      "artists": [
-        {
-          "name": "Papina de Palma",
-          "url": "https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3"
-        }
-      ],
-      "duration_ms": 164507,
-      "name": "La Manada",
-      "url": "https://open.spotify.com/track/42xqEQYMvIfW4DBHFWGGve"
     }
   ],
   "unique_name": "Himnos de Sororidad",

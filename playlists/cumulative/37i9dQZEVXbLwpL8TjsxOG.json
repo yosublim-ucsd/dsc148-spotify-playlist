@@ -6446,7 +6446,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-23",
+      "date_removed": null,
       "duration_ms": 152400,
       "name": "plot twist",
       "url": "https://open.spotify.com/track/0aZG8KWrpRnsGL0loUkfSj"
@@ -7234,7 +7234,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 215720,
       "name": "Shopper",
       "url": "https://open.spotify.com/track/1c6kkrWnpy68eYDfBdxNtF"
@@ -9014,7 +9014,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 165748,
       "name": "We got so much",
       "url": "https://open.spotify.com/track/5fCKBIJ7BwaCpxxwZCbS5X"
@@ -11548,6 +11548,24 @@
       "duration_ms": 163754,
       "name": "\u5fb7\u5dde\u4e4b\u6200",
       "url": "https://open.spotify.com/track/166JRCRhVhctXfAj3IRwtc"
+    },
+    {
+      "album": {
+        "name": "\u5ff5",
+        "url": "https://open.spotify.com/album/1QowbHwkez4o0CuheZSsan"
+      },
+      "artists": [
+        {
+          "name": "Panther Chan",
+          "url": "https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288295,
+      "name": "\u5ff5",
+      "url": "https://open.spotify.com/track/21Y7Om8LTUS5dNKqKYeywc"
     },
     {
       "album": {

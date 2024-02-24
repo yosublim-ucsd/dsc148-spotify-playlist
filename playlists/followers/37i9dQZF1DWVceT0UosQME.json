@@ -1,5 +1,5 @@
 {
-  "2024-02-23": 3948,
+  "2024-02-24": 4015,
   "date_first_scraped": "2024-01-13",
   "description": "your soundtrack to your exam studies. for max productiveness. u got this!",
   "name": "exams 2024",
@@ -1447,7 +1447,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 168000,
       "name": "Chimes",
       "url": "https://open.spotify.com/track/3rtl8o4opvXJnYUtk1CgUq"
@@ -2207,7 +2207,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 131518,
       "name": "Egg Rollz",
       "url": "https://open.spotify.com/track/5swljGcGse2QRMLWji89yv"
@@ -3627,6 +3627,24 @@
       "duration_ms": 111000,
       "name": "Hello",
       "url": "https://open.spotify.com/track/55kBQKbWwzMmEafQYjvhQe"
+    },
+    {
+      "album": {
+        "name": "Heroes Retreat",
+        "url": "https://open.spotify.com/album/3zkjaXc1ojZQnC61ZhDgTP"
+      },
+      "artists": [
+        {
+          "name": "Conjure kid",
+          "url": "https://open.spotify.com/artist/3mFXDnOibfFGvbYkqAt2XU"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123162,
+      "name": "Heroes Retreat",
+      "url": "https://open.spotify.com/track/1iD0vEZSvlpsDRSN6y3o0J"
     },
     {
       "album": {
@@ -6598,6 +6616,24 @@
     },
     {
       "album": {
+        "name": "poppy",
+        "url": "https://open.spotify.com/album/2KhU3J9GYoqTjmAnBQcMwg"
+      },
+      "artists": [
+        {
+          "name": "knock on wood",
+          "url": "https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153291,
+      "name": "poppy",
+      "url": "https://open.spotify.com/track/2n4AwQls3F6atW1Av1sLIM"
+    },
+    {
+      "album": {
         "name": "projection",
         "url": "https://open.spotify.com/album/64wr6u8ng4pFUfCvtLIbJ8"
       },
@@ -7437,7 +7473,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 141000,
       "name": "Slay",
       "url": "https://open.spotify.com/track/6Rt2oplsgLFOyU4okO7zkJ"
@@ -7675,6 +7711,24 @@
       "duration_ms": 135000,
       "name": "spacewalk",
       "url": "https://open.spotify.com/track/0aCCGFwEjFpwbBogpzra6b"
+    },
+    {
+      "album": {
+        "name": "Sparkle",
+        "url": "https://open.spotify.com/album/6pwc042jl4PQ5RQfSMUGOP"
+      },
+      "artists": [
+        {
+          "name": "Tune in with Chewie",
+          "url": "https://open.spotify.com/artist/4M4gexhCyv12RmbowD8xjS"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150809,
+      "name": "Sparkle",
+      "url": "https://open.spotify.com/track/6E3Ks7ElkgvfhF93unPTXj"
     },
     {
       "album": {

@@ -921,6 +921,24 @@
     },
     {
       "album": {
+        "name": "Botafumeiro",
+        "url": "https://open.spotify.com/album/56XMqLgqXmExScOiTr92Du"
+      },
+      "artists": [
+        {
+          "name": "Ayax",
+          "url": "https://open.spotify.com/artist/1lVofHO8O8nEygHTwJ2tnU"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Botafumeiro",
+      "url": "https://open.spotify.com/track/3zTI1mbujOoDWfGsS4fNe0"
+    },
+    {
+      "album": {
         "name": "Brigantes",
         "url": "https://open.spotify.com/album/6sVXofzsxugo2kWlJ45Kmh"
       },

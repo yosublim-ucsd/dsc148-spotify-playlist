@@ -1,5 +1,5 @@
 {
-  "2024-02-23": 1816068,
+  "2024-02-24": 1816102,
   "date_first_scraped": "2020-04-26",
   "description": "Keeping it lowkey with the best chill pop. Cover: Sasha Alex Sloan",
   "name": "Chill Pop",
@@ -22741,6 +22741,24 @@
     {
       "album": {
         "name": "Sleepyhead",
+        "url": "https://open.spotify.com/album/10nDX7ZVSymEXVDQxtemR8"
+      },
+      "artists": [
+        {
+          "name": "david hugo",
+          "url": "https://open.spotify.com/artist/0IErJSgNHRD1DAH0X7yHvn"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194440,
+      "name": "Sleepyhead",
+      "url": "https://open.spotify.com/track/0swLKGvJZnbROxhHggpVBa"
+    },
+    {
+      "album": {
+        "name": "Sleepyhead",
         "url": "https://open.spotify.com/album/7vtEGgaefryUMRilWJ8zGD"
       },
       "artists": [
@@ -22751,7 +22769,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 194440,
       "name": "Sleepyhead",
       "url": "https://open.spotify.com/track/2Nf1xezlclOKIUiAIvkjVU"

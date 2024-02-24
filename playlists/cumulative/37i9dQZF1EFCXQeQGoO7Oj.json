@@ -7305,6 +7305,28 @@
     },
     {
       "album": {
+        "name": "Since U Been Gone (Juliet\u2019s Version)",
+        "url": "https://open.spotify.com/album/4f5ao8f2W8n7Rx24Dpn9TT"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        },
+        {
+          "name": "Lorna Courtney",
+          "url": "https://open.spotify.com/artist/4DwDek55Rhdcv119OlR0ap"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169670,
+      "name": "Since U Been Gone - Juliet\u2019s Version",
+      "url": "https://open.spotify.com/track/1WZdToQ3vpfpgKD9jPlFOS"
+    },
+    {
+      "album": {
         "name": "5ive",
         "url": "https://open.spotify.com/album/1GJlrr97zfdxa3l4jpP47A"
       },

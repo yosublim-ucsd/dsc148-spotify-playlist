@@ -1,5 +1,5 @@
 {
-  "2024-02-23": 3490445,
+  "2024-02-24": 3490935,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Brazil.",
   "name": "Top 50 - Brazil",
@@ -215,7 +215,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 163500,
       "name": "400K",
       "url": "https://open.spotify.com/track/1i2kguziI3ZbUZnZMKNhQ2"
@@ -361,7 +361,7 @@
       ],
       "date_added": "2024-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-21",
+      "date_removed": null,
       "duration_ms": 147988,
       "name": "A Cerveja Abre Sozinha - Ao Vivo",
       "url": "https://open.spotify.com/track/1t7hoiam7urTLzzSTHuSDD"
@@ -10256,6 +10256,24 @@
     },
     {
       "album": {
+        "name": "Numanice #3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167027,
+      "name": "Maliciosa - Ao Vivo",
+      "url": "https://open.spotify.com/track/3CJiho39iutZrDxQG5Vubl"
+    },
+    {
+      "album": {
         "name": "Maliciosa (Ao Vivo)",
         "url": "https://open.spotify.com/album/6ijC1S3LFTvQlrQWkQko3E"
       },
@@ -10267,7 +10285,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 167027,
       "name": "Maliciosa - Ao Vivo",
       "url": "https://open.spotify.com/track/3vCH7bgO37Cx4dOIUlX9sv"

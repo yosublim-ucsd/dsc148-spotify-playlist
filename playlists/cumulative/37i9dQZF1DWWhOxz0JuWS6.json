@@ -2216,7 +2216,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 195893,
       "name": "Far From Over",
       "url": "https://open.spotify.com/track/0mbImplrU76kIvd52GlNbt"
@@ -8316,6 +8316,24 @@
       "duration_ms": 382133,
       "name": "This Is Your Land - Remastered 2002",
       "url": "https://open.spotify.com/track/2Y3DUESfUwyxTLtBWkK0fY"
+    },
+    {
+      "album": {
+        "name": "Invisible Touch (2007 Remaster)",
+        "url": "https://open.spotify.com/album/632b0oXuFpstA4DO2cUKdG"
+      },
+      "artists": [
+        {
+          "name": "Genesis",
+          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 530560,
+      "name": "Tonight, Tonight, Tonight - 2007 Remaster",
+      "url": "https://open.spotify.com/track/3qmYlsTbC9CD9SGoVmaEDa"
     },
     {
       "album": {

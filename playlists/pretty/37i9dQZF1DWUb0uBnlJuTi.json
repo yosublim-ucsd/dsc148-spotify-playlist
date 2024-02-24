@@ -1,13 +1,77 @@
 {
   "description": "Jazz. But funky. Cover: Takuya Kuroda",
-  "num_followers": 330243,
+  "num_followers": 330360,
   "original_name": "Jazz-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZmI3ZGEzZmFhYzMwMDIyMGFlZTc1NmMxYzgwZTk2MDM1ZDllY2My",
+  "snapshot_id": "MCw3NzlhNzQxMjkyODUwYzJmMDFmZmRkNzMzYzlhNDA5MjdkY2Q4ZmM0",
   "tracks": [
+    {
+      "added_at": "2024-02-23 05:01:00",
+      "album": {
+        "name": "Where\u2019s Danny?",
+        "url": "https://open.spotify.com/album/0dao4XjiVYGQmNBn0omY4S"
+      },
+      "artists": [
+        {
+          "name": "Ghost-Note",
+          "url": "https://open.spotify.com/artist/55BOGnEb0pUuAgbxAwwbKV"
+        }
+      ],
+      "duration_ms": 184146,
+      "name": "Where\u2019s Danny?",
+      "url": "https://open.spotify.com/track/2WyPy28diXETSlcNSIc6At"
+    },
+    {
+      "added_at": "2024-02-23 05:01:00",
+      "album": {
+        "name": "Cocoa Dust",
+        "url": "https://open.spotify.com/album/50w57xbAi9g515Wz2M5aYE"
+      },
+      "artists": [
+        {
+          "name": "Greg Spero",
+          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
+        },
+        {
+          "name": "Jough Cleveland",
+          "url": "https://open.spotify.com/artist/5WFQUb4qmSzX5syH6iQr5n"
+        },
+        {
+          "name": "Stixx Taylor",
+          "url": "https://open.spotify.com/artist/2eMTWZLa7eqnNsp71eM6Tg"
+        },
+        {
+          "name": "Dominique Xavier",
+          "url": "https://open.spotify.com/artist/47nOBw65Dx7k6FQyzQ5Dnp"
+        }
+      ],
+      "duration_ms": 227540,
+      "name": "Cocoa Dust",
+      "url": "https://open.spotify.com/track/500lP9fUi5DY2Ma8xkVYIy"
+    },
+    {
+      "added_at": "2024-02-23 05:01:00",
+      "album": {
+        "name": "That Thang",
+        "url": "https://open.spotify.com/album/0mvRX9cftJgdQEFDtG8qcM"
+      },
+      "artists": [
+        {
+          "name": "The Messthetics",
+          "url": "https://open.spotify.com/artist/61wWE8w2nqaoNmKCOjJ4Hm"
+        },
+        {
+          "name": "James Brandon Lewis",
+          "url": "https://open.spotify.com/artist/4vPE7pt5RgtB8cqDqQHhMK"
+        }
+      ],
+      "duration_ms": 191217,
+      "name": "That Thang",
+      "url": "https://open.spotify.com/track/602QHytqd7LKE2xwKG1KWI"
+    },
     {
       "added_at": "2024-02-16 05:01:00",
       "album": {
@@ -51,22 +115,6 @@
       "duration_ms": 241560,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/52qi04bO7emYkJH6lhA4sk"
-    },
-    {
-      "added_at": "2024-01-12 05:01:00",
-      "album": {
-        "name": "Bad Knees",
-        "url": "https://open.spotify.com/album/7CSCH5kpTJKTrNkcSA2epI"
-      },
-      "artists": [
-        {
-          "name": "Ghost-Note",
-          "url": "https://open.spotify.com/artist/55BOGnEb0pUuAgbxAwwbKV"
-        }
-      ],
-      "duration_ms": 281493,
-      "name": "Bad Knees",
-      "url": "https://open.spotify.com/track/3byYyAtjehzL826iWO61Qx"
     },
     {
       "added_at": "2023-11-17 05:01:00",
@@ -499,26 +547,6 @@
       "duration_ms": 541826,
       "name": "Mister Magic",
       "url": "https://open.spotify.com/track/2fmXnPfzguSp3zKDibCBgv"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
-        "name": "Funky G Sus",
-        "url": "https://open.spotify.com/album/4DPrc61bo2mFC1KakdVZw0"
-      },
-      "artists": [
-        {
-          "name": "Greg Spero",
-          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
-        },
-        {
-          "name": "Joe Marcinek Band",
-          "url": "https://open.spotify.com/artist/5qKOChsYbv4J08L1bvNxMK"
-        }
-      ],
-      "duration_ms": 357482,
-      "name": "Funky G Sus",
-      "url": "https://open.spotify.com/track/5QFO8waIRAMQafRnnzBOyZ"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -3647,26 +3675,6 @@
       "duration_ms": 241394,
       "name": "Sweet Solitude",
       "url": "https://open.spotify.com/track/2WOzxPv4d42g6ZOo3pMLIl"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
-        "name": "Instrumental Explorations",
-        "url": "https://open.spotify.com/album/71sj1sfpdjVpQMVo64acAr"
-      },
-      "artists": [
-        {
-          "name": "Paul Downing",
-          "url": "https://open.spotify.com/artist/1d0NGjwQHbYRjnaCafcYMa"
-        },
-        {
-          "name": "Mark Allaway",
-          "url": "https://open.spotify.com/artist/0wEFD9x6OXt64oSnqwf4mc"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "That Funky Cat",
-      "url": "https://open.spotify.com/track/2TgatpWXEFVjh85YDIdjwT"
     },
     {
       "added_at": "2022-04-25 15:16:31",

@@ -1,12 +1,12 @@
 {
   "description": "You can dance or chill.",
-  "num_followers": 47808,
+  "num_followers": 47804,
   "original_name": "Dance Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZGIwNTZjNDQzNWU1YzI5NTcxMzNjMDRlMzljMjNkYTI5Y2QxOGVm",
+  "snapshot_id": "MCxkNGQwM2Q4MjIzMDEzOGNjZGJhNzE1YjhjNWYxZDMwN2Y2MzRhZTY2",
   "tracks": [
     {
       "added_at": "2024-02-07 14:43:04",
@@ -703,18 +703,18 @@
     {
       "added_at": "2024-02-07 14:43:04",
       "album": {
-        "name": "Thousand Lullabies",
-        "url": "https://open.spotify.com/album/2dItiBT8SSIoydzHmiIMBU"
+        "name": "Kids",
+        "url": "https://open.spotify.com/album/2MlZjUB8aDVyhWPwEXn99T"
       },
       "artists": [
         {
-          "name": "Dynoro",
-          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
+          "name": "Patrick Lite",
+          "url": "https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v"
         }
       ],
-      "duration_ms": 129573,
-      "name": "Thousand Lullabies",
-      "url": "https://open.spotify.com/track/4WRtXqu9TmvvwZ3bzdcCVQ"
+      "duration_ms": 141371,
+      "name": "Kids",
+      "url": "https://open.spotify.com/track/6xhDH3jLEKg6rpcImMLTXo"
     },
     {
       "added_at": "2024-02-07 14:43:04",
@@ -743,18 +743,18 @@
     {
       "added_at": "2024-02-07 14:43:04",
       "album": {
-        "name": "Kids",
-        "url": "https://open.spotify.com/album/2MlZjUB8aDVyhWPwEXn99T"
+        "name": "Thousand Lullabies",
+        "url": "https://open.spotify.com/album/2dItiBT8SSIoydzHmiIMBU"
       },
       "artists": [
         {
-          "name": "Patrick Lite",
-          "url": "https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v"
+          "name": "Dynoro",
+          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
         }
       ],
-      "duration_ms": 141371,
-      "name": "Kids",
-      "url": "https://open.spotify.com/track/6xhDH3jLEKg6rpcImMLTXo"
+      "duration_ms": 129573,
+      "name": "Thousand Lullabies",
+      "url": "https://open.spotify.com/track/4WRtXqu9TmvvwZ3bzdcCVQ"
     },
     {
       "added_at": "2024-02-07 14:43:04",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2024-02-07 14:43:04",
       "album": {
+        "name": "Miss You",
+        "url": "https://open.spotify.com/album/401BY5jGvGKB4xt7zomYRA"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Davidson",
+          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
+        }
+      ],
+      "duration_ms": 279960,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/2OrmvwrqfGH0C0I70w4SRZ"
+    },
+    {
+      "added_at": "2024-02-07 14:43:04",
+      "album": {
         "name": "Scent of Wood (Bound to Divide Remix)",
         "url": "https://open.spotify.com/album/3F5raVu3wkj29XJ8UKa9o3"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 167380,
       "name": "Eyes",
       "url": "https://open.spotify.com/track/2cVQVhgyRPzJusXAuklkWF"
-    },
-    {
-      "added_at": "2024-02-07 14:43:04",
-      "album": {
-        "name": "Miss You",
-        "url": "https://open.spotify.com/album/401BY5jGvGKB4xt7zomYRA"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Davidson",
-          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
-        }
-      ],
-      "duration_ms": 279960,
-      "name": "Miss You",
-      "url": "https://open.spotify.com/track/2OrmvwrqfGH0C0I70w4SRZ"
     },
     {
       "added_at": "2024-02-07 14:43:04",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2024-02-07 14:43:04",
       "album": {
+        "name": "Eagle",
+        "url": "https://open.spotify.com/album/4Crz6njLs2cLjs3OTdpzKs"
+      },
+      "artists": [
+        {
+          "name": "Mats Westbroek",
+          "url": "https://open.spotify.com/artist/22bQJrUFkEHoC4Srw85AuA"
+        }
+      ],
+      "duration_ms": 184994,
+      "name": "Eagle",
+      "url": "https://open.spotify.com/track/5Hvj61IXD0Y4MBGossQ2Zk"
+    },
+    {
+      "added_at": "2024-02-07 14:43:04",
+      "album": {
         "name": "MAGNETS",
         "url": "https://open.spotify.com/album/57aR8JKeYr0zS1foTbAexP"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 146129,
       "name": "MAGNETS",
       "url": "https://open.spotify.com/track/1DARVvN0RpBRhZpVal39VL"
-    },
-    {
-      "added_at": "2024-02-07 14:43:04",
-      "album": {
-        "name": "Eagle",
-        "url": "https://open.spotify.com/album/4Crz6njLs2cLjs3OTdpzKs"
-      },
-      "artists": [
-        {
-          "name": "Mats Westbroek",
-          "url": "https://open.spotify.com/artist/22bQJrUFkEHoC4Srw85AuA"
-        }
-      ],
-      "duration_ms": 184994,
-      "name": "Eagle",
-      "url": "https://open.spotify.com/track/5Hvj61IXD0Y4MBGossQ2Zk"
     },
     {
       "added_at": "2024-02-07 14:43:04",
@@ -1523,26 +1523,6 @@
     {
       "added_at": "2024-02-07 14:43:04",
       "album": {
-        "name": "Don't Hide",
-        "url": "https://open.spotify.com/album/2uY0MsQmoCLdCNcD7D9vkr"
-      },
-      "artists": [
-        {
-          "name": "SIQUE",
-          "url": "https://open.spotify.com/artist/5kI4yBIQJPlI00krjJ98NB"
-        },
-        {
-          "name": "Safe Wave",
-          "url": "https://open.spotify.com/artist/05odA2enUG7IgOm5SI9Oh6"
-        }
-      ],
-      "duration_ms": 135272,
-      "name": "Don't Hide",
-      "url": "https://open.spotify.com/track/51tISgVeWkKE3BhgGKQJ8w"
-    },
-    {
-      "added_at": "2024-02-07 14:43:04",
-      "album": {
         "name": "Lifetime",
         "url": "https://open.spotify.com/album/0MsW5Q0FuA617PpHZG0yaM"
       },
@@ -1559,6 +1539,26 @@
       "duration_ms": 154137,
       "name": "Lifetime",
       "url": "https://open.spotify.com/track/69R5HIAVF8zNVh4hVBafuO"
+    },
+    {
+      "added_at": "2024-02-07 14:43:04",
+      "album": {
+        "name": "Don't Hide",
+        "url": "https://open.spotify.com/album/2uY0MsQmoCLdCNcD7D9vkr"
+      },
+      "artists": [
+        {
+          "name": "SIQUE",
+          "url": "https://open.spotify.com/artist/5kI4yBIQJPlI00krjJ98NB"
+        },
+        {
+          "name": "Safe Wave",
+          "url": "https://open.spotify.com/artist/05odA2enUG7IgOm5SI9Oh6"
+        }
+      ],
+      "duration_ms": 135272,
+      "name": "Don't Hide",
+      "url": "https://open.spotify.com/track/51tISgVeWkKE3BhgGKQJ8w"
     }
   ],
   "unique_name": "Dance Chill",

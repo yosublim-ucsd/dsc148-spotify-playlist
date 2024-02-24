@@ -2,7 +2,7 @@
 
 ### [Légendes du Rock](https://open.spotify.com/playlist/37i9dQZF1DWXTHBOfJ8aI7)
 
-> Les plus grands classiques du rock\. Photo : Nirvana
+> Les plus grands classiques du rock\. Photo : Guns N' Roses
 
 84 songs - 5 hr 51 min
 

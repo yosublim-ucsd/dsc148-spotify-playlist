@@ -4,7 +4,7 @@
 
 > The biggest party hits of the 1990s\. Cover: Jennifer Lopez.
 
-347 songs - 23 hr 38 min
+348 songs - 23 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -336,7 +336,8 @@
 | [Welcome to Tomorrow \(Are You Ready?\)](https://open.spotify.com/track/4UHWtS08pDNTjDNhTvkEZV) | [SNAP!](https://open.spotify.com/artist/2FrKQPjJe4pVMZOgm0ESOx) | [Welcome to Tomorrow](https://open.spotify.com/album/7zdNyBIZ8gMTr1jsrRIAGR) | 4:16 | 2021-09-08 | 2022-07-29 |
 | [We’re Going to Ibiza!](https://open.spotify.com/track/3WWxgARaLzJ8cILPCVPyR6) | [Vengaboys](https://open.spotify.com/artist/0cwmNvclzPd8mQnoHuIksj) | [We're Going to Ibiza!](https://open.spotify.com/album/4TsoqAzILUF5Wj0pg3AQr0) | 3:37 | 2021-03-22 | 2022-07-29 |
 | [What Do I Have to Do?](https://open.spotify.com/track/5aA9LxvSu29arzhJ9Dit9Z) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Rhythm of Love](https://open.spotify.com/album/7ys9DH0Xjll3wlNduBv2p5) | 3:32 | 2021-09-08 | 2022-07-12 |
-| [What Is Love \- 7" Mix](https://open.spotify.com/track/2IHaGyfxNoFPLJnaEg4GTs) | [Haddaway](https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma) | [The Album](https://open.spotify.com/album/1LAx7yCVbGwskdnGDof8SC) | 4:30 | 2021-03-22 |  |
+| [What Is Love \(7" Mix\)](https://open.spotify.com/track/2bNFbu5KHnK1qCl0iNQMfP) | [Haddaway](https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma) | [The Album](https://open.spotify.com/album/36TbZt4tWOO8eSNcefOXp6) | 4:30 | 2022-10-11 |  |
+| [What Is Love \- 7" Mix](https://open.spotify.com/track/2IHaGyfxNoFPLJnaEg4GTs) | [Haddaway](https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma) | [The Album](https://open.spotify.com/album/1LAx7yCVbGwskdnGDof8SC) | 4:30 | 2021-03-22 | 2024-02-24 |
 | [What Is Love \- 7" Mix](https://open.spotify.com/track/3NvS0SxNWIPiAJoPWUpZzr) | [Haddaway](https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma) | [The Album 2nd Edition](https://open.spotify.com/album/7iJaLP2Wqt624nD3esC08f) | 4:30 | 2021-03-22 | 2022-07-29 |
 | [What Is Love \- 7" Mix](https://open.spotify.com/track/4PbApgNmRFlzxqKXambfg9) | [Haddaway](https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma) | [What Is Love \(The Mixes\)](https://open.spotify.com/album/5aseTRUdoRrJt9Dss2xPVW) | 4:30 | 2022-10-11 | 2022-11-14 |
 | [Wheel of Fortune](https://open.spotify.com/track/4I5WIQUCG630PniJcCwJtV) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm) | [Happy Nation](https://open.spotify.com/album/6cpOIdpPfGaazHsh5eYz0k) | 3:54 | 2021-09-08 | 2022-07-24 |

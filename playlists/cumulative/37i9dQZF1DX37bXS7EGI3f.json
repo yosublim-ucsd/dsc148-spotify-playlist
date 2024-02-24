@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-11-29",
-  "description": "Epic and melodic metal. Cover: Within Temptation",
+  "description": "<a href=\"https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa?si=381ae84152fa4474\">Amaranthe</a> takes over our epic and melodic metal playlist, celebrating the release of \"The Catalyst.\"",
   "name": "Epic & Melodic",
   "tracks": [
     {
@@ -92,6 +92,24 @@
       "duration_ms": 181280,
       "name": "5-HTP",
       "url": "https://open.spotify.com/track/3H8cRqHxtvG5tlMXEdxLr1"
+    },
+    {
+      "album": {
+        "name": "82nd All the Way",
+        "url": "https://open.spotify.com/album/3HCUmVHEIhTnDdQjdf60gb"
+      },
+      "artists": [
+        {
+          "name": "Amaranthe",
+          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201546,
+      "name": "82nd All the Way",
+      "url": "https://open.spotify.com/track/1GK39qL3zPowvvb0UpWGyQ"
     },
     {
       "album": {
@@ -609,6 +627,24 @@
     },
     {
       "album": {
+        "name": "Manifest",
+        "url": "https://open.spotify.com/album/0i8Xkm6i0Ej627KFK7GqJa"
+      },
+      "artists": [
+        {
+          "name": "Amaranthe",
+          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203373,
+      "name": "Archangel",
+      "url": "https://open.spotify.com/track/63aGgWIoGfl3wxykzje8eJ"
+    },
+    {
+      "album": {
         "name": "Arluck",
         "url": "https://open.spotify.com/album/7laP0vTVtVfAiome56zAwL"
       },
@@ -768,6 +804,24 @@
       "duration_ms": 288874,
       "name": "Avalanche",
       "url": "https://open.spotify.com/track/5hG3wzkrIvywVh9wHaY5Ce"
+    },
+    {
+      "album": {
+        "name": "Axes",
+        "url": "https://open.spotify.com/album/2KtjpfdPn3rNCoRTdhHGtv"
+      },
+      "artists": [
+        {
+          "name": "T\u00fdr",
+          "url": "https://open.spotify.com/artist/6TmGNPW2oDM5uaXBILozGa"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212493,
+      "name": "Axes",
+      "url": "https://open.spotify.com/track/5cMNQ2LmvEBTUL0ZKdxtPl"
     },
     {
       "album": {
@@ -1316,7 +1370,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 384066,
       "name": "Call of the North",
       "url": "https://open.spotify.com/track/4BS6jSRHgqNjL1eSlokBBd"
@@ -1554,7 +1608,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 271693,
       "name": "Cicada",
       "url": "https://open.spotify.com/track/28Npl9mDDanrITQV8NNe2A"
@@ -1822,10 +1876,28 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 212720,
       "name": "Damnation Flame",
       "url": "https://open.spotify.com/track/5x7t8dWhM47kvErscgZnhE"
+    },
+    {
+      "album": {
+        "name": "The Catalyst",
+        "url": "https://open.spotify.com/album/0Rfiyvva6juwbWHRApI5Hj"
+      },
+      "artists": [
+        {
+          "name": "Amaranthe",
+          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213666,
+      "name": "Damnation Flame",
+      "url": "https://open.spotify.com/track/3VZw8hjoUpHXg9k5jbzlcK"
     },
     {
       "album": {
@@ -2347,6 +2419,28 @@
     },
     {
       "album": {
+        "name": "Do or Die",
+        "url": "https://open.spotify.com/album/4otHqvojeryO5SNGgcThP8"
+      },
+      "artists": [
+        {
+          "name": "Amaranthe",
+          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
+        },
+        {
+          "name": "Angela Gossow",
+          "url": "https://open.spotify.com/artist/5TClu7BnUh8oXuBC5GiVLQ"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208146,
+      "name": "Do or Die",
+      "url": "https://open.spotify.com/track/5rBRCcqh5j2fWvB4HTbuqp"
+    },
+    {
+      "album": {
         "name": "Mioritual Healing",
         "url": "https://open.spotify.com/album/6dRjjg8Gm0dNFfBhJBVtYc"
       },
@@ -2460,6 +2554,24 @@
       "duration_ms": 250000,
       "name": "Drink with the Gods",
       "url": "https://open.spotify.com/track/03b3kwWJNx0QJUXVmG4WWk"
+    },
+    {
+      "album": {
+        "name": "MASSIVE ADDICTIVE",
+        "url": "https://open.spotify.com/album/4R9xcmJHM8qT20wf3meJLe"
+      },
+      "artists": [
+        {
+          "name": "Amaranthe",
+          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197866,
+      "name": "Drop Dead Cynical",
+      "url": "https://open.spotify.com/track/3X1usZ9bRwbyEjAnkLAJWO"
     },
     {
       "album": {
@@ -2582,7 +2694,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 191999,
       "name": "Empire",
       "url": "https://open.spotify.com/track/6oOZSrzBB2QTSRY3qoWaYy"
@@ -3126,7 +3238,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 224600,
       "name": "Fears Don't Matter",
       "url": "https://open.spotify.com/track/6gWMxaJw6PBE1Bw1lud6zm"
@@ -3202,6 +3314,24 @@
       "duration_ms": 375595,
       "name": "Fellows Of The Hammer",
       "url": "https://open.spotify.com/track/7CCuImUVT6t9M8VYWoDu32"
+    },
+    {
+      "album": {
+        "name": "Femmes Fatales",
+        "url": "https://open.spotify.com/album/3fFk32pP90tlCnDvDhdY85"
+      },
+      "artists": [
+        {
+          "name": "Exit Eden",
+          "url": "https://open.spotify.com/artist/3h9p6ezLoqYJ0viEfqGE4j"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285226,
+      "name": "Femme Fatale",
+      "url": "https://open.spotify.com/track/4XmejrQR5ZU1qTa8Mo1GSg"
     },
     {
       "album": {
@@ -3931,6 +4061,24 @@
     },
     {
       "album": {
+        "name": "HELIX",
+        "url": "https://open.spotify.com/album/1ahaJDVWamBPImLRWpqWiX"
+      },
+      "artists": [
+        {
+          "name": "Amaranthe",
+          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215146,
+      "name": "Helix",
+      "url": "https://open.spotify.com/track/7DtUZPirn8tYihfKmuqYhe"
+    },
+    {
+      "album": {
         "name": "Here We Stand",
         "url": "https://open.spotify.com/album/47tmMof0okT3jCJteSF1rR"
       },
@@ -3942,7 +4090,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 248026,
       "name": "Here We Stand",
       "url": "https://open.spotify.com/track/3PMyqW85Gvncxxup60MIie"
@@ -4347,6 +4495,24 @@
     },
     {
       "album": {
+        "name": "The Catalyst",
+        "url": "https://open.spotify.com/album/0Rfiyvva6juwbWHRApI5Hj"
+      },
+      "artists": [
+        {
+          "name": "Amaranthe",
+          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179360,
+      "name": "Insatiable",
+      "url": "https://open.spotify.com/track/3Ps4E6U1OgnpSbPay4HFoJ"
+    },
+    {
+      "album": {
         "name": "Interrogativa Cantilena",
         "url": "https://open.spotify.com/album/5DAq7mFDpXPw7dKZDKfetl"
       },
@@ -4478,7 +4644,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 196636,
       "name": "Juokse Sin\u00e4 Humma",
       "url": "https://open.spotify.com/track/0VuiLKm86hsS2DLDM2UVia"
@@ -5501,6 +5667,24 @@
     },
     {
       "album": {
+        "name": "Queen of Shadow",
+        "url": "https://open.spotify.com/album/0Zn0cFk7LKXL6R5M9bXDku"
+      },
+      "artists": [
+        {
+          "name": "Delain",
+          "url": "https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247349,
+      "name": "Moth to a Flame",
+      "url": "https://open.spotify.com/track/3nRzfRi5pdXe2aA9rbE0S8"
+    },
+    {
+      "album": {
         "name": "Music (Edit)",
         "url": "https://open.spotify.com/album/74yf9InZ3uUBOLYKpIrk93"
       },
@@ -5624,7 +5808,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 182479,
       "name": "My Shadow Self",
       "url": "https://open.spotify.com/track/2gjvBpoGUgSkym7J391chE"
@@ -6068,7 +6252,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 286525,
       "name": "Not All Those Who Wander Are Lost",
       "url": "https://open.spotify.com/track/3BllrsBQnKlfb4rNDcllkt"
@@ -6086,7 +6270,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 378549,
       "name": "Now Is the Time",
       "url": "https://open.spotify.com/track/0H0g6Rk2E39yNF9ShYj9z0"
@@ -6411,6 +6595,24 @@
     },
     {
       "album": {
+        "name": "The Catalyst",
+        "url": "https://open.spotify.com/album/0Rfiyvva6juwbWHRApI5Hj"
+      },
+      "artists": [
+        {
+          "name": "Amaranthe",
+          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185266,
+      "name": "Outer Dimensions",
+      "url": "https://open.spotify.com/track/2cTj4pAJNev8vcJQCoGuQb"
+    },
+    {
+      "album": {
         "name": "Over the Horizon Radar",
         "url": "https://open.spotify.com/album/5UOB2GpihCJHEQ30DSnkss"
       },
@@ -6422,7 +6624,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 323990,
       "name": "Over the Horizon Radar",
       "url": "https://open.spotify.com/track/5GMCA2bj9tyiRzMfqpsMzy"
@@ -6728,7 +6930,7 @@
       ],
       "date_added": "2021-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 179093,
       "name": "PvP",
       "url": "https://open.spotify.com/track/46HFTyFqLMzSye98Arqa98"
@@ -6855,6 +7057,24 @@
     },
     {
       "album": {
+        "name": "The Catalyst",
+        "url": "https://open.spotify.com/album/0Rfiyvva6juwbWHRApI5Hj"
+      },
+      "artists": [
+        {
+          "name": "Amaranthe",
+          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184546,
+      "name": "Re-Vision",
+      "url": "https://open.spotify.com/track/450nTCIFJLFG6M9bxDohJP"
+    },
+    {
+      "album": {
         "name": "Re-Vision",
         "url": "https://open.spotify.com/album/3cZYVDFa2tUQUif0YxklQG"
       },
@@ -6866,7 +7086,7 @@
       ],
       "date_added": "2024-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 184546,
       "name": "Re-Vision",
       "url": "https://open.spotify.com/track/7oH5PloCvUrTxcaRBgsZBa"
@@ -6884,7 +7104,7 @@
       ],
       "date_added": "2024-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 298964,
       "name": "Realm of Dark Waves",
       "url": "https://open.spotify.com/track/47MYLg3TjfPm1lgDyOdCy2"
@@ -7176,6 +7396,32 @@
       "duration_ms": 257734,
       "name": "Rip & Tear",
       "url": "https://open.spotify.com/track/5soMJpcVhSrGrB4prvPL6P"
+    },
+    {
+      "album": {
+        "name": "Rise Again",
+        "url": "https://open.spotify.com/album/1ulDYQdIKg3n94VO85Z2ZZ"
+      },
+      "artists": [
+        {
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+        },
+        {
+          "name": "Epica",
+          "url": "https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp"
+        },
+        {
+          "name": "Simone Simons",
+          "url": "https://open.spotify.com/artist/5Mbm3otSC2eWtbfbwOBgw4"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319984,
+      "name": "Rise Again",
+      "url": "https://open.spotify.com/track/5xro8nNwHvY070Dk8OGIG2"
     },
     {
       "album": {
@@ -8135,6 +8381,24 @@
     },
     {
       "album": {
+        "name": "Tales from the North",
+        "url": "https://open.spotify.com/album/2oFRy2lPJVJ9wiOxaVRXsg"
+      },
+      "artists": [
+        {
+          "name": "Bloodbound",
+          "url": "https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339000,
+      "name": "Tales from the North",
+      "url": "https://open.spotify.com/track/2h1nhjGCI0otQYmkp0f4gw"
+    },
+    {
+      "album": {
         "name": "Target Acquired (feat. Megan McDuffee)",
         "url": "https://open.spotify.com/album/2V5RiMu96qwpW0dDY0LDXt"
       },
@@ -8284,7 +8548,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 271486,
       "name": "The Bell",
       "url": "https://open.spotify.com/track/1g2eSCd9S2onJcfJxAcS71"
@@ -8310,6 +8574,24 @@
       "duration_ms": 254972,
       "name": "The Call of the Mountains",
       "url": "https://open.spotify.com/track/5P22hTnPNDK7LbAD6k7syp"
+    },
+    {
+      "album": {
+        "name": "The Catalyst",
+        "url": "https://open.spotify.com/album/0Rfiyvva6juwbWHRApI5Hj"
+      },
+      "artists": [
+        {
+          "name": "Amaranthe",
+          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220893,
+      "name": "The Catalyst",
+      "url": "https://open.spotify.com/track/4UGvNbuucQ1mCf3tiq7ZuQ"
     },
     {
       "album": {
@@ -8350,7 +8632,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 298124,
       "name": "The Endless Shore",
       "url": "https://open.spotify.com/track/1MmecgkGmAS0dpJtF0k4Is"
@@ -8416,6 +8698,28 @@
       "duration_ms": 185884,
       "name": "The Fire and the Sinner",
       "url": "https://open.spotify.com/track/7n5VVe0Sya3ZeM3DcZqvs5"
+    },
+    {
+      "album": {
+        "name": "The Four Horsemen (feat. Robert Trujillo)",
+        "url": "https://open.spotify.com/album/0NLcGZRqxmMlgCZqjNMKKw"
+      },
+      "artists": [
+        {
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+        },
+        {
+          "name": "Robert Trujillo",
+          "url": "https://open.spotify.com/artist/3rROvEsUJJ9y55g1PLaA16"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286117,
+      "name": "The Four Horsemen (feat. Robert Trujillo)",
+      "url": "https://open.spotify.com/track/5tZHAwrNbJEA0o7jK2nilG"
     },
     {
       "album": {
@@ -8506,7 +8810,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 267240,
       "name": "The Hanging Tree",
       "url": "https://open.spotify.com/track/1VkIiifhcYok0aujKKYCHZ"
@@ -8708,6 +9012,24 @@
       "duration_ms": 283877,
       "name": "The Longing",
       "url": "https://open.spotify.com/track/6nLAVYh5wKwASkNoYVNSNi"
+    },
+    {
+      "album": {
+        "name": "The Nexus",
+        "url": "https://open.spotify.com/album/6HURHOREgzRB1e00Uu99ki"
+      },
+      "artists": [
+        {
+          "name": "Amaranthe",
+          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196053,
+      "name": "The Nexus",
+      "url": "https://open.spotify.com/track/3cSJXlpx1lAP8vGAh8mEXB"
     },
     {
       "album": {
@@ -9066,7 +9388,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 426160,
       "name": "Time Machine (feat. Kai Hansen & Piet Sielck)",
       "url": "https://open.spotify.com/track/14hdSZI7inU3zrfhRutzDA"
@@ -9536,10 +9858,28 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 286540,
       "name": "Victorious Dinogods",
       "url": "https://open.spotify.com/track/3OgXzA0isNtksoVjTgHRPf"
+    },
+    {
+      "album": {
+        "name": "Manifest",
+        "url": "https://open.spotify.com/album/0i8Xkm6i0Ej627KFK7GqJa"
+      },
+      "artists": [
+        {
+          "name": "Amaranthe",
+          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181200,
+      "name": "Viral",
+      "url": "https://open.spotify.com/track/23nQ0OXajph2n9yzYjP7Hs"
     },
     {
       "album": {
@@ -9670,7 +10010,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 259068,
       "name": "Warning Sign",
       "url": "https://open.spotify.com/track/5VnkSM5gqh2wfkoqb0H3wZ"

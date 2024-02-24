@@ -255,6 +255,28 @@
     },
     {
       "album": {
+        "name": "Nordic Stew",
+        "url": "https://open.spotify.com/album/7x9SRDVdvEk4RhPynFkKyY"
+      },
+      "artists": [
+        {
+          "name": "Timo Lassy",
+          "url": "https://open.spotify.com/artist/12DkoR4cqoY6osVYHmsrAq"
+        },
+        {
+          "name": "Jukka Eskola",
+          "url": "https://open.spotify.com/artist/1XkMHQpWReEHMCLatUl0St"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301893,
+      "name": "At Leroy's",
+      "url": "https://open.spotify.com/track/5P9AzOae0KiwY4mF2424XR"
+    },
+    {
+      "album": {
         "name": "Aurinko",
         "url": "https://open.spotify.com/album/0jxJ3dubcZ3DTV0JdsBYHm"
       },
@@ -716,7 +738,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 358946,
       "name": "Cross-Atlantic Connection",
       "url": "https://open.spotify.com/track/7jkmwQVtug8tB9RzPMY6pH"
@@ -948,7 +970,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 341600,
       "name": "E and Two M's",
       "url": "https://open.spotify.com/track/3ZF0G9dITv2X9JxiAqkgbE"
@@ -1992,7 +2014,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 271840,
       "name": "Long Walk",
       "url": "https://open.spotify.com/track/0a2FbI03OXqueoEoVI5vdJ"
@@ -2326,6 +2348,40 @@
       "duration_ms": 271133,
       "name": "Never Call You By Yours (Mother)",
       "url": "https://open.spotify.com/track/6H26Mm9CIMrCfJI2jAUb15"
+    },
+    {
+      "album": {
+        "name": "Next Morning",
+        "url": "https://open.spotify.com/album/6SYu2Unf3DNAS8AVhqETcG"
+      },
+      "artists": [
+        {
+          "name": "Pasilians",
+          "url": "https://open.spotify.com/artist/7zSpcpgQ6nuYkUprUyKPuF"
+        },
+        {
+          "name": "Sami Leponiemi",
+          "url": "https://open.spotify.com/artist/5B0mj0AddmNVtt03xhfNJa"
+        },
+        {
+          "name": "Peter Gyarfas",
+          "url": "https://open.spotify.com/artist/71JSIhDvAIyoDOIRjffcZq"
+        },
+        {
+          "name": "Nathan Francis",
+          "url": "https://open.spotify.com/artist/4dB51YWbPAWssQkEe9DiUc"
+        },
+        {
+          "name": "Aleksi Heinola",
+          "url": "https://open.spotify.com/artist/5YghcykRpkLlLQYJgIQHh2"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329474,
+      "name": "Next Morning",
+      "url": "https://open.spotify.com/track/3QKLMZS4ILTPeYYOe9RuUH"
     },
     {
       "album": {
@@ -2863,6 +2919,28 @@
     },
     {
       "album": {
+        "name": "Round Midnight",
+        "url": "https://open.spotify.com/album/4NepFUlHASISmO4P7KVAj9"
+      },
+      "artists": [
+        {
+          "name": "Simon Zion",
+          "url": "https://open.spotify.com/artist/3qrNawSjdfCiAaTHmo5UOb"
+        },
+        {
+          "name": "Ville Luukkonen Trio",
+          "url": "https://open.spotify.com/artist/1GEqXst78kpxeGlfaWAJZr"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342586,
+      "name": "Round Midnight",
+      "url": "https://open.spotify.com/track/0gyHPSc26NDtQejC4Q2ynm"
+    },
+    {
+      "album": {
         "name": "Saami Rights",
         "url": "https://open.spotify.com/album/2J9YdrWUDPck5CxKBXs92d"
       },
@@ -3231,6 +3309,24 @@
     },
     {
       "album": {
+        "name": "Spooky Twist",
+        "url": "https://open.spotify.com/album/7q2yvYuP89VpxzLjfqoVKC"
+      },
+      "artists": [
+        {
+          "name": "Dalind\u00e9o",
+          "url": "https://open.spotify.com/artist/7wL8J7vW907NA5aRTAJmbp"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254000,
+      "name": "Spooky Twist",
+      "url": "https://open.spotify.com/track/7gqlx5FDb7QZorZfXFlX5j"
+    },
+    {
+      "album": {
         "name": "Jazz Noir",
         "url": "https://open.spotify.com/album/0npOnrkaxOXKdFZ8FusvQ4"
       },
@@ -3525,6 +3621,24 @@
     },
     {
       "album": {
+        "name": "tiet\u00e4isit vaan",
+        "url": "https://open.spotify.com/album/4879ibzCLZ2gC87CwfKKCB"
+      },
+      "artists": [
+        {
+          "name": "touko",
+          "url": "https://open.spotify.com/artist/2COU1tbZyozjUeGWBc1zn9"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252826,
+      "name": "tiet\u00e4isit vaan",
+      "url": "https://open.spotify.com/track/5X9L245qdalFinGKzfIb1C"
+    },
+    {
+      "album": {
         "name": "Time's Up",
         "url": "https://open.spotify.com/album/1YWqNNUthr7skfCHUpHv4P"
       },
@@ -3726,6 +3840,28 @@
       "duration_ms": 347000,
       "name": "Turn Again Hourglass",
       "url": "https://open.spotify.com/track/56DziRNCM7W4oerJ0uuAG6"
+    },
+    {
+      "album": {
+        "name": "Runoja rauhalle (Poems for Peace)",
+        "url": "https://open.spotify.com/album/1xxwZokHP27IAA1y0EbvnK"
+      },
+      "artists": [
+        {
+          "name": "Joakim Bergh\u00e4ll",
+          "url": "https://open.spotify.com/artist/6WflLUp4wE1JvcKmIdmg9O"
+        },
+        {
+          "name": "Adele Sauros",
+          "url": "https://open.spotify.com/artist/58tRYc5aVpaZl6PmnRusI3"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229867,
+      "name": "Two Kids A Day",
+      "url": "https://open.spotify.com/track/0Y6ydDHos0BlEofX7AX93O"
     },
     {
       "album": {

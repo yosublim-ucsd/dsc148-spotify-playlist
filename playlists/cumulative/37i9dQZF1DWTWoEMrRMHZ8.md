@@ -4,7 +4,7 @@
 
 > As belas novidades da MPB\. Foto: Marisa Monte
 
-617 songs - 1 day 12 hr 28 min
+618 songs - 1 day 12 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -471,7 +471,8 @@
 | [Recomeçar](https://open.spotify.com/track/6P6zhkwgm7HkHVmS1mmUU3) | [Ana Muller](https://open.spotify.com/artist/7L1Xcga52ld20VEmDzE6Hz) | [Recomeçar](https://open.spotify.com/album/46asbbZHNML69kC917bAcY) | 3:48 | 2022-02-11 | 2022-03-10 |
 | [Rede](https://open.spotify.com/track/0OUA65qtlofrsqORgEyFfm) | [Beatriz Azevedo](https://open.spotify.com/artist/4fIGoIA5oaJn3HorAEQFNG), [Moreno Veloso](https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK), [Jaques Morelenbaum](https://open.spotify.com/artist/5QdS83aNvQzKgj43VTdY8d), [Marcelo Costa](https://open.spotify.com/artist/1tTqJwIDhSkWuFsME8jaro) | [Rede](https://open.spotify.com/album/0biZWdi0dF9hagXtS2eeCp) | 3:21 | 2022-06-17 | 2022-08-12 |
 | [Redentor](https://open.spotify.com/track/2MJ3pgIHIvkyUEfBwujt5A) | [Márcio Moreira](https://open.spotify.com/artist/2B05TksdlRPIiOgu0wl8Kg) | [REpartir](https://open.spotify.com/album/6soRYDHQ3faDbRa5guIDI1) | 3:02 | 2022-11-11 | 2022-11-26 |
-| [Redescobrir](https://open.spotify.com/track/5reRLMr3vjzCCpZZmZ63eC) | [Bruna Caram](https://open.spotify.com/artist/3pSMpWqJo6X3uImKekyupo), [Zé Renato](https://open.spotify.com/artist/4qKsdS2IGIfnj00bQRP2mL) | [Redescobrir](https://open.spotify.com/album/42cmmfuVuaLEHUbQzbqsWU) | 3:27 | 2023-04-28 |  |
+| [Redescobrir](https://open.spotify.com/track/5reRLMr3vjzCCpZZmZ63eC) | [Bruna Caram](https://open.spotify.com/artist/3pSMpWqJo6X3uImKekyupo), [Zé Renato](https://open.spotify.com/artist/4qKsdS2IGIfnj00bQRP2mL) | [Redescobrir](https://open.spotify.com/album/42cmmfuVuaLEHUbQzbqsWU) | 3:27 | 2023-04-28 | 2024-02-24 |
+| [Redescobrir](https://open.spotify.com/track/6535UwR6A0VkwXqnrDJgG9) | [Bruna Caram](https://open.spotify.com/artist/3pSMpWqJo6X3uImKekyupo), [Zé Renato](https://open.spotify.com/artist/4qKsdS2IGIfnj00bQRP2mL) | [Afeto e Luta \- Bruna Caram Canta Gonzaguinha](https://open.spotify.com/album/0Jac5fEWIbZz4YvVsa3SVs) | 3:27 | 2024-01-19 |  |
 | [Refloresta](https://open.spotify.com/track/2PRZmq8lVyBQFa4wB11cpt) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr), [Bem Gil](https://open.spotify.com/artist/74PRTFBL3UJS9uiZXGzWrc), [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [Refloresta](https://open.spotify.com/album/3SRmOxbfpPww7f8xqzooFi) | 3:17 | 2021-12-24 | 2022-07-23 |
 | [Regra Três](https://open.spotify.com/track/31P41KIR8XuaRnBw0IMswD) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y), [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [Novas Cores, Eternas Canções \(Deluxe\)](https://open.spotify.com/album/7nowUNu0pHcEL9qK24CfRR) | 2:45 | 2023-07-21 |  |
 | [Regra Três](https://open.spotify.com/track/7Lk11taa1HND86DbUk1zB5) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y), [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [Regra Três](https://open.spotify.com/album/5wMyRe196Z2c34iHVFpGis) | 2:45 | 2023-03-11 | 2023-07-22 |

@@ -4,7 +4,7 @@
 
 > ¡Mujeres de los Andes, a todo volumen! En portada Juliana.
 
-277 songs - 15 hr 15 min
+278 songs - 15 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Corazón Ruidoso](https://open.spotify.com/track/2tfzdblmcuXHAcEAEeYD9d) | [Bella Álvarez](https://open.spotify.com/artist/6dqfuonDrw9UdawWJIAGjs) | [Corazón Ruidoso](https://open.spotify.com/album/21M2BIe7zTSPUVYbTSrvtS) | 3:17 | 2022-03-04 | 2023-03-04 |
 | [COREO \# 2](https://open.spotify.com/track/1V9IPUC0M3KvCE8woMsAQr) | [Valeria Sandoval](https://open.spotify.com/artist/51fdZdVcBwjviXCMKgbklL), [La Gabi](https://open.spotify.com/artist/3WsE5ectfizV81CnVMkbbi) | [COREO \# 2](https://open.spotify.com/album/70wQiLgM2vrSvrOQhSmVFe) | 1:51 | 2023-11-21 |  |
 | [Cuando Te Encuentre](https://open.spotify.com/track/19HWNXdno7mRCF6ILlkgdV) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Cuando Te Encuentre](https://open.spotify.com/album/3dz9ty3Lcdeyjef5IUd4GC) | 2:56 | 2023-08-02 | 2023-09-22 |
-| [Cubeta](https://open.spotify.com/track/1JDoIz8IWcNubVpKW2hXIR) | [Mayte Montero](https://open.spotify.com/artist/2Z3ytThcszxwnP0nR6ZafC) | [Cubeta](https://open.spotify.com/album/2pTRMkCYKcwVilF1OkC9il) | 3:40 | 2022-01-05 |  |
+| [Cubeta](https://open.spotify.com/track/1JDoIz8IWcNubVpKW2hXIR) | [Mayte Montero](https://open.spotify.com/artist/2Z3ytThcszxwnP0nR6ZafC) | [Cubeta](https://open.spotify.com/album/2pTRMkCYKcwVilF1OkC9il) | 3:40 | 2022-01-05 | 2024-02-24 |
 | [Cumbiecitas Elegantes](https://open.spotify.com/track/37kpcwVIrLW1i6bz8XAshq) | [Diana Burco](https://open.spotify.com/artist/5Ne3ltocafq0vUn1nlbr3i), [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Cumbiecitas Elegantes](https://open.spotify.com/album/7e8anfI4t2UBQPZADp4Rkq) | 2:47 | 2023-08-04 |  |
 | [Curarte](https://open.spotify.com/track/0Xrzd6jUgpqfyjWjMBwZ7Q) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Un Koala En Una Palmera](https://open.spotify.com/album/1u0Ow9pOdTQuHjOz2nzcOM) | 3:03 | 2023-12-01 |  |
 | [Curarte](https://open.spotify.com/track/2zB5K2Ywzi9eOhj2KbsDZ4) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Un Koala En Una Palmera](https://open.spotify.com/album/3ZAYuvF9D2gG3Qflm4Ps4U) | 3:03 | 2023-01-04 | 2023-12-14 |
@@ -127,6 +127,7 @@
 | [IGUAL](https://open.spotify.com/track/3FMJBg2c0tysqTmlUkgqD3) | [Lee Eye](https://open.spotify.com/artist/1XQ6We9YHmRoIoD9rE9KBX) | [IGUAL](https://open.spotify.com/album/63NWY5CKtm0L7sHb395qf9) | 3:36 | 2023-05-26 | 2023-06-21 |
 | [Imágenes](https://open.spotify.com/track/53JvAzn6rIzHFkAE4MnMQO) | [Adriana Lucia](https://open.spotify.com/artist/5u4ozdMUTJLCJPYkFVoy0o) | [Imágenes](https://open.spotify.com/album/6EMkMek4awK6MwOeazX9Z7) | 5:00 | 2023-08-11 | 2023-11-02 |
 | [ingenuamente, Vol\. 2](https://open.spotify.com/track/33hL3bl4exUdpylZ4JhV6f) | [Daniela Arredondo](https://open.spotify.com/artist/0HyOOT0sKxLVRVRNwN8stq) | [ingenuamente, Vol\. 2](https://open.spotify.com/album/1u98MqINJAVWsVqmxi7eEI) | 2:26 | 2023-11-24 |  |
+| [Insomnia](https://open.spotify.com/track/2D9sGe5S3nrpYONLZhPTnS) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Insomnia](https://open.spotify.com/album/1eEYZevP2PuMIB3CfbUXLA) | 2:09 | 2024-02-23 |  |
 | [Invasión Costeña](https://open.spotify.com/track/4fuJAsFHJLQbapuIJh3Yys) | [Cynthia Montaño](https://open.spotify.com/artist/0ZmLQD0JMILG9pXpHLTfaw) | [Invasión Costeña](https://open.spotify.com/album/2KsCCBWv278m3g0T79GwkA) | 4:31 | 2022-01-05 | 2023-06-08 |
 | [kunai](https://open.spotify.com/track/3k5F4Vn3Nq6rNF5YSww3MO) | [Naïa Valdez](https://open.spotify.com/artist/1WE5kYBn5jgJyzXroKVktA) | [kunai](https://open.spotify.com/album/7hTt5gR7X0HZ6YeoFglPmX) | 2:09 | 2023-11-01 | 2023-12-02 |
 | [La América Que Se Olvida](https://open.spotify.com/track/0AGZs1EHZGQWsgECcEXPyr) | [Renata Flores](https://open.spotify.com/artist/3TZtFZu2rmUnoE0kr8QxdT) | [La América Que Se Olvida](https://open.spotify.com/album/6ORkGUSMv5j55oFy90JxzV) | 3:06 | 2023-07-06 |  |

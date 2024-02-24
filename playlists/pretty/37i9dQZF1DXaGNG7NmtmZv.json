@@ -1,29 +1,13 @@
 {
   "description": "Classic songs from the legends of the hardcore scene.",
-  "num_followers": 209943,
+  "num_followers": 210025,
   "original_name": "Classic Hardcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYWI4MTQwNjJmMGNmZDhiOTZiMjc2NDAxMDM2NjM3Y2UyMTFlYzBh",
+  "snapshot_id": "MCxmYTBkYWNkMGQ3ZTFiYmRhNDdjZDJjNzJjNjcxYjgzNTZhYzYxMmYx",
   "tracks": [
-    {
-      "added_at": "2024-02-07 16:33:52",
-      "album": {
-        "name": "Something's Gotta Give",
-        "url": "https://open.spotify.com/album/41VrNLnQFFvhhga4iURHNQ"
-      },
-      "artists": [
-        {
-          "name": "Agnostic Front",
-          "url": "https://open.spotify.com/artist/3zDvanHxaETiHltPkKKYhT"
-        }
-      ],
-      "duration_ms": 214666,
-      "name": "Gotta Go",
-      "url": "https://open.spotify.com/track/4cMbAP64BETo4dBW8GUwYD"
-    },
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 197226,
       "name": "Wake The Dead",
       "url": "https://open.spotify.com/track/58U3KUbCdpTEoZtGNnQBOa"
+    },
+    {
+      "added_at": "2024-02-07 16:33:52",
+      "album": {
+        "name": "Something's Gotta Give",
+        "url": "https://open.spotify.com/album/41VrNLnQFFvhhga4iURHNQ"
+      },
+      "artists": [
+        {
+          "name": "Agnostic Front",
+          "url": "https://open.spotify.com/artist/3zDvanHxaETiHltPkKKYhT"
+        }
+      ],
+      "duration_ms": 214666,
+      "name": "Gotta Go",
+      "url": "https://open.spotify.com/track/4cMbAP64BETo4dBW8GUwYD"
     },
     {
       "added_at": "2024-02-07 16:33:52",
@@ -139,22 +139,6 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
-        "name": "Warriors (Tour Edition)",
-        "url": "https://open.spotify.com/album/5WmhGmiqWgPRmuuAVP7cCP"
-      },
-      "artists": [
-        {
-          "name": "Agnostic Front",
-          "url": "https://open.spotify.com/artist/3zDvanHxaETiHltPkKKYhT"
-        }
-      ],
-      "duration_ms": 142586,
-      "name": "For My Family",
-      "url": "https://open.spotify.com/track/4Y4fGklrIKERF6TixxvLQi"
-    },
-    {
-      "added_at": "2024-02-07 16:33:52",
-      "album": {
         "name": "Set It Off",
         "url": "https://open.spotify.com/album/13DHqlzDQfKsvJc69fkElW"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 206093,
       "name": "Set It Off",
       "url": "https://open.spotify.com/track/165wS8DOyhHPiNgB8vlfsE"
+    },
+    {
+      "added_at": "2024-02-07 16:33:52",
+      "album": {
+        "name": "Warriors (Tour Edition)",
+        "url": "https://open.spotify.com/album/5WmhGmiqWgPRmuuAVP7cCP"
+      },
+      "artists": [
+        {
+          "name": "Agnostic Front",
+          "url": "https://open.spotify.com/artist/3zDvanHxaETiHltPkKKYhT"
+        }
+      ],
+      "duration_ms": 142586,
+      "name": "For My Family",
+      "url": "https://open.spotify.com/track/4Y4fGklrIKERF6TixxvLQi"
     },
     {
       "added_at": "2024-02-07 16:33:52",
@@ -231,6 +231,22 @@
       "duration_ms": 165720,
       "name": "Scratch the Surface",
       "url": "https://open.spotify.com/track/6yzoLxsBLiEqyB7zpAcJnX"
+    },
+    {
+      "added_at": "2024-02-07 16:33:52",
+      "album": {
+        "name": "Set It Off",
+        "url": "https://open.spotify.com/album/13DHqlzDQfKsvJc69fkElW"
+      },
+      "artists": [
+        {
+          "name": "Madball",
+          "url": "https://open.spotify.com/artist/1qh6ppVtiFTKMyta0NXsjf"
+        }
+      ],
+      "duration_ms": 121706,
+      "name": "New York City",
+      "url": "https://open.spotify.com/track/2YL1QdU29cFAHrijICeiWA"
     },
     {
       "added_at": "2024-02-07 16:33:52",
@@ -315,22 +331,6 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
-        "name": "Set It Off",
-        "url": "https://open.spotify.com/album/13DHqlzDQfKsvJc69fkElW"
-      },
-      "artists": [
-        {
-          "name": "Madball",
-          "url": "https://open.spotify.com/artist/1qh6ppVtiFTKMyta0NXsjf"
-        }
-      ],
-      "duration_ms": 121706,
-      "name": "New York City",
-      "url": "https://open.spotify.com/track/2YL1QdU29cFAHrijICeiWA"
-    },
-    {
-      "added_at": "2024-02-07 16:33:52",
-      "album": {
         "name": "Check Your People",
         "url": "https://open.spotify.com/album/0kFn5JKSC76NteLv33NyVe"
       },
@@ -411,22 +411,6 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
-        "name": "Silence Is Betrayal",
-        "url": "https://open.spotify.com/album/7tIMZsN8CNgmkgA5zFulUv"
-      },
-      "artists": [
-        {
-          "name": "First Blood",
-          "url": "https://open.spotify.com/artist/4z2rZXnFuTCl75Vpb26Eg0"
-        }
-      ],
-      "duration_ms": 53168,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/2rf23PCJH09ZAc8eq4yL1B"
-    },
-    {
-      "added_at": "2024-02-07 16:33:52",
-      "album": {
         "name": "This Is Just the Beginning",
         "url": "https://open.spotify.com/album/7dQvyMUCPrvgLNmvjvC7C4"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 96053,
       "name": "Can't Take It Away",
       "url": "https://open.spotify.com/track/1oBPEkzGxFXHQvF5RfFws2"
+    },
+    {
+      "added_at": "2024-02-07 16:33:52",
+      "album": {
+        "name": "Silence Is Betrayal",
+        "url": "https://open.spotify.com/album/7tIMZsN8CNgmkgA5zFulUv"
+      },
+      "artists": [
+        {
+          "name": "First Blood",
+          "url": "https://open.spotify.com/artist/4z2rZXnFuTCl75Vpb26Eg0"
+        }
+      ],
+      "duration_ms": 53168,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/2rf23PCJH09ZAc8eq4yL1B"
     },
     {
       "added_at": "2024-02-07 16:33:52",
@@ -635,6 +635,22 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
+        "name": "Merciless",
+        "url": "https://open.spotify.com/album/6JmRIhTDgoZG1fy8UahchU"
+      },
+      "artists": [
+        {
+          "name": "Most Precious Blood",
+          "url": "https://open.spotify.com/artist/0znKUm4tIhX5cGPnynkrMu"
+        }
+      ],
+      "duration_ms": 220453,
+      "name": "Shark Ethic",
+      "url": "https://open.spotify.com/track/7lWpl0id3QSafkh4rCBCJR"
+    },
+    {
+      "added_at": "2024-02-07 16:33:52",
+      "album": {
         "name": "Ugly",
         "url": "https://open.spotify.com/album/0DfwAJXDy8TzMgRuPNsjkc"
       },
@@ -667,34 +683,18 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
-        "name": "Merciless",
-        "url": "https://open.spotify.com/album/6JmRIhTDgoZG1fy8UahchU"
+        "name": "For Those Who Were Crucified",
+        "url": "https://open.spotify.com/album/5N0Ufg2dKqaXwwdNnbID7m"
       },
       "artists": [
         {
-          "name": "Most Precious Blood",
-          "url": "https://open.spotify.com/artist/0znKUm4tIhX5cGPnynkrMu"
+          "name": "All Out War",
+          "url": "https://open.spotify.com/artist/34jZDyPFvvXhL4YeBICAiV"
         }
       ],
-      "duration_ms": 220453,
-      "name": "Shark Ethic",
-      "url": "https://open.spotify.com/track/7lWpl0id3QSafkh4rCBCJR"
-    },
-    {
-      "added_at": "2024-02-07 16:33:52",
-      "album": {
-        "name": "Break Down The Walls",
-        "url": "https://open.spotify.com/album/37Mj1nYiNbbpOXYACvQPJX"
-      },
-      "artists": [
-        {
-          "name": "Youth Of Today",
-          "url": "https://open.spotify.com/artist/0DbBwI2dpYty5Tl7bdSIjL"
-        }
-      ],
-      "duration_ms": 100800,
-      "name": "Take a Stand",
-      "url": "https://open.spotify.com/track/2pyFrdfsP9c5ElbXv3m4OQ"
+      "duration_ms": 116173,
+      "name": "Burning Season",
+      "url": "https://open.spotify.com/track/5h55QONg24me5Vw4JMYlaJ"
     },
     {
       "added_at": "2024-02-07 16:33:52",
@@ -715,18 +715,18 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
-        "name": "For Those Who Were Crucified",
-        "url": "https://open.spotify.com/album/5N0Ufg2dKqaXwwdNnbID7m"
+        "name": "Break Down The Walls",
+        "url": "https://open.spotify.com/album/37Mj1nYiNbbpOXYACvQPJX"
       },
       "artists": [
         {
-          "name": "All Out War",
-          "url": "https://open.spotify.com/artist/34jZDyPFvvXhL4YeBICAiV"
+          "name": "Youth Of Today",
+          "url": "https://open.spotify.com/artist/0DbBwI2dpYty5Tl7bdSIjL"
         }
       ],
-      "duration_ms": 116173,
-      "name": "Burning Season",
-      "url": "https://open.spotify.com/track/5h55QONg24me5Vw4JMYlaJ"
+      "duration_ms": 100800,
+      "name": "Take a Stand",
+      "url": "https://open.spotify.com/track/2pyFrdfsP9c5ElbXv3m4OQ"
     },
     {
       "added_at": "2024-02-07 16:33:52",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
-        "name": "Cognicide",
-        "url": "https://open.spotify.com/album/1GQrz6GLWJ9WNijMQH4MzH"
-      },
-      "artists": [
-        {
-          "name": "Western Addiction",
-          "url": "https://open.spotify.com/artist/7xnD2Codf7FyLxsqPh8CIA"
-        }
-      ],
-      "duration_ms": 97266,
-      "name": "Mailer, Meet Jim",
-      "url": "https://open.spotify.com/track/0jxUbJ6Yoj74NqXuOTkI6a"
-    },
-    {
-      "added_at": "2024-02-07 16:33:52",
-      "album": {
         "name": "Count Me In",
         "url": "https://open.spotify.com/album/6qDsZxas2r5Ye6EmHk8Wnv"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 181226,
       "name": "Break Through It All",
       "url": "https://open.spotify.com/track/4WN54cERPExpnOs1adL5nB"
+    },
+    {
+      "added_at": "2024-02-07 16:33:52",
+      "album": {
+        "name": "Cognicide",
+        "url": "https://open.spotify.com/album/1GQrz6GLWJ9WNijMQH4MzH"
+      },
+      "artists": [
+        {
+          "name": "Western Addiction",
+          "url": "https://open.spotify.com/artist/7xnD2Codf7FyLxsqPh8CIA"
+        }
+      ],
+      "duration_ms": 97266,
+      "name": "Mailer, Meet Jim",
+      "url": "https://open.spotify.com/track/0jxUbJ6Yoj74NqXuOTkI6a"
     }
   ],
   "unique_name": "Classic Hardcore",

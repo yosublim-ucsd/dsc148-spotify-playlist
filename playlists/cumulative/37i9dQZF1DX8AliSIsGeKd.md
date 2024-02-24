@@ -4,7 +4,7 @@
 
 > The best new electronic music\. Cover: Booka Shade
 
-3,126 songs - 11 day 12 hr 41 min
+3,127 songs - 11 day 12 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3133,6 +3133,7 @@
 | [Zodiac](https://open.spotify.com/track/1yZBuUYcA0Ug7Y7ImNdhwt) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Zodiac](https://open.spotify.com/album/6dylMlHC16SU924l7a6UGV) | 5:42 | 2023-05-11 | 2023-06-02 |
 | [Águila Vuela](https://open.spotify.com/track/7aXrG73Gaol5K7pJwyY2yf) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m), [Meta\_](https://open.spotify.com/artist/4b2jMQx1533SIiypVXVJ8J) | [Águila Vuela](https://open.spotify.com/album/2ea6IQF8ALW452y6Jdi8Ai) | 6:52 | 2023-08-25 | 2023-09-15 |
 | [Ærð](https://open.spotify.com/track/7umxOb75H1SG3lD1rSnL98) | [Janus Rasmussen](https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA) | [Slóð](https://open.spotify.com/album/46n72BqbvCbmDDMPzZTzpS) | 6:24 | 2022-09-22 | 2022-10-07 |
-| [泡 \(Abuku\)](https://open.spotify.com/track/0siPj5cESD9OJfd9EImJln) | [Wata Igarashi](https://open.spotify.com/artist/7ug2B8FOnKHqwtVlD9vrQX) | [Flares\|泡 \(Abuku\)](https://open.spotify.com/album/7JgThj37KZbitRCvScaIwS) | 6:14 | 2024-02-22 |  |
+| [泡 \(Abuku\)](https://open.spotify.com/track/0siPj5cESD9OJfd9EImJln) | [Wata Igarashi](https://open.spotify.com/artist/7ug2B8FOnKHqwtVlD9vrQX) | [Flares\|泡 \(Abuku\)](https://open.spotify.com/album/7JgThj37KZbitRCvScaIwS) | 6:14 | 2024-02-22 | 2024-02-24 |
+| [泡 \(Abuku\)](https://open.spotify.com/track/1z77pvpNqiJoMACcS7YRAg) | [Wata Igarashi](https://open.spotify.com/artist/7ug2B8FOnKHqwtVlD9vrQX) | [Flares \| 泡 \(Abuku\)](https://open.spotify.com/album/73wyb3gGxMXyN77Z031K20) | 6:14 | 2024-02-22 |  |
 
 \*This playlist was first scraped on 2022-04-20. Prior content cannot be recovered.

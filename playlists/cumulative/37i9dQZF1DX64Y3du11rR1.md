@@ -4,7 +4,7 @@
 
 > Acoustic covers of sad songs.
 
-200 songs - 11 hr 22 min
+201 songs - 11 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,5 +208,6 @@
 | [you broke me first](https://open.spotify.com/track/0KAFjeQ6jpmtKP4CW9m5X6) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [you broke me first](https://open.spotify.com/album/0xo6qHMKN7rvr49SAV9imz) | 3:10 | 2022-08-12 | 2023-02-18 |
 | [You Found Me \- Acoustic Version](https://open.spotify.com/track/4CPl20KparXZVf8UZd410n) | [VDVM](https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4) | [You Found Me \- Acoustic Version](https://open.spotify.com/album/6XW6nHMYq02FA5hRJpRUNN) | 4:19 | 2023-01-04 | 2023-06-03 |
 | [You Should Probably Leave](https://open.spotify.com/track/1prVTg8CTVuD9vSkCyYKd5) | [Haroula Rose](https://open.spotify.com/artist/7AhCTepWX7n4dQFh3Ro3YG) | [You Should Probably Leave](https://open.spotify.com/album/6TCGUGBCzeVZ1hAWQmpdyM) | 4:06 | 2022-05-04 |  |
+| [You're Losing Me](https://open.spotify.com/track/5ScpcdugUeOQTbVxYCBiuy) | [Kody Ternes](https://open.spotify.com/artist/3kcZRvJW10HzHleumOMgTc) | [You're Losing Me](https://open.spotify.com/album/4jFe1w3b0ovGoiXjJ3lL7i) | 3:20 | 2024-02-23 |  |
 
 \*This playlist was first scraped on 2021-12-30. Prior content cannot be recovered.

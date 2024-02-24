@@ -1,5 +1,5 @@
 {
-  "2024-02-23": 487911,
+  "2024-02-24": 488277,
   "date_first_scraped": "2022-04-20",
   "description": "Big rooms and big sounds. Cover: Maddix",
   "name": "Big Room Dance",
@@ -2603,6 +2603,32 @@
       "duration_ms": 189004,
       "name": "Founding Fathers",
       "url": "https://open.spotify.com/track/0XvtB7JNbIvWaQGVAy8amP"
+    },
+    {
+      "album": {
+        "name": "Free Your Mind",
+        "url": "https://open.spotify.com/album/1FbAfWQnHAYS6FdWkgnqr1"
+      },
+      "artists": [
+        {
+          "name": "Stylo",
+          "url": "https://open.spotify.com/artist/0e8a2RTD02fJ5lmCBOR7DI"
+        },
+        {
+          "name": "Space Motion",
+          "url": "https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY"
+        },
+        {
+          "name": "Ruben de Ronde",
+          "url": "https://open.spotify.com/artist/3q7BRw9D1DupXTONJdr94m"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223548,
+      "name": "Free Your Mind",
+      "url": "https://open.spotify.com/track/6gk0Zohmm4H6wjpzNZNk4X"
     },
     {
       "album": {
@@ -6209,7 +6235,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 161250,
       "name": "Rave Train",
       "url": "https://open.spotify.com/track/5q5yF4cekhSFdsGFvKpIqA"
@@ -7139,7 +7165,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 233587,
       "name": "Spirits",
       "url": "https://open.spotify.com/track/7gApd1GU1it6ZpTMU1Xa2T"
@@ -8517,6 +8543,28 @@
       "duration_ms": 181896,
       "name": "We Are Here Now",
       "url": "https://open.spotify.com/track/4UVuGgYk3qlAfR8DGH30C4"
+    },
+    {
+      "album": {
+        "name": "We Are One (feat. Bryn Christopher)",
+        "url": "https://open.spotify.com/album/3rrJdd0PtwPwsweuuNUJaJ"
+      },
+      "artists": [
+        {
+          "name": "3 Are Legend",
+          "url": "https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II"
+        },
+        {
+          "name": "Bryn Christopher",
+          "url": "https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202916,
+      "name": "We Are One (feat. Bryn Christopher)",
+      "url": "https://open.spotify.com/track/2yy8PDe1d2TnWQYjjhvMke"
     },
     {
       "album": {

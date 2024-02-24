@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 
 > Check out the emerging independent tracks from these Telugu Artists!! Cover : Sravana Bhargavi
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,976 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,984 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 | 12 | [Pilla](https://open.spotify.com/track/1kdDZJYtoHHt4kq3BDo7D1) | [CNU beats](https://open.spotify.com/artist/5yV7QlgvvrXkNL1HBYcqZb), [R Kaushal](https://open.spotify.com/artist/7CpF1CcWVJHWToGCHMJpy2), [P Akshaya](https://open.spotify.com/artist/4JBpL56kk5zIodOONetywo), [MC Rahul Raj](https://open.spotify.com/artist/3LbutWO2ZRAHC2W5pQ3piG) | [Pilla](https://open.spotify.com/album/4yzhPDSzzUvrtcex919xy1) | 3:45 |
 | 13 | [My Dear Manohari](https://open.spotify.com/track/7Dh6ndqN64dZFRYGuBvo82) | [P.L Naidu](https://open.spotify.com/artist/00bXZCUqYETc603nuULtBK) | [My Dear Manohari](https://open.spotify.com/album/51n5LmZmLI0aNEK4P1Yiax) | 4:00 |
 | 14 | [Choopultho](https://open.spotify.com/track/37G3Mabw6o250OpJX24vTp) | [Ashwamedha Karthik](https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2) | [Choopultho](https://open.spotify.com/album/55Ik0PjSYOhVnb7yfyV1Rk) | 2:13 |
-| 15 | [Eruvaka Sagalantey](https://open.spotify.com/track/5kMC9Aqzxn5NPCsFqNezIM) | [Pavan Cherukumilli](https://open.spotify.com/artist/29aXKnUQ2PdTgNstCIsHGo), [Sai Charan](https://open.spotify.com/artist/32rgf5uvf7GtEPjrHyJ6uU) | [Eruvaka Sagalantey](https://open.spotify.com/album/04iY4I4kLfrytTgH362Axn) | 2:47 |
+| 15 | [Eruvaka Sagalantey](https://open.spotify.com/track/5kMC9Aqzxn5NPCsFqNezIM) | [Pavan Cherukumilli](https://open.spotify.com/artist/29aXKnUQ2PdTgNstCIsHGo), [Saicharan Bhaskaruni](https://open.spotify.com/artist/32rgf5uvf7GtEPjrHyJ6uU) | [Eruvaka Sagalantey](https://open.spotify.com/album/04iY4I4kLfrytTgH362Axn) | 2:47 |
 | 16 | [Chilaka](https://open.spotify.com/track/1twQpI67lgEWZvKf8HObSK) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx), [Lakshmi Meghana](https://open.spotify.com/artist/50bnXBdKRT1GbiWGKS0YhN) | [Chilaka](https://open.spotify.com/album/1FmqOLK6uViRA2ciMZFGPd) | 6:06 |
 | 17 | [Mounam](https://open.spotify.com/track/1OKlwdTKmEmwN2ETdJRa0H) | [Gershom Penugula](https://open.spotify.com/artist/1X1xyTwRLksTzUnLzWvN3K), [Akshita Manthina](https://open.spotify.com/artist/1GEqfOP0cVdwqoqJWYOXdq) | [Mounam](https://open.spotify.com/album/3Swoe45Oou7qyXqBL2xVRC) | 4:22 |
 | 18 | [Endukala \(Lovers No More\)](https://open.spotify.com/track/6WavcWZXgeh0cvGvkh5tS6) | [Alluri](https://open.spotify.com/artist/1MJd59IWbIWtj6CdlJhWG8) | [O Katha](https://open.spotify.com/album/4mj1O1w8H5TjhoYWzyKxYC) | 3:25 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 | 74 | [Vennela](https://open.spotify.com/track/0sDIs50Evxlou7oIfo9i2J) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx), [Sindhuja Srinivasan](https://open.spotify.com/artist/1vB0Gi450P8znsVn6J5sjm), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm) | [Vennela](https://open.spotify.com/album/0wxINclZIEYCp1avSxtB3t) | 5:24 |
 | 75 | [Neeve](https://open.spotify.com/track/5NObORkzAytZ9tmAyGXaRP) | [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX) | [Neeve](https://open.spotify.com/album/2m9VqOtsGbywuyl4QXp32V) | 5:07 |
 
-Snapshot ID: `MCwzMzE5Njg0ZTdkM2U3MmYwZWFhNDcxYmFmMmRjYWRlMzhkZDQ4ODA2`
+Snapshot ID: `MCxiYWU3NWUxNzE4MjUzNDIwY2RmYzYyOTI1NzZjM2U3ZTJjOTI3NDQ4`

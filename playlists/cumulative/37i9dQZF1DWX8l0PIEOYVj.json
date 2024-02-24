@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-14",
-  "description": "Future & melodic bass. Cover: MitiS",
+  "description": "Future & melodic bass. Cover: Crystal Skies",
   "name": "Bass Lounge",
   "tracks": [
     {
@@ -78,7 +78,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 206390,
       "name": "A Mere Blip In Your Timeline",
       "url": "https://open.spotify.com/track/6MSNsf4mGsh1vvoRgQu3zG"
@@ -1740,6 +1740,28 @@
       "duration_ms": 213542,
       "name": "Coming Back To You",
       "url": "https://open.spotify.com/track/0eNZW0bb7bogNXoXwcJ0is"
+    },
+    {
+      "album": {
+        "name": "Interlinked",
+        "url": "https://open.spotify.com/album/6wGM1xzErctTeqEVU2U6mN"
+      },
+      "artists": [
+        {
+          "name": "Cyazon",
+          "url": "https://open.spotify.com/artist/7yiGQoPOHVrr5LGKf5VwP8"
+        },
+        {
+          "name": "Donna Tella",
+          "url": "https://open.spotify.com/artist/39czNpwEAe5tGKIE53XDmm"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227837,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/607eyF0WjJRoZazfOOHHhh"
     },
     {
       "album": {
@@ -3698,10 +3720,32 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 269623,
       "name": "Forgive You Anyway",
       "url": "https://open.spotify.com/track/5NpVwsN4IvmWUzWdn22ILw"
+    },
+    {
+      "album": {
+        "name": "Fractured",
+        "url": "https://open.spotify.com/album/2vP3k930v2hVicSds8R1SD"
+      },
+      "artists": [
+        {
+          "name": "OBLVYN",
+          "url": "https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF"
+        },
+        {
+          "name": "Roseanna",
+          "url": "https://open.spotify.com/artist/3dEerTuAiYw5ZgMEtlTM5s"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208500,
+      "name": "Fractured",
+      "url": "https://open.spotify.com/track/6rii9bS2qLDh8ZxiaDmO82"
     },
     {
       "album": {
@@ -4450,6 +4494,28 @@
       "duration_ms": 198857,
       "name": "Hallowed",
       "url": "https://open.spotify.com/track/1mCuubKYj4wx69lWrSPmkW"
+    },
+    {
+      "album": {
+        "name": "Happier By Now",
+        "url": "https://open.spotify.com/album/61WvoZ2SDiN5PpxPbkOcov"
+      },
+      "artists": [
+        {
+          "name": "Kai Wachi",
+          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
+        },
+        {
+          "name": "L\u00f8 Spirit",
+          "url": "https://open.spotify.com/artist/7cImXesjInq0e25gQLHWoV"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227210,
+      "name": "Happier By Now",
+      "url": "https://open.spotify.com/track/0qq33nVMNHelvjRGhTKPVH"
     },
     {
       "album": {
@@ -7563,6 +7629,28 @@
     },
     {
       "album": {
+        "name": "Stardust",
+        "url": "https://open.spotify.com/album/6bnBZsz7uOiJBgvNZNuHPT"
+      },
+      "artists": [
+        {
+          "name": "Crystal Skies",
+          "url": "https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK"
+        },
+        {
+          "name": "Luxtides",
+          "url": "https://open.spotify.com/artist/22bKgyDEmDgPhvSBYklJBe"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Other Side",
+      "url": "https://open.spotify.com/track/5fSCgdPiucneXsFbGfmvax"
+    },
+    {
+      "album": {
         "name": "ILLENIUM",
         "url": "https://open.spotify.com/album/0ValflNlWce21wm5PlwV60"
       },
@@ -8088,7 +8176,7 @@
       ],
       "date_added": "2022-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 214400,
       "name": "Remedy",
       "url": "https://open.spotify.com/track/3IMxBkCxIa44z7qUTdZKWV"
@@ -10748,7 +10836,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 183013,
       "name": "Whisper",
       "url": "https://open.spotify.com/track/1YlWCasPU6Kdv147UaOOXJ"

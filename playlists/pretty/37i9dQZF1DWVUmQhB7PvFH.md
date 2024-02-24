@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUmQhB7PvFH.md) - [plain]
 
 > 千禧後第一個十年，讓我們藉著旋律回味...Cover: 蔡健雅 \(Tanya Chua\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,998 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,039 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUmQhB7PvFH.md) - [plain]
 | 49 | [進行式](https://open.spotify.com/track/7ynuV9Ktrjr0RrsVCPAnbz) | [Elva Hsiao](https://open.spotify.com/artist/6yTAPw3o7oDH7lhj34jvbH), [Tiger Hu](https://open.spotify.com/artist/3PpIzdLny8HwTnKp9joXdj) | [愛上愛](https://open.spotify.com/album/4SayrMbBrtB9LuNBRxXaTx) | 4:20 |
 | 50 | [愛我還是他](https://open.spotify.com/track/13bw75oRjvxMv9VGIeM32i) | [David Tao](https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB) | [太平盛世](https://open.spotify.com/album/1XnDRFsNxG12nZPRXNcPkU) | 4:52 |
 
-Snapshot ID: `MCxmZGQxMjAzMWNmNDAwMWI2YjlmN2E0YTU2YzVlNTMwMzUyMzYzMmIy`
+Snapshot ID: `MCxiZDhlZTNhMDY5MzUyZTcyZGRjOGIyZjQzZmU3ODQ1NTMyYzg5OTg0`

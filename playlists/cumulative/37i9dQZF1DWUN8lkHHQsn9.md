@@ -4,7 +4,7 @@
 
 > Bądź sobą ✨ Posłuchaj głosu polskich artystów LGBTQIA+\. Cover: <a href="spotify:artist:0e06gUDSCntc3X6v8mL6kk">Kamil Kowalski</a>
 
-178 songs - 10 hr 5 min
+179 songs - 10 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Przypadki](https://open.spotify.com/track/2fPkzFLaLi7ejMidEakhw2) | [Zawadzki](https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt) | [Przypadki](https://open.spotify.com/album/3zTSTlliW1LwlJTQHvBuCG) | 3:10 | 2021-06-22 |  |
 | [Reach](https://open.spotify.com/track/5Qh5dgVlsM9wAC8CczAq3G) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh) | [Reach](https://open.spotify.com/album/4qfKKvcWUcxJLsw1CcRfiy) | 3:38 | 2023-01-24 | 2023-07-11 |
 | [Red Flag](https://open.spotify.com/track/7CaxmQCb4APvMLQaVJhCTR) | [Kamil Kempiński](https://open.spotify.com/artist/4GUR4UKtbNQiAV2h5qV2df) | [Red Flag](https://open.spotify.com/album/5ogmBRaKh9KkVRZycRnP1u) | 2:48 | 2022-06-01 |  |
+| [Reżyser](https://open.spotify.com/track/57ncBsP6ntAniZygJhDVDl) | [Filip Sterne](https://open.spotify.com/artist/1UIsVRTEON2C0CmFKGnmOw) | [Reżyser](https://open.spotify.com/album/5JdAFKD7E59vMwZQLJQaSd) | 2:58 | 2024-02-12 |  |
 | [Rojava](https://open.spotify.com/track/1JFGEjYNN1gUHBXWuwsATW) | [MICUŁA](https://open.spotify.com/artist/7GHCUyKOaUg7OE6l4pOpai) | [Rojava](https://open.spotify.com/album/1xHgpZuHmlOATKtuOIsT0L) | 4:27 | 2022-06-01 |  |
 | [romantyzuję przeszłość](https://open.spotify.com/track/70LuJ7rdBQQlDBzzfIcC2f) | [RAF](https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk) | [romantyzuję przeszłość](https://open.spotify.com/album/20IlKsdw4YrL4eMXqnZj9W) | 3:08 | 2024-02-12 |  |
 | [Ręce w udręce](https://open.spotify.com/track/4dEpsV9Rw64eVKe0ERUIsK) | [thekayetan](https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP) | [Dla nas dom](https://open.spotify.com/album/6Rl3OmxvkuIQ4PBE9d5fNf) | 4:10 | 2021-06-22 | 2023-07-11 |
@@ -158,7 +159,7 @@
 | [Suka jak Ja](https://open.spotify.com/track/4VYuEsq0d7fjYBQyyCqP8d) | [Sylvia Baudelaire](https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF) | [Dziewczynka Tatusia](https://open.spotify.com/album/7F65SLLOJ5pCc7liw3dQHJ) | 3:10 | 2022-07-22 | 2023-01-19 |
 | [Suka jak Ja](https://open.spotify.com/track/4ycrPLMf7MzGM2x1N2LIfG) | [Sylvia Baudelaire](https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF) | [Suka jak Ja](https://open.spotify.com/album/3IddZSA2Lrgfs1ruhbzSFD) | 3:10 | 2022-06-01 | 2023-01-20 |
 | [Suka jak Ja](https://open.spotify.com/track/7j8UcJ1pQBWHiGadelcYH5) | [Sylvia Baudelaire](https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF) | [Dziewczynka Tatusia](https://open.spotify.com/album/0rHwKAVgJQJxBIzH3dSL7B) | 3:10 | 2022-07-22 | 2023-09-12 |
-| [Super](https://open.spotify.com/track/3TZlCnbC6q8JGH3TCCjBKB) | [Vipera](https://open.spotify.com/artist/4vCaa5Di1yZpfsdowt4l48) | [Remedium](https://open.spotify.com/album/72fMYKTiaytD7nrFykKlDS) | 3:20 | 2023-11-13 |  |
+| [Super](https://open.spotify.com/track/3TZlCnbC6q8JGH3TCCjBKB) | [Vipera](https://open.spotify.com/artist/4vCaa5Di1yZpfsdowt4l48) | [Remedium](https://open.spotify.com/album/72fMYKTiaytD7nrFykKlDS) | 3:20 | 2023-11-13 | 2024-02-24 |
 | [Suwenir](https://open.spotify.com/track/4q2gmv1VIaI0a8i4AVjewe) | [sedguy](https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf) | [Suwenir](https://open.spotify.com/album/3WobIG2LjPmQcE2hbGJXRy) | 3:49 | 2022-06-01 | 2022-07-02 |
 | [Taką Polskę lubię nawet](https://open.spotify.com/track/6sQG5iHLckuLzX1unBIRD1) | [Cudowne Lata](https://open.spotify.com/artist/0e3JhHef9mrLSetLvdbJxf) | [Taką Polskę lubię nawet](https://open.spotify.com/album/72jTsjvMjNn2xH1Ye9T3ER) | 4:08 | 2022-06-13 |  |
 | [Tamto Lato](https://open.spotify.com/track/6EEZGOaQrpIA8ItnjkxfFc) | [NIEBØ](https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es) | [OLIMP](https://open.spotify.com/album/0jR9aLfNRm2xWo7ymsxOEb) | 3:12 | 2022-06-10 |  |

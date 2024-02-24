@@ -1,5 +1,5 @@
 {
-  "2024-02-23": 218375,
+  "2024-02-24": 218395,
   "date_first_scraped": "2022-03-24",
   "description": "Muito trap feito especialmente para os momentos mais sexys e quentes. [Conte\u00fado Expl\u00edcito]",
   "name": "TRAPando",
@@ -99,6 +99,32 @@
       "duration_ms": 201818,
       "name": "111",
       "url": "https://open.spotify.com/track/1KSl3fjYahx3NizZXO8jwE"
+    },
+    {
+      "album": {
+        "name": "123",
+        "url": "https://open.spotify.com/album/3pRZvBWwgcncxMB38qQNou"
+      },
+      "artists": [
+        {
+          "name": "Carla Sol",
+          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
+        },
+        {
+          "name": "Mel",
+          "url": "https://open.spotify.com/artist/5a5NeXda5Km8VQLSJQIa94"
+        },
+        {
+          "name": "Volp",
+          "url": "https://open.spotify.com/artist/6fFgNVTo4bxMf2eswaar7Z"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165106,
+      "name": "123",
+      "url": "https://open.spotify.com/track/6JfHhsaYmjHaqLd4ykzIKi"
     },
     {
       "album": {

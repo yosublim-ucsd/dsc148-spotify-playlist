@@ -531,6 +531,24 @@
     },
     {
       "album": {
+        "name": "Born At The Right Time",
+        "url": "https://open.spotify.com/album/3LRnF4dHzSpanoNzgY8THq"
+      },
+      "artists": [
+        {
+          "name": "Chris Roberts",
+          "url": "https://open.spotify.com/artist/0wrLBy1hHUUDMRjdL9xxGr"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288986,
+      "name": "Born At The Right Time",
+      "url": "https://open.spotify.com/track/4dR5U0ARtEkuIVI17zilxf"
+    },
+    {
+      "album": {
         "name": "Lizard Vision",
         "url": "https://open.spotify.com/album/39wW3gZkVGupQpLXw2ogs9"
       },

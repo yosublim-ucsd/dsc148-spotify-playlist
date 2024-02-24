@@ -1,12 +1,12 @@
 {
   "description": "The iconic songs celebrating love across the African continent from the 2000's to date",
-  "num_followers": 50221,
+  "num_followers": 50372,
   "original_name": "100 Best African Love Songs ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NWVjNTUxODY3NmVlNGQ2MDdlZjk1OGM1ODExYjNjNTdiYjM5OWFi",
+  "snapshot_id": "MCwzYTEyMDAzMDZkM2Y2ZDY3NjAzMzk1NDAwNjhkOWYzYjA2YTg4NGU2",
   "tracks": [
     {
       "added_at": "2024-02-13 07:43:01",
@@ -423,6 +423,22 @@
     {
       "added_at": "2024-02-13 07:43:01",
       "album": {
+        "name": "Elements",
+        "url": "https://open.spotify.com/album/4qe0NJuKzO5iWPv1aFl3l3"
+      },
+      "artists": [
+        {
+          "name": "Elaine",
+          "url": "https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx"
+        }
+      ],
+      "duration_ms": 200347,
+      "name": "You're the One",
+      "url": "https://open.spotify.com/track/4fxwbUSI6jF4XdnvCUVG97"
+    },
+    {
+      "added_at": "2024-02-13 07:43:01",
+      "album": {
         "name": "Ngimtholile",
         "url": "https://open.spotify.com/album/4QD2ETs2brilp1iVISIcNP"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 244062,
       "name": "Ngimtholile",
       "url": "https://open.spotify.com/track/4XQNZPkMyo1LxR3NYbVegt"
-    },
-    {
-      "added_at": "2024-02-13 07:43:01",
-      "album": {
-        "name": "Elements",
-        "url": "https://open.spotify.com/album/4qe0NJuKzO5iWPv1aFl3l3"
-      },
-      "artists": [
-        {
-          "name": "Elaine",
-          "url": "https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx"
-        }
-      ],
-      "duration_ms": 200347,
-      "name": "You're the One",
-      "url": "https://open.spotify.com/track/4fxwbUSI6jF4XdnvCUVG97"
     },
     {
       "added_at": "2024-02-13 07:43:01",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-02-13 07:43:01",
       "album": {
-        "name": "Alusa Why Are You Topless?",
-        "url": "https://open.spotify.com/album/1tqKgXiDjsilZpv3aLaEGm"
-      },
-      "artists": [
-        {
-          "name": "Bien",
-          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
-        }
-      ],
-      "duration_ms": 281860,
-      "name": "Chikwere",
-      "url": "https://open.spotify.com/track/11yZHrCVjzHX9j8wxmwGEu"
-    },
-    {
-      "added_at": "2024-02-13 07:43:01",
-      "album": {
         "name": "Hawataweza",
         "url": "https://open.spotify.com/album/5DS0VEV7sltoi329nDx1I0"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 234000,
       "name": "Hawataweza",
       "url": "https://open.spotify.com/track/4P94MmzUvIwY3Jc6X4mzN0"
+    },
+    {
+      "added_at": "2024-02-13 07:43:01",
+      "album": {
+        "name": "Alusa Why Are You Topless?",
+        "url": "https://open.spotify.com/album/1tqKgXiDjsilZpv3aLaEGm"
+      },
+      "artists": [
+        {
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
+        }
+      ],
+      "duration_ms": 281860,
+      "name": "Chikwere",
+      "url": "https://open.spotify.com/track/11yZHrCVjzHX9j8wxmwGEu"
     },
     {
       "added_at": "2024-02-13 07:43:01",
@@ -911,26 +911,6 @@
     {
       "added_at": "2024-02-13 07:43:01",
       "album": {
-        "name": "Sweet Sensation",
-        "url": "https://open.spotify.com/album/5rvGWT1H7j1qDjTQsLetPM"
-      },
-      "artists": [
-        {
-          "name": "Orezi",
-          "url": "https://open.spotify.com/artist/6voVBz1bN1mWZCLpNZGqzD"
-        },
-        {
-          "name": "Sheebah",
-          "url": "https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu"
-        }
-      ],
-      "duration_ms": 210651,
-      "name": "Sweet Sensation",
-      "url": "https://open.spotify.com/track/0XSE0EfkNkGtb6Bbhd0ae4"
-    },
-    {
-      "added_at": "2024-02-13 07:43:01",
-      "album": {
         "name": "Broken Lipstick",
         "url": "https://open.spotify.com/album/2X0MNKHlGm5L6UAaaTsabH"
       },
@@ -947,6 +927,26 @@
       "duration_ms": 313714,
       "name": "I Do (feat. Amanda Black)",
       "url": "https://open.spotify.com/track/4lIVnQXM5nBx3AmhsJ1KSA"
+    },
+    {
+      "added_at": "2024-02-13 07:43:01",
+      "album": {
+        "name": "Sweet Sensation",
+        "url": "https://open.spotify.com/album/5rvGWT1H7j1qDjTQsLetPM"
+      },
+      "artists": [
+        {
+          "name": "Orezi",
+          "url": "https://open.spotify.com/artist/6voVBz1bN1mWZCLpNZGqzD"
+        },
+        {
+          "name": "Sheebah",
+          "url": "https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu"
+        }
+      ],
+      "duration_ms": 210651,
+      "name": "Sweet Sensation",
+      "url": "https://open.spotify.com/track/0XSE0EfkNkGtb6Bbhd0ae4"
     },
     {
       "added_at": "2024-02-13 07:43:01",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2024-02-13 07:43:01",
       "album": {
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/7CgmZV26MGzBDifUie9PjE"
+      },
+      "artists": [
+        {
+          "name": "Kuami Eugene",
+          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
+        }
+      ],
+      "duration_ms": 187285,
+      "name": "Angela",
+      "url": "https://open.spotify.com/track/7HNCjHpGLQ0GO4Ea6DPdPq"
+    },
+    {
+      "added_at": "2024-02-13 07:43:01",
+      "album": {
         "name": "Imali",
         "url": "https://open.spotify.com/album/7z67WvNh1LJMAZHvR6T1vy"
       },
@@ -1139,18 +1155,18 @@
     {
       "added_at": "2024-02-13 07:43:01",
       "album": {
-        "name": "Rockstar",
-        "url": "https://open.spotify.com/album/7CgmZV26MGzBDifUie9PjE"
+        "name": "Naninina",
+        "url": "https://open.spotify.com/album/1VYIVNFWjLSvT8MhCqdstk"
       },
       "artists": [
         {
-          "name": "Kuami Eugene",
-          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
+          "name": "Vusi Nova",
+          "url": "https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8"
         }
       ],
-      "duration_ms": 187285,
-      "name": "Angela",
-      "url": "https://open.spotify.com/track/7HNCjHpGLQ0GO4Ea6DPdPq"
+      "duration_ms": 241813,
+      "name": "Thandiwe - R&B Version",
+      "url": "https://open.spotify.com/track/6bWraWLrdHShq4ExQRaEUk"
     },
     {
       "added_at": "2024-02-13 07:43:01",
@@ -1171,22 +1187,6 @@
     {
       "added_at": "2024-02-13 07:43:01",
       "album": {
-        "name": "Naninina",
-        "url": "https://open.spotify.com/album/1VYIVNFWjLSvT8MhCqdstk"
-      },
-      "artists": [
-        {
-          "name": "Vusi Nova",
-          "url": "https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8"
-        }
-      ],
-      "duration_ms": 241813,
-      "name": "Thandiwe - R&B Version",
-      "url": "https://open.spotify.com/track/6bWraWLrdHShq4ExQRaEUk"
-    },
-    {
-      "added_at": "2024-02-13 07:43:01",
-      "album": {
         "name": "Mr Serious",
         "url": "https://open.spotify.com/album/1Mp78edBGfz7wyNuBGdwwN"
       },
@@ -1199,6 +1199,22 @@
       "duration_ms": 293613,
       "name": "Mthande",
       "url": "https://open.spotify.com/track/3bW1gXFSmF4JCDYeu7Nzx4"
+    },
+    {
+      "added_at": "2024-02-13 07:43:01",
+      "album": {
+        "name": "Odo",
+        "url": "https://open.spotify.com/album/5vr0uK0k3M2o54r95AfPwo"
+      },
+      "artists": [
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        }
+      ],
+      "duration_ms": 186990,
+      "name": "Odo",
+      "url": "https://open.spotify.com/track/2vK93nwA5PNJVQa3OXeg5Y"
     },
     {
       "added_at": "2024-02-13 07:43:01",
@@ -1219,22 +1235,6 @@
       "duration_ms": 208721,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/2wmyzZUVCXLQTgJvFsh5ef"
-    },
-    {
-      "added_at": "2024-02-13 07:43:01",
-      "album": {
-        "name": "Odo",
-        "url": "https://open.spotify.com/album/5vr0uK0k3M2o54r95AfPwo"
-      },
-      "artists": [
-        {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
-        }
-      ],
-      "duration_ms": 186990,
-      "name": "Odo",
-      "url": "https://open.spotify.com/track/2vK93nwA5PNJVQa3OXeg5Y"
     },
     {
       "added_at": "2024-02-13 07:43:01",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-02-13 07:43:01",
       "album": {
-        "name": "Barua ya Dunia",
-        "url": "https://open.spotify.com/album/7fLPbISe7JY8c0O0huAL0Z"
-      },
-      "artists": [
-        {
-          "name": "Elani",
-          "url": "https://open.spotify.com/artist/7v4v8ZiBQC6HHeCuA2lQ26"
-        }
-      ],
-      "duration_ms": 254986,
-      "name": "Kookoo",
-      "url": "https://open.spotify.com/track/5T5BqyMPNjS6t7booTFulF"
-    },
-    {
-      "added_at": "2024-02-13 07:43:01",
-      "album": {
         "name": "Me Ne Woa",
         "url": "https://open.spotify.com/album/7bnH1nS04TKA0a54f7OLwi"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 220890,
       "name": "Me Ne Woa",
       "url": "https://open.spotify.com/track/4iKbFZqn3GWffFZGGrczpC"
+    },
+    {
+      "added_at": "2024-02-13 07:43:01",
+      "album": {
+        "name": "Barua ya Dunia",
+        "url": "https://open.spotify.com/album/7fLPbISe7JY8c0O0huAL0Z"
+      },
+      "artists": [
+        {
+          "name": "Elani",
+          "url": "https://open.spotify.com/artist/7v4v8ZiBQC6HHeCuA2lQ26"
+        }
+      ],
+      "duration_ms": 254986,
+      "name": "Kookoo",
+      "url": "https://open.spotify.com/track/5T5BqyMPNjS6t7booTFulF"
     },
     {
       "added_at": "2024-02-13 07:43:01",

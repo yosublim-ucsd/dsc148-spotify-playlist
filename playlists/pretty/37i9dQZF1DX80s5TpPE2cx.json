@@ -1,12 +1,12 @@
 {
   "description": "The songs that defined Nigeria's Alt\u00e9 era. Cover: Amaarae",
-  "num_followers": 8700,
+  "num_followers": 8720,
   "original_name": "Alt\u00e9 Classics ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MGYxZDg0OGQ1ZGRiZDU2NTlkNzU1NDEzYjFhNDY0YzU5NDJkYjQx",
+  "snapshot_id": "MCxkMzVlZjA0NWFmYjNlMmY5M2M0ZTFkYmQwODVjZWEyYzUwMTUyMjIz",
   "tracks": [
     {
       "added_at": "2024-02-15 16:22:36",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-02-15 16:22:36",
       "album": {
-        "name": "Maame Water",
-        "url": "https://open.spotify.com/album/1g5iCtBlXt5J7DtdDb6iCS"
-      },
-      "artists": [
-        {
-          "name": "Juma Mufasa",
-          "url": "https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs"
-        }
-      ],
-      "duration_ms": 179915,
-      "name": "Maame Water",
-      "url": "https://open.spotify.com/track/63jrtMT19fAZsOfEz0sdAU"
-    },
-    {
-      "added_at": "2024-02-15 16:22:36",
-      "album": {
         "name": "Leap of Faith",
         "url": "https://open.spotify.com/album/3uLsdCbIIo6hGgbsCmZOzl"
       },
@@ -783,18 +767,34 @@
     {
       "added_at": "2024-02-15 16:22:36",
       "album": {
-        "name": "First Signs Of Me",
-        "url": "https://open.spotify.com/album/2vIJ06C2k4jqCL4jT5ckfo"
+        "name": "Maame Water",
+        "url": "https://open.spotify.com/album/1g5iCtBlXt5J7DtdDb6iCS"
       },
       "artists": [
         {
-          "name": "Hamzaa",
-          "url": "https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs"
+          "name": "Juma Mufasa",
+          "url": "https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs"
         }
       ],
-      "duration_ms": 229653,
-      "name": "Breathing",
-      "url": "https://open.spotify.com/track/70Vi4xM9hhWhby2TH2IsGg"
+      "duration_ms": 179915,
+      "name": "Maame Water",
+      "url": "https://open.spotify.com/track/63jrtMT19fAZsOfEz0sdAU"
+    },
+    {
+      "added_at": "2024-02-15 16:22:36",
+      "album": {
+        "name": "Shaken",
+        "url": "https://open.spotify.com/album/2teAt8iFXCBkjdiEuNqJgF"
+      },
+      "artists": [
+        {
+          "name": "Tomi Thomas",
+          "url": "https://open.spotify.com/artist/1W6kAvOt2N7X3Rta12vPGR"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Shaken",
+      "url": "https://open.spotify.com/track/1MGQJITgxRkZITT6aqcqfo"
     },
     {
       "added_at": "2024-02-15 16:22:36",
@@ -835,18 +835,18 @@
     {
       "added_at": "2024-02-15 16:22:36",
       "album": {
-        "name": "Shaken",
-        "url": "https://open.spotify.com/album/2teAt8iFXCBkjdiEuNqJgF"
+        "name": "First Signs Of Me",
+        "url": "https://open.spotify.com/album/2vIJ06C2k4jqCL4jT5ckfo"
       },
       "artists": [
         {
-          "name": "Tomi Thomas",
-          "url": "https://open.spotify.com/artist/1W6kAvOt2N7X3Rta12vPGR"
+          "name": "Hamzaa",
+          "url": "https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs"
         }
       ],
-      "duration_ms": 213333,
-      "name": "Shaken",
-      "url": "https://open.spotify.com/track/1MGQJITgxRkZITT6aqcqfo"
+      "duration_ms": 229653,
+      "name": "Breathing",
+      "url": "https://open.spotify.com/track/70Vi4xM9hhWhby2TH2IsGg"
     },
     {
       "added_at": "2024-02-15 16:22:36",
@@ -863,6 +863,30 @@
       "duration_ms": 128450,
       "name": "Monica",
       "url": "https://open.spotify.com/track/1vVpnZRghHBbAWSKxDaBNZ"
+    },
+    {
+      "added_at": "2024-02-15 16:22:36",
+      "album": {
+        "name": "Leap of Faith",
+        "url": "https://open.spotify.com/album/3uLsdCbIIo6hGgbsCmZOzl"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Sona",
+          "url": "https://open.spotify.com/artist/2Z4SIKdYcugWq0fyvPpA7w"
+        },
+        {
+          "name": "Odunsi (The Engine)",
+          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
+        }
+      ],
+      "duration_ms": 259134,
+      "name": "My Wave",
+      "url": "https://open.spotify.com/track/7FbmKPvnVKpyd45jDsRhlF"
     },
     {
       "added_at": "2024-02-15 16:22:36",
@@ -899,6 +923,22 @@
     {
       "added_at": "2024-02-15 16:22:36",
       "album": {
+        "name": "Sunsets in Lagos",
+        "url": "https://open.spotify.com/album/3mbHTOgBQgcuOEjzdaAwgb"
+      },
+      "artists": [
+        {
+          "name": "Bella Alubo",
+          "url": "https://open.spotify.com/artist/4QorJVeBcR8p3rOveZtpSk"
+        }
+      ],
+      "duration_ms": 223896,
+      "name": "Aiya",
+      "url": "https://open.spotify.com/track/5pldaGwSTIgiNoJ5bOxSjT"
+    },
+    {
+      "added_at": "2024-02-15 16:22:36",
+      "album": {
         "name": "GEMINI",
         "url": "https://open.spotify.com/album/6Vj6WP5MosdtM023SqTAul"
       },
@@ -919,54 +959,6 @@
       "duration_ms": 193249,
       "name": "SPACE",
       "url": "https://open.spotify.com/track/2pdBq0lWsGjSiDP2T6NSZ0"
-    },
-    {
-      "added_at": "2024-02-15 16:22:36",
-      "album": {
-        "name": "Leap of Faith",
-        "url": "https://open.spotify.com/album/3uLsdCbIIo6hGgbsCmZOzl"
-      },
-      "artists": [
-        {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
-        },
-        {
-          "name": "Sona",
-          "url": "https://open.spotify.com/artist/2Z4SIKdYcugWq0fyvPpA7w"
-        },
-        {
-          "name": "Odunsi (The Engine)",
-          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
-        }
-      ],
-      "duration_ms": 259134,
-      "name": "My Wave",
-      "url": "https://open.spotify.com/track/7FbmKPvnVKpyd45jDsRhlF"
-    },
-    {
-      "added_at": "2024-02-15 16:22:36",
-      "album": {
-        "name": "Feel Alright",
-        "url": "https://open.spotify.com/album/2Cgvi847HBc0gsamKi0Do4"
-      },
-      "artists": [
-        {
-          "name": "Show Dem Camp",
-          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
-        },
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        },
-        {
-          "name": "Poe",
-          "url": "https://open.spotify.com/artist/2ll3lU5iepPghkEc9c6dK2"
-        }
-      ],
-      "duration_ms": 258263,
-      "name": "Feel Alright",
-      "url": "https://open.spotify.com/track/45oXGtNuG81jUcwmk73xLh"
     },
     {
       "added_at": "2024-02-15 16:22:36",
@@ -999,18 +991,26 @@
     {
       "added_at": "2024-02-15 16:22:36",
       "album": {
-        "name": "Sunsets in Lagos",
-        "url": "https://open.spotify.com/album/3mbHTOgBQgcuOEjzdaAwgb"
+        "name": "Feel Alright",
+        "url": "https://open.spotify.com/album/2Cgvi847HBc0gsamKi0Do4"
       },
       "artists": [
         {
-          "name": "Bella Alubo",
-          "url": "https://open.spotify.com/artist/4QorJVeBcR8p3rOveZtpSk"
+          "name": "Show Dem Camp",
+          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
+        },
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Poe",
+          "url": "https://open.spotify.com/artist/2ll3lU5iepPghkEc9c6dK2"
         }
       ],
-      "duration_ms": 223896,
-      "name": "Aiya",
-      "url": "https://open.spotify.com/track/5pldaGwSTIgiNoJ5bOxSjT"
+      "duration_ms": 258263,
+      "name": "Feel Alright",
+      "url": "https://open.spotify.com/track/45oXGtNuG81jUcwmk73xLh"
     },
     {
       "added_at": "2024-02-15 16:22:36",
@@ -1059,26 +1059,6 @@
     {
       "added_at": "2024-02-15 16:22:36",
       "album": {
-        "name": "Insert Project Name",
-        "url": "https://open.spotify.com/album/5tw4JeQu97XGzDiJpvY2iw"
-      },
-      "artists": [
-        {
-          "name": "AYL\u00d8",
-          "url": "https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd"
-        },
-        {
-          "name": "Amaa Rae",
-          "url": "https://open.spotify.com/artist/1JLo8ij9BW3sHVRnPhEOsR"
-        }
-      ],
-      "duration_ms": 205395,
-      "name": "Whoa!",
-      "url": "https://open.spotify.com/track/0Z5dUVtbpj84y3Bw59ks0P"
-    },
-    {
-      "added_at": "2024-02-15 16:22:36",
-      "album": {
         "name": "La Meme Tape",
         "url": "https://open.spotify.com/album/1Z1jf4jHbpESMcYcAZkzdT"
       },
@@ -1107,6 +1087,26 @@
     {
       "added_at": "2024-02-15 16:22:36",
       "album": {
+        "name": "Wuse II (feat. Odunsi)",
+        "url": "https://open.spotify.com/album/1DOkkzuEmitZrcmMX6ukkg"
+      },
+      "artists": [
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        },
+        {
+          "name": "Odunsi (The Engine)",
+          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
+        }
+      ],
+      "duration_ms": 269552,
+      "name": "Wuse II",
+      "url": "https://open.spotify.com/track/41yLugtcD4QVDjtPHrAgR1"
+    },
+    {
+      "added_at": "2024-02-15 16:22:36",
+      "album": {
         "name": "Smooth Criminal",
         "url": "https://open.spotify.com/album/6xe7n9n6eqrZprj2d8QGNE"
       },
@@ -1127,22 +1127,22 @@
     {
       "added_at": "2024-02-15 16:22:36",
       "album": {
-        "name": "Wuse II (feat. Odunsi)",
-        "url": "https://open.spotify.com/album/1DOkkzuEmitZrcmMX6ukkg"
+        "name": "Insert Project Name",
+        "url": "https://open.spotify.com/album/5tw4JeQu97XGzDiJpvY2iw"
       },
       "artists": [
         {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+          "name": "AYL\u00d8",
+          "url": "https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd"
         },
         {
-          "name": "Odunsi (The Engine)",
-          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
+          "name": "Amaa Rae",
+          "url": "https://open.spotify.com/artist/1JLo8ij9BW3sHVRnPhEOsR"
         }
       ],
-      "duration_ms": 269552,
-      "name": "Wuse II",
-      "url": "https://open.spotify.com/track/41yLugtcD4QVDjtPHrAgR1"
+      "duration_ms": 205395,
+      "name": "Whoa!",
+      "url": "https://open.spotify.com/track/0Z5dUVtbpj84y3Bw59ks0P"
     },
     {
       "added_at": "2024-02-15 16:22:36",

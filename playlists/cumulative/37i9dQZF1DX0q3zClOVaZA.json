@@ -679,6 +679,24 @@
     },
     {
       "album": {
+        "name": "I NEED U - Spotify Singles",
+        "url": "https://open.spotify.com/album/2eUqvZveGueUYsQBRd4NVi"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181722,
+      "name": "I NEED U - Spotify Singles",
+      "url": "https://open.spotify.com/track/3MOa6IKagO2lT9n0sI8fZQ"
+    },
+    {
+      "album": {
         "name": "DIMENSION : ANSWER",
         "url": "https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5"
       },
@@ -1382,6 +1400,24 @@
       "duration_ms": 123822,
       "name": "WALK THE LINE",
       "url": "https://open.spotify.com/track/0xDVPc5W2jYqO6p9NisCI4"
+    },
+    {
+      "album": {
+        "name": "What Makes You Beautiful [THE SEASONS: Red Carpet with Lee Hyo Ri]",
+        "url": "https://open.spotify.com/album/3RvguzRz56wqZ9fNldExgn"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138306,
+      "name": "What Makes You Beautiful",
+      "url": "https://open.spotify.com/track/4NxbUHGeXsQgxvR8YKbHjC"
     },
     {
       "album": {

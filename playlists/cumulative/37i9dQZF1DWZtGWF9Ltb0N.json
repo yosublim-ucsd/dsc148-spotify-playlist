@@ -2330,7 +2330,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 201171,
       "name": "Drifter",
       "url": "https://open.spotify.com/track/0ASJpt6xrhAYSGOrzk0b76"
@@ -4519,6 +4519,24 @@
     },
     {
       "album": {
+        "name": "Know We / Horse From Igloo",
+        "url": "https://open.spotify.com/album/2jIOrIOk9SLj3QK20uDYen"
+      },
+      "artists": [
+        {
+          "name": "Main Phase",
+          "url": "https://open.spotify.com/artist/0cVit0XTp4KB738vqWkUZ3"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312888,
+      "name": "Know We",
+      "url": "https://open.spotify.com/track/3dCgqChdEQ8UoGo5lEml6q"
+    },
+    {
+      "album": {
         "name": "Kopstoot (Hebbe remix)",
         "url": "https://open.spotify.com/album/3gvAGT8z2rrPTZkRgwFgEz"
       },
@@ -4564,6 +4582,24 @@
       "duration_ms": 288000,
       "name": "Kula Kula - The Widdler Remix",
       "url": "https://open.spotify.com/track/74EvryuRQteh7iK4OOyKYv"
+    },
+    {
+      "album": {
+        "name": "La La Land",
+        "url": "https://open.spotify.com/album/4JmK8LoRBuUhN95jEoJ89S"
+      },
+      "artists": [
+        {
+          "name": "Oski",
+          "url": "https://open.spotify.com/artist/7ERTOmWXRyme5WJUpXVVSl"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "La La Land",
+      "url": "https://open.spotify.com/track/5Z641CoWi3loy6fTCa0eYn"
     },
     {
       "album": {
@@ -4658,6 +4694,28 @@
       "duration_ms": 307329,
       "name": "Lark Ascending",
       "url": "https://open.spotify.com/track/5gOTLdE7dwmGFhaXhUko1u"
+    },
+    {
+      "album": {
+        "name": "Last Whispers",
+        "url": "https://open.spotify.com/album/2I3kdzWoq0Y5Q0pkR4lS3G"
+      },
+      "artists": [
+        {
+          "name": "Skorpion",
+          "url": "https://open.spotify.com/artist/6xrKh6E8PqnM3ntmM0jI36"
+        },
+        {
+          "name": "Outertone",
+          "url": "https://open.spotify.com/artist/76EQ6xxFd24ZJ4GKq8FOEX"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179200,
+      "name": "Last Whispers",
+      "url": "https://open.spotify.com/track/0qzkRqonPGJPXGqvY3UshV"
     },
     {
       "album": {
@@ -8861,6 +8919,24 @@
     },
     {
       "album": {
+        "name": "Chaos Hotline",
+        "url": "https://open.spotify.com/album/0qIggK0LErMy5obdnPzcHG"
+      },
+      "artists": [
+        {
+          "name": "Freddy Todd",
+          "url": "https://open.spotify.com/artist/4BwM43tn51Mq0Dn8NMB5zk"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255326,
+      "name": "Sworda",
+      "url": "https://open.spotify.com/track/5Kb6VKVsDanGOM43JQpdt9"
+    },
+    {
+      "album": {
         "name": "Fittest of The Fittest EP",
         "url": "https://open.spotify.com/album/5eaFqpKnAohyRBlETZI7ge"
       },
@@ -9152,7 +9228,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 229178,
       "name": "The Circle",
       "url": "https://open.spotify.com/track/1go8uqfAPRG3gQzpxHGFG1"
@@ -9372,7 +9448,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 226285,
       "name": "The Wisp Song",
       "url": "https://open.spotify.com/track/4eJrcgPtNToP8lBTxuozIg"
@@ -10250,7 +10326,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 251571,
       "name": "Wriggle",
       "url": "https://open.spotify.com/track/3EW5sNOYG0NoiYDYBX3GTD"

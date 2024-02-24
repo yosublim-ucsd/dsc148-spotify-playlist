@@ -1,12 +1,12 @@
 {
   "description": "A sound synonymous with the Blues; these are the pioneering names in slide guitar. Cover: Johnny Winter",
-  "num_followers": 88031,
+  "num_followers": 88070,
   "original_name": "Slide Guitar Heroes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZGRmZTMwNzM3OThlNzU3OWU3ZDBmMTY3Y2FkYzk2OTc0N2QyNTgz",
+  "snapshot_id": "MCxmZDMwYzE4YTA2Mzg3YTZlYzY0MDVlZTVkM2FjOTYzNWMyOGJhZTc4",
   "tracks": [
     {
       "added_at": "2023-01-16 21:05:55",
@@ -75,22 +75,6 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/51kF3pqbherdGJhcwKdmjC"
-      },
-      "artists": [
-        {
-          "name": "Allman Brothers Band",
-          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
-        }
-      ],
-      "duration_ms": 450600,
-      "name": "Jessica",
-      "url": "https://open.spotify.com/track/2tVQhBSJ1SQtb4gX0taaiR"
-    },
-    {
-      "added_at": "2023-01-16 21:05:55",
-      "album": {
         "name": "Rio Grande Mud",
         "url": "https://open.spotify.com/album/084ZK8EqqBrMgQGaor0tF2"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 267480,
       "name": "Just Got Paid",
       "url": "https://open.spotify.com/track/53jhILFzXhKPHAfsLoLUwA"
+    },
+    {
+      "added_at": "2023-01-16 21:05:55",
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/51kF3pqbherdGJhcwKdmjC"
+      },
+      "artists": [
+        {
+          "name": "Allman Brothers Band",
+          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
+        }
+      ],
+      "duration_ms": 450600,
+      "name": "Jessica",
+      "url": "https://open.spotify.com/track/2tVQhBSJ1SQtb4gX0taaiR"
     },
     {
       "added_at": "2023-01-16 21:05:55",
@@ -631,18 +631,18 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "Too Bad Jim",
-        "url": "https://open.spotify.com/album/30AT3tYydbsfhO5EDu5UKp"
+        "name": "At The Crossroads: The Blues Of Robert Johnson",
+        "url": "https://open.spotify.com/album/1KJCyy7UtWABdtntyoNhYc"
       },
       "artists": [
         {
-          "name": "R.L. Burnside",
-          "url": "https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip"
+          "name": "John Hammond",
+          "url": "https://open.spotify.com/artist/471Ycbmda1lAuLMscQvxMR"
         }
       ],
-      "duration_ms": 289666,
-      "name": "Shake 'Em on Down",
-      "url": "https://open.spotify.com/track/5hIQCctZj7Y1wuIo5UkU90"
+      "duration_ms": 268133,
+      "name": "Sweet Home Chicago",
+      "url": "https://open.spotify.com/track/3Ck0eraxaMeJTkCjh6ZqNu"
     },
     {
       "added_at": "2023-01-16 21:05:55",
@@ -663,6 +663,22 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
+        "name": "Too Bad Jim",
+        "url": "https://open.spotify.com/album/30AT3tYydbsfhO5EDu5UKp"
+      },
+      "artists": [
+        {
+          "name": "R.L. Burnside",
+          "url": "https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip"
+        }
+      ],
+      "duration_ms": 289666,
+      "name": "Shake 'Em on Down",
+      "url": "https://open.spotify.com/track/5hIQCctZj7Y1wuIo5UkU90"
+    },
+    {
+      "added_at": "2023-01-16 21:05:55",
+      "album": {
         "name": "Prime Chops",
         "url": "https://open.spotify.com/album/17tOE8mbZcUnCYEo31VXQy"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 275066,
       "name": "Walkin' Blues",
       "url": "https://open.spotify.com/track/1MI3E3tZOgz4Oe47twVtTd"
-    },
-    {
-      "added_at": "2023-01-16 21:05:55",
-      "album": {
-        "name": "At The Crossroads: The Blues Of Robert Johnson",
-        "url": "https://open.spotify.com/album/1KJCyy7UtWABdtntyoNhYc"
-      },
-      "artists": [
-        {
-          "name": "John Hammond",
-          "url": "https://open.spotify.com/artist/471Ycbmda1lAuLMscQvxMR"
-        }
-      ],
-      "duration_ms": 268133,
-      "name": "Sweet Home Chicago",
-      "url": "https://open.spotify.com/track/3Ck0eraxaMeJTkCjh6ZqNu"
     },
     {
       "added_at": "2023-01-16 21:05:55",

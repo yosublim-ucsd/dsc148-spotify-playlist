@@ -8637,6 +8637,24 @@
     },
     {
       "album": {
+        "name": "Woke Up High (On Love)",
+        "url": "https://open.spotify.com/album/3HEIHxOMsjeJDwlZH5FnKv"
+      },
+      "artists": [
+        {
+          "name": "Insolate",
+          "url": "https://open.spotify.com/artist/0cQjugplFeblP60eDLuHK3"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356688,
+      "name": "Woke Up High (On Love)",
+      "url": "https://open.spotify.com/track/7aLiHgzb1gNHXo9BEXcCoa"
+    },
+    {
+      "album": {
         "name": "Broken Dreams",
         "url": "https://open.spotify.com/album/4tTt3oLhHIsgWeUS8iPiU5"
       },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Underground indie rock gems. Cover: Lime Garden",
+  "description": "Underground indie rock gems. Cover: Hana Eid",
   "name": "undercurrents",
   "tracks": [
     {
@@ -770,6 +770,24 @@
       "duration_ms": 239436,
       "name": "Always Gonna Happen",
       "url": "https://open.spotify.com/track/4VIo9g5gTcLqbZEDbBMAr8"
+    },
+    {
+      "album": {
+        "name": "Always Something",
+        "url": "https://open.spotify.com/album/0pMwpKB8BTFmLJHVW6M94J"
+      },
+      "artists": [
+        {
+          "name": "Jaco Jaco",
+          "url": "https://open.spotify.com/artist/6r8q8GAOrshD9tuwY2rWwL"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210947,
+      "name": "Always Something",
+      "url": "https://open.spotify.com/track/1bxIDIIuSxGo4AsM4XmFGs"
     },
     {
       "album": {
@@ -1754,6 +1772,24 @@
       "duration_ms": 187706,
       "name": "Barking Dog",
       "url": "https://open.spotify.com/track/7hx7f6U9ul5JVGiRtGwNVU"
+    },
+    {
+      "album": {
+        "name": "The Knife",
+        "url": "https://open.spotify.com/album/29rQiqo1hLh668XBKU80sA"
+      },
+      "artists": [
+        {
+          "name": "Dogs on Shady Lane",
+          "url": "https://open.spotify.com/artist/3knt52q5hbmRnHDzllw8qO"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223575,
+      "name": "Basement",
+      "url": "https://open.spotify.com/track/1LGZzWQexuUXz7n3DJTJOl"
     },
     {
       "album": {
@@ -7144,7 +7180,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 199772,
       "name": "fool for you",
       "url": "https://open.spotify.com/track/4uhx82pIQtY9S3xmHKbztZ"
@@ -11405,6 +11441,24 @@
     },
     {
       "album": {
+        "name": "Late",
+        "url": "https://open.spotify.com/album/6dJSqvOrm05gaHlLNFNWeY"
+      },
+      "artists": [
+        {
+          "name": "Soft Loft",
+          "url": "https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237677,
+      "name": "Late",
+      "url": "https://open.spotify.com/track/3oOLmRfPj0hBbCG6rQn0ok"
+    },
+    {
+      "album": {
         "name": "Protect Our Winters",
         "url": "https://open.spotify.com/album/5xJLwTxrpzWtnocHOXbbF4"
       },
@@ -13672,7 +13726,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 198767,
       "name": "Nothing Left To Lose",
       "url": "https://open.spotify.com/track/00udfYIC2Z9rLaghIxRh3x"
@@ -13968,6 +14022,24 @@
       "duration_ms": 329432,
       "name": "Ohm",
       "url": "https://open.spotify.com/track/1Wo5tkzxPBoqOfwoTSMNJU"
+    },
+    {
+      "album": {
+        "name": "Let\u2019s keep it in the family",
+        "url": "https://open.spotify.com/album/0qhbLNl6p4kK3wb1gG6KnZ"
+      },
+      "artists": [
+        {
+          "name": "Fay Wildhagen",
+          "url": "https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194760,
+      "name": "ohmygod",
+      "url": "https://open.spotify.com/track/3EB4t4qPtUB46Dn9OaUvlk"
     },
     {
       "album": {
@@ -15144,7 +15216,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 188000,
       "name": "rainwater on the windowsill",
       "url": "https://open.spotify.com/track/7bpmQPNf2KYjI0ZbbShENj"
@@ -15946,7 +16018,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 159552,
       "name": "Scene for an Exit",
       "url": "https://open.spotify.com/track/3nVW6mJbZQgCwrAYUTUHm2"
@@ -18167,6 +18239,24 @@
     },
     {
       "album": {
+        "name": "I Exist Because You Say So",
+        "url": "https://open.spotify.com/album/44G1m9EFvbUtsl571DGzwd"
+      },
+      "artists": [
+        {
+          "name": "Hana Eid",
+          "url": "https://open.spotify.com/artist/4F6hNOg84kZIkE5LvLYOsr"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212426,
+      "name": "Taller Than Me",
+      "url": "https://open.spotify.com/track/7Hz9Rlm3EvkQBro4WGzIhq"
+    },
+    {
+      "album": {
         "name": "Tear It Apart",
         "url": "https://open.spotify.com/album/7gSRTvnzdzujSgkhJMUjuY"
       },
@@ -19372,7 +19462,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 233786,
       "name": "Truck",
       "url": "https://open.spotify.com/track/3gpFdIoxvpOPYPbxAcq9VZ"

@@ -1,12 +1,12 @@
 {
   "description": "The rap soundtrack to the internet. Cover: Barretta",
-  "num_followers": 1395950,
+  "num_followers": 1396071,
   "original_name": "Internet People",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMTYyNDJjN2U4ZjQ0NzViZmIxYjdlYjQ3ZGZiMTBiNmViMWVjZmFk",
+  "snapshot_id": "MCwxMzU1MGRiNjdkOThlMGI2ZjNjMmZhMTZmNmNkNWY1MjFiZmQ4MDQz",
   "tracks": [
     {
       "added_at": "2024-02-16 05:00:00",
@@ -29,6 +29,22 @@
       "url": "https://open.spotify.com/track/7H3lr9bsPBGFx5NyTuBBGc"
     },
     {
+      "added_at": "2024-02-13 21:55:25",
+      "album": {
+        "name": "Get In With Me",
+        "url": "https://open.spotify.com/album/5OOVp8NFXAklfbzh5BcLzx"
+      },
+      "artists": [
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        }
+      ],
+      "duration_ms": 120792,
+      "name": "Get In With Me",
+      "url": "https://open.spotify.com/track/4iEoDBAgMJIzest7VsDgmT"
+    },
+    {
       "added_at": "2024-01-16 15:48:20",
       "album": {
         "name": "#CERTIFIED (DJ Ess Mix) [feat. DJ Ess]",
@@ -47,6 +63,22 @@
       "duration_ms": 122012,
       "name": "#CERTIFIED (feat. DJ Ess) - DJ Ess Mix",
       "url": "https://open.spotify.com/track/2QxYsn2ygOrfJ70JItrlCO"
+    },
+    {
+      "added_at": "2024-02-23 16:35:26",
+      "album": {
+        "name": "Glockoma 2 (Deluxe)",
+        "url": "https://open.spotify.com/album/49vCWZ0yKkRvfetjsYVLnx"
+      },
+      "artists": [
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "duration_ms": 140106,
+      "name": "Let's Go",
+      "url": "https://open.spotify.com/track/5GCU2LJWPzoP8Q6nexs61z"
     },
     {
       "added_at": "2024-01-24 15:34:54",
@@ -89,20 +121,28 @@
       "url": "https://open.spotify.com/track/4H4x6mlA3Mk8zUqmLrirGI"
     },
     {
-      "added_at": "2024-01-25 16:39:29",
+      "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "4GOD II (Deluxe)",
-        "url": "https://open.spotify.com/album/6nKbzw2rIciCleGWUui9Mw"
+        "name": "Standin' on Bihness",
+        "url": "https://open.spotify.com/album/0fPZjdq6aXTikRcNGRglPF"
       },
       "artists": [
         {
-          "name": "Rob49",
-          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+          "name": "Druski",
+          "url": "https://open.spotify.com/artist/4QXUDhKn7oIyfnaNEBkrkY"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
         }
       ],
-      "duration_ms": 121416,
-      "name": "Homebody",
-      "url": "https://open.spotify.com/track/4pcgOnRhCaNBOz5e0xcyWg"
+      "duration_ms": 155409,
+      "name": "Standin' on Bihness",
+      "url": "https://open.spotify.com/track/7jwcHg8xGlX1xoDvWuo3AX"
     },
     {
       "added_at": "2024-01-15 20:25:31",
@@ -129,6 +169,38 @@
       "url": "https://open.spotify.com/track/1EHkclXJgi9XKP9xbp51hk"
     },
     {
+      "added_at": "2024-01-25 16:39:29",
+      "album": {
+        "name": "4GOD II (Deluxe)",
+        "url": "https://open.spotify.com/album/6nKbzw2rIciCleGWUui9Mw"
+      },
+      "artists": [
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        }
+      ],
+      "duration_ms": 121416,
+      "name": "Homebody",
+      "url": "https://open.spotify.com/track/4pcgOnRhCaNBOz5e0xcyWg"
+    },
+    {
+      "added_at": "2024-02-23 17:59:46",
+      "album": {
+        "name": "cake / don't be dishonest",
+        "url": "https://open.spotify.com/album/2VFC37FS3TqHDUlRoqzoAJ"
+      },
+      "artists": [
+        {
+          "name": "wolfacejoeyy",
+          "url": "https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z"
+        }
+      ],
+      "duration_ms": 177084,
+      "name": "cake",
+      "url": "https://open.spotify.com/track/7eWKbchJXbuMc3SoLsLWa4"
+    },
+    {
       "added_at": "2024-01-11 16:28:06",
       "album": {
         "name": "MOVE YO BODY (sped up)",
@@ -145,20 +217,24 @@
       "url": "https://open.spotify.com/track/062UdtCYGxKMR2ihegtZUU"
     },
     {
-      "added_at": "2024-02-13 21:55:25",
+      "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Get In With Me",
-        "url": "https://open.spotify.com/album/5OOVp8NFXAklfbzh5BcLzx"
+        "name": "shake",
+        "url": "https://open.spotify.com/album/46ocNapng2exRLthBCsk29"
       },
       "artists": [
         {
-          "name": "BossMan Dlow",
-          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+          "name": "\u0444\u0440\u043e\u0437\u0438",
+          "url": "https://open.spotify.com/artist/3IIpbS5XHnLSdXTP4c1YN2"
+        },
+        {
+          "name": "joyful",
+          "url": "https://open.spotify.com/artist/1tE2eVlHSwplXAtuYtlBeZ"
         }
       ],
-      "duration_ms": 120792,
-      "name": "Get In With Me",
-      "url": "https://open.spotify.com/track/4iEoDBAgMJIzest7VsDgmT"
+      "duration_ms": 105230,
+      "name": "shake",
+      "url": "https://open.spotify.com/track/75wgmmlBL3YDXQAnDhPNQD"
     },
     {
       "added_at": "2023-12-12 21:16:28",
@@ -175,22 +251,6 @@
       "duration_ms": 121399,
       "name": "ONE CALL",
       "url": "https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C"
-    },
-    {
-      "added_at": "2023-12-18 18:17:54",
-      "album": {
-        "name": "act ii: date @ 8",
-        "url": "https://open.spotify.com/album/77SuFKKJ3OY3ZgvuQNBiFA"
-      },
-      "artists": [
-        {
-          "name": "4batz",
-          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
-        }
-      ],
-      "duration_ms": 113684,
-      "name": "act ii: date @ 8",
-      "url": "https://open.spotify.com/track/4HMop4Re0iucehmF7mgV27"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -213,6 +273,22 @@
       "url": "https://open.spotify.com/track/7d4NMY87lt1tQZeM8ljq8o"
     },
     {
+      "added_at": "2023-12-18 18:17:54",
+      "album": {
+        "name": "act ii: date @ 8",
+        "url": "https://open.spotify.com/album/77SuFKKJ3OY3ZgvuQNBiFA"
+      },
+      "artists": [
+        {
+          "name": "4batz",
+          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
+        }
+      ],
+      "duration_ms": 113684,
+      "name": "act ii: date @ 8",
+      "url": "https://open.spotify.com/track/4HMop4Re0iucehmF7mgV27"
+    },
+    {
       "added_at": "2024-02-05 18:04:34",
       "album": {
         "name": "CLAY HEART",
@@ -227,6 +303,78 @@
       "duration_ms": 142958,
       "name": "CLAY HEART",
       "url": "https://open.spotify.com/track/1dxxQAxZRLpB1rQhQUI51q"
+    },
+    {
+      "added_at": "2023-12-13 20:39:33",
+      "album": {
+        "name": "Change My Wayz",
+        "url": "https://open.spotify.com/album/0TwgVRH8pQ5tN2j7b8M0eB"
+      },
+      "artists": [
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        }
+      ],
+      "duration_ms": 115013,
+      "name": "Change My Wayz",
+      "url": "https://open.spotify.com/track/0x8vQaiUn7BZ37Wpxd4Mms"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "HATE ME",
+        "url": "https://open.spotify.com/album/2COd1Ghgd8JN4q69fpf6OO"
+      },
+      "artists": [
+        {
+          "name": "CLIP",
+          "url": "https://open.spotify.com/artist/3gkLLAZaxTaJhHnUaxQzCl"
+        }
+      ],
+      "duration_ms": 122972,
+      "name": "HATE ME",
+      "url": "https://open.spotify.com/track/4VGqcmT6DYi4kFFWmzFvRp"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Diamondz n Roses",
+        "url": "https://open.spotify.com/album/7vcvxwMBYbiCHiLwVCPj7k"
+      },
+      "artists": [
+        {
+          "name": "Jay Hound",
+          "url": "https://open.spotify.com/artist/57BGWi9z8Ay8NCKNSwUfF8"
+        },
+        {
+          "name": "VaporGod",
+          "url": "https://open.spotify.com/artist/2OXa1OHxPJrgxTMzcvysxm"
+        },
+        {
+          "name": "SweepersENT",
+          "url": "https://open.spotify.com/artist/3gQoRf2OOQucNCzox0TI9l"
+        }
+      ],
+      "duration_ms": 99987,
+      "name": "Diamondz n Roses",
+      "url": "https://open.spotify.com/track/2s7pqJkHxJg9RNPxjtf46K"
+    },
+    {
+      "added_at": "2023-12-28 18:32:54",
+      "album": {
+        "name": "Cha Cha",
+        "url": "https://open.spotify.com/album/7CqC8dZ6sJrOL2796p3B5l"
+      },
+      "artists": [
+        {
+          "name": "ZEDDY WILL",
+          "url": "https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf"
+        }
+      ],
+      "duration_ms": 157377,
+      "name": "Cha Cha",
+      "url": "https://open.spotify.com/track/516v2eji9NjkmsYc9PErx4"
     },
     {
       "added_at": "2024-02-03 16:51:05",
@@ -275,62 +423,6 @@
       "duration_ms": 135111,
       "name": "talk.",
       "url": "https://open.spotify.com/track/0MQ1IFCxXMXD56f5mkUPav"
-    },
-    {
-      "added_at": "2023-12-13 20:39:33",
-      "album": {
-        "name": "Change My Wayz",
-        "url": "https://open.spotify.com/album/0TwgVRH8pQ5tN2j7b8M0eB"
-      },
-      "artists": [
-        {
-          "name": "Luh Tyler",
-          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
-        }
-      ],
-      "duration_ms": 115013,
-      "name": "Change My Wayz",
-      "url": "https://open.spotify.com/track/0x8vQaiUn7BZ37Wpxd4Mms"
-    },
-    {
-      "added_at": "2023-12-28 18:32:54",
-      "album": {
-        "name": "Cha Cha",
-        "url": "https://open.spotify.com/album/7CqC8dZ6sJrOL2796p3B5l"
-      },
-      "artists": [
-        {
-          "name": "ZEDDY WILL",
-          "url": "https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf"
-        }
-      ],
-      "duration_ms": 157377,
-      "name": "Cha Cha",
-      "url": "https://open.spotify.com/track/516v2eji9NjkmsYc9PErx4"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Diamondz n Roses",
-        "url": "https://open.spotify.com/album/7vcvxwMBYbiCHiLwVCPj7k"
-      },
-      "artists": [
-        {
-          "name": "Jay Hound",
-          "url": "https://open.spotify.com/artist/57BGWi9z8Ay8NCKNSwUfF8"
-        },
-        {
-          "name": "VaporGod",
-          "url": "https://open.spotify.com/artist/2OXa1OHxPJrgxTMzcvysxm"
-        },
-        {
-          "name": "SweepersENT",
-          "url": "https://open.spotify.com/artist/3gQoRf2OOQucNCzox0TI9l"
-        }
-      ],
-      "duration_ms": 99987,
-      "name": "Diamondz n Roses",
-      "url": "https://open.spotify.com/track/2s7pqJkHxJg9RNPxjtf46K"
     },
     {
       "added_at": "2024-01-22 18:32:49",
@@ -387,22 +479,6 @@
       "duration_ms": 108461,
       "name": "PAP SHIESTY",
       "url": "https://open.spotify.com/track/63QsJJakeUZs3hg3LLnT9Y"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "wya",
-        "url": "https://open.spotify.com/album/2gV57JCw4hSI3vuTkyA27H"
-      },
-      "artists": [
-        {
-          "name": "wolfacejoeyy",
-          "url": "https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z"
-        }
-      ],
-      "duration_ms": 138344,
-      "name": "wya",
-      "url": "https://open.spotify.com/track/7LwVsVM2uy9BIxAj5u15Zu"
     },
     {
       "added_at": "2024-01-05 16:33:32",
@@ -495,26 +571,6 @@
       "duration_ms": 132728,
       "name": "Babytron Flow",
       "url": "https://open.spotify.com/track/5D105Zm9e2zdIMDjn3loFf"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "TANGO",
-        "url": "https://open.spotify.com/album/75QPIPMelRS8Ahv7bbxwHh"
-      },
-      "artists": [
-        {
-          "name": "Tommy Cash",
-          "url": "https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK"
-        },
-        {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
-        }
-      ],
-      "duration_ms": 119000,
-      "name": "TANGO",
-      "url": "https://open.spotify.com/track/05Q6BW1kQSEIwFLuLd5IUd"
     },
     {
       "added_at": "2024-01-26 05:01:00",
@@ -867,26 +923,6 @@
       "duration_ms": 127137,
       "name": "Running Late",
       "url": "https://open.spotify.com/track/1CwnEKPRLebumbHmZ3yZly"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "Hop Out",
-        "url": "https://open.spotify.com/album/1hED0Rl2Uy7tueiaM55VXV"
-      },
-      "artists": [
-        {
-          "name": "Lil Shine",
-          "url": "https://open.spotify.com/artist/6SmUCZMpJG06ZhIqMOJKCn"
-        },
-        {
-          "name": "Summrs",
-          "url": "https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN"
-        }
-      ],
-      "duration_ms": 144691,
-      "name": "Hop Out",
-      "url": "https://open.spotify.com/track/2JhvQHlmRya9wmhPRmBb2A"
     },
     {
       "added_at": "2023-12-07 20:20:23",
@@ -1525,22 +1561,6 @@
       "url": "https://open.spotify.com/track/4fcXf7kKugatldnInKIH4V"
     },
     {
-      "added_at": "2024-01-04 19:58:18",
-      "album": {
-        "name": "RICK DENIMS",
-        "url": "https://open.spotify.com/album/1W9OMYGaUq8X1zkK2o35L4"
-      },
-      "artists": [
-        {
-          "name": "CLIP",
-          "url": "https://open.spotify.com/artist/3gkLLAZaxTaJhHnUaxQzCl"
-        }
-      ],
-      "duration_ms": 144147,
-      "name": "RICK DENIMS",
-      "url": "https://open.spotify.com/track/6uqcUT0cuNiMrZb480CpTA"
-    },
-    {
       "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "No Sympathy",
@@ -1755,22 +1775,6 @@
       "duration_ms": 131422,
       "name": "ICEY",
       "url": "https://open.spotify.com/track/05k4xJfpBqkLoO9FBl9XrE"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "What We Didn't Have",
-        "url": "https://open.spotify.com/album/7j58HYctbqVUcSXG61MW3X"
-      },
-      "artists": [
-        {
-          "name": "Summrs",
-          "url": "https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN"
-        }
-      ],
-      "duration_ms": 244225,
-      "name": "Xanax / Burnt Memories",
-      "url": "https://open.spotify.com/track/27z0n0bxgN8GGaWd32wVfw"
     }
   ],
   "unique_name": "Internet People",

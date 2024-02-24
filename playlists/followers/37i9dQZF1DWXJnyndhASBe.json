@@ -1,7 +1,7 @@
 {
-  "2024-02-23": 497469,
+  "2024-02-24": 497666,
   "date_first_scraped": "2023-09-23",
-  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Kukon",
+  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Otsochodzi",
   "name": "RAP GENERACJA",
   "tracks": [
     {
@@ -1526,6 +1526,28 @@
     },
     {
       "album": {
+        "name": "Freddie",
+        "url": "https://open.spotify.com/album/6emgS85CVa8FjMzUJ03sxG"
+      },
+      "artists": [
+        {
+          "name": "NIKO\u015a",
+          "url": "https://open.spotify.com/artist/3iRmsaD6hZKTJJABRJKlCX"
+        },
+        {
+          "name": "Jonatan",
+          "url": "https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144375,
+      "name": "Freddie",
+      "url": "https://open.spotify.com/track/4Kbi7UnFd5CsarYSqtQKiK"
+    },
+    {
+      "album": {
         "name": "Freestyle",
         "url": "https://open.spotify.com/album/6pgZMKPMrzdMQdkdYbEfnV"
       },
@@ -1625,6 +1647,28 @@
       "duration_ms": 322113,
       "name": "GiEwOnT",
       "url": "https://open.spotify.com/track/1fEh4NSXSaVhVGArLtxEiG"
+    },
+    {
+      "album": {
+        "name": "GOR\u0104CY TEMAT",
+        "url": "https://open.spotify.com/album/41VrVskuHDVOMfwgGxJ3w4"
+      },
+      "artists": [
+        {
+          "name": "White Widow",
+          "url": "https://open.spotify.com/artist/1KyVviwmYP83FyOApt86K0"
+        },
+        {
+          "name": "BAHsick",
+          "url": "https://open.spotify.com/artist/0TuA7E5H4nlEtWvpXSr7uv"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "GOR\u0104CY TEMAT",
+      "url": "https://open.spotify.com/track/22YgJW7ZF52GE9CUB4aS1R"
     },
     {
       "album": {
@@ -3147,7 +3191,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 142722,
       "name": "NIE BIERZ TEGO DO SIEBIE",
       "url": "https://open.spotify.com/track/0ZBIprMHNepuw803CNM90t"
@@ -3944,6 +3988,32 @@
     },
     {
       "album": {
+        "name": "Samolotowy tryb",
+        "url": "https://open.spotify.com/album/37JhQCkxQ23mA2uw349E3h"
+      },
+      "artists": [
+        {
+          "name": "Malik Montana",
+          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
+        },
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        },
+        {
+          "name": "Geenaro & Ghana Beats",
+          "url": "https://open.spotify.com/artist/6QJo3m62pMHNWqSwgwt2qz"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160994,
+      "name": "Samolotowy tryb",
+      "url": "https://open.spotify.com/track/0wKxfnayyQ1wa9WExvn4qF"
+    },
+    {
+      "album": {
         "name": "Samotno\u015b\u0107",
         "url": "https://open.spotify.com/album/4hwkvB5RdaCAITCoaNZz1z"
       },
@@ -4071,7 +4141,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 155021,
       "name": "Sierra Papa",
       "url": "https://open.spotify.com/track/6EDANn1flWDjrP2JlbflgF"
@@ -4703,7 +4773,7 @@
       ],
       "date_added": "2023-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 278333,
       "name": "W KRAJU SCHABOWYCH KOTLET\u00d3W",
       "url": "https://open.spotify.com/track/2r0tCQsTvEwkKEcZ9pYwZt"

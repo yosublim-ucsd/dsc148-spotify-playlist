@@ -1,5 +1,5 @@
 {
-  "2024-02-23": 95149,
+  "2024-02-24": 95183,
   "date_first_scraped": "2022-05-30",
   "description": "Plug your brain into a modular synthesizer analog loop.",
   "name": "MoogTube",
@@ -3347,10 +3347,36 @@
       ],
       "date_added": "2021-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 268607,
       "name": "Tu y Yo",
       "url": "https://open.spotify.com/track/1JadQMSwfzMBZ9h3ymjPx0"
+    },
+    {
+      "album": {
+        "name": "Color de Tr\u00f3pico (Compiled By El Drag\u00f3n Criollo & El Palmas)",
+        "url": "https://open.spotify.com/album/6j4ID9fk5IfuVWPloOiG9h"
+      },
+      "artists": [
+        {
+          "name": "El Drag\u00f3n Criollo",
+          "url": "https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G"
+        },
+        {
+          "name": "El Palmas",
+          "url": "https://open.spotify.com/artist/607tUX31sF7QoJVbCx3r6Y"
+        },
+        {
+          "name": "Grupo Almendra",
+          "url": "https://open.spotify.com/artist/59wBrEGZ8dlFTu48CxK6AK"
+        }
+      ],
+      "date_added": "2021-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268607,
+      "name": "Tu y Yo",
+      "url": "https://open.spotify.com/track/7FKAtMHMO9zcSOLI9ZJKDu"
     },
     {
       "album": {

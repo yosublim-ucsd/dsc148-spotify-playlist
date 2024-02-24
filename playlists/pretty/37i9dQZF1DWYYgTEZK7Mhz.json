@@ -1,12 +1,12 @@
 {
   "description": "Un'estate al mare, stile balenare... \ud83c\udfdd\ufe0f Hit dell'estate italiana anni 60, 70 e 80!",
-  "num_followers": 26787,
+  "num_followers": 26810,
   "original_name": "Sapore di Sale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMWNiMGUxNjRiOGRhNjE4YTgyNjE0ZmQwMTU1MGRjYjJlZDE4ZTJj",
+  "snapshot_id": "MCxhMDM5YzIzMzRhMWMxNmQ4ZjQ2ZmQ3ZmEzM2RlNzUxYzE1MDM1Yjk2",
   "tracks": [
     {
       "added_at": "2023-06-05 07:42:38",
@@ -219,6 +219,22 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
+        "name": "La Partita",
+        "url": "https://open.spotify.com/album/473hYq2PWRq2Q4Trt4ZVPs"
+      },
+      "artists": [
+        {
+          "name": "Rita Pavone",
+          "url": "https://open.spotify.com/artist/3xc8CD41vwsoBNkGXL3pS7"
+        }
+      ],
+      "duration_ms": 135560,
+      "name": "La Partita Di Pallone",
+      "url": "https://open.spotify.com/track/6RVKSp5e4jOY8sQklLa297"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
         "name": "The Best Righeira",
         "url": "https://open.spotify.com/album/62KcZpsdRkth5bVIQfduNi"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 113853,
       "name": "Stasera mi butto",
       "url": "https://open.spotify.com/track/7uZF6CYmfNQ2lqRYqDhSdc"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
-        "name": "La Partita",
-        "url": "https://open.spotify.com/album/473hYq2PWRq2Q4Trt4ZVPs"
-      },
-      "artists": [
-        {
-          "name": "Rita Pavone",
-          "url": "https://open.spotify.com/artist/3xc8CD41vwsoBNkGXL3pS7"
-        }
-      ],
-      "duration_ms": 135560,
-      "name": "La Partita Di Pallone",
-      "url": "https://open.spotify.com/track/6RVKSp5e4jOY8sQklLa297"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "Italian Classics: Fred Bongusto, Vol. 1",
-        "url": "https://open.spotify.com/album/5nHzXZgjSFKOJqKkUGOyzQ"
-      },
-      "artists": [
-        {
-          "name": "Fred Bongusto",
-          "url": "https://open.spotify.com/artist/03zMprDSi8xGJbXYayx6ly"
-        }
-      ],
-      "duration_ms": 168642,
-      "name": "Una rotonda sul mare",
-      "url": "https://open.spotify.com/track/4qF6z47UqzpuA7lZOsXbQF"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
         "name": "Rocco: Zijn Story In 21 Liedjes",
         "url": "https://open.spotify.com/album/0rD6ZFWRpMdZqAnvcIv66g"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 164453,
       "name": "Marina",
       "url": "https://open.spotify.com/track/4hFhb8YNgPc94Fq0NANpIB"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
+        "name": "Italian Classics: Fred Bongusto, Vol. 1",
+        "url": "https://open.spotify.com/album/5nHzXZgjSFKOJqKkUGOyzQ"
+      },
+      "artists": [
+        {
+          "name": "Fred Bongusto",
+          "url": "https://open.spotify.com/artist/03zMprDSi8xGJbXYayx6ly"
+        }
+      ],
+      "duration_ms": 168642,
+      "name": "Una rotonda sul mare",
+      "url": "https://open.spotify.com/track/4qF6z47UqzpuA7lZOsXbQF"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -675,6 +675,22 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
+        "name": "Rita Pavone (Gli Indimenticabili)",
+        "url": "https://open.spotify.com/album/6yHABRmP5ITAONhmzIJ2vt"
+      },
+      "artists": [
+        {
+          "name": "Rita Pavone",
+          "url": "https://open.spotify.com/artist/3xc8CD41vwsoBNkGXL3pS7"
+        }
+      ],
+      "duration_ms": 137573,
+      "name": "Il ballo del mattone",
+      "url": "https://open.spotify.com/track/3E41PlrWGcfROQIH5scjXd"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
         "name": "Legata a un granello di sabbia (Remastered)",
         "url": "https://open.spotify.com/album/18n1cji3OvtCKepHxLgV1c"
       },
@@ -723,22 +739,6 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "Nostalgia Italiana - 1965",
-        "url": "https://open.spotify.com/album/7evzx1x6grEBAuCaYgSEvb"
-      },
-      "artists": [
-        {
-          "name": "Petula Clark",
-          "url": "https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8"
-        }
-      ],
-      "duration_ms": 176200,
-      "name": "Ciao Ciao",
-      "url": "https://open.spotify.com/track/5SmMAmpv3m84b4CGm6ZyQl"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
         "name": "Estate",
         "url": "https://open.spotify.com/album/62YRZrKrezkG7oEbtdDzFi"
       },
@@ -759,6 +759,22 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
+        "name": "Nostalgia Italiana - 1965",
+        "url": "https://open.spotify.com/album/7evzx1x6grEBAuCaYgSEvb"
+      },
+      "artists": [
+        {
+          "name": "Petula Clark",
+          "url": "https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8"
+        }
+      ],
+      "duration_ms": 176200,
+      "name": "Ciao Ciao",
+      "url": "https://open.spotify.com/track/5SmMAmpv3m84b4CGm6ZyQl"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
         "name": "Profumo di sole...",
         "url": "https://open.spotify.com/album/3hZVHN9BomKxHogbobO2hR"
       },
@@ -775,38 +791,6 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "Le pi\u00f9 belle canzoni di Milva",
-        "url": "https://open.spotify.com/album/02bbP27Gmj806q1chWuZP1"
-      },
-      "artists": [
-        {
-          "name": "Milva",
-          "url": "https://open.spotify.com/artist/2yTY8E1aIo4qaM9m5teX8N"
-        }
-      ],
-      "duration_ms": 180453,
-      "name": "Il mare nel cassetto",
-      "url": "https://open.spotify.com/track/1FWuLRNYe3hP55SJ5X7LeK"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
-        "name": "Rita Pavone (Gli Indimenticabili)",
-        "url": "https://open.spotify.com/album/6yHABRmP5ITAONhmzIJ2vt"
-      },
-      "artists": [
-        {
-          "name": "Rita Pavone",
-          "url": "https://open.spotify.com/artist/3xc8CD41vwsoBNkGXL3pS7"
-        }
-      ],
-      "duration_ms": 137573,
-      "name": "Il ballo del mattone",
-      "url": "https://open.spotify.com/track/3E41PlrWGcfROQIH5scjXd"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
         "name": "RCA 100 A\u00f1os De Musica - Segunda Parte - Lo Mejor De Italia",
         "url": "https://open.spotify.com/album/4c3klMERkQR9RXro9ETDcH"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 156920,
       "name": "Con Te Sulla Spiaggia",
       "url": "https://open.spotify.com/track/1pN4eiEz2QqVMq34ltToWI"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
+        "name": "Le pi\u00f9 belle canzoni di Milva",
+        "url": "https://open.spotify.com/album/02bbP27Gmj806q1chWuZP1"
+      },
+      "artists": [
+        {
+          "name": "Milva",
+          "url": "https://open.spotify.com/artist/2yTY8E1aIo4qaM9m5teX8N"
+        }
+      ],
+      "duration_ms": 180453,
+      "name": "Il mare nel cassetto",
+      "url": "https://open.spotify.com/track/1FWuLRNYe3hP55SJ5X7LeK"
     }
   ],
   "unique_name": "Sapore di Sale",

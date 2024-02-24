@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTL4zPbYeMFs.md) - [plain]
 
 > A perfect mix for your Mehendi ceremony.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,505 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,543 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Aaj Sajeya](https://open.spotify.com/track/1Oyfarj5ipZwEup8DUM7hA) | [Goldie Sohel](https://open.spotify.com/artist/5Y9YGMxRoQYfJFj4kJ9TVv) | [Aaj Sajeya \- Single](https://open.spotify.com/album/5K07SMgR7RxfpsgDcNmD2o) | 3:49 |
 | 2 | [It Is What It Is \(Madhaniya\)](https://open.spotify.com/track/0Og7tupRo5ozcO6RCXTz7E) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Love Like That](https://open.spotify.com/album/1c17nYlcSkBZlaag1LTZ5J) | 3:27 |
-| 3 | [Love Like That \(feat\. Ali Sethi\)](https://open.spotify.com/track/6vBuBiZkJDabpSEZqZFYNS) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Love Like That \(feat\. Ali Sethi\)](https://open.spotify.com/album/370o1v7cPpNPuFnOGEgVCN) | 2:40 |
+| 3 | [Bin Tere](https://open.spotify.com/track/7wGt4pTcnmFE0SpMCz77ZX) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Zahrah S Khan](https://open.spotify.com/artist/7C5xVXoqim1TICnCMZ9A6P), [Romy](https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh) | [Bin Tere](https://open.spotify.com/album/4ag4pAtP4mYVQilhOKEoAR) | 3:14 |
 | 4 | [Kudmayi \(Film Version\)](https://open.spotify.com/track/7c6ULNGXJZ0Wf7voEUEcKu) | [Shahid Mallya](https://open.spotify.com/artist/4LnYRxNZVCTsDCO2xKjOn8), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Rocky Aur Rani Kii Prem Kahaani \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1YlugBItLrdu7CEZwRGskr) | 4:25 |
 | 5 | [Dil Jhoom](https://open.spotify.com/track/11qnwt18ZckPqchzK2I3U7) | [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Sayeed Quadri](https://open.spotify.com/artist/2pGRniGOJSOvYoK3dGaBb8) | [Gadar 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Oxg8wfDhPIrEBM9Yz7ilI) | 5:04 |
 | 6 | [Dil Se Dil Tak \(From "Bawaal"\)](https://open.spotify.com/track/1kTEGyqUJFgstwdgJFLqz1) | [Akashdeep Sengupta](https://open.spotify.com/artist/1Taiu6ysv5t5sVhhMYYucf), [Laqshay Kapoor](https://open.spotify.com/artist/5M4WmRBIQBWlBflNZj7BTG), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA), [Suvarna Tiwari](https://open.spotify.com/artist/1Uy4rDTdXHBBSAjDTOKoRC) | [Dil Se Dil Tak \(From "Bawaal"\)](https://open.spotify.com/album/1vaX8lnpErNywb6HwJBOsw) | 5:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTL4zPbYeMFs.md) - [plain]
 | 49 | [Gulabi Paani](https://open.spotify.com/track/6GANda34t7RcWY6j1WWOrQ) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Mannat Noor](https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp) | [Muklawa](https://open.spotify.com/album/3RkmYz0TWTINSueISYjQ2a) | 2:39 |
 | 50 | [Suit Patiala](https://open.spotify.com/track/09JKODZW0Y9ThIO6OfrfDM) | [Manan Bhardwaj](https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh), [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI) | [Yaariyan 2](https://open.spotify.com/album/7ae6aMd39gAqmMfaPi9GUY) | 3:07 |
 
-Snapshot ID: `MCxlMzI5MTcyNjMzMmIwMGYzMGU4Njc0YWQyNGJhZmI5NzQyYzFiN2Rl`
+Snapshot ID: `MCxlMzJlMzUzOWJmODk4Nzg0ZmVkOGE3YTNhNjVmMGQ0MmQyZmI3MDc2`

@@ -1,12 +1,12 @@
 {
   "description": "All the new music you need to hear right now. Cover: Ghetts",
-  "num_followers": 542696,
+  "num_followers": 542764,
   "original_name": "All New All Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOGVjZTFjMmVlYjdiNjVmYmY0OTJiOGJmN2U4ZTA1NzljMDhlZTg0",
+  "snapshot_id": "MCw4YTc2MmYwYTQ5OTI0ODBiNDNkNDVjZTE5MWQ0ZGJmMzM3ZjU5YWVj",
   "tracks": [
     {
       "added_at": "2024-02-23 00:00:00",
@@ -71,8 +71,8 @@
     {
       "added_at": "2024-02-23 00:00:00",
       "album": {
-        "name": "Mount Rushmore (feat. Kano & Wretch 32)",
-        "url": "https://open.spotify.com/album/0dOUZUZsTQin7GO8Xzr0JZ"
+        "name": "On Purpose, With Purpose",
+        "url": "https://open.spotify.com/album/5hJdThiWNAo9kIURyWRKwd"
       },
       "artists": [
         {
@@ -90,7 +90,7 @@
       ],
       "duration_ms": 305253,
       "name": "Mount Rushmore (feat. Kano & Wretch 32)",
-      "url": "https://open.spotify.com/track/00qIL8uavO32InG5YjLBs5"
+      "url": "https://open.spotify.com/track/39aFGcwsZSn4zjKepcBXE0"
     },
     {
       "added_at": "2024-02-23 00:00:00",
@@ -279,8 +279,8 @@
     {
       "added_at": "2024-02-23 00:00:00",
       "album": {
-        "name": "Midas Touch",
-        "url": "https://open.spotify.com/album/6pot9ikG8APyn1dErbdkAf"
+        "name": "Thanks For Hating",
+        "url": "https://open.spotify.com/album/5s9JCGTwH7cWs8Kt1tANZ7"
       },
       "artists": [
         {
@@ -288,13 +288,13 @@
           "url": "https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z"
         },
         {
-          "name": "ADMT",
-          "url": "https://open.spotify.com/artist/6ksk9LbK2gyhtXOFNNJYXi"
+          "name": "adm:t",
+          "url": "https://open.spotify.com/artist/2twME3jNUXdJCcaJ7dqHsJ"
         }
       ],
       "duration_ms": 199521,
       "name": "Midas Touch",
-      "url": "https://open.spotify.com/track/6UF0IMJyAYyoLxOhYnOO0q"
+      "url": "https://open.spotify.com/track/0ZcGPQYJbFXOZ5zd4xfoSb"
     },
     {
       "added_at": "2024-02-23 00:00:00",
@@ -311,6 +311,22 @@
       "duration_ms": 249560,
       "name": "Capricorn",
       "url": "https://open.spotify.com/track/2tKqhcDNVVKXJqllKzrecM"
+    },
+    {
+      "added_at": "2024-02-23 00:00:00",
+      "album": {
+        "name": "With YOU-th",
+        "url": "https://open.spotify.com/album/575TQDOQqc0MAheeEeKWUR"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 183559,
+      "name": "ONE SPARK",
+      "url": "https://open.spotify.com/track/7cIn67LEvk16v6komC8znS"
     },
     {
       "added_at": "2024-02-23 00:00:00",
@@ -513,7 +529,7 @@
         }
       ],
       "duration_ms": 206039,
-      "name": "Sh*t Show",
+      "name": "Shit Show",
       "url": "https://open.spotify.com/track/090hszohQB1ibgEYfY2KVJ"
     },
     {

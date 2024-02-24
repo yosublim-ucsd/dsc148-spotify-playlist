@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "turn it up \u2b06\ufe0f Cover: Pearl Jam",
+  "description": "rock at its loudest. turn it up \u2b06\ufe0f Cover: Beartooth",
   "name": "VOLUME",
   "tracks": [
     {
@@ -142,7 +142,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 204378,
       "name": "10,000 Volts",
       "url": "https://open.spotify.com/track/4eJdMXViYA7SYKD499AvNF"
@@ -348,6 +348,24 @@
       "duration_ms": 209596,
       "name": "A Disappearing Act",
       "url": "https://open.spotify.com/track/04flu1A6UXP4Stissk3G1l"
+    },
+    {
+      "album": {
+        "name": "A Dozen Roses",
+        "url": "https://open.spotify.com/album/1NjGLb0DCKNn086xUgQtCd"
+      },
+      "artists": [
+        {
+          "name": "Amira Elfeky",
+          "url": "https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156194,
+      "name": "A Dozen Roses",
+      "url": "https://open.spotify.com/track/5zfSxKmqBSKTaZjVkvPkmA"
     },
     {
       "album": {
@@ -836,7 +854,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 226735,
       "name": "Angry",
       "url": "https://open.spotify.com/track/0daHbdrLvUmkh81rnolMcG"
@@ -3042,7 +3060,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 211000,
       "name": "Castaway",
       "url": "https://open.spotify.com/track/5M6DHWW8omQHWg7Oyx0HAB"
@@ -3824,6 +3842,24 @@
       "duration_ms": 209021,
       "name": "Crosses (feat. Spencer Chamberlain of Underoath)",
       "url": "https://open.spotify.com/track/35S0Oh0JrXAhGzrLHzUvw8"
+    },
+    {
+      "album": {
+        "name": "The Serpent and the King",
+        "url": "https://open.spotify.com/album/53T5pDi25DmqJiQgHdinBq"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345760,
+      "name": "Crown of Horns",
+      "url": "https://open.spotify.com/track/5XVlQGOkvrCGeirg8eANAr"
     },
     {
       "album": {
@@ -12193,6 +12229,24 @@
     },
     {
       "album": {
+        "name": "Nightmare (The Devil)",
+        "url": "https://open.spotify.com/album/0hMtI2waRMun1xrQhhdsOA"
+      },
+      "artists": [
+        {
+          "name": "Fame on Fire",
+          "url": "https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201110,
+      "name": "Nightmare (The Devil)",
+      "url": "https://open.spotify.com/track/0hCNHNnXTpUXsTpi7C8RsC"
+    },
+    {
+      "album": {
         "name": "Ego Trip",
         "url": "https://open.spotify.com/album/5OSVAtytFqdJwIJpD3gGEJ"
       },
@@ -14368,6 +14422,28 @@
       "duration_ms": 211119,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/6FqBQIRLJMluO10YtDbETv"
+    },
+    {
+      "album": {
+        "name": "Rise (Redux)",
+        "url": "https://open.spotify.com/album/0TtYq1Ni9PBoyxCAkqxuVC"
+      },
+      "artists": [
+        {
+          "name": "The Word Alive",
+          "url": "https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194919,
+      "name": "Rise (Redux)",
+      "url": "https://open.spotify.com/track/069KZZROmbuGFuZ0B0Qc7A"
     },
     {
       "album": {
@@ -16670,7 +16746,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 204226,
       "name": "Take Shape (feat. Billy Corgan)",
       "url": "https://open.spotify.com/track/6uBtqwcoaMTcTewEXX9e7T"
@@ -18332,7 +18408,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 194666,
       "name": "Tonight (demo)",
       "url": "https://open.spotify.com/track/6p5duPGjAdVYLq2kOGXYUD"
@@ -18368,7 +18444,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 273693,
       "name": "Too Far Gone?",
       "url": "https://open.spotify.com/track/7KdgYr9jNkQO1Au7BGjGLW"
@@ -18440,10 +18516,28 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 261014,
       "name": "Trial By Fire",
       "url": "https://open.spotify.com/track/6oIGM95s3TIyPqhHIH2AQ6"
+    },
+    {
+      "album": {
+        "name": "Lighting Up The Sky",
+        "url": "https://open.spotify.com/album/178SPEdKkCkZI05AGiZXad"
+      },
+      "artists": [
+        {
+          "name": "Godsmack",
+          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273337,
+      "name": "Truth",
+      "url": "https://open.spotify.com/track/47HaGgU2pNSoSEqGXhpBvw"
     },
     {
       "album": {
@@ -19775,6 +19869,24 @@
     },
     {
       "album": {
+        "name": "When The Pain Comes",
+        "url": "https://open.spotify.com/album/778Va2ghjUV0BwrzgHe61G"
+      },
+      "artists": [
+        {
+          "name": "Black Stone Cherry",
+          "url": "https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204338,
+      "name": "When The Pain Comes",
+      "url": "https://open.spotify.com/track/2SS8uiav9RDrBhGqTpRvVY"
+    },
+    {
+      "album": {
         "name": "when we were broken",
         "url": "https://open.spotify.com/album/1dbPpxmeNr0DoDJ1vWn5Sb"
       },
@@ -20224,7 +20336,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 222301,
       "name": "Won't Take Me Alive",
       "url": "https://open.spotify.com/track/30yrLJiv98k8ZhoWXhko3h"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-01",
-  "description": "Honramos la memoria de las leyendas de nuestra M\u00fasica Mexicana. Valent\u00edn Elizalde en portada. ",
+  "description": "Que me toquen el corrido de \"El Mentado\" para recordar a Ariel \ud83d\ude4f\ud83c\udffc\u2728\ud83e\udee1\ud83d\udc96 ",
   "name": "Inmortales de la M\u00fasica Mexicana",
   "tracks": [
     {
@@ -222,7 +222,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-11",
+      "date_removed": null,
       "duration_ms": 247362,
       "name": "Cada Quien",
       "url": "https://open.spotify.com/track/3T6M9C9eOTSeGyDFVbV8uN"
@@ -240,7 +240,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 202500,
       "name": "Caja de Muerte",
       "url": "https://open.spotify.com/track/3yNdtIO9fyip5mTx0OZc3X"
@@ -464,7 +464,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 208146,
       "name": "El Chico Del Apartamento 512",
       "url": "https://open.spotify.com/track/4pY85K7zPSZxlm1uXkrxRF"
@@ -504,7 +504,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-20",
+      "date_removed": null,
       "duration_ms": 284013,
       "name": "El Destino (with Juan Gabriel)",
       "url": "https://open.spotify.com/track/2rBZGVYX3LEHEREi8HvZIg"
@@ -544,6 +544,24 @@
       "duration_ms": 195136,
       "name": "El Karma",
       "url": "https://open.spotify.com/track/34eVjAbZ5CzAtZIVMDHL1C"
+    },
+    {
+      "album": {
+        "name": "El Karma (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY"
+      },
+      "artists": [
+        {
+          "name": "Ariel Camacho y Los Plebes Del Rancho",
+          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156511,
+      "name": "El Mentado",
+      "url": "https://open.spotify.com/track/4qZfObHdk6sphLcReDazoq"
     },
     {
       "album": {
@@ -594,10 +612,28 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-04",
+      "date_removed": null,
       "duration_ms": 215797,
       "name": "El Rey De Corazones",
       "url": "https://open.spotify.com/track/5hXA2phKHcWusWa2UmKeAO"
+    },
+    {
+      "album": {
+        "name": "El Karma (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY"
+      },
+      "artists": [
+        {
+          "name": "Ariel Camacho y Los Plebes Del Rancho",
+          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215250,
+      "name": "El Se\u00f1or de los Cielos",
+      "url": "https://open.spotify.com/track/7GuMMcKE6CzkMx53uvE2bN"
     },
     {
       "album": {
@@ -938,7 +974,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 233066,
       "name": "La Jugada",
       "url": "https://open.spotify.com/track/1wpYlTOjnNjg4NFOSfEZAQ"
@@ -1754,7 +1790,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 204733,
       "name": "Volver\u00e9 (Tornero)",
       "url": "https://open.spotify.com/track/3OpUzRY4MNYo3RtmNIhb8s"
@@ -1812,7 +1848,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 207123,
       "name": "Yo la Quer\u00eda para Mi",
       "url": "https://open.spotify.com/track/6JRJhfBSAGgQKXkXsTH4b0"

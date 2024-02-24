@@ -1,5 +1,5 @@
 {
-  "2024-02-23": 753875,
+  "2024-02-24": 754015,
   "date_first_scraped": "2019-08-02",
   "description": "A deep electronic and organic sound, inspired by the folk music of Africa, Latin America and the Middle East.",
   "name": "Org\u00e1nica",
@@ -1229,6 +1229,24 @@
       "duration_ms": 451525,
       "name": "Beyond Strings",
       "url": "https://open.spotify.com/track/0X0nx6xOexUGeR5lGfqXCE"
+    },
+    {
+      "album": {
+        "name": "Birds Of Toi",
+        "url": "https://open.spotify.com/album/3v2LsemlmJTwtbTCX3UlJT"
+      },
+      "artists": [
+        {
+          "name": "Distropical",
+          "url": "https://open.spotify.com/artist/5hW8i3nfA2DknrWudd2aUF"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "Birds Of Toi",
+      "url": "https://open.spotify.com/track/2IVlbPA7i2L2BWEFvyUqI8"
     },
     {
       "album": {
@@ -5595,7 +5613,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 198545,
       "name": "Persian Nights",
       "url": "https://open.spotify.com/track/5pRfsRKRDsAAkYvQ7262YH"

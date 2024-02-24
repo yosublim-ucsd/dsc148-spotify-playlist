@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Qu\u00e9 rico el mambo! Cover: Machito",
-  "num_followers": 102989,
+  "num_followers": 103005,
   "original_name": "Mambo Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYTg2YTI1YzMwZmIzMDQzNWJlMThjNGJkMTUwY2VmM2QwZTY0MjZk",
+  "snapshot_id": "MCw2OGY1NThjYWQ1YzFlODJkMWRlYzAwZTk3YTQ0ZjJkNGY3MzdjNTU0",
   "tracks": [
     {
       "added_at": "2023-03-08 00:17:18",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-03-08 00:17:18",
       "album": {
-        "name": "Dance Mania Vol.1",
-        "url": "https://open.spotify.com/album/1XjabdmwipT62cLSZV45SU"
-      },
-      "artists": [
-        {
-          "name": "Tito Puente & His Orchestra",
-          "url": "https://open.spotify.com/artist/1zN5Et4jcH3XQ0b60IGmp1"
-        }
-      ],
-      "duration_ms": 225933,
-      "name": "Hong Kong Mambo",
-      "url": "https://open.spotify.com/track/1QLC5yG0vyDMXsShhpsGsX"
-    },
-    {
-      "added_at": "2023-03-08 00:17:18",
-      "album": {
         "name": "A Little Bit Of Everything",
         "url": "https://open.spotify.com/album/49CPTtkajDw9XAcUafNgrY"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 155633,
       "name": "Separarla Tambi\u00e9n",
       "url": "https://open.spotify.com/track/2uUimJq18JcrZjgkuvLuMa"
+    },
+    {
+      "added_at": "2023-03-08 00:17:18",
+      "album": {
+        "name": "Dance Mania Vol.1",
+        "url": "https://open.spotify.com/album/1XjabdmwipT62cLSZV45SU"
+      },
+      "artists": [
+        {
+          "name": "Tito Puente & His Orchestra",
+          "url": "https://open.spotify.com/artist/1zN5Et4jcH3XQ0b60IGmp1"
+        }
+      ],
+      "duration_ms": 225933,
+      "name": "Hong Kong Mambo",
+      "url": "https://open.spotify.com/track/1QLC5yG0vyDMXsShhpsGsX"
     },
     {
       "added_at": "2023-03-08 00:17:18",
@@ -519,22 +519,18 @@
     {
       "added_at": "2023-03-08 00:17:18",
       "album": {
-        "name": "El Manisero",
-        "url": "https://open.spotify.com/album/35GjYQu1NvqoJz1uXbtddK"
+        "name": "La Herencia",
+        "url": "https://open.spotify.com/album/3GOBlGfrkA9AmjdsBcRX3G"
       },
       "artists": [
         {
-          "name": "Bebo Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj"
-        },
-        {
-          "name": "Orquesta Sabor De Cuba",
-          "url": "https://open.spotify.com/artist/59ZNpioUB3Erkn4cZy1eGO"
+          "name": "Machito",
+          "url": "https://open.spotify.com/artist/3mdrgtEX1xhiauu3Pn06LL"
         }
       ],
-      "duration_ms": 169546,
-      "name": "Sasauma - Mambo",
-      "url": "https://open.spotify.com/track/0gxKSoP8PGv1Xwis1J2EWO"
+      "duration_ms": 184773,
+      "name": "The Herb Vendor",
+      "url": "https://open.spotify.com/track/3ZIClXUDVFwnvUssqD3OKU"
     },
     {
       "added_at": "2023-03-08 00:17:18",
@@ -555,18 +551,22 @@
     {
       "added_at": "2023-03-08 00:17:18",
       "album": {
-        "name": "La Herencia",
-        "url": "https://open.spotify.com/album/3GOBlGfrkA9AmjdsBcRX3G"
+        "name": "El Manisero",
+        "url": "https://open.spotify.com/album/35GjYQu1NvqoJz1uXbtddK"
       },
       "artists": [
         {
-          "name": "Machito",
-          "url": "https://open.spotify.com/artist/3mdrgtEX1xhiauu3Pn06LL"
+          "name": "Bebo Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj"
+        },
+        {
+          "name": "Orquesta Sabor De Cuba",
+          "url": "https://open.spotify.com/artist/59ZNpioUB3Erkn4cZy1eGO"
         }
       ],
-      "duration_ms": 184773,
-      "name": "The Herb Vendor",
-      "url": "https://open.spotify.com/track/3ZIClXUDVFwnvUssqD3OKU"
+      "duration_ms": 169546,
+      "name": "Sasauma - Mambo",
+      "url": "https://open.spotify.com/track/0gxKSoP8PGv1Xwis1J2EWO"
     },
     {
       "added_at": "2023-03-08 00:17:18",
@@ -619,6 +619,22 @@
     {
       "added_at": "2023-03-08 00:17:18",
       "album": {
+        "name": "Kenya",
+        "url": "https://open.spotify.com/album/1BHUIrORQwywRkl5cjapQz"
+      },
+      "artists": [
+        {
+          "name": "Machito",
+          "url": "https://open.spotify.com/artist/3mdrgtEX1xhiauu3Pn06LL"
+        }
+      ],
+      "duration_ms": 167893,
+      "name": "Wild Jungle - 2000 Remaster",
+      "url": "https://open.spotify.com/track/0uoOBKdEsBzqKjondmUTli"
+    },
+    {
+      "added_at": "2023-03-08 00:17:18",
+      "album": {
         "name": "Besame Mucho and More Golden Hits",
         "url": "https://open.spotify.com/album/55iu99b3CQUneNy1hTeRig"
       },
@@ -655,22 +671,6 @@
     {
       "added_at": "2023-03-08 00:17:18",
       "album": {
-        "name": "Perez Prado - Mambo",
-        "url": "https://open.spotify.com/album/0W55Jt0adeRjt6AqB6rJdV"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9rez Prado",
-          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
-        }
-      ],
-      "duration_ms": 127360,
-      "name": "Patricia",
-      "url": "https://open.spotify.com/track/3Wuo44ejdseJkZ5eaAwr5D"
-    },
-    {
-      "added_at": "2023-03-08 00:17:18",
-      "album": {
         "name": "Dance Mania Vol.1",
         "url": "https://open.spotify.com/album/1XjabdmwipT62cLSZV45SU"
       },
@@ -703,34 +703,18 @@
     {
       "added_at": "2023-03-08 00:17:18",
       "album": {
-        "name": "Salsa Na' Ma'",
-        "url": "https://open.spotify.com/album/1ETJ89KjLOTBrBrAG2Dv8W"
+        "name": "Perez Prado - Mambo",
+        "url": "https://open.spotify.com/album/0W55Jt0adeRjt6AqB6rJdV"
       },
       "artists": [
         {
-          "name": "Charlie Palmieri and His Orchestra La Duboney",
-          "url": "https://open.spotify.com/artist/1jqzqfKGgaSN517pbyIdRh"
+          "name": "P\u00e9rez Prado",
+          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
         }
       ],
-      "duration_ms": 145358,
-      "name": "El Yerbero",
-      "url": "https://open.spotify.com/track/0Ix8RTtzO4v6lC8mlpXkVq"
-    },
-    {
-      "added_at": "2023-03-08 00:17:18",
-      "album": {
-        "name": "Kenya",
-        "url": "https://open.spotify.com/album/1BHUIrORQwywRkl5cjapQz"
-      },
-      "artists": [
-        {
-          "name": "Machito",
-          "url": "https://open.spotify.com/artist/3mdrgtEX1xhiauu3Pn06LL"
-        }
-      ],
-      "duration_ms": 167893,
-      "name": "Wild Jungle - 2000 Remaster",
-      "url": "https://open.spotify.com/track/0uoOBKdEsBzqKjondmUTli"
+      "duration_ms": 127360,
+      "name": "Patricia",
+      "url": "https://open.spotify.com/track/3Wuo44ejdseJkZ5eaAwr5D"
     },
     {
       "added_at": "2023-03-08 00:17:18",
@@ -747,6 +731,38 @@
       "duration_ms": 254933,
       "name": "Por Que Me Enganas",
       "url": "https://open.spotify.com/track/6a5wswScOVS0b7Zns14jQ5"
+    },
+    {
+      "added_at": "2023-03-08 00:17:18",
+      "album": {
+        "name": "Salsa Na' Ma'",
+        "url": "https://open.spotify.com/album/1ETJ89KjLOTBrBrAG2Dv8W"
+      },
+      "artists": [
+        {
+          "name": "Charlie Palmieri and His Orchestra La Duboney",
+          "url": "https://open.spotify.com/artist/1jqzqfKGgaSN517pbyIdRh"
+        }
+      ],
+      "duration_ms": 145358,
+      "name": "El Yerbero",
+      "url": "https://open.spotify.com/track/0Ix8RTtzO4v6lC8mlpXkVq"
+    },
+    {
+      "added_at": "2023-03-08 00:17:18",
+      "album": {
+        "name": "Mi Amigo, Machito",
+        "url": "https://open.spotify.com/album/2lKq4rYdg8Byf3O7EkiZap"
+      },
+      "artists": [
+        {
+          "name": "Machito",
+          "url": "https://open.spotify.com/artist/3mdrgtEX1xhiauu3Pn06LL"
+        }
+      ],
+      "duration_ms": 196920,
+      "name": "Si Si No No",
+      "url": "https://open.spotify.com/track/0u7PjYa0zIkQSor0a3gFgJ"
     },
     {
       "added_at": "2023-03-08 00:17:18",
@@ -803,22 +819,6 @@
       "duration_ms": 197333,
       "name": "Blen, Blen, Blen",
       "url": "https://open.spotify.com/track/0koL9KgFF8DiuNExstwl4X"
-    },
-    {
-      "added_at": "2023-03-08 00:17:18",
-      "album": {
-        "name": "Mi Amigo, Machito",
-        "url": "https://open.spotify.com/album/2lKq4rYdg8Byf3O7EkiZap"
-      },
-      "artists": [
-        {
-          "name": "Machito",
-          "url": "https://open.spotify.com/artist/3mdrgtEX1xhiauu3Pn06LL"
-        }
-      ],
-      "duration_ms": 196920,
-      "name": "Si Si No No",
-      "url": "https://open.spotify.com/track/0u7PjYa0zIkQSor0a3gFgJ"
     },
     {
       "added_at": "2023-03-08 00:17:18",

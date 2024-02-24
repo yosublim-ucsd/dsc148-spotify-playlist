@@ -1,12 +1,12 @@
 {
   "description": "Big bands, big sounds.",
-  "num_followers": 395321,
+  "num_followers": 395355,
   "original_name": "Big Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMTRiNzA0YzNkYzc3YmFhMjcwN2ZhOGIzNzA3YjcwOTFmMWI2NzY1",
+  "snapshot_id": "MCxmODYwMGRkNzVmMzEyZjFkYzJlOWJhZmRmYTg3YmJjMTkzNDIzYTgy",
   "tracks": [
     {
       "added_at": "2020-03-06 16:28:56",
@@ -455,26 +455,6 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "Ella Fitzgerald Sings The Duke Ellington Song Book",
-        "url": "https://open.spotify.com/album/25eBsQypjHakiWu1OnPHCX"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        },
-        {
-          "name": "Duke Ellington",
-          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
-        }
-      ],
-      "duration_ms": 404880,
-      "name": "Take The \"A\" Train",
-      "url": "https://open.spotify.com/track/6noZKuR5pjlEIynqvpFPbD"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
         "name": "Golden Girl (The Columbia Recordings 1944-1966)",
         "url": "https://open.spotify.com/album/5Vck2QyeSlhWymxrnQWpoM"
       },
@@ -491,6 +471,26 @@
       "duration_ms": 171666,
       "name": "Lullaby of Broadway (with Harry James & His Orchestra) - Version 2",
       "url": "https://open.spotify.com/track/0qPeyVfebszZcHTUc48Lzl"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "Ella Fitzgerald Sings The Duke Ellington Song Book",
+        "url": "https://open.spotify.com/album/25eBsQypjHakiWu1OnPHCX"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "duration_ms": 404880,
+      "name": "Take The \"A\" Train",
+      "url": "https://open.spotify.com/track/6noZKuR5pjlEIynqvpFPbD"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -597,38 +597,6 @@
       "url": "https://open.spotify.com/track/1EbSCkFjbaTncuamPWPq11"
     },
     {
-      "added_at": "2023-02-10 05:01:00",
-      "album": {
-        "name": "Happy Together",
-        "url": "https://open.spotify.com/album/4RsJz7fSJgWzGhooCmzGoO"
-      },
-      "artists": [
-        {
-          "name": "Matt Forbes",
-          "url": "https://open.spotify.com/artist/04NOFvtSv6ElxAgVdXsjdt"
-        }
-      ],
-      "duration_ms": 216738,
-      "name": "Happy Together",
-      "url": "https://open.spotify.com/track/3fwtrg0fdPvtW793T6WPwF"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
-        "name": "Night In Tunisia: The Very Best Of Dizzy Gillespie",
-        "url": "https://open.spotify.com/album/23CDAtj0sfiYYuoDWYR6cf"
-      },
-      "artists": [
-        {
-          "name": "Dizzy Gillespie",
-          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
-        }
-      ],
-      "duration_ms": 186693,
-      "name": "Manteca",
-      "url": "https://open.spotify.com/track/6KpMB0Wgw1NVFqwn0DCprf"
-    },
-    {
       "added_at": "2020-03-06 16:28:56",
       "album": {
         "name": "Verve Jazz Masters 54: Woody Herman",
@@ -659,6 +627,38 @@
       "duration_ms": 185333,
       "name": "I Got Rhythm",
       "url": "https://open.spotify.com/track/1IjZmiq8MrgzEsHgb0ubLA"
+    },
+    {
+      "added_at": "2023-02-10 05:01:00",
+      "album": {
+        "name": "Happy Together",
+        "url": "https://open.spotify.com/album/4RsJz7fSJgWzGhooCmzGoO"
+      },
+      "artists": [
+        {
+          "name": "Matt Forbes",
+          "url": "https://open.spotify.com/artist/04NOFvtSv6ElxAgVdXsjdt"
+        }
+      ],
+      "duration_ms": 216738,
+      "name": "Happy Together",
+      "url": "https://open.spotify.com/track/3fwtrg0fdPvtW793T6WPwF"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "Night In Tunisia: The Very Best Of Dizzy Gillespie",
+        "url": "https://open.spotify.com/album/23CDAtj0sfiYYuoDWYR6cf"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Gillespie",
+          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
+        }
+      ],
+      "duration_ms": 186693,
+      "name": "Manteca",
+      "url": "https://open.spotify.com/track/6KpMB0Wgw1NVFqwn0DCprf"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -733,6 +733,22 @@
       "url": "https://open.spotify.com/track/0C5Pl5iQGnqrnguPjrriUP"
     },
     {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "Birks Works: The Verve Big-Band Sessions",
+        "url": "https://open.spotify.com/album/7yyH8DozyrWFMEAWhCV2oS"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Gillespie",
+          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
+        }
+      ],
+      "duration_ms": 235866,
+      "name": "Doodlin'",
+      "url": "https://open.spotify.com/track/2jb1Abu8FOdpIAICSnV6C6"
+    },
+    {
       "added_at": "2022-10-28 04:01:00",
       "album": {
         "name": "Rumble Jam - Big Band and Jazz Themes",
@@ -751,22 +767,6 @@
       "duration_ms": 148166,
       "name": "The Night Is Ours",
       "url": "https://open.spotify.com/track/3gdtpnncPDMylME3EWreQf"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
-        "name": "Birks Works: The Verve Big-Band Sessions",
-        "url": "https://open.spotify.com/album/7yyH8DozyrWFMEAWhCV2oS"
-      },
-      "artists": [
-        {
-          "name": "Dizzy Gillespie",
-          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
-        }
-      ],
-      "duration_ms": 235866,
-      "name": "Doodlin'",
-      "url": "https://open.spotify.com/track/2jb1Abu8FOdpIAICSnV6C6"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -807,22 +807,6 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "The Quintessence",
-        "url": "https://open.spotify.com/album/5x1ThzsG2tvGCzdcbS54GH"
-      },
-      "artists": [
-        {
-          "name": "Quincy Jones",
-          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
-        }
-      ],
-      "duration_ms": 147080,
-      "name": "Straight, No Chaser",
-      "url": "https://open.spotify.com/track/01k3YE4W9XfTTTXAG2QlEs"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
         "name": "Inspiration (A Tribute To Nat King Cole)",
         "url": "https://open.spotify.com/album/7CVBlFmDZnYjHyP6G0aj0m"
       },
@@ -839,38 +823,18 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "Present Perfect",
-        "url": "https://open.spotify.com/album/6BLOeCD5XEE3yPs7GpIovn"
+        "name": "The Quintessence",
+        "url": "https://open.spotify.com/album/5x1ThzsG2tvGCzdcbS54GH"
       },
       "artists": [
         {
-          "name": "Rob McConnell",
-          "url": "https://open.spotify.com/artist/0I283aIonuly1I86RkxpXr"
-        },
-        {
-          "name": "The Boss Brass",
-          "url": "https://open.spotify.com/artist/6JPFuxGY5ZvsAlznTmLTbT"
+          "name": "Quincy Jones",
+          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
         }
       ],
-      "duration_ms": 582509,
-      "name": "The Waltz I Blew for You",
-      "url": "https://open.spotify.com/track/3dx30dESDnNEglqLAVknpX"
-    },
-    {
-      "added_at": "2021-02-26 05:01:00",
-      "album": {
-        "name": "That's Life",
-        "url": "https://open.spotify.com/album/3i0UVz6teoPDfy3JhK74Tr"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 184506,
-      "name": "Luck Be a Lady",
-      "url": "https://open.spotify.com/track/5HiCP97aBMKcaNJdp8CAPq"
+      "duration_ms": 147080,
+      "name": "Straight, No Chaser",
+      "url": "https://open.spotify.com/track/01k3YE4W9XfTTTXAG2QlEs"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -895,6 +859,42 @@
       "duration_ms": 186598,
       "name": "Your Mind Is on Vacation",
       "url": "https://open.spotify.com/track/7F0owhC3XEnUACoLcnyCHJ"
+    },
+    {
+      "added_at": "2021-02-26 05:01:00",
+      "album": {
+        "name": "That's Life",
+        "url": "https://open.spotify.com/album/3i0UVz6teoPDfy3JhK74Tr"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 184506,
+      "name": "Luck Be a Lady",
+      "url": "https://open.spotify.com/track/5HiCP97aBMKcaNJdp8CAPq"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "Present Perfect",
+        "url": "https://open.spotify.com/album/6BLOeCD5XEE3yPs7GpIovn"
+      },
+      "artists": [
+        {
+          "name": "Rob McConnell",
+          "url": "https://open.spotify.com/artist/0I283aIonuly1I86RkxpXr"
+        },
+        {
+          "name": "The Boss Brass",
+          "url": "https://open.spotify.com/artist/6JPFuxGY5ZvsAlznTmLTbT"
+        }
+      ],
+      "duration_ms": 582509,
+      "name": "The Waltz I Blew for You",
+      "url": "https://open.spotify.com/track/3dx30dESDnNEglqLAVknpX"
     }
   ],
   "unique_name": "Big Band",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/59RVdM0oev6GKFiuDXzH6F.md) - [plain]
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 4,186 likes - 261 songs - 12 hr 58 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 4,186 likes - 264 songs - 13 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -269,5 +269,8 @@ pretty - [cumulative](/playlists/cumulative/59RVdM0oev6GKFiuDXzH6F.md) - [plain]
 | 259 | [Remedy](https://open.spotify.com/track/5RK9lBKtsUbt1eLpwhdTBo) | [Voltech](https://open.spotify.com/artist/66DRc0RcwzeQcm1wKdDQ4o), [Helvig](https://open.spotify.com/artist/7EUlVK6q2GzNPHzqmnmDOS), [Sydney Jo Jackson](https://open.spotify.com/artist/3TV2LSYttSMFFHYIzbCvjn) | [Remedy](https://open.spotify.com/album/2Qpv0vlQbBZYxWwcHQx9SB) | 3:06 |
 | 260 | [Tu Tu](https://open.spotify.com/track/3LUq5EsyDfbdjMhUBYMQJ8) | [TECH IT DEEP](https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw), [Chico Rose](https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX) | [Tu Tu](https://open.spotify.com/album/3dw0eHvyRnuIdIp7LrkOmw) | 3:03 |
 | 261 | [Dance Tonight \- Radio Edit](https://open.spotify.com/track/4HVBbVh5Waf5T0OBs6wJb1) | [Costax](https://open.spotify.com/artist/3DELE2GHaCG8ljlpp7ZPHk), [Demetrious](https://open.spotify.com/artist/6UCNHUTkMUc8xDQELcLt7E) | [Dance Tonight](https://open.spotify.com/album/28x9fydsQw8uKi80rSlRqF) | 3:06 |
+| 262 | [Whisky & Sin](https://open.spotify.com/track/0ROxCagCsgm86OXS1w4nzw) | [BLACK/WHITE](https://open.spotify.com/artist/1Hrkfoh0Vs5Fc6DeJM1CT0) | [Whisky & Sin](https://open.spotify.com/album/3c5T6M1MQIXtfXu25hntCg) | 3:16 |
+| 263 | [I Want Your Love](https://open.spotify.com/track/1jvfgfCOv90EJKKzH5xcHP) | [Kapuzen](https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN) | [I Want Your Love](https://open.spotify.com/album/3sEFukZJPoPKptg5FYMeIf) | 3:26 |
+| 264 | [Doing It Again](https://open.spotify.com/track/0AxszPVvsE30gPOk6J0Csy) | [Walter Alan](https://open.spotify.com/artist/1QXPCz4ERtbszXTPji4sjl), [Axity](https://open.spotify.com/artist/4TEOItM1eSa55pK44NiEhp), [Kris Kiss](https://open.spotify.com/artist/3Hzok9apHnCGDDkGltQcMg) | [Doing It Again](https://open.spotify.com/album/4g2fgvg9GoY9vGdivnW1I1) | 2:21 |
 
-Snapshot ID: `MzUzMCwxZWE2MTIxMWFjMTMzYmIxYmRmNzY2NjMzMmVkYTdlOGJiZTk0MTU4`
+Snapshot ID: `MzUzMyw1MWMxY2MxNTQ0NzY0NzUyN2I5ODllMjRiNWViOTEyZjI1NmUzYzE0`

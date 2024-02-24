@@ -1,7 +1,7 @@
 {
-  "2024-02-23": 20039,
+  "2024-02-24": 20052,
   "date_first_scraped": "2022-12-01",
-  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover: Samini",
+  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover: Wendy Shay ",
   "name": "Ghana Party",
   "tracks": [
     {
@@ -47,7 +47,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 189093,
       "name": "11:11",
       "url": "https://open.spotify.com/track/13wo2NiCVw2tAq3SJ2pYSX"
@@ -192,6 +192,24 @@
     },
     {
       "album": {
+        "name": "Abyss",
+        "url": "https://open.spotify.com/album/3SVQB6dIQvEaXe53CbZ1QQ"
+      },
+      "artists": [
+        {
+          "name": "Ess thee Legend",
+          "url": "https://open.spotify.com/artist/16ouaa6tZ9jk1hm82V2HaA"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173014,
+      "name": "Abyss",
+      "url": "https://open.spotify.com/track/1c3Uvil5DpA6FfFPIi4914"
+    },
+    {
+      "album": {
         "name": "Adidede",
         "url": "https://open.spotify.com/album/6ZK7DECfuQLrw7VryCxQJU"
       },
@@ -287,7 +305,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 201702,
       "name": "Afrafranto",
       "url": "https://open.spotify.com/track/4Nr8zmrAdnJBnFs4CpMxnr"
@@ -1627,7 +1645,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 186666,
       "name": "Eboso",
       "url": "https://open.spotify.com/track/0l0aDiPRoexmDiJum6ZycI"
@@ -2160,6 +2178,24 @@
     },
     {
       "album": {
+        "name": "Friends",
+        "url": "https://open.spotify.com/album/6sgJbJLPVdIEMOw1xVivHN"
+      },
+      "artists": [
+        {
+          "name": "Dayonthetrack",
+          "url": "https://open.spotify.com/artist/7vsaQwuPAG2PSWPVitnXrc"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/0n01Jo84IjPVepCtZ6ZFnr"
+    },
+    {
+      "album": {
         "name": "From Osu",
         "url": "https://open.spotify.com/album/1qEx9aEwX3lrz0EX3Oro8z"
       },
@@ -2543,6 +2579,28 @@
       "duration_ms": 556190,
       "name": "Holding On - Live Dub Mix",
       "url": "https://open.spotify.com/track/4MzxG2az6IMFAMNlUlivwP"
+    },
+    {
+      "album": {
+        "name": "Holy Father",
+        "url": "https://open.spotify.com/album/1AYw6sAIeqlefgpeNqjVjo"
+      },
+      "artists": [
+        {
+          "name": "Wendy Shay",
+          "url": "https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S"
+        },
+        {
+          "name": "Ras Kuuku",
+          "url": "https://open.spotify.com/artist/24Lo1cdnRz69FYSaX7m44S"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230655,
+      "name": "Holy Father",
+      "url": "https://open.spotify.com/track/2wSk1MHN01QkgGEundIT0y"
     },
     {
       "album": {

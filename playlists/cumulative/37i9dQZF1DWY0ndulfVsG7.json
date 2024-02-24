@@ -795,6 +795,24 @@
     },
     {
       "album": {
+        "name": "Dekade",
+        "url": "https://open.spotify.com/album/68LQj1aPjWAkP6BplJNhq3"
+      },
+      "artists": [
+        {
+          "name": "Chrisye",
+          "url": "https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288813,
+      "name": "Seperti Yang Kau Minta",
+      "url": "https://open.spotify.com/track/0mkeFWinFvxpfZ9tr0RQ7k"
+    },
+    {
+      "album": {
         "name": "Kisah Klasik Untuk Masa Depan",
         "url": "https://open.spotify.com/album/4bPUtZdWsvU1eTPmJFuvwm"
       },
@@ -878,7 +896,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 265560,
       "name": "Tercipta Untukku",
       "url": "https://open.spotify.com/track/4CGpzrPjP0xaJfN9g9FN9A"

@@ -1,5 +1,5 @@
 {
-  "2024-02-23": 80202,
+  "2024-02-24": 80227,
   "date_first_scraped": "2022-10-01",
   "description": "Alternative / Indie / Folk cuts from the continent and diaspora to dive into. Cover: Asa",
   "name": "Afro Indie",
@@ -836,6 +836,28 @@
     },
     {
       "album": {
+        "name": "Foya",
+        "url": "https://open.spotify.com/album/2dzONdn4K6iqxZy8rVfyjS"
+      },
+      "artists": [
+        {
+          "name": "Yaans",
+          "url": "https://open.spotify.com/artist/2aBmsHCMYVxE84mbhFhj4k"
+        },
+        {
+          "name": "Wisdom",
+          "url": "https://open.spotify.com/artist/7pyynkEL0G0TzqIvVWEEWE"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248369,
+      "name": "Foya",
+      "url": "https://open.spotify.com/track/2zAaSEZzHHEVqvD18wgoXN"
+    },
+    {
+      "album": {
         "name": "Give Thanks & Praises",
         "url": "https://open.spotify.com/album/61vhDxm4zijV1ESUdSd9hK"
       },
@@ -1177,7 +1199,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 203418,
       "name": "In The Clouds",
       "url": "https://open.spotify.com/track/4CIOeAaG7HTGFL2OZjbB9k"
@@ -2099,6 +2121,28 @@
       "duration_ms": 290786,
       "name": "noba bangathini",
       "url": "https://open.spotify.com/track/4qfoM0662Amfu0vUBhxzQP"
+    },
+    {
+      "album": {
+        "name": "Nyoni Yami",
+        "url": "https://open.spotify.com/album/1U2hqgPgcpntPLQyYnBxUy"
+      },
+      "artists": [
+        {
+          "name": "Jabulile Majola",
+          "url": "https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF"
+        },
+        {
+          "name": "Yoav",
+          "url": "https://open.spotify.com/artist/2TUFDVa7aZJ4O9U0qjrSJH"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212500,
+      "name": "Nyoni Yami",
+      "url": "https://open.spotify.com/track/1hO7XxOmMRAo3gj2UYqqEg"
     },
     {
       "album": {
@@ -3589,7 +3633,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 202066,
       "name": "Wrong for It",
       "url": "https://open.spotify.com/track/4kntTTVtSIfsTl1dEak3X7"

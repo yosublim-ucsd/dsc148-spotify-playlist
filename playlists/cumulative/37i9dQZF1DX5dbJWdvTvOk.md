@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-658 songs - 1 day 3 hr 53 min
+659 songs - 1 day 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Aegean](https://open.spotify.com/track/6cz8KGBcdCg0V095WH7prM) | [Ale Imke](https://open.spotify.com/artist/3zs6LXRTOTwSP8r38kQxSy) | [Aegean](https://open.spotify.com/album/4UGR9mcZoSuhvybQmz9CwJ) | 2:00 | 2023-04-21 | 2023-12-02 |
 | [Afgangurinn](https://open.spotify.com/track/6bploBGfSJclJuxjV65t3r) | [Aiday Ainur](https://open.spotify.com/artist/5BuB7CRnNJKxzSsu6Mznbj) | [Afgangurinn](https://open.spotify.com/album/711Vy0KS3fmb4K2rgMtP6x) | 2:03 | 2023-04-21 | 2023-06-10 |
 | [Afterglow](https://open.spotify.com/track/0g6ooNqnQPI231K12NymuV) | [Leo Vara](https://open.spotify.com/artist/3f2LfaBv92I0qjmfU6fseT) | [Bordeaux](https://open.spotify.com/album/0yU3pYIPQBNVNhEisrJwe6) | 2:38 | 2023-04-21 | 2023-06-03 |
+| [Afternoon in May](https://open.spotify.com/track/1FcvorbsrplfCxOX3ch77B) | [Michelle Qureshi](https://open.spotify.com/artist/2tnTYLzDkug2iNhsBpWmuG) | [Within](https://open.spotify.com/album/65eOKdl0MxptxgnpDiM8ax) | 2:22 | 2024-02-23 |  |
 | [Ain't Nothing But A Mistake](https://open.spotify.com/track/0Sn18IA6XwtXLkLeBoQFa2) | [Dawn Geller](https://open.spotify.com/artist/0HSRJAuF3aNdrbivhOb9SC) | [Ain't Nothing But A Mistake](https://open.spotify.com/album/2dOWa0Ss7pgUtBa6x0pPSE) | 3:21 | 2023-04-21 | 2024-02-09 |
 | [Akturu](https://open.spotify.com/track/4DTnXXYGPuef1H8aa1R0nA) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Akturu](https://open.spotify.com/album/3zPx6U036ddROrp6lG0XKV) | 3:00 | 2023-04-21 |  |
 | [Albarracín](https://open.spotify.com/track/1Syf6EfG7o04qESj65mxOv) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Albarracín](https://open.spotify.com/album/3xlEDW390BcYtfFMesVcv8) | 1:42 | 2022-08-05 | 2023-04-22 |
@@ -486,7 +487,7 @@
 | [Saint Valentine](https://open.spotify.com/track/1rIOkUQTk0LH9UM6tdRlFR) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Saint Valentine](https://open.spotify.com/album/1MbqX2EtuO7SnLnrKzEnkv) | 1:52 | 2022-07-15 | 2023-04-22 |
 | [Salamanca](https://open.spotify.com/track/53AY7g9X2UhBbDZDCFnc3f) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Salamanca](https://open.spotify.com/album/5RmmprgbPa4o0WlIoJFw5g) | 2:34 | 2023-04-21 | 2023-11-28 |
 | [Salt of the earth](https://open.spotify.com/track/4CqfpazHWTsvO1AiSrtfwl) | [Meg Stiles](https://open.spotify.com/artist/6azAZkeJXuyfeAMVQ3YwU8) | [Salt of the Earth](https://open.spotify.com/album/2ilAYRZfti1IwkWeoTVNC1) | 3:02 | 2022-07-15 | 2023-04-22 |
-| [Salut Sandro](https://open.spotify.com/track/2amfLm3CsTQT3OBlqpXh0M) | [Ivan Bielsa](https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua) | [Salut Sandro](https://open.spotify.com/album/4LxIkpbfjtgmw3Sle1ffAg) | 2:49 | 2023-04-21 |  |
+| [Salut Sandro](https://open.spotify.com/track/2amfLm3CsTQT3OBlqpXh0M) | [Ivan Bielsa](https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua) | [Salut Sandro](https://open.spotify.com/album/4LxIkpbfjtgmw3Sle1ffAg) | 2:49 | 2023-04-21 | 2024-02-24 |
 | [San Gervasi](https://open.spotify.com/track/6nH1eo4LuuJisJ4m8Blw2h) | [Las Lagrimas](https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN) | [San Gervasi](https://open.spotify.com/album/27DWEE5aDyLTksMdhueuM8) | 2:30 | 2022-07-15 | 2023-04-22 |
 | [san luca](https://open.spotify.com/track/5HBOzyGyihD8KEptCOoxxu) | [Valery Isabel](https://open.spotify.com/artist/4QYwsnE0bbhWxuyUbSFnZR) | [purple dreams](https://open.spotify.com/album/3ofKSAH3DgolDBcU1IaWCs) | 3:06 | 2022-07-15 | 2023-03-11 |
 | [San Tropez](https://open.spotify.com/track/2RjR06sl1N1GVii5Vts7TP) | [Tim Hans](https://open.spotify.com/artist/432QjwpddzTUEL02W60QRg) | [San Tropez](https://open.spotify.com/album/7hYM36cQRk7nHmb01n54ts) | 2:22 | 2023-02-24 | 2023-04-22 |

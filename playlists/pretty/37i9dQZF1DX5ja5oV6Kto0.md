@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Filah Lah Lah
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,534 likes - 85 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,591 likes - 85 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 84 | [ARE YOU ALRiGHT?](https://open.spotify.com/track/6NvzVmhpOTyITRRdt9ibmF) | [Shane Eagle](https://open.spotify.com/artist/68J4TRaqXKr8VhSg71JVdV), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [ARE YOU ALRiGHT?](https://open.spotify.com/album/6hICsM6NMQHck05IjUGsWZ) | 4:40 |
 | 85 | [uwase's interlude](https://open.spotify.com/track/69p7jroFrRmMsRkNaxlC8F) | [Manzi Fleur](https://open.spotify.com/artist/6vqX7rIuwyZm3YfB627xJA) | [uwase's interlude](https://open.spotify.com/album/6V7tzuTf7PnHvfkCIMhZD5) | 2:54 |
 
-Snapshot ID: `MCxlMzc4ZjhjMWRhNTFkZGM1YzNmYzI5ODM0MDUxYmQzYzU4OWM4ZWYx`
+Snapshot ID: `MCxhOTdiYmFlNzFlNzM2NWJiM2MxNzRmNjRmNDljOTRkZTg2NTA2OGMz`

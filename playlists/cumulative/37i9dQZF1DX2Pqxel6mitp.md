@@ -4,7 +4,7 @@
 
 > A cup of Joe and the raw Blues.
 
-180 songs - 11 hr 10 min
+181 songs - 11 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [First McDonell's on the Moon](https://open.spotify.com/track/2UGUwgFhyoNVGkO2Fnyome) | [Jake La Botz](https://open.spotify.com/artist/7pHtidPDRlqg71cTcwjWQX) | [Hair On Fire](https://open.spotify.com/album/50eRb4S7gHNJpNIqQGfZYK) | 3:51 | 2023-11-24 |  |
 | [First McDonell's on the Moon](https://open.spotify.com/track/5tIPp0eDCVopzvXyeMgUOm) | [Jake La Botz](https://open.spotify.com/artist/7pHtidPDRlqg71cTcwjWQX) | [First McDonell's on the Moon](https://open.spotify.com/album/6hVnFJurOhApCMbjug96f4) | 3:51 | 2022-05-25 | 2023-12-25 |
 | [Fussin' and Fightin' \(Blues\)](https://open.spotify.com/track/479M29eunSUcosQ608slSc) | [Junior Parker](https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u) | [Next Time You See Me](https://open.spotify.com/album/47tUqkIpGOM1Mpn8dkCzmx) | 3:00 | 2022-06-14 |  |
+| [Going Down South](https://open.spotify.com/track/00omn8FSFkA2Pc6bYw9Q4m) | [Duwayne Burnside](https://open.spotify.com/artist/7nJeSjRUD2PUN4aSYhXkA3) | [Acoustic Burnside](https://open.spotify.com/album/2qDwiHJGbhNWSjBHdU4TEu) | 3:04 | 2023-11-24 |  |
 | [Going Down South](https://open.spotify.com/track/0Zbaiyzuhf4OkDLoZnIJMp) | [Duwayne Burnside](https://open.spotify.com/artist/7nJeSjRUD2PUN4aSYhXkA3) | [Acoustic Burnside](https://open.spotify.com/album/1LLHOFLIfGw0mebbkQrkHr) | 3:04 | 2022-11-18 | 2023-12-20 |
 | [Going To Chicago](https://open.spotify.com/track/2sxwR4yGCYUznXqgewA4Le) | [Fenton Robinson](https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT) | [Somebody Loan Me A Dime](https://open.spotify.com/album/5SynQAltvwPyTbz3m8axVl) | 3:50 | 2022-07-01 | 2024-01-10 |
 | [Going To Chicago \- Remastered](https://open.spotify.com/track/4n4Ui8xq6vRPOHYEKGwQ68) | [Fenton Robinson](https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT) | [Somebody Loan Me A Dime \(Remastered\)](https://open.spotify.com/album/5ygra0dlPxh6lH6CqSCOeZ) | 3:47 | 2023-11-24 |  |
@@ -179,7 +180,7 @@
 | [When The Levee Breaks \(Part One\)](https://open.spotify.com/track/1hzhyWY6IkZEnVRPIDIhwm) | [Magic Slim](https://open.spotify.com/artist/0uDA9BcTnKIPpNcZX6ZY3x), [James Cotton](https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k), [Billy Branch](https://open.spotify.com/artist/5cUazMvxcAPELFif0BGn2t) | [All Blues's Up: Songs of Led Zeppelin](https://open.spotify.com/album/1nvuBxN1Uc6HdVyS2J01Yp) | 2:19 | 2022-05-25 | 2023-12-25 |
 | [Who You Gonna Hoodoo Now?](https://open.spotify.com/track/0ezAYtCKGYWVAtSr1xZGVe) | [Tony Joe White](https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P) | [Hoodoo \(Commentary Version\)](https://open.spotify.com/album/2o8wETexTC7MB0MON0oVWN) | 4:28 | 2022-07-08 | 2023-04-30 |
 | [Who You Gonna Hoodoo Now?](https://open.spotify.com/track/2tPUpQpzrvg0yNHKKZfiS5) | [Tony Joe White](https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P) | [Hoodoo](https://open.spotify.com/album/35Azg941BSNx3sGxo7C1yJ) | 4:28 | 2023-03-24 |  |
-| [Wild Country 2021](https://open.spotify.com/track/4m4dj4kNqbvpgAKap6wJbs) | [Carmel](https://open.spotify.com/artist/3uDjQUKw2WHSYtZcz2xjDo) | [Wild Country](https://open.spotify.com/album/53IDDlOPFfhxS5juY4m8jG) | 5:58 | 2022-05-25 |  |
+| [Wild Country 2021](https://open.spotify.com/track/4m4dj4kNqbvpgAKap6wJbs) | [Carmel](https://open.spotify.com/artist/3uDjQUKw2WHSYtZcz2xjDo) | [Wild Country](https://open.spotify.com/album/53IDDlOPFfhxS5juY4m8jG) | 5:58 | 2022-05-25 | 2024-02-24 |
 | [With My Maker I Am One](https://open.spotify.com/track/1P3EPqytwKmzzgrbw72xRP) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Booker's Guitar](https://open.spotify.com/album/3Ska5qQfOmK6PyxdGhUnSG) | 3:41 | 2022-07-08 |  |
 | [With My Maker I Am One](https://open.spotify.com/track/7rphDmPtaLsPMLxxtc7nQY) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Booker’s Guitar](https://open.spotify.com/album/6ds4XXPkWpPm1FkqYsA3xr) | 3:41 | 2022-05-25 | 2022-07-29 |
 | [Worried Life Blues](https://open.spotify.com/track/77j9SlhRd4MBGU998c7dnw) | [Big Maceo](https://open.spotify.com/artist/6MaCG0Ef8DahWf6Mn0Ikve) | [The King of Chicago Blues Piano](https://open.spotify.com/album/7B0UpbAjvyWdS6ira2Ns5Z) | 2:55 | 2023-01-13 |  |

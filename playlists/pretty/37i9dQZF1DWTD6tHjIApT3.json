@@ -1,12 +1,12 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: AAAMYYY",
-  "num_followers": 109031,
+  "num_followers": 109052,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMDQ5OTQ1NDQzZDNkNzdiNzY3YjI5NGU5ZmQwM2FjMzhiNGExMGQ2",
+  "snapshot_id": "MCw3MDAxMjdkMjJmODJmY2Y4Y2Y2NDIwYmVlZThiYjM3NzUzMjY5YTZh",
   "tracks": [
     {
       "added_at": "2024-02-22 15:00:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-02-22 15:00:00",
       "album": {
-        "name": "Ashes",
-        "url": "https://open.spotify.com/album/3UZBxSPfJQumL14kCOzJJo"
-      },
-      "artists": [
-        {
-          "name": "Superfly",
-          "url": "https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ"
-        }
-      ],
-      "duration_ms": 200366,
-      "name": "Ashes",
-      "url": "https://open.spotify.com/track/2hWYqb2PHlUZKXOdK2rfFA"
-    },
-    {
-      "added_at": "2024-02-22 15:00:00",
-      "album": {
         "name": "\u604b\u6ce5\u68d2\u3002",
         "url": "https://open.spotify.com/album/02oXm4Mjn4lWcc9xubCAW0"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 219643,
       "name": "\u604b\u6ce5\u68d2\u3002",
       "url": "https://open.spotify.com/track/0JnOpiUieuk9SdRv7Fkw2P"
+    },
+    {
+      "added_at": "2024-02-22 15:00:00",
+      "album": {
+        "name": "Ashes",
+        "url": "https://open.spotify.com/album/3UZBxSPfJQumL14kCOzJJo"
+      },
+      "artists": [
+        {
+          "name": "Superfly",
+          "url": "https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ"
+        }
+      ],
+      "duration_ms": 200366,
+      "name": "Ashes",
+      "url": "https://open.spotify.com/track/2hWYqb2PHlUZKXOdK2rfFA"
     },
     {
       "added_at": "2024-02-22 15:00:00",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2024-02-22 15:00:00",
       "album": {
-        "name": "Mori no chiisana restaurant",
-        "url": "https://open.spotify.com/album/06ZsAXR2QKeZGVrLhqmbJa"
+        "name": "\u5e7d\u970a\u3068\u4f5c\u5bb6",
+        "url": "https://open.spotify.com/album/18315yz2JsF0gHi5FGkDO6"
       },
       "artists": [
         {
-          "name": "Aoi Teshima",
-          "url": "https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD"
+          "name": "WEDNESDAY CAMPANELLA",
+          "url": "https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI"
         }
       ],
-      "duration_ms": 153033,
-      "name": "Mori no chiisana restaurant",
-      "url": "https://open.spotify.com/track/77GGe1iI6TipMCaWuxfWXr"
+      "duration_ms": 248000,
+      "name": "\u5e7d\u970a\u3068\u4f5c\u5bb6",
+      "url": "https://open.spotify.com/track/3zESg1rg07bQfeCygpwXLt"
     },
     {
       "added_at": "2024-02-22 15:00:00",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2024-02-22 15:00:00",
       "album": {
+        "name": "Mori no chiisana restaurant",
+        "url": "https://open.spotify.com/album/06ZsAXR2QKeZGVrLhqmbJa"
+      },
+      "artists": [
+        {
+          "name": "Aoi Teshima",
+          "url": "https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD"
+        }
+      ],
+      "duration_ms": 153033,
+      "name": "Mori no chiisana restaurant",
+      "url": "https://open.spotify.com/track/77GGe1iI6TipMCaWuxfWXr"
+    },
+    {
+      "added_at": "2024-02-22 15:00:00",
+      "album": {
         "name": "First Love (2022 Mix)",
         "url": "https://open.spotify.com/album/1TwR0thoGz0hCk0ot73xID"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 261122,
       "name": "First Love - 2022 Mix",
       "url": "https://open.spotify.com/track/0PvuVoqa1IHCnTrNnltS70"
-    },
-    {
-      "added_at": "2024-02-22 15:00:00",
-      "album": {
-        "name": "\u5e7d\u970a\u3068\u4f5c\u5bb6",
-        "url": "https://open.spotify.com/album/18315yz2JsF0gHi5FGkDO6"
-      },
-      "artists": [
-        {
-          "name": "WEDNESDAY CAMPANELLA",
-          "url": "https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "\u5e7d\u970a\u3068\u4f5c\u5bb6",
-      "url": "https://open.spotify.com/track/3zESg1rg07bQfeCygpwXLt"
     },
     {
       "added_at": "2024-02-22 15:00:00",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-02-22 15:00:00",
       "album": {
-        "name": "Biscuit",
-        "url": "https://open.spotify.com/album/6P68HkiZanv6UJSSklu4jg"
-      },
-      "artists": [
-        {
-          "name": "CHANMINA",
-          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
-        }
-      ],
-      "duration_ms": 204881,
-      "name": "Biscuit",
-      "url": "https://open.spotify.com/track/4VerfQl7Y8UphNFBWEKMtV"
-    },
-    {
-      "added_at": "2024-02-22 15:00:00",
-      "album": {
         "name": "L7 Blues",
         "url": "https://open.spotify.com/album/4hACNva5MygOCnqS3xaTvg"
       },
@@ -1311,18 +1295,18 @@
     {
       "added_at": "2024-02-22 15:00:00",
       "album": {
-        "name": "Gold\u3000\uff5e\u307e\u305f\u9022\u3046\u65e5\u307e\u3067\uff5e",
-        "url": "https://open.spotify.com/album/2imXyePzAn9t5cfc9QWPwk"
+        "name": "Biscuit",
+        "url": "https://open.spotify.com/album/6P68HkiZanv6UJSSklu4jg"
       },
       "artists": [
         {
-          "name": "Hikaru Utada",
-          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
         }
       ],
-      "duration_ms": 254291,
-      "name": "Gold\u3000\uff5e\u307e\u305f\u9022\u3046\u65e5\u307e\u3067\uff5e",
-      "url": "https://open.spotify.com/track/6hasQfFdygcQow58WNA614"
+      "duration_ms": 204881,
+      "name": "Biscuit",
+      "url": "https://open.spotify.com/track/4VerfQl7Y8UphNFBWEKMtV"
     },
     {
       "added_at": "2024-02-22 15:00:00",
@@ -1383,6 +1367,22 @@
       "duration_ms": 227906,
       "name": "With",
       "url": "https://open.spotify.com/track/3yYu68P1WYsGCevgip6w2G"
+    },
+    {
+      "added_at": "2024-02-22 15:00:00",
+      "album": {
+        "name": "Gold\u3000\uff5e\u307e\u305f\u9022\u3046\u65e5\u307e\u3067\uff5e",
+        "url": "https://open.spotify.com/album/2imXyePzAn9t5cfc9QWPwk"
+      },
+      "artists": [
+        {
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+        }
+      ],
+      "duration_ms": 254291,
+      "name": "Gold\u3000\uff5e\u307e\u305f\u9022\u3046\u65e5\u307e\u3067\uff5e",
+      "url": "https://open.spotify.com/track/6hasQfFdygcQow58WNA614"
     },
     {
       "added_at": "2024-02-22 15:00:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2024-02-22 15:00:00",
       "album": {
-        "name": "\u521d\u604b (2022 Remastering)",
-        "url": "https://open.spotify.com/album/7MQ6EDNZxZnbWWxFjbtbpl"
-      },
-      "artists": [
-        {
-          "name": "Hikaru Utada",
-          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
-        }
-      ],
-      "duration_ms": 282165,
-      "name": "\u521d\u604b",
-      "url": "https://open.spotify.com/track/58lUfdPHAmMazUqyt1s2Oe"
-    },
-    {
-      "added_at": "2024-02-22 15:00:00",
-      "album": {
         "name": "\u767d\u8272\u8709\u8763",
         "url": "https://open.spotify.com/album/1QZOlZ7LLH6QVmFxVGWk7X"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 191803,
       "name": "\u767d\u8272\u8709\u8763",
       "url": "https://open.spotify.com/track/6g4LVUmjflm93R0T8GkvtF"
+    },
+    {
+      "added_at": "2024-02-22 15:00:00",
+      "album": {
+        "name": "\u521d\u604b (2022 Remastering)",
+        "url": "https://open.spotify.com/album/7MQ6EDNZxZnbWWxFjbtbpl"
+      },
+      "artists": [
+        {
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+        }
+      ],
+      "duration_ms": 282165,
+      "name": "\u521d\u604b",
+      "url": "https://open.spotify.com/track/58lUfdPHAmMazUqyt1s2Oe"
     },
     {
       "added_at": "2024-02-22 15:00:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-02-22 15:00:00",
       "album": {
-        "name": "Every Wish Deserves a Dream",
-        "url": "https://open.spotify.com/album/2nLWWWLKGIUtCbzFV8vfol"
-      },
-      "artists": [
-        {
-          "name": "MISIA",
-          "url": "https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk"
-        }
-      ],
-      "duration_ms": 231231,
-      "name": "Every Wish Deserves a Dream",
-      "url": "https://open.spotify.com/track/0WRO7r36uDVlW6DDPF1Cxs"
-    },
-    {
-      "added_at": "2024-02-22 15:00:00",
-      "album": {
         "name": "\u671b\u90f7",
         "url": "https://open.spotify.com/album/1AcMLMCooh76KpPXojRnrP"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 231833,
       "name": "\u671b\u90f7",
       "url": "https://open.spotify.com/track/2Egbg23uBaRsVNwzyfFbtV"
+    },
+    {
+      "added_at": "2024-02-22 15:00:00",
+      "album": {
+        "name": "Every Wish Deserves a Dream",
+        "url": "https://open.spotify.com/album/2nLWWWLKGIUtCbzFV8vfol"
+      },
+      "artists": [
+        {
+          "name": "MISIA",
+          "url": "https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk"
+        }
+      ],
+      "duration_ms": 231231,
+      "name": "Every Wish Deserves a Dream",
+      "url": "https://open.spotify.com/track/0WRO7r36uDVlW6DDPF1Cxs"
     },
     {
       "added_at": "2024-02-22 15:00:00",

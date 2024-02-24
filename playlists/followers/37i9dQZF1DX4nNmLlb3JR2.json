@@ -1,5 +1,5 @@
 {
-  "2024-02-23": 159902,
+  "2024-02-24": 160020,
   "date_first_scraped": "2022-09-09",
   "description": "A fresh lofi spin on your favourite tunes and old songs you love. ",
   "name": "lofi covers",
@@ -2606,6 +2606,24 @@
     },
     {
       "album": {
+        "name": "People",
+        "url": "https://open.spotify.com/album/5RzZtpQnvVerJZPs9OBpzG"
+      },
+      "artists": [
+        {
+          "name": "YorBeatz",
+          "url": "https://open.spotify.com/artist/7IOCjf2dqm6jzhCAUAX4uR"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160624,
+      "name": "People",
+      "url": "https://open.spotify.com/track/72pbzbidr1Myqlrlljbc0P"
+    },
+    {
+      "album": {
         "name": "Pieces Of U",
         "url": "https://open.spotify.com/album/2SJC9QOnplYH3L416wPkf8"
       },
@@ -3115,6 +3133,24 @@
       "duration_ms": 129905,
       "name": "See You Again",
       "url": "https://open.spotify.com/track/11c2RqFZfpq8Z6vxBfMDzk"
+    },
+    {
+      "album": {
+        "name": "September Song",
+        "url": "https://open.spotify.com/album/2F9MuBULDQPTS2FmRkDC3E"
+      },
+      "artists": [
+        {
+          "name": "YorBeatz",
+          "url": "https://open.spotify.com/artist/7IOCjf2dqm6jzhCAUAX4uR"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172857,
+      "name": "September Song",
+      "url": "https://open.spotify.com/track/3fIL4EOwPzq5CLNK77KxPu"
     },
     {
       "album": {
@@ -4153,6 +4189,24 @@
       "duration_ms": 118500,
       "name": "wrecking ball",
       "url": "https://open.spotify.com/track/36jFRBBQIUbLxc7LRmGfir"
+    },
+    {
+      "album": {
+        "name": "Yellow & The Scientist (Lo-Fi)",
+        "url": "https://open.spotify.com/album/7CiuiRXNH5oVv3gUThOHuY"
+      },
+      "artists": [
+        {
+          "name": "yoshi the brilliant",
+          "url": "https://open.spotify.com/artist/6k8AnK3Kuk6fv1AQu0IGBJ"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258368,
+      "name": "Yellow - Lo-Fi",
+      "url": "https://open.spotify.com/track/1YN98svRQo1ghA4WVuzPUi"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-277 songs - 15 hr 5 min
+278 songs - 15 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Almost Maybes \- Acoustic](https://open.spotify.com/track/4ZYpv3IMjQd6Hoi3xMKRPC) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Almost Maybes \(Acoustic\)](https://open.spotify.com/album/2tT0KYZ5ZO0meRleXxrwoW) | 2:59 | 2021-12-17 | 2023-08-19 |
 | [angel](https://open.spotify.com/track/1fr6WZfau4vNzDFfHYSJVT) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 2:19 | 2021-12-17 | 2022-01-15 |
 | [Another \- Wedding Version](https://open.spotify.com/track/3pF8tbhwVEqpef7RJkFUtK) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew) | [Another \(Wedding Version\)](https://open.spotify.com/album/4RTl5pDygFl1McoNT4AkMd) | 2:51 | 2021-12-17 |  |
+| [As You Are](https://open.spotify.com/track/4DXs4CjeQ91Abx1xReQ3cC) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [As You Are](https://open.spotify.com/album/0LCxYgE6QltpzkxhVXOPez) | 4:06 | 2024-02-23 |  |
 | [As You Leave \(undone\)](https://open.spotify.com/track/68hGkMqxX5AfMuO5Y4NL0A) | [Canaan Cox](https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D) | [As You Leave \(undone\)](https://open.spotify.com/album/2qbYexAOjAjIg9eySC5jNO) | 2:07 | 2022-07-29 |  |
 | [At the End of a Bar \- Acoustic](https://open.spotify.com/track/77UxRSc10Z4zM1XUB9ec2o) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q), [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [At the End of a Bar \(Acoustic\)](https://open.spotify.com/album/1fH1s6HBeYwxaRTHcLm2th) | 3:02 | 2022-03-18 | 2023-08-12 |
 | [Austin \- Acoustic](https://open.spotify.com/track/4jSnQyYyO0OV0VQXx2x46N) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Austin \(Acoustic\)](https://open.spotify.com/album/4NzUmm4MlZpmSCwKb0bKls) | 3:46 | 2022-04-15 | 2023-07-30 |
@@ -116,7 +117,7 @@
 | [How to Love a Girl \- Acoustic](https://open.spotify.com/track/1nxjPus9HGtq2no7jdeNVr) | [Olivia Mae Graham](https://open.spotify.com/artist/0aYagTq2r8P9Z8KR8sby2H) | [How to Love a Girl \(Acoustic\)](https://open.spotify.com/album/120UcOfx90ZhZ1DzSKn0wT) | 3:33 | 2022-04-01 | 2022-07-09 |
 | [Hush Little Baby \(Acoustic\)](https://open.spotify.com/track/6m28U7MG4KdMU5Y9z1zgI3) | [Ashley Ryan](https://open.spotify.com/artist/7ocagKTuL7owEFIvssbzVq) | [Hush Little Baby \(Acoustic\)](https://open.spotify.com/album/6MOlPULOAZB0pxAaLiiTCG) | 2:54 | 2023-08-11 | 2024-02-17 |
 | [I Can Tell You're Small Town \(The Back Home Version\)](https://open.spotify.com/track/4RH6QhrnqTo78EzUEw1wrl) | [Noah Hicks](https://open.spotify.com/artist/32KwPw06eWXhBWBYFE2BvO) | [I Can Tell You're Small Town \(The Back Home Version\)](https://open.spotify.com/album/0ZvQTIN5CdKUKcHT3HQqVN) | 3:01 | 2023-02-03 | 2023-05-20 |
-| [I Can't Love You Anymore \- In Rare Form](https://open.spotify.com/track/3dipAWHU0fH4hRWxq5P3Cc) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Humble Quest: In Rare Form](https://open.spotify.com/album/5he9k8l3BJF3MtTerCtaq8) | 3:08 | 2022-11-04 |  |
+| [I Can't Love You Anymore \- In Rare Form](https://open.spotify.com/track/3dipAWHU0fH4hRWxq5P3Cc) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Humble Quest: In Rare Form](https://open.spotify.com/album/5he9k8l3BJF3MtTerCtaq8) | 3:08 | 2022-11-04 | 2024-02-24 |
 | [I Didn't Love You](https://open.spotify.com/track/2jOPhB8JVVhe70okpKZoA7) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq), [Lauren Weintraub](https://open.spotify.com/artist/0eYsDVXAe2mc4F8QrBLHAq) | [12/12 \(Acoustic\)](https://open.spotify.com/album/4bsYqeb7ftisTGzzsLBzfT) | 2:59 | 2021-12-17 | 2023-05-07 |
 | [I Don't Wanna Go To Heaven \- Choir Version](https://open.spotify.com/track/5NeoFqQlR7X4m5w4s5kmid) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [I Don't Wanna Go To Heaven \(Choir Version\)](https://open.spotify.com/album/4s7hLoOHTldo6E8XH8L69X) | 3:25 | 2022-01-21 | 2023-09-20 |
 | [I Hope You’re Happy Now \- Live](https://open.spotify.com/track/7dHIJjEVtekWBZr16Q2owe) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [I Hope You’re Happy Now \(Live\)](https://open.spotify.com/album/74cMAdnY7pp9kDBWEkxxsz) | 3:15 | 2021-12-17 | 2022-07-29 |

@@ -137,6 +137,24 @@
     },
     {
       "album": {
+        "name": "3AM",
+        "url": "https://open.spotify.com/album/4IOWARRctL47vn0xbZrAzY"
+      },
+      "artists": [
+        {
+          "name": "BreezyLYN",
+          "url": "https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125985,
+      "name": "3AM",
+      "url": "https://open.spotify.com/track/1YkoBxoq3uilcJSmKFucoh"
+    },
+    {
+      "album": {
         "name": "3D",
         "url": "https://open.spotify.com/album/24R8yEtVrZoThYWEyH7r5Y"
       },
@@ -156,6 +174,24 @@
       "duration_ms": 151926,
       "name": "3D",
       "url": "https://open.spotify.com/track/7t7eBzrvv1YL547LI44Bvb"
+    },
+    {
+      "album": {
+        "name": "4AM",
+        "url": "https://open.spotify.com/album/6Lpor7u2JraoufrCDAOeDi"
+      },
+      "artists": [
+        {
+          "name": "Sally Sossa",
+          "url": "https://open.spotify.com/artist/58q28H7IgX06YXkPvUtGgR"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125084,
+      "name": "4AM",
+      "url": "https://open.spotify.com/track/0myrVcFiLklk8AzVDfn6ru"
     },
     {
       "album": {
@@ -588,6 +624,28 @@
       "duration_ms": 157600,
       "name": "Back From The Dead",
       "url": "https://open.spotify.com/track/09LxIFJONw78nrmzA6sAfB"
+    },
+    {
+      "album": {
+        "name": "nights and weekends",
+        "url": "https://open.spotify.com/album/39jNh5MndiuFTNjDjuWnDQ"
+      },
+      "artists": [
+        {
+          "name": "310babii",
+          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137003,
+      "name": "back it up",
+      "url": "https://open.spotify.com/track/3I23NiySJ2e5j7T1s3Q6XL"
     },
     {
       "album": {
@@ -1064,7 +1122,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 147764,
       "name": "Big 1",
       "url": "https://open.spotify.com/track/67sKZzlcW63EHhl4jvXg7J"
@@ -1530,6 +1588,32 @@
       "duration_ms": 132000,
       "name": "Boom Pt. 2 (feat. Latto)",
       "url": "https://open.spotify.com/track/5mqcRBLYBsAhpbB6gXMyYz"
+    },
+    {
+      "album": {
+        "name": "REDRUM Wizard (Gangsta Grillz)",
+        "url": "https://open.spotify.com/album/2kcWf4LiavA3V6quKqSXAB"
+      },
+      "artists": [
+        {
+          "name": "Big Boogie",
+          "url": "https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs"
+        },
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202285,
+      "name": "BOP (feat. GloRilla)",
+      "url": "https://open.spotify.com/track/0mpDXW1y4X7MlyPecWAlzJ"
     },
     {
       "album": {
@@ -2068,7 +2152,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 128793,
       "name": "Cheers",
       "url": "https://open.spotify.com/track/5veyFvjYjwtHaw2LyLPcOp"
@@ -4004,7 +4088,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 112981,
       "name": "Go",
       "url": "https://open.spotify.com/track/55pu5bjDoRtduqMfFfF83V"
@@ -4022,7 +4106,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 192400,
       "name": "go!",
       "url": "https://open.spotify.com/track/1Zz1uVTuMfulHplPaWsB4d"
@@ -5454,7 +5538,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 147300,
       "name": "Leave Her Alone",
       "url": "https://open.spotify.com/track/6Ckxadd19A2tjI2sjwWo1v"
@@ -7604,7 +7688,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 198067,
       "name": "Princess Diana (with Nicki Minaj) [Extendo Clip]",
       "url": "https://open.spotify.com/track/62k3kkUQmWan59sH3Lzt1t"
@@ -9413,6 +9497,28 @@
     },
     {
       "album": {
+        "name": "Tap",
+        "url": "https://open.spotify.com/album/1E3gk9tps7GjI5PVrck5cu"
+      },
+      "artists": [
+        {
+          "name": "Neesah B",
+          "url": "https://open.spotify.com/artist/0IJKwufZD9yHU1T9jMXspr"
+        },
+        {
+          "name": "B-Lovee",
+          "url": "https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Tap",
+      "url": "https://open.spotify.com/track/3wAVYv1QABXSDIwH1R5581"
+    },
+    {
+      "album": {
         "name": "Teach U How To Play",
         "url": "https://open.spotify.com/album/4R09J6lWN5YfS8gEjHbQeQ"
       },
@@ -9998,6 +10104,32 @@
       "duration_ms": 176982,
       "name": "TURNIN' HEADS",
       "url": "https://open.spotify.com/track/3MT8ekypV5xYBLstqFpDkV"
+    },
+    {
+      "album": {
+        "name": "REDRUM Wizard (Gangsta Grillz)",
+        "url": "https://open.spotify.com/album/2kcWf4LiavA3V6quKqSXAB"
+      },
+      "artists": [
+        {
+          "name": "Big Boogie",
+          "url": "https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs"
+        },
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+        },
+        {
+          "name": "Lola Brooke",
+          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188853,
+      "name": "Turnt (feat. Lola Brooke)",
+      "url": "https://open.spotify.com/track/4PUCS0Si8Vxu13mIeoiYMI"
     },
     {
       "album": {

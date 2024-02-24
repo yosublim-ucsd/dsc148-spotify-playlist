@@ -1,5 +1,5 @@
 {
-  "2024-02-23": 175407,
+  "2024-02-24": 175443,
   "date_first_scraped": "2022-04-20",
   "description": "Come alive with this progressive & melodic house selection.",
   "name": "Melodic & Euphoric",
@@ -449,7 +449,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 214634,
       "name": "Colibr\u00ed",
       "url": "https://open.spotify.com/track/16jegZgDZS5mkhp6KCKrCd"
@@ -818,6 +818,32 @@
     },
     {
       "album": {
+        "name": "Hey Hey (Jack Back Remix)",
+        "url": "https://open.spotify.com/album/28B0sfg0u9x74Z7gT6CLJD"
+      },
+      "artists": [
+        {
+          "name": "Dennis Ferrer",
+          "url": "https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi"
+        },
+        {
+          "name": "Jack Back",
+          "url": "https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149528,
+      "name": "Hey Hey - Jack Back Remix",
+      "url": "https://open.spotify.com/track/1MLxfMNuBOYnCbZDMhb1Zl"
+    },
+    {
+      "album": {
         "name": "Lager Beers EP",
         "url": "https://open.spotify.com/album/5izcjEZQUvnhfeLWM67n72"
       },
@@ -873,7 +899,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 431162,
       "name": "Hiding",
       "url": "https://open.spotify.com/track/6rAbSwrfReG9rpcmwIsgPH"
@@ -1071,6 +1097,32 @@
       "duration_ms": 187500,
       "name": "I Saw Good",
       "url": "https://open.spotify.com/track/58R30o2zynpgdvG5Nxfur8"
+    },
+    {
+      "album": {
+        "name": "Ice Moon",
+        "url": "https://open.spotify.com/album/4ZFwY8augL822xcvrf0LL2"
+      },
+      "artists": [
+        {
+          "name": "LSR/CITY",
+          "url": "https://open.spotify.com/artist/0YQ22xAzgefaKw8vKCAEp2"
+        },
+        {
+          "name": "Gareth Emery",
+          "url": "https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi"
+        },
+        {
+          "name": "Annabel",
+          "url": "https://open.spotify.com/artist/4zR2t8bagib4ozydVgb93l"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154153,
+      "name": "Ice Moon",
+      "url": "https://open.spotify.com/track/1Vv4jqn3EZZw0BThJqjhJD"
     },
     {
       "album": {
@@ -1415,7 +1467,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 322058,
       "name": "Monolith",
       "url": "https://open.spotify.com/track/5HUQByo24AQbWzEEWJeBiB"
@@ -1572,6 +1624,32 @@
     },
     {
       "album": {
+        "name": "OnlyL",
+        "url": "https://open.spotify.com/album/4hSZwUM3VO8bNwb1ufMra5"
+      },
+      "artists": [
+        {
+          "name": "Mind Against",
+          "url": "https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72"
+        },
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        },
+        {
+          "name": "NIMMO",
+          "url": "https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367066,
+      "name": "OnlyL ft. TSHA & NIMMO",
+      "url": "https://open.spotify.com/track/6IgYMKfaqv8VIYYIbsmlpo"
+    },
+    {
+      "album": {
         "name": "Osama",
         "url": "https://open.spotify.com/album/08FzfT91jguU5Odn4bHc7T"
       },
@@ -1682,6 +1760,32 @@
     },
     {
       "album": {
+        "name": "Running In A Dream",
+        "url": "https://open.spotify.com/album/4NL9MNHuAFnIZlbVlmoK6E"
+      },
+      "artists": [
+        {
+          "name": "Nils Hoffmann",
+          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+        },
+        {
+          "name": "Kasbo",
+          "url": "https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq"
+        },
+        {
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269221,
+      "name": "Running In A Dream",
+      "url": "https://open.spotify.com/track/66RMkzVBVjI3MlOiQ4v4gL"
+    },
+    {
+      "album": {
         "name": "Sapphire",
         "url": "https://open.spotify.com/album/5b0xNdKy95XcpoGMrRlUto"
       },
@@ -1759,7 +1863,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 323302,
       "name": "Selbst",
       "url": "https://open.spotify.com/track/0J6O7RnXKPtkMXy5xknwT3"
@@ -2098,6 +2202,36 @@
     },
     {
       "album": {
+        "name": "Tonight In Belfast",
+        "url": "https://open.spotify.com/album/46vW0Y9s7hsr231fEZ7uz8"
+      },
+      "artists": [
+        {
+          "name": "Orbital",
+          "url": "https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV"
+        },
+        {
+          "name": "David Holmes",
+          "url": "https://open.spotify.com/artist/10kGEgP8MxhlfeA2tMinsL"
+        },
+        {
+          "name": "Mike Garry",
+          "url": "https://open.spotify.com/artist/2TGg9f0CCX1rAR3S88o9yD"
+        },
+        {
+          "name": "DJ Helen",
+          "url": "https://open.spotify.com/artist/0JXfuTC8TiERwGzMmTtNuZ"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240492,
+      "name": "Tonight In Belfast - Edit",
+      "url": "https://open.spotify.com/track/3Nc1xUyUx3tAXhylybt1u2"
+    },
+    {
+      "album": {
         "name": "Torii",
         "url": "https://open.spotify.com/album/2oJIKUuxPO2MeiBQQhd3x4"
       },
@@ -2131,7 +2265,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 445036,
       "name": "Twisted",
       "url": "https://open.spotify.com/track/3px5cJGLZzrIoPNjd7AJJY"
@@ -2378,6 +2512,24 @@
     },
     {
       "album": {
+        "name": "Won't Give Up",
+        "url": "https://open.spotify.com/album/1C75sxyZq3SXukAbfN7VQl"
+      },
+      "artists": [
+        {
+          "name": "Supernature",
+          "url": "https://open.spotify.com/artist/46svYCPiWA3zQdU0zoO2re"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232795,
+      "name": "Won't Give Up",
+      "url": "https://open.spotify.com/track/26jQz1uxGLamG6naDNzjD4"
+    },
+    {
+      "album": {
         "name": "Yahyel",
         "url": "https://open.spotify.com/album/4maPel4EpTQkzT751qiw72"
       },
@@ -2443,7 +2595,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 283628,
       "name": "\u0421\u0442\u043e\u043b\u0438\u0446\u0430 \u0437\u0430\u043a\u0430\u0442\u043e\u0432",
       "url": "https://open.spotify.com/track/6DwuQjVWPRRICEqJJedZYb"

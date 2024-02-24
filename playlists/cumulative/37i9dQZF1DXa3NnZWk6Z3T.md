@@ -4,7 +4,7 @@
 
 > Keep calm and enjoy this musical cafecito.
 
-336 songs - 19 hr 20 min
+338 songs - 19 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [Cartagena](https://open.spotify.com/track/7nuAQwrVIe6ulWBaM1eR71) | [Rafael Pondé](https://open.spotify.com/artist/63ONM3te92h07qo9t6OYzc), [Melo Gía](https://open.spotify.com/artist/1mBhm9EVdCyvCSS9ujhseU) | [Cartagena](https://open.spotify.com/album/2moAPQ5wUo2OFVY6hGOKz9) | 3:41 | 2021-12-09 |  |
 | [Casi Algo](https://open.spotify.com/track/1L7rHSD7MeEJc9hhNO4OY7) | [Anakena](https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo) | [Casi Algo](https://open.spotify.com/album/6xOQIgmaXLE1LyZtn5gYuw) | 3:12 | 2023-06-16 |  |
 | [Celebration](https://open.spotify.com/track/25TsNPHlxwbF8e7vb0Ccim) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Ape in Pink Marble](https://open.spotify.com/album/4B1W5FeDz8Z1jsYAZV4MdU) | 2:56 | 2022-04-07 | 2022-04-21 |
-| [Cenizas y Miel](https://open.spotify.com/track/7j5n02hf4Biqj1rA6AhFiJ) | [Pachará](https://open.spotify.com/artist/1b2gJhPNbVGtx6N13ZfPfI) | [Cenizas y Miel](https://open.spotify.com/album/5oo725EgblR5xePh1O4GXt) | 3:11 | 2021-12-09 |  |
+| [Cenizas y Miel](https://open.spotify.com/track/7j5n02hf4Biqj1rA6AhFiJ) | [Pachará](https://open.spotify.com/artist/1b2gJhPNbVGtx6N13ZfPfI) | [Cenizas y Miel](https://open.spotify.com/album/5oo725EgblR5xePh1O4GXt) | 3:11 | 2021-12-09 | 2024-02-24 |
 | [Chachachá \- acústico](https://open.spotify.com/track/7lFcRLIrpzjPd2Ytp13Ml3) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Chachachá \(acústico\)](https://open.spotify.com/album/79immCdVvW18wwjtgnfiHK) | 3:28 | 2022-12-30 |  |
 | [Cigarrito y Café](https://open.spotify.com/track/4zCcsSId3HZ6DvjFcxmg2l) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A), [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [Cigarrito y Café](https://open.spotify.com/album/40BCKQLAweweUfSrr4Pyhj) | 2:51 | 2021-12-09 |  |
 | [Ciudad Hembra \(La Habana\)](https://open.spotify.com/track/6swmCwTX7kHTHCBhWCY41f) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Kelvis Ochoa](https://open.spotify.com/artist/3Q2MVC1NWIzEyUytnlFBKm) | [Ciudad Hembra \(La Habana\)](https://open.spotify.com/album/4q4EcWgffH5Cr6Ylfzk9pp) | 3:32 | 2021-12-09 |  |
@@ -122,7 +122,7 @@
 | [En Mi Guitarra](https://open.spotify.com/track/36FhPJBFeH7yPMfV9LcZGv) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1) | [Lo Único Constante](https://open.spotify.com/album/7GAONzxoOWlLZcE1QHE4MG) | 3:23 | 2021-12-09 | 2022-07-29 |
 | [Encontré \(feat\. Paulino Monroy\)](https://open.spotify.com/track/1z1g63pfuSMjk85tdeevBw) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC), [Paulino Monroy](https://open.spotify.com/artist/2a15NvJ0ASGPEuWgGCCIJC) | [Encontré \(feat\. Paulino Monroy\)](https://open.spotify.com/album/7bxiQrYQAkeBMIvTOVJ4YR) | 3:16 | 2022-04-07 | 2022-04-21 |
 | [Entre Luca Y Juan Mejía](https://open.spotify.com/track/1FFwPJxL60iQPSmXK81t6q) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Entre Luca Y Juan Mejía](https://open.spotify.com/album/2i1R5n8KVFsa2iKe4KKz7Z) | 3:47 | 2021-12-09 | 2022-10-28 |
-| [Entremundos](https://open.spotify.com/track/1usku2SDrwW0738LbRyGkk) | [Cristina Valentina](https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV) | [Entremundos](https://open.spotify.com/album/5FOPdtLOMGEqGd47N3np4X) | 3:25 | 2023-01-20 |  |
+| [Entremundos](https://open.spotify.com/track/1usku2SDrwW0738LbRyGkk) | [Cristina Valentina](https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV) | [Entremundos](https://open.spotify.com/album/5FOPdtLOMGEqGd47N3np4X) | 3:25 | 2023-01-20 | 2024-02-24 |
 | [Epitafio](https://open.spotify.com/track/4k0MEDp6V71N0sbGbSiGwk) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Epitafio](https://open.spotify.com/album/7B7Sdq7h3TwFq5TTWyy4AK) | 2:37 | 2021-12-09 |  |
 | [Eres Tú](https://open.spotify.com/track/2dEVAvwPAJrWFErXxREGVX) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Déjenme Llorar](https://open.spotify.com/album/4Rc3wOCoh4jpWkNzum6dDA) | 3:48 | 2021-12-09 | 2022-08-28 |
 | [Eres Tú](https://open.spotify.com/track/75zvC8d4iozawMJvxt8T1f) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Déjenme Llorar](https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve) | 3:48 | 2022-08-19 | 2022-10-28 |
@@ -210,6 +210,7 @@
 | [Mundo Paralelo](https://open.spotify.com/track/5Sb2QTq4PNDQyj6HdpdxWk) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Mundo Paralelo](https://open.spotify.com/album/0QrA9TTm6EFdy8qJAoIqPR) | 3:17 | 2021-12-09 |  |
 | [Mírame](https://open.spotify.com/track/7iKguNIjaONzqnKTLjfRT1) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Mírame](https://open.spotify.com/album/46zXCAod1c2VPBrEqIMYaw) | 3:24 | 2021-12-09 | 2023-05-07 |
 | [Nada Contigo](https://open.spotify.com/track/67lKJlELZYh8ouJkp6keaf) | [César Avila](https://open.spotify.com/artist/3rngVMXFqeLP0WFB1ss6J1) | [Nada Contigo](https://open.spotify.com/album/5W7y6UiAJoDOO2UR88cbxd) | 3:23 | 2021-12-09 | 2022-07-27 |
+| [New Dawn](https://open.spotify.com/track/5BGwqU8mOCyyRP8PKmYMdV) | [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Dusk](https://open.spotify.com/album/37lyc3kkBpFuTUw6hacBIE) | 3:25 | 2024-02-23 |  |
 | [No Me Gustan los Grises](https://open.spotify.com/track/3csSDv4S9IzB7FetDpBn66) | [Mery Granados](https://open.spotify.com/artist/0aJgv15DVDKvr0yWb5BzP1) | [No Me Gustan los Grises](https://open.spotify.com/album/2JzCk4SJDCnYXlP5RT6v4x) | 3:37 | 2022-05-14 |  |
 | [No Me Gustan los Grises](https://open.spotify.com/track/7nwDOqPRUqHqlIwXpgRIIx) | [Mery Granados](https://open.spotify.com/artist/0aJgv15DVDKvr0yWb5BzP1) | [No Me Gustan los Grises](https://open.spotify.com/album/7e8XZwMNbPJCjf8EOcOXPE) | 3:37 | 2021-12-09 | 2022-07-14 |
 | [No Se Rompe](https://open.spotify.com/track/1BnkVwpoGjpeg8UBnir7bL) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [No Se Rompe](https://open.spotify.com/album/2IGysy3C2YRgPbN4VKQs1e) | 4:09 | 2021-12-09 | 2022-07-29 |
@@ -244,6 +245,7 @@
 | [Parar el Tiempo](https://open.spotify.com/track/5iBP84nYff7zzoYGSfOwgf) | [Cimafunk](https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe) | [Terapia](https://open.spotify.com/album/3OgoFDgcFpncuzMonAjLQD) | 4:09 | 2021-12-09 | 2022-07-29 |
 | [Parte de Mi](https://open.spotify.com/track/2PWFmOpcKb31Fu8QJj1STa) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Parte de Mi](https://open.spotify.com/album/0vvdJDTLfDihtP5T7E9dxh) | 2:55 | 2023-10-27 |  |
 | [Parte de Mi](https://open.spotify.com/track/7wDe4kdynBEvHQE1EhHJvW) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Parte de Mi](https://open.spotify.com/album/3ErYgvpNleudC23eIdPOTz) | 2:55 | 2021-12-09 | 2023-10-27 |
+| [Pasajera](https://open.spotify.com/track/5STIaMQXTQIpWyF3BLS40o) | [Debi Nova](https://open.spotify.com/artist/5zaG384VZzAb6AMfEnSy2r) | [Pasajera](https://open.spotify.com/album/4te0ewSnaptgl1qYn7cZLy) | 2:27 | 2024-02-23 |  |
 | [Pasarla Bien](https://open.spotify.com/track/0tUAFwX94l8wiD5UnNMppU) | [Juan Wauters](https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV) | [Pasarla Bien](https://open.spotify.com/album/4t3kNmbWn1p9nOL7mFLSt0) | 2:15 | 2021-12-09 | 2022-05-19 |
 | [Pasarla Bien](https://open.spotify.com/track/4D9xQDVdWu3wbl77k1tmGT) | [Juan Wauters](https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV) | [Pasarla Bien](https://open.spotify.com/album/0VnANUdEATK0NM2VCTOnMf) | 2:15 | 2022-09-21 | 2022-11-12 |
 | [Pastel](https://open.spotify.com/track/0hQtHAJS2GXtxXJe4rXHZY) | [Katzù Oso](https://open.spotify.com/artist/4tSzEOfCj6LXhaf0jtk4XO) | [Pastel](https://open.spotify.com/album/565c09bVCZMw3HVkYk9bpz) | 2:09 | 2021-12-09 | 2022-06-22 |

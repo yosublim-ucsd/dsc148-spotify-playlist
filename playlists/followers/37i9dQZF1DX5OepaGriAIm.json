@@ -1,5 +1,5 @@
 {
-  "2024-02-23": 849815,
+  "2024-02-24": 849893,
   "date_first_scraped": "2021-12-21",
   "description": "Trace the history of Jazz from timeless classics to boundary-breaking contemporary favorites from the women of Jazz. Cover: Diana Krall",
   "name": "Women of Jazz",
@@ -3645,6 +3645,32 @@
       "duration_ms": 264617,
       "name": "When Sunny Gets Blue",
       "url": "https://open.spotify.com/track/2ttCdSWedaPtOltZLPZVAT"
+    },
+    {
+      "album": {
+        "name": "Where Do You Go?",
+        "url": "https://open.spotify.com/album/637CSjIkYI1pALV0yrFcfc"
+      },
+      "artists": [
+        {
+          "name": "Cornelia Nilsson",
+          "url": "https://open.spotify.com/artist/6qrHaoFbMB1BvPLVlKaY5c"
+        },
+        {
+          "name": "Daniel Franck",
+          "url": "https://open.spotify.com/artist/72xSyvnAe9Hb1vgtQblTTt"
+        },
+        {
+          "name": "Aaron Parks",
+          "url": "https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418142,
+      "name": "Where Do You Go?",
+      "url": "https://open.spotify.com/track/3eTUgNA4GrFu3mo1wy79ni"
     },
     {
       "album": {

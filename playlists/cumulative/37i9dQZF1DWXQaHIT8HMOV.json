@@ -927,6 +927,28 @@
     },
     {
       "album": {
+        "name": "Crazy (Mutwe)",
+        "url": "https://open.spotify.com/album/4dnmFaGd53nFSvCcQQE0PH"
+      },
+      "artists": [
+        {
+          "name": "Daddy Andre",
+          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
+        },
+        {
+          "name": "Mun G",
+          "url": "https://open.spotify.com/artist/4YRE1c6l4kkNRfT1sXCjEU"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187454,
+      "name": "Crazy (Mutwe)",
+      "url": "https://open.spotify.com/track/3ThEef9saIuUggNzBZOg4s"
+    },
+    {
+      "album": {
         "name": "Sunflowers in Sahara (SiS)",
         "url": "https://open.spotify.com/album/6qtPTO6Ob7N3j59FV2AGb8"
       },
@@ -1244,7 +1266,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 182352,
       "name": "FAYA",
       "url": "https://open.spotify.com/track/2XfbFeYxN961nxtxUoepoM"
@@ -3542,7 +3564,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 160000,
       "name": "Sida Mukyalo",
       "url": "https://open.spotify.com/track/3gbxVFELkWWoJ2995nx9Rr"
@@ -4162,6 +4184,24 @@
       "duration_ms": 170434,
       "name": "Voices & Vices",
       "url": "https://open.spotify.com/track/71s7xkFT4m4qOS1WUny4QN"
+    },
+    {
+      "album": {
+        "name": "Wakikuba",
+        "url": "https://open.spotify.com/album/0WTiRdax3GmbI0EpPgccUq"
+      },
+      "artists": [
+        {
+          "name": "Sheebah",
+          "url": "https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183829,
+      "name": "Wakikuba",
+      "url": "https://open.spotify.com/track/4qBvBJ1HcZN4PYJV0Z1pEF"
     },
     {
       "album": {

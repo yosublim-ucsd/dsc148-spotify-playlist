@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,032 songs - 2 day 6 hr 12 min
+1,033 songs - 2 day 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -316,7 +316,8 @@
 | [Förlora mig](https://open.spotify.com/track/7LKZIASzyTpIuUiJ6ed2Ra) | [Sebastian Walldén](https://open.spotify.com/artist/6nVppoLxZQC587nnLTQcKx) | [Förlora mig](https://open.spotify.com/album/1ss6cOzXB9SEIPLc4sDtGY) | 2:03 | 2022-05-19 | 2022-07-29 |
 | [Förlorarna vann](https://open.spotify.com/track/6vIrlfAEr3EwDi5zVAFDVv) | [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F) | [Förlorarna vann](https://open.spotify.com/album/5eR5DudruRLg3IJBQivdXD) | 3:52 | 2024-01-18 |  |
 | [Förlorat mot världen](https://open.spotify.com/track/0b7wXTM7SXxES4TicoyWEr) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Och som vanligt händer det något hemskt \(Kapitel 1\)](https://open.spotify.com/album/3WwG3XxkNpTD59sm4QiyoE) | 3:06 | 2021-12-16 | 2022-03-02 |
-| [Förlåt](https://open.spotify.com/track/3nl7ZG7o931x99SvWIk3oZ) | [Klaudy](https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd) | [Jocelyn](https://open.spotify.com/album/3zS6gnCt8Ksp3zF48waeCJ) | 2:35 | 2024-02-15 |  |
+| [Förlåt](https://open.spotify.com/track/09MtdO7ijFjuJR2SPzHYch) | [Klaudy](https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd) | [För Dig](https://open.spotify.com/album/4MY82UcP4z4ozZqfMRCaSy) | 2:35 | 2024-02-22 |  |
+| [Förlåt](https://open.spotify.com/track/3nl7ZG7o931x99SvWIk3oZ) | [Klaudy](https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd) | [Jocelyn](https://open.spotify.com/album/3zS6gnCt8Ksp3zF48waeCJ) | 2:35 | 2024-02-15 | 2024-02-24 |
 | [Förlåt för alla gånger](https://open.spotify.com/track/0UoFiDE3nDVTLMIOSK2JKj) | [Sofie Svensson & Dom Där](https://open.spotify.com/artist/7LBwVPl8kIn3I949KmBVim) | [Förlåt för alla gånger](https://open.spotify.com/album/1nFXe1jAk8CYIrMxK46PQc) | 2:35 | 2024-02-15 |  |
 | [Försent för mig](https://open.spotify.com/track/6dX26pB0ZQGZHN0NkWhTMF) | [Leo Berg](https://open.spotify.com/artist/5FUB3v35PcriAp7DWHfQVK) | [Försent för mig](https://open.spotify.com/album/7rXTdoTOtJIXdI6je3y8vp) | 3:08 | 2022-04-28 | 2022-07-14 |
 | [Förstår Det Nu](https://open.spotify.com/track/2HnE1eny50TK0PAm804LDy) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [Förstår Det Nu](https://open.spotify.com/album/0bZvMsk9hKtmw91qu6pqMp) | 3:52 | 2022-06-30 | 2022-12-29 |

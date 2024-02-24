@@ -1,12 +1,12 @@
 {
   "description": "Heavy music for heavy feelings.",
-  "num_followers": 236912,
+  "num_followers": 237094,
   "original_name": "Blood, Shred & Tears",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNTE1ZDRkMjY2YmYwZTk3YWYzNzc3NzY1MDM1NTJmNTQ2MGVhYmM1",
+  "snapshot_id": "MCw2NDdiMDdiMzhmODIyZjFmMDI0MmJkM2UxNTdkYzFhMjk5ZGY2YTc0",
   "tracks": [
     {
       "added_at": "2022-08-25 23:00:00",
@@ -781,22 +781,6 @@
       "url": "https://open.spotify.com/track/2CT85N0Rwl2UtNOYZ4gepm"
     },
     {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
-        "name": "Nothing Left to Love",
-        "url": "https://open.spotify.com/album/3DJc8AdPpDbE2SRYXBB4p2"
-      },
-      "artists": [
-        {
-          "name": "Counterparts",
-          "url": "https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z"
-        }
-      ],
-      "duration_ms": 100533,
-      "name": "Love Me",
-      "url": "https://open.spotify.com/track/1Bg4qbrQjRJjoXZlB3y3Ot"
-    },
-    {
       "added_at": "2023-02-16 19:56:13",
       "album": {
         "name": "mainstream sellout (life in pink deluxe)",
@@ -811,6 +795,22 @@
       "duration_ms": 174833,
       "name": "last november",
       "url": "https://open.spotify.com/track/7AbpTqNbxpqWQjKcSOpYvq"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Nothing Left to Love",
+        "url": "https://open.spotify.com/album/3DJc8AdPpDbE2SRYXBB4p2"
+      },
+      "artists": [
+        {
+          "name": "Counterparts",
+          "url": "https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z"
+        }
+      ],
+      "duration_ms": 100533,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/1Bg4qbrQjRJjoXZlB3y3Ot"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -957,22 +957,6 @@
       "url": "https://open.spotify.com/track/2ceA7CWWx6yIHdzppN8nLF"
     },
     {
-      "added_at": "2023-02-16 19:56:13",
-      "album": {
-        "name": "Fever Dream",
-        "url": "https://open.spotify.com/album/4UChZRTVQgPn9AZSak3X4h"
-      },
-      "artists": [
-        {
-          "name": "Palaye Royale",
-          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
-        }
-      ],
-      "duration_ms": 190456,
-      "name": "Broken",
-      "url": "https://open.spotify.com/track/32yaRngoDZcF56ApmNaBNz"
-    },
-    {
       "added_at": "2022-08-25 23:00:00",
       "album": {
         "name": "weird!",
@@ -989,20 +973,36 @@
       "url": "https://open.spotify.com/track/0DZr4tVoYT3rUJzm9w15Lg"
     },
     {
-      "added_at": "2022-08-25 23:00:00",
+      "added_at": "2023-02-16 19:56:13",
       "album": {
-        "name": "Letters",
-        "url": "https://open.spotify.com/album/4zMAfDf1c1yTAnm3bKDVSv"
+        "name": "Fever Dream",
+        "url": "https://open.spotify.com/album/4UChZRTVQgPn9AZSak3X4h"
       },
       "artists": [
         {
-          "name": "Bilmuri",
-          "url": "https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89"
+          "name": "Palaye Royale",
+          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
         }
       ],
-      "duration_ms": 179756,
-      "name": "Pain",
-      "url": "https://open.spotify.com/track/0dj1yT3MNh2xpdBCsSkmFa"
+      "duration_ms": 190456,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/32yaRngoDZcF56ApmNaBNz"
+    },
+    {
+      "added_at": "2023-02-16 19:56:13",
+      "album": {
+        "name": "TRUE POWER",
+        "url": "https://open.spotify.com/album/6SjY4WK6VMFYEINGVOHzGa"
+      },
+      "artists": [
+        {
+          "name": "I Prevail",
+          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
+        }
+      ],
+      "duration_ms": 227082,
+      "name": "Doomed",
+      "url": "https://open.spotify.com/track/2X7QHaXlpec4VHTucG65N3"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1021,20 +1021,20 @@
       "url": "https://open.spotify.com/track/6MVhQjz1SNN8IDTBlZwvwG"
     },
     {
-      "added_at": "2023-02-16 19:56:13",
+      "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "TRUE POWER",
-        "url": "https://open.spotify.com/album/6SjY4WK6VMFYEINGVOHzGa"
+        "name": "Letters",
+        "url": "https://open.spotify.com/album/4zMAfDf1c1yTAnm3bKDVSv"
       },
       "artists": [
         {
-          "name": "I Prevail",
-          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
+          "name": "Bilmuri",
+          "url": "https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89"
         }
       ],
-      "duration_ms": 227082,
-      "name": "Doomed",
-      "url": "https://open.spotify.com/track/2X7QHaXlpec4VHTucG65N3"
+      "duration_ms": 179756,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/0dj1yT3MNh2xpdBCsSkmFa"
     },
     {
       "added_at": "2022-08-25 23:00:00",

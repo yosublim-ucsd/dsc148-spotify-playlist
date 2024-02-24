@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > det største dk rap lige nu.\. <a href="spotify:artist:2dfY7zXIP61MKHtD175hFp">Noah</a>  og <a href="spotify:artist:2eBqkaIfoNsOPCQCQEy5fD">Jamz</a> har den 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,905 likes - 63 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,921 likes - 63 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 | 62 | [Hele Vejen Ind \(feat\. Gilli\)](https://open.spotify.com/track/1CsNJtHR4s0eZ7CmyoCtQZ) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [TILLYKKE](https://open.spotify.com/album/4bJGHh9r2ssr5vt6y2OZLg) | 2:28 |
 | 63 | [NO MONEY NO FUNNY \(feat\. Branco\)](https://open.spotify.com/track/7ME4hi8iUI8ppwRpIGbKg4) | [RH](https://open.spotify.com/artist/0BecZI4vqLoN178y3f16XJ), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [NO MONEY NO FUNNY \(feat\. Branco\)](https://open.spotify.com/album/26JQ7MSTG8tAdJbLVU7ZMN) | 2:16 |
 
-Snapshot ID: `MCwyOGU4ZjgxNGJhN2Q2ODE2YjI4MDFmODQ5M2VjNjgyMTE5ZWIwMGQx`
+Snapshot ID: `MCxhZjZiNjliZDk3ZjNkM2VmZTQ2MGEwYzlhYmJkNTY2ZWEwYWQ0YWQ2`

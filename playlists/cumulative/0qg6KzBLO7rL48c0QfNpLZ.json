@@ -547,6 +547,28 @@
     },
     {
       "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/10oqy6CXg2JR8Z4NPzPATo"
+      },
+      "artists": [
+        {
+          "name": "Fdma",
+          "url": "https://open.spotify.com/artist/0hPAeoseSOSk4S7CWkU6vt"
+        },
+        {
+          "name": "Freja",
+          "url": "https://open.spotify.com/artist/0b39WnHUSyFv0h76cjpgzt"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/2gcOD9Q2iWBVxZEeZiMWig"
+    },
+    {
+      "album": {
         "name": "Calm Down (with Selena Gomez)",
         "url": "https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp"
       },
@@ -1275,6 +1297,24 @@
     },
     {
       "album": {
+        "name": "Depart",
+        "url": "https://open.spotify.com/album/13hEsAD5psmUfU1cCyvp4R"
+      },
+      "artists": [
+        {
+          "name": "Alex Keeper",
+          "url": "https://open.spotify.com/artist/4hxy6gamr697jKBPSmHcpB"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162857,
+      "name": "Free Falling",
+      "url": "https://open.spotify.com/track/2hH2szN2i1OWs6yHebSUcN"
+    },
+    {
+      "album": {
         "name": "Free To Love",
         "url": "https://open.spotify.com/album/5Ae9zbg6eNmQDdj2P94uWU"
       },
@@ -1957,6 +1997,32 @@
     },
     {
       "album": {
+        "name": "Kendall Park",
+        "url": "https://open.spotify.com/album/6wp9Rv4sM3NOfTaEzxY1pf"
+      },
+      "artists": [
+        {
+          "name": "Duce",
+          "url": "https://open.spotify.com/artist/6MBI5TYgu9T3s5NeqAgbxD"
+        },
+        {
+          "name": "Piece Wise",
+          "url": "https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk"
+        },
+        {
+          "name": "Courtney Storm",
+          "url": "https://open.spotify.com/artist/6zd0ClAbzCmZ9qReLzekUV"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200635,
+      "name": "Kendall Park",
+      "url": "https://open.spotify.com/track/2SXi0cldambE2930H18LoL"
+    },
+    {
+      "album": {
         "name": "Kids",
         "url": "https://open.spotify.com/album/2rdlrgBymYzVl2ChjoIi1x"
       },
@@ -2060,6 +2126,28 @@
       "duration_ms": 148471,
       "name": "Lie To Me",
       "url": "https://open.spotify.com/track/7LqgpHvLdvIYSokiShzmnR"
+    },
+    {
+      "album": {
+        "name": "Lie To Me (feat. KIDDO)",
+        "url": "https://open.spotify.com/album/3G8b5QeeM4r9YwsPy6UahO"
+      },
+      "artists": [
+        {
+          "name": "Jub\u00ebl",
+          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
+        },
+        {
+          "name": "KIDDO",
+          "url": "https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157339,
+      "name": "Lie To Me (feat. KIDDO)",
+      "url": "https://open.spotify.com/track/3J09uhKXKITm0roetB1cL0"
     },
     {
       "album": {
@@ -2422,7 +2510,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 184000,
       "name": "Not Your Only One",
       "url": "https://open.spotify.com/track/7bz3YxGJWGEL0ACviYbX4s"
@@ -3198,7 +3286,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 167142,
       "name": "Someone You Loved",
       "url": "https://open.spotify.com/track/0KwBY9xAHCQlPpWj6smYpb"
@@ -3224,6 +3312,28 @@
       "duration_ms": 135254,
       "name": "Still Standing",
       "url": "https://open.spotify.com/track/0vDieQMqZRkGtV1TRkoDlb"
+    },
+    {
+      "album": {
+        "name": "Stole The Show",
+        "url": "https://open.spotify.com/album/3JhPrgL6Pq0xNBfw6CqK6u"
+      },
+      "artists": [
+        {
+          "name": "Alosa",
+          "url": "https://open.spotify.com/artist/7tLZj7bBitwASeMgNlqWVC"
+        },
+        {
+          "name": "Britt",
+          "url": "https://open.spotify.com/artist/6C0GDQqkaIX35GF3rTV1U1"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187211,
+      "name": "Stole The Show",
+      "url": "https://open.spotify.com/track/1SliPnarWMr2ABCvXzcU0k"
     },
     {
       "album": {
@@ -3635,6 +3745,46 @@
     },
     {
       "album": {
+        "name": "Used To Be",
+        "url": "https://open.spotify.com/album/18EC5nKFT4bw5gLU6BgaoJ"
+      },
+      "artists": [
+        {
+          "name": "This & That",
+          "url": "https://open.spotify.com/artist/37CoByDWrze0gglk61NEYb"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129391,
+      "name": "Used To Be",
+      "url": "https://open.spotify.com/track/01Wf71h8dY3QCUzRcHVwJ6"
+    },
+    {
+      "album": {
+        "name": "Waiting For",
+        "url": "https://open.spotify.com/album/1qGmr1O8Mco2Nsm0FDrYuM"
+      },
+      "artists": [
+        {
+          "name": "P3PPER",
+          "url": "https://open.spotify.com/artist/0iq9s28aS7Tzobq9Yznwnj"
+        },
+        {
+          "name": "Chill Satellite",
+          "url": "https://open.spotify.com/artist/4vZ2mRnHWxGV3JEn2SO0aA"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196971,
+      "name": "Waiting For",
+      "url": "https://open.spotify.com/track/7frmv0TaHOiLrzcXEHiOgU"
+    },
+    {
+      "album": {
         "name": "Waiting For A Better Day",
         "url": "https://open.spotify.com/album/0ulaHvKhk79OWZ12gmZDtO"
       },
@@ -3806,7 +3956,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 126545,
       "name": "When I'm With You",
       "url": "https://open.spotify.com/track/6JyIpoXgnegNSvguvj6QcU"

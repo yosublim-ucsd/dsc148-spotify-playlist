@@ -2,9 +2,9 @@
 
 ### [Dance For Days 🪩🕺 2024 EDM](https://open.spotify.com/playlist/68bXT1MZWZvLOJc0FZrgf7)
 
-> Dance to your favorite electronic hits 🪩 2024 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave 🕺 Cover: Icona Pop
+> Dance to your favorite electronic hits 🪩 2024 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave 🕺 Cover: Gordo
 
-552 songs - 1 day 4 hr 45 min
+554 songs - 1 day 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Chemicals](https://open.spotify.com/track/7g7pOUq65ODMkQ1Jo9as0v) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc) | [Chemicals](https://open.spotify.com/album/6ffRwaq5PraWwLxmd68XP4) | 3:10 | 2023-06-30 | 2023-12-14 |
 | [Close To Me](https://open.spotify.com/track/21JoPemyXNty2lwPaDJxgA) | [Different Heaven](https://open.spotify.com/artist/0pCGA9tdtbWwo1pKIs0CFx), [Myge](https://open.spotify.com/artist/3Yw7xZaBk5eAvwskaBScZA) | [Close To Me](https://open.spotify.com/album/4gGy3RGpKiegHYrbVlnOog) | 3:20 | 2022-06-03 | 2023-02-05 |
 | [Come Clean \(feat\. Justin Jesso\)](https://open.spotify.com/track/4PyEdtiTEPNvsNSXPDQDDL) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [Prince Fox](https://open.spotify.com/artist/1nf5yEVCfMbqm1OCYpntBT), [Justin Jesso](https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu) | [Love // Chaos](https://open.spotify.com/album/3Iz1TViTuDQ6C7Cyn5CD7k) | 2:57 | 2022-06-03 | 2023-04-29 |
+| [Complicated](https://open.spotify.com/track/5rBT156U8E2vVCSh5RKIMr) | [Luca Schreiner](https://open.spotify.com/artist/5fiYAV2DWASxAUKDq7Gbe9) | [Complicated](https://open.spotify.com/album/2ZK7b7XyfADafiQjJVRwYB) | 2:08 | 2024-02-23 |  |
 | [complicated](https://open.spotify.com/track/4J65QmTZvsq9SCvuY8ej3W) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [complicated](https://open.spotify.com/album/0ktZQAbl5PPYU9UOXoJ0aM) | 2:12 | 2023-02-25 | 2023-04-29 |
 | [Confidence \(feat\. Jon Waltz\) \- Slow Magic Remix](https://open.spotify.com/track/1Rvd0fDecFF3UToXYp8oE9) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB), [Jon Waltz](https://open.spotify.com/artist/0fykVRaVSsAkxDFfLoCd1J), [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT) | [Confidence \(feat\. Jon Waltz\) \[Slow Magic Remix\]](https://open.spotify.com/album/2PIshbxgCmpan3Q36Q3DFd) | 3:35 | 2022-06-03 | 2023-02-05 |
 | [Cooler Than Me](https://open.spotify.com/track/525GY0mXYnxajolwgS8Eaz) | [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR) | [Cooler Than Me](https://open.spotify.com/album/5BmY6ZPLmhyIm9bRdN4mWP) | 2:59 | 2022-06-03 | 2022-10-29 |
@@ -255,6 +256,7 @@
 | [Keep It Movin \(feat\. Knox Fortune\)](https://open.spotify.com/track/3SVCdXlMdoe5EicHJp6vGa) | [Smoko Ono](https://open.spotify.com/artist/5ISXAUt037t6aYhvewRtzd), [Knox Fortune](https://open.spotify.com/artist/49O0SPoCoTiK2Nn2tOaHyU) | [Keep It Movin \(feat\. Knox Fortune\)](https://open.spotify.com/album/67kspCfxRBj5goRTTLH51s) | 3:14 | 2023-02-10 | 2023-06-10 |
 | [Keep My Head Up](https://open.spotify.com/track/3QH79spjkPv0h5NEbd8Msn) | [Łaszewo](https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN) | [Keep My Head Up](https://open.spotify.com/album/4qL93ht3M3HewGnz7kZmCq) | 3:22 | 2023-03-10 | 2023-07-29 |
 | [Kids on the Run](https://open.spotify.com/track/3Z1qelLeL16u46bWyqHRw1) | [Klingande](https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb), [VARGEN](https://open.spotify.com/artist/0L3cTKutNivypmL0Gsbu4i) | [Kids on the Run](https://open.spotify.com/album/2ZwAYU8JNzmLHrGZK0bGlo) | 2:53 | 2023-02-04 | 2023-07-29 |
+| [Kill For This Shit \(feat\. Young Dolph\)](https://open.spotify.com/track/5ScpTvVlLoTG9pEJiO1LZF) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Kill For This Shit \(feat\. Young Dolph\)](https://open.spotify.com/album/0WEHkvTwLphaOKZMM1kpok) | 3:17 | 2024-02-23 |  |
 | [Kings & Queens \(feat\. Shibui\)](https://open.spotify.com/track/5n4tX6qxC8giXU7IUmDSuI) | [Boris Way](https://open.spotify.com/artist/6B4RvAzPbZcxMjhZvFSDis), [Shibui](https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4) | [Kings & Queens \(feat\. Shibui\)](https://open.spotify.com/album/1hyL0GzOo3xtHAyhUQ5mjV) | 2:24 | 2022-10-28 | 2022-11-19 |
 | [Kings & Queens \(feat\. Shibui\) \- Passion Edit](https://open.spotify.com/track/27hezBpMhH3uSlYnl2zOud) | [Boris Way](https://open.spotify.com/artist/6B4RvAzPbZcxMjhZvFSDis), [Shibui](https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4) | [Kings & Queens \(feat\. Shibui\) \[Passion Edit\]](https://open.spotify.com/album/7DuNmh0lsbkm7sGKIwddAk) | 2:17 | 2023-01-20 | 2023-02-05 |
 | [Know Someone](https://open.spotify.com/track/0cTNeoYonQaeArcopcPt73) | [Kiimi](https://open.spotify.com/artist/3EMzfV9nhsrQWF7Ww8M74S) | [Know Someone](https://open.spotify.com/album/4pAP4YIHv1v7qrpxyhRLbf) | 4:20 | 2023-07-21 |  |

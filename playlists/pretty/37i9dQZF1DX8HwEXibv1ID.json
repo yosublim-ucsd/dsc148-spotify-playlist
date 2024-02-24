@@ -1,12 +1,12 @@
 {
   "description": "Instrumental and vocal versions of the incredible Cole Porter. Cover: Cole Porter",
-  "num_followers": 37720,
+  "num_followers": 37750,
   "original_name": "The Cole Porter Songbook",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZDBjNmRjNDA0MTU4YjM0NzEyMDk5MjE5NzZkNDNlYzExZWYxZGM1",
+  "snapshot_id": "MCw5OTdmOTgyYzI5ZDQ4MGRhMTcyMzU1N2E5MDRlNmFhMzZkYWNmZDFi",
   "tracks": [
     {
       "added_at": "2024-02-22 09:42:54",
@@ -275,22 +275,6 @@
     {
       "added_at": "2024-02-22 09:42:54",
       "album": {
-        "name": "In the Land of Hi-Fi",
-        "url": "https://open.spotify.com/album/6NIPfaaCsVriz2WvfcQZMX"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 157893,
-      "name": "Let's Do It (Let's Fall in Love)",
-      "url": "https://open.spotify.com/track/0fsUmybL8WDSl5fU23bpF7"
-    },
-    {
-      "added_at": "2024-02-22 09:42:54",
-      "album": {
         "name": "Bobby Short Loves Cole Porter",
         "url": "https://open.spotify.com/album/1xOxd51uf1Qq5iGtdS5jdP"
       },
@@ -307,6 +291,22 @@
     {
       "added_at": "2024-02-22 09:42:54",
       "album": {
+        "name": "In the Land of Hi-Fi",
+        "url": "https://open.spotify.com/album/6NIPfaaCsVriz2WvfcQZMX"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 157893,
+      "name": "Let's Do It (Let's Fall in Love)",
+      "url": "https://open.spotify.com/track/0fsUmybL8WDSl5fU23bpF7"
+    },
+    {
+      "added_at": "2024-02-22 09:42:54",
+      "album": {
         "name": "The Bridge",
         "url": "https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ"
       },
@@ -319,54 +319,6 @@
       "duration_ms": 411866,
       "name": "You Do Something to Me - Remastered",
       "url": "https://open.spotify.com/track/0HQWwFTh58MJ7DHKaD4DZO"
-    },
-    {
-      "added_at": "2024-02-22 09:42:54",
-      "album": {
-        "name": "Lady Day: The Complete Billie Holiday On Columbia (1933-1944)",
-        "url": "https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 177866,
-      "name": "Night and Day - Take 1",
-      "url": "https://open.spotify.com/track/0tFX3mUraX85YPzTwEHWs4"
-    },
-    {
-      "added_at": "2024-02-22 09:42:54",
-      "album": {
-        "name": "Ella Fitzgerald Sings The Cole Porter Song Book",
-        "url": "https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 196960,
-      "name": "All Through The Night",
-      "url": "https://open.spotify.com/track/3SzFMhHBt7bw0eS35946N6"
-    },
-    {
-      "added_at": "2024-02-22 09:42:54",
-      "album": {
-        "name": "Jeri Southern Meets Cole Porter",
-        "url": "https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O"
-      },
-      "artists": [
-        {
-          "name": "Jeri Southern",
-          "url": "https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK"
-        }
-      ],
-      "duration_ms": 179466,
-      "name": "Don't Look At Me That Way",
-      "url": "https://open.spotify.com/track/7b2q8bdtVI0AaVBhhpMP2y"
     },
     {
       "added_at": "2024-02-22 09:42:54",
@@ -407,6 +359,54 @@
     {
       "added_at": "2024-02-22 09:42:54",
       "album": {
+        "name": "Ella Fitzgerald Sings The Cole Porter Song Book",
+        "url": "https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 196960,
+      "name": "All Through The Night",
+      "url": "https://open.spotify.com/track/3SzFMhHBt7bw0eS35946N6"
+    },
+    {
+      "added_at": "2024-02-22 09:42:54",
+      "album": {
+        "name": "Jeri Southern Meets Cole Porter",
+        "url": "https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O"
+      },
+      "artists": [
+        {
+          "name": "Jeri Southern",
+          "url": "https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK"
+        }
+      ],
+      "duration_ms": 179466,
+      "name": "Don't Look At Me That Way",
+      "url": "https://open.spotify.com/track/7b2q8bdtVI0AaVBhhpMP2y"
+    },
+    {
+      "added_at": "2024-02-22 09:42:54",
+      "album": {
+        "name": "Lady Day: The Complete Billie Holiday On Columbia (1933-1944)",
+        "url": "https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 177866,
+      "name": "Night and Day - Take 1",
+      "url": "https://open.spotify.com/track/0tFX3mUraX85YPzTwEHWs4"
+    },
+    {
+      "added_at": "2024-02-22 09:42:54",
+      "album": {
         "name": "All Through The Night: Julie London Sings The Choicest Of Cole Porter (Bonus Tracks)",
         "url": "https://open.spotify.com/album/6rE7shZVgh3JfpLrdoR1Zn"
       },
@@ -443,18 +443,22 @@
     {
       "added_at": "2024-02-22 09:42:54",
       "album": {
-        "name": "Tears And Laughter",
-        "url": "https://open.spotify.com/album/1IqiYg8kXt5nVY5fEz5dUD"
+        "name": "Beauty And The Beat! (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1lfNVAwkwZLIPwAmkSUtlQ"
       },
       "artists": [
         {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+        },
+        {
+          "name": "George Shearing",
+          "url": "https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn"
         }
       ],
-      "duration_ms": 267840,
-      "name": "So In Love",
-      "url": "https://open.spotify.com/track/6jqfoXK41QFV9Q5RYmwoMx"
+      "duration_ms": 183266,
+      "name": "Do I Love You? - Live In Miami, FL/1959",
+      "url": "https://open.spotify.com/track/32k3wUYW5lOUKa5waNJKu9"
     },
     {
       "added_at": "2024-02-22 09:42:54",
@@ -475,22 +479,18 @@
     {
       "added_at": "2024-02-22 09:42:54",
       "album": {
-        "name": "Beauty And The Beat! (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1lfNVAwkwZLIPwAmkSUtlQ"
+        "name": "Tears And Laughter",
+        "url": "https://open.spotify.com/album/1IqiYg8kXt5nVY5fEz5dUD"
       },
       "artists": [
         {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
-        },
-        {
-          "name": "George Shearing",
-          "url": "https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn"
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
         }
       ],
-      "duration_ms": 183266,
-      "name": "Do I Love You? - Live In Miami, FL/1959",
-      "url": "https://open.spotify.com/track/32k3wUYW5lOUKa5waNJKu9"
+      "duration_ms": 267840,
+      "name": "So In Love",
+      "url": "https://open.spotify.com/track/6jqfoXK41QFV9Q5RYmwoMx"
     },
     {
       "added_at": "2024-02-22 09:42:54",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-02-22 09:42:54",
       "album": {
-        "name": "Charlie Parker With Strings (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1DPRDrZgfU3rAo2SL4GrZw"
-      },
-      "artists": [
-        {
-          "name": "Charlie Parker",
-          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
-        }
-      ],
-      "duration_ms": 212386,
-      "name": "Easy To Love",
-      "url": "https://open.spotify.com/track/67Bz7gVmb1F5xZMKhjdV6B"
-    },
-    {
-      "added_at": "2024-02-22 09:42:54",
-      "album": {
         "name": "Boy Meets Girl: Sammy Davis Jr. And Carmen McRae On Decca",
         "url": "https://open.spotify.com/album/4UIxdcJmqo5Qnqs1tLC2Ge"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 182466,
       "name": "You're The Top",
       "url": "https://open.spotify.com/track/6pdbfNeGcAkMkkVClm532h"
+    },
+    {
+      "added_at": "2024-02-22 09:42:54",
+      "album": {
+        "name": "Charlie Parker With Strings (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1DPRDrZgfU3rAo2SL4GrZw"
+      },
+      "artists": [
+        {
+          "name": "Charlie Parker",
+          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+        }
+      ],
+      "duration_ms": 212386,
+      "name": "Easy To Love",
+      "url": "https://open.spotify.com/track/67Bz7gVmb1F5xZMKhjdV6B"
     },
     {
       "added_at": "2024-02-22 09:42:54",
@@ -715,6 +715,22 @@
     {
       "added_at": "2024-02-22 09:42:54",
       "album": {
+        "name": "An Evening With Anita O'Day",
+        "url": "https://open.spotify.com/album/1KclxfwNOpocikBIY8yPig"
+      },
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        }
+      ],
+      "duration_ms": 193600,
+      "name": "From This Moment On - 1955 Version",
+      "url": "https://open.spotify.com/track/0YfbhZiiqZIyfknf2mbazr"
+    },
+    {
+      "added_at": "2024-02-22 09:42:54",
+      "album": {
         "name": "Frank Sinatra: The Complete Capitol Singles Collection",
         "url": "https://open.spotify.com/album/7LbB7SuX3op2Xa9FvteJeB"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 127360,
       "name": "Who Wants To Be A Millionaire",
       "url": "https://open.spotify.com/track/6OMMZBlodSQh14cyBxSNZ3"
-    },
-    {
-      "added_at": "2024-02-22 09:42:54",
-      "album": {
-        "name": "An Evening With Anita O'Day",
-        "url": "https://open.spotify.com/album/1KclxfwNOpocikBIY8yPig"
-      },
-      "artists": [
-        {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        }
-      ],
-      "duration_ms": 193600,
-      "name": "From This Moment On - 1955 Version",
-      "url": "https://open.spotify.com/track/0YfbhZiiqZIyfknf2mbazr"
     },
     {
       "added_at": "2024-02-22 09:42:54",
@@ -835,6 +835,22 @@
     {
       "added_at": "2024-02-22 09:42:54",
       "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/5OBKP6D1MyMdnnB0RZ3PL7"
+      },
+      "artists": [
+        {
+          "name": "Perry Como",
+          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
+        }
+      ],
+      "duration_ms": 165893,
+      "name": "In the Still of the Night",
+      "url": "https://open.spotify.com/track/62SGxkOggmrZblQ6prK5AI"
+    },
+    {
+      "added_at": "2024-02-22 09:42:54",
+      "album": {
         "name": "High Society (O.S.T - 1956)",
         "url": "https://open.spotify.com/album/4oqjQquUSco98dlsNLZRFq"
       },
@@ -855,22 +871,6 @@
     {
       "added_at": "2024-02-22 09:42:54",
       "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/5OBKP6D1MyMdnnB0RZ3PL7"
-      },
-      "artists": [
-        {
-          "name": "Perry Como",
-          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
-        }
-      ],
-      "duration_ms": 165893,
-      "name": "In the Still of the Night",
-      "url": "https://open.spotify.com/track/62SGxkOggmrZblQ6prK5AI"
-    },
-    {
-      "added_at": "2024-02-22 09:42:54",
-      "album": {
         "name": "Silk Stockings (Original Motion Picture Soundtrack) [Deluxe Edition]",
         "url": "https://open.spotify.com/album/3GOv0XaeZwCIKygJuKKOqg"
       },
@@ -887,22 +887,6 @@
       "duration_ms": 163933,
       "name": "Paris Loves Lovers",
       "url": "https://open.spotify.com/track/5jDN0wdmd3AcunXBceqmDO"
-    },
-    {
-      "added_at": "2024-02-22 09:42:54",
-      "album": {
-        "name": "A Man and His Trombone",
-        "url": "https://open.spotify.com/album/1F4BlMdj4N0qXXM11Of6GI"
-      },
-      "artists": [
-        {
-          "name": "Tommy Dorsey",
-          "url": "https://open.spotify.com/artist/4WoGga7UeRcmjD4ufif4nG"
-        }
-      ],
-      "duration_ms": 168442,
-      "name": "Silk Stockings",
-      "url": "https://open.spotify.com/track/5iRLpKazu6D8zoNz1RzCmp"
     },
     {
       "added_at": "2024-02-22 09:42:54",
@@ -939,18 +923,18 @@
     {
       "added_at": "2024-02-22 09:42:54",
       "album": {
-        "name": "The Best Of Cole Porter",
-        "url": "https://open.spotify.com/album/1ngfTN3hqpipNzGgIa7U2j"
+        "name": "A Man and His Trombone",
+        "url": "https://open.spotify.com/album/1F4BlMdj4N0qXXM11Of6GI"
       },
       "artists": [
         {
-          "name": "Harry Arnold and His Swedish Radio Studio Orchestra",
-          "url": "https://open.spotify.com/artist/2bbGZ6HJZotKHyzYHKUQhm"
+          "name": "Tommy Dorsey",
+          "url": "https://open.spotify.com/artist/4WoGga7UeRcmjD4ufif4nG"
         }
       ],
-      "duration_ms": 169001,
-      "name": "Rosalie",
-      "url": "https://open.spotify.com/track/2UmU67sj5MlaohEIWZv6zv"
+      "duration_ms": 168442,
+      "name": "Silk Stockings",
+      "url": "https://open.spotify.com/track/5iRLpKazu6D8zoNz1RzCmp"
     },
     {
       "added_at": "2024-02-22 09:42:54",
@@ -967,6 +951,22 @@
       "duration_ms": 189906,
       "name": "Goodbye Little Dream, Goodbye",
       "url": "https://open.spotify.com/track/28oUQEAgmiZX5LhZTYXqQW"
+    },
+    {
+      "added_at": "2024-02-22 09:42:54",
+      "album": {
+        "name": "The Best Of Cole Porter",
+        "url": "https://open.spotify.com/album/1ngfTN3hqpipNzGgIa7U2j"
+      },
+      "artists": [
+        {
+          "name": "Harry Arnold and His Swedish Radio Studio Orchestra",
+          "url": "https://open.spotify.com/artist/2bbGZ6HJZotKHyzYHKUQhm"
+        }
+      ],
+      "duration_ms": 169001,
+      "name": "Rosalie",
+      "url": "https://open.spotify.com/track/2UmU67sj5MlaohEIWZv6zv"
     },
     {
       "added_at": "2024-02-22 09:42:54",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-02-22 09:42:54",
       "album": {
-        "name": "The Jazz Collection",
-        "url": "https://open.spotify.com/album/1cA3CRFpudlbdbICoedUqC"
-      },
-      "artists": [
-        {
-          "name": "Benny Carter",
-          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
-        }
-      ],
-      "duration_ms": 221959,
-      "name": "Allez-Vous En, Go Away",
-      "url": "https://open.spotify.com/track/2XmUvzhQxupKbxHxYf4EBb"
-    },
-    {
-      "added_at": "2024-02-22 09:42:54",
-      "album": {
         "name": "Easy To Love: The Songs Of Cole Porter",
         "url": "https://open.spotify.com/album/3NnFEdQ57OGL55VSFa045Q"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 266466,
       "name": "Why Don't We Try Staying Home?",
       "url": "https://open.spotify.com/track/7EQzuOEoDBH5hP6UYAeY1B"
+    },
+    {
+      "added_at": "2024-02-22 09:42:54",
+      "album": {
+        "name": "The Jazz Collection",
+        "url": "https://open.spotify.com/album/1cA3CRFpudlbdbICoedUqC"
+      },
+      "artists": [
+        {
+          "name": "Benny Carter",
+          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
+        }
+      ],
+      "duration_ms": 221959,
+      "name": "Allez-Vous En, Go Away",
+      "url": "https://open.spotify.com/track/2XmUvzhQxupKbxHxYf4EBb"
     },
     {
       "added_at": "2024-02-22 09:42:54",
@@ -1240,6 +1240,22 @@
           "url": "https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K"
         }
       ],
+      "duration_ms": 111306,
+      "name": "I Am Ashamed That Women Are so Simple",
+      "url": "https://open.spotify.com/track/37tJzpOIs4hDV1B87UrvuQ"
+    },
+    {
+      "added_at": "2024-02-22 09:42:54",
+      "album": {
+        "name": "Mabel Mercer Sings Cole Porter",
+        "url": "https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN"
+      },
+      "artists": [
+        {
+          "name": "Mabel Mercer",
+          "url": "https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K"
+        }
+      ],
       "duration_ms": 182400,
       "name": "Use Your Imagination",
       "url": "https://open.spotify.com/track/2WonnDNRwgkxG2KazDD658"
@@ -1259,22 +1275,6 @@
       "duration_ms": 193160,
       "name": "When Love Comes Your Way",
       "url": "https://open.spotify.com/track/75WKCf8LCfjsIC042qHBjU"
-    },
-    {
-      "added_at": "2024-02-22 09:42:54",
-      "album": {
-        "name": "Mabel Mercer Sings Cole Porter",
-        "url": "https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN"
-      },
-      "artists": [
-        {
-          "name": "Mabel Mercer",
-          "url": "https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K"
-        }
-      ],
-      "duration_ms": 111306,
-      "name": "I Am Ashamed That Women Are so Simple",
-      "url": "https://open.spotify.com/track/37tJzpOIs4hDV1B87UrvuQ"
     },
     {
       "added_at": "2024-02-22 09:42:54",

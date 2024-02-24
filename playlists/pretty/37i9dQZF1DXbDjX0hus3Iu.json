@@ -1,12 +1,12 @@
 {
   "description": "The early pioneers and current favorites in Southern Rock. Cover: Lynyrd Skynyrd ",
-  "num_followers": 492693,
+  "num_followers": 492745,
   "original_name": "Southern Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZWM1Yjk4MmY4ODViODEwYmRiNjM3MmM2NDI1OWM1OTIwZTI3NTRi",
+  "snapshot_id": "MCwwYzY5MjQyNjYwMGJkMGY1MjA0MTNiYTU0MjE0YzFmY2EzNzg3MDY5",
   "tracks": [
     {
       "added_at": "2023-01-18 21:52:55",
@@ -843,18 +843,18 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "Feats Don't Fail Me Now",
-        "url": "https://open.spotify.com/album/5nflfddG6Tlrt2YiZhXJAD"
+        "name": "20th Century Masters: The Millennium Collection: Best Of The Rossington Collins Band",
+        "url": "https://open.spotify.com/album/5x7R9IRVTa2Yb1IT14vNoH"
       },
       "artists": [
         {
-          "name": "Little Feat",
-          "url": "https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S"
+          "name": "Rossington Collins Band",
+          "url": "https://open.spotify.com/artist/22vadBKWnw6sLJPML2MdKi"
         }
       ],
-      "duration_ms": 209373,
-      "name": "Oh, Atlanta",
-      "url": "https://open.spotify.com/track/1PraqvAnggduSq9zCTOSTF"
+      "duration_ms": 236200,
+      "name": "Don't Misunderstand Me",
+      "url": "https://open.spotify.com/track/7uODrkf1XnlIGMyUSCLbLU"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -891,18 +891,18 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best Of The Rossington Collins Band",
-        "url": "https://open.spotify.com/album/5x7R9IRVTa2Yb1IT14vNoH"
+        "name": "Feats Don't Fail Me Now",
+        "url": "https://open.spotify.com/album/5nflfddG6Tlrt2YiZhXJAD"
       },
       "artists": [
         {
-          "name": "Rossington Collins Band",
-          "url": "https://open.spotify.com/artist/22vadBKWnw6sLJPML2MdKi"
+          "name": "Little Feat",
+          "url": "https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S"
         }
       ],
-      "duration_ms": 236200,
-      "name": "Don't Misunderstand Me",
-      "url": "https://open.spotify.com/track/7uODrkf1XnlIGMyUSCLbLU"
+      "duration_ms": 209373,
+      "name": "Oh, Atlanta",
+      "url": "https://open.spotify.com/track/1PraqvAnggduSq9zCTOSTF"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "Grey Ghost",
-        "url": "https://open.spotify.com/album/0DCaJ8Y99VKHdLHaMGeJ1M"
-      },
-      "artists": [
-        {
-          "name": "Henry Paul Band",
-          "url": "https://open.spotify.com/artist/4GGDnwXsF5e9gjhJMRZ03s"
-        }
-      ],
-      "duration_ms": 411720,
-      "name": "Grey Ghost",
-      "url": "https://open.spotify.com/track/1noWIYqgKF7dv4IGSL21wZ"
-    },
-    {
-      "added_at": "2023-01-18 21:52:55",
-      "album": {
         "name": "Alligator Stew",
         "url": "https://open.spotify.com/album/374dOT1I1hPxjzi4glBh0M"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 240066,
       "name": "Two Wheels",
       "url": "https://open.spotify.com/track/0CXtf9Z4VcSm9m9owHKYAA"
+    },
+    {
+      "added_at": "2023-01-18 21:52:55",
+      "album": {
+        "name": "Grey Ghost",
+        "url": "https://open.spotify.com/album/0DCaJ8Y99VKHdLHaMGeJ1M"
+      },
+      "artists": [
+        {
+          "name": "Henry Paul Band",
+          "url": "https://open.spotify.com/artist/4GGDnwXsF5e9gjhJMRZ03s"
+        }
+      ],
+      "duration_ms": 411720,
+      "name": "Grey Ghost",
+      "url": "https://open.spotify.com/track/1noWIYqgKF7dv4IGSL21wZ"
     },
     {
       "added_at": "2023-01-18 21:52:55",

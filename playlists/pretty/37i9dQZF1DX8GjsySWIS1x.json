@@ -1,13 +1,33 @@
 {
   "description": "The latest promotional gaming tracks, gaming synchs, and more.",
-  "num_followers": 1032033,
+  "num_followers": 1031987,
   "original_name": "Now Loading",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiN2I3NGRlOGY5YWE5ZTlkNTg1YjRhNTYwMWUyZmI4YjhjNTgxM2Y5",
+  "snapshot_id": "MCw3MWZhZWNjZmU5Y2M2YzY2NTBkZDRhM2E5YzI0ZWRlNDBjZmZhMDYx",
   "tracks": [
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Rise (Redux)",
+        "url": "https://open.spotify.com/album/0TtYq1Ni9PBoyxCAkqxuVC"
+      },
+      "artists": [
+        {
+          "name": "The Word Alive",
+          "url": "https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "duration_ms": 194919,
+      "name": "Rise (Redux)",
+      "url": "https://open.spotify.com/track/069KZZROmbuGFuZ0B0Qc7A"
+    },
     {
       "added_at": "2024-01-11 17:00:25",
       "album": {
@@ -219,26 +239,6 @@
     {
       "added_at": "2023-10-19 17:37:17",
       "album": {
-        "name": "Swing (From \"Marvel's Spider-Man 2\")",
-        "url": "https://open.spotify.com/album/6TLVVF2wznR6RYKnmVEH0U"
-      },
-      "artists": [
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        },
-        {
-          "name": "Benji.",
-          "url": "https://open.spotify.com/artist/2Y4AFMyyarPFVfz9o2CRo2"
-        }
-      ],
-      "duration_ms": 184346,
-      "name": "Swing - From \"Marvel's Spider-Man 2\"",
-      "url": "https://open.spotify.com/track/3VaUx4drij8PSdSoz1JLz3"
-    },
-    {
-      "added_at": "2023-10-19 17:37:17",
-      "album": {
         "name": "GODS",
         "url": "https://open.spotify.com/album/0rAaP1OBxVCn2cIUZNjGRs"
       },
@@ -433,22 +433,6 @@
       "url": "https://open.spotify.com/track/5bVTkc2s7TQbTbVZZn2fXn"
     },
     {
-      "added_at": "2023-06-26 13:34:45",
-      "album": {
-        "name": "\u6708\u3092\u898b\u3066\u3044\u305f",
-        "url": "https://open.spotify.com/album/1vRP9NcPzsS14TroLaywor"
-      },
-      "artists": [
-        {
-          "name": "Kenshi Yonezu",
-          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
-        }
-      ],
-      "duration_ms": 252340,
-      "name": "\u6708\u3092\u898b\u3066\u3044\u305f",
-      "url": "https://open.spotify.com/track/5xoar7MhzRUVqJvGpAtxfP"
-    },
-    {
       "added_at": "2023-06-16 04:00:00",
       "album": {
         "name": "Glow in the Dark (From Rocksmith+ Original Soundtrack)",
@@ -547,22 +531,6 @@
       "duration_ms": 180933,
       "name": "Lilith (feat. SUGA of BTS) (Diablo IV Anthem)",
       "url": "https://open.spotify.com/track/3l6LBCOL9nPsSY29TUY2VE"
-    },
-    {
-      "added_at": "2023-04-13 17:55:58",
-      "album": {
-        "name": "The Super Mario Bros. Movie (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3QITNyRzvTqn0t9tLmS1Vd"
-      },
-      "artists": [
-        {
-          "name": "Jack Black",
-          "url": "https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T"
-        }
-      ],
-      "duration_ms": 95440,
-      "name": "Peaches",
-      "url": "https://open.spotify.com/track/4w9soAM7IrmYDhSXLp14p6"
     },
     {
       "added_at": "2023-04-06 19:00:34",
@@ -1075,174 +1043,6 @@
       "duration_ms": 219802,
       "name": "Face Off",
       "url": "https://open.spotify.com/track/6M47gaKejso9772SKTa3yH"
-    },
-    {
-      "added_at": "2022-07-28 15:31:40",
-      "album": {
-        "name": "Game On!",
-        "url": "https://open.spotify.com/album/6SpxyDfoqxLUuvd5jiyAZx"
-      },
-      "artists": [
-        {
-          "name": "JT Music",
-          "url": "https://open.spotify.com/artist/5qvrAlKjc0Sqrqz6v2wBGk"
-        }
-      ],
-      "duration_ms": 293400,
-      "name": "To the Bone",
-      "url": "https://open.spotify.com/track/6A1otOgRcNpIs0eta8D4tb"
-    },
-    {
-      "added_at": "2022-07-28 15:31:40",
-      "album": {
-        "name": "Close Eyes",
-        "url": "https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF"
-      },
-      "artists": [
-        {
-          "name": "DVRST",
-          "url": "https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5"
-        }
-      ],
-      "duration_ms": 132346,
-      "name": "Close Eyes",
-      "url": "https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh"
-    },
-    {
-      "added_at": "2022-09-30 05:34:00",
-      "album": {
-        "name": "Celestial",
-        "url": "https://open.spotify.com/album/2W5VVBPNkGAduaArE4sX29"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 209026,
-      "name": "Celestial",
-      "url": "https://open.spotify.com/track/4zrKN5Sv8JS5mqnbVcsul7"
-    },
-    {
-      "added_at": "2022-07-28 15:31:40",
-      "album": {
-        "name": "Stay Calm (feat. Jeff Burgess)",
-        "url": "https://open.spotify.com/album/6fnqa31bmeRYL7AzOnpXob"
-      },
-      "artists": [
-        {
-          "name": "Griffinilla",
-          "url": "https://open.spotify.com/artist/4YbLu4l7vHlJPD9yGjCkRu"
-        },
-        {
-          "name": "Jeff Burgess",
-          "url": "https://open.spotify.com/artist/1XXSgks7W3pnb8CxGUS51v"
-        }
-      ],
-      "duration_ms": 181068,
-      "name": "Stay Calm (feat. Jeff Burgess)",
-      "url": "https://open.spotify.com/track/1uEirYIgTtCnojbufoer37"
-    },
-    {
-      "added_at": "2022-07-28 15:31:40",
-      "album": {
-        "name": "I See a Dreamer",
-        "url": "https://open.spotify.com/album/4KyRX5MlQF4mQLpehDxrZD"
-      },
-      "artists": [
-        {
-          "name": "CG5",
-          "url": "https://open.spotify.com/artist/3YJDqtTSjydvUpTvU1fJ6O"
-        }
-      ],
-      "duration_ms": 190848,
-      "name": "I See a Dreamer",
-      "url": "https://open.spotify.com/track/4yZEX3NsnXfobmZ0m8ZO4Y"
-    },
-    {
-      "added_at": "2022-09-29 15:53:48",
-      "album": {
-        "name": "Feed the Machine",
-        "url": "https://open.spotify.com/album/0lKGADKI9s71jBqJe5xYhn"
-      },
-      "artists": [
-        {
-          "name": "Poor Man's Poison",
-          "url": "https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5"
-        }
-      ],
-      "duration_ms": 183328,
-      "name": "Feed the Machine",
-      "url": "https://open.spotify.com/track/40wmXUgVB0N5eLK8CuOhm3"
-    },
-    {
-      "added_at": "2022-07-28 15:31:40",
-      "album": {
-        "name": "Last One Standing (feat. Polo G, Mozzy & Eminem) [From Venom: Let There Be Carnage]",
-        "url": "https://open.spotify.com/album/2aYIs6VLwMLzONDdVtNOe6"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 261601,
-      "name": "Venom - Remix",
-      "url": "https://open.spotify.com/track/6kUaRtXf19fu5IQWjmwsEJ"
-    },
-    {
-      "added_at": "2022-07-28 15:31:40",
-      "album": {
-        "name": "Lost It All",
-        "url": "https://open.spotify.com/album/70Qd3rxxqLRnEQQusrFuQC"
-      },
-      "artists": [
-        {
-          "name": "Fabvl",
-          "url": "https://open.spotify.com/artist/48bqPGhLPTuS8gKg3UTtf9"
-        }
-      ],
-      "duration_ms": 242086,
-      "name": "Lost It All",
-      "url": "https://open.spotify.com/track/2ByeohqpWsZdXQlZ1mOTtA"
-    },
-    {
-      "added_at": "2022-07-28 15:31:40",
-      "album": {
-        "name": "Pomegranate Lips",
-        "url": "https://open.spotify.com/album/1CuRyhhGUWNEZCUHlQRyUi"
-      },
-      "artists": [
-        {
-          "name": "Derivakat",
-          "url": "https://open.spotify.com/artist/4T7KICeQg50AwFzauMCR9C"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Pomegranate Lips",
-      "url": "https://open.spotify.com/track/1mKuKTxekhyhbW1axz6lb2"
-    },
-    {
-      "added_at": "2022-07-28 15:31:40",
-      "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        },
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 212352,
-      "name": "INDUSTRY BABY (feat. Jack Harlow)",
-      "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
     }
   ],
   "unique_name": "Now Loading",

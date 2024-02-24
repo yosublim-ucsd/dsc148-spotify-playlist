@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Artistas LGBTQIA+ que brillan e inspiran.\nCover: Adrian Bello",
+  "description": "Artistas LGBTQIA+ que brillan e inspiran.\nCover: Kany Garc\u00eda & Young Miko",
   "name": "BRILLO",
   "tracks": [
     {
@@ -586,7 +586,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 193340,
       "name": "Buena Suerte Muchacha",
       "url": "https://open.spotify.com/track/2YY77lkRQXm4B4fdTHkrbO"
@@ -1812,6 +1812,28 @@
       "duration_ms": 146786,
       "name": "En El Olvido",
       "url": "https://open.spotify.com/track/46j76ZoimljoNL55h26U70"
+    },
+    {
+      "album": {
+        "name": "En Esta Boca",
+        "url": "https://open.spotify.com/album/6qnMEFQU0SY891OuIaOwjF"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170742,
+      "name": "En Esta Boca",
+      "url": "https://open.spotify.com/track/3zKMajDXwhD68TnmMOnCPM"
     },
     {
       "album": {

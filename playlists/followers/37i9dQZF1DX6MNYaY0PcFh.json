@@ -1,9 +1,27 @@
 {
-  "2024-02-23": 74678,
+  "2024-02-24": 74714,
   "date_first_scraped": "2023-01-15",
   "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound.",
   "name": "New UK Garage",
   "tracks": [
+    {
+      "album": {
+        "name": "2AM",
+        "url": "https://open.spotify.com/album/0EGtk8cOVn7UhFClnpvDzf"
+      },
+      "artists": [
+        {
+          "name": "Pep\u00e9",
+          "url": "https://open.spotify.com/artist/5Z4OIeXWXn0UMTPe8JL0Cx"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "2AM",
+      "url": "https://open.spotify.com/track/0UnfBaTe7SjstnF5pZ488T"
+    },
     {
       "album": {
         "name": "345",
@@ -523,7 +541,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 135409,
       "name": "Closer (Higgo Remix)",
       "url": "https://open.spotify.com/track/46JCxxgxODSbbMvz8eR8sF"
@@ -1394,6 +1412,24 @@
     },
     {
       "album": {
+        "name": "Nothing Without Your Love",
+        "url": "https://open.spotify.com/album/421tY7OWB0RLpSCLe5Xdaq"
+      },
+      "artists": [
+        {
+          "name": "Sempra",
+          "url": "https://open.spotify.com/artist/76YrQ1DtiiJ5MFbIIWLOSq"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244680,
+      "name": "Lean On U",
+      "url": "https://open.spotify.com/track/26L3AY8of95gl70zbMS47C"
+    },
+    {
+      "album": {
         "name": "Cesco & Chums",
         "url": "https://open.spotify.com/album/0j2KirysBHVgamExBrmjKL"
       },
@@ -1413,7 +1449,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 214269,
       "name": "Lights In The Crowd",
       "url": "https://open.spotify.com/track/4CycOEzwvbrYnNq44aGBrc"
@@ -2093,7 +2129,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 269000,
       "name": "Show Me",
       "url": "https://open.spotify.com/track/5S8igEQLgDY0lMScgbyeHW"
@@ -2335,6 +2371,32 @@
       "duration_ms": 138400,
       "name": "Term\u00ednelo",
       "url": "https://open.spotify.com/track/3KeHo3x5woeso0oWOIIRGV"
+    },
+    {
+      "album": {
+        "name": "The Way Things Were (Joe Hertz Remix)",
+        "url": "https://open.spotify.com/album/5DLG0cVM3E83yWDsGFkzmf"
+      },
+      "artists": [
+        {
+          "name": "edbl",
+          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
+        },
+        {
+          "name": "Isaac Waddington",
+          "url": "https://open.spotify.com/artist/4ebKlOJFmoNuBQLKSEGDuH"
+        },
+        {
+          "name": "Joe Hertz",
+          "url": "https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200106,
+      "name": "The Way Things Were - Joe Hertz Remix",
+      "url": "https://open.spotify.com/track/4F53yuj2CawwIGo0D2gDj8"
     },
     {
       "album": {

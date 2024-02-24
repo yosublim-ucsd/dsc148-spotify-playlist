@@ -4,7 +4,7 @@
 
 > Grooves so crispy you can snack on them\. Cover: Donny Benét
 
-143 songs - 8 hr 48 min
+144 songs - 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Fool 4 U \- E\. Live Remix](https://open.spotify.com/track/3FIFRSHy5Wz9wNiiQSwO3b) | [E da Boss](https://open.spotify.com/artist/2yG3IyJmbk63oqFlHHVGLL), [Ishtar](https://open.spotify.com/artist/3c8qkOKulbMnNWlEY1XZvW), [E\. Live](https://open.spotify.com/artist/0HB3DYw6dUNqE9wFm6edkT) | [Fool 4 U \(E\. Live Remix\)](https://open.spotify.com/album/5GFXXFXIjbcq4Bt5MPj2Hr) | 4:00 | 2023-09-08 |  |
 | [Fool For You](https://open.spotify.com/track/0urYHfuvFbdwOA1SYX4yvJ) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc), [NanaBcool](https://open.spotify.com/artist/3I1oZvnUZuHgJXSeNUy6Dq) | [Fool For You](https://open.spotify.com/album/7nNMfOWUpvnIpGDMXb0Z0L) | 2:55 | 2021-07-26 | 2022-10-14 |
 | [Fool For You](https://open.spotify.com/track/4cFn7EyvJU4x0xJ34R2d6d) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc), [NanaBcool](https://open.spotify.com/artist/3I1oZvnUZuHgJXSeNUy6Dq) | [Fool For You](https://open.spotify.com/album/3eHSZLaNryhqzy0d5dUaOH) | 2:55 | 2021-07-26 |  |
+| [Forbidden Love](https://open.spotify.com/track/43iixoO1pWlhd2Qu4WtD6z) | [Donny Benét](https://open.spotify.com/artist/1EiNEyiSrpB6BVxt58BnNN) | [Forbidden Love](https://open.spotify.com/album/2Iu5GcX8YQfbVmFcDnfxiJ) | 4:51 | 2024-02-23 |  |
 | [Forever Blue](https://open.spotify.com/track/6UmDgEOlz63QgZFPn0Xn9K) | [Starletta](https://open.spotify.com/artist/72ULrMZm9TVx0SDrpq16Fi) | [Forever Blue](https://open.spotify.com/album/1GzikQt3Pwt8jzx1SO9Wwt) | 3:34 | 2022-09-30 |  |
 | [Get It Together](https://open.spotify.com/track/6VR6zbx4S7eFDRGYGlGqd4) | [Moniquea](https://open.spotify.com/artist/755CaPd9SRvZdhHKBzBY28), [XL Middleton](https://open.spotify.com/artist/6jvRzmQ1J8Kr2QEi6JzQmh) | [Get It Together](https://open.spotify.com/album/76koL38pnB1jvkcszC6ITI) | 3:35 | 2022-08-19 |  |
 | [Girls](https://open.spotify.com/track/1LFu0JwC7x6CFLc6jpRKzH) | [Vetta Borne](https://open.spotify.com/artist/1abBE3BrkgQYrBpcgqrAws) | [Girls](https://open.spotify.com/album/5pmNkvkpQCHdFvdbwEM2aa) | 3:24 | 2021-07-26 |  |
@@ -96,7 +97,7 @@
 | [Million Miles Away \- Edit](https://open.spotify.com/track/3bVVmBBPPQ47Go4NkGC3XW) | [Vantage](https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2), [Milk Talk](https://open.spotify.com/artist/739rlT7CS6nZDmGB9Y9qCR) | [Million Miles Away \(Edit\)](https://open.spotify.com/album/7lMcEyaYZeeI4DBC3d8bRq) | 3:31 | 2023-07-07 |  |
 | [More](https://open.spotify.com/track/74A5yGT7DGBMAmpx6qYfg7) | [Ryan Prewett](https://open.spotify.com/artist/0hBE2OEnt0liysUwP4ZaEj), [Jon Mullins](https://open.spotify.com/artist/3MKuZm9eAVMdw9ni14mzCP) | [Funk Aesthetics](https://open.spotify.com/album/67WRfYEKFAYJ5sZlVd0qxO) | 3:03 | 2021-07-26 |  |
 | [Mr Experience](https://open.spotify.com/track/54GhzoPYsZArLvotyAORIt) | [Donny Benét](https://open.spotify.com/artist/1EiNEyiSrpB6BVxt58BnNN) | [Mr Experience](https://open.spotify.com/album/4jWfPxX2PeXQqxXkyysMKC) | 3:55 | 2021-07-26 | 2023-11-11 |
-| [Multiply](https://open.spotify.com/track/1INYpUDPkutq3NxAXgDlOC) | [Donny Benét](https://open.spotify.com/artist/1EiNEyiSrpB6BVxt58BnNN) | [Multiply](https://open.spotify.com/album/0E8Xp8B1X9Ttr7ZWwR7Ci8) | 4:16 | 2023-11-10 |  |
+| [Multiply](https://open.spotify.com/track/1INYpUDPkutq3NxAXgDlOC) | [Donny Benét](https://open.spotify.com/artist/1EiNEyiSrpB6BVxt58BnNN) | [Multiply](https://open.spotify.com/album/0E8Xp8B1X9Ttr7ZWwR7Ci8) | 4:16 | 2023-11-10 | 2024-02-24 |
 | [Next To You](https://open.spotify.com/track/4b5djboQENpRDpaiv12t06) | [Oral Bee](https://open.spotify.com/artist/4QawfzCb5NbFRNn4BySXb1), [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7), [Splash Bros.](https://open.spotify.com/artist/0IQ1IyebgwJTW4bECBWla3) | [Next To You](https://open.spotify.com/album/6yIMIDnefGWURSE5iEcsLf) | 2:47 | 2023-08-25 |  |
 | [No Apologies](https://open.spotify.com/track/34xXBHLrnUS2QzE6J5Et8G) | [Cocoa Sarai](https://open.spotify.com/artist/5Rh6PMrlYoyU5xhR36YAfX) | [No Apologies](https://open.spotify.com/album/3lmXNWYkfVeHb6hDQlzRf3) | 2:38 | 2021-07-26 |  |
 | [Nowhere But Up](https://open.spotify.com/track/1eSaEAjIt2OOVbvLqtZG6i) | [Phony Ppl](https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6) | [Nowhere But Up](https://open.spotify.com/album/1acFeY7OrZMzmCiAnYWmKU) | 3:55 | 2022-09-23 |  |

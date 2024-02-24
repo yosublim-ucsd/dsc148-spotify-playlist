@@ -4,7 +4,7 @@
 
 > Discover the <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels in Canada, updated every Wednesday\. Cover: CUBE
 
-777 songs - 1 day 16 hr 20 min
+778 songs - 1 day 16 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [B\-Roll](https://open.spotify.com/track/2vtttJ6k1nEkEgfaLKNCiJ) | [Wolf Saga](https://open.spotify.com/artist/0Lwn2PjwIw7QaoN7gHyqCA) | [B\-Roll](https://open.spotify.com/album/2oN83vRrntCH6UZeJctbxp) | 3:26 | 2023-11-15 | 2023-11-30 |
 | [B.I.T.S](https://open.spotify.com/track/5uEvNZqN8zMkVh1uVum6OM) | [GOODBADUGLY](https://open.spotify.com/artist/1lhpezG9iqq6YgLFcKlIA9) | [B.I.T.S](https://open.spotify.com/album/4mzk2FikzbYaxjsAqdfK8D) | 3:21 | 2023-10-04 | 2023-10-26 |
 | [B.O.T.B.](https://open.spotify.com/track/4vfURYHZJEmlSYqZtFGdFn) | [CUBE](https://open.spotify.com/artist/1r3YnMSGcT7Hnm76aStA3r), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [B.O.T.B.](https://open.spotify.com/album/0pUJmYE4ea0TElFKq2ocBv) | 3:36 | 2023-09-27 | 2023-10-26 |
+| [Babe Ruth](https://open.spotify.com/track/7nIXIgN0lx8YsEx6UbL0ue) | [CHUNG](https://open.spotify.com/artist/3JaOZg9OeS0sOnwz9MtvOe), [perutheproducer](https://open.spotify.com/artist/7HZgGgNEM5zlE19qV12YWK) | [Babe Ruth](https://open.spotify.com/album/0SDt2reTVDvRistsKnYFge) | 1:49 | 2024-02-22 |  |
 | [Back In](https://open.spotify.com/track/1PEc0cEEq30WXZmV82tqoa) | [KAGE](https://open.spotify.com/artist/3pKy7Z4fo8VSZXu9xtudcF), [YSB Tril](https://open.spotify.com/artist/79TnwjflPC7KqP9O4pXpDQ) | [Back In](https://open.spotify.com/album/1z7Lh4HrQkWbtv1avBccYb) | 2:24 | 2023-07-26 | 2023-08-17 |
 | [Bad Intentions](https://open.spotify.com/track/0sSQFWw30ZjRLNnvoAclJT) | [Anees](https://open.spotify.com/artist/5GgPDBska9yM6X2fZ6MHXA), [Alice Aera](https://open.spotify.com/artist/1r6ajY5Cgb1Rhl88UWG4B7) | [Bad Intentions](https://open.spotify.com/album/4iCW5UWJyFtC4YuTUTFNHs) | 4:19 | 2024-01-10 | 2024-02-01 |
 | [BAD JAZZ](https://open.spotify.com/track/3hRwIHgjk5R1z4OssY7Zus) | [HALO](https://open.spotify.com/artist/7xWSJDc5wUpKp4jxGEKNSk), [Tori](https://open.spotify.com/artist/2ZjoJeE2uUyXvcW52ym783) | [BAD JAZZ](https://open.spotify.com/album/6MuDbEDzWZe4CNXc6GqeC7) | 1:50 | 2024-01-10 | 2024-01-18 |

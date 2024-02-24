@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-08",
-  "description": "The hottest tracks you want to hear all in one playlist! Cover: Ariana Grande",
+  "description": "The hottest tracks you want to hear all in one playlist! Cover: Selena Gomez",
   "name": "New Pop Hits",
   "tracks": [
     {
@@ -2498,6 +2498,24 @@
       "duration_ms": 181803,
       "name": "Love Me With The Lights On",
       "url": "https://open.spotify.com/track/6BtXjsNMlm2nanwp2R6cWw"
+    },
+    {
+      "album": {
+        "name": "Love On",
+        "url": "https://open.spotify.com/album/7I7rbWQoLZ7PrTMsRfocpL"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181650,
+      "name": "Love On",
+      "url": "https://open.spotify.com/track/2fB5YRuD88drKpCXQOAk03"
     },
     {
       "album": {

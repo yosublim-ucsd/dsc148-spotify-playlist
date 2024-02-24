@@ -1,5 +1,5 @@
 {
-  "2024-02-23": 142845,
+  "2024-02-24": 142856,
   "date_first_scraped": "2022-03-15",
   "description": "Warm instrumental guitar for a gentle start.",
   "name": "Cozy Acoustic Morning",
@@ -3636,6 +3636,24 @@
     },
     {
       "album": {
+        "name": "Now I Am Older",
+        "url": "https://open.spotify.com/album/3aO4aeFXjiX8YmJTmjIvod"
+      },
+      "artists": [
+        {
+          "name": "Jim Nash",
+          "url": "https://open.spotify.com/artist/5Q8X9eQtzN2M4kpgxOMp2m"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120190,
+      "name": "Now I Am Older",
+      "url": "https://open.spotify.com/track/7r5C8q2c1bEr13EQFlLfhR"
+    },
+    {
+      "album": {
         "name": "Ocean View",
         "url": "https://open.spotify.com/album/1IWqrzNu8FNPasLEbQgojS"
       },
@@ -4857,6 +4875,24 @@
       "duration_ms": 263011,
       "name": "The Golden Hour",
       "url": "https://open.spotify.com/track/7gz1YABH7YyQdfizV66Te3"
+    },
+    {
+      "album": {
+        "name": "The Green isle",
+        "url": "https://open.spotify.com/album/5qrqkAAhSGc5SFMvBasqyH"
+      },
+      "artists": [
+        {
+          "name": "DeLand",
+          "url": "https://open.spotify.com/artist/1Aop9zFg2iGOHdCIIbCWZ0"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126268,
+      "name": "The Green isle",
+      "url": "https://open.spotify.com/track/1BZoIJDJgTSJJdtIH6sh5t"
     },
     {
       "album": {

@@ -1,7 +1,7 @@
 {
-  "2024-02-23": 27515,
+  "2024-02-24": 27535,
   "date_first_scraped": "2022-02-24",
-  "description": "Kickback, Relax to some smooth R&B from The City Under The Sun - Nairobi. Cover: Ethan",
+  "description": "Kickback, Relax to some smooth R&B from The City Under The Sun - Nairobi. Cover: Caleb Awiti",
   "name": "NairoBae",
   "tracks": [
     {
@@ -933,7 +933,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 241463,
       "name": "Hello Sadness",
       "url": "https://open.spotify.com/track/7vmwfBkvRtJ6ncov0ClTpp"
@@ -2246,6 +2246,32 @@
     },
     {
       "album": {
+        "name": "REASON",
+        "url": "https://open.spotify.com/album/3HsFIS5mJMqpisQXuwL0BN"
+      },
+      "artists": [
+        {
+          "name": "Karun",
+          "url": "https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC"
+        },
+        {
+          "name": "Hook",
+          "url": "https://open.spotify.com/artist/0d2cvrJfsN0fBd6WuwwlDQ"
+        },
+        {
+          "name": "GR!",
+          "url": "https://open.spotify.com/artist/3OLtlWxh8Ht9pL5ke6gFkd"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221503,
+      "name": "REASON",
+      "url": "https://open.spotify.com/track/1481IQC8BjqGLTer67cWbC"
+    },
+    {
+      "album": {
         "name": "Relieve Pressure",
         "url": "https://open.spotify.com/album/6ePMowPW0VwXDvMNZsfniV"
       },
@@ -2261,7 +2287,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 199673,
       "name": "Relieve Pressure",
       "url": "https://open.spotify.com/track/6j0KqhTRDYjJVqy6q80PvR"
@@ -2330,6 +2356,24 @@
     },
     {
       "album": {
+        "name": "SBLTLA",
+        "url": "https://open.spotify.com/album/6ZmoFJLKAUoNKzuxyQa8Xb"
+      },
+      "artists": [
+        {
+          "name": "Caleb Awiti",
+          "url": "https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119961,
+      "name": "SBLTLA",
+      "url": "https://open.spotify.com/track/4U4XZWxsMKtcd6lOVSZT1z"
+    },
+    {
+      "album": {
         "name": "Secret Love",
         "url": "https://open.spotify.com/album/6JwMBgQOEwAhZD6MbH26Bp"
       },
@@ -2385,6 +2429,24 @@
       "duration_ms": 153551,
       "name": "Shea Butter Baby",
       "url": "https://open.spotify.com/track/2QzHJns0EJD4nCQ1AevgwL"
+    },
+    {
+      "album": {
+        "name": "Shelter",
+        "url": "https://open.spotify.com/album/0VMCN0GaByNplAXw9lOLFW"
+      },
+      "artists": [
+        {
+          "name": "Maali",
+          "url": "https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186504,
+      "name": "Shelter",
+      "url": "https://open.spotify.com/track/4dLW9YgtBGCquFb0gs6HdR"
     },
     {
       "album": {

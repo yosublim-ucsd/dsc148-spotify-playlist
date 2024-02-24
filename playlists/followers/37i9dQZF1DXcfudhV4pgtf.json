@@ -1,5 +1,5 @@
 {
-  "2024-02-23": 25481,
+  "2024-02-24": 25495,
   "date_first_scraped": "2023-05-31",
   "description": "<a href=\"spotify:artist:7icoOm5fKKPo49jVxoj1Cq\">Anfisa Letyago</a>'s favorite tracks. Updated regularly. Curated by Anfisa Letyago. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "Anfisa Letyago's track IDs",
@@ -1407,7 +1407,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 333134,
       "name": "Rosso Profondo",
       "url": "https://open.spotify.com/track/0Regj8wXZsDesHK6DrWaDg"
@@ -1809,6 +1809,28 @@
       "duration_ms": 459031,
       "name": "With You",
       "url": "https://open.spotify.com/track/71X0yWa9OmTa4BLSYCegYb"
+    },
+    {
+      "album": {
+        "name": "You & Me",
+        "url": "https://open.spotify.com/album/1nbX5SpbInsusz0qYRcrr2"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        },
+        {
+          "name": "Anfisa Letyago",
+          "url": "https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170645,
+      "name": "You & Me",
+      "url": "https://open.spotify.com/track/4mwYnQIIIQMZ2fv1bA1v9E"
     },
     {
       "album": {

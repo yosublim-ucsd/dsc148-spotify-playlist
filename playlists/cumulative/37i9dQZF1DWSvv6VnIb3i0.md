@@ -2,7 +2,7 @@
 
 ### [Hits Français 2000](https://open.spotify.com/playlist/37i9dQZF1DWSvv6VnIb3i0)
 
-> Les plus grands hits français des années 2000\. Photo : Diam's
+> Les plus grands hits français des années 2000\. Photo : Kyo
 
 64 songs - 4 hr 7 min
 

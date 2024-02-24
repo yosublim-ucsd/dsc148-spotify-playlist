@@ -1517,6 +1517,24 @@
     },
     {
       "album": {
+        "name": "Besos desechables",
+        "url": "https://open.spotify.com/album/42RVc9Djv1cZHeQfqG4vUP"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Rubio",
+          "url": "https://open.spotify.com/artist/5Nk0ZytxbTmln7pHwEEVYG"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136600,
+      "name": "Besos desechables",
+      "url": "https://open.spotify.com/track/0wLEiXJdatPOGgmpICmcoO"
+    },
+    {
+      "album": {
         "name": "Besos en Cualquier Horario",
         "url": "https://open.spotify.com/album/6zCIUD6SfbJWpDy7YBzH7h"
       },
@@ -5922,6 +5940,24 @@
       "duration_ms": 143090,
       "name": "Inmadura",
       "url": "https://open.spotify.com/track/7mYYGLg3gp39fj3zlWfjAS"
+    },
+    {
+      "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/1eEYZevP2PuMIB3CfbUXLA"
+      },
+      "artists": [
+        {
+          "name": "Goyo",
+          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129389,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/2D9sGe5S3nrpYONLZhPTnS"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Explore all things indie rock right now. Featuring music from Royel Otis ",
-  "num_followers": 833831,
+  "num_followers": 833813,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MWRlNDIwZTIwNWFiYmFiYjk1NjQ1NzIyM2ViZDBhNTlkNjYyNDA3",
+  "snapshot_id": "MCxlNTJmYjNmZmVjZmUzYjAzZTkzZTkwZjI3ZDlkN2VkY2U3YjRhYjQz",
   "tracks": [
     {
       "added_at": "2024-02-16 05:00:00",
@@ -25,20 +25,52 @@
       "url": "https://open.spotify.com/track/2tKqhcDNVVKXJqllKzrecM"
     },
     {
-      "added_at": "2024-02-16 05:00:00",
+      "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "PRATTS & PAIN",
-        "url": "https://open.spotify.com/album/64vC3GWaE8ryklQD2fNosa"
+        "name": "Showtime",
+        "url": "https://open.spotify.com/album/3KuRm7unewgWVJkruzxwAA"
       },
       "artists": [
         {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+          "name": "Catfish and the Bottlemen",
+          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
         }
       ],
-      "duration_ms": 185213,
-      "name": "Foam",
-      "url": "https://open.spotify.com/track/4lfuRRTLD4UFkSVVArVVaK"
+      "duration_ms": 280016,
+      "name": "Showtime",
+      "url": "https://open.spotify.com/track/0YLhxYUv69go9H8iirbSWO"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Chances",
+        "url": "https://open.spotify.com/album/6scf0xwufpbqCrcJN0owBp"
+      },
+      "artists": [
+        {
+          "name": "GROUPLOVE",
+          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
+        }
+      ],
+      "duration_ms": 191890,
+      "name": "Chances",
+      "url": "https://open.spotify.com/track/7imOAndfZs5cg5vJjhUa0u"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Daniel",
+        "url": "https://open.spotify.com/album/6hklBSOyHrnC42LQksxrzd"
+      },
+      "artists": [
+        {
+          "name": "Real Estate",
+          "url": "https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT"
+        }
+      ],
+      "duration_ms": 168173,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/4fqNoM2d2URotMit7GlmlI"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -57,20 +89,68 @@
       "url": "https://open.spotify.com/track/1305CPBxxAlpxmTciVehNu"
     },
     {
-      "added_at": "2024-02-16 05:00:00",
+      "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Brain Damage",
-        "url": "https://open.spotify.com/album/6mOOrpYBo204Mkki7UadkF"
+        "name": "Mother Nature",
+        "url": "https://open.spotify.com/album/0wnCqHJiAp8c2XWK0yuFA1"
       },
       "artists": [
         {
-          "name": "Joywave",
-          "url": "https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m"
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
         }
       ],
-      "duration_ms": 193000,
-      "name": "Brain Damage",
-      "url": "https://open.spotify.com/track/0HKnAO33C9ScjOzTZzqEVb"
+      "duration_ms": 236426,
+      "name": "Mother Nature",
+      "url": "https://open.spotify.com/track/3kC6EmjBbLcnv1aAsAEGPP"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Sha La La",
+        "url": "https://open.spotify.com/album/7qnn1EJOqFZRGcKVHlHSBr"
+      },
+      "artists": [
+        {
+          "name": "Winnetka Bowling League",
+          "url": "https://open.spotify.com/artist/4ug3P1K8BaCdJXROrqHqhu"
+        }
+      ],
+      "duration_ms": 235666,
+      "name": "Sha La La",
+      "url": "https://open.spotify.com/track/7dVF7taTea0xSv0HCrPGU9"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "PRATTS & PAIN",
+        "url": "https://open.spotify.com/album/64vC3GWaE8ryklQD2fNosa"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 185213,
+      "name": "Foam",
+      "url": "https://open.spotify.com/track/4lfuRRTLD4UFkSVVArVVaK"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Collateral Damage",
+        "url": "https://open.spotify.com/album/2HF8zmOrCOTGqQCbR4dJ8D"
+      },
+      "artists": [
+        {
+          "name": "Kristiane",
+          "url": "https://open.spotify.com/artist/2DBFAP6nXms5yPochyh2sZ"
+        }
+      ],
+      "duration_ms": 170899,
+      "name": "Collateral Damage",
+      "url": "https://open.spotify.com/track/32G0XbpBnYGUhUdkOp8tJh"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -87,6 +167,86 @@
       "duration_ms": 217320,
       "name": "Missing Out",
       "url": "https://open.spotify.com/track/2kAYu8GaEILjHWtqYg83TD"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "MONKI",
+        "url": "https://open.spotify.com/album/25qSW0rOBp95ioiWhiAlTm"
+      },
+      "artists": [
+        {
+          "name": "King Isis",
+          "url": "https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw"
+        }
+      ],
+      "duration_ms": 164819,
+      "name": "MONKI",
+      "url": "https://open.spotify.com/track/30eZI7pnpdWKgk1UmUAxoF"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "All the Same",
+        "url": "https://open.spotify.com/album/0S2YEpV52VFK78Gq1ynuz2"
+      },
+      "artists": [
+        {
+          "name": "The Voidz",
+          "url": "https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ"
+        }
+      ],
+      "duration_ms": 336816,
+      "name": "All the Same",
+      "url": "https://open.spotify.com/track/2OPoTZy4WtLZeBuJpwmqh4"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "May Ninth",
+        "url": "https://open.spotify.com/album/0XTJuQSKa1LtnG7r5MO43L"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 192144,
+      "name": "May Ninth",
+      "url": "https://open.spotify.com/track/2145px2VY14o2Pgr0OIttX"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Weird",
+        "url": "https://open.spotify.com/album/7n95zSWEhljBwhZnbteffk"
+      },
+      "artists": [
+        {
+          "name": "Hana Eid",
+          "url": "https://open.spotify.com/artist/4F6hNOg84kZIkE5LvLYOsr"
+        }
+      ],
+      "duration_ms": 216234,
+      "name": "Weird",
+      "url": "https://open.spotify.com/track/6fDLQn0vtJR94V55oBANZC"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Brain Damage",
+        "url": "https://open.spotify.com/album/6mOOrpYBo204Mkki7UadkF"
+      },
+      "artists": [
+        {
+          "name": "Joywave",
+          "url": "https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "Brain Damage",
+      "url": "https://open.spotify.com/track/0HKnAO33C9ScjOzTZzqEVb"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -185,6 +345,22 @@
       "url": "https://open.spotify.com/track/5DaqBBrzz9cenJsBACDz2S"
     },
     {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Prelude to Ecstasy",
+        "url": "https://open.spotify.com/album/6ltU3hJQLHM29KJkEfBiwT"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "duration_ms": 206571,
+      "name": "The Feminine Urge",
+      "url": "https://open.spotify.com/track/1gRK6QnBOpNtEDjYKftzTc"
+    },
+    {
       "added_at": "2024-01-19 05:00:00",
       "album": {
         "name": "I'm in Love",
@@ -217,6 +393,22 @@
       "url": "https://open.spotify.com/track/2alNQB6dlVQdoNdUAVqPoy"
     },
     {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Weird Faith",
+        "url": "https://open.spotify.com/album/40hflv8qjnNzLA2ZrFA3yv"
+      },
+      "artists": [
+        {
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+        }
+      ],
+      "duration_ms": 199133,
+      "name": "Obsessive Thoughts",
+      "url": "https://open.spotify.com/track/0lavlWToofi8DpSeC2DplP"
+    },
+    {
       "added_at": "2024-02-16 05:00:00",
       "album": {
         "name": "My Peace",
@@ -247,22 +439,6 @@
       "duration_ms": 208112,
       "name": "Heartbreaker",
       "url": "https://open.spotify.com/track/5w6i7gourKgjzOvd7lVi4M"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Prelude to Ecstasy",
-        "url": "https://open.spotify.com/album/6ltU3hJQLHM29KJkEfBiwT"
-      },
-      "artists": [
-        {
-          "name": "The Last Dinner Party",
-          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
-        }
-      ],
-      "duration_ms": 206571,
-      "name": "The Feminine Urge",
-      "url": "https://open.spotify.com/track/1gRK6QnBOpNtEDjYKftzTc"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -313,6 +489,38 @@
       "url": "https://open.spotify.com/track/69edzz93RgFgydeiEZPRKB"
     },
     {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Vampire Empire",
+        "url": "https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 192127,
+      "name": "Vampire Empire",
+      "url": "https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Murder on the Dancefloor (triple j Like A Version)",
+        "url": "https://open.spotify.com/album/02tTPri1bqHRdIwhz4gceP"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 180872,
+      "name": "Murder on the Dance Floor - triple j Like A Version",
+      "url": "https://open.spotify.com/track/1swz9stsbG1p34SJHJqiww"
+    },
+    {
       "added_at": "2024-02-09 05:00:00",
       "album": {
         "name": "They Don't Know How To Fall In Place",
@@ -327,22 +535,6 @@
       "duration_ms": 213706,
       "name": "They Don't Know How To Fall In Place",
       "url": "https://open.spotify.com/track/2tfuZBeGLj63wrBUnwXiGk"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Weird Faith",
-        "url": "https://open.spotify.com/album/40hflv8qjnNzLA2ZrFA3yv"
-      },
-      "artists": [
-        {
-          "name": "Madi Diaz",
-          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
-        }
-      ],
-      "duration_ms": 199133,
-      "name": "Obsessive Thoughts",
-      "url": "https://open.spotify.com/track/0lavlWToofi8DpSeC2DplP"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -577,22 +769,6 @@
       "url": "https://open.spotify.com/track/32sk0nAe4tnJxSjyGylWpj"
     },
     {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "A Love International",
-        "url": "https://open.spotify.com/album/3PKIvfo8AFCJr9dhUiKQf9"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 255100,
-      "name": "A Love International",
-      "url": "https://open.spotify.com/track/6Am9eCuCQELrIqImfCLhgM"
-    },
-    {
       "added_at": "2024-01-26 05:00:00",
       "album": {
         "name": "Crying Over U",
@@ -661,20 +837,20 @@
       "url": "https://open.spotify.com/track/3A7S7BWkfSEdqAMSsOz5dD"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
+      "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Meet Me In The Sky",
-        "url": "https://open.spotify.com/album/5RzU2FG0uUrxFEYWIP31H8"
+        "name": "Dead Lands",
+        "url": "https://open.spotify.com/album/02N4g76ECc45R7WAsK0ml8"
       },
       "artists": [
         {
-          "name": "Low Hum",
-          "url": "https://open.spotify.com/artist/7AfmYGPRYiNkwKfV8LrqLd"
+          "name": "Punchlove",
+          "url": "https://open.spotify.com/artist/5Tbdx7OG835TPTxnEgfNiW"
         }
       ],
-      "duration_ms": 230569,
-      "name": "Meet Me In The Sky",
-      "url": "https://open.spotify.com/track/1R6IhZS3mCwyyPN1MSSZId"
+      "duration_ms": 274714,
+      "name": "Dead Lands",
+      "url": "https://open.spotify.com/track/4bFyukeX4nCR9BEY1iuhps"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -739,22 +915,6 @@
       "duration_ms": 212760,
       "name": "Hunt You Down",
       "url": "https://open.spotify.com/track/18BXVZ04Xm9eiSyFpD5PJE"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "Haunted World",
-        "url": "https://open.spotify.com/album/6U7yDiUXMXITMyaCeqTf5n"
-      },
-      "artists": [
-        {
-          "name": "Real Estate",
-          "url": "https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT"
-        }
-      ],
-      "duration_ms": 182440,
-      "name": "Haunted World",
-      "url": "https://open.spotify.com/track/0mhRq6ZwGkt6wJigeFHZ90"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -843,22 +1003,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Velvet",
-        "url": "https://open.spotify.com/album/5trdvQcIQiP8u6ivMTTEin"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 131546,
-      "name": "Velvet",
-      "url": "https://open.spotify.com/track/5sNlEPRZEB1Nl4k1zCr1wT"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "Are You There God? It\u2019s Me, @",
         "url": "https://open.spotify.com/album/6hPdOR9ap5zByvKiKV6XRp"
       },
@@ -871,22 +1015,6 @@
       "duration_ms": 211320,
       "name": "Webcrawler",
       "url": "https://open.spotify.com/track/4lNLdVzSRXbCHvH9UdAJgo"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Vampire Empire",
-        "url": "https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 192127,
-      "name": "Vampire Empire",
-      "url": "https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -919,26 +1047,6 @@
       "duration_ms": 269999,
       "name": "Pick At Your Face",
       "url": "https://open.spotify.com/track/78cVkU7TCYhe9exs5KgxsT"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "rUN tHE FaDE",
-        "url": "https://open.spotify.com/album/4dPnAsC3Ql4SVtjkDCrnhG"
-      },
-      "artists": [
-        {
-          "name": "1999 WRITE THE FUTURE",
-          "url": "https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak"
-        },
-        {
-          "name": "Eyedress",
-          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
-        }
-      ],
-      "duration_ms": 253281,
-      "name": "rUN tHE FaDE",
-      "url": "https://open.spotify.com/track/2ZrlFzDK4qmEGoUS7GqLzP"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1031,54 +1139,6 @@
       "duration_ms": 234933,
       "name": "Not Strong Enough",
       "url": "https://open.spotify.com/track/09DR0sHnQUhHOiSNttc1mv"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Heading For The Door",
-        "url": "https://open.spotify.com/album/5E864zl3t7NMlv2iXVZ3cX"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 227200,
-      "name": "Heading For The Door",
-      "url": "https://open.spotify.com/track/0IvBk9CGkWu6U91u9t7nXW"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Dead Lands",
-        "url": "https://open.spotify.com/album/02N4g76ECc45R7WAsK0ml8"
-      },
-      "artists": [
-        {
-          "name": "Punchlove",
-          "url": "https://open.spotify.com/artist/5Tbdx7OG835TPTxnEgfNiW"
-        }
-      ],
-      "duration_ms": 274714,
-      "name": "Dead Lands",
-      "url": "https://open.spotify.com/track/4bFyukeX4nCR9BEY1iuhps"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Water Underground",
-        "url": "https://open.spotify.com/album/4qpSwHfArylYxrXD9BK7lI"
-      },
-      "artists": [
-        {
-          "name": "Real Estate",
-          "url": "https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT"
-        }
-      ],
-      "duration_ms": 206546,
-      "name": "Water Underground",
-      "url": "https://open.spotify.com/track/56UnwWtjPqJA2gQthNALiR"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1377,22 +1437,6 @@
       "url": "https://open.spotify.com/track/3MdfiTYyZLFxWHwHf4gDsu"
     },
     {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Weird",
-        "url": "https://open.spotify.com/album/7n95zSWEhljBwhZnbteffk"
-      },
-      "artists": [
-        {
-          "name": "Hana Eid",
-          "url": "https://open.spotify.com/artist/4F6hNOg84kZIkE5LvLYOsr"
-        }
-      ],
-      "duration_ms": 216234,
-      "name": "Weird",
-      "url": "https://open.spotify.com/track/6fDLQn0vtJR94V55oBANZC"
-    },
-    {
       "added_at": "2023-11-03 04:00:00",
       "album": {
         "name": "Sunday / Medicine",
@@ -1407,22 +1451,6 @@
       "duration_ms": 200453,
       "name": "Sunday",
       "url": "https://open.spotify.com/track/3OB5WUE1dbsTAs7kYjgNkP"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Mother Nature",
-        "url": "https://open.spotify.com/album/0wnCqHJiAp8c2XWK0yuFA1"
-      },
-      "artists": [
-        {
-          "name": "MGMT",
-          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
-        }
-      ],
-      "duration_ms": 236426,
-      "name": "Mother Nature",
-      "url": "https://open.spotify.com/track/3kC6EmjBbLcnv1aAsAEGPP"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1455,22 +1483,6 @@
       "duration_ms": 166179,
       "name": "Are You Looking Up",
       "url": "https://open.spotify.com/track/00uvWPbNBali6gKlZxUxIU"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "I'm Green",
-        "url": "https://open.spotify.com/album/1upKvbsQau0k852Ol079dD"
-      },
-      "artists": [
-        {
-          "name": "Mali Velasquez",
-          "url": "https://open.spotify.com/artist/2LNfVxxm5kfNQa95GS25xP"
-        }
-      ],
-      "duration_ms": 236057,
-      "name": "Turn Red",
-      "url": "https://open.spotify.com/track/0rayVRqTtVHVkFiYdI8QW2"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1539,22 +1551,6 @@
       "duration_ms": 294396,
       "name": "Thick Skull (Re: Julien Baker)",
       "url": "https://open.spotify.com/track/7JH2H8oc2LfcEfiiEN0mML"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Tomorrow's Fire",
-        "url": "https://open.spotify.com/album/5GYQtBhrKfobrD0RkFF43Z"
-      },
-      "artists": [
-        {
-          "name": "Squirrel Flower",
-          "url": "https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni"
-        }
-      ],
-      "duration_ms": 182533,
-      "name": "Stick",
-      "url": "https://open.spotify.com/track/6MVDqPlrnS0vfH8BI0DY4p"
     },
     {
       "added_at": "2023-10-27 04:00:00",

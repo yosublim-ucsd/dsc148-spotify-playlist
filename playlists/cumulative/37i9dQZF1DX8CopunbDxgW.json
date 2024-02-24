@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best indie dance tracks of the moment. Cover: salute",
+  "description": "The best indie dance tracks of the moment. Cover: Julio Bashmore",
   "name": "metropolis",
   "tracks": [
     {
@@ -378,6 +378,28 @@
       "duration_ms": 197733,
       "name": "<3 beat",
       "url": "https://open.spotify.com/track/5LU0XONtCOg9zduG7t0CZI"
+    },
+    {
+      "album": {
+        "name": "A City's Never",
+        "url": "https://open.spotify.com/album/5CHhdJ38De58aT5zPutiGo"
+      },
+      "artists": [
+        {
+          "name": "Bullion",
+          "url": "https://open.spotify.com/artist/6vcPgFOkMWBoY6Ks6eMEWj"
+        },
+        {
+          "name": "Panda Bear",
+          "url": "https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162640,
+      "name": "A City\u2019s Never",
+      "url": "https://open.spotify.com/track/73KU886Nys7jzLIc9CZ1f8"
     },
     {
       "album": {
@@ -1042,7 +1064,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 221290,
       "name": "Always / Never",
       "url": "https://open.spotify.com/track/3n9EfOy7vlDIXbDyntRLxc"
@@ -1274,7 +1296,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 200250,
       "name": "As I Am - Tensnake Remix",
       "url": "https://open.spotify.com/track/2YXBTJ5b5RiJghwRu3c4L5"
@@ -2208,7 +2230,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 286274,
       "name": "Birth4000",
       "url": "https://open.spotify.com/track/0ULiCJAR2lmaHrXvs3exRm"
@@ -3794,7 +3816,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 158760,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/3zPco1u9i9bCjkG5pngR5t"
@@ -5081,6 +5103,28 @@
     },
     {
       "album": {
+        "name": "Don't You",
+        "url": "https://open.spotify.com/album/7HFGc7fbzZOuE2TFyYN8Ra"
+      },
+      "artists": [
+        {
+          "name": "Jerry Folk",
+          "url": "https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv"
+        },
+        {
+          "name": "Izza Gara",
+          "url": "https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155492,
+      "name": "Don't You",
+      "url": "https://open.spotify.com/track/18354LBwPIgO5DJ8vzOsGg"
+    },
+    {
+      "album": {
         "name": "Done (Let's Get It)",
         "url": "https://open.spotify.com/album/1qVKptza3e1owyE8IzvTUO"
       },
@@ -5150,7 +5194,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 186800,
       "name": "Dopamine Detox",
       "url": "https://open.spotify.com/track/1L1EKS4V4fXLuXfOduyZ9t"
@@ -5874,7 +5918,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 336541,
       "name": "EST",
       "url": "https://open.spotify.com/track/1ojCQ0v59O77rKZbwN8aQh"
@@ -6078,6 +6122,28 @@
       "duration_ms": 226620,
       "name": "Everything Is Going To Be Alright",
       "url": "https://open.spotify.com/track/4A33rjRNxA1uG6W8VyVMoR"
+    },
+    {
+      "album": {
+        "name": "Pointillism / Everything We Tried",
+        "url": "https://open.spotify.com/album/0zlxVMMeHgf7JrznWWMKAK"
+      },
+      "artists": [
+        {
+          "name": "Geller",
+          "url": "https://open.spotify.com/artist/6OgMBOUaAfkEfWkEFkXpbL"
+        },
+        {
+          "name": "valentina cy",
+          "url": "https://open.spotify.com/artist/6VSCooQeDo6An0mx1mhYyx"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208023,
+      "name": "Everything We Tried",
+      "url": "https://open.spotify.com/track/6cHNGetkkvyreYspgs0NCc"
     },
     {
       "album": {
@@ -7866,6 +7932,28 @@
       "duration_ms": 294400,
       "name": "Gold In Autumn",
       "url": "https://open.spotify.com/track/5s507gLJJBAAyTkZMKBQVB"
+    },
+    {
+      "album": {
+        "name": "Gold On Me",
+        "url": "https://open.spotify.com/album/6O3kYxBrrA4zm9OMcam9Pt"
+      },
+      "artists": [
+        {
+          "name": "Groupthink",
+          "url": "https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0"
+        },
+        {
+          "name": "ABRA",
+          "url": "https://open.spotify.com/artist/3ZJxEmjYZd5VOqZ8o3aXiL"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141346,
+      "name": "Gold On Me",
+      "url": "https://open.spotify.com/track/2ZwaqyX98bvpxSwikLDJ59"
     },
     {
       "album": {
@@ -9703,6 +9791,24 @@
     },
     {
       "album": {
+        "name": "i have zero care",
+        "url": "https://open.spotify.com/album/45L44NQqwug9hrAQ5nUK0v"
+      },
+      "artists": [
+        {
+          "name": "heartaake",
+          "url": "https://open.spotify.com/artist/57vkczkmC48439UWdL7oJa"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172444,
+      "name": "i have zero care",
+      "url": "https://open.spotify.com/track/7BZP33GGS34GmUZQrPlivk"
+    },
+    {
+      "album": {
         "name": "I Just Wanna Dance",
         "url": "https://open.spotify.com/album/56zVapikmKNxBhX4Osw5ts"
       },
@@ -9886,7 +9992,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 257940,
       "name": "I Won\u2019t Let You Down",
       "url": "https://open.spotify.com/track/2WmcCOU2xeScvCKrpui6EV"
@@ -10804,6 +10910,24 @@
       "duration_ms": 200386,
       "name": "Jet Lag",
       "url": "https://open.spotify.com/track/6V7CqKDeyWhGqbXBgonipI"
+    },
+    {
+      "album": {
+        "name": "Jigglypuff",
+        "url": "https://open.spotify.com/album/3rGfbxXyerFW08qbO6Ihay"
+      },
+      "artists": [
+        {
+          "name": "Tora",
+          "url": "https://open.spotify.com/artist/7KGI0OwY8iAL5rI5p47YyK"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230806,
+      "name": "Jigglypuff",
+      "url": "https://open.spotify.com/track/2XvHPenTKEkwAwT3T1q1aW"
     },
     {
       "album": {
@@ -13287,6 +13411,24 @@
     },
     {
       "album": {
+        "name": "maybe so",
+        "url": "https://open.spotify.com/album/1NehxiZin9Gecmj6puGQWC"
+      },
+      "artists": [
+        {
+          "name": "bad tuner",
+          "url": "https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241440,
+      "name": "maybe so",
+      "url": "https://open.spotify.com/track/7CaMXv5RApsEGYZ6QIjrT6"
+    },
+    {
+      "album": {
         "name": "Mean It",
         "url": "https://open.spotify.com/album/10HsH0ayirx1nyFckvfoSF"
       },
@@ -14105,6 +14247,24 @@
     },
     {
       "album": {
+        "name": "Nandakke?",
+        "url": "https://open.spotify.com/album/47MNeiL3ppEnb4WwSa27hM"
+      },
+      "artists": [
+        {
+          "name": "Aili",
+          "url": "https://open.spotify.com/artist/4hKrRKWY1mF3LTwGIMj99R"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173346,
+      "name": "Nandakke?",
+      "url": "https://open.spotify.com/track/3lgPLaan7Kt1KGfNGdtMO8"
+    },
+    {
+      "album": {
         "name": "Naruda (Fall In Your Arms Again)",
         "url": "https://open.spotify.com/album/2BDOmHLpZ1tvVOOq7OyI98"
       },
@@ -14484,7 +14644,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 317117,
       "name": "No Teacher",
       "url": "https://open.spotify.com/track/18FAkQnqrimkhmIh6h8okk"
@@ -14910,7 +15070,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 205161,
       "name": "Off Your Feet",
       "url": "https://open.spotify.com/track/5Pc4EIFIV7SAWW7AFG4UoY"
@@ -15888,7 +16048,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 345310,
       "name": "Peach",
       "url": "https://open.spotify.com/track/5cGZN0P1QnSfhCFBCHtp2N"
@@ -16710,6 +16870,28 @@
       "duration_ms": 195245,
       "name": "REGRESO - warner case Remix",
       "url": "https://open.spotify.com/track/3U7ZzaQjslHlHybw9jXQI8"
+    },
+    {
+      "album": {
+        "name": "Regret The Morning",
+        "url": "https://open.spotify.com/album/6tU5eRh9yr1IOBr5vUdx4D"
+      },
+      "artists": [
+        {
+          "name": "SILK",
+          "url": "https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a"
+        },
+        {
+          "name": "Mali-Koa",
+          "url": "https://open.spotify.com/artist/45Dc572GdbJ6Guc8X3UW24"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166386,
+      "name": "Regret The Morning",
+      "url": "https://open.spotify.com/track/4Sj4ZeOPAcdAhYplVbezI0"
     },
     {
       "album": {
@@ -17904,7 +18086,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 117539,
       "name": "Si Te Portas Bonito - Edit",
       "url": "https://open.spotify.com/track/5s6RZxzKf37QOJfjzSD9L9"
@@ -18469,6 +18651,28 @@
     },
     {
       "album": {
+        "name": "Some Kind of Static (Alan Braxe Remix)",
+        "url": "https://open.spotify.com/album/6FOimtpiVs55TKWYPofmpV"
+      },
+      "artists": [
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        },
+        {
+          "name": "Alan Braxe",
+          "url": "https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243855,
+      "name": "Some Kind of Static - Alan Braxe Remix",
+      "url": "https://open.spotify.com/track/72hQvlO5qg9uUXe2BIBFc5"
+    },
+    {
+      "album": {
         "name": "Euphoric",
         "url": "https://open.spotify.com/album/4J2xyrxoURH3t6plYCEPhf"
       },
@@ -18532,7 +18736,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 199680,
       "name": "Something Beautiful - Montmartre Remix",
       "url": "https://open.spotify.com/track/1VKqsNsQvM0oCJKzUtWD2H"
@@ -18692,6 +18896,24 @@
       "duration_ms": 193556,
       "name": "Spell",
       "url": "https://open.spotify.com/track/2UqQXvudBolM4qRpMYBrLS"
+    },
+    {
+      "album": {
+        "name": "Sprungboard",
+        "url": "https://open.spotify.com/album/6Wutl7K9lVjDVHYfBaT3KM"
+      },
+      "artists": [
+        {
+          "name": "Julio Bashmore",
+          "url": "https://open.spotify.com/artist/0WAZJYudbUpl0EOjvdrnRG"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204878,
+      "name": "Sprungboard",
+      "url": "https://open.spotify.com/track/734tGYxSWui9uJ2SMlN1B1"
     },
     {
       "album": {
@@ -20478,7 +20700,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 184790,
       "name": "The Way It Goes",
       "url": "https://open.spotify.com/track/5aSo90L5qKIwdTDBO1YWJ2"
@@ -20718,6 +20940,24 @@
       "duration_ms": 358423,
       "name": "This Can\u2019t Be Everything",
       "url": "https://open.spotify.com/track/5kd5cFgaqMbe4AZcat1b7S"
+    },
+    {
+      "album": {
+        "name": "This Little Love",
+        "url": "https://open.spotify.com/album/0TGCXWxkdguNjVFfmjN2ZZ"
+      },
+      "artists": [
+        {
+          "name": "Caius",
+          "url": "https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213023,
+      "name": "This Little Love",
+      "url": "https://open.spotify.com/track/7otEUWdo5ljrOBYcCMqFys"
     },
     {
       "album": {
@@ -22728,6 +22968,32 @@
       "duration_ms": 192656,
       "name": "Wifi Beach",
       "url": "https://open.spotify.com/track/5zwaNwnK8r2FzgDXt6n7EF"
+    },
+    {
+      "album": {
+        "name": "Wild n Sweet (Paul Woolford's Special Request Mix)",
+        "url": "https://open.spotify.com/album/2Nn1QjEoj0RleN2mKJV8m6"
+      },
+      "artists": [
+        {
+          "name": "Jam City",
+          "url": "https://open.spotify.com/artist/4jEa9eTpzzkuDQ9JMr0LT3"
+        },
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        },
+        {
+          "name": "Paul Woolford",
+          "url": "https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260941,
+      "name": "Wild n Sweet - Paul Woolford's Special Request Mix",
+      "url": "https://open.spotify.com/track/7InnYgaoJvjo4CP06vgoR0"
     },
     {
       "album": {

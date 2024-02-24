@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "6am to Paris",
+        "url": "https://open.spotify.com/album/1DtHbdjnqLild4y0PnlbF1"
+      },
+      "artists": [
+        {
+          "name": "SIIGHTS",
+          "url": "https://open.spotify.com/artist/59wzcVw9vvQvKIEHddgF7n"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170106,
+      "name": "6am to Paris",
+      "url": "https://open.spotify.com/track/1odZs329Z78zeDIUbJ9c28"
+    },
+    {
+      "album": {
         "name": "A Room Up In The Sky (feat. The Mar\u00edas)",
         "url": "https://open.spotify.com/album/0S4c1T8qWm1ZnCUj9edQq2"
       },
@@ -38,7 +56,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 165525,
       "name": "A Room Up In The Sky (feat. The Mar\u00edas)",
       "url": "https://open.spotify.com/track/2b6tGpbflP62TnzKx9TSDu"
@@ -545,6 +563,24 @@
     },
     {
       "album": {
+        "name": "Call",
+        "url": "https://open.spotify.com/album/0T8Y7EDE0nHQOVHq0rCZXu"
+      },
+      "artists": [
+        {
+          "name": "Kasabian",
+          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150005,
+      "name": "Call",
+      "url": "https://open.spotify.com/track/1nNqKHLoMMzpQNhsZihMgC"
+    },
+    {
+      "album": {
         "name": "Candy Pop",
         "url": "https://open.spotify.com/album/7fXCm0PCqu1iVopffq3ZVU"
       },
@@ -744,7 +780,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 229165,
       "name": "Discount De Kooning (Last One Standing)",
       "url": "https://open.spotify.com/track/7oGpYDcFyHQSQS0CvEejVB"
@@ -762,7 +798,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 141506,
       "name": "Do One",
       "url": "https://open.spotify.com/track/6uM4d5YuVQZzlZkfBb1g4N"
@@ -823,6 +859,24 @@
     },
     {
       "album": {
+        "name": "Fall Into Me",
+        "url": "https://open.spotify.com/album/6gbZnN5YXnkfHd0oljftk0"
+      },
+      "artists": [
+        {
+          "name": "Sylo",
+          "url": "https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156942,
+      "name": "Fall Into Me",
+      "url": "https://open.spotify.com/track/3Kq2U1xsE3YOOfjqH8j4l7"
+    },
+    {
+      "album": {
         "name": "Fantasy (feat. Franc Moody)",
         "url": "https://open.spotify.com/album/0Q8b3IX25TDDrMbqdeZU92"
       },
@@ -878,10 +932,28 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 198653,
       "name": "Feed Your Mind",
       "url": "https://open.spotify.com/track/51zKWYNIFsBoDv2Quj1dN9"
+    },
+    {
+      "album": {
+        "name": "Channel Surfing",
+        "url": "https://open.spotify.com/album/1JnyFx9DX0e1E1IWdCsbEr"
+      },
+      "artists": [
+        {
+          "name": "Devan",
+          "url": "https://open.spotify.com/artist/5w2ZZrN4yX50qOLk9I8aI2"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200504,
+      "name": "Festival",
+      "url": "https://open.spotify.com/track/6mD7qM0cUNbvYkzdLHahcP"
     },
     {
       "album": {
@@ -1087,6 +1159,24 @@
     },
     {
       "album": {
+        "name": "L.A.B VI",
+        "url": "https://open.spotify.com/album/671hZnMHapwrrMIjousq6l"
+      },
+      "artists": [
+        {
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254920,
+      "name": "Give Me That Feeling",
+      "url": "https://open.spotify.com/track/5nqcyjp4fFX7MTsxzXlMdm"
+    },
+    {
+      "album": {
         "name": "gold teeth & fenty",
         "url": "https://open.spotify.com/album/4Htwrc5Y4oZw4jstkGpaLV"
       },
@@ -1156,6 +1246,24 @@
       "duration_ms": 202000,
       "name": "Happy Enough",
       "url": "https://open.spotify.com/track/1Tua5aqLPuqVHGwadvkp7D"
+    },
+    {
+      "album": {
+        "name": "harry houdini",
+        "url": "https://open.spotify.com/album/42L1S5YuqINChXquOm1gKn"
+      },
+      "artists": [
+        {
+          "name": "maxime.",
+          "url": "https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154029,
+      "name": "harry houdini",
+      "url": "https://open.spotify.com/track/4fMhbVCe2OXuDrlgZoZAos"
     },
     {
       "album": {
@@ -1441,6 +1549,24 @@
     },
     {
       "album": {
+        "name": "I Don't Love You",
+        "url": "https://open.spotify.com/album/2JSzdaZgvPilynY4B3VrCN"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251009,
+      "name": "I Don't Love You",
+      "url": "https://open.spotify.com/track/3yv0PNx5lOY0YQ7P3FOXW8"
+    },
+    {
+      "album": {
         "name": "I'm Around",
         "url": "https://open.spotify.com/album/7g1ir5F6KEuOJ8NUdZztfS"
       },
@@ -1633,6 +1759,24 @@
     },
     {
       "album": {
+        "name": "Living Out A Lie",
+        "url": "https://open.spotify.com/album/4bOIINujt1hafUjgDy7fv5"
+      },
+      "artists": [
+        {
+          "name": "Chief State",
+          "url": "https://open.spotify.com/artist/3BgSkC40Vy5XIcu6MKIYv5"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161120,
+      "name": "Living Out A Lie",
+      "url": "https://open.spotify.com/track/3bbkxekBhLNBHdByksCI1p"
+    },
+    {
+      "album": {
         "name": "Love To Walk Away",
         "url": "https://open.spotify.com/album/3H3oeo1nVS1IzgQVOXcDdD"
       },
@@ -1716,7 +1860,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 173964,
       "name": "Magic",
       "url": "https://open.spotify.com/track/0TdDzdFqhMizy5Bxg4TGWK"
@@ -1770,7 +1914,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 313357,
       "name": "Modern Drugs",
       "url": "https://open.spotify.com/track/5gocWRuqMWndCOS6FLK270"
@@ -1860,7 +2004,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 361188,
       "name": "My Gemini",
       "url": "https://open.spotify.com/track/3Mf73r5NlpV1AqdtfKii7m"
@@ -2012,6 +2156,24 @@
       "duration_ms": 137003,
       "name": "NO HANDS (SIDE A)",
       "url": "https://open.spotify.com/track/322B6Not1OsMLCCxHg6sZl"
+    },
+    {
+      "album": {
+        "name": "No Safe + Sound",
+        "url": "https://open.spotify.com/album/28rRLzHAYfno4Df7p69Nun"
+      },
+      "artists": [
+        {
+          "name": "July Talk",
+          "url": "https://open.spotify.com/artist/3EaMbsBlExxNxLvTJcZvDq"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257273,
+      "name": "No Safe + Sound",
+      "url": "https://open.spotify.com/track/4CKlQAZjUxKH6qvfun7oMK"
     },
     {
       "album": {
@@ -2694,7 +2856,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 179698,
       "name": "Swallow",
       "url": "https://open.spotify.com/track/2xtF0pR5YIroM6MzKUhJBy"
@@ -2766,7 +2928,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 255800,
       "name": "The Conflict of the Mind",
       "url": "https://open.spotify.com/track/4BFYRUjuuesHjLTJdvo1XR"
@@ -2878,7 +3040,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 161950,
       "name": "Too Attached",
       "url": "https://open.spotify.com/track/082mEHeYe8cHoVZ1exrb9L"
@@ -2994,7 +3156,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 198306,
       "name": "Walked In The Room",
       "url": "https://open.spotify.com/track/4tPHsS7lFxBCe6zRAOWMSR"
@@ -3052,6 +3214,46 @@
       "duration_ms": 253689,
       "name": "We're Gonna Get There In The End",
       "url": "https://open.spotify.com/track/5KfRTm8XQgWBtKNHfVxyei"
+    },
+    {
+      "album": {
+        "name": "Girl With No Face",
+        "url": "https://open.spotify.com/album/10o3OFqQt0gqemtIcCh72x"
+      },
+      "artists": [
+        {
+          "name": "Allie X",
+          "url": "https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238563,
+      "name": "Weird World",
+      "url": "https://open.spotify.com/track/116ORJSOi1UltDApfKABzj"
+    },
+    {
+      "album": {
+        "name": "What I Did",
+        "url": "https://open.spotify.com/album/7284pssT7cPHZZbMd8xc5t"
+      },
+      "artists": [
+        {
+          "name": "Valaire",
+          "url": "https://open.spotify.com/artist/3wW4s7QuPnmqVUhwkLSTkj"
+        },
+        {
+          "name": "AMEN DENIRO",
+          "url": "https://open.spotify.com/artist/5i5IBAqlmKRwgkalA07mZ5"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218109,
+      "name": "What I Did",
+      "url": "https://open.spotify.com/track/08opN8IE8r4kcKPuK694G2"
     },
     {
       "album": {

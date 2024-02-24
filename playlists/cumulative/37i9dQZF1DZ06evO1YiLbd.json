@@ -686,7 +686,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 211000,
       "name": "\u300e\u6b32\u300f",
       "url": "https://open.spotify.com/track/69ImxLhTWjSRBl2nGspu9C"
@@ -744,6 +744,24 @@
       "duration_ms": 148280,
       "name": "\u307e\u3063\u305f\u308a\u3068\u3057\u305f\u65e5\u5e38",
       "url": "https://open.spotify.com/track/2NHzJwUGKcAIL72WbMETk8"
+    },
+    {
+      "album": {
+        "name": "\u300e\u5287\u5834\u7248\u30cf\u30a4\u30ad\u30e5\u30fc\u203c \u30b4\u30df\u6368\u3066\u5834\u306e\u6c7a\u6226\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6lGRAnmCrwobSnjZrt09CQ"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108866,
+      "name": "\u308f\u304f\u308f\u304f",
+      "url": "https://open.spotify.com/track/6hBOaP2N33JrAbkc3QqGog"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [RADAR FRANCE](https://open.spotify.com/playlist/37i9dQZF1DWWNlI0CRgWup)
 
-> Découvrez les nouveautés des artistes RADAR France\. Photo : Solann
+> Découvrez les nouveautés des artistes RADAR France\. Photo : Yvnnis
 
-155 songs - 8 hr 5 min
+156 songs - 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,8 @@
 | [Horizon](https://open.spotify.com/track/0IhP65g9X82qPRb2bYGunO) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA) | [Horizon](https://open.spotify.com/album/3J9bxDC6kdRXJDopIvb9cQ) | 3:18 | 2022-05-16 | 2024-01-19 |
 | [Hors Piste](https://open.spotify.com/track/7LrVEMD3Qtva05qoBivomr) | [Poupie](https://open.spotify.com/artist/71x0OO2toFjXrMRcufL9tv) | [Hors Piste](https://open.spotify.com/album/7npKfCu8EwFlXqSvErPZCj) | 2:39 | 2022-07-07 | 2023-10-14 |
 | [Hypocrite](https://open.spotify.com/track/6Y947ZNbFBIA3C8fZmc1k8) | [Philippine](https://open.spotify.com/artist/0jm6JzrAGaSgKY02PI2k4E) | [Par Fierté](https://open.spotify.com/album/3joknrlbS386Npao4I4p49) | 2:58 | 2023-09-08 | 2024-01-19 |
-| [I Don't Remember](https://open.spotify.com/track/14ZOrTzkLV7rfTsdFiBqXj) | [Astral Bakers](https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D) | [I Don't Remember](https://open.spotify.com/album/1CPbjSbGXKqOzIgj3BBj62) | 3:57 | 2024-01-18 |  |
+| [I Don't Remember](https://open.spotify.com/track/14ZOrTzkLV7rfTsdFiBqXj) | [Astral Bakers](https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D) | [I Don't Remember](https://open.spotify.com/album/1CPbjSbGXKqOzIgj3BBj62) | 3:57 | 2024-01-18 | 2024-02-24 |
+| [I Don't Remember](https://open.spotify.com/track/3Xw9XBQVBES1NW649X9FbI) | [Astral Bakers](https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D) | [The Whole Story](https://open.spotify.com/album/4GlTxg5zKftVRrKIAlsWal) | 3:57 | 2024-01-24 |  |
 | [INDISCRET](https://open.spotify.com/track/2XkZf7PB3MjaBdnzR2KFSo) | [Smeels](https://open.spotify.com/artist/6FyY3mlFrDdKUX35GrzeOZ) | [AERON SIT](https://open.spotify.com/album/499DppgglIUt1d6UD6GNW8) | 2:13 | 2022-06-10 |  |
 | [J'aime pas sortir](https://open.spotify.com/track/0qOaSyBrDM4TmSEWrkfN6m) | [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [J'aime pas sortir](https://open.spotify.com/album/2QsJu8zj3GjP9bYvtKsR6C) | 2:52 | 2023-09-08 | 2024-01-19 |
 | [J'aimerais danser avec toi](https://open.spotify.com/track/1fWvBuZBG7AomF8Qk27vMM) | [ANAÏS MVA](https://open.spotify.com/artist/2MBvn4Y3ugNmUlWp1W65QL) | [J'aimerais danser avec toi](https://open.spotify.com/album/5V5TGyamn7lRkTfnoYM8vO) | 2:39 | 2024-01-18 |  |

@@ -1,5 +1,5 @@
 {
-  "2024-02-23": 113687,
+  "2024-02-24": 113749,
   "date_first_scraped": "2022-06-10",
   "description": "\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u30fb\u30ab\u30eb\u30c1\u30e3\u30fc\u304b\u3089\u6b21\u3005\u3068\u51fa\u73fe\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002Check out artists of the new Internet age! Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
   "name": "\u592a\u967d\u3092\u898b\u3066\u3057\u307e\u3063\u305f",
@@ -223,7 +223,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 200625,
       "name": "Adventure",
       "url": "https://open.spotify.com/track/69O0RdcJkH7eimOTXw41L7"
@@ -6898,6 +6898,24 @@
     },
     {
       "album": {
+        "name": "Value",
+        "url": "https://open.spotify.com/album/63xNXfql8mdsOd1fZjodbf"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Value",
+      "url": "https://open.spotify.com/track/6BEnpVB7g2j8mzWs3MC2kh"
+    },
+    {
+      "album": {
         "name": "Villain",
         "url": "https://open.spotify.com/album/6DpOA8kkxXT7a2HgXPrzHH"
       },
@@ -9097,7 +9115,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 205733,
       "name": "\u30a2\u30a4\u30ef\u30ca\u30e0\u30c1\u30e5\u30fc",
       "url": "https://open.spotify.com/track/21zl36W7QoaVy5MMxAvfcv"
@@ -16127,7 +16145,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-23",
       "duration_ms": 200186,
       "name": "\u659c\u967d",
       "url": "https://open.spotify.com/track/2U6mFmBDjaAu6oCCDRpRet"
@@ -16257,6 +16275,24 @@
       "duration_ms": 200571,
       "name": "\u65e5\u9032\u6708\u5149",
       "url": "https://open.spotify.com/track/2PA1iWAJEt4zIw0wPKYKAo"
+    },
+    {
+      "album": {
+        "name": "\u661f\u3081\u3050\u308b\u8a69",
+        "url": "https://open.spotify.com/album/2EfEYAvVUWajLKby2VTeZC"
+      },
+      "artists": [
+        {
+          "name": "suis from Yorushika",
+          "url": "https://open.spotify.com/artist/4UOdwKkaWHJ5k6UqnfC2w0"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201764,
+      "name": "\u661f\u3081\u3050\u308b\u8a69",
+      "url": "https://open.spotify.com/track/30aPCMAtkH6Cf5ejzY4cE4"
     },
     {
       "album": {
@@ -18151,6 +18187,28 @@
       "duration_ms": 208826,
       "name": "\u7acb\u3061\u5165\u308a\u7981\u6b62",
       "url": "https://open.spotify.com/track/4AYNpkK8TqYRBIyQucYr90"
+    },
+    {
+      "album": {
+        "name": "\u7bb1\u5ead\u306e\u679c\u5b9f\u3010\u59cb\u3011",
+        "url": "https://open.spotify.com/album/3OgmI1kcrGb7zYOnp4HAC0"
+      },
+      "artists": [
+        {
+          "name": "\u4ed6\u4eba\u4e8b",
+          "url": "https://open.spotify.com/artist/3mHK8wA7RNm2B7TebMBBXj"
+        },
+        {
+          "name": "\u306d\u306d",
+          "url": "https://open.spotify.com/artist/0S1GRfE1kpYSsOi08WkEet"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237750,
+      "name": "\u7bb1\u5ead\u306e\u679c\u5b9f\u3010\u59cb\u3011",
+      "url": "https://open.spotify.com/track/1oRjPNSjr6eV7On5dEtYTP"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: Four Tet
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,372 likes - 100 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,369 likes - 100 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 32 | [Fussy](https://open.spotify.com/track/5Z7SapaZCnLexMPTR3OFbS) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Fussy](https://open.spotify.com/album/6uK1DkQIXyvnQaataGOUAJ) | 2:54 |
 | 33 | [Ghungroo](https://open.spotify.com/track/33e63lyL8pUxFUv730DTqY) | [SUCHI](https://open.spotify.com/artist/1O9dpGFcvuAU0tuAUpYg3N) | [Ghungroo](https://open.spotify.com/album/4eQ46nu3qU23PZ20xQWqIF) | 5:01 |
 | 34 | [Gymnastic](https://open.spotify.com/track/2TZSIn3zYWoMTmrpqPQcMx) | [machìna](https://open.spotify.com/artist/0WOOrXTvgnjErVjsXSOOxn) | [Action](https://open.spotify.com/album/2aVa4urDElgXnx3SuGXfqw) | 5:10 |
-| 35 | [泡 \(Abuku\)](https://open.spotify.com/track/0siPj5cESD9OJfd9EImJln) | [Wata Igarashi](https://open.spotify.com/artist/7ug2B8FOnKHqwtVlD9vrQX) | [Flares\|泡 \(Abuku\)](https://open.spotify.com/album/7JgThj37KZbitRCvScaIwS) | 6:14 |
+| 35 | [泡 \(Abuku\)](https://open.spotify.com/track/1z77pvpNqiJoMACcS7YRAg) | [Wata Igarashi](https://open.spotify.com/artist/7ug2B8FOnKHqwtVlD9vrQX) | [Flares \| 泡 \(Abuku\)](https://open.spotify.com/album/73wyb3gGxMXyN77Z031K20) | 6:14 |
 | 36 | [Flares](https://open.spotify.com/track/3neN3MicYlfsTuEyFeqQyp) | [DJ Nobu](https://open.spotify.com/artist/0FjzWRwRfEzCndGjColUy9) | [Flares](https://open.spotify.com/album/7hsOIGtcNEJXMMWdkXovDj) | 6:28 |
 | 37 | [Xana](https://open.spotify.com/track/6QRklUu66ogkI6VoaPEEav) | [Al Wootton](https://open.spotify.com/artist/77yJIgEEpUU5f87MWDEPwO) | [Xana](https://open.spotify.com/album/5LoRrilJVL9iV2VL6MxzYy) | 5:58 |
 | 38 | [Proto Spoon](https://open.spotify.com/track/4x0lRbV2ahj4mDD1shqKRk) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Sampler 01: Floor To Floor 10 Years of 17 Steps](https://open.spotify.com/album/01x04Tq5n5EEjrsdDbxGZu) | 3:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 99 | [ten](https://open.spotify.com/track/5QOBT97OmYCZo1W5u7tRrB) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY), [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [ten](https://open.spotify.com/album/0GuEvq4vzB9QqUaU8lVL0F) | 3:01 |
 | 100 | [She's On My Mind](https://open.spotify.com/track/4heve4ydl1u6V3AD4moZq9) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Mid Air](https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE) | 3:01 |
 
-Snapshot ID: `MCw1NWVhZTVhOTg5YTAzODk0OTVmMWNjYzYyZWUwMDllNmFjZGRiYjdj`
+Snapshot ID: `MCxjMTczOWYxZTJlZTEzMWQ4MDUzZjliZTQ4MWE1ZDQzNTJlZjVlYzk0`

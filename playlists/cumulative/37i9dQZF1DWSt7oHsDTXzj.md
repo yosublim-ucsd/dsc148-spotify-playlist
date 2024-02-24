@@ -4,7 +4,7 @@
 
 > The ultimate seasonal \(indie\) playlist.
 
-235 songs - 12 hr 56 min
+236 songs - 13 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [7 O'Clock News / Silent Night](https://open.spotify.com/track/3sIupwcMw6vCZ3bqMJa0NV) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL), [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [7 O'Clock News / Silent Night](https://open.spotify.com/album/43copJZSJKuxBmKbOG7lnn) | 2:00 | 2021-11-12 | 2023-07-09 |
 | [7 O'Clock News / Silent Night](https://open.spotify.com/track/5DTKQexc27ZIuZH8SbuYJT) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL), [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [If We Make It Through December](https://open.spotify.com/album/5c7rZDAKYf6PsA3MUfNZXL) | 2:00 | 2022-11-08 | 2022-11-13 |
 | [A Change at Christmas \(Say It Isn't So\)](https://open.spotify.com/track/28Zax7vgVaaFmhUvwSsAY0) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [Gift Wrapped: Regifted](https://open.spotify.com/album/3mCaKiRTEdj52pxEbvh42A) | 5:21 | 2021-11-12 | 2022-07-29 |
-| [A Change at Christmas \(Say It Isn't So\)](https://open.spotify.com/track/38pNnyQFOzCpLN9gsKAqGj) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [Ego Tripping at the Gates of Hell](https://open.spotify.com/album/602kxdvR8Ful5nYe57Vxzb) | 5:21 | 2023-10-16 |  |
+| [A Change at Christmas \(Say It Isn't So\)](https://open.spotify.com/track/38pNnyQFOzCpLN9gsKAqGj) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [Ego Tripping at the Gates of Hell](https://open.spotify.com/album/602kxdvR8Ful5nYe57Vxzb) | 5:21 | 2023-10-16 | 2024-02-24 |
 | [A Dreamer's Holiday](https://open.spotify.com/track/61Z8rVzYJ1NHgTlI8Q5yIC) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [A Dreamer's Holiday](https://open.spotify.com/album/6A9z2Vf7QPQVUNuJg0Jq8E) | 3:00 | 2021-11-12 |  |
 | [A Little Love \- From The John Lewis & Waitrose Christmas Advert 2020](https://open.spotify.com/track/7eTonpb9lXgerPaW6I1VnP) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [A Little Love \(From The John Lewis & Waitrose Christmas Advert 2020\)](https://open.spotify.com/album/6uXCDNLCKMosTnjTrDtkp4) | 2:58 | 2021-11-12 |  |
 | [Ain't Christmas \(with Laufey\)](https://open.spotify.com/track/1ishMaKoZFGrxFdGLa2qZN) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Ain't Christmas \(with Laufey\)](https://open.spotify.com/album/4O0enrkdTf0pNzVAx6QeEL) | 3:09 | 2022-12-02 |  |
@@ -180,6 +180,7 @@
 | [Silent Night](https://open.spotify.com/track/1HjszJRd56C61Cv0B6xvBW) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Silent Night b/w Blue Christmas](https://open.spotify.com/album/0uCK9gB2Qc25UJZ23AcWnM) | 2:36 | 2021-11-12 | 2022-07-29 |
 | [silver second](https://open.spotify.com/track/30Aa66S7RfoyBnrLXXvsrK) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [thank you wisdom angel i love you](https://open.spotify.com/album/7g2z1mqGxTwBeObnhVWppc) | 3:18 | 2022-12-23 | 2023-11-06 |
 | [Snow Song](https://open.spotify.com/track/0Cb1Ltn7Gc84D8x0SKmAZX) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Hours Were the Birds](https://open.spotify.com/album/3ZQoTj4ttmoO45QUE6StBW) | 3:56 | 2022-12-23 |  |
+| [Snowing In LA](https://open.spotify.com/track/3I6TZhBLFUVLWl1vM4I0t6) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Snowing In LA](https://open.spotify.com/album/0bAnJbVxDC5DMCSCyf4SOV) | 3:09 | 2024-01-03 |  |
 | [So Much Wine](https://open.spotify.com/track/4ZPNGLtydYARKP681L3TAF) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [So Much Wine](https://open.spotify.com/album/42iPQ0sFMyNdjTTPsEbjEC) | 4:03 | 2022-11-21 |  |
 | [Some Hearts \(at Christmas Time\)](https://open.spotify.com/track/6w7zGvsdr63FhRpgKpBNsa) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [Some Hearts \(at Christmas Time\)](https://open.spotify.com/album/1gh73HIn5I5zosdUhUalaX) | 3:22 | 2021-11-12 | 2022-07-29 |
 | [Someone to Spend Christmas With](https://open.spotify.com/track/3eJp4DzlpCrP6TNCTBOng2) | [The Spook School](https://open.spotify.com/artist/1K9hZ7uYbiVLEYhV4SFrOA) | [Someone to Spend Christmas With](https://open.spotify.com/album/01muwahIzp9KIyxf0MkWo5) | 4:02 | 2021-11-12 | 2022-07-27 |
