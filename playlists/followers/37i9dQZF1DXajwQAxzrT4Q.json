@@ -1,7 +1,7 @@
 {
-  "2024-02-24": 80133,
+  "2024-02-25": 80185,
   "date_first_scraped": "2022-02-25",
-  "description": "Bounce to the Brick City sound. From New Jersey to the world. Cover: Lay Bankz",
+  "description": "Bounce to the Brick City sound. From New Jersey to the world. Cover: DJ Sliink",
   "name": "Jersey Club Heat",
   "tracks": [
     {
@@ -305,7 +305,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 134383,
       "name": "All In My Head",
       "url": "https://open.spotify.com/track/7hLrCKRFvxYCQXjrw99yhj"
@@ -925,7 +925,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 140298,
       "name": "Birthday",
       "url": "https://open.spotify.com/track/5sRBO1ghaklkYi0oZPe4yW"
@@ -1871,7 +1871,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 123271,
       "name": "Dream (Jersey Club)",
       "url": "https://open.spotify.com/track/22XIrFI5WOVWPUv9kcz8zM"
@@ -2507,6 +2507,24 @@
       "duration_ms": 128000,
       "name": "Hands Up!",
       "url": "https://open.spotify.com/track/5fr3HjB7aX529pw2CExfGl"
+    },
+    {
+      "album": {
+        "name": "HATE ME",
+        "url": "https://open.spotify.com/album/3iWKVzI8YtUmESnwlwAnV9"
+      },
+      "artists": [
+        {
+          "name": "CLIP",
+          "url": "https://open.spotify.com/artist/3gkLLAZaxTaJhHnUaxQzCl"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122972,
+      "name": "HATE ME",
+      "url": "https://open.spotify.com/track/0trJmHGtsrgcey9CQ3YxrJ"
     },
     {
       "album": {
@@ -3169,6 +3187,24 @@
       "duration_ms": 145711,
       "name": "JIMMY CROOKS - Remix",
       "url": "https://open.spotify.com/track/1Fyezl6Ep6Swory5K78NR3"
+    },
+    {
+      "album": {
+        "name": "JUMP",
+        "url": "https://open.spotify.com/album/6ebP2bfXSp6rdmhtsEdM0R"
+      },
+      "artists": [
+        {
+          "name": "DJ Sliink",
+          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111076,
+      "name": "JUMP",
+      "url": "https://open.spotify.com/track/0pvqu6KxCWzjjZ7UlsNvdz"
     },
     {
       "album": {
@@ -5239,6 +5275,24 @@
       "duration_ms": 89072,
       "name": "Self Esteem (feat. NLE Choppa) - DJ Smallz 732 Jersey Club Remix",
       "url": "https://open.spotify.com/track/45AiClrOnkqbGmQe5OEEUu"
+    },
+    {
+      "album": {
+        "name": "Serbian Dancing Lady",
+        "url": "https://open.spotify.com/album/5Wdr2NUvHYKWuPwsFnsaSD"
+      },
+      "artists": [
+        {
+          "name": "DJ Sliink",
+          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114375,
+      "name": "Serbian Dancing Lady",
+      "url": "https://open.spotify.com/track/2UA6a86JxflDu8cHJJpnti"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: Jazmin Bean
 
-[Spotify](https://open.spotify.com/user/spotify) - 452,446 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 452,641 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 59 | [lay your head next to mine](https://open.spotify.com/track/2VgcJ9TFXeYakz9j19YLSP) | [guessing](https://open.spotify.com/artist/6EiUsyrZU50GTbJzhH8CJQ) | [lay your head next to mine](https://open.spotify.com/album/11cRSI3bYS0wScnVYnahDw) | 4:01 |
 | 60 | [Monasteroide](https://open.spotify.com/track/141iD7fqfSvkKuvphMKItz) | [Real Timpani](https://open.spotify.com/artist/7n47nWRWiMl1rbgspp7YsA) | [RX2XT](https://open.spotify.com/album/1JefQbyKVXPUvdwh1LBiJp) | 3:03 |
 
-Snapshot ID: `MCw3ZmVkYzg1N2JlZWI4MDdiMDg0NjcwYmM0YjZmNzlkZTBmN2JmODJm`
+Snapshot ID: `MCxkNjIzY2YwMjk4ZTc2NTIzZWUzYjFhN2QxNzk1M2UzNGUyYjU3NDk1`

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-1,404 songs - 2 day 17 hr 6 min
+1,405 songs - 2 day 17 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -863,6 +863,7 @@
 | [ВЫКЛЮЧАТЕЛЬ](https://open.spotify.com/track/3oIvvpkmjxdzd7NYNg5fxm) | [163ONMYNECK](https://open.spotify.com/artist/0ne2rg2JwZmIy7X1aVNq7y) | [NO OFFENCE](https://open.spotify.com/album/4GuYZRioUTTM3OSDEUFCbV) | 1:34 | 2022-02-19 | 2022-03-27 |
 | [Выпей меня](https://open.spotify.com/track/5O1Y35vDQQjCXTFo8BEBrr) | [Kambulat](https://open.spotify.com/artist/4ENNw1y7XuWPt7tvzoQ8Pz) | [Выпей меня](https://open.spotify.com/album/3PZkGXmFOEhSmqPdIyF6GD) | 2:42 | 2022-02-05 | 2022-02-12 |
 | [Выстрелы](https://open.spotify.com/track/0WXJnzwQSpPk7Vwq6d3Zoo) | [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW), [BUSHIDO ZHO](https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R), [uglystephan](https://open.spotify.com/artist/3I9Bd4StaxvFWPG9AAjlrO), [WormGanger](https://open.spotify.com/artist/086P64oKI020Z4jiNCmYwf) | [FREERIO 2](https://open.spotify.com/album/4Bxc3xz4eRLzZBfluYRfiP) | 2:55 | 2022-04-30 | 2022-05-02 |
+| [Відповідь](https://open.spotify.com/track/1KaPYUW5CmazXymJ5yYCD9) | [Okean Elzy](https://open.spotify.com/artist/6NTzEgUmN1PIBIYEHhf1kS) | [Відповідь](https://open.spotify.com/album/3IM5wixuY2f1FFsHt5UzIY) | 3:30 | 2024-02-24 |  |
 | [Відриваючись](https://open.spotify.com/track/0vByMmR3Y8MBorEEE5Pmie) | [Parfeniuk](https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C) | [Відриваючись](https://open.spotify.com/album/2nUr5oj4NmZsvTK6u3ug3g) | 2:29 | 2023-05-04 | 2024-02-17 |
 | [Відьми](https://open.spotify.com/track/7mCemRaeeezaB97MPPkhfG) | [BALKON](https://open.spotify.com/artist/3mRaoamjAyrixUbbej4KFu) | [Відьми](https://open.spotify.com/album/5BI2Pp4JUcfe47Dlbyp8Ah) | 3:21 | 2022-12-16 | 2023-01-24 |
 | [ГАДДЕМІТ](https://open.spotify.com/track/4OX375hbVOIIYYOVKqGWKO) | [GEZWEIRDO](https://open.spotify.com/artist/6bTAQ6F3BQfGWbqLz0xk46) | [ГАДДЕМІТ](https://open.spotify.com/album/1yg8JJLkBXE93Y6dDya9Tr) | 2:31 | 2023-06-17 | 2023-10-01 |
@@ -996,7 +997,7 @@
 | [Квіти](https://open.spotify.com/track/1BBXxqH8gdhsic0GeKD11U) | [SadSvit](https://open.spotify.com/artist/2ojY7fXJxZQhg8Rx5e8h9G) | [Квіти](https://open.spotify.com/album/7oSD0T1aolSFWD1nYwM4YQ) | 2:01 | 2023-06-17 | 2023-06-19 |
 | [Киллер \(Prod\. by malenkiyyarche x kayyo\)](https://open.spotify.com/track/3d67iioYf1Hvt2b7ncDzZv) | [MAYOT](https://open.spotify.com/artist/3KtiWEUyKC5lgHedcN6y6C) | [ЗАПРАВКА КИД 2](https://open.spotify.com/album/2Fw2CNrwvmKKoEIgtnaara) | 1:08 | 2021-03-27 | 2021-03-29 |
 | [кискис](https://open.spotify.com/track/6yUw6FLB1g8DqZUv7S5TKA) | [zhanulka](https://open.spotify.com/artist/260kWe4y9lg7YFDsZBgsLv) | [кискис](https://open.spotify.com/album/6ursd41l2w1YvIgiYIVtDK) | 2:50 | 2021-04-03 | 2021-04-28 |
-| [Кисти](https://open.spotify.com/track/3WIWqQMBUBQgmJERv3xTMV) | [uniqe](https://open.spotify.com/artist/0NhjeTa9uSqiD1wEG3gfII), [nkeeei](https://open.spotify.com/artist/0kD3TUffiD0sPxGwygzjg7), [ARTEM SHILOVETS](https://open.spotify.com/artist/3r1Md7Hk5iqtpyEoGo8032) | [Кисти](https://open.spotify.com/album/7MknjLHIoWLa3hn4F7S4EE) | 2:51 | 2024-02-08 |  |
+| [Кисти](https://open.spotify.com/track/3WIWqQMBUBQgmJERv3xTMV) | [uniqe](https://open.spotify.com/artist/0NhjeTa9uSqiD1wEG3gfII), [nkeeei](https://open.spotify.com/artist/0kD3TUffiD0sPxGwygzjg7), [ARTEM SHILOVETS](https://open.spotify.com/artist/3r1Md7Hk5iqtpyEoGo8032) | [Кисти](https://open.spotify.com/album/7MknjLHIoWLa3hn4F7S4EE) | 2:51 | 2024-02-08 | 2024-02-25 |
 | [кладбище](https://open.spotify.com/track/1xASDcZcb869OkSu86Wbw8) | [вышел покурить](https://open.spotify.com/artist/1YMUxFiaKsU85N9YolW0W9) | [кладбище](https://open.spotify.com/album/4XqaS0ByH0TBCu22mR4KTw) | 1:49 | 2021-09-21 | 2022-04-20 |
 | [КОГДА НАС ОТПУСТИТ](https://open.spotify.com/track/7EhsIpv1vEaclEeP19gbMu) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [MILLION DOLLAR: BUSINESS](https://open.spotify.com/album/04KjJSDImRLbElsI39hPLY) | 2:49 | 2021-05-30 | 2021-06-05 |
 | [Кожура](https://open.spotify.com/track/1OeGvzNcGC2s6F41lmCdjA) | [ZAPOMNI](https://open.spotify.com/artist/4V8bQXsHrlkgPwjTLSmgYU) | [BACKGROUND](https://open.spotify.com/album/2JoaHoCGIfFErAD74QjsOT) | 2:23 | 2021-12-21 | 2022-04-08 |

@@ -4,7 +4,7 @@
 
 > soft, chewy & good for the soul\. uwu
 
-839 songs - 1 day 22 hr 0 min
+840 songs - 1 day 22 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -602,6 +602,7 @@
 | [Roots](https://open.spotify.com/track/2f10y3Q1P9UFJPj7cGCBj8) | [Armi Millare](https://open.spotify.com/artist/7bT6URJrhJleZUfkrysELD) | [Roots](https://open.spotify.com/album/0ONLtHlkSuxLBquZNwvilc) | 3:09 | 2023-11-13 | 2023-12-09 |
 | [Rumours](https://open.spotify.com/track/19rYI8oRZAdz0gQIQ2yHld) | [Mirror](https://open.spotify.com/artist/6B9YF4eOv99klogeZUzkYM) | [Rumours](https://open.spotify.com/album/7vawAmxGohhTYN53lzenQW) | 3:19 | 2023-03-18 | 2023-04-12 |
 | [Run](https://open.spotify.com/track/7hVd0Hej4nlJiufYwKxhDT) | [TY:DEL](https://open.spotify.com/artist/2hPhnwoTrcoFeuP9pwdClH) | [Run](https://open.spotify.com/album/67VhkG0XlrHJj0JyRQJNR5) | 2:26 | 2023-09-17 | 2023-10-07 |
+| [Run Back To You](https://open.spotify.com/track/0W6cB9dPUnsL5iKOpxuSAK) | [LAY](https://open.spotify.com/artist/4o7tWrzQOqarDtTMWD2HV9), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Run Back To You](https://open.spotify.com/album/1OEWnZJ9NPQ1U5mpWLPLza) | 3:08 | 2024-02-23 |  |
 | [running away from whatever you call paradise](https://open.spotify.com/track/60rBSYpVF3uPhWsO45a0GW) | [a kid named rufus](https://open.spotify.com/artist/7K6yjBaUgEaSFnjJMxLO4j) | [whatever works](https://open.spotify.com/album/63x6ehILu5223aljaHfeiK) | 3:28 | 2023-07-18 | 2023-07-25 |
 | [running away from whatever you call paradise](https://open.spotify.com/track/6letrIiNyYIxpQZnbs8e3j) | [a kid named rufus](https://open.spotify.com/artist/7K6yjBaUgEaSFnjJMxLO4j) | [whatever works](https://open.spotify.com/album/6gEyHGNecWqivhWhMn7fFj) | 3:28 | 2023-07-21 | 2023-07-29 |
 | [sad girl](https://open.spotify.com/track/1C4qmPFkEXh7jfJYZG4KjM) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [sad girl](https://open.spotify.com/album/38q4VehB1wdiNUPOoO7JfN) | 2:28 | 2023-07-28 | 2023-09-26 |
@@ -698,7 +699,7 @@
 | [Super Hero](https://open.spotify.com/track/5fGqPgwGLJOiCD3hc3imNv) | [Doul](https://open.spotify.com/artist/6iCB8Oh5qNCfMM6Bjn3bOf) | [Super Hero](https://open.spotify.com/album/4FN8M7IILtVO5KRWmAqWAq) | 2:41 | 2022-02-25 | 2022-04-18 |
 | [superficial energy](https://open.spotify.com/track/2wmbk7U26XVNsS89UUffe5) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [superficial energy](https://open.spotify.com/album/14clBGWaMoyRGVfI3o7nlQ) | 2:55 | 2022-08-26 |  |
 | [Superhuman](https://open.spotify.com/track/6YAUAZ6Yf0mUeTIPduQHAB) | [LAYYI](https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr) | [Superhuman](https://open.spotify.com/album/4zyyXOkKsKk9qTke4pCYQM) | 3:47 | 2023-02-19 | 2023-03-10 |
-| [Sweet Hurting](https://open.spotify.com/track/2WFmtZWu1lV7emNPeWxBtB) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI), [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e) | [Sweet Hurting](https://open.spotify.com/album/0My4HXeLw9xcBwCLx2N5uw) | 3:34 | 2024-02-02 |  |
+| [Sweet Hurting](https://open.spotify.com/track/2WFmtZWu1lV7emNPeWxBtB) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI), [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e) | [Sweet Hurting](https://open.spotify.com/album/0My4HXeLw9xcBwCLx2N5uw) | 3:34 | 2024-02-02 | 2024-02-25 |
 | [Symbols](https://open.spotify.com/track/1ivU854n33K6OP1BFgh6Yu) | [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth) | [Symbols](https://open.spotify.com/album/2TI7yli1HEXOJuSNJvjpBk) | 3:09 | 2024-02-02 | 2024-02-24 |
 | [Sympathy](https://open.spotify.com/track/1ejyfKtg2DbswNknI0EBzT) | [Rosendale](https://open.spotify.com/artist/3ZVW9s2Xb8NQDzwEqElbNq) | [Sympathy](https://open.spotify.com/album/3ERXwDVLNRZthwGAQK7Z6d) | 2:24 | 2022-04-15 | 2022-05-10 |
 | [T](https://open.spotify.com/track/3FWKUDsmw76R8vkZudTbte) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2), [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [Head In The Clouds Forever](https://open.spotify.com/album/0UwAIpD7li3hhPDVxPrQxD) | 4:09 | 2022-04-24 | 2022-07-29 |

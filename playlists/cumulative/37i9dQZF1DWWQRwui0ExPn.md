@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-6,603 songs - 10 day 10 hr 16 min
+6,604 songs - 10 day 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3134,6 +3134,7 @@
 | [Lazy Locomotive](https://open.spotify.com/track/0l8GPSRbZlKMXM5sxKni49) | [Cmd q](https://open.spotify.com/artist/6XiXz5Vit02rmpr0M9SzMG) | [Lazy Locomotive](https://open.spotify.com/album/3Rdx410mbDx8WSFVvMVACk) | 2:00 | 2023-11-10 |  |
 | [Lazy Resolution](https://open.spotify.com/track/6Sd1qOyxscO8ctu1QHBcrC) | [Funshine](https://open.spotify.com/artist/6yrpDCs3th5WzFNyTaC75r) | [Lazy Resolution](https://open.spotify.com/album/0NCGbVRXIcjfoIbmsfIi3w) | 2:13 | 2022-07-22 | 2022-12-03 |
 | [Lazy River](https://open.spotify.com/track/4wHiZNZXn9CqKUXLRsto02) | [Fthmlss](https://open.spotify.com/artist/7v0VFJ0OHoYAVJ3F9Iapv3) | [Lazy River](https://open.spotify.com/album/75EtHYGtJhqqvLIOkT7FY4) | 2:30 | 2020-01-14 | 2021-04-17 |
+| [Lazy Streets](https://open.spotify.com/track/3VLrPtDygtrwm39saGbN61) | [galaxx](https://open.spotify.com/artist/1CzuRZH2SFZgmKRxXHZawo) | [Lazy Streets](https://open.spotify.com/album/5DffIqCUvdikkN6VtiyyvP) | 2:00 | 2024-02-23 |  |
 | [Lazy Sunday](https://open.spotify.com/track/4wLgZpvuAJhun6DoUecXHt) | [Cielomoto](https://open.spotify.com/artist/27GlbcSMtO4kBTdzs2a5Ph) | [Lazy Sunday](https://open.spotify.com/album/0jLUAVjxT1TPqP4v4LdkPQ) | 2:54 | 2023-08-10 | 2024-01-26 |
 | [Lazy Sunday](https://open.spotify.com/track/3HtkfalMTXdsXtMAth2LGC) | [SEA](https://open.spotify.com/artist/5yJ0VbxI0ZCekj1DrRI53O), [SADTODAY](https://open.spotify.com/artist/2XawwLBtmcDjslQvxIVRCL) | [short romance](https://open.spotify.com/album/6ta2dXpmPFMWY5PGAuUTao) | 2:18 | 2021-10-02 | 2022-04-08 |
 | [Le Gini](https://open.spotify.com/track/3W1hVS6uIsH7Dh3EgOQwIS) | [Retromigration](https://open.spotify.com/artist/52A6LhXGESSKtx5TIa2Kar), [Cem Mo](https://open.spotify.com/artist/3iYvl2sPTgAgS9bX6OSwQS) | [Darr's Lane](https://open.spotify.com/album/2VvHRyKp8azid9MfmiDySB) | 6:09 | 2021-09-11 | 2022-04-08 |
@@ -4868,7 +4869,7 @@
 | [Save Me](https://open.spotify.com/track/4llpWUJEWKHGVZzYv1nYid) | [H E R B](https://open.spotify.com/artist/1VVouGyPhjhUuaoCBZ0dFe) | [Existance](https://open.spotify.com/album/4jBPcp9a5pcjY1Q44qKZtg) | 1:24 | 2019-05-26\* | 2020-05-09 |
 | [Saved](https://open.spotify.com/track/2gu59fw711MVmz9Y3CgzqD) | [DECAP](https://open.spotify.com/artist/0YNQuoFHti0UjsFm94aaXL), [L.Dre](https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k), [Seb Zillner](https://open.spotify.com/artist/7JbVYHCk4gezX4sZTFW50x) | [Saved](https://open.spotify.com/album/2nTHhmbPMq6FtMGBt1mlnl) | 2:36 | 2022-02-14 | 2022-07-22 |
 | [Saveur Peche](https://open.spotify.com/track/5keJwlHTqYOV9hmNAXnFKO) | [Two Muses After](https://open.spotify.com/artist/6xpq9Jqa99NXeKxCDNbG8S) | [Saveur Peche](https://open.spotify.com/album/7oLKq7Wo6kQdwTpr8dqRV2) | 2:31 | 2022-09-16 | 2023-01-07 |
-| [Say It](https://open.spotify.com/track/05ungBOkFVFKAq4G54bbcm) | [F\. Of Audiotreats](https://open.spotify.com/artist/5Xzs0dh0Edme7rKAurunCL) | [Say It](https://open.spotify.com/album/5aaAN5hz4vu3gzJseODAWe) | 1:41 | 2024-02-23 |  |
+| [Say It](https://open.spotify.com/track/05ungBOkFVFKAq4G54bbcm) | [F\. Of Audiotreats](https://open.spotify.com/artist/5Xzs0dh0Edme7rKAurunCL) | [Say It](https://open.spotify.com/album/5aaAN5hz4vu3gzJseODAWe) | 1:41 | 2024-02-23 | 2024-02-25 |
 | [Say2U](https://open.spotify.com/track/6CysPqQKvex0tGgru7M1Eu) | [braj mahal](https://open.spotify.com/artist/2uHJReWme1oJ0jaXD1fiHT) | [MindOverMatter](https://open.spotify.com/album/3Xogmb5O5vIv5TC95SJ1y0) | 2:14 | 2022-12-16 | 2023-04-06 |
 | [Sayin'](https://open.spotify.com/track/65kOCXGJwm6ngo72eXU3vp) | [Avixn](https://open.spotify.com/artist/3iLOgBGQoYNj815Q2bkH3r) | [\[Lofi.Bumps\]](https://open.spotify.com/album/3sNcg6HEXpJQRGgUYZg3f7) | 1:09 | 2019-09-08 | 2021-04-17 |
 | [saying goodbye to yesterday](https://open.spotify.com/track/6p3vXRatK1rpbL79Zri5S0) | [Nosmoh](https://open.spotify.com/artist/7MZx3uoMDM7wE8An0kdHwa) | [Saying Goodbye to Yesterday](https://open.spotify.com/album/7cSK3HgrRWiB66ff5bYSh9) | 2:57 | 2023-01-06 | 2023-05-19 |

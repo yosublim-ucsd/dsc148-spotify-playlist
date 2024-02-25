@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXZrCbf4dx.md) - [plain]
 | 39 | [この国の未来のために](https://open.spotify.com/track/0bOK0moAbNLZ7jAoiQFLKe) | [MAYUKO](https://open.spotify.com/artist/0DaPPhbajdbIWfFVC8G1OL) | [「王様ランキング 勇気の宝箱」オリジナルサウンドトラック](https://open.spotify.com/album/4iCgluNQOh6oojlvcfjmc8) | 2:06 |
 | 40 | [小さかったあの頃](https://open.spotify.com/track/31aoDsr3aufeDF9V2yxWcR) | [MAYUKO](https://open.spotify.com/artist/0DaPPhbajdbIWfFVC8G1OL) | [「王様ランキング 勇気の宝箱」オリジナルサウンドトラック](https://open.spotify.com/album/4iCgluNQOh6oojlvcfjmc8) | 1:59 |
 
-Snapshot ID: `MCw1MzJlZjBiZTU2Yzk0ZTQwZWM2NDYwZDk5NjM2NTE4NGFlYzUwOTY0`
+Snapshot ID: `MCw5MWE5NDEzZmY3ODU2OGFiNDJkMzc2ZTVkMWRmY2VhOTViOGQ0MTM5`

@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 20774,
+  "2024-02-25": 20793,
   "date_first_scraped": "2024-01-30",
   "description": "This is Los Gemelos De Sinaloa. The essential tracks, all in one playlist.",
   "name": "This Is Los Gemelos De Sinaloa",
@@ -119,6 +119,24 @@
       "duration_ms": 174566,
       "name": "Aqui Voy",
       "url": "https://open.spotify.com/track/09WLhpyPAcQhPh5HAAjgUj"
+    },
+    {
+      "album": {
+        "name": "EXCENTRICON",
+        "url": "https://open.spotify.com/album/0e4tkubc3hq9zfOOJzBkIH"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168019,
+      "name": "AZULES",
+      "url": "https://open.spotify.com/track/3Vm0Ug2mKx5zsWUBO7TCyI"
     },
     {
       "album": {
@@ -329,7 +347,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 168480,
       "name": "El Muchacho Criticado (En Vivo)",
       "url": "https://open.spotify.com/track/0Y5K54BJgAdZya152sOsnu"
@@ -365,7 +383,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 212905,
       "name": "El Party",
       "url": "https://open.spotify.com/track/5d7HFkZcx09a2SGRCChAcL"
@@ -499,7 +517,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 138752,
       "name": "Me Ven Relajado",
       "url": "https://open.spotify.com/track/0edZkEF6YykgzCCxiLcXKZ"
@@ -535,7 +553,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 185449,
       "name": "Mi Credo",
       "url": "https://open.spotify.com/track/2JcmIVpA2TxH2mG2b25kCX"
@@ -557,6 +575,24 @@
       "duration_ms": 158253,
       "name": "Muerto En Vida",
       "url": "https://open.spotify.com/track/4fMr1S1jbrzCB4asN37Urt"
+    },
+    {
+      "album": {
+        "name": "EXCENTRICON",
+        "url": "https://open.spotify.com/album/0e4tkubc3hq9zfOOJzBkIH"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183989,
+      "name": "NARCISISTA",
+      "url": "https://open.spotify.com/track/4OteGd5OZ3sLAdrJ8IejfQ"
     },
     {
       "album": {
@@ -597,6 +633,28 @@
       "duration_ms": 202875,
       "name": "No Le Aflojo",
       "url": "https://open.spotify.com/track/7ifMxHITc3NIipJO4R5NGb"
+    },
+    {
+      "album": {
+        "name": "EXCENTRICON",
+        "url": "https://open.spotify.com/album/0e4tkubc3hq9zfOOJzBkIH"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        },
+        {
+          "name": "Grupo Diez 4tro",
+          "url": "https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169898,
+      "name": "NO TENIA NADA",
+      "url": "https://open.spotify.com/track/4RDJHKG7YLxS89QhaEfEcC"
     },
     {
       "album": {
@@ -663,6 +721,24 @@
       "duration_ms": 208213,
       "name": "Padre Nuestro",
       "url": "https://open.spotify.com/track/4smyDUpUfEmAWdC4uHvsMJ"
+    },
+    {
+      "album": {
+        "name": "EXCENTRICON",
+        "url": "https://open.spotify.com/album/0e4tkubc3hq9zfOOJzBkIH"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172403,
+      "name": "PAGANI",
+      "url": "https://open.spotify.com/track/5HJnWG1xSp74PL9vhfSMXt"
     },
     {
       "album": {
@@ -837,7 +913,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 158320,
       "name": "Tragos De Alcohol",
       "url": "https://open.spotify.com/track/3Xr4yKrO1kL20V8YWFQwey"
@@ -961,6 +1037,24 @@
       "duration_ms": 180308,
       "name": "Van Hablar",
       "url": "https://open.spotify.com/track/5h5rqA8YRL0gta5b4MbD8j"
+    },
+    {
+      "album": {
+        "name": "EXCENTRICON",
+        "url": "https://open.spotify.com/album/0e4tkubc3hq9zfOOJzBkIH"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126160,
+      "name": "VIDA DE FAMOSO",
+      "url": "https://open.spotify.com/track/4QC6aq7FJjDnd6LVb2QqqH"
     },
     {
       "album": {

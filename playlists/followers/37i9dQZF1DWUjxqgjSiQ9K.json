@@ -1,7 +1,7 @@
 {
-  "2024-02-24": 595418,
+  "2024-02-25": 595663,
   "date_first_scraped": "2022-03-01",
-  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: <a href=\"spotify:artist:39PYJNgoQuBHjE6LEn3ZdE\">Ingrid Rosario</a> ",
+  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: <a href=\"spotify:artist:7zpvy5B9gb5KprNUzNCOEE\">Miel San Marcos</a> y <a href=\"spotify:artist:4fdCGYM7dtJLa3LvR1ccto\">Gabriela Rocha</a> ",
   "name": "\u00c9xitos Cristianos",
   "tracks": [
     {
@@ -797,7 +797,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 242570,
       "name": "Alive",
       "url": "https://open.spotify.com/track/2SWzVaubaZL8tVapoBBg10"
@@ -2076,6 +2076,32 @@
     },
     {
       "album": {
+        "name": "Congelados",
+        "url": "https://open.spotify.com/album/7rIprbEUUjsSA5mSsMupyl"
+      },
+      "artists": [
+        {
+          "name": "Pedro Pablo Quintero",
+          "url": "https://open.spotify.com/artist/7k0e42G3EXTuMtNbMQkw0l"
+        },
+        {
+          "name": "Lowsan Melgar",
+          "url": "https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw"
+        },
+        {
+          "name": "Musiko",
+          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197760,
+      "name": "Congelados",
+      "url": "https://open.spotify.com/track/7HICecFmLPyhpm0v1aBfpw"
+    },
+    {
+      "album": {
         "name": "Construir\u00e9 Mi Vida",
         "url": "https://open.spotify.com/album/2sqh2FQIadwmWaycktFzkr"
       },
@@ -2658,7 +2684,7 @@
     },
     {
       "album": {
-        "name": "Dame A Cristo",
+        "name": "Dame A Cristo (Live)",
         "url": "https://open.spotify.com/album/7IioE8MFdDusQ2LIAKOAH4"
       },
       "artists": [
@@ -2679,7 +2705,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 375652,
-      "name": "Dame A Cristo",
+      "name": "Dame A Cristo - Live",
       "url": "https://open.spotify.com/track/3NnC0Z3PZQkoLNs883kNKS"
     },
     {
@@ -4476,6 +4502,24 @@
     },
     {
       "album": {
+        "name": "Fiel (ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7J6iYlRrhQeG4NawBxc1U8"
+      },
+      "artists": [
+        {
+          "name": "Majo y Dan",
+          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310157,
+      "name": "Fiel - ac\u00fastico",
+      "url": "https://open.spotify.com/track/7u7Q386Vqlm9njO8juFuZv"
+    },
+    {
+      "album": {
         "name": "Firme Y Enfocado",
         "url": "https://open.spotify.com/album/5ZE3KBdyEiI41sXiw1BUZx"
       },
@@ -4517,6 +4561,28 @@
       "duration_ms": 179999,
       "name": "Flavor",
       "url": "https://open.spotify.com/track/1SJhAaHz6DbDOfQJ11RqzF"
+    },
+    {
+      "album": {
+        "name": "Flow Celeste",
+        "url": "https://open.spotify.com/album/2xxUyQvgnalMgf22uSMdMr"
+      },
+      "artists": [
+        {
+          "name": "Barajas",
+          "url": "https://open.spotify.com/artist/0oaW8w858ZIyAnhDIskEqw"
+        },
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254237,
+      "name": "Flow Celeste",
+      "url": "https://open.spotify.com/track/68z6Upyk2kDUOqUXpFSjwF"
     },
     {
       "album": {
@@ -6467,7 +6533,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 722770,
       "name": "Medley Evangelio (En Vivo)",
       "url": "https://open.spotify.com/track/1GcVAXo149p2bCZLR2EyOG"
@@ -6489,7 +6555,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 498663,
       "name": "Mi Alma Clama (feat. Laila Olivera)",
       "url": "https://open.spotify.com/track/47ZJ19AEiODy34xxg8wFmr"
@@ -6643,7 +6709,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 246915,
       "name": "Mi Fe Viva Est\u00e1",
       "url": "https://open.spotify.com/track/5nxbsQxhamiqDEFKZXUMYP"
@@ -10388,6 +10454,28 @@
     },
     {
       "album": {
+        "name": "Tu Presencia me Llam\u00f3 (Me Atraiu - Vers\u00e3o Espanhol)",
+        "url": "https://open.spotify.com/album/6tPW1pXFSz7p9mMAvPxDvX"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 500624,
+      "name": "Tu Presencia me Llam\u00f3 - Me Atraiu - Vers\u00e3o Espanhol",
+      "url": "https://open.spotify.com/track/5jD4LYK6ptxiGVHGdxQ7o6"
+    },
+    {
+      "album": {
         "name": "Tu Reino Est\u00e1 Aqu\u00ed",
         "url": "https://open.spotify.com/album/23WpengG8gPWQSRXQG5aoO"
       },
@@ -11067,6 +11155,24 @@
       "duration_ms": 125714,
       "name": "Vuelo",
       "url": "https://open.spotify.com/track/5Fkqabb3R8drUNbWRZ0zep"
+    },
+    {
+      "album": {
+        "name": "Vuelvo",
+        "url": "https://open.spotify.com/album/4AGtEf0IwFBUy7smKrcrFV"
+      },
+      "artists": [
+        {
+          "name": "Marcela Gandara",
+          "url": "https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244400,
+      "name": "Vuelvo",
+      "url": "https://open.spotify.com/track/4P3NFHrXvzu4salSAFVLRH"
     },
     {
       "album": {

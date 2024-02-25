@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 455422,
+  "2024-02-25": 455486,
   "date_first_scraped": "2021-12-21",
   "description": "The songs you love, in ways you\u2019ve never heard before. Cover: Norah Jones & Remi Wof",
   "name": "Spotify Singles: Covers",
@@ -4579,7 +4579,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 214436,
       "name": "More Than Words",
       "url": "https://open.spotify.com/track/2eL7okeUuLM7000O6KTbbg"
@@ -7145,6 +7145,24 @@
       "duration_ms": 222282,
       "name": "We Know Who U R - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/64Ck5Rsc77cOzdiqElhgUj"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2S7OvlJZZdUxc33ZynZAvb"
+      },
+      "artists": [
+        {
+          "name": "Blanco White",
+          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222282,
+      "name": "We Know Who U R - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/670QRS1t9T5bzDpOUT16UF"
     },
     {
       "album": {

@@ -279,6 +279,24 @@
     },
     {
       "album": {
+        "name": "Eyes of Love",
+        "url": "https://open.spotify.com/album/08wDglKnVUPwlTSwKR0qDV"
+      },
+      "artists": [
+        {
+          "name": "The Edge Of Daybreak",
+          "url": "https://open.spotify.com/artist/5US7hTWfx50MizMOJksHNj"
+        }
+      ],
+      "date_added": "2024-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253226,
+      "name": "Eyes of Love",
+      "url": "https://open.spotify.com/track/1JxLgiWsT7yAOpJf3iTsDj"
+    },
+    {
+      "album": {
         "name": "Garage Sale EP + Remixes",
         "url": "https://open.spotify.com/album/1pcaVlKBjlBWSUqfcELSzO"
       },

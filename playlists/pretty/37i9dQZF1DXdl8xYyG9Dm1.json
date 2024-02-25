@@ -1,12 +1,12 @@
 {
   "description": "The latest straight bars and Afro-Trap. Cover: <a href=\"https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ?si=KbPfS5hIRBCLc0LhtKNwRw\"> Black Sherif</a>",
-  "num_followers": 146031,
+  "num_followers": 146165,
   "original_name": "Afro Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmN2NmOWVlNzIxYmM1YmE3NjJiNjk1YjhkZmQ0NGQwMWZmYjhhMjNm",
+  "snapshot_id": "MCxmZDc5NzcxNjIwY2Y1YjY0YzY3ZDU3YjY3ZmZlOGYzZGVmY2Q2MmIz",
   "tracks": [
     {
       "added_at": "2024-02-23 00:00:00",
@@ -1167,18 +1167,22 @@
     {
       "added_at": "2024-02-23 00:00:00",
       "album": {
-        "name": "3023",
-        "url": "https://open.spotify.com/album/74Dp5K8pSq3MxqgcUl0Ixl"
+        "name": "Bando Diaries",
+        "url": "https://open.spotify.com/album/21YNT7rWSXlWMDph9ZZnuC"
       },
       "artists": [
         {
-          "name": "Didi B",
-          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         }
       ],
-      "duration_ms": 150000,
-      "name": "3023",
-      "url": "https://open.spotify.com/track/2A5qmDuRrn9Wvac7mJrovL"
+      "duration_ms": 158298,
+      "name": "Bando Diaries",
+      "url": "https://open.spotify.com/track/6GbCVFzQZXgP2yd3EQv4hp"
     },
     {
       "added_at": "2024-02-23 00:00:00",
@@ -1203,22 +1207,18 @@
     {
       "added_at": "2024-02-23 00:00:00",
       "album": {
-        "name": "Bando Diaries",
-        "url": "https://open.spotify.com/album/21YNT7rWSXlWMDph9ZZnuC"
+        "name": "3023",
+        "url": "https://open.spotify.com/album/74Dp5K8pSq3MxqgcUl0Ixl"
       },
       "artists": [
         {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
         }
       ],
-      "duration_ms": 158298,
-      "name": "Bando Diaries",
-      "url": "https://open.spotify.com/track/6GbCVFzQZXgP2yd3EQv4hp"
+      "duration_ms": 150000,
+      "name": "3023",
+      "url": "https://open.spotify.com/track/2A5qmDuRrn9Wvac7mJrovL"
     },
     {
       "added_at": "2024-02-23 00:00:00",
@@ -1303,6 +1303,26 @@
     {
       "added_at": "2024-02-23 00:00:00",
       "album": {
+        "name": "Jungle Music, Pt.1",
+        "url": "https://open.spotify.com/album/3YosaIj8eB3PHuQv5QGtB0"
+      },
+      "artists": [
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        },
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        }
+      ],
+      "duration_ms": 185341,
+      "name": "Jungle Music, Pt.1",
+      "url": "https://open.spotify.com/track/6igRiUF4wplkbTr2ecNx8Y"
+    },
+    {
+      "added_at": "2024-02-23 00:00:00",
+      "album": {
         "name": "Headliner",
         "url": "https://open.spotify.com/album/6AAVCyWUzc7rcna0kXmmaf"
       },
@@ -1331,26 +1351,6 @@
       "duration_ms": 165995,
       "name": "Advice",
       "url": "https://open.spotify.com/track/3pPT38es75c1jiI2hRSkXA"
-    },
-    {
-      "added_at": "2024-02-23 00:00:00",
-      "album": {
-        "name": "Jungle Music, Pt.1",
-        "url": "https://open.spotify.com/album/3YosaIj8eB3PHuQv5QGtB0"
-      },
-      "artists": [
-        {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
-        },
-        {
-          "name": "IDK",
-          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
-        }
-      ],
-      "duration_ms": 185341,
-      "name": "Jungle Music, Pt.1",
-      "url": "https://open.spotify.com/track/6igRiUF4wplkbTr2ecNx8Y"
     },
     {
       "added_at": "2024-02-23 00:00:00",

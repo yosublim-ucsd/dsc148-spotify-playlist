@@ -1,12 +1,12 @@
 {
   "description": "El cancionero que retrata las batalles y personajes que dejaron huella en M\u00e9xico.",
-  "num_followers": 21899,
+  "num_followers": 21915,
   "original_name": "Corridos de la Revoluci\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNDUyZmY5OGQ1ZTJkYzI0ODVhMmMwNGE4Njg3MzU5YzdiZmNkYmQ3",
+  "snapshot_id": "MCwwZTE3MmVmNmEzNjg3ZDliNGRkYWYwNTZkNGE0YzJkNTI1NGVmNjdj",
   "tracks": [
     {
       "added_at": "2022-08-02 23:07:07",
@@ -384,9 +384,9 @@
           "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
         }
       ],
-      "duration_ms": 181730,
-      "name": "Corrido De Chihuahua",
-      "url": "https://open.spotify.com/track/2EWQwZp3PvBKFeX4uNmqjQ"
+      "duration_ms": 154319,
+      "name": "Corrido Villista",
+      "url": "https://open.spotify.com/track/2uzVGE2nCKOWodQmbIj0Hz"
     },
     {
       "added_at": "2022-08-02 23:07:07",
@@ -423,22 +423,6 @@
     {
       "added_at": "2022-08-02 23:07:07",
       "album": {
-        "name": "16 Corridos De La Revolucion Mexicana",
-        "url": "https://open.spotify.com/album/31EVfcK2KQq4ZmycwCAwml"
-      },
-      "artists": [
-        {
-          "name": "Los Donnenos",
-          "url": "https://open.spotify.com/artist/5WruSrX9f5cne1grgWg6c9"
-        }
-      ],
-      "duration_ms": 179480,
-      "name": "El Sepulcro De Zapata",
-      "url": "https://open.spotify.com/track/3YG6RT2esP1yBZbWEtlqTS"
-    },
-    {
-      "added_at": "2022-08-02 23:07:07",
-      "album": {
         "name": "Corridos Y Canciones De La Revolucion Mexicana",
         "url": "https://open.spotify.com/album/0lgsoBQJGx6ocygLdh2zPq"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 139333,
       "name": "Joaquinita",
       "url": "https://open.spotify.com/track/5dRUNcK1XiUl5tH7fkOg90"
+    },
+    {
+      "added_at": "2022-08-02 23:07:07",
+      "album": {
+        "name": "16 Corridos De La Revolucion Mexicana",
+        "url": "https://open.spotify.com/album/31EVfcK2KQq4ZmycwCAwml"
+      },
+      "artists": [
+        {
+          "name": "Los Donnenos",
+          "url": "https://open.spotify.com/artist/5WruSrX9f5cne1grgWg6c9"
+        }
+      ],
+      "duration_ms": 179480,
+      "name": "El Sepulcro De Zapata",
+      "url": "https://open.spotify.com/track/3YG6RT2esP1yBZbWEtlqTS"
     },
     {
       "added_at": "2022-08-02 23:07:07",
@@ -528,13 +528,13 @@
       },
       "artists": [
         {
-          "name": "Mariachi Popular Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/4hwG49Y5uFlnoIrIAePe9Z"
+          "name": "Jorge Negrete y Mariachi",
+          "url": "https://open.spotify.com/artist/1shwtC7ZDBNzOtOjcb4eBL"
         }
       ],
-      "duration_ms": 165880,
-      "name": "El Abandonado",
-      "url": "https://open.spotify.com/track/4EDKAMs8sg9fk93cyiV2jL"
+      "duration_ms": 192000,
+      "name": "El Desterrado",
+      "url": "https://open.spotify.com/track/6xvsVekA9AsEhfHFcKVVkI"
     },
     {
       "added_at": "2022-08-02 23:07:07",
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
         }
       ],
-      "duration_ms": 154319,
-      "name": "Corrido Villista",
-      "url": "https://open.spotify.com/track/2uzVGE2nCKOWodQmbIj0Hz"
+      "duration_ms": 181730,
+      "name": "Corrido De Chihuahua",
+      "url": "https://open.spotify.com/track/2EWQwZp3PvBKFeX4uNmqjQ"
     },
     {
       "added_at": "2022-08-02 23:07:07",
@@ -608,13 +608,13 @@
       },
       "artists": [
         {
-          "name": "Jorge Negrete y Mariachi",
-          "url": "https://open.spotify.com/artist/1shwtC7ZDBNzOtOjcb4eBL"
+          "name": "Mariachi Popular Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/4hwG49Y5uFlnoIrIAePe9Z"
         }
       ],
-      "duration_ms": 192000,
-      "name": "El Desterrado",
-      "url": "https://open.spotify.com/track/6xvsVekA9AsEhfHFcKVVkI"
+      "duration_ms": 165880,
+      "name": "El Abandonado",
+      "url": "https://open.spotify.com/track/4EDKAMs8sg9fk93cyiV2jL"
     },
     {
       "added_at": "2022-08-02 23:07:07",
@@ -1172,9 +1172,9 @@
           "url": "https://open.spotify.com/artist/1sP4XUsGdEIFyFbIanhllo"
         }
       ],
-      "duration_ms": 152773,
-      "name": "La C\u00e1psula",
-      "url": "https://open.spotify.com/track/1eGaj46iUZ5xJdH9kMqg6U"
+      "duration_ms": 148906,
+      "name": "La Cacahuata",
+      "url": "https://open.spotify.com/track/5AenFT5iqaywMoQOzFPtqu"
     },
     {
       "added_at": "2022-08-02 23:07:07",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2022-08-02 23:07:07",
       "album": {
-        "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Ignacio L\u00f3pez Tarso",
-        "url": "https://open.spotify.com/album/5ilSUAWedXuQNJsq0sujPp"
-      },
-      "artists": [
-        {
-          "name": "Ignacio L\u00f3pez Tarso",
-          "url": "https://open.spotify.com/artist/2ooScfARUURoMNbJfqWT3d"
-        }
-      ],
-      "duration_ms": 329640,
-      "name": "Corrido del Agrarista",
-      "url": "https://open.spotify.com/track/49uMErrmWCBAOpYcwIDgBd"
-    },
-    {
-      "added_at": "2022-08-02 23:07:07",
-      "album": {
         "name": "Corridos Y Canciones De La Revolucion Mexicana",
         "url": "https://open.spotify.com/album/0lgsoBQJGx6ocygLdh2zPq"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 278706,
       "name": "Corrido De La Expropiacion",
       "url": "https://open.spotify.com/track/6fxK0KMCdjxCoV2N32dEvj"
+    },
+    {
+      "added_at": "2022-08-02 23:07:07",
+      "album": {
+        "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Ignacio L\u00f3pez Tarso",
+        "url": "https://open.spotify.com/album/5ilSUAWedXuQNJsq0sujPp"
+      },
+      "artists": [
+        {
+          "name": "Ignacio L\u00f3pez Tarso",
+          "url": "https://open.spotify.com/artist/2ooScfARUURoMNbJfqWT3d"
+        }
+      ],
+      "duration_ms": 329640,
+      "name": "Corrido del Agrarista",
+      "url": "https://open.spotify.com/track/49uMErrmWCBAOpYcwIDgBd"
     },
     {
       "added_at": "2022-08-02 23:07:07",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2022-08-02 23:07:07",
       "album": {
-        "name": "Mexicanisimo",
-        "url": "https://open.spotify.com/album/6Z0P2h7puJvbOXD8WMUbY0"
-      },
-      "artists": [
-        {
-          "name": "Ignacio L\u00f3pez Tarso",
-          "url": "https://open.spotify.com/artist/2ooScfARUURoMNbJfqWT3d"
-        }
-      ],
-      "duration_ms": 326586,
-      "name": "Do\u00f1a Elena y el Franc\u00e9s",
-      "url": "https://open.spotify.com/track/1CICqdWVmN397awrL2JRBR"
-    },
-    {
-      "added_at": "2022-08-02 23:07:07",
-      "album": {
         "name": "M\u00e1s Corridos De La Revoluci\u00f3n Vol. II",
         "url": "https://open.spotify.com/album/6yTsXla7iE2jOSR5ieD3uA"
       },
@@ -1571,6 +1555,22 @@
     {
       "added_at": "2022-08-02 23:07:07",
       "album": {
+        "name": "Mexicanisimo",
+        "url": "https://open.spotify.com/album/6Z0P2h7puJvbOXD8WMUbY0"
+      },
+      "artists": [
+        {
+          "name": "Ignacio L\u00f3pez Tarso",
+          "url": "https://open.spotify.com/artist/2ooScfARUURoMNbJfqWT3d"
+        }
+      ],
+      "duration_ms": 326586,
+      "name": "Do\u00f1a Elena y el Franc\u00e9s",
+      "url": "https://open.spotify.com/track/1CICqdWVmN397awrL2JRBR"
+    },
+    {
+      "added_at": "2022-08-02 23:07:07",
+      "album": {
         "name": "Cantares de la Revoluci\u00f3n Mexicana y Canciones Norte\u00f1as",
         "url": "https://open.spotify.com/album/1rOs5oZahYJkaLhGu6bdur"
       },
@@ -1580,9 +1580,9 @@
           "url": "https://open.spotify.com/artist/1sP4XUsGdEIFyFbIanhllo"
         }
       ],
-      "duration_ms": 148906,
-      "name": "La Cacahuata",
-      "url": "https://open.spotify.com/track/5AenFT5iqaywMoQOzFPtqu"
+      "duration_ms": 152773,
+      "name": "La C\u00e1psula",
+      "url": "https://open.spotify.com/track/1eGaj46iUZ5xJdH9kMqg6U"
     },
     {
       "added_at": "2022-08-02 23:07:07",

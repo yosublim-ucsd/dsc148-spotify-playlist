@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 422868,
+  "2024-02-25": 422893,
   "date_first_scraped": "2021-12-21",
   "description": "Relax with this mix of peaceful, ambient, indie music.",
   "name": "Peaceful Ambient Indie",
@@ -357,7 +357,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 72221,
       "name": "Atom 6",
       "url": "https://open.spotify.com/track/4Hctp8jfbMwLTchI6o3vDc"
@@ -2855,7 +2855,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-20",
+      "date_removed": null,
       "duration_ms": 216391,
       "name": "Obrecht",
       "url": "https://open.spotify.com/track/4J7vzAszpwf1jWNiUhzv4S"

@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 280491,
+  "2024-02-25": 280680,
   "date_first_scraped": "2023-12-31",
   "description": "Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Thiaguinho, Sorriso Maroto",
   "name": "Domingu\u00eara",
@@ -83,6 +83,24 @@
       "duration_ms": 345053,
       "name": "Ainda Gosto de Voc\u00ea / J\u00e1 Era - Ao Vivo",
       "url": "https://open.spotify.com/track/06WkQibI8OhOLjDxIRKu5B"
+    },
+    {
+      "album": {
+        "name": "Luau do Ladeira, Ep. 03 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4qOlXaPTOirDq3tOiu7Jrf"
+      },
+      "artists": [
+        {
+          "name": "Samba da Ladeira",
+          "url": "https://open.spotify.com/artist/0IB2uaFC6Xm2I9VSaUlesk"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279396,
+      "name": "Al\u00f4 / Meu Casamento - Ao Vivo",
+      "url": "https://open.spotify.com/track/5PpidCWiGWCRuzIDFhh3Gp"
     },
     {
       "album": {
@@ -344,6 +362,24 @@
     },
     {
       "album": {
+        "name": "Nascido em 11 de Julho, Ep. 05 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2CqxABCxtcqV6ODlPywUnF"
+      },
+      "artists": [
+        {
+          "name": "Netinho De Paula",
+          "url": "https://open.spotify.com/artist/0b2YHyqwdG24iZZEZSagrL"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299000,
+      "name": "Cohab City / Vem pra C\u00e1 - Ao Vivo",
+      "url": "https://open.spotify.com/track/4fdQOI5kgTtMzIjJRTN3Xf"
+    },
+    {
+      "album": {
         "name": "Tardezinha Pela Vida Inteira (Ao Vivo)",
         "url": "https://open.spotify.com/album/78YlYXuLBrzdmpi6AxaOPQ"
       },
@@ -425,7 +461,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 292218,
       "name": "Dessa Vez / Ritmo Perfeito / Quero Te Encontrar - Ao Vivo",
       "url": "https://open.spotify.com/track/2zyi1oJmfjwp8zbCcfJyCn"
@@ -676,6 +712,24 @@
     },
     {
       "album": {
+        "name": "Fica Combinado Assim / O Amor N\u00e3o Tem Culpa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0MxTin0IzgaReGiUEPwZPK"
+      },
+      "artists": [
+        {
+          "name": "Fabinho",
+          "url": "https://open.spotify.com/artist/4CQPmHby32hOV9vjFHHUJS"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193500,
+      "name": "Fica Combinado Assim / O Amor N\u00e3o Tem Culpa - Ao Vivo",
+      "url": "https://open.spotify.com/track/1262PSbMeANuKnznYffZZN"
+    },
+    {
+      "album": {
         "name": "Roda de Samba Tiee e Fala Comigo no Complexo Fora do Eixo (Ao Vivo)",
         "url": "https://open.spotify.com/album/2bTSjpycK0HsuVZwHAcqqJ"
       },
@@ -695,6 +749,28 @@
       "duration_ms": 595002,
       "name": "Fortaleza / M\u00f4 / Fernando de Noronha / Acende o Celular / O Pai T\u00e1 On - Ao Vivo",
       "url": "https://open.spotify.com/track/2HxKNgDtFGJMd4BSGRNn9V"
+    },
+    {
+      "album": {
+        "name": "I Love Sp, Vol. 2 (1\u00aa Edi\u00e7\u00e3o) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/671VcYTP3pEfDxG9JrKJw9"
+      },
+      "artists": [
+        {
+          "name": "Tirando Onda",
+          "url": "https://open.spotify.com/artist/4QNNbfyXlnSNaEiM00hkVd"
+        },
+        {
+          "name": "Samba De Dom",
+          "url": "https://open.spotify.com/artist/40wx3ETjJh4eeVACrDaJVm"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306272,
+      "name": "Gamei / Ess\u00eancia da Paix\u00e3o / Mande um Sinal - Ao Vivo",
+      "url": "https://open.spotify.com/track/0RuSdArxtpcIhHxZaxMZOi"
     },
     {
       "album": {
@@ -1127,7 +1203,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 395608,
       "name": "Por T\u00e3o Pouco / Pagando Mal Com Mal / Faz Falta",
       "url": "https://open.spotify.com/track/6UV2ISfKVLSam3ehPe8ej6"
@@ -1261,7 +1337,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 294395,
       "name": "Pra N\u00e3o Dar Bandeira / Imposs\u00edvel Te Esquecer / Pensa - Ao Vivo",
       "url": "https://open.spotify.com/track/5k5M3bCvS9I60G96PZgmoA"
@@ -1407,7 +1483,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 300819,
       "name": "Reca\u00edda / Vai Me Dando Corda / Adorei - Ao Vivo",
       "url": "https://open.spotify.com/track/0nk5xq5UgNNPFpq9LmDuiC"
@@ -1782,6 +1858,32 @@
     },
     {
       "album": {
+        "name": "Sorriso Eu Gosto No Pagode - Parte 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0XclkMPoy9RZWvp1lwT29v"
+      },
+      "artists": [
+        {
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        },
+        {
+          "name": "Suel",
+          "url": "https://open.spotify.com/artist/4hpKB93agzoncsTXEstSpK"
+        },
+        {
+          "name": "Doce Encontro",
+          "url": "https://open.spotify.com/artist/1PJUNmhJf3lfQx2mxxQTg4"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 447071,
+      "name": "Volta Pra Casa / Em Suas M\u00e3os / Disfar\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/3x4b2xOaKzeMxTozL4LU52"
+    },
+    {
+      "album": {
         "name": "\u00c9 Diferente / Preciso Te Amar",
         "url": "https://open.spotify.com/album/41r0Pr6THbzh7NTqFhR63Q"
       },
@@ -1851,7 +1953,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 287031,
       "name": "\u00c9 no Pagode / J\u00e1 Que T\u00e1 Gostoso Deixa - Ao Vivo",
       "url": "https://open.spotify.com/track/2rQUkdMGz5kvc9l9zt2bdb"

@@ -1,7 +1,7 @@
 {
-  "2024-02-24": 27056,
+  "2024-02-25": 27074,
   "date_first_scraped": "2022-03-24",
-  "description": "O grime e o drill feitos no Brasil, naquele pique: de tracksuit, camisa de time e flow emba\u00e7ado. Foto: PIcaretas de Fachada",
+  "description": "O grime e o drill feitos no Brasil, naquele pique: de tracksuit, camisa de time e flow emba\u00e7ado. Foto: Picaretas de Fachada",
   "name": "Rima Avan\u00e7ada",
   "tracks": [
     {
@@ -231,7 +231,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 164572,
       "name": "A Bruta, a Braba, a Forte",
       "url": "https://open.spotify.com/track/0j531pQwzTDW0z72QJ7Zod"
@@ -315,7 +315,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 165112,
       "name": "A Profecia",
       "url": "https://open.spotify.com/track/6vXfQauHyTf7dWGkrAXpuW"
@@ -1011,7 +1011,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 136208,
       "name": "Bolol\u00f4",
       "url": "https://open.spotify.com/track/1j4VwVTZviiAJGMdrrgNVR"
@@ -2500,6 +2500,32 @@
     },
     {
       "album": {
+        "name": "Eu J\u00e1 Sei Disso",
+        "url": "https://open.spotify.com/album/0n5s7vOpNmoIWPeqf9fTSl"
+      },
+      "artists": [
+        {
+          "name": "COLASNI",
+          "url": "https://open.spotify.com/artist/0guOyrCTXlSdhKScVTLEHl"
+        },
+        {
+          "name": "kvns",
+          "url": "https://open.spotify.com/artist/2sjuykDI11jxTPdj2qosn4"
+        },
+        {
+          "name": "Pepito",
+          "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152423,
+      "name": "Eu J\u00e1 Sei Disso",
+      "url": "https://open.spotify.com/track/12mQWGgiEjYBYhSaofXVGp"
+    },
+    {
+      "album": {
         "name": "Eu N\u00e3o Vou Parar",
         "url": "https://open.spotify.com/album/2m9pfqCGixecCzU4uUZ0RE"
       },
@@ -2711,7 +2737,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 119097,
       "name": "Faz O Esquenta",
       "url": "https://open.spotify.com/track/3iqTOfKb0U4jXHQcBPYbbn"
@@ -3598,6 +3624,32 @@
     },
     {
       "album": {
+        "name": "Ludmilla (Papatracks#12)",
+        "url": "https://open.spotify.com/album/5Hxc7d6iEx2gXe8EDLst0n"
+      },
+      "artists": [
+        {
+          "name": "TOKIODK",
+          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
+        },
+        {
+          "name": "Leviano",
+          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
+        },
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122416,
+      "name": "Ludmilla (Papatracks#12)",
+      "url": "https://open.spotify.com/track/7CKPobgc0wetmn1V990uKb"
+    },
+    {
+      "album": {
         "name": "PELE",
         "url": "https://open.spotify.com/album/57LANvZ85BtVlj31EAY7EK"
       },
@@ -3825,6 +3877,28 @@
       "duration_ms": 135073,
       "name": "Matuto",
       "url": "https://open.spotify.com/track/2JZGa8ESJEhZeWxHg6h0Ti"
+    },
+    {
+      "album": {
+        "name": "Me Joguei",
+        "url": "https://open.spotify.com/album/6TW9nwIFkQ4P0QfWllwknq"
+      },
+      "artists": [
+        {
+          "name": "Cesola",
+          "url": "https://open.spotify.com/artist/6Zk2Z3tctpDw4FNu1NWYIC"
+        },
+        {
+          "name": "queronemsabe",
+          "url": "https://open.spotify.com/artist/6f9JkorbAuANVLCt0mLHJ5"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174500,
+      "name": "Me Joguei",
+      "url": "https://open.spotify.com/track/3i5ougZJSMT6WFDKVRdIjt"
     },
     {
       "album": {
@@ -5474,6 +5548,28 @@
     },
     {
       "album": {
+        "name": "Say my name",
+        "url": "https://open.spotify.com/album/0xNm8hwKIOMeOXiErfqLKs"
+      },
+      "artists": [
+        {
+          "name": "AKA AFK",
+          "url": "https://open.spotify.com/artist/1ZEPj2UWxPZEELctnTNRca"
+        },
+        {
+          "name": "Korsain",
+          "url": "https://open.spotify.com/artist/7kN54doNDobttOJOD6UjYY"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176372,
+      "name": "Say my name",
+      "url": "https://open.spotify.com/track/405ZvWZC7HtHz8ve2nv3TR"
+    },
+    {
+      "album": {
         "name": "Sem Ind\u00edcios",
         "url": "https://open.spotify.com/album/2qdVlvKiOxwsMKwBxxokoT"
       },
@@ -5519,7 +5615,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 147200,
       "name": "Sem Remorso",
       "url": "https://open.spotify.com/track/1deAMrUofYXWI1ELLG9aiC"
@@ -5911,6 +6007,28 @@
       "duration_ms": 169014,
       "name": "Tecnologia Nova",
       "url": "https://open.spotify.com/track/1NDmdoZa9Jv4squxaCpA8d"
+    },
+    {
+      "album": {
+        "name": "Temaki",
+        "url": "https://open.spotify.com/album/7HR3Ua7jyOLciCkRmfLAQN"
+      },
+      "artists": [
+        {
+          "name": "Maique Maia",
+          "url": "https://open.spotify.com/artist/0iMMghGD3ll45eVAedXQi9"
+        },
+        {
+          "name": "$em",
+          "url": "https://open.spotify.com/artist/5iT2PHCI23Lhns73nnlpf6"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87428,
+      "name": "Temaki",
+      "url": "https://open.spotify.com/track/2WEOnOcBe74iN0zb7JKLfs"
     },
     {
       "album": {

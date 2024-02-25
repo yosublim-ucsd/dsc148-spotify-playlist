@@ -1,12 +1,12 @@
 {
   "description": "Classics by the pioneers of the sound, and its modern-day icons. Cover: 100 gecs",
-  "num_followers": 74905,
+  "num_followers": 74968,
   "original_name": "Hyperpop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ODQ5ODc1ODJjMDk3ZjFhMjUxYzQ3MTEyMGQ3MzE3Y2E1YjQzZjhh",
+  "snapshot_id": "MCw2YTczNDMwNWYwNTlhM2Q4MzUxNTM0YzMyOGVmMTgzMjk1NzlkYmYw",
   "tracks": [
     {
       "added_at": "2023-04-27 17:13:18",
@@ -415,6 +415,22 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
+        "name": "things with wings",
+        "url": "https://open.spotify.com/album/2MdIFibz5RJWNIDJzyEVxO"
+      },
+      "artists": [
+        {
+          "name": "ericdoa",
+          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
+        }
+      ],
+      "duration_ms": 108363,
+      "name": "cheap liquor",
+      "url": "https://open.spotify.com/track/7sLmMWLm9Egbs68NRcFvjY"
+    },
+    {
+      "added_at": "2023-04-27 17:13:18",
+      "album": {
         "name": "you don't love me",
         "url": "https://open.spotify.com/album/16Ed3EtdYHhasSdABo7g6m"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 122227,
       "name": "you don't love me",
       "url": "https://open.spotify.com/track/4GdFtfWORB3JQvsjjWvE4y"
-    },
-    {
-      "added_at": "2023-04-27 17:13:18",
-      "album": {
-        "name": "things with wings",
-        "url": "https://open.spotify.com/album/2MdIFibz5RJWNIDJzyEVxO"
-      },
-      "artists": [
-        {
-          "name": "ericdoa",
-          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
-        }
-      ],
-      "duration_ms": 108363,
-      "name": "cheap liquor",
-      "url": "https://open.spotify.com/track/7sLmMWLm9Egbs68NRcFvjY"
     },
     {
       "added_at": "2023-04-27 17:13:18",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
-        "name": "I'm All Ears",
-        "url": "https://open.spotify.com/album/4TgXvHJWXGk0BlBvfs13Qg"
+        "name": "Hey QT",
+        "url": "https://open.spotify.com/album/2j4oAo8L6xpAmJsCi5cL7W"
       },
       "artists": [
         {
-          "name": "Let's Eat Grandma",
-          "url": "https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF"
+          "name": "QT",
+          "url": "https://open.spotify.com/artist/5BrwToIWIxFwMToVViLr0z"
         }
       ],
-      "duration_ms": 248976,
-      "name": "Hot Pink",
-      "url": "https://open.spotify.com/track/59rdoga3q8OVCR5WnSGVM8"
+      "duration_ms": 235567,
+      "name": "Hey QT",
+      "url": "https://open.spotify.com/track/7nJoufbWvXXIcOLyDEci8t"
     }
   ],
   "unique_name": "Hyperpop Classics",

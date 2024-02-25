@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OWY1YmY0NzMzYzQ4MGM2YmQ4ZmYxN2IyMDA4MTEyZjk4YzNiNzBm",
+  "snapshot_id": "MCw0MzNlYzcxYTc4N2U0OTExNGU1ODkwMTNlZTNiMjgxNjE3NWY4YWM5",
   "tracks": [
     {
       "added_at": "2024-02-23 11:21:09",
@@ -123,22 +123,22 @@
     {
       "added_at": "2024-02-23 11:21:09",
       "album": {
-        "name": "Bwepaba",
-        "url": "https://open.spotify.com/album/3KTcQeURSAxN6ubdoh9QKa"
+        "name": "SANKOFA",
+        "url": "https://open.spotify.com/album/1zSyQiZdfsczxs84VVghKC"
       },
       "artists": [
         {
-          "name": "Fik Fameica",
-          "url": "https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5"
+          "name": "Azawi",
+          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
         },
         {
-          "name": "Sheebah",
-          "url": "https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu"
+          "name": "Konshens",
+          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
         }
       ],
-      "duration_ms": 172871,
-      "name": "Bwepaba",
-      "url": "https://open.spotify.com/track/5zxBCElTKxOF2FptuZBjDt"
+      "duration_ms": 144000,
+      "name": "Summer Bae",
+      "url": "https://open.spotify.com/track/4FKLDG7TJuMHtaP9sDZOpi"
     },
     {
       "added_at": "2024-02-23 11:21:09",
@@ -171,22 +171,22 @@
     {
       "added_at": "2024-02-23 11:21:09",
       "album": {
-        "name": "SANKOFA",
-        "url": "https://open.spotify.com/album/1zSyQiZdfsczxs84VVghKC"
+        "name": "Bwepaba",
+        "url": "https://open.spotify.com/album/3KTcQeURSAxN6ubdoh9QKa"
       },
       "artists": [
         {
-          "name": "Azawi",
-          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
+          "name": "Fik Fameica",
+          "url": "https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5"
         },
         {
-          "name": "Konshens",
-          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
+          "name": "Sheebah",
+          "url": "https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Summer Bae",
-      "url": "https://open.spotify.com/track/4FKLDG7TJuMHtaP9sDZOpi"
+      "duration_ms": 172871,
+      "name": "Bwepaba",
+      "url": "https://open.spotify.com/track/5zxBCElTKxOF2FptuZBjDt"
     },
     {
       "added_at": "2024-02-23 11:21:09",
@@ -323,6 +323,22 @@
     {
       "added_at": "2024-02-23 11:21:09",
       "album": {
+        "name": "Masavu",
+        "url": "https://open.spotify.com/album/1kE9moAXgGGMB53Rxl6TuS"
+      },
+      "artists": [
+        {
+          "name": "Azawi",
+          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
+        }
+      ],
+      "duration_ms": 176170,
+      "name": "Masavu",
+      "url": "https://open.spotify.com/track/4vQsuuW1bwV4Zy6YvdyyBG"
+    },
+    {
+      "added_at": "2024-02-23 11:21:09",
+      "album": {
         "name": "SHE WAAN",
         "url": "https://open.spotify.com/album/3bA2DgGpky4EeSr6VnOPhh"
       },
@@ -375,18 +391,18 @@
     {
       "added_at": "2024-02-23 11:21:09",
       "album": {
-        "name": "Masavu",
-        "url": "https://open.spotify.com/album/1kE9moAXgGGMB53Rxl6TuS"
+        "name": "Namulabako",
+        "url": "https://open.spotify.com/album/04Z3CMpi3cYj1QvoZ7ilMj"
       },
       "artists": [
         {
-          "name": "Azawi",
-          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
+          "name": "Ugaboys",
+          "url": "https://open.spotify.com/artist/3MJRn5EWi6McEFbI00qNGe"
         }
       ],
-      "duration_ms": 176170,
-      "name": "Masavu",
-      "url": "https://open.spotify.com/track/4vQsuuW1bwV4Zy6YvdyyBG"
+      "duration_ms": 167816,
+      "name": "Namulabako",
+      "url": "https://open.spotify.com/track/2iuL25zyjR69LmdlDzkj34"
     },
     {
       "added_at": "2024-02-23 11:21:09",
@@ -411,22 +427,6 @@
       "duration_ms": 196000,
       "name": "Thursday",
       "url": "https://open.spotify.com/track/5d4mvGOh7ZzKVIZrNmKKGc"
-    },
-    {
-      "added_at": "2024-02-23 11:21:09",
-      "album": {
-        "name": "Namulabako",
-        "url": "https://open.spotify.com/album/04Z3CMpi3cYj1QvoZ7ilMj"
-      },
-      "artists": [
-        {
-          "name": "Ugaboys",
-          "url": "https://open.spotify.com/artist/3MJRn5EWi6McEFbI00qNGe"
-        }
-      ],
-      "duration_ms": 167816,
-      "name": "Namulabako",
-      "url": "https://open.spotify.com/track/2iuL25zyjR69LmdlDzkj34"
     },
     {
       "added_at": "2024-02-23 11:21:09",
@@ -495,6 +495,22 @@
     {
       "added_at": "2024-02-23 11:21:09",
       "album": {
+        "name": "Omwenge",
+        "url": "https://open.spotify.com/album/1xyRIpZigEgRdjDNNunzZT"
+      },
+      "artists": [
+        {
+          "name": "Azawi",
+          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
+        }
+      ],
+      "duration_ms": 225985,
+      "name": "Omwenge",
+      "url": "https://open.spotify.com/track/0MseyNtnkNbEt6lIbMFhjn"
+    },
+    {
+      "added_at": "2024-02-23 11:21:09",
+      "album": {
         "name": "Fertilizer",
         "url": "https://open.spotify.com/album/6Pz7K5KdsXCbk5CybkwIlp"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 175072,
       "name": "Fertilizer",
       "url": "https://open.spotify.com/track/10JDfsIelDol1IxN2PCEnG"
-    },
-    {
-      "added_at": "2024-02-23 11:21:09",
-      "album": {
-        "name": "Omwenge",
-        "url": "https://open.spotify.com/album/1xyRIpZigEgRdjDNNunzZT"
-      },
-      "artists": [
-        {
-          "name": "Azawi",
-          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
-        }
-      ],
-      "duration_ms": 225985,
-      "name": "Omwenge",
-      "url": "https://open.spotify.com/track/0MseyNtnkNbEt6lIbMFhjn"
     },
     {
       "added_at": "2024-02-23 11:21:09",
@@ -747,26 +747,6 @@
     {
       "added_at": "2024-02-23 11:21:09",
       "album": {
-        "name": "Type Of Girl",
-        "url": "https://open.spotify.com/album/7xx4zbtu0xnr4jgOBQ8LVb"
-      },
-      "artists": [
-        {
-          "name": "Sanyu",
-          "url": "https://open.spotify.com/artist/6oomz4M46LpCm0rd4BXIWK"
-        },
-        {
-          "name": "Kamanzi",
-          "url": "https://open.spotify.com/artist/3eFz1Hi2ldnb0QWcidYrWZ"
-        }
-      ],
-      "duration_ms": 210279,
-      "name": "Type Of Girl",
-      "url": "https://open.spotify.com/track/06pxO19q4mkseGmNoqJHFQ"
-    },
-    {
-      "added_at": "2024-02-23 11:21:09",
-      "album": {
         "name": "Q'lalea",
         "url": "https://open.spotify.com/album/5FBkaeCPyo9SAKYGTz4NTu"
       },
@@ -791,22 +771,22 @@
     {
       "added_at": "2024-02-23 11:21:09",
       "album": {
-        "name": "Tattoo",
-        "url": "https://open.spotify.com/album/05oZe7vp4Q4U1hsvpGLLmB"
+        "name": "Type Of Girl",
+        "url": "https://open.spotify.com/album/7xx4zbtu0xnr4jgOBQ8LVb"
       },
       "artists": [
         {
-          "name": "Victor Ruz",
-          "url": "https://open.spotify.com/artist/45nNcIJai3fFcxj6cl3oDZ"
+          "name": "Sanyu",
+          "url": "https://open.spotify.com/artist/6oomz4M46LpCm0rd4BXIWK"
         },
         {
-          "name": "Caspian Marvin",
-          "url": "https://open.spotify.com/artist/0pNu0RMscQ1va8rWZVhpwU"
+          "name": "Kamanzi",
+          "url": "https://open.spotify.com/artist/3eFz1Hi2ldnb0QWcidYrWZ"
         }
       ],
-      "duration_ms": 214073,
-      "name": "Tattoo",
-      "url": "https://open.spotify.com/track/6Ncvi8lNXro9qVQWNlcWtI"
+      "duration_ms": 210279,
+      "name": "Type Of Girl",
+      "url": "https://open.spotify.com/track/06pxO19q4mkseGmNoqJHFQ"
     },
     {
       "added_at": "2024-02-23 11:21:09",
@@ -831,6 +811,22 @@
     {
       "added_at": "2024-02-23 11:21:09",
       "album": {
+        "name": "Kimugunyu",
+        "url": "https://open.spotify.com/album/3IXuIkjdJIq5tnLin2bIgE"
+      },
+      "artists": [
+        {
+          "name": "Ykee Benda",
+          "url": "https://open.spotify.com/artist/18knxgRViP1Ae2TG8DZRfq"
+        }
+      ],
+      "duration_ms": 180781,
+      "name": "Kimugunyu",
+      "url": "https://open.spotify.com/track/6DjcHOzwOfYYwy6fOnZMhS"
+    },
+    {
+      "added_at": "2024-02-23 11:21:09",
+      "album": {
         "name": "Leega",
         "url": "https://open.spotify.com/album/6NUZuzbhXknUU3P3XDCv8W"
       },
@@ -843,6 +839,26 @@
       "duration_ms": 216398,
       "name": "Leega",
       "url": "https://open.spotify.com/track/2Lpak3zl9w7BwzpRh1Nfmm"
+    },
+    {
+      "added_at": "2024-02-23 11:21:09",
+      "album": {
+        "name": "Tattoo",
+        "url": "https://open.spotify.com/album/05oZe7vp4Q4U1hsvpGLLmB"
+      },
+      "artists": [
+        {
+          "name": "Victor Ruz",
+          "url": "https://open.spotify.com/artist/45nNcIJai3fFcxj6cl3oDZ"
+        },
+        {
+          "name": "Caspian Marvin",
+          "url": "https://open.spotify.com/artist/0pNu0RMscQ1va8rWZVhpwU"
+        }
+      ],
+      "duration_ms": 214073,
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/6Ncvi8lNXro9qVQWNlcWtI"
     },
     {
       "added_at": "2024-02-23 11:21:09",
@@ -863,22 +879,6 @@
       "duration_ms": 226153,
       "name": "On my Mind",
       "url": "https://open.spotify.com/track/5qbE876DXDAM3QGjlaYyux"
-    },
-    {
-      "added_at": "2024-02-23 11:21:09",
-      "album": {
-        "name": "Kimugunyu",
-        "url": "https://open.spotify.com/album/3IXuIkjdJIq5tnLin2bIgE"
-      },
-      "artists": [
-        {
-          "name": "Ykee Benda",
-          "url": "https://open.spotify.com/artist/18knxgRViP1Ae2TG8DZRfq"
-        }
-      ],
-      "duration_ms": 180781,
-      "name": "Kimugunyu",
-      "url": "https://open.spotify.com/track/6DjcHOzwOfYYwy6fOnZMhS"
     },
     {
       "added_at": "2024-02-23 11:21:09",
@@ -935,26 +935,6 @@
     {
       "added_at": "2024-02-23 11:21:09",
       "album": {
-        "name": "Found You",
-        "url": "https://open.spotify.com/album/30EZO4mzKiVCNOwKwIz5zx"
-      },
-      "artists": [
-        {
-          "name": "Benji Kasule",
-          "url": "https://open.spotify.com/artist/53sV72PJJCP9xX96d6eFgh"
-        },
-        {
-          "name": "Naava Grey",
-          "url": "https://open.spotify.com/artist/4Dvh0aMCIBySKye4a8O2UB"
-        }
-      ],
-      "duration_ms": 225473,
-      "name": "Found You",
-      "url": "https://open.spotify.com/track/06LtEowrZCsWiV2N2iScwJ"
-    },
-    {
-      "added_at": "2024-02-23 11:21:09",
-      "album": {
         "name": "Talk To Me",
         "url": "https://open.spotify.com/album/7GaJ0U2ye3tAnSUGBCDuBT"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 169482,
       "name": "Talk To Me",
       "url": "https://open.spotify.com/track/0PvibNWu1jtYdsjSzijZKq"
+    },
+    {
+      "added_at": "2024-02-23 11:21:09",
+      "album": {
+        "name": "FAYA",
+        "url": "https://open.spotify.com/album/1gTXLyRPmEysl9i5CwQt0u"
+      },
+      "artists": [
+        {
+          "name": "Agent Snypa",
+          "url": "https://open.spotify.com/artist/5LUpT5RzeYT5aH16GfEzHJ"
+        },
+        {
+          "name": "Coopy Bly",
+          "url": "https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y"
+        }
+      ],
+      "duration_ms": 182352,
+      "name": "FAYA",
+      "url": "https://open.spotify.com/track/2XfbFeYxN961nxtxUoepoM"
     }
   ],
   "unique_name": "Made In Uganda",

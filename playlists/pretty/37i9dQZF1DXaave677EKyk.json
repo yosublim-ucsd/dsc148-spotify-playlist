@@ -1,12 +1,12 @@
 {
   "description": "Undisputed Anthems from professional party starters. Cover: Joel Corry\n",
-  "num_followers": 448,
+  "num_followers": 229,
   "original_name": "Party Starters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzN2JkZGE5YjkwOTI5ZjE0ZGQxNGVjNzk2ODc5ODliMDk1OGY2MGU0",
+  "snapshot_id": "MCwzOTQ4MWRjYzBkNTI2YTVmODYzNjEwMWIwZWE4NGVjZGQ0NDY1MDMy",
   "tracks": [
     {
       "added_at": "2024-01-09 15:42:32",
@@ -839,6 +839,22 @@
     {
       "added_at": "2024-01-09 15:42:32",
       "album": {
+        "name": "Hey DJ",
+        "url": "https://open.spotify.com/album/0HNme2CFQWHNAR1IIiwuZi"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        }
+      ],
+      "duration_ms": 157001,
+      "name": "Hey DJ",
+      "url": "https://open.spotify.com/track/35TuvgQOcLcZmGlZZ3cAGq"
+    },
+    {
+      "added_at": "2024-01-09 15:42:32",
+      "album": {
         "name": "messy in heaven",
         "url": "https://open.spotify.com/album/0a9uNlopPXGg37OC20qDk6"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 170437,
       "name": "messy in heaven",
       "url": "https://open.spotify.com/track/5RobAV5ROH5KARimi7n3cO"
-    },
-    {
-      "added_at": "2024-01-09 15:42:32",
-      "album": {
-        "name": "Hey DJ",
-        "url": "https://open.spotify.com/album/0HNme2CFQWHNAR1IIiwuZi"
-      },
-      "artists": [
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        }
-      ],
-      "duration_ms": 157001,
-      "name": "Hey DJ",
-      "url": "https://open.spotify.com/track/35TuvgQOcLcZmGlZZ3cAGq"
     },
     {
       "added_at": "2024-01-09 15:42:32",
@@ -1231,26 +1231,6 @@
     {
       "added_at": "2024-01-09 15:42:32",
       "album": {
-        "name": "I See Colors",
-        "url": "https://open.spotify.com/album/5uiaLZEuY2dKO91P5aFAoh"
-      },
-      "artists": [
-        {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
-        },
-        {
-          "name": "Rain Radio",
-          "url": "https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY"
-        }
-      ],
-      "duration_ms": 192428,
-      "name": "I See Colors",
-      "url": "https://open.spotify.com/track/6CfcDeHk4tzSmkd97HRvM3"
-    },
-    {
-      "added_at": "2024-01-09 15:42:32",
-      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/42Yeib3dBZYZ8tWXqTOYAZ"
       },
@@ -1271,22 +1251,22 @@
     {
       "added_at": "2024-01-09 15:42:32",
       "album": {
-        "name": "Rude Boy",
-        "url": "https://open.spotify.com/album/50g7h0uVDn1StQRebq1pZl"
+        "name": "I See Colors",
+        "url": "https://open.spotify.com/album/5uiaLZEuY2dKO91P5aFAoh"
       },
       "artists": [
         {
-          "name": "DMNDS",
-          "url": "https://open.spotify.com/artist/0U3b0BjITtQHwjwBVtiGcO"
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
         },
         {
-          "name": "USAI",
-          "url": "https://open.spotify.com/artist/2URl3RyFpTbuZSa8AhZLGt"
+          "name": "Rain Radio",
+          "url": "https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY"
         }
       ],
-      "duration_ms": 151874,
-      "name": "Rude Boy",
-      "url": "https://open.spotify.com/track/1WlpK6hLHUNhuMFwnTISqi"
+      "duration_ms": 192428,
+      "name": "I See Colors",
+      "url": "https://open.spotify.com/track/6CfcDeHk4tzSmkd97HRvM3"
     },
     {
       "added_at": "2024-01-09 15:42:32",
@@ -1303,6 +1283,26 @@
       "duration_ms": 160127,
       "name": "Good Lies",
       "url": "https://open.spotify.com/track/59GW6EKtdyaJ10t2yQdqrt"
+    },
+    {
+      "added_at": "2024-01-09 15:42:32",
+      "album": {
+        "name": "Rude Boy",
+        "url": "https://open.spotify.com/album/50g7h0uVDn1StQRebq1pZl"
+      },
+      "artists": [
+        {
+          "name": "DMNDS",
+          "url": "https://open.spotify.com/artist/0U3b0BjITtQHwjwBVtiGcO"
+        },
+        {
+          "name": "USAI",
+          "url": "https://open.spotify.com/artist/2URl3RyFpTbuZSa8AhZLGt"
+        }
+      ],
+      "duration_ms": 151874,
+      "name": "Rude Boy",
+      "url": "https://open.spotify.com/track/1WlpK6hLHUNhuMFwnTISqi"
     },
     {
       "added_at": "2024-01-09 15:42:32",

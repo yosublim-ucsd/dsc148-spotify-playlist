@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 75677,
+  "2024-02-25": 75678,
   "date_first_scraped": "2022-04-22",
   "description": "M\u00fasica para insubordinados. Idles en portada. ",
   "name": "lo hice por el punk",
@@ -257,6 +257,28 @@
       "duration_ms": 176636,
       "name": "Ardiendo Lento",
       "url": "https://open.spotify.com/track/7G3WYQW7DrFjmm8a4wPleH"
+    },
+    {
+      "album": {
+        "name": "Arranque",
+        "url": "https://open.spotify.com/album/1xoq2icxKxxwTm2V7rESFm"
+      },
+      "artists": [
+        {
+          "name": "Here Comes The Kraken",
+          "url": "https://open.spotify.com/artist/52Zn2uHVzdUXzLWl8D0uZa"
+        },
+        {
+          "name": "Pablo Holman",
+          "url": "https://open.spotify.com/artist/4HYxULhjEDiN5hgUBi44L1"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218562,
+      "name": "Arranque",
+      "url": "https://open.spotify.com/track/0a4L1LjsBV3Xqxu93LYTtr"
     },
     {
       "album": {
@@ -578,6 +600,24 @@
     },
     {
       "album": {
+        "name": "Rarezas",
+        "url": "https://open.spotify.com/album/4lpXH5UdNhaHipQzq4bBGn"
+      },
+      "artists": [
+        {
+          "name": "Los Miserables",
+          "url": "https://open.spotify.com/artist/7EP6QHjz7FSJZBVjDuAmas"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181750,
+      "name": "Desidia",
+      "url": "https://open.spotify.com/track/2O0zsjezl4swNCAsDlYoLW"
+    },
+    {
+      "album": {
         "name": "Animal del Demonio",
         "url": "https://open.spotify.com/album/5JtQUYDabva1wB8OrNOmbs"
       },
@@ -841,7 +881,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 213669,
       "name": "Fracasado",
       "url": "https://open.spotify.com/track/5cOTbepCsUrbyB78JDoFMc"
@@ -1659,7 +1699,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 381440,
       "name": "M\u00e9xico Quer\u00e9taro",
       "url": "https://open.spotify.com/track/0RwfQdF2pt8tfRyLxDpSs7"
@@ -2479,7 +2519,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 144918,
       "name": "Vadem\u00e9cum",
       "url": "https://open.spotify.com/track/1t6ce3FryKUksIyCYZMNyQ"
@@ -2609,6 +2649,24 @@
       "duration_ms": 199000,
       "name": "Viva la Muerte",
       "url": "https://open.spotify.com/track/2TDIBx2Za2zvHO0pEpXD4g"
+    },
+    {
+      "album": {
+        "name": "Waiting On A Twist Of Fate",
+        "url": "https://open.spotify.com/album/5oK4d9R1CpF1jVdLaL4fj8"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166844,
+      "name": "Waiting On A Twist Of Fate",
+      "url": "https://open.spotify.com/track/5PCMU8scAoT4sz4Fn2Umua"
     },
     {
       "album": {

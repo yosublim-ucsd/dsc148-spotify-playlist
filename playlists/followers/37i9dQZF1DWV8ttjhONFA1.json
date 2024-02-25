@@ -1,7 +1,7 @@
 {
-  "2024-02-24": 150293,
+  "2024-02-25": 150312,
   "date_first_scraped": "2023-12-19",
-  "description": "El nuevo sonido argentino lo encontr\u00e1s ac\u00e1. Foto: Mica Sotera & Los Otros D\u00edas",
+  "description": "El nuevo sonido argentino lo encontr\u00e1s ac\u00e1. Foto: Mi Amigo Invencible",
   "name": "Indie Argentina",
   "tracks": [
     {
@@ -39,6 +39,24 @@
       "duration_ms": 171388,
       "name": "2:42",
       "url": "https://open.spotify.com/track/4yzo6HV34l2wGug7W90BPZ"
+    },
+    {
+      "album": {
+        "name": "Acto de Fe",
+        "url": "https://open.spotify.com/album/5tgzXgNH7tyOqkZzqcRai0"
+      },
+      "artists": [
+        {
+          "name": "Mi Amigo Invencible",
+          "url": "https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169604,
+      "name": "Acto de Fe",
+      "url": "https://open.spotify.com/track/6aV7Ohi6SKDBlTuFIwycBM"
     },
     {
       "album": {
@@ -303,7 +321,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 250621,
       "name": "Cangrejal",
       "url": "https://open.spotify.com/track/4DNSjR34NzyowHIiNBpdrr"
@@ -369,7 +387,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 197560,
       "name": "Color\u00e1",
       "url": "https://open.spotify.com/track/3hL7qjD8Mdcrjc5t1BFcHE"
@@ -703,7 +721,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 302750,
       "name": "El \u00daltimo Romance",
       "url": "https://open.spotify.com/track/3lHNEKAlUf8Jh3UTkMQCr6"
@@ -1304,6 +1322,24 @@
     },
     {
       "album": {
+        "name": "Qu\u00e9 Nos Mantiene Despiertos",
+        "url": "https://open.spotify.com/album/376DNPl0ELW1rNHzR2faxY"
+      },
+      "artists": [
+        {
+          "name": "Ine G\u00fcemes",
+          "url": "https://open.spotify.com/artist/6eT4EH9YSy7e4y1EY1XibR"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208368,
+      "name": "Patag\u00f3nicos",
+      "url": "https://open.spotify.com/track/5NfH9COWPnpgquEWWnrvsr"
+    },
+    {
+      "album": {
         "name": "Pelo Suelto",
         "url": "https://open.spotify.com/album/5GMwzpHmzwPY1qcd2psoYt"
       },
@@ -1532,6 +1568,24 @@
     },
     {
       "album": {
+        "name": "Resaca",
+        "url": "https://open.spotify.com/album/0kXhUyBXTjElgrkGStIVMr"
+      },
+      "artists": [
+        {
+          "name": "1915",
+          "url": "https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202363,
+      "name": "Resaca",
+      "url": "https://open.spotify.com/track/1vgwKBxFV0KRoKlEq2fqkk"
+    },
+    {
+      "album": {
         "name": "romantiklov <3",
         "url": "https://open.spotify.com/album/2rkMB180JWhLwRXBHHmOlj"
       },
@@ -1747,7 +1801,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 111534,
       "name": "Todo Lo Que Tengo",
       "url": "https://open.spotify.com/track/39TmRHLELR1MWDlXZAmhWN"
@@ -1871,6 +1925,24 @@
       "duration_ms": 206012,
       "name": "Un Pre\u00e1mbulo",
       "url": "https://open.spotify.com/track/0VAwX3wYhvYrLojAl0Ld7f"
+    },
+    {
+      "album": {
+        "name": "Un \u00c1ngel Para Tu Soledad",
+        "url": "https://open.spotify.com/album/5FrGWO6KCgBT6P0VCigAmo"
+      },
+      "artists": [
+        {
+          "name": "nano mundano",
+          "url": "https://open.spotify.com/artist/0UTjWU7XvLl9O12dfTxhfl"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214268,
+      "name": "Un \u00c1ngel Para Tu Soledad",
+      "url": "https://open.spotify.com/track/0paoacUiJg3KaJWI4UQeQm"
     },
     {
       "album": {

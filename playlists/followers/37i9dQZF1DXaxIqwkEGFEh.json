@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 1190983,
+  "2024-02-25": 1191091,
   "date_first_scraped": "2021-12-21",
   "description": "Strictly for the streets. Cover: 21 Savage",
   "name": "Out The Mud",
@@ -397,7 +397,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 133791,
       "name": "32 Bars",
       "url": "https://open.spotify.com/track/3F8b80zjERYnKDDBiag615"
@@ -3717,7 +3717,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 133474,
       "name": "Catch A B",
       "url": "https://open.spotify.com/track/1N1OEPRVwRpimvSL6H3Mwx"
@@ -4009,7 +4009,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 147214,
       "name": "Check Ups (feat. YTB Fatt & Rob49)",
       "url": "https://open.spotify.com/track/6POXO9CO9Vzzza2DNAlSIC"
@@ -6085,7 +6085,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 190451,
       "name": "Eye 4 Eye",
       "url": "https://open.spotify.com/track/4baym2V2V5y45jiEreU1Tc"
@@ -7903,7 +7903,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 187000,
       "name": "Go (feat. BabyDrill)",
       "url": "https://open.spotify.com/track/4Y9OPzyWSNwnSze4k5EuVH"
@@ -10317,6 +10317,28 @@
       "duration_ms": 116031,
       "name": "Imposters",
       "url": "https://open.spotify.com/track/0Jgi0ZkopEY0nZM7z2uWDg"
+    },
+    {
+      "album": {
+        "name": "REDRUM Wizard (Gangsta Grillz)",
+        "url": "https://open.spotify.com/album/2kcWf4LiavA3V6quKqSXAB"
+      },
+      "artists": [
+        {
+          "name": "Big Boogie",
+          "url": "https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs"
+        },
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144177,
+      "name": "In Dat Mode",
+      "url": "https://open.spotify.com/track/7ACRfCohzF9TTO2uhvrS5z"
     },
     {
       "album": {
@@ -13422,6 +13444,24 @@
     },
     {
       "album": {
+        "name": "Mr Pot Scraper",
+        "url": "https://open.spotify.com/album/4yhIfYT0AYm9hGHZxvttaZ"
+      },
+      "artists": [
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145028,
+      "name": "Mr Pot Scraper",
+      "url": "https://open.spotify.com/track/6PmqCt2fO80OojY5eGS2X3"
+    },
+    {
+      "album": {
         "name": "Drill Season (Extended)",
         "url": "https://open.spotify.com/album/6daSSJZ16r6AH9gj8bZbWG"
       },
@@ -14990,6 +15030,24 @@
     },
     {
       "album": {
+        "name": "Old Days",
+        "url": "https://open.spotify.com/album/5d1hVedvruMRp2GFplN9DI"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195267,
+      "name": "Old Days",
+      "url": "https://open.spotify.com/track/7gM0bjWc2LpgZTihy4U18P"
+    },
+    {
+      "album": {
         "name": "Street Credentials",
         "url": "https://open.spotify.com/album/4EF01c0W2zKOSR54Zym8l1"
       },
@@ -15605,6 +15663,28 @@
       "duration_ms": 188157,
       "name": "Outside",
       "url": "https://open.spotify.com/track/6YiDVrYuJk33GKKzsVUhRE"
+    },
+    {
+      "album": {
+        "name": "Ova Wit",
+        "url": "https://open.spotify.com/album/1O3ET4kUw4YgPOo5LbPOvS"
+      },
+      "artists": [
+        {
+          "name": "Big Boogie",
+          "url": "https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs"
+        },
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203665,
+      "name": "Ova Wit",
+      "url": "https://open.spotify.com/track/0Aa5jUWJMWuKwHXjX8du5V"
     },
     {
       "album": {
@@ -17313,7 +17393,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 173531,
       "name": "Red Key",
       "url": "https://open.spotify.com/track/1k25DljEqP1APkG68xjRsi"
@@ -17335,6 +17415,24 @@
       "duration_ms": 124295,
       "name": "RED LIGHT",
       "url": "https://open.spotify.com/track/5BXG1rCIsVSCzTUkI01LM9"
+    },
+    {
+      "album": {
+        "name": "4EVER",
+        "url": "https://open.spotify.com/album/4AeQSYs5rAyQvdwP0GXzRi"
+      },
+      "artists": [
+        {
+          "name": "Stunna 4 Vegas",
+          "url": "https://open.spotify.com/artist/44IvvHRk2XF243QLA2VOa8"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112175,
+      "name": "Red Rum",
+      "url": "https://open.spotify.com/track/3PPCTaXueBFQazb0m5YLQV"
     },
     {
       "album": {
@@ -17731,7 +17829,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 204840,
       "name": "Right Now (feat. Bossman Dlow & Lil Wet)",
       "url": "https://open.spotify.com/track/49jjnR1W3KVX3SHHM1GHOR"
@@ -18637,7 +18735,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 139802,
       "name": "ScoreGod (feat. Luh Tyler)",
       "url": "https://open.spotify.com/track/3jvUUI68ZxFYosDbQLuSBL"
@@ -18857,6 +18955,24 @@
       "duration_ms": 118249,
       "name": "Shake It (feat. Cardi B, Dougie B & Bory300)",
       "url": "https://open.spotify.com/track/0RkCnqwF8Tfl2QGPZwopyk"
+    },
+    {
+      "album": {
+        "name": "Shampoo",
+        "url": "https://open.spotify.com/album/6kvguegn7g69twj0Cg0OQ7"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131213,
+      "name": "Shampoo",
+      "url": "https://open.spotify.com/track/2yrEBYkFqRcT65jRXnIICU"
     },
     {
       "album": {
@@ -19625,6 +19741,24 @@
       "duration_ms": 177236,
       "name": "Small Town Hero",
       "url": "https://open.spotify.com/track/4SlGKw0aicsh5fmVKsVEU2"
+    },
+    {
+      "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/2bhiFZR9bJPKg9O5GfyInE"
+      },
+      "artists": [
+        {
+          "name": "Calboy",
+          "url": "https://open.spotify.com/artist/0HkcYmcjrBR3SCw9Ld5VZk"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106679,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/4Vujm3j3rDSsOD6oukgxLI"
     },
     {
       "album": {
@@ -22801,7 +22935,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 157808,
       "name": "Voices",
       "url": "https://open.spotify.com/track/4i90bzDPcuDenZCKYY3xjA"
@@ -24315,6 +24449,24 @@
       "duration_ms": 151309,
       "name": "ZAZA",
       "url": "https://open.spotify.com/track/1CICpopiF0vHCSRlpSUnO5"
+    },
+    {
+      "album": {
+        "name": "\ufeffBlood Splatter",
+        "url": "https://open.spotify.com/album/2Eshb0J0Fqojqu8msgOE6x"
+      },
+      "artists": [
+        {
+          "name": "Yungeen Ace",
+          "url": "https://open.spotify.com/artist/7hj7ffJe6UkF1gsMpuweSI"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151906,
+      "name": "\ufeffBlood Splatter",
+      "url": "https://open.spotify.com/track/6hLhe1Q8kZQw5pfAK1SGY7"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXaxIqwkEGFEh"

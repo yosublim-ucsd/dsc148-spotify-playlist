@@ -1,12 +1,12 @@
 {
   "description": "A neo-classic sound for the road. Cover: Thee Sacred Souls",
-  "num_followers": 130611,
+  "num_followers": 130674,
   "original_name": "Retro Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMThmNDE4Y2NlZjkxMWI5MTgxNjY5MjllMGZjYWJjMGQzNjZkNWI4",
+  "snapshot_id": "MCxjMzI3OTViNjY0OTA3MmY2ZmIzN2FjOTdhY2Y3ZGUxMjdkZjgxZTkw",
   "tracks": [
     {
       "added_at": "2021-07-13 21:11:09",
@@ -73,22 +73,6 @@
       "url": "https://open.spotify.com/track/2ffGZTdlRN0lNxA4LOYyTs"
     },
     {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
-        "name": "Love & Hate",
-        "url": "https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 233413,
-      "name": "One More Night",
-      "url": "https://open.spotify.com/track/0f2zcrhhHT59aIGQvRlTZ1"
-    },
-    {
       "added_at": "2021-11-05 04:01:00",
       "album": {
         "name": "High No More",
@@ -103,6 +87,22 @@
       "duration_ms": 198845,
       "name": "High No More",
       "url": "https://open.spotify.com/track/71p2ub5QJhJTzfvXbXaUXd"
+    },
+    {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
+        "name": "Love & Hate",
+        "url": "https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 233413,
+      "name": "One More Night",
+      "url": "https://open.spotify.com/track/0f2zcrhhHT59aIGQvRlTZ1"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -365,20 +365,20 @@
       "url": "https://open.spotify.com/track/6vDH7DeS588qqrbxDuj6MU"
     },
     {
-      "added_at": "2023-12-13 17:43:50",
+      "added_at": "2021-07-13 21:11:09",
       "album": {
-        "name": "Only Girl",
-        "url": "https://open.spotify.com/album/2Qp5Ode31zeYK4qEP2mctl"
+        "name": "Soft Times",
+        "url": "https://open.spotify.com/album/2uYzXe3PhOs9p7jW3jDZue"
       },
       "artists": [
         {
-          "name": "Stephen Sanchez",
-          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+          "name": "Matt Duncan",
+          "url": "https://open.spotify.com/artist/7gRH7pJQJaAvrwvi8STYEl"
         }
       ],
-      "duration_ms": 159320,
-      "name": "Only Girl",
-      "url": "https://open.spotify.com/track/17fL4slDQP8YopAZHWyiR3"
+      "duration_ms": 217058,
+      "name": "The Keys",
+      "url": "https://open.spotify.com/track/3IKEgC5BTp0hzQxl5GTujD"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -397,20 +397,20 @@
       "url": "https://open.spotify.com/track/7tBZa65xUKMMan9tIMPqbi"
     },
     {
-      "added_at": "2021-07-13 21:11:09",
+      "added_at": "2023-12-13 17:43:50",
       "album": {
-        "name": "Soft Times",
-        "url": "https://open.spotify.com/album/2uYzXe3PhOs9p7jW3jDZue"
+        "name": "Only Girl",
+        "url": "https://open.spotify.com/album/2Qp5Ode31zeYK4qEP2mctl"
       },
       "artists": [
         {
-          "name": "Matt Duncan",
-          "url": "https://open.spotify.com/artist/7gRH7pJQJaAvrwvi8STYEl"
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
         }
       ],
-      "duration_ms": 217058,
-      "name": "The Keys",
-      "url": "https://open.spotify.com/track/3IKEgC5BTp0hzQxl5GTujD"
+      "duration_ms": 159320,
+      "name": "Only Girl",
+      "url": "https://open.spotify.com/track/17fL4slDQP8YopAZHWyiR3"
     },
     {
       "added_at": "2022-12-13 18:45:33",
@@ -479,18 +479,18 @@
     {
       "added_at": "2021-07-13 21:11:09",
       "album": {
-        "name": "That Was Yesterday",
-        "url": "https://open.spotify.com/album/2GYGaipOwfLGveAF3ta6Iv"
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/4VFG1DOuTeDMBjBLZT7hCK"
       },
       "artists": [
         {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
         }
       ],
-      "duration_ms": 230013,
-      "name": "That Was Yesterday",
-      "url": "https://open.spotify.com/track/3gwfEBrFpzEFCZMjw7mqxA"
+      "duration_ms": 160760,
+      "name": "Put Me Thru",
+      "url": "https://open.spotify.com/track/70SjyVMzhmMeJQD8hOmIBp"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -527,22 +527,6 @@
     {
       "added_at": "2021-07-13 21:11:09",
       "album": {
-        "name": "Malibu",
-        "url": "https://open.spotify.com/album/4VFG1DOuTeDMBjBLZT7hCK"
-      },
-      "artists": [
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 160760,
-      "name": "Put Me Thru",
-      "url": "https://open.spotify.com/track/70SjyVMzhmMeJQD8hOmIBp"
-    },
-    {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
         "name": "In My Mind",
         "url": "https://open.spotify.com/album/15iSR05cslUeYgf2kuWDhu"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 269173,
       "name": "Turnin' Me Up",
       "url": "https://open.spotify.com/track/5MjAFPcmrR1DYCgZrXCN4d"
+    },
+    {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
+        "name": "That Was Yesterday",
+        "url": "https://open.spotify.com/album/2GYGaipOwfLGveAF3ta6Iv"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 230013,
+      "name": "That Was Yesterday",
+      "url": "https://open.spotify.com/track/3gwfEBrFpzEFCZMjw7mqxA"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -595,22 +595,6 @@
     {
       "added_at": "2022-12-13 18:45:33",
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/1aM7FK3fr3L00Y3q79TXns"
-      },
-      "artists": [
-        {
-          "name": "Otis Kane",
-          "url": "https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl"
-        }
-      ],
-      "duration_ms": 166440,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/0yyTUTW3QCekpMvFJi3f2f"
-    },
-    {
-      "added_at": "2022-12-13 18:45:33",
-      "album": {
         "name": "Come Around and Love Me",
         "url": "https://open.spotify.com/album/0E2PgtXRUHCslZ7gRselUq"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 189706,
       "name": "Just Like You Used To",
       "url": "https://open.spotify.com/track/0KNKtfE0jOcGBeu7Y5pL7h"
+    },
+    {
+      "added_at": "2022-12-13 18:45:33",
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/1aM7FK3fr3L00Y3q79TXns"
+      },
+      "artists": [
+        {
+          "name": "Otis Kane",
+          "url": "https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl"
+        }
+      ],
+      "duration_ms": 166440,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/0yyTUTW3QCekpMvFJi3f2f"
     },
     {
       "added_at": "2021-07-30 04:01:00",
@@ -1089,20 +1089,20 @@
       "url": "https://open.spotify.com/track/3wZqS73n0ivz3o6yPZPjxI"
     },
     {
-      "added_at": "2021-10-29 04:01:00",
+      "added_at": "2021-07-13 21:11:09",
       "album": {
-        "name": "Starchild",
-        "url": "https://open.spotify.com/album/3qnWQRiiv8upClnaeZHTPx"
+        "name": "Young Sick Camellia",
+        "url": "https://open.spotify.com/album/4EN9bVE0g7gUvQlNdPrUhL"
       },
       "artists": [
         {
-          "name": "Common Saints",
-          "url": "https://open.spotify.com/artist/5UA8O7xDhZ74ebRYT0XOxB"
+          "name": "St. Paul & The Broken Bones",
+          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
         }
       ],
-      "duration_ms": 231853,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/1Wntxxt7R2mwfa4bDfAa5h"
+      "duration_ms": 290422,
+      "name": "GotItBad",
+      "url": "https://open.spotify.com/track/59s5vTB8LNV4tyZPp9HM3f"
     },
     {
       "added_at": "2023-07-11 18:58:28",
@@ -1125,20 +1125,20 @@
       "url": "https://open.spotify.com/track/1m6FCJ4TWoqCz2ubKdep0Z"
     },
     {
-      "added_at": "2021-07-13 21:11:09",
+      "added_at": "2021-10-29 04:01:00",
       "album": {
-        "name": "Young Sick Camellia",
-        "url": "https://open.spotify.com/album/4EN9bVE0g7gUvQlNdPrUhL"
+        "name": "Starchild",
+        "url": "https://open.spotify.com/album/3qnWQRiiv8upClnaeZHTPx"
       },
       "artists": [
         {
-          "name": "St. Paul & The Broken Bones",
-          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
+          "name": "Common Saints",
+          "url": "https://open.spotify.com/artist/5UA8O7xDhZ74ebRYT0XOxB"
         }
       ],
-      "duration_ms": 290422,
-      "name": "GotItBad",
-      "url": "https://open.spotify.com/track/59s5vTB8LNV4tyZPp9HM3f"
+      "duration_ms": 231853,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/1Wntxxt7R2mwfa4bDfAa5h"
     },
     {
       "added_at": "2023-07-11 18:58:28",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2021-07-13 21:11:09",
       "album": {
-        "name": "Ice Cream & Cigarettes",
-        "url": "https://open.spotify.com/album/0UQLBWKz03PwXhVUocA0Ir"
-      },
-      "artists": [
-        {
-          "name": "Million Miles",
-          "url": "https://open.spotify.com/artist/3exZi47Gf3ZlXjKbvLp5Wm"
-        }
-      ],
-      "duration_ms": 172240,
-      "name": "Ice Cream & Cigarettes",
-      "url": "https://open.spotify.com/track/7Bntt8rWxHqZ8HB0BTC7Tx"
-    },
-    {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
         "name": "Queen Alone",
         "url": "https://open.spotify.com/album/6k2kl7wWK57baFDPkpN9It"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 137320,
       "name": "In Love (Don't Mess Things Up)",
       "url": "https://open.spotify.com/track/4SgWwPLqJ08Y1HuoIpFJX4"
+    },
+    {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
+        "name": "Ice Cream & Cigarettes",
+        "url": "https://open.spotify.com/album/0UQLBWKz03PwXhVUocA0Ir"
+      },
+      "artists": [
+        {
+          "name": "Million Miles",
+          "url": "https://open.spotify.com/artist/3exZi47Gf3ZlXjKbvLp5Wm"
+        }
+      ],
+      "duration_ms": 172240,
+      "name": "Ice Cream & Cigarettes",
+      "url": "https://open.spotify.com/track/7Bntt8rWxHqZ8HB0BTC7Tx"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -1501,22 +1501,6 @@
       "url": "https://open.spotify.com/track/2tiq10rhGegBQmBa81etVS"
     },
     {
-      "added_at": "2021-10-01 04:02:00",
-      "album": {
-        "name": "Sound & Color (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5CNzzqPfB7fho8J4vG37jE"
-      },
-      "artists": [
-        {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
-        }
-      ],
-      "duration_ms": 199026,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/41xg3SjdwFyAp0kao72944"
-    },
-    {
       "added_at": "2023-07-14 04:01:00",
       "album": {
         "name": "Wait Til I Get Over",
@@ -1531,6 +1515,22 @@
       "duration_ms": 204024,
       "name": "See It Through",
       "url": "https://open.spotify.com/track/1tqFGTmcaNNusdArPOU0kj"
+    },
+    {
+      "added_at": "2021-10-01 04:02:00",
+      "album": {
+        "name": "Sound & Color (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5CNzzqPfB7fho8J4vG37jE"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "duration_ms": 199026,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/41xg3SjdwFyAp0kao72944"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -1569,22 +1569,6 @@
       "url": "https://open.spotify.com/track/0XXgkLA2n6wpTlMG3V3VDm"
     },
     {
-      "added_at": "2023-12-13 17:43:50",
-      "album": {
-        "name": "Woman",
-        "url": "https://open.spotify.com/album/5EDZmK0jbWRF7OmgilvMZ8"
-      },
-      "artists": [
-        {
-          "name": "Lady Blackbird",
-          "url": "https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ"
-        }
-      ],
-      "duration_ms": 182821,
-      "name": "Woman (Single Edit)",
-      "url": "https://open.spotify.com/track/3tW5b01kiWfMJKQWddwPNl"
-    },
-    {
       "added_at": "2021-07-13 21:11:09",
       "album": {
         "name": "I Need You",
@@ -1599,6 +1583,22 @@
       "duration_ms": 204500,
       "name": "I Need You",
       "url": "https://open.spotify.com/track/71xdcSZMYmrBzw0RVnvJEF"
+    },
+    {
+      "added_at": "2023-12-13 17:43:50",
+      "album": {
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/5EDZmK0jbWRF7OmgilvMZ8"
+      },
+      "artists": [
+        {
+          "name": "Lady Blackbird",
+          "url": "https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ"
+        }
+      ],
+      "duration_ms": 182821,
+      "name": "Woman (Single Edit)",
+      "url": "https://open.spotify.com/track/3tW5b01kiWfMJKQWddwPNl"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -1697,10 +1697,10 @@
       "url": "https://open.spotify.com/track/5GS1ESaSAh0SgOYvmHwhY3"
     },
     {
-      "added_at": "2022-12-13 18:45:33",
+      "added_at": "2021-10-08 04:01:00",
       "album": {
-        "name": "Young Sick Camellia",
-        "url": "https://open.spotify.com/album/4EN9bVE0g7gUvQlNdPrUhL"
+        "name": "The Alien Coast",
+        "url": "https://open.spotify.com/album/07dZWmAaFk2XJfdKeUwadb"
       },
       "artists": [
         {
@@ -1708,9 +1708,9 @@
           "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
         }
       ],
-      "duration_ms": 328291,
-      "name": "LivWithoutU",
-      "url": "https://open.spotify.com/track/702LH54iFxKCFPVsBNZdvA"
+      "duration_ms": 204548,
+      "name": "The Last Dance",
+      "url": "https://open.spotify.com/track/1dy31zSEQsyAv4HVKRmUOB"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -1727,26 +1727,6 @@
       "duration_ms": 277675,
       "name": "Empty Me Out",
       "url": "https://open.spotify.com/track/3xEx3xxA06MuO4SGZ4jrkV"
-    },
-    {
-      "added_at": "2021-08-27 04:01:00",
-      "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/6K8Xupp1HuUFp3qNSJfTNE"
-      },
-      "artists": [
-        {
-          "name": "Vella",
-          "url": "https://open.spotify.com/artist/5YvpNhcfN0WZBg20nGItwH"
-        },
-        {
-          "name": "Macy Gray",
-          "url": "https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa"
-        }
-      ],
-      "duration_ms": 217022,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/65sa0neBH78VDdpcnze68p"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -1767,6 +1747,26 @@
       "duration_ms": 195350,
       "name": "More",
       "url": "https://open.spotify.com/track/7BX9aFLw77aY1bEWXvCSu4"
+    },
+    {
+      "added_at": "2021-08-27 04:01:00",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/6K8Xupp1HuUFp3qNSJfTNE"
+      },
+      "artists": [
+        {
+          "name": "Vella",
+          "url": "https://open.spotify.com/artist/5YvpNhcfN0WZBg20nGItwH"
+        },
+        {
+          "name": "Macy Gray",
+          "url": "https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa"
+        }
+      ],
+      "duration_ms": 217022,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/65sa0neBH78VDdpcnze68p"
     },
     {
       "added_at": "2023-12-13 17:43:50",
@@ -1821,22 +1821,6 @@
       "url": "https://open.spotify.com/track/65vtwc4JSGhKZJTV0Nhs3W"
     },
     {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
-        "name": "The Weather Below",
-        "url": "https://open.spotify.com/album/0LNptdDZnvpzieHAW7hsXE"
-      },
-      "artists": [
-        {
-          "name": "Sister Sparrow",
-          "url": "https://open.spotify.com/artist/5kah03Pzp6s8eD8vRIhdfL"
-        }
-      ],
-      "duration_ms": 182213,
-      "name": "Sugar",
-      "url": "https://open.spotify.com/track/1THXgalXpkfvIPlxp6U05K"
-    },
-    {
       "added_at": "2023-12-13 17:43:50",
       "album": {
         "name": "If You Don't Want My Love",
@@ -1851,6 +1835,22 @@
       "duration_ms": 146813,
       "name": "If You Don't Want My Love",
       "url": "https://open.spotify.com/track/3fPBXNuHlH4N3hmiEzK5y0"
+    },
+    {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
+        "name": "The Weather Below",
+        "url": "https://open.spotify.com/album/0LNptdDZnvpzieHAW7hsXE"
+      },
+      "artists": [
+        {
+          "name": "Sister Sparrow",
+          "url": "https://open.spotify.com/artist/5kah03Pzp6s8eD8vRIhdfL"
+        }
+      ],
+      "duration_ms": 182213,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/1THXgalXpkfvIPlxp6U05K"
     },
     {
       "added_at": "2021-07-13 21:11:09",

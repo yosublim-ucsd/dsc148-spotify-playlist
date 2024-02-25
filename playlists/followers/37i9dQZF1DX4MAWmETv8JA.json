@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 38513,
+  "2024-02-25": 38524,
   "date_first_scraped": "2022-06-15",
   "description": "O melhor do trance feito na Am\u00e9rica Latina / Lo mejor del trance latino. Foto: Delta Species, Middle-D",
   "name": "Trance Latino",
@@ -500,6 +500,24 @@
     },
     {
       "album": {
+        "name": "Eternal Journey",
+        "url": "https://open.spotify.com/album/7pkiEpehSYaJ5u85O9R4e0"
+      },
+      "artists": [
+        {
+          "name": "Adalamoon",
+          "url": "https://open.spotify.com/artist/5UWvbKaUYy38G6HyKQXhpu"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241655,
+      "name": "Eternal Journey",
+      "url": "https://open.spotify.com/track/0XHhJTb7gJY59PB4Hae04T"
+    },
+    {
+      "album": {
         "name": "Feel Good",
         "url": "https://open.spotify.com/album/14NuMpUK7CZbe3nsN7rJfV"
       },
@@ -833,6 +851,32 @@
       "duration_ms": 157169,
       "name": "Interlude - Shapeless Remix",
       "url": "https://open.spotify.com/track/3HfUAWHIjzfNzlbfdvIyx4"
+    },
+    {
+      "album": {
+        "name": "Invas\u00e3o",
+        "url": "https://open.spotify.com/album/3GrLbOjidmPC5k445eUAm4"
+      },
+      "artists": [
+        {
+          "name": "Chapeleiro",
+          "url": "https://open.spotify.com/artist/5M5NrRoOEBa49sW1hzKkuH"
+        },
+        {
+          "name": "Henrique Camacho",
+          "url": "https://open.spotify.com/artist/2NTtIgPZyELENThAeqfvR6"
+        },
+        {
+          "name": "Dudiish",
+          "url": "https://open.spotify.com/artist/4w1x0xqhvGO85K7JrW30Cd"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370762,
+      "name": "Invas\u00e3o",
+      "url": "https://open.spotify.com/track/3aM0X4mIjJpv1ksvhL8s0k"
     },
     {
       "album": {

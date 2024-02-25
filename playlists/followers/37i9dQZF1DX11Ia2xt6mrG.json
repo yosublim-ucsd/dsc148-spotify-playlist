@@ -1,9 +1,31 @@
 {
-  "2024-02-24": 56046,
+  "2024-02-25": 56060,
   "date_first_scraped": "2022-05-13",
-  "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Lex en portada.",
-  "name": "mint MX",
+  "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Jasiel Nu\u00f1ez en portada.",
+  "name": "madEDM\u00e9xico",
   "tracks": [
+    {
+      "album": {
+        "name": "(PARTE 2)",
+        "url": "https://open.spotify.com/album/6lKwb3qZXYHFaMrYki8YLF"
+      },
+      "artists": [
+        {
+          "name": "Ricardoypunto",
+          "url": "https://open.spotify.com/artist/1nS9lhkJRnyW71qqzOtnBI"
+        },
+        {
+          "name": "Mxgro",
+          "url": "https://open.spotify.com/artist/1Tl2hqu6uFc3kn5SpaCzEv"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193560,
+      "name": "(re)PERCUSIONES",
+      "url": "https://open.spotify.com/track/3WWWomS7Cgxie3eusCD6va"
+    },
     {
       "album": {
         "name": "Addicted",
@@ -233,7 +255,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 255500,
       "name": "Baby 'O",
       "url": "https://open.spotify.com/track/6GA3AQKqCvdzfsqNFGfbrL"
@@ -752,6 +774,24 @@
     },
     {
       "album": {
+        "name": "CONVOY",
+        "url": "https://open.spotify.com/album/6d88bUgoIVyrLYTDegm5VM"
+      },
+      "artists": [
+        {
+          "name": "Barovier",
+          "url": "https://open.spotify.com/artist/4R1nd0QT6rtLh6KKWKXeQh"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156656,
+      "name": "CONVOY",
+      "url": "https://open.spotify.com/track/6RgJngxL83fbyYg6mXAwSu"
+    },
+    {
+      "album": {
         "name": "Covalent Bond",
         "url": "https://open.spotify.com/album/5jZ5hLf3m4UenDBUFjfsNK"
       },
@@ -1112,6 +1152,24 @@
     },
     {
       "album": {
+        "name": "Yo Solo Quiero Que Me Quieras Como Yo Te Quiero",
+        "url": "https://open.spotify.com/album/4vrVL0ZOhpliCIobNqIfzu"
+      },
+      "artists": [
+        {
+          "name": "Sandro Malandro",
+          "url": "https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204945,
+      "name": "D\u00f3nde Andar\u00e1s - USB GAD Remix",
+      "url": "https://open.spotify.com/track/57mBuT1W5NyxYShuapIlny"
+    },
+    {
+      "album": {
         "name": "El Bass",
         "url": "https://open.spotify.com/album/6DUQATiBCcvw1AIqKWeubX"
       },
@@ -1247,7 +1305,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 167500,
       "name": "Empty Words",
       "url": "https://open.spotify.com/track/2MsiOygSrbmia1mSUD8xQn"
@@ -1331,7 +1389,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 172800,
       "name": "Esto Aqui No Acaba",
       "url": "https://open.spotify.com/track/2RhdFJWmhclYdUFifWIh4q"
@@ -1819,7 +1877,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 228907,
       "name": "Huellas",
       "url": "https://open.spotify.com/track/6GmNKFbiPwZJ01fYkBeToB"
@@ -2059,7 +2117,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 222000,
       "name": "Just Leave The Past Behind - Human Version",
       "url": "https://open.spotify.com/track/3KFjNp9m5fDzNpmoBkndMq"
@@ -2981,7 +3039,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 181726,
       "name": "No Vas A Volver",
       "url": "https://open.spotify.com/track/3GxgAU7u9bwmfnaIWvk57p"
@@ -3745,10 +3803,32 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 174420,
       "name": "Ra Ta Ta - LNY TNZ Remix",
       "url": "https://open.spotify.com/track/6vWmJH7KvTMT9YKWnsocZl"
+    },
+    {
+      "album": {
+        "name": "RAYBEN CAP 6: EL DANZ\u00d3N",
+        "url": "https://open.spotify.com/album/2Z7qHRKHMTKTV5cX0juLnh"
+      },
+      "artists": [
+        {
+          "name": "RAYBEN",
+          "url": "https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47"
+        },
+        {
+          "name": "El HueyCoyote",
+          "url": "https://open.spotify.com/artist/3FP0UgKEa2aprodn6KboaK"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142677,
+      "name": "RAYBEN CAP 6: EL DANZ\u00d3N",
+      "url": "https://open.spotify.com/track/4n6JiKIrQ6ORMMYurmU2mr"
     },
     {
       "album": {
@@ -4138,6 +4218,24 @@
     },
     {
       "album": {
+        "name": "SET ME FREE",
+        "url": "https://open.spotify.com/album/167iL6gk3EYiBLDCuXzqG9"
+      },
+      "artists": [
+        {
+          "name": "Usb Gad",
+          "url": "https://open.spotify.com/artist/5vkRwmJS3T2WTuGF3Lzyj7"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209032,
+      "name": "SET ME FREE",
+      "url": "https://open.spotify.com/track/1USnsF4aH2dNH4lfVHIZTO"
+    },
+    {
+      "album": {
         "name": "Sexy Velocity",
         "url": "https://open.spotify.com/album/5iyQb5aoLeI01XMaU3GDRr"
       },
@@ -4219,6 +4317,32 @@
       "duration_ms": 160150,
       "name": "Sin Dormir (Ya Se Arm\u00f3)",
       "url": "https://open.spotify.com/track/7Jo6uG5846H37UrPuuLyO5"
+    },
+    {
+      "album": {
+        "name": "SIN MIRAR (Midnight Generation Remix)",
+        "url": "https://open.spotify.com/album/5SOIjOz7nVuNsix1KXBylg"
+      },
+      "artists": [
+        {
+          "name": "Solo Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM"
+        },
+        {
+          "name": "CLUBZ",
+          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
+        },
+        {
+          "name": "Midnight Generation",
+          "url": "https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292880,
+      "name": "SIN MIRAR - Midnight Generation Remix",
+      "url": "https://open.spotify.com/track/51KDO4YS0RVlHRt0qaYj6h"
     },
     {
       "album": {
@@ -4571,7 +4695,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 153750,
       "name": "Swap",
       "url": "https://open.spotify.com/track/45AsRwZTsI9sHCvP9ovFJD"
@@ -5109,6 +5233,46 @@
       "duration_ms": 142372,
       "name": "UP (Bzars Remix)",
       "url": "https://open.spotify.com/track/0emY0nAu2g2ExIHmb5TNCB"
+    },
+    {
+      "album": {
+        "name": "Vamps Season",
+        "url": "https://open.spotify.com/album/70DuYsKlsRvuuxFlFasDnw"
+      },
+      "artists": [
+        {
+          "name": "SASSY",
+          "url": "https://open.spotify.com/artist/56SfP2skcXw4lhtGyEcDez"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136551,
+      "name": "Vamps Season",
+      "url": "https://open.spotify.com/track/6HJI1j51EMT7g4vv1Dz8YN"
+    },
+    {
+      "album": {
+        "name": "Vino Rosa",
+        "url": "https://open.spotify.com/album/1nCaK6GQAZmvzGZuWeyeqz"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199384,
+      "name": "Vino Rosa",
+      "url": "https://open.spotify.com/track/3ena8KYMBtkIqBkDSXYaJd"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 505222,
+  "2024-02-25": 505416,
   "date_first_scraped": "2021-12-21",
   "description": "A new shade of Country. Cover: Kacey Musgraves \ud83c\udf3c",
   "name": "Indigo",
@@ -2395,7 +2395,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 192471,
       "name": "Denim & Diamonds",
       "url": "https://open.spotify.com/track/7jAw05wdvqQhKDtKnFOH93"
@@ -7407,6 +7407,24 @@
       "duration_ms": 255880,
       "name": "Scale These Walls",
       "url": "https://open.spotify.com/track/06nuTL9QddAcOzMd4S2497"
+    },
+    {
+      "album": {
+        "name": "Scared To Start",
+        "url": "https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39"
+      },
+      "artists": [
+        {
+          "name": "Michael Marcagi",
+          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159636,
+      "name": "Scared To Start",
+      "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
     },
     {
       "album": {

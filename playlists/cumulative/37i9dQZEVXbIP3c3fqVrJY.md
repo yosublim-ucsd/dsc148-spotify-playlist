@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Czech Republic.
 
-1,360 songs - 2 day 22 hr 6 min
+1,361 songs - 2 day 22 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -378,6 +378,7 @@
 | [FREE KARLO](https://open.spotify.com/track/2fsxqsypWqwKLwMEG5NFo0) | [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk), [Nik Tendo](https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h) | [FREE KARLO](https://open.spotify.com/album/6a65L18ax0PvDDNcersagp) | 3:24 | 2022-11-16 | 2022-11-19 |
 | [FREKVENCIA](https://open.spotify.com/track/0oaYDITh6PTG3xB68Fedfc) | [Gleb](https://open.spotify.com/artist/6P55YsIOHmgooCXGQXcSga) | [BIG BOY FM](https://open.spotify.com/album/5OGnfm44deocrWrNyRREF5) | 3:14 | 2022-06-21 | 2022-06-25 |
 | [Friday \(feat\. Mufasa & Hypeman\) \- Dopamine Re\-Edit](https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Nightcrawlers](https://open.spotify.com/artist/1gALaWbNDnwS2ECV09sn2A), [Mufasa & Hypeman](https://open.spotify.com/artist/4L2dV3zY7RmkeiNO035Fi0), [Dopamine](https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN) | [Friday \(feat\. Mufasa & Hypeman\) \[Dopamine Re\-Edit\]](https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j) | 2:49 | 2021-03-27\* | 2022-08-01 |
+| [Friendly Fire](https://open.spotify.com/track/1rAzOr3zpUDRtN2zsqGHiG) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Friendly Fire](https://open.spotify.com/album/601IEigQO3enlyrbn4SpNM) | 2:56 | 2024-02-24 |  |
 | [Frodo](https://open.spotify.com/track/58gAD4XPfVGhI68d5lPwaA) | [Smack](https://open.spotify.com/artist/7pbijUBmXdie5ChABSM4F7), [Huclberry](https://open.spotify.com/artist/0TugplS9T5YUowNlX8MRZt), [P\-Money](https://open.spotify.com/artist/2Q13jBmo9llBTWdgnZMzyS) | [END 2 END](https://open.spotify.com/album/05uDINMCU7mz3jsnris5CM) | 3:45 | 2023-10-06 | 2023-10-08 |
 | [Front 2 Back](https://open.spotify.com/track/21VhZw8GUbgWUD5SNwLPua) | [Mairee](https://open.spotify.com/artist/0e3qT2AqBNTqmo0d5OMzd6), [Manene](https://open.spotify.com/artist/7eKgZc26opM9g5oRiOOwlu) | [BACK 2 RAVE](https://open.spotify.com/album/70H5FZsAnpWZfLwZpJvogc) | 2:20 | 2022-05-01 | 2022-06-01 |
 | [Fuck Off](https://open.spotify.com/track/3kB6mWr36IETKr8NQkANwD) | [Milion Plus](https://open.spotify.com/artist/5nnHdjcmMZ0uDgAauJQyFE), [Nik Tendo](https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h), [Koky](https://open.spotify.com/artist/4JTacmomOV6ZmeAVHMkFOq), [Hasan](https://open.spotify.com/artist/2AHugDX8XYbm2SNxbvptQW), [Karlo](https://open.spotify.com/artist/6A7jNA1DlUaZPTg51DOyTC) | [Krtek Forever](https://open.spotify.com/album/1keVt8iUKPMJcKLHL07Oql) | 3:06 | 2023-06-10 | 2023-07-02 |
@@ -1190,7 +1191,7 @@
 | [Toxic](https://open.spotify.com/track/3M214U0mwSm041GsQR3nrO) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Serotonin Dreams](https://open.spotify.com/album/1I79ZTFJ5FVLwMYRWvhk73) | 2:48 | 2022-05-08 | 2022-05-10 |
 | [Tracey](https://open.spotify.com/track/7BGMmJpT7edoZ9HTxuL3x4) | [AJ Brix](https://open.spotify.com/artist/5qKmIjDNBJlvOEh95CDmsI) | [Tracey](https://open.spotify.com/album/6FeuQ9klbWSfmXUTtiI4ks) | 2:40 | 2022-08-05 | 2022-08-12 |
 | [Tracky a vlaky](https://open.spotify.com/track/47U1KYYi4FyOC2YFxDzi9g) | [58G](https://open.spotify.com/artist/5GIlebF5qgtR3ReGlgzn7U) | [CITY PARK](https://open.spotify.com/album/2kb2tNZjWv2Eq45Q3xzEHk) | 2:45 | 2022-10-14 | 2022-10-23 |
-| [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 | 2024-02-17 |  |
+| [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 | 2024-02-17 | 2024-02-25 |
 | [traitor](https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:49 | 2021-05-25 | 2021-06-03 |
 | [Trance \(with Travis Scott & Young Thug\)](https://open.spotify.com/track/5wG3HvLhF6Y5KTGlK0IW3J) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:14 | 2023-03-21 | 2023-03-30 |
 | [Traphouse](https://open.spotify.com/track/0rc4QASgHGFMLzeOKOfYtH) | [Ektor](https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF) | [Detektor III](https://open.spotify.com/album/2dDaIoHk0Wv18gYSVm1NMz) | 2:07 | 2023-02-21 | 2023-03-21 |

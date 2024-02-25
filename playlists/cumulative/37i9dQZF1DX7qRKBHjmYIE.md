@@ -4,7 +4,7 @@
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con Mica Sotera & Los Otros Días.
 
-668 songs - 1 day 12 hr 16 min
+669 songs - 1 day 12 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -472,6 +472,7 @@
 | [PARIS \*isolation mix\*](https://open.spotify.com/track/7ApGzjRyUioxD5GYN7zLmR) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP), [Tiziano Bianchi](https://open.spotify.com/artist/0cET0R0i8EvZwtZd1uVR4e) | [PARIS \*isolation mix\*](https://open.spotify.com/album/0ClIhHMkgsGZmfZ5EiRyK0) | 5:10 | 2021-12-02 | 2022-10-15 |
 | [Pasatiempo](https://open.spotify.com/track/0NaKMXTNQ30BrsMlWBd2Il) | [Mainou](https://open.spotify.com/artist/31S1KMlo2LvDYMF9iMisvo), [Renato Pontta](https://open.spotify.com/artist/6oVbi0udOyXIKTFANRGV2Z) | [Pasatiempo](https://open.spotify.com/album/3LVBUjw0oTUi51Y8lmRREK) | 3:16 | 2021-12-02 | 2022-07-29 |
 | [Pasatiempo](https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Línea Recta](https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL) | 3:02 | 2023-02-17 | 2023-08-26 |
+| [Patadas De Ahogado](https://open.spotify.com/track/6qz3M5feEJMJszEV75JCEO) | [Cupido](https://open.spotify.com/artist/4dLhakqpeWIymuJnoGTUfB) | [Patadas De Ahogado](https://open.spotify.com/album/7y2Tb1mkNXSmtrQID2gC56) | 2:56 | 2024-02-23 |  |
 | [pegao!!!](https://open.spotify.com/track/4PCtaOoTruCUJh0ufNFDxv) | [Esty](https://open.spotify.com/artist/5GRoRrY3Ug35hVuX3z5Rvq) | [Estyland EP](https://open.spotify.com/album/5ippOikp37VeZaOJBhsUCN) | 2:41 | 2022-03-18 | 2022-10-29 |
 | [Pelo Suelto](https://open.spotify.com/track/1qNxLFVArTx1apjahvwbgR) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Pelo Suelto](https://open.spotify.com/album/5GMwzpHmzwPY1qcd2psoYt) | 3:24 | 2023-08-25 | 2023-09-30 |
 | [Pensamientos Intrusivos](https://open.spotify.com/track/52x8HIGuk1gGTlvO8CuLNS) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [ORQUÍDEAS](https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo) | 3:12 | 2024-01-26 |  |
@@ -529,7 +530,7 @@
 | [Saturno](https://open.spotify.com/track/6WVyM0YxzmCKcsd5I0yXqV) | [Bumont](https://open.spotify.com/artist/2EYra2dvqBI9KNMQsb0RTa), [Tita](https://open.spotify.com/artist/5VUc3B1hoBWWwodjRD8JHp) | [Saturno](https://open.spotify.com/album/5r0C5WR4fPFwF7vo2sSmp6) | 3:40 | 2024-01-31 |  |
 | [Say It](https://open.spotify.com/track/6PyZGb1rB7oLKCICWTmGYa) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:40 | 2023-02-17 | 2023-03-09 |
 | [Say It Right](https://open.spotify.com/track/2aI21FnmY7TJVKeMaoQZ0t) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Loose](https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT) | 3:43 | 2022-01-24 | 2022-09-07 |
-| [Se Acaba \- Sinego Remix](https://open.spotify.com/track/1weqzj4OexIpfV2pNyPmqy) | [Adrie](https://open.spotify.com/artist/4RuSib7ZtJd4SI61XGkCto), [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb) | [Se Acaba \(Sinego Remix\)](https://open.spotify.com/album/6pmqgNHGZAqKyiUbdEynaT) | 6:21 | 2024-02-23 |  |
+| [Se Acaba \- Sinego Remix](https://open.spotify.com/track/1weqzj4OexIpfV2pNyPmqy) | [Adrie](https://open.spotify.com/artist/4RuSib7ZtJd4SI61XGkCto), [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb) | [Se Acaba \(Sinego Remix\)](https://open.spotify.com/album/6pmqgNHGZAqKyiUbdEynaT) | 6:21 | 2024-02-23 | 2024-02-25 |
 | [Selfish](https://open.spotify.com/track/71NBNju9KEg6G8qTi1Y0kA) | [Letón Pé](https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO) | [Rojo Rubí](https://open.spotify.com/album/0XteKwNr7uXZXz92CIE1Xe) | 2:25 | 2023-09-15 | 2023-12-19 |
 | [Sensei](https://open.spotify.com/track/2KZPFCkQWT7Wt6OS4bPaF6) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Sensei](https://open.spotify.com/album/4UmvMCp8mznPpqY65qKz5X) | 2:54 | 2023-02-17 | 2023-07-22 |
 | [Serotonina](https://open.spotify.com/track/0z6PsOx006lQADQl3gB5YC) | [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Serotonina](https://open.spotify.com/album/6D6hmtCKwlBSD5gqxUUMiP) | 2:54 | 2023-02-17 | 2023-04-14 |

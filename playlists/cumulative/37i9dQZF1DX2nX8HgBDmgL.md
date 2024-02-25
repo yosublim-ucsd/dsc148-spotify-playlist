@@ -4,7 +4,7 @@
 
 > Home to the Desi Pop Bops\. Cover \- Asim Azhar\. For more desi bangers check out <a href="https://open.spotify.com/playlist/37i9dQZF1DWTwzVdyRpXm1?si=b23337fc53aa44fa">Desi Hits</a>.
 
-198 songs - 10 hr 36 min
+199 songs - 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,6 +205,7 @@
 | [Ykwim](https://open.spotify.com/track/6qS40yL7kXVoChI8SSCQIQ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Mehar Vaani](https://open.spotify.com/artist/1292Fb98poF6N9aEk9oibw) | [Ykwim](https://open.spotify.com/album/14XBYP5RcavbvSREiaQ17V) | 3:14 | 2022-07-18 | 2024-02-23 |
 | [Your Love](https://open.spotify.com/track/1E3uueAFlrPTWaInzUUHtg) | [Khanvict](https://open.spotify.com/artist/3XjXhRHZjamOXeraqTWff7) | [Your Love](https://open.spotify.com/album/1iDJsBJEJSMUqutPcRsauk) | 3:17 | 2022-08-08 | 2024-02-23 |
 | [YTL Yaar Tera LIT](https://open.spotify.com/track/0FOttmcxs2gtOhUHB9SmM3) | [Mickey Singh](https://open.spotify.com/artist/3KDhyMTFZlrfAO0zK18z4t) | [YTL \- Yaar Tera LIT](https://open.spotify.com/album/1exeRQTKTvIdDywk5jCWud) | 3:25 | 2021-11-11 | 2022-07-19 |
+| [Zaalim](https://open.spotify.com/track/5DOaPukCbcKwSAtIhRx6wf) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Payal Dev](https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7), [Nora Fatehi](https://open.spotify.com/artist/76jfMJlfNPQsOBblO0ZaEA) | [Zaalim](https://open.spotify.com/album/22WXefSLreKNa55EROGObB) | 2:49 | 2024-02-24 |  |
 | [Zaalima](https://open.spotify.com/track/0U8xGuKNtRz2PWVGaLjJ8V) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Shahmeer Raza Khan](https://open.spotify.com/artist/6j3aIgBaZMbcAJuTjGhhoK) | [Zaalima](https://open.spotify.com/album/6YBXUtfQswWm7xKGSEyVc5) | 3:02 | 2024-02-22 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

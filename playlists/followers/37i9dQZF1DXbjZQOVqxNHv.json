@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 117798,
+  "2024-02-25": 117876,
   "date_first_scraped": "2022-05-30",
   "description": "All the Intelligent Dance Music you'll need (not necessarily to dance to). Aphex Twin on cover.",
   "name": "IDM Essentials",
@@ -7798,6 +7798,24 @@
     },
     {
       "album": {
+        "name": "Beat Excursions #5",
+        "url": "https://open.spotify.com/album/1mUhc7oI3dbwT6ZuukrAnk"
+      },
+      "artists": [
+        {
+          "name": "Kabuki",
+          "url": "https://open.spotify.com/artist/7eRc93g1wju97Og3KYVsEB"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316097,
+      "name": "Shimmer",
+      "url": "https://open.spotify.com/track/42GvOywB5T4YfcI1arQ8M7"
+    },
+    {
+      "album": {
         "name": "Advance",
         "url": "https://open.spotify.com/album/1UNThIdbVUt5DJAA4marps"
       },
@@ -7903,7 +7921,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 257293,
       "name": "Sing My Spring - Isan\u00b4s Catena Mix",
       "url": "https://open.spotify.com/track/5XvhMvZPQgb5xvpbuXYShW"

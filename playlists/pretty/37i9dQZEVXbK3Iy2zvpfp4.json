@@ -6,10 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzYyMDUyODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzYyMTM5MjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2024-02-23 15:08:17",
+      "added_at": "2024-02-24 14:36:51",
       "album": {
         "name": "DECIDE",
         "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
     },
     {
-      "added_at": "2024-02-23 15:08:17",
+      "added_at": "2024-02-24 14:36:51",
       "album": {
         "name": "Praise Jah In The Moonlight",
         "url": "https://open.spotify.com/album/3BicSFhksEP3QHanmBM1Wd"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9"
     },
     {
-      "added_at": "2024-02-23 15:08:17",
+      "added_at": "2024-02-24 14:36:51",
       "album": {
         "name": "Soaked",
         "url": "https://open.spotify.com/album/6cd80qsoUsGCmHasCswGhW"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/65zIby9Z03d1bhGvLNJNrA"
     },
     {
-      "added_at": "2024-02-23 15:08:17",
+      "added_at": "2024-02-24 14:36:51",
       "album": {
         "name": "Kutkotronic Flow",
         "url": "https://open.spotify.com/album/5MAJ7rL1pLxTJDGp7YMJuf"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/3wFPbAVoFclDn2NJ6yWow0"
     },
     {
-      "added_at": "2024-02-23 15:08:17",
+      "added_at": "2024-02-24 14:36:51",
       "album": {
         "name": "Ghetto Fabulous",
         "url": "https://open.spotify.com/album/2D1j7mjB55lvygjMmYgTYT"
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C"
     },
     {
-      "added_at": "2024-02-23 15:08:17",
+      "added_at": "2024-02-24 14:36:51",
       "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl"
@@ -105,55 +105,7 @@
       "url": "https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK"
     },
     {
-      "added_at": "2024-02-23 15:08:17",
-      "album": {
-        "name": "Beautiful Things",
-        "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 180304,
-      "name": "Beautiful Things",
-      "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
-    },
-    {
-      "added_at": "2024-02-23 15:08:17",
-      "album": {
-        "name": "Live @ Need 4 Beat",
-        "url": "https://open.spotify.com/album/0fmNrkBP5fAqgWqf6ID6Jl"
-      },
-      "artists": [
-        {
-          "name": "CheapeX",
-          "url": "https://open.spotify.com/artist/23UUsIhRcUSiJ9zazaIjiU"
-        }
-      ],
-      "duration_ms": 990928,
-      "name": "Live @ Need 4 Beat",
-      "url": "https://open.spotify.com/track/2O6fZ1UQeoH7DrmeUbYmWc"
-    },
-    {
-      "added_at": "2024-02-23 15:08:17",
-      "album": {
-        "name": "Bling-Bang-Bang-Born",
-        "url": "https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6"
-      },
-      "artists": [
-        {
-          "name": "Creepy Nuts",
-          "url": "https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE"
-        }
-      ],
-      "duration_ms": 168135,
-      "name": "Bling-Bang-Bang-Born",
-      "url": "https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG"
-    },
-    {
-      "added_at": "2024-02-23 15:08:17",
+      "added_at": "2024-02-24 14:36:51",
       "album": {
         "name": "Unwritten",
         "url": "https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL"
@@ -169,7 +121,75 @@
       "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
     },
     {
-      "added_at": "2024-02-23 15:08:17",
+      "added_at": "2024-02-24 14:36:51",
+      "album": {
+        "name": "Beautiful Things",
+        "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 180304,
+      "name": "Beautiful Things",
+      "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
+    },
+    {
+      "added_at": "2024-02-24 14:36:51",
+      "album": {
+        "name": "Live @ Need 4 Beat",
+        "url": "https://open.spotify.com/album/0fmNrkBP5fAqgWqf6ID6Jl"
+      },
+      "artists": [
+        {
+          "name": "CheapeX",
+          "url": "https://open.spotify.com/artist/23UUsIhRcUSiJ9zazaIjiU"
+        }
+      ],
+      "duration_ms": 990928,
+      "name": "Live @ Need 4 Beat",
+      "url": "https://open.spotify.com/track/2O6fZ1UQeoH7DrmeUbYmWc"
+    },
+    {
+      "added_at": "2024-02-24 14:36:51",
+      "album": {
+        "name": "Bling-Bang-Bang-Born",
+        "url": "https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6"
+      },
+      "artists": [
+        {
+          "name": "Creepy Nuts",
+          "url": "https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE"
+        }
+      ],
+      "duration_ms": 168135,
+      "name": "Bling-Bang-Bang-Born",
+      "url": "https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG"
+    },
+    {
+      "added_at": "2024-02-24 14:36:51",
+      "album": {
+        "name": "SKEETER",
+        "url": "https://open.spotify.com/album/67cert3BRIaXt0PgGV9VmC"
+      },
+      "artists": [
+        {
+          "name": "Marko Damian",
+          "url": "https://open.spotify.com/artist/7AqU9NR1gQwKApJyxxTC0z"
+        },
+        {
+          "name": "Viktor Sheen",
+          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
+        }
+      ],
+      "duration_ms": 160360,
+      "name": "Lovesick",
+      "url": "https://open.spotify.com/track/3XVPhuF6FdaK25OfW4ljzz"
+    },
+    {
+      "added_at": "2024-02-24 14:36:51",
       "album": {
         "name": "Poison (Hazbin Hotel Original Soundtrack)",
         "url": "https://open.spotify.com/album/6dB85sDBpcpU4s5kwU7etB"
@@ -193,7 +213,7 @@
       "url": "https://open.spotify.com/track/6ZXL1A1BVshe1JZ1IY734k"
     },
     {
-      "added_at": "2024-02-23 15:08:17",
+      "added_at": "2024-02-24 14:36:51",
       "album": {
         "name": "Gangster",
         "url": "https://open.spotify.com/album/0OExuZI0PvSakCNVCyujbE"
@@ -209,7 +229,7 @@
       "url": "https://open.spotify.com/track/67WqF7aOqgsjjPdspYpn18"
     },
     {
-      "added_at": "2024-02-23 15:08:17",
+      "added_at": "2024-02-24 14:36:51",
       "album": {
         "name": "never was much of a poet",
         "url": "https://open.spotify.com/album/2EjHr19a9VGJpaG66qubvX"
@@ -225,27 +245,7 @@
       "url": "https://open.spotify.com/track/6fYhVvZTKt35QHSKUadh1H"
     },
     {
-      "added_at": "2024-02-23 15:08:17",
-      "album": {
-        "name": "SKEETER",
-        "url": "https://open.spotify.com/album/67cert3BRIaXt0PgGV9VmC"
-      },
-      "artists": [
-        {
-          "name": "Marko Damian",
-          "url": "https://open.spotify.com/artist/7AqU9NR1gQwKApJyxxTC0z"
-        },
-        {
-          "name": "Viktor Sheen",
-          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
-        }
-      ],
-      "duration_ms": 160360,
-      "name": "Lovesick",
-      "url": "https://open.spotify.com/track/3XVPhuF6FdaK25OfW4ljzz"
-    },
-    {
-      "added_at": "2024-02-23 15:08:17",
+      "added_at": "2024-02-24 14:36:51",
       "album": {
         "name": "Stumblin' In",
         "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
@@ -261,23 +261,7 @@
       "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
     },
     {
-      "added_at": "2024-02-23 15:08:17",
-      "album": {
-        "name": "Mood (Melodic Drill Type Beat)",
-        "url": "https://open.spotify.com/album/1WYmie6CFP8MCAmGLSiiru"
-      },
-      "artists": [
-        {
-          "name": "Drilland",
-          "url": "https://open.spotify.com/artist/1qYNVX9vVfTR5orzCtzaSz"
-        }
-      ],
-      "duration_ms": 208285,
-      "name": "Mood - Melodic Drill Type Beat",
-      "url": "https://open.spotify.com/track/6TPPliWfts1e9RJ7s7nXjm"
-    },
-    {
-      "added_at": "2024-02-23 15:08:17",
+      "added_at": "2024-02-24 14:36:51",
       "album": {
         "name": "Blaue Monarchie, Vol.3",
         "url": "https://open.spotify.com/album/6clw5tbvf7KHa0NuT2DWDu"
@@ -293,7 +277,7 @@
       "url": "https://open.spotify.com/track/38H4YiyRNiLMo1DFFXCf4d"
     },
     {
-      "added_at": "2024-02-23 15:08:17",
+      "added_at": "2024-02-24 14:36:51",
       "album": {
         "name": "Hazbin Hotel (Original Soundtrack)",
         "url": "https://open.spotify.com/album/2EOqRNsJiNb7IFLktJBZpq"
@@ -321,7 +305,7 @@
       "url": "https://open.spotify.com/track/6zJjw0iXY0aMBEUyCG1NsA"
     },
     {
-      "added_at": "2024-02-23 15:08:17",
+      "added_at": "2024-02-24 14:36:51",
       "album": {
         "name": "Vagy Mindent Vagy Semmit",
         "url": "https://open.spotify.com/album/3yzr3LxESMVFNQbz5qZIrH"
@@ -337,43 +321,7 @@
       "url": "https://open.spotify.com/track/2zIijzos3rNY6DkvX2ZYDX"
     },
     {
-      "added_at": "2024-02-23 15:08:17",
-      "album": {
-        "name": "Vagy Mindent Vagy Semmit",
-        "url": "https://open.spotify.com/album/3yzr3LxESMVFNQbz5qZIrH"
-      },
-      "artists": [
-        {
-          "name": "Pog\u00e1ny Indul\u00f3",
-          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
-        },
-        {
-          "name": "Parno Graszt",
-          "url": "https://open.spotify.com/artist/5hBCfYFEDK8otrksMYuzoL"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Sz\u00e9kelykapu",
-      "url": "https://open.spotify.com/track/13EtEH0X61xnyEChVmeb2Q"
-    },
-    {
-      "added_at": "2024-02-23 15:08:17",
-      "album": {
-        "name": "american dream",
-        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
-      },
-      "artists": [
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 270697,
-      "name": "redrum",
-      "url": "https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh"
-    },
-    {
-      "added_at": "2024-02-23 15:08:17",
+      "added_at": "2024-02-24 14:36:51",
       "album": {
         "name": "Made in Romeni\u00e1 (Sahmiir Officiall Remix)",
         "url": "https://open.spotify.com/album/2Kn8N2Et2cb3xny4jjBuBy"
@@ -393,43 +341,59 @@
       "url": "https://open.spotify.com/track/3Er2CGuUZlGKQ1puctyYsB"
     },
     {
-      "added_at": "2024-02-23 15:08:17",
+      "added_at": "2024-02-24 14:36:51",
       "album": {
-        "name": "PM",
-        "url": "https://open.spotify.com/album/34kbDQU2UYbxAu9D2tfuC7"
+        "name": "Mood (Melodic Drill Type Beat)",
+        "url": "https://open.spotify.com/album/1WYmie6CFP8MCAmGLSiiru"
       },
       "artists": [
         {
-          "name": "Beachcrimes",
-          "url": "https://open.spotify.com/artist/5xWycgZa4Oul2kU6o1QVo7"
+          "name": "Drilland",
+          "url": "https://open.spotify.com/artist/1qYNVX9vVfTR5orzCtzaSz"
+        }
+      ],
+      "duration_ms": 208285,
+      "name": "Mood - Melodic Drill Type Beat",
+      "url": "https://open.spotify.com/track/6TPPliWfts1e9RJ7s7nXjm"
+    },
+    {
+      "added_at": "2024-02-24 14:36:51",
+      "album": {
+        "name": "american dream",
+        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 270697,
+      "name": "redrum",
+      "url": "https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh"
+    },
+    {
+      "added_at": "2024-02-24 14:36:51",
+      "album": {
+        "name": "Vagy Mindent Vagy Semmit",
+        "url": "https://open.spotify.com/album/3yzr3LxESMVFNQbz5qZIrH"
+      },
+      "artists": [
+        {
+          "name": "Pog\u00e1ny Indul\u00f3",
+          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
         },
         {
-          "name": "Tia Tia",
-          "url": "https://open.spotify.com/artist/6fbIkBK4DW2IPnlKk9MLWS"
+          "name": "Parno Graszt",
+          "url": "https://open.spotify.com/artist/5hBCfYFEDK8otrksMYuzoL"
         }
       ],
-      "duration_ms": 214349,
-      "name": "Elevator",
-      "url": "https://open.spotify.com/track/2rphJ6C6aQMpKm1ObzQTRS"
+      "duration_ms": 170000,
+      "name": "Sz\u00e9kelykapu",
+      "url": "https://open.spotify.com/track/13EtEH0X61xnyEChVmeb2Q"
     },
     {
-      "added_at": "2024-02-23 15:08:17",
-      "album": {
-        "name": "Meet The Lilithz",
-        "url": "https://open.spotify.com/album/4zt5xMdHGm4BcNURi2YmW5"
-      },
-      "artists": [
-        {
-          "name": "Lilithzplug",
-          "url": "https://open.spotify.com/artist/2YVybYBfG1kXdtori5aUMo"
-        }
-      ],
-      "duration_ms": 126481,
-      "name": "CLEARED - Remix",
-      "url": "https://open.spotify.com/track/54L7uacUGRkvoLokUlNWfH"
-    },
-    {
-      "added_at": "2024-02-23 15:08:17",
+      "added_at": "2024-02-24 14:36:51",
       "album": {
         "name": "Hazbin Hotel (Original Soundtrack)",
         "url": "https://open.spotify.com/album/2EOqRNsJiNb7IFLktJBZpq"
@@ -461,23 +425,7 @@
       "url": "https://open.spotify.com/track/4Po97bPnn3ISdEkuJBMt2f"
     },
     {
-      "added_at": "2024-02-23 15:08:17",
-      "album": {
-        "name": "Never Lose Me",
-        "url": "https://open.spotify.com/album/4K5YnziH8o3NoEsxv8zviL"
-      },
-      "artists": [
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 125901,
-      "name": "Never Lose Me",
-      "url": "https://open.spotify.com/track/6uTPdRrEDeH8Fyg5L5qmeU"
-    },
-    {
-      "added_at": "2024-02-23 15:08:17",
+      "added_at": "2024-02-24 14:36:51",
       "album": {
         "name": "Hazbin Hotel (Original Soundtrack)",
         "url": "https://open.spotify.com/album/2EOqRNsJiNb7IFLktJBZpq"
@@ -505,7 +453,87 @@
       "url": "https://open.spotify.com/track/6Ux7hThoEVu7V0YmmZqunV"
     },
     {
-      "added_at": "2024-02-23 15:08:17",
+      "added_at": "2024-02-24 14:36:51",
+      "album": {
+        "name": "Never Lose Me",
+        "url": "https://open.spotify.com/album/4K5YnziH8o3NoEsxv8zviL"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 125901,
+      "name": "Never Lose Me",
+      "url": "https://open.spotify.com/track/6uTPdRrEDeH8Fyg5L5qmeU"
+    },
+    {
+      "added_at": "2024-02-24 14:36:51",
+      "album": {
+        "name": "Shik Shak Shok (Remastered)",
+        "url": "https://open.spotify.com/album/0HExOi4eGlOnV36kY0aqJq"
+      },
+      "artists": [
+        {
+          "name": "Hassan Abou Seoud",
+          "url": "https://open.spotify.com/artist/7g4J1MFlUtDs117ACUxoUu"
+        }
+      ],
+      "duration_ms": 333506,
+      "name": "Shik Shak Shok - Remastered",
+      "url": "https://open.spotify.com/track/7iT3T5K9J8MfxjigwzpRkK"
+    },
+    {
+      "added_at": "2024-02-24 14:36:51",
+      "album": {
+        "name": "Lifetime",
+        "url": "https://open.spotify.com/album/0CjVrbnz8839PBl5E6b17H"
+      },
+      "artists": [
+        {
+          "name": "Tobiahs",
+          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
+        }
+      ],
+      "duration_ms": 158822,
+      "name": "Lifetime",
+      "url": "https://open.spotify.com/track/1oH6oeK8iKeRL9VTQY5w2r"
+    },
+    {
+      "added_at": "2024-02-24 14:36:51",
+      "album": {
+        "name": "Meet The Lilithz",
+        "url": "https://open.spotify.com/album/4zt5xMdHGm4BcNURi2YmW5"
+      },
+      "artists": [
+        {
+          "name": "Lilithzplug",
+          "url": "https://open.spotify.com/artist/2YVybYBfG1kXdtori5aUMo"
+        }
+      ],
+      "duration_ms": 126481,
+      "name": "CLEARED - Remix",
+      "url": "https://open.spotify.com/track/54L7uacUGRkvoLokUlNWfH"
+    },
+    {
+      "added_at": "2024-02-24 14:36:51",
+      "album": {
+        "name": "Oh No :: He Said What?",
+        "url": "https://open.spotify.com/album/4kT2KzTC4GE1AEqAQx5BnO"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 228138,
+      "name": "Oh No :: He Said What?",
+      "url": "https://open.spotify.com/track/7Gk8icymiW50sDfFbWLoVG"
+    },
+    {
+      "added_at": "2024-02-24 14:36:51",
       "album": {
         "name": "Hazbin Hotel (Original Soundtrack)",
         "url": "https://open.spotify.com/album/2EOqRNsJiNb7IFLktJBZpq"
@@ -541,55 +569,7 @@
       "url": "https://open.spotify.com/track/2h4MTQZP8quVwuwrtIPErD"
     },
     {
-      "added_at": "2024-02-23 15:08:17",
-      "album": {
-        "name": "Shik Shak Shok (Remastered)",
-        "url": "https://open.spotify.com/album/0HExOi4eGlOnV36kY0aqJq"
-      },
-      "artists": [
-        {
-          "name": "Hassan Abou Seoud",
-          "url": "https://open.spotify.com/artist/7g4J1MFlUtDs117ACUxoUu"
-        }
-      ],
-      "duration_ms": 333506,
-      "name": "Shik Shak Shok - Remastered",
-      "url": "https://open.spotify.com/track/7iT3T5K9J8MfxjigwzpRkK"
-    },
-    {
-      "added_at": "2024-02-23 15:08:17",
-      "album": {
-        "name": "Oh No :: He Said What?",
-        "url": "https://open.spotify.com/album/4kT2KzTC4GE1AEqAQx5BnO"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 228138,
-      "name": "Oh No :: He Said What?",
-      "url": "https://open.spotify.com/track/7Gk8icymiW50sDfFbWLoVG"
-    },
-    {
-      "added_at": "2024-02-23 15:08:17",
-      "album": {
-        "name": "Vagy Mindent Vagy Semmit",
-        "url": "https://open.spotify.com/album/3yzr3LxESMVFNQbz5qZIrH"
-      },
-      "artists": [
-        {
-          "name": "Pog\u00e1ny Indul\u00f3",
-          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
-        }
-      ],
-      "duration_ms": 176395,
-      "name": "M\u00e1mor",
-      "url": "https://open.spotify.com/track/1zWdoNRmxhBaAJiJI2SI7j"
-    },
-    {
-      "added_at": "2024-02-23 15:08:17",
+      "added_at": "2024-02-24 14:36:51",
       "album": {
         "name": "We Fell Apart",
         "url": "https://open.spotify.com/album/3JyuOXGEoGuRSgJDDxwOCO"
@@ -609,23 +589,43 @@
       "url": "https://open.spotify.com/track/4oExAGoqR0JWK628dYaQ2f"
     },
     {
-      "added_at": "2024-02-23 15:08:17",
+      "added_at": "2024-02-24 14:36:51",
       "album": {
-        "name": "Lifetime",
-        "url": "https://open.spotify.com/album/0CjVrbnz8839PBl5E6b17H"
+        "name": "Vagy Mindent Vagy Semmit",
+        "url": "https://open.spotify.com/album/3yzr3LxESMVFNQbz5qZIrH"
       },
       "artists": [
         {
-          "name": "Tobiahs",
-          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
+          "name": "Pog\u00e1ny Indul\u00f3",
+          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
         }
       ],
-      "duration_ms": 158822,
-      "name": "Lifetime",
-      "url": "https://open.spotify.com/track/1oH6oeK8iKeRL9VTQY5w2r"
+      "duration_ms": 176395,
+      "name": "M\u00e1mor",
+      "url": "https://open.spotify.com/track/1zWdoNRmxhBaAJiJI2SI7j"
     },
     {
-      "added_at": "2024-02-23 15:08:17",
+      "added_at": "2024-02-24 14:36:51",
+      "album": {
+        "name": "Alibi (feat. Rudimental)",
+        "url": "https://open.spotify.com/album/3Ku8LDPYg53Kh59amfFWjL"
+      },
+      "artists": [
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        },
+        {
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+        }
+      ],
+      "duration_ms": 184852,
+      "name": "Alibi (feat. Rudimental)",
+      "url": "https://open.spotify.com/track/5Jpz4nv8nA6FIYO5gEyQa2"
+    },
+    {
+      "added_at": "2024-02-24 14:36:51",
       "album": {
         "name": "moonlight",
         "url": "https://open.spotify.com/album/11YiuP5u4DIIzrUWj61VDG"
@@ -641,7 +641,7 @@
       "url": "https://open.spotify.com/track/73b9g7mz0PGG7NrwZm9xly"
     },
     {
-      "added_at": "2024-02-23 15:08:17",
+      "added_at": "2024-02-24 14:36:51",
       "album": {
         "name": "SONY",
         "url": "https://open.spotify.com/album/0zz2XwgWhbqgaFLVflgQHp"
@@ -665,99 +665,39 @@
       "url": "https://open.spotify.com/track/6VASMtJitNcGLlsWhPb9BC"
     },
     {
-      "added_at": "2024-02-23 15:08:17",
+      "added_at": "2024-02-24 14:36:51",
       "album": {
-        "name": "Alibi (feat. Rudimental)",
-        "url": "https://open.spotify.com/album/3Ku8LDPYg53Kh59amfFWjL"
+        "name": "I've Tried Everything But Therapy (Part 1)",
+        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
       },
       "artists": [
         {
-          "name": "Ella Henderson",
-          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
-        },
-        {
-          "name": "Rudimental",
-          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 184852,
-      "name": "Alibi (feat. Rudimental)",
-      "url": "https://open.spotify.com/track/5Jpz4nv8nA6FIYO5gEyQa2"
+      "duration_ms": 210688,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
     },
     {
-      "added_at": "2024-02-23 15:08:17",
+      "added_at": "2024-02-24 14:36:51",
       "album": {
-        "name": "FUNKED UP",
-        "url": "https://open.spotify.com/album/4FRxgE6LA2UGJ5yz8diaI9"
+        "name": "Bass",
+        "url": "https://open.spotify.com/album/3hVol43tkxVVOUc2yafClu"
       },
       "artists": [
         {
-          "name": "xxanteria",
-          "url": "https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp"
-        },
-        {
-          "name": "isq",
-          "url": "https://open.spotify.com/artist/6JjQbtAO09K7qBEW2pdX5s"
+          "name": "CJDJ",
+          "url": "https://open.spotify.com/artist/3yxPOdZ3ybZQETzvr7AcXS"
         }
       ],
-      "duration_ms": 115348,
-      "name": "FUNKED UP - SLOWED",
-      "url": "https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro"
+      "duration_ms": 125567,
+      "name": "Bass",
+      "url": "https://open.spotify.com/track/2UUqOLcktNsBYCwwgo47K5"
     },
     {
-      "added_at": "2024-02-23 15:08:17",
-      "album": {
-        "name": "Vagy Mindent Vagy Semmit",
-        "url": "https://open.spotify.com/album/3yzr3LxESMVFNQbz5qZIrH"
-      },
-      "artists": [
-        {
-          "name": "Pog\u00e1ny Indul\u00f3",
-          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
-        },
-        {
-          "name": "ekhoe",
-          "url": "https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "15",
-      "url": "https://open.spotify.com/track/3bccJlU6zh1SZ79jvduQ06"
-    },
-    {
-      "added_at": "2024-02-23 15:08:17",
-      "album": {
-        "name": "Bandit",
-        "url": "https://open.spotify.com/album/0jSSRlhYuZmtLMrYB8pjzC"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 147746,
-      "name": "Bandit",
-      "url": "https://open.spotify.com/track/7sTyAjxDXq9afwfSQy6D0s"
-    },
-    {
-      "added_at": "2024-02-23 15:08:17",
-      "album": {
-        "name": "Moves",
-        "url": "https://open.spotify.com/album/4HDT4zrbrbbFjMT1MAhhbv"
-      },
-      "artists": [
-        {
-          "name": "Zach Diamond",
-          "url": "https://open.spotify.com/artist/5FRM46QLXYjCJb19bYq3qu"
-        }
-      ],
-      "duration_ms": 124615,
-      "name": "Moves",
-      "url": "https://open.spotify.com/track/52TqMUnMqutEqQR9K5hi9d"
-    },
-    {
-      "added_at": "2024-02-23 15:08:17",
+      "added_at": "2024-02-24 14:36:51",
       "album": {
         "name": "Hazbin Hotel (Original Soundtrack)",
         "url": "https://open.spotify.com/album/2EOqRNsJiNb7IFLktJBZpq"
@@ -781,87 +721,7 @@
       "url": "https://open.spotify.com/track/3CAgZdCErAPdUBwFmaRyGA"
     },
     {
-      "added_at": "2024-02-23 15:08:17",
-      "album": {
-        "name": "I've Tried Everything But Therapy (Part 1)",
-        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 210688,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
-    },
-    {
-      "added_at": "2024-02-23 15:08:17",
-      "album": {
-        "name": "volume 3",
-        "url": "https://open.spotify.com/album/2Z6SXBpgOJuKbw4I6jd8Po"
-      },
-      "artists": [
-        {
-          "name": "sp\u00e1nok v lese letargie",
-          "url": "https://open.spotify.com/artist/6G0h5jzjBzQw749gTYlK4q"
-        }
-      ],
-      "duration_ms": 134471,
-      "name": "ext\u00e1za",
-      "url": "https://open.spotify.com/track/2zyacxcXuRUQ1owGDo2JnQ"
-    },
-    {
-      "added_at": "2024-02-23 15:08:17",
-      "album": {
-        "name": "Bass",
-        "url": "https://open.spotify.com/album/3hVol43tkxVVOUc2yafClu"
-      },
-      "artists": [
-        {
-          "name": "CJDJ",
-          "url": "https://open.spotify.com/artist/3yxPOdZ3ybZQETzvr7AcXS"
-        }
-      ],
-      "duration_ms": 125567,
-      "name": "Bass",
-      "url": "https://open.spotify.com/track/2UUqOLcktNsBYCwwgo47K5"
-    },
-    {
-      "added_at": "2024-02-23 15:08:17",
-      "album": {
-        "name": "NYC Mindset",
-        "url": "https://open.spotify.com/album/7717z99l14V2Guh6gorMex"
-      },
-      "artists": [
-        {
-          "name": "Shimmi",
-          "url": "https://open.spotify.com/artist/5QLfxY8Phcamadzx1r79ck"
-        }
-      ],
-      "duration_ms": 152073,
-      "name": "NYC Mindset",
-      "url": "https://open.spotify.com/track/4Vg2UPndGLb7jAlX0A1vr9"
-    },
-    {
-      "added_at": "2024-02-23 15:08:17",
-      "album": {
-        "name": "EMBRACE CHAOS I",
-        "url": "https://open.spotify.com/album/3s5ZPci0kkPtuab6ChSjde"
-      },
-      "artists": [
-        {
-          "name": "Miguel Angeles",
-          "url": "https://open.spotify.com/artist/14xRX3JR8H4RWh8R7V3fvZ"
-        }
-      ],
-      "duration_ms": 177230,
-      "name": "PROTECTION CHARM",
-      "url": "https://open.spotify.com/track/42zD05iksMrXWgagZvW6NA"
-    },
-    {
-      "added_at": "2024-02-23 15:08:17",
+      "added_at": "2024-02-24 14:36:51",
       "album": {
         "name": "Clean Sheets, dirty walls",
         "url": "https://open.spotify.com/album/4KvNYZHRuNDQ3Xx6ZxkePp"
@@ -877,43 +737,123 @@
       "url": "https://open.spotify.com/track/2vXSHAPCNpWZ7DNFDkEDMz"
     },
     {
-      "added_at": "2024-02-23 15:08:17",
+      "added_at": "2024-02-24 14:36:51",
       "album": {
-        "name": "LEveL",
-        "url": "https://open.spotify.com/album/4GW8o02gQfeJKEXNivXz9M"
+        "name": "EMBRACE CHAOS I",
+        "url": "https://open.spotify.com/album/3s5ZPci0kkPtuab6ChSjde"
       },
       "artists": [
         {
-          "name": "SawanoHiroyuki[nZk]",
-          "url": "https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO"
+          "name": "Miguel Angeles",
+          "url": "https://open.spotify.com/artist/14xRX3JR8H4RWh8R7V3fvZ"
+        }
+      ],
+      "duration_ms": 177230,
+      "name": "PROTECTION CHARM",
+      "url": "https://open.spotify.com/track/42zD05iksMrXWgagZvW6NA"
+    },
+    {
+      "added_at": "2024-02-24 14:36:51",
+      "album": {
+        "name": "NYC Mindset",
+        "url": "https://open.spotify.com/album/7717z99l14V2Guh6gorMex"
+      },
+      "artists": [
+        {
+          "name": "Shimmi",
+          "url": "https://open.spotify.com/artist/5QLfxY8Phcamadzx1r79ck"
+        }
+      ],
+      "duration_ms": 152073,
+      "name": "NYC Mindset",
+      "url": "https://open.spotify.com/track/4Vg2UPndGLb7jAlX0A1vr9"
+    },
+    {
+      "added_at": "2024-02-24 14:36:51",
+      "album": {
+        "name": "volume 3",
+        "url": "https://open.spotify.com/album/2Z6SXBpgOJuKbw4I6jd8Po"
+      },
+      "artists": [
+        {
+          "name": "sp\u00e1nok v lese letargie",
+          "url": "https://open.spotify.com/artist/6G0h5jzjBzQw749gTYlK4q"
+        }
+      ],
+      "duration_ms": 134471,
+      "name": "ext\u00e1za",
+      "url": "https://open.spotify.com/track/2zyacxcXuRUQ1owGDo2JnQ"
+    },
+    {
+      "added_at": "2024-02-24 14:36:51",
+      "album": {
+        "name": "\u043f\u043e\u0433\u0440\u0430\u043d\u0438\u0447\u043d\u0430\u044f \u043b\u0438\u0447\u043d\u043e\u0441\u0442\u044c \u2661",
+        "url": "https://open.spotify.com/album/1mbnvxxtv7Gsz9iVVeql7I"
+      },
+      "artists": [
+        {
+          "name": "vyrval",
+          "url": "https://open.spotify.com/artist/4hJrxZPQydibSnMMq7PpB9"
+        }
+      ],
+      "duration_ms": 189131,
+      "name": "\u043f\u043e\u0433\u0440\u0430\u043d\u0438\u0447\u043d\u0430\u044f \u043b\u0438\u0447\u043d\u043e\u0441\u0442\u044c \u2661",
+      "url": "https://open.spotify.com/track/1stbYttwZb0Hsj4JJrru1z"
+    },
+    {
+      "added_at": "2024-02-24 14:36:51",
+      "album": {
+        "name": "FUNKED UP",
+        "url": "https://open.spotify.com/album/4FRxgE6LA2UGJ5yz8diaI9"
+      },
+      "artists": [
+        {
+          "name": "xxanteria",
+          "url": "https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp"
         },
         {
-          "name": "XAI",
-          "url": "https://open.spotify.com/artist/2r3DAIz6afSzxVnM1Rzj3N"
+          "name": "isq",
+          "url": "https://open.spotify.com/artist/6JjQbtAO09K7qBEW2pdX5s"
         }
       ],
-      "duration_ms": 142080,
-      "name": "DARK ARIA <LV2>",
-      "url": "https://open.spotify.com/track/5Mg4ZgUgR6whGObRh6UGn0"
+      "duration_ms": 115348,
+      "name": "FUNKED UP - SLOWED",
+      "url": "https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro"
     },
     {
-      "added_at": "2024-02-23 15:08:17",
+      "added_at": "2024-02-24 14:36:51",
       "album": {
-        "name": "Dance You Outta My Head",
-        "url": "https://open.spotify.com/album/1fyTcCoTKXM35bFpEJlAyG"
+        "name": "Made For Me",
+        "url": "https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv"
       },
       "artists": [
         {
-          "name": "Cat Janice",
-          "url": "https://open.spotify.com/artist/7kNpF2nj7eVgcVo8k6pWkz"
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
         }
       ],
-      "duration_ms": 202508,
-      "name": "Dance You Outta My Head",
-      "url": "https://open.spotify.com/track/6NMqeF0Ssmi7d3dSUqnOFf"
+      "duration_ms": 188000,
+      "name": "Made For Me",
+      "url": "https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC"
     },
     {
-      "added_at": "2024-02-23 15:08:17",
+      "added_at": "2024-02-24 14:36:51",
+      "album": {
+        "name": "Murder on the Dancefloor (triple j Like A Version)",
+        "url": "https://open.spotify.com/album/02tTPri1bqHRdIwhz4gceP"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 180872,
+      "name": "Murder on the Dance Floor - triple j Like A Version",
+      "url": "https://open.spotify.com/track/1swz9stsbG1p34SJHJqiww"
+    },
+    {
+      "added_at": "2024-02-24 14:36:51",
       "album": {
         "name": "SKEETER",
         "url": "https://open.spotify.com/album/67cert3BRIaXt0PgGV9VmC"
@@ -927,6 +867,54 @@
       "duration_ms": 219933,
       "name": "PAUZA OD 4 FREESTYLE",
       "url": "https://open.spotify.com/track/2YhCQifJkuIIzIvCDkQEuX"
+    },
+    {
+      "added_at": "2024-02-24 14:36:51",
+      "album": {
+        "name": "pretty",
+        "url": "https://open.spotify.com/album/2xpgb8R0BXVS2e1XnXI9xZ"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "duration_ms": 128205,
+      "name": "if u think i'm pretty",
+      "url": "https://open.spotify.com/track/1ACA277B6f46DYCgZW8di3"
+    },
+    {
+      "added_at": "2024-02-24 14:36:51",
+      "album": {
+        "name": "Bandit",
+        "url": "https://open.spotify.com/album/0jSSRlhYuZmtLMrYB8pjzC"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 147746,
+      "name": "Bandit",
+      "url": "https://open.spotify.com/track/7sTyAjxDXq9afwfSQy6D0s"
+    },
+    {
+      "added_at": "2024-02-24 14:36:51",
+      "album": {
+        "name": "Scared To Start",
+        "url": "https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39"
+      },
+      "artists": [
+        {
+          "name": "Michael Marcagi",
+          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
+        }
+      ],
+      "duration_ms": 159636,
+      "name": "Scared To Start",
+      "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
     }
   ],
   "unique_name": "Viral 50 - Slovakia",

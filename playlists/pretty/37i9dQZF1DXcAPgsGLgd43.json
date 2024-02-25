@@ -1,12 +1,12 @@
 {
   "description": "Introducing Alma \u2014 a soul born from Latin and house music.",
-  "num_followers": 3935,
+  "num_followers": 3937,
   "original_name": "Alma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZjQxNjM0Zjc2NDBkYzM5MWFjZjdkMTZjNmUyMmJhZGM5ZDUzMDgx",
+  "snapshot_id": "MCw4ODNkMzI4MjdiZDllN2EzYzQyMmY2ODEyNjdkMWViOTEzY2M5Yzc4",
   "tracks": [
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "CKULO",
-        "url": "https://open.spotify.com/album/3hnJU2TvsaJZvUWp9bVfJW"
-      },
-      "artists": [
-        {
-          "name": "Mr. Pig",
-          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
-        },
-        {
-          "name": "INNDRIVE",
-          "url": "https://open.spotify.com/artist/6Ult8lRnG7Dh7KZtVlpAJX"
-        }
-      ],
-      "duration_ms": 152523,
-      "name": "CKULO",
-      "url": "https://open.spotify.com/track/2S4LxGDb2UwzGpoHp5sqwg"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Senta Relaxa",
         "url": "https://open.spotify.com/album/7lWGajsmdYsXV2V5HDgzS0"
       },
@@ -1159,22 +1139,42 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Gringada",
-        "url": "https://open.spotify.com/album/31IgBVgxGhUfMUGlA6wZAq"
+        "name": "CKULO",
+        "url": "https://open.spotify.com/album/3hnJU2TvsaJZvUWp9bVfJW"
       },
       "artists": [
         {
-          "name": "Costa Leon",
-          "url": "https://open.spotify.com/artist/3vkZeJ4Gkrwmy21vHPrsDh"
+          "name": "Mr. Pig",
+          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
         },
         {
-          "name": "DJ Cuervo",
-          "url": "https://open.spotify.com/artist/1L1RMOhubngzDWQzrRB9UH"
+          "name": "INNDRIVE",
+          "url": "https://open.spotify.com/artist/6Ult8lRnG7Dh7KZtVlpAJX"
         }
       ],
-      "duration_ms": 168188,
-      "name": "Gringada",
-      "url": "https://open.spotify.com/track/5vnQUEjtukbbnWcrnigfpT"
+      "duration_ms": 152523,
+      "name": "CKULO",
+      "url": "https://open.spotify.com/track/2S4LxGDb2UwzGpoHp5sqwg"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "\u00a1Date Prisa!",
+        "url": "https://open.spotify.com/album/7jR2mswx59U6MBSRZIAwIe"
+      },
+      "artists": [
+        {
+          "name": "DLMT",
+          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
+        },
+        {
+          "name": "STO CULTR",
+          "url": "https://open.spotify.com/artist/3rxaya7knZ0iL2myO6CX6G"
+        }
+      ],
+      "duration_ms": 199687,
+      "name": "\u00a1Date Prisa!",
+      "url": "https://open.spotify.com/track/5Y2w2rya1gOzMjNojnn9f8"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1207,22 +1207,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "\u00a1Date Prisa!",
-        "url": "https://open.spotify.com/album/7jR2mswx59U6MBSRZIAwIe"
+        "name": "Gringada",
+        "url": "https://open.spotify.com/album/31IgBVgxGhUfMUGlA6wZAq"
       },
       "artists": [
         {
-          "name": "DLMT",
-          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
+          "name": "Costa Leon",
+          "url": "https://open.spotify.com/artist/3vkZeJ4Gkrwmy21vHPrsDh"
         },
         {
-          "name": "STO CULTR",
-          "url": "https://open.spotify.com/artist/3rxaya7knZ0iL2myO6CX6G"
+          "name": "DJ Cuervo",
+          "url": "https://open.spotify.com/artist/1L1RMOhubngzDWQzrRB9UH"
         }
       ],
-      "duration_ms": 199687,
-      "name": "\u00a1Date Prisa!",
-      "url": "https://open.spotify.com/track/5Y2w2rya1gOzMjNojnn9f8"
+      "duration_ms": 168188,
+      "name": "Gringada",
+      "url": "https://open.spotify.com/track/5vnQUEjtukbbnWcrnigfpT"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1375,30 +1375,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Levanta",
-        "url": "https://open.spotify.com/album/54KFJMJRGpqcaCEQCG2hpm"
-      },
-      "artists": [
-        {
-          "name": "Tom Enzy",
-          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
-        },
-        {
-          "name": "Siwell",
-          "url": "https://open.spotify.com/artist/3ktDOdSifPv7lXzeyXX1J1"
-        },
-        {
-          "name": "Vadi",
-          "url": "https://open.spotify.com/artist/12HtyTeiwjTUPsnW9xvs1S"
-        }
-      ],
-      "duration_ms": 148560,
-      "name": "Levanta",
-      "url": "https://open.spotify.com/track/2uitOFTk6M7eI8TB5I3J2B"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Yo Quiero Una Nena (Sunnery James & Ryan Marciano and Tom Enzy Remix)",
         "url": "https://open.spotify.com/album/4mbBidN8p7hQbRC1Cf519J"
       },
@@ -1419,6 +1395,30 @@
       "duration_ms": 198214,
       "name": "Yo Quiero Una Nena (Sunnery James & Ryan Marciano and Tom Enzy Remix)",
       "url": "https://open.spotify.com/track/0PHsJbGSWsc73G2bAs1FuB"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Levanta",
+        "url": "https://open.spotify.com/album/54KFJMJRGpqcaCEQCG2hpm"
+      },
+      "artists": [
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        },
+        {
+          "name": "Siwell",
+          "url": "https://open.spotify.com/artist/3ktDOdSifPv7lXzeyXX1J1"
+        },
+        {
+          "name": "Vadi",
+          "url": "https://open.spotify.com/artist/12HtyTeiwjTUPsnW9xvs1S"
+        }
+      ],
+      "duration_ms": 148560,
+      "name": "Levanta",
+      "url": "https://open.spotify.com/track/2uitOFTk6M7eI8TB5I3J2B"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1499,6 +1499,26 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "Bandolera (feat. Buza)",
+        "url": "https://open.spotify.com/album/01zwo9drYSofBMYqHHiLXh"
+      },
+      "artists": [
+        {
+          "name": "Los Padres",
+          "url": "https://open.spotify.com/artist/4gpf8uG8pZZ5KNcE3OStsU"
+        },
+        {
+          "name": "Buza",
+          "url": "https://open.spotify.com/artist/3PQjCufnBvS9y5d7a37fHB"
+        }
+      ],
+      "duration_ms": 175040,
+      "name": "Bandolera (feat. Buza)",
+      "url": "https://open.spotify.com/track/7CMqU8tjod2thSmYHTg53h"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "La Bulla",
         "url": "https://open.spotify.com/album/406Xu0Zh1jTzjzBPsJCYmo"
       },
@@ -1531,26 +1551,6 @@
       "duration_ms": 140787,
       "name": "Tuku Tu",
       "url": "https://open.spotify.com/track/1ICNLsyIPgrIjN36Txxx7B"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Bandolera (feat. Buza)",
-        "url": "https://open.spotify.com/album/01zwo9drYSofBMYqHHiLXh"
-      },
-      "artists": [
-        {
-          "name": "Los Padres",
-          "url": "https://open.spotify.com/artist/4gpf8uG8pZZ5KNcE3OStsU"
-        },
-        {
-          "name": "Buza",
-          "url": "https://open.spotify.com/artist/3PQjCufnBvS9y5d7a37fHB"
-        }
-      ],
-      "duration_ms": 175040,
-      "name": "Bandolera (feat. Buza)",
-      "url": "https://open.spotify.com/track/7CMqU8tjod2thSmYHTg53h"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1683,6 +1683,26 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "Resistencia",
+        "url": "https://open.spotify.com/album/3ztQRV32NjMVbxtdwkEy5E"
+      },
+      "artists": [
+        {
+          "name": "Draxx (ITA)",
+          "url": "https://open.spotify.com/artist/57QKWHmmY0jb44T2w7ln73"
+        },
+        {
+          "name": "Blow (ITA)",
+          "url": "https://open.spotify.com/artist/0r7dWqdkEDihNmjuAcNAJq"
+        }
+      ],
+      "duration_ms": 163144,
+      "name": "Resistencia",
+      "url": "https://open.spotify.com/track/7ek1DEzAizK2hYsOI1xQsN"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "Morena",
         "url": "https://open.spotify.com/album/2uV1mmtYPm4cGFnXWZa1kc"
       },
@@ -1715,22 +1735,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Resistencia",
-        "url": "https://open.spotify.com/album/3ztQRV32NjMVbxtdwkEy5E"
+        "name": "Se Acaba (Sinego Remix)",
+        "url": "https://open.spotify.com/album/6pmqgNHGZAqKyiUbdEynaT"
       },
       "artists": [
         {
-          "name": "Draxx (ITA)",
-          "url": "https://open.spotify.com/artist/57QKWHmmY0jb44T2w7ln73"
+          "name": "Adrie",
+          "url": "https://open.spotify.com/artist/4RuSib7ZtJd4SI61XGkCto"
         },
         {
-          "name": "Blow (ITA)",
-          "url": "https://open.spotify.com/artist/0r7dWqdkEDihNmjuAcNAJq"
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
         }
       ],
-      "duration_ms": 163144,
-      "name": "Resistencia",
-      "url": "https://open.spotify.com/track/7ek1DEzAizK2hYsOI1xQsN"
+      "duration_ms": 381885,
+      "name": "Se Acaba - Sinego Remix",
+      "url": "https://open.spotify.com/track/1weqzj4OexIpfV2pNyPmqy"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1751,26 +1771,6 @@
       "duration_ms": 180000,
       "name": "Boca",
       "url": "https://open.spotify.com/track/4c0HhHcw6gIyRoVpkw4Mxr"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Se Acaba (Sinego Remix)",
-        "url": "https://open.spotify.com/album/6pmqgNHGZAqKyiUbdEynaT"
-      },
-      "artists": [
-        {
-          "name": "Adrie",
-          "url": "https://open.spotify.com/artist/4RuSib7ZtJd4SI61XGkCto"
-        },
-        {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
-        }
-      ],
-      "duration_ms": 381885,
-      "name": "Se Acaba - Sinego Remix",
-      "url": "https://open.spotify.com/track/1weqzj4OexIpfV2pNyPmqy"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1847,6 +1847,26 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "Ay Papi",
+        "url": "https://open.spotify.com/album/0vvPwvAHIQUqHEUvjeLSqb"
+      },
+      "artists": [
+        {
+          "name": "Jack Bailey",
+          "url": "https://open.spotify.com/artist/0nvtleWgvZzWCF1xQ8mdwc"
+        },
+        {
+          "name": "Nick Proof",
+          "url": "https://open.spotify.com/artist/1cFOVkSIXej2ndDMhKholO"
+        }
+      ],
+      "duration_ms": 171785,
+      "name": "Ay Papi",
+      "url": "https://open.spotify.com/track/2EhWf9BWQFFCp8gOvOY7J7"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "Quema Quema",
         "url": "https://open.spotify.com/album/5NRmxv41JcMSN7ZznTEVAZ"
       },
@@ -1875,26 +1895,6 @@
       "duration_ms": 161760,
       "name": "Labios (La Noche)",
       "url": "https://open.spotify.com/track/7IXMuwxUl31NmFfisypx7d"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Ay Papi",
-        "url": "https://open.spotify.com/album/0vvPwvAHIQUqHEUvjeLSqb"
-      },
-      "artists": [
-        {
-          "name": "Jack Bailey",
-          "url": "https://open.spotify.com/artist/0nvtleWgvZzWCF1xQ8mdwc"
-        },
-        {
-          "name": "Nick Proof",
-          "url": "https://open.spotify.com/artist/1cFOVkSIXej2ndDMhKholO"
-        }
-      ],
-      "duration_ms": 171785,
-      "name": "Ay Papi",
-      "url": "https://open.spotify.com/track/2EhWf9BWQFFCp8gOvOY7J7"
     },
     {
       "added_at": "2024-02-23 05:00:00",

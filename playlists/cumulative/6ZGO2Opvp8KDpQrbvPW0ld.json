@@ -4020,7 +4020,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 114464,
       "name": "Don't Envy",
       "url": "https://open.spotify.com/track/0vtilK3h8dRitzh4qfLy6L"
@@ -5368,7 +5368,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 96389,
       "name": "Flow State",
       "url": "https://open.spotify.com/track/2dJEtyY8hWaKLgpZt3LfbL"
@@ -6436,6 +6436,28 @@
       "duration_ms": 132101,
       "name": "Homecoming",
       "url": "https://open.spotify.com/track/6jA5IkDSWO6Pi4jJl9R3y5"
+    },
+    {
+      "album": {
+        "name": "Hopes&Dreams",
+        "url": "https://open.spotify.com/album/4vX4KYlbXyeFX9niDKxuRE"
+      },
+      "artists": [
+        {
+          "name": "Zmeyev",
+          "url": "https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL"
+        },
+        {
+          "name": ".Eehou",
+          "url": "https://open.spotify.com/artist/5n9SautEmQzoC7G47NBta0"
+        }
+      ],
+      "date_added": "2024-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127228,
+      "name": "Hopes&Dreams",
+      "url": "https://open.spotify.com/track/2OQ0A8JJpOjmhFrdqDDNEG"
     },
     {
       "album": {
@@ -9531,6 +9553,24 @@
     },
     {
       "album": {
+        "name": "Nightshade",
+        "url": "https://open.spotify.com/album/7ytzoNRHF03mrwZvtxalVE"
+      },
+      "artists": [
+        {
+          "name": "Blue Wednesday",
+          "url": "https://open.spotify.com/artist/7185Q95lPFld0aoPqO6e0U"
+        }
+      ],
+      "date_added": "2024-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157200,
+      "name": "Nightshade",
+      "url": "https://open.spotify.com/track/5MM2IHK2Pi7Z3xTrT8RY6X"
+    },
+    {
+      "album": {
         "name": "Moonberry",
         "url": "https://open.spotify.com/album/4niIBIv2crfcrkaSw4y7Hd"
       },
@@ -9862,7 +9902,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 128000,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/04eaihnnSsHKsyUAYALsPF"
@@ -12062,6 +12102,24 @@
       "duration_ms": 145227,
       "name": "Sea Shells",
       "url": "https://open.spotify.com/track/2fDee1z8nEVGibHiz5hBgI"
+    },
+    {
+      "album": {
+        "name": "Surreal",
+        "url": "https://open.spotify.com/album/1N0I8WQd8wN6rEYoAbigSU"
+      },
+      "artists": [
+        {
+          "name": "Sadmethod",
+          "url": "https://open.spotify.com/artist/0TcxTQOYUrZbSmqLUdhdjT"
+        }
+      ],
+      "date_added": "2024-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95160,
+      "name": "Seasonal Change",
+      "url": "https://open.spotify.com/track/6vWZRzoIZ7XDvQrDJ2RD5B"
     },
     {
       "album": {

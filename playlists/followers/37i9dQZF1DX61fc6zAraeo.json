@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 97421,
+  "2024-02-25": 97436,
   "date_first_scraped": "2024-02-08",
   "description": "Dance tracks for your power moves",
   "name": "Power Up!",
@@ -285,6 +285,28 @@
       "duration_ms": 161250,
       "name": "Combo",
       "url": "https://open.spotify.com/track/6nAWXxK1jWkYWzExetkboS"
+    },
+    {
+      "album": {
+        "name": "Could You Be The One",
+        "url": "https://open.spotify.com/album/56VRXsZ7MUAz421NkITjmK"
+      },
+      "artists": [
+        {
+          "name": "Laidback Luke",
+          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
+        },
+        {
+          "name": "Katy Alex",
+          "url": "https://open.spotify.com/artist/63wpGjuYtKMliedy9FjHMB"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121750,
+      "name": "Could You Be The One",
+      "url": "https://open.spotify.com/track/3akNbKGTCFPUeB7xEaDQ5j"
     },
     {
       "album": {
@@ -647,7 +669,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 180480,
       "name": "Fitness",
       "url": "https://open.spotify.com/track/6tlTBmaJCBJ238Gl5eFZ2z"

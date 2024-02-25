@@ -1,12 +1,12 @@
 {
   "description": "Focus with melodic techno and tech house.",
-  "num_followers": 487781,
+  "num_followers": 487888,
   "original_name": "Beats to think to",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MWYyN2VmM2UyZWY5N2JjNTE1NTM4OWMzZmE2ZmYxOTM5NDdjODdm",
+  "snapshot_id": "MCxjZjAyNDU5YmRjZTgyMWFmOGZmNGU5MWFmZmYwZjNlNmE4NGY4NDRi",
   "tracks": [
     {
       "added_at": "2023-11-27 19:00:00",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "Amantes Amentes",
-        "url": "https://open.spotify.com/album/7vzZqY07k2ZTeCMYQ2DDFf"
-      },
-      "artists": [
-        {
-          "name": "Ron Flatter",
-          "url": "https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq"
-        }
-      ],
-      "duration_ms": 448684,
-      "name": "Amantes Amentes",
-      "url": "https://open.spotify.com/track/2NEMWTplDgFl5yZ5mgpsEd"
-    },
-    {
-      "added_at": "2023-11-27 19:00:00",
-      "album": {
         "name": "Solid",
         "url": "https://open.spotify.com/album/1okpvJ1vOGSnq0BGJgVcxy"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 404532,
       "name": "Solid",
       "url": "https://open.spotify.com/track/62DY8pd5ZcJSgytchGNuzP"
+    },
+    {
+      "added_at": "2023-11-27 19:00:00",
+      "album": {
+        "name": "Amantes Amentes",
+        "url": "https://open.spotify.com/album/7vzZqY07k2ZTeCMYQ2DDFf"
+      },
+      "artists": [
+        {
+          "name": "Ron Flatter",
+          "url": "https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq"
+        }
+      ],
+      "duration_ms": 448684,
+      "name": "Amantes Amentes",
+      "url": "https://open.spotify.com/track/2NEMWTplDgFl5yZ5mgpsEd"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -647,6 +647,22 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
+        "name": "Infinity",
+        "url": "https://open.spotify.com/album/0SERodr4s71gsU2o2RcaSK"
+      },
+      "artists": [
+        {
+          "name": "Teho",
+          "url": "https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO"
+        }
+      ],
+      "duration_ms": 424979,
+      "name": "Unlocked",
+      "url": "https://open.spotify.com/track/6NTfiYHgosu8B6MbxRBos0"
+    },
+    {
+      "added_at": "2023-11-27 19:00:00",
+      "album": {
         "name": "Crescendo",
         "url": "https://open.spotify.com/album/3nnzSVvGgINDcaLGu0KdjP"
       },
@@ -667,18 +683,18 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "Infinity",
-        "url": "https://open.spotify.com/album/0SERodr4s71gsU2o2RcaSK"
+        "name": "Wormhole",
+        "url": "https://open.spotify.com/album/4XOS35KuJZTAGFlVT2nif2"
       },
       "artists": [
         {
-          "name": "Teho",
-          "url": "https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO"
+          "name": "Einmusik",
+          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
         }
       ],
-      "duration_ms": 424979,
-      "name": "Unlocked",
-      "url": "https://open.spotify.com/track/6NTfiYHgosu8B6MbxRBos0"
+      "duration_ms": 437953,
+      "name": "Wormhole",
+      "url": "https://open.spotify.com/track/7ymy76B3YniVBKDwZBPYmP"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -703,22 +719,6 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "Wormhole",
-        "url": "https://open.spotify.com/album/4XOS35KuJZTAGFlVT2nif2"
-      },
-      "artists": [
-        {
-          "name": "Einmusik",
-          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
-        }
-      ],
-      "duration_ms": 437953,
-      "name": "Wormhole",
-      "url": "https://open.spotify.com/track/7ymy76B3YniVBKDwZBPYmP"
-    },
-    {
-      "added_at": "2023-11-27 19:00:00",
-      "album": {
         "name": "Lost in Berlin",
         "url": "https://open.spotify.com/album/6NasKPWBq5AEPJDE1KK8lU"
       },
@@ -731,6 +731,22 @@
       "duration_ms": 259670,
       "name": "Endless Dancing",
       "url": "https://open.spotify.com/track/28ggPVRudYkMzmQOzjkYQ5"
+    },
+    {
+      "added_at": "2023-11-27 19:00:00",
+      "album": {
+        "name": "Infinity (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/64Z7e0YTTtoa7dRhpQb6kv"
+      },
+      "artists": [
+        {
+          "name": "Teho",
+          "url": "https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO"
+        }
+      ],
+      "duration_ms": 329032,
+      "name": "Find You Again",
+      "url": "https://open.spotify.com/track/5BIYQro4nYhTcTEfMLhZZB"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -787,22 +803,6 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "Infinity (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/64Z7e0YTTtoa7dRhpQb6kv"
-      },
-      "artists": [
-        {
-          "name": "Teho",
-          "url": "https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO"
-        }
-      ],
-      "duration_ms": 329032,
-      "name": "Find You Again",
-      "url": "https://open.spotify.com/track/5BIYQro4nYhTcTEfMLhZZB"
-    },
-    {
-      "added_at": "2023-11-27 19:00:00",
-      "album": {
         "name": "Traum EP",
         "url": "https://open.spotify.com/album/7hp5Lg5GepesCmShm0nXud"
       },
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "Odyssey",
-        "url": "https://open.spotify.com/album/1JlK6KU1YKQ9gcahuFPFE7"
-      },
-      "artists": [
-        {
-          "name": "Daniel Portman",
-          "url": "https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM"
-        }
-      ],
-      "duration_ms": 257903,
-      "name": "Odyssey",
-      "url": "https://open.spotify.com/track/7jw452od74FzquMBqkUXiY"
-    },
-    {
-      "added_at": "2023-11-27 19:00:00",
-      "album": {
         "name": "Lyra",
         "url": "https://open.spotify.com/album/10EVZVgK0jaOVuIW1A8GSy"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 437891,
       "name": "Lyra",
       "url": "https://open.spotify.com/track/1Y4nxwSQr5jTMXKaQwiLOA"
+    },
+    {
+      "added_at": "2023-11-27 19:00:00",
+      "album": {
+        "name": "Odyssey",
+        "url": "https://open.spotify.com/album/1JlK6KU1YKQ9gcahuFPFE7"
+      },
+      "artists": [
+        {
+          "name": "Daniel Portman",
+          "url": "https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM"
+        }
+      ],
+      "duration_ms": 257903,
+      "name": "Odyssey",
+      "url": "https://open.spotify.com/track/7jw452od74FzquMBqkUXiY"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "Sense of Wonder",
-        "url": "https://open.spotify.com/album/7IHA14MqqNRlmEeELXtwz3"
-      },
-      "artists": [
-        {
-          "name": "Paradoks",
-          "url": "https://open.spotify.com/artist/0wKUDx34qpJqHSSGOFSAkf"
-        }
-      ],
-      "duration_ms": 241282,
-      "name": "Sense of Wonder",
-      "url": "https://open.spotify.com/track/0iP4oGGuZMSXdRPhxL8iQ4"
-    },
-    {
-      "added_at": "2023-11-27 19:00:00",
-      "album": {
         "name": "Night",
         "url": "https://open.spotify.com/album/3gBbhTYRUfKkdN68v3nnBX"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 253920,
       "name": "Night",
       "url": "https://open.spotify.com/track/253xpyhXIk9zrOveyC1i0D"
+    },
+    {
+      "added_at": "2023-11-27 19:00:00",
+      "album": {
+        "name": "Sense of Wonder",
+        "url": "https://open.spotify.com/album/7IHA14MqqNRlmEeELXtwz3"
+      },
+      "artists": [
+        {
+          "name": "Paradoks",
+          "url": "https://open.spotify.com/artist/0wKUDx34qpJqHSSGOFSAkf"
+        }
+      ],
+      "duration_ms": 241282,
+      "name": "Sense of Wonder",
+      "url": "https://open.spotify.com/track/0iP4oGGuZMSXdRPhxL8iQ4"
     },
     {
       "added_at": "2023-11-27 19:00:00",

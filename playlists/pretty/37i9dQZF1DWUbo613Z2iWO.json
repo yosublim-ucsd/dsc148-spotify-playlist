@@ -1,12 +1,12 @@
 {
   "description": "R&B of the moment by the artists of the future. Cover: Jaz Karis and Tone Stith",
-  "num_followers": 48700,
+  "num_followers": 48721,
   "original_name": "R&B Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YzNkMmMzNGRjNDYyZWViNTQ0MmE4ZDlhYmY0NWRmMDM1ODVjMTRj",
+  "snapshot_id": "MCw4MTFkOGQ4MWY4NmU5MDU2Njk2MTMwODk1MDBjOTAwMWM1YzBjZjg4",
   "tracks": [
     {
       "added_at": "2024-02-23 05:00:00",
@@ -143,6 +143,22 @@
       "duration_ms": 251009,
       "name": "I Don't Love You",
       "url": "https://open.spotify.com/track/2okP2LbGxMLQWqmkptMAIX"
+    },
+    {
+      "added_at": "2024-02-24 13:09:46",
+      "album": {
+        "name": "Doubt",
+        "url": "https://open.spotify.com/album/0S9vPSM57NuSvEMj3QV7Ni"
+      },
+      "artists": [
+        {
+          "name": "Samaria",
+          "url": "https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Doubt",
+      "url": "https://open.spotify.com/track/2L0goMgNORVfof0S2ULaqm"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -405,6 +421,26 @@
       "url": "https://open.spotify.com/track/1m7gnd9yrtZMAZ1dzZ3P71"
     },
     {
+      "added_at": "2024-02-24 13:09:46",
+      "album": {
+        "name": "You Got It",
+        "url": "https://open.spotify.com/album/6xZys52Lk6ywAsI76kBBmH"
+      },
+      "artists": [
+        {
+          "name": "Zyah Belle",
+          "url": "https://open.spotify.com/artist/09q46aTaAsSGoLID49Y6Sx"
+        },
+        {
+          "name": "Rexx Life Raj",
+          "url": "https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX"
+        }
+      ],
+      "duration_ms": 235609,
+      "name": "You Got It",
+      "url": "https://open.spotify.com/track/3qYA03ei7Dd6YgEe4oUjOF"
+    },
+    {
       "added_at": "2024-02-16 05:00:00",
       "album": {
         "name": "RASTA PASTA (ft. Masego)",
@@ -455,6 +491,26 @@
       "duration_ms": 218698,
       "name": "Bad M'fkr",
       "url": "https://open.spotify.com/track/37o1LWelGPbIdcf8YGMBP5"
+    },
+    {
+      "added_at": "2024-02-24 13:09:46",
+      "album": {
+        "name": "Deep Ellum Interlude",
+        "url": "https://open.spotify.com/album/3D3XkICzsmUP0x93LqSO5q"
+      },
+      "artists": [
+        {
+          "name": "Zay Johnny",
+          "url": "https://open.spotify.com/artist/2KMXU26kdchtzGVDW3ahYJ"
+        },
+        {
+          "name": "Gemaine",
+          "url": "https://open.spotify.com/artist/6WnCnGe06iOO6fTPYAPF03"
+        }
+      ],
+      "duration_ms": 123150,
+      "name": "Deep Ellum Interlude",
+      "url": "https://open.spotify.com/track/2CFc6yF8uTLAYO78cJgSSB"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -867,22 +923,6 @@
       "duration_ms": 160581,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/2ZqOCKuFkKhAZDRYI90EHb"
-    },
-    {
-      "added_at": "2024-02-09 18:38:40",
-      "album": {
-        "name": "HER TYPE",
-        "url": "https://open.spotify.com/album/4DfxxY8alxdZD8pqCxXLpO"
-      },
-      "artists": [
-        {
-          "name": "Eli Derby",
-          "url": "https://open.spotify.com/artist/6Zyna13TkHdrEc4NFljS9u"
-        }
-      ],
-      "duration_ms": 139885,
-      "name": "HER TYPE",
-      "url": "https://open.spotify.com/track/3RaW9KtmsJaDDsbXYPQLOh"
     },
     {
       "added_at": "2024-01-19 06:47:03",
@@ -1301,26 +1341,6 @@
       "url": "https://open.spotify.com/track/2Aef1eaUQAOu4tDEHL0E0u"
     },
     {
-      "added_at": "2024-01-12 06:08:31",
-      "album": {
-        "name": "Yam Grier",
-        "url": "https://open.spotify.com/album/4yRSYMAzTAg4HEUjVVwfhU"
-      },
-      "artists": [
-        {
-          "name": "Zyah Belle",
-          "url": "https://open.spotify.com/artist/09q46aTaAsSGoLID49Y6Sx"
-        },
-        {
-          "name": "Jane Handcock",
-          "url": "https://open.spotify.com/artist/0bl51qrk7bbplQWzpO2fqD"
-        }
-      ],
-      "duration_ms": 209693,
-      "name": "Closure (feat. Jane Handcock)",
-      "url": "https://open.spotify.com/track/6Li90fECyiwWCx7OfqbxyL"
-    },
-    {
       "added_at": "2024-01-10 17:00:00",
       "album": {
         "name": "Fantasy (Give It All)",
@@ -1359,26 +1379,6 @@
       "duration_ms": 143773,
       "name": "nite",
       "url": "https://open.spotify.com/track/5d2sBOqleqxg8noBOvQEYa"
-    },
-    {
-      "added_at": "2024-01-10 17:00:00",
-      "album": {
-        "name": "Summer Breeze",
-        "url": "https://open.spotify.com/album/53xFvK9UHs6TujEwY2NZhb"
-      },
-      "artists": [
-        {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
-        },
-        {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
-        }
-      ],
-      "duration_ms": 238917,
-      "name": "Summer Breeze",
-      "url": "https://open.spotify.com/track/3Xp7M0XASUptb61H0mLAcQ"
     },
     {
       "added_at": "2024-01-10 17:00:00",

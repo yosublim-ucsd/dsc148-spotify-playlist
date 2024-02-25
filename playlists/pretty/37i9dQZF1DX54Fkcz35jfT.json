@@ -1,12 +1,12 @@
 {
   "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: Paledusk",
-  "num_followers": 43564,
+  "num_followers": 43575,
   "original_name": "Loud Rock Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOTU0MjU0MWJiODA5MmNiZTA3N2E2ZmI3NTBmMDQ1MDdmZTc3ZTYx",
+  "snapshot_id": "MCxlZDkxZGM5ODkxYzVlNzRmNzllMzEzZThmMzFkODZhN2EzMzIxZGZm",
   "tracks": [
     {
       "added_at": "2024-02-20 15:01:00",
@@ -911,6 +911,22 @@
     {
       "added_at": "2024-02-20 15:01:00",
       "album": {
+        "name": "Songs",
+        "url": "https://open.spotify.com/album/5KCNofx4mr0Blk7WXGiPXU"
+      },
+      "artists": [
+        {
+          "name": "Age Factory",
+          "url": "https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "SONGS",
+      "url": "https://open.spotify.com/track/0l93cYkJLTiSgHSBGful5p"
+    },
+    {
+      "added_at": "2024-02-20 15:01:00",
+      "album": {
         "name": "SLAY!!",
         "url": "https://open.spotify.com/album/1Si2sHK43ZueadlTaBP6bO"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 192753,
       "name": "SLAY!!",
       "url": "https://open.spotify.com/track/5r2ctEKO9aSEudC85lqZZT"
-    },
-    {
-      "added_at": "2024-02-20 15:01:00",
-      "album": {
-        "name": "Be The One",
-        "url": "https://open.spotify.com/album/5242skyRrpMPFR9dYgFZpq"
-      },
-      "artists": [
-        {
-          "name": "HEY-SMITH",
-          "url": "https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL"
-        }
-      ],
-      "duration_ms": 186962,
-      "name": "Be The One",
-      "url": "https://open.spotify.com/track/2qsCq95jjiHvlpAT7fsMQm"
     },
     {
       "added_at": "2024-02-20 15:01:00",
@@ -979,6 +979,22 @@
       "duration_ms": 236013,
       "name": "VIBES BY VIBES",
       "url": "https://open.spotify.com/track/4IQ8TRkM7s24li5Y6xbEtp"
+    },
+    {
+      "added_at": "2024-02-20 15:01:00",
+      "album": {
+        "name": "Be The One",
+        "url": "https://open.spotify.com/album/5242skyRrpMPFR9dYgFZpq"
+      },
+      "artists": [
+        {
+          "name": "HEY-SMITH",
+          "url": "https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL"
+        }
+      ],
+      "duration_ms": 186962,
+      "name": "Be The One",
+      "url": "https://open.spotify.com/track/2qsCq95jjiHvlpAT7fsMQm"
     },
     {
       "added_at": "2024-02-20 15:01:00",
@@ -1063,38 +1079,6 @@
     {
       "added_at": "2024-02-20 15:01:00",
       "album": {
-        "name": "These Magic Words",
-        "url": "https://open.spotify.com/album/2WKzfJK53JJ4R8BEXawsxW"
-      },
-      "artists": [
-        {
-          "name": "Ken Yokoyama",
-          "url": "https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX"
-        }
-      ],
-      "duration_ms": 173279,
-      "name": "These Magic Words",
-      "url": "https://open.spotify.com/track/4RgwEZ392WaZCYOKOq3ALC"
-    },
-    {
-      "added_at": "2024-02-20 15:01:00",
-      "album": {
-        "name": "Songs",
-        "url": "https://open.spotify.com/album/5KCNofx4mr0Blk7WXGiPXU"
-      },
-      "artists": [
-        {
-          "name": "Age Factory",
-          "url": "https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "SONGS",
-      "url": "https://open.spotify.com/track/0l93cYkJLTiSgHSBGful5p"
-    },
-    {
-      "added_at": "2024-02-20 15:01:00",
-      "album": {
         "name": "\u30b3\u30ea\u30f3\u30ba",
         "url": "https://open.spotify.com/album/2WaRUGRx1I5uRs0hrMEFYk"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 160306,
       "name": "Keep going",
       "url": "https://open.spotify.com/track/0ZCpVXA2TCoxpYCdtnQWJg"
+    },
+    {
+      "added_at": "2024-02-20 15:01:00",
+      "album": {
+        "name": "These Magic Words",
+        "url": "https://open.spotify.com/album/2WKzfJK53JJ4R8BEXawsxW"
+      },
+      "artists": [
+        {
+          "name": "Ken Yokoyama",
+          "url": "https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX"
+        }
+      ],
+      "duration_ms": 173279,
+      "name": "These Magic Words",
+      "url": "https://open.spotify.com/track/4RgwEZ392WaZCYOKOq3ALC"
     },
     {
       "added_at": "2024-02-20 15:01:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-02-20 15:01:00",
       "album": {
-        "name": "\u30e6\u30ca\u30a4\u30c6\u30c3\u30c9\u30d1\u30f3\u30b1\u30fc\u30ad",
-        "url": "https://open.spotify.com/album/0ws17q0T3CgE9l4KBx4sTW"
-      },
-      "artists": [
-        {
-          "name": "domico",
-          "url": "https://open.spotify.com/artist/0CQuAKiUYqH0OK020E3miJ"
-        }
-      ],
-      "duration_ms": 161747,
-      "name": "\u30e6\u30ca\u30a4\u30c6\u30c3\u30c9\u30d1\u30f3\u30b1\u30fc\u30ad",
-      "url": "https://open.spotify.com/track/35wXqoRa5J448Mi4EcRzWM"
-    },
-    {
-      "added_at": "2024-02-20 15:01:00",
-      "album": {
         "name": "PARADISE (Kill The Silence)",
         "url": "https://open.spotify.com/album/6SdcvS3W4Rhs36uOpb3gb7"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 139892,
       "name": "YAEN",
       "url": "https://open.spotify.com/track/1UDmCjvSERuwfm71qJoOqs"
+    },
+    {
+      "added_at": "2024-02-20 15:01:00",
+      "album": {
+        "name": "\u30e6\u30ca\u30a4\u30c6\u30c3\u30c9\u30d1\u30f3\u30b1\u30fc\u30ad",
+        "url": "https://open.spotify.com/album/0ws17q0T3CgE9l4KBx4sTW"
+      },
+      "artists": [
+        {
+          "name": "domico",
+          "url": "https://open.spotify.com/artist/0CQuAKiUYqH0OK020E3miJ"
+        }
+      ],
+      "duration_ms": 161747,
+      "name": "\u30e6\u30ca\u30a4\u30c6\u30c3\u30c9\u30d1\u30f3\u30b1\u30fc\u30ad",
+      "url": "https://open.spotify.com/track/35wXqoRa5J448Mi4EcRzWM"
     },
     {
       "added_at": "2024-02-20 15:01:00",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-02-20 15:01:00",
       "album": {
-        "name": "\u6c38\u9060\u5c11\u5973",
-        "url": "https://open.spotify.com/album/5NNnqLKCYbLjnz63CnvnKQ"
-      },
-      "artists": [
-        {
-          "name": "ZAZEN BOYS",
-          "url": "https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM"
-        }
-      ],
-      "duration_ms": 242973,
-      "name": "\u6c38\u9060\u5c11\u5973",
-      "url": "https://open.spotify.com/track/1f5lVcQBXRG4tXR9Vk2eMs"
-    },
-    {
-      "added_at": "2024-02-20 15:01:00",
-      "album": {
         "name": "6or9",
         "url": "https://open.spotify.com/album/37YSueAOHDxEEDW2SKmmBW"
       },
@@ -1339,18 +1323,18 @@
     {
       "added_at": "2024-02-20 15:01:00",
       "album": {
-        "name": "RISE",
-        "url": "https://open.spotify.com/album/6aigT9ZhKsG8bBVEx75JzH"
+        "name": "\u6c38\u9060\u5c11\u5973",
+        "url": "https://open.spotify.com/album/5NNnqLKCYbLjnz63CnvnKQ"
       },
       "artists": [
         {
-          "name": "NEMOPHILA",
-          "url": "https://open.spotify.com/artist/1ijXMkMWUj8mJrW2SnIvpp"
+          "name": "ZAZEN BOYS",
+          "url": "https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM"
         }
       ],
-      "duration_ms": 201105,
-      "name": "RISE",
-      "url": "https://open.spotify.com/track/7IOWVbArUAldsxLamaQt8R"
+      "duration_ms": 242973,
+      "name": "\u6c38\u9060\u5c11\u5973",
+      "url": "https://open.spotify.com/track/1f5lVcQBXRG4tXR9Vk2eMs"
     },
     {
       "added_at": "2024-02-20 15:01:00",
@@ -1371,18 +1355,18 @@
     {
       "added_at": "2024-02-20 15:01:00",
       "album": {
-        "name": "STEADY",
-        "url": "https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w"
+        "name": "RISE",
+        "url": "https://open.spotify.com/album/6aigT9ZhKsG8bBVEx75JzH"
       },
       "artists": [
         {
-          "name": "SHANK",
-          "url": "https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF"
+          "name": "NEMOPHILA",
+          "url": "https://open.spotify.com/artist/1ijXMkMWUj8mJrW2SnIvpp"
         }
       ],
-      "duration_ms": 131680,
-      "name": "Drain Water",
-      "url": "https://open.spotify.com/track/0zSJONiunE3g3fGjq7W4kv"
+      "duration_ms": 201105,
+      "name": "RISE",
+      "url": "https://open.spotify.com/track/7IOWVbArUAldsxLamaQt8R"
     },
     {
       "added_at": "2024-02-20 15:01:00",
@@ -1403,6 +1387,22 @@
     {
       "added_at": "2024-02-20 15:01:00",
       "album": {
+        "name": "STEADY",
+        "url": "https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w"
+      },
+      "artists": [
+        {
+          "name": "SHANK",
+          "url": "https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF"
+        }
+      ],
+      "duration_ms": 131680,
+      "name": "Drain Water",
+      "url": "https://open.spotify.com/track/0zSJONiunE3g3fGjq7W4kv"
+    },
+    {
+      "added_at": "2024-02-20 15:01:00",
+      "album": {
         "name": "RARA",
         "url": "https://open.spotify.com/album/6vV4OJGtCjvJD6OdaoCQ9c"
       },
@@ -1415,6 +1415,22 @@
       "duration_ms": 235973,
       "name": "NAME",
       "url": "https://open.spotify.com/track/38b2nMKtd1qiVBkULMQti2"
+    },
+    {
+      "added_at": "2024-02-20 15:01:00",
+      "album": {
+        "name": "PALEHELL",
+        "url": "https://open.spotify.com/album/4RJm4nESvtZRn9MV3sOs9V"
+      },
+      "artists": [
+        {
+          "name": "Paledusk",
+          "url": "https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa"
+        }
+      ],
+      "duration_ms": 221333,
+      "name": "PALEHELL",
+      "url": "https://open.spotify.com/track/2UvREDGrD9wA4fcSjcRDpg"
     },
     {
       "added_at": "2024-02-20 15:01:00",
@@ -1483,26 +1499,6 @@
     {
       "added_at": "2024-02-20 15:01:00",
       "album": {
-        "name": "RUMBLE",
-        "url": "https://open.spotify.com/album/1q3QicMrnFJ4RrdFcVyvig"
-      },
-      "artists": [
-        {
-          "name": "Paledusk",
-          "url": "https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa"
-        },
-        {
-          "name": "Masato",
-          "url": "https://open.spotify.com/artist/11xDXwn09ERXhnM1wZgywo"
-        }
-      ],
-      "duration_ms": 281624,
-      "name": "RUMBLE",
-      "url": "https://open.spotify.com/track/5TJii7hQr93G7yYdgO5RAU"
-    },
-    {
-      "added_at": "2024-02-20 15:01:00",
-      "album": {
         "name": "GIANTSTAMP",
         "url": "https://open.spotify.com/album/57na8P5liC3zgZTG72lz2S"
       },
@@ -1535,6 +1531,26 @@
     {
       "added_at": "2024-02-20 15:01:00",
       "album": {
+        "name": "RUMBLE",
+        "url": "https://open.spotify.com/album/1q3QicMrnFJ4RrdFcVyvig"
+      },
+      "artists": [
+        {
+          "name": "Paledusk",
+          "url": "https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa"
+        },
+        {
+          "name": "Masato",
+          "url": "https://open.spotify.com/artist/11xDXwn09ERXhnM1wZgywo"
+        }
+      ],
+      "duration_ms": 281624,
+      "name": "RUMBLE",
+      "url": "https://open.spotify.com/track/5TJii7hQr93G7yYdgO5RAU"
+    },
+    {
+      "added_at": "2024-02-20 15:01:00",
+      "album": {
         "name": "\u30cf\u30c3\u30d4\u30fc\u30a6\u30a7\u30c7\u30a3\u30f3\u30b0\u524d\u30bd\u30f3\u30b0 (2\u5e74\u4ee5\u5185\u306b\u5225\u308c\u306a\u3044ver.)",
         "url": "https://open.spotify.com/album/4oKEQDyW0bVuES2JPlAhjd"
       },
@@ -1551,22 +1567,6 @@
     {
       "added_at": "2024-02-20 15:01:00",
       "album": {
-        "name": "Better Left Unsaid",
-        "url": "https://open.spotify.com/album/20Da1RKmes9labrfvYqkAP"
-      },
-      "artists": [
-        {
-          "name": "Ken Yokoyama",
-          "url": "https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX"
-        }
-      ],
-      "duration_ms": 206999,
-      "name": "Better Left Unsaid",
-      "url": "https://open.spotify.com/track/7htGPQWvAMFSbGwkh2UIVx"
-    },
-    {
-      "added_at": "2024-02-20 15:01:00",
-      "album": {
         "name": "AXIS",
         "url": "https://open.spotify.com/album/3lVu6JZpO1wk2IBpU4j88Q"
       },
@@ -1579,6 +1579,22 @@
       "duration_ms": 224527,
       "name": "Hunter or Prey",
       "url": "https://open.spotify.com/track/1uDADMKPdOgZvthrIqvOyb"
+    },
+    {
+      "added_at": "2024-02-20 15:01:00",
+      "album": {
+        "name": "Better Left Unsaid",
+        "url": "https://open.spotify.com/album/20Da1RKmes9labrfvYqkAP"
+      },
+      "artists": [
+        {
+          "name": "Ken Yokoyama",
+          "url": "https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX"
+        }
+      ],
+      "duration_ms": 206999,
+      "name": "Better Left Unsaid",
+      "url": "https://open.spotify.com/track/7htGPQWvAMFSbGwkh2UIVx"
     },
     {
       "added_at": "2024-02-20 15:01:00",
@@ -1643,22 +1659,6 @@
       "duration_ms": 207006,
       "name": "Seaside",
       "url": "https://open.spotify.com/track/6rwSf69yMf3c2dfqkoVt8b"
-    },
-    {
-      "added_at": "2024-02-20 15:01:00",
-      "album": {
-        "name": "LUST (Selected Edition)",
-        "url": "https://open.spotify.com/album/5kAkYG1awEWhHuqDP5FjZE"
-      },
-      "artists": [
-        {
-          "name": "\u30b3\u30ed\u30ca\u30ca\u30e2\u30ec\u30e2\u30e2",
-          "url": "https://open.spotify.com/artist/1LrHPFKVeA6Lw0vffeFZbr"
-        }
-      ],
-      "duration_ms": 222479,
-      "name": "\u30d3\u30ad\u30cb\u30fb\u30b9\u30dd\u30fc\u30c4\u30fb\u30dd\u30f3\u30c1\u30f3",
-      "url": "https://open.spotify.com/track/3cSfR5ePuViozu47qMhxNv"
     }
   ],
   "unique_name": "Loud Rock Japan",

@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 735692,
+  "2024-02-25": 736330,
   "date_first_scraped": "2023-10-07",
   "description": "ou vc dan\u00e7a ou o grave t balan\u00e7a",
   "name": "funk challenge",
@@ -162,6 +162,40 @@
     },
     {
       "album": {
+        "name": "Ai Ui Que Bunda Que Voc\u00ea Tem",
+        "url": "https://open.spotify.com/album/50saEBrPbzwkF47hgs6cL8"
+      },
+      "artists": [
+        {
+          "name": "Mc Kitinho",
+          "url": "https://open.spotify.com/artist/1d2PrJ5wELpihT8yrwH4mO"
+        },
+        {
+          "name": "DJ DEIV\u00c3O",
+          "url": "https://open.spotify.com/artist/5dLVqC89Drj8IZ82EICZZk"
+        },
+        {
+          "name": "Silva Mc",
+          "url": "https://open.spotify.com/artist/7v4hw85pzG0M9kJHlBGsi3"
+        },
+        {
+          "name": "MC Flavinho",
+          "url": "https://open.spotify.com/artist/25AjzG7UO6tKfw11bwPscM"
+        },
+        {
+          "name": "MC GIL DO ANDARAI",
+          "url": "https://open.spotify.com/artist/5ZHOFwo9fCShzy3rTXEsYt"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135057,
+      "name": "Ai Ui Que Bunda Que Voc\u00ea Tem",
+      "url": "https://open.spotify.com/track/1hKva9BUEPMAz4rwGCL2XE"
+    },
+    {
+      "album": {
         "name": "Al\u00f4 Novinha na Inten\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/5lpW7G4nir5Uve6BoI1agN"
       },
@@ -244,7 +278,7 @@
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 210168,
+      "duration_ms": 210512,
       "name": "Amor \u00c9 Mentira",
       "url": "https://open.spotify.com/track/3syxcxgRLd25yPYfG8qsot"
     },
@@ -1014,6 +1048,32 @@
     },
     {
       "album": {
+        "name": "Three Single",
+        "url": "https://open.spotify.com/album/5tZJDJHCq5m7rmSt36SYYP"
+      },
+      "artists": [
+        {
+          "name": "MC Jvila",
+          "url": "https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO"
+        },
+        {
+          "name": "DJ Torricelli",
+          "url": "https://open.spotify.com/artist/5DEyhfcrXFzsKDCBcTNyn3"
+        },
+        {
+          "name": "DJ CARLINHOS",
+          "url": "https://open.spotify.com/artist/6FBX3c5yWFrMF2VCoMYNQ7"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164410,
+      "name": "Eu N\u00e3o Consigo Entender",
+      "url": "https://open.spotify.com/track/4jwiF4S20Rc5ribUUTQBnx"
+    },
+    {
+      "album": {
         "name": "Eu Vou Cair na Noite",
         "url": "https://open.spotify.com/album/1sCX9he2eSwF1OcE3wWwOW"
       },
@@ -1683,6 +1743,24 @@
       "duration_ms": 161284,
       "name": "Mega Funk Lost",
       "url": "https://open.spotify.com/track/1xWnRVOZiVLkSIJbNRfiy8"
+    },
+    {
+      "album": {
+        "name": "MEGA FUNK M\u00c1GICO DO SOM",
+        "url": "https://open.spotify.com/album/2F4CL3NcRe6jLY2by2asR9"
+      },
+      "artists": [
+        {
+          "name": "Dj M\u00edchels",
+          "url": "https://open.spotify.com/artist/2erYQq0aqdpj8YSJlxY76K"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368610,
+      "name": "MEGA FUNK M\u00c1GICO DO SOM",
+      "url": "https://open.spotify.com/track/37DFTPp8AhVJ6TEkKjW4ZD"
     },
     {
       "album": {
@@ -3023,6 +3101,24 @@
       "duration_ms": 174627,
       "name": "Ritmadinha Magn\u00edfica",
       "url": "https://open.spotify.com/track/3iYnR3R920UjhmWaWI9OiE"
+    },
+    {
+      "album": {
+        "name": "RITMINHO DO FUNK CARIOCA",
+        "url": "https://open.spotify.com/album/79f6J7SdFhPlscCB4e5sBW"
+      },
+      "artists": [
+        {
+          "name": "Evrido",
+          "url": "https://open.spotify.com/artist/3nPR47yybren4Tgt40dstS"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395737,
+      "name": "RITMINHO DO FUNK CARIOCA",
+      "url": "https://open.spotify.com/track/0NfTUts3LtgpVVaZQ1wBwI"
     },
     {
       "album": {

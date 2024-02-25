@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 337320,
+  "2024-02-25": 337309,
   "date_first_scraped": "2023-12-14",
   "description": "Tune in for the years hottest Kpop tracks. <a href=\"https://lnk.to/EndOfYearSaleOS\">All these hits available to buy on vinyl here!</a> K-Pop Tunes | Kpop Mix | Kpop Boyband | Kpop Girl Groups | Cover: NewJeans",
   "name": "K-Pop Hits 2024",
@@ -281,6 +281,24 @@
       "duration_ms": 147880,
       "name": "Cool With You",
       "url": "https://open.spotify.com/track/02wk5BttM0QL38ERjLPQJB"
+    },
+    {
+      "album": {
+        "name": "Diamond",
+        "url": "https://open.spotify.com/album/5MM3zQXvFmpTBDe45rVida"
+      },
+      "artists": [
+        {
+          "name": "TRI.BE",
+          "url": "https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183560,
+      "name": "Diamond",
+      "url": "https://open.spotify.com/track/4SjL5rKPVxe2K2FnjluuVa"
     },
     {
       "album": {

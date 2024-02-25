@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 124312,
+  "2024-02-25": 124370,
   "date_first_scraped": "2021-12-28",
   "description": "\u0623\u062d\u062f\u062b \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0647\u0646\u0627\ud83e\udd29 \u0627\u0644\u063a\u0644\u0627\u0641: \u0628\u0647\u0627\u0621 \u0633\u0644\u0637\u0627\u0646\n",
   "name": "\u0645\u0635\u0631\u064a \u062c\u062f\u064a\u062f",
@@ -1259,7 +1259,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 311600,
       "name": "An Farh Ghayeb",
       "url": "https://open.spotify.com/track/64ADmsVX0pw03E6gTjtVqY"
@@ -5969,7 +5969,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 166058,
       "name": "Khod Debletak",
       "url": "https://open.spotify.com/track/55PIEMFEe6OtUNq3o46EkU"
@@ -6537,7 +6537,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 230493,
       "name": "Law Tes'aleeny",
       "url": "https://open.spotify.com/track/5ug0O0aWp6ZTNPLwKno7MX"
@@ -7163,6 +7163,24 @@
       "duration_ms": 206618,
       "name": "Magash Mennek",
       "url": "https://open.spotify.com/track/7jTV5xzP8f252w6xS6isRv"
+    },
+    {
+      "album": {
+        "name": "Magrouh",
+        "url": "https://open.spotify.com/album/7HIVTi69bteqVYPuiDIPNh"
+      },
+      "artists": [
+        {
+          "name": "Ali Al Sagheer",
+          "url": "https://open.spotify.com/artist/0pQ3EwYr7woD1Vb3iFb9tw"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158985,
+      "name": "Magrouh",
+      "url": "https://open.spotify.com/track/6vjFrVERogNuQbyjGhJf0w"
     },
     {
       "album": {
@@ -9749,7 +9767,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 216709,
       "name": "Ta3ala Wefrah",
       "url": "https://open.spotify.com/track/6qAzmWlNTpJAzw2nwNdO2t"
@@ -11080,6 +11098,24 @@
     },
     {
       "album": {
+        "name": "Ya Khsara",
+        "url": "https://open.spotify.com/album/4PSYyfCAw0opDo9xKlv1tz"
+      },
+      "artists": [
+        {
+          "name": "Ghaliaa",
+          "url": "https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172376,
+      "name": "Ya Khsara",
+      "url": "https://open.spotify.com/track/3NHzvUVVmkNQ6hQ9VJMbJq"
+    },
+    {
+      "album": {
         "name": "Ya Layaly",
         "url": "https://open.spotify.com/album/3p1T8i6PfyTuZkaXMBQGX7"
       },
@@ -11286,6 +11322,24 @@
     },
     {
       "album": {
+        "name": "Ye3esh 7Essak",
+        "url": "https://open.spotify.com/album/1uhLl2V5GDoFVK8Pr17xGy"
+      },
+      "artists": [
+        {
+          "name": "Amal Mansy",
+          "url": "https://open.spotify.com/artist/3gpaXBJk41UwHBOMY27VdQ"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205285,
+      "name": "Ye3esh 7essak",
+      "url": "https://open.spotify.com/track/1c9TnPI1usl5RrhX7e7nbG"
+    },
+    {
+      "album": {
         "name": "Yegy Menha / Men Film Hashtag Gawwzny",
         "url": "https://open.spotify.com/album/13GIt02TWZjixo3i26W9hM"
       },
@@ -11301,6 +11355,24 @@
       "duration_ms": 190000,
       "name": "Yegy Menha / Men Film Hashtag Gawwzny",
       "url": "https://open.spotify.com/track/4WyUnySbjZajrRUm9fAzWo"
+    },
+    {
+      "album": {
+        "name": "Yekhrbet El Hob",
+        "url": "https://open.spotify.com/album/6NA27gG9z2UxPCUHXngFyR"
+      },
+      "artists": [
+        {
+          "name": "Akram Adel",
+          "url": "https://open.spotify.com/artist/3TL9vhTxFtRnEBMPhLM2ia"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191727,
+      "name": "Yekhrbet El Hob",
+      "url": "https://open.spotify.com/track/2eILqHyR1dVkyyQu8aFTba"
     },
     {
       "album": {
@@ -15307,7 +15379,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 237871,
       "name": "\u0645\u0639\u0644\u0634",
       "url": "https://open.spotify.com/track/0XbZAACv4UZAU5mKOCLa9T"

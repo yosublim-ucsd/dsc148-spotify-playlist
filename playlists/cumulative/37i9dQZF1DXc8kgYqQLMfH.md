@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-1,129 songs - 1 day 18 hr 47 min
+1,130 songs - 1 day 18 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [Cloudless Horizon](https://open.spotify.com/track/4lG6c9JltUjFPBXzR6PUe9) | [d'Andy](https://open.spotify.com/artist/6OBQW4uISzDYrUR5dEYhkb) | [Cloudless Horizon](https://open.spotify.com/album/2PWpUIo77qYk3IqDyIfbus) | 1:42 | 2023-02-17 | 2023-08-04 |
 | [Clouds](https://open.spotify.com/track/6lvcW2TWmHkV9DUSR55uXs) | [Agx12](https://open.spotify.com/artist/49UL7yljFCnRKP4ZDVY6q5), [Adbeel](https://open.spotify.com/artist/7i5bDhrZDrpdLX9XHGjkbj) | [Clouds](https://open.spotify.com/album/2FNg9YwxmrHVMbr3aL4HBJ) | 2:08 | 2022-09-02 | 2023-10-06 |
 | [Cloudy Haze](https://open.spotify.com/track/6tcHiMVFJ2mSL8S0xFZafh) | [Rein Dayz](https://open.spotify.com/artist/7wiw28FhChBCUr3VYQ68HI) | [Cloudy Haze](https://open.spotify.com/album/5fzU8llBFqIRTGbVweNrQl) | 2:16 | 2023-12-22 |  |
+| [coconut](https://open.spotify.com/track/4VLf2JAtJmzHaKvA8mOlmu) | [Ali Kaj](https://open.spotify.com/artist/06VNBq9wJN4eEo6ZRM7HGI) | [coconut](https://open.spotify.com/album/1uqMqtvFq5jns7j9kZPvKd) | 2:50 | 2024-02-23 |  |
 | [Coffee Break](https://open.spotify.com/track/2iQ7zLgkFg5oz9GszNqKad) | [flat disc](https://open.spotify.com/artist/65GQa6LQz8LMbqjGb8qY5g) | [Coffee Break](https://open.spotify.com/album/1jd8sYTu2nql0HNKUoRwWF) | 2:19 | 2022-10-15 | 2024-02-21 |
 | [Cold Breeze](https://open.spotify.com/track/1vhYXAKylvmoBAeWVMnXVg) | [Chill Denis](https://open.spotify.com/artist/4gOKqVqVRQCGUrc70alpbr) | [Cold Breeze](https://open.spotify.com/album/6hTlSMabr9DBUhUfDdQoeO) | 2:25 | 2022-10-28 | 2023-09-26 |
 | [Cold Pillows](https://open.spotify.com/track/6a3UWWhZheDHZMi8hBLKgn) | [Tailwinds](https://open.spotify.com/artist/6W50Jtaz33gA5opvEA0q0g) | [Softer](https://open.spotify.com/album/1WvWdv5jyAbPHwEgT7nfbf) | 3:20 | 2021-11-10 | 2023-03-02 |
@@ -615,7 +616,7 @@
 | [Meditation](https://open.spotify.com/track/7MnDyrWn3Dj9qpcDM3QTdO) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Meditation](https://open.spotify.com/album/0NqsqLK6jSuRo8GuhrlwiT) | 1:22 | 2022-12-09 |  |
 | [meet](https://open.spotify.com/track/6SlJOOHQDkUERNJOb2zo1Q) | [pipetiger](https://open.spotify.com/artist/12HMurN87aQV1xBcqfcjnL) | [meet](https://open.spotify.com/album/2hFyV6uy0qOzuv1nIRqDax) | 2:02 | 2023-02-07 |  |
 | [Meeting Up At Night](https://open.spotify.com/track/1VSqMBcvU4vsgtcyBBGyag) | [Natasha Ghosh](https://open.spotify.com/artist/1NdDUOuRmmfgKiuWKUEp7z), [eaup](https://open.spotify.com/artist/5MvvhhTGyd2iGzaksZpLEt) | [Meeting Up At Night](https://open.spotify.com/album/6u5bkANy5hqUH9s2riEFXN) | 2:57 | 2022-07-01 | 2023-09-22 |
-| [Meetings](https://open.spotify.com/track/2gZpKWXtpyUHQf9LZBJCCA) | [Jorick](https://open.spotify.com/artist/0GE8ydB4Bg776B35TRKm52) | [Meetings](https://open.spotify.com/album/6By26w3NxZYcaWCVk2vyOH) | 2:40 | 2022-10-28 |  |
+| [Meetings](https://open.spotify.com/track/2gZpKWXtpyUHQf9LZBJCCA) | [Jorick](https://open.spotify.com/artist/0GE8ydB4Bg776B35TRKm52) | [Meetings](https://open.spotify.com/album/6By26w3NxZYcaWCVk2vyOH) | 2:40 | 2022-10-28 | 2024-02-25 |
 | [mellow](https://open.spotify.com/track/6NQifrTw9bIazUX9oGfSsa) | [shogani](https://open.spotify.com/artist/0y76RS7R6xSSztxu7QfvN0) | [mellow](https://open.spotify.com/album/5hrFU6NdaH8oCAOZAy7wP0) | 2:07 | 2021-11-10 | 2022-10-29 |
 | [Melon Madness](https://open.spotify.com/track/7pUcVgQVYJuCBUDJOZUjZs) | [Dip Lewis](https://open.spotify.com/artist/1WJVNwZkJiTU9YRr6vEGx0) | [Melon Madness](https://open.spotify.com/album/4d3SCKEx0V4p1kEPFXoxfu) | 2:18 | 2022-09-02 |  |
 | [Melt](https://open.spotify.com/track/6p1N8bVALlHeDZDepblht2) | [Loose Principles](https://open.spotify.com/artist/6sVzSwvK7Wq0a0xjHk8tGk) | [Melt](https://open.spotify.com/album/36z7ppKin2XyN9FYtwTsnZ) | 2:36 | 2023-09-29 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Immerse yourself in Ambient from the first decade of the 21st century. ",
-  "num_followers": 21095,
+  "num_followers": 21132,
   "original_name": "Ambient 2000s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZmI0YjNmNzFjMzBlZGI5ODYzZDdlZDExYWQwMjJlYzIwNjljNmIx",
+  "snapshot_id": "MCxkZmVkN2YyYjA0ZjhmMjAwYjY1YzI4Yzg1MWRkN2ZlNjBlMTNjM2Rh",
   "tracks": [
     {
       "added_at": "2023-08-04 12:53:28",
@@ -307,22 +307,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "92982",
-        "url": "https://open.spotify.com/album/6a22PsvseOZcFqySU0jQvk"
-      },
-      "artists": [
-        {
-          "name": "William Basinski",
-          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
-        }
-      ],
-      "duration_ms": 423440,
-      "name": "92982.3",
-      "url": "https://open.spotify.com/track/14jjKMNUMd8lKIdaqwn4XG"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Geogaddi",
         "url": "https://open.spotify.com/album/4T7JGfRryhw5POaXalkApE"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 172026,
       "name": "Corsair",
       "url": "https://open.spotify.com/track/4rRe3lijaWtTbLEtAmwGKH"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "92982",
+        "url": "https://open.spotify.com/album/6a22PsvseOZcFqySU0jQvk"
+      },
+      "artists": [
+        {
+          "name": "William Basinski",
+          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
+        }
+      ],
+      "duration_ms": 423440,
+      "name": "92982.3",
+      "url": "https://open.spotify.com/track/14jjKMNUMd8lKIdaqwn4XG"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "The Campfire Headphase",
-        "url": "https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU"
-      },
-      "artists": [
-        {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
-        }
-      ],
-      "duration_ms": 161853,
-      "name": "Sherbet Head",
-      "url": "https://open.spotify.com/track/4A14Tvo2k0Ty2RWHdwj1ZD"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "The Dead Texan",
         "url": "https://open.spotify.com/album/55mLyioYUt6V3TxkFObTEo"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 182720,
       "name": "The Six Million Dollar Sandwich",
       "url": "https://open.spotify.com/track/50agOpq6jS1rg4VrZ9Noly"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "The Campfire Headphase",
+        "url": "https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "duration_ms": 161853,
+      "name": "Sherbet Head",
+      "url": "https://open.spotify.com/track/4A14Tvo2k0Ty2RWHdwj1ZD"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -667,18 +667,18 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Talk Amongst the Trees",
-        "url": "https://open.spotify.com/album/6926m4gBSRgEduj23vjc6p"
+        "name": "The Disintegration Loops (Remastered)",
+        "url": "https://open.spotify.com/album/5fmPy3XmYD0BJKEr86a3Cu"
       },
       "artists": [
         {
-          "name": "Eluvium",
-          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
+          "name": "William Basinski",
+          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
         }
       ],
-      "duration_ms": 129800,
-      "name": "We Say Goodbye To Ourselves",
-      "url": "https://open.spotify.com/track/2D7BAfmLR4ixVprkt479so"
+      "duration_ms": 650213,
+      "name": "dlp 2.1",
+      "url": "https://open.spotify.com/track/0cXp19NraVBtCGmEkrK7rZ"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -699,18 +699,18 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "The Disintegration Loops (Remastered)",
-        "url": "https://open.spotify.com/album/5fmPy3XmYD0BJKEr86a3Cu"
+        "name": "Talk Amongst the Trees",
+        "url": "https://open.spotify.com/album/6926m4gBSRgEduj23vjc6p"
       },
       "artists": [
         {
-          "name": "William Basinski",
-          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
+          "name": "Eluvium",
+          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
         }
       ],
-      "duration_ms": 650213,
-      "name": "dlp 2.1",
-      "url": "https://open.spotify.com/track/0cXp19NraVBtCGmEkrK7rZ"
+      "duration_ms": 129800,
+      "name": "We Say Goodbye To Ourselves",
+      "url": "https://open.spotify.com/track/2D7BAfmLR4ixVprkt479so"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Lambent Material",
-        "url": "https://open.spotify.com/album/05YNkDNjqv9EhuvJ5GEQht"
-      },
-      "artists": [
-        {
-          "name": "Eluvium",
-          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
-        }
-      ],
-      "duration_ms": 309560,
-      "name": "Under the Water It Glowed",
-      "url": "https://open.spotify.com/track/37oYHRw3yNT2VTL1WIkpo0"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "After The Night Falls",
         "url": "https://open.spotify.com/album/37xpeBIwCGwIYKpyakvJZR"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 243506,
       "name": "How Distant Your Heart",
       "url": "https://open.spotify.com/track/3sZ1KWZYD4WZhEa0jIgVg6"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Lambent Material",
+        "url": "https://open.spotify.com/album/05YNkDNjqv9EhuvJ5GEQht"
+      },
+      "artists": [
+        {
+          "name": "Eluvium",
+          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
+        }
+      ],
+      "duration_ms": 309560,
+      "name": "Under the Water It Glowed",
+      "url": "https://open.spotify.com/track/37oYHRw3yNT2VTL1WIkpo0"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -899,18 +899,22 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "When the Detail Lost Its Freedom",
-        "url": "https://open.spotify.com/album/0Nrl8YjdGmaeuhCqFz7nBs"
+        "name": "After The Night Falls",
+        "url": "https://open.spotify.com/album/37xpeBIwCGwIYKpyakvJZR"
       },
       "artists": [
         {
-          "name": "Brian McBride",
-          "url": "https://open.spotify.com/artist/1FTBjo6ovfmw3HWkD8sZTs"
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 236773,
-      "name": "Silent Motels",
-      "url": "https://open.spotify.com/track/0sLyAfyhSi58HAuufVHshV"
+      "duration_ms": 210706,
+      "name": "And Then I Turned Away",
+      "url": "https://open.spotify.com/track/3wd0R0FUCqZTCShW5lFsMI"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -927,6 +931,22 @@
       "duration_ms": 286626,
       "name": "Borderlands",
       "url": "https://open.spotify.com/track/3hVO7ocg93xTMZDCK10xZt"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "When the Detail Lost Its Freedom",
+        "url": "https://open.spotify.com/album/0Nrl8YjdGmaeuhCqFz7nBs"
+      },
+      "artists": [
+        {
+          "name": "Brian McBride",
+          "url": "https://open.spotify.com/artist/1FTBjo6ovfmw3HWkD8sZTs"
+        }
+      ],
+      "duration_ms": 236773,
+      "name": "Silent Motels",
+      "url": "https://open.spotify.com/track/0sLyAfyhSi58HAuufVHshV"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -959,26 +979,6 @@
       "duration_ms": 278173,
       "name": "The Unfinished",
       "url": "https://open.spotify.com/track/6DhVDxXWzKRDQIG3eOkcHm"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
-        "name": "After The Night Falls",
-        "url": "https://open.spotify.com/album/37xpeBIwCGwIYKpyakvJZR"
-      },
-      "artists": [
-        {
-          "name": "Robin Guthrie",
-          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
-        },
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 210706,
-      "name": "And Then I Turned Away",
-      "url": "https://open.spotify.com/track/3wd0R0FUCqZTCShW5lFsMI"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Talk Amongst the Trees",
-        "url": "https://open.spotify.com/album/6926m4gBSRgEduj23vjc6p"
-      },
-      "artists": [
-        {
-          "name": "Eluvium",
-          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
-        }
-      ],
-      "duration_ms": 330666,
-      "name": "Calm Of The Cast-Light Cloud",
-      "url": "https://open.spotify.com/track/5e5lDuehzdZRJaoRjCmwPj"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Glider",
         "url": "https://open.spotify.com/album/3NI2Qzk6pVI88VSzgR78aI"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 341890,
       "name": "Already There",
       "url": "https://open.spotify.com/track/1KhqU5oOQeHSMkmFCUsU4j"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Talk Amongst the Trees",
+        "url": "https://open.spotify.com/album/6926m4gBSRgEduj23vjc6p"
+      },
+      "artists": [
+        {
+          "name": "Eluvium",
+          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
+        }
+      ],
+      "duration_ms": 330666,
+      "name": "Calm Of The Cast-Light Cloud",
+      "url": "https://open.spotify.com/track/5e5lDuehzdZRJaoRjCmwPj"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
+        "name": "Betrayed in the Octagon",
+        "url": "https://open.spotify.com/album/0ixr1lXtxFcj31ZGmtqjue"
+      },
+      "artists": [
+        {
+          "name": "Oneohtrix Point Never",
+          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
+        }
+      ],
+      "duration_ms": 524468,
+      "name": "Woe is the Transgression I",
+      "url": "https://open.spotify.com/track/5f64HunynQvPdqsLFs2wcx"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
         "name": "Ba Ba Ti Ki Di Do",
         "url": "https://open.spotify.com/album/0UivSfs4EofCWkNHhycH1q"
       },
@@ -1303,18 +1319,18 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Betrayed in the Octagon",
-        "url": "https://open.spotify.com/album/0ixr1lXtxFcj31ZGmtqjue"
+        "name": "Variations: A Movement In Chrome Primitive",
+        "url": "https://open.spotify.com/album/5lVFG1wgbDKhM7CQ7stlfd"
       },
       "artists": [
         {
-          "name": "Oneohtrix Point Never",
-          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
+          "name": "William Basinski",
+          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
         }
       ],
-      "duration_ms": 524468,
-      "name": "Woe is the Transgression I",
-      "url": "https://open.spotify.com/track/5f64HunynQvPdqsLFs2wcx"
+      "duration_ms": 558800,
+      "name": "Variation IV",
+      "url": "https://open.spotify.com/track/6mnkCIZgqXidyl56nDGP5p"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1375,22 +1391,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Variations: A Movement In Chrome Primitive",
-        "url": "https://open.spotify.com/album/5lVFG1wgbDKhM7CQ7stlfd"
-      },
-      "artists": [
-        {
-          "name": "William Basinski",
-          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
-        }
-      ],
-      "duration_ms": 558800,
-      "name": "Variation IV",
-      "url": "https://open.spotify.com/track/6mnkCIZgqXidyl56nDGP5p"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "The Mist",
         "url": "https://open.spotify.com/album/0hQyEbdpZx8W6WDjuYCKx1"
       },
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "7",
-        "url": "https://open.spotify.com/album/6WKXCjXWZlK1SmJYUXnMO3"
-      },
-      "artists": [
-        {
-          "name": "Philip Jeck",
-          "url": "https://open.spotify.com/artist/17Woab4l0eJybbj5ymknYK"
-        }
-      ],
-      "duration_ms": 506760,
-      "name": "Wholesome",
-      "url": "https://open.spotify.com/track/30n6bv7fnQYIK3CvaFibT7"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Streichelfisch (Remastered)",
         "url": "https://open.spotify.com/album/0Z6y85kr5QPTXVxNcyxJ54"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 351980,
       "name": "Aparaquasynthe (Remastered)",
       "url": "https://open.spotify.com/track/6OlM4VG2u07UKSdjK0kRmB"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "7",
+        "url": "https://open.spotify.com/album/6WKXCjXWZlK1SmJYUXnMO3"
+      },
+      "artists": [
+        {
+          "name": "Philip Jeck",
+          "url": "https://open.spotify.com/artist/17Woab4l0eJybbj5ymknYK"
+        }
+      ],
+      "duration_ms": 506760,
+      "name": "Wholesome",
+      "url": "https://open.spotify.com/track/30n6bv7fnQYIK3CvaFibT7"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1575,18 +1575,18 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "M\u00f8rketid",
-        "url": "https://open.spotify.com/album/0ZaEbfmPAuH2JRTGCUMiDp"
+        "name": "As Good As Gone",
+        "url": "https://open.spotify.com/album/3XzOUf4jt5OmtZZR0INzLQ"
       },
       "artists": [
         {
-          "name": "Netherworld",
-          "url": "https://open.spotify.com/artist/3BgGKIFP67i8kBOM3DsUSN"
+          "name": "Nudge",
+          "url": "https://open.spotify.com/artist/76OH9UQEealbQ15TJABkLO"
         }
       ],
-      "duration_ms": 563720,
-      "name": "New Horizons",
-      "url": "https://open.spotify.com/track/5bUqKbPcmA88YyT07rACBp"
+      "duration_ms": 45986,
+      "name": "Verdantique",
+      "url": "https://open.spotify.com/track/3IlsZWpHOUfVtOdLilNysq"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "As Good As Gone",
-        "url": "https://open.spotify.com/album/3XzOUf4jt5OmtZZR0INzLQ"
+        "name": "M\u00f8rketid",
+        "url": "https://open.spotify.com/album/0ZaEbfmPAuH2JRTGCUMiDp"
       },
       "artists": [
         {
-          "name": "Nudge",
-          "url": "https://open.spotify.com/artist/76OH9UQEealbQ15TJABkLO"
+          "name": "Netherworld",
+          "url": "https://open.spotify.com/artist/3BgGKIFP67i8kBOM3DsUSN"
         }
       ],
-      "duration_ms": 45986,
-      "name": "Verdantique",
-      "url": "https://open.spotify.com/track/3IlsZWpHOUfVtOdLilNysq"
+      "duration_ms": 563720,
+      "name": "New Horizons",
+      "url": "https://open.spotify.com/track/5bUqKbPcmA88YyT07rACBp"
     },
     {
       "added_at": "2023-08-04 12:53:28",

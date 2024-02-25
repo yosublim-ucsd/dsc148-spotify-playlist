@@ -1,12 +1,12 @@
 {
   "description": "The newest r&b drops, every week. Cover: SiR and Isaiah Rashad",
-  "num_followers": 1034573,
+  "num_followers": 1034668,
   "original_name": "R&B Weekly",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NzU1MjdhYTkyMGU3Y2E3MWZiNDk4MTQxOTMwZjAwZGQ1OTdkN2I5",
+  "snapshot_id": "MCw0MTZiYzdiMGYxNjI4MjAxMDcwOTIyZjlmMzY5NTFiNTJmMjRkNTAz",
   "tracks": [
     {
       "added_at": "2024-02-23 05:00:00",
@@ -147,6 +147,22 @@
       "duration_ms": 218571,
       "name": "Lost Without U",
       "url": "https://open.spotify.com/track/3j9PrQ2tvVzkLhQcPPBFrf"
+    },
+    {
+      "added_at": "2024-02-24 13:03:25",
+      "album": {
+        "name": "Doubt",
+        "url": "https://open.spotify.com/album/0S9vPSM57NuSvEMj3QV7Ni"
+      },
+      "artists": [
+        {
+          "name": "Samaria",
+          "url": "https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Doubt",
+      "url": "https://open.spotify.com/track/2L0goMgNORVfof0S2ULaqm"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -299,18 +315,38 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Anita Valentine",
-        "url": "https://open.spotify.com/album/1Ww9Ldlin4crfGeGOuFjok"
+        "name": "Heads Up",
+        "url": "https://open.spotify.com/album/2AsA2saG1hWf1saYVkSPAl"
       },
       "artists": [
         {
-          "name": "Devin Morrison",
-          "url": "https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW"
+          "name": "Trevor Jackson",
+          "url": "https://open.spotify.com/artist/6vZUJpsm4VHjSWpedp05vg"
         }
       ],
-      "duration_ms": 237500,
-      "name": "Anita Valentine",
-      "url": "https://open.spotify.com/track/4vVxrBVPZwG4WngQdvDAGh"
+      "duration_ms": 153680,
+      "name": "Heads Up",
+      "url": "https://open.spotify.com/track/4uFxhKQAoEowGajQmONHmU"
+    },
+    {
+      "added_at": "2024-02-24 13:03:25",
+      "album": {
+        "name": "You Got It",
+        "url": "https://open.spotify.com/album/6xZys52Lk6ywAsI76kBBmH"
+      },
+      "artists": [
+        {
+          "name": "Zyah Belle",
+          "url": "https://open.spotify.com/artist/09q46aTaAsSGoLID49Y6Sx"
+        },
+        {
+          "name": "Rexx Life Raj",
+          "url": "https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX"
+        }
+      ],
+      "duration_ms": 235609,
+      "name": "You Got It",
+      "url": "https://open.spotify.com/track/3qYA03ei7Dd6YgEe4oUjOF"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -337,20 +373,36 @@
       "url": "https://open.spotify.com/track/16BDlU9TTUv7wmEBw3vYtd"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-02-24 13:03:25",
       "album": {
-        "name": "Heads Up",
-        "url": "https://open.spotify.com/album/2AsA2saG1hWf1saYVkSPAl"
+        "name": "Fresh",
+        "url": "https://open.spotify.com/album/0OVLpCmijNHTvfTGZg5K3C"
       },
       "artists": [
         {
-          "name": "Trevor Jackson",
-          "url": "https://open.spotify.com/artist/6vZUJpsm4VHjSWpedp05vg"
+          "name": "Iman Omari",
+          "url": "https://open.spotify.com/artist/1ySUvbTVNE9pyhdzcDxjg4"
         }
       ],
-      "duration_ms": 153680,
-      "name": "Heads Up",
-      "url": "https://open.spotify.com/track/4uFxhKQAoEowGajQmONHmU"
+      "duration_ms": 206922,
+      "name": "Zone",
+      "url": "https://open.spotify.com/track/0S5MI9ZVClvTcg07igMq3Q"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Anita Valentine",
+        "url": "https://open.spotify.com/album/1Ww9Ldlin4crfGeGOuFjok"
+      },
+      "artists": [
+        {
+          "name": "Devin Morrison",
+          "url": "https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW"
+        }
+      ],
+      "duration_ms": 237500,
+      "name": "Anita Valentine",
+      "url": "https://open.spotify.com/track/4vVxrBVPZwG4WngQdvDAGh"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -491,6 +543,26 @@
       "duration_ms": 146189,
       "name": "GARDEN",
       "url": "https://open.spotify.com/track/4MYWrbhij9Hzw0uiISC22V"
+    },
+    {
+      "added_at": "2024-02-24 13:03:25",
+      "album": {
+        "name": "Deep Ellum Interlude",
+        "url": "https://open.spotify.com/album/3D3XkICzsmUP0x93LqSO5q"
+      },
+      "artists": [
+        {
+          "name": "Zay Johnny",
+          "url": "https://open.spotify.com/artist/2KMXU26kdchtzGVDW3ahYJ"
+        },
+        {
+          "name": "Gemaine",
+          "url": "https://open.spotify.com/artist/6WnCnGe06iOO6fTPYAPF03"
+        }
+      ],
+      "duration_ms": 123150,
+      "name": "Deep Ellum Interlude",
+      "url": "https://open.spotify.com/track/2CFc6yF8uTLAYO78cJgSSB"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -2067,22 +2139,6 @@
     {
       "added_at": "2024-01-26 05:01:00",
       "album": {
-        "name": "Doom Gloom",
-        "url": "https://open.spotify.com/album/7K7AkFYXsmFC3ZvS2AhddS"
-      },
-      "artists": [
-        {
-          "name": "FARR",
-          "url": "https://open.spotify.com/artist/0eHwH1Ze2lRt6KOGw1T3rq"
-        }
-      ],
-      "duration_ms": 241132,
-      "name": "Doom Gloom",
-      "url": "https://open.spotify.com/track/6FFkkUbFHFS2kPYxAIOoXp"
-    },
-    {
-      "added_at": "2024-01-26 05:01:00",
-      "album": {
         "name": "LSTN!",
         "url": "https://open.spotify.com/album/6PW2h1QLRPiPaQ0O0sKsbA"
       },
@@ -2387,22 +2443,6 @@
       "duration_ms": 134933,
       "name": "Like That",
       "url": "https://open.spotify.com/track/7FltSCbD6M9rjrJntVB6Wq"
-    },
-    {
-      "added_at": "2024-01-19 05:23:06",
-      "album": {
-        "name": "TTUP",
-        "url": "https://open.spotify.com/album/34PTlkNarJZAFML6L0cXB7"
-      },
-      "artists": [
-        {
-          "name": "SAHXL",
-          "url": "https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h"
-        }
-      ],
-      "duration_ms": 168937,
-      "name": "TTUP",
-      "url": "https://open.spotify.com/track/2fZxYUDo4kkFiMXYXbrwPv"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -2923,26 +2963,6 @@
       "duration_ms": 197508,
       "name": "Wish You Wouldn't",
       "url": "https://open.spotify.com/track/4C9QPaM63xlVh4u6cqW1V6"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Can't Forget",
-        "url": "https://open.spotify.com/album/2kGVa9ARhLbTdGbz8MPTPo"
-      },
-      "artists": [
-        {
-          "name": "RIMON",
-          "url": "https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm"
-        },
-        {
-          "name": "Kelz2busy",
-          "url": "https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6"
-        }
-      ],
-      "duration_ms": 247345,
-      "name": "Can't Forget",
-      "url": "https://open.spotify.com/track/05lvABI7h1aa0o69Z2hpqS"
     }
   ],
   "unique_name": "R&B Weekly",

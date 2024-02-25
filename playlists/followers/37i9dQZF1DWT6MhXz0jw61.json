@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 1309129,
+  "2024-02-25": 1309198,
   "date_first_scraped": "2021-10-07",
   "description": "Chillout hip-hop vibes. Cover: Kota The Friend",
   "name": "Mellow Bars",
@@ -1201,7 +1201,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 203568,
       "name": "ART OF SEDUCTION",
       "url": "https://open.spotify.com/track/40OcWS4cakpvJ4ZYfwHWSP"
@@ -4715,7 +4715,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 182857,
       "name": "Early Worms Get Birds",
       "url": "https://open.spotify.com/track/2Jhku0aj90zNf1d1S8HECm"
@@ -5043,7 +5043,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 235500,
       "name": "Ezekiel's Wheel",
       "url": "https://open.spotify.com/track/4jB5y3nekrMH0HOFSm1rC0"
@@ -6031,6 +6031,32 @@
       "duration_ms": 250428,
       "name": "Gang'Nem",
       "url": "https://open.spotify.com/track/3F90JbxXm1yA7CB557b6w2"
+    },
+    {
+      "album": {
+        "name": "Gangsta",
+        "url": "https://open.spotify.com/album/1qz3r9Ys5UXaE0XToUU71b"
+      },
+      "artists": [
+        {
+          "name": "Free Nationals",
+          "url": "https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194520,
+      "name": "Gangsta",
+      "url": "https://open.spotify.com/track/49oKnEjgRSs3DMXScEU2G1"
     },
     {
       "album": {
@@ -7438,6 +7464,24 @@
     },
     {
       "album": {
+        "name": "I Will",
+        "url": "https://open.spotify.com/album/17YWNPXw7xDsLqC6ES3Ysj"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149500,
+      "name": "I Will",
+      "url": "https://open.spotify.com/track/27sKtH0PZpASkN8H3ZJOQf"
+    },
+    {
+      "album": {
         "name": "Blood Was Never Thick As Water",
         "url": "https://open.spotify.com/album/3jvcVodjikx2tcIoCojLxw"
       },
@@ -7573,6 +7617,24 @@
       "duration_ms": 159130,
       "name": "In My Pockets",
       "url": "https://open.spotify.com/track/15NvWexLBzx8l0anZ6V2Yb"
+    },
+    {
+      "album": {
+        "name": "In The Dirt",
+        "url": "https://open.spotify.com/album/36Za3id4vGn9DqrZXw8GJY"
+      },
+      "artists": [
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163124,
+      "name": "In The Dirt",
+      "url": "https://open.spotify.com/track/0w8xLwXp9WDrlPxyWofCUS"
     },
     {
       "album": {
@@ -7754,6 +7816,24 @@
     },
     {
       "album": {
+        "name": "Jagger",
+        "url": "https://open.spotify.com/album/4Rbx6tpqGbXRN5wmloamzk"
+      },
+      "artists": [
+        {
+          "name": "Pell",
+          "url": "https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256368,
+      "name": "Jagger",
+      "url": "https://open.spotify.com/track/2IOiwdXF9VipVZXC83I92W"
+    },
+    {
+      "album": {
         "name": "Cocodrillo Turbo",
         "url": "https://open.spotify.com/album/2rmPnKM3T64J7Xz5TEyR0c"
       },
@@ -7769,6 +7849,24 @@
       "duration_ms": 175306,
       "name": "Jaguar",
       "url": "https://open.spotify.com/track/2CjNQ2T7fSfp45CWb3dh85"
+    },
+    {
+      "album": {
+        "name": "I've Never Been Here Before",
+        "url": "https://open.spotify.com/album/3KUAjH6gf9p68TkLLyi4dB"
+      },
+      "artists": [
+        {
+          "name": "Erick the Architect",
+          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175037,
+      "name": "Jammy Jam",
+      "url": "https://open.spotify.com/track/7DiDkjRCCypxKwgxVYgnZS"
     },
     {
       "album": {
@@ -8584,6 +8682,28 @@
     },
     {
       "album": {
+        "name": "I've Never Been Here Before",
+        "url": "https://open.spotify.com/album/3KUAjH6gf9p68TkLLyi4dB"
+      },
+      "artists": [
+        {
+          "name": "Erick the Architect",
+          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
+        },
+        {
+          "name": "Lalah Hathaway",
+          "url": "https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257243,
+      "name": "Liberate",
+      "url": "https://open.spotify.com/track/4BRhTUHixhvOeOj3yhVrCF"
+    },
+    {
+      "album": {
         "name": "Round Trip",
         "url": "https://open.spotify.com/album/0PQ4npF4hXGSfNnwkxmEQ9"
       },
@@ -9001,7 +9121,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 167927,
       "name": "Love of Money",
       "url": "https://open.spotify.com/track/7BVXZByQjfmtEWt9AhjlwL"
@@ -9495,7 +9615,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 114000,
       "name": "MILAN",
       "url": "https://open.spotify.com/track/5iwg09N6eu40WIkluNqV81"
@@ -9972,6 +10092,24 @@
     },
     {
       "album": {
+        "name": "I've Never Been Here Before",
+        "url": "https://open.spotify.com/album/3KUAjH6gf9p68TkLLyi4dB"
+      },
+      "artists": [
+        {
+          "name": "Erick the Architect",
+          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182450,
+      "name": "Neue Muse",
+      "url": "https://open.spotify.com/track/3o7nAzvNKlcC8300FylEwP"
+    },
+    {
+      "album": {
         "name": "Never Change (feat. Roddy Ricch)",
         "url": "https://open.spotify.com/album/04owA5C5mh4CyXzpHgFchJ"
       },
@@ -10039,6 +10177,28 @@
       "duration_ms": 180000,
       "name": "Neybors",
       "url": "https://open.spotify.com/track/17PBGFi8cRuahLFErgN0Cj"
+    },
+    {
+      "album": {
+        "name": "Nigga Dreams",
+        "url": "https://open.spotify.com/album/7ypafu5DDUXBbGP0KqVFDr"
+      },
+      "artists": [
+        {
+          "name": "Steelo",
+          "url": "https://open.spotify.com/artist/52JTE16P2RHKpJr3ZOwohE"
+        },
+        {
+          "name": "VIC MENSA",
+          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177977,
+      "name": "Nigga Dreams",
+      "url": "https://open.spotify.com/track/6U2UaYti47pcrdME0SXx97"
     },
     {
       "album": {
@@ -11637,7 +11797,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 109333,
       "name": "R&B",
       "url": "https://open.spotify.com/track/3LtQtMTElsBhQQl1Oe2WVv"
@@ -11947,7 +12107,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 237000,
       "name": "REPO MAN",
       "url": "https://open.spotify.com/track/4bzAd82NUQUGWbF7dirXUp"
@@ -12759,7 +12919,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 156000,
       "name": "Shook Up",
       "url": "https://open.spotify.com/track/1lF2SRGtxswe1MZvRRvgTA"
@@ -12846,6 +13006,24 @@
     },
     {
       "album": {
+        "name": "Lost Out Loud",
+        "url": "https://open.spotify.com/album/20Y3jYbFJ441vBvYMBMrsx"
+      },
+      "artists": [
+        {
+          "name": "Drex Carter",
+          "url": "https://open.spotify.com/artist/2zhgWhhKeDGw6gGd16y7tc"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147176,
+      "name": "Six Feet",
+      "url": "https://open.spotify.com/track/4YdJ4fQhWZvtzfbLxC0LOJ"
+    },
+    {
+      "album": {
         "name": "Skegee",
         "url": "https://open.spotify.com/album/18ZCRn9GAuLUVMiuNXGyIL"
       },
@@ -12887,6 +13065,28 @@
       "duration_ms": 144484,
       "name": "Sliders [Feat. Flatbush Zombies, Col3trane]",
       "url": "https://open.spotify.com/track/2cVowt9WTucunkRTYzPosl"
+    },
+    {
+      "album": {
+        "name": "Slideshow",
+        "url": "https://open.spotify.com/album/6OL2rc5XTgw2yPcT91vdz3"
+      },
+      "artists": [
+        {
+          "name": "Levi Bloom",
+          "url": "https://open.spotify.com/artist/4ruYOMH6odMGzBr19loIMg"
+        },
+        {
+          "name": "408 Darwin",
+          "url": "https://open.spotify.com/artist/7GmjP8u0uwwAwBt3e3tmdS"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163561,
+      "name": "Slideshow",
+      "url": "https://open.spotify.com/track/5RZAEcZ8G4fLkR11MbB8P0"
     },
     {
       "album": {
@@ -13841,7 +14041,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 192638,
       "name": "Swangin' Glass",
       "url": "https://open.spotify.com/track/1W1xIjbH4GyA33FMQicGOL"
@@ -15477,7 +15677,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 130731,
       "name": "Waffle House",
       "url": "https://open.spotify.com/track/7wRkk2WREAGMBdEpMorsda"

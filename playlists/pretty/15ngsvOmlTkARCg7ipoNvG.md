@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/15ngsvOmlTkARCg7ipoNvG.md) - [plain]
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-[IW Music](https://open.spotify.com/user/ikwong1979) - 18,964 likes - 982 songs - 20 hr 46 min
+[IW Music](https://open.spotify.com/user/ikwong1979) - 18,963 likes - 983 songs - 20 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Warm Waves of Love](https://open.spotify.com/track/2OxkLdXTpN1Swp92nnujPs) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [After the Storm](https://open.spotify.com/album/3LCPc6hKLVGTKbo0hnQLgz) | 2:21 |
-| 2 | [Places Beyond](https://open.spotify.com/track/4kh3Hjy1RPkAbKZpHi5k17) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Liminal](https://open.spotify.com/album/1DN3N3sPQIZlpjMcvWkc9N) | 1:49 |
-| 3 | [Home](https://open.spotify.com/track/24j1BbJXzzmazQOFHmsjut) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Dreaming](https://open.spotify.com/album/3nPCZ7PFvfpRyuSFUq026c) | 1:19 |
+| 2 | [Home](https://open.spotify.com/track/24j1BbJXzzmazQOFHmsjut) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Dreaming](https://open.spotify.com/album/3nPCZ7PFvfpRyuSFUq026c) | 1:19 |
+| 3 | [Places Beyond](https://open.spotify.com/track/4kh3Hjy1RPkAbKZpHi5k17) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Liminal](https://open.spotify.com/album/1DN3N3sPQIZlpjMcvWkc9N) | 1:49 |
 | 4 | [My Open Heart](https://open.spotify.com/track/2ty2PfQCfGUaYKnlFM2rsN) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Homeward Bound](https://open.spotify.com/album/2hNoqAr3GbLHwASZS5mmTU) | 1:01 |
 | 5 | [What Awaits Tomorrow](https://open.spotify.com/track/0pEFRrkJ0LokYfMG23oBYG) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Serene Moments](https://open.spotify.com/album/6u831RiIAfoxHs2kG8Bzwm) | 1:00 |
 | 6 | [New Life](https://open.spotify.com/track/2jwqiLJRXd5XZgWtwAoyJp) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [New Life](https://open.spotify.com/album/0bBM72Hu2XsZikGisnTizd) | 1:01 |
@@ -990,5 +990,6 @@ pretty - [cumulative](/playlists/cumulative/15ngsvOmlTkARCg7ipoNvG.md) - [plain]
 | 980 | [Missing Yesterday](https://open.spotify.com/track/4RBXAmFuvv0dxnUmdNb74x) | [Ian Wong](https://open.spotify.com/artist/7oYdrlz2ZllyvCmCZ4c0MK) | [Adventures In Solitude](https://open.spotify.com/album/5pKjYSX5Xu0BvLQJ9znHA2) | 1:55 |
 | 981 | [Sacred Space](https://open.spotify.com/track/5BXXVrHtIcuhXuhpoBgvrb) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Sacred Space](https://open.spotify.com/album/62h6BQjurVHJQWCKSBkPwd) | 2:15 |
 | 982 | [Surrender](https://open.spotify.com/track/31OhD0GfRA1LYHmKXOtjPX) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Surrender](https://open.spotify.com/album/0stB3kqBTVYPmcy22vQktC) | 1:56 |
+| 983 | [The Holly And The Ivy \- Ambient Version](https://open.spotify.com/track/3ABnQf0SFfBZIL3AiePmcS) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [The Holly And The Ivy \(Ambient Version\)](https://open.spotify.com/album/344goY86bloznV29PaIhhV) | 1:01 |
 
-Snapshot ID: `OTM0Nyw4NTZhMDQzMTVlMmJkYjVhYWExNTliNGU1MGNhYzVhNjEyMmVlNDM2`
+Snapshot ID: `OTM0OSw1YWVhZTkzNzk5MjA1NDc5NzU1MjM0YzU4Njk2NGIyMDJlZWZkOTBk`

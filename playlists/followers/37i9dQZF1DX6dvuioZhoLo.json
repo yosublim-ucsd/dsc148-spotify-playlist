@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 292749,
+  "2024-02-25": 292809,
   "date_first_scraped": "2021-12-21",
   "description": "New makes old. Cover: Sierra Ferrell",
   "name": "Vintage Vibes",
@@ -493,7 +493,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-06",
+      "date_removed": null,
       "duration_ms": 156000,
       "name": "Diamond Joe",
       "url": "https://open.spotify.com/track/4BwPFomd2l0vi31rxmRjka"
@@ -2057,7 +2057,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 206835,
       "name": "Light As a Fire",
       "url": "https://open.spotify.com/track/1GaMKT7VrFJnyzjflhrRHu"

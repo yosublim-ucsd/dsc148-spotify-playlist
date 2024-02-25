@@ -1,7 +1,7 @@
 {
-  "2024-02-24": 22150,
+  "2024-02-25": 22153,
   "date_first_scraped": "2023-11-08",
-  "description": "The best in new Modern Music. Artist Image: <a href=\"https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph?si=J9U2u3f7QEeZS9qdsgartg\">Mother Mother</a>",
+  "description": "The best in new Modern Music. Featuring: <a href=\"https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz?si=SG75sGTeTrKqESWSWc4n7g\">Linkin Park</a>, Mother Mother, Wallows, Great Gable, NewDad, Michael Marcagi, ThxSoMch and many more.",
   "name": "Alternative Indie Today",
   "tracks": [
     {
@@ -198,6 +198,24 @@
     },
     {
       "album": {
+        "name": "little vice",
+        "url": "https://open.spotify.com/album/7qdwpXcHWL1rlRGxYbkrPl"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185346,
+      "name": "alone",
+      "url": "https://open.spotify.com/track/0610vGi3JMAOPgldBBq9XF"
+    },
+    {
+      "album": {
         "name": "at the end of the world",
         "url": "https://open.spotify.com/album/1zyZ6yfGnOV4zgYFwglVsS"
       },
@@ -317,7 +335,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 246679,
       "name": "Bloodlines - aus der Amazon Original Serie \u2018Die Therapie\u2019",
       "url": "https://open.spotify.com/track/6LzFtnmHFps5pFAYsruBcy"
@@ -531,10 +549,32 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 188800,
       "name": "Come Clean",
       "url": "https://open.spotify.com/track/1pCti5B5Ne3KbSbDXYWocm"
+    },
+    {
+      "album": {
+        "name": "Dancing In Babylon (feat. Christine and the Queens)",
+        "url": "https://open.spotify.com/album/3QUPigEo0MoAsxxRDe3JOk"
+      },
+      "artists": [
+        {
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+        },
+        {
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292093,
+      "name": "Dancing In Babylon (feat. Christine and the Queens)",
+      "url": "https://open.spotify.com/track/6QybVJMtaDCJjl2vPR2DcA"
     },
     {
       "album": {
@@ -574,6 +614,28 @@
     },
     {
       "album": {
+        "name": "Despertar",
+        "url": "https://open.spotify.com/album/6HeMGetB5gKBMVuYsmOn3g"
+      },
+      "artists": [
+        {
+          "name": "Alizzz",
+          "url": "https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3"
+        },
+        {
+          "name": "Maria Arnal",
+          "url": "https://open.spotify.com/artist/05l58aTZztZhHZPKDpboWm"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234115,
+      "name": "Despertar",
+      "url": "https://open.spotify.com/track/52j7qytl2Cp3gM811huoLr"
+    },
+    {
+      "album": {
         "name": "Do or Die",
         "url": "https://open.spotify.com/album/2aHPvJFZhKcQEf2586cRc6"
       },
@@ -589,6 +651,24 @@
       "duration_ms": 185738,
       "name": "Do or Die",
       "url": "https://open.spotify.com/track/6BdLF3d0nnIN13FhPSkXMe"
+    },
+    {
+      "album": {
+        "name": "Don't Call Me",
+        "url": "https://open.spotify.com/album/27RLYalOrcL90bq5Y13mZ1"
+      },
+      "artists": [
+        {
+          "name": "Alemeda",
+          "url": "https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168461,
+      "name": "Don't Call Me",
+      "url": "https://open.spotify.com/track/6TmdQKyH6D50cTnXVnfLFn"
     },
     {
       "album": {
@@ -737,6 +817,24 @@
       "duration_ms": 175670,
       "name": "Fold",
       "url": "https://open.spotify.com/track/5Ly2C9LhjYlDk6QP34V16O"
+    },
+    {
+      "album": {
+        "name": "Friendly Fire",
+        "url": "https://open.spotify.com/album/601IEigQO3enlyrbn4SpNM"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176901,
+      "name": "Friendly Fire",
+      "url": "https://open.spotify.com/track/1rAzOr3zpUDRtN2zsqGHiG"
     },
     {
       "album": {
@@ -971,7 +1069,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 176443,
       "name": "Home Where",
       "url": "https://open.spotify.com/track/3GRAyz3IthDwutYpdeicDa"
@@ -993,6 +1091,24 @@
       "duration_ms": 227756,
       "name": "i don't know you anymore",
       "url": "https://open.spotify.com/track/5FCMqNc9fodjQRIXbG7Ld1"
+    },
+    {
+      "album": {
+        "name": "I Don\u2019t Wanna See You Try",
+        "url": "https://open.spotify.com/album/7ltoJAs4T639HlUdiEFdOB"
+      },
+      "artists": [
+        {
+          "name": "Sam MacPherson",
+          "url": "https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163133,
+      "name": "I Don\u2019t Wanna See You Try",
+      "url": "https://open.spotify.com/track/6BhFYU7Fyq85NIFRmHbVaY"
     },
     {
       "album": {
@@ -1191,7 +1307,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 223653,
       "name": "let them know they're on your mind",
       "url": "https://open.spotify.com/track/5lhBGOeNrfMPDpPFDJcvSl"
@@ -1292,6 +1408,24 @@
     },
     {
       "album": {
+        "name": "Me Before You",
+        "url": "https://open.spotify.com/album/5Vu8Hm0i46IcPP6JNvT0jE"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203519,
+      "name": "Me Before You",
+      "url": "https://open.spotify.com/track/0ap1L5LS0igd0zs4erqmT3"
+    },
+    {
+      "album": {
         "name": "Mother Nature",
         "url": "https://open.spotify.com/album/0wnCqHJiAp8c2XWK0yuFA1"
       },
@@ -1325,6 +1459,24 @@
       "duration_ms": 246426,
       "name": "MUD",
       "url": "https://open.spotify.com/track/4TaDzzRy2PUQn8wAG6Fvpw"
+    },
+    {
+      "album": {
+        "name": "Mustang",
+        "url": "https://open.spotify.com/album/00aKd415VlHgSv5uzQotNW"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194731,
+      "name": "Mustang",
+      "url": "https://open.spotify.com/track/5y1kheWw8d3DHl8bv5aEE8"
     },
     {
       "album": {
@@ -1379,6 +1531,24 @@
       "duration_ms": 221800,
       "name": "NFU",
       "url": "https://open.spotify.com/track/1RG9wGYVd6YyrYDDUqz2LU"
+    },
+    {
+      "album": {
+        "name": "ODAYIN, Pt. 1",
+        "url": "https://open.spotify.com/album/6ZKwauYXaMVezFcXV0iv5g"
+      },
+      "artists": [
+        {
+          "name": "Wolf Saga",
+          "url": "https://open.spotify.com/artist/0Lwn2PjwIw7QaoN7gHyqCA"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222047,
+      "name": "Night Odyssey",
+      "url": "https://open.spotify.com/track/6U33GnHUKkECze9LXllZ3e"
     },
     {
       "album": {
@@ -1465,7 +1635,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 216852,
       "name": "Olympus",
       "url": "https://open.spotify.com/track/2pqi703QQcp2zsuS3NgCii"
@@ -1671,7 +1841,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 173800,
       "name": "Self destruct",
       "url": "https://open.spotify.com/track/4B03LwLa4nuiktvLCN3KHN"
@@ -1754,6 +1924,24 @@
     },
     {
       "album": {
+        "name": "SLAY",
+        "url": "https://open.spotify.com/album/0XiMiwNl1VGv5cwXZJiJnj"
+      },
+      "artists": [
+        {
+          "name": "MAX BARSKIH",
+          "url": "https://open.spotify.com/artist/5zXGVPJHUzQPUXKA7AlTi5"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117333,
+      "name": "SLAY",
+      "url": "https://open.spotify.com/track/1zHXr4jiBdY1hsYQitEUap"
+    },
+    {
+      "album": {
         "name": "Slowly Spilling Out",
         "url": "https://open.spotify.com/album/6QdDCVPNefy7W0uBm8NZMx"
       },
@@ -1765,7 +1953,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 175690,
       "name": "Slowly Spilling Out",
       "url": "https://open.spotify.com/track/6qv5RgqPuMDwKE57NJa56k"
@@ -1787,6 +1975,24 @@
       "duration_ms": 119047,
       "name": "Something To Hide",
       "url": "https://open.spotify.com/track/1rjZicKSpIJ3WYffIK9Fuy"
+    },
+    {
+      "album": {
+        "name": "SUMMER WAS MY GIRLFRIEND",
+        "url": "https://open.spotify.com/album/3pbaRFIcgbjRuW9l9XLif3"
+      },
+      "artists": [
+        {
+          "name": "Milkshakes In The Valley",
+          "url": "https://open.spotify.com/artist/3AdVyuXU8TnsPXgAv68icd"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162123,
+      "name": "SUMMER WAS MY GIRLFRIEND",
+      "url": "https://open.spotify.com/track/37nHPX9jmJp77VRUXyaQeF"
     },
     {
       "album": {
@@ -1837,7 +2043,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 173376,
       "name": "Tauchen",
       "url": "https://open.spotify.com/track/1KAj8sihsZYYBMCZuXHq3o"
@@ -2064,6 +2270,24 @@
     },
     {
       "album": {
+        "name": "waiting",
+        "url": "https://open.spotify.com/album/3dLS5gTGqK3WNYNWTWR2QQ"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Amaru",
+          "url": "https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216733,
+      "name": "waiting",
+      "url": "https://open.spotify.com/track/6YptnVO4vzqQiswq9KhSLl"
+    },
+    {
+      "album": {
         "name": "We Don't Talk About It",
         "url": "https://open.spotify.com/album/2fg8nUZnoXnoTK3bmQWdqk"
       },
@@ -2173,6 +2397,28 @@
       "duration_ms": 234448,
       "name": "You First (Re: Remi Wolf)",
       "url": "https://open.spotify.com/track/4w34xOG4R20bcijSufbq8l"
+    },
+    {
+      "album": {
+        "name": "You Make Me Sick! (Dora Jar Remix)",
+        "url": "https://open.spotify.com/album/0ddrfdgfcwQ0EafB4o4l3y"
+      },
+      "artists": [
+        {
+          "name": "Ashnikko",
+          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
+        },
+        {
+          "name": "Dora Jar",
+          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202884,
+      "name": "You Make Me Sick! - Dora Jar Remix",
+      "url": "https://open.spotify.com/track/2jIYa43fTPZsLCGX2D7zL2"
     },
     {
       "album": {

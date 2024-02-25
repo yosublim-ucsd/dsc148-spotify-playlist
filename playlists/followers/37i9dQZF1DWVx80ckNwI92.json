@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 6253,
+  "2024-02-25": 6254,
   "date_first_scraped": "2023-04-05",
   "description": "The future of African Indie and Alternative. Cover: Muzi",
   "name": "ALTER-native",
@@ -803,6 +803,28 @@
       "duration_ms": 186177,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/2CgftIycIHQ1fp5QGUD3NM"
+    },
+    {
+      "album": {
+        "name": "Heleru (Vox Portent Remix)",
+        "url": "https://open.spotify.com/album/4qA6LlsvSQHmImEa9DCKBL"
+      },
+      "artists": [
+        {
+          "name": "Morena Leraba",
+          "url": "https://open.spotify.com/artist/2aUErDeR4aoZDvy9ZYMhzO"
+        },
+        {
+          "name": "Vox Portent",
+          "url": "https://open.spotify.com/artist/1aliUUkYhdgF8MF7o516tC"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255454,
+      "name": "Heleru",
+      "url": "https://open.spotify.com/track/4gQYDOOcZwQgH1pSxaYQS6"
     },
     {
       "album": {

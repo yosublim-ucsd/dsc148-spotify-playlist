@@ -1,12 +1,12 @@
 {
   "description": "vibes that just make sense. ",
-  "num_followers": 50424,
+  "num_followers": 10403,
   "original_name": "aesthetic lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNDMxNTNlYzA1ZjE2MzhjZDRkNThkNGY4Yzc1ZTExYzQ0MTRkNjRj",
+  "snapshot_id": "MCwwZWU1YjI5ZjMwOTgwZDViZTdiODJhZDBiYWFkYWNlMWU0NGZhNGFi",
   "tracks": [
     {
       "added_at": "2022-02-02 00:21:48",
@@ -407,6 +407,22 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
+        "name": "Steven Universe",
+        "url": "https://open.spotify.com/album/5jM0CBYMJh1J5vcxR0DzM5"
+      },
+      "artists": [
+        {
+          "name": "L.Dre",
+          "url": "https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k"
+        }
+      ],
+      "duration_ms": 134025,
+      "name": "Steven Universe",
+      "url": "https://open.spotify.com/track/7zkA4TSmYO1Bko2PnFn0YB"
+    },
+    {
+      "added_at": "2022-02-02 00:21:48",
+      "album": {
         "name": "How Are You",
         "url": "https://open.spotify.com/album/5CzE7H2HSJCRNj4qNHIoly"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 127137,
       "name": "Cut My Hair",
       "url": "https://open.spotify.com/track/3DYZKxjG8SZrWpVcoUilqQ"
-    },
-    {
-      "added_at": "2022-02-02 00:21:48",
-      "album": {
-        "name": "Steven Universe",
-        "url": "https://open.spotify.com/album/5jM0CBYMJh1J5vcxR0DzM5"
-      },
-      "artists": [
-        {
-          "name": "L.Dre",
-          "url": "https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k"
-        }
-      ],
-      "duration_ms": 134025,
-      "name": "Steven Universe",
-      "url": "https://open.spotify.com/track/7zkA4TSmYO1Bko2PnFn0YB"
     },
     {
       "added_at": "2022-02-02 00:21:48",
@@ -739,6 +739,38 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
+        "name": "I Just Want to Be the One You Love",
+        "url": "https://open.spotify.com/album/1Yj0Le3XSOKVC6adWjeBSB"
+      },
+      "artists": [
+        {
+          "name": "DJ KridUNG",
+          "url": "https://open.spotify.com/artist/1B8zOGPrso6pUoDayTPrxF"
+        }
+      ],
+      "duration_ms": 121208,
+      "name": "I Just Want to Be the One You Love",
+      "url": "https://open.spotify.com/track/76pFlJQADDcMquWc5xDpHo"
+    },
+    {
+      "added_at": "2022-02-02 00:21:48",
+      "album": {
+        "name": "Tired Boy",
+        "url": "https://open.spotify.com/album/22FRiZs4mG1fUZslYCcaWi"
+      },
+      "artists": [
+        {
+          "name": "Joey Pecoraro",
+          "url": "https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ"
+        }
+      ],
+      "duration_ms": 255049,
+      "name": "Tired Boy",
+      "url": "https://open.spotify.com/track/4BrhZASiyGjVr5mjh6Ciwq"
+    },
+    {
+      "added_at": "2022-02-02 00:21:48",
+      "album": {
         "name": "change ur mind",
         "url": "https://open.spotify.com/album/5Sq4GMxxUnYNkcXZEORRQh"
       },
@@ -759,22 +791,6 @@
       "duration_ms": 183451,
       "name": "change ur mind",
       "url": "https://open.spotify.com/track/58Mh6zmqSo9IvysPAXnG0h"
-    },
-    {
-      "added_at": "2022-02-02 00:21:48",
-      "album": {
-        "name": "Tired Boy",
-        "url": "https://open.spotify.com/album/22FRiZs4mG1fUZslYCcaWi"
-      },
-      "artists": [
-        {
-          "name": "Joey Pecoraro",
-          "url": "https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ"
-        }
-      ],
-      "duration_ms": 255049,
-      "name": "Tired Boy",
-      "url": "https://open.spotify.com/track/4BrhZASiyGjVr5mjh6Ciwq"
     },
     {
       "added_at": "2022-02-02 00:21:48",
@@ -811,22 +827,6 @@
       "duration_ms": 143844,
       "name": "To the Girl With Red Converse",
       "url": "https://open.spotify.com/track/2YTtjhY9zEAHESbozqrkkB"
-    },
-    {
-      "added_at": "2022-02-02 00:21:48",
-      "album": {
-        "name": "I Just Want to Be the One You Love",
-        "url": "https://open.spotify.com/album/1Yj0Le3XSOKVC6adWjeBSB"
-      },
-      "artists": [
-        {
-          "name": "DJ KridUNG",
-          "url": "https://open.spotify.com/artist/1B8zOGPrso6pUoDayTPrxF"
-        }
-      ],
-      "duration_ms": 121208,
-      "name": "I Just Want to Be the One You Love",
-      "url": "https://open.spotify.com/track/76pFlJQADDcMquWc5xDpHo"
     },
     {
       "added_at": "2022-02-02 00:21:48",

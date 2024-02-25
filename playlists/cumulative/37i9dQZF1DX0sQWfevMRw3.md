@@ -4,7 +4,7 @@
 
 > I NORRLAND ÄR DET FEST!!
 
-985 songs - 1 day 17 hr 52 min
+986 songs - 1 day 17 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [12345 6](https://open.spotify.com/track/4x3NAMdpaVjnfAgDt2U0Yq) | [Laser Inc.](https://open.spotify.com/artist/1vEiuT8jPb6PAbvO5ibyWA), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [12345 6](https://open.spotify.com/album/2LAy9LbxKrGJmE5pE7Rx3j) | 2:39 | 2023-07-06 | 2023-09-29 |
 | [17 år](https://open.spotify.com/track/3JU8ndfPmTYcyLggq21iiI) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH), [JENTAN](https://open.spotify.com/artist/4MEouD4sJ7R7RS4AWPmLH8) | [17 år](https://open.spotify.com/album/45p0KIOdanRonlAokCKTRa) | 2:31 | 2023-04-27 | 2023-08-18 |
 | [2010](https://open.spotify.com/track/3Vo04mpLNaOsFvBfQmXwv3) | [Bastupojkarna](https://open.spotify.com/artist/3CMNg47101P5uCOI0ywTOQ), [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [2010](https://open.spotify.com/album/6MIuZmdka8h6vy84CcItzN) | 3:12 | 2022-09-29 | 2022-10-21 |
+| [30 KM/H](https://open.spotify.com/track/5877bQq4QOaIYvwo9LtmVB) | [Lia Larsson](https://open.spotify.com/artist/7wdEdhvMnmb3lqogWSY9xD) | [30 KM/H](https://open.spotify.com/album/3nFLg2pkAqrTrK9JbySHny) | 2:48 | 2024-02-24 |  |
 | [30 km/h \(Med Louise Andersson Bodin\)](https://open.spotify.com/track/52KOHfjlRyL84Q6WlSqpPT) | [250 kg kärlek](https://open.spotify.com/artist/4zLti6k7kpm9jwOVJv7wtT), [Louise Andersson Bodin](https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE) | [30 km/h \(Med Louise Andersson Bodin\)](https://open.spotify.com/album/4MHaBwxuiDv3CVHaATzvcy) | 2:22 | 2023-06-08 | 2023-08-25 |
 | [303](https://open.spotify.com/track/15NqqK27F3996RuAoIk7od) | [Future Class](https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC) | [303](https://open.spotify.com/album/5ppcUIA98nn4M1GgyVskZk) | 2:37 | 2022-03-24 | 2022-04-20 |
 | [34:an](https://open.spotify.com/track/3boRJTCXt9D0MVaDdMyD0r) | [Louise Andersson Bodin](https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE) | [34:an](https://open.spotify.com/album/3vmZSW7ZfQB3UAPTOIW1od) | 1:55 | 2023-12-08 |  |

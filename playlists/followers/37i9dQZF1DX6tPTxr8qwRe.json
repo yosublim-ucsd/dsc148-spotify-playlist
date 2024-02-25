@@ -1,7 +1,7 @@
 {
-  "2024-02-24": 398830,
+  "2024-02-25": 399136,
   "date_first_scraped": "2022-02-06",
-  "description": "Dark, hard hitting pop. Cover: GAYLE + Royal & The Serpent",
+  "description": "Dark, hard hitting pop. Cover: Allie X",
   "name": "SALT",
   "tracks": [
     {
@@ -933,7 +933,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 126253,
       "name": "beetlejuice (dead to me)",
       "url": "https://open.spotify.com/track/6fKlTefffyQnLwwHnnmiiL"
@@ -1424,6 +1424,28 @@
     },
     {
       "album": {
+        "name": "Boy Problems (feat. Cloudy June)",
+        "url": "https://open.spotify.com/album/4CpEWtknVVYCD88k8yrL1O"
+      },
+      "artists": [
+        {
+          "name": "ASTON",
+          "url": "https://open.spotify.com/artist/6z4NUKuKEzIzo28BPOjVof"
+        },
+        {
+          "name": "Cloudy June",
+          "url": "https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168036,
+      "name": "Boy Problems - feat. Cloudy June",
+      "url": "https://open.spotify.com/track/4kApsVd9XGyO31gG5ahI6i"
+    },
+    {
+      "album": {
         "name": "Boyfriend",
         "url": "https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc"
       },
@@ -1897,7 +1919,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 177082,
       "name": "Charisma",
       "url": "https://open.spotify.com/track/2mtBjvQzQHtknKFQKTbCbX"
@@ -2113,7 +2135,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 181904,
       "name": "crawl",
       "url": "https://open.spotify.com/track/6PdNcUnU7szJ0uU5GBCLe8"
@@ -2229,6 +2251,24 @@
       "duration_ms": 189628,
       "name": "Cry",
       "url": "https://open.spotify.com/track/2au4DyNFX59VLV5elmhagj"
+    },
+    {
+      "album": {
+        "name": "THIS IS A CRY FOR HELP",
+        "url": "https://open.spotify.com/album/0L1rHfQJILHQ7NiJVXUs1O"
+      },
+      "artists": [
+        {
+          "name": "carobae",
+          "url": "https://open.spotify.com/artist/2HysMkOtaumKooHYAlE7wd"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168367,
+      "name": "cry for help!",
+      "url": "https://open.spotify.com/track/0QBVBpn0JNZ8ZUhGxqmKo2"
     },
     {
       "album": {
@@ -2575,6 +2615,24 @@
       "duration_ms": 160000,
       "name": "devil may care",
       "url": "https://open.spotify.com/track/1Oui21vilndzO9nUABZYlp"
+    },
+    {
+      "album": {
+        "name": "DFHMPU",
+        "url": "https://open.spotify.com/album/5jZrHVZZgdaLsdgxQLvtAl"
+      },
+      "artists": [
+        {
+          "name": "Ari Abdul",
+          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147186,
+      "name": "DFHMPU",
+      "url": "https://open.spotify.com/track/6aZzBu7NiOSo1htN2Q7WLq"
     },
     {
       "album": {
@@ -4299,7 +4357,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 155079,
       "name": "heartbreak in the hamptons",
       "url": "https://open.spotify.com/track/447l6JfZdDYsmHjrJLRvEh"
@@ -6851,7 +6909,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 196648,
       "name": "Off With Her Tits",
       "url": "https://open.spotify.com/track/0PZUINY8mTRYx7rM5hDRmV"
@@ -7343,6 +7401,24 @@
       "duration_ms": 213120,
       "name": "Popstar",
       "url": "https://open.spotify.com/track/5ByUAdEmfy6MpmUIHCo2Em"
+    },
+    {
+      "album": {
+        "name": "poser",
+        "url": "https://open.spotify.com/album/2cYM6qi8MBNjQIwfAcJa3C"
+      },
+      "artists": [
+        {
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169065,
+      "name": "poser",
+      "url": "https://open.spotify.com/track/4gBuBzYl2X0j38iKbo02Rl"
     },
     {
       "album": {
@@ -9372,6 +9448,24 @@
     },
     {
       "album": {
+        "name": "THE ARSONIST & THE SUPERMODEL",
+        "url": "https://open.spotify.com/album/6IZ6kSOta7A0p5I7mopGXk"
+      },
+      "artists": [
+        {
+          "name": "liza",
+          "url": "https://open.spotify.com/artist/6K5Mei2psrczwqzTMIM48I"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132903,
+      "name": "THE ARSONIST & THE SUPERMODEL",
+      "url": "https://open.spotify.com/track/5mh4ZIGlt8MVTimIOs5pjt"
+    },
+    {
+      "album": {
         "name": "the AUDACITY",
         "url": "https://open.spotify.com/album/2GGCXmPDkBybkSJR59L8yA"
       },
@@ -10169,7 +10263,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 164801,
       "name": "Vigilante Shit",
       "url": "https://open.spotify.com/track/1xwAWUI6Dj0WGC3KiUPN0O"
@@ -10407,6 +10501,24 @@
       "duration_ms": 126189,
       "name": "WEEDKILLER",
       "url": "https://open.spotify.com/track/4c5LGEwgEEgL8VlNeeBCL8"
+    },
+    {
+      "album": {
+        "name": "Weird World",
+        "url": "https://open.spotify.com/album/37guijeueIx5aOEJzd2SZn"
+      },
+      "artists": [
+        {
+          "name": "Allie X",
+          "url": "https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238563,
+      "name": "Weird World",
+      "url": "https://open.spotify.com/track/5BsjtoILJWBRPVmY0TZUt0"
     },
     {
       "album": {

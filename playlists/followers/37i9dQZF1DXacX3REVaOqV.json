@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 184941,
+  "2024-02-25": 184981,
   "date_first_scraped": "2022-04-20",
   "description": "The best in house music",
   "name": "House Supreme",
@@ -7246,6 +7246,28 @@
     },
     {
       "album": {
+        "name": "Tribute (Prunk Remix)",
+        "url": "https://open.spotify.com/album/5o2xhnFyr57FHI10D1zaz3"
+      },
+      "artists": [
+        {
+          "name": "Chesster",
+          "url": "https://open.spotify.com/artist/6YCbSjTwizmHBUBNjaqXlj"
+        },
+        {
+          "name": "Prunk",
+          "url": "https://open.spotify.com/artist/6FJfLfGO9X2AVNz0sFscrG"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210236,
+      "name": "Tribute - Prunk Remix",
+      "url": "https://open.spotify.com/track/7dQtVt43DfcgiEGeXd1aFe"
+    },
+    {
+      "album": {
         "name": "Cyclorama",
         "url": "https://open.spotify.com/album/46vqvAYDetWqC04lXDzTmc"
       },
@@ -7841,7 +7863,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 158685,
       "name": "You Are My Life - Chambray Remix",
       "url": "https://open.spotify.com/track/4FBYJVSbojmT5wbC1EQA0F"

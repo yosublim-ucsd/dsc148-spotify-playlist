@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best new pop music by independent artists and labels\. Cover: Gabi Sklar\. Artwork by Paola Saliby
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,979 likes - 85 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,028 likes - 85 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 84 | [Egocentric](https://open.spotify.com/track/3N43TUERvQtxQsNA5FFvPT) | [Tara Flanagan](https://open.spotify.com/artist/4FTxQPJkalbHR0mwDJSvbi) | [Egocentric](https://open.spotify.com/album/6yZQzb3Rr7QnZdXeNK96xK) | 3:10 |
 | 85 | [pure violence](https://open.spotify.com/track/4onRphOELkvQ04sPaPQ2Ut) | [Ava Morse](https://open.spotify.com/artist/5oPCa0GsQjPlRdOdFRoY6Z) | [pure violence](https://open.spotify.com/album/7fPsKJHOMQT11iNN2crFKu) | 2:48 |
 
-Snapshot ID: `MCwxNjJiOWFhMDAwOGI3ZTQwNjk2ZTI0ZDliMmIyYjk2N2VkMTFiNjU0`
+Snapshot ID: `MCxiNGViZTliZjI1ZWQxZmI5NTQxNmQwOGVjNzdiMTZmMWYyNDhlYzQ4`

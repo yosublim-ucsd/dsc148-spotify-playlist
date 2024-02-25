@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 440687,
+  "2024-02-25": 440714,
   "date_first_scraped": "2021-12-21",
   "description": "Real nasty house. Cover: BIJOU and Dr. Fresch",
   "name": "Nasty Bits",
@@ -642,6 +642,32 @@
     },
     {
       "album": {
+        "name": "Back Then (NXSTY & Coka Cobra Remix)",
+        "url": "https://open.spotify.com/album/2s1LQydmpNQ5qRy9t7AyKU"
+      },
+      "artists": [
+        {
+          "name": "Mike Jones",
+          "url": "https://open.spotify.com/artist/07VmOvmuBp9G0gb8BTrpn0"
+        },
+        {
+          "name": "NXSTY",
+          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+        },
+        {
+          "name": "Coka Cobra",
+          "url": "https://open.spotify.com/artist/6hkPxsEatcEhLl6sRPTHuC"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204545,
+      "name": "Back Then (NXSTY & Coka Cobra Remix)",
+      "url": "https://open.spotify.com/track/5Jil5YGwXHjGN1pyksuEsP"
+    },
+    {
+      "album": {
         "name": "Bad B EP",
         "url": "https://open.spotify.com/album/73ncERCky1avlxnqiE0HN1"
       },
@@ -939,7 +965,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 137910,
       "name": "Badman Riddim (feat. Sweetie Irie)",
       "url": "https://open.spotify.com/track/5kbh3uExfnmUeFhEW8ABZE"
@@ -2423,6 +2449,24 @@
       "duration_ms": 160955,
       "name": "Candy Shop",
       "url": "https://open.spotify.com/track/1GdjigQo4MbNYSFUX7ctNH"
+    },
+    {
+      "album": {
+        "name": "CC",
+        "url": "https://open.spotify.com/album/60ocrHUXevlcHluOIwKHn2"
+      },
+      "artists": [
+        {
+          "name": "Cherry Tooth",
+          "url": "https://open.spotify.com/artist/3neju4j8u80IBvGawKA3dv"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180480,
+      "name": "CC",
+      "url": "https://open.spotify.com/track/7H8WpimtnwN9LB0vmBt3LG"
     },
     {
       "album": {
@@ -6026,6 +6070,24 @@
     },
     {
       "album": {
+        "name": "HOT BODY",
+        "url": "https://open.spotify.com/album/28aCobNWFPRG5Vpw1ZBVCt"
+      },
+      "artists": [
+        {
+          "name": "AK RENNY",
+          "url": "https://open.spotify.com/artist/7J0b2c5hn6vsok7dPwtQMX"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200952,
+      "name": "HOT BODY",
+      "url": "https://open.spotify.com/track/4GuevUGf5xgTPOEdtkdci1"
+    },
+    {
+      "album": {
         "name": "House",
         "url": "https://open.spotify.com/album/39NURP3oUUmnloXw0en8TZ"
       },
@@ -6641,7 +6703,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 173592,
       "name": "Jumpstarter",
       "url": "https://open.spotify.com/track/7er3MoyagC8W4YfCmENhRJ"
@@ -8099,7 +8161,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 222325,
       "name": "Mumble",
       "url": "https://open.spotify.com/track/0jWu42iPy82XVVKOyNVLPA"
@@ -8295,6 +8357,28 @@
       "duration_ms": 200366,
       "name": "Next Level - Habstrakt Remix",
       "url": "https://open.spotify.com/track/34r29cNzzV4elD0XTz1ihT"
+    },
+    {
+      "album": {
+        "name": "Night Heater",
+        "url": "https://open.spotify.com/album/0hutpZuwa1zFNmpVxQLSRH"
+      },
+      "artists": [
+        {
+          "name": "BRANDON",
+          "url": "https://open.spotify.com/artist/7HHxWuXHsKdcTbWDqqYbsY"
+        },
+        {
+          "name": "kyogre",
+          "url": "https://open.spotify.com/artist/5skAptlgoJmZB8qKS4IUwi"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153630,
+      "name": "Night Heater",
+      "url": "https://open.spotify.com/track/3iOZTP4ZAhAaMQvQhihMxY"
     },
     {
       "album": {
@@ -9102,6 +9186,24 @@
     },
     {
       "album": {
+        "name": "Only Human",
+        "url": "https://open.spotify.com/album/1RaqwwIXQkLg8qISx1Bg4Z"
+      },
+      "artists": [
+        {
+          "name": "Charlie Roennez",
+          "url": "https://open.spotify.com/artist/6pSJIr64WeGHbSKyQIHBgd"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211934,
+      "name": "Only Human",
+      "url": "https://open.spotify.com/track/5h7VizpJSOCjyJhOaWiMtI"
+    },
+    {
+      "album": {
         "name": "Otherside",
         "url": "https://open.spotify.com/album/3tgBxVouYUu3PMOmyhoHsG"
       },
@@ -9117,7 +9219,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 210461,
       "name": "Otherside",
       "url": "https://open.spotify.com/track/3rIMVg0NW2mq3eokTdyXXz"
@@ -9441,7 +9543,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 211163,
       "name": "Policia",
       "url": "https://open.spotify.com/track/6AqlZeTJGRHuRKUAbc9kqP"
@@ -10942,6 +11044,28 @@
     },
     {
       "album": {
+        "name": "Skip",
+        "url": "https://open.spotify.com/album/6FGPOgL60G0VhYki83WFCE"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Ingrosso",
+          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
+        },
+        {
+          "name": "Steve Angello",
+          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151520,
+      "name": "Skip",
+      "url": "https://open.spotify.com/track/0OHyE7d3EfGT6jIDVRN4Qn"
+    },
+    {
+      "album": {
         "name": "Slang Bang",
         "url": "https://open.spotify.com/album/0KEhLU0pumICuuu387MJ5Z"
       },
@@ -11207,7 +11331,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 173437,
       "name": "Step Back",
       "url": "https://open.spotify.com/track/7opSc1BeR7P8v0i3QYUi0W"

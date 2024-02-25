@@ -2,9 +2,9 @@
 
 ### [Hit Rap Italiane](https://open.spotify.com/playlist/37i9dQZF1DWSxF6XNtQ9Rg)
 
-> Solo hit rap da ascoltare in loop\. Cover: Salmo
+> Solo hit rap da ascoltare in loop\. Cover: Sfera Ebbasta
 
-227 songs - 12 hr 29 min
+228 songs - 12 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [ANSIA NO](https://open.spotify.com/track/2yuYI5NFhevxa05se7Qht9) | [FSK SATELLITE](https://open.spotify.com/artist/4UikIA2yhd0jVJSXD9IOJH) | [FSK TRAPSHIT REVENGE](https://open.spotify.com/album/4z4zCeqiEjTTBI0a8Uyl0S) | 2:28 | 2022-05-31 |  |
 | [Apnea](https://open.spotify.com/track/3lZfZpZmxkafEMi9doo7Of) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [Io In Terra](https://open.spotify.com/album/7qs6R874LFaGWVVrPTELXc) | 3:31 | 2022-10-07 |  |
 | [Arai \(feat\. Capo Plaza\)](https://open.spotify.com/track/1la73rdzbQGNRFJyO9E71c) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Nove Chiamate](https://open.spotify.com/album/5r2DMxv3IGCkVIhksqgkFy) | 3:01 | 2023-07-18 |  |
-| [Auto tedesca](https://open.spotify.com/track/15aJdXtfq3w4ULVTDKQ2VK) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Salvatore](https://open.spotify.com/album/5YMLvb4ZjBfVwJMf6dTKRZ) | 2:39 | 2023-11-17 |  |
+| [Auto tedesca](https://open.spotify.com/track/15aJdXtfq3w4ULVTDKQ2VK) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Salvatore](https://open.spotify.com/album/5YMLvb4ZjBfVwJMf6dTKRZ) | 2:39 | 2023-11-17 | 2024-02-25 |
 | [BABY](https://open.spotify.com/track/4rAXvF3Bh1MZlHAVsmI890) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [BABY](https://open.spotify.com/album/2yBXyTu1MlGwCiXAsZxAJT) | 2:32 | 2022-04-28 | 2022-07-19 |
 | [Baby \(with J Balvin\)](https://open.spotify.com/track/3JCqB2HhpIPNNg1O4os8o5) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Famoso](https://open.spotify.com/album/5fTgdXawyLC7oZEry7jGEk) | 3:13 | 2022-07-27 | 2023-11-18 |
 | [Baby \(with J Balvin\)](https://open.spotify.com/track/3eblNP3Zd5b5J3JaOckl8Y) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Famoso](https://open.spotify.com/album/27EhxNeyTwvnuo0TcWMDZf) | 3:13 | 2022-04-28 | 2022-07-29 |
@@ -107,6 +107,7 @@
 | [IL MALE CHE MI FAI \(feat\. Marracash\)](https://open.spotify.com/track/7Da5kjy5GByLHE5OPQ4tpg) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [IL CORAGGIO DEI BAMBINI \- ATTO II](https://open.spotify.com/album/0aGXQkS5LTFhYswwXJ8vJ6) | 2:47 | 2023-11-17 |  |
 | [IL MIO AMICO \(feat\. Fabri Fibra\)](https://open.spotify.com/track/3N3W8ZX1bFJsiI8VJmdMbT) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3), [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC) | [IL MIO AMICO \(feat\. Fabri Fibra\)](https://open.spotify.com/album/2dGHAoaawrVkd8ytqDQwgx) | 3:29 | 2022-05-27 | 2022-07-21 |
 | [Il Mio Mondo, Le Mie Regole](https://open.spotify.com/track/2bBW9JGz4N76FBc5ThkBqu) | [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv) | [Dogocrazia](https://open.spotify.com/album/0kmbUFwChrvedAO7BGH7UB) | 3:35 | 2024-01-08 | 2024-01-19 |
+| [In Italia 2024 \(feat\. Emma & Baby Gang\)](https://open.spotify.com/track/6nxQV4fJgfvyfZRPPJm1mO) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC), [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [In Italia 2024 \(feat\. Emma & Baby Gang\)](https://open.spotify.com/album/312tEWGsN8ssJGl3aHZWuU) | 4:05 | 2024-02-22 |  |
 | [In Radio](https://open.spotify.com/track/0zxvemE96KZ4xBrFolkL1Y) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Status](https://open.spotify.com/album/579t0HatXMKQnAfQ9FSfJd) | 3:41 | 2022-04-28 | 2022-07-21 |
 | [Insta Lova](https://open.spotify.com/track/1w91YxaRwTShkKe4apYf3r) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Santeria](https://open.spotify.com/album/2LLWEWdoQPndFp7cqwQYhV) | 3:26 | 2023-07-18 |  |
 | [Italiano Anthem](https://open.spotify.com/track/0oMq1JmynUHMCOfH40k7B8) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Italiano Anthem](https://open.spotify.com/album/0lv5APWWEFXdXjUXNOKaZx) | 2:15 | 2022-08-10 | 2023-03-07 |

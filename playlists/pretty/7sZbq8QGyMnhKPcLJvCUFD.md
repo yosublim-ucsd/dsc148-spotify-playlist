@@ -4,23 +4,23 @@ pretty - [cumulative](/playlists/cumulative/7sZbq8QGyMnhKPcLJvCUFD.md) - [plain]
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-[NCS](https://open.spotify.com/user/nocopyrightsounds) - 741,996 likes - 100 songs - 5 hr 6 min
+[NCS](https://open.spotify.com/user/nocopyrightsounds) - 742,018 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Royalty](https://open.spotify.com/track/7kUljt0NM5sISL3OGNVxYd) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Maestro Chives](https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs), [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Royalty](https://open.spotify.com/album/5fNgtPuw6QFGW7M9FdOX5x) | 3:43 |
 | 2 | [On & On](https://open.spotify.com/track/2uZWffKoemZDI0gHcBEcDc) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [Jéja](https://open.spotify.com/artist/7BOIhtXWB8DCWOykIHF2dh), [Daniel Levi](https://open.spotify.com/artist/0cA0C4yBNRaN2EZsE2wT3Y) | [On & On](https://open.spotify.com/album/6Unm4KKxYtjR08J1wEOnkc) | 3:27 |
-| 3 | [Burning Wish](https://open.spotify.com/track/7aLni8hgkIvVHWZh6mx9js) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [Roniit](https://open.spotify.com/artist/09KYpkm7IEPR3nc8omKpSY) | [Burning Wish](https://open.spotify.com/album/6hYHHReXvw9Gv4Tt8JiL3L) | 2:33 |
-| 4 | [Left With Nothing](https://open.spotify.com/track/4w4IaAo9OtgKHzo44pQn2x) | [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t), [Clarx](https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr) | [Left With Nothing](https://open.spotify.com/album/48OUE1YH9xxIhtmb1eyfEa) | 2:38 |
-| 5 | [Set Me Free](https://open.spotify.com/track/0SY3e4Csiw86wTeXvlbr4N) | [T & Sugah](https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH), [Primate](https://open.spotify.com/artist/37C3qTCakuZc3EjTari9lU) | [Set Me Free](https://open.spotify.com/album/3Ju6l6H3bnw84mipE59zEC) | 2:03 |
-| 6 | [Romeo and Juliet](https://open.spotify.com/track/2W9h6WvwD97C2DR8gbgwtu) | [SadBois](https://open.spotify.com/artist/2ZH041yMjGFX7QwMxkFGZJ), [Manno](https://open.spotify.com/artist/2SxgKTZK8e3ZREG1OuzIf2) | [Romeo and Juliet](https://open.spotify.com/album/1plkjTkXuOTRBX3tIiL5TW) | 3:12 |
+| 3 | [Romeo and Juliet](https://open.spotify.com/track/2W9h6WvwD97C2DR8gbgwtu) | [SadBois](https://open.spotify.com/artist/2ZH041yMjGFX7QwMxkFGZJ), [Manno](https://open.spotify.com/artist/2SxgKTZK8e3ZREG1OuzIf2) | [Romeo and Juliet](https://open.spotify.com/album/1plkjTkXuOTRBX3tIiL5TW) | 3:12 |
+| 4 | [Memory Box](https://open.spotify.com/track/65tUe7UxXEWuPmIol4RPcR) | [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3) | [Memory Box](https://open.spotify.com/album/05271vJRR8BgSVevMFfs0d) | 2:08 |
+| 5 | [Burning Wish](https://open.spotify.com/track/7aLni8hgkIvVHWZh6mx9js) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [Roniit](https://open.spotify.com/artist/09KYpkm7IEPR3nc8omKpSY) | [Burning Wish](https://open.spotify.com/album/6hYHHReXvw9Gv4Tt8JiL3L) | 2:33 |
+| 6 | [Set Me Free](https://open.spotify.com/track/0SY3e4Csiw86wTeXvlbr4N) | [T & Sugah](https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH), [Primate](https://open.spotify.com/artist/37C3qTCakuZc3EjTari9lU) | [Set Me Free](https://open.spotify.com/album/3Ju6l6H3bnw84mipE59zEC) | 2:03 |
 | 7 | [Oh My Gawd](https://open.spotify.com/track/3wBFnFG8GTTdY6VzMyJ1wQ) | [Crushed Candy](https://open.spotify.com/artist/14eHJcsWsxWq4UjaXBvmJ1) | [Oh My Gawd](https://open.spotify.com/album/3VRnwIygZQl33g9i4C2L5Q) | 2:04 |
 | 8 | [Sinner](https://open.spotify.com/track/5PjasrTqBLqdxWIBbJDLXA) | [Diamond Eyes](https://open.spotify.com/artist/7u7MDzwo7VtVe7FhS3cq8Y) | [Sinner](https://open.spotify.com/album/1SYG3gJWwSjz9paOvyU1NW) | 3:53 |
 | 9 | [Throne](https://open.spotify.com/track/1DbjGwT77l5Ph0N89lo8Hy) | [Tomatow](https://open.spotify.com/artist/1FzBO5erQh8xC6qT6tY3tO), [SagaB](https://open.spotify.com/artist/7hSyeMWPot9g32PhU808zU), [Adam Putra](https://open.spotify.com/artist/1PdEYf0awBJvZHoOJu0LtS) | [Throne](https://open.spotify.com/album/6Bfrj9X2sXA8omh8yW5uVi) | 3:20 |
 | 10 | [Bass Face](https://open.spotify.com/track/5sRe8o0v1CV3p5gFLrGzeH) | [Jonth](https://open.spotify.com/artist/461fWLhyGb1giJaTUEPpWt) | [Bass Face](https://open.spotify.com/album/3sp5KnHFEln5c0nAWZD5kv) | 2:56 |
 | 11 | [BUSSIN'](https://open.spotify.com/track/3bpV7A3jeuP7wyvvKGQ0kR) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG) | [BUSSIN'](https://open.spotify.com/album/7jnEukdmhcSFyrxAgNTDlz) | 1:26 |
-| 12 | [Broken](https://open.spotify.com/track/4kBV5yyLDvhlttdtccSP21) | [Trinist](https://open.spotify.com/artist/6XTrviAQeBuCkWgDenoiId) | [Broken](https://open.spotify.com/album/4qqpxg0c0PmM1Mwe0NtHDi) | 4:00 |
-| 13 | [Memory Box](https://open.spotify.com/track/65tUe7UxXEWuPmIol4RPcR) | [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3) | [Memory Box](https://open.spotify.com/album/05271vJRR8BgSVevMFfs0d) | 2:08 |
+| 12 | [Left With Nothing](https://open.spotify.com/track/4w4IaAo9OtgKHzo44pQn2x) | [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t), [Clarx](https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr) | [Left With Nothing](https://open.spotify.com/album/48OUE1YH9xxIhtmb1eyfEa) | 2:38 |
+| 13 | [Broken](https://open.spotify.com/track/4kBV5yyLDvhlttdtccSP21) | [Trinist](https://open.spotify.com/artist/6XTrviAQeBuCkWgDenoiId) | [Broken](https://open.spotify.com/album/4qqpxg0c0PmM1Mwe0NtHDi) | 4:00 |
 | 14 | [Unbreakable](https://open.spotify.com/track/7ImmvnWXfjXGPecqo9eUVt) | [Lost Sky](https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh), [ANGELPLAYA](https://open.spotify.com/artist/4WcJRxmR6wNm0L1acKLKVo), [Chris Linton](https://open.spotify.com/artist/5Wpn7BDRJ8oq7CcF1EufWI) | [Unbreakable](https://open.spotify.com/album/50PnhUD4Z1qTrgDLOgfcXV) | 3:16 |
 | 15 | [Alone](https://open.spotify.com/track/1OZLLfRrvELLaTowXNsg30) | [Blooom](https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS), [SGAR](https://open.spotify.com/artist/3HhCTUgUQh6tLfQAqCTEmm) | [Alone](https://open.spotify.com/album/4ndufOeALEZHWH2LfvWFQ0) | 3:50 |
 | 16 | [Lies](https://open.spotify.com/track/3tkfu51XGoO7bnv44QL9iX) | [Diamond Eyes](https://open.spotify.com/artist/7u7MDzwo7VtVe7FhS3cq8Y) | [Lies](https://open.spotify.com/album/2Yia5sGQfwQFtpvl90YwDc) | 3:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/7sZbq8QGyMnhKPcLJvCUFD.md) - [plain]
 | 99 | [Everything](https://open.spotify.com/track/6ouN4BiS8PIHn62uxCqDdH) | [Diamond Eyes](https://open.spotify.com/artist/7u7MDzwo7VtVe7FhS3cq8Y) | [Everything](https://open.spotify.com/album/3NFCtwwxPEJ1EJ0Fzgx9XP) | 4:27 |
 | 100 | [Fearless Pt\. II](https://open.spotify.com/track/4y1nvncvBhdoelqPMyXxis) | [Lost Sky](https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh), [Chris Linton](https://open.spotify.com/artist/5Wpn7BDRJ8oq7CcF1EufWI) | [Fearless Pt\. II](https://open.spotify.com/album/47iQRvTe8uiasjN9jIS1nr) | 3:14 |
 
-Snapshot ID: `NTU3OCw3Y2YzZWQyY2MzNDQ2NWI5NzA4NzBhOGI5MjMyNGJlMzU3OTYwMDQy`
+Snapshot ID: `NTU4NCxkMDY3ZTY5ODM1NzVlMWUwZDc2Y2RkMTQyMWY1ZTBlZmE2OTFjMzJk`

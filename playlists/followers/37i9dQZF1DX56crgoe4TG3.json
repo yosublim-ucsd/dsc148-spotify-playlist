@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 259557,
+  "2024-02-25": 259605,
   "date_first_scraped": "2021-12-21",
   "description": "A mix of folk and bluegrass covers of pop, rock, hip-hop, folk, and indie songs. Cover: Town Mountain",
   "name": "Bluegrass Covers",
@@ -529,6 +529,24 @@
       "duration_ms": 215560,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/6Yha6zZt78YGfpUT8pZZHD"
+    },
+    {
+      "album": {
+        "name": "Born At The Right Time",
+        "url": "https://open.spotify.com/album/3LRnF4dHzSpanoNzgY8THq"
+      },
+      "artists": [
+        {
+          "name": "Chris Roberts",
+          "url": "https://open.spotify.com/artist/0wrLBy1hHUUDMRjdL9xxGr"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288986,
+      "name": "Born At The Right Time",
+      "url": "https://open.spotify.com/track/4dR5U0ARtEkuIVI17zilxf"
     },
     {
       "album": {

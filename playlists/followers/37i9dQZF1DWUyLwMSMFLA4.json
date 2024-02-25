@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 508865,
+  "2024-02-25": 509209,
   "date_first_scraped": "2023-05-16",
   "description": "\u00a1Asadito a pura cumbia con toques de cuarteto!",
   "name": "Asadito Cumbiero",
@@ -1666,6 +1666,32 @@
     },
     {
       "album": {
+        "name": "No Morir\u00e1 Jam\u00e1s",
+        "url": "https://open.spotify.com/album/3GizObRqQ6XePIDYMJSyJO"
+      },
+      "artists": [
+        {
+          "name": "Repiola",
+          "url": "https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ"
+        },
+        {
+          "name": "El Adri Music",
+          "url": "https://open.spotify.com/artist/0meQtjreUHEscunPE1xSb5"
+        },
+        {
+          "name": "El Principal",
+          "url": "https://open.spotify.com/artist/6BaA05C0NwJmsBVsr5P5DC"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189195,
+      "name": "No Morir\u00e1 Jam\u00e1s",
+      "url": "https://open.spotify.com/track/4y9pqngqbta1zHDS1MLzUv"
+    },
+    {
+      "album": {
         "name": "El Color De Tu Coraz\u00f3n",
         "url": "https://open.spotify.com/album/4i5dZPh3Yu4S4F4CAu0LRv"
       },
@@ -2327,7 +2353,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 174053,
       "name": "Sabros\u00f3n",
       "url": "https://open.spotify.com/track/3i9RlCwMh2I0semxufRnyS"

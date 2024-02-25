@@ -6,7 +6,7 @@
     "name": "Zack Amiton",
     "url": "https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt"
   },
-  "snapshot_id": "MTM4NCxhODI3YjU5Zjk3YzY1Mzk4M2QyNDFhZDgwNmIyMWY1YWI5ZTMzNjQ4",
+  "snapshot_id": "MTM4OCw0OTc1NTFhMjRjMzg5MGZmMTA4ZDk0NWY3MDlhYWExYjY1NDViYmE3",
   "tracks": [
     {
       "added_at": "2021-08-26 23:11:19",
@@ -7499,6 +7499,70 @@
       "duration_ms": 360000,
       "name": "An Endless Cycle (Wayne\u2019s Theme)",
       "url": "https://open.spotify.com/track/45Btn0Un5R5yRfWsrYoDii"
+    },
+    {
+      "added_at": "2024-02-24 03:51:53",
+      "album": {
+        "name": "comfortably in pain",
+        "url": "https://open.spotify.com/album/39vpTiloqw4kytVLU29AxS"
+      },
+      "artists": [
+        {
+          "name": "Dora Jar",
+          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
+        }
+      ],
+      "duration_ms": 144360,
+      "name": "It's Random",
+      "url": "https://open.spotify.com/track/6Sj5jAdiIWAAAYZc9dn9ZM"
+    },
+    {
+      "added_at": "2024-02-24 03:53:36",
+      "album": {
+        "name": "Repeater + 3 Songs",
+        "url": "https://open.spotify.com/album/6JbGZGta38AArBgflt024C"
+      },
+      "artists": [
+        {
+          "name": "Fugazi",
+          "url": "https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G"
+        }
+      ],
+      "duration_ms": 255720,
+      "name": "Turnover",
+      "url": "https://open.spotify.com/track/3GzrbXN9lIE6kmycaX5xzt"
+    },
+    {
+      "added_at": "2024-02-24 04:26:01",
+      "album": {
+        "name": "cursed001",
+        "url": "https://open.spotify.com/album/6q6e64QrmXmrfcn19hI9t9"
+      },
+      "artists": [
+        {
+          "name": "ta1lsd0ll",
+          "url": "https://open.spotify.com/artist/6hGItsib0tmvh4cCE5LRQe"
+        }
+      ],
+      "duration_ms": 98400,
+      "name": "ta1lsd001",
+      "url": "https://open.spotify.com/track/3TInK6YpLRQ7Dt2Vn12Y3u"
+    },
+    {
+      "added_at": "2024-02-24 18:26:18",
+      "album": {
+        "name": "Glow",
+        "url": "https://open.spotify.com/album/17bMGqdO2UxbHHgiE9mX6X"
+      },
+      "artists": [
+        {
+          "name": "Alice Phoebe Lou",
+          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+        }
+      ],
+      "duration_ms": 231786,
+      "name": "Only When I",
+      "url": "https://open.spotify.com/track/0ZzElIB9iulNYwycFVPXdl"
     }
   ],
   "unique_name": "Zacklog",

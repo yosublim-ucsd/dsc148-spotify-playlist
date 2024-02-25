@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > tranquilo e calmo, no flow\. Foto: Enzo Cello
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,646 likes - 75 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,649 likes - 75 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 74 | [ASTRO](https://open.spotify.com/track/6edJSs6bDIY4Az54T7xnJg) | [Jamal KMG](https://open.spotify.com/artist/2DF0255bTz07OvXhrT8gaA), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [Makalister](https://open.spotify.com/artist/1RoerHIsbQo1h0V8KpznKV) | [Você Sabe](https://open.spotify.com/album/0WFpVc9LXQGqopVTZQKJ1N) | 2:34 |
 | 75 | [Longe De Tudo](https://open.spotify.com/track/3SHCqNlSfw0InxeC3jQCcT) | [Vitello](https://open.spotify.com/artist/4rNwKeUXrCettTXzyoY62O), [Buccy](https://open.spotify.com/artist/0j4YvpvQYySHXXpVgqyPqT) | [Longe De Tudo](https://open.spotify.com/album/2RZl5uBpTcWe7xBw7L0Sge) | 2:10 |
 
-Snapshot ID: `MCwyNTU4ZDM5ZTMxODVjMzIyNzY4MGMzMzc1YjUwMjFiYjYwMWQ1NjQ5`
+Snapshot ID: `MCwxNWNkM2ZlNGY4MjU1MjkwYTI3NWIxN2YzNjFhZWJhZjQ2N2JmNDZk`

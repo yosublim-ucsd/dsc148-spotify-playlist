@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 35724,
+  "2024-02-25": 35801,
   "date_first_scraped": "2023-05-18",
   "description": "electronic nostalgia \u26a1\ufe0f Cover: The xx",
   "name": "voltage",
@@ -111,7 +111,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 238426,
       "name": "Archangel",
       "url": "https://open.spotify.com/track/55gnBQAhU5rGzLsXTAx2MM"
@@ -2009,6 +2009,28 @@
       "duration_ms": 209376,
       "name": "Sleepless feat. Jezzabell Doran",
       "url": "https://open.spotify.com/track/0XzyXP0E9jsoOwu5Rd7hTV"
+    },
+    {
+      "album": {
+        "name": "Flume",
+        "url": "https://open.spotify.com/album/4DEGPavMvbzhSTFN8gDgPR"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "Jezzabell Doran",
+          "url": "https://open.spotify.com/artist/20RKwJZc7LXujAbOJuwDEZ"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209376,
+      "name": "Sleepless feat. Jezzabell Doran",
+      "url": "https://open.spotify.com/track/18ruQREwkjMJAcxbt2L4wR"
     },
     {
       "album": {

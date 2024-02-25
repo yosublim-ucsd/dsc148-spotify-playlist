@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 136850,
+  "2024-02-25": 136882,
   "date_first_scraped": "2022-01-01",
   "description": "Jazz voices of today. Cover: Samara Joy",
   "name": "Vocal Jazz",
@@ -3333,7 +3333,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 231686,
       "name": "Don't Wait Too Long",
       "url": "https://open.spotify.com/track/04OP7yV8CcYOhPsqEsetha"
@@ -3511,7 +3511,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 288664,
       "name": "Embraceable You",
       "url": "https://open.spotify.com/track/50xfb5jlP00Jv6xMhcpik9"
@@ -3877,6 +3877,24 @@
       "duration_ms": 200725,
       "name": "Five Feet Tall",
       "url": "https://open.spotify.com/track/3Td12QdISvxCc924l70f8n"
+    },
+    {
+      "album": {
+        "name": "Five Senses",
+        "url": "https://open.spotify.com/album/4cl84AfjXk8k6xtBaxqete"
+      },
+      "artists": [
+        {
+          "name": "Cassidy Place",
+          "url": "https://open.spotify.com/artist/3FZveyZUO7UrcjpYiqtj54"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142238,
+      "name": "Five Senses",
+      "url": "https://open.spotify.com/track/2v5Rvh6gdKE7XaSMykpEJ8"
     },
     {
       "album": {
@@ -5132,6 +5150,28 @@
     },
     {
       "album": {
+        "name": "I Left My Heart In San Francisco",
+        "url": "https://open.spotify.com/album/1wHoyZD9q8YWMj5wsUudph"
+      },
+      "artists": [
+        {
+          "name": "Matt Dusk",
+          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
+        },
+        {
+          "name": "Lou Pomanti",
+          "url": "https://open.spotify.com/artist/4dSjbjQP6Si6yNXMCG19UW"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164802,
+      "name": "I Left My Heart in San Francisco",
+      "url": "https://open.spotify.com/track/0JMKTFFmoCSBv7ofobgYk7"
+    },
+    {
+      "album": {
         "name": "I Love Betsy",
         "url": "https://open.spotify.com/album/3g9X7vZbwtENYePWU4ekpm"
       },
@@ -6329,7 +6369,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 157290,
       "name": "It Could Happen To You",
       "url": "https://open.spotify.com/track/2mMYNnNFCKoCWih6vELx3E"
@@ -9502,6 +9542,24 @@
     },
     {
       "album": {
+        "name": "Embraceable",
+        "url": "https://open.spotify.com/album/4WA2EdR41dqzbluBGjIGEt"
+      },
+      "artists": [
+        {
+          "name": "Susie Arioli",
+          "url": "https://open.spotify.com/artist/1RP8z21bodEXHqdJOx2VZ9"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169703,
+      "name": "Pendulum",
+      "url": "https://open.spotify.com/track/3Y5onKZN1Im4FxoTUMnEzb"
+    },
+    {
+      "album": {
         "name": "Pennies from Heaven",
         "url": "https://open.spotify.com/album/2CUBXmrfjX2rVFsU63duYv"
       },
@@ -9557,7 +9615,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 178773,
       "name": "Pennies from Heaven",
       "url": "https://open.spotify.com/track/57tzaQqnUsQMqZGwNkeOKH"
@@ -12456,6 +12514,24 @@
     },
     {
       "album": {
+        "name": "The Very Thought Of You",
+        "url": "https://open.spotify.com/album/02i4H5VSXDnuT14P9d89E1"
+      },
+      "artists": [
+        {
+          "name": "Lara Louise",
+          "url": "https://open.spotify.com/artist/0rwgLdQ7uMiqUxEpMLOGyI"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220885,
+      "name": "The Very Thought Of You",
+      "url": "https://open.spotify.com/track/6yxE2pmrPBQGMH0oQg4RcU"
+    },
+    {
+      "album": {
         "name": "The Way You Look Tonight",
         "url": "https://open.spotify.com/album/5U4Z63epGFkGDARwGyOR1L"
       },
@@ -12467,10 +12543,32 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 238386,
       "name": "The Way You Look Tonight",
       "url": "https://open.spotify.com/track/08HK8WXdwI5DF6h8DaB1rB"
+    },
+    {
+      "album": {
+        "name": "Swing Fever",
+        "url": "https://open.spotify.com/album/22tx1I0M6sElj88FEiBP5u"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        },
+        {
+          "name": "Jools Holland",
+          "url": "https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144666,
+      "name": "Them There Eyes",
+      "url": "https://open.spotify.com/track/3xE65V7CCWtG368398YXVh"
     },
     {
       "album": {
@@ -13892,6 +13990,24 @@
     },
     {
       "album": {
+        "name": "What Was I Made For?",
+        "url": "https://open.spotify.com/album/5AMPERlVBeDjW4AlhfycDq"
+      },
+      "artists": [
+        {
+          "name": "Kandace Springs",
+          "url": "https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232642,
+      "name": "What Was I Made For?",
+      "url": "https://open.spotify.com/track/0uL2HIcJPwUARpbbE3nEtL"
+    },
+    {
+      "album": {
         "name": "What'll I Do",
         "url": "https://open.spotify.com/album/5Kr5XbBJCKgQEYkCki7Ddz"
       },
@@ -14693,7 +14809,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 236302,
       "name": "You've Changed - Big Band",
       "url": "https://open.spotify.com/track/19GyWK5SuwYomTcCjTqAXs"

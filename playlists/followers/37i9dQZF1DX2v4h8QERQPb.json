@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 194108,
+  "2024-02-25": 194275,
   "date_first_scraped": "2022-01-24",
   "description": "Rimas argentinas. Foto: Trueno.",
   "name": "Hip Hop Argento",
@@ -309,7 +309,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 210995,
       "name": "Al Carajo",
       "url": "https://open.spotify.com/track/3NniEaLPE4FxP7F8edtqaT"
@@ -997,7 +997,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 122666,
       "name": "Caos",
       "url": "https://open.spotify.com/track/1aFTMdBgBx9uYeE8Kf0aC4"
@@ -2086,6 +2086,24 @@
     },
     {
       "album": {
+        "name": "Funky Tears",
+        "url": "https://open.spotify.com/album/4reagwmx7RB3YxGU7aspnj"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Gabanna",
+          "url": "https://open.spotify.com/artist/7oOAUwR8fKK27pEAKdt0mm"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146033,
+      "name": "Funky Tears",
+      "url": "https://open.spotify.com/track/4tebfp9UYuuS9C8JUH6XY0"
+    },
+    {
+      "album": {
         "name": "Fvck System",
         "url": "https://open.spotify.com/album/7o9AjD3fLc2FYuoGMLQnIo"
       },
@@ -3123,6 +3141,28 @@
       "duration_ms": 204130,
       "name": "Me Sueltan Los \u00c1ngeles",
       "url": "https://open.spotify.com/track/3tM6ndsUT88wEO0tX0I8AR"
+    },
+    {
+      "album": {
+        "name": "MELANCOL\u00cdA",
+        "url": "https://open.spotify.com/album/5H9fjS95ycyEPZOHT2hgM8"
+      },
+      "artists": [
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        },
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222994,
+      "name": "MELANCOL\u00cdA",
+      "url": "https://open.spotify.com/track/41N9Co3jknF8m5BH0cNdqb"
     },
     {
       "album": {
@@ -4445,7 +4485,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 180365,
       "name": "Sobreviviente",
       "url": "https://open.spotify.com/track/6Vexfm0u1aiWDvyRxllGEg"
@@ -4818,6 +4858,24 @@
     },
     {
       "album": {
+        "name": "Todo va a seguir igual",
+        "url": "https://open.spotify.com/album/1xvukhClHNVj4jAgXba5kO"
+      },
+      "artists": [
+        {
+          "name": "Oney1",
+          "url": "https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138706,
+      "name": "Todo va a seguir igual",
+      "url": "https://open.spotify.com/track/3tdGm2kGNMSbKC7Xwmkset"
+    },
+    {
+      "album": {
         "name": "Traici\u00f3n",
         "url": "https://open.spotify.com/album/1Lir5TBeNDAVUq1mDATIOz"
       },
@@ -4877,6 +4935,28 @@
       "duration_ms": 186666,
       "name": "Vamos a Fumar",
       "url": "https://open.spotify.com/track/5QdCyE9LAGTcJCpusRvKYh"
+    },
+    {
+      "album": {
+        "name": "Vamos por todo",
+        "url": "https://open.spotify.com/album/4pbW5SsWU5x3vsY43CrHo4"
+      },
+      "artists": [
+        {
+          "name": "Pedro Peligro",
+          "url": "https://open.spotify.com/artist/5uOhG1IBVMazk6iP2xK1fj"
+        },
+        {
+          "name": "Mendez",
+          "url": "https://open.spotify.com/artist/66dSssqABqDgJNX48wRErt"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225402,
+      "name": "Vamos por todo",
+      "url": "https://open.spotify.com/track/68Rlhbme6eKfq2gzIqi1Ib"
     },
     {
       "album": {

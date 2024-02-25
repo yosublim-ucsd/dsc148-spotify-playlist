@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 19582,
+  "2024-02-25": 19595,
   "date_first_scraped": "2022-01-02",
   "description": "Country music with a Latin flair. Cover: Louie Thesinger",
   "name": "Country Latino",
@@ -2355,6 +2355,28 @@
       "duration_ms": 167959,
       "name": "South Of The Border",
       "url": "https://open.spotify.com/track/1U42O036JuKJigXbvOG3Bb"
+    },
+    {
+      "album": {
+        "name": "Space in My Heart",
+        "url": "https://open.spotify.com/album/7CATUcNzHCmx3vsOETqKM9"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178849,
+      "name": "Space in My Heart",
+      "url": "https://open.spotify.com/track/4vMI6s3uwWcxcAqVoXkATn"
     },
     {
       "album": {

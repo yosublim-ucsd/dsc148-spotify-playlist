@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Rymz
 
-2,340 songs - 5 day 4 hr 55 min
+2,341 songs - 5 day 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Amer amour](https://open.spotify.com/track/23DUiB0lNRwMVlU46BfbB4) | [L'Isle](https://open.spotify.com/artist/1Dha3TduO0PBC7aRD84PHP) | [Amer amour](https://open.spotify.com/album/0COlPqPWQtUZrBIqyqQsYd) | 2:55 | 2022-10-14 | 2022-10-29 |
 | [Ami](https://open.spotify.com/track/0N0Ymk2UB6yzGBL2Xqo82L) | [Conifère](https://open.spotify.com/artist/2dp3ze9ayQS05io3tAkcA2) | [Conifère II](https://open.spotify.com/album/27AJRwbqjpYYkXdN5d9e9z) | 2:48 | 2023-03-31 | 2023-04-09 |
 | [Amiri jeans](https://open.spotify.com/track/2b0nACGnsNKVvJhmhOjewh) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Frères Ennemis](https://open.spotify.com/album/1HLUjcUDDsszfj7OIl6LGh) | 2:59 | 2024-01-26 | 2024-02-22 |
+| [Amiri jeans](https://open.spotify.com/track/4YCvIRnKeOQfKbJXNWKZw5) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Frères Ennemis](https://open.spotify.com/album/2BBiqL9LvtK9Dk9aYBEsGC) | 2:59 | 2024-02-23 |  |
 | [amnezia](https://open.spotify.com/track/223sTsABqhXPsTAXVF4EGL) | [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [amnezia](https://open.spotify.com/album/5ZKQDqhe3plohxAlowQ16t) | 3:34 | 2023-05-05 | 2023-06-24 |
 | [Amnésia](https://open.spotify.com/track/0eRqmVoEt73JJLRPkUoQj2) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Amnésia](https://open.spotify.com/album/4pPixTV11IwRLz7ryopxtm) | 3:40 | 2023-05-05 | 2023-06-19 |
 | [amour](https://open.spotify.com/track/47kA4ykK0Rlwjf8oV2HMo7) | [Jean\-Michel Blais](https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr) | [aubades](https://open.spotify.com/album/5QkK4w2gdXZUMoqpKNP5bo) | 4:37 | 2022-02-04 | 2022-02-19 |
@@ -1018,7 +1019,7 @@
 | [Jour \-3](https://open.spotify.com/track/4JqRoPEBOybW70jDGaWVbe) | [Pierre de Maere](https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd) | [Jour \-3](https://open.spotify.com/album/6Hzi45JNgrCpQZTicloesQ) | 2:51 | 2023-01-27 | 2023-02-11 |
 | [JPPDT](https://open.spotify.com/track/0LUPI4xVSIP6mcxlkppQkZ) | [Lucas Bel](https://open.spotify.com/artist/7rvaNJkA5mrujFUZwyYuzE) | [JPPDT](https://open.spotify.com/album/3ckdWpZYVe2QrjolxpphLm) | 3:22 | 2022-04-08 | 2022-04-16 |
 | [Julia](https://open.spotify.com/track/7wOiVecTrFnimS9bpnWJcS) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Aliocha Schneider](https://open.spotify.com/album/5wSrUAHl9x25A4w0wXpJLO) | 2:38 | 2023-09-29 | 2023-10-14 |
-| [JUNGLE](https://open.spotify.com/track/1AZLauYJZgld6QahY0gcIV) | [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [JUNGLE](https://open.spotify.com/album/5CgC5dMHUU6mKHWxdqjMVi) | 3:00 | 2024-02-16 |  |
+| [JUNGLE](https://open.spotify.com/track/1AZLauYJZgld6QahY0gcIV) | [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [JUNGLE](https://open.spotify.com/album/5CgC5dMHUU6mKHWxdqjMVi) | 3:00 | 2024-02-16 | 2024-02-25 |
 | [Jungle](https://open.spotify.com/track/2ciPN0LcXgAliiTHX8pwgc) | [Zagata](https://open.spotify.com/artist/0t1AIXeal0Ft3mI8ML89JZ), [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq) | [Jungle](https://open.spotify.com/album/5Dv29EJQdZvw0yF8lfG1tF) | 3:15 | 2023-10-20 | 2023-10-30 |
 | [Juste le talent](https://open.spotify.com/track/10tDhzLvMjWYjOuumnCGdx) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [Juste le talent](https://open.spotify.com/album/7f6D22X9OlC1JIOBNf2eVX) | 3:27 | 2022-09-30 | 2022-10-15 |
 | [Justifier sa place \(feat\. Francis Degrandpré\)](https://open.spotify.com/track/2ClHGsfBwU33aTyfm4ftP0) | [Vince Lemire](https://open.spotify.com/artist/1YzPsCwc1svqXcN5P0n7XN), [Francis Degrandpré](https://open.spotify.com/artist/22LLgS9VdydAJSBQXUr8r2) | [Justifier sa place \(feat\. Francis Degrandpré\)](https://open.spotify.com/album/1S2Xv2A9BnX4dl8UrnUaRY) | 3:03 | 2022-09-30 | 2022-10-15 |

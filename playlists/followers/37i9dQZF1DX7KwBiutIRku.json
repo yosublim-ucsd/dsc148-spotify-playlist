@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 87403,
+  "2024-02-25": 87502,
   "date_first_scraped": "2022-05-26",
   "description": "Southern boogie, swinging blues rock and classic boogie rock. Cover: ZZ Top",
   "name": "Boogie Rock",
@@ -53,7 +53,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-13",
+      "date_removed": null,
       "duration_ms": 124120,
       "name": "Born To Boogie",
       "url": "https://open.spotify.com/track/3Qd1sMmuPHEgycQOn6Mdve"
@@ -795,7 +795,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 240346,
       "name": "Rockout, Whatever You Feel Like",
       "url": "https://open.spotify.com/track/2F2bTEfEFPaq1GoY2pQIyx"

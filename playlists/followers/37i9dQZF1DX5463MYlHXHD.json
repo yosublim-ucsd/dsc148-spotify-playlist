@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 567079,
+  "2024-02-25": 567189,
   "date_first_scraped": "2023-05-28",
   "description": "Cumbia pa' volar la chapa con Papichamp, The la Planta, El negro tecla, Lolo OG & Locura Mix.",
   "name": "Cumbia de Barrio",
@@ -77,6 +77,24 @@
       "duration_ms": 128265,
       "name": "6to Sentido (Una Vuelta)",
       "url": "https://open.spotify.com/track/0j2p4MTvu6tfrK8UsKLS31"
+    },
+    {
+      "album": {
+        "name": "Acelerando",
+        "url": "https://open.spotify.com/album/4xeP0fdal3zym3H7zwnjiT"
+      },
+      "artists": [
+        {
+          "name": "El Mala",
+          "url": "https://open.spotify.com/artist/1LSYfRidvKN3sUXOg8HDWC"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134327,
+      "name": "Acelerando",
+      "url": "https://open.spotify.com/track/3HA3hitwRhesWNKu3YGAE1"
     },
     {
       "album": {
@@ -667,6 +685,24 @@
       "duration_ms": 229161,
       "name": "Coraz\u00f3n de Madre / Cosas Del Amor",
       "url": "https://open.spotify.com/track/6R2UbyXsPIpBlKBiqy4nHg"
+    },
+    {
+      "album": {
+        "name": "Session de lo Mejor",
+        "url": "https://open.spotify.com/album/69r9xG6Wa8dX3pH0CPRPml"
+      },
+      "artists": [
+        {
+          "name": "El Perro",
+          "url": "https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 52970,
+      "name": "Corre que corre",
+      "url": "https://open.spotify.com/track/0lGE7odx6MUrTwjNWxD1sh"
     },
     {
       "album": {
@@ -3091,7 +3127,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 193989,
       "name": "ROMPE",
       "url": "https://open.spotify.com/track/5d67pPoDJsY76WYCDUPS8e"
@@ -3929,7 +3965,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 163401,
       "name": "Venite Al Barrio",
       "url": "https://open.spotify.com/track/502621sPRjwZnxC5N7Co80"

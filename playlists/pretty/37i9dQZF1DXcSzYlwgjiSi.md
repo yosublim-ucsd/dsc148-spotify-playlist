@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSzYlwgjiSi.md) - [plain]
 
 > The perfect soundtrack for a day on the water.
 
-[Spotify](https://open.spotify.com/user/spotify) - 411,382 likes - 145 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 411,371 likes - 145 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSzYlwgjiSi.md) - [plain]
 | 144 | [Bad Day To Be A Beer](https://open.spotify.com/track/43LrMetIAvDF3pvqgEuiub) | [Kyle Clark](https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN), [Troy Cartwright](https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr) | [Bad Day To Be A Beer](https://open.spotify.com/album/1vEGRtGVSiD0dZabC06f2l) | 3:01 |
 | 145 | [Fillin' My Cup \(feat\. Little Big Town\)](https://open.spotify.com/track/1zj8nUbc4cSs9Fc733MFDy) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I), [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [The Dream: Living The Dream \(Deluxe\)](https://open.spotify.com/album/0r6KIOwZvmsEd457nUJWbt) | 3:11 |
 
-Snapshot ID: `MCw4ZTU3ZjRhNzI5NDVjM2M3MDEzZTNmNWUzYmRmYzZkMzg2ZjIzMGUw`
+Snapshot ID: `MCxlNjFjZDIzMTY1NWVlZjY1MDk5OGYxNjkxZDdlMmE5NzA0OWYwMDZk`

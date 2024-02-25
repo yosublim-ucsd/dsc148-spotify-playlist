@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 76308,
+  "2024-02-25": 78120,
   "date_first_scraped": "2022-11-25",
   "description": "A hypnotic journey through Melodic Techno.",
   "name": "Melodic Techno Elements",
@@ -929,7 +929,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 230736,
       "name": "C'mon",
       "url": "https://open.spotify.com/track/0Q1E0uHQHHlczjjbctXzmK"
@@ -1959,6 +1959,24 @@
       "duration_ms": 187583,
       "name": "Eckstein Eckstein",
       "url": "https://open.spotify.com/track/2EMukdf4zK0H27I35Vvpmi"
+    },
+    {
+      "album": {
+        "name": "Triation, Vol. VIII",
+        "url": "https://open.spotify.com/album/1YQk48Nlcwy1P3SuyHdEVo"
+      },
+      "artists": [
+        {
+          "name": "biskuwi",
+          "url": "https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340000,
+      "name": "Eclips",
+      "url": "https://open.spotify.com/track/2ltZFK5dudMtP0TFpc4SOa"
     },
     {
       "album": {
@@ -4177,7 +4195,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 347520,
       "name": "Laura - Argy & Omnya Remix",
       "url": "https://open.spotify.com/track/52SOce5eNcoP9g0CWrd4TJ"
@@ -4974,6 +4992,36 @@
     },
     {
       "album": {
+        "name": "Mwaki (Chris Avantgarde & Kevin de Vries Remix)",
+        "url": "https://open.spotify.com/album/7mXNS8L1e7Jc9wKFR9JAEV"
+      },
+      "artists": [
+        {
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+        },
+        {
+          "name": "Chris Avantgarde",
+          "url": "https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U"
+        },
+        {
+          "name": "Kevin de Vries",
+          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
+        },
+        {
+          "name": "Sofiya Nzau",
+          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251428,
+      "name": "Mwaki - Chris Avantgarde & Kevin de Vries Remix",
+      "url": "https://open.spotify.com/track/0iGDgUFE1z0Cq8n6RsBaAS"
+    },
+    {
+      "album": {
         "name": "My City's On Fire (Anyma & Cassian Remix)",
         "url": "https://open.spotify.com/album/7CrZ3IMVHng3uOXib7KFNU"
       },
@@ -5279,6 +5327,24 @@
       "duration_ms": 245714,
       "name": "Of Me - Edit",
       "url": "https://open.spotify.com/track/292721zd62TFxtEeKAYmFP"
+    },
+    {
+      "album": {
+        "name": "Olympus",
+        "url": "https://open.spotify.com/album/3lFDbkGVwjx3Dp1Kx4Fqus"
+      },
+      "artists": [
+        {
+          "name": "AKKI (DE)",
+          "url": "https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177777,
+      "name": "Olympus",
+      "url": "https://open.spotify.com/track/0hfyaFhHkcEdWWckyVRnH6"
     },
     {
       "album": {
@@ -8581,7 +8647,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 201657,
       "name": "Under Your Spine",
       "url": "https://open.spotify.com/track/2qZEyjmUrMdrAfF5gbsHid"

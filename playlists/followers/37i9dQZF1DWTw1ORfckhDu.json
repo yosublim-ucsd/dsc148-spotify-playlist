@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 84255,
+  "2024-02-25": 84270,
   "date_first_scraped": "2023-09-23",
   "description": "100 Suomi \ud83d\udcaf Kannessa Costi.",
   "name": "100 Suomi",
@@ -5823,6 +5823,28 @@
       "duration_ms": 203343,
       "name": "Sotku (feat. Lauri Haav)",
       "url": "https://open.spotify.com/track/5MqxviceOm4UfwjcYsgLqZ"
+    },
+    {
+      "album": {
+        "name": "Soul Survivor",
+        "url": "https://open.spotify.com/album/1d5WrBaGS5u7Vnu0vkZ2xW"
+      },
+      "artists": [
+        {
+          "name": "YB026",
+          "url": "https://open.spotify.com/artist/4Qe6IKIsL2B1CeJ8q9a6Om"
+        },
+        {
+          "name": "KERZA",
+          "url": "https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188660,
+      "name": "Soul Survivor",
+      "url": "https://open.spotify.com/track/0yg0Ef5N7LE5SWXXHgFnQL"
     },
     {
       "album": {

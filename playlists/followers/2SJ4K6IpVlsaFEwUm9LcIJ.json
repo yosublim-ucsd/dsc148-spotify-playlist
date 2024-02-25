@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 18122,
+  "2024-02-25": 18134,
   "date_first_scraped": "2024-02-12",
   "description": "what i&#x27;m listening to: jan-feb 2024 (previous playlists archived on my profile) (image credit: @afffirmations on IG)",
   "name": "here i go again on my own",
@@ -897,6 +897,28 @@
       "duration_ms": 98000,
       "name": "Tape 27 Track 5",
       "url": "https://open.spotify.com/track/4yDWhQvxgjHElaMgdELmZx"
+    },
+    {
+      "album": {
+        "name": "Target",
+        "url": "https://open.spotify.com/album/3ZbLs2qH6lDnDbEnNmsYYv"
+      },
+      "artists": [
+        {
+          "name": "Rui Gabriel",
+          "url": "https://open.spotify.com/artist/1LhAwMWCGYmplvmnZmvoDz"
+        },
+        {
+          "name": "Kate Teague",
+          "url": "https://open.spotify.com/artist/5yNcIZz69fYkSRhiGoFx8T"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299766,
+      "name": "Target",
+      "url": "https://open.spotify.com/track/0pC0qIpSTvptjrCSg0p9Gq"
     },
     {
       "album": {

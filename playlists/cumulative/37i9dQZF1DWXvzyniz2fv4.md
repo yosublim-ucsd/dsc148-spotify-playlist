@@ -4,7 +4,7 @@
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-169 songs - 9 hr 15 min
+170 songs - 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Cellina](https://open.spotify.com/track/1UsZbnYnEU3DgyFiM4n7RU) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Stanley Castro](https://open.spotify.com/artist/7LLv5yYIB0JNOIiYBeOGah), [Liu Beatz](https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ), [Thebosh](https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI) | [Cellina](https://open.spotify.com/album/5IyMTRwkAPVPDNf6joX25R) | 3:00 | 2022-12-23 | 2023-02-11 |
 | [Certo pra Você](https://open.spotify.com/track/4lPvpx8AgI31GsZP9HjkGI) | [MTK](https://open.spotify.com/artist/6Wovvjcj6QZTEyKRkXdLL9) | [Certo pra Você](https://open.spotify.com/album/5P4NC7RHetv1NH9OrHcQDv) | 3:31 | 2021-11-12 |  |
 | [Chamem a Polícia](https://open.spotify.com/track/0iJfSnKuZn2J69RfdWlZkv) | [Stanley Castro](https://open.spotify.com/artist/7LLv5yYIB0JNOIiYBeOGah), [MC Estudante](https://open.spotify.com/artist/27EYCpBghCafQbmGDemUD6), [Thebosh](https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI) | [Chamem a Polícia](https://open.spotify.com/album/25l1kzAc76CEuXBsTm3O2a) | 3:05 | 2023-01-27 | 2023-04-22 |
+| [Chuva de Verão \(Modo Esquece\)](https://open.spotify.com/track/57A5HbAVHLF9yfEUk2vT5G) | [TrapLaudo](https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF) | [Chuva de Verão \(Modo Esquece\)](https://open.spotify.com/album/2sAhH6CkhXvRWof3Xq4gnl) | 3:18 | 2024-02-23 |  |
 | [Conexão](https://open.spotify.com/track/1hoBqJiq8sR58nxGA1Wyva) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX), [Luan LDS](https://open.spotify.com/artist/09zWmRrnBdacbqJUkysC3J) | [Conexão](https://open.spotify.com/album/3B0e27bRsdqkf8jAYIMC4i) | 2:23 | 2023-01-06 |  |
 | [Copo de Bebida](https://open.spotify.com/track/19bPpmsrRlG5BJASqaqevf) | [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj) | [Amor e Ódio](https://open.spotify.com/album/4XjGW9ICzbGHxtWeI7dUAt) | 2:46 | 2023-12-15 | 2024-01-27 |
 | [Céu Lilás](https://open.spotify.com/track/685d82SkQXCZWTeiHwDMpA) | [LK 3030](https://open.spotify.com/artist/1NwOxFPX8X4zAp6gF4K8DD) | [Céu Lilás](https://open.spotify.com/album/7h7c9b9bq8Ir59JmPzafN2) | 2:54 | 2022-05-06 | 2022-06-18 |
@@ -47,7 +48,7 @@
 | [Djavu](https://open.spotify.com/track/2WH637f5jibXgY3Be06EC9) | [Eddu Chaves](https://open.spotify.com/artist/1F2sGUNH0ElOKlAc90BQaa), [Tertto](https://open.spotify.com/artist/2Ab3GEqPRCoaRDCBhkUgIr), [Raonir Braz](https://open.spotify.com/artist/44w1bg6i4nDOZMvNnGiRdg), [ogoin](https://open.spotify.com/artist/31lFbAIACVCAY9J0JoLbCy) | [Djavu](https://open.spotify.com/album/3teEapeQnAL8iGDlIUb9Cq) | 4:11 | 2024-01-26 |  |
 | [Doses](https://open.spotify.com/track/6wlLKk88zURUCDZqKwwqFr) | [K.E](https://open.spotify.com/artist/1bxL9qRsUIjE58sHjj9FzI) | [Doses](https://open.spotify.com/album/7iPcwRcW1XYDiElkwZzqEd) | 3:26 | 2021-11-12 |  |
 | [ELA ME TEM](https://open.spotify.com/track/6TcGk4u9blTVO5bOmtOyFa) | [Ikki](https://open.spotify.com/artist/5uxYttuMvoojMzmPmWWg6T) | [ELA ME TEM](https://open.spotify.com/album/6G9FBaWvnwKHkiqXOyC2AN) | 2:27 | 2023-03-24 | 2023-06-24 |
-| [Ela Não Cansa](https://open.spotify.com/track/2lI0swzcw6gQ7hks7o2VLJ) | [Coffee Zk](https://open.spotify.com/artist/1cCEQ1P7hSW7Oktxst0XzK), [Mel](https://open.spotify.com/artist/5a5NeXda5Km8VQLSJQIa94) | [Ela Não Cansa](https://open.spotify.com/album/0IPKdGoYVmf7ZiJR1dme9H) | 2:54 | 2023-02-25 |  |
+| [Ela Não Cansa](https://open.spotify.com/track/2lI0swzcw6gQ7hks7o2VLJ) | [Coffee Zk](https://open.spotify.com/artist/1cCEQ1P7hSW7Oktxst0XzK), [Mel](https://open.spotify.com/artist/5a5NeXda5Km8VQLSJQIa94) | [Ela Não Cansa](https://open.spotify.com/album/0IPKdGoYVmf7ZiJR1dme9H) | 2:54 | 2023-02-25 | 2024-02-25 |
 | [Equação](https://open.spotify.com/track/6qm6PhLt6mRX53gR9pn0Iy) | [Mun\-Ra](https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Equação](https://open.spotify.com/album/0fzp4jZE1x6qbA4sIeSLCC) | 3:02 | 2021-11-12 |  |
 | [Esse Teu Sorriso](https://open.spotify.com/track/0vNk56sBz28p6Ior2sliTb) | [DOM7NICO](https://open.spotify.com/artist/2oGllwBi30E8506gcLUohv) | [Esse Teu Sorriso](https://open.spotify.com/album/6PVqvFnGpciV0hzLuvIiIN) | 3:09 | 2022-06-17 | 2023-10-14 |
 | [Estrela do Bairro](https://open.spotify.com/track/1QhYZN26nrWchzfbURdaNv) | [Real Ale](https://open.spotify.com/artist/1xhLnO5zKiQGUu4o9xvBzi), [Diego Thug](https://open.spotify.com/artist/4XJyjyOJnsvtZEi5isgKSw), [NoyaNoBeat](https://open.spotify.com/artist/1ZglvfavmB4dk9EqUgcUXU) | [Estrela do Bairro](https://open.spotify.com/album/3mrtDkRPrqu2jCAjRLlAO9) | 3:08 | 2024-01-12 | 2024-02-17 |

@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 124560,
+  "2024-02-25": 124590,
   "date_first_scraped": "2022-06-09",
   "description": "The R&B and good vibe tracks for your current mood. Cover: Justin Timberlake",
   "name": "mood.",
@@ -8213,6 +8213,24 @@
       "duration_ms": 134243,
       "name": "Please",
       "url": "https://open.spotify.com/track/4fDIsYUUzdq6riqwmsqzxN"
+    },
+    {
+      "album": {
+        "name": "Please Be Good",
+        "url": "https://open.spotify.com/album/2FTYhBqao8Jg6fp1huyZar"
+      },
+      "artists": [
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158019,
+      "name": "Please Be Good",
+      "url": "https://open.spotify.com/track/0oSpphTmHAisyEtcslZcg3"
     },
     {
       "album": {

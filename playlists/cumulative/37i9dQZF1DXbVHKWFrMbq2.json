@@ -893,6 +893,28 @@
     },
     {
       "album": {
+        "name": "lady madrizZz (Remix)",
+        "url": "https://open.spotify.com/album/7CmFEPmYsEzBg4H95OigTO"
+      },
+      "artists": [
+        {
+          "name": "c\u00e9ro",
+          "url": "https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201581,
+      "name": "lady madrizZz (Remix)",
+      "url": "https://open.spotify.com/track/6JWk1sLMa1cYZYBjr1tWVE"
+    },
+    {
+      "album": {
         "name": "Lejos De Todo",
         "url": "https://open.spotify.com/album/0BTlNjaXzEluXhNGGyz0lz"
       },
@@ -1120,7 +1142,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 149900,
       "name": "Me Gustas T\u00fa",
       "url": "https://open.spotify.com/track/5rKuJ17ulyXWrqtLKS4sFM"

@@ -171,6 +171,24 @@
     },
     {
       "album": {
+        "name": "30 KM/H",
+        "url": "https://open.spotify.com/album/3nFLg2pkAqrTrK9JbySHny"
+      },
+      "artists": [
+        {
+          "name": "Lia Larsson",
+          "url": "https://open.spotify.com/artist/7wdEdhvMnmb3lqogWSY9xD"
+        }
+      ],
+      "date_added": "2024-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168687,
+      "name": "30 KM/H",
+      "url": "https://open.spotify.com/track/5877bQq4QOaIYvwo9LtmVB"
+    },
+    {
+      "album": {
         "name": "30 km/h (Med Louise Andersson Bodin)",
         "url": "https://open.spotify.com/album/4MHaBwxuiDv3CVHaATzvcy"
       },

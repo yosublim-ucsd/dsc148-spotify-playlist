@@ -1,7 +1,7 @@
 {
-  "2024-02-24": 195902,
+  "2024-02-25": 195954,
   "date_first_scraped": "2022-05-26",
-  "description": "The best of modern blues rock. Cover: Rival Sons",
+  "description": "The best of modern blues rock. Cover: JJ Grey",
   "name": "Modern Blues Rock",
   "tracks": [
     {
@@ -251,7 +251,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 234478,
       "name": "Backstabber",
       "url": "https://open.spotify.com/track/6fvRlIuF0E1C05vILdR9oC"
@@ -471,6 +471,24 @@
       "duration_ms": 168936,
       "name": "Black Magic",
       "url": "https://open.spotify.com/track/6qWbdBTcF2u7zvSXLxKRZx"
+    },
+    {
+      "album": {
+        "name": "The Wolves Are Coming",
+        "url": "https://open.spotify.com/album/2juRTUdOZBV0g3Oi5uSJkK"
+      },
+      "artists": [
+        {
+          "name": "Philip Sayce",
+          "url": "https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160815,
+      "name": "Black Moon",
+      "url": "https://open.spotify.com/track/13F76PKJYIWbG986buVo66"
     },
     {
       "album": {
@@ -2882,6 +2900,24 @@
     },
     {
       "album": {
+        "name": "Olustee",
+        "url": "https://open.spotify.com/album/1TK4IGwafhUenf6NTJsVPH"
+      },
+      "artists": [
+        {
+          "name": "JJ Grey & Mofro",
+          "url": "https://open.spotify.com/artist/1Jl8u1U1GtBlwocZK5LWZv"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309546,
+      "name": "Olustee",
+      "url": "https://open.spotify.com/track/6VjD0MJwrKQjaJesWAy6hd"
+    },
+    {
+      "album": {
         "name": "On My Hands",
         "url": "https://open.spotify.com/album/2nWs7LzcrLUwSnjoX2bvdK"
       },
@@ -2911,7 +2947,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 204906,
       "name": "One More Time",
       "url": "https://open.spotify.com/track/4xJ65J4IJYtxV7A9Uz9BX4"

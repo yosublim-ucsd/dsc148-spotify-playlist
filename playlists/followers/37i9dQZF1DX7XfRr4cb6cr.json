@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 184381,
+  "2024-02-25": 184496,
   "date_first_scraped": "2022-01-25",
   "description": "Hymns for darker hours.",
   "name": "Dark Ambient",
@@ -2071,13 +2071,13 @@
       },
       "artists": [
         {
-          "name": "Maria w Horn",
+          "name": "Maria W Horn",
           "url": "https://open.spotify.com/artist/2td3eHrQeycxkGLmCeauak"
         }
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 796000,
       "name": "Konvektion",
       "url": "https://open.spotify.com/track/5fOr0VJwhHuOFyh6FCZVyO"
@@ -2465,7 +2465,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 265000,
       "name": "Melting Refuge",
       "url": "https://open.spotify.com/track/72yOEueBpwoPF7zBWtvREm"

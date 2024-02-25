@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 101136,
+  "2024-02-25": 101163,
   "date_first_scraped": "2022-01-17",
   "description": "Electronic tunes for your virtual world.",
   "name": "Pixel Garden",
@@ -1255,7 +1255,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-05",
+      "date_removed": null,
       "duration_ms": 229629,
       "name": "Cherry",
       "url": "https://open.spotify.com/track/0zxAdvhHnewHweDFMquQd1"
@@ -1585,7 +1585,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 205017,
       "name": "Continue",
       "url": "https://open.spotify.com/track/5OkBQPz8j5yndKOKkTzKJT"
@@ -1807,7 +1807,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-16",
+      "date_removed": null,
       "duration_ms": 197793,
       "name": "Don't Need You",
       "url": "https://open.spotify.com/track/0se8mCFDYQohVqP6cFoToK"
@@ -2332,6 +2332,28 @@
     },
     {
       "album": {
+        "name": "Pointillism / Everything We Tried",
+        "url": "https://open.spotify.com/album/0zlxVMMeHgf7JrznWWMKAK"
+      },
+      "artists": [
+        {
+          "name": "Geller",
+          "url": "https://open.spotify.com/artist/6OgMBOUaAfkEfWkEFkXpbL"
+        },
+        {
+          "name": "valentina cy",
+          "url": "https://open.spotify.com/artist/6VSCooQeDo6An0mx1mhYyx"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208023,
+      "name": "Everything We Tried",
+      "url": "https://open.spotify.com/track/6cHNGetkkvyreYspgs0NCc"
+    },
+    {
+      "album": {
         "name": "E\u0301toiles (feat. Metaroom)",
         "url": "https://open.spotify.com/album/1hHMsitIWzDzPwX3K1lfcV"
       },
@@ -2819,7 +2841,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 248265,
       "name": "Found Magic",
       "url": "https://open.spotify.com/track/7zeeaFEbI8qGY2TEhgnVGN"
@@ -3381,7 +3403,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-01",
+      "date_removed": null,
       "duration_ms": 175384,
       "name": "Green Hill Zone",
       "url": "https://open.spotify.com/track/0XjZFdCbGKM2OHecJa1185"
@@ -3715,7 +3737,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-21",
+      "date_removed": null,
       "duration_ms": 258299,
       "name": "I Believe",
       "url": "https://open.spotify.com/track/6zke4l646FheM5JlIdu4T8"
@@ -4397,7 +4419,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 239500,
       "name": "Love",
       "url": "https://open.spotify.com/track/4hriybgE67pyiH6yz7J8R5"
@@ -5103,7 +5125,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-18",
+      "date_removed": null,
       "duration_ms": 259200,
       "name": "myyyy medssss",
       "url": "https://open.spotify.com/track/2oJZnCoVRQfiutXmSxVXh6"
@@ -5923,7 +5945,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 126432,
       "name": "pls (\u2212_\u2212;)",
       "url": "https://open.spotify.com/track/1y7ZG3g05KN8L2BUm4qRtw"
@@ -6739,7 +6761,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 225882,
       "name": "Shine",
       "url": "https://open.spotify.com/track/76FR3MBARic3eh86RQjubB"
@@ -7631,7 +7653,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 229189,
       "name": "The Princess and the Clock",
       "url": "https://open.spotify.com/track/2zSFmjJR2PCE1eXGWcMiMI"
@@ -8095,7 +8117,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-17",
+      "date_removed": null,
       "duration_ms": 205935,
       "name": "When Everything is Grey",
       "url": "https://open.spotify.com/track/3h4gssEEpQZxfT9SKF9wD0"
@@ -8425,7 +8447,7 @@
       ],
       "date_added": "2023-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 266716,
       "name": "Yxguden",
       "url": "https://open.spotify.com/track/3iE7TS6d7L2tb2Ui7kt9ut"

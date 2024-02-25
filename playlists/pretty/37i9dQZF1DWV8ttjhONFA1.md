@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8ttjhONFA1.md) - [plain]
 
 > El nuevo sonido argentino lo encontrás acá\. Foto: Mi Amigo Invencible
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,293 likes - 90 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,312 likes - 90 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8ttjhONFA1.md) - [plain]
 | 89 | [Los Halcones](https://open.spotify.com/track/5TdKAGXN0JBooUcGP5jE0j) | [Santiago Moraes](https://open.spotify.com/artist/2pfLPT9ZTkPrLd8ZJiDBld), [Lucy Patané](https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld) | [Los Halcones](https://open.spotify.com/album/0VtAPQ89V7neq7B8RyevIz) | 5:26 |
 | 90 | [Nueva forma](https://open.spotify.com/track/0TDG3IR0swgn5RJuIR5c7f) | [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP) | [Nueva forma](https://open.spotify.com/album/5pHns47VudPY5LcyMZHCrF) | 3:14 |
 
-Snapshot ID: `MCw3YTQyMTM3MDY3ZGFkMGRiYzUyZDJhMzJhOThiMWYwZDE2ZGVlNmQz`
+Snapshot ID: `MCw4ZjJmNjM1MDdiZWU5YzVjZWZmZTFmNDUyMWFhZWU3ODdiYjk5NTUz`

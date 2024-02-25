@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 9097,
+  "2024-02-25": 9096,
   "date_first_scraped": "2022-06-10",
   "description": "Driving songs acoustic style! Sit back and enjoy the ride!",
   "name": "Acoustic Driving Songs",
@@ -281,7 +281,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 228151,
       "name": "Believe - Acoustic",
       "url": "https://open.spotify.com/track/52VvzULC47oauMWtVdAejU"
@@ -1129,7 +1129,7 @@
       ],
       "date_added": "2023-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 174231,
       "name": "Happy Together - Acoustic",
       "url": "https://open.spotify.com/track/40JDOzCppZu1LhPPwtqz82"
@@ -2386,6 +2386,28 @@
     },
     {
       "album": {
+        "name": "Never Gonna Give You Up (Acoustic Live Session)",
+        "url": "https://open.spotify.com/album/6Ol46XddMOINuLH5liivU0"
+      },
+      "artists": [
+        {
+          "name": "Bottlemoth",
+          "url": "https://open.spotify.com/artist/08Ed5qtdJSM4RqlqhPbgeq"
+        },
+        {
+          "name": "STABAL",
+          "url": "https://open.spotify.com/artist/14Fy429gXhC1L1LJ7Etyyf"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Never Gonna Give You Up - Acoustic Live Session",
+      "url": "https://open.spotify.com/track/0YotL4I236UOrsXNab0Twe"
+    },
+    {
+      "album": {
         "name": "Never Too Much (Acoustic)",
         "url": "https://open.spotify.com/album/5dZh5PIzdaAL64XhWuwDV4"
       },
@@ -3065,6 +3087,24 @@
       "duration_ms": 163132,
       "name": "Sweet Dreams (Are Made of This) - Acoustic",
       "url": "https://open.spotify.com/track/4QnF8CePWPb4k2imP90Q1Z"
+    },
+    {
+      "album": {
+        "name": "Sweet Home Alabama (Acoustic)",
+        "url": "https://open.spotify.com/album/70AdvQHtuUhoLtbIZyCUDL"
+      },
+      "artists": [
+        {
+          "name": "Paul Canning",
+          "url": "https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152516,
+      "name": "Sweet Home Alabama - Acoustic",
+      "url": "https://open.spotify.com/track/3erRmhqtHch5MPmHYAlsUC"
     },
     {
       "album": {

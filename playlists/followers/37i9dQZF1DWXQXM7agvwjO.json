@@ -1,7 +1,7 @@
 {
-  "2024-02-24": 93036,
+  "2024-02-25": 93096,
   "date_first_scraped": "2022-03-28",
-  "description": "Hottest indie sounds & the best new tracks from Asia. cover: HYBS + SIRUP (TH/JP)",
+  "description": "Hottest indie sounds & the best new tracks from Asia. cover: flu (Phillipines)",
   "name": ".ORG",
   "tracks": [
     {
@@ -39,6 +39,24 @@
       "duration_ms": 169142,
       "name": "(The Cherry Trees)",
       "url": "https://open.spotify.com/track/2e5HDpsJrpt0GwWME1tR9p"
+    },
+    {
+      "album": {
+        "name": "Su\u00fdt 1",
+        "url": "https://open.spotify.com/album/5ER34Rd6OkCwXBD7SOMB97"
+      },
+      "artists": [
+        {
+          "name": "Ng\u1ecdt",
+          "url": "https://open.spotify.com/artist/0V2DfUrZvBuUReS1LFo5ZI"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211777,
+      "name": "01 Chuy\u1ec7n D\u1edf Dang",
+      "url": "https://open.spotify.com/track/3vWCRttEOSRmXZs8jfAPSX"
     },
     {
       "album": {
@@ -4803,7 +4821,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 204097,
       "name": "Distance",
       "url": "https://open.spotify.com/track/0QQgeIpfDpTOAialgKCuFA"
@@ -6053,7 +6071,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 183108,
       "name": "Fine Day",
       "url": "https://open.spotify.com/track/5pDaT8owMZaH9ZRCZjAYgs"
@@ -6685,6 +6703,28 @@
       "duration_ms": 212357,
       "name": "Get Up",
       "url": "https://open.spotify.com/track/0NiDg4RY2CmZnwAJd8Bbw6"
+    },
+    {
+      "album": {
+        "name": "Getaway (feat. Phum Viphurit)",
+        "url": "https://open.spotify.com/album/3Bm2iB1HH5jHglICVBIbH7"
+      },
+      "artists": [
+        {
+          "name": "PREP",
+          "url": "https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42"
+        },
+        {
+          "name": "Phum Viphurit",
+          "url": "https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247745,
+      "name": "Getaway (feat. Phum Viphurit)",
+      "url": "https://open.spotify.com/track/5JfLK7hYOhU3fj2xCxEKQ5"
     },
     {
       "album": {
@@ -7527,7 +7567,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 181000,
       "name": "Highteen",
       "url": "https://open.spotify.com/track/4HcnOrtYTFOLyZrfC7BQ9U"
@@ -8561,6 +8601,28 @@
       "duration_ms": 153600,
       "name": "I'll Be Honest",
       "url": "https://open.spotify.com/track/3jQQUM4NyNnbmKAnz5xguG"
+    },
+    {
+      "album": {
+        "name": "I'll Be Mine",
+        "url": "https://open.spotify.com/album/4inuQ9tn1ve7GOAsvPD2QC"
+      },
+      "artists": [
+        {
+          "name": "flu",
+          "url": "https://open.spotify.com/artist/6saBjzFSNu2pvTcfWWE04R"
+        },
+        {
+          "name": "Numcha",
+          "url": "https://open.spotify.com/artist/6bguntfj9ZnX1lFvSYl72d"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210584,
+      "name": "I'll Be Mine",
+      "url": "https://open.spotify.com/track/6oNqOzzH5P3X8m7qE7GgbO"
     },
     {
       "album": {
@@ -11939,7 +12001,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 203333,
       "name": "Movie Scenes",
       "url": "https://open.spotify.com/track/6pkvHlxFsRuAmE0eSCd2BI"
@@ -12301,7 +12363,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 196077,
       "name": "Name",
       "url": "https://open.spotify.com/track/0rHUXjS5ZBKq5ni1QNmhRj"
@@ -14254,6 +14316,24 @@
     },
     {
       "album": {
+        "name": "Rasa",
+        "url": "https://open.spotify.com/album/7iyJ9cYC1nXr9o0yptmbdj"
+      },
+      "artists": [
+        {
+          "name": "Nada Tsuma",
+          "url": "https://open.spotify.com/artist/7ChkfdtBIsPr26go8p1m79"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160342,
+      "name": "Rasa",
+      "url": "https://open.spotify.com/track/1qAsivKG65jDPwL5nyqwvk"
+    },
+    {
+      "album": {
         "name": "REACH!",
         "url": "https://open.spotify.com/album/0O6N7EfLklBJ6o4y2J7xb7"
       },
@@ -14783,7 +14863,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 198095,
       "name": "SANCTUARY",
       "url": "https://open.spotify.com/track/5Co74QMPtwQU8LFS0zwRpL"
@@ -17500,6 +17580,24 @@
     },
     {
       "album": {
+        "name": "Apophenia",
+        "url": "https://open.spotify.com/album/7Hk0apxk6HGCsWilqNyJvm"
+      },
+      "artists": [
+        {
+          "name": "Sunwich",
+          "url": "https://open.spotify.com/artist/45KFMEB3QETjFvFME86vYO"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186894,
+      "name": "The Reason Why",
+      "url": "https://open.spotify.com/track/7pI7fujsmn0lauSjuiKoTw"
+    },
+    {
+      "album": {
         "name": "The Trip",
         "url": "https://open.spotify.com/album/0OUuOt452BNPn74et9Iqnr"
       },
@@ -19573,6 +19671,24 @@
       "duration_ms": 189440,
       "name": "Wintertime Is Over",
       "url": "https://open.spotify.com/track/6hAWz1CnpMd8a7JmkJiigT"
+    },
+    {
+      "album": {
+        "name": "i'll be alright, right?",
+        "url": "https://open.spotify.com/album/4B714tXFBvBXaXG9lcVf6P"
+      },
+      "artists": [
+        {
+          "name": "Lunadira",
+          "url": "https://open.spotify.com/artist/6i6xQR652uL4FpGmUqZHOC"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156530,
+      "name": "WISH U WERE DEAD",
+      "url": "https://open.spotify.com/track/2OoVE4Womkp6V2zneoep8F"
     },
     {
       "album": {

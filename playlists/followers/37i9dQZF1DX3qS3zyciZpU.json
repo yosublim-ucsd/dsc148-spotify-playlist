@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 40967,
+  "2024-02-25": 40984,
   "date_first_scraped": "2022-01-02",
   "description": "The perfect songs for the perfect day.",
   "name": "Country Wedding",
@@ -241,6 +241,24 @@
       "duration_ms": 152510,
       "name": "Beauty in the Struggle",
       "url": "https://open.spotify.com/track/6BoxSb788sdA54JFfIjKuh"
+    },
+    {
+      "album": {
+        "name": "Best Friend for Life",
+        "url": "https://open.spotify.com/album/3bLbbIIyxFNU9jaX9NyV8H"
+      },
+      "artists": [
+        {
+          "name": "Grace Leer",
+          "url": "https://open.spotify.com/artist/2zaXxMpZKyNK075LXZ3wDG"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192755,
+      "name": "Best Friend for Life",
+      "url": "https://open.spotify.com/track/6qOJ3VMKZVSsioNgiLWvrE"
     },
     {
       "album": {

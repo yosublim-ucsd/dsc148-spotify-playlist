@@ -6,13 +6,13 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjg0Nzc3NDAsMDAwMDAwMDA5MGQyNDJhNWZiYzg3MTZmNzc2MzE2YWJiMjExMjY0Yw==",
+  "snapshot_id": "Mjg0Nzc3NDAsMDAwMDAwMDA5ZTI5NDg5MWRiOWZlNTA5YTY3NmQzM2JiZDlkOWIyNg==",
   "tracks": [
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Mac & Cheese 5 (Slowed Down)",
-        "url": "https://open.spotify.com/album/68S3fxaC8VY1ikctwS3HoY"
+        "name": "Mac & Cheese 5 (Versions)",
+        "url": "https://open.spotify.com/album/4X7trxVVObj1mdGvdl08Fs"
       },
       "artists": [
         {
@@ -32,9 +32,9 @@
           "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
         }
       ],
-      "duration_ms": 184051,
-      "name": "Stand United - Slowed Down",
-      "url": "https://open.spotify.com/track/0Ba8HC502aeKnSlxSWoZIr"
+      "duration_ms": 163971,
+      "name": "Stand United",
+      "url": "https://open.spotify.com/track/01CHrTerCzyRpMI1MzQ4fz"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -99,22 +99,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Sunset Park 2",
-        "url": "https://open.spotify.com/album/22W0QCcQV0kcOBzqfwbZ4A"
+        "name": "Muggsy Bogues",
+        "url": "https://open.spotify.com/album/476DYeSACCOnbGwVThJ82W"
       },
       "artists": [
         {
-          "name": "Doctor Omega",
-          "url": "https://open.spotify.com/artist/2BVT4ReNNTk5l7ItmGeoaC"
+          "name": "Marlon Craft",
+          "url": "https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb"
         },
         {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
         }
       ],
-      "duration_ms": 110550,
-      "name": "Bombay Freestyle",
-      "url": "https://open.spotify.com/track/1WGszl46YDd0HuPTkph5n2"
+      "duration_ms": 200500,
+      "name": "Muggsy Bogues",
+      "url": "https://open.spotify.com/track/17VsGeETmPijC3sjZq1lwu"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -139,6 +139,50 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "Sunset Park 2",
+        "url": "https://open.spotify.com/album/22W0QCcQV0kcOBzqfwbZ4A"
+      },
+      "artists": [
+        {
+          "name": "Doctor Omega",
+          "url": "https://open.spotify.com/artist/2BVT4ReNNTk5l7ItmGeoaC"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        }
+      ],
+      "duration_ms": 110550,
+      "name": "Bombay Freestyle",
+      "url": "https://open.spotify.com/track/1WGszl46YDd0HuPTkph5n2"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Glass: Cocteau Trilogy",
+        "url": "https://open.spotify.com/album/23xqTlF6y74ydN1PJlUQZB"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Katia Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/5Pj7u76MK9VDyzDiAyYPSL"
+        },
+        {
+          "name": "Marielle Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/4Xo09YXm0lIRA80IVUTe09"
+        }
+      ],
+      "duration_ms": 221346,
+      "name": "Orph\u00e9e - Arr. for Piano duet / Act 1: I. Le caf\u00e9",
+      "url": "https://open.spotify.com/track/3OEFievKZpxgLKdcU0sLUe"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "The Four Horsemen (feat. Robert Trujillo)",
         "url": "https://open.spotify.com/album/0NLcGZRqxmMlgCZqjNMKKw"
       },
@@ -159,26 +203,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Muggsy Bogues",
-        "url": "https://open.spotify.com/album/476DYeSACCOnbGwVThJ82W"
-      },
-      "artists": [
-        {
-          "name": "Marlon Craft",
-          "url": "https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb"
-        },
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        }
-      ],
-      "duration_ms": 200500,
-      "name": "Muggsy Bogues",
-      "url": "https://open.spotify.com/track/17VsGeETmPijC3sjZq1lwu"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Ils dansent",
         "url": "https://open.spotify.com/album/2LjeJoPZubfsFVIKVBWbXf"
       },
@@ -191,22 +215,6 @@
       "duration_ms": 147457,
       "name": "Ils dansent",
       "url": "https://open.spotify.com/track/3VRQ95U3wwWqIIO3UzfW5T"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Christ Freestyle",
-        "url": "https://open.spotify.com/album/09EycEXbxa4PTq3Kgx3leu"
-      },
-      "artists": [
-        {
-          "name": "Raekwon",
-          "url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
-        }
-      ],
-      "duration_ms": 124891,
-      "name": "Christ Freestyle",
-      "url": "https://open.spotify.com/track/0vph6Fu2Ynt6bVU909OL8D"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -327,26 +335,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Love for Sale (Ornithology Remix)",
-        "url": "https://open.spotify.com/album/0Q7mdGkEJD9IO4VGXo1e3s"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        },
-        {
-          "name": "Ornithology",
-          "url": "https://open.spotify.com/artist/1EpXwbpQDflfGg6juJz89j"
-        }
-      ],
-      "duration_ms": 141500,
-      "name": "Love for Sale - Ornithology Remix",
-      "url": "https://open.spotify.com/track/0IwASeCcdCtSdbSOSnhW4B"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Ottomans",
         "url": "https://open.spotify.com/album/0GSXfRutHvrM76sOwT6R1y"
       },
@@ -363,6 +351,26 @@
       "duration_ms": 172076,
       "name": "Ottomans",
       "url": "https://open.spotify.com/track/3crUmnbeVLEhkfjbX2GHLU"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Love for Sale (Ornithology Remix)",
+        "url": "https://open.spotify.com/album/0Q7mdGkEJD9IO4VGXo1e3s"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        },
+        {
+          "name": "Ornithology",
+          "url": "https://open.spotify.com/artist/1EpXwbpQDflfGg6juJz89j"
+        }
+      ],
+      "duration_ms": 141500,
+      "name": "Love for Sale - Ornithology Remix",
+      "url": "https://open.spotify.com/track/0IwASeCcdCtSdbSOSnhW4B"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -548,9 +556,9 @@
           "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
         }
       ],
-      "duration_ms": 190948,
-      "name": "Introspection - Remastered 2013",
-      "url": "https://open.spotify.com/track/1whnVNKaYTdBatWkX8TX7T"
+      "duration_ms": 179770,
+      "name": "Off Minor - Remastered 2013",
+      "url": "https://open.spotify.com/track/0j7Sdz3I9lkgEjBoJ31Cti"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -571,18 +579,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Take What's Given",
-        "url": "https://open.spotify.com/album/5SApZEPFs4QKsM2jJNas7F"
+        "name": "The Sound of Silence (CYRIL Remix)",
+        "url": "https://open.spotify.com/album/2aj8dhy2wfAtzBwh0bYuQc"
       },
       "artists": [
         {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        },
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
         }
       ],
-      "duration_ms": 174257,
-      "name": "Take What's Given",
-      "url": "https://open.spotify.com/track/1QHAegssMExNfItsAaUJiY"
+      "duration_ms": 185238,
+      "name": "The Sound of Silence - CYRIL Remix",
+      "url": "https://open.spotify.com/track/32aeRhnsILUPSbPiH5x62t"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -603,8 +615,8 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "The Equable",
-        "url": "https://open.spotify.com/album/1FJJvfqsXOOZGk1YJxiRYU"
+        "name": "Lingua Ignota: Part I",
+        "url": "https://open.spotify.com/album/1tQq6Actphb5JBlKC83gKB"
       },
       "artists": [
         {
@@ -612,113 +624,9 @@
           "url": "https://open.spotify.com/artist/4wxyib7wQwVxwKNFBmOhAw"
         }
       ],
-      "duration_ms": 388496,
-      "name": "The Equable",
-      "url": "https://open.spotify.com/track/0ZJlWerfrs7GjOo5NdpSYv"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Don't Tell Me (feat. Ann Wilson) [PLZ Tethered Version]",
-        "url": "https://open.spotify.com/album/5txXtUvhYlx6l7kgJsZeoU"
-      },
-      "artists": [
-        {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
-        },
-        {
-          "name": "Ann Wilson",
-          "url": "https://open.spotify.com/artist/4lPDIYPFDs5gpcToUczJDs"
-        },
-        {
-          "name": "Patrick Lawrence Zappia",
-          "url": "https://open.spotify.com/artist/0CuRSsgyTCUJQLXLoUpqpf"
-        }
-      ],
-      "duration_ms": 197996,
-      "name": "Don't Tell Me (feat. Ann Wilson) - PLZ Tethered Version",
-      "url": "https://open.spotify.com/track/4JMiWfmZVNXTu9yQQHsFqI"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "All Is Yellow",
-        "url": "https://open.spotify.com/album/4NGIX0BP6xxRaGh64hhJhe"
-      },
-      "artists": [
-        {
-          "name": "Lyrical Lemonade",
-          "url": "https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly"
-        },
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 110520,
-      "name": "Doomsday Pt. 2 (with Eminem)",
-      "url": "https://open.spotify.com/track/4QbCUutUlQDSBS4mtVOuZI"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "We Cut Keys 2",
-        "url": "https://open.spotify.com/album/4QrLni4FRgGo9SgAUoHDso"
-      },
-      "artists": [
-        {
-          "name": "Blinky Bill",
-          "url": "https://open.spotify.com/artist/3knnBcRO5nzDS1GOFhU1ba"
-        },
-        {
-          "name": "GoldLink",
-          "url": "https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ"
-        }
-      ],
-      "duration_ms": 222500,
-      "name": "Compare",
-      "url": "https://open.spotify.com/track/1AANTCuuyxJwTrQXRqQ7UZ"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Philip Glass Solo",
-        "url": "https://open.spotify.com/album/5EOmS6QX7WJq1041EcadSR"
-      },
-      "artists": [
-        {
-          "name": "Philip Glass",
-          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
-        }
-      ],
-      "duration_ms": 357000,
-      "name": "Opening",
-      "url": "https://open.spotify.com/track/6gd7PiUcQ8vrctWo7OCQMD"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Something New",
-        "url": "https://open.spotify.com/album/6iM3zZzaIsRMfMZvl5e6eJ"
-      },
-      "artists": [
-        {
-          "name": "KJ Conteh",
-          "url": "https://open.spotify.com/artist/21Vq6TV9BhC3IBMzfm3o6z"
-        },
-        {
-          "name": "Db Bantino",
-          "url": "https://open.spotify.com/artist/5ltYVQ8xZcX9CnLT4Jl0sa"
-        },
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        }
-      ],
-      "duration_ms": 216643,
-      "name": "Something New",
-      "url": "https://open.spotify.com/track/2pStdu5ViqeIlorMd0lPBS"
+      "duration_ms": 454370,
+      "name": "Lingua Ignota",
+      "url": "https://open.spotify.com/track/1cZl7hRofiCAzcWVWjHQ3q"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

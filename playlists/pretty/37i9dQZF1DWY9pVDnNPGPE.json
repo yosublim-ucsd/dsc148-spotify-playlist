@@ -1,12 +1,12 @@
 {
   "description": "\ub530\ub73b\ud55c \ud587\uc0b4\uacfc \uac00\ubcbc\uc6b4 \ubc1c\uac78\uc74c. \ud589\ubcf5\ud55c \uc74c\uc545\ub4e4\uacfc \uae30\ubd84 \uc88b\uc740 \uc0b0\ucc45 & \ud53c\ud06c\ub2c9\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 4834,
+  "num_followers": 4841,
   "original_name": "\ub0a0\uc774 * \uc88b\uc544\uc11c (K-Pop Walk & Picnic)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Mzg2ZDY4NjExNmIyNDFkNTBkODkzNjZlZjliMTY3OTQwMjk5ZmIx",
+  "snapshot_id": "MCwzNmM5ZDc4NmYxOTA3Y2I4OTQ1N2YzNDA0YWEyZDc5YWI2MzY4OTIy",
   "tracks": [
     {
       "added_at": "2023-11-03 06:20:46",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-11-03 06:20:46",
       "album": {
-        "name": "NO MORE",
-        "url": "https://open.spotify.com/album/03V3DsgstV70JlF61ZFEQz"
-      },
-      "artists": [
-        {
-          "name": "KIM YO HAN",
-          "url": "https://open.spotify.com/artist/49p6UP6XmVrB73XB2CSOVD"
-        }
-      ],
-      "duration_ms": 158045,
-      "name": "No More (Prod. Zion.T)",
-      "url": "https://open.spotify.com/track/6UZPTH87iJRJEPpfQ0wIZy"
-    },
-    {
-      "added_at": "2023-11-03 06:20:46",
-      "album": {
         "name": "IN-OUT",
         "url": "https://open.spotify.com/album/5Ak5VnM8tuKypGz4FbfiDc"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 221306,
       "name": "Alone",
       "url": "https://open.spotify.com/track/0X36bmuoQwQV0YJqU8Uxua"
+    },
+    {
+      "added_at": "2023-11-03 06:20:46",
+      "album": {
+        "name": "NO MORE",
+        "url": "https://open.spotify.com/album/03V3DsgstV70JlF61ZFEQz"
+      },
+      "artists": [
+        {
+          "name": "KIM YO HAN",
+          "url": "https://open.spotify.com/artist/49p6UP6XmVrB73XB2CSOVD"
+        }
+      ],
+      "duration_ms": 158045,
+      "name": "No More (Prod. Zion.T)",
+      "url": "https://open.spotify.com/track/6UZPTH87iJRJEPpfQ0wIZy"
     },
     {
       "added_at": "2023-11-03 06:20:46",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-11-03 06:20:46",
       "album": {
-        "name": "Twenty (Prod. Jung Key)",
-        "url": "https://open.spotify.com/album/0oJZPtZU2ZsUu3IrpO2QGq"
-      },
-      "artists": [
-        {
-          "name": "SWAN",
-          "url": "https://open.spotify.com/artist/0f6RsSHeOqHSYInigIXD0g"
-        }
-      ],
-      "duration_ms": 219653,
-      "name": "Twenty (Prod. Jung Key)",
-      "url": "https://open.spotify.com/track/1RQH42rIr42IEUhilODQIO"
-    },
-    {
-      "added_at": "2023-11-03 06:20:46",
-      "album": {
         "name": "LOVE or TAKE",
         "url": "https://open.spotify.com/album/5iu1d69dqEo9UaKpZDYoIV"
       },
@@ -827,18 +811,18 @@
     {
       "added_at": "2023-11-03 06:20:46",
       "album": {
-        "name": "The Interest of Love (Original Television Soundtrack, Pt.1)",
-        "url": "https://open.spotify.com/album/2LEJvE8JDCf8ttruz5sFLm"
+        "name": "Twenty (Prod. Jung Key)",
+        "url": "https://open.spotify.com/album/0oJZPtZU2ZsUu3IrpO2QGq"
       },
       "artists": [
         {
-          "name": "J Rabbit",
-          "url": "https://open.spotify.com/artist/4Imsd61cGosmAFBaMLtl4G"
+          "name": "SWAN",
+          "url": "https://open.spotify.com/artist/0f6RsSHeOqHSYInigIXD0g"
         }
       ],
-      "duration_ms": 204266,
-      "name": "Happiness",
-      "url": "https://open.spotify.com/track/4N9NAR5gze1VdTCY9xOUwc"
+      "duration_ms": 219653,
+      "name": "Twenty (Prod. Jung Key)",
+      "url": "https://open.spotify.com/track/1RQH42rIr42IEUhilODQIO"
     },
     {
       "added_at": "2023-11-03 06:20:46",
@@ -855,6 +839,22 @@
       "duration_ms": 243706,
       "name": "Confession (Ditto X Chuu (LOONA))",
       "url": "https://open.spotify.com/track/40wyDhO974VOe491zfVLbC"
+    },
+    {
+      "added_at": "2023-11-03 06:20:46",
+      "album": {
+        "name": "The Interest of Love (Original Television Soundtrack, Pt.1)",
+        "url": "https://open.spotify.com/album/2LEJvE8JDCf8ttruz5sFLm"
+      },
+      "artists": [
+        {
+          "name": "J Rabbit",
+          "url": "https://open.spotify.com/artist/4Imsd61cGosmAFBaMLtl4G"
+        }
+      ],
+      "duration_ms": 204266,
+      "name": "Happiness",
+      "url": "https://open.spotify.com/track/4N9NAR5gze1VdTCY9xOUwc"
     },
     {
       "added_at": "2023-11-03 06:20:46",

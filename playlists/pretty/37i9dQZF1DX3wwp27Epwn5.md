@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wwp27Epwn5.md) - [plain]
 
 > Train insane with these Bollywood tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,739 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,779 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wwp27Epwn5.md) - [plain]
 | 49 | [Zinda Banda \(From "Jawan"\)](https://open.spotify.com/track/4tzx5af2qpwgyjG6JQGthj) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP) | [Zinda Banda \(From "Jawan"\)](https://open.spotify.com/album/1Kiukl1wioSAtG0QwDXsHE) | 4:24 |
 | 50 | [High Rated Gabru](https://open.spotify.com/track/4dJWik0ax9bRFXl0HqbFjT) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL) | [Nawabzaade](https://open.spotify.com/album/5cExHIssPauI1CN9fwxkOk) | 2:59 |
 
-Snapshot ID: `MCw3NGI5OGU5NDU3ZDZhM2M0N2IyNTU2OWExMDNlM2E2OTQ1NTJhNWMz`
+Snapshot ID: `MCwxYjJiZGE0NWRmZWMzMmQzMTRiOGJkZjAwZTkyMjFkYzg1ZDBmNGE2`

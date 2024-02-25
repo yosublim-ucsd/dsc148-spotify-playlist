@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 287095,
+  "2024-02-25": 287110,
   "date_first_scraped": "2022-05-01",
   "description": "Damn son, where'd ya find this? Cover: <a href=\"spotify:artist:7zJL978NtANOysfGY21ty6\">Ghetts</a>",
   "name": "Raw & Uncut",
@@ -137,6 +137,24 @@
       "duration_ms": 372173,
       "name": "1Train (feat. Kendrick Lamar, Joey Bada$$, Yelawolf, Danny Brown, Action Bronson & Big K.R.I.T.)",
       "url": "https://open.spotify.com/track/1eLU27PPFxBhbp1CBjPh9J"
+    },
+    {
+      "album": {
+        "name": "2-3 Zone",
+        "url": "https://open.spotify.com/album/2v2ohqVKWPDDfXpVMfuBK8"
+      },
+      "artists": [
+        {
+          "name": "Erick the Architect",
+          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179025,
+      "name": "2-3 Zone",
+      "url": "https://open.spotify.com/track/61stjy8wXtCR3prmF6JEpm"
     },
     {
       "album": {
@@ -469,7 +487,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 93653,
       "name": "Adonis",
       "url": "https://open.spotify.com/track/4lkfqrvGrVIlJlxH5ppFui"
@@ -913,6 +931,28 @@
       "duration_ms": 222801,
       "name": "B.B. King Freestyle (with Drake)",
       "url": "https://open.spotify.com/track/6EW1fwOk4JHmTZKINZsyjB"
+    },
+    {
+      "album": {
+        "name": "Babe Ruth",
+        "url": "https://open.spotify.com/album/0SDt2reTVDvRistsKnYFge"
+      },
+      "artists": [
+        {
+          "name": "CHUNG",
+          "url": "https://open.spotify.com/artist/3JaOZg9OeS0sOnwz9MtvOe"
+        },
+        {
+          "name": "perutheproducer",
+          "url": "https://open.spotify.com/artist/7HZgGgNEM5zlE19qV12YWK"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109879,
+      "name": "Babe Ruth",
+      "url": "https://open.spotify.com/track/7nIXIgN0lx8YsEx6UbL0ue"
     },
     {
       "album": {
@@ -5355,7 +5395,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 200490,
       "name": "How We Get It",
       "url": "https://open.spotify.com/track/7fUWdT1JMsoN0ZHOD9eXpi"
@@ -5529,7 +5569,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 106594,
       "name": "I SCREAM",
       "url": "https://open.spotify.com/track/3AccdL73dItIK8flPFVF0x"
@@ -5897,7 +5937,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 236199,
       "name": "Instincts",
       "url": "https://open.spotify.com/track/7bA0Di2pbdscrttwpwrTjp"
@@ -6853,6 +6893,32 @@
       "duration_ms": 211512,
       "name": "Limoncello",
       "url": "https://open.spotify.com/track/2a8exXjnyktjH1S9180aSf"
+    },
+    {
+      "album": {
+        "name": "Live from the Roxy (feat. Boldy James)",
+        "url": "https://open.spotify.com/album/2cl2DGCPjyxVlfliCZwyXL"
+      },
+      "artists": [
+        {
+          "name": "Ransom",
+          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
+        },
+        {
+          "name": "Harry Fraud",
+          "url": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
+        },
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166071,
+      "name": "Live from the Roxy (feat. Boldy James)",
+      "url": "https://open.spotify.com/track/2iNyc3IgiqZ1oIAHoSA8ed"
     },
     {
       "album": {
@@ -7862,6 +7928,28 @@
     },
     {
       "album": {
+        "name": "Nigga Dreams",
+        "url": "https://open.spotify.com/album/7ypafu5DDUXBbGP0KqVFDr"
+      },
+      "artists": [
+        {
+          "name": "Steelo",
+          "url": "https://open.spotify.com/artist/52JTE16P2RHKpJr3ZOwohE"
+        },
+        {
+          "name": "VIC MENSA",
+          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177977,
+      "name": "Nigga Dreams",
+      "url": "https://open.spotify.com/track/6U2UaYti47pcrdME0SXx97"
+    },
+    {
+      "album": {
         "name": "Niggas Know",
         "url": "https://open.spotify.com/album/1Z9njHhzjOrkG5dfRIp9ru"
       },
@@ -8188,6 +8276,24 @@
     },
     {
       "album": {
+        "name": "Now or Never",
+        "url": "https://open.spotify.com/album/5cZndzLvB9i5eN1XfK0yww"
+      },
+      "artists": [
+        {
+          "name": "John River",
+          "url": "https://open.spotify.com/artist/7faTQoEP4N3YYvoCYGXZsg"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167989,
+      "name": "Now or Never",
+      "url": "https://open.spotify.com/track/4hLL7Gq1saeR6cyHCMP9d0"
+    },
+    {
+      "album": {
         "name": "The Chronic",
         "url": "https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt"
       },
@@ -8283,7 +8389,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 636213,
       "name": "Oldie",
       "url": "https://open.spotify.com/track/53dkS3h9uTNsWYZTPacnpx"
@@ -9047,6 +9153,28 @@
       "duration_ms": 113861,
       "name": "Premium Leather",
       "url": "https://open.spotify.com/track/4Q3jWNJwkqOx7PhbQdakz4"
+    },
+    {
+      "album": {
+        "name": "Problems (feat. Pusha T)",
+        "url": "https://open.spotify.com/album/4cM7zQFczDyOJSNIr97e1j"
+      },
+      "artists": [
+        {
+          "name": "Ray Vaughn",
+          "url": "https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg"
+        },
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245927,
+      "name": "Problems (feat. Pusha T) - Triangle Park Mix",
+      "url": "https://open.spotify.com/track/75AoC7T5bVnXweBDzDCkAJ"
     },
     {
       "album": {
@@ -10697,7 +10825,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 225882,
       "name": "Spirit of Richard Wright (feat. Skyzoo)",
       "url": "https://open.spotify.com/track/24JtWhwXWvdbjzzyZMekMn"
@@ -11473,7 +11601,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 236356,
       "name": "The Good Fight",
       "url": "https://open.spotify.com/track/4CpDxV1kIrqBjEtXrkTToK"
@@ -12891,6 +13019,32 @@
       "duration_ms": 188386,
       "name": "Where I Belong",
       "url": "https://open.spotify.com/track/4xxcd6cnmFfj67AmnaF6tc"
+    },
+    {
+      "album": {
+        "name": "Mac & Cheese 5 (Versions)",
+        "url": "https://open.spotify.com/album/4X7trxVVObj1mdGvdl08Fs"
+      },
+      "artists": [
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173861,
+      "name": "Where They At",
+      "url": "https://open.spotify.com/track/0OI6FqVRdAFhWOBo4tq0UV"
     },
     {
       "album": {

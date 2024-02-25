@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 123088,
+  "2024-02-25": 123146,
   "date_first_scraped": "2022-01-13",
   "description": "The Midwest is always on time. Cover: Icewear Vezzo",
   "name": "CST",
@@ -1383,7 +1383,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 295471,
       "name": "BACK TO ME",
       "url": "https://open.spotify.com/track/1icgLGTpX2fQXKRe4D7w2b"
@@ -2493,6 +2493,14 @@
         {
           "name": "Ty Dolla $ign",
           "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         }
       ],
       "date_added": "2024-02-16",
@@ -3479,7 +3487,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 183529,
       "name": "Equilibrium (with BabyTron & G Herbo)",
       "url": "https://open.spotify.com/track/3ZrobdWN5kvgpPlwpzCvTt"
@@ -4091,7 +4099,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 108707,
       "name": "Freestyle Inna Trap (feat. RTB MB)",
       "url": "https://open.spotify.com/track/187EcKmhswxh34FfyGswVm"
@@ -4252,6 +4260,32 @@
     },
     {
       "album": {
+        "name": "VULTURES 1",
+        "url": "https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF"
+      },
+      "artists": [
+        {
+          "name": "\u00a5$",
+          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209577,
+      "name": "FUK SUMN",
+      "url": "https://open.spotify.com/track/5tEaVciE2GnR28aN6W9cLS"
+    },
+    {
+      "album": {
         "name": "FULLY LOADED (feat. Future & Lil Baby)",
         "url": "https://open.spotify.com/album/7HsrIHdui5hpCXIYQySKi6"
       },
@@ -4369,7 +4403,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 96850,
       "name": "Get in with Key",
       "url": "https://open.spotify.com/track/7fwWJnJjTVgTUZPCP3U9q8"
@@ -4643,6 +4677,24 @@
       "duration_ms": 209229,
       "name": "Going Long (feat. Babyface Ray)",
       "url": "https://open.spotify.com/track/17LlS7L1bm2BwnCMTHs4fH"
+    },
+    {
+      "album": {
+        "name": "Going To The Top",
+        "url": "https://open.spotify.com/album/7ekSrUcnLASHRSOYvX2UZw"
+      },
+      "artists": [
+        {
+          "name": "DDG",
+          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116363,
+      "name": "Going To The Top",
+      "url": "https://open.spotify.com/track/12tJyz2GOa37X25a8GF2hP"
     },
     {
       "album": {
@@ -5721,6 +5773,28 @@
       "duration_ms": 171008,
       "name": "I Love It",
       "url": "https://open.spotify.com/track/13jvtLuv8vRg2fmvClhWP1"
+    },
+    {
+      "album": {
+        "name": "LOS X NUTTY (Deluxe)",
+        "url": "https://open.spotify.com/album/2aYuixJoPr2eqrXAh2fItA"
+      },
+      "artists": [
+        {
+          "name": "Los and Nutty",
+          "url": "https://open.spotify.com/artist/1jWzClO5EIz8fpvtl3bno5"
+        },
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220055,
+      "name": "I Thought 10 Was Enough",
+      "url": "https://open.spotify.com/track/11ej3TAKOrCD8PYLh6CvWj"
     },
     {
       "album": {
@@ -8495,7 +8569,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 153007,
       "name": "NUN TO PROVE",
       "url": "https://open.spotify.com/track/3ApjbP9XNkJ86FUcfXaAdk"
@@ -8651,6 +8725,24 @@
       "duration_ms": 182465,
       "name": "Ok Cool (Remix) (feat. Gunna)",
       "url": "https://open.spotify.com/track/143oP1kVjNcaQ9WTraAR9E"
+    },
+    {
+      "album": {
+        "name": "Old Days",
+        "url": "https://open.spotify.com/album/5d1hVedvruMRp2GFplN9DI"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195267,
+      "name": "Old Days",
+      "url": "https://open.spotify.com/track/7gM0bjWc2LpgZTihy4U18P"
     },
     {
       "album": {
@@ -10435,7 +10527,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 164488,
       "name": "Roll Em Up (feat. EST Gee)",
       "url": "https://open.spotify.com/track/60eNYiXDmnc8Lv0Grqsqm7"
@@ -11283,6 +11375,24 @@
       "duration_ms": 179370,
       "name": "Smack Sh*t",
       "url": "https://open.spotify.com/track/02G0mbFgtqS3h1Ek29tBWW"
+    },
+    {
+      "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/2bhiFZR9bJPKg9O5GfyInE"
+      },
+      "artists": [
+        {
+          "name": "Calboy",
+          "url": "https://open.spotify.com/artist/0HkcYmcjrBR3SCw9Ld5VZk"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106679,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/4Vujm3j3rDSsOD6oukgxLI"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 222263,
+  "2024-02-25": 222287,
   "date_first_scraped": "2022-03-24",
   "description": "Os lan\u00e7amentos e melhores sons do rap e trap nacionais. Foto: NOG",
   "name": "Presen\u00e7a Hip Hop",
@@ -563,7 +563,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 190645,
       "name": "Adrenalina",
       "url": "https://open.spotify.com/track/4nLMRiHPjWoTj2VBbqtorb"
@@ -4429,7 +4429,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 164571,
       "name": "Fanfic",
       "url": "https://open.spotify.com/track/16Ir3dL5UWiWZLoHLteDGu"
@@ -5560,6 +5560,28 @@
     },
     {
       "album": {
+        "name": "Hi, Pai",
+        "url": "https://open.spotify.com/album/7tVrkArexaAURwRHWnpcaj"
+      },
+      "artists": [
+        {
+          "name": "Kant",
+          "url": "https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ"
+        },
+        {
+          "name": "Chiocki",
+          "url": "https://open.spotify.com/artist/0UFcxMt1Cv90Y1qKpVDT5Z"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225869,
+      "name": "Hi, Pai",
+      "url": "https://open.spotify.com/track/4P8TYWCZj6fHP979OugdZM"
+    },
+    {
+      "album": {
         "name": "Hipnose",
         "url": "https://open.spotify.com/album/0MExzLTGrhiFvtTsbLBt60"
       },
@@ -5701,6 +5723,32 @@
       "duration_ms": 194563,
       "name": "HYPE (Desabafo)",
       "url": "https://open.spotify.com/track/0iJLX3OJaDaFbh0ESyoYo6"
+    },
+    {
+      "album": {
+        "name": "Hype Like China",
+        "url": "https://open.spotify.com/album/0nDsiFefm7qbi9yFqZytyR"
+      },
+      "artists": [
+        {
+          "name": "Zampa Silva",
+          "url": "https://open.spotify.com/artist/4q6h63WXX3pCO26sVcc3a1"
+        },
+        {
+          "name": "Tibery",
+          "url": "https://open.spotify.com/artist/2ECTJpRqtJ5BbavpnhHT01"
+        },
+        {
+          "name": "Felipe Artioli",
+          "url": "https://open.spotify.com/artist/1CQPPiPRlXbiMvDBO67c6w"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196129,
+      "name": "Hype Like China",
+      "url": "https://open.spotify.com/track/0a44ESSTWLPzD4WJVAsoFd"
     },
     {
       "album": {
@@ -9003,7 +9051,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 138785,
       "name": "O Dom",
       "url": "https://open.spotify.com/track/2J54NmREH05OZsHDu7MxC5"
@@ -9293,7 +9341,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 156055,
       "name": "Olho nas Costas",
       "url": "https://open.spotify.com/track/7jjQP1q8YbAOlREjBOtNKL"
@@ -10108,6 +10156,40 @@
     },
     {
       "album": {
+        "name": "Inverso Deluxe",
+        "url": "https://open.spotify.com/album/3nFMC9ymV5tTd0AWBL5XJT"
+      },
+      "artists": [
+        {
+          "name": "Zero Pacceli",
+          "url": "https://open.spotify.com/artist/62sKdgq98PB8klSTM8Qvaw"
+        },
+        {
+          "name": "Jean Tassy",
+          "url": "https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU"
+        },
+        {
+          "name": "Mc Maha",
+          "url": "https://open.spotify.com/artist/2tz0dkPlnWB4NcHNIqWPgh"
+        },
+        {
+          "name": "Riff",
+          "url": "https://open.spotify.com/artist/3hVaXZ6pyvforJCQD78BmH"
+        },
+        {
+          "name": "Pascon",
+          "url": "https://open.spotify.com/artist/6LUA1e130vjHgN0xeBgDUi"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127631,
+      "name": "Plano B",
+      "url": "https://open.spotify.com/track/5HRh0H2ysMXXMwupxIYlzu"
+    },
+    {
+      "album": {
         "name": "Platinado",
         "url": "https://open.spotify.com/album/4E62XM9QVdCFVUuTcVFMPa"
       },
@@ -10185,7 +10267,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 171952,
       "name": "Poli Sci (Linhas De Peso)",
       "url": "https://open.spotify.com/track/4LcDTrUNslaxrivCahTZ5i"
@@ -11416,6 +11498,28 @@
     },
     {
       "album": {
+        "name": "Say my name",
+        "url": "https://open.spotify.com/album/0xNm8hwKIOMeOXiErfqLKs"
+      },
+      "artists": [
+        {
+          "name": "AKA AFK",
+          "url": "https://open.spotify.com/artist/1ZEPj2UWxPZEELctnTNRca"
+        },
+        {
+          "name": "Korsain",
+          "url": "https://open.spotify.com/artist/7kN54doNDobttOJOD6UjYY"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176372,
+      "name": "Say my name",
+      "url": "https://open.spotify.com/track/405ZvWZC7HtHz8ve2nv3TR"
+    },
+    {
+      "album": {
         "name": "Sa\u00fade e Riqueza",
         "url": "https://open.spotify.com/album/4zc5uRwmNry5Twn1jHieuN"
       },
@@ -11549,7 +11653,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 136791,
       "name": "Sem Atalho",
       "url": "https://open.spotify.com/track/5lhxZoQguq2TqCWPuBwwl8"
@@ -11845,6 +11949,32 @@
       "duration_ms": 112721,
       "name": "Ser de Verdade",
       "url": "https://open.spotify.com/track/5krwI8ucTf9hvx8k1T1jhV"
+    },
+    {
+      "album": {
+        "name": "SESH #1 - Viv\u00eancias Daqui",
+        "url": "https://open.spotify.com/album/786RuLIwNvyBWSQWOnuttf"
+      },
+      "artists": [
+        {
+          "name": "Elleven",
+          "url": "https://open.spotify.com/artist/6FerfPxCj95ySUPXJUbWUW"
+        },
+        {
+          "name": "Gyylo",
+          "url": "https://open.spotify.com/artist/0SU90Y0GlSJKkS3zelkgbS"
+        },
+        {
+          "name": "iann guxtavo",
+          "url": "https://open.spotify.com/artist/1rCwo9ZX017N1ZxfmeBiZ3"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98652,
+      "name": "SESH #1 - Viv\u00eancias Daqui",
+      "url": "https://open.spotify.com/track/6eacckfJdyScwfqk8RxAxO"
     },
     {
       "album": {
@@ -13573,7 +13703,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 183118,
       "name": "Vila Tolstoi",
       "url": "https://open.spotify.com/track/3vcjqCMm3VKukmuGgskXnb"
@@ -13603,6 +13733,28 @@
       "duration_ms": 156521,
       "name": "Vim da Lama",
       "url": "https://open.spotify.com/track/3xEYmdp7hQKQBKOorimBs4"
+    },
+    {
+      "album": {
+        "name": "VIP FREESTYLE",
+        "url": "https://open.spotify.com/album/1JOWQ9riLKZwi3UaXri7Uw"
+      },
+      "artists": [
+        {
+          "name": "LyNDoN",
+          "url": "https://open.spotify.com/artist/45A52B51OE7bqXGiNvUsRQ"
+        },
+        {
+          "name": "Deryck Cabrera",
+          "url": "https://open.spotify.com/artist/14SCQ3mQawCGO2ktCRGgGd"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176305,
+      "name": "VIP FREESTYLE",
+      "url": "https://open.spotify.com/track/16fDAG3bdd7n9XhrzgkfF5"
     },
     {
       "album": {

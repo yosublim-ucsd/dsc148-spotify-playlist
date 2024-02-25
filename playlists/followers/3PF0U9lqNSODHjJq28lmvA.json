@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 2299,
+  "2024-02-25": 2299,
   "date_first_scraped": "2022-06-10",
   "description": "This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday \ud83d\ude0e",
   "name": "Independent Music Friday",
@@ -325,7 +325,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 172103,
       "name": "8000",
       "url": "https://open.spotify.com/track/7ullBv0gK5ozenY8TEGRp0"
@@ -707,10 +707,28 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 132266,
       "name": "ADIOS",
       "url": "https://open.spotify.com/track/4UjBMWADHwdbpR8evvFkeo"
+    },
+    {
+      "album": {
+        "name": "Africa",
+        "url": "https://open.spotify.com/album/1CTkUdUACUHOCFOiwb4OFi"
+      },
+      "artists": [
+        {
+          "name": "Nomy",
+          "url": "https://open.spotify.com/artist/20bAxKr0YrCvceZeLqs37e"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213751,
+      "name": "Africa",
+      "url": "https://open.spotify.com/track/7yBeohowiUsV4dyNfeiKUl"
     },
     {
       "album": {
@@ -4415,7 +4433,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 146374,
       "name": "Catlover",
       "url": "https://open.spotify.com/track/0R5s2wgNzZRissEBgYeX8S"
@@ -6485,6 +6503,24 @@
       "duration_ms": 199714,
       "name": "Destiny",
       "url": "https://open.spotify.com/track/6omeVgaxp963TkozTGc24u"
+    },
+    {
+      "album": {
+        "name": "Destroy Everything",
+        "url": "https://open.spotify.com/album/055s0nG3310bstLSLkFsmw"
+      },
+      "artists": [
+        {
+          "name": "Assemble",
+          "url": "https://open.spotify.com/artist/7AOyWC2Xc5ZHIiLNhIC5Xa"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 53051,
+      "name": "Destroy Everything",
+      "url": "https://open.spotify.com/track/4bFL898u7naOAO7i09bsZv"
     },
     {
       "album": {
@@ -9532,6 +9568,24 @@
     },
     {
       "album": {
+        "name": "Fat Basses Have Gravity",
+        "url": "https://open.spotify.com/album/2WLbADbEwwe9JeDqasCjtI"
+      },
+      "artists": [
+        {
+          "name": "Insomnium",
+          "url": "https://open.spotify.com/artist/1ISmtP2G18kcB1SmvzpKks"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188375,
+      "name": "Fat Basses Have Gravity",
+      "url": "https://open.spotify.com/track/2vgmmj6wn1HhAM79L6bAiw"
+    },
+    {
+      "album": {
         "name": "Fear Of Missing Out",
         "url": "https://open.spotify.com/album/02NBPk1yx5svg3S6rafJOU"
       },
@@ -9705,7 +9759,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 240674,
       "name": "Feet on the Ground",
       "url": "https://open.spotify.com/track/1YLKD7JoVI2EPhvT7PBcbv"
@@ -10499,6 +10553,28 @@
       "duration_ms": 292000,
       "name": "Frank",
       "url": "https://open.spotify.com/track/3zkiRlFJVIqEcuxjS66k8J"
+    },
+    {
+      "album": {
+        "name": "Frank / J\u00e4\u00e4t l\u00e4htee (taas)",
+        "url": "https://open.spotify.com/album/1DORUgK42uQiJpt3rumWvj"
+      },
+      "artists": [
+        {
+          "name": "Otto Mikkola",
+          "url": "https://open.spotify.com/artist/2as42NbpFysx0iEzizePGY"
+        },
+        {
+          "name": "Pitk\u00e4 Ik\u00e4v\u00e4",
+          "url": "https://open.spotify.com/artist/2jyLa5IH9RpxuA319sG2sR"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191650,
+      "name": "Frank",
+      "url": "https://open.spotify.com/track/61FCw5pWRYhGqqxusi49mT"
     },
     {
       "album": {
@@ -13213,7 +13289,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 98500,
       "name": "Hjulen p\u00e5 bussen",
       "url": "https://open.spotify.com/track/6VHAi4f9nG0f4NGPbmoEpS"
@@ -13383,7 +13459,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 320000,
       "name": "Horse Case Scenario",
       "url": "https://open.spotify.com/track/5BHeHqRRVzmVqJswTbsfwV"
@@ -14225,7 +14301,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 270130,
       "name": "I Used To Dream",
       "url": "https://open.spotify.com/track/7GmdvaFoDD84btv8MUySIR"
@@ -14613,6 +14689,24 @@
       "duration_ms": 257047,
       "name": "If you love me the right way",
       "url": "https://open.spotify.com/track/15gUYATkWTGD8hPp9ZWmFz"
+    },
+    {
+      "album": {
+        "name": "If You Only Knew Me",
+        "url": "https://open.spotify.com/album/2btGPTI2FS8dOvGXsSL4Ln"
+      },
+      "artists": [
+        {
+          "name": "Nini Uppuluri",
+          "url": "https://open.spotify.com/artist/13XNrE7VNUoipQC30YNyHA"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214281,
+      "name": "If You Only Knew Me",
+      "url": "https://open.spotify.com/track/1PbStGRuU63ZbL10QH3vXu"
     },
     {
       "album": {
@@ -15093,6 +15187,24 @@
       "duration_ms": 207111,
       "name": "Insomniac",
       "url": "https://open.spotify.com/track/5UaCEMQRJv3jskxdnC7VF0"
+    },
+    {
+      "album": {
+        "name": "INTERNATIONALE",
+        "url": "https://open.spotify.com/album/4AXOeP3mB30pSxxSKgbh3Q"
+      },
+      "artists": [
+        {
+          "name": "Slachi D",
+          "url": "https://open.spotify.com/artist/6cvSy7JU7NMC7j6VBWsAXU"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137739,
+      "name": "INTERNATIONALE",
+      "url": "https://open.spotify.com/track/7ldPRPFrMbVdldog4gWKX6"
     },
     {
       "album": {
@@ -16431,7 +16543,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 213920,
       "name": "Kreisverkehr",
       "url": "https://open.spotify.com/track/4vEyhP94A2MjBGg3xAXlp3"
@@ -16467,7 +16579,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 298916,
       "name": "Kronos / Rhea",
       "url": "https://open.spotify.com/track/4SvG1IieuLm2jRUcm1dvot"
@@ -18303,7 +18415,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 174583,
       "name": "L\u00e4gre seriesystemen",
       "url": "https://open.spotify.com/track/4VkDd2Nu5lchhO3mbK8l95"
@@ -18509,6 +18621,24 @@
       "duration_ms": 172199,
       "name": "magazine",
       "url": "https://open.spotify.com/track/6HF4nE5fBVSKqHVn7OkNbI"
+    },
+    {
+      "album": {
+        "name": "Mage Fire",
+        "url": "https://open.spotify.com/album/2jL15ygltXPKrXtF99Hi9n"
+      },
+      "artists": [
+        {
+          "name": "Guru Griff",
+          "url": "https://open.spotify.com/artist/5Z5xacWm71NpXvZwLJf2B8"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106666,
+      "name": "Mage Fire",
+      "url": "https://open.spotify.com/track/12PsxDrawz13LyDE1VQOQY"
     },
     {
       "album": {
@@ -19624,6 +19754,24 @@
     },
     {
       "album": {
+        "name": "Mission Creep",
+        "url": "https://open.spotify.com/album/3hshbVcUuQiebLz0YzbrS3"
+      },
+      "artists": [
+        {
+          "name": "Shades Of Plato",
+          "url": "https://open.spotify.com/artist/6paaSjifTboaZRPYxyQrTt"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270378,
+      "name": "Mission Creep",
+      "url": "https://open.spotify.com/track/3WQ0q0hdW3xBKFqM6JM5sm"
+    },
+    {
+      "album": {
         "name": "Mitt i livet",
         "url": "https://open.spotify.com/album/2HwLzpoh9y6Qv08Mx541ue"
       },
@@ -20269,7 +20417,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 187189,
       "name": "Narcissistic",
       "url": "https://open.spotify.com/track/4DcNIFlTApwRhYxs3NMq5P"
@@ -20533,6 +20681,24 @@
       "duration_ms": 233741,
       "name": "Nevertheless",
       "url": "https://open.spotify.com/track/1wPxojMWa4HqXROGLTcoPF"
+    },
+    {
+      "album": {
+        "name": "New Age Disco",
+        "url": "https://open.spotify.com/album/2ev4YU4Pg2D4QX7LJQtxiP"
+      },
+      "artists": [
+        {
+          "name": "Midnight Prisms",
+          "url": "https://open.spotify.com/artist/3o5jiLSZMoSXNWL98UBxYI"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259997,
+      "name": "New Age Disco",
+      "url": "https://open.spotify.com/track/0dL3Ejw69bNj5tOqremLiH"
     },
     {
       "album": {
@@ -20963,7 +21129,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 174300,
       "name": "No Punkrock In My Car",
       "url": "https://open.spotify.com/track/575batnvPMiTOHCDmjrE7g"
@@ -24111,7 +24277,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 153007,
       "name": "Qui\u00e9reme",
       "url": "https://open.spotify.com/track/5SuohCyQqo9RJPehzpxyJi"
@@ -25875,7 +26041,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 129142,
       "name": "Ser Dig",
       "url": "https://open.spotify.com/track/064w99SXZ4k1opi2Mgil9q"
@@ -26041,6 +26207,24 @@
       "duration_ms": 194637,
       "name": "Shitty Little Town",
       "url": "https://open.spotify.com/track/00Uo3QP667ZoFcPXzRMiGb"
+    },
+    {
+      "album": {
+        "name": "Shooting Stars",
+        "url": "https://open.spotify.com/album/7lxR2lN5wW5QSqjpG0Sr2y"
+      },
+      "artists": [
+        {
+          "name": "Black Star Gramophone",
+          "url": "https://open.spotify.com/artist/2SrwMlVm1cZyrOsmfjitcI"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164872,
+      "name": "Shocking Blues",
+      "url": "https://open.spotify.com/track/0vVyc297BwQj16ofpGr4ng"
     },
     {
       "album": {
@@ -27540,6 +27724,28 @@
     },
     {
       "album": {
+        "name": "Sparks",
+        "url": "https://open.spotify.com/album/3Lp54mnz1BKGjOELFqOzkm"
+      },
+      "artists": [
+        {
+          "name": "Pathfndr.",
+          "url": "https://open.spotify.com/artist/59rUjQ88ZmDikIqhHSR7PR"
+        },
+        {
+          "name": "Tyla Ra\u00e9",
+          "url": "https://open.spotify.com/artist/5PXnZuhO6m1F67bUExIund"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Sparks",
+      "url": "https://open.spotify.com/track/3bbY7doZYA1MEpnjUeD8vS"
+    },
+    {
+      "album": {
         "name": "Special Powers",
         "url": "https://open.spotify.com/album/0OfnroVMQJ0kMRr1fS2rUP"
       },
@@ -28637,6 +28843,28 @@
       "duration_ms": 188000,
       "name": "Szkoda, \u017ce tak dawno",
       "url": "https://open.spotify.com/track/2Lzx0TAC1fr7uG6uqohFGD"
+    },
+    {
+      "album": {
+        "name": "S\u00e5 mycket mer",
+        "url": "https://open.spotify.com/album/7bk06yjSj1YSfERSacPuKK"
+      },
+      "artists": [
+        {
+          "name": "Sandra Marielle",
+          "url": "https://open.spotify.com/artist/380XLuzppLe1bZ8B1dKApn"
+        },
+        {
+          "name": "Farii",
+          "url": "https://open.spotify.com/artist/5a95myo7aWWsot3xGBHJXa"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220407,
+      "name": "S\u00e5 mycket mer",
+      "url": "https://open.spotify.com/track/5Gt19HNmcqCzifQNvxrWrj"
     },
     {
       "album": {
@@ -30466,6 +30694,24 @@
     },
     {
       "album": {
+        "name": "tiet\u00e4isit vaan",
+        "url": "https://open.spotify.com/album/4879ibzCLZ2gC87CwfKKCB"
+      },
+      "artists": [
+        {
+          "name": "touko",
+          "url": "https://open.spotify.com/artist/2COU1tbZyozjUeGWBc1zn9"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252826,
+      "name": "tiet\u00e4isit vaan",
+      "url": "https://open.spotify.com/track/5X9L245qdalFinGKzfIb1C"
+    },
+    {
+      "album": {
         "name": "Till the End",
         "url": "https://open.spotify.com/album/5rl8vpVeM7RsVHsNHwIvyy"
       },
@@ -30637,6 +30883,24 @@
       "duration_ms": 156177,
       "name": "timing",
       "url": "https://open.spotify.com/track/7DcmArQjiZ8lcWWW5Llrfs"
+    },
+    {
+      "album": {
+        "name": "State Of Mind",
+        "url": "https://open.spotify.com/album/066k68FDb4WLqxVmn9PwFT"
+      },
+      "artists": [
+        {
+          "name": "Event Horizon Vst",
+          "url": "https://open.spotify.com/artist/5IzMQe2a4D8ydG9CaOQ1dj"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260806,
+      "name": "Titan Moon",
+      "url": "https://open.spotify.com/track/3QvXxPVDWF8m85XyGFUOP1"
     },
     {
       "album": {
@@ -30817,6 +31081,24 @@
       "duration_ms": 116005,
       "name": "TOO TIED UP",
       "url": "https://open.spotify.com/track/3eApBAZiMBwcJ4pH1QCTE6"
+    },
+    {
+      "album": {
+        "name": "Top Down",
+        "url": "https://open.spotify.com/album/4IVbPMABuEIW2tzoYuYH7m"
+      },
+      "artists": [
+        {
+          "name": "3rdpartymontage",
+          "url": "https://open.spotify.com/artist/66aUVhtGv7vK1chjMzShil"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316310,
+      "name": "Top Down",
+      "url": "https://open.spotify.com/track/7qxofjhLr0wWFpzcPKY7tk"
     },
     {
       "album": {
@@ -32189,7 +32471,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 256014,
       "name": "Vie mut kotiin t\u00e4\u00e4lt\u00e4",
       "url": "https://open.spotify.com/track/2gWrYAMh7zEBwgooYBhkgm"
@@ -33017,7 +33299,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 203592,
       "name": "We're already free",
       "url": "https://open.spotify.com/track/6WiR9fQpWfUEXJbYTQDZit"
@@ -33307,6 +33589,24 @@
       "duration_ms": 201535,
       "name": "When We Were Fifteen (Ida's Sang)",
       "url": "https://open.spotify.com/track/3wwIL0lhNt06JHtxxH80qH"
+    },
+    {
+      "album": {
+        "name": "When You Go Out Drinking",
+        "url": "https://open.spotify.com/album/1sOaY0IljbVWwwz7GE9ftR"
+      },
+      "artists": [
+        {
+          "name": "Alabama Moonshine Co.",
+          "url": "https://open.spotify.com/artist/6Uu8ZoI8neFXkQI7Iy1WY8"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "When You Go Out Drinking",
+      "url": "https://open.spotify.com/track/0KgpiITuaLQPfkZRcUsw7Y"
     },
     {
       "album": {

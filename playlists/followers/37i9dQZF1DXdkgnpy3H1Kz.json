@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 43895,
+  "2024-02-25": 43893,
   "date_first_scraped": "2022-12-15",
   "description": "<a href=\"spotify:artist:5lsC3H1vh9YSRQckyGv0Up\">Ellen Allien</a>'s favorite tracks. Updated regularly. Curated by Ellen Allien. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "Ellen Allien's track IDs",
@@ -8635,6 +8635,24 @@
       "duration_ms": 330426,
       "name": "Wishing (If I Had a Photograph of You)",
       "url": "https://open.spotify.com/track/41TpvOhSCOJOHuOUggy9sv"
+    },
+    {
+      "album": {
+        "name": "Woke Up High (On Love)",
+        "url": "https://open.spotify.com/album/3HEIHxOMsjeJDwlZH5FnKv"
+      },
+      "artists": [
+        {
+          "name": "Insolate",
+          "url": "https://open.spotify.com/artist/0cQjugplFeblP60eDLuHK3"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356688,
+      "name": "Woke Up High (On Love)",
+      "url": "https://open.spotify.com/track/7aLiHgzb1gNHXo9BEXcCoa"
     },
     {
       "album": {

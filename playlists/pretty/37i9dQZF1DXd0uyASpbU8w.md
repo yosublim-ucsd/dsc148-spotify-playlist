@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx?si=9ip45wyNQf2aPFk4O3V05Q">Selena Gomez</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,254 likes - 79 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,319 likes - 79 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 78 | [GHOSTS](https://open.spotify.com/track/6QFgE1RSsCncK81HoKmMVp) | [December Streets](https://open.spotify.com/artist/60oeRht0NXwELSxJNhQw7v) | [GHOSTS](https://open.spotify.com/album/4jrzhfsW9LFG1leDoipgyo) | 2:41 |
 | 79 | [Come On Over](https://open.spotify.com/track/0bKDR8g4ZYmIMiJ1lz3ks2) | [Ruben Gerritz](https://open.spotify.com/artist/4IXnbn0VJQ42ybbNRa4MB0) | [Come On Over](https://open.spotify.com/album/2dRFhoxJH8CFNlsWhjhioc) | 3:26 |
 
-Snapshot ID: `MCw1NDlhYzM0NDZlM2FmYTIyM2E5MjJmM2UzNzE2NzJkNjJiYWI2YTYx`
+Snapshot ID: `MCw5YjI3YjIzZGM4NWU4ODliNzI4NGM0OTUxNTcxMzg0ZTM2MGE5ZmQ1`

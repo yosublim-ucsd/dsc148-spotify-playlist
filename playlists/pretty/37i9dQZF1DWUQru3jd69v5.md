@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: Tony Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,951 likes - 50 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,020 likes - 50 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 49 | [Cristiano Rollando](https://open.spotify.com/track/5WqOwUM7AfUPURxpO6O3L5) | [Dot Valentino](https://open.spotify.com/artist/4kDz1hBY5vGKKH5QYdS9uA) | [Cristiano Rollando](https://open.spotify.com/album/1feR86V6FtyF0PWKVZxqEb) | 2:06 |
 | 50 | [NO TIME](https://open.spotify.com/track/38hK4JxVt8uKsgoKE1zfw5) | [Silnyya](https://open.spotify.com/artist/0MTV1wG5r8M1hTexjolpA5) | [NO TIME](https://open.spotify.com/album/61Z6kau8ly1XLa6NTdia1h) | 2:37 |
 
-Snapshot ID: `MCxmNmFmNWFlMGE5NTcyMTJjYjFhMGFhZDZlMmE0NjMyOGNhNjdmOTBh`
+Snapshot ID: `MCw1MTBkZGEzOTg2YzkwMTY3NTRiNDk3ZTk2ODY3YzliYjg4ZTM5MjFk`

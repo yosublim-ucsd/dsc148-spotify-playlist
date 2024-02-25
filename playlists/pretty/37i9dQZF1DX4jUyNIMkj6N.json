@@ -1,12 +1,12 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 199025,
+  "num_followers": 199097,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjN2RmODE0ZTI0OTAyNDM4NzBhZmRkOTRjNTc2ZTI4ZmJhMTNkNjg1",
+  "snapshot_id": "MCw2Y2UwNzgxZTEyZGIwYzhiNzc4Y2NjMzViMTJiYjNhZDUyZTNjY2M3",
   "tracks": [
     {
       "added_at": "2024-02-22 23:00:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-02-22 23:00:00",
       "album": {
-        "name": "Magic Stone",
-        "url": "https://open.spotify.com/album/0Tjw2af2Rj2jUJSiAGMUdS"
-      },
-      "artists": [
-        {
-          "name": "Sarah Klang",
-          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
-        }
-      ],
-      "duration_ms": 213106,
-      "name": "Magic Stone",
-      "url": "https://open.spotify.com/track/1A8uTEGcDuZJDaPWoFb2yt"
-    },
-    {
-      "added_at": "2024-02-22 23:00:00",
-      "album": {
         "name": "Rolling Thunder",
         "url": "https://open.spotify.com/album/1OfUQjs3de9iU5C2bYbmYc"
       },
@@ -987,18 +971,34 @@
     {
       "added_at": "2024-02-22 23:00:00",
       "album": {
-        "name": "i went outside",
-        "url": "https://open.spotify.com/album/62WGQjLeIZ2aZ5yA8Tth25"
+        "name": "Magic Stone",
+        "url": "https://open.spotify.com/album/0Tjw2af2Rj2jUJSiAGMUdS"
       },
       "artists": [
         {
-          "name": "Arny Margret",
-          "url": "https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW"
+          "name": "Sarah Klang",
+          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
         }
       ],
-      "duration_ms": 293400,
-      "name": "i went outside",
-      "url": "https://open.spotify.com/track/4FqqjYkdjKttebtiv6ovJL"
+      "duration_ms": 213106,
+      "name": "Magic Stone",
+      "url": "https://open.spotify.com/track/1A8uTEGcDuZJDaPWoFb2yt"
+    },
+    {
+      "added_at": "2024-02-22 23:00:00",
+      "album": {
+        "name": "Never Gonna Last",
+        "url": "https://open.spotify.com/album/09kV21v80qDfWgNBSp92yL"
+      },
+      "artists": [
+        {
+          "name": "Jesper Lindell",
+          "url": "https://open.spotify.com/artist/3P9Fc9AmQyNFIu2WJdeWoN"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Never Gonna Last - Radio Edit",
+      "url": "https://open.spotify.com/track/3ANGMbmBfuw91UMgCPrrUT"
     }
   ],
   "unique_name": "Nordic Folk",

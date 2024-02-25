@@ -282,7 +282,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 320000,
       "name": "Binary Tertials",
       "url": "https://open.spotify.com/track/4gdjjcgEYjDLs7R4omwjZ3"
@@ -522,7 +522,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 580066,
       "name": "Espardell - Original Mix",
       "url": "https://open.spotify.com/track/7k52apZFJbnF1RFjBMp8Rs"
@@ -942,6 +942,32 @@
       "duration_ms": 178714,
       "name": "Rockers Step Like Kelly",
       "url": "https://open.spotify.com/track/2d18QIOZ9d90BzbndmW01N"
+    },
+    {
+      "album": {
+        "name": "RAP SH!T: The Mixtape (From the Max Original Series, S2)",
+        "url": "https://open.spotify.com/album/2WhkGLUX16VzmOjr6KSqRX"
+      },
+      "artists": [
+        {
+          "name": "Raedio",
+          "url": "https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD"
+        },
+        {
+          "name": "Enchanting",
+          "url": "https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT"
+        },
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "date_added": "2024-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138240,
+      "name": "Run It Up",
+      "url": "https://open.spotify.com/track/4FgLCYILnDFfT3qzmiAPFg"
     },
     {
       "album": {
@@ -1386,7 +1412,7 @@
       ],
       "date_added": "2023-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-03",
+      "date_removed": null,
       "duration_ms": 579428,
       "name": "Zion Is Mighty",
       "url": "https://open.spotify.com/track/07QbNGdQrQt3jiZy6huUvc"

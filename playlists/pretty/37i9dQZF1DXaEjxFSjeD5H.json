@@ -1,12 +1,12 @@
 {
   "description": "Nada que un buen danz\u00f3n no pueda curar. ",
-  "num_followers": 18327,
+  "num_followers": 18343,
   "original_name": "Danz\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMmI5Y2ZiMjgwNzQ4NzUyZTMxOWU5YTVkN2YxOWY0ZWQ3YTgwYTkz",
+  "snapshot_id": "MCw3M2ViMmZjYmVlNjgyMjRhYjFkNjlhOGQxYzliNDU4NTQzZDgzMmUx",
   "tracks": [
     {
       "added_at": "2022-08-02 23:28:22",
@@ -759,18 +759,22 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
-        "name": "La Leyenda Viviente del Danz\u00f3n",
-        "url": "https://open.spotify.com/album/4DfvLNKnO7yeFwv2MCDixD"
+        "name": "El Embrujo del Danz\u00f3n",
+        "url": "https://open.spotify.com/album/1XWS6QyxlzoK02wfBvdOge"
       },
       "artists": [
         {
           "name": "Danzonera Veracruz",
           "url": "https://open.spotify.com/artist/0oZxiriFYXViKwVXak46sD"
+        },
+        {
+          "name": "Vicente Labastida Velasco",
+          "url": "https://open.spotify.com/artist/5xAmljqquK7Dy5rAIumX8C"
         }
       ],
-      "duration_ms": 302106,
-      "name": "El Coquero",
-      "url": "https://open.spotify.com/track/5HvxasN4SgIqYSIp37YYOl"
+      "duration_ms": 229040,
+      "name": "Sal\u00f3n Casa Blanca",
+      "url": "https://open.spotify.com/track/5YIo2jiYLvwttvGr63ZH3A"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -1031,22 +1035,18 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
-        "name": "El Embrujo del Danz\u00f3n",
-        "url": "https://open.spotify.com/album/1XWS6QyxlzoK02wfBvdOge"
+        "name": "La Leyenda Viviente del Danz\u00f3n",
+        "url": "https://open.spotify.com/album/4DfvLNKnO7yeFwv2MCDixD"
       },
       "artists": [
         {
           "name": "Danzonera Veracruz",
           "url": "https://open.spotify.com/artist/0oZxiriFYXViKwVXak46sD"
-        },
-        {
-          "name": "Vicente Labastida Velasco",
-          "url": "https://open.spotify.com/artist/5xAmljqquK7Dy5rAIumX8C"
         }
       ],
-      "duration_ms": 229040,
-      "name": "Sal\u00f3n Casa Blanca",
-      "url": "https://open.spotify.com/track/5YIo2jiYLvwttvGr63ZH3A"
+      "duration_ms": 302106,
+      "name": "El Coquero",
+      "url": "https://open.spotify.com/track/5HvxasN4SgIqYSIp37YYOl"
     },
     {
       "added_at": "2022-08-02 23:28:22",

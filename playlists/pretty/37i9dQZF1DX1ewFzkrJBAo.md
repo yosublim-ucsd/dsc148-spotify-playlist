@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewFzkrJBAo.md) - [plain]
 
 > <a href="spotify:genre:0JQ5IMCbQBLp5qalzMbJ3P">サザンオールスターズ、デビュー45周年</a>記念！Spotify×サザンのムードプレイリストシリーズ第2弾。おもわずにやっとするハッピーなサザンのエロティカ・ソングを集めました。illustration : <a href="https://www.instagram.com/tzzktknaar/">たざきたかなり</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,360 likes - 45 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,367 likes - 45 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewFzkrJBAo.md) - [plain]
 | 44 | [BOHBO No.5](https://open.spotify.com/track/4jB4evySIDhpLAAy7CFSom) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [キラーストリート](https://open.spotify.com/album/5j3eLtL3zb0RzC89iP1sSC) | 4:58 |
 | 45 | [マンピーのG★SPOT](https://open.spotify.com/track/71eARne1HTlvqgcBvge03z) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [マンピーのG★SPOT](https://open.spotify.com/album/23O7EkA3XO0TuLF0glVrqG) | 4:15 |
 
-Snapshot ID: `MCw0Njc1NDNmMGJhOTA2ZWQxYjc4YTc3NTU3ZTc0MjRhNWExYTc3YTYy`
+Snapshot ID: `MCw3NDkzODE5MjQ1OTA0Mzc0ZDE1MmViMzNhNzczMmEzNWZjZTNhNTll`

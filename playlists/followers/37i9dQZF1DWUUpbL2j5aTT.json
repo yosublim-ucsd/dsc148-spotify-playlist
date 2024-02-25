@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 53982,
+  "2024-02-25": 53984,
   "date_first_scraped": "2023-07-23",
   "description": "The best of Brazilian House. Photo: Meca",
   "name": "House Brasil",
@@ -195,7 +195,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 160000,
       "name": "Baby",
       "url": "https://open.spotify.com/track/5AiGklmXZAAKUlfNs1su49"
@@ -503,6 +503,28 @@
       "duration_ms": 172800,
       "name": "Bump Bump Bump - Radio Edit",
       "url": "https://open.spotify.com/track/74nFwxAEaYFOW4LpCvLVcX"
+    },
+    {
+      "album": {
+        "name": "Cat Eyes EP",
+        "url": "https://open.spotify.com/album/5c1v9YLUeszt383Mz3yKzm"
+      },
+      "artists": [
+        {
+          "name": "Ratier",
+          "url": "https://open.spotify.com/artist/2HyfgZn7S50xsNEpHoVCAx"
+        },
+        {
+          "name": "Renato Ratier",
+          "url": "https://open.spotify.com/artist/4ZZyG1wljM3Yi8xW2Jz34Z"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299625,
+      "name": "Cat Eyes",
+      "url": "https://open.spotify.com/track/2o47WjxOHQhbWq3SJJVZMM"
     },
     {
       "album": {
@@ -1411,7 +1433,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 196260,
       "name": "Nossa Noite",
       "url": "https://open.spotify.com/track/19ZBM3YUW2ckbZ9uAnNbha"
@@ -1675,7 +1697,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 396000,
       "name": "Playground",
       "url": "https://open.spotify.com/track/2QcBTEQxzCIY6F64nro9Y7"
@@ -1825,6 +1847,24 @@
       "duration_ms": 204566,
       "name": "Rise Up",
       "url": "https://open.spotify.com/track/6Hqrdy1CKiqNvkrfNi9o81"
+    },
+    {
+      "album": {
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/2aEUq1S1dXRwqb19h7BUHH"
+      },
+      "artists": [
+        {
+          "name": "Fran Bortolossi",
+          "url": "https://open.spotify.com/artist/4s8gxm5a9NwYjdrNg2ocnu"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234240,
+      "name": "Romance",
+      "url": "https://open.spotify.com/track/6aAxkQS3P9jEek4Oy6ay6Y"
     },
     {
       "album": {

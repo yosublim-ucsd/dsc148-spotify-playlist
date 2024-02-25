@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 33121,
+  "2024-02-25": 33162,
   "date_first_scraped": "2022-06-05",
   "description": "Dive into the deep end of the tech house spectrum.",
   "name": "Minimal Tech",
@@ -127,6 +127,24 @@
       "duration_ms": 364099,
       "name": "Alley Rave",
       "url": "https://open.spotify.com/track/630fy1dTAKtfY1DJXLYyds"
+    },
+    {
+      "album": {
+        "name": "Amused EP",
+        "url": "https://open.spotify.com/album/71ViKLNXZ55srxn3MZN4Js"
+      },
+      "artists": [
+        {
+          "name": "Havoc & Lawn",
+          "url": "https://open.spotify.com/artist/6EaFaq8NthVEQYSHSemmBv"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Amused",
+      "url": "https://open.spotify.com/track/6HwWPFDSqwHiWdjCdHHi6G"
     },
     {
       "album": {
@@ -271,7 +289,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 217440,
       "name": "Azabache",
       "url": "https://open.spotify.com/track/36LpQ2oHZV2OHusDxCMUfC"
@@ -1708,6 +1726,24 @@
     },
     {
       "album": {
+        "name": "Going Deeper",
+        "url": "https://open.spotify.com/album/6LG4maoslPuedlB49I6g7M"
+      },
+      "artists": [
+        {
+          "name": "Riley (UK)",
+          "url": "https://open.spotify.com/artist/41vJAAunDUYAg81pOkcWh3"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378750,
+      "name": "Going Deeper",
+      "url": "https://open.spotify.com/track/6XC72TsCSZlzUTdJPVEGlC"
+    },
+    {
+      "album": {
         "name": "Gozar",
         "url": "https://open.spotify.com/album/5AQeJCMWPNAPw8wPmZlqUW"
       },
@@ -1723,6 +1759,24 @@
       "duration_ms": 204384,
       "name": "Gozar",
       "url": "https://open.spotify.com/track/5pwPJceEvQK9B41jCZ7HD1"
+    },
+    {
+      "album": {
+        "name": "GUNZ.OUT",
+        "url": "https://open.spotify.com/album/5BlsT6kGQG0gXscybrFdsQ"
+      },
+      "artists": [
+        {
+          "name": "Blackchild (ITA)",
+          "url": "https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "GUNZ.OUT - Extended Mix",
+      "url": "https://open.spotify.com/track/1iS1TDkqPMN7eLRMGuKGqe"
     },
     {
       "album": {
@@ -4175,7 +4229,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 200625,
       "name": "Strung Up",
       "url": "https://open.spotify.com/track/6vOr19HgqGzzCMv040ePVq"
@@ -5277,7 +5331,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 228750,
       "name": "Where Ya At",
       "url": "https://open.spotify.com/track/5ly24DpozyrKv1FFDivUHx"

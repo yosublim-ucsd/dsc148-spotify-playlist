@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 168982,
+  "2024-02-25": 169031,
   "date_first_scraped": "2021-12-21",
   "description": "All live, all blues. Cover: Christone \"Kingfish\" Ingram",
   "name": "Blues Live & Loud",
@@ -1389,7 +1389,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 421219,
       "name": "Mainline Florida - Live",
       "url": "https://open.spotify.com/track/0NRX4unLHXXFrZtFfSmHu6"
@@ -2587,6 +2587,24 @@
       "duration_ms": 354880,
       "name": "True Lies - Live",
       "url": "https://open.spotify.com/track/3OHFCFO7Upo0z0gYtWTTDQ"
+    },
+    {
+      "album": {
+        "name": "Twenty-Four Hour Blues (Live At The Hollywood Bowl With Orchestra)",
+        "url": "https://open.spotify.com/album/5uhbe2M4tPRoDb6fH52TaJ"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347240,
+      "name": "Twenty-Four Hour Blues (Live At The Hollywood Bowl With Orchestra)",
+      "url": "https://open.spotify.com/track/78PzYa2mqx9MJcAvTIxR6N"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > The biggest Japanese rock hits right now\.  Cover: Age Factory　日本ロックシーンの最新話題曲をひとつのプレイリストに。
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,963 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,051 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 99 | [アングル](https://open.spotify.com/track/0aBLsHf3KHcTQqnHCEV2lf) | [MONO NO AWARE](https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR) | [アングル](https://open.spotify.com/album/0OFjjiKLxxLR1R3ed93hK1) | 5:25 |
 | 100 | [PEAK TIME](https://open.spotify.com/track/6AnigJs8uZ41ANllM0vfRS) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx) | [PEAK TIME](https://open.spotify.com/album/4uHcA8aXhHoBTCrkSGctjv) | 3:46 |
 
-Snapshot ID: `MCwzYTUwOTNjYjA0ZmRmOGE0NjQ2Nzg5Zjc3M2E5Nzk5YmNmOTJiM2Jm`
+Snapshot ID: `MCxmODY5YTk2ODQ0ZDBjZTBiZTFmOGUxN2ExMzJkMTRmMDI5MTcxYjBk`

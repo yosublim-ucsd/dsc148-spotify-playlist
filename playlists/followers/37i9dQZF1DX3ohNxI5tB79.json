@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 402564,
+  "2024-02-25": 402665,
   "date_first_scraped": "2021-12-21",
   "description": "Start your morning right with this collection of funky, soulful, jazzy tunes.",
   "name": "Morning Rhythm",
@@ -65,7 +65,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 178355,
       "name": "A Storm On A Summers Day",
       "url": "https://open.spotify.com/track/37jMCyGpHpwvv8ePVReFGl"
@@ -358,6 +358,28 @@
     },
     {
       "album": {
+        "name": "Backpack",
+        "url": "https://open.spotify.com/album/23VitqlOhg49f9RSxVNqAF"
+      },
+      "artists": [
+        {
+          "name": "Shamis",
+          "url": "https://open.spotify.com/artist/6zJSQoZfurX2beU3qbe717"
+        },
+        {
+          "name": "Rebiere",
+          "url": "https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311177,
+      "name": "Backpack",
+      "url": "https://open.spotify.com/track/7hAhUocEpwCc91YlDkhHCP"
+    },
+    {
+      "album": {
         "name": "Influence EP",
         "url": "https://open.spotify.com/album/6znFcVbDZJpb6w4bSdRrXv"
       },
@@ -463,7 +485,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 211546,
       "name": "Blended Family (What You Do For Love)",
       "url": "https://open.spotify.com/track/5urU79wSXrxVUhQAYYNWnF"
@@ -695,7 +717,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 176701,
       "name": "Comparison Is A Thief Of Joy",
       "url": "https://open.spotify.com/track/1DlyIPZpwuVT7TZvt96Lgd"
@@ -1094,6 +1116,24 @@
     },
     {
       "album": {
+        "name": "Geshem Bejuni",
+        "url": "https://open.spotify.com/album/0oM4ceLwHRcQox2J6rY0LP"
+      },
+      "artists": [
+        {
+          "name": "Soul Supreme",
+          "url": "https://open.spotify.com/artist/3EIBaQfCxQvOXkNh4rywTy"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187527,
+      "name": "Geshem Bejuni",
+      "url": "https://open.spotify.com/track/5cNwyrLTHLRN983VHYm7DR"
+    },
+    {
+      "album": {
         "name": "Be",
         "url": "https://open.spotify.com/album/2UuvBxV56QWWj2uviGS0up"
       },
@@ -1105,7 +1145,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 224160,
       "name": "GO!",
       "url": "https://open.spotify.com/track/4JNTpbntShpUpACDUzwHV5"
@@ -1127,7 +1167,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 205751,
       "name": "Good Morning (Mndsgn Remix)",
       "url": "https://open.spotify.com/track/7qzCsFUXg9ov9eQ78BQQdl"
@@ -1259,7 +1299,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 252185,
       "name": "Hands Up",
       "url": "https://open.spotify.com/track/15VZAEqTSjheNR2XdyMLuc"
@@ -1281,6 +1321,24 @@
       "duration_ms": 382560,
       "name": "Hangmat",
       "url": "https://open.spotify.com/track/4Fe4a65JErIRywwlm2x5ob"
+    },
+    {
+      "album": {
+        "name": "A World Away EP (Instrumental)",
+        "url": "https://open.spotify.com/album/2VUSynMaz2jfStBMQLR5uu"
+      },
+      "artists": [
+        {
+          "name": "Dojo Cuts",
+          "url": "https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309240,
+      "name": "Haunted - Instrumental",
+      "url": "https://open.spotify.com/track/1aJJkw3hPHNWpC4wwVrWlb"
     },
     {
       "album": {
@@ -1393,7 +1451,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 216094,
       "name": "Hurt",
       "url": "https://open.spotify.com/track/3OREiYBiC7wSpOLukQMDZR"
@@ -1465,7 +1523,7 @@
       ],
       "date_added": "2022-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 218233,
       "name": "Iconoclasts",
       "url": "https://open.spotify.com/track/2dRShVpRxGWdFt1icMTYSK"
@@ -1627,7 +1685,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 171106,
       "name": "Kickback",
       "url": "https://open.spotify.com/track/0zgDfVY84eFIzgTvK9KutN"
@@ -1735,7 +1793,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 179118,
       "name": "Little Life",
       "url": "https://open.spotify.com/track/6k8Ma4BHrQhzF71ogxpKhI"
@@ -1771,7 +1829,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 458605,
       "name": "Lost Kingdoms",
       "url": "https://open.spotify.com/track/6eTT6SQgTfXiKXdvMe0ZID"
@@ -1887,7 +1945,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 209230,
       "name": "Make a Change",
       "url": "https://open.spotify.com/track/66TjJJq67nkHkwkfabSqX5"
@@ -1971,7 +2029,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 222634,
       "name": "Mile High",
       "url": "https://open.spotify.com/track/1Qxqg9EGoPS9vaGsK6S3lG"
@@ -2025,7 +2083,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 192823,
       "name": "Mixer",
       "url": "https://open.spotify.com/track/58pJZsMEPXmYX8gvXWyt3V"
@@ -2753,7 +2811,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 143552,
       "name": "Side by Side",
       "url": "https://open.spotify.com/track/032JVeAfSSc7XK3bTZqK0z"
@@ -2811,7 +2869,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 229403,
       "name": "Smile",
       "url": "https://open.spotify.com/track/12GZjzbMyuHyWQTrLvNmtG"
@@ -2891,7 +2949,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 339846,
       "name": "Soul Sista - Remix / From \"Queen & Slim: The Soundtrack\"",
       "url": "https://open.spotify.com/track/54SqlaPV5mzRTBBWdnE1OO"
@@ -2927,7 +2985,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 236640,
       "name": "Status Quo",
       "url": "https://open.spotify.com/track/5Rc3pgfumRrE6b67rBAsi2"
@@ -2949,7 +3007,7 @@
       ],
       "date_added": "2022-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 237738,
       "name": "Still Broke - Keyon's Cocktail Mix",
       "url": "https://open.spotify.com/track/107l1YopKHWYtPbondo2oI"
@@ -3007,7 +3065,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 278266,
       "name": "Strength",
       "url": "https://open.spotify.com/track/4MTmD97M3KIAWLnwJbVwbp"
@@ -3179,7 +3237,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 115954,
       "name": "Thank You Master (For My Soul)",
       "url": "https://open.spotify.com/track/36gjfzhQg7lzKskouTyFkX"
@@ -3757,7 +3815,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 300677,
       "name": "Whatever You Are",
       "url": "https://open.spotify.com/track/6uL0ZXwr17RgsMRmXKYY11"
@@ -4067,7 +4125,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 206493,
       "name": "You",
       "url": "https://open.spotify.com/track/5wUBONclIQRIFrsPzW5TiY"

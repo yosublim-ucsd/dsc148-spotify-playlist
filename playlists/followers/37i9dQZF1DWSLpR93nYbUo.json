@@ -1,7 +1,7 @@
 {
-  "2024-02-24": 63015,
+  "2024-02-25": 63022,
   "date_first_scraped": "2023-07-23",
-  "description": "Ou\u00e7a as novidades da cena eletr\u00f4nica. Foto: ZAC",
+  "description": "Ou\u00e7a as novidades da cena eletr\u00f4nica. Foto: Devochka ",
   "name": "Novos Beats",
   "tracks": [
     {
@@ -21,7 +21,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 211200,
       "name": "A Part of Me",
       "url": "https://open.spotify.com/track/3zrOkMeDXnOXbMLIcqgDai"
@@ -137,7 +137,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 122812,
       "name": "All Night",
       "url": "https://open.spotify.com/track/1ALWJAg2OHZyyjoAHB2hZg"
@@ -235,6 +235,24 @@
       "duration_ms": 140952,
       "name": "Bambararam",
       "url": "https://open.spotify.com/track/0jYnLbpoQeu15iYjd7wEB4"
+    },
+    {
+      "album": {
+        "name": "Be High",
+        "url": "https://open.spotify.com/album/53Qytvpmq2yNDvH7l0XUXB"
+      },
+      "artists": [
+        {
+          "name": "Devochka",
+          "url": "https://open.spotify.com/artist/02xYwCW4WypA3nRQv6qEcX"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213750,
+      "name": "Be High",
+      "url": "https://open.spotify.com/track/1rftRUazfYteWwHO94wzfq"
     },
     {
       "album": {
@@ -461,7 +479,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 163809,
       "name": "Chaos",
       "url": "https://open.spotify.com/track/3RsQfPddQkAv0cI4rZoXGK"
@@ -625,6 +643,24 @@
       "duration_ms": 141995,
       "name": "Cumbia Buena",
       "url": "https://open.spotify.com/track/1kaobV65EeJJ5uws9mXyNI"
+    },
+    {
+      "album": {
+        "name": "Cupid",
+        "url": "https://open.spotify.com/album/0H2dpkiKzML5jOkf7fu6ic"
+      },
+      "artists": [
+        {
+          "name": "Visage Music",
+          "url": "https://open.spotify.com/artist/05WcfGPdzCMKpdGc17cUko"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207623,
+      "name": "Cupid",
+      "url": "https://open.spotify.com/track/2WAkKuNKKCsGc7EOVmgxzP"
     },
     {
       "album": {
@@ -792,6 +828,24 @@
     },
     {
       "album": {
+        "name": "Every Kind Of Taste",
+        "url": "https://open.spotify.com/album/1UCRHxLBS72U33BjbHaQRb"
+      },
+      "artists": [
+        {
+          "name": "BRN",
+          "url": "https://open.spotify.com/artist/3yujwOo5L5DZDOcGj8K9fj"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182325,
+      "name": "Every Kind Of Taste",
+      "url": "https://open.spotify.com/track/6aurebaNFLgvVlWcCnH2Xs"
+    },
+    {
+      "album": {
         "name": "Everytime",
         "url": "https://open.spotify.com/album/3ECI1UlNJ2cMl8TmU82nDZ"
       },
@@ -946,6 +1000,28 @@
     },
     {
       "album": {
+        "name": "Finesse",
+        "url": "https://open.spotify.com/album/1YGJRDy7O6JyU4wI9bo3Vz"
+      },
+      "artists": [
+        {
+          "name": "DOUG!",
+          "url": "https://open.spotify.com/artist/4G8g4gL4SfJzPJBcyRz7GS"
+        },
+        {
+          "name": "Glassick",
+          "url": "https://open.spotify.com/artist/5OtUdSwChmE7Z2fVsOt9Io"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "Finesse",
+      "url": "https://open.spotify.com/track/6WqOnqpH9lJo1vpZwtW2tb"
+    },
+    {
+      "album": {
         "name": "Flexin",
         "url": "https://open.spotify.com/album/1gvmDauEydTvcxloQa0SZ8"
       },
@@ -987,7 +1063,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 211875,
       "name": "FMF - Bruno Furlan Remix",
       "url": "https://open.spotify.com/track/6aLslHH3pTK8CGTv9Rv9N2"
@@ -1023,7 +1099,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 301879,
       "name": "Frkk",
       "url": "https://open.spotify.com/track/6hNnByj5SjNA6MGE4h1TbW"
@@ -1333,7 +1409,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 193000,
       "name": "Hold Up",
       "url": "https://open.spotify.com/track/3SHGhQYHrGgsRdLZGjjyxt"
@@ -1465,7 +1541,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 203223,
       "name": "It's On You",
       "url": "https://open.spotify.com/track/3wJ3sXzuGNSgPSR7UPBNMD"
@@ -1591,7 +1667,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 228996,
       "name": "Like That",
       "url": "https://open.spotify.com/track/25R67sd3GYqD6iGrbFOkmY"
@@ -1834,6 +1910,24 @@
     },
     {
       "album": {
+        "name": "Mosquito",
+        "url": "https://open.spotify.com/album/5YGN3odNnAtZ7MXL4VIiLE"
+      },
+      "artists": [
+        {
+          "name": "Kubi",
+          "url": "https://open.spotify.com/artist/6ePfLvMTRs5ma91LfsE523"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200952,
+      "name": "Mosquito",
+      "url": "https://open.spotify.com/track/1MqXdIOVbUnfMPFnNifMnD"
+    },
+    {
+      "album": {
         "name": "My Face",
         "url": "https://open.spotify.com/album/5NTd9H9gkWkpR58oTmlWHL"
       },
@@ -1885,7 +1979,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 150000,
       "name": "Need U",
       "url": "https://open.spotify.com/track/2xJqtUrOdN7W2TqB84wHE1"
@@ -1982,6 +2076,24 @@
     },
     {
       "album": {
+        "name": "NO WORDS",
+        "url": "https://open.spotify.com/album/615UimLdoTmibBoeQoPbTG"
+      },
+      "artists": [
+        {
+          "name": "Sifa",
+          "url": "https://open.spotify.com/artist/7q1ExqmvA5vWGGmkXs1rL3"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198095,
+      "name": "NO WORDS",
+      "url": "https://open.spotify.com/track/1n0I7YmvMZxya5YaBxmYCp"
+    },
+    {
+      "album": {
         "name": "Oh Low",
         "url": "https://open.spotify.com/album/0rOH0FxIi30rsZ8kYbb2zR"
       },
@@ -2069,7 +2181,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 128004,
       "name": "Overtaking",
       "url": "https://open.spotify.com/track/78zamDKRmKtglD0GWM4rnf"
@@ -2167,7 +2279,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 224516,
       "name": "PROBLEMS",
       "url": "https://open.spotify.com/track/5HtwrWFHZumyu5Ry816AqL"
@@ -2225,7 +2337,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 444000,
       "name": "Repique",
       "url": "https://open.spotify.com/track/2Luc8eRDG5zDTnHcJ9zBkj"
@@ -2287,7 +2399,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 159112,
       "name": "Right Here",
       "url": "https://open.spotify.com/track/3BY2fLp02wGqMa2GsMTJLa"
@@ -2335,6 +2447,28 @@
       "duration_ms": 253455,
       "name": "San Andreas",
       "url": "https://open.spotify.com/track/4aogNwcaLdqWPxnXc420oU"
+    },
+    {
+      "album": {
+        "name": "Sarrafo",
+        "url": "https://open.spotify.com/album/0pvAnzAywZUoTeb6Rr5Bom"
+      },
+      "artists": [
+        {
+          "name": "Plastic Robots",
+          "url": "https://open.spotify.com/artist/7qd3q5BKu3lh5r0vVBWSzm"
+        },
+        {
+          "name": "DJ Glen",
+          "url": "https://open.spotify.com/artist/7FhUEuhPe1odyNav1iHfvd"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265238,
+      "name": "Sarrafo",
+      "url": "https://open.spotify.com/track/2H7s8MYLIBye3gTSPXuJoQ"
     },
     {
       "album": {
@@ -2496,6 +2630,28 @@
     },
     {
       "album": {
+        "name": "Shattered",
+        "url": "https://open.spotify.com/album/3qBKgyLnwdRRrifrtGbIij"
+      },
+      "artists": [
+        {
+          "name": "Double MZK",
+          "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
+        },
+        {
+          "name": "The Frontier",
+          "url": "https://open.spotify.com/artist/0JwymukVmFtZeyMWWfzwrV"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137538,
+      "name": "Shattered",
+      "url": "https://open.spotify.com/track/23kaHmoKicGnc4csWAoOh6"
+    },
+    {
+      "album": {
         "name": "Shattered Ego",
         "url": "https://open.spotify.com/album/4QDz9D4zU81o43991NumKu"
       },
@@ -2639,7 +2795,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 196038,
       "name": "Still Alone - Radio Mix",
       "url": "https://open.spotify.com/track/1Tdm1UZvAGhuftWElWq1SX"
@@ -2781,7 +2937,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 150411,
       "name": "Take - Radio Edit",
       "url": "https://open.spotify.com/track/3p3di0xn3SIvOSxoI3wNVf"
@@ -2949,7 +3105,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 200625,
       "name": "The Rhythm",
       "url": "https://open.spotify.com/track/4XkzbINV9TTT4aVKRl3BI8"
@@ -3003,7 +3159,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 139296,
       "name": "The Vibe On My Body",
       "url": "https://open.spotify.com/track/6EvdXJtHRARySgpVB9a7on"
@@ -3075,7 +3231,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 180480,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/4xF3hjfUUEAOQESZmBwbnv"
@@ -3264,6 +3420,24 @@
     },
     {
       "album": {
+        "name": "USER",
+        "url": "https://open.spotify.com/album/3I2Tpmvq74OnufD3JzBpho"
+      },
+      "artists": [
+        {
+          "name": "Low Disco",
+          "url": "https://open.spotify.com/artist/2vIT4AnEcrFuJaS2JYYVjx"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307500,
+      "name": "USER - Original Mix",
+      "url": "https://open.spotify.com/track/4yRl21DdVy0MJdMXOhAg9O"
+    },
+    {
+      "album": {
         "name": "Vai no Ch\u00e3o 2k23 (Original Mix)",
         "url": "https://open.spotify.com/album/39BfhReJ5DS5fOrM2nYdzy"
       },
@@ -3301,7 +3475,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 158740,
       "name": "Velocidade",
       "url": "https://open.spotify.com/track/14QQZUBzohHF1BBSKZ1wfO"

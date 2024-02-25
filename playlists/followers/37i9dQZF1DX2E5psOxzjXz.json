@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 30225,
+  "2024-02-25": 30250,
   "date_first_scraped": "2021-12-28",
   "description": "Explore Pakistan's thriving independent scene. Discover more on <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7\">Pakistani Indie Rising</a>. Cover: Hasan Raheem",
   "name": "Pakistani Indie 101",
@@ -65,6 +65,32 @@
       "duration_ms": 234146,
       "name": "5 AM",
       "url": "https://open.spotify.com/track/0ZQigPrHtr8CkwDTZUU4mB"
+    },
+    {
+      "album": {
+        "name": "Aa Udd Chalien",
+        "url": "https://open.spotify.com/album/3QQLhtCpOe1ZrKm001L1K7"
+      },
+      "artists": [
+        {
+          "name": "Ali Mustafa",
+          "url": "https://open.spotify.com/artist/7m3Ku1spjnnSy81lVQM0oN"
+        },
+        {
+          "name": "Sameen Khawaja",
+          "url": "https://open.spotify.com/artist/3N3IttjqDCutknUWWA1q9B"
+        },
+        {
+          "name": "Maham Waqar",
+          "url": "https://open.spotify.com/artist/2eH0KcQ6GjxWb1eDgv8Tnk"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190285,
+      "name": "Aa Udd Chalien",
+      "url": "https://open.spotify.com/track/5YmQuXymFczEIeaQE6kVjl"
     },
     {
       "album": {
@@ -2173,7 +2199,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 244717,
       "name": "Jia",
       "url": "https://open.spotify.com/track/1OldtKIXBu5lzLtW37UkqR"
@@ -2199,6 +2225,28 @@
       "duration_ms": 145990,
       "name": "Jo Tu Chahay",
       "url": "https://open.spotify.com/track/4SaTP95BkR4m1NkunRCDiK"
+    },
+    {
+      "album": {
+        "name": "JOGI",
+        "url": "https://open.spotify.com/album/42ul4c3YVf87TWk7u2d2oG"
+      },
+      "artists": [
+        {
+          "name": "Maanu",
+          "url": "https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY"
+        },
+        {
+          "name": "Talal Qureshi",
+          "url": "https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127850,
+      "name": "JOGI",
+      "url": "https://open.spotify.com/track/6KO2ptwXLvr8JiGxk2rFHl"
     },
     {
       "album": {
@@ -2329,7 +2377,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 57428,
       "name": "Kasam Ki Kasam",
       "url": "https://open.spotify.com/track/33e7SIWEr6AhRRT9cpn9ed"
@@ -5171,7 +5219,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 162857,
       "name": "Zamanay",
       "url": "https://open.spotify.com/track/1KD6tWKf9z3mx8n8E9eYle"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。SZA, Selena Gomez, French Montana, Ado, Justin Timberlake and more! cover: SZA
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,345 likes - 80 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,408 likes - 80 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 18 | [I Will](https://open.spotify.com/track/27sKtH0PZpASkN8H3ZJOQf) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [I Will](https://open.spotify.com/album/17YWNPXw7xDsLqC6ES3Ysj) | 2:29 |
 | 19 | [The Secret Recipe](https://open.spotify.com/track/6x5E9i1oisbfYSTjuSuMqd) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Something Ether](https://open.spotify.com/album/47SrODHFtmaQitdsmonVie) | 4:08 |
 | 20 | [Boss Bitch \- Remix](https://open.spotify.com/track/0BMmYlBRZBel67VcE8mM0q) | [nana](https://open.spotify.com/artist/7uzEQGrUAupBJK2j3uQsoC), [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH), [LANA](https://open.spotify.com/artist/6HIxjjBk4Vg0pfnaxBTeOF), [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [7 \(Boss Bitch Edition\)](https://open.spotify.com/album/0qWaruyY6ogPiKAcmPWfUM) | 3:32 |
-| 21 | [CATCH UP](https://open.spotify.com/track/1pun3MQ7dbrzs2magIwseo) | [CYBER RUI](https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2), [Ash\-B](https://open.spotify.com/artist/78l5b6jXVHHTrRCzSx1ku4), [DLEN](https://open.spotify.com/artist/7FGUs03W7LYSEdn4lL7eTg), [DJ FRIP a.k.a Beatlab](https://open.spotify.com/artist/5cXeZBiqKUUtbuPWy2uoEc) | [CATCH UP](https://open.spotify.com/album/73ycvNiwdFSVWPkuRb0fIp) | 3:01 |
+| 21 | [CATCH UP](https://open.spotify.com/track/1pun3MQ7dbrzs2magIwseo) | [CYBER RUI](https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2), [Ash\-B](https://open.spotify.com/artist/78l5b6jXVHHTrRCzSx1ku4), [DLEN](https://open.spotify.com/artist/7FGUs03W7LYSEdn4lL7eTg), [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [CATCH UP](https://open.spotify.com/album/73ycvNiwdFSVWPkuRb0fIp) | 3:01 |
 | 22 | [KISSES MAKE SURE \(feat\. Young Thug & James Blake\)](https://open.spotify.com/track/564dSXBoUcjTSpYAcoXdlc) | [Strick](https://open.spotify.com/artist/2WInxWtfee6mRhUQUmIRAH), [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [KISSES MAKE SURE \(feat\. Young Thug & James Blake\)](https://open.spotify.com/album/2FFGg4JKNXlgddsqNIg08V) | 3:27 |
 | 23 | [Test It](https://open.spotify.com/track/1UMAHQ2G23kmost9bTNv26) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Still](https://open.spotify.com/album/7ArSPwsw4Su6nyeId06SZH) | 2:46 |
 | 24 | [Starving \(feat\. Teezo Touchdown\)](https://open.spotify.com/track/6zELuTXrMMOk4fFIf3OErT) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Starving \(feat\. Teezo Touchdown\)](https://open.spotify.com/album/1H7FJxNEOxKJbbHvKCtAgp) | 3:36 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 79 | [I Don't Love You](https://open.spotify.com/track/2okP2LbGxMLQWqmkptMAIX) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [I Don't Love You](https://open.spotify.com/album/3YRDP6zsko8EJm9xjgVo4n) | 4:11 |
 | 80 | [Alone Together \(feat\. Keyon Harrold\)](https://open.spotify.com/track/72fGgm5dQxnnagjMh364Q2) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [Alone Together \(feat\. Keyon Harrold\)](https://open.spotify.com/album/0k3H2zaKbA51uJtMR6JymR) | 4:30 |
 
-Snapshot ID: `MCwxNTgwM2I1OTM5ZGNmNjNhMTYxY2Y2YWIyYTUzZTEyM2Y2NWNlZDE4`
+Snapshot ID: `MCw4OTA2MTFiMDRmMjM5ZmUzMTZhN2I2ZjczNDVkOTQ3NDliMTdiZGY2`

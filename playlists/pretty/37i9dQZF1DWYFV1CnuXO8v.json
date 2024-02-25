@@ -1,12 +1,12 @@
 {
   "description": "\u0639\u064a\u0634 \u0623\u062c\u0645\u0644 \u062d\u0627\u0644\u0629 \u062d\u0628 \ud83e\udef6\u2764\ufe0f\n ",
-  "num_followers": 120810,
+  "num_followers": 120921,
   "original_name": "\u062d\u0628 \u0648\u063a\u0631\u0627\u0645",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NDI5ZWM5NTI5YjhkZDg4NDY5ODI5OTUyYmFjOGQ3YzcwYTRkODkw",
+  "snapshot_id": "MCw3NzFkZmExOWU0YWIxYmFkNzViZjBjZDY3MjBiOTMwYmZhYzg4ZDli",
   "tracks": [
     {
       "added_at": "2024-02-23 00:00:19",
@@ -843,8 +843,8 @@
     {
       "added_at": "2024-02-23 00:00:19",
       "album": {
-        "name": "Sha2lebty Routiny",
-        "url": "https://open.spotify.com/album/705AMg1ZwX2b3XENnfqKh6"
+        "name": "Ala Bali",
+        "url": "https://open.spotify.com/album/0ABLIX1oebH9nSCa9LgJB9"
       },
       "artists": [
         {
@@ -852,9 +852,9 @@
           "url": "https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1"
         }
       ],
-      "duration_ms": 161351,
-      "name": "Sha2lebty Routiny",
-      "url": "https://open.spotify.com/track/0vTX33ZSAyGOrIcmp3Fa9x"
+      "duration_ms": 194454,
+      "name": "Ala Bali",
+      "url": "https://open.spotify.com/track/6QHUAy3VluFJuVSiGRpPCu"
     },
     {
       "added_at": "2024-02-23 00:00:19",
@@ -1003,8 +1003,8 @@
     {
       "added_at": "2024-02-23 00:00:19",
       "album": {
-        "name": "Ala Bali",
-        "url": "https://open.spotify.com/album/0ABLIX1oebH9nSCa9LgJB9"
+        "name": "Sha2lebty Routiny",
+        "url": "https://open.spotify.com/album/705AMg1ZwX2b3XENnfqKh6"
       },
       "artists": [
         {
@@ -1012,9 +1012,9 @@
           "url": "https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1"
         }
       ],
-      "duration_ms": 194454,
-      "name": "Ala Bali",
-      "url": "https://open.spotify.com/track/6QHUAy3VluFJuVSiGRpPCu"
+      "duration_ms": 161351,
+      "name": "Sha2lebty Routiny",
+      "url": "https://open.spotify.com/track/0vTX33ZSAyGOrIcmp3Fa9x"
     },
     {
       "added_at": "2024-02-23 00:00:19",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-02-23 00:00:19",
       "album": {
-        "name": "Kol Sana Wenta Tayeb",
-        "url": "https://open.spotify.com/album/3VUbM9nuE2cSRN5DS0CuZy"
-      },
-      "artists": [
-        {
-          "name": "Ahmed Gamal",
-          "url": "https://open.spotify.com/artist/37ZFIxEwsxUpd09dNpRMVj"
-        }
-      ],
-      "duration_ms": 241781,
-      "name": "Kol Sana Wenta Tayeb",
-      "url": "https://open.spotify.com/track/3LVbXJEWPs6gvIMMLU5aWw"
-    },
-    {
-      "added_at": "2024-02-23 00:00:19",
-      "album": {
         "name": "Ya Bakhty Beh",
         "url": "https://open.spotify.com/album/0tFBtGwjlCel82hP0xN1hy"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 195535,
       "name": "Ya Bakhty Beh",
       "url": "https://open.spotify.com/track/1CEYTW1P2mKpZgxouGDw8f"
+    },
+    {
+      "added_at": "2024-02-23 00:00:19",
+      "album": {
+        "name": "Kol Sana Wenta Tayeb",
+        "url": "https://open.spotify.com/album/3VUbM9nuE2cSRN5DS0CuZy"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Gamal",
+          "url": "https://open.spotify.com/artist/37ZFIxEwsxUpd09dNpRMVj"
+        }
+      ],
+      "duration_ms": 241781,
+      "name": "Kol Sana Wenta Tayeb",
+      "url": "https://open.spotify.com/track/3LVbXJEWPs6gvIMMLU5aWw"
     },
     {
       "added_at": "2024-02-23 00:00:19",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2024-02-23 00:00:19",
       "album": {
+        "name": "\u064a\u0627 \u0645\u0648\u0644\u0627\u062a\u0649",
+        "url": "https://open.spotify.com/album/5zO9OLPgY7VLhDxO9jRsZn"
+      },
+      "artists": [
+        {
+          "name": "Hoda Bondok",
+          "url": "https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH"
+        }
+      ],
+      "duration_ms": 243103,
+      "name": "\u064a\u0627 \u0645\u0648\u0644\u0627\u062a\u0649",
+      "url": "https://open.spotify.com/track/4xrBcgF60gKrZX8929NxXD"
+    },
+    {
+      "added_at": "2024-02-23 00:00:19",
+      "album": {
         "name": "\u062d\u0627\u0644\u0629 \u062e\u0627\u0635\u0629 \u062c\u062f\u0627",
         "url": "https://open.spotify.com/album/7KDHyEqL0S7dfX6sDVFZ5E"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 277798,
       "name": "\u0641\u0636\u062d\u0627\u0646\u064a \u0639\u0646\u064a\u0629",
       "url": "https://open.spotify.com/track/7gHnIsFdTHKPxj6odECNLa"
-    },
-    {
-      "added_at": "2024-02-23 00:00:19",
-      "album": {
-        "name": "\u0628\u0637\u0645\u0646\u0643",
-        "url": "https://open.spotify.com/album/1gq4RDcXHPenXBMl2tdmLM"
-      },
-      "artists": [
-        {
-          "name": "Sherine",
-          "url": "https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI"
-        }
-      ],
-      "duration_ms": 289123,
-      "name": "\u0628\u0637\u0645\u0646\u0643",
-      "url": "https://open.spotify.com/track/4AqmPix9i32pQb33bsSWYG"
     }
   ],
   "unique_name": "\u062d\u0628 \u0648\u063a\u0631\u0627\u0645",

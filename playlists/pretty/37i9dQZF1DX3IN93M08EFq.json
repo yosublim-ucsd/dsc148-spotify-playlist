@@ -1,12 +1,12 @@
 {
   "description": "Din egen indieklubb! Garanterad dans, dans, dans. #spelashoreline",
-  "num_followers": 62653,
+  "num_followers": 62666,
   "original_name": "Spela Shoreline!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYWM0YjBmZGJkOGIwNjI3ZjEzMjdlMDBmNmM0NWYxMTZiZDhlNTkx",
+  "snapshot_id": "MCxhZGM3ZWJmNmFmNzIyYzYzZWI0OTkzMTcyYmY0MDk4ZDJhOWUyNjli",
   "tracks": [
     {
       "added_at": "2021-06-15 09:25:05",
@@ -427,22 +427,6 @@
     {
       "added_at": "2021-06-15 09:25:05",
       "album": {
-        "name": "Dance with Somebody",
-        "url": "https://open.spotify.com/album/0hBqYpJwRfDl1maghOp2zM"
-      },
-      "artists": [
-        {
-          "name": "Mando Diao",
-          "url": "https://open.spotify.com/artist/5I4eibDkC7gg0hmczTZuND"
-        }
-      ],
-      "duration_ms": 241000,
-      "name": "Dance with Somebody - Radio Version",
-      "url": "https://open.spotify.com/track/28qkNp9shSV8AQrBwxZf48"
-    },
-    {
-      "added_at": "2021-06-15 09:25:05",
-      "album": {
         "name": "The Drums",
         "url": "https://open.spotify.com/album/7EbEJzUEiXGbyrifEm2IN4"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 174306,
       "name": "Lets Go Surfing",
       "url": "https://open.spotify.com/track/49skdn8Truaufvcz8BXmtT"
+    },
+    {
+      "added_at": "2021-06-15 09:25:05",
+      "album": {
+        "name": "Dance with Somebody",
+        "url": "https://open.spotify.com/album/0hBqYpJwRfDl1maghOp2zM"
+      },
+      "artists": [
+        {
+          "name": "Mando Diao",
+          "url": "https://open.spotify.com/artist/5I4eibDkC7gg0hmczTZuND"
+        }
+      ],
+      "duration_ms": 241000,
+      "name": "Dance with Somebody - Radio Version",
+      "url": "https://open.spotify.com/track/28qkNp9shSV8AQrBwxZf48"
     },
     {
       "added_at": "2021-06-15 09:25:05",

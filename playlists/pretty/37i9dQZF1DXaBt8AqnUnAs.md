@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 
 > aqueles papo de amor tlgd não?
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,045 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,050 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 | 74 | [Meu Momento](https://open.spotify.com/track/00pGD07VqcwPNU5gs6jvor) | [Eusoares085](https://open.spotify.com/artist/0T4h7cQARJcizvV3JuKasg) | [Meu Momento](https://open.spotify.com/album/2wDliZps23Ka36k39RMCj0) | 2:43 |
 | 75 | [Milvezes](https://open.spotify.com/track/5SN36nvRWZQi3t5BTIliTA) | [Pivete Nobre](https://open.spotify.com/artist/26bQwhpZ9s1feRnvyLLV1D) | [Milvezes](https://open.spotify.com/album/39OuaB6IgtVL8HHKz7I6HQ) | 1:57 |
 
-Snapshot ID: `MCw0MGYyMzBjM2QyNDRkYzVmOWVjZGJhNmEwNDBjYmQ0Njc4ZDc1MDhj`
+Snapshot ID: `MCwzMzNlOGM0MTI2ZmJiMWM0NDA1NzdkYTJlNGM5NTRiODVkNWQ4N2Nj`

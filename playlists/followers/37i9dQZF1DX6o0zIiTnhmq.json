@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 187498,
+  "2024-02-25": 187548,
   "date_first_scraped": "2022-05-30",
   "description": "Mantras for meditation",
   "name": "Magical Mantras",
@@ -579,6 +579,28 @@
       "duration_ms": 856240,
       "name": "Hari Om Tat Sat - 108 Times",
       "url": "https://open.spotify.com/track/63iw2oXKHiwczTBAbZMxB7"
+    },
+    {
+      "album": {
+        "name": "Song Craft Season 1",
+        "url": "https://open.spotify.com/album/6cyCyVWsO3y369yadNqbmA"
+      },
+      "artists": [
+        {
+          "name": "Imran Khan Sitar",
+          "url": "https://open.spotify.com/artist/1UrxT8kr1FXLymiN3SWpEP"
+        },
+        {
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240171,
+      "name": "Jap Le Mannva",
+      "url": "https://open.spotify.com/track/7sNeybpyjW2Pp2P0xe6pib"
     },
     {
       "album": {
@@ -1811,7 +1833,7 @@
       ],
       "date_added": "2023-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 198002,
       "name": "Shiv Tandav Strotram",
       "url": "https://open.spotify.com/track/6EuRDQtfLoapVGesvko8sS"

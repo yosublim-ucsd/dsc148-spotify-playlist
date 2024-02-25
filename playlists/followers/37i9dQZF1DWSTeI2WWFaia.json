@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 1602450,
+  "2024-02-25": 1602421,
   "date_first_scraped": "2021-12-21",
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Benny The Butcher",
   "name": "Spilled Ink",
@@ -871,7 +871,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-20",
+      "date_removed": null,
       "duration_ms": 186000,
       "name": "Backstage in Minneapolis",
       "url": "https://open.spotify.com/track/41vQRKj7mWmwDWKnkrUJhI"
@@ -6658,6 +6658,32 @@
     },
     {
       "album": {
+        "name": "Live from the Roxy (feat. Boldy James)",
+        "url": "https://open.spotify.com/album/2cl2DGCPjyxVlfliCZwyXL"
+      },
+      "artists": [
+        {
+          "name": "Ransom",
+          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
+        },
+        {
+          "name": "Harry Fraud",
+          "url": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
+        },
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166071,
+      "name": "Live from the Roxy (feat. Boldy James)",
+      "url": "https://open.spotify.com/track/2iNyc3IgiqZ1oIAHoSA8ed"
+    },
+    {
+      "album": {
         "name": "$hook",
         "url": "https://open.spotify.com/album/40a2ZAxxlBBxwP6wCNrAfM"
       },
@@ -8039,7 +8065,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 227240,
       "name": "No Yeast (feat. Boldy James & Westside Gunn) - Remix",
       "url": "https://open.spotify.com/track/3g94P2bRVtVe1GqJnYOoV1"
@@ -8219,6 +8245,32 @@
       "duration_ms": 209655,
       "name": "One Life",
       "url": "https://open.spotify.com/track/2rfc0DDTqNwSkLCVzEdVVA"
+    },
+    {
+      "album": {
+        "name": "One Time",
+        "url": "https://open.spotify.com/album/75EvjgIfC7TvkGI9FVpkEV"
+      },
+      "artists": [
+        {
+          "name": "Smoke DZA",
+          "url": "https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd"
+        },
+        {
+          "name": "DJ RELLYRELL",
+          "url": "https://open.spotify.com/artist/2ZhgI73DhMmguqiE6Uc2J3"
+        },
+        {
+          "name": "The Smokers Club",
+          "url": "https://open.spotify.com/artist/0DSKJgPADvb4x1Bk3VETPr"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214935,
+      "name": "One Time",
+      "url": "https://open.spotify.com/track/5lwrwzSvekTG9ArVdvVCqQ"
     },
     {
       "album": {
@@ -8641,7 +8693,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 117451,
       "name": "Perm",
       "url": "https://open.spotify.com/track/2xhQK1DuFFcsykmPvbzNeP"
@@ -10307,7 +10359,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 130194,
       "name": "Ski'd Up",
       "url": "https://open.spotify.com/track/5t75pNr8pZCnllaSWw1LtK"

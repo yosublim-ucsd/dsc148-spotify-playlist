@@ -4,7 +4,7 @@
 
 > This is League of Legends\. The essential tracks, all in one playlist.
 
-55 songs - 3 hr 7 min
+56 songs - 3 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [POP/STARS](https://open.spotify.com/track/5sbooPcNgIE22DwO0VNGUJ) | [K/DA](https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v), [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q), [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx), [Jaira Burns](https://open.spotify.com/artist/0tRFWXqKBBQcu5oFVOgVzX), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [POP/STARS](https://open.spotify.com/album/0UnBZ8laFgLUq5Ty5vbikQ) | 3:11 | 2024-01-29 |  |
 | [REMIX RUMBLE](https://open.spotify.com/track/1AG7YrtmqKDQTe3wpBXKhp) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [REMIX RUMBLE \(Steve Aoki Remix\)](https://open.spotify.com/album/1Dk05oKAHWIFyN5kIWlTQ5) | 3:37 | 2024-01-29 |  |
 | [RISE](https://open.spotify.com/track/69Sy7207dnixZ6w7RSV9Kb) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Mako](https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA), [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk), [The Glitch Mob](https://open.spotify.com/artist/3a9qv6NLHnsVxJUtKOMHvD) | [RISE](https://open.spotify.com/album/6sGWFXm5IKtTBMFdIhNB9C) | 3:12 | 2024-01-29 |  |
+| [Rise \(Redux\)](https://open.spotify.com/track/069KZZROmbuGFuZ0B0Qc7A) | [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Rise \(Redux\)](https://open.spotify.com/album/0TtYq1Ni9PBoyxCAkqxuVC) | 3:14 | 2024-02-24 |  |
 | [Rules \(Are Meant to Break\)](https://open.spotify.com/track/0rZiFIOOnem9NmdzFEJBmR) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Che Lingo](https://open.spotify.com/artist/0xNKgWtSixAqcwJLM2c8ez) | [Rules \(Are Meant to Break\)](https://open.spotify.com/album/2iv4BH1w4P2vpiRZq3V9rj) | 3:01 | 2024-01-29 |  |
 | [Run It](https://open.spotify.com/track/3uKNoYPEy588darPCXlZxf) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Thutmose](https://open.spotify.com/artist/1igl9M102nuD96lo3ZoW5d), [Cal Scruby](https://open.spotify.com/artist/2wcrc3fjebDRLVdtRUa3pu) | [Run It](https://open.spotify.com/album/0h4zde0cxK8qD7Zd3f77Nu) | 3:37 | 2024-01-29 |  |
 | [Set It Off](https://open.spotify.com/track/6qONYDmRz1s7Msz0yVDHMB) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg), [JIMMYCLINE](https://open.spotify.com/artist/4Z6fYh9ANGOfOSylYE5gZz) | [Set It Off](https://open.spotify.com/album/1dvFlkLfxQ9NsmZ61FUO4W) | 2:30 | 2024-01-29 |  |

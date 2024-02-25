@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover:  <a href="spotify:artist:6by3AJadEjmjCl4MDHip2H">NatiFlora</a> \| Playlista odświeżana w każdą środę.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,778 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,770 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 99 | [Konstelacje](https://open.spotify.com/track/7drJf1OVF3LP90qR4veWzJ) | [Zespół Myśli Niespokojnych](https://open.spotify.com/artist/1xmiJvPrpE06ylaR5IxkYj) | [Konstelacje](https://open.spotify.com/album/11f9zBJdXfB6KVZJK6PlTS) | 7:01 |
 | 100 | [Wiosna](https://open.spotify.com/track/0Of43pp7BxMMHlPFmFtGm0) | [michał od kości](https://open.spotify.com/artist/4SWaZDXBz7FgqxwOi0iVtI) | [Wiosna](https://open.spotify.com/album/1EAqfuhSGWliCpVyLkt65B) | 4:12 |
 
-Snapshot ID: `MCw2ZWUxNGM5YTEzNTllNjMzYmIzOTRkYWRhNDkxOGM2MTRmMTFhMzk5`
+Snapshot ID: `MCwwNmI0OGZmYjdhMWQxZTlhN2U2MWFkMGE2NzZhNzM5OWZjNzM5NTQy`

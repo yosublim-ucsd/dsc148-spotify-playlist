@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 66648,
+  "2024-02-25": 66679,
   "date_first_scraped": "2022-06-02",
   "description": "Planta de la bugambilia que me cubres y me matas. ",
   "name": "Bugambilias",
@@ -2757,10 +2757,28 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 168549,
       "name": "Sauce",
       "url": "https://open.spotify.com/track/0HSJcMdGPoPJ0X8fJ5tEM8"
+    },
+    {
+      "album": {
+        "name": "Sauce",
+        "url": "https://open.spotify.com/album/0v97V5bN1vVVGgiWMraer1"
+      },
+      "artists": [
+        {
+          "name": "Ruth de las Plantas",
+          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168549,
+      "name": "Sauce",
+      "url": "https://open.spotify.com/track/2BtwezlzoymrZ3mwkTUdOD"
     },
     {
       "album": {

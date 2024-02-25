@@ -4,12 +4,13 @@
 
 > This is Nicky Romero\. The essential tracks, all in one playlist.
 
-104 songs - 5 hr 31 min
+105 songs - 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Acid Is My DNA](https://open.spotify.com/track/7MH3tmO3lKNZg85QXEX6Bc) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Acid is my DNA](https://open.spotify.com/album/3EGd1HqQ0MS5RxjwYnDE1Z) | 2:39 | 2021-12-20 | 2022-02-09 |
 | [Afterglow](https://open.spotify.com/track/4oDm90OxoKSOSoJIL9eYVc) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic), [Jared Lee](https://open.spotify.com/artist/7cBPcPEdhDWIoFX6BDvw1b) | [Afterglow](https://open.spotify.com/album/2iSj1nR3XEL9PVUk6CCzTv) | 3:41 | 2022-01-15 |  |
+| [All Night Long](https://open.spotify.com/track/6Wq9mMoP3u5DUoTF45Ov7u) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [All Night Long](https://open.spotify.com/album/4pWtDAU2CYcvsVwJKVWimA) | 2:44 | 2024-02-24 |  |
 | [All You Need Is Love](https://open.spotify.com/track/5yPEJ4UF90Km4KmLl2h4EE) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [All You Need Is Love](https://open.spotify.com/album/6LoQoWCm9bF4dSQI2ZWtXe) | 2:19 | 2023-05-20 |  |
 | [All You Need Is Love \- Festival Edit](https://open.spotify.com/track/0AqAKmVp6TnSO6lRJQhREU) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [All You Need Is Love \(Festival Edit\)](https://open.spotify.com/album/3NkZ09fX7o4woFHGPe1lpu) | 4:14 | 2023-07-01 | 2023-07-31 |
 | [Awakening](https://open.spotify.com/track/7vmI0ZeIjndCcohHfJex0m) | [Monocule](https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Awakening](https://open.spotify.com/album/4PgoalLTxvrc4vPsDdstqE) | 3:25 | 2021-12-20 | 2023-05-14 |

@@ -4,7 +4,7 @@
 
 > The best new electronic music\. Cover: Booka Shade
 
-3,127 songs - 11 day 12 hr 47 min
+3,128 songs - 11 day 12 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2218,7 +2218,8 @@
 | [Rejection \- Martin Waslewski Remix](https://open.spotify.com/track/5zF2LhMNz7TpEk2CPZXNsl) | [MARIA Die RUHE](https://open.spotify.com/artist/2h7LIGXwIr6m1tZ27JHgxQ), [Martin Waslewski](https://open.spotify.com/artist/3qk4AowZhFKoYHocPk6l06) | [Rejection \(Martin Waslewski Remix\)](https://open.spotify.com/album/0UpE1oBCZDFIJ4AsAysr4s) | 5:45 | 2022-04-21 | 2022-05-13 |
 | [Release](https://open.spotify.com/track/3YQxEnlF1MSmxMbge5HwQS) | [Kellerkind](https://open.spotify.com/artist/4GYQytEFxnzqH96O6QywsA) | [Bring The Good Mood Back](https://open.spotify.com/album/4oHJfzm4Snx1mvehq0a9RE) | 6:58 | 2022-05-20 | 2022-06-10 |
 | [Release Me](https://open.spotify.com/track/2Lnk1GLLbg6Z10k9cQIoMO) | [Klanglos](https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp) | [Release Me](https://open.spotify.com/album/36FqgtWPPZbZ4AS6NMI08I) | 6:01 | 2022-05-12 | 2022-05-27 |
-| [Release Yourself](https://open.spotify.com/track/6RnNzninMePpAQVSs4Lgx4) | [Blank & Jones](https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp) | [\#WhatWeDoAtNight 4 EP 3](https://open.spotify.com/album/1FZ8inRiVsfYIM36L52bL4) | 5:57 | 2024-02-08 |  |
+| [Release Yourself](https://open.spotify.com/track/6RnNzninMePpAQVSs4Lgx4) | [Blank & Jones](https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp) | [\#WhatWeDoAtNight 4 EP 3](https://open.spotify.com/album/1FZ8inRiVsfYIM36L52bL4) | 5:57 | 2024-02-08 | 2024-02-25 |
+| [Release Yourself](https://open.spotify.com/track/70bSxj46Yi4qvtWckxKZa3) | [Blank & Jones](https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp) | [\#WhatWeDoAtNight 4](https://open.spotify.com/album/5W7Mvi3loW1aTg1IVa2HSB) | 5:57 | 2024-02-22 |  |
 | [Remember](https://open.spotify.com/track/7B2ytzid2B2D1Wg83Iyt66) | [Alice DiMar](https://open.spotify.com/artist/3rNi4ttKcnvBaBT5aMYBNN) | [Yourney](https://open.spotify.com/album/3P2oam7JHSOjZMH6IVf04U) | 3:29 | 2023-06-01 | 2023-06-23 |
 | [Remember](https://open.spotify.com/track/6mzicuQ4PqOguqmixiQXV4) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1) | [Remember](https://open.spotify.com/album/7KaXmqRS3KHFZtYLDSuCnL) | 6:55 | 2023-10-26 | 2023-11-17 |
 | [Remember](https://open.spotify.com/track/2WEaVhxW4Rs5M4DEYhHYPI) | [D\-Nox](https://open.spotify.com/artist/1TqcQwnBqloJrKkGs4l4LT), [Beckers](https://open.spotify.com/artist/0VWBw0F5CvBFM9xEqbfhDg) | [No Boundaries](https://open.spotify.com/album/22XlleJ5y2EMKJW1Os5ykx) | 7:27 | 2023-01-27 | 2023-02-10 |

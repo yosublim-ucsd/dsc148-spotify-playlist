@@ -1,12 +1,12 @@
 {
   "description": "we ps xd ",
-  "num_followers": 24646,
+  "num_followers": 24684,
   "original_name": "XD",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NWIzNWU4MWRiYTNhOTEwMmZkNWRiY2ZiMTg3ODkwY2UzMTU3OGFl",
+  "snapshot_id": "MCwxYTgyMGI4MjAwMTVhMDU1MDk2ZGU3MjJjNDI4MDRiYmM1ZWUyZTM0",
   "tracks": [
     {
       "added_at": "2024-02-23 06:00:00",
@@ -583,22 +583,6 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
-        "name": "Below the Surface",
-        "url": "https://open.spotify.com/album/776QoK5YUYcf3dib5mUqeE"
-      },
-      "artists": [
-        {
-          "name": "Griffinilla",
-          "url": "https://open.spotify.com/artist/4YbLu4l7vHlJPD9yGjCkRu"
-        }
-      ],
-      "duration_ms": 134857,
-      "name": "Below the Surface",
-      "url": "https://open.spotify.com/track/5f1j3h5DBkLpGfb90QGFvR"
-    },
-    {
-      "added_at": "2024-02-23 06:00:00",
-      "album": {
         "name": "Point Em Out (with DaBaby)",
         "url": "https://open.spotify.com/album/4OokZs4MaEgyCHN35wJtew"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 133983,
       "name": "Point Em Out (with DaBaby)",
       "url": "https://open.spotify.com/track/1oaV97SzklGWVLi9LdW4Hf"
+    },
+    {
+      "added_at": "2024-02-23 06:00:00",
+      "album": {
+        "name": "Below the Surface",
+        "url": "https://open.spotify.com/album/776QoK5YUYcf3dib5mUqeE"
+      },
+      "artists": [
+        {
+          "name": "Griffinilla",
+          "url": "https://open.spotify.com/artist/4YbLu4l7vHlJPD9yGjCkRu"
+        }
+      ],
+      "duration_ms": 134857,
+      "name": "Below the Surface",
+      "url": "https://open.spotify.com/track/5f1j3h5DBkLpGfb90QGFvR"
     },
     {
       "added_at": "2024-02-23 06:00:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
-        "name": "Kerosene (Slowed)",
-        "url": "https://open.spotify.com/album/1mAU33mqJDs4eekzZAQZvf"
-      },
-      "artists": [
-        {
-          "name": "fam0uz",
-          "url": "https://open.spotify.com/artist/5L9XA5GDsOOKNZfeOO8lmo"
-        }
-      ],
-      "duration_ms": 142105,
-      "name": "Kerosene - Slowed",
-      "url": "https://open.spotify.com/track/2weO22kObPnyX1jKQStb40"
-    },
-    {
-      "added_at": "2024-02-23 06:00:00",
-      "album": {
         "name": "VITALICIO",
         "url": "https://open.spotify.com/album/3oTtPK9gUgOnHznnjNo161"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 120000,
       "name": "VITALICIO",
       "url": "https://open.spotify.com/track/3XDms8gGxWCMmwpSDzwGPy"
+    },
+    {
+      "added_at": "2024-02-23 06:00:00",
+      "album": {
+        "name": "Kerosene (Slowed)",
+        "url": "https://open.spotify.com/album/1mAU33mqJDs4eekzZAQZvf"
+      },
+      "artists": [
+        {
+          "name": "fam0uz",
+          "url": "https://open.spotify.com/artist/5L9XA5GDsOOKNZfeOO8lmo"
+        }
+      ],
+      "duration_ms": 142105,
+      "name": "Kerosene - Slowed",
+      "url": "https://open.spotify.com/track/2weO22kObPnyX1jKQStb40"
     },
     {
       "added_at": "2024-02-23 06:00:00",
@@ -795,6 +795,30 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
+        "name": "Automotivo Bibi Fogosa",
+        "url": "https://open.spotify.com/album/5YHGz0NvgBlhKefmyhP9zO"
+      },
+      "artists": [
+        {
+          "name": "Bibi Babydoll",
+          "url": "https://open.spotify.com/artist/6R26kGib2ubbZJMh7kKVGV"
+        },
+        {
+          "name": "Dj Brunin XM",
+          "url": "https://open.spotify.com/artist/6MSMZkBlZT4vhQmjO5Ynv3"
+        },
+        {
+          "name": "KZA Produ\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/1rRhJIu1ufxCjbmMWon6ax"
+        }
+      ],
+      "duration_ms": 129798,
+      "name": "Automotivo Bibi Fogosa",
+      "url": "https://open.spotify.com/track/2JIzOc3HHo4MhiyZzhpBUV"
+    },
+    {
+      "added_at": "2024-02-23 06:00:00",
+      "album": {
         "name": "Amor",
         "url": "https://open.spotify.com/album/5uL2IYw4ub2PuWRIESxwzd"
       },
@@ -811,42 +835,6 @@
       "duration_ms": 281100,
       "name": "Amor",
       "url": "https://open.spotify.com/track/0QLthYlRZYAP9iRs9cjmzD"
-    },
-    {
-      "added_at": "2024-02-23 06:00:00",
-      "album": {
-        "name": "en dormir sin Madrid",
-        "url": "https://open.spotify.com/album/4NMv3cMkDwkkR6EdLloQDB"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
-        }
-      ],
-      "duration_ms": 189901,
-      "name": "Milo J: Bzrp Music Sessions, Vol. 57",
-      "url": "https://open.spotify.com/track/2QM5gBm9Q8VZ7UamMIMLb1"
-    },
-    {
-      "added_at": "2024-02-23 06:00:00",
-      "album": {
-        "name": "COWBELL GOTH",
-        "url": "https://open.spotify.com/album/03wA9W4auCxQsRWGCE8LWM"
-      },
-      "artists": [
-        {
-          "name": "DRAGONMANE",
-          "url": "https://open.spotify.com/artist/1pawMASwj4RTc1oB80un2X"
-        }
-      ],
-      "duration_ms": 141040,
-      "name": "COWBELL GOTH",
-      "url": "https://open.spotify.com/track/0zcvETeNHWNO050bqZAjOs"
     },
     {
       "added_at": "2024-02-23 06:00:00",
@@ -871,6 +859,42 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
+        "name": "COWBELL GOTH",
+        "url": "https://open.spotify.com/album/03wA9W4auCxQsRWGCE8LWM"
+      },
+      "artists": [
+        {
+          "name": "DRAGONMANE",
+          "url": "https://open.spotify.com/artist/1pawMASwj4RTc1oB80un2X"
+        }
+      ],
+      "duration_ms": 141040,
+      "name": "COWBELL GOTH",
+      "url": "https://open.spotify.com/track/0zcvETeNHWNO050bqZAjOs"
+    },
+    {
+      "added_at": "2024-02-23 06:00:00",
+      "album": {
+        "name": "en dormir sin Madrid",
+        "url": "https://open.spotify.com/album/4NMv3cMkDwkkR6EdLloQDB"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "duration_ms": 189901,
+      "name": "Milo J: Bzrp Music Sessions, Vol. 57",
+      "url": "https://open.spotify.com/track/2QM5gBm9Q8VZ7UamMIMLb1"
+    },
+    {
+      "added_at": "2024-02-23 06:00:00",
+      "album": {
         "name": "Tu Veneno Mortal, Vol. 2",
         "url": "https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg"
       },
@@ -883,22 +907,6 @@
       "duration_ms": 214626,
       "name": "Regresa Mami",
       "url": "https://open.spotify.com/track/7bGwqRNetDyNOFDWJN8gvm"
-    },
-    {
-      "added_at": "2024-02-23 06:00:00",
-      "album": {
-        "name": "|BONKERS|",
-        "url": "https://open.spotify.com/album/0WQa2WyVWjNNiTB7ACrWwr"
-      },
-      "artists": [
-        {
-          "name": "staplegun",
-          "url": "https://open.spotify.com/artist/4UwArHrn7xxZleV0q6OzwI"
-        }
-      ],
-      "duration_ms": 212335,
-      "name": "|BONKERS|",
-      "url": "https://open.spotify.com/track/2G23H0snYYKYqRlyFvVObS"
     },
     {
       "added_at": "2024-02-23 06:00:00",
@@ -923,6 +931,22 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
+        "name": "|BONKERS|",
+        "url": "https://open.spotify.com/album/0WQa2WyVWjNNiTB7ACrWwr"
+      },
+      "artists": [
+        {
+          "name": "staplegun",
+          "url": "https://open.spotify.com/artist/4UwArHrn7xxZleV0q6OzwI"
+        }
+      ],
+      "duration_ms": 212335,
+      "name": "|BONKERS|",
+      "url": "https://open.spotify.com/track/2G23H0snYYKYqRlyFvVObS"
+    },
+    {
+      "added_at": "2024-02-23 06:00:00",
+      "album": {
         "name": "Inmortales",
         "url": "https://open.spotify.com/album/4EYOgNTo3rdmsmZaQSFbmV"
       },
@@ -935,22 +959,6 @@
       "duration_ms": 190017,
       "name": "Aquella Noche",
       "url": "https://open.spotify.com/track/5H71u2ItpVo99e5KbLEvX9"
-    },
-    {
-      "added_at": "2024-02-23 06:00:00",
-      "album": {
-        "name": "Da\u00f1ado (Deluxe)",
-        "url": "https://open.spotify.com/album/7dFnP4kqkS8va6P0UiVKaW"
-      },
-      "artists": [
-        {
-          "name": "Ivan Cornejo",
-          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Tatuajes - Deluxe",
-      "url": "https://open.spotify.com/track/2b4YJ0j60w3YPIFot0oodu"
     },
     {
       "added_at": "2024-02-23 06:00:00",
@@ -995,42 +1003,18 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
-        "name": "Automotivo Bibi Fogosa",
-        "url": "https://open.spotify.com/album/5YHGz0NvgBlhKefmyhP9zO"
+        "name": "Da\u00f1ado (Deluxe)",
+        "url": "https://open.spotify.com/album/7dFnP4kqkS8va6P0UiVKaW"
       },
       "artists": [
         {
-          "name": "Bibi Babydoll",
-          "url": "https://open.spotify.com/artist/6R26kGib2ubbZJMh7kKVGV"
-        },
-        {
-          "name": "Dj Brunin XM",
-          "url": "https://open.spotify.com/artist/6MSMZkBlZT4vhQmjO5Ynv3"
-        },
-        {
-          "name": "KZA Produ\u00e7\u00f5es",
-          "url": "https://open.spotify.com/artist/1rRhJIu1ufxCjbmMWon6ax"
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
         }
       ],
-      "duration_ms": 129798,
-      "name": "Automotivo Bibi Fogosa",
-      "url": "https://open.spotify.com/track/2JIzOc3HHo4MhiyZzhpBUV"
-    },
-    {
-      "added_at": "2024-02-23 06:00:00",
-      "album": {
-        "name": "San Lucas",
-        "url": "https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 210816,
-      "name": "Tu Si Eres Real",
-      "url": "https://open.spotify.com/track/201ssZsPpsLtX96LLGgPwQ"
+      "duration_ms": 198000,
+      "name": "Tatuajes - Deluxe",
+      "url": "https://open.spotify.com/track/2b4YJ0j60w3YPIFot0oodu"
     },
     {
       "added_at": "2024-02-23 06:00:00",
@@ -1051,6 +1035,22 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
+        "name": "San Lucas",
+        "url": "https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 210816,
+      "name": "Tu Si Eres Real",
+      "url": "https://open.spotify.com/track/201ssZsPpsLtX96LLGgPwQ"
+    },
+    {
+      "added_at": "2024-02-23 06:00:00",
+      "album": {
         "name": "Que Se Yo",
         "url": "https://open.spotify.com/album/29GPy18nuDwaIBrlwxZsGK"
       },
@@ -1067,18 +1067,26 @@
     {
       "added_at": "2024-02-23 06:00:00",
       "album": {
-        "name": "Alma Vac\u00eda",
-        "url": "https://open.spotify.com/album/4DmITPOATTsiWEWtJrPqkk"
+        "name": "Pepper",
+        "url": "https://open.spotify.com/album/6Rg6yUy37Cb6Y1JeTRQv4Y"
       },
       "artists": [
         {
-          "name": "Ivan Cornejo",
-          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
         }
       ],
-      "duration_ms": 237781,
-      "name": "Est\u00e1s en M\u00ed Pasado",
-      "url": "https://open.spotify.com/track/6ztAOF9gzTWhF4IHW0Sclj"
+      "duration_ms": 148965,
+      "name": "Pepper",
+      "url": "https://open.spotify.com/track/0OCFIEsSrmKueOiPK6S3xq"
     }
   ],
   "unique_name": "XD",

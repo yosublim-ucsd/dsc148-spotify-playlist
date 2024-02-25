@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 29057,
+  "2024-02-25": 29155,
   "date_first_scraped": "2022-01-02",
   "description": "Country music making waves. Cover: Blanco Brown",
   "name": "Country Frequency",
@@ -307,6 +307,24 @@
       "duration_ms": 176533,
       "name": "Beer With My Friends (feat. Cole Swindell and David Lee Murphy)",
       "url": "https://open.spotify.com/track/5YsPrfAtcCzMIc4BHTsxP5"
+    },
+    {
+      "album": {
+        "name": "Beg Your Parton",
+        "url": "https://open.spotify.com/album/3EyqjIkpqdUjw0hkf5Smfr"
+      },
+      "artists": [
+        {
+          "name": "The Kentucky Gentlemen",
+          "url": "https://open.spotify.com/artist/5Jyxuj6Ho7xmNPrDub1U86"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147957,
+      "name": "Beg Your Parton",
+      "url": "https://open.spotify.com/track/6eFEaO0x8HPi9AqFR9wdoL"
     },
     {
       "album": {

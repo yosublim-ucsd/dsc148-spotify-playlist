@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 22366,
+  "2024-02-25": 22399,
   "date_first_scraped": "2023-04-07",
   "description": "Raise a voice and testify the goodness of God.  Cover:  <a href=https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp?si=6mutUARsSHKhKJdS7KpqAw>Chidiya Ohiagu</a> ",
   "name": "Testify",
@@ -17,7 +17,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-21",
+      "date_removed": null,
       "duration_ms": 217297,
       "name": "A New Thing",
       "url": "https://open.spotify.com/track/1lzFtxdNGEUf3mWeqb6aBi"
@@ -1415,7 +1415,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 267337,
       "name": "Fragrance",
       "url": "https://open.spotify.com/track/5d7XeBCY5V4WV7yO6BD4Cq"
@@ -2496,6 +2496,24 @@
     },
     {
       "album": {
+        "name": "Mess into a Message",
+        "url": "https://open.spotify.com/album/1adkr7tTpDZWRAmDHoQhLz"
+      },
+      "artists": [
+        {
+          "name": "Chidiya Ohiagu",
+          "url": "https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197101,
+      "name": "Mess into a Message",
+      "url": "https://open.spotify.com/track/76aJBXDHpUhWS3xOeqKlSw"
+    },
+    {
+      "album": {
         "name": "Mighty God (Remix)",
         "url": "https://open.spotify.com/album/0FEwRFVRGygc77wGe6gUOX"
       },
@@ -3243,7 +3261,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 225000,
       "name": "Pain To Praise",
       "url": "https://open.spotify.com/track/2W1o9Q1zRVlPz1GYzGLXKM"

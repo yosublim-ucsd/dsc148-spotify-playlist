@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 607508,
+  "2024-02-25": 607569,
   "date_first_scraped": "2021-12-21",
   "description": "Keep your finger on the pulse of Americana. Cover: The Dead South",
   "name": "The Pulse of Americana",
@@ -399,7 +399,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 168705,
       "name": "Alibi",
       "url": "https://open.spotify.com/track/67LSydi0LL1jlubbA7F5st"
@@ -811,6 +811,24 @@
       "duration_ms": 285240,
       "name": "Atomized",
       "url": "https://open.spotify.com/track/0vSOiAgMIduuVfloqlaf2t"
+    },
+    {
+      "album": {
+        "name": "Back To Then",
+        "url": "https://open.spotify.com/album/5UqXEunlJ8tRCBYG1t8TS7"
+      },
+      "artists": [
+        {
+          "name": "Waylon Wyatt",
+          "url": "https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225671,
+      "name": "Back To Then",
+      "url": "https://open.spotify.com/track/14z9BKQQJnnn9WdcfR6RrF"
     },
     {
       "album": {
@@ -3412,6 +3430,24 @@
     },
     {
       "album": {
+        "name": "Get To Know Ya",
+        "url": "https://open.spotify.com/album/0OgiHkYyebfr8oz3VTFaNJ"
+      },
+      "artists": [
+        {
+          "name": "Emily Nenni",
+          "url": "https://open.spotify.com/artist/63BuZ8jcRTEc8SLZdGlXQy"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226920,
+      "name": "Get To Know Ya",
+      "url": "https://open.spotify.com/track/0ctW5fXiE3V5Z2KFEGF3aN"
+    },
+    {
+      "album": {
         "name": "Get What You Want",
         "url": "https://open.spotify.com/album/1QujFDWoU7kZy31k7r5vwd"
       },
@@ -3938,6 +3974,24 @@
     },
     {
       "album": {
+        "name": "Hawkmoon",
+        "url": "https://open.spotify.com/album/0WLU49zBV5CStnFUiYHrLD"
+      },
+      "artists": [
+        {
+          "name": "Hurray For The Riff Raff",
+          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222341,
+      "name": "Hawkmoon",
+      "url": "https://open.spotify.com/track/2TPoZOzNzkiazpFm5Duv7A"
+    },
+    {
+      "album": {
         "name": "He Says Y'all",
         "url": "https://open.spotify.com/album/594ivTG8CI8Ax5GTE0DZVX"
       },
@@ -4043,7 +4097,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 235519,
       "name": "Heartless Year",
       "url": "https://open.spotify.com/track/1JPCveyZfQHq9wa2lnMo6C"
@@ -4941,7 +4995,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 168645,
       "name": "Into The Unknown",
       "url": "https://open.spotify.com/track/2CsTLX6go5L9CGnaoLmB2a"
@@ -6405,7 +6459,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 233162,
       "name": "My Sister in Jesus Christ",
       "url": "https://open.spotify.com/track/5SQgTu7aPw85eoknZtRRyT"
@@ -6871,6 +6925,32 @@
       "duration_ms": 226710,
       "name": "One More Night",
       "url": "https://open.spotify.com/track/0NwmPeStDzdgT9wKxrfTvi"
+    },
+    {
+      "album": {
+        "name": "One More Night",
+        "url": "https://open.spotify.com/album/7vz79EdO4O8rNjZ2lZYqNc"
+      },
+      "artists": [
+        {
+          "name": "Miko Marks",
+          "url": "https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs"
+        },
+        {
+          "name": "The Resurrectors",
+          "url": "https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5"
+        },
+        {
+          "name": "Tr\u00e9 Burt",
+          "url": "https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219396,
+      "name": "One More Night",
+      "url": "https://open.spotify.com/track/4ntBW1e9yOMvXLWYfXbCTw"
     },
     {
       "album": {
@@ -8451,7 +8531,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 162106,
       "name": "Some Strange Notion",
       "url": "https://open.spotify.com/track/34ZARRmxs59mqcp2TyIjGB"
@@ -9206,6 +9286,24 @@
     },
     {
       "album": {
+        "name": "The Ballad of Sally Anne",
+        "url": "https://open.spotify.com/album/3uc7lb3lx1Ww2XRPBnAJkh"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238440,
+      "name": "The Ballad of Sally Anne",
+      "url": "https://open.spotify.com/track/2kozuAaT0clm71FtU5bThw"
+    },
+    {
+      "album": {
         "name": "Coyote",
         "url": "https://open.spotify.com/album/5Hri5F7ckbeJ6cvRd88efH"
       },
@@ -9779,6 +9877,28 @@
       "duration_ms": 253600,
       "name": "the wild",
       "url": "https://open.spotify.com/track/7ikQXwUOS8Bst77bpYuXqH"
+    },
+    {
+      "album": {
+        "name": "Thelma & Louise",
+        "url": "https://open.spotify.com/album/5s6m8HRZxBA6chBBRbrAF3"
+      },
+      "artists": [
+        {
+          "name": "Meg McRee",
+          "url": "https://open.spotify.com/artist/2XXRe7XAVLJZUUOjlEdssy"
+        },
+        {
+          "name": "Harper O'Neill",
+          "url": "https://open.spotify.com/artist/4jmirGdgyRdMSmoZSmM6yg"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199200,
+      "name": "Thelma & Louise",
+      "url": "https://open.spotify.com/track/3lYADLFdj2pvQV1PNEwZGn"
     },
     {
       "album": {
@@ -10977,7 +11097,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 229384,
       "name": "Workin' On A World",
       "url": "https://open.spotify.com/track/3oRtsritMRck27VJpy7gLr"

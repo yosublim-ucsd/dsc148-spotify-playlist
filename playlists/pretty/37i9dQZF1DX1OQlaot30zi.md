@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Beba, Fabri Fibra, Mace, Niky Savage e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,252 likes - 100 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,278 likes - 100 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 99 | [LUNGA VITA AI RE](https://open.spotify.com/track/330qUuctHh9ficSKNwgMnY) | [TITE LAVOZ](https://open.spotify.com/artist/7iVCUJA6rWV5yHo9P0b070) | [LUNGA VITA AI RE](https://open.spotify.com/album/0SO48murpsipxQx7y0MKY0) | 3:17 |
 | 100 | [IN NOSTRO NOME \(feat\. 22simba\)](https://open.spotify.com/track/4DqRQiZQbKoCFLfdA2JEc3) | [Y.E.B](https://open.spotify.com/artist/1UX1nNkeNhEl07t7KVGDif), [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7) | [IN NOSTRO NOME \(feat\. 22simba\)](https://open.spotify.com/album/1iw8Z1UFEDm0m2Dmk2dflc) | 3:22 |
 
-Snapshot ID: `MCw2NDdhMDkyMTBmOTkwYTk2YjZkMDY3Y2NjOGJmZWU1ODU3ZWNjMzk1`
+Snapshot ID: `MCw4NmY1ZjJiOTk1YzBkNzQ0YTM5NjAwMmFkNzdjZWVmMDM3MjkyMmVm`

@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 68395,
+  "2024-02-25": 68395,
   "date_first_scraped": "2022-11-05",
   "description": "This is Iggy Pop. The essential tracks, all in one playlist.",
   "name": "This Is Iggy Pop",
@@ -1507,7 +1507,7 @@
       ],
       "date_added": "2023-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-22",
+      "date_removed": null,
       "duration_ms": 55265,
       "name": "The News For Andy (Interlude)",
       "url": "https://open.spotify.com/track/5Fc2Y9ICh4f8weUhqS5Co9"
@@ -1711,7 +1711,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 283274,
       "name": "Working Class Hero",
       "url": "https://open.spotify.com/track/4E0dnwU0VhvJydUOEiq6IB"

@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 486,
+  "2024-02-25": 486,
   "date_first_scraped": "2023-12-14",
   "description": "The best EDM, Trap, Electronic, Drum&amp;Bass. Cover: Nia Archives",
   "name": "Bass Drop",
@@ -1670,6 +1670,24 @@
     },
     {
       "album": {
+        "name": "Rollin' Deep",
+        "url": "https://open.spotify.com/album/61oj3yPyofMulvi48JQLZL"
+      },
+      "artists": [
+        {
+          "name": "EAZYBAKED",
+          "url": "https://open.spotify.com/artist/1ZbT8FIqEc0cktnu6mNlvv"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270857,
+      "name": "Rollin' Deep",
+      "url": "https://open.spotify.com/track/192PapqBQXyC0vuiWc80Bb"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4SZa061qdVYEZTTqE4DfwS"
       },
@@ -1879,6 +1897,32 @@
       "duration_ms": 157745,
       "name": "Silence Is Loud",
       "url": "https://open.spotify.com/track/1LqFMtMW44W8XQ1OtV43gg"
+    },
+    {
+      "album": {
+        "name": "Smoak & Sip",
+        "url": "https://open.spotify.com/album/7wc12zgtkHjbtZ7EoFgQrb"
+      },
+      "artists": [
+        {
+          "name": "Smoakland",
+          "url": "https://open.spotify.com/artist/6409kgOB4tZEkNZci6BiUs"
+        },
+        {
+          "name": "SIPPY",
+          "url": "https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S"
+        },
+        {
+          "name": "ProbCause",
+          "url": "https://open.spotify.com/artist/1ZcfGrGrm9aHnUNVQz3sCY"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222315,
+      "name": "Smoak & Sip",
+      "url": "https://open.spotify.com/track/48abYOiPEloRHZ4XsMmVDA"
     },
     {
       "album": {

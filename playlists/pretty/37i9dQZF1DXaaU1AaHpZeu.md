@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. Alejandro y Maria Laura en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,299 likes - 55 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,305 likes - 55 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 54 | [Sonido Extraño](https://open.spotify.com/track/7ctaBLwRYtOBqMLiEIqWL1) | [Vez Era](https://open.spotify.com/artist/0CbGB2Pok6qspGdkxe0eBq) | [Sonido Extraño](https://open.spotify.com/album/4sKyL05PEMuX7ikttIurTq) | 3:11 |
 | 55 | [no llamaste \- Remix](https://open.spotify.com/track/3o4if7llOb7PZCz5ZIGCGI) | [Mica Sotera](https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1), [Los Otros Días](https://open.spotify.com/artist/3XQc1ORL38qQC9U0Z4do9V) | [no llamaste \(Remix\)](https://open.spotify.com/album/2cVEApzTrA9JZP6U7ao6H7) | 4:06 |
 
-Snapshot ID: `MCw2NWI2YWRjNWM1YmIyMjRhMDgxY2IzZTVmOWVkYzMzMWM3OTZjZjkz`
+Snapshot ID: `MCw2OTg3YWY4MmE1M2Q5MGI3MGVmMWZiNGFiNWMyMTZlYjk0Y2ZlNWU5`

@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 44704,
+  "2024-02-25": 44749,
   "date_first_scraped": "2022-05-30",
   "description": "The official playlist for After Life, curated by Ricky Gervais. Watch on Netflix.",
   "name": "After Life Official Playlist",
@@ -443,7 +443,7 @@
     {
       "album": {
         "name": "Echo",
-        "url": "https://open.spotify.com/album/2EPjdx6A66QkuM2UQYYIcK"
+        "url": "https://open.spotify.com/album/7FIE3K3e4BL0iMUxwwarXC"
       },
       "artists": [
         {
@@ -454,6 +454,24 @@
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 295486,
+      "name": "Little Piece Of Nothing",
+      "url": "https://open.spotify.com/track/2yFoCaBIaZyKJ8IpiBsEpg"
+    },
+    {
+      "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/2EPjdx6A66QkuM2UQYYIcK"
+      },
+      "artists": [
+        {
+          "name": "Dave Thomas Junior",
+          "url": "https://open.spotify.com/artist/0mUIey7n1U90IScto35rX7"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": "2024-02-24",
       "duration_ms": 295486,
       "name": "Little Piece of Nothing",
       "url": "https://open.spotify.com/track/5Kdg1xQa6pQACBTxRa2faR"

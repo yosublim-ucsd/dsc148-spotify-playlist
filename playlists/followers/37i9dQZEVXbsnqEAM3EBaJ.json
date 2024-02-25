@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 0,
+  "2024-02-25": 0,
   "date_first_scraped": "2023-03-03",
   "description": "Catch all the latest music from artists you follow, plus new singles picked for you. Updates every Friday.",
   "name": "Release Radar (@pipemanuel10)",
@@ -2936,6 +2936,32 @@
     },
     {
       "album": {
+        "name": "Breakaway",
+        "url": "https://open.spotify.com/album/3Qf1lsCco4UBhUZF0ydjmx"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Mesto",
+          "url": "https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9"
+        },
+        {
+          "name": "WILHELM",
+          "url": "https://open.spotify.com/artist/7g4gQKWTNj0X8BqpKpZFC0"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Breakaway",
+      "url": "https://open.spotify.com/track/3g0eHwVjGYZaHooqGtKefQ"
+    },
+    {
+      "album": {
         "name": "Speak To Me / Breathe",
         "url": "https://open.spotify.com/album/0XqLW4hTuJqYXrZwW8OVmk"
       },
@@ -3369,7 +3395,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 215905,
       "name": "Carry You",
       "url": "https://open.spotify.com/track/31ZO9XuKt48Qb2eUTBynd2"
@@ -3948,6 +3974,24 @@
     },
     {
       "album": {
+        "name": "Come On! (Live at Terminal 5)",
+        "url": "https://open.spotify.com/album/6Nfh1kmD4mHjyXpAloEJUr"
+      },
+      "artists": [
+        {
+          "name": "The Hives",
+          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91183,
+      "name": "Come On! - Live At Terminal 5",
+      "url": "https://open.spotify.com/track/4RNAi4GkUHNJy0RWOwBJES"
+    },
+    {
+      "album": {
         "name": "Communicate",
         "url": "https://open.spotify.com/album/4op7FALzRcCFTPzTSOcOp2"
       },
@@ -3989,7 +4033,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 160633,
       "name": "Como un Rayo",
       "url": "https://open.spotify.com/track/0h19BHLtwLka1kBoJSITle"
@@ -4551,6 +4595,24 @@
       "duration_ms": 290417,
       "name": "Dark Ice - Single Version",
       "url": "https://open.spotify.com/track/4WCnwHiyThWJmUaWFaUwFt"
+    },
+    {
+      "album": {
+        "name": "Dark Star",
+        "url": "https://open.spotify.com/album/2iPhlcSxljJQ4tdqT7R9yp"
+      },
+      "artists": [
+        {
+          "name": "Tarja",
+          "url": "https://open.spotify.com/artist/5IRFMGI8aEtZdN07OYrBZc"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244240,
+      "name": "Dark Star - Single Version",
+      "url": "https://open.spotify.com/track/4qJLo7IRQQ3IBiKop0mDfR"
     },
     {
       "album": {
@@ -6702,6 +6764,24 @@
     },
     {
       "album": {
+        "name": "vol huis (Live)",
+        "url": "https://open.spotify.com/album/3tYOO1SUShFTDag2iNbzlu"
+      },
+      "artists": [
+        {
+          "name": "Focus",
+          "url": "https://open.spotify.com/artist/0ifzzRKdmtgaHy9cfnnyCR"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209295,
+      "name": "Focus III - Live",
+      "url": "https://open.spotify.com/track/09zo76vfPszZXCkB9y7t3b"
+    },
+    {
+      "album": {
         "name": "Follow The Reaper (Final Show in Helsinki Ice Hall 2019)",
         "url": "https://open.spotify.com/album/4EIfIMDA0HZONcUIu2hGqg"
       },
@@ -6916,6 +6996,24 @@
     },
     {
       "album": {
+        "name": "Friendly Fire",
+        "url": "https://open.spotify.com/album/601IEigQO3enlyrbn4SpNM"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176901,
+      "name": "Friendly Fire",
+      "url": "https://open.spotify.com/track/1rAzOr3zpUDRtN2zsqGHiG"
+    },
+    {
+      "album": {
         "name": "Holding Onto Yesterday (Live 1976)",
         "url": "https://open.spotify.com/album/6qyoUTpM2MpnuS5l2eoyZd"
       },
@@ -6985,6 +7083,36 @@
       "duration_ms": 226066,
       "name": "Game Over",
       "url": "https://open.spotify.com/track/5dSidrJ5XHdP1xb11xpV2z"
+    },
+    {
+      "album": {
+        "name": "Gato L\u00f3pez",
+        "url": "https://open.spotify.com/album/7sCYNjKWHprPZiHFBsoj2s"
+      },
+      "artists": [
+        {
+          "name": "Gato L\u00f3pez",
+          "url": "https://open.spotify.com/artist/07HWPf2PLYzx38I3lJIsCH"
+        },
+        {
+          "name": "Ska-P",
+          "url": "https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl"
+        },
+        {
+          "name": "Salida Nula",
+          "url": "https://open.spotify.com/artist/6PhjQPENxSE6grsBqEq1Ph"
+        },
+        {
+          "name": "Sinaia",
+          "url": "https://open.spotify.com/artist/0B1wJktoH76W0tLHB75BTG"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167793,
+      "name": "Gato L\u00f3pez",
+      "url": "https://open.spotify.com/track/04gzNKeDu86xj5XCgrwBH8"
     },
     {
       "album": {
@@ -7235,6 +7363,24 @@
       "duration_ms": 260346,
       "name": "Go Away",
       "url": "https://open.spotify.com/track/5GlM1sVPZNgCYWgar5kXtO"
+    },
+    {
+      "album": {
+        "name": "Goat On Fire (1993 Remastered)",
+        "url": "https://open.spotify.com/album/2PnJts49Wrunw0lVk2YV4X"
+      },
+      "artists": [
+        {
+          "name": "Moonspell",
+          "url": "https://open.spotify.com/artist/17bYSQ9ZRnreVnJjE5X2x6"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323373,
+      "name": "Goat On Fire - 1993 Remastered",
+      "url": "https://open.spotify.com/track/4z4YxnFmwIVlILofInMbxD"
     },
     {
       "album": {
@@ -7511,6 +7657,32 @@
       "duration_ms": 173760,
       "name": "GOT THE THRILLS",
       "url": "https://open.spotify.com/track/1RVsbqAP1WFFXPiBXQYIah"
+    },
+    {
+      "album": {
+        "name": "Beats Bastardos",
+        "url": "https://open.spotify.com/album/3lzDTiNdapLRjpp02RA2y5"
+      },
+      "artists": [
+        {
+          "name": "Azerbeats",
+          "url": "https://open.spotify.com/artist/595CdU8Gay4WhfvkmX7w3T"
+        },
+        {
+          "name": "Claudio Bastardo",
+          "url": "https://open.spotify.com/artist/0Nk33fSMhlt1EL2uLH5eTx"
+        },
+        {
+          "name": "Gran Rah",
+          "url": "https://open.spotify.com/artist/6JjrF0EnCW3Ylj9gj3FXWZ"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149786,
+      "name": "Gracias 2018",
+      "url": "https://open.spotify.com/track/2XlXc5OhMCZrHu5V2s31p7"
     },
     {
       "album": {
@@ -9390,6 +9562,36 @@
     },
     {
       "album": {
+        "name": "If It Measns A Lot To You (feat. Chiodos, L. A. Guns & Music Travel Love )",
+        "url": "https://open.spotify.com/album/4b7tbdt7QVfyioLMNpTQpu"
+      },
+      "artists": [
+        {
+          "name": "MDG",
+          "url": "https://open.spotify.com/artist/1MOYkcNmsg4zWe8HgjPmbJ"
+        },
+        {
+          "name": "Chiodos",
+          "url": "https://open.spotify.com/artist/4ZIBrskTJWmkJUvM7uAu1o"
+        },
+        {
+          "name": "L. A. Guns",
+          "url": "https://open.spotify.com/artist/3uq2uyELuKfD6Eqz8sQehW"
+        },
+        {
+          "name": "Music Travel Love",
+          "url": "https://open.spotify.com/artist/2qNrJcE9LjzPdiXbrjkqFa"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239566,
+      "name": "If It Measns A Lot To You (feat. Chiodos, L. A. Guns & Music Travel Love )",
+      "url": "https://open.spotify.com/track/1UMQgzXfelJrhomlvJo33n"
+    },
+    {
+      "album": {
         "name": "Ignorance",
         "url": "https://open.spotify.com/album/0URMlCHj5UJq4gzbT7t7X3"
       },
@@ -9481,6 +9683,24 @@
       "duration_ms": 164906,
       "name": "In Between Days",
       "url": "https://open.spotify.com/track/0yxoRog8ICsQfMilqtXjqZ"
+    },
+    {
+      "album": {
+        "name": "In Eternity",
+        "url": "https://open.spotify.com/album/58CIfEUTW6jkC8PNLrCqko"
+      },
+      "artists": [
+        {
+          "name": "Leaves' Eyes",
+          "url": "https://open.spotify.com/artist/63qODcvBCdG2kTguOJkEqJ"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219532,
+      "name": "In Eternity",
+      "url": "https://open.spotify.com/track/5UtdnAmaj0ouJmW1k2VbWi"
     },
     {
       "album": {
@@ -12117,7 +12337,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 460573,
       "name": "Love To Love - 2024 Remaster",
       "url": "https://open.spotify.com/track/24PTESdfQkBEtfPLQjEt5o"
@@ -14429,7 +14649,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 296440,
       "name": "Only Time Will Tell (Live at HMV Forum, London, UK, 14 December 2010)",
       "url": "https://open.spotify.com/track/7s0HpdwTsw7WRS5D0yZOgu"
@@ -14973,7 +15193,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 178773,
       "name": "Pennies from Heaven",
       "url": "https://open.spotify.com/track/57tzaQqnUsQMqZGwNkeOKH"
@@ -17457,7 +17677,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 305613,
       "name": "Shake Dog Shake - Live At Zenith, Paris",
       "url": "https://open.spotify.com/track/08Ky8qaJYZanGFxRRrqlLW"
@@ -17529,7 +17749,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 406584,
       "name": "Shine",
       "url": "https://open.spotify.com/track/0HdPN94TMhUWe1bbfyNg76"
@@ -17703,6 +17923,28 @@
       "duration_ms": 328895,
       "name": "Sickman - Live 1990",
       "url": "https://open.spotify.com/track/1bVaucQKELxsPBbaQO08Rr"
+    },
+    {
+      "album": {
+        "name": "Siempre en ti",
+        "url": "https://open.spotify.com/album/0fd5nBpcWly2CwJTUU1RAs"
+      },
+      "artists": [
+        {
+          "name": "Claudia Meyer",
+          "url": "https://open.spotify.com/artist/6vDldMkL80CcmJbTg3hUgx"
+        },
+        {
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171080,
+      "name": "Siempre en ti",
+      "url": "https://open.spotify.com/track/3vZGFGVYyXfgUTnxOWaWGR"
     },
     {
       "album": {
@@ -19212,6 +19454,32 @@
     },
     {
       "album": {
+        "name": "Lindberg/P\u00f6ntinen: Live in USA",
+        "url": "https://open.spotify.com/album/7fLa7k8s1gH7MVE3KbA9Aq"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Christian Lindberg",
+          "url": "https://open.spotify.com/artist/2gQKtXD5BZqKT8Tl9JfFcy"
+        },
+        {
+          "name": "Roland P\u00f6ntinen",
+          "url": "https://open.spotify.com/artist/3oob8cWQ5FMlfVZRwSSVES"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61942,
+      "name": "Tchaikovsky: Suite from Pique Dame (Arr. for Trombone and Piano): XV",
+      "url": "https://open.spotify.com/track/2hcwkNCroZ1s7Flo64a2wk"
+    },
+    {
+      "album": {
         "name": "Tchaikovsky: The Nutcracker - Dance of the Flutes & Pas de Deux - slowed + reverb",
         "url": "https://open.spotify.com/album/7xCiqiSFhaEcCgS8P0mV3y"
       },
@@ -19660,6 +19928,28 @@
     },
     {
       "album": {
+        "name": "The Four Horsemen (feat. Robert Trujillo)",
+        "url": "https://open.spotify.com/album/0NLcGZRqxmMlgCZqjNMKKw"
+      },
+      "artists": [
+        {
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+        },
+        {
+          "name": "Robert Trujillo",
+          "url": "https://open.spotify.com/artist/3rROvEsUJJ9y55g1PLaA16"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286117,
+      "name": "The Four Horsemen (feat. Robert Trujillo)",
+      "url": "https://open.spotify.com/track/5tZHAwrNbJEA0o7jK2nilG"
+    },
+    {
+      "album": {
         "name": "M\u00fasica para la inmensa minor\u00eda",
         "url": "https://open.spotify.com/album/1csPvFOij9s12EohE7CbtC"
       },
@@ -19843,6 +20133,24 @@
       "duration_ms": 238896,
       "name": "The Hardest Button to Button - Live at The Aragon Ballroom, July 2, 2003",
       "url": "https://open.spotify.com/track/0Ka1YN2wbCvHCBae0111us"
+    },
+    {
+      "album": {
+        "name": "Live at The Cambridge Rock Festival, Cambridge, UK, 9 August 2009",
+        "url": "https://open.spotify.com/album/0IdPlUnt5tvhcxIUFPUiUN"
+      },
+      "artists": [
+        {
+          "name": "Asia",
+          "url": "https://open.spotify.com/artist/1bdytLV3FPjyhfrb6BhMej"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323240,
+      "name": "The Heat Goes On (Live at The Cambridge Rock Festival, Cambridge, UK, 9 August 2009)",
+      "url": "https://open.spotify.com/track/45oGCgxRxcB7yBdgXrJc3n"
     },
     {
       "album": {
@@ -20119,7 +20427,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 327763,
       "name": "The Muse and The Conductor",
       "url": "https://open.spotify.com/track/7uUNJfyzDeDVoKzjzATL3D"
@@ -20149,7 +20457,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-23",
+      "date_removed": null,
       "duration_ms": 315836,
       "name": "The Muse and The Conductor (Dissonance)",
       "url": "https://open.spotify.com/track/4ePpPebeQxroWuwZSL4ZLv"
@@ -20484,6 +20792,24 @@
     },
     {
       "album": {
+        "name": "The Serpent and the King",
+        "url": "https://open.spotify.com/album/53T5pDi25DmqJiQgHdinBq"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259747,
+      "name": "The Serpent and the King",
+      "url": "https://open.spotify.com/track/2n09w41gAdEsJFp6bD0sBT"
+    },
+    {
+      "album": {
         "name": "Louise",
         "url": "https://open.spotify.com/album/1rzck41dXGPFnOnLcN66Sr"
       },
@@ -20694,6 +21020,24 @@
     },
     {
       "album": {
+        "name": "Live At The Print Shop",
+        "url": "https://open.spotify.com/album/78vpk67a7qWeo1hqcLjRSN"
+      },
+      "artists": [
+        {
+          "name": "Collective Soul",
+          "url": "https://open.spotify.com/artist/4e5V1Q2dKCzbLVMQ8qbTn6"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268614,
+      "name": "The World I Know",
+      "url": "https://open.spotify.com/track/5bmcj9oN7axXea8m3CzaK6"
+    },
+    {
+      "album": {
         "name": "Africa Unite",
         "url": "https://open.spotify.com/album/5wk8v3DlfVtW5ZV5IOAiEY"
       },
@@ -20743,6 +21087,28 @@
       "duration_ms": 190589,
       "name": "Them Belly Full (But We Hungry) (Feat. Rema and Skip Marley)",
       "url": "https://open.spotify.com/track/7fbQLuKMYfGpqK9f0OuQjg"
+    },
+    {
+      "album": {
+        "name": "Swing Fever",
+        "url": "https://open.spotify.com/album/22tx1I0M6sElj88FEiBP5u"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        },
+        {
+          "name": "Jools Holland",
+          "url": "https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144666,
+      "name": "Them There Eyes",
+      "url": "https://open.spotify.com/track/3xE65V7CCWtG368398YXVh"
     },
     {
       "album": {
@@ -20871,6 +21237,24 @@
       "duration_ms": 304887,
       "name": "This Is Home - Dark-Side Mix",
       "url": "https://open.spotify.com/track/7aA0fUnyi2tIGkZbsWRADb"
+    },
+    {
+      "album": {
+        "name": "This isn't a goodbye kiss",
+        "url": "https://open.spotify.com/album/2MUNmSuTxKhfdhdaSLKPvU"
+      },
+      "artists": [
+        {
+          "name": "Nico.X3",
+          "url": "https://open.spotify.com/artist/6DN74L20gxGSBONvIWuMD2"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107163,
+      "name": "This isn't a goodbye kiss - Single Version",
+      "url": "https://open.spotify.com/track/6QKxZ99Yp4X08YiYWPB4wV"
     },
     {
       "album": {
@@ -22046,6 +22430,24 @@
     },
     {
       "album": {
+        "name": "Rock Bottom In Cincinnati 1995 (Live In Cincinnati, 1995)",
+        "url": "https://open.spotify.com/album/43qbDgAEajocqwWRqXXN5S"
+      },
+      "artists": [
+        {
+          "name": "UFO",
+          "url": "https://open.spotify.com/artist/2Omy3P5hFZym7FKum1JA1s"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280200,
+      "name": "Venus - Live in Cincinnati, 1995",
+      "url": "https://open.spotify.com/track/7uX2VEdhtPqaF8jEgOXDJS"
+    },
+    {
+      "album": {
         "name": "Verbal Style",
         "url": "https://open.spotify.com/album/5eLRKuyiFHlkgLWwRM575h"
       },
@@ -22225,6 +22627,24 @@
       "duration_ms": 243450,
       "name": "Waiting In Vain (Feat. Tiwa Savage)",
       "url": "https://open.spotify.com/track/47LoDRonq5IUeh7YFOq3zg"
+    },
+    {
+      "album": {
+        "name": "Waiting On A Twist Of Fate",
+        "url": "https://open.spotify.com/album/5oK4d9R1CpF1jVdLaL4fj8"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166844,
+      "name": "Waiting On A Twist Of Fate",
+      "url": "https://open.spotify.com/track/5PCMU8scAoT4sz4Fn2Umua"
     },
     {
       "album": {
@@ -23017,7 +23437,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 260700,
       "name": "Who Wants to Live Forever",
       "url": "https://open.spotify.com/track/1OEIhAfgxCwD2xH28BCKro"

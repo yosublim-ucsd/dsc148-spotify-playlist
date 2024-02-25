@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 66198,
+  "2024-02-25": 66233,
   "date_first_scraped": "2022-03-31",
   "description": "The artisanal ambient and alternative sounds make you float in the air.",
   "name": "Sora",
@@ -5488,6 +5488,24 @@
     },
     {
       "album": {
+        "name": "POLY LIFE MULTI SOUL",
+        "url": "https://open.spotify.com/album/4ExqwHRD689BjDf0tUKGBM"
+      },
+      "artists": [
+        {
+          "name": "cero",
+          "url": "https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117831,
+      "name": "Modern Steps",
+      "url": "https://open.spotify.com/track/1Od6aYUG6ivcq1H3myxA6G"
+    },
+    {
+      "album": {
         "name": "No Highs",
         "url": "https://open.spotify.com/album/7nKNz12BoGEYHqJmwUoC4P"
       },
@@ -7819,7 +7837,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 232073,
       "name": "solari",
       "url": "https://open.spotify.com/track/2ZYyuqKe7T64UqWVuW7CkS"

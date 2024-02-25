@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 47972,
+  "2024-02-25": 48050,
   "date_first_scraped": "2023-02-24",
   "description": "indie tunes with country experimentation featuring music from Waxahatchee ",
   "name": "Indie Twang",
@@ -237,6 +237,24 @@
       "duration_ms": 225372,
       "name": "Baby I Love You",
       "url": "https://open.spotify.com/track/0OZUOHveCKcJ0QDDA5NAfP"
+    },
+    {
+      "album": {
+        "name": "Bad Luck Bad Habit",
+        "url": "https://open.spotify.com/album/2K0GCEkTtUgBXWk1KGyzeA"
+      },
+      "artists": [
+        {
+          "name": "Alycia Lang",
+          "url": "https://open.spotify.com/artist/7tjNex1evNPneJtpH3Lps8"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210256,
+      "name": "Bad Luck Bad Habit",
+      "url": "https://open.spotify.com/track/0o394lDZL07bwAv8K11yDj"
     },
     {
       "album": {

@@ -1,9 +1,27 @@
 {
-  "2024-02-24": 281083,
+  "2024-02-25": 281187,
   "date_first_scraped": "2022-03-01",
-  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover: <a href=\"spotify:artist:6zSsJYBB1393jyFNRy7JrK\">Melvin Crispell III</a>",
+  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover: <a href=\"spotify:artist:6qL5lCa1VbCzWiVgnj6QIV\">Anthony Evans</a>",
   "name": "Fresh Gospel",
   "tracks": [
+    {
+      "album": {
+        "name": "Revive",
+        "url": "https://open.spotify.com/album/16JL6rDC3VCsKJkIciBXUP"
+      },
+      "artists": [
+        {
+          "name": "Anthony Evans",
+          "url": "https://open.spotify.com/artist/6qL5lCa1VbCzWiVgnj6QIV"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236785,
+      "name": "1000 Names",
+      "url": "https://open.spotify.com/track/740a4rwTRLEUTRP0Z1iwVL"
+    },
     {
       "album": {
         "name": "828",
@@ -17,7 +35,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 326640,
       "name": "828",
       "url": "https://open.spotify.com/track/0c2yBZksQI0aW0ARsMO6yS"
@@ -1003,6 +1021,24 @@
       "duration_ms": 208588,
       "name": "Blessing Now",
       "url": "https://open.spotify.com/track/5ldoIxIWnStijVhTNLJu8x"
+    },
+    {
+      "album": {
+        "name": "Note To Self",
+        "url": "https://open.spotify.com/album/4Yj28bUARn3tih4X7zrdaw"
+      },
+      "artists": [
+        {
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172217,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/4QvchxEDRzAosUOkZzJGI6"
     },
     {
       "album": {
@@ -2041,7 +2077,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 234296,
       "name": "God Is In Control",
       "url": "https://open.spotify.com/track/2Yd7rRnjUY83VkSLFaPL0k"
@@ -4243,6 +4279,24 @@
       "duration_ms": 539136,
       "name": "Jesus Lover Of My Soul - Live",
       "url": "https://open.spotify.com/track/5ndRS9n7ojy6IoAQZ9R5n7"
+    },
+    {
+      "album": {
+        "name": "Jesus Showed His Mercy",
+        "url": "https://open.spotify.com/album/2v0qMezLiobEnRkTGR5PQM"
+      },
+      "artists": [
+        {
+          "name": "Pastor Courage",
+          "url": "https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174551,
+      "name": "Jesus Showed His Mercy",
+      "url": "https://open.spotify.com/track/1JnA3uRpGMo7NdCL0wKnmc"
     },
     {
       "album": {
@@ -6870,6 +6924,28 @@
     },
     {
       "album": {
+        "name": "Something Good (Live)",
+        "url": "https://open.spotify.com/album/2EswB7liAxLfbUC0yZDR8J"
+      },
+      "artists": [
+        {
+          "name": "Uche Agu",
+          "url": "https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj"
+        },
+        {
+          "name": "Revival Today Worship",
+          "url": "https://open.spotify.com/artist/3VoLng4VXiHIKe4MnsnDf1"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394715,
+      "name": "Something Good - Live",
+      "url": "https://open.spotify.com/track/4lde92LAgTpa5SSWhQa8me"
+    },
+    {
+      "album": {
         "name": "Something Has To Break (feat. Karen Clark Sheard)",
         "url": "https://open.spotify.com/album/6uRvS7BE7GbZh9xNMMVCqn"
       },
@@ -8537,6 +8613,28 @@
       "duration_ms": 291720,
       "name": "We Will Sing",
       "url": "https://open.spotify.com/track/1wKpacWkDUIYs3V65A10tQ"
+    },
+    {
+      "album": {
+        "name": "WE WIN",
+        "url": "https://open.spotify.com/album/0FsoY0yxDj0Qg5NOnvFX2Y"
+      },
+      "artists": [
+        {
+          "name": "Daniel Ojo",
+          "url": "https://open.spotify.com/artist/7C8rUwAKMYgQifAuQGNS7r"
+        },
+        {
+          "name": "VaShawn Mitchell",
+          "url": "https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242256,
+      "name": "WE WIN",
+      "url": "https://open.spotify.com/track/2TyuOEMOSZf7I523X6ZqYz"
     },
     {
       "album": {

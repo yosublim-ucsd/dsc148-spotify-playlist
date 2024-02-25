@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 696697,
+  "2024-02-25": 696660,
   "date_first_scraped": "2022-01-02",
   "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. Jazmin Bean",
   "name": "misfits 2.0",
@@ -11180,24 +11180,6 @@
     },
     {
       "album": {
-        "name": "Traumatic Livelihood",
-        "url": "https://open.spotify.com/album/2bJSnPuFrikBDE4F6SxNC4"
-      },
-      "artists": [
-        {
-          "name": "Jazmin Bean",
-          "url": "https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL"
-        }
-      ],
-      "date_added": "2024-02-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 206039,
-      "name": "Sh*t Show",
-      "url": "https://open.spotify.com/track/090hszohQB1ibgEYfY2KVJ"
-    },
-    {
-      "album": {
         "name": "SHALL WE?",
         "url": "https://open.spotify.com/album/6PxilKjQiTVpWSOlR8smRV"
       },
@@ -11285,6 +11267,24 @@
       "duration_ms": 130666,
       "name": "Shinra Dark Pop",
       "url": "https://open.spotify.com/track/1EcQCDJGRTbUyGHhAvyRvT"
+    },
+    {
+      "album": {
+        "name": "Traumatic Livelihood",
+        "url": "https://open.spotify.com/album/2bJSnPuFrikBDE4F6SxNC4"
+      },
+      "artists": [
+        {
+          "name": "Jazmin Bean",
+          "url": "https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206039,
+      "name": "Shit Show",
+      "url": "https://open.spotify.com/track/090hszohQB1ibgEYfY2KVJ"
     },
     {
       "album": {

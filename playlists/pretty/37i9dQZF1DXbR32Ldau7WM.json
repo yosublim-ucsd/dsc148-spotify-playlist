@@ -1,12 +1,12 @@
 {
   "description": "The biggest rock bands/artists in Japan right now!  Cover: Fujifabric(\u30d5\u30b8\u30d5\u30a1\u30d6\u30ea\u30c3\u30af)",
-  "num_followers": 279148,
+  "num_followers": 279264,
   "original_name": "Big in Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MDJkODdmYWRlNmQyOGNhMGExZDJkMGMzNDgxYzk2YzYxZTBjZGUx",
+  "snapshot_id": "MCxhNzY4MWE5YWFhYWY3NDcxZGVmNjYyMTkyZmFhMjNiOGM1NjRmNTk0",
   "tracks": [
     {
       "added_at": "2024-02-20 15:00:00",
@@ -271,22 +271,18 @@
     {
       "added_at": "2024-02-20 15:00:00",
       "album": {
-        "name": "W\u25cfRK",
-        "url": "https://open.spotify.com/album/0uKLHZitWwrvekNjznMAaB"
+        "name": "\u30aa\u30ec\u30f3\u30b8",
+        "url": "https://open.spotify.com/album/4bpX1Wi81FjZ4d0GFlO1y3"
       },
       "artists": [
         {
-          "name": "millennium parade",
-          "url": "https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ"
-        },
-        {
-          "name": "Sheena Ringo",
-          "url": "https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi"
+          "name": "SPYAIR",
+          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
         }
       ],
-      "duration_ms": 201073,
-      "name": "W\u25cfRK",
-      "url": "https://open.spotify.com/track/1L50ymp25Vmu7VnPRx5TWf"
+      "duration_ms": 235200,
+      "name": "\u30aa\u30ec\u30f3\u30b8",
+      "url": "https://open.spotify.com/track/6M6ZNRplLNspFEn6Ab3mOv"
     },
     {
       "added_at": "2024-02-20 15:00:00",
@@ -339,18 +335,22 @@
     {
       "added_at": "2024-02-20 15:00:00",
       "album": {
-        "name": "\u30aa\u30ec\u30f3\u30b8",
-        "url": "https://open.spotify.com/album/4bpX1Wi81FjZ4d0GFlO1y3"
+        "name": "W\u25cfRK",
+        "url": "https://open.spotify.com/album/0uKLHZitWwrvekNjznMAaB"
       },
       "artists": [
         {
-          "name": "SPYAIR",
-          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
+          "name": "millennium parade",
+          "url": "https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ"
+        },
+        {
+          "name": "Sheena Ringo",
+          "url": "https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi"
         }
       ],
-      "duration_ms": 235200,
-      "name": "\u30aa\u30ec\u30f3\u30b8",
-      "url": "https://open.spotify.com/track/6M6ZNRplLNspFEn6Ab3mOv"
+      "duration_ms": 201073,
+      "name": "W\u25cfRK",
+      "url": "https://open.spotify.com/track/1L50ymp25Vmu7VnPRx5TWf"
     },
     {
       "added_at": "2024-02-20 15:00:00",
@@ -839,18 +839,18 @@
     {
       "added_at": "2024-02-20 15:00:00",
       "album": {
-        "name": "\u3044\u3051\u306a\u3044fool logic",
-        "url": "https://open.spotify.com/album/2FGXwd9HF1RNw7C3XIQLW4"
+        "name": "MAKING THE ROAD",
+        "url": "https://open.spotify.com/album/7GNdH1UwNo78P5gtB4ZJvD"
       },
       "artists": [
         {
-          "name": "UNISON SQUARE GARDEN",
-          "url": "https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u"
+          "name": "Hi-STANDARD",
+          "url": "https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH"
         }
       ],
-      "duration_ms": 255000,
-      "name": "\u3044\u3051\u306a\u3044fool logic",
-      "url": "https://open.spotify.com/track/7bssqLtlFKC3DZXoUCzsAo"
+      "duration_ms": 120200,
+      "name": "STAY GOLD",
+      "url": "https://open.spotify.com/track/6Q9bwEB5lN6m1DGkqz9XP6"
     },
     {
       "added_at": "2024-02-20 15:00:00",
@@ -871,18 +871,18 @@
     {
       "added_at": "2024-02-20 15:00:00",
       "album": {
-        "name": "MAKING THE ROAD",
-        "url": "https://open.spotify.com/album/7GNdH1UwNo78P5gtB4ZJvD"
+        "name": "\u3044\u3051\u306a\u3044fool logic",
+        "url": "https://open.spotify.com/album/2FGXwd9HF1RNw7C3XIQLW4"
       },
       "artists": [
         {
-          "name": "Hi-STANDARD",
-          "url": "https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH"
+          "name": "UNISON SQUARE GARDEN",
+          "url": "https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u"
         }
       ],
-      "duration_ms": 120200,
-      "name": "STAY GOLD",
-      "url": "https://open.spotify.com/track/6Q9bwEB5lN6m1DGkqz9XP6"
+      "duration_ms": 255000,
+      "name": "\u3044\u3051\u306a\u3044fool logic",
+      "url": "https://open.spotify.com/track/7bssqLtlFKC3DZXoUCzsAo"
     },
     {
       "added_at": "2024-02-20 15:00:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-02-20 15:00:00",
       "album": {
-        "name": "\u72d0\u72ec\u306e\u624d\u671b",
-        "url": "https://open.spotify.com/album/2w7en8SKXZXiZRVXmGZQG5"
-      },
-      "artists": [
-        {
-          "name": "Ling tosite sigure",
-          "url": "https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU"
-        }
-      ],
-      "duration_ms": 212950,
-      "name": "\u72d0\u72ec\u306e\u624d\u671b",
-      "url": "https://open.spotify.com/track/5mFKFCT5LXuxTLcrcpoCvp"
-    },
-    {
-      "added_at": "2024-02-20 15:00:00",
-      "album": {
         "name": "STARS",
         "url": "https://open.spotify.com/album/5lrdC0MIt5wLoRGZ4wKmjE"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 235747,
       "name": "STARS",
       "url": "https://open.spotify.com/track/7nkujdHzJVWyNGs2oONiCw"
+    },
+    {
+      "added_at": "2024-02-20 15:00:00",
+      "album": {
+        "name": "\u72d0\u72ec\u306e\u624d\u671b",
+        "url": "https://open.spotify.com/album/2w7en8SKXZXiZRVXmGZQG5"
+      },
+      "artists": [
+        {
+          "name": "Ling tosite sigure",
+          "url": "https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU"
+        }
+      ],
+      "duration_ms": 212950,
+      "name": "\u72d0\u72ec\u306e\u624d\u671b",
+      "url": "https://open.spotify.com/track/5mFKFCT5LXuxTLcrcpoCvp"
     },
     {
       "added_at": "2024-02-20 15:00:00",
@@ -1231,26 +1231,18 @@
     {
       "added_at": "2024-02-20 15:00:00",
       "album": {
-        "name": "I miss your fire",
-        "url": "https://open.spotify.com/album/21vZJWbVbvjBjAqVvIvY7g"
+        "name": "ZERO",
+        "url": "https://open.spotify.com/album/76kQt4pqSy9i9TB3L2aQ2q"
       },
       "artists": [
         {
-          "name": "\u5ca1\u6751\u548c\u7fa9",
-          "url": "https://open.spotify.com/artist/3oT5qA1VxfGwrTWpFnI9kC"
-        },
-        {
-          "name": "Yasuyuki Okamura",
-          "url": "https://open.spotify.com/artist/6ZaIdsp9xfWC1QJlxR1TBL"
-        },
-        {
-          "name": "Kazuyoshi Saito",
-          "url": "https://open.spotify.com/artist/7sl3PZyhzAqUpL3M6WVD8G"
+          "name": "Crossfaith",
+          "url": "https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh"
         }
       ],
-      "duration_ms": 342951,
-      "name": "I miss your fire",
-      "url": "https://open.spotify.com/track/5OHdAb159rhgots5cZuwV8"
+      "duration_ms": 187791,
+      "name": "ZERO",
+      "url": "https://open.spotify.com/track/5XdByWSKX0rkqG3YkNTjDh"
     },
     {
       "added_at": "2024-02-20 15:00:00",
@@ -1291,18 +1283,26 @@
     {
       "added_at": "2024-02-20 15:00:00",
       "album": {
-        "name": "Stray Hearts",
-        "url": "https://open.spotify.com/album/4vBh1pUF953y5Sf6Y9A3Su"
+        "name": "I miss your fire",
+        "url": "https://open.spotify.com/album/21vZJWbVbvjBjAqVvIvY7g"
       },
       "artists": [
         {
-          "name": "Koshi Inaba",
-          "url": "https://open.spotify.com/artist/0EvnQ89Ry2DPyn2xYAH9Ls"
+          "name": "\u5ca1\u6751\u548c\u7fa9",
+          "url": "https://open.spotify.com/artist/3oT5qA1VxfGwrTWpFnI9kC"
+        },
+        {
+          "name": "Yasuyuki Okamura",
+          "url": "https://open.spotify.com/artist/6ZaIdsp9xfWC1QJlxR1TBL"
+        },
+        {
+          "name": "Kazuyoshi Saito",
+          "url": "https://open.spotify.com/artist/7sl3PZyhzAqUpL3M6WVD8G"
         }
       ],
-      "duration_ms": 273266,
-      "name": "Stray Hearts",
-      "url": "https://open.spotify.com/track/3sqx01xjg7G7Fehge1YqUP"
+      "duration_ms": 342951,
+      "name": "I miss your fire",
+      "url": "https://open.spotify.com/track/5OHdAb159rhgots5cZuwV8"
     },
     {
       "added_at": "2024-02-20 15:00:00",

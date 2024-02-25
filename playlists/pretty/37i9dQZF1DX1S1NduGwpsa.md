@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Cyrille Aimee
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,042 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,071 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 49 | [again again](https://open.spotify.com/track/1FmMHIP94WklfLfs3svoYS) | [Cyrille Aimee](https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM) | [again again](https://open.spotify.com/album/4SukI2v2HmHz4JD0pF35ZN) | 3:28 |
 | 50 | [Nowhere to Hide](https://open.spotify.com/track/2kgTT46SOeDyViOIWtmU1N) | [Gabi Hartmann](https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn) | [Nowhere to Hide](https://open.spotify.com/album/0iwbgBKp5FKjItE7bMeocQ) | 3:19 |
 
-Snapshot ID: `MCw2NGI3NGZmY2EyNjJhYmQ1YjEzNGE1NTM0ZmM0ZmI4MGRjN2RjMTUz`
+Snapshot ID: `MCw4NDFlZjFiOTUxZDgzYzg5MmYyZDI5NGMyZjExMjJhNzMzMWE4MjY5`

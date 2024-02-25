@@ -1,12 +1,12 @@
 {
   "description": "Retour en arri\u00e8re avec les meilleurs titres de l'ann\u00e9e 2004. Photo : Usher",
-  "num_followers": 12350,
+  "num_followers": 12359,
   "original_name": "Top Hits France 2004",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjEwYjJmYTMxY2JiM2JmNjUxZjFiNjgwN2NlNGQxZTYwYjhmZGM1",
+  "snapshot_id": "MCw3NGQ5NmZkZjFkZDg0M2E5ZjZiZTUzMWEwZTA3YWFmYTdjOTAyYTQ3",
   "tracks": [
     {
       "added_at": "2020-10-27 12:12:52",
@@ -639,6 +639,22 @@
     {
       "added_at": "2020-10-27 12:12:52",
       "album": {
+        "name": "I Don't Want You Back",
+        "url": "https://open.spotify.com/album/1wpdvR1qooZm5UbSohCuOx"
+      },
+      "artists": [
+        {
+          "name": "Eamon",
+          "url": "https://open.spotify.com/artist/1y20PpXw0yeuJ1avCD0Ob9"
+        }
+      ],
+      "duration_ms": 225106,
+      "name": "Fuck It (I Don't Want You Back)",
+      "url": "https://open.spotify.com/track/1p5kC161fWMA2QlwV3Vi4W"
+    },
+    {
+      "added_at": "2020-10-27 12:12:52",
+      "album": {
         "name": "Bad Boy 20th Anniversary Box Set Edition",
         "url": "https://open.spotify.com/album/52TqKxbJkOBsbjKxlKgLwu"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 257333,
       "name": "I Don't Wanna Know (feat. Enya & P. Diddy) - 2016 Remaster",
       "url": "https://open.spotify.com/track/2yr2HnFYl7XvqJk4fXoQBt"
-    },
-    {
-      "added_at": "2020-10-27 12:12:52",
-      "album": {
-        "name": "I Don't Want You Back",
-        "url": "https://open.spotify.com/album/1wpdvR1qooZm5UbSohCuOx"
-      },
-      "artists": [
-        {
-          "name": "Eamon",
-          "url": "https://open.spotify.com/artist/1y20PpXw0yeuJ1avCD0Ob9"
-        }
-      ],
-      "duration_ms": 225106,
-      "name": "Fuck It (I Don't Want You Back)",
-      "url": "https://open.spotify.com/track/1p5kC161fWMA2QlwV3Vi4W"
     },
     {
       "added_at": "2020-10-27 12:12:52",

@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 2992,
+  "2024-02-25": 3001,
   "date_first_scraped": "2023-06-08",
   "description": "This is Kaliii. The essential tracks, all in one playlist.",
   "name": "This Is Kaliii",
@@ -283,7 +283,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-18",
+      "date_removed": null,
       "duration_ms": 320000,
       "name": "Binary Tertials",
       "url": "https://open.spotify.com/track/4gdjjcgEYjDLs7R4omwjZ3"
@@ -705,7 +705,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 24526,
       "name": "Ladybird - Live At The Apollo Theater/1972",
       "url": "https://open.spotify.com/track/7yTJtsQJ4UE0IvF7Zp9290"

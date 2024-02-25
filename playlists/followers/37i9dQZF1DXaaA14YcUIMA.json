@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 423695,
+  "2024-02-25": 461442,
   "date_first_scraped": "2022-05-23",
   "description": "Anda pa'lante galopante con los grandes del g\u00e9nero rom\u00e1ntico. Los Temerarios en portada. ",
   "name": "Romance Grupero",
@@ -1858,6 +1858,24 @@
     },
     {
       "album": {
+        "name": "Desde El Corazon",
+        "url": "https://open.spotify.com/album/6f0iQNDK9xsmaWfiuhFUj5"
+      },
+      "artists": [
+        {
+          "name": "Los Mier",
+          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199586,
+      "name": "Mu\u00f1eca de Ojos de Miel",
+      "url": "https://open.spotify.com/track/7DhWwtEQDFvl6Fw3v3YcKN"
+    },
+    {
+      "album": {
         "name": "Tu Amor O Tu Desprecio",
         "url": "https://open.spotify.com/album/6335RBM5tYZal0oSZm6jvW"
       },
@@ -1905,7 +1923,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 190840,
       "name": "No Me Queda M\u00e1s",
       "url": "https://open.spotify.com/track/6wDNRITsP5tBCImheKBTgi"
@@ -2193,7 +2211,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 237440,
       "name": "Perd\u00f3n Por Tus L\u00e1grimas",
       "url": "https://open.spotify.com/track/3YoLl2RHRhzKg3WhpaFRES"
@@ -2331,6 +2349,24 @@
       "duration_ms": 238493,
       "name": "Qui\u00e9reme M\u00e1s",
       "url": "https://open.spotify.com/track/3pFenid397ZiUWJKGW668V"
+    },
+    {
+      "album": {
+        "name": "En Su Punto",
+        "url": "https://open.spotify.com/album/0ph5nQiD5JvQHBC0AsKvTJ"
+      },
+      "artists": [
+        {
+          "name": "Los Yonic's",
+          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233266,
+      "name": "Rosas Blancas",
+      "url": "https://open.spotify.com/track/4D4dwuskd2c7Keg0VcQwN3"
     },
     {
       "album": {

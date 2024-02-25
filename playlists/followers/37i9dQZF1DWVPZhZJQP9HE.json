@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 65149,
+  "2024-02-25": 65202,
   "date_first_scraped": "2022-05-30",
   "description": "Tune into the finest of Tamil Indie music!\nCover : Sai Abhyankkar ",
   "name": "Tamil Indie",
@@ -717,6 +717,28 @@
       "duration_ms": 242790,
       "name": "Anbe",
       "url": "https://open.spotify.com/track/2h0NDOymvdOahxvkqwcySB"
+    },
+    {
+      "album": {
+        "name": "Anbe",
+        "url": "https://open.spotify.com/album/2XvMLgx8o8m4Z7Tm9F3xHL"
+      },
+      "artists": [
+        {
+          "name": "Shruti Iyer",
+          "url": "https://open.spotify.com/artist/0lUXre3CU0jwfeCJD9z2lk"
+        },
+        {
+          "name": "Sreekanth Hariharan",
+          "url": "https://open.spotify.com/artist/6EI5lmCSICOvroaH1bTwEj"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244991,
+      "name": "Anbe",
+      "url": "https://open.spotify.com/track/435Cg6XcTpkVrBiYn4Ya01"
     },
     {
       "album": {

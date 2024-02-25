@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 > Rap from hell\. Cover: Scrim from $uicideboy$
 
-[Spotify](https://open.spotify.com/user/spotify) - 569,930 likes - 100 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 570,046 likes - 100 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 99 | [GRAVEWORLD.TV/LIVE](https://open.spotify.com/track/5MrQWiPCl5x6WFuni1hV2p) | [TWENTYTHREE](https://open.spotify.com/artist/1J6ppTy8BI7nS6bPjuobHL), [Istasha](https://open.spotify.com/artist/5D8TBtxnP5GZm9wUBQ8OTc), [Witchouse 40k](https://open.spotify.com/artist/7chdPv6Kx0frN0lKfppD2J) | [GRAVEWORLD.TV/LIVE](https://open.spotify.com/album/6sdW9d68koNLQXuchDsJLN) | 2:48 |
 | 100 | [BLACKTOP](https://open.spotify.com/track/1V3xAfka9dN5KfVHtI747c) | [Yumi](https://open.spotify.com/artist/1FM51jrhnvagSuGSUv3kS2) | [LOST](https://open.spotify.com/album/2qAphOXzyfBXz4kOipCUeP) | 1:21 |
 
-Snapshot ID: `MCw1NmIyZDBiOThmMzg5ODA4ZjFlNzkyOWUxZjMzNjhmZDk3NzU2ZGRk`
+Snapshot ID: `MCw3YTBlNDM1MThmMDEzYmRjOTEyOTg4MmY1M2M5NGI2YjI2MWE0YTY1`

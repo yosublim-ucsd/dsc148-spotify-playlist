@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 28875,
+  "2024-02-25": 28897,
   "date_first_scraped": "2022-06-28",
   "description": "The jam scene is alive and well. Cover: SunSquabi",
   "name": "Modern Jam Band",
@@ -1212,6 +1212,24 @@
     },
     {
       "album": {
+        "name": "I Am The Wheel (It Could Happen to You)",
+        "url": "https://open.spotify.com/album/4Iy72zn3aCGtRsGIfmOPov"
+      },
+      "artists": [
+        {
+          "name": "Kendall Street Company",
+          "url": "https://open.spotify.com/artist/6AKT0nNWeP4Eb7ntkeBOj9"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213466,
+      "name": "I Am The Wheel (It Could Happen to You)",
+      "url": "https://open.spotify.com/track/5F6EqL3QZGnRJjA9XPWXoC"
+    },
+    {
+      "album": {
         "name": "I Go To Work",
         "url": "https://open.spotify.com/album/0zYl2aLQ8iZ3ZdAlAFf9Hl"
       },
@@ -1385,7 +1403,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 382014,
       "name": "Just Music",
       "url": "https://open.spotify.com/track/4Ixf4fxQiHDcUNgK2KtDXY"
@@ -1891,7 +1909,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 184480,
       "name": "One More Time",
       "url": "https://open.spotify.com/track/4Kzi9HfJf8MbpvGIAZXSl6"
@@ -2660,6 +2678,24 @@
     },
     {
       "album": {
+        "name": "The Seed",
+        "url": "https://open.spotify.com/album/7i6icaKn9TNM8k94CEFamu"
+      },
+      "artists": [
+        {
+          "name": "Lucid Evolution",
+          "url": "https://open.spotify.com/artist/2dY5xy6PtZVgHwTKOjWQAC"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 422784,
+      "name": "The Seed",
+      "url": "https://open.spotify.com/track/1yMrLBFGC0TlBaL2Jk5eWo"
+    },
+    {
+      "album": {
         "name": "The Wheel & The Witness",
         "url": "https://open.spotify.com/album/5ZXpDefilGS1vQOgV3P5vG"
       },
@@ -2779,7 +2815,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 285794,
       "name": "Trapeze",
       "url": "https://open.spotify.com/track/2fQqA2jMxsxx7CfrOP5bgY"
@@ -3063,6 +3099,24 @@
       "duration_ms": 200266,
       "name": "Whiskey",
       "url": "https://open.spotify.com/track/3q4QhuBKrbdBw55m1JC2T0"
+    },
+    {
+      "album": {
+        "name": "Windy Mountain",
+        "url": "https://open.spotify.com/album/6IWKeq29VXjgWmKbCdhRs2"
+      },
+      "artists": [
+        {
+          "name": "The String Cheese Incident",
+          "url": "https://open.spotify.com/artist/7N3JfLDzzjXdPbsyco7X0l"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328840,
+      "name": "Windy Mountain",
+      "url": "https://open.spotify.com/track/2xI02rsOKrOV54hoXtOout"
     },
     {
       "album": {

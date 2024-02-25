@@ -1,7 +1,7 @@
 {
-  "2024-02-24": 164504,
+  "2024-02-25": 164513,
   "date_first_scraped": "2022-05-14",
-  "description": "A laid-back trip in the folk scene. Cover: Norah Jones, Remi Wolf",
+  "description": "A laid-back trip in the folk scene. Cover: Shaina Hayes",
   "name": "Folk & Friends",
   "tracks": [
     {
@@ -2733,7 +2733,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 244838,
       "name": "Don't Act",
       "url": "https://open.spotify.com/track/0r8dEC7jKC7NvYgckACsOO"
@@ -3982,6 +3982,24 @@
     },
     {
       "album": {
+        "name": "Fixture",
+        "url": "https://open.spotify.com/album/7tVjMX7KnkmoutWOwgiDsQ"
+      },
+      "artists": [
+        {
+          "name": "Sam Tudor",
+          "url": "https://open.spotify.com/artist/4s7wRrRsAQMuLQlkRo2Khk"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201621,
+      "name": "Fixture",
+      "url": "https://open.spotify.com/track/1pxTRXqbjTdBLeZj4HMwjs"
+    },
+    {
+      "album": {
         "name": "Float On Now",
         "url": "https://open.spotify.com/album/1nGrvEoFsho3KsDtk4FYzd"
       },
@@ -4112,6 +4130,24 @@
     },
     {
       "album": {
+        "name": "Fool",
+        "url": "https://open.spotify.com/album/7w9GLsCdyuS7uwdixV90vb"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174539,
+      "name": "Fool",
+      "url": "https://open.spotify.com/track/2T0NGoXh9FT1kCjQA5Phto"
+    },
+    {
+      "album": {
         "name": "Sleeping on the Ceiling",
         "url": "https://open.spotify.com/album/3dgdk00OOR4nqem58vAV33"
       },
@@ -4163,6 +4199,24 @@
       "duration_ms": 216951,
       "name": "For the Sake of Comedy",
       "url": "https://open.spotify.com/track/7m34UcmXaQzdpOUl71WUsR"
+    },
+    {
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/3aiBsLE0pQDTtZLO21UqZ8"
+      },
+      "artists": [
+        {
+          "name": "Jaguar Sun",
+          "url": "https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217513,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/5YBqVqm8LmaIkrRSSfTMQk"
     },
     {
       "album": {
@@ -6400,6 +6454,24 @@
     },
     {
       "album": {
+        "name": "Kindergarten Heart",
+        "url": "https://open.spotify.com/album/3H7nFcNvSTRr5e1hOU3neJ"
+      },
+      "artists": [
+        {
+          "name": "Shaina Hayes",
+          "url": "https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177843,
+      "name": "Kindergarten Heart",
+      "url": "https://open.spotify.com/track/4sfkyrxPn0YOCohtvBRPJo"
+    },
+    {
+      "album": {
         "name": "Knock The Wind",
         "url": "https://open.spotify.com/album/2P5Hbwj8Pl8ZJI5X5lbsAG"
       },
@@ -6837,7 +6909,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 188401,
       "name": "Live Another Life",
       "url": "https://open.spotify.com/track/21VqpvyZTzgAt2pSQn6zQm"
@@ -10675,7 +10747,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 250747,
       "name": "Sun and Time",
       "url": "https://open.spotify.com/track/1f6je5fzqQuQMKCcbWHc35"
@@ -10801,7 +10873,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 204840,
       "name": "T-Shirt",
       "url": "https://open.spotify.com/track/2WNuuwAIoVY7Gaicrp5Qa5"
@@ -10938,6 +11010,28 @@
     },
     {
       "album": {
+        "name": "Tall Boy",
+        "url": "https://open.spotify.com/album/5A3jNX3ZP3DepmTViId4qj"
+      },
+      "artists": [
+        {
+          "name": "Close Talker",
+          "url": "https://open.spotify.com/artist/4xyP3FGvSmDPFy9rsOifMh"
+        },
+        {
+          "name": "Wyatt C. Louis",
+          "url": "https://open.spotify.com/artist/0U2aokEQQSzyTcQdpC6DsB"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314827,
+      "name": "Tall Boy",
+      "url": "https://open.spotify.com/track/7qcJoUaUpoE01mJjWi4U1k"
+    },
+    {
+      "album": {
         "name": "Tangerine",
         "url": "https://open.spotify.com/album/6gpNZaAhggcDoW6PIPWtll"
       },
@@ -11007,6 +11101,24 @@
       "duration_ms": 147121,
       "name": "Ten Hands",
       "url": "https://open.spotify.com/track/1hqhw3eirngE86hy8qKGAc"
+    },
+    {
+      "album": {
+        "name": "Texas Wide",
+        "url": "https://open.spotify.com/album/2qqtJeHMwiB9sWFV9ugdHk"
+      },
+      "artists": [
+        {
+          "name": "Kate Stephenson",
+          "url": "https://open.spotify.com/artist/5RAwXhLQfEX5khIsfnvDne"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148714,
+      "name": "Texas Wide",
+      "url": "https://open.spotify.com/track/7flgkD4d50MhuipLRe6HFL"
     },
     {
       "album": {
@@ -12754,6 +12866,24 @@
     },
     {
       "album": {
+        "name": "When I Was Younger",
+        "url": "https://open.spotify.com/album/03QaM9aGaUe4aMrI8gGICH"
+      },
+      "artists": [
+        {
+          "name": "Bonny Light Horseman",
+          "url": "https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197416,
+      "name": "When I Was Younger",
+      "url": "https://open.spotify.com/track/26nb8UvZLmzQgwCOXBGTtf"
+    },
+    {
+      "album": {
         "name": "K.I.S.S",
         "url": "https://open.spotify.com/album/0RBuLOblRvzWdJ6NnDMoap"
       },
@@ -13371,7 +13501,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 229222,
       "name": "Young - Spotify Singles",
       "url": "https://open.spotify.com/track/764lmcFd4PTTZtxcksPLDR"
@@ -13393,6 +13523,24 @@
       "duration_ms": 252166,
       "name": "Your Beautiful Self",
       "url": "https://open.spotify.com/track/0R2V3TO0hv1QQmLICsxBHJ"
+    },
+    {
+      "album": {
+        "name": "Your Eyes Tell Stories",
+        "url": "https://open.spotify.com/album/1QgZwqU2YobE0pxiD3tzkE"
+      },
+      "artists": [
+        {
+          "name": "Bo Staloch",
+          "url": "https://open.spotify.com/artist/2EtiCherSxAKu7mnbU8Poh"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320200,
+      "name": "Your Eyes Tell Stories",
+      "url": "https://open.spotify.com/track/2L0lffL9iJypY0PDGEg169"
     },
     {
       "album": {

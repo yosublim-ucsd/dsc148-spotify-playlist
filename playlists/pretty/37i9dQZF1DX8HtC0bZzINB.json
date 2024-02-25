@@ -1,12 +1,12 @@
 {
   "description": "Yerli Afro, Latin ve trap ritimleri ile yaz\u0131n en hareketli hali.",
-  "num_followers": 86304,
+  "num_followers": 86324,
   "original_name": "Yaz Ritmi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiODA5YTJiNjA0ODQ5ZmU4ZjIxMWQ2YjBlYmVjZjY3ZDVkMjIyNTJk",
+  "snapshot_id": "MCw0ZDY4YjZlY2UwZjQyZTcyNWRlNzlmZTIxODMyNDUyNWQ3N2YxYzZk",
   "tracks": [
     {
       "added_at": "2023-08-31 21:00:00",
@@ -359,18 +359,22 @@
     {
       "added_at": "2023-08-31 21:00:00",
       "album": {
-        "name": "Sallan",
-        "url": "https://open.spotify.com/album/5e2E1Cjig88oI1F68VpAeh"
+        "name": "Made In Turkey",
+        "url": "https://open.spotify.com/album/6YAnmcTG1SWdNCGpuLdCUM"
       },
       "artists": [
         {
-          "name": "Xir",
-          "url": "https://open.spotify.com/artist/1eQzZsJAtBVhN9WP62oXM2"
+          "name": "Murda",
+          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
+        },
+        {
+          "name": "Ezhel",
+          "url": "https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL"
         }
       ],
-      "duration_ms": 195439,
-      "name": "Sallan",
-      "url": "https://open.spotify.com/track/6VIGABEcC3uzw0Bque9ux5"
+      "duration_ms": 167350,
+      "name": "Bi Sonraki Hayat\u0131mda Gel",
+      "url": "https://open.spotify.com/track/5SYkeNpjhJPFUMOP5TK8iw"
     },
     {
       "added_at": "2023-08-31 21:00:00",
@@ -407,22 +411,18 @@
     {
       "added_at": "2023-08-31 21:00:00",
       "album": {
-        "name": "Made In Turkey",
-        "url": "https://open.spotify.com/album/6YAnmcTG1SWdNCGpuLdCUM"
+        "name": "Sallan",
+        "url": "https://open.spotify.com/album/5e2E1Cjig88oI1F68VpAeh"
       },
       "artists": [
         {
-          "name": "Murda",
-          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
-        },
-        {
-          "name": "Ezhel",
-          "url": "https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL"
+          "name": "Xir",
+          "url": "https://open.spotify.com/artist/1eQzZsJAtBVhN9WP62oXM2"
         }
       ],
-      "duration_ms": 167350,
-      "name": "Bi Sonraki Hayat\u0131mda Gel",
-      "url": "https://open.spotify.com/track/5SYkeNpjhJPFUMOP5TK8iw"
+      "duration_ms": 195439,
+      "name": "Sallan",
+      "url": "https://open.spotify.com/track/6VIGABEcC3uzw0Bque9ux5"
     },
     {
       "added_at": "2023-08-31 21:00:00",
@@ -447,18 +447,22 @@
     {
       "added_at": "2023-08-31 21:00:00",
       "album": {
-        "name": "\u015eampanya",
-        "url": "https://open.spotify.com/album/3IGHVTYbfBsCY4AjdbvvvF"
+        "name": "Sen D\u00f6nene Kadar",
+        "url": "https://open.spotify.com/album/2VFP4NAAG4bwuxrMzKwTLh"
       },
       "artists": [
         {
-          "name": "Ceg",
-          "url": "https://open.spotify.com/artist/2QDHxmDObOuv9MCeBYiFtq"
+          "name": "Murda",
+          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
+        },
+        {
+          "name": "Hadise",
+          "url": "https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49"
         }
       ],
-      "duration_ms": 253754,
-      "name": "\u015eampanya",
-      "url": "https://open.spotify.com/track/3flurnTXJlSjMa9yj2uvY0"
+      "duration_ms": 189064,
+      "name": "Sen D\u00f6nene Kadar",
+      "url": "https://open.spotify.com/track/40oOgUUwhtKbewdsyzozaN"
     },
     {
       "added_at": "2023-08-31 21:00:00",
@@ -479,6 +483,22 @@
       "duration_ms": 166053,
       "name": "k\u00f6rd\u00fc\u011f\u00fcm",
       "url": "https://open.spotify.com/track/6mYGCOpWCq1qtrlOr68u5p"
+    },
+    {
+      "added_at": "2023-08-31 21:00:00",
+      "album": {
+        "name": "\u015eampanya",
+        "url": "https://open.spotify.com/album/3IGHVTYbfBsCY4AjdbvvvF"
+      },
+      "artists": [
+        {
+          "name": "Ceg",
+          "url": "https://open.spotify.com/artist/2QDHxmDObOuv9MCeBYiFtq"
+        }
+      ],
+      "duration_ms": 253754,
+      "name": "\u015eampanya",
+      "url": "https://open.spotify.com/track/3flurnTXJlSjMa9yj2uvY0"
     },
     {
       "added_at": "2023-08-31 21:00:00",
@@ -567,26 +587,6 @@
     {
       "added_at": "2023-08-31 21:00:00",
       "album": {
-        "name": "Sen D\u00f6nene Kadar",
-        "url": "https://open.spotify.com/album/2VFP4NAAG4bwuxrMzKwTLh"
-      },
-      "artists": [
-        {
-          "name": "Murda",
-          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
-        },
-        {
-          "name": "Hadise",
-          "url": "https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49"
-        }
-      ],
-      "duration_ms": 189064,
-      "name": "Sen D\u00f6nene Kadar",
-      "url": "https://open.spotify.com/track/40oOgUUwhtKbewdsyzozaN"
-    },
-    {
-      "added_at": "2023-08-31 21:00:00",
-      "album": {
         "name": "G\u00fczelim",
         "url": "https://open.spotify.com/album/5nYqLxjjZf7PVJfMtZH5yq"
       },
@@ -615,6 +615,26 @@
       "duration_ms": 125973,
       "name": "S\u00d6YLENEYD\u0130BU?",
       "url": "https://open.spotify.com/track/5QucJT1HhY3MD6Qw2qBCUl"
+    },
+    {
+      "added_at": "2023-08-31 21:00:00",
+      "album": {
+        "name": "Made In Turkey",
+        "url": "https://open.spotify.com/album/6YAnmcTG1SWdNCGpuLdCUM"
+      },
+      "artists": [
+        {
+          "name": "Murda",
+          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
+        },
+        {
+          "name": "Ezhel",
+          "url": "https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL"
+        }
+      ],
+      "duration_ms": 196583,
+      "name": "AYA",
+      "url": "https://open.spotify.com/track/4ywdchqXzNiX5S8YqKzGtA"
     },
     {
       "added_at": "2023-08-31 21:00:00",
@@ -687,26 +707,6 @@
     {
       "added_at": "2023-08-31 21:00:00",
       "album": {
-        "name": "Made In Turkey",
-        "url": "https://open.spotify.com/album/6YAnmcTG1SWdNCGpuLdCUM"
-      },
-      "artists": [
-        {
-          "name": "Murda",
-          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
-        },
-        {
-          "name": "Ezhel",
-          "url": "https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL"
-        }
-      ],
-      "duration_ms": 196583,
-      "name": "AYA",
-      "url": "https://open.spotify.com/track/4ywdchqXzNiX5S8YqKzGtA"
-    },
-    {
-      "added_at": "2023-08-31 21:00:00",
-      "album": {
         "name": "hat\u0131rla",
         "url": "https://open.spotify.com/album/1M2HlETIjJxogCYUFF7aZP"
       },
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-08-31 21:00:00",
       "album": {
-        "name": "Yast\u0131k \u0130zi",
-        "url": "https://open.spotify.com/album/6BaXepPQ4GZUNK4vcQKFf6"
-      },
-      "artists": [
-        {
-          "name": "Kum",
-          "url": "https://open.spotify.com/artist/5SCxkbhdPRgE0BRLjODMxw"
-        }
-      ],
-      "duration_ms": 103269,
-      "name": "Yast\u0131k \u0130zi",
-      "url": "https://open.spotify.com/track/1HnuCWlMEJ4BPhwTNlOQuH"
-    },
-    {
-      "added_at": "2023-08-31 21:00:00",
-      "album": {
         "name": "P.O.P Mixtape pt.2",
         "url": "https://open.spotify.com/album/2Ffmd55esIgdPHxsXuFFc3"
       },
@@ -795,6 +779,26 @@
     {
       "added_at": "2023-08-31 21:00:00",
       "album": {
+        "name": "Imdat (feat. Hadise)",
+        "url": "https://open.spotify.com/album/0rcbaFAKT6ndumBjWnF3AD"
+      },
+      "artists": [
+        {
+          "name": "Murda",
+          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
+        },
+        {
+          "name": "Hadise",
+          "url": "https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49"
+        }
+      ],
+      "duration_ms": 194609,
+      "name": "Imdat (feat. Hadise)",
+      "url": "https://open.spotify.com/track/2hDRKm3BqOsEHaWIBm4u01"
+    },
+    {
+      "added_at": "2023-08-31 21:00:00",
+      "album": {
         "name": "madem",
         "url": "https://open.spotify.com/album/4x3Dh4nslFQiRhaXLk7RwU"
       },
@@ -807,6 +811,22 @@
       "duration_ms": 142373,
       "name": "madem",
       "url": "https://open.spotify.com/track/19vwY9lOzPwNFHnHtXmCiU"
+    },
+    {
+      "added_at": "2023-08-31 21:00:00",
+      "album": {
+        "name": "Yast\u0131k \u0130zi",
+        "url": "https://open.spotify.com/album/6BaXepPQ4GZUNK4vcQKFf6"
+      },
+      "artists": [
+        {
+          "name": "Kum",
+          "url": "https://open.spotify.com/artist/5SCxkbhdPRgE0BRLjODMxw"
+        }
+      ],
+      "duration_ms": 103269,
+      "name": "Yast\u0131k \u0130zi",
+      "url": "https://open.spotify.com/track/1HnuCWlMEJ4BPhwTNlOQuH"
     },
     {
       "added_at": "2023-08-31 21:00:00",
@@ -863,26 +883,6 @@
       "duration_ms": 139978,
       "name": "bu gece da\u011f\u0131t\u0131cam..",
       "url": "https://open.spotify.com/track/4hqipk4YpAV3tXlsZ3usQE"
-    },
-    {
-      "added_at": "2023-08-31 21:00:00",
-      "album": {
-        "name": "Imdat (feat. Hadise)",
-        "url": "https://open.spotify.com/album/0rcbaFAKT6ndumBjWnF3AD"
-      },
-      "artists": [
-        {
-          "name": "Murda",
-          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
-        },
-        {
-          "name": "Hadise",
-          "url": "https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49"
-        }
-      ],
-      "duration_ms": 194609,
-      "name": "Imdat (feat. Hadise)",
-      "url": "https://open.spotify.com/track/2hDRKm3BqOsEHaWIBm4u01"
     }
   ],
   "unique_name": "Yaz Ritmi",

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3pffHgMaYQp.md) - [plain]
 
 > Música para insubordinados\. Idles en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,677 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,678 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Waiting On A Twist Of Fate](https://open.spotify.com/track/5PCMU8scAoT4sz4Fn2Umua) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Waiting On A Twist Of Fate](https://open.spotify.com/album/5oK4d9R1CpF1jVdLaL4fj8) | 2:46 |
 | 2 | [Gift Horse](https://open.spotify.com/track/1OSRQMJKlpIjpy3UvP9KMu) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Gift Horse](https://open.spotify.com/album/2w0nLJDVilZhqTctLLem4j) | 4:09 |
-| 3 | [Desidia](https://open.spotify.com/track/2O0zsjezl4swNCAsDlYoLW) | [Los Miserables](https://open.spotify.com/artist/7EP6QHjz7FSJZBVjDuAmas) | [Rarezas](https://open.spotify.com/album/4lpXH5UdNhaHipQzq4bBGn) | 3:01 |
+| 3 | [Desidia](https://open.spotify.com/track/1hs8dU9bxn5I6UI6ybi9i8) | [Los Miserables](https://open.spotify.com/artist/7EP6QHjz7FSJZBVjDuAmas) | [Rarezas](https://open.spotify.com/album/2CqYIGEdBbHP6JukGsUHf4) | 3:01 |
 | 4 | [ANTHEM PART 3](https://open.spotify.com/track/2kjH4Q6WxvlpGnlgwmv4eG) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME...](https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd) | 3:33 |
 | 5 | [Arranque](https://open.spotify.com/track/0a4L1LjsBV3Xqxu93LYTtr) | [Here Comes The Kraken](https://open.spotify.com/artist/52Zn2uHVzdUXzLWl8D0uZa), [Pablo Holman](https://open.spotify.com/artist/4HYxULhjEDiN5hgUBi44L1) | [Arranque](https://open.spotify.com/album/1xoq2icxKxxwTm2V7rESFm) | 3:38 |
 | 6 | [Unos Besos](https://open.spotify.com/track/0BLRl7yVw2mmj6q8s3kgGH) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai) | [Unos Besos](https://open.spotify.com/album/4QHLKICzhPz1sxgWFxTJ1n) | 1:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3pffHgMaYQp.md) - [plain]
 | 99 | [Panteón](https://open.spotify.com/track/4stvgopAieFBf2zabV5BKf) | [The Froys](https://open.spotify.com/artist/3DrFw6l7rWBb8AbZ3B5zlc) | [Mala Vibra](https://open.spotify.com/album/0wX8llGdmubMvDSzuWMOJo) | 1:35 |
 | 100 | [Los Ojos](https://open.spotify.com/track/4JWeLmA9OIhKs7Mh965ibq) | [Islas](https://open.spotify.com/artist/0Ey9sUJ5fIAchqOFifarhX) | [Los Ojos](https://open.spotify.com/album/1NqcC1Kpu10I0uUuwpWRKm) | 2:42 |
 
-Snapshot ID: `MCxiZWRhY2MzZTEyMDcxNzYyZWJmMGMxMjIzOTA0ODhmMTRiN2QxOWRl`
+Snapshot ID: `MCw0YWMzNTg1MDQ3NmM3ODEwZTlkOTgyMDJjNmViODQ0MTU4ZTc3OWNj`

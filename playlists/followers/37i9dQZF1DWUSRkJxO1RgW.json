@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 287364,
+  "2024-02-25": 287430,
   "date_first_scraped": "2023-07-30",
   "description": "Canciones que marcaron la d\u00e9cada de los 80s en Argentina.",
   "name": "Los 80 Argentina",
@@ -323,7 +323,7 @@
       ],
       "date_added": "2020-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 219960,
       "name": "El Ritual De La Banana",
       "url": "https://open.spotify.com/track/1LeGL6sChxxaQbFhKknOcG"
@@ -1123,6 +1123,24 @@
       "duration_ms": 202506,
       "name": "Rezo Por Vos",
       "url": "https://open.spotify.com/track/46TZ5rawdrjoFwsQLGlcLr"
+    },
+    {
+      "album": {
+        "name": "1982-1987 - Himnos Del Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/0DGCwJASSVCD2lJGyu0t9w"
+      },
+      "artists": [
+        {
+          "name": "Los Abuelos De La Nada",
+          "url": "https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me"
+        }
+      ],
+      "date_added": "2020-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194954,
+      "name": "Sin Gamul\u00e1n",
+      "url": "https://open.spotify.com/track/3UrNJH307Ij2jarZxijcbc"
     },
     {
       "album": {

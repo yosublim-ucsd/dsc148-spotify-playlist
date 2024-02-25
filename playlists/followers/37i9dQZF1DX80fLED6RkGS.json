@@ -1,7 +1,7 @@
 {
-  "2024-02-24": 25359,
+  "2024-02-25": 25364,
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest Gengetone coming out of Kenya. Cover: <a href=\"https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap?si=8dd7iGMpSI2p1AsOuMGCyA\"> Savara</a> ",
+  "description": "Only the hottest Gengetone coming out of Kenya. Cover: <a href=\"https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX?si=0PWS_rFFRi6HtNejpfPnrw\"> Trio Mio</a> ",
   "name": "Gengetone Fire",
   "tracks": [
     {
@@ -1813,7 +1813,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 169038,
       "name": "Drop",
       "url": "https://open.spotify.com/track/5YWe5gsxJMOD22uY1bmjrL"
@@ -2115,6 +2115,32 @@
       "duration_ms": 231955,
       "name": "Fukuru",
       "url": "https://open.spotify.com/track/0g0EXBEerMRPEGIyRkZihw"
+    },
+    {
+      "album": {
+        "name": "G-Bag na Jug (G Baga Jat)",
+        "url": "https://open.spotify.com/album/6TfYmFwbPu7Y9fYjhpr7hS"
+      },
+      "artists": [
+        {
+          "name": "Gadafee",
+          "url": "https://open.spotify.com/artist/6zkAPf3HxH08uGsPYXJNhA"
+        },
+        {
+          "name": "Gotta City",
+          "url": "https://open.spotify.com/artist/6uPlkNICvvDwGnae8q35xT"
+        },
+        {
+          "name": "Stoopid Boy",
+          "url": "https://open.spotify.com/artist/3GbGHsvWi0nry9jMhIeGDy"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187308,
+      "name": "G-Bag na Jug (G Baga Jat)",
+      "url": "https://open.spotify.com/track/7pU4jlEMoOmLfNH1pP48PO"
     },
     {
       "album": {
@@ -2733,7 +2759,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 196129,
       "name": "Kanashikia Wapi",
       "url": "https://open.spotify.com/track/2zBh5l14db5LdrB5mxNVSp"
@@ -3269,6 +3295,28 @@
       "duration_ms": 203265,
       "name": "Kitendawili",
       "url": "https://open.spotify.com/track/6p9AHIYBeCgxJPKj4h1ew1"
+    },
+    {
+      "album": {
+        "name": "Kitu Mature",
+        "url": "https://open.spotify.com/album/4vkjyzZYQK8mlqu7l5wSNx"
+      },
+      "artists": [
+        {
+          "name": "Trio Mio",
+          "url": "https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX"
+        },
+        {
+          "name": "Swat Matire",
+          "url": "https://open.spotify.com/artist/3xt7rgzSvLtQeWJIQHFqlV"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "Kitu Mature",
+      "url": "https://open.spotify.com/track/0FR0LXiwgRGn65ELqU81HX"
     },
     {
       "album": {
@@ -5972,6 +6020,36 @@
     },
     {
       "album": {
+        "name": "Sekete",
+        "url": "https://open.spotify.com/album/4aS6CQftZqOE1TrZtUjUny"
+      },
+      "artists": [
+        {
+          "name": "Joefes",
+          "url": "https://open.spotify.com/artist/6ZgN5sC0MG0xE7VBkxC318"
+        },
+        {
+          "name": "Fathermoh",
+          "url": "https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA"
+        },
+        {
+          "name": "Iphoolish",
+          "url": "https://open.spotify.com/artist/4vgL7NjTcEXAmObSdo5nmp"
+        },
+        {
+          "name": "Harry Craze",
+          "url": "https://open.spotify.com/artist/2lf45VLBUxoX6W9CE718cp"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217952,
+      "name": "Sekete",
+      "url": "https://open.spotify.com/track/7ewht8ClVfHEwZTX53OHj9"
+    },
+    {
+      "album": {
         "name": "Best Of Black Market Afrika",
         "url": "https://open.spotify.com/album/1DBoZY0u7JnTzIvUu1ZZ5h"
       },
@@ -6551,7 +6629,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 173402,
       "name": "Soko Ni Chafu",
       "url": "https://open.spotify.com/track/4aX0YxzDQPrhKNrlHE0NSV"

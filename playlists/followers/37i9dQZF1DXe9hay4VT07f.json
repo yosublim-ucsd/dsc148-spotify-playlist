@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 430238,
+  "2024-02-25": 430337,
   "date_first_scraped": "2021-12-29",
   "description": "We outside. Cover: Valiant",
   "name": "Dancehall Party",
@@ -205,6 +205,28 @@
       "duration_ms": 217200,
       "name": "Bandulu",
       "url": "https://open.spotify.com/track/76XjWFzTV3kmLzSnO5j13x"
+    },
+    {
+      "album": {
+        "name": "Welcome to Jamrock",
+        "url": "https://open.spotify.com/album/4Y0PrDckfFKxKaVXsscDLB"
+      },
+      "artists": [
+        {
+          "name": "Damian Marley",
+          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
+        },
+        {
+          "name": "Bobby Brown",
+          "url": "https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287786,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/5tLDX5Z50VZAvga5695enB"
     },
     {
       "album": {
@@ -4697,7 +4719,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 172174,
       "name": "Throat",
       "url": "https://open.spotify.com/track/4LGDRn6E199hReOZGF5Exw"

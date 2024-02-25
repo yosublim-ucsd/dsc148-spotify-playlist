@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 52,
+  "2024-02-25": 52,
   "date_first_scraped": "2024-01-03",
   "description": "This is Qlank. The essential tracks, all in one playlist.",
   "name": "This Is Qlank",
@@ -79,7 +79,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 215625,
       "name": "All Night",
       "url": "https://open.spotify.com/track/2xG03uf9J5pevBAviqxRjk"
@@ -465,7 +465,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-23",
+      "date_removed": null,
       "duration_ms": 163200,
       "name": "Find Away",
       "url": "https://open.spotify.com/track/45GUKSyfsmue7hTzNq9Dfp"
@@ -519,7 +519,7 @@
       ],
       "date_added": "2024-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 247741,
       "name": "Fun",
       "url": "https://open.spotify.com/track/4VmfbjrplnW6qK1cmmHFGN"
@@ -843,7 +843,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 220645,
       "name": "Lost",
       "url": "https://open.spotify.com/track/521c3uJHm5aaqRhWcairlf"
@@ -1216,6 +1216,28 @@
     },
     {
       "album": {
+        "name": "What Do You Want",
+        "url": "https://open.spotify.com/album/4QAe5aqE5D2Aq2PWLF6kbV"
+      },
+      "artists": [
+        {
+          "name": "Qlank",
+          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
+        },
+        {
+          "name": "DirtyFun",
+          "url": "https://open.spotify.com/artist/34COAQQm9sxxuIiNYyIClG"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206557,
+      "name": "What Do You Want",
+      "url": "https://open.spotify.com/track/1hlvdQsSjseGv329xcH1ua"
+    },
+    {
+      "album": {
         "name": "Machine EP",
         "url": "https://open.spotify.com/album/3GphtxLMyfK9FDcxoh8c53"
       },
@@ -1267,7 +1289,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-23",
+      "date_removed": null,
       "duration_ms": 245760,
       "name": "XTC",
       "url": "https://open.spotify.com/track/7EhWwj8p9Onker9p9R2bHI"

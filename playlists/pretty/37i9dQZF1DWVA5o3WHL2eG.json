@@ -1,12 +1,12 @@
 {
   "description": "Women at full volume. Cover: ana\u00efs",
-  "num_followers": 33012,
+  "num_followers": 33015,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZmM1OWM0OTA5NzgxMmZmZjI1MmJmYmMxY2VmOTFlZmU0YjMzZWRl",
+  "snapshot_id": "MCwwYjdlZWNjMTcyZWZjZDNlMDk0MjgxNjdiYjVkODcwN2RkNWQyYzI5",
   "tracks": [
     {
       "added_at": "2024-02-14 00:00:00",
@@ -175,22 +175,6 @@
     {
       "added_at": "2024-02-14 00:00:00",
       "album": {
-        "name": "sie",
-        "url": "https://open.spotify.com/album/38kcgG8H98TRVAh7OVxe08"
-      },
-      "artists": [
-        {
-          "name": "Wilhelmine",
-          "url": "https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "sie",
-      "url": "https://open.spotify.com/track/6QqeFkSVC1e5sfdfY68mb5"
-    },
-    {
-      "added_at": "2024-02-14 00:00:00",
-      "album": {
         "name": "Mona Lisa",
         "url": "https://open.spotify.com/album/5nezFJN0Mh1ryvFJwPKwB5"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 178723,
       "name": "Mona Lisa",
       "url": "https://open.spotify.com/track/2KXwBWZVVDM6NhxY1oGFzr"
+    },
+    {
+      "added_at": "2024-02-14 00:00:00",
+      "album": {
+        "name": "sie",
+        "url": "https://open.spotify.com/album/38kcgG8H98TRVAh7OVxe08"
+      },
+      "artists": [
+        {
+          "name": "Wilhelmine",
+          "url": "https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "sie",
+      "url": "https://open.spotify.com/track/6QqeFkSVC1e5sfdfY68mb5"
     },
     {
       "added_at": "2024-02-14 00:00:00",
@@ -295,6 +295,22 @@
     {
       "added_at": "2024-02-14 00:00:00",
       "album": {
+        "name": "Mit Dir",
+        "url": "https://open.spotify.com/album/4yzMntUkyuX8gYyWFlNMLO"
+      },
+      "artists": [
+        {
+          "name": "MOLLY SUE",
+          "url": "https://open.spotify.com/artist/1UmeDUPF1A9xnmyzE8O2fA"
+        }
+      ],
+      "duration_ms": 145840,
+      "name": "Mit Dir",
+      "url": "https://open.spotify.com/track/0mcsqmNDZrdOPUvVnwpo9h"
+    },
+    {
+      "added_at": "2024-02-14 00:00:00",
+      "album": {
         "name": "Kaiserschnitt",
         "url": "https://open.spotify.com/album/2qJEwShgYaABgzEj9djsXH"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 190560,
       "name": "Kaiserschnitt (feat. Ava Ion)",
       "url": "https://open.spotify.com/track/4piBK9ccPo1wo7tWM4KTJX"
-    },
-    {
-      "added_at": "2024-02-14 00:00:00",
-      "album": {
-        "name": "Mit Dir",
-        "url": "https://open.spotify.com/album/4yzMntUkyuX8gYyWFlNMLO"
-      },
-      "artists": [
-        {
-          "name": "MOLLY SUE",
-          "url": "https://open.spotify.com/artist/1UmeDUPF1A9xnmyzE8O2fA"
-        }
-      ],
-      "duration_ms": 145840,
-      "name": "Mit Dir",
-      "url": "https://open.spotify.com/track/0mcsqmNDZrdOPUvVnwpo9h"
     },
     {
       "added_at": "2024-02-14 00:00:00",
@@ -467,22 +467,6 @@
     {
       "added_at": "2024-02-14 00:00:00",
       "album": {
-        "name": "boys who go to therapy",
-        "url": "https://open.spotify.com/album/75HEenlcKpG2InZ4s7DZxq"
-      },
-      "artists": [
-        {
-          "name": "PENNY X",
-          "url": "https://open.spotify.com/artist/1mZDFbH4t9JsKKvbBXf4fi"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "boys who go to therapy",
-      "url": "https://open.spotify.com/track/75O7pRqTSETi5Ryb2XJ1IG"
-    },
-    {
-      "added_at": "2024-02-14 00:00:00",
-      "album": {
         "name": "nicht mal nihilist",
         "url": "https://open.spotify.com/album/2XaCEABalhmbNnjjoc3m3J"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 227078,
       "name": "nicht mal nihilist",
       "url": "https://open.spotify.com/track/7r8cLxIuHH5unKxrCjrgOC"
+    },
+    {
+      "added_at": "2024-02-14 00:00:00",
+      "album": {
+        "name": "boys who go to therapy",
+        "url": "https://open.spotify.com/album/75HEenlcKpG2InZ4s7DZxq"
+      },
+      "artists": [
+        {
+          "name": "PENNY X",
+          "url": "https://open.spotify.com/artist/1mZDFbH4t9JsKKvbBXf4fi"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "boys who go to therapy",
+      "url": "https://open.spotify.com/track/75O7pRqTSETi5Ryb2XJ1IG"
     },
     {
       "added_at": "2024-02-14 00:00:00",
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-02-14 00:00:00",
       "album": {
-        "name": "deplatziert",
-        "url": "https://open.spotify.com/album/7dHyTpo3DhRwRnX3O98Mti"
-      },
-      "artists": [
-        {
-          "name": "ameliy",
-          "url": "https://open.spotify.com/artist/3T4fIhGxnUtCJ84Us8H8Gj"
-        }
-      ],
-      "duration_ms": 170920,
-      "name": "deplatziert",
-      "url": "https://open.spotify.com/track/3RydWx9dRmRJmvrEBoCAJK"
-    },
-    {
-      "added_at": "2024-02-14 00:00:00",
-      "album": {
         "name": "AMY WINEHOUZE",
         "url": "https://open.spotify.com/album/4cDjx3jrT1FVnnZdilXq9n"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 156147,
       "name": "Gangster tanzen nicht",
       "url": "https://open.spotify.com/track/2yMOo8J6FpUZzfuSi0kTSu"
+    },
+    {
+      "added_at": "2024-02-14 00:00:00",
+      "album": {
+        "name": "deplatziert",
+        "url": "https://open.spotify.com/album/7dHyTpo3DhRwRnX3O98Mti"
+      },
+      "artists": [
+        {
+          "name": "ameliy",
+          "url": "https://open.spotify.com/artist/3T4fIhGxnUtCJ84Us8H8Gj"
+        }
+      ],
+      "duration_ms": 170920,
+      "name": "deplatziert",
+      "url": "https://open.spotify.com/track/3RydWx9dRmRJmvrEBoCAJK"
     },
     {
       "added_at": "2024-02-14 00:00:00",

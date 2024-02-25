@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 70836,
+  "2024-02-25": 70836,
   "date_first_scraped": "2022-04-16",
   "description": "Your daily update of the most viral tracks right now - Chile.",
   "name": "Viral 50 - Chile",
@@ -6265,7 +6265,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-21",
+      "date_removed": null,
       "duration_ms": 126481,
       "name": "CLEARED - Remix",
       "url": "https://open.spotify.com/track/54L7uacUGRkvoLokUlNWfH"
@@ -10169,7 +10169,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 93205,
       "name": "Envidia",
       "url": "https://open.spotify.com/track/1yRKuzREhM129Cz5tlVfwP"
@@ -10921,7 +10921,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 186015,
       "name": "Fantas\u00eda",
       "url": "https://open.spotify.com/track/0fgSjEdxn4kjS8yxPTGWpA"
@@ -13891,7 +13891,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-21",
+      "date_removed": null,
       "duration_ms": 157485,
       "name": "Home",
       "url": "https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK"
@@ -18912,7 +18912,7 @@
         },
         {
           "name": "Galee Galee",
-          "url": "https://open.spotify.com/artist/0x5lhIYknBUEozHuXjkwUs"
+          "url": "https://open.spotify.com/artist/3UXUsOJ0kFR4RpyMrbtUx9"
         }
       ],
       "date_added": "2024-02-20",
@@ -24775,7 +24775,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-21",
+      "date_removed": null,
       "duration_ms": 178163,
       "name": "Pe\u00f1alolen Cuna de Ladrones",
       "url": "https://open.spotify.com/track/0ex09B5au6UHlujRSjAolE"
@@ -28295,7 +28295,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 181591,
       "name": "Se\u00f1orita - Remix",
       "url": "https://open.spotify.com/track/4PNsksRyLbWu1t13GBfemH"
@@ -31749,10 +31749,28 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 192941,
       "name": "Top",
       "url": "https://open.spotify.com/track/3EIyxuqIuE3tsbvXJPY1DQ"
+    },
+    {
+      "album": {
+        "name": "Top",
+        "url": "https://open.spotify.com/album/2cFIAMq6mjfBAsA2G5LkEM"
+      },
+      "artists": [
+        {
+          "name": "Nvscvr",
+          "url": "https://open.spotify.com/artist/2YB75f3AI0PqcfW4kQ4kIz"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192941,
+      "name": "Top",
+      "url": "https://open.spotify.com/track/3GHpmP8LQqxICIhFpOTHT5"
     },
     {
       "album": {
@@ -32172,7 +32190,7 @@
         },
         {
           "name": "Galee Galee",
-          "url": "https://open.spotify.com/artist/0x5lhIYknBUEozHuXjkwUs"
+          "url": "https://open.spotify.com/artist/3UXUsOJ0kFR4RpyMrbtUx9"
         }
       ],
       "date_added": "2024-02-20",

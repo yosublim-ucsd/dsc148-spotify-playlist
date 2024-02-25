@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 195701,
+  "2024-02-25": 195700,
   "date_first_scraped": "2021-12-21",
   "description": "En samling av de b\u00e4sta svenska l\u00e5tarna just nu.",
   "name": "Made in Sweden",
@@ -5746,6 +5746,24 @@
     },
     {
       "album": {
+        "name": "F\u00f6r Dig",
+        "url": "https://open.spotify.com/album/4MY82UcP4z4ozZqfMRCaSy"
+      },
+      "artists": [
+        {
+          "name": "Klaudy",
+          "url": "https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155066,
+      "name": "F\u00f6rl\u00e5t",
+      "url": "https://open.spotify.com/track/09MtdO7ijFjuJR2SPzHYch"
+    },
+    {
+      "album": {
         "name": "Jocelyn",
         "url": "https://open.spotify.com/album/3zS6gnCt8Ksp3zF48waeCJ"
       },
@@ -5757,7 +5775,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 155066,
       "name": "F\u00f6rl\u00e5t",
       "url": "https://open.spotify.com/track/3nl7ZG7o931x99SvWIk3oZ"

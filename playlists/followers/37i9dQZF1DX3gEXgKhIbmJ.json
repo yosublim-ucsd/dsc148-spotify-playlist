@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 11460,
+  "2024-02-25": 11469,
   "date_first_scraped": "2023-09-18",
   "description": "pra entrar e ficar na onda",
   "name": "Jersey BR",
@@ -2255,6 +2255,24 @@
       "duration_ms": 156812,
       "name": "PUFFER",
       "url": "https://open.spotify.com/track/7KhdkN22ZBdIPcjqad9jnz"
+    },
+    {
+      "album": {
+        "name": "Proibido Estacionar, Vol. 2 - Live Set",
+        "url": "https://open.spotify.com/album/3dNyEVY0LHKpG6voegof2I"
+      },
+      "artists": [
+        {
+          "name": "ruadois",
+          "url": "https://open.spotify.com/artist/1T5hg3seEG39VKTHICTft5"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157250,
+      "name": "Quebra",
+      "url": "https://open.spotify.com/track/6vUdkL5RJnozINC7JBl8M3"
     },
     {
       "album": {

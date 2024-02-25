@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Residente
 
-[Spotify](https://open.spotify.com/user/spotify) - 584,196 likes - 52 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 584,237 likes - 52 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 51 | [PALOMINO](https://open.spotify.com/track/3cqhuqp6N9D3XoAsL0kCC4) | [MAGNA](https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF) | [PALOMINO](https://open.spotify.com/album/4UElHgLdeGzNnv9d55NYRZ) | 2:21 |
 | 52 | [alchémie](https://open.spotify.com/track/23Wf7ZJr7O9YX9AICeFwh7) | [tulengua](https://open.spotify.com/artist/2rXUN5oxetpexWoqyMYUhu) | [alchémie](https://open.spotify.com/album/5KFnis2HI8oA5MScaiFMYj) | 3:50 |
 
-Snapshot ID: `MCxmODg4ZjBhYmZmYmZiMDEzMDc3YjBiNTA3NDkwZmZlZWQ2YWE5YzM3`
+Snapshot ID: `MCxiMjBkNjk5YThkZWI1Y2JkYjk0MmVjM2U5ZWM0OWFmYmNjNTM2NzZh`

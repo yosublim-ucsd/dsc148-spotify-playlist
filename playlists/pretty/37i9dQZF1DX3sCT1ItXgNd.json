@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: Ti\u00ebsto, Karol G",
-  "num_followers": 973260,
+  "num_followers": 973273,
   "original_name": "Pop con \u00d1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZjFiOGNiODI0NTdjODIzZTU5MWFiODdlODI5ZTY4ZjdkNjAwMzM2",
+  "snapshot_id": "MCw2NDUwZjVhYTQxOWNkOWRiZjdkMTQ5MmYyNTVlN2VhNTE3NTNhN2Nj",
   "tracks": [
     {
       "added_at": "2024-02-19 11:24:23",
@@ -383,26 +383,6 @@
     {
       "added_at": "2024-02-19 11:24:23",
       "album": {
-        "name": "SUPERH\u00c9ROES",
-        "url": "https://open.spotify.com/album/5GbT5hePpbTYqlx61G7ggt"
-      },
-      "artists": [
-        {
-          "name": "Beret",
-          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
-        },
-        {
-          "name": "Mr.Rain",
-          "url": "https://open.spotify.com/artist/59MLbXG0jLVwJup3KAd6m1"
-        }
-      ],
-      "duration_ms": 200294,
-      "name": "SUPERH\u00c9ROES",
-      "url": "https://open.spotify.com/track/3qMpbW78QlPZM2bEdtD1YD"
-    },
-    {
-      "added_at": "2024-02-19 11:24:23",
-      "album": {
         "name": "Morfina (feat. Paloma Mami)",
         "url": "https://open.spotify.com/album/4ebIgeih3hq832lPORpKtp"
       },
@@ -419,6 +399,26 @@
       "duration_ms": 229474,
       "name": "Morfina (feat. Paloma Mami)",
       "url": "https://open.spotify.com/track/4PFTO7EacpZMyuTa5dZGml"
+    },
+    {
+      "added_at": "2024-02-19 11:24:23",
+      "album": {
+        "name": "SUPERH\u00c9ROES",
+        "url": "https://open.spotify.com/album/5GbT5hePpbTYqlx61G7ggt"
+      },
+      "artists": [
+        {
+          "name": "Beret",
+          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
+        },
+        {
+          "name": "Mr.Rain",
+          "url": "https://open.spotify.com/artist/59MLbXG0jLVwJup3KAd6m1"
+        }
+      ],
+      "duration_ms": 200294,
+      "name": "SUPERH\u00c9ROES",
+      "url": "https://open.spotify.com/track/3qMpbW78QlPZM2bEdtD1YD"
     },
     {
       "added_at": "2024-02-19 11:24:23",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-02-19 11:24:23",
       "album": {
-        "name": "Astronauta",
-        "url": "https://open.spotify.com/album/5gHA0EkrBT7yANOSd9AFL6"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9rica",
-          "url": "https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo"
-        }
-      ],
-      "duration_ms": 169894,
-      "name": "Astronauta",
-      "url": "https://open.spotify.com/track/1J59EJh3hbGZDJD7KfONLz"
-    },
-    {
-      "added_at": "2024-02-19 11:24:23",
-      "album": {
         "name": "PALANTE",
         "url": "https://open.spotify.com/album/0Ts13cnp7kgWyaSfemKGkA"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 156586,
       "name": "BLACK OPIUM",
       "url": "https://open.spotify.com/track/09778gErBvUNDu4hCBiwPX"
+    },
+    {
+      "added_at": "2024-02-19 11:24:23",
+      "album": {
+        "name": "Astronauta",
+        "url": "https://open.spotify.com/album/5gHA0EkrBT7yANOSd9AFL6"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9rica",
+          "url": "https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo"
+        }
+      ],
+      "duration_ms": 169894,
+      "name": "Astronauta",
+      "url": "https://open.spotify.com/track/1J59EJh3hbGZDJD7KfONLz"
     },
     {
       "added_at": "2024-02-19 11:24:23",

@@ -4,7 +4,7 @@
 
 > Música para insubordinados\. Idles en portada.
 
-151 songs - 8 hr 6 min
+152 songs - 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [Danza de Sol](https://open.spotify.com/track/2IHswTTnpUppvV8jn7PHqH) | [Los Cogelones](https://open.spotify.com/artist/0E6wzL7Jdd5XiLjadvcpKS) | [Hijos del Sol](https://open.spotify.com/album/0syY8WEuVTi39vVHfrCbjq) | 3:10 | 2022-03-25 | 2023-04-29 |
 | [Danza de Sol](https://open.spotify.com/track/52pIvwmblgM5ZC34WQsmVW) | [Los Cogelones](https://open.spotify.com/artist/0E6wzL7Jdd5XiLjadvcpKS) | [Hijos del Sol](https://open.spotify.com/album/2eWUzFnTmSu12e9N88TJ9y) | 3:10 | 2022-03-25 |  |
 | [Desde Afuera](https://open.spotify.com/track/2S40OvSsD1hEK1tsuFz4CS) | [El Shirota](https://open.spotify.com/artist/2rxqnbRXqBvxVHqArr6fGk) | [Ni siquiera estamos listos para hablar](https://open.spotify.com/album/2g0CeaYZjdCRcRyG6dxCJH) | 2:16 | 2023-05-19 |  |
-| [Desidia](https://open.spotify.com/track/2O0zsjezl4swNCAsDlYoLW) | [Los Miserables](https://open.spotify.com/artist/7EP6QHjz7FSJZBVjDuAmas) | [Rarezas](https://open.spotify.com/album/4lpXH5UdNhaHipQzq4bBGn) | 3:01 | 2024-02-23 |  |
+| [Desidia](https://open.spotify.com/track/1hs8dU9bxn5I6UI6ybi9i8) | [Los Miserables](https://open.spotify.com/artist/7EP6QHjz7FSJZBVjDuAmas) | [Rarezas](https://open.spotify.com/album/2CqYIGEdBbHP6JukGsUHf4) | 3:01 | 2024-02-23 |  |
+| [Desidia](https://open.spotify.com/track/2O0zsjezl4swNCAsDlYoLW) | [Los Miserables](https://open.spotify.com/artist/7EP6QHjz7FSJZBVjDuAmas) | [Rarezas](https://open.spotify.com/album/4lpXH5UdNhaHipQzq4bBGn) | 3:01 | 2024-02-23 | 2024-02-25 |
 | [Donde Está el Placer](https://open.spotify.com/track/4Y40q8tySl0cDdphb3aiYG) | [The Americojones Experience](https://open.spotify.com/artist/5nxmzG12WW5he5vDgnyQLf) | [Animal del Demonio](https://open.spotify.com/album/5JtQUYDabva1wB8OrNOmbs) | 3:52 | 2022-03-25 | 2023-06-23 |
 | [Drama Club Romance](https://open.spotify.com/track/6UMz6z1yx5QRTQBxwRVS6V) | [Audio Karate](https://open.spotify.com/artist/0ElZSmC6H83GFXBUgTOOB1) | [Punk Rock Is Your Friend: Kung Fu Records Sampler, No\. 4](https://open.spotify.com/album/2QKEXCH66P9RKBTvA6SAec) | 2:54 | 2023-09-23 |  |
 | [Dron](https://open.spotify.com/track/4OVH5QRHEtL2j4bo0ATrjM) | [San Pedro el Cortez](https://open.spotify.com/artist/4qMybSJtpFeNmHYfJ1rXkl) | [Un Poco Más de Luz](https://open.spotify.com/album/1W2MjZPeWiwn5AZw3OPyKL) | 4:33 | 2022-03-25 |  |

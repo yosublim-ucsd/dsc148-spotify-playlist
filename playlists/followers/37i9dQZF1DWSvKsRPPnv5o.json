@@ -1,7 +1,7 @@
 {
-  "2024-02-24": 724811,
+  "2024-02-25": 724858,
   "date_first_scraped": "2021-12-21",
-  "description": "Holdin' it down for the westside. Cover: Tyga",
+  "description": "Holdin' it down for the westside. Cover: Ty Dolla $ign",
   "name": "Westside Story",
   "tracks": [
     {
@@ -367,6 +367,32 @@
       "duration_ms": 135529,
       "name": "4Lifers",
       "url": "https://open.spotify.com/track/3FYPMqQbbOZ1WzCztLeLBp"
+    },
+    {
+      "album": {
+        "name": "nights and weekends",
+        "url": "https://open.spotify.com/album/39jNh5MndiuFTNjDjuWnDQ"
+      },
+      "artists": [
+        {
+          "name": "310babii",
+          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
+        },
+        {
+          "name": "Duke Deuce",
+          "url": "https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW"
+        },
+        {
+          "name": "DDG",
+          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157107,
+      "name": "5 seater",
+      "url": "https://open.spotify.com/track/4sPrKPhOFAugXVoGjAoBy6"
     },
     {
       "album": {
@@ -1317,7 +1343,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 146285,
       "name": "Bad Habit",
       "url": "https://open.spotify.com/track/029WlDmdzpAOk50tDXb6LR"
@@ -3813,7 +3839,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 144008,
       "name": "Dun Du Dun",
       "url": "https://open.spotify.com/track/4kYT9sQ2xv4IkiqJVqHPIV"
@@ -5136,6 +5162,32 @@
     },
     {
       "album": {
+        "name": "Gangsta",
+        "url": "https://open.spotify.com/album/1qz3r9Ys5UXaE0XToUU71b"
+      },
+      "artists": [
+        {
+          "name": "Free Nationals",
+          "url": "https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194520,
+      "name": "Gangsta",
+      "url": "https://open.spotify.com/track/49oKnEjgRSs3DMXScEU2G1"
+    },
+    {
+      "album": {
         "name": "Gangsta Boogie",
         "url": "https://open.spotify.com/album/0MVmaI88e3V5OdfQ29FeTi"
       },
@@ -5701,7 +5753,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 151709,
       "name": "Groupies",
       "url": "https://open.spotify.com/track/2bne21mDet36kxTZctUuOn"
@@ -6092,6 +6144,28 @@
     },
     {
       "album": {
+        "name": "The Bitch Tape",
+        "url": "https://open.spotify.com/album/4Qw9EzjCe2qK1VIYOfAXix"
+      },
+      "artists": [
+        {
+          "name": "RJMrLA",
+          "url": "https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158906,
+      "name": "High Value (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/7GrSsLy5jgpgkhABBQ1VoB"
+    },
+    {
+      "album": {
         "name": "Rule of Thumb: Rule 1",
         "url": "https://open.spotify.com/album/2wozTc5rLDVTI8wl0nh5fk"
       },
@@ -6213,7 +6287,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 133625,
       "name": "Hoedown (with Zoe Osama)",
       "url": "https://open.spotify.com/track/5y8AkgjrtsCspzzAjxqIJ3"
@@ -7079,7 +7153,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 157200,
       "name": "Just A Fuck (Funds)",
       "url": "https://open.spotify.com/track/2jSLFFloIAHFyqAgp1RRl0"
@@ -7760,6 +7834,24 @@
     },
     {
       "album": {
+        "name": "nights and weekends",
+        "url": "https://open.spotify.com/album/39jNh5MndiuFTNjDjuWnDQ"
+      },
+      "artists": [
+        {
+          "name": "310babii",
+          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116363,
+      "name": "like bow",
+      "url": "https://open.spotify.com/track/49jpdovhmgQGrBUjQqLwLy"
+    },
+    {
+      "album": {
         "name": "Like Dat",
         "url": "https://open.spotify.com/album/12HPKBvQUIpg0c3BfQaeCs"
       },
@@ -7797,7 +7889,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 173496,
       "name": "Like Me (feat. Mozzy)",
       "url": "https://open.spotify.com/track/4wN9nSOyk6tapK8fPXh39M"
@@ -9478,6 +9570,28 @@
     },
     {
       "album": {
+        "name": "nights and weekends",
+        "url": "https://open.spotify.com/album/39jNh5MndiuFTNjDjuWnDQ"
+      },
+      "artists": [
+        {
+          "name": "310babii",
+          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
+        },
+        {
+          "name": "03 Greedo",
+          "url": "https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138947,
+      "name": "no option",
+      "url": "https://open.spotify.com/track/1Y03y1O9k3AsG3lzdNiXoy"
+    },
+    {
+      "album": {
         "name": "Rather Rich Than Famous",
         "url": "https://open.spotify.com/album/5wWe32f1KoNkpYebMtqp3l"
       },
@@ -9563,6 +9677,28 @@
       "duration_ms": 204437,
       "name": "NONCHALANT (feat. Mamii)",
       "url": "https://open.spotify.com/track/2mz9mssxUxuUdBBiMWXdIF"
+    },
+    {
+      "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/4p3wVTiSb4TAaC1M3oxGyo"
+      },
+      "artists": [
+        {
+          "name": "Casey Veggies",
+          "url": "https://open.spotify.com/artist/0uFc6StTmJBvdHPZFDkdJy"
+        },
+        {
+          "name": "Dylvinci",
+          "url": "https://open.spotify.com/artist/28dzsbHhnbwJIB6cVmfvAS"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103783,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/3NFUXAwuvn8ojSp8HI9DBd"
     },
     {
       "album": {
@@ -10235,7 +10371,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 114059,
       "name": "Outside (Oouu Wahh) [feat. Chikoruss]",
       "url": "https://open.spotify.com/track/2fstmgxqa6LGyFuJZPolSc"
@@ -10569,6 +10705,32 @@
       "duration_ms": 106847,
       "name": "Picasso",
       "url": "https://open.spotify.com/track/43t69WNj30qqc2XDryeLAj"
+    },
+    {
+      "album": {
+        "name": "Pieces",
+        "url": "https://open.spotify.com/album/7pNwVpig0PHEa0K5tNYZgS"
+      },
+      "artists": [
+        {
+          "name": "Jay 305",
+          "url": "https://open.spotify.com/artist/2l2o6ibYa7h1w4HwaS1uZV"
+        },
+        {
+          "name": "Dom Kennedy",
+          "url": "https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt"
+        },
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181463,
+      "name": "Pieces",
+      "url": "https://open.spotify.com/track/6QtKtcA3XP94Yv4Y3IoGit"
     },
     {
       "album": {
@@ -10924,6 +11086,28 @@
     },
     {
       "album": {
+        "name": "Problems (feat. Pusha T)",
+        "url": "https://open.spotify.com/album/4cM7zQFczDyOJSNIr97e1j"
+      },
+      "artists": [
+        {
+          "name": "Ray Vaughn",
+          "url": "https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg"
+        },
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245927,
+      "name": "Problems (feat. Pusha T) - Triangle Park Mix",
+      "url": "https://open.spotify.com/track/75AoC7T5bVnXweBDzDCkAJ"
+    },
+    {
+      "album": {
         "name": "C.I.T.Y.",
         "url": "https://open.spotify.com/album/3BpghLhPaXSD4g4mqopCZF"
       },
@@ -11223,6 +11407,24 @@
       "duration_ms": 181894,
       "name": "Rich On Grape Street",
       "url": "https://open.spotify.com/track/3F6sLMtMvTeTrREKH2Y1Od"
+    },
+    {
+      "album": {
+        "name": "Richtivities",
+        "url": "https://open.spotify.com/album/6YtEsHXxWjQLdNYIkRjFgB"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176401,
+      "name": "Richtivities",
+      "url": "https://open.spotify.com/track/78VmtCRovWdLIz3p0Tj7nb"
     },
     {
       "album": {
@@ -11591,7 +11793,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 96000,
       "name": "Scandalous",
       "url": "https://open.spotify.com/track/0BKdPde6doz2eTf7A8HACf"
@@ -12278,6 +12480,24 @@
     },
     {
       "album": {
+        "name": "The Bitch Tape",
+        "url": "https://open.spotify.com/album/4Qw9EzjCe2qK1VIYOfAXix"
+      },
+      "artists": [
+        {
+          "name": "RJMrLA",
+          "url": "https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162853,
+      "name": "Sponsor",
+      "url": "https://open.spotify.com/track/594ppo6O7TTzB84JQHEEjo"
+    },
+    {
+      "album": {
         "name": "Soakin Game",
         "url": "https://open.spotify.com/album/4nkOCaoK62y6u4dYdEXsix"
       },
@@ -12589,7 +12809,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 161111,
       "name": "stuck",
       "url": "https://open.spotify.com/track/2Yye2e8djUTiaSL33regqV"
@@ -13133,7 +13353,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 184620,
       "name": "That\u2019s Facts",
       "url": "https://open.spotify.com/track/3Vc66RkLDnpIRxZTeJLGhu"
@@ -13867,7 +14087,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 169142,
       "name": "Unleashed",
       "url": "https://open.spotify.com/track/6uSDN3irzlQnt2Bml59e1i"

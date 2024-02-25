@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 377808,
+  "2024-02-25": 378104,
   "date_first_scraped": "2022-04-20",
   "description": "The bass you need for riding low and high.",
   "name": "DOWN LOW",
@@ -802,6 +802,24 @@
     },
     {
       "album": {
+        "name": "Cursed Midnight (Radio Edit)",
+        "url": "https://open.spotify.com/album/1pLG8WdonN508rhKLfQyaa"
+      },
+      "artists": [
+        {
+          "name": "GLWKMOD",
+          "url": "https://open.spotify.com/artist/49WTsslK1g6frRdr895unr"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88308,
+      "name": "Cursed Midnight - Radio Edit",
+      "url": "https://open.spotify.com/track/0narfFv6R0EDNbwZecDtEQ"
+    },
+    {
+      "album": {
         "name": "DALE",
         "url": "https://open.spotify.com/album/2LvZxhfd1zJOIdl4iLRlgG"
       },
@@ -853,6 +871,32 @@
       "duration_ms": 151345,
       "name": "Deep End",
       "url": "https://open.spotify.com/track/1tIYXds5TOKk0Ixs8lsS8A"
+    },
+    {
+      "album": {
+        "name": "Destru\u00eddo (Sped Up)",
+        "url": "https://open.spotify.com/album/5Whjt2FXHYtCR8kZOBNHcD"
+      },
+      "artists": [
+        {
+          "name": "Fyex",
+          "url": "https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM"
+        },
+        {
+          "name": "CHXSE WAVE",
+          "url": "https://open.spotify.com/artist/6wmMB4J3qcm8KdKsjWXlWT"
+        },
+        {
+          "name": "Crazy Mano",
+          "url": "https://open.spotify.com/artist/6QwlKB1hO357wh5oNuuInl"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71274,
+      "name": "Destru\u00eddo - Sped Up",
+      "url": "https://open.spotify.com/track/1wCilNbefRGcVKapYltizB"
     },
     {
       "album": {
@@ -3295,7 +3339,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 169721,
       "name": "SAMURAI",
       "url": "https://open.spotify.com/track/0o04dCBHGlZwi816oogv6U"
@@ -3923,7 +3967,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 178002,
       "name": "Tricky Trippy",
       "url": "https://open.spotify.com/track/53vyJiceKFVk3WmoumZkJu"

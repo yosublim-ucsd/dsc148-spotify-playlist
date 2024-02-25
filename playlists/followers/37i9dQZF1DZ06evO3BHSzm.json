@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 200161,
+  "2024-02-25": 200202,
   "date_first_scraped": "2022-09-18",
   "description": "This is The Who. The essential tracks, all in one playlist.",
   "name": "This Is The Who",
@@ -701,7 +701,7 @@
       ],
       "date_added": "2022-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-22",
+      "date_removed": null,
       "duration_ms": 153546,
       "name": "Helpless Dancer",
       "url": "https://open.spotify.com/track/775kHBFQ3xnxGeRe0rOz7b"
@@ -1325,7 +1325,7 @@
       ],
       "date_added": "2022-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 301213,
       "name": "Sea And Sand",
       "url": "https://open.spotify.com/track/1mcxcbwbOhBAk3XUSf1KVE"
@@ -1469,7 +1469,7 @@
       ],
       "date_added": "2024-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-20",
+      "date_removed": null,
       "duration_ms": 202026,
       "name": "Summertime Blues - Live",
       "url": "https://open.spotify.com/track/1fBcUV1S7FdHcB8aSINFsB"
@@ -1541,7 +1541,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 268933,
       "name": "The Dirty Jobs",
       "url": "https://open.spotify.com/track/2JqIRmo5zyrneYYVG9XX5D"

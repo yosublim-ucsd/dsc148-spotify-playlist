@@ -1,12 +1,12 @@
 {
   "description": "Bounce to the Brick City sound. From New Jersey to the world. Cover: DJ Sliink",
-  "num_followers": 80133,
+  "num_followers": 80185,
   "original_name": "Jersey Club Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOGIzYmZhY2VlM2Y3ZmMwZjUzYWYxNTE4ODVkYzRlODU3ODcwMWUw",
+  "snapshot_id": "MCxlN2JjYWNmYTlmOTkwMjRmMmMwYjg2MTA4YjE1ZDYwODVmN2JkNTA4",
   "tracks": [
     {
       "added_at": "2024-02-23 05:00:00",
@@ -915,6 +915,30 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "Sounds Of A Menace (Jersey Club)",
+        "url": "https://open.spotify.com/album/1tKLBHhzAJRqC3sbkQWDXI"
+      },
+      "artists": [
+        {
+          "name": "Dj Darknite",
+          "url": "https://open.spotify.com/artist/6gk5MJg8y3axh8TMBGm1tg"
+        },
+        {
+          "name": "Groove The Producer",
+          "url": "https://open.spotify.com/artist/1pf3UIUqX0QObxx9sppHA1"
+        },
+        {
+          "name": "Mattknight",
+          "url": "https://open.spotify.com/artist/5nUQlno9F83ipUQtkuZMjT"
+        }
+      ],
+      "duration_ms": 145293,
+      "name": "Back Stabbers Jersey Club Mix",
+      "url": "https://open.spotify.com/track/2VWSMXsBe3gW6Ur4iNOpmp"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "Cupid, Pt. 2",
         "url": "https://open.spotify.com/album/3H43yex9wZwkwbTe8tp6nn"
       },
@@ -951,42 +975,34 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Sounds Of A Menace (Jersey Club)",
-        "url": "https://open.spotify.com/album/1tKLBHhzAJRqC3sbkQWDXI"
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/6YH27S9buQftksi0FRgh0f"
       },
       "artists": [
         {
-          "name": "Dj Darknite",
-          "url": "https://open.spotify.com/artist/6gk5MJg8y3axh8TMBGm1tg"
+          "name": "KiaBHN",
+          "url": "https://open.spotify.com/artist/6qEQN3nqhzCkT8tFvlmPLk"
         },
         {
-          "name": "Groove The Producer",
-          "url": "https://open.spotify.com/artist/1pf3UIUqX0QObxx9sppHA1"
+          "name": "Tony! Toni! Ton\u00e9!",
+          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
         },
         {
-          "name": "Mattknight",
-          "url": "https://open.spotify.com/artist/5nUQlno9F83ipUQtkuZMjT"
-        }
-      ],
-      "duration_ms": 145293,
-      "name": "Back Stabbers Jersey Club Mix",
-      "url": "https://open.spotify.com/track/2VWSMXsBe3gW6Ur4iNOpmp"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "WYN?",
-        "url": "https://open.spotify.com/album/56V8zJi2KpJT9rJ65HK2XE"
-      },
-      "artists": [
+          "name": "DJ BigO",
+          "url": "https://open.spotify.com/artist/2Cy1KpNWiTxaVCwDgz0jRD"
+        },
         {
-          "name": "2famousjayy",
-          "url": "https://open.spotify.com/artist/0yDwTqMPtBFHvqXxmMorSc"
+          "name": "Vivid The Producer",
+          "url": "https://open.spotify.com/artist/00NSEb3Siwey1RGnfGayah"
+        },
+        {
+          "name": "DJ Sliink",
+          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
         }
       ],
-      "duration_ms": 156560,
-      "name": "WYN?",
-      "url": "https://open.spotify.com/track/6n99GemuJTbOLteL66QpBa"
+      "duration_ms": 192949,
+      "name": "Jersey Anniversary",
+      "url": "https://open.spotify.com/track/4dNU2ZPVNFv5kDGee25DSU"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1027,34 +1043,18 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Gratitude",
-        "url": "https://open.spotify.com/album/6YH27S9buQftksi0FRgh0f"
+        "name": "WYN?",
+        "url": "https://open.spotify.com/album/56V8zJi2KpJT9rJ65HK2XE"
       },
       "artists": [
         {
-          "name": "KiaBHN",
-          "url": "https://open.spotify.com/artist/6qEQN3nqhzCkT8tFvlmPLk"
-        },
-        {
-          "name": "Tony! Toni! Ton\u00e9!",
-          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
-        },
-        {
-          "name": "DJ BigO",
-          "url": "https://open.spotify.com/artist/2Cy1KpNWiTxaVCwDgz0jRD"
-        },
-        {
-          "name": "Vivid The Producer",
-          "url": "https://open.spotify.com/artist/00NSEb3Siwey1RGnfGayah"
-        },
-        {
-          "name": "DJ Sliink",
-          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
+          "name": "2famousjayy",
+          "url": "https://open.spotify.com/artist/0yDwTqMPtBFHvqXxmMorSc"
         }
       ],
-      "duration_ms": 192949,
-      "name": "Jersey Anniversary",
-      "url": "https://open.spotify.com/track/4dNU2ZPVNFv5kDGee25DSU"
+      "duration_ms": 156560,
+      "name": "WYN?",
+      "url": "https://open.spotify.com/track/6n99GemuJTbOLteL66QpBa"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1303,30 +1303,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Self Esteem (feat. NLE Choppa) [DJ Smallz 732 Jersey Club Remix]",
-        "url": "https://open.spotify.com/album/465P41bUBc9FVsLIGWkToC"
-      },
-      "artists": [
-        {
-          "name": "Lambo4oe",
-          "url": "https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9"
-        },
-        {
-          "name": "DJ Smallz 732",
-          "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
-        },
-        {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
-        }
-      ],
-      "duration_ms": 89072,
-      "name": "Self Esteem (feat. NLE Choppa) - DJ Smallz 732 Jersey Club Remix",
-      "url": "https://open.spotify.com/track/45AiClrOnkqbGmQe5OEEUu"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Hatin' Ass Bitches Anthem",
         "url": "https://open.spotify.com/album/75l0Wfo3Y4SCb7jkk8Rn10"
       },
@@ -1351,6 +1327,30 @@
       "duration_ms": 116564,
       "name": "Hatin' Ass Bitches Anthem",
       "url": "https://open.spotify.com/track/31a8W1uih2MM9VDogfbbft"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Self Esteem (feat. NLE Choppa) [DJ Smallz 732 Jersey Club Remix]",
+        "url": "https://open.spotify.com/album/465P41bUBc9FVsLIGWkToC"
+      },
+      "artists": [
+        {
+          "name": "Lambo4oe",
+          "url": "https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9"
+        },
+        {
+          "name": "DJ Smallz 732",
+          "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
+        },
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "duration_ms": 89072,
+      "name": "Self Esteem (feat. NLE Choppa) - DJ Smallz 732 Jersey Club Remix",
+      "url": "https://open.spotify.com/track/45AiClrOnkqbGmQe5OEEUu"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1403,22 +1403,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Boo'd Up (Jersey Club)",
-        "url": "https://open.spotify.com/album/2bLhwd0GP1ok9qIrBlT6CV"
+        "name": "Under The Influence (Jersey Club)",
+        "url": "https://open.spotify.com/album/69Iuqg1vXXXUqu9u4JVxFp"
       },
       "artists": [
         {
-          "name": "DJ Bake",
-          "url": "https://open.spotify.com/artist/1pwvByMN5SdSJoj8gWXyZE"
+          "name": "Mvntana",
+          "url": "https://open.spotify.com/artist/2R1eaUL6px3ayM1FT776ki"
         },
         {
-          "name": "Kyle Edwards",
-          "url": "https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2"
+          "name": "DJ Taj",
+          "url": "https://open.spotify.com/artist/5TAqQamkiCMNUpBP3tLkVY"
         }
       ],
-      "duration_ms": 144065,
-      "name": "Boo'd Up (Jersey Club)",
-      "url": "https://open.spotify.com/track/1dZfpzXVhQetMDqEavVvoA"
+      "duration_ms": 139415,
+      "name": "Under The Influence (Jersey Club)",
+      "url": "https://open.spotify.com/track/7DX1v8xI9vPcEfFyIblqnv"
     }
   ],
   "unique_name": "Jersey Club Heat",

@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 807355,
+  "2024-02-25": 807618,
   "date_first_scraped": "2022-01-09",
   "description": "Si est\u00e1 pegao, est\u00e1 aqu\u00ed. Feat. Gonzy",
   "name": "PEGAO",
@@ -109,6 +109,28 @@
       "duration_ms": 208236,
       "name": "3 Am",
       "url": "https://open.spotify.com/track/1F205Nl2feOSYSztLNOJAL"
+    },
+    {
+      "album": {
+        "name": "38",
+        "url": "https://open.spotify.com/album/1JEMQtX0pAFIkO88vQe0Wb"
+      },
+      "artists": [
+        {
+          "name": "JC Reyes",
+          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
+        },
+        {
+          "name": "Biwan La Pauta",
+          "url": "https://open.spotify.com/artist/2gVPhMOFpW3p95EigvSJXI"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178965,
+      "name": "38",
+      "url": "https://open.spotify.com/track/2LqIOz2Etck4ihJLBRGE0d"
     },
     {
       "album": {
@@ -857,7 +879,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 205706,
       "name": "Bad Boy",
       "url": "https://open.spotify.com/track/2fgogq2XXlKMm9p6m3akHH"
@@ -3324,6 +3346,28 @@
     },
     {
       "album": {
+        "name": "EMPELOTICA",
+        "url": "https://open.spotify.com/album/1Cf5ZIMxdIYC60Cz7Q4GZg"
+      },
+      "artists": [
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190322,
+      "name": "EMPELOTICA",
+      "url": "https://open.spotify.com/track/0dKsNKiWmqkoz8YAUzfigC"
+    },
+    {
+      "album": {
         "name": "En Alta (Quevedo)",
         "url": "https://open.spotify.com/album/2GVUHI3j9T7FUHToqFulkv"
       },
@@ -5359,7 +5403,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 170322,
       "name": "LA \u00daLTIMA",
       "url": "https://open.spotify.com/track/2qHvD3r5qu4wuPpvq3CQKb"

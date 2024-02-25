@@ -4,7 +4,7 @@
 
 > New and trending hip\-hop from around the world\. Cover: Little Simz
 
-294 songs - 14 hr 31 min
+295 songs - 14 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,7 +160,8 @@
 | [LIFE SUCKS SO WE FUCK \(feat\. ZillaKami\)](https://open.spotify.com/track/3ykD76bDGfeLUaCiQ7GtJE) | [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO), [ZillaKami](https://open.spotify.com/artist/4G1zP5i0r57g1c1CxrPhfM) | [I HOPE YOU'RE HAPPY](https://open.spotify.com/album/4o38S5wL449A2Ny1iPbP6p) | 2:01 | 2024-01-12 |  |
 | [LIKE ICE SPICE](https://open.spotify.com/track/61iDSv1MgCsdo0zKXGxvCO) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Like Ice Spice / Bezos](https://open.spotify.com/album/6m8f7PHYHp3IlMOxdBNKvA) | 2:03 | 2023-11-29 |  |
 | [Love Me](https://open.spotify.com/track/6xEhOHp64vTs0cLSrD0c4a) | [Dina Ayada](https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz) | [Love Me](https://open.spotify.com/album/7AN3OleKAs47kDFD9Clr2D) | 2:10 | 2024-02-09 |  |
-| [Love Ya \(feat\. Mario\)](https://open.spotify.com/track/5ldqkjGtBaiBpm5ncrkgJT) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Love Ya \(feat\. Mario\)](https://open.spotify.com/album/4kmDo9Of0mSWzRBLTKTacl) | 3:37 | 2024-02-23 |  |
+| [Love Ya \(feat\. Mario\)](https://open.spotify.com/track/2mnkgopUgJq09Na8JXgMIh) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Seductive](https://open.spotify.com/album/75bi4SlFkQJ2zogYEjlHK5) | 3:37 | 2024-02-23 |  |
+| [Love Ya \(feat\. Mario\)](https://open.spotify.com/track/5ldqkjGtBaiBpm5ncrkgJT) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Love Ya \(feat\. Mario\)](https://open.spotify.com/album/4kmDo9Of0mSWzRBLTKTacl) | 3:37 | 2024-02-23 | 2024-02-25 |
 | [luvu222](https://open.spotify.com/track/24MVu7qCrmMsqoOhMadYqW) | [Moko](https://open.spotify.com/artist/1SNK64zmUMbnh5bVIVYARH) | [luvu222](https://open.spotify.com/album/7jgjrOLQrggizxHvQACIT5) | 1:50 | 2023-11-10 | 2023-11-30 |
 | [M3a L3echrane](https://open.spotify.com/track/2L1MgWewnKsCx9MKykjZJw) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh) | [M3a L3echrane](https://open.spotify.com/album/66iERpoTGbFoSgy7FY96mk) | 3:52 | 2023-11-29 | 2024-01-13 |
 | [MA DOUCE](https://open.spotify.com/track/3G9yB5mhAfdq3toymB5Pug) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [MA DOUCE](https://open.spotify.com/album/2ySxKt2YEOhxUcF0Iw5X1R) | 3:36 | 2024-02-23 |  |

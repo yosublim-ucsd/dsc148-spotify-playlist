@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 252805,
+  "2024-02-25": 252812,
   "date_first_scraped": "2020-10-20",
   "description": "Laissez-vous porter par la playlist lo-fi",
   "name": "Chill Beats",
@@ -39,6 +39,28 @@
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/3okj5Ww1BYh7k5VsBFXUw3"
+    },
+    {
+      "album": {
+        "name": "One Vision",
+        "url": "https://open.spotify.com/album/0FINe2R7XrhI47PtPP493x"
+      },
+      "artists": [
+        {
+          "name": "Thomas Lemmer",
+          "url": "https://open.spotify.com/artist/01Ix2zdjR4PQ2eYMpclD9d"
+        },
+        {
+          "name": "Oine",
+          "url": "https://open.spotify.com/artist/3BnZE8V5fUS3QFE5mGSDGr"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168548,
+      "name": "1222 Miles",
+      "url": "https://open.spotify.com/track/2NM2GmtDfb8LGcjfdKDIJe"
     },
     {
       "album": {
@@ -1889,7 +1911,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 194703,
       "name": "it rains all day - Spotify Singles",
       "url": "https://open.spotify.com/track/3ZPPKya0w9TPzejJxRCqEF"

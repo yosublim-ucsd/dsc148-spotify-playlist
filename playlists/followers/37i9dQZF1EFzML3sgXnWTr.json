@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 1813,
+  "2024-02-25": 1814,
   "date_first_scraped": "2022-09-17",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/2RXuZnFEt8P7rr9UUIsyZo\">Alessandro La Cava</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Alessandro La Cava",
@@ -851,6 +851,24 @@
       "duration_ms": 200498,
       "name": "Qu\u00e9 es",
       "url": "https://open.spotify.com/track/4GKGNCzRNLVyiImJ0kRXiN"
+    },
+    {
+      "album": {
+        "name": "PRIMO",
+        "url": "https://open.spotify.com/album/7EV8pGuFCChzOPmcopNQ4t"
+      },
+      "artists": [
+        {
+          "name": "CLARA",
+          "url": "https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176516,
+      "name": "RAGAZZI FUORI",
+      "url": "https://open.spotify.com/track/6ESqYk01s6jNv0YFv2vguz"
     },
     {
       "album": {

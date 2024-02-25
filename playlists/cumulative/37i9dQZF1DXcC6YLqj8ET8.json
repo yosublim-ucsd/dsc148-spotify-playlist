@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "Arab Trap 2 / Habibi",
+        "url": "https://open.spotify.com/album/3rKeeAPE0Dj9QuzMqWIoCL"
+      },
+      "artists": [
+        {
+          "name": "DJ KABOO",
+          "url": "https://open.spotify.com/artist/4XL8KSBe0v3k483R9Tv49Q"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122042,
+      "name": "Arab Trap 2 / Habibi",
+      "url": "https://open.spotify.com/track/3QelStmhpPgN2yDwxFuC7x"
+    },
+    {
+      "album": {
         "name": "Arab Trap: Made in Egypt",
         "url": "https://open.spotify.com/album/2ZYdkTjXsKXajkPiwUTgQ7"
       },
@@ -150,7 +168,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 189542,
       "name": "Ares",
       "url": "https://open.spotify.com/track/4Fa8BBKeIaTxA8R4jit9Br"

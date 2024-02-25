@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 372657,
+  "2024-02-25": 372942,
   "date_first_scraped": "2022-05-30",
   "description": "All eyes on you. Cover: Jagwar Twin",
   "name": "Limelight",
@@ -1299,7 +1299,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 58868,
       "name": "Coffee",
       "url": "https://open.spotify.com/track/2zmo93xTzKTP0lztR9iy9H"
@@ -2981,7 +2981,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 185890,
       "name": "it's ok!",
       "url": "https://open.spotify.com/track/65QnKbugRDVJK6MBdwkKBo"
@@ -4935,6 +4935,24 @@
       "duration_ms": 199413,
       "name": "She Wants Me (To Be Loved)",
       "url": "https://open.spotify.com/track/1yS9wpv8GW2c8tHC7P85JJ"
+    },
+    {
+      "album": {
+        "name": "Traumatic Livelihood",
+        "url": "https://open.spotify.com/album/2bJSnPuFrikBDE4F6SxNC4"
+      },
+      "artists": [
+        {
+          "name": "Jazmin Bean",
+          "url": "https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206039,
+      "name": "Shit Show",
+      "url": "https://open.spotify.com/track/090hszohQB1ibgEYfY2KVJ"
     },
     {
       "album": {

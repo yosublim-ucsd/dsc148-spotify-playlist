@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 146201,
+  "2024-02-25": 146214,
   "date_first_scraped": "2021-12-21",
   "description": "All new, all blues. Cover: Gary Clark Jr.",
   "name": "Nu-Blue",
@@ -1361,6 +1361,28 @@
       "duration_ms": 177801,
       "name": "Fire with Fire",
       "url": "https://open.spotify.com/track/31u0ZyzyYRKM4Efocv3EvH"
+    },
+    {
+      "album": {
+        "name": "First Time Blues",
+        "url": "https://open.spotify.com/album/3xc1iFmzlD2aadxs5gBG4l"
+      },
+      "artists": [
+        {
+          "name": "Orianthi",
+          "url": "https://open.spotify.com/artist/0yNy8fi1yBBq526E6mx4Zs"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227053,
+      "name": "First Time Blues",
+      "url": "https://open.spotify.com/track/0BA9QD9iMfPVlfsgRAvMna"
     },
     {
       "album": {
@@ -5003,7 +5025,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 232941,
       "name": "Workin' Man",
       "url": "https://open.spotify.com/track/1sRNucj4RJMbUFkyFbau4T"

@@ -1,12 +1,12 @@
 {
   "description": "The best easy rock from the 2010s. Cover: Keane",
-  "num_followers": 110856,
+  "num_followers": 110894,
   "original_name": "10s Easy Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZTA3M2MwZGMxYzcxN2EzNmM4MDFjODY1ZGJhOTlhNDgyMjNhYzM4",
+  "snapshot_id": "MCxiY2QwYWUzZjNhMWYxNjU3N2MxMzAzMGYzZDlmOTdmOTAzNjY0NDg4",
   "tracks": [
     {
       "added_at": "2023-01-11 18:02:14",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-01-11 18:02:14",
       "album": {
-        "name": "Zombie",
-        "url": "https://open.spotify.com/album/4SgCsTa1k8CxHrarTn3KRj"
-      },
-      "artists": [
-        {
-          "name": "Bad Wolves",
-          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
-        }
-      ],
-      "duration_ms": 259252,
-      "name": "Zombie - Acoustic",
-      "url": "https://open.spotify.com/track/6HxrbtjM2HL8iz5C743Ets"
-    },
-    {
-      "added_at": "2023-01-11 18:02:14",
-      "album": {
         "name": "The Ride",
         "url": "https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 157000,
       "name": "Glasgow",
       "url": "https://open.spotify.com/track/28VT0090inPlN6bfxoVdmB"
+    },
+    {
+      "added_at": "2023-01-11 18:02:14",
+      "album": {
+        "name": "Zombie",
+        "url": "https://open.spotify.com/album/4SgCsTa1k8CxHrarTn3KRj"
+      },
+      "artists": [
+        {
+          "name": "Bad Wolves",
+          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
+        }
+      ],
+      "duration_ms": 259252,
+      "name": "Zombie - Acoustic",
+      "url": "https://open.spotify.com/track/6HxrbtjM2HL8iz5C743Ets"
     },
     {
       "added_at": "2023-01-11 18:02:14",

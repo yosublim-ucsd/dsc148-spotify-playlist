@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 134195,
+  "2024-02-25": 134294,
   "date_first_scraped": "2021-12-29",
   "description": "Proudly South African Afropop gems. Cover: <a href=\"https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8?si=KKrVxItjSNGYYw7TaZMuEw\">Vusi Nova</a>",
   "name": "Made In South Africa",
@@ -1013,6 +1013,24 @@
       "duration_ms": 251100,
       "name": "Bayandijikela",
       "url": "https://open.spotify.com/track/3IBHk1OOaE6AeEJR0EcJAg"
+    },
+    {
+      "album": {
+        "name": "Bayandijikela",
+        "url": "https://open.spotify.com/album/77dwepHuONueQEX4BHW2Gp"
+      },
+      "artists": [
+        {
+          "name": "Vusi Nova",
+          "url": "https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251100,
+      "name": "Bayandijikela",
+      "url": "https://open.spotify.com/track/416ZjCLbpidDvRbtBy8bQj"
     },
     {
       "album": {
@@ -5441,7 +5459,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 255333,
       "name": "Malaika",
       "url": "https://open.spotify.com/track/1tHKABq4u7XHe6y86PV070"
@@ -6478,6 +6496,24 @@
     },
     {
       "album": {
+        "name": "ngelosi",
+        "url": "https://open.spotify.com/album/7rD67LTMhAEPKQlc50pgG6"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Modiga",
+          "url": "https://open.spotify.com/artist/6vfxDPW9Lc9tAMVy0oeqiB"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258103,
+      "name": "ngelosi",
+      "url": "https://open.spotify.com/track/7kBtexEsvGHpLfVMobnoXh"
+    },
+    {
+      "album": {
         "name": "Ngentombi (feat. Vernotile)",
         "url": "https://open.spotify.com/album/0nA6dCfJ4ZqHjcyd3B97hB"
       },
@@ -7081,6 +7117,32 @@
       "duration_ms": 222000,
       "name": "Nje",
       "url": "https://open.spotify.com/track/5b7WFIRAFAHjqnbeYCdxTH"
+    },
+    {
+      "album": {
+        "name": "Reimagined",
+        "url": "https://open.spotify.com/album/6jn3OJRk0KHymgyXMhVUv7"
+      },
+      "artists": [
+        {
+          "name": "The Soil",
+          "url": "https://open.spotify.com/artist/3UhCf5Cu963oXz9DseciIU"
+        },
+        {
+          "name": "Bokani Dyer",
+          "url": "https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy"
+        },
+        {
+          "name": "Joel Klein",
+          "url": "https://open.spotify.com/artist/27ipT5Ret9cjr56Q3ClT5t"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299720,
+      "name": "Nkanyezi",
+      "url": "https://open.spotify.com/track/0R9fRzSlKzmao4gXbwbII5"
     },
     {
       "album": {
@@ -10659,7 +10721,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 249290,
       "name": "Uzong'khumbula",
       "url": "https://open.spotify.com/track/7mD56wV0H5HlbXzujpKFDS"

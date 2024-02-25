@@ -4,7 +4,7 @@
 
 > pop punk, emo, post\-hardcore, alt, & more\. Cover: Belmont
 
-1,143 songs - 2 day 12 hr 23 min
+1,144 songs - 2 day 12 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,7 @@
 | [Brush Back](https://open.spotify.com/track/1vXt2d3QwSTYKhgw1pZwMZ) | [Gleemer](https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa) | [Down Through](https://open.spotify.com/album/0RjtEnaoDqLhxCRc3i9q3J) | 3:45 | 2021-12-10 | 2022-07-29 |
 | [buck](https://open.spotify.com/track/4k4ImOjmaURMwBaZN3QKsk) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [Trauma Factory](https://open.spotify.com/album/16rbUsslYCC9NnKIwLQUnY) | 2:35 | 2021-12-10 | 2023-04-11 |
 | [Burn It Down](https://open.spotify.com/track/21iym8UpADqnG2p5GrzHrb) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug), [Caleb Shomo](https://open.spotify.com/artist/0YbrhcmTTHZbsXyqjsGCGD) | [Burn It Down](https://open.spotify.com/album/4CAwR5GCqpfDAHE85WsAqK) | 3:10 | 2022-02-04 | 2022-04-29 |
-| [BURNOUT](https://open.spotify.com/track/4zZJZjj4QwuwR7G6tZ0sxo) | [Ryan Oakes](https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7), [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr), [Derek DiScanio](https://open.spotify.com/artist/4gO25bbcu1eFNi8uDCvJFS) | [BURNOUT](https://open.spotify.com/album/1oUXmEhwbTJ4InsEjZADla) | 2:52 | 2022-07-08 |  |
+| [BURNOUT](https://open.spotify.com/track/4zZJZjj4QwuwR7G6tZ0sxo) | [Ryan Oakes](https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7), [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr), [Derek DiScanio](https://open.spotify.com/artist/4gO25bbcu1eFNi8uDCvJFS) | [BURNOUT](https://open.spotify.com/album/1oUXmEhwbTJ4InsEjZADla) | 2:52 | 2022-07-08 | 2024-02-25 |
 | [Bury Me \(Tonight!\)](https://open.spotify.com/track/0f5AnyyQexdQ1FrPGU3zUa) | [Save Face](https://open.spotify.com/artist/5DpkPhxrNNiGAJPY5seREe) | [Bury Me \(Tonight!\)](https://open.spotify.com/album/1IxkN8ASRLNQ2e6s8itlfH) | 2:59 | 2021-12-10 | 2022-07-28 |
 | [Caffeine](https://open.spotify.com/track/1pJk9Ai1GNT0HPWdRpgbBx) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [Caffeine](https://open.spotify.com/album/4XeleObofFq1o3lscbN9lO) | 3:04 | 2023-07-14 |  |
 | [Cages](https://open.spotify.com/track/44Hg66DPXP33pXVI1pHIRi) | [Strung Out](https://open.spotify.com/artist/07ATE522e8aDsEb0JVLYqg) | [Cages](https://open.spotify.com/album/2vr9997EIlO8lNLN2azObV) | 3:07 | 2024-01-19 |  |
@@ -1130,6 +1130,7 @@
 | [Wyatt’s Song \(Your Name\)](https://open.spotify.com/track/2igMBTs1a8cwHkwIXOmtBq) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K) | [Wyatt’s Song \(Your Name\)](https://open.spotify.com/album/7oQO6rAWUCj7lQ5W7p96wz) | 3:45 | 2022-06-24 | 2022-08-03 |
 | [Wyatt’s Song \(Your Name\)](https://open.spotify.com/track/2zTZW5oH5ccgAYV2e1YsDl) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K) | [The Hum Goes on Forever](https://open.spotify.com/album/0g2D3Epl3VzLbvtVeQhJQv) | 3:45 | 2022-09-30 |  |
 | [YEAH!](https://open.spotify.com/track/2bgJCXFcRZkedHVpjOZO52) | [Between You & Me](https://open.spotify.com/artist/1P1y4wp6V0CwjhGcXPKgAu) | [YEAH!](https://open.spotify.com/album/46ot2yrvPoFe2I8i6AsRXc) | 3:02 | 2023-11-10 |  |
+| [Year Of The Vulture](https://open.spotify.com/track/0eFtkwEavaYhrmkSl95gmS) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K) | [Year Of The Vulture](https://open.spotify.com/album/23gZgC86I9dErLpppoGD7q) | 2:28 | 2024-02-23 |  |
 | [You](https://open.spotify.com/track/0cB71XryMznWQ6klBUovgm) | [Storyteller](https://open.spotify.com/artist/2bhEQqmUj9qtDOcqj8AZzB) | [You](https://open.spotify.com/album/4SXc5fzefGaZE4WRdyf3hB) | 3:31 | 2022-03-25 | 2022-04-18 |
 | [You & I](https://open.spotify.com/track/6OSuUZ0XTYcmoasGUbPZ3x) | [Bloom](https://open.spotify.com/artist/65kdSVYKtaef3P8EOCGWHl) | [You & I](https://open.spotify.com/album/4qLJUL6VNVCA9G4pK01Org) | 3:50 | 2024-01-19 |  |
 | [You & I](https://open.spotify.com/track/2vzV2cEIRSAid5CUPjzYnE) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Losing What We Love](https://open.spotify.com/album/71Zbf3k0m4bM7GySIh2erI) | 3:34 | 2024-01-19 |  |

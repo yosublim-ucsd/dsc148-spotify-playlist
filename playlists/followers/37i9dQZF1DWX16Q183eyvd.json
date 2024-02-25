@@ -1,7 +1,7 @@
 {
-  "2024-02-24": 38310,
+  "2024-02-25": 38374,
   "date_first_scraped": "2021-12-21",
-  "description": "Push play on the coolest playlist around, and get ready to jump around. Cover: Mega Ran",
+  "description": "Push play on the coolest playlist around, and get ready to jump around. Cover: Gracie's Corner",
   "name": "Hip-Hop & R&B for Kids",
   "tracks": [
     {
@@ -369,6 +369,24 @@
       "duration_ms": 112960,
       "name": "CONFIDENT",
       "url": "https://open.spotify.com/track/4Q2ellywUb76X5n08rn8TE"
+    },
+    {
+      "album": {
+        "name": "Cookie Jar",
+        "url": "https://open.spotify.com/album/65HIKw74shHz5R6zAQqqIL"
+      },
+      "artists": [
+        {
+          "name": "Jools TV",
+          "url": "https://open.spotify.com/artist/7ssReBmPT2Ls9U8lAHTSJN"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172913,
+      "name": "Cookie Jar",
+      "url": "https://open.spotify.com/track/01rRqiFCeG17apx187OJjo"
     },
     {
       "album": {
@@ -1699,6 +1717,24 @@
       "duration_ms": 170594,
       "name": "Pick It Up",
       "url": "https://open.spotify.com/track/6lY2AdInMhdWlio2rS8yph"
+    },
+    {
+      "album": {
+        "name": "Play Outside",
+        "url": "https://open.spotify.com/album/0JWaUhGdMrPXGu1DdUq424"
+      },
+      "artists": [
+        {
+          "name": "Gracie's Corner",
+          "url": "https://open.spotify.com/artist/7liE451ZyJBxZ4pLKgIeEH"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151926,
+      "name": "Play Outside",
+      "url": "https://open.spotify.com/track/3t4STKA849plfaghVfM57x"
     },
     {
       "album": {

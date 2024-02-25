@@ -1,7 +1,7 @@
 {
-  "2024-02-24": 513532,
+  "2024-02-25": 513555,
   "date_first_scraped": "2022-01-13",
-  "description": "Latinoam\u00e9rica baila al ritmo de Ozuna.",
+  "description": "Latinoam\u00e9rica baila al ritmo de RaiNao.",
   "name": "El Ritmo",
   "tracks": [
     {
@@ -69,6 +69,36 @@
       "duration_ms": 342726,
       "name": "0 Amigos Falsos",
       "url": "https://open.spotify.com/track/6nkqEujDSjOMT53nuapSyA"
+    },
+    {
+      "album": {
+        "name": "0 Millas",
+        "url": "https://open.spotify.com/album/3bMctF74OPNARlPLx3ETVJ"
+      },
+      "artists": [
+        {
+          "name": "Caleb Calloway",
+          "url": "https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi"
+        },
+        {
+          "name": "Alejo",
+          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
+        },
+        {
+          "name": "Moffa",
+          "url": "https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC"
+        },
+        {
+          "name": "ROBI",
+          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213576,
+      "name": "0 Millas",
+      "url": "https://open.spotify.com/track/7Flou2vrw6Aub4snhRRIVW"
     },
     {
       "album": {
@@ -729,7 +759,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 177551,
       "name": "AJUAAA",
       "url": "https://open.spotify.com/track/4GxgZ3h4FRnIOLd5gbFZKC"
@@ -1081,6 +1111,28 @@
       "duration_ms": 196992,
       "name": "Amor Coleto",
       "url": "https://open.spotify.com/track/2kNDb2SH1i5lmXjLR1aYvs"
+    },
+    {
+      "album": {
+        "name": "Amor Con Rabia",
+        "url": "https://open.spotify.com/album/7uwXFum7WBXQXqoGWHM52e"
+      },
+      "artists": [
+        {
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+        },
+        {
+          "name": "Juhn",
+          "url": "https://open.spotify.com/artist/1ZBP91N18Tcl1D2tSvB5Rc"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198014,
+      "name": "Amor Con Rabia",
+      "url": "https://open.spotify.com/track/4onvgTedcSskQgi6eGi5Zp"
     },
     {
       "album": {
@@ -3119,7 +3171,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 195163,
       "name": "Cartagena",
       "url": "https://open.spotify.com/track/04xYsXTqDPw63leBivg2pf"
@@ -3431,7 +3483,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 150000,
       "name": "CHIMBA DE TEMA",
       "url": "https://open.spotify.com/track/60awun0hpmDVQptovqEoXA"
@@ -3936,6 +3988,24 @@
     },
     {
       "album": {
+        "name": "Coquette",
+        "url": "https://open.spotify.com/album/73Ez7a0xHO32zMWBYcOIRr"
+      },
+      "artists": [
+        {
+          "name": "Briella",
+          "url": "https://open.spotify.com/artist/3ef240gIQOpOu1OaPNYF2b"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152500,
+      "name": "Coquette",
+      "url": "https://open.spotify.com/track/6sPKOxspAQdgYVkuwEvBf9"
+    },
+    {
+      "album": {
         "name": "CORAZ\u00d3N VAC\u00cdO",
         "url": "https://open.spotify.com/album/3YBQyY0Bj7bpxj0VHAse0P"
       },
@@ -3999,6 +4069,24 @@
       "duration_ms": 189764,
       "name": "Cosi (feat. Cobuz y Bustta)",
       "url": "https://open.spotify.com/track/5C9Si7sopFIiiUxCLuuEcc"
+    },
+    {
+      "album": {
+        "name": "Cositas Sucias",
+        "url": "https://open.spotify.com/album/4ByfJ3lfQLg8TTklHTewbj"
+      },
+      "artists": [
+        {
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141226,
+      "name": "Cositas Sucias",
+      "url": "https://open.spotify.com/track/5OkBhZHRMKGpoFTc5WXw50"
     },
     {
       "album": {
@@ -4673,6 +4761,28 @@
       "duration_ms": 184134,
       "name": "De X Vida",
       "url": "https://open.spotify.com/track/7KdlLGCuAA25rzatYxDNHM"
+    },
+    {
+      "album": {
+        "name": "Dejalos que hablen",
+        "url": "https://open.spotify.com/album/4l0UkrYml8m6aHv9V58bnv"
+      },
+      "artists": [
+        {
+          "name": "Chesca",
+          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
+        },
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175407,
+      "name": "Dejalos que hablen",
+      "url": "https://open.spotify.com/track/4nvjh9eLeMhTuuVVhBjfYd"
     },
     {
       "album": {
@@ -8199,7 +8309,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 156089,
       "name": "Jo$\u20acando",
       "url": "https://open.spotify.com/track/1hZkplYV2dtlY6uo5DsENc"
@@ -11561,7 +11671,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 171428,
       "name": "NASTYDOLL",
       "url": "https://open.spotify.com/track/5O11h8FxZNS28XpD4U6F5t"
@@ -11619,7 +11729,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 187368,
       "name": "Nervios de Acero",
       "url": "https://open.spotify.com/track/5AtOFc69R8iYQlShJoXB3n"
@@ -13207,7 +13317,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 176493,
       "name": "Peluche",
       "url": "https://open.spotify.com/track/7AvSsFrEPmtIMgFrkbHPNy"
@@ -15370,6 +15480,24 @@
     },
     {
       "album": {
+        "name": "SIGO AL PENDIENTE",
+        "url": "https://open.spotify.com/album/5zL11LOIVjodw1Xan5jKRc"
+      },
+      "artists": [
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195333,
+      "name": "SIGO AL PENDIENTE",
+      "url": "https://open.spotify.com/track/5mD2dZLizhARH7HeWjNFm6"
+    },
+    {
+      "album": {
         "name": "Sol Mar\u00eda",
         "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
       },
@@ -16569,7 +16697,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 146666,
       "name": "TERAPIA",
       "url": "https://open.spotify.com/track/4pA5Y7Omr9R86ZkxX6XWQQ"
@@ -17881,6 +18009,24 @@
       "duration_ms": 191370,
       "name": "VITAMINA D",
       "url": "https://open.spotify.com/track/3fyTzHQ46mylLRmHL1kphx"
+    },
+    {
+      "album": {
+        "name": "Vi\u00f1a:)",
+        "url": "https://open.spotify.com/album/0PJeA5n8llp2bBArnWSXm1"
+      },
+      "artists": [
+        {
+          "name": "Daiko 02",
+          "url": "https://open.spotify.com/artist/7HyrZUMEfu8eTF2iN5iP7T"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183500,
+      "name": "VI\u00d1A: )",
+      "url": "https://open.spotify.com/track/6XzNsaC7JMiXPNeBrrdmdH"
     },
     {
       "album": {

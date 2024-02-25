@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-623 songs - 1 day 10 hr 17 min
+624 songs - 1 day 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,6 +235,7 @@
 | [I Believe In You](https://open.spotify.com/track/6R13bfge3m7pqDqgKIFbJ0) | [Meernaa](https://open.spotify.com/artist/6x8L59xNfuXIM7UfzoSe7g) | [I Believe In You](https://open.spotify.com/album/6PT2tbO07t1SiVVLDHNChH) | 3:15 | 2023-05-05 | 2023-09-17 |
 | [I Can Say To You \[Feat\. Vanisha Gould\] \- Single Edit](https://open.spotify.com/track/77QJgfFBYZQU0zXByezYGs) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP), [Vanisha Gould](https://open.spotify.com/artist/0z7qSkfrWXvgNrSgnidiag) | [I Can Say To You \[Feat\. Vanisha Gould\]](https://open.spotify.com/album/0cdH5hfYt9f70uLrkiSolC) | 3:37 | 2023-06-16 | 2023-12-09 |
 | [I Choose U \(feat\. RINI\)](https://open.spotify.com/track/7zHOs0OLz4CmB8LHcf1NNv) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm), [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [I Choose U \(feat\. RINI\)](https://open.spotify.com/album/0DcgdM3SS9A8wEig25dsqh) | 3:22 | 2023-03-24 |  |
+| [I Don't Love You](https://open.spotify.com/track/2okP2LbGxMLQWqmkptMAIX) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [I Don't Love You](https://open.spotify.com/album/3YRDP6zsko8EJm9xjgVo4n) | 4:11 | 2024-02-23 |  |
 | [i don't wanna fall in love, it's too late now](https://open.spotify.com/track/4OPcKAVpIquCyW94TEaD3A) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [It'll Be Fine](https://open.spotify.com/album/4zM4CuOsWdfR60jW7w4jVr) | 0:55 | 2023-01-27 | 2023-08-26 |
 | [I Don’t Wanna Be Alone](https://open.spotify.com/track/1MyEY1sxdSyBjEqxKEFElw) | [Asal Hazel](https://open.spotify.com/artist/0Qnzp2no3f8GqBNh7Jywtt) | [I Don’t Wanna Be Alone](https://open.spotify.com/album/4Gc1z0fWotafcDL2Osg8wG) | 3:06 | 2024-01-19 |  |
 | [I Got It](https://open.spotify.com/track/4O9OqRpTCXz6fB3BDEAbKz) | [Ogi](https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu) | [Monologues](https://open.spotify.com/album/6DCJRFuE8JFtrOdSKSweaE) | 3:27 | 2022-10-19 | 2023-07-15 |
@@ -387,7 +388,7 @@
 | [neve give up](https://open.spotify.com/track/2a5qaGUrVHWAIrh0xmTADM) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [aloha](https://open.spotify.com/album/3rioHzbE7RDGbgxzg9uFNd) | 3:41 | 2021-12-15 | 2023-01-28 |
 | [Never Get Enough](https://open.spotify.com/track/1v20BOUbOcMGKujbMQj3Li) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK), [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Never Get Enough](https://open.spotify.com/album/4AtPTZNc6lEMelJJEsGvMD) | 4:20 | 2023-10-27 |  |
 | [Never Know](https://open.spotify.com/track/62L4gX0hWCso6ikzA9yjpe) | [Mulherin](https://open.spotify.com/artist/0pvhBvl3SFpzhahmYfqcPo) | [Never Know](https://open.spotify.com/album/4GymIaS8BsKYYPJqzgr5Bf) | 3:03 | 2021-12-15 | 2022-04-18 |
-| [New Lows](https://open.spotify.com/track/3AcEznRWD9ySaNvW6TUxcc) | [Kevin Ross](https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY) | [Midnight Microdose, Vol\. 2](https://open.spotify.com/album/3nZfR3g2APtjLlOOE3h6jL) | 1:26 | 2023-09-16 |  |
+| [New Lows](https://open.spotify.com/track/3AcEznRWD9ySaNvW6TUxcc) | [Kevin Ross](https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY) | [Midnight Microdose, Vol\. 2](https://open.spotify.com/album/3nZfR3g2APtjLlOOE3h6jL) | 1:26 | 2023-09-16 | 2024-02-25 |
 | [Night Terrific! \(feat\. Yaqob\)](https://open.spotify.com/track/1wQxWFfARHkHVPd9PnZiKU) | [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj), [Yaqob](https://open.spotify.com/artist/5poGTBtoUMt7M5UtX0XpcU) | [Night Terrific! \(feat\. Yaqob\)](https://open.spotify.com/album/6FK7EC7d9V88Eo1F9bQm8g) | 2:44 | 2021-12-15 | 2022-07-28 |
 | [No Love Without You](https://open.spotify.com/track/6hkp6tJrFcoYkdktLIA4rh) | [Jesse Boykins III](https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29) | [No Love Without You](https://open.spotify.com/album/4psixGGfeWXq1LMcVmX9ME) | 3:10 | 2023-05-12 | 2023-09-24 |
 | [No Romance](https://open.spotify.com/track/3WXmP0wXwhnrBRzmdyGctC) | [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [No Romance](https://open.spotify.com/album/2Gk6fcvchxO7esaBUyhaet) | 3:57 | 2021-12-15 | 2023-02-13 |

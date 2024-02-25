@@ -1,7 +1,7 @@
 {
-  "2024-02-24": 16646,
+  "2024-02-25": 16649,
   "date_first_scraped": "2022-03-24",
-  "description": "tranquilo e calmo, no flow. Foto: Jamal KMG",
+  "description": "tranquilo e calmo, no flow. Foto: Enzo Cello",
   "name": "tamo flex",
   "tracks": [
     {
@@ -1159,7 +1159,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 210000,
       "name": "Astro",
       "url": "https://open.spotify.com/track/7bGQqqMTRVNPrz6gcV188l"
@@ -1789,7 +1789,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 125142,
       "name": "Beck De Xangai",
       "url": "https://open.spotify.com/track/5jdYxBkQsSCCLuXjQ9gIAR"
@@ -2471,6 +2471,36 @@
       "duration_ms": 201857,
       "name": "Casal 171",
       "url": "https://open.spotify.com/track/4SOomkThSZxyGjQOmZ7EUO"
+    },
+    {
+      "album": {
+        "name": "Casal Bandido",
+        "url": "https://open.spotify.com/album/2DOV8VzlLmkj6lNgGKxBO7"
+      },
+      "artists": [
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "RealP7oficial",
+          "url": "https://open.spotify.com/artist/1xZZFJdJSzrma6gAuGV7tz"
+        },
+        {
+          "name": "\u00c9ffe",
+          "url": "https://open.spotify.com/artist/1uKqxcvSO6zfE4UgU93rmW"
+        },
+        {
+          "name": "Drumond",
+          "url": "https://open.spotify.com/artist/18MlhKAWJfNPtZiT0SwngM"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266666,
+      "name": "Casal Bandido",
+      "url": "https://open.spotify.com/track/4T103ATgQkt10GPYVDlqTD"
     },
     {
       "album": {
@@ -4168,6 +4198,32 @@
     },
     {
       "album": {
+        "name": "Duas Piranha",
+        "url": "https://open.spotify.com/album/554d8eW2QE8H1bkkYvfV3U"
+      },
+      "artists": [
+        {
+          "name": "Slin",
+          "url": "https://open.spotify.com/artist/7MSdxuMXLQbujajEnT3qvF"
+        },
+        {
+          "name": "Lewy \u00d7\u1dfc\u00d7",
+          "url": "https://open.spotify.com/artist/5FdUvjWNMVQeZrPsUGIHEY"
+        },
+        {
+          "name": "retroboy",
+          "url": "https://open.spotify.com/artist/4R7j2XUkuutFO0MePvfASY"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155081,
+      "name": "Duas Piranha",
+      "url": "https://open.spotify.com/track/1c8rVE3m64ENfGkWniem0a"
+    },
+    {
+      "album": {
         "name": "DUVIDO ELA N\u00c3O NOTAR",
         "url": "https://open.spotify.com/album/36toknXeZS9oGJn03Cz9n4"
       },
@@ -5319,7 +5375,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 121263,
       "name": "FESTA NA PISCINA",
       "url": "https://open.spotify.com/track/5QmIowtiQQMOHNQoOO0SQ1"
@@ -5567,6 +5623,28 @@
       "duration_ms": 144116,
       "name": "Fogo na Party",
       "url": "https://open.spotify.com/track/3hEgWh3WXL9dQFi7kLeCBZ"
+    },
+    {
+      "album": {
+        "name": "FOR REAL",
+        "url": "https://open.spotify.com/album/0fxV7TYWILQMxBB8ZrDrh0"
+      },
+      "artists": [
+        {
+          "name": "Moreir4",
+          "url": "https://open.spotify.com/artist/67Ly0I5kLhLHjlT6L2dJTW"
+        },
+        {
+          "name": "Lp067",
+          "url": "https://open.spotify.com/artist/20EHnmoCDJFL4mnot2ad3M"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110430,
+      "name": "FOR REAL",
+      "url": "https://open.spotify.com/track/2xqo6OXTieIY50laJrqmUo"
     },
     {
       "album": {
@@ -6712,6 +6790,32 @@
     },
     {
       "album": {
+        "name": "Kama Sutra",
+        "url": "https://open.spotify.com/album/1SkEZYZk6a6p1vJXp3InHM"
+      },
+      "artists": [
+        {
+          "name": "Enzo Cello",
+          "url": "https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU"
+        },
+        {
+          "name": "prodbyeros",
+          "url": "https://open.spotify.com/artist/2VykmpwjNmZuVWKiKnqonz"
+        },
+        {
+          "name": "INTERNXTIONAL",
+          "url": "https://open.spotify.com/artist/4LKEV7czqJarhg0aMDi7A9"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129127,
+      "name": "Kama Sutra",
+      "url": "https://open.spotify.com/track/4macoiFtLjKdGR2IKAtzyJ"
+    },
+    {
+      "album": {
         "name": "KICKFLIP",
         "url": "https://open.spotify.com/album/7k9DosWlMI3OIoRdmTm5fG"
       },
@@ -6797,7 +6901,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 184405,
       "name": "Labirinto",
       "url": "https://open.spotify.com/track/0LJGq2TQMW5WwnD9AuPRuV"
@@ -6855,7 +6959,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 158769,
       "name": "Lei \u00c1urea",
       "url": "https://open.spotify.com/track/0rqvxaGbTpXI3odPEeXz4Q"
@@ -8039,7 +8143,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 173714,
       "name": "Mentirosa",
       "url": "https://open.spotify.com/track/2rvoxrAjeKLaE6Wjtk5PKb"
@@ -9472,6 +9576,32 @@
     },
     {
       "album": {
+        "name": "O Pix Ta Bloqueado",
+        "url": "https://open.spotify.com/album/7kD1TTgLccg71jdagd6vDK"
+      },
+      "artists": [
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        },
+        {
+          "name": "DJ JHOW BEATS",
+          "url": "https://open.spotify.com/artist/4CpxOMOqIfPQmEet9UnWhe"
+        },
+        {
+          "name": "Santxx",
+          "url": "https://open.spotify.com/artist/5XTH0mJhSVzNkwEj9hSQRx"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158307,
+      "name": "O Pix Ta Bloqueado",
+      "url": "https://open.spotify.com/track/7BzszmPLWpjL1HluoPo9AB"
+    },
+    {
+      "album": {
         "name": "O pre\u00e7o n\u00e3o \u00e9 teu sangue",
         "url": "https://open.spotify.com/album/442iWDTyqRQlgUnbmVEuNs"
       },
@@ -10753,7 +10883,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 164000,
       "name": "Premeditado",
       "url": "https://open.spotify.com/track/5bmAnIu3tFE9nqPyi0JJET"
@@ -12203,7 +12333,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 94476,
       "name": "Sigilosa",
       "url": "https://open.spotify.com/track/6YsUhTls5Pl4CsmMDnT1tE"
@@ -12460,6 +12590,28 @@
     },
     {
       "album": {
+        "name": "Surfista",
+        "url": "https://open.spotify.com/album/5qVDVTajIpAimYw4j6PZS6"
+      },
+      "artists": [
+        {
+          "name": "Ganda",
+          "url": "https://open.spotify.com/artist/1KbR0wOafZMeIr3nj35NnS"
+        },
+        {
+          "name": "LotH",
+          "url": "https://open.spotify.com/artist/15A5puZmE1MlaK7aFWfL0a"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143115,
+      "name": "Surfista",
+      "url": "https://open.spotify.com/track/6kvT2K9jzRCqZykCkgQuvT"
+    },
+    {
+      "album": {
         "name": "Suv",
         "url": "https://open.spotify.com/album/6IET2yxfqEA4IS58FSDcwU"
       },
@@ -12683,6 +12835,32 @@
       "duration_ms": 144822,
       "name": "TE ENCONTREI",
       "url": "https://open.spotify.com/track/5H3m39zgDfXU2bFVA3e2YQ"
+    },
+    {
+      "album": {
+        "name": "Tem Bail\u00e3o",
+        "url": "https://open.spotify.com/album/0exvNjV82s3xjF81ybjWVx"
+      },
+      "artists": [
+        {
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        },
+        {
+          "name": "Mc Dentinho GC",
+          "url": "https://open.spotify.com/artist/18rgCzZyNIBTBKjqKBFQ68"
+        },
+        {
+          "name": "Mc GC",
+          "url": "https://open.spotify.com/artist/7k71Xr4wyJaB9O2hN0MntP"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192006,
+      "name": "Tem Bail\u00e3o",
+      "url": "https://open.spotify.com/track/2NF7ApA5DNpcDmCKh8cxYI"
     },
     {
       "album": {
@@ -13015,6 +13193,24 @@
       "duration_ms": 144387,
       "name": "Top Tier",
       "url": "https://open.spotify.com/track/5wmzwsPvsEArHQqO2bgr4C"
+    },
+    {
+      "album": {
+        "name": "Toy",
+        "url": "https://open.spotify.com/album/4ier7baQ7G1kOcHDv4bzd8"
+      },
+      "artists": [
+        {
+          "name": "TR3VAS",
+          "url": "https://open.spotify.com/artist/5lZZfdDqp7XKRaTdZ1KUIO"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143222,
+      "name": "Toy",
+      "url": "https://open.spotify.com/track/073BWmwUvbBROdtos4Mbfv"
     },
     {
       "album": {

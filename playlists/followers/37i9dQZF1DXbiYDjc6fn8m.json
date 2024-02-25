@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 112243,
+  "2024-02-25": 112267,
   "date_first_scraped": "2023-10-03",
   "description": "Hora de dan\u00e7ar com os grandes hits da m\u00fasica eletr\u00f4nica/dance! Foto: Calvin Harris",
   "name": "Gold BPM",
@@ -1508,6 +1508,24 @@
     },
     {
       "album": {
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/36TbZt4tWOO8eSNcefOXp6"
+      },
+      "artists": [
+        {
+          "name": "Haddaway",
+          "url": "https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma"
+        }
+      ],
+      "date_added": "2020-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270373,
+      "name": "What Is Love (7\" Mix)",
+      "url": "https://open.spotify.com/track/2bNFbu5KHnK1qCl0iNQMfP"
+    },
+    {
+      "album": {
         "name": "What Is Love (Remixes)",
         "url": "https://open.spotify.com/album/0qTVjeVP70YvQG4GctetOf"
       },
@@ -1519,7 +1537,7 @@
       ],
       "date_added": "2020-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 270373,
       "name": "What Is Love - 7\" Mix",
       "url": "https://open.spotify.com/track/2ahnofp2LbBWDXcJbMaSTu"

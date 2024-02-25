@@ -1,7 +1,7 @@
 {
-  "2024-02-24": 136748,
+  "2024-02-25": 136780,
   "date_first_scraped": "2023-07-23",
-  "description": "Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Hotelo\n",
+  "description": "Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Shinedown\n",
   "name": "Rock Leve",
   "tracks": [
     {
@@ -21,6 +21,24 @@
       "duration_ms": 164675,
       "name": "A Gente Sabe Se Amar",
       "url": "https://open.spotify.com/track/6aQ6Tcs6w0efuVzWrimGRC"
+    },
+    {
+      "album": {
+        "name": "Planet Zero",
+        "url": "https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248454,
+      "name": "A Symptom Of Being Human",
+      "url": "https://open.spotify.com/track/7xOB82ELg70RoIM3mMTkt4"
     },
     {
       "album": {
@@ -71,7 +89,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 196745,
       "name": "Acrobata",
       "url": "https://open.spotify.com/track/6orBIiTmqWyGI21IkACaAA"
@@ -834,6 +852,28 @@
     },
     {
       "album": {
+        "name": "Invis\u00edvel",
+        "url": "https://open.spotify.com/album/6GaYXQzj5ZGE20joaIDMhf"
+      },
+      "artists": [
+        {
+          "name": "Raphael Ota",
+          "url": "https://open.spotify.com/artist/71pX95QqMGfZ2D5P81nW0Q"
+        },
+        {
+          "name": "De Maria",
+          "url": "https://open.spotify.com/artist/0svtu3vOORPQEMmxV37rJn"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212297,
+      "name": "Invis\u00edvel",
+      "url": "https://open.spotify.com/track/46ZGTz7ctcjBEMxxC2KzIm"
+    },
+    {
+      "album": {
         "name": "Jogados na Areia",
         "url": "https://open.spotify.com/album/62Zg61iFQXcItuCuSYdTlH"
       },
@@ -1029,7 +1069,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 173313,
       "name": "M\u00fasica de Botar o Papo no Lugar",
       "url": "https://open.spotify.com/track/38389u9gqu5jd9RiSy2jEH"
@@ -1449,7 +1489,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 250780,
       "name": "P\u00f3len",
       "url": "https://open.spotify.com/track/5a55PUJFZ4HkEqsS1oOTMg"
@@ -1693,6 +1733,28 @@
       "duration_ms": 166148,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/5AVwPRQ5X1pNqYrHd1cjli"
+    },
+    {
+      "album": {
+        "name": "SEDE",
+        "url": "https://open.spotify.com/album/71ZI6Y8D4GNsYkmw3HGhBk"
+      },
+      "artists": [
+        {
+          "name": "Felipe Ramos",
+          "url": "https://open.spotify.com/artist/6VXwjEt6oBU4cb59TUJJkX"
+        },
+        {
+          "name": "Mauro Henrique",
+          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244583,
+      "name": "SEDE",
+      "url": "https://open.spotify.com/track/2dUsGbQRh5jSUaF4J8ct0E"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "You know what time it is.",
-  "num_followers": 1854188,
+  "num_followers": 1854750,
   "original_name": "Nu Metal Era",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYTA3OWIzNTViY2M2NWM0ZTVlMzkzYWRmNGEwYzE5OTVmOGIyNGYx",
+  "snapshot_id": "MCxkNmQ3NGMyZGRlNTM1ZmY2ZGIwYWE3N2YyODY4MWZmNzVkNDQwYzk0",
   "tracks": [
     {
       "added_at": "2023-05-16 09:14:45",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2023-05-16 09:14:45",
       "album": {
+        "name": "Greatest Hits: You Never Saw Coming",
+        "url": "https://open.spotify.com/album/4ni1I8eIqUlfokkN2FE0hv"
+      },
+      "artists": [
+        {
+          "name": "Kid Rock",
+          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
+        }
+      ],
+      "duration_ms": 267866,
+      "name": "Bawitdaba - 2018 Remaster",
+      "url": "https://open.spotify.com/track/0T3odPQ4qqKOqvQEtMcPWM"
+    },
+    {
+      "added_at": "2023-05-16 09:14:45",
+      "album": {
         "name": "XIII",
         "url": "https://open.spotify.com/album/3N1Ehmz49Lavsi23cKFWDv"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 204853,
       "name": "Linchpin",
       "url": "https://open.spotify.com/track/4qjvr0qMFUo26SxwC4VygS"
-    },
-    {
-      "added_at": "2023-05-16 09:14:45",
-      "album": {
-        "name": "Greatest Hits: You Never Saw Coming",
-        "url": "https://open.spotify.com/album/4ni1I8eIqUlfokkN2FE0hv"
-      },
-      "artists": [
-        {
-          "name": "Kid Rock",
-          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
-        }
-      ],
-      "duration_ms": 267866,
-      "name": "Bawitdaba - 2018 Remaster",
-      "url": "https://open.spotify.com/track/0T3odPQ4qqKOqvQEtMcPWM"
     },
     {
       "added_at": "2023-05-16 09:14:45",

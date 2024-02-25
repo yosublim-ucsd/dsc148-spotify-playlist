@@ -1,7 +1,7 @@
 {
-  "2024-02-24": 433873,
+  "2024-02-25": 433894,
   "date_first_scraped": "2022-05-27",
-  "description": "Novidades do pop nacional pra te deixar mais leve! Foto: GUPE, Nairo",
+  "description": "Novidades do pop nacional pra te deixar mais leve! Foto: Rodrigo Alarcon",
   "name": "Pop Leve",
   "tracks": [
     {
@@ -515,7 +515,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 204935,
       "name": "Amanheceu Assim",
       "url": "https://open.spotify.com/track/6ZN54IpPKw9YtBw6vuMAKw"
@@ -941,7 +941,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 147614,
       "name": "ARREPIO",
       "url": "https://open.spotify.com/track/0IrFmDVmrV1WDwEgmqtAdF"
@@ -1202,6 +1202,28 @@
     },
     {
       "album": {
+        "name": "Breve",
+        "url": "https://open.spotify.com/album/7vnC5W0UKcZsOEsBx6zU07"
+      },
+      "artists": [
+        {
+          "name": "Marco Baptista",
+          "url": "https://open.spotify.com/artist/4z72Rq6ZmZ4tIP1kY2CtmF"
+        },
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213103,
+      "name": "Breve",
+      "url": "https://open.spotify.com/track/5gqsx2xuOtY20Hg4U8rV8x"
+    },
+    {
+      "album": {
         "name": "Brincando De Amor",
         "url": "https://open.spotify.com/album/1JjOG6ghi7Bw3xT0Ks99Xf"
       },
@@ -1217,7 +1239,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 155822,
       "name": "Brincando De Amor",
       "url": "https://open.spotify.com/track/5VZD6ku43wd7ewcdiFnQcQ"
@@ -2321,6 +2343,32 @@
     {
       "album": {
         "name": "Dan\u00e7a",
+        "url": "https://open.spotify.com/album/4KvxHv4e93jbIEUrjWzrh0"
+      },
+      "artists": [
+        {
+          "name": "J\u00f4",
+          "url": "https://open.spotify.com/artist/6zePDOB2FGOM9zCJC1oKfC"
+        },
+        {
+          "name": "Hiran",
+          "url": "https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW"
+        },
+        {
+          "name": "Cuper",
+          "url": "https://open.spotify.com/artist/5nxSXjNaqM5nInGmULlfpG"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182780,
+      "name": "Dan\u00e7a",
+      "url": "https://open.spotify.com/track/4zOwbaaLKlivAFL8ueaLTo"
+    },
+    {
+      "album": {
+        "name": "Dan\u00e7a",
         "url": "https://open.spotify.com/album/2RvxIv1XPBok8GsPBPgtSk"
       },
       "artists": [
@@ -3261,6 +3309,24 @@
       "duration_ms": 166027,
       "name": "Emocionado",
       "url": "https://open.spotify.com/track/7zsEdMgo3KhioogOlDlq8t"
+    },
+    {
+      "album": {
+        "name": "Encantos Mil",
+        "url": "https://open.spotify.com/album/2nXesv3OqUatWUViOpmSoq"
+      },
+      "artists": [
+        {
+          "name": "Mericia",
+          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168637,
+      "name": "Encantos Mil",
+      "url": "https://open.spotify.com/track/58V27gOu67oPUHDFMKu28f"
     },
     {
       "album": {
@@ -5153,7 +5219,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 163375,
       "name": "mapa da mina",
       "url": "https://open.spotify.com/track/5FJHgBu1z2ou3xRqwtCbzq"
@@ -5709,7 +5775,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 214676,
       "name": "Morena Surreal",
       "url": "https://open.spotify.com/track/2L8D15KGhjmkvqqPWRMWsw"
@@ -7064,6 +7130,24 @@
     },
     {
       "album": {
+        "name": "Pedra Preciosa",
+        "url": "https://open.spotify.com/album/1dGKlrAidKqbr2UQswAFeY"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204586,
+      "name": "Pedra Preciosa",
+      "url": "https://open.spotify.com/track/3c6Me0aOTbvv9eDiQGKirx"
+    },
+    {
+      "album": {
         "name": "Ac\u00fastico Luana Berti",
         "url": "https://open.spotify.com/album/0aBngiuQTX84LPbuqeJhAy"
       },
@@ -7155,6 +7239,24 @@
       "duration_ms": 158464,
       "name": "Perigo",
       "url": "https://open.spotify.com/track/7zP9OLU7uItlPuoxrYGN1K"
+    },
+    {
+      "album": {
+        "name": "Numanice #3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166337,
+      "name": "Pique Djavan - Ao Vivo",
+      "url": "https://open.spotify.com/track/7D9sdH2LEs3To9nMZnLXUt"
     },
     {
       "album": {
@@ -9002,6 +9104,24 @@
     },
     {
       "album": {
+        "name": "S\u00f3 Mais Um Pouquinho",
+        "url": "https://open.spotify.com/album/0wHwQ2NC4TPT8DpopVj4ll"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Alarcon",
+          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193949,
+      "name": "S\u00f3 Mais Um Pouquinho",
+      "url": "https://open.spotify.com/track/2kaYMQUvt2Jd4i8zFCH1PV"
+    },
+    {
+      "album": {
         "name": "S\u00f3 Pra Te Falar",
         "url": "https://open.spotify.com/album/10GC95W7Q0IoU6E7tG59uK"
       },
@@ -9875,7 +9995,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 174339,
       "name": "Tudo Vai Ser Como Deve Ser",
       "url": "https://open.spotify.com/track/6UVvpnthUpkYT7dQu3oJbQ"

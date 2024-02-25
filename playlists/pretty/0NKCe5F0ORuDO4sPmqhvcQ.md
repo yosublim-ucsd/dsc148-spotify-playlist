@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,817 likes - 157 songs - 8 hr 54 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,816 likes - 158 songs - 8 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -165,5 +165,6 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 155 | [I Just Need \(with Lyrah\)](https://open.spotify.com/track/6JbeNVHHrvRGY9BjB8hmkR) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [Lyrah](https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW) | [I Just Need \(with Lyrah\)](https://open.spotify.com/album/5UhCTYiNNiL26OSebdWUck) | 2:26 |
 | 156 | [All Day, All Night](https://open.spotify.com/track/4PSq1vPPpzEpVfwLCadN9j) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [HYPERBEAM](https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n) | [All Day, All Night](https://open.spotify.com/album/26O2GfKaDW9uGRkb0xdTV6) | 2:30 |
 | 157 | [Talk To Me](https://open.spotify.com/track/35Us9HQPF88aiWQkR3sG3G) | [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu) | [Talk To Me](https://open.spotify.com/album/57ikyQgMgUUyDQde2uz861) | 3:32 |
+| 158 | [Ride Or Die](https://open.spotify.com/track/4cwmGynF3SKhjq4vlGBVTi) | [AK SPORTS](https://open.spotify.com/artist/7qiOBa5jCbTeyLY2Chw9ju) | [Ride Or Die](https://open.spotify.com/album/6POFris69rMrOUVviVE9Ls) | 3:14 |
 
-Snapshot ID: `MTA1ODMsYmQ0YTlmNmNjYTllYmU1ZDJjZmVhYTBiYjFlYWE5MTNiZTRmYzU0Mw==`
+Snapshot ID: `MTA1ODQsNDYwM2FhZGUzZWI4YWQ2MWNlNmNiYjliYTVmNGE3N2UzOTg3MTYxZg==`

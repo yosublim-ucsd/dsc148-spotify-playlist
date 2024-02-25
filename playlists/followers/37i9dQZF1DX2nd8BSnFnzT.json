@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 336631,
+  "2024-02-25": 336628,
   "date_first_scraped": "2022-01-18",
   "description": "Viva o rock nacional! Ou\u00e7a o melhor do rock brasileiro. Foto: Ananda, Supercombo",
   "name": "P\u00e1tria Rock",
@@ -2780,6 +2780,24 @@
     },
     {
       "album": {
+        "name": "Fade Away",
+        "url": "https://open.spotify.com/album/2c3I2PZ07EIbtqlxUFTz0f"
+      },
+      "artists": [
+        {
+          "name": "Axty",
+          "url": "https://open.spotify.com/artist/4zVeGdifjxGkC3eCSmCo0H"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190384,
+      "name": "Fade Away",
+      "url": "https://open.spotify.com/track/3sOfcud8C4YSVOiCGWynYM"
+    },
+    {
+      "album": {
         "name": "Fala na Cara",
         "url": "https://open.spotify.com/album/14qtdt0FYJWQX00R2hBlun"
       },
@@ -4083,6 +4101,24 @@
       "duration_ms": 178798,
       "name": "Madri",
       "url": "https://open.spotify.com/track/5TZB7FD8GDhzd9qS8BK4B3"
+    },
+    {
+      "album": {
+        "name": "Mais Pesado Que o Mundo",
+        "url": "https://open.spotify.com/album/5hcISjcTrE5SV0s7Cr1Kfn"
+      },
+      "artists": [
+        {
+          "name": "No Gabiru",
+          "url": "https://open.spotify.com/artist/7ohOiUqAS7HaDCUxK01Oty"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163181,
+      "name": "Mais Pesado Que o Mundo",
+      "url": "https://open.spotify.com/track/3fjHKrKyjq7r53Nr46txRT"
     },
     {
       "album": {
@@ -6373,6 +6409,24 @@
       "duration_ms": 206299,
       "name": "Quero Ser Eu Mesmo",
       "url": "https://open.spotify.com/track/4KRdoq2lJw8dKg9QvJkx07"
+    },
+    {
+      "album": {
+        "name": "Quintal de Ilus\u00f5es",
+        "url": "https://open.spotify.com/album/6SItZTMqdkxqoUWIbNnxAt"
+      },
+      "artists": [
+        {
+          "name": "kamposcomk",
+          "url": "https://open.spotify.com/artist/5v7FspAp61fDlTWCdbdWmE"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Quintal de Ilus\u00f5es",
+      "url": "https://open.spotify.com/track/1rtbQCSZnoqekCaYzFrgFT"
     },
     {
       "album": {

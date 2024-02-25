@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-1,852 songs - 2 day 22 hr 35 min
+1,854 songs - 2 day 22 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -336,7 +336,7 @@
 | [Cold](https://open.spotify.com/track/4k4XSebMs9YTob9EteN0rQ) | [Uli Tiro](https://open.spotify.com/artist/0330hhfjAyvYe2YFcVaD4t) | [Cold](https://open.spotify.com/album/5zJxYQ8vgaYru1uBzEH1ge) | 1:37 | 2023-04-03 |  |
 | [Cold Nose](https://open.spotify.com/track/4UmcSZJKJ63wnB5qHyYaIV) | [Frances The Mute](https://open.spotify.com/artist/2wCcRWGIQVa5m5oJuBplAs), [Lofi Koji](https://open.spotify.com/artist/6TEf8a5eAulCH644EY9Hvf) | [Cold Nose](https://open.spotify.com/album/3pDDF30FOgvIJwueAXVWDZ) | 2:24 | 2023-01-06 | 2023-10-20 |
 | [collogue](https://open.spotify.com/track/5sw8eqqQPKLkXydIyoLg2K) | [pipetiger](https://open.spotify.com/artist/12HMurN87aQV1xBcqfcjnL) | [collogue](https://open.spotify.com/album/1xexMTvQ3GWUGxhlxZ7min) | 2:00 | 2023-12-22 |  |
-| [Cologne](https://open.spotify.com/track/51Y2wtkgr7E6H2qs0w1xi0) | [Beatific Vision](https://open.spotify.com/artist/3VPIbKQGNGPsJN9WGpnILw) | [Cologne](https://open.spotify.com/album/7KU81f2QeZGlqrGMztXlmW) | 1:36 | 2023-09-15 |  |
+| [Cologne](https://open.spotify.com/track/51Y2wtkgr7E6H2qs0w1xi0) | [Beatific Vision](https://open.spotify.com/artist/3VPIbKQGNGPsJN9WGpnILw) | [Cologne](https://open.spotify.com/album/7KU81f2QeZGlqrGMztXlmW) | 1:36 | 2023-09-15 | 2024-02-25 |
 | [Color Violet](https://open.spotify.com/track/4ZxMXRYsecrYMvVD8FPHwA) | [Izzo Lizz](https://open.spotify.com/artist/7hTGpaTylPh9fDkmaR44Rr) | [Color Violet](https://open.spotify.com/album/2tmTKjBGtFNnSZqabuflcE) | 2:08 | 2023-08-17 |  |
 | [Colores](https://open.spotify.com/track/78nzT9F1FCU7f3Qg9tQU2E) | [Tufflo](https://open.spotify.com/artist/5NBNuJ9Yv7r01DfbhTCkR5) | [Green Tea](https://open.spotify.com/album/2dJ098DRzbBvIzoftA2E3x) | 2:26 | 2023-11-17 |  |
 | [Colorful Leaves](https://open.spotify.com/track/56zclYajeHI9U3KDWmFwwE) | [Oskar Hahn](https://open.spotify.com/artist/5D47BWKQT56z8xey53ZxmL), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Colorful Leaves](https://open.spotify.com/album/3xCpC0Mda19tESAUFUnO2t) | 1:50 | 2022-04-15 | 2022-08-12 |
@@ -904,6 +904,7 @@
 | [lite](https://open.spotify.com/track/4IXfJbHFwjkDKLKBS9IZwK) | [Hype Right](https://open.spotify.com/artist/5WyDwnrZMIyg4iDWrZuva4) | [lite](https://open.spotify.com/album/3pd6RWbrq8w1QzkrIPHXxJ) | 1:59 | 2023-12-15 |  |
 | [Little Did I Know](https://open.spotify.com/track/2sf7qX369WsHFulMxWgQzN) | [Miki Maou](https://open.spotify.com/artist/1BVujMA5brgpV9fRkNUeFS) | [Little Did I Know](https://open.spotify.com/album/0N7Jz53U5I1wJfQ7tSDmVs) | 2:18 | 2023-12-22 |  |
 | [Little Gizmo](https://open.spotify.com/track/6esyeDe38f70UQ6SrwNqxB) | [Analog Bow](https://open.spotify.com/artist/7kQ9kQ588r6INRWFlU1k1T) | [Little Gizmo](https://open.spotify.com/album/0MzAoikBA5kimZwGw4gBud) | 2:49 | 2024-01-12 |  |
+| [little pleasures](https://open.spotify.com/track/7oXwwzULPtCZHT7eCkXxIC) | [Sinebreak](https://open.spotify.com/artist/48LPQpMU3AOZ1JJrJGAfVA) | [little pleasures](https://open.spotify.com/album/38FHCzF51Q9sSlIKQ7sHXC) | 2:02 | 2024-02-23 |  |
 | [Little Waves](https://open.spotify.com/track/6qo8HnjJda3Qmq7Rz9grjD) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB), [Thomas Prime](https://open.spotify.com/artist/0g5fxcwv27dcy9iZz2GOq4) | [Little Waves](https://open.spotify.com/album/1o8d0S1TJQDDedjoZ64JQo) | 2:53 | 2022-04-22 | 2022-11-12 |
 | [live in beats](https://open.spotify.com/track/28uhS7JLWZtWxr8cxrJIwA) | [shapure](https://open.spotify.com/artist/34grM2pbi7LfEpQTrwURpL) | [live in beats](https://open.spotify.com/album/3FcBjV14vrmJ7SxB6eCktD) | 2:26 | 2022-04-15 | 2022-10-29 |
 | [Liza waited](https://open.spotify.com/track/286NfUkb1H8WjWkDfUESqw) | [Sail & Weep](https://open.spotify.com/artist/1ufnSHs8Qsy6u9d5hQo4Ao) | [Liza waited](https://open.spotify.com/album/547dH8CiDKtnLluMDeVZ35) | 2:09 | 2022-04-15 | 2022-12-03 |
@@ -1408,6 +1409,7 @@
 | [seven](https://open.spotify.com/track/0x5lZBgd6EekTwkTGVGE7M) | [Praizee](https://open.spotify.com/artist/04zAPci2CXOZnrVNw9PWaC) | [seven](https://open.spotify.com/album/2kbVdVtXdNRlDg8gUbOmJ2) | 2:36 | 2023-01-06 |  |
 | [Shade](https://open.spotify.com/track/1KDSYqKNzT5uo6aHDL88vC) | [Dippie Moon](https://open.spotify.com/artist/5c764NOMWRwarAlKX2Dd8L) | [Shade](https://open.spotify.com/album/2b5gBLg7rnvm78UE3amQk7) | 2:00 | 2023-07-13 |  |
 | [Shades Of Groove](https://open.spotify.com/track/0rxKoqUnlNePLIP6lzeBxE) | [Saï T](https://open.spotify.com/artist/0ngA3xgG8zkQ6PV2mqtPJA) | [Shades Of Groove](https://open.spotify.com/album/1q86UDMbp2LLSLa7aSC5al) | 2:44 | 2022-04-15 | 2022-09-02 |
+| [shanghai tower](https://open.spotify.com/track/0BBtNOB7ofrOJ9PLM74EQn) | [yellofish](https://open.spotify.com/artist/6wHTJtZcirtHMW5PALNq3p) | [shanghai tower](https://open.spotify.com/album/4ds0B84aCLuJkq15R8iT3O) | 2:17 | 2024-02-23 |  |
 | [Shanghai, 4AM](https://open.spotify.com/track/7GWNhXxBhU5zXifNuLA9Vp) | [Beats Per City](https://open.spotify.com/artist/1EZk4Yqacy9q6psmXiQR3G) | [Shanghai, 4AM](https://open.spotify.com/album/33a3a2DxYBxPv5RYa18pxe) | 1:47 | 2022-04-15 | 2022-10-29 |
 | [Shapes](https://open.spotify.com/track/4BiiiOiilAEgCkeynf3hlC) | [K9 Division](https://open.spotify.com/artist/14mNenIi1W5u68fvDTd7ES) | [Shapes](https://open.spotify.com/album/2Gk8tUVQ8KTbTJCd2hnvZZ) | 1:54 | 2022-10-07 |  |
 | [She Knows](https://open.spotify.com/track/4yjPdsGELPqYmcqFTMtc79) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x), [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [She Knows](https://open.spotify.com/album/1v4b3UJUEJBbSu3XBDUZYX) | 2:27 | 2022-09-23 | 2023-01-07 |
@@ -1840,7 +1842,7 @@
 | [Workit](https://open.spotify.com/track/7GmA2dTy4r4MPxenVVDzMy) | [Netta Inn](https://open.spotify.com/artist/7lF2gpQHWssOuxR1kipNsn) | [Workit](https://open.spotify.com/album/1WSr66Wahw1IvFjmystaxW) | 2:45 | 2022-04-15 | 2022-07-01 |
 | [World Is My Pillow](https://open.spotify.com/track/0V2A3Wj3b7wLbEf0kLZAhn) | [Inf](https://open.spotify.com/artist/6yGW6Z2OraCYUr9OsqZo2x), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [World Is My Pillow](https://open.spotify.com/album/4DtC7Dy60nNTJP6vOoCG5q) | 1:44 | 2022-04-15 | 2022-10-14 |
 | [World Wonders](https://open.spotify.com/track/7ECNeHwthaexm4DlKXoB6L) | [Anex Xi Ko](https://open.spotify.com/artist/49aViG8nPbDT9il51JrGD4) | [World Wonders](https://open.spotify.com/album/3WBitz6lZdhmXpW7Nu7FzO) | 1:58 | 2022-10-28 |  |
-| [wrapped arms](https://open.spotify.com/track/2ubSXCCGBqeqVmAO9MLtJC) | [LisaMadeIt](https://open.spotify.com/artist/5ViVYkn32Af29Mqim9TPj6) | [wrapped arms](https://open.spotify.com/album/23SKlJ7adcyLeKDQcjrZ5E) | 1:57 | 2022-07-15 |  |
+| [wrapped arms](https://open.spotify.com/track/2ubSXCCGBqeqVmAO9MLtJC) | [LisaMadeIt](https://open.spotify.com/artist/5ViVYkn32Af29Mqim9TPj6) | [wrapped arms](https://open.spotify.com/album/23SKlJ7adcyLeKDQcjrZ5E) | 1:57 | 2022-07-15 | 2024-02-25 |
 | [wwwonderful](https://open.spotify.com/track/75EDTSiCdoU7D1fudbsVRj) | [chilliament](https://open.spotify.com/artist/6XpSrMMpim7PcR2s9dMnu7) | [llofi](https://open.spotify.com/album/1jPxjaOPiE04TzQbJiU1ow) | 2:18 | 2022-04-15 | 2023-02-14 |
 | [XOXO](https://open.spotify.com/track/6Bc5p9BJM9YPS9sZNaBp9V) | [Nostalgique](https://open.spotify.com/artist/4i29Lf2vHDzbCPrkdP3uoM) | [Night Life](https://open.spotify.com/album/5cNuT4skHDNiMmiwehhknD) | 1:31 | 2022-04-15 | 2022-07-15 |
 | [yellow](https://open.spotify.com/track/0lVHOXO4RZVfAog2QnCQ3T) | [ThinkChill](https://open.spotify.com/artist/0UFcspQ3mJJHtvaU43z460), [CHG](https://open.spotify.com/artist/19wrYTgQ1HpOBX5cjB58tl) | [yellow](https://open.spotify.com/album/7DVT4nL7IW52rubRdiEfut) | 2:06 | 2022-08-05 | 2022-12-03 |

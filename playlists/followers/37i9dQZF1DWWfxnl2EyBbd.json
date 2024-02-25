@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 76207,
+  "2024-02-25": 76250,
   "date_first_scraped": "2022-02-11",
   "description": "The soft sound of a Jazz piano trio to help you relax and unwind.",
   "name": "Relaxing Jazz Piano",
@@ -7811,7 +7811,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 363208,
       "name": "Snow Ghost",
       "url": "https://open.spotify.com/track/2UBumdntcd5ufINFo9w9ZX"
@@ -8561,6 +8561,24 @@
       "duration_ms": 172541,
       "name": "Terrassed\u00f8r",
       "url": "https://open.spotify.com/track/57tJTC6pmYgKWmc4Jo9Mz0"
+    },
+    {
+      "album": {
+        "name": "That Was Then",
+        "url": "https://open.spotify.com/album/68LKBJ6tGkv0SgrF1yVb42"
+      },
+      "artists": [
+        {
+          "name": "Roelofs",
+          "url": "https://open.spotify.com/artist/6FMjIGodIpXfHq3X5Mfry4"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334548,
+      "name": "That Was Then",
+      "url": "https://open.spotify.com/track/4hAzpVLnohaPrgwC4lIOxh"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 79081,
+  "2024-02-25": 79155,
   "date_first_scraped": "2023-03-30",
   "description": "New Hip Hop from India.",
   "name": "Taaza hai bro!",
@@ -853,6 +853,28 @@
       "duration_ms": 330810,
       "name": "Boyfriend",
       "url": "https://open.spotify.com/track/79L4Ilf14zlMlwosjVWWyG"
+    },
+    {
+      "album": {
+        "name": "Brand Deals",
+        "url": "https://open.spotify.com/album/2bCAAfKSCn5Zmg3FLw0gF1"
+      },
+      "artists": [
+        {
+          "name": "JASKARAN",
+          "url": "https://open.spotify.com/artist/4AzMhFHYDgw1CZ9SIg885K"
+        },
+        {
+          "name": "dox",
+          "url": "https://open.spotify.com/artist/7sIGEYfllS5VN2Fj0QCtX4"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185346,
+      "name": "Brand Deals",
+      "url": "https://open.spotify.com/track/2iUY2m9C0mCdYJVvGuhEGm"
     },
     {
       "album": {
@@ -2245,7 +2267,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 170369,
       "name": "International",
       "url": "https://open.spotify.com/track/1sV2f9mG1FEHaE4mSdDEwU"

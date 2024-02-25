@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 60173,
+  "2024-02-25": 60176,
   "date_first_scraped": "2023-12-10",
   "description": "Got that summertime feeling \ud83c\udf34",
   "name": "Pool Party (2)",
@@ -487,7 +487,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 291050,
       "name": "Endit",
       "url": "https://open.spotify.com/track/5ZJFobJ62N2HlpgyCjjVtm"
@@ -603,6 +603,24 @@
       "duration_ms": 211855,
       "name": "Highlands",
       "url": "https://open.spotify.com/track/177wGtLGKq5S8FqcagPDj6"
+    },
+    {
+      "album": {
+        "name": "Faith Crisis Pt 1",
+        "url": "https://open.spotify.com/album/0NxJjIo7cyOfhcW4Eh6j1z"
+      },
+      "artists": [
+        {
+          "name": "Middle Kids",
+          "url": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211855,
+      "name": "Highlands",
+      "url": "https://open.spotify.com/track/3juc8eQreETBUlYYXy5jhd"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 415470,
+  "2024-02-25": 415469,
   "date_first_scraped": "2021-12-21",
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Josh Abbott Band",
   "name": "Texas Country Now",
@@ -3209,7 +3209,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 219600,
       "name": "Fine & Dandy",
       "url": "https://open.spotify.com/track/0HRBAbJgZuQM3Ku66svJFZ"
@@ -4653,6 +4653,24 @@
       "duration_ms": 214582,
       "name": "Hurt No More",
       "url": "https://open.spotify.com/track/4vdMdvjrwdm3CR5oobcBIS"
+    },
+    {
+      "album": {
+        "name": "I Ain't Drinkin' anymore",
+        "url": "https://open.spotify.com/album/5upiiDN439Eryn5bmTLhwy"
+      },
+      "artists": [
+        {
+          "name": "Sister C",
+          "url": "https://open.spotify.com/artist/1qhDoPY1tOHZzwXOnj2cE6"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197276,
+      "name": "I Ain't Drinkin' anymore",
+      "url": "https://open.spotify.com/track/6A1ohNxfXzVD2r2KzMVkUo"
     },
     {
       "album": {
@@ -6909,7 +6927,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 182406,
       "name": "Over",
       "url": "https://open.spotify.com/track/1VbOWB3O8M0shS5fcMhlU8"
@@ -7634,6 +7652,36 @@
     },
     {
       "album": {
+        "name": "Running out of Time",
+        "url": "https://open.spotify.com/album/43tiHHwZStRZcQJmm6ohVf"
+      },
+      "artists": [
+        {
+          "name": "Casey Donahew",
+          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
+        },
+        {
+          "name": "Pat Green",
+          "url": "https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX"
+        },
+        {
+          "name": "Randy Rogers",
+          "url": "https://open.spotify.com/artist/2DwAtAKSDY87F2pu50Csrk"
+        },
+        {
+          "name": "Wade Bowen",
+          "url": "https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217899,
+      "name": "Running out of Time",
+      "url": "https://open.spotify.com/track/66Xb15mkqTgCu06aGUmgOu"
+    },
+    {
+      "album": {
         "name": "Same Place Twice",
         "url": "https://open.spotify.com/album/64X0U4axUjoAuupKouCnAU"
       },
@@ -8051,7 +8099,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-12",
+      "date_removed": null,
       "duration_ms": 150572,
       "name": "Side of Goodbye",
       "url": "https://open.spotify.com/track/4qgbOxYNnvahjjZra6TSt7"
@@ -11129,7 +11177,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 214253,
       "name": "Your Bar Now",
       "url": "https://open.spotify.com/track/4ZZK3Nud5Ax5ZExoFZYhGq"

@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 166045,
+  "2024-02-25": 166050,
   "date_first_scraped": "2022-03-24",
   "description": "aqueles papo de amor tlgd n\u00e3o?",
   "name": "Flow Romance",
@@ -3148,6 +3148,36 @@
     },
     {
       "album": {
+        "name": "Essa Daqui Vira Trend",
+        "url": "https://open.spotify.com/album/6htm3zTF8FEgsOPGTWgqCr"
+      },
+      "artists": [
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270175,
+      "name": "Essa Daqui Vira Trend",
+      "url": "https://open.spotify.com/track/6gAD9BkdcEXM9X3ObuuWjC"
+    },
+    {
+      "album": {
         "name": "(EX) POSTO",
         "url": "https://open.spotify.com/album/5YlxSyxPJBFQeJelrmwCVd"
       },
@@ -5790,6 +5820,24 @@
     },
     {
       "album": {
+        "name": "Mente Que Me Ama",
+        "url": "https://open.spotify.com/album/3KoOGkWfoJ9qL8GdizYjza"
+      },
+      "artists": [
+        {
+          "name": "Jun Alcan",
+          "url": "https://open.spotify.com/artist/7CPlbqxyWd17sV44Morx3V"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125142,
+      "name": "Mente Que Me Ama",
+      "url": "https://open.spotify.com/track/5cnYEqKZyv6YnKNz2tkU9b"
+    },
+    {
+      "album": {
         "name": "Mentira",
         "url": "https://open.spotify.com/album/2dLZ8uPEO7ZME7WaAu2mPC"
       },
@@ -5809,7 +5857,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 152578,
       "name": "Mentira",
       "url": "https://open.spotify.com/track/76TGI32KPntOenqouYugE9"
@@ -7268,6 +7316,32 @@
     },
     {
       "album": {
+        "name": "Olhar HD",
+        "url": "https://open.spotify.com/album/5eAdKrXdGOxJEMmL1gucTv"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167741,
+      "name": "OLHAR HD",
+      "url": "https://open.spotify.com/track/0MKn146xdKs9Gnwtkfl0fB"
+    },
+    {
+      "album": {
         "name": "OnlyFans",
         "url": "https://open.spotify.com/album/4xXXP9J3z6kylevnAGUGte"
       },
@@ -7869,7 +7943,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 133953,
       "name": "Planos",
       "url": "https://open.spotify.com/track/5x7R1rusIM5Hwy91kj0mf0"
@@ -9792,6 +9866,24 @@
     },
     {
       "album": {
+        "name": "Tbt",
+        "url": "https://open.spotify.com/album/0gne4ChhTLG9gUvLSssiyr"
+      },
+      "artists": [
+        {
+          "name": "Ya Malb",
+          "url": "https://open.spotify.com/artist/4TQQfni0Ql808AhLVD7Tdo"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195115,
+      "name": "Tbt",
+      "url": "https://open.spotify.com/track/39ykOzUNFjg3lFNzDIOcVL"
+    },
+    {
+      "album": {
         "name": "Es\u00fa",
         "url": "https://open.spotify.com/album/11KgjDEaT1YjNUphDDTOzc"
       },
@@ -10201,7 +10293,7 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 137142,
       "name": "Tudo Oque Quero",
       "url": "https://open.spotify.com/track/3jHQypDRSnCMRO244MQSrA"
@@ -10638,6 +10730,40 @@
     },
     {
       "album": {
+        "name": "Victoria's Secrets",
+        "url": "https://open.spotify.com/album/2hGnJhss1wzMSwkMZNeSeM"
+      },
+      "artists": [
+        {
+          "name": "Boca",
+          "url": "https://open.spotify.com/artist/7DM9mUj11mLXmrtgw8YxaX"
+        },
+        {
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        },
+        {
+          "name": "Gabriel Xan",
+          "url": "https://open.spotify.com/artist/48OAXgxXNHMfRgOPGy2oAK"
+        },
+        {
+          "name": "Doid\u00e3o Beats",
+          "url": "https://open.spotify.com/artist/1SY2NQQLliQAXoi0YtGZQm"
+        },
+        {
+          "name": "PTKA",
+          "url": "https://open.spotify.com/artist/4ChHh2DTGIbIUciPmoSxej"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181224,
+      "name": "Victoria's Secrets",
+      "url": "https://open.spotify.com/track/0wip0vMqXUZptWl8s386yR"
+    },
+    {
+      "album": {
         "name": "Vida de Novela",
         "url": "https://open.spotify.com/album/7Mi2DVCUdxHJa3OFcMQSFC"
       },
@@ -10781,7 +10907,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 126171,
       "name": "Viramos Estranhos 3",
       "url": "https://open.spotify.com/track/0JCtGxuxPvSM0S2nqg5nYD"
@@ -10861,7 +10987,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 176000,
       "name": "Volta Pra Mim",
       "url": "https://open.spotify.com/track/7dpmISLih258IXWXeqy9fS"

@@ -1,12 +1,12 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Rymz",
-  "num_followers": 39710,
+  "num_followers": 39716,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNTQ4ZmU2NTcwZmEwOGNjOTU0MjdmNDQzOGMxMzEwNjRlYmQ2MjAx",
+  "snapshot_id": "MCxjOTZjYTI3YWFkZTQ0ZGJjMDgwMWQwZDRjMTdhMWM2ZGU2MTlkMGI4",
   "tracks": [
     {
       "added_at": "2024-02-23 05:00:00",
@@ -527,6 +527,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "Prime",
+        "url": "https://open.spotify.com/album/2dF2ZByoSuH2ZZrzoGpjzQ"
+      },
+      "artists": [
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "duration_ms": 141226,
+      "name": "Position",
+      "url": "https://open.spotify.com/track/3Zw66L4FvI9YUUx17OReRD"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "La route est longue",
         "url": "https://open.spotify.com/album/1g2C4B3Adi9L27BLlVJdEs"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 219680,
       "name": "La fusion",
       "url": "https://open.spotify.com/track/5zDwN3tjp5OGK7SD6gXYbr"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Si t'es pas l\u00e0",
-        "url": "https://open.spotify.com/album/0w4IYykWb4wgw3LkUxRpwg"
-      },
-      "artists": [
-        {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Si t'es pas l\u00e0",
-      "url": "https://open.spotify.com/track/7iFHqrO5zR5W2BLX1tcFvU"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -659,18 +659,18 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "CIT\u00c9S DE FRANCE",
-        "url": "https://open.spotify.com/album/4AQnvq1XEUY73naLsqhixX"
+        "name": "Si t'es pas l\u00e0",
+        "url": "https://open.spotify.com/album/0w4IYykWb4wgw3LkUxRpwg"
       },
       "artists": [
         {
-          "name": "UZI",
-          "url": "https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI"
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
         }
       ],
-      "duration_ms": 215826,
-      "name": "CIT\u00c9S DE FRANCE",
-      "url": "https://open.spotify.com/track/4jTX6SbFPbAp5064fg2Tl2"
+      "duration_ms": 197000,
+      "name": "Si t'es pas l\u00e0",
+      "url": "https://open.spotify.com/track/7iFHqrO5zR5W2BLX1tcFvU"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -695,38 +695,18 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "HEARTBREAK LIFE II",
-        "url": "https://open.spotify.com/album/0SonjsOAiaOLaMm9TsdS5o"
+        "name": "CIT\u00c9S DE FRANCE",
+        "url": "https://open.spotify.com/album/4AQnvq1XEUY73naLsqhixX"
       },
       "artists": [
         {
-          "name": "Kaza",
-          "url": "https://open.spotify.com/artist/4MRRW42s9ymwa5zu4xTKJh"
-        },
-        {
-          "name": "Naza",
-          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+          "name": "UZI",
+          "url": "https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI"
         }
       ],
-      "duration_ms": 149133,
-      "name": "CALMANT",
-      "url": "https://open.spotify.com/track/5aJhbhV4fTcLSkgH8y3aKq"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Prime",
-        "url": "https://open.spotify.com/album/2dF2ZByoSuH2ZZrzoGpjzQ"
-      },
-      "artists": [
-        {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
-        }
-      ],
-      "duration_ms": 141226,
-      "name": "Position",
-      "url": "https://open.spotify.com/track/3Zw66L4FvI9YUUx17OReRD"
+      "duration_ms": 215826,
+      "name": "CIT\u00c9S DE FRANCE",
+      "url": "https://open.spotify.com/track/4jTX6SbFPbAp5064fg2Tl2"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -747,6 +727,26 @@
       "duration_ms": 188946,
       "name": "Fio Maravilha",
       "url": "https://open.spotify.com/track/1W9TsPRxMfhnI0bmfg3Kwh"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "HEARTBREAK LIFE II",
+        "url": "https://open.spotify.com/album/0SonjsOAiaOLaMm9TsdS5o"
+      },
+      "artists": [
+        {
+          "name": "Kaza",
+          "url": "https://open.spotify.com/artist/4MRRW42s9ymwa5zu4xTKJh"
+        },
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        }
+      ],
+      "duration_ms": 149133,
+      "name": "CALMANT",
+      "url": "https://open.spotify.com/track/5aJhbhV4fTcLSkgH8y3aKq"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -859,6 +859,26 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "Fr\u00e8res Ennemis",
+        "url": "https://open.spotify.com/album/2BBiqL9LvtK9Dk9aYBEsGC"
+      },
+      "artists": [
+        {
+          "name": "Zola",
+          "url": "https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4"
+        },
+        {
+          "name": "Koba LaD",
+          "url": "https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3"
+        }
+      ],
+      "duration_ms": 179280,
+      "name": "Amiri jeans",
+      "url": "https://open.spotify.com/track/4YCvIRnKeOQfKbJXNWKZw5"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "VDM (feat. Leto)",
         "url": "https://open.spotify.com/album/3yC77NQtuhVxH0uLc8Jhvj"
       },
@@ -907,22 +927,6 @@
       "duration_ms": 191479,
       "name": "Bravo",
       "url": "https://open.spotify.com/track/36FUspAqaG0UBBRrOXpnsF"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "JUNGLE",
-        "url": "https://open.spotify.com/album/5CgC5dMHUU6mKHWxdqjMVi"
-      },
-      "artists": [
-        {
-          "name": "Hatik",
-          "url": "https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "JUNGLE",
-      "url": "https://open.spotify.com/track/1AZLauYJZgld6QahY0gcIV"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

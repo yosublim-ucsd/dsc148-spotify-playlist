@@ -1768,7 +1768,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 209031,
       "name": "Calling",
       "url": "https://open.spotify.com/track/381ECEhvIF9iuarDpJ1m9f"
@@ -5750,6 +5750,28 @@
       "duration_ms": 263785,
       "name": "Le Crocodile",
       "url": "https://open.spotify.com/track/6Diwqd0hI8ychp5DL5QVMb"
+    },
+    {
+      "album": {
+        "name": "Lean Into The Sunshine",
+        "url": "https://open.spotify.com/album/7rgSE69LAmqzt5kCYj7C1k"
+      },
+      "artists": [
+        {
+          "name": "Sparrow & Barbossa",
+          "url": "https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx"
+        },
+        {
+          "name": "Young Saab",
+          "url": "https://open.spotify.com/artist/3koEtGT6SxcjRgwh6YwDx5"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366829,
+      "name": "Lean Into The Sunshine",
+      "url": "https://open.spotify.com/track/1FC909ieY6lAD7U4pz6Hvl"
     },
     {
       "album": {

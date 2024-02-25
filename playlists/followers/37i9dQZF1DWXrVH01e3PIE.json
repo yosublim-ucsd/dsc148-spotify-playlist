@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 616617,
+  "2024-02-25": 616619,
   "date_first_scraped": "2022-01-24",
   "description": "Muerejoven en la casa del Trap Argentino.",
   "name": "Trapperz Argentina",
@@ -2960,6 +2960,36 @@
     },
     {
       "album": {
+        "name": "mi \u00faltimo peso",
+        "url": "https://open.spotify.com/album/3lOt9QdR7bz1P0MLBtPTgT"
+      },
+      "artists": [
+        {
+          "name": "Foking",
+          "url": "https://open.spotify.com/artist/60n2WytJgR3JHkeqJxZQrm"
+        },
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        },
+        {
+          "name": "Lisan Beat",
+          "url": "https://open.spotify.com/artist/33mpx3IrKw93IM1C8tVSQi"
+        },
+        {
+          "name": "DommoBeats",
+          "url": "https://open.spotify.com/artist/2kMVBdVpeeZOVpeirhykCc"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140767,
+      "name": "mi \u00faltimo peso",
+      "url": "https://open.spotify.com/track/41ulq0dim3Y5atEeTrCruU"
+    },
+    {
+      "album": {
         "name": "Busc\u00e1ndome",
         "url": "https://open.spotify.com/album/2q5fSdsR4ZNFFQHkrxWJmz"
       },
@@ -3611,7 +3641,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 163500,
       "name": "Paganini",
       "url": "https://open.spotify.com/track/3KoLkijsDOTBsecxg8L9g2"
@@ -3725,6 +3755,28 @@
       "duration_ms": 192000,
       "name": "Perdoname Si Llego Tarde",
       "url": "https://open.spotify.com/track/4YvVZba3sBU3qLI7I6TVWD"
+    },
+    {
+      "album": {
+        "name": "Lo Complicado de Ser Simple",
+        "url": "https://open.spotify.com/album/66Pl7WcCNMCFlOIeykeESY"
+      },
+      "artists": [
+        {
+          "name": "Midel",
+          "url": "https://open.spotify.com/artist/4EcIU574ksr6mC1GMEOe0p"
+        },
+        {
+          "name": "Knak",
+          "url": "https://open.spotify.com/artist/3IYKcXI1sFqT1ZtfyoW55C"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Phono",
+      "url": "https://open.spotify.com/track/0wxvfLAslCS2yrVHDXg4kk"
     },
     {
       "album": {
@@ -4793,7 +4845,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 208458,
       "name": "Tamo En On",
       "url": "https://open.spotify.com/track/5oD5AjdSGiWNswzMYqBbK0"

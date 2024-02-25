@@ -1,12 +1,12 @@
 {
   "description": "The sound and soul that keeps Mauritius jamming",
-  "num_followers": 2475,
+  "num_followers": 2478,
   "original_name": "Sega Hitlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjE4OTc0ZGM5ZGUyMzlkMTBlMDcwMDQwNTI1OGQyN2Q0YjRkNTA5",
+  "snapshot_id": "MCw5YWE4YzU1YjNiMzI3ZTA0NDIwZTFmZjNhYTU3MDZhYTJkMjg0NTZi",
   "tracks": [
     {
       "added_at": "2022-08-11 10:05:16",
@@ -207,22 +207,6 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "Les meilleurs s\u00e9gas de Jean-Claude (Folk Music of Mauritius Island)",
-        "url": "https://open.spotify.com/album/5PJ8ITlQfwJ7exo1QAPZSJ"
-      },
-      "artists": [
-        {
-          "name": "Jean-Claude",
-          "url": "https://open.spotify.com/artist/0UhmK26kiuevCeuvexjdp5"
-        }
-      ],
-      "duration_ms": 352360,
-      "name": "Dhobi de classe",
-      "url": "https://open.spotify.com/track/18D0UnZXdzRDDMgHvSdaJT"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
         "name": "Alim\u00e9 dif\u00e9 (Ile Maurice)",
         "url": "https://open.spotify.com/album/70LlYn7WYSI6QLSBUCAjFb"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 313000,
       "name": "Alim\u00e9 dif\u00e9 - Version originale",
       "url": "https://open.spotify.com/track/1eW6Go45BRf63uRPsZ3XeJ"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
+        "name": "Les meilleurs s\u00e9gas de Jean-Claude (Folk Music of Mauritius Island)",
+        "url": "https://open.spotify.com/album/5PJ8ITlQfwJ7exo1QAPZSJ"
+      },
+      "artists": [
+        {
+          "name": "Jean-Claude",
+          "url": "https://open.spotify.com/artist/0UhmK26kiuevCeuvexjdp5"
+        }
+      ],
+      "duration_ms": 352360,
+      "name": "Dhobi de classe",
+      "url": "https://open.spotify.com/track/18D0UnZXdzRDDMgHvSdaJT"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -603,22 +603,6 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "Zalouzi",
-        "url": "https://open.spotify.com/album/4i8Ud0mH48W6TV0lfTr6UK"
-      },
-      "artists": [
-        {
-          "name": "JSB Morning Game",
-          "url": "https://open.spotify.com/artist/6B9Kbq1Jds4MxuYWXSAoj7"
-        }
-      ],
-      "duration_ms": 281917,
-      "name": "Madame ohh",
-      "url": "https://open.spotify.com/track/30i9vsQ8x5UPsGS4oRNPaf"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
         "name": "Fiesta Ravanna",
         "url": "https://open.spotify.com/album/4YAnKxfxynLPWrv24FEBAJ"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 265413,
       "name": "Fiesta Ravanna",
       "url": "https://open.spotify.com/track/3y8e0s5QzwyvjHA1CjTSFn"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
+        "name": "Zalouzi",
+        "url": "https://open.spotify.com/album/4i8Ud0mH48W6TV0lfTr6UK"
+      },
+      "artists": [
+        {
+          "name": "JSB Morning Game",
+          "url": "https://open.spotify.com/artist/6B9Kbq1Jds4MxuYWXSAoj7"
+        }
+      ],
+      "duration_ms": 281917,
+      "name": "Madame ohh",
+      "url": "https://open.spotify.com/track/30i9vsQ8x5UPsGS4oRNPaf"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "Le Roi du s\u00e9ga",
-        "url": "https://open.spotify.com/album/5yIOf6ROItIpkpc8f5Uo9h"
-      },
-      "artists": [
-        {
-          "name": "Luc Donat",
-          "url": "https://open.spotify.com/artist/6L1SxgKXrIel5yitflGBxm"
-        }
-      ],
-      "duration_ms": 192200,
-      "name": "S\u00e9ga Jacquot",
-      "url": "https://open.spotify.com/track/4BjTvikquZufEHDjxJMBxm"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
         "name": "A nou santt Cassya",
         "url": "https://open.spotify.com/album/241lyCwOGhmRLROixQD046"
       },
@@ -683,22 +667,18 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "Zalouzi",
-        "url": "https://open.spotify.com/album/4i8Ud0mH48W6TV0lfTr6UK"
+        "name": "Le Roi du s\u00e9ga",
+        "url": "https://open.spotify.com/album/5yIOf6ROItIpkpc8f5Uo9h"
       },
       "artists": [
         {
-          "name": "JSB Morning Game",
-          "url": "https://open.spotify.com/artist/6B9Kbq1Jds4MxuYWXSAoj7"
-        },
-        {
-          "name": "Julien Verloppe",
-          "url": "https://open.spotify.com/artist/40ld1lEZz0y0r3cHngak60"
+          "name": "Luc Donat",
+          "url": "https://open.spotify.com/artist/6L1SxgKXrIel5yitflGBxm"
         }
       ],
-      "duration_ms": 250358,
-      "name": "Ti lipi\u00e9 fer rozet",
-      "url": "https://open.spotify.com/track/31pGdVTn8adJ9FV2515Lkd"
+      "duration_ms": 192200,
+      "name": "S\u00e9ga Jacquot",
+      "url": "https://open.spotify.com/track/4BjTvikquZufEHDjxJMBxm"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -799,6 +779,26 @@
       "duration_ms": 215066,
       "name": "SA FAM LA",
       "url": "https://open.spotify.com/track/7klLrUyJHtye2IxxvD1Zv6"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
+        "name": "Zalouzi",
+        "url": "https://open.spotify.com/album/4i8Ud0mH48W6TV0lfTr6UK"
+      },
+      "artists": [
+        {
+          "name": "JSB Morning Game",
+          "url": "https://open.spotify.com/artist/6B9Kbq1Jds4MxuYWXSAoj7"
+        },
+        {
+          "name": "Julien Verloppe",
+          "url": "https://open.spotify.com/artist/40ld1lEZz0y0r3cHngak60"
+        }
+      ],
+      "duration_ms": 250358,
+      "name": "Ti lipi\u00e9 fer rozet",
+      "url": "https://open.spotify.com/track/31pGdVTn8adJ9FV2515Lkd"
     },
     {
       "added_at": "2022-08-11 10:05:16",

@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 17904,
+  "2024-02-25": 17929,
   "date_first_scraped": "2023-01-18",
   "description": "Descubre los nuevos \u00e1lbumes del 2024. Hit shuffle for a mixed listening experience. Cover: Greeicy",
   "name": "New Latin Albums",
@@ -133,6 +133,32 @@
       "duration_ms": 130741,
       "name": "305",
       "url": "https://open.spotify.com/track/4bIzQDCQH9g7h2GPWsWFoP"
+    },
+    {
+      "album": {
+        "name": "313",
+        "url": "https://open.spotify.com/album/00hrqWTuXfvZJtHkFLEuaz"
+      },
+      "artists": [
+        {
+          "name": "Residente",
+          "url": "https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS"
+        },
+        {
+          "name": "S\u00edlvia P\u00e9rez Cruz",
+          "url": "https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw"
+        },
+        {
+          "name": "Pen\u00e9lope Cruz",
+          "url": "https://open.spotify.com/artist/46gEDN82KLMrq4ekmL2YYx"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367131,
+      "name": "313",
+      "url": "https://open.spotify.com/track/0hvoZ7gp6eozfjVQe05asN"
     },
     {
       "album": {
@@ -2818,6 +2844,24 @@
     },
     {
       "album": {
+        "name": "A fuego lento (feat. Vicente Garcia)",
+        "url": "https://open.spotify.com/album/1Lp0BSFnmEGJtcNDd3iHxa"
+      },
+      "artists": [
+        {
+          "name": "Daym\u00e9 Arocena",
+          "url": "https://open.spotify.com/artist/6LcWO77VeIUPqNY22N3fI0"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204180,
+      "name": "Como vivir por el",
+      "url": "https://open.spotify.com/track/36e37Gj41WZ0OcT9lsIDrw"
+    },
+    {
+      "album": {
         "name": "ETDM Reloaded",
         "url": "https://open.spotify.com/album/7Ef3Tpm2A87GFx4xnfwrMb"
       },
@@ -2925,6 +2969,24 @@
       "duration_ms": 207096,
       "name": "CON LOS AROS 22",
       "url": "https://open.spotify.com/track/03QEu6x9S21eUkffyT3WLb"
+    },
+    {
+      "album": {
+        "name": "dudas",
+        "url": "https://open.spotify.com/album/7MFBCEog1VRZeQoUy5wLmF"
+      },
+      "artists": [
+        {
+          "name": "Vic Mirallas",
+          "url": "https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159640,
+      "name": "con los pies",
+      "url": "https://open.spotify.com/track/2DkL2fH3VCPCKZZwhmqXwV"
     },
     {
       "album": {
@@ -4634,6 +4696,24 @@
     },
     {
       "album": {
+        "name": "Alkemi",
+        "url": "https://open.spotify.com/album/1BDQjKr3G3qEkYwPJo8ETg"
+      },
+      "artists": [
+        {
+          "name": "Daym\u00e9 Arocena",
+          "url": "https://open.spotify.com/artist/6LcWO77VeIUPqNY22N3fI0"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210392,
+      "name": "El amor la esperanza",
+      "url": "https://open.spotify.com/track/3BB8rlqZMmCxVWjd7wQCyZ"
+    },
+    {
+      "album": {
         "name": "PRISMARAMA",
         "url": "https://open.spotify.com/album/5v6P0bMAwBTwIoe1ENTyst"
       },
@@ -5427,6 +5507,32 @@
       "duration_ms": 141889,
       "name": "Estilo de Vida",
       "url": "https://open.spotify.com/track/1muTEUeGKeiS6PlVHFBIWq"
+    },
+    {
+      "album": {
+        "name": "LAS LETRAS YA NO IMPORTAN",
+        "url": "https://open.spotify.com/album/2VqfdamIWfwbBVzOzHJWs3"
+      },
+      "artists": [
+        {
+          "name": "Residente",
+          "url": "https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS"
+        },
+        {
+          "name": "Vico C",
+          "url": "https://open.spotify.com/artist/0ciTdf9bGl9L3JM1Z0nLCT"
+        },
+        {
+          "name": "Big Daddy Kane",
+          "url": "https://open.spotify.com/artist/6futYSDVulYR2PktBjTB5W"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216940,
+      "name": "Estilo Libre",
+      "url": "https://open.spotify.com/track/0ZM3I8ddNM1MVWtixIch0f"
     },
     {
       "album": {
@@ -8668,6 +8774,28 @@
     },
     {
       "album": {
+        "name": "LUNA 18",
+        "url": "https://open.spotify.com/album/2lkLkEzDpDpGjIUHH7kavU"
+      },
+      "artists": [
+        {
+          "name": "Walls",
+          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
+        },
+        {
+          "name": "Evlay",
+          "url": "https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176160,
+      "name": "MALAVIDA (feat. Evlay)",
+      "url": "https://open.spotify.com/track/27nzBHeQnDC8WvJlHdbEr9"
+    },
+    {
+      "album": {
         "name": "Mala Sangre",
         "url": "https://open.spotify.com/album/2wrjRXAX0alWHtCiwYGYG7"
       },
@@ -10384,6 +10512,28 @@
     },
     {
       "album": {
+        "name": "LUNA 18",
+        "url": "https://open.spotify.com/album/2lkLkEzDpDpGjIUHH7kavU"
+      },
+      "artists": [
+        {
+          "name": "Walls",
+          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
+        },
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195928,
+      "name": "no s\u00e9 de amor (feat. Leo Rizzi)",
+      "url": "https://open.spotify.com/track/6noc267JUC9heNPuOCCjW0"
+    },
+    {
+      "album": {
         "name": "DEKKOLETERA 333",
         "url": "https://open.spotify.com/album/12gXwHN7MFHNc48utTmuGM"
       },
@@ -10897,6 +11047,24 @@
       "duration_ms": 156622,
       "name": "Oro",
       "url": "https://open.spotify.com/track/0TaJHdNXNSxAJDj1B5jjJw"
+    },
+    {
+      "album": {
+        "name": "LUNA 18",
+        "url": "https://open.spotify.com/album/2lkLkEzDpDpGjIUHH7kavU"
+      },
+      "artists": [
+        {
+          "name": "Walls",
+          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168428,
+      "name": "Otra Mitad",
+      "url": "https://open.spotify.com/track/5FX9FbeKFlQGEJbCYdQ7TI"
     },
     {
       "album": {
@@ -11934,6 +12102,24 @@
     },
     {
       "album": {
+        "name": "Por ti",
+        "url": "https://open.spotify.com/album/7J48NdfyjSayVLgEWduCPa"
+      },
+      "artists": [
+        {
+          "name": "Daym\u00e9 Arocena",
+          "url": "https://open.spotify.com/artist/6LcWO77VeIUPqNY22N3fI0"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196870,
+      "name": "Por ti",
+      "url": "https://open.spotify.com/track/4q7qEtx8ZJ9wF4WJcCR3CP"
+    },
+    {
+      "album": {
         "name": "Voy a Ti",
         "url": "https://open.spotify.com/album/7gUNzasmUNhcwpkgHnILQe"
       },
@@ -12884,6 +13070,24 @@
     },
     {
       "album": {
+        "name": "Ron En El Piso",
+        "url": "https://open.spotify.com/album/2FfQlGud9aEcHPuDkwYj5z"
+      },
+      "artists": [
+        {
+          "name": "Residente",
+          "url": "https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335111,
+      "name": "Ron En El Piso",
+      "url": "https://open.spotify.com/track/4NV0h97tYFnu3nlj8dyDqP"
+    },
+    {
+      "album": {
         "name": "Obsessed Pt. 2",
         "url": "https://open.spotify.com/album/29AuXQGyOpvyLWCngpNbd0"
       },
@@ -13568,6 +13772,28 @@
     },
     {
       "album": {
+        "name": "dudas",
+        "url": "https://open.spotify.com/album/7MFBCEog1VRZeQoUy5wLmF"
+      },
+      "artists": [
+        {
+          "name": "Vic Mirallas",
+          "url": "https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922"
+        },
+        {
+          "name": "Rita Pay\u00e9s",
+          "url": "https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163655,
+      "name": "sigue vivo (feat. Rita Pay\u00e9s)",
+      "url": "https://open.spotify.com/track/5C0HH9yf4V97UTsu26M7h8"
+    },
+    {
+      "album": {
         "name": "Asim\u00e9trico",
         "url": "https://open.spotify.com/album/10hlN57i39PIdyhXuhMbjn"
       },
@@ -14097,6 +14323,24 @@
       "duration_ms": 240680,
       "name": "SUFICIENTEPUNTOWAV",
       "url": "https://open.spotify.com/track/2mTWugtOne1S8OuPVGvFXb"
+    },
+    {
+      "album": {
+        "name": "dudas",
+        "url": "https://open.spotify.com/album/7MFBCEog1VRZeQoUy5wLmF"
+      },
+      "artists": [
+        {
+          "name": "Vic Mirallas",
+          "url": "https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150423,
+      "name": "suite",
+      "url": "https://open.spotify.com/track/3PhvVXdkwUyI9oIQj7eTmJ"
     },
     {
       "album": {

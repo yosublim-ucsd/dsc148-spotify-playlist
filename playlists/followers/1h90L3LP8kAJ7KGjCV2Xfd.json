@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 300245,
+  "2024-02-25": 300229,
   "date_first_scraped": "2022-06-10",
   "description": "happy | vibes | feel good | music | mood boost | happy hits | clean pop | positive vibes | dopamine | serotonin | high vibes | happy summer | positive affirmation | upbeat | drive | windows down | good vibes | indie | pop | rock | alternative | feelin' good | healing | rise | smile",
   "name": "Feel Good \ud83e\udd29 Happy Hits",
@@ -155,6 +155,28 @@
       "duration_ms": 187920,
       "name": "All About That Bass",
       "url": "https://open.spotify.com/track/5jE48hhRu8E6zBDPRSkEq7"
+    },
+    {
+      "album": {
+        "name": "7/27 (Deluxe)",
+        "url": "https://open.spotify.com/album/0pF0oyuPNdOObniB1Ng0kW"
+      },
+      "artists": [
+        {
+          "name": "Fifth Harmony",
+          "url": "https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt"
+        },
+        {
+          "name": "Fetty Wap",
+          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210573,
+      "name": "All In My Head (Flex) (feat. Fetty Wap)",
+      "url": "https://open.spotify.com/track/7nD9nN3jord9wWcfW3Gkcm"
     },
     {
       "album": {
@@ -1695,6 +1717,24 @@
       "duration_ms": 147840,
       "name": "False Idol",
       "url": "https://open.spotify.com/track/2ZtCpgZrWRZOZv9hpym5YU"
+    },
+    {
+      "album": {
+        "name": "Freak Scene",
+        "url": "https://open.spotify.com/album/6348kjHJNNwPqxaVeZKTAH"
+      },
+      "artists": [
+        {
+          "name": "Pacifica",
+          "url": "https://open.spotify.com/artist/4YcQuAswXPWdO2WAxTRXse"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165004,
+      "name": "Fantasies",
+      "url": "https://open.spotify.com/track/2lDB33ssmdEQYmUh8xKmYc"
     },
     {
       "album": {

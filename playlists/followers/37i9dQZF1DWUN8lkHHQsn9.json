@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 8282,
+  "2024-02-25": 8290,
   "date_first_scraped": "2021-12-28",
   "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover: <a href=\"spotify:artist:0e06gUDSCntc3X6v8mL6kk\">Kamil Kowalski</a>",
   "name": "GLOW Polska",
@@ -2442,6 +2442,24 @@
     },
     {
       "album": {
+        "name": "Re\u017cyser",
+        "url": "https://open.spotify.com/album/5JdAFKD7E59vMwZQLJQaSd"
+      },
+      "artists": [
+        {
+          "name": "Filip Sterne",
+          "url": "https://open.spotify.com/artist/1UIsVRTEON2C0CmFKGnmOw"
+        }
+      ],
+      "date_added": "2024-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178890,
+      "name": "Re\u017cyser",
+      "url": "https://open.spotify.com/track/57ncBsP6ntAniZygJhDVDl"
+    },
+    {
+      "album": {
         "name": "Rojava",
         "url": "https://open.spotify.com/album/1xHgpZuHmlOATKtuOIsT0L"
       },
@@ -2905,7 +2923,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 200419,
       "name": "Super",
       "url": "https://open.spotify.com/track/3TZlCnbC6q8JGH3TCCjBKB"

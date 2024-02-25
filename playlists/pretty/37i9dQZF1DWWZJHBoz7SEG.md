@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Ya es Viernes, y eso sólo significa una cosa: ¡Nueva música, súbeleeee! 🎶 Yuridia y Eden Muñoz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 824,664 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 824,975 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 49 | [Desconocernos](https://open.spotify.com/track/4S4Q9yocHzKUI2Ws4Ir4lC) | [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S), [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG) | [Desconocernos](https://open.spotify.com/album/2sjbd7CdcKMOFQuLZwAz9K) | 2:57 |
 | 50 | [Venas](https://open.spotify.com/track/00ene37VcA5iTFUh4QggOM) | [Silverio](https://open.spotify.com/artist/1Du4cMgDEKryT08bQdMqpV), [Canibal](https://open.spotify.com/artist/1uiOqydYnYyA2Omy3mM6dA) | [Venas](https://open.spotify.com/album/6qy4zVKB6zQMsVO9FiuO6W) | 3:03 |
 
-Snapshot ID: `MCwwZDVmMjE4ZjFmNzhjNjE2YzVhOGJhMTI2OGI2MzM2YzNjOTE1NDc4`
+Snapshot ID: `MCwxMGU1Y2JmMDI4YTg2ZWE5OGY3ZDY0OWM5ZDQ4YTI1ZTk2ZGFiMDcw`

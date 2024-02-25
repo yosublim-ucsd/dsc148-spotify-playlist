@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4WDwW7forWdQWutkAEVZMR.md) - [plain]
 
 > Your go\-to playlist for this week's hottest music featuring Jessie Murph, Beyoncé, Harry Styles &amp; more! Cover: Jessie Murph
 
-[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,227 likes - 33 songs - 1 hr 42 min
+[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,226 likes - 33 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

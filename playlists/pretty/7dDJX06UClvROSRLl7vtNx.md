@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 
 > Summer 2024 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-[j\-dosch](https://open.spotify.com/user/j-dosch) - 54,902 likes - 181 songs - 7 hr 59 min
+[j\-dosch](https://open.spotify.com/user/j-dosch) - 54,944 likes - 181 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -190,4 +190,4 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 | 180 | [Almost a Lover](https://open.spotify.com/track/2Kz5VfjMtgbvEOfUc0RU2F) | [NLSN](https://open.spotify.com/artist/7vO5wbzI9RdVYlOGFL2ofk), [scanta rose](https://open.spotify.com/artist/4CkbkeeBv3D8E6p5o1aJiW) | [Almost a Lover](https://open.spotify.com/album/2gBLkKPbdDCgMKue6MfEuD) | 2:01 |
 | 181 | [I'll Be Alright](https://open.spotify.com/track/6kJPj0Z5a7XWsio8PXTbLY) | [Magnus Gunn](https://open.spotify.com/artist/4CgaDc9IaWz2tHRO8T8lgi) | [I'll Be Alright](https://open.spotify.com/album/621vQENf53N8IYGxFashcT) | 3:02 |
 
-Snapshot ID: `MTYzNjYsYjMzYWQ2M2NmODdjYWU1YzA3ZmFmYzIwZjg0NWE3NTFiMTAyNzkwYg==`
+Snapshot ID: `MTYzODAsY2Y5NjRkOGM2ZWY0MTk5ZjE4ZjcwNTI0MDY5OTEzYjQ0YTI0MGI3Yw==`

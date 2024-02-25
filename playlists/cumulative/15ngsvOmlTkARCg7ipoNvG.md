@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,692 songs - 1 day 11 hr 17 min
+1,693 songs - 1 day 11 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1462,6 +1462,7 @@
 | [The Gift Of Love](https://open.spotify.com/track/3O12MNZteiOwMbCEt21e1h) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Ambient Season](https://open.spotify.com/album/2ynfEYLK6MAKvRUutpCSpF) | 1:02 | 2022-08-25 |  |
 | [The Golden Sky](https://open.spotify.com/track/3CUQm7H1PWN0DQeYbqAgMx) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Dream Space, Vol\. 2](https://open.spotify.com/album/4GxaVQ8iCn6g6WeVmFKSWn) | 1:07 | 2022-02-04 |  |
 | [The Holly And The Ivy \- Ambient Cello Version](https://open.spotify.com/track/1uN3PDfLU7Xq8pzesXQW5M) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [The Holly And The Ivy \(Ambient Cello Version\)](https://open.spotify.com/album/1YJXniJT2dA9meUJ43Q2Jy) | 1:00 | 2024-02-09 | 2024-02-13 |
+| [The Holly And The Ivy \- Ambient Version](https://open.spotify.com/track/3ABnQf0SFfBZIL3AiePmcS) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [The Holly And The Ivy \(Ambient Version\)](https://open.spotify.com/album/344goY86bloznV29PaIhhV) | 1:01 | 2024-02-24 |  |
 | [The Holly And The Ivy Arr\. For Cello And Piano](https://open.spotify.com/track/0I54LRc1KlywguP2X6iHGn) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Two Versions Of The Holly And The Ivy](https://open.spotify.com/album/3flr7CGCZYvqf9iylReKAm) | 1:12 | 2024-02-09 | 2024-02-13 |
 | [The Huron Carol \- Cello Version](https://open.spotify.com/track/2ETxYnLq8aIzydlWdamGIY) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [The Huron Carol \(Cello Version\)](https://open.spotify.com/album/74AFmNyeTedKu7iidGS7Wf) | 1:11 | 2024-02-09 | 2024-02-13 |
 | [The Long Way Back Home](https://open.spotify.com/track/5MMeJeSH3Ux4dOtQwYVw3Y) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Nostalgic, Vol\. 1](https://open.spotify.com/album/1Dk8ujbZK0JWtk1h3A9sd1) | 1:02 | 2022-02-11 | 2024-01-30 |

@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 269202,
+  "2024-02-25": 269230,
   "date_first_scraped": "2023-03-20",
   "description": "Dale play y que la m\u00fasica te acompa\u00f1e.",
   "name": "Radio Pop",
@@ -17,7 +17,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 152425,
       "name": "1Amor",
       "url": "https://open.spotify.com/track/44FRdgBmwq8LEgDtjBDkiu"
@@ -605,6 +605,24 @@
       "duration_ms": 206070,
       "name": "Bam Bam (feat. Ed Sheeran)",
       "url": "https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1"
+    },
+    {
+      "album": {
+        "name": "Beautiful Things",
+        "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180304,
+      "name": "Beautiful Things",
+      "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
     },
     {
       "album": {
@@ -1237,7 +1255,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 152286,
       "name": "C\u00f3mo Quisiera Decirte",
       "url": "https://open.spotify.com/track/0MOa78S4DdOn8nfIqwcsaZ"
@@ -1443,7 +1461,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-22",
+      "date_removed": null,
       "duration_ms": 167640,
       "name": "Detox",
       "url": "https://open.spotify.com/track/0JxrKS6RFWd1Q5mJZzcu9M"
@@ -1567,7 +1585,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 218052,
       "name": "Dos Veces",
       "url": "https://open.spotify.com/track/4HGW19bNRlHNZUkR1ZLqdk"
@@ -3205,7 +3223,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 258778,
       "name": "Magia",
       "url": "https://open.spotify.com/track/032IsZRdgIFxxLgDZvxfwU"
@@ -4459,7 +4477,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 149894,
       "name": "Renacer",
       "url": "https://open.spotify.com/track/0FkJ9U1q9ouhMowz2eniEO"
@@ -4495,7 +4513,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 121113,
       "name": "Safari",
       "url": "https://open.spotify.com/track/77Ed4iW5WLoxqQlGmN9bUY"
@@ -4589,7 +4607,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-19",
+      "date_removed": null,
       "duration_ms": 126958,
       "name": "Se\u00f1ales",
       "url": "https://open.spotify.com/track/4cIM8wpHVqmPTtLgH4ehun"
@@ -4717,7 +4735,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-03",
+      "date_removed": null,
       "duration_ms": 188000,
       "name": "Siesta De Verano",
       "url": "https://open.spotify.com/track/2C6Rz1DAiDkfIrK6AjmrO6"
@@ -5195,7 +5213,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 174560,
       "name": "To' Estos Giles",
       "url": "https://open.spotify.com/track/1zKqPpTL0QjCvwFwK77SJC"
@@ -5249,7 +5267,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-23",
+      "date_removed": null,
       "duration_ms": 215492,
       "name": "Todo el D\u00eda As\u00ed",
       "url": "https://open.spotify.com/track/1EAOYGRgF3eUJLZMSfin7P"

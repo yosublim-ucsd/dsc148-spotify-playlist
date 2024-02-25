@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 159241,
+  "2024-02-25": 159286,
   "date_first_scraped": "2021-12-21",
   "description": "groovy.",
   "name": "Psych & Groove",
@@ -673,7 +673,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 245880,
       "name": "Glass Jar",
       "url": "https://open.spotify.com/track/33xaD95lsvcImZpV4POK1N"
@@ -1353,6 +1353,24 @@
       "duration_ms": 222093,
       "name": "Love Love Love",
       "url": "https://open.spotify.com/track/7uHLE0CpfsRl6Cil3965jn"
+    },
+    {
+      "album": {
+        "name": "Mahal",
+        "url": "https://open.spotify.com/album/65vbRZn1cqkjyjMtlsbDGT"
+      },
+      "artists": [
+        {
+          "name": "Glass Beams",
+          "url": "https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136800,
+      "name": "Mahal - Edit",
+      "url": "https://open.spotify.com/track/5hmdyjNLMxhrM15jXCCxan"
     },
     {
       "album": {

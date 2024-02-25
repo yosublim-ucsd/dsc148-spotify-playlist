@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 85918,
+  "2024-02-25": 85918,
   "date_first_scraped": "2022-08-16",
   "description": "Festival Music 2024 - Tomorrowland 2024 - Festival Songs - EDM Music - Electronic Music - Rave Music - EDM Songs - best festival music - best festival songs",
   "name": "Festival Songs 2024 \ud83c\udf87 Festival Music - Tomorrowland 2024",
@@ -2708,6 +2708,24 @@
     },
     {
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/5UlsaXdkQHv1fRnCqA0Htf"
+      },
+      "artists": [
+        {
+          "name": "Chemikkal",
+          "url": "https://open.spotify.com/artist/108HQw3bi3vuj7RReiRbwi"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168750,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/11iHqdwr3Z23TbOEhEWjdi"
+    },
+    {
+      "album": {
         "name": "Hot Summer Nights",
         "url": "https://open.spotify.com/album/33tjn6gH8k3IbAFzCqGrRQ"
       },
@@ -4445,6 +4463,24 @@
       "duration_ms": 167460,
       "name": "Pump It Up",
       "url": "https://open.spotify.com/track/3UxjH53AszyqcyZnROMyU6"
+    },
+    {
+      "album": {
+        "name": "Push Up (My Funky Beat)",
+        "url": "https://open.spotify.com/album/1KhMoedoYFrm4SngWepxH2"
+      },
+      "artists": [
+        {
+          "name": "D'Angello & Francis",
+          "url": "https://open.spotify.com/artist/63YpQAD9YjknZPfMVYqyIK"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Push Up (My Funky Beat)",
+      "url": "https://open.spotify.com/track/75hrEPrYVYSpTClJvzC2l4"
     },
     {
       "album": {

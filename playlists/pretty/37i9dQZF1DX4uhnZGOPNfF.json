@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxM2Y1NWUyZTkwYzc4OGY1NmI3ZDA5MGRiZWYzMjExZmRlZTYwMjg4",
+  "snapshot_id": "MCwzMTUwMDJmY2MxMjQ3MWY5YjA0ZGExYWU1NzQ5YzQxMDA1ZmFlMjIy",
   "tracks": [
     {
       "added_at": "2022-02-01 21:20:54",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-02-01 21:20:54",
       "album": {
-        "name": "The Golden Hum",
-        "url": "https://open.spotify.com/album/6SY8RhGOrzV3NpuDedeyAC"
-      },
-      "artists": [
-        {
-          "name": "Remy Zero",
-          "url": "https://open.spotify.com/artist/2pZCKLhbrrDD4PwEzrDig3"
-        }
-      ],
-      "duration_ms": 244226,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/4pkFvX3AkuiSGPkv8gMlks"
-    },
-    {
-      "added_at": "2022-02-01 21:20:54",
-      "album": {
         "name": "Slicker than Your Average",
         "url": "https://open.spotify.com/album/6USRXUZXe4keGs2yUj3Fis"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 287226,
       "name": "Rise & Fall (feat. Sting)",
       "url": "https://open.spotify.com/track/23ehR4jpFQFMfDADgFdXR7"
+    },
+    {
+      "added_at": "2022-02-01 21:20:54",
+      "album": {
+        "name": "The Golden Hum",
+        "url": "https://open.spotify.com/album/6SY8RhGOrzV3NpuDedeyAC"
+      },
+      "artists": [
+        {
+          "name": "Remy Zero",
+          "url": "https://open.spotify.com/artist/2pZCKLhbrrDD4PwEzrDig3"
+        }
+      ],
+      "duration_ms": 244226,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/4pkFvX3AkuiSGPkv8gMlks"
     },
     {
       "added_at": "2022-02-01 21:20:54",
@@ -971,6 +971,22 @@
     {
       "added_at": "2022-02-01 21:20:54",
       "album": {
+        "name": "Trag\u00e9die (\u00c9dition Deluxe)",
+        "url": "https://open.spotify.com/album/3Wy1uWOyhabx91yqV18GzH"
+      },
+      "artists": [
+        {
+          "name": "Trag\u00e9die",
+          "url": "https://open.spotify.com/artist/6EysjvvcafloXNdLkwuGLm"
+        }
+      ],
+      "duration_ms": 211759,
+      "name": "Hey Oh - Radio Edit",
+      "url": "https://open.spotify.com/track/15RB3lFt2Mhc16m5fTTYkh"
+    },
+    {
+      "added_at": "2022-02-01 21:20:54",
+      "album": {
         "name": "Le chemin",
         "url": "https://open.spotify.com/album/1ZDeD4gGI757lBlOAkmJ2i"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 210706,
       "name": "Le chemin (feat. Sita)",
       "url": "https://open.spotify.com/track/5T37zS90GkaMHRj5uNaJpb"
-    },
-    {
-      "added_at": "2022-02-01 21:20:54",
-      "album": {
-        "name": "Trag\u00e9die (\u00c9dition Deluxe)",
-        "url": "https://open.spotify.com/album/3Wy1uWOyhabx91yqV18GzH"
-      },
-      "artists": [
-        {
-          "name": "Trag\u00e9die",
-          "url": "https://open.spotify.com/artist/6EysjvvcafloXNdLkwuGLm"
-        }
-      ],
-      "duration_ms": 211759,
-      "name": "Hey Oh - Radio Edit",
-      "url": "https://open.spotify.com/track/15RB3lFt2Mhc16m5fTTYkh"
     },
     {
       "added_at": "2022-02-01 21:20:54",

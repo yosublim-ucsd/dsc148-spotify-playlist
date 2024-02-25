@@ -4,7 +4,7 @@
 
 > The genre\-defying artists inspired by classical music\. Photo: Nils Frahm.
 
-271 songs - 19 hr 54 min
+272 songs - 19 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Grande Anse](https://open.spotify.com/track/1xOaETzZpfvTpADA2kvnZZ) | [Felix Räuber](https://open.spotify.com/artist/16msWAQnQ3L2GIIWPSVcfL) | [Grande Anse](https://open.spotify.com/album/23J4oBfI2idJvAmHIlDGzI) | 3:01 | 2022-04-01 | 2022-10-18 |
 | [Gymnopédie No\. 3 \- Henrik Schwarz Rework \(FRAGMENTS / Erik Satie\) / Edit](https://open.spotify.com/track/47PBJyZe1MA0Menqa6l3lD) | [Henrik Schwarz](https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R) | [Gymnopédie No\. 3 \[Henrik Schwarz Rework \(FRAGMENTS / Erik Satie\)\]](https://open.spotify.com/album/2ibADMduteqGORYnJ74ReP) | 4:30 | 2022-03-25 | 2022-04-02 |
 | [Gymnopédies](https://open.spotify.com/track/6r0Jqgnd5i92R2cuE0Z1q6) | [L.Dre](https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k) | [Gymnopédies](https://open.spotify.com/album/0Nda1Wpk7K7Wax1EsdvQuI) | 2:42 | 2023-02-10 |  |
+| [Haendel \(and 2 friends\)](https://open.spotify.com/track/6Hz32TkgNnk9uttM2FYX1Y) | [Thylacine](https://open.spotify.com/artist/5If5Tdg66Q5X3L57G7A6Pn) | [and 74 musicians](https://open.spotify.com/album/3kH3y6hyAkxB0PMqH2o2MB) | 3:33 | 2024-02-23 |  |
 | [Hafursey \(Yfir\)](https://open.spotify.com/track/5udjrF9hYfxle7lnSiOgTC) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Hafursey \(Yfir\)](https://open.spotify.com/album/1sQWuEk9UjarR7Bvipxg0J) | 4:59 | 2023-07-07 |  |
 | [Hallonlandet \(Reimagined by Manu Delago\)](https://open.spotify.com/track/5ybr6iS8RnzFIAxYxlJ9B6) | [Henrik Lindstrand](https://open.spotify.com/artist/1jdUu8RsoIhTGLeJvzoACP), [Manu Delago](https://open.spotify.com/artist/08LrhaMKwKuGbB9XHBEjXF) | [Reimagined](https://open.spotify.com/album/1raUMik9260TRBAIYsa0ZP) | 3:36 | 2021-12-10 | 2022-07-29 |
 | [Harvester of Sorrow](https://open.spotify.com/track/1K11KPcUynDLD0b0Ds1zpQ) | [Little Kruta](https://open.spotify.com/artist/4l8UYHbQb1jHjm7evMT1Oe), [Jenn Mundia](https://open.spotify.com/artist/23Cb4TkNrKVdjShbEnyHQq) | [Justice](https://open.spotify.com/album/7cYJR3GwWpo1sMvNkyNBJH) | 3:47 | 2021-12-10 | 2022-04-02 |
@@ -224,7 +225,7 @@
 | [Satori by the Sea](https://open.spotify.com/track/3xQXq8FXZcVFU45QwWuOEP) | [Ed Carlsen](https://open.spotify.com/artist/0yW0kiRsK5MYhgICpQhbaG) | [Satori by the Sea](https://open.spotify.com/album/2DwRSu0Ma7a0208qxmETWh) | 3:07 | 2021-12-10 |  |
 | [Scott and Kate Part 2](https://open.spotify.com/track/3MLo3dIZ3iy6ZCjifr6q0D) | [Junkie XL](https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN) | [Scott and Kate Part 2](https://open.spotify.com/album/6YcckpMztmNbdEIvFblBRu) | 2:49 | 2021-12-10 | 2021-12-31 |
 | [Season Shifting \- Robert Lippok Rework](https://open.spotify.com/track/0ryoE1xHULh4IxoHrqJBty) | [Niklas Paschburg](https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI), [Robert Lippok](https://open.spotify.com/artist/4EyeZbKRJj7sOA0R2AfdKF) | [Post\-Svalbard](https://open.spotify.com/album/5j2nloNmgR3x8gQepKQvAk) | 4:30 | 2021-12-10 |  |
-| [Sections 1\-16](https://open.spotify.com/track/7uBH8LGTreuwZZ7fr8K6N0) | [Simeon ten Holt](https://open.spotify.com/artist/0aU7GVdY5SUzQ0dBObFK57), [Erik Hall](https://open.spotify.com/artist/32XidxH0N45E1SLV6AhJwB) | [Canto Ostinato](https://open.spotify.com/album/6nRzGIFEUCxf19vdEdZEZ5) | 12:56 | 2023-10-20 |  |
+| [Sections 1\-16](https://open.spotify.com/track/7uBH8LGTreuwZZ7fr8K6N0) | [Simeon ten Holt](https://open.spotify.com/artist/0aU7GVdY5SUzQ0dBObFK57), [Erik Hall](https://open.spotify.com/artist/32XidxH0N45E1SLV6AhJwB) | [Canto Ostinato](https://open.spotify.com/album/6nRzGIFEUCxf19vdEdZEZ5) | 12:56 | 2023-10-20 | 2024-02-25 |
 | [Shéhérazade \- Laura Masotto Rework](https://open.spotify.com/track/4ZKoLAjGLLLwKFBADGh2SO) | [Laura Masotto](https://open.spotify.com/artist/0WsOb9lixawpeFLHuAzhpd), [Matteo Zanferrari](https://open.spotify.com/artist/4274KaaJqeDNB7io0Re3qj) | [Shéhérazade \(Laura Masotto Rework\)](https://open.spotify.com/album/5JK04NWnzGsY9ramCSdo7q) | 4:03 | 2022-06-24 |  |
 | [Silver Sky](https://open.spotify.com/track/5S9EkxIUWgxcBuwmcVnits) | [Adam Bokesch](https://open.spotify.com/artist/2p01X9u8SiKbMseuTkgdoI) | [Silver Sky](https://open.spotify.com/album/00DwQxtjO2UzwLf1DU1lsS) | 3:20 | 2022-07-22 | 2023-03-30 |
 | [Sleepless Wake](https://open.spotify.com/track/6C8DVZZXyisOBDNkdsT3Pg) | [Alexandra Hamilton\-Ayres](https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp) | [Sleepless Wake](https://open.spotify.com/album/21bhMlaiB1ZztRcWxVjlOs) | 3:42 | 2021-12-10 | 2023-12-11 |

@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 134905,
+  "2024-02-25": 134898,
   "date_first_scraped": "2022-04-09",
   "description": "Acoustic pop songs for chill summer days or nights.",
   "name": "Summer Chill",
@@ -78,6 +78,24 @@
     },
     {
       "album": {
+        "name": "all night long",
+        "url": "https://open.spotify.com/album/5EZ1Gg6Qq4ZBPqPNZ64gTO"
+      },
+      "artists": [
+        {
+          "name": "Gracie Schram",
+          "url": "https://open.spotify.com/artist/3TOUW1MYPgYX13UXBm552d"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194018,
+      "name": "all night long",
+      "url": "https://open.spotify.com/track/61wHg8g1eNbBatDAijJ2IT"
+    },
+    {
+      "album": {
         "name": "All Shook Up",
         "url": "https://open.spotify.com/album/5U7rExIsboni80h2SmVjNR"
       },
@@ -111,6 +129,24 @@
       "duration_ms": 230535,
       "name": "All Star - Acoustic",
       "url": "https://open.spotify.com/track/3h6xSQHGIkM3QyLHS5GD8c"
+    },
+    {
+      "album": {
+        "name": "Annie's Song",
+        "url": "https://open.spotify.com/album/73j61rcmWeO9411zZkUQcX"
+      },
+      "artists": [
+        {
+          "name": "Cameron Payne",
+          "url": "https://open.spotify.com/artist/60gG6AmEKOQO5Iyqp6zSOi"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167887,
+      "name": "Annie's Song",
+      "url": "https://open.spotify.com/track/4h9CzV7GXMnSHNixqohbRG"
     },
     {
       "album": {
@@ -438,6 +474,24 @@
     },
     {
       "album": {
+        "name": "By Your Side",
+        "url": "https://open.spotify.com/album/2KaUS3nSP8EgKStEa8Jeia"
+      },
+      "artists": [
+        {
+          "name": "J. Seasons",
+          "url": "https://open.spotify.com/artist/3RSFoHIhEK1TsXXWDXQnvP"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157611,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/0QUUfXxit1xeCtmuF6VNrc"
+    },
+    {
+      "album": {
         "name": "Call Me",
         "url": "https://open.spotify.com/album/6J1KXsAGwAKYKrW3PoMSPw"
       },
@@ -579,6 +633,24 @@
       "duration_ms": 221762,
       "name": "Chasing Cars (Acoustic)",
       "url": "https://open.spotify.com/track/7segX2a0fynh3OYFyHnsqI"
+    },
+    {
+      "album": {
+        "name": "Chasing Pavements",
+        "url": "https://open.spotify.com/album/4ZBXi0owchcH5sIj5qyrn0"
+      },
+      "artists": [
+        {
+          "name": "Demi Femme",
+          "url": "https://open.spotify.com/artist/2d09AaNvj1TRW0GociCEDY"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180034,
+      "name": "Chasing Pavements",
+      "url": "https://open.spotify.com/track/1tIEJc4Sgw1Op6Ef0fLSzV"
     },
     {
       "album": {
@@ -2110,6 +2182,24 @@
     },
     {
       "album": {
+        "name": "Make You Feel My Love",
+        "url": "https://open.spotify.com/album/67BVLFInYTSKVAx4VCuq5L"
+      },
+      "artists": [
+        {
+          "name": "Morgan St. Douglas",
+          "url": "https://open.spotify.com/artist/4kwtiqubnECtzOECKGYJOT"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189680,
+      "name": "Make You Feel My Love",
+      "url": "https://open.spotify.com/track/2pcoc3E6EKzKC1wTztiz4I"
+    },
+    {
+      "album": {
         "name": "Mama (Acoustic)",
         "url": "https://open.spotify.com/album/0AIZFcHSbXf5B7XLRaPLN5"
       },
@@ -2864,6 +2954,24 @@
     },
     {
       "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/0diqsjfEEOC1n4LVVLSMgr"
+      },
+      "artists": [
+        {
+          "name": "Von Allen",
+          "url": "https://open.spotify.com/artist/6XzdZwXu9yspPxr3u2DnBG"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217078,
+      "name": "The Best",
+      "url": "https://open.spotify.com/track/1cskeMwfKX1G0mV1T0ypHf"
+    },
+    {
+      "album": {
         "name": "The Boys Of Summer",
         "url": "https://open.spotify.com/album/5CK7NslpUUDbmQh2pl9GXR"
       },
@@ -3057,6 +3165,24 @@
       "duration_ms": 197882,
       "name": "Until I Found You",
       "url": "https://open.spotify.com/track/4HwUDalB30KzSQVbSbr4je"
+    },
+    {
+      "album": {
+        "name": "Waterfalls",
+        "url": "https://open.spotify.com/album/2xoeY7T8uj7C0ITIPNBoPz"
+      },
+      "artists": [
+        {
+          "name": "Tobey Rosen",
+          "url": "https://open.spotify.com/artist/7xW6v5mmwGhWtoZ0x2AhLN"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170884,
+      "name": "Waterfalls",
+      "url": "https://open.spotify.com/track/3lKlGhiNTsv3moOzbMXBUf"
     },
     {
       "album": {

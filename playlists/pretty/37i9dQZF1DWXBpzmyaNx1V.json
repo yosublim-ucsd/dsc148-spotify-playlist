@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Nos vemos del 6 al 10 de Marzo! Cinco d\u00edas de m\u00fasica en recintos ic\u00f3nicos de la CDMX. Compra tus boletos <a href=\"https://lnk.bio/pitchforkcdmx\"> aqu\u00ed</a>. ",
-  "num_followers": 39703,
+  "num_followers": 39693,
   "original_name": "Pitchfork Music Festival CDMX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMDRhYmY5NDZmNmVkN2E1ZTJmNmE3MzdhN2RmNTBkZTIwZTdlZTAw",
+  "snapshot_id": "MCw5NWRjYzdjNzgyYzBiODNlM2ZlNTUwNDk5ZTk2Nzc5ZGI0NTZlM2Q5",
   "tracks": [
     {
       "added_at": "2024-02-16 18:40:38",
@@ -31,22 +31,6 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "Raven",
-        "url": "https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT"
-      },
-      "artists": [
-        {
-          "name": "Kelela",
-          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
-        }
-      ],
-      "duration_ms": 240725,
-      "name": "Contact",
-      "url": "https://open.spotify.com/track/6RlczF1bVrcf4f65qaXuoA"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
         "name": "Haram",
         "url": "https://open.spotify.com/album/0RPanQrJXRyTJoiq2trm7k"
       },
@@ -67,6 +51,22 @@
       "duration_ms": 220353,
       "name": "Falling out the Sky",
       "url": "https://open.spotify.com/track/1jvbeXQgI7SA47MaXXGixh"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
+        "name": "Raven",
+        "url": "https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        }
+      ],
+      "duration_ms": 240725,
+      "name": "Contact",
+      "url": "https://open.spotify.com/track/6RlczF1bVrcf4f65qaXuoA"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -643,8 +643,8 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "GOOD LUCK",
-        "url": "https://open.spotify.com/album/7eC9s1oyo60kJhNNeTCsQM"
+        "name": "Runnin",
+        "url": "https://open.spotify.com/album/7Jd9oUB6lEUrSXdnn2KCeo"
       },
       "artists": [
         {
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4"
         }
       ],
-      "duration_ms": 202986,
-      "name": "WHAT A MAN",
-      "url": "https://open.spotify.com/track/77MoMOxdBmjtIeC0oIbLoO"
+      "duration_ms": 177625,
+      "name": "Runnin",
+      "url": "https://open.spotify.com/track/37KlI45scNKbu1ZXnRwXPj"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -803,8 +803,8 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "Runnin",
-        "url": "https://open.spotify.com/album/7Jd9oUB6lEUrSXdnn2KCeo"
+        "name": "GOOD LUCK",
+        "url": "https://open.spotify.com/album/7eC9s1oyo60kJhNNeTCsQM"
       },
       "artists": [
         {
@@ -812,9 +812,9 @@
           "url": "https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4"
         }
       ],
-      "duration_ms": 177625,
-      "name": "Runnin",
-      "url": "https://open.spotify.com/track/37KlI45scNKbu1ZXnRwXPj"
+      "duration_ms": 202986,
+      "name": "WHAT A MAN",
+      "url": "https://open.spotify.com/track/77MoMOxdBmjtIeC0oIbLoO"
     },
     {
       "added_at": "2024-02-16 18:40:38",

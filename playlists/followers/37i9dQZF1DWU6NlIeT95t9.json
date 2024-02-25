@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 8076,
+  "2024-02-25": 8076,
   "date_first_scraped": "2023-08-22",
   "description": "Meet the future.  Cover: Annural Khalid",
   "name": "RADAR PAKISTAN",
@@ -177,6 +177,24 @@
       "duration_ms": 290181,
       "name": "Bandhan",
       "url": "https://open.spotify.com/track/3akoaFxqxnPQWl376rbVCt"
+    },
+    {
+      "album": {
+        "name": "BETTER DAYS",
+        "url": "https://open.spotify.com/album/0Px9Hx8lsZAK42xU2Tx3qw"
+      },
+      "artists": [
+        {
+          "name": "Maanu",
+          "url": "https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181308,
+      "name": "BETTER DAYS",
+      "url": "https://open.spotify.com/track/7ysTYZIjZjI2aRGIZV4h24"
     },
     {
       "album": {
@@ -553,6 +571,28 @@
       "duration_ms": 244717,
       "name": "Jia",
       "url": "https://open.spotify.com/track/1OldtKIXBu5lzLtW37UkqR"
+    },
+    {
+      "album": {
+        "name": "JOGI",
+        "url": "https://open.spotify.com/album/42ul4c3YVf87TWk7u2d2oG"
+      },
+      "artists": [
+        {
+          "name": "Maanu",
+          "url": "https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY"
+        },
+        {
+          "name": "Talal Qureshi",
+          "url": "https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127850,
+      "name": "JOGI",
+      "url": "https://open.spotify.com/track/6KO2ptwXLvr8JiGxk2rFHl"
     },
     {
       "album": {

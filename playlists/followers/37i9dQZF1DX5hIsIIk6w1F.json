@@ -1,7 +1,7 @@
 {
-  "2024-02-24": 376706,
+  "2024-02-25": 376900,
   "date_first_scraped": "2022-05-26",
-  "description": "Este Flow tiene otro Flow. Foto: Jere Klein.",
+  "description": "Este Flow tiene otro Flow. Foto: Ak4:20.",
   "name": "Reggaet\u00f3n Chileno",
   "tracks": [
     {
@@ -225,7 +225,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 237871,
       "name": "3+1",
       "url": "https://open.spotify.com/track/1kBLmb9VHjuBuriVBa1k2a"
@@ -353,7 +353,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 143374,
       "name": "6.5",
       "url": "https://open.spotify.com/track/5xTTD2qosom7sMY8tKTmkY"
@@ -1034,6 +1034,32 @@
     },
     {
       "album": {
+        "name": "Avisa",
+        "url": "https://open.spotify.com/album/0AShOqDACyCBRzku78PSvJ"
+      },
+      "artists": [
+        {
+          "name": "Kramps",
+          "url": "https://open.spotify.com/artist/3PfQ6I9p5qZKQv4WptY9mB"
+        },
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
+        {
+          "name": "Santi Valencia",
+          "url": "https://open.spotify.com/artist/4Cf4Xv9y3CV23K63A1p8MX"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187158,
+      "name": "Avisa",
+      "url": "https://open.spotify.com/track/16nItJy3LUeqGSboABfWWY"
+    },
+    {
+      "album": {
         "name": "Ay Parcera",
         "url": "https://open.spotify.com/album/5Im7bFsHrLifc3nV74NReN"
       },
@@ -1412,6 +1438,28 @@
     },
     {
       "album": {
+        "name": "BBY TU",
+        "url": "https://open.spotify.com/album/7GzZkQYiOBjjD7RDgDJVTc"
+      },
+      "artists": [
+        {
+          "name": "Benja Valencia",
+          "url": "https://open.spotify.com/artist/2N4rDzKt2aZK1ksES0YKBP"
+        },
+        {
+          "name": "Harry Nach",
+          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175200,
+      "name": "BBY TU",
+      "url": "https://open.spotify.com/track/2NeRBD8SRdOlSAfKVz5FGj"
+    },
+    {
+      "album": {
         "name": "Be Con Be",
         "url": "https://open.spotify.com/album/1ATLAeJxPEB9aqqNGO5JgL"
       },
@@ -1431,6 +1479,28 @@
       "duration_ms": 156000,
       "name": "Be Con Be",
       "url": "https://open.spotify.com/track/1CtTPDF2C68dorPvn7S8oR"
+    },
+    {
+      "album": {
+        "name": "BEB\u00c9",
+        "url": "https://open.spotify.com/album/56gG3L1q2IClYml31bL8mT"
+      },
+      "artists": [
+        {
+          "name": "Ak4:20",
+          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
+        },
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168631,
+      "name": "BEB\u00c9",
+      "url": "https://open.spotify.com/track/6sGnHZ87j6S76DkY36pYvh"
     },
     {
       "album": {
@@ -1635,7 +1705,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 210612,
       "name": "BITCH, TRANQUILA",
       "url": "https://open.spotify.com/track/1WSTMoq6UPt01nYJZNrK0p"
@@ -3705,7 +3775,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 164361,
       "name": "En La Intimidad",
       "url": "https://open.spotify.com/track/2LQdBkdGAr9xTsGXu9f6v6"
@@ -4591,6 +4661,28 @@
       "duration_ms": 400188,
       "name": "FULL PIOLI 2.O (feat. Julianno Sosa, El Jordan 23, King Savagge, Polima West Coast, Drago200, Jairo Vera, Galee Galee, Best)",
       "url": "https://open.spotify.com/track/62aT1Uk0pCl1QG4LLBMVUn"
+    },
+    {
+      "album": {
+        "name": "GABO EL CHAMAQUITO | TURBULENCIA 5 | UN VIAJE",
+        "url": "https://open.spotify.com/album/6iVB9OKZB5otCVrgoaJick"
+      },
+      "artists": [
+        {
+          "name": "Mateo Ribak",
+          "url": "https://open.spotify.com/artist/0fBXgmsLCNrvrNbVgtuokv"
+        },
+        {
+          "name": "Gabo El Chamaquito",
+          "url": "https://open.spotify.com/artist/6Fz1LTRJ7RAuUf1CRSN3dU"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158750,
+      "name": "GABO EL CHAMAQUITO | TURBULENCIA 5 | UN VIAJE",
+      "url": "https://open.spotify.com/track/3xTLLPiK9glyehWMs3IA2V"
     },
     {
       "album": {
@@ -5690,6 +5782,28 @@
     },
     {
       "album": {
+        "name": "La M\u00e1s Real de las Bebes",
+        "url": "https://open.spotify.com/album/0uf3t8QwZIiU0abasFPvK1"
+      },
+      "artists": [
+        {
+          "name": "Bby Lean",
+          "url": "https://open.spotify.com/artist/2ivCGb6sTadQgOQTu6TFok"
+        },
+        {
+          "name": "Nass G",
+          "url": "https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150143,
+      "name": "La M\u00e1s Real de las Bebes",
+      "url": "https://open.spotify.com/track/1e8yaOoBX0z7xHLB9nWsrY"
+    },
+    {
+      "album": {
         "name": "La Nena del Case",
         "url": "https://open.spotify.com/album/3Lcl75jtgWsBk6Cu5CsW5O"
       },
@@ -5949,6 +6063,28 @@
       "duration_ms": 175258,
       "name": "Las Naik",
       "url": "https://open.spotify.com/track/5vmYLoozbUNwcdVL2m3lHq"
+    },
+    {
+      "album": {
+        "name": "LAS OLAS",
+        "url": "https://open.spotify.com/album/5Kyu7Q612X74sYoY4yQegf"
+      },
+      "artists": [
+        {
+          "name": "FaceBrooklyn",
+          "url": "https://open.spotify.com/artist/0HGYhpDqId26b8YElUubo8"
+        },
+        {
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236170,
+      "name": "LAS OLAS",
+      "url": "https://open.spotify.com/track/38Zk9IlEHdOn85EP4NOqqL"
     },
     {
       "album": {
@@ -6579,6 +6715,24 @@
       "duration_ms": 218077,
       "name": "LOUISVUITTON",
       "url": "https://open.spotify.com/track/4Ux2REvgzPpxkNGZjKulbU"
+    },
+    {
+      "album": {
+        "name": "Love It",
+        "url": "https://open.spotify.com/album/102WeTzufZpgQQz9fNS2t4"
+      },
+      "artists": [
+        {
+          "name": "Vlntna B",
+          "url": "https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "Love It",
+      "url": "https://open.spotify.com/track/71ANngN8RaJnVnxLs69tZg"
     },
     {
       "album": {
@@ -8996,6 +9150,24 @@
     },
     {
       "album": {
+        "name": "Nott Easy",
+        "url": "https://open.spotify.com/album/2jaKh9EY67zPvt8Dg5HjNX"
+      },
+      "artists": [
+        {
+          "name": "Bby Sowl",
+          "url": "https://open.spotify.com/artist/2d0aBDmcK49NFCgnMI6BIR"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152181,
+      "name": "Nott Easy",
+      "url": "https://open.spotify.com/track/6JOZo8vkD2Ho3DkoyHwmhZ"
+    },
+    {
+      "album": {
         "name": "NOXE CONTIGO",
         "url": "https://open.spotify.com/album/1WB9qAxpD57yMPFagD8CIc"
       },
@@ -9353,7 +9525,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 162988,
       "name": "Pa Que Pichea",
       "url": "https://open.spotify.com/track/2Ul7codMpIxUYt9JQee6PZ"
@@ -9774,6 +9946,24 @@
     },
     {
       "album": {
+        "name": "PASE LO Q PASE",
+        "url": "https://open.spotify.com/album/6LqAJv83WLmA7syB3Wu4BS"
+      },
+      "artists": [
+        {
+          "name": "Nickoog Clk",
+          "url": "https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159157,
+      "name": "PASE LO Q PASE",
+      "url": "https://open.spotify.com/track/6nYcPsP2pygU96kGD7SxLv"
+    },
+    {
+      "album": {
         "name": "Pa\u2019 Ser Infiel",
         "url": "https://open.spotify.com/album/5XRl2V9TXXNbnGXvo09Ux8"
       },
@@ -9895,7 +10085,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 185154,
       "name": "Perdidos",
       "url": "https://open.spotify.com/track/6ughI6FwGbF0cLicG7lrat"
@@ -12473,7 +12663,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 152727,
       "name": "SUELTA SOLTERA",
       "url": "https://open.spotify.com/track/1CkmF0SMrATEAusAqm77v0"
@@ -14209,7 +14399,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 171527,
       "name": "VENGASE PA ACA",
       "url": "https://open.spotify.com/track/6XYwuOkEbusO2BK9F60N0A"

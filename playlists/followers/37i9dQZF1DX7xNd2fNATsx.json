@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 30834,
+  "2024-02-25": 30852,
   "date_first_scraped": "2023-09-29",
   "description": "Quand l'indie et l'electro ne font qu'un.",
   "name": "indelectro",
@@ -21,7 +21,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 186680,
       "name": "10%",
       "url": "https://open.spotify.com/track/41SwdQIX8Hy2u6fuEDgvWr"
@@ -205,7 +205,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 127723,
       "name": "Celestia",
       "url": "https://open.spotify.com/track/6I6PNGL4RLUMI0pfTC8gqP"
@@ -339,6 +339,28 @@
       "duration_ms": 272453,
       "name": "Don't Turn the Lights On",
       "url": "https://open.spotify.com/track/2cC48Dvkkw5YK9rLIr83OG"
+    },
+    {
+      "album": {
+        "name": "Don't You",
+        "url": "https://open.spotify.com/album/7HFGc7fbzZOuE2TFyYN8Ra"
+      },
+      "artists": [
+        {
+          "name": "Jerry Folk",
+          "url": "https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv"
+        },
+        {
+          "name": "Izza Gara",
+          "url": "https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155492,
+      "name": "Don't You",
+      "url": "https://open.spotify.com/track/18354LBwPIgO5DJ8vzOsGg"
     },
     {
       "album": {
@@ -845,7 +867,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 344777,
       "name": "Mirror",
       "url": "https://open.spotify.com/track/0AXay1TwLmrkdWpVnHbmpl"
@@ -1152,6 +1174,28 @@
     },
     {
       "album": {
+        "name": "Sourire",
+        "url": "https://open.spotify.com/album/3PxbtialTHwR0r70FpgBtm"
+      },
+      "artists": [
+        {
+          "name": "Amelie Martinez",
+          "url": "https://open.spotify.com/artist/2ZUmKzZUZPBuvBrdTM6Rw1"
+        },
+        {
+          "name": "Vendredi",
+          "url": "https://open.spotify.com/artist/728y8xDi9WMeYqKeuYgDF0"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154119,
+      "name": "Sourire",
+      "url": "https://open.spotify.com/track/41qv3QU0O4zM2KLtkO5x28"
+    },
+    {
+      "album": {
         "name": "Fantasy Black Channel",
         "url": "https://open.spotify.com/album/08MTKoAy7sggTqeQNcvDdi"
       },
@@ -1351,6 +1395,28 @@
       "duration_ms": 365640,
       "name": "Windowlicker",
       "url": "https://open.spotify.com/track/409z4jUHpq7eIkg3N3FzZh"
+    },
+    {
+      "album": {
+        "name": "You & Me",
+        "url": "https://open.spotify.com/album/1nbX5SpbInsusz0qYRcrr2"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        },
+        {
+          "name": "Anfisa Letyago",
+          "url": "https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170645,
+      "name": "You & Me",
+      "url": "https://open.spotify.com/track/4mwYnQIIIQMZ2fv1bA1v9E"
     },
     {
       "album": {

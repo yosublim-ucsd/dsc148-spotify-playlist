@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Solo artistas independientes, actualizada todos los miércoles\. Foto: Chini Tacchini.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,816 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,821 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 49 | [Me da miedo](https://open.spotify.com/track/1gZe1TLYttyOetZPHojtPE) | [Diegales](https://open.spotify.com/artist/18jngJTQ7eBdgzAhHKk9TW) | [Me da miedo](https://open.spotify.com/album/5zWVKSoznvZKkxIoLlwUzP) | 3:05 |
 | 50 | [SILVER DRIPPING](https://open.spotify.com/track/5Fu04V36axcvvvObl152GJ) | [Tomás Roca](https://open.spotify.com/artist/7tUu2H6RCutqIgP88lLLpw) | [SILVER DRIPPING](https://open.spotify.com/album/28GMDtJ04HTXJ9uyRzVk65) | 1:54 |
 
-Snapshot ID: `MCw4YjAxNzBiMmZlOTI5YjMwMGIyYzc4ODU3MmExMTlhZGI1MzA1NWE1`
+Snapshot ID: `MCwzMDk4YTIzZTMyZTUyMjRmYmFhMGRhMzM4YjhiM2M3ZTE3MjdjZGMw`

@@ -1,7 +1,7 @@
 {
-  "2024-02-24": 212200,
+  "2024-02-25": 212456,
   "date_first_scraped": "2022-01-21",
-  "description": "Al coraz\u00f3n! Foto: Daniel Agostini.",
+  "description": "Al coraz\u00f3n! Foto: Los Palmeras & j mena",
   "name": "Cumbia y Romance",
   "tracks": [
     {
@@ -339,7 +339,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 213506,
       "name": "Ag\u00fcita",
       "url": "https://open.spotify.com/track/4AwjZri8DDFBQQnZZKeVBF"
@@ -523,7 +523,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 195893,
       "name": "Amor Pirata",
       "url": "https://open.spotify.com/track/7F15KCy88ObXpqnBrfJsbb"
@@ -737,7 +737,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 264707,
       "name": "Cartas de Verano",
       "url": "https://open.spotify.com/track/3uOEWxeR6DXatAYyO6PIUE"
@@ -2218,6 +2218,24 @@
     },
     {
       "album": {
+        "name": "Ense\u00f1ame a Olvidar",
+        "url": "https://open.spotify.com/album/3cv7txGl8jnsq7hJDQKrSU"
+      },
+      "artists": [
+        {
+          "name": "Super Quinteto",
+          "url": "https://open.spotify.com/artist/4ArkxyeBPg8alE9CcBf86X"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257609,
+      "name": "Ense\u00f1ame a Olvidar",
+      "url": "https://open.spotify.com/track/2WTzbKuLK5HlvEzzJYxY1m"
+    },
+    {
+      "album": {
         "name": "A 30 A\u00f1os de una Pasi\u00f3n Inexplicable... Solo He Nacido para Amarte",
         "url": "https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l"
       },
@@ -2403,7 +2421,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 228000,
       "name": "ESAS L\u00c1GRIMAS",
       "url": "https://open.spotify.com/track/62afBH32Rh04BXl7pwtr2r"
@@ -3326,6 +3344,24 @@
     },
     {
       "album": {
+        "name": "Luz Sin Gravedad",
+        "url": "https://open.spotify.com/album/1O06nulAGaUblPmn1z4GsJ"
+      },
+      "artists": [
+        {
+          "name": "Jackita",
+          "url": "https://open.spotify.com/artist/4QPzOa9mWjgUVvy9ObVGo8"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200306,
+      "name": "Luz Sin Gravedad",
+      "url": "https://open.spotify.com/track/2De6g7PYBLivxyQaWA6Efa"
+    },
+    {
+      "album": {
         "name": "L\u00e1grimas",
         "url": "https://open.spotify.com/album/5yEunu5lGVvGdi2bGgZ7Ne"
       },
@@ -3363,7 +3399,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 182114,
       "name": "Maldita flor",
       "url": "https://open.spotify.com/track/72Oc0OIk1j0UfMkq9zV79L"
@@ -3794,6 +3830,28 @@
     },
     {
       "album": {
+        "name": "Modo Lunita (Remix)",
+        "url": "https://open.spotify.com/album/0NzhPHlvRaLrSNJCN8IA6k"
+      },
+      "artists": [
+        {
+          "name": "Agus Cassano",
+          "url": "https://open.spotify.com/artist/5Jmui4kpdCfcyz8KFSpHRY"
+        },
+        {
+          "name": "Manu Rg",
+          "url": "https://open.spotify.com/artist/4BYjb5lZPyqyEJgSCkxXuH"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123795,
+      "name": "Modo Lunita - Remix",
+      "url": "https://open.spotify.com/track/11XZad5eqTwHB7hdNjCFiR"
+    },
+    {
+      "album": {
         "name": "Muero por Ti",
         "url": "https://open.spotify.com/album/5HsMAwmKL4scPfwIiDEbNj"
       },
@@ -4197,6 +4255,32 @@
       "duration_ms": 196000,
       "name": "No Me Dijiste",
       "url": "https://open.spotify.com/track/2pmHK974eD7VWYMLzcC2jC"
+    },
+    {
+      "album": {
+        "name": "No Morir\u00e1 Jam\u00e1s",
+        "url": "https://open.spotify.com/album/3GizObRqQ6XePIDYMJSyJO"
+      },
+      "artists": [
+        {
+          "name": "Repiola",
+          "url": "https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ"
+        },
+        {
+          "name": "El Adri Music",
+          "url": "https://open.spotify.com/artist/0meQtjreUHEscunPE1xSb5"
+        },
+        {
+          "name": "El Principal",
+          "url": "https://open.spotify.com/artist/6BaA05C0NwJmsBVsr5P5DC"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189195,
+      "name": "No Morir\u00e1 Jam\u00e1s",
+      "url": "https://open.spotify.com/track/4y9pqngqbta1zHDS1MLzUv"
     },
     {
       "album": {
@@ -6011,6 +6095,24 @@
       "duration_ms": 191333,
       "name": "Tonta",
       "url": "https://open.spotify.com/track/1babcBOEm3FZMHzRL8z0rU"
+    },
+    {
+      "album": {
+        "name": "Tramposa",
+        "url": "https://open.spotify.com/album/4tPBqFk4ZeAzQ0mB8ZxUzX"
+      },
+      "artists": [
+        {
+          "name": "LiL CaKe",
+          "url": "https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187852,
+      "name": "Tramposa",
+      "url": "https://open.spotify.com/track/1lLTyKsX4IDBYtAiRWnJEQ"
     },
     {
       "album": {

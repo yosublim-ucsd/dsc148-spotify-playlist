@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 345928,
+  "2024-02-25": 345953,
   "date_first_scraped": "2022-01-18",
   "description": "As belas novidades da MPB. Foto: Marisa Monte",
   "name": "Divina MPB",
@@ -9475,10 +9475,32 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 207240,
       "name": "Redescobrir",
       "url": "https://open.spotify.com/track/5reRLMr3vjzCCpZZmZ63eC"
+    },
+    {
+      "album": {
+        "name": "Afeto e Luta - Bruna Caram Canta Gonzaguinha",
+        "url": "https://open.spotify.com/album/0Jac5fEWIbZz4YvVsa3SVs"
+      },
+      "artists": [
+        {
+          "name": "Bruna Caram",
+          "url": "https://open.spotify.com/artist/3pSMpWqJo6X3uImKekyupo"
+        },
+        {
+          "name": "Z\u00e9 Renato",
+          "url": "https://open.spotify.com/artist/4qKsdS2IGIfnj00bQRP2mL"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207375,
+      "name": "Redescobrir",
+      "url": "https://open.spotify.com/track/6535UwR6A0VkwXqnrDJgG9"
     },
     {
       "album": {

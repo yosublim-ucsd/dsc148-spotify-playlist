@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 1540773,
+  "2024-02-25": 1540950,
   "date_first_scraped": "2021-12-21",
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
   "name": "Night Rider",
@@ -1057,6 +1057,28 @@
       "duration_ms": 178420,
       "name": "Breathe Me In",
       "url": "https://open.spotify.com/track/0eiLudweyosA5c7EUJ6y0c"
+    },
+    {
+      "album": {
+        "name": "Bridges In The Sky",
+        "url": "https://open.spotify.com/album/0lDf8RYmqDgyZRYEGxggYV"
+      },
+      "artists": [
+        {
+          "name": "Colyn",
+          "url": "https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh"
+        },
+        {
+          "name": "Maurits Colijn",
+          "url": "https://open.spotify.com/artist/3flMOgDUT0vdbSZwkl4by3"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345365,
+      "name": "Bridges In The Sky (feat. Maurits Colijn)",
+      "url": "https://open.spotify.com/track/2r9YISB3SpXkEsNF1iceu6"
     },
     {
       "album": {
@@ -8631,7 +8653,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 222151,
       "name": "Under My Skin",
       "url": "https://open.spotify.com/track/0Qsm4e0tjof17GOrxoRhLO"

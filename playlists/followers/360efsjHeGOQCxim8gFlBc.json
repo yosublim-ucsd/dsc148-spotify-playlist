@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 463,
+  "2024-02-25": 463,
   "date_first_scraped": "2023-11-08",
   "description": "Close your eyes and relax to calm, peaceful piano melodies.",
   "name": "Calming Piano",
@@ -1323,6 +1323,24 @@
     {
       "album": {
         "name": "Escape",
+        "url": "https://open.spotify.com/album/6stqw16mycyRmbGf4iJvEZ"
+      },
+      "artists": [
+        {
+          "name": "Kilgore Doubtfire",
+          "url": "https://open.spotify.com/artist/6ACjuZLY6r7l5DYetnFOlr"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280749,
+      "name": "Escape",
+      "url": "https://open.spotify.com/track/55xkIx5Zi0Lzf7QqF4LDUS"
+    },
+    {
+      "album": {
+        "name": "Escape",
         "url": "https://open.spotify.com/album/5BbiSeXR7wkys8hVGb2SkI"
       },
       "artists": [
@@ -1333,7 +1351,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 280749,
       "name": "Escape",
       "url": "https://open.spotify.com/track/65HfR1BpotW0ES46KD6Gv8"
@@ -1489,7 +1507,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 215602,
       "name": "Fifty Shades Darker (Crazy in Love)",
       "url": "https://open.spotify.com/track/2AjGfBkqW1e1nUPkcBD2jx"
@@ -1507,7 +1525,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-25",
+      "date_removed": null,
       "duration_ms": 215602,
       "name": "Fifty Shades Darker (Crazy in Love)",
       "url": "https://open.spotify.com/track/6SiqDm2VW8x6YVoEIPM9S2"
@@ -2375,7 +2393,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-15",
+      "date_removed": null,
       "duration_ms": 137547,
       "name": "Idea 9",
       "url": "https://open.spotify.com/track/3TdROUy5JZz1OcBKMZjeux"
@@ -2393,7 +2411,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 137547,
       "name": "Idea 9",
       "url": "https://open.spotify.com/track/76OEZ6s2Bhtb7C6iPTkBcq"
@@ -4873,7 +4891,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 153620,
       "name": "there's always tomorrow",
       "url": "https://open.spotify.com/track/14xyA9t4ry7pfeNI7CLQS8"

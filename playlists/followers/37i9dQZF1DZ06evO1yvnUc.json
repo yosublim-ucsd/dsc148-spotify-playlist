@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 95310,
+  "2024-02-25": 95344,
   "date_first_scraped": "2023-06-30",
   "description": "This is PARTYNEXTDOOR. The essential tracks, all in one playlist.",
   "name": "This Is PARTYNEXTDOOR",
@@ -149,7 +149,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 235973,
       "name": "Cash Out (feat. ScHoolboy Q, PARTYNEXTDOOR & D.R.A.M.)",
       "url": "https://open.spotify.com/track/0Ws8D3EWUDgY962Xftb0h5"
@@ -295,7 +295,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 187998,
       "name": "Friends (feat. PARTYNEXTDOOR)",
       "url": "https://open.spotify.com/track/48yghmFphEYBqEUReolP8J"

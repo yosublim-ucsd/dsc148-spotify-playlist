@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Abbot, Raffa Moreira
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,658 likes - 74 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,673 likes - 74 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 73 | [Primeiro de Maio \(Gostosas Inteligentes\)](https://open.spotify.com/track/2DaHDTiB8DhBDIM7csF7Ny) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [THS](https://open.spotify.com/artist/3mI838insJsm1g7P3EsQW4) | [Primeiro de Maio \(Gostosas Inteligentes\)](https://open.spotify.com/album/3sPEyvePf2VVTs3QF0OZSt) | 2:10 |
 | 74 | [Metralha](https://open.spotify.com/track/4ty23iZN8LE3NKB6gVuUQw) | [Abbot](https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ), [Raffa Moreira](https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR), [LH CHUCRO](https://open.spotify.com/artist/3Im4m6K9QvxFBUJIOttSuH), [Jay Kay](https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki) | [Metralha](https://open.spotify.com/album/7MQxAhJAEiSTBjzfNrK2qT) | 3:00 |
 
-Snapshot ID: `MCw3NDU5YWRkNmVkNDNjZTdhODUzNWIzYmIxNDg0MmM0YWE4ZDVkNzE3`
+Snapshot ID: `MCwwNWU0NzdhZDdhZWE0NmYyOWE0NGQ0OGQ2MDE0NzAxZjVlZDFmZjk3`

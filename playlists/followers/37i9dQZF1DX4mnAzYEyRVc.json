@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 46612,
+  "2024-02-25": 46654,
   "date_first_scraped": "2022-05-26",
   "description": "The world series of Ska. Cover: Mad Caddies",
   "name": "Ska Around The Globe",
@@ -3772,6 +3772,24 @@
     },
     {
       "album": {
+        "name": "I Don't Wanna Be Me",
+        "url": "https://open.spotify.com/album/5jT0uNzkGaNWyH2WdMa3YC"
+      },
+      "artists": [
+        {
+          "name": "The Supervillains",
+          "url": "https://open.spotify.com/artist/0LN8DYo6VtPVK0WQ3g6AXJ"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268571,
+      "name": "I Don't Wanna Be Me",
+      "url": "https://open.spotify.com/track/1tS0ISfMTFLHzwK4EvZ2lN"
+    },
+    {
+      "album": {
         "name": "Motorcity Roots",
         "url": "https://open.spotify.com/album/4SQvzwKij7TnNJwottSxtw"
       },
@@ -4781,6 +4799,24 @@
       "duration_ms": 218533,
       "name": "Llunatics",
       "url": "https://open.spotify.com/track/1Dlv3JnIWlciwTdqk94O4W"
+    },
+    {
+      "album": {
+        "name": "Canciones De Amor, Y Un Remedio Pa'l Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Lo Que T\u00fa Me Das - Gracias",
+      "url": "https://open.spotify.com/track/7eOuceG9xpLU9dJaGsiOB4"
     },
     {
       "album": {
@@ -7475,7 +7511,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 269400,
       "name": "Sally Brown",
       "url": "https://open.spotify.com/track/73wJGxCSk85BfOri5XfKv8"
@@ -9453,7 +9489,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 217033,
       "name": "The Last Ninja",
       "url": "https://open.spotify.com/track/0pSwZXfhuvGHKsT8dpbT1J"

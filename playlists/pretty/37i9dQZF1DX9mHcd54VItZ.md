@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/45Ahb3Z1t6yHM2F2gFrAtx?si=5n4wUgkkQWSISsvTzBbXRg">Wonderboom</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,885 likes - 59 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,910 likes - 59 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 58 | [Kopskudkinders](https://open.spotify.com/track/4TFUAomrnQaSBKHz4TRUpa) | [Die Tuindwergies](https://open.spotify.com/artist/54j7TkvX3vgbCUPeH8F8zN) | [Die Tuindwergies](https://open.spotify.com/album/4Yxsbbl1KwF9w2gMAEBGNl) | 4:21 |
 | 59 | [Getting Hotter](https://open.spotify.com/track/4mal6jIqW8y7xOiEeqOHsC) | [Sons of Trout](https://open.spotify.com/artist/1z88VRzfLU6fS3EIYuP93b) | [Take Me to Your Fishmonger](https://open.spotify.com/album/3nrHBscoXDul2SqSGnBknO) | 3:17 |
 
-Snapshot ID: `MCwyYjBiOTJiZmQzZDkzNjc0MDZkNDc1Njc4MDNkZDAzNGY1ZWNkZWFm`
+Snapshot ID: `MCwyYjk5NmI3ZTE3NzlkYzUyNzhkOWIwZmEwYjYzM2JkYmRjMzlmZDVk`

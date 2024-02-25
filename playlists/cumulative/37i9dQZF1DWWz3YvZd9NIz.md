@@ -4,7 +4,7 @@
 
 > The best hardstyle remixes of songs you know!
 
-181 songs - 9 hr 2 min
+182 songs - 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [L'Amour Toujours \- Hardstyle Version](https://open.spotify.com/track/4LR1jodAjwy93mUG447kvD) | [TCM](https://open.spotify.com/artist/26JDxOz4FrVBX1AquFCzdp) | [L'Amour Toujours \(Hardstyle Version\)](https://open.spotify.com/album/2SbmElQVDhXV9Y6vXmi5g5) | 2:49 | 2022-12-05 |  |
 | [La Colegiala](https://open.spotify.com/track/2cyxZcDi7HB48T8mYZViLv) | [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa), [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22) | [La Colegiala](https://open.spotify.com/album/5St2aiydKvThR9AR0fHSpO) | 3:23 | 2022-12-05 | 2022-12-29 |
 | [Lambada \(Your Love\)](https://open.spotify.com/track/2oefmctoiEMHs6Cf6PmoHj) | [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0), [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Lambada \(Your Love\)](https://open.spotify.com/album/0WgTsrXmzSihOCRoRS5Bn6) | 4:26 | 2022-12-05 |  |
-| [Lay Low \(Radical Redemption Remix\)](https://open.spotify.com/track/2hY7CobV1syoLH1T4jp10O) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Radical Redemption](https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC) | [Lay Low \(Radical Redemption Remix\)](https://open.spotify.com/album/6towXPOqUs32hg4Aosmhvp) | 2:56 | 2023-11-16 |  |
+| [Lay Low \(Radical Redemption Remix\)](https://open.spotify.com/track/2hY7CobV1syoLH1T4jp10O) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Radical Redemption](https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC) | [Lay Low \(Radical Redemption Remix\)](https://open.spotify.com/album/6towXPOqUs32hg4Aosmhvp) | 2:56 | 2023-11-16 | 2024-02-25 |
 | [Let It Go](https://open.spotify.com/track/11SXPs6gjysHrTiDR1TLIt) | [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [Lawstylez](https://open.spotify.com/artist/6VBSwCRUCT6b3igxW6VfJZ), [Pule](https://open.spotify.com/artist/4ZRiZlB8TEZwhXqwLr0U9R) | [Let It Go](https://open.spotify.com/album/2ImKlfdzC9seZ0VOGVhlMV) | 4:08 | 2023-12-04 | 2024-01-08 |
 | [Liberté \- Sefa & Outsiders Remix](https://open.spotify.com/track/3oNDynp3Y6F9NvCMqvoxYI) | [Parla & Pardoux](https://open.spotify.com/artist/3qt7yUEE6loq4FEGM7aw3M), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Sefa](https://open.spotify.com/artist/0caJEGgVuXuSHhhrMCmlkI) | [Liberté \(Sefa & Outsiders Remix\)](https://open.spotify.com/album/3p7eNUcZSoiMT4XPYr4doO) | 3:00 | 2022-12-05 |  |
 | [Locked Out Of Heaven \(Hardstyle\) \- Sped Up](https://open.spotify.com/track/0ExPOKGYA2HAykGEsCxJS6) | [BAKI](https://open.spotify.com/artist/76krwUBanEdJxfdBhGehLW), [ZYZZ](https://open.spotify.com/artist/4iVtUKJwDlropmzNOFMBtM), [GYM HARDSTYLE](https://open.spotify.com/artist/4L5D0YgMaZOS1xJKUCBBMH) | [Locked Out Of Heaven \(Hardstyle\) \- Sped Up](https://open.spotify.com/album/2y2hH2PKakxRmxmIW4xPcn) | 3:14 | 2023-02-09 |  |
@@ -113,6 +113,7 @@
 | [Make Some Noise](https://open.spotify.com/track/4IS0ROMGe8EmlKRaIfxsOm) | [Ransom](https://open.spotify.com/artist/1kpnFAPpACdKIiuaatgBah) | [Make Some Noise](https://open.spotify.com/album/4c1QAsOQnZBVFuthKRbkN3) | 3:09 | 2022-12-08 | 2023-02-10 |
 | [Maniac](https://open.spotify.com/track/5TQZ9gl4c5WLP5RWx6kkr6) | [Dr Phunk](https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk), [Da Rick](https://open.spotify.com/artist/7H7x1AnDoiPSwiEOXZP6Ls) | [Maniac](https://open.spotify.com/album/39IKOXzpy4tr6KwcVTsIOD) | 3:12 | 2022-12-05 | 2022-12-29 |
 | [Mariachi](https://open.spotify.com/track/2ZVtTaUteed56SesdREtsd) | [Vaskan](https://open.spotify.com/artist/6HMkNrKr3yzi4K16zRHVZn), [Yosuf](https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg) | [Mariachi](https://open.spotify.com/album/0hSOqDjjVATkv1SgOKxsV0) | 2:28 | 2023-01-26 | 2023-09-08 |
+| [Middle Of The Night](https://open.spotify.com/track/61G3o8mwI8kBiIf7FMX0bi) | [Dom Livez](https://open.spotify.com/artist/1ON8OYB3qf2Yafnqt1ZStP) | [Middle Of The Night](https://open.spotify.com/album/0hr9V7n6knEkzuLOQbsQGm) | 2:34 | 2024-02-08 |  |
 | [Middle Of The Night](https://open.spotify.com/track/6xUlEWtTKrkyxUxO7nPVYq) | [Dom Livez](https://open.spotify.com/artist/1ON8OYB3qf2Yafnqt1ZStP) | [Middle Of The Night](https://open.spotify.com/album/2poXFyU38a94TRDrzL7jgx) | 2:34 | 2022-12-05 | 2024-02-11 |
 | [Miracle](https://open.spotify.com/track/0cdR2RfFyCknWBh7ghM8RU) | [Bloodlust](https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp) | [Miracle](https://open.spotify.com/album/4YK343jFNgtXS9jISVqImF) | 3:25 | 2023-07-21 | 2024-01-29 |
 | [Mirrors \(Hardstyle\)](https://open.spotify.com/track/3yqNYyOKbdonNvDMsydfqx) | [PXSEIDON](https://open.spotify.com/artist/0WOk6PeJIAZDHrB2U06TOw) | [Mirrors \(Hardstyle\)](https://open.spotify.com/album/4qYmzS3WbXmy1EHjbd4TGU) | 1:56 | 2023-02-02 | 2023-05-23 |

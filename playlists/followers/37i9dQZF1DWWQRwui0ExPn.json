@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 5249191,
+  "2024-02-25": 5249951,
   "date_first_scraped": "2019-05-26",
   "description": "chill beats, lofi vibes, new tracks every week... ",
   "name": "lofi beats",
@@ -96081,7 +96081,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 93571,
       "name": "Serenade",
       "url": "https://open.spotify.com/track/0QZQqs0ieyCslR6IAJD4cc"
@@ -108917,6 +108917,24 @@
       "duration_ms": 128000,
       "name": "sweet",
       "url": "https://open.spotify.com/track/5T8oPvfngivxzqgp7XAkBy"
+    },
+    {
+      "album": {
+        "name": "Sweet Apollo",
+        "url": "https://open.spotify.com/album/0iStaKoeXbhVN6C75N1wm3"
+      },
+      "artists": [
+        {
+          "name": "SoFo",
+          "url": "https://open.spotify.com/artist/2hsvv4SulxVhnoLWtuMxo1"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138666,
+      "name": "Sweet Apollo",
+      "url": "https://open.spotify.com/track/387Et4ZBM5n4NEmpkvN3RR"
     },
     {
       "album": {

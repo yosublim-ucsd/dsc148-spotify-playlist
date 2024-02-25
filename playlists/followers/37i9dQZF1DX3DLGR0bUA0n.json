@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 52319,
+  "2024-02-25": 52374,
   "date_first_scraped": "2023-12-19",
   "description": "Con todo el sentimiento ranchero desde el coraz\u00f3n de la Tierra Caliente. To\u00f1o y Freddy en portada. ",
   "name": "Tierra Caliente",
@@ -562,6 +562,24 @@
     },
     {
       "album": {
+        "name": "El Cocho de Tierra Caliente",
+        "url": "https://open.spotify.com/album/0crE4CDRFQyTnFpotT7UHP"
+      },
+      "artists": [
+        {
+          "name": "GERARDO DIAZ Y SU GERARQUIA",
+          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249310,
+      "name": "Dile",
+      "url": "https://open.spotify.com/track/5yhq5FLTXUcj08LrU5J2vX"
+    },
+    {
+      "album": {
         "name": "El Amor de Tu Vida",
         "url": "https://open.spotify.com/album/6hy1Ztwrn8rmzlyKPauTtf"
       },
@@ -887,7 +905,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 302282,
       "name": "El Oro Verde",
       "url": "https://open.spotify.com/track/7m3QSjfXFbYZzndQCJBwDR"
@@ -1125,7 +1143,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 148329,
       "name": "Flor Hermosa",
       "url": "https://open.spotify.com/track/557jO0VSx5Y0VgeA4BOwdO"
@@ -1353,6 +1371,24 @@
       "duration_ms": 183160,
       "name": "La Luz de Tus Ojos / Cuesti\u00f3n Olvidada",
       "url": "https://open.spotify.com/track/2vLPZ5KsckjEa4EuYyHy5t"
+    },
+    {
+      "album": {
+        "name": "La Mas Bella Mujer",
+        "url": "https://open.spotify.com/album/2WILPDQfhx2QhxijkvyoEl"
+      },
+      "artists": [
+        {
+          "name": "Los Player's de Tuzantla",
+          "url": "https://open.spotify.com/artist/77UR8eXyohRSAMyLhYfdxW"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "La Mas Bella Mujer",
+      "url": "https://open.spotify.com/track/6yfH6f9o90ccQxkcbBTM7S"
     },
     {
       "album": {
@@ -1681,7 +1717,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 170759,
       "name": "Mu\u00f1equita Consentida",
       "url": "https://open.spotify.com/track/5iMgOdul9oZBYiVQGbs6mw"
@@ -2081,7 +2117,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 198716,
       "name": "Serious",
       "url": "https://open.spotify.com/track/0G0U4hpQoZ66kaHMxi1eJk"
@@ -2398,6 +2434,24 @@
     },
     {
       "album": {
+        "name": "Una M\u00e1s A Tu Salud",
+        "url": "https://open.spotify.com/album/0r6B4xfvgqORk5tBe7Klru"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1o Y Freddy",
+          "url": "https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181316,
+      "name": "Una M\u00e1s A Tu Salud",
+      "url": "https://open.spotify.com/track/3x7n2lCeBcOgPmxFetD17y"
+    },
+    {
+      "album": {
         "name": "18 Kilates",
         "url": "https://open.spotify.com/album/42JRfQBP8DhodYhlN1396h"
       },
@@ -2453,6 +2507,24 @@
       "duration_ms": 199343,
       "name": "Yo Soy de la Sierra",
       "url": "https://open.spotify.com/track/39atHdsK4HUVLjQzg8Zwvn"
+    },
+    {
+      "album": {
+        "name": "\u00bfComo Le Hiciste?",
+        "url": "https://open.spotify.com/album/37WUMQlxFObygrsZAjwvg6"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Coste\u00f1os de Zirandaro, Gro.",
+          "url": "https://open.spotify.com/artist/6RZ6RbJO8Lit2j9oM5621E"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207925,
+      "name": "\u00bfComo Le Hiciste?",
+      "url": "https://open.spotify.com/track/294gOGmqpmv4u0L9myG9Er"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3DLGR0bUA0n"

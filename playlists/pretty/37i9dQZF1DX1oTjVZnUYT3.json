@@ -1,12 +1,12 @@
 {
   "description": "Grandes hinos da m\u00fasica brasileira para animar sua pista de dan\u00e7a! ",
-  "num_followers": 456620,
+  "num_followers": 456689,
   "original_name": "Festa Brasileira",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjODY4MDVkYzAxMzI3MGE2YWI4NzhkYjFkZDAyMWMyNDM1MjU1NzU1",
+  "snapshot_id": "MCxiNTBmZTM5NTVlNjA0NWJmN2M1OTFhYTAzODdiOGY3ZWZhOGM2OTYz",
   "tracks": [
     {
       "added_at": "2021-11-26 03:18:52",
@@ -783,22 +783,6 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Gera\u00e7\u00e3o Pop",
-        "url": "https://open.spotify.com/album/1SBKxrKIIgGyYMl43ffjnU"
-      },
-      "artists": [
-        {
-          "name": "Pepeu Gomes",
-          "url": "https://open.spotify.com/artist/3XLeGN8GPEzQarxiDoQURu"
-        }
-      ],
-      "duration_ms": 244826,
-      "name": "Eu tamb\u00e9m quero beijar",
-      "url": "https://open.spotify.com/track/52GKEkUJJUAPcYE8S0rZJV"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
         "name": "Meu Jeito de Amar",
         "url": "https://open.spotify.com/album/6lcjkroMzWo3lcrtT1Nfbb"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 168800,
       "name": "Meu Jeito de Amar",
       "url": "https://open.spotify.com/track/08HdbdAWWqSyliHjMG6XmH"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
+        "name": "Gera\u00e7\u00e3o Pop",
+        "url": "https://open.spotify.com/album/1SBKxrKIIgGyYMl43ffjnU"
+      },
+      "artists": [
+        {
+          "name": "Pepeu Gomes",
+          "url": "https://open.spotify.com/artist/3XLeGN8GPEzQarxiDoQURu"
+        }
+      ],
+      "duration_ms": 244826,
+      "name": "Eu tamb\u00e9m quero beijar",
+      "url": "https://open.spotify.com/track/52GKEkUJJUAPcYE8S0rZJV"
     },
     {
       "added_at": "2021-11-26 03:18:52",

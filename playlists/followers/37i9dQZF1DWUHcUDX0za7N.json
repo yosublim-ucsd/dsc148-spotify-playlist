@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 43787,
+  "2024-02-25": 43868,
   "date_first_scraped": "2022-10-01",
   "description": "Hip hop and rap music from Nigeria. Cover: <a href=\"https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW?si=vxymvPdCSwSPLOgqLXMARw\"> King Perryy</a>",
   "name": "Naija Bars ",
@@ -2295,7 +2295,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-17",
+      "date_removed": null,
       "duration_ms": 181250,
       "name": "FAKE NIKES (feat. Blxckie & Cheque)",
       "url": "https://open.spotify.com/track/7bhBk8gX5aRsiUTBaaaCwq"
@@ -3365,6 +3365,24 @@
     {
       "album": {
         "name": "Jowo",
+        "url": "https://open.spotify.com/album/5sXgkD3qm5z4QKznPlGJNT"
+      },
+      "artists": [
+        {
+          "name": "Jaido P",
+          "url": "https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163130,
+      "name": "Jowo",
+      "url": "https://open.spotify.com/track/3JMPFxoSzCeLD9n5JumZFb"
+    },
+    {
+      "album": {
+        "name": "Jowo",
         "url": "https://open.spotify.com/album/7FB85ZQoIIlVUIQH7UaFJL"
       },
       "artists": [
@@ -3415,7 +3433,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 165929,
       "name": "Joy",
       "url": "https://open.spotify.com/track/1YTNRddcxKyMheo9HkxBJU"
@@ -7343,7 +7361,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 143692,
       "name": "WELCOME 2 MY STRIP (Feat. ODUMODUBLVCK)",
       "url": "https://open.spotify.com/track/58QstEOypB4xIe3ta8Qhya"

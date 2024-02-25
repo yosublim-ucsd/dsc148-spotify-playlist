@@ -26253,6 +26253,24 @@
     },
     {
       "album": {
+        "name": "The Holly And The Ivy (Ambient Version)",
+        "url": "https://open.spotify.com/album/344goY86bloznV29PaIhhV"
+      },
+      "artists": [
+        {
+          "name": "Open Blue Sky",
+          "url": "https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC"
+        }
+      ],
+      "date_added": "2024-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61487,
+      "name": "The Holly And The Ivy - Ambient Version",
+      "url": "https://open.spotify.com/track/3ABnQf0SFfBZIL3AiePmcS"
+    },
+    {
+      "album": {
         "name": "Two Versions Of The Holly And The Ivy",
         "url": "https://open.spotify.com/album/3flr7CGCZYvqf9iylReKAm"
       },

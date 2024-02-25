@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 803451,
+  "2024-02-25": 803566,
   "date_first_scraped": "2019-09-29",
   "description": "Smooth joints. Cover: Beyonc\u00e9",
   "name": "BUTTER",
@@ -127,6 +127,24 @@
       "duration_ms": 233521,
       "name": "16 CARRIAGES",
       "url": "https://open.spotify.com/track/3Fwebmu4BzPUpDtPZo0qHb"
+    },
+    {
+      "album": {
+        "name": "2 Much",
+        "url": "https://open.spotify.com/album/3BpR28xCNhR9uI90NgAwRR"
+      },
+      "artists": [
+        {
+          "name": "Qendresa",
+          "url": "https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "2 Much",
+      "url": "https://open.spotify.com/track/4QySScdQnRDZjDaAdpY0AM"
     },
     {
       "album": {
@@ -1369,7 +1387,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 155179,
       "name": "Asteroids",
       "url": "https://open.spotify.com/track/7vTTOzp0E9D04XJVdt5qP5"
@@ -1713,6 +1731,28 @@
       "duration_ms": 161522,
       "name": "Bach To The Future",
       "url": "https://open.spotify.com/track/0CTa7Tzm3xKUtirAV2AOAR"
+    },
+    {
+      "album": {
+        "name": "Back on 74 (Full Crate Remix)",
+        "url": "https://open.spotify.com/album/4kGBuWZI5kpjt60cqWewXD"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        },
+        {
+          "name": "Full Crate",
+          "url": "https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174233,
+      "name": "Back On 74 - Full Crate Remix",
+      "url": "https://open.spotify.com/track/0eBAg5wJBu2Acv6o72iY4c"
     },
     {
       "album": {
@@ -3069,6 +3109,32 @@
       "duration_ms": 275853,
       "name": "Breathe Me In (A Little Longer)",
       "url": "https://open.spotify.com/track/3BoYRCsMbjlq9MMx0P8Tx5"
+    },
+    {
+      "album": {
+        "name": "Bridge Over Troubled Water (feat. John Legend & Tori Kelly)",
+        "url": "https://open.spotify.com/album/1Zo8V5bfUxTiLPQRO99FK5"
+      },
+      "artists": [
+        {
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        },
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352106,
+      "name": "Bridge Over Troubled Water (feat. John Legend & Tori Kelly)",
+      "url": "https://open.spotify.com/track/4FG5dNlurEtZ84kCTg5YLA"
     },
     {
       "album": {
@@ -5337,7 +5403,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 175635,
       "name": "Dopamine",
       "url": "https://open.spotify.com/track/4fcGgxx1moBvJZDgRU0hTk"
@@ -8026,6 +8092,24 @@
     },
     {
       "album": {
+        "name": "gin and wine (ginuwine)",
+        "url": "https://open.spotify.com/album/3JwhKO0Pw10XKRlgFC9PL0"
+      },
+      "artists": [
+        {
+          "name": "tg.blk",
+          "url": "https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129473,
+      "name": "gin and wine (ginuwine)",
+      "url": "https://open.spotify.com/track/33u4lROskD2GSckbtsjCVI"
+    },
+    {
+      "album": {
         "name": "girls in town (feat. Nana Lourdes & Rome Fortune)",
         "url": "https://open.spotify.com/album/1v3nA47rOt1YknRiC6t3Je"
       },
@@ -10230,6 +10314,24 @@
     },
     {
       "album": {
+        "name": "Illusions",
+        "url": "https://open.spotify.com/album/7G5uHjRAwBYcot5JH79iNz"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216573,
+      "name": "Illusions",
+      "url": "https://open.spotify.com/track/0FdvQVBKMN5Vc2SiN7bU0Z"
+    },
+    {
+      "album": {
         "name": "The View / In My Head",
         "url": "https://open.spotify.com/album/0dI9CNhsq619IK9WiXwHDf"
       },
@@ -10361,6 +10463,24 @@
       "duration_ms": 247066,
       "name": "Invitation",
       "url": "https://open.spotify.com/track/1g3ZLynDfJ7chTlxlEee8u"
+    },
+    {
+      "album": {
+        "name": "Invulnerable",
+        "url": "https://open.spotify.com/album/5B2TRYqyw8Q0zF0SaY7v6d"
+      },
+      "artists": [
+        {
+          "name": "K-OS",
+          "url": "https://open.spotify.com/artist/3EZWlSBWlPsC8lCI2Y36Gl"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181493,
+      "name": "Invulnerable",
+      "url": "https://open.spotify.com/track/1EiTjeKV7MTqI077jLu6pn"
     },
     {
       "album": {
@@ -10901,7 +11021,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 304875,
       "name": "Kiss from a Rose",
       "url": "https://open.spotify.com/track/7sz7Ux2pAuM5V5RdjbaH6V"
@@ -12432,6 +12552,24 @@
     },
     {
       "album": {
+        "name": "MARY - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/4SKYxCEmJBIxTdPQGQGK0C"
+      },
+      "artists": [
+        {
+          "name": "Jordan Mackampa",
+          "url": "https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204799,
+      "name": "MARY - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/7M2NVfbNrBnrR1eA7HVWTw"
+    },
+    {
+      "album": {
         "name": "Massamba Afundance",
         "url": "https://open.spotify.com/album/6bqrt2uydI0J3aeJrqptbL"
       },
@@ -12451,7 +12589,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 182267,
       "name": "Massamba Afundance",
       "url": "https://open.spotify.com/track/3NRY5U5HwXk1xP43Hd5cJj"
@@ -14702,6 +14840,32 @@
     },
     {
       "album": {
+        "name": "Otis' Tambourine",
+        "url": "https://open.spotify.com/album/36B43pWAEPvpxLHPIETjvh"
+      },
+      "artists": [
+        {
+          "name": "Jahari Massamba Unit",
+          "url": "https://open.spotify.com/artist/0wQu6RGpwgoD20qNxb4vwj"
+        },
+        {
+          "name": "Karriem Riggins",
+          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
+        },
+        {
+          "name": "Madlib",
+          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269970,
+      "name": "Otis' Tambourine",
+      "url": "https://open.spotify.com/track/0RVMkPFCaLiTivv3eJJgcY"
+    },
+    {
+      "album": {
         "name": "Konke",
         "url": "https://open.spotify.com/album/4Rl0XqeWSsFrH0SNPS35Kd"
       },
@@ -15327,7 +15491,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 233406,
       "name": "Pink + White - Live at Electric Lady",
       "url": "https://open.spotify.com/track/2FmADxrIphJZSrHzwYkUcR"
@@ -20497,7 +20661,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 241666,
       "name": "TODAY",
       "url": "https://open.spotify.com/track/6osru1Fx1n50mRD8QWI9m1"
@@ -20841,7 +21005,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 152371,
       "name": "Two Tens (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/6clDsO8HwhHEgJDDp88VdL"
@@ -20859,7 +21023,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 222000,
       "name": "U & I",
       "url": "https://open.spotify.com/track/7DaHNeYZ9kUJntu5R6rVnS"

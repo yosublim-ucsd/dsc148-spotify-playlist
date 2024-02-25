@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: KALAI 家麗
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,964 likes - 114 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,965 likes - 114 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 113 | [I CAN'T](https://open.spotify.com/track/4gWWZGAvRd78Ztz4kfwTSu) | [ProdiG](https://open.spotify.com/artist/08CriCUDwsWSTvFDWsfpk1) | [I CAN'T](https://open.spotify.com/album/4LPLzvpPWmbuOOpK1vaiQl) | 2:07 |
 | 114 | [山長水遠](https://open.spotify.com/track/5LtlNjIcPKjXOSO2E45ULu) | [Chefwest](https://open.spotify.com/artist/76X04R0YI3EKzZ957qJeee), [shinylungs⁺₊✧](https://open.spotify.com/artist/2g7UAB5TToknyyKW44XvV9), [0rganicman](https://open.spotify.com/artist/6JSPhYkty9j06FeFahuhDo), [丸](https://open.spotify.com/artist/5tUbF2wVYoQQAbSyN5iM1n) | [山長水遠](https://open.spotify.com/album/66wKvoCdhUkbnjY09NpRJR) | 5:18 |
 
-Snapshot ID: `MCw5YmVhYTQyNmZjMGE3ZTc5MjAzMzMzODNmN2Q5NWIxZTBjY2RkYWZh`
+Snapshot ID: `MCw2YTk1MjU5OGJhNWU1YTc3YjVjZjQ3ZTg4OTdlZGViNTRiMTUwMjVj`

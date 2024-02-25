@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-571 songs - 1 day 8 hr 6 min
+572 songs - 1 day 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -418,6 +418,7 @@
 | [Reminisce \(feat\. Yuna\)](https://open.spotify.com/track/0tT9RlzcD5Of5w05TPQKxk) | [PARADISE RISING](https://open.spotify.com/artist/0bGLIWZrNjcM3mIwPqxBNo), [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [semilucent 2](https://open.spotify.com/album/4cUc4EWmcbzamsCXOlJ8ez) | 3:22 | 2021-10-04 | 2022-01-08 |
 | [RETURN TO NOTHINGNESS](https://open.spotify.com/track/2huuvkWXprS1pR4VJ8UuG7) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf) | [RETURN TO NOTHINGNESS](https://open.spotify.com/album/2BEk18TPlSSo1Jgbkp999x) | 3:40 | 2022-02-28 | 2022-03-31 |
 | [RIDE](https://open.spotify.com/track/2mBYXhbvd9HN1IJtwGARJn) | [R.C.D.](https://open.spotify.com/artist/0FrdFfkE81gnXdYbf5Do3Q) | [SARINE QUAZAR](https://open.spotify.com/album/6WQaXDhkwu1AuvMQxOTb9l) | 3:35 | 2022-03-11 | 2022-04-19 |
+| [Ride Or Die](https://open.spotify.com/track/4cwmGynF3SKhjq4vlGBVTi) | [AK SPORTS](https://open.spotify.com/artist/7qiOBa5jCbTeyLY2Chw9ju) | [Ride Or Die](https://open.spotify.com/album/6POFris69rMrOUVviVE9Ls) | 3:14 | 2024-02-25 |  |
 | [Rings of Saturn](https://open.spotify.com/track/6B2smPDLlM2Ms59jSB4pVH) | [Alann8h](https://open.spotify.com/artist/1PG2FugIT1iF2CWnzjw0We) | [Apollo 8](https://open.spotify.com/album/6ktVSiT3MwRj9z5CJjC2df) | 2:53 | 2021-11-19 | 2022-01-08 |
 | [Riot \- Chahine Remix](https://open.spotify.com/track/1wDB8a4bZlnkbUmhJm0OE3) | [Khamsin](https://open.spotify.com/artist/3SArT8JtWehqNmycXIZren), [Chahine](https://open.spotify.com/artist/0ffZOUG03CN6pw4ry7CJY9) | [Riot \(Chahine Remix\)](https://open.spotify.com/album/0QQaemw9727t0MirfAj56x) | 3:08 | 2022-03-09 | 2023-07-20 |
 | [Ripple \(feat\. grandpa julie\)](https://open.spotify.com/track/2SqlWDESCdIb0QKNP0sByv) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl), [grandpa julie](https://open.spotify.com/artist/6P38Kx1SGQCgAQHqv0LjAs) | [Ripple \(feat\. grandpa julie\)](https://open.spotify.com/album/0quSSIvZNfb6kxR8JcMRgM) | 3:03 | 2023-10-18 |  |

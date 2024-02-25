@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 921180,
+  "2024-02-25": 921138,
   "date_first_scraped": "2021-12-21",
   "description": "Clock in from the comfort of your own home and let the music carry you through the day.",
   "name": "Work From Home",
@@ -3015,7 +3015,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 194798,
       "name": "Dark Skies",
       "url": "https://open.spotify.com/track/1LdldZb0pYsiAF88CHOSk3"
@@ -7475,6 +7475,24 @@
       "duration_ms": 187003,
       "name": "Love Myself",
       "url": "https://open.spotify.com/track/4o4MwnE4OK3JNG4lCYFnwm"
+    },
+    {
+      "album": {
+        "name": "Love On",
+        "url": "https://open.spotify.com/album/7I7rbWQoLZ7PrTMsRfocpL"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181650,
+      "name": "Love On",
+      "url": "https://open.spotify.com/track/2fB5YRuD88drKpCXQOAk03"
     },
     {
       "album": {

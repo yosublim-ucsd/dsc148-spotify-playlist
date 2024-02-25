@@ -4,7 +4,7 @@
 
 > The soft sound of a Jazz piano trio to help you relax and unwind.
 
-546 songs - 1 day 18 hr 2 min
+547 songs - 1 day 18 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -376,7 +376,7 @@
 | [Red Milk](https://open.spotify.com/track/2S7VcpELtk2PK61IjHq0zO) | [Alessandro Galati](https://open.spotify.com/artist/3SdasE0Qww2dxPjuYobTuk), [Palle Danielsson](https://open.spotify.com/artist/7CyW7K2UrpjUNLVV698wvJ), [Peter Erskine](https://open.spotify.com/artist/3Bm6MhzPUczH3Pej2FNqGi) | [Traction Avant Vol.2](https://open.spotify.com/album/4SFScQIEdCjOpeg5PcqrMk) | 7:42 | 2022-10-13 | 2024-02-07 |
 | [Red Milk](https://open.spotify.com/track/4OpN1XOEwzNEGNALxwKcYR) | [Alessandro Galati](https://open.spotify.com/artist/3SdasE0Qww2dxPjuYobTuk), [Palle Danielsson](https://open.spotify.com/artist/7CyW7K2UrpjUNLVV698wvJ), [Peter Erskine](https://open.spotify.com/artist/3Bm6MhzPUczH3Pej2FNqGi) | [Traction Avant Vol.2](https://open.spotify.com/album/1l2CFdenQByfIw6F6Lmxtg) | 7:42 | 2022-02-18 | 2022-10-18 |
 | [Red Roses](https://open.spotify.com/track/2bJ6vXeDbSvF2xngmc57UZ) | [David Parks & Silver](https://open.spotify.com/artist/5lh0cmklkqiNcuFsXOyl1D) | [Red Roses](https://open.spotify.com/album/5Rz2VaBkjjV8gxfkBNycF8) | 2:48 | 2023-03-10 |  |
-| [Reflections](https://open.spotify.com/track/2mQToxHWRJDKQx2KCRVS1C) | [Patrik Boman](https://open.spotify.com/artist/6UJ3XmKfJ3nQmmfbkRRDxw), [Göran Strandberg](https://open.spotify.com/artist/5UvgzmaFmOKd0xaN7iCrgu), [Sebastian Voegler](https://open.spotify.com/artist/3VLS93sGJffMxEEkNt85JB) | [Reflections](https://open.spotify.com/album/020CpEUx5DhqpMKyOOZTJ0) | 5:29 | 2022-04-07 |  |
+| [Reflections](https://open.spotify.com/track/2mQToxHWRJDKQx2KCRVS1C) | [Patrik Boman](https://open.spotify.com/artist/6UJ3XmKfJ3nQmmfbkRRDxw), [Göran Strandberg](https://open.spotify.com/artist/5UvgzmaFmOKd0xaN7iCrgu), [Sebastian Voegler](https://open.spotify.com/artist/3VLS93sGJffMxEEkNt85JB) | [Reflections](https://open.spotify.com/album/020CpEUx5DhqpMKyOOZTJ0) | 5:29 | 2022-04-07 | 2024-02-25 |
 | [Remembering](https://open.spotify.com/track/7egSnOVoyp1SvQtr2ZUp1z) | [Kjetil Mulelid Trio](https://open.spotify.com/artist/474vK8QpU3WL9RxRCmo5cX) | [Who Do You Love the Most?](https://open.spotify.com/album/49BEjb3ppEwJklB8nbhPpR) | 4:43 | 2022-04-29 |  |
 | [Remembrance](https://open.spotify.com/track/0kbWuiN6FdHJXu1xCBVxvW) | [Grayville Trio](https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk) | [Remembrance](https://open.spotify.com/album/6aO2ui4ldnUa338vXUkMGz) | 3:10 | 2022-11-12 |  |
 | [Reminiscence](https://open.spotify.com/track/1oPvlSxxRR7hojrjO5T9bB) | [Espen Eriksen Trio](https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST) | [End of Summer](https://open.spotify.com/album/2LleX2N1IzAe93C0qpBxuZ) | 7:03 | 2022-02-10 |  |
@@ -528,6 +528,7 @@
 | [When We Meet Halfway](https://open.spotify.com/track/0ZmL7e8iZhPiNtpvPNUiNP) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU), [Jules Billé](https://open.spotify.com/artist/4NUgmHU1FIREvBXLDDFhng), [Christophe Piot](https://open.spotify.com/artist/4BqX5iSPXbStNLbdzjURGi) | [When We Meet Halfway](https://open.spotify.com/album/2oByqKzmvtbgZolfqUcYsF) | 5:37 | 2022-09-29 | 2023-06-08 |
 | [When You're Here](https://open.spotify.com/track/0oXrVmcJVCd7043iyHmmUI) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Things To Look Forward To](https://open.spotify.com/album/6HKoV1sIgJA7qgmwiX8Joo) | 5:21 | 2023-03-10 |  |
 | [Where Breathing Starts](https://open.spotify.com/track/5e4pjbR6UsKQE9fvWmQRkw) | [Tord Gustavsen Trio](https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a) | [Changing Places](https://open.spotify.com/album/4572n5PFAccWTD3Aq3tw5g) | 8:49 | 2022-05-13 | 2022-11-09 |
+| [Where Do You Go?](https://open.spotify.com/track/3eTUgNA4GrFu3mo1wy79ni) | [Cornelia Nilsson](https://open.spotify.com/artist/6qrHaoFbMB1BvPLVlKaY5c), [Daniel Franck](https://open.spotify.com/artist/72xSyvnAe9Hb1vgtQblTTt), [Aaron Parks](https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv) | [Where Do You Go?](https://open.spotify.com/album/637CSjIkYI1pALV0yrFcfc) | 6:58 | 2024-02-23 |  |
 | [Where is Jack?](https://open.spotify.com/track/1eFaguvJh03AF3XOUAlWR4) | [Reuben Plays](https://open.spotify.com/artist/5RktRZOHbkKduKINbyTHNC) | [Where is Jack?](https://open.spotify.com/album/6IAwrExHAogD5ayPqjQc1S) | 3:35 | 2023-03-10 |  |
 | [Where or When](https://open.spotify.com/track/3b1J3QbTTDXcxB4EmIWY17) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU) | [Where or When](https://open.spotify.com/album/1qYy2VgAlQ0yPQf4C5TWDo) | 3:50 | 2022-08-25 |  |
 | [White Clouds](https://open.spotify.com/track/1r6ox6z1nsDOH0GNKVBsvO) | [Ola W Jansson](https://open.spotify.com/artist/4hoFdBmz4b5NykkV0SCEVz), [W JAZZ TRIO](https://open.spotify.com/artist/4nFofMNAntqM5p8Q4ha2YA) | [In The Background](https://open.spotify.com/album/0ToUSIQkb4erjR1EHQtnP4) | 2:55 | 2022-05-26 | 2024-02-16 |

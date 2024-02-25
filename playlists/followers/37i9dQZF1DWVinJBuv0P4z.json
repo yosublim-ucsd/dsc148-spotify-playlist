@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 384496,
+  "2024-02-25": 384685,
   "date_first_scraped": "2021-12-30",
   "description": "Happy tunes from the 50s, 60s & 70s. Cover: The Beach Boys.",
   "name": "Feel Good Classics",
@@ -1329,6 +1329,24 @@
       "duration_ms": 213840,
       "name": "Disco Inferno",
       "url": "https://open.spotify.com/track/3GXo1eWlT2flv4x01l5OTu"
+    },
+    {
+      "album": {
+        "name": "The Trammps",
+        "url": "https://open.spotify.com/album/2A4nI2akA3aRlw14ZFhPDr"
+      },
+      "artists": [
+        {
+          "name": "The Trammps",
+          "url": "https://open.spotify.com/artist/1zgNpeHQe8GulzfVkYP2VK"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218026,
+      "name": "Disco Inferno",
+      "url": "https://open.spotify.com/track/4NHLhoZgBkICm5LtTRXFAP"
     },
     {
       "album": {
@@ -4675,7 +4693,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 204106,
       "name": "Shambala - Single Version",
       "url": "https://open.spotify.com/track/0P6fEgTn3cxLLyYTJYoYGj"

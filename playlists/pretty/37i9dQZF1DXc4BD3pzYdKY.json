@@ -1,12 +1,12 @@
 {
   "description": "The best of Christian Hip Hop today.  Cover:  <a href=\"spotify:artist:7jyr9Co4MKL1iWML1G7vch\">Zauntee</a>",
-  "num_followers": 149292,
+  "num_followers": 149376,
   "original_name": "The Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NDBmNDRmNWJmY2Y0MmJkZmEyNDEyMTIxMDdmYzIyNDk5MDhhYjM5",
+  "snapshot_id": "MCxhYmJlYjgyMTg5ZjgyMWE0ZDhhZGIwZDdlNjU5ZjA1MTk3ZTdkMmZh",
   "tracks": [
     {
       "added_at": "2024-02-23 09:44:29",
@@ -479,26 +479,6 @@
     {
       "added_at": "2024-02-23 09:44:29",
       "album": {
-        "name": "Talk & Do",
-        "url": "https://open.spotify.com/album/4lqNta0wM1DiICK7PORqx9"
-      },
-      "artists": [
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Ada Ehi",
-          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
-        }
-      ],
-      "duration_ms": 165254,
-      "name": "Talk & Do",
-      "url": "https://open.spotify.com/track/2PXulTyeJgq6204kpwpzVM"
-    },
-    {
-      "added_at": "2024-02-23 09:44:29",
-      "album": {
         "name": "Standby",
         "url": "https://open.spotify.com/album/3eoaxGOwv1rdebEJeFocqQ"
       },
@@ -515,6 +495,26 @@
       "duration_ms": 220704,
       "name": "Standby",
       "url": "https://open.spotify.com/track/1LidB9TgQhzwiBVJQuKVwo"
+    },
+    {
+      "added_at": "2024-02-23 09:44:29",
+      "album": {
+        "name": "Talk & Do",
+        "url": "https://open.spotify.com/album/4lqNta0wM1DiICK7PORqx9"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Ada Ehi",
+          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
+        }
+      ],
+      "duration_ms": 165254,
+      "name": "Talk & Do",
+      "url": "https://open.spotify.com/track/2PXulTyeJgq6204kpwpzVM"
     },
     {
       "added_at": "2024-02-23 09:44:29",
@@ -631,6 +631,30 @@
     {
       "added_at": "2024-02-23 09:44:29",
       "album": {
+        "name": "Strongest",
+        "url": "https://open.spotify.com/album/742rwpA2b9UfLhvg0LeI8Q"
+      },
+      "artists": [
+        {
+          "name": "DizzyEight",
+          "url": "https://open.spotify.com/artist/3qpVZqXttPUYEmt53UYDGV"
+        },
+        {
+          "name": "Errol Allen",
+          "url": "https://open.spotify.com/artist/0vPHZqFce2oHEMQfTL6Ohc"
+        },
+        {
+          "name": "Musicality",
+          "url": "https://open.spotify.com/artist/3jbwoqhl1GhkvC5rNBvHH3"
+        }
+      ],
+      "duration_ms": 191021,
+      "name": "Strongest",
+      "url": "https://open.spotify.com/track/7fCzu8e9YyuZFP3woaowKu"
+    },
+    {
+      "added_at": "2024-02-23 09:44:29",
+      "album": {
         "name": "Cardio",
         "url": "https://open.spotify.com/album/5jDsJJZqCnGBoYC5lCv0yU"
       },
@@ -659,30 +683,6 @@
       "duration_ms": 174771,
       "name": "VICTORY LAP",
       "url": "https://open.spotify.com/track/6enm65ZcZgLYwClZuHTXxF"
-    },
-    {
-      "added_at": "2024-02-23 09:44:29",
-      "album": {
-        "name": "Strongest",
-        "url": "https://open.spotify.com/album/742rwpA2b9UfLhvg0LeI8Q"
-      },
-      "artists": [
-        {
-          "name": "DizzyEight",
-          "url": "https://open.spotify.com/artist/3qpVZqXttPUYEmt53UYDGV"
-        },
-        {
-          "name": "Errol Allen",
-          "url": "https://open.spotify.com/artist/0vPHZqFce2oHEMQfTL6Ohc"
-        },
-        {
-          "name": "Musicality",
-          "url": "https://open.spotify.com/artist/3jbwoqhl1GhkvC5rNBvHH3"
-        }
-      ],
-      "duration_ms": 191021,
-      "name": "Strongest",
-      "url": "https://open.spotify.com/track/7fCzu8e9YyuZFP3woaowKu"
     },
     {
       "added_at": "2024-02-23 09:44:29",
@@ -723,26 +723,6 @@
     {
       "added_at": "2024-02-23 09:44:29",
       "album": {
-        "name": "Creep",
-        "url": "https://open.spotify.com/album/2PrGDmCg9YstrYMAzTUmJK"
-      },
-      "artists": [
-        {
-          "name": "Aklesso",
-          "url": "https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK"
-        },
-        {
-          "name": "Jon Keith",
-          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
-        }
-      ],
-      "duration_ms": 167038,
-      "name": "Creep",
-      "url": "https://open.spotify.com/track/5L8AE3fSYDlxaHjyP6FMA9"
-    },
-    {
-      "added_at": "2024-02-23 09:44:29",
-      "album": {
         "name": "Giants",
         "url": "https://open.spotify.com/album/0spOTYRQFWRbNwapBauYmg"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 163500,
       "name": "Giants",
       "url": "https://open.spotify.com/track/0N8R08onW7h8ghBhns9TqV"
+    },
+    {
+      "added_at": "2024-02-23 09:44:29",
+      "album": {
+        "name": "Creep",
+        "url": "https://open.spotify.com/album/2PrGDmCg9YstrYMAzTUmJK"
+      },
+      "artists": [
+        {
+          "name": "Aklesso",
+          "url": "https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK"
+        },
+        {
+          "name": "Jon Keith",
+          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
+        }
+      ],
+      "duration_ms": 167038,
+      "name": "Creep",
+      "url": "https://open.spotify.com/track/5L8AE3fSYDlxaHjyP6FMA9"
     },
     {
       "added_at": "2024-02-23 09:44:29",
@@ -803,6 +803,22 @@
     {
       "added_at": "2024-02-23 09:44:29",
       "album": {
+        "name": "Code of Conduct",
+        "url": "https://open.spotify.com/album/6MAC46pMq1DpQNHf4sCnhW"
+      },
+      "artists": [
+        {
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+        }
+      ],
+      "duration_ms": 138154,
+      "name": "Code of Conduct",
+      "url": "https://open.spotify.com/track/3nUZLLaAR35vbn2VVnv42H"
+    },
+    {
+      "added_at": "2024-02-23 09:44:29",
+      "album": {
         "name": "We Know",
         "url": "https://open.spotify.com/album/3uf57UIYtHoATjGCrL35h9"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 126666,
       "name": "We Know",
       "url": "https://open.spotify.com/track/6XDfILr6lkW93PtaapDj0x"
-    },
-    {
-      "added_at": "2024-02-23 09:44:29",
-      "album": {
-        "name": "Code of Conduct",
-        "url": "https://open.spotify.com/album/6MAC46pMq1DpQNHf4sCnhW"
-      },
-      "artists": [
-        {
-          "name": "Mike Teezy",
-          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
-        }
-      ],
-      "duration_ms": 138154,
-      "name": "Code of Conduct",
-      "url": "https://open.spotify.com/track/3nUZLLaAR35vbn2VVnv42H"
     },
     {
       "added_at": "2024-02-23 09:44:29",
@@ -999,30 +999,6 @@
     {
       "added_at": "2024-02-23 09:44:29",
       "album": {
-        "name": "Judas (feat. Lecrae)",
-        "url": "https://open.spotify.com/album/3KWxHDfod63jy7CLtXYaNc"
-      },
-      "artists": [
-        {
-          "name": "YeloHill",
-          "url": "https://open.spotify.com/artist/0IgLirgKCxQb13uM8FuQpR"
-        },
-        {
-          "name": "TK RUN IT UP",
-          "url": "https://open.spotify.com/artist/2nmXKh1URuUD1DaIoWJ9ww"
-        },
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
-        }
-      ],
-      "duration_ms": 189090,
-      "name": "Judas (feat. Lecrae)",
-      "url": "https://open.spotify.com/track/6sn84zXUyEOcUtm8fsAoaG"
-    },
-    {
-      "added_at": "2024-02-23 09:44:29",
-      "album": {
         "name": "IN MY ROOM",
         "url": "https://open.spotify.com/album/5zGSq8TEeqTjYrwvD74bqr"
       },
@@ -1059,18 +1035,26 @@
     {
       "added_at": "2024-02-23 09:44:29",
       "album": {
-        "name": "Highs & Lows",
-        "url": "https://open.spotify.com/album/79B83HeSJzAsL8QbmglfxY"
+        "name": "Judas (feat. Lecrae)",
+        "url": "https://open.spotify.com/album/3KWxHDfod63jy7CLtXYaNc"
       },
       "artists": [
         {
-          "name": "Jay-Way",
-          "url": "https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7"
+          "name": "YeloHill",
+          "url": "https://open.spotify.com/artist/0IgLirgKCxQb13uM8FuQpR"
+        },
+        {
+          "name": "TK RUN IT UP",
+          "url": "https://open.spotify.com/artist/2nmXKh1URuUD1DaIoWJ9ww"
+        },
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
         }
       ],
-      "duration_ms": 162000,
-      "name": "Highs & Lows",
-      "url": "https://open.spotify.com/track/5Hd5YudVgjRcIEcIrAaCPn"
+      "duration_ms": 189090,
+      "name": "Judas (feat. Lecrae)",
+      "url": "https://open.spotify.com/track/6sn84zXUyEOcUtm8fsAoaG"
     },
     {
       "added_at": "2024-02-23 09:44:29",
@@ -1107,6 +1091,22 @@
       "duration_ms": 109730,
       "name": "I REMEMBER",
       "url": "https://open.spotify.com/track/7y0EHJhDC5ZOxA6Nx6the1"
+    },
+    {
+      "added_at": "2024-02-23 09:44:29",
+      "album": {
+        "name": "Highs & Lows",
+        "url": "https://open.spotify.com/album/79B83HeSJzAsL8QbmglfxY"
+      },
+      "artists": [
+        {
+          "name": "Jay-Way",
+          "url": "https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Highs & Lows",
+      "url": "https://open.spotify.com/track/5Hd5YudVgjRcIEcIrAaCPn"
     },
     {
       "added_at": "2024-02-23 09:44:29",
@@ -1243,18 +1243,22 @@
     {
       "added_at": "2024-02-23 09:44:29",
       "album": {
-        "name": "It's Alright",
-        "url": "https://open.spotify.com/album/4EEMuP3WN69ObKivvZ8d5V"
+        "name": "KEEPER",
+        "url": "https://open.spotify.com/album/6zNdGUzCMIPdyrPozkUxDV"
       },
       "artists": [
         {
-          "name": "S.O.",
-          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
+          "name": "Amar",
+          "url": "https://open.spotify.com/artist/6EzcG2756Gcv7qEmZmnjl2"
+        },
+        {
+          "name": "Vianca \"The Grace\"",
+          "url": "https://open.spotify.com/artist/3Xekr22iZIFUAb6eMOPNxP"
         }
       ],
-      "duration_ms": 205635,
-      "name": "It's Alright",
-      "url": "https://open.spotify.com/track/3INuuULY6TANh1Aov4Cxc8"
+      "duration_ms": 238285,
+      "name": "KEEPER",
+      "url": "https://open.spotify.com/track/0Nki8E9SuPPACfXghDz3q8"
     },
     {
       "added_at": "2024-02-23 09:44:29",
@@ -1271,6 +1275,22 @@
       "duration_ms": 187135,
       "name": "Free Indeed",
       "url": "https://open.spotify.com/track/5pNmR0MvE9gIgUtSRztigH"
+    },
+    {
+      "added_at": "2024-02-23 09:44:29",
+      "album": {
+        "name": "It's Alright",
+        "url": "https://open.spotify.com/album/4EEMuP3WN69ObKivvZ8d5V"
+      },
+      "artists": [
+        {
+          "name": "S.O.",
+          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
+        }
+      ],
+      "duration_ms": 205635,
+      "name": "It's Alright",
+      "url": "https://open.spotify.com/track/3INuuULY6TANh1Aov4Cxc8"
     },
     {
       "added_at": "2024-02-23 09:44:29",
@@ -1379,26 +1399,6 @@
     {
       "added_at": "2024-02-23 09:44:29",
       "album": {
-        "name": "KEEPER",
-        "url": "https://open.spotify.com/album/6zNdGUzCMIPdyrPozkUxDV"
-      },
-      "artists": [
-        {
-          "name": "Amar",
-          "url": "https://open.spotify.com/artist/6EzcG2756Gcv7qEmZmnjl2"
-        },
-        {
-          "name": "Vianca \"The Grace\"",
-          "url": "https://open.spotify.com/artist/3Xekr22iZIFUAb6eMOPNxP"
-        }
-      ],
-      "duration_ms": 238285,
-      "name": "KEEPER",
-      "url": "https://open.spotify.com/track/0Nki8E9SuPPACfXghDz3q8"
-    },
-    {
-      "added_at": "2024-02-23 09:44:29",
-      "album": {
         "name": "Problematic",
         "url": "https://open.spotify.com/album/30OUjNnqVA6L3Gx9AbkRi4"
       },
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2024-02-23 09:44:29",
       "album": {
+        "name": "Crazy Love",
+        "url": "https://open.spotify.com/album/7G0esvWTtqyussJ1KWkuTp"
+      },
+      "artists": [
+        {
+          "name": "IMRHAN",
+          "url": "https://open.spotify.com/artist/1q4putin60VdRXfDSTl5f3"
+        }
+      ],
+      "duration_ms": 201717,
+      "name": "Crazy Love",
+      "url": "https://open.spotify.com/track/3rAGol5YWMzVBKqjXoJzp2"
+    },
+    {
+      "added_at": "2024-02-23 09:44:29",
+      "album": {
         "name": "HE BACK!",
         "url": "https://open.spotify.com/album/6YONIZy4O4CSen2cbqhfn4"
       },
@@ -1447,18 +1463,18 @@
     {
       "added_at": "2024-02-23 09:44:29",
       "album": {
-        "name": "Crazy Love",
-        "url": "https://open.spotify.com/album/7G0esvWTtqyussJ1KWkuTp"
+        "name": "anxiety.",
+        "url": "https://open.spotify.com/album/3mklPRz6lx1WdPd0cbn6WX"
       },
       "artists": [
         {
-          "name": "IMRHAN",
-          "url": "https://open.spotify.com/artist/1q4putin60VdRXfDSTl5f3"
+          "name": "tylerhateslife",
+          "url": "https://open.spotify.com/artist/4z85Glof8wylJsLi93ukHm"
         }
       ],
-      "duration_ms": 201717,
-      "name": "Crazy Love",
-      "url": "https://open.spotify.com/track/3rAGol5YWMzVBKqjXoJzp2"
+      "duration_ms": 147310,
+      "name": "anxiety.",
+      "url": "https://open.spotify.com/track/5sWZIXPGLEK5vHTnH6ttYg"
     },
     {
       "added_at": "2024-02-23 09:44:29",
@@ -1495,22 +1511,6 @@
       "duration_ms": 141177,
       "name": "I <3 NK",
       "url": "https://open.spotify.com/track/7filcsGsjakEFegKUYdgvY"
-    },
-    {
-      "added_at": "2024-02-23 09:44:29",
-      "album": {
-        "name": "anxiety.",
-        "url": "https://open.spotify.com/album/3mklPRz6lx1WdPd0cbn6WX"
-      },
-      "artists": [
-        {
-          "name": "tylerhateslife",
-          "url": "https://open.spotify.com/artist/4z85Glof8wylJsLi93ukHm"
-        }
-      ],
-      "duration_ms": 147310,
-      "name": "anxiety.",
-      "url": "https://open.spotify.com/track/5sWZIXPGLEK5vHTnH6ttYg"
     },
     {
       "added_at": "2024-02-23 09:44:29",
@@ -1603,22 +1603,22 @@
     {
       "added_at": "2024-02-23 09:44:29",
       "album": {
-        "name": "Girls Don't Cry (Gibberish)",
-        "url": "https://open.spotify.com/album/6ZHLFeiaJgY4lRLWGdE1pj"
+        "name": "WE MISSED YOU",
+        "url": "https://open.spotify.com/album/0Nliq8dA1UudJEOq3UC8Q8"
       },
       "artists": [
         {
-          "name": "Uninvtd",
-          "url": "https://open.spotify.com/artist/0q66IFlScb4fDO2sgZSrfZ"
+          "name": "Coop",
+          "url": "https://open.spotify.com/artist/0ivRqHXxL3ghMn0vvs1urP"
         },
         {
-          "name": "S A I N T",
-          "url": "https://open.spotify.com/artist/2D6H3aOR8udBwn4oaC4LtN"
+          "name": "Swaizy",
+          "url": "https://open.spotify.com/artist/2dMkqn8YOKg6IwN85zo7gL"
         }
       ],
-      "duration_ms": 175773,
-      "name": "Girls Don't Cry (Gibberish)",
-      "url": "https://open.spotify.com/track/4slzYQ2rU6lcPqBETDLY9y"
+      "duration_ms": 135831,
+      "name": "Poetic Pain",
+      "url": "https://open.spotify.com/track/5y9nqQtwSN06pw53WqU4Uq"
     },
     {
       "added_at": "2024-02-23 09:44:29",
@@ -1643,22 +1643,38 @@
     {
       "added_at": "2024-02-23 09:44:29",
       "album": {
-        "name": "WE MISSED YOU",
-        "url": "https://open.spotify.com/album/0Nliq8dA1UudJEOq3UC8Q8"
+        "name": "Girls Don't Cry (Gibberish)",
+        "url": "https://open.spotify.com/album/6ZHLFeiaJgY4lRLWGdE1pj"
       },
       "artists": [
         {
-          "name": "Coop",
-          "url": "https://open.spotify.com/artist/0ivRqHXxL3ghMn0vvs1urP"
+          "name": "Uninvtd",
+          "url": "https://open.spotify.com/artist/0q66IFlScb4fDO2sgZSrfZ"
         },
         {
-          "name": "Swaizy",
-          "url": "https://open.spotify.com/artist/2dMkqn8YOKg6IwN85zo7gL"
+          "name": "S A I N T",
+          "url": "https://open.spotify.com/artist/2D6H3aOR8udBwn4oaC4LtN"
         }
       ],
-      "duration_ms": 135831,
-      "name": "Poetic Pain",
-      "url": "https://open.spotify.com/track/5y9nqQtwSN06pw53WqU4Uq"
+      "duration_ms": 175773,
+      "name": "Girls Don't Cry (Gibberish)",
+      "url": "https://open.spotify.com/track/4slzYQ2rU6lcPqBETDLY9y"
+    },
+    {
+      "added_at": "2024-02-23 09:44:29",
+      "album": {
+        "name": "The Prodigal Son",
+        "url": "https://open.spotify.com/album/0V8fKBOCPB9xJuQt3j8cOQ"
+      },
+      "artists": [
+        {
+          "name": "Eugy Official",
+          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
+        }
+      ],
+      "duration_ms": 164396,
+      "name": "Chosen",
+      "url": "https://open.spotify.com/track/3D28L1BTQL3erWFIEamyBR"
     },
     {
       "added_at": "2024-02-23 09:44:29",
@@ -1687,22 +1703,6 @@
     {
       "added_at": "2024-02-23 09:44:29",
       "album": {
-        "name": "The Prodigal Son",
-        "url": "https://open.spotify.com/album/0V8fKBOCPB9xJuQt3j8cOQ"
-      },
-      "artists": [
-        {
-          "name": "Eugy Official",
-          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
-        }
-      ],
-      "duration_ms": 164396,
-      "name": "Chosen",
-      "url": "https://open.spotify.com/track/3D28L1BTQL3erWFIEamyBR"
-    },
-    {
-      "added_at": "2024-02-23 09:44:29",
-      "album": {
         "name": "Troops",
         "url": "https://open.spotify.com/album/3LFBsOLIfbqRlWlG4UzL7A"
       },
@@ -1715,6 +1715,30 @@
       "duration_ms": 142500,
       "name": "Troops",
       "url": "https://open.spotify.com/track/1ubC4rypxA8o5M2hRj5mg4"
+    },
+    {
+      "added_at": "2024-02-23 09:44:29",
+      "album": {
+        "name": "Blood On The Doors",
+        "url": "https://open.spotify.com/album/6922R5qYxTzzkEvQ3O4XEA"
+      },
+      "artists": [
+        {
+          "name": "Razzie",
+          "url": "https://open.spotify.com/artist/3eMYXpbZpFOWTz36jMozU3"
+        },
+        {
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+        },
+        {
+          "name": "Gregory Rufus",
+          "url": "https://open.spotify.com/artist/3OFEfTZTighDlrrREGYCsS"
+        }
+      ],
+      "duration_ms": 198855,
+      "name": "Blood On The Doors",
+      "url": "https://open.spotify.com/track/7Bj5KsG49mNLnRXylKBKmc"
     },
     {
       "added_at": "2024-02-23 09:44:29",
@@ -1783,26 +1807,30 @@
     {
       "added_at": "2024-02-23 09:44:29",
       "album": {
-        "name": "Blood On The Doors",
-        "url": "https://open.spotify.com/album/6922R5qYxTzzkEvQ3O4XEA"
+        "name": "They Wanna Know",
+        "url": "https://open.spotify.com/album/7wOqXGEdaHIchDQMFabp6E"
       },
       "artists": [
         {
-          "name": "Razzie",
-          "url": "https://open.spotify.com/artist/3eMYXpbZpFOWTz36jMozU3"
+          "name": "Cory Ard",
+          "url": "https://open.spotify.com/artist/0qFRHDlLguiugbuuCInOCb"
+        },
+        {
+          "name": "Evan Ford",
+          "url": "https://open.spotify.com/artist/4eoZNWAcavDmUTQIoiPpyk"
+        },
+        {
+          "name": "Parris Chariz",
+          "url": "https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM"
         },
         {
           "name": "Mike Teezy",
           "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
-        },
-        {
-          "name": "Gregory Rufus",
-          "url": "https://open.spotify.com/artist/3OFEfTZTighDlrrREGYCsS"
         }
       ],
-      "duration_ms": 198855,
-      "name": "Blood On The Doors",
-      "url": "https://open.spotify.com/track/7Bj5KsG49mNLnRXylKBKmc"
+      "duration_ms": 147692,
+      "name": "They Wanna Know",
+      "url": "https://open.spotify.com/track/0jBFFc8gspsHfpkKORCDkC"
     },
     {
       "added_at": "2024-02-23 09:44:29",
@@ -1835,50 +1863,22 @@
     {
       "added_at": "2024-02-23 09:44:29",
       "album": {
-        "name": "They Wanna Know",
-        "url": "https://open.spotify.com/album/7wOqXGEdaHIchDQMFabp6E"
+        "name": "VINE",
+        "url": "https://open.spotify.com/album/4d3NC4abLYhsHIkhh4Kg1c"
       },
       "artists": [
         {
-          "name": "Cory Ard",
-          "url": "https://open.spotify.com/artist/0qFRHDlLguiugbuuCInOCb"
+          "name": "Kurtis Hoppie",
+          "url": "https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8"
         },
         {
-          "name": "Evan Ford",
-          "url": "https://open.spotify.com/artist/4eoZNWAcavDmUTQIoiPpyk"
-        },
-        {
-          "name": "Parris Chariz",
-          "url": "https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM"
-        },
-        {
-          "name": "Mike Teezy",
-          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+          "name": "Miles Minnick",
+          "url": "https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr"
         }
       ],
-      "duration_ms": 147692,
-      "name": "They Wanna Know",
-      "url": "https://open.spotify.com/track/0jBFFc8gspsHfpkKORCDkC"
-    },
-    {
-      "added_at": "2024-02-23 09:44:29",
-      "album": {
-        "name": "Less",
-        "url": "https://open.spotify.com/album/3ZPLq5Wt2ndoRtzpY5EQHq"
-      },
-      "artists": [
-        {
-          "name": "Poetics",
-          "url": "https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP"
-        },
-        {
-          "name": "KJ-52",
-          "url": "https://open.spotify.com/artist/0kSHocNBxQeP9pr25l1scP"
-        }
-      ],
-      "duration_ms": 79062,
-      "name": "Less",
-      "url": "https://open.spotify.com/track/260AkOJBux1QjKAcqmASDI"
+      "duration_ms": 195500,
+      "name": "VINE",
+      "url": "https://open.spotify.com/track/1QYDOVoxOV7iEzL43sGj5C"
     }
   ],
   "unique_name": "The Flow",

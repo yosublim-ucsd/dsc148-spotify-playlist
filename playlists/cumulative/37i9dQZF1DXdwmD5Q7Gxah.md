@@ -2,7 +2,7 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> stuff that is good! ft hana vu
+> dora jar x ashnikko remix and sooo much moooore
 
 2,625 songs - 5 day 21 hr 23 min
 

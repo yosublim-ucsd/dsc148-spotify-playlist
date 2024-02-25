@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Booka Shade
 
-[Spotify](https://open.spotify.com/user/spotify) - 630,919 likes - 90 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 631,010 likes - 90 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 65 | [Distance](https://open.spotify.com/track/3999ovg6nPZP80ML13U7tX) | [Avis Vox](https://open.spotify.com/artist/0C7l2N7H3hTYb3ZGRD4BNc) | [Distance](https://open.spotify.com/album/4T0ZXE3oVUR8ICECCb3rau) | 3:22 |
 | 66 | [CHROMA 001 HELIUM](https://open.spotify.com/track/7zVP6H7YeyHEL9f6w6Bmqm) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [CHROMA 001](https://open.spotify.com/album/1RC0P594vzP00VYIEH8yNZ) | 4:47 |
 | 67 | [The Come On](https://open.spotify.com/track/4wco6vEu7diAwWMCZM5O8h) | [Kapote](https://open.spotify.com/artist/3sySIHNL0hqR7eOlm3LNTH) | [The Come On](https://open.spotify.com/album/27KNK9Tmm55dxcQTzff35w) | 3:34 |
-| 68 | [Release Yourself](https://open.spotify.com/track/6RnNzninMePpAQVSs4Lgx4) | [Blank & Jones](https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp) | [\#WhatWeDoAtNight 4 EP 3](https://open.spotify.com/album/1FZ8inRiVsfYIM36L52bL4) | 5:57 |
+| 68 | [Release Yourself](https://open.spotify.com/track/70bSxj46Yi4qvtWckxKZa3) | [Blank & Jones](https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp) | [\#WhatWeDoAtNight 4](https://open.spotify.com/album/5W7Mvi3loW1aTg1IVa2HSB) | 5:57 |
 | 69 | [Time Goes By](https://open.spotify.com/track/6JDWI7pbTarVyn4zpVjj0l) | [iLee](https://open.spotify.com/artist/14pnDf4q7XzPmT1KLMW1YX) | [Time Goes By](https://open.spotify.com/album/4x7HDfzfYrU3WBpkJu28Xj) | 3:27 |
 | 70 | [Carpe Noctem](https://open.spotify.com/track/0tPd3n3sidAyu9uylUg9aX) | [Danca \(DE\)](https://open.spotify.com/artist/2d1Fp1HsFBwBLXxsql1JId) | [Carpe Noctem](https://open.spotify.com/album/01ePNOo4OduOWj0zKR3rNi) | 6:45 |
 | 71 | [Nocturne](https://open.spotify.com/track/5EoG6qFYmxOrxRKjX5h0Ao) | [Theus Mago](https://open.spotify.com/artist/5AmmljbTOeKJcfoTd6QCd3) | [Terremoto Valley Express EP](https://open.spotify.com/album/4p92eB2VCNvrMZIITnofAW) | 5:27 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 89 | [Take Me Back](https://open.spotify.com/track/3vAlTZ5tbE0cP2ppijVkbf) | [Demuja](https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1) | [Take Me Back](https://open.spotify.com/album/55Zy9a9hZKTBnM2tj8YlaL) | 5:34 |
 | 90 | [Slumber Party](https://open.spotify.com/track/52dvoTzRkbAEFdURrRKPQw) | [Tigerhead](https://open.spotify.com/artist/53UMZDKX6Ddh8KV5MYDlcE), [HEISSS Berlin](https://open.spotify.com/artist/4WGG9x0FqlRRkdKixyddHK) | [Slumber Party](https://open.spotify.com/album/1ILkp7RlyLsgFwdBGKyV7N) | 5:54 |
 
-Snapshot ID: `MCwzMTI4OWYyMjdmZmE3YzdlOWU0MGE2ODRlNjBiMGZkY2Y0ZmEyMTI4`
+Snapshot ID: `MCxiMWE1NGUwM2U4NTFiYjBjYmFlMWU0Mjc1ZDczOTZmNGRiMWUyZDYy`

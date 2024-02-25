@@ -487,6 +487,24 @@
     },
     {
       "album": {
+        "name": "DELUXE",
+        "url": "https://open.spotify.com/album/7cTzcUA70kwCqu7tUH7xD3"
+      },
+      "artists": [
+        {
+          "name": "Saske",
+          "url": "https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p"
+        }
+      ],
+      "date_added": "2024-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147843,
+      "name": "4REAL",
+      "url": "https://open.spotify.com/track/5ixOp00ehL9E3OdEBpkJiz"
+    },
+    {
+      "album": {
         "name": "5D",
         "url": "https://open.spotify.com/album/7jODSwwcloG6ToBWAegBho"
       },
@@ -998,7 +1016,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 180645,
       "name": "AGAPI - Remix",
       "url": "https://open.spotify.com/track/7pQJFF9uu0GpVbHoDtW3sl"
@@ -1366,6 +1384,28 @@
       "duration_ms": 174944,
       "name": "Alitaras",
       "url": "https://open.spotify.com/track/6UwdWcm7QyQzk9geavVfsP"
+    },
+    {
+      "album": {
+        "name": "Alitheia",
+        "url": "https://open.spotify.com/album/6zdvmUtelQ0yvWOu4sYoF2"
+      },
+      "artists": [
+        {
+          "name": "Bossikan",
+          "url": "https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM"
+        },
+        {
+          "name": "Aspa",
+          "url": "https://open.spotify.com/artist/1dxuhrh05CDzJtEc9qEc3N"
+        }
+      ],
+      "date_added": "2024-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172363,
+      "name": "Alitheia",
+      "url": "https://open.spotify.com/track/6kRNvc7eOG6Lnb873QWYTL"
     },
     {
       "album": {
@@ -2454,7 +2494,7 @@
       ],
       "date_added": "2024-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 165599,
       "name": "ARXH & TELOS",
       "url": "https://open.spotify.com/track/5HIVXfDQxvv4WuXTkJKyuS"
@@ -2530,7 +2570,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 175280,
       "name": "Asfaltos",
       "url": "https://open.spotify.com/track/47ApwqRNvbUZ0QBoxpaxqn"
@@ -2815,6 +2855,24 @@
     },
     {
       "album": {
+        "name": "DELUXE",
+        "url": "https://open.spotify.com/album/7cTzcUA70kwCqu7tUH7xD3"
+      },
+      "artists": [
+        {
+          "name": "Saske",
+          "url": "https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p"
+        }
+      ],
+      "date_added": "2024-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141893,
+      "name": "BABAR",
+      "url": "https://open.spotify.com/track/1g8IzNo9IHwBkHu0IZEeQs"
+    },
+    {
+      "album": {
         "name": "Psixi",
         "url": "https://open.spotify.com/album/3HtrMyrM7HfCicKZPUmSeU"
       },
@@ -2852,6 +2910,24 @@
       "duration_ms": 219714,
       "name": "Baby",
       "url": "https://open.spotify.com/track/7goj1fS7fV4dvc91RvuoBw"
+    },
+    {
+      "album": {
+        "name": "DELUXE",
+        "url": "https://open.spotify.com/album/7cTzcUA70kwCqu7tUH7xD3"
+      },
+      "artists": [
+        {
+          "name": "Saske",
+          "url": "https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p"
+        }
+      ],
+      "date_added": "2024-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157714,
+      "name": "BACK 2 BACK",
+      "url": "https://open.spotify.com/track/1OQ8HKktXMnYZ1W63sMgeU"
     },
     {
       "album": {
@@ -3138,7 +3214,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 136258,
       "name": "BANSKO",
       "url": "https://open.spotify.com/track/0VojXGi7cSdHx1VdkdvvHV"
@@ -3374,7 +3450,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 161666,
       "name": "BEKO",
       "url": "https://open.spotify.com/track/57p4wDILbaJAnhCFZjuEPo"
@@ -4032,7 +4108,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 102222,
       "name": "Blue Iguana",
       "url": "https://open.spotify.com/track/3cGYbsm5YpNMSSyUjTvlzw"
@@ -4336,6 +4412,24 @@
       "duration_ms": 174653,
       "name": "Bossidonas",
       "url": "https://open.spotify.com/track/5tbMaO9qbA9dMQnoOtRAUR"
+    },
+    {
+      "album": {
+        "name": "DELUXE",
+        "url": "https://open.spotify.com/album/7cTzcUA70kwCqu7tUH7xD3"
+      },
+      "artists": [
+        {
+          "name": "Saske",
+          "url": "https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p"
+        }
+      ],
+      "date_added": "2024-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129655,
+      "name": "BOSSIN",
+      "url": "https://open.spotify.com/track/5ZsdgNlzxSpojbmwrlaQPE"
     },
     {
       "album": {
@@ -4868,7 +4962,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 264324,
       "name": "CARNIVAL",
       "url": "https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN"
@@ -5521,6 +5615,24 @@
     },
     {
       "album": {
+        "name": "DELUXE",
+        "url": "https://open.spotify.com/album/7cTzcUA70kwCqu7tUH7xD3"
+      },
+      "artists": [
+        {
+          "name": "Saske",
+          "url": "https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p"
+        }
+      ],
+      "date_added": "2024-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176640,
+      "name": "COCKTAILS & BNBS",
+      "url": "https://open.spotify.com/track/5HMUqLHReJUVRR9qUwxqb0"
+    },
+    {
+      "album": {
         "name": "COCO",
         "url": "https://open.spotify.com/album/2tF7aq2dfVQtOSM3joLSLF"
       },
@@ -5776,6 +5888,24 @@
       "duration_ms": 193648,
       "name": "Credit",
       "url": "https://open.spotify.com/track/1vBxWdcP9a25Zv7dbsTN9M"
+    },
+    {
+      "album": {
+        "name": "DELUXE",
+        "url": "https://open.spotify.com/album/7cTzcUA70kwCqu7tUH7xD3"
+      },
+      "artists": [
+        {
+          "name": "Saske",
+          "url": "https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p"
+        }
+      ],
+      "date_added": "2024-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184235,
+      "name": "CREEPIN",
+      "url": "https://open.spotify.com/track/4nsQnnPYRr91YasY3pRM7P"
     },
     {
       "album": {
@@ -6438,7 +6568,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 157181,
       "name": "DEJA VU",
       "url": "https://open.spotify.com/track/3q6ayHzfLJIx22oQXoYlyi"
@@ -10370,7 +10500,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 204950,
       "name": "G63",
       "url": "https://open.spotify.com/track/0fxSLGBSsetmHSO98Xm0Km"
@@ -10744,7 +10874,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 223543,
       "name": "Ghetto",
       "url": "https://open.spotify.com/track/2X30nxVvZWDLDRFY7uxCvp"
@@ -11128,6 +11258,24 @@
       "duration_ms": 181640,
       "name": "Global",
       "url": "https://open.spotify.com/track/663sHokgUyawmreb3yoHrJ"
+    },
+    {
+      "album": {
+        "name": "DELUXE",
+        "url": "https://open.spotify.com/album/7cTzcUA70kwCqu7tUH7xD3"
+      },
+      "artists": [
+        {
+          "name": "Saske",
+          "url": "https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p"
+        }
+      ],
+      "date_added": "2024-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170571,
+      "name": "GO!",
+      "url": "https://open.spotify.com/track/6euFaM8LzmCVFBG2shDzsB"
     },
     {
       "album": {
@@ -11874,6 +12022,24 @@
       "duration_ms": 195348,
       "name": "HOOD",
       "url": "https://open.spotify.com/track/5YBAVc7IK2hgVLjpd78DiS"
+    },
+    {
+      "album": {
+        "name": "DELUXE",
+        "url": "https://open.spotify.com/album/7cTzcUA70kwCqu7tUH7xD3"
+      },
+      "artists": [
+        {
+          "name": "Saske",
+          "url": "https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p"
+        }
+      ],
+      "date_added": "2024-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156818,
+      "name": "HOOD",
+      "url": "https://open.spotify.com/track/3HYMpNBy1zHFBxvTpeOW63"
     },
     {
       "album": {
@@ -14532,7 +14698,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 152228,
       "name": "Kokkina Fanaria",
       "url": "https://open.spotify.com/track/2IzwQrJ6iGKinS3086jf12"
@@ -15247,6 +15413,24 @@
     },
     {
       "album": {
+        "name": "DELUXE",
+        "url": "https://open.spotify.com/album/7cTzcUA70kwCqu7tUH7xD3"
+      },
+      "artists": [
+        {
+          "name": "Saske",
+          "url": "https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p"
+        }
+      ],
+      "date_added": "2024-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "LATHOS STIGMI",
+      "url": "https://open.spotify.com/track/0QYvLPWRd09XPfn8LvIgNl"
+    },
+    {
+      "album": {
         "name": "Latina",
         "url": "https://open.spotify.com/album/6I05KXZobddEIzbUaVPAOa"
       },
@@ -15640,6 +15824,28 @@
       "duration_ms": 186117,
       "name": "Lies",
       "url": "https://open.spotify.com/track/4djNggObB9w5W3aRfbfdGv"
+    },
+    {
+      "album": {
+        "name": "DELUXE",
+        "url": "https://open.spotify.com/album/7cTzcUA70kwCqu7tUH7xD3"
+      },
+      "artists": [
+        {
+          "name": "Saske",
+          "url": "https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p"
+        },
+        {
+          "name": "Sigma",
+          "url": "https://open.spotify.com/artist/71cZMt4XdCynLn983qeFow"
+        }
+      ],
+      "date_added": "2024-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187415,
+      "name": "LIFE",
+      "url": "https://open.spotify.com/track/0IC9ZXSgqBsKZ3byY0ALY0"
     },
     {
       "album": {
@@ -17514,7 +17720,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 165000,
       "name": "ME N U",
       "url": "https://open.spotify.com/track/2ouWSRC1YsQX6JAwosfTFJ"
@@ -18445,6 +18651,24 @@
     },
     {
       "album": {
+        "name": "DELUXE",
+        "url": "https://open.spotify.com/album/7cTzcUA70kwCqu7tUH7xD3"
+      },
+      "artists": [
+        {
+          "name": "Saske",
+          "url": "https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p"
+        }
+      ],
+      "date_added": "2024-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182857,
+      "name": "MIXED BY ERRY",
+      "url": "https://open.spotify.com/track/23HpmXKnztOLq2tdxRTqyM"
+    },
+    {
+      "album": {
         "name": "UTOPIA",
         "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
       },
@@ -19088,7 +19312,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 113200,
       "name": "MOTORA",
       "url": "https://open.spotify.com/track/0nNlBtm1vuo9vlU9PYYuc5"
@@ -20134,7 +20358,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 213733,
       "name": "No Sleep",
       "url": "https://open.spotify.com/track/5nM5TStrOQt5HQAt4VzyHz"
@@ -20903,6 +21127,24 @@
     },
     {
       "album": {
+        "name": "DELUXE",
+        "url": "https://open.spotify.com/album/7cTzcUA70kwCqu7tUH7xD3"
+      },
+      "artists": [
+        {
+          "name": "Saske",
+          "url": "https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p"
+        }
+      ],
+      "date_added": "2024-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147555,
+      "name": "OTI GOUSTARO",
+      "url": "https://open.spotify.com/track/4A4rJEXl6T9L8443437cPN"
+    },
+    {
+      "album": {
         "name": "Immortale (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4pG7RebITssOm6t4w9TNL8"
       },
@@ -21496,7 +21738,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 155714,
       "name": "PAPAGOU",
       "url": "https://open.spotify.com/track/2Z165nc2FmSVJzzkqCskpT"
@@ -22933,6 +23175,28 @@
     },
     {
       "album": {
+        "name": "DELUXE",
+        "url": "https://open.spotify.com/album/7cTzcUA70kwCqu7tUH7xD3"
+      },
+      "artists": [
+        {
+          "name": "Saske",
+          "url": "https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p"
+        },
+        {
+          "name": "RACK",
+          "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
+        }
+      ],
+      "date_added": "2024-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "PRIN MAFISEIS",
+      "url": "https://open.spotify.com/track/2HryglxMYeEZcLHxSgQe4T"
+    },
+    {
+      "album": {
         "name": "Prince",
         "url": "https://open.spotify.com/album/12fMkjJiORq3h1JVJAdtOc"
       },
@@ -23728,7 +23992,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 270697,
       "name": "redrum",
       "url": "https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh"
@@ -24623,6 +24887,24 @@
     },
     {
       "album": {
+        "name": "DELUXE",
+        "url": "https://open.spotify.com/album/7cTzcUA70kwCqu7tUH7xD3"
+      },
+      "artists": [
+        {
+          "name": "Saske",
+          "url": "https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p"
+        }
+      ],
+      "date_added": "2024-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148063,
+      "name": "SAVVATOKYRIAKA",
+      "url": "https://open.spotify.com/track/6VM5zBpSpXgYXHaglNks2f"
+    },
+    {
+      "album": {
         "name": "Prometheus",
         "url": "https://open.spotify.com/album/5gBnMPbN5lduEZZU22lQ1W"
       },
@@ -24804,6 +25086,28 @@
       "duration_ms": 217196,
       "name": "Shakira: Bzrp Music Sessions, Vol. 53",
       "url": "https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe"
+    },
+    {
+      "album": {
+        "name": "DELUXE",
+        "url": "https://open.spotify.com/album/7cTzcUA70kwCqu7tUH7xD3"
+      },
+      "artists": [
+        {
+          "name": "Saske",
+          "url": "https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p"
+        },
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        }
+      ],
+      "date_added": "2024-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201832,
+      "name": "SHIESTY MASK",
+      "url": "https://open.spotify.com/track/5h5s32wsc8YMWwTO9QHPTO"
     },
     {
       "album": {
@@ -25216,7 +25520,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 123045,
       "name": "Skoni",
       "url": "https://open.spotify.com/track/6YfzfBiC4dpF5yv63QcLCY"
@@ -25608,7 +25912,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 170322,
       "name": "SOS",
       "url": "https://open.spotify.com/track/4ZMb2KrcIvgVIxqFRti1Fl"
@@ -26388,6 +26692,28 @@
       "duration_ms": 159568,
       "name": "Success Freestyle",
       "url": "https://open.spotify.com/track/7x0hLyeBbLBDYAptpi7CzS"
+    },
+    {
+      "album": {
+        "name": "Sukarie",
+        "url": "https://open.spotify.com/album/4aykjh6AjljvE3AGMGnULZ"
+      },
+      "artists": [
+        {
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
+        },
+        {
+          "name": "Thodoris Verlis",
+          "url": "https://open.spotify.com/artist/37JMsuLMU91B5Poil5tMcz"
+        }
+      ],
+      "date_added": "2024-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "Sukarie",
+      "url": "https://open.spotify.com/track/3EDocnZVJedQToA6rv8v3p"
     },
     {
       "album": {
@@ -27994,6 +28320,24 @@
       "duration_ms": 161721,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/4Z7FqfXtyBRpVKGKwlgTmA"
+    },
+    {
+      "album": {
+        "name": "DELUXE",
+        "url": "https://open.spotify.com/album/7cTzcUA70kwCqu7tUH7xD3"
+      },
+      "artists": [
+        {
+          "name": "Saske",
+          "url": "https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p"
+        }
+      ],
+      "date_added": "2024-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188817,
+      "name": "TOO BASIC",
+      "url": "https://open.spotify.com/track/3AK7Flu634dMN6XoqcBKnh"
     },
     {
       "album": {
@@ -30433,6 +30777,28 @@
     },
     {
       "album": {
+        "name": "DELUXE",
+        "url": "https://open.spotify.com/album/7cTzcUA70kwCqu7tUH7xD3"
+      },
+      "artists": [
+        {
+          "name": "Saske",
+          "url": "https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p"
+        },
+        {
+          "name": "SIDARTA",
+          "url": "https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp"
+        }
+      ],
+      "date_added": "2024-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169412,
+      "name": "XILIOMETRA",
+      "url": "https://open.spotify.com/track/2lftuw7jaWhPgmvra8ebgH"
+    },
+    {
+      "album": {
         "name": "Xoros",
         "url": "https://open.spotify.com/album/1Rj7CARI1ItoCCunM9KfRk"
       },
@@ -31078,7 +31444,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 206769,
       "name": "\u03a0\u03ac\u03c1\u03c4\u03c5",
       "url": "https://open.spotify.com/track/3WkZ44nflkY1Fb5wrkJuMM"

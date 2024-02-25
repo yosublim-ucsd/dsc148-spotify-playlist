@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 59124,
+  "2024-02-25": 59128,
   "date_first_scraped": "2022-01-09",
   "description": "Fresh releases from your future favorite artists. Cover: Patricia Heart Artwork: Isu Kim\n",
   "name": "Fresh Finds Philippines",
@@ -8009,6 +8009,24 @@
       "duration_ms": 115999,
       "name": "Danny Phantom",
       "url": "https://open.spotify.com/track/6uzhq5erUmXKIoERKLZHPy"
+    },
+    {
+      "album": {
+        "name": "Dapit-Hapon",
+        "url": "https://open.spotify.com/album/3wYNvocBlUHHyUXA1tihUw"
+      },
+      "artists": [
+        {
+          "name": "Ant$",
+          "url": "https://open.spotify.com/artist/5Q071iT6WeDNP937gQF2FT"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200019,
+      "name": "Dapit-Hapon",
+      "url": "https://open.spotify.com/track/1xNmzASp4818Xf7nsrGna8"
     },
     {
       "album": {
@@ -35999,6 +36017,24 @@
       "duration_ms": 204255,
       "name": "The City Doesn't Look Good On You",
       "url": "https://open.spotify.com/track/6SjEafDqEkmJH6vZxzRKc9"
+    },
+    {
+      "album": {
+        "name": "the guggenheim",
+        "url": "https://open.spotify.com/album/6TQcSvsqCQaNTBg13KM0iW"
+      },
+      "artists": [
+        {
+          "name": "palagi.",
+          "url": "https://open.spotify.com/artist/7CaN0416jaWruOGjD1os6S"
+        }
+      ],
+      "date_added": "2024-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220248,
+      "name": "the guggenheim",
+      "url": "https://open.spotify.com/track/5lmrta7Vve55sUE39nPAMG"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 1579910,
+  "2024-02-25": 1580168,
   "date_first_scraped": "2020-12-13",
   "description": "Emo feels for the misunderstood. Cover: The Kid LAROI",
   "name": "tear drop",
@@ -53,7 +53,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 112323,
       "name": "0verd0se",
       "url": "https://open.spotify.com/track/5r4eesBDOsXbCKPYtDdTbX"
@@ -455,6 +455,24 @@
       "duration_ms": 194769,
       "name": "A Place For Us",
       "url": "https://open.spotify.com/track/5XQkLMeRBFzb8zq3Gkr23N"
+    },
+    {
+      "album": {
+        "name": "Access",
+        "url": "https://open.spotify.com/album/1J0Flvsg1CTQ7P547kgUGU"
+      },
+      "artists": [
+        {
+          "name": "Allday",
+          "url": "https://open.spotify.com/artist/2Ltr0s15RyvsjqWzSmiSRs"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151621,
+      "name": "Access",
+      "url": "https://open.spotify.com/track/0nRNCzIlq0GD3jzebBtaH9"
     },
     {
       "album": {
@@ -1967,7 +1985,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 197782,
       "name": "CALL ME INSTEAD (feat. Youngboy Never Broke Again & Robert Glasper)",
       "url": "https://open.spotify.com/track/69hFLxRnzg80zqVOfhTPwW"
@@ -7386,6 +7404,24 @@
     },
     {
       "album": {
+        "name": "i remember how your lips still taste",
+        "url": "https://open.spotify.com/album/7Mucc93sEq1ZytQqNZcGxP"
+      },
+      "artists": [
+        {
+          "name": "sadeyes",
+          "url": "https://open.spotify.com/artist/5fj4oi7qHDoklvnnYmSBl0"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144007,
+      "name": "i remember how your lips still taste",
+      "url": "https://open.spotify.com/track/2hqQJzu0QzkFfkqXJgDqoq"
+    },
+    {
+      "album": {
         "name": "i think you're really cool",
         "url": "https://open.spotify.com/album/5MwIUCqx7rO5LQpS3KOzW6"
       },
@@ -7593,7 +7629,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 195853,
       "name": "I'm Not Human",
       "url": "https://open.spotify.com/track/1LWlpRhu9jUkDK47xzUzu1"
@@ -8742,6 +8778,24 @@
     },
     {
       "album": {
+        "name": "Life to Lead",
+        "url": "https://open.spotify.com/album/1KC9dbr1GwAKuYGvsKJzHh"
+      },
+      "artists": [
+        {
+          "name": "iamjakehill",
+          "url": "https://open.spotify.com/artist/26JloX1vHxGGrGUVeMItFJ"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180709,
+      "name": "Life to Lead",
+      "url": "https://open.spotify.com/track/1FliYR7qMWWiN25EZbLOBa"
+    },
+    {
+      "album": {
         "name": "life waster",
         "url": "https://open.spotify.com/album/3v3XnEkDxBDcRQhXy02e2Q"
       },
@@ -8819,7 +8873,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 186699,
       "name": "LIKE THAT",
       "url": "https://open.spotify.com/track/0vMV2iLBNdLDB9ir2mOfdW"
@@ -17633,7 +17687,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 166971,
       "name": "YELLOW NOISE",
       "url": "https://open.spotify.com/track/41oClmFa1qJUCON9DD4SBg"

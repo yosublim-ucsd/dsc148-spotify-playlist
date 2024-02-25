@@ -1,12 +1,12 @@
 {
   "description": "Give thanks to the Lord, in all circumstances, with these songs about being grateful.",
-  "num_followers": 18994,
+  "num_followers": 18997,
   "original_name": "Give Thanks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNDM5YjU0MzM4OTYyYzA2ZjZmNzY2NzVhNWQ2Y2Y1YWZhZTg4Yjg5",
+  "snapshot_id": "MCw1YzJlOTU4MWNmNWZjNDRkYjA3NWYxNTUxYTFhYjQyZGFhOGY5ZGM1",
   "tracks": [
     {
       "added_at": "2022-11-23 15:01:23",
@@ -575,26 +575,6 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
-        "name": "Spirit Of David",
-        "url": "https://open.spotify.com/album/0pET03T6EolzBlC1Orb28h"
-      },
-      "artists": [
-        {
-          "name": "Fred Hammond",
-          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
-        },
-        {
-          "name": "Radical For Christ",
-          "url": "https://open.spotify.com/artist/5IasY9qIMVuTssFl6ECzKA"
-        }
-      ],
-      "duration_ms": 295306,
-      "name": "Oh Give Thanks (Psalm 136)",
-      "url": "https://open.spotify.com/track/78cTCjjaCUHCmFqaHwROcC"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
         "name": "Satisfied",
         "url": "https://open.spotify.com/album/5ZdSBocJrPHJxtTDGaM8ax"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 197280,
       "name": "Satisfied",
       "url": "https://open.spotify.com/track/2WobN5LbCC0ekXYoJkSQmM"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
+        "name": "Spirit Of David",
+        "url": "https://open.spotify.com/album/0pET03T6EolzBlC1Orb28h"
+      },
+      "artists": [
+        {
+          "name": "Fred Hammond",
+          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
+        },
+        {
+          "name": "Radical For Christ",
+          "url": "https://open.spotify.com/artist/5IasY9qIMVuTssFl6ECzKA"
+        }
+      ],
+      "duration_ms": 295306,
+      "name": "Oh Give Thanks (Psalm 136)",
+      "url": "https://open.spotify.com/track/78cTCjjaCUHCmFqaHwROcC"
     },
     {
       "added_at": "2022-11-23 15:01:23",
@@ -1011,26 +1011,6 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
-        "name": "Talk to God",
-        "url": "https://open.spotify.com/album/6I6rwc4chgp143l6TF5Jaf"
-      },
-      "artists": [
-        {
-          "name": "Nu Tone",
-          "url": "https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA"
-        },
-        {
-          "name": "N!x",
-          "url": "https://open.spotify.com/artist/5Lm6f1hGukpsGFbS2K5hKn"
-        }
-      ],
-      "duration_ms": 129882,
-      "name": "Joyful Blessing",
-      "url": "https://open.spotify.com/track/01yctBdQgHzDEXGrjV4CYn"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
         "name": "Thankful (Live)",
         "url": "https://open.spotify.com/album/2rywYmIP5UX9JbaQx2H5x8"
       },
@@ -1047,6 +1027,26 @@
       "duration_ms": 419000,
       "name": "Thankful - Live",
       "url": "https://open.spotify.com/track/62xo55xXPDuNekVHmERjc0"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
+        "name": "Talk to God",
+        "url": "https://open.spotify.com/album/6I6rwc4chgp143l6TF5Jaf"
+      },
+      "artists": [
+        {
+          "name": "Nu Tone",
+          "url": "https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA"
+        },
+        {
+          "name": "N!x",
+          "url": "https://open.spotify.com/artist/5Lm6f1hGukpsGFbS2K5hKn"
+        }
+      ],
+      "duration_ms": 129882,
+      "name": "Joyful Blessing",
+      "url": "https://open.spotify.com/track/01yctBdQgHzDEXGrjV4CYn"
     },
     {
       "added_at": "2022-11-23 15:01:23",

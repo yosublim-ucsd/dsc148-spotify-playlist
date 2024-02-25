@@ -1,12 +1,12 @@
 {
   "description": "alternative meets electronic Cover: ZHU & UPSAHL",
-  "num_followers": 476002,
+  "num_followers": 476031,
   "original_name": "Alternative Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZGIyMTllMGRjODlkMDA1ODBmODQ5MmE0MWQyYWM4NTRkYjRkZWU1",
+  "snapshot_id": "MCxmYzA5MzA2ZTEzZDE3YTAzNjcxNTQ2MTI4YTYwNjNhYjk5OWJmYjhl",
   "tracks": [
     {
       "added_at": "2024-02-16 05:00:00",
@@ -535,22 +535,18 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Self Destruction Mode",
-        "url": "https://open.spotify.com/album/2freNDhR5KMLOUVIKZExtd"
+        "name": "Be Quiet and Drive (Far Away) \u2013 Spotify Singles",
+        "url": "https://open.spotify.com/album/6jAdEVjL2cnwhhywkdmIzr"
       },
       "artists": [
         {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+          "name": "HEALTH",
+          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
         }
       ],
-      "duration_ms": 147836,
-      "name": "Self Destruction Mode",
-      "url": "https://open.spotify.com/track/05e1CoIPmXLy6aPBotZlTZ"
+      "duration_ms": 187189,
+      "name": "Be Quiet and Drive (Far Away) \u2013 Spotify Singles",
+      "url": "https://open.spotify.com/track/2SprbOeFdglaLgZoCcytuu"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -571,18 +567,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Be Quiet and Drive (Far Away) \u2013 Spotify Singles",
-        "url": "https://open.spotify.com/album/6jAdEVjL2cnwhhywkdmIzr"
+        "name": "Self Destruction Mode",
+        "url": "https://open.spotify.com/album/2freNDhR5KMLOUVIKZExtd"
       },
       "artists": [
         {
-          "name": "HEALTH",
-          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
         }
       ],
-      "duration_ms": 187189,
-      "name": "Be Quiet and Drive (Far Away) \u2013 Spotify Singles",
-      "url": "https://open.spotify.com/track/2SprbOeFdglaLgZoCcytuu"
+      "duration_ms": 147836,
+      "name": "Self Destruction Mode",
+      "url": "https://open.spotify.com/track/05e1CoIPmXLy6aPBotZlTZ"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Deep End",
-        "url": "https://open.spotify.com/album/15GDnzPjBsyWwHvQDxUtD1"
-      },
-      "artists": [
-        {
-          "name": "The Score",
-          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
-        }
-      ],
-      "duration_ms": 164106,
-      "name": "Deep End",
-      "url": "https://open.spotify.com/track/25xNO6EC6RPmBpBZOblOOW"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "Seize the Power",
         "url": "https://open.spotify.com/album/0nxvZWO6ybAd4OZ63cImZ7"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 161617,
       "name": "Seize the Power",
       "url": "https://open.spotify.com/track/4wD6EgZCok8Qb5Fs8jszYc"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Deep End",
+        "url": "https://open.spotify.com/album/15GDnzPjBsyWwHvQDxUtD1"
+      },
+      "artists": [
+        {
+          "name": "The Score",
+          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
+        }
+      ],
+      "duration_ms": 164106,
+      "name": "Deep End",
+      "url": "https://open.spotify.com/track/25xNO6EC6RPmBpBZOblOOW"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
+        "name": "the last laugh",
+        "url": "https://open.spotify.com/album/2Ph3wOGu6UwYZz5UqicIHL"
+      },
+      "artists": [
+        {
+          "name": "Ethan Bortnick",
+          "url": "https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY"
+        }
+      ],
+      "duration_ms": 196880,
+      "name": "deadly ever after",
+      "url": "https://open.spotify.com/track/1sGT7SHoxtjk18oSNSItBq"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
         "name": "lost cause// (with grandson)",
         "url": "https://open.spotify.com/album/30pzFBCamJulEWfJTco52K"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 171285,
       "name": "lost cause// (with grandson)",
       "url": "https://open.spotify.com/track/1zXoU7XohkF9xLMu5LHZ2G"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "the last laugh",
-        "url": "https://open.spotify.com/album/2Ph3wOGu6UwYZz5UqicIHL"
-      },
-      "artists": [
-        {
-          "name": "Ethan Bortnick",
-          "url": "https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY"
-        }
-      ],
-      "duration_ms": 196880,
-      "name": "deadly ever after",
-      "url": "https://open.spotify.com/track/1sGT7SHoxtjk18oSNSItBq"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Knockoff",
-        "url": "https://open.spotify.com/album/58BlShV5R0UwB7IRyZf96n"
-      },
-      "artists": [
-        {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
-        }
-      ],
-      "duration_ms": 184518,
-      "name": "Knockoff",
-      "url": "https://open.spotify.com/track/7Bc59U2nhCp608JlIEMEGl"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
         "name": "flowers",
         "url": "https://open.spotify.com/album/6dMHxPB6mErfnAiAXpj4CN"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 161309,
       "name": "flowers",
       "url": "https://open.spotify.com/track/1MXfyXi4OdU0WMhgZM6tLR"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Knockoff",
+        "url": "https://open.spotify.com/album/58BlShV5R0UwB7IRyZf96n"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "duration_ms": 184518,
+      "name": "Knockoff",
+      "url": "https://open.spotify.com/track/7Bc59U2nhCp608JlIEMEGl"
     },
     {
       "added_at": "2024-02-16 05:00:00",

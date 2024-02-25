@@ -1,7 +1,7 @@
 {
-  "2024-02-24": 17648,
+  "2024-02-25": 17657,
   "date_first_scraped": "2022-04-19",
-  "description": "New releases for the kids. Cover: The Laurie Berkner Band",
+  "description": "New releases for the kids. Cover: Teeny Tiny Stevies",
   "name": "New Kids Music",
   "tracks": [
     {
@@ -257,6 +257,24 @@
       "duration_ms": 141339,
       "name": "Baby Bot's ABC",
       "url": "https://open.spotify.com/track/0YnmWV2VolT9FbH7xIpEjR"
+    },
+    {
+      "album": {
+        "name": "Babyccino",
+        "url": "https://open.spotify.com/album/5HvoBFcJxSIvtko0eyj5AQ"
+      },
+      "artists": [
+        {
+          "name": "Teeny Tiny Stevies",
+          "url": "https://open.spotify.com/artist/6hhqb0X8Jas5jt96Okhjov"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132754,
+      "name": "Babyccino",
+      "url": "https://open.spotify.com/track/3awWk5jsMhGmft6kqI3D4M"
     },
     {
       "album": {
@@ -655,6 +673,24 @@
       "duration_ms": 243630,
       "name": "Can I Have This Dance",
       "url": "https://open.spotify.com/track/5NILdwF8RA28VxOeqPpEcg"
+    },
+    {
+      "album": {
+        "name": "Chugga Chugga Choo Choo",
+        "url": "https://open.spotify.com/album/06r7R53casc4BNYsEV8Epq"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Leavell",
+          "url": "https://open.spotify.com/artist/0t9vTFNjGsjQMtfrJqgZ13"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177738,
+      "name": "Chugga Chugga Choo Choo",
+      "url": "https://open.spotify.com/track/4Y727qcaRxUxCneiQb0UA9"
     },
     {
       "album": {
@@ -1209,6 +1245,24 @@
       "duration_ms": 174000,
       "name": "Fam Jam",
       "url": "https://open.spotify.com/track/58pVNlzDwrddprihIMBKCd"
+    },
+    {
+      "album": {
+        "name": "Fart Song",
+        "url": "https://open.spotify.com/album/4teeyA2k1hLK6tcnQMPuMl"
+      },
+      "artists": [
+        {
+          "name": "Cooltime",
+          "url": "https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173418,
+      "name": "Fart Song",
+      "url": "https://open.spotify.com/track/5CTwsrsloYkhGjGrYRhKSt"
     },
     {
       "album": {
@@ -2028,6 +2082,24 @@
     },
     {
       "album": {
+        "name": "I Am Curious",
+        "url": "https://open.spotify.com/album/2lsc3pmvo7vX0g9sMhaySP"
+      },
+      "artists": [
+        {
+          "name": "The Laurie Berkner Band",
+          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 47863,
+      "name": "I Am Curious",
+      "url": "https://open.spotify.com/track/16QAhMlpY6o4qoEQK6cucd"
+    },
+    {
+      "album": {
         "name": "I Am Kind",
         "url": "https://open.spotify.com/album/6Mo0j9rbKD3wEtdDPAVCUH"
       },
@@ -2141,6 +2213,24 @@
       "duration_ms": 188018,
       "name": "I'm Always Me",
       "url": "https://open.spotify.com/track/3706vBqhCe42c5ulhhE2S1"
+    },
+    {
+      "album": {
+        "name": "Life's Little Lessons: I've Got Confidence!",
+        "url": "https://open.spotify.com/album/4xUcAwvqvVzj1cO1Fi3wAX"
+      },
+      "artists": [
+        {
+          "name": "The Wonder Kids",
+          "url": "https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103154,
+      "name": "I've Got Confidence",
+      "url": "https://open.spotify.com/track/1HjkX5t970MWFJzvsjjWR0"
     },
     {
       "album": {
@@ -2936,6 +3026,24 @@
     },
     {
       "album": {
+        "name": "Monster High: Scare-adise Island",
+        "url": "https://open.spotify.com/album/4jzU8loJkOMWW6mXB3Grl8"
+      },
+      "artists": [
+        {
+          "name": "Monster High",
+          "url": "https://open.spotify.com/artist/43niWwvn8OX1HmJLXu4aLV"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129000,
+      "name": "Monster High: Scare-adise Island",
+      "url": "https://open.spotify.com/track/7uAfuShD01CCJXMq4cB97g"
+    },
+    {
+      "album": {
         "name": "Sing, Dance, Party!, Vol. 3",
         "url": "https://open.spotify.com/album/2Gj36iVtMF0q9wiPHtfkcK"
       },
@@ -3268,6 +3376,28 @@
     },
     {
       "album": {
+        "name": "Penny Penguin",
+        "url": "https://open.spotify.com/album/0clrCO57nGKreX05YrfNUr"
+      },
+      "artists": [
+        {
+          "name": "Raffi",
+          "url": "https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5"
+        },
+        {
+          "name": "Good Lovelies",
+          "url": "https://open.spotify.com/artist/3hh35eWuRs5ZqIUIKyne5S"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163066,
+      "name": "Penny Penguin",
+      "url": "https://open.spotify.com/track/1xsphqCCfteAdePiGGyMD2"
+    },
+    {
+      "album": {
         "name": "Ponderosa Bunchgrass and the Golden Rule",
         "url": "https://open.spotify.com/album/4KLLD8QW7MrYVJpMlObyg9"
       },
@@ -3283,6 +3413,24 @@
       "duration_ms": 172191,
       "name": "PJs All Day",
       "url": "https://open.spotify.com/track/4HVli0VNf13JmmgkC2p2x6"
+    },
+    {
+      "album": {
+        "name": "Play Outside",
+        "url": "https://open.spotify.com/album/0JWaUhGdMrPXGu1DdUq424"
+      },
+      "artists": [
+        {
+          "name": "Gracie's Corner",
+          "url": "https://open.spotify.com/artist/7liE451ZyJBxZ4pLKgIeEH"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151926,
+      "name": "Play Outside",
+      "url": "https://open.spotify.com/track/3t4STKA849plfaghVfM57x"
     },
     {
       "album": {

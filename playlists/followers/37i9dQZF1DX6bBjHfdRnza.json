@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 168659,
+  "2024-02-25": 168686,
   "date_first_scraped": "2021-12-21",
   "description": "The best new dance & electronic by independent artists and labels. Cover: Glimji. Artwork by Rewina Beshue.",
   "name": "Fresh Finds Dance",
@@ -9033,10 +9033,28 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 257799,
       "name": "Don't Hold Your Breath",
       "url": "https://open.spotify.com/track/07CQhHC2KUZ6eiRS48Kuqb"
+    },
+    {
+      "album": {
+        "name": "Don't Hold Your Breath",
+        "url": "https://open.spotify.com/album/40u7Dlr3nKXcNQzsv3mGvG"
+      },
+      "artists": [
+        {
+          "name": "Strath",
+          "url": "https://open.spotify.com/artist/6iM3BATbxNbAxuQ9YaaWFe"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257799,
+      "name": "Don't Hold Your Breath",
+      "url": "https://open.spotify.com/track/4iys0HYI3fyp5kkNBHOPt0"
     },
     {
       "album": {

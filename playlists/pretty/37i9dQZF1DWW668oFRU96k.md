@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Martin Garrix x Mesto x WILHELM
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,544 likes - 91 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,554 likes - 91 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 90 | [How Will I Know](https://open.spotify.com/track/5zRJAOEqm5XWg3QLKhCdE5) | [AKN](https://open.spotify.com/artist/34SNzLPgGONrLAInuTJJwW) | [How Will I Know](https://open.spotify.com/album/50yYH2HfFr3fITB46Fqh8m) | 2:24 |
 | 91 | [Take It Back](https://open.spotify.com/track/0JJCoj51pn4Hywk8aXujAr) | [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Take It Back](https://open.spotify.com/album/3jYN8ZuvgXap2QtNQgl4Td) | 3:31 |
 
-Snapshot ID: `MCw4ZWMzZTIwOWFjZTE5ZGE3NTliY2IwMTIwZGQ1M2NkY2ZlMzUyMzRj`
+Snapshot ID: `MCwxZWJmMzcwMTA3NzRlNmQwMzc2MDE3ZmM5NjkzNDUzMjE1MGZhZjRm`

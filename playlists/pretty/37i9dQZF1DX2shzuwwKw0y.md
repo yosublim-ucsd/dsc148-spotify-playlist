@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2shzuwwKw0y.md) - [plain]
 
 > Del rancho a la ciudad, las historias que pocos se atreven a contar\. Oscar Maydon, Grupo Marca Registrada en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,230,575 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,232,146 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2shzuwwKw0y.md) - [plain]
 | 74 | [Arriba Guasave \(Chapito Isidro\)](https://open.spotify.com/track/6dFr7IdkMiFq3vRE9tLVcx) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Arriba Guasave \(Chapito Isidro\)](https://open.spotify.com/album/0rn4s2Zltv41VZOcJe6hqn) | 2:51 |
 | 75 | [Estilo Especial \- En Vivo](https://open.spotify.com/track/5jSK8BMzUXMlcFCukMi7Wm) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [Estilo Especial \(En Vivo\)](https://open.spotify.com/album/29FmR3eNWdNhR0Yw368j6W) | 4:07 |
 
-Snapshot ID: `MCw2OWI5MDdlZjNlMjc0MWIxYmViYjQ3NGM5MzY1MGUxZTNiYjVjMzVj`
+Snapshot ID: `MCw2YzFhOTQxMDQ5NTdiZTY4ZWEwNWQzZGM4NDA4ODM3OGRmZGJjZGE5`

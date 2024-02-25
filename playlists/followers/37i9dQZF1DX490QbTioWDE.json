@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 684782,
+  "2024-02-25": 685198,
   "date_first_scraped": "2022-01-02",
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Emanero, La K'onga & David Bisbal.",
   "name": "100% Cuarteto",
@@ -79,6 +79,24 @@
       "duration_ms": 196970,
       "name": "A Cu\u00e1nto Me Qued\u00e9",
       "url": "https://open.spotify.com/track/6nSdCunUQiGAnSMbdvt5Mw"
+    },
+    {
+      "album": {
+        "name": "A la mitad",
+        "url": "https://open.spotify.com/album/1V0M7xCGLG8SEFZVf7OOTJ"
+      },
+      "artists": [
+        {
+          "name": "Rei",
+          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118083,
+      "name": "A la mitad",
+      "url": "https://open.spotify.com/track/65JceLr57WX9lbOg5DLc4x"
     },
     {
       "album": {
@@ -598,6 +616,24 @@
     },
     {
       "album": {
+        "name": "Atr\u00e9vete (en vivo Luna Park)",
+        "url": "https://open.spotify.com/album/665tokGbjQxYAhom7s5URu"
+      },
+      "artists": [
+        {
+          "name": "Banda XXI",
+          "url": "https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157707,
+      "name": "Atr\u00e9vete (en vivo Luna Park)",
+      "url": "https://open.spotify.com/track/2Gz74gAj6Zi8cIjjp2jmhG"
+    },
+    {
+      "album": {
         "name": "Aunque Sea En Otra Vida",
         "url": "https://open.spotify.com/album/2xzf1jeqi5Fe3FkP8EI2fo"
       },
@@ -617,6 +653,28 @@
       "duration_ms": 231509,
       "name": "Aunque Sea En Otra Vida",
       "url": "https://open.spotify.com/track/3vqqZWAdmThQFxMAiuEZzK"
+    },
+    {
+      "album": {
+        "name": "A\u00fan Te Quiero",
+        "url": "https://open.spotify.com/album/0QSc8pvSbZBkAJsGLSiB6h"
+      },
+      "artists": [
+        {
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
+        },
+        {
+          "name": "La banda de Carlitos",
+          "url": "https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232514,
+      "name": "A\u00fan Te Quiero - (En Vivo)",
+      "url": "https://open.spotify.com/track/3Pp8IwkIi9SNPrgRyC5G00"
     },
     {
       "album": {
@@ -1031,7 +1089,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-19",
+      "date_removed": null,
       "duration_ms": 233720,
       "name": "Como La Primera Vez",
       "url": "https://open.spotify.com/track/04yNy2x0uJKE3iWHlmNTX0"
@@ -1471,7 +1529,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 212578,
       "name": "De Adentro Pa Afuera",
       "url": "https://open.spotify.com/track/4a5xNJrtHEkulgAlzgv0Ox"
@@ -1561,7 +1619,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 387552,
       "name": "De Quien Es la Culpa / Como Lo Hacias Con El",
       "url": "https://open.spotify.com/track/0GWrX4qSvHTnpWLhHRRrZi"
@@ -2035,7 +2093,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 169496,
       "name": "Eran dos locos de amor",
       "url": "https://open.spotify.com/track/5ggd3IXmVD3GM7uHu81K4a"
@@ -3718,6 +3776,24 @@
     },
     {
       "album": {
+        "name": "Me Va A Extra\u00f1ar",
+        "url": "https://open.spotify.com/album/1LVDpGIeBgjUv5gFwEOXEM"
+      },
+      "artists": [
+        {
+          "name": "Cachumba",
+          "url": "https://open.spotify.com/artist/6uLWD7WMJKMyP1DD1eg96R"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291670,
+      "name": "Me Va A Extra\u00f1ar",
+      "url": "https://open.spotify.com/track/1kogc5zdTzBmXkRqPSPr8v"
+    },
+    {
+      "album": {
         "name": "Me Va Bien Sin Ti",
         "url": "https://open.spotify.com/album/6tZZNZsTNHmOSrtGtzCtDy"
       },
@@ -3961,6 +4037,24 @@
       "duration_ms": 191850,
       "name": "Mi Ex Tenia Razon",
       "url": "https://open.spotify.com/track/04G51FtYTnXq1FPYTDnYjL"
+    },
+    {
+      "album": {
+        "name": "Mi Otra Mitad",
+        "url": "https://open.spotify.com/album/5thIpx6IS6laCgbVeRsu0H"
+      },
+      "artists": [
+        {
+          "name": "Valentina",
+          "url": "https://open.spotify.com/artist/3oGhssL7pwYYY0J64HJHNR"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178943,
+      "name": "Mi Otra Mitad",
+      "url": "https://open.spotify.com/track/3OYiGZYV6ZoRrqN1mwr1Ie"
     },
     {
       "album": {
@@ -4805,7 +4899,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 277173,
       "name": "Olv\u00eddala",
       "url": "https://open.spotify.com/track/1l3xyA0rIKdin3AKyDyVDj"
@@ -5603,7 +5697,7 @@
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 336000,
       "name": "Qui\u00e9reme - Cuarteto",
       "url": "https://open.spotify.com/track/16TVpC45y7WRr5jRxyXWxc"
@@ -6347,7 +6441,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 152524,
       "name": "Te Felicito",
       "url": "https://open.spotify.com/track/2fFCL1cbivwt9v9jerCgmf"
@@ -6917,7 +7011,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 248533,
       "name": "Tu Fan - En Vivo",
       "url": "https://open.spotify.com/track/5gK1drOCGaWBXpRQnH1kIW"
@@ -7091,6 +7185,28 @@
       "duration_ms": 224243,
       "name": "T\u00fa Eres Ajena",
       "url": "https://open.spotify.com/track/39Bc87Xc5IEGvm4t1od0rm"
+    },
+    {
+      "album": {
+        "name": "T\u00fa Le Robaste",
+        "url": "https://open.spotify.com/album/20n9KSRmtbmFy6m1l91QLp"
+      },
+      "artists": [
+        {
+          "name": "Nico Mattioli",
+          "url": "https://open.spotify.com/artist/6WVAHhEnELJ0NI11yZu9j1"
+        },
+        {
+          "name": "Sabroso",
+          "url": "https://open.spotify.com/artist/4mKTJIb405EHH5GGfIhaeO"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236874,
+      "name": "T\u00fa Le Robaste",
+      "url": "https://open.spotify.com/track/1LtCzTsY906Ocolgqikh93"
     },
     {
       "album": {

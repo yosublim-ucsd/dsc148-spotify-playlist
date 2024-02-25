@@ -4,7 +4,7 @@
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Benny The Butcher
 
-604 songs - 1 day 8 hr 10 min
+605 songs - 1 day 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -357,6 +357,7 @@
 | [Movin Blocks](https://open.spotify.com/track/5NDrJK7uEOB2bML5q7d40x) | [Dibia$E](https://open.spotify.com/artist/21H0kHbS41lECHguMnjGpb) | [Quick Escape](https://open.spotify.com/album/2adxeISk06Yqt7RmLgKBVt) | 3:20 | 2022-04-01 | 2022-04-21 |
 | [Mr\. Miyagi](https://open.spotify.com/track/3kzsjnSBIQgWHrmdXpUQe2) | [Jayy Grams](https://open.spotify.com/artist/6q8DZBLBYqEUdKZl54sqGd), [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd) | [Mr\. Miyagi](https://open.spotify.com/album/6rErVqrK0NASHQsrQXgz0t) | 3:05 | 2021-09-03 | 2022-01-09 |
 | [Mtv Traps](https://open.spotify.com/track/2pGq43GlL6XqHIAck7uXh7) | [Doley Bernays](https://open.spotify.com/artist/16WMnfMmfhqT4XWD9bkPch) | [Mtv Traps](https://open.spotify.com/album/5HyV8cBawSYLoKIr4wKKjy) | 3:21 | 2022-06-10 | 2022-06-18 |
+| [Muggsy Bogues](https://open.spotify.com/track/17VsGeETmPijC3sjZq1lwu) | [Marlon Craft](https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt) | [Muggsy Bogues](https://open.spotify.com/album/476DYeSACCOnbGwVThJ82W) | 3:20 | 2024-02-23 |  |
 | [My America feat\. Oswin Benjamin](https://open.spotify.com/track/51XSIeofND5nmUeWTzD5oF) | [The LOX](https://open.spotify.com/artist/0A7g2YbCA9FlyZvAG6VmKP), [Oswin Benjamin](https://open.spotify.com/artist/31pIxyVveAaYS1O5K2lNEF) | [Living Off Xperience](https://open.spotify.com/album/1BZPE2vizQkj1ZmD68FqGr) | 6:13 | 2021-09-03 | 2022-04-17 |
 | [Myself \(feat\. DEVN\)](https://open.spotify.com/track/7mlOsqmNcuZK9c43W1p2hD) | [Lute](https://open.spotify.com/artist/75WcpJKWXBV3o3cfluWapK), [DEVN](https://open.spotify.com/artist/2io8fZCHgEd9nc6R9zoUOO) | [Myself \(feat\. DEVN\)](https://open.spotify.com/album/79Xrj6MlB0gQoXphSn8NFs) | 2:52 | 2021-09-03 | 2022-07-29 |
 | [NAOMI](https://open.spotify.com/track/2q4Vq5gPgWIHeAXEWKZELu) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [DRILL MUSIC IN ZION](https://open.spotify.com/album/0UennjqMxb1SAsaf7bsSwE) | 2:57 | 2022-06-24 | 2022-10-29 |
@@ -611,6 +612,6 @@
 | [yankee and the brave](https://open.spotify.com/track/3VBzdriLelfF32j5pvXNdV) | [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C) | [yankee and the brave \(ep\. 4\)](https://open.spotify.com/album/76XhX21MyQmBWSFeM4sz9j) | 2:26 | 2022-03-25 | 2022-04-19 |
 | [YES!](https://open.spotify.com/track/577J3qiLUuwmdz6r2GdgJM) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI) | [MICHAEL \(Deluxe\)](https://open.spotify.com/album/5dhb5ZpYSm2gH8OCxAKTn1) | 2:57 | 2023-09-15 |  |
 | [Young King](https://open.spotify.com/track/0e06xmdGFV4Rf796vIBCle) | [Malz Monday](https://open.spotify.com/artist/3qIFdbarxYx2moJbhM1pLy), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Young King](https://open.spotify.com/album/5y9QMoOaXExN62vtUI4lTf) | 3:01 | 2021-09-03 | 2022-07-25 |
-| [YUMA](https://open.spotify.com/track/6JFwqguM5QjpKrN6JLQdGA) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [YUMA](https://open.spotify.com/album/3TcrWRrzAn2ZvavYxznNcE) | 2:02 | 2024-01-19 |  |
+| [YUMA](https://open.spotify.com/track/6JFwqguM5QjpKrN6JLQdGA) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [YUMA](https://open.spotify.com/album/3TcrWRrzAn2ZvavYxznNcE) | 2:02 | 2024-01-19 | 2024-02-25 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

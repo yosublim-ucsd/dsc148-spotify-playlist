@@ -28534,7 +28534,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 209875,
       "name": "Let Me Love You",
       "url": "https://open.spotify.com/track/0xw0kgg29aQEEcP71zbDu8"
@@ -36255,6 +36255,24 @@
     },
     {
       "album": {
+        "name": "LADY AT THE FRONT",
+        "url": "https://open.spotify.com/album/2IVERtgRhUZQ44RqY4SXZS"
+      },
+      "artists": [
+        {
+          "name": "Grayson Pack",
+          "url": "https://open.spotify.com/artist/3z2EfMMoPcPGFvo98F6gTC"
+        }
+      ],
+      "date_added": "2024-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200121,
+      "name": "NOVEMBER 24",
+      "url": "https://open.spotify.com/track/0WaTfRCWcnBk0e3J1ka82Q"
+    },
+    {
+      "album": {
         "name": "Malasartes",
         "url": "https://open.spotify.com/album/7nqxH05BH05jw6uYhPEH3X"
       },
@@ -37394,7 +37412,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 254149,
       "name": "Open Wide",
       "url": "https://open.spotify.com/track/6YirAMBxccnZ5TA4U34nB4"
@@ -46731,6 +46749,32 @@
     },
     {
       "album": {
+        "name": "An\u00e1foras",
+        "url": "https://open.spotify.com/album/4V987WePrxIr8LCkoWVnJJ"
+      },
+      "artists": [
+        {
+          "name": "Sergi Barranco",
+          "url": "https://open.spotify.com/artist/7dOw0iVZzE0c3kzJcDrh5w"
+        },
+        {
+          "name": "Carmen Arr\u00e1ez",
+          "url": "https://open.spotify.com/artist/4wK8q4slC1jdxgiUejKwEY"
+        },
+        {
+          "name": "La Vecina",
+          "url": "https://open.spotify.com/artist/23d8X4AewGJySQDXyvk88W"
+        }
+      ],
+      "date_added": "2024-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160454,
+      "name": "Sue\u00f1o De Verano",
+      "url": "https://open.spotify.com/track/6qYXc6mGRhYy7yqKb5PzJt"
+    },
+    {
+      "album": {
         "name": "Sugar Daddy",
         "url": "https://open.spotify.com/album/71XTpdu6oVhIWfjHsr4hBQ"
       },
@@ -54362,7 +54406,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 180794,
       "name": "Wawa",
       "url": "https://open.spotify.com/track/1zSoe0kww3yTP9mZqfc8Ob"
@@ -56884,7 +56928,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-25",
       "duration_ms": 204631,
       "name": "You & I",
       "url": "https://open.spotify.com/track/5K1xsx2jnZTC6jbZLBBdYT"

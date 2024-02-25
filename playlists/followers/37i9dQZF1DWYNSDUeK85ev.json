@@ -1,5 +1,5 @@
 {
-  "2024-02-24": 651212,
+  "2024-02-25": 651417,
   "date_first_scraped": "2022-05-26",
   "description": "La m\u00fasica que prende la fiesta!",
   "name": "Joda",
@@ -101,7 +101,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 212031,
       "name": "2/Catorce",
       "url": "https://open.spotify.com/track/71R8HJxQk5qMiRstrlXN9t"
@@ -297,7 +297,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 164547,
       "name": "ADI\u00d3S (Live Version)",
       "url": "https://open.spotify.com/track/3jrn71DBQDQsenUUNspQwe"
@@ -511,6 +511,28 @@
       "duration_ms": 212924,
       "name": "Animal / RKT",
       "url": "https://open.spotify.com/track/5xzCKlriXroaSHd6qwlR2R"
+    },
+    {
+      "album": {
+        "name": "Anoche Te Llam\u00e9 Borracho",
+        "url": "https://open.spotify.com/album/0YHyAx4Fh3P6k81WyoLW2b"
+      },
+      "artists": [
+        {
+          "name": "Salastkbron",
+          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
+        },
+        {
+          "name": "KEVIN ROLDAN",
+          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145803,
+      "name": "Anoche Te Llam\u00e9 Borracho",
+      "url": "https://open.spotify.com/track/5LwCCgRzAkxyTEbb3NyTV0"
     },
     {
       "album": {
@@ -4319,6 +4341,32 @@
       "duration_ms": 183328,
       "name": "Le Gustan lo' Flaites",
       "url": "https://open.spotify.com/track/1smRP4zRit7A6ZDQXkFJWC"
+    },
+    {
+      "album": {
+        "name": "Le Gustan los Malditos 2",
+        "url": "https://open.spotify.com/album/3qeeVPwlCwNQ5XBolAl29Q"
+      },
+      "artists": [
+        {
+          "name": "Bayron Fire",
+          "url": "https://open.spotify.com/artist/2IAxPmQzx2NuutHe7ta7gs"
+        },
+        {
+          "name": "Jairo Vera",
+          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+        },
+        {
+          "name": "Jowell",
+          "url": "https://open.spotify.com/artist/6TASDj2ogOKQptnxgEvrcP"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321333,
+      "name": "Le Gustan los Malditos 2",
+      "url": "https://open.spotify.com/track/67wsg1YRYOkciaP0F2bMWY"
     },
     {
       "album": {
@@ -9606,6 +9654,48 @@
     },
     {
       "album": {
+        "name": "Vete",
+        "url": "https://open.spotify.com/album/6rVhWNRAJVEcNXYzfUUcUV"
+      },
+      "artists": [
+        {
+          "name": "Toma 2",
+          "url": "https://open.spotify.com/artist/4R8tEiRjYy5OkYzDM2u097"
+        },
+        {
+          "name": "Mak Donal",
+          "url": "https://open.spotify.com/artist/2TekzK4jw30Cc4jlAmcrVM"
+        },
+        {
+          "name": "Pusho DJ",
+          "url": "https://open.spotify.com/artist/2ZrxREKeIiJA6aQxa44ZzB"
+        },
+        {
+          "name": "El Adri Music",
+          "url": "https://open.spotify.com/artist/0meQtjreUHEscunPE1xSb5"
+        },
+        {
+          "name": "Franklin West",
+          "url": "https://open.spotify.com/artist/4SqoeumAkdV8hKWkYA7QxL"
+        },
+        {
+          "name": "L-Mike",
+          "url": "https://open.spotify.com/artist/4sGao19iYzZ6neg2IeGx0Q"
+        },
+        {
+          "name": "Thaiel Greco",
+          "url": "https://open.spotify.com/artist/6NvnYNIcpkhvelKBdd5tKi"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273627,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/0kAjXWzFQUTtgkfqqevSii"
+    },
+    {
+      "album": {
         "name": "Vida Gangster",
         "url": "https://open.spotify.com/album/0cWDantlEEkAwu9Z0gAiMX"
       },
@@ -9617,7 +9707,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-24",
       "duration_ms": 170058,
       "name": "Vida Gangster",
       "url": "https://open.spotify.com/track/4I4FFtKZLtyqw4he9pPtL7"

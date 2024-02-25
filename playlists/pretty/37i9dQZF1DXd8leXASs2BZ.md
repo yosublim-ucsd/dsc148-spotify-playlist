@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: 999dobby
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,942 likes - 100 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,951 likes - 100 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 99 | [Still Tippin' Freestyle](https://open.spotify.com/track/4TxrDVJY9ucVw0cbtvoRxG) | [Choppa Capone](https://open.spotify.com/artist/6qYsothwQkj7FyzDhCj3Ez), [Rommy Montana](https://open.spotify.com/artist/6EeUJT7hjgVaVKk0ucsmLM), [Montiago](https://open.spotify.com/artist/3oxrNkqeblaZHXBD2wG8pA), [San Quintin](https://open.spotify.com/artist/7MdYVhXrjFPMoDcsB7cKfz), [Huncho Bandz](https://open.spotify.com/artist/2LKdjCrOECn9Y7NTZLaHjB), [DaeDae3K](https://open.spotify.com/artist/7JzqdyzJay1cjXGP9A5xu6) | [Still Tippin' Freestyle](https://open.spotify.com/album/0WPd3eXS3isXu6krsVn0Vg) | 3:23 |
 | 100 | [Care free](https://open.spotify.com/track/7fAg5vKDq5jBOBpAoYExV6) | [SugLawd Familiar](https://open.spotify.com/artist/6xiT2jISLeWrj8udndxqW4), [Oichi](https://open.spotify.com/artist/6b9pWhWVeTIH0p0px5KnXn), [XF MENEW](https://open.spotify.com/artist/3YF6gmNp1tjvTJp4MkLoWH) | [Care free](https://open.spotify.com/album/0DsApSEvCkKXGQom5mqKJ0) | 2:44 |
 
-Snapshot ID: `MCwzZGYzZDM4ODAyMTkwZGQ0NTg1YzdlNmUyMWFmMzhlYmQyMzdjOTZj`
+Snapshot ID: `MCxlYzRkZDY0NGUzMWEyZjAwYzA0YjA3MDFlMjk4MmI5NTRkMzk3NGRh`
